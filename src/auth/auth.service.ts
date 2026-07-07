@@ -56,4 +56,11 @@ export class AuthService {
       access_token: token,
     };
   }
+
+  async logout(sid: string) {
+    await this.prisma.sesion.deleteMany({
+      where: { token: sid },
+    });
+    return { mensaje: 'Sesión cerrada correctamente' };
+  }
 }

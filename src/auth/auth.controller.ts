@@ -17,4 +17,10 @@ export class AuthController {
   verPerfil(@Request() req) {
     return req.user;
   }
+
+  @UseGuards(JwtAuthGuard)
+  @Post('logout')
+  logout(@Request() req) {
+    return this.authService.logout(req.user.sid);
+  }
 }
