@@ -23,6 +23,7 @@ model Usuario {
   id           Int      @id @default(autoincrement())
   nombre       String
   email        String   @unique
+  sesiones  Sesion[]
   password     String
   nivelAcceso  String   @default("gratuito")
   emailVerificado Boolean @default(false)
@@ -31,3 +32,12 @@ model Usuario {
   createdAt    DateTime @default(now())
   updatedAt    DateTime @updatedAt
 }
+
+model Sesion {
+  id        Int      @id @default(autoincrement())
+  usuarioId Int
+  usuario   Usuario  @relation(fields: [usuarioId], references: [id])
+  token     String   @unique
+  createdAt DateTime @default(now())
+}
+

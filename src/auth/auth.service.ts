@@ -1,7 +1,8 @@
-import { Injectable, UnauthorizedException } from '@nestjs/common';
+import { Injectable, UnauthorizedException, ForbiddenException } from '@nestjs/common';
 import { JwtService } from '@nestjs/jwt';
 import { PrismaService } from '../prisma/prisma.service';
 import * as bcrypt from 'bcrypt';
+import { randomUUID } from 'crypto';
 
 @Injectable()
 export class AuthService {
@@ -25,7 +26,28 @@ export class AuthService {
       throw new UnauthorizedException('Correo o contraseña incorrectos');
     }
 
-    const payload = { sub: usuario.id, email: usuario.email };
+    const sesionesActivas = await this.prisma.sesion.count({
+      where: { usuarioId: usuario.id },
+    });
+
+    const LIMITE_DISPOSITIVOS = 2;
+
+    if (sesionesActivas >= LIMITE_DISPOSITIVOS) {
+      throw new ForbiddenException(
+        'Alcanzaste el máximo de dispositivos. Cierra sesión en otro dispositivo para continuar.',
+      );
+    }
+
+    const numeroDeSerie = randomUUID();
+
+    await this.prisma.sesion.create({
+      data: {
+        usuarioId: usuario.id,
+        token: numeroDeSerie,
+      },
+    });
+
+    const payload = { sub: usuario.id, email: usuario.email, sid: numeroDeSerie };
     const token = await this.jwtService.signAsync(payload);
 
     const { password: _, ...usuarioSinPassword } = usuario;
