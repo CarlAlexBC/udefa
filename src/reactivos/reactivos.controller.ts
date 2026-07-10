@@ -1,4 +1,4 @@
-import { Controller, Post, Get, Patch, Delete, Body, Param } from '@nestjs/common';
+import { Controller, Post, Get, Delete, Body, Param } from '@nestjs/common';
 import { ReactivosService } from './reactivos.service';
 
 @Controller('reactivos')
@@ -6,8 +6,8 @@ export class ReactivosController {
   constructor(private reactivosService: ReactivosService) {}
 
   @Post()
-  crear(@Body() datos: { bloqueId: number; enunciado: string; opciones: any; tipo: string; respuestaCorrecta: string; explicacion?: string; tema?: string; imagenUrl?: string }) {
-return this.reactivosService.crear(
+  crear(@Body() datos: { bloqueId: number; enunciado: string; opciones: any; tipo: string; respuestaCorrecta?: string; explicacion?: string; tema?: string; imagenUrl?: string }) {
+    return this.reactivosService.crear(
       datos.bloqueId,
       datos.enunciado,
       datos.opciones,
@@ -16,7 +16,13 @@ return this.reactivosService.crear(
       datos.explicacion,
       datos.tema,
       datos.imagenUrl,
-    );  }
+    );
+  }
+
+  @Post('masivo')
+  crearMuchos(@Body() reactivos: any[]) {
+    return this.reactivosService.crearMuchos(reactivos);
+  }
 
   @Get()
   obtenerTodos() {

@@ -38,4 +38,11 @@ export class ReactivosService {
       where: { id },
     });
   }
+
+  async crearMuchos(reactivos: any[]) {
+    return this.prisma.reactivo.createMany({
+      data: reactivos,
+    });
+  }
+
 }
