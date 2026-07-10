@@ -15,6 +15,13 @@ export class ExamenesController {
     return this.examenesService.obtenerTodos();
   }
 
+    @Get(':id/armar')
+  armarExamen(
+    @Param('id') id: string) {
+    return this.examenesService.armarExamen(Number(id));
+  }
+
+
   @Patch(':id')
   actualizar(
     @Param('id') id: string,

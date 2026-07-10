@@ -37,4 +37,30 @@ export class ExamenesService {
       where: { id },
     });
   }
+
+async armarExamen(examenId: number) {
+    const examen = await this.prisma.examen.findUnique({
+      where: { id: examenId },
+      include: {
+        bloques: {
+          orderBy: { orden: 'asc' },
+          include: {
+            reactivos: {
+              select: {
+                id: true,
+                enunciado: true,
+                opciones: true,
+                tipo: true,
+                tema: true,
+                imagenUrl: true,
+              },
+            },
+          },
+        },
+      },
+    });
+
+    return examen;
+  }
+
 }
