@@ -1,0 +1,20 @@
+[
+  {
+    "bloqueId": 5,
+    "enunciado": "¿Qué figura completa la sucesión?",
+    "imagenUrl": "https://res.cloudinary.com/TU-CUENTA/image/upload/v1/udefa/abstracto/reactivo_01.png",
+    "opciones": ["A", "B", "C", "D"],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "C",
+    "tema": "razonamiento_abstracto"
+  },
+  {
+    "bloqueId": 5,
+    "enunciado": "¿Qué figura completa la sucesión?",
+    "imagenUrl": "https://res.cloudinary.com/TU-CUENTA/image/upload/v1/udefa/abstracto/reactivo_02.png",
+    "opciones": ["A", "B", "C", "D"],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "A",
+    "tema": "razonamiento_abstracto"
+  }
+]

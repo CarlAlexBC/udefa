@@ -26,10 +26,22 @@ banco inicial del examen psicométrico. Se generaron a partir del material real
 
 ## Pendientes
 
-- **Bloque 5 · Razonamiento Abstracto** — sus reactivos son imágenes (sucesión
-  de figuras geométricas). Se cargarán cuando se suban las imágenes a Cloudinary
-  y se tengan las URLs. Formato esperado: `enunciado` con `imagenUrl` de la
-  sucesión, y `opciones` como arreglo de URLs de las 4 figuras candidatas.
+- **Bloque 5 · Razonamiento Abstracto** — sus reactivos son imágenes capturadas
+  de material externo (videos y libros de preparación). Ver plantilla en
+  `reactivos_bloque5_abstracto.template.json`. El diseño acordado:
+  - **Una imagen composita por reactivo** que contiene la sucesión + las 4
+    opciones visuales dentro. Se sube a Cloudinary.
+  - Las **opciones** en el JSON son solo las letras `["A", "B", "C", "D"]` —
+    el frontend renderiza 4 botones bajo la imagen; el aspirante hace click
+    en la letra que corresponde a la figura que eligió.
+  - **`respuestaCorrecta`** es la letra (`"A"` / `"B"` / `"C"` / `"D"`), no una
+    URL. El shuffle de opciones **no aplica** en este bloque (las posiciones
+    están fijas en la imagen). La variedad entre aspirantes viene del muestreo
+    aleatorio de reactivos que hace `armarExamen`.
+  - **Cloudinary** (cuenta gratis en cloudinary.com) sirve las imágenes con
+    optimización automática — `w_800,q_auto,f_auto` en la URL basta para
+    reducir de MB a decenas de KB por reactivo sin pérdida visible.
+
 - **Auditoría de calidad** — algunos reactivos del material original tienen
   patrones ambiguos o respuestas correctas fuera de las opciones. Se aplicaron
   correcciones puntuales en el JSON pero no en los docx originales. Ver
