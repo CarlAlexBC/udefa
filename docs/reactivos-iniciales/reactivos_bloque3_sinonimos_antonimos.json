@@ -1,0 +1,2277 @@
+[
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de ÍNTEGRO",
+    "opciones": [
+      "Cortés",
+      "Honesto",
+      "Prudente",
+      "Reservado"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Honesto",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de DISCIPLINA",
+    "opciones": [
+      "Indisciplina",
+      "Puntualidad",
+      "Orden",
+      "Constancia"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Indisciplina",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de LEALTAD",
+    "opciones": [
+      "Fidelidad",
+      "Respeto",
+      "Justicia",
+      "Prudencia"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Fidelidad",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de VALIENTE",
+    "opciones": [
+      "Sereno",
+      "Temerario",
+      "Cobarde",
+      "Prudente"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Cobarde",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de HONRADEZ",
+    "opciones": [
+      "Integridad",
+      "Generosidad",
+      "Amabilidad",
+      "Cortesía"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Integridad",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de OBEDIENCIA",
+    "opciones": [
+      "Respeto",
+      "Cooperación",
+      "Sumisión",
+      "Desobediencia"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Desobediencia",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de RESPETO",
+    "opciones": [
+      "Admiración",
+      "Tolerancia",
+      "Prudencia",
+      "Consideración"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Consideración",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de ORDENADO",
+    "opciones": [
+      "Organizado",
+      "Descuidado",
+      "Metódico",
+      "Responsable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Descuidado",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de CAPAZ",
+    "opciones": [
+      "Inteligente",
+      "Ágil",
+      "Fuerte",
+      "Competente"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Competente",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de SERENO",
+    "opciones": [
+      "Silencioso",
+      "Inquieto",
+      "Reservado",
+      "Prudente"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Inquieto",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de PERSEVERAR",
+    "opciones": [
+      "Caminar",
+      "Continuar",
+      "Intentar",
+      "Esperar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Continuar",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de RESPONSABLE",
+    "opciones": [
+      "Honrado",
+      "Atento",
+      "Prudente",
+      "Irresponsable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Irresponsable",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de SOLIDARIO",
+    "opciones": [
+      "Prudente",
+      "Cooperativo",
+      "Paciente",
+      "Humilde"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Cooperativo",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de TRANSPARENTE",
+    "opciones": [
+      "Visible",
+      "Oculto",
+      "Claro",
+      "Evidente"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Oculto",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de PRUDENTE",
+    "opciones": [
+      "Inteligente",
+      "Reservado",
+      "Cauteloso",
+      "Moderado"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Cauteloso",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de HONESTO",
+    "opciones": [
+      "Deshonesto",
+      "Prudente",
+      "Leal",
+      "Cortés"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Deshonesto",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de COMPROMISO",
+    "opciones": [
+      "Dedicación",
+      "Interés",
+      "Obligación",
+      "Esfuerzo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Dedicación",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de CONFIABLE",
+    "opciones": [
+      "Seguro",
+      "Leal",
+      "Inseguro",
+      "Responsable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Inseguro",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de ÉTICO",
+    "opciones": [
+      "Justo",
+      "Educado",
+      "Correcto",
+      "Moral"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Moral",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de PERMITIR",
+    "opciones": [
+      "Autorizar",
+      "Facilitar",
+      "Prohibir",
+      "Aceptar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Prohibir",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de FORTALEZA",
+    "opciones": [
+      "Poder",
+      "Resistencia",
+      "Valentía",
+      "Energía"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Resistencia",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de PUNTUAL",
+    "opciones": [
+      "Anticipado",
+      "Constante",
+      "Preciso",
+      "Tardío"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Tardío",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de AUTORIDAD",
+    "opciones": [
+      "Mando",
+      "Jerarquía",
+      "Influencia",
+      "Dominio"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Mando",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de FLEXIBLE",
+    "opciones": [
+      "Firme",
+      "Rígido",
+      "Prudente",
+      "Adaptable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Rígido",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de VOCACIÓN",
+    "opciones": [
+      "Experiencia",
+      "Talento",
+      "Inclinación",
+      "Aptitud"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Inclinación",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Disciplina",
+    "opciones": [
+      "Orden",
+      "Constancia",
+      "Método",
+      "Obediencia"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Orden",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Confiable",
+    "opciones": [
+      "Dudoso",
+      "Desleal",
+      "Inseguro",
+      "Traicionero"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Traicionero",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Esfuerzo",
+    "opciones": [
+      "Intento",
+      "Trabajo",
+      "Empeño",
+      "Sacrificio"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Empeño",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Justo",
+    "opciones": [
+      "Arbitrario",
+      "Cruel",
+      "Parcial",
+      "Injusto"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Injusto",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Compromiso",
+    "opciones": [
+      "Promesa",
+      "Obligación",
+      "Acuerdo",
+      "Responsabilidad"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Responsabilidad",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Pacífico",
+    "opciones": [
+      "Agresivo",
+      "Brusco",
+      "Impulsivo",
+      "Violento"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Violento",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Respetar",
+    "opciones": [
+      "Valorar",
+      "Admirar",
+      "Considerar",
+      "Honrar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Considerar",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Seguro",
+    "opciones": [
+      "Incierto",
+      "Vulnerable",
+      "Riesgoso",
+      "Temeroso"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Incierto",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Perseverancia",
+    "opciones": [
+      "Persistencia",
+      "Constancia",
+      "Paciencia",
+      "Resistencia"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Constancia",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Íntegro",
+    "opciones": [
+      "Inmoral",
+      "Corrupto",
+      "Deshonesto",
+      "Falso"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Corrupto",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Criterio",
+    "opciones": [
+      "Pensamiento",
+      "Decisión",
+      "Opinión",
+      "Juicio"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Juicio",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Resiliente",
+    "opciones": [
+      "Quebradizo",
+      "Vulnerable",
+      "Frágil",
+      "Débil"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Frágil",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Cooperar",
+    "opciones": [
+      "Participar",
+      "Servir",
+      "Ayudar",
+      "Colaborar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Colaborar",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Objetivo",
+    "opciones": [
+      "Subjetivo",
+      "Parcial",
+      "Tendencioso",
+      "Personal"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Subjetivo",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Determinado",
+    "opciones": [
+      "Firme",
+      "Resuelto",
+      "Convencido",
+      "Seguro"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Resuelto",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Moderado",
+    "opciones": [
+      "Excesivo",
+      "Extremista",
+      "Radical",
+      "Intenso"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Excesivo",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Probidad",
+    "opciones": [
+      "Integridad",
+      "Rectitud",
+      "Honestidad",
+      "Moralidad"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Integridad",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Imparcial",
+    "opciones": [
+      "Arbitrario",
+      "Parcial",
+      "Tendencioso",
+      "Subjetivo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Parcial",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Precepto",
+    "opciones": [
+      "Regla",
+      "Mandato",
+      "Norma",
+      "Principio"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Norma",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Lícito",
+    "opciones": [
+      "Ilegal",
+      "Incorrecto",
+      "Prohibido",
+      "Inmoral"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Ilegal",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inquebrantable",
+    "opciones": [
+      "Indestructible",
+      "Sólido",
+      "Inflexible",
+      "Firme"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Indestructible",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Pragmático",
+    "opciones": [
+      "Idealista",
+      "Fantasioso",
+      "Iluso",
+      "Irreal"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Idealista",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Abnegación",
+    "opciones": [
+      "Entrega",
+      "Generosidad",
+      "Desprendimiento",
+      "Sacrificio"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Desprendimiento",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Mesura",
+    "opciones": [
+      "Arrebato",
+      "Exceso",
+      "Impulsividad",
+      "Descontrol"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Exceso",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inexorable",
+    "opciones": [
+      "Implacable",
+      "Inflexible",
+      "Estricto",
+      "Severo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Implacable",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Tenaz",
+    "opciones": [
+      "Obstinado",
+      "Persistente",
+      "Firme",
+      "Constante"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Persistente",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Generoso",
+    "opciones": [
+      "Avaro",
+      "Codicioso",
+      "Egoísta",
+      "Mezquino"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Avaro",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Diligente",
+    "opciones": [
+      "Eficiente",
+      "Activo",
+      "Laborioso",
+      "Aplicado"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Laborioso",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Sincero",
+    "opciones": [
+      "Hipócrita",
+      "Falso",
+      "Deshonesto",
+      "Engañoso"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Falso",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Prudente",
+    "opciones": [
+      "Reservado",
+      "Sensato",
+      "Moderado",
+      "Cauto"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Cauto",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Persistir",
+    "opciones": [
+      "Desistir",
+      "Ceder",
+      "Renunciar",
+      "Abandonar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Desistir",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Solidario",
+    "opciones": [
+      "Colaborador",
+      "Cooperativo",
+      "Comprensivo",
+      "Altruista"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Altruista",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Sereno",
+    "opciones": [
+      "Ansioso",
+      "Irritable",
+      "Inquieto",
+      "Alterado"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Alterado",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Probo",
+    "opciones": [
+      "Correcto",
+      "Honrado",
+      "Virtuoso",
+      "Recto"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Honrado",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Venal",
+    "opciones": [
+      "Íntegro",
+      "Recto",
+      "Honesto",
+      "Incorruptible"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Incorruptible",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Taxativo",
+    "opciones": [
+      "Terminante",
+      "Preciso",
+      "Absoluto",
+      "Estricto"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Terminante",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Beligerante",
+    "opciones": [
+      "Prudente",
+      "Conciliador",
+      "Sereno",
+      "Pacífico"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Pacífico",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Coadyuvar",
+    "opciones": [
+      "Favorecer",
+      "Cooperar",
+      "Participar",
+      "Auxiliar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Cooperar",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Falaz",
+    "opciones": [
+      "Verdadero",
+      "Veraz",
+      "Honesto",
+      "Auténtico"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Veraz",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Dirimir",
+    "opciones": [
+      "Determinar",
+      "Decidir",
+      "Resolver",
+      "Aclarar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Resolver",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Parsimonioso",
+    "opciones": [
+      "Impaciente",
+      "Precipitado",
+      "Acelerado",
+      "Veloz"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Precipitado",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inalienable",
+    "opciones": [
+      "Permanente",
+      "Irrenunciable",
+      "Imprescriptible",
+      "Intransferible"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Irrenunciable",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Ineludible",
+    "opciones": [
+      "Eludible",
+      "Evitable",
+      "Prescindible",
+      "Opcional"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Eludible",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Estoico",
+    "opciones": [
+      "Impasible",
+      "Sereno",
+      "Firme",
+      "Resistente"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Impasible",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Conciso",
+    "opciones": [
+      "Difuso",
+      "Extenso",
+      "Amplio",
+      "Verboso"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Verboso",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Dirimente",
+    "opciones": [
+      "Definitivo",
+      "Determinante",
+      "Decisivo",
+      "Resolutivo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Decisivo",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Taciturno",
+    "opciones": [
+      "Comunicativo",
+      "Alegre",
+      "Expresivo",
+      "Sociable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Comunicativo",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Perentorio",
+    "opciones": [
+      "Obligatorio",
+      "Urgente",
+      "Terminante",
+      "Inmediato"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Terminante",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Incólume",
+    "opciones": [
+      "Lesionado",
+      "Vulnerado",
+      "Herido",
+      "Dañado"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Dañado",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Ecuanimidad",
+    "opciones": [
+      "Justicia",
+      "Prudencia",
+      "Imparcialidad",
+      "Objetividad"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Imparcialidad",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Íntegro",
+    "opciones": [
+      "Honrado",
+      "Moral",
+      "Recto",
+      "Completo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Recto",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Imparcial",
+    "opciones": [
+      "Parcial",
+      "Subjetivo",
+      "Tendencioso",
+      "Arbitrario"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Parcial",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Vehemente",
+    "opciones": [
+      "Enérgico",
+      "Apasionado",
+      "Intenso",
+      "Impetuoso"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Apasionado",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Austero",
+    "opciones": [
+      "Derrochador",
+      "Ostentoso",
+      "Excesivo",
+      "Lujoso"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Ostentoso",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Perspicaz",
+    "opciones": [
+      "Inteligente",
+      "Observador",
+      "Astuto",
+      "Sagaz"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Sagaz",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Concordia",
+    "opciones": [
+      "Enemistad",
+      "Discordia",
+      "Conflicto",
+      "Rivalidad"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Discordia",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Probidad",
+    "opciones": [
+      "Lealtad",
+      "Honestidad",
+      "Integridad",
+      "Moralidad"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Honestidad",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Mesurado",
+    "opciones": [
+      "Exagerado",
+      "Impulsivo",
+      "Descontrolado",
+      "Violento"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Impulsivo",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inquebrantable",
+    "opciones": [
+      "Firme",
+      "Indestructible",
+      "Constante",
+      "Invencible"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Firme",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Condescendiente",
+    "opciones": [
+      "Severo",
+      "Exigente",
+      "Inflexible",
+      "Estricto"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Inflexible",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Aducir",
+    "opciones": [
+      "Alegar",
+      "Demostrar",
+      "Fundamentar",
+      "Exponer"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Alegar",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Lícito",
+    "opciones": [
+      "Incorrecto",
+      "Ilícito",
+      "Ilegal",
+      "Delictivo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Ilícito",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Disuadir",
+    "opciones": [
+      "Persuadir",
+      "Desalentar",
+      "Convencer",
+      "Evitar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Desalentar",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Frugal",
+    "opciones": [
+      "Excesivo",
+      "Abundante",
+      "Opulento",
+      "Derrochador"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Derrochador",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Asertivo",
+    "opciones": [
+      "Seguro",
+      "Claro",
+      "Directo",
+      "Expresivo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Seguro",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Pragmático",
+    "opciones": [
+      "Utópico",
+      "Imaginativo",
+      "Teórico",
+      "Idealista"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Idealista",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Vindicar",
+    "opciones": [
+      "Reivindicar",
+      "Defender",
+      "Justificar",
+      "Restituir"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Reivindicar",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Inmutable",
+    "opciones": [
+      "Flexible",
+      "Inestable",
+      "Variable",
+      "Cambiante"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Cambiante",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Lacónico",
+    "opciones": [
+      "Conciso",
+      "Escueto",
+      "Breve",
+      "Preciso"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Escueto",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Ecuánime",
+    "opciones": [
+      "Arbitrario",
+      "Subjetivo",
+      "Injusto",
+      "Parcial"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Parcial",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Conminar",
+    "opciones": [
+      "Intimidar",
+      "Advertir",
+      "Exhortar",
+      "Requerir"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Requerir",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Inmarcesible",
+    "opciones": [
+      "Marchito",
+      "Perecedero",
+      "Caducable",
+      "Efímero"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Perecedero",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Eximir",
+    "opciones": [
+      "Dispensar",
+      "Perdonar",
+      "Liberar",
+      "Exceptuar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Dispensar",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Preclaro",
+    "opciones": [
+      "Oscuro",
+      "Mediocre",
+      "Común",
+      "Desconocido"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Oscuro",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inexorable",
+    "opciones": [
+      "Inflexible",
+      "Implacable",
+      "Severo",
+      "Rígido"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Implacable",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Incólume",
+    "opciones": [
+      "Inmutable",
+      "Invulnerable",
+      "Íntegro",
+      "Ileso"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Ileso",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Asequible",
+    "opciones": [
+      "Limitado",
+      "Costoso",
+      "Inalcanzable",
+      "Difícil"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Inalcanzable",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Apático",
+    "opciones": [
+      "Desinteresado",
+      "Indiferente",
+      "Tranquilo",
+      "Pasivo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Indiferente",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Leal",
+    "opciones": [
+      "Traicionero",
+      "Deshonesto",
+      "Inconstante",
+      "Inseguro"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Traicionero",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Dirimir",
+    "opciones": [
+      "Examinar",
+      "Resolver",
+      "Deliberar",
+      "Analizar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Resolver",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Benigno",
+    "opciones": [
+      "Estricto",
+      "Severo",
+      "Cruel",
+      "Áspero"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Cruel",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inherente",
+    "opciones": [
+      "Propio",
+      "Intrínseco",
+      "Permanente",
+      "Esencial"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Intrínseco",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Fortuito",
+    "opciones": [
+      "Planeado",
+      "Previsto",
+      "Deliberado",
+      "Intencional"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Intencional",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Axioma",
+    "opciones": [
+      "Regla",
+      "Postulado",
+      "Norma",
+      "Principio"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Postulado",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Falaz",
+    "opciones": [
+      "Evidente",
+      "Veraz",
+      "Objetivo",
+      "Honesto"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Veraz",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Coerción",
+    "opciones": [
+      "Coacción",
+      "Presión",
+      "Obligación",
+      "Restricción"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Coacción",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Parquedad",
+    "opciones": [
+      "Expansión",
+      "Verbosidad",
+      "Elocuencia",
+      "Locuacidad"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Locuacidad",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Disentir",
+    "opciones": [
+      "Rechazar",
+      "Divergir",
+      "Contradecir",
+      "Oponerse"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Divergir",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Taxativo",
+    "opciones": [
+      "Opcional",
+      "Flexible",
+      "Ambiguo",
+      "Indefinido"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Flexible",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Venal",
+    "opciones": [
+      "Deshonesto",
+      "Sobornable",
+      "Corruptible",
+      "Interesado"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Corruptible",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Parsimonioso",
+    "opciones": [
+      "Acelerado",
+      "Precipitado",
+      "Apresurado",
+      "Impulsivo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Precipitado",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Conspicuo",
+    "opciones": [
+      "Ilustre",
+      "Notable",
+      "Destacado",
+      "Eminente"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Eminente",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Probo",
+    "opciones": [
+      "Corrupto",
+      "Deshonesto",
+      "Inmoral",
+      "Venal"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Venal",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Perentorio",
+    "opciones": [
+      "Terminante",
+      "Imperativo",
+      "Urgente",
+      "Inaplazable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Terminante",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Inmutable",
+    "opciones": [
+      "Mutable",
+      "Cambiante",
+      "Variable",
+      "Alterable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Mutable",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Incurrir",
+    "opciones": [
+      "Cometer",
+      "Realizar",
+      "Ejecutar",
+      "Provocar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Cometer",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Prístino",
+    "opciones": [
+      "Corrompido",
+      "Impuro",
+      "Deteriorado",
+      "Alterado"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Deteriorado",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Elucidar",
+    "opciones": [
+      "Interpretar",
+      "Explicar",
+      "Resolver",
+      "Esclarecer"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Esclarecer",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Ineluctable",
+    "opciones": [
+      "Eludible",
+      "Opcional",
+      "Evitable",
+      "Superable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Eludible",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inexorable",
+    "opciones": [
+      "Inflexible",
+      "Implacable",
+      "Terminante",
+      "Riguroso"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Implacable",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inquirir",
+    "opciones": [
+      "Investigar",
+      "Cuestionar",
+      "Indagar",
+      "Examinar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Indagar",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Expedito",
+    "opciones": [
+      "Lento",
+      "Demorado",
+      "Complicado",
+      "Obstaculizado"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Obstaculizado",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Exhortar",
+    "opciones": [
+      "Instar",
+      "Recomendar",
+      "Persuadir",
+      "Aconsejar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Instar",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Laxo",
+    "opciones": [
+      "Rígido",
+      "Exigente",
+      "Severo",
+      "Estricto"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Estricto",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Dilucidar",
+    "opciones": [
+      "Descubrir",
+      "Resolver",
+      "Explicar",
+      "Esclarecer"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Esclarecer",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Efímero",
+    "opciones": [
+      "Perdurable",
+      "Eterno",
+      "Permanente",
+      "Inmutable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Eterno",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Conciso",
+    "opciones": [
+      "Escueto",
+      "Lacónico",
+      "Breve",
+      "Preciso"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Lacónico",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Taciturno",
+    "opciones": [
+      "Alegre",
+      "Comunicativo",
+      "Expresivo",
+      "Sociable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Expresivo",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Infranqueable",
+    "opciones": [
+      "Inexpugnable",
+      "Impenetrable",
+      "Insuperable",
+      "Inaccesible"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Impenetrable",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Verosímil",
+    "opciones": [
+      "Dudoso",
+      "Inverosímil",
+      "Falso",
+      "Increíble"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Inverosímil",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Apremiante",
+    "opciones": [
+      "Urgente",
+      "Necesario",
+      "Imperioso",
+      "Prioritario"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Imperioso",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Parsimonia",
+    "opciones": [
+      "Impulsividad",
+      "Celeridad",
+      "Premura",
+      "Rapidez"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Premura",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Discernir",
+    "opciones": [
+      "Interpretar",
+      "Distinguir",
+      "Analizar",
+      "Comprender"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Distinguir",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Venial",
+    "opciones": [
+      "Delictivo",
+      "Grave",
+      "Imperdonable",
+      "Inexcusable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Grave",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Pragmático",
+    "opciones": [
+      "Funcional",
+      "Práctico",
+      "Realista",
+      "Objetivo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Práctico",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Inextricable",
+    "opciones": [
+      "Desenredado",
+      "Sencillo",
+      "Comprensible",
+      "Claro"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Desenredado",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Coacción",
+    "opciones": [
+      "Obligación",
+      "Imposición",
+      "Coerción",
+      "Presión"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Coerción",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Beligerante",
+    "opciones": [
+      "Conciliador",
+      "Prudente",
+      "Pacífico",
+      "Moderado"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Conciliador",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inmutable",
+    "opciones": [
+      "Permanente",
+      "Invariable",
+      "Constante",
+      "Estable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Invariable",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Taxativo",
+    "opciones": [
+      "Opcional",
+      "Indefinido",
+      "Ambiguo",
+      "Flexible"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Flexible",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Precepto",
+    "opciones": [
+      "Norma",
+      "Disposición",
+      "Regla",
+      "Mandamiento"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Norma",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Falible",
+    "opciones": [
+      "Correcto",
+      "Certero",
+      "Infalible",
+      "Exacto"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Infalible",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inapelable",
+    "opciones": [
+      "Absoluto",
+      "Definitivo",
+      "Terminante",
+      "Irrevocable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Irrevocable",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Prolijo",
+    "opciones": [
+      "Escueto",
+      "Sintético",
+      "Conciso",
+      "Breve"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Conciso",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Ecuánime",
+    "opciones": [
+      "Justo",
+      "Imparcial",
+      "Neutral",
+      "Objetivo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Imparcial",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Intransigente",
+    "opciones": [
+      "Rígido",
+      "Estricto",
+      "Inflexible",
+      "Severo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Inflexible",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Lúcido",
+    "opciones": [
+      "Obnubilado",
+      "Confuso",
+      "Desorientado",
+      "Turbado"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Obnubilado",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Aquiescencia",
+    "opciones": [
+      "Aceptación",
+      "Consentimiento",
+      "Permiso",
+      "Conformidad"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Consentimiento",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Exhaustivo",
+    "opciones": [
+      "Incompleto",
+      "Superficial",
+      "Limitado",
+      "Parcial"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Parcial",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Magnánimo",
+    "opciones": [
+      "Noble",
+      "Altruista",
+      "Benevolente",
+      "Generoso"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Generoso",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Inocuo",
+    "opciones": [
+      "Dañino",
+      "Nocivo",
+      "Tóxico",
+      "Perjudicial"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Nocivo",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Injerencia",
+    "opciones": [
+      "Intervención",
+      "Intromisión",
+      "Participación",
+      "Mediación"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Intromisión",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Próspero",
+    "opciones": [
+      "Arruinado",
+      "Carente",
+      "Desfavorecido",
+      "Precario"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Arruinado",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inminente",
+    "opciones": [
+      "Cercano",
+      "Próximo",
+      "Venidero",
+      "Inmediato"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Inmediato",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Lícito",
+    "opciones": [
+      "Delictivo",
+      "Ilegal",
+      "Inmoral",
+      "Ilícito"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Ilícito",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Acrisolado",
+    "opciones": [
+      "Íntegro",
+      "Puro",
+      "Refinado",
+      "Depurado"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Puro",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Inmarcesible",
+    "opciones": [
+      "Caducable",
+      "Efímero",
+      "Perecedero",
+      "Marchitable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Perecedero",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Eximir",
+    "opciones": [
+      "Dispensar",
+      "Exceptuar",
+      "Absolver",
+      "Liberar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Exceptuar",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Solemne",
+    "opciones": [
+      "Sencillo",
+      "Trivial",
+      "Informal",
+      "Ordinario"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Informal",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Conminar",
+    "opciones": [
+      "Exhortar",
+      "Intimar",
+      "Requerir",
+      "Advertir"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Intimar",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Anacrónico",
+    "opciones": [
+      "Moderno",
+      "Vigente",
+      "Actual",
+      "Contemporáneo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Contemporáneo",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Preclaro",
+    "opciones": [
+      "Notable",
+      "Ilustre",
+      "Eminente",
+      "Distinguido"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Ilustre",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Falaz",
+    "opciones": [
+      "Veraz",
+      "Auténtico",
+      "Honrado",
+      "Objetivo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Veraz",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inmutable",
+    "opciones": [
+      "Inalterable",
+      "Constante",
+      "Permanente",
+      "Estable"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Inalterable",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Taxativo",
+    "opciones": [
+      "Opcional",
+      "Flexible",
+      "Indeterminado",
+      "Ambiguo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Flexible",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Inapelable",
+    "opciones": [
+      "Definitivo",
+      "Terminante",
+      "Irrevocable",
+      "Concluyente"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Irrevocable",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Parquedad",
+    "opciones": [
+      "Expansión",
+      "Verbosidad",
+      "Locuacidad",
+      "Elocuencia"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Locuacidad",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Ecuanimidad",
+    "opciones": [
+      "Imparcialidad",
+      "Justicia",
+      "Neutralidad",
+      "Objetividad"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Imparcialidad",
+    "tema": "sinonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Antónimo de Beligerante",
+    "opciones": [
+      "Sereno",
+      "Conciliador",
+      "Prudente",
+      "Pacífico"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Pacífico",
+    "tema": "antonimo"
+  },
+  {
+    "bloqueId": 3,
+    "enunciado": "Sinónimo de Probidad",
+    "opciones": [
+      "Honestidad",
+      "Rectitud",
+      "Integridad",
+      "Honradez"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Integridad",
+    "tema": "sinonimo"
+  }
+]

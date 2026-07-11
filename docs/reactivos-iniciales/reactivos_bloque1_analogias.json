@@ -1,0 +1,327 @@
+[
+  {
+    "bloqueId": 1,
+    "enunciado": "Fusil es a soldado como bisturí es a:",
+    "opciones": [
+      "Paciente",
+      "Hospital",
+      "Médico",
+      "Enfermero"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Médico",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Perro es a ladrar como gato es a:",
+    "opciones": [
+      "Dormir",
+      "Correr",
+      "Saltar",
+      "Maullar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Maullar",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Sol es a día como luna es a:",
+    "opciones": [
+      "Noche",
+      "Estrella",
+      "Cielo",
+      "Oscuridad"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Noche",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Maestro es a escuela como doctor es a:",
+    "opciones": [
+      "Medicina",
+      "Salud",
+      "Clínica",
+      "Enfermo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Clínica",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Libro es a leer como comida es a:",
+    "opciones": [
+      "Preparar",
+      "Servir",
+      "Comer",
+      "Cocinar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Comer",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Rueda es a auto como hélice es a:",
+    "opciones": [
+      "Motor",
+      "Avión",
+      "Barco",
+      "Viento"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Barco",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Llave es a abrir como contraseña es a:",
+    "opciones": [
+      "Acceso",
+      "Seguridad",
+      "Entrar",
+      "Sistema"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Entrar",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Capitán es a barco como piloto es a:",
+    "opciones": [
+      "Viaje",
+      "Control",
+      "Avión",
+      "Ruta"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Avión",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Semilla es a planta como idea es a:",
+    "opciones": [
+      "Pensamiento",
+      "Proyecto",
+      "Acción",
+      "Creación"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Proyecto",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Escudo es a defensa como espada es a:",
+    "opciones": [
+      "Fuerza",
+      "Ataque",
+      "Guerra",
+      "Combate"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Ataque",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Termómetro es a temperatura como reloj es a:",
+    "opciones": [
+      "Minuto",
+      "Tiempo",
+      "Hora",
+      "Medición"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Tiempo",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "General es a ejército como director es a:",
+    "opciones": [
+      "Producción",
+      "Actor",
+      "Película",
+      "Escena"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Película",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Mapa es a ubicación como brújula es a:",
+    "opciones": [
+      "Norte",
+      "Orientación",
+      "Dirección",
+      "Camino"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Orientación",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Capitán es a mando como líder es a:",
+    "opciones": [
+      "Orden",
+      "Control",
+      "Influencia",
+      "Grupo"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Influencia",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Código es a programa como receta es a:",
+    "opciones": [
+      "Ingredientes",
+      "Preparación",
+      "Cocina",
+      "Comida"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Comida",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Radar es a detectar como microscopio es a:",
+    "opciones": [
+      "Analizar",
+      "Observar",
+      "Ampliar",
+      "Estudiar"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Observar",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Lealtad es a confianza como traición es a:",
+    "opciones": [
+      "Ruptura",
+      "Engaño",
+      "Deshonra",
+      "Pérdida"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Ruptura",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Disciplina es a orden como negligencia es a:",
+    "opciones": [
+      "Caos",
+      "Problema",
+      "Falta",
+      "Error"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Caos",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Estrategia es a victoria como improvisación es a:",
+    "opciones": [
+      "Derrota",
+      "Incertidumbre",
+      "Riesgo",
+      "Error"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Derrota",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Ley es a obligación como moral es a:",
+    "opciones": [
+      "Ética",
+      "Conducta",
+      "Valor",
+      "Principio"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Conducta",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Motor es a energía como cerebro es a:",
+    "opciones": [
+      "Inteligencia",
+      "Control",
+      "Pensamiento",
+      "Sistema"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Pensamiento",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Código es a software como partitura es a:",
+    "opciones": [
+      "Música",
+      "Composición",
+      "Sonido",
+      "Interpretación"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Música",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Timón es a dirección como brújula es a:",
+    "opciones": [
+      "Norte",
+      "Orientación",
+      "Camino",
+      "Ruta"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Orientación",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Plan es a ejecución como estrategia es a:",
+    "opciones": [
+      "Acción",
+      "Táctica",
+      "Orden",
+      "Resultado"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Táctica",
+    "tema": "analogias"
+  },
+  {
+    "bloqueId": 1,
+    "enunciado": "Honradez es a integridad como corrupción es a:",
+    "opciones": [
+      "Falta",
+      "Engaño",
+      "Deshonestidad",
+      "Error"
+    ],
+    "tipo": "opcion_multiple",
+    "respuestaCorrecta": "Deshonestidad",
+    "tema": "analogias"
+  }
+]
