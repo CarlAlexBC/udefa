@@ -8,9 +8,10 @@ import { PlantelesModule } from './planteles/planteles.module';
 import { ExamenesModule } from './examenes/examenes.module';
 import { BloquesModule } from './bloques/bloques.module';
 import { ReactivosModule } from './reactivos/reactivos.module';
+import { IntentosModule } from './intentos/intentos.module';
 
 @Module({
-  imports: [UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule],
+  imports: [UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule, IntentosModule],
   controllers: [AppController],
   providers: [AppService, PrismaService],
 })

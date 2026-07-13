@@ -11,26 +11,29 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 model Plantel {
-  id          Int      @id @default(autoincrement())
-  nombre      String
-  descripcion String?
-  usuarios    Usuario[]
-  createdAt   DateTime @default(now()) 
-  updatedAt   DateTime @updatedAt
+  id                Int                    @id @default(autoincrement())
+  nombre            String
+  descripcion       String?
+  usuarios          Usuario[]
+  sesionesCompletas SesionExamenCompleto[]
+  createdAt         DateTime               @default(now())
+  updatedAt         DateTime               @updatedAt
 }
 
 model Usuario {
-  id           Int      @id @default(autoincrement())
-  nombre       String
-  email        String   @unique
-  sesiones  Sesion[]
-  password     String
-  nivelAcceso  String   @default("gratuito")
-  emailVerificado Boolean @default(false)
-  plantelId    Int?
-  plantel      Plantel? @relation(fields: [plantelId], references: [id])
-  createdAt    DateTime @default(now())
-  updatedAt    DateTime @updatedAt
+  id                Int                    @id @default(autoincrement())
+  nombre            String
+  email             String                 @unique
+  sesiones          Sesion[]
+  password          String
+  nivelAcceso       String                 @default("gratuito")
+  emailVerificado   Boolean                @default(false)
+  plantelId         Int?
+  plantel           Plantel?               @relation(fields: [plantelId], references: [id])
+  sesionesCompletas SesionExamenCompleto[]
+  intentos          IntentoExamen[]
+  createdAt         DateTime               @default(now())
+  updatedAt         DateTime               @updatedAt
 }
 
 model Sesion {
@@ -42,14 +45,15 @@ model Sesion {
 }
 
 model Examen {
-  id             Int      @id @default(autoincrement())
+  id             Int             @id @default(autoincrement())
   tipo           String
   nombre         String
   duracionMin    Int
-  calificable    Boolean  @default(true)
+  calificable    Boolean         @default(true)
   bloques        Bloque[]
-  createdAt      DateTime @default(now())
-  updatedAt      DateTime @updatedAt
+  intentos       IntentoExamen[]
+  createdAt      DateTime        @default(now())
+  updatedAt      DateTime        @updatedAt
 }
 
 model Bloque {
@@ -74,5 +78,61 @@ model Reactivo {
   explicacion       String?
   tema              String?
   imagenUrl         String?
+  respuestas        RespuestaReactivo[]
   createdAt         DateTime @default(now())
+}
+
+enum EstadoSesion {
+  EN_PROGRESO
+  COMPLETADA
+  ABANDONADA
+}
+
+enum EstadoIntento {
+  EN_PROGRESO
+  COMPLETADA
+  TIEMPO_AGOTADO
+  ABANDONADA
+}
+
+model SesionExamenCompleto {
+  id          Int             @id @default(autoincrement())
+  usuarioId   Int
+  usuario     Usuario         @relation(fields: [usuarioId], references: [id])
+  plantelId   Int
+  plantel     Plantel         @relation(fields: [plantelId], references: [id])
+  inicioAt    DateTime        @default(now())
+  finAt       DateTime?
+  estado      EstadoSesion    @default(EN_PROGRESO)
+  intentos    IntentoExamen[]
+  createdAt   DateTime        @default(now())
+  updatedAt   DateTime        @updatedAt
+}
+
+model IntentoExamen {
+  id                Int                    @id @default(autoincrement())
+  usuarioId         Int
+  usuario           Usuario                @relation(fields: [usuarioId], references: [id])
+  examenId          Int
+  examen            Examen                 @relation(fields: [examenId], references: [id])
+  sesionCompletoId  Int?
+  sesionCompleto    SesionExamenCompleto?  @relation(fields: [sesionCompletoId], references: [id])
+  inicioAt          DateTime               @default(now())
+  finAt             DateTime?
+  estado            EstadoIntento          @default(EN_PROGRESO)
+  respuestas        RespuestaReactivo[]
+  createdAt         DateTime               @default(now())
+  updatedAt         DateTime               @updatedAt
+}
+
+model RespuestaReactivo {
+  id                    Int            @id @default(autoincrement())
+  intentoExamenId       Int
+  intentoExamen         IntentoExamen  @relation(fields: [intentoExamenId], references: [id])
+  reactivoId            Int
+  reactivo              Reactivo       @relation(fields: [reactivoId], references: [id])
+  respuestaSeleccionada String
+  esCorrecta            Boolean?
+  respondidoEnMs        Int
+  createdAt             DateTime       @default(now())
 }
