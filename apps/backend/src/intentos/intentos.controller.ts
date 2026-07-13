@@ -1,4 +1,4 @@
-import { Controller, Post, Patch, Body, Param } from '@nestjs/common';
+import { Controller, Post, Patch, Get, Body, Param } from '@nestjs/common';
 import { IntentosService } from './intentos.service';
 
 @Controller('intentos')
@@ -45,5 +45,10 @@ export class IntentosController {
     @Body() datos: { estado: 'COMPLETADA' | 'TIEMPO_AGOTADO' | 'ABANDONADA' },
   ) {
     return this.intentosService.finalizar(Number(id), datos.estado);
+  }
+
+  @Get(':id/resultados')
+  obtenerResultados(@Param('id') id: string) {
+    return this.intentosService.obtenerResultados(Number(id));
   }
 }
