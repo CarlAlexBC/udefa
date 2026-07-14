@@ -6,5 +6,6 @@ import { PrismaService } from '../prisma/prisma.service';
 @Module({
   providers: [IntentosService, PrismaService],
   controllers: [IntentosController],
+  exports: [IntentosService],
 })
 export class IntentosModule {}

@@ -9,9 +9,10 @@ import { ExamenesModule } from './examenes/examenes.module';
 import { BloquesModule } from './bloques/bloques.module';
 import { ReactivosModule } from './reactivos/reactivos.module';
 import { IntentosModule } from './intentos/intentos.module';
+import { SesionesCompletasModule } from './sesiones-completas/sesiones-completas.module';
 
 @Module({
-  imports: [UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule, IntentosModule],
+  imports: [UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule, IntentosModule, SesionesCompletasModule],
   controllers: [AppController],
   providers: [AppService, PrismaService],
 })
