@@ -141,29 +141,45 @@ export class IntentosService {
       'Intento',
     );
 
-    const respuestas = intento.respuestas;
     const calificable = intento.examen.calificable;
 
+    // Ordenar respuestas cronológicamente y calcular delta por reactivo.
+    const ordenadas = [...intento.respuestas].sort(
+      (a, b) => a.respondidoEnMs - b.respondidoEnMs,
+    );
+    const respuestasConDelta = ordenadas.map((r, i) => ({
+      ...r,
+      tiempoDeltaMs:
+        i === 0
+          ? r.respondidoEnMs
+          : r.respondidoEnMs - ordenadas[i - 1].respondidoEnMs,
+    }));
+
     // --- Métricas globales ---
-    const reactivosRespondidos = respuestas.length;
+    const reactivosRespondidos = respuestasConDelta.length;
     const aciertos = calificable
-      ? respuestas.filter((r) => r.esCorrecta === true).length
+      ? respuestasConDelta.filter((r) => r.esCorrecta === true).length
       : null;
     const porcentajeAciertos =
       calificable && reactivosRespondidos > 0
         ? Math.round((aciertos! / reactivosRespondidos) * 100)
         : null;
-    const tiempoTotalMs = respuestas.reduce(
+    const tiempoTotalMs = respuestasConDelta.reduce(
       (max, r) => Math.max(max, r.respondidoEnMs),
       0,
     );
 
-    // --- Agregación por bloque ---
+    // --- Agregación por bloque (con tiempo acumulado) ---
     const bloqueStats = new Map<
       number,
-      { nombre: string; respondidos: number; aciertos: number }
+      {
+        nombre: string;
+        respondidos: number;
+        aciertos: number;
+        tiempoMs: number;
+      }
     >();
-    for (const r of respuestas) {
+    for (const r of respuestasConDelta) {
       const id = r.reactivo.bloqueId;
       let stats = bloqueStats.get(id);
       if (!stats) {
@@ -171,10 +187,12 @@ export class IntentosService {
           nombre: r.reactivo.bloque.nombre,
           respondidos: 0,
           aciertos: 0,
+          tiempoMs: 0,
         };
         bloqueStats.set(id, stats);
       }
       stats.respondidos++;
+      stats.tiempoMs += r.tiempoDeltaMs;
       if (r.esCorrecta === true) stats.aciertos++;
     }
     const porBloque = Array.from(bloqueStats.entries()).map(([id, s]) => ({
@@ -186,21 +204,23 @@ export class IntentosService {
         calificable && s.respondidos > 0
           ? Math.round((s.aciertos / s.respondidos) * 100)
           : null,
+      tiempoMs: s.tiempoMs,
     }));
 
-    // --- Agregación por tema ---
+    // --- Agregación por tema (con tiempo acumulado) ---
     const temaStats = new Map<
       string,
-      { respondidos: number; aciertos: number }
+      { respondidos: number; aciertos: number; tiempoMs: number }
     >();
-    for (const r of respuestas) {
+    for (const r of respuestasConDelta) {
       const tema = r.reactivo.tema ?? 'sin_tema';
       let stats = temaStats.get(tema);
       if (!stats) {
-        stats = { respondidos: 0, aciertos: 0 };
+        stats = { respondidos: 0, aciertos: 0, tiempoMs: 0 };
         temaStats.set(tema, stats);
       }
       stats.respondidos++;
+      stats.tiempoMs += r.tiempoDeltaMs;
       if (r.esCorrecta === true) stats.aciertos++;
     }
     const porTema = Array.from(temaStats.entries()).map(([tema, s]) => ({
@@ -211,7 +231,13 @@ export class IntentosService {
         calificable && s.respondidos > 0
           ? Math.round((s.aciertos / s.respondidos) * 100)
           : null,
+      tiempoMs: s.tiempoMs,
     }));
+
+    // --- Métricas temporales ---
+    const metricasTemporales = this.calcularMetricasTemporales(
+      respuestasConDelta.map((r) => r.tiempoDeltaMs),
+    );
 
     return {
       intentoId: intento.id,
@@ -227,7 +253,98 @@ export class IntentosService {
       porcentajeAciertos,
       porBloque,
       porTema,
+      metricasTemporales,
     };
+  }
+
+  /**
+   * Calcula métricas temporales sobre un arreglo de tiempos por reactivo (deltas).
+   *
+   * Devuelve:
+   * - tiempoPorReactivoMs: el arreglo completo (para graficar).
+   * - promedio, mediano: dos medidas centrales complementarias.
+   * - coeficienteVariacion: dispersión normalizada (0 = perfectamente parejo).
+   * - tendencia: 'acelerando' | 'desacelerando' | 'estable' basado en cambio 1a vs 2a mitad.
+   * - patronFatigaDetectado: true si aceleró ≥ 20% en 2a mitad (indicio de apuro final).
+   * - detalleFatiga: promedios de cada mitad + diferencia porcentual.
+   */
+  private calcularMetricasTemporales(tiempos: number[]) {
+    if (tiempos.length === 0) {
+      return {
+        tiempoPorReactivoMs: [] as number[],
+        tiempoPromedioReactivoMs: 0,
+        tiempoMedianoReactivoMs: 0,
+        coeficienteVariacion: 0,
+        tendencia: 'estable' as const,
+        patronFatigaDetectado: false,
+        detalleFatiga: null,
+      };
+    }
+
+    const UMBRAL_TENDENCIA_PCT = 10; // cambio de 10% ya es tendencia
+    const UMBRAL_FATIGA_PCT = -20; // 20% más rápido en 2a mitad = fatiga
+
+    const promedio = this.mean(tiempos);
+    const mediano = this.median(tiempos);
+    const desviacion = this.stddev(tiempos);
+    const coeficienteVariacion = promedio > 0 ? desviacion / promedio : 0;
+
+    // Split-half para detectar tendencia y fatiga.
+    const mitad = Math.floor(tiempos.length / 2);
+    const primeraMitad = tiempos.slice(0, mitad);
+    const segundaMitad = tiempos.slice(mitad);
+    const promPrimera = this.mean(primeraMitad);
+    const promSegunda = this.mean(segundaMitad);
+    const diferenciaPct =
+      promPrimera > 0
+        ? Math.round(((promSegunda - promPrimera) / promPrimera) * 100)
+        : 0;
+
+    let tendencia: 'acelerando' | 'desacelerando' | 'estable';
+    if (diferenciaPct <= -UMBRAL_TENDENCIA_PCT) tendencia = 'acelerando';
+    else if (diferenciaPct >= UMBRAL_TENDENCIA_PCT) tendencia = 'desacelerando';
+    else tendencia = 'estable';
+
+    const patronFatigaDetectado = diferenciaPct <= UMBRAL_FATIGA_PCT;
+
+    return {
+      tiempoPorReactivoMs: tiempos,
+      tiempoPromedioReactivoMs: Math.round(promedio),
+      tiempoMedianoReactivoMs: Math.round(mediano),
+      coeficienteVariacion: Math.round(coeficienteVariacion * 100) / 100,
+      tendencia,
+      patronFatigaDetectado,
+      detalleFatiga:
+        primeraMitad.length > 0 && segundaMitad.length > 0
+          ? {
+              tiempoPromedioPrimeraMitadMs: Math.round(promPrimera),
+              tiempoPromedioSegundaMitadMs: Math.round(promSegunda),
+              diferenciaPorcentual: diferenciaPct,
+            }
+          : null,
+    };
+  }
+
+  private mean(arr: number[]): number {
+    if (arr.length === 0) return 0;
+    return arr.reduce((sum, n) => sum + n, 0) / arr.length;
+  }
+
+  private median(arr: number[]): number {
+    if (arr.length === 0) return 0;
+    const sorted = [...arr].sort((a, b) => a - b);
+    const mid = Math.floor(sorted.length / 2);
+    return sorted.length % 2 === 0
+      ? (sorted[mid - 1] + sorted[mid]) / 2
+      : sorted[mid];
+  }
+
+  private stddev(arr: number[]): number {
+    if (arr.length === 0) return 0;
+    const m = this.mean(arr);
+    const varianza =
+      arr.reduce((sum, n) => sum + (n - m) ** 2, 0) / arr.length;
+    return Math.sqrt(varianza);
   }
 
   /**
