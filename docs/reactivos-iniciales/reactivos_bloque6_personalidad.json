@@ -6343,20 +6343,6 @@
   },
   {
     "bloqueId": 6,
-    "enunciado": "Me siento tranquilo al convivir con personas desconocidas.",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "sociabilidad",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
     "enunciado": "Me cuesta mantener conversaciones con personas nuevas.",
     "opciones": [
       "Totalmente en desacuerdo",
@@ -11383,20 +11369,6 @@
   },
   {
     "bloqueId": 6,
-    "enunciado": "Las emociones intensas dificultan mi capacidad para pensar con claridad.",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "manejo_emocional",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
     "enunciado": "Procuro comprender el motivo de mis reacciones emocionales.",
     "opciones": [
       "Totalmente en desacuerdo",
@@ -14099,20 +14071,6 @@
   },
   {
     "bloqueId": 6,
-    "enunciado": "Reflexiono antes de expresar una opinión delicada.",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "impulsividad",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
     "enunciado": "Me cuesta resistir una tentación inmediata.",
     "opciones": [
       "Totalmente en desacuerdo",
@@ -15538,202 +15496,6 @@
     "respuestaCorrecta": null,
     "tema": "influencia_social",
     "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Suicidio y sentido de vida 80/80",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Autoestima 80/80",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Empatía 70/70",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Apoyo emocional 60/60",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Habilidades socioemocionales 70/70",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Extroversión 80/80",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Sociabilidad 70/70",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Liderazgo 80/80",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Liderazgo autoritario 60/60",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Tolerancia al estrés 80/80",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Trabajo bajo presión 80/80",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Manejo emocional 80/80",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Autocontrol 80/80",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Impulsividad 60/60 Tema Completado",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "influencia_social",
-    "polaridad": "NEGATIVA"
   },
   {
     "bloqueId": 6,
@@ -18621,20 +18383,6 @@
   },
   {
     "bloqueId": 6,
-    "enunciado": "Procuro terminar una tarea antes de iniciar otra.",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "disciplina",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
     "enunciado": "Me resulta difícil conservar hábitos constantes.",
     "opciones": [
       "Totalmente en desacuerdo",
@@ -19322,20 +19070,6 @@
   {
     "bloqueId": 6,
     "enunciado": "Dejo pasar pequeños incumplimientos porque los considero poco relevantes.",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "disciplina",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Mantengo constancia aunque los resultados tarden en aparecer.",
     "opciones": [
       "Totalmente en desacuerdo",
       "En desacuerdo",
@@ -24778,20 +24512,6 @@
     "respuestaCorrecta": null,
     "tema": "mentiras_para_obtener_beneficios",
     "polaridad": "NEGATIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Considero importante actuar con transparencia.",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "mentiras_para_obtener_beneficios",
-    "polaridad": "POSITIVA"
   },
   {
     "bloqueId": 6,
@@ -35015,20 +34735,6 @@
   },
   {
     "bloqueId": 6,
-    "enunciado": "Evito tomar decisiones cuando existen varias alternativas.",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "toma_de_riesgos",
-    "polaridad": "NEGATIVA"
-  },
-  {
-    "bloqueId": 6,
     "enunciado": "Confío en mi preparación para afrontar situaciones nuevas.",
     "opciones": [
       "Totalmente en desacuerdo",
@@ -37256,20 +36962,6 @@
   {
     "bloqueId": 6,
     "enunciado": "Prefiero priorizar mis intereses sobre responsabilidades colectivas.",
-    "opciones": [
-      "Totalmente en desacuerdo",
-      "En desacuerdo",
-      "De acuerdo",
-      "Totalmente de acuerdo"
-    ],
-    "tipo": "escala_likert",
-    "respuestaCorrecta": null,
-    "tema": "v_alores_militares",
-    "polaridad": "POSITIVA"
-  },
-  {
-    "bloqueId": 6,
-    "enunciado": "Considero importante contribuir al bienestar de mi país.",
     "opciones": [
       "Totalmente en desacuerdo",
       "En desacuerdo",
