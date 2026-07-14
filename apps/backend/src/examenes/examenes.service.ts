@@ -38,7 +38,22 @@ export class ExamenesService {
     });
   }
 
-  async armarExamen(examenId: number, reactivosPorBloque: number = 25) {
+  /**
+   * Cuántos reactivos POR BLOQUE presentamos al aspirante según el tipo de examen.
+   *
+   * - psicometrico: 25 por bloque × 4 bloques = 100 reactivos.
+   * - personalidad: 256 por bloque × 1 bloque = 256 reactivos.
+   * - axiologico: 39 por bloque × 1 bloque = 39 reactivos.
+   *
+   * Si el tipo no está mapeado, cae al default de 25 (comportamiento historico).
+   */
+  private readonly REACTIVOS_POR_BLOQUE_POR_TIPO: Record<string, number> = {
+    psicometrico: 25,
+    personalidad: 256,
+    axiologico: 39,
+  };
+
+  async armarExamen(examenId: number) {
     const examen = await this.prisma.examen.findUnique({
       where: { id: examenId },
       include: {
@@ -51,6 +66,9 @@ export class ExamenesService {
     if (!examen) {
       throw new NotFoundException('Examen no encontrado');
     }
+
+    const reactivosPorBloque =
+      this.REACTIVOS_POR_BLOQUE_POR_TIPO[examen.tipo] ?? 25;
 
     const bloquesConReactivos = await Promise.all(
       examen.bloques.map(async (bloque) => ({
@@ -90,6 +108,7 @@ export class ExamenesService {
         opciones: true,
         tipo: true,
         tema: true,
+        polaridad: true,
         imagenUrl: true,
       },
     });

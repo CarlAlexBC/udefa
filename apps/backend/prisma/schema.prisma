@@ -68,18 +68,24 @@ model Bloque {
 }
 
 model Reactivo {
-  id                Int      @id @default(autoincrement())
+  id                Int        @id @default(autoincrement())
   bloqueId          Int
-  bloque            Bloque   @relation(fields: [bloqueId], references: [id])
+  bloque            Bloque     @relation(fields: [bloqueId], references: [id])
   enunciado         String
-  tipo              String   @default("opcion_multiple")
+  tipo              String     @default("opcion_multiple")
   opciones          Json
   respuestaCorrecta String?
   explicacion       String?
   tema              String?
+  polaridad         Polaridad?
   imagenUrl         String?
   respuestas        RespuestaReactivo[]
-  createdAt         DateTime @default(now())
+  createdAt         DateTime   @default(now())
+}
+
+enum Polaridad {
+  POSITIVA
+  NEGATIVA
 }
 
 enum EstadoSesion {
