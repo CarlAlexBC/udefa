@@ -19,6 +19,11 @@ import {
 export class SesionesCompletasController {
   constructor(private sesionesCompletasService: SesionesCompletasService) {}
 
+  @Get()
+  listar(@UsuarioActual() usuario: UsuarioAutenticado) {
+    return this.sesionesCompletasService.listarPorUsuario(usuario.id);
+  }
+
   @Post()
   crear(
     @UsuarioActual() usuario: UsuarioAutenticado,
@@ -30,13 +35,24 @@ export class SesionesCompletasController {
   @Patch(':id/finalizar')
   finalizar(
     @Param('id') id: string,
+    @UsuarioActual() usuario: UsuarioAutenticado,
     @Body() datos: { estado: 'COMPLETADA' | 'ABANDONADA' },
   ) {
-    return this.sesionesCompletasService.finalizar(Number(id), datos.estado);
+    return this.sesionesCompletasService.finalizar(
+      Number(id),
+      usuario.id,
+      datos.estado,
+    );
   }
 
   @Get(':id/resultados')
-  obtenerResultados(@Param('id') id: string) {
-    return this.sesionesCompletasService.obtenerResultados(Number(id));
+  obtenerResultados(
+    @Param('id') id: string,
+    @UsuarioActual() usuario: UsuarioAutenticado,
+  ) {
+    return this.sesionesCompletasService.obtenerResultados(
+      Number(id),
+      usuario.id,
+    );
   }
 }

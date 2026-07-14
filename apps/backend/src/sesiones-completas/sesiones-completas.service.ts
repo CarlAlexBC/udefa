@@ -2,6 +2,7 @@ import {
   Injectable,
   NotFoundException,
   BadRequestException,
+  ForbiddenException,
 } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { IntentosService } from '../intentos/intentos.service';
@@ -12,6 +13,20 @@ export class SesionesCompletasService {
     private prisma: PrismaService,
     private intentosService: IntentosService,
   ) {}
+
+  private validarPropiedad<T extends { usuarioId: number }>(
+    recurso: T | null,
+    usuarioId: number,
+    tipo: string,
+  ): T {
+    if (!recurso) throw new NotFoundException(`${tipo} no encontrada`);
+    if (recurso.usuarioId !== usuarioId) {
+      throw new ForbiddenException(
+        `No tienes permiso para acceder a esta ${tipo.toLowerCase()}`,
+      );
+    }
+    return recurso;
+  }
 
   async crear(usuarioId: number, plantelId: number) {
     const plantel = await this.prisma.plantel.findUnique({
@@ -31,15 +46,18 @@ export class SesionesCompletasService {
 
   async finalizar(
     sesionId: number,
+    usuarioId: number,
     estado: 'COMPLETADA' | 'ABANDONADA',
   ) {
-    const sesion = await this.prisma.sesionExamenCompleto.findUnique({
-      where: { id: sesionId },
-      include: { intentos: true },
-    });
-    if (!sesion) {
-      throw new NotFoundException('Sesión no encontrada');
-    }
+    const sesion = this.validarPropiedad(
+      await this.prisma.sesionExamenCompleto.findUnique({
+        where: { id: sesionId },
+        include: { intentos: true },
+      }),
+      usuarioId,
+      'Sesión',
+    );
+
     if (sesion.estado !== 'EN_PROGRESO') {
       throw new BadRequestException(
         'La sesión ya fue terminada, no se puede volver a finalizar',
@@ -67,24 +85,25 @@ export class SesionesCompletasService {
     });
   }
 
-  async obtenerResultados(sesionId: number) {
-    const sesion = await this.prisma.sesionExamenCompleto.findUnique({
-      where: { id: sesionId },
-      include: {
-        intentos: {
-          include: { examen: true },
-          orderBy: { inicioAt: 'asc' },
+  async obtenerResultados(sesionId: number, usuarioId: number) {
+    const sesion = this.validarPropiedad(
+      await this.prisma.sesionExamenCompleto.findUnique({
+        where: { id: sesionId },
+        include: {
+          intentos: {
+            include: { examen: true },
+            orderBy: { inicioAt: 'asc' },
+          },
+          plantel: true,
         },
-        plantel: true,
-      },
-    });
-    if (!sesion) {
-      throw new NotFoundException('Sesión no encontrada');
-    }
+      }),
+      usuarioId,
+      'Sesión',
+    );
 
     const resultadosPorIntento = await Promise.all(
       sesion.intentos.map((intento) =>
-        this.intentosService.obtenerResultados(intento.id),
+        this.intentosService.obtenerResultados(intento.id, usuarioId),
       ),
     );
 
@@ -96,5 +115,22 @@ export class SesionesCompletasService {
       finAt: sesion.finAt,
       intentos: resultadosPorIntento,
     };
+  }
+
+  /**
+   * Lista las sesiones completas del usuario, de la más reciente a la más vieja.
+   */
+  async listarPorUsuario(usuarioId: number) {
+    return this.prisma.sesionExamenCompleto.findMany({
+      where: { usuarioId },
+      include: {
+        plantel: { select: { id: true, nombre: true } },
+        intentos: {
+          select: { id: true, examenId: true, estado: true, inicioAt: true, finAt: true },
+          orderBy: { inicioAt: 'asc' },
+        },
+      },
+      orderBy: { inicioAt: 'desc' },
+    });
   }
 }

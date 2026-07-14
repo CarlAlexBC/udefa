@@ -5,6 +5,7 @@ import {
   Get,
   Body,
   Param,
+  Query,
   UseGuards,
 } from '@nestjs/common';
 import { IntentosService } from './intentos.service';
@@ -18,6 +19,18 @@ import {
 @Controller('intentos')
 export class IntentosController {
   constructor(private intentosService: IntentosService) {}
+
+  @Get()
+  listar(
+    @UsuarioActual() usuario: UsuarioAutenticado,
+    @Query('examenId') examenId?: string,
+    @Query('estado') estado?: string,
+  ) {
+    return this.intentosService.listarPorUsuario(usuario.id, {
+      examenId: examenId ? Number(examenId) : undefined,
+      estado,
+    });
+  }
 
   @Post()
   crear(
@@ -38,6 +51,7 @@ export class IntentosController {
   @Post(':id/responder')
   responder(
     @Param('id') id: string,
+    @UsuarioActual() usuario: UsuarioAutenticado,
     @Body()
     datos: {
       reactivoId: number;
@@ -47,6 +61,7 @@ export class IntentosController {
   ) {
     return this.intentosService.responder(
       Number(id),
+      usuario.id,
       datos.reactivoId,
       datos.respuestaSeleccionada,
       datos.respondidoEnMs,
@@ -56,13 +71,29 @@ export class IntentosController {
   @Patch(':id/finalizar')
   finalizar(
     @Param('id') id: string,
+    @UsuarioActual() usuario: UsuarioAutenticado,
     @Body() datos: { estado: 'COMPLETADA' | 'TIEMPO_AGOTADO' | 'ABANDONADA' },
   ) {
-    return this.intentosService.finalizar(Number(id), datos.estado);
+    return this.intentosService.finalizar(
+      Number(id),
+      usuario.id,
+      datos.estado,
+    );
   }
 
   @Get(':id/resultados')
-  obtenerResultados(@Param('id') id: string) {
-    return this.intentosService.obtenerResultados(Number(id));
+  obtenerResultados(
+    @Param('id') id: string,
+    @UsuarioActual() usuario: UsuarioAutenticado,
+  ) {
+    return this.intentosService.obtenerResultados(Number(id), usuario.id);
+  }
+
+  @Get(':id/respuestas')
+  obtenerRespuestas(
+    @Param('id') id: string,
+    @UsuarioActual() usuario: UsuarioAutenticado,
+  ) {
+    return this.intentosService.obtenerRespuestas(Number(id), usuario.id);
   }
 }

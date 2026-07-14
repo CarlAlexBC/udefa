@@ -2,12 +2,32 @@ import {
   Injectable,
   NotFoundException,
   BadRequestException,
+  ForbiddenException,
 } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 
 @Injectable()
 export class IntentosService {
   constructor(private prisma: PrismaService) {}
+
+  /**
+   * Helper compartido: valida que un recurso exista y sea del usuario dado.
+   * Devuelve el recurso tipado (TypeScript sabe que ya no es null tras esta llamada).
+   * Si no existe → 404. Si es de otro → 403.
+   */
+  private validarPropiedad<T extends { usuarioId: number }>(
+    recurso: T | null,
+    usuarioId: number,
+    tipo: string,
+  ): T {
+    if (!recurso) throw new NotFoundException(`${tipo} no encontrado`);
+    if (recurso.usuarioId !== usuarioId) {
+      throw new ForbiddenException(
+        `No tienes permiso para acceder a este ${tipo.toLowerCase()}`,
+      );
+    }
+    return recurso;
+  }
 
   async crear(
     usuarioId: number,
@@ -32,17 +52,20 @@ export class IntentosService {
 
   async responder(
     intentoId: number,
+    usuarioId: number,
     reactivoId: number,
     respuestaSeleccionada: string,
     respondidoEnMs: number,
   ) {
-    const intento = await this.prisma.intentoExamen.findUnique({
-      where: { id: intentoId },
-      include: { examen: true },
-    });
-    if (!intento) {
-      throw new NotFoundException('Intento no encontrado');
-    }
+    const intento = this.validarPropiedad(
+      await this.prisma.intentoExamen.findUnique({
+        where: { id: intentoId },
+        include: { examen: true },
+      }),
+      usuarioId,
+      'Intento',
+    );
+
     if (intento.estado !== 'EN_PROGRESO') {
       throw new BadRequestException(
         'El intento ya fue terminado, no se pueden agregar respuestas',
@@ -73,14 +96,17 @@ export class IntentosService {
 
   async finalizar(
     intentoId: number,
+    usuarioId: number,
     estado: 'COMPLETADA' | 'TIEMPO_AGOTADO' | 'ABANDONADA',
   ) {
-    const intento = await this.prisma.intentoExamen.findUnique({
-      where: { id: intentoId },
-    });
-    if (!intento) {
-      throw new NotFoundException('Intento no encontrado');
-    }
+    const intento = this.validarPropiedad(
+      await this.prisma.intentoExamen.findUnique({
+        where: { id: intentoId },
+      }),
+      usuarioId,
+      'Intento',
+    );
+
     if (intento.estado !== 'EN_PROGRESO') {
       throw new BadRequestException(
         'El intento ya fue terminado, no se puede volver a finalizar',
@@ -96,24 +122,24 @@ export class IntentosService {
     });
   }
 
-  async obtenerResultados(intentoId: number) {
-    const intento = await this.prisma.intentoExamen.findUnique({
-      where: { id: intentoId },
-      include: {
-        examen: true,
-        respuestas: {
-          include: {
-            reactivo: {
-              include: { bloque: true },
+  async obtenerResultados(intentoId: number, usuarioId: number) {
+    const intento = this.validarPropiedad(
+      await this.prisma.intentoExamen.findUnique({
+        where: { id: intentoId },
+        include: {
+          examen: true,
+          respuestas: {
+            include: {
+              reactivo: {
+                include: { bloque: true },
+              },
             },
           },
         },
-      },
-    });
-
-    if (!intento) {
-      throw new NotFoundException('Intento no encontrado');
-    }
+      }),
+      usuarioId,
+      'Intento',
+    );
 
     const respuestas = intento.respuestas;
     const calificable = intento.examen.calificable;
@@ -202,5 +228,60 @@ export class IntentosService {
       porBloque,
       porTema,
     };
+  }
+
+  /**
+   * Lista los intentos del usuario autenticado, del más reciente al más viejo.
+   * Filtros opcionales por examen o estado.
+   */
+  async listarPorUsuario(
+    usuarioId: number,
+    filtros?: { examenId?: number; estado?: string },
+  ) {
+    return this.prisma.intentoExamen.findMany({
+      where: {
+        usuarioId,
+        ...(filtros?.examenId ? { examenId: filtros.examenId } : {}),
+        ...(filtros?.estado
+          ? { estado: filtros.estado as 'EN_PROGRESO' | 'COMPLETADA' | 'TIEMPO_AGOTADO' | 'ABANDONADA' }
+          : {}),
+      },
+      include: {
+        examen: {
+          select: { id: true, nombre: true, tipo: true },
+        },
+      },
+      orderBy: { inicioAt: 'desc' },
+    });
+  }
+
+  /**
+   * Devuelve todas las respuestas de un intento, ordenadas cronológicamente,
+   * con la información del reactivo (enunciado, tema, bloque).
+   * Verifica que el intento sea del usuario.
+   */
+  async obtenerRespuestas(intentoId: number, usuarioId: number) {
+    const intento = this.validarPropiedad(
+      await this.prisma.intentoExamen.findUnique({
+        where: { id: intentoId },
+      }),
+      usuarioId,
+      'Intento',
+    );
+
+    return this.prisma.respuestaReactivo.findMany({
+      where: { intentoExamenId: intento.id },
+      include: {
+        reactivo: {
+          select: {
+            id: true,
+            enunciado: true,
+            tema: true,
+            bloque: { select: { id: true, nombre: true } },
+          },
+        },
+      },
+      orderBy: { respondidoEnMs: 'asc' },
+    });
   }
 }
