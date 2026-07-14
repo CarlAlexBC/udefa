@@ -1,21 +1,35 @@
-import { Controller, Post, Patch, Get, Body, Param } from '@nestjs/common';
+import {
+  Controller,
+  Post,
+  Patch,
+  Get,
+  Body,
+  Param,
+  UseGuards,
+} from '@nestjs/common';
 import { IntentosService } from './intentos.service';
+import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
+import {
+  UsuarioActual,
+  type UsuarioAutenticado,
+} from '../auth/decorators/usuario-actual.decorator';
 
+@UseGuards(JwtAuthGuard)
 @Controller('intentos')
 export class IntentosController {
   constructor(private intentosService: IntentosService) {}
 
   @Post()
   crear(
+    @UsuarioActual() usuario: UsuarioAutenticado,
     @Body()
     datos: {
-      usuarioId: number;
       examenId: number;
       sesionCompletoId?: number;
     },
   ) {
     return this.intentosService.crear(
-      datos.usuarioId,
+      usuario.id,
       datos.examenId,
       datos.sesionCompletoId,
     );
