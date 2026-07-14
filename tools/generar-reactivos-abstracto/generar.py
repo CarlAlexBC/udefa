@@ -13,6 +13,8 @@ draw.ellipse([50, 50, 150, 150], outline='black', width=3)
 # 4. Dibujar el cuadrado en el lado derecho.
 draw.rectangle([250, 50, 350, 150], outline='black', width=3)
 
+draw.polygon([(x1, y1), (x2, y2), (x3, y3)], outline='black', width=3)
+
 # 5. Guardar la imagen a disco.
 img.save('output/hola.png')
 
