@@ -57,11 +57,11 @@ Documento maestro del proyecto:
 
 ## Stack
 
-- **Backend:** NestJS 11 (TypeScript) + Prisma ORM + PostgreSQL local en :5432
-- **Auth:** JWT con Passport, sesiones rastreadas en tabla `Sesion`
+- **Backend:** NestJS 11 (TypeScript) + Prisma ORM + PostgreSQL local en :5432 (puerto backend :3001)
+- **Frontend web:** Next.js 16 (App Router) + Tailwind 4 + shadcn/ui + Manrope (puerto :3000)
+- **Auth:** JWT con Passport (backend), token en cookie (frontend) para compatibilidad con middleware edge. Sesiones rastreadas en tabla `Sesion` (límite 2 dispositivos)
 - **Payments (futuro):** MercadoPago
 - **Files (futuro):** Cloudinary
-- **Frontend web (futuro):** Next.js
 - **Móvil (futuro):** React Native + Expo
 
 ## Estado actual
@@ -80,14 +80,23 @@ Documento maestro del proyecto:
 | Auditoría de seguridad JWT | ✅ | Reactivos, examenes, bloques, planteles protegidos |
 | RBAC (admin vs usuario) | ⏳ | **No hay** — todos los users autenticados son admins de facto |
 | Paginación en GET /reactivos | ✅ | `?take=N&skip=N&bloqueId=N`, default 50, tope 200 |
-| Frontend | ⏳ | Nada aún |
+| Sistema de diseño frontend | ✅ | shadcn/ui + paleta acordada (carbón, crema, latón, oliva militar), Manrope única. Ver `project_sistema_diseno.md` en memoria |
+| Frontend — landing pública `/` | ✅ | Hero dark + fases + CTA final con transiciones dark/light. Logo real integrado |
+| Frontend — auth flow | ✅ | `/login` + `/registro` (con auto-login), token en cookie, middleware guard en `src/middleware.ts` protege `/inicio/*` |
+| Frontend — `/inicio` (privado) | ✅ | Lista de planteles con HeaderPrivado (logout funcional que llama `POST /auth/logout`) |
+| CORS backend | ✅ | `app.enableCors()` habilitado en `main.ts` para requests desde `http://localhost:3000` |
+| Frontend — panel de resultados | ⏳ | Diseñado en mockup (Mockup B validado); implementación pendiente |
+| Frontend — simulador de examen | ⏳ | Diseñado en mockup; implementación pendiente |
 | Módulo cultural | ⏳ | Nada aún |
 | Reporte PDF | ⏳ | Nada aún |
 | Panel de admin | ⏳ | Nada aún |
 
 ## Datos actuales en la BD
 
-- **1 usuario:** Carlo Alexander (`carlo@prueba.com`, id=1)
+- **3 usuarios:**
+  - Carlo Alexander (`carlo@prueba.com`, id=1) — password original olvidada
+  - Carlo (`emtg@prueba.com`, id=2) — password olvidada también, existe en BD
+  - Yolanda Maleny (`YMMD@prueba.com`, id=3) — creado vía frontend `/registro`, funcional
 - **3 planteles:** Heroico Colegio Militar, Escuela Militar de Medicina, Escuela Militar de Ingeniería
 - **3 exámenes:**
   - id=1: Psicométrico EIC DN-11 (calificable, 40 min, 4 bloques)
@@ -103,8 +112,11 @@ Documento maestro del proyecto:
 cd C:\proyectos\udefa
 npm install
 
-# Levantar backend en modo watch
+# Backend NestJS en :3001 (terminal 1)
 npm run backend:dev
+
+# Frontend Next.js en :3000 (terminal 2, separada)
+npm run web:dev
 
 # Migraciones de Prisma (desde apps/backend)
 cd apps\backend
@@ -112,15 +124,21 @@ npx prisma migrate dev --name <descripcion>
 npx prisma generate     # regenera cliente TypeScript
 
 # Ver la BD visualmente
-npx prisma studio       # abre navegador con GUI
+npx prisma studio       # abre navegador con GUI en :5555
 ```
 
 Env vars están en `apps/backend/.env` (gitignored). Incluyen:
-`DATABASE_URL`, `JWT_SECRET`, `CLOUDINARY_CLOUD_NAME` (+ KEY/SECRET pendientes de llenar).
+`DATABASE_URL`, `JWT_SECRET`, `PORT=3001`, `CLOUDINARY_CLOUD_NAME` (+ KEY/SECRET pendientes de llenar).
 
-## Cómo probar los endpoints
+## Cómo probar la plataforma
 
-Uso **Thunder Client** en VS Code. Los endpoints protegidos requieren header
+**Vía frontend** (recomendado ahora que existe UI):
+- `http://localhost:3000` — landing pública
+- `http://localhost:3000/registro` — crear cuenta (auto-login incluido)
+- `http://localhost:3000/login` — iniciar sesión (redirige a `/inicio`)
+- `http://localhost:3000/inicio` — área privada (redirige a `/login` si no hay cookie)
+
+**Vía Thunder Client** en VS Code (para endpoints sin UI todavía). Los protegidos requieren header
 `Authorization: Bearer <token>` — el token sale de `POST /auth/login`.
 
 Endpoints principales:
@@ -146,6 +164,10 @@ Guarda estos para mantener consistencia:
 5. **Fisher-Yates shuffle** para muestreo aleatorio real (no `sort() => Math.random() - 0.5` que da distribución sesgada).
 6. **Umbrales como constantes con nombre**, no números mágicos (ej: `UMBRAL_FATIGA_PCT = -20`).
 7. **DTOs inline en controllers** (excepto Auth que usa clases DTO). Consistente con el estilo existente — si algún día refactorizamos a class-validator, se hace todo junto.
+8. **Arquitectura de rutas frontend:** `/` = landing pública (marketing), `/inicio` = área privada (dashboard). Middleware guard en `src/middleware.ts` fuerza cookie de auth en `/inicio/*`.
+9. **Token en cookie, no localStorage.** El middleware corre en el edge server y no puede leer localStorage. Helper `src/lib/auth.ts` centraliza `setToken/getToken/clearToken`. Cookie NO httpOnly por ahora (migrar a httpOnly setada por backend cuando toque hardening).
+10. **Paleta y tipografía como sistema, no ad-hoc:** todos los colores vienen de `globals.css` (`--primary`, `--accent`, `--military`, etc.). Cero hex hardcodeado en componentes. Ver `project_sistema_diseno.md` en memoria para las reglas de uso.
+11. **shadcn/ui v4 usa Base UI** (sucesor de Radix UI). El Button NO acepta `asChild`. Para links con estilo de botón: `<Link className={cn(buttonVariants({...}))}>`.
 
 ## Cómo hablarme
 
@@ -160,27 +182,30 @@ Ver `feedback_estilo_pedagogico.md` en memoria para más contexto.
 ## Trabajos recientes (últimos 10 commits)
 
 ```
+4748d3d Frontend: sistema de diseno y auth flow completo
+d288e22 Frontend: setup Next 16 en apps/web con landing publica de planteles
+468eaee HANDOFF: renombrar rutas backend/ -> udefa/ tras rename del monorepo
+17a5d5e Actualiza generar.py
+68bb2b9 HANDOFF: reflejar paginacion de reactivos y ultimos commits
 e0de84c Paginacion en GET /reactivos con filtro por bloque
 bcc537f Handoff doc: contexto completo para retomar el proyecto
 dcaf799 Limpieza de artefactos en el banco de personalidad
 6ca2a90 Clasificacion inicial de polaridad para reactivos de personalidad
 f52c6d1 Auditoria de seguridad: proteger endpoints legacy con JWT
-b6d207e Modulo Axiologico: 155 reactivos de 4 simuladores consolidados
-67cef31 Modulo de Personalidad: banco de 2829 reactivos con escala Likert
-759e12e Metricas temporales avanzadas en resultados de intento
-8ae24f7 Endpoints de consulta y checks de propiedad por recurso
-a9552ea Proteger endpoints de intentos y sesiones con JWT
 ```
 
 ## Pendientes propuestos (orden sugerido)
 
-1. **🎯 Empezar el frontend con Next.js.** El backend está esencialmente listo para consumirse. Este es el paso donde vuelvo a ver algo real y donde entra el mayor valor para mi producto.
-2. **Bloque 5 razonamiento abstracto** — capturar imágenes de ejercicios de fuentes externas, subirlas a Cloudinary, cargar. Requiere: llenar `CLOUDINARY_API_KEY` y `CLOUDINARY_API_SECRET` en `.env`.
-3. **Panel de administración + RBAC** — cuando aparezcan más usuarios, urge separar admin de aspirante. Se resuelve agregando campo `rol` a Usuario + decorador `@Roles('admin')`.
-4. **Refinamiento de polaridad con LLM** — cuando toque la feature "detección de contradicciones internas" (reactivos del mismo tema con polaridad opuesta que el aspirante respondió incoherentemente).
-5. **Módulo cultural** — reactivos por plantel. Suscripción anual.
-6. **Reporte PDF personalizado** con Puppeteer.
-7. **App móvil** con React Native + Expo.
+1. **🎯 Implementar el simulador de examen en frontend.** Ya tenemos el mockup validado (screenshot dentro del landing). Toca la pantalla `/inicio/plantel/[id]/examen/[tipo]` con la lógica de reactivos + timer + `.map()` de opciones + auto-guardar con `POST /intentos/:id/responder`. **Es el core del producto — sin esto no hay producto.**
+2. **Implementar el panel de resultados** — mockup B ya está validado. La pantalla `/inicio/resultados/[sesionId]` consume `GET /sesiones-completas/:id/resultados` y renderiza los cards + diagnósticos + gráficas + timeline.
+3. **Fotos reales de planteles + página unitaria `/inicio/plantel/[id]`** — mockup C validado. Falta conseguir fotos oficiales de EMM (Medicina) e EMI (Ingeniería); la del HCM ya está en `OneDrive\FOTOS H.C.M\`.
+4. **Bloque 5 razonamiento abstracto** — imágenes de reactivos a Cloudinary. Requiere llenar `CLOUDINARY_API_KEY` y `CLOUDINARY_API_SECRET` en `.env`.
+5. **Panel de administración + RBAC** — separar admin de aspirante con campo `rol` a Usuario + decorador `@Roles('admin')`.
+6. **Refinamiento de polaridad con LLM** — para la feature "detección de contradicciones internas".
+7. **Módulo cultural** — reactivos por plantel. Suscripción anual.
+8. **Reporte PDF personalizado** con Puppeteer.
+9. **App móvil** con React Native + Expo.
+10. **Hardening auth** — migrar cookie de token a httpOnly seteada por backend (más seguro contra XSS).
 
 ## Al arrancar un chat nuevo
 
