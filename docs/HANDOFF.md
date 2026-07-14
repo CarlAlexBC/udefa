@@ -41,12 +41,11 @@ Documento maestro del proyecto:
 
 ## Dónde vive el código
 
-- **Ruta local:** `C:\proyectos\backend\` (todavía se llama "backend" por bug de
-  Windows que no me dejó renombrar; en algún momento lo cambio a `udefa/`)
-- **Repo GitHub:** https://github.com/CarlexBaznas05/backend-udefa
+- **Ruta local:** `C:\proyectos\udefa\`
+- **Repo GitHub:** https://github.com/CarlexBaznas05/udefa
 - **Estructura:** monorepo con npm workspaces
   ```
-  backend/                    (raíz del monorepo)
+  udefa/                      (raíz del monorepo)
   ├── apps/
   │   ├── backend/            NestJS + Prisma + PostgreSQL
   │   ├── web/                Next.js (por construir)
@@ -101,7 +100,7 @@ Documento maestro del proyecto:
 
 ```bash
 # Instalar dependencias (desde el raíz)
-cd C:\proyectos\backend
+cd C:\proyectos\udefa
 npm install
 
 # Levantar backend en modo watch
