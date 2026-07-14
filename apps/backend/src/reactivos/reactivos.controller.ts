@@ -1,6 +1,16 @@
-import { Controller, Post, Get, Delete, Body, Param } from '@nestjs/common';
+import {
+  Controller,
+  Post,
+  Get,
+  Delete,
+  Body,
+  Param,
+  UseGuards,
+} from '@nestjs/common';
 import { ReactivosService } from './reactivos.service';
+import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 
+@UseGuards(JwtAuthGuard)
 @Controller('reactivos')
 export class ReactivosController {
   constructor(private reactivosService: ReactivosService) {}
