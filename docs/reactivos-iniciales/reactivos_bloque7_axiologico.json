@@ -1,0 +1,2327 @@
+[
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la patria es un valor sagrado y está dispuesta a defenderla siempre.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la lealtad hacia sus compañeros está por encima de cualquier interés personal.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la disciplina es la base para lograr cualquier objetivo en la vida.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona obedecer órdenes superiores es fundamental para mantener el orden.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el respeto hacia la autoridad es una prioridad en todo momento.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el cuidado de su presentación personal refleja su carácter.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la salud y la condición física son esenciales para cumplir su deber.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el compromiso con la verdad está por encima de la conveniencia.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la honestidad es un principio que no debe negociarse.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el trabajo en equipo fortalece la confianza entre todos.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el espíritu de cuerpo es indispensable para cumplir cualquier misión.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona asumir sacrificios personales por el bienestar del grupo es necesario.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el honor está por encima del beneficio personal.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona las decisiones deben tomarse siempre pensando en la justicia.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cuidar el medio ambiente forma parte de sus responsabilidades.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona ahorrar recursos y evitar desperdicios es una muestra de responsabilidad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la austeridad es una virtud que debe practicarse.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona manejar el dinero con honestidad es una obligación moral.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona aprovechar recursos para beneficio propio no es aceptable.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona mantener la calma en situaciones difíciles es señal de fortaleza.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona adaptarse a cambios sin perder el control es muy importante.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona es importante mandar sobre los demás.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona tomar la iniciativa es mejor que esperar instrucciones.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona liderar con el ejemplo es la mejor manera de dirigir.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona dar órdenes claras y firmes es parte de un buen liderazgo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la autoridad debe ejercerse con firmeza, aunque no guste a todos.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona imponer disciplina es preferible a permitir el desorden.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona quejarse de las órdenes no es aceptable.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la obediencia absoluta garantiza la cohesión del grupo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona es importante el ganar mucho dinero.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona ayudar a quien lo necesita es un deber moral.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el sacrificio por el bien común es una muestra de valor.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona mantener la palabra dada es un compromiso inquebrantable.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona reconocer sus errores es parte de su integridad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona es importante el manejo de recursos.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la corrupción destruye la confianza y no debe tolerarse.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cumplir las normas aun cuando nadie observa es fundamental.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la justicia debe aplicarse igual para todos sin excepciones.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la valentía se demuestra haciendo lo correcto, incluso en situaciones difíciles.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el amor por su país es un valor que guía sus decisiones.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la lealtad hacia su nación está por encima del beneficio personal.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el honor se demuestra actuando correctamente incluso cuando nadie observa.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la disciplina es fundamental para cumplir cualquier misión.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona obedecer órdenes legítimas es parte esencial del orden.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el respeto hacia la autoridad es necesario para mantener la organización.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el espíritu de equipo es indispensable para lograr objetivos difíciles.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona apoyar a sus compañeros fortalece la confianza del grupo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona tratar a todas las personas con respeto demuestra igualdad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el sacrificio personal por el bienestar de otros es una muestra de abnegación.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la honestidad es un principio que no debe negociarse. A) Me parezco totalmente",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona decir la verdad es más importante que evitar problemas.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el valor se demuestra enfrentando situaciones difíciles con responsabilidad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona mantener la calma bajo presión demuestra fortaleza.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cuidar su salud y condición física es importante para cumplir su deber.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona mantener una buena presentación personal refleja disciplina.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cuidar su bienestar físico y mental es parte de su responsabilidad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cuidar el medio ambiente demuestra responsabilidad social.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona evitar desperdicios es una forma de respeto por los recursos. A) Me parezco totalmente",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona manejar dinero con honestidad es una obligación moral.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona aprovechar recursos públicos para beneficio personal es inaceptable.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la corrupción destruye la confianza en las instituciones.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el liderazgo implica guiar con el ejemplo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona un buen líder debe asumir responsabilidad por su equipo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona tomar decisiones firmes es necesario cuando se dirige a otros.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona imponer disciplina es preferible al desorden.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona ejercer autoridad requiere responsabilidad y equilibrio.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona obedecer normas incluso cuando nadie observa demuestra integridad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cumplir la palabra dada es una muestra de honor.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona aceptar sus errores demuestra madurez.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona actuar con justicia fortalece la confianza del grupo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la igualdad implica aplicar reglas de la misma forma para todos.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la solidaridad fortalece el espíritu de cuerpo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona trabajar en equipo permite alcanzar metas más grandes.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la disciplina personal ayuda a mantener el orden.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la valentía también consiste en hacer lo correcto.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona servir a su país es una forma de compromiso moral.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el deber está por encima de la comodidad personal.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona su país representa un valor que merece respeto y compromiso.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la lealtad hacia sus compañeros es indispensable.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el honor se refleja en mantener principios firmes.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la disciplina personal permite alcanzar metas importantes.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona respetar normas demuestra responsabilidad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona obedecer órdenes es parte de la organización.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el trabajo en equipo fortalece los resultados.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el espíritu de cuerpo crea confianza entre compañeros.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona todas las personas deben recibir un trato justo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona sacrificarse por el bienestar colectivo puede ser necesario.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona ayudar a otros fortalece la convivencia.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la honradez es la base de la confianza.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona actuar con transparencia demuestra integridad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el valor implica enfrentar desafíos con determinación.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona actuar con valentía también significa defender lo correcto.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cuidar su cuerpo es importante para rendir mejor.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la higiene personal demuestra disciplina.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona mantener hábitos saludables es fundamental.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cuidar el entorno natural es una responsabilidad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona proteger recursos naturales es parte del compromiso social.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el dinero no debe influir en decisiones éticas.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona aceptar sobornos es inaceptable.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la honestidad en el manejo de recursos es fundamental.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona liderar implica inspirar confianza.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona un líder debe escuchar a su equipo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona tomar decisiones firmes es parte del liderazgo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona mantener disciplina en el grupo es importante.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona ejercer autoridad requiere justicia.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cumplir reglas aunque nadie supervise demuestra integridad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona mantener la palabra fortalece la confianza.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona reconocer errores demuestra honestidad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona actuar con justicia beneficia a todos.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona tratar a todos con igualdad demuestra respeto.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona apoyar a sus compañeros fortalece la unidad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona colaborar es mejor que competir de forma desleal.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la disciplina personal permite mantener el orden.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona enfrentar problemas con valentía demuestra carácter.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona servir a su comunidad es importante.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cumplir su deber es una prioridad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el amor por su país influye en sus decisiones.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la lealtad hacia su equipo es fundamental.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el honor implica actuar con integridad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la disciplina es clave para lograr objetivos.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona respetar la autoridad mantiene el orden.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona obedecer instrucciones ayuda a evitar conflictos.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona trabajar en equipo es esencial.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el espíritu de cuerpo fortalece la cooperación.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona tratar a todos con dignidad demuestra igualdad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona ayudar a otros refleja abnegación.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona sacrificarse por el grupo puede ser necesario.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la honestidad genera confianza.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona actuar con rectitud demuestra honradez.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el valor implica enfrentar riesgos responsables.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona mantener firmeza ante dificultades demuestra carácter.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cuidar su salud mejora su desempeño.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona mantener buena presentación demuestra disciplina.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el autocuidado es importante para cumplir responsabilidades.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona proteger el medio ambiente es parte de su deber.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona usar responsablemente los recursos naturales es importante.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona el dinero no debe corromper los valores.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona rechazar beneficios indebidos demuestra integridad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la corrupción destruye el respeto hacia las instituciones.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona liderar implica responsabilidad hacia los demás.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona un líder debe actuar con justicia.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona tomar decisiones difíciles forma parte del liderazgo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona imponer orden puede ser necesario en ciertas situaciones.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona ejercer autoridad requiere equilibrio.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cumplir normas demuestra responsabilidad.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cumplir promesas demuestra honor.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona aceptar críticas ayuda a mejorar.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona actuar con justicia beneficia al grupo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona tratar a todos con equidad fortalece la convivencia.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona apoyar a sus compañeros fortalece el equipo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona colaborar genera mejores resultados.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona la disciplina personal ayuda a evitar errores.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona enfrentar desafíos con valentía demuestra fortaleza.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona servir a su país es motivo de orgullo.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  },
+  {
+    "bloqueId": 7,
+    "enunciado": "Para esta persona cumplir su deber es una prioridad en su vida.",
+    "opciones": [
+      "Me parezco totalmente",
+      "Me parezco mucho",
+      "Me parezco más o menos",
+      "Me parezco poco",
+      "No me parezco nada"
+    ],
+    "tipo": "escala_likert",
+    "respuestaCorrecta": null,
+    "tema": "valores_militares",
+    "polaridad": "POSITIVA"
+  }
+]

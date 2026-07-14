@@ -13,8 +13,9 @@ banco inicial del examen psicométrico. Se generaron a partir del material real
 | `reactivos_bloque3_sinonimos_antonimos.json` | 3 · Sinónimos y Antónimos | 175 | `Banco_Maestro_Sinonimos_y_Antonimos_V1.docx` |
 | `reactivos_bloque4_razonamiento_logico.json` | 4 · Razonamiento Lógico | 50 | `EXAMEN PSICOMÉTRICO 1.docx` (25 numéricas + 25 alfanuméricas) |
 | `reactivos_bloque6_personalidad.json` | 6 · Personalidad (Examen 2) | 2,829 | `REACTIVOS DE EXAMEN DE PERSONALIDAD PARA LA PLATAFORMA.pdf` — parseado con `tools/parsear-personalidad/` |
+| `reactivos_bloque7_axiologico.json` | 7 · Axiológico (Examen 3) | 155 | 4 simuladores axiológicos consolidados (DFPT + V1.0 + V2.0 + V3.0) — parseado con `tools/parsear-axiologico/` |
 
-**Total:** 3,079 reactivos (250 psicométrico + 2,829 personalidad).
+**Total:** 3,234 reactivos (250 psicométrico + 2,829 personalidad + 155 axiológico).
 
 ## Detalles importantes
 
