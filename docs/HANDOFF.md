@@ -80,6 +80,7 @@ Documento maestro del proyecto:
 | Endpoints de consulta | ✅ | GET intentos, respuestas, sesiones del usuario |
 | Auditoría de seguridad JWT | ✅ | Reactivos, examenes, bloques, planteles protegidos |
 | RBAC (admin vs usuario) | ⏳ | **No hay** — todos los users autenticados son admins de facto |
+| Paginación en GET /reactivos | ✅ | `?take=N&skip=N&bloqueId=N`, default 50, tope 200 |
 | Frontend | ⏳ | Nada aún |
 | Módulo cultural | ⏳ | Nada aún |
 | Reporte PDF | ⏳ | Nada aún |
@@ -160,6 +161,8 @@ Ver `feedback_estilo_pedagogico.md` en memoria para más contexto.
 ## Trabajos recientes (últimos 10 commits)
 
 ```
+e0de84c Paginacion en GET /reactivos con filtro por bloque
+bcc537f Handoff doc: contexto completo para retomar el proyecto
 dcaf799 Limpieza de artefactos en el banco de personalidad
 6ca2a90 Clasificacion inicial de polaridad para reactivos de personalidad
 f52c6d1 Auditoria de seguridad: proteger endpoints legacy con JWT
@@ -168,8 +171,6 @@ b6d207e Modulo Axiologico: 155 reactivos de 4 simuladores consolidados
 759e12e Metricas temporales avanzadas en resultados de intento
 8ae24f7 Endpoints de consulta y checks de propiedad por recurso
 a9552ea Proteger endpoints de intentos y sesiones con JWT
-013db48 Sesion completa: crear, finalizar y resultados agregados
-3e63071 Endpoint de resultados: metricas globales, por bloque y por tema
 ```
 
 ## Pendientes propuestos (orden sugerido)
