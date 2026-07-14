@@ -5,6 +5,7 @@ import {
   Delete,
   Body,
   Param,
+  Query,
   UseGuards,
 } from '@nestjs/common';
 import { ReactivosService } from './reactivos.service';
@@ -35,8 +36,16 @@ export class ReactivosController {
   }
 
   @Get()
-  obtenerTodos() {
-    return this.reactivosService.obtenerTodos();
+  obtenerTodos(
+    @Query('take') take?: string,
+    @Query('skip') skip?: string,
+    @Query('bloqueId') bloqueId?: string,
+  ) {
+    return this.reactivosService.obtenerTodos({
+      take: take ? Number(take) : undefined,
+      skip: skip ? Number(skip) : undefined,
+      bloqueId: bloqueId ? Number(bloqueId) : undefined,
+    });
   }
 
   @Delete(':id')
