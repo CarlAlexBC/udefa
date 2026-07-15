@@ -371,11 +371,132 @@ export class IntentosService {
       0,
     );
 
+    // Sesgo de respuesta + deseabilidad social — solo aplica a personalidad.
+    // Detecta aquiescencia (siempre Sí), negativismo (siempre No), y perfil
+    // idealizado (responde exclusivamente en dirección socialmente deseable).
+    const sesgoRespuesta =
+      tipoExamen === 'personalidad'
+        ? this.calcularSesgoRespuesta(respuestas)
+        : null;
+
+    // Score global de coincidencia con perfil militar ideal — solo aplica al
+    // axiológico. Promedia los scores normalizados por polaridad y los mapea
+    // a una escala 0-100 donde 100 = coincidencia total con el perfil ideal.
+    const scoreCoincidenciaIdeal =
+      tipoExamen === 'axiologico'
+        ? this.calcularScoreCoincidenciaIdeal(respuestas)
+        : null;
+
     return {
       porTema: analisisPorTema,
       totalContradicciones,
       temasConInconsistencia,
       perfilCoherente: temasConInconsistencia.length === 0,
+      sesgoRespuesta,
+      scoreCoincidenciaIdeal,
+    };
+  }
+
+  /**
+   * Sesgo de respuesta y deseabilidad social (solo personalidad Sí/No).
+   *
+   * - porcentajeSi / porcentajeNo: distribución global de las respuestas
+   * - indiceDeseabilidad: % de reactivos respondidos "en dirección socialmente
+   *   deseable" (POSITIVA + Sí, o NEGATIVA + No). Un valor muy alto indica
+   *   que el aspirante está tratando de proyectar un perfil idealizado.
+   * - tieneSesgoAquiescencia: responde >75% Sí a todo (asentimiento automático)
+   * - tieneSesgoNegativismo: responde >75% No a todo (rechazo automático)
+   * - perfilIdealizado: índiceDeseabilidad > 90% (poco creíble para el sistema)
+   */
+  private calcularSesgoRespuesta(
+    respuestas: Array<{
+      respuestaSeleccionada: string;
+      reactivo: { polaridad: string | null };
+    }>,
+  ) {
+    let totalSi = 0;
+    let totalNo = 0;
+    let idealizados = 0;
+    let totalConPolaridad = 0;
+
+    for (const r of respuestas) {
+      const respLower = r.respuestaSeleccionada.toLowerCase().trim();
+      const respondioSi = respLower === 'sí' || respLower === 'si';
+      const respondioNo = respLower === 'no';
+      if (respondioSi) totalSi++;
+      if (respondioNo) totalNo++;
+
+      if (r.reactivo.polaridad && (respondioSi || respondioNo)) {
+        totalConPolaridad++;
+        if (r.reactivo.polaridad === 'POSITIVA' && respondioSi) idealizados++;
+        if (r.reactivo.polaridad === 'NEGATIVA' && respondioNo) idealizados++;
+      }
+    }
+
+    const total = totalSi + totalNo;
+    if (total === 0) return null;
+
+    const porcentajeSi = Math.round((totalSi / total) * 100);
+    const porcentajeNo = Math.round((totalNo / total) * 100);
+    const indiceDeseabilidad =
+      totalConPolaridad > 0
+        ? Math.round((idealizados / totalConPolaridad) * 100)
+        : 0;
+
+    const UMBRAL_SESGO = 75;
+    const UMBRAL_IDEALIZACION = 90;
+
+    return {
+      porcentajeSi,
+      porcentajeNo,
+      indiceDeseabilidad,
+      tieneSesgoAquiescencia: porcentajeSi > UMBRAL_SESGO,
+      tieneSesgoNegativismo: porcentajeNo > UMBRAL_SESGO,
+      perfilIdealizado: indiceDeseabilidad > UMBRAL_IDEALIZACION,
+    };
+  }
+
+  /**
+   * Score de coincidencia con el perfil militar ideal (0-100).
+   * Solo axiológico. Promedia los scores normalizados por polaridad (que
+   * ya vienen en escala 1-5 con 5 = alineado al ideal) y los mapea a 0-100.
+   * Devuelve también una etiqueta cualitativa.
+   */
+  private calcularScoreCoincidenciaIdeal(
+    respuestas: Array<{
+      respuestaSeleccionada: string;
+      reactivo: {
+        polaridad: string | null;
+        opciones: unknown;
+      };
+    }>,
+  ) {
+    const scores: number[] = [];
+    for (const r of respuestas) {
+      if (!r.reactivo.polaridad) continue;
+      const s = this.normalizarRespuestaPolarizada(
+        r.respuestaSeleccionada,
+        r.reactivo.opciones as string[],
+        r.reactivo.polaridad,
+        'axiologico',
+      );
+      if (s !== null) scores.push(s);
+    }
+    if (scores.length === 0) return null;
+
+    const promedio = scores.reduce((s, v) => s + v, 0) / scores.length;
+    // Escala 1-5 → 0-100
+    const scoreNormalizado = Math.round(((promedio - 1) / 4) * 100);
+
+    let etiqueta: 'alta' | 'media' | 'baja';
+    if (scoreNormalizado >= 80) etiqueta = 'alta';
+    else if (scoreNormalizado >= 60) etiqueta = 'media';
+    else etiqueta = 'baja';
+
+    return {
+      score: scoreNormalizado,
+      promedio: Math.round(promedio * 100) / 100,
+      etiqueta,
     };
   }
 

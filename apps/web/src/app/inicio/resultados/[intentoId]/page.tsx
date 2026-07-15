@@ -58,11 +58,28 @@ type AnalisisTema = {
   contradiccionesDetectadas: number
 }
 
+type SesgoRespuesta = {
+  porcentajeSi: number
+  porcentajeNo: number
+  indiceDeseabilidad: number
+  tieneSesgoAquiescencia: boolean
+  tieneSesgoNegativismo: boolean
+  perfilIdealizado: boolean
+}
+
+type ScoreCoincidenciaIdeal = {
+  score: number
+  promedio: number
+  etiqueta: 'alta' | 'media' | 'baja'
+}
+
 type AnalisisConsistencia = {
   porTema: AnalisisTema[]
   totalContradicciones: number
   temasConInconsistencia: string[]
   perfilCoherente: boolean
+  sesgoRespuesta?: SesgoRespuesta | null
+  scoreCoincidenciaIdeal?: ScoreCoincidenciaIdeal | null
 }
 
 type Resultados = {
@@ -553,12 +570,32 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
               </p>
             </div>
             <div className="text-right">
-              <p className="text-5xl font-semibold tracking-tight leading-none">
-                {data.reactivosRespondidos}
-              </p>
-              <p className="mt-1 text-xs font-semibold uppercase tracking-widest text-accent">
-                reactivos respondidos
-              </p>
+              {/* Score de coincidencia con perfil ideal — solo axiológico */}
+              {data.analisisConsistencia?.scoreCoincidenciaIdeal ? (
+                <>
+                  <p className="text-5xl font-semibold tracking-tight leading-none">
+                    {data.analisisConsistencia.scoreCoincidenciaIdeal.score}
+                    <span className="text-xl text-muted-foreground">/100</span>
+                  </p>
+                  <p className={cn(
+                    'mt-1 text-xs font-semibold uppercase tracking-widest',
+                    data.analisisConsistencia.scoreCoincidenciaIdeal.etiqueta === 'alta' ? 'text-military' :
+                    data.analisisConsistencia.scoreCoincidenciaIdeal.etiqueta === 'media' ? 'text-accent' :
+                    'text-destructive'
+                  )}>
+                    coincidencia {data.analisisConsistencia.scoreCoincidenciaIdeal.etiqueta} con perfil militar
+                  </p>
+                </>
+              ) : (
+                <>
+                  <p className="text-5xl font-semibold tracking-tight leading-none">
+                    {data.reactivosRespondidos}
+                  </p>
+                  <p className="mt-1 text-xs font-semibold uppercase tracking-widest text-accent">
+                    reactivos respondidos
+                  </p>
+                </>
+              )}
             </div>
           </div>
         </div>
@@ -645,6 +682,83 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
           )}
         </section>
 
+        {/* Estilo de respuesta — solo personalidad (sesgo + deseabilidad social) */}
+        {data.analisisConsistencia?.sesgoRespuesta && (
+          <section className="mt-6 rounded-xl border border-border bg-card p-5">
+            <h3 className="mb-4 text-sm font-semibold text-foreground">
+              Tu estilo de respuesta
+            </h3>
+            <p className="mb-4 text-xs text-muted-foreground">
+              Análisis de cómo distribuiste tus respuestas. Sesgos muy marcados o idealización excesiva generan perfiles poco creíbles.
+            </p>
+
+            {/* Distribución Sí / No */}
+            <div className="mb-4">
+              <div className="mb-2 flex items-center justify-between text-xs">
+                <span className="font-medium text-foreground">Distribución de respuestas</span>
+                <span className="text-muted-foreground">
+                  {data.analisisConsistencia.sesgoRespuesta.porcentajeSi}% Sí · {data.analisisConsistencia.sesgoRespuesta.porcentajeNo}% No
+                </span>
+              </div>
+              <div className="flex h-3 w-full overflow-hidden rounded-full bg-muted">
+                <div
+                  className="bg-military transition-all"
+                  style={{ width: `${data.analisisConsistencia.sesgoRespuesta.porcentajeSi}%` }}
+                />
+                <div
+                  className="bg-destructive/60 transition-all"
+                  style={{ width: `${data.analisisConsistencia.sesgoRespuesta.porcentajeNo}%` }}
+                />
+              </div>
+            </div>
+
+            {/* Índice de deseabilidad */}
+            <div className="mb-4">
+              <div className="mb-2 flex items-center justify-between text-xs">
+                <span className="font-medium text-foreground">Índice de deseabilidad social</span>
+                <span className={cn(
+                  'font-semibold',
+                  data.analisisConsistencia.sesgoRespuesta.perfilIdealizado ? 'text-destructive' : 'text-foreground'
+                )}>
+                  {data.analisisConsistencia.sesgoRespuesta.indiceDeseabilidad}%
+                </span>
+              </div>
+              <div className="h-3 w-full overflow-hidden rounded-full bg-muted">
+                <div
+                  className={cn(
+                    'h-full transition-all',
+                    data.analisisConsistencia.sesgoRespuesta.perfilIdealizado ? 'bg-destructive' : 'bg-accent'
+                  )}
+                  style={{ width: `${data.analisisConsistencia.sesgoRespuesta.indiceDeseabilidad}%` }}
+                />
+              </div>
+              <p className="mt-1 text-[10px] text-muted-foreground">
+                % de respuestas alineadas al perfil socialmente esperado. Un valor {'>'}90% se lee como perfil idealizado poco creíble.
+              </p>
+            </div>
+
+            {/* Alertas de sesgo */}
+            {(data.analisisConsistencia.sesgoRespuesta.tieneSesgoAquiescencia ||
+              data.analisisConsistencia.sesgoRespuesta.tieneSesgoNegativismo ||
+              data.analisisConsistencia.sesgoRespuesta.perfilIdealizado) && (
+              <div className="flex items-start gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-3">
+                <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-destructive" />
+                <div className="text-xs text-foreground">
+                  {data.analisisConsistencia.sesgoRespuesta.tieneSesgoAquiescencia && (
+                    <p><strong>Sesgo de aquiescencia:</strong> respondiste Sí a más del 75%. Puede indicar asentimiento automático sin análisis real.</p>
+                  )}
+                  {data.analisisConsistencia.sesgoRespuesta.tieneSesgoNegativismo && (
+                    <p><strong>Sesgo de negativismo:</strong> respondiste No a más del 75%. Puede indicar rechazo automático o desconfianza.</p>
+                  )}
+                  {data.analisisConsistencia.sesgoRespuesta.perfilIdealizado && (
+                    <p className="mt-1"><strong>Perfil idealizado:</strong> más del 90% de tus respuestas apuntan al lado positivo. El examen real detecta esto como poco creíble.</p>
+                  )}
+                </div>
+              </div>
+            )}
+          </section>
+        )}
+
         {/* Análisis de consistencia por tema (usa polaridad de los reactivos) */}
         {data.analisisConsistencia && data.analisisConsistencia.porTema.length > 0 && (
           <section className="mt-6 rounded-xl border border-border bg-card p-5">
@@ -705,6 +819,50 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
    (polaridad + tema) además de las métricas temporales. */
 function calcularDiagnosticosAutoevaluacion(data: Resultados): Diagnostico[] {
   const out: Diagnostico[] = []
+
+  // ─── Prioridad 0: Alertas de sesgo (personalidad) ───
+
+  const sesgo = data.analisisConsistencia?.sesgoRespuesta
+  if (sesgo?.perfilIdealizado) {
+    out.push({
+      severidad: 'atencion',
+      titulo: `Perfil idealizado: ${sesgo.indiceDeseabilidad}% de respuestas alineadas al lado positivo.`,
+      descripcion:
+        'Un perfil que responde siempre en la dirección socialmente esperada se lee como poco creíble. El examen real está diseñado para detectar exactamente este patrón. Responde con más autenticidad.',
+    })
+  }
+  if (sesgo?.tieneSesgoAquiescencia) {
+    out.push({
+      severidad: 'revisar',
+      titulo: `Sesgo de aquiescencia: ${sesgo.porcentajeSi}% de respuestas fueron Sí.`,
+      descripcion: 'Responder Sí a todo indica asentimiento automático sin análisis real. Cada reactivo debe evaluarse individualmente.',
+    })
+  }
+  if (sesgo?.tieneSesgoNegativismo) {
+    out.push({
+      severidad: 'revisar',
+      titulo: `Sesgo de negativismo: ${sesgo.porcentajeNo}% de respuestas fueron No.`,
+      descripcion: 'Responder No a todo indica rechazo automático. También puede leerse como desconfianza o resistencia al proceso.',
+    })
+  }
+
+  // ─── Score de coincidencia con ideal — solo axiológico ───
+
+  const scoreCI = data.analisisConsistencia?.scoreCoincidenciaIdeal
+  if (scoreCI && scoreCI.etiqueta === 'baja') {
+    out.push({
+      severidad: 'atencion',
+      titulo: `Coincidencia baja (${scoreCI.score}/100) con el perfil militar ideal.`,
+      descripcion: 'Tu perfil axiológico se aleja del perfil buscado por la institución. Revisa la Guía del Aspirante — sección de valores militares — para entender el perfil esperado.',
+    })
+  }
+  if (scoreCI && scoreCI.etiqueta === 'alta') {
+    out.push({
+      severidad: 'fortaleza',
+      titulo: `Alta coincidencia (${scoreCI.score}/100) con el perfil militar ideal.`,
+      descripcion: 'Tu perfil axiológico se alinea consistentemente con los valores buscados. Es una fortaleza estructural del perfil.',
+    })
+  }
 
   // ─── Prioridad 1: Contradicciones internas (usa polaridad + tema) ───
 

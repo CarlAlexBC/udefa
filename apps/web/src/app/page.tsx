@@ -281,9 +281,15 @@ export default function Home() {
           </div>
 
           <div className="grid grid-cols-1 gap-8 md:grid-cols-[240px_1fr] md:items-center">
-            {/* Placeholder de foto */}
-            <div className="mx-auto flex h-52 w-52 items-center justify-center rounded-full border-4 border-accent/30 bg-primary md:mx-0">
-              <span className="text-6xl font-semibold text-accent">C</span>
+            {/* Foto de Carlo */}
+            <div className="relative mx-auto h-52 w-52 overflow-hidden rounded-full border-4 border-accent/30 md:mx-0">
+              <Image
+                src="/carlo.jpg"
+                alt="Carlo Alexander"
+                fill
+                sizes="208px"
+                className="object-cover"
+              />
             </div>
 
             <div>
