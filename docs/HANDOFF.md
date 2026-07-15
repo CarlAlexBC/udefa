@@ -81,15 +81,20 @@ Documento maestro del proyecto:
 | RBAC (admin vs usuario) | ⏳ | **No hay** — todos los users autenticados son admins de facto |
 | Paginación en GET /reactivos | ✅ | `?take=N&skip=N&bloqueId=N`, default 50, tope 200 |
 | Sistema de diseño frontend | ✅ | shadcn/ui + paleta acordada (carbón, crema, latón, oliva militar), Manrope única. Ver `project_sistema_diseno.md` en memoria |
-| Frontend — landing pública `/` | ✅ | Hero dark + fases + CTA final con transiciones dark/light. Logo real integrado |
-| Frontend — auth flow | ✅ | `/login` + `/registro` (con auto-login), token en cookie, middleware guard en `src/middleware.ts` protege `/inicio/*` |
-| Frontend — `/inicio` (privado) | ✅ | Lista de planteles con HeaderPrivado (logout funcional que llama `POST /auth/logout`) |
+| Frontend — landing pública `/` | ✅ | Hero dark + fases + ejemplos resueltos + planteles + sobre creador + CTA final |
+| Frontend — auth flow | ✅ | `/login` + `/registro` con selector de plantel obligatorio, auto-login, token en cookie, middleware guard en `src/middleware.ts` protege `/inicio/*` |
+| Frontend — dashboard `/inicio` | ✅ | Perfil-aware: sin plantel → selector; con plantel → card + 3 CTAs de examenes + placeholder Guia |
+| Frontend — simulador multi-examen | ✅ | Ruta dinámica `/inicio/simulador/[examenId]`. Bloques con timer independiente, instrucciones + ejemplo antes de cada bloque, mapa sticky, navegación libre, finalizar en cualquier momento. UI adaptativa A/B/C/D (psicométrico) vs Likert (personalidad/axiológico) |
+| Frontend — panel de resultados | ✅ | `/inicio/resultados/[intentoId]` con hero de puntaje, desglose por bloque/tema, timeline temporal, diagnósticos accionables auto-generados |
+| Modelo usuario ↔ plantel | ✅ | `plantelId` obligatorio en registro; endpoint `PATCH /usuarios/mi-plantel` para asignar plantel a legacy; `GET /auth/perfil` devuelve usuario completo con plantel |
 | CORS backend | ✅ | `app.enableCors()` habilitado en `main.ts` para requests desde `http://localhost:3000` |
-| Frontend — panel de resultados | ⏳ | Diseñado en mockup (Mockup B validado); implementación pendiente |
-| Frontend — simulador de examen | ⏳ | Diseñado en mockup; implementación pendiente |
+| Bloque de Razonamiento Abstracto | ⏳ | Sin reactivos (necesita imágenes en Cloudinary). El simulador lo detecta y salta con nota |
+| Guía del Aspirante online | ⏳ | Pendiente remasterizar como lectura online (se decidió no seguir con PDF descargable) |
+| Rediseño sección "Ejemplos" landing | ⏳ | Carlo la marcó como pendiente de rediseño; código existente sirve como base |
+| Integración logos planteles | ⏳ | Assets en `public/planteles/{HMC,EMM,EMI}.png`; falta integrar en cards de landing y dashboard |
 | Módulo cultural | ⏳ | Nada aún |
 | Reporte PDF | ⏳ | Nada aún |
-| Panel de admin | ⏳ | Nada aún |
+| Panel de admin + RBAC | ⏳ | Nada aún |
 
 ## Datos actuales en la BD
 
@@ -134,17 +139,23 @@ Env vars están en `apps/backend/.env` (gitignored). Incluyen:
 
 **Vía frontend** (recomendado ahora que existe UI):
 - `http://localhost:3000` — landing pública
-- `http://localhost:3000/registro` — crear cuenta (auto-login incluido)
+- `http://localhost:3000/registro` — crear cuenta con selector de plantel
 - `http://localhost:3000/login` — iniciar sesión (redirige a `/inicio`)
-- `http://localhost:3000/inicio` — área privada (redirige a `/login` si no hay cookie)
+- `http://localhost:3000/inicio` — dashboard privado (redirige a `/login` si no hay cookie)
+- `http://localhost:3000/inicio/simulador/1` — simulador psicométrico (4 bloques, A/B/C/D)
+- `http://localhost:3000/inicio/simulador/2` — simulador personalidad (Likert 4 puntos)
+- `http://localhost:3000/inicio/simulador/3` — simulador axiológico (Likert 5 puntos)
+- `http://localhost:3000/inicio/resultados/[intentoId]` — panel de resultados
 
 **Vía Thunder Client** en VS Code (para endpoints sin UI todavía). Los protegidos requieren header
 `Authorization: Bearer <token>` — el token sale de `POST /auth/login`.
 
 Endpoints principales:
 - `POST /auth/login` — devuelve `access_token`
-- `POST /usuarios/registro`
-- `GET /planteles` — público (para form de registro)
+- `GET /auth/perfil` — usuario autenticado completo con plantel incluido
+- `POST /usuarios/registro` — requiere `{ nombre, email, password, plantelId }`
+- `PATCH /usuarios/mi-plantel` — asigna/cambia plantel del usuario autenticado
+- `GET /planteles` — público (para form de registro y landing)
 - `GET /examenes/:id/armar` — devuelve el examen listo para presentar
 - `POST /intentos` — crea un intento (usuarioId sale del JWT)
 - `POST /intentos/:id/responder`
@@ -168,6 +179,10 @@ Guarda estos para mantener consistencia:
 9. **Token en cookie, no localStorage.** El middleware corre en el edge server y no puede leer localStorage. Helper `src/lib/auth.ts` centraliza `setToken/getToken/clearToken`. Cookie NO httpOnly por ahora (migrar a httpOnly setada por backend cuando toque hardening).
 10. **Paleta y tipografía como sistema, no ad-hoc:** todos los colores vienen de `globals.css` (`--primary`, `--accent`, `--military`, etc.). Cero hex hardcodeado en componentes. Ver `project_sistema_diseno.md` en memoria para las reglas de uso.
 11. **shadcn/ui v4 usa Base UI** (sucesor de Radix UI). El Button NO acepta `asChild`. Para links con estilo de botón: `<Link className={cn(buttonVariants({...}))}>`.
+12. **Simulador multi-examen via ruta dinámica.** `/inicio/simulador/[examenId]` maneja los 3 tipos con la misma lógica. UI adaptativa: `examen.calificable === true` → opciones verticales A/B/C/D; `false` → grid Likert horizontal. Timer por bloque usa `bloque.tiempoLimite * 60` (no hardcoded).
+13. **Instrucciones/ejemplos por bloque centralizados** en `src/lib/instrucciones-bloques.ts`. Contenido oficial extraído del PDF "EXAMEN SIMULADOR PRUEBAS EIC-DN11 2026 4" (bloques 1-3) y Guía del Aspirante (bloque 4 y examenes de personalidad/axiológico). Consumido tanto por el simulador como por la sección de ejemplos en la landing → cero duplicación.
+14. **Helper `apiFetch` en `src/lib/api.ts`.** Wrapper de fetch que agrega Bearer token de cookie automáticamente, serializa body, y parsea mensajes de error de NestJS. Uso: `apiFetch<T>(path, { method, body })`.
+15. **Diagnósticos accionables auto-generados** en panel de resultados. La función `calcularDiagnosticos` lee las métricas temporales y por-bloque para emitir cards con severidad (atencion/revisar/fortaleza). No hay tabla de diagnósticos preescritos — se derivan de los datos.
 
 ## Cómo hablarme
 
@@ -182,38 +197,43 @@ Ver `feedback_estilo_pedagogico.md` en memoria para más contexto.
 ## Trabajos recientes (últimos 10 commits)
 
 ```
+c9ff226 Simulador funcional multi-examen + modelo usuario-plantel + landing rica
+db81603 HANDOFF: reflejar sprint de frontend + auth flow
 4748d3d Frontend: sistema de diseno y auth flow completo
 d288e22 Frontend: setup Next 16 en apps/web con landing publica de planteles
 468eaee HANDOFF: renombrar rutas backend/ -> udefa/ tras rename del monorepo
 17a5d5e Actualiza generar.py
 68bb2b9 HANDOFF: reflejar paginacion de reactivos y ultimos commits
 e0de84c Paginacion en GET /reactivos con filtro por bloque
-bcc537f Handoff doc: contexto completo para retomar el proyecto
-dcaf799 Limpieza de artefactos en el banco de personalidad
 6ca2a90 Clasificacion inicial de polaridad para reactivos de personalidad
 f52c6d1 Auditoria de seguridad: proteger endpoints legacy con JWT
 ```
 
 ## Pendientes propuestos (orden sugerido)
 
-1. **🎯 Implementar el simulador de examen en frontend.** Ya tenemos el mockup validado (screenshot dentro del landing). Toca la pantalla `/inicio/plantel/[id]/examen/[tipo]` con la lógica de reactivos + timer + `.map()` de opciones + auto-guardar con `POST /intentos/:id/responder`. **Es el core del producto — sin esto no hay producto.**
-2. **Implementar el panel de resultados** — mockup B ya está validado. La pantalla `/inicio/resultados/[sesionId]` consume `GET /sesiones-completas/:id/resultados` y renderiza los cards + diagnósticos + gráficas + timeline.
-3. **Fotos reales de planteles + página unitaria `/inicio/plantel/[id]`** — mockup C validado. Falta conseguir fotos oficiales de EMM (Medicina) e EMI (Ingeniería); la del HCM ya está en `OneDrive\FOTOS H.C.M\`.
-4. **Bloque 5 razonamiento abstracto** — imágenes de reactivos a Cloudinary. Requiere llenar `CLOUDINARY_API_KEY` y `CLOUDINARY_API_SECRET` en `.env`.
-5. **Panel de administración + RBAC** — separar admin de aspirante con campo `rol` a Usuario + decorador `@Roles('admin')`.
-6. **Refinamiento de polaridad con LLM** — para la feature "detección de contradicciones internas".
-7. **Módulo cultural** — reactivos por plantel. Suscripción anual.
-8. **Reporte PDF personalizado** con Puppeteer.
-9. **App móvil** con React Native + Expo.
-10. **Hardening auth** — migrar cookie de token a httpOnly seteada por backend (más seguro contra XSS).
+1. **🎯 Guía del Aspirante como lectura online.** Se descartó el PDF descargable. Toca crear `/inicio/guia` como página con capítulos navegables (probablemente con Table of Contents lateral). **Además la queremos remasterizar juntos** — mejorar el contenido/tono/estructura antes de publicarla. El .docx está en `OneDrive\...\LA GUIA DEL ASPIRANTE (U.D.E.F.A.)\`.
+2. **Rediseño de la sección "Ejemplos resueltos" en la landing.** El código actual funciona pero Carlo lo marcó como "no me gustó, dejar pendiente para modificar después".
+3. **Integrar logos oficiales de planteles.** Los archivos ya están en `apps/web/public/planteles/{HMC,EMM,EMI}.png`. Falta usarlos con `<Image>` en las cards de la landing (`PlantelCardMarketing`) y en la card del plantel del usuario en el dashboard.
+4. **Bloque 4 Razonamiento Abstracto** — imágenes de reactivos a Cloudinary. Requiere llenar `CLOUDINARY_API_KEY` y `CLOUDINARY_API_SECRET` en `.env`. El simulador ya detecta bloque vacío y salta.
+5. **Página unitaria de plantel `/inicio/plantel/[id]`** — con más detalle del plantel (oferta educativa, requisitos, foto). Mockup C ya validado.
+6. **Reset de passwords de usuarios legacy** — `carlo@prueba.com` (id=1) y `emtg@prueba.com` (id=2) tienen password olvidada. Un script de 20 líneas con bcrypt para actualizar.
+7. **Sesión completa (los 3 exámenes agrupados).** El backend ya tiene `SesionExamenCompleto`. Falta implementar el flujo en el frontend: crear sesión, presentar los 3 exámenes secuencialmente, panel de resultados agregado.
+8. **Panel de administración + RBAC** — separar admin de aspirante con campo `rol` a Usuario + decorador `@Roles('admin')`.
+9. **Refinamiento de polaridad con LLM** — para la feature "detección de contradicciones internas".
+10. **Módulo cultural** — reactivos por plantel. Suscripción anual.
+11. **Reporte PDF personalizado** con Puppeteer.
+12. **App móvil** con React Native + Expo.
+13. **Hardening auth** — migrar cookie de token a httpOnly seteada por backend (más seguro contra XSS).
 
 ## Al arrancar un chat nuevo
 
 Después de pegar este documento, dime específicamente **por dónde quieres seguir**.
 Ejemplos:
-- "Vamos por el frontend, arranca por el setup de Next.js"
-- "Sigamos con el bloque 5 razonamiento abstracto"
-- "Quiero refinar la polaridad con LLM"
+- "Vamos por la Guía online, arranca leyendo el .docx para remasterizar"
+- "Rediseñemos la sección de ejemplos de la landing"
+- "Integra los logos de planteles en las cards"
+- "Reset password de mi usuario `carlo@prueba.com`"
+- "Sigue con el bloque de razonamiento abstracto"
 - "Vamos con panel de admin + RBAC"
 
 Yo leo mi memoria (que tiene contexto complementario), este documento, y arranco
