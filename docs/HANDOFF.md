@@ -84,14 +84,19 @@ Documento maestro del proyecto:
 | Frontend — landing pública `/` | ✅ | Hero dark + fases + ejemplos resueltos + planteles + sobre creador + CTA final |
 | Frontend — auth flow | ✅ | `/login` + `/registro` con selector de plantel obligatorio, auto-login, token en cookie, middleware guard en `src/middleware.ts` protege `/inicio/*` |
 | Frontend — dashboard `/inicio` | ✅ | Perfil-aware: sin plantel → selector; con plantel → card + 3 CTAs de examenes + placeholder Guia |
-| Frontend — simulador multi-examen | ✅ | Ruta dinámica `/inicio/simulador/[examenId]`. Bloques con timer independiente, instrucciones + ejemplo antes de cada bloque, mapa sticky, navegación libre, finalizar en cualquier momento. UI adaptativa A/B/C/D (psicométrico) vs Likert (personalidad/axiológico) |
-| Frontend — panel de resultados | ✅ | `/inicio/resultados/[intentoId]` con hero de puntaje, desglose por bloque/tema, timeline temporal, diagnósticos accionables auto-generados |
+| Frontend — simulador multi-examen | ✅ | Ruta dinámica `/inicio/simulador/[examenId]`. Bloques con timer independiente, instrucciones + ejemplo antes de cada bloque, banda de reactivos sticky bottom (escala a 256+), navegación libre + auto-advance al responder (250ms), tema oculto al aspirante, finalizar en cualquier momento. UI adaptativa: A/B/C/D vertical (psicométrico), Sí/No en 2 botones grandes (personalidad), Likert 5 puntos horizontal (axiológico) |
+| Frontend — panel de resultados calificable | ✅ | `PanelCalificable` en `/inicio/resultados/[intentoId]` con hero de %, diagnósticos accionables (fatiga, bloques débiles, fortalezas), desglose por bloque/tema, timeline temporal |
+| Frontend — panel de resultados autoevaluación | ✅ | `PanelAutoevaluacion` para personalidad/axiológico. Hero card muestra score coincidencia ideal (axiológico) o reactivos respondidos (personalidad). Secciones: consistencia por tema (barras coloreadas por coherencia), estilo de respuesta (sesgo Sí/No + índice de deseabilidad social) con alertas de aquiescencia/negativismo/idealización |
+| Frontend — sesión completa (3 fases) | ✅ | Ruta `/inicio/sesion` crea SesionExamenCompleto y redirige al primer examen con `?sesion=id`; simulador detecta el flag y arranca examen siguiente al finalizar cada uno; al terminar el 3ero cierra sesión y va a `/inicio/sesion-resultados/[sesionId]` con panel agregado + sección "Coherencia Personalidad ↔ Axiológico" (distancia cross-examen normalizada 0-100) |
 | Modelo usuario ↔ plantel | ✅ | `plantelId` obligatorio en registro; endpoint `PATCH /usuarios/mi-plantel` para asignar plantel a legacy; `GET /auth/perfil` devuelve usuario completo con plantel |
+| Análisis psicométrico avanzado | ✅ | `IntentosService.calcularAnalisisConsistencia` usa polaridad + tema. Para personalidad: `calcularSesgoRespuesta` (aquiescencia, negativismo, deseabilidad). Para axiológico: `calcularScoreCoincidenciaIdeal` (0-100 vs perfil militar). `SesionesCompletasService.calcularDistanciaCrossExamen` compara `valores_militares` entre ambos exámenes |
+| Logos oficiales planteles | ✅ | HMC/EMM/EMI en `public/planteles/`. Helper `logoDePlantel` en `src/lib/planteles.ts`. Integrados en landing y dashboard privado |
 | CORS backend | ✅ | `app.enableCors()` habilitado en `main.ts` para requests desde `http://localhost:3000` |
+| Guía del Aspirante — Tanda 1 sanada | ✅ | Contenido source-of-truth en `docs/guia-aspirante/` con 4 secciones sanadas (§3.6, §4.6.2, §4.6.7, §5.7) usando marcos psicológicos clásicos. Ver README ahí para estado completo del proyecto de sanación |
 | Bloque de Razonamiento Abstracto | ⏳ | Sin reactivos (necesita imágenes en Cloudinary). El simulador lo detecta y salta con nota |
-| Guía del Aspirante online | ⏳ | Pendiente remasterizar como lectura online (se decidió no seguir con PDF descargable) |
+| Guía del Aspirante — digitalización | ⏳ | Contenido sanado listo (Tanda 1) — falta convertir a lectura online (Fase 4: MDX en `/inicio/guia`) |
+| Guía del Aspirante — Tandas 2 y 3 | ⏳ | Ampliar §3.4, §3.5, §5.3, §4.6.6; limpiar artefactos de proceso en docx original |
 | Rediseño sección "Ejemplos" landing | ⏳ | Carlo la marcó como pendiente de rediseño; código existente sirve como base |
-| Integración logos planteles | ⏳ | Assets en `public/planteles/{HMC,EMM,EMI}.png`; falta integrar en cards de landing y dashboard |
 | Módulo cultural | ⏳ | Nada aún |
 | Reporte PDF | ⏳ | Nada aún |
 | Panel de admin + RBAC | ⏳ | Nada aún |
@@ -183,6 +188,10 @@ Guarda estos para mantener consistencia:
 13. **Instrucciones/ejemplos por bloque centralizados** en `src/lib/instrucciones-bloques.ts`. Contenido oficial extraído del PDF "EXAMEN SIMULADOR PRUEBAS EIC-DN11 2026 4" (bloques 1-3) y Guía del Aspirante (bloque 4 y examenes de personalidad/axiológico). Consumido tanto por el simulador como por la sección de ejemplos en la landing → cero duplicación.
 14. **Helper `apiFetch` en `src/lib/api.ts`.** Wrapper de fetch que agrega Bearer token de cookie automáticamente, serializa body, y parsea mensajes de error de NestJS. Uso: `apiFetch<T>(path, { method, body })`.
 15. **Diagnósticos accionables auto-generados** en panel de resultados. La función `calcularDiagnosticos` lee las métricas temporales y por-bloque para emitir cards con severidad (atencion/revisar/fortaleza). No hay tabla de diagnósticos preescritos — se derivan de los datos.
+16. **Análisis polarizado por tema.** Cada respuesta se normaliza a un score direccional considerando polaridad del reactivo (POSITIVA/NEGATIVA). Personalidad → escala −1/+1. Axiológico → escala 1-5. El sistema detecta contradicciones (respuestas en direcciones opuestas dentro del mismo tema) y coherencia global.
+17. **Sesión completa vs práctica.** Modo "sesión completa" corre las 3 fases secuencialmente y solo muestra resultados agregados al final (con distancia cross-examen). Modo "práctica" son intentos individuales con resultado inmediato. El simulador detecta cuál modo con el query param `?sesion=<id>`.
+18. **Datos de reactivos en BD:** Personalidad tiene opciones `["Sí", "No"]` (no Likert). Axiológico tiene escala de 5 puntos ("Me parezco totalmente" → "No me parezco nada"). Tema común entre ambos: `valores_militares` (arreglado un typo `v_alores_militares` en 100 reactivos).
+19. **Guía del Aspirante — proceso de sanación:** contenido source-of-truth en `docs/guia-aspirante/*.md`. Tanda 1 hecha (§3.6, §4.6.2, §4.6.7, §5.7). Pendientes Tandas 2 y 3 detalladas en `docs/guia-aspirante/README.md`.
 
 ## Cómo hablarme
 
@@ -197,29 +206,29 @@ Ver `feedback_estilo_pedagogico.md` en memoria para más contexto.
 ## Trabajos recientes (últimos 10 commits)
 
 ```
+50e1fc5 Logos oficiales de planteles + Guia del Aspirante Tanda 1 sanada
+f11b743 Analisis avanzado: sesgo, deseabilidad, coincidencia ideal, cross-examen
+ecec122 Sprint fixes UX + sesion completa + analisis polaridad
+98279bf HANDOFF: reflejar simulador multi-examen, panel de resultados y modelo usuario-plantel
 c9ff226 Simulador funcional multi-examen + modelo usuario-plantel + landing rica
 db81603 HANDOFF: reflejar sprint de frontend + auth flow
 4748d3d Frontend: sistema de diseno y auth flow completo
 d288e22 Frontend: setup Next 16 en apps/web con landing publica de planteles
 468eaee HANDOFF: renombrar rutas backend/ -> udefa/ tras rename del monorepo
 17a5d5e Actualiza generar.py
-68bb2b9 HANDOFF: reflejar paginacion de reactivos y ultimos commits
-e0de84c Paginacion en GET /reactivos con filtro por bloque
-6ca2a90 Clasificacion inicial de polaridad para reactivos de personalidad
-f52c6d1 Auditoria de seguridad: proteger endpoints legacy con JWT
 ```
 
 ## Pendientes propuestos (orden sugerido)
 
-1. **🎯 Guía del Aspirante como lectura online.** Se descartó el PDF descargable. Toca crear `/inicio/guia` como página con capítulos navegables (probablemente con Table of Contents lateral). **Además la queremos remasterizar juntos** — mejorar el contenido/tono/estructura antes de publicarla. El .docx está en `OneDrive\...\LA GUIA DEL ASPIRANTE (U.D.E.F.A.)\`.
-2. **Rediseño de la sección "Ejemplos resueltos" en la landing.** El código actual funciona pero Carlo lo marcó como "no me gustó, dejar pendiente para modificar después".
-3. **Integrar logos oficiales de planteles.** Los archivos ya están en `apps/web/public/planteles/{HMC,EMM,EMI}.png`. Falta usarlos con `<Image>` en las cards de la landing (`PlantelCardMarketing`) y en la card del plantel del usuario en el dashboard.
-4. **Bloque 4 Razonamiento Abstracto** — imágenes de reactivos a Cloudinary. Requiere llenar `CLOUDINARY_API_KEY` y `CLOUDINARY_API_SECRET` en `.env`. El simulador ya detecta bloque vacío y salta.
-5. **Página unitaria de plantel `/inicio/plantel/[id]`** — con más detalle del plantel (oferta educativa, requisitos, foto). Mockup C ya validado.
-6. **Reset de passwords de usuarios legacy** — `carlo@prueba.com` (id=1) y `emtg@prueba.com` (id=2) tienen password olvidada. Un script de 20 líneas con bcrypt para actualizar.
-7. **Sesión completa (los 3 exámenes agrupados).** El backend ya tiene `SesionExamenCompleto`. Falta implementar el flujo en el frontend: crear sesión, presentar los 3 exámenes secuencialmente, panel de resultados agregado.
+1. **🎯 Guía del Aspirante — Tanda 2 (ampliar breves).** Continuar sanando secciones: §3.4 Sinónimos y Antónimos, §3.5 Razonamiento Lógico-Matemático, §5.3 los 8 valores axiológicos (expandidos), §4.6.6 Conductas de riesgo. Después Tanda 3 (cleanup + pulir §7 y §4.6.1). Ver `docs/guia-aspirante/README.md`.
+2. **Guía del Aspirante — digitalización.** Convertir el markdown de `docs/guia-aspirante/` en páginas navegables `/inicio/guia/[capitulo]/[seccion]` (Fase 4 del plan). Idealmente con Table of Contents lateral y navegación entre secciones. **Debe hacerse después de completar Tanda 3** para no repetir trabajo.
+3. **Sistema de recomendaciones desde el panel de resultados.** Ya tenemos diagnósticos accionables auto-generados en el frontend. Falta enlazar cada diagnóstico a la sección específica de la Guía online (link "Aprender a mejorar" que abre §X.Y). Depende de que la digitalización esté hecha.
+4. **Rediseño de la sección "Ejemplos resueltos" en la landing.** El código actual funciona pero Carlo lo marcó como "no me gustó, dejar pendiente para modificar después".
+5. **Bloque 4 Razonamiento Abstracto** — imágenes de reactivos a Cloudinary. Requiere llenar `CLOUDINARY_API_KEY` y `CLOUDINARY_API_SECRET` en `.env`. El simulador ya detecta bloque vacío y salta.
+6. **Página unitaria de plantel `/inicio/plantel/[id]`** — con más detalle del plantel (oferta educativa, requisitos, foto). Mockup C ya validado.
+7. **Reset de passwords de usuarios legacy** — `carlo@prueba.com` (id=1) y `emtg@prueba.com` (id=2) tienen password olvidada. Un script de 20 líneas con bcrypt para actualizar.
 8. **Panel de administración + RBAC** — separar admin de aspirante con campo `rol` a Usuario + decorador `@Roles('admin')`.
-9. **Refinamiento de polaridad con LLM** — para la feature "detección de contradicciones internas".
+9. **Refinamiento de polaridad con LLM** — hoy la clasificación fue heurística (77% POS / 23% NEG). Refinar con LLM para casos ambiguos.
 10. **Módulo cultural** — reactivos por plantel. Suscripción anual.
 11. **Reporte PDF personalizado** con Puppeteer.
 12. **App móvil** con React Native + Expo.
@@ -229,12 +238,13 @@ f52c6d1 Auditoria de seguridad: proteger endpoints legacy con JWT
 
 Después de pegar este documento, dime específicamente **por dónde quieres seguir**.
 Ejemplos:
-- "Vamos por la Guía online, arranca leyendo el .docx para remasterizar"
+- "Sigamos con la Guía — Tanda 2 (§3.4 Sinónimos, §3.5 Razonamiento Lógico, §5.3 valores, §4.6.6 Conductas de riesgo)"
+- "Vamos a digitalizar la Guía como lectura online en `/inicio/guia`"
+- "Conecta los diagnósticos del panel de resultados con las secciones de la Guía"
 - "Rediseñemos la sección de ejemplos de la landing"
-- "Integra los logos de planteles en las cards"
-- "Reset password de mi usuario `carlo@prueba.com`"
-- "Sigue con el bloque de razonamiento abstracto"
+- "Sigue con el bloque de razonamiento abstracto (necesita Cloudinary)"
 - "Vamos con panel de admin + RBAC"
+- "Reset password de mi usuario `carlo@prueba.com`"
 
 Yo leo mi memoria (que tiene contexto complementario), este documento, y arranco
 pedagógico + hands-on desde donde me digas.
