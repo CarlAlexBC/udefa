@@ -13,7 +13,12 @@
 export type EjemploReactivo = {
   enunciado: string
   opciones: string[]
-  respuestaCorrecta: string
+  /**
+   * Para exámenes calificables (psicométrico) — string de la opción correcta.
+   * Para autoevaluación (personalidad/axiológico) — `null` porque no hay respuesta correcta;
+   * el ejemplo se muestra sin marcar ninguna opción y la explicación cubre qué evalúa el reactivo.
+   */
+  respuestaCorrecta: string | null
   explicacion: string
 }
 
@@ -77,17 +82,36 @@ export const INSTRUCCIONES_POR_BLOQUE: Record<string, InstruccionesBloque> = {
   'Reactivos de Personalidad': {
     titulo: 'Examen de Personalidad',
     instrucciones:
-      'Cada reactivo describe una situación o característica. Selecciona qué tanto estás de acuerdo con la afirmación. No hay respuestas correctas o incorrectas — el sistema evalúa la coherencia entre tus respuestas a lo largo del examen. Responde con honestidad y consistencia.',
-    ejemplo: null,
+      'Cada reactivo es una afirmación breve sobre cómo eres o cómo reaccionas. Responde Sí o No según se ajuste a ti. No hay respuestas correctas o incorrectas — el sistema evalúa la coherencia entre tus respuestas a lo largo del examen. Responde con honestidad y consistencia.',
+    ejemplo: {
+      enunciado: 'Me interesa conocer cómo afectan mis acciones a otros.',
+      opciones: ['Sí', 'No'],
+      respuestaCorrecta: null,
+      explicacion:
+        'Este reactivo no tiene una respuesta correcta. Evalúa dimensiones como empatía y conciencia social. Cada reactivo pertenece a un tema y tiene una polaridad — algunos afirman rasgos positivos, otros los niegan. El sistema cruza tus respuestas del mismo tema: si dices "Sí" a "me interesa lo que sienten otros" y también "Sí" a "los sentimientos de los demás me dan igual", detecta una contradicción. Responde reflejando tu forma real de ser, no lo que crees que se espera.',
+    },
     notaEspecial:
-      'Este examen no se califica por aciertos. Se analiza tu perfil buscando contradicciones internas. Respuestas forzadas o poco naturales generan un perfil inconsistente.',
+      'Este examen no se califica por aciertos. Se analiza tu perfil buscando contradicciones internas entre reactivos del mismo tema. Respuestas forzadas o poco naturales generan un perfil inconsistente.',
   },
 
   'Reactivos Axiológicos': {
     titulo: 'Examen Axiológico',
     instrucciones:
       'Cada reactivo describe a una persona ficticia con ciertos valores o conductas. Selecciona qué tanto TE PARECES a esa persona. Es una evaluación indirecta de tus valores personales. La institución busca alineación con lealtad, honor, disciplina y espíritu de cuerpo.',
-    ejemplo: null,
+    ejemplo: {
+      enunciado:
+        'Para esta persona la lealtad hacia sus compañeros está por encima de cualquier interés personal.',
+      opciones: [
+        'Me parezco totalmente',
+        'Me parezco mucho',
+        'Me parezco más o menos',
+        'Me parezco poco',
+        'No me parezco nada',
+      ],
+      respuestaCorrecta: null,
+      explicacion:
+        'La evaluación no busca que respondas siempre en el extremo positivo. Busca coherencia con el perfil que has venido construyendo en el examen de personalidad. Perfiles idealizados ("Me parezco totalmente" a todo lo positivo) resultan poco creíbles. Responde con base en cómo realmente actuarías en situaciones equivalentes.',
+    },
     notaEspecial:
       'Este examen tampoco se califica por aciertos. Se analiza tu compatibilidad con el perfil axiológico militar. Responde honestamente — el sistema detecta perfiles idealizados poco creíbles.',
   },

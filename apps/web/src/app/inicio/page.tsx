@@ -147,13 +147,41 @@ function Dashboard({ perfil, plantel }: { perfil: Perfil; plantel: Plantel }) {
         </div>
       </article>
 
-      {/* Sección exámenes — 3 CTAs, uno por fase */}
+      {/* CTA principal: Simulador completo (los 3 exámenes fusionados) */}
+      <section className="mb-8">
+        <Link
+          href="/inicio/sesion"
+          className="group relative flex items-center gap-5 overflow-hidden rounded-xl border-2 border-accent bg-primary p-5 text-primary-foreground transition-colors hover:bg-primary/90"
+        >
+          <div className="pointer-events-none absolute -top-8 -right-8 h-40 w-40 rounded-full bg-accent/20 blur-2xl" />
+          <div className="relative flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-accent/20">
+            <Star className="h-6 w-6 text-accent" />
+          </div>
+          <div className="relative flex-1">
+            <p className="text-[10px] font-bold uppercase tracking-widest text-accent">
+              Examen simulador completo
+            </p>
+            <h3 className="mt-0.5 text-lg font-semibold">
+              Las 3 fases seguidas, como en el examen real
+            </h3>
+            <p className="mt-1 text-xs text-muted-foreground">
+              Psicométrico → Personalidad → Axiológico. Sin pausa entre fases. Al final ves resultados agregados y coherencia global.
+            </p>
+          </div>
+          <ArrowRight className="relative hidden h-5 w-5 text-accent transition-transform group-hover:translate-x-1 md:block" />
+        </Link>
+      </section>
+
+      {/* Sección exámenes de práctica — 3 CTAs individuales */}
       <section className="mb-8">
         <div className="mb-3 flex items-center gap-2">
-          <div className="h-4 w-1 rounded bg-accent" />
+          <div className="h-4 w-1 rounded bg-military" />
           <h2 className="text-sm font-semibold text-foreground">
-            Simuladores por fase
+            Exámenes de práctica por fase
           </h2>
+          <span className="text-xs text-muted-foreground">
+            · practica cada uno por separado con resultados inmediatos
+          </span>
         </div>
         <div className="grid grid-cols-1 gap-4 md:grid-cols-3">
           <ExamenCTA

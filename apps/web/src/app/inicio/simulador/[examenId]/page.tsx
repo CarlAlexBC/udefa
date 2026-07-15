@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useState, useRef, useCallback, use } from 'react'
-import { useRouter } from 'next/navigation'
+import { useRouter, useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import Image from 'next/image'
 import { apiFetch } from '@/lib/api'
@@ -66,14 +66,29 @@ type Estado =
    Página
    ═══════════════════════════════════════════════════════════ */
 
+// Secuencia de exámenes cuando estamos en modo "sesión completa".
+// Debe coincidir con SECUENCIA_EXAMENES en /inicio/sesion/page.tsx.
+const SECUENCIA_SESION = [1, 2, 3]
+
 export default function SimuladorPage({
   params,
 }: {
   params: Promise<{ examenId: string }>
 }) {
   const router = useRouter()
+  const searchParams = useSearchParams()
   const { examenId } = use(params)
   const examenIdNum = Number(examenId)
+
+  // Modo sesión completa: cuando la URL trae ?sesion=<id>, este intento
+  // es parte de una sesión con las 3 fases secuenciales.
+  const sesionId = searchParams.get('sesion')
+  const enModoSesion = sesionId !== null
+  const indiceEnSesion = enModoSesion ? SECUENCIA_SESION.indexOf(examenIdNum) : -1
+  const esUltimoDeSesion = indiceEnSesion === SECUENCIA_SESION.length - 1
+  const siguienteExamenIdEnSesion = enModoSesion && !esUltimoDeSesion
+    ? SECUENCIA_SESION[indiceEnSesion + 1]
+    : null
 
   const [estado, setEstado] = useState<Estado>('idle')
   const [error, setError] = useState('')
@@ -100,7 +115,10 @@ export default function SimuladorPage({
       const [nuevoIntento, examenArmado] = await Promise.all([
         apiFetch<Intento>('/intentos', {
           method: 'POST',
-          body: { examenId: examenIdNum },
+          body: {
+            examenId: examenIdNum,
+            ...(sesionId ? { sesionCompletoId: Number(sesionId) } : {}),
+          },
         }),
         apiFetch<ExamenArmado>(`/examenes/${examenIdNum}/armar`),
       ])
@@ -132,13 +150,34 @@ export default function SimuladorPage({
           method: 'PATCH',
           body: { estado: motivo },
         })
-        router.push(`/inicio/resultados/${intento.id}`)
+
+        if (enModoSesion) {
+          // Modo sesión completa: no vamos a resultados individuales.
+          if (siguienteExamenIdEnSesion !== null) {
+            // Arrancar el siguiente examen manteniendo la sesión
+            router.push(`/inicio/simulador/${siguienteExamenIdEnSesion}?sesion=${sesionId}`)
+          } else {
+            // Último examen de la sesión: cerrar sesión y ver resultados agregados
+            try {
+              await apiFetch(`/sesiones-completas/${sesionId}/finalizar`, {
+                method: 'PATCH',
+                body: { estado: motivo === 'TIEMPO_AGOTADO' ? 'ABANDONADA' : 'COMPLETADA' },
+              })
+            } catch {
+              // Si falla el cierre de sesión, seguimos igual con los resultados
+            }
+            router.push(`/inicio/sesion-resultados/${sesionId}`)
+          }
+        } else {
+          // Modo práctica: resultados individuales por intento
+          router.push(`/inicio/resultados/${intento.id}`)
+        }
       } catch (err) {
         setError((err as Error).message)
         setEstado('error')
       }
     },
-    [intento, router],
+    [intento, router, enModoSesion, sesionId, siguienteExamenIdEnSesion],
   )
 
   /* ─── Pasar al siguiente bloque (o finalizar si es el último) ─── */
@@ -160,21 +199,34 @@ export default function SimuladorPage({
     setEstado('en_progreso')
   }
 
-  /* ─── Registrar respuesta al reactivo actual ─── */
+  /* ─── Registrar respuesta al reactivo actual + auto-avanzar ─── */
   function responder(opcionTexto: string) {
     if (!intento || !reactivoActual) return
     const respondidoEnMs = Date.now() - inicioMsRef.current
+    const reactivoId = reactivoActual.id
+    const totalBloque = bloqueActual?.reactivos.length ?? 0
+    const esUltimoDelBloque = reactivoIndex >= totalBloque - 1
 
-    setRespuestas((prev) => ({ ...prev, [reactivoActual.id]: opcionTexto }))
+    setRespuestas((prev) => ({ ...prev, [reactivoId]: opcionTexto }))
 
     apiFetch(`/intentos/${intento.id}/responder`, {
       method: 'POST',
       body: {
-        reactivoId: reactivoActual.id,
+        reactivoId,
         respuestaSeleccionada: opcionTexto,
         respondidoEnMs,
       },
     }).catch((err) => console.error('Guardar respuesta falló:', err))
+
+    // Auto-avanzar al siguiente reactivo con un pequeño delay para que el
+    // usuario vea la respuesta marcada antes del cambio. En el último
+    // reactivo del bloque NO auto-avanzamos — dejamos que el usuario
+    // cierre manualmente con el botón "Terminar bloque".
+    if (!esUltimoDelBloque) {
+      setTimeout(() => {
+        setReactivoIndex((prev) => prev + 1)
+      }, 250)
+    }
   }
 
   /* ─── Timer countdown del bloque actual ─── */
@@ -210,6 +262,8 @@ export default function SimuladorPage({
         estado={estado}
         error={error}
         onIniciar={iniciar}
+        indiceEnSesion={indiceEnSesion}
+        totalEnSesion={enModoSesion ? SECUENCIA_SESION.length : 0}
       />
     )
   }
@@ -258,7 +312,7 @@ export default function SimuladorPage({
   const esUltimoReactivoBloque = reactivoIndex === totalReactivosBloque - 1
 
   return (
-    <main className="min-h-screen bg-background">
+    <main className="flex min-h-screen flex-col bg-background">
       {/* Barra superior: examen, bloque, progreso, timer */}
       <div className="border-b border-border bg-card">
         <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-6 py-3">
@@ -283,73 +337,64 @@ export default function SimuladorPage({
         </div>
       </div>
 
-      {/* Layout: reactivo (izq) + mapa de reactivos (der) */}
-      <div className="mx-auto max-w-6xl px-6 py-8">
-        <div className="grid grid-cols-1 gap-6 lg:grid-cols-[1fr_260px]">
-
-          {/* ─── Columna reactivo ─── */}
-          <div>
-            {reactivoActual.tema && (
-              <p className="mb-3 text-xs font-semibold uppercase tracking-widest text-accent">
-                {reactivoActual.tema}
-              </p>
-            )}
-
-            <h2 className="mb-8 text-2xl font-semibold leading-snug text-foreground">
+      {/* Contenido del reactivo — columna centrada, ocupa el espacio disponible */}
+      <div className="flex-1">
+        <div className="mx-auto max-w-3xl px-6 py-8">
+          {/* Bloque enunciado con altura mínima fija — evita que los botones
+              de opciones brinquen entre reactivos con textos de distinto largo.
+              El enunciado se centra verticalmente en ese espacio. */}
+          <div className="mb-8 flex min-h-[140px] items-center">
+            <h2 className="text-2xl font-semibold leading-snug text-foreground">
               {reactivoActual.enunciado}
             </h2>
-
-            <OpcionesReactivo
-              opciones={reactivoActual.opciones}
-              marcada={respuestaActual}
-              onSelect={responder}
-              esLikert={examen ? !examen.calificable : false}
-            />
-
-
-            {/* Navegación libre — no requiere respuesta para avanzar */}
-            <div className="mt-10 flex items-center justify-between border-t border-border pt-6">
-              <Button
-                variant="outline"
-                onClick={() => setReactivoIndex(Math.max(0, reactivoIndex - 1))}
-                disabled={reactivoIndex === 0}
-              >
-                <ArrowLeft className="mr-1 h-4 w-4" />
-                Anterior
-              </Button>
-
-              {esUltimoReactivoBloque ? (
-                <Button
-                  onClick={pasarASiguienteBloque}
-                  className="bg-accent text-accent-foreground hover:bg-accent/90"
-                >
-                  {esUltimoBloque ? 'Finalizar examen' : 'Terminar bloque'}
-                  <ArrowRight className="ml-1 h-4 w-4" />
-                </Button>
-              ) : (
-                <Button
-                  onClick={() => setReactivoIndex(reactivoIndex + 1)}
-                >
-                  Siguiente
-                  <ArrowRight className="ml-1 h-4 w-4" />
-                </Button>
-              )}
-            </div>
           </div>
 
-          {/* ─── Columna sidebar: mapa de reactivos + finalizar ─── */}
-          <aside className="lg:sticky lg:top-6 lg:self-start">
-            <MapaReactivos
-              reactivos={bloqueActual.reactivos}
-              reactivoIndex={reactivoIndex}
-              respuestas={respuestas}
-              onSelect={setReactivoIndex}
-              onFinalizar={() => finalizar('COMPLETADA')}
-            />
-          </aside>
+          <OpcionesReactivo
+            opciones={reactivoActual.opciones}
+            marcada={respuestaActual}
+            onSelect={responder}
+            esLikert={examen ? !examen.calificable : false}
+          />
 
+          {/* Navegación libre — no requiere respuesta para avanzar */}
+          <div className="mt-10 flex items-center justify-between border-t border-border pt-6">
+            <Button
+              variant="outline"
+              onClick={() => setReactivoIndex(Math.max(0, reactivoIndex - 1))}
+              disabled={reactivoIndex === 0}
+            >
+              <ArrowLeft className="mr-1 h-4 w-4" />
+              Anterior
+            </Button>
+
+            {esUltimoReactivoBloque ? (
+              <Button
+                onClick={pasarASiguienteBloque}
+                className="bg-accent text-accent-foreground hover:bg-accent/90"
+              >
+                {esUltimoBloque ? 'Finalizar examen' : 'Terminar bloque'}
+                <ArrowRight className="ml-1 h-4 w-4" />
+              </Button>
+            ) : (
+              <Button
+                onClick={() => setReactivoIndex(reactivoIndex + 1)}
+              >
+                Siguiente
+                <ArrowRight className="ml-1 h-4 w-4" />
+              </Button>
+            )}
+          </div>
         </div>
       </div>
+
+      {/* Banda inferior sticky: mapa de reactivos scrollable + finalizar */}
+      <BandaReactivos
+        reactivos={bloqueActual.reactivos}
+        reactivoIndex={reactivoIndex}
+        respuestas={respuestas}
+        onSelect={setReactivoIndex}
+        onFinalizar={() => finalizar('COMPLETADA')}
+      />
     </main>
   )
 }
@@ -363,17 +408,22 @@ function PantallaInicial({
   estado,
   error,
   onIniciar,
+  indiceEnSesion,
+  totalEnSesion,
 }: {
   examenId: number
   estado: Estado
   error: string
   onIniciar: () => void
+  indiceEnSesion: number
+  totalEnSesion: number
 }) {
   const meta = META_POR_EXAMEN[examenId] ?? {
     fase: '',
     titulo: 'Simulador',
     descripcion: 'Comenzar el examen.',
   }
+  const enSesion = totalEnSesion > 0 && indiceEnSesion >= 0
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-background px-6 py-12">
@@ -393,6 +443,12 @@ function PantallaInicial({
         </span>
       </Link>
 
+      {enSesion && (
+        <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-accent/40 bg-accent/10 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-accent">
+          Sesión completa · Fase {indiceEnSesion + 1} de {totalEnSesion}
+        </div>
+      )}
+
       <div className="w-full max-w-md rounded-xl border border-border bg-card p-8 text-center shadow-sm">
         {meta.fase && (
           <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-military/10 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-military">
@@ -404,6 +460,11 @@ function PantallaInicial({
         </h1>
         <p className="mb-6 text-sm text-muted-foreground">
           {meta.descripcion}
+          {enSesion && indiceEnSesion < totalEnSesion - 1 && (
+            <span className="mt-2 block text-xs text-accent">
+              Al terminar esta fase continúa la siguiente automáticamente.
+            </span>
+          )}
         </p>
 
         {error && (
@@ -497,11 +558,13 @@ function PantallaInstrucciones({
               'Selecciona la opción correcta para cada reactivo.'}
           </p>
 
-          {/* Ejemplo resuelto o nota especial */}
-          {info?.ejemplo && !sinReactivos && (
+          {/* Ejemplo — se muestra siempre que exista, sea calificable o no.
+              Si no tiene respuestaCorrecta (autoevaluación), se muestra sin
+              opción resaltada; la explicación aclara qué evalúa. */}
+          {info?.ejemplo && (
             <div className="rounded-lg border border-border bg-muted/40 p-5">
               <p className="mb-3 text-xs font-semibold uppercase tracking-widest text-accent">
-                Ejemplo resuelto
+                {info.ejemplo.respuestaCorrecta ? 'Ejemplo resuelto' : 'Ejemplo de reactivo'}
               </p>
               <p className="mb-4 text-base font-semibold text-foreground">
                 {info.ejemplo.enunciado}
@@ -509,7 +572,7 @@ function PantallaInstrucciones({
               <div className="mb-4 flex flex-col gap-2">
                 {info.ejemplo.opciones.map((opcion, i) => {
                   const letra = String.fromCharCode(65 + i)
-                  const esCorrecta = opcion === info.ejemplo!.respuestaCorrecta
+                  const esCorrecta = info.ejemplo!.respuestaCorrecta !== null && opcion === info.ejemplo!.respuestaCorrecta
                   return (
                     <div
                       key={opcion}
@@ -540,7 +603,7 @@ function PantallaInstrucciones({
               </div>
               <div className="rounded-md border-l-2 border-l-accent bg-accent/5 p-3">
                 <p className="text-xs font-semibold uppercase tracking-widest text-accent">
-                  Explicación
+                  {info.ejemplo.respuestaCorrecta ? 'Explicación' : 'Qué evalúa este reactivo'}
                 </p>
                 <p className="mt-1 text-sm leading-relaxed text-foreground">
                   {info.ejemplo.explicacion}
@@ -549,9 +612,14 @@ function PantallaInstrucciones({
             </div>
           )}
 
-          {sinReactivos && info?.notaEspecial && (
-            <div className="flex items-start gap-3 rounded-lg border border-accent/30 bg-accent/10 p-4">
-              <AlertCircle className="mt-0.5 h-5 w-5 shrink-0 text-accent" />
+          {/* Nota especial — se muestra cuando existe (independiente del ejemplo).
+              Aviso adicional para exámenes de autoevaluación o bloques en construcción. */}
+          {info?.notaEspecial && (
+            <div className={cn(
+              'flex items-start gap-3 rounded-lg border p-4',
+              info.ejemplo ? 'mt-4 border-military/30 bg-military/5' : 'border-accent/30 bg-accent/10'
+            )}>
+              <AlertCircle className={cn('mt-0.5 h-5 w-5 shrink-0', info.ejemplo ? 'text-military' : 'text-accent')} />
               <p className="text-sm text-foreground">{info.notaEspecial}</p>
             </div>
           )}
@@ -616,14 +684,14 @@ function TimerBadge({ segundos }: { segundos: number }) {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   Sub-componente: mapa de reactivos del bloque actual
-   - Grid clickeable de números (uno por reactivo)
-   - Colores: respondido (carbón) / actual (latón) / pendiente (muted)
-   - Botón "Finalizar examen" (destructive) para cerrar el examen
-     completo en cualquier momento
+   Sub-componente: banda inferior sticky con navegación de reactivos
+   - Fila horizontal scrollable de números (uno por reactivo)
+   - Escala bien para 25 reactivos (psicométrico) y 256+ (personalidad)
+   - Auto-scroll del botón actual cuando cambia de reactivo
+   - Botón "Finalizar examen" a la derecha
    ═══════════════════════════════════════════════════════════ */
 
-function MapaReactivos({
+function BandaReactivos({
   reactivos,
   reactivoIndex,
   respuestas,
@@ -636,61 +704,79 @@ function MapaReactivos({
   onSelect: (index: number) => void
   onFinalizar: () => void
 }) {
+  const scrollerRef = useRef<HTMLDivElement>(null)
+  const activeButtonRef = useRef<HTMLButtonElement>(null)
+
+  // Cuando cambia el reactivo actual, hacemos scroll para que el botón
+  // quede visible en la banda. Comportamiento tipo carousel.
+  useEffect(() => {
+    activeButtonRef.current?.scrollIntoView({
+      behavior: 'smooth',
+      inline: 'center',
+      block: 'nearest',
+    })
+  }, [reactivoIndex])
+
+  const totalRespondidos = Object.keys(respuestas).length
+
   return (
-    <div className="rounded-xl border border-border bg-card p-4">
-      <p className="mb-3 text-sm font-semibold text-foreground">
-        Mapa de reactivos
-      </p>
+    <div className="sticky bottom-0 z-10 border-t border-border bg-card shadow-[0_-2px_10px_rgba(0,0,0,0.04)]">
+      <div className="mx-auto max-w-6xl px-4 py-3">
+        <div className="flex items-center gap-3">
+          {/* Contador compacto a la izquierda */}
+          <div className="hidden shrink-0 flex-col sm:flex">
+            <span className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+              Reactivos
+            </span>
+            <span className="text-xs font-semibold text-foreground">
+              {totalRespondidos} / {reactivos.length}
+            </span>
+          </div>
 
-      <div className="grid grid-cols-5 gap-1.5">
-        {reactivos.map((r, i) => {
-          const respondido = respuestas[r.id] !== undefined
-          const actual = i === reactivoIndex
-          return (
-            <button
-              key={r.id}
-              type="button"
-              onClick={() => onSelect(i)}
-              className={cn(
-                'aspect-square rounded-md text-xs font-semibold transition-colors',
-                actual
-                  ? 'bg-accent text-accent-foreground ring-2 ring-primary'
-                  : respondido
-                  ? 'bg-primary text-primary-foreground hover:opacity-90'
-                  : 'bg-muted text-muted-foreground hover:bg-muted/70',
-              )}
-              aria-label={`Ir al reactivo ${i + 1}${respondido ? ', respondido' : ''}${actual ? ', actual' : ''}`}
-            >
-              {i + 1}
-            </button>
-          )
-        })}
+          {/* Banda scrollable de reactivos */}
+          <div
+            ref={scrollerRef}
+            className="flex-1 overflow-x-auto pb-1"
+            style={{ scrollbarWidth: 'thin' }}
+          >
+            <div className="flex gap-1.5">
+              {reactivos.map((r, i) => {
+                const respondido = respuestas[r.id] !== undefined
+                const actual = i === reactivoIndex
+                return (
+                  <button
+                    key={r.id}
+                    ref={actual ? activeButtonRef : null}
+                    type="button"
+                    onClick={() => onSelect(i)}
+                    className={cn(
+                      'shrink-0 h-9 min-w-9 rounded-md px-1.5 text-xs font-semibold transition-colors',
+                      actual
+                        ? 'bg-accent text-accent-foreground ring-2 ring-primary ring-offset-1 ring-offset-card'
+                        : respondido
+                        ? 'bg-primary text-primary-foreground hover:opacity-90'
+                        : 'bg-muted text-muted-foreground hover:bg-muted/70',
+                    )}
+                    aria-label={`Ir al reactivo ${i + 1}${respondido ? ', respondido' : ''}${actual ? ', actual' : ''}`}
+                  >
+                    {i + 1}
+                  </button>
+                )
+              })}
+            </div>
+          </div>
+
+          {/* Botón finalizar todo el examen — irreversible */}
+          <Button
+            variant="destructive"
+            size="sm"
+            onClick={onFinalizar}
+            className="shrink-0"
+          >
+            Finalizar
+          </Button>
+        </div>
       </div>
-
-      {/* Leyenda */}
-      <div className="mt-4 flex flex-col gap-1.5 border-t border-border pt-3">
-        <LeyendaItem color="bg-primary" label="Respondido" />
-        <LeyendaItem color="bg-accent" label="Actual" />
-        <LeyendaItem color="bg-muted" label="Pendiente" />
-      </div>
-
-      {/* Botón finalizar todo el examen — irreversible */}
-      <Button
-        variant="destructive"
-        onClick={onFinalizar}
-        className="mt-4 w-full"
-      >
-        Finalizar examen
-      </Button>
-    </div>
-  )
-}
-
-function LeyendaItem({ color, label }: { color: string; label: string }) {
-  return (
-    <div className="flex items-center gap-2">
-      <span className={cn('h-3 w-3 rounded', color)} />
-      <span className="text-xs text-muted-foreground">{label}</span>
     </div>
   )
 }
@@ -713,6 +799,33 @@ function OpcionesReactivo({
   onSelect: (opcion: string) => void
   esLikert: boolean
 }) {
+  // Caso dicotómico (Sí/No — Personalidad): 2 botones grandes lado a lado.
+  if (esLikert && opciones.length === 2) {
+    return (
+      <div className="grid grid-cols-2 gap-3">
+        {opciones.map((opcion) => {
+          const seleccionada = marcada === opcion
+          return (
+            <button
+              key={opcion}
+              type="button"
+              onClick={() => onSelect(opcion)}
+              className={cn(
+                'rounded-lg border-2 py-6 text-center text-lg font-semibold transition-colors',
+                seleccionada
+                  ? 'border-primary bg-accent/10 text-foreground'
+                  : 'border-border bg-card text-muted-foreground hover:bg-muted',
+              )}
+            >
+              {opcion}
+            </button>
+          )
+        })}
+      </div>
+    )
+  }
+
+  // Escala Likert de más de 2 puntos (Axiológico — 5 puntos): grid horizontal.
   if (esLikert) {
     return (
       <div className="grid gap-2 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5">

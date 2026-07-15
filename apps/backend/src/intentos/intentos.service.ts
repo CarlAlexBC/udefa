@@ -239,6 +239,17 @@ export class IntentosService {
       respuestasConDelta.map((r) => r.tiempoDeltaMs),
     );
 
+    // Solo para exámenes no calificables (personalidad/axiológico):
+    // analiza consistencia interna usando polaridad y tema del reactivo.
+    // Es el corazón del diagnóstico para autoevaluación — detecta si el
+    // aspirante se contradice dentro de un mismo tema.
+    const analisisConsistencia = calificable
+      ? undefined
+      : this.calcularAnalisisConsistencia(
+          respuestasConDelta,
+          intento.examen.tipo,
+        );
+
     return {
       intentoId: intento.id,
       examen: {
@@ -254,7 +265,162 @@ export class IntentosService {
       porBloque,
       porTema,
       metricasTemporales,
+      analisisConsistencia,
     };
+  }
+
+  /**
+   * Análisis de consistencia interna para exámenes de autoevaluación.
+   *
+   * Para cada tema, cruza las respuestas del aspirante considerando la
+   * polaridad del reactivo (positiva = afirma un rasgo, negativa = niega).
+   * Los reactivos se normalizan a un score en la misma dirección del "rasgo
+   * esperado" y se compara la consistencia dentro del tema.
+   *
+   * Métricas por tema:
+   * - puntajeDireccion: promedio de scores normalizados
+   *   - Personalidad (dicotómico): -1 a +1, donde +1 = afirma consistentemente
+   *   - Axiológico (escala 5): 1-5, donde 5 = alta identificación con perfil positivo
+   * - coherencia (0-100): qué tan consistentes son las respuestas del tema
+   * - contradiccionesDetectadas: pares en direcciones opuestas dentro del tema
+   *
+   * Métricas globales:
+   * - totalContradicciones: suma de todas las contradicciones
+   * - temasConInconsistencia: temas con coherencia < 60
+   * - perfilCoherente: true si NO hay temas con inconsistencia
+   */
+  private calcularAnalisisConsistencia(
+    respuestas: Array<{
+      respuestaSeleccionada: string;
+      reactivo: {
+        tema: string | null;
+        polaridad: string | null;
+        opciones: unknown;
+      };
+    }>,
+    tipoExamen: string,
+  ) {
+    const porTema = new Map<string, number[]>();
+
+    for (const r of respuestas) {
+      if (!r.reactivo.tema || !r.reactivo.polaridad) continue;
+      const score = this.normalizarRespuestaPolarizada(
+        r.respuestaSeleccionada,
+        r.reactivo.opciones as string[],
+        r.reactivo.polaridad,
+        tipoExamen,
+      );
+      if (score === null) continue;
+      const lista = porTema.get(r.reactivo.tema) ?? [];
+      lista.push(score);
+      porTema.set(r.reactivo.tema, lista);
+    }
+
+    const analisisPorTema = Array.from(porTema.entries()).map(
+      ([tema, scores]) => {
+        const total = scores.length;
+        const promedio = scores.reduce((s, v) => s + v, 0) / total;
+
+        let coherencia: number;
+        let contradicciones: number;
+
+        if (tipoExamen === 'personalidad') {
+          // Scores son +1 (afirma rasgo) o -1 (niega rasgo)
+          const positivos = scores.filter((s) => s > 0).length;
+          const negativos = scores.filter((s) => s < 0).length;
+          const dominante = Math.max(positivos, negativos);
+          coherencia = total > 0 ? Math.round((dominante / total) * 100) : 0;
+          contradicciones = Math.min(positivos, negativos);
+        } else {
+          // Axiológico: scores 1-5 normalizados. Coherencia por desviación estándar.
+          const desv = Math.sqrt(
+            scores.reduce((s, v) => s + Math.pow(v - promedio, 2), 0) / total,
+          );
+          const desvMax = 2; // desviación máxima esperada en escala 1-5
+          coherencia = Math.max(
+            0,
+            Math.round((1 - desv / desvMax) * 100),
+          );
+          // Contradicciones: pares donde uno es alto (≥4) y otro bajo (≤2)
+          const alto = scores.filter((s) => s >= 4).length;
+          const bajo = scores.filter((s) => s <= 2).length;
+          contradicciones = Math.min(alto, bajo);
+        }
+
+        return {
+          tema,
+          totalReactivos: total,
+          puntajeDireccion: Math.round(promedio * 100) / 100,
+          coherencia,
+          contradiccionesDetectadas: contradicciones,
+        };
+      },
+    );
+
+    // Ordenamos los temas por mayor cantidad de contradicciones primero
+    analisisPorTema.sort(
+      (a, b) => b.contradiccionesDetectadas - a.contradiccionesDetectadas,
+    );
+
+    const UMBRAL_COHERENCIA = 60;
+    const temasConInconsistencia = analisisPorTema
+      .filter((t) => t.coherencia < UMBRAL_COHERENCIA)
+      .map((t) => t.tema);
+    const totalContradicciones = analisisPorTema.reduce(
+      (s, t) => s + t.contradiccionesDetectadas,
+      0,
+    );
+
+    return {
+      porTema: analisisPorTema,
+      totalContradicciones,
+      temasConInconsistencia,
+      perfilCoherente: temasConInconsistencia.length === 0,
+    };
+  }
+
+  /**
+   * Normaliza una respuesta a un score en la dirección del rasgo positivo
+   * del tema, considerando la polaridad del reactivo.
+   *
+   * Personalidad (dicotómico Sí/No):
+   *   POSITIVA + Sí → +1 (afirma rasgo positivo)
+   *   POSITIVA + No → −1 (niega rasgo positivo)
+   *   NEGATIVA + Sí → −1 (afirma rasgo negativo, contrario al ideal)
+   *   NEGATIVA + No → +1 (niega rasgo negativo, alineado con el ideal)
+   *
+   * Axiológico (escala 5 puntos):
+   *   Se mapea la opción a un score 5..1 según su posición (primera = 5).
+   *   Si polaridad NEGATIVA, se invierte (6 − score) para normalizar
+   *   a "5 = alta identificación con perfil positivo".
+   */
+  private normalizarRespuestaPolarizada(
+    respuestaSeleccionada: string,
+    opciones: string[],
+    polaridad: string,
+    tipoExamen: string,
+  ): number | null {
+    if (tipoExamen === 'personalidad') {
+      const respuestaLower = respuestaSeleccionada.toLowerCase().trim();
+      const respondioSi = respuestaLower === 'sí' || respuestaLower === 'si';
+      const respondioNo = respuestaLower === 'no';
+      if (!respondioSi && !respondioNo) return null;
+      if (polaridad === 'POSITIVA') return respondioSi ? 1 : -1;
+      if (polaridad === 'NEGATIVA') return respondioSi ? -1 : 1;
+      return null;
+    }
+
+    if (tipoExamen === 'axiologico') {
+      const idx = opciones.indexOf(respuestaSeleccionada);
+      if (idx === -1) return null;
+      // Primera opción = mayor score. Ej: 5 opciones → idx 0 = score 5, idx 4 = score 1
+      const score = opciones.length - idx;
+      if (polaridad === 'POSITIVA') return score;
+      if (polaridad === 'NEGATIVA') return opciones.length + 1 - score;
+      return null;
+    }
+
+    return null;
   }
 
   /**
