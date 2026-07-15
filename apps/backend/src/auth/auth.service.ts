@@ -63,4 +63,21 @@ export class AuthService {
     });
     return { mensaje: 'Sesión cerrada correctamente' };
   }
+
+  /**
+   * Devuelve el perfil del usuario autenticado incluyendo su plantel.
+   * Sin password. Si plantel es null (usuario legacy sin plantel asignado),
+   * el frontend muestra el flujo de "elige tu plantel".
+   */
+  async obtenerPerfilCompleto(usuarioId: number) {
+    const usuario = await this.prisma.usuario.findUnique({
+      where: { id: usuarioId },
+      include: { plantel: true },
+    });
+    if (!usuario) {
+      throw new UnauthorizedException('Usuario no encontrado');
+    }
+    const { password: _password, ...usuarioSinPassword } = usuario;
+    return usuarioSinPassword;
+  }
 }

@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { useRouter } from 'next/navigation'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -10,6 +10,13 @@ import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { AlertCircle } from 'lucide-react'
 import { setToken } from '@/lib/auth'
+import { apiFetch } from '@/lib/api'
+
+type Plantel = {
+  id: number
+  nombre: string
+  descripcion: string
+}
 
 export default function RegistroPage() {
   const router = useRouter()
@@ -17,8 +24,17 @@ export default function RegistroPage() {
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [confirmar, setConfirmar] = useState('')
+  const [plantelId, setPlantelId] = useState<number | ''>('')
+  const [planteles, setPlanteles] = useState<Plantel[]>([])
   const [error, setError] = useState('')
   const [loading, setLoading] = useState(false)
+
+  // Cargamos la lista de planteles disponibles al montar (endpoint público).
+  useEffect(() => {
+    apiFetch<Plantel[]>('/planteles')
+      .then(setPlanteles)
+      .catch(() => setError('No pudimos cargar los planteles. Refresca la página.'))
+  }, [])
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
@@ -34,6 +50,11 @@ export default function RegistroPage() {
       return
     }
 
+    if (!plantelId) {
+      setError('Elige el plantel al que quieres presentar admisión.')
+      return
+    }
+
     setLoading(true)
 
     try {
@@ -41,7 +62,7 @@ export default function RegistroPage() {
       const registroRes = await fetch('http://localhost:3001/usuarios/registro', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ nombre, email, password }),
+        body: JSON.stringify({ nombre, email, password, plantelId }),
       })
 
       if (!registroRes.ok) {
@@ -121,6 +142,27 @@ export default function RegistroPage() {
                 required
                 autoComplete="email"
               />
+            </div>
+
+            <div className="flex flex-col gap-2">
+              <Label htmlFor="plantel">Plantel al que te preparas</Label>
+              <select
+                id="plantel"
+                value={plantelId}
+                onChange={(e) => setPlantelId(Number(e.target.value) || '')}
+                required
+                className="h-9 w-full rounded-md border border-input bg-transparent px-3 py-1 text-sm shadow-xs transition-colors focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
+              >
+                <option value="">Selecciona un plantel...</option>
+                {planteles.map((p) => (
+                  <option key={p.id} value={p.id}>
+                    {p.nombre}
+                  </option>
+                ))}
+              </select>
+              <p className="text-xs text-muted-foreground">
+                Puedes cambiarlo después desde tu perfil.
+              </p>
             </div>
 
             <div className="flex flex-col gap-2">

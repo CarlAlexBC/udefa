@@ -15,7 +15,7 @@ export class AuthController {
   @UseGuards(JwtAuthGuard)
   @Get('perfil')
   verPerfil(@Request() req) {
-    return req.user;
+    return this.authService.obtenerPerfilCompleto(req.user.id);
   }
 
   @UseGuards(JwtAuthGuard)

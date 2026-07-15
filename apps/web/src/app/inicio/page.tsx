@@ -1,8 +1,26 @@
+'use client'
+
+import { useEffect, useState, useCallback } from 'react'
 import Link from 'next/link'
-import { buttonVariants } from '@/components/ui/button'
+import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
+import { Button, buttonVariants } from '@/components/ui/button'
 import { HeaderPrivado } from './HeaderPrivado'
-import { ArrowRight, Star } from 'lucide-react'
+import {
+  AlertCircle,
+  ArrowRight,
+  BookOpen,
+  Brain,
+  Loader2,
+  Lock,
+  Scale,
+  Star,
+  UserCircle,
+} from 'lucide-react'
+
+/* ═══════════════════════════════════════════════════════════
+   Tipos
+   ═══════════════════════════════════════════════════════════ */
 
 type Plantel = {
   id: number
@@ -10,78 +28,329 @@ type Plantel = {
   descripcion: string
 }
 
-export default async function Inicio() {
-  const res = await fetch('http://localhost:3001/planteles', {
-    // Sin cache — siempre traemos la lista fresca del backend.
-    cache: 'no-store',
-  })
-  const planteles: Plantel[] = await res.json()
+type Perfil = {
+  id: number
+  nombre: string
+  email: string
+  plantelId: number | null
+  plantel: Plantel | null
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Página
+   ═══════════════════════════════════════════════════════════ */
+
+export default function InicioPage() {
+  const [perfil, setPerfil] = useState<Perfil | null>(null)
+  const [error, setError] = useState('')
+
+  const cargarPerfil = useCallback(() => {
+    setError('')
+    apiFetch<Perfil>('/auth/perfil')
+      .then(setPerfil)
+      .catch((err) => setError((err as Error).message))
+  }, [])
+
+  useEffect(() => {
+    cargarPerfil()
+  }, [cargarPerfil])
+
+  if (error) {
+    return (
+      <div className="flex min-h-screen items-center justify-center bg-background p-6">
+        <div className="max-w-md rounded-xl border border-destructive/30 bg-destructive/10 p-6 text-center">
+          <AlertCircle className="mx-auto mb-2 h-6 w-6 text-destructive" />
+          <p className="font-semibold text-destructive">
+            No pudimos cargar tu perfil
+          </p>
+          <p className="mt-2 text-sm text-muted-foreground">{error}</p>
+        </div>
+      </div>
+    )
+  }
+
+  if (!perfil) {
+    return (
+      <div className="flex min-h-screen items-center justify-center bg-background">
+        <div className="flex items-center gap-3 text-muted-foreground">
+          <Loader2 className="h-5 w-5 animate-spin" />
+          <p className="text-sm">Cargando tu perfil...</p>
+        </div>
+      </div>
+    )
+  }
+
+  // Usuario sin plantel asignado (legacy) — obligamos a elegir uno antes de continuar.
+  if (!perfil.plantel) {
+    return (
+      <div className="flex-1 bg-background">
+        <HeaderPrivado />
+        <SelectorPlantelLegacy nombre={perfil.nombre} onAsignado={cargarPerfil} />
+      </div>
+    )
+  }
 
   return (
     <div className="flex-1 bg-background">
       <HeaderPrivado />
-
-      <main className="mx-auto max-w-6xl px-6 py-12">
-        <div className="mb-10">
-          <div className="mb-2 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-widest text-military">
-            <span className="h-px w-4 bg-military" />
-            Planteles disponibles
-          </div>
-          <h1 className="text-3xl font-semibold tracking-tight text-foreground">
-            Elige tu ruta militar.
-          </h1>
-          <p className="mt-2 max-w-2xl text-sm text-muted-foreground">
-            Al escoger un plantel entras al simulador enfocado en las 3 fases del examen psicológico común a todos.
-          </p>
-        </div>
-
-        <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
-          {planteles.map((p) => (
-            <PlantelCard key={p.id} plantel={p} />
-          ))}
-        </div>
-      </main>
+      <Dashboard perfil={perfil} plantel={perfil.plantel} />
     </div>
   )
 }
 
-function PlantelCard({ plantel }: { plantel: Plantel }) {
+/* ═══════════════════════════════════════════════════════════
+   Sub-componente: dashboard cuando el usuario ya tiene plantel
+   ═══════════════════════════════════════════════════════════ */
+
+function Dashboard({ perfil, plantel }: { perfil: Perfil; plantel: Plantel }) {
   return (
-    <article className="flex flex-col overflow-hidden rounded-xl border border-border bg-card shadow-sm">
-      {/* Placeholder de foto — se reemplaza con next/image cuando tengas las 3 fotos */}
-      <div className="relative flex h-40 items-center justify-center overflow-hidden bg-primary">
-        <div
-          className="pointer-events-none absolute inset-0"
-          style={{
-            backgroundImage:
-              'repeating-linear-gradient(45deg, transparent, transparent 12px, rgba(201,154,59,0.06) 12px, rgba(201,154,59,0.06) 24px)',
-          }}
-        />
-        <div className="relative flex flex-col items-center gap-1 text-center">
-          <Star className="h-6 w-6 text-accent" />
-          <p className="text-[10px] font-semibold uppercase tracking-widest text-accent">
-            Foto pendiente
-          </p>
-        </div>
-      </div>
-
-      <div className="flex flex-1 flex-col p-5">
-        <h2 className="text-lg font-semibold text-foreground">{plantel.nombre}</h2>
-        <p className="mt-2 flex-1 text-sm leading-relaxed text-muted-foreground">
-          {plantel.descripcion}
+    <main className="mx-auto max-w-5xl px-6 py-12">
+      {/* Saludo personalizado */}
+      <div className="mb-8">
+        <p className="text-xs font-semibold uppercase tracking-widest text-military">
+          Bienvenido de vuelta
         </p>
-
-        <Link
-          href={`/inicio/plantel/${plantel.id}`}
-          className={cn(
-            buttonVariants({ variant: 'default', size: 'default' }),
-            'mt-4 w-full'
-          )}
-        >
-          Preparar admisión
-          <ArrowRight className="ml-1 h-4 w-4" />
-        </Link>
+        <h1 className="mt-1 text-3xl font-semibold tracking-tight text-foreground">
+          Hola, {perfil.nombre.split(' ')[0]}
+        </h1>
+        <p className="mt-2 text-sm text-muted-foreground">
+          Preparándote para el <span className="font-medium text-foreground">{plantel.nombre}</span>.
+        </p>
       </div>
-    </article>
+
+      {/* Card del plantel */}
+      <article className="mb-8 overflow-hidden rounded-xl border border-border bg-card shadow-sm">
+        <div className="grid grid-cols-1 md:grid-cols-[220px_1fr]">
+          <div className="relative flex h-32 items-center justify-center overflow-hidden bg-primary md:h-full">
+            <div
+              className="pointer-events-none absolute inset-0"
+              style={{
+                backgroundImage:
+                  'repeating-linear-gradient(45deg, transparent, transparent 12px, rgba(201,154,59,0.06) 12px, rgba(201,154,59,0.06) 24px)',
+              }}
+            />
+            <div className="relative flex flex-col items-center gap-1 text-center">
+              <Star className="h-6 w-6 text-accent" />
+              <p className="text-[10px] font-semibold uppercase tracking-widest text-accent">
+                Tu plantel elegido
+              </p>
+            </div>
+          </div>
+          <div className="p-5">
+            <h2 className="text-lg font-semibold text-foreground">
+              {plantel.nombre}
+            </h2>
+            <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+              {plantel.descripcion}
+            </p>
+          </div>
+        </div>
+      </article>
+
+      {/* Sección exámenes — 3 CTAs, uno por fase */}
+      <section className="mb-8">
+        <div className="mb-3 flex items-center gap-2">
+          <div className="h-4 w-1 rounded bg-accent" />
+          <h2 className="text-sm font-semibold text-foreground">
+            Simuladores por fase
+          </h2>
+        </div>
+        <div className="grid grid-cols-1 gap-4 md:grid-cols-3">
+          <ExamenCTA
+            href="/inicio/simulador/1"
+            fase="Fase 01"
+            titulo="Psicométrico"
+            descripcion="4 bloques de 10 min con temporizador. Analogías, sinónimos, razonamiento lógico y abstracto."
+            icono={<Brain className="h-5 w-5 text-accent" />}
+          />
+          <ExamenCTA
+            href="/inicio/simulador/2"
+            fase="Fase 02"
+            titulo="Personalidad"
+            descripcion="Escala Likert. 8 temas centrales. El sistema detecta contradicciones entre respuestas."
+            icono={<UserCircle className="h-5 w-5 text-accent" />}
+          />
+          <ExamenCTA
+            href="/inicio/simulador/3"
+            fase="Fase 03"
+            titulo="Axiológico"
+            descripcion="Perfil de valores militares. Escala de 5 puntos. Responde honestamente."
+            icono={<Scale className="h-5 w-5 text-accent" />}
+          />
+        </div>
+      </section>
+
+      {/* Guía del Aspirante — próximamente (lectura online) */}
+      <section>
+        <div className="mb-3 flex items-center gap-2">
+          <div className="h-4 w-1 rounded bg-military" />
+          <h2 className="text-sm font-semibold text-foreground">
+            Material de estudio
+          </h2>
+        </div>
+        <div className="flex items-center gap-4 rounded-xl border border-dashed border-border bg-muted/40 p-5">
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-military/10">
+            <BookOpen className="h-5 w-5 text-military" />
+          </div>
+          <div className="flex-1">
+            <p className="flex items-center gap-2 font-semibold text-foreground">
+              Guía del Aspirante
+              <span className="inline-flex items-center gap-1 rounded-md bg-muted px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+                <Lock className="h-2.5 w-2.5" />
+                Próximamente
+              </span>
+            </p>
+            <p className="mt-1 text-sm text-muted-foreground">
+              95 páginas con la estrategia completa. Estamos remasterizándola como lectura online interactiva.
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Sub-componente: card CTA de un examen
+   ═══════════════════════════════════════════════════════════ */
+function ExamenCTA({
+  href,
+  fase,
+  titulo,
+  descripcion,
+  icono,
+}: {
+  href: string
+  fase: string
+  titulo: string
+  descripcion: string
+  icono: React.ReactNode
+}) {
+  return (
+    <Link
+      href={href}
+      className="group flex flex-col rounded-xl border border-border bg-card p-5 shadow-sm transition-colors hover:border-accent"
+    >
+      <div className="mb-3 flex h-10 w-10 items-center justify-center rounded-lg bg-accent/10">
+        {icono}
+      </div>
+      <p className="text-[10px] font-bold uppercase tracking-widest text-military">
+        {fase}
+      </p>
+      <h3 className="mt-1 font-semibold text-foreground">{titulo}</h3>
+      <p className="mt-1 flex-1 text-sm text-muted-foreground">
+        {descripcion}
+      </p>
+      <div className="mt-3 flex items-center gap-1 text-xs font-semibold text-accent">
+        Iniciar simulador
+        <ArrowRight className="h-3 w-3 transition-transform group-hover:translate-x-0.5" />
+      </div>
+    </Link>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Sub-componente: selector para usuarios legacy sin plantel
+   ═══════════════════════════════════════════════════════════ */
+
+function SelectorPlantelLegacy({
+  nombre,
+  onAsignado,
+}: {
+  nombre: string
+  onAsignado: () => void
+}) {
+  const [planteles, setPlanteles] = useState<Plantel[]>([])
+  const [plantelId, setPlantelId] = useState<number | ''>('')
+  const [error, setError] = useState('')
+  const [loading, setLoading] = useState(false)
+
+  useEffect(() => {
+    apiFetch<Plantel[]>('/planteles')
+      .then(setPlanteles)
+      .catch(() =>
+        setError('No pudimos cargar los planteles. Refresca la página.'),
+      )
+  }, [])
+
+  async function asignar() {
+    if (!plantelId) {
+      setError('Elige un plantel.')
+      return
+    }
+    setError('')
+    setLoading(true)
+    try {
+      await apiFetch('/usuarios/mi-plantel', {
+        method: 'PATCH',
+        body: { plantelId },
+      })
+      onAsignado()
+    } catch (err) {
+      setError((err as Error).message)
+      setLoading(false)
+    }
+  }
+
+  return (
+    <main className="mx-auto flex max-w-lg flex-col items-center px-6 py-16 text-center">
+      <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-accent/10 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-accent">
+        Elige tu plantel
+      </div>
+      <h1 className="mb-2 text-2xl font-semibold text-foreground">
+        Hola {nombre.split(' ')[0]}, todavía no tienes plantel asignado.
+      </h1>
+      <p className="mb-8 text-sm text-muted-foreground">
+        Elige el plantel al que te preparas. Todo tu contenido (simulador, guía, resultados) se adapta a él.
+      </p>
+
+      <div className="w-full space-y-3">
+        {planteles.map((p) => (
+          <button
+            key={p.id}
+            type="button"
+            onClick={() => setPlantelId(p.id)}
+            className={cn(
+              'w-full rounded-lg border p-4 text-left transition-colors',
+              plantelId === p.id
+                ? 'border-primary bg-accent/10'
+                : 'border-border bg-card hover:bg-muted',
+            )}
+          >
+            <p className="font-semibold text-foreground">{p.nombre}</p>
+            <p className="mt-1 text-xs text-muted-foreground">
+              {p.descripcion}
+            </p>
+          </button>
+        ))}
+      </div>
+
+      {error && (
+        <div className="mt-4 flex w-full items-start gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-3 text-left">
+          <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-destructive" />
+          <p className="text-sm text-destructive">{error}</p>
+        </div>
+      )}
+
+      <Button
+        onClick={asignar}
+        disabled={loading || !plantelId}
+        className="mt-6 w-full"
+        size="lg"
+      >
+        {loading ? 'Guardando...' : 'Confirmar plantel'}
+        <ArrowRight className="ml-1 h-4 w-4" />
+      </Button>
+
+      <Link
+        href="/"
+        className={cn(
+          buttonVariants({ variant: 'ghost', size: 'sm' }),
+          'mt-4 text-xs text-muted-foreground',
+        )}
+      >
+        ← Salir sin elegir
+      </Link>
+    </main>
   )
 }
