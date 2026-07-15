@@ -16,6 +16,7 @@ import {
   Users,
 } from "lucide-react";
 import { INSTRUCCIONES_POR_BLOQUE } from "@/lib/instrucciones-bloques";
+import { logoDePlantel } from "@/lib/planteles";
 
 export default function Home() {
   return (
@@ -497,11 +498,25 @@ function PlantelCardMarketing({
   grado: string;
   estudios: string[];
 }) {
+  const logoSrc = logoDePlantel(nombre);
   return (
     <article className="flex flex-col rounded-xl border border-border/30 bg-card/10 p-5 backdrop-blur">
-      <div className="mb-4 flex h-10 w-10 items-center justify-center rounded-lg bg-military/20">
-        <GraduationCap className="h-5 w-5 text-accent" />
-      </div>
+      {/* Logo oficial del plantel (o fallback a icono si no existe) */}
+      {logoSrc ? (
+        <div className="mb-4 flex h-16 w-16 items-center justify-center overflow-hidden rounded-lg bg-white/95 p-1">
+          <Image
+            src={logoSrc}
+            alt={`Escudo de ${nombre}`}
+            width={56}
+            height={56}
+            className="object-contain"
+          />
+        </div>
+      ) : (
+        <div className="mb-4 flex h-10 w-10 items-center justify-center rounded-lg bg-military/20">
+          <GraduationCap className="h-5 w-5 text-accent" />
+        </div>
+      )}
 
       <h3 className="text-lg font-semibold text-primary-foreground">{nombre}</h3>
       <p className="mt-1 text-xs italic text-muted-foreground">&ldquo;{lema}&rdquo;</p>

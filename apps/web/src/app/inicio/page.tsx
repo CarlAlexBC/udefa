@@ -2,10 +2,12 @@
 
 import { useEffect, useState, useCallback } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
 import { Button, buttonVariants } from '@/components/ui/button'
 import { HeaderPrivado } from './HeaderPrivado'
+import { logoDePlantel } from '@/lib/planteles'
 import {
   AlertCircle,
   ArrowRight,
@@ -118,34 +120,8 @@ function Dashboard({ perfil, plantel }: { perfil: Perfil; plantel: Plantel }) {
         </p>
       </div>
 
-      {/* Card del plantel */}
-      <article className="mb-8 overflow-hidden rounded-xl border border-border bg-card shadow-sm">
-        <div className="grid grid-cols-1 md:grid-cols-[220px_1fr]">
-          <div className="relative flex h-32 items-center justify-center overflow-hidden bg-primary md:h-full">
-            <div
-              className="pointer-events-none absolute inset-0"
-              style={{
-                backgroundImage:
-                  'repeating-linear-gradient(45deg, transparent, transparent 12px, rgba(201,154,59,0.06) 12px, rgba(201,154,59,0.06) 24px)',
-              }}
-            />
-            <div className="relative flex flex-col items-center gap-1 text-center">
-              <Star className="h-6 w-6 text-accent" />
-              <p className="text-[10px] font-semibold uppercase tracking-widest text-accent">
-                Tu plantel elegido
-              </p>
-            </div>
-          </div>
-          <div className="p-5">
-            <h2 className="text-lg font-semibold text-foreground">
-              {plantel.nombre}
-            </h2>
-            <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
-              {plantel.descripcion}
-            </p>
-          </div>
-        </div>
-      </article>
+      {/* Card del plantel — con logo oficial */}
+      <PlantelHeroCard plantel={plantel} />
 
       {/* CTA principal: Simulador completo (los 3 exámenes fusionados) */}
       <section className="mb-8">
@@ -274,6 +250,58 @@ function ExamenCTA({
         <ArrowRight className="h-3 w-3 transition-transform group-hover:translate-x-0.5" />
       </div>
     </Link>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Sub-componente: hero card del plantel elegido por el usuario
+   Muestra el logo oficial cuando existe, si no un placeholder.
+   ═══════════════════════════════════════════════════════════ */
+function PlantelHeroCard({ plantel }: { plantel: Plantel }) {
+  const logoSrc = logoDePlantel(plantel.nombre)
+  return (
+    <article className="mb-8 overflow-hidden rounded-xl border border-border bg-card shadow-sm">
+      <div className="grid grid-cols-1 md:grid-cols-[220px_1fr]">
+        <div className="relative flex items-center justify-center overflow-hidden bg-primary p-6 md:h-full">
+          <div
+            className="pointer-events-none absolute inset-0"
+            style={{
+              backgroundImage:
+                'repeating-linear-gradient(45deg, transparent, transparent 12px, rgba(201,154,59,0.06) 12px, rgba(201,154,59,0.06) 24px)',
+            }}
+          />
+          {logoSrc ? (
+            <div className="relative flex h-32 w-32 items-center justify-center overflow-hidden rounded-full bg-white/95 p-2 shadow-lg">
+              <Image
+                src={logoSrc}
+                alt={`Escudo de ${plantel.nombre}`}
+                width={112}
+                height={112}
+                className="object-contain"
+              />
+            </div>
+          ) : (
+            <div className="relative flex flex-col items-center gap-1 text-center">
+              <Star className="h-6 w-6 text-accent" />
+              <p className="text-[10px] font-semibold uppercase tracking-widest text-accent">
+                Tu plantel elegido
+              </p>
+            </div>
+          )}
+        </div>
+        <div className="p-5">
+          <p className="text-[10px] font-semibold uppercase tracking-widest text-military">
+            Tu plantel elegido
+          </p>
+          <h2 className="mt-1 text-lg font-semibold text-foreground">
+            {plantel.nombre}
+          </h2>
+          <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+            {plantel.descripcion}
+          </p>
+        </div>
+      </div>
+    </article>
   )
 }
 
