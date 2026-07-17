@@ -8,12 +8,20 @@ import { buttonVariants } from '@/components/ui/button'
 import {
   AlertCircle,
   ArrowRight,
+  BookOpen,
   CheckCircle2,
   Loader2,
   Sparkles,
   TrendingDown,
   TrendingUp,
 } from 'lucide-react'
+import {
+  type GuiaLink,
+  urlDeLink,
+  linkParaTema,
+  linkParaBloque,
+  LINKS_FIJOS,
+} from '@/lib/diagnostico-links'
 
 /* ═══════════════════════════════════════════════════════════
    Tipos
@@ -344,10 +352,12 @@ function DiagnosticoCard({
   severidad,
   titulo,
   descripcion,
+  guiaLink,
 }: {
   severidad: 'atencion' | 'revisar' | 'fortaleza'
   titulo: string
   descripcion: string
+  guiaLink?: GuiaLink
 }) {
   const config = {
     atencion: {
@@ -374,6 +384,7 @@ function DiagnosticoCard({
   }[severidad]
 
   const Icon = config.icon
+  const mostrarCTA = severidad !== 'fortaleza' && !!guiaLink
 
   return (
     <div
@@ -398,6 +409,16 @@ function DiagnosticoCard({
       <p className="mt-1 text-xs text-muted-foreground leading-relaxed">
         {descripcion}
       </p>
+      {mostrarCTA && guiaLink && (
+        <Link
+          href={urlDeLink(guiaLink)}
+          className="mt-3 inline-flex items-center gap-1.5 rounded-md border border-accent/40 bg-accent/5 px-3 py-1.5 text-xs font-semibold text-accent transition-colors hover:bg-accent/10"
+        >
+          <BookOpen className="h-3 w-3" />
+          Aprender a mejorar
+          <ArrowRight className="h-3 w-3" />
+        </Link>
+      )}
     </div>
   )
 }
@@ -490,12 +511,13 @@ type Diagnostico = {
   severidad: 'atencion' | 'revisar' | 'fortaleza'
   titulo: string
   descripcion: string
+  guiaLink?: GuiaLink
 }
 
 function calcularDiagnosticos(data: Resultados): Diagnostico[] {
   const out: Diagnostico[] = []
 
-  // Fatiga detectada
+  // Fatiga detectada — P1
   if (data.metricasTemporales.patronFatigaDetectado && data.metricasTemporales.detalleFatiga) {
     const pct = Math.abs(data.metricasTemporales.detalleFatiga.diferenciaPorcentual)
     out.push({
@@ -503,10 +525,11 @@ function calcularDiagnosticos(data: Resultados): Diagnostico[] {
       titulo: `Bajaste el ritmo un ${pct}% en la segunda mitad.`,
       descripcion:
         'Puede indicar fatiga cognitiva o dudas acumuladas. Considera practicar con temporizador para acostumbrar la resistencia.',
+      guiaLink: LINKS_FIJOS.fatigaPsicometrico,
     })
   }
 
-  // Bloques con bajo desempeño
+  // Bloques con bajo desempeño — P2 a P5 (según nombre del bloque)
   const bloquesDebiles = data.porBloque.filter(
     (b) => b.porcentaje !== null && b.porcentaje < 50,
   )
@@ -515,10 +538,11 @@ function calcularDiagnosticos(data: Resultados): Diagnostico[] {
       severidad: 'revisar',
       titulo: `${b.nombre}: ${b.porcentaje}% de aciertos.`,
       descripcion: `Solo ${b.aciertos} de ${b.respondidos} correctas. Este bloque necesita práctica enfocada.`,
+      guiaLink: linkParaBloque(b.nombre) ?? undefined,
     })
   }
 
-  // Fortalezas
+  // Fortalezas — sin CTA (no hay nada que mejorar)
   if (data.porcentajeAciertos !== null && data.porcentajeAciertos >= 80) {
     out.push({
       severidad: 'fortaleza',
@@ -829,6 +853,7 @@ function calcularDiagnosticosAutoevaluacion(data: Resultados): Diagnostico[] {
       titulo: `Perfil idealizado: ${sesgo.indiceDeseabilidad}% de respuestas alineadas al lado positivo.`,
       descripcion:
         'Un perfil que responde siempre en la dirección socialmente esperada se lee como poco creíble. El examen real está diseñado para detectar exactamente este patrón. Responde con más autenticidad.',
+      guiaLink: LINKS_FIJOS.perfilIdealizado,
     })
   }
   if (sesgo?.tieneSesgoAquiescencia) {
@@ -836,6 +861,7 @@ function calcularDiagnosticosAutoevaluacion(data: Resultados): Diagnostico[] {
       severidad: 'revisar',
       titulo: `Sesgo de aquiescencia: ${sesgo.porcentajeSi}% de respuestas fueron Sí.`,
       descripcion: 'Responder Sí a todo indica asentimiento automático sin análisis real. Cada reactivo debe evaluarse individualmente.',
+      guiaLink: LINKS_FIJOS.aquiescencia,
     })
   }
   if (sesgo?.tieneSesgoNegativismo) {
@@ -843,6 +869,7 @@ function calcularDiagnosticosAutoevaluacion(data: Resultados): Diagnostico[] {
       severidad: 'revisar',
       titulo: `Sesgo de negativismo: ${sesgo.porcentajeNo}% de respuestas fueron No.`,
       descripcion: 'Responder No a todo indica rechazo automático. También puede leerse como desconfianza o resistencia al proceso.',
+      guiaLink: LINKS_FIJOS.negativismo,
     })
   }
 
@@ -853,7 +880,8 @@ function calcularDiagnosticosAutoevaluacion(data: Resultados): Diagnostico[] {
     out.push({
       severidad: 'atencion',
       titulo: `Coincidencia baja (${scoreCI.score}/100) con el perfil militar ideal.`,
-      descripcion: 'Tu perfil axiológico se aleja del perfil buscado por la institución. Revisa la Guía del Aspirante — sección de valores militares — para entender el perfil esperado.',
+      descripcion: 'Tu perfil axiológico se aleja del perfil buscado por la institución. Revisa la sección de los 8 valores axiológicos para entender el perfil esperado.',
+      guiaLink: LINKS_FIJOS.coincidenciaBajaAxiologico,
     })
   }
   if (scoreCI && scoreCI.etiqueta === 'alta') {
@@ -872,18 +900,23 @@ function calcularDiagnosticosAutoevaluacion(data: Resultados): Diagnostico[] {
       titulo: `Se detectaron ${data.analisisConsistencia.totalContradicciones} pares de respuestas contradictorias.`,
       descripcion:
         'Respondiste en direcciones opuestas a reactivos que apuntan al mismo tema. El sistema lo lee como perfil inestable. Revisa qué temas te generaron más duda y practica manteniendo criterio.',
+      guiaLink: LINKS_FIJOS.contradiccionesInternas,
     })
   }
 
   if (data.analisisConsistencia && data.analisisConsistencia.temasConInconsistencia.length > 0) {
-    const temasStr = data.analisisConsistencia.temasConInconsistencia
+    const temas = data.analisisConsistencia.temasConInconsistencia
+    const temasStr = temas
       .slice(0, 3)
-      .map(t => t.replace(/_/g, ' '))
+      .map((t) => t.replace(/_/g, ' '))
       .join(', ')
+    // El link apunta a la sección del PRIMER tema con inconsistencia (el más crítico).
+    const primerTemaConLink = temas.find((t) => linkParaTema(t) !== null)
     out.push({
       severidad: 'revisar',
-      titulo: `${data.analisisConsistencia.temasConInconsistencia.length} temas con inconsistencia detectada.`,
-      descripcion: `Temas más críticos: ${temasStr}${data.analisisConsistencia.temasConInconsistencia.length > 3 ? ', y otros' : ''}. Estos temas necesitan que definas mejor tu postura antes del examen real.`,
+      titulo: `${temas.length} temas con inconsistencia detectada.`,
+      descripcion: `Temas más críticos: ${temasStr}${temas.length > 3 ? ', y otros' : ''}. Estos temas necesitan que definas mejor tu postura antes del examen real.`,
+      guiaLink: primerTemaConLink ? (linkParaTema(primerTemaConLink) ?? undefined) : undefined,
     })
   }
 
@@ -896,6 +929,7 @@ function calcularDiagnosticosAutoevaluacion(data: Resultados): Diagnostico[] {
       titulo: `Aceleraste tu ritmo un ${pct}% en la segunda mitad.`,
       descripcion:
         'En autoevaluación, acelerar demasiado puede llevar a respuestas menos reflexivas. Idealmente el ritmo debe mantenerse parejo del principio al fin para preservar coherencia.',
+      guiaLink: LINKS_FIJOS.aceleracionAutoevaluacion,
     })
   }
 
@@ -904,6 +938,7 @@ function calcularDiagnosticosAutoevaluacion(data: Resultados): Diagnostico[] {
       severidad: 'revisar',
       titulo: 'Tu ritmo entre reactivos fue muy variable.',
       descripcion: `Un coeficiente de variación de ${data.metricasTemporales.coeficienteVariacion} indica que algunos reactivos te tomaron mucho más que otros. Considera si te trabaste con temas específicos.`,
+      guiaLink: LINKS_FIJOS.ritmoVariable,
     })
   }
 
@@ -912,6 +947,7 @@ function calcularDiagnosticosAutoevaluacion(data: Resultados): Diagnostico[] {
       severidad: 'atencion',
       titulo: `Tiempo promedio de solo ${Math.round(data.metricasTemporales.tiempoPromedioReactivoMs / 1000)} segundos por reactivo.`,
       descripcion: 'Un ritmo muy rápido puede indicar respuestas automáticas. En autoevaluación esto genera patrones poco creíbles. Considera responder con más pausa reflexiva.',
+      guiaLink: LINKS_FIJOS.ritmoDemasiadoRapido,
     })
   }
 

@@ -14,7 +14,6 @@ import {
   BookOpen,
   Brain,
   Loader2,
-  Lock,
   Scale,
   Star,
   UserCircle,
@@ -184,7 +183,7 @@ function Dashboard({ perfil, plantel }: { perfil: Perfil; plantel: Plantel }) {
         </div>
       </section>
 
-      {/* Guía del Aspirante — próximamente (lectura online) */}
+      {/* Guía del Aspirante — lectura online */}
       <section>
         <div className="mb-3 flex items-center gap-2">
           <div className="h-4 w-1 rounded bg-military" />
@@ -192,23 +191,26 @@ function Dashboard({ perfil, plantel }: { perfil: Perfil; plantel: Plantel }) {
             Material de estudio
           </h2>
         </div>
-        <div className="flex items-center gap-4 rounded-xl border border-dashed border-border bg-muted/40 p-5">
+        <Link
+          href="/inicio/guia"
+          className="group flex items-center gap-4 rounded-xl border border-border bg-card p-5 shadow-sm transition-colors hover:border-accent"
+        >
           <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-military/10">
             <BookOpen className="h-5 w-5 text-military" />
           </div>
           <div className="flex-1">
-            <p className="flex items-center gap-2 font-semibold text-foreground">
+            <p className="flex items-center gap-2 font-semibold text-foreground transition-colors group-hover:text-accent">
               Guía del Aspirante
-              <span className="inline-flex items-center gap-1 rounded-md bg-muted px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
-                <Lock className="h-2.5 w-2.5" />
-                Próximamente
+              <span className="inline-flex items-center gap-1 rounded-md bg-accent/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-accent">
+                Manual completo online
               </span>
             </p>
             <p className="mt-1 text-sm text-muted-foreground">
-              95 páginas con la estrategia completa. Estamos remasterizándola como lectura online interactiva.
+              El manual completo. Estrategias por bloque, marcos psicológicos, y cómo responder cada eje del examen.
             </p>
           </div>
-        </div>
+          <ArrowRight className="hidden h-4 w-4 text-accent transition-transform group-hover:translate-x-1 md:block" />
+        </Link>
       </section>
     </main>
   )
