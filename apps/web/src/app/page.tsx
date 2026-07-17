@@ -5,7 +5,6 @@ import { cn } from "@/lib/utils";
 import {
   ArrowRight,
   Brain,
-  CheckCircle2,
   Clock,
   GraduationCap,
   Scale,
@@ -15,8 +14,8 @@ import {
   UserCircle,
   Users,
 } from "lucide-react";
-import { INSTRUCCIONES_POR_BLOQUE } from "@/lib/instrucciones-bloques";
 import { logoDePlantel } from "@/lib/planteles";
+import { CarruselMuestra } from "@/components/landing/CarruselMuestra";
 
 export default function Home() {
   return (
@@ -31,12 +30,18 @@ export default function Home() {
 
         <div className="relative mx-auto max-w-6xl px-6">
           <nav className="flex items-center justify-between py-5">
-            <div className="flex items-center gap-3">
-              <div className="flex h-9 w-9 items-center justify-center rounded-md border border-border/40 bg-card/10">
-                <span className="font-semibold text-accent">M</span>
+            <Link href="/" className="flex items-center gap-3">
+              <div className="flex h-10 w-10 items-center justify-center overflow-hidden rounded-full border border-border/40 bg-card/10">
+                <Image
+                  src="/logo.png"
+                  alt="El Monote te Guía"
+                  width={40}
+                  height={40}
+                  className="h-full w-full object-cover"
+                />
               </div>
               <span className="font-semibold">El Monote te Guía</span>
-            </div>
+            </Link>
             <Link
               href="/login"
               className={cn(
@@ -102,15 +107,19 @@ export default function Home() {
             </div>
 
             <div className="flex items-center justify-center">
-              <div className="rounded-2xl border border-border/30 bg-card/10 p-3">
-                <Image
-                  src="/logo.png"
-                  alt="El Monote te Guía"
-                  width={280}
-                  height={280}
-                  priority
-                  className="rounded-xl"
-                />
+              <div className="relative">
+                {/* Halo decorativo detrás del logo */}
+                <div className="pointer-events-none absolute inset-0 -m-4 rounded-full bg-accent/10 blur-2xl" />
+                <div className="relative flex h-72 w-72 items-center justify-center overflow-hidden rounded-full border-4 border-accent/30 bg-card/10 shadow-2xl md:h-80 md:w-80">
+                  <Image
+                    src="/logo.png"
+                    alt="El Monote te Guía"
+                    width={320}
+                    height={320}
+                    priority
+                    className="h-full w-full object-cover"
+                  />
+                </div>
               </div>
             </div>
           </div>
@@ -167,39 +176,26 @@ export default function Home() {
       </section>
 
       {/* ═══════════════════════════════════════════════════════════
-          EJEMPLOS DE REACTIVOS RESUELTOS
-          Vista previa didáctica del producto — sin dar el banco real.
+          PRUEBA EL EXAMEN — carrusel interactivo con 5 reactivos
+          reales de las 3 fases + micro-diagnóstico final.
           ═══════════════════════════════════════════════════════════ */}
-      <section id="ejemplos" className="bg-muted/40 py-16">
+      <section id="ejemplos" className="bg-muted/40 py-16 md:py-20">
         <div className="mx-auto max-w-6xl px-6">
           <div className="mb-10 text-center">
             <div className="mb-2 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-widest text-accent">
               <span className="h-px w-5 bg-accent" />
-              Vista previa
+              Prueba el examen
               <span className="h-px w-5 bg-accent" />
             </div>
             <h2 className="text-3xl font-semibold tracking-tight text-foreground">
-              Así se resuelve cada reactivo.
+              Cinco reactivos reales. Responde y descubre cómo evalúa el sistema.
             </h2>
-            <p className="mx-auto mt-2 max-w-lg text-sm text-muted-foreground">
-              Tres ejemplos resueltos (uno por tipo de bloque del psicométrico). No memorices — entiende la lógica detrás.
+            <p className="mx-auto mt-2 max-w-xl text-sm text-muted-foreground">
+              Tres del psicométrico, uno de personalidad, uno del axiológico. Al responder cada uno recibirás una explicación pedagógica de cómo funciona el sistema — sin memorizar, entendiendo la lógica.
             </p>
           </div>
 
-          <div className="grid grid-cols-1 gap-4 md:grid-cols-3">
-            <EjemploResuelto
-              bloque="Analogías Verbales y Cultura General"
-              info={INSTRUCCIONES_POR_BLOQUE["Analogías Verbales y Cultura General"]}
-            />
-            <EjemploResuelto
-              bloque="Sinónimos y Antónimos"
-              info={INSTRUCCIONES_POR_BLOQUE["Sinónimos y Antónimos"]}
-            />
-            <EjemploResuelto
-              bloque="Razonamiento Lógico-Matemático"
-              info={INSTRUCCIONES_POR_BLOQUE["Razonamiento Lógico-Matemático"]}
-            />
-          </div>
+          <CarruselMuestra />
         </div>
       </section>
 
@@ -407,75 +403,6 @@ function FaseCard({
         <span className="text-xs font-semibold text-foreground">{duracion}</span>
       </div>
     </div>
-  );
-}
-
-/* ═══════════════════════════════════════════════════════════
-   Sub-componente EjemploResuelto — card compacta con reactivo,
-   respuesta correcta destacada y explicación.
-   Consume el mismo mapa de instrucciones que usa el simulador.
-   ═══════════════════════════════════════════════════════════ */
-function EjemploResuelto({
-  bloque,
-  info,
-}: {
-  bloque: string;
-  info: typeof INSTRUCCIONES_POR_BLOQUE[keyof typeof INSTRUCCIONES_POR_BLOQUE] | undefined;
-}) {
-  if (!info?.ejemplo) return null;
-  const { ejemplo } = info;
-
-  return (
-    <article className="rounded-xl border border-border bg-card p-5">
-      <p className="mb-3 text-[10px] font-bold uppercase tracking-widest text-military">
-        {bloque}
-      </p>
-      <p className="mb-4 text-base font-semibold leading-snug text-foreground">
-        {ejemplo.enunciado}
-      </p>
-
-      <div className="mb-4 flex flex-col gap-1.5">
-        {ejemplo.opciones.map((opcion, i) => {
-          const letra = String.fromCharCode(65 + i);
-          const esCorrecta = opcion === ejemplo.respuestaCorrecta;
-          return (
-            <div
-              key={opcion}
-              className={cn(
-                "flex items-center gap-2 rounded-md border p-2 text-sm",
-                esCorrecta
-                  ? "border-military bg-military/10 font-medium text-foreground"
-                  : "border-border text-muted-foreground"
-              )}
-            >
-              <span
-                className={cn(
-                  "flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-[10px] font-semibold",
-                  esCorrecta
-                    ? "bg-military text-military-foreground"
-                    : "border border-border bg-muted"
-                )}
-              >
-                {letra}
-              </span>
-              <span>{opcion}</span>
-              {esCorrecta && (
-                <CheckCircle2 className="ml-auto h-3.5 w-3.5 text-military" />
-              )}
-            </div>
-          );
-        })}
-      </div>
-
-      <div className="rounded-md border-l-2 border-l-accent bg-accent/5 p-3">
-        <p className="text-[10px] font-bold uppercase tracking-widest text-accent">
-          Explicación
-        </p>
-        <p className="mt-1 text-xs leading-relaxed text-foreground">
-          {ejemplo.explicacion}
-        </p>
-      </div>
-    </article>
   );
 }
 
