@@ -142,3 +142,19 @@ model RespuestaReactivo {
   respondidoEnMs        Int
   createdAt             DateTime       @default(now())
 }
+
+/**
+ * Ponderación de temas para el muestreo estratificado en armarExamen.
+ * Un tema con peso alto aparece proporcionalmente más veces en el examen.
+ * El campo `tema` coincide con Reactivo.tema (no es FK — coincidencia por convención).
+ * Solo tiene efecto real en el examen de personalidad (único con muchos temas granulares
+ * en un mismo bloque).
+ */
+model TemaPrioridad {
+  tema             String   @id
+  peso             Int      @default(1)
+  descripcion      String?
+  motivoContextual String?
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+}

@@ -10,9 +10,10 @@ import { BloquesModule } from './bloques/bloques.module';
 import { ReactivosModule } from './reactivos/reactivos.module';
 import { IntentosModule } from './intentos/intentos.module';
 import { SesionesCompletasModule } from './sesiones-completas/sesiones-completas.module';
+import { TemasPrioridadModule } from './temas-prioridad/temas-prioridad.module';
 
 @Module({
-  imports: [UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule, IntentosModule, SesionesCompletasModule],
+  imports: [UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule, IntentosModule, SesionesCompletasModule, TemasPrioridadModule],
   controllers: [AppController],
   providers: [AppService, PrismaService],
 })
