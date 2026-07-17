@@ -22,6 +22,8 @@ import {
   linkParaBloque,
   LINKS_FIJOS,
 } from '@/lib/diagnostico-links'
+import { GraficosPsicometrico } from '@/components/resultados/GraficosPsicometrico'
+import { GraficosAutoevaluacion } from '@/components/resultados/GraficosAutoevaluacion'
 
 /* ═══════════════════════════════════════════════════════════
    Tipos
@@ -238,90 +240,46 @@ function PanelCalificable({ data }: { data: Resultados }) {
           </section>
         )}
 
-        {/* Grid: bloques + tiempo */}
-        <section className="mt-8 grid grid-cols-1 gap-4 md:grid-cols-2">
-
-          {/* Desglose por bloque */}
-          <div className="rounded-xl border border-border bg-card p-5">
-            <div className="mb-4 flex items-center justify-between">
-              <h3 className="text-sm font-semibold text-foreground">
-                Desempeño por bloque
-              </h3>
-              {data.porcentajeAciertos !== null && (
-                <span className="rounded bg-muted px-2 py-0.5 text-xs font-semibold text-muted-foreground">
-                  {data.aciertos}/{data.reactivosRespondidos}
-                </span>
-              )}
-            </div>
-            <div className="flex flex-col gap-3">
-              {data.porBloque.map((b) => (
-                <BloqueRow key={b.bloqueId} bloque={b} />
-              ))}
-              {data.porBloque.length === 0 && (
-                <p className="text-xs text-muted-foreground">
-                  Sin datos por bloque.
-                </p>
-              )}
-            </div>
-          </div>
-
-          {/* Métricas temporales */}
-          <div className="rounded-xl border border-border bg-card p-5">
-            <div className="mb-4 flex items-center justify-between">
-              <h3 className="text-sm font-semibold text-foreground">
-                Ritmo temporal
-              </h3>
-              <TendenciaBadge tendencia={data.metricasTemporales.tendencia} />
-            </div>
-            <div className="grid grid-cols-2 gap-3">
-              <MetricStat
-                label="Tiempo promedio"
-                value={`${Math.round(data.metricasTemporales.tiempoPromedioReactivoMs / 1000)}s`}
-                sub="por reactivo"
-              />
-              <MetricStat
-                label="Consistencia"
-                value={data.metricasTemporales.coeficienteVariacion < 0.5 ? 'Alta' : 'Baja'}
-                sub={`CV ${data.metricasTemporales.coeficienteVariacion}`}
-              />
-            </div>
-            {data.metricasTemporales.detalleFatiga && (
-              <div className="mt-4 border-t border-border pt-3 text-xs text-muted-foreground">
-                Primera mitad:{' '}
-                <span className="font-semibold text-foreground">
-                  {Math.round(
-                    data.metricasTemporales.detalleFatiga
-                      .tiempoPromedioPrimeraMitadMs / 1000,
-                  )}
-                  s
-                </span>
-                {' · '}
-                Segunda mitad:{' '}
-                <span className="font-semibold text-foreground">
-                  {Math.round(
-                    data.metricasTemporales.detalleFatiga
-                      .tiempoPromedioSegundaMitadMs / 1000,
-                  )}
-                  s
-                </span>
-              </div>
-            )}
-          </div>
+        {/* Métricas rápidas — resumen numérico compacto sobre los gráficos */}
+        <section className="mt-8 grid grid-cols-2 gap-3 md:grid-cols-4">
+          <MetricStat
+            label="Tiempo promedio"
+            value={`${Math.round(data.metricasTemporales.tiempoPromedioReactivoMs / 1000)}s`}
+            sub="por reactivo"
+          />
+          <MetricStat
+            label="Consistencia"
+            value={data.metricasTemporales.coeficienteVariacion < 0.5 ? 'Alta' : 'Baja'}
+            sub={`CV ${data.metricasTemporales.coeficienteVariacion}`}
+          />
+          <MetricStat
+            label="Tendencia"
+            value={
+              data.metricasTemporales.tendencia === 'estable'
+                ? 'Estable'
+                : data.metricasTemporales.tendencia === 'acelerando'
+                ? 'Acelerando'
+                : 'Desacelerando'
+            }
+            sub={
+              data.metricasTemporales.detalleFatiga
+                ? `Δ ${data.metricasTemporales.detalleFatiga.diferenciaPorcentual}%`
+                : ''
+            }
+          />
+          <MetricStat
+            label="Bloques"
+            value={`${data.porBloque.length}`}
+            sub={`${data.porTema.length} temas`}
+          />
         </section>
 
-        {/* Desglose por tema (si hay más de 1) */}
-        {data.porTema.length > 1 && (
-          <section className="mt-6 rounded-xl border border-border bg-card p-5">
-            <h3 className="mb-4 text-sm font-semibold text-foreground">
-              Desempeño por tema
-            </h3>
-            <div className="grid grid-cols-2 gap-3 md:grid-cols-4">
-              {data.porTema.map((t) => (
-                <TemaCard key={t.tema} tema={t} />
-              ))}
-            </div>
-          </section>
-        )}
+        {/* Gráficos visuales del intento */}
+        <GraficosPsicometrico
+          porBloque={data.porBloque}
+          porTema={data.porTema}
+          metricasTemporales={data.metricasTemporales}
+        />
 
         {/* CTA volver */}
         <div className="mt-10 flex justify-between border-t border-border pt-6">
@@ -705,6 +663,14 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
             </div>
           )}
         </section>
+
+        {/* Gráficos visuales del intento (radar, donut, gauge, bar chart) */}
+        {data.analisisConsistencia && (
+          <GraficosAutoevaluacion
+            analisisConsistencia={data.analisisConsistencia}
+            examenNombre={data.examen.nombre}
+          />
+        )}
 
         {/* Estilo de respuesta — solo personalidad (sesgo + deseabilidad social) */}
         {data.analisisConsistencia?.sesgoRespuesta && (

@@ -15,10 +15,27 @@ import {
   Scale,
   UserCircle,
 } from 'lucide-react'
+import { GraficosSesionCompleta } from '@/components/resultados/GraficosSesionCompleta'
 
 /* ═══════════════════════════════════════════════════════════
    Tipos — coinciden con GET /sesiones-completas/:id/resultados
    ═══════════════════════════════════════════════════════════ */
+
+type PorBloque = {
+  bloqueId: number
+  nombre: string
+  respondidos: number
+  aciertos: number | null
+  porcentaje: number | null
+}
+
+type AnalisisTema = {
+  tema: string
+  totalReactivos: number
+  puntajeDireccion: number
+  coherencia: number
+  contradiccionesDetectadas: number
+}
 
 type ResultadoIntento = {
   intentoId: number
@@ -28,10 +45,16 @@ type ResultadoIntento = {
   reactivosRespondidos: number
   aciertos: number | null
   porcentajeAciertos: number | null
+  porBloque?: PorBloque[]
   analisisConsistencia?: {
     totalContradicciones: number
     temasConInconsistencia: string[]
     perfilCoherente: boolean
+    porTema?: AnalisisTema[]
+    scoreCoincidenciaIdeal?: {
+      score: number
+      etiqueta: 'alta' | 'media' | 'baja'
+    } | null
   }
 }
 
@@ -165,70 +188,11 @@ export default function SesionResultadosPage({
           />
         </section>
 
-        {/* Distancia cross-examen: Personalidad ↔ Axiológico */}
-        {data.distanciaCrossExamen && (
-          <section className="mt-6 rounded-xl border border-border bg-card p-5">
-            <div className="mb-4 flex items-center justify-between">
-              <h3 className="text-sm font-semibold text-foreground">
-                Coherencia Personalidad ↔ Axiológico
-              </h3>
-              <span className={cn(
-                'text-xs font-semibold uppercase tracking-widest',
-                data.distanciaCrossExamen.interpretacion === 'coherente' ? 'text-military' :
-                data.distanciaCrossExamen.interpretacion === 'aceptable' ? 'text-accent' :
-                'text-destructive'
-              )}>
-                {data.distanciaCrossExamen.interpretacion === 'coherente' ? 'Alineado' :
-                 data.distanciaCrossExamen.interpretacion === 'aceptable' ? 'Aceptable' :
-                 'Divergente'}
-              </span>
-            </div>
-            <p className="mb-4 text-xs text-muted-foreground">
-              Compara cómo te describes en Personalidad con qué tanto te identificas con perfiles similares en Axiológico. El tema común evaluado es <span className="font-medium text-foreground">{data.distanciaCrossExamen.temaComun.replace(/_/g, ' ')}</span>.
-            </p>
-
-            <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
-              <div className="rounded-lg bg-muted p-4">
-                <p className="text-[10px] uppercase tracking-widest text-muted-foreground">
-                  Perfil declarado (Personalidad)
-                </p>
-                <p className="mt-1 text-2xl font-semibold text-foreground">
-                  {data.distanciaCrossExamen.puntajePersonalidad}<span className="text-sm text-muted-foreground">/100</span>
-                </p>
-                <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-background">
-                  <div className="h-full bg-accent" style={{ width: `${data.distanciaCrossExamen.puntajePersonalidad}%` }} />
-                </div>
-              </div>
-              <div className="rounded-lg bg-muted p-4">
-                <p className="text-[10px] uppercase tracking-widest text-muted-foreground">
-                  Perfil aceptado (Axiológico)
-                </p>
-                <p className="mt-1 text-2xl font-semibold text-foreground">
-                  {data.distanciaCrossExamen.puntajeAxiologico}<span className="text-sm text-muted-foreground">/100</span>
-                </p>
-                <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-background">
-                  <div className="h-full bg-military" style={{ width: `${data.distanciaCrossExamen.puntajeAxiologico}%` }} />
-                </div>
-              </div>
-            </div>
-
-            <div className={cn(
-              'mt-4 rounded-md border-l-2 p-3 text-xs',
-              data.distanciaCrossExamen.interpretacion === 'coherente' ? 'border-l-military bg-military/5' :
-              data.distanciaCrossExamen.interpretacion === 'aceptable' ? 'border-l-accent bg-accent/5' :
-              'border-l-destructive bg-destructive/5'
-            )}>
-              <p className="font-semibold text-foreground">
-                Distancia: {data.distanciaCrossExamen.distancia} puntos
-              </p>
-              <p className="mt-1 text-muted-foreground">
-                {data.distanciaCrossExamen.interpretacion === 'coherente' && 'Lo que dices en Personalidad coincide con lo que aceptas en Axiológico. Perfil íntegro.'}
-                {data.distanciaCrossExamen.interpretacion === 'aceptable' && 'Existe cierta variación entre tu autoconcepto y los perfiles que aceptas. Aún dentro de lo esperado, pero revisa por qué.'}
-                {data.distanciaCrossExamen.interpretacion === 'divergente' && 'Tu autoconcepto en Personalidad y los perfiles que aceptas en Axiológico apuntan en direcciones distintas. Esto se lee como inconsistencia estructural.'}
-              </p>
-            </div>
-          </section>
-        )}
+        {/* Gráficos visuales de la sesión: radar cross-examen + gauge dual */}
+        <GraficosSesionCompleta
+          intentos={data.intentos}
+          distanciaCrossExamen={data.distanciaCrossExamen}
+        />
 
         {/* Resumen por fase — 3 cards con acceso al detalle */}
         <section className="mt-8">
