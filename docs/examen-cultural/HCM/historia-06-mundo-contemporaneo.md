@@ -1657,4 +1657,225 @@ Por el pacto se acordó un "tratado de amistad, de cooperación y asistencia mut
 
 ---
 
-**Reactivos en este archivo:** 101
+## Sub-lote 15 · El conflicto del Golfo Pérsico
+
+### 102
+
+De acuerdo con el libro de Historia Universal, ¿en qué fecha invadieron Kuwait las divisiones blindadas iraquíes?
+
+- A. El 2 de agosto de 1990
+- B. El 6 de agosto de 1990
+- C. El 28 de agosto de 1990
+- D. El 15 de enero de 1991
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 238
+**Subtema:** Acontecimientos de nuestros días · Golfo Pérsico
+
+El 2 de agosto de 1990, varias divisiones blindadas iraquíes invadieron Kuwait.
+
+### 103
+
+De acuerdo con el libro de Historia Universal, ¿qué declaró Saddam Hussein respecto de Kuwait el día 28 de agosto de 1990?
+
+- A. Que era la provincia número diecinueve de Irak
+- B. Que era un protectorado militar iraquí
+- C. Que era la provincia número dieciocho de Irak
+- D. Que quedaba bajo mandato del Partido Baas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 238
+**Subtema:** Acontecimientos de nuestros días · Golfo Pérsico
+
+Dos días más tarde, Saddam Hussein, presidente de Irak, anunció la formación de un nuevo gobierno militar en el emirato ocupado, y el día 28 del mismo mes, declaró a Kuwait, la provincia número diecinueve de Irak.
+
+### 104
+
+De acuerdo con el libro de Historia Universal, ¿qué organismo impuso al país agresor un embargo comercial tras la invasión de Kuwait?
+
+- A. La Comunidad Europea
+- B. La Liga Árabe
+- C. La Organización de los Estados Americanos
+- D. El Fondo Monetario Internacional
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 238
+**Subtema:** Acontecimientos de nuestros días · Golfo Pérsico
+
+Ante esta situación, la Comunidad Europea impuso al país agresor un embargo comercial, sanción que a partir de la disposición emitida por el Consejo de Seguridad de la Organización de las Naciones Unidas, el 6 de agosto del mismo año, adquirió un carácter mundial.
+
+### 105
+
+De acuerdo con el libro de Historia Universal, ¿en qué país ordenó George Bush el despliegue de tropas de combate norteamericanas?
+
+- A. En Arabia Saudita
+- B. En Kuwait
+- C. En Irak
+- D. En Israel
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Golfo Pérsico
+
+Pocos días después, George Bush, el entonces presidente de Estados Unidos de América, ordenó el despliegue de tropas de combate norteamericanas en Arabia Saudita.
+
+### 106
+
+De acuerdo con el libro de Historia Universal, ¿cuántas naciones se sumaron al contingente armado antiiraquí?
+
+- A. Veintiocho
+- B. Doce
+- C. Diecinueve
+- D. Cincuenta y una
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Golfo Pérsico
+
+Finalmente, fueron veintiocho naciones las que se sumaron al contingente armado antiiraquí, coordinado por el Estado Mayor norteamericano.
+
+### 107
+
+De acuerdo con el libro de Historia Universal, ¿cuál fue la más importante de las 12 resoluciones que adoptó el Consejo de Seguridad sobre la invasión?
+
+- A. La número 678, aprobada el 29 de noviembre de 1990
+- B. La número 242, aprobada el 29 de noviembre de 1990
+- C. La número 678, aprobada el 15 de enero de 1991
+- D. La número 12, aprobada el 6 de agosto de 1990
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Golfo Pérsico
+
+El Consejo de Seguridad de las Naciones Unidas adoptó 12 resoluciones relacionadas con la invasión, la más importante de ellas fue la número 678, aprobada el 29 de noviembre de 1990, en la que dio un ultimátum a Irak para que se retirara de Kuwait antes del 15 de enero de 1991.
+
+> El distractor B usa la resolución 242, que es la del Medio Oriente (Pág. 220).
+> El libro trae las dos y se parecen en función.
+
+### 108
+
+De acuerdo con el libro de Historia Universal, ¿en qué desembocó la crisis del Golfo Pérsico?
+
+- A. En la primera guerra posterior a la conclusión de la Guerra Fría
+- B. En la última guerra de la Guerra Fría
+- C. En la Segunda Guerra de Indochina
+- D. En la disolución del Pacto de Varsovia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Golfo Pérsico
+
+Así comenzó la crisis del Golfo Pérsico, que desembocó en la primera guerra posterior a la conclusión de la Guerra Fría.
+
+---
+
+## Sub-lote 16 · Iraq
+
+### 109
+
+De acuerdo con el libro de Historia Universal, ¿cuál es el nombre oficial de Iraq?
+
+- A. Al-Jumhuriya Al-Iraquiya
+- B. República Árabe de Iraq
+- C. Al-Iraquiya Al-Jumhuriya
+- D. Emirato de Mesopotamia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+El nombre oficial de este país es Al-Jumhuriya Al-Iraquiya; cuenta con 438 317 km² de superficie y con una población de 31 129 225 habitantes (2012), de acuerdo con cifras de 2011.
+
+### 110
+
+De acuerdo con el libro de Historia Universal, ¿qué superficie tiene Iraq?
+
+- A. 438 317 km²
+- B. 431 051 km²
+- C. 348 317 km²
+- D. 483 317 km²
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+Cuenta con 438 317 km² de superficie y con una población de 31 129 225 habitantes (2012), de acuerdo con cifras de 2011.
+
+### 111
+
+De acuerdo con el libro de Historia Universal, ¿qué ríos irrigan a Iraq, país que en la antigüedad fue asiento de la cultura mesopotámica?
+
+- A. El Tigris y el Éufrates
+- B. El Tigris y el Jordán
+- C. El Éufrates y el Nilo
+- D. El Jordán y el Nilo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+El país, irrigado por los ríos Tigris y Eufrates, fue en la antigüedad el asiento de la cultura mesopotámica.
+
+### 112
+
+De acuerdo con el libro de Historia Universal, ¿en qué siglo fundaron los árabes Bagdad e introdujeron la religión islámica?
+
+- A. En el siglo VII
+- B. En el siglo XVIII
+- C. En el siglo XVII
+- D. En el siglo VIII
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+En el siglo VII, los árabes fundaron Bagdad e introdujeron la religión islámica, que desde entonces ha sido la base cultural de la región.
+
+### 113
+
+De acuerdo con el libro de Historia Universal, ¿en qué año se descubrieron grandes yacimientos de petróleo en la región de Irak?
+
+- A. En 1927
+- B. En 1932
+- C. En 1958
+- D. En 1918
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+Como en 1927 se descubrieron grandes yacimientos de petróleo en la región, los británicos entraron en conflicto con los alemanes por el control y, finalmente, las empresas británicas, en sociedad con las norteamericanas, se quedaron con el negocio del energético.
+
+### 114
+
+De acuerdo con el libro de Historia Universal, ¿quién proclamó en 1932 la independencia de Irak, contando con el aval de Londres?
+
+- A. El Emir Faisal
+- B. Faisal II
+- C. Saddam Hussein
+- D. El Partido Baas Árabe y Socialista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+En 1932, contando con el aval de Londres, el Emir Faisal proclamó la independencia del país y, al ser derrocado su hijo Faisal II, se instituyó la República en 1958.
+
+### 115
+
+De acuerdo con el libro de Historia Universal, ¿qué partido llegó al poder en Irak por una revolución diez años después de instituida la República?
+
+- A. El Partido Baas Árabe y Socialista
+- B. El Frente Nacional
+- C. El Partido Comunista Iraquí
+- D. La Liga de los Estados Árabes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+Diez años más tarde, una revolución llevó al poder al Partido Baas Árabe y Socialista, el cual apoyado en sus principios nacionalizó la industria petrolera.
+
+---
+
+**Reactivos en este archivo:** 115
