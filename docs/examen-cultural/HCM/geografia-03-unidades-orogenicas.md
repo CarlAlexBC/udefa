@@ -36,9 +36,12 @@ Regiones geomorfológicas y por tanto fuera de este temario.
 | Meseta Central de Chiapas | 76 | 3 |
 | Plataforma Yucateca | 77 | 6 |
 | Sierras de Baja California | 79 | 4 |
+| Sierra Atravesada | 75 | 3 |
+| Sierra Madre de Chiapas (cont.) | 75 | 2 |
+| Sistema Californiano | 78 | 2 |
 
-**Pendiente:** páginas 75 y 78. El resto del alcance del temario (69–79) está
-cubierto.
+**Alcance cubierto por completo.** Páginas 69–79, que es todo lo que el temario
+pide del capítulo 3.
 
 ---
 
@@ -607,4 +610,136 @@ Sierra Juárez, ya en territorio mexicano, coronada por amplias y elevadas meset
 
 ---
 
-**Reactivos en este archivo:** 35
+## Sub-lote 11 · Sierra Atravesada
+
+### 36
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué serranía recorre el Istmo de Tehuantepec en dirección oeste-este con una longitud de 100 km?
+
+- A. La Sierra Atravesada
+- B. La Sierra Madre de Chiapas
+- C. La Sierra Madre de Oaxaca
+- D. La Sierra Mixe
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 75
+**Subtema:** unidades orogénicas · Sierra Atravesada
+
+A pesar de su corta longitud, las características especiales de orden geológico y su reducida altitud hacen necesario considerar como unidad independiente la serranía que recorre el Istmo de Tehuantepec en dirección oeste-este con una longitud de 100 km.
+
+### 37
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué se ha seleccionado como paso obligado del proyectado canal interoceánico?
+
+- A. El puerto cercano a la estación de Chivela, a 244 m
+- B. El valle del río Ostuta
+- C. El puerto de Arriaga
+- D. La depresión del Balsas
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 75
+**Subtema:** unidades orogénicas · Sierra Atravesada
+
+Su altitud media es del orden de 500 m sobre el nivel del mar y tiene un puerto cerca de la estación de Chivela a 244 m, que se ha seleccionado como paso obligado del proyectado canal interoceánico.
+
+### 38
+
+De acuerdo con el libro de Geografía Moderna de México, ¿de qué materiales está formada la Sierra Atravesada?
+
+- A. De gneiss, esquistos cristalinos y materiales intrusivos
+- B. De areniscas, lutitas y margas del Plioceno
+- C. De andesitas, basaltos y riolitas
+- D. De calizas cretácicas sobre formaciones terciarias
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 75
+**Subtema:** unidades orogénicas · Sierra Atravesada
+
+Sus mayores eminencias no sobrepasan de los 650 m de altitud. Está formada de gneiss, esquistos cristalinos y materiales intrusivos.
+
+---
+
+## Sub-lote 12 · Sierra Madre de Chiapas (continuación)
+
+### 39
+
+De acuerdo con el libro de Geografía Moderna de México, ¿entre qué puntos se extiende la Sierra Madre de Chiapas?
+
+- A. Desde el río Ostuta hasta la frontera con Guatemala
+- B. Desde el Pico de Orizaba hasta el Istmo de Tehuantepec
+- C. Desde el río Mezcalapa hasta el nudo de los Chuchumatanes
+- D. Desde el cabo Corrientes hasta el Istmo de Tehuantepec
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 75
+**Subtema:** unidades orogénicas · Sierra Madre de Chiapas
+
+Situada en su mayor parte dentro del estado de Chiapas y una pequeña porción en Oaxaca, puede considerarse que se extiende desde el río Ostuta hasta la frontera con Guatemala, donde penetra.
+
+### 40
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué separa la Sierra Madre de Chiapas al constituir una divisoria de aguas continentales?
+
+- A. Al sur la vertiente del Pacífico y al norte el valle central de Chiapas, que desagua en el Golfo de México
+- B. Al sur el valle central de Chiapas y al norte la vertiente del Pacífico
+- C. Al este la cuenca del Grijalva y al oeste la del Balsas
+- D. Al norte la vertiente del Caribe y al sur la del Golfo
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 75
+**Subtema:** unidades orogénicas · Sierra Madre de Chiapas
+
+Se extiende en las proximidades del océano Pacífico, constituyendo una divisoria de aguas continentales que deja al sur la vertiente del Pacífico y al norte el valle central de Chiapas, que desagua en el Golfo de México.
+
+---
+
+## Sub-lote 13 · Plataforma Yucateca (continuación) y Sistema Californiano
+
+### 41
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cómo se llaman las concavidades del terreno con almacenamiento de agua permanente o temporal que abundan en la zona yucateca?
+
+- A. Aguadas
+- B. Cenotes
+- C. Albuferas
+- D. Marismas
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 78
+**Subtema:** unidades orogénicas · Plataforma Yucateca
+
+En esta zona, la topografía superficial ha sido influida por el drenaje subterráneo y se encuentran numerosas *aguadas*, resultado de los hundimientos, particularmente en la porción oriental-sureste. La nota al pie las define como concavidades del terreno con almacenamiento de agua permanente o temporal.
+
+### 42
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué limita al norte al Sistema Californiano?
+
+- A. El Valle de San Joaquín, dentro de Estados Unidos de América
+- B. La Sierra de San Pedro Mártir
+- C. El Cabo San Lucas
+- D. La bahía Sebastián Vizcaíno
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 78
+**Subtema:** unidades orogénicas · Sistema Californiano
+
+Se localiza a lo largo de la Península de Baja California, con una dirección general nornoroeste a sursureste, limitada al norte por el Valle de San Joaquín, dentro de Estados Unidos de América, y al sur por Cabo San Lucas.
+
+### 43
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la longitud del Sistema Californiano?
+
+- A. 1 430 km
+- B. 1 350 km
+- C. 1 250 km
+- D. 280 km
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 78
+**Subtema:** unidades orogénicas · Sistema Californiano
+
+Tiene 1 430 km de longitud y una anchura media de 75 km.
+
+---
+
+**Reactivos en este archivo:** 43

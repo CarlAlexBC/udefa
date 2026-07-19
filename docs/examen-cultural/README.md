@@ -108,14 +108,16 @@ y ve la diferencia, está explicada dentro del reactivo 15 de
 | Materia | Reactivos | Pendiente |
 |---|---|---|
 | Geografía cap. 1 | 13 | — |
-| Geografía cap. 3 | 15 | pp. 74–79 |
-| Geografía cap. 4 | 21 | p. 96 |
-| Geografía cap. 5 | 20 | pp. 99, 100, 102–104 |
+| Geografía cap. 3 | 43 | — |
+| Geografía cap. 4 | 27 | — |
+| Geografía cap. 5 | 42 | — |
 | Historia | 0 | todo el capítulo 6 |
 | Álgebra | 0 | caps. I–VI |
 | Español | 0 | bloques 1 y 3 |
 
-**Total: 69 reactivos.**
+**Total: 125 reactivos. Geografía queda cerrada**, cubriendo todo el alcance del
+temario. Las siguientes materias arrancan de cero, y de Álgebra y Español falta
+verificar la edición contra la página legal antes de usarlas.
 
 ## Lo que aún no existe
 
