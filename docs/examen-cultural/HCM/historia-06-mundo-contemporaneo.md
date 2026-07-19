@@ -46,21 +46,19 @@ reactivos de cita literal.
 **Apartado "Las grandes organizaciones internacionales" completo**
 (páginas 221–226).
 
-**Apartado "Principales acontecimientos de nuestros días", en curso**
-(páginas 238–267). Cubiertas las páginas 238–264. Las páginas 242, 245, 253 y 255
-son los mapas 25 a 28: sin texto del que salgan reactivos de cita literal. La 249
-es casi toda la figura 59 y sólo aporta el párrafo que cierra la oración de la 248.
+**Apartado "Principales acontecimientos de nuestros días" COMPLETO**
+(páginas 238–267). Las páginas 242, 245, 253 y 255 son los mapas 25 a 28: sin
+texto del que salgan reactivos de cita literal. La 249 es casi toda la figura 59
+y sólo aporta el párrafo que cierra la oración de la 248.
 
-Dentro del apartado ya cerraron el conflicto del Golfo Pérsico y "El fin del
-bloque socialista europeo", éste hasta la desintegración de la URSS y el
-surgimiento de la Comunidad de Estados Independientes. Va en curso "La
-actualidad en América Latina y el Caribe", que arranca en la 256. De América
-Central están completos Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica
-y Panamá; de las Antillas, República Dominicana y Puerto Rico; y de América del
-Sur, Venezuela, Brasil, Colombia, Ecuador y Perú.
+Cubre el conflicto del Golfo Pérsico, el fin del bloque socialista europeo y toda
+"La actualidad en América Latina y el Caribe": los seis países de América
+Central, República Dominicana y Puerto Rico, los cinco de Sudamérica y el Cono
+Sur, y México, con el que cierra el apartado en la 267.
 
-**Pendiente:** acontecimientos de nuestros días de la 265 en adelante, y la
-llegada del siglo XXI (268–279).
+**Pendiente:** sólo "La llegada del siglo XXI" (268–279). El texto de la 267 se
+corta a media oración y continúa en la 268, así que el arranque de la próxima
+tanda debe recoger esa frase.
 
 ## Verificación de transcripción (19 jul 2026)
 
@@ -111,6 +109,8 @@ si el examen real la corrige.
 | Pág. 263 | Fernando Collor de *Melo* | Collor de Mello |
 | Pág. 264 | Sixto *Duran Bayén* | Durán Ballén (presidente de Ecuador 1992–1996) |
 | Pág. 264 | *Abdala Bucaran* Ortiz | Abdalá Bucaram Ortiz (en la 261 sí lleva tilde el nombre) |
+| Pág. 265 | Movimiento Revolucionario *Tupac* Amaru | Túpac Amaru |
+| Pág. 266 | *bloques* salariales | bloqueos salariales (confirmado a 550 dpi: el libro dice "bloques") |
 
 **El libro tropieza sistemáticamente con los nombres propios extranjeros**
 —Traman, Koffi, Gorvachov, Arzó, Lacallo, Bucaran, Róselo, Mississipi—, así que
@@ -6539,4 +6539,631 @@ Privatización de empresas públicas, de la cual sobresale la venta de teléfono
 
 ---
 
-**Reactivos en este archivo:** 414
+## Sub-lote 36 · Perú, Bolivia y Chile
+
+### 415
+
+De acuerdo con el libro de Historia Universal, ¿ante qué sigue siendo frágil el modelo económico peruano?
+
+- A. Ante el déficit de la balanza comercial, el incremento de la deuda externa, el subempleo y la pobreza
+- B. Ante la hiperinflación y la quiebra de industrias
+- C. Ante el centralismo del ejecutivo
+- D. Ante la baja mundial de precios del cacao, café y banano
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** América Andina · Perú
+
+Los resultados del plan han sido notables, pero su modelo económico sigue siendo frágil ante el déficit de la balanza comercial, el incremento de la deuda externa, el subempleo y la pobreza.
+
+### 416
+
+De acuerdo con el libro de Historia Universal, ¿cómo concluyó la Guerra del Cóndor que Perú vivió en 1995?
+
+- A. En un acuerdo pacífico
+- B. En la desmilitarización de la zona fronteriza
+- C. Sin acuerdo entre las partes
+- D. En la anulación del Protocolo de Río
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** América Andina · Perú
+
+En 1995 Perú vivió la Guerra del Cóndor por un litigio fronterizo con Ecuador y concluyendo en un acuerdo pacífico.
+
+### 417
+
+De acuerdo con el libro de Historia Universal, ¿qué crisis enfrentó el gobierno peruano a finales de 1996?
+
+- A. La "Crisis de los Rehenes"
+- B. La "Crisis del Caribe"
+- C. La Guerra del Cóndor
+- D. La "Operación Cero"
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** América Andina · Perú
+
+A finales de 1996 el gobierno enfrentó la "Crisis de los Rehenes", cuando un comando del grupo guerrillero Movimiento Revolucionario Túpac Amaru (MRTA) tomó las instalaciones de la embajada de Japón.
+
+### 418
+
+De acuerdo con el libro de Historia Universal, ¿qué grupo guerrillero tomó las instalaciones de la embajada de Japón?
+
+- A. El Movimiento Revolucionario Túpac Amaru
+- B. El Frente Sandinista de Liberación Nacional
+- C. El Frente de Liberación Nacional "Farabundo Martí"
+- D. El Partido Cambio 90
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** América Andina · Perú
+
+Cuando un comando del grupo guerrillero Movimiento Revolucionario Túpac Amaru (MRTA) tomó las instalaciones de la embajada de Japón, con cientos de rehenes entre los que se encontraban varios diplomáticos.
+
+### 419
+
+De acuerdo con el libro de Historia Universal, ¿cuándo aplicó Bolivia planes de ajuste estructural y cuál fue el saldo?
+
+- A. A mediados de la década de los ochenta, con buenos resultados en ciertos renglones, pero el costo social de la apertura fue alto
+- B. A mediados de la década de los noventa, con buenos resultados y bajo costo social
+- C. Desde 1993, con resultados positivos y aceptación del pueblo
+- D. A mediados de la década de los ochenta, sin resultados y con alto costo social
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** América Andina · Bolivia
+
+A mediados de la década de los ochenta el país aplicó planes de ajuste estructural en la economía con buenos resultados en ciertos renglones, pero el costo social de la apertura fue alto.
+
+### 420
+
+De acuerdo con el libro de Historia Universal, ¿desde cuándo gobierna Gonzalo Sánchez de Lozada y con qué política?
+
+- A. Desde 1993, continuando con la política neoliberal
+- B. Desde 1995, continuando con la política neoliberal
+- C. Desde 1993, revirtiendo la política neoliberal
+- D. Desde 1989, continuando con la política neoliberal
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** América Andina · Bolivia
+
+El gobierno de Gonzalo Sánchez de Lozada, desde 1993, ha continuado con la política neoliberal obteniendo algunos resultados positivos en la economía, aun con el rechazo del pueblo.
+
+### 421
+
+De acuerdo con el libro de Historia Universal, ¿qué se decretó en Bolivia al agudizarse las protestas en 1995?
+
+- A. Estado de sitio a lo largo de tres meses
+- B. Estado de sitio a lo largo de un mes
+- C. La suspensión de las garantías constitucionales
+- D. Un golpe de Estado civil
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** América Andina · Bolivia
+
+Las protestas se agudizaron en 1995, por lo que se decretó estado de sitio a lo largo de tres meses.
+
+### 422
+
+De acuerdo con el libro de Historia Universal, ¿en qué consistía la "Operación Cero"?
+
+- A. En sustituir plantíos de "coca" por otros cultivos
+- B. En erradicar totalmente los plantíos de "coca"
+- C. En el ingreso de Bolivia al Mercosur
+- D. En la privatización de las empresas estatales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** América Andina · Bolivia
+
+El gobierno pretendió poner en práctica la "Operación Cero", con la finalidad de sustituir plantíos de "coca" por otros cultivos.
+
+### 423
+
+De acuerdo con el libro de Historia Universal, ¿qué ocurrió con la "Operación Cero"?
+
+- A. Obtuvo un violento rechazo, por lo que dio marcha atrás y sólo aplicó ciertas restricciones
+- B. Se aplicó por completo con buenos resultados
+- C. Fue sustituida por un acuerdo con Estados Unidos
+- D. Provocó el decreto de estado de sitio
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** América Andina · Bolivia
+
+Pero obtuvo un violento rechazo, por lo que dio marcha atrás y sólo aplicó ciertas restricciones.
+
+### 424
+
+De acuerdo con el libro de Historia Universal, ¿qué marcó la toma de posesión del presidente Patricio Aylwin en 1989?
+
+- A. El fin del gobierno militar, encabezado por el general Augusto Pinochet desde 1973
+- B. El fin del gobierno militar, encabezado por el general Augusto Pinochet desde 1970
+- C. El inicio de la concertación por la democracia
+- D. El ingreso de Chile al Mercosur
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** Cono Sur · Chile
+
+La toma de posesión del presidente Patricio Aylwin, en 1989, marcó el fin del gobierno militar, encabezado por el general Augusto Pinochet desde 1973.
+
+### 425
+
+De acuerdo con el libro de Historia Universal, ¿con qué país firmó Aylwin un acuerdo de libre comercio?
+
+- A. Con Colombia
+- B. Con México
+- C. Con Argentina
+- D. Con Estados Unidos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** Cono Sur · Chile
+
+El gobierno de Aylwin mantuvo la política de economía de mercado, buscando un reparto más equitativo de la riqueza y firmó un acuerdo de libre comercio con Colombia.
+
+### 426
+
+De acuerdo con el libro de Historia Universal, ¿quién llegó a la presidencia de Chile en 1993 y por qué coalición?
+
+- A. Eduardo Frei Ruiz-Tagle, por una coalición de partidos de la concertación por la democracia
+- B. Patricio Aylwin, por una coalición de partidos de la concertación por la democracia
+- C. Eduardo Frei Ruiz-Tagle, por el Partido de Liberación Nacional
+- D. Augusto Pinochet, por una coalición de partidos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** Cono Sur · Chile
+
+En 1993 una coalición de partidos de la concertación por la democracia llevó a la presidencia a Eduardo Frei Ruiz-Tagle.
+
+### 427
+
+De acuerdo con el libro de Historia Universal, ¿cuál declaró Frei Ruiz-Tagle que era su principal batalla?
+
+- A. Luchar contra la pobreza y otorgar mayores recursos a la educación y a la salud pública
+- B. Mantener la prosperidad económica
+- C. Incorporar a Chile al Tratado de Libre Comercio de América del Norte
+- D. Lograr un reparto más equitativo de la riqueza
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** Cono Sur · Chile
+
+Declaró que su principal batalla es luchar contra la pobreza y otorgar mayores recursos a la educación y a la salud pública.
+
+### 428
+
+De acuerdo con el libro de Historia Universal, ¿qué posición tiene Chile en el Mercosur y en la APEC?
+
+- A. Miembro asociado del Mercosur y miembro de pleno derecho de la APEC
+- B. Miembro de pleno derecho del Mercosur y miembro asociado de la APEC
+- C. Miembro de pleno derecho de ambos
+- D. Miembro asociado de ambos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** Cono Sur · Chile
+
+Chile se sumó al Tratado de Tlatelolco, se convirtió en miembro asociado del Mercosur y miembro de pleno derecho de la APEC.
+
+### 429
+
+De acuerdo con el libro de Historia Universal, ¿qué es la APEC?
+
+- A. Grupo de naciones de la cuenca del Pacífico
+- B. Grupo de naciones de la cuenca del Atlántico
+- C. Grupo de naciones andinas
+- D. Grupo de naciones del Cono Sur
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 265
+**Subtema:** Cono Sur · Chile
+
+Miembro de pleno derecho de la APEC, grupo de naciones de la cuenca del Pacífico.
+
+---
+
+## Sub-lote 37 · Argentina, Paraguay y Uruguay
+
+### 430
+
+De acuerdo con el libro de Historia Universal, ¿en qué consistió la política de modernización económica de Carlos Saúl Menem?
+
+- A. Privatizaciones masivas, reducción drástica del gasto presupuestario, liberación de excedentes fiscales, creciente apertura económica y la creación de una nueva moneda nacional
+- B. Nacionalizaciones y control de precios
+- C. Aumento del gasto presupuestario y proteccionismo
+- D. Reducción de aranceles y aumento de salarios
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** Cono Sur · Argentina
+
+Ha puesto en práctica una amplia política de modernización económica: privatizaciones masivas, reducción drástica del gasto presupuestario, liberación de excedentes fiscales, creciente apertura económica y la creación de una nueva moneda nacional, el peso.
+
+### 431
+
+De acuerdo con el libro de Historia Universal, ¿cómo se llama la nueva moneda nacional argentina?
+
+- A. El peso
+- B. El austral
+- C. El real
+- D. El bolívar
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** Cono Sur · Argentina
+
+La creación de una nueva moneda nacional, el peso.
+
+### 432
+
+De acuerdo con el libro de Historia Universal, ¿en qué se ha convertido Argentina como consecuencia de esa política?
+
+- A. En productor de materia prima e importador de bienes industriales y de capitales
+- B. En exportador de bienes industriales
+- C. En el país más endeudado del subcontinente
+- D. En importador de materia prima
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** Cono Sur · Argentina
+
+Además, se ha convertido al país en productor de materia prima e importador de bienes industriales y de capitales.
+
+### 433
+
+De acuerdo con el libro de Historia Universal, ¿cuándo fue reelecto Menem y qué préstamo recibió del FMI?
+
+- A. En 1995, un préstamo por 6 700 millones de dólares
+- B. En 1995, un préstamo por 1 400 millones de dólares
+- C. En 1996, un préstamo por 6 700 millones de dólares
+- D. En 1989, un préstamo por 6 700 millones de dólares
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** Cono Sur · Argentina
+
+Menem fue reelecto en 1995 y aplicó un nuevo plan de ajuste económico y recibió un fuerte préstamo del FMI, por 6 700 millones de dólares para lograr la estabilidad económica del país.
+
+### 434
+
+De acuerdo con el libro de Historia Universal, ¿qué le concedió el congreso a Menem en 1996 y para qué?
+
+- A. Poderes económicos de emergencia, para reducir los gastos públicos y aumentar la entrada de impuestos
+- B. Poderes económicos de emergencia, para privatizar las empresas estatales
+- C. La suspensión de las garantías constitucionales
+- D. Poderes de emergencia, para crear una nueva moneda nacional
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** Cono Sur · Argentina
+
+En 1996 el congreso le concedió poderes económicos de emergencia para reducir los gastos públicos y aumentar la entrada de impuestos.
+
+### 435
+
+De acuerdo con el libro de Historia Universal, ¿qué ocurrió por primera vez en la historia de Paraguay en 1993?
+
+- A. Se eligió democráticamente a un civil como presidente, Juan Carlos Wasmosy, después de 40 años de dictadura militar
+- B. Se eligió democráticamente a un civil, Juan Carlos Wasmosy, después de 30 años de dictadura militar
+- C. Se eliminó la injerencia de las fuerzas armadas en la gestión política
+- D. Un militar fue electo democráticamente como presidente
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** Cono Sur · Paraguay
+
+Por primera vez en la historia de este país, en 1993 se eligió democráticamente a un civil como presidente, Juan Carlos Wasmosy, después de 40 años de dictadura militar.
+
+### 436
+
+De acuerdo con el libro de Historia Universal, al emprender el proceso de democratización paraguayo, ¿qué se eliminó?
+
+- A. La injerencia de las fuerzas armadas y la fracción promilitar de su partido en la gestión política
+- B. La prohibición a militares de dedicarse a actividades económicas privadas
+- C. La afiliación de los civiles con partidos políticos
+- D. El fraude, la corrupción y el tráfico de drogas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** Cono Sur · Paraguay
+
+Al emprender este proceso de democratización se eliminó la injerencia de las fuerzas armadas y la fracción promilitar de su partido en la gestión política.
+
+### 437
+
+De acuerdo con el libro de Historia Universal, ¿qué se prohibió a los militares paraguayos?
+
+- A. Dedicarse a las actividades económicas privadas y afiliarse con partidos políticos
+- B. Participar en la gestión política del gobierno
+- C. Ocupar cargos en las jerarquías militares
+- D. Intervenir en el desarrollo de las elecciones
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** Cono Sur · Paraguay
+
+Así como la prohibición a militares de dedicarse a las actividades económicas privadas y a la afiliación con partidos políticos.
+
+### 438
+
+De acuerdo con el libro de Historia Universal, ¿qué efecto han tenido las purgas entre las jerarquías militares paraguayas?
+
+- A. Han impedido la aplicación de políticas públicas eficaces y la economía ha observado altibajos
+- B. Han consolidado la democratización del país
+- C. Han eliminado el tráfico de drogas
+- D. Han fortalecido la economía nacional
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** Cono Sur · Paraguay
+
+Ha realizado purgas entre las jerarquías militares, esto ha impedido la aplicación de políticas públicas eficaces y la economía ha observado altibajos.
+
+### 439
+
+De acuerdo con el libro de Historia Universal, ¿qué afrontó el gobierno del presidente Luis Alberto Lacalle, electo en 1990?
+
+- A. Serias oposiciones a su programa de modernización, a pesar de observarse un repunte económico
+- B. Un golpe de Estado civil
+- C. La quiebra generalizada de industrias
+- D. Serias oposiciones y una profunda recesión económica
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** Cono Sur · Uruguay
+
+El gobierno del presidente Luis Alberto Lacalle, electo en 1990, afrontó serias oposiciones a su programa de modernización, a pesar de observarse un repunte económico.
+
+### 440
+
+De acuerdo con el libro de Historia Universal, ¿cuántas veces ocupó la presidencia Julio María Sanguinetti y en qué años?
+
+- A. Dos veces: la primera en 1985 y la segunda en 1994
+- B. Dos veces: la primera en 1985 y la segunda en 1990
+- C. Dos veces: la primera en 1990 y la segunda en 1994
+- D. Tres veces: en 1985, 1990 y 1994
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** Cono Sur · Uruguay
+
+Por segunda ocasión, Julio María Sanguinetti ocupó la presidencia, la primera en 1985 y la segunda en 1994.
+
+### 441
+
+De acuerdo con el libro de Historia Universal, ¿por qué ha continuado Sanguinetti con una política económica cautelosa?
+
+- A. Porque el pueblo uruguayo se ha manifestado contra las reformas del Estado
+- B. Porque el país afronta una grave crisis económica
+- C. Porque el congreso le negó poderes económicos de emergencia
+- D. Porque el Fondo Monetario Internacional le condicionó el préstamo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** Cono Sur · Uruguay
+
+Ha continuado con una política económica cautelosa, ya que el pueblo uruguayo se ha manifestado contra las reformas del Estado.
+
+---
+
+## Sub-lote 38 · México
+
+### 442
+
+De acuerdo con el libro de Historia Universal, ¿cuándo asumió el poder Carlos Salinas de Gortari y qué se propuso?
+
+- A. En diciembre de 1988, modernizar el sistema económico del país a partir de la negociación de un Tratado Trilateral de Libre Comercio
+- B. En diciembre de 1988, incorporar a México al Mercosur
+- C. En diciembre de 1989, modernizar el sistema económico del país
+- D. En diciembre de 1988, restablecer las relaciones diplomáticas con el Vaticano
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** América Latina · México
+
+El expresidente de México, Carlos Salinas de Gortari, quien asumió el poder en diciembre de 1988, se propuso modernizar el sistema económico del país a partir de la negociación de un Tratado Trilateral de Libre Comercio.
+
+### 443
+
+De acuerdo con el libro de Historia Universal, ¿para qué región se proponía la creación de ese mercado común?
+
+- A. Para toda la América del Norte
+- B. Para toda América Latina
+- C. Para la cuenca del Pacífico
+- D. Para el Cono Sur
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 266
+**Subtema:** América Latina · México
+
+A partir de la negociación de un Tratado Trilateral de Libre Comercio, para la creación de un mercado común a toda la América del Norte.
+
+### 444
+
+De acuerdo con el libro de Historia Universal, ¿en virtud de qué se iniciaron las negociaciones del tratado?
+
+- A. En virtud de que otras naciones, principalmente europeas, se encuentran ya integradas económicamente
+- B. En virtud de la crisis económica que atravesaba México
+- C. Por iniciativa del Fondo Monetario Internacional
+- D. En virtud de la interdependencia con Canadá
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 267
+**Subtema:** América Latina · México
+
+Las negociaciones para este tratado se iniciaron a partir de que los gobiernos de México, Estados Unidos y Canadá acordaron la creación del mercado referido, en virtud de que otras naciones, principalmente europeas, se encuentran ya integradas económicamente.
+
+### 445
+
+De acuerdo con el libro de Historia Universal, ¿qué porcentaje del comercio exterior mexicano representa tan sólo Estados Unidos?
+
+- A. El 70%
+- B. El 40%
+- C. El 60%
+- D. El 45%
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 267
+**Subtema:** América Latina · México
+
+Partiendo del hecho, de que tan sólo Estados Unidos representan el 70% del comercio exterior mexicano, cerca del 40% de la inversión extranjera.
+
+### 446
+
+De acuerdo con el libro de Historia Universal, ¿qué porcentaje de la inversión extranjera representa Estados Unidos?
+
+- A. Cerca del 40%
+- B. Cerca del 70%
+- C. Cerca del 60%
+- D. Cerca del 20%
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 267
+**Subtema:** América Latina · México
+
+Tan sólo Estados Unidos representan el 70% del comercio exterior mexicano, cerca del 40% de la inversión extranjera.
+
+### 447
+
+De acuerdo con el libro de Historia Universal, ¿cuántos empleos absorbe la industria maquiladora de la región fronteriza del Norte de México?
+
+- A. Aproximadamente medio millón
+- B. Aproximadamente un millón
+- C. Aproximadamente 160 mil
+- D. Aproximadamente 700 mil
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 267
+**Subtema:** América Latina · México
+
+La industria maquiladora de la región fronteriza del Norte de México, absorbe aproximadamente medio millón de empleos.
+
+### 448
+
+De acuerdo con el libro de Historia Universal, entre las ventajas del tratado para México, ¿qué se esperaba de la ampliación del mercado mexicano?
+
+- A. Incrementar sus exportaciones
+- B. Aumentar las oportunidades de empleo
+- C. Lograr un mayor flujo de las inversiones extranjeras
+- D. Mayor y mejor estabilidad para las políticas económica y fiscal
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 267
+**Subtema:** América Latina · México
+
+Ampliación del mercado mexicano para incrementar sus exportaciones.
+
+### 449
+
+De acuerdo con el libro de Historia Universal, ¿desde cuándo no se formalizaban las relaciones diplomáticas de México con el Vaticano?
+
+- A. Desde que a mediados de la década de 1850 el presidente Benito Juárez promulgara las Leyes de Reforma
+- B. Desde la Revolución Mexicana
+- C. Desde mediados de la década de 1860
+- D. Desde que se promulgó la Constitución de 1917
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 267
+**Subtema:** América Latina · México
+
+Las cuales no se habían formalizado desde que a mediados de la década de 1850, el presidente Benito Juárez promulgara las Leyes de Reforma.
+
+### 450
+
+De acuerdo con el libro de Historia Universal, ¿qué separaban las Leyes de Reforma?
+
+- A. Los asuntos del Estado y de la Iglesia
+- B. Los poderes ejecutivo y legislativo
+- C. La educación pública de la privada
+- D. Los bienes del clero y los del Estado
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 267
+**Subtema:** América Latina · México
+
+El presidente Benito Juárez promulgara las Leyes de Reforma, con las que se separaban los asuntos del Estado y de la Iglesia.
+
+### 451
+
+De acuerdo con el libro de Historia Universal, ¿qué constituía México en Hispanoamérica respecto de la Santa Sede?
+
+- A. Una excepción en la formalización de sus relaciones diplomáticas
+- B. El único país con relaciones diplomáticas plenas
+- C. El primer país en restablecerlas
+- D. Un caso más entre los países católicos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 267
+**Subtema:** América Latina · México
+
+El pueblo mexicano es fundamentalmente católico y México constituía una excepción en Hispanoamérica en la formalización de sus relaciones diplomáticas con la Santa Sede.
+
+### 452
+
+De acuerdo con el libro de Historia Universal, ¿en qué ha consistido la entrada de México en la órbita de la política neoliberal?
+
+- A. Privatizaciones de industrias estatales, liberalización de la economía, mayor apertura a las inversiones extranjeras, reestructuración del Estado, políticas de austeridad, control de salarios y devaluaciones
+- B. Nacionalizaciones de industrias y control de precios
+- C. Proteccionismo y cierre del mercado interno
+- D. Aumento del gasto social y subsidios al consumo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 267
+**Subtema:** América Latina · México
+
+México ha entrado en la órbita de la política neoliberal al poner en práctica privatizaciones de industrias estatales, liberalización de la economía, mayor apertura a las inversiones extranjeras, reestructuración del Estado, políticas de austeridad, control de salarios y devaluaciones.
+
+### 453
+
+De acuerdo con el libro de Historia Universal, ¿cuáles son los enormes costos sociales de esa política en México?
+
+- A. Mayor desempleo, pobreza, inseguridad, pérdida del poder de compra, alza de precios y crisis generalizada
+- B. Hiperinflación y quiebra de industrias
+- C. Subempleo y déficit de la balanza comercial
+- D. Reducción general de la infraestructura social
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 267
+**Subtema:** América Latina · México
+
+Pero también con enormes costos sociales: existe mayor desempleo, pobreza, inseguridad, pérdida del poder de compra, alza de precios y crisis generalizada.
+
+### 454
+
+De acuerdo con el libro de Historia Universal, ¿en qué se hizo patente la inestabilidad del sistema político durante el sexenio de Salinas de Gortari?
+
+- A. En supuestos fraudes electorales, secuestros de industriales y banqueros, y asesinatos políticos
+- B. En la crisis económica y las devaluaciones
+- C. En las protestas contra las privatizaciones
+- D. En la ruptura de relaciones con el Vaticano
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 267
+**Subtema:** América Latina · México
+
+En el sexenio del presidente Carlos Salinas de Gortari se hizo patente la inestabilidad del sistema político manifiesto en supuestos fraudes electorales, secuestros de industriales y banqueros, asesinatos políticos.
+
+### 455
+
+De acuerdo con el libro de Historia Universal, ¿quiénes fueron los asesinados políticos que se mencionan?
+
+- A. El candidato a la presidencia Luis Donaldo Colosio Murrieta y el secretario del partido en el poder, José Francisco Ruiz Massieu
+- B. Luis Donaldo Colosio Murrieta y Carlos Salinas de Gortari
+- C. José Francisco Ruiz Massieu y Benito Juárez
+- D. Únicamente el candidato a la presidencia Luis Donaldo Colosio Murrieta
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 267
+**Subtema:** América Latina · México
+
+Asesinatos políticos, como el del candidato a la presidencia Luis Donaldo Colosio Murrieta y el del secretario del partido en el poder, José Francisco Ruiz Massieu.
+
+---
+
+**Reactivos en este archivo:** 455

@@ -138,21 +138,19 @@ la impresa 260 de 486 (el temario termina en la 104, así que alcanza).
 | Geografía cap. 3 | 43 | — |
 | Geografía cap. 4 | 27 | — |
 | Geografía cap. 5 | 42 | — |
-| Historia cap. 6 | 414 | pp. 265–267, 268–279 |
+| Historia cap. 6 | 455 | pp. 268–279 |
 | Español bloque 1 | 32 | — |
 | Español bloque 3 | 77 | — |
 | Álgebra Preliminares | 20 | pp. 9–39 |
 | Álgebra caps. I–VI | 0 | pp. 40–111 |
 
-**Total: 668 reactivos.**
+**Total: 709 reactivos.**
 
 - **Geografía cerrada**, todo el alcance del temario.
 - **Español cerrado**, 109 reactivos entre los dos bloques.
-- **Historia**: Guerra Fría y organizaciones internacionales completas. El
-  apartado de acontecimientos de nuestros días va hasta la pág. 264: ya cerraron
-  el Golfo Pérsico, el fin del bloque socialista europeo, América Central, las
-  Antillas y la mayor parte de Sudamérica. Faltan 3 páginas de ese apartado y
-  todo "La llegada del siglo XXI".
+- **Historia**: tres de los cuatro apartados del temario están **completos** —la
+  Guerra Fría, las organizaciones internacionales y los acontecimientos de
+  nuestros días—. Falta sólo "La llegada del siglo XXI" (268–279).
 - **Álgebra**: apenas arrancada, es la que más falta.
 
 ### Alcance de Álgebra, decisión abierta
