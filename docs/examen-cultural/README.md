@@ -52,7 +52,7 @@ texto**: no se pueden leer por programa.
 | Libro | Edición verificada | ¿Sirve? |
 |---|---|---|
 | Geografía Moderna de México | 15ª, Trillas 2021 (reimp. 2023) | sí — coincide con el temario |
-| Historia | 3ª, Limusa 2016 | sí — misma edición, reimpresión distinta al temario |
+| Historia Universal | 3ª, Limusa 2016 | sí — misma edición, reimpresión distinta al temario |
 | Álgebra de Baldor | sin verificar | pendiente |
 | Taller de Redacción | sin verificar | pendiente |
 
@@ -111,11 +111,11 @@ y ve la diferencia, está explicada dentro del reactivo 15 de
 | Geografía cap. 3 | 43 | — |
 | Geografía cap. 4 | 27 | — |
 | Geografía cap. 5 | 42 | — |
-| Historia | 0 | todo el capítulo 6 |
+| Historia cap. 6 | 15 | pp. 209–220, 221–226, 238–267, 268–279 |
 | Álgebra | 0 | caps. I–VI |
 | Español | 0 | bloques 1 y 3 |
 
-**Total: 125 reactivos. Geografía queda cerrada**, cubriendo todo el alcance del
+**Total: 140 reactivos. Geografía queda cerrada**, cubriendo todo el alcance del
 temario. Las siguientes materias arrancan de cero, y de Álgebra y Español falta
 verificar la edición contra la página legal antes de usarlas.
 
