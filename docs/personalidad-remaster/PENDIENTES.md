@@ -22,8 +22,20 @@ aspirante que contestaba que sí a los gatillos no recibía absolutamente nada.
 en `intentos.service.spec.ts`. Devuelve `nivel` (`alerta_maxima` / `alerta` /
 `ninguna`), `senalesCrisis`, `combinacionEvaluable` y `hallazgosPorTema`.
 
-**Falta —** la card del panel. La severidad `alerta` no existe todavía en el
-front: hoy solo hay `atencion`, `revisar` y `fortaleza`. Es lo siguiente.
+**Hecho —** `components/resultados/AlertaCriticaCard.tsx`, montada arriba de
+todo en el panel. No es una `DiagnosticoCard`: aquélla califica y ofrece
+estudiar, ésta acompaña. Va en latón y no en el rojo de `destructive`, con los
+tres teléfonos antes que el texto.
+
+**Falta —** dos cosas, ninguna bloqueante:
+
+1. El anchor `#alertas-criticas` no existe en `4.6.1-manejo-emocional.md`. La
+   card linkea a la sección a secas. Cuando se escriba esa ampliación (Tanda 3:
+   marco Columbia SSRS, "cuándo pedir ayuda", desestigmatización), se le añade.
+2. **Nunca se probó de punta a punta.** La card se verificó aislada y el
+   backend con tests, pero el camino completo —examen real, respuesta que
+   dispara, panel que la pinta— no se ha recorrido nunca, porque el endpoint
+   pide sesión iniciada. Es la misma deuda que ya estaba anotada abajo.
 
 #### Los 88 críticos no son la misma cosa
 
@@ -165,12 +177,21 @@ una sesión iniciada.
 | 2 | Importador | hecha — 2,410 reactivos en la base |
 | 3 | Muestreo por unidades | hecha — 0 huérfanos, 85.7 pares por examen |
 | 4 | Escalas de validez L, K, F | hecha — con veredicto y bandera de idealización |
-| 5 | Clusters, cruces cross-tema, banderas | pendiente — la más grande; ya desbloqueada, crossRef normalizado |
-| 6 | Panel de resultados | **siguiente** — la card de crisis se adelantó a la Fase 5 |
+| 5 | Clusters, cruces cross-tema, banderas | **siguiente** — la más grande; ya desbloqueada, crossRef normalizado |
+| 6 | Panel de resultados | parcial — la card de crisis ya está; las escalas L/K/F siguen sin mostrarse |
 
-La Fase 6 se adelantó a propósito: el backend ya detecta señales críticas pero
-el panel no las muestra, así que el aspirante sigue sin ver nada. Mientras esa
-card no exista, el hueco ético sigue abierto.
+De la Fase 6 se adelantó solo la card de crisis, porque el backend ya detectaba
+señales que el aspirante no veía. El resto del panel sigue pendiente: las
+escalas de validez se devuelven desde la Fase 4 y el front ni siquiera las
+tipa.
+
+### Deuda latente de modo oscuro
+
+`globals.css` define el bloque `.dark`, pero **nada en la app pone esa clase**:
+no hay toggle ni provider, así que hoy es solo modo claro. Al forzarla a mano,
+`bg-card` se queda en blanco y el texto crema encima resulta ilegible. Afecta a
+las 10 pantallas que usan `bg-card`, no a una sola. Cuando se meta el toggle,
+hay que revisar cómo resuelve `--color-card` en Tailwind 4.
 
 ### Limitación conocida de la escala F
 
