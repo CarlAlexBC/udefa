@@ -250,6 +250,14 @@ export class IntentosService {
           intento.examen.tipo,
         );
 
+    // Escalas de validez L/K/F. Van aparte del análisis de consistencia porque
+    // no dicen nada sobre los rasgos del aspirante: dicen si se le puede creer
+    // lo que contestó en todo lo demás. Devuelve null si el examen no trajo
+    // reactivos-trampa.
+    const escalasValidez = calificable
+      ? null
+      : this.calcularEscalasValidez(respuestasConDelta, intento.examen.tipo);
+
     return {
       intentoId: intento.id,
       examen: {
@@ -266,6 +274,7 @@ export class IntentosService {
       porTema,
       metricasTemporales,
       analisisConsistencia,
+      escalasValidez,
     };
   }
 
@@ -426,7 +435,14 @@ export class IntentosService {
       if (respondioSi) totalSi++;
       if (respondioNo) totalNo++;
 
-      if (r.reactivo.polaridad && (respondioSi || respondioNo)) {
+      // Las trampas (polaridad TRAMPA) NO entran aquí: no tienen dirección
+      // socialmente deseable en el sentido de este índice y, si se contaran,
+      // inflarían el denominador sin poder sumar nunca al numerador. Se miden
+      // aparte en calcularEscalasValidez.
+      const esPolarizado =
+        r.reactivo.polaridad === 'POSITIVA' ||
+        r.reactivo.polaridad === 'NEGATIVA';
+      if (esPolarizado && (respondioSi || respondioNo)) {
         totalConPolaridad++;
         if (r.reactivo.polaridad === 'POSITIVA' && respondioSi) idealizados++;
         if (r.reactivo.polaridad === 'NEGATIVA' && respondioNo) idealizados++;
@@ -453,6 +469,120 @@ export class IntentosService {
       tieneSesgoAquiescencia: porcentajeSi > UMBRAL_SESGO,
       tieneSesgoNegativismo: porcentajeNo > UMBRAL_SESGO,
       perfilIdealizado: indiceDeseabilidad > UMBRAL_IDEALIZACION,
+    };
+  }
+
+  /**
+   * Escalas de validez L, K y F — solo personalidad, solo banco remaster.
+   *
+   * Los 297 reactivos-trampa del banco no miden ningún rasgo: miden si se le
+   * puede creer al aspirante. Cada uno afirma algo que una persona honesta no
+   * puede sostener, así que responder "Sí" es el dato.
+   *
+   * - **L (Lie)** — afirmaciones absolutas sobre la propia conducta:
+   *   *"Nunca he dicho una mentira en toda mi vida."* Un Sí no es virtud, es
+   *   una afirmación que nadie puede sostener. L alto = intento ingenuo de
+   *   verse impecable.
+   *
+   * - **K (Defensiveness)** — idealizaciones sobre cómo *deberían* ser las
+   *   cosas: *"Una persona con valores firmes no debería enfrentar dilemas."*
+   *   Es más sofisticada que L porque no habla de uno mismo sino de un
+   *   estándar. K alto = el aspirante contesta desde un ideal, no desde su
+   *   experiencia, y va a negar cualquier déficit del resto del examen.
+   *
+   * - **F (Infrequency)** — capacidades imposibles: *"Puedo darme cuenta
+   *   siempre de cuándo alguien me está mintiendo."* F alto tiene dos lecturas
+   *   opuestas: o contestó sin leer, o se atribuye capacidades que no existen.
+   *   Se desempata con las métricas temporales.
+   *
+   * El denominador es cuántas trampas de ese tipo **aparecieron en este
+   * examen**, no cuántas hay en el banco: el muestreo no las incluye todas.
+   *
+   * Devuelve null si el examen no trajo trampas (banco v1 o examen de otro
+   * tipo), para que el panel sepa que no hay escalas que mostrar en vez de
+   * mostrar ceros engañosos.
+   */
+  private calcularEscalasValidez(
+    respuestas: Array<{
+      respuestaSeleccionada: string;
+      reactivo: {
+        polaridad: string | null;
+        tipoTrampa: string | null;
+      };
+    }>,
+    tipoExamen: string,
+  ) {
+    if (tipoExamen !== 'personalidad') return null;
+
+    const conteo: Record<string, { presentadas: number; afirmadas: number }> = {
+      L: { presentadas: 0, afirmadas: 0 },
+      K: { presentadas: 0, afirmadas: 0 },
+      F: { presentadas: 0, afirmadas: 0 },
+    };
+
+    for (const r of respuestas) {
+      const tipo = r.reactivo.tipoTrampa;
+      if (r.reactivo.polaridad !== 'TRAMPA' || !tipo || !conteo[tipo]) continue;
+
+      const resp = r.respuestaSeleccionada.toLowerCase().trim();
+      const respondioSi = resp === 'sí' || resp === 'si';
+      const respondioNo = resp === 'no';
+      if (!respondioSi && !respondioNo) continue;
+
+      conteo[tipo].presentadas++;
+      if (respondioSi) conteo[tipo].afirmadas++;
+    }
+
+    const totalPresentadas =
+      conteo.L.presentadas + conteo.K.presentadas + conteo.F.presentadas;
+    if (totalPresentadas === 0) return null;
+
+    // Umbrales. L y K toleran más que F porque en un examen largo es normal
+    // caer en alguna afirmación absoluta; en cambio atribuirse capacidades
+    // imposibles no tiene lectura benigna.
+    const BANDAS: Record<string, { elevada: number; alta: number }> = {
+      L: { elevada: 20, alta: 40 },
+      K: { elevada: 25, alta: 50 },
+      F: { elevada: 15, alta: 30 },
+    };
+
+    const escala = (tipo: string) => {
+      const { presentadas, afirmadas } = conteo[tipo];
+      const porcentaje =
+        presentadas > 0 ? Math.round((afirmadas / presentadas) * 100) : null;
+      const banda =
+        porcentaje === null
+          ? 'sin_datos'
+          : porcentaje > BANDAS[tipo].alta
+            ? 'alta'
+            : porcentaje > BANDAS[tipo].elevada
+              ? 'elevada'
+              : 'normal';
+      return { presentadas, afirmadas, porcentaje, banda };
+    };
+
+    const L = escala('L');
+    const K = escala('K');
+    const F = escala('F');
+
+    // Veredicto global. "Cuestionable" no significa que el aspirante mienta:
+    // significa que el resto del examen no se puede leer al pie de la letra,
+    // porque las respuestas están sesgadas hacia una imagen.
+    const altas = [L, K, F].filter((e) => e.banda === 'alta').length;
+    const elevadas = [L, K, F].filter((e) => e.banda === 'elevada').length;
+    const veredicto =
+      altas >= 2 ? 'cuestionable' : altas === 1 || elevadas >= 2 ? 'con_reservas' : 'valido';
+
+    return {
+      L,
+      K,
+      F,
+      totalTrampasPresentadas: totalPresentadas,
+      veredicto,
+      // Bandera separada: K alto con L normal es el perfil que más se escapa,
+      // porque el aspirante no se declara perfecto — declara un estándar
+      // perfecto, y eso suena maduro.
+      idealizacionSofisticada: K.banda === 'alta' && L.banda === 'normal',
     };
   }
 
