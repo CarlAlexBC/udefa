@@ -7,6 +7,7 @@ import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
 import { HeaderPrivado } from '../HeaderPrivado'
 import {
+  BarChart3,
   Building2,
   Flame,
   LayoutDashboard,
@@ -41,6 +42,7 @@ const NAV_ITEMS: Array<{
   icon: React.ComponentType<{ className?: string }>
 }> = [
   { href: '/inicio/admin', label: 'Dashboard', icon: LayoutDashboard },
+  { href: '/inicio/admin/analitica', label: 'Analítica', icon: BarChart3 },
   { href: '/inicio/admin/planteles', label: 'Planteles', icon: Building2 },
   { href: '/inicio/admin/reactivos', label: 'Reactivos', icon: ListChecks },
   { href: '/inicio/admin/usuarios', label: 'Usuarios', icon: Users },

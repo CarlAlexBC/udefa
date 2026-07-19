@@ -131,4 +131,148 @@ export class AdminService {
       recientes,
     };
   }
+
+  /**
+   * Analítica de errores del banco.
+   *
+   * Clave de diseño: filtramos por `esCorrecta not null`. Ese campo es un
+   * snapshot que solo se llena en exámenes calificables (psicométrico); en
+   * personalidad/axiológico queda null porque no hay acierto/error. Así que
+   * `esCorrecta not null` ⟺ respuesta de un examen calificable — sin
+   * necesidad de joinear a examen.calificable.
+   *
+   * Estrategia de eficiencia:
+   *   1. Dos groupBy por reactivoId (total + incorrectas) — agregación en la BD.
+   *   2. Un findMany de los reactivos referenciados (para nombre/tema/bloque).
+   *   3. Rollup en memoria a nivel bloque y tema sobre los conteos ya agregados
+   *      (no sobre las respuestas crudas — el set es chico).
+   */
+  async obtenerAnalitica() {
+    const TOP_N = 20;
+    // Umbral mínimo de respuestas para que un reactivo/tema sea "confiable".
+    // Un reactivo con 1 sola respuesta y 100% error no dice nada estadístico.
+    const MIN_RESPUESTAS = 1;
+
+    const [totalPorReactivo, incorrectasPorReactivo] = await Promise.all([
+      this.prisma.respuestaReactivo.groupBy({
+        by: ['reactivoId'],
+        where: { esCorrecta: { not: null } },
+        _count: { _all: true },
+      }),
+      this.prisma.respuestaReactivo.groupBy({
+        by: ['reactivoId'],
+        where: { esCorrecta: false },
+        _count: { _all: true },
+      }),
+    ]);
+
+    // Mapa reactivoId → incorrectas para cruzar rápido.
+    const incorrectasMap = new Map(
+      incorrectasPorReactivo.map((r) => [r.reactivoId, r._count._all]),
+    );
+
+    // Estadística por reactivo (total, incorrectas, tasa).
+    const statsPorReactivo = totalPorReactivo.map((r) => {
+      const total = r._count._all;
+      const incorrectas = incorrectasMap.get(r.reactivoId) ?? 0;
+      return {
+        reactivoId: r.reactivoId,
+        total,
+        incorrectas,
+        tasaError: total > 0 ? incorrectas / total : 0,
+      };
+    });
+
+    // Traemos metadata (enunciado, tema, bloque) de los reactivos respondidos.
+    const reactivoIds = statsPorReactivo.map((s) => s.reactivoId);
+    const reactivos = await this.prisma.reactivo.findMany({
+      where: { id: { in: reactivoIds } },
+      select: {
+        id: true,
+        enunciado: true,
+        tema: true,
+        bloque: { select: { id: true, nombre: true } },
+      },
+    });
+    const metaPorReactivo = new Map(reactivos.map((r) => [r.id, r]));
+
+    // Reactivos más fallados (con metadata), ordenados por tasa de error desc.
+    const reactivosMasFallados = statsPorReactivo
+      .filter((s) => s.total >= MIN_RESPUESTAS)
+      .map((s) => {
+        const meta = metaPorReactivo.get(s.reactivoId);
+        return {
+          reactivoId: s.reactivoId,
+          enunciado: meta?.enunciado ?? '(reactivo eliminado)',
+          tema: meta?.tema ?? null,
+          bloqueNombre: meta?.bloque?.nombre ?? null,
+          total: s.total,
+          incorrectas: s.incorrectas,
+          tasaError: Number((s.tasaError * 100).toFixed(1)),
+        };
+      })
+      .sort((a, b) => b.tasaError - a.tasaError || b.total - a.total)
+      .slice(0, TOP_N);
+
+    // Rollup a bloque y tema sumando los conteos ya agregados por reactivo.
+    const bloqueAcc = new Map<
+      number,
+      { nombre: string; total: number; incorrectas: number }
+    >();
+    const temaAcc = new Map<string, { total: number; incorrectas: number }>();
+
+    for (const s of statsPorReactivo) {
+      const meta = metaPorReactivo.get(s.reactivoId);
+      if (!meta) continue;
+
+      if (meta.bloque) {
+        const prev = bloqueAcc.get(meta.bloque.id) ?? {
+          nombre: meta.bloque.nombre,
+          total: 0,
+          incorrectas: 0,
+        };
+        prev.total += s.total;
+        prev.incorrectas += s.incorrectas;
+        bloqueAcc.set(meta.bloque.id, prev);
+      }
+
+      if (meta.tema) {
+        const prev = temaAcc.get(meta.tema) ?? { total: 0, incorrectas: 0 };
+        prev.total += s.total;
+        prev.incorrectas += s.incorrectas;
+        temaAcc.set(meta.tema, prev);
+      }
+    }
+
+    const erroresPorBloque = Array.from(bloqueAcc.entries())
+      .map(([bloqueId, v]) => ({
+        bloqueId,
+        nombre: v.nombre,
+        total: v.total,
+        incorrectas: v.incorrectas,
+        tasaError: v.total > 0 ? Number(((v.incorrectas / v.total) * 100).toFixed(1)) : 0,
+      }))
+      .sort((a, b) => b.tasaError - a.tasaError);
+
+    const erroresPorTema = Array.from(temaAcc.entries())
+      .map(([tema, v]) => ({
+        tema,
+        total: v.total,
+        incorrectas: v.incorrectas,
+        tasaError: v.total > 0 ? Number(((v.incorrectas / v.total) * 100).toFixed(1)) : 0,
+      }))
+      .sort((a, b) => b.tasaError - a.tasaError);
+
+    const totalRespuestasCalificadas = statsPorReactivo.reduce(
+      (acc, s) => acc + s.total,
+      0,
+    );
+
+    return {
+      totalRespuestasCalificadas,
+      reactivosMasFallados,
+      erroresPorBloque,
+      erroresPorTema,
+    };
+  }
 }

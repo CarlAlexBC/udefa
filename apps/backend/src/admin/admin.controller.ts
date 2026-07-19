@@ -18,4 +18,9 @@ export class AdminController {
   obtenerStats() {
     return this.adminService.obtenerStats();
   }
+
+  @Get('analitica')
+  obtenerAnalitica() {
+    return this.adminService.obtenerAnalitica();
+  }
 }
