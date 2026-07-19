@@ -102,11 +102,11 @@ export default function RegistroPage() {
     <main className="flex min-h-screen flex-col items-center justify-center bg-background px-6 py-12">
       <Link href="/" className="mb-8 flex items-center gap-3 opacity-90 transition-opacity hover:opacity-100">
         <Image
-          src="/logo.png"
+          src="/monote-logo.jpeg"
           alt="El Monote te Guía"
           width={48}
           height={48}
-          className="rounded-lg"
+          className="rounded-full ring-1 ring-accent/30"
         />
         <span className="text-sm font-semibold text-foreground">El Monote te Guía</span>
       </Link>

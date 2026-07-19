@@ -61,11 +61,11 @@ function LoginForm() {
       {/* Logo + nombre de marca — arriba del card */}
       <Link href="/" className="mb-8 flex items-center gap-3 opacity-90 transition-opacity hover:opacity-100">
         <Image
-          src="/logo.png"
+          src="/monote-logo.jpeg"
           alt="El Monote te Guía"
           width={48}
           height={48}
-          className="rounded-lg"
+          className="rounded-full ring-1 ring-accent/30"
         />
         <span className="text-sm font-semibold text-foreground">El Monote te Guía</span>
       </Link>

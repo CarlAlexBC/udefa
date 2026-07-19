@@ -4,9 +4,8 @@ import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import {
   ArrowRight,
+  BookOpen,
   Brain,
-  Clock,
-  GraduationCap,
   Scale,
   Shield,
   Sparkles,
@@ -14,8 +13,8 @@ import {
   UserCircle,
   Users,
 } from "lucide-react";
-import { logoDePlantel } from "@/lib/planteles";
 import { CarruselMuestra } from "@/components/landing/CarruselMuestra";
+import { CarruselPlanteles } from "@/components/landing/CarruselPlanteles";
 
 export default function Home() {
   return (
@@ -33,7 +32,7 @@ export default function Home() {
             <Link href="/" className="flex items-center gap-3">
               <div className="flex h-10 w-10 items-center justify-center overflow-hidden rounded-full border border-border/40 bg-card/10">
                 <Image
-                  src="/logo.png"
+                  src="/monote-logo.jpeg"
                   alt="El Monote te Guía"
                   width={40}
                   height={40}
@@ -112,7 +111,7 @@ export default function Home() {
                 <div className="pointer-events-none absolute inset-0 -m-4 rounded-full bg-accent/10 blur-2xl" />
                 <div className="relative flex h-72 w-72 items-center justify-center overflow-hidden rounded-full border-4 border-accent/30 bg-card/10 shadow-2xl md:h-80 md:w-80">
                   <Image
-                    src="/logo.png"
+                    src="/monote-logo.jpeg"
                     alt="El Monote te Guía"
                     width={320}
                     height={320}
@@ -140,13 +139,13 @@ export default function Home() {
               Cómo funciona el sistema
               <span className="h-px w-5 bg-accent" />
             </div>
-            <h2 className="text-3xl font-semibold tracking-tight text-foreground">Tres fases. Un solo perfil.</h2>
+            <h2 className="text-3xl font-semibold tracking-tight text-foreground">Cuatro fases. Un solo perfil.</h2>
             <p className="mx-auto mt-2 max-w-lg text-sm text-muted-foreground">
-              El sistema no te evalúa por partes. Combina las tres fases para construir un solo perfil psicológico coherente.
+              El sistema no te evalúa por partes. Combina las cuatro fases para construir un solo perfil coherente del aspirante.
             </p>
           </div>
 
-          <div className="grid grid-cols-1 gap-4 md:grid-cols-3">
+          <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
             <FaseCard
               numero="01"
               titulo="Psicométrico"
@@ -170,6 +169,15 @@ export default function Home() {
               reactivos="155 reactivos"
               duracion="10 min"
               icono={<Scale className="h-5 w-5 text-accent" />}
+            />
+            <FaseCard
+              numero="04"
+              titulo="Cultural"
+              descripcion="Conocimientos generales de nivel bachillerato — 100 preguntas según la Convocatoria UDEFA 2026."
+              reactivos="100 preguntas"
+              duracion="120 min"
+              icono={<BookOpen className="h-5 w-5 text-accent" />}
+              proximamente
             />
           </div>
         </div>
@@ -220,44 +228,11 @@ export default function Home() {
               Elige tu ruta militar.
             </h2>
             <p className="mx-auto mt-2 max-w-lg text-sm text-muted-foreground">
-              Tres planteles del Sistema Educativo Militar. El examen psicológico es el mismo para los tres — tu plantel define la carrera.
+              Los planteles del Sistema Educativo Militar. El examen psicológico es el mismo para todos — tu plantel define la carrera.
             </p>
           </div>
 
-          <div className="grid grid-cols-1 gap-4 md:grid-cols-3">
-            <PlantelCardMarketing
-              nombre="Heroico Colegio Militar"
-              lema="Por el Honor de México"
-              duracion="4 años"
-              edad="18–20 años"
-              grado="Subteniente"
-              estudios={[
-                "Lic. Administración Militar",
-                "Lic. Seguridad Pública (GN)",
-              ]}
-            />
-            <PlantelCardMarketing
-              nombre="Escuela Militar de Medicina"
-              lema="La salud como meta, el honor como guía"
-              duracion="6 años"
-              edad="18–22 años"
-              grado="Médico Cirujano Militar"
-              estudios={["Lic. como Médico Cirujano Militar"]}
-            />
-            <PlantelCardMarketing
-              nombre="Escuela Militar de Ingeniería"
-              lema="Crisol de la ciencia y el honor"
-              duracion="6 años"
-              edad="18–22 años"
-              grado="Ingeniero Militar"
-              estudios={[
-                "Ing. Constructor",
-                "Ing. Industrial",
-                "Ing. Computación",
-                "Ing. Comunicaciones",
-              ]}
-            />
-          </div>
+          <CarruselPlanteles />
         </div>
       </section>
 
@@ -380,6 +355,7 @@ function FaseCard({
   reactivos,
   duracion,
   icono,
+  proximamente = false,
 }: {
   numero: string;
   titulo: string;
@@ -387,14 +363,26 @@ function FaseCard({
   reactivos: string;
   duracion: string;
   icono: React.ReactNode;
+  /** Fase en desarrollo — se muestra atenuada con badge "Próximamente". */
+  proximamente?: boolean;
 }) {
   return (
-    <div className="rounded-xl border border-border bg-card p-5 border-t-[3px] border-t-military">
+    <div
+      className={cn(
+        "rounded-xl border border-border bg-card p-5 border-t-[3px]",
+        proximamente ? "border-t-muted-foreground/40 opacity-70" : "border-t-military",
+      )}
+    >
       <div className="mb-3 flex items-center gap-2">
         <div className="flex h-9 w-9 items-center justify-center rounded-lg border border-border bg-muted">
           {icono}
         </div>
         <span className="text-[10px] font-bold uppercase tracking-widest text-military">Fase {numero}</span>
+        {proximamente && (
+          <span className="ml-auto rounded-full border border-accent/40 bg-accent/10 px-2 py-0.5 text-[9px] font-bold uppercase tracking-widest text-accent">
+            Próximamente
+          </span>
+        )}
       </div>
       <p className="text-lg font-semibold text-foreground">{titulo}</p>
       <p className="mt-1 mb-4 text-sm leading-relaxed text-muted-foreground">{descripcion}</p>
@@ -402,95 +390,6 @@ function FaseCard({
         <span className="text-xs text-muted-foreground">{reactivos}</span>
         <span className="text-xs font-semibold text-foreground">{duracion}</span>
       </div>
-    </div>
-  );
-}
-
-/* ═══════════════════════════════════════════════════════════
-   Sub-componente PlantelCardMarketing — card informativa de
-   un plantel para la landing pública.
-   ═══════════════════════════════════════════════════════════ */
-function PlantelCardMarketing({
-  nombre,
-  lema,
-  duracion,
-  edad,
-  grado,
-  estudios,
-}: {
-  nombre: string;
-  lema: string;
-  duracion: string;
-  edad: string;
-  grado: string;
-  estudios: string[];
-}) {
-  const logoSrc = logoDePlantel(nombre);
-  return (
-    <article className="flex flex-col rounded-xl border border-border/30 bg-card/10 p-5 backdrop-blur">
-      {/* Logo oficial del plantel (o fallback a icono si no existe) */}
-      {logoSrc ? (
-        <div className="mb-4 flex h-16 w-16 items-center justify-center overflow-hidden rounded-lg bg-white/95 p-1">
-          <Image
-            src={logoSrc}
-            alt={`Escudo de ${nombre}`}
-            width={56}
-            height={56}
-            className="object-contain"
-          />
-        </div>
-      ) : (
-        <div className="mb-4 flex h-10 w-10 items-center justify-center rounded-lg bg-military/20">
-          <GraduationCap className="h-5 w-5 text-accent" />
-        </div>
-      )}
-
-      <h3 className="text-lg font-semibold text-primary-foreground">{nombre}</h3>
-      <p className="mt-1 text-xs italic text-muted-foreground">&ldquo;{lema}&rdquo;</p>
-
-      <div className="my-4 grid grid-cols-2 gap-2 border-y border-border/20 py-3 text-xs">
-        <PlantelDato icon={<Clock className="h-3 w-3" />} label="Duración" value={duracion} />
-        <PlantelDato icon={<UserCircle className="h-3 w-3" />} label="Edad" value={edad} />
-        <PlantelDato icon={<Star className="h-3 w-3" />} label="Grado" value={grado} />
-      </div>
-
-      <div className="flex-1">
-        <p className="mb-2 text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
-          Estudios
-        </p>
-        <div className="flex flex-wrap gap-1">
-          {estudios.map((e) => (
-            <span
-              key={e}
-              className="rounded-md border border-border/30 bg-card/20 px-2 py-0.5 text-[10px] text-primary-foreground"
-            >
-              {e}
-            </span>
-          ))}
-        </div>
-      </div>
-    </article>
-  );
-}
-
-function PlantelDato({
-  icon,
-  label,
-  value,
-}: {
-  icon: React.ReactNode;
-  label: string;
-  value: string;
-}) {
-  return (
-    <div>
-      <p className="flex items-center gap-1 text-[10px] uppercase tracking-widest text-muted-foreground">
-        {icon}
-        {label}
-      </p>
-      <p className="mt-0.5 text-xs font-semibold text-primary-foreground">
-        {value}
-      </p>
     </div>
   );
 }

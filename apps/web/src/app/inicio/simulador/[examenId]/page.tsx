@@ -432,11 +432,11 @@ function PantallaInicial({
         className="mb-8 flex items-center gap-3 opacity-80 hover:opacity-100"
       >
         <Image
-          src="/logo.png"
+          src="/monote-logo.jpeg"
           alt="El Monote te Guía"
           width={40}
           height={40}
-          className="rounded-md"
+          className="rounded-full ring-1 ring-accent/30"
         />
         <span className="text-sm font-semibold text-foreground">
           El Monote te Guía
