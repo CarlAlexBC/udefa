@@ -87,14 +87,101 @@ function detectarTipoTrampa(subnota: string, marco: string): TipoTrampa | null {
   return null;
 }
 
-/** Extrae la referencia cruzada cruda, p. ej. "45 e17" o "44 e16 + 44 e20". */
+/**
+ * Extrae la referencia cruzada cruda, p. ej. "45 e17" o "44 e16 + 44 e20".
+ *
+ * `receptor cross` va PRIMERO a propósito: los receptores traen los números
+ * exactos en la subnota, y en dos de ellos (e25#40 y e28#36) la columna marco
+ * dice solo "CROSS ↔ 3 emisoras". Si el patrón de marco gana, se pierden los
+ * números y queda un texto que no referencia nada.
+ */
 function detectarCrossRef(subnota: string, marco: string): string | null {
   const texto = subnota + ' | ' + marco;
   const m =
+    texto.match(/receptor\s+cross\s+([^·|]+)/i) ||
     texto.match(/CROSS\s*↔\s*([^|]+)/i) ||
-    texto.match(/cross\s+vs\s+([^|·]+)/i) ||
-    texto.match(/receptor\s+cross\s+([^·|]+)/i);
+    texto.match(/cross\s+vs\s+([^|·]+)/i);
   return m ? limpio(m[1]).replace(/\s+/g, ' ').trim() : null;
+}
+
+/**
+ * Nombres de tema que aparecen como destino de una trampa-cross y que ningún
+ * receptor resuelve. Solo van aquí los que no admiten discusión: el resto se
+ * queda en `pendiente:` esperando decisión de Carlo.
+ */
+const EJE_POR_NOMBRE: Record<string, number> = {
+  'vínculos': 15,
+  'adaptabilidad': 22,
+  'adicciones': 6,
+  'respeto a autoridad': 21,
+};
+
+/** Referencias tipo "45 e4", "75 sub 5 e9", "45/75 eje 3" → ["3:45", "3:75"]. */
+function extraerRefs(texto: string): string[] {
+  const out: string[] = [];
+  const re = /(\d{1,3})(?:\/(\d{1,3}))?\s*(?:sub\s*\d+\s*)?e(?:je)?\s*(\d{1,2})/gi;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(texto))) {
+    out.push(`${m[3]}:${m[1]}`);
+    if (m[2]) out.push(`${m[3]}:${m[2]}`);
+  }
+  return [...new Set(out)];
+}
+
+/**
+ * Deja `crossRef` en un formato único con la dirección explícita:
+ *
+ *   recibe:1:57,4:45   → este reactivo recibe de esas emisoras
+ *   emite:15:75        → esta trampa apunta a ese reactivo
+ *   emite:15           → apunta al eje 15, sin reactivo concreto
+ *   pendiente:<texto>  → sin resolver, se conserva el original
+ *
+ * La dirección no se puede inferir de la polaridad: e5#40 y e5#43 son emisoras
+ * y son NEG, no TRAM.
+ *
+ * El grueso del trabajo lo hace el paso 1: los receptores ya nombran a sus
+ * emisoras con número y eje, así que invertir esos enlaces resuelve a la
+ * mayoría sin necesidad de una tabla de nombres.
+ */
+function normalizarCrossRefs(filas: Fila[]): string[] {
+  const clave = (f: Fila) => `${f.eje}:${f.numeroEnEje}`;
+  const esReceptor = (f: Fila) => /receptor\s+cross/i.test(f.subnota + ' ' + f.marco);
+
+  const reclamadoPor = new Map<string, string[]>();
+  for (const f of filas) {
+    if (!f.crossRef || !esReceptor(f)) continue;
+    for (const ref of extraerRefs(f.subnota + ' ' + f.marco)) {
+      if (!reclamadoPor.has(ref)) reclamadoPor.set(ref, []);
+      reclamadoPor.get(ref)!.push(clave(f));
+    }
+  }
+
+  const sinResolver: string[] = [];
+  for (const f of filas) {
+    if (!f.crossRef) continue;
+
+    if (esReceptor(f)) {
+      f.crossRef = 'recibe:' + extraerRefs(f.subnota + ' ' + f.marco).join(',');
+      continue;
+    }
+
+    const reclaman = reclamadoPor.get(clave(f));
+    if (reclaman) {
+      f.crossRef = 'emite:' + reclaman.join(',');
+      continue;
+    }
+
+    const eje = EJE_POR_NOMBRE[f.crossRef.toLowerCase().replace(/\s+/g, ' ').trim()];
+    if (eje) {
+      f.crossRef = 'emite:' + eje;
+      continue;
+    }
+
+    sinResolver.push(`e${f.eje}#${f.numeroEnEje} → ${f.crossRef}`);
+    f.crossRef = 'pendiente:' + f.crossRef;
+  }
+
+  return sinResolver;
 }
 
 function parsearArchivo(archivo: string): Fila[] {
@@ -215,6 +302,19 @@ function validar(filas: Fila[]) {
     else if (f.enunciado.split(/\s+/).length > 30) problemas.push(`eje ${f.eje} #${f.numeroEnEje}: enunciado de ${f.enunciado.split(/\s+/).length} palabras`);
   }
 
+  // 6. destinos cross que apuntan a un reactivo inexistente
+  const existe = new Set(filas.map((f) => `${f.eje}:${f.numeroEnEje}`));
+  for (const f of filas) {
+    if (!f.crossRef || f.crossRef.startsWith('pendiente:')) continue;
+    const lista = f.crossRef.slice(f.crossRef.indexOf(':') + 1);
+    for (const destino of lista.split(',')) {
+      if (!destino.includes(':')) continue; // "emite:15" apunta al eje, no a un reactivo
+      if (!existe.has(destino)) {
+        problemas.push(`eje ${f.eje} #${f.numeroEnEje}: cross apunta a ${destino} que no existe`);
+      }
+    }
+  }
+
   return { problemas, avisos };
 }
 
@@ -225,6 +325,8 @@ async function main() {
   const archivos = fs.readdirSync(DIR).filter((f) => /^\d{2}-.*\.md$/.test(f)).sort();
   const filas: Fila[] = [];
   for (const a of archivos) filas.push(...parsearArchivo(a));
+
+  const crossSinResolver = normalizarCrossRefs(filas);
 
   // ---- resumen por eje ----
   const porEje = new Map<number, Fila[]>();
@@ -270,6 +372,18 @@ async function main() {
     'L=' + tot((f) => f.tipoTrampa === TipoTrampa.L),
     'K=' + tot((f) => f.tipoTrampa === TipoTrampa.K),
     'F=' + tot((f) => f.tipoTrampa === TipoTrampa.F));
+
+  // ---- cruces cross-tema ----
+  const pref = (p: string) => tot((f) => !!f.crossRef && f.crossRef.startsWith(p));
+  console.log('');
+  console.log('cross-tema:',
+    'recibe=' + pref('recibe:'),
+    'emite=' + pref('emite:'),
+    'pendiente=' + pref('pendiente:'));
+  if (crossSinResolver.length > 0) {
+    console.log(`   ${crossSinResolver.length} sin resolver (quedan como pendiente:):`);
+    crossSinResolver.forEach((s) => console.log('   · ' + s));
+  }
 
   // ---- validaciones ----
   const { problemas, avisos } = validar(filas);

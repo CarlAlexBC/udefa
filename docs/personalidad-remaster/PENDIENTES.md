@@ -65,30 +65,56 @@ arreglarlo.
 
 ## Deuda técnica conocida
 
-### crossRef sin normalizar — bloquea la Fase 5
+### crossRef normalizado — resuelto el 18 de julio de 2026
 
-Los 126 valores de `crossRef` vienen en **tres notaciones distintas**, porque se
-escribieron en momentos distintos del trabajo:
+**Este apartado decía tres cosas equivocadas. Quedan corregidas abajo.**
 
-| Notación | Ejemplo | Cantidad |
+El diagnóstico anterior era que había tres notaciones escritas en momentos
+distintos. No era eso. La columna mezcla **dos direcciones**:
+
+- **56 receptores** — dicen `receptor cross 45 e4` en la subnota. Apuntan hacia
+  atrás, con número y eje exactos.
+- **70 emisores** — trampas que dicen `CROSS ↔ Confianza (T32)`. Apuntan hacia
+  adelante, por nombre de tema.
+
+Los nombres no hubo que mapearlos a mano: **58 de los 70 emisores ya estaban
+nombrados por su receptor**, así que invertir esos enlaces los resolvió solos.
+`Confianza (T32) → eje 20` y `Bloque 40 → eje 29` salieron por ahí, sin tabla.
+
+Formato único ya escrito en la base:
+
+| Valor | Significa |
+|---|---|
+| `recibe:17:75,21:75,24:44` | recibe de esas tres emisoras |
+| `emite:20:36` | apunta a ese reactivo |
+| `emite:15` | apunta al eje, sin reactivo concreto |
+| `pendiente:<texto>` | sin resolver, conserva el original |
+
+La dirección **no** se puede inferir de la polaridad: `e5#40` y `e5#43` son
+emisores y son NEG, no TRAM.
+
+Los tres errores que tenía este documento:
+
+1. **`3 emisoras` no era basura.** Son `e25#40` y `e28#36`, y son receptores: su
+   subnota traía `receptor cross 75 e17 + 75 e21 + 44 e24`. Era un bug del
+   importador — el patrón `CROSS ↔` corría antes que `receptor cross` y se
+   quedaba con el texto del marco. Corregido.
+2. **La de `motivación` no había que retirarla.** Es `e1#57`, y aunque declara el
+   eje 8 descartado, `e10#38` la reclama. Resuelve a `emite:10:38`.
+3. **Faltaban 4 renglones descriptivos** que usan "cross" como adjetivo y no son
+   referencias: `e9#11`, `e9#22`, `e10#89`, `e12#70`. El importador ya los ignora.
+
+**Quedan 8 en `pendiente:`, no 6:**
+
+| Reactivo | Destino declarado | Por qué sigue abierto |
 |---|---|---|
-| Numérica corta | `45 sub 3 e4` | 50 |
-| Numérica larga | `45/75 eje 3 + 30 eje 2` | 4 |
-| Por nombre de tema o número T | `Confianza (T32)`, `vínculos` | 72 |
+| `e5#75` | valores | ¿eje 28 o 29? |
+| `e6#45` | valores/responsabilidad | ¿28, 29 o 18? |
+| `e6#75` | igualdad/autocuidado | autocuidado es el 14; "igualdad" no tiene eje |
+| `e14#44` | Tolerancia al estrés / Resiliencia | son dos ejes, 23 y 24 — ¿ambos? |
+| `e12#75` `e13#75` `e14#75` `e16#75` | Autoconocimiento | depende de la decisión 3 |
 
-La tercera existe porque en los ejes 1-7 el eje destino todavía no se había
-escrito, así que se referenció por tema.
-
-**Casi todas son resolubles** con una tabla `T-número → eje` y `nombre de tema →
-eje`. Quedan sueltas seis:
-
-- 1 apunta a `motivación` → el eje 8, **descartado por Carlo**. Hay que retirarla.
-- 3 apuntan a `Autoconocimiento` → depende de la decisión 3 de arriba.
-- 2 dicen `3 emisoras` → no son referencias, es texto que la extracción capturó
-  mal al importar.
-
-Antes de la Fase 5 hay que normalizar todo a un formato único (`eje:número`) y
-resolver esas seis.
+La Fase 5 puede saltarlos sin romperse: van con prefijo `pendiente:`.
 
 ### Cuarta regla de muestreo, pendiente
 
