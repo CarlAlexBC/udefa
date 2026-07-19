@@ -33,9 +33,12 @@ otra numeración, el contenido sigue siendo el correcto.
 
 ## Cobertura actual
 
-Páginas 97, 98, 101 y 102: origen de las islas, superficie, catálogo del
-Cuadro 5.1, islas del Golfo de California, del Pacífico y del Golfo de México.
-**Pendiente:** páginas 99, 100, 103 y 104.
+**Capítulo completo.** Páginas 97–104: origen de las islas, superficie,
+catálogo del Cuadro 5.1, y las islas del Golfo de California, la costa del
+Pacífico, el Golfo de México, el Mar de las Antillas y los lagos.
+
+La página 99 es la fig. 5.1, un mapa de ubicación sin texto del que no salen
+reactivos de cita literal.
 
 ---
 
@@ -475,4 +478,253 @@ Todas ellas son de pequeñas dimensiones y ninguna merece mención especial, apa
 
 ---
 
-**Reactivos en este archivo:** 27
+## Sub-lote 7 · Islas al oeste de Baja California
+
+### 28
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué gran entrante cierra por el occidente la isla Cedros?
+
+- A. La bahía Sebastián Vizcaíno
+- B. La bahía Magdalena
+- C. La bahía de Almejas
+- D. La bahía de Salinas
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 100
+**Subtema:** islas · al oeste de Baja California
+
+Merece mención especial la isla Cedros, que cierra por el occidente la gran entrante conocida con el nombre de bahía Sebastián Vizcaíno, cuyo origen volcánico hace suponer sea rica en yacimientos minerales.
+
+### 29
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cómo se llama la base naval que se encuentra en la isla Santa Margarita, dentro de bahía Magdalena?
+
+- A. Puerto Cortés
+- B. Puerto Progreso
+- C. Puerto Chale
+- D. Puerto Almejas
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 100
+**Subtema:** islas · al oeste de Baja California
+
+En ella se encuentra la base naval llamada *Puerto Cortés*, dentro de bahía Magdalena.
+
+### 30
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué altitud alcanza el monte Santa Margarita, al sureste de la isla del mismo nombre?
+
+- A. 257 m
+- B. 430 m
+- C. 497 m
+- D. 556 m
+
+**Respuesta:** D
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 100
+**Subtema:** islas · al oeste de Baja California
+
+Al centro tiene una elevación de 257 m y al sureste el monte Santa Margarita, el cual alcanza 556 m de altitud. Además, en el suroeste aparecen las cumbres Las Dos Hermanas, elevaciones gemelas de 430 m y 497 m.
+
+---
+
+## Sub-lote 8 · Islas del Golfo de California (continuación)
+
+### 31
+
+De acuerdo con el libro de Geografía Moderna de México, ¿por qué se mencionan las islas Montague y Gore, a pesar de sus cortas dimensiones?
+
+- A. Por estar situadas en la desembocadura del río Colorado
+- B. Por ser las de mayor superficie del Golfo
+- C. Por su origen coralífero
+- D. Por sus yacimientos de sal
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 100
+**Subtema:** islas · Golfo de California
+
+Mencionaremos las islas Montague y Gore, a pesar de sus cortas dimensiones, pues en realidad son bancos de azolve, sólo por estar situadas en la desembocadura del río Colorado.
+
+### 32
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué se cristaliza por un proceso natural y espontáneo en el lago salado de la isla Del Carmen, en el Golfo de California?
+
+- A. El cloruro de sodio
+- B. El carbonato de calcio
+- C. El sulfato de magnesio
+- D. El anhídrido carbónico
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 100
+**Subtema:** islas · Golfo de California
+
+En el centro, cerca de la Bahía de Salinas, existe un lago salado sin comunicación aparente con el mar, en donde se cristaliza el cloruro de sodio por un proceso natural y espontáneo.
+
+### 33
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué área cubre la isla Espíritu Santo, de origen volcánico?
+
+- A. 112 km²
+- B. 153 km²
+- C. 151 km²
+- D. 489.9 km²
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 100
+**Subtema:** islas · Golfo de California
+
+Ésta es de origen volcánico y en ella sobresalen numerosos picos, algunos de los cuales alcanzan 600 m de altitud. Su área cubre 112 km².
+
+### 34
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué isla del Golfo de California pueden contemplar los viajeros que van en avión a la ciudad de La Paz?
+
+- A. La isla Cerralvo
+- B. La isla Espíritu Santo
+- C. La isla Ángel de la Guarda
+- D. La isla San Marcos
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 100
+**Subtema:** islas · Golfo de California
+
+La isla de Cerralvo es muy vistosa y pueden contemplarla los viajeros que van en avión a la ciudad de La Paz, porque pasan cerca de ella.
+
+---
+
+## Sub-lote 9 · Isla Del Carmen y Holbox
+
+### 35
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué superficie tiene la isla Del Carmen, que cierra la Laguna de Términos?
+
+- A. 151 km²
+- B. 153 km²
+- C. 112 km²
+- D. 34 km²
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 103
+**Subtema:** islas · Golfo de México
+
+Tiene forma alargada, con 37.5 km de largo y una anchura media de 3 km, con superficie de 151 km².
+
+> Ojo con la confusión: existe **otra isla Del Carmen** en el Golfo de
+> California, de 153 km² (Pág. 100). Los dos km² de diferencia son lo único que
+> las separa en la cifra.
+
+### 36
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué puerto se levanta en el sureste de la isla Del Carmen, sobre la boca principal de entrada a la Laguna de Términos?
+
+- A. Ciudad del Carmen
+- B. Puerto Progreso
+- C. Puerto Cortés
+- D. Chetumal
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 103
+**Subtema:** islas · Golfo de México
+
+En el sureste se levanta Ciudad del Carmen, importante puerto sobre la boca principal de entrada a la Laguna de Términos.
+
+### 37
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué significa en maya el nombre de la isla Holbox?
+
+- A. Cabeza de negro
+- B. Agua oscura
+- C. Tierra de garzas
+- D. Casa del viento
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 103
+**Subtema:** islas · Golfo de México
+
+Merece mencionarse la isla Holbox, en Quintana Roo, que en maya significa *Cabeza de negro* y que tiene una longitud de 34 km en dirección este-oeste.
+
+---
+
+## Sub-lote 10 · Islas del Mar de las Antillas
+
+### 38
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la isla más importante del Mar de las Antillas y qué distinción histórica tiene?
+
+- A. Isla Mujeres, por ser la primera tierra perteneciente a nuestro país que descubrieron los españoles
+- B. Cozumel, por ser la de mayor superficie del Caribe mexicano
+- C. Holbox, por ser la más extensa en dirección este-oeste
+- D. Isla Cancún, por su origen coralífero
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 103
+**Subtema:** islas · Mar de las Antillas
+
+Hay numerosas islas de origen coralífero, la más importante es Isla Mujeres, de 3.44 km² de superficie, que fue la primera tierra perteneciente a nuestro país que descubrieron los españoles.
+
+### 39
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué superficie tiene la isla de Cozumel?
+
+- A. 489.9 km²
+- B. 151 km²
+- C. 3.44 km²
+- D. 153 km²
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 103
+**Subtema:** islas · Mar de las Antillas
+
+Además, está Cozumel, con 489.9 km², formada por material de carso.
+
+---
+
+## Sub-lote 11 · Islas en lagos
+
+### 40
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué islas cabe citar en la Laguna de Chapala?
+
+- A. Chapala, Mezcala y Maltaraña
+- B. Janitzio, Pacanda y Yunuen
+- C. San Pedro Chasaco y Liceaga
+- D. Jarácuaro, Copujo y San Pedrito
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 104
+**Subtema:** islas · en lagos
+
+Principalmente por su interés turístico, cabe citar, en la Laguna de Chapala, las islas de Chapala, Mezcala y Maltaraña.
+
+### 41
+
+De acuerdo con el libro de Geografía Moderna de México, ¿en qué lago se localizan las islas de San Pedro Chasaco y Liceaga?
+
+- A. En el lago Yuriria
+- B. En el Lago de Pátzcuaro
+- C. En la Laguna de Chapala
+- D. En la Laguna de Términos
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 104
+**Subtema:** islas · en lagos
+
+En el lago Yuriria, las de San Pedro Chasaco y Liceaga.
+
+### 42
+
+De acuerdo con el libro de Geografía Moderna de México, ¿por qué son pequeñas las islas de los lagos mexicanos?
+
+- A. Por la corta dimensión de nuestros lagos
+- B. Porque son de origen coralífero
+- C. Porque se formaron por depósito aluvial
+- D. Porque la erosión las ha reducido
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 104
+**Subtema:** islas · en lagos
+
+Por la corta dimensión de nuestros lagos, las islas también son pequeñas.
+
+---
+
+**Reactivos en este archivo:** 42
