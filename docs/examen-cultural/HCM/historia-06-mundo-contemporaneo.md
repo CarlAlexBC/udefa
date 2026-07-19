@@ -39,10 +39,10 @@ no se calcularon.
 
 ## Cobertura actual
 
-Páginas 205, 206 y 208 de La Guerra Fría. La 207 es el mapa 18, sin texto del
-que salgan reactivos de cita literal.
+Páginas 205, 206, 208, 209 y 211 de La Guerra Fría. La 207 es el mapa 18 y la
+210 el mapa 19, sin texto del que salgan reactivos de cita literal.
 
-**Pendiente:** el resto del apartado (209–220) y los tres apartados restantes.
+**Pendiente:** el resto del apartado (212–220) y los tres apartados restantes.
 
 ---
 
@@ -283,4 +283,207 @@ Los problemas más críticos de la época se vivieron en la década de 1950; sin
 
 ---
 
-**Reactivos en este archivo:** 15
+## Sub-lote 4 · La división de Alemania
+
+### 16
+
+De acuerdo con el libro de Historia Universal, ¿en qué fecha se puso fin a la segunda conflagración con la capitulación de Alemania?
+
+- A. El 8 de mayo de 1945
+- B. El 8 de mayo de 1949
+- C. El 2 de septiembre de 1945
+- D. El 1 de septiembre de 1939
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 209
+**Subtema:** La Guerra Fría · división de Alemania
+
+Con la capitulación de Alemania, el 8 de mayo de 1945, se puso fin a la segunda conflagración y los países vencedores asumieron el poder mediante un Consejo de Control Aliado.
+
+### 17
+
+De acuerdo con el libro de Historia Universal, ¿en cuántas zonas de ocupación se estableció la división de Alemania en la Conferencia de Postdam?
+
+- A. En cuatro zonas
+- B. En dos zonas
+- C. En tres zonas
+- D. En cinco zonas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 209
+**Subtema:** La Guerra Fría · división de Alemania
+
+En la Conferencia de Postdam se estableció la división de Alemania en cuatro zonas de ocupación; la zona oriental quedó bajo el control de la Unión Soviética.
+
+### 18
+
+De acuerdo con el libro de Historia Universal, ¿bajo el control de qué país quedó la zona oriental de Alemania?
+
+- A. De la Unión Soviética
+- B. De Gran Bretaña
+- C. De Francia
+- D. De Estados Unidos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 209
+**Subtema:** La Guerra Fría · división de Alemania
+
+La zona oriental quedó bajo el control de la Unión Soviética, con una superficie 107 181 km² y 17 313 000 habitantes; la zona noroeste, cedida a la Gran Bretaña; la zona sudoeste, cedida a Francia, y la zona sudeste, entregada a Estados Unidos.
+
+### 19
+
+De acuerdo con el libro de Historia Universal, ¿por qué quedó dividida en cuatro sectores la ciudad de Berlín, localizada en el sector oriental?
+
+- A. Por el valor político que representaba
+- B. Por su extensión territorial
+- C. Por el número de sus habitantes
+- D. Por su importancia industrial
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 209
+**Subtema:** La Guerra Fría · división de Alemania
+
+Por el valor político que representaba, la ciudad de Berlín, localizada en el sector oriental, quedó también dividida en cuatro sectores.
+
+### 20
+
+De acuerdo con el libro de Historia Universal, ¿cómo se llamó la unión de las zonas angloestadunidense conformada en 1947 por iniciativa de Estados Unidos?
+
+- A. "Bizona"
+- B. "Trizona"
+- C. Consejo de Control Aliado
+- D. República Federal Alemana
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 209
+**Subtema:** La Guerra Fría · división de Alemania
+
+Las tensiones aumentaron cuando, en 1947, por iniciativa de Estados Unidos, se unieron las zonas angloestadunidense conformando la llamada "Bizona" y se creó un consejo económico para su administración.
+
+---
+
+## Sub-lote 5 · Las dos Alemanias
+
+### 21
+
+De acuerdo con el libro de Historia Universal, ¿con qué medida resolvieron los aliados el bloqueo soviético de las comunicaciones terrestres con Berlín occidental?
+
+- A. Estableciendo un "puente aéreo" entre junio de 1948 y octubre de 1949
+- B. Retirándose del Consejo Aliado
+- C. Aplicando una reforma monetaria
+- D. Construyendo el Muro de Berlín
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 211
+**Subtema:** La Guerra Fría · las dos Alemanias
+
+Decretó el bloqueo de las comunicaciones terrestres con Berlín occidental, situación que estuvo a punto de desencadenar la guerra entre los dos bloques, pero que los aliados resolvieron al establecer un "puente aéreo" entre junio de 1948 y octubre de 1949 para abastecer a la población berlinesa occidental.
+
+### 22
+
+De acuerdo con el libro de Historia Universal, ¿qué aprobó el Consejo Parlamentario en mayo de 1949 para crear la República Federal Alemana?
+
+- A. La Ley Básica
+- B. La Constitución de alto contenido social
+- C. La Conferencia de Postdam
+- D. El Acuerdo de la Bizona
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 211
+**Subtema:** La Guerra Fría · las dos Alemanias
+
+En mayo de 1949, el Consejo Parlamentario aprobó la Ley Básica que creaba a la República Federal Alemana, dirigida por un poder presidencial y otro ejecutivo encabezado por un canciller.
+
+### 23
+
+De acuerdo con el libro de Historia Universal, ¿cómo se llama la Cámara legislativa o Parlamento de la República Federal Alemana?
+
+- A. El Bundestag
+- B. El Consejo Parlamentario
+- C. El Consejo de Control Aliado
+- D. La Ley Básica
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 211
+**Subtema:** La Guerra Fría · las dos Alemanias
+
+Se establecía una Cámara legislativa o Parlamento, el *Bundestag*, y una Cámara formada por los Estados.
+
+### 24
+
+De acuerdo con el libro de Historia Universal, ¿cómo se conoce el resurgimiento económico de la República Federal Alemana?
+
+- A. "El milagro alemán"
+- B. "El plan quinquenal"
+- C. "La economía de mercado social"
+- D. "El milagro del Rin"
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 211
+**Subtema:** La Guerra Fría · las dos Alemanias
+
+Ello le permitió un resurgimiento, conocido como "el milagro alemán".
+
+### 25
+
+De acuerdo con el libro de Historia Universal, ¿con qué medidas superó la República Democrática Alemana sus dificultades económicas?
+
+- A. Con la colectivización de la agricultura, la socialización de la industria, los planes quinquenales y la ayuda soviética
+- B. Con la ayuda financiera del Plan Marshall
+- C. Con el establecimiento de una economía de mercado social
+- D. Con la reforma monetaria angloamericana
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 211
+**Subtema:** La Guerra Fría · las dos Alemanias
+
+Los problemas fueron superados con el establecimiento de la colectivización de la agricultura, la socialización de la industria, los planes quinquenales y la ayuda financiera y técnica de la Unión Soviética.
+
+### 26
+
+De acuerdo con el libro de Historia Universal, ¿en qué año ingresó la República Federal Alemana a la OTAN?
+
+- A. En 1954
+- B. En 1955
+- C. En 1949
+- D. En 1961
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 211
+**Subtema:** La Guerra Fría · las dos Alemanias
+
+Esta tirantez aumentó cuando la República Federal ingresó a la OTAN, en 1954, y la República Democrática, al Pacto de Varsovia, en 1955.
+
+### 27
+
+De acuerdo con el libro de Historia Universal, ¿en qué año mandó construir el sector oriental el Muro de Berlín?
+
+- A. En 1961
+- B. En 1955
+- C. En 1954
+- D. En 1949
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 211
+**Subtema:** La Guerra Fría · las dos Alemanias
+
+Sin embargo, la paz mundial se vio seriamente amenazada cuando el sector oriental mandó construir el Muro de Berlín, en 1961.
+
+### 28
+
+De acuerdo con el libro de Historia Universal, ¿cuál fue el enfrentamiento más álgido de la Guerra Fría?
+
+- A. La Guerra de Corea
+- B. La guerra de Vietnam
+- C. La Crisis del Medio Oriente
+- D. El bloqueo de Berlín
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 211
+**Subtema:** La Guerra Fría · Guerra de Corea
+
+El sudeste asiático representó una zona estratégica para los bloques hegemónicos, por lo que en esta región se escenificó el enfrentamiento más álgido de la Guerra Fría: la Guerra de Corea.
+
+---
+
+**Reactivos en este archivo:** 28
