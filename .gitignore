@@ -20,6 +20,11 @@ coverage/
 *.swp
 .DS_Store
 
+# Ajustes locales de Claude Code (permisos, preferencias de cada máquina).
+# .claude/launch.json sí se versiona: es la config del servidor de desarrollo
+# y le sirve a cualquiera que clone el repo.
+.claude/settings.local.json
+
 # Variables de entorno (nunca al repo)
 .env
 .env.*
