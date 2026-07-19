@@ -47,13 +47,14 @@ reactivos de cita literal.
 (páginas 221–226).
 
 **Apartado "Principales acontecimientos de nuestros días", en curso**
-(páginas 238–267). Cubiertas las páginas 238–247. Las páginas 242 y 245 son los
-mapas 25 y 26: sin texto del que salgan reactivos de cita literal.
+(páginas 238–267). Cubiertas las páginas 238–251. Las páginas 242 y 245 son los
+mapas 25 y 26: sin texto del que salgan reactivos de cita literal. La 249 es casi
+toda la figura 59 y sólo aporta el párrafo que cierra la oración de la 248.
 
-Dentro del apartado ya cerró el conflicto del Golfo Pérsico y arrancó "El fin
-del bloque socialista europeo", cuyos antecedentes van de la 246 en adelante.
+Dentro del apartado ya cerró el conflicto del Golfo Pérsico y va "El fin del
+bloque socialista europeo" hasta los aspectos de la *Perestroika*.
 
-**Pendiente:** acontecimientos de nuestros días de la 248 en adelante, y la
+**Pendiente:** acontecimientos de nuestros días de la 252 en adelante, y la
 llegada del siglo XXI (268–279).
 
 ## Erratas del libro
@@ -71,6 +72,7 @@ si el examen real la corrige.
 | Pág. 223 | *Koffi* Annan, *Uthant* | Kofi Annan, U Thant |
 | Pág. 244 | cumbre Bush-*Gorvachov* y, tres renglones después, *Gorbachov* | Gorbachov (así en la segunda mención) |
 | Pág. 245, leyenda del mapa 26 | *Ataquea* aéreos | Ataques aéreos |
+| Pág. 250, pie de la figura 60 | Mijail S. *Gorvachov* | Gorbachov (así en el cuerpo) |
 
 También hay una cifra que el propio libro da doble: la Carta la firmaron
 "50 países" (Pág. 221) pero la ONU "fue creada por 51 países" (Pág. 222). No es
@@ -88,6 +90,18 @@ páginas encontraría respuestas distintas al mismo dato y no hay criterio para
 elegir una: no es un cuerpo contra un pie de figura, son dos pasajes del cuerpo.
 El reactivo 118 sí usa la oración de la Pág. 239, pero pregunta a manos de quién
 pasó el dominio —los ingleses—, dato que no está en disputa.
+
+## Datos del libro que no concuerdan con el hecho histórico
+
+Categoría distinta de la errata: aquí el libro no se equivoca al escribir sino
+al afirmar. **No se escribió reactivo sobre ellos**, por el mismo criterio.
+
+| Dónde | Dice el libro | El hecho |
+|---|---|---|
+| Pág. 248 | "en 1963 con el primer vuelo tripulado al espacio" | El primer vuelo tripulado fue el de Gagarin, en **1961**; en 1963 voló Tereshkova, la primera mujer |
+
+El reactivo 224 sí usa esa oración, pero pregunta por el Sputnik y su año
+—1957—, que el libro da bien.
 
 Criterio acordado con Carlo: cuando el cuerpo del texto y un pie de figura
 discrepan, manda el cuerpo.
@@ -3398,4 +3412,586 @@ En Hungría y Polonia se propiciaron levantamientos que motivaron la intervenci�
 
 ---
 
-**Reactivos en este archivo:** 213
+## Sub-lote 23 · De Stalin a Brezhnev
+
+### 214
+
+De acuerdo con el libro de Historia Universal, ¿quiénes se disputaron el poder a la muerte de Stalin en 1953?
+
+- A. Malenkov, Molotov y Kruschev
+- B. Kruschev, Brezhnev y Andropov
+- C. Malenkov, Molotov y Trotski
+- D. Molotov, Brezhnev y Chernenco
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Sucesión de Stalin
+
+A la muerte de Stalin en 1953, se disputaron el poder Malenkov, ministro de Asuntos Exteriores, Molotov, jefe de la Policía Secreta, así como Kruschev, del Comité Central del Partido Comunista.
+
+### 215
+
+De acuerdo con el libro de Historia Universal, ¿qué cargo tenía Malenkov?
+
+- A. Ministro de Asuntos Exteriores
+- B. Jefe de la Policía Secreta
+- C. Miembro del Comité Central del Partido Comunista
+- D. Secretario General del Partido Comunista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Sucesión de Stalin
+
+Se disputaron el poder Malenkov, ministro de Asuntos Exteriores, Molotov, jefe de la Policía Secreta, así como Kruschev, del Comité Central del Partido Comunista.
+
+### 216
+
+De acuerdo con el libro de Historia Universal, ¿qué cargo tenía Molotov?
+
+- A. Jefe de la Policía Secreta
+- B. Ministro de Asuntos Exteriores
+- C. Miembro del Comité Central del Partido Comunista
+- D. Creador del Ejército Rojo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Sucesión de Stalin
+
+Se disputaron el poder Malenkov, ministro de Asuntos Exteriores, Molotov, jefe de la Policía Secreta, así como Kruschev, del Comité Central del Partido Comunista.
+
+### 217
+
+De acuerdo con el libro de Historia Universal, ¿en qué año asumió Kruschev el poder?
+
+- A. En 1958
+- B. En 1953
+- C. En 1964
+- D. En 1957
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Sucesión de Stalin
+
+Así como Kruschev, del Comité Central del Partido Comunista; este último asumió el poder en 1958.
+
+### 218
+
+De acuerdo con el libro de Historia Universal, ¿con qué inició Nikita Sergeieveich Kruschev su mandato?
+
+- A. Con una denuncia contra Stalin
+- B. Con la aplicación de la política de Coexistencia Pacífica
+- C. Con la construcción del "Muro de Berlín"
+- D. Con el lanzamiento del primer satélite artificial
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Kruschev
+
+Nikita Sergeieveich Kruschev (1894-1971) inició su mandato con una denuncia contra Stalin.
+
+### 219
+
+De acuerdo con el libro de Historia Universal, ¿cómo se conoció la política de Kruschev cuyo objetivo era desestalinizar, poco a poco, al partido comunista y a la sociedad rusa?
+
+- A. Del "deshielo" o del "nuevo curso"
+- B. De la Coexistencia Pacífica
+- C. De la *Perestroika*
+- D. Del "realismo socialista"
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Kruschev
+
+Inició su mandato con una denuncia contra Stalin, que en la práctica se convirtió en una política conocida como del "deshielo" o del "nuevo curso", cuyo objetivo era desestalinizar, poco a poco, al partido comunista y a la sociedad rusa.
+
+### 220
+
+De acuerdo con el libro de Historia Universal, ¿qué pretendió incrementar Nikita favoreciendo para ello al agro?
+
+- A. La producción de bienes de consumo
+- B. La producción de la industria pesada
+- C. El armamento nuclear
+- D. Las subvenciones a los países de la Europa del Este
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Kruschev
+
+Nikita pretendió incrementar la producción de bienes de consumo favoreciendo para ello al agro con mayores materiales, inversiones, incentivos, maquinaria y mejorando los precios de los productos agrícolas.
+
+### 221
+
+De acuerdo con el libro de Historia Universal, ¿en qué se manifestó también la autonomía impulsada por Kruschev?
+
+- A. En el respeto a las nacionalidades
+- B. En la libre expresión en todos los aspectos de la vida social
+- C. En el respeto a las garantías sociales
+- D. En la privatización de las empresas estatales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Kruschev
+
+Impulsó la descentralización económica y la autogestión, pretendiendo liberalizarla al igual que la vida intelectual y material. Esta autonomía se manifestó también en el respeto a las nacionalidades.
+
+### 222
+
+De acuerdo con el libro de Historia Universal, Kruschev inició el proceso de distensión internacional con la aplicación de la política de Coexistencia Pacífica, ¿pero sin renunciar a qué?
+
+- A. Al socialismo
+- B. A la carrera armamentista
+- C. Al control sobre los países de la Europa del Este
+- D. Al culto a la personalidad
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Kruschev
+
+Kruschev inició el proceso de distensión internacional con la aplicación de la política de Coexistencia Pacífica, pero sin renunciar al socialismo.
+
+### 223
+
+De acuerdo con el libro de Historia Universal, ¿qué ocasionó la llamada "Crisis del Caribe"?
+
+- A. Que la URSS pretendiera instalar misiles en Cuba, en 1962
+- B. Que la URSS influyera en la construcción del "Muro de Berlín", en 1961
+- C. El lanzamiento del primer satélite artificial, en 1957
+- D. La intervención soviética en Checoslovaquia, en 1968
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Kruschev
+
+La paz mundial se vio amenazada cuando la URSS influyó en la construcción del "Muro de Berlín", en 1961, y cuando pretendió instalar misiles en Cuba, en 1962, con lo que ocasionó la llamada "Crisis del Caribe".
+
+### 224
+
+De acuerdo con el libro de Historia Universal, ¿cuál fue el primer satélite artificial lanzado por la Unión Soviética y en qué año?
+
+- A. El Sputnik, en 1957
+- B. El Sputnik, en 1963
+- C. El Sputnik, en 1961
+- D. El Soyuz, en 1957
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Kruschev
+
+En su carrera armamentista, la Unión Soviética siguió con la modernización de sus fuerzas y logró grandes triunfos espaciales con el lanzamiento del primer satélite artificial, el Sputnik, en 1957.
+
+### 225
+
+De acuerdo con el libro de Historia Universal, ¿en qué año fue relevado Kruschev de sus cargos y por quién fue reemplazado?
+
+- A. En 1964, por Leonid Brezhnev
+- B. En 1958, por Leonid Brezhnev
+- C. En 1964, por Yuri Andropov
+- D. En 1982, por Leonid Brezhnev
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Brezhnev
+
+Ante el fracaso de la política agraria y por la crisis interna que se manifestaba, en 1964 Kruschev fue relevado de sus cargos, siendo reemplazado por Leonid Brezhnev (1910-1982).
+
+### 226
+
+De acuerdo con el libro de Historia Universal, ¿qué política instrumentó Brezhnev, que provocó serias restricciones a las libertades de la sociedad?
+
+- A. Una política neoestalinista
+- B. La política del "deshielo"
+- C. La *Perestroika*
+- D. La política de Coexistencia Pacífica
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Brezhnev
+
+Siendo reemplazado por Leonid Brezhnev (1910-1982), quien instrumentó una política neoestalinista, que provocó serias restricciones a las libertades de la sociedad.
+
+### 227
+
+De acuerdo con el libro de Historia Universal, en el terreno económico, ¿qué impulsó y qué descuidó Brezhnev?
+
+- A. Impulsó la industria pesada y descuidó la industria ligera y el campo
+- B. Impulsó la industria ligera y descuidó la industria pesada
+- C. Impulsó el campo y descuidó la industria pesada
+- D. Impulsó la producción de bienes de consumo y descuidó la industria pesada
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Brezhnev
+
+En el terreno económico, impulsó notablemente a la industria pesada, pero descuidó la industria ligera y el campo, lo que aunado al férreo control cupular del partido, acrecentó la corrupción, los abusos, la represión y la irresponsabilidad de la burocracia.
+
+### 228
+
+De acuerdo con el libro de Historia Universal, ¿qué permitía la "Doctrina Brezhnev"?
+
+- A. La intervención soviética en países socialistas donde el sistema comunista se viera amenazado
+- B. La descentralización económica y la autogestión
+- C. La libre expresión en todos los aspectos de la vida social
+- D. El establecimiento de otros tipos de propiedad
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Brezhnev
+
+En cuanto a su política exterior, mantuvo el control mediante la "Doctrina Brezhnev", que permitía la intervención soviética en países socialistas donde el sistema comunista se viera amenazado.
+
+### 229
+
+De acuerdo con el libro de Historia Universal, ¿qué conflicto se conoce como la "Primavera de Praga"?
+
+- A. La intervención soviética en Checoslovaquia, en agosto de 1968
+- B. Los levantamientos en Hungría y Polonia, en 1956
+- C. La construcción del "Muro de Berlín", en 1961
+- D. La "Crisis del Caribe", en 1962
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Brezhnev
+
+Tal fue el caso de la intervención soviética en Checoslovaquia, en agosto de 1968, conflicto conocido como la "Primavera de Praga".
+
+### 230
+
+De acuerdo con el libro de Historia Universal, ¿qué diferencias se agudizaron en la época de Brezhnev?
+
+- A. Las diferencias entre el socialismo ruso y el comunismo chino
+- B. Las diferencias entre los viejos líderes y los nuevos dirigentes
+- C. Las diferencias entre la Unión Soviética y Yugoslavia
+- D. Las diferencias entre el socialismo ruso y los países de la Europa del Este
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Brezhnev
+
+En la época de Brezhnev se agudizaron las diferencias entre el socialismo ruso y el comunismo chino.
+
+### 231
+
+De acuerdo con el libro de Historia Universal, ¿quién sucedió a Brezhnev a su muerte, en noviembre de 1982?
+
+- A. Yuri Andropov
+- B. Konstantin Chernenco
+- C. Mijail Gorbachov
+- D. Nikita Kruschev
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 248
+**Subtema:** Fin del bloque socialista europeo · Brezhnev
+
+A la muerte de Brezhnev, en noviembre de 1982, le sucedió Yuri Andropov, quien, junto con Konstantin Chernenco, secretario general del Partido de la Unión Soviética, gobernó poco tiempo.
+
+### 232
+
+De acuerdo con el libro de Historia Universal, ¿qué predominaba en la cúpula del Partido Comunista durante el breve gobierno de Andropov y Chernenco?
+
+- A. Los viejos líderes con ideas conservadoras
+- B. Los nuevos dirigentes que sostenían la necesidad de cambios
+- C. Los militares de la vieja guardia
+- D. Los burócratas de la administración
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 249
+**Subtema:** Fin del bloque socialista europeo · Brezhnev
+
+Gobernó poco tiempo, en medio de una problemática situación política, ya que en la cúpula del Partido Comunista predominaban los viejos líderes con ideas conservadoras; mientras que los nuevos dirigentes sostenían la necesidad de cambios.
+
+---
+
+## Sub-lote 24 · Gorbachov: se inician los cambios
+
+### 233
+
+De acuerdo con el libro de Historia Universal, ¿en qué año asumió Mijail Sergueievich Gorbachov el gobierno del Kremlin?
+
+- A. En 1985
+- B. En 1982
+- C. En 1971
+- D. En 1956
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 250
+**Subtema:** Fin del bloque socialista europeo · Gorbachov
+
+En 1985 asumió el gobierno del Kremlin, Mijail Sergueievich Gorbachov (1931), hombre de gran preparación, abogado y economista especializado y con experiencia en cuestiones agrícolas, pero, sobre todo, un líder con nuevas ideas de cambio para su país.
+
+### 234
+
+De acuerdo con el libro de Historia Universal, ¿qué preparación tenía Gorbachov?
+
+- A. Abogado y economista especializado, con experiencia en cuestiones agrícolas
+- B. Economista y militar de carrera
+- C. Abogado y diplomático de carrera
+- D. Ingeniero y economista especializado
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 250
+**Subtema:** Fin del bloque socialista europeo · Gorbachov
+
+Hombre de gran preparación, abogado y economista especializado y con experiencia en cuestiones agrícolas, pero, sobre todo, un líder con nuevas ideas de cambio para su país.
+
+### 235
+
+De acuerdo con el libro de Historia Universal, ¿dónde ocupó Gorbachov diferentes cargos administrativos y políticos del partido entre 1956 y 1970?
+
+- A. En su natal Stavropol
+- B. En Moscú
+- C. En el Kremlin
+- D. En Francia, Inglaterra y Canadá
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 250
+**Subtema:** Fin del bloque socialista europeo · Gorbachov
+
+Entre 1956 y 1970 ocupó diferentes cargos administrativos y políticos del partido, en su natal Stavropol.
+
+### 236
+
+De acuerdo con el libro de Historia Universal, ¿en qué año fue admitido Gorbachov en el Comité Central del Partido Comunista de la Unión Soviética?
+
+- A. En 1971
+- B. En 1970
+- C. En 1956
+- D. En 1985
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 250
+**Subtema:** Fin del bloque socialista europeo · Gorbachov
+
+En 1971 fue admitido en el Comité Central del Partido Comunista de la Unión Soviética (PCUS), posición que le permitió cumplir con diversas comisiones en el extranjero.
+
+### 237
+
+De acuerdo con el libro de Historia Universal, ¿en qué países destacó Gorbachov por su gran carisma y elocuencia?
+
+- A. En Francia, Inglaterra y Canadá
+- B. En Francia, Alemania y Canadá
+- C. En Inglaterra, Italia y Japón
+- D. En Francia, Inglaterra y Estados Unidos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 250
+**Subtema:** Fin del bloque socialista europeo · Gorbachov
+
+Posición que le permitió cumplir con diversas comisiones en el extranjero, destacando por su gran carisma y elocuencia las que desempeñó en Francia, Inglaterra y Canadá.
+
+### 238
+
+De acuerdo con el libro de Historia Universal, al llegar al poder, ¿de qué se percató Gorbachov respecto del gran capital destinado al constante incremento de las fuerzas armadas?
+
+- A. Que repercutía gravemente en el terreno económico
+- B. Que garantizaba la hegemonía soviética a nivel mundial
+- C. Que debía redirigirse al armamento nuclear
+- D. Que era insuficiente frente al cerco capitalista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 250
+**Subtema:** Fin del bloque socialista europeo · Gorbachov
+
+Notó que el gran capital destinado al constante incremento de las fuerzas armadas repercutía gravemente en el terreno económico, y que, por lo tanto, la URSS tenía dificultades para seguir proporcionando subvenciones o ayuda a los países de la Europa del Este.
+
+### 239
+
+De acuerdo con el libro de Historia Universal, ¿qué ramas de la industria tuvieron un desarrollo desproporcionado y unilateral?
+
+- A. La petroquímica y la metalúrgica
+- B. La ligera y la de bienes de consumo
+- C. La militar y la nuclear
+- D. La agrícola y la petroquímica
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 250
+**Subtema:** Fin del bloque socialista europeo · Gorbachov
+
+El desarrollo desproporcionado y unilateral de ciertas ramas de la industria, como la petroquímica y la metalúrgica, en contraposición con el menor interés demostrado hacia el campo y hacia la producción de bienes de consumo, eran algunos de los aspectos que dificultaban el óptimo desarrollo de la economía rusa.
+
+### 240
+
+De acuerdo con el libro de Historia Universal, ¿mediante qué dos programas trató Gorbachov de cambiar a la sociedad rusa?
+
+- A. La *Perestroika* y la *Glasnost*
+- B. El "deshielo" y el "nuevo curso"
+- C. La *Perestroika* y la Coexistencia Pacífica
+- D. La *Glasnost* y la "Doctrina Brezhnev"
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 250
+**Subtema:** Fin del bloque socialista europeo · Gorbachov
+
+Gorbachov trató de cambiar a la sociedad rusa a través de grandes transformaciones económicas, políticas y sociales mediante dos programas: la *Perestroika* (reestructuración o renovación), y la *Glasnost* (transparencia en toda la vida social).
+
+### 241
+
+De acuerdo con el libro de Historia Universal, ¿qué significa *Perestroika*?
+
+- A. Reestructuración o renovación
+- B. Transparencia en toda la vida social
+- C. Deshielo o nuevo curso
+- D. Democratización de la sociedad
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 250
+**Subtema:** Fin del bloque socialista europeo · Gorbachov
+
+Mediante dos programas: la *Perestroika* (reestructuración o renovación), y la *Glasnost* (transparencia en toda la vida social).
+
+### 242
+
+De acuerdo con el libro de Historia Universal, ¿qué significa *Glasnost*?
+
+- A. Transparencia en toda la vida social
+- B. Reestructuración o renovación
+- C. Justicia social
+- D. Libre mercado
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 250
+**Subtema:** Fin del bloque socialista europeo · Gorbachov
+
+Mediante dos programas: la *Perestroika* (reestructuración o renovación), y la *Glasnost* (transparencia en toda la vida social).
+
+---
+
+## Sub-lote 25 · Aspectos de la *Perestroika*
+
+### 243
+
+De acuerdo con el libro de Historia Universal, ¿qué pretendía la *Perestroika* en sus aspectos económicos?
+
+- A. Superar el estancamiento económico en busca de nuevos mecanismos que aceleraran el progreso social
+- B. Consolidar la economía estatal rusa
+- C. Incrementar el gasto destinado a las fuerzas armadas
+- D. Mantener la hegemonía soviética en la Europa del Este
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 251
+**Subtema:** Fin del bloque socialista europeo · Perestroika
+
+Esta política pretendía superar el estancamiento económico en busca de nuevos mecanismos que aceleraran el progreso social, con la finalidad de transformar la economía estatal rusa en una economía de libre mercado.
+
+### 244
+
+De acuerdo con el libro de Historia Universal, ¿en qué se buscaba transformar la economía estatal rusa?
+
+- A. En una economía de libre mercado
+- B. En una economía mixta de planificación central
+- C. En una economía de autogestión colectiva
+- D. En una economía de bienes de consumo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 251
+**Subtema:** Fin del bloque socialista europeo · Perestroika
+
+Con la finalidad de transformar la economía estatal rusa en una economía de libre mercado.
+
+### 245
+
+De acuerdo con el libro de Historia Universal, entre las características de la *Perestroika*, ¿qué papel tendría el Estado en las actividades económicas?
+
+- A. No intervendría en las actividades económicas
+- B. Intervendría sólo en la industria pesada
+- C. Conservaría el control de las empresas estatales
+- D. Fijaría los precios de los productos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 251
+**Subtema:** Fin del bloque socialista europeo · Perestroika
+
+El Estado no intervendría en las actividades económicas.
+
+### 246
+
+De acuerdo con el libro de Historia Universal, ¿con qué miras se liberarían las empresas estatales?
+
+- A. Con miras a la privatización y al establecimiento de la inversión extranjera
+- B. Con miras a la autogestión de los trabajadores
+- C. Con miras a su fusión con las granjas colectivas
+- D. Con miras a su reconversión industrial
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 251
+**Subtema:** Fin del bloque socialista europeo · Perestroika
+
+Se liberarían las empresas estatales con miras a la privatización y al establecimiento de la inversión extranjera.
+
+### 247
+
+De acuerdo con el libro de Historia Universal, ¿con qué propósito se implantaría la competencia de los productores?
+
+- A. Mejorar la calidad de los productos, disminuir los costos y lograr la estabilidad de los precios
+- B. Incrementar la producción de la industria pesada
+- C. Atraer el establecimiento de la inversión extranjera
+- D. Eliminar por completo la propiedad estatal
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 251
+**Subtema:** Fin del bloque socialista europeo · Perestroika
+
+Se implantaría la competencia de los productores, con el propósito de mejorar la calidad de los productos, disminuir los costos y lograr la estabilidad de los precios.
+
+### 248
+
+De acuerdo con el libro de Historia Universal, en sus aspectos sociales, ¿qué pretendió implantar la *Perestroika*?
+
+- A. La justicia social y una sociedad más humanizada
+- B. La democratización de la sociedad
+- C. El respeto a las nacionalidades
+- D. La libre expresión en todos los aspectos de la vida social
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 251
+**Subtema:** Fin del bloque socialista europeo · Perestroika
+
+La *Perestroika* pretendió implantar la justicia social y establecer una sociedad más humanizada.
+
+### 249
+
+De acuerdo con el libro de Historia Universal, ¿a qué estuvo directamente vinculado el cumplimiento de los objetivos sociales de la *Perestroika*?
+
+- A. A la reestructuración económica
+- B. A la aplicación de la *Glasnost*
+- C. A la democratización de la sociedad
+- D. A la eliminación del Partido Comunista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 251
+**Subtema:** Fin del bloque socialista europeo · Perestroika
+
+El cumplimiento de estos objetivos estuvo directamente vinculado a la reestructuración económica.
+
+### 250
+
+De acuerdo con el libro de Historia Universal, en los aspectos políticos, ¿a qué estuvo ligado el proceso de democratización de la sociedad?
+
+- A. A la aplicación de la *Glasnost*
+- B. A la aplicación de la *Perestroika*
+- C. Al establecimiento de la inversión extranjera
+- D. Al respeto de las garantías sociales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 251
+**Subtema:** Fin del bloque socialista europeo · Perestroika
+
+En este renglón se pretendían cambios importantes al establecer un proceso de democratización de la sociedad, aspecto ligado a la aplicación de la *Glasnost*.
+
+### 251
+
+De acuerdo con el libro de Historia Universal, entre las acciones políticas, ¿qué se pretendía eliminar?
+
+- A. La absorción de todos los cargos de gobierno por un solo organismo político: el Partido Comunista
+- B. La intervención del Estado en las actividades económicas
+- C. El férreo control cupular de la burocracia
+- D. La "Doctrina Brezhnev"
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 251
+**Subtema:** Fin del bloque socialista europeo · Perestroika
+
+Eliminar la absorción de todos los cargos de gobierno por un solo organismo político: el Partido Comunista.
+
+---
+
+**Reactivos en este archivo:** 251
