@@ -56,9 +56,13 @@ Cubre el conflicto del Golfo Pérsico, el fin del bloque socialista europeo y to
 Central, República Dominicana y Puerto Rico, los cinco de Sudamérica y el Cono
 Sur, y México, con el que cierra el apartado en la 267.
 
-**Pendiente:** sólo "La llegada del siglo XXI" (268–279). El texto de la 267 se
-corta a media oración y continúa en la 268, así que el arranque de la próxima
-tanda debe recoger esa frase.
+**Apartado "La llegada del siglo XXI", en curso** (páginas 268–279). Cubiertas
+las páginas 268–271: el panorama del nuevo orden mundial, la conformación de la
+Unión Europea y el ataque de las Torres Gemelas. La 268 arranca cerrando la
+oración sobre México que venía de la 267, así que sus primeros reactivos
+pertenecen al apartado anterior.
+
+**Pendiente:** de la 272 en adelante, empezando por "La invasión a Irak".
 
 ## Verificación de transcripción (19 jul 2026)
 
@@ -111,6 +115,7 @@ si el examen real la corrige.
 | Pág. 264 | *Abdala Bucaran* Ortiz | Abdalá Bucaram Ortiz (en la 261 sí lleva tilde el nombre) |
 | Pág. 265 | Movimiento Revolucionario *Tupac* Amaru | Túpac Amaru |
 | Pág. 266 | *bloques* salariales | bloqueos salariales (confirmado a 550 dpi: el libro dice "bloques") |
+| Pág. 269 | "*La moneda, a la par*, se fue haciendo necesaria una unión monetaria" | Oración mal armada; sobra "La moneda". Confirmada a 550 dpi. **No se escribió reactivo sobre ella** porque no hay forma de citarla sin arrastrar el error |
 
 **El libro tropieza sistemáticamente con los nombres propios extranjeros**
 —Traman, Koffi, Gorvachov, Arzó, Lacallo, Bucaran, Róselo, Mississipi—, así que
@@ -7166,4 +7171,830 @@ Asesinatos políticos, como el del candidato a la presidencia Luis Donaldo Colos
 
 ---
 
-**Reactivos en este archivo:** 455
+## Sub-lote 39 · México: crisis y escándalos
+
+### 456
+
+De acuerdo con el libro de Historia Universal, entre las muertes de los sangrientos ajustes de cuentas entre bandas de traficantes, ¿a quién se menciona?
+
+- A. Al Cardenal Posadas, arzobispo de Guadalajara
+- B. A Luis Donaldo Colosio Murrieta
+- C. A José Francisco Ruiz Massieu
+- D. Al general Jesús Gutiérrez Rebollo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** América Latina · México
+
+Sangrientos ajustes de cuentas entre las bandas de traficantes, donde hubo varias muertes, entre ellas la del Cardenal Posadas, arzobispo de Guadalajara.
+
+### 457
+
+De acuerdo con el libro de Historia Universal, ¿qué grupo guerrillero protagonizó el levantamiento armado en el estado de Chiapas?
+
+- A. El Ejército Zapatista de Liberación Nacional
+- B. El Movimiento Revolucionario Túpac Amaru
+- C. El Frente Sandinista de Liberación Nacional
+- D. El Ejército Popular de Liberación
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** América Latina · México
+
+Y el levantamiento armado del grupo guerrillero Ejército Zapatista de Liberación Nacional (EZLN), en el estado de Chiapas.
+
+### 458
+
+De acuerdo con el libro de Historia Universal, ¿contra qué protesta el Ejército Zapatista de Liberación Nacional?
+
+- A. Contra la corrupción política y las pésimas condiciones de vida de los indígenas
+- B. Contra la devaluación del peso
+- C. Contra el Tratado Trilateral de Libre Comercio
+- D. Contra las privatizaciones de industrias estatales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** América Latina · México
+
+En el estado de Chiapas, que protesta contra la corrupción política y las pésimas condiciones de vida de los indígenas.
+
+### 459
+
+De acuerdo con el libro de Historia Universal, ¿en qué se manifiesta la crisis de diciembre de 1994?
+
+- A. En la fuerte devaluación del peso
+- B. Únicamente en la fuga de capitales
+- C. En el levantamiento armado en Chiapas
+- D. En la caída de la bolsa de valores mexicana
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** América Latina · México
+
+La crisis de diciembre de 1994 se manifiesta en la fuerte devaluación del peso.
+
+### 460
+
+De acuerdo con el libro de Historia Universal, además de llevar la economía mexicana al borde del abismo, ¿qué provocó esa crisis?
+
+- A. Fugas de capitales y repercusiones en la bolsa de valores de algunos países latinoamericanos
+- B. La renuncia del presidente ante el senado
+- C. El levantamiento armado del Ejército Zapatista de Liberación Nacional
+- D. La ruptura del Tratado Trilateral de Libre Comercio
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** América Latina · México
+
+Llevó a la economía mexicana al borde del abismo, provocando fugas de capitales y repercusiones en la bolsa de valores de algunos países latinoamericanos.
+
+### 461
+
+De acuerdo con el libro de Historia Universal, ¿qué lanzó el gobierno de Ernesto Zedillo Ponce de León?
+
+- A. Un severo plan de austeridad para solventar la emergencia económica
+- B. Un plan de privatizaciones masivas
+- C. La negociación del Tratado Trilateral de Libre Comercio
+- D. Un tercer programa de ajuste estructural
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** América Latina · México
+
+El gobierno de Ernesto Zedillo Ponce de León lanzó un severo plan de austeridad para solventar la emergencia económica.
+
+### 462
+
+De acuerdo con el libro de Historia Universal, ¿qué apoyo financiero recibió México del presidente Bill Clinton?
+
+- A. Un préstamo de 20 mil millones de dólares para estabilizar el peso
+- B. Un préstamo de 17 800 millones de dólares para estabilizar el peso
+- C. Un préstamo de 6 700 millones de dólares
+- D. Un préstamo de 1 400 millones de dólares
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** América Latina · México
+
+Además de recibir el apoyo financiero del presidente norteamericano Bill Clinton, con un préstamo de 20 mil millones de dólares para estabilizar el peso.
+
+### 463
+
+De acuerdo con el libro de Historia Universal, ¿de cuánto fue el mayor préstamo en la historia concedido por el FMI?
+
+- A. 17 800 millones de dólares
+- B. 20 mil millones de dólares
+- C. 6 700 millones de dólares
+- D. 1 400 millones de dólares
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** América Latina · México
+
+También el FMI concedió el mayor préstamo en la historia, 17 800 millones de dólares, para superar la crisis financiera.
+
+### 464
+
+De acuerdo con el libro de Historia Universal, ¿de qué fue acusado Raúl Salinas, detenido en 1995?
+
+- A. De haber encargado el asesinato del secretario del partido en el poder
+- B. De confabulación con el cártel del Golfo
+- C. De fabricación de pruebas e informes falsos
+- D. De tener aparentes nexos con grupos de narcotraficantes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** América Latina · México
+
+En 1995 fueron detenidos Raúl Salinas, hermano del expresidente Carlos Salinas, acusado de haber encargado el asesinato del secretario del partido en el poder.
+
+### 465
+
+De acuerdo con el libro de Historia Universal, ¿de qué fue acusado Mario Ruiz Massieu?
+
+- A. De confabulación con el cártel del Golfo
+- B. De haber encargado el asesinato del secretario del partido en el poder
+- C. De uso indebido de atribuciones
+- D. De tener aparentes nexos con grupos de narcotraficantes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** América Latina · México
+
+Y Mario Ruiz Massieu, acusado de confabulación con el cártel del Golfo.
+
+### 466
+
+De acuerdo con el libro de Historia Universal, ¿de qué fue acusado en 1997 el ex fiscal Pablo Chapa Bezanilla?
+
+- A. De uso indebido de atribuciones, fabricación de pruebas e informes falsos
+- B. De confabulación con el cártel del Golfo
+- C. De haber encargado el asesinato del secretario del partido
+- D. De tener aparentes nexos con grupos de narcotraficantes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** América Latina · México
+
+En 1997, el ex fiscal de la Procuraduría General de la República para el caso Ruiz Massieu, Pablo Chapa Bezanilla, fue acusado de uso indebido de atribuciones, fabricación de pruebas, informes falsos, entre otros.
+
+### 467
+
+De acuerdo con el libro de Historia Universal, ¿por qué fue destituido el general Jesús Gutiérrez Rebollo?
+
+- A. Por tener aparentes nexos con grupos de narcotraficantes
+- B. Por uso indebido de atribuciones
+- C. Por confabulación con el cártel del Golfo
+- D. Por fabricación de pruebas e informes falsos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** América Latina · México
+
+Y fue destituido el general Jesús Gutiérrez Rebollo, en el estado de Jalisco, por tener aparentes nexos con grupos de narcotraficantes.
+
+---
+
+## Sub-lote 40 · La llegada del siglo XXI
+
+### 468
+
+De acuerdo con el libro de Historia Universal, ¿a qué asistió la humanidad a partir de 1989?
+
+- A. A una renovación total de la escena internacional y al intento de reconstrucción de un nuevo orden mundial
+- B. Únicamente a la caída del muro de Berlín
+- C. Al inicio de la Guerra Fría
+- D. A la conformación de la Unión Europea
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** La llegada del siglo XXI · Panorama
+
+A partir de 1989 la humanidad asistió a una renovación total de la escena internacional y al intento de reconstrucción de un nuevo orden mundial.
+
+### 469
+
+De acuerdo con el libro de Historia Universal, ¿qué propiciaron la caída del muro de Berlín y la extinción de los regímenes socialistas?
+
+- A. Que el poderío de Estados Unidos aumentara
+- B. Que Europa se dividiera en bloques regionales
+- C. Que China se convirtiera en la principal potencia
+- D. Que se iniciara la Unión Europea
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** La llegada del siglo XXI · Panorama
+
+La caída del muro de Berlín y la extinción de los regímenes socialistas de la Unión Soviética y demás países de Europa del Este propiciaron que el poderío de Estados Unidos aumentara.
+
+### 470
+
+De acuerdo con el libro de Historia Universal, ¿qué ajustó Europa para competir con Estados Unidos?
+
+- A. Un complejo sistema de integración, la Unión Europea, iniciado desde mediados del siglo XX
+- B. Un sistema de defensa militar conjunto
+- C. Una unión monetaria con Estados Unidos
+- D. El Mercado Común Europeo, iniciado en 1992
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** La llegada del siglo XXI · Panorama
+
+Para competir con este último, Europa ajustó un complejo sistema de integración, la Unión Europea, iniciado desde mediados del siglo XX.
+
+### 471
+
+De acuerdo con el libro de Historia Universal, ¿con qué acontecimiento se considera que la orientación internacional cambió tanto que da lugar a una nueva era?
+
+- A. Con los atentados del 11 de septiembre de 2001 contra la Unión Americana
+- B. Con la caída del muro de Berlín
+- C. Con la desintegración de la Unión Soviética
+- D. Con la firma del Tratado de Maastricht
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 268
+**Subtema:** La llegada del siglo XXI · Panorama
+
+Se comienza a considerar que, coincidiendo con el inicio del siglo XXI, específicamente con los atentados del 11 de septiembre de 2001 contra la Unión Americana, la orientación internacional cambió tanto que da lugar a una nueva era.
+
+### 472
+
+De acuerdo con el libro de Historia Universal, además de los atentados, ¿qué otro evento se considera principal en ese proceso?
+
+- A. La invasión a Irak, o segunda guerra del Golfo Pérsico
+- B. La ampliación de la Unión Europea hacia los países ex socialistas
+- C. El surgimiento de los países emergentes del BRIC
+- D. La retirada soviética de Afganistán
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** La llegada del siglo XXI · Panorama
+
+Pareciera que vivimos un cambio y que los mencionados ataques y la invasión a Irak (segunda guerra del Golfo Pérsico) son eventos principales en este proceso.
+
+### 473
+
+De acuerdo con el libro de Historia Universal, ¿qué diferencias se siguen ampliando en la actual sociedad de masas?
+
+- A. Entre las áreas que disfrutan de bienestar y las que tienen hambre y desnutrición
+- B. Entre los países socialistas y los capitalistas
+- C. Entre Europa y Estados Unidos
+- D. Entre las potencias nucleares y las que no lo son
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** La llegada del siglo XXI · Panorama
+
+En la actual sociedad de masas se siguen ampliando las diferencias entre áreas que disfrutan de bienestar y las que tienen hambre y desnutrición.
+
+### 474
+
+De acuerdo con el libro de Historia Universal, ¿qué países emergentes integran el BRIC?
+
+- A. Brasil, Rusia, India y China
+- B. Brasil, Rusia, Indonesia y China
+- C. Bolivia, Rusia, India y China
+- D. Brasil, Rumania, India y China
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** La llegada del siglo XXI · Panorama
+
+Algunos países emergentes, como Brasil, Rusia, India y China (BRIC) tienen posibilidades de abandonar dicha situación y convertirse en potencias futuras.
+
+### 475
+
+De acuerdo con el libro de Historia Universal, ¿qué posibilidades tienen los países del BRIC?
+
+- A. Abandonar dicha situación y convertirse en potencias futuras
+- B. Integrarse a la Unión Europea
+- C. Sustituir a Estados Unidos como potencia unipolar
+- D. Formar un nuevo bloque socialista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** La llegada del siglo XXI · Panorama
+
+Tienen posibilidades de abandonar dicha situación y convertirse en potencias futuras.
+
+---
+
+## Sub-lote 41 · La conformación de la Unión Europea
+
+### 476
+
+De acuerdo con el libro de Historia Universal, ¿de quién provino la primera propuesta de una Europa unificada?
+
+- A. Del planificador francés Jean Monnet
+- B. Del planificador alemán Jean Monnet
+- C. Del planificador francés Robert Schuman
+- D. Del planificador belga Jean Monnet
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Antecedentes
+
+La primera propuesta de una Europa unificada provino del planificador francés Jean Monnet (1888-1979).
+
+### 477
+
+De acuerdo con el libro de Historia Universal, ¿qué consideró Jean Monnet sobre la unificación económica?
+
+- A. Que era solamente el primer paso en esa dirección
+- B. Que era el objetivo final de la unificación
+- C. Que debía preceder a la unión monetaria
+- D. Que era imposible sin una unión política previa
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Antecedentes
+
+Quien consideró que la unificación económica era solamente el primer paso en esa dirección.
+
+### 478
+
+De acuerdo con el libro de Historia Universal, ¿qué países integraron en 1952 la Comunidad Europea del Carbón y del Acero?
+
+- A. Italia, Alemania Occidental, Francia, Bélgica, Holanda y Luxemburgo
+- B. Italia, Alemania Occidental, Francia, Bélgica, Holanda e Inglaterra
+- C. Italia, Alemania, Francia, España, Holanda y Luxemburgo
+- D. Italia, Alemania Occidental, Francia, Bélgica, Dinamarca y Luxemburgo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Antecedentes
+
+A propuesta de él, en 1952, Italia, Alemania Occidental, Francia, Bélgica, Holanda y Luxemburgo integraron la Comunidad Europea del Carbón y del Acero (CECA).
+
+### 479
+
+De acuerdo con el libro de Historia Universal, ¿qué demostró la Comunidad Europea del Carbón y del Acero?
+
+- A. Que era posible un mercado común de este tipo
+- B. Que la unión monetaria era inevitable
+- C. Que Europa podía competir con Estados Unidos
+- D. Que la unión política debía preceder a la económica
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Antecedentes
+
+La Comunidad Europea del Carbón y del Acero (CECA), que demostró que era posible un mercado común de este tipo.
+
+### 480
+
+De acuerdo con el libro de Historia Universal, ¿qué aceptaron los seis países en 1957?
+
+- A. El plan de una Comunidad Económica Europea
+- B. El plan de una unión monetaria europea
+- C. El Tratado de Maastricht
+- D. La creación del Banco Central Europeo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Antecedentes
+
+En 1957 los seis países aceptaron el plan de una Comunidad Económica Europea (CEE).
+
+### 481
+
+De acuerdo con el libro de Historia Universal, ¿cuál era la finalidad de la Comunidad Económica Europea?
+
+- A. Coordinar las economías de sus miembros y conseguir la libre circulación de mercancías, capitales y personas en una Europa sin fronteras
+- B. Establecer una moneda única para todos sus miembros
+- C. Crear un sistema de defensa conjunto
+- D. Competir con el poderío de Estados Unidos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Antecedentes
+
+Con la finalidad de coordinar las economías de sus miembros y conseguir la libre circulación de mercancías, capitales y personas en una Europa sin fronteras.
+
+### 482
+
+De acuerdo con el libro de Historia Universal, ¿qué países fueron admitidos en las décadas de 1970 y 1980?
+
+- A. España, Dinamarca, Grecia, Portugal, Irlanda e Inglaterra
+- B. España, Dinamarca, Grecia, Portugal, Irlanda y Suecia
+- C. España, Dinamarca, Grecia, Polonia, Irlanda e Inglaterra
+- D. España, Noruega, Grecia, Portugal, Irlanda e Inglaterra
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Antecedentes
+
+En las décadas de 1970 y 1980, España, Dinamarca, Grecia, Portugal, Irlanda e Inglaterra fueron admitidos en este también llamado Mercado Común Europeo (MERCOMUN).
+
+### 483
+
+De acuerdo con el libro de Historia Universal, ¿cómo se llamaba también a la Comunidad Económica Europea?
+
+- A. Mercado Común Europeo
+- B. Comunidad Europea del Carbón y del Acero
+- C. Espacio Económico Europeo
+- D. Unión Monetaria Europea
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Antecedentes
+
+Fueron admitidos en este también llamado Mercado Común Europeo (MERCOMUN).
+
+### 484
+
+De acuerdo con el libro de Historia Universal, ¿qué población alcanzaban los países integrantes a fines de los ochenta?
+
+- A. Los 300 millones
+- B. Los 200 millones
+- C. Los 500 millones
+- D. Los 160 millones
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Antecedentes
+
+Por lo que a fines de los ochenta, la población de los países integrantes alcanzaba los 300 millones.
+
+### 485
+
+De acuerdo con el libro de Historia Universal, ¿qué conformaban esos países?
+
+- A. La región de libre mercado más populosa del mundo
+- B. El bloque económico más rico del mundo
+- C. La primera unión monetaria del mundo
+- D. El mayor mercado exportador del mundo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Antecedentes
+
+Conformando la región de libre mercado más populosa del mundo.
+
+### 486
+
+De acuerdo con el libro de Historia Universal, entre las etapas de la unión monetaria, ¿en qué se transformó el Instituto Monetario Europeo?
+
+- A. En el Banco Central Europeo
+- B. En el Banco Europeo de Inversiones
+- C. En la Comisión Europea
+- D. En el Parlamento Europeo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Unión monetaria
+
+El Instituto Monetario Europeo se transformó en el Banco Central Europeo.
+
+### 487
+
+De acuerdo con el libro de Historia Universal, ¿por qué moneda fueron sustituidas las monedas nacionales?
+
+- A. Por el ECU, que con el tiempo sería reemplazado por el euro
+- B. Por el euro, que con el tiempo sería reemplazado por el ECU
+- C. Directamente por el euro
+- D. Por el ECU, que se mantuvo como moneda definitiva
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Unión monetaria
+
+Las monedas nacionales fueron sustituidas por el ECU (*European Currency Unit*), que con el tiempo sería reemplazado por el euro (€).
+
+### 488
+
+De acuerdo con el libro de Historia Universal, ¿en qué año llegaron a un acuerdo para la integración de un espacio económico europeo?
+
+- A. En 1991
+- B. En 1992
+- C. En 1993
+- D. En 1957
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Unión monetaria
+
+Llegaron a un acuerdo para la integración de un espacio económico europeo (1991).
+
+### 489
+
+De acuerdo con el libro de Historia Universal, ¿dónde y cuándo pasó la unión económica al nivel de unión política?
+
+- A. En Maastricht, Holanda, en 1992
+- B. En Maastricht, Holanda, en 1991
+- C. En Bruselas, Bélgica, en 1992
+- D. En Maastricht, Bélgica, en 1992
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 269
+**Subtema:** Unión Europea · Maastricht
+
+Finalmente, en 1992, en Maastricht (Holanda), la unión económica pasó al nivel de unión política con el nombre oficial de Unión Europea (UE).
+
+### 490
+
+De acuerdo con el libro de Historia Universal, ¿qué destaca del proceso de la Unión Europea, aun en marcha?
+
+- A. El establecimiento de la ciudadanía europea
+- B. La creación del Banco Central Europeo
+- C. La adopción del euro
+- D. La ampliación hacia los países ex socialistas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Unión Europea · Maastricht
+
+En cuyo proceso, aun en marcha, destaca el establecimiento de la ciudadanía europea.
+
+### 491
+
+De acuerdo con el libro de Historia Universal, ¿cuál es el poder ejecutivo europeo?
+
+- A. La Comisión Europea
+- B. El Parlamento Europeo
+- C. El Banco Central Europeo
+- D. El Instituto Monetario Europeo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Unión Europea · Instituciones
+
+Comisión Europea. Es el poder ejecutivo europeo.
+
+### 492
+
+De acuerdo con el libro de Historia Universal, ¿cómo son nombrados los miembros de la Comisión Europea?
+
+- A. De común acuerdo por los gobiernos
+- B. Por voto directo de los ciudadanos
+- C. Por el Parlamento Europeo
+- D. Por el Banco Central Europeo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Unión Europea · Instituciones
+
+Sus miembros, de todas las naciones asociadas, son nombrados de común acuerdo por los gobiernos.
+
+### 493
+
+De acuerdo con el libro de Historia Universal, ¿qué garantiza el Parlamento Europeo?
+
+- A. La participación de todos los ciudadanos en las instituciones de la Unión
+- B. La estabilidad monetaria de la Unión
+- C. El cumplimiento de los tratados de la Unión
+- D. La libre circulación de mercancías
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Unión Europea · Instituciones
+
+Parlamento Europeo. Es el órgano que garantiza la participación de todos los ciudadanos en las instituciones de la Unión.
+
+### 494
+
+De acuerdo con el libro de Historia Universal, ¿cada cuánto y cómo son elegidos los integrantes del Parlamento Europeo?
+
+- A. Mediante voto directo cada cinco años
+- B. Mediante voto directo cada cuatro años
+- C. De común acuerdo por los gobiernos cada cinco años
+- D. Mediante voto indirecto cada cinco años
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Unión Europea · Instituciones
+
+Sus integrantes son elegidos por todos los ciudadanos(as) de los Estados integrantes, mediante voto directo cada cinco años.
+
+### 495
+
+De acuerdo con el libro de Historia Universal, ¿qué expresó la Unión en 1993?
+
+- A. Su voluntad de ampliación hacia los países ex socialistas
+- B. Su voluntad de crear una moneda única
+- C. Su voluntad de establecer la ciudadanía europea
+- D. Su voluntad de competir con Estados Unidos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Unión Europea · Ampliación
+
+En 1993 la Unión expresó su voluntad de ampliación hacia los países ex socialistas.
+
+### 496
+
+De acuerdo con el libro de Historia Universal, ¿cuáles son las condiciones de adhesión a la Unión Europea?
+
+- A. Una economía de mercado, estabilidad institucional en un marco de democracia parlamentaria, el respeto a los derechos humanos y la protección a las minorías
+- B. Una economía de mercado y la adopción del euro
+- C. La estabilidad institucional y la paridad monetaria
+- D. El respeto a los derechos humanos y la libre circulación de personas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Unión Europea · Ampliación
+
+Subrayando que las condiciones de adhesión eran (y son) una economía de mercado, estabilidad institucional en un marco de democracia parlamentaria, el respeto a los derechos humanos y la protección a las minorías.
+
+### 497
+
+De acuerdo con el libro de Historia Universal, ¿qué países solicitaron su integración en 1994?
+
+- A. Hungría y Polonia
+- B. Rumania y Eslovaquia
+- C. Malta y Turquía
+- D. República Checa y Eslovenia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Unión Europea · Ampliación
+
+Así, Hungría y Polonia solicitaron su integración en 1994.
+
+### 498
+
+De acuerdo con el libro de Historia Universal, ¿qué países solicitaron su integración al año siguiente?
+
+- A. Rumania, Eslovaquia, Letonia, Estonia, Lituania, Bulgaria, República Checa y Eslovenia, además de Malta y Turquía
+- B. Hungría, Polonia, Rumania y Eslovaquia
+- C. Únicamente Letonia, Estonia y Lituania
+- D. Únicamente Malta y Turquía
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Unión Europea · Ampliación
+
+Al año siguiente también lo hicieron Rumania, Eslovaquia, Letonia, Estonia, Lituania, Bulgaria, República Checa y Eslovenia, además de Malta y Turquía.
+
+---
+
+## Sub-lote 42 · El ataque de las Torres Gemelas de Nueva York
+
+### 499
+
+De acuerdo con el libro de Historia Universal, hacia finales del siglo XX y principios del XXI, ¿qué caracterizaba el desarrollo mundial?
+
+- A. Era unipolar, con Estados Unidos de América como principal potencia
+- B. Era bipolar, con Estados Unidos y la Unión Soviética
+- C. Era multipolar, con Estados Unidos, Europa y China por igual
+- D. Era unipolar, con la Unión Europea como principal potencia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Torres Gemelas · Contexto
+
+Hacia finales del siglo XX y principios del XXI el desarrollo mundial unipolar tenía como principal potencia a Estados Unidos de América.
+
+### 500
+
+De acuerdo con el libro de Historia Universal, además de Estados Unidos, ¿qué presencias internacionales eran significativas?
+
+- A. La Unión Europea y China
+- B. La Unión Europea y Rusia
+- C. China y Japón
+- D. Rusia y China
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Torres Gemelas · Contexto
+
+Aunque también era significativa la presencia internacional tanto de la Unión Europea como de China.
+
+### 501
+
+De acuerdo con el libro de Historia Universal, ¿qué sufrió Estados Unidos el 11 de septiembre de 2001?
+
+- A. La peor masacre civil de la que se tenga memoria
+- B. El mayor ataque militar de su historia
+- C. La peor crisis financiera de su historia
+- D. El primer atentado ocurrido en su territorio
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Torres Gemelas · El atentado
+
+El 11 de septiembre de 2001, Estados Unidos sufrió la peor masacre civil de la que se tenga memoria.
+
+### 502
+
+De acuerdo con el libro de Historia Universal, ¿qué organización terrorista atacó y quién la dirigía?
+
+- A. Al-Qaeda, dirigida por Osama Bin Laden
+- B. Al-Qaeda, dirigida por Saddam Hussein
+- C. El régimen talibán, dirigido por Osama Bin Laden
+- D. Al-Qaeda, dirigida por un grupo de voluntarios árabes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Torres Gemelas · El atentado
+
+Ahora se sabe que la organización terrorista Al-Qaeda, dirigida por Osama Bin Laden, fue quien atacó.
+
+### 503
+
+De acuerdo con el libro de Historia Universal, ¿qué deshizo el primer atentado?
+
+- A. Las Torres Gemelas del *World Trade Center*, ubicado en Nueva York
+- B. El edificio del Pentágono en Washington, D.C.
+- C. La Casa Blanca en Washington, D.C.
+- D. Las instalaciones del Centro de Comercio Mundial en Washington
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Torres Gemelas · El atentado
+
+El primer atentado deshizo las Torres Gemelas del *World Trade Center* (Centro de Comercio Mundial) ubicado en Nueva York.
+
+### 504
+
+De acuerdo con el libro de Historia Universal, ¿contra qué se dirigió otro ataque?
+
+- A. Contra el edificio del Pentágono en Washington, D.C.
+- B. Contra el *World Trade Center* de Nueva York
+- C. Contra la Casa Blanca
+- D. Contra el Capitolio en Washington, D.C.
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Torres Gemelas · El atentado
+
+Otro ataque se dirigió contra el edificio del Pentágono en Washington, D.C.
+
+### 505
+
+De acuerdo con el libro de Historia Universal, ¿a qué año se remonta el origen de Al-Qaeda?
+
+- A. A 1979, tras la invasión soviética a Afganistán
+- B. A 1989, con la retirada rusa de Afganistán
+- C. A 1992, con el régimen fundamentalista talibán
+- D. A 2001, con los atentados de septiembre
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Torres Gemelas · Origen de Al-Qaeda
+
+El origen de Al-Qaeda se remonta a 1979, cuando, tras la invasión soviética a Afganistán, Bin Laden y un grupo de voluntarios árabes apoyaron a los guerrilleros afganos.
+
+### 506
+
+De acuerdo con el libro de Historia Universal, ¿con ayuda financiera de quiénes apoyaron Bin Laden y los voluntarios árabes a los guerrilleros afganos?
+
+- A. De Estados Unidos y de Arabia Saudí
+- B. De la Unión Soviética y de Arabia Saudí
+- C. De Estados Unidos y de Irak
+- D. De Arabia Saudí y de Irán
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Torres Gemelas · Origen de Al-Qaeda
+
+Bin Laden y un grupo de voluntarios árabes, con ayuda financiera de Estados Unidos y de Arabia Saudí, apoyaron a los guerrilleros afganos.
+
+### 507
+
+De acuerdo con el libro de Historia Universal, ¿en qué se transformó la agrupación-refugio en 1989, con la retirada rusa?
+
+- A. En un grupo armado de ideología panislamista y de defensa de la Guerra Santa
+- B. En el régimen fundamentalista talibán
+- C. En una organización de ayuda humanitaria
+- D. En un partido político afgano
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 270
+**Subtema:** Torres Gemelas · Origen de Al-Qaeda
+
+En 1989, con la retirada rusa, la agrupación-refugio se transformó en un grupo armado de ideología panislamista y de defensa de la Guerra Santa.
+
+### 508
+
+De acuerdo con el libro de Historia Universal, ¿qué permite la estructura compleja de células independientes de esa organización?
+
+- A. El anonimato de quienes las conforman
+- B. La coordinación centralizada de sus operaciones
+- C. El financiamiento internacional del grupo
+- D. La expansión territorial de la organización
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 271
+**Subtema:** Torres Gemelas · Origen de Al-Qaeda
+
+Que posee estructura compleja cuyas células independientes permiten el anonimato de quienes las conforman.
+
+### 509
+
+De acuerdo con el libro de Historia Universal, además del ámbito internacional, ¿en qué repercutieron los atentados dentro de Estados Unidos?
+
+- A. Su política de seguridad se convirtió en una de sus prioridades
+- B. Su economía entró en una profunda recesión
+- C. Su política exterior se volvió aislacionista
+- D. Su gasto militar se redujo drásticamente
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 271
+**Subtema:** Torres Gemelas · Repercusiones
+
+Los atentados no sólo tuvieron repercusiones inmediatas en el ámbito internacional, como veremos, sino también en el aspecto interno de Estados Unidos, cuya política de seguridad se convirtió en una de sus prioridades.
+
+---
+
+**Reactivos en este archivo:** 509
