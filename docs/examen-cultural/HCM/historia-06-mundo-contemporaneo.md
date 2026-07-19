@@ -47,17 +47,18 @@ reactivos de cita literal.
 (páginas 221–226).
 
 **Apartado "Principales acontecimientos de nuestros días", en curso**
-(páginas 238–267). Cubiertas las páginas 238–258. Las páginas 242, 245, 253 y 255
+(páginas 238–267). Cubiertas las páginas 238–261. Las páginas 242, 245, 253 y 255
 son los mapas 25 a 28: sin texto del que salgan reactivos de cita literal. La 249
 es casi toda la figura 59 y sólo aporta el párrafo que cierra la oración de la 248.
 
 Dentro del apartado ya cerraron el conflicto del Golfo Pérsico y "El fin del
 bloque socialista europeo", éste hasta la desintegración de la URSS y el
 surgimiento de la Comunidad de Estados Independientes. Va en curso "La
-actualidad en América Latina y el Caribe", que arranca en la 256; de América
-Central están hechos Guatemala, El Salvador y el arranque de Honduras.
+actualidad en América Latina y el Caribe", que arranca en la 256. De América
+Central están completos Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica
+y Panamá, y de las Antillas, República Dominicana y Puerto Rico.
 
-**Pendiente:** acontecimientos de nuestros días de la 259 en adelante, y la
+**Pendiente:** acontecimientos de nuestros días de la 262 en adelante, y la
 llegada del siglo XXI (268–279).
 
 ## Erratas del libro
@@ -77,6 +78,22 @@ si el examen real la corrige.
 | Pág. 245, leyenda del mapa 26 | *Ataquea* aéreos | Ataques aéreos |
 | Pág. 250, pie de la figura 60 | Mijail S. *Gorvachov* | Gorbachov (así en el cuerpo) |
 | Pág. 258 | Álvaro *Arzó* Irigoyen | Arzú (presidente de Guatemala 1996–2000, del PAN) |
+| Pág. 259 | Universidad de *Mississipi* | Mississippi |
+| Pág. 259 | presidente *Calleja* | Callejas (así en la 258 y en el párrafo anterior) |
+| Pág. 259 | Arnoldo Alemán *Lacallo* | Lacayo (presidente de Nicaragua 1997–2002) |
+| Pág. 261 | Abdalá *Bucaran* | Bucaram (presidente de Ecuador 1996–1997) |
+| Pág. 261 | Pedro *Róselo* | Rosselló (gobernador de Puerto Rico 1993–2001) |
+
+**El libro tropieza sistemáticamente con los nombres propios extranjeros**
+—Traman, Koffi, Gorvachov, Arzó, Lacallo, Bucaran, Róselo, Mississipi—, así que
+conviene verificar todo apellido y topónimo no hispano antes de fijarlo en un
+reactivo.
+
+Caso que se decidió **no** tratar como errata: la Pág. 261 escribe "el dictador
+haitiano **Raúl** Cedras" donde el original es *Raoul Cédras*. Castellanizar un
+nombre de pila es práctica editorial corriente, no un descuido, y por eso ese
+nombre sí va verbatim en el reactivo 356 mientras que *Bucaram*, en la misma
+oración, va corregido.
 
 También hay una cifra que el propio libro da doble: la Carta la firmaron
 "50 países" (Pág. 221) pero la ONU "fue creada por 51 países" (Pág. 222). No es
@@ -5139,4 +5156,676 @@ En la actualidad, el país lucha por superar sus problemas económicos en un mar
 
 ---
 
-**Reactivos en este archivo:** 326
+## Sub-lote 30 · Honduras y Nicaragua
+
+### 327
+
+De acuerdo con el libro de Historia Universal, ¿de qué universidad era egresado el economista Rafael Leonardo Callejas?
+
+- A. De la Universidad de Mississippi, Estados Unidos
+- B. De la Universidad de Harvard, Estados Unidos
+- C. De la Universidad Nacional Autónoma de Honduras
+- D. De la Universidad de Texas, Estados Unidos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Honduras
+
+Los planes del gobierno encabezado por Rafael Leonardo Callejas, economista egresado de la Universidad de Mississippi, Estados Unidos, quien tomó posesión de su cargo el 27 de enero de 1990.
+
+### 328
+
+De acuerdo con el libro de Historia Universal, ¿cuándo tomó posesión de su cargo Rafael Leonardo Callejas?
+
+- A. El 27 de enero de 1990
+- B. El 20 de diciembre de 1989
+- C. El 25 de febrero de 1990
+- D. El 27 de enero de 1994
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Honduras
+
+Economista egresado de la Universidad de Mississippi, Estados Unidos, quien tomó posesión de su cargo el 27 de enero de 1990.
+
+### 329
+
+De acuerdo con el libro de Historia Universal, ¿qué provocó el programa de modernización económica del presidente Callejas?
+
+- A. Se incrementó la pobreza en el país y se debilitó la economía
+- B. Se redujo la pobreza pero aumentó la inflación
+- C. Se fortaleció la economía con préstamos del BID
+- D. Se incrementaron las exportaciones y el empleo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Honduras
+
+Con la práctica del programa de modernización económica del presidente Callejas se incrementó la pobreza en el país y se debilitó la economía al observarse mayores índices de inflación, aumento de las importaciones y deterioro en las exportaciones.
+
+### 330
+
+De acuerdo con el libro de Historia Universal, ¿qué le otorgó al Estado hondureño el fallo del Tribunal Internacional de Justicia de la Haya en 1992?
+
+- A. El 75% de los territorios en litigio con El Salvador
+- B. El 50% de los territorios en litigio con El Salvador
+- C. El 100% de los territorios en litigio con El Salvador
+- D. El 75% de los territorios en litigio con Nicaragua
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Honduras
+
+Con gran júbilo y beneplácito fue recibido en 1992 el fallo del Tribunal Internacional de Justicia de la Haya, que le otorgó al Estado hondureño el 75% de los territorios en litigio con El Salvador.
+
+### 331
+
+De acuerdo con el libro de Historia Universal, ¿qué confirmó ese fallo para Honduras?
+
+- A. El acceso al océano Pacífico por el Golfo de Fonseca
+- B. El acceso al mar Caribe por el Golfo de Honduras
+- C. La soberanía sobre su mar patrimonial
+- D. El acceso al océano Atlántico por el Golfo de Fonseca
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Honduras
+
+Que le otorgó al Estado hondureño el 75% de los territorios en litigio con El Salvador, confirmando el acceso al océano Pacífico por el Golfo de Fonseca.
+
+### 332
+
+De acuerdo con el libro de Historia Universal, ¿quién asumió la presidencia de Honduras en 1994 y por qué partido?
+
+- A. Carlos Roberto Reina, del Partido Liberal
+- B. Rafael Leonardo Callejas, del Partido Liberal
+- C. Carlos Roberto Reina, del Partido Liberal Constitucionalista
+- D. Arnoldo Alemán Lacayo, del Partido Liberal
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Honduras
+
+El candidato del Partido Liberal, Carlos Roberto Reina, asumió la presidencia en 1994 y puso en práctica un programa de ajuste estructural.
+
+### 333
+
+De acuerdo con el libro de Historia Universal, ¿qué otras acciones realizó Carlos Roberto Reina además del programa de ajuste estructural?
+
+- A. La desmilitarización, combate a la corrupción, baja en los presupuestos y la supresión del servicio militar
+- B. La privatización de las empresas estatales y la eliminación de aranceles aduaneros
+- C. La reconciliación nacional y la aplicación de la amnistía
+- D. La normalización de las relaciones diplomáticas con México
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Honduras
+
+Adoptando medidas de austeridad, creando nuevos impuestos, reduciendo los empleos públicos, además de realizar otras acciones, como la desmilitarización, combate a la corrupción, baja en los presupuestos y la supresión del servicio militar.
+
+### 334
+
+De acuerdo con el libro de Historia Universal, ¿de qué gran poeta es patria Nicaragua?
+
+- A. De Rubén Darío
+- B. De Pablo Neruda
+- C. De José Martí
+- D. De César Vallejo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Nicaragua
+
+Nicaragua, la patria del gran poeta Rubén Darío, está organizada en diecisiete departamentos con una población aproximada de cuatro millones de habitantes.
+
+### 335
+
+De acuerdo con el libro de Historia Universal, ¿en cuántos departamentos está organizada Nicaragua y cuál es su población aproximada?
+
+- A. Diecisiete departamentos, cuatro millones de habitantes
+- B. Diecinueve departamentos, cuatro millones de habitantes
+- C. Diecisiete departamentos, diez millones de habitantes
+- D. Catorce departamentos, cuatro millones de habitantes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Nicaragua
+
+Está organizada en diecisiete departamentos con una población aproximada de cuatro millones de habitantes.
+
+### 336
+
+De acuerdo con el libro de Historia Universal, ¿qué distingue a Nicaragua entre los países centroamericanos en cuanto a población?
+
+- A. Es el país centroamericano con menor densidad de población
+- B. Es el país centroamericano con mayor densidad de población
+- C. Es el país centroamericano más poblado
+- D. Es el más pequeño de los países centroamericanos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Nicaragua
+
+Es el país centroamericano con menor densidad de población.
+
+### 337
+
+De acuerdo con el libro de Historia Universal, ¿qué logró el Frente Sandinista de Liberación Nacional en julio de 1979?
+
+- A. Derrocar a la dictadura encabezada por Anastasio Somoza Debayle
+- B. Ganar los comicios supervisados por la Organización de Estados Americanos
+- C. Firmar el Acuerdo de Esquipulas
+- D. Derrocar al gobierno del general Manuel Antonio Noriega
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Nicaragua
+
+En julio de 1979, el Frente Sandinista de Liberación Nacional (FSLN) logró derrocar a la dictadura encabezada por Anastasio Somoza Debayle.
+
+### 338
+
+De acuerdo con el libro de Historia Universal, ¿quién venció al comandante Daniel Ortega el 25 de febrero de 1990 y por qué agrupación?
+
+- A. Violeta Barrios viuda de Chamorro, de la Unión Nacional Opositora
+- B. Violeta Barrios viuda de Chamorro, del Partido Liberal Constitucionalista
+- C. Arnoldo Alemán Lacayo, de la Unión Nacional Opositora
+- D. Violeta Barrios viuda de Chamorro, del Frente Sandinista de Liberación Nacional
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Nicaragua
+
+Cuando el 25 de febrero de 1990, la candidata de la Unión Nacional Opositora (UNO), Violeta Barrios viuda de Chamorro, en comicios supervisados por la Organización de Estados Americanos (OEA), venció al candidato del FSLN y presidente en funciones, comandante Daniel Ortega.
+
+### 339
+
+De acuerdo con el libro de Historia Universal, ¿qué organización supervisó esos comicios?
+
+- A. La Organización de Estados Americanos
+- B. La Organización de las Naciones Unidas
+- C. El Tribunal Internacional de Justicia de la Haya
+- D. El Banco Interamericano de Desarrollo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Nicaragua
+
+En comicios supervisados por la Organización de Estados Americanos (OEA), venció al candidato del FSLN y presidente en funciones, comandante Daniel Ortega.
+
+### 340
+
+De acuerdo con el libro de Historia Universal, ¿de qué fue acusado el gobierno de Violeta Barrios?
+
+- A. De gobernar con apoyo sandinista, tras romper con la coalición que la llevó al poder
+- B. De fraude electoral en los comicios de 1990
+- C. De realizar reclamos limítrofes de su mar patrimonial
+- D. De gobernar con apoyo de la Organización de Estados Americanos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Nicaragua
+
+Primero sufrió un rompimiento con la coalición que la llevó al poder y después fue acusada de gobernar con apoyo sandinista.
+
+### 341
+
+De acuerdo con el libro de Historia Universal, ¿quién asumió la presidencia de Nicaragua en enero de 1997 y por qué partido?
+
+- A. El doctor Arnoldo Alemán Lacayo, del Partido Liberal Constitucionalista
+- B. El doctor Arnoldo Alemán Lacayo, del Partido Liberal
+- C. El comandante Daniel Ortega, del Frente Sandinista de Liberación Nacional
+- D. Violeta Barrios viuda de Chamorro, del Partido Liberal Constitucionalista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Nicaragua
+
+En enero de 1997 asumió la presidencia el doctor Arnoldo Alemán Lacayo, del Partido Liberal Constitucionalista.
+
+### 342
+
+De acuerdo con el libro de Historia Universal, ¿qué reclamos realizó el gobierno de Arnoldo Alemán y a quiénes afectó?
+
+- A. Reclamos limítrofes de su mar patrimonial, afectando los intereses de Honduras y Colombia
+- B. Reclamos limítrofes de su mar patrimonial, afectando los intereses de Costa Rica y Panamá
+- C. Reclamos territoriales, afectando los intereses de El Salvador
+- D. Reclamos limítrofes, afectando los intereses de Honduras y Guatemala
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 259
+**Subtema:** América Central y el Caribe · Nicaragua
+
+Su gobierno realizó reclamos limítrofes de su mar patrimonial, afectando los intereses de Honduras y Colombia.
+
+---
+
+## Sub-lote 31 · Costa Rica y Panamá
+
+### 343
+
+De acuerdo con el libro de Historia Universal, ¿cuándo se inicia prácticamente la vida de la república de Costa Rica?
+
+- A. En el siglo XIX, cuando decide separarse de la Federación Centroamericana
+- B. En el siglo XVIII, cuando decide separarse de España
+- C. En el siglo XX, tras la firma del Acuerdo de Esquipulas
+- D. En el siglo XIX, cuando decide unirse a la Federación Centroamericana
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Costa Rica
+
+La vida de esta república prácticamente se inicia en el siglo XIX, cuando decide separarse de la Federación Centroamericana.
+
+### 344
+
+De acuerdo con el libro de Historia Universal, ¿qué distingue a San José, capital de Costa Rica?
+
+- A. Es la ciudad más modernizada y de mayor actividad cultural y artística de la región
+- B. Es la más antigua de las ciudades fundadas por los españoles en América
+- C. Fue la primera capital del mundo colonial
+- D. Es la ciudad más poblada de la región
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Costa Rica
+
+Su capital San José es la ciudad más modernizada y de mayor actividad cultural y artística de la región.
+
+### 345
+
+De acuerdo con el libro de Historia Universal, ¿a quién y en qué año se otorgó el Premio Nobel de la Paz por impulsar el Proceso de Pacificación de Centroamérica?
+
+- A. Al presidente Óscar Arias Sánchez, en el año de 1987
+- B. Al presidente Óscar Arias Sánchez, en el año de 1992
+- C. A Rigoberta Menchú, en el año de 1987
+- D. Al presidente Rafael Ángel Calderón Fournier, en el año de 1987
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Costa Rica
+
+Dentro de los hechos históricos recientes del país destaca el otorgamiento del Premio Nobel de la Paz al presidente Óscar Arias Sánchez, en el año de 1987, por impulsar el Proceso de Pacificación de Centroamérica.
+
+### 346
+
+De acuerdo con el libro de Historia Universal, ¿tras la firma de qué acuerdo se otorgó ese Premio Nobel?
+
+- A. Tras la firma del Acuerdo de Esquipulas
+- B. Tras la firma del Acuerdo de Chapultepec
+- C. Tras la firma del Acuerdo de Nueva York
+- D. Tras la firma de los Tratados Torrijos-Carter
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Costa Rica
+
+Por impulsar el Proceso de Pacificación de Centroamérica, tras la firma del Acuerdo de Esquipulas.
+
+### 347
+
+De acuerdo con el libro de Historia Universal, ¿quién asumió la presidencia de Costa Rica en 1994 y por qué partido?
+
+- A. El socialdemócrata José María Figueres, del Partido de Liberación Nacional
+- B. Rafael Ángel Calderón Fournier, del Partido de Liberación Nacional
+- C. El socialdemócrata José María Figueres, del Partido Liberal
+- D. Óscar Arias Sánchez, del Partido de Liberación Nacional
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Costa Rica
+
+En 1994 asumió la presidencia el socialdemócrata José María Figueres, del Partido de Liberación Nacional.
+
+### 348
+
+De acuerdo con el libro de Historia Universal, ¿en qué consistió el tercer programa de ajuste estructural de José María Figueres?
+
+- A. Elevar las tarifas públicas, establecer reformas tributarias y reducir el presupuesto del Estado
+- B. Privatizar las empresas estatales y eliminar los aranceles aduaneros
+- C. Crear nuevos impuestos y reducir los empleos públicos
+- D. Elevar las tarifas públicas y aumentar los programas de ayuda social
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Costa Rica
+
+Puso en práctica el tercer programa de ajuste estructural, al elevar las tarifas públicas, establecer reformas tributarias y reducir el presupuesto del Estado, alejándose de los programas de ayuda social.
+
+### 349
+
+De acuerdo con el libro de Historia Universal, ¿cuándo abrió el Canal de Panamá sus puertas a la navegación?
+
+- A. El 15 de agosto de 1914
+- B. El 15 de agosto de 1904
+- C. El 20 de diciembre de 1914
+- D. El 15 de agosto de 1898
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Panamá
+
+Esa obra de la ingeniería iniciada en las postrimerías del siglo XIX, la cual abrió sus puertas a la navegación el 15 de agosto de 1914.
+
+### 350
+
+De acuerdo con el libro de Historia Universal, ¿a qué tratados dieron origen las negociaciones sobre la vía interoceánica?
+
+- A. A los Tratados Torrijos-Carter (1977)
+- B. A los Tratados Torrijos-Carter (1914)
+- C. Al Acuerdo de Esquipulas (1977)
+- D. A los Tratados Torrijos-Reagan (1977)
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Panamá
+
+La vía interoceánica ha sido objeto de innumerables negociaciones entre el pueblo panameño y el gobierno estadunidense, las cuales dieron origen a los Tratados Torrijos-Carter (1977).
+
+### 351
+
+De acuerdo con el libro de Historia Universal, ¿qué recupera Panamá mediante esos tratados y cuándo le fueron devueltas las instalaciones?
+
+- A. La plena jurisdicción sobre la zona del Canal; le fueron devueltas el último día del siglo XX
+- B. La plena jurisdicción sobre la zona del Canal; le fueron devueltas en 1977
+- C. La propiedad del Canal; le fueron devueltas en enero de 1990
+- D. La plena jurisdicción sobre la zona del Canal; le fueron devueltas el primer día del siglo XXI
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Panamá
+
+Mediante los cuales Panamá recupera la plena jurisdicción sobre la zona del Canal y cuyas instalaciones le fueron devueltas el último día del siglo XX.
+
+### 352
+
+De acuerdo con el libro de Historia Universal, ¿a partir de cuándo quedó dirigida la Comisión de Control del Canal por un funcionario panameño?
+
+- A. A partir de enero de 1990
+- B. A partir de diciembre de 1989
+- C. A partir de 1977
+- D. A partir de 1994
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Panamá
+
+En cumplimiento de estos tratados, la Comisión de Control del Canal quedó dirigida, a partir de enero de 1990, por un funcionario panameño como administrador actuante, designado por Guillermo Endara.
+
+### 353
+
+De acuerdo con el libro de Historia Universal, ¿cuándo asumió Guillermo Endara la presidencia de Panamá y en qué circunstancia?
+
+- A. El 20 de diciembre de 1989, unas horas después de que el ejército estadunidense interviniera para derrocar al general Manuel Antonio Noriega
+- B. El 20 de diciembre de 1989, tras ganar las elecciones generales
+- C. En enero de 1990, designado por la Comisión de Control del Canal
+- D. En 1994, tras la firma de los Tratados Torrijos-Carter
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Panamá
+
+Designado por Guillermo Endara, quien asumió la presidencia del país el 20 de diciembre de 1989, unas horas después de que el ejército estadunidense interviniera para derrocar al gobierno del general Manuel Antonio Noriega.
+
+### 354
+
+De acuerdo con el libro de Historia Universal, ¿quién tomó posesión de la presidencia de Panamá en 1994 y por qué partido?
+
+- A. Ernesto Pérez Balladares, del Partido Revolucionario Democrático
+- B. Guillermo Endara, del Partido Revolucionario Democrático
+- C. Ernesto Pérez Balladares, del Partido Liberal Constitucionalista
+- D. Manuel Antonio Noriega, del Partido Revolucionario Democrático
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Panamá
+
+En 1994 tomó posesión de la presidencia Ernesto Pérez Balladares, del Partido Revolucionario Democrático.
+
+### 355
+
+De acuerdo con el libro de Historia Universal, ¿qué pretendió lograr Ernesto Pérez Balladares con su programa político?
+
+- A. La reconciliación nacional, aplicar la amnistía, combatir el tráfico de drogas, la corrupción, el terrorismo y la pobreza, así como abolir el ejército
+- B. La desmilitarización, el combate a la corrupción y la supresión del servicio militar
+- C. La privatización de las empresas estatales y la apertura del mercado interno
+- D. La recuperación de la plena jurisdicción sobre la zona del Canal
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 260
+**Subtema:** América Central y el Caribe · Panamá
+
+Con su programa político pretendió lograr la reconciliación nacional, aplicar la amnistía, combatir el tráfico de drogas, la corrupción, el terrorismo y la pobreza, así como abolir el ejército.
+
+---
+
+## Sub-lote 32 · República Dominicana y Puerto Rico
+
+### 356
+
+De acuerdo con el libro de Historia Universal, ¿por qué destaca Panamá en su política exterior?
+
+- A. Por dar asilo al dictador haitiano Raúl Cedras, a Abdalá Bucaram y a refugiados cubanos
+- B. Por dar asilo al general Manuel Antonio Noriega y a refugiados cubanos
+- C. Por dar asilo al dictador haitiano Raúl Cedras y a Joaquín Balaguer
+- D. Por dar asilo a refugiados cubanos y por su ingreso al Grupo de los Tres
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · Panamá
+
+Destaca en su política exterior por dar asilo al dictador haitiano Raúl Cedras, a Abdalá Bucaram y a refugiados cubanos, y por la normalización de las relaciones diplomáticas con México.
+
+### 357
+
+De acuerdo con el libro de Historia Universal, ¿cuál era la población de República Dominicana en 2012?
+
+- A. 10 135 105 habitantes
+- B. 14 713 763 habitantes
+- C. 10 315 105 habitantes
+- D. 11 135 105 habitantes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · República Dominicana
+
+Isla ubicada entre las grandes Antillas, con una población de 10 135 105 habitantes (2012).
+
+### 358
+
+De acuerdo con el libro de Historia Universal, ¿de qué producto es República Dominicana el mayor exportador, por delante de Cuba?
+
+- A. De cigarros puros
+- B. De níquel
+- C. De fosfatos naturales
+- D. De plátano o banano
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · República Dominicana
+
+Actualmente este país es el mayor exportador de cigarros puros, por delante de Cuba.
+
+### 359
+
+De acuerdo con el libro de Historia Universal, ¿desde qué año cuenta República Dominicana con yacimientos petrolíferos?
+
+- A. Desde 1981
+- B. Desde 1986
+- C. Desde 1996
+- D. Desde 1971
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · República Dominicana
+
+El turismo se ha incrementado notablemente y, desde 1981 cuenta con yacimientos petrolíferos.
+
+### 360
+
+De acuerdo con el libro de Historia Universal, ¿qué distingue a Santo Domingo, capital de República Dominicana?
+
+- A. Es la más antigua de las ciudades fundadas por los españoles en América
+- B. Es la ciudad más modernizada de la región
+- C. Es la ciudad de mayor actividad cultural y artística de las Antillas
+- D. Es la ciudad más poblada de las grandes Antillas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · República Dominicana
+
+Santo Domingo, su capital, es la más antigua de las ciudades, fundada por los españoles en América.
+
+### 361
+
+De acuerdo con el libro de Historia Universal, ¿qué tuvo Santo Domingo por haber sido la primera capital del mundo colonial?
+
+- A. El primer arzobispado, la primera catedral, la primera universidad y fue sede del primer virreinato de América
+- B. El primer arzobispado, la primera catedral y el primer puerto de América
+- C. La primera universidad, la primera catedral y el primer cabildo de América
+- D. El primer arzobispado, la primera imprenta y el primer virreinato de América
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · República Dominicana
+
+Fue la primera capital del mundo colonial; tuvo el primer arzobispado, la primera catedral, la primera universidad y fue sede del primer virreinato de América.
+
+### 362
+
+De acuerdo con el libro de Historia Universal, ¿desde cuándo permaneció Joaquín Balaguer en el poder y qué obtuvo en 1994?
+
+- A. Desde 1986, y obtuvo su séptima reelección
+- B. Desde 1986, y obtuvo su quinta reelección
+- C. Desde 1981, y obtuvo su séptima reelección
+- D. Desde 1996, y obtuvo su séptima reelección
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · República Dominicana
+
+Cuenta con un sistema de gobierno presidencialista, donde Joaquín Balaguer permaneció en el poder desde 1986, obteniendo su séptima reelección en 1994 bajo graves sospechas de fraude electoral.
+
+### 363
+
+De acuerdo con el libro de Historia Universal, ¿a qué se comprometió Balaguer ante las graves sospechas de fraude electoral?
+
+- A. A la celebración de nuevos comicios para mayo de 1996
+- B. A renunciar a la presidencia en agosto de 1996
+- C. A que los comicios fueran supervisados por la Organización de Estados Americanos
+- D. A no presentarse a una nueva reelección
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · República Dominicana
+
+Obteniendo su séptima reelección en 1994 bajo graves sospechas de fraude electoral, por lo que se comprometió a la celebración de nuevos comicios para mayo de 1996.
+
+### 364
+
+De acuerdo con el libro de Historia Universal, ¿con préstamos de qué organismo ha fortalecido su economía República Dominicana?
+
+- A. Del BID
+- B. Del Fondo Monetario Internacional
+- C. Del Banco Mundial
+- D. De la Organización de Estados Americanos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · República Dominicana
+
+Actualmente se ha iniciado un programa de privatizaciones y ha fortalecido su economía con préstamos del BID para solventar los problemas económicos que padece.
+
+### 365
+
+De acuerdo con el libro de Historia Universal, ¿quién tomó posesión de la presidencia dominicana en agosto de 1996 y por qué partido?
+
+- A. Leonel Fernández Reina, del Partido de la Liberación Dominicana
+- B. Joaquín Balaguer, del Partido de la Liberación Dominicana
+- C. Leonel Fernández Reina, del Partido Revolucionario Democrático
+- D. Leonel Fernández Reina, del nuevo Partido Progresista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · República Dominicana
+
+En agosto de 1996 tomó posesión de la presidencia Leonel Fernández Reina, del Partido de la Liberación Dominicana.
+
+### 366
+
+De acuerdo con el libro de Historia Universal, ¿cuándo fue anexado Puerto Rico a Estados Unidos?
+
+- A. En 1898, al término de la guerra hispanoamericana
+- B. En 1967, al determinarlo el pueblo
+- C. En 1992, tras las elecciones generales
+- D. En 1898, al término de la guerra de secesión
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · Puerto Rico
+
+Isla de las grandes Antillas, anexada a Estados Unidos en 1898 al término de la guerra hispanoamericana.
+
+### 367
+
+De acuerdo con el libro de Historia Universal, ¿qué determinó el pueblo puertorriqueño a partir de 1967?
+
+- A. Ser un Estado libre asociado a Estados Unidos
+- B. Incorporarse plenamente a Estados Unidos
+- C. Declarar su independencia
+- D. Establecer el inglés como idioma oficial
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · Puerto Rico
+
+A partir de 1967 el pueblo determinó ser un Estado libre asociado a Estados Unidos.
+
+### 368
+
+De acuerdo con el libro de Historia Universal, ¿qué partido resultó ganador en las elecciones generales de 1992 en Puerto Rico?
+
+- A. El nuevo Partido Progresista de Pedro Rosselló, de línea favorable a la incorporación de la isla a Estados Unidos
+- B. El nuevo Partido Progresista de Pedro Rosselló, de línea favorable a la independencia de la isla
+- C. El Partido de la Liberación Dominicana
+- D. El Partido Revolucionario Democrático
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · Puerto Rico
+
+El nuevo Partido Progresista de Pedro Rosselló, de línea favorable a la incorporación de la isla a Estados Unidos, resultó ganador en las elecciones generales de 1992.
+
+### 369
+
+De acuerdo con el libro de Historia Universal, ¿qué estableció ese gobierno en materia de idioma?
+
+- A. El inglés como idioma oficial al igual que el español
+- B. El inglés como único idioma oficial
+- C. El español como único idioma oficial
+- D. El inglés como idioma oficial únicamente en la administración pública
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · Puerto Rico
+
+Estableció el inglés como idioma oficial al igual que el español.
+
+### 370
+
+De acuerdo con el libro de Historia Universal, además de los graves problemas económicos, ¿qué otros problemas enfrenta Puerto Rico?
+
+- A. La escasez de agua, la contaminación y los altos índices de criminalidad, homicidios y tráfico de drogas
+- B. La disminución de reservas, el alza de precios al transporte y la escasez de energía
+- C. El narcotráfico, el lavado de dinero, la miseria y la injusticia
+- D. La escasez de energía, la contaminación y la corrupción
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 261
+**Subtema:** América Central y el Caribe · Puerto Rico
+
+El nuevo gobierno continuó con la política de privatizaciones para solucionar los graves problemas económicos que enfrenta el país, además de la escasez de agua, la contaminación y los altos índices de criminalidad, homicidios y tráfico de drogas.
+
+---
+
+**Reactivos en este archivo:** 370
