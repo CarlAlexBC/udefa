@@ -115,9 +115,22 @@ una sesión iniciada.
 | 1 | Esquema y migración | hecha |
 | 2 | Importador | hecha — 2,410 reactivos en la base |
 | 3 | Muestreo por unidades | hecha — 0 huérfanos, 85.7 pares por examen |
-| 4 | Escalas de validez L, K, F | **siguiente** |
-| 5 | Clusters, cruces cross-tema, banderas | pendiente — la más grande |
-| 6 | Panel de resultados | pendiente |
+| 4 | Escalas de validez L, K, F | hecha — con veredicto y bandera de idealización |
+| 5 | Clusters, cruces cross-tema, banderas | **siguiente** — la más grande |
+| 6 | Panel de resultados | pendiente — las escalas ya se devuelven pero no se muestran |
+
+### Limitación conocida de la escala F
+
+El banco tiene solo **27 trampas F** de 2,410 reactivos. Un examen de 256 recibe
+alrededor de **3**, así que el porcentaje de F queda muy grueso: los valores
+posibles son prácticamente 0%, 33%, 66% o 100%.
+
+Dos salidas, ninguna urgente:
+- Garantizar un mínimo de trampas F en el muestreo (toca `examenes.service.ts`).
+- Escribir más trampas F repartidas por los ejes.
+
+Mientras tanto, F sirve para detectar el caso extremo — contestó sin leer — pero
+no para graduar.
 
 ---
 
