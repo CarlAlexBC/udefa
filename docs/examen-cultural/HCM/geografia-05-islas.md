@@ -18,10 +18,14 @@ impresa (hoja 90 = página 97).
 ## Nota sobre el Anexo H de la convocatoria
 
 El ejemplo 3 del Anexo "H" pregunta por el archipiélago de Revillagigedo y cita
-*Tamayo (2021), Pág. 91*. En esta edición ese dato está en el **Cuadro 5.1 de la
-página 98**, que asigna Revillagigedo (Socorro, San Benedicto, Clarión y Roca
-Partida) al estado de Colima. La página 91 de esta edición es el arranque del
-capítulo 4, Litorales.
+*Tamayo (2021), Pág. 91*. En esta edición ese dato aparece en dos lugares, y
+ninguno es la 91:
+
+- **Página 98**, en el Cuadro 5.1, que lo asigna al estado de Colima.
+- **Página 102**, en el texto corrido — que es el pasaje casi literal que la
+  convocatoria reproduce como justificación.
+
+La página 91 de esta edición es el arranque del capítulo 4, Litorales.
 
 No se copió esa página de la convocatoria: **todas las referencias de este
 archivo se leyeron de la hoja del libro**, una por una. Si el examen real cita
@@ -29,9 +33,9 @@ otra numeración, el contenido sigue siendo el correcto.
 
 ## Cobertura actual
 
-Páginas 97, 98 y 101: origen de las islas, superficie, catálogo del Cuadro 5.1
-e islas del Golfo de California.
-**Pendiente:** páginas 99, 100 y 102–104.
+Páginas 97, 98, 101 y 102: origen de las islas, superficie, catálogo del
+Cuadro 5.1, islas del Golfo de California, del Pacífico y del Golfo de México.
+**Pendiente:** páginas 99, 100, 103 y 104.
 
 ---
 
@@ -355,4 +359,120 @@ No son de gran extensión, pero como diversos autores han considerado que estas 
 
 ---
 
-**Reactivos en este archivo:** 20
+## Sub-lote 5 · Islas alejadas del Pacífico
+
+### 21
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué archipiélago está formado por las islas San Benedicto, Socorro, Clarión y Roca Partida, todas pertenecientes al estado de Colima?
+
+- A. El archipiélago de las islas Marías
+- B. El archipiélago de Revillagigedo
+- C. El archipiélago del Norte
+- D. Las islas Tres Marietas
+
+**Respuesta:** B
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 102
+**Subtema:** islas · alejadas del Pacífico
+
+Como islas alejadas de la costa, en el seno del océano Pacífico, y que pertenecen a México, debe mencionarse el archipiélago de las islas Revillagigedo, formado por San Benedicto, Socorro, Clarión y Roca Partida, todas ellas pertenecientes al estado de Colima.
+
+> Éste es el pasaje que cita el ejemplo 3 del Anexo "H". En esta edición está en
+> la página **102**, no en la 91.
+
+### 22
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué otro nombre recibe la isla Roqueta, a la entrada del puerto de Acapulco?
+
+- A. Isla Grifo
+- B. Isla Tixib
+- C. Isla Sacrificios
+- D. Isla Frailes Hermanos
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 102
+**Subtema:** islas · alejadas del Pacífico
+
+En el estado de Jalisco destacan las islas Tres Marietas, Frailes Hermanos y, en Guerrero, por razones históricas, la Roqueta, o isla Grifo, a la entrada del puerto de Acapulco.
+
+---
+
+## Sub-lote 6 · Islas del Golfo de México
+
+### 23
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la más importante isla del Golfo de México?
+
+- A. La isla de Lobos
+- B. La isla Sacrificios
+- C. La isla Del Carmen
+- D. La isla Holbox
+
+**Respuesta:** C
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 102
+**Subtema:** islas · Golfo de México
+
+La más importante isla del Golfo de México es la Del Carmen, que cierra la Laguna de Términos y que antes de la Conquista se llamó *Tixib*.
+
+### 24
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cómo se llamaba antes de la Conquista la isla Del Carmen?
+
+- A. Tixib
+- B. Grifo
+- C. La Gallega
+- D. Holbox
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 102
+**Subtema:** islas · Golfo de México
+
+La más importante isla del Golfo de México es la Del Carmen, que cierra la Laguna de Términos y que antes de la Conquista se llamó *Tixib*.
+
+### 25
+
+De acuerdo con el libro de Geografía Moderna de México, ¿sobre qué arrecife se levanta el fuerte de San Juan de Ulúa?
+
+- A. Sobre el Arrecife de la Gallega
+- B. Sobre la isla Sacrificios
+- C. Sobre la isla de Lobos
+- D. Sobre el Arrecife Alacranes
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 102
+**Subtema:** islas · Golfo de México
+
+Las islas y arrecifes que rodean al puerto de Veracruz son: el Arrecife de la Gallega, donde se levanta el fuerte de San Juan de Ulúa, y la isla Sacrificios.
+
+### 26
+
+De acuerdo con el libro de Geografía Moderna de México, ¿por qué es conocida la isla Sacrificios?
+
+- A. Porque en ella se han establecido estaciones de cuarentena para personas y animales
+- B. Porque sobre ella se levanta el fuerte de San Juan de Ulúa
+- C. Porque cierra la Laguna de Términos
+- D. Porque es punto de referencia para la navegación entre Tampico y Veracruz
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 102
+**Subtema:** islas · Golfo de México
+
+La isla Sacrificios, que se distingue desde el puerto de Veracruz y es bastante conocida porque en ella se han establecido estaciones de cuarentena para personas y animales.
+
+### 27
+
+De acuerdo con el libro de Geografía Moderna de México, ¿por qué merece mención especial la isla de Lobos?
+
+- A. Por ser un punto de referencia para la navegación entre Tampico y Veracruz
+- B. Por sus estaciones de cuarentena
+- C. Por cerrar la Laguna de Términos
+- D. Por ser la de mayor superficie del Golfo
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 102
+**Subtema:** islas · Golfo de México
+
+Todas ellas son de pequeñas dimensiones y ninguna merece mención especial, aparte de la isla de Lobos por ser un punto de referencia para la navegación entre Tampico y Veracruz.
+
+---
+
+**Reactivos en este archivo:** 27
