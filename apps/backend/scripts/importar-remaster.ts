@@ -1,0 +1,350 @@
+/**
+ * Importa el banco remasterizado de personalidad (docs/personalidad-remaster/*.md)
+ * a la tabla Reactivo con banco="remaster".
+ *
+ * Uso:
+ *   npx ts-node scripts/importar-remaster.ts            → MODO PRUEBA (no escribe nada)
+ *   npx ts-node scripts/importar-remaster.ts --escribir → escribe a la base
+ *
+ * En modo prueba lee los 28 archivos, arma las filas, corre todas las validaciones
+ * y reporta los números. No toca la base de datos.
+ *
+ * El banco viejo (banco="v1") no se toca en ningún caso.
+ */
+
+import { PrismaClient, Polaridad, TipoTrampa } from '@prisma/client';
+import * as fs from 'fs';
+import * as path from 'path';
+
+const prisma = new PrismaClient();
+
+const DIR = path.resolve(__dirname, '../../../docs/personalidad-remaster');
+const BLOQUE_PERSONALIDAD = 6;
+const BANCO = 'remaster';
+const ESCRIBIR = process.argv.includes('--escribir');
+
+/**
+ * Eje → slug de tema. Los marcados con ⭐ en la conversación son los 6 que Carlo
+ * priorizó con peso=3 en TemaPrioridad; usar estos slugs cortos hace que ese peso
+ * sí aplique (con los slugs largos del banco viejo quedaban huérfanos).
+ */
+const TEMA_POR_EJE: Record<number, string> = {
+  1: 'suicidio',
+  2: 'depresion',
+  3: 'ansiedad',
+  4: 'manejo_emocional',
+  5: 'control_ira',
+  6: 'adicciones',
+  7: 'autoestima',
+  9: 'empatia',
+  10: 'disciplina',
+  11: 'liderazgo',
+  12: 'corrupcion',
+  13: 'liderazgo_autoritario',
+  14: 'autocuidado',
+  15: 'vinculos',
+  16: 'lealtad',
+  17: 'honor',
+  18: 'responsabilidad',
+  19: 'honestidad_integridad',
+  20: 'confianza',
+  21: 'autoridad_obediencia',
+  22: 'adaptabilidad',
+  23: 'estres_presion',
+  24: 'resiliencia',
+  25: 'influenciabilidad',
+  26: 'sociabilidad',
+  27: 'control_conductual',
+  28: 'valores_grupo',
+  29: 'valores_aplicados',
+};
+
+interface Fila {
+  eje: number;
+  subLote: number;
+  numeroEnEje: number;
+  enunciado: string;
+  polaridad: Polaridad | null;
+  parNumero: number | null;
+  tipoTrampa: TipoTrampa | null;
+  esCritico: boolean;
+  noPuntua: boolean;
+  subnota: string;
+  marco: string;
+  crossRef: string | null;
+  tema: string;
+  archivo: string;
+}
+
+/** Quita negritas y espacios para poder buscar texto en subnota/marco. */
+const limpio = (s: string) => s.replace(/\*\*/g, '').trim();
+
+function detectarTipoTrampa(subnota: string, marco: string): TipoTrampa | null {
+  const t = (subnota + ' ' + marco).toLowerCase();
+  if (/trampa-l\b/.test(t)) return TipoTrampa.L;
+  if (/trampa-k\b/.test(t)) return TipoTrampa.K;
+  if (/trampa-f\b/.test(t)) return TipoTrampa.F;
+  return null;
+}
+
+/** Extrae la referencia cruzada cruda, p. ej. "45 e17" o "44 e16 + 44 e20". */
+function detectarCrossRef(subnota: string, marco: string): string | null {
+  const texto = subnota + ' | ' + marco;
+  const m =
+    texto.match(/CROSS\s*↔\s*([^|]+)/i) ||
+    texto.match(/cross\s+vs\s+([^|·]+)/i) ||
+    texto.match(/receptor\s+cross\s+([^·|]+)/i);
+  return m ? limpio(m[1]).replace(/\s+/g, ' ').trim() : null;
+}
+
+function parsearArchivo(archivo: string): Fila[] {
+  const eje = parseInt(archivo.slice(0, 2), 10);
+  const tema = TEMA_POR_EJE[eje];
+  if (!tema) throw new Error(`Eje ${eje} (${archivo}) no tiene tema asignado en TEMA_POR_EJE`);
+
+  const filas: Fila[] = [];
+  let subLote = 0;
+
+  for (const linea of fs.readFileSync(path.join(DIR, archivo), 'utf8').split(/\r?\n/)) {
+    const h = linea.match(/^##\s*Sub-lote\s*(\d+)/i);
+    if (h) {
+      subLote = parseInt(h[1], 10);
+      continue;
+    }
+
+    // fila de reactivo: | 01 | enunciado | POS | 02 | subnota | marco |
+    const m = linea.match(/^\|\s*(\d{1,3})\s*\|([^|]+)\|([^|]+)\|([^|]+)\|([^|]*)\|([^|]*)\|/);
+    if (!m) continue;
+
+    const [, numRaw, enunRaw, polRaw, parRaw, subRaw, marcoRaw] = m;
+    const pol = limpio(polRaw).toUpperCase();
+    // descarta cabeceras y tablas que no son de reactivos (p. ej. la de sub-lotes del eje 29)
+    if (!['POS', 'NEG', 'TRAM', 'DESC'].includes(pol)) continue;
+    if (subLote === 0) continue;
+
+    const subnota = limpio(subRaw);
+    const marco = limpio(marcoRaw);
+    const parTxt = limpio(parRaw);
+
+    filas.push({
+      eje,
+      subLote,
+      numeroEnEje: parseInt(numRaw, 10),
+      enunciado: limpio(enunRaw),
+      polaridad:
+        pol === 'POS' ? Polaridad.POSITIVA
+        : pol === 'NEG' ? Polaridad.NEGATIVA
+        : pol === 'TRAM' ? Polaridad.TRAMPA
+        : null, // DESC no puntúa
+      parNumero: /^\d+$/.test(parTxt) ? parseInt(parTxt, 10) : null,
+      tipoTrampa: detectarTipoTrampa(subnota, marco),
+      esCritico: /CRÍTICO/i.test(subRaw),
+      noPuntua: pol === 'DESC',
+      subnota,
+      marco,
+      crossRef: detectarCrossRef(subnota, marco),
+      tema,
+      archivo,
+    });
+  }
+  return filas;
+}
+
+function validar(filas: Fila[]) {
+  const problemas: string[] = [];
+  const avisos: string[] = [];
+  const porEje = new Map<number, Fila[]>();
+  for (const f of filas) {
+    if (!porEje.has(f.eje)) porEje.set(f.eje, []);
+    porEje.get(f.eje)!.push(f);
+  }
+
+  // 1. numeración continua por eje
+  for (const [eje, fs_] of porEje) {
+    const nums = fs_.map((f) => f.numeroEnEje).sort((a, b) => a - b);
+    for (let i = 0; i < nums.length; i++) {
+      if (nums[i] !== i + 1) {
+        problemas.push(`eje ${eje}: numeración rota — se esperaba ${i + 1} y hay ${nums[i]}`);
+        break;
+      }
+    }
+  }
+
+  // 2. parejas recíprocas
+  for (const [eje, fs_] of porEje) {
+    const porNum = new Map(fs_.map((f) => [f.numeroEnEje, f]));
+    for (const f of fs_) {
+      if (f.parNumero === null) continue;
+      const pareja = porNum.get(f.parNumero);
+      if (!pareja) {
+        problemas.push(`eje ${eje} #${f.numeroEnEje}: apunta a la pareja ${f.parNumero} que no existe`);
+      } else if (pareja.parNumero !== f.numeroEnEje) {
+        problemas.push(`eje ${eje} #${f.numeroEnEje} ↔ ${f.parNumero}: la pareja no es recíproca`);
+      } else if (pareja.polaridad === f.polaridad && f.polaridad !== null) {
+        // No es error: en los ejes 1-7 la columna `par` también agrupa ANCLAS
+        // clínicas — dos reactivos de la misma polaridad que miden el mismo
+        // criterio en ventana temporal (p. ej. los dos ítems centrales del
+        // PHQ-9, o inicio temprano de alcohol y de otras sustancias).
+        // El analizador debe tratarlos como ancla, no como par de coherencia:
+        // se distinguen en tiempo de lectura porque comparten polaridad.
+        if (f.numeroEnEje < f.parNumero) {
+          avisos.push(`eje ${eje} #${f.numeroEnEje} ↔ ${f.parNumero}: ancla (ambos ${f.polaridad}), no par de coherencia`);
+        }
+      }
+    }
+  }
+
+  // 3. trampas sin tipo
+  for (const f of filas) {
+    if (f.polaridad === Polaridad.TRAMPA && !f.tipoTrampa) {
+      problemas.push(`eje ${f.eje} #${f.numeroEnEje}: es TRAMPA pero no se detectó tipo L/K/F`);
+    }
+  }
+
+  // 4. enunciados duplicados
+  const vistos = new Map<string, string>();
+  for (const f of filas) {
+    const k = f.enunciado.toLowerCase();
+    if (vistos.has(k)) problemas.push(`enunciado duplicado: "${f.enunciado.slice(0, 60)}…" (${vistos.get(k)} y e${f.eje}#${f.numeroEnEje})`);
+    else vistos.set(k, `e${f.eje}#${f.numeroEnEje}`);
+  }
+
+  // 5. enunciados vacíos o sospechosamente largos
+  for (const f of filas) {
+    if (!f.enunciado) problemas.push(`eje ${f.eje} #${f.numeroEnEje}: enunciado vacío`);
+    else if (f.enunciado.split(/\s+/).length > 30) problemas.push(`eje ${f.eje} #${f.numeroEnEje}: enunciado de ${f.enunciado.split(/\s+/).length} palabras`);
+  }
+
+  return { problemas, avisos };
+}
+
+async function main() {
+  console.log(ESCRIBIR ? '=== MODO ESCRITURA ===' : '=== MODO PRUEBA (no escribe nada) ===');
+  console.log('');
+
+  const archivos = fs.readdirSync(DIR).filter((f) => /^\d{2}-.*\.md$/.test(f)).sort();
+  const filas: Fila[] = [];
+  for (const a of archivos) filas.push(...parsearArchivo(a));
+
+  // ---- resumen por eje ----
+  const porEje = new Map<number, Fila[]>();
+  for (const f of filas) {
+    if (!porEje.has(f.eje)) porEje.set(f.eje, []);
+    porEje.get(f.eje)!.push(f);
+  }
+
+  console.log('eje  tema                     total   POS   NEG  TRAM  DESC  crít  pares  cross');
+  console.log('-'.repeat(82));
+  for (const eje of [...porEje.keys()].sort((a, b) => a - b)) {
+    const f = porEje.get(eje)!;
+    const c = (p: Polaridad | null) => f.filter((x) => x.polaridad === p).length;
+    console.log(
+      String(eje).padStart(3) + '  ' +
+      TEMA_POR_EJE[eje].padEnd(24) +
+      String(f.length).padStart(5) +
+      String(c(Polaridad.POSITIVA)).padStart(6) +
+      String(c(Polaridad.NEGATIVA)).padStart(6) +
+      String(c(Polaridad.TRAMPA)).padStart(6) +
+      String(f.filter((x) => x.noPuntua).length).padStart(6) +
+      String(f.filter((x) => x.esCritico).length).padStart(6) +
+      String(f.filter((x) => x.parNumero !== null).length / 2).padStart(7) +
+      String(f.filter((x) => x.crossRef).length).padStart(7),
+    );
+  }
+  console.log('-'.repeat(82));
+  const tot = (fn: (f: Fila) => boolean) => filas.filter(fn).length;
+  console.log(
+    'TOTAL'.padEnd(29) +
+    String(filas.length).padStart(5) +
+    String(tot((f) => f.polaridad === Polaridad.POSITIVA)).padStart(6) +
+    String(tot((f) => f.polaridad === Polaridad.NEGATIVA)).padStart(6) +
+    String(tot((f) => f.polaridad === Polaridad.TRAMPA)).padStart(6) +
+    String(tot((f) => f.noPuntua)).padStart(6) +
+    String(tot((f) => f.esCritico)).padStart(6) +
+    String(tot((f) => f.parNumero !== null) / 2).padStart(7) +
+    String(tot((f) => !!f.crossRef)).padStart(7),
+  );
+
+  console.log('');
+  console.log('trampas por tipo:',
+    'L=' + tot((f) => f.tipoTrampa === TipoTrampa.L),
+    'K=' + tot((f) => f.tipoTrampa === TipoTrampa.K),
+    'F=' + tot((f) => f.tipoTrampa === TipoTrampa.F));
+
+  // ---- validaciones ----
+  const { problemas, avisos } = validar(filas);
+  console.log('');
+  if (problemas.length === 0) {
+    console.log('✓ Validaciones: sin problemas');
+  } else {
+    console.log(`✗ Validaciones: ${problemas.length} problema(s)`);
+    problemas.slice(0, 30).forEach((p) => console.log('   - ' + p));
+    if (problemas.length > 30) console.log(`   … y ${problemas.length - 30} más`);
+  }
+  if (avisos.length > 0) {
+    console.log(`ℹ Avisos (no bloquean): ${avisos.length} ancla(s) detectada(s)`);
+    avisos.forEach((a) => console.log('   · ' + a));
+  }
+
+  // ---- estado de la base ----
+  const yaHay = await prisma.reactivo.count({ where: { banco: BANCO } });
+  const viejos = await prisma.reactivo.count({ where: { banco: 'v1' } });
+  console.log('');
+  console.log(`En la base ahora: ${viejos} reactivos v1, ${yaHay} reactivos remaster`);
+
+  if (!ESCRIBIR) {
+    console.log('');
+    console.log('Modo prueba: no se escribió nada. Para escribir:');
+    console.log('  npx ts-node scripts/importar-remaster.ts --escribir');
+    await prisma.$disconnect();
+    return;
+  }
+
+  if (problemas.length > 0) {
+    console.log('');
+    console.log('✗ Hay problemas de validación. No se escribe nada. Corrígelos y vuelve a correr.');
+    await prisma.$disconnect();
+    process.exit(1);
+  }
+
+  // ---- escritura ----
+  console.log('');
+  if (yaHay > 0) {
+    console.log(`Borrando ${yaHay} reactivos remaster previos (el banco v1 no se toca)...`);
+    await prisma.reactivo.deleteMany({ where: { banco: BANCO } });
+  }
+
+  console.log(`Insertando ${filas.length} reactivos...`);
+  await prisma.reactivo.createMany({
+    data: filas.map((f) => ({
+      bloqueId: BLOQUE_PERSONALIDAD,
+      enunciado: f.enunciado,
+      tipo: 'escala_likert', // etiqueta heredada del banco v1; las opciones reales son Sí/No
+      opciones: ['Sí', 'No'],
+      respuestaCorrecta: null,
+      tema: f.tema,
+      polaridad: f.polaridad,
+      banco: BANCO,
+      eje: f.eje,
+      subLote: f.subLote,
+      numeroEnEje: f.numeroEnEje,
+      parNumero: f.parNumero,
+      tipoTrampa: f.tipoTrampa,
+      esCritico: f.esCritico,
+      noPuntua: f.noPuntua,
+      subnota: f.subnota,
+      marco: f.marco,
+      crossRef: f.crossRef,
+    })),
+  });
+
+  const final = await prisma.reactivo.count({ where: { banco: BANCO } });
+  console.log(`✓ Listo: ${final} reactivos remaster en la base.`);
+  await prisma.$disconnect();
+}
+
+main().catch(async (e) => {
+  console.error(e);
+  await prisma.$disconnect();
+  process.exit(1);
+});

@@ -6,10 +6,12 @@
 generator client {
   provider = "prisma-client-js"
 }
+
 datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
+
 model Plantel {
   id                Int                    @id @default(autoincrement())
   nombre            String
@@ -27,6 +29,9 @@ model Usuario {
   sesiones          Sesion[]
   password          String
   nivelAcceso       String                 @default("gratuito")
+  /// Autorización dentro de la plataforma. "aspirante" (default) o "admin".
+  /// El RolesGuard del backend lee este campo para gatear rutas del panel admin.
+  rol               String                 @default("aspirante")
   emailVerificado   Boolean                @default(false)
   plantelId         Int?
   plantel           Plantel?               @relation(fields: [plantelId], references: [id])
@@ -45,47 +50,66 @@ model Sesion {
 }
 
 model Examen {
-  id             Int             @id @default(autoincrement())
-  tipo           String
-  nombre         String
-  duracionMin    Int
-  calificable    Boolean         @default(true)
-  bloques        Bloque[]
-  intentos       IntentoExamen[]
-  createdAt      DateTime        @default(now())
-  updatedAt      DateTime        @updatedAt
+  id          Int             @id @default(autoincrement())
+  tipo        String
+  nombre      String
+  duracionMin Int
+  calificable Boolean         @default(true)
+  bloques     Bloque[]
+  intentos    IntentoExamen[]
+  createdAt   DateTime        @default(now())
+  updatedAt   DateTime        @updatedAt
 }
 
 model Bloque {
-  id            Int        @id @default(autoincrement())
-  examenId      Int
-  examen        Examen     @relation(fields: [examenId], references: [id])
-  nombre        String
-  orden         Int
-  tiempoLimite  Int
-  reactivos     Reactivo[]
-  createdAt     DateTime   @default(now())
+  id           Int        @id @default(autoincrement())
+  examenId     Int
+  examen       Examen     @relation(fields: [examenId], references: [id])
+  nombre       String
+  orden        Int
+  tiempoLimite Int
+  reactivos    Reactivo[]
+  createdAt    DateTime   @default(now())
 }
 
 model Reactivo {
-  id                Int        @id @default(autoincrement())
+  id                Int                 @id @default(autoincrement())
   bloqueId          Int
-  bloque            Bloque     @relation(fields: [bloqueId], references: [id])
+  bloque            Bloque              @relation(fields: [bloqueId], references: [id])
   enunciado         String
-  tipo              String     @default("opcion_multiple")
+  tipo              String              @default("opcion_multiple")
   opciones          Json
   respuestaCorrecta String?
   explicacion       String?
   tema              String?
   polaridad         Polaridad?
+  banco             String              @default("v1")
+  eje               Int?
+  subLote           Int?
+  numeroEnEje       Int?
+  parNumero         Int?
+  tipoTrampa        TipoTrampa?
+  esCritico         Boolean             @default(false)
+  noPuntua          Boolean             @default(false)
+  subnota           String?
+  marco             String?
+  crossRef          String?
   imagenUrl         String?
   respuestas        RespuestaReactivo[]
-  createdAt         DateTime   @default(now())
+  createdAt         DateTime            @default(now())
 }
 
 enum Polaridad {
   POSITIVA
   NEGATIVA
+  TRAMPA
+}
+
+enum TipoTrampa {
+  L
+  K
+  F
+  CROSS
 }
 
 enum EstadoSesion {
@@ -102,45 +126,45 @@ enum EstadoIntento {
 }
 
 model SesionExamenCompleto {
-  id          Int             @id @default(autoincrement())
-  usuarioId   Int
-  usuario     Usuario         @relation(fields: [usuarioId], references: [id])
-  plantelId   Int
-  plantel     Plantel         @relation(fields: [plantelId], references: [id])
-  inicioAt    DateTime        @default(now())
-  finAt       DateTime?
-  estado      EstadoSesion    @default(EN_PROGRESO)
-  intentos    IntentoExamen[]
-  createdAt   DateTime        @default(now())
-  updatedAt   DateTime        @updatedAt
+  id        Int             @id @default(autoincrement())
+  usuarioId Int
+  usuario   Usuario         @relation(fields: [usuarioId], references: [id])
+  plantelId Int
+  plantel   Plantel         @relation(fields: [plantelId], references: [id])
+  inicioAt  DateTime        @default(now())
+  finAt     DateTime?
+  estado    EstadoSesion    @default(EN_PROGRESO)
+  intentos  IntentoExamen[]
+  createdAt DateTime        @default(now())
+  updatedAt DateTime        @updatedAt
 }
 
 model IntentoExamen {
-  id                Int                    @id @default(autoincrement())
-  usuarioId         Int
-  usuario           Usuario                @relation(fields: [usuarioId], references: [id])
-  examenId          Int
-  examen            Examen                 @relation(fields: [examenId], references: [id])
-  sesionCompletoId  Int?
-  sesionCompleto    SesionExamenCompleto?  @relation(fields: [sesionCompletoId], references: [id])
-  inicioAt          DateTime               @default(now())
-  finAt             DateTime?
-  estado            EstadoIntento          @default(EN_PROGRESO)
-  respuestas        RespuestaReactivo[]
-  createdAt         DateTime               @default(now())
-  updatedAt         DateTime               @updatedAt
+  id               Int                   @id @default(autoincrement())
+  usuarioId        Int
+  usuario          Usuario               @relation(fields: [usuarioId], references: [id])
+  examenId         Int
+  examen           Examen                @relation(fields: [examenId], references: [id])
+  sesionCompletoId Int?
+  sesionCompleto   SesionExamenCompleto? @relation(fields: [sesionCompletoId], references: [id])
+  inicioAt         DateTime              @default(now())
+  finAt            DateTime?
+  estado           EstadoIntento         @default(EN_PROGRESO)
+  respuestas       RespuestaReactivo[]
+  createdAt        DateTime              @default(now())
+  updatedAt        DateTime              @updatedAt
 }
 
 model RespuestaReactivo {
-  id                    Int            @id @default(autoincrement())
+  id                    Int           @id @default(autoincrement())
   intentoExamenId       Int
-  intentoExamen         IntentoExamen  @relation(fields: [intentoExamenId], references: [id])
+  intentoExamen         IntentoExamen @relation(fields: [intentoExamenId], references: [id])
   reactivoId            Int
-  reactivo              Reactivo       @relation(fields: [reactivoId], references: [id])
+  reactivo              Reactivo      @relation(fields: [reactivoId], references: [id])
   respuestaSeleccionada String
   esCorrecta            Boolean?
   respondidoEnMs        Int
-  createdAt             DateTime       @default(now())
+  createdAt             DateTime      @default(now())
 }
 
 /**
