@@ -47,14 +47,15 @@ reactivos de cita literal.
 (páginas 221–226).
 
 **Apartado "Principales acontecimientos de nuestros días", en curso**
-(páginas 238–267). Cubiertas las páginas 238–251. Las páginas 242 y 245 son los
-mapas 25 y 26: sin texto del que salgan reactivos de cita literal. La 249 es casi
-toda la figura 59 y sólo aporta el párrafo que cierra la oración de la 248.
+(páginas 238–267). Cubiertas las páginas 238–254. Las páginas 242, 245, 253 y 255
+son los mapas 25 a 28: sin texto del que salgan reactivos de cita literal. La 249
+es casi toda la figura 59 y sólo aporta el párrafo que cierra la oración de la 248.
 
-Dentro del apartado ya cerró el conflicto del Golfo Pérsico y va "El fin del
-bloque socialista europeo" hasta los aspectos de la *Perestroika*.
+Dentro del apartado ya cerraron el conflicto del Golfo Pérsico y "El fin del
+bloque socialista europeo", éste hasta la desintegración de la URSS y el
+surgimiento de la Comunidad de Estados Independientes.
 
-**Pendiente:** acontecimientos de nuestros días de la 252 en adelante, y la
+**Pendiente:** acontecimientos de nuestros días de la 256 en adelante, y la
 llegada del siglo XXI (268–279).
 
 ## Erratas del libro
@@ -3994,4 +3995,537 @@ Eliminar la absorción de todos los cargos de gobierno por un solo organismo pol
 
 ---
 
-**Reactivos en este archivo:** 251
+## Sub-lote 26 · Política exterior y acontecimientos derivados
+
+### 252
+
+De acuerdo con el libro de Historia Universal, al descentralizar las actividades políticas del Estado, ¿qué sistema se implementaría?
+
+- A. Un sistema presidencialista
+- B. Un sistema parlamentario
+- C. Un sistema federal
+- D. Un sistema de partido único
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Perestroika
+
+Descentralizar las actividades políticas del Estado, implementando un sistema presidencialista.
+
+### 253
+
+De acuerdo con el libro de Historia Universal, al reestructurar el pacto federal, ¿qué se propiciaba y qué se establecía?
+
+- A. La mayor autonomía de las repúblicas y un mando único de las fuerzas armadas
+- B. La disolución de las repúblicas y un mando colegiado de las fuerzas armadas
+- C. La autonomía de las repúblicas y la disolución de las fuerzas armadas
+- D. Un sistema presidencialista y la privatización de las empresas estatales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Perestroika
+
+Reestructurar el pacto federal, propiciando la mayor autonomía de las repúblicas y estableciendo un mando único de las fuerzas armadas.
+
+### 254
+
+De acuerdo con el libro de Historia Universal, entre las acciones políticas, ¿qué liberación se contemplaba?
+
+- A. La de las personas encarceladas por disentir con el sistema
+- B. La de las empresas estatales
+- C. La de los precios de los productos
+- D. La de las Repúblicas Bálticas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Perestroika
+
+Liberación de personas encarceladas por disentir con el sistema.
+
+### 255
+
+De acuerdo con el libro de Historia Universal, para superar las contradicciones entre el debilitamiento económico y el enorme potencial bélico, ¿qué era necesario?
+
+- A. Reducir el aparato militar y suprimir los financiamientos de este tipo hacia el exterior
+- B. Incrementar la producción de la industria pesada
+- C. Mantener las subvenciones a los países de la Europa del Este
+- D. Consolidar la economía estatal rusa
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Política exterior
+
+Para lograr todos los aspectos señalados y superar las contradicciones entre el debilitamiento económico y el enorme potencial bélico, era necesario reducir el aparato militar y suprimir los financiamientos de este tipo hacia el exterior.
+
+### 256
+
+De acuerdo con el libro de Historia Universal, ¿con qué finalidad se promovían medidas tendientes a reconciliarse con las potencias occidentales e incorporarse al mundo capitalista?
+
+- A. Con la finalidad de equilibrar su economía
+- B. Con la finalidad de reducir el aparato militar
+- C. Con la finalidad de promover un nuevo orden internacional
+- D. Con la finalidad de retirar las tropas de la Europa del Este
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Política exterior
+
+Promoviendo medidas tendientes a reconciliarse con las potencias occidentales e incorporarse al mundo capitalista, con la finalidad de equilibrar su economía.
+
+### 257
+
+De acuerdo con el libro de Historia Universal, ¿qué acuerdo destacó que se firmaría con Estados Unidos?
+
+- A. Un acuerdo para el desarme nuclear estratégico
+- B. Un acuerdo para el retiro de tropas de la Europa del Este
+- C. Un acuerdo para el establecimiento de la inversión extranjera
+- D. Un acuerdo para la promoción de un nuevo orden internacional
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Política exterior
+
+Firma con Estados Unidos de un acuerdo para el desarme nuclear estratégico.
+
+### 258
+
+De acuerdo con el libro de Historia Universal, ¿qué permitiría reducir significativamente los gastos militares?
+
+- A. El retiro de tropas de la Europa del Este
+- B. El desarme nuclear estratégico
+- C. La reconciliación con las potencias occidentales
+- D. La disolución del Pacto de Varsovia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Política exterior
+
+Reducir significativamente gastos militares, lo que permitiría el retiro de tropas de Europa del Este.
+
+### 259
+
+De acuerdo con el libro de Historia Universal, en la promoción de un nuevo orden internacional, ¿quién desempeñará el papel dirigente?
+
+- A. La ONU
+- B. La Comunidad de Estados Independientes
+- C. Estados Unidos
+- D. La Federación Rusa
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Política exterior
+
+La promoción de un nuevo orden internacional, cuyo papel dirigente lo desempeñará la ONU.
+
+### 260
+
+De acuerdo con el libro de Historia Universal, ¿qué aprobó el Soviet Supremo en 1987?
+
+- A. La ley de la Empresa Socialista
+- B. El Tratado de Minsk
+- C. El retiro de los ejércitos de Afganistán
+- D. La proscripción del Partido Comunista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Acontecimientos derivados
+
+En 1987, el Soviet Supremo aprobó la ley de la Empresa Socialista, con la finalidad de promover la competitividad de las empresas del Estado.
+
+### 261
+
+De acuerdo con el libro de Historia Universal, ¿con qué finalidad se aprobó la ley de la Empresa Socialista?
+
+- A. Promover la competitividad de las empresas del Estado
+- B. Privatizar las empresas del Estado
+- C. Establecer la inversión extranjera
+- D. Descentralizar la agricultura
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Acontecimientos derivados
+
+En 1987, el Soviet Supremo aprobó la ley de la Empresa Socialista, con la finalidad de promover la competitividad de las empresas del Estado.
+
+### 262
+
+De acuerdo con el libro de Historia Universal, ¿qué se firmó con Estados Unidos en 1987?
+
+- A. Un primer tratado para eliminar armas nucleares de corto y mediano alcance
+- B. Un acuerdo para el desarme nuclear estratégico
+- C. El Tratado de Alma-Ata
+- D. El Tratado de Minsk
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Acontecimientos derivados
+
+En ese mismo año, se firmó con Estados Unidos un primer tratado para eliminar armas nucleares de corto y mediano alcance.
+
+### 263
+
+De acuerdo con el libro de Historia Universal, ¿qué se anunció en 1988?
+
+- A. El retiro de los ejércitos de Afganistán
+- B. La aprobación de la ley de la Empresa Socialista
+- C. La celebración de las primeras elecciones libres
+- D. La disolución del Pacto de Varsovia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Acontecimientos derivados
+
+En 1988, se anunció el retiro de los ejércitos de Afganistán.
+
+### 264
+
+De acuerdo con el libro de Historia Universal, un año más tarde, ¿qué primeros pasos se dieron y qué se celebró?
+
+- A. Los primeros pasos para descentralizar la agricultura y las primeras elecciones libres
+- B. Los primeros pasos para privatizar la industria y las primeras elecciones libres
+- C. Los primeros pasos para el desarme nuclear y la reunificación de Alemania
+- D. Los primeros pasos para disolver el Pacto de Varsovia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Acontecimientos derivados
+
+Un año más tarde, se dieron los primeros pasos para descentralizar la agricultura y se celebraron las primeras elecciones libres, con la participación de varios partidos.
+
+### 265
+
+De acuerdo con el libro de Historia Universal, ¿qué países se vieron envueltos en revoluciones populares en 1989?
+
+- A. Polonia, Hungría, Alemania Democrática, Bulgaria, Checoslovaquia y Rumania
+- B. Polonia, Hungría, Yugoslavia, Bulgaria, Checoslovaquia y Rumania
+- C. Polonia, Hungría, Alemania Democrática, Albania, Checoslovaquia y Rumania
+- D. Polonia, Ucrania, Alemania Democrática, Bulgaria, Checoslovaquia y Rumania
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Caída de los regímenes
+
+En 1989, Polonia, Hungría, Alemania Democrática, Bulgaria, Checoslovaquia y Rumania se vieron envueltas en revoluciones populares que provocaron el derrocamiento de sus gobiernos y la disolución de los partidos comunistas.
+
+### 266
+
+De acuerdo con el libro de Historia Universal, ¿qué provocaron esas revoluciones populares?
+
+- A. El derrocamiento de sus gobiernos y la disolución de los partidos comunistas
+- B. La anulación del Pacto Ribbentrop Molotov
+- C. La creación de la Comunidad de Estados Independientes
+- D. La proscripción del Partido Comunista soviético
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Caída de los regímenes
+
+Se vieron envueltas en revoluciones populares que provocaron el derrocamiento de sus gobiernos y la disolución de los partidos comunistas.
+
+### 267
+
+De acuerdo con el libro de Historia Universal, ¿cuánto tiempo después de la desaparición del muro de Berlín se reunificó Alemania?
+
+- A. Un año después
+- B. Dos años después
+- C. El mismo año
+- D. Tres años después
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Caída de los regímenes
+
+Ese mismo año, desapareció el muro de Berlín, Alemania se reunificó un año después y el Pacto de Varsovia dejó de cumplir su función.
+
+### 268
+
+De acuerdo con el libro de Historia Universal, ¿por qué dejó de cumplir su función el Pacto de Varsovia?
+
+- A. Porque era una alianza militar signada por países con regímenes socialistas y éstos de hecho ya no existen
+- B. Porque la Unión Soviética retiró sus tropas de la Europa del Este
+- C. Porque se firmó el acuerdo para el desarme nuclear estratégico
+- D. Porque fue sustituido por la Comunidad de Estados Independientes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 252
+**Subtema:** Fin del bloque socialista europeo · Caída de los regímenes
+
+El Pacto de Varsovia dejó de cumplir su función, ya que era una alianza militar signada por países con regímenes socialistas y éstos de hecho ya no existen.
+
+---
+
+## Sub-lote 27 · La desintegración de la Unión Soviética
+
+### 269
+
+De acuerdo con el libro de Historia Universal, ¿quiénes dieron el primer paso en el proceso de desintegración de la Unión Soviética?
+
+- A. Las Repúblicas Bálticas
+- B. La Federación Rusa
+- C. Rusia, Ucrania y Bielorrusia
+- D. Moldova, Ucrania y Turkmenia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Desintegración de la URSS
+
+Los efectos de la *Perestroika* fueron tan trascendentes que la propia Unión Soviética desembocó en un proceso de desintegración. El primer paso lo dieron las Repúblicas Bálticas.
+
+### 270
+
+De acuerdo con el libro de Historia Universal, ¿qué exigieron las Repúblicas Bálticas?
+
+- A. La anulación del Pacto Ribbentrop Molotov
+- B. La disolución del Pacto de Varsovia
+- C. La anulación del Tratado de Minsk
+- D. La formación de un Comité Estatal de Emergencia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Desintegración de la URSS
+
+El primer paso lo dieron las Repúblicas Bálticas, al exigir la anulación del Pacto Ribbentrop Molotov, con el que la URSS se las había anexado en 1939.
+
+### 271
+
+De acuerdo con el libro de Historia Universal, ¿en qué año se había anexado la URSS a las Repúblicas Bálticas mediante ese pacto?
+
+- A. En 1939
+- B. En 1945
+- C. En 1922
+- D. En 1955
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Desintegración de la URSS
+
+Al exigir la anulación del Pacto Ribbentrop Molotov, con el que la URSS se las había anexado en 1939.
+
+### 272
+
+De acuerdo con el libro de Historia Universal, ¿cuándo les fue reconocida la independencia a Lituania y cuándo a Estonia y Letonia?
+
+- A. A Lituania en marzo de 1990, y a Estonia y Letonia en agosto de 1991
+- B. A Lituania en agosto de 1991, y a Estonia y Letonia en marzo de 1990
+- C. A las tres en agosto de 1991
+- D. A las tres en marzo de 1990
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Desintegración de la URSS
+
+Por lo que les fue reconocida su independencia: a Lituania, en marzo de 1990, y a Estonia y Letonia en agosto de 1991.
+
+### 273
+
+De acuerdo con el libro de Historia Universal, ¿por qué se pronunció el gobierno de la Federación Rusa, sede del poder soviético?
+
+- A. Por la disolución del sistema socialista, a efecto de sustituirlo por uno de tipo capitalista
+- B. Por la creación de la Comunidad de Estados Independientes
+- C. Por la anulación del Pacto Ribbentrop Molotov
+- D. Por la formación de un Comité Estatal de Emergencia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Desintegración de la URSS
+
+El gobierno de la Federación Rusa, sede del poder soviético, también se pronunció por la disolución del sistema socialista, a efecto de sustituirlo por uno de tipo capitalista.
+
+### 274
+
+De acuerdo con el libro de Historia Universal, ¿qué acontecimiento precipitó el desmembramiento de la Unión Soviética?
+
+- A. El intento de golpe de Estado que se efectuó el 18 de agosto de 1991
+- B. La renuncia de Gorbachov, el 25 de diciembre de 1991
+- C. La firma del Tratado de Minsk
+- D. La desaparición del muro de Berlín
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Desintegración de la URSS
+
+Un acontecimiento que precipitó el desmembramiento fue el intento de golpe de Estado que se efectuó el 18 de agosto de 1991.
+
+### 275
+
+De acuerdo con el libro de Historia Universal, ¿quién comandó a los dirigentes conservadores que organizaron el intento de golpe de Estado?
+
+- A. El vicepresidente del partido Guennadi Yanayev
+- B. Boris Yeltsin, jefe de gobierno en la Federación Rusa
+- C. Mijail Gorbachov
+- D. Konstantin Chernenco
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Desintegración de la URSS
+
+Organizado por dirigentes conservadores comandados por el vicepresidente del partido Guennadi Yanayev.
+
+### 276
+
+De acuerdo con el libro de Historia Universal, ¿qué pretendió formar Guennadi Yanayev?
+
+- A. Un Comité Estatal de Emergencia
+- B. La Comunidad de Estados Independientes
+- C. Un Consejo de Comando de la Revolución
+- D. Un nuevo tratado de la Unión
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Desintegración de la URSS
+
+Comandados por el vicepresidente del partido Guennadi Yanayev, quien pretendió formar un Comité Estatal de Emergencia.
+
+### 277
+
+De acuerdo con el libro de Historia Universal, ¿quién encabezó al pueblo que no permitió que la intentona fructificara?
+
+- A. Boris Yeltsin, jefe de gobierno en la Federación Rusa
+- B. Mijail Gorbachov
+- C. Guennadi Yanayev
+- D. El Soviet Supremo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Desintegración de la URSS
+
+Pero el pueblo, encabezado por Boris Yeltsin, jefe de gobierno en la Federación Rusa, no permitió que la intentona fructificara.
+
+### 278
+
+De acuerdo con el libro de Historia Universal, ¿qué ocurrió como consecuencia de esa acción?
+
+- A. Se proscribió el Partido Comunista
+- B. Se disolvió el Pacto de Varsovia
+- C. Se firmó el Tratado de Alma-Ata
+- D. Renunció Mijail Gorbachov
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Desintegración de la URSS
+
+Como consecuencia de esta acción, se proscribió el Partido Comunista.
+
+### 279
+
+De acuerdo con el libro de Historia Universal, ¿qué repúblicas firmaron, el 4 de diciembre de 1991, el tratado para establecer la Comunidad de Estados Independientes?
+
+- A. Rusia, Ucrania y Bielorrusia
+- B. Rusia, Ucrania y Moldova
+- C. Rusia, Bielorrusia y Georgia
+- D. Rusia, Ucrania y Kazajastán
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Comunidad de Estados Independientes
+
+Las Repúblicas de Rusia, Ucrania y Bielorrusia firmaron, el 4 de diciembre de 1991, un tratado para establecer la Comunidad de Estados Independientes, conocido como el Tratado de Minsk.
+
+### 280
+
+De acuerdo con el libro de Historia Universal, ¿cómo se conoce el tratado firmado el 4 de diciembre de 1991?
+
+- A. Como el Tratado de Minsk
+- B. Como el Tratado de Alma-Ata
+- C. Como el Pacto Ribbentrop Molotov
+- D. Como el nuevo tratado de la Unión
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Comunidad de Estados Independientes
+
+Un tratado para establecer la Comunidad de Estados Independientes, conocido como el Tratado de Minsk.
+
+### 281
+
+De acuerdo con el libro de Historia Universal, ¿cuántas repúblicas se unieron a la comunidad mediante el Tratado de Alma-Ata y en qué fecha?
+
+- A. Otras ocho, el 21 de diciembre del mismo año
+- B. Otras once, el 21 de diciembre del mismo año
+- C. Otras ocho, el 4 de diciembre del mismo año
+- D. Otras tres, el 25 de diciembre del mismo año
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Comunidad de Estados Independientes
+
+A esta comunidad se unieron otras ocho repúblicas mediante el Tratado de Alma-Ata, el 21 de diciembre del mismo año.
+
+### 282
+
+De acuerdo con el libro de Historia Universal, ¿qué reconoció el Tratado de Alma-Ata y qué quedó pendiente?
+
+- A. Reconoció a los tres países bálticos como independientes y quedó pendiente la incorporación de Georgia
+- B. Reconoció la independencia de Georgia y quedó pendiente la de los países bálticos
+- C. Reconoció la disolución del Partido Comunista y quedó pendiente el desarme nuclear
+- D. Reconoció a Rusia como sede del poder y quedó pendiente la incorporación de Ucrania
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Comunidad de Estados Independientes
+
+Reconociendo a los tres países bálticos como independientes, quedando pendiente la incorporación de Georgia a la Unión.
+
+### 283
+
+De acuerdo con el libro de Historia Universal, ¿en qué fecha presentó Mijail Gorbachov su renuncia?
+
+- A. El 25 de diciembre de 1991
+- B. El 21 de diciembre de 1991
+- C. El 4 de diciembre de 1991
+- D. El 18 de agosto de 1991
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Comunidad de Estados Independientes
+
+Ante esto, Mijail Gorbachov presentó su renuncia el 25 de diciembre de 1991.
+
+### 284
+
+De acuerdo con el libro de Historia Universal, ¿qué ocurrió oficialmente con la renuncia de Gorbachov?
+
+- A. Dejó de existir la Unión de Repúblicas Soviéticas Socialistas y surgió la Comunidad de Estados Independientes
+- B. Se proscribió el Partido Comunista
+- C. Se disolvió el Pacto de Varsovia
+- D. Se anuló el Pacto Ribbentrop Molotov
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Comunidad de Estados Independientes
+
+Presentó su renuncia el 25 de diciembre de 1991, con lo que oficialmente dejó de existir la Unión de Repúblicas Soviéticas Socialistas y surgió la Comunidad de Estados Independientes.
+
+### 285
+
+De acuerdo con el libro de Historia Universal, ¿qué problemas le quedan por resolver a la nueva Comunidad de Estados Independientes?
+
+- A. Control de armas nucleares, solución de conflictos interétnicos, religiosos y superar la miseria
+- B. La reunificación de Alemania y el retiro de tropas de la Europa del Este
+- C. La descentralización de la agricultura y la privatización de las empresas
+- D. La incorporación de Georgia y el reconocimiento de los países bálticos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Comunidad de Estados Independientes
+
+A la nueva Comunidad de Estados Independientes le quedan por resolver muchos problemas: control de armas nucleares, solución de conflictos interétnicos, religiosos y, sobre todo, superar la miseria en que se encuentra la inmensa mayoría de la población.
+
+### 286
+
+De acuerdo con el libro de Historia Universal, ¿qué se puede concluir sobre los ideales socialistas?
+
+- A. Que entusiasmaron a varias generaciones de hombres y mujeres en todas partes del mundo
+- B. Que fracasaron definitivamente como proyecto de sociedad
+- C. Que sólo entusiasmaron a los países de la Europa del Este
+- D. Que determinaron la muerte del proyecto socialista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 254
+**Subtema:** Fin del bloque socialista europeo · Comunidad de Estados Independientes
+
+Se puede concluir que los ideales socialistas entusiasmaron a varias generaciones de hombres y mujeres en todas partes del mundo. Este proyecto se constituyó en una etapa trascendental de la historia universal.
+
+---
+
+**Reactivos en este archivo:** 286
