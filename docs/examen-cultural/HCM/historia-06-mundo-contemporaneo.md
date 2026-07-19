@@ -43,9 +43,11 @@ no se calcularon.
 217 y 219 son los mapas 18 a 22 y la 213 el mapa 20: sin texto del que salgan
 reactivos de cita literal.
 
-**Pendiente:** los tres apartados restantes del temario — organizaciones
-internacionales (221–226), acontecimientos de nuestros días (238–267) y la
-llegada del siglo XXI (268–279).
+**Apartado "Las grandes organizaciones internacionales" completo**
+(páginas 221–226).
+
+**Pendiente:** acontecimientos de nuestros días (238–267) y la llegada del
+siglo XXI (268–279).
 
 ## Erratas del libro
 
@@ -59,6 +61,11 @@ si el examen real la corrige.
 | Pág. 212 | presidente *Traman* | Truman |
 | Pág. 218, pie de figura 51 | David Ben *Curión* | Ben Gurión (así en el cuerpo) |
 | Pág. 219, pie del mapa 22 | Plan de *participación* | Plan de Partición (así en el cuerpo) |
+| Pág. 223 | *Koffi* Annan, *Uthant* | Kofi Annan, U Thant |
+
+También hay una cifra que el propio libro da doble: la Carta la firmaron
+"50 países" (Pág. 221) pero la ONU "fue creada por 51 países" (Pág. 222). No es
+errata de transcripción sino del libro; el reactivo 77 cita ambas y lo advierte.
 
 Criterio acordado con Carlo: cuando el cuerpo del texto y un pie de figura
 discrepan, manda el cuerpo.
@@ -1146,4 +1153,508 @@ Los ejércitos de Egipto y Siria se unieron para planear un ataque sorpresa, mis
 
 ---
 
-**Reactivos en este archivo:** 69
+## Sub-lote 10 · Cierre del Medio Oriente (pág. 221)
+
+### 70
+
+De acuerdo con el libro de Historia Universal, ¿qué gobierno propuso una iniciativa de paz a Israel en 1977?
+
+- A. El gobierno egipcio de Anuar el Sadat
+- B. El gobierno de Yasser Arafat
+- C. El gobierno de David Ben Gurión
+- D. El gobierno de Gamal Abdel Nasser
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 221
+**Subtema:** La Guerra Fría · Medio Oriente
+
+El gobierno egipcio de Anuar el Sadat propuso una iniciativa de paz a Israel en 1977, proposición resultante del alto costo de mantener un ejército y de la preocupación por recuperar sus pozos petroleros del Sinaí.
+
+### 71
+
+De acuerdo con el libro de Historia Universal, ¿en qué acuerdos culminaron las negociaciones entre Israel y Egipto, con Estados Unidos como intermediario?
+
+- A. En los Acuerdos de Campo David
+- B. En los Acuerdos de París
+- C. En la Conferencia de Madrid
+- D. En la resolución 242
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 221
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Estas negociaciones culminaron con los Acuerdos de Campo David, en donde Estados Unidos fungió como intermediario entre Israel y Egipto, país al que se le restituyeron los territorios del Sinaí.
+
+### 72
+
+De acuerdo con el libro de Historia Universal, ¿en qué año se creó la Organización para la Liberación de Palestina (OLP) y quién la dirigía?
+
+- A. En 1964, dirigida por Yasser Arafat
+- B. En 1948, dirigida por Yasser Arafat
+- C. En 1964, dirigida por Anuar el Sadat
+- D. En 1987, dirigida por Yasser Arafat
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 221
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Desde la creación de la Organización para la Liberación de Palestina (OLP) en 1964, dirigida por Yasser Arafat, han desarrollado una continua guerrilla contra Israel.
+
+### 73
+
+De acuerdo con el libro de Historia Universal, ¿cómo se le llama a la "revolución con piedras" surgida en 1987?
+
+- A. Intifada
+- B. Yom Kipur
+- C. Guerra de los Seis Días
+- D. Guerra del Suez
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 221
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Llegando a su punto más álgido con la sublevación general de los habitantes de la Franja de Gaza y Cisjordania, mediante la "revolución con piedras" (Intifada) surgida en 1987.
+
+---
+
+## Sub-lote 11 · La Organización de las Naciones Unidas
+
+### 74
+
+De acuerdo con el libro de Historia Universal, ¿dónde y cuándo se convocó la reunión en la que se redactó la Carta que dispuso la fundación de la ONU?
+
+- A. En abril de 1945, en San Francisco
+- B. En octubre de 1945, en Nueva York
+- C. En abril de 1949, en Washington
+- D. En mayo de 1948, en Bogotá
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 221
+**Subtema:** Organizaciones internacionales · ONU
+
+La reunión más importante para tal fin fue convocada en abril de 1945, en San Francisco, en donde se redactó una Carta que dispuso la fundación de la Organización de las Naciones Unidas (ONU).
+
+### 75
+
+De acuerdo con el libro de Historia Universal, ¿qué países acordaron las propuestas en que tuvo su origen la Carta de la ONU?
+
+- A. Estados Unidos, la Unión Soviética, Inglaterra, Francia y China
+- B. Estados Unidos, Gran Bretaña, Francia, Canadá y China
+- C. Estados Unidos, la Unión Soviética, Alemania, Francia e Inglaterra
+- D. Estados Unidos, Inglaterra, Francia, Italia y China
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 221
+**Subtema:** Organizaciones internacionales · ONU
+
+La Carta de la ONU tuvo su origen en las propuestas que acordaron Estados Unidos, la Unión Soviética, Inglaterra, Francia y China y fue firmada originalmente por los delegados de 50 países.
+
+### 76
+
+De acuerdo con el libro de Historia Universal, ¿en qué fecha quedó oficialmente constituida la ONU?
+
+- A. El 24 de octubre de 1945
+- B. En abril de 1945
+- C. El 14 de mayo de 1955
+- D. En mayo de 1948
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 221
+**Subtema:** Organizaciones internacionales · ONU
+
+La ONU quedó oficialmente constituida el 24 de octubre de 1945, comprometiéndose a mantener la paz, la seguridad internacional y a cooperar en el establecimiento de las condiciones políticas y económicas para lograrlo.
+
+### 77
+
+De acuerdo con el libro de Historia Universal, ¿por cuántos países fue creada la ONU y con cuántos miembros cuenta en la actualidad?
+
+- A. Fue creada por 51 países y cuenta con 193 miembros
+- B. Fue creada por 50 países y cuenta con 193 miembros
+- C. Fue creada por 51 países y cuenta con 150 miembros
+- D. Fue creada por 45 países y cuenta con 193 miembros
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 222
+**Subtema:** Organizaciones internacionales · ONU
+
+La ONU fue creada por 51 países y en la actualidad cuenta con 193 miembros. La Carta no autoriza a la organización a intervenir en asuntos de la jurisdicción interna de las naciones.
+
+> El libro dice que la Carta la firmaron originalmente **50 delegaciones**
+> (Pág. 221) y que la ONU fue creada por **51 países** (Pág. 222). Las dos
+> cifras están en el libro y se citan tal cual.
+
+### 78
+
+De acuerdo con el libro de Historia Universal, ¿cuáles son los idiomas oficiales de la ONU?
+
+- A. Chino, español, francés, inglés y ruso, además del árabe como idioma de trabajo
+- B. Chino, español, francés, inglés, ruso y árabe, todos oficiales
+- C. Español, francés, inglés y ruso
+- D. Inglés, francés y español
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 222
+**Subtema:** Organizaciones internacionales · ONU
+
+Los idiomas oficiales de la ONU son: chino, español, francés, inglés, ruso y, además, el árabe como idioma de trabajo. Su sede se ubica en la ciudad de Nueva York.
+
+### 79
+
+De acuerdo con el libro de Historia Universal, ¿qué países son miembros permanentes del Consejo de Seguridad de la ONU?
+
+- A. Estados Unidos, Gran Bretaña, la Unión Soviética, Francia y China
+- B. Estados Unidos, Gran Bretaña, Alemania, Francia y China
+- C. Estados Unidos, la Unión Soviética, Francia, China y Japón
+- D. Estados Unidos, Gran Bretaña, la Unión Soviética, Francia e Italia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 222
+**Subtema:** Organizaciones internacionales · ONU
+
+Un Consejo de Seguridad, formado por Estados Unidos, Gran Bretaña, la Unión Soviética, Francia y China como miembros permanentes, complementado por 10 miembros alternos, que son renovados cada dos años —la mitad cada año— por la Asamblea General.
+
+### 80
+
+De acuerdo con el libro de Historia Universal, ¿cómo se conoce también a la Corte Internacional de Justicia, principal órgano jurídico de la ONU?
+
+- A. Como la Corte de la Haya
+- B. Como el Consejo de Administración Fiduciaria
+- C. Como el Consejo Económico y Social
+- D. Como la Asamblea General
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 222
+**Subtema:** Organizaciones internacionales · ONU
+
+La Corte Internacional de Justicia, conocida como la Corte de la Haya, ya que tiene su sede en la capital holandesa, y es el principal órgano jurídico de la ONU.
+
+### 81
+
+De acuerdo con el libro de Historia Universal, ¿por cuántos miembros está compuesto el Consejo Económico y Social de la ONU y por cuánto tiempo son elegidos?
+
+- A. Por 54 miembros elegidos para un periodo de tres años
+- B. Por 10 miembros renovados cada dos años
+- C. Por 51 miembros elegidos para un periodo de tres años
+- D. Por 54 miembros elegidos para un periodo de cinco años
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 222
+**Subtema:** Organizaciones internacionales · ONU
+
+El Consejo Económico y Social, compuesto por 54 miembros elegidos por la Asamblea General para un periodo de tres años.
+
+### 82
+
+De acuerdo con el libro de Historia Universal, ¿quién nombra al Secretario General de la ONU?
+
+- A. La Asamblea General, por recomendación del Consejo de Seguridad
+- B. El Consejo de Seguridad, por recomendación de la Asamblea General
+- C. La Corte Internacional de Justicia
+- D. El Consejo Económico y Social
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 222
+**Subtema:** Organizaciones internacionales · ONU
+
+El principal funcionario administrativo de la organización es el Secretario General, el cual es nombrado por la Asamblea General por recomendación del Consejo de Seguridad.
+
+### 83
+
+De acuerdo con el libro de Historia Universal, ¿de qué país era Javier Pérez de Cuéllar, Secretario General de la ONU de 1982 a 1991?
+
+- A. De Perú
+- B. De Egipto
+- C. De Austria
+- D. De Noruega
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 223
+**Subtema:** Organizaciones internacionales · ONU
+
+Kurt Waldheim, de Austria, de 1972 a 1981, Javier Pérez de Cuéllar, de Perú, de 1982 a 1991.
+
+### 84
+
+De acuerdo con el libro de Historia Universal, ¿cuáles son los organismos complementarios más importantes de la ONU?
+
+- A. La FAO, la UNESCO y la OMS
+- B. La FAO, la OEA y la OMS
+- C. El FMI, el GATT y la UNESCO
+- D. La UNESCO, la OMS y la OPEP
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 223
+**Subtema:** Organizaciones internacionales · ONU
+
+Varios son los organismos complementarios de la ONU, pero los más importantes son, entre otros, la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO), la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO), y la Organización Mundial de la Salud (OMS).
+
+---
+
+## Sub-lote 12 · Organismos económicos
+
+### 85
+
+De acuerdo con el libro de Historia Universal, ¿en qué año fue establecido el Fondo Monetario Internacional (FMI)?
+
+- A. En 1945
+- B. En 1947
+- C. En 1949
+- D. En 1948
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 224
+**Subtema:** Organizaciones internacionales · organismos económicos
+
+El FMI fue establecido en 1945 como una organización internacional independiente, cuyos objetivos oficiales son promover la cooperación monetaria internacional, la expansión del comercio mundial y la estabilidad de los sistemas cambiarios.
+
+### 86
+
+De acuerdo con el libro de Historia Universal, ¿de dónde provienen los recursos del FMI?
+
+- A. De las cuotas de los países asociados
+- B. De préstamos del Banco Mundial
+- C. De aportaciones voluntarias de las potencias
+- D. De los aranceles fijados por el GATT
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 224
+**Subtema:** Organizaciones internacionales · organismos económicos
+
+Los recursos del FMI provienen de las cuotas de los países asociados. Estas cuotas determinan, por un lado, el peso de cada miembro en las decisiones y, por otro, la cantidad que se puede solicitar en préstamo.
+
+### 87
+
+De acuerdo con el libro de Historia Universal, ¿qué proporción de los votos del FMI controla Estados Unidos de América?
+
+- A. Más de la quinta parte
+- B. Más de la tercera parte
+- C. Más de la mitad
+- D. Más de la décima parte
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 224
+**Subtema:** Organizaciones internacionales · organismos económicos
+
+Es importante resaltar que Estados Unidos de América controla más de la quinta parte de los votos.
+
+### 88
+
+De acuerdo con el libro de Historia Universal, ¿en qué año fue creado el GATT?
+
+- A. En 1947
+- B. En 1945
+- C. En 1949
+- D. En 1948
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 224
+**Subtema:** Organizaciones internacionales · organismos económicos
+
+El GATT, organismo conocido por sus siglas en inglés, fue creado en 1947 y se ha mantenido como el único instrumento internacional que fija las reglas aceptadas por los países que realizan la mayor parte del comercio internacional.
+
+### 89
+
+De acuerdo con el libro de Historia Universal, ¿dónde tenía su sede el Consejo de Asistencia Económica Mutua (CAME) y en qué año fue creado?
+
+- A. En Moscú, creado en 1949
+- B. En Varsovia, creado en 1955
+- C. En Moscú, creado en 1955
+- D. En Washington, creado en 1949
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 224
+**Subtema:** Organizaciones internacionales · organismos económicos
+
+Este organismo, con sede en Moscú, fue creado en 1949 con el objetivo de desarrollar la cooperación económica y científico-técnica entre los países socialistas.
+
+### 90
+
+De acuerdo con el libro de Historia Universal, ¿cuál fue el primer país en retirarse del CAME?
+
+- A. Albania
+- B. Bulgaria
+- C. Hungría
+- D. Rumania
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 225
+**Subtema:** Organizaciones internacionales · organismos económicos
+
+Originalmente lo formaron Alemania Democrática, Bulgaria, Checoslovaquia, Hungría, Polonia, Rumania, la Unión Soviética y Albania, esta última fue la primera en retirarse y más tarde se incorporaron Mongolia, Vietnam y Cuba.
+
+---
+
+## Sub-lote 13 · Organismos políticos regionales
+
+### 91
+
+De acuerdo con el libro de Historia Universal, ¿durante qué conferencia y en qué ciudad fue fundada la Organización de los Estados Americanos (OEA)?
+
+- A. Durante la IX Conferencia Internacional Americana, en Bogotá, Colombia
+- B. Durante la Conferencia de San Francisco, en Estados Unidos
+- C. Durante la Conferencia de Ginebra, en Suiza
+- D. Durante la IX Conferencia Panamericana, en Washington
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 225
+**Subtema:** Organizaciones internacionales · organismos políticos
+
+Esta Organización fue fundada durante la IX Conferencia Internacional Americana, realizada en Bogotá, Colombia, en mayo de 1948. Fue creada en reemplazo de la Unión Panamericana e integró a casi todos los países del continente americano.
+
+### 92
+
+De acuerdo con el libro de Historia Universal, ¿en reemplazo de qué organismo fue creada la OEA?
+
+- A. De la Unión Panamericana
+- B. De la Liga de las Naciones
+- C. Del Sistema Económico Latinoamericano
+- D. De la Organización de la Unidad Africana
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 225
+**Subtema:** Organizaciones internacionales · organismos políticos
+
+Fue creada en reemplazo de la Unión Panamericana e integró a casi todos los países del continente americano.
+
+### 93
+
+De acuerdo con el libro de Historia Universal, ¿en qué frase se expresó la doctrina del "destino común" promovida por Estados Unidos y que fundamentó a la OEA?
+
+- A. "Cualquier ataque contra una república americana es un ataque a todas ellas"
+- B. "Un tratado de amistad, de cooperación y asistencia mutua"
+- C. "América para los americanos"
+- D. "La defensa mutua ante cualquier agresión extranjera"
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 225
+**Subtema:** Organizaciones internacionales · organismos políticos
+
+La organización se fundamentó inicialmente en postulados bélicos en el marco de la doctrina del "destino común" promovida por los Estados Unidos y expresada en la frase: "Cualquier ataque contra una república americana es un ataque a todas ellas".
+
+### 94
+
+De acuerdo con el libro de Historia Universal, ¿en qué año fue fundada la Organización de la Unidad Africana (OUA)?
+
+- A. En 1963
+- B. En 1948
+- C. En 1945
+- D. En 1949
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 225
+**Subtema:** Organizaciones internacionales · organismos políticos
+
+Organismo interregional africano fundado en 1963 como consecuencia del movimiento independentista africano.
+
+### 95
+
+De acuerdo con el libro de Historia Universal, ¿quién es electo presidente de la Organización de la Unidad Africana por tradición?
+
+- A. El jefe de Estado del país sede de la reunión
+- B. El jefe de Estado del país más poblado
+- C. El secretario general electo por la cumbre
+- D. El jefe de Estado del país fundador
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 225
+**Subtema:** Organizaciones internacionales · organismos políticos
+
+Realiza anualmente una reunión cumbre, a nivel de jefes de Estado, en la que se renueva su dirección política. Por tradición, es electo presidente el jefe de Estado del país sede de la reunión.
+
+### 96
+
+De acuerdo con el libro de Historia Universal, ¿cuál era el objetivo del Pacto de la Liga de los Estados Árabes, firmado en 1945?
+
+- A. El fortalecimiento de los vínculos económicos de sus miembros y la coordinación de su acción política
+- B. La creación de un mando militar unificado árabe
+- C. El control de la producción petrolera de la región
+- D. El reconocimiento del Estado de Israel
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 226
+**Subtema:** Organizaciones internacionales · organismos políticos
+
+Firmaron el Pacto de la Liga de los Estados Árabes, cuyo objetivo era el fortalecimiento de los vínculos económicos de sus miembros y la coordinación de su acción política.
+
+---
+
+## Sub-lote 14 · Alianzas militares
+
+### 97
+
+De acuerdo con el libro de Historia Universal, ¿dónde y cuándo se firmó el tratado que dio origen a la OTAN?
+
+- A. En abril de 1949, en la ciudad de Washington
+- B. En abril de 1945, en San Francisco
+- C. En mayo de 1955, en Varsovia
+- D. En diciembre de 1954, en Moscú
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 226
+**Subtema:** Organizaciones internacionales · alianzas militares
+
+En abril de 1949 se firmó un tratado en la ciudad de Washington por los representantes de 10 países del Atlántico norte: Bélgica, Dinamarca, España, Francia, Islandia, Italia, Luxemburgo, Noruega, Holanda y Gran Bretaña, junto con Canadá y Estados Unidos.
+
+### 98
+
+De acuerdo con el libro de Historia Universal, ¿qué puntualizaba el tratado que dio origen a la OTAN?
+
+- A. Que un ataque armado contra cualquiera de los miembros sería considerado contra todos
+- B. Que se instituía un mando unificado de las fuerzas aliadas
+- C. Que se prohibía la producción de armas nucleares
+- D. Que se reducirían las barreras arancelarias entre los miembros
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 226
+**Subtema:** Organizaciones internacionales · alianzas militares
+
+El tratado puntualizaba que un ataque armado contra cualquiera de los miembros sería considerado contra todos.
+
+### 99
+
+De acuerdo con el libro de Historia Universal, ¿en qué año se convirtió Alemania Occidental en miembro de la OTAN?
+
+- A. En 1954
+- B. En 1952
+- C. En 1949
+- D. En 1955
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 226
+**Subtema:** Organizaciones internacionales · alianzas militares
+
+Más tarde, en 1952, Grecia y Turquía formaron parte del tratado y, finalmente, en 1954, Alemania Occidental se convirtió en miembro de la OTAN, la más importante alianza militar de los países capitalistas.
+
+### 100
+
+De acuerdo con el libro de Historia Universal, ¿en qué fecha se firmó el Pacto de Varsovia?
+
+- A. El 14 de mayo de 1955
+- B. El 2 de diciembre de 1954
+- C. El 29 de noviembre de 1954
+- D. En abril de 1949
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 226
+**Subtema:** Organizaciones internacionales · alianzas militares
+
+Esta Conferencia abrió un proceso que terminó con la firma del Pacto de Varsovia, el 14 de mayo de 1955, signado por Albania, Bulgaria, Hungría, Polonia, la República Democrática Alemana, Checoslovaquia y la Unión de Repúblicas Soviéticas Socialistas.
+
+### 101
+
+De acuerdo con el libro de Historia Universal, ¿qué se acordó por el Pacto de Varsovia?
+
+- A. Un "tratado de amistad, de cooperación y asistencia mutua" y un mando unificado de las fuerzas
+- B. Un código de conducta común para el comercio internacional
+- C. La defensa mutua ante cualquier agresión extranjera de los países árabes
+- D. El desarrollo de la cooperación económica y científico-técnica
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 226
+**Subtema:** Organizaciones internacionales · alianzas militares
+
+Por el pacto se acordó un "tratado de amistad, de cooperación y asistencia mutua" y se instituyó un mando unificado de las fuerzas de la Unión.
+
+---
+
+**Reactivos en este archivo:** 101
