@@ -47,7 +47,7 @@ reactivos de cita literal.
 (páginas 221–226).
 
 **Apartado "Principales acontecimientos de nuestros días", en curso**
-(páginas 238–267). Cubiertas las páginas 238–261. Las páginas 242, 245, 253 y 255
+(páginas 238–267). Cubiertas las páginas 238–264. Las páginas 242, 245, 253 y 255
 son los mapas 25 a 28: sin texto del que salgan reactivos de cita literal. La 249
 es casi toda la figura 59 y sólo aporta el párrafo que cierra la oración de la 248.
 
@@ -56,9 +56,10 @@ bloque socialista europeo", éste hasta la desintegración de la URSS y el
 surgimiento de la Comunidad de Estados Independientes. Va en curso "La
 actualidad en América Latina y el Caribe", que arranca en la 256. De América
 Central están completos Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica
-y Panamá, y de las Antillas, República Dominicana y Puerto Rico.
+y Panamá; de las Antillas, República Dominicana y Puerto Rico; y de América del
+Sur, Venezuela, Brasil, Colombia, Ecuador y Perú.
 
-**Pendiente:** acontecimientos de nuestros días de la 262 en adelante, y la
+**Pendiente:** acontecimientos de nuestros días de la 265 en adelante, y la
 llegada del siglo XXI (268–279).
 
 ## Erratas del libro
@@ -83,6 +84,9 @@ si el examen real la corrige.
 | Pág. 259 | Arnoldo Alemán *Lacallo* | Lacayo (presidente de Nicaragua 1997–2002) |
 | Pág. 261 | Abdalá *Bucaran* | Bucaram (presidente de Ecuador 1996–1997) |
 | Pág. 261 | Pedro *Róselo* | Rosselló (gobernador de Puerto Rico 1993–2001) |
+| Pág. 263 | Fernando Collor de *Melo* | Collor de Mello |
+| Pág. 264 | Sixto *Duran Bayén* | Durán Ballén (presidente de Ecuador 1992–1996) |
+| Pág. 264 | *Abdala Bucaran* Ortiz | Abdalá Bucaram Ortiz (en la 261 sí lleva tilde el nombre) |
 
 **El libro tropieza sistemáticamente con los nombres propios extranjeros**
 —Traman, Koffi, Gorvachov, Arzó, Lacallo, Bucaran, Róselo, Mississipi—, así que
@@ -120,9 +124,13 @@ al afirmar. **No se escribió reactivo sobre ellos**, por el mismo criterio.
 | Dónde | Dice el libro | El hecho |
 |---|---|---|
 | Pág. 248 | "en 1963 con el primer vuelo tripulado al espacio" | El primer vuelo tripulado fue el de Gagarin, en **1961**; en 1963 voló Tereshkova, la primera mujer |
+| Pág. 264 | "el gobierno **peruano** de José María Velasco Ibarra declaró nulo el Protocolo de Río" | Velasco Ibarra fue presidente de **Ecuador**, cinco veces, nunca de Perú. Y el sentido del pasaje lo confirma: quien desconocía el Protocolo de Río era Ecuador, no Perú, que lo defendía |
 
-El reactivo 224 sí usa esa oración, pero pregunta por el Sputnik y su año
-—1957—, que el libro da bien.
+El reactivo 224 sí usa la oración del Sputnik, pero pregunta por el satélite y su
+año —1957—, que el libro da bien. Del pasaje del Protocolo de Río sí salieron
+reactivos (403, 405, 406), pero **ninguno pregunta qué gobierno lo declaró nulo**:
+se quedan en la franja en pugna, en el argumento de Durán Ballén y en la
+Declaración de Paz de Itamaraty, datos que no dependen del error.
 
 Criterio acordado con Carlo: cuando el cuerpo del texto y un pie de figura
 discrepan, manda el cuerpo.
@@ -5828,4 +5836,676 @@ El nuevo gobierno continuó con la política de privatizaciones para solucionar 
 
 ---
 
-**Reactivos en este archivo:** 370
+## Sub-lote 33 · América del Sur y Venezuela
+
+### 371
+
+De acuerdo con el libro de Historia Universal, ¿en qué consistieron las políticas con que los gobernantes sudamericanos iniciaron el siglo XXI?
+
+- A. En la apertura de sus economías hacia los grandes mercados mundiales y en la integración de sus naciones en bloques regionales
+- B. En la nacionalización de sus industrias y el control de cambios
+- C. En el fortalecimiento de la industria pesada y el proteccionismo
+- D. En la lucha contra el narcotráfico y la guerrilla
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Generalidades
+
+Las políticas con que sus gobernantes iniciaron el siglo XXI, básicamente consistieron en la apertura de sus economías hacia los grandes mercados mundiales y en la integración de sus naciones en bloques regionales en un ámbito de libertad y paz social.
+
+### 372
+
+De acuerdo con el libro de Historia Universal, ¿qué lugar ocupa Venezuela como productor de petróleo?
+
+- A. Séptimo país productor
+- B. Primer país productor
+- C. Quinto país productor
+- D. Décimo país productor
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Generalidades
+
+Dentro del conjunto de países sudamericanos destacan Venezuela, séptimo país productor de petróleo.
+
+### 373
+
+De acuerdo con el libro de Historia Universal, ¿cómo se describe a Brasil?
+
+- A. El país donde todo es "más": el más rico, el más endeudado, el más poblado, el más extenso geográficamente
+- B. El país más pobre del subcontinente
+- C. El país con mayores índices de población indígena y mestiza
+- D. El país con un fuerte influjo cultural europeo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Generalidades
+
+Brasil, el país donde todo es "más": el más rico, el más endeudado, el más poblado, el más extenso geográficamente, cuenta con regiones más desarrolladas, pero también con las más pobres.
+
+### 374
+
+De acuerdo con el libro de Historia Universal, ¿qué países se localizan dentro de la región andina?
+
+- A. Bolivia, Colombia, Ecuador y Perú
+- B. Bolivia, Colombia, Ecuador y Venezuela
+- C. Colombia, Ecuador, Perú y Chile
+- D. Bolivia, Perú, Chile y Argentina
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Generalidades
+
+Dentro de la región andina se localizan Bolivia, Colombia, Ecuador y Perú, que en términos generales son los más pobres del subcontinente.
+
+### 375
+
+De acuerdo con el libro de Historia Universal, ¿qué caracteriza a los países de la región andina?
+
+- A. Son los más pobres del subcontinente y con mayores índices de población indígena y mestiza
+- B. Tienen un fuerte influjo cultural europeo e importantes riquezas naturales
+- C. Son los más ricos y endeudados del subcontinente
+- D. Son los de mayor apertura comercial del subcontinente
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Generalidades
+
+Que en términos generales son los más pobres del subcontinente y con mayores índices de población indígena y mestiza.
+
+### 376
+
+De acuerdo con el libro de Historia Universal, ¿cuáles son los países del Cono Sur y qué los caracteriza?
+
+- A. Uruguay, Paraguay, Argentina y Chile, con un fuerte influjo cultural europeo y con importantes riquezas naturales
+- B. Uruguay, Paraguay, Argentina y Brasil, con un fuerte influjo cultural europeo
+- C. Uruguay, Paraguay, Argentina y Chile, con mayores índices de población indígena
+- D. Argentina, Chile, Bolivia y Perú, con importantes riquezas naturales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Generalidades
+
+Los países del Cono Sur son Uruguay, Paraguay, Argentina y Chile, con un fuerte influjo cultural europeo y con importantes riquezas naturales.
+
+### 377
+
+De acuerdo con el libro de Historia Universal, ¿en qué consistió el plan de austeridad económica de Carlos Andrés Pérez?
+
+- A. Liberó precios, privatizó industrias, reestructuró el sector público, elevó tarifas públicas, suspendió el control de cambios y derechos de aduana
+- B. Nacionalizó la industria petrolera y controló los precios
+- C. Elevó los aranceles de aduanas y restringió la inversión extranjera
+- D. Congeló los salarios y elevó los precios de los energéticos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Venezuela
+
+Carlos Andrés Pérez, presidente desde 1988, puso en marcha un plan de austeridad económica: liberó precios, privatizó industrias, reestructuró el sector público, elevó tarifas públicas, suspendió el control de cambios y derechos de aduana.
+
+### 378
+
+De acuerdo con el libro de Historia Universal, ¿qué dejó ver ese plan respecto de la población venezolana?
+
+- A. Que más de la mitad de la población vive por debajo del umbral de la pobreza
+- B. Que el 60% de la población vive en la pobreza
+- C. Que el 45% de la población vive en extrema pobreza
+- D. Que más de 22 millones viven por debajo del umbral de la pobreza
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Venezuela
+
+Del que no obtuvo grandes logros económicos, pero sí ahondaron más las desigualdades sociales y dejó ver que más de la mitad de la población vive por debajo del umbral de la pobreza.
+
+### 379
+
+De acuerdo con el libro de Historia Universal, ¿qué padeció Venezuela en 1992?
+
+- A. Dos fallidos golpes de Estado y manifestaciones violentas
+- B. Un golpe de Estado civil que suprimió la constitución
+- C. La suspensión de las garantías constitucionales
+- D. La renuncia del presidente ante el senado
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Venezuela
+
+En 1992 padeció dos fallidos golpes de Estado y manifestaciones violentas, por lo que buscó suavizar su política económica.
+
+### 380
+
+De acuerdo con el libro de Historia Universal, ¿por qué suspendió el senado de sus funciones a Carlos Andrés Pérez en 1993?
+
+- A. Para enjuiciarlo por malversación de fondos públicos
+- B. Para enjuiciarlo por corrupción en las privatizaciones
+- C. Por haber suspendido las garantías constitucionales
+- D. Por haber recibido financiamiento del cártel de Cali
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Venezuela
+
+En 1993, el senado suspendió de sus funciones al presidente Carlos Andrés Pérez para enjuiciarlo por malversación de fondos públicos.
+
+### 381
+
+De acuerdo con el libro de Historia Universal, ¿quién asumió la presidencia de Venezuela en diciembre de 1993 y qué hizo a mediados de 1994?
+
+- A. Rafael Caldera Rodríguez, quien suspendió las garantías constitucionales
+- B. Rafael Caldera Rodríguez, quien puso en marcha la Agenda Venezolana
+- C. Carlos Andrés Pérez, quien liberó los precios
+- D. Rafael Caldera Rodríguez, quien firmó el Tratado de Libre Comercio
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Venezuela
+
+En diciembre de 1993 asumió la presidencia Rafael Caldera Rodríguez, quien a mediados de 1994 suspendió las garantías constitucionales y fueron restablecidas un año después.
+
+### 382
+
+De acuerdo con el libro de Historia Universal, ¿con qué países firmó Venezuela el Tratado de Libre Comercio que entró en vigor en 1995?
+
+- A. Con México y Colombia
+- B. Con Canadá y Estados Unidos
+- C. Con Brasil y Colombia
+- D. Con México y Estados Unidos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Venezuela
+
+El gobierno venezolano firmó el Tratado de Libre Comercio con México y Colombia, que entró en vigor en 1995.
+
+### 383
+
+De acuerdo con el libro de Historia Universal, ¿cómo se llamó el nuevo plan económico que puso en marcha el presidente Caldera a mediados de 1996?
+
+- A. Agenda Venezolana
+- B. Plan de Austeridad Económica
+- C. Programa de Ajuste Estructural
+- D. Reforma del Estado
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 262
+**Subtema:** América del Sur · Venezuela
+
+A mediados de 1996, el presidente Caldera puso en marcha un nuevo plan económico (Agenda Venezolana).
+
+### 384
+
+De acuerdo con el libro de Historia Universal, ¿qué comprendía ese nuevo plan económico?
+
+- A. Austeridad, saneamiento de las finanzas del Estado, fortalecimiento de la política fiscal y monetaria y la apertura de su industria petrolera al capital extranjero
+- B. La nacionalización de la industria petrolera y el control de cambios
+- C. La reducción de aranceles y la privatización de los teléfonos
+- D. La liberación de precios y la suspensión de los derechos de aduana
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América del Sur · Venezuela
+
+Por el que continúa su política de austeridad, saneamiento de las finanzas del Estado, fortalecimiento de la política fiscal y monetaria y la apertura de su industria petrolera al capital extranjero.
+
+### 385
+
+De acuerdo con el libro de Historia Universal, ¿con qué préstamo avaló el FMI ese plan y a cuántos venezolanos buscaba rescatar de la crisis?
+
+- A. 1 400 millones de dólares, para más de 22 millones de venezolanos
+- B. 1 400 millones de dólares, para más de 160 millones de venezolanos
+- C. 400 millones de dólares, para más de 22 millones de venezolanos
+- D. 1 400 millones de dólares, para más de 10 millones de venezolanos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América del Sur · Venezuela
+
+Dicho plan fue avalado por el FMI, con un préstamo de 1 400 millones de dólares para continuar el esfuerzo por rescatar de la crisis a más de 22 millones de venezolanos.
+
+---
+
+## Sub-lote 34 · Brasil y Colombia
+
+### 386
+
+De acuerdo con el libro de Historia Universal, ¿por qué presentó Fernando Collor de Mello su renuncia a la presidencia en diciembre de 1992?
+
+- A. Al ser enjuiciado por corrupción
+- B. Al ser enjuiciado por malversación de fondos públicos
+- C. Por su incapacidad mental
+- D. Por las acusaciones de financiamiento del narcotráfico
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América del Sur · Brasil
+
+En diciembre de 1992 Fernando Collor de Mello presentó su renuncia a la presidencia ante el senado, al ser enjuiciado por corrupción.
+
+### 387
+
+De acuerdo con el libro de Historia Universal, ¿quién sustituyó a Collor de Mello?
+
+- A. El vicepresidente Itamar Franco
+- B. Fernando Henrique Cardoso
+- C. El vicepresidente Fernando Henrique Cardoso
+- D. Ernesto Samper Pizano
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América del Sur · Brasil
+
+Fue sustituido por el vicepresidente Itamar Franco.
+
+### 388
+
+De acuerdo con el libro de Historia Universal, durante la gestión de Itamar Franco, ¿qué ley aprobó el Congreso y qué redujo?
+
+- A. Una ley para privatizar todos los puertos, y redujo el mandato presidencial de cinco a cuatro años
+- B. Una ley para privatizar los aeropuertos, y redujo el mandato presidencial de seis a cinco años
+- C. Una ley de reforma del Estado, y redujo los aranceles de aduanas
+- D. Una ley para privatizar todos los puertos, y redujo el mandato presidencial de seis a cuatro años
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América del Sur · Brasil
+
+El Congreso aprobó una ley para privatizar todos los puertos, redujo el mandato presidencial de cinco a cuatro años y se sumó al Tratado de Tlatelolco.
+
+### 389
+
+De acuerdo con el libro de Historia Universal, ¿a qué tratado se sumó Brasil durante esa gestión?
+
+- A. Al Tratado de Tlatelolco, en la no proliferación de armas nucleares en el continente americano
+- B. Al Tratado de Libre Comercio con México y Colombia
+- C. Al Tratado de Minsk
+- D. Al Protocolo de Río
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América del Sur · Brasil
+
+Se sumó al Tratado de Tlatelolco en la no proliferación de armas nucleares en el continente americano.
+
+### 390
+
+De acuerdo con el libro de Historia Universal, ¿cuándo asumió el poder Fernando Henrique Cardoso y con qué compromiso?
+
+- A. En enero de 1995, con el compromiso de gobernar a 160 millones de habitantes y darle prioridad al 60% de la población que vive en la pobreza
+- B. En enero de 1995, con el compromiso de gobernar a 160 millones y darle prioridad al 45% que vive en extrema pobreza
+- C. En diciembre de 1992, con el compromiso de gobernar a 160 millones de habitantes
+- D. En enero de 1995, con el compromiso de gobernar a 22 millones de habitantes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América del Sur · Brasil
+
+El nuevo presidente, Fernando Henrique Cardoso, asumió el poder en enero de 1995 con el compromiso de gobernar a 160 millones de habitantes y darle prioridad al 60% de la población que vive en la pobreza.
+
+### 391
+
+De acuerdo con el libro de Historia Universal, ¿cómo se llama la nueva moneda de Brasil?
+
+- A. El Real
+- B. El Cruzeiro
+- C. El Peso
+- D. El Bolívar
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América del Sur · Brasil
+
+Las privatizaciones, el fortalecimiento de su nueva moneda (el Real) y la lucha contra la hiperinflación.
+
+### 392
+
+De acuerdo con el libro de Historia Universal, ¿desde qué década atraviesa Brasil la grave crisis económica?
+
+- A. Desde la década de los ochenta
+- B. Desde la década de los noventa
+- C. Desde la década de los setenta
+- D. Desde la década de los sesenta
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América del Sur · Brasil
+
+Dentro de las acciones que realiza Brasil para solventar la grave crisis económica por la que atraviesa desde la década de los ochenta, se encuentran su incorporación al Mercosur.
+
+### 393
+
+De acuerdo con el libro de Historia Universal, ¿qué gobiernos firmaron en Cartagena un acuerdo de cooperación en la lucha contra el narcotráfico?
+
+- A. Colombia, Estados Unidos, Perú y Bolivia
+- B. Colombia, Estados Unidos, Ecuador y Bolivia
+- C. Colombia, México, Perú y Bolivia
+- D. Colombia, Estados Unidos, Perú y Venezuela
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América Andina · Colombia
+
+Los gobiernos de Colombia, Estados Unidos, Perú y Bolivia firmaron en Cartagena un acuerdo de cooperación en la lucha contra el narcotráfico.
+
+### 394
+
+De acuerdo con el libro de Historia Universal, ¿a qué cárteles de la droga declaró la guerra abierta el presidente César Gaviria?
+
+- A. A los de Cali y Medellín
+- B. A los de Cali y Bogotá
+- C. A los de Medellín y Cartagena
+- D. A los de Cali y Cartagena
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América Andina · Colombia
+
+El presidente César Gaviria declaró la guerra abierta a los cárteles de la droga (Cali y Medellín).
+
+### 395
+
+De acuerdo con el libro de Historia Universal, ¿qué garantizó Gaviria a los traficantes que se entregaran voluntariamente?
+
+- A. Que no serían extraditados a Estados Unidos
+- B. Que recibirían amnistía total
+- C. Que no serían enjuiciados por corrupción
+- D. Que conservarían sus bienes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América Andina · Colombia
+
+Pero garantizó a los traficantes que se entregaran voluntariamente de que no serían extraditados a Estados Unidos.
+
+### 396
+
+De acuerdo con el libro de Historia Universal, ¿ante qué acusaciones asumió la presidencia Ernesto Samper Pizano en 1994?
+
+- A. De haber recibido financiamiento del cártel de Cali para su campaña
+- B. De haber recibido financiamiento del cártel de Medellín para su campaña
+- C. De malversación de fondos públicos
+- D. De corrupción en el proceso de privatizaciones
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América Andina · Colombia
+
+En 1994, Ernesto Samper Pizano, del Partido Liberal, asumió la presidencia ante las acusaciones de haber recibido financiamiento del cártel de Cali para su campaña.
+
+### 397
+
+De acuerdo con el libro de Historia Universal, ¿a qué porcentaje de la población colombiana en extrema pobreza buscaba atender el acuerdo del ejecutivo?
+
+- A. Al 45%
+- B. Al 60%
+- C. Al 40%
+- D. Al 50%
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 263
+**Subtema:** América Andina · Colombia
+
+Para trabajar conjuntamente en el mejoramiento de la economía y, en especial, atender el 45% de la población que vive en extrema pobreza.
+
+---
+
+## Sub-lote 35 · Ecuador y Perú
+
+### 398
+
+De acuerdo con el libro de Historia Universal, ¿quién asumió la presidencia de Ecuador en 1992 y por qué partido?
+
+- A. El arquitecto Sixto Durán Ballén, del Partido de la Unidad Republicana
+- B. El arquitecto Sixto Durán Ballén, del Partido Liberal
+- C. Abdalá Bucaram Ortiz, del Partido de la Unidad Republicana
+- D. Fabián Alarcón Rivera, del Partido de la Unidad Republicana
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Ecuador
+
+El arquitecto Sixto Durán Ballén, del Partido de la Unidad Republicana, liberal de centro derecha, asumió la presidencia en 1992.
+
+### 399
+
+De acuerdo con el libro de Historia Universal, ¿en qué consistió la incorporación de Ecuador a las políticas neoliberales?
+
+- A. Estableció la reforma del Estado, las privatizaciones, la lucha contra la inflación, alza de precios en los energéticos y congelamiento de salarios
+- B. Estableció la reforma del Estado, las nacionalizaciones y el control de precios
+- C. Estableció las privatizaciones, la reducción de aranceles y el aumento de salarios
+- D. Estableció la lucha contra la inflación, la apertura petrolera y la desregulación total
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Ecuador
+
+Instaurando la incorporación del país a las políticas neoliberales: estableció la reforma del Estado, las privatizaciones, la lucha contra la inflación, alza de precios en los energéticos y congelamiento de salarios.
+
+### 400
+
+De acuerdo con el libro de Historia Universal, ¿a qué se enfrentó ese proceso de modernización?
+
+- A. A una escasa base industrial, una elevada deuda externa y una baja mundial de precios del cacao, café y banano
+- B. A la hiperinflación y la quiebra de industrias
+- C. A la guerra abierta contra los cárteles de la droga
+- D. Al centralismo del ejecutivo y la supresión del parlamento
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Ecuador
+
+Este proceso de modernización se enfrentó al hecho de que existía una escasa base industrial, había una elevada deuda externa y una baja mundial de precios del cacao, café y banano.
+
+### 401
+
+De acuerdo con el libro de Historia Universal, ¿de qué organización se retiró Ecuador en la administración de Durán?
+
+- A. De la OPEP
+- B. Del MERCOSUR
+- C. Del Grupo de los Tres
+- D. Del Protocolo de Río
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Ecuador
+
+En la administración de Durán, Ecuador se retiró de la OPEP para tener libertad de producción.
+
+### 402
+
+De acuerdo con el libro de Historia Universal, ¿para qué se retiró Ecuador de esa organización?
+
+- A. Para tener libertad de producción y emplear los beneficios de su petróleo para resolver su problemática interna
+- B. Para incorporarse al MERCOSUR
+- C. Para reducir su elevada deuda externa
+- D. Para atraer capital extranjero a su industria petrolera
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Ecuador
+
+Ecuador se retiró de la OPEP para tener libertad de producción y emplear los beneficios de su petróleo para resolver su problemática interna.
+
+### 403
+
+De acuerdo con el libro de Historia Universal, ¿qué franja quedó como territorio en pugna al declararse nulo el Protocolo de Río?
+
+- A. Una franja de 380 kilómetros cuadrados
+- B. Una franja de 340 kilómetros cuadrados
+- C. Una franja de 830 kilómetros cuadrados
+- D. Una franja de 180 kilómetros cuadrados
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Ecuador
+
+Declaró nulo el Protocolo de Río (que delimitaba las fronteras entre ese país y Ecuador), dejando una franja de 380 kilómetros cuadrados como territorio en pugna.
+
+### 404
+
+De acuerdo con el libro de Historia Universal, ¿qué conflicto provocó ese hecho y en qué año?
+
+- A. La Guerra del Cóndor, en 1995
+- B. La Guerra del Cóndor, en 1992
+- C. La Guerra del Cóndor, en 1996
+- D. La Guerra del Cóndor, en 1997
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Ecuador
+
+Este hecho provocó la Guerra del Cóndor, en 1995.
+
+### 405
+
+De acuerdo con el libro de Historia Universal, ¿qué argumentó el gobierno de Durán Ballén?
+
+- A. Que el Protocolo de Río era inejecutable
+- B. Que el Protocolo de Río era nulo desde los años sesenta
+- C. Que la franja en pugna pertenecía a Perú
+- D. Que la Declaración de Paz de Itamaraty era inejecutable
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Ecuador
+
+Ya que el gobierno de Durán Ballén argumentó que el Protocolo de Río era inejecutable.
+
+### 406
+
+De acuerdo con el libro de Historia Universal, ¿qué se acordó a mediados de julio de ese año?
+
+- A. La desmilitarización de la zona fronteriza y hacer efectiva la Declaración de Paz de Itamaraty
+- B. La anulación definitiva del Protocolo de Río
+- C. La entrega de la franja en pugna a Ecuador
+- D. El retiro de Ecuador de la OPEP
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Ecuador
+
+A mediados de julio de ese año, se acordó la desmilitarización de la zona fronteriza y hacer efectiva la Declaración de Paz de Itamaraty, con el aval de los países del Protocolo de Río.
+
+### 407
+
+De acuerdo con el libro de Historia Universal, ¿cuándo asumió la presidencia Abdalá Bucaram Ortiz y cuándo fue destituido?
+
+- A. En agosto de 1996, y fue destituido en febrero de 1997
+- B. En agosto de 1996, y fue destituido en febrero de 1998
+- C. En febrero de 1996, y fue destituido en agosto de 1997
+- D. En agosto de 1995, y fue destituido en febrero de 1997
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Ecuador
+
+El presidente Abdalá Bucaram Ortiz asumió la presidencia en agosto de 1996 y fue destituido por el parlamento en febrero de 1997, debido a su incapacidad mental.
+
+### 408
+
+De acuerdo con el libro de Historia Universal, ¿por qué fue destituido Bucaram por el parlamento y quién quedó en su lugar?
+
+- A. Debido a su incapacidad mental; quedó el doctor Fabián Alarcón Rivera como presidente interino
+- B. Por corrupción; quedó el doctor Fabián Alarcón Rivera como presidente interino
+- C. Debido a su incapacidad mental; quedó Sixto Durán Ballén como presidente interino
+- D. Por malversación de fondos públicos; quedó el doctor Fabián Alarcón Rivera
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Ecuador
+
+Fue destituido por el parlamento en febrero de 1997, debido a su incapacidad mental. En su lugar quedó el doctor Fabián Alarcón Rivera como presidente interino.
+
+### 409
+
+De acuerdo con el libro de Historia Universal, ¿a qué partido pertenecía el presidente peruano Alberto Fujimori?
+
+- A. Al Partido Cambio 90
+- B. Al Partido de la Unidad Republicana
+- C. Al Partido Liberal
+- D. Al Partido Revolucionario Democrático
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Perú
+
+El presidente Alberto Fujimori, del Partido Cambio 90, puso en marcha un plan de austeridad.
+
+### 410
+
+De acuerdo con el libro de Historia Universal, ¿qué logró Fujimori con su plan de austeridad?
+
+- A. La estabilización de la economía y el reconocimiento del FMI
+- B. La reducción de la pobreza y el desempleo
+- C. La consolidación de una producción diversificada y pujante
+- D. El fortalecimiento de una nueva moneda
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Perú
+
+Puso en marcha un plan de austeridad, con el cual logró la estabilización de la economía y el reconocimiento del FMI a cambio de grandes costos sociales.
+
+### 411
+
+De acuerdo con el libro de Historia Universal, ¿a cambio de qué grandes costos sociales logró Fujimori esa estabilización?
+
+- A. Aumento de la pobreza, pérdida del poder adquisitivo, recesión, desempleo, quiebra de industrias y aumento del tráfico de drogas
+- B. Congelamiento de salarios y alza de precios en los energéticos
+- C. Aumento de la deuda externa y mayor dependencia financiera
+- D. Ahondamiento de las desigualdades sociales y disminución del gasto social
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Perú
+
+A cambio de grandes costos sociales, como aumento de la pobreza, pérdida del poder adquisitivo, recesión, desempleo, quiebra de industrias y aumento del tráfico de drogas.
+
+### 412
+
+De acuerdo con el libro de Historia Universal, ¿qué hizo Fujimori en 1992, obligado por esa problemática?
+
+- A. Dar un golpe de Estado civil, suprimiendo la constitución y el parlamento
+- B. Renunciar a la presidencia ante el parlamento
+- C. Suspender las garantías constitucionales
+- D. Convocar a nuevos comicios
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Perú
+
+Esta problemática obligó al presidente Fujimori a dar un golpe de Estado civil en 1992, suprimiendo la constitución y el parlamento, con la finalidad de consolidar su política de reformas y reestructuración del Estado.
+
+### 413
+
+De acuerdo con el libro de Historia Universal, ¿qué ocurrió en los comicios de 1995 en Perú?
+
+- A. Confirmaron a Fujimori en la presidencia, reforzándose el centralismo del ejecutivo
+- B. Confirmaron la restitución del parlamento suprimido
+- C. Confirmaron el retorno a la constitución suprimida
+- D. Confirmaron la derrota de Fujimori
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Perú
+
+Los comicios de 1995 confirmaron a Fujimori en la presidencia, reforzándose el centralismo del ejecutivo.
+
+### 414
+
+De acuerdo con el libro de Historia Universal, ¿qué venta sobresale entre las privatizaciones de empresas públicas peruanas?
+
+- A. La venta de teléfonos a una compañía española por 10 mil millones de francos franceses
+- B. La venta de los aeropuertos a una compañía española
+- C. La venta de los puertos a una compañía francesa
+- D. La venta de la industria petrolera al capital extranjero
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 264
+**Subtema:** América Andina · Perú
+
+Privatización de empresas públicas, de la cual sobresale la venta de teléfonos a una compañía española por 10 mil millones de francos franceses.
+
+---
+
+**Reactivos en este archivo:** 414
