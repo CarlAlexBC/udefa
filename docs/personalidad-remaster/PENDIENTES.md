@@ -7,23 +7,46 @@ se pierda entre sesiones.
 
 ## Decisiones que le tocan a Carlo
 
-### 1. Protocolo de los gatillos CRÍTICO — **urgente**
+### 1. Protocolo de los gatillos CRÍTICO — decidido, a medio implementar
 
-El banco tiene **88 reactivos marcados CRÍTICO**, incluidos los de ideación
-suicida del eje 1 (por ejemplo: *"En algunos momentos he sentido que sería
-mejor no existir"*).
+**Carlo confirmó el 18 de julio de 2026** que el protocolo válido es el que ya
+estaba escrito en `01-suicidio-sentido-vida.md`: card de severidad `alerta`,
+mensaje empático no patologizante, SAPTEL 55 5259-8121, Línea de la Vida
+800-290-0024, 911 opción salud mental, y CTA al §4.6.1. Sin notificar a nadie
+y sin invalidar el examen.
 
-**El examen de personalidad ya sirve el banco remasterizado**, así que un
-aspirante puede encontrarse esos reactivos hoy. No hay nada definido sobre qué
-pasa cuando alguien contesta que sí.
+Antes de esto, `esCritico` se escribía en la base pero **no lo leía nadie**: un
+aspirante que contestaba que sí a los gatillos no recibía absolutamente nada.
 
-Hay que decidir, aunque sea en versión mínima:
-- Qué ve el aspirante en el panel de resultados cuando hay críticos.
-- Si se notifica a alguien, y a quién.
-- A dónde se deriva (línea de apoyo, contacto institucional).
+**Hecho —** `detectarSenalesCriticas()` en `intentos.service.ts`, con 11 tests
+en `intentos.service.spec.ts`. Devuelve `nivel` (`alerta_maxima` / `alerta` /
+`ninguna`), `senalesCrisis`, `combinacionEvaluable` y `hallazgosPorTema`.
 
-Detectar sin plan de respuesta está incompleto éticamente. Esta decisión no es
-técnica y no la puede tomar el asistente.
+**Falta —** la card del panel. La severidad `alerta` no existe todavía en el
+front: hoy solo hay `atencion`, `revisar` y `fortaleza`. Es lo siguiente.
+
+#### Los 88 críticos no son la misma cosa
+
+Al implementarlo salió que la etiqueta cubre dos cosas distintas:
+
+| Ejes | Qué significa un "sí" | Recursos de crisis |
+|---|---|---|
+| 1 y 2 | riesgo sobre la propia vida | sí |
+| los demás | hallazgo fuerte de conducta | no |
+
+En el eje 19 un crítico es *"En este momento estoy sosteniendo una mentira que
+me conviene"*. Si el protocolo se disparara con `esCritico` a secas, a esa
+persona le saldría el número de SAPTEL. Además de absurdo, desgasta la alerta
+para quien sí la necesita.
+
+**El eje 2 lo decidió Carlo**: sus cinco críticos son percepción de ser una
+carga (*"si desaparezco un tiempo, casi nadie lo notaría"*), que en el modelo
+Joiner pesa igual que los del eje 1. Vive en la constante
+`EJES_PROTOCOLO_CRISIS` — cambiarlo es una línea.
+
+Queda abierto si el **eje 5** debería entrar: su `#25` es autolesión
+(*"me insulto mentalmente o me golpeo"*) y hoy cuenta como hallazgo de
+conducta, no como crisis.
 
 ### 2. Umbral del cluster MMPI-K global
 
@@ -142,8 +165,12 @@ una sesión iniciada.
 | 2 | Importador | hecha — 2,410 reactivos en la base |
 | 3 | Muestreo por unidades | hecha — 0 huérfanos, 85.7 pares por examen |
 | 4 | Escalas de validez L, K, F | hecha — con veredicto y bandera de idealización |
-| 5 | Clusters, cruces cross-tema, banderas | **siguiente** — la más grande |
-| 6 | Panel de resultados | pendiente — las escalas ya se devuelven pero no se muestran |
+| 5 | Clusters, cruces cross-tema, banderas | pendiente — la más grande; ya desbloqueada, crossRef normalizado |
+| 6 | Panel de resultados | **siguiente** — la card de crisis se adelantó a la Fase 5 |
+
+La Fase 6 se adelantó a propósito: el backend ya detecta señales críticas pero
+el panel no las muestra, así que el aspirante sigue sin ver nada. Mientras esa
+card no exista, el hueco ético sigue abierto.
 
 ### Limitación conocida de la escala F
 
