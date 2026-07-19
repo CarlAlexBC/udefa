@@ -47,15 +47,17 @@ reactivos de cita literal.
 (páginas 221–226).
 
 **Apartado "Principales acontecimientos de nuestros días", en curso**
-(páginas 238–267). Cubiertas las páginas 238–254. Las páginas 242, 245, 253 y 255
+(páginas 238–267). Cubiertas las páginas 238–258. Las páginas 242, 245, 253 y 255
 son los mapas 25 a 28: sin texto del que salgan reactivos de cita literal. La 249
 es casi toda la figura 59 y sólo aporta el párrafo que cierra la oración de la 248.
 
 Dentro del apartado ya cerraron el conflicto del Golfo Pérsico y "El fin del
 bloque socialista europeo", éste hasta la desintegración de la URSS y el
-surgimiento de la Comunidad de Estados Independientes.
+surgimiento de la Comunidad de Estados Independientes. Va en curso "La
+actualidad en América Latina y el Caribe", que arranca en la 256; de América
+Central están hechos Guatemala, El Salvador y el arranque de Honduras.
 
-**Pendiente:** acontecimientos de nuestros días de la 256 en adelante, y la
+**Pendiente:** acontecimientos de nuestros días de la 259 en adelante, y la
 llegada del siglo XXI (268–279).
 
 ## Erratas del libro
@@ -74,6 +76,7 @@ si el examen real la corrige.
 | Pág. 244 | cumbre Bush-*Gorvachov* y, tres renglones después, *Gorbachov* | Gorbachov (así en la segunda mención) |
 | Pág. 245, leyenda del mapa 26 | *Ataquea* aéreos | Ataques aéreos |
 | Pág. 250, pie de la figura 60 | Mijail S. *Gorvachov* | Gorbachov (así en el cuerpo) |
+| Pág. 258 | Álvaro *Arzó* Irigoyen | Arzú (presidente de Guatemala 1996–2000, del PAN) |
 
 También hay una cifra que el propio libro da doble: la Carta la firmaron
 "50 países" (Pág. 221) pero la ONU "fue creada por 51 países" (Pág. 222). No es
@@ -4528,4 +4531,612 @@ Se puede concluir que los ideales socialistas entusiasmaron a varias generacione
 
 ---
 
-**Reactivos en este archivo:** 286
+## Sub-lote 28 · La actualidad en América Latina y el Caribe
+
+### 287
+
+De acuerdo con el libro de Historia Universal, ¿cuántos países hispanoamericanos conforman el subcontinente latinoamericano y qué porcentaje representan del total de naciones del mundo?
+
+- A. Diecinueve, 11%
+- B. Diecinueve, 10%
+- C. Veinte, 11%
+- D. Dieciocho, 11%
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Generalidades
+
+Diecinueve países hispanoamericanos (11% del total de naciones del mundo) conforman el subcontinente latinoamericano en un sólido bloque de miembros.
+
+### 288
+
+De acuerdo con el libro de Historia Universal, ¿qué une a los miembros del bloque latinoamericano?
+
+- A. La historia, la tradición, la cultura, las costumbres, el idioma y la geografía
+- B. Únicamente el idioma y la geografía
+- C. La economía y las políticas regionales de integración
+- D. La historia, la religión y la geografía
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Generalidades
+
+Conforman el subcontinente latinoamericano en un sólido bloque de miembros unidos por la historia, la tradición, la cultura, las costumbres, el idioma y, desde luego, por la geografía.
+
+### 289
+
+De acuerdo con el libro de Historia Universal, ¿a partir de qué década sucedieron los gobiernos civiles a los regímenes dictatoriales?
+
+- A. A partir de la década de los ochenta
+- B. A partir de la década de los noventa
+- C. A partir de la década de los setenta
+- D. A partir de la década de los sesenta
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Generalidades
+
+Lucha por consolidar la democracia estableciendo gobiernos civiles que, a partir de la década de los ochenta, sucedieron a los regímenes dictatoriales.
+
+### 290
+
+De acuerdo con el libro de Historia Universal, ¿qué porcentaje de las reservas de níquel posee Cuba?
+
+- A. El 10%
+- B. El 11%
+- C. El 20%
+- D. El 65%
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Recursos
+
+En las Antillas, Cuba posee el 10% de las reservas de níquel.
+
+### 291
+
+De acuerdo con el libro de Historia Universal, ¿de qué recursos es dueña República Dominicana?
+
+- A. De fosfatos naturales, cobalto, mármol y sal
+- B. De oro, plata, cinc y plomo
+- C. De bauxita, manganeso y cromo
+- D. De níquel, cobalto y bauxita
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Recursos
+
+República Dominicana es dueña de fosfatos naturales, cobalto, mármol y sal.
+
+### 292
+
+De acuerdo con el libro de Historia Universal, ¿en qué países de Sudamérica se encuentra petróleo?
+
+- A. En Venezuela, Ecuador y Argentina
+- B. En Venezuela, Colombia y Brasil
+- C. En Venezuela, Ecuador y Bolivia
+- D. En Venezuela, Ecuador y Perú
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Recursos
+
+En Sudamérica se encuentra petróleo en Venezuela, Ecuador y Argentina, hierro en Brasil, estaño en Bolivia, cobre en Chile y Perú, y carbón en Colombia.
+
+### 293
+
+De acuerdo con el libro de Historia Universal, ¿qué recursos se encuentran en Brasil, Bolivia, Chile y Perú, y Colombia?
+
+- A. Hierro en Brasil, estaño en Bolivia, cobre en Chile y Perú, y carbón en Colombia
+- B. Estaño en Brasil, hierro en Bolivia, cobre en Chile y Perú, y carbón en Colombia
+- C. Hierro en Brasil, cobre en Bolivia, estaño en Chile y Perú, y carbón en Colombia
+- D. Carbón en Brasil, estaño en Bolivia, cobre en Chile y Perú, y hierro en Colombia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Recursos
+
+En Sudamérica se encuentra petróleo en Venezuela, Ecuador y Argentina, hierro en Brasil, estaño en Bolivia, cobre en Chile y Perú, y carbón en Colombia.
+
+### 294
+
+De acuerdo con el libro de Historia Universal, ¿qué problemas se manifiestan en América Latina en la década de los noventa?
+
+- A. Golpes de estado, asesinatos políticos, corrupción, narcotráfico, desintegración de alianzas políticas y diversos escándalos
+- B. Guerras civiles, dictaduras militares y crisis de deuda externa
+- C. Conflictos territoriales, migración masiva y desempleo
+- D. Inflación caótica, déficit en las balanzas de pagos y bajo índice de ahorro
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Panorama de los noventa
+
+El panorama que vive América Latina en la década de los noventa se caracteriza por tratar de consolidar los gobiernos democráticos, a pesar de ciertos problemas que se manifiestan: golpes de estado, asesinatos políticos, corrupción, narcotráfico, desintegración de alianzas políticas y diversos escándalos relacionados con el gobierno.
+
+### 295
+
+De acuerdo con el libro de Historia Universal, ¿qué organismo impulsó las profundas reformas de ajustes estructurales?
+
+- A. El Fondo Monetario Internacional
+- B. El Banco Mundial
+- C. La Organización de las Naciones Unidas
+- D. La "Cumbre de las Américas"
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Plano económico
+
+En el plano económico se han establecido profundas reformas de ajustes estructurales impulsadas por el Fondo Monetario Internacional (FMI), que se traducen en programas neoliberales.
+
+### 296
+
+De acuerdo con el libro de Historia Universal, ¿en qué prácticas se traducen los programas neoliberales?
+
+- A. Privatizaciones masivas, políticas de reformas del Estado, de estabilización y ajuste estructural, aperturas del mercado interno, y control de salarios
+- B. Nacionalizaciones, control de precios y subsidios al consumo
+- C. Privatizaciones masivas, aumento del gasto social y apertura comercial
+- D. Reformas agrarias, control de cambios y proteccionismo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Plano económico
+
+Se traducen en programas neoliberales a través de las siguientes prácticas: privatizaciones masivas, políticas de reformas del Estado, de estabilización y ajuste estructural, aperturas del mercado interno, y control de salarios.
+
+### 297
+
+De acuerdo con el libro de Historia Universal, ¿entre qué países se estableció el Tratado de Libre Comercio en 1994?
+
+- A. Entre Canadá, Estados Unidos y México
+- B. Entre Colombia, México y Venezuela
+- C. Entre Argentina, Brasil, Paraguay, Uruguay y Chile
+- D. Entre Estados Unidos, México y Venezuela
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Integración económica
+
+Además de las políticas regionales de integración económica, como el Tratado de Libre Comercio (TLC, 1994) entre Canadá, Estados Unidos y México.
+
+### 298
+
+De acuerdo con el libro de Historia Universal, ¿qué países integran el Mercado Común de América del Sur, de 1995?
+
+- A. Argentina, Brasil, Paraguay, Uruguay y Chile
+- B. Argentina, Brasil, Paraguay, Uruguay y Bolivia
+- C. Colombia, México y Venezuela
+- D. Argentina, Brasil, Chile, Perú y Bolivia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Integración económica
+
+El Mercado Común de América del Sur (MERCOSUR, 1995), entre Argentina, Brasil, Paraguay, Uruguay y Chile.
+
+### 299
+
+De acuerdo con el libro de Historia Universal, ¿qué países agrupa el Grupo de los Tres, vigente desde 1995?
+
+- A. Colombia, México y Venezuela
+- B. Canadá, Estados Unidos y México
+- C. Argentina, Brasil y Chile
+- D. México, Venezuela y Brasil
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Integración económica
+
+El Grupo de los Tres, vigentes desde 1995, que agrupa a Colombia, México y Venezuela.
+
+### 300
+
+De acuerdo con el libro de Historia Universal, ¿para qué año se pretende crear una zona de libre comercio para toda América?
+
+- A. Para el año 2005
+- B. Para el año 2000
+- C. Para el año 1995
+- D. Para el año 2010
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 256
+**Subtema:** América Latina y el Caribe · Integración económica
+
+Se pretende crear para el año 2005 una zona de libre comercio para toda América.
+
+---
+
+## Sub-lote 29 · América Central y el Caribe
+
+### 301
+
+De acuerdo con el libro de Historia Universal, ¿en qué cumbre y a iniciativa de quién se acordó la zona de libre comercio para toda América?
+
+- A. En la "Cumbre de las Américas" (1994), a iniciativa de Estados Unidos
+- B. En la "Cumbre de las Américas" (1995), a iniciativa de México
+- C. En el Tratado de Libre Comercio (1994), a iniciativa de Canadá
+- D. En el MERCOSUR (1995), a iniciativa de Brasil
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Latina y el Caribe · Integración económica
+
+Según lo acordado en la "Cumbre de las Américas" (1994) a iniciativa de Estados Unidos.
+
+### 302
+
+De acuerdo con el libro de Historia Universal, ¿para quiénes han sido los beneficios de la política neoliberal en las economías latinoamericanas?
+
+- A. Sólo para una minoría
+- B. Para la mayoría de la población
+- C. Sólo para los países del Caribe
+- D. Sólo para los organismos financieros internacionales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Latina y el Caribe · Plano económico
+
+También se puede vislumbrar la fragilidad de la política neoliberal en las economías latinoamericanas al observar que los beneficios sólo han sido para una minoría.
+
+### 303
+
+De acuerdo con el libro de Historia Universal, ¿de qué graves problemas adolece hoy América Latina?
+
+- A. Narcotráfico, lavado de dinero, miseria e injusticia
+- B. Golpes de estado, asesinatos políticos y corrupción
+- C. Inflación, desempleo y migración
+- D. Deuda externa, dependencia financiera y desigualdad
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Latina y el Caribe · Plano económico
+
+Amén de los graves problemas de los que hoy adolecen: narcotráfico, lavado de dinero, miseria e injusticia.
+
+### 304
+
+De acuerdo con el libro de Historia Universal, ¿cómo se llama también al mar Caribe?
+
+- A. Mediterráneo de las Américas
+- B. Mar de las Antillas
+- C. Mediterráneo Americano
+- D. Golfo de las Américas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Central y el Caribe · Generalidades
+
+Están bañados por el mar Caribe (Mediterráneo de las Américas), de gran importancia estratégica y comercial.
+
+### 305
+
+De acuerdo con el libro de Historia Universal, ¿qué conflictos afectaron a la región en la década de los ochenta?
+
+- A. Los conflictos de Nicaragua, El Salvador y Guatemala
+- B. Los conflictos de Cuba, Nicaragua y Honduras
+- C. Los conflictos de Guatemala, Honduras y El Salvador
+- D. Los conflictos de Nicaragua, Panamá y Guatemala
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Central y el Caribe · Generalidades
+
+Un conjunto de países de dimensión, población, riqueza y cultura muy diversas, que en la década de los ochenta se vio afectada por los conflictos de Nicaragua, El Salvador y Guatemala.
+
+### 306
+
+De acuerdo con el libro de Historia Universal, ¿cuál es el más septentrional de los países centroamericanos?
+
+- A. Guatemala
+- B. El Salvador
+- C. Honduras
+- D. Nicaragua
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Central y el Caribe · Guatemala
+
+El más septentrional de los países centroamericanos, con una población, estimada en 2011, de 14 713 763 habitantes, en una región básicamente montañosa.
+
+### 307
+
+De acuerdo con el libro de Historia Universal, ¿cuál era la población de Guatemala estimada en 2011?
+
+- A. 14 713 763 habitantes
+- B. 11 713 763 habitantes
+- C. 14 173 763 habitantes
+- D. 17 413 763 habitantes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Central y el Caribe · Guatemala
+
+Con una población, estimada en 2011, de 14 713 763 habitantes, en una región básicamente montañosa.
+
+### 308
+
+De acuerdo con el libro de Historia Universal, ¿dónde se efectuaron las pláticas entre una delegación del gobierno guatemalteco y los guerrilleros opositores al régimen?
+
+- A. En Oslo, Noruega
+- B. En Nueva York, en la Organización de las Naciones Unidas
+- C. En la ciudad de México
+- D. En La Haya
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Central y el Caribe · Guatemala
+
+Destacan en este contexto las pláticas efectuadas en marzo del mismo año, en Oslo, Noruega, entre una delegación del gobierno con los guerrilleros opositores al régimen, con objeto de poner fin a varios años de guerra civil.
+
+### 309
+
+De acuerdo con el libro de Historia Universal, ¿a quién se otorgó el Premio Nobel de la Paz en 1992?
+
+- A. A Rigoberta Menchú, luchadora incansable de los derechos indígenas
+- B. A Álvaro Arzú Irigoyen
+- C. A Ramiro de León Carpio
+- D. A Jorge Serrano
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Central y el Caribe · Guatemala
+
+Dentro del proceso de pacificación destacó el otorgamiento del Premio Nobel de la Paz en 1992 a Rigoberta Menchú, luchadora incansable de los derechos indígenas.
+
+### 310
+
+De acuerdo con el libro de Historia Universal, ¿en qué año firmaron un Acuerdo de Paz el gobierno de Guatemala y la guerrilla?
+
+- A. En 1996
+- B. En 1992
+- C. En 1993
+- D. En 1994
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Central y el Caribe · Guatemala
+
+Finalmente, el gobierno de Guatemala y la guerrilla firmaron un Acuerdo de Paz en 1996, el cual pone fin a un conflicto de tres décadas y que causó más de 100 mil muertes.
+
+### 311
+
+De acuerdo con el libro de Historia Universal, ¿a un conflicto de cuánto tiempo puso fin ese Acuerdo de Paz y cuántas muertes causó?
+
+- A. De tres décadas, con más de 100 mil muertes
+- B. De dos décadas, con más de 100 mil muertes
+- C. De tres décadas, con más de 50 mil muertes
+- D. De una década, con más de 100 mil muertes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Central y el Caribe · Guatemala
+
+El cual pone fin a un conflicto de tres décadas y que causó más de 100 mil muertes.
+
+### 312
+
+De acuerdo con el libro de Historia Universal, ¿qué presidente guatemalteco fracasó en su intento de golpe de estado civil en 1993 y fue obligado a renunciar?
+
+- A. Jorge Serrano
+- B. Ramiro de León Carpio
+- C. Álvaro Arzú Irigoyen
+- D. Rafael Leonardo Callejas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Central y el Caribe · Guatemala
+
+En 1993 el gobierno guatemalteco se vio envuelto en una grave crisis política cuando el presidente Jorge Serrano fracasó en su intento de golpe de estado civil y fue obligado a renunciar.
+
+### 313
+
+De acuerdo con el libro de Historia Universal, ¿a quién eligió el parlamento para que concluyera el mandato?
+
+- A. A Ramiro de León Carpio
+- B. A Álvaro Arzú Irigoyen
+- C. A Rigoberta Menchú
+- D. A Alfredo Cristiani
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 257
+**Subtema:** América Central y el Caribe · Guatemala
+
+Por lo que el parlamento eligió a Ramiro de León Carpio para que concluyera el mandato hasta enero de 1996.
+
+### 314
+
+De acuerdo con el libro de Historia Universal, ¿quién asumió la presidencia de Guatemala en enero de 1996 y por qué partido?
+
+- A. Álvaro Arzú Irigoyen, del Partido de Avanzada Nacional
+- B. Ramiro de León Carpio, del Partido de Avanzada Nacional
+- C. Jorge Serrano, del Partido de Avanzada Nacional
+- D. Álvaro Arzú Irigoyen, de la Alianza Republicana Nacionalista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · Guatemala
+
+En esta fecha asumió la presidencia el licenciado Álvaro Arzú Irigoyen del Partido de Avanzada Nacional.
+
+### 315
+
+De acuerdo con el libro de Historia Universal, ¿cuál es el más pequeño de los países centroamericanos?
+
+- A. El Salvador, cuya densidad de población es la mayor de la región
+- B. Guatemala
+- C. Honduras
+- D. Nicaragua
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · El Salvador
+
+El Salvador es el más pequeño de los países centroamericanos, pero su densidad de población es la mayor de la región.
+
+### 316
+
+De acuerdo con el libro de Historia Universal, ¿qué frente encabezó la guerra intestina que arrastró a El Salvador por más de una década?
+
+- A. El Frente de Liberación Nacional "Farabundo Martí"
+- B. La Alianza Republicana Nacionalista
+- C. El Partido de Avanzada Nacional
+- D. El Frente Sandinista de Liberación Nacional
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · El Salvador
+
+Este pueblo se vio arrastrado por más de una década en una guerra intestina, encabezada por el Frente de Liberación Nacional "Farabundo Martí" (FMLN).
+
+### 317
+
+De acuerdo con el libro de Historia Universal, ¿qué gobierno se reunió con los dirigentes del FMLN para negociar, sin resultado positivo, el fin de la guerra?
+
+- A. El presidido por José Napoleón Duarte
+- B. El presidido por Alfredo Cristiani
+- C. El presidido por Armando Calderón Sol
+- D. El presidido por Rafael Leonardo Callejas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · El Salvador
+
+El gobierno presidido por José Napoleón Duarte se reunió con los dirigentes del FMLN para negociar, sin resultado positivo, el fin de la guerra.
+
+### 318
+
+De acuerdo con el libro de Historia Universal, ¿con el triunfo de quién y en qué fecha se reanudaron las conversaciones de paz?
+
+- A. De Alfredo Cristiani, candidato de la Alianza Republicana Nacionalista, en marzo de 1989
+- B. De José Napoleón Duarte, en marzo de 1989
+- C. De Armando Calderón Sol, candidato de la Alianza Republicana Nacionalista, en 1994
+- D. De Alfredo Cristiani, candidato del FMLN, en marzo de 1989
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · El Salvador
+
+Con el triunfo de Alfredo Cristiani, candidato de la Alianza Republicana Nacionalista (ARENA), en marzo de 1989, se reanudaron las conversaciones de paz.
+
+### 319
+
+De acuerdo con el libro de Historia Universal, ¿cuándo y dónde se firmó el Acuerdo de Nueva York?
+
+- A. El 25 de septiembre de 1991, en la Organización de las Naciones Unidas
+- B. El 25 de septiembre de 1992, en la Organización de las Naciones Unidas
+- C. El 25 de septiembre de 1991, en la ciudad de México
+- D. El 21 de diciembre de 1991, en la Organización de las Naciones Unidas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · El Salvador
+
+Con el Acuerdo de Nueva York, firmado el 25 de septiembre de 1991 en la Organización de las Naciones Unidas (ONU), el proceso de pacificación entró en su recta final.
+
+### 320
+
+De acuerdo con el libro de Historia Universal, ¿con qué acuerdo y dónde se puso fin a la guerra civil salvadoreña?
+
+- A. Con la firma del Acuerdo de Chapultepec, en la ciudad de México
+- B. Con la firma del Acuerdo de Nueva York, en la Organización de las Naciones Unidas
+- C. Con la firma del Acuerdo de Paz, en Oslo, Noruega
+- D. Con la firma del Acuerdo de Chapultepec, en Nueva York
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · El Salvador
+
+El proceso de pacificación entró en su recta final cuando, meses más tarde, se puso fin a la guerra civil con la firma del Acuerdo de Chapultepec en la ciudad de México.
+
+### 321
+
+De acuerdo con el libro de Historia Universal, ¿qué tribunal puso fin en 1992 al conflicto territorial entre El Salvador y Honduras, y a quién favoreció?
+
+- A. El Tribunal Internacional de Justicia de la Haya, favoreciendo a Honduras
+- B. El Tribunal Internacional de Justicia de la Haya, favoreciendo a El Salvador
+- C. La Organización de las Naciones Unidas, favoreciendo a Honduras
+- D. La Corte Interamericana, favoreciendo a Honduras
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · El Salvador
+
+En 1992 el Tribunal Internacional de Justicia de la Haya puso fin al histórico conflicto territorial entre El Salvador y Honduras, favoreciendo a este último.
+
+### 322
+
+De acuerdo con el libro de Historia Universal, ¿quién asumió la presidencia de El Salvador en 1994?
+
+- A. Armando Calderón Sol, nuevamente un candidato de la Alianza Republicana Nacionalista
+- B. Alfredo Cristiani, candidato de la Alianza Republicana Nacionalista
+- C. José Napoleón Duarte
+- D. Rafael Leonardo Callejas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · El Salvador
+
+Nuevamente un candidato de ARENA, Armando Calderón Sol, asumió la presidencia en 1994 y lanzó un programa de reformas económicas.
+
+### 323
+
+De acuerdo con el libro de Historia Universal, ¿por qué protestaron los sindicatos e industriales ante el programa de reformas económicas?
+
+- A. Por el proceso de privatización, el sistema de libre convertibilidad de la moneda y tipo de cambio fijo y la eliminación de aranceles aduaneros
+- B. Por el control de salarios y la disminución del gasto social
+- C. Por la apertura del mercado interno y el aumento de la deuda externa
+- D. Por las políticas de reformas del Estado y el ajuste estructural
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · El Salvador
+
+Ante la inconformidad de sindicatos e industriales que protestaron por el proceso de privatización, el sistema de libre convertibilidad de la moneda y tipo de cambio fijo y la eliminación de aranceles aduaneros.
+
+### 324
+
+De acuerdo con el libro de Historia Universal, ¿cuál ha sido el principal reto de Armando Calderón Sol?
+
+- A. La lucha contra la pobreza y el desarrollo social
+- B. El proceso de privatización
+- C. La pacificación del país
+- D. La eliminación de aranceles aduaneros
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · El Salvador
+
+Su principal reto ha sido la lucha contra la pobreza y el desarrollo social.
+
+### 325
+
+De acuerdo con el libro de Historia Universal, ¿qué lugar ocupa Honduras entre los países centroamericanos por su superficie y de qué es uno de los principales productores?
+
+- A. El segundo, y es uno de los principales productores de plátano o banano y café del continente
+- B. El primero, y es uno de los principales productores de café y cacao
+- C. El segundo, y es uno de los principales productores de café y azúcar
+- D. El tercero, y es uno de los principales productores de plátano o banano
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · Honduras
+
+Honduras es el segundo país centroamericano por su superficie y uno de los principales productores de plátano o banano y café del continente.
+
+### 326
+
+De acuerdo con el libro de Historia Universal, ¿de quién es herencia el marco de libertad en que Honduras lucha por superar sus problemas económicos?
+
+- A. Del distinguido liberal Francisco Morazán
+- B. Del economista Rafael Leonardo Callejas
+- C. Del liberal José Napoleón Duarte
+- D. Del Partido de Avanzada Nacional
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 258
+**Subtema:** América Central y el Caribe · Honduras
+
+En la actualidad, el país lucha por superar sus problemas económicos en un marco de libertad, herencia del distinguido liberal Francisco Morazán.
+
+---
+
+**Reactivos en este archivo:** 326
