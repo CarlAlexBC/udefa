@@ -129,7 +129,7 @@ describe('ExamenesService · muestreo por unidades', () => {
   describe('la invariante que sostiene todo', () => {
     it('ningún reactivo llega huérfano al examen', () => {
       // Lote realista: 20 pares + 5 trampas sueltas.
-      const reactivos = [];
+      const reactivos: ReturnType<typeof react>[] = [];
       for (let i = 0; i < 20; i++) {
         const a = i * 2 + 1;
         const b = i * 2 + 2;
