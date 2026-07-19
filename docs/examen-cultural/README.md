@@ -53,13 +53,20 @@ texto**: no se pueden leer por programa.
 |---|---|---|
 | Geografía Moderna de México | 15ª, Trillas 2021 (reimp. 2023) | sí — coincide con el temario |
 | Historia Universal | 3ª, Limusa 2016 | sí — misma edición, reimpresión distinta al temario |
-| Álgebra de Baldor | sin verificar | pendiente |
-| Taller de Redacción | sin verificar | pendiente |
+| Álgebra de Baldor | 4ª, Patria 2019 | sí — coincide con el temario |
+| Taller de Redacción (Zarzar) | 3ª ebook, Patria 2017 | sí — ver nota abajo |
 
 **Verifica siempre la edición contra la página legal antes de usar un libro.**
 Ya pasó una vez que el de Historia era la 2ª edición de 2008 en vez de la 3ª, y
 el capítulo 6 trata de "acontecimientos de nuestros días" — un libro de 2008 no
 puede contener lo que dice uno de 2016.
+
+**Discrepancia del Taller de Redacción:** el temario cita "4ª edición 2017" y la
+página legal del ejemplar dice "Tercera edición ebook: 2017". Coinciden autor,
+título, editorial y año; solo difiere el número de edición, probablemente por la
+numeración impresa contra la del ebook. No es el caso del Álgebra, donde el
+ejemplar viejo era de otra editorial y con 16 años de diferencia — ése sí se
+descartó.
 
 **Y verifica que el PDF traiga contenido.** Dos veces llegaron archivos con las
 páginas vacías: 291 hojas con un PNG de 473 bytes repetido, que es el icono de
@@ -81,6 +88,19 @@ El script vive en el scratchpad de la sesión; si no está, son 20 líneas con
 Leer la página como imagen es mejor que OCR: se ven bien la notación matemática
 del Baldor y los mapas de Geografía, que el OCR destrozaría.
 
+## Verificar la paginación contra el Anexo H
+
+Cuando la convocatoria cite el libro que estás trabajando, **usa sus ejemplos
+para comprobar que tu ejemplar es el mismo**. Es la evidencia más fuerte que hay.
+
+Funcionó con el Taller de Redacción: el Ejemplo 4 del Anexo H ubica la función
+informativa en la pág. 15 y el Ejemplo 5 el conector discursivo en la pág. 80, y
+ambas coinciden con el ejemplar. Y funcionó al revés con Geografía, donde el
+Ejemplo 3 cita Revillagigedo en la pág. 91 y en la 15ª edición ese dato está en
+la 98 y la 102 — ahí la que está corrida es la convocatoria. Esa diferencia queda
+explicada dentro del reactivo 15 de `HCM/geografia-05-islas.md`, por si un
+aspirante compara.
+
 ## Trampa de la numeración
 
 **La hoja del PDF no coincide con la página impresa, y el desfase se corre.**
@@ -93,16 +113,6 @@ Otros huecos conocidos de Geografía: faltan las páginas impresas 87 y 88 (caen
 en Regiones geomorfológicas, fuera del temario), y el escaneo se corta cerca de
 la impresa 260 de 486 (el temario termina en la 104, así que alcanza).
 
-## Discrepancia con la convocatoria
-
-El ejemplo 3 del Anexo H cita Revillagigedo en la *Pág. 91* de Tamayo 2021. En
-esa edición, la 91 es el arranque del capítulo de Litorales; el dato está en el
-**Cuadro 5.1 de la página 98**.
-
-Nuestras referencias se leyeron del libro, una por una. Si un aspirante compara
-y ve la diferencia, está explicada dentro del reactivo 15 de
-`HCM/geografia-05-islas.md`.
-
 ## Avance
 
 | Materia | Reactivos | Pendiente |
@@ -112,12 +122,35 @@ y ve la diferencia, está explicada dentro del reactivo 15 de
 | Geografía cap. 4 | 27 | — |
 | Geografía cap. 5 | 42 | — |
 | Historia cap. 6 | 69 | pp. 221–226, 238–267, 268–279 |
-| Álgebra | 0 | caps. I–VI |
-| Español | 0 | bloques 1 y 3 |
+| Español bloque 1 | 32 | — |
+| Español bloque 3 | 77 | — |
+| Álgebra Preliminares | 20 | pp. 9–39 |
+| Álgebra caps. I–VI | 0 | pp. 40–111 |
 
-**Total: 194 reactivos. Geografía queda cerrada**, cubriendo todo el alcance del
-temario. Las siguientes materias arrancan de cero, y de Álgebra y Español falta
-verificar la edición contra la página legal antes de usarlas.
+**Total: 323 reactivos.**
+
+- **Geografía cerrada**, todo el alcance del temario.
+- **Español cerrado**, 109 reactivos entre los dos bloques.
+- **Historia**: la Guerra Fría completa; faltan los otros tres apartados.
+- **Álgebra**: apenas arrancada, es la que más falta.
+
+### Alcance de Álgebra, decisión abierta
+
+El temario dice "Capítulos I–VI", que estrictamente empiezan en la página 40.
+Se está incluyendo además la sección **Preliminares** (pp. 5–39), donde viven
+las definiciones de término, coeficiente, grado, monomio y polinomio — el
+contenido de recuerdo literal más probable. Queda documentado por si se decide
+separarlo.
+
+### Dos chats sobre el mismo banco
+
+Este bloque lo han trabajado dos sesiones en paralelo. Geografía e Historia las
+hizo una; Español y Álgebra la otra. **Antes de empezar una materia, revisa qué
+archivos existen ya** — hubo un momento en que ambas creían tener asignada
+Historia y solo la casualidad evitó el trabajo duplicado.
+
+Y **commitea al terminar cada tanda.** Los 129 reactivos de Español y Álgebra
+estuvieron sin respaldo en git durante toda su elaboración.
 
 ## Lo que aún no existe
 
