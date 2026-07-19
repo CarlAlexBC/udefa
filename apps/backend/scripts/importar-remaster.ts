@@ -3,11 +3,14 @@
  * a la tabla Reactivo con banco="remaster".
  *
  * Uso:
- *   npx ts-node scripts/importar-remaster.ts            → MODO PRUEBA (no escribe nada)
+ *   npx ts-node scripts/importar-remaster.ts            → MODO PRUEBA (no toca la base)
  *   npx ts-node scripts/importar-remaster.ts --escribir → escribe a la base
  *
  * En modo prueba lee los 28 archivos, arma las filas, corre todas las validaciones
  * y reporta los números. No toca la base de datos.
+ *
+ * En los dos modos regenera `docs/personalidad-remaster/ESTADO.md`, que refleja
+ * los `.md` del banco y no la base, así que no depende de --escribir.
  *
  * El banco viejo (banco="v1") no se toca en ningún caso.
  */
@@ -318,8 +321,114 @@ function validar(filas: Fila[]) {
   return { problemas, avisos };
 }
 
+/**
+ * Arma el contenido de ESTADO.md a partir de lo que el importador ya calculó.
+ *
+ * Existe porque PENDIENTES.md, escrito a mano, llegó a afirmar tres cosas
+ * falsas sobre el banco y nos mandó por el camino equivocado. Un documento
+ * generado no puede mentir: si el dato cambia, el archivo cambia.
+ *
+ * **Sin fecha de generación a propósito.** Un timestamp haría que el archivo
+ * saliera modificado en cada corrida aunque el banco esté igual, y entonces el
+ * diff dejaría de significar algo. Así, que ESTADO.md aparezca modificado ya es
+ * la señal: cambió el banco.
+ */
+function generarEstado(
+  filas: Fila[],
+  porEje: Map<number, Fila[]>,
+  problemas: string[],
+  avisos: string[],
+  crossSinResolver: string[],
+): string {
+  const tot = (fn: (f: Fila) => boolean) => filas.filter(fn).length;
+  const L: string[] = [];
+
+  L.push('# Estado del banco remasterizado');
+  L.push('');
+  L.push('**Archivo generado — no lo edites a mano.** Lo escribe');
+  L.push('`apps/backend/scripts/importar-remaster.ts` en cada corrida, a partir de los');
+  L.push('`.md` de este directorio. Para regenerarlo:');
+  L.push('');
+  L.push('```');
+  L.push('npx ts-node scripts/importar-remaster.ts');
+  L.push('```');
+  L.push('');
+  L.push('Las decisiones abiertas y la deuda técnica viven en `PENDIENTES.md`, que sí');
+  L.push('se escribe a mano porque no se puede derivar del código.');
+  L.push('');
+  L.push('## Por eje');
+  L.push('');
+  L.push('| eje | tema | total | POS | NEG | TRAM | DESC | crít | pares | cross |');
+  L.push('|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|');
+  for (const eje of [...porEje.keys()].sort((a, b) => a - b)) {
+    const f = porEje.get(eje)!;
+    const c = (p: Polaridad | null) => f.filter((x) => x.polaridad === p).length;
+    L.push(
+      `| ${eje} | ${TEMA_POR_EJE[eje]} | ${f.length} | ${c(Polaridad.POSITIVA)} | ` +
+        `${c(Polaridad.NEGATIVA)} | ${c(Polaridad.TRAMPA)} | ` +
+        `${f.filter((x) => x.noPuntua).length} | ${f.filter((x) => x.esCritico).length} | ` +
+        `${f.filter((x) => x.parNumero !== null).length / 2} | ` +
+        `${f.filter((x) => x.crossRef).length} |`,
+    );
+  }
+  L.push(
+    `| | **TOTAL** | **${filas.length}** | ${tot((f) => f.polaridad === Polaridad.POSITIVA)} | ` +
+      `${tot((f) => f.polaridad === Polaridad.NEGATIVA)} | ${tot((f) => f.polaridad === Polaridad.TRAMPA)} | ` +
+      `${tot((f) => f.noPuntua)} | ${tot((f) => f.esCritico)} | ` +
+      `${tot((f) => f.parNumero !== null) / 2} | ${tot((f) => !!f.crossRef)} |`,
+  );
+
+  L.push('');
+  L.push('## Trampas de validez');
+  L.push('');
+  L.push('| tipo | cantidad |');
+  L.push('|---|---:|');
+  L.push(`| L (Lie) | ${tot((f) => f.tipoTrampa === TipoTrampa.L)} |`);
+  L.push(`| K (Defensiveness) | ${tot((f) => f.tipoTrampa === TipoTrampa.K)} |`);
+  L.push(`| F (Infrequency) | ${tot((f) => f.tipoTrampa === TipoTrampa.F)} |`);
+
+  L.push('');
+  L.push('## Cruces cross-tema');
+  L.push('');
+  const pref = (p: string) => tot((f) => !!f.crossRef && f.crossRef.startsWith(p));
+  L.push('| dirección | cantidad |');
+  L.push('|---|---:|');
+  L.push(`| \`recibe:\` | ${pref('recibe:')} |`);
+  L.push(`| \`emite:\` | ${pref('emite:')} |`);
+  L.push(`| \`pendiente:\` | ${pref('pendiente:')} |`);
+  if (crossSinResolver.length > 0) {
+    L.push('');
+    L.push('Sin resolver:');
+    L.push('');
+    crossSinResolver.forEach((s) => L.push(`- \`${s}\``));
+  }
+
+  L.push('');
+  L.push('## Validaciones');
+  L.push('');
+  if (problemas.length === 0) {
+    L.push('Sin problemas.');
+  } else {
+    L.push(`**${problemas.length} problema(s):**`);
+    L.push('');
+    problemas.forEach((p) => L.push(`- ${p}`));
+  }
+  if (avisos.length > 0) {
+    L.push('');
+    L.push(`### Anclas detectadas (${avisos.length})`);
+    L.push('');
+    L.push('Pares de la misma polaridad. No son error: miden un criterio en ventana');
+    L.push('temporal y el analizador debe tratarlos como ancla, no como par de coherencia.');
+    L.push('');
+    avisos.forEach((a) => L.push(`- ${a}`));
+  }
+
+  L.push('');
+  return L.join('\n');
+}
+
 async function main() {
-  console.log(ESCRIBIR ? '=== MODO ESCRITURA ===' : '=== MODO PRUEBA (no escribe nada) ===');
+  console.log(ESCRIBIR ? '=== MODO ESCRITURA ===' : '=== MODO PRUEBA (no toca la base) ===');
   console.log('');
 
   const archivos = fs.readdirSync(DIR).filter((f) => /^\d{2}-.*\.md$/.test(f)).sort();
@@ -400,6 +509,22 @@ async function main() {
     avisos.forEach((a) => console.log('   · ' + a));
   }
 
+  // ---- ESTADO.md ----
+  // Se escribe siempre, también en modo prueba: refleja los .md del banco, no
+  // la base, así que no depende de --escribir. Si el contenido no cambió, no se
+  // toca el archivo, para que git no lo reporte modificado sin motivo.
+  const estado = generarEstado(filas, porEje, problemas, avisos, crossSinResolver);
+  const rutaEstado = path.join(DIR, 'ESTADO.md');
+  const previo = fs.existsSync(rutaEstado) ? fs.readFileSync(rutaEstado, 'utf8') : null;
+  if (previo === estado) {
+    console.log('');
+    console.log('ESTADO.md sin cambios.');
+  } else {
+    fs.writeFileSync(rutaEstado, estado, 'utf8');
+    console.log('');
+    console.log(previo === null ? 'ESTADO.md creado.' : 'ESTADO.md actualizado.');
+  }
+
   // ---- estado de la base ----
   const yaHay = await prisma.reactivo.count({ where: { banco: BANCO } });
   const viejos = await prisma.reactivo.count({ where: { banco: 'v1' } });
@@ -408,7 +533,7 @@ async function main() {
 
   if (!ESCRIBIR) {
     console.log('');
-    console.log('Modo prueba: no se escribió nada. Para escribir:');
+    console.log('Modo prueba: la base no se tocó. Para escribir:');
     console.log('  npx ts-node scripts/importar-remaster.ts --escribir');
     await prisma.$disconnect();
     return;

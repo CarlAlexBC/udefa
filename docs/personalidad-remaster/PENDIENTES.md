@@ -1,7 +1,12 @@
 # Pendientes del banco remasterizado
 
-Estado al 18 de julio de 2026. Este archivo existe para que nada de lo abierto
-se pierda entre sesiones.
+Este archivo existe para que nada de lo abierto se pierda entre sesiones.
+Aquí van **decisiones y deuda técnica** — lo que no se puede derivar del código.
+
+**Los números del banco no viven aquí, viven en [`ESTADO.md`](./ESTADO.md)**,
+que regenera el importador en cada corrida. Este documento llegó a afirmar tres
+cosas falsas sobre `crossRef` porque se escribía a mano; si necesitas un conteo,
+míralo allá y no aquí.
 
 ---
 
