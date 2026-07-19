@@ -142,12 +142,24 @@ las definiciones de término, coeficiente, grado, monomio y polinomio — el
 contenido de recuerdo literal más probable. Queda documentado por si se decide
 separarlo.
 
-### Dos chats sobre el mismo banco
+### Reparto entre chats
 
-Este bloque lo han trabajado dos sesiones en paralelo. Geografía e Historia las
-hizo una; Español y Álgebra la otra. **Antes de empezar una materia, revisa qué
-archivos existen ya** — hubo un momento en que ambas creían tener asignada
-Historia y solo la casualidad evitó el trabajo duplicado.
+Este bloque lo han trabajado dos sesiones en paralelo. Reparto vigente, decidido
+por Carlo:
+
+| Materia | Quién |
+|---|---|
+| Geografía | hecha — cerrada |
+| Español | hecha — cerrada |
+| **Historia** | **chat A** (el que hizo Geografía) |
+| **Álgebra** | **chat A** |
+
+Español y Álgebra los arrancó el chat B; Álgebra pasó al chat A a partir del
+19 de julio de 2026, con los 20 reactivos de Preliminares ya escritos como base.
+
+**Antes de empezar una materia, revisa qué archivos existen ya** — hubo un
+momento en que ambos chats creían tener asignada Historia y solo la casualidad
+evitó el trabajo duplicado.
 
 Y **commitea al terminar cada tanda.** Los 129 reactivos de Español y Álgebra
 estuvieron sin respaldo en git durante toda su elaboración.
