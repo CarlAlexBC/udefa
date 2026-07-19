@@ -28,3 +28,10 @@ coverage/
 # Temporales
 *.tmp
 *.tsbuildinfo
+
+# Libros y temarios del examen cultural.
+# Son ~300 MB de PDF escaneados y además material con derechos de autor: no
+# tienen por qué vivir en el repo. Los reactivos que salen de ellos sí se
+# versionan, en docs/examen-cultural/.
+# Cómo obtenerlos y qué ediciones son las correctas: docs/examen-cultural/README.md
+examen_cultural/
