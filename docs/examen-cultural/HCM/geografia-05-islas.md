@@ -28,8 +28,9 @@ otra numeración, el contenido sigue siendo el correcto.
 
 ## Cobertura actual
 
-Páginas 97 y 101: origen de las islas e islas del Golfo de California.
-**Pendiente:** páginas 98–100 y 102–104.
+Páginas 97, 98 y 101: origen de las islas, superficie, catálogo del Cuadro 5.1
+e islas del Golfo de California.
+**Pendiente:** páginas 99, 100 y 102–104.
 
 ---
 
@@ -225,4 +226,132 @@ El archipiélago de las islas Marías está formado por las islas María Madre (
 
 ---
 
-**Reactivos en este archivo:** 12
+## Sub-lote 4 · Superficie y catálogo de islas
+
+### 13
+
+De acuerdo con el libro de Geografía Moderna de México, según la estimación del INEGI publicada en su *Anuario estadístico* de 1995, ¿qué superficie cubren las islas del Golfo de México y el Caribe?
+
+- A. 718 km²
+- B. 4 643 km²
+- C. 5 363 km²
+- D. 1 208 km²
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 98
+**Subtema:** islas · superficie
+
+De acuerdo con una estimación publicada por el Instituto Nacional de Estadística, Geografía e Informática en su *Anuario estadístico* de 1995, las islas del Golfo de México y el Caribe cubren 718 km², mientras que las islas del Pacífico alcanzan una extensión total de 4 643 km².
+
+### 14
+
+De acuerdo con el libro de Geografía Moderna de México, ¿por qué debe considerarse un valor mínimo la superficie estimada de las islas mexicanas?
+
+- A. Porque no se dispone de un registro exhaustivo y de muchas se ignora su superficie
+- B. Porque la estimación excluye las islas del Pacífico
+- C. Porque solo se contabilizaron las islas habitadas
+- D. Porque el cálculo se hizo antes de 1950
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 98
+**Subtema:** islas · superficie
+
+Hemos visto nuestras islas con gran indiferencia, al grado de que la información sobre ellas es escasa; no se dispone de un registro exhaustivo; de muchas se ignora su superficie y aun los más importantes elementos descriptivos.
+
+### 15
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué está formado por las islas Socorro, San Benedicto, Clarión y Roca Partida?
+
+- A. El archipiélago del Norte
+- B. El archipiélago de Revillagigedo
+- C. El archipiélago de las islas Marías
+- D. Las islas del litoral occidental de Baja California
+
+**Respuesta:** B
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 98
+**Subtema:** islas · catálogo
+
+Cuadro 5.1, Principales islas de México. Colima: Revillagigedo (Socorro, San Benedicto, Clarión y Roca Partida).
+
+> Este reactivo replica el ejemplo 3 del Anexo "H" de la convocatoria. La
+> convocatoria lo referencia en la página 91; en esta edición el dato está en el
+> Cuadro 5.1 de la página 98.
+
+### 16
+
+De acuerdo con el libro de Geografía Moderna de México, ¿a qué estado corresponde el archipiélago de Revillagigedo?
+
+- A. Nayarit
+- B. Colima
+- C. Guerrero
+- D. Baja California Sur
+
+**Respuesta:** B
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 98
+**Subtema:** islas · catálogo
+
+Cuadro 5.1, Principales islas de México. Colima: Revillagigedo (Socorro, San Benedicto, Clarión y Roca Partida).
+
+### 17
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué islas corresponden al Mar de las Antillas?
+
+- A. Mujeres, Cozumel y Cancún
+- B. Holbox, Del Carmen y Lobos
+- C. Roqueta, El Ídolo y Sacrificios
+- D. Cedros, Magdalena y Santa Margarita
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 98
+**Subtema:** islas · catálogo
+
+Cuadro 5.1, Principales islas de México. Mar de las Antillas: Mujeres, Cozumel y Cancún.
+
+### 18
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué islas corresponden al estado de Veracruz?
+
+- A. Lobos, El Ídolo y Sacrificios
+- B. Mujeres, Cozumel y Cancún
+- C. Del Carmen y Holbox
+- D. Marías y Marietas
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 98
+**Subtema:** islas · catálogo
+
+Cuadro 5.1, Principales islas de México. Veracruz: Lobos, El Ídolo y Sacrificios.
+
+### 19
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la isla que el Cuadro 5.1 asigna al estado de Guerrero?
+
+- A. Roqueta
+- B. Holbox
+- C. Sacrificios
+- D. Cerralvo
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 98
+**Subtema:** islas · catálogo
+
+Cuadro 5.1, Principales islas de México. Guerrero: Roqueta.
+
+### 20
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué situación tienen las islas del archipiélago del norte, frente a la costa de la Alta California?
+
+- A. Diversos autores las consideran territorio mexicano, a pesar de la ocupación que de ellas ha hecho EUA desde hace más de 100 años
+- B. Fueron cedidas formalmente a EUA en el Tratado de la Mesilla
+- C. Nunca han sido reclamadas por ningún país
+- D. Están bajo la jurisdicción del estado de Baja California
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 98
+**Subtema:** islas · al oeste de Baja California
+
+No son de gran extensión, pero como diversos autores han considerado que estas islas pertenecen a territorio mexicano a pesar de la ocupación que de las mismas ha hecho EUA desde hace más de 100 años, conviene mencionarlas.
+
+---
+
+**Reactivos en este archivo:** 20
