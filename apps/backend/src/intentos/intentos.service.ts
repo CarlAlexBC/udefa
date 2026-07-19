@@ -258,6 +258,13 @@ export class IntentosService {
       ? null
       : this.calcularEscalasValidez(respuestasConDelta, intento.examen.tipo);
 
+    // Protocolo de señales críticas. Va aparte de todo lo demás porque no es
+    // un resultado del examen: es la única parte del panel que puede tener que
+    // poner un número de emergencia en pantalla.
+    const senalesCriticas = calificable
+      ? null
+      : this.detectarSenalesCriticas(respuestasConDelta, intento.examen.tipo);
+
     return {
       intentoId: intento.id,
       examen: {
@@ -275,6 +282,7 @@ export class IntentosService {
       metricasTemporales,
       analisisConsistencia,
       escalasValidez,
+      senalesCriticas,
     };
   }
 
@@ -583,6 +591,123 @@ export class IntentosService {
       // porque el aspirante no se declara perfecto — declara un estándar
       // perfecto, y eso suena maduro.
       idealizacionSofisticada: K.banda === 'alta' && L.banda === 'normal',
+    };
+  }
+
+  /**
+   * Protocolo de señales críticas — solo personalidad, solo banco remaster.
+   *
+   * El banco marca 88 reactivos como CRÍTICO, pero no todos quieren decir lo
+   * mismo. En los ejes 1 y 2 un "sí" habla de riesgo sobre la propia vida:
+   * ideación, percepción de ser una carga, acceso a medios. En los demás ejes
+   * describe un hallazgo fuerte de conducta — sostener una mentira, callar
+   * algo del grupo, ejercer la autoridad con dureza — que es serio pero no es
+   * una urgencia.
+   *
+   * Por eso solo los ejes 1 y 2 activan recursos de crisis. Si se dispararan
+   * con `esCritico` a secas, a alguien que admitió falsear un trámite le
+   * saldría un número de emergencia en pantalla, y eso desgasta la alerta
+   * justo para quien sí la necesita.
+   *
+   * El eje 1 lo fija `docs/personalidad-remaster/01-suicidio-sentido-vida.md`.
+   * El eje 2 lo añadió Carlo: sus críticos son percepción de ser una carga,
+   * que en el modelo Joiner pesa igual que los del eje 1.
+   *
+   * Dos reglas de sistema del mismo documento, que aquí se respetan por
+   * omisión y conviene no perder de vista:
+   * - **No se notifica a nadie.** El resultado no viaja al plantel ni a
+   *   reclutamiento. Es análisis privado del aspirante.
+   * - **No se invalida el examen.** La plataforma es preparación, no la
+   *   evaluación oficial de la UDEFA.
+   *
+   * Devuelve null si el examen no trae críticos, para que el panel sepa que no
+   * hay nada que mostrar en vez de dibujar un "0 señales" que asusta solo.
+   */
+  private detectarSenalesCriticas(
+    respuestas: Array<{
+      respuestaSeleccionada: string;
+      reactivo: {
+        eje: number | null;
+        numeroEnEje: number | null;
+        polaridad: string | null;
+        esCritico: boolean;
+        tema: string | null;
+      };
+    }>,
+    tipoExamen: string,
+  ) {
+    if (tipoExamen !== 'personalidad') return null;
+
+    const EJES_PROTOCOLO_CRISIS = [1, 2];
+
+    /**
+     * Un crítico afirma riesgo según su polaridad, no siempre con el "Sí": 87
+     * de los 88 son negativos y ahí el Sí es el dato, pero e10#88 es positivo
+     * y el riesgo lo marca el No. Devuelve null si no contestó.
+     */
+    const afirmaRiesgo = (r: {
+      respuestaSeleccionada: string;
+      reactivo: { polaridad: string | null };
+    }): boolean | null => {
+      const resp = r.respuestaSeleccionada.toLowerCase().trim();
+      const dijoSi = resp === 'sí' || resp === 'si';
+      const dijoNo = resp === 'no';
+      if (!dijoSi && !dijoNo) return null;
+      return r.reactivo.polaridad === 'POSITIVA' ? dijoNo : dijoSi;
+    };
+
+    const criticos = respuestas.filter((r) => r.reactivo.esCritico);
+    if (criticos.length === 0) return null;
+
+    let senalesCrisis = 0;
+    const hallazgosPorTema: Record<string, number> = {};
+    for (const r of criticos) {
+      if (afirmaRiesgo(r) !== true) continue;
+      if (r.reactivo.eje !== null && EJES_PROTOCOLO_CRISIS.includes(r.reactivo.eje)) {
+        senalesCrisis++;
+      } else {
+        const tema = r.reactivo.tema ?? 'sin_tema';
+        hallazgosPorTema[tema] = (hallazgosPorTema[tema] ?? 0) + 1;
+      }
+    }
+
+    // Combinación de riesgo agudo del eje 1: planeación con método (71) +
+    // acceso a medios (72) + ausencia de pacto de crisis (73). El 73 es
+    // POSITIVA, así que quien afirma riesgo ahí es el que contesta "No".
+    //
+    // Solo se puede evaluar si el muestreo trajo los tres al examen. Cuando no
+    // los trae, `combinacionEvaluable` queda en false para que el panel no lea
+    // el "no se cumple" como si fuera un descarte clínico.
+    const delEje1 = (n: number) =>
+      respuestas.find(
+        (r) => r.reactivo.eje === 1 && r.reactivo.numeroEnEje === n,
+      );
+    const r71 = delEje1(71);
+    const r72 = delEje1(72);
+    const r73 = delEje1(73);
+    const combinacionEvaluable = !!(r71 && r72 && r73);
+    const combinacionRiesgoAgudo =
+      combinacionEvaluable &&
+      afirmaRiesgo(r71!) === true &&
+      afirmaRiesgo(r72!) === true &&
+      afirmaRiesgo(r73!) === true;
+
+    const nivel = combinacionRiesgoAgudo
+      ? 'alerta_maxima'
+      : senalesCrisis > 0
+        ? 'alerta'
+        : 'ninguna';
+
+    return {
+      nivel,
+      protocoloCrisis: nivel !== 'ninguna',
+      // Cuántas señales, no cuáles. El panel no debe repetirle al aspirante
+      // el enunciado que acaba de marcar: leer de vuelta "identificaste un
+      // objeto para lastimarte" no ayuda a nadie que esté mal.
+      senalesCrisis,
+      criticosPresentados: criticos.length,
+      combinacionEvaluable,
+      hallazgosPorTema,
     };
   }
 
