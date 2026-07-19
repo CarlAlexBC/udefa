@@ -111,11 +111,11 @@ y ve la diferencia, está explicada dentro del reactivo 15 de
 | Geografía cap. 3 | 43 | — |
 | Geografía cap. 4 | 27 | — |
 | Geografía cap. 5 | 42 | — |
-| Historia cap. 6 | 41 | pp. 213, 215–220, 221–226, 238–267, 268–279 |
+| Historia cap. 6 | 54 | pp. 213, 217–220, 221–226, 238–267, 268–279 |
 | Álgebra | 0 | caps. I–VI |
 | Español | 0 | bloques 1 y 3 |
 
-**Total: 166 reactivos. Geografía queda cerrada**, cubriendo todo el alcance del
+**Total: 179 reactivos. Geografía queda cerrada**, cubriendo todo el alcance del
 temario. Las siguientes materias arrancan de cero, y de Álgebra y Español falta
 verificar la edición contra la página legal antes de usarlas.
 

@@ -39,10 +39,11 @@ no se calcularon.
 
 ## Cobertura actual
 
-Páginas 205, 206, 208, 209, 211, 212 y 214 de La Guerra Fría. La 207 es el mapa
-18 y la 210 el mapa 19, sin texto del que salgan reactivos de cita literal.
+Páginas 205, 206, 208, 209, 211, 212, 214, 215 y 216 de La Guerra Fría. La 207
+es el mapa 18 y la 210 el mapa 19, sin texto del que salgan reactivos de cita
+literal.
 
-**Pendiente:** páginas 213 y 215–220 del apartado, y los tres apartados
+**Pendiente:** páginas 213 y 217–220 del apartado, y los tres apartados
 restantes.
 
 ---
@@ -688,6 +689,204 @@ De acuerdo con el libro de Historia Universal, ¿qué dos movimientos influyeron
 
 La Revolución China (1949) y el estallido de la Guerra de Corea (1950), movimientos que acrecentaron los enfrentamientos ideológicos y la política de contención, influyeron grandemente en el desarrollo de esta guerra.
 
+### 42
+
+De acuerdo con el libro de Historia Universal, ¿en qué año proclamó Ho Chi Minh la República Democrática de Vietnam y cuál fue su capital?
+
+- A. En 1945, con capital en Hanoi
+- B. En 1954, con capital en Saigón
+- C. En 1945, con capital en Saigón
+- D. En 1976, con capital en Hanoi
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 215
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+Los nacionalistas de Vietnam buscaron que su país no cayera nuevamente en manos de países imperialistas, por lo que Ho Chi Minh proclamó, en 1945, la República Democrática de Vietnam, con capital en Hanoi.
+
+### 43
+
+De acuerdo con el libro de Historia Universal, ¿qué monarquía estableció Francia en Saigón al intentar recuperar su colonia?
+
+- A. Una monarquía dirigida por Boa-Dai
+- B. Una monarquía dirigida por Ho Chi Minh
+- C. Una monarquía dirigida por Syngman Rhee
+- D. Una monarquía dirigida por Kim Il-Sung
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 215
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+Francia intentó recuperar su colonia, para lo cual ocupó la zona sur y estableció en Saigón, la capital, una monarquía dirigida por Boa-Dai; esto ocasionó una guerra que se prolongó por espacio de ocho años.
+
+### 44
+
+De acuerdo con el libro de Historia Universal, ¿en qué lugar y año derrotaron los norvietnamitas a los franceses?
+
+- A. En Dien Bien Phu, en 1954
+- B. En Tonkin, en 1964
+- C. En Saigón, en 1945
+- D. En Hanoi, en 1973
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 215
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+La guerra de guerrillas se intensificó para, finalmente, derrotar a los franceses en Dien Bien Phu, en 1954; esta derrota dio lugar a las negociaciones de paz.
+
+### 45
+
+De acuerdo con el libro de Historia Universal, ¿a partir de qué paralelo se impuso a Vietnam una división temporal en la Conferencia de Ginebra?
+
+- A. Del paralelo 17°
+- B. Del paralelo 38°
+- C. Del paralelo 19°
+- D. Del paralelo 45°
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 215
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+Por medio de la Conferencia de Ginebra, en 1954, se acordó el reconocimiento de la independencia de los países indochinos: Laos, Camboya y Vietnam, pero se impuso a este último una división temporal a partir del paralelo 17°, y se le otorgó un margen de dos años para su reunificación mediante elecciones.
+
+> El paralelo de Corea es el 38° (Pág. 212) y el de Vietnam el 17°. Es la
+> confusión más fácil de todo el apartado.
+
+### 46
+
+De acuerdo con el libro de Historia Universal, ¿cómo se conoce al Ejército Popular de Liberación formado por los grupos nacionalistas armados de Vietnam del Sur?
+
+- A. El Vietcong
+- B. El Vietminh
+- C. La liga vietnamita
+- D. La ofensiva del Tet
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 215
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+Más tarde, estos grupos formaron el Ejército Popular de Liberación, conocido como el Vietcong, que buscaba eliminar la intervención extranjera y avanzar hacia la reunificación.
+
+### 47
+
+De acuerdo con el libro de Historia Universal, ¿cómo se llamó el conflicto que inició cuando Estados Unidos intensificó su ayuda al sur de Vietnam?
+
+- A. La Segunda Guerra de Indochina o Guerra Americana
+- B. La Primera Guerra de Indochina
+- C. La ofensiva del Tet
+- D. El incidente de Tonkin
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 215
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+Ante este proceso, Estados Unidos intensificó su ayuda al sur. Con ello se inició la Segunda Guerra de Indochina o Guerra Americana, que se prolongó hasta 1975.
+
+### 48
+
+De acuerdo con el libro de Historia Universal, ¿con qué incidente se extendió la guerra al norte de Vietnam a partir de 1964?
+
+- A. Con un incidente en Tonkin, donde un barco norteamericano fue atacado por lanchas norvietnamitas
+- B. Con la ofensiva del Tet
+- C. Con la derrota francesa en Dien Bien Phu
+- D. Con la firma de los Acuerdos de París
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 216
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+La guerra se extendió al norte a partir de 1964 con un incidente en Tonkin: un barco norteamericano fue atacado por lanchas norvietnamitas en el golfo que lleva ese nombre.
+
+### 49
+
+De acuerdo con el libro de Historia Universal, ¿con qué se compara la cantidad de bombas dejadas caer sobre territorio vietnamita?
+
+- A. Fueron más que todas las arrojadas en la Segunda Guerra Mundial
+- B. Fueron más que todas las arrojadas en la Guerra de Corea
+- C. Fueron más que todas las arrojadas en la Primera Guerra Mundial
+- D. Fueron equivalentes a las de Hiroshima y Nagasaki
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 216
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+Vietnam sufrió la agresión más atroz del mundo; sobre su territorio se dejaron caer más bombas que todas las arrojadas en la Segunda Guerra Mundial y se experimentaron armas químicas y bacteriológicas, cuyos efectos sobreviven en el pueblo y suelo vietnamita.
+
+### 50
+
+De acuerdo con el libro de Historia Universal, ¿en qué fecha iniciaron el Vietcong y los norvietnamitas la ofensiva del Tet?
+
+- A. El 30 de enero de 1968
+- B. En enero de 1973
+- C. En abril de 1975
+- D. En julio de 1976
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 216
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+Ho Chi Minh, con apoyo soviético, hizo un llamado general a la insurrección, que tuvo eco cuando el Vietcong y los norvietnamitas iniciaron, el 30 de enero de 1968, la ofensiva del Tet (año nuevo lunar), lanzando un contraataque general en Vietnam del Sur.
+
+### 51
+
+De acuerdo con el libro de Historia Universal, ¿qué significa "Tet", nombre de la ofensiva lanzada en 1968?
+
+- A. Año nuevo lunar
+- B. Liberación nacional
+- C. Golfo de Tonkin
+- D. Ejército del pueblo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 216
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+Iniciaron, el 30 de enero de 1968, la ofensiva del Tet (año nuevo lunar), lanzando un contraataque general en Vietnam del Sur.
+
+### 52
+
+De acuerdo con el libro de Historia Universal, ¿en qué acuerdos culminaron las negociaciones de paz de Vietnam?
+
+- A. En los Acuerdos de París, en enero de 1973
+- B. En la Conferencia de Ginebra, en 1954
+- C. En el Armisticio de Panmunjon, en julio de 1953
+- D. En la Conferencia de Postdam
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 216
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+Las negociaciones de paz culminaron con los Acuerdos de París en enero de 1973, en los que se reconocía la unidad e integridad de Vietnam y se acordaba la retirada de las tropas norteamericanas.
+
+### 53
+
+De acuerdo con el libro de Historia Universal, ¿cuándo consiguió Vietnam su reunificación y tras cuántos años de lucha?
+
+- A. En abril de 1975, después de 30 años de violentas luchas contra el imperialismo
+- B. En enero de 1973, después de 20 años de lucha
+- C. En julio de 1976, después de 30 años de lucha
+- D. En 1954, después de ocho años de lucha
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 216
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+Vietnam consiguió, finalmente, su reunificación en abril de 1975, después de 30 años de violentas luchas contra el imperialismo.
+
+### 54
+
+De acuerdo con el libro de Historia Universal, ¿en qué fecha se proclamó la República Socialista de Vietnam?
+
+- A. En julio de 1976
+- B. En abril de 1975
+- C. En enero de 1973
+- D. En 1945
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 216
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+En julio de 1976, se proclamó la República Socialista de Vietnam.
+
 ---
 
-**Reactivos en este archivo:** 41
+**Reactivos en este archivo:** 54
