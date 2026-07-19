@@ -24,6 +24,10 @@ import {
 } from '@/lib/diagnostico-links'
 import { GraficosPsicometrico } from '@/components/resultados/GraficosPsicometrico'
 import { GraficosAutoevaluacion } from '@/components/resultados/GraficosAutoevaluacion'
+import {
+  AlertaCriticaCard,
+  type SenalesCriticas,
+} from '@/components/resultados/AlertaCriticaCard'
 
 /* ═══════════════════════════════════════════════════════════
    Tipos
@@ -104,6 +108,7 @@ type Resultados = {
   porTema: PorTema[]
   metricasTemporales: MetricasTemporales
   analisisConsistencia?: AnalisisConsistencia
+  senalesCriticas?: SenalesCriticas | null
 }
 
 /* ═══════════════════════════════════════════════════════════
@@ -219,6 +224,14 @@ function PanelCalificable({ data }: { data: Resultados }) {
             )}
           </div>
         </div>
+
+        {/* Protocolo de crisis. Va antes que cualquier diagnóstico: si hay
+            señales, es lo primero que el aspirante tiene que ver. */}
+        {data.senalesCriticas?.protocoloCrisis && (
+          <div className="mt-8">
+            <AlertaCriticaCard senales={data.senalesCriticas} />
+          </div>
+        )}
 
         {/* Diagnósticos accionables */}
         {diagnosticos.length > 0 && (
