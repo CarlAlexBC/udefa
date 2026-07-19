@@ -18,9 +18,10 @@ impresa (hoja 90 = página 97).
 ## Nota sobre el Anexo H de la convocatoria
 
 El ejemplo 3 del Anexo "H" pregunta por el archipiélago de Revillagigedo y cita
-*Tamayo (2021), Pág. 91*. En esta edición, la sección "Islas de la costa del
-océano Pacífico" empieza en la página **101**, así que el dato de Revillagigedo
-no cae en la 91 sino más adelante.
+*Tamayo (2021), Pág. 91*. En esta edición ese dato está en el **Cuadro 5.1 de la
+página 98**, que asigna Revillagigedo (Socorro, San Benedicto, Clarión y Roca
+Partida) al estado de Colima. La página 91 de esta edición es el arranque del
+capítulo 4, Litorales.
 
 No se copió esa página de la convocatoria: **todas las referencias de este
 archivo se leyeron de la hoja del libro**, una por una. Si el examen real cita
