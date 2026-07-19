@@ -2,6 +2,22 @@ import { Injectable, NotFoundException } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { TemasPrioridadService } from '../temas-prioridad/temas-prioridad.service';
 
+/** Banco de reactivos que alimenta el diagnóstico de personalidad. */
+const BANCO_DIAGNOSTICO = 'remaster';
+
+/**
+ * Unidad mínima de muestreo. No es el reactivo: es el grupo que tiene que
+ * viajar junto al examen para que el análisis funcione.
+ *
+ * - par afirmativo/invertido → 2 reactivos (sin los dos no hay coherencia)
+ * - ancla clínica            → 2 reactivos (misma polaridad, miden un criterio en ventana)
+ * - trampa o reactivo suelto → 1 reactivo
+ */
+interface UnidadMuestreo {
+  tema: string;
+  ids: number[];
+}
+
 @Injectable()
 export class ExamenesService {
   constructor(
@@ -74,12 +90,18 @@ export class ExamenesService {
     const reactivosPorBloque =
       this.REACTIVOS_POR_BLOQUE_POR_TIPO[examen.tipo] ?? 25;
 
+    // El examen de personalidad se arma SOLO con el banco remasterizado.
+    // El banco viejo (v1) queda disponible en la tabla pero fuera del diagnóstico;
+    // su destino es servir como set de práctica separado.
+    const banco = examen.tipo === 'personalidad' ? BANCO_DIAGNOSTICO : undefined;
+
     const bloquesConReactivos = await Promise.all(
       examen.bloques.map(async (bloque) => ({
         ...bloque,
         reactivos: await this.obtenerReactivosAleatoriosDeBloque(
           bloque.id,
           reactivosPorBloque,
+          banco,
         ),
       })),
     );
@@ -102,29 +124,35 @@ export class ExamenesService {
   private async obtenerReactivosAleatoriosDeBloque(
     bloqueId: number,
     cantidad: number,
+    banco?: string,
   ) {
-    // 1. Trae todos los reactivos del bloque con su tema para poder agrupar.
+    // 1. Trae los reactivos del bloque (filtrando por banco si aplica).
     const todosLosReactivos = await this.prisma.reactivo.findMany({
-      where: { bloqueId },
-      select: { id: true, tema: true },
+      where: { bloqueId, ...(banco ? { banco } : {}) },
+      select: {
+        id: true,
+        tema: true,
+        eje: true,
+        numeroEnEje: true,
+        parNumero: true,
+      },
     });
 
-    // 2. Agrupa por tema. Los sin tema van a grupo especial 'sin_tema'.
-    const porTema = new Map<string, number[]>();
-    for (const r of todosLosReactivos) {
-      const tema = r.tema ?? 'sin_tema';
-      const lista = porTema.get(tema) ?? [];
-      lista.push(r.id);
-      porTema.set(tema, lista);
+    // 2. Agrupa en unidades de muestreo: los pares y anclas viajan juntos.
+    const unidades = this.agruparEnUnidades(todosLosReactivos);
+
+    // 3. Agrupa las unidades por tema.
+    const porTema = new Map<string, UnidadMuestreo[]>();
+    for (const u of unidades) {
+      const lista = porTema.get(u.tema) ?? [];
+      lista.push(u);
+      porTema.set(u.tema, lista);
     }
 
-    // 3. Si solo hay un tema, no vale la pena estratificar — Fisher-Yates puro.
+    // 4. Si solo hay un tema, no vale la pena estratificar — unidades al azar.
     let idsAleatorios: number[];
     if (porTema.size === 1) {
-      idsAleatorios = this.mezclar(todosLosReactivos.map((r) => r.id)).slice(
-        0,
-        cantidad,
-      );
+      idsAleatorios = this.tomarUnidadesHasta(this.mezclar(unidades), cantidad);
     } else {
       idsAleatorios = await this.muestreoEstratificadoPorPeso(porTema, cantidad);
     }
@@ -158,8 +186,74 @@ export class ExamenesService {
    * 4. Combina todo y mezcla el orden final para que los temas queden entrelazados.
    * 5. Ajusta si por redondeo la cantidad total no cuadra.
    */
+  private agruparEnUnidades(
+    reactivos: Array<{
+      id: number;
+      tema: string | null;
+      eje: number | null;
+      numeroEnEje: number | null;
+      parNumero: number | null;
+    }>,
+  ): UnidadMuestreo[] {
+    // índice (eje:numeroEnEje) → id, para resolver la pareja
+    const porClave = new Map<string, number>();
+    for (const r of reactivos) {
+      if (r.eje !== null && r.numeroEnEje !== null) {
+        porClave.set(`${r.eje}:${r.numeroEnEje}`, r.id);
+      }
+    }
+
+    const unidades: UnidadMuestreo[] = [];
+    const yaUsados = new Set<number>();
+
+    for (const r of reactivos) {
+      if (yaUsados.has(r.id)) continue;
+      const tema = r.tema ?? 'sin_tema';
+
+      // Sin pareja declarada (trampas, sueltos, y todo el banco v1 y los otros
+      // bloques) → unidad de un solo reactivo. Esto conserva el comportamiento
+      // histórico para psicométrico y axiológico.
+      if (r.eje === null || r.parNumero === null) {
+        unidades.push({ tema, ids: [r.id] });
+        yaUsados.add(r.id);
+        continue;
+      }
+
+      const idPareja = porClave.get(`${r.eje}:${r.parNumero}`);
+      if (idPareja === undefined || yaUsados.has(idPareja)) {
+        // La pareja no está en este bloque/banco — no la inventamos.
+        unidades.push({ tema, ids: [r.id] });
+        yaUsados.add(r.id);
+        continue;
+      }
+
+      unidades.push({ tema, ids: [r.id, idPareja] });
+      yaUsados.add(r.id);
+      yaUsados.add(idPareja);
+    }
+
+    return unidades;
+  }
+
+  /**
+   * Toma unidades completas hasta acercarse al tope de reactivos sin pasarse.
+   * Nunca parte una unidad: si la siguiente no cabe entera, la salta y sigue
+   * buscando una más chica que sí quepa.
+   */
+  private tomarUnidadesHasta(
+    unidades: UnidadMuestreo[],
+    tope: number,
+  ): number[] {
+    const ids: number[] = [];
+    for (const u of unidades) {
+      if (ids.length >= tope) break;
+      if (ids.length + u.ids.length <= tope) ids.push(...u.ids);
+    }
+    return ids;
+  }
+
   private async muestreoEstratificadoPorPeso(
-    porTema: Map<string, number[]>,
+    porTema: Map<string, UnidadMuestreo[]>,
     cantidad: number,
   ): Promise<number[]> {
     const pesosMap = await this.temasPrioridadService.obtenerPesos();
@@ -173,12 +267,21 @@ export class ExamenesService {
       sumaPesos += peso;
     }
 
-    // Cuota por tema — redondeo simple.
+    // Reactivos disponibles por tema (suma del tamaño de sus unidades).
+    const disponiblesPorTema = new Map<string, number>();
+    for (const [tema, unidades] of porTema.entries()) {
+      disponiblesPorTema.set(
+        tema,
+        unidades.reduce((n, u) => n + u.ids.length, 0),
+      );
+    }
+
+    // Cuota por tema, medida en REACTIVOS — redondeo simple.
     const cuotas = new Map<string, number>();
     let asignados = 0;
     for (const [tema, peso] of pesosPorTema.entries()) {
       const cuota = Math.floor((peso / sumaPesos) * cantidad);
-      const disponibles = porTema.get(tema)!.length;
+      const disponibles = disponiblesPorTema.get(tema)!;
       const asignar = Math.min(cuota, disponibles);
       cuotas.set(tema, asignar);
       asignados += asignar;
@@ -195,23 +298,41 @@ export class ExamenesService {
       for (const tema of ordenados) {
         if (restantes === 0) break;
         const actual = cuotas.get(tema) ?? 0;
-        const disponibles = porTema.get(tema)!.length;
+        const disponibles = disponiblesPorTema.get(tema)!;
         const puedeAgregar = Math.min(restantes, disponibles - actual);
         cuotas.set(tema, actual + puedeAgregar);
         restantes -= puedeAgregar;
       }
     }
 
-    // Fisher-Yates por tema, tomando la cuota asignada.
+    // Fisher-Yates por tema, tomando unidades completas hasta la cuota.
     const seleccion: number[] = [];
-    for (const [tema, ids] of porTema.entries()) {
+    for (const [tema, unidades] of porTema.entries()) {
       const cuota = cuotas.get(tema) ?? 0;
       if (cuota === 0) continue;
-      const mezclados = this.mezclar(ids);
-      seleccion.push(...mezclados.slice(0, cuota));
+      seleccion.push(...this.tomarUnidadesHasta(this.mezclar(unidades), cuota));
     }
 
-    // Mezcla final para que no queden agrupados por tema al llegar al aspirante.
+    // El redondeo hacia abajo y las unidades de tamaño 2 dejan huecos. Se rellenan
+    // con unidades que no se usaron y que quepan enteras en lo que falta.
+    if (seleccion.length < cantidad) {
+      const yaDentro = new Set(seleccion);
+      const sobrantes = this.mezclar(
+        Array.from(porTema.values())
+          .flat()
+          .filter((u) => !u.ids.some((id) => yaDentro.has(id))),
+      );
+      // primero las de un reactivo: ajustan mejor los últimos huecos
+      sobrantes.sort((a, b) => a.ids.length - b.ids.length);
+      for (const u of sobrantes) {
+        if (seleccion.length + u.ids.length > cantidad) continue;
+        seleccion.push(...u.ids);
+        if (seleccion.length === cantidad) break;
+      }
+    }
+
+    // Mezcla final: los temas quedan entrelazados y las parejas separadas,
+    // para que el aspirante no vea un reactivo junto a su invertido.
     return this.mezclar(seleccion);
   }
 
