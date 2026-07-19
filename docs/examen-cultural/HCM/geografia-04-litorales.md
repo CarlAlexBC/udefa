@@ -18,9 +18,9 @@ hoja, no se calcularon.
 
 ## Cobertura actual
 
-Páginas 91–95: generalidades, las cuatro secciones del océano Pacífico y las
-costas del Golfo de México. **Pendiente:** página 96, con el cierre del litoral
-del Mar de las Antillas.
+**Capítulo completo.** Páginas 91–96: generalidades, las cuatro secciones del
+océano Pacífico, las costas del Golfo de México y las del Mar de las Antillas.
+No queda nada pendiente de este capítulo.
 
 ---
 
@@ -355,4 +355,98 @@ En oposición a lo que ocurre en el océano Pacífico, la plataforma continental
 
 ---
 
-**Reactivos en este archivo:** 21
+## Sub-lote 5 · Costas del Mar de las Antillas
+
+### 22
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cómo se conocen los bajos que se extienden paralelamente a la costa en el noroeste de la Península de Yucatán?
+
+- A. Banco o Sonda de Campeche
+- B. Arrecife de la Gallega
+- C. Losa de Yucatán
+- D. Cordón de Holbox
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 96
+**Subtema:** litorales · Mar de las Antillas
+
+En el noroeste de la península se extienden paralelamente a la costa unos bajos, siguiendo fajas de 5 a 10 km de ancho y 175 km de longitud, conocidos con el nombre de *Banco* o *Sonda de Campeche*, cubiertos por arena de materiales cársicos y de coral.
+
+### 23
+
+De acuerdo con el libro de Geografía Moderna de México, ¿de qué es realmente una saliente el Cabo Catoche?
+
+- A. De la Península de Yucatán
+- B. De la isla Holbox
+- C. De la isla Cozumel
+- D. Del cayo de Ambergris
+
+**Respuesta:** B
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 96
+**Subtema:** litorales · Mar de las Antillas
+
+Una serie continua de marismas hasta llegar a Punta Arenas y Cabo Catoche; este último no es una saliente de la Península de Yucatán, sino de la isla Holbox, inmediata a ella.
+
+### 24
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cuál es el último accidente del litoral mexicano en el Mar de las Antillas?
+
+- A. La boca de Bacalar Chico
+- B. El Cabo Catoche
+- C. La bahía de Chetumal
+- D. El Canal de Yucatán
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 96
+**Subtema:** litorales · Mar de las Antillas
+
+El último accidente es la boca de Bacalar Chico, formada por el extremo sur de una península que es territorio mexicano y el cayo de Ambergris, que pertenece a Belize.
+
+### 25
+
+De acuerdo con el libro de Geografía Moderna de México, ¿a qué país pertenece el cayo de Ambergris, que forma la boca de Bacalar Chico junto con territorio mexicano?
+
+- A. A Belize
+- B. A Guatemala
+- C. A Honduras
+- D. A Cuba
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 96
+**Subtema:** litorales · Mar de las Antillas
+
+El último accidente es la boca de Bacalar Chico, formada por el extremo sur de una península que es territorio mexicano y el cayo de Ambergris, que pertenece a Belize.
+
+### 26
+
+De acuerdo con el libro de Geografía Moderna de México, ¿en qué costas de la bahía de Chetumal tiene pertenencia México?
+
+- A. En las costas este, oeste y norte
+- B. Únicamente en la costa oeste
+- C. En la totalidad de la bahía
+- D. En las costas sur y este
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 96
+**Subtema:** litorales · Mar de las Antillas
+
+Al penetrar por esta boca, se llega a la bahía de Chetumal, que pertenece a México en sus costas este, oeste y norte.
+
+### 27
+
+De acuerdo con el libro de Geografía Moderna de México, ¿por qué la bahía de Chetumal es peligrosa y poco visitada por las embarcaciones?
+
+- A. Porque es de poca profundidad y tiene numerosos bajos
+- B. Porque está cubierta de arrecifes coralíferos emergidos
+- C. Porque sus corrientes de marea son muy fuertes
+- D. Porque su entrada pertenece por completo a Belize
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 96
+**Subtema:** litorales · Mar de las Antillas
+
+Es una bahía de poca profundidad, con numerosos bajos, que la hacen peligrosa y poco visitada por las embarcaciones.
+
+---
+
+**Reactivos en este archivo:** 27
