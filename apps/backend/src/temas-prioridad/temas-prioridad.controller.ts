@@ -8,15 +8,17 @@ import {
 } from '@nestjs/common';
 import { TemasPrioridadService } from './temas-prioridad.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
+import { RolesGuard } from '../auth/guards/roles.guard';
+import { Roles } from '../auth/decorators/roles.decorator';
 
 /**
  * Endpoints para gestionar el catálogo de prioridad de temas.
  *
- * Todos los endpoints requieren JWT — solo usuarios autenticados pueden
- * consultar/modificar. Cuando se implemente RBAC (rol admin), se restringe
- * más aún con un guard adicional.
+ * Requieren rol admin: RolesGuard compara req.user.rol contra la lista
+ * declarada en @Roles. JwtAuthGuard va primero para rellenar req.user.
  */
-@UseGuards(JwtAuthGuard)
+@UseGuards(JwtAuthGuard, RolesGuard)
+@Roles('admin')
 @Controller('temas-prioridad')
 export class TemasPrioridadController {
   constructor(private temasService: TemasPrioridadService) {}

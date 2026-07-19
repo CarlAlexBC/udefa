@@ -1,7 +1,24 @@
-import { Body, Controller, Patch, Post, Request, UseGuards } from '@nestjs/common';
+import {
+  Body,
+  Controller,
+  Get,
+  Param,
+  Patch,
+  Post,
+  Query,
+  Request,
+  UseGuards,
+} from '@nestjs/common';
 import { UsuariosService } from './usuarios.service';
 import { CrearUsuarioDto } from './dto/crear-usuario.dto';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
+import { RolesGuard } from '../auth/guards/roles.guard';
+import { Roles } from '../auth/decorators/roles.decorator';
+import { UsuarioActual } from '../auth/decorators/usuario-actual.decorator';
+// Importado como type porque es una interface (no una class) y TS con
+// `isolatedModules` + `emitDecoratorMetadata` rechaza usarla en la firma
+// de un parámetro decorado si no viene de un import type.
+import type { UsuarioAutenticado } from '../auth/decorators/usuario-actual.decorator';
 
 @Controller('usuarios')
 export class UsuariosController {
@@ -24,5 +41,48 @@ export class UsuariosController {
     @Body() datos: { plantelId: number },
   ) {
     return this.usuariosService.asignarPlantel(req.user.id, datos.plantelId);
+  }
+
+  /* ═══════════════════════════════════════════════════════════
+     Endpoints admin
+     ═══════════════════════════════════════════════════════════ */
+
+  @UseGuards(JwtAuthGuard, RolesGuard)
+  @Roles('admin')
+  @Get()
+  listarParaAdmin(
+    @Query('take') take?: string,
+    @Query('skip') skip?: string,
+    @Query('search') search?: string,
+  ) {
+    return this.usuariosService.listarParaAdmin({
+      take: take ? Number(take) : undefined,
+      skip: skip ? Number(skip) : undefined,
+      search: search || undefined,
+    });
+  }
+
+  @UseGuards(JwtAuthGuard, RolesGuard)
+  @Roles('admin')
+  @Patch(':id/rol')
+  cambiarRol(
+    @Param('id') id: string,
+    @Body() datos: { rol: string },
+    @UsuarioActual() admin: UsuarioAutenticado,
+  ) {
+    return this.usuariosService.cambiarRol(Number(id), datos.rol, admin);
+  }
+
+  @UseGuards(JwtAuthGuard, RolesGuard)
+  @Roles('admin')
+  @Patch(':id/plantel')
+  cambiarPlantelDeUsuario(
+    @Param('id') id: string,
+    @Body() datos: { plantelId: number },
+  ) {
+    return this.usuariosService.cambiarPlantelDeUsuario(
+      Number(id),
+      datos.plantelId,
+    );
   }
 }

@@ -33,6 +33,10 @@ export class ReactivosService {
     take?: number;
     skip?: number;
     bloqueId?: number;
+    examenId?: number;
+    tema?: string;
+    polaridad?: 'POSITIVA' | 'NEGATIVA';
+    search?: string;
   } = {}) {
     // Paginacion: default 50, tope 200 para evitar descargas masivas.
     const TAKE_DEFAULT = 50;
@@ -41,7 +45,25 @@ export class ReactivosService {
     const take = Math.min(opciones.take ?? TAKE_DEFAULT, TAKE_MAX);
     const skip = opciones.skip ?? 0;
 
-    const where = opciones.bloqueId ? { bloqueId: opciones.bloqueId } : {};
+    // Construimos el `where` dinámicamente. Cada filtro es opcional y se combina
+    // con AND implícito. `search` hace ilike sobre el enunciado.
+    // examenId se filtra vía la relación bloque → examen (sin necesidad de joins manuales).
+    const where: {
+      bloqueId?: number;
+      tema?: string;
+      polaridad?: 'POSITIVA' | 'NEGATIVA';
+      enunciado?: { contains: string; mode: 'insensitive' };
+      bloque?: { examenId: number };
+    } = {};
+    if (opciones.bloqueId) where.bloqueId = opciones.bloqueId;
+    if (opciones.tema) where.tema = opciones.tema;
+    if (opciones.polaridad) where.polaridad = opciones.polaridad;
+    if (opciones.search) {
+      where.enunciado = { contains: opciones.search, mode: 'insensitive' };
+    }
+    if (opciones.examenId) {
+      where.bloque = { examenId: opciones.examenId };
+    }
 
     const [data, total] = await Promise.all([
       this.prisma.reactivo.findMany({
@@ -49,6 +71,17 @@ export class ReactivosService {
         take,
         skip,
         orderBy: { id: 'asc' },
+        // Incluimos bloque + examen para que el admin panel muestre a qué fase
+        // pertenece cada reactivo sin hacer N+1 fetches desde el frontend.
+        include: {
+          bloque: {
+            select: {
+              id: true,
+              nombre: true,
+              examen: { select: { id: true, tipo: true } },
+            },
+          },
+        },
       }),
       this.prisma.reactivo.count({ where }),
     ]);
@@ -62,6 +95,25 @@ export class ReactivosService {
         hasMore: skip + data.length < total,
       },
     };
+  }
+
+  /**
+   * Lista los temas distintos del banco, opcionalmente filtrados por examen.
+   * Usa Prisma `distinct` para no traer duplicados del server.
+   */
+  async listarTemas(examenId?: number) {
+    const registros = await this.prisma.reactivo.findMany({
+      where: {
+        tema: { not: null },
+        ...(examenId ? { bloque: { examenId } } : {}),
+      },
+      select: { tema: true },
+      distinct: ['tema'],
+      orderBy: { tema: 'asc' },
+    });
+    return registros
+      .map((r) => r.tema)
+      .filter((t): t is string => t !== null);
   }
 
   async borrar(id: number) {

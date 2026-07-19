@@ -10,8 +10,18 @@ import {
 } from '@nestjs/common';
 import { ReactivosService } from './reactivos.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
+import { RolesGuard } from '../auth/guards/roles.guard';
+import { Roles } from '../auth/decorators/roles.decorator';
 
-@UseGuards(JwtAuthGuard)
+/**
+ * Endpoints del banco de reactivos.
+ *
+ * Todos requieren rol admin. El simulador NO usa estos endpoints — llama a
+ * ExamenesService.armarExamen que consulta Prisma directamente, así que
+ * restringir /reactivos a admin no rompe el flujo del aspirante.
+ */
+@UseGuards(JwtAuthGuard, RolesGuard)
+@Roles('admin')
 @Controller('reactivos')
 export class ReactivosController {
   constructor(private reactivosService: ReactivosService) {}
@@ -35,16 +45,36 @@ export class ReactivosController {
     return this.reactivosService.crearMuchos(reactivos);
   }
 
+  /**
+   * Lista los temas distintos del banco (para poblar el selector del admin).
+   * Se declara ANTES de `@Get()` genérico y de `@Delete(':id')` para que Nest
+   * no lo confunda con el patrón `:id`.
+   */
+  @Get('temas')
+  listarTemas(@Query('examenId') examenId?: string) {
+    return this.reactivosService.listarTemas(
+      examenId ? Number(examenId) : undefined,
+    );
+  }
+
   @Get()
   obtenerTodos(
     @Query('take') take?: string,
     @Query('skip') skip?: string,
     @Query('bloqueId') bloqueId?: string,
+    @Query('examenId') examenId?: string,
+    @Query('tema') tema?: string,
+    @Query('polaridad') polaridad?: 'POSITIVA' | 'NEGATIVA',
+    @Query('search') search?: string,
   ) {
     return this.reactivosService.obtenerTodos({
       take: take ? Number(take) : undefined,
       skip: skip ? Number(skip) : undefined,
       bloqueId: bloqueId ? Number(bloqueId) : undefined,
+      examenId: examenId ? Number(examenId) : undefined,
+      tema: tema || undefined,
+      polaridad,
+      search: search || undefined,
     });
   }
 

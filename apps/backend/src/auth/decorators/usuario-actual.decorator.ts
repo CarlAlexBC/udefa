@@ -13,6 +13,7 @@ export interface UsuarioAutenticado {
   id: number;
   email: string;
   sid: string;
+  rol: string;
 }
 
 export const UsuarioActual = createParamDecorator(

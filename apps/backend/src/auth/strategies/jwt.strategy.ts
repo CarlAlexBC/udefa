@@ -22,6 +22,23 @@ export class JwtStrategy extends PassportStrategy(Strategy) {
       throw new UnauthorizedException('Sesión cerrada o expirada');
     }
 
-    return { id: payload.sub, email: payload.email, sid: payload.sid };
+    // Cargamos el usuario en cada request para tener el rol actualizado —
+    // si un admin degrada a un usuario, el cambio surte efecto inmediato
+    // sin necesidad de re-emitir el JWT.
+    const usuario = await this.prisma.usuario.findUnique({
+      where: { id: payload.sub },
+    });
+
+    if (!usuario) {
+      throw new UnauthorizedException('Usuario no encontrado');
+    }
+
+    // Cast defensivo: hasta que se corra `prisma generate` tras la migración,
+    // el tipo Usuario del cliente no incluye `rol`. En runtime siempre está
+    // porque la columna tiene default 'aspirante'.
+    const rol =
+      (usuario as { rol?: string }).rol ?? 'aspirante';
+
+    return { id: payload.sub, email: payload.email, sid: payload.sid, rol };
   }
 }

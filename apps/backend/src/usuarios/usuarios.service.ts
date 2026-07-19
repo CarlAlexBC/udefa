@@ -1,7 +1,15 @@
-import { Injectable, ConflictException, NotFoundException } from '@nestjs/common';
+import {
+  BadRequestException,
+  ConflictException,
+  Injectable,
+  NotFoundException,
+} from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { CrearUsuarioDto } from './dto/crear-usuario.dto';
 import * as bcrypt from 'bcrypt';
+
+const ROLES_VALIDOS = ['aspirante', 'admin'] as const;
+type Rol = (typeof ROLES_VALIDOS)[number];
 
 @Injectable()
 export class UsuariosService {
@@ -57,5 +65,123 @@ export class UsuariosService {
     });
     const { password: _password, ...usuarioSinPassword } = actualizado;
     return usuarioSinPassword;
+  }
+
+  /* ═══════════════════════════════════════════════════════════
+     Métodos admin — protegidos con @Roles('admin') en el controller
+     ═══════════════════════════════════════════════════════════ */
+
+  /**
+   * Lista paginada de usuarios con su plantel y contador de sesiones.
+   * Busca opcionalmente por email o nombre (ilike). Ordenado por más recientes.
+   */
+  async listarParaAdmin(opciones: {
+    take?: number;
+    skip?: number;
+    search?: string;
+  } = {}) {
+    const TAKE_DEFAULT = 50;
+    const TAKE_MAX = 200;
+    const take = Math.min(opciones.take ?? TAKE_DEFAULT, TAKE_MAX);
+    const skip = opciones.skip ?? 0;
+
+    const where = opciones.search
+      ? {
+          OR: [
+            { email: { contains: opciones.search, mode: 'insensitive' as const } },
+            { nombre: { contains: opciones.search, mode: 'insensitive' as const } },
+          ],
+        }
+      : {};
+
+    const [data, total] = await Promise.all([
+      this.prisma.usuario.findMany({
+        where,
+        take,
+        skip,
+        orderBy: { createdAt: 'desc' },
+        select: {
+          id: true,
+          nombre: true,
+          email: true,
+          nivelAcceso: true,
+          emailVerificado: true,
+          createdAt: true,
+          // rol viene del schema tras la migración; cast para el tipo
+          // del cliente hasta que se corra prisma generate.
+          ...({ rol: true } as Record<string, true>),
+          plantel: { select: { id: true, nombre: true } },
+          _count: { select: { sesionesCompletas: true, intentos: true } },
+        } as never,
+      }),
+      this.prisma.usuario.count({ where }),
+    ]);
+
+    return {
+      data,
+      meta: {
+        total,
+        take,
+        skip,
+        hasMore: skip + data.length < total,
+      },
+    };
+  }
+
+  /**
+   * Cambia el rol de un usuario. Business rule: un admin no se puede
+   * degradar a sí mismo — evita quedarnos sin admins por accidente. Si
+   * quieres cambiar tu propio rol, otro admin debe hacerlo por ti.
+   */
+  async cambiarRol(
+    objetivoUsuarioId: number,
+    nuevoRol: string,
+    admin: { id: number; rol: string },
+  ) {
+    if (!ROLES_VALIDOS.includes(nuevoRol as Rol)) {
+      throw new BadRequestException(
+        `Rol inválido. Valores permitidos: ${ROLES_VALIDOS.join(', ')}`,
+      );
+    }
+    if (objetivoUsuarioId === admin.id && nuevoRol !== 'admin') {
+      throw new BadRequestException(
+        'No puedes quitarte tu propio rol admin. Pide a otro admin hacerlo.',
+      );
+    }
+    const existe = await this.prisma.usuario.findUnique({
+      where: { id: objetivoUsuarioId },
+      select: { id: true },
+    });
+    if (!existe) throw new NotFoundException('Usuario no encontrado');
+
+    const actualizado = await this.prisma.usuario.update({
+      where: { id: objetivoUsuarioId },
+      // Cast defensivo: el cliente Prisma aún puede no reflejar `rol` hasta
+      // que se corra prisma generate. En runtime la columna existe.
+      data: { rol: nuevoRol } as unknown as { rol: string },
+      select: {
+        id: true,
+        nombre: true,
+        email: true,
+        ...({ rol: true } as Record<string, true>),
+      } as never,
+    });
+    return actualizado;
+  }
+
+  /**
+   * Cambia el plantel de otro usuario (versión admin de `asignarPlantel`).
+   * Reutiliza la misma validación de existencia del plantel.
+   */
+  async cambiarPlantelDeUsuario(
+    objetivoUsuarioId: number,
+    plantelId: number,
+  ) {
+    const existe = await this.prisma.usuario.findUnique({
+      where: { id: objetivoUsuarioId },
+      select: { id: true },
+    });
+    if (!existe) throw new NotFoundException('Usuario no encontrado');
+    return this.asignarPlantel(objetivoUsuarioId, plantelId);
   }
 }
