@@ -35,3 +35,8 @@ coverage/
 # versionan, en docs/examen-cultural/.
 # Cómo obtenerlos y qué ediciones son las correctas: docs/examen-cultural/README.md
 examen_cultural/
+
+# Convocatoria oficial de admisión. Es la fuente del Anexo "H" que define el
+# formato del examen cultural, pero es un documento público de la SEDENA que se
+# vuelve a descargar: no hay razón para cargar 3.4 MB en el repo.
+LICENCIATURAS_Y_TECNICO_SUP._UNIV._*.pdf

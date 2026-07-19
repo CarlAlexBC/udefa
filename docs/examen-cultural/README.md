@@ -5,8 +5,12 @@ por capítulo, y **cada archivo dice en su encabezado qué páginas le faltan**.
 
 ## Qué es el examen cultural
 
-Lo define el **Anexo "H"** de la convocatoria 2026
-(`LICENCIATURAS_Y_TECNICO_SUP._UNIV._2025 (1).pdf`, páginas 78–80 del PDF).
+Lo define el **Anexo "H"** de la convocatoria 2026, en las páginas 78–80 del PDF
+`LICENCIATURAS_Y_TECNICO_SUP._UNIV._2025 (1).pdf`.
+
+> Ese PDF **no está en el repo**: está en `.gitignore` porque es un documento
+> público de la SEDENA que se vuelve a descargar. Si no lo tienes, bájalo de la
+> convocatoria oficial y déjalo en la raíz del proyecto.
 
 Evalúa **recuerdo literal**, no comprensión: *"evocación de información concreta
 o de conocimientos específicos de forma exacta y aislada"*. La respuesta
