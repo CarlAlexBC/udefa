@@ -30,10 +30,13 @@ Regiones geomorfológicas y por tanto fuera de este temario.
 | Sierra Madre Occidental | 69 | 4 |
 | Sierra Madre Oriental | 69, 71 | 4 |
 | Cordillera Neovolcánica | 72–73 | 5 |
-| Sierra Madre del Sur | 73 | 2 |
+| Sierra Madre del Sur | 73–74 | 4 |
+| Sierra Madre de Oaxaca | 74 | 3 |
+| Sierra Madre de Chiapas | 76 | 2 |
+| Meseta Central de Chiapas | 76 | 3 |
 
-**Pendiente:** las páginas 74–79 traen las unidades restantes (Sierra Madre de
-Oaxaca, Altiplanicie, penínsulas y demás). Cuando se cubran, este archivo crece.
+**Pendiente:** páginas 75 y 77–79, con la Plataforma Yucateca, la Altiplanicie y
+las penínsulas.
 
 ---
 
@@ -278,4 +281,170 @@ Su longitud es de 1 200 km con una anchura media de 100 km, que en el estado de 
 
 ---
 
-**Reactivos en este archivo:** 15
+## Sub-lote 5 · Sierra Madre del Sur (continuación)
+
+### 16
+
+De acuerdo con el libro de Geografía Moderna de México, ¿en las cuencas de qué ríos se encuentra gran parte de la vertiente interior de la Sierra Madre del Sur?
+
+- A. Balsas, Verde y Tehuantepec
+- B. Yaqui, Mayo y Fuerte
+- C. Grijalva, Usumacinta y Tonalá
+- D. Moctezuma, Pánuco y Papaloapan
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 74
+**Subtema:** unidades orogénicas · Sierra Madre del Sur
+
+En toda su extensión tiene una vertiente sudoccidental directa al océano Pacífico y gran parte de su vertiente interior se encuentra localizada en las cuencas de los ríos Balsas, Verde y Tehuantepec.
+
+### 17
+
+De acuerdo con el libro de Geografía Moderna de México, ¿a qué altitud casi constante tiene su cresta la Sierra Madre del Sur?
+
+- A. Poco más de 2 000 m
+- B. Poco más de 2 500 m
+- C. Poco más de 3 000 m
+- D. Poco más de 1 500 m
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 74
+**Subtema:** unidades orogénicas · Sierra Madre del Sur
+
+Posee la característica de tener su cresta a una altitud casi constante de poco más de 2 000 m, excepto en unas cuantas cimas elevadas que, sin embargo, no pasan de 2 500 m.
+
+---
+
+## Sub-lote 6 · Sierra Madre de Oaxaca
+
+### 18
+
+De acuerdo con el libro de Geografía Moderna de México, ¿entre qué puntos se extiende la Sierra Madre de Oaxaca?
+
+- A. Del Cofre de Perote al cabo Corrientes
+- B. Del Pico de Orizaba al Istmo de Tehuantepec
+- C. Del río Santiago a la Bahía de Banderas
+- D. De la Sierra del Burro al volcán de Colima
+
+**Respuesta:** B
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 74
+**Subtema:** unidades orogénicas · Sierra Madre de Oaxaca
+
+Arranca del Pico de Orizaba y termina en el Istmo de Tehuantepec, después de hacer contacto con la Sierra Madre del Sur.
+
+### 19
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la longitud de la Sierra Madre de Oaxaca?
+
+- A. 300 km
+- B. 880 km
+- C. 1 200 km
+- D. 250 km
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 74
+**Subtema:** unidades orogénicas · Sierra Madre de Oaxaca
+
+Tiene una longitud de 300 km y 75 km de anchura media; su altura, por lo general, sobrepasa los 2 500 m y las cimas son superiores a 3 000 m.
+
+### 20
+
+De acuerdo con el libro de Geografía Moderna de México, ¿de qué serranía se separó la Sierra Madre de Oaxaca según los estudios modernos?
+
+- A. De la Sierra Madre Oriental
+- B. De la Sierra Madre del Sur
+- C. De la Cordillera Neovolcánica
+- D. De la Sierra Madre de Chiapas
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 74
+**Subtema:** unidades orogénicas · Sierra Madre de Oaxaca
+
+Los estudios modernos han demostrado la conveniencia de separar una parte de la serranía que antes se consideraba parte de la Sierra Madre Oriental; por cruzar la mayoría del estado de Oaxaca, se le ha dado el nombre de *Sierra Madre de Oaxaca*.
+
+---
+
+## Sub-lote 7 · Sierra Madre de Chiapas
+
+### 21
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué altura alcanza el volcán Tacaná, cuya cima es vértice del límite internacional con Guatemala?
+
+- A. 2 725 m
+- B. 2 800 m
+- C. 4 026 m
+- D. 3 000 m
+
+**Respuesta:** C
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 76
+**Subtema:** unidades orogénicas · Sierra Madre de Chiapas
+
+Se destacan cimas tan importantes como la Cruz de Piedra (2 500 m), el cerro San Miguel (2 800 m), el Pico de Niquivil (2 725 m) y el volcán Tacaná (4 026 m); la cima de este último es vértice del límite internacional con Guatemala.
+
+### 22
+
+De acuerdo con el libro de Geografía Moderna de México, ¿por dónde da paso la carretera Panamericana en la Sierra Madre de Chiapas?
+
+- A. Por los valles de los ríos Ostuta y Cintalapa
+- B. Por los valles de Jiquipilas y Arriaga
+- C. Por el nudo de los Chuchumatanes
+- D. Por el valle del río Mezcalapa
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 76
+**Subtema:** unidades orogénicas · Sierra Madre de Chiapas
+
+Los puertos que permiten la comunicación con la parte central del estado se localizan en el poniente, precisamente entre los valles de los ríos Ostuta y Cintalapa, por una parte, y Jiquipilas y Arriaga, por otra, el primero ha sido empleado para dar paso a la carretera Panamericana.
+
+---
+
+## Sub-lote 8 · Meseta Central de Chiapas
+
+### 23
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la longitud del eje principal de la Meseta Central de Chiapas?
+
+- A. 50 km
+- B. 250 km
+- C. 300 km
+- D. 90 km
+
+**Respuesta:** B
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 76
+**Subtema:** unidades orogénicas · Meseta Central de Chiapas
+
+Forma una angosta elevación bastante plana con 50 km de anchura media cuyo eje principal es de 250 km en dirección noroeste a sureste, desde el río Mezcalapa hasta Guatemala, al unirse con el nudo de los Chuchumatanes, en Guatemala.
+
+### 24
+
+De acuerdo con el libro de Geografía Moderna de México, ¿a qué unidad geomórfica corresponde el bloque de estratos horizontales limitado por cantiles que emergió durante el Plioceno en Chiapas?
+
+- A. A la llamada Mesa
+- B. A la llamada Meseta
+- C. A la llamada Altiplanicie
+- D. A la llamada Plataforma
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 76
+**Subtema:** unidades orogénicas · Meseta Central de Chiapas
+
+Durante el Plioceno, por efecto de empujes verticales, emergió un bloque con estratos horizontales que, por estar limitado por cantiles y no tener eminencias en sus vecindades, corresponde a la típica unidad geomórfica llamada *Mesa*.
+
+### 25
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué altitud alcanza San Cristóbal en la Meseta Central de Chiapas?
+
+- A. 1 620 m
+- B. 2 000 m
+- C. 2 400 m
+- D. 3 000 m
+
+**Respuesta:** C
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 76
+**Subtema:** unidades orogénicas · Meseta Central de Chiapas
+
+Ésta tiene una altitud media de 2 000 m, si bien en el noroeste es más elevada, ya que en San Cristóbal alcanza 2 400 m de altitud y en Comitán, al sureste, 1 620 m.
+
+---
+
+**Reactivos en este archivo:** 25
