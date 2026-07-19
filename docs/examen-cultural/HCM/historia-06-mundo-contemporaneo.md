@@ -47,10 +47,13 @@ reactivos de cita literal.
 (páginas 221–226).
 
 **Apartado "Principales acontecimientos de nuestros días", en curso**
-(páginas 238–267). Cubiertas las páginas 238–243. La página 242 es el mapa 25,
-"Localización del conflicto": sin texto del que salgan reactivos de cita literal.
+(páginas 238–267). Cubiertas las páginas 238–247. Las páginas 242 y 245 son los
+mapas 25 y 26: sin texto del que salgan reactivos de cita literal.
 
-**Pendiente:** acontecimientos de nuestros días de la 244 en adelante, y la
+Dentro del apartado ya cerró el conflicto del Golfo Pérsico y arrancó "El fin
+del bloque socialista europeo", cuyos antecedentes van de la 246 en adelante.
+
+**Pendiente:** acontecimientos de nuestros días de la 248 en adelante, y la
 llegada del siglo XXI (268–279).
 
 ## Erratas del libro
@@ -66,6 +69,8 @@ si el examen real la corrige.
 | Pág. 218, pie de figura 51 | David Ben *Curión* | Ben Gurión (así en el cuerpo) |
 | Pág. 219, pie del mapa 22 | Plan de *participación* | Plan de Partición (así en el cuerpo) |
 | Pág. 223 | *Koffi* Annan, *Uthant* | Kofi Annan, U Thant |
+| Pág. 244 | cumbre Bush-*Gorvachov* y, tres renglones después, *Gorbachov* | Gorbachov (así en la segunda mención) |
+| Pág. 245, leyenda del mapa 26 | *Ataquea* aéreos | Ataques aéreos |
 
 También hay una cifra que el propio libro da doble: la Carta la firmaron
 "50 países" (Pág. 221) pero la ONU "fue creada por 51 países" (Pág. 222). No es
@@ -2616,4 +2621,781 @@ Por su parte, el ejército iraquí sólo contó con 540 mil hombres.
 
 ---
 
-**Reactivos en este archivo:** 162
+## Sub-lote 20 · Resoluciones y "Tormenta del Desierto"
+
+### 163
+
+De acuerdo con el libro de Historia Universal, ¿cuántos tanques decía tener el ejército iraquí para combatir a los "infieles occidentales"?
+
+- A. 4000 tanques
+- B. 2700 tanques
+- C. 950 tanques
+- D. 1000 tanques
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Por su parte, el ejército iraquí sólo contó con 540 mil hombres, aunque decían tener un millón, 4000 tanques, 2700 camiones y vehículos de infantería y 950 aviones para combatir a los "infieles occidentales".
+
+### 164
+
+De acuerdo con el libro de Historia Universal, ¿qué exigió el Consejo de Seguridad de la ONU en su resolución 660 de agosto de 1990?
+
+- A. La retirada inmediata e incondicional de las fuerzas iraquíes
+- B. El uso de la fuerza contra Irak
+- C. Un embargo comercial de carácter mundial
+- D. La destrucción de los arsenales químicos de Irak
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+El Consejo de Seguridad de la ONU, en su resolución 660 de agosto de 1990 exigió la retirada inmediata e incondicional de las fuerzas iraquíes.
+
+### 165
+
+De acuerdo con el libro de Historia Universal, ¿qué acordó el Consejo de Seguridad con la resolución 678?
+
+- A. El uso de la fuerza
+- B. La retirada inmediata e incondicional de las fuerzas iraquíes
+- C. Las zonas de exclusión al sur del paralelo 32
+- D. Un embargo comercial de carácter mundial
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Más tarde, con la resolución 678, acordó el uso de la fuerza y estableció como fecha límite para el retiro de las tropas de Hussein el 15 de enero de 1991.
+
+### 166
+
+De acuerdo con el libro de Historia Universal, ¿quién viajó a Irak para persuadir a Hussein, sin conseguirlo?
+
+- A. Javier Pérez de Cuéllar, secretario general
+- B. George Bush
+- C. Mijaíl Gorbachov
+- D. Jacques Marseill
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Incluso, el secretario general, Javier Pérez de Cuéllar, viajó a Irak para persuadirlo, sin conseguirlo.
+
+### 167
+
+De acuerdo con el libro de Historia Universal, ¿dónde se efectuó, en septiembre de 1990, la reunión cumbre entre Bush y Gorbachov?
+
+- A. En Finlandia
+- B. En Moscú
+- C. En Washington
+- D. En Arabia Saudita
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Fin del conflicto
+
+En septiembre de 1990 en Finlandia se efectuó la reunión cumbre Bush-Gorbachov, en cuya declaración de Helsinki ambos mandatarios acordaron no tolerar la agresión.
+
+### 168
+
+De acuerdo con el libro de Historia Universal, ¿qué acordaron ambos mandatarios en la declaración de Helsinki?
+
+- A. No tolerar la agresión
+- B. El uso de la fuerza contra Irak
+- C. La retirada de las tropas de Hussein
+- D. El envío de misiles Patriot a Israel
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Fin del conflicto
+
+En cuya declaración de Helsinki ambos mandatarios acordaron no tolerar la agresión.
+
+### 169
+
+De acuerdo con el libro de Historia Universal, ¿por qué solución se inclinaba Bush y por cuál Gorbachov?
+
+- A. Bush por una solución militar y Gorbachov por una diplomática
+- B. Bush por una solución diplomática y Gorbachov por una militar
+- C. Ambos por una solución militar
+- D. Ambos por una solución diplomática
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Fin del conflicto
+
+Aunque Bush se inclinaba por una solución militar y Gorbachov por una diplomática, en la práctica, Moscú apoyó la política de Washington.
+
+### 170
+
+De acuerdo con el libro de Historia Universal, ¿en qué fecha iniciaron las fuerzas multinacionales la operación "Tormenta del Desierto"?
+
+- A. El 16 de enero de 1991
+- B. El 15 de enero de 1991
+- C. El 25 de febrero de 1991
+- D. El 28 de febrero de 1991
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Ninguna misión diplomática con el gobierno de Bagdad dio resultados positivos, por lo que el 16 de enero de 1991 las fuerzas multinacionales iniciaron la operación "Tormenta del Desierto".
+
+### 171
+
+De acuerdo con el libro de Historia Universal, ¿qué ciudades fueron destruidas por el bombardeo de las fuerzas multinacionales?
+
+- A. Bagdad y Basora
+- B. Bagdad y Mosul
+- C. Basora y Mosul
+- D. Bagdad y Khafji
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Las ciudades de Bagdad y Basora fueron destruidas y el bombardeo se volvió indiscriminado y devastador.
+
+### 172
+
+De acuerdo con el libro de Historia Universal, ¿cuántos misiles dirigió Irak a Arabia Saudita y cuántos misiles Scud contra Israel?
+
+- A. Cinco a Arabia Saudita y ocho Scud contra Israel
+- B. Ocho a Arabia Saudita y cinco Scud contra Israel
+- C. Cinco a Arabia Saudita y cinco Scud contra Israel
+- D. Ocho a Arabia Saudita y ocho Scud contra Israel
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Irak respondió el ataque con su equipo antiaéreo, con su aviación, y lanzó cinco misiles dirigidos a Arabia Saudita y ocho misiles *Scud* contra Israel.
+
+### 173
+
+De acuerdo con el libro de Historia Universal, ¿qué misiles instaló Estados Unidos en territorio israelí, capaces de interceptar los *Scud* en el aire y detenerlos?
+
+- A. Misiles *Patriot*
+- B. Misiles *Scud*
+- C. Cazabombarderos Stealth F117
+- D. Misiles *Tomahawk*
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Estados Unidos solicitó a Israel no responder el ataque iraquí, a cambio le brindaría apoyo para defenderse, instalando misiles *Patriot* en su territorio, capaces de interceptar los *Scud* en el aire y detenerlos.
+
+### 174
+
+De acuerdo con el libro de Historia Universal, ¿dónde obtuvo Irak una victoria terrestre?
+
+- A. En Khafji
+- B. En Basora
+- C. En Bagdad
+- D. En Helsinki
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+A pesar de que Irak obtuvo una victoria terrestre en Khafji y convocó a la Guerra Santa, denominándola "la Madre de todas Guerras", fue perdiendo terreno ante el ataque aliado.
+
+### 175
+
+De acuerdo con el libro de Historia Universal, ¿cómo denominó Irak a la Guerra Santa que convocó?
+
+- A. "La Madre de todas Guerras"
+- B. "Tormenta del Desierto"
+- C. "Escudo del Desierto"
+- D. "La Guerra de los infieles occidentales"
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+A pesar de que Irak obtuvo una victoria terrestre en Khafji y convocó a la Guerra Santa, denominándola "la Madre de todas Guerras", fue perdiendo terreno ante el ataque aliado.
+
+### 176
+
+De acuerdo con el libro de Historia Universal, ¿cuántas misiones aéreas sobre territorio iraquí arrojaron más bombas que en toda la Segunda Guerra Mundial?
+
+- A. Más de 55 mil misiones aéreas
+- B. Más de 175 mil misiones aéreas
+- C. Más de 950 misiones aéreas
+- D. Más de 605 mil misiones aéreas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Fue perdiendo terreno ante el ataque aliado, ya que más de 55 mil misiones aéreas sobre su territorio arrojaron más bombas que en toda la Segunda Guerra Mundial.
+
+### 177
+
+De acuerdo con el libro de Historia Universal, ¿en qué fecha ordenó Hussein la retirada de sus fuerzas?
+
+- A. El 25 de febrero
+- B. El 28 de febrero
+- C. El 16 de enero
+- D. El 15 de enero
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Ante ello, el 25 de febrero Hussein ordenó la retirada de sus fuerzas, no sin antes incendiar gran parte de las instalaciones petroleras de Kuwait.
+
+### 178
+
+De acuerdo con el libro de Historia Universal, ¿qué hizo Hussein antes de retirar sus fuerzas, originando un grave desastre económico y ecológico sobre la región?
+
+- A. Incendiar gran parte de las instalaciones petroleras de Kuwait
+- B. Derramar petróleo sobre las aguas del Golfo
+- C. Destruir el palacio Dasman
+- D. Lanzar misiles *Scud* contra Israel
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Ante ello, el 25 de febrero Hussein ordenó la retirada de sus fuerzas, no sin antes incendiar gran parte de las instalaciones petroleras de Kuwait, originando un grave desastre económico y ecológico sobre la región.
+
+### 179
+
+De acuerdo con el libro de Historia Universal, ¿en qué fecha finalizaron las hostilidades?
+
+- A. El 28 de febrero
+- B. El 25 de febrero
+- C. El 16 de enero
+- D. El 15 de enero
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Finalmente, el 28 de febrero finalizaron las hostilidades.
+
+### 180
+
+De acuerdo con el libro de Historia Universal, ¿en cuánto estimaba Kuwait la deuda por concepto de reparación de guerra?
+
+- A. En 300 mil millones de dólares
+- B. En 200 mil millones de dólares
+- C. En 750 millones de dólares
+- D. En 70 billones de dólares
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+Al concluir la guerra, una de las principales dificultades para la recuperación iraquí consistió en la deuda por concepto de reparación de guerra que Kuwait estimaba en 300 mil millones de dólares.
+
+### 181
+
+De acuerdo con el libro de Historia Universal, ¿qué señaló Jacques Marseill sobre imponer al pueblo iraquí la suma de la reparación de guerra?
+
+- A. Que "sería condenarlo a la muerte por hambre durante 25 años"
+- B. Que "sería condenarlo a la muerte por hambre durante 15 años"
+- C. Que "sería condenarlo a la pobreza durante 25 años"
+- D. Que "sería condenarlo a la muerte por hambre durante 50 años"
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+Al respecto, Jacques Marseill, catedrático de Historia Económica de la Universidad de París, señaló que imponer esa suma al pueblo iraquí "sería condenarlo a la muerte por hambre durante 25 años".
+
+### 182
+
+De acuerdo con el libro de Historia Universal, ¿a cuánto llegaron las pérdidas en Irak causadas por los bombardeos aliados?
+
+- A. A los 200 mil millones de dólares
+- B. A los 300 mil millones de dólares
+- C. A los 750 millones de dólares
+- D. A los 70 billones de dólares
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 244
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+Se calcula que las pérdidas en Irak causadas por los bombardeos aliados llegaron a los 200 mil millones de dólares.
+
+---
+
+## Sub-lote 21 · El saldo de la guerra
+
+### 183
+
+De acuerdo con el libro de Historia Universal, ¿cuántos fueron los prisioneros iraquíes?
+
+- A. Más de 175 mil
+- B. Más de 55 mil
+- C. Cerca de medio millón
+- D. Más de 139 mil
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+Los prisioneros iraquíes fueron más de 175 mil.
+
+### 184
+
+De acuerdo con el libro de Historia Universal, ¿qué bajas se reconocieron entre los aliados?
+
+- A. 139 muertos, 51 desaparecidos y 13 prisioneros
+- B. 139 muertos, 13 desaparecidos y 51 prisioneros
+- C. 175 muertos, 51 desaparecidos y 13 prisioneros
+- D. 51 muertos, 139 desaparecidos y 13 prisioneros
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+Entre los aliados se reconocieron 139 muertos, 51 desaparecidos y 13 prisioneros.
+
+### 185
+
+De acuerdo con el libro de Historia Universal, ¿cuántos podía tener Irak entre muertos y heridos?
+
+- A. Cerca de medio millón
+- B. Más de 175 mil
+- C. Cerca de un millón
+- D. Más de 55 mil
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+Mientras que Irak podía tener cerca de medio millón entre muertos y heridos.
+
+### 186
+
+De acuerdo con el libro de Historia Universal, ¿quién fue el ganador indiscutible de la guerra?
+
+- A. Estados Unidos, que se reafirmó como potencia mundial
+- B. Kuwait, que contó con la ayuda internacional para su reconstrucción
+- C. La Unión Soviética
+- D. La Liga Árabe
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+Estados Unidos fue el ganador indiscutible y se reafirmó como potencia mundial.
+
+### 187
+
+De acuerdo con el libro de Historia Universal, ¿cuántos barriles de petróleo se derramaron sobre las aguas del Golfo?
+
+- A. Más de 10 millones de barriles
+- B. Más de 100 millones de barriles
+- C. Más de un millón de barriles
+- D. Más de 10 mil barriles
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+El derrame de más de 10 millones de barriles de petróleo sobre las aguas del Golfo dejó incalculables daños ambientales en la flora y fauna.
+
+### 188
+
+De acuerdo con el libro de Historia Universal, ¿de cuánto fue el gasto diario de las fuerzas multinacionales?
+
+- A. De 750 millones de dólares
+- B. De 300 mil millones de dólares
+- C. De 200 mil millones de dólares
+- D. De 75 millones de dólares
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+Se calcula que el gasto diario de las fuerzas multinacionales fue de 750 millones de dólares.
+
+### 189
+
+De acuerdo con el libro de Historia Universal, ¿qué le impuso a Irak el consejo de seguridad de la ONU?
+
+- A. La destrucción de sus arsenales químicos, biológicos y nucleares
+- B. El pago de 300 mil millones de dólares por reparación de guerra
+- C. La entrega de sus instalaciones petroleras
+- D. La disolución del Partido Baas Árabe y Socialista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+El consejo de seguridad de la ONU impuso a Irak la destrucción de sus arsenales químicos, biológicos y nucleares; le prohibió practicar el terrorismo.
+
+### 190
+
+De acuerdo con el libro de Historia Universal, ¿dónde se fijaron las zonas de exclusión para proteger a la población chiíta?
+
+- A. Al sur del paralelo 32
+- B. Al norte del paralelo 36
+- C. Al sur del paralelo 36
+- D. Al norte del paralelo 32
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+Además le fijó zonas de exclusión al sur del paralelo 32, en la que sus aviones no podrían sobrevolar como una medida para proteger a la población chiíta.
+
+### 191
+
+De acuerdo con el libro de Historia Universal, ¿qué paralelo se estableció como frontera en el norte, para evitar que el ejército iraquí castigara al pueblo kurdo?
+
+- A. El paralelo 36
+- B. El paralelo 32
+- C. El paralelo 30
+- D. El paralelo 45
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+Mientras que en el norte se estableció como frontera el paralelo 36, para evitar que el ejército iraquí castigara al pueblo kurdo.
+
+### 192
+
+De acuerdo con el libro de Historia Universal, ¿después de cuánto tiempo recibió el mundo con júbilo el fin del conflicto?
+
+- A. Después de seis semanas
+- B. Después de seis meses
+- C. Después de ocho años
+- D. Después de seis días
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+Si bien el mundo recibió con júbilo el fin del conflicto después de seis semanas, ésta no resolvió ninguno de los problemas regionales y mundiales de importancia.
+
+### 193
+
+De acuerdo con el libro de Historia Universal, ¿cómo se desarrolló la guerra, en su momento la más difundida de la historia?
+
+- A. En el secreto de la censura militar
+- B. Bajo la cobertura permanente de la prensa internacional
+- C. Bajo la supervisión de la Organización de las Naciones Unidas
+- D. En el secreto de los servicios de inteligencia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Acontecimientos de nuestros días · Saldo de la guerra
+
+La guerra, en su momento la más difundida de la historia, se desarrolló en el secreto de la censura militar.
+
+---
+
+## Sub-lote 22 · El fin del bloque socialista europeo: antecedentes
+
+### 194
+
+De acuerdo con el libro de Historia Universal, ¿en qué año fue creada la Unión de Repúblicas Soviéticas Socialistas?
+
+- A. En 1922
+- B. En 1924
+- C. En 1927
+- D. En 1928
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Fin del bloque socialista europeo · Antecedentes
+
+Después del triunfo de la Revolución Rusa, en 1922, fue creada la Unión de Repúblicas Soviéticas Socialistas (URSS), cuyo sistema federativo se consolidó mediante una constitución proclamada al año siguiente.
+
+### 195
+
+De acuerdo con el libro de Historia Universal, ¿entre quiénes surgió una pugna por la sucesión al poder del Kremlin con la muerte de Lenin, en 1924?
+
+- A. Entre José Stalin y León Trotski
+- B. Entre José Stalin y Nikita Kruschev
+- C. Entre León Trotski y Lenin
+- D. Entre José Stalin y Mijaíl Gorbachov
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Fin del bloque socialista europeo · Antecedentes
+
+Con la muerte de Lenin, en 1924, surgió una pugna entre José Stalin, Secretario General del Partido Comunista, y León Trotski, creador del Ejército Rojo, por la sucesión al poder del Kremlin.
+
+### 196
+
+De acuerdo con el libro de Historia Universal, ¿de qué fue creador León Trotski?
+
+- A. Del Ejército Rojo
+- B. Del Partido Comunista
+- C. De la Cominform
+- D. Del Consejo de Asistencia Económica Mutua
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Fin del bloque socialista europeo · Antecedentes
+
+Surgió una pugna entre José Stalin, Secretario General del Partido Comunista, y León Trotski, creador del Ejército Rojo, por la sucesión al poder del Kremlin.
+
+### 197
+
+De acuerdo con el libro de Historia Universal, ¿qué buscaba Stalin y qué creía Trotski?
+
+- A. Stalin la consolidación del socialismo en la URSS y Trotski la revolución permanente
+- B. Stalin la revolución permanente y Trotski la consolidación del socialismo en la URSS
+- C. Ambos la revolución permanente
+- D. Ambos la consolidación del socialismo en la URSS
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Fin del bloque socialista europeo · Antecedentes
+
+El primero buscaba la consolidación del socialismo en la URSS, mientras que el segundo creía en la revolución permanente y pretendía llevar el socialismo a nivel internacional.
+
+### 198
+
+De acuerdo con el libro de Historia Universal, ¿en qué año controló Stalin el poder y expulsó del partido a su rival?
+
+- A. En 1927
+- B. En 1924
+- C. En 1922
+- D. En 1928
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Fin del bloque socialista europeo · Antecedentes
+
+Estas diferencias político-ideológicas fueron motivo de años de confrontación hasta que, en 1927, Stalin controló el poder y expulsó del partido a su rival.
+
+### 199
+
+De acuerdo con el libro de Historia Universal, ¿dónde y en qué fecha fue asesinado Trotski?
+
+- A. En México, en agosto de 1940
+- B. En Europa, en agosto de 1940
+- C. En México, en agosto de 1927
+- D. En la Unión Soviética, en agosto de 1940
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 246
+**Subtema:** Fin del bloque socialista europeo · Antecedentes
+
+El cual se exilió primero en Europa y más tarde en México, donde fue asesinado, en agosto de 1940.
+
+### 200
+
+De acuerdo con el libro de Historia Universal, ¿en qué año inició José Stalin la construcción del socialismo mediante el establecimiento de planes quinquenales?
+
+- A. En 1928
+- B. En 1927
+- C. En 1924
+- D. En 1938
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+José Stalin (1879-1953) inició, en 1928, la construcción del socialismo mediante el establecimiento de planes quinquenales, que planificaban y centralizaban la economía y obligaban a los campesinos a incorporarse a la colectivización agraria.
+
+### 201
+
+De acuerdo con el libro de Historia Universal, ¿quiénes se opusieron de manera especial a la colectivización agraria?
+
+- A. Los *kulaks* o grandes terratenientes
+- B. Los *koljoces* o granjas colectivas
+- C. Los *sovjoces* o granjas estatales
+- D. Los burócratas de la administración
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+Obligaban a los campesinos a incorporarse a la colectivización agraria, a la que se opusieron de manera especial los *kulaks* o grandes terratenientes; por ello, Stalin inició una política de represión y de deportaciones masivas.
+
+### 202
+
+De acuerdo con el libro de Historia Universal, ¿cómo se llamaron las granjas estatales y las granjas colectivas con que se complementó la organización del campo?
+
+- A. *Sovjoces* las estatales y *koljoces* las colectivas
+- B. *Koljoces* las estatales y *sovjoces* las colectivas
+- C. *Kulaks* las estatales y *koljoces* las colectivas
+- D. *Sovjoces* las estatales y *kulaks* las colectivas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+La organización del campo se complementó con la implantación de granjas estatales (*sovjoces*) y de granjas colectivas (*koljoces*), unas y otras con diversos privilegios, aunque las segundas fueron sujetas a mayores cargas fiscales.
+
+### 203
+
+De acuerdo con el libro de Historia Universal, ¿cuáles fueron sujetas a mayores cargas fiscales?
+
+- A. Las granjas colectivas
+- B. Las granjas estatales
+- C. Unas y otras por igual
+- D. Las propiedades de los *kulaks*
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+Granjas estatales (*sovjoces*) y de granjas colectivas (*koljoces*), unas y otras con diversos privilegios, aunque las segundas fueron sujetas a mayores cargas fiscales.
+
+### 204
+
+De acuerdo con el libro de Historia Universal, ¿a qué se dio prioridad para convertirla en la base de la modernización del sector?
+
+- A. A la industria pesada
+- B. A la colectivización agraria
+- C. A la industria militar
+- D. A la industria bélica defensiva
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+Se dio prioridad a la industria pesada para convertirla en la base de la modernización del sector.
+
+### 205
+
+De acuerdo con el libro de Historia Universal, ¿en quiénes se centró el culto a la personalidad implantado en la Unión Soviética?
+
+- A. En Lenin y en el propio Stalin
+- B. En Stalin y en Trotski
+- C. Únicamente en Stalin
+- D. En Lenin y en Trotski
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+Además, se implantó el culto a la personalidad, la cual se centró en Lenin y en el propio Stalin.
+
+### 206
+
+De acuerdo con el libro de Historia Universal, ¿por qué tuvieron que modificarse los objetivos del Tercer Plan Quinquenal, a aplicarse en 1938?
+
+- A. Ante la inminente amenaza del nazismo, para la construcción de armamento y maquinaria bélica
+- B. Para la reconstrucción del territorio devastado por la guerra
+- C. Para dar prioridad a la industria pesada
+- D. Ante el cerco capitalista establecido por los países occidentales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+Ante la inminente amenaza del nazismo, los objetivos del Tercer Plan Quinquenal, a aplicarse en 1938, tuvieron que modificarse para la construcción de armamento y maquinaria bélica.
+
+### 207
+
+De acuerdo con el libro de Historia Universal, ¿a qué se enfocaron las metas del Cuarto Plan Quinquenal?
+
+- A. A la reconstrucción del territorio devastado por la guerra
+- B. A la construcción de armamento y maquinaria bélica
+- C. A la colectivización agraria
+- D. Al desarrollo del armamento nuclear
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+Una vez que el pueblo ruso salió airoso de la segunda conflagración mundial, las metas del Cuarto Plan Quinquenal se enfocaron a la reconstrucción del territorio devastado por la guerra.
+
+### 208
+
+De acuerdo con el libro de Historia Universal, ¿hacia qué se orientó toda expresión artística y cultural?
+
+- A. Hacia el llamado "realismo socialista"
+- B. Hacia el culto a la personalidad
+- C. Hacia el adoctrinamiento ideológico de la sociedad
+- D. Hacia el llamado "realismo soviético"
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+Se incrementaron las campañas de mayor adoctrinamiento ideológico para la sociedad y toda expresión artística y cultural se orientó hacia el llamado "realismo socialista".
+
+### 209
+
+De acuerdo con el libro de Historia Universal, ¿qué país fue la excepción entre los países socialistas de Europa del Este liderados por la URSS?
+
+- A. Yugoslavia
+- B. Hungría
+- C. Polonia
+- D. Checoslovaquia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+En cuanto a política exterior, la URSS lideró a los países socialistas de Europa del Este, a excepción de Yugoslavia, por medio de la Cominform.
+
+### 210
+
+De acuerdo con el libro de Historia Universal, ¿qué era la Cominform y en qué año fue creada?
+
+- A. La Oficina Comunista de Información, creada en 1947
+- B. La Oficina Comunista Internacional, creada en 1947
+- C. La Oficina Comunista de Información, creada en 1955
+- D. El Comité de Información Comunista, creado en 1947
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+Por medio de la Cominform, Oficina Comunista de Información, creada en 1947, que establecía las directrices a seguir por el bloque.
+
+### 211
+
+De acuerdo con el libro de Historia Universal, ¿para qué creó la URSS el Consejo de Asistencia Económica Mutua?
+
+- A. Para supeditar la economía de los países de su órbita hacia sus propios objetivos económicos
+- B. Para establecer las directrices a seguir por el bloque
+- C. Para consolidar su control militar sobre los países socialistas
+- D. Para financiar la reconstrucción del territorio devastado por la guerra
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+Mediante la creación del Consejo de Asistencia Económica Mutua (CAME), la URSS supeditó la economía de los países de su órbita hacia sus propios objetivos económicos.
+
+### 212
+
+De acuerdo con el libro de Historia Universal, ante el cerco capitalista establecido por los países occidentales, ¿qué desarrolló muy especialmente la nación soviética?
+
+- A. Su armamento nuclear
+- B. La industria pesada
+- C. El realismo socialista
+- D. La colectivización agraria
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+Ante el cerco capitalista establecido por los países occidentales, la nación soviética prosiguió el desarrollo de la industria militar, incrementando su fuerza armada y, muy especialmente, su armamento nuclear.
+
+### 213
+
+De acuerdo con el libro de Historia Universal, ¿en qué países se propiciaron levantamientos que motivaron la intervención soviética en 1956?
+
+- A. En Hungría y Polonia
+- B. En Yugoslavia y Hungría
+- C. En Polonia y Checoslovaquia
+- D. En Hungría y Checoslovaquia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 247
+**Subtema:** Fin del bloque socialista europeo · La era de Stalin
+
+En Hungría y Polonia se propiciaron levantamientos que motivaron la intervención soviética en 1956.
+
+---
+
+**Reactivos en este archivo:** 213
