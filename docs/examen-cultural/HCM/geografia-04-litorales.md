@@ -18,8 +18,8 @@ hoja, no se calcularon.
 
 ## Cobertura actual
 
-Páginas 91 y 92: generalidades del litoral y las cuatro secciones del océano
-Pacífico. **Pendiente:** páginas 93–96, con los litorales del Golfo de México y
+Páginas 91–95: generalidades, las cuatro secciones del océano Pacífico y las
+costas del Golfo de México. **Pendiente:** página 96, con el cierre del litoral
 del Mar de las Antillas.
 
 ---
@@ -182,4 +182,177 @@ México, que se encuentra en latitudes medias, no dispone de numerosos buenos pu
 
 ---
 
-**Reactivos en este archivo:** 10
+## Sub-lote 3 · Costas del océano Pacífico (continuación)
+
+### 11
+
+De acuerdo con el libro de Geografía Moderna de México, ¿a qué deben su origen los magníficos fondeaderos naturales de Guaymas y Topolobampo?
+
+- A. A explosiones volcánicas recientes e inmersiones
+- B. Al depósito aluvial de los ríos Yaqui y Mayo
+- C. Al avance de las arenas por acción eólica
+- D. A la acción del mangle sobre terreno emergido
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 93
+**Subtema:** litorales · costas del océano Pacífico
+
+Los magníficos fondeaderos naturales de Guaymas y Topolobampo, cuyas costas están formadas por materiales volcánicos, han sido originados por explosiones volcánicas recientes e inmersiones.
+
+### 12
+
+De acuerdo con el libro de Geografía Moderna de México, ¿dónde se inicia la cuarta sección del litoral del océano Pacífico?
+
+- A. En el cabo Falso
+- B. En la Punta Mita
+- C. En la Bahía de Banderas
+- D. En el Istmo de Tehuantepec
+
+**Respuesta:** C
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 93
+**Subtema:** litorales · costas del océano Pacífico
+
+Cuarta sección. Se inicia en la Bahía de Banderas y termina en la barra del río Suchiate; aún no ha sido bien interpretada por falta de elementos de estudio.
+
+### 13
+
+De acuerdo con el libro de Geografía Moderna de México, ¿a qué fenómenos debe su formación la Bahía de Banderas?
+
+- A. A fenómenos de explosión volcánica
+- B. A hundimientos de la corteza
+- C. A la sedimentación marina
+- D. A la erosión de las estribaciones montañosas
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 94
+**Subtema:** litorales · costas del océano Pacífico
+
+La Bahía de Banderas debe su formación a fenómenos de explosión volcánica.
+
+### 14
+
+De acuerdo con el libro de Geografía Moderna de México, ¿de qué son resultado las bahías de Manzanillo y Acapulco?
+
+- A. De explosiones volcánicas
+- B. De hundimientos
+- C. De depósitos aluviales
+- D. De la acción del oleaje sobre el carso
+
+**Respuesta:** B
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 94
+**Subtema:** litorales · costas del océano Pacífico
+
+Desde ella hasta el Golfo de Tehuantepec no se encuentran accidentes más notables que las bahías de Manzanillo y Acapulco, resultados de hundimientos.
+
+---
+
+## Sub-lote 4 · Costas del Golfo de México
+
+### 15
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué longitud total tiene el litoral que va de la desembocadura del río Bravo a la Bahía de Términos y rodea la Península de Yucatán?
+
+- A. 2 500 km
+- B. 2 756 km
+- C. 7 147 km
+- D. 8 559 km
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 94
+**Subtema:** litorales · costas del Golfo de México
+
+Desde la desembocadura del río Bravo hasta la Bahía de Términos, este litoral se extiende formando una pronunciada concavidad, casi en arco de círculo, y después rodea la Península de Yucatán, todo ello con una longitud total de 2 500 km.
+
+### 16
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cómo se llama la larga península que forma la costa de Veracruz a partir de la desembocadura del río Pánuco?
+
+- A. Cabo Rojo
+- B. Punta de Zempoala
+- C. Punta de Villa Rica
+- D. Isla del Carmen
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 94
+**Subtema:** litorales · costas del Golfo de México
+
+En el estado de Veracruz, a partir de la desembocadura del río Pánuco, la costa continúa hacia el sureste formando una larga península llamada *Cabo Rojo*.
+
+### 17
+
+De acuerdo con el libro de Geografía Moderna de México, ¿por qué no puede ser cruzada la Laguna de Tamiahua?
+
+- A. Porque tiene muy poca profundidad y en sus proximidades hay una zona petrolífera en explotación
+- B. Porque está separada del Golfo por la isla del Carmen
+- C. Porque la cubre por completo la vegetación de mangle
+- D. Porque en ella desaguan siete ríos caudalosos
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 94
+**Subtema:** litorales · costas del Golfo de México
+
+Tiene muy poca profundidad y no puede ser cruzada porque en sus proximidades se encuentra una importante y amplia zona petrolífera en explotación, para la cual la laguna ha sido un medio fácil de transporte.
+
+### 18
+
+De acuerdo con el libro de Geografía Moderna de México, ¿sobre qué formación se construyó el puerto artificial de Veracruz?
+
+- A. Sobre un banco coralífero
+- B. Sobre una afloración rocosa
+- C. Sobre una barra de río
+- D. Sobre un cordón litoral
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 95
+**Subtema:** litorales · costas del Golfo de México
+
+Apareciendo enseguida manifestaciones coralíferas en forma de bancos, en una de las cuales se ha construido el puerto artificial de Veracruz.
+
+### 19
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué dimensiones tiene la Laguna de Términos?
+
+- A. 70 km de largo y 5 km de ancho
+- B. 50 km de largo y 7 km de ancho
+- C. 100 km de largo y 15 km de ancho
+- D. 25 km de largo y 5 km de ancho
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 95
+**Subtema:** litorales · costas del Golfo de México
+
+La Laguna de Términos es una amplia entrante de 70 km de largo y 5 km de ancho, separada del Golfo de México por la isla del Carmen y la isla Aguada o Puerto Real.
+
+### 20
+
+De acuerdo con el libro de Geografía Moderna de México, ¿los depósitos aluviales de qué ríos unidos hacen avanzar la costa hacia el norte en el estado de Tabasco?
+
+- A. Los del Papaloapan y el Blanco
+- B. Los del Grijalva y el Usumacinta
+- C. Los del San Juan y el Tonalá
+- D. Los del Candelaria y el Mamantel
+
+**Respuesta:** B
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 95
+**Subtema:** litorales · costas del Golfo de México
+
+La costa avanza hacia el norte por efecto de depósitos aluviales formados por los ríos Grijalva y Usumacinta, unidos.
+
+### 21
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cómo es la plataforma continental del litoral del Golfo de México, en oposición a lo que ocurre en el océano Pacífico?
+
+- A. Es bastante ancha, con mayor desarrollo en la parte occidental y norte de la Península de Yucatán
+- B. Es prácticamente inexistente por la presencia de fallas activas
+- C. Es reducida y con depresiones profundas
+- D. Es de anchura uniforme en todo el litoral
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 95
+**Subtema:** litorales · costas del Golfo de México
+
+En oposición a lo que ocurre en el océano Pacífico, la plataforma continental de todo este litoral es bastante ancha, con mayor desarrollo en la parte occidental y norte de la Península de Yucatán, especialmente en la primera.
+
+---
+
+**Reactivos en este archivo:** 21
