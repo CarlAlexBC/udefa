@@ -39,12 +39,29 @@ no se calcularon.
 
 ## Cobertura actual
 
-Páginas 205, 206, 208, 209, 211, 212, 214, 215 y 216 de La Guerra Fría. La 207
-es el mapa 18 y la 210 el mapa 19, sin texto del que salgan reactivos de cita
-literal.
+**Apartado "La Guerra Fría" completo** (páginas 205–220). Las páginas 207, 210,
+217 y 219 son los mapas 18 a 22 y la 213 el mapa 20: sin texto del que salgan
+reactivos de cita literal.
 
-**Pendiente:** páginas 213 y 217–220 del apartado, y los tres apartados
-restantes.
+**Pendiente:** los tres apartados restantes del temario — organizaciones
+internacionales (221–226), acontecimientos de nuestros días (238–267) y la
+llegada del siglo XXI (268–279).
+
+## Erratas del libro
+
+Detectadas al leer, **no reproducidas** en los reactivos. El examen pide cita
+literal, pero fijar una errata le enseñaría mal al aspirante y lo haría fallar
+si el examen real la corrige.
+
+| Dónde | Dice | Debe decir |
+|---|---|---|
+| Pág. 211 | *Budesrat* | Bundesrat |
+| Pág. 212 | presidente *Traman* | Truman |
+| Pág. 218, pie de figura 51 | David Ben *Curión* | Ben Gurión (así en el cuerpo) |
+| Pág. 219, pie del mapa 22 | Plan de *participación* | Plan de Partición (así en el cuerpo) |
+
+Criterio acordado con Carlo: cuando el cuerpo del texto y un pie de figura
+discrepan, manda el cuerpo.
 
 ---
 
@@ -889,4 +906,244 @@ En julio de 1976, se proclamó la República Socialista de Vietnam.
 
 ---
 
-**Reactivos en este archivo:** 54
+## Sub-lote 8 · El conflicto del Medio Oriente
+
+### 55
+
+De acuerdo con el libro de Historia Universal, ¿quién hizo a finales del siglo XIX un pronunciamiento sobre la necesidad de buscar un "hogar nacional" para los judíos?
+
+- A. El húngaro Theodor Herzl
+- B. Lord James Balfour
+- C. David Ben Gurión
+- D. Gamal Abdel Nasser
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 218
+**Subtema:** La Guerra Fría · Medio Oriente
+
+A finales del siglo XIX, el húngaro Theodor Herzl hizo un pronunciamiento sobre la necesidad de buscar un "hogar nacional" para los judíos.
+
+### 56
+
+De acuerdo con el libro de Historia Universal, ¿cómo se llama la declaración de 1917 con la que el gobierno inglés apoyó el establecimiento de un hogar nacional para los judíos en Palestina?
+
+- A. La Declaración Balfour
+- B. El Plan de Partición
+- C. El Mandato sobre Palestina
+- D. La resolución 242
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 218
+**Subtema:** La Guerra Fría · Medio Oriente
+
+En 1917, el gobierno inglés apoyó abiertamente el establecimiento de un hogar nacional para los judíos en Palestina, a través de una declaración emitida por el Ministro del Exterior, Lord James Balfour, la Declaración Balfour.
+
+### 57
+
+De acuerdo con el libro de Historia Universal, ¿de qué organismo recibió Gran Bretaña en 1920 el Mandato sobre Palestina?
+
+- A. De la Liga de las Naciones
+- B. De la Organización de las Naciones Unidas
+- C. Del Imperio Otomano
+- D. Del Consejo de Control Aliado
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 218
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Ello no se llevó a cabo, ya que, en 1920, Gran Bretaña recibió de la Liga de las Naciones el Mandato sobre Palestina, mismo que ejerció hasta 1948.
+
+### 58
+
+De acuerdo con el libro de Historia Universal, ¿qué establecía el Plan de Partición aprobado por la ONU en noviembre de 1947?
+
+- A. Creaba dos Estados, el judío y el árabe, y establecía la internacionalización de Jerusalén
+- B. Creaba un solo Estado binacional con capital en Jerusalén
+- C. Prorrogaba el Mandato británico hasta 1950
+- D. Exigía la retirada de los ejércitos israelíes de los territorios ocupados
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 218
+**Subtema:** La Guerra Fría · Medio Oriente
+
+La Organización de las Naciones Unidas aprobó el llamado Plan de Partición para el territorio palestino, que creaba dos Estados el judío y el árabe, establecía la internacionalización de Jerusalén, y señalaba el 14 de mayo de 1948 como fecha para la evacuación de tropas británicas del territorio.
+
+### 59
+
+De acuerdo con el libro de Historia Universal, ¿qué fecha señalaba el Plan de Partición para la evacuación de las tropas británicas del territorio?
+
+- A. El 14 de mayo de 1948
+- B. El 6 de junio de 1967
+- C. El 6 de octubre de 1973
+- D. En noviembre de 1947
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 218
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Señalaba el 14 de mayo de 1948 como fecha para la evacuación de tropas británicas del territorio.
+
+### 60
+
+De acuerdo con el libro de Historia Universal, ¿qué dirigente sionista proclamó la creación del Estado de Israel con la salida de los británicos?
+
+- A. David Ben Gurión
+- B. Theodor Herzl
+- C. Lord James Balfour
+- D. Gamal Abdel Nasser
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 218
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Con la salida de los británicos, el dirigente sionista David Ben Gurión proclamó de inmediato la creación del Estado de Israel.
+
+### 61
+
+De acuerdo con el libro de Historia Universal, ¿qué naciones árabes conjugaron sus ejércitos e invadieron al naciente Estado de Israel?
+
+- A. Siria, Líbano, Jordania, Egipto e Irak
+- B. Egipto, Siria, Irak y Jordania
+- C. Siria, Líbano, Arabia Saudita y Egipto
+- D. Egipto, Jordania, Irak y Arabia Saudita
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 218
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Las naciones árabes de Siria, Líbano, Jordania, Egipto e Irak conjugaron sus ejércitos e invadieron al naciente Estado para mostrar su inconformidad.
+
+> El distractor B es la lista de la Guerra de los Seis Días (Pág. 220), que es
+> parecida pero no igual: ahí no está Líbano.
+
+### 62
+
+De acuerdo con el libro de Historia Universal, ¿en qué año se firmó el armisticio que terminó la primera Guerra Palestina, bajo supervisión de la ONU?
+
+- A. En 1949
+- B. En 1948
+- C. En 1947
+- D. En 1956
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 219
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Esta primera Guerra Palestina terminó con la derrota del ejército coaligado y con la firma de un armisticio, acordado bajo la supervisión de la Organización de las Naciones Unidas en 1949, con lo que resultó ampliado el territorio israelí.
+
+---
+
+## Sub-lote 9 · Suez, los Seis Días y el Yom Kipur
+
+### 63
+
+De acuerdo con el libro de Historia Universal, ¿qué presidente egipcio nacionalizó el Canal de Suez en 1956?
+
+- A. Gamal Abdel Nasser
+- B. David Ben Gurión
+- C. Theodor Herzl
+- D. Lord James Balfour
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 219
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Destacó la nacionalización del Canal de Suez, en 1956, por el presidente egipcio Gamal Abdel Nasser, como protesta ante las potencias que no habían resuelto el conflicto árabe-israelí.
+
+### 64
+
+De acuerdo con el libro de Historia Universal, ¿qué países atacaron a Egipto en la llamada "Guerra del Suez"?
+
+- A. Ingleses, franceses e israelíes
+- B. Estados Unidos y la Unión Soviética
+- C. Siria, Líbano y Jordania
+- D. Ingleses, norteamericanos e israelíes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 219
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Esta acción provocó que ingleses, franceses e israelíes atacaran a Egipto en la llamada "Guerra del Suez"; Israel ocupó la península del Sinaí y los aliados, Port Said.
+
+### 65
+
+De acuerdo con el libro de Historia Universal, ¿cuál es la única salida de Israel al Mar Rojo, que Egipto exigía bloquear?
+
+- A. El Golfo de Akaba
+- B. El Golfo de Suez
+- C. El Canal de Suez
+- D. La Franja de Gaza
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 219
+**Subtema:** La Guerra Fría · Medio Oriente
+
+La política de Egipto seguía firme en exigir la retirada de tropas de su territorio y en bloquear el Golfo de Akaba, única salida de Israel al Mar Rojo.
+
+### 66
+
+De acuerdo con el libro de Historia Universal, ¿en qué fecha lanzó Israel el ataque sorpresa que dio lugar a la "Guerra de los Seis Días"?
+
+- A. El 6 de junio de 1967
+- B. El 6 de octubre de 1973
+- C. El 14 de mayo de 1948
+- D. En 1956
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 220
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Las presiones hicieron que Israel preparara un ataque sorpresa contra Egipto, Siria, Irak y Jordania el 6 de junio de 1967, con el que logró una victoria completa sobre sus adversarios en la llamada "Guerra de los Seis Días".
+
+### 67
+
+De acuerdo con el libro de Historia Universal, ¿de qué territorios se posesionó Israel al término de la "Guerra de los Seis Días"?
+
+- A. De la península del Sinaí, la Franja de Gaza, las alturas del Golán, Cisjordania y Jerusalén
+- B. De la península del Sinaí y Port Said
+- C. Del Golfo de Akaba y el Canal de Suez
+- D. De Cisjordania y el Líbano
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 220
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Al término de la cual se posesionó de la península del Sinaí, la Franja de Gaza, las alturas del Golán, Cisjordania (occidente del río Jordán) y Jerusalén.
+
+### 68
+
+De acuerdo con el libro de Historia Universal, ¿qué resolución emitieron las Naciones Unidas para exigir la retirada de los ejércitos israelíes de los territorios ocupados?
+
+- A. La resolución 242
+- B. El Plan de Partición
+- C. La Declaración Balfour
+- D. El Mandato sobre Palestina
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 220
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Ante la actitud de Israel de quedarse con los territorios conquistados, las Naciones Unidas emitieron su resolución 242 en la que se exigía la retirada de ejércitos israelíes de los territorios ocupados y el reconocimiento de ese Estado por parte de los países árabes.
+
+### 69
+
+De acuerdo con el libro de Historia Universal, ¿qué significa Yom Kipur, día en que Egipto y Siria iniciaron su ataque sorpresa el 6 de octubre de 1973?
+
+- A. Día del perdón
+- B. Año nuevo lunar
+- C. Día de la expiación armada
+- D. Día del retorno
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 220
+**Subtema:** La Guerra Fría · Medio Oriente
+
+Los ejércitos de Egipto y Siria se unieron para planear un ataque sorpresa, mismo que iniciaron el 6 de octubre de 1973 o día del *Yom Kipur* (día del perdón).
+
+> El distractor B es el significado del Tet vietnamita (Pág. 216). Las dos
+> ofensivas se lanzaron aprovechando una fecha sagrada, y el libro traduce
+> ambas.
+
+---
+
+**Reactivos en este archivo:** 69
