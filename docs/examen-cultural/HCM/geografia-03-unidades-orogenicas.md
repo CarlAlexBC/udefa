@@ -34,9 +34,11 @@ Regiones geomorfológicas y por tanto fuera de este temario.
 | Sierra Madre de Oaxaca | 74 | 3 |
 | Sierra Madre de Chiapas | 76 | 2 |
 | Meseta Central de Chiapas | 76 | 3 |
+| Plataforma Yucateca | 77 | 6 |
+| Sierras de Baja California | 79 | 4 |
 
-**Pendiente:** páginas 75 y 77–79, con la Plataforma Yucateca, la Altiplanicie y
-las penínsulas.
+**Pendiente:** páginas 75 y 78. El resto del alcance del temario (69–79) está
+cubierto.
 
 ---
 
@@ -447,4 +449,162 @@ De acuerdo con el libro de Geografía Moderna de México, ¿qué altitud alcanza
 
 ---
 
-**Reactivos en este archivo:** 25
+## Sub-lote 9 · Plataforma Yucateca
+
+### 26
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué proporción de la Plataforma Yucateca pertenece a México?
+
+- A. Tres cuartas partes
+- B. La mitad
+- C. Una octava parte
+- D. La totalidad
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 77
+**Subtema:** unidades orogénicas · Plataforma Yucateca
+
+Tiene una anchura media de 350 km y una longitud de 500 km. De esta área así limitada, tres cuartas partes pertenecen a México, una octava a Guatemala y otra más a Belize.
+
+### 27
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué denominación recibe la masa compacta a la que no se le han encontrado fracturas tectónicas en la Península de Yucatán?
+
+- A. Losa de Yucatán
+- B. Mesa de Yucatán
+- C. Sierrita
+- D. Carso yucateco
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 77
+**Subtema:** unidades orogénicas · Plataforma Yucateca
+
+Aceptada la denominación de *Losa de Yucatán*, se trata de una masa compacta a la que no se han encontrado fracturas tectónicas.
+
+### 28
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cuánto se ha retirado el mar en Puerto Progreso en 110 años, como muestra de los movimientos de emersión?
+
+- A. Aproximadamente 100 m
+- B. Aproximadamente 200 m
+- C. Aproximadamente 350 m
+- D. Aproximadamente 500 m
+
+**Respuesta:** B
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 77
+**Subtema:** unidades orogénicas · Plataforma Yucateca
+
+Esto último es aún perceptible, como ocurre en Puerto Progreso, donde en 110 años el mar se ha retirado aproximadamente 200 m.
+
+### 29
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cómo se llama el material superficial de la Península de Yucatán, formado en aguas someras?
+
+- A. Sahcab
+- B. Sascab
+- C. Carso
+- D. Losa
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 77
+**Subtema:** unidades orogénicas · Plataforma Yucateca
+
+De los materiales que la forman, las calizas del subsuelo se produjeron como resultado de la sedimentación en aguas profundas, y el "sahcab", que es el material superficial, en aguas someras.
+
+### 30
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cómo se llama la única cadena de elevaciones de la Plataforma Yucateca?
+
+- A. Sierrita
+- B. Sierra de Pantepec
+- C. Sierra de San Cristóbal
+- D. Sierra de Zongolica
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 77
+**Subtema:** unidades orogénicas · Plataforma Yucateca
+
+Sólo está una pequeña cadena de 100 km de largo y 5 km de ancho con 100 m de elevación máxima, que se extiende de Sahcabá y Muna a Ticul y Tul, para terminar al sur de Peto, que se conoce con el nombre de *Sierrita*.
+
+### 31
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cómo se forma un cenote?
+
+- A. Cuando las bóvedas de las cavernas se derrumban
+- B. Cuando el agua de lluvia se acumula en una depresión
+- C. Cuando una falla tectónica abre la superficie
+- D. Cuando el mar se retira y deja una hondonada
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 77
+**Subtema:** unidades orogénicas · Plataforma Yucateca
+
+Al circular entre grietas y fisuras, las amplía, hasta convertirlas en cavernas en las que se pueden encontrar estalactitas y estalagmitas. Cuando las bóvedas de las cavernas se derrumban, éstas forman un cenote.
+
+---
+
+## Sub-lote 10 · Sierras de Baja California
+
+### 32
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la altitud media que conserva la cadena montañosa de Baja California?
+
+- A. 250 m
+- B. 1 000 m
+- C. 2 200 m
+- D. 2 500 m
+
+**Respuesta:** B
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 79
+**Subtema:** unidades orogénicas · Sierras de Baja California
+
+Puede considerarse que la cadena montañosa conserva una altitud media de 1 000 m.
+
+### 33
+
+De acuerdo con el libro de Geografía Moderna de México, ¿en las cercanías de qué ciudad se deprime la cadena montañosa de Baja California hasta quedar reducida a 250 m?
+
+- A. La Paz
+- B. Todos Santos
+- C. Ensenada
+- D. Mulegé
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 79
+**Subtema:** unidades orogénicas · Sierras de Baja California
+
+Las mayores alturas las alcanza en la parte norte con 2 200 m y las menores en las cercanías de La Paz, donde se deprime hasta quedar reducida a 250 m.
+
+### 34
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué bandas superficiales dan color a los picos erguidos y desgarrados de Baja California?
+
+- A. De hematitas y limonitas
+- B. De areniscas y lutitas
+- C. De basaltos y riolitas
+- D. De pizarras cristalinas
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 79
+**Subtema:** unidades orogénicas · Sierras de Baja California
+
+Son muy característicos los picos erguidos, desgarrados, generalmente desprovistos de vegetación, coloreados por bandas superficiales de hematitas y limonitas que les dan apariencia interesante.
+
+### 35
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué sierra de Baja California está coronada por amplias y elevadas mesetas?
+
+- A. La Sierra Juárez
+- B. La Sierra de San Pedro Mártir
+- C. La Sierra de la Laguna
+- D. La Sierra de Cucupás
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 79
+**Subtema:** unidades orogénicas · Sierras de Baja California
+
+Sierra Juárez, ya en territorio mexicano, coronada por amplias y elevadas mesetas; San Pedro Mártir al sur, con cresta afilada rematada por altos picos.
+
+---
+
+**Reactivos en este archivo:** 35
