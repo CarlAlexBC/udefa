@@ -46,8 +46,12 @@ reactivos de cita literal.
 **Apartado "Las grandes organizaciones internacionales" completo**
 (páginas 221–226).
 
-**Pendiente:** acontecimientos de nuestros días (238–267) y la llegada del
-siglo XXI (268–279).
+**Apartado "Principales acontecimientos de nuestros días", en curso**
+(páginas 238–267). Cubiertas las páginas 238–243. La página 242 es el mapa 25,
+"Localización del conflicto": sin texto del que salgan reactivos de cita literal.
+
+**Pendiente:** acontecimientos de nuestros días de la 244 en adelante, y la
+llegada del siglo XXI (268–279).
 
 ## Erratas del libro
 
@@ -66,6 +70,19 @@ si el examen real la corrige.
 También hay una cifra que el propio libro da doble: la Carta la firmaron
 "50 países" (Pág. 221) pero la ONU "fue creada por 51 países" (Pág. 222). No es
 errata de transcripción sino del libro; el reactivo 77 cita ambas y lo advierte.
+
+Segunda contradicción del mismo tipo, sobre cuándo tomó Irak el Imperio Otomano:
+
+| Dónde | Dice |
+|---|---|
+| Pág. 239, sección "Iraq" | "Desde el **siglo XVIII**, el Imperio Otomano mantuvo ocupado Irak" |
+| Pág. 240, sección "Kuwait" | "hasta que en el **siglo XVII**, el actual Irak fue sometido por el Imperio Otomano" |
+
+**No se escribió reactivo sobre ese siglo.** Un aspirante que estudie las dos
+páginas encontraría respuestas distintas al mismo dato y no hay criterio para
+elegir una: no es un cuerpo contra un pie de figura, son dos pasajes del cuerpo.
+El reactivo 118 sí usa la oración de la Pág. 239, pero pregunta a manos de quién
+pasó el dominio —los ingleses—, dato que no está en disputa.
 
 Criterio acordado con Carlo: cuando el cuerpo del texto y un pie de figura
 discrepan, manda el cuerpo.
@@ -1878,4 +1895,725 @@ Diez años más tarde, una revolución llevó al poder al Partido Baas Árabe y 
 
 ---
 
-**Reactivos en este archivo:** 115
+## Sub-lote 16 · Iraq: gobierno y antecedentes
+
+### 116
+
+De acuerdo con el libro de Historia Universal, ¿cuántos habitantes tiene Bagdad, la capital de Iraq?
+
+- A. 6 431 839 habitantes
+- B. 31 129 225 habitantes
+- C. 2 305 000 habitantes
+- D. 438 317 habitantes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+La capital, Bagdad, tiene 6 431 839 habitantes.
+
+### 117
+
+De acuerdo con el libro de Historia Universal, ¿cuáles son, además de la capital, otras ciudades importantes de Iraq?
+
+- A. Basora y Mosul
+- B. Bagdad y Basora
+- C. Mosul y Kirkuk
+- D. Basora y Kerbala
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+Otras ciudades importantes son Basora y Mosul.
+
+### 118
+
+De acuerdo con el libro de Historia Universal, ¿a manos de quién pasó el dominio de Irak al ser derrotado el Imperio Otomano en la Primera Guerra Mundial?
+
+- A. De los ingleses
+- B. De los alemanes
+- C. De los norteamericanos
+- D. De los turcos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+Desde el siglo XVIII, el Imperio Otomano mantuvo ocupado Irak hasta que, al ser derrotado en la Primera Guerra Mundial, este dominio pasó a manos de los ingleses.
+
+### 119
+
+De acuerdo con el libro de Historia Universal, ¿con quiénes entraron en conflicto los británicos por el control del petróleo descubierto en Irak?
+
+- A. Con los alemanes
+- B. Con los norteamericanos
+- C. Con los otomanos
+- D. Con los soviéticos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+Como en 1927 se descubrieron grandes yacimientos de petróleo en la región, los británicos entraron en conflicto con los alemanes por el control y, finalmente, las empresas británicas, en sociedad con las norteamericanas, se quedaron con el negocio del energético.
+
+### 120
+
+De acuerdo con el libro de Historia Universal, ¿en qué año se instituyó la República en Irak, al ser derrocado Faisal II?
+
+- A. En 1958
+- B. En 1932
+- C. En 1927
+- D. En 1968
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+En 1932, contando con el aval de Londres, el Emir Faisal proclamó la independencia del país y, al ser derrocado su hijo Faisal II, se instituyó la República en 1958.
+
+### 121
+
+De acuerdo con el libro de Historia Universal, ¿qué organización dirigió el fortalecimiento económico y social de Irak?
+
+- A. El Frente Nacional
+- B. El Partido Baas Árabe y Socialista
+- C. El Consejo de Comando de la Revolución
+- D. La Organización de Países Exportadores de Petróleo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 239
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+El fortalecimiento económico y social fue dirigido por el Frente Nacional, integrado además de por el Partido Baas, por otros movimientos políticos, que promovió y consolidó la Organización de Países Exportadores de Petróleo en 1960.
+
+### 122
+
+De acuerdo con el libro de Historia Universal, ¿en qué año se promovió y consolidó la Organización de Países Exportadores de Petróleo?
+
+- A. En 1960
+- B. En 1958
+- C. En 1968
+- D. En 1971
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+El fortalecimiento económico y social fue dirigido por el Frente Nacional, integrado además de por el Partido Baas, por otros movimientos políticos, que promovió y consolidó la Organización de Países Exportadores de Petróleo en 1960.
+
+### 123
+
+De acuerdo con el libro de Historia Universal, según la Constitución de 1968, reformada en 1971, ¿en qué órgano delegaba el poder el gobierno de Irak?
+
+- A. En un Consejo de Comando de la Revolución
+- B. En el Frente Nacional
+- C. En la Asamblea Nacional
+- D. En el Partido Baas Árabe y Socialista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+El gobierno del país, de acuerdo con la Constitución de 1968, reformada en 1971, delegaba el poder en un Consejo de Comando de la Revolución, compuesto por nueve miembros, y presidido por Saddam Hussein desde 1979.
+
+### 124
+
+De acuerdo con el libro de Historia Universal, ¿por cuántos miembros estaba compuesto el Consejo de Comando de la Revolución?
+
+- A. Por nueve miembros
+- B. Por cincuenta miembros
+- C. Por doce miembros
+- D. Por diecinueve miembros
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+El gobierno del país, de acuerdo con la Constitución de 1968, reformada en 1971, delegaba el poder en un Consejo de Comando de la Revolución, compuesto por nueve miembros, y presidido por Saddam Hussein desde 1979.
+
+### 125
+
+De acuerdo con el libro de Historia Universal, ¿desde qué año presidió Saddam Hussein el Consejo de Comando de la Revolución?
+
+- A. Desde 1979
+- B. Desde 1968
+- C. Desde 1971
+- D. Desde 1980
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+El gobierno del país, de acuerdo con la Constitución de 1968, reformada en 1971, delegaba el poder en un Consejo de Comando de la Revolución, compuesto por nueve miembros, y presidido por Saddam Hussein desde 1979.
+
+### 126
+
+De acuerdo con el libro de Historia Universal, ¿a partir de qué año inició Irak una guerra contra Irán, debido a los apetitos expansionistas de ese país?
+
+- A. A partir de 1980
+- B. A partir de 1979
+- C. A partir de 1971
+- D. A partir de 1988
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+Debido a los apetitos expansionistas de Irán, Irak inició a partir de 1980 una guerra contra ese país, la cual concluyó ocho años más tarde, misma que dejó al gobierno iraquí con una deuda superior a los 70 billones de dólares.
+
+### 127
+
+De acuerdo con el libro de Historia Universal, ¿a cuánto ascendió la deuda con que la guerra contra Irán dejó al gobierno iraquí?
+
+- A. A más de 70 billones de dólares
+- B. A más de 40 billones de dólares
+- C. A más de 30 billones de dólares
+- D. A más de 20 billones de dólares
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+Debido a los apetitos expansionistas de Irán, Irak inició a partir de 1980 una guerra contra ese país, la cual concluyó ocho años más tarde, misma que dejó al gobierno iraquí con una deuda superior a los 70 billones de dólares.
+
+### 128
+
+De acuerdo con el libro de Historia Universal, de la deuda iraquí, ¿cuántos billones de dólares se debían a Estados Unidos, la Unión Soviética y a otros países de Occidente?
+
+- A. 40
+- B. 30
+- C. 20
+- D. 70
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Iraq
+
+Una deuda superior a los 70 billones de dólares, de los cuales 40 se debían a Estados Unidos, la Unión Soviética y a otros países de Occidente, y 30 a sus exaliados de la región, incluyendo Kuwait.
+
+---
+
+## Sub-lote 17 · Kuwait
+
+### 129
+
+De acuerdo con el libro de Historia Universal, ¿cuál es el nombre oficial de Kuwait?
+
+- A. Dawlat al-Kuwayat
+- B. Al-Jumhuriya Al-Iraquiya
+- C. Dawlat al-Bahrayn
+- D. Al-Mamlaka al-Kuwaytiya
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+El nombre oficial de este pequeño país es Dawlat al-Kuwayat.
+
+### 130
+
+De acuerdo con el libro de Historia Universal, ¿qué superficie tiene Kuwait?
+
+- A. 17 818 km²
+- B. 438 317 km²
+- C. 14 610 km²
+- D. 2 305 km²
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+Cuenta con 17 818 km² de superficie.
+
+### 131
+
+De acuerdo con el libro de Historia Universal, ¿en cuántos distritos está dividido políticamente Kuwait?
+
+- A. En cuatro distritos
+- B. En nueve distritos
+- C. En diecinueve distritos
+- D. En cincuenta distritos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+Políticamente está dividido en cuatro distritos.
+
+### 132
+
+De acuerdo con el libro de Historia Universal, según las estadísticas de población de 2010, ¿cuántos habitantes posee Kuwait?
+
+- A. 2 305 000 habitantes
+- B. 6 431 839 habitantes
+- C. 31 129 225 habitantes
+- D. 17 818 000 habitantes
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+Según las estadísticas de población de 2010, posee 2 305 000 habitantes.
+
+### 133
+
+De acuerdo con el libro de Historia Universal, ¿a cuánto ascendía el ingreso per cápita de Kuwait para 1987?
+
+- A. A 14 610 dólares anuales
+- B. A 4 383 000 dólares anuales
+- C. A 3 652 500 dólares anuales
+- D. A 17 818 dólares anuales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+Otro dato importante es que para 1987, el ingreso per cápita era de 14 610 dólares anuales.
+
+### 134
+
+De acuerdo con el libro de Historia Universal, ¿en qué descansa la economía de Kuwait?
+
+- A. En la venta del energético, ya sea crudo, refinado o como gas natural
+- B. En el comercio marítimo del Golfo Pérsico
+- C. En la banca y los servicios financieros
+- D. En la exportación de gas natural exclusivamente
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+El país es dueño de inmensas cantidades de petróleo, y su economía descansa en la venta del energético, ya sea crudo, refinado o como gas natural.
+
+### 135
+
+De acuerdo con el libro de Historia Universal, de acuerdo con la Constitución de 1962, ¿quién encabeza el Estado kuwaití?
+
+- A. Un Emir, escogido por la familia real
+- B. El Primer Ministro
+- C. La Asamblea Nacional
+- D. Un Consejo de Comando de la Revolución
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+De acuerdo con la Constitución de 1962, el Estado es encabezado por un Emir, escogido por la familia real, que ejerce su gobierno mediante un Consejo presidido por el Primer Ministro.
+
+### 136
+
+De acuerdo con el libro de Historia Universal, ¿por cuántos miembros está integrada la Asamblea Nacional de Kuwait?
+
+- A. Por 50 miembros
+- B. Por 20 miembros
+- C. Por nueve miembros
+- D. Por 28 miembros
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+El Poder Legislativo corresponde a la Asamblea Nacional, integrada por 50 miembros elegidos cada cuatro años.
+
+### 137
+
+De acuerdo con el libro de Historia Universal, ¿cada cuánto tiempo son elegidos los miembros de la Asamblea Nacional de Kuwait?
+
+- A. Cada cuatro años
+- B. Cada seis años
+- C. Cada dos años
+- D. Cada cinco años
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+El Poder Legislativo corresponde a la Asamblea Nacional, integrada por 50 miembros elegidos cada cuatro años.
+
+### 138
+
+De acuerdo con el libro de Historia Universal, ¿quién fue el Emir de Kuwait desde 1977, exiliado al momento de la invasión iraquí?
+
+- A. Jaber al-Hamad al-Sabah
+- B. Mabarak al-Sabah
+- C. El Emir Faisal
+- D. Faisal II
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+El Emir desde 1977, exiliado al momento de la invasión iraquí, fue Jaber al-Hamad al-Sabah.
+
+### 139
+
+De acuerdo con el libro de Historia Universal, ¿bajo el gobierno de quién quedaron las antiguas tribus kuwaitíes a partir del siglo VII?
+
+- A. Del Califa de Bagdad
+- B. Del Imperio Otomano
+- C. De los ingleses
+- D. Del Emir Mabarak al-Sabah
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+En cuanto a su historia, a partir del siglo VII, las antiguas tribus kuwaitíes quedaron bajo el gobierno del Califa de Bagdad.
+
+### 140
+
+De acuerdo con el libro de Historia Universal, ¿quién aceptó, en el siglo XIX, el protectorado que los ingleses ofrecieron a Kuwait?
+
+- A. El Emir Mabarak al-Sabah
+- B. El Emir Jaber al-Hamad al-Sabah
+- C. El Emir Faisal
+- D. El Califa de Bagdad
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+En el siglo XIX, con la finalidad de que sus tribus no fueran totalmente asimiladas por los turcos, el Emir Mabarak al-Sabah aceptó el protectorado que los ingleses le ofrecieron.
+
+### 141
+
+De acuerdo con el libro de Historia Universal, ¿qué compañía se asentó en la región de Kuwait con el descubrimiento de grandes yacimientos de petróleo?
+
+- A. La Kuwait-Oil Company, de inversión anglonorteamericana
+- B. La Organización de Países Exportadores de Petróleo
+- C. La Dawlat al-Kuwayat Oil Company
+- D. La Anglo-Persian Oil Company
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+Con el descubrimiento de grandes yacimientos de petróleo, ya en pleno siglo XX, se asentó en la región la Kuwait-Oil Company de inversión anglonorteamericana.
+
+### 142
+
+De acuerdo con el libro de Historia Universal, ¿en qué año se proclamó la independencia de Kuwait?
+
+- A. En 1961
+- B. En 1962
+- C. En 1963
+- D. En 1958
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
+**Subtema:** Acontecimientos de nuestros días · Kuwait
+
+En 1961 se proclamó la independencia del país, al abrogar los ingleses el tratado que establecía el Protectorado sobre Kuwait.
+
+---
+
+## Sub-lote 18 · Factores del conflicto
+
+### 143
+
+De acuerdo con el libro de Historia Universal, ¿qué organismo no apoyó la posición de Bagdad y sustituyó con sus tropas a las británicas?
+
+- A. La Liga Árabe
+- B. La Organización de las Naciones Unidas
+- C. La Comunidad Europea
+- D. La Organización de Países Exportadores de Petróleo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 241
+**Subtema:** Acontecimientos de nuestros días · Factores del conflicto
+
+Esta posición de Bagdad no logró el apoyo de la Liga Árabe, cuyas tropas sustituyeron a las británicas.
+
+### 144
+
+De acuerdo con el libro de Historia Universal, ¿en qué año quedó solucionada la controversia, al ser declarado Kuwait miembro de la Organización de las Naciones Unidas?
+
+- A. En 1963
+- B. En 1961
+- C. En 1962
+- D. En 1960
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 241
+**Subtema:** Acontecimientos de nuestros días · Factores del conflicto
+
+Dos años más tarde, en 1963, la controversia quedó solucionada al ser declarado Kuwait como miembro de la Organización de las Naciones Unidas.
+
+### 145
+
+De acuerdo con el libro de Historia Universal, ¿de qué acusó Saddam Hussein a Kuwait a mediados de 1990?
+
+- A. De haber infringido la soberanía al sustraer petróleo de sus campos fronterizos
+- B. De haber financiado a Irán durante la guerra
+- C. De haber solicitado el protectorado de los ingleses
+- D. De haber roto el embargo comercial de la Liga Árabe
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 241
+**Subtema:** Acontecimientos de nuestros días · Factores del conflicto
+
+A mediados de 1990, Saddam Hussein acusó a Kuwait de haber infringido la soberanía al sustraer petróleo de sus campos fronterizos y de elevar sus cuotas de producción del energético en conformidad con Arabia Saudita, lo que lesionaba su economía, debilitada por la guerra contra Irán.
+
+### 146
+
+De acuerdo con el libro de Historia Universal, ¿qué porcentaje de las reservas mundiales de petróleo hubiese administrado Irak de haberse anexado el emirato?
+
+- A. 20%
+- B. 65%
+- C. 30%
+- D. 40%
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 241
+**Subtema:** Acontecimientos de nuestros días · Factores del conflicto
+
+De haberse anexado el emirato, Irak hubiese administrado 20% de las reservas mundiales de petróleo.
+
+### 147
+
+De acuerdo con el libro de Historia Universal, de haberse anexado el emirato, ¿en qué lugar habría quedado Irak como reserva petrolera de la región?
+
+- A. En el segundo, después de Arabia Saudita
+- B. En el primero, por delante de Arabia Saudita
+- C. En el tercero, después de Irán
+- D. En el segundo, después de Irán
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 241
+**Subtema:** Acontecimientos de nuestros días · Factores del conflicto
+
+De haberse anexado el emirato, Irak hubiese administrado 20% de las reservas mundiales de petróleo, convirtiéndose en la segunda reserva petrolera en la región, después de Arabia Saudita.
+
+### 148
+
+De acuerdo con el libro de Historia Universal, según cálculos especializados, ¿qué porcentaje de las reservas probadas de petróleo del total mundial se encuentra en los países del golfo?
+
+- A. Más de 65%
+- B. Más de 20%
+- C. Más de 40%
+- D. Más de 30%
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 241
+**Subtema:** Acontecimientos de nuestros días · Factores del conflicto
+
+Según cálculos especializados, en los países del golfo se encuentra más de 65% de las reservas probadas de petróleo del total mundial.
+
+### 149
+
+De acuerdo con el libro de Historia Universal, desde el punto de vista de Estados Unidos, ¿cuál fue la razón principal para detener una invasión potencial a Kuwait?
+
+- A. El riesgo de que Irak también se apoderara de Arabia Saudita
+- B. El riesgo de que Irak se aliara con la Unión Soviética
+- C. El riesgo de que Irak cerrara el Golfo Pérsico
+- D. El riesgo de que Irak atacara a Israel
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 241
+**Subtema:** Acontecimientos de nuestros días · Factores del conflicto
+
+Desde el punto de vista de Estados Unidos existió el riesgo de que Irak también se apoderara de Arabia Saudita, razón principal para detener una invasión potencial a Kuwait.
+
+### 150
+
+De acuerdo con el libro de Historia Universal, ¿cuáles son los principales socios de Estados Unidos que dependen en gran medida del petróleo de esa región?
+
+- A. Francia, Italia y sobre todo Japón
+- B. Gran Bretaña, Francia y Canadá
+- C. Alemania, Japón y Canadá
+- D. Gran Bretaña, Italia y Alemania
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 241
+**Subtema:** Acontecimientos de nuestros días · Factores del conflicto
+
+Un eventual control del petróleo por parte de Irak afectaría a Estados Unidos y a sus principales socios: Francia, Italia y sobre todo Japón, que dependen en gran medida del petróleo de esa región.
+
+---
+
+## Sub-lote 19 · Cronología del conflicto
+
+### 151
+
+De acuerdo con el libro de Historia Universal, ¿cuál fue un real motivo de la confrontación en el Golfo Pérsico?
+
+- A. El libre acceso y el control efectivo sobre los precios del petróleo
+- B. La defensa de la democracia y el respeto a la soberanía
+- C. La búsqueda del liderazgo regional por parte de Irak
+- D. El pago de la deuda contraída durante la guerra contra Irán
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 243
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Entonces un real motivo de esta confrontación fue el libre acceso y el control efectivo sobre los precios del petróleo, indispensable para la economía de los países occidentales.
+
+### 152
+
+De acuerdo con el libro de Historia Universal, ¿qué periodo abarca la cronología del conflicto del Golfo Pérsico?
+
+- A. De agosto de 1990 a febrero de 1991
+- B. De agosto de 1990 a enero de 1991
+- C. De febrero de 1990 a agosto de 1991
+- D. De enero de 1991 a febrero de 1992
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 243
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Cronología del conflicto (agosto 1990-febrero 1991).
+
+### 153
+
+De acuerdo con el libro de Historia Universal, ¿qué palacio, del Emir Al-Sabah, controlaron de inmediato las tropas iraquíes al invadir Kuwait?
+
+- A. El palacio Dasman
+- B. El palacio Al-Jumhuriya
+- C. El palacio Al-Kuwayat
+- D. El palacio Mabarak
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 243
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Las tropas iraquíes invadieron Kuwait controlando de inmediato los puntos estratégicos, como la capital, el banco central, las bases militares, el ministerio de información, los campos petrolíferos y el palacio Dasman, del Emir Al-Sabah.
+
+### 154
+
+De acuerdo con el libro de Historia Universal, ¿con qué condición declaró Hussein estar dispuesto a resolver la crisis?
+
+- A. Si Israel se retiraba de los territorios ocupados en el Medio Oriente
+- B. Si se levantaba el embargo comercial de la Organización de las Naciones Unidas
+- C. Si Kuwait condonaba la deuda de la guerra contra Irán
+- D. Si Estados Unidos retiraba sus tropas de Arabia Saudita
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 243
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+También declaró estar dispuesto a resolver la crisis si Israel se retiraba de los territorios ocupados en el Medio Oriente (agosto de 1990).
+
+### 155
+
+De acuerdo con el libro de Historia Universal, ¿qué bandera tomó George Bush al convocar a la comunidad internacional a formar un ejército multinacional?
+
+- A. La defensa de la democracia, el respeto a la soberanía y la paz en el mundo
+- B. El libre acceso y el control efectivo sobre los precios del petróleo
+- C. La defensa de Israel y de Arabia Saudita
+- D. El cumplimiento de las resoluciones del Consejo de Seguridad
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 243
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Convocó a la comunidad internacional a formar un ejército multinacional para combatir a Hussein, tomando como bandera la defensa de la democracia, el respeto a la soberanía y la paz en el mundo.
+
+### 156
+
+De acuerdo con el libro de Historia Universal, ¿cuántos países de la Liga Árabe participaron en la alianza anti iraquí?
+
+- A. 12 de 20
+- B. 20 de 28
+- C. 28 de 50
+- D. 12 de 28
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 243
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+En poco tiempo, Estados Unidos logró consolidar la alianza anti iraquí, en la que participaron 28 países de diversas tendencias, entre ellos Gran Bretaña, Francia, Canadá, Alemania y Japón (aunque estos dos últimos sólo económicamente), 12 países de la Liga Árabe (de 20), la URSS y otros de Europa, Asia, África y América.
+
+### 157
+
+De acuerdo con el libro de Historia Universal, en la alianza anti iraquí, ¿qué dos países participaron sólo económicamente?
+
+- A. Alemania y Japón
+- B. Francia y Canadá
+- C. Gran Bretaña y Francia
+- D. Italia y Japón
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 243
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Participaron 28 países de diversas tendencias, entre ellos Gran Bretaña, Francia, Canadá, Alemania y Japón (aunque estos dos últimos sólo económicamente).
+
+### 158
+
+De acuerdo con el libro de Historia Universal, ¿qué pretendía, en primer lugar, la operación "Escudo del Desierto"?
+
+- A. Defender a Israel y a Arabia Saudita de una agresión iraquí
+- B. Exigir la retirada de los ejércitos iraquíes
+- C. Poner en marcha la fase ofensiva
+- D. Controlar los campos petrolíferos de Kuwait
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 243
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Encabezada por los norteamericanos, inició la operación "Escudo del Desierto", que pretendía, en primer lugar, defender a Israel y a Arabia Saudita de una agresión iraquí y, en segundo lugar, exigir la retirada de los ejércitos iraquíes.
+
+### 159
+
+De acuerdo con el libro de Historia Universal, ¿cómo se les llamó a los cazabombarderos Stealth F117, capaces de evadir el radar?
+
+- A. Aviones invisibles
+- B. Aviones fantasma
+- C. Aviones silenciosos
+- D. Aviones furtivos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 243
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Contaron con armamentos sofisticados tecnológicamente, como los cazabombarderos Stealth F117, que por su forma y material no metálico eran capaces de evadir el radar, y a los cuales se les llamó aviones invisibles.
+
+### 160
+
+De acuerdo con el libro de Historia Universal, ¿cuántos hombres concentraron las fuerzas multinacionales?
+
+- A. Más de 605 mil hombres
+- B. 540 mil hombres
+- C. Más de 500 mil hombres
+- D. Más de 650 mil hombres
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 243
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Las fuerzas multinacionales concentraron a más de 605 mil hombres, el contingente militar más numeroso desde la guerra de Vietnam.
+
+### 161
+
+De acuerdo con el libro de Historia Universal, ¿desde qué guerra no se reunía un contingente militar tan numeroso como el de las fuerzas multinacionales?
+
+- A. Desde la guerra de Vietnam
+- B. Desde la Guerra de Corea
+- C. Desde la Segunda Guerra Mundial
+- D. Desde la guerra contra Irán
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 243
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Las fuerzas multinacionales concentraron a más de 605 mil hombres, el contingente militar más numeroso desde la guerra de Vietnam.
+
+### 162
+
+De acuerdo con el libro de Historia Universal, ¿con cuántos hombres contó el ejército iraquí?
+
+- A. 540 mil hombres
+- B. 605 mil hombres
+- C. 500 mil hombres
+- D. 450 mil hombres
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 243
+**Subtema:** Acontecimientos de nuestros días · Cronología del conflicto
+
+Por su parte, el ejército iraquí sólo contó con 540 mil hombres.
+
+---
+
+**Reactivos en este archivo:** 162
