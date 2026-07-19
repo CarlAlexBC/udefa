@@ -82,11 +82,28 @@ leerla:
 python render.py "<ruta del pdf>" <desde> <hasta> [dpi]
 ```
 
-El script vive en el scratchpad de la sesión; si no está, son 20 líneas con
-`pymupdf` (`fitz.open(ruta)`, `doc[n].get_pixmap(dpi=120).save(destino)`).
+Los dos scripts viven **en esta carpeta**, ya no en el scratchpad de la sesión.
+Ambos necesitan `pymupdf`.
 
 Leer la página como imagen es mejor que OCR: se ven bien la notación matemática
 del Baldor y los mapas de Geografía, que el OCR destrozaría.
+
+### Cuando dudes de una palabra, recórtala
+
+`render.py` a 140 dpi sirve para leer y escribir reactivos, pero **no alcanza
+para decidir si una rareza es errata del libro o suciedad del escaneo**. Para eso:
+
+```
+python crop.py "<ruta del pdf>" <hoja> <x0> <y0> <x1> <y1> [dpi]
+```
+
+Recorta una región de la hoja —las coordenadas van en fracción de página, de 0 a
+1, para no adivinar puntos— y la renderiza a 500–600 dpi. A esa resolución la
+duda se resuelve sola.
+
+Así se confirmó que *Mississipi*, *Calleja* y *Duran Bayén* eran errores impresos
+y no lecturas equivocadas. **Úsalo antes de acusar al libro de una errata**, y
+úsalo también para verificar cifras largas antes de fijarlas en un reactivo.
 
 ## Verificar la paginación contra el Anexo H
 

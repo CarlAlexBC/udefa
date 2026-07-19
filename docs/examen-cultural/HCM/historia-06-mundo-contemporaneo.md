@@ -62,6 +62,30 @@ Sur, Venezuela, Brasil, Colombia, Ecuador y Perú.
 **Pendiente:** acontecimientos de nuestros días de la 265 en adelante, y la
 llegada del siglo XXI (268–279).
 
+## Verificación de transcripción (19 jul 2026)
+
+Los reactivos se escriben transcribiendo a mano desde imágenes del escaneo, así
+que el riesgo no es sólo que el libro se equivoque: es que **la transcripción se
+equivoque**. Ese riesgo no se estaba midiendo.
+
+Muestra dirigida sobre los 414 reactivos escritos hasta la pág. 264, apuntando a
+donde más duele un dedazo —cifras largas, listas de países, fechas—, releyendo el
+pasaje original recortado a 500–600 dpi en vez de la página completa a 140:
+
+| Alcance | Resultado |
+|---|---|
+| 35 reactivos, de las siete tandas (129–134, 156–162, 177–192, 287–288, 357–359, 390–405) | **35 correctos, 0 errores de transcripción** |
+
+Cifras confirmadas una por una: 17 818 km², 2 305 000, 14 610 dólares, $4 383 000,
+$3 652 500, 12 de 20, 540 mil, 300 mil millones, 175 mil, 139/51/13, 750 millones,
+paralelos 32 y 36, 11%, 10 135 105, 160 millones, 60%, 380 km².
+
+**Método que lo hizo posible:** `crop.py` en el scratchpad recorta una región de
+la hoja por fracción de página y la renderiza a 500–600 dpi. A esa resolución se
+distingue una errata real del ruido del escaneo, cosa que a 140 dpi no siempre se
+puede. Fue así como se confirmó que *Mississipi*, *Calleja* y *Duran Bayén* son
+del libro y no de la lectura.
+
 ## Erratas del libro
 
 Detectadas al leer, **no reproducidas** en los reactivos. El examen pide cita
@@ -116,21 +140,28 @@ elegir una: no es un cuerpo contra un pie de figura, son dos pasajes del cuerpo.
 El reactivo 118 sí usa la oración de la Pág. 239, pero pregunta a manos de quién
 pasó el dominio —los ingleses—, dato que no está en disputa.
 
-## Datos del libro que no concuerdan con el hecho histórico
+## Avisos al aspirante
 
 Categoría distinta de la errata: aquí el libro no se equivoca al escribir sino
-al afirmar. **No se escribió reactivo sobre ellos**, por el mismo criterio.
+**al afirmar**. Una errata se corrige y ya; esto no, porque el examen pide cita
+literal del libro y el libro dice algo falso. Corregirlo arriesga que el
+aspirante falle el reactivo real; reproducirlo le enseña algo que no es cierto.
 
-| Dónde | Dice el libro | El hecho |
-|---|---|---|
-| Pág. 248 | "en 1963 con el primer vuelo tripulado al espacio" | El primer vuelo tripulado fue el de Gagarin, en **1961**; en 1963 voló Tereshkova, la primera mujer |
-| Pág. 264 | "el gobierno **peruano** de José María Velasco Ibarra declaró nulo el Protocolo de Río" | Velasco Ibarra fue presidente de **Ecuador**, cinco veces, nunca de Perú. Y el sentido del pasaje lo confirma: quien desconocía el Protocolo de Río era Ecuador, no Perú, que lo defendía |
+Decisión de Carlo (19 jul 2026): **no se escribe reactivo sobre estos datos, y se
+publican como aviso** para que el aspirante que se los tope en el examen sepa qué
+está pasando. La plataforma debe poder mostrarlos junto al tema, no ocultarlos.
 
-El reactivo 224 sí usa la oración del Sputnik, pero pregunta por el satélite y su
-año —1957—, que el libro da bien. Del pasaje del Protocolo de Río sí salieron
-reactivos (403, 405, 406), pero **ninguno pregunta qué gobierno lo declaró nulo**:
-se quedan en la franja en pugna, en el argumento de Durán Ballén y en la
-Declaración de Paz de Itamaraty, datos que no dependen del error.
+| # | Página | Dice el libro | El hecho | Aviso |
+|---|---|---|---|---|
+| A1 | 248 | "en 1963 con el primer vuelo tripulado al espacio" | El primer vuelo tripulado fue el de Gagarin, en **1961**; en 1963 voló Tereshkova, la primera mujer | Si el examen pregunta por el primer vuelo tripulado, el libro sostiene 1963. El dato histórico es 1961. |
+| A2 | 264 | "el gobierno **peruano** de José María Velasco Ibarra declaró nulo el Protocolo de Río" | Velasco Ibarra fue presidente de **Ecuador**, cinco veces, nunca de Perú. El sentido del pasaje lo confirma: quien desconocía el Protocolo de Río era Ecuador, no Perú, que lo defendía | El libro invierte los papeles del conflicto. Quien declaró nulo el Protocolo fue Ecuador. |
+
+**Qué sí se aprovechó de esos pasajes.** El reactivo 224 usa la oración del
+Sputnik, pero pregunta por el satélite y su año —1957—, que el libro da bien. Del
+pasaje del Protocolo de Río salieron los reactivos 403, 405 y 406, pero **ninguno
+pregunta qué gobierno lo declaró nulo**: se quedan en la franja en pugna, en el
+argumento de Durán Ballén y en la Declaración de Paz de Itamaraty, datos que no
+dependen del error.
 
 Criterio acordado con Carlo: cuando el cuerpo del texto y un pie de figura
 discrepan, manda el cuerpo.
