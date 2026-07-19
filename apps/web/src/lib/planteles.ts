@@ -6,9 +6,17 @@
  */
 
 const LOGOS_POR_NOMBRE: Record<string, string> = {
-  'Heroico Colegio Militar': '/planteles/HMC.png',
+  'Heroico Colegio Militar': '/planteles/HCM.png',
   'Escuela Militar de Medicina': '/planteles/EMM.png',
   'Escuela Militar de Ingeniería': '/planteles/EMI.png',
+  'Escuela Militar de Odontología': '/planteles/EMO.png',
+  'Escuela Militar de Enfermería': '/planteles/EME.png',
+  'Escuela Militar de Transmisiones': '/planteles/EMT.png',
+  'Escuela Militar de Oficiales de Sanidad': '/planteles/EMOS.png',
+  'Escuela Militar de Materiales de Guerra': '/planteles/EMMG.png',
+  'Escuela Militar de Aviación': '/planteles/CA.png',
+  'Escuela Militar de Mantenimiento y Abastecimiento': '/planteles/EMMA.png',
+  'Escuela Militar de Especialistas de Fuerza Aérea': '/planteles/EMEFA.png',
 }
 
 /**

@@ -33,6 +33,7 @@ type Perfil = {
   id: number
   nombre: string
   email: string
+  rol: string
   plantelId: number | null
   plantel: Plantel | null
 }
@@ -85,7 +86,7 @@ export default function InicioPage() {
   if (!perfil.plantel) {
     return (
       <div className="flex-1 bg-background">
-        <HeaderPrivado />
+        <HeaderPrivado rol={perfil.rol} />
         <SelectorPlantelLegacy nombre={perfil.nombre} onAsignado={cargarPerfil} />
       </div>
     )
@@ -93,7 +94,7 @@ export default function InicioPage() {
 
   return (
     <div className="flex-1 bg-background">
-      <HeaderPrivado />
+      <HeaderPrivado rol={perfil.rol} />
       <Dashboard perfil={perfil} plantel={perfil.plantel} />
     </div>
   )
@@ -158,7 +159,7 @@ function Dashboard({ perfil, plantel }: { perfil: Perfil; plantel: Plantel }) {
             · practica cada uno por separado con resultados inmediatos
           </span>
         </div>
-        <div className="grid grid-cols-1 gap-4 md:grid-cols-3">
+        <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
           <ExamenCTA
             href="/inicio/simulador/1"
             fase="Fase 01"
@@ -179,6 +180,13 @@ function Dashboard({ perfil, plantel }: { perfil: Perfil; plantel: Plantel }) {
             titulo="Axiológico"
             descripcion="Perfil de valores militares. Escala de 5 puntos. Responde honestamente."
             icono={<Scale className="h-5 w-5 text-accent" />}
+          />
+          <ExamenCTA
+            fase="Fase 04"
+            titulo="Cultural"
+            descripcion="100 preguntas de conocimientos generales (bachillerato). Estructura en construcción."
+            icono={<BookOpen className="h-5 w-5 text-accent" />}
+            proximamente
           />
         </div>
       </section>
@@ -225,16 +233,48 @@ function ExamenCTA({
   titulo,
   descripcion,
   icono,
+  proximamente = false,
 }: {
-  href: string
+  /** Requerido solo si NO es próximamente. */
+  href?: string
   fase: string
   titulo: string
   descripcion: string
   icono: React.ReactNode
+  /** Fase en desarrollo: renderiza card atenuada, no navegable, con badge. */
+  proximamente?: boolean
 }) {
+  if (proximamente) {
+    return (
+      <div
+        aria-disabled="true"
+        className="flex flex-col rounded-xl border border-dashed border-border/70 bg-card/60 p-5 opacity-80"
+      >
+        <div className="mb-3 flex items-center gap-2">
+          <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-muted">
+            {icono}
+          </div>
+          <span className="ml-auto rounded-full border border-accent/40 bg-accent/10 px-2 py-0.5 text-[9px] font-bold uppercase tracking-widest text-accent">
+            Próximamente
+          </span>
+        </div>
+        <p className="text-[10px] font-bold uppercase tracking-widest text-muted-foreground">
+          {fase}
+        </p>
+        <h3 className="mt-1 font-semibold text-foreground">{titulo}</h3>
+        <p className="mt-1 flex-1 text-sm text-muted-foreground">
+          {descripcion}
+        </p>
+        <div className="mt-3 text-xs font-medium italic text-muted-foreground">
+          Simulador en construcción
+        </div>
+      </div>
+    )
+  }
+
   return (
     <Link
-      href={href}
+      href={href!}
       className="group flex flex-col rounded-xl border border-border bg-card p-5 shadow-sm transition-colors hover:border-accent"
     >
       <div className="mb-3 flex h-10 w-10 items-center justify-center rounded-lg bg-accent/10">
@@ -273,14 +313,20 @@ function PlantelHeroCard({ plantel }: { plantel: Plantel }) {
             }}
           />
           {logoSrc ? (
-            <div className="relative flex h-32 w-32 items-center justify-center overflow-hidden rounded-full bg-white/95 p-2 shadow-lg">
-              <Image
-                src={logoSrc}
-                alt={`Escudo de ${plantel.nombre}`}
-                width={112}
-                height={112}
-                className="object-contain"
+            <div className="relative">
+              <div
+                aria-hidden="true"
+                className="pointer-events-none absolute inset-0 -m-2 rounded-full bg-accent/25 blur-xl"
               />
+              <div className="relative flex h-32 w-32 items-center justify-center overflow-hidden rounded-full ring-1 ring-accent/40 shadow-lg">
+                <Image
+                  src={logoSrc}
+                  alt={`Escudo de ${plantel.nombre}`}
+                  width={160}
+                  height={160}
+                  className="h-full w-full object-cover"
+                />
+              </div>
             </div>
           ) : (
             <div className="relative flex flex-col items-center gap-1 text-center">

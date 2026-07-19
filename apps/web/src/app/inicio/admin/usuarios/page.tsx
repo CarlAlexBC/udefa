@@ -1,0 +1,447 @@
+'use client'
+
+import { useCallback, useEffect, useRef, useState } from 'react'
+import { apiFetch } from '@/lib/api'
+import { cn } from '@/lib/utils'
+import {
+  AlertCircle,
+  CheckCircle2,
+  Loader2,
+  Save,
+  Search,
+  Shield,
+  X,
+} from 'lucide-react'
+
+/* ═══════════════════════════════════════════════════════════
+   Tipos
+   ═══════════════════════════════════════════════════════════ */
+
+type UsuarioAdmin = {
+  id: number
+  nombre: string
+  email: string
+  rol: string
+  nivelAcceso: string
+  emailVerificado: boolean
+  createdAt: string
+  plantel: { id: number; nombre: string } | null
+  _count: { sesionesCompletas: number; intentos: number }
+}
+
+type RespuestaUsuarios = {
+  data: UsuarioAdmin[]
+  meta: { total: number; take: number; skip: number; hasMore: boolean }
+}
+
+type Plantel = { id: number; nombre: string }
+type EstadoGuardado = 'idle' | 'saving' | 'saved' | 'error'
+
+const PAGE_SIZE = 50
+const SEARCH_DEBOUNCE_MS = 400
+
+/* ═══════════════════════════════════════════════════════════
+   Página
+   ═══════════════════════════════════════════════════════════ */
+
+export default function UsuariosAdminPage() {
+  const [search, setSearch] = useState('')
+  const [usuarios, setUsuarios] = useState<UsuarioAdmin[]>([])
+  const [meta, setMeta] = useState<RespuestaUsuarios['meta']>({
+    total: 0,
+    take: PAGE_SIZE,
+    skip: 0,
+    hasMore: false,
+  })
+  const [cargando, setCargando] = useState(true)
+  const [cargandoMas, setCargandoMas] = useState(false)
+  const [error, setError] = useState('')
+  const [planteles, setPlanteles] = useState<Plantel[]>([])
+  const [estados, setEstados] = useState<Record<number, EstadoGuardado>>({})
+  const [confirmandoDegrado, setConfirmandoDegrado] = useState<{
+    userId: number
+    userNombre: string
+  } | null>(null)
+
+  const ultimoRequestId = useRef(0)
+  const timers = useRef<Record<number, ReturnType<typeof setTimeout>>>({})
+
+  const construirQuery = useCallback(
+    (skip: number) => {
+      const params = new URLSearchParams({
+        take: String(PAGE_SIZE),
+        skip: String(skip),
+      })
+      if (search.trim()) params.set('search', search.trim())
+      return params.toString()
+    },
+    [search],
+  )
+
+  useEffect(() => {
+    const requestId = ++ultimoRequestId.current
+    setCargando(true)
+    setError('')
+    const timer = setTimeout(() => {
+      apiFetch<RespuestaUsuarios>(`/usuarios?${construirQuery(0)}`)
+        .then((res) => {
+          if (requestId !== ultimoRequestId.current) return
+          setUsuarios(res.data)
+          setMeta(res.meta)
+          setCargando(false)
+        })
+        .catch((err) => {
+          if (requestId !== ultimoRequestId.current) return
+          setError((err as Error).message)
+          setCargando(false)
+        })
+    }, search ? SEARCH_DEBOUNCE_MS : 0)
+    return () => clearTimeout(timer)
+  }, [construirQuery, search])
+
+  useEffect(() => {
+    apiFetch<Plantel[]>('/planteles').then(setPlanteles).catch(() => {})
+  }, [])
+
+  async function cargarMas() {
+    setCargandoMas(true)
+    try {
+      const res = await apiFetch<RespuestaUsuarios>(
+        `/usuarios?${construirQuery(meta.skip + meta.take)}`,
+      )
+      setUsuarios((prev) => [...prev, ...res.data])
+      setMeta(res.meta)
+    } catch (err) {
+      setError((err as Error).message)
+    } finally {
+      setCargandoMas(false)
+    }
+  }
+
+  /* Actualiza rol o plantel de un usuario con debounce corto (300ms)
+     para agrupar clics rápidos consecutivos y dar feedback inmediato. */
+  const programarGuardado = useCallback(
+    (
+      userId: number,
+      accion: 'rol' | 'plantel',
+      valor: string | number,
+    ) => {
+      if (timers.current[userId]) clearTimeout(timers.current[userId])
+      setEstados((prev) => ({ ...prev, [userId]: 'saving' }))
+      timers.current[userId] = setTimeout(async () => {
+        try {
+          const body = accion === 'rol' ? { rol: valor } : { plantelId: valor }
+          await apiFetch(`/usuarios/${userId}/${accion}`, {
+            method: 'PATCH',
+            body,
+          })
+          setEstados((prev) => ({ ...prev, [userId]: 'saved' }))
+          setTimeout(() => {
+            setEstados((prev) => ({ ...prev, [userId]: 'idle' }))
+          }, 2000)
+        } catch (err) {
+          console.error(err)
+          setEstados((prev) => ({ ...prev, [userId]: 'error' }))
+          alert((err as Error).message)
+          // Refresca la fila al estado del servidor para deshacer el cambio local
+          apiFetch<RespuestaUsuarios>(`/usuarios?${construirQuery(0)}`).then(
+            (res) => setUsuarios(res.data),
+          )
+        }
+      }, 300)
+    },
+    [construirQuery],
+  )
+
+  const actualizarLocal = (userId: number, cambios: Partial<UsuarioAdmin>) => {
+    setUsuarios((prev) =>
+      prev.map((u) => (u.id === userId ? { ...u, ...cambios } : u)),
+    )
+  }
+
+  function pedirCambioRol(usuario: UsuarioAdmin, nuevoRol: string) {
+    // Si degrada un admin a aspirante, pedir confirmación explícita.
+    if (usuario.rol === 'admin' && nuevoRol === 'aspirante') {
+      setConfirmandoDegrado({ userId: usuario.id, userNombre: usuario.nombre })
+      return
+    }
+    aplicarCambioRol(usuario.id, nuevoRol)
+  }
+
+  function aplicarCambioRol(userId: number, nuevoRol: string) {
+    actualizarLocal(userId, { rol: nuevoRol })
+    programarGuardado(userId, 'rol', nuevoRol)
+  }
+
+  function cambiarPlantel(userId: number, nuevoPlantelId: number) {
+    const plantel = planteles.find((p) => p.id === nuevoPlantelId)
+    actualizarLocal(userId, {
+      plantel: plantel ? { id: plantel.id, nombre: plantel.nombre } : null,
+    })
+    programarGuardado(userId, 'plantel', nuevoPlantelId)
+  }
+
+  /* ═══════════════════════════════════════════════════════════
+     Render
+     ═══════════════════════════════════════════════════════════ */
+
+  return (
+    <div>
+      <div className="mb-6">
+        <p className="text-[10px] font-semibold uppercase tracking-widest text-military">
+          Administración
+        </p>
+        <h1 className="mt-1 text-2xl font-semibold tracking-tight text-foreground">
+          Usuarios
+        </h1>
+        <p className="mt-2 text-sm text-muted-foreground">
+          Aspirantes registrados. Puedes cambiar el plantel al que se preparan y
+          promover o degradar el rol. Los cambios se guardan automáticamente.
+        </p>
+      </div>
+
+      {/* Búsqueda */}
+      <div className="mb-4 rounded-xl border border-border bg-card p-4 shadow-sm">
+        <label className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+          Buscar
+        </label>
+        <div className="relative mt-1">
+          <Search className="pointer-events-none absolute left-2 top-1/2 h-3.5 w-3.5 -translate-y-1/2 text-muted-foreground" />
+          <input
+            type="text"
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            placeholder="Por email o nombre…"
+            className="h-9 w-full rounded-md border border-input bg-transparent pl-7 pr-8 text-sm text-foreground focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
+          />
+          {search && (
+            <button
+              type="button"
+              onClick={() => setSearch('')}
+              className="absolute right-1.5 top-1/2 -translate-y-1/2 rounded p-0.5 text-muted-foreground hover:bg-muted"
+              aria-label="Limpiar"
+            >
+              <X className="h-3.5 w-3.5" />
+            </button>
+          )}
+        </div>
+      </div>
+
+      <div className="mb-3 flex items-center justify-between text-xs text-muted-foreground">
+        {cargando ? (
+          <span className="inline-flex items-center gap-1">
+            <Loader2 className="h-3 w-3 animate-spin" />
+            Cargando…
+          </span>
+        ) : (
+          <span>
+            Mostrando{' '}
+            <span className="font-semibold text-foreground">{usuarios.length}</span>{' '}
+            de <span className="font-semibold text-foreground">{meta.total}</span>{' '}
+            usuarios
+          </span>
+        )}
+      </div>
+
+      {error && (
+        <div className="mb-3 flex items-start gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-3">
+          <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-destructive" />
+          <p className="text-sm text-destructive">{error}</p>
+        </div>
+      )}
+
+      {!cargando && usuarios.length === 0 && !error && (
+        <div className="rounded-xl border border-dashed border-border/70 bg-card/60 p-8 text-center text-sm text-muted-foreground">
+          No hay usuarios que coincidan con la búsqueda.
+        </div>
+      )}
+
+      {usuarios.length > 0 && (
+        <div className="overflow-hidden rounded-xl border border-border bg-card shadow-sm">
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-sm">
+              <thead className="border-b border-border bg-muted/40 text-[10px] uppercase tracking-widest text-muted-foreground">
+                <tr>
+                  <th className="px-3 py-2 font-semibold">Usuario</th>
+                  <th className="px-3 py-2 font-semibold">Plantel</th>
+                  <th className="px-3 py-2 font-semibold">Rol</th>
+                  <th className="px-3 py-2 font-semibold">Actividad</th>
+                  <th className="px-3 py-2 font-semibold">Registro</th>
+                  <th className="px-3 py-2 font-semibold text-right">Estado</th>
+                </tr>
+              </thead>
+              <tbody>
+                {usuarios.map((u) => (
+                  <tr
+                    key={u.id}
+                    className="border-b border-border/40 last:border-b-0"
+                  >
+                    <td className="px-3 py-3">
+                      <div className="flex items-center gap-2">
+                        {u.rol === 'admin' && (
+                          <Shield className="h-3 w-3 text-accent" />
+                        )}
+                        <div>
+                          <p className="font-semibold text-foreground">
+                            {u.nombre}
+                          </p>
+                          <p className="text-xs text-muted-foreground">
+                            {u.email}
+                          </p>
+                        </div>
+                      </div>
+                    </td>
+                    <td className="px-3 py-3">
+                      <select
+                        value={u.plantel?.id ?? ''}
+                        onChange={(e) =>
+                          cambiarPlantel(u.id, Number(e.target.value))
+                        }
+                        className="h-8 max-w-[200px] rounded-md border border-input bg-transparent px-2 text-xs text-foreground focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
+                      >
+                        <option value="" disabled>
+                          Sin plantel
+                        </option>
+                        {planteles.map((p) => (
+                          <option key={p.id} value={p.id}>
+                            {p.nombre}
+                          </option>
+                        ))}
+                      </select>
+                    </td>
+                    <td className="px-3 py-3">
+                      <select
+                        value={u.rol}
+                        onChange={(e) => pedirCambioRol(u, e.target.value)}
+                        className={cn(
+                          'h-8 rounded-md border border-input bg-transparent px-2 text-xs focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none',
+                          u.rol === 'admin'
+                            ? 'font-semibold text-accent'
+                            : 'text-foreground',
+                        )}
+                      >
+                        <option value="aspirante">Aspirante</option>
+                        <option value="admin">Admin</option>
+                      </select>
+                    </td>
+                    <td className="px-3 py-3 text-xs text-muted-foreground">
+                      {u._count.sesionesCompletas} sesiones ·{' '}
+                      {u._count.intentos} intentos
+                    </td>
+                    <td className="px-3 py-3 text-xs text-muted-foreground">
+                      {new Date(u.createdAt).toLocaleDateString('es-MX', {
+                        day: '2-digit',
+                        month: 'short',
+                        year: '2-digit',
+                      })}
+                    </td>
+                    <td className="px-3 py-3 text-right">
+                      <IndicadorGuardado
+                        estado={estados[u.id] ?? 'idle'}
+                      />
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+
+          {meta.hasMore && (
+            <div className="border-t border-border p-3 text-center">
+              <button
+                type="button"
+                onClick={cargarMas}
+                disabled={cargandoMas}
+                className="inline-flex items-center gap-2 rounded-md bg-accent px-4 py-1.5 text-xs font-semibold text-accent-foreground transition-opacity hover:opacity-90 disabled:opacity-50"
+              >
+                {cargandoMas ? <Loader2 className="h-3 w-3 animate-spin" /> : null}
+                Cargar {Math.min(PAGE_SIZE, meta.total - usuarios.length)} más
+              </button>
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* Modal de confirmación al degradar admin */}
+      {confirmandoDegrado && (
+        <div
+          role="dialog"
+          aria-modal="true"
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4"
+          onClick={() => setConfirmandoDegrado(null)}
+        >
+          <div
+            className="w-full max-w-md rounded-xl border border-border bg-card p-6 shadow-lg"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="mb-3 flex items-center gap-2">
+              <AlertCircle className="h-5 w-5 text-destructive" />
+              <h3 className="text-lg font-semibold text-foreground">
+                ¿Quitar rol admin?
+              </h3>
+            </div>
+            <p className="mb-5 text-sm text-muted-foreground">
+              Vas a degradar a{' '}
+              <span className="font-semibold text-foreground">
+                {confirmandoDegrado.userNombre}
+              </span>{' '}
+              de admin a aspirante. Perderá acceso al panel de administración.
+            </p>
+            <div className="flex justify-end gap-2">
+              <button
+                type="button"
+                onClick={() => setConfirmandoDegrado(null)}
+                className="rounded-md border border-border px-3 py-1.5 text-sm text-muted-foreground hover:bg-muted"
+              >
+                Cancelar
+              </button>
+              <button
+                type="button"
+                onClick={() => {
+                  aplicarCambioRol(confirmandoDegrado.userId, 'aspirante')
+                  setConfirmandoDegrado(null)
+                }}
+                className="rounded-md bg-destructive px-3 py-1.5 text-sm font-semibold text-destructive-foreground hover:opacity-90"
+              >
+                Sí, degradar
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  )
+}
+
+function IndicadorGuardado({ estado }: { estado: EstadoGuardado }) {
+  return (
+    <div
+      className={cn(
+        'inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest transition-opacity',
+        estado === 'idle' && 'opacity-0',
+        estado === 'saving' && 'bg-muted text-muted-foreground',
+        estado === 'saved' && 'bg-emerald-500/10 text-emerald-600',
+        estado === 'error' && 'bg-destructive/10 text-destructive',
+      )}
+    >
+      {estado === 'saving' && (
+        <>
+          <Save className="h-3 w-3 animate-pulse" />
+          Guardando
+        </>
+      )}
+      {estado === 'saved' && (
+        <>
+          <CheckCircle2 className="h-3 w-3" />
+          Guardado
+        </>
+      )}
+      {estado === 'error' && (
+        <>
+          <AlertCircle className="h-3 w-3" />
+          Error
+        </>
+      )}
+    </div>
+  )
+}
