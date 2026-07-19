@@ -39,10 +39,11 @@ no se calcularon.
 
 ## Cobertura actual
 
-Páginas 205, 206, 208, 209 y 211 de La Guerra Fría. La 207 es el mapa 18 y la
-210 el mapa 19, sin texto del que salgan reactivos de cita literal.
+Páginas 205, 206, 208, 209, 211, 212 y 214 de La Guerra Fría. La 207 es el mapa
+18 y la 210 el mapa 19, sin texto del que salgan reactivos de cita literal.
 
-**Pendiente:** el resto del apartado (212–220) y los tres apartados restantes.
+**Pendiente:** páginas 213 y 215–220 del apartado, y los tres apartados
+restantes.
 
 ---
 
@@ -486,4 +487,207 @@ El sudeste asiático representó una zona estratégica para los bloques hegemón
 
 ---
 
-**Reactivos en este archivo:** 28
+## Sub-lote 6 · La Guerra de Corea
+
+### 29
+
+De acuerdo con el libro de Historia Universal, ¿en qué año logró Japón la conquista militar de Corea?
+
+- A. En 1910
+- B. En 1941
+- C. En 1948
+- D. En 1950
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 212
+**Subtema:** La Guerra Fría · Guerra de Corea
+
+Japón, que desde finales del siglo XIX había logrado ejercer su influencia sobre la región, logró en 1910 la conquista militar de Corea, originándose movimientos nacionalistas de resistencia en la década de los treinta.
+
+### 30
+
+De acuerdo con el libro de Historia Universal, ¿qué paralelo tomó como referencia la Conferencia de Postdam para repartir las zonas de Corea entre los ejércitos soviéticos y norteamericanos?
+
+- A. El paralelo 38°
+- B. El paralelo 17°
+- C. El paralelo 19°
+- D. El paralelo 45°
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 212
+**Subtema:** La Guerra Fría · Guerra de Corea
+
+La Conferencia de Postdam acordó enviar a los ejércitos soviéticos a la zona norte, tomando como referencia el paralelo 38°, y a los ejércitos norteamericanos, a la zona sur.
+
+### 31
+
+De acuerdo con el libro de Historia Universal, ¿qué nacionalista estableció en agosto de 1948 la República de Corea del Sur, con sede en Seúl?
+
+- A. Syngman Rhee
+- B. Kim Il-Sung
+- C. Ho Chi Minh
+- D. El general MacArthur
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 212
+**Subtema:** La Guerra Fría · Guerra de Corea
+
+A la creación de la República de Corea del Sur establecida en Seúl, por el nacionalista Syngman Rhee, en agosto de 1948, Kim Il-Sung respondió al mes siguiente con la proclamación de la República Democrática Popular de Corea del Norte.
+
+### 32
+
+De acuerdo con el libro de Historia Universal, ¿cuál es la capital de la República Democrática Popular de Corea del Norte proclamada por Kim Il-Sung?
+
+- A. Pyong Yang
+- B. Seúl
+- C. Pusán
+- D. Panmunjon
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 212
+**Subtema:** La Guerra Fría · Guerra de Corea
+
+Kim Il-Sung respondió al mes siguiente con la proclamación de la República Democrática Popular de Corea del Norte, con capital en Pyong Yang, de gobierno socialista, con influencia de la Unión Soviética.
+
+### 33
+
+De acuerdo con el libro de Historia Universal, ¿hasta qué ciudad retrocedieron las fuerzas norteamericanas y surcoreanas cuando los ejércitos de Corea del Norte invadieron el sur?
+
+- A. Hasta Pusán
+- B. Hasta Seúl
+- C. Hasta Pyong Yang
+- D. Hasta Panmunjon
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 212
+**Subtema:** La Guerra Fría · Guerra de Corea
+
+Los ejércitos de Corea del Norte invadieron al sur y lograron llegar hasta Seúl, al tiempo que las fuerzas norteamericanas y surcoreanas retrocedían hasta Pusán.
+
+### 34
+
+De acuerdo con el libro de Historia Universal, ¿a qué general le confirió la ONU el mando de las tropas enviadas a Corea?
+
+- A. Al general MacArthur
+- B. Al general Marshall
+- C. Al general Rhee
+- D. Al general Kim Il-Sung
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 212
+**Subtema:** La Guerra Fría · Guerra de Corea
+
+Esta agresión fue condenada por la ONU, quien envió tropas a la región y le confirió el mando al general MacArthur, encargado de los ejércitos norteamericanos en el extremo oriente.
+
+### 35
+
+De acuerdo con el libro de Historia Universal, ¿por qué el gobierno norteamericano relevó de su cargo al general MacArthur?
+
+- A. Porque pretendía invadir China y usar la bomba atómica para eliminar el comunismo de la región
+- B. Porque perdió Seúl ante los ejércitos de Corea del Norte
+- C. Porque se negó a cumplir las órdenes de la ONU
+- D. Porque firmó el Armisticio de Panmunjon sin autorización
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 212
+**Subtema:** La Guerra Fría · Guerra de Corea
+
+China envió voluntarios para apoyar a los norcoreanos, lo que motivó que la política de MacArthur se radicalizara, al pretender invadir China y usar la bomba atómica para eliminar definitivamente el comunismo de la región; esto obligó al gobierno norteamericano a relevar a MacArthur de su cargo.
+
+### 36
+
+De acuerdo con el libro de Historia Universal, ¿en qué fecha se firmó el Armisticio de Panmunjon, que reconocía a los dos Estados a partir del paralelo 38°?
+
+- A. En julio de 1953
+- B. En junio de 1950
+- C. En agosto de 1948
+- D. En 1951
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 212
+**Subtema:** La Guerra Fría · Guerra de Corea
+
+Finalmente condujeron a la firma del Armisticio de Panmunjon en julio de 1953, donde se reconocía a los dos Estados a partir del paralelo 38°.
+
+### 37
+
+De acuerdo con el libro de Historia Universal, ¿cuáles fueron las tres revoluciones implantadas en Corea del Norte?
+
+- A. La ideológica, la tecnológica y la cultural
+- B. La agraria, la industrial y la militar
+- C. La económica, la política y la social
+- D. La ideológica, la agraria y la educativa
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 214
+**Subtema:** La Guerra Fría · Guerra de Corea
+
+Las tres revoluciones implantadas en el país, la ideológica, la tecnológica y la cultural, pretendieron fortalecer su ideología y garantizar mejores condiciones de vida a su población.
+
+---
+
+## Sub-lote 7 · La Guerra de Vietnam
+
+### 38
+
+De acuerdo con el libro de Historia Universal, ¿por qué actuales países está integrada la península de Indochina?
+
+- A. Vietnam, Camboya y Laos
+- B. Vietnam, Corea y Laos
+- C. Vietnam, Tailandia y Camboya
+- D. Camboya, Laos y Birmania
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 214
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+La península de Indochina, integrada por los actuales Vietnam, Camboya y Laos, fue convertida en colonia francesa a mediados del siglo pasado.
+
+### 39
+
+De acuerdo con el libro de Historia Universal, ¿hasta qué año permaneció la península de Indochina bajo control francés?
+
+- A. Hasta 1941
+- B. Hasta 1949
+- C. Hasta 1950
+- D. Hasta 1910
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 214
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+Se constituyó en la más valiosa de sus posesiones y permaneció bajo su control hasta 1941, al ser conquistada por el expansionismo japonés.
+
+### 40
+
+De acuerdo con el libro de Historia Universal, ¿quién encabezó la liga vietnamita o Vietminh?
+
+- A. Ho Chi Minh
+- B. Kim Il-Sung
+- C. Syngman Rhee
+- D. Mao Tse-tung
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 214
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+La explotación colonialista generó el surgimiento de movimientos nacionalistas entre los que destaca de manera importante la liga vietnamita o Vietminh que, encabezada por Ho Chi Minh, logró unificar las tendencias nacionalistas y comunistas.
+
+### 41
+
+De acuerdo con el libro de Historia Universal, ¿qué dos movimientos influyeron grandemente en el desarrollo de la Guerra de Vietnam?
+
+- A. La Revolución China de 1949 y el estallido de la Guerra de Corea de 1950
+- B. La Revolución Rusa de 1917 y la Segunda Guerra Mundial
+- C. El Plan Marshall y el Plan Molotov
+- D. La creación de la OTAN y la del Pacto de Varsovia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 214
+**Subtema:** La Guerra Fría · Guerra de Vietnam
+
+La Revolución China (1949) y el estallido de la Guerra de Corea (1950), movimientos que acrecentaron los enfrentamientos ideológicos y la política de contención, influyeron grandemente en el desarrollo de esta guerra.
+
+---
+
+**Reactivos en este archivo:** 41
