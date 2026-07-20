@@ -40,12 +40,26 @@ valioso y probable en el examen. Se documenta por si se decide separarla.
 
 ## Cobertura actual
 
-Cubiertas las **páginas impresas 5 a 8**: concepto de álgebra y notación,
-exponente, base, radical y coeficiente, y los signos de relación y agrupación.
+Cubiertas las **páginas impresas 5 a 10**: concepto de álgebra y notación,
+exponente, base, radical y coeficiente, signos de relación y agrupación,
+cantidades positivas y negativas, elección del sentido positivo y el cero.
 
-**Pendiente:** el resto de Preliminares (pp. 9–39) y los capítulos I–VI completos
-(pp. 40–111), que a la fecha no tienen ningún reactivo escrito. Es la materia más
-atrasada del banco.
+Las páginas 11 y 12 son íntegramente los ejercicios 1, 2 y 3: **sin teoría nueva
+de la que salgan reactivos**.
+
+**Pendiente:** de la página 13 en adelante de Preliminares, y los capítulos I–VI
+completos (pp. 40–111).
+
+## Criterio: teoría sobre práctica
+
+**Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico.
+Se privilegian las **definiciones y reglas** —qué es el cero, qué es un
+coeficiente, cuándo una cantidad negativa es mayor que otra— sobre los
+procedimientos de cálculo.
+
+Los bloques de ejercicios de Baldor no se convierten en reactivos de
+procedimiento. Sí se aprovecha la teoría que a veces viene embebida en el
+enunciado resuelto, pero el reactivo pregunta por la regla, no por el resultado.
 
 ## Cómo se escriben estos reactivos
 
@@ -367,4 +381,215 @@ Estos signos indican que la operación colocada entre ellos debe efectuarse prim
 
 ---
 
-**Reactivos en este archivo:** 20
+## Sub-lote 4 · Cantidades positivas y negativas (art. 11, pp. 9)
+
+### 21
+
+De acuerdo con el libro de Álgebra, ¿cómo se expresa en Álgebra el sentido de las cantidades que pueden tomarse en dos sentidos opuestos?
+
+- A. Por medio de los signos + y −
+- B. Por medio de los signos de agrupación
+- C. Por medio del valor absoluto
+- D. Por medio de los signos de relación
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 9
+**Subtema:** Preliminares · cantidades positivas y negativas
+
+En Álgebra, cuando se estudian cantidades que pueden tomarse en dos sentidos opuestos o que son de condición o de modo de ser opuestos, se expresa el sentido, condición o modo de ser (valor relativo) de la cantidad por medio de los signos + y −.
+
+### 22
+
+De acuerdo con el libro de Álgebra, ¿a qué cantidades se antepone el signo +?
+
+- A. A las cantidades tomadas en un sentido determinado, llamadas cantidades positivas
+- B. A las cantidades tomadas en sentido opuesto, llamadas cantidades positivas
+- C. Únicamente a las cantidades mayores que su valor absoluto
+- D. A las cantidades que carecen de sentido opuesto
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 9
+**Subtema:** Preliminares · cantidades positivas y negativas
+
+Anteponiendo el signo + a las cantidades tomadas en un sentido determinado (cantidades positivas) y anteponiendo el signo − a las cantidades tomadas en sentido opuesto al anterior (cantidades negativas).
+
+### 23
+
+De acuerdo con el libro de Álgebra, ¿con qué signos se designan el haber y las deudas?
+
+- A. El haber con el signo + y las deudas con el signo −
+- B. El haber con el signo − y las deudas con el signo +
+- C. Ambos con el signo +, distinguiéndolos por su valor absoluto
+- D. El haber con el signo + y las deudas sin signo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 9
+**Subtema:** Preliminares · cantidades positivas y negativas
+
+Así, el haber se designa con el signo + y las deudas con el signo −.
+
+### 24
+
+De acuerdo con el libro de Álgebra, ¿cómo se designa el tiempo transcurrido después de Cristo?
+
+- A. Se considera positivo
+- B. Se considera negativo
+- C. Se considera cero
+- D. Se considera de valor absoluto
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 9
+**Subtema:** Preliminares · cantidades positivas y negativas
+
+El tiempo transcurrido después de Cristo se considera positivo y el tiempo transcurrido antes de Cristo, negativo.
+
+### 25
+
+De acuerdo con el libro de Álgebra, ¿con qué signos se designan la latitud norte y la latitud sur?
+
+- A. La latitud norte con el signo + y la latitud sur con el signo −
+- B. La latitud norte con el signo − y la latitud sur con el signo +
+- C. Ambas con el signo +, según el meridiano de referencia
+- D. La latitud norte con el signo + y la latitud sur sin signo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 9
+**Subtema:** Preliminares · cantidades positivas y negativas
+
+La latitud norte se designa con el signo + y la latitud sur con el signo −; la longitud este se considera positiva y la longitud oeste, negativa.
+
+### 26
+
+De acuerdo con el libro de Álgebra, ¿cómo se considera la longitud este?
+
+- A. Positiva
+- B. Negativa
+- C. Nula
+- D. De valor absoluto
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 9
+**Subtema:** Preliminares · cantidades positivas y negativas
+
+La longitud este se considera positiva y la longitud oeste, negativa.
+
+### 27
+
+De acuerdo con el libro de Álgebra, ¿con qué signo se representa el camino recorrido a la izquierda o hacia abajo de un punto?
+
+- A. Con el signo −
+- B. Con el signo +
+- C. Con el signo de valor absoluto
+- D. Sin signo, porque es cero
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 9
+**Subtema:** Preliminares · cantidades positivas y negativas
+
+El camino recorrido a la derecha o hacia arriba de un punto se designa con el signo + y el camino recorrido a la izquierda o hacia abajo de un punto se representa con el signo −.
+
+---
+
+## Sub-lote 5 · Elección del sentido positivo (art. 12, pp. 9–10)
+
+### 28
+
+De acuerdo con el libro de Álgebra, ¿de qué depende la fijación del sentido positivo en cantidades que pueden tomarse en dos sentidos opuestos?
+
+- A. Es arbitraria, depende de nuestra voluntad
+- B. Está fijada por convención universal
+- C. Depende del valor absoluto de la cantidad
+- D. Depende de si la cantidad es mayor o menor que cero
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 9
+**Subtema:** Preliminares · elección del sentido positivo
+
+La fijación del sentido positivo en cantidades que pueden tomarse en dos sentidos opuestos es arbitraria, depende de nuestra voluntad; es decir, que podemos tomar como sentido positivo el que queramos.
+
+### 29
+
+De acuerdo con el libro de Álgebra, ¿qué ocurre una vez fijado el sentido positivo?
+
+- A. El sentido opuesto a éste será el negativo
+- B. El sentido opuesto conserva también el signo positivo
+- C. Ambos sentidos quedan sin signo
+- D. El sentido opuesto se vuelve el valor absoluto
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 9
+**Subtema:** Preliminares · elección del sentido positivo
+
+Pero una vez fijado el sentido positivo, el sentido opuesto a éste será el negativo.
+
+---
+
+## Sub-lote 6 · El cero (art. 13, pp. 10)
+
+### 30
+
+De acuerdo con el libro de Álgebra, ¿qué es el cero?
+
+- A. Es la ausencia de cantidad
+- B. Es la menor de las cantidades positivas
+- C. Es la mayor de las cantidades negativas
+- D. Es el valor absoluto de toda cantidad
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 10
+**Subtema:** Preliminares · el cero
+
+CERO es la ausencia de cantidad. Así, representar el estado económico de una persona por 0 equivale a decir que no tiene haber ni deudas.
+
+### 31
+
+De acuerdo con el libro de Álgebra, ¿cómo son las cantidades positivas y las negativas respecto del cero?
+
+- A. Las positivas son mayores que 0 y las negativas menores que cero
+- B. Las positivas son menores que 0 y las negativas mayores que cero
+- C. Ambas son mayores que cero según su valor absoluto
+- D. Ambas se consideran iguales a cero
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 10
+**Subtema:** Preliminares · el cero
+
+Las cantidades positivas son mayores que 0 y las negativas menores que cero.
+
+### 32
+
+De acuerdo con el libro de Álgebra, de dos cantidades positivas, ¿cuál es mayor?
+
+- A. La de mayor valor absoluto
+- B. La de menor valor absoluto
+- C. La que esté más cerca de cero
+- D. La que tenga el signo antepuesto
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 10
+**Subtema:** Preliminares · el cero
+
+De dos cantidades positivas, es mayor la de mayor valor absoluto; así, +5 es mayor que +3.
+
+### 33
+
+De acuerdo con el libro de Álgebra, de dos cantidades negativas, ¿cuál es mayor?
+
+- A. La de menor valor absoluto
+- B. La de mayor valor absoluto
+- C. La que esté más lejos de cero
+- D. Ninguna, porque ambas son menores que cero
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 10
+**Subtema:** Preliminares · el cero
+
+Mientras que de dos cantidades negativas es mayor la de menor valor absoluto: −3 es mayor que −5; −9 es menor que −4.
+
+> Los reactivos 32 y 33 son deliberadamente contrapuestos: en las positivas manda
+> el **mayor** valor absoluto y en las negativas el **menor**. Es la regla que más
+> se invierte al estudiar de memoria.
+
+---
+
+**Reactivos en este archivo:** 33
