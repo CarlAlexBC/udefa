@@ -40,17 +40,22 @@ valioso y probable en el examen. Se documenta por si se decide separarla.
 
 ## Cobertura actual
 
-Cubiertas las **páginas impresas 5 a 10 y 13 a 15**: concepto de álgebra y
-notación, exponente, base, radical y coeficiente, signos de relación y
-agrupación, cantidades positivas y negativas, elección del sentido positivo, el
-cero, valor absoluto y relativo, cantidades aritméticas y algebraicas, y el
-nomenclatura algebraica, los cuatro elementos de un término, el grado absoluto y
-con relación a una letra, y las seis clases de términos.
+Cubiertas las **páginas impresas 5 a 10 y 13 a 17**:
 
-Las páginas 11 y 12 son íntegramente los ejercicios 1, 2 y 3: **sin teoría nueva
-de la que salgan reactivos**.
+- Concepto de álgebra, notación, exponente, base, radical y coeficiente.
+- Signos de relación y de agrupación.
+- Cantidades positivas y negativas, elección del sentido positivo y el cero.
+- Valor absoluto y valor relativo; cantidades aritméticas y algebraicas.
+- Nomenclatura: expresión algebraica, término y sus cuatro elementos.
+- Grado de un término: absoluto y con relación a una letra; las seis clases de
+  términos.
+- Monomio, polinomio, binomio y trinomio; grado de un polinomio; las clases de
+  polinomios y qué es ordenar uno.
 
-**Pendiente:** de la página 16 en adelante de Preliminares, y los capítulos I–VI
+Las páginas 11 y 12 son íntegramente los ejercicios 1, 2 y 3, y la mitad superior
+de la 16 el ejercicio 4: **sin teoría nueva de la que salgan reactivos**.
+
+**Pendiente:** de la página 18 en adelante de Preliminares, y los capítulos I–VI
 completos (pp. 40–111).
 
 ## Criterio: teoría sobre práctica
@@ -1002,4 +1007,230 @@ Términos heterogéneos son los de distinto grado absoluto, como 5a, que es de p
 
 ---
 
-**Reactivos en este archivo:** 58
+## Sub-lote 13 · Clasificación de las expresiones algebraicas (arts. 21–23, pp. 16–17)
+
+### 59
+
+De acuerdo con el libro de Álgebra, ¿qué es un monomio?
+
+- A. Una expresión algebraica que consta de un solo término
+- B. Una expresión algebraica que consta de más de un término
+- C. Una expresión algebraica que consta de dos términos
+- D. Un término que no tiene denominador literal
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 16
+**Subtema:** Preliminares · clasificación de expresiones algebraicas
+
+MONOMIO es una expresión algebraica que consta de un solo término, como 3a, −5b, x²y/4n³.
+
+### 60
+
+De acuerdo con el libro de Álgebra, ¿qué es un polinomio?
+
+- A. Una expresión algebraica que consta de más de un término
+- B. Una expresión algebraica que consta de un solo término
+- C. Una expresión algebraica que consta de tres términos
+- D. Una expresión algebraica sin denominador literal
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 16
+**Subtema:** Preliminares · clasificación de expresiones algebraicas
+
+POLINOMIO es una expresión algebraica que consta de más de un término como a + b, a + x − y, x³ + 2x² + x + 7.
+
+### 61
+
+De acuerdo con el libro de Álgebra, ¿qué es un binomio?
+
+- A. Un polinomio que consta de dos términos
+- B. Un polinomio que consta de tres términos
+- C. Una expresión que consta de un solo término
+- D. Un polinomio de segundo grado absoluto
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 16
+**Subtema:** Preliminares · clasificación de expresiones algebraicas
+
+Binomio es un polinomio que consta de dos términos, como a + b, x − y.
+
+### 62
+
+De acuerdo con el libro de Álgebra, ¿qué es un trinomio?
+
+- A. Un polinomio que consta de tres términos
+- B. Un polinomio que consta de dos términos
+- C. Un polinomio de tercer grado absoluto
+- D. Un monomio elevado al cubo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 16
+**Subtema:** Preliminares · clasificación de expresiones algebraicas
+
+Trinomio es un polinomio que consta de tres términos, como a + b + c, x² − 5x + 6.
+
+> Cuidado con confundir el **número de términos** con el **grado**: un trinomio
+> tiene tres términos, no tercer grado. Los distractores B y C de los reactivos
+> 61 y 62 juegan con esa confusión.
+
+### 63
+
+De acuerdo con el libro de Álgebra, ¿qué es el grado absoluto de un polinomio?
+
+- A. El grado de su término de mayor grado
+- B. La suma de los grados de todos sus términos
+- C. El número de términos que lo componen
+- D. El mayor exponente de su letra ordenatriz
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 16
+**Subtema:** Preliminares · grado de un polinomio
+
+Grado absoluto de un polinomio es el grado de su término de mayor grado.
+
+### 64
+
+De acuerdo con el libro de Álgebra, ¿qué es el grado de un polinomio con relación a una letra?
+
+- A. El mayor exponente de dicha letra en el polinomio
+- B. La suma de los exponentes de dicha letra en el polinomio
+- C. El grado de su término de mayor grado
+- D. El número de veces que aparece dicha letra
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 17
+**Subtema:** Preliminares · grado de un polinomio
+
+Grado de un polinomio con relación a una letra es el mayor exponente de dicha letra en el polinomio. Así, el polinomio a⁶ + a⁴x² − a²x⁴ es de sexto grado con relación a la a y de cuarto grado con relación a la x.
+
+---
+
+## Sub-lote 14 · Clases de polinomios (art. 24, pp. 17)
+
+### 65
+
+De acuerdo con el libro de Álgebra, ¿cuándo es entero un polinomio?
+
+- A. Cuando ninguno de sus términos tiene denominador literal
+- B. Cuando no contiene radicales
+- C. Cuando todos sus términos son del mismo grado absoluto
+- D. Cuando contiene todos los exponentes sucesivos de una letra
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 17
+**Subtema:** Preliminares · clases de polinomios
+
+Un polinomio es entero cuando ninguno de sus términos tiene denominador literal como x² + 5x − 6.
+
+### 66
+
+De acuerdo con el libro de Álgebra, ¿cuándo es fraccionario un polinomio?
+
+- A. Cuando alguno de sus términos tiene letras en el denominador
+- B. Cuando alguno de sus términos tiene radical
+- C. Cuando sus términos no son del mismo grado
+- D. Cuando su coeficiente es una fracción
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 17
+**Subtema:** Preliminares · clases de polinomios
+
+Fraccionario cuando alguno de sus términos tiene letras en el denominador.
+
+### 67
+
+De acuerdo con el libro de Álgebra, ¿cuándo es racional un polinomio?
+
+- A. Cuando no contiene radicales
+- B. Cuando no tiene denominador literal
+- C. Cuando todos sus términos son del mismo grado absoluto
+- D. Cuando sus exponentes van en orden descendente
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 17
+**Subtema:** Preliminares · clases de polinomios
+
+Racional cuando no contiene radicales, como en los ejemplos anteriores; irracional cuando contiene radical.
+
+### 68
+
+De acuerdo con el libro de Álgebra, ¿cuándo es homogéneo un polinomio?
+
+- A. Cuando todos sus términos son del mismo grado absoluto
+- B. Cuando ninguno de sus términos tiene denominador literal
+- C. Cuando todos sus términos tienen la misma letra ordenatriz
+- D. Cuando no contiene radicales
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 17
+**Subtema:** Preliminares · clases de polinomios
+
+Homogéneo cuando todos sus términos son del mismo grado absoluto, como 4a³ + 5a²b + 6ab² + b³.
+
+### 69
+
+De acuerdo con el libro de Álgebra, ¿cuándo es completo un polinomio con relación a una letra?
+
+- A. Cuando contiene todos los exponentes sucesivos de dicha letra, desde el más alto al más bajo que tenga esa letra en el polinomio
+- B. Cuando todos sus términos son del mismo grado absoluto
+- C. Cuando los exponentes de dicha letra van aumentando o disminuyendo
+- D. Cuando ninguno de sus términos tiene denominador literal
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 17
+**Subtema:** Preliminares · clases de polinomios
+
+Polinomio completo con relación a una letra es el que contiene todos los exponentes sucesivos de dicha letra, desde el más alto al más bajo que tenga dicha letra en el polinomio.
+
+### 70
+
+De acuerdo con el libro de Álgebra, ¿qué es un polinomio ordenado con respecto a una letra?
+
+- A. Aquel en el cual los exponentes de una letra escogida van aumentando o disminuyendo
+- B. Aquel que contiene todos los exponentes sucesivos de dicha letra
+- C. Aquel cuyos términos son todos del mismo grado absoluto
+- D. Aquel que no tiene denominador literal ni radicales
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 17
+**Subtema:** Preliminares · clases de polinomios
+
+Polinomio ordenado con respecto a una letra es un polinomio en el cual los exponentes de una letra escogida, llamada letra ordenatriz, van aumentando o disminuyendo.
+
+> **Completo** y **ordenado** no son lo mismo y el libro los define seguidos:
+> completo es que **no falte ningún exponente**; ordenado es que **vayan en
+> orden**. Un polinomio puede estar ordenado sin ser completo.
+
+### 71
+
+De acuerdo con el libro de Álgebra, ¿cómo se llama la letra escogida cuyos exponentes van aumentando o disminuyendo en un polinomio ordenado?
+
+- A. Letra ordenatriz
+- B. Letra ordenadora
+- C. Letra principal
+- D. Letra directriz
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 17
+**Subtema:** Preliminares · clases de polinomios
+
+Los exponentes de una letra escogida, llamada letra ordenatriz, van aumentando o disminuyendo.
+
+### 72
+
+De acuerdo con el libro de Álgebra, ¿qué es ordenar un polinomio?
+
+- A. Escribir sus términos de modo que los exponentes de la letra ordenatriz queden en orden descendente o ascendente
+- B. Escribir sus términos de modo que no falte ningún exponente sucesivo
+- C. Agrupar sus términos según su grado absoluto
+- D. Eliminar los denominadores literales de sus términos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 17
+**Subtema:** Preliminares · clases de polinomios
+
+ORDENAR UN POLINOMIO es escribir sus términos de modo que los exponentes de una letra escogida como letra ordenatriz queden en orden descendente o ascendente.
+
+---
+
+**Reactivos en este archivo:** 72
