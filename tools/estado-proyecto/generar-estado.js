@@ -107,8 +107,13 @@ function construir() {
   const guia = guiaAspirante();
 
   const totalCultural = cultural.reduce((s, m) => s + m.total, 0);
-  const abiertos = cultural.filter((m) => m.pendiente);
   const sinDeclarar = cultural.filter((m) => !m.pendiente);
+
+  // Declarar un pendiente no es lo mismo que tenerlo: un archivo cerrado declara
+  // "ninguno". Contar toda declaración como materia abierta hacía que el resumen
+  // reportara ocho abiertas cuando sólo Álgebra lo estaba.
+  const cerrado = (p) => /^ningun[oa]\b/i.test((p || '').trim());
+  const abiertos = cultural.filter((m) => m.pendiente && !cerrado(m.pendiente));
 
   const L = [];
   L.push('# Estado del proyecto — Plataforma UDEFA');
@@ -136,7 +141,9 @@ function construir() {
   }
   L.push(
     `| Examen cultural · HCM | ${totalCultural} | ${
-      abiertos.length === 0 ? 'nada declarado como abierto' : `${abiertos.length} materia(s) abiertas`
+      abiertos.length === 0
+        ? 'todas las materias cerradas'
+        : `abiertas: ${abiertos.map((m) => m.titulo.split(' · ')[0]).join(', ')}`
     } |`,
   );
   for (const b of iniciales) {

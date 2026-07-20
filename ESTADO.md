@@ -18,7 +18,7 @@ _Regenerado el 2026-07-20._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural · HCM | 791 | 8 materia(s) abiertas |
+| Examen cultural · HCM | 854 | abiertas: Álgebra |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -38,8 +38,8 @@ _Regenerado el 2026-07-20._
 | Geografía · Capítulo 3 · Unidades orogénicas | 43 | ninguno. El alcance del capítulo 3 está cerrado. |
 | Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
 | Geografía · Capítulo 5 · Islas | 42 | ninguno. El capítulo 5 está cerrado. |
-| Historia · Capítulo 6 · El mundo contemporáneo | 537 | de la 276 en adelante. |
-| **Total** | **791** | |
+| Historia · Capítulo 6 · El mundo contemporáneo | 600 | ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que pide el temario del HCM están completos, de la página 205 a la 279. |
+| **Total** | **854** | |
 
 ## Personalidad (remaster)
 

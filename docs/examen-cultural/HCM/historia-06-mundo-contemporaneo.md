@@ -56,16 +56,17 @@ Cubre el conflicto del Golfo Pérsico, el fin del bloque socialista europeo y to
 Central, República Dominicana y Puerto Rico, los cinco de Sudamérica y el Cono
 Sur, y México, con el que cierra el apartado en la 267.
 
-**Apartado "La llegada del siglo XXI", en curso** (páginas 268–279). Cubiertas
-las páginas 268–271: el panorama del nuevo orden mundial, la conformación de la
-Unión Europea y el ataque de las Torres Gemelas. La 268 arranca cerrando la
-oración sobre México que venía de la 267, así que sus primeros reactivos
-pertenecen al apartado anterior.
+**Apartado "La llegada del siglo XXI" COMPLETO** (páginas 268–279). El panorama
+del nuevo orden mundial, la conformación de la Unión Europea, el ataque de las
+Torres Gemelas, la invasión a Irak, las potencias emergentes —China, India, Rusia
+y Brasil— y la primera década en América. La 268 arranca cerrando la oración
+sobre México que venía de la 267, así que sus primeros reactivos pertenecen al
+apartado anterior.
 
-Cubiertas también las páginas 272–275: la invasión a Irak, las potencias
-emergentes, China, India y Rusia.
+---
 
-**Pendiente:** de la 276 en adelante.
+**Pendiente:** ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que
+pide el temario del HCM están completos, de la página 205 a la 279.
 
 ## Verificación de transcripción (19 jul 2026)
 
@@ -127,6 +128,18 @@ memorice va a fallar si el examen real usa la fecha correcta.
 | Pág. 265 | Movimiento Revolucionario *Tupac* Amaru | Túpac Amaru |
 | Pág. 266 | *bloques* salariales | bloqueos salariales (confirmado a 550 dpi: el libro dice "bloques") |
 | Pág. 269 | "*La moneda, a la par*, se fue haciendo necesaria una unión monetaria" | Oración mal armada; sobra "La moneda". Confirmada a 550 dpi. **No se escribió reactivo sobre ella** porque no hay forma de citarla sin arrastrar el error |
+| Pág. 276 | devaluación del *rubro* | del **rublo**, la moneda rusa. Ver nota abajo |
+| Pág. 276 | "cuenta con el *mayor de graduados*" | el mayor **número** de graduados |
+| Pág. 277 | José *Linares* (1945-46) | José **Linhares**, presidente de Brasil en 1945–46 |
+| Pág. 278 | las Torres Gemelas estaban en *pié* | en **pie**, sin tilde |
+| Pág. 279 | "puso fin *los* 70 años" | puso fin **a** los 70 años |
+| Pág. 279 | "las que fueron *rechazas*" | **rechazadas** |
+
+**La errata más peligrosa del capítulo es la del *rubro*.** Las demás se delatan
+solas porque la palabra no existe —*Traman*, *Ataquea*, *rechazas*—, pero "rubro"
+sí es una palabra española correcta, así que la frase pasa la vista sin tropiezo
+y sólo deja de tener sentido si el lector sabe que la moneda rusa es el rublo. El
+reactivo 545 evita el pasaje.
 
 **El libro tropieza sistemáticamente con los nombres propios extranjeros**
 —Traman, Koffi, Gorvachov, Arzó, Lacallo, Bucaran, Róselo, Mississipi—, así que
@@ -8448,4 +8461,969 @@ En el año 2000, con los retos de mantener al país como potencia militar y pol�
 
 ---
 
-**Reactivos en este archivo:** 537
+## Sub-lote 48 · Rusia: transición y contrastes
+
+### 538
+
+De acuerdo con el libro de Historia Universal, ¿qué consiguió el partido Rusia Unida en las elecciones legislativas de 2007?
+
+- A. El 64% de los votos
+- B. El 28% de los votos
+- C. El 48% de los votos
+- D. El 12% de los votos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Rusia
+
+En la elecciones legislativas de 2007, el partido Rusia Unida, afín a Putin, consiguió el 64% de los votos, lo que se interpreta como el apoyo a su gestión político-económica.
+
+### 539
+
+De acuerdo con el libro de Historia Universal, ¿quién ganó las elecciones de 2008 y con qué apoyo?
+
+- A. Dimitri Medvedev, apoyado por Putin
+- B. Vladimir Putin, apoyado por Medvedev
+- C. Boris Yeltsin, apoyado por Putin
+- D. Dimitri Medvedev, apoyado por Yeltsin
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Rusia
+
+En las elecciones de 2008, Dimitri Medvedev, apoyado por Putin, ganó por amplio margen y asumió la presidencia.
+
+### 540
+
+De acuerdo con el libro de Historia Universal, ¿qué ha significado la transición rusa al capitalismo?
+
+- A. Avances y retrocesos
+- B. Un crecimiento sostenido sin contratiempos
+- C. El retorno paulatino al sistema socialista
+- D. La pérdida de su lugar en el Consejo de Seguridad
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Rusia
+
+No obstante la ampliación de libertades individuales y la existencia de una democracia electoral, la transición rusa al capitalismo ha significado avances y retrocesos.
+
+### 541
+
+De acuerdo con el libro de Historia Universal, ¿qué porcentaje de la población rusa vive por debajo de la línea de pobreza?
+
+- A. Cerca del 28%
+- B. Cerca del 64%
+- C. Cerca del 48%
+- D. Cerca del 12%
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Rusia
+
+Uno de los grandes problemas sociales es que cerca del 28% de la población vive por debajo de la línea de pobreza.
+
+### 542
+
+De acuerdo con el libro de Historia Universal, ¿cómo evolucionó el desempleo en Rusia entre 1999 y 2000?
+
+- A. De 12% se redujo al 6%
+- B. De 6% subió al 12%
+- C. De 28% se redujo al 12%
+- D. De 12% se redujo al 8%
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Rusia
+
+Aunque el desempleo en 1999 era de 12% y para el 2000 se había reducido al 6%, los sueldos y las pensiones no se han incrementado desde hace años.
+
+### 543
+
+De acuerdo con el libro de Historia Universal, ¿qué han hecho muchos rusos para alimentarse?
+
+- A. Siembran y cultivan sus propios productos
+- B. Recurren al mercado negro
+- C. Emigran a los países de Europa
+- D. Dependen de las pensiones del Estado
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Rusia
+
+Ante ello, para alimentarse, muchos siembran y cultivan sus propios productos.
+
+### 544
+
+De acuerdo con el libro de Historia Universal, ¿quién controla el gran mercado negro de las transacciones comerciales?
+
+- A. Una poderosa mafia
+- B. El propio gobierno ruso
+- C. Los inversionistas extranjeros
+- D. Las sociedades mercantiles público-privadas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Rusia
+
+Existe un gran mercado negro en la mayoría de las transacciones comerciales, controlado por una poderosa mafia.
+
+### 545
+
+De acuerdo con el libro de Historia Universal, ¿qué decidió el gobierno para hacer frente al déficit presupuestario?
+
+- A. Eliminar las restricciones a la participación del capital extranjero en el mercado de dinero ruso
+- B. Devaluar la moneda oficial
+- C. Aumentar los impuestos a las importaciones
+- D. Congelar los sueldos y las pensiones
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Rusia
+
+Para hacer frente al déficit presupuestario, el gobierno decidió eliminar las restricciones a la participación del capital extranjero en el mercado de dinero ruso.
+
+### 546
+
+De acuerdo con el libro de Historia Universal, ¿qué provocan los inversionistas cuando deciden retirar sus ganancias?
+
+- A. Crisis financieras
+- B. El encarecimiento de las exportaciones
+- C. El crecimiento del mercado negro
+- D. El aumento del desempleo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Rusia
+
+Pero cuando los inversionistas deciden retirar sus ganancias provocan crisis financieras.
+
+### 547
+
+De acuerdo con el libro de Historia Universal, ¿en qué reservas destaca Rusia?
+
+- A. Las mayores de gas natural del mundo, las segundas de carbón y las octavas de petróleo
+- B. Las mayores de petróleo del mundo, las segundas de gas natural y las octavas de carbón
+- C. Las segundas de gas natural, las mayores de carbón y las octavas de petróleo
+- D. Las mayores de gas natural, las octavas de carbón y las segundas de petróleo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Rusia
+
+Más el hecho de que posee las mayores reservas de gas natural del mundo, las segundas de carbón y las octavas de petróleo, se considera que Rusia está por delante de muchos otros países.
+
+### 548
+
+De acuerdo con el libro de Historia Universal, ¿cómo creció la clase media rusa entre 2000 y 2006?
+
+- A. De 8 millones de personas a 55 millones
+- B. De 8 millones de personas a 28 millones
+- C. De 12 millones de personas a 55 millones
+- D. De 55 millones de personas a 8 millones
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Rusia
+
+En tanto que la clase media ha crecido de 8 millones de personas en el año 2000 a 55 millones en 2006, y allí se encuentra el mayor número de millonarios del mundo.
+
+### 549
+
+De acuerdo con el libro de Historia Universal, ¿cuál es el gran contraste de ese crecimiento?
+
+- A. Que las comunidades rurales de Siberia se encuentran muy atrasadas
+- B. Que el desempleo sigue siendo de 12%
+- C. Que los sueldos y las pensiones no se han incrementado
+- D. Que el mercado negro sigue creciendo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Rusia
+
+El gran contraste es que especialmente las comunidades rurales de Siberia se encuentran muy atrasadas.
+
+---
+
+## Sub-lote 49 · Brasil: de Vargas a Cardoso
+
+### 550
+
+De acuerdo con el libro de Historia Universal, ¿qué había instaurado el gobierno de Getulio Vargas?
+
+- A. Una "democracia autoritaria"
+- B. Una dictadura militar
+- C. El "Milagro Brasileño"
+- D. Una república parlamentaria
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 276
+**Subtema:** Potencias emergentes · Brasil
+
+En el Brasil de la posguerra se movilizaron las fuerzas que reclamaban libertades, ya que el gobierno de Getulio Vargas (1930-1945) había instaurado una "democracia autoritaria".
+
+### 551
+
+De acuerdo con el libro de Historia Universal, ¿hasta cuándo retornó Vargas al poder en 1951?
+
+- A. Hasta su muerte en 1954
+- B. Hasta 1960
+- C. Hasta el golpe militar de 1964
+- D. Hasta 1946
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Porque en 1951 Vargas retornó al poder hasta su muerte en 1954.
+
+### 552
+
+De acuerdo con el libro de Historia Universal, ¿de qué fue promotor Juscelino Kubitschek?
+
+- A. De la construcción de Brasilia
+- B. De la reforma agraria
+- C. Del "Milagro Brasileño"
+- D. Del Partido de los Trabajadores
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Le sucedió Juscelino Kubitschek (1954-1960), promotor de la construcción de Brasilia.
+
+### 553
+
+De acuerdo con el libro de Historia Universal, ¿qué alcanzó el país bajo el mandato de Kubitschek?
+
+- A. Una de las tasas de crecimiento más altas del mundo
+- B. La mayor deuda externa del mundo
+- C. El fin de la dictadura militar
+- D. La estabilidad económica definitiva
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Bajo cuyo mandato el país alcanzó una de las tasas de crecimiento más altas del mundo, a la vez que abrió las puertas a las corporaciones trasnacionales a las que tuvo que otorgarles privilegios.
+
+### 554
+
+De acuerdo con el libro de Historia Universal, ¿qué destacó en la política de João Goulart?
+
+- A. La reforma agraria
+- B. La privatización de compañías estatales
+- C. La construcción de Brasilia
+- D. La apertura a las corporaciones trasnacionales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Al año siguiente, João Goulart emprendió una política en la que destacó la reforma agraria.
+
+### 555
+
+De acuerdo con el libro de Historia Universal, ¿bajo la influencia de qué organismo lo derrocaron los militares en 1964?
+
+- A. De la *Central Intelligence Agency*
+- B. Del Fondo Monetario Internacional
+- C. De la Organización de Estados Americanos
+- D. Del Mercado Común del Sur
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Sin embargo, los militares bajo la influencia de la *Central Intelligence Agency* (CIA), o sea, de servicios secretos de Estados Unidos, lo derrocaron en 1964.
+
+### 556
+
+De acuerdo con el libro de Historia Universal, ¿en los gobiernos de quiénes se habló del "Milagro Brasileño"?
+
+- A. De Humberto Castello Branco y Ernesto Geisel
+- B. De Getulio Vargas y Juscelino Kubitschek
+- C. De João Goulart y José Sarney
+- D. De José Sarney y Fernando Collor de Mello
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Ya en los gobiernos de Humberto Castello Branco (1964) y Ernesto Geisel (1974-79) se habló del "Milagro Brasileño".
+
+### 557
+
+De acuerdo con el libro de Historia Universal, ¿con quién retornaron los presidentes civiles en 1985?
+
+- A. Con José Sarney
+- B. Con Fernando Collor de Mello
+- C. Con Itamar Franco
+- D. Con Fernando Cardoso
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+En 1985 retornaron los presidentes civiles con José Sarney.
+
+### 558
+
+De acuerdo con el libro de Historia Universal, ¿en quién dejó la presidencia Collor de Mello al ser depuesto en 1992?
+
+- A. En Itamar Franco
+- B. En José Sarney
+- C. En Fernando Cardoso
+- D. En Luiz Inácio "Lula" Da Silva
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Cuatro años después fue electo Fernando Collor de Mello, depuesto en 1992 por corrupción, dejando la presidencia en Itamar Franco.
+
+### 559
+
+De acuerdo con el libro de Historia Universal, ¿qué ocurrió a partir de 1994 bajo el gobierno de Fernando Cardoso?
+
+- A. Existió una relativa estabilidad económica, se privatizaron compañías estatales y se atrajeron inversiones extranjeras
+- B. Se nacionalizaron las compañías estatales
+- C. Se implementó el Programa Hambre 0
+- D. El país alcanzó la mayor tasa de crecimiento del mundo
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+A partir de 1994, bajo el gobierno de Fernando Cardoso existió una relativa estabilidad económica, se privatizaron compañías estatales y se atrajeron inversiones extranjeras.
+
+### 560
+
+De acuerdo con el libro de Historia Universal, ¿qué revelaron datos de la ONU sobre Brasil?
+
+- A. Que era el país con mayores desigualdades económicas
+- B. Que era el país con mayor crecimiento del mundo
+- C. Que era el país con menor deuda externa de la región
+- D. Que era el país con mayor pobreza extrema del continente
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Desde tiempo antes, Brasil arrastraba la mayor deuda externa del mundo, y datos de la ONU revelaron que era el país con mayores desigualdades económicas.
+
+### 561
+
+De acuerdo con el libro de Historia Universal, ¿qué permitió el Congreso al modificar la Constitución?
+
+- A. La reelección de Cardoso para el periodo 1998-2002
+- B. La reelección de Collor de Mello
+- C. La creación del Partido de los Trabajadores
+- D. La privatización de las compañías estatales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+No obstante, el Congreso modificó la Constitución y permitió la reelección de Cardoso para el periodo 1998-2002.
+
+---
+
+## Sub-lote 50 · Brasil: Lula y Rousseff
+
+### 562
+
+De acuerdo con el libro de Historia Universal, ¿cuántas veces había perdido Lula Da Silva las elecciones presidenciales antes de ganar?
+
+- A. Tres veces
+- B. Dos veces
+- C. Cuatro veces
+- D. Una vez
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Luego de haber perdido tres veces las elecciones presidenciales, en octubre de 2002, Luiz Inácio "Lula" Da Silva ganó las elecciones.
+
+### 563
+
+De acuerdo con el libro de Historia Universal, ¿por qué se pensaba que no debía ganar?
+
+- A. Porque se pensaba que nacionalizaría la economía y propiciaría la fuga del capital
+- B. Por su limitada preparación escolar
+- C. Únicamente por su tendencia a la izquierda
+- D. Por su origen humilde
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Ya que se pensaba que nacionalizaría la economía y propiciaría la fuga del capital.
+
+### 564
+
+De acuerdo con el libro de Historia Universal, ¿cuál era el oficio de Lula Da Silva y a qué partido pertenecía?
+
+- A. Minero y obrero metalúrgico, del Partido de los Trabajadores
+- B. Obrero metalúrgico, del Partido de la Democracia Social Brasileña
+- C. Minero, del Partido del Movimiento Democrático Brasileño
+- D. Maestro y sindicalista, del Partido de los Trabajadores
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Luiz Inácio "Lula" Da Silva, minero y obrero metalúrgico, del Partido de los Trabajadores (PT), ganó las elecciones.
+
+### 565
+
+De acuerdo con el libro de Historia Universal, ¿qué reformas de bienestar social implementó Lula?
+
+- A. El Programa Hambre 0 y el Plan Nacional de Erradicación del Trabajo Esclavo
+- B. El Programa Hambre 0 y la reforma agraria
+- C. El Plan Nacional de Erradicación del Trabajo Esclavo y la privatización de compañías estatales
+- D. La reforma agraria y la revalorización de los títulos de deuda pública
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Respetando la política económica de su antecesor, implementó reformas de bienestar social como el Programa Hambre 0 y el Plan Nacional de Erradicación del Trabajo Esclavo, además de fortalecer el salario mínimo.
+
+### 566
+
+De acuerdo con el libro de Historia Universal, pese al rigor impuesto por el Fondo Monetario Internacional, ¿qué logró Lula?
+
+- A. Disminuyó la inflación, mejoró la paridad del Real frente al dólar y revalorizó los títulos de deuda pública
+- B. Eliminó por completo la deuda externa del país
+- C. Nacionalizó las compañías estatales privatizadas
+- D. Redujo a la mitad la pobreza extrema
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Pese al rigor impuesto por el Fondo Monetario Internacional (FMI), disminuyó la inflación, mejoró la paridad del Real frente al dólar y revalorizó los títulos de deuda pública del país.
+
+### 567
+
+De acuerdo con el libro de Historia Universal, ¿qué ocurrió en las elecciones de 2006 en Brasil?
+
+- A. Lula fue reelegido
+- B. Dilma Rousseff ganó la presidencia
+- C. José Serra ganó la presidencia
+- D. Michel Temer asumió la vicepresidencia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+En las elecciones de 2006 Lula fue reelegido.
+
+### 568
+
+De acuerdo con el libro de Historia Universal, ¿a quién oficializó la Convención Nacional del PT en junio de 2010?
+
+- A. A Dilma Rousseff como su candidata a la presidencia
+- B. A Michel Temer como su candidato a la presidencia
+- C. A Lula Da Silva para una tercera elección
+- D. A José Serra como su candidato a la presidencia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+En junio de 2010 la Convención Nacional del PT oficializó a Dilma Rousseff como su candidata a la presidencia.
+
+### 569
+
+De acuerdo con el libro de Historia Universal, ¿quién fue postulado a la vicepresidencia y por qué partido?
+
+- A. Michel Temer, líder del Partido del Movimiento Democrático Brasileño
+- B. José Serra, líder del Partido de la Democracia Social Brasileña
+- C. Michel Temer, líder del Partido de los Trabajadores
+- D. Dilma Rousseff, líder del Partido del Movimiento Democrático Brasileño
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 277
+**Subtema:** Potencias emergentes · Brasil
+
+Mientras que Michel Temer, líder del Partido del Movimiento Democrático Brasileño (PMDB), fue postulado a la vicepresidencia, lo que selló la alianza entre las dos agrupaciones.
+
+### 570
+
+De acuerdo con el libro de Historia Universal, ¿frente a qué candidato resultó triunfadora Rousseff y cuándo tomó posesión?
+
+- A. Frente a José Serra, y tomó posesión en enero de 2011
+- B. Frente a Michel Temer, y tomó posesión en enero de 2011
+- C. Frente a José Serra, y tomó posesión en junio de 2010
+- D. Frente a Fernando Cardoso, y tomó posesión en enero de 2011
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** Potencias emergentes · Brasil
+
+En la segunda ronda de los comicios presidenciales Rousseff resultó triunfadora, frente al candidato del Partido de la Democracia Social Brasileña y aliados, José Serra. Tomó posesión en enero de 2011.
+
+---
+
+## Sub-lote 51 · La primera década en América
+
+### 571
+
+De acuerdo con el libro de Historia Universal, ¿a qué se enfocó Estados Unidos luego de los atentados del 11 de septiembre de 2001?
+
+- A. A la lucha antiterrorista, mostrando desinterés hacia el resto del continente
+- B. A promover el Área de Libre Comercio de las Américas
+- C. A reforzar la gobernabilidad de las democracias latinoamericanas
+- D. A instrumentar medidas contra la pobreza en la región
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** La primera década en América · Panorama
+
+Luego de los atentados del 11 de septiembre de 2001, Estados Unidos se enfocó a la lucha antiterrorista y mostró desinterés hacia el resto del continente.
+
+### 572
+
+De acuerdo con el libro de Historia Universal, ¿cuál fue la primera reunión continental después de aquellos hechos?
+
+- A. La Cumbre de las Américas de 2004
+- B. La Primera Cumbre de 1994
+- C. La Cumbre de las Américas de 2001
+- D. La Cumbre de las Américas de 2005
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** La primera década en América · Cumbre de las Américas
+
+En la Cumbre de las Américas (2004), primera reunión continental después de aquellos hechos, las naciones latinoamericanas retomaron los desafíos de siempre.
+
+### 573
+
+De acuerdo con el libro de Historia Universal, ¿qué desafíos retomaron las naciones latinoamericanas en esa cumbre?
+
+- A. Instrumentar medidas contra la pobreza, promover el desarrollo social, lograr un crecimiento económico con equidad y reforzar la gobernabilidad de las democracias
+- B. Eliminar la corrupción y el tráfico de drogas
+- C. Concretar el Área de Libre Comercio de las Américas
+- D. Impulsar la transparencia en los procesos políticos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** La primera década en América · Cumbre de las Américas
+
+Las naciones latinoamericanas retomaron los desafíos de siempre: instrumentar medidas contra la pobreza, promover el desarrollo social, lograr un crecimiento económico con equidad y reforzar la gobernabilidad de las democracias.
+
+### 574
+
+De acuerdo con el libro de Historia Universal, ¿qué avance deberían tener ya los países en la meta de reducir a la mitad la pobreza extrema?
+
+- A. Un avance de 48%
+- B. Un avance de 34%
+- C. Un avance de 50%
+- D. Un avance de 28%
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** La primera década en América · Cumbre de las Américas
+
+Los países ya deberían tener un avance de 48% en esa meta y solamente Chile y República Dominicana lo habían logrado.
+
+### 575
+
+De acuerdo con el libro de Historia Universal, ¿qué países habían logrado ese avance?
+
+- A. Solamente Chile y República Dominicana
+- B. Solamente Chile y Brasil
+- C. Solamente Brasil y República Dominicana
+- D. Solamente Chile y Argentina
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** La primera década en América · Cumbre de las Américas
+
+Solamente Chile y República Dominicana lo habían logrado, mientras que en la mayoría el avance era insuficiente y, en muchos casos, entre 2000 y 2002 había empeorado.
+
+### 576
+
+De acuerdo con el libro de Historia Universal, ¿desde cuándo promovía Estados Unidos el Área de Libre Comercio de las Américas?
+
+- A. Desde la Primera Cumbre de 1994
+- B. Desde la Cumbre de las Américas de 2004
+- C. Desde 1998
+- D. Desde 2001
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** La primera década en América · ALCA
+
+Estados Unidos, tal como lo había hecho desde la Primera Cumbre (1994), promovió el Área de Libre Comercio de las Américas (ALCA).
+
+### 577
+
+De acuerdo con el libro de Historia Universal, ¿para qué año se comprometieron a concretar el ALCA?
+
+- A. Para el año 2005
+- B. Para el año 2001
+- C. Para el año 2004
+- D. Para el año 1998
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** La primera década en América · ALCA
+
+Y de que se comprometieron a concretarlo para el año 2005, a la fecha ello no ha ocurrido.
+
+### 578
+
+De acuerdo con el libro de Historia Universal, ¿qué era distinto cuando nació el plan del ALCA?
+
+- A. Las Torres Gemelas estaban en pie y "Lula" Da Silva no gobernaba Brasil
+- B. Estados Unidos no había firmado el Tratado de Libre Comercio
+- C. Brasil aún no integraba el Mercado Común del Sur
+- D. La Organización de Estados Americanos aún no existía
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** La primera década en América · ALCA
+
+Y es que cuando nació dicho plan, las Torres Gemelas estaban en pie y "Lula" Da Silva no gobernaba Brasil.
+
+### 579
+
+De acuerdo con el libro de Historia Universal, ¿cómo calificó Da Silva al neoliberalismo?
+
+- A. Como un modelo que genera "dicotomías nefastas entre miseria y opulencia"
+- B. Como un modelo de liberalización del comercio
+- C. Como un modelo que impide el desarrollo social
+- D. Como un modelo de crecimiento sin equidad
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** La primera década en América · ALCA
+
+Mientras que Da Silva se opuso firmemente al ALCA, calificando al neoliberalismo como un modelo que genera "dicotomías nefastas entre miseria y opulencia".
+
+### 580
+
+De acuerdo con el libro de Historia Universal, ¿cuántos países integran la Organización de Estados Americanos?
+
+- A. 34
+- B. 28
+- C. 48
+- D. 19
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** La primera década en América · OEA
+
+A la fecha, los 34 países de la Organización de Estados Americanos (OEA) manifiestan estar luchando para eliminar la corrupción.
+
+### 581
+
+De acuerdo con el libro de Historia Universal, ¿por qué luchan los países de la OEA para eliminar la corrupción?
+
+- A. Porque impide destinar los recursos públicos para el desarrollo
+- B. Porque impide la liberalización del comercio
+- C. Porque frena la inversión extranjera
+- D. Porque debilita la gobernabilidad de las democracias
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** La primera década en América · OEA
+
+Manifiestan estar luchando para eliminar la corrupción, porque impide destinar los recursos públicos para el desarrollo.
+
+### 582
+
+De acuerdo con el libro de Historia Universal, ¿qué convención han ratificado los países de la OEA?
+
+- A. La Convención Interamericana de Ayuda Mutua en Materia Penal
+- B. La Convención Interamericana contra la Corrupción
+- C. El Área de Libre Comercio de las Américas
+- D. El Tratado de Tlatelolco
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 278
+**Subtema:** La primera década en América · OEA
+
+Han ratificado la Convención Interamericana de Ayuda Mutua en Materia Penal para enfrentar el Terrorismo y el tráfico de drogas en la región.
+
+---
+
+## Sub-lote 52 · Estados Unidos, Cuba y México
+
+### 583
+
+De acuerdo con el libro de Historia Universal, ¿con qué países integrantes del Mercosur enfrentó diferencias el gobierno de George W. Bush?
+
+- A. Con Brasil y Argentina
+- B. Con Brasil y Uruguay
+- C. Con Argentina y Paraguay
+- D. Con Brasil y Venezuela
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · Estados Unidos
+
+El gobierno estadounidense de George W. Bush (2000-2008) enfrentó diferencias con varios países del hemisferio, entre ellos Brasil y Argentina, integrantes del Mercosur (Mercado Común del Sur).
+
+### 584
+
+De acuerdo con el libro de Historia Universal, ¿por qué se suscitó la polémica con Brasil?
+
+- A. Por imponerles controles a los viajeros estadounidenses semejantes a los que sufrían los brasileños en Estados Unidos
+- B. Porque Brasil se oponía al Área de Libre Comercio de las Américas
+- C. Por la deuda externa brasileña
+- D. Por el apoyo brasileño a Cuba
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · Estados Unidos
+
+La polémica con Brasil se suscitó por imponerles controles a los viajeros estadounidenses semejantes a los que sufrían los brasileños en Estados Unidos.
+
+### 585
+
+De acuerdo con el libro de Historia Universal, ¿por qué se suscitó la polémica con Argentina?
+
+- A. Porque ésta se oponía al Área de Libre Comercio de las Américas
+- B. Por los controles a los viajeros estadounidenses
+- C. Por su cercanía con Venezuela
+- D. Por su negativa a votar en la Organización de las Naciones Unidas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · Estados Unidos
+
+Y con Argentina porque ésta se oponía al ALCA.
+
+### 586
+
+De acuerdo con el libro de Historia Universal, ¿en qué se manifestaron los desencuentros con Cuba?
+
+- A. En la ofensiva contra Fidel Castro según la cual estaría desestabilizando varios países democráticos de Latinoamérica
+- B. En el bloqueo económico a la isla
+- C. En la ruptura total de relaciones diplomáticas
+- D. En el apoyo abierto a la oposición cubana
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · Cuba
+
+Los desencuentros con Cuba se manifestaron en la ofensiva contra Fidel Castro según la cual estaría desestabilizando varios países democráticos de Latinoamérica.
+
+### 587
+
+De acuerdo con el libro de Historia Universal, ¿qué conversaciones rompieron, siendo las únicas que tenían regularmente?
+
+- A. Las conversaciones sobre migración
+- B. Las conversaciones sobre comercio
+- C. Las conversaciones sobre derechos humanos
+- D. Las conversaciones sobre narcotráfico
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · Cuba
+
+En su momento, rompieron las conversaciones sobre migración, las únicas que tenían regularmente.
+
+### 588
+
+De acuerdo con el libro de Historia Universal, ¿qué hechos han distendido los ánimos entre Estados Unidos y Cuba?
+
+- A. La entrega del poder a Raúl Castro por parte de Fidel y la llegada de Barack Obama a la presidencia
+- B. La reanudación de las conversaciones sobre migración
+- C. El fin del bloqueo económico a la isla
+- D. La entrada de Cuba a la Organización de Estados Americanos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · Cuba
+
+La entrega del poder a Raúl Castro por parte de Fidel (oficializada en 2008) y la llegada a la presidencia de Barack Obama en Estados Unidos, aunque no han modificado la situación, han distendido los ánimos.
+
+### 589
+
+De acuerdo con el libro de Historia Universal, ¿en qué año se oficializó la entrega del poder a Raúl Castro?
+
+- A. En 2008
+- B. En 2003
+- C. En 2006
+- D. En 2000
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · Cuba
+
+La entrega del poder a Raúl Castro por parte de Fidel (oficializada en 2008).
+
+### 590
+
+De acuerdo con el libro de Historia Universal, ¿por qué mantuvo la Unión Americana distancia con Venezuela?
+
+- A. Porque sugirió que había financiado la revuelta que derrocó al presidente boliviano Gonzalo Sánchez de Lozada
+- B. Porque Venezuela se oponía al Área de Libre Comercio de las Américas
+- C. Por su alianza con Cuba
+- D. Por su política petrolera
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · Venezuela
+
+La Unión Americana mantuvo distancia con Venezuela —quien manifiesta abiertamente sus recelos— luego de que sugirió que había financiado la revuelta que derrocó al presidente boliviano Gonzalo Sánchez de Lozada en 2003.
+
+### 591
+
+De acuerdo con el libro de Historia Universal, ¿qué permitiría el derrocamiento de Sánchez de Lozada en 2003?
+
+- A. El ascenso de Evo Morales
+- B. El ingreso de Bolivia al Mercado Común del Sur
+- C. La nacionalización del gas boliviano
+- D. El fin de la "Operación Cero"
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · Venezuela
+
+Que derrocó al presidente boliviano Gonzalo Sánchez de Lozada en 2003, lo que permitiría el ascenso de Evo Morales.
+
+### 592
+
+De acuerdo con el libro de Historia Universal, ¿a qué puso fin Vicente Fox en el año 2000?
+
+- A. A los 70 años de gobierno del Partido Revolucionario Institucional
+- B. A los 70 años de gobierno del Partido Acción Nacional
+- C. A los 60 años de gobierno del Partido Revolucionario Institucional
+- D. A la lucha armada contra los cárteles del narcotráfico
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · México
+
+En cuanto a México, en el año 2000 Vicente Fox, del Partido Acción Nacional (PAN), puso fin a los 70 años de gobierno del Partido Revolucionario Institucional (PRI).
+
+### 593
+
+De acuerdo con el libro de Historia Universal, ¿qué reformas intentó Fox y qué ocurrió con ellas?
+
+- A. Reformas tendientes a la privatización del petróleo y la electricidad, que fueron rechazadas por el Congreso
+- B. Reformas tendientes a la nacionalización del petróleo, que fueron aprobadas
+- C. Reformas migratorias, que fueron rechazadas por el Congreso
+- D. Reformas tendientes a la privatización de la banca, que fueron aprobadas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · México
+
+Fox intentó reformas tendientes a la privatización de sectores como los del petróleo y la electricidad, las que fueron rechazadas por el Congreso.
+
+### 594
+
+De acuerdo con el libro de Historia Universal, ¿qué ocurrió con la meta parcial de la OEA de reducir a la mitad la pobreza extrema?
+
+- A. Ésta persistió
+- B. Se cumplió parcialmente
+- C. Se cumplió por completo
+- D. Fue abandonada por el gobierno
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · México
+
+Aunque su gobierno intentó cumplir la meta parcial de la OEA en cuanto reducir a la mitad la pobreza extrema, ésta persistió (persiste).
+
+### 595
+
+De acuerdo con el libro de Historia Universal, ¿qué significaron para México los hechos terroristas de 2001?
+
+- A. Dejar en suspenso el análisis y posible solución del problema migratorio con el vecino del norte
+- B. El cierre de la frontera norte
+- C. La ruptura de relaciones con Estados Unidos
+- D. El fin de las negociaciones comerciales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · México
+
+Los hechos terroristas de 2001 para México significaron dejar en suspenso temas como el análisis y posible solución del problema migratorio con el vecino del norte.
+
+### 596
+
+De acuerdo con el libro de Historia Universal, ¿qué rehusó hacer el gobierno mexicano en 2003 en la ONU?
+
+- A. Votar a favor de una propuesta de Estados Unidos que le habría dado el respaldo para usar la fuerza en Irak
+- B. Votar a favor del Área de Libre Comercio de las Américas
+- C. Firmar la Convención Interamericana de Ayuda Mutua en Materia Penal
+- D. Apoyar la lucha antiterrorista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · México
+
+En 2003, el gobierno rehusó votar, en la ONU, a favor de una propuesta de Estados Unidos que le habría dado el respaldo para usar la fuerza en Irak, lo que le acarreó dificultades.
+
+### 597
+
+De acuerdo con el libro de Historia Universal, ¿qué iniciativa lanzó el presidente Bush en 2004 y con qué fin?
+
+- A. Legalizar temporalmente trabajadores extranjeros en su país, solamente con fines de reelección
+- B. Legalizar de forma permanente a los trabajadores mexicanos
+- C. Reforzar la frontera con México
+- D. Impulsar el Área de Libre Comercio de las Américas
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · México
+
+En 2004, el presidente Bush lanzó la iniciativa de legalizar temporalmente trabajadores extranjeros en su país, pero solamente con fines de reelección.
+
+### 598
+
+De acuerdo con el libro de Historia Universal, ¿quién triunfó en las elecciones de 2006 y frente a quién?
+
+- A. Felipe Calderón Hinojosa, del PAN, frente a Andrés Manuel López Obrador
+- B. Vicente Fox, del PAN, frente a Andrés Manuel López Obrador
+- C. Felipe Calderón Hinojosa, del PRI, frente a Andrés Manuel López Obrador
+- D. Andrés Manuel López Obrador frente a Felipe Calderón Hinojosa
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · México
+
+Después de una cerrada y polémica elección, Felipe Calderón Hinojosa del PAN triunfó frente a Andrés Manuel López Obrador en las elecciones de 2006.
+
+### 599
+
+De acuerdo con el libro de Historia Universal, ¿qué acción emprendió el gobierno de Calderón?
+
+- A. La lucha armada contra los cárteles del narcotráfico
+- B. La privatización del petróleo y la electricidad
+- C. La reforma migratoria con Estados Unidos
+- D. El ingreso de México al Mercado Común del Sur
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · México
+
+Entre las acciones emprendidas por este gobierno se encuentra la lucha armada contra los cárteles del narcotráfico.
+
+### 600
+
+De acuerdo con el libro de Historia Universal, ¿qué epidemia enfrentó el país?
+
+- A. La Influenza H1N1
+- B. El cólera
+- C. El dengue
+- D. La fiebre amarilla
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 279
+**Subtema:** La primera década en América · México
+
+El país enfrentó una epidemia de la Influenza H1N1.
+
+---
+
+**Reactivos en este archivo:** 600
