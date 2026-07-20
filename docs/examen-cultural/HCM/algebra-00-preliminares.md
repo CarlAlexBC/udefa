@@ -40,16 +40,17 @@ valioso y probable en el examen. Se documenta por si se decide separarla.
 
 ## Cobertura actual
 
-Cubiertas las **páginas impresas 5 a 10 y 13 a 14**: concepto de álgebra y
+Cubiertas las **páginas impresas 5 a 10 y 13 a 15**: concepto de álgebra y
 notación, exponente, base, radical y coeficiente, signos de relación y
 agrupación, cantidades positivas y negativas, elección del sentido positivo, el
 cero, valor absoluto y relativo, cantidades aritméticas y algebraicas, y el
-arranque de la nomenclatura algebraica.
+nomenclatura algebraica, los cuatro elementos de un término, el grado absoluto y
+con relación a una letra, y las seis clases de términos.
 
 Las páginas 11 y 12 son íntegramente los ejercicios 1, 2 y 3: **sin teoría nueva
 de la que salgan reactivos**.
 
-**Pendiente:** de la página 15 en adelante de Preliminares, y los capítulos I–VI
+**Pendiente:** de la página 16 en adelante de Preliminares, y los capítulos I–VI
 completos (pp. 40–111).
 
 ## Criterio: teoría sobre práctica
@@ -790,4 +791,215 @@ TÉRMINO es una expresión algebraica que consta de un solo símbolo o de varios
 
 ---
 
-**Reactivos en este archivo:** 45
+## Sub-lote 10 · Elementos de un término (art. 18, pp. 15)
+
+### 46
+
+De acuerdo con el libro de Álgebra, ¿cuáles son los cuatro elementos de un término?
+
+- A. El signo, el coeficiente, la parte literal y el grado
+- B. El signo, el exponente, la base y el radical
+- C. El coeficiente, la parte literal, el exponente y el radical
+- D. El signo, el coeficiente, el numerador y el denominador
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · elementos de un término
+
+Los elementos de un término son cuatro: el signo, el coeficiente, la parte literal y el grado.
+
+### 47
+
+De acuerdo con el libro de Álgebra, ¿qué ocurre cuando un término no va precedido de ningún signo?
+
+- A. Es positivo
+- B. Es negativo
+- C. Carece de valor relativo
+- D. Su grado es cero
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · elementos de un término
+
+El signo + suele omitirse delante de los términos positivos. Así, a equivale a +a; 3ab equivale a +3ab. Por tanto, cuando un término no va precedido de ningún signo es positivo.
+
+### 48
+
+De acuerdo con el libro de Álgebra, ¿qué es el coeficiente de un término?
+
+- A. Es uno cualquiera, generalmente el primero, de los factores del término
+- B. Es la suma de los exponentes de sus factores literales
+- C. Son las letras que haya en el término
+- D. Es el signo que precede al término
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · elementos de un término
+
+El coeficiente, como se dijo antes, es uno cualquiera, generalmente el primero, de los factores del término. Así, en el término 5a el coeficiente es 5; en −3a²x³ el coeficiente es −3.
+
+### 49
+
+De acuerdo con el libro de Álgebra, ¿qué constituye la parte literal de un término?
+
+- A. Las letras que haya en el término
+- B. Los números que haya en el término
+- C. El primero de los factores del término
+- D. La suma de los exponentes del término
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · elementos de un término
+
+La parte literal la constituyen las letras que haya en el término. Así, en 5xy la parte literal es xy.
+
+---
+
+## Sub-lote 11 · El grado de un término (art. 19, pp. 15)
+
+### 50
+
+De acuerdo con el libro de Álgebra, ¿de qué dos clases puede ser el grado de un término?
+
+- A. Absoluto y con relación a una letra
+- B. Entero y fraccionario
+- C. Racional e irracional
+- D. Homogéneo y heterogéneo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · grado de un término
+
+EL GRADO DE UN TÉRMINO puede ser de dos clases: absoluto y con relación a una letra.
+
+### 51
+
+De acuerdo con el libro de Álgebra, ¿qué es el grado absoluto de un término?
+
+- A. La suma de los exponentes de sus factores literales
+- B. El exponente de la letra a la que se hace relación
+- C. El número de factores literales que tiene el término
+- D. El valor del coeficiente del término
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · grado de un término
+
+Grado absoluto de un término es la suma de los exponentes de sus factores literales.
+
+### 52
+
+De acuerdo con el libro de Álgebra, ¿qué es el grado de un término con relación a una letra?
+
+- A. El exponente de dicha letra
+- B. La suma de los exponentes de todos sus factores literales
+- C. El coeficiente que acompaña a dicha letra
+- D. El número de veces que aparece dicha letra
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · grado de un término
+
+El grado de un término con relación a una letra es el exponente de dicha letra. Así el término bx³ es de primer grado con relación a b y de tercer grado con relación a x.
+
+> Los reactivos 51 y 52 son el par que hay que distinguir: el grado **absoluto**
+> suma todos los exponentes; el grado **con relación a una letra** es sólo el
+> exponente de esa letra. El artículo 19 existe para separarlos.
+
+---
+
+## Sub-lote 12 · Clases de términos (art. 20, pp. 15)
+
+### 53
+
+De acuerdo con el libro de Álgebra, ¿qué es un término entero?
+
+- A. El que no tiene denominador literal
+- B. El que no tiene radical
+- C. El que tiene el mismo grado absoluto que otro
+- D. El que va precedido del signo +
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · clases de términos
+
+Término entero es el que no tiene denominador literal como 5a, 6a⁴b³, 2a/5.
+
+### 54
+
+De acuerdo con el libro de Álgebra, ¿qué es un término fraccionario?
+
+- A. El que tiene denominador literal
+- B. El que tiene radical
+- C. El que tiene coeficiente fraccionario
+- D. El que es de distinto grado absoluto que otro
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · clases de términos
+
+Término fraccionario es el que tiene denominador literal como 3a/b.
+
+### 55
+
+De acuerdo con el libro de Álgebra, ¿qué es un término racional?
+
+- A. El que no tiene radical
+- B. El que no tiene denominador literal
+- C. El que tiene coeficiente entero
+- D. El que tiene el mismo grado absoluto que otro
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · clases de términos
+
+Término racional es el que no tiene radical, como los ejemplos anteriores, e irracional el que tiene radical.
+
+### 56
+
+De acuerdo con el libro de Álgebra, ¿qué es un término irracional?
+
+- A. El que tiene radical
+- B. El que tiene denominador literal
+- C. El que no tiene coeficiente
+- D. El que es de distinto grado absoluto que otro
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · clases de términos
+
+Término racional es el que no tiene radical, como los ejemplos anteriores, e irracional el que tiene radical.
+
+### 57
+
+De acuerdo con el libro de Álgebra, ¿qué son los términos homogéneos?
+
+- A. Los que tienen el mismo grado absoluto
+- B. Los que tienen la misma parte literal
+- C. Los que tienen el mismo coeficiente
+- D. Los que van precedidos del mismo signo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · clases de términos
+
+Términos homogéneos son los que tienen el mismo grado absoluto. Así, 4x⁴y y 6x²y³ son homogéneos porque ambos son de quinto grado absoluto.
+
+### 58
+
+De acuerdo con el libro de Álgebra, ¿qué son los términos heterogéneos?
+
+- A. Los de distinto grado absoluto
+- B. Los de distinta parte literal
+- C. Los de distinto coeficiente
+- D. Los que tienen radical
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 15
+**Subtema:** Preliminares · clases de términos
+
+Términos heterogéneos son los de distinto grado absoluto, como 5a, que es de primer grado, y 3a², que es de segundo grado.
+
+---
+
+**Reactivos en este archivo:** 58
