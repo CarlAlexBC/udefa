@@ -40,6 +40,13 @@ Bloque 1 "Proceso comunicativo", solo los dos subtemas del desarrollo temático:
 Quedan fuera el planteamiento didáctico (propósito, situación, secuencia) y la
 evaluación del bloque: no son contenido de examen.
 
+## Cobertura actual
+
+**Alcance cubierto por completo.** Los dos subtemas del bloque 1, páginas 5–15:
+tipos de lenguaje, elementos del proceso comunicativo y funciones del lenguaje.
+
+**Pendiente:** ninguno. El bloque 1 está cerrado.
+
 ## Cómo se escriben estos reactivos
 
 Formato del Anexo "H" de la convocatoria 2026. El examen cultural evalúa

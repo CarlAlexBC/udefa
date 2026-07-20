@@ -38,6 +38,15 @@ definiciones literales del álgebra (término, coeficiente, grado, monomio,
 polinomio, valor numérico…), que son el contenido de recuerdo literal más
 valioso y probable en el examen. Se documenta por si se decide separarla.
 
+## Cobertura actual
+
+Cubiertas las **páginas impresas 5 a 8**: concepto de álgebra y notación,
+exponente, base, radical y coeficiente, y los signos de relación y agrupación.
+
+**Pendiente:** el resto de Preliminares (pp. 9–39) y los capítulos I–VI completos
+(pp. 40–111), que a la fecha no tienen ningún reactivo escrito. Es la materia más
+atrasada del banco.
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal, formato del Anexo "H". El reactivo reproduce el libro

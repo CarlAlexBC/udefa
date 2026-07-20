@@ -43,6 +43,8 @@ Regiones geomorfológicas y por tanto fuera de este temario.
 **Alcance cubierto por completo.** Páginas 69–79, que es todo lo que el temario
 pide del capítulo 3.
 
+**Pendiente:** ninguno. El alcance del capítulo 3 está cerrado.
+
 ---
 
 ## Sub-lote 1 · Sierra Madre Occidental

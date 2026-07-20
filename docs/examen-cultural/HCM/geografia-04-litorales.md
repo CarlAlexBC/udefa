@@ -20,7 +20,8 @@ hoja, no se calcularon.
 
 **Capítulo completo.** Páginas 91–96: generalidades, las cuatro secciones del
 océano Pacífico, las costas del Golfo de México y las del Mar de las Antillas.
-No queda nada pendiente de este capítulo.
+
+**Pendiente:** ninguno. El capítulo 4 está cerrado.
 
 ---
 

@@ -40,6 +40,8 @@ Pacífico, el Golfo de México, el Mar de las Antillas y los lagos.
 La página 99 es la fig. 5.1, un mapa de ubicación sin texto del que no salen
 reactivos de cita literal.
 
+**Pendiente:** ninguno. El capítulo 5 está cerrado.
+
 ---
 
 ## Sub-lote 1 · Origen de las islas

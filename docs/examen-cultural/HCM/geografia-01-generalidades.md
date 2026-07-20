@@ -31,6 +31,13 @@ consecuencias de la situación geográfica y red geodésica nacional activa.
 | División política | 28 |
 | Representación cartográfica | 28–31 |
 
+## Cobertura actual
+
+**Alcance cubierto por completo.** Los cuatro subtemas que pide el temario,
+páginas 17–31.
+
+**Pendiente:** ninguno. El alcance del capítulo 1 está cerrado.
+
 ## Cómo se escriben estos reactivos
 
 Formato del Anexo "H" de la convocatoria 2026. El examen cultural evalúa

@@ -26,6 +26,13 @@ Bloque 3 "Proceso de escritura", subtemas 3.1, 3.2 y 3.3:
 El índice trae un segundo "3.3 Propiedades de la redacción" en la p76 (parece
 error de numeración del libro, sería 3.4); queda fuera del alcance del temario.
 
+## Cobertura actual
+
+**Alcance cubierto por completo.** Los tres subtemas del bloque 3, páginas
+47–75: sintaxis, acentuación completa y puntuación.
+
+**Pendiente:** ninguno. El bloque 3 está cerrado.
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal, formato del Anexo "H". El reactivo reproduce el libro
