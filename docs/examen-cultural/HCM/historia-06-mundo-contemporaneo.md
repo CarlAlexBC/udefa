@@ -62,7 +62,10 @@ Unión Europea y el ataque de las Torres Gemelas. La 268 arranca cerrando la
 oración sobre México que venía de la 267, así que sus primeros reactivos
 pertenecen al apartado anterior.
 
-**Pendiente:** de la 272 en adelante, empezando por "La invasión a Irak".
+Cubiertas también las páginas 272–275: la invasión a Irak, las potencias
+emergentes, China, India y Rusia.
+
+**Pendiente:** de la 276 en adelante.
 
 ## Verificación de transcripción (19 jul 2026)
 
@@ -101,6 +104,14 @@ si el examen real la corrige.
 | Pág. 218, pie de figura 51 | David Ben *Curión* | Ben Gurión (así en el cuerpo) |
 | Pág. 219, pie del mapa 22 | Plan de *participación* | Plan de Partición (así en el cuerpo) |
 | Pág. 223 | *Koffi* Annan, *Uthant* | Kofi Annan, U Thant |
+| Pág. 272 | *Kirkul* | Kirkuk |
+| Pág. 273 | muerte de Mao Tse Tung en *1975* | 1976 |
+| Pág. 274 | Indira Gandhi asesinada en *1994* | 1984 |
+| Pág. 274 | *Ayal Vijari* Vajpayee, *Narasimba* Rao | Atal Bihari Vajpayee, Narasimha Rao |
+
+Las dos fechas de la 273 y 274 no son erratas de ortografía sino **de dato**.
+Mismo criterio: no se hace reactivo de ellas, porque el aspirante que las
+memorice va a fallar si el examen real usa la fecha correcta.
 | Pág. 244 | cumbre Bush-*Gorvachov* y, tres renglones después, *Gorbachov* | Gorbachov (así en la segunda mención) |
 | Pág. 245, leyenda del mapa 26 | *Ataquea* aéreos | Ataques aéreos |
 | Pág. 250, pie de la figura 60 | Mijail S. *Gorvachov* | Gorbachov (así en el cuerpo) |
@@ -7997,4 +8008,444 @@ Los atentados no sólo tuvieron repercusiones inmediatas en el ámbito internaci
 
 ---
 
-**Reactivos en este archivo:** 509
+## Sub-lote 43 · La invasión a Irak
+
+### 510
+
+De acuerdo con el libro de Historia Universal, ¿cuántos efectivos británicos y estadounidenses ingresaron al territorio iraquí y por cuántos hombres estaba defendido?
+
+- A. Unos 90 mil efectivos, contra cerca de 400 mil hombres
+- B. Unos 400 mil efectivos, contra cerca de 90 mil hombres
+- C. Unos 90 mil efectivos, contra cerca de 40 mil hombres
+- D. Unos 28 mil efectivos, contra cerca de 400 mil hombres
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 272
+**Subtema:** La llegada del siglo XXI · invasión a Irak
+
+Unos 90 mil efectivos británicos y estadounidenses ingresaron al territorio enemigo, defendido por cerca de 400 mil hombres.
+
+### 511
+
+De acuerdo con el libro de Historia Universal, ¿desde dónde penetró por el sur la ofensiva contra Irak, con el objetivo de ocupar Basora?
+
+- A. Desde Kuwait
+- B. Desde Turquía
+- C. Desde Arabia Saudita
+- D. Desde Um Qasr
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 272
+**Subtema:** La llegada del siglo XXI · invasión a Irak
+
+Con el objetivo de ocupar la meridional ciudad de Basora, la ofensiva penetró por el sur, desde Kuwait.
+
+### 512
+
+De acuerdo con el libro de Historia Universal, ¿por qué la coalición no pudo emplazarse por el norte y quién apoyó el ataque en ese punto?
+
+- A. Porque Turquía no lo permitió, y el ataque fue apoyado por los kurdos
+- B. Porque Irán no lo permitió, y el ataque fue apoyado por los kurdos
+- C. Porque Turquía no lo permitió, y el ataque fue apoyado por los saudíes
+- D. Porque Kuwait no lo permitió, y el ataque fue apoyado por los kurdos
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 272
+**Subtema:** La llegada del siglo XXI · invasión a Irak
+
+Por el norte, debido a que Turquía no permitió que la coalición se emplazara por este punto, el ataque contra Kirkul y Mosul fue apoyado por los kurdos.
+
+### 513
+
+De acuerdo con el libro de Historia Universal, ¿qué ciudad se describe como el puerto clave para la invasión, donde la resistencia fue mayor a la esperada?
+
+- A. Um Qasr
+- B. Nasiriyah
+- C. Basora
+- D. Mosul
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 272
+**Subtema:** La llegada del siglo XXI · invasión a Irak
+
+En Basora, en Um Qasr (puerto clave para la invasión) y en Nasiriyah (a orillas del río Éufrates), la resistencia fue mayor a la esperada.
+
+### 514
+
+De acuerdo con el libro de Historia Universal, ¿qué tipo de armamento se utilizó en la gran ofensiva contra Bagdad para penetrar blindajes?
+
+- A. Bombas de fragmentación y municiones recubiertas de uranio
+- B. Armas químicas y bacteriológicas
+- C. Bombas de fragmentación y armas nucleares tácticas
+- D. Municiones recubiertas de plomo y bombas incendiarias
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 272
+**Subtema:** La llegada del siglo XXI · invasión a Irak
+
+La gran ofensiva contra Bagdad, la capital, incluyó aviones, helicópteros, artillería, tanques de guerra, infantería, y se utilizaron bombas de fragmentación y municiones recubiertas de uranio para penetrar blindajes, entre otros explosivos.
+
+### 515
+
+De acuerdo con el libro de Historia Universal, ¿en qué fechas ocuparon los invasores el aeropuerto capitalino y cayó la ciudad de Bagdad?
+
+- A. El 3 de abril el aeropuerto y el 9 del mismo mes la ciudad
+- B. El 9 de abril el aeropuerto y el 3 de mayo la ciudad
+- C. El 3 de abril el aeropuerto y el 19 del mismo mes la ciudad
+- D. El 2 de agosto el aeropuerto y el 9 de abril la ciudad
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 272
+**Subtema:** La llegada del siglo XXI · invasión a Irak
+
+Así, entre fuertes combates, el 3 de abril los invasores ocuparon el aeropuerto capitalino. Finalmente, el 9 del mismo mes, destruidas las instalaciones de los radares y los centros militares, entre otros lugares, la ciudad cayó en poder de las tropas coaligadas.
+
+### 516
+
+De acuerdo con el libro de Historia Universal, ¿quién controla la producción petrolera de Irak desde el derrocamiento de Hussein?
+
+- A. Las grandes empresas trasnacionales
+- B. El Partido Baas Árabe y Socialista
+- C. La Organización de Países Exportadores de Petróleo
+- D. El gobierno soberano iraquí
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 272
+**Subtema:** La llegada del siglo XXI · invasión a Irak
+
+Desde ese entonces las grandes empresas trasnacionales controlan la producción petrolera de Irak.
+
+---
+
+## Sub-lote 44 · Las potencias emergentes
+
+### 517
+
+De acuerdo con el libro de Historia Universal, ¿qué países se identifican como las potencias emergentes hacia el año 2011?
+
+- A. Brasil, Rusia, India y China
+- B. Brasil, Rusia, India y Japón
+- C. China, India, Corea del Sur y Taiwán
+- D. Brasil, México, India y China
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 272
+**Subtema:** La llegada del siglo XXI · potencias emergentes
+
+Hacia el año 2011, Brasil, Rusia, India y China tienen en común una gran población (China e India arriba de los 1100 millones; Rusia y Brasil sobre los 140 millones), un enorme territorio (casi 38.5 millones de km²).
+
+### 518
+
+De acuerdo con el libro de Historia Universal, ¿qué extensión territorial suman en conjunto las potencias emergentes?
+
+- A. Casi 38.5 millones de km²
+- B. Casi 28.5 millones de km²
+- C. Casi 48.5 millones de km²
+- D. Casi 18.5 millones de km²
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 272
+**Subtema:** La llegada del siglo XXI · potencias emergentes
+
+Un enorme territorio (casi 38.5 millones de km²) que les provee de grandes dimensiones continentales estratégicas y cantidad de recursos naturales.
+
+---
+
+## Sub-lote 45 · China
+
+### 519
+
+De acuerdo con el libro de Historia Universal, ¿cómo describió un historiador a China en los últimos años del siglo XX?
+
+- A. Como un gigante dormido, políticamente comunista y económicamente capitalista
+- B. Como un gigante despierto, políticamente capitalista y económicamente comunista
+- C. Como una superpotencia consolidada del bloque socialista
+- D. Como el más pequeño de los "cuatro dragones"
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 272
+**Subtema:** La llegada del siglo XXI · China
+
+En los últimos años del siglo XX un historiador escribió que China era como un gigante dormido, con 1200 millones de habitantes, políticamente comunista y económicamente capitalista.
+
+### 520
+
+De acuerdo con el libro de Historia Universal, ¿desde qué año es China la mayor exportadora mundial?
+
+- A. Desde el año 2008
+- B. Desde el año 1997
+- C. Desde el año 2011
+- D. Desde el año 1989
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 273
+**Subtema:** La llegada del siglo XXI · China
+
+Su economía alcanzó tasas de crecimiento sin precedentes y China es, desde el año 2008, la mayor exportadora mundial.
+
+### 521
+
+De acuerdo con el libro de Historia Universal, ¿qué suceso de 1989 provocó sanciones internacionales que frenaron el impulso económico chino?
+
+- A. La matanza de la plaza de Tiananmen
+- B. La devolución de Hong Kong
+- C. La muerte de Mao Tse Tung
+- D. La creación de las zonas industriales especiales
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 273
+**Subtema:** La llegada del siglo XXI · China
+
+Si bien luego de la matanza de la plaza de Tiananmen (1989), las sanciones internacionales frenaron este impulso.
+
+### 522
+
+De acuerdo con el libro de Historia Universal, ¿qué líder del Partido Comunista Chino apostó por un proyecto económico basado en la liberalización del mercado interno?
+
+- A. Deng Xiao Ping
+- B. Mao Tse Tung
+- C. Jawaharlal Nehru
+- D. Vladimir Putin
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 273
+**Subtema:** La llegada del siglo XXI · China
+
+El líder del Partido Comunista Chino Deng Xiao Ping apostó por un proyecto económico basado en la liberalización del mercado interno. En el sureste creó zonas industriales especiales reguladas por los atributos del mercado capitalista.
+
+### 523
+
+De acuerdo con el libro de Historia Universal, ¿en qué año devolvió Inglaterra Hong Kong a China?
+
+- A. En 1997
+- B. En 1989
+- C. En 2008
+- D. En 1975
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 273
+**Subtema:** La llegada del siglo XXI · China
+
+Así, cuando Inglaterra devolvió este pequeño territorio a China (1997), su economía consiguió la riqueza de este gran centro financiero de Asia.
+
+### 524
+
+De acuerdo con el libro de Historia Universal, ¿qué países integran los llamados "cuatro dragones"?
+
+- A. Corea del Sur, Taiwán, Singapur y Hong Kong
+- B. Corea del Sur, Taiwán, Japón y Hong Kong
+- C. China, Taiwán, Singapur y Hong Kong
+- D. Corea del Sur, Taiwán, Singapur y Malasia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 273
+**Subtema:** La llegada del siglo XXI · China
+
+Más estrechamente unidas a la dinámica economía de los Estados del Pacífico, principalmente de los llamados "cuatro dragones": Corea del Sur, Taiwán, Singapur y el propio Hong Kong.
+
+---
+
+## Sub-lote 46 · India
+
+### 525
+
+De acuerdo con el libro de Historia Universal, ¿qué partido impulsó el despegue económico indio desde la independencia de 1947 y quién lo encabezaba?
+
+- A. El Partido del Congreso, encabezado por Jawaharlal Nehru
+- B. El Bharatiya Janata, encabezado por Jawaharlal Nehru
+- C. El Frente Nacional, encabezado por Indira Gandhi
+- D. El Partido del Congreso, encabezado por Rajiv Gandhi
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 273
+**Subtema:** La llegada del siglo XXI · India
+
+Desde la independencia india en 1947, el Partido del Congreso, encabezado por Jawaharlal Nehru y, a su muerte, por Indira Gandhi, impulsó un innegable despegue económico y de estabilidad política dentro de un sistema parlamentario.
+
+### 526
+
+De acuerdo con el libro de Historia Universal, ¿qué coalición conservadora desplazó del poder al Partido del Congreso en 1977?
+
+- A. El Bharatiya Janata
+- B. El Frente Nacional
+- C. El Partido Comunista Indio
+- D. La coalición de Narasimba Rao
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 274
+**Subtema:** La llegada del siglo XXI · India
+
+En 1977 dicho partido fue desplazado del poder por el Bharatiya Janata, una coalición conservadora cuya debilidad propicio el retorno del Partido del Congreso en 1980.
+
+### 527
+
+De acuerdo con el libro de Historia Universal, ¿por qué renunció Sonia Gandhi a la jefatura de gobierno tras ganar las elecciones legislativas de 2004?
+
+- A. Debido a su origen italiano
+- B. Debido a las luchas religiosas entre hinduistas y sijs
+- C. Debido a la deuda externa generada por las reformas
+- D. Debido al litigio con Pakistán por Cachemira
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 274
+**Subtema:** La llegada del siglo XXI · India
+
+En 2004 ganó las elecciones legislativas el partido encabezado por Sonia Gandhi quien, tras renunciar a la jefatura de gobierno debido a su origen italiano, cedió el poder al economista Manmohan Singh.
+
+### 528
+
+De acuerdo con el libro de Historia Universal, ¿qué porcentaje del Producto Interno Bruto proporcionaba la industria india al iniciar el siglo XXI?
+
+- A. El 25%
+- B. El 16%
+- C. El 46%
+- D. El 10%
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 274
+**Subtema:** La llegada del siglo XXI · India
+
+Al iniciar el siglo XXI, la industria india proporcionaba el 25% del Producto Interno Bruto y las manufacturas generaban el 16%.
+
+### 529
+
+De acuerdo con el libro de Historia Universal, ¿en qué se distinguió la industria cinematográfica india en 2002?
+
+- A. Fue la mayor productora de películas del mundo
+- B. Fue la mayor exportadora de películas a Estados Unidos
+- C. Superó al sector algodonero en aportación al PIB
+- D. Fue la única industria india con capital extranjero
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 274
+**Subtema:** La llegada del siglo XXI · India
+
+Estas actividades se completan con las industrias química, del cemento, alimentaria, cinematográfica (mayor productora de películas del mundo en 2002) y mecánica.
+
+### 530
+
+De acuerdo con el libro de Historia Universal, ¿por qué región existe un litigio entre la India y Pakistán?
+
+- A. Por Cachemira, que posee importantes reservas de petróleo
+- B. Por Bengala occidental, donde está el puerto de Calcuta
+- C. Por Tamilnad, al sureste
+- D. Por el Golfo de Omán, donde está Bombay
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 274
+**Subtema:** La llegada del siglo XXI · India
+
+No así con Pakistán, su vecino al noroeste, ya que desde hace tiempo existe un litigio entre ambos por la región de Cachemira, que posee importantes reservas de petróleo.
+
+---
+
+## Sub-lote 47 · Rusia
+
+### 531
+
+De acuerdo con el libro de Historia Universal, ¿qué significan la *Perestroika* y la *Glasnost* impulsadas por Gorbachov?
+
+- A. Reestructuración o renovación, y transparencia en la vida social
+- B. Transparencia en la vida social, y reestructuración o renovación
+- C. Apertura de mercados, y descentralización agrícola
+- D. Renovación política, y competitividad de las empresas del Estado
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 275
+**Subtema:** La llegada del siglo XXI · Rusia
+
+Mijaíl S. Gorbachov se propuso transformar a la Unión de Repúblicas Socialistas Soviéticas (URSS) mediante la *Perestroika* (reestructuración o renovación) y la *Glasnost* (transparencia en la vida social).
+
+### 532
+
+De acuerdo con el libro de Historia Universal, ¿de qué país se anunció el retiro del ejército ruso en 1988?
+
+- A. De Afganistán
+- B. De Checoslovaquia
+- C. De Polonia
+- D. De Georgia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 275
+**Subtema:** La llegada del siglo XXI · Rusia
+
+En 1988 se anunció el retiro del ejército ruso de Afganistán y, un año más tarde, además de iniciarse la descentralización agrícola, tuvieron lugar las primeras elecciones libres participando varios partidos.
+
+### 533
+
+De acuerdo con el libro de Historia Universal, ¿gracias a la intervención de quién no prosperó el intento de golpe de Estado de agosto de 1991?
+
+- A. De Boris Yeltsin, jefe de gobierno de la Federación Rusa
+- B. De Mijaíl S. Gorbachov, presidente de la URSS
+- C. De Vladimir Putin, funcionario de la agencia de inteligencia
+- D. Del vicepresidente del Partido Comunista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 275
+**Subtema:** La llegada del siglo XXI · Rusia
+
+En agosto de 1991 hubo un intento de golpe de Estado encabezado por el vicepresidente del Partido Comunista, mismo que no prosperó gracias a la intervención de Boris Yeltsin, jefe de gobierno de la Federación Rusa, y cuya consecuencia fue la proscripción de dicho partido.
+
+### 534
+
+De acuerdo con el libro de Historia Universal, ¿qué tres repúblicas integraron originalmente la Comunidad de Estados Independientes (CEI)?
+
+- A. Rusia, Ucrania y Bielorrusia
+- B. Rusia, Ucrania y Georgia
+- C. Rusia, Bielorrusia y Kazajstán
+- D. Rusia, Ucrania y Moldava
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 275
+**Subtema:** La llegada del siglo XXI · Rusia
+
+El 8 de diciembre de este año surgió la Comunidad de Estados Independientes (CEI) integrada por las repúblicas de Rusia, Ucrania y Bielorrusia, a las que se unieron las de Moldava, Turkmenia, Tayikistán, Kazajstán, Uzbekistán, Armenia, Azerbaiyán, Kirguizia, faltando sólo la anexión de Georgia.
+
+### 535
+
+De acuerdo con el libro de Historia Universal, ¿qué república faltaba de anexarse a la Comunidad de Estados Independientes?
+
+- A. Georgia
+- B. Moldava
+- C. Kirguizia
+- D. Bielorrusia
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 275
+**Subtema:** La llegada del siglo XXI · Rusia
+
+A las que se unieron las de Moldava, Turkmenia, Tayikistán, Kazajstán, Uzbekistán, Armenia, Azerbaiyán, Kirguizia, faltando sólo la anexión de Georgia.
+
+### 536
+
+De acuerdo con el libro de Historia Universal, ¿qué ocurrió el 25 de diciembre de 1991?
+
+- A. Gorbachov presentó su renuncia, dejando de existir oficialmente la URSS
+- B. Surgió la Comunidad de Estados Independientes
+- C. Yeltsin fue elegido presidente de Rusia
+- D. Se proscribió el Partido Comunista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 275
+**Subtema:** La llegada del siglo XXI · Rusia
+
+El 25 del mismo mes, Gorbachov presentó su renuncia, dejando de existir oficialmente la URSS. Con el tiempo, cada república ha ido constituyendo un país independiente.
+
+### 537
+
+De acuerdo con el libro de Historia Universal, ¿en qué año tomó Vladimir Putin la presidencia de Rusia y cuál era su antecedente?
+
+- A. En el año 2000, funcionario en la extinta agencia de inteligencia soviética
+- B. En 1993, funcionario en la extinta agencia de inteligencia soviética
+- C. En el año 2000, jefe de gobierno de la Federación Rusa
+- D. En 1991, vicepresidente del Partido Comunista
+
+**Respuesta:** A
+**Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 275
+**Subtema:** La llegada del siglo XXI · Rusia
+
+En el año 2000, con los retos de mantener al país como potencia militar y política y crecer económicamente, tomó la presidencia Vladimir Putin, funcionario en la extinta agencia de inteligencia soviética.
+
+---
+
+**Reactivos en este archivo:** 537
