@@ -40,7 +40,7 @@ valioso y probable en el examen. Se documenta por si se decide separarla.
 
 ## Cobertura actual
 
-Cubiertas las **páginas impresas 5 a 10 y 13 a 17**:
+Cubiertas las **páginas impresas 5 a 10 y 13 a 21**:
 
 - Concepto de álgebra, notación, exponente, base, radical y coeficiente.
 - Signos de relación y de agrupación.
@@ -51,11 +51,15 @@ Cubiertas las **páginas impresas 5 a 10 y 13 a 17**:
   términos.
 - Monomio, polinomio, binomio y trinomio; grado de un polinomio; las clases de
   polinomios y qué es ordenar uno.
+- Término independiente con relación a una letra.
+- Términos semejantes y los tres casos de su reducción.
 
-Las páginas 11 y 12 son íntegramente los ejercicios 1, 2 y 3, y la mitad superior
-de la 16 el ejercicio 4: **sin teoría nueva de la que salgan reactivos**.
+Las páginas 11 y 12 son íntegramente los ejercicios 1, 2 y 3; la mitad superior
+de la 16, el ejercicio 4; y buena parte de las 18 a 21, los ejercicios 6 a 9:
+**sin teoría nueva de la que salgan reactivos**. En ese tramo Baldor alterna un
+artículo corto con páginas enteras de práctica.
 
-**Pendiente:** de la página 18 en adelante de Preliminares, y los capítulos I–VI
+**Pendiente:** de la página 22 en adelante de Preliminares, y los capítulos I–VI
 completos (pp. 40–111).
 
 ## Criterio: teoría sobre práctica
@@ -1233,4 +1237,190 @@ ORDENAR UN POLINOMIO es escribir sus términos de modo que los exponentes de una
 
 ---
 
-**Reactivos en este archivo:** 72
+## Sub-lote 15 · Término independiente (art. 26, pp. 18)
+
+### 73
+
+De acuerdo con el libro de Álgebra, ¿qué es el término independiente de un polinomio con relación a una letra?
+
+- A. Es el término que no tiene dicha letra
+- B. Es el término de mayor grado del polinomio
+- C. Es el término que no tiene coeficiente
+- D. Es el término que va precedido del signo −
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 18
+**Subtema:** Preliminares · término independiente
+
+TÉRMINO INDEPENDIENTE DE UN POLINOMIO CON RELACIÓN A UNA LETRA es el término que no tiene dicha letra.
+
+### 74
+
+De acuerdo con el libro de Álgebra, ¿por qué puede considerarse que el término independiente tiene esa letra con exponente cero?
+
+- A. Porque toda cantidad elevada a cero equivale a 1
+- B. Porque toda cantidad elevada a cero equivale a 0
+- C. Porque el exponente cero anula la parte literal
+- D. Porque el término independiente carece de coeficiente
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 18
+**Subtema:** Preliminares · término independiente
+
+El término independiente con relación a una letra puede considerarse que tiene esa letra con exponente cero, porque como se verá más adelante, toda cantidad elevada a cero equivale a 1.
+
+---
+
+## Sub-lote 16 · Términos semejantes (art. 27, pp. 19)
+
+### 75
+
+De acuerdo con el libro de Álgebra, ¿cuándo son semejantes dos o más términos?
+
+- A. Cuando tienen la misma parte literal, o sea, iguales letras afectadas de iguales exponentes
+- B. Cuando tienen el mismo coeficiente
+- C. Cuando tienen el mismo grado absoluto
+- D. Cuando van precedidos del mismo signo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 19
+**Subtema:** Preliminares · términos semejantes
+
+Dos o más términos son semejantes cuando tienen la misma parte literal, o sea, cuando tienen iguales letras afectadas de iguales exponentes.
+
+### 76
+
+De acuerdo con el libro de Álgebra, ¿por qué los términos 4ab y −6a²b no son semejantes?
+
+- A. Porque aunque tienen iguales letras, éstas no tienen los mismos exponentes
+- B. Porque aunque tienen los mismos exponentes, las letras no son iguales
+- C. Porque tienen distinto coeficiente
+- D. Porque van precedidos de signos distintos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 19
+**Subtema:** Preliminares · términos semejantes
+
+Los términos 4ab y −6a²b no son semejantes, porque aunque tienen iguales letras, éstas no tienen los mismos exponentes, ya que la a del primero tiene de exponente 1 y la a del segundo tiene de exponente 2.
+
+### 77
+
+De acuerdo con el libro de Álgebra, ¿por qué los términos −bx⁴ y ab⁴ no son semejantes?
+
+- A. Porque aunque tienen los mismos exponentes, las letras no son iguales
+- B. Porque aunque tienen iguales letras, los exponentes no son los mismos
+- C. Porque uno tiene coeficiente y el otro no
+- D. Porque tienen distinto grado absoluto
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 19
+**Subtema:** Preliminares · términos semejantes
+
+Los términos −bx⁴ y ab⁴ no son semejantes, porque aunque tienen los mismos exponentes, las letras no son iguales.
+
+> Los reactivos 76 y 77 son el par contrapuesto del artículo 27: en uno fallan
+> los **exponentes** y en el otro fallan las **letras**. Baldor pone los dos
+> ejemplos seguidos precisamente para cubrir las dos formas de no ser semejante.
+
+---
+
+## Sub-lote 17 · Reducción de términos semejantes (art. 28, pp. 19–21)
+
+### 78
+
+De acuerdo con el libro de Álgebra, ¿qué objeto tiene la reducción de términos semejantes?
+
+- A. Convertir en un solo término dos o más semejantes
+- B. Separar un término en sus factores literales
+- C. Ordenar los términos según su letra ordenatriz
+- D. Eliminar los denominadores literales del polinomio
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 19
+**Subtema:** Preliminares · reducción de términos semejantes
+
+REDUCCIÓN DE TÉRMINOS SEMEJANTES es una operación que tiene por objeto convertir en un solo término dos o más semejantes.
+
+### 79
+
+De acuerdo con el libro de Álgebra, ¿cuántos casos pueden ocurrir en la reducción de términos semejantes?
+
+- A. Tres
+- B. Dos
+- C. Cuatro
+- D. Seis
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 19
+**Subtema:** Preliminares · reducción de términos semejantes
+
+En la reducción de términos semejantes pueden ocurrir los tres casos siguientes.
+
+### 80
+
+De acuerdo con el libro de Álgebra, ¿cuál es la regla para reducir dos o más términos semejantes del mismo signo?
+
+- A. Se suman los coeficientes, poniendo delante de esta suma el mismo signo que tienen todos y a continuación se escribe la parte literal
+- B. Se restan los coeficientes, poniendo delante de esta diferencia el signo del mayor y a continuación la parte literal
+- C. Se suman los exponentes y se conserva el coeficiente
+- D. Se reducen primero los positivos y después los negativos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 19
+**Subtema:** Preliminares · reducción de términos semejantes
+
+Reducción de dos o más términos semejantes del mismo signo. REGLA: Se suman los coeficientes, poniendo delante de esta suma el mismo signo que tienen todos y a continuación se escribe la parte literal.
+
+### 81
+
+De acuerdo con el libro de Álgebra, ¿cuál es la regla para reducir dos términos semejantes de distinto signo?
+
+- A. Se restan los coeficientes, poniendo delante de esta diferencia el signo del mayor y a continuación se escribe la parte literal
+- B. Se suman los coeficientes, poniendo delante de esta suma el mismo signo que tienen todos
+- C. Se restan los exponentes y se conserva la parte literal
+- D. Se anulan siempre, cualquiera que sea el coeficiente
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 20
+**Subtema:** Preliminares · reducción de términos semejantes
+
+Reducción de dos términos semejantes de distinto signo. REGLA: Se restan los coeficientes, poniendo delante de esta diferencia el signo del mayor y a continuación se escribe la parte literal.
+
+### 82
+
+De acuerdo con el libro de Álgebra, ¿qué se deduce de la regla de reducción de dos términos semejantes de distinto signo?
+
+- A. Que dos términos semejantes de iguales coeficientes y de signo contrario se anulan
+- B. Que dos términos semejantes de iguales coeficientes se suman siempre
+- C. Que el signo del resultado es siempre negativo
+- D. Que la parte literal desaparece al reducirlos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 20
+**Subtema:** Preliminares · reducción de términos semejantes
+
+De la regla anterior se deduce que dos términos semejantes de iguales coeficientes y de signo contrario se anulan.
+
+### 83
+
+De acuerdo con el libro de Álgebra, ¿cuál es la regla para reducir más de dos términos semejantes de signos distintos?
+
+- A. Se reducen a un solo término todos los positivos, se reducen a un solo término todos los negativos y a los dos resultados obtenidos se aplica la regla del caso anterior
+- B. Se suman todos los coeficientes y se conserva el signo del mayor
+- C. Se restan los coeficientes de dos en dos hasta agotar los términos
+- D. Se anulan los de signo contrario y se suman los restantes
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 21
+**Subtema:** Preliminares · reducción de términos semejantes
+
+Reducción de más de dos términos semejantes de signos distintos. REGLA: Se reducen a un solo término todos los positivos, se reducen a un solo término todos los negativos y a los dos resultados obtenidos se aplica la regla del caso anterior.
+
+> Los tres casos del artículo 28 se distinguen por **cuántos** términos y de
+> **qué signos**: mismo signo se suman, dos de distinto signo se restan, y más de
+> dos de signos distintos se agrupan primero por signo. Los reactivos 80, 81 y 83
+> usan las reglas de los otros dos casos como distractores.
+
+---
+
+**Reactivos en este archivo:** 83
