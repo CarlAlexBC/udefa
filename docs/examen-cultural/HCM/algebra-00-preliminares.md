@@ -40,14 +40,16 @@ valioso y probable en el examen. Se documenta por si se decide separarla.
 
 ## Cobertura actual
 
-Cubiertas las **páginas impresas 5 a 10**: concepto de álgebra y notación,
-exponente, base, radical y coeficiente, signos de relación y agrupación,
-cantidades positivas y negativas, elección del sentido positivo y el cero.
+Cubiertas las **páginas impresas 5 a 10 y 13 a 14**: concepto de álgebra y
+notación, exponente, base, radical y coeficiente, signos de relación y
+agrupación, cantidades positivas y negativas, elección del sentido positivo, el
+cero, valor absoluto y relativo, cantidades aritméticas y algebraicas, y el
+arranque de la nomenclatura algebraica.
 
 Las páginas 11 y 12 son íntegramente los ejercicios 1, 2 y 3: **sin teoría nueva
 de la que salgan reactivos**.
 
-**Pendiente:** de la página 13 en adelante de Preliminares, y los capítulos I–VI
+**Pendiente:** de la página 15 en adelante de Preliminares, y los capítulos I–VI
 completos (pp. 40–111).
 
 ## Criterio: teoría sobre práctica
@@ -592,4 +594,200 @@ Mientras que de dos cantidades negativas es mayor la de menor valor absoluto: �
 
 ---
 
-**Reactivos en este archivo:** 33
+## Sub-lote 7 · Valor absoluto y valor relativo (art. 14, pp. 13)
+
+### 34
+
+De acuerdo con el libro de Álgebra, ¿qué es el valor absoluto de una cantidad?
+
+- A. El número que representa la cantidad prescindiendo del signo o sentido de la cantidad
+- B. El sentido de la cantidad, representado por el signo
+- C. El número que representa la cantidad incluyendo su signo
+- D. La diferencia entre la cantidad y el cero
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 13
+**Subtema:** Preliminares · valor absoluto y relativo
+
+Valor absoluto de una cantidad es el número que representa la cantidad prescindiendo del signo o sentido de la cantidad, y valor relativo es el sentido de la cantidad, representado por el signo.
+
+### 35
+
+De acuerdo con el libro de Álgebra, ¿qué es el valor relativo de una cantidad?
+
+- A. El sentido de la cantidad, representado por el signo
+- B. El número que representa la cantidad prescindiendo del signo
+- C. El valor de la cantidad comparado con el cero
+- D. El número encerrado entre dos líneas verticales
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 13
+**Subtema:** Preliminares · valor absoluto y relativo
+
+Valor relativo es el sentido de la cantidad, representado por el signo.
+
+### 36
+
+De acuerdo con el libro de Álgebra, ¿qué relación guardan las cantidades +7° y −7°?
+
+- A. Tienen el mismo valor absoluto, pero su valor relativo es opuesto
+- B. Tienen el mismo valor relativo, pero distinto valor absoluto
+- C. Tienen el mismo valor absoluto y el mismo valor relativo
+- D. Tienen distinto valor absoluto y distinto valor relativo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 13
+**Subtema:** Preliminares · valor absoluto y relativo
+
+Las cantidades +7° y −7° tienen el mismo valor absoluto, pero su valor relativo es opuesto, pues el primero expresa grados sobre cero y el segundo bajo cero.
+
+### 37
+
+De acuerdo con el libro de Álgebra, ¿qué relación guardan las cantidades −8° y −11°?
+
+- A. Tienen el mismo valor relativo y distinto valor absoluto
+- B. Tienen el mismo valor absoluto y distinto valor relativo
+- C. Tienen el mismo valor absoluto y el mismo valor relativo
+- D. Tienen distinto valor absoluto y distinto valor relativo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 13
+**Subtema:** Preliminares · valor absoluto y relativo
+
+−8° y −11° tienen el mismo valor relativo (grados bajo cero) y distinto valor absoluto.
+
+> Los reactivos 36 y 37 son el par contrapuesto: en uno coincide el valor
+> absoluto y en el otro el relativo. El libro los presenta seguidos justo para
+> marcar la diferencia.
+
+### 38
+
+De acuerdo con el libro de Álgebra, ¿cómo se representa el valor absoluto de una cantidad algebraica cualquiera?
+
+- A. Colocando el número que corresponda a dicho valor entre dos líneas verticales
+- B. Anteponiendo al número el signo +
+- C. Encerrando el número entre paréntesis
+- D. Colocando el número sin signo alguno
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 13
+**Subtema:** Preliminares · valor absoluto y relativo
+
+El valor absoluto de una cantidad algebraica cualquiera se representa colocando el número que corresponda a dicho valor entre dos líneas verticales. Así, el valor absoluto de +8 se representa |8|.
+
+---
+
+## Sub-lote 8 · Cantidades aritméticas y algebraicas (art. 15, pp. 13–14)
+
+### 39
+
+De acuerdo con el libro de Álgebra, ¿qué expresan las cantidades aritméticas?
+
+- A. Solamente el valor absoluto de las cantidades, pero no su sentido o valor relativo
+- B. El valor absoluto y además el sentido o valor relativo
+- C. Solamente el sentido o valor relativo de las cantidades
+- D. Únicamente cantidades mayores que cero
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 13
+**Subtema:** Preliminares · cantidades aritméticas y algebraicas
+
+Cantidades aritméticas son las que expresan solamente el valor absoluto de las cantidades representado por los números, pero no nos dicen el sentido o valor relativo de las cantidades.
+
+### 40
+
+De acuerdo con el libro de Álgebra, ¿qué expresan las cantidades algebraicas?
+
+- A. El valor absoluto de las cantidades y además su sentido o valor relativo por medio del signo
+- B. Solamente el valor absoluto de las cantidades
+- C. Solamente el sentido de las cantidades
+- D. El valor absoluto únicamente cuando la cantidad es positiva
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 14
+**Subtema:** Preliminares · cantidades aritméticas y algebraicas
+
+Cantidades algebraicas son las que expresan el valor absoluto de las cantidades y además su sentido o valor relativo por medio del signo.
+
+### 41
+
+De acuerdo con el libro de Álgebra, ¿cuáles son las dos aplicaciones que tienen en Álgebra los signos + y −?
+
+- A. Indicar las operaciones de suma y resta, e indicar el sentido o condición de las cantidades
+- B. Indicar el valor absoluto e indicar el valor relativo
+- C. Indicar la multiplicación e indicar la división
+- D. Separar términos y agrupar expresiones
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 14
+**Subtema:** Preliminares · cantidades aritméticas y algebraicas
+
+Los signos + y − tienen en Álgebra dos aplicaciones: una, indicar las operaciones de suma y resta, y otra, indicar el sentido o condición de las cantidades.
+
+### 42
+
+De acuerdo con el libro de Álgebra, ¿cómo se distingue que los signos + o − tienen la significación de suma o resta?
+
+- A. Porque van entre términos o expresiones incluidas en paréntesis
+- B. Porque van precediendo a un término literal o numérico
+- C. Porque van encerrados entre dos líneas verticales
+- D. Porque van al final de la expresión
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 14
+**Subtema:** Preliminares · cantidades aritméticas y algebraicas
+
+Esta doble aplicación se distingue porque cuando los signos + o − tienen la significación de suma o resta, van entre términos o expresiones incluidas en paréntesis, como por ejemplo en (+8) + (−4) y en (−7) − (+6).
+
+### 43
+
+De acuerdo con el libro de Álgebra, ¿qué expresan los signos + o − cuando van precediendo a un término, ya sea literal o numérico?
+
+- A. El sentido positivo o negativo
+- B. Las operaciones de suma y resta
+- C. El valor absoluto del término
+- D. La agrupación del término
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 14
+**Subtema:** Preliminares · cantidades aritméticas y algebraicas
+
+Cuando van precediendo a un término, ya sea literal o numérico, expresan el sentido positivo o negativo, como por ejemplo en −a, +b, +7, −8.
+
+---
+
+## Sub-lote 9 · Nomenclatura algebraica (arts. 17–18, pp. 14)
+
+### 44
+
+De acuerdo con el libro de Álgebra, ¿qué es una expresión algebraica?
+
+- A. La representación de un símbolo algebraico o de una o más operaciones algebraicas
+- B. La representación por medio de letras de una regla o principio general
+- C. Un conjunto de símbolos separados por los signos + o −
+- D. El número que representa una cantidad prescindiendo del signo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 14
+**Subtema:** Preliminares · nomenclatura algebraica
+
+EXPRESIÓN ALGEBRAICA es la representación de un símbolo algebraico o de una o más operaciones algebraicas.
+
+### 45
+
+De acuerdo con el libro de Álgebra, ¿qué es un término?
+
+- A. Una expresión algebraica que consta de un solo símbolo o de varios símbolos no separados entre sí por el signo + o −
+- B. Una expresión algebraica que consta de dos o más símbolos separados por los signos + o −
+- C. La representación de una regla o principio general por medio de letras
+- D. El signo que precede a una cantidad
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 14
+**Subtema:** Preliminares · nomenclatura algebraica
+
+TÉRMINO es una expresión algebraica que consta de un solo símbolo o de varios símbolos no separados entre sí por el signo + o −. Así, a, 3b, 2xy, 4a/3x, son términos.
+
+---
+
+**Reactivos en este archivo:** 45
