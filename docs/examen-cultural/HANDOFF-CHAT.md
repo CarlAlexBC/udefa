@@ -26,6 +26,23 @@ Cómo trabajar con él, en corto:
 
 ---
 
+## Dónde está todo
+
+| Qué | Ruta |
+|---|---|
+| Reactivos escritos | `docs/examen-cultural/HCM/*.md` |
+| Herramientas | `docs/examen-cultural/render.py` y `crop.py` |
+| Libros escaneados | `examen_cultural/libros_examen_cultural/HCM/` |
+| Temarios oficiales | `examen_cultural/temarios_de_escuelas/HCM/` |
+
+Los libros y la convocatoria **están en `.gitignore`** — son ~300 MB de PDF y
+documentos con derechos. Si no los tienes en tu copia, pídeselos a Carlo.
+
+Los PNG que generan `render.py` y `crop.py` también están ignorados, así que no
+ensucian el árbol aunque se queden ahí.
+
+---
+
 ## Qué es este bloque
 
 Reactivos del **examen cultural** del Heroico Colegio Militar, escritos a partir
@@ -52,16 +69,34 @@ del libro**, no una paráfrasis.
 
 ### Lo que falta de Álgebra
 
-Es la materia viva. Va por la página impresa 28.
+Es la materia viva. Va por la página impresa 28, último reactivo escrito el 95.
 
-| Tramo | Estado |
-|---|---|
-| Preliminares pp. 5–10, 13–26, 28 | hecho |
-| Preliminares pp. 29–39 | **siguiente** |
-| Caps. I–VI, pp. 40–111 | sin empezar |
+| Tramo | Páginas impresas | Estado |
+|---|---|---|
+| Preliminares | 5–10, 13–26, 28 | hecho |
+| Preliminares | **29–39** | **siguiente** |
+| I · Suma | 40–45 | sin empezar |
+| II · Resta | 46–57 | sin empezar |
+| III · Signos de agrupación | 58–62 | sin empezar |
+| IV · Multiplicación | 63–78 | sin empezar |
+| V · División | 79–96 | sin empezar |
+| VI · Productos y cocientes notables | 97–111 | sin empezar |
+
+**El desfase de Álgebra es +8**: hoja del PDF 17 = página impresa 9. Para
+arrancar en la página impresa 29, renderiza desde la **hoja 37**.
+
+```
+python docs/examen-cultural/render.py "examen_cultural/libros_examen_cultural/HCM/Álgebra de Baldor.pdf" 37 46 110
+```
 
 El encabezado de `HCM/algebra-00-preliminares.md` siempre dice qué páginas
 faltan. **Confía en ese encabezado, no en este archivo**, que se desactualiza.
+
+Para verificar el conteo real en cualquier momento:
+
+```
+grep -c "^### " docs/examen-cultural/HCM/*.md
+```
 
 ---
 
@@ -204,11 +239,24 @@ pregunta *"¿cuál es la regla?"*, no *"resuelve esto"*.
 
 ## Dos chats en paralelo
 
-Este bloque lo han trabajado dos sesiones a la vez. **Antes de empezar una
-materia, revisa qué archivos existen ya y si hay trabajo sin commitear** — hubo
-un momento en que ambos chats creían tener asignada Historia.
+Este bloque lo han trabajado dos sesiones a la vez, y ya causó problemas: hubo un
+momento en que **ambos chats creían tener asignada Historia**, y otro en que 129
+reactivos de Español y Álgebra estuvieron sin respaldo en git durante toda su
+elaboración.
 
-Reparto vigente: quien tenga este handoff sigue con **Álgebra**.
+**Antes de empezar, corre siempre esto** — el conteo del disco es la única
+verdad, los documentos se desactualizan:
+
+```
+git fetch origin && git status --short
+grep -c "^### " docs/examen-cultural/HCM/*.md
+```
+
+Si aparece trabajo sin commitear que tú no escribiste, **commitéalo antes de
+tocar nada**. Es de la otra sesión y no tiene respaldo.
+
+Reparto vigente: **Álgebra es lo único abierto**, y le toca a quien tenga este
+handoff. Las otras tres materias están cerradas.
 
 ---
 
