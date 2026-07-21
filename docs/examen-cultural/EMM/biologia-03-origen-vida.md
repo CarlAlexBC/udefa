@@ -67,7 +67,7 @@ primeras células**, que va de la página impresa **32 a la 60**.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **35 a 50**:
+Cubiertas las páginas impresas **35 a 51**:
 
 - La formación de los primeros átomos tras el Big Bang y el origen del sistema
   solar.
@@ -109,8 +109,10 @@ Cubiertas las páginas impresas **35 a 50**:
   el desarrollo.
 - La organización jerárquica: los niveles subatómico, atómico, molecular,
   macromolecular y celular, y la frontera de lo vivo.
+- La propiedad emergente de cada nivel; tejidos, órganos y sistemas; la escala
+  ecológica de población a biosfera; unidad y diversidad.
 
-**Pendiente:** el resto del capítulo 3 (pp. 51–60) y los capítulos 4, 5, 7, 8,
+**Pendiente:** el resto del capítulo 3 (pp. 52–60) y los capítulos 4, 5, 7, 8,
 11, 12, 31, 32, 35, 36 y 37.
 
 ## Erratas del libro
@@ -2735,4 +2737,245 @@ Como establece la teoría celular, todos los organismos vivos están compuestos 
 
 ---
 
-**Reactivos en este archivo:** 157
+## Sub-lote 29 · La propiedad emergente de cada nivel (p. 51)
+
+### 158
+
+De acuerdo con el libro de Biología, ¿por qué no basta con las leyes de la física y la química para comprender el nivel celular?
+
+- A. Porque cada nivel de organización tiene propiedades específicas que no son equivalentes a la suma de las propiedades de los niveles inferiores
+- B. Porque las células no están constituidas por los mismos componentes que la materia no viva
+- C. Porque las leyes de la física y la química no se aplican a los seres vivos
+- D. Porque el nivel celular es el nivel más simple de la materia
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · propiedad emergente
+
+Cada nivel de organización se caracteriza por propiedades específicas que no son equivalentes a la suma de las propiedades que presentan los niveles inferiores.
+
+> Ésta es la idea de **propiedad emergente**, aunque el libro no usa el término:
+> el todo tiene propiedades que no son la suma de sus partes. El distractor B es
+> falso según el propio libro (reactivo 159).
+
+### 159
+
+De conformidad con el libro de Biología, ¿con qué componentes químicos están constituidas las células?
+
+- A. Con los mismos componentes químicos que forman la materia no viva
+- B. Con componentes químicos exclusivos de los seres vivos
+- C. Con componentes que no obedecen las leyes de la física y la química
+- D. Con macromoléculas que no existen en la materia inerte
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · propiedad emergente
+
+Las células están constituidas por los mismos componentes químicos que forman la materia no viva y sus comportamientos pueden ser explicados mediante las leyes de la física y de la química.
+
+### 160
+
+En relación con el libro de Biología, ¿por qué se explican las propiedades de una proteína?
+
+- A. Por el ordenamiento específico de los aminoácidos y por sus interacciones particulares
+- B. Únicamente por el número total de aminoácidos que la forman
+- C. Por el nivel subatómico de sus componentes
+- D. Por el tipo de célula en que se encuentra
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · propiedad emergente
+
+Las propiedades de las proteínas, que corresponden a un nivel macromolecular, se explican por el ordenamiento específico de los aminoácidos (nivel molecular) y por sus interacciones particulares. Un ordenamiento e interacciones diferentes de los mismos aminoácidos darán lugar a proteínas con propiedades también diferentes.
+
+---
+
+## Sub-lote 30 · Tejidos, órganos y sistemas (p. 51)
+
+### 161
+
+De acuerdo con el libro de Biología, ¿a qué dio lugar el pasaje de la unicelularidad a la multicelularidad?
+
+- A. A la especialización de las funciones
+- B. A la desaparición de las organelas
+- C. A la pérdida de la autonomía celular
+- D. A la aparición de las primeras células
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · tejidos, órganos y sistemas
+
+El pasaje de la unicelularidad a la multicelularidad representó un hecho de gran importancia en la evolución de los seres vivos, ya que dio lugar a la especialización de las funciones.
+
+### 162
+
+De conformidad con el libro de Biología, ¿qué constituye la asociación de células individuales que se especializan en determinadas funciones?
+
+- A. Los tejidos, como el epitelial, el conectivo y el nervioso
+- B. Los órganos, como el hígado y el cerebro
+- C. Los sistemas de órganos
+- D. Las poblaciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · tejidos, órganos y sistemas
+
+Las células individuales pueden asociarse, interactuar y especializarse en determinadas funciones. Esta nueva asociación celular particular constituye los tejidos, tales como el epitelial, el conectivo y el nervioso.
+
+### 163
+
+En relación con el libro de Biología, ¿qué se forma cuando distintos tejidos se asocian e interactúan?
+
+- A. Los órganos, como el hígado, el tracto intestinal o el cerebro humano
+- B. Los tejidos, como el epitelial y el conectivo
+- C. Las células especializadas
+- D. Los sistemas de órganos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · tejidos, órganos y sistemas
+
+Distintos tejidos se asocian e interactúan, formando estructuras aún más complejas: los órganos, como el hígado, el tracto intestinal o el cerebro humano.
+
+> Escala de niveles dentro del organismo: células → **tejidos** → **órganos** →
+> sistemas de órganos. Cada uno surge de asociar los del nivel anterior.
+
+### 164
+
+De acuerdo con el libro de Biología, ¿cuál es el nivel de organización más complejo que se puede encontrar en un organismo individual?
+
+- A. La asociación entre órganos que interactúan cumpliendo funciones específicas, como la digestión o la reproducción
+- B. El tejido especializado en una función
+- C. El órgano de mayor complejidad, como el cerebro
+- D. La célula individual con mantenimiento autónomo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · tejidos, órganos y sistemas
+
+Se puede distinguir, incluso, una nueva asociación entre órganos que interactúan cumpliendo funciones específicas, como la digestión o la reproducción. Este nuevo nivel de organización es el más complejo que se puede encontrar en un organismo individual.
+
+---
+
+## Sub-lote 31 · Del organismo a la biosfera (p. 51)
+
+### 165
+
+De conformidad con el libro de Biología, ¿qué sistema de organización constituyen los organismos al interactuar unos con otros?
+
+- A. Las poblaciones
+- B. Las comunidades
+- C. Los ecosistemas
+- D. La biosfera
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · del organismo a la biosfera
+
+Los organismos interactúan unos con otros y estas interacciones dan lugar a un sistema más vasto de organización, las poblaciones.
+
+### 166
+
+En relación con el libro de Biología, ¿qué constituyen las poblaciones al interactuar con otras poblaciones?
+
+- A. Las comunidades
+- B. Los ecosistemas
+- C. La biosfera
+- D. Los organismos individuales
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · del organismo a la biosfera
+
+A su vez, al interactuar con otras poblaciones constituyen las comunidades.
+
+### 167
+
+De acuerdo con el libro de Biología, ¿qué nuevo sistema se delimita al analizar las diversas comunidades en interacción con el ambiente?
+
+- A. El ecosistema
+- B. La población
+- C. La biosfera
+- D. La comunidad
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · del organismo a la biosfera
+
+Cuando se analizan las diversas comunidades en interacción con el ambiente es posible delimitar un nuevo sistema, el ecosistema.
+
+### 168
+
+De conformidad con el libro de Biología, ¿cuál es el último nivel de organización, que abarca a escala planetaria toda la diversidad de seres vivos y sus interacciones con el ambiente físico?
+
+- A. La biosfera
+- B. El ecosistema
+- C. La comunidad
+- D. La población
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · del organismo a la biosfera
+
+Si analizamos a escala planetaria la gran diversidad de plantas, animales y microorganismos, y sus interacciones mutuas y con el ambiente físico podremos definir un último nivel de organización, la biosfera.
+
+> Escala ecológica completa, que conviene estudiar en orden: organismo →
+> **población** → **comunidad** → **ecosistema** → **biosfera**. El salto de
+> comunidad a ecosistema es el que suma el **ambiente físico**.
+
+---
+
+## Sub-lote 32 · Unidad y diversidad (p. 51)
+
+### 169
+
+En relación con el libro de Biología, ¿qué comparten todos los seres vivos que permite diferenciarlos de lo no vivo?
+
+- A. Una historia evolutiva que se refleja en cada una de sus características
+- B. Un mismo número de niveles de organización
+- C. Una composición química exclusiva de los seres vivos
+- D. La capacidad de formar tejidos y órganos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · unidad y diversidad
+
+Si hay algo que todos los seres vivos comparten es una historia evolutiva que se refleja en cada una de sus características y permite diferenciarlos de aquello que no está vivo.
+
+### 170
+
+De acuerdo con el libro de Biología, ¿de qué es consecuencia tanto la unidad como la diversidad de los seres vivos?
+
+- A. Del mismo proceso evolutivo
+- B. De la homeostasis
+- C. De la organización jerárquica
+- D. Del intercambio de información con el ambiente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · unidad y diversidad
+
+A pesar de estas características comunes, existe una enorme diversidad entre ellos respecto de sus formas y funciones. Y esto también es consecuencia del mismo proceso evolutivo. Tanto la unidad como la diversidad de los seres vivos pueden explicarse desde esta perspectiva.
+
+> Punto fino que el libro subraya: **la misma** causa —la evolución— explica a la
+> vez lo que los seres vivos tienen en común y lo que los diferencia. No son dos
+> explicaciones distintas.
+
+### 171
+
+De conformidad con el libro de Biología, ¿con cuántas especies de organismos diferentes compartimos el planeta?
+
+- A. Con más de 20 millones de especies
+- B. Con más de 2 millones de especies
+- C. Con más de 200 millones de especies
+- D. Con más de 20 mil especies
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 51
+**Subtema:** Origen de la vida · unidad y diversidad
+
+Compartimos nuestro planeta con más de 20 millones de especies de organismos diferentes; enormemente diversos en la organización de sus cuerpos, en sus patrones de reproducción, crecimiento y desarrollo, y en su comportamiento.
+
+---
+
+**Reactivos en este archivo:** 171
