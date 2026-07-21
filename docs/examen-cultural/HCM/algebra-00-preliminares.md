@@ -40,7 +40,9 @@ valioso y probable en el examen. Se documenta por si se decide separarla.
 
 ## Cobertura actual
 
-Cubiertas las **páginas impresas 5 a 10, 13 a 26 y 28 a 33**:
+**Preliminares queda cerrado.** Cubiertas las **páginas impresas 5 a 10, 13 a 26
+y 28 a 39** — es decir, la sección completa salvo los bloques de ejercicios que
+se detallan más abajo:
 
 - Concepto de álgebra, notación, exponente, base, radical y coeficiente.
 - Signos de relación y de agrupación.
@@ -71,6 +73,15 @@ Cubiertas las **páginas impresas 5 a 10, 13 a 26 y 28 a 33**:
   (uniformidad, conmutatividad, asociatividad, módulo), de la multiplicación
   (uniformidad, distributividad, módulo, existencia del inverso), de orden
   (tricotomía, monotonía de la suma y de la multiplicación) y de continuidad.
+- Operaciones fundamentales con números relativos: los cuatro casos de la suma
+  con sus reglas; la sustracción, el opuesto de un número y la regla de la resta;
+  la multiplicación y su ley de signos; la potencia —base, exponente,
+  potenciación— y el signo del resultado; el producto de potencias de igual base
+  y la potencia de una potencia; la división, el recíproco y el signo del
+  cociente; y los tres casos de la elevación a potencia (exponente 0, exponente
+  negativo y división de potencias de igual base).
+- Uniformidad de las operaciones y la excepción de la raíz cuadrada, que da
+  resultado doble; posibilidad de ampliar el campo numérico y el número complejo.
 
 Las páginas 11 y 12 son íntegramente los ejercicios 1, 2 y 3; la mitad superior
 de la 16, el ejercicio 4; y buena parte de las 18 a 21, los ejercicios 6 a 9:
@@ -79,6 +90,13 @@ artículo corto con páginas enteras de práctica.
 
 La página 27 y buena parte de las 22 a 26 son los ejercicios 10 a 14 y ejemplos
 resueltos de valor numérico: **sin teoría nueva de la que salgan reactivos**.
+
+**Rareza tipográfica, no errata de dato.** En la pág. 37 la regla del signo de la
+potencia se imprime "…si el exponente es entero y par**:** negativa si el
+exponente entero es impar", con dos puntos donde tocaría punto y coma o coma.
+Se verificó con un recorte a 550 dpi: **está así en el libro**, no es suciedad
+del escaneo. Como es puntuación y no dato, la regla se entiende igual y **sí se
+escribió reactivo** (el 169), citándola tal cual.
 
 **Dato que se dejó fuera a propósito.** La pág. 30 sitúa a los hindúes
 Brahmagupta y Bháskara "en el siglo VI", y eso no cuadra: Brahmagupta es del
@@ -2549,4 +2567,616 @@ Axioma de continuidad: Si tenemos dos conjuntos de números reales A y B, de mod
 
 ---
 
-**Reactivos en este archivo:** 150
+## Sub-lote 28 · Suma de números relativos (pp. 33–35)
+
+### 151
+
+De acuerdo con el libro de Álgebra, ¿cuántos casos podemos considerar en la suma o adición de números relativos?
+
+- A. Cuatro
+- B. Tres
+- C. Dos
+- D. Seis
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 33
+**Subtema:** Preliminares · suma de números relativos
+
+En la suma o adición de números relativos podemos considerar cuatro casos: sumar dos números positivos; sumar dos números negativos; sumar un positivo con otro negativo, y sumar el cero con un número positivo o negativo.
+
+### 152
+
+De acuerdo con el libro de Álgebra, ¿cuál es la regla para sumar dos números positivos?
+
+- A. Se procede a la suma aritmética de los valores absolutos de ambos números, y al resultado obtenido se le antepone el signo +
+- B. Se procede a la suma aritmética de los valores absolutos de ambos números, y al resultado obtenido se le antepone el signo −
+- C. Se procede a hallar la diferencia aritmética de los valores absolutos de ambos números, y al resultado obtenido se le antepone el signo +
+- D. Se procede a hallar la diferencia aritmética de los valores absolutos de ambos números, y al resultado obtenido se le antepone el signo del número mayor
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 33
+**Subtema:** Preliminares · suma de números relativos
+
+Para sumar dos números positivos se procede a la suma aritmética de los valores absolutos de ambos números, y al resultado obtenido se le antepone el signo +.
+
+### 153
+
+De acuerdo con el libro de Álgebra, ¿cuál es la regla para sumar dos números negativos?
+
+- A. Se procede a la suma aritmética de los valores absolutos de ambos, y al resultado obtenido se le antepone el signo −
+- B. Se procede a la suma aritmética de los valores absolutos de ambos, y al resultado obtenido se le antepone el signo +
+- C. Se procede a hallar la diferencia aritmética de los valores absolutos de ambos, y al resultado obtenido se le antepone el signo −
+- D. Se procede a hallar la diferencia aritmética de los valores absolutos de ambos, y al resultado obtenido se le antepone el signo del número mayor
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 33
+**Subtema:** Preliminares · suma de números relativos
+
+Para sumar dos números negativos se procede a la suma aritmética de los valores absolutos de ambos, y al resultado obtenido se le antepone el signo −.
+
+> Las tres primeras reglas de la suma comparten redacción y sólo cambian en dos
+> puntos: **suma o diferencia** de los valores absolutos, y **qué signo** se
+> antepone. Por eso cada una sirve de distractor de las otras.
+
+### 154
+
+De acuerdo con el libro de Álgebra, ¿cuál es la regla para sumar un número positivo y un número negativo?
+
+- A. Se procede a hallar la diferencia aritmética de los valores absolutos de ambos números, y al resultado obtenido se le antepone el signo del número mayor
+- B. Se procede a hallar la diferencia aritmética de los valores absolutos de ambos números, y al resultado obtenido se le antepone el signo del número menor
+- C. Se procede a la suma aritmética de los valores absolutos de ambos números, y al resultado obtenido se le antepone el signo del número mayor
+- D. Se procede a hallar la diferencia aritmética de los valores absolutos de ambos números, y al resultado obtenido se le antepone siempre el signo +
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 34
+**Subtema:** Preliminares · suma de números relativos
+
+Para sumar un número positivo y un número negativo se procede a hallar la diferencia aritmética de los valores absolutos de ambos números, y al resultado obtenido se le antepone el signo del número mayor.
+
+### 155
+
+De acuerdo con el libro de Álgebra, ¿cuánto vale la suma cuando los dos números tienen igual valor absoluto y signos distintos?
+
+- A. Cero
+- B. El doble de uno de ellos, con signo positivo
+- C. El doble de uno de ellos, con signo negativo
+- D. El mismo número, con el signo del mayor
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 34
+**Subtema:** Preliminares · suma de números relativos
+
+Cuando los dos números tienen igual valor absoluto y signos distintos la suma es cero.
+
+### 156
+
+De acuerdo con el libro de Álgebra, ¿qué resultado da la suma de cero con cualquier número positivo o negativo?
+
+- A. El mismo número positivo o negativo
+- B. Siempre cero
+- C. El mismo número, pero con signo contrario
+- D. El valor absoluto de ese número
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 35
+**Subtema:** Preliminares · suma de números relativos
+
+La suma de cero con cualquier número positivo o negativo nos dará el mismo número positivo o negativo.
+
+---
+
+## Sub-lote 29 · Sustracción de números relativos (p. 35)
+
+### 157
+
+De acuerdo con el libro de Álgebra, ¿a qué llamamos opuesto de un número?
+
+- A. Al mismo número con signo contrario
+- B. Al número que multiplicado por él da 1
+- C. Al número que resulta de prescindir de su signo
+- D. Al mismo número con el exponente cambiado de signo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 35
+**Subtema:** Preliminares · sustracción de números relativos
+
+Llamamos opuesto de un número al mismo número con signo contrario. Así, decimos que −m es opuesto de +m.
+
+> **Opuesto** e **inverso** no son lo mismo y el libro los define a dos páginas
+> de distancia: el opuesto cambia el signo (−m), el inverso o recíproco es 1/a
+> (ver reactivo 146). El distractor B es justamente el inverso.
+
+### 158
+
+De acuerdo con el libro de Álgebra, ¿en qué consiste la sustracción?
+
+- A. Es una operación inversa de la suma que consiste en hallar un número x, llamado diferencia, tal que sumado con un número dado m, dé un resultado igual a otro número n
+- B. Es una operación inversa de la multiplicación que consiste en hallar uno de los factores, conocidos el otro factor y el producto
+- C. Es una operación directa que consiste en hallar la suma aritmética de los valores absolutos de dos números
+- D. Es una operación inversa de la suma que consiste en hallar el opuesto de un número dado
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 35
+**Subtema:** Preliminares · sustracción de números relativos
+
+La sustracción es una operación inversa de la suma que consiste en hallar un número x (llamado diferencia), tal que, sumado con un número dado m, dé un resultado igual a otro número n.
+
+> El distractor B es la definición de la división, que el libro redacta con la
+> misma estructura tres páginas después (ver reactivo 174).
+
+### 159
+
+De acuerdo con el libro de Álgebra, ¿cuál es la regla para hallar la diferencia entre dos números relativos?
+
+- A. Se suma al minuendo el sustraendo, cambiándole el signo
+- B. Se suma al sustraendo el minuendo, cambiándole el signo
+- C. Se suma al minuendo el sustraendo, conservando ambos su signo
+- D. Se restan los valores absolutos y se antepone el signo del minuendo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 35
+**Subtema:** Preliminares · sustracción de números relativos
+
+Para hallar la diferencia entre dos números relativos se suma al minuendo el sustraendo, cambiándole el signo.
+
+> El distractor B invierte minuendo y sustraendo. Es el error más común de quien
+> recuerda la regla a medias.
+
+### 160
+
+De acuerdo con el libro de Álgebra, ¿qué podemos expresar por medio de la interpretación geométrica de la sustracción de números relativos?
+
+- A. La distancia, en unidades, que hay entre el punto que representa al minuendo y el punto que representa al sustraendo, así como el sentido de esa distancia
+- B. Únicamente la distancia, en unidades, entre el minuendo y el sustraendo, sin su sentido
+- C. El área del rectángulo cuyo largo y ancho vienen dados por el minuendo y el sustraendo
+- D. La posición del cero como elemento de separación entre ambos números
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 35
+**Subtema:** Preliminares · sustracción de números relativos
+
+Por medio de la interpretación geométrica de la sustracción de números relativos, podemos expresar la distancia, en unidades, que hay entre el punto que representa al minuendo y el punto que representa al sustraendo, así como el sentido (negativo o positivo) de esa distancia.
+
+> El distractor C es la interpretación geométrica del **producto**, que el libro
+> explica en la página siguiente. Fuentes cruzadas dentro del mismo tema.
+
+---
+
+## Sub-lote 30 · Multiplicación de números relativos (p. 36)
+
+### 161
+
+De acuerdo con el libro de Álgebra, ¿cómo se halla el producto de dos números relativos?
+
+- A. Multiplicando los valores absolutos de ambos
+- B. Sumando los valores absolutos de ambos
+- C. Multiplicando los valores relativos de ambos
+- D. Multiplicando el valor absoluto del mayor por el signo del menor
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 36
+**Subtema:** Preliminares · multiplicación de números relativos
+
+El producto de dos números relativos se halla multiplicando los valores absolutos de ambos.
+
+### 162
+
+De acuerdo con el libro de Álgebra, ¿qué signo llevará el producto hallado?
+
+- A. Positivo si los signos de ambos factores son iguales; negativo si los factores tienen signos distintos
+- B. Negativo si los signos de ambos factores son iguales; positivo si los factores tienen signos distintos
+- C. Siempre positivo, cualesquiera que sean los signos de los factores
+- D. El signo del factor de mayor valor absoluto
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 36
+**Subtema:** Preliminares · multiplicación de números relativos
+
+El producto hallado llevará signo positivo (+), si los signos de ambos factores son iguales; llevará signo negativo (−), si los factores tienen signos distintos.
+
+### 163
+
+De acuerdo con el libro de Álgebra, ¿qué ocurre si uno de los factores es 0?
+
+- A. El producto será 0
+- B. El producto será igual al otro factor
+- C. El producto será +1
+- D. El producto carece de sentido
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 36
+**Subtema:** Preliminares · multiplicación de números relativos
+
+Si uno de los factores es 0 el producto será 0.
+
+### 164
+
+De acuerdo con el libro de Álgebra, ¿de qué modo se indica más usualmente el producto cuando operamos con símbolos literales?
+
+- A. En la forma ab
+- B. En la forma a × b
+- C. En la forma a · b
+- D. En la forma a/b
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 36
+**Subtema:** Preliminares · multiplicación de números relativos
+
+Cuando operamos con símbolos literales el producto es siempre indicado, bien en la forma a × b; bien en la forma a · b; y más usualmente ab.
+
+> Las formas a × b y a · b también son correctas según el libro. El reactivo
+> pregunta por la **más usual**, que es la que el libro señala al final.
+
+---
+
+## Sub-lote 31 · Potencia de números relativos (p. 37)
+
+### 165
+
+De acuerdo con el libro de Álgebra, ¿a qué llamamos potencia de un número relativo?
+
+- A. Al producto de tomarlo como factor tantas veces como se quiera
+- B. Al producto de tomarlo como sumando tantas veces como se quiera
+- C. Al resultado de multiplicarlo por su propio exponente
+- D. Al resultado de multiplicarlo por su recíproco
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 37
+**Subtema:** Preliminares · potencia de números relativos
+
+Llamamos potencia de un número relativo al producto de tomarlo como factor tantas veces como se quiera.
+
+### 166
+
+De acuerdo con el libro de Álgebra, ¿cómo se lee la notación aⁿ?
+
+- A. a elevado a la enésima potencia
+- B. a multiplicado por la enésima potencia
+- C. a en la enésima base
+- D. la enésima raíz de a
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 37
+**Subtema:** Preliminares · potencia de números relativos
+
+Tendremos la notación aⁿ, que se lee a elevado a la enésima potencia, e indica que a debe tomarse como factor n veces.
+
+### 167
+
+De acuerdo con el libro de Álgebra, en la notación aⁿ = x, ¿qué nombre recibe cada elemento?
+
+- A. Potencia el producto x, base el número a que tomamos como factor, y exponente n
+- B. Potencia el número a que tomamos como factor, base el producto x, y exponente n
+- C. Potencia el producto x, exponente el número a que tomamos como factor, y base n
+- D. Base el producto x, potencia el número a que tomamos como factor, y exponente n
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 37
+**Subtema:** Preliminares · potencia de números relativos
+
+En la notación aⁿ = x, llamamos potencia al producto x, base al número que tomamos como factor a, y exponente a n, que nos indica las veces que debemos tomar como factor a a.
+
+### 168
+
+De acuerdo con el libro de Álgebra, ¿cómo se llama la operación de hallar el producto x?
+
+- A. Potenciación o elevación a potencia
+- B. Radicación o extracción de raíz
+- C. Logaritmación
+- D. Uniformidad del producto
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 37
+**Subtema:** Preliminares · potencia de números relativos
+
+A la operación de hallar el producto x, la llamamos potenciación o elevación a potencia.
+
+### 169
+
+De acuerdo con el libro de Álgebra, ¿cuál es la regla sobre el signo de la potencia?
+
+- A. La potencia de un número positivo siempre es positiva; la de un negativo será positiva si el exponente es entero y par, negativa si el exponente entero es impar
+- B. La potencia de un número positivo siempre es positiva; la de un negativo será positiva si el exponente es entero e impar, negativa si el exponente entero es par
+- C. La potencia de un número positivo siempre es positiva y la de un número negativo siempre es negativa
+- D. La potencia de cualquier número, positivo o negativo, siempre es positiva
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 37
+**Subtema:** Preliminares · potencia de números relativos
+
+La potencia de un número positivo siempre es positiva. La potencia de un número negativo será positiva si el exponente es entero y par: negativa si el exponente entero es impar.
+
+> Los dos puntos de "y par: negativa" son del libro, no una errata de captura —
+> se verificó con un recorte a 550 dpi. Es puntuación, no dato: la regla se
+> entiende igual, así que sí se hizo reactivo. El distractor B intercambia par
+> por impar, que es donde falla el aspirante.
+
+---
+
+## Sub-lote 32 · Producto de potencias y potencia de una potencia (p. 38)
+
+### 170
+
+De acuerdo con el libro de Álgebra, ¿cuál es la regla para multiplicar dos potencias de igual base?
+
+- A. Se eleva dicha base a la potencia que resulte de la suma de los exponentes respectivos
+- B. Se eleva dicha base a la potencia que resulte del producto de los exponentes respectivos
+- C. Se eleva dicha base a la potencia que dé la diferencia de ambos exponentes
+- D. Se multiplican las bases y se conserva el exponente
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 38
+**Subtema:** Preliminares · potencias de igual base
+
+Para multiplicar dos potencias de igual base, se eleva dicha base a la potencia que resulte de la suma de los exponentes respectivos.
+
+### 171
+
+De acuerdo con el libro de Álgebra, ¿cuál es la regla para hallar la potencia de una potencia?
+
+- A. Se multiplican los exponentes y se mantiene la base primitiva
+- B. Se suman los exponentes y se mantiene la base primitiva
+- C. Se multiplican los exponentes y se eleva la base al cuadrado
+- D. Se mantiene el exponente y se multiplica la base por sí misma
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 38
+**Subtema:** Preliminares · potencias de igual base
+
+Para hallar la potencia de una potencia se multiplican los exponentes y se mantiene la base primitiva.
+
+> Par contrapuesto que el libro define seguido: en el **producto** de potencias
+> de igual base los exponentes se **suman**; en la **potencia de una potencia**
+> se **multiplican**. Cada regla es el distractor de la otra.
+
+### 172
+
+De acuerdo con el libro de Álgebra, ¿con qué hay que poner especial cuidado en no confundir la potencia de una potencia?
+
+- A. Con la elevación de un número a una potencia cuyo exponente, a la vez, esté afectado por otro exponente
+- B. Con el producto de dos potencias de igual base
+- C. Con la división de dos potencias de igual base
+- D. Con la elevación de un número a un exponente negativo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 38
+**Subtema:** Preliminares · potencias de igual base
+
+Hay que poner especial cuidado en no confundir la potencia de una potencia, con la elevación de un número a una potencia cuyo exponente, a la vez esté afectado por otro exponente.
+
+---
+
+## Sub-lote 33 · División de números relativos (pp. 38–39)
+
+### 173
+
+De acuerdo con el libro de Álgebra, ¿qué signo tiene el inverso o recíproco de un número relativo cualquiera distinto de cero?
+
+- A. Su mismo signo
+- B. El signo contrario
+- C. Siempre signo positivo
+- D. Siempre signo negativo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 38
+**Subtema:** Preliminares · división de números relativos
+
+El inverso o recíproco de un número relativo cualquiera distinto de cero tiene su mismo signo.
+
+### 174
+
+De acuerdo con el libro de Álgebra, ¿en qué consiste la división?
+
+- A. Es una operación inversa de la multiplicación que consiste en hallar uno de los factores, conocidos el otro factor y el producto
+- B. Es una operación inversa de la suma que consiste en hallar un número llamado diferencia
+- C. Es una operación directa que consiste en hallar el recíproco del dividendo
+- D. Es una operación inversa de la potenciación que consiste en hallar la base
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 38
+**Subtema:** Preliminares · división de números relativos
+
+La división es una operación inversa de la multiplicación que consiste en hallar uno de los factores, conocidos el otro factor y el producto.
+
+### 175
+
+De acuerdo con el libro de Álgebra, ¿cuándo es posible la operación de división?
+
+- A. Sólo si el divisor es distinto de cero
+- B. Sólo si el dividendo es distinto de cero
+- C. Sólo si dividendo y divisor tienen el mismo signo
+- D. Siempre, sin excepción alguna
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 38
+**Subtema:** Preliminares · división de números relativos
+
+Recordamos que esta operación sólo es posible si el divisor es distinto de cero.
+
+### 176
+
+De acuerdo con el libro de Álgebra, ¿cuál es la regla para dividir un número cualquiera entre otro número distinto de cero?
+
+- A. Se multiplica el primero por el recíproco del segundo
+- B. Se multiplica el primero por el opuesto del segundo
+- C. Se multiplica el recíproco del primero por el segundo
+- D. Se suma al primero el recíproco del segundo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 38
+**Subtema:** Preliminares · división de números relativos
+
+Para dividir un número cualquiera d entre otro número distinto de cero d', multiplicamos d por el recíproco d' (1/d').
+
+### 177
+
+De acuerdo con el libro de Álgebra, ¿qué signo tendrá el cociente que resulte?
+
+- A. Positivo si los dos números son del mismo signo; negativo si son de signos contrarios
+- B. Negativo si los dos números son del mismo signo; positivo si son de signos contrarios
+- C. El signo del dividendo, cualquiera que sea el del divisor
+- D. El signo del divisor, cualquiera que sea el del dividendo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 38
+**Subtema:** Preliminares · división de números relativos
+
+El cociente que resulte será positivo si los dos números son del mismo signo; y negativo, si son de signos contrarios.
+
+---
+
+## Sub-lote 34 · Los tres casos de la elevación a potencia (p. 39)
+
+### 178
+
+De acuerdo con el libro de Álgebra, si un número cualquiera distinto de cero se eleva a la potencia 0, ¿a cuánto es igual?
+
+- A. A +1
+- B. A 0
+- C. Al propio número
+- D. Al recíproco del propio número
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 39
+**Subtema:** Preliminares · casos de la elevación a potencia
+
+Si un número cualquiera a ≠ 0, se eleva a la potencia 0 es igual a +1.
+
+### 179
+
+De acuerdo con el libro de Álgebra, si un número cualquiera distinto de cero se eleva a un exponente negativo, ¿a qué es igual?
+
+- A. Al recíproco de la potencia de exponente positivo
+- B. Al opuesto de la potencia de exponente positivo
+- C. A la potencia de exponente positivo, con signo negativo
+- D. A +1
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 39
+**Subtema:** Preliminares · casos de la elevación a potencia
+
+Si un número cualquiera a ≠ 0, se eleva a un exponente negativo cualquiera −m es igual al recíproco de la potencia aᵐ, de exponente positivo.
+
+> Otra vez el par **opuesto / recíproco**. Un exponente negativo no cambia el
+> signo del resultado: da el recíproco (ver reactivo 157).
+
+### 180
+
+De acuerdo con el libro de Álgebra, ¿a qué es igual la división de dos potencias de igual base?
+
+- A. A la base elevada a la potencia que dé la diferencia de ambos exponentes
+- B. A la base elevada a la potencia que dé la suma de ambos exponentes
+- C. A la base elevada a la potencia que dé el producto de ambos exponentes
+- D. A la base elevada a la potencia que dé el cociente de ambos exponentes
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 39
+**Subtema:** Preliminares · casos de la elevación a potencia
+
+La división de dos potencias de igual base es igual a la base elevada a la potencia que dé la diferencia de ambos exponentes.
+
+> Las tres reglas de potencias de igual base se distinguen sólo por la operación
+> que se hace con los exponentes: **suma** al multiplicar, **producto** en la
+> potencia de una potencia, **diferencia** al dividir (ver reactivos 170 y 171).
+
+---
+
+## Sub-lote 35 · Uniformidad y ampliación del campo numérico (p. 39)
+
+### 181
+
+De acuerdo con el libro de Álgebra, ¿en qué operaciones con números relativos se cumple el axioma de uniformidad?
+
+- A. En la suma, la resta, la multiplicación, la potenciación y la división
+- B. Sólo en la suma y la multiplicación
+- C. Sólo en la suma, la resta y la multiplicación
+- D. En todas las operaciones, incluida la extracción de la raíz cuadrada
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 39
+**Subtema:** Preliminares · uniformidad de las operaciones
+
+Hemos visto en las operaciones estudiadas, a saber: suma, resta, multiplicación, potenciación y división, que se cumple en todas ellas el axioma de uniformidad.
+
+### 182
+
+De acuerdo con el libro de Álgebra, ¿en qué caso el resultado no es único?
+
+- A. Cuando extraemos la raíz cuadrada de un número positivo, porque tenemos un resultado doble
+- B. Cuando dividimos dos números relativos de signos contrarios
+- C. Cuando elevamos un número negativo a un exponente impar
+- D. Cuando sumamos dos números de igual valor absoluto y signos distintos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 39
+**Subtema:** Preliminares · uniformidad de las operaciones
+
+Sin embargo, cuando extraemos la raíz cuadrada de un número positivo, tenemos un resultado doble.
+
+### 183
+
+De acuerdo con el libro de Álgebra, ¿cuántas raíces de grado par tiene siempre un número positivo cualquiera?
+
+- A. Dos: una positiva y otra negativa
+- B. Dos: ambas positivas
+- C. Una sola, siempre positiva
+- D. Una sola, con el signo del radicando
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 39
+**Subtema:** Preliminares · uniformidad de las operaciones
+
+Un número positivo cualquiera siempre tiene dos raíces de grado par, una positiva y otra negativa.
+
+### 184
+
+De acuerdo con el libro de Álgebra, ¿qué condición deben cumplir los nuevos entes para ampliar el campo numérico?
+
+- A. Que cumplan las leyes formales
+- B. Que puedan representarse sobre una recta indefinida
+- C. Que sean razón de dos segmentos
+- D. Que admitan siempre un resultado único
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 39
+**Subtema:** Preliminares · ampliación del campo numérico
+
+Tal posibilidad se mantiene abierta para la introducción de nuevos entes, siempre que tales entes cumplan las leyes formales.
+
+### 185
+
+De acuerdo con el libro de Álgebra, ¿qué es el número complejo?
+
+- A. Un par de números dados en un orden determinado, constituido por un número real y un número imaginario
+- B. Un par de números dados en un orden determinado, constituido por dos números reales
+- C. Un par de números dados en cualquier orden, constituido por un número racional y uno irracional
+- D. Un número real que no puede expresarse como razón de dos segmentos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 39
+**Subtema:** Preliminares · ampliación del campo numérico
+
+Se trata del número complejo, que es un par de números dados en un orden determinado y que está constituido por un número real y un número imaginario.
+
+### 186
+
+De acuerdo con el libro de Álgebra, ¿qué podremos representar con los números complejos?
+
+- A. Un punto cualquiera en el plano
+- B. Un punto cualquiera en una recta indefinida
+- C. Una magnitud inconmensurable cualquiera
+- D. El área de un rectángulo cualquiera
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 39
+**Subtema:** Preliminares · ampliación del campo numérico
+
+Con estos números podremos representar un punto cualquiera en el plano.
+
+> El distractor B es lo que hacen los números **relativos** según la página 31
+> —representar los puntos a uno y otro lado de una recta indefinida—. El plano
+> es lo que aporta el complejo.
+
+---
+
+**Reactivos en este archivo:** 186
