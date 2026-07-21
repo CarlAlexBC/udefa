@@ -56,47 +56,39 @@ del libro**, no una paráfrasis.
 
 ---
 
-## Estado al 20 de julio de 2026
+## Estado — dónde leerlo
 
-| Materia | Reactivos | Estado |
-|---|---|---|
-| Geografía | 125 | **cerrada** |
-| Historia cap. 6 | 600 | **cerrada** |
-| Español | 109 | **cerrado** |
-| Álgebra | 95 | **en curso** — la única materia abierta |
+**Este archivo ya no trae cifras.** Antes tenía una tabla de avance que se
+desactualizaba en cuanto alguien escribía una tanda, y había otras dos copias a
+mano —el README y los encabezados— que se desincronizaban entre sesiones.
 
-**Total: 929 reactivos.** Álgebra es lo único que queda.
+Lee el estado aquí, en este orden:
 
-### Lo que falta de Álgebra
-
-Es la materia viva. Va por la página impresa 28, último reactivo escrito el 95.
-
-| Tramo | Páginas impresas | Estado |
-|---|---|---|
-| Preliminares | 5–10, 13–26, 28 | hecho |
-| Preliminares | **29–39** | **siguiente** |
-| I · Suma | 40–45 | sin empezar |
-| II · Resta | 46–57 | sin empezar |
-| III · Signos de agrupación | 58–62 | sin empezar |
-| IV · Multiplicación | 63–78 | sin empezar |
-| V · División | 79–96 | sin empezar |
-| VI · Productos y cocientes notables | 97–111 | sin empezar |
-
-**El desfase de Álgebra es +8**: hoja del PDF 17 = página impresa 9. Para
-arrancar en la página impresa 29, renderiza desde la **hoja 37**.
+| Para saber | Mira |
+|---|---|
+| Cuántos reactivos hay y qué falta | `ESTADO.md` en la raíz (**generado**) |
+| Qué páginas exactas faltan de una materia | El encabezado de su `.md`, sección "Cobertura actual" |
 
 ```
-python docs/examen-cultural/render.py "examen_cultural/libros_examen_cultural/HCM/Álgebra de Baldor.pdf" 37 46 110
+node tools/estado-proyecto/generar-estado.js   # regenera ESTADO.md
+grep -c "^### " docs/examen-cultural/HCM/*.md  # el conteo crudo
 ```
 
-El encabezado de `HCM/algebra-00-preliminares.md` siempre dice qué páginas
-faltan. **Confía en ese encabezado, no en este archivo**, que se desactualiza.
+Lo estable: **Geografía, Historia y Español están cerradas. Álgebra es la única
+materia abierta**, y le toca a quien tenga este handoff.
 
-Para verificar el conteo real en cualquier momento:
+### Cómo arrancar en Álgebra
+
+**El desfase es +8**: hoja del PDF 17 = página impresa 9. Suma 8 a la primera
+página impresa que te falte y ésa es la hoja desde donde renderizas.
 
 ```
-grep -c "^### " docs/examen-cultural/HCM/*.md
+python docs/examen-cultural/render.py "examen_cultural/libros_examen_cultural/HCM/Álgebra de Baldor.pdf" <hoja> <hoja+9> 110
 ```
+
+Tramos del temario, para ubicarte: Preliminares 5–39, I · Suma 40–45,
+II · Resta 46–57, III · Signos de agrupación 58–62, IV · Multiplicación 63–78,
+V · División 79–96, VI · Productos y cocientes notables 97–111.
 
 ---
 

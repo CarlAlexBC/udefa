@@ -137,26 +137,30 @@ la impresa 260 de 486 (el temario termina en la 104, así que alcanza).
 
 ## Avance
 
-| Materia | Reactivos | Pendiente |
-|---|---|---|
-| Geografía cap. 1 | 13 | — |
-| Geografía cap. 3 | 43 | — |
-| Geografía cap. 4 | 27 | — |
-| Geografía cap. 5 | 42 | — |
-| Historia cap. 6 | 600 | — |
-| Español bloque 1 | 32 | — |
-| Español bloque 3 | 77 | — |
-| Álgebra Preliminares | 95 | pp. 29–39 |
-| Álgebra caps. I–VI | 0 | pp. 40–111 |
+**Las cifras viven en `ESTADO.md`, en la raíz del repo.** Es un archivo generado:
+cuenta los reactivos de los `.md` reales y lee el pendiente del encabezado de
+cada uno, así que no puede quedar desfasado. Para regenerarlo:
 
-**Total: 929 reactivos.**
+```
+node tools/estado-proyecto/generar-estado.js
+```
 
-- **Geografía cerrada**, todo el alcance del temario.
-- **Español cerrado**, 109 reactivos entre los dos bloques.
-- **Historia cerrada**, 600 reactivos. Los cuatro apartados que pide el temario
-  están completos, de la pág. 205 a la 279.
-- **Álgebra**: la única materia abierta. Cubre Preliminares hasta la pág. 28;
-  faltan las pp. 29–39 y los capítulos I–VI completos (pp. 40–111).
+Aquí no se repiten los conteos a propósito. Antes estaban escritos a mano en el
+README, en el handoff y en cada encabezado, y las tres copias se desincronizaban
+entre sesiones — que es justo el problema que ese archivo vino a resolver.
+
+El conteo crudo, si sólo quieres el número:
+
+```
+grep -c "^### " docs/examen-cultural/HCM/*.md
+```
+
+En palabras, que sí es estable aunque cambien los números:
+
+- **Geografía, Español e Historia están cerradas**, con todo el alcance que pide
+  el temario.
+- **Álgebra es la única materia abierta**, y es la que más falta: Preliminares
+  va avanzando y los capítulos I–VI aún no se empiezan.
 
 ### Alcance de Álgebra, decisión abierta
 

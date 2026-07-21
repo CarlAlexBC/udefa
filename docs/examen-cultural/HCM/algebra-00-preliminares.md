@@ -40,7 +40,7 @@ valioso y probable en el examen. Se documenta por si se decide separarla.
 
 ## Cobertura actual
 
-Cubiertas las **páginas impresas 5 a 10, 13 a 26 y 28**:
+Cubiertas las **páginas impresas 5 a 10, 13 a 26 y 28 a 30**:
 
 - Concepto de álgebra, notación, exponente, base, radical y coeficiente.
 - Signos de relación y de agrupación.
@@ -56,6 +56,11 @@ Cubiertas las **páginas impresas 5 a 10, 13 a 26 y 28**:
 - Reducción de polinomios con términos semejantes de diversas clases.
 - Valor numérico de una expresión algebraica.
 - Notas sobre el concepto de número: número entero y número fraccionario.
+- Número racional e irracional: la historia griega del descubrimiento —Pitágoras,
+  Teodoro de Cirene, Euclides—, magnitudes inconmensurables, π, y las
+  definiciones de racional, irracional y número real.
+- Números positivos y negativos: de Diofanto a Harriot, magnitudes relativas, y
+  las reglas de escritura del signo.
 
 Las páginas 11 y 12 son íntegramente los ejercicios 1, 2 y 3; la mitad superior
 de la 16, el ejercicio 4; y buena parte de las 18 a 21, los ejercicios 6 a 9:
@@ -65,7 +70,15 @@ artículo corto con páginas enteras de práctica.
 La página 27 y buena parte de las 22 a 26 son los ejercicios 10 a 14 y ejemplos
 resueltos de valor numérico: **sin teoría nueva de la que salgan reactivos**.
 
-**Pendiente:** de la página 29 en adelante de Preliminares, y los capítulos I–VI
+**Dato que se dejó fuera a propósito.** La pág. 30 sitúa a los hindúes
+Brahmagupta y Bháskara "en el siglo VI", y eso no cuadra: Brahmagupta es del
+siglo VII y Bháskara del XII. **No se escribió reactivo sobre ese siglo** —el
+reactivo 111 pregunta qué hicieron, no cuándo—. Se documenta con menos certeza
+que las erratas de Historia, porque la cronología de la historia de la matemática
+varía entre manuales y aquí no hay una segunda mención en el libro con la que
+contrastar.
+
+**Pendiente:** de la página 31 en adelante de Preliminares, y los capítulos I–VI
 completos (pp. 40–111).
 
 ## Criterio: teoría sobre práctica
@@ -1625,4 +1638,419 @@ Podemos decir también, que son números fraccionarios los que nos permiten expr
 
 ---
 
-**Reactivos en este archivo:** 95
+## Sub-lote 20 · Número racional y número irracional (pp. 29–30)
+
+### 96
+
+De acuerdo con el libro de Álgebra, ¿cómo podemos definir los números enteros, en oposición a los fraccionarios?
+
+- A. Como aquellos que expresan el cociente de una división exacta
+- B. Como aquellos que no pueden expresarse como cociente de dos enteros
+- C. Como aquellos que resultan de medir magnitudes inconmensurables
+- D. Como aquellos que expresan el cociente de una división inexacta
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 29
+**Subtema:** Preliminares · número racional e irracional
+
+Como se ve, en oposición a los números fraccionarios tenemos los números enteros, que podemos definir como aquellos que expresan el cociente de una división exacta.
+
+### 97
+
+De acuerdo con el libro de Álgebra, ¿quiénes conocieron primero los números irracionales?
+
+- A. Los griegos
+- B. Los hindúes
+- C. Los egipcios
+- D. Los babilonios
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 29
+**Subtema:** Preliminares · número racional e irracional
+
+Es indudable que fueron los griegos quienes conocieron primero los números irracionales.
+
+### 98
+
+De acuerdo con el libro de Álgebra, ¿a quién atribuyen los historiadores de la matemática el descubrimiento de los números irracionales?
+
+- A. A Pitágoras de Samos (540 a. C.)
+- B. A Teodoro de Cirene (400 a. C.)
+- C. A Euclides (300 a. C.)
+- D. A Diofanto (siglo III d. C.)
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 29
+**Subtema:** Preliminares · número racional e irracional
+
+Los historiadores de la matemática, están de acuerdo en atribuir a Pitágoras de Samos (540 a. C.), el descubrimiento de estos números.
+
+> Los cuatro nombres del reactivo salen del mismo pasaje y aparecen en orden
+> cronológico. Es el tipo de dato que el aspirante confunde si estudió por
+> encima: quien descubre es Pitágoras, quien demuestra es Teodoro, quien
+> sistematiza es Euclides.
+
+### 99
+
+De acuerdo con el libro de Álgebra, ¿al establecer qué relación descubrió Pitágoras los números irracionales?
+
+- A. La relación entre el lado de un cuadrado y la diagonal del mismo
+- B. La relación de la circunferencia al diámetro
+- C. La relación entre el minuendo y el sustraendo
+- D. La relación entre dos enteros consecutivos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 29
+**Subtema:** Preliminares · número racional e irracional
+
+El descubrimiento de estos números, al establecer la relación entre el lado de un cuadrado y la diagonal del mismo.
+
+### 100
+
+De acuerdo con el libro de Álgebra, ¿qué demostró geométricamente Teodoro de Cirene?
+
+- A. Que √2, √3, √5, √7, etc., son irracionales
+- B. Que la relación de la circunferencia al diámetro es π
+- C. Que existen magnitudes inconmensurables
+- D. Que todo número entero es racional
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 29
+**Subtema:** Preliminares · número racional e irracional
+
+Más tarde, Teodoro de Cirene (400 a. C.), matemático de la escuela pitagórica, demostró geométricamente que √2, √3, √5, √7, etc., son irracionales.
+
+### 101
+
+De acuerdo con el libro de Álgebra, ¿a qué escuela pertenecía Teodoro de Cirene?
+
+- A. A la escuela pitagórica
+- B. A la escuela de Alejandría
+- C. A la escuela de Euclides
+- D. A la escuela de Diofanto
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 29
+**Subtema:** Preliminares · número racional e irracional
+
+Teodoro de Cirene (400 a. C.), matemático de la escuela pitagórica.
+
+### 102
+
+De acuerdo con el libro de Álgebra, ¿en qué obra estudió Euclides las magnitudes que no pueden expresarse con un número entero ni fraccionario?
+
+- A. En el Libro X de sus "Elementos"
+- B. En su Aritmética
+- C. En el Libro I de sus "Elementos"
+- D. En su tratado sobre los números racionales
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 29
+**Subtema:** Preliminares · número racional e irracional
+
+Euclides (300 a.C.), estudió en el Libro X de sus "Elementos", ciertas magnitudes que al ser medidas no encontramos ningún número entero ni fraccionario que las exprese.
+
+### 103
+
+De acuerdo con el libro de Álgebra, ¿cómo se llaman las magnitudes que al ser medidas no encuentran ningún número entero ni fraccionario que las exprese?
+
+- A. Inconmensurables
+- B. Irracionales
+- C. Relativas
+- D. Reales
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 29
+**Subtema:** Preliminares · número racional e irracional
+
+Estas magnitudes se llaman inconmensurables, y los números que se originan al medir tales magnitudes se llaman irracionales.
+
+> Par contrapuesto que el libro define en la misma oración: **inconmensurable**
+> es la magnitud, **irracional** es el número que sale de medirla. Cada término
+> es el distractor natural del otro.
+
+### 104
+
+De acuerdo con el libro de Álgebra, ¿cómo se llaman los números que se originan al medir magnitudes inconmensurables?
+
+- A. Irracionales
+- B. Inconmensurables
+- C. Racionales
+- D. Relativos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 29
+**Subtema:** Preliminares · número racional e irracional
+
+Los números que se originan al medir tales magnitudes se llaman irracionales.
+
+### 105
+
+De acuerdo con el libro de Álgebra, ¿con qué letra se expresa la relación de la circunferencia al diámetro y cuál es su valor?
+
+- A. Con la letra π = 3.141592…
+- B. Con la letra δ = 3.141592…
+- C. Con la letra π = 2.718281…
+- D. Con la letra λ = 3.141592…
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 29
+**Subtema:** Preliminares · número racional e irracional
+
+Y la relación de la circunferencia, al diámetro que se expresa con la letra π = 3.141592…
+
+### 106
+
+De acuerdo con el libro de Álgebra, ¿cómo se define el número racional?
+
+- A. Aquel número que puede expresarse como cociente de dos enteros
+- B. Aquel número real que no puede expresarse como el cociente de dos enteros
+- C. Aquel que expresa el cociente de una división inexacta
+- D. Aquel que se origina al medir magnitudes inconmensurables
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · número racional e irracional
+
+Definimos el número racional como aquel número que puede expresarse como cociente de dos enteros.
+
+### 107
+
+De acuerdo con el libro de Álgebra, ¿cómo se define el número irracional?
+
+- A. Aquel número real que no puede expresarse como el cociente de dos enteros
+- B. Aquel número que puede expresarse como cociente de dos enteros
+- C. Aquel que expresa el cociente de una división exacta
+- D. Aquel que lleva el signo − antepuesto
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · número racional e irracional
+
+Y el número irracional como aquel número real que no puede expresarse como el cociente de dos enteros.
+
+> Par contrapuesto: racional **sí** puede expresarse como cociente de dos
+> enteros, irracional **no**. Las dos definiciones van seguidas en el libro y se
+> usan una como distractor de la otra.
+
+### 108
+
+De acuerdo con el libro de Álgebra, ¿a qué conjunto llamamos números reales?
+
+- A. Al conjunto de los números racionales e irracionales
+- B. Al conjunto de los números fraccionarios y enteros
+- C. Al conjunto de los números positivos y negativos
+- D. Al conjunto de los números enteros e irracionales
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · número racional e irracional
+
+Llamamos números reales al conjunto de los números racionales e irracionales.
+
+---
+
+## Sub-lote 21 · Números positivos y negativos (p. 30)
+
+### 109
+
+De acuerdo con el libro de Álgebra, ¿qué matemático de la antigüedad es la excepción en cuanto al conocimiento de los números negativos?
+
+- A. Diofanto
+- B. Euclides
+- C. Pitágoras de Samos
+- D. Teodoro de Cirene
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+Los números negativos no fueron conocidos por los matemáticos de la antigüedad, salvo en el caso de Diofanto.
+
+### 110
+
+De acuerdo con el libro de Álgebra, ¿en qué obra de Diofanto se introduce un número con signo +?
+
+- A. En su Aritmética, al explicar el producto de dos diferencias
+- B. En el Libro X de sus "Elementos"
+- C. En su tratado sobre magnitudes inconmensurables
+- D. En su Aritmética, al explicar la división exacta
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+Salvo en el caso de Diofanto, que en su Aritmética, al explicar el producto de dos diferencias, introduce un número con signo +.
+
+### 111
+
+De acuerdo con el libro de Álgebra, ¿qué hicieron los hindúes Brahmagupta y Bháskara con los números negativos?
+
+- A. Los usan de un modo práctico, sin llegar a dar una definición de ellos
+- B. Los definieron por primera vez con rigor
+- C. Rehuyeron usarlos
+- D. Introdujeron los signos + y − para caracterizarlos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+Los hindúes Brahmagupta y Bháskara usan los números negativos de un modo práctico, sin llegar a dar una definición de ellos.
+
+### 112
+
+De acuerdo con el libro de Álgebra, ¿qué actitud tuvieron los matemáticos durante la Edad Media y el Renacimiento frente a los números negativos?
+
+- A. Rehuyeron usarlos
+- B. Los usaron de un modo práctico
+- C. Los definieron con rigor por primera vez
+- D. Los emplearon para medir magnitudes relativas
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+Durante la Edad Media y el Renacimiento los matemáticos rehuyeron usar los números negativos.
+
+### 113
+
+De acuerdo con el libro de Álgebra, ¿quién fue el primero en comprender la verdadera naturaleza de los números negativos?
+
+- A. Newton
+- B. Harriot
+- C. Diofanto
+- D. Brahmagupta
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+Y fue Newton el primero en comprender la verdadera naturaleza de estos números.
+
+### 114
+
+De acuerdo con el libro de Álgebra, ¿quién introdujo los signos + y − para caracterizar los números positivos y negativos?
+
+- A. Harriot (1560-1621)
+- B. Newton
+- C. Diofanto
+- D. Bháskara
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+Posteriormente Harriot (1560-1621) introdujo los signos + y − para caracterizar los números positivos y negativos.
+
+> Newton y Harriot van en la misma oración y hacen cosas distintas: Newton
+> **comprende la naturaleza** de los negativos, Harriot **introduce los signos**.
+> Es la confusión más probable de este pasaje.
+
+### 115
+
+De acuerdo con el libro de Álgebra, ¿cómo se llaman también los números positivos y negativos?
+
+- A. Números relativos o con signos
+- B. Números reales
+- C. Números inconmensurables
+- D. Números racionales
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+La significación de los números relativos o con signos (positivos y negativos) se comprende claramente, cuando los utilizamos para representar el resultado de medir magnitudes relativas.
+
+### 116
+
+De acuerdo con el libro de Álgebra, ¿qué son las magnitudes relativas?
+
+- A. Magnitudes cuyas cantidades pueden tomarse en sentidos opuestos
+- B. Magnitudes que no pueden medirse con un número entero ni fraccionario
+- C. Magnitudes que se expresan como cociente de dos enteros
+- D. Magnitudes que sólo admiten valores positivos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+Cuando los utilizamos para representar el resultado de medir magnitudes relativas, es decir, magnitudes cuyas cantidades pueden tomarse en sentidos opuestos.
+
+### 117
+
+De acuerdo con el libro de Álgebra, ¿cuál es el meridiano fijado arbitrariamente que menciona el libro?
+
+- A. Greenwich
+- B. El Ecuador
+- C. El de Samos
+- D. El de Alejandría
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+Podemos hablar de longitud este u oeste con respecto a un meridiano fijado arbitrariamente (Greenwich).
+
+### 118
+
+De acuerdo con el libro de Álgebra, históricamente, ¿para qué surgen los números negativos?
+
+- A. Para hacer posible la resta en todos los casos
+- B. Para medir magnitudes inconmensurables
+- C. Para expresar el cociente de dos enteros
+- D. Para representar la relación de la circunferencia al diámetro
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+Históricamente, los números negativos surgen para hacer posible la resta en todos los casos.
+
+### 119
+
+De acuerdo con el libro de Álgebra, al surgir los números negativos, ¿en qué se convierte la resta?
+
+- A. En una operación inversa de la suma, y se hace posible restarle a un minuendo menor un sustraendo mayor
+- B. En una operación equivalente a la división exacta
+- C. En una operación entre magnitudes relativas
+- D. En una operación inversa de la multiplicación
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+De este modo, la resta se convierte en una operación inversa de la suma, y se hace posible restarle a un minuendo menor un sustraendo mayor.
+
+### 120
+
+De acuerdo con el libro de Álgebra, ¿cómo se distinguen los números y símbolos literales negativos?
+
+- A. Por el signo − que llevan antepuesto
+- B. Por el signo − que llevan pospuesto
+- C. Por ir encerrados entre paréntesis
+- D. Por iniciar siempre una expresión algebraica
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+Los números y símbolos literales negativos se distinguen por el signo − que llevan antepuesto.
+
+### 121
+
+De acuerdo con el libro de Álgebra, ¿cuándo llevan el signo + los números positivos y su representación literal?
+
+- A. Siempre que no inicien una expresión algebraica
+- B. Siempre, sin excepción alguna
+- C. Sólo cuando inician una expresión algebraica
+- D. Nunca, porque el signo + se omite siempre
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
+**Subtema:** Preliminares · números positivos y negativos
+
+Los números positivos y su representación literal llevan el signo +, siempre que no inicien una expresión algebraica.
+
+---
+
+**Reactivos en este archivo:** 121
