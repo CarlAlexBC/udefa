@@ -40,7 +40,7 @@ valioso y probable en el examen. Se documenta por si se decide separarla.
 
 ## Cobertura actual
 
-Cubiertas las **páginas impresas 5 a 10, 13 a 26 y 28 a 30**:
+Cubiertas las **páginas impresas 5 a 10, 13 a 26 y 28 a 33**:
 
 - Concepto de álgebra, notación, exponente, base, radical y coeficiente.
 - Signos de relación y de agrupación.
@@ -61,6 +61,16 @@ Cubiertas las **páginas impresas 5 a 10, 13 a 26 y 28 a 30**:
   definiciones de racional, irracional y número real.
 - Números positivos y negativos: de Diofanto a Harriot, magnitudes relativas, y
   las reglas de escritura del signo.
+- El número cero como conjunto nulo o vacío y como elemento de separación; el
+  diagrama de las clases de números reales.
+- Leyes formales de las operaciones fundamentales: qué son, por qué se llaman
+  axiomas, y por qué sólo se exponen las de la suma y la multiplicación. Con qué
+  propósito entraron al campo numérico los irracionales, los fraccionarios y los
+  negativos.
+- Axiomas de la igualdad (identidad, reciprocidad, transitividad), de la suma
+  (uniformidad, conmutatividad, asociatividad, módulo), de la multiplicación
+  (uniformidad, distributividad, módulo, existencia del inverso), de orden
+  (tricotomía, monotonía de la suma y de la multiplicación) y de continuidad.
 
 Las páginas 11 y 12 son íntegramente los ejercicios 1, 2 y 3; la mitad superior
 de la 16, el ejercicio 4; y buena parte de las 18 a 21, los ejercicios 6 a 9:
@@ -2053,4 +2063,490 @@ Los números positivos y su representación literal llevan el signo +, siempre q
 
 ---
 
-**Reactivos en este archivo:** 121
+## Sub-lote 22 · El número cero y las clases de números reales (p. 31)
+
+### 122
+
+De acuerdo con el libro de Álgebra, ¿como expresión de qué se considera el número cero?
+
+- A. De un conjunto nulo o vacío, es decir, un conjunto que carece de elementos
+- B. De un conjunto que tiene un solo elemento
+- C. De la comparación de conjuntos equivalentes entre sí
+- D. De la comparación de conjuntos coordinables entre sí
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 31
+**Subtema:** Preliminares · el número cero
+
+Ahora, consideramos el número cero como expresión de un conjunto nulo o vacío, es decir, un conjunto que carece de elementos.
+
+> Los tres distractores salen del mismo párrafo: ahí el libro dice que el número
+> natural surge de la comparación de conjuntos equivalentes o coordinables entre
+> sí, y que el conjunto de un solo elemento se representa por el número 1.
+
+### 123
+
+De acuerdo con el libro de Álgebra, ¿qué representa el cero respecto de los números negativos y positivos?
+
+- A. Un elemento de separación entre los números negativos y positivos
+- B. Un elemento de enlace que pertenece a la vez a los negativos y a los positivos
+- C. El menor de todos los números positivos
+- D. El mayor de todos los números negativos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 31
+**Subtema:** Preliminares · el número cero
+
+Por otra parte, el cero representa un elemento de separación entre los números negativos y positivos, de modo que el cero es mayor que cualquier número negativo y menor que cualquier número positivo.
+
+### 124
+
+De acuerdo con el diagrama de clases de números del libro de Álgebra, ¿en qué se dividen los números racionales?
+
+- A. En enteros y fraccionarios
+- B. En positivos y negativos
+- C. En racionales e irracionales
+- D. En reales e imaginarios
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 31
+**Subtema:** Preliminares · clases de números reales
+
+El siguiente diagrama nos aclarará las distintas clases de números con los cuales vamos a trabajar: NÚMEROS REALES — Negativos, Cero y Positivos; los Negativos y los Positivos se dividen en Racionales e Irracionales; y los Racionales, en Enteros y Fraccionarios.
+
+> En el diagrama sólo los racionales se subdividen. Los irracionales no se
+> ramifican, y ése es el punto que el distractor C aprovecha.
+
+---
+
+## Sub-lote 23 · Leyes formales de las operaciones fundamentales (pp. 31–32)
+
+### 125
+
+De acuerdo con el libro de Álgebra, ¿qué quiere decir que las leyes de la suma y de la multiplicación sean formales?
+
+- A. Que no toman en cuenta la naturaleza de los números
+- B. Que se deducen de la naturaleza de cada clase de número
+- C. Que sólo se aplican a los números naturales
+- D. Que requieren una demostración previa
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 31
+**Subtema:** Preliminares · leyes formales
+
+Vamos a exponer las leyes formales (esto es, que no toman en cuenta la naturaleza de los números) de la suma y de la multiplicación.
+
+### 126
+
+De acuerdo con el libro de Álgebra, ¿cómo se llaman las leyes que no requieren demostración, por ser de aprehensión inmediata?
+
+- A. Axiomas
+- B. Teoremas
+- C. Corolarios
+- D. Lemas
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · leyes formales
+
+Estas leyes que no requieren demostración, pues son de aprehensión inmediata, se llaman axiomas.
+
+### 127
+
+De acuerdo con el libro de Álgebra, ¿qué constituye el conjunto de estas leyes formales?
+
+- A. Una definición indirecta de los números reales y de las operaciones fundamentales
+- B. Una definición directa de los números naturales y de sus propiedades
+- C. Una demostración de la existencia de los números irracionales
+- D. Una clasificación de las operaciones en directas e inversas
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · leyes formales
+
+Por otra parte, el conjunto de estas leyes formales constituirá una definición indirecta de los números reales y de las operaciones fundamentales.
+
+### 128
+
+De acuerdo con el libro de Álgebra, ¿de qué dos operaciones se exponen las leyes formales?
+
+- A. De la suma y de la multiplicación
+- B. De la suma y de la resta
+- C. De la multiplicación y de la división
+- D. De la potenciación y de la radicación
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 31
+**Subtema:** Preliminares · leyes formales
+
+Vamos a exponer las leyes formales de la suma y de la multiplicación.
+
+### 129
+
+De acuerdo con el libro de Álgebra, ¿por qué se exponen las leyes formales sólo de esas dos operaciones?
+
+- A. Porque las demás operaciones fundamentales pueden explicarse como inversas de éstas
+- B. Porque las demás operaciones fundamentales no cumplen las leyes formales
+- C. Porque las demás operaciones fundamentales carecen de axiomas propios
+- D. Porque las demás operaciones fundamentales sólo se aplican a números naturales
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 31
+**Subtema:** Preliminares · leyes formales
+
+Ya que las demás operaciones fundamentales pueden explicarse como inversas de éstas, así, la resta, la división, la potenciación, la logaritmación y la radicación.
+
+### 130
+
+De acuerdo con el libro de Álgebra, ¿con qué propósito se introdujeron los números irracionales?
+
+- A. Con el propósito de representar magnitudes inconmensurables, como razón de dos segmentos
+- B. Con el propósito de expresar el resultado de medir magnitudes conmensurables
+- C. Con el propósito de hacer posible la resta en todos los casos
+- D. Con el propósito de representar los puntos a uno y otro lado de una recta indefinida
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 31
+**Subtema:** Preliminares · ampliación del campo numérico
+
+Como ejemplos del primer caso, tenemos los números irracionales, introducidos como razón de dos segmentos con el propósito de representar magnitudes inconmensurables, y que hacen posible la expresión del resultado de la radicación inexacta.
+
+### 131
+
+De acuerdo con el libro de Álgebra, ¿para qué surgen los números fraccionarios?
+
+- A. Para expresar el resultado de medir magnitudes conmensurables
+- B. Para expresar el resultado de medir magnitudes inconmensurables
+- C. Para expresar el resultado de la radicación inexacta
+- D. Para hacer posible la resta en todos los casos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 31
+**Subtema:** Preliminares · ampliación del campo numérico
+
+Y también, los números fraccionarios que surgen para expresar el resultado de medir magnitudes conmensurables, y que hacen posible la división inexacta.
+
+> Par que se presta a confusión, y el libro los define en el mismo párrafo:
+> **conmensurables** son los fraccionarios, **inconmensurables** los
+> irracionales. Cada uno es el mejor distractor del otro (ver reactivo 130).
+
+### 132
+
+De acuerdo con el libro de Álgebra, ¿cómo aparecen por primera vez los números negativos?
+
+- A. Como raíces de ecuaciones
+- B. Como razón de dos segmentos
+- C. Como resultado de medir magnitudes conmensurables
+- D. Como expresión de un conjunto nulo o vacío
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 31
+**Subtema:** Preliminares · ampliación del campo numérico
+
+Como ejemplo del segundo caso, están los números negativos que aparecen por primera vez como raíces de ecuaciones.
+
+### 133
+
+De acuerdo con el libro de Álgebra, ¿qué operación hacen posible los números negativos?
+
+- A. La resta en todos los casos
+- B. La división inexacta
+- C. La radicación inexacta
+- D. La multiplicación de magnitudes relativas
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 31
+**Subtema:** Preliminares · ampliación del campo numérico
+
+Los números negativos hacen posible la resta en todos los casos, ya que cuando el minuendo es menor que el sustraendo esta operación carece de sentido cuando trabajamos con números naturales.
+
+---
+
+## Sub-lote 24 · Axiomas de la igualdad (p. 32)
+
+### 134
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de identidad de la igualdad?
+
+- A. Que a = a
+- B. Que si a = b, tenemos que b = a
+- C. Que si a = b y b = c, tenemos que a = c
+- D. Que hay un número y sólo un número, el cero, de modo que a + 0 = a
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la igualdad
+
+Axioma de identidad: a = a.
+
+### 135
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de reciprocidad?
+
+- A. Que si a = b, tenemos que b = a
+- B. Que a = a
+- C. Que si a = b y b = c, tenemos que a = c
+- D. Que si a = b y c = d, tenemos que a + c = b + d
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la igualdad
+
+Axioma de reciprocidad: si a = b, tenemos que b = a.
+
+### 136
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de transitividad?
+
+- A. Que si a = b y b = c, tenemos que a = c
+- B. Que si a = b, tenemos que b = a
+- C. Que a = a
+- D. Que si a = b y c = d, tenemos que ac = bd
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la igualdad
+
+Axioma de transitividad: si a = b y b = c, tenemos que a = c.
+
+> Los tres axiomas de la igualdad se definen seguidos y se confunden entre sí.
+> Cada uno se usó como distractor de los otros dos.
+
+---
+
+## Sub-lote 25 · Axiomas de la suma (p. 32)
+
+### 137
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de uniformidad de la suma?
+
+- A. Que la suma de dos números es siempre igual, es decir, única
+- B. Que el producto de dos números es siempre igual, es decir, único
+- C. Que a + b = b + a
+- D. Que (a + b) + c = a + (b + c)
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la suma
+
+Axioma de uniformidad: la suma de dos números es siempre igual, es decir, única; así, si a = b y c = d, tenemos que a + c = b + d.
+
+### 138
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de conmutatividad de la suma?
+
+- A. Que a + b = b + a
+- B. Que (a + b) + c = a + (b + c)
+- C. Que a + 0 = 0 + a = a
+- D. Que a(b + c) = ab + ac
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la suma
+
+Axioma de conmutatividad: a + b = b + a.
+
+### 139
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de asociatividad de la suma?
+
+- A. Que (a + b) + c = a + (b + c)
+- B. Que a + b = b + a
+- C. Que a + 0 = 0 + a = a
+- D. Que si a = b y c = d, tenemos que a + c = b + d
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la suma
+
+Axioma de asociatividad: (a + b) + c = a + (b + c).
+
+### 140
+
+De acuerdo con el libro de Álgebra, ¿qué número establece el axioma de identidad o módulo de la suma?
+
+- A. Hay un número y sólo un número, el cero, de modo que a + 0 = 0 + a = a
+- B. Hay un número y sólo un número, el uno, de modo que a · 1 = 1 · a = a
+- C. Hay un número y sólo un número, x, de modo que ax = 1
+- D. Hay un número real c con el que se verifica que a ≤ c ≤ b
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la suma
+
+Axioma de identidad, o módulo de la suma: hay un número y sólo un número, el cero, de modo que a + 0 = 0 + a = a, para cualquier valor de a.
+
+### 141
+
+De acuerdo con el libro de Álgebra, ¿qué nombre recibe el cero por ese axioma?
+
+- A. Elemento idéntico o módulo de la suma
+- B. Elemento inverso o recíproco de la suma
+- C. Elemento neutro o separador de la suma
+- D. Elemento uniforme o único de la suma
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la suma
+
+De ahí que el cero reciba el nombre de elemento idéntico o módulo de la suma.
+
+---
+
+## Sub-lote 26 · Axiomas de la multiplicación (p. 32)
+
+### 142
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de uniformidad de la multiplicación?
+
+- A. Que el producto de dos números es siempre igual, es decir, único
+- B. Que la suma de dos números es siempre igual, es decir, única
+- C. Que ab = ba
+- D. Que (ab)c = a(bc)
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la multiplicación
+
+Axioma de uniformidad: el producto de dos números es siempre igual, es decir, único, así si a = b y c = d, tenemos que ac = bd.
+
+### 143
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de distributividad con respecto a la suma?
+
+- A. Que a(b + c) = ab + ac
+- B. Que (ab)c = a(bc)
+- C. Que (a + b) + c = a + (b + c)
+- D. Que ab = ba
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la multiplicación
+
+Axioma de distributividad: con respecto a la suma tenemos que a(b + c) = ab + ac.
+
+### 144
+
+De acuerdo con el libro de Álgebra, ¿qué número establece el axioma de identidad o módulo del producto?
+
+- A. Hay un número y sólo un número, el uno (1), de modo que a · 1 = 1 · a = a
+- B. Hay un número y sólo un número, el cero, de modo que a + 0 = 0 + a = a
+- C. Hay un número y sólo un número, x, de modo que ax = 1
+- D. Hay un número y sólo un número, a, de modo que a = a
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la multiplicación
+
+Axioma de identidad, o módulo del producto: hay un número y sólo un número, el uno (1), de modo que a · 1 = 1 · a = a, para cualquier valor de a.
+
+> El módulo de la suma es el cero y el módulo del producto es el uno. El libro
+> los enuncia con la misma redacción, y por eso se usan uno de distractor del
+> otro (ver reactivo 140).
+
+### 145
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de existencia del inverso?
+
+- A. Que a todo número real a ≠ 0 corresponde un número real, y sólo uno, x, de modo que ax = 1
+- B. Que a todo número real a ≠ 0 corresponde un número real, y sólo uno, x, de modo que ax = 0
+- C. Que a todo número real a corresponde un número real, y sólo uno, x, de modo que a + x = 0
+- D. Que a todo número real a corresponde un número real, y sólo uno, x, de modo que a + x = 1
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la multiplicación
+
+Axioma de existencia del inverso: para todo número real a ≠ 0 (a distinto de cero) corresponde un número real, y sólo uno, x, de modo que ax = 1.
+
+### 146
+
+De acuerdo con el libro de Álgebra, ¿cómo se llama y cómo se representa ese número x?
+
+- A. Se llama inverso o recíproco de a, y se representa por 1/a
+- B. Se llama opuesto o simétrico de a, y se representa por −a
+- C. Se llama módulo o elemento idéntico de a, y se representa por 1/a
+- D. Se llama valor absoluto de a, y se representa por |a|
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de la multiplicación
+
+Este número x se llama inverso o recíproco de a, y se representa por 1/a.
+
+---
+
+## Sub-lote 27 · Axiomas de orden y de continuidad (pp. 32–33)
+
+### 147
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de tricotomía?
+
+- A. Que entre dos números reales a y b sólo puede haber una relación, y sólo una: a > b; a = b o a < b
+- B. Que entre dos números reales a y b siempre se verifica que a > b o que a < b
+- C. Que entre dos números reales a y b existe siempre un tercer número real c
+- D. Que si a > b tenemos que a + c > b + c
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de orden
+
+Tricotomía: si tenemos dos números reales a y b sólo puede haber una relación, y sólo una, entre ambos, que a > b; a = b o a < b.
+
+> El distractor B omite el caso a = b. Es el error típico de quien recuerda el
+> nombre del axioma pero no las tres relaciones que enumera.
+
+### 148
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de monotonía de la suma?
+
+- A. Que si a > b tenemos que a + c > b + c
+- B. Que si a > b y c > 0 tenemos que ac > bc
+- C. Que si a = b y c = d tenemos que a + c = b + d
+- D. Que si a > b tenemos que a + c > b, para cualquier valor de c
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de orden
+
+Monotonía de la suma: si a > b tenemos que a + c > b + c.
+
+### 149
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de monotonía de la multiplicación?
+
+- A. Que si a > b y c > 0 tenemos que ac > bc
+- B. Que si a > b tenemos que ac > bc, para cualquier valor de c
+- C. Que si a > b y c < 0 tenemos que ac > bc
+- D. Que si a > b tenemos que a + c > b + c
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 32
+**Subtema:** Preliminares · axiomas de orden
+
+Monotonía de la multiplicación: si a > b y c > 0 tenemos que ac > bc.
+
+> La condición **c > 0** es lo que distingue este axioma. Los distractores B y C
+> la quitan o la invierten, que es justo donde falla quien lo estudió por encima.
+
+### 150
+
+De acuerdo con el libro de Álgebra, ¿qué establece el axioma de continuidad para dos conjuntos de números reales A y B, en que todo número de A es menor que cualquier número de B?
+
+- A. Que existirá siempre un número real c con el que se verifique que a ≤ c ≤ b
+- B. Que existirá siempre un número real c con el que se verifique que a < c < b
+- C. Que existirá siempre un número real c que pertenezca a la vez a los conjuntos A y B
+- D. Que no existirá ningún número real entre el conjunto A y el conjunto B
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 33
+**Subtema:** Preliminares · axioma de continuidad
+
+Axioma de continuidad: Si tenemos dos conjuntos de números reales A y B, de modo que todo número de A es menor que cualquier número de B, existirá siempre un número real c con el que se verifique que a ≤ c ≤ b, en que a es un número que está dentro del conjunto A, y b es un número que está dentro del conjunto B.
+
+> El libro escribe la relación con **≤**, no con **<**. El distractor B cambia
+> sólo ese signo.
+
+---
+
+**Reactivos en este archivo:** 150
