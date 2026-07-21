@@ -7,11 +7,17 @@ import Image from 'next/image'
 import { apiFetch } from '@/lib/api'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
-import { INSTRUCCIONES_POR_BLOQUE } from '@/lib/instrucciones-bloques'
+import {
+  INSTRUCCIONES_POR_BLOQUE,
+  INSTRUCCIONES_POR_TIPO,
+  AVISO_CAMBIO_MATERIA,
+  type InstruccionesBloque,
+} from '@/lib/instrucciones-bloques'
 import {
   AlertCircle,
   ArrowLeft,
   ArrowRight,
+  BookOpen,
   CheckCircle2,
   Clock,
   Loader2,
@@ -99,6 +105,9 @@ export default function SimuladorPage({
   const [reactivoIndex, setReactivoIndex] = useState(0)
   const [respuestas, setRespuestas] = useState<Record<number, string>>({})
   const [tiempoRestanteSeg, setTiempoRestanteSeg] = useState(0)
+  // Nombre de la materia recién iniciada, para el aviso de los exámenes que
+  // corren de corrido. Se limpia solo a los pocos segundos.
+  const [avisoMateria, setAvisoMateria] = useState<string | null>(null)
 
   // Timestamp del inicio del intento — usado para `respondidoEnMs` de cada respuesta.
   const inicioMsRef = useRef<number>(0)
@@ -124,6 +133,16 @@ export default function SimuladorPage({
    * Dato confirmado por Carlo el 21 jul 2026: el cultural es global de 2 horas.
    */
   const esCronometroGlobal = examen?.tipo === 'cultural'
+
+  /**
+   * Exámenes que corren "de corrido": una sola instrucción al principio y las
+   * materias una tras otra, sin pantalla intermedia. Al cambiar de materia sólo
+   * se muestra un aviso encima del reactivo.
+   *
+   * El psicométrico es lo contrario: cada bloque es una prueba aparte, con sus
+   * instrucciones y su propio tiempo.
+   */
+  const esDeCorrido = examen?.tipo === 'cultural'
 
   /* ─── Iniciar simulador (crea intento + arma examen) ─── */
   async function iniciar() {
@@ -201,13 +220,21 @@ export default function SimuladorPage({
   /* ─── Pasar al siguiente bloque (o finalizar si es el último) ─── */
   const pasarASiguienteBloque = useCallback(() => {
     if (bloqueIndex < bloques.length - 1) {
-      setBloqueIndex(bloqueIndex + 1)
+      const siguiente = bloqueIndex + 1
+      setBloqueIndex(siguiente)
       setReactivoIndex(0)
-      setEstado('instrucciones')
+      if (esDeCorrido) {
+        // De corrido: no se corta el examen con una pantalla de instrucciones,
+        // sólo se avisa que cambió la materia y se sigue.
+        setAvisoMateria(bloques[siguiente]?.nombre ?? null)
+        setEstado('en_progreso')
+      } else {
+        setEstado('instrucciones')
+      }
     } else {
       finalizar('COMPLETADA')
     }
-  }, [bloqueIndex, bloques.length, finalizar])
+  }, [bloqueIndex, bloques, esDeCorrido, finalizar])
 
   /* ─── Comenzar el bloque actual (arranca timer) ─── */
   function comenzarBloque() {
@@ -265,6 +292,13 @@ export default function SimuladorPage({
     }, 1000)
     return () => clearInterval(interval)
   }, [estado])
+
+  /* ─── El aviso de cambio de materia se retira solo ─── */
+  useEffect(() => {
+    if (!avisoMateria) return
+    const t = setTimeout(() => setAvisoMateria(null), 6000)
+    return () => clearTimeout(t)
+  }, [avisoMateria])
 
   // Cuando el tiempo se agota: con reloj global se acaba el examen entero,
   // sin importar en qué materia vaya. Con reloj por bloque sólo se cierra ese
@@ -330,6 +364,12 @@ export default function SimuladorPage({
         bloqueIndex={bloqueIndex}
         totalBloques={bloques.length}
         esUltimo={esUltimoBloque}
+        // De corrido: una sola instrucción para todo el examen, no una por
+        // materia, y el progreso se cuenta en reactivos y no en bloques.
+        instruccionesDelExamen={
+          esDeCorrido && examen ? INSTRUCCIONES_POR_TIPO[examen.tipo] : undefined
+        }
+        totalReactivos={bloques.reduce((n, b) => n + b.reactivos.length, 0)}
         cronometroGlobalSeg={
           esCronometroGlobal
             ? cronometroArrancadoRef.current
@@ -362,7 +402,9 @@ export default function SimuladorPage({
           <div>
             <p className="text-xs font-semibold uppercase tracking-widest text-military">
               {examen?.nombre ?? 'Simulador'}
-              {bloques.length > 1
+              {esDeCorrido
+                ? ` · ${bloqueActual.nombre}`
+                : bloques.length > 1
                 ? ` · Bloque ${bloqueIndex + 1} de ${bloques.length}`
                 : ''}
             </p>
@@ -383,6 +425,23 @@ export default function SimuladorPage({
       {/* Contenido del reactivo — columna centrada, ocupa el espacio disponible */}
       <div className="flex-1">
         <div className="mx-auto max-w-3xl px-6 py-8">
+          {/* Aviso de cambio de materia — sólo en exámenes de corrido. No corta
+              el examen ni detiene el reloj: avisa y se retira solo. */}
+          {avisoMateria && (
+            <div
+              role="status"
+              className="mb-6 flex items-start gap-3 rounded-lg border border-military/30 bg-military/5 px-4 py-3"
+            >
+              <BookOpen className="mt-0.5 h-4 w-4 shrink-0 text-military" />
+              <p className="text-sm text-foreground">
+                <span className="font-semibold">Ahora: {avisoMateria}.</span>{' '}
+                <span className="text-muted-foreground">
+                  {AVISO_CAMBIO_MATERIA[avisoMateria] ?? 'Sigue el examen sin pausa.'}
+                </span>
+              </p>
+            </div>
+          )}
+
           {/* Bloque enunciado con altura mínima fija — evita que los botones
               de opciones brinquen entre reactivos con textos de distinto largo.
               El enunciado se centra verticalmente en ese espacio. */}
@@ -558,6 +617,8 @@ function PantallaInstrucciones({
   onComenzar,
   onSaltar,
   cronometroGlobalSeg,
+  instruccionesDelExamen,
+  totalReactivos,
 }: {
   bloque: Bloque
   bloqueIndex: number
@@ -570,32 +631,44 @@ function PantallaInstrucciones({
    * cronómetro global. `null` cuando cada bloque tiene su propio tiempo.
    */
   cronometroGlobalSeg?: number | null
+  /**
+   * Instrucciones del examen completo, para los que corren de corrido. Cuando
+   * viene, sustituye a las del bloque: el aspirante ve una sola pantalla.
+   */
+  instruccionesDelExamen?: InstruccionesBloque
+  /** Reactivos de todo el examen, para anunciar el total y no el del bloque. */
+  totalReactivos?: number
 }) {
-  const info = INSTRUCCIONES_POR_BLOQUE[bloque.nombre]
+  const deCorrido = instruccionesDelExamen != null
+  const info = instruccionesDelExamen ?? INSTRUCCIONES_POR_BLOQUE[bloque.nombre]
   const sinReactivos = bloque.reactivos.length === 0
 
   return (
     <main className="min-h-screen bg-background">
       <div className="mx-auto max-w-3xl px-6 py-12">
-        {/* Progreso de bloques */}
-        <div className="mb-8 flex items-center gap-2">
-          {Array.from({ length: totalBloques }).map((_, i) => (
-            <div
-              key={i}
-              className={cn(
-                'h-1 flex-1 rounded-full',
-                i < bloqueIndex
-                  ? 'bg-military'
-                  : i === bloqueIndex
-                  ? 'bg-accent'
-                  : 'bg-muted',
-              )}
-            />
-          ))}
-        </div>
+        {/* Progreso de bloques — de corrido no aplica: es un examen solo. */}
+        {!deCorrido && (
+          <div className="mb-8 flex items-center gap-2">
+            {Array.from({ length: totalBloques }).map((_, i) => (
+              <div
+                key={i}
+                className={cn(
+                  'h-1 flex-1 rounded-full',
+                  i < bloqueIndex
+                    ? 'bg-military'
+                    : i === bloqueIndex
+                    ? 'bg-accent'
+                    : 'bg-muted',
+                )}
+              />
+            ))}
+          </div>
+        )}
 
         <p className="mb-2 text-xs font-semibold uppercase tracking-widest text-military">
-          Bloque {bloqueIndex + 1} de {totalBloques}
+          {deCorrido
+            ? `${totalBloques} materias, de corrido`
+            : `Bloque ${bloqueIndex + 1} de ${totalBloques}`}
         </p>
         <h1 className="mb-4 text-3xl font-semibold tracking-tight text-foreground">
           {info?.titulo ?? bloque.nombre}
@@ -688,7 +761,7 @@ function PantallaInstrucciones({
               ·{' '}
               {sinReactivos
                 ? 'sin reactivos'
-                : `${bloque.reactivos.length} reactivos`}
+                : `${deCorrido ? (totalReactivos ?? bloque.reactivos.length) : bloque.reactivos.length} reactivos`}
             </span>
           </div>
 

@@ -182,11 +182,11 @@ function Dashboard({ perfil, plantel }: { perfil: Perfil; plantel: Plantel }) {
             icono={<Scale className="h-5 w-5 text-accent" />}
           />
           <ExamenCTA
+            href="/inicio/simulador/4"
             fase="Fase 04"
             titulo="Cultural"
-            descripcion="100 preguntas de conocimientos generales (bachillerato). Estructura en construcción."
+            descripcion="100 reactivos de Español, Álgebra, Historia y Geografía. 2 horas con un solo cronómetro."
             icono={<BookOpen className="h-5 w-5 text-accent" />}
-            proximamente
           />
         </div>
       </section>

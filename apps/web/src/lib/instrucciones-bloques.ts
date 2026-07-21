@@ -116,41 +116,27 @@ export const INSTRUCCIONES_POR_BLOQUE: Record<string, InstruccionesBloque> = {
       'Este examen tampoco se califica por aciertos. Se analiza tu compatibilidad con el perfil axiológico militar. Responde honestamente — el sistema detecta perfiles idealizados poco creíbles.',
   },
 
-  /* ─────────────────────────────────────────────────────────────
-     EXAMEN CULTURAL — HCM
+}
 
-     Las cuatro materias del temario. A diferencia del psicométrico,
-     aquí cada reactivo sale textual de un libro oficial del temario, y
-     por eso todos los ejemplos de abajo son reactivos reales del banco.
+/* ═══════════════════════════════════════════════════════════════
+   EXÁMENES QUE CORREN DE CORRIDO
 
-     El examen cultural evalúa RECUERDO LITERAL: la respuesta correcta
-     es cita del libro, no una deducción. Conviene que el aspirante lo
-     sepa antes de empezar, porque cambia cómo hay que estudiarlo.
-     ───────────────────────────────────────────────────────────── */
+   El examen cultural NO se presenta por bloques: es una sola tanda de
+   100 reactivos con una única instrucción al principio y un solo
+   cronómetro de 2 horas (confirmado por Carlo el 21 jul 2026).
 
-  Español: {
-    titulo: 'Español',
+   Las materias siguen existiendo por dentro —para armar el examen y
+   para diagnosticar en el panel de resultados— pero el aspirante no ve
+   una pantalla de instrucciones entre una y otra: sólo un aviso de que
+   cambió de materia.
+   ═══════════════════════════════════════════════════════════════ */
+
+/** Instrucciones que se muestran UNA vez, al empezar, indexadas por `Examen.tipo`. */
+export const INSTRUCCIONES_POR_TIPO: Record<string, InstruccionesBloque> = {
+  cultural: {
+    titulo: 'Examen cultural',
     instrucciones:
-      'Reactivos del libro Taller de Lectura y Redacción 1. Se evalúa que recuerdes lo que dice el libro, no que lo deduzcas: la opción correcta es la que el texto afirma. Lee las cuatro opciones completas antes de contestar — suelen parecerse mucho entre sí.',
-    ejemplo: {
-      enunciado:
-        'De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuáles son los tres tipos básicos de lenguaje?',
-      opciones: [
-        'El emisor, el mensaje y el receptor',
-        'El oral, el escrito y el mímico',
-        'El referencial, el emotivo y el poético',
-        'El técnico, el coloquial y el literario',
-      ],
-      respuestaCorrecta: 'El oral, el escrito y el mímico',
-      explicacion:
-        'Las otras tres opciones son listas que el mismo libro menciona en otras páginas: los elementos del proceso comunicativo, las funciones del lenguaje y los niveles de habla. Todas suenan razonables; sólo una responde la pregunta que se hizo.',
-    },
-  },
-
-  'Álgebra': {
-    titulo: 'Álgebra',
-    instrucciones:
-      'Reactivos del Álgebra de Baldor. Ojo: no vas a tener que resolver operaciones. Se te pregunta por definiciones y reglas — qué es un término, cuál es la regla para restar, qué dice la ley de los signos. Es teoría, no cálculo.',
+      'Son 100 reactivos de Español, Álgebra, Historia y Geografía, uno tras otro y sin pausa entre materias. Tienes 2 horas para todo el examen: puedes repartirlas como quieras, pero cuando el reloj llegue a cero el examen se cierra estés donde estés. Cada reactivo sale de los libros oficiales del temario y se evalúa que RECUERDES lo que dice el libro, no que lo deduzcas. En Álgebra no vas a resolver operaciones: se te pregunta por definiciones y reglas.',
     ejemplo: {
       enunciado: 'De acuerdo con el libro de Álgebra de Baldor, ¿qué es el Álgebra?',
       opciones: [
@@ -162,40 +148,17 @@ export const INSTRUCCIONES_POR_BLOQUE: Record<string, InstruccionesBloque> = {
       respuestaCorrecta:
         'La rama de la Matemática que estudia la cantidad considerada del modo más general posible',
       explicacion:
-        'La primera opción describe la Aritmética, no el Álgebra, y es la confusión más común. La diferencia está en "del modo más general posible": el Álgebra trabaja con letras que pueden valer cualquier cosa.',
+        'La primera opción describe la Aritmética, no el Álgebra, y es la confusión más común. Fíjate en que las cuatro opciones se parecen mucho: así es todo el examen. Léelas completas antes de contestar.',
     },
+    notaEspecial:
+      'Un solo cronómetro para las cuatro materias. Si te atoras en una pregunta, márcala mentalmente y sigue — es preferible perder una que quedarte sin tiempo para las últimas veinte.',
   },
+}
 
-  Historia: {
-    titulo: 'Historia',
-    instrucciones:
-      'Reactivos del libro Historia Universal, capítulo del mundo contemporáneo. Se preguntan hechos concretos: fechas, países, personajes y acuerdos. Las cuatro opciones suelen ser del mismo tipo — si la respuesta es una década, las cuatro son décadas.',
-    ejemplo: {
-      enunciado:
-        'De acuerdo con el libro de Historia Universal, ¿desde qué década atraviesa Brasil la grave crisis económica?',
-      opciones: [
-        'Desde la década de los noventa',
-        'Desde la década de los setenta',
-        'Desde la década de los sesenta',
-        'Desde la década de los ochenta',
-      ],
-      respuestaCorrecta: 'Desde la década de los ochenta',
-      explicacion:
-        'Las cuatro opciones son décadas vecinas y todas suenan igual de posibles. En este tipo de reactivo no hay forma de deducir la respuesta: o recuerdas el dato del libro o no. Por eso conviene estudiar fechas en bloque y no sueltas.',
-    },
-  },
-
-  'Geografía': {
-    titulo: 'Geografía',
-    instrucciones:
-      'Reactivos del libro Geografía Moderna de México. Se preguntan datos precisos: coordenadas, ríos, superficies, nombres de accidentes geográficos. Fíjate bien en las cifras — los distractores suelen ser cifras vecinas del mismo cuadro del libro.',
-    ejemplo: {
-      enunciado:
-        'De acuerdo con el libro de Geografía Moderna de México, ¿en la desembocadura de qué río se localiza el paralelo 14° 32\' 45" N, coordenada extrema sur del territorio continental?',
-      opciones: ['Río Colorado', 'Río Suchiate', 'Río Usumacinta', 'Río Bravo'],
-      respuestaCorrecta: 'Río Suchiate',
-      explicacion:
-        'Los cuatro son ríos fronterizos o extremos que el libro menciona. El Bravo y el Colorado marcan el norte; el Suchiate marca el sur. Confundir el extremo norte con el sur es el error típico aquí.',
-    },
-  },
+/** Aviso breve al entrar a cada materia. No corta el examen: sólo avisa. */
+export const AVISO_CAMBIO_MATERIA: Record<string, string> = {
+  Español: 'Reactivos del Taller de Lectura y Redacción 1.',
+  'Álgebra': 'Álgebra de Baldor. Definiciones y reglas, no operaciones.',
+  Historia: 'Historia Universal, el mundo contemporáneo.',
+  'Geografía': 'Geografía Moderna de México. Fíjate en las cifras.',
 }
