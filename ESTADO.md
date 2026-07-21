@@ -31,7 +31,7 @@ _Regenerado el 2026-07-21._
 
 | Materia | Reactivos | Pendiente |
 |---|---:|---|
-| EMM · Biología · Capítulo 3 · Origen de la vida | 202 | el cierre del capítulo 3 — el apartado "Temas en debate" sobre el diseño inteligente (pp. 55–60), que también va con `render.py` — y los capítulos 4, 5, 7, 8, 11, 12, 31, 32, 35, 36 y 37. |
+| EMM · Biología · Capítulo 3 · Origen de la vida | 202 | los capítulos 4, 5, 7, 8, 11, 12, 31, 32, 35, 36 y 37. |
 | HCM · Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
 | HCM · Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
 | HCM · Álgebra · Capítulo II · Resta | 23 | ninguno. El capítulo II (pp. 46–57) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-03-signos-agrupacion.md`. |

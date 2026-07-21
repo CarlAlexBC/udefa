@@ -77,7 +77,7 @@ primeras células**, que va de la página impresa **32 a la 60**.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **35 a 55**:
+**El capítulo 3 queda cerrado.** Cubiertas las páginas impresas **35 a 55**:
 
 - La formación de los primeros átomos tras el Big Bang y el origen del sistema
   solar.
@@ -128,9 +128,14 @@ Cubiertas las páginas impresas **35 a 55**:
 - El ensayo 3-3, mecanicismo y vitalismo: Descartes, Pasteur vitalista, y los
   Buchner cerrando el debate con la enzima.
 
-**Pendiente:** el cierre del capítulo 3 — el apartado "Temas en debate" sobre el
-diseño inteligente (pp. 55–60), que también va con `render.py` — y los capítulos
-4, 5, 7, 8, 11, 12, 31, 32, 35, 36 y 37.
+**Apartado dejado fuera a propósito.** El cierre del capítulo, "Temas en debate"
+(pp. 55–60) —¿diseño inteligente?, vida "sintética" de Craig Venter, el caso
+judicial de Dover, las patentes de biología sintética— es **discusión filosófica
+y social, no recuerdo literal de definiciones o procesos**. Decisión de Carlo (21
+jul 2026): no da reactivos de examen cultural. Se leyó con `render.py` para
+confirmarlo; no hay contenido examinable que se haya perdido.
+
+**Pendiente:** los capítulos 4, 5, 7, 8, 11, 12, 31, 32, 35, 36 y 37.
 
 ## Erratas del libro
 
