@@ -59,7 +59,7 @@ razonamiento — se pregunta por el dato tal como está en el libro.
 
 ### 1
 
-De acuerdo con el libro de Geografía Moderna de México, ¿en la desembocadura de qué río se localiza el paralelo 14° 32' 45" N, coordenada extrema sur del territorio continental?
+En relación con el libro de Geografía Moderna de México, ¿en la desembocadura de qué río se localiza el paralelo 14° 32' 45" N, coordenada extrema sur del territorio continental?
 
 - A. Río Bravo
 - B. Río Suchiate
@@ -74,7 +74,7 @@ El territorio se extiende entre los paralelos 14° 32' 45" N en la desembocadura
 
 ### 2
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué accidente se considera el límite entre la porción de México que queda en Norteamérica y la que queda en Centroamérica?
+De conformidad con el libro de Geografía Moderna de México, ¿qué accidente se considera el límite entre la porción de México que queda en Norteamérica y la que queda en Centroamérica?
 
 - A. El Istmo de Tehuantepec
 - B. La Sierra Madre del Sur
@@ -104,7 +104,7 @@ El meridiano oriental extremo que toca al país es de 86° 46' W, que correspond
 
 ### 4
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué estrecho une al Golfo de México con el Mar de las Antillas?
+De conformidad con el libro de Geografía Moderna de México, ¿qué estrecho une al Golfo de México con el Mar de las Antillas?
 
 - A. El Canal de Yucatán
 - B. El Estrecho de Florida
@@ -134,7 +134,7 @@ Por la presencia de la Península de Baja California, por lo general paralela a 
 
 ### 6
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué extensión alcanza la línea fronteriza entre México y Estados Unidos de América?
+De conformidad con el libro de Geografía Moderna de México, ¿qué extensión alcanza la línea fronteriza entre México y Estados Unidos de América?
 
 - A. 2 240.0 km
 - B. 3 114.7 km
@@ -149,7 +149,7 @@ El país queda limitado, al norte, por Estados Unidos de América, que tiene con
 
 ### 7
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué tratado del 30 de diciembre de 1853 modificó los límites con Estados Unidos y le costó a México más de 109 574 km²?
+De conformidad con el libro de Geografía Moderna de México, ¿qué tratado del 30 de diciembre de 1853 modificó los límites con Estados Unidos y le costó a México más de 109 574 km²?
 
 - A. El Tratado de Paz y Amistad de Guadalupe Hidalgo
 - B. El Tratado de la Mesilla o Gadsden
@@ -168,7 +168,7 @@ Los límites se establecieron usando parte del río Bravo, conforme a lo previst
 
 ### 8
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la cifra oficial del área de México, incluyendo las islas que le pertenecen?
+En relación con el libro de Geografía Moderna de México, ¿cuál es la cifra oficial del área de México, incluyendo las islas que le pertenecen?
 
 - A. 1 967 183 km²
 - B. 1 972 546 km²
@@ -183,7 +183,7 @@ Hoy día se acepta como una cifra oficial, incluyendo las islas pertenecientes a
 
 ### 9
 
-De acuerdo con el libro de Geografía Moderna de México, ¿por qué isobara está limitada la plataforma continental que constitucionalmente forma parte del territorio nacional?
+De conformidad con el libro de Geografía Moderna de México, ¿por qué isobara está limitada la plataforma continental que constitucionalmente forma parte del territorio nacional?
 
 - A. Por la isobara de 100 m de profundidad
 - B. Por la isobara de 200 m de profundidad
@@ -198,7 +198,7 @@ La plataforma continental, limitada por la isobara de 200 m de profundidad, cons
 
 ### 10
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué lugar ocupa México en América por su extensión territorial?
+De conformidad con el libro de Geografía Moderna de México, ¿qué lugar ocupa México en América por su extensión territorial?
 
 - A. Tercer lugar
 - B. Cuarto lugar
@@ -217,7 +217,7 @@ Puede afirmarse que en América, México ocupa el quinto lugar en extensión ter
 
 ### 11
 
-De acuerdo con el libro de Geografía Moderna de México, ¿de qué fecha es la Constitución Política de los Estados Unidos Mexicanos conforme a la cual se integra el territorio nacional?
+En relación con el libro de Geografía Moderna de México, ¿de qué fecha es la Constitución Política de los Estados Unidos Mexicanos conforme a la cual se integra el territorio nacional?
 
 - A. Del 5 de febrero de 1857
 - B. Del 5 de febrero de 1917
@@ -236,7 +236,7 @@ De acuerdo con la *Constitución Política de los Estados Unidos Mexicanos* del 
 
 ### 12
 
-De acuerdo con el libro de Geografía Moderna de México, ¿con las fibras de qué planta se hacía el papel que empleaban los aborígenes para sus cartas geográficas?
+De conformidad con el libro de Geografía Moderna de México, ¿con las fibras de qué planta se hacía el papel que empleaban los aborígenes para sus cartas geográficas?
 
 - A. Del maguey
 - B. Del henequén

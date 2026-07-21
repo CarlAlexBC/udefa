@@ -44,7 +44,7 @@ La República Mexicana dispone de un largo litoral que alcanza 8 559 km de longi
 
 ### 2
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cuántos kilómetros del litoral mexicano reciben el contacto de las aguas del Atlántico, ya sea en el Golfo de México o en el mar Caribe?
+En relación con el libro de Geografía Moderna de México, ¿cuántos kilómetros del litoral mexicano reciben el contacto de las aguas del Atlántico, ya sea en el Golfo de México o en el mar Caribe?
 
 - A. 2 756 km
 - B. 7 147 km
@@ -89,7 +89,7 @@ El accidente más notable del océano Pacífico lo constituye la Península de B
 
 ### 5
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué forma presenta el Golfo de México en el litoral del Atlántico?
+En relación con el libro de Geografía Moderna de México, ¿qué forma presenta el Golfo de México en el litoral del Atlántico?
 
 - A. Una línea cóncava bastante continua
 - B. Una forma convexa
@@ -108,7 +108,7 @@ En el Atlántico podemos encontrar el gran seno mexicano o Golfo de México que 
 
 ### 6
 
-De acuerdo con el libro de Geografía Moderna de México, ¿en cuántas secciones bien definidas es posible considerar el litoral del océano Pacífico?
+De conformidad con el libro de Geografía Moderna de México, ¿en cuántas secciones bien definidas es posible considerar el litoral del océano Pacífico?
 
 - A. En dos secciones
 - B. En tres secciones
@@ -123,7 +123,7 @@ Es posible considerar cuatro secciones bien definidas de este litoral, teniendo 
 
 ### 7
 
-De acuerdo con el libro de Geografía Moderna de México, ¿dónde termina la cuarta sección del litoral del océano Pacífico?
+En relación con el libro de Geografía Moderna de México, ¿dónde termina la cuarta sección del litoral del océano Pacífico?
 
 - A. En el cabo Falso
 - B. En la Punta Mita
@@ -217,7 +217,7 @@ Cuarta sección. Se inicia en la Bahía de Banderas y termina en la barra del r�
 
 ### 13
 
-De acuerdo con el libro de Geografía Moderna de México, ¿a qué fenómenos debe su formación la Bahía de Banderas?
+De conformidad con el libro de Geografía Moderna de México, ¿a qué fenómenos debe su formación la Bahía de Banderas?
 
 - A. A fenómenos de explosión volcánica
 - B. A hundimientos de la corteza
@@ -266,7 +266,7 @@ Desde la desembocadura del río Bravo hasta la Bahía de Términos, este litoral
 
 ### 16
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cómo se llama la larga península que forma la costa de Veracruz a partir de la desembocadura del río Pánuco?
+En relación con el libro de Geografía Moderna de México, ¿cómo se llama la larga península que forma la costa de Veracruz a partir de la desembocadura del río Pánuco?
 
 - A. Cabo Rojo
 - B. Punta de Zempoala
@@ -281,7 +281,7 @@ En el estado de Veracruz, a partir de la desembocadura del río Pánuco, la cost
 
 ### 17
 
-De acuerdo con el libro de Geografía Moderna de México, ¿por qué no puede ser cruzada la Laguna de Tamiahua?
+En relación con el libro de Geografía Moderna de México, ¿por qué no puede ser cruzada la Laguna de Tamiahua?
 
 - A. Porque tiene muy poca profundidad y en sus proximidades hay una zona petrolífera en explotación
 - B. Porque está separada del Golfo por la isla del Carmen
@@ -296,7 +296,7 @@ Tiene muy poca profundidad y no puede ser cruzada porque en sus proximidades se 
 
 ### 18
 
-De acuerdo con el libro de Geografía Moderna de México, ¿sobre qué formación se construyó el puerto artificial de Veracruz?
+De conformidad con el libro de Geografía Moderna de México, ¿sobre qué formación se construyó el puerto artificial de Veracruz?
 
 - A. Sobre un banco coralífero
 - B. Sobre una afloración rocosa
@@ -311,7 +311,7 @@ Apareciendo enseguida manifestaciones coralíferas en forma de bancos, en una de
 
 ### 19
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué dimensiones tiene la Laguna de Términos?
+De conformidad con el libro de Geografía Moderna de México, ¿qué dimensiones tiene la Laguna de Términos?
 
 - A. 70 km de largo y 5 km de ancho
 - B. 50 km de largo y 7 km de ancho
@@ -341,7 +341,7 @@ La costa avanza hacia el norte por efecto de depósitos aluviales formados por l
 
 ### 21
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cómo es la plataforma continental del litoral del Golfo de México, en oposición a lo que ocurre en el océano Pacífico?
+De conformidad con el libro de Geografía Moderna de México, ¿cómo es la plataforma continental del litoral del Golfo de México, en oposición a lo que ocurre en el océano Pacífico?
 
 - A. Es bastante ancha, con mayor desarrollo en la parte occidental y norte de la Península de Yucatán
 - B. Es prácticamente inexistente por la presencia de fallas activas
@@ -375,7 +375,7 @@ En el noroeste de la península se extienden paralelamente a la costa unos bajos
 
 ### 23
 
-De acuerdo con el libro de Geografía Moderna de México, ¿de qué es realmente una saliente el Cabo Catoche?
+De conformidad con el libro de Geografía Moderna de México, ¿de qué es realmente una saliente el Cabo Catoche?
 
 - A. De la Península de Yucatán
 - B. De la isla Holbox
@@ -405,7 +405,7 @@ El último accidente es la boca de Bacalar Chico, formada por el extremo sur de 
 
 ### 25
 
-De acuerdo con el libro de Geografía Moderna de México, ¿a qué país pertenece el cayo de Ambergris, que forma la boca de Bacalar Chico junto con territorio mexicano?
+De conformidad con el libro de Geografía Moderna de México, ¿a qué país pertenece el cayo de Ambergris, que forma la boca de Bacalar Chico junto con territorio mexicano?
 
 - A. A Belize
 - B. A Guatemala
@@ -435,7 +435,7 @@ Al penetrar por esta boca, se llega a la bahía de Chetumal, que pertenece a Mé
 
 ### 27
 
-De acuerdo con el libro de Geografía Moderna de México, ¿por qué la bahía de Chetumal es peligrosa y poco visitada por las embarcaciones?
+De conformidad con el libro de Geografía Moderna de México, ¿por qué la bahía de Chetumal es peligrosa y poco visitada por las embarcaciones?
 
 - A. Porque es de poca profundidad y tiene numerosos bajos
 - B. Porque está cubierta de arrecifes coralíferos emergidos

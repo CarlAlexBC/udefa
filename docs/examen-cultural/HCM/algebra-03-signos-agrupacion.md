@@ -84,7 +84,7 @@ parafrasear ni bajar la dificultad. Cuatro opciones del mismo tipo y magnitud.
 
 ### 1
 
-De acuerdo con el libro de Álgebra, ¿quién fue Thales de Mileto?
+De conformidad con el libro de Álgebra, ¿quién fue Thales de Mileto?
 
 - A. El primero y más famoso de los siete sabios de Grecia
 - B. El último y más famoso de los siete sabios de Grecia
@@ -99,7 +99,7 @@ Thales de Mileto. El primero y más famoso de los siete sabios de Grecia.
 
 ### 2
 
-De acuerdo con el libro de Álgebra, ¿qué fue Thales de Mileto en la filosofía?
+En relación con el libro de Álgebra, ¿qué fue Thales de Mileto en la filosofía?
 
 - A. El primer filósofo jónico
 - B. El último filósofo jónico
@@ -114,7 +114,7 @@ Fue el primer filósofo jónico.
 
 ### 3
 
-De acuerdo con el libro de Álgebra, ¿qué país recorrió Thales de Mileto, donde hizo estudios?
+En relación con el libro de Álgebra, ¿qué país recorrió Thales de Mileto, donde hizo estudios?
 
 - A. Egipto
 - B. Caldea
@@ -147,7 +147,7 @@ Se le atribuye el haber predicho el eclipse de Sol ocurrido en el año 585.
 
 ### 5
 
-De acuerdo con el libro de Álgebra, ¿cómo se le atribuye a Thales haber medido las pirámides?
+En relación con el libro de Álgebra, ¿cómo se le atribuye a Thales haber medido las pirámides?
 
 - A. Mediante las sombras que proyectan
 - B. Mediante la longitud de sus lados
@@ -162,7 +162,7 @@ También se le atribuye el haber realizado la medición de las pirámides, media
 
 ### 6
 
-De acuerdo con el libro de Álgebra, ¿en qué fue Thales de Mileto el primero, respecto de los eclipses?
+En relación con el libro de Álgebra, ¿en qué fue Thales de Mileto el primero, respecto de los eclipses?
 
 - A. En dar una explicación de los eclipses
 - B. En observar un eclipse de Sol
@@ -185,7 +185,7 @@ Fue el primero en dar una explicación de los eclipses.
 
 ### 7
 
-De acuerdo con el libro de Álgebra, ¿para qué se emplean los signos de agrupación?
+De conformidad con el libro de Álgebra, ¿para qué se emplean los signos de agrupación?
 
 - A. Para indicar que las cantidades encerradas en ellos deben considerarse como un todo, o sea, como una sola cantidad
 - B. Para indicar que las cantidades encerradas en ellos deben considerarse por separado
@@ -219,7 +219,7 @@ El paréntesis angular [ ], las llaves { } y el vínculo o barra tienen la misma
 
 ### 9
 
-De acuerdo con el libro de Álgebra, ¿por qué se usan signos de agrupación de distinta forma pero igual significación?
+En relación con el libro de Álgebra, ¿por qué se usan signos de agrupación de distinta forma pero igual significación?
 
 - A. Para mayor claridad cuando una expresión que ya tiene signos de agrupación se incluye en otro signo de agrupación
 - B. Para distinguir las sumas de las restas dentro de una misma expresión
@@ -238,7 +238,7 @@ Se usan estos signos, que tienen distinta forma pero igual significación, para 
 
 ### 10
 
-De acuerdo con el libro de Álgebra, ¿cómo se suprimen los signos de agrupación precedidos del signo +?
+En relación con el libro de Álgebra, ¿cómo se suprimen los signos de agrupación precedidos del signo +?
 
 - A. Se deja el mismo signo que tengan a cada una de las cantidades que se hallan dentro de él
 - B. Se cambia el signo a cada una de las cantidades que se hallan dentro de él
@@ -253,7 +253,7 @@ Para suprimir signos de agrupación precedidos del signo + se deja el mismo sign
 
 ### 11
 
-De acuerdo con el libro de Álgebra, ¿cómo se suprimen los signos de agrupación precedidos del signo −?
+De conformidad con el libro de Álgebra, ¿cómo se suprimen los signos de agrupación precedidos del signo −?
 
 - A. Se cambia el signo a cada una de las cantidades que se hallan dentro de él
 - B. Se deja el mismo signo que tengan a cada una de las cantidades que se hallan dentro de él
@@ -272,7 +272,7 @@ Para suprimir signos de agrupación precedidos del signo − se cambia el signo 
 
 ### 12
 
-De acuerdo con el libro de Álgebra, ¿a qué equivale el vínculo o barra?
+De conformidad con el libro de Álgebra, ¿a qué equivale el vínculo o barra?
 
 - A. A un paréntesis que encierra a las cantidades que se hallan debajo de él
 - B. A un paréntesis que encierra a las cantidades que se hallan delante de él
@@ -325,7 +325,7 @@ Cuando unos signos de agrupación están incluidos dentro de otros, se suprime u
 
 ### 15
 
-De acuerdo con el libro de Álgebra, ¿qué nos dicen esas equivalencias sobre los términos de una expresión?
+En relación con el libro de Álgebra, ¿qué nos dicen esas equivalencias sobre los términos de una expresión?
 
 - A. Que pueden agruparse de cualquier modo
 - B. Que sólo pueden agruparse si son semejantes
@@ -374,7 +374,7 @@ Para introducir cantidades dentro de un signo de agrupación precedido del signo
 
 ### 18
 
-De acuerdo con el libro de Álgebra, ¿cómo se introducen cantidades dentro de un signo de agrupación precedido del signo menos?
+De conformidad con el libro de Álgebra, ¿cómo se introducen cantidades dentro de un signo de agrupación precedido del signo menos?
 
 - A. Se cambia el signo a cada una de las cantidades que se incluyen en él
 - B. Se deja a cada una de las cantidades con el mismo signo que tengan

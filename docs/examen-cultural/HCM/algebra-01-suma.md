@@ -82,7 +82,7 @@ parafrasear ni bajar la dificultad. Cuatro opciones del mismo tipo y magnitud.
 
 ### 1
 
-De acuerdo con el libro de Álgebra, ¿qué es la suma o adición?
+En relación con el libro de Álgebra, ¿qué es la suma o adición?
 
 - A. Una operación que tiene por objeto reunir dos o más expresiones algebraicas en una sola expresión algebraica
 - B. Una operación que tiene por objeto separar una expresión algebraica en dos o más expresiones
@@ -97,7 +97,7 @@ La suma o adición es una operación que tiene por objeto reunir dos o más expr
 
 ### 2
 
-De acuerdo con el libro de Álgebra, ¿cómo se llaman las expresiones algebraicas que se reúnen y la expresión que resulta?
+En relación con el libro de Álgebra, ¿cómo se llaman las expresiones algebraicas que se reúnen y la expresión que resulta?
 
 - A. Sumandos las que se reúnen, y suma la que resulta
 - B. Suma las que se reúnen, y sumandos la que resulta
@@ -146,7 +146,7 @@ En Aritmética, la suma siempre significa aumento.
 
 ### 5
 
-De acuerdo con el libro de Álgebra, ¿qué puede significar la suma en Álgebra?
+En relación con el libro de Álgebra, ¿qué puede significar la suma en Álgebra?
 
 - A. Aumento o disminución
 - B. Únicamente aumento
@@ -165,7 +165,7 @@ En Aritmética, la suma siempre significa aumento, pero en Álgebra la suma es u
 
 ### 6
 
-De acuerdo con el libro de Álgebra, ¿a qué equivale sumar una cantidad negativa?
+De conformidad con el libro de Álgebra, ¿a qué equivale sumar una cantidad negativa?
 
 - A. A restar una cantidad positiva de igual valor absoluto
 - B. A restar una cantidad negativa de igual valor absoluto
@@ -218,7 +218,7 @@ En el papiro de Rhind, el más valioso y antiguo documento matemático que exist
 
 ### 9
 
-De acuerdo con el libro de Álgebra, ¿a quién se debe el papiro de Rhind?
+En relación con el libro de Álgebra, ¿a quién se debe el papiro de Rhind?
 
 - A. Al escriba Ahmes
 - B. Al escriba Rhind
@@ -237,7 +237,7 @@ En el papiro de Rhind, el más valioso y antiguo documento matemático que exist
 
 ### 10
 
-De acuerdo con el libro de Álgebra, ¿qué soluciones se presentan en el papiro de Rhind entre múltiples problemas?
+En relación con el libro de Álgebra, ¿qué soluciones se presentan en el papiro de Rhind entre múltiples problemas?
 
 - A. Soluciones de ecuaciones de segundo grado
 - B. Soluciones de ecuaciones de primer grado
@@ -256,7 +256,7 @@ Se presentan entre múltiples problemas, soluciones de ecuaciones de segundo gra
 
 ### 11
 
-De acuerdo con el libro de Álgebra, ¿cuál es la regla general para sumar dos o más expresiones algebraicas?
+De conformidad con el libro de Álgebra, ¿cuál es la regla general para sumar dos o más expresiones algebraicas?
 
 - A. Se escriben unas a continuación de las otras con sus propios signos y se reducen los términos semejantes si los hay
 - B. Se escriben unas a continuación de las otras cambiándoles el signo y se reducen los términos semejantes si los hay
@@ -292,7 +292,7 @@ El orden de los sumandos no altera la suma. Esta es la ley conmutativa de la sum
 
 ### 13
 
-De acuerdo con el libro de Álgebra, ¿qué suele hacerse cuando algún sumando es negativo?
+En relación con el libro de Álgebra, ¿qué suele hacerse cuando algún sumando es negativo?
 
 - A. Suele incluirse dentro de un paréntesis para indicar la suma
 - B. Suele escribirse al final de todos los sumandos positivos
@@ -311,7 +311,7 @@ Cuando algún sumando es negativo, suele incluirse dentro de un paréntesis para
 
 ### 14
 
-De acuerdo con el libro de Álgebra, ¿cómo suele indicarse la suma de polinomios?
+En relación con el libro de Álgebra, ¿cómo suele indicarse la suma de polinomios?
 
 - A. Incluyendo los sumandos dentro de paréntesis
 - B. Incluyendo los sumandos dentro de corchetes
@@ -326,7 +326,7 @@ La suma suele indicarse incluyendo los sumandos dentro de paréntesis.
 
 ### 15
 
-De acuerdo con el libro de Álgebra, ¿cómo suelen colocarse los polinomios en la práctica para sumarlos?
+De conformidad con el libro de Álgebra, ¿cómo suelen colocarse los polinomios en la práctica para sumarlos?
 
 - A. Unos debajo de los otros, de modo que los términos semejantes queden en columna
 - B. Unos a continuación de los otros, de modo que los términos semejantes queden en fila
@@ -341,7 +341,7 @@ En la práctica, suelen colocarse los polinomios unos debajo de los otros, de mo
 
 ### 16
 
-De acuerdo con el libro de Álgebra, una vez colocados los términos semejantes en columna, ¿qué se hace con ellos?
+De conformidad con el libro de Álgebra, una vez colocados los términos semejantes en columna, ¿qué se hace con ellos?
 
 - A. Se hace la reducción de éstos, separándolos unos de otros con sus propios signos
 - B. Se hace la reducción de éstos, separándolos unos de otros con el signo del mayor

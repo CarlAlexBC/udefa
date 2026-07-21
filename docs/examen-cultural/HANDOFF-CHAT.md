@@ -147,7 +147,18 @@ Valor numérico de una expresión algebraica es el resultado que se obtiene al s
 
 Reglas:
 
-1. El enunciado **nombra el libro**: *"De acuerdo con el libro de X…"*.
+1. El enunciado **nombra el libro**, y **alterna las tres fórmulas del Anexo
+   "H"** — no siempre la misma:
+
+   - *"**De acuerdo con** el libro de X…"*
+   - *"**De conformidad con** el libro de X…"*
+   - *"**En relación con** el libro de X…"*
+
+   El Anexo "H" usa las tres en sus diez ejemplos. El banco se escribió entero
+   con "De acuerdo con" y **hubo que repartirlo después** (21 jul 2026, a
+   petición de Carlo). No repitas el error: al escribir una tanda nueva, ve
+   alternando. Si vuelve a pasar, el reparto se rehace con
+   `docs/examen-cultural/repartir-conectores.js`.
 2. Cuatro opciones, A a D. **La correcta siempre es la A** en este banco. No es
    que el examen la ponga en A: es que **el importador baraja las opciones**
    (decidido el 21 jul 2026), así que en el `.md` se escribe siempre en A porque

@@ -66,7 +66,7 @@ Se inicia a 50 km al sur del límite internacional con Estados Unidos de Améric
 
 ### 2
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la longitud de la Sierra Madre Occidental?
+En relación con el libro de Geografía Moderna de México, ¿cuál es la longitud de la Sierra Madre Occidental?
 
 - A. 880 km
 - B. 1 200 km
@@ -81,7 +81,7 @@ Tiene una longitud de 1 250 km y su anchura media es de 150 km.
 
 ### 3
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la altura media de la Sierra Madre Occidental?
+En relación con el libro de Geografía Moderna de México, ¿cuál es la altura media de la Sierra Madre Occidental?
 
 - A. 2 200 m
 - B. 2 250 m
@@ -115,7 +115,7 @@ Por su continuidad, sirve de barrera occidental a la Altiplanicie Mexicana y lim
 
 ### 5
 
-De acuerdo con el libro de Geografía Moderna de México, ¿en qué punto termina la Sierra Madre Oriental, haciendo contacto con la Cordillera Neovolcánica?
+En relación con el libro de Geografía Moderna de México, ¿en qué punto termina la Sierra Madre Oriental, haciendo contacto con la Cordillera Neovolcánica?
 
 - A. En el Pico de Orizaba
 - B. En el Cofre de Perote
@@ -130,7 +130,7 @@ Se inicia en el sur del estado de Texas, en la región del Big Bend, para contin
 
 ### 6
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la longitud de la Sierra Madre Oriental?
+En relación con el libro de Geografía Moderna de México, ¿cuál es la longitud de la Sierra Madre Oriental?
 
 - A. 1 200 km
 - B. 1 250 km
@@ -145,7 +145,7 @@ Tiene una longitud de 1 350 km y una anchura media de 150 km.
 
 ### 7
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué nombre recibe la provincia fisiográfica que forma la planicie costera de la Sierra Madre Oriental y que se extiende dentro de Estados Unidos de América?
+De conformidad con el libro de Geografía Moderna de México, ¿qué nombre recibe la provincia fisiográfica que forma la planicie costera de la Sierra Madre Oriental y que se extiende dentro de Estados Unidos de América?
 
 - A. Llanoria
 - B. Llanuras Boreales
@@ -179,7 +179,7 @@ La erosión, al capturar clandestinamente la parte sur de la altiplanicie, hizo 
 
 ### 9
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la longitud que alcanza la Cordillera Neovolcánica?
+De conformidad con el libro de Geografía Moderna de México, ¿cuál es la longitud que alcanza la Cordillera Neovolcánica?
 
 - A. 880 km
 - B. 1 200 km
@@ -194,7 +194,7 @@ Sigue aproximadamente el paralelo 19° N para llegar al Pico de Orizaba y al Cof
 
 ### 10
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué paralelo sigue aproximadamente la Cordillera Neovolcánica?
+En relación con el libro de Geografía Moderna de México, ¿qué paralelo sigue aproximadamente la Cordillera Neovolcánica?
 
 - A. El paralelo 14° N
 - B. El paralelo 19° N
@@ -209,7 +209,7 @@ Continúa hacia el sureste hasta encontrar el volcán de Colima y luego sigue ap
 
 ### 11
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué distingue a la Cordillera Neovolcánica respecto de la actividad volcánica del país?
+De conformidad con el libro de Geografía Moderna de México, ¿qué distingue a la Cordillera Neovolcánica respecto de la actividad volcánica del país?
 
 - A. Es la zona más antigua de actividad volcánica
 - B. Es la única zona sin actividad volcánica
@@ -239,7 +239,7 @@ Constituye un límite altimétrico que, a la vez, es límite climático, biogeog
 
 ### 13
 
-De acuerdo con el libro de Geografía Moderna de México, ¿hacia qué punto parte del Cofre de Perote una derivación de 100 km de longitud?
+De conformidad con el libro de Geografía Moderna de México, ¿hacia qué punto parte del Cofre de Perote una derivación de 100 km de longitud?
 
 - A. Hacia la Punta de Villa Rica
 - B. Hacia la Bahía de Banderas
@@ -258,7 +258,7 @@ Del Cofre de Perote parte una derivación de 100 km de longitud hacia la Punta d
 
 ### 14
 
-De acuerdo con el libro de Geografía Moderna de México, ¿entre qué puntos se extiende la Sierra Madre del Sur?
+En relación con el libro de Geografía Moderna de México, ¿entre qué puntos se extiende la Sierra Madre del Sur?
 
 - A. Desde el río Santiago hasta el Cofre de Perote
 - B. Desde el cabo Corrientes hasta el Istmo de Tehuantepec
@@ -273,7 +273,7 @@ Se extiende a lo largo, muy cerca de la costa del Pacífico, desde la Cordillera
 
 ### 15
 
-De acuerdo con el libro de Geografía Moderna de México, ¿hasta cuántos kilómetros se amplía en el estado de Oaxaca la anchura media de la Sierra Madre del Sur?
+En relación con el libro de Geografía Moderna de México, ¿hasta cuántos kilómetros se amplía en el estado de Oaxaca la anchura media de la Sierra Madre del Sur?
 
 - A. Hasta 100 km
 - B. Hasta 130 km
@@ -307,7 +307,7 @@ En toda su extensión tiene una vertiente sudoccidental directa al océano Pací
 
 ### 17
 
-De acuerdo con el libro de Geografía Moderna de México, ¿a qué altitud casi constante tiene su cresta la Sierra Madre del Sur?
+En relación con el libro de Geografía Moderna de México, ¿a qué altitud casi constante tiene su cresta la Sierra Madre del Sur?
 
 - A. Poco más de 2 000 m
 - B. Poco más de 2 500 m
@@ -326,7 +326,7 @@ Posee la característica de tener su cresta a una altitud casi constante de poco
 
 ### 18
 
-De acuerdo con el libro de Geografía Moderna de México, ¿entre qué puntos se extiende la Sierra Madre de Oaxaca?
+De conformidad con el libro de Geografía Moderna de México, ¿entre qué puntos se extiende la Sierra Madre de Oaxaca?
 
 - A. Del Cofre de Perote al cabo Corrientes
 - B. Del Pico de Orizaba al Istmo de Tehuantepec
@@ -356,7 +356,7 @@ Tiene una longitud de 300 km y 75 km de anchura media; su altura, por lo general
 
 ### 20
 
-De acuerdo con el libro de Geografía Moderna de México, ¿de qué serranía se separó la Sierra Madre de Oaxaca según los estudios modernos?
+En relación con el libro de Geografía Moderna de México, ¿de qué serranía se separó la Sierra Madre de Oaxaca según los estudios modernos?
 
 - A. De la Sierra Madre Oriental
 - B. De la Sierra Madre del Sur
@@ -375,7 +375,7 @@ Los estudios modernos han demostrado la conveniencia de separar una parte de la 
 
 ### 21
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué altura alcanza el volcán Tacaná, cuya cima es vértice del límite internacional con Guatemala?
+De conformidad con el libro de Geografía Moderna de México, ¿qué altura alcanza el volcán Tacaná, cuya cima es vértice del límite internacional con Guatemala?
 
 - A. 2 725 m
 - B. 2 800 m
@@ -390,7 +390,7 @@ Se destacan cimas tan importantes como la Cruz de Piedra (2 500 m), el cerro San
 
 ### 22
 
-De acuerdo con el libro de Geografía Moderna de México, ¿por dónde da paso la carretera Panamericana en la Sierra Madre de Chiapas?
+En relación con el libro de Geografía Moderna de México, ¿por dónde da paso la carretera Panamericana en la Sierra Madre de Chiapas?
 
 - A. Por los valles de los ríos Ostuta y Cintalapa
 - B. Por los valles de Jiquipilas y Arriaga
@@ -409,7 +409,7 @@ Los puertos que permiten la comunicación con la parte central del estado se loc
 
 ### 23
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la longitud del eje principal de la Meseta Central de Chiapas?
+En relación con el libro de Geografía Moderna de México, ¿cuál es la longitud del eje principal de la Meseta Central de Chiapas?
 
 - A. 50 km
 - B. 250 km
@@ -458,7 +458,7 @@ De acuerdo con el libro de Geografía Moderna de México, ¿qué altitud alcanza
 
 ### 26
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué proporción de la Plataforma Yucateca pertenece a México?
+De conformidad con el libro de Geografía Moderna de México, ¿qué proporción de la Plataforma Yucateca pertenece a México?
 
 - A. Tres cuartas partes
 - B. La mitad
@@ -473,7 +473,7 @@ Tiene una anchura media de 350 km y una longitud de 500 km. De esta área así l
 
 ### 27
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué denominación recibe la masa compacta a la que no se le han encontrado fracturas tectónicas en la Península de Yucatán?
+De conformidad con el libro de Geografía Moderna de México, ¿qué denominación recibe la masa compacta a la que no se le han encontrado fracturas tectónicas en la Península de Yucatán?
 
 - A. Losa de Yucatán
 - B. Mesa de Yucatán
@@ -518,7 +518,7 @@ De los materiales que la forman, las calizas del subsuelo se produjeron como res
 
 ### 30
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cómo se llama la única cadena de elevaciones de la Plataforma Yucateca?
+De conformidad con el libro de Geografía Moderna de México, ¿cómo se llama la única cadena de elevaciones de la Plataforma Yucateca?
 
 - A. Sierrita
 - B. Sierra de Pantepec
@@ -567,7 +567,7 @@ Puede considerarse que la cadena montañosa conserva una altitud media de 1 000 
 
 ### 33
 
-De acuerdo con el libro de Geografía Moderna de México, ¿en las cercanías de qué ciudad se deprime la cadena montañosa de Baja California hasta quedar reducida a 250 m?
+De conformidad con el libro de Geografía Moderna de México, ¿en las cercanías de qué ciudad se deprime la cadena montañosa de Baja California hasta quedar reducida a 250 m?
 
 - A. La Paz
 - B. Todos Santos
@@ -597,7 +597,7 @@ Son muy característicos los picos erguidos, desgarrados, generalmente desprovis
 
 ### 35
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué sierra de Baja California está coronada por amplias y elevadas mesetas?
+En relación con el libro de Geografía Moderna de México, ¿qué sierra de Baja California está coronada por amplias y elevadas mesetas?
 
 - A. La Sierra Juárez
 - B. La Sierra de San Pedro Mártir
@@ -616,7 +616,7 @@ Sierra Juárez, ya en territorio mexicano, coronada por amplias y elevadas meset
 
 ### 36
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué serranía recorre el Istmo de Tehuantepec en dirección oeste-este con una longitud de 100 km?
+De conformidad con el libro de Geografía Moderna de México, ¿qué serranía recorre el Istmo de Tehuantepec en dirección oeste-este con una longitud de 100 km?
 
 - A. La Sierra Atravesada
 - B. La Sierra Madre de Chiapas
@@ -631,7 +631,7 @@ A pesar de su corta longitud, las características especiales de orden geológic
 
 ### 37
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué se ha seleccionado como paso obligado del proyectado canal interoceánico?
+En relación con el libro de Geografía Moderna de México, ¿qué se ha seleccionado como paso obligado del proyectado canal interoceánico?
 
 - A. El puerto cercano a la estación de Chivela, a 244 m
 - B. El valle del río Ostuta
@@ -699,7 +699,7 @@ Se extiende en las proximidades del océano Pacífico, constituyendo una divisor
 
 ### 41
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cómo se llaman las concavidades del terreno con almacenamiento de agua permanente o temporal que abundan en la zona yucateca?
+De conformidad con el libro de Geografía Moderna de México, ¿cómo se llaman las concavidades del terreno con almacenamiento de agua permanente o temporal que abundan en la zona yucateca?
 
 - A. Aguadas
 - B. Cenotes
@@ -714,7 +714,7 @@ En esta zona, la topografía superficial ha sido influida por el drenaje subterr
 
 ### 42
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué limita al norte al Sistema Californiano?
+En relación con el libro de Geografía Moderna de México, ¿qué limita al norte al Sistema Californiano?
 
 - A. El Valle de San Joaquín, dentro de Estados Unidos de América
 - B. La Sierra de San Pedro Mártir

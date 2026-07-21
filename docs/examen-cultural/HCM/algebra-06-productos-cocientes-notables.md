@@ -114,7 +114,7 @@ parafrasear ni bajar la dificultad. Cuatro opciones del mismo tipo y magnitud.
 
 ### 1
 
-De acuerdo con el libro de Álgebra, ¿en qué fue el primero Euclides?
+De conformidad con el libro de Álgebra, ¿en qué fue el primero Euclides?
 
 - A. En establecer un método riguroso de demostración geométrica
 - B. En colocar los conceptos de la Matemática como base de las especulaciones filosóficas
@@ -133,7 +133,7 @@ Fue el primero que estableció un método riguroso de demostración geométrica.
 
 ### 2
 
-De acuerdo con el libro de Álgebra, ¿hasta cuándo se mantuvo incólume la Geometría construida por Euclides?
+De conformidad con el libro de Álgebra, ¿hasta cuándo se mantuvo incólume la Geometría construida por Euclides?
 
 - A. Hasta el siglo XIX
 - B. Hasta el siglo XVII
@@ -167,7 +167,7 @@ El libro en que recoge sus investigaciones lo tituló *Elementos*, es conocido e
 
 ### 4
 
-De acuerdo con el libro de Álgebra, ¿qué son los productos notables?
+De conformidad con el libro de Álgebra, ¿qué son los productos notables?
 
 - A. Ciertos productos que cumplen reglas fijas y cuyo resultado puede ser escrito por simple inspección
 - B. Ciertos productos que no cumplen reglas fijas y deben verificarse siempre
@@ -224,7 +224,7 @@ El cuadrado de la suma de dos cantidades es igual al cuadrado de la primera cant
 
 ### 7
 
-De acuerdo con el libro de Álgebra, ¿a qué es igual el cuadrado de la diferencia de dos cantidades?
+En relación con el libro de Álgebra, ¿a qué es igual el cuadrado de la diferencia de dos cantidades?
 
 - A. Al cuadrado de la primera menos el doble de la primera por la segunda más el cuadrado de la segunda
 - B. Al cuadrado de la primera menos el doble de la primera por la segunda menos el cuadrado de la segunda
@@ -243,7 +243,7 @@ El cuadrado de la diferencia de dos cantidades es igual al cuadrado de la primer
 
 ### 8
 
-De acuerdo con el libro de Álgebra, ¿cómo se eleva un monomio al cuadrado?
+De conformidad con el libro de Álgebra, ¿cómo se eleva un monomio al cuadrado?
 
 - A. Se eleva su coeficiente al cuadrado y se multiplica el exponente de cada letra por 2
 - B. Se eleva su coeficiente al cuadrado y se conserva el exponente de cada letra
@@ -285,7 +285,7 @@ La suma de dos cantidades multiplicada por su diferencia es igual al cuadrado de
 
 ### 10
 
-De acuerdo con el libro de Álgebra, ¿a qué es igual el cubo de la suma de dos cantidades?
+En relación con el libro de Álgebra, ¿a qué es igual el cubo de la suma de dos cantidades?
 
 - A. Al cubo de la primera, más el triple del cuadrado de la primera por la segunda, más el triple de la primera por el cuadrado de la segunda, más el cubo de la segunda
 - B. Al cubo de la primera, más el doble del cuadrado de la primera por la segunda, más el doble de la primera por el cuadrado de la segunda, más el cubo de la segunda
@@ -304,7 +304,7 @@ El cubo de la suma de dos cantidades es igual al cubo de la primera cantidad má
 
 ### 11
 
-De acuerdo con el libro de Álgebra, ¿a qué es igual el cubo de la diferencia de dos cantidades?
+En relación con el libro de Álgebra, ¿a qué es igual el cubo de la diferencia de dos cantidades?
 
 - A. Al cubo de la primera, menos el triple del cuadrado de la primera por la segunda, más el triple de la primera por el cuadrado de la segunda, menos el cubo de la segunda
 - B. Al cubo de la primera, menos el triple del cuadrado de la primera por la segunda, menos el triple de la primera por el cuadrado de la segunda, menos el cubo de la segunda
@@ -326,7 +326,7 @@ El cubo de la diferencia de dos cantidades es igual al cubo de la primera cantid
 
 ### 12
 
-De acuerdo con el libro de Álgebra, ¿cuál es el primer término del producto de dos binomios de esa forma?
+De conformidad con el libro de Álgebra, ¿cuál es el primer término del producto de dos binomios de esa forma?
 
 - A. El producto de los primeros términos de los binomios
 - B. La suma de los primeros términos de los binomios
@@ -341,7 +341,7 @@ El primer término del producto es el producto de los primeros términos de los 
 
 ### 13
 
-De acuerdo con el libro de Álgebra, ¿cuál es el coeficiente del segundo término del producto?
+De conformidad con el libro de Álgebra, ¿cuál es el coeficiente del segundo término del producto?
 
 - A. La suma algebraica de los segundos términos de los binomios
 - B. El producto de los segundos términos de los binomios
@@ -399,7 +399,7 @@ Se llaman cocientes notables a ciertos cocientes que obedecen reglas fijas y que
 
 ### 16
 
-De acuerdo con el libro de Álgebra, ¿a qué es igual la diferencia de los cuadrados de dos cantidades dividida por su suma?
+De conformidad con el libro de Álgebra, ¿a qué es igual la diferencia de los cuadrados de dos cantidades dividida por su suma?
 
 - A. A la diferencia de dichas cantidades
 - B. A la suma de dichas cantidades
@@ -414,7 +414,7 @@ La diferencia de los cuadrados de dos cantidades dividida por su suma es igual a
 
 ### 17
 
-De acuerdo con el libro de Álgebra, ¿a qué es igual la diferencia de los cuadrados de dos cantidades dividida por su diferencia?
+En relación con el libro de Álgebra, ¿a qué es igual la diferencia de los cuadrados de dos cantidades dividida por su diferencia?
 
 - A. A la suma de las cantidades
 - B. A la diferencia de las cantidades
@@ -437,7 +437,7 @@ La diferencia de los cuadrados de dos cantidades dividida por su diferencia es i
 
 ### 18
 
-De acuerdo con el libro de Álgebra, ¿a qué es igual la suma de los cubos de dos cantidades dividida entre la suma de las cantidades?
+De conformidad con el libro de Álgebra, ¿a qué es igual la suma de los cubos de dos cantidades dividida entre la suma de las cantidades?
 
 - A. Al cuadrado de la primera, menos el producto de la primera por la segunda, más el cuadrado de la segunda
 - B. Al cuadrado de la primera, más el producto de la primera por la segunda, más el cuadrado de la segunda
@@ -475,7 +475,7 @@ La diferencia de los cubos de dos cantidades dividida entre la diferencia de las
 
 ### 20
 
-De acuerdo con el libro de Álgebra, ¿entre qué es siempre divisible la diferencia de potencias iguales, ya sean pares o impares?
+En relación con el libro de Álgebra, ¿entre qué es siempre divisible la diferencia de potencias iguales, ya sean pares o impares?
 
 - A. Entre la diferencia de las bases
 - B. Entre la suma de las bases
@@ -493,7 +493,7 @@ La diferencia de potencias iguales, ya sean pares o impares, es siempre divisibl
 
 ### 21
 
-De acuerdo con el libro de Álgebra, ¿entre qué es siempre divisible la diferencia de potencias iguales pares?
+En relación con el libro de Álgebra, ¿entre qué es siempre divisible la diferencia de potencias iguales pares?
 
 - A. Entre la suma de las bases
 - B. Entre el producto de las bases
@@ -523,7 +523,7 @@ La suma de potencias iguales impares es siempre divisible entre la suma de las b
 
 ### 23
 
-De acuerdo con el libro de Álgebra, ¿qué ocurre con la suma de potencias iguales pares?
+En relación con el libro de Álgebra, ¿qué ocurre con la suma de potencias iguales pares?
 
 - A. Nunca es divisible entre la suma ni entre la diferencia de las bases
 - B. Siempre es divisible entre la suma de las bases
@@ -546,7 +546,7 @@ La suma de potencias iguales pares nunca es divisible entre la suma ni entre la 
 
 ### 24
 
-De acuerdo con el libro de Álgebra, ¿cuántos términos tiene el cociente?
+De conformidad con el libro de Álgebra, ¿cuántos términos tiene el cociente?
 
 - A. Tantos como unidades tiene el exponente de las letras en el dividendo
 - B. Tantos como unidades tiene el exponente de las letras en el divisor
@@ -594,7 +594,7 @@ El exponente de b en el segundo término del cociente es 1, y este exponente aum
 
 ### 27
 
-De acuerdo con el libro de Álgebra, ¿qué signos tiene el cociente según sea el divisor?
+En relación con el libro de Álgebra, ¿qué signos tiene el cociente según sea el divisor?
 
 - A. Cuando el divisor es a − b todos los signos son +, y cuando es a + b los signos son alternativamente + y −
 - B. Cuando el divisor es a − b los signos son alternativamente + y −, y cuando es a + b todos son +
@@ -613,7 +613,7 @@ Cuando el divisor es a − b todos los signos del cociente son + y cuando el div
 
 ### 28
 
-De acuerdo con el libro de Álgebra, ¿qué sucede cuando los exponentes del divisor son 2, 3, 4, 5, etcétera?
+En relación con el libro de Álgebra, ¿qué sucede cuando los exponentes del divisor son 2, 3, 4, 5, etcétera?
 
 - A. Que el exponente de a disminuirá en cada término 2, 3, 4, 5, etcétera
 - B. Que el exponente de a disminuirá 1 en cada término, como siempre

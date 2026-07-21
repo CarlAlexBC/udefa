@@ -81,7 +81,7 @@ quiere minar después.
 
 ### 1
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuáles son los tres tipos básicos de lenguaje?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿cuáles son los tres tipos básicos de lenguaje?
 
 - A. El oral, el escrito y el mímico
 - B. El técnico, el coloquial y el literario
@@ -126,7 +126,7 @@ El lenguaje oral es más completo que el lenguaje mímico, porque utiliza los so
 
 ### 4
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuál es la gran diferencia del lenguaje escrito respecto al lenguaje oral?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿cuál es la gran diferencia del lenguaje escrito respecto al lenguaje oral?
 
 - A. Que los mensajes o ideas que uno quiere trasmitir se quedan impresas en el papel
 - B. Que utiliza la entonación como un elemento más de la comunicación
@@ -190,7 +190,7 @@ El receptor, que es la persona o personas que reciben ese mensaje, al que tambi�
 
 ### 8
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué es el código dentro del proceso comunicativo?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿qué es el código dentro del proceso comunicativo?
 
 - A. El elemento mediante el cual el mensaje es elaborado por el emisor y es recibido o interpretado por el receptor
 - B. El medio físico que utilizamos para hacer llegar nuestro mensaje al receptor
@@ -205,7 +205,7 @@ Otro elemento de la comunicación es el código, mediante el cual el mensaje es 
 
 ### 9
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué consiste la retroalimentación?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿en qué consiste la retroalimentación?
 
 - A. En que, al responder, el que era receptor se convierte en emisor y el que era emisor se convierte en receptor
 - B. En el medio físico que hace llegar el mensaje al receptor
@@ -220,7 +220,7 @@ Por lo general, cuando la segunda persona recibe el mensaje, le responde algo a 
 
 ### 10
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué es el argot?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿qué es el argot?
 
 - A. El lenguaje formal que utilizan los profesionistas en sus diferentes especialidades
 - B. El lenguaje informal que utilizan las personas que desempeñan determinados oficios
@@ -250,7 +250,7 @@ El caló es la forma popular de utilizar el lenguaje, y se basa en modismos que 
 
 ### 12
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿a qué nos referimos cuando hablamos del canal de la comunicación?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿a qué nos referimos cuando hablamos del canal de la comunicación?
 
 - A. Al medio físico que utilizamos para hacer llegar nuestro mensaje al receptor
 - B. Al elemento mediante el cual el mensaje es elaborado e interpretado
@@ -265,7 +265,7 @@ Cuando hablamos del canal de la comunicación, nos referimos al medio físico qu
 
 ### 13
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué significa la palabra contexto de acuerdo con la Real Academia Española?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿qué significa la palabra contexto de acuerdo con la Real Academia Española?
 
 - A. El entorno físico o de situación, ya sea político, histórico, cultural o de cualquier otra índole, en el cual se considera un hecho
 - B. El medio físico que utilizamos para hacer llegar el mensaje al receptor
@@ -280,7 +280,7 @@ De acuerdo con la Real Academia Española, la palabra contexto significa el ento
 
 ### 14
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué se denomina ruido en la comunicación?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿qué se denomina ruido en la comunicación?
 
 - A. Toda señal no deseada que se mezcla con la señal que se quiere trasmitir y que puede dificultar que el mensaje llegue claramente al receptor
 - B. El medio físico que utilizamos para hacer llegar el mensaje
@@ -301,7 +301,7 @@ Cuando hablamos de comunicación, se denomina ruido a toda señal no deseada que
 
 ### 15
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué consiste la función referencial (representativa o informativa) del lenguaje?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿en qué consiste la función referencial (representativa o informativa) del lenguaje?
 
 - A. En hacer referencia al mundo de los objetos y de las ideas
 - B. En embellecer el mensaje y producir ciertas sensaciones en el enunciatario
@@ -316,7 +316,7 @@ Una de las funciones que cumple el lenguaje es hacer referencia al mundo de los 
 
 ### 16
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué consiste la función poética (o estética) del lenguaje?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿en qué consiste la función poética (o estética) del lenguaje?
 
 - A. En que se busca embellecer el mensaje y producir ciertas sensaciones en el enunciatario
 - B. En hacer referencia al mundo de los objetos y de las ideas
@@ -331,7 +331,7 @@ Otra de las funciones que puede cumplir el lenguaje es la poética o estética, 
 
 ### 17
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿dónde se utiliza sobre todo la función poética?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿dónde se utiliza sobre todo la función poética?
 
 - A. En la literatura: en los poemas, en las canciones, en las obras de teatro, en las novelas, en los refranes
 - B. En los reportes de investigación y los artículos científicos
@@ -346,7 +346,7 @@ Esta función se utiliza sobre todo en la literatura: en los poemas, en las canc
 
 ### 18
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuándo utilizamos la función emotiva (o expresiva) del lenguaje?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿cuándo utilizamos la función emotiva (o expresiva) del lenguaje?
 
 - A. Cuando comunicamos algo que estamos sintiendo o experimentando
 - B. Cuando hacemos referencia al mundo de los objetos y de las ideas
@@ -391,7 +391,7 @@ Utilizamos esta función fática del lenguaje cuando estamos platicando... simpl
 
 ### 21
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿de qué palabra griega proviene el nombre de la función fática y qué significa?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿de qué palabra griega proviene el nombre de la función fática y qué significa?
 
 - A. Del griego fatis, que significa lo que se dice, el discurso, la palabra
 - B. Del griego meta, que significa después, detrás, más allá
@@ -406,7 +406,7 @@ Este nombre medio raro (fática) proviene del griego φατις (fatis) que sign
 
 ### 22
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cómo se denomina la función del lenguaje con la que nos dirigimos a otros para ordenarles o pedirles que hagan o dejen de hacer algo?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿cómo se denomina la función del lenguaje con la que nos dirigimos a otros para ordenarles o pedirles que hagan o dejen de hacer algo?
 
 - A. Apelativa, conativa o directiva
 - B. Referencial, representativa o informativa
@@ -436,7 +436,7 @@ El prefijo meta también proviene del griego, de la palabra μετα (meta), que
 
 ### 24
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué significa el prefijo meta, del griego?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿qué significa el prefijo meta, del griego?
 
 - A. Después, detrás, más allá
 - B. Lo que se dice, el discurso, la palabra
@@ -466,7 +466,7 @@ La lingüística es la ciencia que estudia el lenguaje pero, para estudiarlo e i
 
 ### 26
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, según el cuadro de intención comunicativa, ¿cuál es la intención comunicativa de la función apelativa?
+En relación con el libro de Taller de Lectura y Redacción 1, según el cuadro de intención comunicativa, ¿cuál es la intención comunicativa de la función apelativa?
 
 - A. Dar una orden, solicitar que se haga algo, pedir un favor
 - B. Dar a conocer información sobre cosas, personas, lugares, ideas
@@ -490,7 +490,7 @@ Cuadro "Funciones del lenguaje / Intención comunicativa": a la función apelati
 
 ### 27
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué función de la comunicación el emisor aporta información nueva a los conocimientos del receptor?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿en qué función de la comunicación el emisor aporta información nueva a los conocimientos del receptor?
 
 - A. Informativa
 - B. Referencial
@@ -514,7 +514,7 @@ Función informativa. Es la trasmisión de la información de cualquier tipo, la
 
 ### 28
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cómo se define el lenguaje?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿cómo se define el lenguaje?
 
 - A. El estilo y modo de hablar que se utiliza en determinado medio o ambiente, o con un determinado fin u objetivo
 - B. El conjunto de sonidos y palabras habladas propias de una región
@@ -544,7 +544,7 @@ Lenguaje técnico, que se utiliza al interior de las diferentes profesiones. Los
 
 ### 30
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué tipo de lenguaje, u ordinario, se utiliza en la vida diaria y es el que empleamos para comunicarnos con nuestros familiares y amigos?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿qué tipo de lenguaje, u ordinario, se utiliza en la vida diaria y es el que empleamos para comunicarnos con nuestros familiares y amigos?
 
 - A. Lenguaje coloquial
 - B. Lenguaje literario
@@ -559,7 +559,7 @@ Lenguaje coloquial u ordinario, que se utiliza en la vida diaria, y que es difer
 
 ### 31
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué tipo de lenguaje se utiliza en la producción de reportes de investigación, artículos científicos y obras monográficas?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿qué tipo de lenguaje se utiliza en la producción de reportes de investigación, artículos científicos y obras monográficas?
 
 - A. Lenguaje científico
 - B. Lenguaje técnico
@@ -574,7 +574,7 @@ Lenguaje científico, que se utiliza en la producción de reportes de investigac
 
 ### 32
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, de acuerdo con la Real Academia Española, ¿qué es el texto?
+En relación con el libro de Taller de Lectura y Redacción 1, de acuerdo con la Real Academia Española, ¿qué es el texto?
 
 - A. Un enunciado o conjunto coherente de enunciados orales o escritos
 - B. Todo escrito particular que se transmite de manera impresa

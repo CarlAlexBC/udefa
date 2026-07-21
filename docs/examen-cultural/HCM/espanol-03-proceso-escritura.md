@@ -60,7 +60,7 @@ La palabra sintaxis proviene del griego y literalmente significa ordenar junto c
 
 ### 2
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, de acuerdo con la Real Academia Española, ¿qué es la sintaxis?
+De conformidad con el libro de Taller de Lectura y Redacción 1, de acuerdo con la Real Academia Española, ¿qué es la sintaxis?
 
 - A. La parte de la gramática que enseña a coordinar y unir las palabras para formar las oraciones y expresar conceptos
 - B. La ciencia que estudia el lenguaje y sus descubrimientos
@@ -75,7 +75,7 @@ De acuerdo con la Real Academia Española, la sintaxis es la parte de la gramát
 
 ### 3
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuántas clases de palabras existen en español?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿cuántas clases de palabras existen en español?
 
 - A. Nueve
 - B. Ocho
@@ -90,7 +90,7 @@ En español, existen nueve clases de palabras.
 
 ### 4
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuál es la principal función de los sustantivos?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿cuál es la principal función de los sustantivos?
 
 - A. Ser sujeto de la oración
 - B. Ser la parte esencial del predicado
@@ -195,7 +195,7 @@ Interjecciones. Palabras exclamativas o admirativas mediante las cuales se expre
 
 ### 11
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué funciones realizan los pronombres?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿qué funciones realizan los pronombres?
 
 - A. Funciones del sustantivo, del adjetivo o del adverbio
 - B. Solo la función de sujeto de la oración
@@ -210,7 +210,7 @@ Pronombres. Realizan funciones del sustantivo, del adjetivo o del adverbio.
 
 ### 12
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué modifican los artículos?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿qué modifican los artículos?
 
 - A. Al sustantivo
 - B. Al verbo
@@ -240,7 +240,7 @@ Una oración consta de dos partes sustanciales: el sujeto y el predicado.
 
 ### 14
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿de qué dos partes principales consta el predicado?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿de qué dos partes principales consta el predicado?
 
 - A. El verbo y el complemento
 - B. El sujeto y el predicado
@@ -255,7 +255,7 @@ A su vez, el predicado consta de dos partes principales: el verbo y el complemen
 
 ### 15
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cómo puede ser, sobre todo, el complemento del verbo?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿cómo puede ser, sobre todo, el complemento del verbo?
 
 - A. Directo, indirecto o circunstancial
 - B. De tiempo, de modo o de lugar
@@ -289,7 +289,7 @@ Cuando hablamos en español, cada palabra tiene una sílaba que se pronuncia con
 
 ### 17
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, si la sílaba tónica es la última sílaba de la palabra, ¿cómo se le llama a esa palabra?
+En relación con el libro de Taller de Lectura y Redacción 1, si la sílaba tónica es la última sílaba de la palabra, ¿cómo se le llama a esa palabra?
 
 - A. Palabra aguda
 - B. Palabra grave (o llana)
@@ -304,7 +304,7 @@ Si la sílaba tónica es la última sílaba de la palabra, se le llama palabra a
 
 ### 18
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, si la sílaba tónica es la penúltima sílaba de la palabra, ¿cómo se le llama a esa palabra?
+De conformidad con el libro de Taller de Lectura y Redacción 1, si la sílaba tónica es la penúltima sílaba de la palabra, ¿cómo se le llama a esa palabra?
 
 - A. Palabra grave (o llana)
 - B. Palabra aguda
@@ -334,7 +334,7 @@ Si la sílaba tónica es la antepenúltima sílaba de la palabra, se le llama pa
 
 ### 20
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se escribe el acento en las palabras agudas?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se escribe el acento en las palabras agudas?
 
 - A. Sólo si terminan en n, en s o en vocal
 - B. Sólo si NO terminan en n, en s o en vocal
@@ -379,7 +379,7 @@ Todas las palabras esdrújulas se acentúan. Las palabras esdrújulas son aquél
 
 ### 23
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cómo se les llama a las palabras de una sola sílaba?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿cómo se les llama a las palabras de una sola sílaba?
 
 - A. Monosílabos
 - B. Bisílabos
@@ -443,7 +443,7 @@ Cuadro de monosílabos: "el" no se acentúa cuando es artículo (el perro); "él
 
 ### 27
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso NO se acentúa "tu"?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿en qué caso NO se acentúa "tu"?
 
 - A. Cuando es pronombre posesivo (tu perro)
 - B. Cuando es pronombre personal (tú eres)
@@ -473,7 +473,7 @@ Cuadro de monosílabos: "mi" no se acentúa cuando es pronombre posesivo (mi per
 
 ### 29
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "sí"?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "sí"?
 
 - A. Cuando es pronombre personal (para sí) o afirmación (sí iré)
 - B. Cuando es condicional (si quieres)
@@ -488,7 +488,7 @@ Cuadro de monosílabos: "si" no se acentúa cuando es condicional (si quieres); 
 
 ### 30
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "sé"?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "sé"?
 
 - A. Cuando es del verbo ser (sé bueno) o del verbo saber (yo sé)
 - B. Cuando es pronombre reflexivo (se dice)
@@ -503,7 +503,7 @@ Cuadro de monosílabos: "se" no se acentúa cuando es pronombre reflexivo (se di
 
 ### 31
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "dé"?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "dé"?
 
 - A. Cuando es del verbo dar (que me lo dé)
 - B. Cuando es preposición (de Juan)
@@ -518,7 +518,7 @@ Cuadro de monosílabos: "de" no se acentúa cuando es preposición (de Juan); "d
 
 ### 32
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "aún"?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "aún"?
 
 - A. Cuando es adverbio y significa todavía (aún no llegan)
 - B. Cuando es conjunción y significa también o a pesar de (aun entonces)
@@ -533,7 +533,7 @@ Cuadro de monosílabos: "aun" no se acentúa cuando es conjunción (también, a 
 
 ### 33
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "más"?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "más"?
 
 - A. Cuando es adverbio de cantidad (dame más)
 - B. Cuando es conjunción adversativa (mas sin embargo)
@@ -552,7 +552,7 @@ Cuadro de monosílabos: "mas" no se acentúa cuando es conjunción adversativa (
 
 ### 34
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "té"?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "té"?
 
 - A. Cuando se refiere a la bebida aromática (quiero té)
 - B. Cuando es pronombre personal (te quiero)
@@ -567,7 +567,7 @@ Cuadro de monosílabos: "te" no se acentúa cuando es pronombre personal (te qui
 
 ### 35
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "ó"?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúa "ó"?
 
 - A. Cuando va entre números (15 ó 20)
 - B. Cuando es conjunción disyuntiva entre palabras (Luis o Pedro)
@@ -582,7 +582,7 @@ Cuadro de monosílabos: "o" no se acentúa cuando es conjunción disyuntiva (Lui
 
 ### 36
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúan los pronombres demostrativos (éste, ése, aquél)?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúan los pronombres demostrativos (éste, ése, aquél)?
 
 - A. Cuando son pronombres y van en sustitución del sustantivo (me refiero a éste)
 - B. Cuando son adjetivos y van junto a un sustantivo (este perro)
@@ -642,7 +642,7 @@ La palabra solo no se acentúa cuando indica soledad (llegó él solo). Sí se a
 
 ### 40
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cómo se denomina el riesgo de confusión en el significado que se quiere comunicar en una redacción?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿cómo se denomina el riesgo de confusión en el significado que se quiere comunicar en una redacción?
 
 - A. Anfibología
 - B. Acento diacrítico
@@ -661,7 +661,7 @@ En su normativa de 1999, la Real Academia Española indica que el acento diacrí
 
 ### 41
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúan las palabras qué, cuál, quién?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se acentúan las palabras qué, cuál, quién?
 
 - A. Cuando van en una pregunta (directa o indirecta) o en una admiración
 - B. Cuando son conjunción o pronombre relativo
@@ -676,7 +676,7 @@ Cuadro de monosílabos con acento enfático: "que", "cual" y "quien" no se acent
 
 ### 42
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso NO se acentúa "que"?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿en qué caso NO se acentúa "que"?
 
 - A. Cuando es conjunción copulativa (quiero que vengas)
 - B. Cuando va en una pregunta o admiración (¿Qué quieres?)
@@ -691,7 +691,7 @@ Cuadro de monosílabos con acento enfático: "que" no se acentúa cuando es conj
 
 ### 43
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuáles palabras llevan siempre acento, tanto en las preguntas directas como en las indirectas?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿cuáles palabras llevan siempre acento, tanto en las preguntas directas como en las indirectas?
 
 - A. Qué, cuál, quién, dónde, adónde, cómo, cuándo, cuánto y por qué
 - B. Este, ese, aquel, solo y aún
@@ -706,7 +706,7 @@ Tanto en las preguntas directas como en las indirectas, las siguientes palabras 
 
 ### 44
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cómo se denomina el acento que llevan qué, cuál, quién, dónde, cómo, cuándo, etc. en las preguntas y exclamaciones?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿cómo se denomina el acento que llevan qué, cuál, quién, dónde, cómo, cuándo, etc. en las preguntas y exclamaciones?
 
 - A. Acento enfático
 - B. Acento prosódico
@@ -721,7 +721,7 @@ Tanto en las preguntas directas como en las indirectas, las siguientes palabras 
 
 ### 45
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso NO se acentúan palabras como qué, cuál, quién, dónde y cómo?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿en qué caso NO se acentúan palabras como qué, cuál, quién, dónde y cómo?
 
 - A. Cuando van en oraciones que no son preguntas (ni directas ni indirectas) ni exclamaciones
 - B. Cuando van en preguntas directas
@@ -740,7 +740,7 @@ Cuando van en oraciones que no son preguntas (ni directas ni indirectas) ni excl
 
 ### 46
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿de cuántas maneras diferentes se puede escribir la expresión "por qué"?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿de cuántas maneras diferentes se puede escribir la expresión "por qué"?
 
 - A. De cuatro maneras diferentes
 - B. De dos maneras diferentes
@@ -755,7 +755,7 @@ La expresión por qué se puede escribir de cuatro maneras diferentes: las dos p
 
 ### 47
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuándo se escribe "por qué" (separado y con acento)?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿cuándo se escribe "por qué" (separado y con acento)?
 
 - A. En las preguntas tanto directas como indirectas
 - B. Cuando significa la causa, razón o motivo (como sustantivo)
@@ -770,7 +770,7 @@ Se escribe por qué (separado y con acento) en las preguntas tanto directas como
 
 ### 48
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuándo se escribe "porqué" (junto y con acento)?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿cuándo se escribe "porqué" (junto y con acento)?
 
 - A. Cuando significa la causa, razón o motivo por lo que se hace o sucede algo; es un sustantivo sinónimo de causa o motivo
 - B. En las preguntas directas o indirectas
@@ -800,7 +800,7 @@ Se escribe por que (separado y sin acento) cuando se unen la preposición por y 
 
 ### 50
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuándo se escribe "porque" (junto y sin acento)?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿cuándo se escribe "porque" (junto y sin acento)?
 
 - A. Cuando se responde una pregunta, cuando se explica la causa, razón o motivo por lo que se hace algo o por lo que algo sucede
 - B. En las preguntas directas o indirectas
@@ -834,7 +834,7 @@ Un diptongo es un conjunto de dos vocales que se pronuncian en una sola emisión
 
 ### 52
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué combinaciones de vocales pueden formar un diptongo?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿qué combinaciones de vocales pueden formar un diptongo?
 
 - A. Una vocal fuerte (a-e-o) con una vocal débil (i-u), o la combinación de dos vocales débiles
 - B. Únicamente la combinación de dos vocales fuertes
@@ -849,7 +849,7 @@ Sólo pueden formar diptongos la combinación de una vocal fuerte (a-e-o) con un
 
 ### 53
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuáles son las vocales fuertes?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿cuáles son las vocales fuertes?
 
 - A. a, e, o
 - B. i, u
@@ -864,7 +864,7 @@ Sólo pueden formar diptongos la combinación de una vocal fuerte (a-e-o) con un
 
 ### 54
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué se forma cuando dos vocales fuertes van juntas en una palabra?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿qué se forma cuando dos vocales fuertes van juntas en una palabra?
 
 - A. Un hiato
 - B. Un diptongo
@@ -879,7 +879,7 @@ Dos vocales fuertes nunca forman un diptongo. Cuando van juntas en una palabra, 
 
 ### 55
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cómo se denomina la unión de dos vocales débiles con una fuerte?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿cómo se denomina la unión de dos vocales débiles con una fuerte?
 
 - A. Triptongo
 - B. Diptongo
@@ -894,7 +894,7 @@ La unión de dos vocales débiles con una fuerte, se denomina triptongo (Cuau-ti
 
 ### 56
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, cuando una h va entre dos vocales, ¿qué sucede con el diptongo o el hiato?
+De conformidad con el libro de Taller de Lectura y Redacción 1, cuando una h va entre dos vocales, ¿qué sucede con el diptongo o el hiato?
 
 - A. La h no impide que se forme un diptongo o un hiato, porque la h es muda
 - B. La h siempre rompe el diptongo
@@ -909,7 +909,7 @@ Cuando vaya una h entre las dos vocales, haz de cuenta que ésta no existe, porq
 
 ### 57
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cómo se rompe un diptongo?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿cómo se rompe un diptongo?
 
 - A. Colocando la tilde sobre la vocal débil, que se convierte en fuerte, y el diptongo se convierte en hiato
 - B. Colocando la tilde sobre la vocal fuerte
@@ -943,7 +943,7 @@ Si el acento cae en una sílaba con diptongo, se coloca la tilde (el acento) sob
 
 ### 59
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, al enlistar varios elementos de algo, ¿cómo van separados?
+En relación con el libro de Taller de Lectura y Redacción 1, al enlistar varios elementos de algo, ¿cómo van separados?
 
 - A. Cada uno va separado por una coma, con excepción del último, en el que se sustituye la coma por la conjunción y
 - B. Todos van separados por punto y coma
@@ -958,7 +958,7 @@ Si vas a enlistar varios elementos de algo, cada uno de ellos va separado por un
 
 ### 60
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, en un listado, ¿en qué caso se sustituye la coma del último elemento por la conjunción "e" en vez de "y"?
+En relación con el libro de Taller de Lectura y Redacción 1, en un listado, ¿en qué caso se sustituye la coma del último elemento por la conjunción "e" en vez de "y"?
 
 - A. Si sigue una palabra que inicia con el sonido i
 - B. Si sigue una palabra que inicia con el sonido a
@@ -973,7 +973,7 @@ Cada uno de ellos va separado por una coma, con excepción del último, en el qu
 
 ### 61
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué es un inciso?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿qué es un inciso?
 
 - A. Una frase corta que se inserta en medio de una frase más larga, para explicar o enfatizar algo
 - B. La conjunción que sustituye a la coma en el último elemento de un listado
@@ -988,7 +988,7 @@ Los incisos van entre comas. El inciso es una frase corta que se inserta en medi
 
 ### 62
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, si la frase explicativa o el inciso van al inicio de la oración, ¿qué se hace?
+En relación con el libro de Taller de Lectura y Redacción 1, si la frase explicativa o el inciso van al inicio de la oración, ¿qué se hace?
 
 - A. Se pone coma después del mismo, para separar el inciso de la frase principal
 - B. Se pone coma antes del mismo únicamente
@@ -1003,7 +1003,7 @@ Si la frase explicativa o el inciso van al inicio de la oración, se pone coma d
 
 ### 63
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, si la oración empieza con una circunstancia de tiempo o lugar, ¿qué se hace?
+En relación con el libro de Taller de Lectura y Redacción 1, si la oración empieza con una circunstancia de tiempo o lugar, ¿qué se hace?
 
 - A. Se pone coma después de la misma, para indicar que luego empieza la frase principal
 - B. Se pone punto y seguido después de la misma
@@ -1063,7 +1063,7 @@ En algunas oraciones, para evitar repetir demasiado el mismo verbo, a veces se o
 
 ### 67
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se separa el sujeto del verbo con una coma?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿en qué caso se separa el sujeto del verbo con una coma?
 
 - A. Nunca, a no ser que entre ellos vaya un inciso
 - B. Siempre que el sujeto sea largo
@@ -1078,7 +1078,7 @@ El sujeto nunca se debe separar del verbo con una coma, a no ser que entre ellos
 
 ### 68
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuál es el orden correcto de una oración?
+En relación con el libro de Taller de Lectura y Redacción 1, ¿cuál es el orden correcto de una oración?
 
 - A. Sujeto-verbo-complemento
 - B. Verbo-sujeto-complemento
@@ -1093,7 +1093,7 @@ El orden correcto en una oración es sujeto-verbo-complemento. Si por alguna raz
 
 ### 69
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué es un vocativo?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿qué es un vocativo?
 
 - A. La expresión que se utiliza para llamar a alguna persona o algún animal
 - B. La frase corta que se inserta para explicar o enfatizar algo
@@ -1108,7 +1108,7 @@ Los vocativos van entre comas. Un vocativo es la expresión que se utiliza para 
 
 ### 70
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, si el vocativo inicia la oración, ¿qué signo lleva?
+En relación con el libro de Taller de Lectura y Redacción 1, si el vocativo inicia la oración, ¿qué signo lleva?
 
 - A. Sólo llevará coma después del mismo
 - B. Sólo llevará coma antes del mismo
@@ -1123,7 +1123,7 @@ Si el vocativo inicia la oración, sólo llevará coma después del mismo; si el
 
 ### 71
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿antes de cuáles conjunciones se pone coma?
+De conformidad con el libro de Taller de Lectura y Redacción 1, ¿antes de cuáles conjunciones se pone coma?
 
 - A. Pero, mas, aunque, sino, conque, así que, de manera que, porque
 - B. Y, e, o, u, ni
@@ -1138,7 +1138,7 @@ Se pone coma antes de las siguientes conjunciones: pero, mas, aunque, sino, conq
 
 ### 72
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, si con esas conjunciones se empieza una frase muy larga que a su vez tiene otras comas, ¿qué se debe poner antes de ellas?
+En relación con el libro de Taller de Lectura y Redacción 1, si con esas conjunciones se empieza una frase muy larga que a su vez tiene otras comas, ¿qué se debe poner antes de ellas?
 
 - A. Punto y coma
 - B. Coma
@@ -1157,7 +1157,7 @@ Si con estas conjunciones se empieza una frase muy larga, que a su vez tiene otr
 
 ### 73
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, cuando hay muchas comas en una oración muy larga, ¿en qué se convierte la coma principal?
+De conformidad con el libro de Taller de Lectura y Redacción 1, cuando hay muchas comas en una oración muy larga, ¿en qué se convierte la coma principal?
 
 - A. En punto y coma (sube de categoría)
 - B. En punto y seguido
@@ -1187,7 +1187,7 @@ La coma principal es la que indica la división de la oración larga en sus dos 
 
 ### 75
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, si ya terminó una idea completa y vas a escribir otra idea diferente, ¿qué debes poner?
+De conformidad con el libro de Taller de Lectura y Redacción 1, si ya terminó una idea completa y vas a escribir otra idea diferente, ¿qué debes poner?
 
 - A. Punto y no coma, aunque estés hablando del mismo tema general
 - B. Coma, para no cortar el tema general
@@ -1217,7 +1217,7 @@ Si continúas en el mismo párrafo, se trata de un punto y seguido.
 
 ### 77
 
-De acuerdo con el libro de Taller de Lectura y Redacción 1, si se terminó el tema o asunto del que estabas hablando y empiezas a hablar de otro tema diferente, ¿qué debes poner?
+En relación con el libro de Taller de Lectura y Redacción 1, si se terminó el tema o asunto del que estabas hablando y empiezas a hablar de otro tema diferente, ¿qué debes poner?
 
 - A. Punto y aparte, y empezar un nuevo párrafo
 - B. Punto y seguido, y continuar en el mismo párrafo

@@ -87,7 +87,7 @@ parafrasear ni bajar la dificultad. Cuatro opciones del mismo tipo y magnitud.
 
 ### 1
 
-De acuerdo con el libro de Álgebra, ¿qué es la resta o sustracción?
+En relación con el libro de Álgebra, ¿qué es la resta o sustracción?
 
 - A. Una operación que tiene por objeto, dada una suma de dos sumandos y uno de ellos, hallar el otro sumando
 - B. Una operación que tiene por objeto reunir dos o más expresiones algebraicas en una sola
@@ -166,7 +166,7 @@ Se escribe el minuendo con sus propios signos y a continuación el sustraendo co
 
 ### 5
 
-De acuerdo con el libro de Álgebra, ¿qué pueblos hicieron una enorme contribución al acervo matemático de la humanidad, según el recuadro del capítulo II?
+En relación con el libro de Álgebra, ¿qué pueblos hicieron una enorme contribución al acervo matemático de la humanidad, según el recuadro del capítulo II?
 
 - A. Los caldeos, asirios y babilonios
 - B. Los egipcios, caldeos y asirios
@@ -181,7 +181,7 @@ No ha sido sino recientemente que se ha puesto de manifiesto la enorme contribuc
 
 ### 6
 
-De acuerdo con el libro de Álgebra, ¿en qué año se descifraron las tablillas que menciona ese recuadro?
+De conformidad con el libro de Álgebra, ¿en qué año se descifraron las tablillas que menciona ese recuadro?
 
 - A. En 1930
 - B. En 1650 a. C.
@@ -244,7 +244,7 @@ Pero no supone esto que los caldeos tuvieran toda una concepción abstracta de l
 
 ### 9
 
-De acuerdo con el libro de Álgebra, ¿qué suele hacerse cuando el sustraendo es negativo?
+De conformidad con el libro de Álgebra, ¿qué suele hacerse cuando el sustraendo es negativo?
 
 - A. Suele incluirse dentro de un paréntesis para indicar la operación
 - B. Suele escribirse sin signo, porque el signo se sobreentiende
@@ -259,7 +259,7 @@ Cuando el sustraendo es negativo suele incluirse dentro de un paréntesis para i
 
 ### 10
 
-De acuerdo con el libro de Álgebra, ¿qué permite distinguir ese paréntesis?
+De conformidad con el libro de Álgebra, ¿qué permite distinguir ese paréntesis?
 
 - A. El signo − que indica la resta, del signo − que señala el carácter negativo del sustraendo
 - B. El signo − que indica la resta, del signo − que señala el carácter negativo del minuendo
@@ -274,7 +274,7 @@ De este modo distinguimos el signo − que indica la resta del signo − que se�
 
 ### 11
 
-De acuerdo con el libro de Álgebra, ¿qué objeto tiene el signo − que va delante del paréntesis?
+En relación con el libro de Álgebra, ¿qué objeto tiene el signo − que va delante del paréntesis?
 
 - A. Indicar la resta y decirnos que debemos cambiar el signo al sustraendo
 - B. Indicar que el sustraendo es negativo y debe conservarse tal cual
@@ -293,7 +293,7 @@ El signo − delante del paréntesis está para indicar la resta y este signo no
 
 ### 12
 
-De acuerdo con el libro de Álgebra, ¿qué implica siempre la resta en Aritmética?
+En relación con el libro de Álgebra, ¿qué implica siempre la resta en Aritmética?
 
 - A. Disminución
 - B. Aumento
@@ -312,7 +312,7 @@ En Aritmética la resta siempre implica disminución.
 
 ### 13
 
-De acuerdo con el libro de Álgebra, ¿qué puede significar la resta algebraica?
+De conformidad con el libro de Álgebra, ¿qué puede significar la resta algebraica?
 
 - A. Disminución o aumento
 - B. Únicamente disminución
@@ -327,7 +327,7 @@ Mientras que la resta algebraica tiene un carácter más general, pues puede sig
 
 ### 14
 
-De acuerdo con el libro de Álgebra, ¿qué ocurre en algunas restas algebraicas respecto del minuendo?
+De conformidad con el libro de Álgebra, ¿qué ocurre en algunas restas algebraicas respecto del minuendo?
 
 - A. Que la diferencia es mayor que el minuendo
 - B. Que la diferencia es siempre menor que el minuendo
@@ -385,7 +385,7 @@ Cuando el sustraendo es un polinomio, hay que restar del minuendo cada uno de lo
 
 ### 17
 
-De acuerdo con el libro de Álgebra, ¿cómo se escribe el sustraendo a continuación del minuendo?
+De conformidad con el libro de Álgebra, ¿cómo se escribe el sustraendo a continuación del minuendo?
 
 - A. Cambiándole el signo a todos sus términos
 - B. Cambiándole el signo únicamente a su primer término
@@ -403,7 +403,7 @@ A continuación del minuendo escribiremos el sustraendo cambiándole el signo a 
 
 ### 18
 
-De acuerdo con el libro de Álgebra, ¿cómo se indica la sustracción?
+De conformidad con el libro de Álgebra, ¿cómo se indica la sustracción?
 
 - A. Incluyendo el sustraendo en un paréntesis precedido del signo −
 - B. Incluyendo el minuendo en un paréntesis precedido del signo −
@@ -418,7 +418,7 @@ La sustracción se indica incluyendo el sustraendo en un paréntesis precedido d
 
 ### 19
 
-De acuerdo con el libro de Álgebra, en la práctica, ¿cómo suele escribirse el sustraendo?
+De conformidad con el libro de Álgebra, en la práctica, ¿cómo suele escribirse el sustraendo?
 
 - A. Con sus signos cambiados debajo del minuendo, de modo que los términos semejantes queden en columna
 - B. Con sus propios signos debajo del minuendo, de modo que los términos semejantes queden en columna
@@ -456,7 +456,7 @@ La diferencia sumada con el sustraendo debe dar el minuendo.
 
 ### 21
 
-De acuerdo con el libro de Álgebra, al escribir el sustraendo con sus signos cambiados debajo del minuendo, ¿qué debe hacerse con ambos?
+En relación con el libro de Álgebra, al escribir el sustraendo con sus signos cambiados debajo del minuendo, ¿qué debe hacerse con ambos?
 
 - A. Deben ordenarse ambos con relación a una misma letra
 - B. Deben ordenarse ambos con relación a letras distintas
@@ -471,7 +471,7 @@ Al escribir el sustraendo, con sus signos cambiados, debajo del minuendo, deben 
 
 ### 22
 
-De acuerdo con el libro de Álgebra, ¿cómo se efectúa la prueba del valor numérico en la resta?
+En relación con el libro de Álgebra, ¿cómo se efectúa la prueba del valor numérico en la resta?
 
 - A. Hallando el valor numérico del minuendo, del sustraendo con los signos cambiados y de la diferencia, para un mismo valor de las letras
 - B. Hallando el valor numérico del minuendo, del sustraendo con sus propios signos y de la diferencia, para un mismo valor de las letras
@@ -490,7 +490,7 @@ La prueba del valor numérico se efectúa hallando el valor numérico del minuen
 
 ### 23
 
-De acuerdo con el libro de Álgebra, ¿qué debe darnos reducir el valor numérico del minuendo y del sustraendo con el signo cambiado?
+En relación con el libro de Álgebra, ¿qué debe darnos reducir el valor numérico del minuendo y del sustraendo con el signo cambiado?
 
 - A. El valor numérico de la diferencia
 - B. El valor numérico del minuendo

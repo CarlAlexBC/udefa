@@ -48,7 +48,7 @@ reactivos de cita literal.
 
 ### 1
 
-De acuerdo con el libro de Geografía Moderna de México, ¿por cuáles procesos pueden ser originadas las islas?
+De conformidad con el libro de Geografía Moderna de México, ¿por cuáles procesos pueden ser originadas las islas?
 
 - A. Por diastrofismo, vulcanismo, gradación o acción biológica
 - B. Por sedimentación, erosión y oleaje únicamente
@@ -93,7 +93,7 @@ La aparición de un volcán submarino, si el cono sobresale por encima del nivel
 
 ### 4
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cómo son generalmente las islas originadas por el depósito de los ríos?
+De conformidad con el libro de Geografía Moderna de México, ¿cómo son generalmente las islas originadas por el depósito de los ríos?
 
 - A. De baja altura, arenosas y con frecuentes cambios en sus contornos
 - B. Elevaciones con costas acantiladas
@@ -157,7 +157,7 @@ Cerca de la costa occidental se encuentra, en el estado de Sonora, la isla San J
 
 ### 8
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué isla es famosa por ser sede tradicional de los indios seris?
+De conformidad con el libro de Geografía Moderna de México, ¿qué isla es famosa por ser sede tradicional de los indios seris?
 
 - A. La isla San Jorge
 - B. La isla Pelícano
@@ -172,7 +172,7 @@ Pelícano, famosa por ser sede tradicional de los indios seris.
 
 ### 9
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué área cubre la isla San Esteban, situada entre la costa de Baja California y Sonora?
+De conformidad con el libro de Geografía Moderna de México, ¿qué área cubre la isla San Esteban, situada entre la costa de Baja California y Sonora?
 
 - A. 25 km²
 - B. 45 km²
@@ -187,7 +187,7 @@ La isla San Esteban, situada entre la costa de Baja California y Sonora, tiene u
 
 ### 10
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué isla ha desaparecido prácticamente por haberse unido al rompeolas que constituye la bahía de Mazatlán?
+En relación con el libro de Geografía Moderna de México, ¿qué isla ha desaparecido prácticamente por haberse unido al rompeolas que constituye la bahía de Mazatlán?
 
 - A. La isla Azada
 - B. La isla Santa María
@@ -221,7 +221,7 @@ Frente al estado de Nayarit se encuentra la isla Isabela y sobresale el archipi�
 
 ### 12
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la mayor de las islas Marías por su superficie?
+De conformidad con el libro de Geografía Moderna de México, ¿cuál es la mayor de las islas Marías por su superficie?
 
 - A. María Cleofas, con 25 km²
 - B. María Magdalena, con 84 km²
@@ -255,7 +255,7 @@ De acuerdo con una estimación publicada por el Instituto Nacional de Estadísti
 
 ### 14
 
-De acuerdo con el libro de Geografía Moderna de México, ¿por qué debe considerarse un valor mínimo la superficie estimada de las islas mexicanas?
+En relación con el libro de Geografía Moderna de México, ¿por qué debe considerarse un valor mínimo la superficie estimada de las islas mexicanas?
 
 - A. Porque no se dispone de un registro exhaustivo y de muchas se ignora su superficie
 - B. Porque la estimación excluye las islas del Pacífico
@@ -270,7 +270,7 @@ Hemos visto nuestras islas con gran indiferencia, al grado de que la informació
 
 ### 15
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué está formado por las islas Socorro, San Benedicto, Clarión y Roca Partida?
+En relación con el libro de Geografía Moderna de México, ¿qué está formado por las islas Socorro, San Benedicto, Clarión y Roca Partida?
 
 - A. El archipiélago del Norte
 - B. El archipiélago de Revillagigedo
@@ -289,7 +289,7 @@ Cuadro 5.1, Principales islas de México. Colima: Revillagigedo (Socorro, San Be
 
 ### 16
 
-De acuerdo con el libro de Geografía Moderna de México, ¿a qué estado corresponde el archipiélago de Revillagigedo?
+De conformidad con el libro de Geografía Moderna de México, ¿a qué estado corresponde el archipiélago de Revillagigedo?
 
 - A. Nayarit
 - B. Colima
@@ -304,7 +304,7 @@ Cuadro 5.1, Principales islas de México. Colima: Revillagigedo (Socorro, San Be
 
 ### 17
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué islas corresponden al Mar de las Antillas?
+De conformidad con el libro de Geografía Moderna de México, ¿qué islas corresponden al Mar de las Antillas?
 
 - A. Mujeres, Cozumel y Cancún
 - B. Holbox, Del Carmen y Lobos
@@ -319,7 +319,7 @@ Cuadro 5.1, Principales islas de México. Mar de las Antillas: Mujeres, Cozumel 
 
 ### 18
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué islas corresponden al estado de Veracruz?
+De conformidad con el libro de Geografía Moderna de México, ¿qué islas corresponden al estado de Veracruz?
 
 - A. Lobos, El Ídolo y Sacrificios
 - B. Mujeres, Cozumel y Cancún
@@ -334,7 +334,7 @@ Cuadro 5.1, Principales islas de México. Veracruz: Lobos, El Ídolo y Sacrifici
 
 ### 19
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la isla que el Cuadro 5.1 asigna al estado de Guerrero?
+En relación con el libro de Geografía Moderna de México, ¿cuál es la isla que el Cuadro 5.1 asigna al estado de Guerrero?
 
 - A. Roqueta
 - B. Holbox
@@ -368,7 +368,7 @@ No son de gran extensión, pero como diversos autores han considerado que estas 
 
 ### 21
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué archipiélago está formado por las islas San Benedicto, Socorro, Clarión y Roca Partida, todas pertenecientes al estado de Colima?
+De conformidad con el libro de Geografía Moderna de México, ¿qué archipiélago está formado por las islas San Benedicto, Socorro, Clarión y Roca Partida, todas pertenecientes al estado de Colima?
 
 - A. El archipiélago de las islas Marías
 - B. El archipiélago de Revillagigedo
@@ -386,7 +386,7 @@ Como islas alejadas de la costa, en el seno del océano Pacífico, y que pertene
 
 ### 22
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué otro nombre recibe la isla Roqueta, a la entrada del puerto de Acapulco?
+En relación con el libro de Geografía Moderna de México, ¿qué otro nombre recibe la isla Roqueta, a la entrada del puerto de Acapulco?
 
 - A. Isla Grifo
 - B. Isla Tixib
@@ -420,7 +420,7 @@ La más importante isla del Golfo de México es la Del Carmen, que cierra la Lag
 
 ### 24
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cómo se llamaba antes de la Conquista la isla Del Carmen?
+En relación con el libro de Geografía Moderna de México, ¿cómo se llamaba antes de la Conquista la isla Del Carmen?
 
 - A. Tixib
 - B. Grifo
@@ -435,7 +435,7 @@ La más importante isla del Golfo de México es la Del Carmen, que cierra la Lag
 
 ### 25
 
-De acuerdo con el libro de Geografía Moderna de México, ¿sobre qué arrecife se levanta el fuerte de San Juan de Ulúa?
+En relación con el libro de Geografía Moderna de México, ¿sobre qué arrecife se levanta el fuerte de San Juan de Ulúa?
 
 - A. Sobre el Arrecife de la Gallega
 - B. Sobre la isla Sacrificios
@@ -450,7 +450,7 @@ Las islas y arrecifes que rodean al puerto de Veracruz son: el Arrecife de la Ga
 
 ### 26
 
-De acuerdo con el libro de Geografía Moderna de México, ¿por qué es conocida la isla Sacrificios?
+De conformidad con el libro de Geografía Moderna de México, ¿por qué es conocida la isla Sacrificios?
 
 - A. Porque en ella se han establecido estaciones de cuarentena para personas y animales
 - B. Porque sobre ella se levanta el fuerte de San Juan de Ulúa
@@ -465,7 +465,7 @@ La isla Sacrificios, que se distingue desde el puerto de Veracruz y es bastante 
 
 ### 27
 
-De acuerdo con el libro de Geografía Moderna de México, ¿por qué merece mención especial la isla de Lobos?
+De conformidad con el libro de Geografía Moderna de México, ¿por qué merece mención especial la isla de Lobos?
 
 - A. Por ser un punto de referencia para la navegación entre Tampico y Veracruz
 - B. Por sus estaciones de cuarentena
@@ -484,7 +484,7 @@ Todas ellas son de pequeñas dimensiones y ninguna merece mención especial, apa
 
 ### 28
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué gran entrante cierra por el occidente la isla Cedros?
+De conformidad con el libro de Geografía Moderna de México, ¿qué gran entrante cierra por el occidente la isla Cedros?
 
 - A. La bahía Sebastián Vizcaíno
 - B. La bahía Magdalena
@@ -499,7 +499,7 @@ Merece mención especial la isla Cedros, que cierra por el occidente la gran ent
 
 ### 29
 
-De acuerdo con el libro de Geografía Moderna de México, ¿cómo se llama la base naval que se encuentra en la isla Santa Margarita, dentro de bahía Magdalena?
+En relación con el libro de Geografía Moderna de México, ¿cómo se llama la base naval que se encuentra en la isla Santa Margarita, dentro de bahía Magdalena?
 
 - A. Puerto Cortés
 - B. Puerto Progreso
@@ -514,7 +514,7 @@ En ella se encuentra la base naval llamada *Puerto Cortés*, dentro de bahía Ma
 
 ### 30
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué altitud alcanza el monte Santa Margarita, al sureste de la isla del mismo nombre?
+En relación con el libro de Geografía Moderna de México, ¿qué altitud alcanza el monte Santa Margarita, al sureste de la isla del mismo nombre?
 
 - A. 257 m
 - B. 430 m
@@ -548,7 +548,7 @@ Mencionaremos las islas Montague y Gore, a pesar de sus cortas dimensiones, pues
 
 ### 32
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué se cristaliza por un proceso natural y espontáneo en el lago salado de la isla Del Carmen, en el Golfo de California?
+De conformidad con el libro de Geografía Moderna de México, ¿qué se cristaliza por un proceso natural y espontáneo en el lago salado de la isla Del Carmen, en el Golfo de California?
 
 - A. El cloruro de sodio
 - B. El carbonato de calcio
@@ -616,7 +616,7 @@ Tiene forma alargada, con 37.5 km de largo y una anchura media de 3 km, con supe
 
 ### 36
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué puerto se levanta en el sureste de la isla Del Carmen, sobre la boca principal de entrada a la Laguna de Términos?
+De conformidad con el libro de Geografía Moderna de México, ¿qué puerto se levanta en el sureste de la isla Del Carmen, sobre la boca principal de entrada a la Laguna de Términos?
 
 - A. Ciudad del Carmen
 - B. Puerto Progreso
@@ -631,7 +631,7 @@ En el sureste se levanta Ciudad del Carmen, importante puerto sobre la boca prin
 
 ### 37
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué significa en maya el nombre de la isla Holbox?
+De conformidad con el libro de Geografía Moderna de México, ¿qué significa en maya el nombre de la isla Holbox?
 
 - A. Cabeza de negro
 - B. Agua oscura
@@ -665,7 +665,7 @@ Hay numerosas islas de origen coralífero, la más importante es Isla Mujeres, d
 
 ### 39
 
-De acuerdo con el libro de Geografía Moderna de México, ¿qué superficie tiene la isla de Cozumel?
+De conformidad con el libro de Geografía Moderna de México, ¿qué superficie tiene la isla de Cozumel?
 
 - A. 489.9 km²
 - B. 151 km²
@@ -699,7 +699,7 @@ Principalmente por su interés turístico, cabe citar, en la Laguna de Chapala, 
 
 ### 41
 
-De acuerdo con el libro de Geografía Moderna de México, ¿en qué lago se localizan las islas de San Pedro Chasaco y Liceaga?
+De conformidad con el libro de Geografía Moderna de México, ¿en qué lago se localizan las islas de San Pedro Chasaco y Liceaga?
 
 - A. En el lago Yuriria
 - B. En el Lago de Pátzcuaro

@@ -116,7 +116,7 @@ parafrasear ni bajar la dificultad. Cuatro opciones del mismo tipo y magnitud.
 
 ### 1
 
-De acuerdo con el libro de Álgebra, ¿dónde nació y dónde murió Pitágoras?
+En relación con el libro de Álgebra, ¿dónde nació y dónde murió Pitágoras?
 
 - A. Nació en Samos y murió en Metaponte
 - B. Nació en Metaponte y murió en Samos
@@ -134,7 +134,7 @@ Célebre filósofo griego nacido en Samos y muerto en Metaponte.
 
 ### 2
 
-De acuerdo con el libro de Álgebra, ¿por dónde viajó Pitágoras después de realizar sus primeros estudios?
+En relación con el libro de Álgebra, ¿por dónde viajó Pitágoras después de realizar sus primeros estudios?
 
 - A. Por Egipto y otros países de Oriente
 - B. Por Caldea y Asiria únicamente
@@ -153,7 +153,7 @@ Después de realizar sus primeros estudios en su ciudad natal viajó por Egipto 
 
 ### 3
 
-De acuerdo con el libro de Álgebra, ¿qué escuela fundó Pitágoras a su regreso?
+De conformidad con el libro de Álgebra, ¿qué escuela fundó Pitágoras a su regreso?
 
 - A. La Escuela de Crotona
 - B. La Escuela de Samos
@@ -168,7 +168,7 @@ A su regreso fundó la Escuela de Crotona.
 
 ### 4
 
-De acuerdo con el libro de Álgebra, ¿qué era la Escuela de Crotona?
+En relación con el libro de Álgebra, ¿qué era la Escuela de Crotona?
 
 - A. Una sociedad secreta de tipo político-religioso
 - B. Una sociedad abierta de tipo científico
@@ -183,7 +183,7 @@ Fundó la Escuela de Crotona, que era una sociedad secreta de tipo político-rel
 
 ### 5
 
-De acuerdo con el libro de Álgebra, ¿en qué fue Pitágoras el primero?
+De conformidad con el libro de Álgebra, ¿en qué fue Pitágoras el primero?
 
 - A. En colocar como base de las especulaciones filosóficas los conceptos fundamentales de la Matemática
 - B. En colocar como base de la Matemática los conceptos fundamentales de la filosofía
@@ -221,7 +221,7 @@ Hizo del número el principio universal por excelencia.
 
 ### 7
 
-De acuerdo con el libro de Álgebra, ¿qué es la multiplicación?
+De conformidad con el libro de Álgebra, ¿qué es la multiplicación?
 
 - A. Una operación que tiene por objeto, dadas dos cantidades llamadas multiplicando y multiplicador, hallar una tercera cantidad llamada producto
 - B. Una operación que tiene por objeto, dado un producto y uno de sus factores, hallar el otro factor
@@ -240,7 +240,7 @@ La multiplicación es una operación que tiene por objeto, dadas dos cantidades 
 
 ### 8
 
-De acuerdo con el libro de Álgebra, ¿cómo se llaman el multiplicando y el multiplicador?
+De conformidad con el libro de Álgebra, ¿cómo se llaman el multiplicando y el multiplicador?
 
 - A. Factores del producto
 - B. Sumandos del producto
@@ -299,7 +299,7 @@ Los factores de un producto pueden agruparse de cualquier modo. Esta es la ley a
 
 ### 11
 
-De acuerdo con el libro de Álgebra, ¿cuándo es + el signo del producto de varios factores?
+En relación con el libro de Álgebra, ¿cuándo es + el signo del producto de varios factores?
 
 - A. Cuando tiene un número par de factores negativos o ninguno
 - B. Cuando tiene un número impar de factores negativos
@@ -317,7 +317,7 @@ El signo del producto de varios factores es + cuando tiene un número par de fac
 
 ### 12
 
-De acuerdo con el libro de Álgebra, ¿cuándo es − el signo del producto de varios factores?
+En relación con el libro de Álgebra, ¿cuándo es − el signo del producto de varios factores?
 
 - A. Cuando tiene un número impar de factores negativos
 - B. Cuando tiene un número par de factores negativos
@@ -374,7 +374,7 @@ Distinguiremos tres casos: 1) Multiplicación de monomios. 2) Multiplicación de
 
 ### 15
 
-De acuerdo con el libro de Álgebra, ¿cuál es la regla para multiplicar monomios?
+De conformidad con el libro de Álgebra, ¿cuál es la regla para multiplicar monomios?
 
 - A. Se multiplican los coeficientes y a continuación se escriben las letras de los factores en orden alfabético, poniéndole a cada letra un exponente igual a la suma de los exponentes que tenga en los factores
 - B. Se suman los coeficientes y a continuación se escriben las letras de los factores en orden alfabético, poniéndole a cada letra un exponente igual al producto de los exponentes que tenga en los factores
@@ -484,7 +484,7 @@ Los dos factores deben ordenarse en relación con una misma letra.
 
 ### 21
 
-De acuerdo con el libro de Álgebra, ¿cómo se escriben los productos parciales al multiplicar dos polinomios?
+En relación con el libro de Álgebra, ¿cómo se escriben los productos parciales al multiplicar dos polinomios?
 
 - A. De modo que los términos semejantes queden en columna
 - B. De modo que los términos semejantes queden en fila
@@ -503,7 +503,7 @@ Escribiendo los productos parciales de modo que los términos semejantes queden 
 
 ### 22
 
-De acuerdo con el libro de Álgebra, ¿qué logra el método de coeficientes separados?
+En relación con el libro de Álgebra, ¿qué logra el método de coeficientes separados?
 
 - A. Abrevia la operación
 - B. Evita tener que aplicar la ley de los signos
@@ -518,7 +518,7 @@ La multiplicación de polinomios por el método de coeficientes separados abrevi
 
 ### 23
 
-De acuerdo con el libro de Álgebra, ¿en qué dos casos se aplica el método de coeficientes separados?
+De conformidad con el libro de Álgebra, ¿en qué dos casos se aplica el método de coeficientes separados?
 
 - A. En polinomios de una sola letra ordenados con relación a ella, y en polinomios homogéneos de sólo dos letras comunes ordenados en relación con una de ellas
 - B. En polinomios de una sola letra sin ordenar, y en polinomios homogéneos de sólo dos letras comunes sin ordenar
@@ -563,7 +563,7 @@ El producto de dos polinomios homogéneos es otro polinomio homogéneo.
 
 ### 25
 
-De acuerdo con el libro de Álgebra, ¿cómo se desarrolla el producto continuado de polinomios?
+De conformidad con el libro de Álgebra, ¿cómo se desarrolla el producto continuado de polinomios?
 
 - A. Efectuando el producto de dos factores cualesquiera; este producto se multiplica por el tercer factor, y este nuevo producto por el factor que queda
 - B. Efectuando el producto de los dos primeros factores únicamente, y sumando después los factores restantes
@@ -618,7 +618,7 @@ Un coeficiente colocado junto a un signo de agrupación nos indica que hay que m
 
 ### 28
 
-De acuerdo con el libro de Álgebra, ¿qué ocurre si se cambia el signo a un número par de factores?
+De conformidad con el libro de Álgebra, ¿qué ocurre si se cambia el signo a un número par de factores?
 
 - A. El signo del producto no varía
 - B. El signo del producto varía
@@ -633,7 +633,7 @@ Si se cambia el signo a un número par de factores, el signo del producto no var
 
 ### 29
 
-De acuerdo con el libro de Álgebra, ¿qué ocurre si se cambia el signo a un número impar de factores?
+En relación con el libro de Álgebra, ¿qué ocurre si se cambia el signo a un número impar de factores?
 
 - A. El signo del producto varía
 - B. El signo del producto no varía
@@ -652,7 +652,7 @@ Si se cambia el signo a un número impar de factores, el signo del producto var�
 
 ### 30
 
-De acuerdo con el libro de Álgebra, cuando los factores sean polinomios, ¿cómo hay que cambiarles el signo?
+En relación con el libro de Álgebra, cuando los factores sean polinomios, ¿cómo hay que cambiarles el signo?
 
 - A. Hay que cambiar el signo a cada uno de sus términos
 - B. Hay que cambiar el signo únicamente a su primer término

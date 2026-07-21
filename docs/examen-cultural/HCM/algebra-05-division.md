@@ -95,7 +95,7 @@ parafrasear ni bajar la dificultad. Cuatro opciones del mismo tipo y magnitud.
 
 ### 1
 
-De acuerdo con el libro de Álgebra, ¿de quién fue alumno predilecto Platón?
+En relación con el libro de Álgebra, ¿de quién fue alumno predilecto Platón?
 
 - A. De Sócrates
 - B. De Pitágoras
@@ -113,7 +113,7 @@ Alumno predilecto de Sócrates, dio a conocer las doctrinas del Maestro y las su
 
 ### 2
 
-De acuerdo con el libro de Álgebra, ¿en qué obras dio a conocer Platón las doctrinas del Maestro y las suyas propias?
+En relación con el libro de Álgebra, ¿en qué obras dio a conocer Platón las doctrinas del Maestro y las suyas propias?
 
 - A. En los famosos Diálogos
 - B. En los famosos Elementos
@@ -128,7 +128,7 @@ Dio a conocer las doctrinas del Maestro y las suyas propias en los famosos Diál
 
 ### 3
 
-De acuerdo con el libro de Álgebra, ¿qué Diálogos de Platón sobresalen?
+En relación con el libro de Álgebra, ¿qué Diálogos de Platón sobresalen?
 
 - A. El Timeo, Fedón y el Banquete
 - B. El Timeo, Fedón y los Elementos
@@ -177,7 +177,7 @@ Al fundar la Academia hizo inscribir en el frontispicio: "Que nadie entre aquí 
 
 ### 6
 
-De acuerdo con el libro de Álgebra, en la división, ¿cómo se llaman el producto dado, el factor conocido y el factor que se busca?
+En relación con el libro de Álgebra, en la división, ¿cómo se llaman el producto dado, el factor conocido y el factor que se busca?
 
 - A. Dividendo el producto dado, divisor el factor conocido, y cociente el que se busca
 - B. Divisor el producto dado, dividendo el factor conocido, y cociente el que se busca
@@ -229,7 +229,7 @@ Donde vemos que si el dividendo se divide entre el cociente nos da de cociente l
 
 ### 9
 
-De acuerdo con el libro de Álgebra, ¿cómo es la ley de los signos en la división respecto de la multiplicación?
+De conformidad con el libro de Álgebra, ¿cómo es la ley de los signos en la división respecto de la multiplicación?
 
 - A. Es la misma
 - B. Es la inversa
@@ -244,7 +244,7 @@ La ley de los signos en la división es la misma que en la multiplicación: Sign
 
 ### 10
 
-De acuerdo con el libro de Álgebra, ¿cuál es el coeficiente del cociente?
+De conformidad con el libro de Álgebra, ¿cuál es el coeficiente del cociente?
 
 - A. El cociente de dividir el coeficiente del dividendo entre el coeficiente del divisor
 - B. El producto de los coeficientes del dividendo y del divisor
@@ -264,7 +264,7 @@ El coeficiente del cociente es el cociente de dividir el coeficiente del dividen
 
 ### 11
 
-De acuerdo con el libro de Álgebra, ¿cuáles son los tres casos de la división?
+En relación con el libro de Álgebra, ¿cuáles son los tres casos de la división?
 
 - A. División de monomios; de un polinomio por un monomio; y de dos polinomios
 - B. División de monomios; de un monomio por un polinomio; y de dos polinomios
@@ -287,7 +287,7 @@ Estudiaremos tres casos: 1) División de monomios. 2) División de un polinomio 
 
 ### 12
 
-De acuerdo con el libro de Álgebra, ¿cuál es la regla para dividir dos monomios?
+De conformidad con el libro de Álgebra, ¿cuál es la regla para dividir dos monomios?
 
 - A. Se divide el coeficiente del dividendo entre el del divisor y se escriben en orden alfabético las letras, con un exponente igual a la diferencia entre el que tiene en el dividendo y el que tiene en el divisor
 - B. Se divide el coeficiente del dividendo entre el del divisor y se escriben en orden alfabético las letras, con un exponente igual a la suma del que tiene en el dividendo y el que tiene en el divisor
@@ -377,7 +377,7 @@ De acuerdo con el libro de Álgebra, ¿cómo se llama esa ley?
 
 ### 17
 
-De acuerdo con el libro de Álgebra, ¿cuál es el primer paso para dividir dos polinomios?
+En relación con el libro de Álgebra, ¿cuál es el primer paso para dividir dos polinomios?
 
 - A. Se ordenan el dividendo y el divisor con relación a una misma letra
 - B. Se ordenan el dividendo y el divisor con relación a letras distintas
@@ -410,7 +410,7 @@ Se divide el primer término del dividendo entre el primero del divisor y tendre
 
 ### 19
 
-De acuerdo con el libro de Álgebra, ¿qué se hace con el primer término del cociente una vez hallado?
+De conformidad con el libro de Álgebra, ¿qué se hace con el primer término del cociente una vez hallado?
 
 - A. Se multiplica por todo el divisor y el producto se resta del dividendo, para lo cual se le cambia el signo
 - B. Se multiplica por todo el divisor y el producto se suma al dividendo, conservando sus signos
@@ -425,7 +425,7 @@ Este primer término del cociente se multiplica por todo el divisor y el product
 
 ### 20
 
-De acuerdo con el libro de Álgebra, ¿hasta cuándo se repiten las operaciones al dividir dos polinomios?
+De conformidad con el libro de Álgebra, ¿hasta cuándo se repiten las operaciones al dividir dos polinomios?
 
 - A. Hasta que el residuo sea cero
 - B. Hasta que el residuo sea uno
@@ -444,7 +444,7 @@ Se efectúan las operaciones anteriores; y así sucesivamente hasta que el resid
 
 ### 21
 
-De acuerdo con el libro de Álgebra, ¿cómo puede verificarse la división cuando es exacta?
+En relación con el libro de Álgebra, ¿cómo puede verificarse la división cuando es exacta?
 
 - A. Multiplicando el divisor por el cociente, debiendo darnos el dividendo
 - B. Multiplicando el divisor por el dividendo, debiendo darnos el cociente
@@ -459,7 +459,7 @@ Puede verificarse, cuando la división es exacta, multiplicando el divisor por e
 
 ### 22
 
-De acuerdo con el libro de Álgebra, si en el dividendo falta un término, ¿qué debemos hacer al ordenar?
+De conformidad con el libro de Álgebra, si en el dividendo falta un término, ¿qué debemos hacer al ordenar?
 
 - A. Dejar un lugar para ese término
 - B. Suprimir el término correspondiente del divisor
@@ -493,7 +493,7 @@ Ordenaremos de manera ascendente porque con ello logramos que el primer término
 
 ### 24
 
-De acuerdo con el libro de Álgebra, ¿a qué deben reducirse los quebrados que se obtengan al dividir?
+En relación con el libro de Álgebra, ¿a qué deben reducirse los quebrados que se obtengan al dividir?
 
 - A. A su más simple expresión
 - B. A un denominador común
@@ -523,7 +523,7 @@ La división por coeficientes separados, que abrevia mucho la operación, puede 
 
 ### 26
 
-De acuerdo con el libro de Álgebra, ¿qué cuidado hay que tener al escribir los coeficientes en este método?
+De conformidad con el libro de Álgebra, ¿qué cuidado hay que tener al escribir los coeficientes en este método?
 
 - A. Poner cero donde falte algún término
 - B. Poner uno donde falte algún término
@@ -557,7 +557,7 @@ Cuando el dividendo no es divisible exactamente por el divisor, la división no 
 
 ### 28
 
-De acuerdo con el libro de Álgebra, ¿por qué se llaman mixtos esos cocientes?
+De conformidad con el libro de Álgebra, ¿por qué se llaman mixtos esos cocientes?
 
 - A. Porque constan de entero y quebrado
 - B. Porque constan de coeficiente y exponente
@@ -587,7 +587,7 @@ Cuando la división no es exacta debemos detenerla cuando el primer término del
 
 ### 30
 
-De acuerdo con el libro de Álgebra, ¿cómo se forma el quebrado que se suma al cociente?
+En relación con el libro de Álgebra, ¿cómo se forma el quebrado que se suma al cociente?
 
 - A. Poniendo por numerador el residuo y por denominador el divisor
 - B. Poniendo por numerador el divisor y por denominador el residuo

@@ -133,7 +133,7 @@ parafrasear ni bajar la dificultad. Cuatro opciones del mismo tipo y magnitud.
 
 ### 1
 
-De acuerdo con el libro de Álgebra de Baldor, ¿qué es el Álgebra?
+En relación con el libro de Álgebra de Baldor, ¿qué es el Álgebra?
 
 - A. La rama de la Matemática que estudia la cantidad considerada del modo más general posible
 - B. La rama de la Matemática que estudia la cantidad con valores determinados
@@ -148,7 +148,7 @@ De acuerdo con el libro de Álgebra de Baldor, ¿qué es el Álgebra?
 
 ### 2
 
-De acuerdo con el libro de Álgebra de Baldor, en la Aritmética, ¿cómo se representan las cantidades y qué expresan?
+En relación con el libro de Álgebra de Baldor, en la Aritmética, ¿cómo se representan las cantidades y qué expresan?
 
 - A. Se representan por números, y éstos expresan valores determinados
 - B. Se representan por letras, que pueden representar todos los valores
@@ -163,7 +163,7 @@ En Aritmética las cantidades se representan por números y éstos expresan valo
 
 ### 3
 
-De acuerdo con el libro de Álgebra de Baldor, en el Álgebra, para lograr la generalización, ¿cómo se representan las cantidades?
+De conformidad con el libro de Álgebra de Baldor, en el Álgebra, para lograr la generalización, ¿cómo se representan las cantidades?
 
 - A. Por medio de letras, las cuales pueden representar todos los valores
 - B. Por medio de números que expresan valores determinados
@@ -178,7 +178,7 @@ En Álgebra, para lograr la generalización, las cantidades se representan por m
 
 ### 4
 
-De acuerdo con el libro de Álgebra de Baldor, ¿cuáles son los símbolos usados en Álgebra para representar las cantidades?
+En relación con el libro de Álgebra de Baldor, ¿cuáles son los símbolos usados en Álgebra para representar las cantidades?
 
 - A. Los números y las letras
 - B. Únicamente las letras
@@ -193,7 +193,7 @@ Los símbolos usados en Álgebra para representar las cantidades son los número
 
 ### 5
 
-De acuerdo con el libro de Álgebra de Baldor, ¿qué se emplea para representar toda clase de cantidades, ya sean conocidas o desconocidas?
+En relación con el libro de Álgebra de Baldor, ¿qué se emplea para representar toda clase de cantidades, ya sean conocidas o desconocidas?
 
 - A. Las letras
 - B. Los números
@@ -208,7 +208,7 @@ Las letras se emplean para representar toda clase de cantidades, ya sean conocid
 
 ### 6
 
-De acuerdo con el libro de Álgebra de Baldor, ¿por cuáles letras del alfabeto se expresan las cantidades conocidas?
+De conformidad con el libro de Álgebra de Baldor, ¿por cuáles letras del alfabeto se expresan las cantidades conocidas?
 
 - A. Por las primeras letras del alfabeto: a, b, c, d
 - B. Por las últimas letras del alfabeto: u, v, w, x, y, z
@@ -223,7 +223,7 @@ Las cantidades conocidas se expresan por las primeras letras del alfabeto: a, b,
 
 ### 7
 
-De acuerdo con el libro de Álgebra de Baldor, ¿por cuáles letras del alfabeto se representan las cantidades desconocidas?
+De conformidad con el libro de Álgebra de Baldor, ¿por cuáles letras del alfabeto se representan las cantidades desconocidas?
 
 - A. Por las últimas letras del alfabeto: u, v, w, x, y, z
 - B. Por las primeras letras del alfabeto: a, b, c, d
@@ -238,7 +238,7 @@ Las cantidades desconocidas se representan por las últimas letras del alfabeto:
 
 ### 8
 
-De acuerdo con el libro de Álgebra de Baldor, ¿qué es una fórmula algebraica?
+De conformidad con el libro de Álgebra de Baldor, ¿qué es una fórmula algebraica?
 
 - A. La representación, por medio de letras, de una regla o de un principio general
 - B. La representación de una cantidad por medio de números
@@ -287,7 +287,7 @@ En Álgebra se verifican con las cantidades las mismas operaciones que en Aritm�
 
 ### 11
 
-De acuerdo con el libro de Álgebra de Baldor, entre factores literales o entre un factor numérico y uno literal, ¿qué sucede con el signo de multiplicación?
+De conformidad con el libro de Álgebra de Baldor, entre factores literales o entre un factor numérico y uno literal, ¿qué sucede con el signo de multiplicación?
 
 - A. Suele omitirse
 - B. Se sustituye por un punto de manera obligatoria
@@ -302,7 +302,7 @@ Entre factores literales o entre un factor numérico y uno literal el signo de m
 
 ### 12
 
-De acuerdo con el libro de Álgebra de Baldor, ¿qué es el exponente, que es el signo de la elevación a potencia?
+De conformidad con el libro de Álgebra de Baldor, ¿qué es el exponente, que es el signo de la elevación a potencia?
 
 - A. Un número pequeño colocado arriba y a la derecha de una cantidad, que indica las veces que dicha cantidad, llamada base, se toma como factor
 - B. El número que indica las veces que una cantidad se toma como sumando
@@ -317,7 +317,7 @@ El signo de la elevación a potencia es el exponente, que es un número pequeño
 
 ### 13
 
-De acuerdo con el libro de Álgebra de Baldor, ¿cómo se llama la cantidad que se toma como factor las veces que indica el exponente?
+De conformidad con el libro de Álgebra de Baldor, ¿cómo se llama la cantidad que se toma como factor las veces que indica el exponente?
 
 - A. Base
 - B. Coeficiente
@@ -362,7 +362,7 @@ El signo de raíz es √, llamado signo radical, y bajo este signo se coloca la 
 
 ### 16
 
-De acuerdo con el libro de Álgebra de Baldor, en el producto de dos factores, ¿cómo se llama cualquiera de los factores respecto del otro?
+De conformidad con el libro de Álgebra de Baldor, en el producto de dos factores, ¿cómo se llama cualquiera de los factores respecto del otro?
 
 - A. Coeficiente del otro factor
 - B. Exponente del otro factor
@@ -411,7 +411,7 @@ Se emplean estos signos para indicar la relación que existe entre dos cantidade
 
 ### 19
 
-De acuerdo con el libro de Álgebra de Baldor, ¿cuáles son los signos de agrupación?
+En relación con el libro de Álgebra de Baldor, ¿cuáles son los signos de agrupación?
 
 - A. El paréntesis ordinario ( ), el paréntesis angular o corchete [ ], las llaves { } y la barra o vínculo
 - B. Los signos +, −, × y ÷
@@ -445,7 +445,7 @@ Estos signos indican que la operación colocada entre ellos debe efectuarse prim
 
 ### 21
 
-De acuerdo con el libro de Álgebra, ¿cómo se expresa en Álgebra el sentido de las cantidades que pueden tomarse en dos sentidos opuestos?
+De conformidad con el libro de Álgebra, ¿cómo se expresa en Álgebra el sentido de las cantidades que pueden tomarse en dos sentidos opuestos?
 
 - A. Por medio de los signos + y −
 - B. Por medio de los signos de agrupación
@@ -460,7 +460,7 @@ En Álgebra, cuando se estudian cantidades que pueden tomarse en dos sentidos op
 
 ### 22
 
-De acuerdo con el libro de Álgebra, ¿a qué cantidades se antepone el signo +?
+En relación con el libro de Álgebra, ¿a qué cantidades se antepone el signo +?
 
 - A. A las cantidades tomadas en un sentido determinado, llamadas cantidades positivas
 - B. A las cantidades tomadas en sentido opuesto, llamadas cantidades positivas
@@ -490,7 +490,7 @@ Así, el haber se designa con el signo + y las deudas con el signo −.
 
 ### 24
 
-De acuerdo con el libro de Álgebra, ¿cómo se designa el tiempo transcurrido después de Cristo?
+De conformidad con el libro de Álgebra, ¿cómo se designa el tiempo transcurrido después de Cristo?
 
 - A. Se considera positivo
 - B. Se considera negativo
@@ -520,7 +520,7 @@ La latitud norte se designa con el signo + y la latitud sur con el signo −; la
 
 ### 26
 
-De acuerdo con el libro de Álgebra, ¿cómo se considera la longitud este?
+De conformidad con el libro de Álgebra, ¿cómo se considera la longitud este?
 
 - A. Positiva
 - B. Negativa
@@ -535,7 +535,7 @@ La longitud este se considera positiva y la longitud oeste, negativa.
 
 ### 27
 
-De acuerdo con el libro de Álgebra, ¿con qué signo se representa el camino recorrido a la izquierda o hacia abajo de un punto?
+De conformidad con el libro de Álgebra, ¿con qué signo se representa el camino recorrido a la izquierda o hacia abajo de un punto?
 
 - A. Con el signo −
 - B. Con el signo +
@@ -588,7 +588,7 @@ Pero una vez fijado el sentido positivo, el sentido opuesto a éste será el neg
 
 ### 30
 
-De acuerdo con el libro de Álgebra, ¿qué es el cero?
+En relación con el libro de Álgebra, ¿qué es el cero?
 
 - A. Es la ausencia de cantidad
 - B. Es la menor de las cantidades positivas
@@ -633,7 +633,7 @@ De dos cantidades positivas, es mayor la de mayor valor absoluto; así, +5 es ma
 
 ### 33
 
-De acuerdo con el libro de Álgebra, de dos cantidades negativas, ¿cuál es mayor?
+De conformidad con el libro de Álgebra, de dos cantidades negativas, ¿cuál es mayor?
 
 - A. La de menor valor absoluto
 - B. La de mayor valor absoluto
@@ -656,7 +656,7 @@ Mientras que de dos cantidades negativas es mayor la de menor valor absoluto: �
 
 ### 34
 
-De acuerdo con el libro de Álgebra, ¿qué es el valor absoluto de una cantidad?
+De conformidad con el libro de Álgebra, ¿qué es el valor absoluto de una cantidad?
 
 - A. El número que representa la cantidad prescindiendo del signo o sentido de la cantidad
 - B. El sentido de la cantidad, representado por el signo
@@ -671,7 +671,7 @@ Valor absoluto de una cantidad es el número que representa la cantidad prescind
 
 ### 35
 
-De acuerdo con el libro de Álgebra, ¿qué es el valor relativo de una cantidad?
+En relación con el libro de Álgebra, ¿qué es el valor relativo de una cantidad?
 
 - A. El sentido de la cantidad, representado por el signo
 - B. El número que representa la cantidad prescindiendo del signo
@@ -686,7 +686,7 @@ Valor relativo es el sentido de la cantidad, representado por el signo.
 
 ### 36
 
-De acuerdo con el libro de Álgebra, ¿qué relación guardan las cantidades +7° y −7°?
+De conformidad con el libro de Álgebra, ¿qué relación guardan las cantidades +7° y −7°?
 
 - A. Tienen el mismo valor absoluto, pero su valor relativo es opuesto
 - B. Tienen el mismo valor relativo, pero distinto valor absoluto
@@ -720,7 +720,7 @@ De acuerdo con el libro de Álgebra, ¿qué relación guardan las cantidades −
 
 ### 38
 
-De acuerdo con el libro de Álgebra, ¿cómo se representa el valor absoluto de una cantidad algebraica cualquiera?
+En relación con el libro de Álgebra, ¿cómo se representa el valor absoluto de una cantidad algebraica cualquiera?
 
 - A. Colocando el número que corresponda a dicho valor entre dos líneas verticales
 - B. Anteponiendo al número el signo +
@@ -754,7 +754,7 @@ Cantidades aritméticas son las que expresan solamente el valor absoluto de las 
 
 ### 40
 
-De acuerdo con el libro de Álgebra, ¿qué expresan las cantidades algebraicas?
+En relación con el libro de Álgebra, ¿qué expresan las cantidades algebraicas?
 
 - A. El valor absoluto de las cantidades y además su sentido o valor relativo por medio del signo
 - B. Solamente el valor absoluto de las cantidades
@@ -769,7 +769,7 @@ Cantidades algebraicas son las que expresan el valor absoluto de las cantidades 
 
 ### 41
 
-De acuerdo con el libro de Álgebra, ¿cuáles son las dos aplicaciones que tienen en Álgebra los signos + y −?
+En relación con el libro de Álgebra, ¿cuáles son las dos aplicaciones que tienen en Álgebra los signos + y −?
 
 - A. Indicar las operaciones de suma y resta, e indicar el sentido o condición de las cantidades
 - B. Indicar el valor absoluto e indicar el valor relativo
@@ -784,7 +784,7 @@ Los signos + y − tienen en Álgebra dos aplicaciones: una, indicar las operaci
 
 ### 42
 
-De acuerdo con el libro de Álgebra, ¿cómo se distingue que los signos + o − tienen la significación de suma o resta?
+En relación con el libro de Álgebra, ¿cómo se distingue que los signos + o − tienen la significación de suma o resta?
 
 - A. Porque van entre términos o expresiones incluidas en paréntesis
 - B. Porque van precediendo a un término literal o numérico
@@ -799,7 +799,7 @@ Esta doble aplicación se distingue porque cuando los signos + o − tienen la s
 
 ### 43
 
-De acuerdo con el libro de Álgebra, ¿qué expresan los signos + o − cuando van precediendo a un término, ya sea literal o numérico?
+De conformidad con el libro de Álgebra, ¿qué expresan los signos + o − cuando van precediendo a un término, ya sea literal o numérico?
 
 - A. El sentido positivo o negativo
 - B. Las operaciones de suma y resta
@@ -818,7 +818,7 @@ Cuando van precediendo a un término, ya sea literal o numérico, expresan el se
 
 ### 44
 
-De acuerdo con el libro de Álgebra, ¿qué es una expresión algebraica?
+De conformidad con el libro de Álgebra, ¿qué es una expresión algebraica?
 
 - A. La representación de un símbolo algebraico o de una o más operaciones algebraicas
 - B. La representación por medio de letras de una regla o principio general
@@ -833,7 +833,7 @@ EXPRESIÓN ALGEBRAICA es la representación de un símbolo algebraico o de una o
 
 ### 45
 
-De acuerdo con el libro de Álgebra, ¿qué es un término?
+De conformidad con el libro de Álgebra, ¿qué es un término?
 
 - A. Una expresión algebraica que consta de un solo símbolo o de varios símbolos no separados entre sí por el signo + o −
 - B. Una expresión algebraica que consta de dos o más símbolos separados por los signos + o −
@@ -852,7 +852,7 @@ TÉRMINO es una expresión algebraica que consta de un solo símbolo o de varios
 
 ### 46
 
-De acuerdo con el libro de Álgebra, ¿cuáles son los cuatro elementos de un término?
+En relación con el libro de Álgebra, ¿cuáles son los cuatro elementos de un término?
 
 - A. El signo, el coeficiente, la parte literal y el grado
 - B. El signo, el exponente, la base y el radical
@@ -867,7 +867,7 @@ Los elementos de un término son cuatro: el signo, el coeficiente, la parte lite
 
 ### 47
 
-De acuerdo con el libro de Álgebra, ¿qué ocurre cuando un término no va precedido de ningún signo?
+En relación con el libro de Álgebra, ¿qué ocurre cuando un término no va precedido de ningún signo?
 
 - A. Es positivo
 - B. Es negativo
@@ -897,7 +897,7 @@ El coeficiente, como se dijo antes, es uno cualquiera, generalmente el primero, 
 
 ### 49
 
-De acuerdo con el libro de Álgebra, ¿qué constituye la parte literal de un término?
+De conformidad con el libro de Álgebra, ¿qué constituye la parte literal de un término?
 
 - A. Las letras que haya en el término
 - B. Los números que haya en el término
@@ -931,7 +931,7 @@ EL GRADO DE UN TÉRMINO puede ser de dos clases: absoluto y con relación a una 
 
 ### 51
 
-De acuerdo con el libro de Álgebra, ¿qué es el grado absoluto de un término?
+En relación con el libro de Álgebra, ¿qué es el grado absoluto de un término?
 
 - A. La suma de los exponentes de sus factores literales
 - B. El exponente de la letra a la que se hace relación
@@ -946,7 +946,7 @@ Grado absoluto de un término es la suma de los exponentes de sus factores liter
 
 ### 52
 
-De acuerdo con el libro de Álgebra, ¿qué es el grado de un término con relación a una letra?
+En relación con el libro de Álgebra, ¿qué es el grado de un término con relación a una letra?
 
 - A. El exponente de dicha letra
 - B. La suma de los exponentes de todos sus factores literales
@@ -969,7 +969,7 @@ El grado de un término con relación a una letra es el exponente de dicha letra
 
 ### 53
 
-De acuerdo con el libro de Álgebra, ¿qué es un término entero?
+De conformidad con el libro de Álgebra, ¿qué es un término entero?
 
 - A. El que no tiene denominador literal
 - B. El que no tiene radical
@@ -999,7 +999,7 @@ Término fraccionario es el que tiene denominador literal como 3a/b.
 
 ### 55
 
-De acuerdo con el libro de Álgebra, ¿qué es un término racional?
+De conformidad con el libro de Álgebra, ¿qué es un término racional?
 
 - A. El que no tiene radical
 - B. El que no tiene denominador literal
@@ -1014,7 +1014,7 @@ Término racional es el que no tiene radical, como los ejemplos anteriores, e ir
 
 ### 56
 
-De acuerdo con el libro de Álgebra, ¿qué es un término irracional?
+En relación con el libro de Álgebra, ¿qué es un término irracional?
 
 - A. El que tiene radical
 - B. El que tiene denominador literal
@@ -1029,7 +1029,7 @@ Término racional es el que no tiene radical, como los ejemplos anteriores, e ir
 
 ### 57
 
-De acuerdo con el libro de Álgebra, ¿qué son los términos homogéneos?
+De conformidad con el libro de Álgebra, ¿qué son los términos homogéneos?
 
 - A. Los que tienen el mismo grado absoluto
 - B. Los que tienen la misma parte literal
@@ -1044,7 +1044,7 @@ Términos homogéneos son los que tienen el mismo grado absoluto. Así, 4x⁴y y
 
 ### 58
 
-De acuerdo con el libro de Álgebra, ¿qué son los términos heterogéneos?
+De conformidad con el libro de Álgebra, ¿qué son los términos heterogéneos?
 
 - A. Los de distinto grado absoluto
 - B. Los de distinta parte literal
@@ -1063,7 +1063,7 @@ Términos heterogéneos son los de distinto grado absoluto, como 5a, que es de p
 
 ### 59
 
-De acuerdo con el libro de Álgebra, ¿qué es un monomio?
+En relación con el libro de Álgebra, ¿qué es un monomio?
 
 - A. Una expresión algebraica que consta de un solo término
 - B. Una expresión algebraica que consta de más de un término
@@ -1078,7 +1078,7 @@ MONOMIO es una expresión algebraica que consta de un solo término, como 3a, �
 
 ### 60
 
-De acuerdo con el libro de Álgebra, ¿qué es un polinomio?
+En relación con el libro de Álgebra, ¿qué es un polinomio?
 
 - A. Una expresión algebraica que consta de más de un término
 - B. Una expresión algebraica que consta de un solo término
@@ -1093,7 +1093,7 @@ POLINOMIO es una expresión algebraica que consta de más de un término como a 
 
 ### 61
 
-De acuerdo con el libro de Álgebra, ¿qué es un binomio?
+En relación con el libro de Álgebra, ¿qué es un binomio?
 
 - A. Un polinomio que consta de dos términos
 - B. Un polinomio que consta de tres términos
@@ -1108,7 +1108,7 @@ Binomio es un polinomio que consta de dos términos, como a + b, x − y.
 
 ### 62
 
-De acuerdo con el libro de Álgebra, ¿qué es un trinomio?
+De conformidad con el libro de Álgebra, ¿qué es un trinomio?
 
 - A. Un polinomio que consta de tres términos
 - B. Un polinomio que consta de dos términos
@@ -1127,7 +1127,7 @@ Trinomio es un polinomio que consta de tres términos, como a + b + c, x² − 5
 
 ### 63
 
-De acuerdo con el libro de Álgebra, ¿qué es el grado absoluto de un polinomio?
+En relación con el libro de Álgebra, ¿qué es el grado absoluto de un polinomio?
 
 - A. El grado de su término de mayor grado
 - B. La suma de los grados de todos sus términos
@@ -1142,7 +1142,7 @@ Grado absoluto de un polinomio es el grado de su término de mayor grado.
 
 ### 64
 
-De acuerdo con el libro de Álgebra, ¿qué es el grado de un polinomio con relación a una letra?
+En relación con el libro de Álgebra, ¿qué es el grado de un polinomio con relación a una letra?
 
 - A. El mayor exponente de dicha letra en el polinomio
 - B. La suma de los exponentes de dicha letra en el polinomio
@@ -1161,7 +1161,7 @@ Grado de un polinomio con relación a una letra es el mayor exponente de dicha l
 
 ### 65
 
-De acuerdo con el libro de Álgebra, ¿cuándo es entero un polinomio?
+En relación con el libro de Álgebra, ¿cuándo es entero un polinomio?
 
 - A. Cuando ninguno de sus términos tiene denominador literal
 - B. Cuando no contiene radicales
@@ -1176,7 +1176,7 @@ Un polinomio es entero cuando ninguno de sus términos tiene denominador literal
 
 ### 66
 
-De acuerdo con el libro de Álgebra, ¿cuándo es fraccionario un polinomio?
+De conformidad con el libro de Álgebra, ¿cuándo es fraccionario un polinomio?
 
 - A. Cuando alguno de sus términos tiene letras en el denominador
 - B. Cuando alguno de sus términos tiene radical
@@ -1191,7 +1191,7 @@ Fraccionario cuando alguno de sus términos tiene letras en el denominador.
 
 ### 67
 
-De acuerdo con el libro de Álgebra, ¿cuándo es racional un polinomio?
+En relación con el libro de Álgebra, ¿cuándo es racional un polinomio?
 
 - A. Cuando no contiene radicales
 - B. Cuando no tiene denominador literal
@@ -1206,7 +1206,7 @@ Racional cuando no contiene radicales, como en los ejemplos anteriores; irracion
 
 ### 68
 
-De acuerdo con el libro de Álgebra, ¿cuándo es homogéneo un polinomio?
+De conformidad con el libro de Álgebra, ¿cuándo es homogéneo un polinomio?
 
 - A. Cuando todos sus términos son del mismo grado absoluto
 - B. Cuando ninguno de sus términos tiene denominador literal
@@ -1255,7 +1255,7 @@ Polinomio ordenado con respecto a una letra es un polinomio en el cual los expon
 
 ### 71
 
-De acuerdo con el libro de Álgebra, ¿cómo se llama la letra escogida cuyos exponentes van aumentando o disminuyendo en un polinomio ordenado?
+De conformidad con el libro de Álgebra, ¿cómo se llama la letra escogida cuyos exponentes van aumentando o disminuyendo en un polinomio ordenado?
 
 - A. Letra ordenatriz
 - B. Letra ordenadora
@@ -1289,7 +1289,7 @@ ORDENAR UN POLINOMIO es escribir sus términos de modo que los exponentes de una
 
 ### 73
 
-De acuerdo con el libro de Álgebra, ¿qué es el término independiente de un polinomio con relación a una letra?
+En relación con el libro de Álgebra, ¿qué es el término independiente de un polinomio con relación a una letra?
 
 - A. Es el término que no tiene dicha letra
 - B. Es el término de mayor grado del polinomio
@@ -1304,7 +1304,7 @@ TÉRMINO INDEPENDIENTE DE UN POLINOMIO CON RELACIÓN A UNA LETRA es el término 
 
 ### 74
 
-De acuerdo con el libro de Álgebra, ¿por qué puede considerarse que el término independiente tiene esa letra con exponente cero?
+De conformidad con el libro de Álgebra, ¿por qué puede considerarse que el término independiente tiene esa letra con exponente cero?
 
 - A. Porque toda cantidad elevada a cero equivale a 1
 - B. Porque toda cantidad elevada a cero equivale a 0
@@ -1323,7 +1323,7 @@ El término independiente con relación a una letra puede considerarse que tiene
 
 ### 75
 
-De acuerdo con el libro de Álgebra, ¿cuándo son semejantes dos o más términos?
+En relación con el libro de Álgebra, ¿cuándo son semejantes dos o más términos?
 
 - A. Cuando tienen la misma parte literal, o sea, iguales letras afectadas de iguales exponentes
 - B. Cuando tienen el mismo coeficiente
@@ -1353,7 +1353,7 @@ Los términos 4ab y −6a²b no son semejantes, porque aunque tienen iguales let
 
 ### 77
 
-De acuerdo con el libro de Álgebra, ¿por qué los términos −bx⁴ y ab⁴ no son semejantes?
+De conformidad con el libro de Álgebra, ¿por qué los términos −bx⁴ y ab⁴ no son semejantes?
 
 - A. Porque aunque tienen los mismos exponentes, las letras no son iguales
 - B. Porque aunque tienen iguales letras, los exponentes no son los mismos
@@ -1376,7 +1376,7 @@ Los términos −bx⁴ y ab⁴ no son semejantes, porque aunque tienen los mismo
 
 ### 78
 
-De acuerdo con el libro de Álgebra, ¿qué objeto tiene la reducción de términos semejantes?
+En relación con el libro de Álgebra, ¿qué objeto tiene la reducción de términos semejantes?
 
 - A. Convertir en un solo término dos o más semejantes
 - B. Separar un término en sus factores literales
@@ -1421,7 +1421,7 @@ Reducción de dos o más términos semejantes del mismo signo. REGLA: Se suman l
 
 ### 81
 
-De acuerdo con el libro de Álgebra, ¿cuál es la regla para reducir dos términos semejantes de distinto signo?
+En relación con el libro de Álgebra, ¿cuál es la regla para reducir dos términos semejantes de distinto signo?
 
 - A. Se restan los coeficientes, poniendo delante de esta diferencia el signo del mayor y a continuación se escribe la parte literal
 - B. Se suman los coeficientes, poniendo delante de esta suma el mismo signo que tienen todos
@@ -1436,7 +1436,7 @@ Reducción de dos términos semejantes de distinto signo. REGLA: Se restan los c
 
 ### 82
 
-De acuerdo con el libro de Álgebra, ¿qué se deduce de la regla de reducción de dos términos semejantes de distinto signo?
+De conformidad con el libro de Álgebra, ¿qué se deduce de la regla de reducción de dos términos semejantes de distinto signo?
 
 - A. Que dos términos semejantes de iguales coeficientes y de signo contrario se anulan
 - B. Que dos términos semejantes de iguales coeficientes se suman siempre
@@ -1451,7 +1451,7 @@ De la regla anterior se deduce que dos términos semejantes de iguales coeficien
 
 ### 83
 
-De acuerdo con el libro de Álgebra, ¿cuál es la regla para reducir más de dos términos semejantes de signos distintos?
+De conformidad con el libro de Álgebra, ¿cuál es la regla para reducir más de dos términos semejantes de signos distintos?
 
 - A. Se reducen a un solo término todos los positivos, se reducen a un solo término todos los negativos y a los dos resultados obtenidos se aplica la regla del caso anterior
 - B. Se suman todos los coeficientes y se conserva el signo del mayor
@@ -1475,7 +1475,7 @@ Reducción de más de dos términos semejantes de signos distintos. REGLA: Se re
 
 ### 84
 
-De acuerdo con el libro de Álgebra, ¿cómo se reduce un polinomio que contenga términos semejantes de diversas clases?
+De conformidad con el libro de Álgebra, ¿cómo se reduce un polinomio que contenga términos semejantes de diversas clases?
 
 - A. Se reducen por separado los de cada clase
 - B. Se reducen todos juntos aplicando la regla del primer caso
@@ -1490,7 +1490,7 @@ Reducción de un polinomio que contenga términos semejantes de diversas clases:
 
 ### 85
 
-De acuerdo con el libro de Álgebra, ¿qué es el valor numérico de una expresión algebraica?
+De conformidad con el libro de Álgebra, ¿qué es el valor numérico de una expresión algebraica?
 
 - A. El resultado que se obtiene al sustituir las letras por valores numéricos dados y efectuar después las operaciones indicadas
 - B. La suma de los coeficientes de todos sus términos
@@ -1524,7 +1524,7 @@ Con las cantidades algebraicas, representadas por letras, pueden hacerse las mis
 
 ### 87
 
-De acuerdo con el libro de Álgebra, ¿por qué se amplió el campo de los números con la introducción de nuevos entes?
+En relación con el libro de Álgebra, ¿por qué se amplió el campo de los números con la introducción de nuevos entes?
 
 - A. Porque el número natural no sirve para efectuar la resta y la división en todos los casos
 - B. Porque el número natural no permite la suma ni la multiplicación
@@ -1539,7 +1539,7 @@ Conviene pues, considerar cómo se ha ampliado el campo de los números por la i
 
 ### 88
 
-De acuerdo con el libro de Álgebra, ¿qué doble criterio se adopta para hacer más comprensible la ampliación del campo de los números?
+De conformidad con el libro de Álgebra, ¿qué doble criterio se adopta para hacer más comprensible la ampliación del campo de los números?
 
 - A. Un criterio histórico y un criterio intuitivo
 - B. Un criterio algebraico y un criterio aritmético
@@ -1554,7 +1554,7 @@ Adoptaremos un doble criterio. Por un lado, un criterio histórico que nos haga 
 
 ### 89
 
-De acuerdo con el libro de Álgebra, ¿qué pueblos conocían las fracciones mucho antes de que los griegos realizaran la sistematización de los conocimientos matemáticos?
+En relación con el libro de Álgebra, ¿qué pueblos conocían las fracciones mucho antes de que los griegos realizaran la sistematización de los conocimientos matemáticos?
 
 - A. Los babilonios y los egipcios
 - B. Los babilonios y los fenicios
@@ -1569,7 +1569,7 @@ Mucho antes de que los griegos (Eudoxio, Euclides, Apolonio, etc.) realizaran la
 
 ### 90
 
-De acuerdo con el libro de Álgebra, ¿en qué documento se ve que los egipcios conocían las fracciones?
+De conformidad con el libro de Álgebra, ¿en qué documento se ve que los egipcios conocían las fracciones?
 
 - A. En el papiro de Rhind
 - B. En las tablillas cuneiformes
@@ -1603,7 +1603,7 @@ La necesidad de medir magnitudes continuas tales como la longitud, el volumen, e
 
 ### 92
 
-De acuerdo con el libro de Álgebra, ¿cómo se llaman los dos números enteros distintos de cero con que se expresa el resultado de fraccionar la unidad?
+En relación con el libro de Álgebra, ¿cómo se llaman los dos números enteros distintos de cero con que se expresa el resultado de fraccionar la unidad?
 
 - A. Numerador y denominador
 - B. Dividendo y divisor
@@ -1686,7 +1686,7 @@ Como se ve, en oposición a los números fraccionarios tenemos los números ente
 
 ### 97
 
-De acuerdo con el libro de Álgebra, ¿quiénes conocieron primero los números irracionales?
+En relación con el libro de Álgebra, ¿quiénes conocieron primero los números irracionales?
 
 - A. Los griegos
 - B. Los hindúes
@@ -1751,7 +1751,7 @@ Más tarde, Teodoro de Cirene (400 a. C.), matemático de la escuela pitagórica
 
 ### 101
 
-De acuerdo con el libro de Álgebra, ¿a qué escuela pertenecía Teodoro de Cirene?
+De conformidad con el libro de Álgebra, ¿a qué escuela pertenecía Teodoro de Cirene?
 
 - A. A la escuela pitagórica
 - B. A la escuela de Alejandría
@@ -1766,7 +1766,7 @@ Teodoro de Cirene (400 a. C.), matemático de la escuela pitagórica.
 
 ### 102
 
-De acuerdo con el libro de Álgebra, ¿en qué obra estudió Euclides las magnitudes que no pueden expresarse con un número entero ni fraccionario?
+En relación con el libro de Álgebra, ¿en qué obra estudió Euclides las magnitudes que no pueden expresarse con un número entero ni fraccionario?
 
 - A. En el Libro X de sus "Elementos"
 - B. En su Aritmética
@@ -1815,7 +1815,7 @@ Los números que se originan al medir tales magnitudes se llaman irracionales.
 
 ### 105
 
-De acuerdo con el libro de Álgebra, ¿con qué letra se expresa la relación de la circunferencia al diámetro y cuál es su valor?
+En relación con el libro de Álgebra, ¿con qué letra se expresa la relación de la circunferencia al diámetro y cuál es su valor?
 
 - A. Con la letra π = 3.141592…
 - B. Con la letra δ = 3.141592…
@@ -1830,7 +1830,7 @@ Y la relación de la circunferencia, al diámetro que se expresa con la letra π
 
 ### 106
 
-De acuerdo con el libro de Álgebra, ¿cómo se define el número racional?
+De conformidad con el libro de Álgebra, ¿cómo se define el número racional?
 
 - A. Aquel número que puede expresarse como cociente de dos enteros
 - B. Aquel número real que no puede expresarse como el cociente de dos enteros
@@ -1845,7 +1845,7 @@ Definimos el número racional como aquel número que puede expresarse como cocie
 
 ### 107
 
-De acuerdo con el libro de Álgebra, ¿cómo se define el número irracional?
+En relación con el libro de Álgebra, ¿cómo se define el número irracional?
 
 - A. Aquel número real que no puede expresarse como el cociente de dos enteros
 - B. Aquel número que puede expresarse como cociente de dos enteros
@@ -1864,7 +1864,7 @@ Y el número irracional como aquel número real que no puede expresarse como el 
 
 ### 108
 
-De acuerdo con el libro de Álgebra, ¿a qué conjunto llamamos números reales?
+En relación con el libro de Álgebra, ¿a qué conjunto llamamos números reales?
 
 - A. Al conjunto de los números racionales e irracionales
 - B. Al conjunto de los números fraccionarios y enteros
@@ -1883,7 +1883,7 @@ Llamamos números reales al conjunto de los números racionales e irracionales.
 
 ### 109
 
-De acuerdo con el libro de Álgebra, ¿qué matemático de la antigüedad es la excepción en cuanto al conocimiento de los números negativos?
+De conformidad con el libro de Álgebra, ¿qué matemático de la antigüedad es la excepción en cuanto al conocimiento de los números negativos?
 
 - A. Diofanto
 - B. Euclides
@@ -1898,7 +1898,7 @@ Los números negativos no fueron conocidos por los matemáticos de la antigüeda
 
 ### 110
 
-De acuerdo con el libro de Álgebra, ¿en qué obra de Diofanto se introduce un número con signo +?
+En relación con el libro de Álgebra, ¿en qué obra de Diofanto se introduce un número con signo +?
 
 - A. En su Aritmética, al explicar el producto de dos diferencias
 - B. En el Libro X de sus "Elementos"
@@ -1913,7 +1913,7 @@ Salvo en el caso de Diofanto, que en su Aritmética, al explicar el producto de 
 
 ### 111
 
-De acuerdo con el libro de Álgebra, ¿qué hicieron los hindúes Brahmagupta y Bháskara con los números negativos?
+De conformidad con el libro de Álgebra, ¿qué hicieron los hindúes Brahmagupta y Bháskara con los números negativos?
 
 - A. Los usan de un modo práctico, sin llegar a dar una definición de ellos
 - B. Los definieron por primera vez con rigor
@@ -1928,7 +1928,7 @@ Los hindúes Brahmagupta y Bháskara usan los números negativos de un modo prá
 
 ### 112
 
-De acuerdo con el libro de Álgebra, ¿qué actitud tuvieron los matemáticos durante la Edad Media y el Renacimiento frente a los números negativos?
+De conformidad con el libro de Álgebra, ¿qué actitud tuvieron los matemáticos durante la Edad Media y el Renacimiento frente a los números negativos?
 
 - A. Rehuyeron usarlos
 - B. Los usaron de un modo práctico
@@ -1943,7 +1943,7 @@ Durante la Edad Media y el Renacimiento los matemáticos rehuyeron usar los núm
 
 ### 113
 
-De acuerdo con el libro de Álgebra, ¿quién fue el primero en comprender la verdadera naturaleza de los números negativos?
+En relación con el libro de Álgebra, ¿quién fue el primero en comprender la verdadera naturaleza de los números negativos?
 
 - A. Newton
 - B. Harriot
@@ -1977,7 +1977,7 @@ Posteriormente Harriot (1560-1621) introdujo los signos + y − para caracteriza
 
 ### 115
 
-De acuerdo con el libro de Álgebra, ¿cómo se llaman también los números positivos y negativos?
+En relación con el libro de Álgebra, ¿cómo se llaman también los números positivos y negativos?
 
 - A. Números relativos o con signos
 - B. Números reales
@@ -2022,7 +2022,7 @@ Podemos hablar de longitud este u oeste con respecto a un meridiano fijado arbit
 
 ### 118
 
-De acuerdo con el libro de Álgebra, históricamente, ¿para qué surgen los números negativos?
+En relación con el libro de Álgebra, históricamente, ¿para qué surgen los números negativos?
 
 - A. Para hacer posible la resta en todos los casos
 - B. Para medir magnitudes inconmensurables
@@ -2037,7 +2037,7 @@ Históricamente, los números negativos surgen para hacer posible la resta en to
 
 ### 119
 
-De acuerdo con el libro de Álgebra, al surgir los números negativos, ¿en qué se convierte la resta?
+En relación con el libro de Álgebra, al surgir los números negativos, ¿en qué se convierte la resta?
 
 - A. En una operación inversa de la suma, y se hace posible restarle a un minuendo menor un sustraendo mayor
 - B. En una operación equivalente a la división exacta
@@ -2052,7 +2052,7 @@ De este modo, la resta se convierte en una operación inversa de la suma, y se h
 
 ### 120
 
-De acuerdo con el libro de Álgebra, ¿cómo se distinguen los números y símbolos literales negativos?
+En relación con el libro de Álgebra, ¿cómo se distinguen los números y símbolos literales negativos?
 
 - A. Por el signo − que llevan antepuesto
 - B. Por el signo − que llevan pospuesto
@@ -2105,7 +2105,7 @@ Ahora, consideramos el número cero como expresión de un conjunto nulo o vacío
 
 ### 123
 
-De acuerdo con el libro de Álgebra, ¿qué representa el cero respecto de los números negativos y positivos?
+En relación con el libro de Álgebra, ¿qué representa el cero respecto de los números negativos y positivos?
 
 - A. Un elemento de separación entre los números negativos y positivos
 - B. Un elemento de enlace que pertenece a la vez a los negativos y a los positivos
@@ -2142,7 +2142,7 @@ El siguiente diagrama nos aclarará las distintas clases de números con los cua
 
 ### 125
 
-De acuerdo con el libro de Álgebra, ¿qué quiere decir que las leyes de la suma y de la multiplicación sean formales?
+En relación con el libro de Álgebra, ¿qué quiere decir que las leyes de la suma y de la multiplicación sean formales?
 
 - A. Que no toman en cuenta la naturaleza de los números
 - B. Que se deducen de la naturaleza de cada clase de número
@@ -2157,7 +2157,7 @@ Vamos a exponer las leyes formales (esto es, que no toman en cuenta la naturalez
 
 ### 126
 
-De acuerdo con el libro de Álgebra, ¿cómo se llaman las leyes que no requieren demostración, por ser de aprehensión inmediata?
+En relación con el libro de Álgebra, ¿cómo se llaman las leyes que no requieren demostración, por ser de aprehensión inmediata?
 
 - A. Axiomas
 - B. Teoremas
@@ -2172,7 +2172,7 @@ Estas leyes que no requieren demostración, pues son de aprehensión inmediata, 
 
 ### 127
 
-De acuerdo con el libro de Álgebra, ¿qué constituye el conjunto de estas leyes formales?
+En relación con el libro de Álgebra, ¿qué constituye el conjunto de estas leyes formales?
 
 - A. Una definición indirecta de los números reales y de las operaciones fundamentales
 - B. Una definición directa de los números naturales y de sus propiedades
@@ -2187,7 +2187,7 @@ Por otra parte, el conjunto de estas leyes formales constituirá una definición
 
 ### 128
 
-De acuerdo con el libro de Álgebra, ¿de qué dos operaciones se exponen las leyes formales?
+De conformidad con el libro de Álgebra, ¿de qué dos operaciones se exponen las leyes formales?
 
 - A. De la suma y de la multiplicación
 - B. De la suma y de la resta
@@ -2202,7 +2202,7 @@ Vamos a exponer las leyes formales de la suma y de la multiplicación.
 
 ### 129
 
-De acuerdo con el libro de Álgebra, ¿por qué se exponen las leyes formales sólo de esas dos operaciones?
+De conformidad con el libro de Álgebra, ¿por qué se exponen las leyes formales sólo de esas dos operaciones?
 
 - A. Porque las demás operaciones fundamentales pueden explicarse como inversas de éstas
 - B. Porque las demás operaciones fundamentales no cumplen las leyes formales
@@ -2217,7 +2217,7 @@ Ya que las demás operaciones fundamentales pueden explicarse como inversas de �
 
 ### 130
 
-De acuerdo con el libro de Álgebra, ¿con qué propósito se introdujeron los números irracionales?
+De conformidad con el libro de Álgebra, ¿con qué propósito se introdujeron los números irracionales?
 
 - A. Con el propósito de representar magnitudes inconmensurables, como razón de dos segmentos
 - B. Con el propósito de expresar el resultado de medir magnitudes conmensurables
@@ -2232,7 +2232,7 @@ Como ejemplos del primer caso, tenemos los números irracionales, introducidos c
 
 ### 131
 
-De acuerdo con el libro de Álgebra, ¿para qué surgen los números fraccionarios?
+En relación con el libro de Álgebra, ¿para qué surgen los números fraccionarios?
 
 - A. Para expresar el resultado de medir magnitudes conmensurables
 - B. Para expresar el resultado de medir magnitudes inconmensurables
@@ -2300,7 +2300,7 @@ Axioma de identidad: a = a.
 
 ### 135
 
-De acuerdo con el libro de Álgebra, ¿qué establece el axioma de reciprocidad?
+De conformidad con el libro de Álgebra, ¿qué establece el axioma de reciprocidad?
 
 - A. Que si a = b, tenemos que b = a
 - B. Que a = a
@@ -2315,7 +2315,7 @@ Axioma de reciprocidad: si a = b, tenemos que b = a.
 
 ### 136
 
-De acuerdo con el libro de Álgebra, ¿qué establece el axioma de transitividad?
+De conformidad con el libro de Álgebra, ¿qué establece el axioma de transitividad?
 
 - A. Que si a = b y b = c, tenemos que a = c
 - B. Que si a = b, tenemos que b = a
@@ -2337,7 +2337,7 @@ Axioma de transitividad: si a = b y b = c, tenemos que a = c.
 
 ### 137
 
-De acuerdo con el libro de Álgebra, ¿qué establece el axioma de uniformidad de la suma?
+De conformidad con el libro de Álgebra, ¿qué establece el axioma de uniformidad de la suma?
 
 - A. Que la suma de dos números es siempre igual, es decir, única
 - B. Que el producto de dos números es siempre igual, es decir, único
@@ -2352,7 +2352,7 @@ Axioma de uniformidad: la suma de dos números es siempre igual, es decir, únic
 
 ### 138
 
-De acuerdo con el libro de Álgebra, ¿qué establece el axioma de conmutatividad de la suma?
+En relación con el libro de Álgebra, ¿qué establece el axioma de conmutatividad de la suma?
 
 - A. Que a + b = b + a
 - B. Que (a + b) + c = a + (b + c)
@@ -2367,7 +2367,7 @@ Axioma de conmutatividad: a + b = b + a.
 
 ### 139
 
-De acuerdo con el libro de Álgebra, ¿qué establece el axioma de asociatividad de la suma?
+En relación con el libro de Álgebra, ¿qué establece el axioma de asociatividad de la suma?
 
 - A. Que (a + b) + c = a + (b + c)
 - B. Que a + b = b + a
@@ -2382,7 +2382,7 @@ Axioma de asociatividad: (a + b) + c = a + (b + c).
 
 ### 140
 
-De acuerdo con el libro de Álgebra, ¿qué número establece el axioma de identidad o módulo de la suma?
+De conformidad con el libro de Álgebra, ¿qué número establece el axioma de identidad o módulo de la suma?
 
 - A. Hay un número y sólo un número, el cero, de modo que a + 0 = 0 + a = a
 - B. Hay un número y sólo un número, el uno, de modo que a · 1 = 1 · a = a
@@ -2416,7 +2416,7 @@ De ahí que el cero reciba el nombre de elemento idéntico o módulo de la suma.
 
 ### 142
 
-De acuerdo con el libro de Álgebra, ¿qué establece el axioma de uniformidad de la multiplicación?
+De conformidad con el libro de Álgebra, ¿qué establece el axioma de uniformidad de la multiplicación?
 
 - A. Que el producto de dos números es siempre igual, es decir, único
 - B. Que la suma de dos números es siempre igual, es decir, única
@@ -2446,7 +2446,7 @@ Axioma de distributividad: con respecto a la suma tenemos que a(b + c) = ab + ac
 
 ### 144
 
-De acuerdo con el libro de Álgebra, ¿qué número establece el axioma de identidad o módulo del producto?
+En relación con el libro de Álgebra, ¿qué número establece el axioma de identidad o módulo del producto?
 
 - A. Hay un número y sólo un número, el uno (1), de modo que a · 1 = 1 · a = a
 - B. Hay un número y sólo un número, el cero, de modo que a + 0 = 0 + a = a
@@ -2465,7 +2465,7 @@ Axioma de identidad, o módulo del producto: hay un número y sólo un número, 
 
 ### 145
 
-De acuerdo con el libro de Álgebra, ¿qué establece el axioma de existencia del inverso?
+De conformidad con el libro de Álgebra, ¿qué establece el axioma de existencia del inverso?
 
 - A. Que a todo número real a ≠ 0 corresponde un número real, y sólo uno, x, de modo que ax = 1
 - B. Que a todo número real a ≠ 0 corresponde un número real, y sólo uno, x, de modo que ax = 0
@@ -2480,7 +2480,7 @@ Axioma de existencia del inverso: para todo número real a ≠ 0 (a distinto de 
 
 ### 146
 
-De acuerdo con el libro de Álgebra, ¿cómo se llama y cómo se representa ese número x?
+En relación con el libro de Álgebra, ¿cómo se llama y cómo se representa ese número x?
 
 - A. Se llama inverso o recíproco de a, y se representa por 1/a
 - B. Se llama opuesto o simétrico de a, y se representa por −a
@@ -2550,7 +2550,7 @@ Monotonía de la multiplicación: si a > b y c > 0 tenemos que ac > bc.
 
 ### 150
 
-De acuerdo con el libro de Álgebra, ¿qué establece el axioma de continuidad para dos conjuntos de números reales A y B, en que todo número de A es menor que cualquier número de B?
+De conformidad con el libro de Álgebra, ¿qué establece el axioma de continuidad para dos conjuntos de números reales A y B, en que todo número de A es menor que cualquier número de B?
 
 - A. Que existirá siempre un número real c con el que se verifique que a ≤ c ≤ b
 - B. Que existirá siempre un número real c con el que se verifique que a < c < b
@@ -2587,7 +2587,7 @@ En la suma o adición de números relativos podemos considerar cuatro casos: sum
 
 ### 152
 
-De acuerdo con el libro de Álgebra, ¿cuál es la regla para sumar dos números positivos?
+En relación con el libro de Álgebra, ¿cuál es la regla para sumar dos números positivos?
 
 - A. Se procede a la suma aritmética de los valores absolutos de ambos números, y al resultado obtenido se le antepone el signo +
 - B. Se procede a la suma aritmética de los valores absolutos de ambos números, y al resultado obtenido se le antepone el signo −
@@ -2602,7 +2602,7 @@ Para sumar dos números positivos se procede a la suma aritmética de los valore
 
 ### 153
 
-De acuerdo con el libro de Álgebra, ¿cuál es la regla para sumar dos números negativos?
+De conformidad con el libro de Álgebra, ¿cuál es la regla para sumar dos números negativos?
 
 - A. Se procede a la suma aritmética de los valores absolutos de ambos, y al resultado obtenido se le antepone el signo −
 - B. Se procede a la suma aritmética de los valores absolutos de ambos, y al resultado obtenido se le antepone el signo +
@@ -2670,7 +2670,7 @@ La suma de cero con cualquier número positivo o negativo nos dará el mismo nú
 
 ### 157
 
-De acuerdo con el libro de Álgebra, ¿a qué llamamos opuesto de un número?
+En relación con el libro de Álgebra, ¿a qué llamamos opuesto de un número?
 
 - A. Al mismo número con signo contrario
 - B. Al número que multiplicado por él da 1
@@ -2689,7 +2689,7 @@ Llamamos opuesto de un número al mismo número con signo contrario. Así, decim
 
 ### 158
 
-De acuerdo con el libro de Álgebra, ¿en qué consiste la sustracción?
+En relación con el libro de Álgebra, ¿en qué consiste la sustracción?
 
 - A. Es una operación inversa de la suma que consiste en hallar un número x, llamado diferencia, tal que sumado con un número dado m, dé un resultado igual a otro número n
 - B. Es una operación inversa de la multiplicación que consiste en hallar uno de los factores, conocidos el otro factor y el producto
@@ -2725,7 +2725,7 @@ Para hallar la diferencia entre dos números relativos se suma al minuendo el su
 
 ### 160
 
-De acuerdo con el libro de Álgebra, ¿qué podemos expresar por medio de la interpretación geométrica de la sustracción de números relativos?
+De conformidad con el libro de Álgebra, ¿qué podemos expresar por medio de la interpretación geométrica de la sustracción de números relativos?
 
 - A. La distancia, en unidades, que hay entre el punto que representa al minuendo y el punto que representa al sustraendo, así como el sentido de esa distancia
 - B. Únicamente la distancia, en unidades, entre el minuendo y el sustraendo, sin su sentido
@@ -2777,7 +2777,7 @@ El producto hallado llevará signo positivo (+), si los signos de ambos factores
 
 ### 163
 
-De acuerdo con el libro de Álgebra, ¿qué ocurre si uno de los factores es 0?
+De conformidad con el libro de Álgebra, ¿qué ocurre si uno de los factores es 0?
 
 - A. El producto será 0
 - B. El producto será igual al otro factor
@@ -2844,7 +2844,7 @@ Tendremos la notación aⁿ, que se lee a elevado a la enésima potencia, e indi
 
 ### 167
 
-De acuerdo con el libro de Álgebra, en la notación aⁿ = x, ¿qué nombre recibe cada elemento?
+En relación con el libro de Álgebra, en la notación aⁿ = x, ¿qué nombre recibe cada elemento?
 
 - A. Potencia el producto x, base el número a que tomamos como factor, y exponente n
 - B. Potencia el número a que tomamos como factor, base el producto x, y exponente n
@@ -2859,7 +2859,7 @@ En la notación aⁿ = x, llamamos potencia al producto x, base al número que t
 
 ### 168
 
-De acuerdo con el libro de Álgebra, ¿cómo se llama la operación de hallar el producto x?
+De conformidad con el libro de Álgebra, ¿cómo se llama la operación de hallar el producto x?
 
 - A. Potenciación o elevación a potencia
 - B. Radicación o extracción de raíz
@@ -2898,7 +2898,7 @@ La potencia de un número positivo siempre es positiva. La potencia de un númer
 
 ### 170
 
-De acuerdo con el libro de Álgebra, ¿cuál es la regla para multiplicar dos potencias de igual base?
+De conformidad con el libro de Álgebra, ¿cuál es la regla para multiplicar dos potencias de igual base?
 
 - A. Se eleva dicha base a la potencia que resulte de la suma de los exponentes respectivos
 - B. Se eleva dicha base a la potencia que resulte del producto de los exponentes respectivos
@@ -2913,7 +2913,7 @@ Para multiplicar dos potencias de igual base, se eleva dicha base a la potencia 
 
 ### 171
 
-De acuerdo con el libro de Álgebra, ¿cuál es la regla para hallar la potencia de una potencia?
+De conformidad con el libro de Álgebra, ¿cuál es la regla para hallar la potencia de una potencia?
 
 - A. Se multiplican los exponentes y se mantiene la base primitiva
 - B. Se suman los exponentes y se mantiene la base primitiva
@@ -2932,7 +2932,7 @@ Para hallar la potencia de una potencia se multiplican los exponentes y se manti
 
 ### 172
 
-De acuerdo con el libro de Álgebra, ¿con qué hay que poner especial cuidado en no confundir la potencia de una potencia?
+En relación con el libro de Álgebra, ¿con qué hay que poner especial cuidado en no confundir la potencia de una potencia?
 
 - A. Con la elevación de un número a una potencia cuyo exponente, a la vez, esté afectado por otro exponente
 - B. Con el producto de dos potencias de igual base
@@ -2951,7 +2951,7 @@ Hay que poner especial cuidado en no confundir la potencia de una potencia, con 
 
 ### 173
 
-De acuerdo con el libro de Álgebra, ¿qué signo tiene el inverso o recíproco de un número relativo cualquiera distinto de cero?
+En relación con el libro de Álgebra, ¿qué signo tiene el inverso o recíproco de un número relativo cualquiera distinto de cero?
 
 - A. Su mismo signo
 - B. El signo contrario
@@ -2981,7 +2981,7 @@ La división es una operación inversa de la multiplicación que consiste en hal
 
 ### 175
 
-De acuerdo con el libro de Álgebra, ¿cuándo es posible la operación de división?
+En relación con el libro de Álgebra, ¿cuándo es posible la operación de división?
 
 - A. Sólo si el divisor es distinto de cero
 - B. Sólo si el dividendo es distinto de cero
@@ -2996,7 +2996,7 @@ Recordamos que esta operación sólo es posible si el divisor es distinto de cer
 
 ### 176
 
-De acuerdo con el libro de Álgebra, ¿cuál es la regla para dividir un número cualquiera entre otro número distinto de cero?
+De conformidad con el libro de Álgebra, ¿cuál es la regla para dividir un número cualquiera entre otro número distinto de cero?
 
 - A. Se multiplica el primero por el recíproco del segundo
 - B. Se multiplica el primero por el opuesto del segundo
@@ -3011,7 +3011,7 @@ Para dividir un número cualquiera d entre otro número distinto de cero d', mul
 
 ### 177
 
-De acuerdo con el libro de Álgebra, ¿qué signo tendrá el cociente que resulte?
+De conformidad con el libro de Álgebra, ¿qué signo tendrá el cociente que resulte?
 
 - A. Positivo si los dos números son del mismo signo; negativo si son de signos contrarios
 - B. Negativo si los dos números son del mismo signo; positivo si son de signos contrarios
@@ -3030,7 +3030,7 @@ El cociente que resulte será positivo si los dos números son del mismo signo; 
 
 ### 178
 
-De acuerdo con el libro de Álgebra, si un número cualquiera distinto de cero se eleva a la potencia 0, ¿a cuánto es igual?
+De conformidad con el libro de Álgebra, si un número cualquiera distinto de cero se eleva a la potencia 0, ¿a cuánto es igual?
 
 - A. A +1
 - B. A 0
@@ -3045,7 +3045,7 @@ Si un número cualquiera a ≠ 0, se eleva a la potencia 0 es igual a +1.
 
 ### 179
 
-De acuerdo con el libro de Álgebra, si un número cualquiera distinto de cero se eleva a un exponente negativo, ¿a qué es igual?
+En relación con el libro de Álgebra, si un número cualquiera distinto de cero se eleva a un exponente negativo, ¿a qué es igual?
 
 - A. Al recíproco de la potencia de exponente positivo
 - B. Al opuesto de la potencia de exponente positivo
@@ -3063,7 +3063,7 @@ Si un número cualquiera a ≠ 0, se eleva a un exponente negativo cualquiera �
 
 ### 180
 
-De acuerdo con el libro de Álgebra, ¿a qué es igual la división de dos potencias de igual base?
+De conformidad con el libro de Álgebra, ¿a qué es igual la división de dos potencias de igual base?
 
 - A. A la base elevada a la potencia que dé la diferencia de ambos exponentes
 - B. A la base elevada a la potencia que dé la suma de ambos exponentes
@@ -3086,7 +3086,7 @@ La división de dos potencias de igual base es igual a la base elevada a la pote
 
 ### 181
 
-De acuerdo con el libro de Álgebra, ¿en qué operaciones con números relativos se cumple el axioma de uniformidad?
+De conformidad con el libro de Álgebra, ¿en qué operaciones con números relativos se cumple el axioma de uniformidad?
 
 - A. En la suma, la resta, la multiplicación, la potenciación y la división
 - B. Sólo en la suma y la multiplicación
@@ -3116,7 +3116,7 @@ Sin embargo, cuando extraemos la raíz cuadrada de un número positivo, tenemos 
 
 ### 183
 
-De acuerdo con el libro de Álgebra, ¿cuántas raíces de grado par tiene siempre un número positivo cualquiera?
+De conformidad con el libro de Álgebra, ¿cuántas raíces de grado par tiene siempre un número positivo cualquiera?
 
 - A. Dos: una positiva y otra negativa
 - B. Dos: ambas positivas
@@ -3131,7 +3131,7 @@ Un número positivo cualquiera siempre tiene dos raíces de grado par, una posit
 
 ### 184
 
-De acuerdo con el libro de Álgebra, ¿qué condición deben cumplir los nuevos entes para ampliar el campo numérico?
+De conformidad con el libro de Álgebra, ¿qué condición deben cumplir los nuevos entes para ampliar el campo numérico?
 
 - A. Que cumplan las leyes formales
 - B. Que puedan representarse sobre una recta indefinida
@@ -3161,7 +3161,7 @@ Se trata del número complejo, que es un par de números dados en un orden deter
 
 ### 186
 
-De acuerdo con el libro de Álgebra, ¿qué podremos representar con los números complejos?
+En relación con el libro de Álgebra, ¿qué podremos representar con los números complejos?
 
 - A. Un punto cualquiera en el plano
 - B. Un punto cualquiera en una recta indefinida

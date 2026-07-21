@@ -201,7 +201,7 @@ discrepan, manda el cuerpo.
 
 ### 1
 
-De acuerdo con el libro de Historia Universal, ¿cómo se conoce a la política caracterizada por la guerra no convencional entre Estados Unidos y la Unión Soviética?
+En relación con el libro de Historia Universal, ¿cómo se conoce a la política caracterizada por la guerra no convencional entre Estados Unidos y la Unión Soviética?
 
 - A. Guerra Fría
 - B. Política de Contención del Comunismo
@@ -216,7 +216,7 @@ A esta política caracterizada por la guerra no convencional se le conoce con el
 
 ### 2
 
-De acuerdo con el libro de Historia Universal, ¿qué hecho puede tomarse como punto de partida de la Guerra Fría?
+En relación con el libro de Historia Universal, ¿qué hecho puede tomarse como punto de partida de la Guerra Fría?
 
 - A. Que a finales de 1945 Inglaterra no pudo seguir auxiliando económica ni militarmente a Grecia y a Turquía
 - B. La firma del Tratado de Postdam
@@ -231,7 +231,7 @@ Se puede tomar como punto de partida de la Guerra Fría el momento en que, a fin
 
 ### 3
 
-De acuerdo con el libro de Historia Universal, ¿qué país fue el primer escenario de pugnas entre los bloques de poder por consolidar su influencia en Europa?
+En relación con el libro de Historia Universal, ¿qué país fue el primer escenario de pugnas entre los bloques de poder por consolidar su influencia en Europa?
 
 - A. Alemania
 - B. Grecia
@@ -261,7 +261,7 @@ Los enfrentamientos de la Guerra Fría fueron generados, en gran parte, por la c
 
 ### 5
 
-De acuerdo con el libro de Historia Universal, ¿qué tratado firmaron J. Cárter y L. Brezhnev para limitar la producción de armas nucleares?
+En relación con el libro de Historia Universal, ¿qué tratado firmaron J. Cárter y L. Brezhnev para limitar la producción de armas nucleares?
 
 - A. El tratado Salt II
 - B. El Acuerdo de Québec
@@ -280,7 +280,7 @@ Figura 46. J. Cárter y L. Brezhnev en la firma del tratado Salt II, que limita 
 
 ### 6
 
-De acuerdo con el libro de Historia Universal, ¿qué nombre tomó la política exterior puesta en marcha por Estados Unidos tras la doctrina de Truman?
+En relación con el libro de Historia Universal, ¿qué nombre tomó la política exterior puesta en marcha por Estados Unidos tras la doctrina de Truman?
 
 - A. Política de Contención del Comunismo
 - B. Política de Coexistencia Pacífica
@@ -310,7 +310,7 @@ Las primeras acciones en relación con esta política tomaron forma con el Plan 
 
 ### 8
 
-De acuerdo con el libro de Historia Universal, ¿cuál fue el único país de la Europa del Este que aceptó la ayuda del Plan Marshall?
+En relación con el libro de Historia Universal, ¿cuál fue el único país de la Europa del Este que aceptó la ayuda del Plan Marshall?
 
 - A. Yugoslavia
 - B. Polonia
@@ -325,7 +325,7 @@ El Plan Marshall consideró la ayuda a los países de la Europa del Este, de los
 
 ### 9
 
-De acuerdo con el libro de Historia Universal, ¿qué plan estableció la Unión Soviética en 1948 para organizar los sistemas económicos de la Europa del Este?
+De conformidad con el libro de Historia Universal, ¿qué plan estableció la Unión Soviética en 1948 para organizar los sistemas económicos de la Europa del Este?
 
 - A. El Plan Molotov
 - B. El Plan Marshall
@@ -359,7 +359,7 @@ Por lo que se refiere al aspecto militar, los antecedentes de la Guerra Fría se
 
 ### 11
 
-De acuerdo con el libro de Historia Universal, ¿qué acuerdo firmaron Estados Unidos y Gran Bretaña con el que pretendían el dominio nuclear a nivel mundial?
+En relación con el libro de Historia Universal, ¿qué acuerdo firmaron Estados Unidos y Gran Bretaña con el que pretendían el dominio nuclear a nivel mundial?
 
 - A. El Acuerdo de Québec
 - B. El tratado Salt II
@@ -374,7 +374,7 @@ Un año más tarde, Estados Unidos y la Gran Bretaña firmaron el Acuerdo de Qu�
 
 ### 12
 
-De acuerdo con el libro de Historia Universal, ¿hacia qué año inició la Unión Soviética la preparación de su bomba atómica?
+De conformidad con el libro de Historia Universal, ¿hacia qué año inició la Unión Soviética la preparación de su bomba atómica?
 
 - A. Hacia 1947
 - B. Hacia 1942
@@ -389,7 +389,7 @@ En contraposición a esta acción, la Unión Soviética inició, hacia 1947, la 
 
 ### 13
 
-De acuerdo con el libro de Historia Universal, ¿qué buscaba la Organización del Tratado del Atlántico Norte (OTAN)?
+En relación con el libro de Historia Universal, ¿qué buscaba la Organización del Tratado del Atlántico Norte (OTAN)?
 
 - A. Bloquear económica y militarmente a la Unión Soviética
 - B. Reactivar la economía europea con ayuda financiera
@@ -404,7 +404,7 @@ Otra de las facetas del armamentismo fue el surgimiento de alianzas militares, c
 
 ### 14
 
-De acuerdo con el libro de Historia Universal, ¿en qué año fue firmado el Pacto de Varsovia por los países socialistas europeos?
+De conformidad con el libro de Historia Universal, ¿en qué año fue firmado el Pacto de Varsovia por los países socialistas europeos?
 
 - A. En 1955
 - B. En 1948
@@ -419,7 +419,7 @@ La Unión Soviética, que, por su parte, respondió con la creación del Pacto d
 
 ### 15
 
-De acuerdo con el libro de Historia Universal, ¿qué gobernantes propiciaron la Coexistencia Pacífica?
+De conformidad con el libro de Historia Universal, ¿qué gobernantes propiciaron la Coexistencia Pacífica?
 
 - A. Nikita Kruschev y John F. Kennedy
 - B. J. Cárter y L. Brezhnev
@@ -453,7 +453,7 @@ Con la capitulación de Alemania, el 8 de mayo de 1945, se puso fin a la segunda
 
 ### 17
 
-De acuerdo con el libro de Historia Universal, ¿en cuántas zonas de ocupación se estableció la división de Alemania en la Conferencia de Postdam?
+De conformidad con el libro de Historia Universal, ¿en cuántas zonas de ocupación se estableció la división de Alemania en la Conferencia de Postdam?
 
 - A. En cuatro zonas
 - B. En dos zonas
@@ -483,7 +483,7 @@ La zona oriental quedó bajo el control de la Unión Soviética, con una superfi
 
 ### 19
 
-De acuerdo con el libro de Historia Universal, ¿por qué quedó dividida en cuatro sectores la ciudad de Berlín, localizada en el sector oriental?
+De conformidad con el libro de Historia Universal, ¿por qué quedó dividida en cuatro sectores la ciudad de Berlín, localizada en el sector oriental?
 
 - A. Por el valor político que representaba
 - B. Por su extensión territorial
@@ -498,7 +498,7 @@ Por el valor político que representaba, la ciudad de Berlín, localizada en el 
 
 ### 20
 
-De acuerdo con el libro de Historia Universal, ¿cómo se llamó la unión de las zonas angloestadunidense conformada en 1947 por iniciativa de Estados Unidos?
+En relación con el libro de Historia Universal, ¿cómo se llamó la unión de las zonas angloestadunidense conformada en 1947 por iniciativa de Estados Unidos?
 
 - A. "Bizona"
 - B. "Trizona"
@@ -517,7 +517,7 @@ Las tensiones aumentaron cuando, en 1947, por iniciativa de Estados Unidos, se u
 
 ### 21
 
-De acuerdo con el libro de Historia Universal, ¿con qué medida resolvieron los aliados el bloqueo soviético de las comunicaciones terrestres con Berlín occidental?
+En relación con el libro de Historia Universal, ¿con qué medida resolvieron los aliados el bloqueo soviético de las comunicaciones terrestres con Berlín occidental?
 
 - A. Estableciendo un "puente aéreo" entre junio de 1948 y octubre de 1949
 - B. Retirándose del Consejo Aliado
@@ -532,7 +532,7 @@ Decretó el bloqueo de las comunicaciones terrestres con Berlín occidental, sit
 
 ### 22
 
-De acuerdo con el libro de Historia Universal, ¿qué aprobó el Consejo Parlamentario en mayo de 1949 para crear la República Federal Alemana?
+De conformidad con el libro de Historia Universal, ¿qué aprobó el Consejo Parlamentario en mayo de 1949 para crear la República Federal Alemana?
 
 - A. La Ley Básica
 - B. La Constitución de alto contenido social
@@ -562,7 +562,7 @@ Se establecía una Cámara legislativa o Parlamento, el *Bundestag*, y una Cáma
 
 ### 24
 
-De acuerdo con el libro de Historia Universal, ¿cómo se conoce el resurgimiento económico de la República Federal Alemana?
+En relación con el libro de Historia Universal, ¿cómo se conoce el resurgimiento económico de la República Federal Alemana?
 
 - A. "El milagro alemán"
 - B. "El plan quinquenal"
@@ -592,7 +592,7 @@ Los problemas fueron superados con el establecimiento de la colectivización de 
 
 ### 26
 
-De acuerdo con el libro de Historia Universal, ¿en qué año ingresó la República Federal Alemana a la OTAN?
+En relación con el libro de Historia Universal, ¿en qué año ingresó la República Federal Alemana a la OTAN?
 
 - A. En 1954
 - B. En 1955
@@ -622,7 +622,7 @@ Sin embargo, la paz mundial se vio seriamente amenazada cuando el sector orienta
 
 ### 28
 
-De acuerdo con el libro de Historia Universal, ¿cuál fue el enfrentamiento más álgido de la Guerra Fría?
+En relación con el libro de Historia Universal, ¿cuál fue el enfrentamiento más álgido de la Guerra Fría?
 
 - A. La Guerra de Corea
 - B. La guerra de Vietnam
@@ -641,7 +641,7 @@ El sudeste asiático representó una zona estratégica para los bloques hegemón
 
 ### 29
 
-De acuerdo con el libro de Historia Universal, ¿en qué año logró Japón la conquista militar de Corea?
+De conformidad con el libro de Historia Universal, ¿en qué año logró Japón la conquista militar de Corea?
 
 - A. En 1910
 - B. En 1941
@@ -671,7 +671,7 @@ La Conferencia de Postdam acordó enviar a los ejércitos soviéticos a la zona 
 
 ### 31
 
-De acuerdo con el libro de Historia Universal, ¿qué nacionalista estableció en agosto de 1948 la República de Corea del Sur, con sede en Seúl?
+De conformidad con el libro de Historia Universal, ¿qué nacionalista estableció en agosto de 1948 la República de Corea del Sur, con sede en Seúl?
 
 - A. Syngman Rhee
 - B. Kim Il-Sung
@@ -716,7 +716,7 @@ Los ejércitos de Corea del Norte invadieron al sur y lograron llegar hasta Seú
 
 ### 34
 
-De acuerdo con el libro de Historia Universal, ¿a qué general le confirió la ONU el mando de las tropas enviadas a Corea?
+En relación con el libro de Historia Universal, ¿a qué general le confirió la ONU el mando de las tropas enviadas a Corea?
 
 - A. Al general MacArthur
 - B. Al general Marshall
@@ -731,7 +731,7 @@ Esta agresión fue condenada por la ONU, quien envió tropas a la región y le c
 
 ### 35
 
-De acuerdo con el libro de Historia Universal, ¿por qué el gobierno norteamericano relevó de su cargo al general MacArthur?
+En relación con el libro de Historia Universal, ¿por qué el gobierno norteamericano relevó de su cargo al general MacArthur?
 
 - A. Porque pretendía invadir China y usar la bomba atómica para eliminar el comunismo de la región
 - B. Porque perdió Seúl ante los ejércitos de Corea del Norte
@@ -795,7 +795,7 @@ La península de Indochina, integrada por los actuales Vietnam, Camboya y Laos, 
 
 ### 39
 
-De acuerdo con el libro de Historia Universal, ¿hasta qué año permaneció la península de Indochina bajo control francés?
+De conformidad con el libro de Historia Universal, ¿hasta qué año permaneció la península de Indochina bajo control francés?
 
 - A. Hasta 1941
 - B. Hasta 1949
@@ -825,7 +825,7 @@ La explotación colonialista generó el surgimiento de movimientos nacionalistas
 
 ### 41
 
-De acuerdo con el libro de Historia Universal, ¿qué dos movimientos influyeron grandemente en el desarrollo de la Guerra de Vietnam?
+En relación con el libro de Historia Universal, ¿qué dos movimientos influyeron grandemente en el desarrollo de la Guerra de Vietnam?
 
 - A. La Revolución China de 1949 y el estallido de la Guerra de Corea de 1950
 - B. La Revolución Rusa de 1917 y la Segunda Guerra Mundial
@@ -840,7 +840,7 @@ La Revolución China (1949) y el estallido de la Guerra de Corea (1950), movimie
 
 ### 42
 
-De acuerdo con el libro de Historia Universal, ¿en qué año proclamó Ho Chi Minh la República Democrática de Vietnam y cuál fue su capital?
+De conformidad con el libro de Historia Universal, ¿en qué año proclamó Ho Chi Minh la República Democrática de Vietnam y cuál fue su capital?
 
 - A. En 1945, con capital en Hanoi
 - B. En 1954, con capital en Saigón
@@ -855,7 +855,7 @@ Los nacionalistas de Vietnam buscaron que su país no cayera nuevamente en manos
 
 ### 43
 
-De acuerdo con el libro de Historia Universal, ¿qué monarquía estableció Francia en Saigón al intentar recuperar su colonia?
+De conformidad con el libro de Historia Universal, ¿qué monarquía estableció Francia en Saigón al intentar recuperar su colonia?
 
 - A. Una monarquía dirigida por Boa-Dai
 - B. Una monarquía dirigida por Ho Chi Minh
@@ -885,7 +885,7 @@ La guerra de guerrillas se intensificó para, finalmente, derrotar a los frances
 
 ### 45
 
-De acuerdo con el libro de Historia Universal, ¿a partir de qué paralelo se impuso a Vietnam una división temporal en la Conferencia de Ginebra?
+De conformidad con el libro de Historia Universal, ¿a partir de qué paralelo se impuso a Vietnam una división temporal en la Conferencia de Ginebra?
 
 - A. Del paralelo 17°
 - B. Del paralelo 38°
@@ -933,7 +933,7 @@ Ante este proceso, Estados Unidos intensificó su ayuda al sur. Con ello se inic
 
 ### 48
 
-De acuerdo con el libro de Historia Universal, ¿con qué incidente se extendió la guerra al norte de Vietnam a partir de 1964?
+En relación con el libro de Historia Universal, ¿con qué incidente se extendió la guerra al norte de Vietnam a partir de 1964?
 
 - A. Con un incidente en Tonkin, donde un barco norteamericano fue atacado por lanchas norvietnamitas
 - B. Con la ofensiva del Tet
@@ -978,7 +978,7 @@ Ho Chi Minh, con apoyo soviético, hizo un llamado general a la insurrección, q
 
 ### 51
 
-De acuerdo con el libro de Historia Universal, ¿qué significa "Tet", nombre de la ofensiva lanzada en 1968?
+De conformidad con el libro de Historia Universal, ¿qué significa "Tet", nombre de la ofensiva lanzada en 1968?
 
 - A. Año nuevo lunar
 - B. Liberación nacional
@@ -993,7 +993,7 @@ Iniciaron, el 30 de enero de 1968, la ofensiva del Tet (año nuevo lunar), lanza
 
 ### 52
 
-De acuerdo con el libro de Historia Universal, ¿en qué acuerdos culminaron las negociaciones de paz de Vietnam?
+De conformidad con el libro de Historia Universal, ¿en qué acuerdos culminaron las negociaciones de paz de Vietnam?
 
 - A. En los Acuerdos de París, en enero de 1973
 - B. En la Conferencia de Ginebra, en 1954
@@ -1008,7 +1008,7 @@ Las negociaciones de paz culminaron con los Acuerdos de París en enero de 1973,
 
 ### 53
 
-De acuerdo con el libro de Historia Universal, ¿cuándo consiguió Vietnam su reunificación y tras cuántos años de lucha?
+En relación con el libro de Historia Universal, ¿cuándo consiguió Vietnam su reunificación y tras cuántos años de lucha?
 
 - A. En abril de 1975, después de 30 años de violentas luchas contra el imperialismo
 - B. En enero de 1973, después de 20 años de lucha
@@ -1023,7 +1023,7 @@ Vietnam consiguió, finalmente, su reunificación en abril de 1975, después de 
 
 ### 54
 
-De acuerdo con el libro de Historia Universal, ¿en qué fecha se proclamó la República Socialista de Vietnam?
+En relación con el libro de Historia Universal, ¿en qué fecha se proclamó la República Socialista de Vietnam?
 
 - A. En julio de 1976
 - B. En abril de 1975
@@ -1042,7 +1042,7 @@ En julio de 1976, se proclamó la República Socialista de Vietnam.
 
 ### 55
 
-De acuerdo con el libro de Historia Universal, ¿quién hizo a finales del siglo XIX un pronunciamiento sobre la necesidad de buscar un "hogar nacional" para los judíos?
+En relación con el libro de Historia Universal, ¿quién hizo a finales del siglo XIX un pronunciamiento sobre la necesidad de buscar un "hogar nacional" para los judíos?
 
 - A. El húngaro Theodor Herzl
 - B. Lord James Balfour
@@ -1087,7 +1087,7 @@ Ello no se llevó a cabo, ya que, en 1920, Gran Bretaña recibió de la Liga de 
 
 ### 58
 
-De acuerdo con el libro de Historia Universal, ¿qué establecía el Plan de Partición aprobado por la ONU en noviembre de 1947?
+En relación con el libro de Historia Universal, ¿qué establecía el Plan de Partición aprobado por la ONU en noviembre de 1947?
 
 - A. Creaba dos Estados, el judío y el árabe, y establecía la internacionalización de Jerusalén
 - B. Creaba un solo Estado binacional con capital en Jerusalén
@@ -1132,7 +1132,7 @@ Con la salida de los británicos, el dirigente sionista David Ben Gurión procla
 
 ### 61
 
-De acuerdo con el libro de Historia Universal, ¿qué naciones árabes conjugaron sus ejércitos e invadieron al naciente Estado de Israel?
+De conformidad con el libro de Historia Universal, ¿qué naciones árabes conjugaron sus ejércitos e invadieron al naciente Estado de Israel?
 
 - A. Siria, Líbano, Jordania, Egipto e Irak
 - B. Egipto, Siria, Irak y Jordania
@@ -1169,7 +1169,7 @@ Esta primera Guerra Palestina terminó con la derrota del ejército coaligado y 
 
 ### 63
 
-De acuerdo con el libro de Historia Universal, ¿qué presidente egipcio nacionalizó el Canal de Suez en 1956?
+En relación con el libro de Historia Universal, ¿qué presidente egipcio nacionalizó el Canal de Suez en 1956?
 
 - A. Gamal Abdel Nasser
 - B. David Ben Gurión
@@ -1184,7 +1184,7 @@ Destacó la nacionalización del Canal de Suez, en 1956, por el presidente egipc
 
 ### 64
 
-De acuerdo con el libro de Historia Universal, ¿qué países atacaron a Egipto en la llamada "Guerra del Suez"?
+En relación con el libro de Historia Universal, ¿qué países atacaron a Egipto en la llamada "Guerra del Suez"?
 
 - A. Ingleses, franceses e israelíes
 - B. Estados Unidos y la Unión Soviética
@@ -1199,7 +1199,7 @@ Esta acción provocó que ingleses, franceses e israelíes atacaran a Egipto en 
 
 ### 65
 
-De acuerdo con el libro de Historia Universal, ¿cuál es la única salida de Israel al Mar Rojo, que Egipto exigía bloquear?
+En relación con el libro de Historia Universal, ¿cuál es la única salida de Israel al Mar Rojo, que Egipto exigía bloquear?
 
 - A. El Golfo de Akaba
 - B. El Golfo de Suez
@@ -1229,7 +1229,7 @@ Las presiones hicieron que Israel preparara un ataque sorpresa contra Egipto, Si
 
 ### 67
 
-De acuerdo con el libro de Historia Universal, ¿de qué territorios se posesionó Israel al término de la "Guerra de los Seis Días"?
+De conformidad con el libro de Historia Universal, ¿de qué territorios se posesionó Israel al término de la "Guerra de los Seis Días"?
 
 - A. De la península del Sinaí, la Franja de Gaza, las alturas del Golán, Cisjordania y Jerusalén
 - B. De la península del Sinaí y Port Said
@@ -1244,7 +1244,7 @@ Al término de la cual se posesionó de la península del Sinaí, la Franja de G
 
 ### 68
 
-De acuerdo con el libro de Historia Universal, ¿qué resolución emitieron las Naciones Unidas para exigir la retirada de los ejércitos israelíes de los territorios ocupados?
+En relación con el libro de Historia Universal, ¿qué resolución emitieron las Naciones Unidas para exigir la retirada de los ejércitos israelíes de los territorios ocupados?
 
 - A. La resolución 242
 - B. El Plan de Partición
@@ -1312,7 +1312,7 @@ Estas negociaciones culminaron con los Acuerdos de Campo David, en donde Estados
 
 ### 72
 
-De acuerdo con el libro de Historia Universal, ¿en qué año se creó la Organización para la Liberación de Palestina (OLP) y quién la dirigía?
+En relación con el libro de Historia Universal, ¿en qué año se creó la Organización para la Liberación de Palestina (OLP) y quién la dirigía?
 
 - A. En 1964, dirigida por Yasser Arafat
 - B. En 1948, dirigida por Yasser Arafat
@@ -1327,7 +1327,7 @@ Desde la creación de la Organización para la Liberación de Palestina (OLP) en
 
 ### 73
 
-De acuerdo con el libro de Historia Universal, ¿cómo se le llama a la "revolución con piedras" surgida en 1987?
+En relación con el libro de Historia Universal, ¿cómo se le llama a la "revolución con piedras" surgida en 1987?
 
 - A. Intifada
 - B. Yom Kipur
@@ -1425,7 +1425,7 @@ Los idiomas oficiales de la ONU son: chino, español, francés, inglés, ruso y,
 
 ### 79
 
-De acuerdo con el libro de Historia Universal, ¿qué países son miembros permanentes del Consejo de Seguridad de la ONU?
+En relación con el libro de Historia Universal, ¿qué países son miembros permanentes del Consejo de Seguridad de la ONU?
 
 - A. Estados Unidos, Gran Bretaña, la Unión Soviética, Francia y China
 - B. Estados Unidos, Gran Bretaña, Alemania, Francia y China
@@ -1455,7 +1455,7 @@ La Corte Internacional de Justicia, conocida como la Corte de la Haya, ya que ti
 
 ### 81
 
-De acuerdo con el libro de Historia Universal, ¿por cuántos miembros está compuesto el Consejo Económico y Social de la ONU y por cuánto tiempo son elegidos?
+De conformidad con el libro de Historia Universal, ¿por cuántos miembros está compuesto el Consejo Económico y Social de la ONU y por cuánto tiempo son elegidos?
 
 - A. Por 54 miembros elegidos para un periodo de tres años
 - B. Por 10 miembros renovados cada dos años
@@ -1470,7 +1470,7 @@ El Consejo Económico y Social, compuesto por 54 miembros elegidos por la Asambl
 
 ### 82
 
-De acuerdo con el libro de Historia Universal, ¿quién nombra al Secretario General de la ONU?
+En relación con el libro de Historia Universal, ¿quién nombra al Secretario General de la ONU?
 
 - A. La Asamblea General, por recomendación del Consejo de Seguridad
 - B. El Consejo de Seguridad, por recomendación de la Asamblea General
@@ -1485,7 +1485,7 @@ El principal funcionario administrativo de la organización es el Secretario Gen
 
 ### 83
 
-De acuerdo con el libro de Historia Universal, ¿de qué país era Javier Pérez de Cuéllar, Secretario General de la ONU de 1982 a 1991?
+En relación con el libro de Historia Universal, ¿de qué país era Javier Pérez de Cuéllar, Secretario General de la ONU de 1982 a 1991?
 
 - A. De Perú
 - B. De Egipto
@@ -1500,7 +1500,7 @@ Kurt Waldheim, de Austria, de 1972 a 1981, Javier Pérez de Cuéllar, de Perú, 
 
 ### 84
 
-De acuerdo con el libro de Historia Universal, ¿cuáles son los organismos complementarios más importantes de la ONU?
+De conformidad con el libro de Historia Universal, ¿cuáles son los organismos complementarios más importantes de la ONU?
 
 - A. La FAO, la UNESCO y la OMS
 - B. La FAO, la OEA y la OMS
@@ -1519,7 +1519,7 @@ Varios son los organismos complementarios de la ONU, pero los más importantes s
 
 ### 85
 
-De acuerdo con el libro de Historia Universal, ¿en qué año fue establecido el Fondo Monetario Internacional (FMI)?
+En relación con el libro de Historia Universal, ¿en qué año fue establecido el Fondo Monetario Internacional (FMI)?
 
 - A. En 1945
 - B. En 1947
@@ -1564,7 +1564,7 @@ Es importante resaltar que Estados Unidos de América controla más de la quinta
 
 ### 88
 
-De acuerdo con el libro de Historia Universal, ¿en qué año fue creado el GATT?
+En relación con el libro de Historia Universal, ¿en qué año fue creado el GATT?
 
 - A. En 1947
 - B. En 1945
@@ -1579,7 +1579,7 @@ El GATT, organismo conocido por sus siglas en inglés, fue creado en 1947 y se h
 
 ### 89
 
-De acuerdo con el libro de Historia Universal, ¿dónde tenía su sede el Consejo de Asistencia Económica Mutua (CAME) y en qué año fue creado?
+En relación con el libro de Historia Universal, ¿dónde tenía su sede el Consejo de Asistencia Económica Mutua (CAME) y en qué año fue creado?
 
 - A. En Moscú, creado en 1949
 - B. En Varsovia, creado en 1955
@@ -1594,7 +1594,7 @@ Este organismo, con sede en Moscú, fue creado en 1949 con el objetivo de desarr
 
 ### 90
 
-De acuerdo con el libro de Historia Universal, ¿cuál fue el primer país en retirarse del CAME?
+En relación con el libro de Historia Universal, ¿cuál fue el primer país en retirarse del CAME?
 
 - A. Albania
 - B. Bulgaria
@@ -1613,7 +1613,7 @@ Originalmente lo formaron Alemania Democrática, Bulgaria, Checoslovaquia, Hungr
 
 ### 91
 
-De acuerdo con el libro de Historia Universal, ¿durante qué conferencia y en qué ciudad fue fundada la Organización de los Estados Americanos (OEA)?
+De conformidad con el libro de Historia Universal, ¿durante qué conferencia y en qué ciudad fue fundada la Organización de los Estados Americanos (OEA)?
 
 - A. Durante la IX Conferencia Internacional Americana, en Bogotá, Colombia
 - B. Durante la Conferencia de San Francisco, en Estados Unidos
@@ -1643,7 +1643,7 @@ Fue creada en reemplazo de la Unión Panamericana e integró a casi todos los pa
 
 ### 93
 
-De acuerdo con el libro de Historia Universal, ¿en qué frase se expresó la doctrina del "destino común" promovida por Estados Unidos y que fundamentó a la OEA?
+En relación con el libro de Historia Universal, ¿en qué frase se expresó la doctrina del "destino común" promovida por Estados Unidos y que fundamentó a la OEA?
 
 - A. "Cualquier ataque contra una república americana es un ataque a todas ellas"
 - B. "Un tratado de amistad, de cooperación y asistencia mutua"
@@ -1673,7 +1673,7 @@ Organismo interregional africano fundado en 1963 como consecuencia del movimient
 
 ### 95
 
-De acuerdo con el libro de Historia Universal, ¿quién es electo presidente de la Organización de la Unidad Africana por tradición?
+De conformidad con el libro de Historia Universal, ¿quién es electo presidente de la Organización de la Unidad Africana por tradición?
 
 - A. El jefe de Estado del país sede de la reunión
 - B. El jefe de Estado del país más poblado
@@ -1688,7 +1688,7 @@ Realiza anualmente una reunión cumbre, a nivel de jefes de Estado, en la que se
 
 ### 96
 
-De acuerdo con el libro de Historia Universal, ¿cuál era el objetivo del Pacto de la Liga de los Estados Árabes, firmado en 1945?
+De conformidad con el libro de Historia Universal, ¿cuál era el objetivo del Pacto de la Liga de los Estados Árabes, firmado en 1945?
 
 - A. El fortalecimiento de los vínculos económicos de sus miembros y la coordinación de su acción política
 - B. La creación de un mando militar unificado árabe
@@ -1722,7 +1722,7 @@ En abril de 1949 se firmó un tratado en la ciudad de Washington por los represe
 
 ### 98
 
-De acuerdo con el libro de Historia Universal, ¿qué puntualizaba el tratado que dio origen a la OTAN?
+De conformidad con el libro de Historia Universal, ¿qué puntualizaba el tratado que dio origen a la OTAN?
 
 - A. Que un ataque armado contra cualquiera de los miembros sería considerado contra todos
 - B. Que se instituía un mando unificado de las fuerzas aliadas
@@ -1752,7 +1752,7 @@ Más tarde, en 1952, Grecia y Turquía formaron parte del tratado y, finalmente,
 
 ### 100
 
-De acuerdo con el libro de Historia Universal, ¿en qué fecha se firmó el Pacto de Varsovia?
+De conformidad con el libro de Historia Universal, ¿en qué fecha se firmó el Pacto de Varsovia?
 
 - A. El 14 de mayo de 1955
 - B. El 2 de diciembre de 1954
@@ -1786,7 +1786,7 @@ Por el pacto se acordó un "tratado de amistad, de cooperación y asistencia mut
 
 ### 102
 
-De acuerdo con el libro de Historia Universal, ¿en qué fecha invadieron Kuwait las divisiones blindadas iraquíes?
+De conformidad con el libro de Historia Universal, ¿en qué fecha invadieron Kuwait las divisiones blindadas iraquíes?
 
 - A. El 2 de agosto de 1990
 - B. El 6 de agosto de 1990
@@ -1801,7 +1801,7 @@ El 2 de agosto de 1990, varias divisiones blindadas iraquíes invadieron Kuwait.
 
 ### 103
 
-De acuerdo con el libro de Historia Universal, ¿qué declaró Saddam Hussein respecto de Kuwait el día 28 de agosto de 1990?
+En relación con el libro de Historia Universal, ¿qué declaró Saddam Hussein respecto de Kuwait el día 28 de agosto de 1990?
 
 - A. Que era la provincia número diecinueve de Irak
 - B. Que era un protectorado militar iraquí
@@ -1816,7 +1816,7 @@ Dos días más tarde, Saddam Hussein, presidente de Irak, anunció la formación
 
 ### 104
 
-De acuerdo con el libro de Historia Universal, ¿qué organismo impuso al país agresor un embargo comercial tras la invasión de Kuwait?
+En relación con el libro de Historia Universal, ¿qué organismo impuso al país agresor un embargo comercial tras la invasión de Kuwait?
 
 - A. La Comunidad Europea
 - B. La Liga Árabe
@@ -1831,7 +1831,7 @@ Ante esta situación, la Comunidad Europea impuso al país agresor un embargo co
 
 ### 105
 
-De acuerdo con el libro de Historia Universal, ¿en qué país ordenó George Bush el despliegue de tropas de combate norteamericanas?
+En relación con el libro de Historia Universal, ¿en qué país ordenó George Bush el despliegue de tropas de combate norteamericanas?
 
 - A. En Arabia Saudita
 - B. En Kuwait
@@ -1846,7 +1846,7 @@ Pocos días después, George Bush, el entonces presidente de Estados Unidos de A
 
 ### 106
 
-De acuerdo con el libro de Historia Universal, ¿cuántas naciones se sumaron al contingente armado antiiraquí?
+De conformidad con el libro de Historia Universal, ¿cuántas naciones se sumaron al contingente armado antiiraquí?
 
 - A. Veintiocho
 - B. Doce
@@ -1861,7 +1861,7 @@ Finalmente, fueron veintiocho naciones las que se sumaron al contingente armado 
 
 ### 107
 
-De acuerdo con el libro de Historia Universal, ¿cuál fue la más importante de las 12 resoluciones que adoptó el Consejo de Seguridad sobre la invasión?
+De conformidad con el libro de Historia Universal, ¿cuál fue la más importante de las 12 resoluciones que adoptó el Consejo de Seguridad sobre la invasión?
 
 - A. La número 678, aprobada el 29 de noviembre de 1990
 - B. La número 242, aprobada el 29 de noviembre de 1990
@@ -1879,7 +1879,7 @@ El Consejo de Seguridad de las Naciones Unidas adoptó 12 resoluciones relaciona
 
 ### 108
 
-De acuerdo con el libro de Historia Universal, ¿en qué desembocó la crisis del Golfo Pérsico?
+De conformidad con el libro de Historia Universal, ¿en qué desembocó la crisis del Golfo Pérsico?
 
 - A. En la primera guerra posterior a la conclusión de la Guerra Fría
 - B. En la última guerra de la Guerra Fría
@@ -1913,7 +1913,7 @@ El nombre oficial de este país es Al-Jumhuriya Al-Iraquiya; cuenta con 438 317 
 
 ### 110
 
-De acuerdo con el libro de Historia Universal, ¿qué superficie tiene Iraq?
+De conformidad con el libro de Historia Universal, ¿qué superficie tiene Iraq?
 
 - A. 438 317 km²
 - B. 431 051 km²
@@ -1943,7 +1943,7 @@ El país, irrigado por los ríos Tigris y Eufrates, fue en la antigüedad el asi
 
 ### 112
 
-De acuerdo con el libro de Historia Universal, ¿en qué siglo fundaron los árabes Bagdad e introdujeron la religión islámica?
+De conformidad con el libro de Historia Universal, ¿en qué siglo fundaron los árabes Bagdad e introdujeron la religión islámica?
 
 - A. En el siglo VII
 - B. En el siglo XVIII
@@ -1958,7 +1958,7 @@ En el siglo VII, los árabes fundaron Bagdad e introdujeron la religión islámi
 
 ### 113
 
-De acuerdo con el libro de Historia Universal, ¿en qué año se descubrieron grandes yacimientos de petróleo en la región de Irak?
+De conformidad con el libro de Historia Universal, ¿en qué año se descubrieron grandes yacimientos de petróleo en la región de Irak?
 
 - A. En 1927
 - B. En 1932
@@ -1973,7 +1973,7 @@ Como en 1927 se descubrieron grandes yacimientos de petróleo en la región, los
 
 ### 114
 
-De acuerdo con el libro de Historia Universal, ¿quién proclamó en 1932 la independencia de Irak, contando con el aval de Londres?
+De conformidad con el libro de Historia Universal, ¿quién proclamó en 1932 la independencia de Irak, contando con el aval de Londres?
 
 - A. El Emir Faisal
 - B. Faisal II
@@ -2007,7 +2007,7 @@ Diez años más tarde, una revolución llevó al poder al Partido Baas Árabe y 
 
 ### 116
 
-De acuerdo con el libro de Historia Universal, ¿cuántos habitantes tiene Bagdad, la capital de Iraq?
+De conformidad con el libro de Historia Universal, ¿cuántos habitantes tiene Bagdad, la capital de Iraq?
 
 - A. 6 431 839 habitantes
 - B. 31 129 225 habitantes
@@ -2022,7 +2022,7 @@ La capital, Bagdad, tiene 6 431 839 habitantes.
 
 ### 117
 
-De acuerdo con el libro de Historia Universal, ¿cuáles son, además de la capital, otras ciudades importantes de Iraq?
+De conformidad con el libro de Historia Universal, ¿cuáles son, además de la capital, otras ciudades importantes de Iraq?
 
 - A. Basora y Mosul
 - B. Bagdad y Basora
@@ -2037,7 +2037,7 @@ Otras ciudades importantes son Basora y Mosul.
 
 ### 118
 
-De acuerdo con el libro de Historia Universal, ¿a manos de quién pasó el dominio de Irak al ser derrotado el Imperio Otomano en la Primera Guerra Mundial?
+De conformidad con el libro de Historia Universal, ¿a manos de quién pasó el dominio de Irak al ser derrotado el Imperio Otomano en la Primera Guerra Mundial?
 
 - A. De los ingleses
 - B. De los alemanes
@@ -2052,7 +2052,7 @@ Desde el siglo XVIII, el Imperio Otomano mantuvo ocupado Irak hasta que, al ser 
 
 ### 119
 
-De acuerdo con el libro de Historia Universal, ¿con quiénes entraron en conflicto los británicos por el control del petróleo descubierto en Irak?
+De conformidad con el libro de Historia Universal, ¿con quiénes entraron en conflicto los británicos por el control del petróleo descubierto en Irak?
 
 - A. Con los alemanes
 - B. Con los norteamericanos
@@ -2067,7 +2067,7 @@ Como en 1927 se descubrieron grandes yacimientos de petróleo en la región, los
 
 ### 120
 
-De acuerdo con el libro de Historia Universal, ¿en qué año se instituyó la República en Irak, al ser derrocado Faisal II?
+En relación con el libro de Historia Universal, ¿en qué año se instituyó la República en Irak, al ser derrocado Faisal II?
 
 - A. En 1958
 - B. En 1932
@@ -2082,7 +2082,7 @@ En 1932, contando con el aval de Londres, el Emir Faisal proclamó la independen
 
 ### 121
 
-De acuerdo con el libro de Historia Universal, ¿qué organización dirigió el fortalecimiento económico y social de Irak?
+En relación con el libro de Historia Universal, ¿qué organización dirigió el fortalecimiento económico y social de Irak?
 
 - A. El Frente Nacional
 - B. El Partido Baas Árabe y Socialista
@@ -2097,7 +2097,7 @@ El fortalecimiento económico y social fue dirigido por el Frente Nacional, inte
 
 ### 122
 
-De acuerdo con el libro de Historia Universal, ¿en qué año se promovió y consolidó la Organización de Países Exportadores de Petróleo?
+En relación con el libro de Historia Universal, ¿en qué año se promovió y consolidó la Organización de Países Exportadores de Petróleo?
 
 - A. En 1960
 - B. En 1958
@@ -2112,7 +2112,7 @@ El fortalecimiento económico y social fue dirigido por el Frente Nacional, inte
 
 ### 123
 
-De acuerdo con el libro de Historia Universal, según la Constitución de 1968, reformada en 1971, ¿en qué órgano delegaba el poder el gobierno de Irak?
+En relación con el libro de Historia Universal, según la Constitución de 1968, reformada en 1971, ¿en qué órgano delegaba el poder el gobierno de Irak?
 
 - A. En un Consejo de Comando de la Revolución
 - B. En el Frente Nacional
@@ -2127,7 +2127,7 @@ El gobierno del país, de acuerdo con la Constitución de 1968, reformada en 197
 
 ### 124
 
-De acuerdo con el libro de Historia Universal, ¿por cuántos miembros estaba compuesto el Consejo de Comando de la Revolución?
+De conformidad con el libro de Historia Universal, ¿por cuántos miembros estaba compuesto el Consejo de Comando de la Revolución?
 
 - A. Por nueve miembros
 - B. Por cincuenta miembros
@@ -2157,7 +2157,7 @@ El gobierno del país, de acuerdo con la Constitución de 1968, reformada en 197
 
 ### 126
 
-De acuerdo con el libro de Historia Universal, ¿a partir de qué año inició Irak una guerra contra Irán, debido a los apetitos expansionistas de ese país?
+De conformidad con el libro de Historia Universal, ¿a partir de qué año inició Irak una guerra contra Irán, debido a los apetitos expansionistas de ese país?
 
 - A. A partir de 1980
 - B. A partir de 1979
@@ -2172,7 +2172,7 @@ Debido a los apetitos expansionistas de Irán, Irak inició a partir de 1980 una
 
 ### 127
 
-De acuerdo con el libro de Historia Universal, ¿a cuánto ascendió la deuda con que la guerra contra Irán dejó al gobierno iraquí?
+En relación con el libro de Historia Universal, ¿a cuánto ascendió la deuda con que la guerra contra Irán dejó al gobierno iraquí?
 
 - A. A más de 70 billones de dólares
 - B. A más de 40 billones de dólares
@@ -2187,7 +2187,7 @@ Debido a los apetitos expansionistas de Irán, Irak inició a partir de 1980 una
 
 ### 128
 
-De acuerdo con el libro de Historia Universal, de la deuda iraquí, ¿cuántos billones de dólares se debían a Estados Unidos, la Unión Soviética y a otros países de Occidente?
+De conformidad con el libro de Historia Universal, de la deuda iraquí, ¿cuántos billones de dólares se debían a Estados Unidos, la Unión Soviética y a otros países de Occidente?
 
 - A. 40
 - B. 30
@@ -2281,7 +2281,7 @@ Otro dato importante es que para 1987, el ingreso per cápita era de 14 610 dól
 
 ### 134
 
-De acuerdo con el libro de Historia Universal, ¿en qué descansa la economía de Kuwait?
+De conformidad con el libro de Historia Universal, ¿en qué descansa la economía de Kuwait?
 
 - A. En la venta del energético, ya sea crudo, refinado o como gas natural
 - B. En el comercio marítimo del Golfo Pérsico
@@ -2326,7 +2326,7 @@ El Poder Legislativo corresponde a la Asamblea Nacional, integrada por 50 miembr
 
 ### 137
 
-De acuerdo con el libro de Historia Universal, ¿cada cuánto tiempo son elegidos los miembros de la Asamblea Nacional de Kuwait?
+De conformidad con el libro de Historia Universal, ¿cada cuánto tiempo son elegidos los miembros de la Asamblea Nacional de Kuwait?
 
 - A. Cada cuatro años
 - B. Cada seis años
@@ -2341,7 +2341,7 @@ El Poder Legislativo corresponde a la Asamblea Nacional, integrada por 50 miembr
 
 ### 138
 
-De acuerdo con el libro de Historia Universal, ¿quién fue el Emir de Kuwait desde 1977, exiliado al momento de la invasión iraquí?
+De conformidad con el libro de Historia Universal, ¿quién fue el Emir de Kuwait desde 1977, exiliado al momento de la invasión iraquí?
 
 - A. Jaber al-Hamad al-Sabah
 - B. Mabarak al-Sabah
@@ -2356,7 +2356,7 @@ El Emir desde 1977, exiliado al momento de la invasión iraquí, fue Jaber al-Ha
 
 ### 139
 
-De acuerdo con el libro de Historia Universal, ¿bajo el gobierno de quién quedaron las antiguas tribus kuwaitíes a partir del siglo VII?
+De conformidad con el libro de Historia Universal, ¿bajo el gobierno de quién quedaron las antiguas tribus kuwaitíes a partir del siglo VII?
 
 - A. Del Califa de Bagdad
 - B. Del Imperio Otomano
@@ -2371,7 +2371,7 @@ En cuanto a su historia, a partir del siglo VII, las antiguas tribus kuwaitíes 
 
 ### 140
 
-De acuerdo con el libro de Historia Universal, ¿quién aceptó, en el siglo XIX, el protectorado que los ingleses ofrecieron a Kuwait?
+En relación con el libro de Historia Universal, ¿quién aceptó, en el siglo XIX, el protectorado que los ingleses ofrecieron a Kuwait?
 
 - A. El Emir Mabarak al-Sabah
 - B. El Emir Jaber al-Hamad al-Sabah
@@ -2386,7 +2386,7 @@ En el siglo XIX, con la finalidad de que sus tribus no fueran totalmente asimila
 
 ### 141
 
-De acuerdo con el libro de Historia Universal, ¿qué compañía se asentó en la región de Kuwait con el descubrimiento de grandes yacimientos de petróleo?
+De conformidad con el libro de Historia Universal, ¿qué compañía se asentó en la región de Kuwait con el descubrimiento de grandes yacimientos de petróleo?
 
 - A. La Kuwait-Oil Company, de inversión anglonorteamericana
 - B. La Organización de Países Exportadores de Petróleo
@@ -2401,7 +2401,7 @@ Con el descubrimiento de grandes yacimientos de petróleo, ya en pleno siglo XX,
 
 ### 142
 
-De acuerdo con el libro de Historia Universal, ¿en qué año se proclamó la independencia de Kuwait?
+En relación con el libro de Historia Universal, ¿en qué año se proclamó la independencia de Kuwait?
 
 - A. En 1961
 - B. En 1962
@@ -2420,7 +2420,7 @@ En 1961 se proclamó la independencia del país, al abrogar los ingleses el trat
 
 ### 143
 
-De acuerdo con el libro de Historia Universal, ¿qué organismo no apoyó la posición de Bagdad y sustituyó con sus tropas a las británicas?
+De conformidad con el libro de Historia Universal, ¿qué organismo no apoyó la posición de Bagdad y sustituyó con sus tropas a las británicas?
 
 - A. La Liga Árabe
 - B. La Organización de las Naciones Unidas
@@ -2435,7 +2435,7 @@ Esta posición de Bagdad no logró el apoyo de la Liga Árabe, cuyas tropas sust
 
 ### 144
 
-De acuerdo con el libro de Historia Universal, ¿en qué año quedó solucionada la controversia, al ser declarado Kuwait miembro de la Organización de las Naciones Unidas?
+De conformidad con el libro de Historia Universal, ¿en qué año quedó solucionada la controversia, al ser declarado Kuwait miembro de la Organización de las Naciones Unidas?
 
 - A. En 1963
 - B. En 1961
@@ -2450,7 +2450,7 @@ Dos años más tarde, en 1963, la controversia quedó solucionada al ser declara
 
 ### 145
 
-De acuerdo con el libro de Historia Universal, ¿de qué acusó Saddam Hussein a Kuwait a mediados de 1990?
+De conformidad con el libro de Historia Universal, ¿de qué acusó Saddam Hussein a Kuwait a mediados de 1990?
 
 - A. De haber infringido la soberanía al sustraer petróleo de sus campos fronterizos
 - B. De haber financiado a Irán durante la guerra
@@ -2465,7 +2465,7 @@ A mediados de 1990, Saddam Hussein acusó a Kuwait de haber infringido la sobera
 
 ### 146
 
-De acuerdo con el libro de Historia Universal, ¿qué porcentaje de las reservas mundiales de petróleo hubiese administrado Irak de haberse anexado el emirato?
+De conformidad con el libro de Historia Universal, ¿qué porcentaje de las reservas mundiales de petróleo hubiese administrado Irak de haberse anexado el emirato?
 
 - A. 20%
 - B. 65%
@@ -2480,7 +2480,7 @@ De haberse anexado el emirato, Irak hubiese administrado 20% de las reservas mun
 
 ### 147
 
-De acuerdo con el libro de Historia Universal, de haberse anexado el emirato, ¿en qué lugar habría quedado Irak como reserva petrolera de la región?
+En relación con el libro de Historia Universal, de haberse anexado el emirato, ¿en qué lugar habría quedado Irak como reserva petrolera de la región?
 
 - A. En el segundo, después de Arabia Saudita
 - B. En el primero, por delante de Arabia Saudita
@@ -2495,7 +2495,7 @@ De haberse anexado el emirato, Irak hubiese administrado 20% de las reservas mun
 
 ### 148
 
-De acuerdo con el libro de Historia Universal, según cálculos especializados, ¿qué porcentaje de las reservas probadas de petróleo del total mundial se encuentra en los países del golfo?
+De conformidad con el libro de Historia Universal, según cálculos especializados, ¿qué porcentaje de las reservas probadas de petróleo del total mundial se encuentra en los países del golfo?
 
 - A. Más de 65%
 - B. Más de 20%
@@ -2510,7 +2510,7 @@ Según cálculos especializados, en los países del golfo se encuentra más de 6
 
 ### 149
 
-De acuerdo con el libro de Historia Universal, desde el punto de vista de Estados Unidos, ¿cuál fue la razón principal para detener una invasión potencial a Kuwait?
+De conformidad con el libro de Historia Universal, desde el punto de vista de Estados Unidos, ¿cuál fue la razón principal para detener una invasión potencial a Kuwait?
 
 - A. El riesgo de que Irak también se apoderara de Arabia Saudita
 - B. El riesgo de que Irak se aliara con la Unión Soviética
@@ -2525,7 +2525,7 @@ Desde el punto de vista de Estados Unidos existió el riesgo de que Irak tambié
 
 ### 150
 
-De acuerdo con el libro de Historia Universal, ¿cuáles son los principales socios de Estados Unidos que dependen en gran medida del petróleo de esa región?
+En relación con el libro de Historia Universal, ¿cuáles son los principales socios de Estados Unidos que dependen en gran medida del petróleo de esa región?
 
 - A. Francia, Italia y sobre todo Japón
 - B. Gran Bretaña, Francia y Canadá
@@ -2544,7 +2544,7 @@ Un eventual control del petróleo por parte de Irak afectaría a Estados Unidos 
 
 ### 151
 
-De acuerdo con el libro de Historia Universal, ¿cuál fue un real motivo de la confrontación en el Golfo Pérsico?
+De conformidad con el libro de Historia Universal, ¿cuál fue un real motivo de la confrontación en el Golfo Pérsico?
 
 - A. El libre acceso y el control efectivo sobre los precios del petróleo
 - B. La defensa de la democracia y el respeto a la soberanía
@@ -2574,7 +2574,7 @@ Cronología del conflicto (agosto 1990-febrero 1991).
 
 ### 153
 
-De acuerdo con el libro de Historia Universal, ¿qué palacio, del Emir Al-Sabah, controlaron de inmediato las tropas iraquíes al invadir Kuwait?
+En relación con el libro de Historia Universal, ¿qué palacio, del Emir Al-Sabah, controlaron de inmediato las tropas iraquíes al invadir Kuwait?
 
 - A. El palacio Dasman
 - B. El palacio Al-Jumhuriya
@@ -2589,7 +2589,7 @@ Las tropas iraquíes invadieron Kuwait controlando de inmediato los puntos estra
 
 ### 154
 
-De acuerdo con el libro de Historia Universal, ¿con qué condición declaró Hussein estar dispuesto a resolver la crisis?
+De conformidad con el libro de Historia Universal, ¿con qué condición declaró Hussein estar dispuesto a resolver la crisis?
 
 - A. Si Israel se retiraba de los territorios ocupados en el Medio Oriente
 - B. Si se levantaba el embargo comercial de la Organización de las Naciones Unidas
@@ -2604,7 +2604,7 @@ También declaró estar dispuesto a resolver la crisis si Israel se retiraba de 
 
 ### 155
 
-De acuerdo con el libro de Historia Universal, ¿qué bandera tomó George Bush al convocar a la comunidad internacional a formar un ejército multinacional?
+En relación con el libro de Historia Universal, ¿qué bandera tomó George Bush al convocar a la comunidad internacional a formar un ejército multinacional?
 
 - A. La defensa de la democracia, el respeto a la soberanía y la paz en el mundo
 - B. El libre acceso y el control efectivo sobre los precios del petróleo
@@ -2619,7 +2619,7 @@ Convocó a la comunidad internacional a formar un ejército multinacional para c
 
 ### 156
 
-De acuerdo con el libro de Historia Universal, ¿cuántos países de la Liga Árabe participaron en la alianza anti iraquí?
+En relación con el libro de Historia Universal, ¿cuántos países de la Liga Árabe participaron en la alianza anti iraquí?
 
 - A. 12 de 20
 - B. 20 de 28
@@ -2634,7 +2634,7 @@ En poco tiempo, Estados Unidos logró consolidar la alianza anti iraquí, en la 
 
 ### 157
 
-De acuerdo con el libro de Historia Universal, en la alianza anti iraquí, ¿qué dos países participaron sólo económicamente?
+De conformidad con el libro de Historia Universal, en la alianza anti iraquí, ¿qué dos países participaron sólo económicamente?
 
 - A. Alemania y Japón
 - B. Francia y Canadá
@@ -2649,7 +2649,7 @@ Participaron 28 países de diversas tendencias, entre ellos Gran Bretaña, Franc
 
 ### 158
 
-De acuerdo con el libro de Historia Universal, ¿qué pretendía, en primer lugar, la operación "Escudo del Desierto"?
+De conformidad con el libro de Historia Universal, ¿qué pretendía, en primer lugar, la operación "Escudo del Desierto"?
 
 - A. Defender a Israel y a Arabia Saudita de una agresión iraquí
 - B. Exigir la retirada de los ejércitos iraquíes
@@ -2664,7 +2664,7 @@ Encabezada por los norteamericanos, inició la operación "Escudo del Desierto",
 
 ### 159
 
-De acuerdo con el libro de Historia Universal, ¿cómo se les llamó a los cazabombarderos Stealth F117, capaces de evadir el radar?
+En relación con el libro de Historia Universal, ¿cómo se les llamó a los cazabombarderos Stealth F117, capaces de evadir el radar?
 
 - A. Aviones invisibles
 - B. Aviones fantasma
@@ -2679,7 +2679,7 @@ Contaron con armamentos sofisticados tecnológicamente, como los cazabombarderos
 
 ### 160
 
-De acuerdo con el libro de Historia Universal, ¿cuántos hombres concentraron las fuerzas multinacionales?
+De conformidad con el libro de Historia Universal, ¿cuántos hombres concentraron las fuerzas multinacionales?
 
 - A. Más de 605 mil hombres
 - B. 540 mil hombres
@@ -2694,7 +2694,7 @@ Las fuerzas multinacionales concentraron a más de 605 mil hombres, el contingen
 
 ### 161
 
-De acuerdo con el libro de Historia Universal, ¿desde qué guerra no se reunía un contingente militar tan numeroso como el de las fuerzas multinacionales?
+En relación con el libro de Historia Universal, ¿desde qué guerra no se reunía un contingente militar tan numeroso como el de las fuerzas multinacionales?
 
 - A. Desde la guerra de Vietnam
 - B. Desde la Guerra de Corea
@@ -2709,7 +2709,7 @@ Las fuerzas multinacionales concentraron a más de 605 mil hombres, el contingen
 
 ### 162
 
-De acuerdo con el libro de Historia Universal, ¿con cuántos hombres contó el ejército iraquí?
+En relación con el libro de Historia Universal, ¿con cuántos hombres contó el ejército iraquí?
 
 - A. 540 mil hombres
 - B. 605 mil hombres
@@ -2728,7 +2728,7 @@ Por su parte, el ejército iraquí sólo contó con 540 mil hombres.
 
 ### 163
 
-De acuerdo con el libro de Historia Universal, ¿cuántos tanques decía tener el ejército iraquí para combatir a los "infieles occidentales"?
+De conformidad con el libro de Historia Universal, ¿cuántos tanques decía tener el ejército iraquí para combatir a los "infieles occidentales"?
 
 - A. 4000 tanques
 - B. 2700 tanques
@@ -2773,7 +2773,7 @@ Más tarde, con la resolución 678, acordó el uso de la fuerza y estableció co
 
 ### 166
 
-De acuerdo con el libro de Historia Universal, ¿quién viajó a Irak para persuadir a Hussein, sin conseguirlo?
+En relación con el libro de Historia Universal, ¿quién viajó a Irak para persuadir a Hussein, sin conseguirlo?
 
 - A. Javier Pérez de Cuéllar, secretario general
 - B. George Bush
@@ -2788,7 +2788,7 @@ Incluso, el secretario general, Javier Pérez de Cuéllar, viajó a Irak para pe
 
 ### 167
 
-De acuerdo con el libro de Historia Universal, ¿dónde se efectuó, en septiembre de 1990, la reunión cumbre entre Bush y Gorbachov?
+En relación con el libro de Historia Universal, ¿dónde se efectuó, en septiembre de 1990, la reunión cumbre entre Bush y Gorbachov?
 
 - A. En Finlandia
 - B. En Moscú
@@ -2848,7 +2848,7 @@ Ninguna misión diplomática con el gobierno de Bagdad dio resultados positivos,
 
 ### 171
 
-De acuerdo con el libro de Historia Universal, ¿qué ciudades fueron destruidas por el bombardeo de las fuerzas multinacionales?
+En relación con el libro de Historia Universal, ¿qué ciudades fueron destruidas por el bombardeo de las fuerzas multinacionales?
 
 - A. Bagdad y Basora
 - B. Bagdad y Mosul
@@ -2863,7 +2863,7 @@ Las ciudades de Bagdad y Basora fueron destruidas y el bombardeo se volvió indi
 
 ### 172
 
-De acuerdo con el libro de Historia Universal, ¿cuántos misiles dirigió Irak a Arabia Saudita y cuántos misiles Scud contra Israel?
+De conformidad con el libro de Historia Universal, ¿cuántos misiles dirigió Irak a Arabia Saudita y cuántos misiles Scud contra Israel?
 
 - A. Cinco a Arabia Saudita y ocho Scud contra Israel
 - B. Ocho a Arabia Saudita y cinco Scud contra Israel
@@ -2893,7 +2893,7 @@ Estados Unidos solicitó a Israel no responder el ataque iraquí, a cambio le br
 
 ### 174
 
-De acuerdo con el libro de Historia Universal, ¿dónde obtuvo Irak una victoria terrestre?
+De conformidad con el libro de Historia Universal, ¿dónde obtuvo Irak una victoria terrestre?
 
 - A. En Khafji
 - B. En Basora
@@ -2908,7 +2908,7 @@ A pesar de que Irak obtuvo una victoria terrestre en Khafji y convocó a la Guer
 
 ### 175
 
-De acuerdo con el libro de Historia Universal, ¿cómo denominó Irak a la Guerra Santa que convocó?
+De conformidad con el libro de Historia Universal, ¿cómo denominó Irak a la Guerra Santa que convocó?
 
 - A. "La Madre de todas Guerras"
 - B. "Tormenta del Desierto"
@@ -2938,7 +2938,7 @@ Fue perdiendo terreno ante el ataque aliado, ya que más de 55 mil misiones aér
 
 ### 177
 
-De acuerdo con el libro de Historia Universal, ¿en qué fecha ordenó Hussein la retirada de sus fuerzas?
+En relación con el libro de Historia Universal, ¿en qué fecha ordenó Hussein la retirada de sus fuerzas?
 
 - A. El 25 de febrero
 - B. El 28 de febrero
@@ -2968,7 +2968,7 @@ Ante ello, el 25 de febrero Hussein ordenó la retirada de sus fuerzas, no sin a
 
 ### 179
 
-De acuerdo con el libro de Historia Universal, ¿en qué fecha finalizaron las hostilidades?
+En relación con el libro de Historia Universal, ¿en qué fecha finalizaron las hostilidades?
 
 - A. El 28 de febrero
 - B. El 25 de febrero
@@ -2983,7 +2983,7 @@ Finalmente, el 28 de febrero finalizaron las hostilidades.
 
 ### 180
 
-De acuerdo con el libro de Historia Universal, ¿en cuánto estimaba Kuwait la deuda por concepto de reparación de guerra?
+De conformidad con el libro de Historia Universal, ¿en cuánto estimaba Kuwait la deuda por concepto de reparación de guerra?
 
 - A. En 300 mil millones de dólares
 - B. En 200 mil millones de dólares
@@ -3013,7 +3013,7 @@ Al respecto, Jacques Marseill, catedrático de Historia Económica de la Univers
 
 ### 182
 
-De acuerdo con el libro de Historia Universal, ¿a cuánto llegaron las pérdidas en Irak causadas por los bombardeos aliados?
+En relación con el libro de Historia Universal, ¿a cuánto llegaron las pérdidas en Irak causadas por los bombardeos aliados?
 
 - A. A los 200 mil millones de dólares
 - B. A los 300 mil millones de dólares
@@ -3032,7 +3032,7 @@ Se calcula que las pérdidas en Irak causadas por los bombardeos aliados llegaro
 
 ### 183
 
-De acuerdo con el libro de Historia Universal, ¿cuántos fueron los prisioneros iraquíes?
+De conformidad con el libro de Historia Universal, ¿cuántos fueron los prisioneros iraquíes?
 
 - A. Más de 175 mil
 - B. Más de 55 mil
@@ -3092,7 +3092,7 @@ Estados Unidos fue el ganador indiscutible y se reafirmó como potencia mundial.
 
 ### 187
 
-De acuerdo con el libro de Historia Universal, ¿cuántos barriles de petróleo se derramaron sobre las aguas del Golfo?
+En relación con el libro de Historia Universal, ¿cuántos barriles de petróleo se derramaron sobre las aguas del Golfo?
 
 - A. Más de 10 millones de barriles
 - B. Más de 100 millones de barriles
@@ -3107,7 +3107,7 @@ El derrame de más de 10 millones de barriles de petróleo sobre las aguas del G
 
 ### 188
 
-De acuerdo con el libro de Historia Universal, ¿de cuánto fue el gasto diario de las fuerzas multinacionales?
+De conformidad con el libro de Historia Universal, ¿de cuánto fue el gasto diario de las fuerzas multinacionales?
 
 - A. De 750 millones de dólares
 - B. De 300 mil millones de dólares
@@ -3137,7 +3137,7 @@ El consejo de seguridad de la ONU impuso a Irak la destrucción de sus arsenales
 
 ### 190
 
-De acuerdo con el libro de Historia Universal, ¿dónde se fijaron las zonas de exclusión para proteger a la población chiíta?
+De conformidad con el libro de Historia Universal, ¿dónde se fijaron las zonas de exclusión para proteger a la población chiíta?
 
 - A. Al sur del paralelo 32
 - B. Al norte del paralelo 36
@@ -3152,7 +3152,7 @@ Además le fijó zonas de exclusión al sur del paralelo 32, en la que sus avion
 
 ### 191
 
-De acuerdo con el libro de Historia Universal, ¿qué paralelo se estableció como frontera en el norte, para evitar que el ejército iraquí castigara al pueblo kurdo?
+En relación con el libro de Historia Universal, ¿qué paralelo se estableció como frontera en el norte, para evitar que el ejército iraquí castigara al pueblo kurdo?
 
 - A. El paralelo 36
 - B. El paralelo 32
@@ -3167,7 +3167,7 @@ Mientras que en el norte se estableció como frontera el paralelo 36, para evita
 
 ### 192
 
-De acuerdo con el libro de Historia Universal, ¿después de cuánto tiempo recibió el mundo con júbilo el fin del conflicto?
+En relación con el libro de Historia Universal, ¿después de cuánto tiempo recibió el mundo con júbilo el fin del conflicto?
 
 - A. Después de seis semanas
 - B. Después de seis meses
@@ -3182,7 +3182,7 @@ Si bien el mundo recibió con júbilo el fin del conflicto después de seis sema
 
 ### 193
 
-De acuerdo con el libro de Historia Universal, ¿cómo se desarrolló la guerra, en su momento la más difundida de la historia?
+En relación con el libro de Historia Universal, ¿cómo se desarrolló la guerra, en su momento la más difundida de la historia?
 
 - A. En el secreto de la censura militar
 - B. Bajo la cobertura permanente de la prensa internacional
@@ -3201,7 +3201,7 @@ La guerra, en su momento la más difundida de la historia, se desarrolló en el 
 
 ### 194
 
-De acuerdo con el libro de Historia Universal, ¿en qué año fue creada la Unión de Repúblicas Soviéticas Socialistas?
+En relación con el libro de Historia Universal, ¿en qué año fue creada la Unión de Repúblicas Soviéticas Socialistas?
 
 - A. En 1922
 - B. En 1924
@@ -3216,7 +3216,7 @@ Después del triunfo de la Revolución Rusa, en 1922, fue creada la Unión de Re
 
 ### 195
 
-De acuerdo con el libro de Historia Universal, ¿entre quiénes surgió una pugna por la sucesión al poder del Kremlin con la muerte de Lenin, en 1924?
+En relación con el libro de Historia Universal, ¿entre quiénes surgió una pugna por la sucesión al poder del Kremlin con la muerte de Lenin, en 1924?
 
 - A. Entre José Stalin y León Trotski
 - B. Entre José Stalin y Nikita Kruschev
@@ -3231,7 +3231,7 @@ Con la muerte de Lenin, en 1924, surgió una pugna entre José Stalin, Secretari
 
 ### 196
 
-De acuerdo con el libro de Historia Universal, ¿de qué fue creador León Trotski?
+En relación con el libro de Historia Universal, ¿de qué fue creador León Trotski?
 
 - A. Del Ejército Rojo
 - B. Del Partido Comunista
@@ -3246,7 +3246,7 @@ Surgió una pugna entre José Stalin, Secretario General del Partido Comunista, 
 
 ### 197
 
-De acuerdo con el libro de Historia Universal, ¿qué buscaba Stalin y qué creía Trotski?
+En relación con el libro de Historia Universal, ¿qué buscaba Stalin y qué creía Trotski?
 
 - A. Stalin la consolidación del socialismo en la URSS y Trotski la revolución permanente
 - B. Stalin la revolución permanente y Trotski la consolidación del socialismo en la URSS
@@ -3261,7 +3261,7 @@ El primero buscaba la consolidación del socialismo en la URSS, mientras que el 
 
 ### 198
 
-De acuerdo con el libro de Historia Universal, ¿en qué año controló Stalin el poder y expulsó del partido a su rival?
+De conformidad con el libro de Historia Universal, ¿en qué año controló Stalin el poder y expulsó del partido a su rival?
 
 - A. En 1927
 - B. En 1924
@@ -3276,7 +3276,7 @@ Estas diferencias político-ideológicas fueron motivo de años de confrontació
 
 ### 199
 
-De acuerdo con el libro de Historia Universal, ¿dónde y en qué fecha fue asesinado Trotski?
+En relación con el libro de Historia Universal, ¿dónde y en qué fecha fue asesinado Trotski?
 
 - A. En México, en agosto de 1940
 - B. En Europa, en agosto de 1940
@@ -3291,7 +3291,7 @@ El cual se exilió primero en Europa y más tarde en México, donde fue asesinad
 
 ### 200
 
-De acuerdo con el libro de Historia Universal, ¿en qué año inició José Stalin la construcción del socialismo mediante el establecimiento de planes quinquenales?
+De conformidad con el libro de Historia Universal, ¿en qué año inició José Stalin la construcción del socialismo mediante el establecimiento de planes quinquenales?
 
 - A. En 1928
 - B. En 1927
@@ -3306,7 +3306,7 @@ José Stalin (1879-1953) inició, en 1928, la construcción del socialismo media
 
 ### 201
 
-De acuerdo con el libro de Historia Universal, ¿quiénes se opusieron de manera especial a la colectivización agraria?
+De conformidad con el libro de Historia Universal, ¿quiénes se opusieron de manera especial a la colectivización agraria?
 
 - A. Los *kulaks* o grandes terratenientes
 - B. Los *koljoces* o granjas colectivas
@@ -3336,7 +3336,7 @@ La organización del campo se complementó con la implantación de granjas estat
 
 ### 203
 
-De acuerdo con el libro de Historia Universal, ¿cuáles fueron sujetas a mayores cargas fiscales?
+De conformidad con el libro de Historia Universal, ¿cuáles fueron sujetas a mayores cargas fiscales?
 
 - A. Las granjas colectivas
 - B. Las granjas estatales
@@ -3351,7 +3351,7 @@ Granjas estatales (*sovjoces*) y de granjas colectivas (*koljoces*), unas y otra
 
 ### 204
 
-De acuerdo con el libro de Historia Universal, ¿a qué se dio prioridad para convertirla en la base de la modernización del sector?
+De conformidad con el libro de Historia Universal, ¿a qué se dio prioridad para convertirla en la base de la modernización del sector?
 
 - A. A la industria pesada
 - B. A la colectivización agraria
@@ -3396,7 +3396,7 @@ Ante la inminente amenaza del nazismo, los objetivos del Tercer Plan Quinquenal,
 
 ### 207
 
-De acuerdo con el libro de Historia Universal, ¿a qué se enfocaron las metas del Cuarto Plan Quinquenal?
+De conformidad con el libro de Historia Universal, ¿a qué se enfocaron las metas del Cuarto Plan Quinquenal?
 
 - A. A la reconstrucción del territorio devastado por la guerra
 - B. A la construcción de armamento y maquinaria bélica
@@ -3411,7 +3411,7 @@ Una vez que el pueblo ruso salió airoso de la segunda conflagración mundial, l
 
 ### 208
 
-De acuerdo con el libro de Historia Universal, ¿hacia qué se orientó toda expresión artística y cultural?
+De conformidad con el libro de Historia Universal, ¿hacia qué se orientó toda expresión artística y cultural?
 
 - A. Hacia el llamado "realismo socialista"
 - B. Hacia el culto a la personalidad
@@ -3426,7 +3426,7 @@ Se incrementaron las campañas de mayor adoctrinamiento ideológico para la soci
 
 ### 209
 
-De acuerdo con el libro de Historia Universal, ¿qué país fue la excepción entre los países socialistas de Europa del Este liderados por la URSS?
+En relación con el libro de Historia Universal, ¿qué país fue la excepción entre los países socialistas de Europa del Este liderados por la URSS?
 
 - A. Yugoslavia
 - B. Hungría
@@ -3441,7 +3441,7 @@ En cuanto a política exterior, la URSS lideró a los países socialistas de Eur
 
 ### 210
 
-De acuerdo con el libro de Historia Universal, ¿qué era la Cominform y en qué año fue creada?
+De conformidad con el libro de Historia Universal, ¿qué era la Cominform y en qué año fue creada?
 
 - A. La Oficina Comunista de Información, creada en 1947
 - B. La Oficina Comunista Internacional, creada en 1947
@@ -3456,7 +3456,7 @@ Por medio de la Cominform, Oficina Comunista de Información, creada en 1947, qu
 
 ### 211
 
-De acuerdo con el libro de Historia Universal, ¿para qué creó la URSS el Consejo de Asistencia Económica Mutua?
+En relación con el libro de Historia Universal, ¿para qué creó la URSS el Consejo de Asistencia Económica Mutua?
 
 - A. Para supeditar la economía de los países de su órbita hacia sus propios objetivos económicos
 - B. Para establecer las directrices a seguir por el bloque
@@ -3471,7 +3471,7 @@ Mediante la creación del Consejo de Asistencia Económica Mutua (CAME), la URSS
 
 ### 212
 
-De acuerdo con el libro de Historia Universal, ante el cerco capitalista establecido por los países occidentales, ¿qué desarrolló muy especialmente la nación soviética?
+En relación con el libro de Historia Universal, ante el cerco capitalista establecido por los países occidentales, ¿qué desarrolló muy especialmente la nación soviética?
 
 - A. Su armamento nuclear
 - B. La industria pesada
@@ -3486,7 +3486,7 @@ Ante el cerco capitalista establecido por los países occidentales, la nación s
 
 ### 213
 
-De acuerdo con el libro de Historia Universal, ¿en qué países se propiciaron levantamientos que motivaron la intervención soviética en 1956?
+En relación con el libro de Historia Universal, ¿en qué países se propiciaron levantamientos que motivaron la intervención soviética en 1956?
 
 - A. En Hungría y Polonia
 - B. En Yugoslavia y Hungría
@@ -3505,7 +3505,7 @@ En Hungría y Polonia se propiciaron levantamientos que motivaron la intervenci�
 
 ### 214
 
-De acuerdo con el libro de Historia Universal, ¿quiénes se disputaron el poder a la muerte de Stalin en 1953?
+De conformidad con el libro de Historia Universal, ¿quiénes se disputaron el poder a la muerte de Stalin en 1953?
 
 - A. Malenkov, Molotov y Kruschev
 - B. Kruschev, Brezhnev y Andropov
@@ -3520,7 +3520,7 @@ A la muerte de Stalin en 1953, se disputaron el poder Malenkov, ministro de Asun
 
 ### 215
 
-De acuerdo con el libro de Historia Universal, ¿qué cargo tenía Malenkov?
+De conformidad con el libro de Historia Universal, ¿qué cargo tenía Malenkov?
 
 - A. Ministro de Asuntos Exteriores
 - B. Jefe de la Policía Secreta
@@ -3550,7 +3550,7 @@ Se disputaron el poder Malenkov, ministro de Asuntos Exteriores, Molotov, jefe d
 
 ### 217
 
-De acuerdo con el libro de Historia Universal, ¿en qué año asumió Kruschev el poder?
+En relación con el libro de Historia Universal, ¿en qué año asumió Kruschev el poder?
 
 - A. En 1958
 - B. En 1953
@@ -3580,7 +3580,7 @@ Nikita Sergeieveich Kruschev (1894-1971) inició su mandato con una denuncia con
 
 ### 219
 
-De acuerdo con el libro de Historia Universal, ¿cómo se conoció la política de Kruschev cuyo objetivo era desestalinizar, poco a poco, al partido comunista y a la sociedad rusa?
+De conformidad con el libro de Historia Universal, ¿cómo se conoció la política de Kruschev cuyo objetivo era desestalinizar, poco a poco, al partido comunista y a la sociedad rusa?
 
 - A. Del "deshielo" o del "nuevo curso"
 - B. De la Coexistencia Pacífica
@@ -3595,7 +3595,7 @@ Inició su mandato con una denuncia contra Stalin, que en la práctica se convir
 
 ### 220
 
-De acuerdo con el libro de Historia Universal, ¿qué pretendió incrementar Nikita favoreciendo para ello al agro?
+En relación con el libro de Historia Universal, ¿qué pretendió incrementar Nikita favoreciendo para ello al agro?
 
 - A. La producción de bienes de consumo
 - B. La producción de la industria pesada
@@ -3610,7 +3610,7 @@ Nikita pretendió incrementar la producción de bienes de consumo favoreciendo p
 
 ### 221
 
-De acuerdo con el libro de Historia Universal, ¿en qué se manifestó también la autonomía impulsada por Kruschev?
+De conformidad con el libro de Historia Universal, ¿en qué se manifestó también la autonomía impulsada por Kruschev?
 
 - A. En el respeto a las nacionalidades
 - B. En la libre expresión en todos los aspectos de la vida social
@@ -3625,7 +3625,7 @@ Impulsó la descentralización económica y la autogestión, pretendiendo libera
 
 ### 222
 
-De acuerdo con el libro de Historia Universal, Kruschev inició el proceso de distensión internacional con la aplicación de la política de Coexistencia Pacífica, ¿pero sin renunciar a qué?
+De conformidad con el libro de Historia Universal, Kruschev inició el proceso de distensión internacional con la aplicación de la política de Coexistencia Pacífica, ¿pero sin renunciar a qué?
 
 - A. Al socialismo
 - B. A la carrera armamentista
@@ -3640,7 +3640,7 @@ Kruschev inició el proceso de distensión internacional con la aplicación de l
 
 ### 223
 
-De acuerdo con el libro de Historia Universal, ¿qué ocasionó la llamada "Crisis del Caribe"?
+En relación con el libro de Historia Universal, ¿qué ocasionó la llamada "Crisis del Caribe"?
 
 - A. Que la URSS pretendiera instalar misiles en Cuba, en 1962
 - B. Que la URSS influyera en la construcción del "Muro de Berlín", en 1961
@@ -3655,7 +3655,7 @@ La paz mundial se vio amenazada cuando la URSS influyó en la construcción del 
 
 ### 224
 
-De acuerdo con el libro de Historia Universal, ¿cuál fue el primer satélite artificial lanzado por la Unión Soviética y en qué año?
+De conformidad con el libro de Historia Universal, ¿cuál fue el primer satélite artificial lanzado por la Unión Soviética y en qué año?
 
 - A. El Sputnik, en 1957
 - B. El Sputnik, en 1963
@@ -3685,7 +3685,7 @@ Ante el fracaso de la política agraria y por la crisis interna que se manifesta
 
 ### 226
 
-De acuerdo con el libro de Historia Universal, ¿qué política instrumentó Brezhnev, que provocó serias restricciones a las libertades de la sociedad?
+De conformidad con el libro de Historia Universal, ¿qué política instrumentó Brezhnev, que provocó serias restricciones a las libertades de la sociedad?
 
 - A. Una política neoestalinista
 - B. La política del "deshielo"
@@ -3700,7 +3700,7 @@ Siendo reemplazado por Leonid Brezhnev (1910-1982), quien instrumentó una polí
 
 ### 227
 
-De acuerdo con el libro de Historia Universal, en el terreno económico, ¿qué impulsó y qué descuidó Brezhnev?
+En relación con el libro de Historia Universal, en el terreno económico, ¿qué impulsó y qué descuidó Brezhnev?
 
 - A. Impulsó la industria pesada y descuidó la industria ligera y el campo
 - B. Impulsó la industria ligera y descuidó la industria pesada
@@ -3715,7 +3715,7 @@ En el terreno económico, impulsó notablemente a la industria pesada, pero desc
 
 ### 228
 
-De acuerdo con el libro de Historia Universal, ¿qué permitía la "Doctrina Brezhnev"?
+De conformidad con el libro de Historia Universal, ¿qué permitía la "Doctrina Brezhnev"?
 
 - A. La intervención soviética en países socialistas donde el sistema comunista se viera amenazado
 - B. La descentralización económica y la autogestión
@@ -3730,7 +3730,7 @@ En cuanto a su política exterior, mantuvo el control mediante la "Doctrina Brez
 
 ### 229
 
-De acuerdo con el libro de Historia Universal, ¿qué conflicto se conoce como la "Primavera de Praga"?
+En relación con el libro de Historia Universal, ¿qué conflicto se conoce como la "Primavera de Praga"?
 
 - A. La intervención soviética en Checoslovaquia, en agosto de 1968
 - B. Los levantamientos en Hungría y Polonia, en 1956
@@ -3760,7 +3760,7 @@ En la época de Brezhnev se agudizaron las diferencias entre el socialismo ruso 
 
 ### 231
 
-De acuerdo con el libro de Historia Universal, ¿quién sucedió a Brezhnev a su muerte, en noviembre de 1982?
+En relación con el libro de Historia Universal, ¿quién sucedió a Brezhnev a su muerte, en noviembre de 1982?
 
 - A. Yuri Andropov
 - B. Konstantin Chernenco
@@ -3775,7 +3775,7 @@ A la muerte de Brezhnev, en noviembre de 1982, le sucedió Yuri Andropov, quien,
 
 ### 232
 
-De acuerdo con el libro de Historia Universal, ¿qué predominaba en la cúpula del Partido Comunista durante el breve gobierno de Andropov y Chernenco?
+De conformidad con el libro de Historia Universal, ¿qué predominaba en la cúpula del Partido Comunista durante el breve gobierno de Andropov y Chernenco?
 
 - A. Los viejos líderes con ideas conservadoras
 - B. Los nuevos dirigentes que sostenían la necesidad de cambios
@@ -3824,7 +3824,7 @@ Hombre de gran preparación, abogado y economista especializado y con experienci
 
 ### 235
 
-De acuerdo con el libro de Historia Universal, ¿dónde ocupó Gorbachov diferentes cargos administrativos y políticos del partido entre 1956 y 1970?
+De conformidad con el libro de Historia Universal, ¿dónde ocupó Gorbachov diferentes cargos administrativos y políticos del partido entre 1956 y 1970?
 
 - A. En su natal Stavropol
 - B. En Moscú
@@ -3839,7 +3839,7 @@ Entre 1956 y 1970 ocupó diferentes cargos administrativos y políticos del part
 
 ### 236
 
-De acuerdo con el libro de Historia Universal, ¿en qué año fue admitido Gorbachov en el Comité Central del Partido Comunista de la Unión Soviética?
+En relación con el libro de Historia Universal, ¿en qué año fue admitido Gorbachov en el Comité Central del Partido Comunista de la Unión Soviética?
 
 - A. En 1971
 - B. En 1970
@@ -3869,7 +3869,7 @@ Posición que le permitió cumplir con diversas comisiones en el extranjero, des
 
 ### 238
 
-De acuerdo con el libro de Historia Universal, al llegar al poder, ¿de qué se percató Gorbachov respecto del gran capital destinado al constante incremento de las fuerzas armadas?
+De conformidad con el libro de Historia Universal, al llegar al poder, ¿de qué se percató Gorbachov respecto del gran capital destinado al constante incremento de las fuerzas armadas?
 
 - A. Que repercutía gravemente en el terreno económico
 - B. Que garantizaba la hegemonía soviética a nivel mundial
@@ -3899,7 +3899,7 @@ El desarrollo desproporcionado y unilateral de ciertas ramas de la industria, co
 
 ### 240
 
-De acuerdo con el libro de Historia Universal, ¿mediante qué dos programas trató Gorbachov de cambiar a la sociedad rusa?
+De conformidad con el libro de Historia Universal, ¿mediante qué dos programas trató Gorbachov de cambiar a la sociedad rusa?
 
 - A. La *Perestroika* y la *Glasnost*
 - B. El "deshielo" y el "nuevo curso"
@@ -3914,7 +3914,7 @@ Gorbachov trató de cambiar a la sociedad rusa a través de grandes transformaci
 
 ### 241
 
-De acuerdo con el libro de Historia Universal, ¿qué significa *Perestroika*?
+De conformidad con el libro de Historia Universal, ¿qué significa *Perestroika*?
 
 - A. Reestructuración o renovación
 - B. Transparencia en toda la vida social
@@ -3929,7 +3929,7 @@ Mediante dos programas: la *Perestroika* (reestructuración o renovación), y la
 
 ### 242
 
-De acuerdo con el libro de Historia Universal, ¿qué significa *Glasnost*?
+En relación con el libro de Historia Universal, ¿qué significa *Glasnost*?
 
 - A. Transparencia en toda la vida social
 - B. Reestructuración o renovación
@@ -3948,7 +3948,7 @@ Mediante dos programas: la *Perestroika* (reestructuración o renovación), y la
 
 ### 243
 
-De acuerdo con el libro de Historia Universal, ¿qué pretendía la *Perestroika* en sus aspectos económicos?
+En relación con el libro de Historia Universal, ¿qué pretendía la *Perestroika* en sus aspectos económicos?
 
 - A. Superar el estancamiento económico en busca de nuevos mecanismos que aceleraran el progreso social
 - B. Consolidar la economía estatal rusa
@@ -3978,7 +3978,7 @@ Con la finalidad de transformar la economía estatal rusa en una economía de li
 
 ### 245
 
-De acuerdo con el libro de Historia Universal, entre las características de la *Perestroika*, ¿qué papel tendría el Estado en las actividades económicas?
+En relación con el libro de Historia Universal, entre las características de la *Perestroika*, ¿qué papel tendría el Estado en las actividades económicas?
 
 - A. No intervendría en las actividades económicas
 - B. Intervendría sólo en la industria pesada
@@ -3993,7 +3993,7 @@ El Estado no intervendría en las actividades económicas.
 
 ### 246
 
-De acuerdo con el libro de Historia Universal, ¿con qué miras se liberarían las empresas estatales?
+En relación con el libro de Historia Universal, ¿con qué miras se liberarían las empresas estatales?
 
 - A. Con miras a la privatización y al establecimiento de la inversión extranjera
 - B. Con miras a la autogestión de los trabajadores
@@ -4008,7 +4008,7 @@ Se liberarían las empresas estatales con miras a la privatización y al estable
 
 ### 247
 
-De acuerdo con el libro de Historia Universal, ¿con qué propósito se implantaría la competencia de los productores?
+De conformidad con el libro de Historia Universal, ¿con qué propósito se implantaría la competencia de los productores?
 
 - A. Mejorar la calidad de los productos, disminuir los costos y lograr la estabilidad de los precios
 - B. Incrementar la producción de la industria pesada
@@ -4053,7 +4053,7 @@ El cumplimiento de estos objetivos estuvo directamente vinculado a la reestructu
 
 ### 250
 
-De acuerdo con el libro de Historia Universal, en los aspectos políticos, ¿a qué estuvo ligado el proceso de democratización de la sociedad?
+En relación con el libro de Historia Universal, en los aspectos políticos, ¿a qué estuvo ligado el proceso de democratización de la sociedad?
 
 - A. A la aplicación de la *Glasnost*
 - B. A la aplicación de la *Perestroika*
@@ -4117,7 +4117,7 @@ Reestructurar el pacto federal, propiciando la mayor autonomía de las repúblic
 
 ### 254
 
-De acuerdo con el libro de Historia Universal, entre las acciones políticas, ¿qué liberación se contemplaba?
+De conformidad con el libro de Historia Universal, entre las acciones políticas, ¿qué liberación se contemplaba?
 
 - A. La de las personas encarceladas por disentir con el sistema
 - B. La de las empresas estatales
@@ -4147,7 +4147,7 @@ Para lograr todos los aspectos señalados y superar las contradicciones entre el
 
 ### 256
 
-De acuerdo con el libro de Historia Universal, ¿con qué finalidad se promovían medidas tendientes a reconciliarse con las potencias occidentales e incorporarse al mundo capitalista?
+De conformidad con el libro de Historia Universal, ¿con qué finalidad se promovían medidas tendientes a reconciliarse con las potencias occidentales e incorporarse al mundo capitalista?
 
 - A. Con la finalidad de equilibrar su economía
 - B. Con la finalidad de reducir el aparato militar
@@ -4177,7 +4177,7 @@ Firma con Estados Unidos de un acuerdo para el desarme nuclear estratégico.
 
 ### 258
 
-De acuerdo con el libro de Historia Universal, ¿qué permitiría reducir significativamente los gastos militares?
+De conformidad con el libro de Historia Universal, ¿qué permitiría reducir significativamente los gastos militares?
 
 - A. El retiro de tropas de la Europa del Este
 - B. El desarme nuclear estratégico
@@ -4192,7 +4192,7 @@ Reducir significativamente gastos militares, lo que permitiría el retiro de tro
 
 ### 259
 
-De acuerdo con el libro de Historia Universal, en la promoción de un nuevo orden internacional, ¿quién desempeñará el papel dirigente?
+De conformidad con el libro de Historia Universal, en la promoción de un nuevo orden internacional, ¿quién desempeñará el papel dirigente?
 
 - A. La ONU
 - B. La Comunidad de Estados Independientes
@@ -4237,7 +4237,7 @@ En 1987, el Soviet Supremo aprobó la ley de la Empresa Socialista, con la final
 
 ### 262
 
-De acuerdo con el libro de Historia Universal, ¿qué se firmó con Estados Unidos en 1987?
+De conformidad con el libro de Historia Universal, ¿qué se firmó con Estados Unidos en 1987?
 
 - A. Un primer tratado para eliminar armas nucleares de corto y mediano alcance
 - B. Un acuerdo para el desarme nuclear estratégico
@@ -4267,7 +4267,7 @@ En 1988, se anunció el retiro de los ejércitos de Afganistán.
 
 ### 264
 
-De acuerdo con el libro de Historia Universal, un año más tarde, ¿qué primeros pasos se dieron y qué se celebró?
+De conformidad con el libro de Historia Universal, un año más tarde, ¿qué primeros pasos se dieron y qué se celebró?
 
 - A. Los primeros pasos para descentralizar la agricultura y las primeras elecciones libres
 - B. Los primeros pasos para privatizar la industria y las primeras elecciones libres
@@ -4297,7 +4297,7 @@ En 1989, Polonia, Hungría, Alemania Democrática, Bulgaria, Checoslovaquia y Ru
 
 ### 266
 
-De acuerdo con el libro de Historia Universal, ¿qué provocaron esas revoluciones populares?
+En relación con el libro de Historia Universal, ¿qué provocaron esas revoluciones populares?
 
 - A. El derrocamiento de sus gobiernos y la disolución de los partidos comunistas
 - B. La anulación del Pacto Ribbentrop Molotov
@@ -4327,7 +4327,7 @@ Ese mismo año, desapareció el muro de Berlín, Alemania se reunificó un año 
 
 ### 268
 
-De acuerdo con el libro de Historia Universal, ¿por qué dejó de cumplir su función el Pacto de Varsovia?
+En relación con el libro de Historia Universal, ¿por qué dejó de cumplir su función el Pacto de Varsovia?
 
 - A. Porque era una alianza militar signada por países con regímenes socialistas y éstos de hecho ya no existen
 - B. Porque la Unión Soviética retiró sus tropas de la Europa del Este
@@ -4346,7 +4346,7 @@ El Pacto de Varsovia dejó de cumplir su función, ya que era una alianza milita
 
 ### 269
 
-De acuerdo con el libro de Historia Universal, ¿quiénes dieron el primer paso en el proceso de desintegración de la Unión Soviética?
+En relación con el libro de Historia Universal, ¿quiénes dieron el primer paso en el proceso de desintegración de la Unión Soviética?
 
 - A. Las Repúblicas Bálticas
 - B. La Federación Rusa
@@ -4376,7 +4376,7 @@ El primer paso lo dieron las Repúblicas Bálticas, al exigir la anulación del 
 
 ### 271
 
-De acuerdo con el libro de Historia Universal, ¿en qué año se había anexado la URSS a las Repúblicas Bálticas mediante ese pacto?
+En relación con el libro de Historia Universal, ¿en qué año se había anexado la URSS a las Repúblicas Bálticas mediante ese pacto?
 
 - A. En 1939
 - B. En 1945
@@ -4436,7 +4436,7 @@ Un acontecimiento que precipitó el desmembramiento fue el intento de golpe de E
 
 ### 275
 
-De acuerdo con el libro de Historia Universal, ¿quién comandó a los dirigentes conservadores que organizaron el intento de golpe de Estado?
+En relación con el libro de Historia Universal, ¿quién comandó a los dirigentes conservadores que organizaron el intento de golpe de Estado?
 
 - A. El vicepresidente del partido Guennadi Yanayev
 - B. Boris Yeltsin, jefe de gobierno en la Federación Rusa
@@ -4466,7 +4466,7 @@ Comandados por el vicepresidente del partido Guennadi Yanayev, quien pretendió 
 
 ### 277
 
-De acuerdo con el libro de Historia Universal, ¿quién encabezó al pueblo que no permitió que la intentona fructificara?
+En relación con el libro de Historia Universal, ¿quién encabezó al pueblo que no permitió que la intentona fructificara?
 
 - A. Boris Yeltsin, jefe de gobierno en la Federación Rusa
 - B. Mijail Gorbachov
@@ -4481,7 +4481,7 @@ Pero el pueblo, encabezado por Boris Yeltsin, jefe de gobierno en la Federación
 
 ### 278
 
-De acuerdo con el libro de Historia Universal, ¿qué ocurrió como consecuencia de esa acción?
+De conformidad con el libro de Historia Universal, ¿qué ocurrió como consecuencia de esa acción?
 
 - A. Se proscribió el Partido Comunista
 - B. Se disolvió el Pacto de Varsovia
@@ -4511,7 +4511,7 @@ Las Repúblicas de Rusia, Ucrania y Bielorrusia firmaron, el 4 de diciembre de 1
 
 ### 280
 
-De acuerdo con el libro de Historia Universal, ¿cómo se conoce el tratado firmado el 4 de diciembre de 1991?
+De conformidad con el libro de Historia Universal, ¿cómo se conoce el tratado firmado el 4 de diciembre de 1991?
 
 - A. Como el Tratado de Minsk
 - B. Como el Tratado de Alma-Ata
@@ -4526,7 +4526,7 @@ Un tratado para establecer la Comunidad de Estados Independientes, conocido como
 
 ### 281
 
-De acuerdo con el libro de Historia Universal, ¿cuántas repúblicas se unieron a la comunidad mediante el Tratado de Alma-Ata y en qué fecha?
+En relación con el libro de Historia Universal, ¿cuántas repúblicas se unieron a la comunidad mediante el Tratado de Alma-Ata y en qué fecha?
 
 - A. Otras ocho, el 21 de diciembre del mismo año
 - B. Otras once, el 21 de diciembre del mismo año
@@ -4541,7 +4541,7 @@ A esta comunidad se unieron otras ocho repúblicas mediante el Tratado de Alma-A
 
 ### 282
 
-De acuerdo con el libro de Historia Universal, ¿qué reconoció el Tratado de Alma-Ata y qué quedó pendiente?
+En relación con el libro de Historia Universal, ¿qué reconoció el Tratado de Alma-Ata y qué quedó pendiente?
 
 - A. Reconoció a los tres países bálticos como independientes y quedó pendiente la incorporación de Georgia
 - B. Reconoció la independencia de Georgia y quedó pendiente la de los países bálticos
@@ -4556,7 +4556,7 @@ Reconociendo a los tres países bálticos como independientes, quedando pendient
 
 ### 283
 
-De acuerdo con el libro de Historia Universal, ¿en qué fecha presentó Mijail Gorbachov su renuncia?
+En relación con el libro de Historia Universal, ¿en qué fecha presentó Mijail Gorbachov su renuncia?
 
 - A. El 25 de diciembre de 1991
 - B. El 21 de diciembre de 1991
@@ -4571,7 +4571,7 @@ Ante esto, Mijail Gorbachov presentó su renuncia el 25 de diciembre de 1991.
 
 ### 284
 
-De acuerdo con el libro de Historia Universal, ¿qué ocurrió oficialmente con la renuncia de Gorbachov?
+En relación con el libro de Historia Universal, ¿qué ocurrió oficialmente con la renuncia de Gorbachov?
 
 - A. Dejó de existir la Unión de Repúblicas Soviéticas Socialistas y surgió la Comunidad de Estados Independientes
 - B. Se proscribió el Partido Comunista
@@ -4601,7 +4601,7 @@ A la nueva Comunidad de Estados Independientes le quedan por resolver muchos pro
 
 ### 286
 
-De acuerdo con el libro de Historia Universal, ¿qué se puede concluir sobre los ideales socialistas?
+En relación con el libro de Historia Universal, ¿qué se puede concluir sobre los ideales socialistas?
 
 - A. Que entusiasmaron a varias generaciones de hombres y mujeres en todas partes del mundo
 - B. Que fracasaron definitivamente como proyecto de sociedad
@@ -4650,7 +4650,7 @@ Conforman el subcontinente latinoamericano en un sólido bloque de miembros unid
 
 ### 289
 
-De acuerdo con el libro de Historia Universal, ¿a partir de qué década sucedieron los gobiernos civiles a los regímenes dictatoriales?
+De conformidad con el libro de Historia Universal, ¿a partir de qué década sucedieron los gobiernos civiles a los regímenes dictatoriales?
 
 - A. A partir de la década de los ochenta
 - B. A partir de la década de los noventa
@@ -4665,7 +4665,7 @@ Lucha por consolidar la democracia estableciendo gobiernos civiles que, a partir
 
 ### 290
 
-De acuerdo con el libro de Historia Universal, ¿qué porcentaje de las reservas de níquel posee Cuba?
+De conformidad con el libro de Historia Universal, ¿qué porcentaje de las reservas de níquel posee Cuba?
 
 - A. El 10%
 - B. El 11%
@@ -4695,7 +4695,7 @@ República Dominicana es dueña de fosfatos naturales, cobalto, mármol y sal.
 
 ### 292
 
-De acuerdo con el libro de Historia Universal, ¿en qué países de Sudamérica se encuentra petróleo?
+En relación con el libro de Historia Universal, ¿en qué países de Sudamérica se encuentra petróleo?
 
 - A. En Venezuela, Ecuador y Argentina
 - B. En Venezuela, Colombia y Brasil
@@ -4710,7 +4710,7 @@ En Sudamérica se encuentra petróleo en Venezuela, Ecuador y Argentina, hierro 
 
 ### 293
 
-De acuerdo con el libro de Historia Universal, ¿qué recursos se encuentran en Brasil, Bolivia, Chile y Perú, y Colombia?
+En relación con el libro de Historia Universal, ¿qué recursos se encuentran en Brasil, Bolivia, Chile y Perú, y Colombia?
 
 - A. Hierro en Brasil, estaño en Bolivia, cobre en Chile y Perú, y carbón en Colombia
 - B. Estaño en Brasil, hierro en Bolivia, cobre en Chile y Perú, y carbón en Colombia
@@ -4725,7 +4725,7 @@ En Sudamérica se encuentra petróleo en Venezuela, Ecuador y Argentina, hierro 
 
 ### 294
 
-De acuerdo con el libro de Historia Universal, ¿qué problemas se manifiestan en América Latina en la década de los noventa?
+En relación con el libro de Historia Universal, ¿qué problemas se manifiestan en América Latina en la década de los noventa?
 
 - A. Golpes de estado, asesinatos políticos, corrupción, narcotráfico, desintegración de alianzas políticas y diversos escándalos
 - B. Guerras civiles, dictaduras militares y crisis de deuda externa
@@ -4740,7 +4740,7 @@ El panorama que vive América Latina en la década de los noventa se caracteriza
 
 ### 295
 
-De acuerdo con el libro de Historia Universal, ¿qué organismo impulsó las profundas reformas de ajustes estructurales?
+En relación con el libro de Historia Universal, ¿qué organismo impulsó las profundas reformas de ajustes estructurales?
 
 - A. El Fondo Monetario Internacional
 - B. El Banco Mundial
@@ -4755,7 +4755,7 @@ En el plano económico se han establecido profundas reformas de ajustes estructu
 
 ### 296
 
-De acuerdo con el libro de Historia Universal, ¿en qué prácticas se traducen los programas neoliberales?
+De conformidad con el libro de Historia Universal, ¿en qué prácticas se traducen los programas neoliberales?
 
 - A. Privatizaciones masivas, políticas de reformas del Estado, de estabilización y ajuste estructural, aperturas del mercado interno, y control de salarios
 - B. Nacionalizaciones, control de precios y subsidios al consumo
@@ -4770,7 +4770,7 @@ Se traducen en programas neoliberales a través de las siguientes prácticas: pr
 
 ### 297
 
-De acuerdo con el libro de Historia Universal, ¿entre qué países se estableció el Tratado de Libre Comercio en 1994?
+En relación con el libro de Historia Universal, ¿entre qué países se estableció el Tratado de Libre Comercio en 1994?
 
 - A. Entre Canadá, Estados Unidos y México
 - B. Entre Colombia, México y Venezuela
@@ -4785,7 +4785,7 @@ Además de las políticas regionales de integración económica, como el Tratado
 
 ### 298
 
-De acuerdo con el libro de Historia Universal, ¿qué países integran el Mercado Común de América del Sur, de 1995?
+En relación con el libro de Historia Universal, ¿qué países integran el Mercado Común de América del Sur, de 1995?
 
 - A. Argentina, Brasil, Paraguay, Uruguay y Chile
 - B. Argentina, Brasil, Paraguay, Uruguay y Bolivia
@@ -4800,7 +4800,7 @@ El Mercado Común de América del Sur (MERCOSUR, 1995), entre Argentina, Brasil,
 
 ### 299
 
-De acuerdo con el libro de Historia Universal, ¿qué países agrupa el Grupo de los Tres, vigente desde 1995?
+En relación con el libro de Historia Universal, ¿qué países agrupa el Grupo de los Tres, vigente desde 1995?
 
 - A. Colombia, México y Venezuela
 - B. Canadá, Estados Unidos y México
@@ -4815,7 +4815,7 @@ El Grupo de los Tres, vigentes desde 1995, que agrupa a Colombia, México y Vene
 
 ### 300
 
-De acuerdo con el libro de Historia Universal, ¿para qué año se pretende crear una zona de libre comercio para toda América?
+De conformidad con el libro de Historia Universal, ¿para qué año se pretende crear una zona de libre comercio para toda América?
 
 - A. Para el año 2005
 - B. Para el año 2000
@@ -4864,7 +4864,7 @@ También se puede vislumbrar la fragilidad de la política neoliberal en las eco
 
 ### 303
 
-De acuerdo con el libro de Historia Universal, ¿de qué graves problemas adolece hoy América Latina?
+De conformidad con el libro de Historia Universal, ¿de qué graves problemas adolece hoy América Latina?
 
 - A. Narcotráfico, lavado de dinero, miseria e injusticia
 - B. Golpes de estado, asesinatos políticos y corrupción
@@ -4879,7 +4879,7 @@ Amén de los graves problemas de los que hoy adolecen: narcotráfico, lavado de 
 
 ### 304
 
-De acuerdo con el libro de Historia Universal, ¿cómo se llama también al mar Caribe?
+En relación con el libro de Historia Universal, ¿cómo se llama también al mar Caribe?
 
 - A. Mediterráneo de las Américas
 - B. Mar de las Antillas
@@ -4909,7 +4909,7 @@ Un conjunto de países de dimensión, población, riqueza y cultura muy diversas
 
 ### 306
 
-De acuerdo con el libro de Historia Universal, ¿cuál es el más septentrional de los países centroamericanos?
+De conformidad con el libro de Historia Universal, ¿cuál es el más septentrional de los países centroamericanos?
 
 - A. Guatemala
 - B. El Salvador
@@ -4924,7 +4924,7 @@ El más septentrional de los países centroamericanos, con una población, estim
 
 ### 307
 
-De acuerdo con el libro de Historia Universal, ¿cuál era la población de Guatemala estimada en 2011?
+En relación con el libro de Historia Universal, ¿cuál era la población de Guatemala estimada en 2011?
 
 - A. 14 713 763 habitantes
 - B. 11 713 763 habitantes
@@ -4939,7 +4939,7 @@ Con una población, estimada en 2011, de 14 713 763 habitantes, en una región b
 
 ### 308
 
-De acuerdo con el libro de Historia Universal, ¿dónde se efectuaron las pláticas entre una delegación del gobierno guatemalteco y los guerrilleros opositores al régimen?
+De conformidad con el libro de Historia Universal, ¿dónde se efectuaron las pláticas entre una delegación del gobierno guatemalteco y los guerrilleros opositores al régimen?
 
 - A. En Oslo, Noruega
 - B. En Nueva York, en la Organización de las Naciones Unidas
@@ -4954,7 +4954,7 @@ Destacan en este contexto las pláticas efectuadas en marzo del mismo año, en O
 
 ### 309
 
-De acuerdo con el libro de Historia Universal, ¿a quién se otorgó el Premio Nobel de la Paz en 1992?
+De conformidad con el libro de Historia Universal, ¿a quién se otorgó el Premio Nobel de la Paz en 1992?
 
 - A. A Rigoberta Menchú, luchadora incansable de los derechos indígenas
 - B. A Álvaro Arzú Irigoyen
@@ -4969,7 +4969,7 @@ Dentro del proceso de pacificación destacó el otorgamiento del Premio Nobel de
 
 ### 310
 
-De acuerdo con el libro de Historia Universal, ¿en qué año firmaron un Acuerdo de Paz el gobierno de Guatemala y la guerrilla?
+En relación con el libro de Historia Universal, ¿en qué año firmaron un Acuerdo de Paz el gobierno de Guatemala y la guerrilla?
 
 - A. En 1996
 - B. En 1992
@@ -4999,7 +4999,7 @@ El cual pone fin a un conflicto de tres décadas y que causó más de 100 mil mu
 
 ### 312
 
-De acuerdo con el libro de Historia Universal, ¿qué presidente guatemalteco fracasó en su intento de golpe de estado civil en 1993 y fue obligado a renunciar?
+En relación con el libro de Historia Universal, ¿qué presidente guatemalteco fracasó en su intento de golpe de estado civil en 1993 y fue obligado a renunciar?
 
 - A. Jorge Serrano
 - B. Ramiro de León Carpio
@@ -5029,7 +5029,7 @@ Por lo que el parlamento eligió a Ramiro de León Carpio para que concluyera el
 
 ### 314
 
-De acuerdo con el libro de Historia Universal, ¿quién asumió la presidencia de Guatemala en enero de 1996 y por qué partido?
+De conformidad con el libro de Historia Universal, ¿quién asumió la presidencia de Guatemala en enero de 1996 y por qué partido?
 
 - A. Álvaro Arzú Irigoyen, del Partido de Avanzada Nacional
 - B. Ramiro de León Carpio, del Partido de Avanzada Nacional
@@ -5044,7 +5044,7 @@ En esta fecha asumió la presidencia el licenciado Álvaro Arzú Irigoyen del Pa
 
 ### 315
 
-De acuerdo con el libro de Historia Universal, ¿cuál es el más pequeño de los países centroamericanos?
+De conformidad con el libro de Historia Universal, ¿cuál es el más pequeño de los países centroamericanos?
 
 - A. El Salvador, cuya densidad de población es la mayor de la región
 - B. Guatemala
@@ -5074,7 +5074,7 @@ Este pueblo se vio arrastrado por más de una década en una guerra intestina, e
 
 ### 317
 
-De acuerdo con el libro de Historia Universal, ¿qué gobierno se reunió con los dirigentes del FMLN para negociar, sin resultado positivo, el fin de la guerra?
+De conformidad con el libro de Historia Universal, ¿qué gobierno se reunió con los dirigentes del FMLN para negociar, sin resultado positivo, el fin de la guerra?
 
 - A. El presidido por José Napoleón Duarte
 - B. El presidido por Alfredo Cristiani
@@ -5089,7 +5089,7 @@ El gobierno presidido por José Napoleón Duarte se reunió con los dirigentes d
 
 ### 318
 
-De acuerdo con el libro de Historia Universal, ¿con el triunfo de quién y en qué fecha se reanudaron las conversaciones de paz?
+En relación con el libro de Historia Universal, ¿con el triunfo de quién y en qué fecha se reanudaron las conversaciones de paz?
 
 - A. De Alfredo Cristiani, candidato de la Alianza Republicana Nacionalista, en marzo de 1989
 - B. De José Napoleón Duarte, en marzo de 1989
@@ -5134,7 +5134,7 @@ El proceso de pacificación entró en su recta final cuando, meses más tarde, s
 
 ### 321
 
-De acuerdo con el libro de Historia Universal, ¿qué tribunal puso fin en 1992 al conflicto territorial entre El Salvador y Honduras, y a quién favoreció?
+En relación con el libro de Historia Universal, ¿qué tribunal puso fin en 1992 al conflicto territorial entre El Salvador y Honduras, y a quién favoreció?
 
 - A. El Tribunal Internacional de Justicia de la Haya, favoreciendo a Honduras
 - B. El Tribunal Internacional de Justicia de la Haya, favoreciendo a El Salvador
@@ -5149,7 +5149,7 @@ En 1992 el Tribunal Internacional de Justicia de la Haya puso fin al histórico 
 
 ### 322
 
-De acuerdo con el libro de Historia Universal, ¿quién asumió la presidencia de El Salvador en 1994?
+De conformidad con el libro de Historia Universal, ¿quién asumió la presidencia de El Salvador en 1994?
 
 - A. Armando Calderón Sol, nuevamente un candidato de la Alianza Republicana Nacionalista
 - B. Alfredo Cristiani, candidato de la Alianza Republicana Nacionalista
@@ -5179,7 +5179,7 @@ Ante la inconformidad de sindicatos e industriales que protestaron por el proces
 
 ### 324
 
-De acuerdo con el libro de Historia Universal, ¿cuál ha sido el principal reto de Armando Calderón Sol?
+En relación con el libro de Historia Universal, ¿cuál ha sido el principal reto de Armando Calderón Sol?
 
 - A. La lucha contra la pobreza y el desarrollo social
 - B. El proceso de privatización
@@ -5228,7 +5228,7 @@ En la actualidad, el país lucha por superar sus problemas económicos en un mar
 
 ### 327
 
-De acuerdo con el libro de Historia Universal, ¿de qué universidad era egresado el economista Rafael Leonardo Callejas?
+De conformidad con el libro de Historia Universal, ¿de qué universidad era egresado el economista Rafael Leonardo Callejas?
 
 - A. De la Universidad de Mississippi, Estados Unidos
 - B. De la Universidad de Harvard, Estados Unidos
@@ -5243,7 +5243,7 @@ Los planes del gobierno encabezado por Rafael Leonardo Callejas, economista egre
 
 ### 328
 
-De acuerdo con el libro de Historia Universal, ¿cuándo tomó posesión de su cargo Rafael Leonardo Callejas?
+En relación con el libro de Historia Universal, ¿cuándo tomó posesión de su cargo Rafael Leonardo Callejas?
 
 - A. El 27 de enero de 1990
 - B. El 20 de diciembre de 1989
@@ -5258,7 +5258,7 @@ Economista egresado de la Universidad de Mississippi, Estados Unidos, quien tom�
 
 ### 329
 
-De acuerdo con el libro de Historia Universal, ¿qué provocó el programa de modernización económica del presidente Callejas?
+De conformidad con el libro de Historia Universal, ¿qué provocó el programa de modernización económica del presidente Callejas?
 
 - A. Se incrementó la pobreza en el país y se debilitó la economía
 - B. Se redujo la pobreza pero aumentó la inflación
@@ -5303,7 +5303,7 @@ Que le otorgó al Estado hondureño el 75% de los territorios en litigio con El 
 
 ### 332
 
-De acuerdo con el libro de Historia Universal, ¿quién asumió la presidencia de Honduras en 1994 y por qué partido?
+En relación con el libro de Historia Universal, ¿quién asumió la presidencia de Honduras en 1994 y por qué partido?
 
 - A. Carlos Roberto Reina, del Partido Liberal
 - B. Rafael Leonardo Callejas, del Partido Liberal
@@ -5318,7 +5318,7 @@ El candidato del Partido Liberal, Carlos Roberto Reina, asumió la presidencia e
 
 ### 333
 
-De acuerdo con el libro de Historia Universal, ¿qué otras acciones realizó Carlos Roberto Reina además del programa de ajuste estructural?
+En relación con el libro de Historia Universal, ¿qué otras acciones realizó Carlos Roberto Reina además del programa de ajuste estructural?
 
 - A. La desmilitarización, combate a la corrupción, baja en los presupuestos y la supresión del servicio militar
 - B. La privatización de las empresas estatales y la eliminación de aranceles aduaneros
@@ -5333,7 +5333,7 @@ Adoptando medidas de austeridad, creando nuevos impuestos, reduciendo los empleo
 
 ### 334
 
-De acuerdo con el libro de Historia Universal, ¿de qué gran poeta es patria Nicaragua?
+En relación con el libro de Historia Universal, ¿de qué gran poeta es patria Nicaragua?
 
 - A. De Rubén Darío
 - B. De Pablo Neruda
@@ -5348,7 +5348,7 @@ Nicaragua, la patria del gran poeta Rubén Darío, está organizada en diecisiet
 
 ### 335
 
-De acuerdo con el libro de Historia Universal, ¿en cuántos departamentos está organizada Nicaragua y cuál es su población aproximada?
+De conformidad con el libro de Historia Universal, ¿en cuántos departamentos está organizada Nicaragua y cuál es su población aproximada?
 
 - A. Diecisiete departamentos, cuatro millones de habitantes
 - B. Diecinueve departamentos, cuatro millones de habitantes
@@ -5363,7 +5363,7 @@ Está organizada en diecisiete departamentos con una población aproximada de cu
 
 ### 336
 
-De acuerdo con el libro de Historia Universal, ¿qué distingue a Nicaragua entre los países centroamericanos en cuanto a población?
+En relación con el libro de Historia Universal, ¿qué distingue a Nicaragua entre los países centroamericanos en cuanto a población?
 
 - A. Es el país centroamericano con menor densidad de población
 - B. Es el país centroamericano con mayor densidad de población
@@ -5378,7 +5378,7 @@ Es el país centroamericano con menor densidad de población.
 
 ### 337
 
-De acuerdo con el libro de Historia Universal, ¿qué logró el Frente Sandinista de Liberación Nacional en julio de 1979?
+De conformidad con el libro de Historia Universal, ¿qué logró el Frente Sandinista de Liberación Nacional en julio de 1979?
 
 - A. Derrocar a la dictadura encabezada por Anastasio Somoza Debayle
 - B. Ganar los comicios supervisados por la Organización de Estados Americanos
@@ -5408,7 +5408,7 @@ Cuando el 25 de febrero de 1990, la candidata de la Unión Nacional Opositora (U
 
 ### 339
 
-De acuerdo con el libro de Historia Universal, ¿qué organización supervisó esos comicios?
+En relación con el libro de Historia Universal, ¿qué organización supervisó esos comicios?
 
 - A. La Organización de Estados Americanos
 - B. La Organización de las Naciones Unidas
@@ -5423,7 +5423,7 @@ En comicios supervisados por la Organización de Estados Americanos (OEA), venci
 
 ### 340
 
-De acuerdo con el libro de Historia Universal, ¿de qué fue acusado el gobierno de Violeta Barrios?
+En relación con el libro de Historia Universal, ¿de qué fue acusado el gobierno de Violeta Barrios?
 
 - A. De gobernar con apoyo sandinista, tras romper con la coalición que la llevó al poder
 - B. De fraude electoral en los comicios de 1990
@@ -5453,7 +5453,7 @@ En enero de 1997 asumió la presidencia el doctor Arnoldo Alemán Lacayo, del Pa
 
 ### 342
 
-De acuerdo con el libro de Historia Universal, ¿qué reclamos realizó el gobierno de Arnoldo Alemán y a quiénes afectó?
+En relación con el libro de Historia Universal, ¿qué reclamos realizó el gobierno de Arnoldo Alemán y a quiénes afectó?
 
 - A. Reclamos limítrofes de su mar patrimonial, afectando los intereses de Honduras y Colombia
 - B. Reclamos limítrofes de su mar patrimonial, afectando los intereses de Costa Rica y Panamá
@@ -5472,7 +5472,7 @@ Su gobierno realizó reclamos limítrofes de su mar patrimonial, afectando los i
 
 ### 343
 
-De acuerdo con el libro de Historia Universal, ¿cuándo se inicia prácticamente la vida de la república de Costa Rica?
+En relación con el libro de Historia Universal, ¿cuándo se inicia prácticamente la vida de la república de Costa Rica?
 
 - A. En el siglo XIX, cuando decide separarse de la Federación Centroamericana
 - B. En el siglo XVIII, cuando decide separarse de España
@@ -5487,7 +5487,7 @@ La vida de esta república prácticamente se inicia en el siglo XIX, cuando deci
 
 ### 344
 
-De acuerdo con el libro de Historia Universal, ¿qué distingue a San José, capital de Costa Rica?
+En relación con el libro de Historia Universal, ¿qué distingue a San José, capital de Costa Rica?
 
 - A. Es la ciudad más modernizada y de mayor actividad cultural y artística de la región
 - B. Es la más antigua de las ciudades fundadas por los españoles en América
@@ -5502,7 +5502,7 @@ Su capital San José es la ciudad más modernizada y de mayor actividad cultural
 
 ### 345
 
-De acuerdo con el libro de Historia Universal, ¿a quién y en qué año se otorgó el Premio Nobel de la Paz por impulsar el Proceso de Pacificación de Centroamérica?
+En relación con el libro de Historia Universal, ¿a quién y en qué año se otorgó el Premio Nobel de la Paz por impulsar el Proceso de Pacificación de Centroamérica?
 
 - A. Al presidente Óscar Arias Sánchez, en el año de 1987
 - B. Al presidente Óscar Arias Sánchez, en el año de 1992
@@ -5517,7 +5517,7 @@ Dentro de los hechos históricos recientes del país destaca el otorgamiento del
 
 ### 346
 
-De acuerdo con el libro de Historia Universal, ¿tras la firma de qué acuerdo se otorgó ese Premio Nobel?
+En relación con el libro de Historia Universal, ¿tras la firma de qué acuerdo se otorgó ese Premio Nobel?
 
 - A. Tras la firma del Acuerdo de Esquipulas
 - B. Tras la firma del Acuerdo de Chapultepec
@@ -5547,7 +5547,7 @@ En 1994 asumió la presidencia el socialdemócrata José María Figueres, del Pa
 
 ### 348
 
-De acuerdo con el libro de Historia Universal, ¿en qué consistió el tercer programa de ajuste estructural de José María Figueres?
+En relación con el libro de Historia Universal, ¿en qué consistió el tercer programa de ajuste estructural de José María Figueres?
 
 - A. Elevar las tarifas públicas, establecer reformas tributarias y reducir el presupuesto del Estado
 - B. Privatizar las empresas estatales y eliminar los aranceles aduaneros
@@ -5562,7 +5562,7 @@ Puso en práctica el tercer programa de ajuste estructural, al elevar las tarifa
 
 ### 349
 
-De acuerdo con el libro de Historia Universal, ¿cuándo abrió el Canal de Panamá sus puertas a la navegación?
+De conformidad con el libro de Historia Universal, ¿cuándo abrió el Canal de Panamá sus puertas a la navegación?
 
 - A. El 15 de agosto de 1914
 - B. El 15 de agosto de 1904
@@ -5622,7 +5622,7 @@ En cumplimiento de estos tratados, la Comisión de Control del Canal quedó diri
 
 ### 353
 
-De acuerdo con el libro de Historia Universal, ¿cuándo asumió Guillermo Endara la presidencia de Panamá y en qué circunstancia?
+En relación con el libro de Historia Universal, ¿cuándo asumió Guillermo Endara la presidencia de Panamá y en qué circunstancia?
 
 - A. El 20 de diciembre de 1989, unas horas después de que el ejército estadunidense interviniera para derrocar al general Manuel Antonio Noriega
 - B. El 20 de diciembre de 1989, tras ganar las elecciones generales
@@ -5671,7 +5671,7 @@ Con su programa político pretendió lograr la reconciliación nacional, aplicar
 
 ### 356
 
-De acuerdo con el libro de Historia Universal, ¿por qué destaca Panamá en su política exterior?
+De conformidad con el libro de Historia Universal, ¿por qué destaca Panamá en su política exterior?
 
 - A. Por dar asilo al dictador haitiano Raúl Cedras, a Abdalá Bucaram y a refugiados cubanos
 - B. Por dar asilo al general Manuel Antonio Noriega y a refugiados cubanos
@@ -5686,7 +5686,7 @@ Destaca en su política exterior por dar asilo al dictador haitiano Raúl Cedras
 
 ### 357
 
-De acuerdo con el libro de Historia Universal, ¿cuál era la población de República Dominicana en 2012?
+En relación con el libro de Historia Universal, ¿cuál era la población de República Dominicana en 2012?
 
 - A. 10 135 105 habitantes
 - B. 14 713 763 habitantes
@@ -5701,7 +5701,7 @@ Isla ubicada entre las grandes Antillas, con una población de 10 135 105 habita
 
 ### 358
 
-De acuerdo con el libro de Historia Universal, ¿de qué producto es República Dominicana el mayor exportador, por delante de Cuba?
+En relación con el libro de Historia Universal, ¿de qué producto es República Dominicana el mayor exportador, por delante de Cuba?
 
 - A. De cigarros puros
 - B. De níquel
@@ -5716,7 +5716,7 @@ Actualmente este país es el mayor exportador de cigarros puros, por delante de 
 
 ### 359
 
-De acuerdo con el libro de Historia Universal, ¿desde qué año cuenta República Dominicana con yacimientos petrolíferos?
+En relación con el libro de Historia Universal, ¿desde qué año cuenta República Dominicana con yacimientos petrolíferos?
 
 - A. Desde 1981
 - B. Desde 1986
@@ -5746,7 +5746,7 @@ Santo Domingo, su capital, es la más antigua de las ciudades, fundada por los e
 
 ### 361
 
-De acuerdo con el libro de Historia Universal, ¿qué tuvo Santo Domingo por haber sido la primera capital del mundo colonial?
+En relación con el libro de Historia Universal, ¿qué tuvo Santo Domingo por haber sido la primera capital del mundo colonial?
 
 - A. El primer arzobispado, la primera catedral, la primera universidad y fue sede del primer virreinato de América
 - B. El primer arzobispado, la primera catedral y el primer puerto de América
@@ -5836,7 +5836,7 @@ Isla de las grandes Antillas, anexada a Estados Unidos en 1898 al término de la
 
 ### 367
 
-De acuerdo con el libro de Historia Universal, ¿qué determinó el pueblo puertorriqueño a partir de 1967?
+En relación con el libro de Historia Universal, ¿qué determinó el pueblo puertorriqueño a partir de 1967?
 
 - A. Ser un Estado libre asociado a Estados Unidos
 - B. Incorporarse plenamente a Estados Unidos
@@ -5866,7 +5866,7 @@ El nuevo Partido Progresista de Pedro Rosselló, de línea favorable a la incorp
 
 ### 369
 
-De acuerdo con el libro de Historia Universal, ¿qué estableció ese gobierno en materia de idioma?
+De conformidad con el libro de Historia Universal, ¿qué estableció ese gobierno en materia de idioma?
 
 - A. El inglés como idioma oficial al igual que el español
 - B. El inglés como único idioma oficial
@@ -5881,7 +5881,7 @@ Estableció el inglés como idioma oficial al igual que el español.
 
 ### 370
 
-De acuerdo con el libro de Historia Universal, además de los graves problemas económicos, ¿qué otros problemas enfrenta Puerto Rico?
+De conformidad con el libro de Historia Universal, además de los graves problemas económicos, ¿qué otros problemas enfrenta Puerto Rico?
 
 - A. La escasez de agua, la contaminación y los altos índices de criminalidad, homicidios y tráfico de drogas
 - B. La disminución de reservas, el alza de precios al transporte y la escasez de energía
@@ -5900,7 +5900,7 @@ El nuevo gobierno continuó con la política de privatizaciones para solucionar 
 
 ### 371
 
-De acuerdo con el libro de Historia Universal, ¿en qué consistieron las políticas con que los gobernantes sudamericanos iniciaron el siglo XXI?
+De conformidad con el libro de Historia Universal, ¿en qué consistieron las políticas con que los gobernantes sudamericanos iniciaron el siglo XXI?
 
 - A. En la apertura de sus economías hacia los grandes mercados mundiales y en la integración de sus naciones en bloques regionales
 - B. En la nacionalización de sus industrias y el control de cambios
@@ -5915,7 +5915,7 @@ Las políticas con que sus gobernantes iniciaron el siglo XXI, básicamente cons
 
 ### 372
 
-De acuerdo con el libro de Historia Universal, ¿qué lugar ocupa Venezuela como productor de petróleo?
+De conformidad con el libro de Historia Universal, ¿qué lugar ocupa Venezuela como productor de petróleo?
 
 - A. Séptimo país productor
 - B. Primer país productor
@@ -5930,7 +5930,7 @@ Dentro del conjunto de países sudamericanos destacan Venezuela, séptimo país 
 
 ### 373
 
-De acuerdo con el libro de Historia Universal, ¿cómo se describe a Brasil?
+En relación con el libro de Historia Universal, ¿cómo se describe a Brasil?
 
 - A. El país donde todo es "más": el más rico, el más endeudado, el más poblado, el más extenso geográficamente
 - B. El país más pobre del subcontinente
@@ -5945,7 +5945,7 @@ Brasil, el país donde todo es "más": el más rico, el más endeudado, el más 
 
 ### 374
 
-De acuerdo con el libro de Historia Universal, ¿qué países se localizan dentro de la región andina?
+En relación con el libro de Historia Universal, ¿qué países se localizan dentro de la región andina?
 
 - A. Bolivia, Colombia, Ecuador y Perú
 - B. Bolivia, Colombia, Ecuador y Venezuela
@@ -5960,7 +5960,7 @@ Dentro de la región andina se localizan Bolivia, Colombia, Ecuador y Perú, que
 
 ### 375
 
-De acuerdo con el libro de Historia Universal, ¿qué caracteriza a los países de la región andina?
+De conformidad con el libro de Historia Universal, ¿qué caracteriza a los países de la región andina?
 
 - A. Son los más pobres del subcontinente y con mayores índices de población indígena y mestiza
 - B. Tienen un fuerte influjo cultural europeo e importantes riquezas naturales
@@ -5975,7 +5975,7 @@ Que en términos generales son los más pobres del subcontinente y con mayores �
 
 ### 376
 
-De acuerdo con el libro de Historia Universal, ¿cuáles son los países del Cono Sur y qué los caracteriza?
+De conformidad con el libro de Historia Universal, ¿cuáles son los países del Cono Sur y qué los caracteriza?
 
 - A. Uruguay, Paraguay, Argentina y Chile, con un fuerte influjo cultural europeo y con importantes riquezas naturales
 - B. Uruguay, Paraguay, Argentina y Brasil, con un fuerte influjo cultural europeo
@@ -5990,7 +5990,7 @@ Los países del Cono Sur son Uruguay, Paraguay, Argentina y Chile, con un fuerte
 
 ### 377
 
-De acuerdo con el libro de Historia Universal, ¿en qué consistió el plan de austeridad económica de Carlos Andrés Pérez?
+De conformidad con el libro de Historia Universal, ¿en qué consistió el plan de austeridad económica de Carlos Andrés Pérez?
 
 - A. Liberó precios, privatizó industrias, reestructuró el sector público, elevó tarifas públicas, suspendió el control de cambios y derechos de aduana
 - B. Nacionalizó la industria petrolera y controló los precios
@@ -6035,7 +6035,7 @@ En 1992 padeció dos fallidos golpes de Estado y manifestaciones violentas, por 
 
 ### 380
 
-De acuerdo con el libro de Historia Universal, ¿por qué suspendió el senado de sus funciones a Carlos Andrés Pérez en 1993?
+De conformidad con el libro de Historia Universal, ¿por qué suspendió el senado de sus funciones a Carlos Andrés Pérez en 1993?
 
 - A. Para enjuiciarlo por malversación de fondos públicos
 - B. Para enjuiciarlo por corrupción en las privatizaciones
@@ -6050,7 +6050,7 @@ En 1993, el senado suspendió de sus funciones al presidente Carlos Andrés Pér
 
 ### 381
 
-De acuerdo con el libro de Historia Universal, ¿quién asumió la presidencia de Venezuela en diciembre de 1993 y qué hizo a mediados de 1994?
+De conformidad con el libro de Historia Universal, ¿quién asumió la presidencia de Venezuela en diciembre de 1993 y qué hizo a mediados de 1994?
 
 - A. Rafael Caldera Rodríguez, quien suspendió las garantías constitucionales
 - B. Rafael Caldera Rodríguez, quien puso en marcha la Agenda Venezolana
@@ -6065,7 +6065,7 @@ En diciembre de 1993 asumió la presidencia Rafael Caldera Rodríguez, quien a m
 
 ### 382
 
-De acuerdo con el libro de Historia Universal, ¿con qué países firmó Venezuela el Tratado de Libre Comercio que entró en vigor en 1995?
+En relación con el libro de Historia Universal, ¿con qué países firmó Venezuela el Tratado de Libre Comercio que entró en vigor en 1995?
 
 - A. Con México y Colombia
 - B. Con Canadá y Estados Unidos
@@ -6095,7 +6095,7 @@ A mediados de 1996, el presidente Caldera puso en marcha un nuevo plan económic
 
 ### 384
 
-De acuerdo con el libro de Historia Universal, ¿qué comprendía ese nuevo plan económico?
+De conformidad con el libro de Historia Universal, ¿qué comprendía ese nuevo plan económico?
 
 - A. Austeridad, saneamiento de las finanzas del Estado, fortalecimiento de la política fiscal y monetaria y la apertura de su industria petrolera al capital extranjero
 - B. La nacionalización de la industria petrolera y el control de cambios
@@ -6129,7 +6129,7 @@ Dicho plan fue avalado por el FMI, con un préstamo de 1 400 millones de dólare
 
 ### 386
 
-De acuerdo con el libro de Historia Universal, ¿por qué presentó Fernando Collor de Mello su renuncia a la presidencia en diciembre de 1992?
+De conformidad con el libro de Historia Universal, ¿por qué presentó Fernando Collor de Mello su renuncia a la presidencia en diciembre de 1992?
 
 - A. Al ser enjuiciado por corrupción
 - B. Al ser enjuiciado por malversación de fondos públicos
@@ -6144,7 +6144,7 @@ En diciembre de 1992 Fernando Collor de Mello presentó su renuncia a la preside
 
 ### 387
 
-De acuerdo con el libro de Historia Universal, ¿quién sustituyó a Collor de Mello?
+De conformidad con el libro de Historia Universal, ¿quién sustituyó a Collor de Mello?
 
 - A. El vicepresidente Itamar Franco
 - B. Fernando Henrique Cardoso
@@ -6159,7 +6159,7 @@ Fue sustituido por el vicepresidente Itamar Franco.
 
 ### 388
 
-De acuerdo con el libro de Historia Universal, durante la gestión de Itamar Franco, ¿qué ley aprobó el Congreso y qué redujo?
+En relación con el libro de Historia Universal, durante la gestión de Itamar Franco, ¿qué ley aprobó el Congreso y qué redujo?
 
 - A. Una ley para privatizar todos los puertos, y redujo el mandato presidencial de cinco a cuatro años
 - B. Una ley para privatizar los aeropuertos, y redujo el mandato presidencial de seis a cinco años
@@ -6189,7 +6189,7 @@ Se sumó al Tratado de Tlatelolco en la no proliferación de armas nucleares en 
 
 ### 390
 
-De acuerdo con el libro de Historia Universal, ¿cuándo asumió el poder Fernando Henrique Cardoso y con qué compromiso?
+De conformidad con el libro de Historia Universal, ¿cuándo asumió el poder Fernando Henrique Cardoso y con qué compromiso?
 
 - A. En enero de 1995, con el compromiso de gobernar a 160 millones de habitantes y darle prioridad al 60% de la población que vive en la pobreza
 - B. En enero de 1995, con el compromiso de gobernar a 160 millones y darle prioridad al 45% que vive en extrema pobreza
@@ -6219,7 +6219,7 @@ Las privatizaciones, el fortalecimiento de su nueva moneda (el Real) y la lucha 
 
 ### 392
 
-De acuerdo con el libro de Historia Universal, ¿desde qué década atraviesa Brasil la grave crisis económica?
+De conformidad con el libro de Historia Universal, ¿desde qué década atraviesa Brasil la grave crisis económica?
 
 - A. Desde la década de los ochenta
 - B. Desde la década de los noventa
@@ -6234,7 +6234,7 @@ Dentro de las acciones que realiza Brasil para solventar la grave crisis económ
 
 ### 393
 
-De acuerdo con el libro de Historia Universal, ¿qué gobiernos firmaron en Cartagena un acuerdo de cooperación en la lucha contra el narcotráfico?
+En relación con el libro de Historia Universal, ¿qué gobiernos firmaron en Cartagena un acuerdo de cooperación en la lucha contra el narcotráfico?
 
 - A. Colombia, Estados Unidos, Perú y Bolivia
 - B. Colombia, Estados Unidos, Ecuador y Bolivia
@@ -6249,7 +6249,7 @@ Los gobiernos de Colombia, Estados Unidos, Perú y Bolivia firmaron en Cartagena
 
 ### 394
 
-De acuerdo con el libro de Historia Universal, ¿a qué cárteles de la droga declaró la guerra abierta el presidente César Gaviria?
+En relación con el libro de Historia Universal, ¿a qué cárteles de la droga declaró la guerra abierta el presidente César Gaviria?
 
 - A. A los de Cali y Medellín
 - B. A los de Cali y Bogotá
@@ -6264,7 +6264,7 @@ El presidente César Gaviria declaró la guerra abierta a los cárteles de la dr
 
 ### 395
 
-De acuerdo con el libro de Historia Universal, ¿qué garantizó Gaviria a los traficantes que se entregaran voluntariamente?
+En relación con el libro de Historia Universal, ¿qué garantizó Gaviria a los traficantes que se entregaran voluntariamente?
 
 - A. Que no serían extraditados a Estados Unidos
 - B. Que recibirían amnistía total
@@ -6279,7 +6279,7 @@ Pero garantizó a los traficantes que se entregaran voluntariamente de que no se
 
 ### 396
 
-De acuerdo con el libro de Historia Universal, ¿ante qué acusaciones asumió la presidencia Ernesto Samper Pizano en 1994?
+De conformidad con el libro de Historia Universal, ¿ante qué acusaciones asumió la presidencia Ernesto Samper Pizano en 1994?
 
 - A. De haber recibido financiamiento del cártel de Cali para su campaña
 - B. De haber recibido financiamiento del cártel de Medellín para su campaña
@@ -6294,7 +6294,7 @@ En 1994, Ernesto Samper Pizano, del Partido Liberal, asumió la presidencia ante
 
 ### 397
 
-De acuerdo con el libro de Historia Universal, ¿a qué porcentaje de la población colombiana en extrema pobreza buscaba atender el acuerdo del ejecutivo?
+De conformidad con el libro de Historia Universal, ¿a qué porcentaje de la población colombiana en extrema pobreza buscaba atender el acuerdo del ejecutivo?
 
 - A. Al 45%
 - B. Al 60%
@@ -6328,7 +6328,7 @@ El arquitecto Sixto Durán Ballén, del Partido de la Unidad Republicana, libera
 
 ### 399
 
-De acuerdo con el libro de Historia Universal, ¿en qué consistió la incorporación de Ecuador a las políticas neoliberales?
+De conformidad con el libro de Historia Universal, ¿en qué consistió la incorporación de Ecuador a las políticas neoliberales?
 
 - A. Estableció la reforma del Estado, las privatizaciones, la lucha contra la inflación, alza de precios en los energéticos y congelamiento de salarios
 - B. Estableció la reforma del Estado, las nacionalizaciones y el control de precios
@@ -6343,7 +6343,7 @@ Instaurando la incorporación del país a las políticas neoliberales: estableci
 
 ### 400
 
-De acuerdo con el libro de Historia Universal, ¿a qué se enfrentó ese proceso de modernización?
+De conformidad con el libro de Historia Universal, ¿a qué se enfrentó ese proceso de modernización?
 
 - A. A una escasa base industrial, una elevada deuda externa y una baja mundial de precios del cacao, café y banano
 - B. A la hiperinflación y la quiebra de industrias
@@ -6373,7 +6373,7 @@ En la administración de Durán, Ecuador se retiró de la OPEP para tener libert
 
 ### 402
 
-De acuerdo con el libro de Historia Universal, ¿para qué se retiró Ecuador de esa organización?
+En relación con el libro de Historia Universal, ¿para qué se retiró Ecuador de esa organización?
 
 - A. Para tener libertad de producción y emplear los beneficios de su petróleo para resolver su problemática interna
 - B. Para incorporarse al MERCOSUR
@@ -6403,7 +6403,7 @@ Declaró nulo el Protocolo de Río (que delimitaba las fronteras entre ese país
 
 ### 404
 
-De acuerdo con el libro de Historia Universal, ¿qué conflicto provocó ese hecho y en qué año?
+En relación con el libro de Historia Universal, ¿qué conflicto provocó ese hecho y en qué año?
 
 - A. La Guerra del Cóndor, en 1995
 - B. La Guerra del Cóndor, en 1992
@@ -6433,7 +6433,7 @@ Ya que el gobierno de Durán Ballén argumentó que el Protocolo de Río era ine
 
 ### 406
 
-De acuerdo con el libro de Historia Universal, ¿qué se acordó a mediados de julio de ese año?
+En relación con el libro de Historia Universal, ¿qué se acordó a mediados de julio de ese año?
 
 - A. La desmilitarización de la zona fronteriza y hacer efectiva la Declaración de Paz de Itamaraty
 - B. La anulación definitiva del Protocolo de Río
@@ -6463,7 +6463,7 @@ El presidente Abdalá Bucaram Ortiz asumió la presidencia en agosto de 1996 y f
 
 ### 408
 
-De acuerdo con el libro de Historia Universal, ¿por qué fue destituido Bucaram por el parlamento y quién quedó en su lugar?
+En relación con el libro de Historia Universal, ¿por qué fue destituido Bucaram por el parlamento y quién quedó en su lugar?
 
 - A. Debido a su incapacidad mental; quedó el doctor Fabián Alarcón Rivera como presidente interino
 - B. Por corrupción; quedó el doctor Fabián Alarcón Rivera como presidente interino
@@ -6478,7 +6478,7 @@ Fue destituido por el parlamento en febrero de 1997, debido a su incapacidad men
 
 ### 409
 
-De acuerdo con el libro de Historia Universal, ¿a qué partido pertenecía el presidente peruano Alberto Fujimori?
+En relación con el libro de Historia Universal, ¿a qué partido pertenecía el presidente peruano Alberto Fujimori?
 
 - A. Al Partido Cambio 90
 - B. Al Partido de la Unidad Republicana
@@ -6493,7 +6493,7 @@ El presidente Alberto Fujimori, del Partido Cambio 90, puso en marcha un plan de
 
 ### 410
 
-De acuerdo con el libro de Historia Universal, ¿qué logró Fujimori con su plan de austeridad?
+De conformidad con el libro de Historia Universal, ¿qué logró Fujimori con su plan de austeridad?
 
 - A. La estabilización de la economía y el reconocimiento del FMI
 - B. La reducción de la pobreza y el desempleo
@@ -6508,7 +6508,7 @@ Puso en marcha un plan de austeridad, con el cual logró la estabilización de l
 
 ### 411
 
-De acuerdo con el libro de Historia Universal, ¿a cambio de qué grandes costos sociales logró Fujimori esa estabilización?
+De conformidad con el libro de Historia Universal, ¿a cambio de qué grandes costos sociales logró Fujimori esa estabilización?
 
 - A. Aumento de la pobreza, pérdida del poder adquisitivo, recesión, desempleo, quiebra de industrias y aumento del tráfico de drogas
 - B. Congelamiento de salarios y alza de precios en los energéticos
@@ -6523,7 +6523,7 @@ A cambio de grandes costos sociales, como aumento de la pobreza, pérdida del po
 
 ### 412
 
-De acuerdo con el libro de Historia Universal, ¿qué hizo Fujimori en 1992, obligado por esa problemática?
+En relación con el libro de Historia Universal, ¿qué hizo Fujimori en 1992, obligado por esa problemática?
 
 - A. Dar un golpe de Estado civil, suprimiendo la constitución y el parlamento
 - B. Renunciar a la presidencia ante el parlamento
@@ -6538,7 +6538,7 @@ Esta problemática obligó al presidente Fujimori a dar un golpe de Estado civil
 
 ### 413
 
-De acuerdo con el libro de Historia Universal, ¿qué ocurrió en los comicios de 1995 en Perú?
+En relación con el libro de Historia Universal, ¿qué ocurrió en los comicios de 1995 en Perú?
 
 - A. Confirmaron a Fujimori en la presidencia, reforzándose el centralismo del ejecutivo
 - B. Confirmaron la restitución del parlamento suprimido
@@ -6553,7 +6553,7 @@ Los comicios de 1995 confirmaron a Fujimori en la presidencia, reforzándose el 
 
 ### 414
 
-De acuerdo con el libro de Historia Universal, ¿qué venta sobresale entre las privatizaciones de empresas públicas peruanas?
+De conformidad con el libro de Historia Universal, ¿qué venta sobresale entre las privatizaciones de empresas públicas peruanas?
 
 - A. La venta de teléfonos a una compañía española por 10 mil millones de francos franceses
 - B. La venta de los aeropuertos a una compañía española
@@ -6572,7 +6572,7 @@ Privatización de empresas públicas, de la cual sobresale la venta de teléfono
 
 ### 415
 
-De acuerdo con el libro de Historia Universal, ¿ante qué sigue siendo frágil el modelo económico peruano?
+En relación con el libro de Historia Universal, ¿ante qué sigue siendo frágil el modelo económico peruano?
 
 - A. Ante el déficit de la balanza comercial, el incremento de la deuda externa, el subempleo y la pobreza
 - B. Ante la hiperinflación y la quiebra de industrias
@@ -6602,7 +6602,7 @@ En 1995 Perú vivió la Guerra del Cóndor por un litigio fronterizo con Ecuador
 
 ### 417
 
-De acuerdo con el libro de Historia Universal, ¿qué crisis enfrentó el gobierno peruano a finales de 1996?
+En relación con el libro de Historia Universal, ¿qué crisis enfrentó el gobierno peruano a finales de 1996?
 
 - A. La "Crisis de los Rehenes"
 - B. La "Crisis del Caribe"
@@ -6617,7 +6617,7 @@ A finales de 1996 el gobierno enfrentó la "Crisis de los Rehenes", cuando un co
 
 ### 418
 
-De acuerdo con el libro de Historia Universal, ¿qué grupo guerrillero tomó las instalaciones de la embajada de Japón?
+En relación con el libro de Historia Universal, ¿qué grupo guerrillero tomó las instalaciones de la embajada de Japón?
 
 - A. El Movimiento Revolucionario Túpac Amaru
 - B. El Frente Sandinista de Liberación Nacional
@@ -6632,7 +6632,7 @@ Cuando un comando del grupo guerrillero Movimiento Revolucionario Túpac Amaru (
 
 ### 419
 
-De acuerdo con el libro de Historia Universal, ¿cuándo aplicó Bolivia planes de ajuste estructural y cuál fue el saldo?
+De conformidad con el libro de Historia Universal, ¿cuándo aplicó Bolivia planes de ajuste estructural y cuál fue el saldo?
 
 - A. A mediados de la década de los ochenta, con buenos resultados en ciertos renglones, pero el costo social de la apertura fue alto
 - B. A mediados de la década de los noventa, con buenos resultados y bajo costo social
@@ -6647,7 +6647,7 @@ A mediados de la década de los ochenta el país aplicó planes de ajuste estruc
 
 ### 420
 
-De acuerdo con el libro de Historia Universal, ¿desde cuándo gobierna Gonzalo Sánchez de Lozada y con qué política?
+En relación con el libro de Historia Universal, ¿desde cuándo gobierna Gonzalo Sánchez de Lozada y con qué política?
 
 - A. Desde 1993, continuando con la política neoliberal
 - B. Desde 1995, continuando con la política neoliberal
@@ -6662,7 +6662,7 @@ El gobierno de Gonzalo Sánchez de Lozada, desde 1993, ha continuado con la pol�
 
 ### 421
 
-De acuerdo con el libro de Historia Universal, ¿qué se decretó en Bolivia al agudizarse las protestas en 1995?
+De conformidad con el libro de Historia Universal, ¿qué se decretó en Bolivia al agudizarse las protestas en 1995?
 
 - A. Estado de sitio a lo largo de tres meses
 - B. Estado de sitio a lo largo de un mes
@@ -6677,7 +6677,7 @@ Las protestas se agudizaron en 1995, por lo que se decretó estado de sitio a lo
 
 ### 422
 
-De acuerdo con el libro de Historia Universal, ¿en qué consistía la "Operación Cero"?
+De conformidad con el libro de Historia Universal, ¿en qué consistía la "Operación Cero"?
 
 - A. En sustituir plantíos de "coca" por otros cultivos
 - B. En erradicar totalmente los plantíos de "coca"
@@ -6692,7 +6692,7 @@ El gobierno pretendió poner en práctica la "Operación Cero", con la finalidad
 
 ### 423
 
-De acuerdo con el libro de Historia Universal, ¿qué ocurrió con la "Operación Cero"?
+De conformidad con el libro de Historia Universal, ¿qué ocurrió con la "Operación Cero"?
 
 - A. Obtuvo un violento rechazo, por lo que dio marcha atrás y sólo aplicó ciertas restricciones
 - B. Se aplicó por completo con buenos resultados
@@ -6707,7 +6707,7 @@ Pero obtuvo un violento rechazo, por lo que dio marcha atrás y sólo aplicó ci
 
 ### 424
 
-De acuerdo con el libro de Historia Universal, ¿qué marcó la toma de posesión del presidente Patricio Aylwin en 1989?
+En relación con el libro de Historia Universal, ¿qué marcó la toma de posesión del presidente Patricio Aylwin en 1989?
 
 - A. El fin del gobierno militar, encabezado por el general Augusto Pinochet desde 1973
 - B. El fin del gobierno militar, encabezado por el general Augusto Pinochet desde 1970
@@ -6722,7 +6722,7 @@ La toma de posesión del presidente Patricio Aylwin, en 1989, marcó el fin del 
 
 ### 425
 
-De acuerdo con el libro de Historia Universal, ¿con qué país firmó Aylwin un acuerdo de libre comercio?
+En relación con el libro de Historia Universal, ¿con qué país firmó Aylwin un acuerdo de libre comercio?
 
 - A. Con Colombia
 - B. Con México
@@ -6752,7 +6752,7 @@ En 1993 una coalición de partidos de la concertación por la democracia llevó 
 
 ### 427
 
-De acuerdo con el libro de Historia Universal, ¿cuál declaró Frei Ruiz-Tagle que era su principal batalla?
+En relación con el libro de Historia Universal, ¿cuál declaró Frei Ruiz-Tagle que era su principal batalla?
 
 - A. Luchar contra la pobreza y otorgar mayores recursos a la educación y a la salud pública
 - B. Mantener la prosperidad económica
@@ -6767,7 +6767,7 @@ Declaró que su principal batalla es luchar contra la pobreza y otorgar mayores 
 
 ### 428
 
-De acuerdo con el libro de Historia Universal, ¿qué posición tiene Chile en el Mercosur y en la APEC?
+De conformidad con el libro de Historia Universal, ¿qué posición tiene Chile en el Mercosur y en la APEC?
 
 - A. Miembro asociado del Mercosur y miembro de pleno derecho de la APEC
 - B. Miembro de pleno derecho del Mercosur y miembro asociado de la APEC
@@ -6782,7 +6782,7 @@ Chile se sumó al Tratado de Tlatelolco, se convirtió en miembro asociado del M
 
 ### 429
 
-De acuerdo con el libro de Historia Universal, ¿qué es la APEC?
+En relación con el libro de Historia Universal, ¿qué es la APEC?
 
 - A. Grupo de naciones de la cuenca del Pacífico
 - B. Grupo de naciones de la cuenca del Atlántico
@@ -6831,7 +6831,7 @@ La creación de una nueva moneda nacional, el peso.
 
 ### 432
 
-De acuerdo con el libro de Historia Universal, ¿en qué se ha convertido Argentina como consecuencia de esa política?
+De conformidad con el libro de Historia Universal, ¿en qué se ha convertido Argentina como consecuencia de esa política?
 
 - A. En productor de materia prima e importador de bienes industriales y de capitales
 - B. En exportador de bienes industriales
@@ -6861,7 +6861,7 @@ Menem fue reelecto en 1995 y aplicó un nuevo plan de ajuste económico y recibi
 
 ### 434
 
-De acuerdo con el libro de Historia Universal, ¿qué le concedió el congreso a Menem en 1996 y para qué?
+En relación con el libro de Historia Universal, ¿qué le concedió el congreso a Menem en 1996 y para qué?
 
 - A. Poderes económicos de emergencia, para reducir los gastos públicos y aumentar la entrada de impuestos
 - B. Poderes económicos de emergencia, para privatizar las empresas estatales
@@ -6876,7 +6876,7 @@ En 1996 el congreso le concedió poderes económicos de emergencia para reducir 
 
 ### 435
 
-De acuerdo con el libro de Historia Universal, ¿qué ocurrió por primera vez en la historia de Paraguay en 1993?
+En relación con el libro de Historia Universal, ¿qué ocurrió por primera vez en la historia de Paraguay en 1993?
 
 - A. Se eligió democráticamente a un civil como presidente, Juan Carlos Wasmosy, después de 40 años de dictadura militar
 - B. Se eligió democráticamente a un civil, Juan Carlos Wasmosy, después de 30 años de dictadura militar
@@ -6906,7 +6906,7 @@ Al emprender este proceso de democratización se eliminó la injerencia de las f
 
 ### 437
 
-De acuerdo con el libro de Historia Universal, ¿qué se prohibió a los militares paraguayos?
+De conformidad con el libro de Historia Universal, ¿qué se prohibió a los militares paraguayos?
 
 - A. Dedicarse a las actividades económicas privadas y afiliarse con partidos políticos
 - B. Participar en la gestión política del gobierno
@@ -6921,7 +6921,7 @@ Así como la prohibición a militares de dedicarse a las actividades económicas
 
 ### 438
 
-De acuerdo con el libro de Historia Universal, ¿qué efecto han tenido las purgas entre las jerarquías militares paraguayas?
+En relación con el libro de Historia Universal, ¿qué efecto han tenido las purgas entre las jerarquías militares paraguayas?
 
 - A. Han impedido la aplicación de políticas públicas eficaces y la economía ha observado altibajos
 - B. Han consolidado la democratización del país
@@ -6936,7 +6936,7 @@ Ha realizado purgas entre las jerarquías militares, esto ha impedido la aplicac
 
 ### 439
 
-De acuerdo con el libro de Historia Universal, ¿qué afrontó el gobierno del presidente Luis Alberto Lacalle, electo en 1990?
+En relación con el libro de Historia Universal, ¿qué afrontó el gobierno del presidente Luis Alberto Lacalle, electo en 1990?
 
 - A. Serias oposiciones a su programa de modernización, a pesar de observarse un repunte económico
 - B. Un golpe de Estado civil
@@ -6951,7 +6951,7 @@ El gobierno del presidente Luis Alberto Lacalle, electo en 1990, afrontó serias
 
 ### 440
 
-De acuerdo con el libro de Historia Universal, ¿cuántas veces ocupó la presidencia Julio María Sanguinetti y en qué años?
+En relación con el libro de Historia Universal, ¿cuántas veces ocupó la presidencia Julio María Sanguinetti y en qué años?
 
 - A. Dos veces: la primera en 1985 y la segunda en 1994
 - B. Dos veces: la primera en 1985 y la segunda en 1990
@@ -6985,7 +6985,7 @@ Ha continuado con una política económica cautelosa, ya que el pueblo uruguayo 
 
 ### 442
 
-De acuerdo con el libro de Historia Universal, ¿cuándo asumió el poder Carlos Salinas de Gortari y qué se propuso?
+De conformidad con el libro de Historia Universal, ¿cuándo asumió el poder Carlos Salinas de Gortari y qué se propuso?
 
 - A. En diciembre de 1988, modernizar el sistema económico del país a partir de la negociación de un Tratado Trilateral de Libre Comercio
 - B. En diciembre de 1988, incorporar a México al Mercosur
@@ -7045,7 +7045,7 @@ Partiendo del hecho, de que tan sólo Estados Unidos representan el 70% del come
 
 ### 446
 
-De acuerdo con el libro de Historia Universal, ¿qué porcentaje de la inversión extranjera representa Estados Unidos?
+En relación con el libro de Historia Universal, ¿qué porcentaje de la inversión extranjera representa Estados Unidos?
 
 - A. Cerca del 40%
 - B. Cerca del 70%
@@ -7060,7 +7060,7 @@ Tan sólo Estados Unidos representan el 70% del comercio exterior mexicano, cerc
 
 ### 447
 
-De acuerdo con el libro de Historia Universal, ¿cuántos empleos absorbe la industria maquiladora de la región fronteriza del Norte de México?
+En relación con el libro de Historia Universal, ¿cuántos empleos absorbe la industria maquiladora de la región fronteriza del Norte de México?
 
 - A. Aproximadamente medio millón
 - B. Aproximadamente un millón
@@ -7075,7 +7075,7 @@ La industria maquiladora de la región fronteriza del Norte de México, absorbe 
 
 ### 448
 
-De acuerdo con el libro de Historia Universal, entre las ventajas del tratado para México, ¿qué se esperaba de la ampliación del mercado mexicano?
+En relación con el libro de Historia Universal, entre las ventajas del tratado para México, ¿qué se esperaba de la ampliación del mercado mexicano?
 
 - A. Incrementar sus exportaciones
 - B. Aumentar las oportunidades de empleo
@@ -7105,7 +7105,7 @@ Las cuales no se habían formalizado desde que a mediados de la década de 1850,
 
 ### 450
 
-De acuerdo con el libro de Historia Universal, ¿qué separaban las Leyes de Reforma?
+En relación con el libro de Historia Universal, ¿qué separaban las Leyes de Reforma?
 
 - A. Los asuntos del Estado y de la Iglesia
 - B. Los poderes ejecutivo y legislativo
@@ -7120,7 +7120,7 @@ El presidente Benito Juárez promulgara las Leyes de Reforma, con las que se sep
 
 ### 451
 
-De acuerdo con el libro de Historia Universal, ¿qué constituía México en Hispanoamérica respecto de la Santa Sede?
+De conformidad con el libro de Historia Universal, ¿qué constituía México en Hispanoamérica respecto de la Santa Sede?
 
 - A. Una excepción en la formalización de sus relaciones diplomáticas
 - B. El único país con relaciones diplomáticas plenas
@@ -7135,7 +7135,7 @@ El pueblo mexicano es fundamentalmente católico y México constituía una excep
 
 ### 452
 
-De acuerdo con el libro de Historia Universal, ¿en qué ha consistido la entrada de México en la órbita de la política neoliberal?
+De conformidad con el libro de Historia Universal, ¿en qué ha consistido la entrada de México en la órbita de la política neoliberal?
 
 - A. Privatizaciones de industrias estatales, liberalización de la economía, mayor apertura a las inversiones extranjeras, reestructuración del Estado, políticas de austeridad, control de salarios y devaluaciones
 - B. Nacionalizaciones de industrias y control de precios
@@ -7150,7 +7150,7 @@ México ha entrado en la órbita de la política neoliberal al poner en práctic
 
 ### 453
 
-De acuerdo con el libro de Historia Universal, ¿cuáles son los enormes costos sociales de esa política en México?
+En relación con el libro de Historia Universal, ¿cuáles son los enormes costos sociales de esa política en México?
 
 - A. Mayor desempleo, pobreza, inseguridad, pérdida del poder de compra, alza de precios y crisis generalizada
 - B. Hiperinflación y quiebra de industrias
@@ -7165,7 +7165,7 @@ Pero también con enormes costos sociales: existe mayor desempleo, pobreza, inse
 
 ### 454
 
-De acuerdo con el libro de Historia Universal, ¿en qué se hizo patente la inestabilidad del sistema político durante el sexenio de Salinas de Gortari?
+De conformidad con el libro de Historia Universal, ¿en qué se hizo patente la inestabilidad del sistema político durante el sexenio de Salinas de Gortari?
 
 - A. En supuestos fraudes electorales, secuestros de industriales y banqueros, y asesinatos políticos
 - B. En la crisis económica y las devaluaciones
@@ -7180,7 +7180,7 @@ En el sexenio del presidente Carlos Salinas de Gortari se hizo patente la inesta
 
 ### 455
 
-De acuerdo con el libro de Historia Universal, ¿quiénes fueron los asesinados políticos que se mencionan?
+De conformidad con el libro de Historia Universal, ¿quiénes fueron los asesinados políticos que se mencionan?
 
 - A. El candidato a la presidencia Luis Donaldo Colosio Murrieta y el secretario del partido en el poder, José Francisco Ruiz Massieu
 - B. Luis Donaldo Colosio Murrieta y Carlos Salinas de Gortari
@@ -7199,7 +7199,7 @@ Asesinatos políticos, como el del candidato a la presidencia Luis Donaldo Colos
 
 ### 456
 
-De acuerdo con el libro de Historia Universal, entre las muertes de los sangrientos ajustes de cuentas entre bandas de traficantes, ¿a quién se menciona?
+En relación con el libro de Historia Universal, entre las muertes de los sangrientos ajustes de cuentas entre bandas de traficantes, ¿a quién se menciona?
 
 - A. Al Cardenal Posadas, arzobispo de Guadalajara
 - B. A Luis Donaldo Colosio Murrieta
@@ -7229,7 +7229,7 @@ Y el levantamiento armado del grupo guerrillero Ejército Zapatista de Liberaci�
 
 ### 458
 
-De acuerdo con el libro de Historia Universal, ¿contra qué protesta el Ejército Zapatista de Liberación Nacional?
+En relación con el libro de Historia Universal, ¿contra qué protesta el Ejército Zapatista de Liberación Nacional?
 
 - A. Contra la corrupción política y las pésimas condiciones de vida de los indígenas
 - B. Contra la devaluación del peso
@@ -7244,7 +7244,7 @@ En el estado de Chiapas, que protesta contra la corrupción política y las pés
 
 ### 459
 
-De acuerdo con el libro de Historia Universal, ¿en qué se manifiesta la crisis de diciembre de 1994?
+En relación con el libro de Historia Universal, ¿en qué se manifiesta la crisis de diciembre de 1994?
 
 - A. En la fuerte devaluación del peso
 - B. Únicamente en la fuga de capitales
@@ -7289,7 +7289,7 @@ El gobierno de Ernesto Zedillo Ponce de León lanzó un severo plan de austerida
 
 ### 462
 
-De acuerdo con el libro de Historia Universal, ¿qué apoyo financiero recibió México del presidente Bill Clinton?
+De conformidad con el libro de Historia Universal, ¿qué apoyo financiero recibió México del presidente Bill Clinton?
 
 - A. Un préstamo de 20 mil millones de dólares para estabilizar el peso
 - B. Un préstamo de 17 800 millones de dólares para estabilizar el peso
@@ -7319,7 +7319,7 @@ También el FMI concedió el mayor préstamo en la historia, 17 800 millones de 
 
 ### 464
 
-De acuerdo con el libro de Historia Universal, ¿de qué fue acusado Raúl Salinas, detenido en 1995?
+En relación con el libro de Historia Universal, ¿de qué fue acusado Raúl Salinas, detenido en 1995?
 
 - A. De haber encargado el asesinato del secretario del partido en el poder
 - B. De confabulación con el cártel del Golfo
@@ -7334,7 +7334,7 @@ En 1995 fueron detenidos Raúl Salinas, hermano del expresidente Carlos Salinas,
 
 ### 465
 
-De acuerdo con el libro de Historia Universal, ¿de qué fue acusado Mario Ruiz Massieu?
+De conformidad con el libro de Historia Universal, ¿de qué fue acusado Mario Ruiz Massieu?
 
 - A. De confabulación con el cártel del Golfo
 - B. De haber encargado el asesinato del secretario del partido en el poder
@@ -7383,7 +7383,7 @@ Y fue destituido el general Jesús Gutiérrez Rebollo, en el estado de Jalisco, 
 
 ### 468
 
-De acuerdo con el libro de Historia Universal, ¿a qué asistió la humanidad a partir de 1989?
+En relación con el libro de Historia Universal, ¿a qué asistió la humanidad a partir de 1989?
 
 - A. A una renovación total de la escena internacional y al intento de reconstrucción de un nuevo orden mundial
 - B. Únicamente a la caída del muro de Berlín
@@ -7398,7 +7398,7 @@ A partir de 1989 la humanidad asistió a una renovación total de la escena inte
 
 ### 469
 
-De acuerdo con el libro de Historia Universal, ¿qué propiciaron la caída del muro de Berlín y la extinción de los regímenes socialistas?
+En relación con el libro de Historia Universal, ¿qué propiciaron la caída del muro de Berlín y la extinción de los regímenes socialistas?
 
 - A. Que el poderío de Estados Unidos aumentara
 - B. Que Europa se dividiera en bloques regionales
@@ -7413,7 +7413,7 @@ La caída del muro de Berlín y la extinción de los regímenes socialistas de l
 
 ### 470
 
-De acuerdo con el libro de Historia Universal, ¿qué ajustó Europa para competir con Estados Unidos?
+De conformidad con el libro de Historia Universal, ¿qué ajustó Europa para competir con Estados Unidos?
 
 - A. Un complejo sistema de integración, la Unión Europea, iniciado desde mediados del siglo XX
 - B. Un sistema de defensa militar conjunto
@@ -7428,7 +7428,7 @@ Para competir con este último, Europa ajustó un complejo sistema de integraci�
 
 ### 471
 
-De acuerdo con el libro de Historia Universal, ¿con qué acontecimiento se considera que la orientación internacional cambió tanto que da lugar a una nueva era?
+De conformidad con el libro de Historia Universal, ¿con qué acontecimiento se considera que la orientación internacional cambió tanto que da lugar a una nueva era?
 
 - A. Con los atentados del 11 de septiembre de 2001 contra la Unión Americana
 - B. Con la caída del muro de Berlín
@@ -7443,7 +7443,7 @@ Se comienza a considerar que, coincidiendo con el inicio del siglo XXI, específ
 
 ### 472
 
-De acuerdo con el libro de Historia Universal, además de los atentados, ¿qué otro evento se considera principal en ese proceso?
+En relación con el libro de Historia Universal, además de los atentados, ¿qué otro evento se considera principal en ese proceso?
 
 - A. La invasión a Irak, o segunda guerra del Golfo Pérsico
 - B. La ampliación de la Unión Europea hacia los países ex socialistas
@@ -7458,7 +7458,7 @@ Pareciera que vivimos un cambio y que los mencionados ataques y la invasión a I
 
 ### 473
 
-De acuerdo con el libro de Historia Universal, ¿qué diferencias se siguen ampliando en la actual sociedad de masas?
+De conformidad con el libro de Historia Universal, ¿qué diferencias se siguen ampliando en la actual sociedad de masas?
 
 - A. Entre las áreas que disfrutan de bienestar y las que tienen hambre y desnutrición
 - B. Entre los países socialistas y los capitalistas
@@ -7473,7 +7473,7 @@ En la actual sociedad de masas se siguen ampliando las diferencias entre áreas 
 
 ### 474
 
-De acuerdo con el libro de Historia Universal, ¿qué países emergentes integran el BRIC?
+En relación con el libro de Historia Universal, ¿qué países emergentes integran el BRIC?
 
 - A. Brasil, Rusia, India y China
 - B. Brasil, Rusia, Indonesia y China
@@ -7488,7 +7488,7 @@ Algunos países emergentes, como Brasil, Rusia, India y China (BRIC) tienen posi
 
 ### 475
 
-De acuerdo con el libro de Historia Universal, ¿qué posibilidades tienen los países del BRIC?
+En relación con el libro de Historia Universal, ¿qué posibilidades tienen los países del BRIC?
 
 - A. Abandonar dicha situación y convertirse en potencias futuras
 - B. Integrarse a la Unión Europea
@@ -7522,7 +7522,7 @@ La primera propuesta de una Europa unificada provino del planificador francés J
 
 ### 477
 
-De acuerdo con el libro de Historia Universal, ¿qué consideró Jean Monnet sobre la unificación económica?
+De conformidad con el libro de Historia Universal, ¿qué consideró Jean Monnet sobre la unificación económica?
 
 - A. Que era solamente el primer paso en esa dirección
 - B. Que era el objetivo final de la unificación
@@ -7567,7 +7567,7 @@ La Comunidad Europea del Carbón y del Acero (CECA), que demostró que era posib
 
 ### 480
 
-De acuerdo con el libro de Historia Universal, ¿qué aceptaron los seis países en 1957?
+De conformidad con el libro de Historia Universal, ¿qué aceptaron los seis países en 1957?
 
 - A. El plan de una Comunidad Económica Europea
 - B. El plan de una unión monetaria europea
@@ -7597,7 +7597,7 @@ Con la finalidad de coordinar las economías de sus miembros y conseguir la libr
 
 ### 482
 
-De acuerdo con el libro de Historia Universal, ¿qué países fueron admitidos en las décadas de 1970 y 1980?
+En relación con el libro de Historia Universal, ¿qué países fueron admitidos en las décadas de 1970 y 1980?
 
 - A. España, Dinamarca, Grecia, Portugal, Irlanda e Inglaterra
 - B. España, Dinamarca, Grecia, Portugal, Irlanda y Suecia
@@ -7612,7 +7612,7 @@ En las décadas de 1970 y 1980, España, Dinamarca, Grecia, Portugal, Irlanda e 
 
 ### 483
 
-De acuerdo con el libro de Historia Universal, ¿cómo se llamaba también a la Comunidad Económica Europea?
+De conformidad con el libro de Historia Universal, ¿cómo se llamaba también a la Comunidad Económica Europea?
 
 - A. Mercado Común Europeo
 - B. Comunidad Europea del Carbón y del Acero
@@ -7627,7 +7627,7 @@ Fueron admitidos en este también llamado Mercado Común Europeo (MERCOMUN).
 
 ### 484
 
-De acuerdo con el libro de Historia Universal, ¿qué población alcanzaban los países integrantes a fines de los ochenta?
+De conformidad con el libro de Historia Universal, ¿qué población alcanzaban los países integrantes a fines de los ochenta?
 
 - A. Los 300 millones
 - B. Los 200 millones
@@ -7672,7 +7672,7 @@ El Instituto Monetario Europeo se transformó en el Banco Central Europeo.
 
 ### 487
 
-De acuerdo con el libro de Historia Universal, ¿por qué moneda fueron sustituidas las monedas nacionales?
+En relación con el libro de Historia Universal, ¿por qué moneda fueron sustituidas las monedas nacionales?
 
 - A. Por el ECU, que con el tiempo sería reemplazado por el euro
 - B. Por el euro, que con el tiempo sería reemplazado por el ECU
@@ -7702,7 +7702,7 @@ Llegaron a un acuerdo para la integración de un espacio económico europeo (199
 
 ### 489
 
-De acuerdo con el libro de Historia Universal, ¿dónde y cuándo pasó la unión económica al nivel de unión política?
+De conformidad con el libro de Historia Universal, ¿dónde y cuándo pasó la unión económica al nivel de unión política?
 
 - A. En Maastricht, Holanda, en 1992
 - B. En Maastricht, Holanda, en 1991
@@ -7717,7 +7717,7 @@ Finalmente, en 1992, en Maastricht (Holanda), la unión económica pasó al nive
 
 ### 490
 
-De acuerdo con el libro de Historia Universal, ¿qué destaca del proceso de la Unión Europea, aun en marcha?
+En relación con el libro de Historia Universal, ¿qué destaca del proceso de la Unión Europea, aun en marcha?
 
 - A. El establecimiento de la ciudadanía europea
 - B. La creación del Banco Central Europeo
@@ -7747,7 +7747,7 @@ Comisión Europea. Es el poder ejecutivo europeo.
 
 ### 492
 
-De acuerdo con el libro de Historia Universal, ¿cómo son nombrados los miembros de la Comisión Europea?
+De conformidad con el libro de Historia Universal, ¿cómo son nombrados los miembros de la Comisión Europea?
 
 - A. De común acuerdo por los gobiernos
 - B. Por voto directo de los ciudadanos
@@ -7762,7 +7762,7 @@ Sus miembros, de todas las naciones asociadas, son nombrados de común acuerdo p
 
 ### 493
 
-De acuerdo con el libro de Historia Universal, ¿qué garantiza el Parlamento Europeo?
+En relación con el libro de Historia Universal, ¿qué garantiza el Parlamento Europeo?
 
 - A. La participación de todos los ciudadanos en las instituciones de la Unión
 - B. La estabilidad monetaria de la Unión
@@ -7777,7 +7777,7 @@ Parlamento Europeo. Es el órgano que garantiza la participación de todos los c
 
 ### 494
 
-De acuerdo con el libro de Historia Universal, ¿cada cuánto y cómo son elegidos los integrantes del Parlamento Europeo?
+De conformidad con el libro de Historia Universal, ¿cada cuánto y cómo son elegidos los integrantes del Parlamento Europeo?
 
 - A. Mediante voto directo cada cinco años
 - B. Mediante voto directo cada cuatro años
@@ -7871,7 +7871,7 @@ Hacia finales del siglo XX y principios del XXI el desarrollo mundial unipolar t
 
 ### 500
 
-De acuerdo con el libro de Historia Universal, además de Estados Unidos, ¿qué presencias internacionales eran significativas?
+De conformidad con el libro de Historia Universal, además de Estados Unidos, ¿qué presencias internacionales eran significativas?
 
 - A. La Unión Europea y China
 - B. La Unión Europea y Rusia
@@ -7886,7 +7886,7 @@ Aunque también era significativa la presencia internacional tanto de la Unión 
 
 ### 501
 
-De acuerdo con el libro de Historia Universal, ¿qué sufrió Estados Unidos el 11 de septiembre de 2001?
+En relación con el libro de Historia Universal, ¿qué sufrió Estados Unidos el 11 de septiembre de 2001?
 
 - A. La peor masacre civil de la que se tenga memoria
 - B. El mayor ataque militar de su historia
@@ -7901,7 +7901,7 @@ El 11 de septiembre de 2001, Estados Unidos sufrió la peor masacre civil de la 
 
 ### 502
 
-De acuerdo con el libro de Historia Universal, ¿qué organización terrorista atacó y quién la dirigía?
+De conformidad con el libro de Historia Universal, ¿qué organización terrorista atacó y quién la dirigía?
 
 - A. Al-Qaeda, dirigida por Osama Bin Laden
 - B. Al-Qaeda, dirigida por Saddam Hussein
@@ -7916,7 +7916,7 @@ Ahora se sabe que la organización terrorista Al-Qaeda, dirigida por Osama Bin L
 
 ### 503
 
-De acuerdo con el libro de Historia Universal, ¿qué deshizo el primer atentado?
+En relación con el libro de Historia Universal, ¿qué deshizo el primer atentado?
 
 - A. Las Torres Gemelas del *World Trade Center*, ubicado en Nueva York
 - B. El edificio del Pentágono en Washington, D.C.
@@ -7931,7 +7931,7 @@ El primer atentado deshizo las Torres Gemelas del *World Trade Center* (Centro d
 
 ### 504
 
-De acuerdo con el libro de Historia Universal, ¿contra qué se dirigió otro ataque?
+De conformidad con el libro de Historia Universal, ¿contra qué se dirigió otro ataque?
 
 - A. Contra el edificio del Pentágono en Washington, D.C.
 - B. Contra el *World Trade Center* de Nueva York
@@ -7961,7 +7961,7 @@ El origen de Al-Qaeda se remonta a 1979, cuando, tras la invasión soviética a 
 
 ### 506
 
-De acuerdo con el libro de Historia Universal, ¿con ayuda financiera de quiénes apoyaron Bin Laden y los voluntarios árabes a los guerrilleros afganos?
+De conformidad con el libro de Historia Universal, ¿con ayuda financiera de quiénes apoyaron Bin Laden y los voluntarios árabes a los guerrilleros afganos?
 
 - A. De Estados Unidos y de Arabia Saudí
 - B. De la Unión Soviética y de Arabia Saudí
@@ -7976,7 +7976,7 @@ Bin Laden y un grupo de voluntarios árabes, con ayuda financiera de Estados Uni
 
 ### 507
 
-De acuerdo con el libro de Historia Universal, ¿en qué se transformó la agrupación-refugio en 1989, con la retirada rusa?
+En relación con el libro de Historia Universal, ¿en qué se transformó la agrupación-refugio en 1989, con la retirada rusa?
 
 - A. En un grupo armado de ideología panislamista y de defensa de la Guerra Santa
 - B. En el régimen fundamentalista talibán
@@ -8006,7 +8006,7 @@ Que posee estructura compleja cuyas células independientes permiten el anonimat
 
 ### 509
 
-De acuerdo con el libro de Historia Universal, además del ámbito internacional, ¿en qué repercutieron los atentados dentro de Estados Unidos?
+En relación con el libro de Historia Universal, además del ámbito internacional, ¿en qué repercutieron los atentados dentro de Estados Unidos?
 
 - A. Su política de seguridad se convirtió en una de sus prioridades
 - B. Su economía entró en una profunda recesión
@@ -8025,7 +8025,7 @@ Los atentados no sólo tuvieron repercusiones inmediatas en el ámbito internaci
 
 ### 510
 
-De acuerdo con el libro de Historia Universal, ¿cuántos efectivos británicos y estadounidenses ingresaron al territorio iraquí y por cuántos hombres estaba defendido?
+En relación con el libro de Historia Universal, ¿cuántos efectivos británicos y estadounidenses ingresaron al territorio iraquí y por cuántos hombres estaba defendido?
 
 - A. Unos 90 mil efectivos, contra cerca de 400 mil hombres
 - B. Unos 400 mil efectivos, contra cerca de 90 mil hombres
@@ -8040,7 +8040,7 @@ Unos 90 mil efectivos británicos y estadounidenses ingresaron al territorio ene
 
 ### 511
 
-De acuerdo con el libro de Historia Universal, ¿desde dónde penetró por el sur la ofensiva contra Irak, con el objetivo de ocupar Basora?
+En relación con el libro de Historia Universal, ¿desde dónde penetró por el sur la ofensiva contra Irak, con el objetivo de ocupar Basora?
 
 - A. Desde Kuwait
 - B. Desde Turquía
@@ -8070,7 +8070,7 @@ Por el norte, debido a que Turquía no permitió que la coalición se emplazara 
 
 ### 513
 
-De acuerdo con el libro de Historia Universal, ¿qué ciudad se describe como el puerto clave para la invasión, donde la resistencia fue mayor a la esperada?
+De conformidad con el libro de Historia Universal, ¿qué ciudad se describe como el puerto clave para la invasión, donde la resistencia fue mayor a la esperada?
 
 - A. Um Qasr
 - B. Nasiriyah
@@ -8085,7 +8085,7 @@ En Basora, en Um Qasr (puerto clave para la invasión) y en Nasiriyah (a orillas
 
 ### 514
 
-De acuerdo con el libro de Historia Universal, ¿qué tipo de armamento se utilizó en la gran ofensiva contra Bagdad para penetrar blindajes?
+En relación con el libro de Historia Universal, ¿qué tipo de armamento se utilizó en la gran ofensiva contra Bagdad para penetrar blindajes?
 
 - A. Bombas de fragmentación y municiones recubiertas de uranio
 - B. Armas químicas y bacteriológicas
@@ -8100,7 +8100,7 @@ La gran ofensiva contra Bagdad, la capital, incluyó aviones, helicópteros, art
 
 ### 515
 
-De acuerdo con el libro de Historia Universal, ¿en qué fechas ocuparon los invasores el aeropuerto capitalino y cayó la ciudad de Bagdad?
+De conformidad con el libro de Historia Universal, ¿en qué fechas ocuparon los invasores el aeropuerto capitalino y cayó la ciudad de Bagdad?
 
 - A. El 3 de abril el aeropuerto y el 9 del mismo mes la ciudad
 - B. El 9 de abril el aeropuerto y el 3 de mayo la ciudad
@@ -8183,7 +8183,7 @@ En los últimos años del siglo XX un historiador escribió que China era como u
 
 ### 520
 
-De acuerdo con el libro de Historia Universal, ¿desde qué año es China la mayor exportadora mundial?
+De conformidad con el libro de Historia Universal, ¿desde qué año es China la mayor exportadora mundial?
 
 - A. Desde el año 2008
 - B. Desde el año 1997
@@ -8213,7 +8213,7 @@ Si bien luego de la matanza de la plaza de Tiananmen (1989), las sanciones inter
 
 ### 522
 
-De acuerdo con el libro de Historia Universal, ¿qué líder del Partido Comunista Chino apostó por un proyecto económico basado en la liberalización del mercado interno?
+En relación con el libro de Historia Universal, ¿qué líder del Partido Comunista Chino apostó por un proyecto económico basado en la liberalización del mercado interno?
 
 - A. Deng Xiao Ping
 - B. Mao Tse Tung
@@ -8228,7 +8228,7 @@ El líder del Partido Comunista Chino Deng Xiao Ping apostó por un proyecto eco
 
 ### 523
 
-De acuerdo con el libro de Historia Universal, ¿en qué año devolvió Inglaterra Hong Kong a China?
+De conformidad con el libro de Historia Universal, ¿en qué año devolvió Inglaterra Hong Kong a China?
 
 - A. En 1997
 - B. En 1989
@@ -8243,7 +8243,7 @@ Así, cuando Inglaterra devolvió este pequeño territorio a China (1997), su ec
 
 ### 524
 
-De acuerdo con el libro de Historia Universal, ¿qué países integran los llamados "cuatro dragones"?
+De conformidad con el libro de Historia Universal, ¿qué países integran los llamados "cuatro dragones"?
 
 - A. Corea del Sur, Taiwán, Singapur y Hong Kong
 - B. Corea del Sur, Taiwán, Japón y Hong Kong
@@ -8292,7 +8292,7 @@ En 1977 dicho partido fue desplazado del poder por el Bharatiya Janata, una coal
 
 ### 527
 
-De acuerdo con el libro de Historia Universal, ¿por qué renunció Sonia Gandhi a la jefatura de gobierno tras ganar las elecciones legislativas de 2004?
+De conformidad con el libro de Historia Universal, ¿por qué renunció Sonia Gandhi a la jefatura de gobierno tras ganar las elecciones legislativas de 2004?
 
 - A. Debido a su origen italiano
 - B. Debido a las luchas religiosas entre hinduistas y sijs
@@ -8356,7 +8356,7 @@ No así con Pakistán, su vecino al noroeste, ya que desde hace tiempo existe un
 
 ### 531
 
-De acuerdo con el libro de Historia Universal, ¿qué significan la *Perestroika* y la *Glasnost* impulsadas por Gorbachov?
+En relación con el libro de Historia Universal, ¿qué significan la *Perestroika* y la *Glasnost* impulsadas por Gorbachov?
 
 - A. Reestructuración o renovación, y transparencia en la vida social
 - B. Transparencia en la vida social, y reestructuración o renovación
@@ -8371,7 +8371,7 @@ Mijaíl S. Gorbachov se propuso transformar a la Unión de Repúblicas Socialist
 
 ### 532
 
-De acuerdo con el libro de Historia Universal, ¿de qué país se anunció el retiro del ejército ruso en 1988?
+En relación con el libro de Historia Universal, ¿de qué país se anunció el retiro del ejército ruso en 1988?
 
 - A. De Afganistán
 - B. De Checoslovaquia
@@ -8386,7 +8386,7 @@ En 1988 se anunció el retiro del ejército ruso de Afganistán y, un año más 
 
 ### 533
 
-De acuerdo con el libro de Historia Universal, ¿gracias a la intervención de quién no prosperó el intento de golpe de Estado de agosto de 1991?
+En relación con el libro de Historia Universal, ¿gracias a la intervención de quién no prosperó el intento de golpe de Estado de agosto de 1991?
 
 - A. De Boris Yeltsin, jefe de gobierno de la Federación Rusa
 - B. De Mijaíl S. Gorbachov, presidente de la URSS
@@ -8401,7 +8401,7 @@ En agosto de 1991 hubo un intento de golpe de Estado encabezado por el vicepresi
 
 ### 534
 
-De acuerdo con el libro de Historia Universal, ¿qué tres repúblicas integraron originalmente la Comunidad de Estados Independientes (CEI)?
+De conformidad con el libro de Historia Universal, ¿qué tres repúblicas integraron originalmente la Comunidad de Estados Independientes (CEI)?
 
 - A. Rusia, Ucrania y Bielorrusia
 - B. Rusia, Ucrania y Georgia
@@ -8431,7 +8431,7 @@ A las que se unieron las de Moldava, Turkmenia, Tayikistán, Kazajstán, Uzbekis
 
 ### 536
 
-De acuerdo con el libro de Historia Universal, ¿qué ocurrió el 25 de diciembre de 1991?
+De conformidad con el libro de Historia Universal, ¿qué ocurrió el 25 de diciembre de 1991?
 
 - A. Gorbachov presentó su renuncia, dejando de existir oficialmente la URSS
 - B. Surgió la Comunidad de Estados Independientes
@@ -8446,7 +8446,7 @@ El 25 del mismo mes, Gorbachov presentó su renuncia, dejando de existir oficial
 
 ### 537
 
-De acuerdo con el libro de Historia Universal, ¿en qué año tomó Vladimir Putin la presidencia de Rusia y cuál era su antecedente?
+De conformidad con el libro de Historia Universal, ¿en qué año tomó Vladimir Putin la presidencia de Rusia y cuál era su antecedente?
 
 - A. En el año 2000, funcionario en la extinta agencia de inteligencia soviética
 - B. En 1993, funcionario en la extinta agencia de inteligencia soviética
@@ -8510,7 +8510,7 @@ No obstante la ampliación de libertades individuales y la existencia de una dem
 
 ### 541
 
-De acuerdo con el libro de Historia Universal, ¿qué porcentaje de la población rusa vive por debajo de la línea de pobreza?
+En relación con el libro de Historia Universal, ¿qué porcentaje de la población rusa vive por debajo de la línea de pobreza?
 
 - A. Cerca del 28%
 - B. Cerca del 64%
@@ -8525,7 +8525,7 @@ Uno de los grandes problemas sociales es que cerca del 28% de la población vive
 
 ### 542
 
-De acuerdo con el libro de Historia Universal, ¿cómo evolucionó el desempleo en Rusia entre 1999 y 2000?
+En relación con el libro de Historia Universal, ¿cómo evolucionó el desempleo en Rusia entre 1999 y 2000?
 
 - A. De 12% se redujo al 6%
 - B. De 6% subió al 12%
@@ -8615,7 +8615,7 @@ Más el hecho de que posee las mayores reservas de gas natural del mundo, las se
 
 ### 548
 
-De acuerdo con el libro de Historia Universal, ¿cómo creció la clase media rusa entre 2000 y 2006?
+En relación con el libro de Historia Universal, ¿cómo creció la clase media rusa entre 2000 y 2006?
 
 - A. De 8 millones de personas a 55 millones
 - B. De 8 millones de personas a 28 millones
@@ -8649,7 +8649,7 @@ El gran contraste es que especialmente las comunidades rurales de Siberia se enc
 
 ### 550
 
-De acuerdo con el libro de Historia Universal, ¿qué había instaurado el gobierno de Getulio Vargas?
+De conformidad con el libro de Historia Universal, ¿qué había instaurado el gobierno de Getulio Vargas?
 
 - A. Una "democracia autoritaria"
 - B. Una dictadura militar
@@ -8664,7 +8664,7 @@ En el Brasil de la posguerra se movilizaron las fuerzas que reclamaban libertade
 
 ### 551
 
-De acuerdo con el libro de Historia Universal, ¿hasta cuándo retornó Vargas al poder en 1951?
+En relación con el libro de Historia Universal, ¿hasta cuándo retornó Vargas al poder en 1951?
 
 - A. Hasta su muerte en 1954
 - B. Hasta 1960
@@ -8694,7 +8694,7 @@ Le sucedió Juscelino Kubitschek (1954-1960), promotor de la construcción de Br
 
 ### 553
 
-De acuerdo con el libro de Historia Universal, ¿qué alcanzó el país bajo el mandato de Kubitschek?
+De conformidad con el libro de Historia Universal, ¿qué alcanzó el país bajo el mandato de Kubitschek?
 
 - A. Una de las tasas de crecimiento más altas del mundo
 - B. La mayor deuda externa del mundo
@@ -8709,7 +8709,7 @@ Bajo cuyo mandato el país alcanzó una de las tasas de crecimiento más altas d
 
 ### 554
 
-De acuerdo con el libro de Historia Universal, ¿qué destacó en la política de João Goulart?
+De conformidad con el libro de Historia Universal, ¿qué destacó en la política de João Goulart?
 
 - A. La reforma agraria
 - B. La privatización de compañías estatales
@@ -8724,7 +8724,7 @@ Al año siguiente, João Goulart emprendió una política en la que destacó la 
 
 ### 555
 
-De acuerdo con el libro de Historia Universal, ¿bajo la influencia de qué organismo lo derrocaron los militares en 1964?
+En relación con el libro de Historia Universal, ¿bajo la influencia de qué organismo lo derrocaron los militares en 1964?
 
 - A. De la *Central Intelligence Agency*
 - B. Del Fondo Monetario Internacional
@@ -8739,7 +8739,7 @@ Sin embargo, los militares bajo la influencia de la *Central Intelligence Agency
 
 ### 556
 
-De acuerdo con el libro de Historia Universal, ¿en los gobiernos de quiénes se habló del "Milagro Brasileño"?
+En relación con el libro de Historia Universal, ¿en los gobiernos de quiénes se habló del "Milagro Brasileño"?
 
 - A. De Humberto Castello Branco y Ernesto Geisel
 - B. De Getulio Vargas y Juscelino Kubitschek
@@ -8754,7 +8754,7 @@ Ya en los gobiernos de Humberto Castello Branco (1964) y Ernesto Geisel (1974-79
 
 ### 557
 
-De acuerdo con el libro de Historia Universal, ¿con quién retornaron los presidentes civiles en 1985?
+De conformidad con el libro de Historia Universal, ¿con quién retornaron los presidentes civiles en 1985?
 
 - A. Con José Sarney
 - B. Con Fernando Collor de Mello
@@ -8814,7 +8814,7 @@ Desde tiempo antes, Brasil arrastraba la mayor deuda externa del mundo, y datos 
 
 ### 561
 
-De acuerdo con el libro de Historia Universal, ¿qué permitió el Congreso al modificar la Constitución?
+En relación con el libro de Historia Universal, ¿qué permitió el Congreso al modificar la Constitución?
 
 - A. La reelección de Cardoso para el periodo 1998-2002
 - B. La reelección de Collor de Mello
@@ -8848,7 +8848,7 @@ Luego de haber perdido tres veces las elecciones presidenciales, en octubre de 2
 
 ### 563
 
-De acuerdo con el libro de Historia Universal, ¿por qué se pensaba que no debía ganar?
+En relación con el libro de Historia Universal, ¿por qué se pensaba que no debía ganar?
 
 - A. Porque se pensaba que nacionalizaría la economía y propiciaría la fuga del capital
 - B. Por su limitada preparación escolar
@@ -8863,7 +8863,7 @@ Ya que se pensaba que nacionalizaría la economía y propiciaría la fuga del ca
 
 ### 564
 
-De acuerdo con el libro de Historia Universal, ¿cuál era el oficio de Lula Da Silva y a qué partido pertenecía?
+En relación con el libro de Historia Universal, ¿cuál era el oficio de Lula Da Silva y a qué partido pertenecía?
 
 - A. Minero y obrero metalúrgico, del Partido de los Trabajadores
 - B. Obrero metalúrgico, del Partido de la Democracia Social Brasileña
@@ -8878,7 +8878,7 @@ Luiz Inácio "Lula" Da Silva, minero y obrero metalúrgico, del Partido de los T
 
 ### 565
 
-De acuerdo con el libro de Historia Universal, ¿qué reformas de bienestar social implementó Lula?
+De conformidad con el libro de Historia Universal, ¿qué reformas de bienestar social implementó Lula?
 
 - A. El Programa Hambre 0 y el Plan Nacional de Erradicación del Trabajo Esclavo
 - B. El Programa Hambre 0 y la reforma agraria
@@ -8908,7 +8908,7 @@ Pese al rigor impuesto por el Fondo Monetario Internacional (FMI), disminuyó la
 
 ### 567
 
-De acuerdo con el libro de Historia Universal, ¿qué ocurrió en las elecciones de 2006 en Brasil?
+De conformidad con el libro de Historia Universal, ¿qué ocurrió en las elecciones de 2006 en Brasil?
 
 - A. Lula fue reelegido
 - B. Dilma Rousseff ganó la presidencia
@@ -8923,7 +8923,7 @@ En las elecciones de 2006 Lula fue reelegido.
 
 ### 568
 
-De acuerdo con el libro de Historia Universal, ¿a quién oficializó la Convención Nacional del PT en junio de 2010?
+De conformidad con el libro de Historia Universal, ¿a quién oficializó la Convención Nacional del PT en junio de 2010?
 
 - A. A Dilma Rousseff como su candidata a la presidencia
 - B. A Michel Temer como su candidato a la presidencia
@@ -8938,7 +8938,7 @@ En junio de 2010 la Convención Nacional del PT oficializó a Dilma Rousseff com
 
 ### 569
 
-De acuerdo con el libro de Historia Universal, ¿quién fue postulado a la vicepresidencia y por qué partido?
+En relación con el libro de Historia Universal, ¿quién fue postulado a la vicepresidencia y por qué partido?
 
 - A. Michel Temer, líder del Partido del Movimiento Democrático Brasileño
 - B. José Serra, líder del Partido de la Democracia Social Brasileña
@@ -8953,7 +8953,7 @@ Mientras que Michel Temer, líder del Partido del Movimiento Democrático Brasil
 
 ### 570
 
-De acuerdo con el libro de Historia Universal, ¿frente a qué candidato resultó triunfadora Rousseff y cuándo tomó posesión?
+De conformidad con el libro de Historia Universal, ¿frente a qué candidato resultó triunfadora Rousseff y cuándo tomó posesión?
 
 - A. Frente a José Serra, y tomó posesión en enero de 2011
 - B. Frente a Michel Temer, y tomó posesión en enero de 2011
@@ -8972,7 +8972,7 @@ En la segunda ronda de los comicios presidenciales Rousseff resultó triunfadora
 
 ### 571
 
-De acuerdo con el libro de Historia Universal, ¿a qué se enfocó Estados Unidos luego de los atentados del 11 de septiembre de 2001?
+En relación con el libro de Historia Universal, ¿a qué se enfocó Estados Unidos luego de los atentados del 11 de septiembre de 2001?
 
 - A. A la lucha antiterrorista, mostrando desinterés hacia el resto del continente
 - B. A promover el Área de Libre Comercio de las Américas
@@ -8987,7 +8987,7 @@ Luego de los atentados del 11 de septiembre de 2001, Estados Unidos se enfocó a
 
 ### 572
 
-De acuerdo con el libro de Historia Universal, ¿cuál fue la primera reunión continental después de aquellos hechos?
+En relación con el libro de Historia Universal, ¿cuál fue la primera reunión continental después de aquellos hechos?
 
 - A. La Cumbre de las Américas de 2004
 - B. La Primera Cumbre de 1994
@@ -9002,7 +9002,7 @@ En la Cumbre de las Américas (2004), primera reunión continental después de a
 
 ### 573
 
-De acuerdo con el libro de Historia Universal, ¿qué desafíos retomaron las naciones latinoamericanas en esa cumbre?
+En relación con el libro de Historia Universal, ¿qué desafíos retomaron las naciones latinoamericanas en esa cumbre?
 
 - A. Instrumentar medidas contra la pobreza, promover el desarrollo social, lograr un crecimiento económico con equidad y reforzar la gobernabilidad de las democracias
 - B. Eliminar la corrupción y el tráfico de drogas
@@ -9032,7 +9032,7 @@ Los países ya deberían tener un avance de 48% en esa meta y solamente Chile y 
 
 ### 575
 
-De acuerdo con el libro de Historia Universal, ¿qué países habían logrado ese avance?
+En relación con el libro de Historia Universal, ¿qué países habían logrado ese avance?
 
 - A. Solamente Chile y República Dominicana
 - B. Solamente Chile y Brasil
@@ -9047,7 +9047,7 @@ Solamente Chile y República Dominicana lo habían logrado, mientras que en la m
 
 ### 576
 
-De acuerdo con el libro de Historia Universal, ¿desde cuándo promovía Estados Unidos el Área de Libre Comercio de las Américas?
+En relación con el libro de Historia Universal, ¿desde cuándo promovía Estados Unidos el Área de Libre Comercio de las Américas?
 
 - A. Desde la Primera Cumbre de 1994
 - B. Desde la Cumbre de las Américas de 2004
@@ -9062,7 +9062,7 @@ Estados Unidos, tal como lo había hecho desde la Primera Cumbre (1994), promovi
 
 ### 577
 
-De acuerdo con el libro de Historia Universal, ¿para qué año se comprometieron a concretar el ALCA?
+En relación con el libro de Historia Universal, ¿para qué año se comprometieron a concretar el ALCA?
 
 - A. Para el año 2005
 - B. Para el año 2001
@@ -9077,7 +9077,7 @@ Y de que se comprometieron a concretarlo para el año 2005, a la fecha ello no h
 
 ### 578
 
-De acuerdo con el libro de Historia Universal, ¿qué era distinto cuando nació el plan del ALCA?
+En relación con el libro de Historia Universal, ¿qué era distinto cuando nació el plan del ALCA?
 
 - A. Las Torres Gemelas estaban en pie y "Lula" Da Silva no gobernaba Brasil
 - B. Estados Unidos no había firmado el Tratado de Libre Comercio
@@ -9092,7 +9092,7 @@ Y es que cuando nació dicho plan, las Torres Gemelas estaban en pie y "Lula" Da
 
 ### 579
 
-De acuerdo con el libro de Historia Universal, ¿cómo calificó Da Silva al neoliberalismo?
+En relación con el libro de Historia Universal, ¿cómo calificó Da Silva al neoliberalismo?
 
 - A. Como un modelo que genera "dicotomías nefastas entre miseria y opulencia"
 - B. Como un modelo de liberalización del comercio
@@ -9107,7 +9107,7 @@ Mientras que Da Silva se opuso firmemente al ALCA, calificando al neoliberalismo
 
 ### 580
 
-De acuerdo con el libro de Historia Universal, ¿cuántos países integran la Organización de Estados Americanos?
+De conformidad con el libro de Historia Universal, ¿cuántos países integran la Organización de Estados Americanos?
 
 - A. 34
 - B. 28
@@ -9122,7 +9122,7 @@ A la fecha, los 34 países de la Organización de Estados Americanos (OEA) manif
 
 ### 581
 
-De acuerdo con el libro de Historia Universal, ¿por qué luchan los países de la OEA para eliminar la corrupción?
+En relación con el libro de Historia Universal, ¿por qué luchan los países de la OEA para eliminar la corrupción?
 
 - A. Porque impide destinar los recursos públicos para el desarrollo
 - B. Porque impide la liberalización del comercio
@@ -9137,7 +9137,7 @@ Manifiestan estar luchando para eliminar la corrupción, porque impide destinar 
 
 ### 582
 
-De acuerdo con el libro de Historia Universal, ¿qué convención han ratificado los países de la OEA?
+En relación con el libro de Historia Universal, ¿qué convención han ratificado los países de la OEA?
 
 - A. La Convención Interamericana de Ayuda Mutua en Materia Penal
 - B. La Convención Interamericana contra la Corrupción
@@ -9201,7 +9201,7 @@ Y con Argentina porque ésta se oponía al ALCA.
 
 ### 586
 
-De acuerdo con el libro de Historia Universal, ¿en qué se manifestaron los desencuentros con Cuba?
+De conformidad con el libro de Historia Universal, ¿en qué se manifestaron los desencuentros con Cuba?
 
 - A. En la ofensiva contra Fidel Castro según la cual estaría desestabilizando varios países democráticos de Latinoamérica
 - B. En el bloqueo económico a la isla
@@ -9216,7 +9216,7 @@ Los desencuentros con Cuba se manifestaron en la ofensiva contra Fidel Castro se
 
 ### 587
 
-De acuerdo con el libro de Historia Universal, ¿qué conversaciones rompieron, siendo las únicas que tenían regularmente?
+De conformidad con el libro de Historia Universal, ¿qué conversaciones rompieron, siendo las únicas que tenían regularmente?
 
 - A. Las conversaciones sobre migración
 - B. Las conversaciones sobre comercio
@@ -9231,7 +9231,7 @@ En su momento, rompieron las conversaciones sobre migración, las únicas que te
 
 ### 588
 
-De acuerdo con el libro de Historia Universal, ¿qué hechos han distendido los ánimos entre Estados Unidos y Cuba?
+En relación con el libro de Historia Universal, ¿qué hechos han distendido los ánimos entre Estados Unidos y Cuba?
 
 - A. La entrega del poder a Raúl Castro por parte de Fidel y la llegada de Barack Obama a la presidencia
 - B. La reanudación de las conversaciones sobre migración
@@ -9246,7 +9246,7 @@ La entrega del poder a Raúl Castro por parte de Fidel (oficializada en 2008) y 
 
 ### 589
 
-De acuerdo con el libro de Historia Universal, ¿en qué año se oficializó la entrega del poder a Raúl Castro?
+De conformidad con el libro de Historia Universal, ¿en qué año se oficializó la entrega del poder a Raúl Castro?
 
 - A. En 2008
 - B. En 2003
@@ -9261,7 +9261,7 @@ La entrega del poder a Raúl Castro por parte de Fidel (oficializada en 2008).
 
 ### 590
 
-De acuerdo con el libro de Historia Universal, ¿por qué mantuvo la Unión Americana distancia con Venezuela?
+En relación con el libro de Historia Universal, ¿por qué mantuvo la Unión Americana distancia con Venezuela?
 
 - A. Porque sugirió que había financiado la revuelta que derrocó al presidente boliviano Gonzalo Sánchez de Lozada
 - B. Porque Venezuela se oponía al Área de Libre Comercio de las Américas
@@ -9291,7 +9291,7 @@ Que derrocó al presidente boliviano Gonzalo Sánchez de Lozada en 2003, lo que 
 
 ### 592
 
-De acuerdo con el libro de Historia Universal, ¿a qué puso fin Vicente Fox en el año 2000?
+De conformidad con el libro de Historia Universal, ¿a qué puso fin Vicente Fox en el año 2000?
 
 - A. A los 70 años de gobierno del Partido Revolucionario Institucional
 - B. A los 70 años de gobierno del Partido Acción Nacional
@@ -9306,7 +9306,7 @@ En cuanto a México, en el año 2000 Vicente Fox, del Partido Acción Nacional (
 
 ### 593
 
-De acuerdo con el libro de Historia Universal, ¿qué reformas intentó Fox y qué ocurrió con ellas?
+De conformidad con el libro de Historia Universal, ¿qué reformas intentó Fox y qué ocurrió con ellas?
 
 - A. Reformas tendientes a la privatización del petróleo y la electricidad, que fueron rechazadas por el Congreso
 - B. Reformas tendientes a la nacionalización del petróleo, que fueron aprobadas
@@ -9321,7 +9321,7 @@ Fox intentó reformas tendientes a la privatización de sectores como los del pe
 
 ### 594
 
-De acuerdo con el libro de Historia Universal, ¿qué ocurrió con la meta parcial de la OEA de reducir a la mitad la pobreza extrema?
+En relación con el libro de Historia Universal, ¿qué ocurrió con la meta parcial de la OEA de reducir a la mitad la pobreza extrema?
 
 - A. Ésta persistió
 - B. Se cumplió parcialmente
@@ -9336,7 +9336,7 @@ Aunque su gobierno intentó cumplir la meta parcial de la OEA en cuanto reducir 
 
 ### 595
 
-De acuerdo con el libro de Historia Universal, ¿qué significaron para México los hechos terroristas de 2001?
+De conformidad con el libro de Historia Universal, ¿qué significaron para México los hechos terroristas de 2001?
 
 - A. Dejar en suspenso el análisis y posible solución del problema migratorio con el vecino del norte
 - B. El cierre de la frontera norte
@@ -9351,7 +9351,7 @@ Los hechos terroristas de 2001 para México significaron dejar en suspenso temas
 
 ### 596
 
-De acuerdo con el libro de Historia Universal, ¿qué rehusó hacer el gobierno mexicano en 2003 en la ONU?
+De conformidad con el libro de Historia Universal, ¿qué rehusó hacer el gobierno mexicano en 2003 en la ONU?
 
 - A. Votar a favor de una propuesta de Estados Unidos que le habría dado el respaldo para usar la fuerza en Irak
 - B. Votar a favor del Área de Libre Comercio de las Américas
@@ -9381,7 +9381,7 @@ En 2004, el presidente Bush lanzó la iniciativa de legalizar temporalmente trab
 
 ### 598
 
-De acuerdo con el libro de Historia Universal, ¿quién triunfó en las elecciones de 2006 y frente a quién?
+De conformidad con el libro de Historia Universal, ¿quién triunfó en las elecciones de 2006 y frente a quién?
 
 - A. Felipe Calderón Hinojosa, del PAN, frente a Andrés Manuel López Obrador
 - B. Vicente Fox, del PAN, frente a Andrés Manuel López Obrador
@@ -9396,7 +9396,7 @@ Después de una cerrada y polémica elección, Felipe Calderón Hinojosa del PAN
 
 ### 599
 
-De acuerdo con el libro de Historia Universal, ¿qué acción emprendió el gobierno de Calderón?
+En relación con el libro de Historia Universal, ¿qué acción emprendió el gobierno de Calderón?
 
 - A. La lucha armada contra los cárteles del narcotráfico
 - B. La privatización del petróleo y la electricidad
@@ -9411,7 +9411,7 @@ Entre las acciones emprendidas por este gobierno se encuentra la lucha armada co
 
 ### 600
 
-De acuerdo con el libro de Historia Universal, ¿qué epidemia enfrentó el país?
+En relación con el libro de Historia Universal, ¿qué epidemia enfrentó el país?
 
 - A. La Influenza H1N1
 - B. El cólera
