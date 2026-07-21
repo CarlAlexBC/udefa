@@ -67,7 +67,7 @@ primeras células**, que va de la página impresa **32 a la 60**.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **35 a 39**:
+Cubiertas las páginas impresas **35 a 40**:
 
 - La formación de los primeros átomos tras el Big Bang y el origen del sistema
   solar.
@@ -79,9 +79,26 @@ Cubiertas las páginas impresas **35 a 39**:
   Fox y microvesículas de Szostak.
 - Por qué la vida no vuelve a surgir hoy, y la paradoja de Oparin.
 - El dilema de qué molécula surgió primero, y el mundo del ARN.
+- El paso del mundo de los ARN al ADN, y por qué el ADN se quedó con la
+  información genética.
+- Las evidencias de las primeras células: microfósiles, los depósitos de Isua y
+  los isótopos del carbono.
+- Los fósiles moleculares y el trabajo de Zuckerkandl y Pauling.
 
-**Pendiente:** el resto del capítulo 3 (pp. 40–60) y los capítulos 4, 5, 7, 8,
+**Pendiente:** el resto del capítulo 3 (pp. 41–60) y los capítulos 4, 5, 7, 8,
 11, 12, 31, 32, 35, 36 y 37.
+
+## Erratas del libro
+
+Se anotan aquí y **no se escribe reactivo sobre ese punto**: fijar una errata le
+enseñaría mal al aspirante y lo haría fallar si el examen real la corrige.
+
+| Pág. | Dice | Debe decir | Cómo se detectó |
+|---|---|---|---|
+| 40 | los depósitos de Isua "tienen alrededor de **3800 años** de antigüedad" | **3800 millones de años** | Se le cayó "millones". El propio párrafo la presenta como evidencia **más antigua** que los fósiles de 3500 millones de años; 3800 años a secas no tendría sentido ahí. Verificado en el texto crudo del PDF: la errata es del libro, no de la extracción. |
+
+**No hay reactivo sobre la antigüedad de los depósitos de Isua.** Sí lo hay sobre
+dónde están y qué se analizó en ellos, que son datos firmes.
 
 ## Criterio: teoría sobre práctica
 
@@ -845,4 +862,238 @@ Actualmente, los biólogos concuerdan en que cualquier forma ancestral de vida d
 
 ---
 
-**Reactivos en este archivo:** 45
+## Sub-lote 9 · Del mundo del ARN al ADN (p. 40)
+
+### 46
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el modelo que propone que la formación de cadenas de proteínas se originó en el mundo de los ARN?
+
+- A. Mundo de los ARN/proteínas
+- B. Mundo de los ARN/ADN
+- C. Mundo de los aminoácidos
+- D. Mundo prebiótico
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · del ARN al ADN
+
+Ha llevado a proponer que este proceso de formación de cadenas de proteínas se originó en el mundo de los ARN, conformando un modelo que sería denominado como mundo de los ARN/proteínas.
+
+### 47
+
+De conformidad con el libro de Biología, ¿en qué función empezarían las proteínas a reemplazar al ARN, según este modelo?
+
+- A. En la función de acelerar las reacciones químicas
+- B. En la función de almacenar la información genética
+- C. En la función de formar la membrana celular
+- D. En la función de transmitir la herencia a la descendencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · del ARN al ADN
+
+Según este modelo, en una etapa posterior, las proteínas empezarían a reemplazar al ARN en la función de acelerar las reacciones químicas.
+
+> Par que hay que separar: las **proteínas** se quedan con acelerar reacciones y
+> el **ADN** con almacenar la información (reactivo 48). El distractor B cambia
+> uno por otro.
+
+### 48
+
+En relación con el libro de Biología, ¿cuál es la ventaja del ADN que explica que se le transfiriera el almacenamiento de la información genética?
+
+- A. Ser menos susceptible a la degradación química
+- B. Ser capaz de acelerar las reacciones químicas
+- C. Ser más pequeño que el ARN
+- D. Poder atravesar la membrana celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · del ARN al ADN
+
+La función de almacenamiento de la información genética de gran parte de los organismos habría sido transferida del ARN al ADN, cuya ventaja es la de ser menos susceptible a la degradación química.
+
+### 49
+
+De acuerdo con el libro de Biología, ¿cómo resultaron los ácidos nucleicos y las proteínas tras ese proceso de autoorganización?
+
+- A. Complementarios
+- B. Independientes entre sí
+- C. Intercambiables
+- D. Antagónicos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · del ARN al ADN
+
+Entre los ácidos nucleicos y las proteínas se habría desarrollado una compleja y cooperativa serie de interacciones, de controles y equilibrios. Así, estos compuestos, en un proceso de autoorganización, habrían resultado complementarios.
+
+### 50
+
+De conformidad con el libro de Biología, ¿cómo califica la evidencia que sustenta las hipótesis sobre cómo surgió el mundo de los ARN?
+
+- A. Fragmentaria, a lo sumo
+- B. Concluyente y ampliamente aceptada
+- C. Inexistente hasta el momento
+- D. Contradictoria entre los distintos autores
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · del ARN al ADN
+
+Son muchos los trabajos realizados y las hipótesis propuestas para explicar cómo surgió el mundo de los ARN y posteriormente la vida; sin embargo, la evidencia en favor de cada una es, a lo sumo, fragmentaria.
+
+---
+
+## Sub-lote 10 · Las primeras células: las evidencias (p. 40)
+
+### 51
+
+En relación con el libro de Biología, ¿de cuándo datan los fósiles más antiguos encontrados hasta el momento, semejantes a las bacterias actuales?
+
+- A. De 3500 millones de años
+- B. De 3700 millones de años
+- C. De 4600 millones de años
+- D. De 1100 millones de años
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · primeras células
+
+Los fósiles más antiguos encontrados hasta el momento, semejantes a las bacterias actuales, datan de 3500 millones de años.
+
+> Cuatro cifras que conviven en la misma página y se cruzan: **3500** millones
+> son los fósiles confirmados, **3700** los tubulares no concluyentes, **4600**
+> la formación de la Tierra y **1100** los millones de años que separan a las dos
+> primeras.
+
+### 52
+
+De acuerdo con el libro de Biología, ¿cuánto tiempo después de la formación de la Tierra aparecieron esos fósiles?
+
+- A. Alrededor de 1100 millones de años después
+- B. Alrededor de 3500 millones de años después
+- C. Alrededor de 500 millones de años después
+- D. Alrededor de 2000 millones de años después
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · primeras células
+
+Datan de 3500 millones de años, alrededor de 1100 millones de años después de la formación de la Tierra.
+
+### 53
+
+De conformidad con el libro de Biología, ¿qué se ha sugerido recientemente sobre unos fósiles de forma tubular?
+
+- A. Que están en rocas de hace más de 3700 millones de años, aunque los resultados siguen sin ser concluyentes
+- B. Que están en rocas de hace más de 3700 millones de años, y los resultados son concluyentes
+- C. Que son los organismos fósiles hallados en los depósitos de Isua
+- D. Que son más recientes que los fósiles semejantes a bacterias
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · primeras células
+
+Aunque recientemente se ha sugerido la presencia de fósiles de forma tubular en rocas de hace más de 3700 millones de años, los resultados siguen sin ser concluyentes.
+
+> El libro es explícito en que **no son concluyentes**. El distractor B quita esa
+> reserva, que es justo lo que el aspirante tiende a olvidar.
+
+### 54
+
+En relación con el libro de Biología, ¿dónde se encuentran los depósitos sedimentarios que aportan indicios indirectos de vida más antiguos?
+
+- A. En la isla de Isua, al oeste de Groenlandia
+- B. En la isla de Isua, al este de Groenlandia
+- C. En la costa occidental de Islandia
+- D. En el norte de Canadá
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · primeras células
+
+Uno de estos indicios proviene de depósitos sedimentarios de la isla de Isua, al oeste de Groenlandia.
+
+### 55
+
+De acuerdo con el libro de Biología, ¿cuáles son los dos isótopos estables del carbono que se encuentran en la naturaleza?
+
+- A. El ¹²C y el ¹³C
+- B. El ¹²C y el ¹⁴C
+- C. El ¹³C y el ¹⁴C
+- D. El ¹¹C y el ¹²C
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · primeras células
+
+En particular de su contenido de ¹²C y ¹³C, los dos isótopos estables del carbono que se encuentran en la naturaleza.
+
+### 56
+
+De conformidad con el libro de Biología, ¿qué isótopo del carbono tienden a incorporar los organismos vivos en forma selectiva, y por qué?
+
+- A. El ¹²C, que es levemente más ligero
+- B. El ¹³C, que es levemente más ligero
+- C. El ¹²C, que es levemente más pesado
+- D. El ¹³C, que es levemente más pesado
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · primeras células
+
+Sabemos que los organismos vivos tienden a incorporar el ¹²C en forma selectiva, que es levemente más ligero que el ¹³C.
+
+---
+
+## Sub-lote 11 · Los fósiles moleculares (p. 40)
+
+### 57
+
+En relación con el libro de Biología, ¿a qué se refiere el término fósil molecular en biología evolutiva?
+
+- A. A todas aquellas biomoléculas que almacenan información sobre el pasado histórico de los seres vivos
+- B. A los restos de moléculas orgánicas hallados en rocas sedimentarias
+- C. A los microfósiles semejantes a las bacterias actuales
+- D. A los isótopos estables del carbono presentes en las rocas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · fósiles moleculares
+
+En biología evolutiva se ha utilizado el término de fósil molecular para referirse a todas aquellas biomoléculas que almacenan información sobre el pasado histórico de los seres vivos.
+
+### 58
+
+De acuerdo con el libro de Biología, ¿quiénes sugirieron en 1965 que a mayor cercanía entre especies, menor número de diferencias entre sus secuencias?
+
+- A. Emile Zuckerkandl y Linus Pauling
+- B. Emile Zuckerkandl y Sidney W. Fox
+- C. Linus Pauling y Jack Szostak
+- D. Stanley Miller y Linus Pauling
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · fósiles moleculares
+
+En 1965, Emile Zuckerkandl y Linus Pauling sugirieron que mientras más cercanamente relacionadas estuvieran las especies, menor sería el número de diferencias entre las secuencias que se estuvieran comparando.
+
+### 59
+
+De conformidad con el libro de Biología, ¿qué demostraron esos trabajos sobre las secuencias del gorila, el chimpancé y el humano?
+
+- A. Que tenían un menor número de diferencias, es decir, eran más parecidas entre sí
+- B. Que tenían un mayor número de diferencias que con las demás especies
+- C. Que eran idénticas entre sí
+- D. Que no permitían establecer relaciones evolutivas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 40
+**Subtema:** Origen de la vida · fósiles moleculares
+
+En sus trabajos demostraron que las secuencias del gorila, chimpancé y humano tenían un menor número de diferencias; es decir, eran más parecidas entre sí.
+
+---
+
+**Reactivos en este archivo:** 59
