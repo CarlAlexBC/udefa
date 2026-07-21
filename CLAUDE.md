@@ -22,6 +22,13 @@ Está aprendiendo a programar mientras construye esto.
    código.
 2. **Nunca ejecutes migraciones, commits, instalaciones o push sin explicar el
    paso a paso y pedir su OK.** El push lo decide él solo.
+
+   **Única excepción, confirmada por Carlo el 20 jul 2026:** en el banco de
+   reactivos del examen cultural (`docs/examen-cultural/`) tiene **OK permanente
+   para commitear y pushear cada tanda** sin preguntar — sólo hay que avisarle
+   qué entró. Es lo contrario de un descuido: no commitear ya costó que 129
+   reactivos estuvieran sin respaldo en git durante toda su elaboración. Fuera de
+   esa carpeta sigue mandando la regla de arriba.
 3. **No mezcles** "así se ve tu archivo actual" con "código a añadir" en el mismo
    mensaje — los pega literal y se rompe. Un modo o el otro, nunca los dos.
 4. **Verifica antes de afirmar.** Ya pasó dos veces que un diagnóstico dado por
