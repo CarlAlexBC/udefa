@@ -17,6 +17,7 @@ model Plantel {
   nombre            String
   descripcion       String?
   usuarios          Usuario[]
+  examenes          Examen[]
   sesionesCompletas SesionExamenCompleto[]
   createdAt         DateTime               @default(now())
   updatedAt         DateTime               @updatedAt
@@ -55,6 +56,11 @@ model Examen {
   nombre      String
   duracionMin Int
   calificable Boolean         @default(true)
+  // El examen cultural cambia por plantel y por año; el psicológico no.
+  // Por eso los dos van opcionales: los exámenes psicológicos los dejan nulos.
+  plantelId   Int?
+  plantel     Plantel?        @relation(fields: [plantelId], references: [id])
+  anio        Int?
   bloques     Bloque[]
   intentos    IntentoExamen[]
   createdAt   DateTime        @default(now())
@@ -81,6 +87,12 @@ model Reactivo {
   opciones          Json
   respuestaCorrecta String?
   explicacion       String?
+  // Cita bibliográfica con la página impresa, para que el aspirante pueda ir
+  // al libro. Es regla dura del banco cultural.
+  referencia        String?
+  // Nota interna de quien revisa el banco. NUNCA se le muestra al aspirante:
+  // nombra las opciones por su letra y el importador las baraja.
+  notaRevisor       String?
   tema              String?
   polaridad         Polaridad?
   banco             String              @default("v1")

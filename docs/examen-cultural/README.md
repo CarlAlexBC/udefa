@@ -192,6 +192,46 @@ evitó el trabajo duplicado.
 Y **commitea al terminar cada tanda.** Los 129 reactivos de Español y Álgebra
 estuvieron sin respaldo en git durante toda su elaboración.
 
+## Estructura del examen real
+
+**Dato de Carlo, 21 jul 2026.** No estaba escrito en ninguna parte y hacía falta:
+todo el banco se armó con el criterio "cubrir el temario", sin saber contra qué
+tamaño se estaba trabajando.
+
+| Qué | Cuánto |
+|---|---|
+| Reactivos que presenta el aspirante | **100** |
+| Duración | **2 horas (120 min)** |
+| Cronómetro | **sí** |
+
+**El banco es mucho más grande que el examen, y así debe ser.** Hay 1 170
+reactivos para un examen de 100. Si el banco tuviera exactamente 100, el
+aspirante haría dos simulacros y se los sabría de memoria; el pool grande es lo
+que permite que cada intento sea distinto.
+
+### Pendiente: el reparto por materia
+
+**Todavía no se sabe cómo se reparten esas 100 entre las cuatro materias.**
+Mientras llega el dato, el sistema toma **25 de cada una**, que da el total
+correcto aunque puede que no la mezcla correcta.
+
+Cuando Carlo lo confirme, se cambia en **un solo lugar**:
+`REPARTO_CULTURAL`, en `apps/backend/src/examenes/examenes.service.ts`.
+
+### El banco está desequilibrado y hay que corregirlo
+
+| Materia | Reactivos | % del banco | Si el examen pidiera 25 |
+|---|---:|---:|---|
+| Historia | 600 | 51% | alcanza para 24 simulacros sin repetir |
+| Álgebra | 336 | 29% | 13 simulacros |
+| Geografía | 125 | 11% | 5 simulacros |
+| Español | 109 | 9% | **4 simulacros** |
+
+Pasó porque el banco se hizo por capítulos disponibles —Historia tiene un
+capítulo enorme y Español sólo dos bloques—, no contra la estructura del examen.
+**No invalida lo hecho**, pero marca por dónde seguir: si el reparto real resulta
+parejo, **Español y Geografía son las que hay que engordar**.
+
 ## Lo que aún no existe
 
 No hay importador ni esquema en la base para este bloque. Los `.md` son hoy el

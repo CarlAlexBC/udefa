@@ -6,6 +6,19 @@ import { TemasPrioridadService } from '../temas-prioridad/temas-prioridad.servic
 const BANCO_DIAGNOSTICO = 'remaster';
 
 /**
+ * Banco del que se sirve cada tipo de examen.
+ *
+ * Los tipos que no aparecen aquí se arman con todos los reactivos del bloque,
+ * sin filtrar — que es como funcionaban antes de que existieran los bancos.
+ */
+const BANCO_POR_TIPO: Record<string, string> = {
+  personalidad: BANCO_DIAGNOSTICO,
+  // Un banco por plantel: hoy sólo existe el del HCM. Cuando entre otro
+  // plantel habrá que elegir el banco por examen.plantelId y no por tipo.
+  cultural: 'cultural-hcm',
+};
+
+/**
  * Unidad mínima de muestreo. No es el reactivo: es el grupo que tiene que
  * viajar junto al examen para que el análisis funcione.
  *
@@ -64,14 +77,38 @@ export class ExamenesService {
    * - psicometrico: 25 por bloque × 4 bloques = 100 reactivos.
    * - personalidad: 256 por bloque × 1 bloque = 256 reactivos.
    * - axiologico: 39 por bloque × 1 bloque = 39 reactivos.
+   * - cultural: 25 por bloque × 4 materias = 100 reactivos.
    *
    * Si el tipo no está mapeado, cae al default de 25 (comportamiento historico).
+   *
+   * OJO CON EL CULTURAL — el 25 de aquí es PROVISIONAL.
+   *
+   * Del examen cultural sabemos por Carlo que son **100 reactivos en 2 horas**,
+   * pero **todavía no sabemos cómo se reparten esas 100 entre las cuatro
+   * materias**. Mientras llega ese dato van 25 de cada una, que da el total
+   * correcto aunque puede que no la mezcla correcta.
+   *
+   * Cuando Carlo confirme el reparto real, se cambia en REPARTO_CULTURAL de
+   * abajo — no hay que tocar nada más.
    */
   private readonly REACTIVOS_POR_BLOQUE_POR_TIPO: Record<string, number> = {
     psicometrico: 25,
     personalidad: 256,
     axiologico: 39,
+    cultural: 25,
   };
+
+  /**
+   * Reparto de las 100 preguntas del examen cultural entre las materias.
+   *
+   * Una materia que no aparezca aquí usa el número de
+   * REACTIVOS_POR_BLOQUE_POR_TIPO. Hoy está vacío a propósito: sin el dato
+   * real, repartir parejo es lo honesto. **Éste es el único lugar que hay que
+   * tocar cuando llegue el reparto oficial**, por ejemplo:
+   *
+   *     { 'Español': 30, 'Álgebra': 30, 'Historia': 20, 'Geografía': 20 }
+   */
+  private readonly REPARTO_CULTURAL: Record<string, number> = {};
 
   async armarExamen(examenId: number) {
     const examen = await this.prisma.examen.findUnique({
@@ -90,17 +127,21 @@ export class ExamenesService {
     const reactivosPorBloque =
       this.REACTIVOS_POR_BLOQUE_POR_TIPO[examen.tipo] ?? 25;
 
-    // El examen de personalidad se arma SOLO con el banco remasterizado.
-    // El banco viejo (v1) queda disponible en la tabla pero fuera del diagnóstico;
-    // su destino es servir como set de práctica separado.
-    const banco = examen.tipo === 'personalidad' ? BANCO_DIAGNOSTICO : undefined;
+    // El examen de personalidad se arma SOLO con el banco remasterizado, y el
+    // cultural SOLO con el suyo. El banco viejo (v1) queda disponible en la
+    // tabla pero fuera del diagnóstico; su destino es servir como set de
+    // práctica separado.
+    const banco = BANCO_POR_TIPO[examen.tipo];
 
     const bloquesConReactivos = await Promise.all(
       examen.bloques.map(async (bloque) => ({
         ...bloque,
         reactivos: await this.obtenerReactivosAleatoriosDeBloque(
           bloque.id,
-          reactivosPorBloque,
+          // El cultural puede pedir un número distinto por materia; los demás
+          // tipos usan el mismo para todos sus bloques.
+          (examen.tipo === 'cultural' ? this.REPARTO_CULTURAL[bloque.nombre] : undefined) ??
+            reactivosPorBloque,
           banco,
         ),
       })),
