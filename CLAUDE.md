@@ -72,12 +72,10 @@ mismo para cifras largas antes de fijarlas en un reactivo.
 
 ## Decisiones abiertas
 
-- **Clave de respuestas inconsistente.** En los `.md` la correcta se escribe
-  siempre como A en Historia, Español y Álgebra; **Geografía sí la reparte** entre
-  A, B y C. Si el importador va a barajar opciones no pasa nada; si no, Geografía
-  queda distinta. **Carlo no lo ha decidido.**
 - **No existe importador** de los `.md` del examen cultural a la base. Cuando
   toque, mirar `apps/backend/scripts/importar-remaster.ts` como referencia.
+  Debe cumplir dos cosas que ya decidió Carlo — están en `docs/examen-cultural/README.md`:
+  **barajar las opciones** y **no importar las notas `>`**.
 - **Alcance de Álgebra**: el temario dice "capítulos I–VI" pero se está incluyendo
   también Preliminares. Documentado por si se decide separarlo.
 

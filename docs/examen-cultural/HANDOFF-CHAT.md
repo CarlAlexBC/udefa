@@ -148,8 +148,10 @@ Valor numérico de una expresión algebraica es el resultado que se obtiene al s
 Reglas:
 
 1. El enunciado **nombra el libro**: *"De acuerdo con el libro de X…"*.
-2. Cuatro opciones, A a D. **La correcta siempre es la A** en este banco (queda
-   pendiente decidir si el importador barajará; ver README).
+2. Cuatro opciones, A a D. **La correcta siempre es la A** en este banco. No es
+   que el examen la ponga en A: es que **el importador baraja las opciones**
+   (decidido el 21 jul 2026), así que en el `.md` se escribe siempre en A porque
+   es lo cómodo para revisar.
 3. Referencia con **página impresa**, no hoja del PDF.
 4. La justificación es **cita textual** del libro.
 5. Numeración corrida por archivo, sin reiniciar.
@@ -254,10 +256,12 @@ handoff. Las otras tres materias están cerradas.
 
 ## Decisiones abiertas
 
-- **Clave de respuestas.** En Historia, Español y Álgebra la correcta se escribe
-  siempre como A; **Geografía sí la reparte** entre A, B y C. Si el importador
-  baraja opciones no pasa nada; si no, Geografía queda distinta. **Carlo no lo
-  ha decidido.**
+- ~~**Clave de respuestas.**~~ **Decidido por Carlo el 21 jul 2026: el importador
+  barajará las opciones.** Por tanto da igual que Historia, Español y Álgebra
+  escriban siempre la correcta como A y que Geografía la reparta: el orden del
+  `.md` deja de importar en cuanto entra a la base. **Se sigue escribiendo la
+  correcta como A** — es lo cómodo para revisar. Detalle y consecuencias en
+  `README.md`.
 - **Alcance de Álgebra.** El temario dice "Capítulos I–VI", que empiezan en la
   página 40. Se está incluyendo además **Preliminares** (pp. 5–39), donde viven
   las definiciones. Documentado por si se decide separarlo.

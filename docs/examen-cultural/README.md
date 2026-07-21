@@ -199,3 +199,34 @@ No hay importador ni esquema en la base para este bloque. Los `.md` son hoy el
 personalidad (`apps/backend/scripts/importar-remaster.ts`) y no repetir sus
 errores: ahí la documentación escrita a mano llegó a mentir, y se resolvió
 generando `ESTADO.md` desde el propio importador.
+
+### Lo que el importador tiene que hacer — decidido, no opinable
+
+**Decisión de Carlo del 21 jul 2026: el importador baraja las opciones.**
+
+Con eso se cierra la vieja discusión de la clave de respuestas. Daba igual que
+Historia, Español y Álgebra escribieran siempre la correcta como A y que
+Geografía la repartiera entre A, B y C: **el orden del `.md` deja de importar en
+cuanto el reactivo entra a la base.** En los `.md` se sigue escribiendo la
+correcta en A porque es lo cómodo para revisar de un vistazo.
+
+De ahí salen **dos obligaciones para quien escriba el importador**:
+
+**1. Barajar las cuatro opciones y recalcular cuál es la correcta.** No basta con
+mover las opciones: hay que guardar cuál quedó siendo la buena después de barajar.
+
+**2. NO importar las notas `>` como texto visible al aspirante.** Esto es lo que
+se rompe si nadie lo advierte. A lo largo del banco hay **44 notas** que explican
+un reactivo nombrando las opciones por su letra —"el distractor B invierte
+minuendo y sustraendo", "el distractor C es la definición de la división"—. Esas
+notas están escritas contra el orden del `.md`. **Si se barajan las opciones y la
+nota se muestra, la nota miente.**
+
+Las notas `>` son para **quien revisa el banco**, no para el aspirante. El
+importador debe ignorarlas, o el esquema debe guardarlas en un campo interno que
+nunca se le muestre a nadie que esté presentando el examen.
+
+**Comprobado antes de decidir:** en los 1 170 reactivos **ninguna opción depende
+de su posición**. No hay "todas las anteriores", ni "A y B son correctas", ni
+nada que se rompa al reordenar. Las cuatro opciones de cada reactivo se leen
+igual en cualquier orden, así que barajar es seguro en todo el banco.
