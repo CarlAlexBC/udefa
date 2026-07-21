@@ -18,7 +18,7 @@ _Regenerado el 2026-07-21._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural · HCM | 1170 | todas las materias cerradas |
+| Examen cultural (EMM, HCM) | 1194 | abiertas: EMM · Biología |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -27,25 +27,26 @@ _Regenerado el 2026-07-21._
 | Inicial · bloque7 axiologico | 155 | material previo |
 | Guía del aspirante | — | 59 secciones |
 
-## Examen cultural · HCM
+## Examen cultural — por plantel
 
 | Materia | Reactivos | Pendiente |
 |---|---:|---|
-| Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
-| Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
-| Álgebra · Capítulo II · Resta | 23 | ninguno. El capítulo II (pp. 46–57) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-03-signos-agrupacion.md`. |
-| Álgebra · Capítulo III · Signos de agrupación | 18 | ninguno. El capítulo III (pp. 58–62) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-04-multiplicacion.md`. |
-| Álgebra · Capítulo IV · Multiplicación | 30 | ninguno. El capítulo IV (pp. 63–78) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-05-division.md`. |
-| Álgebra · Capítulo V · División | 32 | ninguno. El capítulo V (pp. 79–96) está cerrado, y con `algebra-06-productos-cocientes-notables.md` quedó cerrada toda la materia. |
-| Álgebra · Capítulo VI · Productos y cocientes notables | 28 | ninguno. El capítulo VI está cerrado y **con él toda la materia de Álgebra**: Preliminares y los capítulos I a VI, páginas impresas 5 a 111. |
-| Español · Bloque 1 · Proceso comunicativo | 32 | ninguno. El bloque 1 está cerrado. |
-| Español · Bloque 3 · Proceso de escritura | 77 | ninguno. El bloque 3 está cerrado. |
-| Geografía · Capítulo 1 · Generalidades | 13 | ninguno. El alcance del capítulo 1 está cerrado. |
-| Geografía · Capítulo 3 · Unidades orogénicas | 43 | ninguno. El alcance del capítulo 3 está cerrado. |
-| Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
-| Geografía · Capítulo 5 · Islas | 42 | ninguno. El capítulo 5 está cerrado. |
-| Historia · Capítulo 6 · El mundo contemporáneo | 600 | ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que pide el temario del HCM están completos, de la página 205 a la 279. |
-| **Total** | **1170** | |
+| EMM · Biología · Capítulo 3 · Origen de la vida | 24 | el resto del capítulo 3 (pp. 38–60) y los capítulos 4, 5, 7, 8, 11, 12, 31, 32, 35, 36 y 37. |
+| HCM · Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
+| HCM · Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
+| HCM · Álgebra · Capítulo II · Resta | 23 | ninguno. El capítulo II (pp. 46–57) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-03-signos-agrupacion.md`. |
+| HCM · Álgebra · Capítulo III · Signos de agrupación | 18 | ninguno. El capítulo III (pp. 58–62) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-04-multiplicacion.md`. |
+| HCM · Álgebra · Capítulo IV · Multiplicación | 30 | ninguno. El capítulo IV (pp. 63–78) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-05-division.md`. |
+| HCM · Álgebra · Capítulo V · División | 32 | ninguno. El capítulo V (pp. 79–96) está cerrado, y con `algebra-06-productos-cocientes-notables.md` quedó cerrada toda la materia. |
+| HCM · Álgebra · Capítulo VI · Productos y cocientes notables | 28 | ninguno. El capítulo VI está cerrado y **con él toda la materia de Álgebra**: Preliminares y los capítulos I a VI, páginas impresas 5 a 111. |
+| HCM · Español · Bloque 1 · Proceso comunicativo | 32 | ninguno. El bloque 1 está cerrado. |
+| HCM · Español · Bloque 3 · Proceso de escritura | 77 | ninguno. El bloque 3 está cerrado. |
+| HCM · Geografía · Capítulo 1 · Generalidades | 13 | ninguno. El alcance del capítulo 1 está cerrado. |
+| HCM · Geografía · Capítulo 3 · Unidades orogénicas | 43 | ninguno. El alcance del capítulo 3 está cerrado. |
+| HCM · Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
+| HCM · Geografía · Capítulo 5 · Islas | 42 | ninguno. El capítulo 5 está cerrado. |
+| HCM · Historia · Capítulo 6 · El mundo contemporáneo | 600 | ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que pide el temario del HCM están completos, de la página 205 a la 279. |
+| **Total** | **1194** | |
 
 ## Personalidad (remaster)
 

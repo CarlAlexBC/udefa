@@ -25,18 +25,32 @@ const existe = (p) => fs.existsSync(p);
 // falla en silencio y arrastra texto de más.
 const leer = (p) => fs.readFileSync(p, 'utf8').replace(/\r\n/g, '\n');
 
-/** Reactivos del examen cultural: un archivo por materia, `### N` por reactivo. */
+/**
+ * Reactivos del examen cultural: un archivo por materia, `### N` por reactivo.
+ *
+ * El examen cultural cambia por plantel, así que hay una carpeta por escuela
+ * dentro de `docs/examen-cultural/`. Se recorren todas: el día que entre un
+ * plantel nuevo aparece solo, sin tocar este script.
+ */
 function examenCultural() {
-  const dir = rel('docs', 'examen-cultural', 'HCM');
-  if (!existe(dir)) return [];
+  const raiz = rel('docs', 'examen-cultural');
+  if (!existe(raiz)) return [];
 
-  return fs
-    .readdirSync(dir)
-    .filter((f) => f.endsWith('.md'))
-    .sort()
-    .map((f) => {
+  const planteles = fs
+    .readdirSync(raiz, { withFileTypes: true })
+    .filter((d) => d.isDirectory())
+    .map((d) => d.name)
+    .sort();
+
+  return planteles.flatMap((plantel) => {
+    const dir = path.join(raiz, plantel);
+    return fs
+      .readdirSync(dir)
+      .filter((f) => f.endsWith('.md'))
+      .sort()
+      .map((f) => {
       const txt = leer(path.join(dir, f));
-      const titulo = (txt.match(/^# (.+)$/m) || [, f])[1];
+      const titulo = `${plantel} · ${(txt.match(/^# (.+)$/m) || [, f])[1]}`;
       const total = (txt.match(/^### \d+$/gm) || []).length;
 
       // El encabezado de cada archivo declara qué le falta. Se lee de ahí para
@@ -48,8 +62,9 @@ function examenCultural() {
       const m = txt.match(/\*\*Pendiente:\*\*\s*([\s\S]*?)(?:\n\n|\n##)/);
       const pendiente = m ? m[1].replace(/\s+/g, ' ').trim() : null;
 
-      return { archivo: f, titulo, total, pendiente };
-    });
+        return { archivo: `${plantel}/${f}`, titulo, total, pendiente };
+      });
+  });
 }
 
 /** El banco de personalidad ya publica su propio ESTADO.md generado: se lee de ahí. */
@@ -139,11 +154,20 @@ function construir() {
   if (pers) {
     L.push(`| Personalidad (remaster) | ${pers.total} | banco cerrado, ${pers.ejes} ejes |`);
   }
+  // El título ya no puede decir "HCM": el banco cultural es por plantel y hay
+  // uno por escuela. Se listan los que tienen material.
+  const plantelesCulturales = [
+    ...new Set(cultural.map((m) => m.titulo.split(' · ')[0])),
+  ];
   L.push(
-    `| Examen cultural · HCM | ${totalCultural} | ${
+    `| Examen cultural (${plantelesCulturales.join(', ')}) | ${totalCultural} | ${
       abiertos.length === 0
         ? 'todas las materias cerradas'
-        : `abiertas: ${abiertos.map((m) => m.titulo.split(' · ')[0]).join(', ')}`
+        : `abiertas: ${[
+            ...new Set(
+              abiertos.map((m) => m.titulo.split(' · ').slice(0, 2).join(' · ')),
+            ),
+          ].join(', ')}`
     } |`,
   );
   for (const b of iniciales) {
@@ -153,7 +177,7 @@ function construir() {
   L.push(`| Guía del aspirante | — | ${guia} secciones |`);
   L.push('');
 
-  L.push('## Examen cultural · HCM');
+  L.push('## Examen cultural — por plantel');
   L.push('');
   L.push('| Materia | Reactivos | Pendiente |');
   L.push('|---|---:|---|');
