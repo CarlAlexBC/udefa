@@ -103,9 +103,27 @@ export default function SimuladorPage({
   // Timestamp del inicio del intento — usado para `respondidoEnMs` de cada respuesta.
   const inicioMsRef = useRef<number>(0)
 
+  // Con cronómetro global el reloj se carga una sola vez, al empezar la primera
+  // materia. Este ref recuerda que ya arrancó para no reiniciarlo en las demás.
+  const cronometroArrancadoRef = useRef(false)
+
   const bloqueActual = bloques[bloqueIndex]
   const esUltimoBloque = bloqueIndex === bloques.length - 1
   const reactivoActual = bloqueActual?.reactivos[reactivoIndex]
+
+  /**
+   * Cómo corre el tiempo, según el examen.
+   *
+   * - **Por bloque** (psicométrico): cada bloque trae su `tiempoLimite` y al
+   *   agotarse salta al siguiente. El aspirante no puede robarle tiempo a un
+   *   bloque para dárselo a otro.
+   * - **Global** (cultural): un solo reloj de `duracionMin` para todo. El
+   *   aspirante reparte sus 2 horas entre las cuatro materias como quiera, y
+   *   cuando se acaba, se acaba el examen completo.
+   *
+   * Dato confirmado por Carlo el 21 jul 2026: el cultural es global de 2 horas.
+   */
+  const esCronometroGlobal = examen?.tipo === 'cultural'
 
   /* ─── Iniciar simulador (crea intento + arma examen) ─── */
   async function iniciar() {
@@ -194,7 +212,17 @@ export default function SimuladorPage({
   /* ─── Comenzar el bloque actual (arranca timer) ─── */
   function comenzarBloque() {
     if (!bloqueActual) return
-    setTiempoRestanteSeg(bloqueActual.tiempoLimite * 60)
+    if (esCronometroGlobal) {
+      // Un solo reloj para todo el examen: sólo se carga la primera vez y de
+      // ahí en adelante sigue corriendo entre materias. Así el aspirante
+      // reparte sus 2 horas como quiera, que es como funciona el real.
+      if (!cronometroArrancadoRef.current) {
+        setTiempoRestanteSeg((examen?.duracionMin ?? 0) * 60)
+        cronometroArrancadoRef.current = true
+      }
+    } else {
+      setTiempoRestanteSeg(bloqueActual.tiempoLimite * 60)
+    }
     setReactivoIndex(0)
     setEstado('en_progreso')
   }
@@ -238,18 +266,26 @@ export default function SimuladorPage({
     return () => clearInterval(interval)
   }, [estado])
 
-  // Cuando el tiempo del bloque se agota, saltamos al siguiente bloque
-  // (o finalizamos si es el último). Se maneja fuera del interval para
-  // evitar setState anidados.
+  // Cuando el tiempo se agota: con reloj global se acaba el examen entero,
+  // sin importar en qué materia vaya. Con reloj por bloque sólo se cierra ese
+  // bloque y pasa al siguiente. Se maneja fuera del interval para evitar
+  // setState anidados.
   useEffect(() => {
     if (estado === 'en_progreso' && tiempoRestanteSeg === 0) {
-      if (esUltimoBloque) {
+      if (esCronometroGlobal || esUltimoBloque) {
         finalizar('TIEMPO_AGOTADO')
       } else {
         pasarASiguienteBloque()
       }
     }
-  }, [estado, tiempoRestanteSeg, esUltimoBloque, finalizar, pasarASiguienteBloque])
+  }, [
+    estado,
+    tiempoRestanteSeg,
+    esUltimoBloque,
+    esCronometroGlobal,
+    finalizar,
+    pasarASiguienteBloque,
+  ])
 
   /* ═══════════════════════════════════════════════════════════
      Render — idle / cargando / error
@@ -294,6 +330,13 @@ export default function SimuladorPage({
         bloqueIndex={bloqueIndex}
         totalBloques={bloques.length}
         esUltimo={esUltimoBloque}
+        cronometroGlobalSeg={
+          esCronometroGlobal
+            ? cronometroArrancadoRef.current
+              ? tiempoRestanteSeg
+              : (examen?.duracionMin ?? 0) * 60
+            : null
+        }
         onComenzar={comenzarBloque}
         onSaltar={pasarASiguienteBloque}
       />
@@ -514,6 +557,7 @@ function PantallaInstrucciones({
   esUltimo,
   onComenzar,
   onSaltar,
+  cronometroGlobalSeg,
 }: {
   bloque: Bloque
   bloqueIndex: number
@@ -521,6 +565,11 @@ function PantallaInstrucciones({
   esUltimo: boolean
   onComenzar: () => void
   onSaltar: () => void
+  /**
+   * Segundos que quedan del reloj de todo el examen, cuando el examen usa
+   * cronómetro global. `null` cuando cada bloque tiene su propio tiempo.
+   */
+  cronometroGlobalSeg?: number | null
 }) {
   const info = INSTRUCCIONES_POR_BLOQUE[bloque.nombre]
   const sinReactivos = bloque.reactivos.length === 0
@@ -630,7 +679,13 @@ function PantallaInstrucciones({
           <div className="flex items-center gap-2 text-sm text-muted-foreground">
             <Clock className="h-4 w-4 text-accent" />
             <span>
-              {bloque.tiempoLimite} minutos ·{' '}
+              {/* Con reloj global el tiempo NO es de esta materia: es lo que
+                  queda para todo el examen. Decir "30 minutos" aquí haría
+                  creer al aspirante que tiene un límite por materia. */}
+              {cronometroGlobalSeg != null
+                ? `${Math.ceil(cronometroGlobalSeg / 60)} min para todo el examen`
+                : `${bloque.tiempoLimite} minutos`}{' '}
+              ·{' '}
               {sinReactivos
                 ? 'sin reactivos'
                 : `${bloque.reactivos.length} reactivos`}
