@@ -30,7 +30,7 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63, 66 y 67**:
+Cubiertas las páginas impresas **61 a 63 y 66 a 68**:
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -42,6 +42,8 @@ Cubiertas las páginas impresas **61 a 63, 66 y 67**:
 - La matriz extracelular: qué es, de qué está formada y su papel en tejidos.
 - La pared celular como distintivo de las células vegetales, sus capas
   (laminilla media, primaria, secundaria), la lignina y lo que halló Hooke.
+- El descubrimiento del núcleo: los citoblastos de Schleiden, Hertwig y la
+  fecundación del erizo de mar, y Flemming con la cromatina y los cromosomas.
 
 **Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
 4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
@@ -706,4 +708,204 @@ Muchas algas también contienen celulosa en sus paredes, mientras que, en las pa
 
 ---
 
-**Reactivos en este archivo:** 38
+## Sub-lote 9 · Los citoblastos de Schleiden (p. 68)
+
+*El capítulo vuelve a Schleiden y Schwann, pero por un ángulo NUEVO respecto del
+ensayo 3-1: aquí se trata el descubrimiento del núcleo, no la formulación de la
+teoría celular. Sólo se escribe lo que añade.*
+
+### 39
+
+De acuerdo con el libro de Biología, ¿qué observaba Schleiden en las células del interior de las semillas, por su interés en el desarrollo?
+
+- A. Una especie de gránulos que daban la impresión de ser núcleos a partir de los cuales se formaban las células
+- B. Las mitocondrias que aportaban energía al embrión
+- C. La pared celular que hacía visibles las celdillas
+- D. La matriz extracelular entre las células
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 68
+**Subtema:** Organización de las células · descubrimiento del núcleo
+
+Como estaba interesado en los procesos de desarrollo, Schleiden observaba las células del interior de las semillas. No tardó en descubrir en ellas una especie de gránulos que le llamaron la atención porque daban la impresión de ser núcleos a partir de los cuales se formaban las células en el embrión en desarrollo.
+
+### 40
+
+De conformidad con el libro de Biología, ¿cómo denominó Schleiden a esos gránulos, y qué significan las raíces del término?
+
+- A. Citoblastos: cito, célula; blasto, germen
+- B. Cromosomas: cromo, color; soma, cuerpo
+- C. Cromatina: por su capacidad de colorearse
+- D. Citoplasma: cito, célula; plasma, líquido
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 68
+**Subtema:** Organización de las células · descubrimiento del núcleo
+
+Por eso, los denominó citoblastos (cito: célula; blasto: germen).
+
+### 41
+
+En relación con el libro de Biología, ¿qué eran en realidad los gránulos o citoblastos que observaban Schleiden y Schwann?
+
+- A. Los núcleos celulares de las células eucariontes, fáciles de identificar mediante tinción
+- B. Las mitocondrias de las células
+- C. Las paredes celulares de los vegetales
+- D. Los cromosomas ya duplicados
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 68
+**Subtema:** Organización de las células · descubrimiento del núcleo
+
+Los gránulos o citoblastos no eran otra cosa que los núcleos celulares de las células eucariontes, que son fáciles de identificar mediante tinción.
+
+---
+
+## Sub-lote 10 · Hertwig y la fecundación (recuadro 4-2, p. 68)
+
+### 42
+
+De acuerdo con el libro de Biología, ¿qué embriólogo alemán estudió la fecundación usando óvulos y esperma de erizos de mar?
+
+- A. Oscar Hertwig
+- B. Walter Flemming
+- C. Theodor Schwann
+- D. Mathias Schleiden
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 68
+**Subtema:** Organización de las células · el papel del núcleo
+
+Una de las observaciones microscópicas más importantes fue realizada por un embriólogo alemán, Oscar Hertwig (1849-1922), quien estudiaba el fenómeno de la fecundación utilizando en sus investigaciones óvulos y esperma de erizos de mar.
+
+### 43
+
+De conformidad con el libro de Biología, ¿por qué los gametos de erizo de mar son un buen modelo para estudiar el núcleo celular?
+
+- A. Porque producen óvulos y espermatozoides en gran cantidad, y los óvulos son grandes, transparentes y fáciles de observar
+- B. Porque sus células carecen de pared celular
+- C. Porque su fecundación ocurre dentro del cuerpo del animal
+- D. Porque sus núcleos son de mayor tamaño que los cromosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 68
+**Subtema:** Organización de las células · el papel del núcleo
+
+Estos animales producen óvulos y espermatozoides en gran cantidad y los liberan al medio acuático donde ocurre la fecundación. Además, los óvulos son relativamente grandes y transparentes y, por lo tanto, fáciles de observar. Todas estas características convierten a los gametos de erizo de mar en un buen modelo para el estudio del núcleo celular.
+
+### 44
+
+En relación con el libro de Biología, ¿qué observó Hertwig durante el proceso de fecundación, a pesar de la presencia de un enorme número de espermatozoides?
+
+- A. Que sólo uno de ellos penetraba dentro del óvulo
+- B. Que todos ellos penetraban dentro del óvulo
+- C. Que ninguno lograba penetrar el óvulo
+- D. Que el óvulo se dividía antes de la penetración
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 68
+**Subtema:** Organización de las células · el papel del núcleo
+
+Hertwig vio que, a pesar de la presencia de un enorme número de espermatozoides, solo uno de ellos penetraba dentro del óvulo.
+
+### 45
+
+De acuerdo con el libro de Biología, ¿qué visualizó Hertwig respecto de los núcleos del espermatozoide y del óvulo?
+
+- A. Que el núcleo del espermatozoide se unía al del óvulo fusionándose
+- B. Que el núcleo del espermatozoide reemplazaba por completo al del óvulo
+- C. Que ambos núcleos se destruían durante la fecundación
+- D. Que el núcleo del óvulo se dividía antes de la unión
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 68
+**Subtema:** Organización de las células · el papel del núcleo
+
+Así fue como pudo visualizar que el núcleo del espermatozoide se unía al del óvulo fusionándose.
+
+### 46
+
+De conformidad con el libro de Biología, ¿qué ayudó a establecer más adelante la observación de Hertwig sobre la fusión de los núcleos?
+
+- A. Que el núcleo es el portador de la información hereditaria
+- B. Que el citoplasma es el portador de la información hereditaria
+- C. Que la fecundación no requiere la unión de los núcleos
+- D. Que los cromosomas se forman en el citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 68
+**Subtema:** Organización de las células · el papel del núcleo
+
+Esta observación, confirmada por otros científicos y en otros tipos de organismos, fue importante para establecer más adelante el hecho de que el núcleo es el portador de la información hereditaria.
+
+---
+
+## Sub-lote 11 · Flemming, la cromatina y los cromosomas (recuadro 4-2, p. 68)
+
+### 47
+
+En relación con el libro de Biología, ¿qué citólogo alemán aportó otra pista importante sobre el núcleo en la década de 1880?
+
+- A. Walter Flemming
+- B. Oscar Hertwig
+- C. Theodor Schwann
+- D. Camilo Golgi
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 68
+**Subtema:** Organización de las células · cromatina y cromosomas
+
+Otra importante pista acerca de la importancia del núcleo fue aportada por el citólogo alemán Walter Flemming (1843-1905) en la década de 1880.
+
+### 48
+
+De acuerdo con el libro de Biología, ¿por qué Flemming denominó cromatina a los filamentos del núcleo?
+
+- A. Porque se coloreaban fuertemente
+- B. Porque se apelotonaban antes de la división
+- C. Porque se duplicaban formando pares
+- D. Porque se alineaban en el ecuador de la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 68
+**Subtema:** Organización de las células · cromatina y cromosomas
+
+Flemming observó el núcleo celular compuesto por una serie de filamentos que se coloreaban fuertemente, razón por la cual los denominó cromatina.
+
+### 49
+
+De conformidad con el libro de Biología, ¿cómo denominó Flemming a los bastoncitos en que se seccionaba el filamento de cromatina antes de la división celular?
+
+- A. Cromosomas
+- B. Citoblastos
+- C. Centríolos
+- D. Gametos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 68
+**Subtema:** Organización de las células · cromatina y cromosomas
+
+Al observar los cambios que experimentaba la cromatina a lo largo del desarrollo de una célula, pudo observar cómo, en momentos previos a la división celular, el filamento se apelotonaba y luego se seccionaba en varios bastoncitos a los que denominó cromosomas.
+
+> Par que hay que separar: la **cromatina** es el filamento que se colorea; los
+> **cromosomas** son los bastoncitos en que ese filamento se secciona antes de
+> dividirse. Es la misma materia en dos momentos distintos.
+
+### 50
+
+En relación con el libro de Biología, ¿cómo llamó Flemming al fenómeno que describió durante la división celular?
+
+- A. "La danza de los cromosomas"
+- B. "La fusión de los núcleos"
+- C. "El germen de las células"
+- D. "El baile de la cromatina"
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 68
+**Subtema:** Organización de las células · cromatina y cromosomas
+
+Durante la división celular, describió "la danza de los cromosomas", es decir, el fenómeno por el cual estos bastoncitos se duplican formando cromosomas dobles, que se alinean en el ecuador de la célula y luego se separan en cromosomas simples, cada uno hacia un polo de la célula que luego se divide en dos, lo que da lugar a dos células hijas.
+
+---
+
+**Reactivos en este archivo:** 50
