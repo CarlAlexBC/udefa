@@ -106,8 +106,9 @@ que las erratas de Historia, porque la cronología de la historia de la matemát
 varía entre manuales y aquí no hay una segunda mención en el libro con la que
 contrastar.
 
-**Pendiente:** los capítulos I–VI completos (pp. 40–111). Preliminares está
-cerrado.
+**Pendiente:** ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de
+Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** —
+hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta.
 
 ## Criterio: teoría sobre práctica
 
