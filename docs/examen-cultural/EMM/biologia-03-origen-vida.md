@@ -67,7 +67,7 @@ primeras células**, que va de la página impresa **32 a la 60**.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **35 a 40**:
+Cubiertas las páginas impresas **35 a 42**:
 
 - La formación de los primeros átomos tras el Big Bang y el origen del sistema
   solar.
@@ -84,8 +84,12 @@ Cubiertas las páginas impresas **35 a 40**:
 - Las evidencias de las primeras células: microfósiles, los depósitos de Isua y
   los isótopos del carbono.
 - Los fósiles moleculares y el trabajo de Zuckerkandl y Pauling.
+- El origen extraterrestre: la hipótesis de Arrhenius, la objeción del libro, y
+  los meteoritos Murchison y ALH84001.
+- Por qué la Tierra sustenta vida: distancia al Sol, agua líquida, el intervalo
+  de temperatura y el doble papel de la atmósfera.
 
-**Pendiente:** el resto del capítulo 3 (pp. 41–60) y los capítulos 4, 5, 7, 8,
+**Pendiente:** el resto del capítulo 3 (pp. 43–60) y los capítulos 4, 5, 7, 8,
 11, 12, 31, 32, 35, 36 y 37.
 
 ## Erratas del libro
@@ -1096,4 +1100,259 @@ En sus trabajos demostraron que las secuencias del gorila, chimpancé y humano t
 
 ---
 
-**Reactivos en este archivo:** 59
+## Sub-lote 12 · El origen extraterrestre de la vida (pp. 41–42)
+
+### 60
+
+De acuerdo con el libro de Biología, ¿quién postuló por primera vez la hipótesis del origen extraterrestre de la vida, y en qué año?
+
+- A. El físico y químico sueco Svante Arrhenius, en 1906
+- B. El físico y químico sueco Svante Arrhenius, en 1859
+- C. El bioquímico ruso A. I. Oparin, en 1924
+- D. El químico inglés J. B. S. Haldane, en 1906
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · origen extraterrestre
+
+La hipótesis del origen extraterrestre de la vida fue postulada por primera vez en 1906 por el físico y químico sueco Svante Arrhenius (1859-1927).
+
+> **1906** es cuando postula la hipótesis; **1859** es su año de nacimiento, que
+> el libro da entre paréntesis. El distractor B los cruza.
+
+### 61
+
+De conformidad con el libro de Biología, según Arrhenius, ¿cómo habrían llegado los "gérmenes de la vida" a la Tierra?
+
+- A. Desde el espacio en meteoritos desprendidos de algún planeta en el que ya se habría originado la vida
+- B. Desde el espacio en cometas formados en el sistema solar exterior
+- C. Desde la atmósfera terrestre, arrastrados por la radiación solar
+- D. Desde el fondo de los océanos, transportados por corrientes
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · origen extraterrestre
+
+Los primeros "gérmenes de la vida" (esporas o bacterias) habrían llegado desde el espacio en meteoritos desprendidos de algún planeta en el que ya se habría originado la vida.
+
+### 62
+
+En relación con el libro de Biología, ¿qué objeción hace el libro a las hipótesis del origen extraterrestre?
+
+- A. Que desplazan el problema hacia escenarios más lejanos, pero no explican los procesos involucrados en el surgimiento de la vida
+- B. Que contradicen las evidencias fósiles halladas hasta el momento
+- C. Que suponen temperaturas imposibles para cualquier forma de vida
+- D. Que nunca han sido formuladas por científicos reconocidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · origen extraterrestre
+
+Sin embargo, estas hipótesis no hacen más que desplazar este problema hacia escenarios más lejanos, pero no contribuyen a su comprensión, ya que no proveen una explicación acerca de los procesos involucrados en su surgimiento.
+
+> El libro no las descarta —dice que "deben ser tenidas en cuenta"—: lo que
+> señala es que **no explican nada**, sólo mudan la pregunta de sitio.
+
+### 63
+
+De acuerdo con el libro de Biología, ¿en qué se basa la hipótesis de que la materia prima de la vida pudo provenir del espacio interestelar?
+
+- A. En que las moléculas orgánicas más simples se sintetizan de forma espontánea y abundante en el espacio
+- B. En que se han hallado bacterias vivas en la superficie de los cometas
+- C. En que la Tierra primitiva carecía por completo de carbono
+- D. En que los meteoritos aportaron el agua de los océanos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · origen extraterrestre
+
+Esta hipótesis se basa en estudios que muestran que las moléculas orgánicas más simples se sintetizan de forma espontánea y abundante en el espacio, de manera que es factible que hayan ingresado en la Tierra primitiva transportadas por cometas y meteoritos.
+
+> Es una hipótesis **distinta** de la de Arrhenius y el libro la llama "tal vez
+> más interesante": no dice que llegara la vida ya formada, sino sólo la
+> **materia prima**.
+
+### 64
+
+De conformidad con el libro de Biología, ¿qué evidencia apoyaría esa propuesta?
+
+- A. El hallazgo de aminoácidos en un meteorito encontrado en 1969 en Australia
+- B. El hallazgo de aminoácidos en un meteorito encontrado en 1996 en la Antártida
+- C. El hallazgo de bacterias fosilizadas en rocas lunares
+- D. El hallazgo de agua líquida en la superficie de Marte
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · origen extraterrestre
+
+Una evidencia que apoyaría esta propuesta es el hallazgo de aminoácidos en un meteorito encontrado en 1969 en Australia.
+
+> Dos meteoritos y dos fechas que se cruzan: el **Murchison**, de 1969 en
+> Australia, con aminoácidos; y el **ALH84001**, de 1996 en la Antártida,
+> proveniente de Marte (ver reactivo 66).
+
+### 65
+
+En relación con el libro de Biología, ¿qué se formó de manera espontánea a partir de las moléculas orgánicas extraídas del meteorito Murchison?
+
+- A. Estructuras limitadas por membranas, separadas de la solución exterior por una bicapa lipídica
+- B. Cadenas de ARN con capacidad de replicarse
+- C. Microesferas proteinoides semejantes a las de Fox
+- D. Coacervados semejantes a los de Oparin
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · origen extraterrestre
+
+Estas estructuras limitadas por membranas, separadas de la solución exterior por una bicapa lipídica, se formaron de manera espontánea a partir de las moléculas orgánicas extraídas del meteorito Murchison, que cayó en Australia en 1969.
+
+### 66
+
+De acuerdo con el libro de Biología, ¿qué se encontró en 1996 en el meteorito ALH84001?
+
+- A. Posibles señales de microorganismos fosilizados, en un meteorito proveniente de Marte hallado en la Antártida
+- B. Aminoácidos y otros compuestos orgánicos, en un meteorito caído en Australia
+- C. Estructuras limitadas por una bicapa lipídica, en un meteorito lunar
+- D. Restos de agua líquida, en un meteorito proveniente de Venus
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · origen extraterrestre
+
+En 1996, se encontraron ciertos datos que podrían estar indicando que la vida podría haberse originado en otros planetas: en un meteorito proveniente de Marte (el denominado ALH84001) hallado en la Antártida aparecieron posibles señales de microorganismos fosilizados.
+
+---
+
+## Sub-lote 13 · ¿Vida sólo en la Tierra? (p. 41)
+
+### 67
+
+De conformidad con el libro de Biología, ¿qué indican hasta el momento los estudios astronómicos y las exploraciones espaciales?
+
+- A. Que entre los planetas de nuestro sistema solar, sólo la Tierra sustenta vida
+- B. Que además de la Tierra, Marte sustenta formas simples de vida
+- C. Que la vida es frecuente en los planetas del sistema solar exterior
+- D. Que no es posible determinar si algún planeta sustenta vida
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · condiciones para la vida
+
+Los estudios astronómicos y las exploraciones llevadas a cabo por vehículos espaciales no tripulados indican hasta el momento que, entre los planetas de nuestro sistema solar, solo la Tierra sustenta vida.
+
+### 68
+
+En relación con el libro de Biología, ¿en qué se basa la composición de los sistemas vivos?
+
+- A. En moléculas que contienen carbono
+- B. En moléculas que contienen silicio
+- C. En moléculas que contienen nitrógeno
+- D. En moléculas que contienen hidrógeno exclusivamente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · condiciones para la vida
+
+En nuestro planeta, las condiciones son ideales para los sistemas vivos, cuya composición se basa en moléculas que contienen carbono.
+
+### 69
+
+De acuerdo con el libro de Biología, ¿cuál es un factor principal de que las condiciones de la Tierra sean ideales?
+
+- A. Que la Tierra no está demasiado cerca ni demasiado lejos del Sol
+- B. Que la Tierra tiene la mayor masa de los planetas interiores
+- C. Que la Tierra gira más despacio que los demás planetas
+- D. Que la Tierra posee un único satélite natural
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · condiciones para la vida
+
+Un factor principal es que la Tierra no está demasiado cerca ni demasiado lejos del Sol, lo cual tiene implicaciones en las temperaturas máximas y mínimas alcanzadas.
+
+### 70
+
+De conformidad con el libro de Biología, ¿qué requieren las reacciones químicas de las que depende la vida tal como la conocemos?
+
+- A. Agua líquida
+- B. Oxígeno libre en la atmósfera
+- C. Radiación ultravioleta directa
+- D. Temperaturas superiores a los 100 ºC
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · condiciones para la vida
+
+Las reacciones químicas de las que depende la vida tal como la conocemos requieren agua líquida y la temperatura de nuestro planeta permite que esta sea abundante.
+
+### 71
+
+En relación con el libro de Biología, ¿qué ocurre con las reacciones químicas a temperaturas muy bajas?
+
+- A. La mayor parte de ellas cesan
+- B. Se aceleran por la mayor estabilidad de los compuestos
+- C. Se vuelven irreversibles
+- D. Sólo ocurren en presencia de agua líquida
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · condiciones para la vida
+
+La temperatura es esencial para la ocurrencia de dichas reacciones, ya que la mayor parte de ellas cesan a temperaturas muy bajas.
+
+### 72
+
+De acuerdo con el libro de Biología, ¿qué les ocurre a temperaturas altas a los compuestos químicos complejos esenciales para la vida?
+
+- A. Son demasiado inestables, de modo que no podrían acumularse
+- B. Se acumulan con mayor rapidez que a temperaturas medias
+- C. Se transforman en compuestos inorgánicos simples
+- D. Se disuelven en el agua y quedan protegidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · condiciones para la vida
+
+A temperaturas altas, los compuestos químicos complejos esenciales para la vida son demasiado inestables, de modo que en tales condiciones estos no podrían acumularse.
+
+> Par contrapuesto que el libro enuncia seguido: con **frío** las reacciones
+> cesan; con **calor** los compuestos no se acumulan. La vida necesita el
+> intervalo de en medio (ver reactivo 71).
+
+### 73
+
+De conformidad con el libro de Biología, ¿qué provocarían las radiaciones más energéticas del Sol si llegaran a la Tierra?
+
+- A. La rotura de los enlaces covalentes entre los átomos de carbono
+- B. La evaporación completa del agua de los océanos
+- C. La formación espontánea de moléculas orgánicas complejas
+- D. La destrucción de la capa de ozono
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · condiciones para la vida
+
+Debido a su composición química particular, la atmósfera terrestre filtra muchas de las radiaciones más energéticas provenientes del Sol que, de llegar al planeta Tierra, provocarían la rotura de los enlaces covalentes entre los átomos de carbono.
+
+### 74
+
+En relación con el libro de Biología, ¿qué paso significativo de la evolución posibilitó que la atmósfera permita el pasaje de la luz visible?
+
+- A. La fotosíntesis
+- B. La respiración celular
+- C. La formación de la capa de ozono
+- D. La aparición de los ácidos nucleicos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 41
+**Subtema:** Origen de la vida · condiciones para la vida
+
+Pero, a la vez, permite el pasaje de la luz visible, lo que posibilitó uno de los pasos más significativos en la evolución de los sistemas vivos complejos: la fotosíntesis.
+
+> La atmósfera hace **dos cosas opuestas a la vez**: filtra lo que destruiría el
+> carbono y deja pasar lo que alimenta la fotosíntesis. Conviene estudiarlas
+> juntas (ver reactivo 73).
+
+---
+
+**Reactivos en este archivo:** 74
