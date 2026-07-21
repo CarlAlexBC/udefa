@@ -40,7 +40,7 @@ valioso y probable en el examen. Se documenta por si se decide separarla.
 
 ## Cobertura actual
 
-Cubiertas las **páginas impresas 5 a 10 y 13 a 21**:
+Cubiertas las **páginas impresas 5 a 10, 13 a 26 y 28**:
 
 - Concepto de álgebra, notación, exponente, base, radical y coeficiente.
 - Signos de relación y de agrupación.
@@ -53,13 +53,19 @@ Cubiertas las **páginas impresas 5 a 10 y 13 a 21**:
   polinomios y qué es ordenar uno.
 - Término independiente con relación a una letra.
 - Términos semejantes y los tres casos de su reducción.
+- Reducción de polinomios con términos semejantes de diversas clases.
+- Valor numérico de una expresión algebraica.
+- Notas sobre el concepto de número: número entero y número fraccionario.
 
 Las páginas 11 y 12 son íntegramente los ejercicios 1, 2 y 3; la mitad superior
 de la 16, el ejercicio 4; y buena parte de las 18 a 21, los ejercicios 6 a 9:
 **sin teoría nueva de la que salgan reactivos**. En ese tramo Baldor alterna un
 artículo corto con páginas enteras de práctica.
 
-**Pendiente:** de la página 22 en adelante de Preliminares, y los capítulos I–VI
+La página 27 y buena parte de las 22 a 26 son los ejercicios 10 a 14 y ejemplos
+resueltos de valor numérico: **sin teoría nueva de la que salgan reactivos**.
+
+**Pendiente:** de la página 29 en adelante de Preliminares, y los capítulos I–VI
 completos (pp. 40–111).
 
 ## Criterio: teoría sobre práctica
@@ -1423,4 +1429,200 @@ Reducción de más de dos términos semejantes de signos distintos. REGLA: Se re
 
 ---
 
-**Reactivos en este archivo:** 83
+## Sub-lote 18 · Valor numérico y notación (arts. 29–32, pp. 22–26)
+
+### 84
+
+De acuerdo con el libro de Álgebra, ¿cómo se reduce un polinomio que contenga términos semejantes de diversas clases?
+
+- A. Se reducen por separado los de cada clase
+- B. Se reducen todos juntos aplicando la regla del primer caso
+- C. Se ordenan primero respecto de la letra ordenatriz
+- D. Se eliminan primero los términos independientes
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 22
+**Subtema:** Preliminares · reducción de polinomios
+
+Reducción de un polinomio que contenga términos semejantes de diversas clases: se reducen por separado los de cada clase.
+
+### 85
+
+De acuerdo con el libro de Álgebra, ¿qué es el valor numérico de una expresión algebraica?
+
+- A. El resultado que se obtiene al sustituir las letras por valores numéricos dados y efectuar después las operaciones indicadas
+- B. La suma de los coeficientes de todos sus términos
+- C. El grado absoluto de su término de mayor grado
+- D. El número que representa la expresión prescindiendo de su signo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 23
+**Subtema:** Preliminares · valor numérico
+
+Valor numérico de una expresión algebraica es el resultado que se obtiene al sustituir las letras por valores numéricos dados y efectuar después las operaciones indicadas.
+
+### 86
+
+De acuerdo con el libro de Álgebra, ¿qué operaciones pueden hacerse con las cantidades algebraicas representadas por letras?
+
+- A. Las mismas operaciones que con los números aritméticos
+- B. Únicamente la suma y la resta
+- C. Únicamente las operaciones que no requieran valor numérico
+- D. Solamente las que se indiquen entre signos de agrupación
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 26
+**Subtema:** Preliminares · notación algebraica
+
+Con las cantidades algebraicas, representadas por letras, pueden hacerse las mismas operaciones que con los números aritméticos.
+
+---
+
+## Sub-lote 19 · Notas sobre el concepto de número (pp. 28)
+
+### 87
+
+De acuerdo con el libro de Álgebra, ¿por qué se amplió el campo de los números con la introducción de nuevos entes?
+
+- A. Porque el número natural no sirve para efectuar la resta y la división en todos los casos
+- B. Porque el número natural no permite la suma ni la multiplicación
+- C. Porque los griegos no conocían las fracciones
+- D. Porque el número natural carece de valor absoluto
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 28
+**Subtema:** Preliminares · concepto de número
+
+Conviene pues, considerar cómo se ha ampliado el campo de los números por la introducción de nuevos entes, que satisfacen las leyes que regulan las operaciones fundamentales, ya que, como veremos más adelante, el número natural no sirve para efectuar la resta y la división en todos los casos.
+
+### 88
+
+De acuerdo con el libro de Álgebra, ¿qué doble criterio se adopta para hacer más comprensible la ampliación del campo de los números?
+
+- A. Un criterio histórico y un criterio intuitivo
+- B. Un criterio algebraico y un criterio aritmético
+- C. Un criterio formal y un criterio abstracto
+- D. Un criterio entero y un criterio fraccionario
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 28
+**Subtema:** Preliminares · concepto de número
+
+Adoptaremos un doble criterio. Por un lado, un criterio histórico que nos haga conocer la gradual aparición de las distintas clases de números; por otro, un criterio intuitivo que nos ponga de manifiesto cómo ciertas necesidades materiales han obligado a los matemáticos a introducir nuevos entes numéricos.
+
+### 89
+
+De acuerdo con el libro de Álgebra, ¿qué pueblos conocían las fracciones mucho antes de que los griegos realizaran la sistematización de los conocimientos matemáticos?
+
+- A. Los babilonios y los egipcios
+- B. Los babilonios y los fenicios
+- C. Los egipcios y los persas
+- D. Los romanos y los egipcios
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 28
+**Subtema:** Preliminares · número entero y fraccionario
+
+Mucho antes de que los griegos (Eudoxio, Euclides, Apolonio, etc.) realizaran la sistematización de los conocimientos matemáticos, los babilonios (según muestran las tablillas cuneiformes que datan de 2000-1800 a. C.) y los egipcios (como se ve en el papiro de Rhind) conocían las fracciones.
+
+### 90
+
+De acuerdo con el libro de Álgebra, ¿en qué documento se ve que los egipcios conocían las fracciones?
+
+- A. En el papiro de Rhind
+- B. En las tablillas cuneiformes
+- C. En los Elementos de Euclides
+- D. En las tablas de Apolonio
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 28
+**Subtema:** Preliminares · número entero y fraccionario
+
+Los babilonios (según muestran las tablillas cuneiformes que datan de 2000-1800 a. C.) y los egipcios (como se ve en el papiro de Rhind) conocían las fracciones.
+
+> Cuidado con cruzar las fuentes: las **tablillas cuneiformes** son de los
+> babilonios y el **papiro de Rhind** de los egipcios. Los distractores del
+> reactivo 90 usan la fuente del otro pueblo.
+
+### 91
+
+De acuerdo con el libro de Álgebra, ¿qué llevó al hombre a introducir los números fraccionarios?
+
+- A. La necesidad de medir magnitudes continuas tales como la longitud, el volumen y el peso
+- B. La necesidad de contar objetos discretos
+- C. La imposibilidad de efectuar la suma con números naturales
+- D. La sistematización de los conocimientos matemáticos por los griegos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 28
+**Subtema:** Preliminares · número entero y fraccionario
+
+La necesidad de medir magnitudes continuas tales como la longitud, el volumen, el peso, etc., llevó al hombre a introducir los números fraccionarios.
+
+### 92
+
+De acuerdo con el libro de Álgebra, ¿cómo se llaman los dos números enteros distintos de cero con que se expresa el resultado de fraccionar la unidad?
+
+- A. Numerador y denominador
+- B. Dividendo y divisor
+- C. Coeficiente y exponente
+- D. Base y radical
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 28
+**Subtema:** Preliminares · número entero y fraccionario
+
+El resultado de esta última medición lo expresamos con un par de números enteros, distintos de cero, llamados respectivamente numerador y denominador.
+
+### 93
+
+De acuerdo con el libro de Álgebra, ¿qué nos da el denominador de un número fraccionario?
+
+- A. El número de partes en que hemos dividido la unidad
+- B. El número de subunidades contenidas en la magnitud que acabamos de medir
+- C. El cociente de la división inexacta
+- D. El número de veces que la unidad está contenida en la magnitud
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 28
+**Subtema:** Preliminares · número entero y fraccionario
+
+El denominador nos dará el número de partes en que hemos dividido la unidad, y el numerador, el número de subunidades contenidas en la magnitud que acabamos de medir.
+
+### 94
+
+De acuerdo con el libro de Álgebra, ¿qué nos da el numerador de un número fraccionario?
+
+- A. El número de subunidades contenidas en la magnitud que acabamos de medir
+- B. El número de partes en que hemos dividido la unidad
+- C. El múltiplo del divisor
+- D. El valor absoluto de la fracción
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 28
+**Subtema:** Preliminares · número entero y fraccionario
+
+El denominador nos dará el número de partes en que hemos dividido la unidad, y el numerador, el número de subunidades contenidas en la magnitud que acabamos de medir.
+
+> Los reactivos 93 y 94 son el par obligado: el **denominador** dice en cuántas
+> partes se dividió la unidad y el **numerador** cuántas de esas partes se
+> tomaron. Cada uno es el distractor del otro.
+
+### 95
+
+De acuerdo con el libro de Álgebra, ¿qué permiten expresar los números fraccionarios?
+
+- A. El cociente de una división inexacta, en la cual el dividendo no es múltiplo del divisor
+- B. El cociente de una división exacta, en la cual el dividendo es múltiplo del divisor
+- C. El resultado de medir una magnitud discreta
+- D. El valor numérico de una expresión algebraica
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 28
+**Subtema:** Preliminares · número entero y fraccionario
+
+Podemos decir también, que son números fraccionarios los que nos permiten expresar el cociente de una división inexacta, o lo que es lo mismo, una división en la cual el dividendo no es múltiplo del divisor.
+
+---
+
+**Reactivos en este archivo:** 95
