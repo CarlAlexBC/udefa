@@ -62,7 +62,9 @@ en la p. 40. Es una convención de la serie de recuadros del libro, no un dato
 fino, así que **no se escribió reactivo sobre esas fechas**. Sí sobre el año en
 que se descifraron las tablillas (1930), que el libro da como dato propio.
 
-**Pendiente:** los capítulos III a VI (pp. 58–111). El capítulo II está cerrado.
+**Pendiente:** ninguno. El capítulo II (pp. 46–57) está cerrado. Lo que falta de
+Álgebra lo declara el archivo del capítulo en curso — hoy
+`algebra-03-signos-agrupacion.md`.
 
 ## Criterio: teoría sobre práctica
 
