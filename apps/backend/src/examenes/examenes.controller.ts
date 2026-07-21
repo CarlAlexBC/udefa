@@ -10,6 +10,10 @@ import {
 } from '@nestjs/common';
 import { ExamenesService } from './examenes.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
+import {
+  UsuarioActual,
+  type UsuarioAutenticado,
+} from '../auth/decorators/usuario-actual.decorator';
 
 @UseGuards(JwtAuthGuard)
 @Controller('examenes')
@@ -26,10 +30,12 @@ export class ExamenesController {
     return this.examenesService.obtenerTodos();
   }
 
-    @Get(':id/armar')
+  @Get(':id/armar')
   armarExamen(
-    @Param('id') id: string) {
-    return this.examenesService.armarExamen(Number(id));
+    @Param('id') id: string,
+    @UsuarioActual() usuario: UsuarioAutenticado,
+  ) {
+    return this.examenesService.armarExamen(Number(id), usuario.id);
   }
 
 

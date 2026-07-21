@@ -444,8 +444,12 @@ export default function SimuladorPage({
 
           {/* Bloque enunciado con altura mínima fija — evita que los botones
               de opciones brinquen entre reactivos con textos de distinto largo.
-              El enunciado se centra verticalmente en ese espacio. */}
-          <div className="mb-8 flex min-h-[140px] items-center">
+              El enunciado se centra verticalmente en ese espacio.
+
+              160 px y no 140: el enunciado más largo del banco cultural mide
+              217 caracteres, que a este tamaño son cinco líneas. Con 140 se
+              desbordaba y volvía a mover las opciones. */}
+          <div className="mb-8 flex min-h-[160px] items-center">
             <h2 className="text-2xl font-semibold leading-snug text-foreground">
               {reactivoActual.enunciado}
             </h2>
@@ -979,8 +983,21 @@ function OpcionesReactivo({
     )
   }
 
+  /*
+   * Altura reservada para que los botones NO brinquen entre un reactivo y otro.
+   *
+   * En el banco cultural la opción mediana mide 37 caracteres —una línea— pero
+   * el 1% pasa de 134 y la más larga llega a 208, o sea tres líneas. Sin altura
+   * mínima, pasar de un reactivo de opciones cortas a uno de opciones largas
+   * mueve todo el bloque y con él los botones de navegación, justo cuando el
+   * aspirante ya llevaba el cursor hacia ellos.
+   *
+   * 72 px por botón cubre dos líneas de texto con su padding, que es el 99% de
+   * los casos. El contenedor reserva los cuatro más sus separaciones
+   * (4×72 + 3×12 = 324) para que la navegación quede clavada.
+   */
   return (
-    <div className="flex flex-col gap-3">
+    <div className="flex min-h-[324px] flex-col gap-3">
       {opciones.map((opcion, i) => {
         const letra = String.fromCharCode(65 + i)
         const seleccionada = marcada === opcion
@@ -990,7 +1007,7 @@ function OpcionesReactivo({
             type="button"
             onClick={() => onSelect(opcion)}
             className={cn(
-              'flex items-center gap-4 rounded-lg border p-4 text-left transition-colors',
+              'flex min-h-[72px] items-center gap-4 rounded-lg border p-4 text-left transition-colors',
               seleccionada
                 ? 'border-primary bg-accent/10'
                 : 'border-border bg-card hover:bg-muted',

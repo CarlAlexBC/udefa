@@ -38,12 +38,26 @@ type Perfil = {
   plantel: Plantel | null
 }
 
+/**
+ * Los exámenes psicológicos son iguales para todos los planteles y por eso
+ * llevan `plantelId: null`. El cultural NO: cada plantel tiene su temario y su
+ * propio banco de reactivos, así que sólo debe verlo quien va a ese plantel.
+ */
+type ExamenDisponible = {
+  id: number
+  tipo: string
+  nombre: string
+  plantelId: number | null
+  anio: number | null
+}
+
 /* ═══════════════════════════════════════════════════════════
    Página
    ═══════════════════════════════════════════════════════════ */
 
 export default function InicioPage() {
   const [perfil, setPerfil] = useState<Perfil | null>(null)
+  const [examenes, setExamenes] = useState<ExamenDisponible[]>([])
   const [error, setError] = useState('')
 
   const cargarPerfil = useCallback(() => {
@@ -51,6 +65,14 @@ export default function InicioPage() {
     apiFetch<Perfil>('/auth/perfil')
       .then(setPerfil)
       .catch((err) => setError((err as Error).message))
+  }, [])
+
+  // Qué exámenes existen, para no ofrecer los de otro plantel. Si la consulta
+  // falla no rompemos el dashboard: simplemente no se ofrece el cultural.
+  useEffect(() => {
+    apiFetch<ExamenDisponible[]>('/examenes')
+      .then(setExamenes)
+      .catch(() => setExamenes([]))
   }, [])
 
   useEffect(() => {
@@ -95,7 +117,15 @@ export default function InicioPage() {
   return (
     <div className="flex-1 bg-background">
       <HeaderPrivado rol={perfil.rol} />
-      <Dashboard perfil={perfil} plantel={perfil.plantel} />
+      <Dashboard
+        perfil={perfil}
+        plantel={perfil.plantel}
+        examenCultural={
+          examenes.find(
+            (e) => e.tipo === 'cultural' && e.plantelId === perfil.plantel!.id,
+          ) ?? null
+        }
+      />
     </div>
   )
 }
@@ -104,7 +134,16 @@ export default function InicioPage() {
    Sub-componente: dashboard cuando el usuario ya tiene plantel
    ═══════════════════════════════════════════════════════════ */
 
-function Dashboard({ perfil, plantel }: { perfil: Perfil; plantel: Plantel }) {
+function Dashboard({
+  perfil,
+  plantel,
+  examenCultural,
+}: {
+  perfil: Perfil
+  plantel: Plantel
+  /** El examen cultural de ESTE plantel, o null si todavía no existe. */
+  examenCultural: ExamenDisponible | null
+}) {
   return (
     <main className="mx-auto max-w-5xl px-6 py-12">
       {/* Saludo personalizado */}
@@ -181,12 +220,20 @@ function Dashboard({ perfil, plantel }: { perfil: Perfil; plantel: Plantel }) {
             descripcion="Perfil de valores militares. Escala de 5 puntos. Responde honestamente."
             icono={<Scale className="h-5 w-5 text-accent" />}
           />
+          {/* El cultural depende del plantel: cada uno tiene su temario y su
+              banco. Sin examen para el plantel del aspirante, la tarjeta se
+              muestra apagada — nunca con el examen de otra escuela. */}
           <ExamenCTA
-            href="/inicio/simulador/4"
+            href={examenCultural ? `/inicio/simulador/${examenCultural.id}` : undefined}
             fase="Fase 04"
             titulo="Cultural"
-            descripcion="100 reactivos de Español, Álgebra, Historia y Geografía. 2 horas con un solo cronómetro."
+            descripcion={
+              examenCultural
+                ? '100 reactivos de Español, Álgebra, Historia y Geografía. 2 horas con un solo cronómetro.'
+                : `Cambia según el plantel. El banco del ${plantel.nombre} está en preparación.`
+            }
             icono={<BookOpen className="h-5 w-5 text-accent" />}
+            proximamente={!examenCultural}
           />
         </div>
       </section>

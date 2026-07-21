@@ -1,4 +1,8 @@
-import { Injectable, NotFoundException } from '@nestjs/common';
+import {
+  ForbiddenException,
+  Injectable,
+  NotFoundException,
+} from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { TemasPrioridadService } from '../temas-prioridad/temas-prioridad.service';
 
@@ -110,7 +114,7 @@ export class ExamenesService {
    */
   private readonly REPARTO_CULTURAL: Record<string, number> = {};
 
-  async armarExamen(examenId: number) {
+  async armarExamen(examenId: number, usuarioId?: number) {
     const examen = await this.prisma.examen.findUnique({
       where: { id: examenId },
       include: {
@@ -122,6 +126,23 @@ export class ExamenesService {
 
     if (!examen) {
       throw new NotFoundException('Examen no encontrado');
+    }
+
+    // Los exámenes atados a un plantel (hoy, el cultural) sólo puede
+    // presentarlos quien va a ese plantel: el temario y el banco cambian por
+    // escuela. Ocultar el botón en la web no basta — la URL es adivinable.
+    //
+    // Los psicológicos llevan plantelId nulo y los presenta cualquiera.
+    if (examen.plantelId !== null && usuarioId !== undefined) {
+      const usuario = await this.prisma.usuario.findUnique({
+        where: { id: usuarioId },
+        select: { plantelId: true },
+      });
+      if (usuario?.plantelId !== examen.plantelId) {
+        throw new ForbiddenException(
+          'Este examen es de otro plantel. El examen cultural cambia según la escuela a la que te presentas.',
+        );
+      }
     }
 
     const reactivosPorBloque =
