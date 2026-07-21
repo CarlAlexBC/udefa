@@ -30,7 +30,7 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63 y 66 a 70**:
+Cubiertas las páginas impresas **61 a 63 y 66 a 71**:
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -46,6 +46,10 @@ Cubiertas las páginas impresas **61 a 63 y 66 a 70**:
   fecundación del erizo de mar, y Flemming con la cromatina y los cromosomas.
 - La mitosis; el experimento de la ameba sin núcleo; y el clásico de Hämmerling
   con Acetabularia, que probó que el núcleo dirige la forma del sombrero.
+- Características del núcleo: origen por invaginación, tamaño, la envoltura
+  nuclear, los poros, el complejo del poro y la lámina nuclear.
+- Miescher y la nucleína; la cromatina, las histonas; el nucléolo y las dos
+  funciones del núcleo.
 
 **Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
 4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
@@ -1082,4 +1086,257 @@ Las sustancias determinantes de la forma del "sombrero", remanentes del núcleo 
 
 ---
 
-**Reactivos en este archivo:** 60
+## Sub-lote 14 · Características y envoltura del núcleo (p. 71)
+
+### 61
+
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo habría surgido el núcleo en el curso de la historia evolutiva?
+
+- A. Por invaginación de la membrana celular de organismos procariontes
+- B. Por la fusión de dos mitocondrias
+- C. Por la entrada de un procarionte que se volvió simbionte
+- D. Por la condensación de la cromatina del citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 71
+**Subtema:** Organización de las células · características del núcleo
+
+El núcleo es la estructura típica de la célula eucarionte, que habría surgido en el curso de la historia evolutiva por invaginación de la membrana celular de organismos procariontes.
+
+> Enlaza con el capítulo 3: la teoría de Margulis explica mitocondrias y
+> cloroplastos por endosimbiosis, pero el **núcleo** se habría formado por
+> **invaginación** de la membrana (reactivo 110 del capítulo 3).
+
+### 62
+
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué diámetro tiene aproximadamente el núcleo y qué proporción del volumen celular ocupa?
+
+- A. Alrededor de 5 µm de diámetro, y ocupa aproximadamente un 10% del volumen celular
+- B. Alrededor de 50 µm de diámetro, y ocupa aproximadamente la mitad del volumen celular
+- C. Alrededor de 1 µm de diámetro, y ocupa aproximadamente un 50% del volumen celular
+- D. Alrededor de 10 µm de diámetro, y ocupa aproximadamente un 5% del volumen celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 71
+**Subtema:** Organización de las células · características del núcleo
+
+En relación con el tamaño total de la célula, es una estructura frecuentemente esférica y voluminosa: tiene alrededor de 5 µm de diámetro y suele ocupar aproximadamente un 10% del volumen celular.
+
+### 63
+
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿por qué está constituida la envoltura nuclear?
+
+- A. Por dos membranas concéntricas separadas por un espacio perinuclear
+- B. Por una única membrana lipídica
+- C. Por una red proteica sin membranas
+- D. Por tres membranas superpuestas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 71
+**Subtema:** Organización de las células · envoltura nuclear
+
+Está delimitado por una envoltura nuclear, constituida por dos membranas concéntricas separadas por un espacio perinuclear.
+
+### 64
+
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿qué interrumpe la continuidad de las membranas de la envoltura nuclear?
+
+- A. Pequeños poros nucleares por donde circulan materiales entre el núcleo y el citoplasma
+- B. La lámina nuclear que la recubre
+- C. Los cromosomas que la atraviesan
+- D. El nucléolo adherido a su superficie
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 71
+**Subtema:** Organización de las células · envoltura nuclear
+
+Cada una de las membranas es una bicapa lipídica, cuya continuidad se ve interrumpida, a intervalos frecuentes, por pequeños poros nucleares por donde circulan materiales entre el núcleo y el citoplasma.
+
+---
+
+## Sub-lote 15 · El complejo del poro y la lámina nuclear (p. 70)
+
+### 65
+
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo se llama la estructura discoidal de más de 100 moléculas de proteínas que forma cada poro nuclear?
+
+- A. El complejo del poro nuclear
+- B. La lámina nuclear
+- C. El nucléolo
+- D. La histona
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 70
+**Subtema:** Organización de las células · poro nuclear
+
+Cada uno de ellos está constituido por una estructura discoidal con más de 100 moléculas de proteínas, que se conoce con el nombre de complejo del poro nuclear.
+
+### 66
+
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo pasan las pequeñas moléculas solubles a través de los poros nucleares?
+
+- A. Por difusión pasiva
+- B. Por transporte activo con gasto de energía
+- C. Por señales específicas de transporte
+- D. Únicamente durante la división celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 70
+**Subtema:** Organización de las células · poro nuclear
+
+A través de ellos pasan, por difusión pasiva, pequeñas moléculas solubles en la membrana.
+
+> Par contrapuesto: las moléculas **pequeñas** pasan por **difusión pasiva**; las
+> **grandes**, como las proteínas, por **transporte activo** con señales
+> específicas (ver reactivo 67).
+
+### 67
+
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo se movilizan las moléculas grandes, como las proteínas, a través del poro nuclear?
+
+- A. Según señales específicas, mediante diferentes mecanismos de transporte activo
+- B. Por difusión pasiva, como las moléculas pequeñas
+- C. Sin ningún control, en cualquier dirección
+- D. Sólo hacia dentro del núcleo, nunca hacia fuera
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 70
+**Subtema:** Organización de las células · poro nuclear
+
+Las moléculas grandes, como las proteínas, se movilizan según señales específicas hacia dentro o fuera del núcleo, mediante diferentes mecanismos de transporte activo.
+
+### 68
+
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué recubre la membrana interna de la envoltura nuclear y qué le aporta?
+
+- A. Una red proteica llamada lámina nuclear, que le aporta estabilidad al núcleo
+- B. Una capa de histonas, que le aporta información hereditaria
+- C. El nucléolo, que le aporta ribosomas
+- D. El complejo del poro, que le aporta rigidez
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 70
+**Subtema:** Organización de las células · lámina nuclear
+
+La membrana interna de la envoltura nuclear está recubierta por una red proteica llamada lámina nuclear, que le aporta estabilidad al núcleo.
+
+---
+
+## Sub-lote 16 · Miescher, la nucleína y la cromatina (p. 70)
+
+### 69
+
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿quién aisló por primera vez la sustancia que denominó nucleína?
+
+- A. El biólogo y médico suizo Friedrich Miescher
+- B. El citólogo alemán Walter Flemming
+- C. El embriólogo alemán Oscar Hertwig
+- D. El citólogo alemán Joachim Hämmerling
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 70
+**Subtema:** Organización de las células · nucleína
+
+Desde que el biólogo y médico suizo Friedrich Miescher (1844-1893) aisló por primera vez una sustancia a la que denominó nucleína hasta que se estableció que esta se encuentra formada por ácidos nucleicos y proteínas.
+
+### 70
+
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿de qué están formados los cromosomas de las células eucariontes?
+
+- A. De moléculas de ADN que portan la información hereditaria, unidas fuertemente a proteínas
+- B. Únicamente de moléculas de ADN, sin proteínas
+- C. Únicamente de proteínas llamadas histonas
+- D. De ácidos nucleicos y lípidos de membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 70
+**Subtema:** Organización de las células · cromatina
+
+Los cromosomas de las células eucariontes están formados por moléculas de ADN que portan la información hereditaria, unidas fuertemente a proteínas.
+
+### 71
+
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo se denomina el grupo de proteínas de los cromosomas que cumple una función estructural?
+
+- A. Histonas
+- B. Proteínas no histónicas
+- C. Láminas nucleares
+- D. Nucleínas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 70
+**Subtema:** Organización de las células · cromatina
+
+Un grupo de estas proteínas se denomina histonas y cumplen una función estructural, mientras que las proteínas no histónicas son de tipo regulatorio.
+
+> Par contrapuesto que el libro define seguido: las **histonas** son
+> **estructurales**; las **no histónicas**, **regulatorias**. Cada una es el
+> distractor de la otra.
+
+### 72
+
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo se ve la cromatina cuando la célula no se está dividiendo?
+
+- A. Como una maraña de hilos delgados
+- B. Como bastoncitos independientes y visibles
+- C. Como un cuerpo esférico compacto
+- D. Como una doble membrana concéntrica
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 70
+**Subtema:** Organización de las células · cromatina
+
+Al conjunto formado por las hebras de ADN y proteínas se lo denomina cromatina y es lo que se observa como una maraña de hilos delgados cuando la célula no se está dividiendo. Durante el proceso de división celular, la cromatina se condensa formando los cromosomas, que se hacen visibles como entidades independientes.
+
+---
+
+## Sub-lote 17 · El nucléolo y las funciones del núcleo (pp. 70–71)
+
+### 73
+
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿qué cuerpo de tamaño considerable se observa en el núcleo cuando la célula no se está dividiendo, además de la cromatina?
+
+- A. El nucléolo
+- B. El complejo del poro
+- C. La lámina nuclear
+- D. La envoltura nuclear
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 70
+**Subtema:** Organización de las células · nucléolo
+
+Cuando la célula aún no se está dividiendo, además de la cromatina, en el núcleo celular se observa un cuerpo de tamaño considerable: el nucléolo.
+
+### 74
+
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué contiene el núcleo que determina en qué tipo de célula se desarrollará?
+
+- A. La información hereditaria
+- B. El nucléolo
+- C. La lámina nuclear
+- D. El complejo del poro
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 71
+**Subtema:** Organización de las células · funciones del núcleo
+
+Permitieron establecer que el núcleo contiene la información hereditaria que determina si un tipo particular de célula, ya sea un paramecio, una ameba o un alga unicelular, se desarrollará en un paramecio, una ameba o un alga unicelular con las mismas características de sus progenitores.
+
+### 75
+
+En relación con el libro de Biología, capítulo 4 (La organización de las células), según el trabajo de Hämmerling, ¿qué tipo de influencia ejerce el núcleo sobre la célula?
+
+- A. Una influencia continua, que asegura que las moléculas complejas se sinteticen en la cantidad y el tipo necesarios
+- B. Una influencia sólo durante la división celular
+- C. Una influencia limitada a la forma externa de la célula
+- D. Ninguna influencia una vez formada la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 71
+**Subtema:** Organización de las células · funciones del núcleo
+
+Según indicó el trabajo de Hämmerling, el núcleo ejerce una influencia continua sobre las actividades de la célula, lo que asegura que las moléculas complejas que esta requiere se sinteticen en la cantidad y el tipo necesarios.
+
+---
+
+**Reactivos en este archivo:** 75
