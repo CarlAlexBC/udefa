@@ -67,7 +67,7 @@ primeras células**, que va de la página impresa **32 a la 60**.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **35 a 42**:
+Cubiertas las páginas impresas **35 a 43**:
 
 - La formación de los primeros átomos tras el Big Bang y el origen del sistema
   solar.
@@ -88,8 +88,12 @@ Cubiertas las páginas impresas **35 a 42**:
   los meteoritos Murchison y ALH84001.
 - Por qué la Tierra sustenta vida: distancia al Sol, agua líquida, el intervalo
   de temperatura y el doble papel de la atmósfera.
+- Vida en otros planetas: el escepticismo sobre el ALH84001, Marte y Europa, y
+  las archaeas metanógenas como testigo de la Tierra sin oxígeno.
+- La Ecuación de Drake, las zonas de habitabilidad y la astrobiología.
+- El comienzo de heterótrofos y autótrofos.
 
-**Pendiente:** el resto del capítulo 3 (pp. 43–60) y los capítulos 4, 5, 7, 8,
+**Pendiente:** el resto del capítulo 3 (pp. 44–60) y los capítulos 4, 5, 7, 8,
 11, 12, 31, 32, 35, 36 y 37.
 
 ## Erratas del libro
@@ -1355,4 +1359,303 @@ Pero, a la vez, permite el pasaje de la luz visible, lo que posibilitó uno de l
 
 ---
 
-**Reactivos en este archivo:** 74
+## Sub-lote 14 · Vida en otros planetas (p. 42)
+
+### 75
+
+De acuerdo con el libro de Biología, ¿qué sugieren los investigadores escépticos sobre las estructuras observadas en el meteorito ALH84001?
+
+- A. Que son producto de reacciones químicas inorgánicas
+- B. Que son restos de bacterias terrestres que contaminaron la muestra
+- C. Que son burbujas formadas durante la entrada a la atmósfera
+- D. Que son cristales minerales de origen marciano
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · vida en otros planetas
+
+Sin embargo, muchos investigadores son escépticos respecto de estos hallazgos y sugieren que las estructuras observadas en el meteorito son producto de reacciones químicas inorgánicas.
+
+### 76
+
+De conformidad con el libro de Biología, ¿en qué cuerpos del sistema solar se ha detectado agua líquida y material orgánico?
+
+- A. En Marte y en Europa, una de las lunas heladas de Júpiter
+- B. En Marte y en Titán, una de las lunas de Saturno
+- C. En Venus y en Europa, una de las lunas heladas de Júpiter
+- D. Únicamente en Marte
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · vida en otros planetas
+
+Se ha detectado agua líquida y material orgánico en algunos de ellos, como en Marte y en Europa, una de las lunas heladas de Júpiter.
+
+### 77
+
+En relación con el libro de Biología, ¿bastan las moléculas orgánicas y la presencia de agua para que surja la vida?
+
+- A. No, son factores muy importantes pero no suficientes para que el proceso ocurra en forma inexorable
+- B. Sí, siempre que además exista una atmósfera protectora
+- C. Sí, son las dos condiciones que definen la habitabilidad
+- D. No, porque además se requiere oxígeno libre
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · vida en otros planetas
+
+Sin embargo, aunque las moléculas orgánicas y la presencia de agua son factores muy importantes, no son suficientes para que este proceso ocurra en forma inexorable.
+
+### 78
+
+De acuerdo con el libro de Biología, ¿por qué son muy bajas las probabilidades de que exista vida en otras partes del universo?
+
+- A. Porque los procesos que dieron lugar a la vida están sometidos a las leyes físicas y químicas, así como a múltiples eventos contingentes
+- B. Porque el agua líquida es extremadamente rara fuera de la Tierra
+- C. Porque las moléculas orgánicas no se sintetizan en el espacio
+- D. Porque ningún otro planeta se encuentra en una zona de habitabilidad
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · vida en otros planetas
+
+Debido a que los procesos que dieron lugar a la vida están sometidos a las leyes físicas y químicas, así como a múltiples eventos contingentes, las probabilidades de que exista vida en otras partes del universo son muy bajas.
+
+---
+
+## Sub-lote 15 · Las archaeas metanógenas (fig. 3-8, p. 42)
+
+### 79
+
+De conformidad con el libro de Biología, ¿qué producen las archaeas metanógenas, y a partir de qué?
+
+- A. Metano y agua, a partir del dióxido de carbono e hidrógeno
+- B. Dióxido de carbono e hidrógeno, a partir del metano y el agua
+- C. Oxígeno y glucosa, a partir del dióxido de carbono y el agua
+- D. Metano y oxígeno, a partir del agua y la luz solar
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · archaeas metanógenas
+
+Las archaeas metanógenas son quimiosintéticas. Producen metano y agua a partir del dióxido de carbono e hidrógeno.
+
+> El distractor B invierte productos y reactivos, que es el error más frecuente
+> al memorizar una reacción.
+
+### 80
+
+En relación con el libro de Biología, ¿en qué condición pueden vivir únicamente las archaeas metanógenas?
+
+- A. En ausencia de oxígeno
+- B. En presencia de oxígeno abundante
+- C. En ausencia total de agua
+- D. En presencia de luz solar directa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · archaeas metanógenas
+
+Solo pueden vivir en ausencia de oxígeno, condición común en la Tierra joven.
+
+### 81
+
+De acuerdo con el libro de Biología, ¿dónde existen actualmente las archaeas metanógenas?
+
+- A. Sólo en ambientes aislados, como el fango y el cieno del fondo de lagunas
+- B. En todos los ambientes acuáticos del planeta
+- C. Sólo en las capas altas de la atmósfera
+- D. Sólo en los depósitos sedimentarios de Groenlandia
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · archaeas metanógenas
+
+Actualmente existen solo en ambientes aislados, como el fango y el cieno del fondo de lagunas.
+
+> Estas archaeas son un **testigo vivo** de la Tierra sin oxígeno: la condición
+> que hoy las confina a lagunas era la normal cuando surgió la vida.
+
+---
+
+## Sub-lote 16 · La búsqueda de vida en el Universo (recuadro 3-1, p. 42)
+
+### 82
+
+De conformidad con el libro de Biología, ¿quién propuso en 1961 un modelo para estimar la probabilidad de existencia de civilizaciones extraterrestres?
+
+- A. El científico norteamericano Frank Drake
+- B. El físico y químico sueco Svante Arrhenius
+- C. El biólogo y premio Nobel Jack Szostak
+- D. El científico norteamericano Sidney W. Fox
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · búsqueda de vida en el Universo
+
+En 1961, el científico norteamericano Frank Drake propuso un modelo para la estimación de la probabilidad de existencia de civilizaciones extraterrestres capaces de emitir señales al espacio que nos permitan establecer un contacto.
+
+### 83
+
+En relación con el libro de Biología, ¿en qué consiste en realidad la Ecuación de Drake?
+
+- A. En multiplicar diversos valores estimados, como el número de estrellas de la galaxia y los planetas en los que podría haber vida
+- B. En sumar el número de planetas detectados en zonas de habitabilidad
+- C. En comparar las secuencias genéticas de especies terrestres y extraterrestres
+- D. En calcular la distancia mínima a la que una estrella permite agua líquida
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · búsqueda de vida en el Universo
+
+Este modelo conocido como la Ecuación de Drake, en realidad, consiste en multiplicar diversos valores estimados, como el número de estrellas que constituyen la galaxia, el número de estrellas que se considera que podrían tener planetas orbitando, los planetas en los que podría haber vida.
+
+### 84
+
+De acuerdo con el libro de Biología, ¿qué resultado arrojó la ecuación con los valores que Drake asignó en 1961?
+
+- A. La existencia de diez civilizaciones en toda la galaxia
+- B. La existencia de 10 000 civilizaciones en toda la galaxia
+- C. La existencia de 3600 civilizaciones en toda la galaxia
+- D. La existencia de una única civilización en toda la galaxia
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · búsqueda de vida en el Universo
+
+Con los valores que Drake asignó a estas variables en 1961, el resultado indicaba la existencia de diez civilizaciones en toda la galaxia.
+
+### 85
+
+De conformidad con el libro de Biología, ¿a cuánto subió la estimación cuando el propio Drake revisó los valores en 2004?
+
+- A. A 10 000 civilizaciones
+- B. A 1000 civilizaciones
+- C. A 3600 civilizaciones
+- D. A 100 civilizaciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · búsqueda de vida en el Universo
+
+En 2004, el propio Drake revisó algunos de esos valores y la estimación subió a 10 000, así estaríamos lejos de ser una civilización única y solitaria.
+
+> Par de cifras del mismo párrafo: **diez** civilizaciones en 1961 y **10 000**
+> en 2004. Es el mismo autor revisando su propia ecuación (ver reactivo 84).
+
+### 86
+
+En relación con el libro de Biología, ¿qué masa debe tener un planeta rocoso para considerarse en la zona de habitabilidad?
+
+- A. Una masa comprendida entre 0,6 y 10 masas terrestres
+- B. Una masa comprendida entre 1 y 10 masas terrestres
+- C. Una masa comprendida entre 0,6 y 6 masas terrestres
+- D. Una masa igual o superior a 10 masas terrestres
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · búsqueda de vida en el Universo
+
+Este concepto se aplica a la región alrededor de una estrella en la que, de poseer orbitando un planeta (o satélite) rocoso con una masa comprendida entre 0,6 y 10 masas terrestres, un cierto rango de presión atmosférica, luminosidad y el flujo de radiación incidente permitirían la presencia de agua en estado líquido sobre su superficie.
+
+### 87
+
+De acuerdo con el libro de Biología, ¿cuántos planetas extrasolares se han descrito en los últimos años?
+
+- A. Más de 3600
+- B. Más de 10 000
+- C. Más de 1000
+- D. Más de 360
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · búsqueda de vida en el Universo
+
+En los últimos años se han descrito más de 3600 planetas extrasolares, algunos de los cuales responden a los parámetros de la zona de habitabilidad.
+
+### 88
+
+De conformidad con el libro de Biología, ¿cómo se llama el campo interdisciplinario centrado en la búsqueda de vida extraterrestre?
+
+- A. Exobiología o astrobiología
+- B. Biología evolutiva o filogenia
+- C. Cosmología o astroquímica
+- D. Bioquímica comparada
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · búsqueda de vida en el Universo
+
+Estos estudios se enmarcan en un nuevo campo interdisciplinario conocido como exobiología o astrobiología, que se centra en la búsqueda de vida extraterrestre.
+
+### 89
+
+En relación con el libro de Biología, ¿qué señalan muchos biólogos evolucionistas sobre los organismos extraterrestres?
+
+- A. Que si la vida se hubiera originado en otro planeta en forma independiente, no tendrían por qué compartir características y rasgos con los seres vivos terrestres
+- B. Que necesariamente compartirían las características de los seres vivos terrestres
+- C. Que serían más complejos que cualquier organismo terrestre
+- D. Que su existencia contradiría las leyes de la biología evolutiva
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
+**Subtema:** Origen de la vida · búsqueda de vida en el Universo
+
+Muchos biólogos evolucionistas señalan que, si esta se hubiera originado y evolucionado en otro planeta en forma independiente, los organismos extraterrestres no tendrían por qué compartir sus características y rasgos con los seres vivos terrestres.
+
+---
+
+## Sub-lote 17 · Heterótrofos y autótrofos (p. 43)
+
+### 90
+
+De acuerdo con el libro de Biología, ¿qué son capaces de hacer los organismos autótrofos?
+
+- A. Sintetizar moléculas orgánicas a partir de materiales inorgánicos simples
+- B. Sintetizar materiales inorgánicos a partir de moléculas orgánicas complejas
+- C. Incorporar moléculas orgánicas ya formadas del medio
+- D. Sobrevivir únicamente en ausencia de oxígeno
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 43
+**Subtema:** Origen de la vida · heterótrofos y autótrofos
+
+En el curso del tiempo, habrían aparecido organismos autótrofos capaces de sintetizar moléculas orgánicas a partir de materiales inorgánicos simples, lo cual habría representado una gran ventaja adaptativa que rápidamente se propagó.
+
+### 91
+
+De conformidad con el libro de Biología, ¿qué células tuvieron mayor probabilidad de sobrevivir y reproducirse al disminuir los recursos?
+
+- A. Las que podían usar más eficazmente los recursos que se encontraban limitados
+- B. Las que podían almacenar mayor cantidad de recursos
+- C. Las que podían reproducirse con mayor rapidez
+- D. Las que podían desplazarse hacia otros ambientes
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 43
+**Subtema:** Origen de la vida · heterótrofos y autótrofos
+
+Las células que podían usar más eficazmente los recursos que se encontraban limitados fueron las que tuvieron mayor probabilidad de sobrevivir y reproducirse.
+
+### 92
+
+En relación con el libro de Biología, ¿qué sugieren algunos hallazgos recientes sobre las primeras células?
+
+- A. Que podrían haber sido autotróficas, quimiosintéticas o fotosintéticas antes que heterotróficas
+- B. Que fueron heterotróficas antes que autotróficas, sin excepción
+- C. Que fueron exclusivamente fotosintéticas desde el principio
+- D. Que no obtenían energía de ninguna de esas formas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 43
+**Subtema:** Origen de la vida · heterótrofos y autótrofos
+
+Sin embargo, algunos hallazgos recientes sugieren que las primeras células podrían haber sido autotróficas, quimiosintéticas o fotosintéticas antes que heterotróficas.
+
+> El libro presenta **dos versiones** del orden: primero la clásica —heterótrofos
+> antes que autótrofos, reactivo 90— y luego la que sugieren los hallazgos
+> recientes, que la invierte. Conviene saber que el libro no cierra el punto.
+
+---
+
+**Reactivos en este archivo:** 92
