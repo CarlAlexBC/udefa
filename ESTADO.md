@@ -18,7 +18,7 @@ _Regenerado el 2026-07-21._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural · HCM | 1039 | abiertas: Álgebra |
+| Examen cultural · HCM | 1062 | abiertas: Álgebra |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -32,7 +32,8 @@ _Regenerado el 2026-07-21._
 | Materia | Reactivos | Pendiente |
 |---|---:|---|
 | Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
-| Álgebra · Capítulo I · Suma | 19 | los capítulos II a VI (pp. 46–111). El capítulo I está cerrado. |
+| Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
+| Álgebra · Capítulo II · Resta | 23 | los capítulos III a VI (pp. 58–111). El capítulo II está cerrado. |
 | Español · Bloque 1 · Proceso comunicativo | 32 | ninguno. El bloque 1 está cerrado. |
 | Español · Bloque 3 · Proceso de escritura | 77 | ninguno. El bloque 3 está cerrado. |
 | Geografía · Capítulo 1 · Generalidades | 13 | ninguno. El alcance del capítulo 1 está cerrado. |
@@ -40,7 +41,7 @@ _Regenerado el 2026-07-21._
 | Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
 | Geografía · Capítulo 5 · Islas | 42 | ninguno. El capítulo 5 está cerrado. |
 | Historia · Capítulo 6 · El mundo contemporáneo | 600 | ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que pide el temario del HCM están completos, de la página 205 a la 279. |
-| **Total** | **1039** | |
+| **Total** | **1062** | |
 
 ## Personalidad (remaster)
 

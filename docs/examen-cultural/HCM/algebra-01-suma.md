@@ -58,7 +58,8 @@ que **no se escribió reactivo sobre esas fechas**; sí sobre el escriba Ahmes
 (1650 a. C.), que es dato firme y el propio libro repite. Mismo criterio de
 prudencia que se usó con Brahmagupta y Bháskara en Preliminares.
 
-**Pendiente:** los capítulos II a VI (pp. 46–111). El capítulo I está cerrado.
+**Pendiente:** ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de
+Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`.
 
 ## Criterio: teoría sobre práctica
 
