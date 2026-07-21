@@ -162,29 +162,32 @@ function Dashboard({
       {/* Card del plantel — con logo oficial */}
       <PlantelHeroCard plantel={plantel} />
 
-      {/* CTA principal: Simulador completo (los 3 exámenes fusionados) */}
-      <section className="mb-8">
-        <Link
+      {/* CTAs principales: los dos exámenes simuladores completos.
+          Son dos pruebas distintas del proceso de admisión y se presentan por
+          separado, así que cada una tiene su propio simulador. */}
+      <section className="mb-8 grid grid-cols-1 gap-4 lg:grid-cols-2">
+        <SimuladorCompletoCTA
           href="/inicio/sesion"
-          className="group relative flex items-center gap-5 overflow-hidden rounded-xl border-2 border-accent bg-primary p-5 text-primary-foreground transition-colors hover:bg-primary/90"
-        >
-          <div className="pointer-events-none absolute -top-8 -right-8 h-40 w-40 rounded-full bg-accent/20 blur-2xl" />
-          <div className="relative flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-accent/20">
-            <Star className="h-6 w-6 text-accent" />
-          </div>
-          <div className="relative flex-1">
-            <p className="text-[10px] font-bold uppercase tracking-widest text-accent">
-              Examen simulador completo
-            </p>
-            <h3 className="mt-0.5 text-lg font-semibold">
-              Las 3 fases seguidas, como en el examen real
-            </h3>
-            <p className="mt-1 text-xs text-muted-foreground">
-              Psicométrico → Personalidad → Axiológico. Sin pausa entre fases. Al final ves resultados agregados y coherencia global.
-            </p>
-          </div>
-          <ArrowRight className="relative hidden h-5 w-5 text-accent transition-transform group-hover:translate-x-1 md:block" />
-        </Link>
+          etiqueta="Examen simulador · Psicológico"
+          titulo="Las 3 fases seguidas, como en el examen real"
+          descripcion="Psicométrico → Personalidad → Axiológico. Sin pausa entre fases. Al final ves resultados agregados y coherencia global."
+          icono={<Star className="h-6 w-6 text-accent" />}
+        />
+        <SimuladorCompletoCTA
+          href={examenCultural ? `/inicio/simulador/${examenCultural.id}` : undefined}
+          etiqueta="Examen simulador · Cultural"
+          titulo={
+            examenCultural
+              ? '100 reactivos en 2 horas, contra reloj'
+              : 'En preparación para tu plantel'
+          }
+          descripcion={
+            examenCultural
+              ? 'Español, Álgebra, Historia y Geografía de corrido, con un solo cronómetro. Al final ves tus aciertos por materia y qué páginas repasar.'
+              : `El examen cultural cambia según la escuela. El banco del ${plantel.nombre} todavía está en preparación.`
+          }
+          icono={<BookOpen className="h-6 w-6 text-accent" />}
+        />
       </section>
 
       {/* Sección exámenes de práctica — 3 CTAs individuales */}
@@ -220,20 +223,16 @@ function Dashboard({
             descripcion="Perfil de valores militares. Escala de 5 puntos. Responde honestamente."
             icono={<Scale className="h-5 w-5 text-accent" />}
           />
-          {/* El cultural depende del plantel: cada uno tiene su temario y su
-              banco. Sin examen para el plantel del aspirante, la tarjeta se
-              muestra apagada — nunca con el examen de otra escuela. */}
+          {/* El simulador cultural completo vive arriba, con el psicológico.
+              Este espacio queda para practicar UNA materia sin cronómetro,
+              que es lo que pide el panel de resultados cuando señala en qué
+              páginas fallaste. Todavía no existe. */}
           <ExamenCTA
-            href={examenCultural ? `/inicio/simulador/${examenCultural.id}` : undefined}
             fase="Fase 04"
-            titulo="Cultural"
-            descripcion={
-              examenCultural
-                ? '100 reactivos de Español, Álgebra, Historia y Geografía. 2 horas con un solo cronómetro.'
-                : `Cambia según el plantel. El banco del ${plantel.nombre} está en preparación.`
-            }
+            titulo="Cultural por materia"
+            descripcion="Practica sólo Español, Álgebra, Historia o Geografía, sin cronómetro y con la referencia del libro a la mano."
             icono={<BookOpen className="h-5 w-5 text-accent" />}
-            proximamente={!examenCultural}
+            proximamente
           />
         </div>
       </section>
@@ -274,6 +273,64 @@ function Dashboard({
 /* ═══════════════════════════════════════════════════════════
    Sub-componente: card CTA de un examen
    ═══════════════════════════════════════════════════════════ */
+/**
+ * Tarjeta grande de un examen simulador completo. Hay una por prueba del
+ * proceso —psicológica y cultural— porque se presentan por separado.
+ *
+ * Sin `href` la tarjeta queda apagada y no navega: es lo que ve un aspirante
+ * cuyo plantel todavía no tiene banco cultural.
+ */
+function SimuladorCompletoCTA({
+  href,
+  etiqueta,
+  titulo,
+  descripcion,
+  icono,
+}: {
+  href?: string
+  etiqueta: string
+  titulo: string
+  descripcion: string
+  icono: React.ReactNode
+}) {
+  const contenido = (
+    <>
+      <div className="pointer-events-none absolute -top-8 -right-8 h-40 w-40 rounded-full bg-accent/20 blur-2xl" />
+      <div className="relative flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-accent/20">
+        {icono}
+      </div>
+      <div className="relative flex-1">
+        <p className="text-[10px] font-bold uppercase tracking-widest text-accent">
+          {etiqueta}
+        </p>
+        <h3 className="mt-0.5 text-lg font-semibold">{titulo}</h3>
+        <p className="mt-1 text-xs text-muted-foreground">{descripcion}</p>
+      </div>
+    </>
+  )
+
+  if (!href) {
+    return (
+      <div
+        aria-disabled="true"
+        className="relative flex items-center gap-5 overflow-hidden rounded-xl border-2 border-dashed border-border/70 bg-card/60 p-5 opacity-80"
+      >
+        {contenido}
+      </div>
+    )
+  }
+
+  return (
+    <Link
+      href={href}
+      className="group relative flex items-center gap-5 overflow-hidden rounded-xl border-2 border-accent bg-primary p-5 text-primary-foreground transition-colors hover:bg-primary/90"
+    >
+      {contenido}
+      <ArrowRight className="relative hidden h-5 w-5 shrink-0 text-accent transition-transform group-hover:translate-x-1 md:block" />
+    </Link>
+  )
+}
+
 function ExamenCTA({
   href,
   fase,
