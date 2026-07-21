@@ -67,16 +67,20 @@ primeras células**, que va de la página impresa **32 a la 60**.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **35 a 37**:
+Cubiertas las páginas impresas **35 a 39**:
 
 - La formación de los primeros átomos tras el Big Bang y el origen del sistema
   solar.
 - Qué caracteriza a los sistemas vivos frente a los no vivos.
 - La hipótesis de Oparin y Haldane, y la evolución química.
 - Los dos consensos sobre la Tierra primitiva y las fuentes de energía.
-- El aporte experimental de Stanley Miller.
+- El aporte experimental de Stanley Miller, y el montaje de su experimento.
+- Los sistemas precelulares: coacervados de Oparin, microesferas proteinoides de
+  Fox y microvesículas de Szostak.
+- Por qué la vida no vuelve a surgir hoy, y la paradoja de Oparin.
+- El dilema de qué molécula surgió primero, y el mundo del ARN.
 
-**Pendiente:** el resto del capítulo 3 (pp. 38–60) y los capítulos 4, 5, 7, 8,
+**Pendiente:** el resto del capítulo 3 (pp. 40–60) y los capítulos 4, 5, 7, 8,
 11, 12, 31, 32, 35, 36 y 37.
 
 ## Criterio: teoría sobre práctica
@@ -494,4 +498,351 @@ Los experimentos de Miller, que fueron repetidos varias veces, mostraron que pr�
 
 ---
 
-**Reactivos en este archivo:** 24
+## Sub-lote 5 · El experimento de Miller (fig. 3-4, p. 38)
+
+### 25
+
+De acuerdo con el libro de Biología, ¿qué gases introdujo Miller para simular la composición de la atmósfera primitiva?
+
+- A. Metano, amoníaco e hidrógeno
+- B. Metano, oxígeno e hidrógeno
+- C. Amoníaco, oxígeno y nitrógeno
+- D. Dióxido de carbono, metano y oxígeno
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 38
+**Subtema:** Origen de la vida · experimento de Miller
+
+Los gases metano, amoníaco e hidrógeno se introducen aquí. Estos gases simulan la composición de la atmósfera primitiva.
+
+> Ninguno de los tres es oxígeno, y ése es el punto: la atmósfera primitiva
+> carecía de oxígeno libre. Los distractores lo cuelan.
+
+### 26
+
+De conformidad con el libro de Biología, ¿con qué simuló Miller una fuente de energía presente en la Tierra primitiva?
+
+- A. Con una descarga eléctrica
+- B. Con una fuente de radiación ultravioleta
+- C. Con ceniza volcánica caliente
+- D. Con una corriente de agua en ebullición
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 38
+**Subtema:** Origen de la vida · experimento de Miller
+
+Con una descarga eléctrica, Miller simuló una fuente de energía presente en la Tierra primitiva.
+
+> Los distractores B y C sí son fuentes que el libro menciona como válidas
+> (reactivo 24), pero **la que Miller usó en el dispositivo** fue la descarga
+> eléctrica.
+
+### 27
+
+En relación con el libro de Biología, ¿qué se obtiene en el experimento de Miller?
+
+- A. Moléculas orgánicas: aminoácidos y otros compuestos disueltos
+- B. Ácidos nucleicos: ADN y ARN disueltos
+- C. Microesferas proteinoides
+- D. Coacervados de proteínas y lípidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 38
+**Subtema:** Origen de la vida · experimento de Miller
+
+Se obtienen moléculas orgánicas: aminoácidos y otros compuestos disueltos.
+
+---
+
+## Sub-lote 6 · Coacervados y microesferas (pp. 38–39)
+
+### 28
+
+De acuerdo con el libro de Biología, ¿cómo llamó Oparin a los sistemas individuales que se forman cuando las macromoléculas se agrupan y se separan del medio?
+
+- A. Coacervados
+- B. Microesferas proteinoides
+- C. Protocélulas
+- D. Conglomerados prebióticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 38
+**Subtema:** Origen de la vida · sistemas precelulares
+
+En condiciones de temperatura y acidez controladas, estas macromoléculas se agrupan entre sí formando conglomerados que se separan del medio circundante y forman sistemas individuales a los que el autor denominó coacervados.
+
+> Par que hay que separar: los **coacervados** son de Oparin y las
+> **microesferas proteinoides** de Fox (ver reactivo 31).
+
+### 29
+
+De conformidad con el libro de Biología, ¿qué pueden hacer los coacervados con las moléculas del medio?
+
+- A. Pueden incorporar otras moléculas presentes en el medio
+- B. Pueden sintetizar nuevas moléculas a partir de gases
+- C. Pueden expulsar selectivamente las moléculas que no necesitan
+- D. No pueden intercambiar nada con el medio circundante
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 38
+**Subtema:** Origen de la vida · sistemas precelulares
+
+Estos modelos de sistemas precelulares pueden incorporar otras moléculas presentes en el medio.
+
+### 30
+
+En relación con el libro de Biología, ¿quién postuló un modelo precelular alternativo al de Oparin?
+
+- A. El científico norteamericano Sidney W. Fox
+- B. El bioquímico estadounidense Stanley Miller
+- C. El biólogo y premio Nobel Jack Szostak
+- D. El químico inglés J. B. S. Haldane
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 38
+**Subtema:** Origen de la vida · sistemas precelulares
+
+Por su parte, el científico norteamericano Sidney W. Fox (1912-1998) postuló un modelo precelular alternativo.
+
+### 31
+
+De acuerdo con el libro de Biología, ¿qué estructuras obtuvieron Fox y sus colaboradores?
+
+- A. Microesferas proteinoides, formadas por una membrana proteica
+- B. Coacervados, formados por conglomerados de macromoléculas
+- C. Microvesículas de lípidos que simulan protocélulas
+- D. Cadenas de ARN con capacidad replicativa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 39
+**Subtema:** Origen de la vida · sistemas precelulares
+
+Fox y sus colaboradores obtuvieron estructuras formadas por una membrana proteica —llamadas microesferas proteinoides— dentro de las cuales ocurrían reacciones químicas análogas a las que ocurren en las células.
+
+### 32
+
+De conformidad con el libro de Biología, ¿son células las microesferas proteinoides?
+
+- A. No, pero permiten proponer modelos sobre el origen de estructuras autónomas similares a células sencillas
+- B. Sí, son las células más sencillas que se conocen
+- C. Sí, porque dentro de ellas ocurren reacciones químicas
+- D. No, y por eso no aportan nada al estudio del origen de la vida
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 39
+**Subtema:** Origen de la vida · sistemas precelulares
+
+Las microesferas no son células, pero el hecho de que puedan formarse en el laboratorio en condiciones que simulan las de la Tierra primitiva permite proponer modelos sobre los mecanismos que podrían haber dado origen a estructuras autónomas similares a células sencillas.
+
+> El libro afirma las dos cosas a la vez: **no son células** y **sí sirven**. Los
+> distractores se quedan con una mitad y sueltan la otra.
+
+### 33
+
+En relación con el libro de Biología, ¿qué demostraron los estudios del biólogo y premio Nobel Jack Szostak?
+
+- A. Que las microvesículas de lípidos pueden importar moléculas de manera selectiva, autoensamblarse, crecer, dividirse y adquirir gran complejidad
+- B. Que las microesferas proteinoides pueden replicar su propio material genético
+- C. Que los coacervados pueden sintetizar aminoácidos a partir de gases
+- D. Que el ARN puede transformarse espontáneamente en ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 39
+**Subtema:** Origen de la vida · sistemas precelulares
+
+Estudios más recientes del biólogo y premio Nobel Jack Szostak han demostrado que los sistemas artificiales de microvesículas de lípidos, que simulan protocélulas, pueden importar moléculas del exterior de manera selectiva, autoensamblarse, crecer, dividirse y adquirir gran complejidad.
+
+---
+
+## Sub-lote 7 · Por qué la vida no vuelve a surgir hoy (p. 38)
+
+### 34
+
+De acuerdo con el libro de Biología, ¿por qué sería imposible hoy la formación espontánea de moléculas orgánicas?
+
+- A. Porque el oxígeno de la atmósfera las oxidaría y degradaría, o serían degradadas por los organismos que habitan el planeta
+- B. Porque ya no existe energía suficiente en forma de calor y radiación
+- C. Porque los cuatro elementos que las componen ya no están disponibles
+- D. Porque la temperatura de la Tierra es demasiado baja
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 38
+**Subtema:** Origen de la vida · por qué no ocurre hoy
+
+En la Tierra actual, la formación espontánea de moléculas orgánicas y de sistemas plurimoleculares sería imposible, ya que el oxígeno presente en la atmósfera los oxidaría y degradaría, o serían degradados por los organismos que actualmente habitan el planeta.
+
+### 35
+
+De conformidad con el libro de Biología, ¿qué efecto tuvo la formación de la capa de ozono sobre el origen de la vida?
+
+- A. Filtra las radiaciones ultravioleta, lo que disminuye su influencia como fuente de energía para formar moléculas complejas
+- B. Aumentó la cantidad de radiación ultravioleta disponible como fuente de energía
+- C. Elevó la temperatura de la atmósfera, degradando las moléculas orgánicas
+- D. Impidió que el oxígeno se acumulara en la atmósfera
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 38
+**Subtema:** Origen de la vida · por qué no ocurre hoy
+
+A partir de ese oxígeno se fue constituyendo la capa de ozono (O₃) que filtra las radiaciones ultravioleta, lo que disminuye así su influencia como fuente de energía para los procesos formadores de moléculas complejas.
+
+### 36
+
+En relación con el libro de Biología, ¿qué hicieron las primeras células con el medio del que provenían?
+
+- A. Consumieron la sopa primitiva de la que provenían
+- B. Enriquecieron la sopa primitiva con nuevas moléculas orgánicas
+- C. Conservaron la sopa primitiva sin alterarla
+- D. Se aislaron de la sopa primitiva mediante una membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 38
+**Subtema:** Origen de la vida · por qué no ocurre hoy
+
+Dicho de otra forma, las primeras células que aparecieron consumieron la sopa primitiva de la que provenían.
+
+### 37
+
+De acuerdo con el libro de Biología, según las palabras de Oparin, ¿dónde reside la causa principal de que la vida no aparezca hoy en condiciones naturales?
+
+- A. En el hecho de que la vida ya existe
+- B. En el hecho de que la atmósfera ya no tiene metano ni amoníaco
+- C. En el hecho de que las fuentes de energía se han agotado
+- D. En el hecho de que los océanos han cambiado de composición
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 38
+**Subtema:** Origen de la vida · por qué no ocurre hoy
+
+Según las palabras de Oparin, "por paradójico que ello pueda parecer, debemos admitir que la causa principal de la imposibilidad de la aparición de la vida en las condiciones naturales actuales reside en el hecho de que la vida ya existe".
+
+---
+
+## Sub-lote 8 · El dilema del huevo y la gallina, y el mundo del ARN (p. 39)
+
+### 38
+
+De conformidad con el libro de Biología, ¿qué propiedad tienen las enzimas?
+
+- A. Acelerar ciertas reacciones químicas sin sufrir cambios en su estructura, quedando disponibles para nuevas reacciones
+- B. Acelerar ciertas reacciones químicas consumiéndose en el proceso
+- C. Portar la información genética y transmitirla a la descendencia
+- D. Formar la membrana que separa la célula del medio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 39
+**Subtema:** Origen de la vida · enzimas y ácidos nucleicos
+
+Ciertas proteínas (enzimas) tienen la propiedad de acelerar ciertas reacciones químicas sin sufrir cambios en su estructura, quedando, por lo tanto, disponibles para intervenir en nuevas reacciones.
+
+> Que **no se consuman** es lo que las hace enzimas. El distractor B cambia
+> exactamente eso.
+
+### 39
+
+En relación con el libro de Biología, ¿qué moléculas cumplen el papel de portar la información genética y transmitirla a la descendencia?
+
+- A. Los ácidos nucleicos, generalmente el ADN
+- B. Las proteínas, en particular las enzimas
+- C. Los lípidos de la membrana
+- D. Los aminoácidos libres
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 39
+**Subtema:** Origen de la vida · enzimas y ácidos nucleicos
+
+Hoy se sabe que las proteínas no poseen la estructura que hace posible las dos funciones antes mencionadas: portar información genética y transmitirla a la descendencia. Según nuestros conocimientos acerca del funcionamiento de las células actuales, este papel lo cumplen los ácidos nucleicos, generalmente el ADN.
+
+### 40
+
+De acuerdo con el libro de Biología, ¿a qué viejo acertijo se asemeja el dilema sobre qué molécula surgió primero?
+
+- A. A "¿Qué fue primero, el huevo o la gallina?"
+- B. A "¿Qué fue primero, la semilla o el árbol?"
+- C. A "¿Qué fue primero, el fuego o la chispa?"
+- D. A "¿Qué fue primero, el río o la lluvia?"
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 39
+**Subtema:** Origen de la vida · mundo del ARN
+
+Este dilema acerca de quién tuvo primacía se asemeja al viejo acertijo: "¿Qué fue primero, el huevo o la gallina?".
+
+### 41
+
+De conformidad con el libro de Biología, ¿cuál es la propuesta más aceptada sobre el primer polímero con capacidad de portar información y de replicarse?
+
+- A. Que podría haber sido el ARN
+- B. Que podría haber sido el ADN
+- C. Que podrían haber sido las proteínas
+- D. Que podrían haber sido los lípidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 39
+**Subtema:** Origen de la vida · mundo del ARN
+
+La propuesta más aceptada es que el primer polímero con capacidad de portar información y de replicarse podría haber sido el ARN.
+
+### 42
+
+En relación con el libro de Biología, ¿cómo se llama la etapa muy temprana de la evolución biológica en la que este polímero genético llevaba a cabo papeles biológicos muy importantes?
+
+- A. Mundo del ARN
+- B. Mundo del ADN
+- C. Evolución química
+- D. Evolución prebiológica
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 39
+**Subtema:** Origen de la vida · mundo del ARN
+
+Todos estos hallazgos apoyan fuertemente un argumento que propone la existencia de una etapa muy temprana en la evolución biológica conocida como mundo del ARN, en la que este polímero genético llevaba a cabo papeles biológicos muy importantes.
+
+### 43
+
+De acuerdo con el libro de Biología, ¿qué es la actividad catalítica que exhiben algunos ARN creados de manera artificial?
+
+- A. La capacidad de acelerar la ocurrencia de reacciones químicas
+- B. La capacidad de replicarse sin ayuda de proteínas
+- C. La capacidad de transformarse en ADN
+- D. La capacidad de atravesar la membrana celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 39
+**Subtema:** Origen de la vida · mundo del ARN
+
+Numerosos experimentos en el laboratorio han demostrado que algunos ARN creados de manera artificial exhiben actividad catalítica (capacidad de acelerar la ocurrencia de reacciones químicas).
+
+### 44
+
+De conformidad con el libro de Biología, ¿cómo se llaman los errores de copia que pudieron sufrir las moléculas de ARN durante los procesos de duplicación?
+
+- A. Mutaciones
+- B. Replicaciones
+- C. Condensaciones
+- D. Coacervaciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 39
+**Subtema:** Origen de la vida · mundo del ARN
+
+Durante los procesos de duplicación, las moléculas de ARN podían haber sufrido errores de copia, llamados mutaciones, que habrían dado lugar a una inmensa variedad de estas moléculas.
+
+### 45
+
+En relación con el libro de Biología, ¿de qué debió disponer necesariamente cualquier forma ancestral de vida?
+
+- A. De un "manual de instrucciones", aunque fuera rudimentario, que regulara el sistema y pudiera ser copiado y transmitido
+- B. De una membrana lipídica capaz de dividirse
+- C. De un conjunto completo de enzimas catalíticas
+- D. De una fuente propia de energía independiente del Sol
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 39
+**Subtema:** Origen de la vida · mundo del ARN
+
+Actualmente, los biólogos concuerdan en que cualquier forma ancestral de vida debió disponer necesariamente de un "manual de instrucciones", aunque sea rudimentario, que regulara el funcionamiento del sistema y que, a la vez, pudiera ser copiado y transmitido de generación en generación, un requisito esencial para que ocurra un cambio evolutivo.
+
+---
+
+**Reactivos en este archivo:** 45
