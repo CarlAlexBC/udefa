@@ -115,4 +115,87 @@ export const INSTRUCCIONES_POR_BLOQUE: Record<string, InstruccionesBloque> = {
     notaEspecial:
       'Este examen tampoco se califica por aciertos. Se analiza tu compatibilidad con el perfil axiológico militar. Responde honestamente — el sistema detecta perfiles idealizados poco creíbles.',
   },
+
+  /* ─────────────────────────────────────────────────────────────
+     EXAMEN CULTURAL — HCM
+
+     Las cuatro materias del temario. A diferencia del psicométrico,
+     aquí cada reactivo sale textual de un libro oficial del temario, y
+     por eso todos los ejemplos de abajo son reactivos reales del banco.
+
+     El examen cultural evalúa RECUERDO LITERAL: la respuesta correcta
+     es cita del libro, no una deducción. Conviene que el aspirante lo
+     sepa antes de empezar, porque cambia cómo hay que estudiarlo.
+     ───────────────────────────────────────────────────────────── */
+
+  Español: {
+    titulo: 'Español',
+    instrucciones:
+      'Reactivos del libro Taller de Lectura y Redacción 1. Se evalúa que recuerdes lo que dice el libro, no que lo deduzcas: la opción correcta es la que el texto afirma. Lee las cuatro opciones completas antes de contestar — suelen parecerse mucho entre sí.',
+    ejemplo: {
+      enunciado:
+        'De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuáles son los tres tipos básicos de lenguaje?',
+      opciones: [
+        'El emisor, el mensaje y el receptor',
+        'El oral, el escrito y el mímico',
+        'El referencial, el emotivo y el poético',
+        'El técnico, el coloquial y el literario',
+      ],
+      respuestaCorrecta: 'El oral, el escrito y el mímico',
+      explicacion:
+        'Las otras tres opciones son listas que el mismo libro menciona en otras páginas: los elementos del proceso comunicativo, las funciones del lenguaje y los niveles de habla. Todas suenan razonables; sólo una responde la pregunta que se hizo.',
+    },
+  },
+
+  'Álgebra': {
+    titulo: 'Álgebra',
+    instrucciones:
+      'Reactivos del Álgebra de Baldor. Ojo: no vas a tener que resolver operaciones. Se te pregunta por definiciones y reglas — qué es un término, cuál es la regla para restar, qué dice la ley de los signos. Es teoría, no cálculo.',
+    ejemplo: {
+      enunciado: 'De acuerdo con el libro de Álgebra de Baldor, ¿qué es el Álgebra?',
+      opciones: [
+        'La rama de la Matemática que estudia la cantidad con valores determinados',
+        'La parte de la Geometría que estudia las figuras y sus medidas',
+        'La rama de la Matemática que estudia la cantidad considerada del modo más general posible',
+        'La ciencia que estudia únicamente los números y sus operaciones',
+      ],
+      respuestaCorrecta:
+        'La rama de la Matemática que estudia la cantidad considerada del modo más general posible',
+      explicacion:
+        'La primera opción describe la Aritmética, no el Álgebra, y es la confusión más común. La diferencia está en "del modo más general posible": el Álgebra trabaja con letras que pueden valer cualquier cosa.',
+    },
+  },
+
+  Historia: {
+    titulo: 'Historia',
+    instrucciones:
+      'Reactivos del libro Historia Universal, capítulo del mundo contemporáneo. Se preguntan hechos concretos: fechas, países, personajes y acuerdos. Las cuatro opciones suelen ser del mismo tipo — si la respuesta es una década, las cuatro son décadas.',
+    ejemplo: {
+      enunciado:
+        'De acuerdo con el libro de Historia Universal, ¿desde qué década atraviesa Brasil la grave crisis económica?',
+      opciones: [
+        'Desde la década de los noventa',
+        'Desde la década de los setenta',
+        'Desde la década de los sesenta',
+        'Desde la década de los ochenta',
+      ],
+      respuestaCorrecta: 'Desde la década de los ochenta',
+      explicacion:
+        'Las cuatro opciones son décadas vecinas y todas suenan igual de posibles. En este tipo de reactivo no hay forma de deducir la respuesta: o recuerdas el dato del libro o no. Por eso conviene estudiar fechas en bloque y no sueltas.',
+    },
+  },
+
+  'Geografía': {
+    titulo: 'Geografía',
+    instrucciones:
+      'Reactivos del libro Geografía Moderna de México. Se preguntan datos precisos: coordenadas, ríos, superficies, nombres de accidentes geográficos. Fíjate bien en las cifras — los distractores suelen ser cifras vecinas del mismo cuadro del libro.',
+    ejemplo: {
+      enunciado:
+        'De acuerdo con el libro de Geografía Moderna de México, ¿en la desembocadura de qué río se localiza el paralelo 14° 32\' 45" N, coordenada extrema sur del territorio continental?',
+      opciones: ['Río Colorado', 'Río Suchiate', 'Río Usumacinta', 'Río Bravo'],
+      respuestaCorrecta: 'Río Suchiate',
+      explicacion:
+        'Los cuatro son ríos fronterizos o extremos que el libro menciona. El Bravo y el Colorado marcan el norte; el Suchiate marca el sur. Confundir el extremo norte con el sur es el error típico aquí.',
+    },
+  },
 }
