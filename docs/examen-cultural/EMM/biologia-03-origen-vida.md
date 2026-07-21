@@ -67,7 +67,7 @@ primeras células**, que va de la página impresa **32 a la 60**.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **35 a 49**:
+Cubiertas las páginas impresas **35 a 50**:
 
 - La formación de los primeros átomos tras el Big Bang y el origen del sistema
   solar.
@@ -105,8 +105,12 @@ Cubiertas las páginas impresas **35 a 49**:
 - El paso a los organismos multicelulares, cuándo aparecieron y de qué grupos.
 - Los seres vivos como sistemas abiertos; el metabolismo, la homeostasis y el
   intercambio de información.
+- La información genética como "manual de instrucciones", la autoperpetuación y
+  el desarrollo.
+- La organización jerárquica: los niveles subatómico, atómico, molecular,
+  macromolecular y celular, y la frontera de lo vivo.
 
-**Pendiente:** el resto del capítulo 3 (pp. 50–60) y los capítulos 4, 5, 7, 8,
+**Pendiente:** el resto del capítulo 3 (pp. 51–60) y los capítulos 4, 5, 7, 8,
 11, 12, 31, 32, 35, 36 y 37.
 
 ## Erratas del libro
@@ -2551,4 +2555,184 @@ La información proveniente del ambiente es captada a través de diversos dispos
 
 ---
 
-**Reactivos en este archivo:** 146
+## Sub-lote 27 · La información genética y la autoperpetuación (pp. 49–50)
+
+### 147
+
+De acuerdo con el libro de Biología, ¿en qué está contenida la información que orienta el desarrollo y el funcionamiento de cada individuo?
+
+- A. En el material genético o ADN
+- B. En las proteínas de la membrana
+- C. En las organelas del citoplasma
+- D. En los dispositivos sensoriales
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 49
+**Subtema:** Origen de la vida · información genética
+
+Esta información, que puede ser análoga a un "manual de instrucciones", es la que orienta el desarrollo y el funcionamiento de cada individuo y está contenida en el material genético o ADN.
+
+### 148
+
+De conformidad con el libro de Biología, ¿cómo se llama la capacidad de los seres vivos de producir copias similares a sí mismos y transmitir información a su descendencia?
+
+- A. La autoperpetuación
+- B. La homeostasis
+- C. El metabolismo
+- D. El desarrollo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 50
+**Subtema:** Origen de la vida · autoperpetuación
+
+Esta propiedad, la autoperpetuación, es la responsable de que las especies puedan persistir a través del tiempo, generación tras generación.
+
+### 149
+
+En relación con el libro de Biología, ¿qué abarca el desarrollo de un organismo?
+
+- A. Todos los cambios que se producen durante la vida de un organismo
+- B. Únicamente el crecimiento en tamaño del organismo
+- C. Únicamente la reproducción del organismo
+- D. Únicamente la transmisión de información a la descendencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 50
+**Subtema:** Origen de la vida · autoperpetuación
+
+En forma general, el desarrollo abarca todos los cambios que se producen durante la vida de un organismo.
+
+### 150
+
+De acuerdo con el libro de Biología, ¿a qué hace referencia la autoperpetuación además de la reproducción dentro de una especie?
+
+- A. A la permanencia de la vida a lo largo de miles de millones de años, pese a los cambios ambientales del planeta
+- B. Al mantenimiento de la composición química estable de cada individuo
+- C. A la conversión energética que realizan los organismos
+- D. Al intercambio de información con el medio ambiente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 50
+**Subtema:** Origen de la vida · autoperpetuación
+
+La autoperpetuación no solo se refiere a la reproducción y la transmisión de información dentro de una especie, sino también hace referencia a la permanencia de la vida a lo largo de miles de millones de años, a pesar de los reiterados y profundos cambios ambientales experimentados por el planeta.
+
+---
+
+## Sub-lote 28 · La organización jerárquica de la vida (p. 50)
+
+### 151
+
+De conformidad con el libro de Biología, ¿en qué se refleja la organización de los seres vivos?
+
+- A. En la estructura: el ordenamiento de sus componentes en el espacio, adecuado a las funciones que cumplen
+- B. En el número de reacciones químicas que realizan
+- C. En su capacidad de intercambiar información
+- D. En la cantidad de información genética que contienen
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 50
+**Subtema:** Origen de la vida · niveles de organización
+
+La organización se refleja en la estructura: el ordenamiento de sus componentes en el espacio, adecuado a las funciones que cumplen.
+
+### 152
+
+En relación con el libro de Biología, ¿en qué se manifiesta la complejidad de los seres vivos?
+
+- A. En el número de los componentes y en las interacciones que mantienen entre sí y con el medio
+- B. Únicamente en el número de componentes que los forman
+- C. Únicamente en el tamaño del organismo
+- D. En la estabilidad de su composición química
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 50
+**Subtema:** Origen de la vida · niveles de organización
+
+La complejidad, por su parte, se manifiesta tanto en el número de los componentes como en las interacciones que estos mantienen entre sí y con el medio circundante.
+
+### 153
+
+De acuerdo con el libro de Biología, ¿cuál es el nivel de organización más simple de la materia?
+
+- A. El subatómico
+- B. El atómico
+- C. El molecular
+- D. El macromolecular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 50
+**Subtema:** Origen de la vida · niveles de organización
+
+El nivel de organización más simple de la materia es el subatómico.
+
+### 154
+
+De conformidad con el libro de Biología, ¿qué partículas se encuentran en el nivel subatómico?
+
+- A. Los protones, los neutrones y los electrones
+- B. Los átomos y las moléculas
+- C. Únicamente los protones y los electrones
+- D. Las macromoléculas y las células
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 50
+**Subtema:** Origen de la vida · niveles de organización
+
+En este nivel se encuentran principalmente los protones, los neutrones y los electrones que constituyen los átomos a los que incluimos en el nivel atómico.
+
+### 155
+
+En relación con el libro de Biología, ¿qué se forma cuando los átomos individuales se asocian entre sí?
+
+- A. Moléculas
+- B. Macromoléculas
+- C. Células
+- D. Partículas subatómicas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 50
+**Subtema:** Origen de la vida · niveles de organización
+
+En un siguiente nivel, los átomos individuales forman moléculas.
+
+> Ojo con la escala de niveles: subatómico → atómico → molecular →
+> macromolecular → celular. Cada nivel **incluye** a los anteriores; las
+> moléculas se asocian en **macromoléculas**, no directamente en células.
+
+### 156
+
+De acuerdo con el libro de Biología, ¿a qué nivel de organización hay que recurrir para hallar mayor complejidad que el macromolecular?
+
+- A. A los seres vivos, con el nivel celular
+- B. Al nivel atómico
+- C. Al nivel subatómico
+- D. A las estructuras no vivas de la naturaleza
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 50
+**Subtema:** Origen de la vida · niveles de organización
+
+Si queremos identificar en la naturaleza un nivel de organización de mayor complejidad que el macromolecular, necesariamente deberemos recurrir a los seres vivos. El siguiente nivel de organización resultante de la interacción de los anteriores es el nivel celular.
+
+> El punto es la **frontera**: hasta el nivel macromolecular basta la materia no
+> viva; el nivel celular ya es exclusivo de los seres vivos.
+
+### 157
+
+De conformidad con el libro de Biología, ¿qué establece la célula como concepto de gran importancia en biología?
+
+- A. La célula como unidad de todos los organismos vivos, que están compuestos por una o más células
+- B. La célula como el nivel de organización más simple de la materia
+- C. La célula como estructura exclusiva de los organismos pluricelulares
+- D. La célula como sinónimo de macromolécula
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 50
+**Subtema:** Origen de la vida · niveles de organización
+
+Como establece la teoría celular, todos los organismos vivos están compuestos por una o más células. Este concepto es de gran importancia en biología, porque establece a la célula como la unidad.
+
+---
+
+**Reactivos en este archivo:** 157
