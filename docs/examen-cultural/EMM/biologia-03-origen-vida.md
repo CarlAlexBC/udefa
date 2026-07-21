@@ -67,7 +67,7 @@ primeras células**, que va de la página impresa **32 a la 60**.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **35 a 47**:
+Cubiertas las páginas impresas **35 a 49**:
 
 - La formación de los primeros átomos tras el Big Bang y el origen del sistema
   solar.
@@ -102,8 +102,11 @@ Cubiertas las páginas impresas **35 a 47**:
   moleculares y los tres grupos Bacteria/Archaea/Eucarya.
 - La endosimbiosis en detalle: Rickettsia y cianobacterias, y el carácter serial
   de la teoría.
+- El paso a los organismos multicelulares, cuándo aparecieron y de qué grupos.
+- Los seres vivos como sistemas abiertos; el metabolismo, la homeostasis y el
+  intercambio de información.
 
-**Pendiente:** el resto del capítulo 3 (pp. 48–60) y los capítulos 4, 5, 7, 8,
+**Pendiente:** el resto del capítulo 3 (pp. 50–60) y los capítulos 4, 5, 7, 8,
 11, 12, 31, 32, 35, 36 y 37.
 
 ## Erratas del libro
@@ -114,6 +117,7 @@ enseñaría mal al aspirante y lo haría fallar si el examen real la corrige.
 | Pág. | Dice | Debe decir | Cómo se detectó |
 |---|---|---|---|
 | 40 | los depósitos de Isua "tienen alrededor de **3800 años** de antigüedad" | **3800 millones de años** | Se le cayó "millones". El propio párrafo la presenta como evidencia **más antigua** que los fósiles de 3500 millones de años; 3800 años a secas no tendría sentido ahí. Verificado en el texto crudo del PDF: la errata es del libro, no de la extracción. |
+| 48 | estructuras reproductivas aéreas llamadas "**esponrangios**" | **esporangios** | Una "n" de más en un término técnico: esporangio (del griego *spora* + *angion*, "receptáculo de esporas") es la estructura que produce esporas. Verificado en el texto crudo. No se escribe reactivo sobre ese término. |
 
 **No hay reactivo sobre la antigüedad de los depósitos de Isua.** Sí lo hay sobre
 dónde están y qué se analizó en ellos, que son datos firmes.
@@ -2321,4 +2325,230 @@ Sin embargo, la diferencia es que los eventos hipotéticos que habrían originad
 
 ---
 
-**Reactivos en este archivo:** 132
+## Sub-lote 24 · De la célula a los organismos multicelulares (p. 48)
+
+### 133
+
+De acuerdo con el libro de Biología, ¿cómo son las células de los organismos multicelulares modernos respecto de las de los eucariontes unicelulares?
+
+- A. Muy semejantes: sus membranas plasmáticas son idénticas y sus organelas comparten la misma estructura
+- B. Completamente distintas en membrana y organelas
+- C. Semejantes en la membrana, pero sin organelas
+- D. Idénticas salvo por la ausencia de núcleo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 48
+**Subtema:** Origen de la vida · multicelularidad
+
+Las células de los organismos multicelulares modernos son muy semejantes a las de los eucariontes unicelulares: las membranas plasmáticas de ambos son idénticas y sus organelas comparten la misma estructura.
+
+### 134
+
+De conformidad con el libro de Biología, ¿qué ocurre con las células en los organismos multicelulares?
+
+- A. Se especializan, dando lugar a tipos celulares con funciones específicas, aunque cada una sigue siendo una unidad con mantenimiento autónomo
+- B. Pierden su autonomía y dependen por completo de las células vecinas
+- C. Se vuelven idénticas entre sí para actuar de forma coordinada
+- D. Dejan de realizar reacciones químicas propias
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 48
+**Subtema:** Origen de la vida · multicelularidad
+
+En los organismos multicelulares, las células se especializan, dando lugar a tipos celulares con funciones específicas que contribuyen al funcionamiento de todo el organismo. Sin embargo, cada una sigue siendo notablemente una unidad con mantenimiento autónomo.
+
+### 135
+
+En relación con el libro de Biología, según el registro fósil, ¿hace cuánto aparecieron los primeros organismos multicelulares eucariontes?
+
+- A. Hace apenas 750 millones de años
+- B. Hace 3500 millones de años
+- C. Hace 4600 millones de años
+- D. Hace 1100 millones de años
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 48
+**Subtema:** Origen de la vida · multicelularidad
+
+Según el registro fósil, los primeros organismos multicelulares eucariontes aparecieron hace apenas 750 millones de años.
+
+> Otra cifra para la colección de fechas del capítulo: **750 millones** son los
+> multicelulares, muy posteriores a los **3500 millones** de los primeros fósiles
+> celulares. Los distractores son las otras fechas del capítulo.
+
+### 136
+
+De acuerdo con el libro de Biología, ¿cuáles son los principales grupos de organismos multicelulares que evolucionaron a partir de eucariontes unicelulares?
+
+- A. Protistas pluricelulares (algas), hongos, plantas y animales
+- B. Bacterias, arqueas, protistas y hongos
+- C. Algas, protozoarios, plantas y bacterias
+- D. Hongos, plantas, animales y arqueas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 48
+**Subtema:** Origen de la vida · multicelularidad
+
+Se considera que los principales grupos de estos organismos (protistas pluricelulares –algas–, hongos, plantas y animales) evolucionaron a partir de diferentes eucariontes unicelulares.
+
+### 137
+
+De conformidad con el libro de Biología, ¿qué permite la organización multicelular que existe en algunos grupos bacterianos, como el género Streptomyces?
+
+- A. La separación de algunas funciones fundamentales
+- B. La formación de un núcleo verdadero
+- C. La adquisición de mitocondrias
+- D. La reproducción sin necesidad de esporas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 48
+**Subtema:** Origen de la vida · multicelularidad
+
+En algunos grupos bacterianos existe una cierta organización multicelular que permite la separación de algunas funciones fundamentales. Tal es el caso de algunas especies pertenecientes al género Streptomyces.
+
+---
+
+## Sub-lote 25 · Los seres vivos como sistemas abiertos (p. 49)
+
+### 138
+
+En relación con el libro de Biología, ¿cómo interaccionan con su entorno todos los sistemas biológicos?
+
+- A. A través de intercambios de materia y energía
+- B. Únicamente a través de intercambios de materia
+- C. Únicamente a través de intercambios de energía
+- D. A través de un límite cerrado que impide el intercambio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 49
+**Subtema:** Origen de la vida · sistemas abiertos
+
+Todos los sistemas biológicos interaccionan con su entorno, esencialmente de la misma manera: a través de intercambios de materia y energía.
+
+### 139
+
+De acuerdo con el libro de Biología, ¿cómo se denominan los sistemas que intercambian materia y energía con su entorno?
+
+- A. Sistemas abiertos
+- B. Sistemas cerrados
+- C. Sistemas aislados
+- D. Sistemas homeostáticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 49
+**Subtema:** Origen de la vida · sistemas abiertos
+
+Por esta razón, decimos que los sistemas biológicos son sistemas abiertos.
+
+### 140
+
+De conformidad con el libro de Biología, ¿desde qué momento son sistemas abiertos las estructuras resultantes de la evolución prebiótica?
+
+- A. Desde antes de poder definirse como seres vivos: es una característica que permanece constante a lo largo de la evolución biológica
+- B. Sólo a partir de que se convierten en seres vivos
+- C. Sólo cuando alcanzan la multicelularidad
+- D. Sólo cuando adquieren información genética
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 49
+**Subtema:** Origen de la vida · sistemas abiertos
+
+Estas estructuras resultantes de la evolución prebiótica son sistemas abiertos; esta es una característica que permanecerá constante a lo largo de la evolución biológica, aunque aún no pueden definirse como seres vivos.
+
+---
+
+## Sub-lote 26 · Metabolismo, homeostasis e información (p. 49)
+
+### 141
+
+En relación con el libro de Biología, ¿qué constituye el metabolismo?
+
+- A. El conjunto de reacciones químicas y de transformaciones de energía, incluidas la síntesis y la degradación de moléculas
+- B. Únicamente las reacciones que degradan moléculas para obtener energía
+- C. Únicamente las reacciones que sintetizan moléculas complejas
+- D. El intercambio de información con el medio ambiente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 49
+**Subtema:** Origen de la vida · metabolismo
+
+El conjunto de reacciones químicas y de transformaciones de energía, incluidas la síntesis y la degradación de moléculas, constituyen el metabolismo.
+
+### 142
+
+De acuerdo con el libro de Biología, ¿en qué son "expertos" los organismos vivos?
+
+- A. En la conversión energética
+- B. En la reproducción celular
+- C. En el intercambio de información
+- D. En la síntesis de proteínas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 49
+**Subtema:** Origen de la vida · metabolismo
+
+Los organismos vivos son "expertos" en la conversión energética.
+
+### 143
+
+De conformidad con el libro de Biología, ¿cómo se llama el fenómeno que permite a los seres vivos mantener su composición química estable pese a intercambiar materiales con el medio?
+
+- A. Homeostasis
+- B. Metabolismo
+- C. Endosimbiosis
+- D. Evolución química
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 49
+**Subtema:** Origen de la vida · homeostasis
+
+A pesar de intercambiar materiales con el medio de manera constante, su composición química es muy diferente de la del ambiente que los rodea y puede mantenerse estable dentro de ciertos límites. Esto es posible por el fenómeno de la homeostasis.
+
+### 144
+
+En relación con el libro de Biología, ¿qué significa que los seres vivos sean homeostáticos?
+
+- A. Que "se mantienen relativamente estables"
+- B. Que "se transforman constantemente"
+- C. Que "se reproducen de forma autónoma"
+- D. Que "intercambian información con el medio"
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 49
+**Subtema:** Origen de la vida · homeostasis
+
+Los seres vivos son homeostáticos, es decir, "se mantienen relativamente estables".
+
+### 145
+
+De acuerdo con el libro de Biología, además de materia y energía, ¿qué más intercambian los seres vivos con el ambiente?
+
+- A. Información: obtienen señales del medio, las procesan y elaboran respuestas
+- B. Únicamente calor con el ambiente que los rodea
+- C. Células especializadas con otros organismos
+- D. Organelas mediante endosimbiosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 49
+**Subtema:** Origen de la vida · información
+
+Además de intercambiar materia y energía con el ambiente, los seres vivos también intercambian información; obtienen señales del medio que los rodea, las procesan y elaboran respuestas frente a las variaciones en las condiciones ambientales.
+
+### 146
+
+De conformidad con el libro de Biología, ¿a través de qué es captada la información proveniente del ambiente?
+
+- A. A través de diversos dispositivos sensoriales
+- B. A través de la membrana plasmática exclusivamente
+- C. A través de la información genética
+- D. A través de las organelas del citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 49
+**Subtema:** Origen de la vida · información
+
+La información proveniente del ambiente es captada a través de diversos dispositivos sensoriales.
+
+---
+
+**Reactivos en este archivo:** 146
