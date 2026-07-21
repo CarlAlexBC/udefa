@@ -44,11 +44,11 @@ del libro**, no una paráfrasis.
 | Materia | Reactivos | Estado |
 |---|---|---|
 | Geografía | 125 | **cerrada** |
-| Historia cap. 6 | 537 | casi cerrada, faltan pp. 276–279 |
+| Historia cap. 6 | 600 | **cerrada** |
 | Español | 109 | **cerrado** |
-| Álgebra | 95 | **en curso** — es lo que sigue |
+| Álgebra | 95 | **en curso** — la única materia abierta |
 
-**Total: 866 reactivos.**
+**Total: 929 reactivos.** Álgebra es lo único que queda.
 
 ### Lo que falta de Álgebra
 

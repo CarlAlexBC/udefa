@@ -146,17 +146,17 @@ la impresa 260 de 486 (el temario termina en la 104, así que alcanza).
 | Historia cap. 6 | 600 | — |
 | Español bloque 1 | 32 | — |
 | Español bloque 3 | 77 | — |
-| Álgebra Preliminares | 20 | pp. 9–39 |
+| Álgebra Preliminares | 95 | pp. 29–39 |
 | Álgebra caps. I–VI | 0 | pp. 40–111 |
 
-**Total: 854 reactivos.**
+**Total: 929 reactivos.**
 
 - **Geografía cerrada**, todo el alcance del temario.
 - **Español cerrado**, 109 reactivos entre los dos bloques.
 - **Historia cerrada**, 600 reactivos. Los cuatro apartados que pide el temario
   están completos, de la pág. 205 a la 279.
-- **Álgebra**: la única materia abierta, y es la que más falta. Sólo cubre las
-  pp. 5–8; faltan el resto de Preliminares y los capítulos I–VI completos.
+- **Álgebra**: la única materia abierta. Cubre Preliminares hasta la pág. 28;
+  faltan las pp. 29–39 y los capítulos I–VI completos (pp. 40–111).
 
 ### Alcance de Álgebra, decisión abierta
 
