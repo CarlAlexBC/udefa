@@ -77,7 +77,7 @@ primeras células**, que va de la página impresa **32 a la 60**.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **35 a 51**:
+Cubiertas las páginas impresas **35 a 55**:
 
 - La formación de los primeros átomos tras el Big Bang y el origen del sistema
   solar.
@@ -123,10 +123,14 @@ Cubiertas las páginas impresas **35 a 51**:
   ecológica de población a biosfera; unidad y diversidad.
 - El ensayo 3-1, el nacimiento de la teoría celular: Schleiden, Schwann, Virchow,
   y la teoría de la neurona con Ramón y Cajal y Golgi.
+- El ensayo 3-2, la generación espontánea: de Redi a Needham y Spallanzani, hasta
+  Pasteur en 1864.
+- El ensayo 3-3, mecanicismo y vitalismo: Descartes, Pasteur vitalista, y los
+  Buchner cerrando el debate con la enzima.
 
-**Pendiente:** el resto del capítulo 3 (pp. 53–60, que incluye los ensayos 3-2 y
-3-3 — van con `render.py`) y los capítulos 4, 5, 7, 8, 11, 12, 31, 32, 35, 36
-y 37.
+**Pendiente:** el cierre del capítulo 3 — el apartado "Temas en debate" sobre el
+diseño inteligente (pp. 55–60), que también va con `render.py` — y los capítulos
+4, 5, 7, 8, 11, 12, 31, 32, 35, 36 y 37.
 
 ## Erratas del libro
 
@@ -3204,4 +3208,302 @@ Empleando el método de sales de plata desarrollado por el médico italiano Cami
 
 ---
 
-**Reactivos en este archivo:** 184
+## Sub-lote 34 · El problema de la generación espontánea (ensayo 3-2, pp. 53–54)
+
+*Leído con `render.py`: la capa de texto del recuadro trae lorem ipsum.*
+
+### 185
+
+De acuerdo con el libro de Biología, ¿qué creía la mayoría de los naturalistas durante varios siglos sobre algunos seres vivos?
+
+- A. Que gusanos, insectos, ranas y salamandras podían originarse repentinamente a partir de lodo y materia orgánica en descomposición
+- B. Que todos los seres vivos provenían de un único ancestro común
+- C. Que las células sólo podían surgir de células preexistentes
+- D. Que los microorganismos ingresaban con el aire contaminado
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 53
+**Subtema:** Origen de la vida · generación espontánea
+
+Durante varios siglos, la mayoría de los naturalistas creía que algunos seres vivos, como los gusanos, los insectos, las ranas y las salamandras podían originarse repentinamente a partir de lodo y materia orgánica en descomposición.
+
+### 186
+
+De conformidad con el libro de Biología, ¿quién llevó a cabo un famoso experimento buscando evidencias que discutieran la generación espontánea?
+
+- A. El médico y naturalista italiano Francesco Redi
+- B. El naturalista inglés John Needham
+- C. El investigador italiano Lazzaro Spallanzani
+- D. El químico y bacteriólogo francés Louis Pasteur
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 53
+**Subtema:** Origen de la vida · generación espontánea
+
+Entre aquellos que se oponían a estas explicaciones se encontraba el médico y naturalista italiano Francesco Redi (1626-1697), quien, buscando evidencias que discutieran la idea de la generación espontánea, llevó a cabo un famoso experimento.
+
+### 187
+
+En relación con el libro de Biología, ¿qué mostró el experimento de Redi con la carne en descomposición?
+
+- A. Que los gusanos sólo aparecían en la carne contenida en los frascos abiertos
+- B. Que los gusanos aparecían por igual en los frascos abiertos y en los tapados
+- C. Que los gusanos sólo aparecían en los frascos herméticamente sellados
+- D. Que no aparecían gusanos en ninguno de los frascos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 53
+**Subtema:** Origen de la vida · generación espontánea
+
+Los resultados de dichos experimentos mostraron que los gusanos –que supuestamente surgirían por generación espontánea– solo aparecían en la carne contenida en los frascos abiertos. Redi explicaba que esos gusanos eran larvas de moscas que depositaban sus huevos sobre la carne en descomposición.
+
+### 188
+
+De acuerdo con el libro de Biología, ¿qué reavivó la creencia en la generación espontánea, ahora referida a los microorganismos?
+
+- A. El advenimiento de la microscopia en el siglo XVIII y el descubrimiento del "mundo microscópico"
+- B. El experimento de Redi con la carne en descomposición
+- C. Los experimentos de Pasteur con los matraces de cuello de cisne
+- D. El marco teórico de Oparin y Haldane
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 53
+**Subtema:** Origen de la vida · generación espontánea
+
+Más tarde, el advenimiento de la microscopia en el siglo XVIII y el consiguiente descubrimiento del "mundo microscópico" reavivaron con fuerza la creencia en la generación espontánea, pero esta ahora se refería a los microorganismos.
+
+### 189
+
+De conformidad con el libro de Biología, ¿qué célebre disputa sostuvieron John Needham y Lazzaro Spallanzani?
+
+- A. Una disputa acerca del origen de los microorganismos en caldos de cultivo
+- B. Una disputa acerca de si el tejido nervioso estaba formado por células
+- C. Una disputa acerca del origen de los gusanos en la carne
+- D. Una disputa acerca de la edad de la Tierra
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 53
+**Subtema:** Origen de la vida · generación espontánea
+
+John Needham (1713-1781), un naturalista inglés, y el investigador italiano Lazzaro Spallanzani (1729-1799) sostuvieron una célebre disputa acerca del origen de los microorganismos en caldos de cultivo.
+
+### 190
+
+En relación con el libro de Biología, ¿a qué atribuía Needham la presencia de microorganismos en los caldos?
+
+- A. A una "fuerza vital" que provocaba que la materia inorgánica se combinara formando los microorganismos de manera espontánea
+- B. Al ingreso de aire contaminado con gérmenes
+- C. A los huevos que las moscas depositaban en el caldo
+- D. A la acción de las enzimas presentes en el cultivo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 53
+**Subtema:** Origen de la vida · generación espontánea
+
+Needham atribuía dicha presencia a una "fuerza vital" que provocaba que la materia inorgánica se combinara formando los microorganismos de manera espontánea.
+
+> Par contrapuesto: **Needham** defendía la generación espontánea ("fuerza
+> vital"); **Spallanzani** la refutaba hirviendo y sellando los frascos
+> (reactivo 191). El inglés a favor, el italiano en contra.
+
+### 191
+
+De acuerdo con el libro de Biología, ¿qué demostró Spallanzani con sus experimentos?
+
+- A. Que en los frascos sellados y hervidos no se observaban microorganismos
+- B. Que en los frascos sellados aparecían más microorganismos que en los abiertos
+- C. Que la "fuerza vital" era la causa de los microorganismos
+- D. Que los gusanos eran larvas de moscas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 53
+**Subtema:** Origen de la vida · generación espontánea
+
+Spallanzani, contrario a la teoría de la generación espontánea, realizó experimentos hirviendo el contenido de los frascos, entre los cuales algunos estaban sellados y otros no, y demostró que en los primeros no se observaban microorganismos.
+
+### 192
+
+De conformidad con el libro de Biología, ¿cómo objetó Needham los experimentos de Spallanzani?
+
+- A. Argumentando que sus procedimientos habrían destruido la "fuerza vital"
+- B. Argumentando que no había hervido el contenido el tiempo suficiente
+- C. Argumentando que los frascos no estaban realmente sellados
+- D. Argumentando que la carne no estaba lo bastante descompuesta
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 53
+**Subtema:** Origen de la vida · generación espontánea
+
+Needham, sin embargo, objetó a Spallanzani, argumentando que sus procedimientos habrían destruido la "fuerza vital".
+
+### 193
+
+En relación con el libro de Biología, ¿en qué año y quién ideó nuevos experimentos que refutaron definitivamente la generación espontánea?
+
+- A. En 1864, Louis Pasteur
+- B. En 1858, Rudolf Virchow
+- C. En 1898, los hermanos Buchner
+- D. En 1924, Oparin
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 53
+**Subtema:** Origen de la vida · generación espontánea
+
+En 1864, el químico y bacteriólogo francés Louis Pasteur (1822-1895) ideó nuevos experimentos para mostrar que los microorganismos que se encontraban en los caldos de cultivo no se formaban de manera espontánea, sino que eran el resultado del ingreso de aire contaminado con gérmenes.
+
+### 194
+
+De acuerdo con el libro de Biología, ¿qué recipientes fabricó Pasteur para sus experimentos?
+
+- A. Los matraces con cuello de cisne, que evitaban la contaminación de su contenido
+- B. Los frascos de boca ancha, algunos tapados y otros abiertos
+- C. Los frascos sellados herméticamente al vacío
+- D. Los recipientes con filtro de gasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 54
+**Subtema:** Origen de la vida · generación espontánea
+
+Pasteur fabricó unos recipientes muy ingeniosos para sus experimentos, los matraces con cuello de cisne que evitaban la contaminación de su contenido.
+
+> No confundir montajes: **Redi** usó frascos de boca ancha abiertos y tapados
+> (reactivo 187); **Pasteur**, los matraces de cuello de cisne. Dos experimentos
+> distintos con un siglo de diferencia.
+
+### 195
+
+De conformidad con el libro de Biología, ¿cuánto tiempo después de que Pasteur refutara la generación espontánea proporcionaron Oparin y Haldane un marco teórico para el origen de la vida?
+
+- A. Recién 50 años más tarde
+- B. Recién 20 años más tarde
+- C. Recién 100 años más tarde
+- D. Recién 10 años más tarde
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 54
+**Subtema:** Origen de la vida · generación espontánea
+
+Recién 50 años más tarde, Oparin y Haldane proporcionaron un marco teórico para interpretar el proceso del origen de la vida y este problema se tornó susceptible de ser experimentado.
+
+---
+
+## Sub-lote 35 · Ni máquinas ni fuerza vital (ensayo 3-3, pp. 54–55)
+
+*Leído con `render.py`: la capa de texto del recuadro trae lorem ipsum.*
+
+### 196
+
+En relación con el libro de Biología, ¿qué sostenía la escuela mecanicista sobre el cuerpo de los organismos?
+
+- A. Que trabaja esencialmente como una máquina: los brazos y las piernas como palancas, el corazón como una bomba, los pulmones como fuelles y el estómago como un mortero
+- B. Que posee un "espíritu vital" que lo capacita para actividades únicas
+- C. Que sólo puede surgir de otro organismo preexistente
+- D. Que está gobernado por reacciones exclusivamente "vitales"
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 54
+**Subtema:** Origen de la vida · mecanicismo y vitalismo
+
+Una de ellas, formulada por la escuela mecanicista, sostenía que el cuerpo de los organismos trabaja esencialmente como una máquina; los brazos y las piernas se mueven como palancas; el corazón, como una bomba; los pulmones, como fuelles, y el estómago, como un mortero.
+
+### 197
+
+De acuerdo con el libro de Biología, ¿qué filósofo fue un destacado defensor del punto de vista mecanicista?
+
+- A. El filósofo francés René Descartes
+- B. El químico y biólogo francés Louis Pasteur
+- C. El médico italiano Francesco Redi
+- D. El naturalista inglés John Needham
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 54
+**Subtema:** Origen de la vida · mecanicismo y vitalismo
+
+El filósofo francés René Descartes (1596-1650) fue un destacado defensor de este punto de vista.
+
+### 198
+
+De conformidad con el libro de Biología, ¿cómo se conoció la concepción de que los sistemas vivos poseen un "espíritu vital" que los capacita para actividades que sólo ellos pueden llevar a cabo?
+
+- A. Vitalismo
+- B. Mecanicismo
+- C. Generación espontánea
+- D. Creacionismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 54
+**Subtema:** Origen de la vida · mecanicismo y vitalismo
+
+Muchos biólogos prominentes creían que los sistemas vivos eran esencialmente diferentes de los no vivos y que los primeros se caracterizaban por poseer un "espíritu vital". Esta concepción se conoció como vitalismo y a quienes la proponían, como vitalistas.
+
+> Par antagónico que el ensayo contrasta: el **mecanicismo** ve al organismo como
+> una máquina (Descartes); el **vitalismo**, como poseedor de un "espíritu
+> vital". El distractor los cruza.
+
+### 199
+
+En relación con el libro de Biología, ¿quién era el principal exponente del vitalismo en el siglo XIX?
+
+- A. El químico y biólogo francés Louis Pasteur
+- B. El filósofo francés René Descartes
+- C. El químico alemán Edward Buchner
+- D. El investigador italiano Lazzaro Spallanzani
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 54
+**Subtema:** Origen de la vida · mecanicismo y vitalismo
+
+En el siglo XIX, el principal exponente del vitalismo era el químico y biólogo francés Louis Pasteur (1822-1895), quien sostenía que los cambios que ocurrían cuando el jugo de fruta se transformaba en vino eran "vitales", de modo que podían ser llevados a cabo solo por células vivas, las células de levadura.
+
+> Dato que sorprende y por eso se pregunta: el mismo **Pasteur** que refutó la
+> generación espontánea era **vitalista**. No todo en su obra apuntó en la misma
+> dirección.
+
+### 200
+
+De acuerdo con el libro de Biología, ¿qué demostraron los químicos alemanes Edward y Hans Buchner en 1898?
+
+- A. Que una sustancia extraída de las levaduras podía producir fermentación fuera de la célula viva
+- B. Que los microorganismos surgían del aire contaminado
+- C. Que el cuerpo humano funciona como una máquina
+- D. Que las células sólo surgen de células preexistentes
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 55
+**Subtema:** Origen de la vida · mecanicismo y vitalismo
+
+En 1898, los químicos alemanes Edward y Hans Buchner demostraron que una sustancia extraída de las levaduras podía producir fermentación fuera de la célula viva.
+
+### 201
+
+De conformidad con el libro de Biología, ¿de qué palabra griega deriva el nombre "enzima" y qué significa?
+
+- A. De zyme, que significa "levadura" o "fermento"
+- B. De karyon, que significa "núcleo"
+- C. De endo, que significa "dentro"
+- D. De eu, que significa "verdadero"
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 55
+**Subtema:** Origen de la vida · mecanicismo y vitalismo
+
+A esta sustancia se le dio el nombre de enzima, derivada del griego zyme, que significa "levadura" o "fermento".
+
+### 202
+
+En relación con el libro de Biología, ¿qué demostró el experimento de los Buchner respecto de la fermentación?
+
+- A. Que una reacción hasta entonces considerada "vital" era sólo una reacción química, con lo que la discusión sobre el vitalismo finalmente se dejó de lado
+- B. Que la fermentación sólo podía ocurrir dentro de células vivas
+- C. Que la "fuerza vital" era necesaria para la fermentación
+- D. Que la levadura no intervenía en la fermentación del vino
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 55
+**Subtema:** Origen de la vida · mecanicismo y vitalismo
+
+Así se demostró que una reacción hasta entonces considerada "vital" era solo una reacción química, y la discusión sobre el vitalismo finalmente se dejó de lado.
+
+---
+
+**Reactivos en este archivo:** 202
