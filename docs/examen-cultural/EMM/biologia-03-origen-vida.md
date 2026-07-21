@@ -135,7 +135,9 @@ y social, no recuerdo literal de definiciones o procesos**. Decisión de Carlo (
 jul 2026): no da reactivos de examen cultural. Se leyó con `render.py` para
 confirmarlo; no hay contenido examinable que se haya perdido.
 
-**Pendiente:** los capítulos 4, 5, 7, 8, 11, 12, 31, 32, 35, 36 y 37.
+**Pendiente:** ninguno. El capítulo 3 está cerrado. Lo que falta de Biología lo
+declara el archivo del capítulo en curso — hoy
+`biologia-04-organizacion-celulas.md`.
 
 ## Erratas del libro
 
