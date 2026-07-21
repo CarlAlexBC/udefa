@@ -1,5 +1,10 @@
 # Examen cultural — cómo se trabaja este bloque
 
+> **¿Arrancas una sesión nueva solo para este bloque?** Léete
+> [`HANDOFF-CHAT.md`](./HANDOFF-CHAT.md) en vez de este archivo: trae lo mismo
+> pero orientado a ponerse a trabajar de inmediato, sin explorar el resto del
+> repo.
+
 Punto de entrada para retomar en frío. Los reactivos viven en `HCM/`, un archivo
 por capítulo, y **cada archivo dice en su encabezado qué páginas le faltan**.
 
