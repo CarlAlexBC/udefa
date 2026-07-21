@@ -67,7 +67,7 @@ primeras células**, que va de la página impresa **32 a la 60**.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **35 a 43**:
+Cubiertas las páginas impresas **35 a 45**:
 
 - La formación de los primeros átomos tras el Big Bang y el origen del sistema
   solar.
@@ -92,8 +92,13 @@ Cubiertas las páginas impresas **35 a 43**:
   las archaeas metanógenas como testigo de la Tierra sin oxígeno.
 - La Ecuación de Drake, las zonas de habitabilidad y la astrobiología.
 - El comienzo de heterótrofos y autótrofos.
+- La teoría celular y sus cuatro afirmaciones.
+- Procariontes y eucariontes: la diferencia de las membranas internas, la
+  etimología, el nucleoide frente al núcleo.
+- El origen de las células eucariotas: la teoría de endosimbiosis en serie de
+  Lynn Margulis y sus límites, y los tres dominios.
 
-**Pendiente:** el resto del capítulo 3 (pp. 44–60) y los capítulos 4, 5, 7, 8,
+**Pendiente:** el resto del capítulo 3 (pp. 46–60) y los capítulos 4, 5, 7, 8,
 11, 12, 31, 32, 35, 36 y 37.
 
 ## Erratas del libro
@@ -1658,4 +1663,330 @@ Sin embargo, algunos hallazgos recientes sugieren que las primeras células podr
 
 ---
 
-**Reactivos en este archivo:** 92
+## Sub-lote 18 · La teoría celular (p. 44)
+
+### 93
+
+De acuerdo con el libro de Biología, ¿qué afirma la teoría celular sobre la composición de los organismos vivos?
+
+- A. Que todos los organismos vivos están compuestos por una o más células
+- B. Que todos los organismos vivos están compuestos por tejidos y órganos
+- C. Que sólo los organismos complejos están compuestos por células
+- D. Que los organismos vivos están compuestos por moléculas orgánicas libres
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 44
+**Subtema:** Origen de la vida · teoría celular
+
+Esta teoría afirma que: Todos los organismos vivos están compuestos por una o más células.
+
+### 94
+
+De conformidad con el libro de Biología, según la teoría celular, ¿de dónde se originan las células?
+
+- A. De otras células
+- B. De moléculas orgánicas que se autoensamblan
+- C. De coacervados y microesferas
+- D. De materiales inorgánicos simples
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 44
+**Subtema:** Origen de la vida · teoría celular
+
+Las células se originan de otras células.
+
+### 95
+
+En relación con el libro de Biología, según la teoría celular, ¿dónde ocurren las reacciones químicas de un organismo vivo?
+
+- A. Dentro de las células
+- B. En el medio externo que rodea a las células
+- C. En la membrana que separa la célula del medio
+- D. En los espacios entre las células
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 44
+**Subtema:** Origen de la vida · teoría celular
+
+Las reacciones químicas de un organismo vivo, incluidos los procesos que liberan energía, y las reacciones biosintéticas ocurren dentro de las células.
+
+### 96
+
+De acuerdo con el libro de Biología, según la teoría celular, ¿qué contienen las células y cómo se transmite?
+
+- A. La información hereditaria que define sus características, que pasa de células progenitoras a células hijas
+- B. La energía solar capturada, que pasa de unas células a otras
+- C. Las organelas, que pasan de células progenitoras a células hijas
+- D. Las enzimas, que se sintetizan de nuevo en cada célula hija
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 44
+**Subtema:** Origen de la vida · teoría celular
+
+Las células contienen la información hereditaria que define sus características, y esta información pasa de células progenitoras a células hijas.
+
+### 97
+
+De conformidad con el libro de Biología, ¿cómo se llama el medio interno de la célula donde ocurren las reacciones bioquímicas?
+
+- A. Citoplasma
+- B. Nucleoide
+- C. Núcleo
+- D. Organela
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 44
+**Subtema:** Origen de la vida · teoría celular
+
+En este medio interno, llamado citoplasma, ocurren reacciones bioquímicas de transformación de materia y energía.
+
+---
+
+## Sub-lote 19 · Procariontes y eucariontes (pp. 44–45)
+
+### 98
+
+En relación con el libro de Biología, ¿en qué dos tipos celulares está formado todo ser vivo?
+
+- A. En células procariontes (bacterias y arqueas) y células eucariontes (protistas, plantas, hongos y animales)
+- B. En células procariontes (protistas y hongos) y células eucariontes (bacterias y arqueas)
+- C. En células autótrofas y células heterótrofas
+- D. En células con núcleo y células sin citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 44
+**Subtema:** Origen de la vida · procariontes y eucariontes
+
+Todos los seres vivos están formados por alguno de los siguientes tipos celulares: las células procariontes (bacterias y arqueas) y las células eucariontes (protistas, plantas, hongos y animales).
+
+> Cuidado con el reparto: **bacterias y arqueas** son procariontes; **protistas,
+> plantas, hongos y animales** son eucariontes. El distractor B los intercambia.
+
+### 99
+
+De acuerdo con el libro de Biología, ¿cuál es la principal diferencia entre ambos tipos celulares?
+
+- A. La presencia de estructuras membranosas en su interior, o la ausencia de estas
+- B. La presencia o ausencia de citoplasma
+- C. La presencia o ausencia de material genético
+- D. La capacidad o incapacidad de realizar reacciones químicas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 44
+**Subtema:** Origen de la vida · procariontes y eucariontes
+
+La principal diferencia entre ambos tipos celulares está dada por la presencia de estructuras membranosas en su interior o la ausencia de estas. Mientras que las células eucariontes poseen membranas internas (en el núcleo y organelas), las procariontes carecen de ellas.
+
+### 100
+
+De conformidad con el libro de Biología, ¿qué significan las raíces griegas de la palabra "eucarionte"?
+
+- A. "Eu", verdadero, y "karyon", núcleo
+- B. "Eu", antes, y "karyon", célula
+- C. "Eu", falso, y "karyon", membrana
+- D. "Eu", interno, y "karyon", núcleo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 44
+**Subtema:** Origen de la vida · procariontes y eucariontes
+
+En las células eucariontes (del griego eu, que significa "verdadero", y karyon, "núcleo").
+
+> Par etimológico que el libro define: **procarionte** es "antes de un núcleo" y
+> **eucarionte** es "núcleo verdadero". El distractor B mezcla la raíz de
+> procarionte ("antes") con eucarionte.
+
+### 101
+
+En relación con el libro de Biología, ¿dónde se ubica el material genético en las células procariontes?
+
+- A. En una región definida del citoplasma llamada nucleoide, sin membrana que lo delimite
+- B. En un núcleo bien definido, separado por la envoltura nuclear
+- C. En el interior de las organelas rodeadas por membranas
+- D. En la membrana celular externa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 44
+**Subtema:** Origen de la vida · procariontes y eucariontes
+
+En las células procariontes, el material genético es una molécula de ADN grande y circular. Aunque carece de una membrana que lo delimite, está ubicado en una región definida del citoplasma llamada nucleoide.
+
+> Par que se cruza: el **nucleoide** (procariontes) no tiene membrana; el
+> **núcleo** (eucariontes) sí, delimitado por la envoltura nuclear.
+
+### 102
+
+De acuerdo con el libro de Biología, ¿cómo es la molécula de ADN de las células procariontes?
+
+- A. Grande y circular, con diversas proteínas débilmente asociadas que la enrollan
+- B. Pequeña y lineal, fuertemente unida a la envoltura nuclear
+- C. Fragmentada en varias moléculas rodeadas por membrana
+- D. Idéntica a la de las células eucariontes
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 44
+**Subtema:** Origen de la vida · procariontes y eucariontes
+
+En las células procariontes, el material genético es una molécula de ADN grande y circular a la que están débilmente asociadas diversas proteínas que lo enrollan.
+
+### 103
+
+De conformidad con el libro de Biología, ¿cómo se llaman las estructuras rodeadas por membranas donde se llevan a cabo muchas funciones en las células eucariontes?
+
+- A. Organelas
+- B. Nucleoides
+- C. Coacervados
+- D. Ribosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 44
+**Subtema:** Origen de la vida · procariontes y eucariontes
+
+En las células eucariontes, muchas de estas funciones se llevan a cabo en el interior de diversas estructuras rodeadas por membranas —las organelas— que constituyen distintos compartimentos dentro del citoplasma.
+
+### 104
+
+En relación con el libro de Biología, ¿cómo se encuentran las moléculas y complejos moleculares en las células procariontes?
+
+- A. Libres en el citoplasma, aunque ciertos procesos ocurren asociados a zonas específicas
+- B. Encerradas en organelas rodeadas por membranas
+- C. Fijas a la envoltura nuclear
+- D. Distribuidas en distintos compartimentos membranosos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 44
+**Subtema:** Origen de la vida · procariontes y eucariontes
+
+En las células procariontes, todas las moléculas y complejos moleculares se encuentran libres en el citoplasma, aunque ciertos procesos ocurren asociados a zonas específicas de este o de la membrana celular.
+
+---
+
+## Sub-lote 20 · El origen de las células eucariotas (p. 45)
+
+### 105
+
+De acuerdo con el libro de Biología, ¿cómo se considera el origen de los primeros eucariontes en un mundo de procariontes?
+
+- A. Una de las transiciones evolutivas principales, sólo precedida en importancia por el origen de la vida
+- B. Una transición menor dentro de la evolución de los procariontes
+- C. El acontecimiento más importante de la historia de la vida
+- D. Una consecuencia directa de la aparición de la fotosíntesis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 45
+**Subtema:** Origen de la vida · origen de los eucariotas
+
+El origen de los primeros eucariontes en un mundo de procariontes ha sido una de las transiciones evolutivas principales, solo precedida en orden de importancia por el origen de la vida.
+
+### 106
+
+De conformidad con el libro de Biología, según la hipótesis más aceptada, ¿cómo se originaron las organelas eucariontes?
+
+- A. Cuando ciertos organismos procariotes se alojaron en el interior de otras células protoeucariontes y dieron lugar a asociaciones simbióticas estables
+- B. Cuando la membrana celular se invaginó hasta formar compartimentos internos
+- C. Cuando el ADN circular de los procariontes se fragmentó en organelas
+- D. Cuando dos células eucariontes se fusionaron en una sola
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 45
+**Subtema:** Origen de la vida · origen de los eucariotas
+
+Una hipótesis que actualmente cuenta con un amplio grado de aceptación es que las organelas eucariontes se originaron cuando ciertos organismos procariotes se alojaron en el interior de otras células protoeucariontes, es decir, las primeras células que dieron origen al grupo de los eucariontes y dieron lugar, en algunos casos, a asociaciones simbióticas estables que se especializaron adaptativamente, hasta que los organismos del interior pasaron a ser organelas.
+
+### 107
+
+En relación con el libro de Biología, ¿quién propuso en 1967 la teoría de endosimbiosis en serie?
+
+- A. La investigadora estadounidense Lynn Margulis
+- B. La investigadora estadounidense Helena Curtis
+- C. El científico norteamericano Frank Drake
+- D. El biólogo y premio Nobel Jack Szostak
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 45
+**Subtema:** Origen de la vida · origen de los eucariotas
+
+En 1967, la investigadora estadounidense Lynn Margulis (1938-2011) propuso la teoría de endosimbiosis en serie.
+
+### 108
+
+De acuerdo con el libro de Biología, ¿qué significa la raíz "endo" de la teoría de endosimbiosis?
+
+- A. "Dentro" o "interno"
+- B. "Antes" o "previo"
+- C. "Verdadero" o "propio"
+- D. "Conjunto" o "serie"
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 45
+**Subtema:** Origen de la vida · origen de los eucariotas
+
+La teoría de endosimbiosis en serie (endo significa "dentro" o "interno").
+
+### 109
+
+De conformidad con el libro de Biología, ¿el origen de qué organelas explica especialmente la teoría de Margulis?
+
+- A. Las mitocondrias y los cloroplastos
+- B. El núcleo y la envoltura nuclear
+- C. El nucleoide y los ribosomas
+- D. La membrana celular y el citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 45
+**Subtema:** Origen de la vida · origen de los eucariotas
+
+Lynn Margulis propuso la teoría de endosimbiosis en serie para explicar el origen de algunas organelas presentes en eucariontes, especialmente las mitocondrias y los cloroplastos.
+
+### 110
+
+En relación con el libro de Biología, ¿cómo se habría establecido la membrana nuclear, que la teoría de Margulis no explica?
+
+- A. A partir de una invaginación de la membrana celular
+- B. A partir de un procarionte alojado en el interior de la célula
+- C. A partir de la fusión de dos mitocondrias
+- D. A partir del ADN circular de los cloroplastos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 45
+**Subtema:** Origen de la vida · origen de los eucariotas
+
+Esta interpretación no puede extrapolarse al origen de la membrana nuclear, la cual se habría establecido a partir de una invaginación de la membrana celular.
+
+> El libro es explícito en el **límite** de la teoría: la endosimbiosis explica
+> mitocondrias y cloroplastos, pero **no** la membrana nuclear, que viene de una
+> invaginación. Ese contraste es buen material de reactivo.
+
+### 111
+
+De acuerdo con el libro de Biología, ¿a partir de qué diferencias es posible clasificar a los seres vivos en uno de tres dominios?
+
+- A. A partir de diferencias entre las secuencias del ARN ribosómico
+- B. A partir de diferencias entre las secuencias del ADN circular
+- C. A partir de la presencia o ausencia de mitocondrias
+- D. A partir del tipo de organelas que poseen
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 45
+**Subtema:** Origen de la vida · dominios
+
+A partir de diferencias entre las secuencias del ARN ribosómico, es posible clasificarlos en uno de tres dominios.
+
+### 112
+
+De conformidad con el libro de Biología, ¿qué constituye el dominio Eukarya?
+
+- A. Todos los organismos formados por células eucariontes
+- B. Todos los organismos formados por células procariontes
+- C. Únicamente las bacterias y las arqueas
+- D. Únicamente los protistas y los hongos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 45
+**Subtema:** Origen de la vida · dominios
+
+Un primer dominio lo constituyen todos los organismos formados por células eucariontes. Se trata del dominio Eukarya.
+
+---
+
+**Reactivos en este archivo:** 112
