@@ -91,7 +91,9 @@ quien revise. Mismo criterio de prudencia que con Brahmagupta y con Thales.
 fecha en **585** el eclipse que predijo Thales, y éste fecha en **585** el
 nacimiento de Pitágoras. Son dos cosas distintas con el mismo número.
 
-**Pendiente:** los capítulos V y VI (pp. 79–111). El capítulo IV está cerrado.
+**Pendiente:** ninguno. El capítulo IV (pp. 63–78) está cerrado. Lo que falta de
+Álgebra lo declara el archivo del capítulo en curso — hoy
+`algebra-05-division.md`.
 
 ## Criterio: teoría sobre práctica
 
