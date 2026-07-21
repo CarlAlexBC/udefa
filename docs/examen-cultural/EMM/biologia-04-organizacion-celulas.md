@@ -30,7 +30,7 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63 y 66**:
+Cubiertas las páginas impresas **61 a 63, 66 y 67**:
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -40,7 +40,8 @@ Cubiertas las páginas impresas **61 a 63 y 66**:
 - Los componentes de una célula eucarionte: membrana, citoplasma, citosol y
   núcleo.
 - La matriz extracelular: qué es, de qué está formada y su papel en tejidos.
-- La pared celular como distintivo de las células vegetales.
+- La pared celular como distintivo de las células vegetales, sus capas
+  (laminilla media, primaria, secundaria), la lignina y lo que halló Hooke.
 
 **Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
 4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
@@ -585,4 +586,124 @@ Aunque la pared celular es una estructura rígida, no es estática, ya que su es
 
 ---
 
-**Reactivos en este archivo:** 31
+## Sub-lote 8 · Las capas de la pared celular (p. 67)
+
+### 32
+
+De acuerdo con el libro de Biología, ¿cómo crecen fundamentalmente las plantas?
+
+- A. Por alargamiento celular, un proceso en el que la célula agrega nuevos materiales a sus paredes
+- B. Por multiplicación del número de organelas de cada célula
+- C. Por engrosamiento de la membrana plasmática
+- D. Por acumulación de agua en el citosol
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 67
+**Subtema:** Organización de las células · pared celular
+
+En las plantas, el crecimiento ocurre fundamentalmente por alargamiento celular, un proceso en el que la célula agrega nuevos materiales a sus paredes.
+
+### 33
+
+De conformidad con el libro de Biología, ¿qué se forma entre las dos células nuevas cuando una célula vegetal se divide?
+
+- A. La laminilla media, una capa delgada de material aglutinante que mantiene juntas las células contiguas
+- B. La pared secundaria, reforzada con lignina
+- C. La membrana plasmática compartida
+- D. La matriz extracelular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 67
+**Subtema:** Organización de las células · pared celular
+
+Cuando una célula vegetal se divide, se forma una capa delgada de material aglutinante entre las dos células nuevas, que constituye la laminilla media y mantiene juntas las células contiguas.
+
+### 34
+
+En relación con el libro de Biología, ¿qué contiene principalmente la pared celular primaria?
+
+- A. Moléculas de celulosa
+- B. Moléculas de lignina
+- C. Proteínas fibrosas
+- D. Sales disueltas en agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 67
+**Subtema:** Organización de las células · pared celular
+
+Luego, cada célula vegetal construye su pared celular primaria a cada lado de esta laminilla. La pared primaria contiene principalmente moléculas de celulosa.
+
+### 35
+
+De acuerdo con el libro de Biología, ¿qué diferencia a la pared secundaria de la primaria en cuanto a su capacidad de expandirse?
+
+- A. Que la pared secundaria ya no es capaz de expandirse de la misma manera que la primaria
+- B. Que la pared secundaria se expande mucho más que la primaria
+- C. Que ambas se expanden por igual
+- D. Que la pared secundaria carece por completo de celulosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 67
+**Subtema:** Organización de las células · pared celular
+
+A medida que la célula madura puede formar una pared secundaria, ya no es capaz de expandirse de la misma manera que la primaria.
+
+> Escala de capas que conviene estudiar en orden: **laminilla media** (entre dos
+> células) → **pared primaria** (celulosa, se expande) → **pared secundaria**
+> (con lignina, ya no se expande).
+
+### 36
+
+De conformidad con el libro de Biología, ¿qué polisacárido refuerza con frecuencia la pared secundaria?
+
+- A. La lignina
+- B. La celulosa
+- C. La quitina
+- D. El almidón
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 67
+**Subtema:** Organización de las células · pared celular
+
+La pared secundaria con frecuencia contiene polisacáridos, como la lignina, que la refuerzan.
+
+> Par que se confunde: la **celulosa** compone la pared primaria; la **lignina**
+> refuerza la secundaria. Los dos son polisacáridos de la pared, pero de capas
+> distintas (ver reactivo 34).
+
+### 37
+
+En relación con el libro de Biología, ¿qué observó Hooke en las láminas de corcho?
+
+- A. La pared externa que deja la célula vegetal cuando muere, como una obra arquitectónica de la célula
+- B. El núcleo de las células vegetales vivas
+- C. Las mitocondrias flotando en el citosol
+- D. La matriz extracelular de las células animales
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 67
+**Subtema:** Organización de las células · pared celular
+
+La célula vegetal, que en principio estaba viva, a menudo muere y solo deja la pared externa como una obra arquitectónica de la célula. Esto es lo que halló Hooke cuando observó las láminas de corcho.
+
+### 38
+
+De acuerdo con el libro de Biología, ¿en las paredes de qué organismos está por lo general ausente la celulosa?
+
+- A. En las de hongos y procariontes
+- B. En las de las algas
+- C. En las de las plantas superiores
+- D. En las de los tejos y otras maderas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 67
+**Subtema:** Organización de las células · pared celular
+
+Muchas algas también contienen celulosa en sus paredes, mientras que, en las paredes de hongos y procariontes, por lo general esta sustancia está ausente.
+
+> El distractor B es una trampa que el propio libro desarma: las **algas sí**
+> tienen celulosa; los que **no** son los hongos y los procariontes.
+
+---
+
+**Reactivos en este archivo:** 38
