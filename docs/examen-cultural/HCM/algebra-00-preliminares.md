@@ -106,8 +106,8 @@ que las erratas de Historia, porque la cronología de la historia de la matemát
 varía entre manuales y aquí no hay una segunda mención en el libro con la que
 contrastar.
 
-**Pendiente:** de la página 31 en adelante de Preliminares, y los capítulos I–VI
-completos (pp. 40–111).
+**Pendiente:** los capítulos I–VI completos (pp. 40–111). Preliminares está
+cerrado.
 
 ## Criterio: teoría sobre práctica
 
