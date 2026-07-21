@@ -52,6 +52,16 @@ python docs/examen-cultural/extraer.py "examen_cultural/libros_examen_cultural/E
 Es más rápido y más fiel para citar literal, porque la cita no depende de leer
 bien una imagen.
 
+#### Excepción: los recuadros "ENSAYO" van con render.py
+
+**Los recuadros de ensayo del Curtis traen "Lorem ipsum" en su capa de texto** —
+texto de relleno de imprenta — mientras la página visible muestra el contenido
+real como imagen. `extraer.py` sólo saca el lorem ipsum. Para esos recuadros
+**hay que renderizar la hoja con `render.py` y leerla con los ojos**, como los
+libros del HCM. Detectado en el ensayo 3-1 (p. 52), "El nacimiento de la teoría
+celular", cuyos reactivos se escribieron a partir del render, no de la
+extracción.
+
 ## Alcance del temario
 
 El temario `BIO-01-2026` pide **doce capítulos** en tres secciones:
@@ -111,9 +121,12 @@ Cubiertas las páginas impresas **35 a 51**:
   macromolecular y celular, y la frontera de lo vivo.
 - La propiedad emergente de cada nivel; tejidos, órganos y sistemas; la escala
   ecológica de población a biosfera; unidad y diversidad.
+- El ensayo 3-1, el nacimiento de la teoría celular: Schleiden, Schwann, Virchow,
+  y la teoría de la neurona con Ramón y Cajal y Golgi.
 
-**Pendiente:** el resto del capítulo 3 (pp. 52–60) y los capítulos 4, 5, 7, 8,
-11, 12, 31, 32, 35, 36 y 37.
+**Pendiente:** el resto del capítulo 3 (pp. 53–60, que incluye los ensayos 3-2 y
+3-3 — van con `render.py`) y los capítulos 4, 5, 7, 8, 11, 12, 31, 32, 35, 36
+y 37.
 
 ## Erratas del libro
 
@@ -2978,4 +2991,217 @@ Compartimos nuestro planeta con más de 20 millones de especies de organismos di
 
 ---
 
-**Reactivos en este archivo:** 171
+## Sub-lote 33 · El nacimiento de la teoría celular (ensayo 3-1, p. 52)
+
+*Leído con `render.py`: la capa de texto del recuadro trae lorem ipsum.*
+
+### 172
+
+De acuerdo con el libro de Biología, ¿a fines de qué década surge la teoría celular?
+
+- A. A fines de 1830
+- B. A fines de 1850
+- C. A fines de 1800
+- D. A fines de 1860
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+La teoría celular surge a fines de 1830 y fue propuesta por Mathias Jacob Schleiden (1804-1881) y Theodor Schwann (1810-1882).
+
+### 173
+
+De conformidad con el libro de Biología, ¿quiénes propusieron la teoría celular?
+
+- A. Mathias Jacob Schleiden y Theodor Schwann
+- B. Rudolf Virchow y Theodor Schwann
+- C. Santiago Ramón y Cajal y Camilo Golgi
+- D. Mathias Jacob Schleiden y Rudolf Virchow
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+La teoría celular surge a fines de 1830 y fue propuesta por Mathias Jacob Schleiden (1804-1881) y Theodor Schwann (1810-1882).
+
+### 174
+
+En relación con el libro de Biología, ¿a qué conclusión llegó Schleiden a partir del estudio sistemático de las plantas?
+
+- A. A que la célula era la unidad fundamental y última de los vegetales que posee características biológicas
+- B. A que la célula sólo surge de células preexistentes
+- C. A que el tejido nervioso está formado por células independientes
+- D. A que los animales y las plantas consisten en sustancias segregadas por células
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+El primero, a partir del estudio sistemático de las plantas, llegó a la conclusión de que la célula era la unidad fundamental y última de los vegetales que posee características biológicas.
+
+> Reparto de méritos que se cruza: **Schleiden** trabajó las plantas; **Schwann**
+> buscó la misma unidad en los animales (reactivo 175). El distractor B es de
+> Virchow y el C de Ramón y Cajal.
+
+### 175
+
+De acuerdo con el libro de Biología, ¿qué desafío asumió Schwann?
+
+- A. Encontrar en el mundo animal la misma unidad que Schleiden proponía para las plantas
+- B. Demostrar que las células sólo surgen de células preexistentes
+- C. Teñir por primera vez una muestra de tejido nervioso
+- D. Estudiar sistemáticamente la estructura de las plantas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+Por su parte, Schwann asumió el desafío de encontrar en el mundo animal esa misma unidad que proponía Schleiden para las plantas.
+
+### 176
+
+De conformidad con el libro de Biología, ¿cuál fue el postulado que enunció Schwann?
+
+- A. "Todos los seres vivos, plantas o animales, consisten ya sea en células o en sustancias segregadas por células"
+- B. "Donde existe una célula debe haber habido una célula preexistente"
+- C. "La célula es la unidad fundamental y última de los vegetales"
+- D. "Todo tejido nervioso está compuesto por células independientes o neuronas"
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+Luego de analizar una enorme variedad de tejidos animales, enuncia su postulado: "Todos los seres vivos, plantas o animales, consisten ya sea en células o en sustancias segregadas por células".
+
+### 177
+
+En relación con el libro de Biología, ¿a qué ideas asestó un duro golpe la formulación de Schwann?
+
+- A. A las ideas vitalistas que identificaban a los seres vivos como un todo continuo
+- B. A las ideas que proponían que las células surgen de células preexistentes
+- C. A las ideas de la teoría de la neurona
+- D. A las ideas del estudio sistemático de las plantas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+Schwann impone un duro golpe a las ideas vitalistas que identificaban a los seres vivos como un todo continuo, al plantear la existencia de unidades discontinuas que reúnen las características de cualquier ser vivo y que a la vez los constituyen.
+
+### 178
+
+De acuerdo con el libro de Biología, ¿qué generalizó el patólogo Rudolf Virchow en 1858?
+
+- A. Que las células sólo pueden surgir de células preexistentes
+- B. Que la célula es la unidad fundamental de los vegetales
+- C. Que el tejido nervioso está formado por un cordón continuo
+- D. Que los seres vivos son un todo continuo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+En 1858, la idea de que todos los organismos vivos estaban compuestos por una o más células adquirió un significado aún más amplio, cuando el patólogo Rudolf Virchow (1821-1902) generalizó que las células solo pueden surgir de células preexistentes.
+
+### 179
+
+De conformidad con el libro de Biología, ¿cómo expresó Virchow su generalización?
+
+- A. "Donde existe una célula debe haber habido una célula preexistente, así como un animal se origina solamente de un animal y una planta se origina solo de una planta"
+- B. "Todos los seres vivos consisten en células o en sustancias segregadas por células"
+- C. "La célula es la unidad fundamental y última de los vegetales"
+- D. "El tejido nervioso está compuesto por células independientes o neuronas"
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+Virchow generalizó que las células solo pueden surgir de células preexistentes: "Donde existe una célula debe haber habido una célula preexistente, así como un animal se origina solamente de un animal y una planta se origina solo de una planta".
+
+### 180
+
+En relación con el libro de Biología, ¿para qué tejido animal no se había podido comprobar, a principios del siglo XX, que su estructura estuviera formada de células?
+
+- A. El tejido nervioso
+- B. El tejido epitelial
+- C. El tejido conectivo
+- D. El tejido sanguíneo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+Todavía a principios del siglo XX había un tejido animal para el cual no se había podido comprobar que su estructura estuviera formada de células: el tejido nervioso.
+
+### 181
+
+De acuerdo con el libro de Biología, ¿qué planteaba la teoría reticular sobre los nervios?
+
+- A. Que los nervios estaban conformados por un cordón continuo e indiferenciado
+- B. Que los nervios estaban conformados por células independientes, aunque enlazadas
+- C. Que los nervios no estaban formados por tejido vivo
+- D. Que los nervios sólo podían surgir de nervios preexistentes
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+Competían dos hipótesis por lograr una explicación: la teoría reticular, que planteaba que los nervios estaban conformados por un cordón continuo e indiferenciado, y la teoría de la neurona, que proponía que toda la estructura estaba conformada por células independientes.
+
+> Par contrapuesto que el libro define seguido: la **teoría reticular** dice
+> cordón continuo; la **teoría de la neurona**, células independientes. Ramón y
+> Cajal probó la segunda (reactivo 183).
+
+### 182
+
+De conformidad con el libro de Biología, ¿qué proponía la teoría de la neurona?
+
+- A. Que toda la estructura del tejido nervioso estaba conformada por células independientes, aunque enlazadas, a lo largo de las fibras nerviosas
+- B. Que el tejido nervioso era un cordón continuo e indiferenciado
+- C. Que las neuronas sólo surgen de neuronas preexistentes
+- D. Que el tejido nervioso no estaba formado por células
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+La teoría de la neurona, que proponía que toda la estructura estaba conformada por células independientes, aunque enlazadas, a lo largo de las fibras nerviosas.
+
+### 183
+
+En relación con el libro de Biología, ¿quién logró teñir por primera vez una muestra de tejido nervioso y demostró que estaba compuesto por neuronas?
+
+- A. El médico y microscopista español Santiago Ramón y Cajal
+- B. El médico italiano Camilo Golgi
+- C. El patólogo Rudolf Virchow
+- D. Theodor Schwann
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+El médico y microscopista español Santiago Ramón y Cajal (1852-1934) logró teñir por primera vez una muestra de tejido nervioso, empleando el método de sales de plata desarrollado por el médico italiano Camilo Golgi (1843-1926), y así pudo demostrar que efectivamente este tejido estaba compuesto por células independientes o neuronas.
+
+### 184
+
+De acuerdo con el libro de Biología, ¿quién desarrolló el método de sales de plata que empleó Ramón y Cajal?
+
+- A. El médico italiano Camilo Golgi
+- B. El patólogo alemán Rudolf Virchow
+- C. Mathias Jacob Schleiden
+- D. Theodor Schwann
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 52
+**Subtema:** Origen de la vida · nacimiento de la teoría celular
+
+Empleando el método de sales de plata desarrollado por el médico italiano Camilo Golgi (1843-1926).
+
+> Par que se confunde: **Golgi** desarrolló el método de tinción; **Ramón y Cajal**
+> lo empleó para probar la teoría de la neurona. El italiano puso la técnica, el
+> español la conclusión.
+
+---
+
+**Reactivos en este archivo:** 184
