@@ -75,13 +75,19 @@ El enunciado **alterna las tres fórmulas del Anexo "H"** — "De acuerdo con",
 "De conformidad con" y "En relación con" —, y la correcta se escribe siempre
 en A porque el importador baraja las opciones.
 
+**El enunciado nombra capítulo y tema, no sólo el libro** (crítica recibida el 21
+jul 2026): *"De acuerdo con el libro de Biología, capítulo 4 (La organización de
+las células), ¿…?"*. El capítulo con su título ubica al aspirante, y la pregunta
+nombra el tema específico. Los reactivos ya escritos se ajustaron con
+`tools/especificar-reactivos.js`.
+
 ---
 
 ## Sub-lote 1 · El tamaño de las células (art. inicial, p. 61)
 
 ### 1
 
-De acuerdo con el libro de Biología, ¿cuánto miden de diámetro la mayoría de las células del cuerpo de una planta o un animal?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿cuánto miden de diámetro la mayoría de las células del cuerpo de una planta o un animal?
 
 - A. Entre 10 y 50 micrómetros
 - B. Entre 1 y 5 micrómetros
@@ -96,7 +102,7 @@ La mayoría de las células del cuerpo de una planta o de un animal miden entre 
 
 ### 2
 
-De conformidad con el libro de Biología, ¿cuál es la principal restricción en cuanto al tamaño de la célula?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿cuál es la principal restricción en cuanto al tamaño de la célula?
 
 - A. La que impone la relación entre su volumen y su superficie
 - B. La que impone la resistencia de la membrana celular
@@ -111,7 +117,7 @@ La principal restricción en cuanto al tamaño de la célula es la que impone la
 
 ### 3
 
-En relación con el libro de Biología, ¿a través de qué se realizan los intercambios de la célula con el ambiente?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿a través de qué se realizan los intercambios de la célula con el ambiente?
 
 - A. A través de la superficie celular
 - B. A través del núcleo
@@ -126,7 +132,7 @@ Debe tenerse en cuenta que los intercambios con el ambiente se realizan a travé
 
 ### 4
 
-De acuerdo con el libro de Biología, cuando un objeto aumenta su tamaño, ¿cómo cambian su superficie y su volumen?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), cuando un objeto aumenta su tamaño, ¿cómo cambian su superficie y su volumen?
 
 - A. El volumen aumenta mucho más que la superficie, por lo que la relación superficie/volumen es cada vez menor
 - B. La superficie aumenta mucho más que el volumen, por lo que la relación superficie/volumen es cada vez mayor
@@ -141,7 +147,7 @@ Cuando un objeto aumenta su tamaño, la superficie y el volumen no lo hacen de m
 
 ### 5
 
-De conformidad con el libro de Biología, ¿qué consecuencia trae un aumento del tamaño celular?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué consecuencia trae un aumento del tamaño celular?
 
 - A. El enlentecimiento de los procesos de intercambio y distribución de materiales
 - B. La aceleración de los procesos de intercambio de materiales
@@ -164,7 +170,7 @@ Un aumento del tamaño celular implica una disminución relativa de la superfici
 
 ### 6
 
-En relación con el libro de Biología, ¿qué forma tendería a tomar una célula aislada?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿qué forma tendería a tomar una célula aislada?
 
 - A. Una forma esférica, al igual que las gotas de agua o las burbujas
 - B. Una forma cúbica
@@ -179,7 +185,7 @@ Una célula aislada tendería a tomar una forma esférica, al igual que las gota
 
 ### 7
 
-De acuerdo con el libro de Biología, ¿por qué muchos organismos unicelulares adoptan formas distintas de la esférica?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿por qué muchos organismos unicelulares adoptan formas distintas de la esférica?
 
 - A. Debido a la presencia de estructuras internas, como el citoesqueleto, o de paredes celulares
 - B. Debido a la presión de las células vecinas
@@ -194,7 +200,7 @@ Sin embargo, muchos organismos unicelulares adoptan otras formas debido a la pre
 
 ### 8
 
-De conformidad con el libro de Biología, ¿qué factores influyen además en la forma de las células de los organismos pluricelulares?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué factores influyen además en la forma de las células de los organismos pluricelulares?
 
 - A. La adhesión y la presión de otras células o superficies vecinas
 - B. Únicamente la cantidad de citoesqueleto que poseen
@@ -209,7 +215,7 @@ En los organismos pluricelulares, además de estos factores, influyen también l
 
 ### 9
 
-En relación con el libro de Biología, en los organismos pluricelulares, ¿con qué está en relación la forma de las células?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), en los organismos pluricelulares, ¿con qué está en relación la forma de las células?
 
 - A. Con las funciones particulares que cumplen
 - B. Con el tamaño total del organismo
@@ -228,7 +234,7 @@ Por lo general, en estos organismos, la forma de las células está en relación
 
 ### 10
 
-De acuerdo con el libro de Biología, ¿qué estado tienden a alcanzar las células como todo sistema abierto?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿qué estado tienden a alcanzar las células como todo sistema abierto?
 
 - A. El estado más estable compatible con las condiciones en que se encuentre
 - B. El estado de menor energía posible, sin excepción
@@ -243,7 +249,7 @@ Como todo sistema abierto, a través de sus interacciones, las células tienden 
 
 ### 11
 
-De conformidad con el libro de Biología, si se produce una ligera perturbación una vez alcanzado ese estado estable, ¿qué hace el sistema?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), si se produce una ligera perturbación una vez alcanzado ese estado estable, ¿qué hace el sistema?
 
 - A. Tiende a revertirla mediante el restablecimiento de dicha estabilidad
 - B. Tiende a amplificarla hasta alcanzar un nuevo estado
@@ -258,7 +264,7 @@ Si se produce una ligera perturbación una vez alcanzado este estado, el sistema
 
 ### 12
 
-En relación con el libro de Biología, ¿qué ejemplo da el libro de un sistema que alcanza un estado de equilibrio con el entorno?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿qué ejemplo da el libro de un sistema que alcanza un estado de equilibrio con el entorno?
 
 - A. Un insecto, que tarde o temprano alcanza una temperatura corporal igual a la del medio externo
 - B. Un mamífero, que mantiene su temperatura corporal en 37 °C
@@ -273,7 +279,7 @@ Por ejemplo, un insecto tarde o temprano alcanza una temperatura corporal igual 
 
 ### 13
 
-De acuerdo con el libro de Biología, ¿cómo se llaman los estados estables alejados del equilibrio que pueden alcanzar los sistemas abiertos?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo se llaman los estados estables alejados del equilibrio que pueden alcanzar los sistemas abiertos?
 
 - A. Estados estacionarios
 - B. Estados de equilibrio
@@ -288,7 +294,7 @@ Los sistemas abiertos pueden alcanzar también estados estables alejados del equ
 
 ### 14
 
-De conformidad con el libro de Biología, ¿qué ejemplo da el libro de un sistema en estado estacionario?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué ejemplo da el libro de un sistema en estado estacionario?
 
 - A. Los mamíferos, que mantienen una temperatura corporal de aproximadamente 37 °C independiente de la temperatura del ambiente
 - B. Los insectos, que igualan su temperatura a la del medio externo
@@ -312,7 +318,7 @@ Los mamíferos representan un buen ejemplo de un sistema en estado estacionario,
 
 ### 15
 
-En relación con el libro de Biología, ¿cómo se llama la superficie que separa a la célula del medio que la rodea?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo se llama la superficie que separa a la célula del medio que la rodea?
 
 - A. La membrana celular o membrana plasmática
 - B. La pared celular
@@ -327,7 +333,7 @@ En una célula, la superficie que separa el sistema del medio que lo rodea es la
 
 ### 16
 
-De acuerdo con el libro de Biología, ¿cómo regula la membrana celular el tránsito de sustancias?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo regula la membrana celular el tránsito de sustancias?
 
 - A. De manera selectiva hacia fuera y hacia dentro de la célula
 - B. Permitiendo el paso libre de todas las sustancias
@@ -342,7 +348,7 @@ Al definir sus límites, esta estructura puede considerarse como una entidad dif
 
 ### 17
 
-De conformidad con el libro de Biología, ¿qué implica la delimitación de espacios intracelulares en las células eucariontes?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué implica la delimitación de espacios intracelulares en las células eucariontes?
 
 - A. La posibilidad de separación de las funciones, haciéndolas más eficaces
 - B. La imposibilidad de intercambiar sustancias con el medio
@@ -357,7 +363,7 @@ La delimitación de espacios intracelulares implica la posibilidad de separació
 
 ### 18
 
-En relación con el libro de Biología, ¿dónde ocurren todos los procesos en las células procariontes?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿dónde ocurren todos los procesos en las células procariontes?
 
 - A. En un único compartimento limitado por la membrana celular
 - B. En el interior del núcleo separado por la membrana nuclear
@@ -376,7 +382,7 @@ La presencia de tales estructuras marca una importante diferencia con sus predec
 
 ### 19
 
-De acuerdo con el libro de Biología, ¿qué delimita el medio interno del externo en una célula eucarionte básica?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿qué delimita el medio interno del externo en una célula eucarionte básica?
 
 - A. Una membrana celular
 - B. El citoplasma
@@ -391,7 +397,7 @@ En una célula eucarionte básica podremos encontrar: una membrana celular que d
 
 ### 20
 
-De conformidad con el libro de Biología, ¿qué constituye el medio interno de la célula?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué constituye el medio interno de la célula?
 
 - A. El citoplasma
 - B. El citosol únicamente
@@ -409,7 +415,7 @@ Un citoplasma que constituye el medio interno.
 
 ### 21
 
-En relación con el libro de Biología, ¿qué es el citosol?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿qué es el citosol?
 
 - A. La parte líquida del citoplasma, una solución cuyo solvente es el agua
 - B. Todo el medio interno de la célula, incluidas las organelas
@@ -424,7 +430,7 @@ En él puede distinguirse una parte líquida, el citosol, que es una solución, 
 
 ### 22
 
-De acuerdo con el libro de Biología, ¿qué proporción del citosol constituyen aproximadamente las proteínas?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿qué proporción del citosol constituyen aproximadamente las proteínas?
 
 - A. Aproximadamente el 20%
 - B. Aproximadamente el 50%
@@ -439,7 +445,7 @@ Los solutos constituyen una variedad de sustancias que participan del metabolism
 
 ### 23
 
-De conformidad con el libro de Biología, ¿qué separa al núcleo celular del citoplasma?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué separa al núcleo celular del citoplasma?
 
 - A. La membrana nuclear
 - B. La membrana celular
@@ -454,7 +460,7 @@ Un núcleo celular separado del citoplasma por la membrana nuclear y en cuyo int
 
 ### 24
 
-En relación con el libro de Biología, ¿en qué compartimento se mantiene la mayor parte del ADN de una célula eucarionte?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿en qué compartimento se mantiene la mayor parte del ADN de una célula eucarionte?
 
 - A. En el núcleo
 - B. En el citosol
@@ -477,7 +483,7 @@ La mayor parte del ácido desoxirribonucleico (ADN) se mantiene en un compartime
 
 ### 25
 
-De acuerdo con el libro de Biología, ¿qué ocupa el espacio extracelular que rodea a las células en los organismos pluricelulares?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿qué ocupa el espacio extracelular que rodea a las células en los organismos pluricelulares?
 
 - A. La matriz extracelular, que proporciona a las células un ambiente particular
 - B. El citosol, que baña a las células vecinas
@@ -492,7 +498,7 @@ En los organismos pluricelulares, las células se encuentran rodeadas por el esp
 
 ### 26
 
-De conformidad con el libro de Biología, ¿por qué está formada la matriz extracelular?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿por qué está formada la matriz extracelular?
 
 - A. Por proteínas fibrosas y por la sustancia fundamental, constituida principalmente por proteínas e hidratos de carbono
 - B. Por una bicapa de lípidos y proteínas de membrana
@@ -507,7 +513,7 @@ La matriz está formada por proteínas fibrosas y por la sustancia fundamental, 
 
 ### 27
 
-En relación con el libro de Biología, ¿qué favorece la interacción de las células con las proteínas y los hidratos de carbono de la matriz extracelular?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿qué favorece la interacción de las células con las proteínas y los hidratos de carbono de la matriz extracelular?
 
 - A. La adhesión entre células
 - B. La rigidez de la pared celular
@@ -522,7 +528,7 @@ Las células, a través de estos últimos y las proteínas de sus membranas, int
 
 ### 28
 
-De acuerdo con el libro de Biología, ¿qué papel fundamental cumple la matriz extracelular en el desarrollo de tejidos y órganos?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿qué papel fundamental cumple la matriz extracelular en el desarrollo de tejidos y órganos?
 
 - A. A través de ella se transmiten señales que influyen en el crecimiento y la reproducción celular
 - B. A través de ella se realiza la fotosíntesis
@@ -537,7 +543,7 @@ La matriz, además, cumple un papel fundamental en el desarrollo de tejidos y ó
 
 ### 29
 
-De conformidad con el libro de Biología, ¿qué permiten las proteínas de membrana capaces de establecer contactos con células semejantes?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué permiten las proteínas de membrana capaces de establecer contactos con células semejantes?
 
 - A. La adhesión de las células entre sí y la consiguiente formación de un tejido específico
 - B. La difusión de nutrientes por el citosol
@@ -556,7 +562,7 @@ Las proteínas de membrana permiten la adhesión de las células entre sí y la 
 
 ### 30
 
-En relación con el libro de Biología, ¿qué distinción fundamental hay entre las células animales y las vegetales respecto de la pared celular?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿qué distinción fundamental hay entre las células animales y las vegetales respecto de la pared celular?
 
 - A. Que sólo las células vegetales están rodeadas por una pared celular
 - B. Que sólo las células animales están rodeadas por una pared celular
@@ -571,7 +577,7 @@ Una distinción fundamental entre las células animales y vegetales es que solo 
 
 ### 31
 
-De acuerdo con el libro de Biología, ¿cómo es la pared celular respecto de su rigidez y su dinámica?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo es la pared celular respecto de su rigidez y su dinámica?
 
 - A. Es una estructura rígida, pero no estática, ya que su estructura porosa deja pasar los materiales solubles
 - B. Es una estructura rígida y completamente estática, que impide todo intercambio
@@ -594,7 +600,7 @@ Aunque la pared celular es una estructura rígida, no es estática, ya que su es
 
 ### 32
 
-De acuerdo con el libro de Biología, ¿cómo crecen fundamentalmente las plantas?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo crecen fundamentalmente las plantas?
 
 - A. Por alargamiento celular, un proceso en el que la célula agrega nuevos materiales a sus paredes
 - B. Por multiplicación del número de organelas de cada célula
@@ -609,7 +615,7 @@ En las plantas, el crecimiento ocurre fundamentalmente por alargamiento celular,
 
 ### 33
 
-De conformidad con el libro de Biología, ¿qué se forma entre las dos células nuevas cuando una célula vegetal se divide?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué se forma entre las dos células nuevas cuando una célula vegetal se divide?
 
 - A. La laminilla media, una capa delgada de material aglutinante que mantiene juntas las células contiguas
 - B. La pared secundaria, reforzada con lignina
@@ -624,7 +630,7 @@ Cuando una célula vegetal se divide, se forma una capa delgada de material aglu
 
 ### 34
 
-En relación con el libro de Biología, ¿qué contiene principalmente la pared celular primaria?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿qué contiene principalmente la pared celular primaria?
 
 - A. Moléculas de celulosa
 - B. Moléculas de lignina
@@ -639,7 +645,7 @@ Luego, cada célula vegetal construye su pared celular primaria a cada lado de e
 
 ### 35
 
-De acuerdo con el libro de Biología, ¿qué diferencia a la pared secundaria de la primaria en cuanto a su capacidad de expandirse?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿qué diferencia a la pared secundaria de la primaria en cuanto a su capacidad de expandirse?
 
 - A. Que la pared secundaria ya no es capaz de expandirse de la misma manera que la primaria
 - B. Que la pared secundaria se expande mucho más que la primaria
@@ -658,7 +664,7 @@ A medida que la célula madura puede formar una pared secundaria, ya no es capaz
 
 ### 36
 
-De conformidad con el libro de Biología, ¿qué polisacárido refuerza con frecuencia la pared secundaria?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué polisacárido refuerza con frecuencia la pared secundaria?
 
 - A. La lignina
 - B. La celulosa
@@ -677,7 +683,7 @@ La pared secundaria con frecuencia contiene polisacáridos, como la lignina, que
 
 ### 37
 
-En relación con el libro de Biología, ¿qué observó Hooke en las láminas de corcho?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿qué observó Hooke en las láminas de corcho?
 
 - A. La pared externa que deja la célula vegetal cuando muere, como una obra arquitectónica de la célula
 - B. El núcleo de las células vegetales vivas
@@ -692,7 +698,7 @@ La célula vegetal, que en principio estaba viva, a menudo muere y solo deja la 
 
 ### 38
 
-De acuerdo con el libro de Biología, ¿en las paredes de qué organismos está por lo general ausente la celulosa?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿en las paredes de qué organismos está por lo general ausente la celulosa?
 
 - A. En las de hongos y procariontes
 - B. En las de las algas
@@ -718,7 +724,7 @@ teoría celular. Sólo se escribe lo que añade.*
 
 ### 39
 
-De acuerdo con el libro de Biología, ¿qué observaba Schleiden en las células del interior de las semillas, por su interés en el desarrollo?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿qué observaba Schleiden en las células del interior de las semillas, por su interés en el desarrollo?
 
 - A. Una especie de gránulos que daban la impresión de ser núcleos a partir de los cuales se formaban las células
 - B. Las mitocondrias que aportaban energía al embrión
@@ -733,7 +739,7 @@ Como estaba interesado en los procesos de desarrollo, Schleiden observaba las c�
 
 ### 40
 
-De conformidad con el libro de Biología, ¿cómo denominó Schleiden a esos gránulos, y qué significan las raíces del término?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo denominó Schleiden a esos gránulos, y qué significan las raíces del término?
 
 - A. Citoblastos: cito, célula; blasto, germen
 - B. Cromosomas: cromo, color; soma, cuerpo
@@ -748,7 +754,7 @@ Por eso, los denominó citoblastos (cito: célula; blasto: germen).
 
 ### 41
 
-En relación con el libro de Biología, ¿qué eran en realidad los gránulos o citoblastos que observaban Schleiden y Schwann?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿qué eran en realidad los gránulos o citoblastos que observaban Schleiden y Schwann?
 
 - A. Los núcleos celulares de las células eucariontes, fáciles de identificar mediante tinción
 - B. Las mitocondrias de las células
@@ -767,7 +773,7 @@ Los gránulos o citoblastos no eran otra cosa que los núcleos celulares de las 
 
 ### 42
 
-De acuerdo con el libro de Biología, ¿qué embriólogo alemán estudió la fecundación usando óvulos y esperma de erizos de mar?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿qué embriólogo alemán estudió la fecundación usando óvulos y esperma de erizos de mar?
 
 - A. Oscar Hertwig
 - B. Walter Flemming
@@ -782,7 +788,7 @@ Una de las observaciones microscópicas más importantes fue realizada por un em
 
 ### 43
 
-De conformidad con el libro de Biología, ¿por qué los gametos de erizo de mar son un buen modelo para estudiar el núcleo celular?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿por qué los gametos de erizo de mar son un buen modelo para estudiar el núcleo celular?
 
 - A. Porque producen óvulos y espermatozoides en gran cantidad, y los óvulos son grandes, transparentes y fáciles de observar
 - B. Porque sus células carecen de pared celular
@@ -797,7 +803,7 @@ Estos animales producen óvulos y espermatozoides en gran cantidad y los liberan
 
 ### 44
 
-En relación con el libro de Biología, ¿qué observó Hertwig durante el proceso de fecundación, a pesar de la presencia de un enorme número de espermatozoides?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿qué observó Hertwig durante el proceso de fecundación, a pesar de la presencia de un enorme número de espermatozoides?
 
 - A. Que sólo uno de ellos penetraba dentro del óvulo
 - B. Que todos ellos penetraban dentro del óvulo
@@ -812,7 +818,7 @@ Hertwig vio que, a pesar de la presencia de un enorme número de espermatozoides
 
 ### 45
 
-De acuerdo con el libro de Biología, ¿qué visualizó Hertwig respecto de los núcleos del espermatozoide y del óvulo?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿qué visualizó Hertwig respecto de los núcleos del espermatozoide y del óvulo?
 
 - A. Que el núcleo del espermatozoide se unía al del óvulo fusionándose
 - B. Que el núcleo del espermatozoide reemplazaba por completo al del óvulo
@@ -827,7 +833,7 @@ Así fue como pudo visualizar que el núcleo del espermatozoide se unía al del 
 
 ### 46
 
-De conformidad con el libro de Biología, ¿qué ayudó a establecer más adelante la observación de Hertwig sobre la fusión de los núcleos?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué ayudó a establecer más adelante la observación de Hertwig sobre la fusión de los núcleos?
 
 - A. Que el núcleo es el portador de la información hereditaria
 - B. Que el citoplasma es el portador de la información hereditaria
@@ -846,7 +852,7 @@ Esta observación, confirmada por otros científicos y en otros tipos de organis
 
 ### 47
 
-En relación con el libro de Biología, ¿qué citólogo alemán aportó otra pista importante sobre el núcleo en la década de 1880?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿qué citólogo alemán aportó otra pista importante sobre el núcleo en la década de 1880?
 
 - A. Walter Flemming
 - B. Oscar Hertwig
@@ -861,7 +867,7 @@ Otra importante pista acerca de la importancia del núcleo fue aportada por el c
 
 ### 48
 
-De acuerdo con el libro de Biología, ¿por qué Flemming denominó cromatina a los filamentos del núcleo?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿por qué Flemming denominó cromatina a los filamentos del núcleo?
 
 - A. Porque se coloreaban fuertemente
 - B. Porque se apelotonaban antes de la división
@@ -876,7 +882,7 @@ Flemming observó el núcleo celular compuesto por una serie de filamentos que s
 
 ### 49
 
-De conformidad con el libro de Biología, ¿cómo denominó Flemming a los bastoncitos en que se seccionaba el filamento de cromatina antes de la división celular?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo denominó Flemming a los bastoncitos en que se seccionaba el filamento de cromatina antes de la división celular?
 
 - A. Cromosomas
 - B. Citoblastos
@@ -895,7 +901,7 @@ Al observar los cambios que experimentaba la cromatina a lo largo del desarrollo
 
 ### 50
 
-En relación con el libro de Biología, ¿cómo llamó Flemming al fenómeno que describió durante la división celular?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo llamó Flemming al fenómeno que describió durante la división celular?
 
 - A. "La danza de los cromosomas"
 - B. "La fusión de los núcleos"
@@ -914,7 +920,7 @@ Durante la división celular, describió "la danza de los cromosomas", es decir,
 
 ### 51
 
-De acuerdo con el libro de Biología, ¿cuánta cromatina posee cada célula hija tras la división, según las conclusiones de Flemming?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿cuánta cromatina posee cada célula hija tras la división, según las conclusiones de Flemming?
 
 - A. La misma cantidad que la célula madre, como consecuencia de la duplicación de cromosomas previa a la división
 - B. La mitad de la cantidad que la célula madre
@@ -929,7 +935,7 @@ Cada una de estas células hijas posee la misma cantidad de cromatina que la cé
 
 ### 52
 
-De conformidad con el libro de Biología, ¿cómo se denomina el proceso de división descrito por Flemming?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo se denomina el proceso de división descrito por Flemming?
 
 - A. Mitosis
 - B. Fecundación
@@ -944,7 +950,7 @@ Este proceso se denomina mitosis.
 
 ### 53
 
-En relación con el libro de Biología, ¿qué le ocurrió a la ameba a la que se le eliminó el núcleo por microcirugía?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿qué le ocurrió a la ameba a la que se le eliminó el núcleo por microcirugía?
 
 - A. Dejó de dividirse y en pocos días murió
 - B. Continuó dividiéndose normalmente
@@ -959,7 +965,7 @@ En un experimento simple se eliminó por microcirugía el núcleo de un organism
 
 ### 54
 
-De acuerdo con el libro de Biología, ¿qué ocurría si en las 24 horas siguientes se le implantaba a la ameba el núcleo de otra ameba?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿qué ocurría si en las 24 horas siguientes se le implantaba a la ameba el núcleo de otra ameba?
 
 - A. La célula sobrevivía y podía dividirse normalmente
 - B. La célula moría de inmediato
@@ -978,7 +984,7 @@ Si en el transcurso de las 24 horas siguientes a la eliminación del núcleo ori
 
 ### 55
 
-De conformidad con el libro de Biología, ¿qué citólogo alemán estudió las funciones del núcleo y del citoplasma aprovechando el alga Acetabularia?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿qué citólogo alemán estudió las funciones del núcleo y del citoplasma aprovechando el alga Acetabularia?
 
 - A. Joachim Hämmerling
 - B. Walter Flemming
@@ -993,7 +999,7 @@ En los primeros años de la década de 1930, el citólogo alemán Joachim Hämme
 
 ### 56
 
-En relación con el libro de Biología, ¿cómo es el cuerpo del alga Acetabularia?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo es el cuerpo del alga Acetabularia?
 
 - A. Está formado por una única célula gigante de 2 a 5 centímetros de largo, con un "sombrero", un "pedicelo" y un "pie"
 - B. Está formado por miles de células pequeñas organizadas en tejidos
@@ -1008,7 +1014,7 @@ El cuerpo de Acetabularia está formado por una única célula gigante de 2 a 5 
 
 ### 57
 
-De acuerdo con el libro de Biología, ¿en qué porción de la Acetabularia está contenido el núcleo?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), ¿en qué porción de la Acetabularia está contenido el núcleo?
 
 - A. En la porción llamada "pie"
 - B. En la porción llamada "sombrero"
@@ -1023,7 +1029,7 @@ El núcleo de la célula está contenido en la porción llamada "pie".
 
 ### 58
 
-De conformidad con el libro de Biología, ¿cómo interpretó Hämmerling el hecho de que un sombrero seccionado se regenerara?
+De conformidad con el libro de Biología, capítulo 4 (La organización de las células), ¿cómo interpretó Hämmerling el hecho de que un sombrero seccionado se regenerara?
 
 - A. Como indicio de que el núcleo dirige la producción de ciertas sustancias determinantes del sombrero, que se acumulan en el citoplasma
 - B. Como indicio de que el sombrero se regenera de forma independiente del núcleo
@@ -1038,7 +1044,7 @@ Hämmerling interpretó estos resultados como indicio de que el núcleo dirige l
 
 ### 59
 
-En relación con el libro de Biología, tras trasplantar un núcleo de la otra especie a una célula sin sombrero, ¿qué tipo de sombrero formaba poco después del trasplante?
+En relación con el libro de Biología, capítulo 4 (La organización de las células), tras trasplantar un núcleo de la otra especie a una célula sin sombrero, ¿qué tipo de sombrero formaba poco después del trasplante?
 
 - A. Un sombrero de tipo intermedio
 - B. Un sombrero idéntico al del núcleo trasplantado
@@ -1057,7 +1063,7 @@ Luego de trasplantar un núcleo de la otra especie a una célula a la que se le 
 
 ### 60
 
-De acuerdo con el libro de Biología, al formarse el segundo sombrero tras extirpar el "híbrido", ¿bajo el control de qué quedaba por completo su forma?
+De acuerdo con el libro de Biología, capítulo 4 (La organización de las células), al formarse el segundo sombrero tras extirpar el "híbrido", ¿bajo el control de qué quedaba por completo su forma?
 
 - A. Bajo el control del nuevo núcleo trasplantado, proveniente de la otra especie
 - B. Bajo el control del núcleo original, ya extirpado

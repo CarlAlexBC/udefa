@@ -173,7 +173,7 @@ en A porque el importador baraja las opciones.
 
 ### 1
 
-De acuerdo con el libro de Biología, ¿a cuánto habría descendido la temperatura alrededor de 100 segundos después del Big Bang?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿a cuánto habría descendido la temperatura alrededor de 100 segundos después del Big Bang?
 
 - A. A 1000 millones de grados Celsius
 - B. A 2500 grados Celsius
@@ -188,7 +188,7 @@ Alrededor de 100 segundos después del Big Bang, la temperatura habría descendi
 
 ### 2
 
-De conformidad con el libro de Biología, ¿qué dos tipos de partículas estables habrían existido en ese momento?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué dos tipos de partículas estables habrían existido en ese momento?
 
 - A. Los protones y los electrones
 - B. Los protones y los neutrones
@@ -203,7 +203,7 @@ En ese momento habrían existido dos tipos de partículas estables, los protones
 
 ### 3
 
-En relación con el libro de Biología, ¿qué se habría formado cuando el Universo alcanzó unos 2500 ºC?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué se habría formado cuando el Universo alcanzó unos 2500 ºC?
 
 - A. Los primeros átomos de hidrógeno
 - B. Los primeros átomos de helio
@@ -218,7 +218,7 @@ Cuando el Universo alcanzó unos 2500 ºC, los núcleos y sus protones de carga 
 
 ### 4
 
-De acuerdo con el libro de Biología, ¿qué elemento se originó como resultado de la fusión de los átomos de hidrógeno?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué elemento se originó como resultado de la fusión de los átomos de hidrógeno?
 
 - A. El helio
 - B. El oxígeno
@@ -236,7 +236,7 @@ Como resultado de la fusión de estos átomos, se originó el helio y a partir d
 
 ### 5
 
-De conformidad con el libro de Biología, ¿mediante qué procesos se habrían originado todos los elementos que hoy existen en el Universo?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿mediante qué procesos se habrían originado todos los elementos que hoy existen en el Universo?
 
 - A. Mediante procesos nucleares de fisión y fusión
 - B. Mediante reacciones de condensación
@@ -251,7 +251,7 @@ De esta manera, mediante procesos nucleares de fisión y fusión, se habrían or
 
 ### 6
 
-En relación con el libro de Biología, ¿hace cuántos años nació la estrella que es nuestro Sol, según calculan los cosmólogos?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿hace cuántos años nació la estrella que es nuestro Sol, según calculan los cosmólogos?
 
 - A. Hace unos 5000 millones de años
 - B. Hace unos 4600 millones de años
@@ -266,7 +266,7 @@ Hace unos 5000 millones de años, según calculan los cosmólogos, nació la est
 
 ### 7
 
-De acuerdo con el libro de Biología, ¿hace aproximadamente cuántos años comenzaron a formarse los planetas del sistema solar?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿hace aproximadamente cuántos años comenzaron a formarse los planetas del sistema solar?
 
 - A. Hace aproximadamente 4600 millones de años
 - B. Hace aproximadamente 5000 millones de años
@@ -289,7 +289,7 @@ Se ha postulado que hace aproximadamente 4600 millones de años, los restos de g
 
 ### 8
 
-De conformidad con el libro de Biología, ¿existe una definición simple de qué es la vida?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿existe una definición simple de qué es la vida?
 
 - A. No, es un concepto abstracto que designa aquello que caracteriza a los organismos vivos
 - B. Sí, es la capacidad de reproducirse y evolucionar
@@ -308,7 +308,7 @@ En realidad, no existe una definición simple de qué es la vida. Este es un con
 
 ### 9
 
-En relación con el libro de Biología, ¿para qué sirve la membrana de las primeras formas de vida?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿para qué sirve la membrana de las primeras formas de vida?
 
 - A. Para intercambiar materia y energía con el medio circundante y, a la vez, separarse de este manteniendo su identidad bioquímica
 - B. Únicamente para separarse del medio circundante e impedir todo intercambio
@@ -323,7 +323,7 @@ La existencia de una membrana a través de la cual intercambian materia y energ�
 
 ### 10
 
-De acuerdo con el libro de Biología, ¿cómo se llaman las proteínas complejas del interior celular que son esenciales para que se produzcan las reacciones químicas de las que depende la vida?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se llaman las proteínas complejas del interior celular que son esenciales para que se produzcan las reacciones químicas de las que depende la vida?
 
 - A. Enzimas
 - B. Ribosomas
@@ -342,7 +342,7 @@ La presencia de proteínas complejas en el interior celular, llamadas enzimas, q
 
 ### 11
 
-De conformidad con el libro de Biología, ¿quiénes propusieron el primer conjunto de hipótesis contrastables acerca del origen de la vida?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿quiénes propusieron el primer conjunto de hipótesis contrastables acerca del origen de la vida?
 
 - A. El bioquímico ruso A. I. Oparin y el químico inglés J. B. S. Haldane
 - B. El bioquímico estadounidense Stanley Miller y el químico inglés J. B. S. Haldane
@@ -361,7 +361,7 @@ El primer conjunto de hipótesis contrastables acerca del origen de la vida fue 
 
 ### 12
 
-En relación con el libro de Biología, ¿cómo trabajaron Oparin y Haldane?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo trabajaron Oparin y Haldane?
 
 - A. En forma independiente, cada uno en su país de origen y sin conocimiento del trabajo del otro
 - B. En colaboración estrecha, intercambiando resultados por correspondencia
@@ -376,7 +376,7 @@ Quienes trabajaban en forma independiente, cada uno de ellos en su país de orig
 
 ### 13
 
-De acuerdo con el libro de Biología, ¿cómo se llamó el largo período de frecuentes reacciones químicas que precedió al origen de la vida?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se llamó el largo período de frecuentes reacciones químicas que precedió al origen de la vida?
 
 - A. Evolución química
 - B. Condensación
@@ -391,7 +391,7 @@ Los científicos postularon que el origen de la vida fue precedido por un largo 
 
 ### 14
 
-De conformidad con el libro de Biología, ¿qué había en la Tierra primitiva respecto del oxígeno en forma gaseosa?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué había en la Tierra primitiva respecto del oxígeno en forma gaseosa?
 
 - A. Muy poco o nada, tanto en la atmósfera como disuelto en el agua
 - B. Una concentración semejante a la actual en la atmósfera
@@ -406,7 +406,7 @@ En la Tierra primitiva había muy poco o nada de oxígeno en forma gaseosa, tant
 
 ### 15
 
-En relación con el libro de Biología, ¿cuáles son los cuatro elementos que constituyen actualmente más del 95% de los tejidos vivos?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuáles son los cuatro elementos que constituyen actualmente más del 95% de los tejidos vivos?
 
 - A. Hidrógeno, oxígeno, carbono y nitrógeno
 - B. Hidrógeno, helio, carbono y nitrógeno
@@ -421,7 +421,7 @@ En la atmósfera y en las aguas de la Tierra primitiva, los cuatro elementos (hi
 
 ### 16
 
-De acuerdo con el libro de Biología, ¿en qué formas era abundante la energía según el modelo de la Tierra primitiva?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué formas era abundante la energía según el modelo de la Tierra primitiva?
 
 - A. Calor, rayos, radiactividad y radiaciones provenientes del Sol
 - B. Únicamente calor y radiaciones provenientes del Sol
@@ -436,7 +436,7 @@ El modelo propone que la energía era abundante en forma de calor, rayos (descar
 
 ### 17
 
-De conformidad con el libro de Biología, ¿mediante qué reacción habrían formado moléculas orgánicas más complejas las moléculas simples, según Oparin?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿mediante qué reacción habrían formado moléculas orgánicas más complejas las moléculas simples, según Oparin?
 
 - A. Mediante una reacción denominada condensación
 - B. Mediante una reacción denominada fotosíntesis
@@ -451,7 +451,7 @@ Oparin propuso que, en esas condiciones, las moléculas simples que componían l
 
 ### 18
 
-En relación con el libro de Biología, ¿por qué la ausencia de oxígeno libre favoreció la formación de las moléculas orgánicas?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿por qué la ausencia de oxígeno libre favoreció la formación de las moléculas orgánicas?
 
 - A. Porque el oxígeno puede combinarse con ellas y degradarlas a sustancias simples
 - B. Porque el oxígeno impide que las moléculas se disuelvan en el agua
@@ -466,7 +466,7 @@ Esta es una de las características que favorecieron la formación de las moléc
 
 ### 19
 
-De acuerdo con el libro de Biología, ¿de qué proceso es producto residual el oxígeno que existe hoy en la Tierra?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿de qué proceso es producto residual el oxígeno que existe hoy en la Tierra?
 
 - A. De la fotosíntesis que realizan plantas, algas, protistas y bacterias fotótrofas
 - B. De la respiración celular que realizan los animales
@@ -481,7 +481,7 @@ Hoy sabemos que el oxígeno que existe en la Tierra es producto residual del pro
 
 ### 20
 
-De conformidad con el libro de Biología, ¿por qué se sostiene que la síntesis de moléculas orgánicas ocurrió en el medio acuático?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿por qué se sostiene que la síntesis de moléculas orgánicas ocurrió en el medio acuático?
 
 - A. Porque en otro ambiente habrían sido destruidas por la radiación ultravioleta, y el agua del océano actúa como filtro
 - B. Porque sólo en el agua existía el oxígeno necesario para la reacción
@@ -500,7 +500,7 @@ La hipótesis de que los procesos de síntesis de moléculas orgánicas ocurrier
 
 ### 21
 
-En relación con el libro de Biología, ¿en qué año publicó Oparin su teoría?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué año publicó Oparin su teoría?
 
 - A. En 1924
 - B. En 1953
@@ -519,7 +519,7 @@ Oparin publicó su teoría en 1924, la cual tenía un carácter fuertemente espe
 
 ### 22
 
-De acuerdo con el libro de Biología, ¿qué le faltaba a la teoría de Oparin cuando la publicó?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué le faltaba a la teoría de Oparin cuando la publicó?
 
 - A. Pruebas empíricas que permitieran contrastarla
 - B. Un razonamiento riguroso que la sustentara
@@ -537,7 +537,7 @@ Tenía un carácter fuertemente especulativo, aunque estaba basada en un razonam
 
 ### 23
 
-De conformidad con el libro de Biología, ¿quién aportó en 1953 las primeras evidencias experimentales que sustentaron la propuesta de Oparin?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿quién aportó en 1953 las primeras evidencias experimentales que sustentaron la propuesta de Oparin?
 
 - A. El bioquímico estadounidense Stanley Miller
 - B. El químico inglés J. B. S. Haldane
@@ -552,7 +552,7 @@ Recién en 1953 el bioquímico estadounidense Stanley Miller (1930-2007) aportó
 
 ### 24
 
-En relación con el libro de Biología, ¿qué mostraron los experimentos de Miller respecto de las fuentes de energía?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué mostraron los experimentos de Miller respecto de las fuentes de energía?
 
 - A. Que prácticamente cualquier fuente de energía servía, fueran rayos, radiación ultravioleta o ceniza volcánica caliente
 - B. Que sólo los rayos producían el resultado esperado
@@ -571,7 +571,7 @@ Los experimentos de Miller, que fueron repetidos varias veces, mostraron que pr�
 
 ### 25
 
-De acuerdo con el libro de Biología, ¿qué gases introdujo Miller para simular la composición de la atmósfera primitiva?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué gases introdujo Miller para simular la composición de la atmósfera primitiva?
 
 - A. Metano, amoníaco e hidrógeno
 - B. Metano, oxígeno e hidrógeno
@@ -589,7 +589,7 @@ Los gases metano, amoníaco e hidrógeno se introducen aquí. Estos gases simula
 
 ### 26
 
-De conformidad con el libro de Biología, ¿con qué simuló Miller una fuente de energía presente en la Tierra primitiva?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿con qué simuló Miller una fuente de energía presente en la Tierra primitiva?
 
 - A. Con una descarga eléctrica
 - B. Con una fuente de radiación ultravioleta
@@ -608,7 +608,7 @@ Con una descarga eléctrica, Miller simuló una fuente de energía presente en l
 
 ### 27
 
-En relación con el libro de Biología, ¿qué se obtiene en el experimento de Miller?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué se obtiene en el experimento de Miller?
 
 - A. Moléculas orgánicas: aminoácidos y otros compuestos disueltos
 - B. Ácidos nucleicos: ADN y ARN disueltos
@@ -627,7 +627,7 @@ Se obtienen moléculas orgánicas: aminoácidos y otros compuestos disueltos.
 
 ### 28
 
-De acuerdo con el libro de Biología, ¿cómo llamó Oparin a los sistemas individuales que se forman cuando las macromoléculas se agrupan y se separan del medio?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo llamó Oparin a los sistemas individuales que se forman cuando las macromoléculas se agrupan y se separan del medio?
 
 - A. Coacervados
 - B. Microesferas proteinoides
@@ -645,7 +645,7 @@ En condiciones de temperatura y acidez controladas, estas macromoléculas se agr
 
 ### 29
 
-De conformidad con el libro de Biología, ¿qué pueden hacer los coacervados con las moléculas del medio?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué pueden hacer los coacervados con las moléculas del medio?
 
 - A. Pueden incorporar otras moléculas presentes en el medio
 - B. Pueden sintetizar nuevas moléculas a partir de gases
@@ -660,7 +660,7 @@ Estos modelos de sistemas precelulares pueden incorporar otras moléculas presen
 
 ### 30
 
-En relación con el libro de Biología, ¿quién postuló un modelo precelular alternativo al de Oparin?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿quién postuló un modelo precelular alternativo al de Oparin?
 
 - A. El científico norteamericano Sidney W. Fox
 - B. El bioquímico estadounidense Stanley Miller
@@ -675,7 +675,7 @@ Por su parte, el científico norteamericano Sidney W. Fox (1912-1998) postuló u
 
 ### 31
 
-De acuerdo con el libro de Biología, ¿qué estructuras obtuvieron Fox y sus colaboradores?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué estructuras obtuvieron Fox y sus colaboradores?
 
 - A. Microesferas proteinoides, formadas por una membrana proteica
 - B. Coacervados, formados por conglomerados de macromoléculas
@@ -690,7 +690,7 @@ Fox y sus colaboradores obtuvieron estructuras formadas por una membrana proteic
 
 ### 32
 
-De conformidad con el libro de Biología, ¿son células las microesferas proteinoides?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿son células las microesferas proteinoides?
 
 - A. No, pero permiten proponer modelos sobre el origen de estructuras autónomas similares a células sencillas
 - B. Sí, son las células más sencillas que se conocen
@@ -708,7 +708,7 @@ Las microesferas no son células, pero el hecho de que puedan formarse en el lab
 
 ### 33
 
-En relación con el libro de Biología, ¿qué demostraron los estudios del biólogo y premio Nobel Jack Szostak?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué demostraron los estudios del biólogo y premio Nobel Jack Szostak?
 
 - A. Que las microvesículas de lípidos pueden importar moléculas de manera selectiva, autoensamblarse, crecer, dividirse y adquirir gran complejidad
 - B. Que las microesferas proteinoides pueden replicar su propio material genético
@@ -727,7 +727,7 @@ Estudios más recientes del biólogo y premio Nobel Jack Szostak han demostrado 
 
 ### 34
 
-De acuerdo con el libro de Biología, ¿por qué sería imposible hoy la formación espontánea de moléculas orgánicas?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿por qué sería imposible hoy la formación espontánea de moléculas orgánicas?
 
 - A. Porque el oxígeno de la atmósfera las oxidaría y degradaría, o serían degradadas por los organismos que habitan el planeta
 - B. Porque ya no existe energía suficiente en forma de calor y radiación
@@ -742,7 +742,7 @@ En la Tierra actual, la formación espontánea de moléculas orgánicas y de sis
 
 ### 35
 
-De conformidad con el libro de Biología, ¿qué efecto tuvo la formación de la capa de ozono sobre el origen de la vida?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué efecto tuvo la formación de la capa de ozono sobre el origen de la vida?
 
 - A. Filtra las radiaciones ultravioleta, lo que disminuye su influencia como fuente de energía para formar moléculas complejas
 - B. Aumentó la cantidad de radiación ultravioleta disponible como fuente de energía
@@ -757,7 +757,7 @@ A partir de ese oxígeno se fue constituyendo la capa de ozono (O₃) que filtra
 
 ### 36
 
-En relación con el libro de Biología, ¿qué hicieron las primeras células con el medio del que provenían?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué hicieron las primeras células con el medio del que provenían?
 
 - A. Consumieron la sopa primitiva de la que provenían
 - B. Enriquecieron la sopa primitiva con nuevas moléculas orgánicas
@@ -772,7 +772,7 @@ Dicho de otra forma, las primeras células que aparecieron consumieron la sopa p
 
 ### 37
 
-De acuerdo con el libro de Biología, según las palabras de Oparin, ¿dónde reside la causa principal de que la vida no aparezca hoy en condiciones naturales?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), según las palabras de Oparin, ¿dónde reside la causa principal de que la vida no aparezca hoy en condiciones naturales?
 
 - A. En el hecho de que la vida ya existe
 - B. En el hecho de que la atmósfera ya no tiene metano ni amoníaco
@@ -791,7 +791,7 @@ Según las palabras de Oparin, "por paradójico que ello pueda parecer, debemos 
 
 ### 38
 
-De conformidad con el libro de Biología, ¿qué propiedad tienen las enzimas?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué propiedad tienen las enzimas?
 
 - A. Acelerar ciertas reacciones químicas sin sufrir cambios en su estructura, quedando disponibles para nuevas reacciones
 - B. Acelerar ciertas reacciones químicas consumiéndose en el proceso
@@ -809,7 +809,7 @@ Ciertas proteínas (enzimas) tienen la propiedad de acelerar ciertas reacciones 
 
 ### 39
 
-En relación con el libro de Biología, ¿qué moléculas cumplen el papel de portar la información genética y transmitirla a la descendencia?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué moléculas cumplen el papel de portar la información genética y transmitirla a la descendencia?
 
 - A. Los ácidos nucleicos, generalmente el ADN
 - B. Las proteínas, en particular las enzimas
@@ -824,7 +824,7 @@ Hoy se sabe que las proteínas no poseen la estructura que hace posible las dos 
 
 ### 40
 
-De acuerdo con el libro de Biología, ¿a qué viejo acertijo se asemeja el dilema sobre qué molécula surgió primero?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿a qué viejo acertijo se asemeja el dilema sobre qué molécula surgió primero?
 
 - A. A "¿Qué fue primero, el huevo o la gallina?"
 - B. A "¿Qué fue primero, la semilla o el árbol?"
@@ -839,7 +839,7 @@ Este dilema acerca de quién tuvo primacía se asemeja al viejo acertijo: "¿Qu�
 
 ### 41
 
-De conformidad con el libro de Biología, ¿cuál es la propuesta más aceptada sobre el primer polímero con capacidad de portar información y de replicarse?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuál es la propuesta más aceptada sobre el primer polímero con capacidad de portar información y de replicarse?
 
 - A. Que podría haber sido el ARN
 - B. Que podría haber sido el ADN
@@ -854,7 +854,7 @@ La propuesta más aceptada es que el primer polímero con capacidad de portar in
 
 ### 42
 
-En relación con el libro de Biología, ¿cómo se llama la etapa muy temprana de la evolución biológica en la que este polímero genético llevaba a cabo papeles biológicos muy importantes?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se llama la etapa muy temprana de la evolución biológica en la que este polímero genético llevaba a cabo papeles biológicos muy importantes?
 
 - A. Mundo del ARN
 - B. Mundo del ADN
@@ -869,7 +869,7 @@ Todos estos hallazgos apoyan fuertemente un argumento que propone la existencia 
 
 ### 43
 
-De acuerdo con el libro de Biología, ¿qué es la actividad catalítica que exhiben algunos ARN creados de manera artificial?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué es la actividad catalítica que exhiben algunos ARN creados de manera artificial?
 
 - A. La capacidad de acelerar la ocurrencia de reacciones químicas
 - B. La capacidad de replicarse sin ayuda de proteínas
@@ -884,7 +884,7 @@ Numerosos experimentos en el laboratorio han demostrado que algunos ARN creados 
 
 ### 44
 
-De conformidad con el libro de Biología, ¿cómo se llaman los errores de copia que pudieron sufrir las moléculas de ARN durante los procesos de duplicación?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se llaman los errores de copia que pudieron sufrir las moléculas de ARN durante los procesos de duplicación?
 
 - A. Mutaciones
 - B. Replicaciones
@@ -899,7 +899,7 @@ Durante los procesos de duplicación, las moléculas de ARN podían haber sufrid
 
 ### 45
 
-En relación con el libro de Biología, ¿de qué debió disponer necesariamente cualquier forma ancestral de vida?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿de qué debió disponer necesariamente cualquier forma ancestral de vida?
 
 - A. De un "manual de instrucciones", aunque fuera rudimentario, que regulara el sistema y pudiera ser copiado y transmitido
 - B. De una membrana lipídica capaz de dividirse
@@ -918,7 +918,7 @@ Actualmente, los biólogos concuerdan en que cualquier forma ancestral de vida d
 
 ### 46
 
-De acuerdo con el libro de Biología, ¿cómo se denomina el modelo que propone que la formación de cadenas de proteínas se originó en el mundo de los ARN?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se denomina el modelo que propone que la formación de cadenas de proteínas se originó en el mundo de los ARN?
 
 - A. Mundo de los ARN/proteínas
 - B. Mundo de los ARN/ADN
@@ -933,7 +933,7 @@ Ha llevado a proponer que este proceso de formación de cadenas de proteínas se
 
 ### 47
 
-De conformidad con el libro de Biología, ¿en qué función empezarían las proteínas a reemplazar al ARN, según este modelo?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué función empezarían las proteínas a reemplazar al ARN, según este modelo?
 
 - A. En la función de acelerar las reacciones químicas
 - B. En la función de almacenar la información genética
@@ -952,7 +952,7 @@ Según este modelo, en una etapa posterior, las proteínas empezarían a reempla
 
 ### 48
 
-En relación con el libro de Biología, ¿cuál es la ventaja del ADN que explica que se le transfiriera el almacenamiento de la información genética?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuál es la ventaja del ADN que explica que se le transfiriera el almacenamiento de la información genética?
 
 - A. Ser menos susceptible a la degradación química
 - B. Ser capaz de acelerar las reacciones químicas
@@ -967,7 +967,7 @@ La función de almacenamiento de la información genética de gran parte de los 
 
 ### 49
 
-De acuerdo con el libro de Biología, ¿cómo resultaron los ácidos nucleicos y las proteínas tras ese proceso de autoorganización?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo resultaron los ácidos nucleicos y las proteínas tras ese proceso de autoorganización?
 
 - A. Complementarios
 - B. Independientes entre sí
@@ -982,7 +982,7 @@ Entre los ácidos nucleicos y las proteínas se habría desarrollado una complej
 
 ### 50
 
-De conformidad con el libro de Biología, ¿cómo califica la evidencia que sustenta las hipótesis sobre cómo surgió el mundo de los ARN?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo califica la evidencia que sustenta las hipótesis sobre cómo surgió el mundo de los ARN?
 
 - A. Fragmentaria, a lo sumo
 - B. Concluyente y ampliamente aceptada
@@ -1001,7 +1001,7 @@ Son muchos los trabajos realizados y las hipótesis propuestas para explicar có
 
 ### 51
 
-En relación con el libro de Biología, ¿de cuándo datan los fósiles más antiguos encontrados hasta el momento, semejantes a las bacterias actuales?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿de cuándo datan los fósiles más antiguos encontrados hasta el momento, semejantes a las bacterias actuales?
 
 - A. De 3500 millones de años
 - B. De 3700 millones de años
@@ -1021,7 +1021,7 @@ Los fósiles más antiguos encontrados hasta el momento, semejantes a las bacter
 
 ### 52
 
-De acuerdo con el libro de Biología, ¿cuánto tiempo después de la formación de la Tierra aparecieron esos fósiles?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuánto tiempo después de la formación de la Tierra aparecieron esos fósiles?
 
 - A. Alrededor de 1100 millones de años después
 - B. Alrededor de 3500 millones de años después
@@ -1036,7 +1036,7 @@ Datan de 3500 millones de años, alrededor de 1100 millones de años después de
 
 ### 53
 
-De conformidad con el libro de Biología, ¿qué se ha sugerido recientemente sobre unos fósiles de forma tubular?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué se ha sugerido recientemente sobre unos fósiles de forma tubular?
 
 - A. Que están en rocas de hace más de 3700 millones de años, aunque los resultados siguen sin ser concluyentes
 - B. Que están en rocas de hace más de 3700 millones de años, y los resultados son concluyentes
@@ -1054,7 +1054,7 @@ Aunque recientemente se ha sugerido la presencia de fósiles de forma tubular en
 
 ### 54
 
-En relación con el libro de Biología, ¿dónde se encuentran los depósitos sedimentarios que aportan indicios indirectos de vida más antiguos?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿dónde se encuentran los depósitos sedimentarios que aportan indicios indirectos de vida más antiguos?
 
 - A. En la isla de Isua, al oeste de Groenlandia
 - B. En la isla de Isua, al este de Groenlandia
@@ -1069,7 +1069,7 @@ Uno de estos indicios proviene de depósitos sedimentarios de la isla de Isua, a
 
 ### 55
 
-De acuerdo con el libro de Biología, ¿cuáles son los dos isótopos estables del carbono que se encuentran en la naturaleza?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuáles son los dos isótopos estables del carbono que se encuentran en la naturaleza?
 
 - A. El ¹²C y el ¹³C
 - B. El ¹²C y el ¹⁴C
@@ -1084,7 +1084,7 @@ En particular de su contenido de ¹²C y ¹³C, los dos isótopos estables del c
 
 ### 56
 
-De conformidad con el libro de Biología, ¿qué isótopo del carbono tienden a incorporar los organismos vivos en forma selectiva, y por qué?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué isótopo del carbono tienden a incorporar los organismos vivos en forma selectiva, y por qué?
 
 - A. El ¹²C, que es levemente más ligero
 - B. El ¹³C, que es levemente más ligero
@@ -1103,7 +1103,7 @@ Sabemos que los organismos vivos tienden a incorporar el ¹²C en forma selectiv
 
 ### 57
 
-En relación con el libro de Biología, ¿a qué se refiere el término fósil molecular en biología evolutiva?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿a qué se refiere el término fósil molecular en biología evolutiva?
 
 - A. A todas aquellas biomoléculas que almacenan información sobre el pasado histórico de los seres vivos
 - B. A los restos de moléculas orgánicas hallados en rocas sedimentarias
@@ -1118,7 +1118,7 @@ En biología evolutiva se ha utilizado el término de fósil molecular para refe
 
 ### 58
 
-De acuerdo con el libro de Biología, ¿quiénes sugirieron en 1965 que a mayor cercanía entre especies, menor número de diferencias entre sus secuencias?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿quiénes sugirieron en 1965 que a mayor cercanía entre especies, menor número de diferencias entre sus secuencias?
 
 - A. Emile Zuckerkandl y Linus Pauling
 - B. Emile Zuckerkandl y Sidney W. Fox
@@ -1133,7 +1133,7 @@ En 1965, Emile Zuckerkandl y Linus Pauling sugirieron que mientras más cercanam
 
 ### 59
 
-De conformidad con el libro de Biología, ¿qué demostraron esos trabajos sobre las secuencias del gorila, el chimpancé y el humano?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué demostraron esos trabajos sobre las secuencias del gorila, el chimpancé y el humano?
 
 - A. Que tenían un menor número de diferencias, es decir, eran más parecidas entre sí
 - B. Que tenían un mayor número de diferencias que con las demás especies
@@ -1152,7 +1152,7 @@ En sus trabajos demostraron que las secuencias del gorila, chimpancé y humano t
 
 ### 60
 
-De acuerdo con el libro de Biología, ¿quién postuló por primera vez la hipótesis del origen extraterrestre de la vida, y en qué año?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿quién postuló por primera vez la hipótesis del origen extraterrestre de la vida, y en qué año?
 
 - A. El físico y químico sueco Svante Arrhenius, en 1906
 - B. El físico y químico sueco Svante Arrhenius, en 1859
@@ -1170,7 +1170,7 @@ La hipótesis del origen extraterrestre de la vida fue postulada por primera vez
 
 ### 61
 
-De conformidad con el libro de Biología, según Arrhenius, ¿cómo habrían llegado los "gérmenes de la vida" a la Tierra?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), según Arrhenius, ¿cómo habrían llegado los "gérmenes de la vida" a la Tierra?
 
 - A. Desde el espacio en meteoritos desprendidos de algún planeta en el que ya se habría originado la vida
 - B. Desde el espacio en cometas formados en el sistema solar exterior
@@ -1185,7 +1185,7 @@ Los primeros "gérmenes de la vida" (esporas o bacterias) habrían llegado desde
 
 ### 62
 
-En relación con el libro de Biología, ¿qué objeción hace el libro a las hipótesis del origen extraterrestre?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué objeción hace el libro a las hipótesis del origen extraterrestre?
 
 - A. Que desplazan el problema hacia escenarios más lejanos, pero no explican los procesos involucrados en el surgimiento de la vida
 - B. Que contradicen las evidencias fósiles halladas hasta el momento
@@ -1203,7 +1203,7 @@ Sin embargo, estas hipótesis no hacen más que desplazar este problema hacia es
 
 ### 63
 
-De acuerdo con el libro de Biología, ¿en qué se basa la hipótesis de que la materia prima de la vida pudo provenir del espacio interestelar?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué se basa la hipótesis de que la materia prima de la vida pudo provenir del espacio interestelar?
 
 - A. En que las moléculas orgánicas más simples se sintetizan de forma espontánea y abundante en el espacio
 - B. En que se han hallado bacterias vivas en la superficie de los cometas
@@ -1222,7 +1222,7 @@ Esta hipótesis se basa en estudios que muestran que las moléculas orgánicas m
 
 ### 64
 
-De conformidad con el libro de Biología, ¿qué evidencia apoyaría esa propuesta?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué evidencia apoyaría esa propuesta?
 
 - A. El hallazgo de aminoácidos en un meteorito encontrado en 1969 en Australia
 - B. El hallazgo de aminoácidos en un meteorito encontrado en 1996 en la Antártida
@@ -1241,7 +1241,7 @@ Una evidencia que apoyaría esta propuesta es el hallazgo de aminoácidos en un 
 
 ### 65
 
-En relación con el libro de Biología, ¿qué se formó de manera espontánea a partir de las moléculas orgánicas extraídas del meteorito Murchison?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué se formó de manera espontánea a partir de las moléculas orgánicas extraídas del meteorito Murchison?
 
 - A. Estructuras limitadas por membranas, separadas de la solución exterior por una bicapa lipídica
 - B. Cadenas de ARN con capacidad de replicarse
@@ -1256,7 +1256,7 @@ Estas estructuras limitadas por membranas, separadas de la solución exterior po
 
 ### 66
 
-De acuerdo con el libro de Biología, ¿qué se encontró en 1996 en el meteorito ALH84001?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué se encontró en 1996 en el meteorito ALH84001?
 
 - A. Posibles señales de microorganismos fosilizados, en un meteorito proveniente de Marte hallado en la Antártida
 - B. Aminoácidos y otros compuestos orgánicos, en un meteorito caído en Australia
@@ -1275,7 +1275,7 @@ En 1996, se encontraron ciertos datos que podrían estar indicando que la vida p
 
 ### 67
 
-De conformidad con el libro de Biología, ¿qué indican hasta el momento los estudios astronómicos y las exploraciones espaciales?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué indican hasta el momento los estudios astronómicos y las exploraciones espaciales?
 
 - A. Que entre los planetas de nuestro sistema solar, sólo la Tierra sustenta vida
 - B. Que además de la Tierra, Marte sustenta formas simples de vida
@@ -1290,7 +1290,7 @@ Los estudios astronómicos y las exploraciones llevadas a cabo por vehículos es
 
 ### 68
 
-En relación con el libro de Biología, ¿en qué se basa la composición de los sistemas vivos?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué se basa la composición de los sistemas vivos?
 
 - A. En moléculas que contienen carbono
 - B. En moléculas que contienen silicio
@@ -1305,7 +1305,7 @@ En nuestro planeta, las condiciones son ideales para los sistemas vivos, cuya co
 
 ### 69
 
-De acuerdo con el libro de Biología, ¿cuál es un factor principal de que las condiciones de la Tierra sean ideales?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuál es un factor principal de que las condiciones de la Tierra sean ideales?
 
 - A. Que la Tierra no está demasiado cerca ni demasiado lejos del Sol
 - B. Que la Tierra tiene la mayor masa de los planetas interiores
@@ -1320,7 +1320,7 @@ Un factor principal es que la Tierra no está demasiado cerca ni demasiado lejos
 
 ### 70
 
-De conformidad con el libro de Biología, ¿qué requieren las reacciones químicas de las que depende la vida tal como la conocemos?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué requieren las reacciones químicas de las que depende la vida tal como la conocemos?
 
 - A. Agua líquida
 - B. Oxígeno libre en la atmósfera
@@ -1335,7 +1335,7 @@ Las reacciones químicas de las que depende la vida tal como la conocemos requie
 
 ### 71
 
-En relación con el libro de Biología, ¿qué ocurre con las reacciones químicas a temperaturas muy bajas?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué ocurre con las reacciones químicas a temperaturas muy bajas?
 
 - A. La mayor parte de ellas cesan
 - B. Se aceleran por la mayor estabilidad de los compuestos
@@ -1350,7 +1350,7 @@ La temperatura es esencial para la ocurrencia de dichas reacciones, ya que la ma
 
 ### 72
 
-De acuerdo con el libro de Biología, ¿qué les ocurre a temperaturas altas a los compuestos químicos complejos esenciales para la vida?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué les ocurre a temperaturas altas a los compuestos químicos complejos esenciales para la vida?
 
 - A. Son demasiado inestables, de modo que no podrían acumularse
 - B. Se acumulan con mayor rapidez que a temperaturas medias
@@ -1369,7 +1369,7 @@ A temperaturas altas, los compuestos químicos complejos esenciales para la vida
 
 ### 73
 
-De conformidad con el libro de Biología, ¿qué provocarían las radiaciones más energéticas del Sol si llegaran a la Tierra?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué provocarían las radiaciones más energéticas del Sol si llegaran a la Tierra?
 
 - A. La rotura de los enlaces covalentes entre los átomos de carbono
 - B. La evaporación completa del agua de los océanos
@@ -1384,7 +1384,7 @@ Debido a su composición química particular, la atmósfera terrestre filtra muc
 
 ### 74
 
-En relación con el libro de Biología, ¿qué paso significativo de la evolución posibilitó que la atmósfera permita el pasaje de la luz visible?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué paso significativo de la evolución posibilitó que la atmósfera permita el pasaje de la luz visible?
 
 - A. La fotosíntesis
 - B. La respiración celular
@@ -1407,7 +1407,7 @@ Pero, a la vez, permite el pasaje de la luz visible, lo que posibilitó uno de l
 
 ### 75
 
-De acuerdo con el libro de Biología, ¿qué sugieren los investigadores escépticos sobre las estructuras observadas en el meteorito ALH84001?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué sugieren los investigadores escépticos sobre las estructuras observadas en el meteorito ALH84001?
 
 - A. Que son producto de reacciones químicas inorgánicas
 - B. Que son restos de bacterias terrestres que contaminaron la muestra
@@ -1422,7 +1422,7 @@ Sin embargo, muchos investigadores son escépticos respecto de estos hallazgos y
 
 ### 76
 
-De conformidad con el libro de Biología, ¿en qué cuerpos del sistema solar se ha detectado agua líquida y material orgánico?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué cuerpos del sistema solar se ha detectado agua líquida y material orgánico?
 
 - A. En Marte y en Europa, una de las lunas heladas de Júpiter
 - B. En Marte y en Titán, una de las lunas de Saturno
@@ -1437,7 +1437,7 @@ Se ha detectado agua líquida y material orgánico en algunos de ellos, como en 
 
 ### 77
 
-En relación con el libro de Biología, ¿bastan las moléculas orgánicas y la presencia de agua para que surja la vida?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿bastan las moléculas orgánicas y la presencia de agua para que surja la vida?
 
 - A. No, son factores muy importantes pero no suficientes para que el proceso ocurra en forma inexorable
 - B. Sí, siempre que además exista una atmósfera protectora
@@ -1452,7 +1452,7 @@ Sin embargo, aunque las moléculas orgánicas y la presencia de agua son factore
 
 ### 78
 
-De acuerdo con el libro de Biología, ¿por qué son muy bajas las probabilidades de que exista vida en otras partes del universo?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿por qué son muy bajas las probabilidades de que exista vida en otras partes del universo?
 
 - A. Porque los procesos que dieron lugar a la vida están sometidos a las leyes físicas y químicas, así como a múltiples eventos contingentes
 - B. Porque el agua líquida es extremadamente rara fuera de la Tierra
@@ -1471,7 +1471,7 @@ Debido a que los procesos que dieron lugar a la vida están sometidos a las leye
 
 ### 79
 
-De conformidad con el libro de Biología, ¿qué producen las archaeas metanógenas, y a partir de qué?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué producen las archaeas metanógenas, y a partir de qué?
 
 - A. Metano y agua, a partir del dióxido de carbono e hidrógeno
 - B. Dióxido de carbono e hidrógeno, a partir del metano y el agua
@@ -1489,7 +1489,7 @@ Las archaeas metanógenas son quimiosintéticas. Producen metano y agua a partir
 
 ### 80
 
-En relación con el libro de Biología, ¿en qué condición pueden vivir únicamente las archaeas metanógenas?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué condición pueden vivir únicamente las archaeas metanógenas?
 
 - A. En ausencia de oxígeno
 - B. En presencia de oxígeno abundante
@@ -1504,7 +1504,7 @@ Solo pueden vivir en ausencia de oxígeno, condición común en la Tierra joven.
 
 ### 81
 
-De acuerdo con el libro de Biología, ¿dónde existen actualmente las archaeas metanógenas?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿dónde existen actualmente las archaeas metanógenas?
 
 - A. Sólo en ambientes aislados, como el fango y el cieno del fondo de lagunas
 - B. En todos los ambientes acuáticos del planeta
@@ -1526,7 +1526,7 @@ Actualmente existen solo en ambientes aislados, como el fango y el cieno del fon
 
 ### 82
 
-De conformidad con el libro de Biología, ¿quién propuso en 1961 un modelo para estimar la probabilidad de existencia de civilizaciones extraterrestres?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿quién propuso en 1961 un modelo para estimar la probabilidad de existencia de civilizaciones extraterrestres?
 
 - A. El científico norteamericano Frank Drake
 - B. El físico y químico sueco Svante Arrhenius
@@ -1541,7 +1541,7 @@ En 1961, el científico norteamericano Frank Drake propuso un modelo para la est
 
 ### 83
 
-En relación con el libro de Biología, ¿en qué consiste en realidad la Ecuación de Drake?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué consiste en realidad la Ecuación de Drake?
 
 - A. En multiplicar diversos valores estimados, como el número de estrellas de la galaxia y los planetas en los que podría haber vida
 - B. En sumar el número de planetas detectados en zonas de habitabilidad
@@ -1556,7 +1556,7 @@ Este modelo conocido como la Ecuación de Drake, en realidad, consiste en multip
 
 ### 84
 
-De acuerdo con el libro de Biología, ¿qué resultado arrojó la ecuación con los valores que Drake asignó en 1961?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué resultado arrojó la ecuación con los valores que Drake asignó en 1961?
 
 - A. La existencia de diez civilizaciones en toda la galaxia
 - B. La existencia de 10 000 civilizaciones en toda la galaxia
@@ -1571,7 +1571,7 @@ Con los valores que Drake asignó a estas variables en 1961, el resultado indica
 
 ### 85
 
-De conformidad con el libro de Biología, ¿a cuánto subió la estimación cuando el propio Drake revisó los valores en 2004?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿a cuánto subió la estimación cuando el propio Drake revisó los valores en 2004?
 
 - A. A 10 000 civilizaciones
 - B. A 1000 civilizaciones
@@ -1589,7 +1589,7 @@ En 2004, el propio Drake revisó algunos de esos valores y la estimación subió
 
 ### 86
 
-En relación con el libro de Biología, ¿qué masa debe tener un planeta rocoso para considerarse en la zona de habitabilidad?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué masa debe tener un planeta rocoso para considerarse en la zona de habitabilidad?
 
 - A. Una masa comprendida entre 0,6 y 10 masas terrestres
 - B. Una masa comprendida entre 1 y 10 masas terrestres
@@ -1604,7 +1604,7 @@ Este concepto se aplica a la región alrededor de una estrella en la que, de pos
 
 ### 87
 
-De acuerdo con el libro de Biología, ¿cuántos planetas extrasolares se han descrito en los últimos años?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuántos planetas extrasolares se han descrito en los últimos años?
 
 - A. Más de 3600
 - B. Más de 10 000
@@ -1619,7 +1619,7 @@ En los últimos años se han descrito más de 3600 planetas extrasolares, alguno
 
 ### 88
 
-De conformidad con el libro de Biología, ¿cómo se llama el campo interdisciplinario centrado en la búsqueda de vida extraterrestre?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se llama el campo interdisciplinario centrado en la búsqueda de vida extraterrestre?
 
 - A. Exobiología o astrobiología
 - B. Biología evolutiva o filogenia
@@ -1634,7 +1634,7 @@ Estos estudios se enmarcan en un nuevo campo interdisciplinario conocido como ex
 
 ### 89
 
-En relación con el libro de Biología, ¿qué señalan muchos biólogos evolucionistas sobre los organismos extraterrestres?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué señalan muchos biólogos evolucionistas sobre los organismos extraterrestres?
 
 - A. Que si la vida se hubiera originado en otro planeta en forma independiente, no tendrían por qué compartir características y rasgos con los seres vivos terrestres
 - B. Que necesariamente compartirían las características de los seres vivos terrestres
@@ -1653,7 +1653,7 @@ Muchos biólogos evolucionistas señalan que, si esta se hubiera originado y evo
 
 ### 90
 
-De acuerdo con el libro de Biología, ¿qué son capaces de hacer los organismos autótrofos?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué son capaces de hacer los organismos autótrofos?
 
 - A. Sintetizar moléculas orgánicas a partir de materiales inorgánicos simples
 - B. Sintetizar materiales inorgánicos a partir de moléculas orgánicas complejas
@@ -1668,7 +1668,7 @@ En el curso del tiempo, habrían aparecido organismos autótrofos capaces de sin
 
 ### 91
 
-De conformidad con el libro de Biología, ¿qué células tuvieron mayor probabilidad de sobrevivir y reproducirse al disminuir los recursos?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué células tuvieron mayor probabilidad de sobrevivir y reproducirse al disminuir los recursos?
 
 - A. Las que podían usar más eficazmente los recursos que se encontraban limitados
 - B. Las que podían almacenar mayor cantidad de recursos
@@ -1683,7 +1683,7 @@ Las células que podían usar más eficazmente los recursos que se encontraban l
 
 ### 92
 
-En relación con el libro de Biología, ¿qué sugieren algunos hallazgos recientes sobre las primeras células?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué sugieren algunos hallazgos recientes sobre las primeras células?
 
 - A. Que podrían haber sido autotróficas, quimiosintéticas o fotosintéticas antes que heterotróficas
 - B. Que fueron heterotróficas antes que autotróficas, sin excepción
@@ -1706,7 +1706,7 @@ Sin embargo, algunos hallazgos recientes sugieren que las primeras células podr
 
 ### 93
 
-De acuerdo con el libro de Biología, ¿qué afirma la teoría celular sobre la composición de los organismos vivos?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué afirma la teoría celular sobre la composición de los organismos vivos?
 
 - A. Que todos los organismos vivos están compuestos por una o más células
 - B. Que todos los organismos vivos están compuestos por tejidos y órganos
@@ -1721,7 +1721,7 @@ Esta teoría afirma que: Todos los organismos vivos están compuestos por una o 
 
 ### 94
 
-De conformidad con el libro de Biología, según la teoría celular, ¿de dónde se originan las células?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), según la teoría celular, ¿de dónde se originan las células?
 
 - A. De otras células
 - B. De moléculas orgánicas que se autoensamblan
@@ -1736,7 +1736,7 @@ Las células se originan de otras células.
 
 ### 95
 
-En relación con el libro de Biología, según la teoría celular, ¿dónde ocurren las reacciones químicas de un organismo vivo?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), según la teoría celular, ¿dónde ocurren las reacciones químicas de un organismo vivo?
 
 - A. Dentro de las células
 - B. En el medio externo que rodea a las células
@@ -1751,7 +1751,7 @@ Las reacciones químicas de un organismo vivo, incluidos los procesos que libera
 
 ### 96
 
-De acuerdo con el libro de Biología, según la teoría celular, ¿qué contienen las células y cómo se transmite?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), según la teoría celular, ¿qué contienen las células y cómo se transmite?
 
 - A. La información hereditaria que define sus características, que pasa de células progenitoras a células hijas
 - B. La energía solar capturada, que pasa de unas células a otras
@@ -1766,7 +1766,7 @@ Las células contienen la información hereditaria que define sus característic
 
 ### 97
 
-De conformidad con el libro de Biología, ¿cómo se llama el medio interno de la célula donde ocurren las reacciones bioquímicas?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se llama el medio interno de la célula donde ocurren las reacciones bioquímicas?
 
 - A. Citoplasma
 - B. Nucleoide
@@ -1785,7 +1785,7 @@ En este medio interno, llamado citoplasma, ocurren reacciones bioquímicas de tr
 
 ### 98
 
-En relación con el libro de Biología, ¿en qué dos tipos celulares está formado todo ser vivo?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué dos tipos celulares está formado todo ser vivo?
 
 - A. En células procariontes (bacterias y arqueas) y células eucariontes (protistas, plantas, hongos y animales)
 - B. En células procariontes (protistas y hongos) y células eucariontes (bacterias y arqueas)
@@ -1803,7 +1803,7 @@ Todos los seres vivos están formados por alguno de los siguientes tipos celular
 
 ### 99
 
-De acuerdo con el libro de Biología, ¿cuál es la principal diferencia entre ambos tipos celulares?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuál es la principal diferencia entre ambos tipos celulares?
 
 - A. La presencia de estructuras membranosas en su interior, o la ausencia de estas
 - B. La presencia o ausencia de citoplasma
@@ -1818,7 +1818,7 @@ La principal diferencia entre ambos tipos celulares está dada por la presencia 
 
 ### 100
 
-De conformidad con el libro de Biología, ¿qué significan las raíces griegas de la palabra "eucarionte"?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué significan las raíces griegas de la palabra "eucarionte"?
 
 - A. "Eu", verdadero, y "karyon", núcleo
 - B. "Eu", antes, y "karyon", célula
@@ -1837,7 +1837,7 @@ En las células eucariontes (del griego eu, que significa "verdadero", y karyon,
 
 ### 101
 
-En relación con el libro de Biología, ¿dónde se ubica el material genético en las células procariontes?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿dónde se ubica el material genético en las células procariontes?
 
 - A. En una región definida del citoplasma llamada nucleoide, sin membrana que lo delimite
 - B. En un núcleo bien definido, separado por la envoltura nuclear
@@ -1855,7 +1855,7 @@ En las células procariontes, el material genético es una molécula de ADN gran
 
 ### 102
 
-De acuerdo con el libro de Biología, ¿cómo es la molécula de ADN de las células procariontes?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo es la molécula de ADN de las células procariontes?
 
 - A. Grande y circular, con diversas proteínas débilmente asociadas que la enrollan
 - B. Pequeña y lineal, fuertemente unida a la envoltura nuclear
@@ -1870,7 +1870,7 @@ En las células procariontes, el material genético es una molécula de ADN gran
 
 ### 103
 
-De conformidad con el libro de Biología, ¿cómo se llaman las estructuras rodeadas por membranas donde se llevan a cabo muchas funciones en las células eucariontes?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se llaman las estructuras rodeadas por membranas donde se llevan a cabo muchas funciones en las células eucariontes?
 
 - A. Organelas
 - B. Nucleoides
@@ -1885,7 +1885,7 @@ En las células eucariontes, muchas de estas funciones se llevan a cabo en el in
 
 ### 104
 
-En relación con el libro de Biología, ¿cómo se encuentran las moléculas y complejos moleculares en las células procariontes?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se encuentran las moléculas y complejos moleculares en las células procariontes?
 
 - A. Libres en el citoplasma, aunque ciertos procesos ocurren asociados a zonas específicas
 - B. Encerradas en organelas rodeadas por membranas
@@ -1904,7 +1904,7 @@ En las células procariontes, todas las moléculas y complejos moleculares se en
 
 ### 105
 
-De acuerdo con el libro de Biología, ¿cómo se considera el origen de los primeros eucariontes en un mundo de procariontes?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se considera el origen de los primeros eucariontes en un mundo de procariontes?
 
 - A. Una de las transiciones evolutivas principales, sólo precedida en importancia por el origen de la vida
 - B. Una transición menor dentro de la evolución de los procariontes
@@ -1919,7 +1919,7 @@ El origen de los primeros eucariontes en un mundo de procariontes ha sido una de
 
 ### 106
 
-De conformidad con el libro de Biología, según la hipótesis más aceptada, ¿cómo se originaron las organelas eucariontes?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), según la hipótesis más aceptada, ¿cómo se originaron las organelas eucariontes?
 
 - A. Cuando ciertos organismos procariotes se alojaron en el interior de otras células protoeucariontes y dieron lugar a asociaciones simbióticas estables
 - B. Cuando la membrana celular se invaginó hasta formar compartimentos internos
@@ -1934,7 +1934,7 @@ Una hipótesis que actualmente cuenta con un amplio grado de aceptación es que 
 
 ### 107
 
-En relación con el libro de Biología, ¿quién propuso en 1967 la teoría de endosimbiosis en serie?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿quién propuso en 1967 la teoría de endosimbiosis en serie?
 
 - A. La investigadora estadounidense Lynn Margulis
 - B. La investigadora estadounidense Helena Curtis
@@ -1949,7 +1949,7 @@ En 1967, la investigadora estadounidense Lynn Margulis (1938-2011) propuso la te
 
 ### 108
 
-De acuerdo con el libro de Biología, ¿qué significa la raíz "endo" de la teoría de endosimbiosis?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué significa la raíz "endo" de la teoría de endosimbiosis?
 
 - A. "Dentro" o "interno"
 - B. "Antes" o "previo"
@@ -1964,7 +1964,7 @@ La teoría de endosimbiosis en serie (endo significa "dentro" o "interno").
 
 ### 109
 
-De conformidad con el libro de Biología, ¿el origen de qué organelas explica especialmente la teoría de Margulis?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿el origen de qué organelas explica especialmente la teoría de Margulis?
 
 - A. Las mitocondrias y los cloroplastos
 - B. El núcleo y la envoltura nuclear
@@ -1979,7 +1979,7 @@ Lynn Margulis propuso la teoría de endosimbiosis en serie para explicar el orig
 
 ### 110
 
-En relación con el libro de Biología, ¿cómo se habría establecido la membrana nuclear, que la teoría de Margulis no explica?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se habría establecido la membrana nuclear, que la teoría de Margulis no explica?
 
 - A. A partir de una invaginación de la membrana celular
 - B. A partir de un procarionte alojado en el interior de la célula
@@ -1998,7 +1998,7 @@ Esta interpretación no puede extrapolarse al origen de la membrana nuclear, la 
 
 ### 111
 
-De acuerdo con el libro de Biología, ¿a partir de qué diferencias es posible clasificar a los seres vivos en uno de tres dominios?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿a partir de qué diferencias es posible clasificar a los seres vivos en uno de tres dominios?
 
 - A. A partir de diferencias entre las secuencias del ARN ribosómico
 - B. A partir de diferencias entre las secuencias del ADN circular
@@ -2013,7 +2013,7 @@ A partir de diferencias entre las secuencias del ARN ribosómico, es posible cla
 
 ### 112
 
-De conformidad con el libro de Biología, ¿qué constituye el dominio Eukarya?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué constituye el dominio Eukarya?
 
 - A. Todos los organismos formados por células eucariontes
 - B. Todos los organismos formados por células procariontes
@@ -2032,7 +2032,7 @@ Un primer dominio lo constituyen todos los organismos formados por células euca
 
 ### 113
 
-De acuerdo con el libro de Biología, ¿en qué tipos de evidencias se sustenta la teoría endosimbiótica?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué tipos de evidencias se sustenta la teoría endosimbiótica?
 
 - A. Estructurales, bioquímicas y evolutivas
 - B. Estructurales, genéticas y ecológicas
@@ -2047,7 +2047,7 @@ Esta teoría se sustenta en una variedad de evidencias de diversos tipos: estruc
 
 ### 114
 
-De conformidad con el libro de Biología, ¿qué habrían sido las mitocondrias en forma libre, según la teoría endosimbiótica?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué habrían sido las mitocondrias en forma libre, según la teoría endosimbiótica?
 
 - A. Bacterias heterótrofas aeróbicas, capaces de utilizar el oxígeno para obtener energía
 - B. Bacterias autótrofas fotosintéticas, capaces de captar la luz solar
@@ -2062,7 +2062,7 @@ La teoría endosimbiótica propone que las mitocondrias pudieron haber existido 
 
 ### 115
 
-En relación con el libro de Biología, ¿cómo es el ADN propio de las mitocondrias y los cloroplastos?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo es el ADN propio de las mitocondrias y los cloroplastos?
 
 - A. Una única molécula continua o circular, semejante al de las bacterias
 - B. Varias hebras sueltas organizadas en cromosomas, como el ADN nuclear
@@ -2081,7 +2081,7 @@ Tanto las mitocondrias como los cloroplastos poseen un ADN propio, semejante al 
 
 ### 116
 
-De acuerdo con el libro de Biología, ¿a qué se parece la forma de división de las mitocondrias y los cloroplastos?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿a qué se parece la forma de división de las mitocondrias y los cloroplastos?
 
 - A. A la fisión binaria o bipartición de los organismos procariontes
 - B. A la mitosis de las células eucariontes
@@ -2096,7 +2096,7 @@ La forma de división de las organelas tiene un cierto parecido con la fisión b
 
 ### 117
 
-De conformidad con el libro de Biología, ¿cómo se producen las mitocondrias y los cloroplastos?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se producen las mitocondrias y los cloroplastos?
 
 - A. Sólo son producidos por otras mitocondrias y cloroplastos que se dividen dentro del citoplasma
 - B. Son sintetizados de nuevo por el núcleo en cada división celular
@@ -2115,7 +2115,7 @@ Las mitocondrias y los cloroplastos solo son producidos por otras mitocondrias y
 
 ### 118
 
-En relación con el libro de Biología, ¿a quién escribió Darwin, el 26 de septiembre de 1857, manifestando su convicción de que todos los seres vivos provienen de un origen común?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿a quién escribió Darwin, el 26 de septiembre de 1857, manifestando su convicción de que todos los seres vivos provienen de un origen común?
 
 - A. A Huxley
 - B. A Wallace
@@ -2130,7 +2130,7 @@ En la carta escrita a Huxley el 26 de septiembre de 1857, Darwin manifiesta su c
 
 ### 119
 
-De acuerdo con el libro de Biología, ¿en qué obra incluyó Darwin un único esquema que ejemplifica las relaciones de ancestralidad y descendencia?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué obra incluyó Darwin un único esquema que ejemplifica las relaciones de ancestralidad y descendencia?
 
 - A. El origen de las especies por medio de selección natural
 - B. La expresión de las emociones en el hombre y los animales
@@ -2145,7 +2145,7 @@ En su libro El origen de las especies por medio de selección natural, Darwin in
 
 ### 120
 
-De conformidad con el libro de Biología, ¿cómo se ha denominado al ancestro común de todos los seres vivos?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se ha denominado al ancestro común de todos los seres vivos?
 
 - A. Cenancestro, LCA o LUCA
 - B. Protoeucarionte
@@ -2160,7 +2160,7 @@ Los biólogos han tratado de reconstruir la naturaleza del ancestro común de to
 
 ### 121
 
-En relación con el libro de Biología, ¿qué significan las siglas LUCA?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué significan las siglas LUCA?
 
 - A. Last Universal Common Ancestor
 - B. Last Unique Cellular Ancestor
@@ -2178,7 +2178,7 @@ El cenancestro, LCA o LUCA (estos dos últimos por las siglas en inglés Last Co
 
 ### 122
 
-De acuerdo con el libro de Biología, ¿qué caracteres usaron los biólogos para hallar lo común entre un champiñón, un lactobacilo, un elefante, una orquídea y una ameba?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué caracteres usaron los biólogos para hallar lo común entre un champiñón, un lactobacilo, un elefante, una orquídea y una ameba?
 
 - A. Los caracteres moleculares
 - B. Los caracteres morfológicos
@@ -2193,7 +2193,7 @@ Debido a que morfológicamente, a nivel macroscópico, no hay características c
 
 ### 123
 
-De conformidad con el libro de Biología, ¿cuáles son los tres principales grupos biológicos actuales?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuáles son los tres principales grupos biológicos actuales?
 
 - A. Bacteria, Archaea y Eucarya
 - B. Bacteria, Protista y Eucarya
@@ -2208,7 +2208,7 @@ De conformidad con el libro de Biología, ¿cuáles son los tres principales gru
 
 ### 124
 
-En relación con el libro de Biología, ¿mediante el análisis de qué macromoléculas se establecieron las relaciones de parentesco entre esos tres grupos?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿mediante el análisis de qué macromoléculas se establecieron las relaciones de parentesco entre esos tres grupos?
 
 - A. Del ARN que forma parte de los ribosomas
 - B. Del ADN circular de las mitocondrias
@@ -2227,7 +2227,7 @@ Estas relaciones pudieron establecerse mediante la comparación de los datos pro
 
 ### 125
 
-De acuerdo con el libro de Biología, ¿qué tienen todos los eucariontes que prueba que descendemos de la primera célula protoeucarionte?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué tienen todos los eucariontes que prueba que descendemos de la primera célula protoeucarionte?
 
 - A. Todos los eucariontes tenemos mitocondrias
 - B. Todos los eucariontes tenemos cloroplastos
@@ -2242,7 +2242,7 @@ De esta primera célula protoeucarionte resultante descendemos, seguramente, tod
 
 ### 126
 
-De conformidad con el libro de Biología, ¿qué presentan incluso los linajes eucariontes que no tienen mitocondrias?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué presentan incluso los linajes eucariontes que no tienen mitocondrias?
 
 - A. Vestigios genéticos de haberlas tenido
 - B. Cloroplastos que cumplen su función
@@ -2257,7 +2257,7 @@ Incluso los linajes eucariontes que no tienen mitocondrias presentan vestigios g
 
 ### 127
 
-En relación con el libro de Biología, ¿de qué modo pudieron ingresar los ancestros de las mitocondrias y los cloroplastos en la célula hospedadora?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿de qué modo pudieron ingresar los ancestros de las mitocondrias y los cloroplastos en la célula hospedadora?
 
 - A. Ya sea como parásito o como alimento que luego no fue digerido
 - B. Únicamente por invaginación de la membrana celular
@@ -2272,7 +2272,7 @@ Tanto los ancestros de las mitocondrias como los ancestros de los cloroplastos p
 
 ### 128
 
-De acuerdo con el libro de Biología, ¿con qué grupo de bacterias se ha propuesto que las mitocondrias comparten un ancestro común de vida libre?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿con qué grupo de bacterias se ha propuesto que las mitocondrias comparten un ancestro común de vida libre?
 
 - A. Con las Rickettsia
 - B. Con las cianobacterias
@@ -2291,7 +2291,7 @@ Se ha propuesto que las mitocondrias y el grupo de las Rickettsia, un conjunto p
 
 ### 129
 
-De conformidad con el libro de Biología, ¿con qué grupo de bacterias compartía características el ancestro de los plástidos?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿con qué grupo de bacterias compartía características el ancestro de los plástidos?
 
 - A. Con las cianobacterias
 - B. Con las Rickettsia
@@ -2306,7 +2306,7 @@ Para el caso de los plástidos, se ha sugerido que el ancestro común de vida li
 
 ### 130
 
-En relación con el libro de Biología, ¿qué otras dos estructuras propuso Margulis que también surgieron por endosimbiosis, en eventos aún más antiguos?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué otras dos estructuras propuso Margulis que también surgieron por endosimbiosis, en eventos aún más antiguos?
 
 - A. El núcleo celular y las organelas de locomoción (undulipodios o cilios)
 - B. Las mitocondrias y los cloroplastos
@@ -2321,7 +2321,7 @@ Margulis también propuso en su teoría que el núcleo celular y las organelas d
 
 ### 131
 
-De acuerdo con el libro de Biología, ¿por qué la teoría de Margulis se llama de endosimbiosis "en serie"?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿por qué la teoría de Margulis se llama de endosimbiosis "en serie"?
 
 - A. Porque se asume que los eventos endosimbióticos ocurrieron varias veces y en serie, unos después de otros
 - B. Porque las organelas se disponen en serie dentro del citoplasma
@@ -2336,7 +2336,7 @@ La referencia a lo serial de la teoría se debe a que se asume que los eventos e
 
 ### 132
 
-De conformidad con el libro de Biología, ¿qué diferencia hay entre los eventos que originaron mitocondrias y cloroplastos y los que habrían originado el núcleo y el undulipodio?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué diferencia hay entre los eventos que originaron mitocondrias y cloroplastos y los que habrían originado el núcleo y el undulipodio?
 
 - A. Que los que habrían originado el núcleo y el undulipodio no cuentan con evidencia clara y contundente que los confirme
 - B. Que los del núcleo y el undulipodio están plenamente demostrados
@@ -2359,7 +2359,7 @@ Sin embargo, la diferencia es que los eventos hipotéticos que habrían originad
 
 ### 133
 
-De acuerdo con el libro de Biología, ¿cómo son las células de los organismos multicelulares modernos respecto de las de los eucariontes unicelulares?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo son las células de los organismos multicelulares modernos respecto de las de los eucariontes unicelulares?
 
 - A. Muy semejantes: sus membranas plasmáticas son idénticas y sus organelas comparten la misma estructura
 - B. Completamente distintas en membrana y organelas
@@ -2374,7 +2374,7 @@ Las células de los organismos multicelulares modernos son muy semejantes a las 
 
 ### 134
 
-De conformidad con el libro de Biología, ¿qué ocurre con las células en los organismos multicelulares?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué ocurre con las células en los organismos multicelulares?
 
 - A. Se especializan, dando lugar a tipos celulares con funciones específicas, aunque cada una sigue siendo una unidad con mantenimiento autónomo
 - B. Pierden su autonomía y dependen por completo de las células vecinas
@@ -2389,7 +2389,7 @@ En los organismos multicelulares, las células se especializan, dando lugar a ti
 
 ### 135
 
-En relación con el libro de Biología, según el registro fósil, ¿hace cuánto aparecieron los primeros organismos multicelulares eucariontes?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), según el registro fósil, ¿hace cuánto aparecieron los primeros organismos multicelulares eucariontes?
 
 - A. Hace apenas 750 millones de años
 - B. Hace 3500 millones de años
@@ -2408,7 +2408,7 @@ Según el registro fósil, los primeros organismos multicelulares eucariontes ap
 
 ### 136
 
-De acuerdo con el libro de Biología, ¿cuáles son los principales grupos de organismos multicelulares que evolucionaron a partir de eucariontes unicelulares?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuáles son los principales grupos de organismos multicelulares que evolucionaron a partir de eucariontes unicelulares?
 
 - A. Protistas pluricelulares (algas), hongos, plantas y animales
 - B. Bacterias, arqueas, protistas y hongos
@@ -2423,7 +2423,7 @@ Se considera que los principales grupos de estos organismos (protistas pluricelu
 
 ### 137
 
-De conformidad con el libro de Biología, ¿qué permite la organización multicelular que existe en algunos grupos bacterianos, como el género Streptomyces?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué permite la organización multicelular que existe en algunos grupos bacterianos, como el género Streptomyces?
 
 - A. La separación de algunas funciones fundamentales
 - B. La formación de un núcleo verdadero
@@ -2442,7 +2442,7 @@ En algunos grupos bacterianos existe una cierta organización multicelular que p
 
 ### 138
 
-En relación con el libro de Biología, ¿cómo interaccionan con su entorno todos los sistemas biológicos?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo interaccionan con su entorno todos los sistemas biológicos?
 
 - A. A través de intercambios de materia y energía
 - B. Únicamente a través de intercambios de materia
@@ -2457,7 +2457,7 @@ Todos los sistemas biológicos interaccionan con su entorno, esencialmente de la
 
 ### 139
 
-De acuerdo con el libro de Biología, ¿cómo se denominan los sistemas que intercambian materia y energía con su entorno?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se denominan los sistemas que intercambian materia y energía con su entorno?
 
 - A. Sistemas abiertos
 - B. Sistemas cerrados
@@ -2472,7 +2472,7 @@ Por esta razón, decimos que los sistemas biológicos son sistemas abiertos.
 
 ### 140
 
-De conformidad con el libro de Biología, ¿desde qué momento son sistemas abiertos las estructuras resultantes de la evolución prebiótica?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿desde qué momento son sistemas abiertos las estructuras resultantes de la evolución prebiótica?
 
 - A. Desde antes de poder definirse como seres vivos: es una característica que permanece constante a lo largo de la evolución biológica
 - B. Sólo a partir de que se convierten en seres vivos
@@ -2491,7 +2491,7 @@ Estas estructuras resultantes de la evolución prebiótica son sistemas abiertos
 
 ### 141
 
-En relación con el libro de Biología, ¿qué constituye el metabolismo?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué constituye el metabolismo?
 
 - A. El conjunto de reacciones químicas y de transformaciones de energía, incluidas la síntesis y la degradación de moléculas
 - B. Únicamente las reacciones que degradan moléculas para obtener energía
@@ -2506,7 +2506,7 @@ El conjunto de reacciones químicas y de transformaciones de energía, incluidas
 
 ### 142
 
-De acuerdo con el libro de Biología, ¿en qué son "expertos" los organismos vivos?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué son "expertos" los organismos vivos?
 
 - A. En la conversión energética
 - B. En la reproducción celular
@@ -2521,7 +2521,7 @@ Los organismos vivos son "expertos" en la conversión energética.
 
 ### 143
 
-De conformidad con el libro de Biología, ¿cómo se llama el fenómeno que permite a los seres vivos mantener su composición química estable pese a intercambiar materiales con el medio?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se llama el fenómeno que permite a los seres vivos mantener su composición química estable pese a intercambiar materiales con el medio?
 
 - A. Homeostasis
 - B. Metabolismo
@@ -2536,7 +2536,7 @@ A pesar de intercambiar materiales con el medio de manera constante, su composic
 
 ### 144
 
-En relación con el libro de Biología, ¿qué significa que los seres vivos sean homeostáticos?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué significa que los seres vivos sean homeostáticos?
 
 - A. Que "se mantienen relativamente estables"
 - B. Que "se transforman constantemente"
@@ -2551,7 +2551,7 @@ Los seres vivos son homeostáticos, es decir, "se mantienen relativamente establ
 
 ### 145
 
-De acuerdo con el libro de Biología, además de materia y energía, ¿qué más intercambian los seres vivos con el ambiente?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), además de materia y energía, ¿qué más intercambian los seres vivos con el ambiente?
 
 - A. Información: obtienen señales del medio, las procesan y elaboran respuestas
 - B. Únicamente calor con el ambiente que los rodea
@@ -2566,7 +2566,7 @@ Además de intercambiar materia y energía con el ambiente, los seres vivos tamb
 
 ### 146
 
-De conformidad con el libro de Biología, ¿a través de qué es captada la información proveniente del ambiente?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿a través de qué es captada la información proveniente del ambiente?
 
 - A. A través de diversos dispositivos sensoriales
 - B. A través de la membrana plasmática exclusivamente
@@ -2585,7 +2585,7 @@ La información proveniente del ambiente es captada a través de diversos dispos
 
 ### 147
 
-De acuerdo con el libro de Biología, ¿en qué está contenida la información que orienta el desarrollo y el funcionamiento de cada individuo?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué está contenida la información que orienta el desarrollo y el funcionamiento de cada individuo?
 
 - A. En el material genético o ADN
 - B. En las proteínas de la membrana
@@ -2600,7 +2600,7 @@ Esta información, que puede ser análoga a un "manual de instrucciones", es la 
 
 ### 148
 
-De conformidad con el libro de Biología, ¿cómo se llama la capacidad de los seres vivos de producir copias similares a sí mismos y transmitir información a su descendencia?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se llama la capacidad de los seres vivos de producir copias similares a sí mismos y transmitir información a su descendencia?
 
 - A. La autoperpetuación
 - B. La homeostasis
@@ -2615,7 +2615,7 @@ Esta propiedad, la autoperpetuación, es la responsable de que las especies pued
 
 ### 149
 
-En relación con el libro de Biología, ¿qué abarca el desarrollo de un organismo?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué abarca el desarrollo de un organismo?
 
 - A. Todos los cambios que se producen durante la vida de un organismo
 - B. Únicamente el crecimiento en tamaño del organismo
@@ -2630,7 +2630,7 @@ En forma general, el desarrollo abarca todos los cambios que se producen durante
 
 ### 150
 
-De acuerdo con el libro de Biología, ¿a qué hace referencia la autoperpetuación además de la reproducción dentro de una especie?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿a qué hace referencia la autoperpetuación además de la reproducción dentro de una especie?
 
 - A. A la permanencia de la vida a lo largo de miles de millones de años, pese a los cambios ambientales del planeta
 - B. Al mantenimiento de la composición química estable de cada individuo
@@ -2649,7 +2649,7 @@ La autoperpetuación no solo se refiere a la reproducción y la transmisión de 
 
 ### 151
 
-De conformidad con el libro de Biología, ¿en qué se refleja la organización de los seres vivos?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué se refleja la organización de los seres vivos?
 
 - A. En la estructura: el ordenamiento de sus componentes en el espacio, adecuado a las funciones que cumplen
 - B. En el número de reacciones químicas que realizan
@@ -2664,7 +2664,7 @@ La organización se refleja en la estructura: el ordenamiento de sus componentes
 
 ### 152
 
-En relación con el libro de Biología, ¿en qué se manifiesta la complejidad de los seres vivos?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué se manifiesta la complejidad de los seres vivos?
 
 - A. En el número de los componentes y en las interacciones que mantienen entre sí y con el medio
 - B. Únicamente en el número de componentes que los forman
@@ -2679,7 +2679,7 @@ La complejidad, por su parte, se manifiesta tanto en el número de los component
 
 ### 153
 
-De acuerdo con el libro de Biología, ¿cuál es el nivel de organización más simple de la materia?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuál es el nivel de organización más simple de la materia?
 
 - A. El subatómico
 - B. El atómico
@@ -2694,7 +2694,7 @@ El nivel de organización más simple de la materia es el subatómico.
 
 ### 154
 
-De conformidad con el libro de Biología, ¿qué partículas se encuentran en el nivel subatómico?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué partículas se encuentran en el nivel subatómico?
 
 - A. Los protones, los neutrones y los electrones
 - B. Los átomos y las moléculas
@@ -2709,7 +2709,7 @@ En este nivel se encuentran principalmente los protones, los neutrones y los ele
 
 ### 155
 
-En relación con el libro de Biología, ¿qué se forma cuando los átomos individuales se asocian entre sí?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué se forma cuando los átomos individuales se asocian entre sí?
 
 - A. Moléculas
 - B. Macromoléculas
@@ -2728,7 +2728,7 @@ En un siguiente nivel, los átomos individuales forman moléculas.
 
 ### 156
 
-De acuerdo con el libro de Biología, ¿a qué nivel de organización hay que recurrir para hallar mayor complejidad que el macromolecular?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿a qué nivel de organización hay que recurrir para hallar mayor complejidad que el macromolecular?
 
 - A. A los seres vivos, con el nivel celular
 - B. Al nivel atómico
@@ -2746,7 +2746,7 @@ Si queremos identificar en la naturaleza un nivel de organización de mayor comp
 
 ### 157
 
-De conformidad con el libro de Biología, ¿qué establece la célula como concepto de gran importancia en biología?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué establece la célula como concepto de gran importancia en biología?
 
 - A. La célula como unidad de todos los organismos vivos, que están compuestos por una o más células
 - B. La célula como el nivel de organización más simple de la materia
@@ -2765,7 +2765,7 @@ Como establece la teoría celular, todos los organismos vivos están compuestos 
 
 ### 158
 
-De acuerdo con el libro de Biología, ¿por qué no basta con las leyes de la física y la química para comprender el nivel celular?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿por qué no basta con las leyes de la física y la química para comprender el nivel celular?
 
 - A. Porque cada nivel de organización tiene propiedades específicas que no son equivalentes a la suma de las propiedades de los niveles inferiores
 - B. Porque las células no están constituidas por los mismos componentes que la materia no viva
@@ -2784,7 +2784,7 @@ Cada nivel de organización se caracteriza por propiedades específicas que no s
 
 ### 159
 
-De conformidad con el libro de Biología, ¿con qué componentes químicos están constituidas las células?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿con qué componentes químicos están constituidas las células?
 
 - A. Con los mismos componentes químicos que forman la materia no viva
 - B. Con componentes químicos exclusivos de los seres vivos
@@ -2799,7 +2799,7 @@ Las células están constituidas por los mismos componentes químicos que forman
 
 ### 160
 
-En relación con el libro de Biología, ¿por qué se explican las propiedades de una proteína?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿por qué se explican las propiedades de una proteína?
 
 - A. Por el ordenamiento específico de los aminoácidos y por sus interacciones particulares
 - B. Únicamente por el número total de aminoácidos que la forman
@@ -2818,7 +2818,7 @@ Las propiedades de las proteínas, que corresponden a un nivel macromolecular, s
 
 ### 161
 
-De acuerdo con el libro de Biología, ¿a qué dio lugar el pasaje de la unicelularidad a la multicelularidad?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿a qué dio lugar el pasaje de la unicelularidad a la multicelularidad?
 
 - A. A la especialización de las funciones
 - B. A la desaparición de las organelas
@@ -2833,7 +2833,7 @@ El pasaje de la unicelularidad a la multicelularidad representó un hecho de gra
 
 ### 162
 
-De conformidad con el libro de Biología, ¿qué constituye la asociación de células individuales que se especializan en determinadas funciones?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué constituye la asociación de células individuales que se especializan en determinadas funciones?
 
 - A. Los tejidos, como el epitelial, el conectivo y el nervioso
 - B. Los órganos, como el hígado y el cerebro
@@ -2848,7 +2848,7 @@ Las células individuales pueden asociarse, interactuar y especializarse en dete
 
 ### 163
 
-En relación con el libro de Biología, ¿qué se forma cuando distintos tejidos se asocian e interactúan?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué se forma cuando distintos tejidos se asocian e interactúan?
 
 - A. Los órganos, como el hígado, el tracto intestinal o el cerebro humano
 - B. Los tejidos, como el epitelial y el conectivo
@@ -2866,7 +2866,7 @@ Distintos tejidos se asocian e interactúan, formando estructuras aún más comp
 
 ### 164
 
-De acuerdo con el libro de Biología, ¿cuál es el nivel de organización más complejo que se puede encontrar en un organismo individual?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuál es el nivel de organización más complejo que se puede encontrar en un organismo individual?
 
 - A. La asociación entre órganos que interactúan cumpliendo funciones específicas, como la digestión o la reproducción
 - B. El tejido especializado en una función
@@ -2885,7 +2885,7 @@ Se puede distinguir, incluso, una nueva asociación entre órganos que interact�
 
 ### 165
 
-De conformidad con el libro de Biología, ¿qué sistema de organización constituyen los organismos al interactuar unos con otros?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué sistema de organización constituyen los organismos al interactuar unos con otros?
 
 - A. Las poblaciones
 - B. Las comunidades
@@ -2900,7 +2900,7 @@ Los organismos interactúan unos con otros y estas interacciones dan lugar a un 
 
 ### 166
 
-En relación con el libro de Biología, ¿qué constituyen las poblaciones al interactuar con otras poblaciones?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué constituyen las poblaciones al interactuar con otras poblaciones?
 
 - A. Las comunidades
 - B. Los ecosistemas
@@ -2915,7 +2915,7 @@ A su vez, al interactuar con otras poblaciones constituyen las comunidades.
 
 ### 167
 
-De acuerdo con el libro de Biología, ¿qué nuevo sistema se delimita al analizar las diversas comunidades en interacción con el ambiente?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué nuevo sistema se delimita al analizar las diversas comunidades en interacción con el ambiente?
 
 - A. El ecosistema
 - B. La población
@@ -2930,7 +2930,7 @@ Cuando se analizan las diversas comunidades en interacción con el ambiente es p
 
 ### 168
 
-De conformidad con el libro de Biología, ¿cuál es el último nivel de organización, que abarca a escala planetaria toda la diversidad de seres vivos y sus interacciones con el ambiente físico?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuál es el último nivel de organización, que abarca a escala planetaria toda la diversidad de seres vivos y sus interacciones con el ambiente físico?
 
 - A. La biosfera
 - B. El ecosistema
@@ -2953,7 +2953,7 @@ Si analizamos a escala planetaria la gran diversidad de plantas, animales y micr
 
 ### 169
 
-En relación con el libro de Biología, ¿qué comparten todos los seres vivos que permite diferenciarlos de lo no vivo?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué comparten todos los seres vivos que permite diferenciarlos de lo no vivo?
 
 - A. Una historia evolutiva que se refleja en cada una de sus características
 - B. Un mismo número de niveles de organización
@@ -2968,7 +2968,7 @@ Si hay algo que todos los seres vivos comparten es una historia evolutiva que se
 
 ### 170
 
-De acuerdo con el libro de Biología, ¿de qué es consecuencia tanto la unidad como la diversidad de los seres vivos?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿de qué es consecuencia tanto la unidad como la diversidad de los seres vivos?
 
 - A. Del mismo proceso evolutivo
 - B. De la homeostasis
@@ -2987,7 +2987,7 @@ A pesar de estas características comunes, existe una enorme diversidad entre el
 
 ### 171
 
-De conformidad con el libro de Biología, ¿con cuántas especies de organismos diferentes compartimos el planeta?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿con cuántas especies de organismos diferentes compartimos el planeta?
 
 - A. Con más de 20 millones de especies
 - B. Con más de 2 millones de especies
@@ -3008,7 +3008,7 @@ Compartimos nuestro planeta con más de 20 millones de especies de organismos di
 
 ### 172
 
-De acuerdo con el libro de Biología, ¿a fines de qué década surge la teoría celular?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿a fines de qué década surge la teoría celular?
 
 - A. A fines de 1830
 - B. A fines de 1850
@@ -3023,7 +3023,7 @@ La teoría celular surge a fines de 1830 y fue propuesta por Mathias Jacob Schle
 
 ### 173
 
-De conformidad con el libro de Biología, ¿quiénes propusieron la teoría celular?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿quiénes propusieron la teoría celular?
 
 - A. Mathias Jacob Schleiden y Theodor Schwann
 - B. Rudolf Virchow y Theodor Schwann
@@ -3038,7 +3038,7 @@ La teoría celular surge a fines de 1830 y fue propuesta por Mathias Jacob Schle
 
 ### 174
 
-En relación con el libro de Biología, ¿a qué conclusión llegó Schleiden a partir del estudio sistemático de las plantas?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿a qué conclusión llegó Schleiden a partir del estudio sistemático de las plantas?
 
 - A. A que la célula era la unidad fundamental y última de los vegetales que posee características biológicas
 - B. A que la célula sólo surge de células preexistentes
@@ -3057,7 +3057,7 @@ El primero, a partir del estudio sistemático de las plantas, llegó a la conclu
 
 ### 175
 
-De acuerdo con el libro de Biología, ¿qué desafío asumió Schwann?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué desafío asumió Schwann?
 
 - A. Encontrar en el mundo animal la misma unidad que Schleiden proponía para las plantas
 - B. Demostrar que las células sólo surgen de células preexistentes
@@ -3072,7 +3072,7 @@ Por su parte, Schwann asumió el desafío de encontrar en el mundo animal esa mi
 
 ### 176
 
-De conformidad con el libro de Biología, ¿cuál fue el postulado que enunció Schwann?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuál fue el postulado que enunció Schwann?
 
 - A. "Todos los seres vivos, plantas o animales, consisten ya sea en células o en sustancias segregadas por células"
 - B. "Donde existe una célula debe haber habido una célula preexistente"
@@ -3087,7 +3087,7 @@ Luego de analizar una enorme variedad de tejidos animales, enuncia su postulado:
 
 ### 177
 
-En relación con el libro de Biología, ¿a qué ideas asestó un duro golpe la formulación de Schwann?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿a qué ideas asestó un duro golpe la formulación de Schwann?
 
 - A. A las ideas vitalistas que identificaban a los seres vivos como un todo continuo
 - B. A las ideas que proponían que las células surgen de células preexistentes
@@ -3102,7 +3102,7 @@ Schwann impone un duro golpe a las ideas vitalistas que identificaban a los sere
 
 ### 178
 
-De acuerdo con el libro de Biología, ¿qué generalizó el patólogo Rudolf Virchow en 1858?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué generalizó el patólogo Rudolf Virchow en 1858?
 
 - A. Que las células sólo pueden surgir de células preexistentes
 - B. Que la célula es la unidad fundamental de los vegetales
@@ -3117,7 +3117,7 @@ En 1858, la idea de que todos los organismos vivos estaban compuestos por una o 
 
 ### 179
 
-De conformidad con el libro de Biología, ¿cómo expresó Virchow su generalización?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo expresó Virchow su generalización?
 
 - A. "Donde existe una célula debe haber habido una célula preexistente, así como un animal se origina solamente de un animal y una planta se origina solo de una planta"
 - B. "Todos los seres vivos consisten en células o en sustancias segregadas por células"
@@ -3132,7 +3132,7 @@ Virchow generalizó que las células solo pueden surgir de células preexistente
 
 ### 180
 
-En relación con el libro de Biología, ¿para qué tejido animal no se había podido comprobar, a principios del siglo XX, que su estructura estuviera formada de células?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿para qué tejido animal no se había podido comprobar, a principios del siglo XX, que su estructura estuviera formada de células?
 
 - A. El tejido nervioso
 - B. El tejido epitelial
@@ -3147,7 +3147,7 @@ Todavía a principios del siglo XX había un tejido animal para el cual no se ha
 
 ### 181
 
-De acuerdo con el libro de Biología, ¿qué planteaba la teoría reticular sobre los nervios?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué planteaba la teoría reticular sobre los nervios?
 
 - A. Que los nervios estaban conformados por un cordón continuo e indiferenciado
 - B. Que los nervios estaban conformados por células independientes, aunque enlazadas
@@ -3166,7 +3166,7 @@ Competían dos hipótesis por lograr una explicación: la teoría reticular, que
 
 ### 182
 
-De conformidad con el libro de Biología, ¿qué proponía la teoría de la neurona?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué proponía la teoría de la neurona?
 
 - A. Que toda la estructura del tejido nervioso estaba conformada por células independientes, aunque enlazadas, a lo largo de las fibras nerviosas
 - B. Que el tejido nervioso era un cordón continuo e indiferenciado
@@ -3181,7 +3181,7 @@ La teoría de la neurona, que proponía que toda la estructura estaba conformada
 
 ### 183
 
-En relación con el libro de Biología, ¿quién logró teñir por primera vez una muestra de tejido nervioso y demostró que estaba compuesto por neuronas?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿quién logró teñir por primera vez una muestra de tejido nervioso y demostró que estaba compuesto por neuronas?
 
 - A. El médico y microscopista español Santiago Ramón y Cajal
 - B. El médico italiano Camilo Golgi
@@ -3196,7 +3196,7 @@ El médico y microscopista español Santiago Ramón y Cajal (1852-1934) logró t
 
 ### 184
 
-De acuerdo con el libro de Biología, ¿quién desarrolló el método de sales de plata que empleó Ramón y Cajal?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿quién desarrolló el método de sales de plata que empleó Ramón y Cajal?
 
 - A. El médico italiano Camilo Golgi
 - B. El patólogo alemán Rudolf Virchow
@@ -3221,7 +3221,7 @@ Empleando el método de sales de plata desarrollado por el médico italiano Cami
 
 ### 185
 
-De acuerdo con el libro de Biología, ¿qué creía la mayoría de los naturalistas durante varios siglos sobre algunos seres vivos?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué creía la mayoría de los naturalistas durante varios siglos sobre algunos seres vivos?
 
 - A. Que gusanos, insectos, ranas y salamandras podían originarse repentinamente a partir de lodo y materia orgánica en descomposición
 - B. Que todos los seres vivos provenían de un único ancestro común
@@ -3236,7 +3236,7 @@ Durante varios siglos, la mayoría de los naturalistas creía que algunos seres 
 
 ### 186
 
-De conformidad con el libro de Biología, ¿quién llevó a cabo un famoso experimento buscando evidencias que discutieran la generación espontánea?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿quién llevó a cabo un famoso experimento buscando evidencias que discutieran la generación espontánea?
 
 - A. El médico y naturalista italiano Francesco Redi
 - B. El naturalista inglés John Needham
@@ -3251,7 +3251,7 @@ Entre aquellos que se oponían a estas explicaciones se encontraba el médico y 
 
 ### 187
 
-En relación con el libro de Biología, ¿qué mostró el experimento de Redi con la carne en descomposición?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué mostró el experimento de Redi con la carne en descomposición?
 
 - A. Que los gusanos sólo aparecían en la carne contenida en los frascos abiertos
 - B. Que los gusanos aparecían por igual en los frascos abiertos y en los tapados
@@ -3266,7 +3266,7 @@ Los resultados de dichos experimentos mostraron que los gusanos –que supuestam
 
 ### 188
 
-De acuerdo con el libro de Biología, ¿qué reavivó la creencia en la generación espontánea, ahora referida a los microorganismos?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué reavivó la creencia en la generación espontánea, ahora referida a los microorganismos?
 
 - A. El advenimiento de la microscopia en el siglo XVIII y el descubrimiento del "mundo microscópico"
 - B. El experimento de Redi con la carne en descomposición
@@ -3281,7 +3281,7 @@ Más tarde, el advenimiento de la microscopia en el siglo XVIII y el consiguient
 
 ### 189
 
-De conformidad con el libro de Biología, ¿qué célebre disputa sostuvieron John Needham y Lazzaro Spallanzani?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué célebre disputa sostuvieron John Needham y Lazzaro Spallanzani?
 
 - A. Una disputa acerca del origen de los microorganismos en caldos de cultivo
 - B. Una disputa acerca de si el tejido nervioso estaba formado por células
@@ -3296,7 +3296,7 @@ John Needham (1713-1781), un naturalista inglés, y el investigador italiano Laz
 
 ### 190
 
-En relación con el libro de Biología, ¿a qué atribuía Needham la presencia de microorganismos en los caldos?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿a qué atribuía Needham la presencia de microorganismos en los caldos?
 
 - A. A una "fuerza vital" que provocaba que la materia inorgánica se combinara formando los microorganismos de manera espontánea
 - B. Al ingreso de aire contaminado con gérmenes
@@ -3315,7 +3315,7 @@ Needham atribuía dicha presencia a una "fuerza vital" que provocaba que la mate
 
 ### 191
 
-De acuerdo con el libro de Biología, ¿qué demostró Spallanzani con sus experimentos?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué demostró Spallanzani con sus experimentos?
 
 - A. Que en los frascos sellados y hervidos no se observaban microorganismos
 - B. Que en los frascos sellados aparecían más microorganismos que en los abiertos
@@ -3330,7 +3330,7 @@ Spallanzani, contrario a la teoría de la generación espontánea, realizó expe
 
 ### 192
 
-De conformidad con el libro de Biología, ¿cómo objetó Needham los experimentos de Spallanzani?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo objetó Needham los experimentos de Spallanzani?
 
 - A. Argumentando que sus procedimientos habrían destruido la "fuerza vital"
 - B. Argumentando que no había hervido el contenido el tiempo suficiente
@@ -3345,7 +3345,7 @@ Needham, sin embargo, objetó a Spallanzani, argumentando que sus procedimientos
 
 ### 193
 
-En relación con el libro de Biología, ¿en qué año y quién ideó nuevos experimentos que refutaron definitivamente la generación espontánea?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿en qué año y quién ideó nuevos experimentos que refutaron definitivamente la generación espontánea?
 
 - A. En 1864, Louis Pasteur
 - B. En 1858, Rudolf Virchow
@@ -3360,7 +3360,7 @@ En 1864, el químico y bacteriólogo francés Louis Pasteur (1822-1895) ideó nu
 
 ### 194
 
-De acuerdo con el libro de Biología, ¿qué recipientes fabricó Pasteur para sus experimentos?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué recipientes fabricó Pasteur para sus experimentos?
 
 - A. Los matraces con cuello de cisne, que evitaban la contaminación de su contenido
 - B. Los frascos de boca ancha, algunos tapados y otros abiertos
@@ -3379,7 +3379,7 @@ Pasteur fabricó unos recipientes muy ingeniosos para sus experimentos, los matr
 
 ### 195
 
-De conformidad con el libro de Biología, ¿cuánto tiempo después de que Pasteur refutara la generación espontánea proporcionaron Oparin y Haldane un marco teórico para el origen de la vida?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cuánto tiempo después de que Pasteur refutara la generación espontánea proporcionaron Oparin y Haldane un marco teórico para el origen de la vida?
 
 - A. Recién 50 años más tarde
 - B. Recién 20 años más tarde
@@ -3400,7 +3400,7 @@ Recién 50 años más tarde, Oparin y Haldane proporcionaron un marco teórico p
 
 ### 196
 
-En relación con el libro de Biología, ¿qué sostenía la escuela mecanicista sobre el cuerpo de los organismos?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué sostenía la escuela mecanicista sobre el cuerpo de los organismos?
 
 - A. Que trabaja esencialmente como una máquina: los brazos y las piernas como palancas, el corazón como una bomba, los pulmones como fuelles y el estómago como un mortero
 - B. Que posee un "espíritu vital" que lo capacita para actividades únicas
@@ -3415,7 +3415,7 @@ Una de ellas, formulada por la escuela mecanicista, sostenía que el cuerpo de l
 
 ### 197
 
-De acuerdo con el libro de Biología, ¿qué filósofo fue un destacado defensor del punto de vista mecanicista?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué filósofo fue un destacado defensor del punto de vista mecanicista?
 
 - A. El filósofo francés René Descartes
 - B. El químico y biólogo francés Louis Pasteur
@@ -3430,7 +3430,7 @@ El filósofo francés René Descartes (1596-1650) fue un destacado defensor de e
 
 ### 198
 
-De conformidad con el libro de Biología, ¿cómo se conoció la concepción de que los sistemas vivos poseen un "espíritu vital" que los capacita para actividades que sólo ellos pueden llevar a cabo?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿cómo se conoció la concepción de que los sistemas vivos poseen un "espíritu vital" que los capacita para actividades que sólo ellos pueden llevar a cabo?
 
 - A. Vitalismo
 - B. Mecanicismo
@@ -3449,7 +3449,7 @@ Muchos biólogos prominentes creían que los sistemas vivos eran esencialmente d
 
 ### 199
 
-En relación con el libro de Biología, ¿quién era el principal exponente del vitalismo en el siglo XIX?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿quién era el principal exponente del vitalismo en el siglo XIX?
 
 - A. El químico y biólogo francés Louis Pasteur
 - B. El filósofo francés René Descartes
@@ -3468,7 +3468,7 @@ En el siglo XIX, el principal exponente del vitalismo era el químico y biólogo
 
 ### 200
 
-De acuerdo con el libro de Biología, ¿qué demostraron los químicos alemanes Edward y Hans Buchner en 1898?
+De acuerdo con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué demostraron los químicos alemanes Edward y Hans Buchner en 1898?
 
 - A. Que una sustancia extraída de las levaduras podía producir fermentación fuera de la célula viva
 - B. Que los microorganismos surgían del aire contaminado
@@ -3483,7 +3483,7 @@ En 1898, los químicos alemanes Edward y Hans Buchner demostraron que una sustan
 
 ### 201
 
-De conformidad con el libro de Biología, ¿de qué palabra griega deriva el nombre "enzima" y qué significa?
+De conformidad con el libro de Biología, capítulo 3 (Origen de la vida), ¿de qué palabra griega deriva el nombre "enzima" y qué significa?
 
 - A. De zyme, que significa "levadura" o "fermento"
 - B. De karyon, que significa "núcleo"
@@ -3498,7 +3498,7 @@ A esta sustancia se le dio el nombre de enzima, derivada del griego zyme, que si
 
 ### 202
 
-En relación con el libro de Biología, ¿qué demostró el experimento de los Buchner respecto de la fermentación?
+En relación con el libro de Biología, capítulo 3 (Origen de la vida), ¿qué demostró el experimento de los Buchner respecto de la fermentación?
 
 - A. Que una reacción hasta entonces considerada "vital" era sólo una reacción química, con lo que la discusión sobre el vitalismo finalmente se dejó de lado
 - B. Que la fermentación sólo podía ocurrir dentro de células vivas
