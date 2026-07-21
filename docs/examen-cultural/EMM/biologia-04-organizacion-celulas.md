@@ -30,7 +30,7 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63 y 66 a 68**:
+Cubiertas las páginas impresas **61 a 63 y 66 a 70**:
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -44,6 +44,8 @@ Cubiertas las páginas impresas **61 a 63 y 66 a 68**:
   (laminilla media, primaria, secundaria), la lignina y lo que halló Hooke.
 - El descubrimiento del núcleo: los citoblastos de Schleiden, Hertwig y la
   fecundación del erizo de mar, y Flemming con la cromatina y los cromosomas.
+- La mitosis; el experimento de la ameba sin núcleo; y el clásico de Hämmerling
+  con Acetabularia, que probó que el núcleo dirige la forma del sombrero.
 
 **Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
 4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
@@ -908,4 +910,170 @@ Durante la división celular, describió "la danza de los cromosomas", es decir,
 
 ---
 
-**Reactivos en este archivo:** 50
+## Sub-lote 12 · La mitosis y el papel del núcleo (recuadro 4-2, p. 69)
+
+### 51
+
+De acuerdo con el libro de Biología, ¿cuánta cromatina posee cada célula hija tras la división, según las conclusiones de Flemming?
+
+- A. La misma cantidad que la célula madre, como consecuencia de la duplicación de cromosomas previa a la división
+- B. La mitad de la cantidad que la célula madre
+- C. El doble de la cantidad que la célula madre
+- D. Una cantidad variable, distinta en cada célula hija
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 69
+**Subtema:** Organización de las células · mitosis
+
+Cada una de estas células hijas posee la misma cantidad de cromatina que la célula madre, como consecuencia de la duplicación de cromosomas previa a la división.
+
+### 52
+
+De conformidad con el libro de Biología, ¿cómo se denomina el proceso de división descrito por Flemming?
+
+- A. Mitosis
+- B. Fecundación
+- C. Fisión binaria
+- D. Regeneración
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 69
+**Subtema:** Organización de las células · mitosis
+
+Este proceso se denomina mitosis.
+
+### 53
+
+En relación con el libro de Biología, ¿qué le ocurrió a la ameba a la que se le eliminó el núcleo por microcirugía?
+
+- A. Dejó de dividirse y en pocos días murió
+- B. Continuó dividiéndose normalmente
+- C. Regeneró su núcleo en 24 horas
+- D. Se transformó en otra especie
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 69
+**Subtema:** Organización de las células · papel del núcleo
+
+En un experimento simple se eliminó por microcirugía el núcleo de un organismo unicelular eucarionte, una ameba, la cual dejó de dividirse y en pocos días murió.
+
+### 54
+
+De acuerdo con el libro de Biología, ¿qué ocurría si en las 24 horas siguientes se le implantaba a la ameba el núcleo de otra ameba?
+
+- A. La célula sobrevivía y podía dividirse normalmente
+- B. La célula moría de inmediato
+- C. La célula se dividía pero las hijas carecían de núcleo
+- D. La célula se transformaba en dos organismos distintos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 69
+**Subtema:** Organización de las células · papel del núcleo
+
+Si en el transcurso de las 24 horas siguientes a la eliminación del núcleo original se le implantaba el de otra ameba, la célula sobrevivía y podía dividirse normalmente.
+
+---
+
+## Sub-lote 13 · El experimento de Hämmerling con Acetabularia (recuadro 4-2, pp. 69–70)
+
+### 55
+
+De conformidad con el libro de Biología, ¿qué citólogo alemán estudió las funciones del núcleo y del citoplasma aprovechando el alga Acetabularia?
+
+- A. Joachim Hämmerling
+- B. Walter Flemming
+- C. Oscar Hertwig
+- D. Theodor Schwann
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 69
+**Subtema:** Organización de las células · experimento de Hämmerling
+
+En los primeros años de la década de 1930, el citólogo alemán Joachim Hämmerling (1901-1980) estudió las funciones del núcleo y del citoplasma en forma comparada, aprovechando ciertas propiedades inusuales del alga marina Acetabularia.
+
+### 56
+
+En relación con el libro de Biología, ¿cómo es el cuerpo del alga Acetabularia?
+
+- A. Está formado por una única célula gigante de 2 a 5 centímetros de largo, con un "sombrero", un "pedicelo" y un "pie"
+- B. Está formado por miles de células pequeñas organizadas en tejidos
+- C. Está formado por dos células, una con núcleo y otra sin él
+- D. Está formado por una colonia de células idénticas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 69
+**Subtema:** Organización de las células · experimento de Hämmerling
+
+El cuerpo de Acetabularia está formado por una única célula gigante de 2 a 5 centímetros de largo, en la que se pueden distinguir porciones diferenciadas: un "sombrero", un "pedicelo" y un "pie".
+
+### 57
+
+De acuerdo con el libro de Biología, ¿en qué porción de la Acetabularia está contenido el núcleo?
+
+- A. En la porción llamada "pie"
+- B. En la porción llamada "sombrero"
+- C. En la porción llamada "pedicelo"
+- D. Repartido por toda la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 69
+**Subtema:** Organización de las células · experimento de Hämmerling
+
+El núcleo de la célula está contenido en la porción llamada "pie".
+
+### 58
+
+De conformidad con el libro de Biología, ¿cómo interpretó Hämmerling el hecho de que un sombrero seccionado se regenerara?
+
+- A. Como indicio de que el núcleo dirige la producción de ciertas sustancias determinantes del sombrero, que se acumulan en el citoplasma
+- B. Como indicio de que el sombrero se regenera de forma independiente del núcleo
+- C. Como indicio de que el citoplasma contiene el material hereditario
+- D. Como indicio de que el pie se transforma en un nuevo sombrero
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 69
+**Subtema:** Organización de las células · experimento de Hämmerling
+
+Hämmerling interpretó estos resultados como indicio de que el núcleo dirige la producción de ciertas sustancias determinantes del sombrero y que estas se acumulan en el citoplasma.
+
+### 59
+
+En relación con el libro de Biología, tras trasplantar un núcleo de la otra especie a una célula sin sombrero, ¿qué tipo de sombrero formaba poco después del trasplante?
+
+- A. Un sombrero de tipo intermedio
+- B. Un sombrero idéntico al del núcleo trasplantado
+- C. Un sombrero idéntico al de la célula original
+- D. Ningún sombrero
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 69
+**Subtema:** Organización de las células · experimento de Hämmerling
+
+Luego de trasplantar un núcleo de la otra especie a una célula a la que se le había seccionado el sombrero, poco después del trasplante nuclear formaba un sombrero de tipo intermedio.
+
+> El sombrero intermedio se explica porque en el citoplasma quedaban aún
+> sustancias del núcleo **anterior**, mezcladas con las del núcleo **nuevo**. Es
+> el paso clave del experimento.
+
+### 60
+
+De acuerdo con el libro de Biología, al formarse el segundo sombrero tras extirpar el "híbrido", ¿bajo el control de qué quedaba por completo su forma?
+
+- A. Bajo el control del nuevo núcleo trasplantado, proveniente de la otra especie
+- B. Bajo el control del núcleo original, ya extirpado
+- C. Bajo el control del citoplasma, independiente del núcleo
+- D. Bajo el control conjunto de ambos núcleos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 70
+**Subtema:** Organización de las células · experimento de Hämmerling
+
+Las sustancias determinantes de la forma del "sombrero", remanentes del núcleo anterior y presentes en el citoplasma antes del trasplante, se habían agotado. De este modo, la forma del sombrero estaba por completo bajo el control del nuevo núcleo trasplantado proveniente de la otra especie.
+
+> La conclusión del experimento: el **núcleo** manda sobre la forma. El primer
+> sombrero salió intermedio por las sustancias viejas del citoplasma; el segundo,
+> agotadas esas sustancias, ya fue puro del núcleo nuevo.
+
+---
+
+**Reactivos en este archivo:** 60
