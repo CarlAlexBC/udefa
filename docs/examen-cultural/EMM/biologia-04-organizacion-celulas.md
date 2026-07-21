@@ -30,7 +30,7 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63**:
+Cubiertas las páginas impresas **61 a 63 y 66**:
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -39,6 +39,13 @@ Cubiertas las páginas impresas **61 a 63**:
 - Los límites de la célula: la membrana plasmática y la ventaja de compartimentar.
 - Los componentes de una célula eucarionte: membrana, citoplasma, citosol y
   núcleo.
+- La matriz extracelular: qué es, de qué está formada y su papel en tejidos.
+- La pared celular como distintivo de las células vegetales.
+
+**Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
+4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
+imagen, cuyo texto además sale cifrado en la extracción (etiquetas de figura, no
+prosa). No hay teoría citable que se pierda.
 
 **No se repite la teoría celular.** El capítulo 4 vuelve a exponer a Schleiden y
 Schwann (p. 61), pero eso ya está cubierto a fondo en el ensayo 3-1 del capítulo
@@ -461,4 +468,121 @@ La mayor parte del ácido desoxirribonucleico (ADN) se mantiene en un compartime
 
 ---
 
-**Reactivos en este archivo:** 24
+## Sub-lote 6 · La matriz extracelular (p. 66)
+
+### 25
+
+De acuerdo con el libro de Biología, ¿qué ocupa el espacio extracelular que rodea a las células en los organismos pluricelulares?
+
+- A. La matriz extracelular, que proporciona a las células un ambiente particular
+- B. El citosol, que baña a las células vecinas
+- C. La pared celular, común a todas las células
+- D. La membrana plasmática de las células vecinas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 66
+**Subtema:** Organización de las células · matriz extracelular
+
+En los organismos pluricelulares, las células se encuentran rodeadas por el espacio extracelular. Este espacio está ocupado por la matriz extracelular, que proporciona a las células un ambiente particular.
+
+### 26
+
+De conformidad con el libro de Biología, ¿por qué está formada la matriz extracelular?
+
+- A. Por proteínas fibrosas y por la sustancia fundamental, constituida principalmente por proteínas e hidratos de carbono
+- B. Por una bicapa de lípidos y proteínas de membrana
+- C. Por celulosa rígida y porosa
+- D. Por una solución de sales cuyo solvente es el agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 66
+**Subtema:** Organización de las células · matriz extracelular
+
+La matriz está formada por proteínas fibrosas y por la sustancia fundamental, constituida principalmente por proteínas e hidratos de carbono asociados en distintas combinaciones.
+
+### 27
+
+En relación con el libro de Biología, ¿qué favorece la interacción de las células con las proteínas y los hidratos de carbono de la matriz extracelular?
+
+- A. La adhesión entre células
+- B. La rigidez de la pared celular
+- C. La formación de la membrana nuclear
+- D. La difusión de sustancias por el citosol
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 66
+**Subtema:** Organización de las células · matriz extracelular
+
+Las células, a través de estos últimos y las proteínas de sus membranas, interactúan con las proteínas y los hidratos de carbono de la matriz extracelular, lo que favorece así la adhesión entre células.
+
+### 28
+
+De acuerdo con el libro de Biología, ¿qué papel fundamental cumple la matriz extracelular en el desarrollo de tejidos y órganos?
+
+- A. A través de ella se transmiten señales que influyen en el crecimiento y la reproducción celular
+- B. A través de ella se realiza la fotosíntesis
+- C. A través de ella se mantiene la forma rígida de la célula
+- D. A través de ella se almacena el material genético
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 66
+**Subtema:** Organización de las células · matriz extracelular
+
+La matriz, además, cumple un papel fundamental en el desarrollo de tejidos y órganos, ya que a través de ella se transmiten señales que influyen en el crecimiento y la reproducción celular.
+
+### 29
+
+De conformidad con el libro de Biología, ¿qué permiten las proteínas de membrana capaces de establecer contactos con células semejantes?
+
+- A. La adhesión de las células entre sí y la consiguiente formación de un tejido específico
+- B. La difusión de nutrientes por el citosol
+- C. La síntesis de la matriz extracelular
+- D. La separación del núcleo respecto del citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 66
+**Subtema:** Organización de las células · matriz extracelular
+
+Las proteínas de membrana permiten la adhesión de las células entre sí y la consiguiente formación de un tejido específico.
+
+---
+
+## Sub-lote 7 · La pared celular (p. 66)
+
+### 30
+
+En relación con el libro de Biología, ¿qué distinción fundamental hay entre las células animales y las vegetales respecto de la pared celular?
+
+- A. Que sólo las células vegetales están rodeadas por una pared celular
+- B. Que sólo las células animales están rodeadas por una pared celular
+- C. Que ambas están rodeadas por una pared celular idéntica
+- D. Que ninguna de las dos posee pared celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 66
+**Subtema:** Organización de las células · pared celular
+
+Una distinción fundamental entre las células animales y vegetales es que solo estas últimas están rodeadas por una pared celular.
+
+### 31
+
+De acuerdo con el libro de Biología, ¿cómo es la pared celular respecto de su rigidez y su dinámica?
+
+- A. Es una estructura rígida, pero no estática, ya que su estructura porosa deja pasar los materiales solubles
+- B. Es una estructura rígida y completamente estática, que impide todo intercambio
+- C. Es una estructura flexible y dinámica, sin poros
+- D. Es una estructura idéntica a la membrana plasmática
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 66
+**Subtema:** Organización de las células · pared celular
+
+Aunque la pared celular es una estructura rígida, no es estática, ya que su estructura porosa deja pasar a los materiales solubles que entran en contacto con ella.
+
+> El matiz que el libro cuida: **rígida pero no estática**. El distractor B se
+> queda con "rígida" y la vuelve una muralla impermeable, que es lo contrario de
+> lo que dice el texto.
+
+---
+
+**Reactivos en este archivo:** 31
