@@ -394,7 +394,14 @@ async function main() {
       enunciado: f.enunciado,
       tipo: 'opcion_multiple',
       opciones: f.opcionesBarajadas,
-      respuestaCorrecta: LETRAS[f.correctaBarajada],
+      // El TEXTO de la opción correcta, no su letra.
+      //
+      // El simulador manda de vuelta el texto de lo que eligió el aspirante
+      // (`responder(opcionTexto)`), y la calificación es una comparación
+      // directa contra este campo. Guardar aquí "A" hacía que ninguna
+      // respuesta coincidiera nunca y el examen calificara todo mal.
+      // El banco v1 del psicométrico siempre guardó el texto; esto lo alinea.
+      respuestaCorrecta: f.opcionesBarajadas[f.correctaBarajada],
       explicacion: f.justificacion,
       referencia: f.referencia,
       notaRevisor: f.notaRevisor,

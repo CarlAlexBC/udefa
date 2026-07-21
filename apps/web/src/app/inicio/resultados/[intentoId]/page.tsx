@@ -120,6 +120,17 @@ type DiagnosticoCultural = {
     rangos: Array<{ desde: number; hasta: number; errores: number }>
   }>
   subtemas: Array<{ tema: string; errores: number }>
+  /** Qué eligió contra qué era, en los errores que más le costaron. */
+  confusiones: Array<{
+    tema: string | null
+    pregunta: string
+    elegiste: string
+    era: string
+    dice: string | null
+    referencia: string | null
+    /** Tardó más que su propia mediana: lo tenía cruzado, no sin ver. */
+    dudo: boolean
+  }>
 }
 
 type Resultados = {
@@ -620,6 +631,77 @@ function DiagnosticoCultural({
                   ))}
                 </div>
               </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Pares confundidos: qué eligió contra qué era */}
+      {d.confusiones.length > 0 && (
+        <section className="mt-8">
+          <h2 className="text-lg font-semibold tracking-tight text-foreground">
+            Lo que elegiste y lo que era
+          </h2>
+          <p className="mt-1 max-w-2xl text-sm text-muted-foreground">
+            Los errores que más te costaron, con las dos opciones enfrentadas y
+            lo que dice el libro. Aquí es donde se desenreda lo que tienes
+            cruzado.
+          </p>
+          <div className="mt-4 flex flex-col gap-3">
+            {d.confusiones.map((c, i) => (
+              <article
+                key={i}
+                className="rounded-xl border border-border bg-card p-5"
+              >
+                <div className="flex flex-wrap items-center gap-2">
+                  {c.tema && (
+                    <span className="text-[11px] font-semibold uppercase tracking-widest text-military">
+                      {c.tema}
+                    </span>
+                  )}
+                  {c.dudo && (
+                    <span className="rounded-full border border-accent/40 bg-accent/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-accent">
+                      Dudaste
+                    </span>
+                  )}
+                </div>
+
+                <p className="mt-2 text-sm font-medium leading-snug text-foreground">
+                  {c.pregunta}
+                </p>
+
+                <div className="mt-4 grid gap-2 sm:grid-cols-2">
+                  <div className="rounded-lg border border-destructive/30 bg-destructive/5 p-3">
+                    <p className="text-[10px] font-semibold uppercase tracking-widest text-destructive">
+                      Elegiste
+                    </p>
+                    <p className="mt-1 text-sm leading-relaxed text-foreground">
+                      {c.elegiste}
+                    </p>
+                  </div>
+                  <div className="rounded-lg border border-military/40 bg-military/5 p-3">
+                    <p className="text-[10px] font-semibold uppercase tracking-widest text-military">
+                      Era
+                    </p>
+                    <p className="mt-1 text-sm leading-relaxed text-foreground">
+                      {c.era}
+                    </p>
+                  </div>
+                </div>
+
+                {c.dice && (
+                  <div className="mt-3 border-l-2 border-l-accent pl-3">
+                    <p className="text-sm italic leading-relaxed text-muted-foreground">
+                      {c.dice}
+                    </p>
+                    {c.referencia && (
+                      <p className="mt-1 text-xs text-muted-foreground">
+                        {c.referencia}
+                      </p>
+                    )}
+                  </div>
+                )}
+              </article>
             ))}
           </div>
         </section>

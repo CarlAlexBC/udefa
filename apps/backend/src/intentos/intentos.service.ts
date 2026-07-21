@@ -317,7 +317,14 @@ export class IntentosService {
     respuestas: Array<{
       esCorrecta: boolean | null;
       tiempoDeltaMs: number;
-      reactivo: { tema: string | null; referencia: string | null };
+      respuestaSeleccionada: string;
+      reactivo: {
+        tema: string | null;
+        referencia: string | null;
+        enunciado: string;
+        respuestaCorrecta: string | null;
+        explicacion: string | null;
+      };
     }>,
   ) {
     if (respuestas.length === 0) return null;
@@ -394,6 +401,42 @@ export class IntentosService {
       .sort((a, b) => b.errores - a.errores)
       .slice(0, 8);
 
+    // Los pares que confundió: qué eligió contra qué era.
+    //
+    // Se arma comparando textos, no letras. Las notas del banco explican los
+    // pares nombrando las opciones por su letra ("el distractor B invierte
+    // minuendo y sustraendo"), pero el importador baraja las opciones, así que
+    // esas letras ya no corresponden a lo que vio el aspirante. Enfrentar los
+    // dos textos dice lo mismo y no puede desfasarse.
+    //
+    // Se priorizan los errores lentos —los "confundidos"— porque son los que
+    // el aspirante sí estudió y tiene cruzados: los recuperables.
+    const confusiones = respuestas
+      .filter(
+        (r) =>
+          !r.esCorrecta &&
+          r.reactivo.respuestaCorrecta &&
+          r.respuestaSeleccionada !== r.reactivo.respuestaCorrecta,
+      )
+      .sort((a, b) => {
+        const aLento = a.tiempoDeltaMs > medianaMs ? 1 : 0;
+        const bLento = b.tiempoDeltaMs > medianaMs ? 1 : 0;
+        if (aLento !== bLento) return bLento - aLento;
+        return b.tiempoDeltaMs - a.tiempoDeltaMs;
+      })
+      .slice(0, 8)
+      .map((r) => ({
+        tema: r.reactivo.tema,
+        pregunta: r.reactivo.enunciado,
+        elegiste: r.respuestaSeleccionada,
+        era: r.reactivo.respuestaCorrecta!,
+        dice: r.reactivo.explicacion,
+        referencia: r.reactivo.referencia,
+        // Dudó: tardó más que su propia mediana. Distingue "lo tenía cruzado"
+        // de "no lo había visto".
+        dudo: r.tiempoDeltaMs > medianaMs,
+      }));
+
     return {
       medianaSegundos: Math.round(medianaMs / 1000),
       cuadrantes,
@@ -403,6 +446,7 @@ export class IntentosService {
       techoAlcanzable: aciertos + cuadrantes.confundido,
       libros,
       subtemas,
+      confusiones,
     };
   }
 
