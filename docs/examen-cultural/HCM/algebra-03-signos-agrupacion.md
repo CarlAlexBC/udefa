@@ -59,7 +59,9 @@ una segunda mención en el libro con la que contrastar. Sí se escribió sobre e
 **eclipse del año 585**, que el libro da como dato propio y es el que la
 tradición asocia a Thales.
 
-**Pendiente:** los capítulos IV a VI (pp. 63–111). El capítulo III está cerrado.
+**Pendiente:** ninguno. El capítulo III (pp. 58–62) está cerrado. Lo que falta de
+Álgebra lo declara el archivo del capítulo en curso — hoy
+`algebra-04-multiplicacion.md`.
 
 ## Criterio: teoría sobre práctica
 
