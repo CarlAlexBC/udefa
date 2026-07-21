@@ -67,7 +67,7 @@ primeras células**, que va de la página impresa **32 a la 60**.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **35 a 45**:
+Cubiertas las páginas impresas **35 a 47**:
 
 - La formación de los primeros átomos tras el Big Bang y el origen del sistema
   solar.
@@ -97,8 +97,13 @@ Cubiertas las páginas impresas **35 a 45**:
   etimología, el nucleoide frente al núcleo.
 - El origen de las células eucariotas: la teoría de endosimbiosis en serie de
   Lynn Margulis y sus límites, y los tres dominios.
+- Las evidencias de la endosimbiosis: ADN circular propio, división por fisión.
+- El recuadro del ancestro común: la carta de Darwin, LUCA, los caracteres
+  moleculares y los tres grupos Bacteria/Archaea/Eucarya.
+- La endosimbiosis en detalle: Rickettsia y cianobacterias, y el carácter serial
+  de la teoría.
 
-**Pendiente:** el resto del capítulo 3 (pp. 46–60) y los capítulos 4, 5, 7, 8,
+**Pendiente:** el resto del capítulo 3 (pp. 48–60) y los capítulos 4, 5, 7, 8,
 11, 12, 31, 32, 35, 36 y 37.
 
 ## Erratas del libro
@@ -1989,4 +1994,331 @@ Un primer dominio lo constituyen todos los organismos formados por células euca
 
 ---
 
-**Reactivos en este archivo:** 112
+## Sub-lote 21 · Las evidencias de la endosimbiosis (p. 46)
+
+### 113
+
+De acuerdo con el libro de Biología, ¿en qué tipos de evidencias se sustenta la teoría endosimbiótica?
+
+- A. Estructurales, bioquímicas y evolutivas
+- B. Estructurales, genéticas y ecológicas
+- C. Morfológicas, fisiológicas y geológicas
+- D. Bioquímicas, embriológicas y paleontológicas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · evidencias de la endosimbiosis
+
+Esta teoría se sustenta en una variedad de evidencias de diversos tipos: estructurales, bioquímicas y evolutivas.
+
+### 114
+
+De conformidad con el libro de Biología, ¿qué habrían sido las mitocondrias en forma libre, según la teoría endosimbiótica?
+
+- A. Bacterias heterótrofas aeróbicas, capaces de utilizar el oxígeno para obtener energía
+- B. Bacterias autótrofas fotosintéticas, capaces de captar la luz solar
+- C. Arqueas metanógenas, capaces de producir metano
+- D. Células protoeucariontes con núcleo definido
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · evidencias de la endosimbiosis
+
+La teoría endosimbiótica propone que las mitocondrias pudieron haber existido en forma libre como bacterias heterótrofas aeróbicas, es decir, como células capaces de utilizar el oxígeno y obtener así energía.
+
+### 115
+
+En relación con el libro de Biología, ¿cómo es el ADN propio de las mitocondrias y los cloroplastos?
+
+- A. Una única molécula continua o circular, semejante al de las bacterias
+- B. Varias hebras sueltas organizadas en cromosomas, como el ADN nuclear
+- C. Fragmentos lineales asociados a la envoltura nuclear
+- D. Idéntico al ADN nuclear de la célula eucarionte
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · evidencias de la endosimbiosis
+
+Tanto las mitocondrias como los cloroplastos poseen un ADN propio, semejante al de las bacterias, formado por una única molécula continua o circular diferente del ADN nuclear de las células eucariontes.
+
+> Par contrapuesto que es la clave de la evidencia: el ADN de las organelas es
+> **circular, como el bacteriano**; el ADN nuclear son **hebras sueltas en
+> cromosomas**. El distractor B los intercambia.
+
+### 116
+
+De acuerdo con el libro de Biología, ¿a qué se parece la forma de división de las mitocondrias y los cloroplastos?
+
+- A. A la fisión binaria o bipartición de los organismos procariontes
+- B. A la mitosis de las células eucariontes
+- C. A la invaginación de la membrana celular
+- D. A la fusión de dos organelas en una
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · evidencias de la endosimbiosis
+
+La forma de división de las organelas tiene un cierto parecido con la fisión binaria o bipartición de los organismos procariontes.
+
+### 117
+
+De conformidad con el libro de Biología, ¿cómo se producen las mitocondrias y los cloroplastos?
+
+- A. Sólo son producidos por otras mitocondrias y cloroplastos que se dividen dentro del citoplasma
+- B. Son sintetizados de nuevo por el núcleo en cada división celular
+- C. Se forman por invaginación de la membrana celular
+- D. Se originan a partir de los ribosomas del citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · evidencias de la endosimbiosis
+
+Las mitocondrias y los cloroplastos solo son producidos por otras mitocondrias y cloroplastos que se dividen dentro del citoplasma de la célula eucarionte antes de que esta se reproduzca.
+
+---
+
+## Sub-lote 22 · En busca del ancestro común (recuadro 3-2, p. 46)
+
+### 118
+
+En relación con el libro de Biología, ¿a quién escribió Darwin, el 26 de septiembre de 1857, manifestando su convicción de que todos los seres vivos provienen de un origen común?
+
+- A. A Huxley
+- B. A Wallace
+- C. A Lamarck
+- D. A Margulis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · ancestro común
+
+En la carta escrita a Huxley el 26 de septiembre de 1857, Darwin manifiesta su convicción acerca de que todos los seres vivos provienen de un origen común.
+
+### 119
+
+De acuerdo con el libro de Biología, ¿en qué obra incluyó Darwin un único esquema que ejemplifica las relaciones de ancestralidad y descendencia?
+
+- A. El origen de las especies por medio de selección natural
+- B. La expresión de las emociones en el hombre y los animales
+- C. El origen del hombre
+- D. El viaje del Beagle
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · ancestro común
+
+En su libro El origen de las especies por medio de selección natural, Darwin incluyó un único esquema en donde ejemplifica las relaciones de ancestralidad y descendencia entre diferentes especies hipotéticas.
+
+### 120
+
+De conformidad con el libro de Biología, ¿cómo se ha denominado al ancestro común de todos los seres vivos?
+
+- A. Cenancestro, LCA o LUCA
+- B. Protoeucarionte
+- C. Coacervado
+- D. Nucleoide
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · ancestro común
+
+Los biólogos han tratado de reconstruir la naturaleza del ancestro común de todos los seres vivos, al cual han denominado como cenancestro, LCA o LUCA.
+
+### 121
+
+En relación con el libro de Biología, ¿qué significan las siglas LUCA?
+
+- A. Last Universal Common Ancestor
+- B. Last Unique Cellular Ancestor
+- C. Living Universal Common Ancestor
+- D. Last Universal Cellular Archaea
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · ancestro común
+
+El cenancestro, LCA o LUCA (estos dos últimos por las siglas en inglés Last Common Ancestor y Last Universal Common Ancestor, respectivamente).
+
+> Par de siglas del mismo paréntesis: **LCA** es *Last Common Ancestor* y **LUCA**
+> es *Last Universal Common Ancestor*. La diferencia es la palabra "Universal".
+
+### 122
+
+De acuerdo con el libro de Biología, ¿qué caracteres usaron los biólogos para hallar lo común entre un champiñón, un lactobacilo, un elefante, una orquídea y una ameba?
+
+- A. Los caracteres moleculares
+- B. Los caracteres morfológicos
+- C. Los caracteres fisiológicos
+- D. Los caracteres embriológicos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · ancestro común
+
+Debido a que morfológicamente, a nivel macroscópico, no hay características compartidas entre un champiñón, un lactobacilo, un elefante, una orquídea y una ameba, los biólogos han utilizado ciertos caracteres que todos ellos tienen en común: los caracteres moleculares.
+
+### 123
+
+De conformidad con el libro de Biología, ¿cuáles son los tres principales grupos biológicos actuales?
+
+- A. Bacteria, Archaea y Eucarya
+- B. Bacteria, Protista y Eucarya
+- C. Procarionte, Eucarionte y Archaea
+- D. Bacteria, Archaea y Fungi
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · ancestro común
+
+¿Cuáles son las relaciones de parentesco entre los tres principales grupos biológicos actuales (Bacteria, Archaea y Eucarya)?
+
+### 124
+
+En relación con el libro de Biología, ¿mediante el análisis de qué macromoléculas se establecieron las relaciones de parentesco entre esos tres grupos?
+
+- A. Del ARN que forma parte de los ribosomas
+- B. Del ADN circular de las mitocondrias
+- C. De las proteínas de la membrana celular
+- D. De los lípidos que forman la bicapa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · ancestro común
+
+Estas relaciones pudieron establecerse mediante la comparación de los datos provenientes del análisis de las macromoléculas de estos organismos, más específicamente del ARN que forma parte de los ribosomas.
+
+---
+
+## Sub-lote 23 · La endosimbiosis en detalle (pp. 46–47)
+
+### 125
+
+De acuerdo con el libro de Biología, ¿qué tienen todos los eucariontes que prueba que descendemos de la primera célula protoeucarionte?
+
+- A. Todos los eucariontes tenemos mitocondrias
+- B. Todos los eucariontes tenemos cloroplastos
+- C. Todos los eucariontes tenemos pared celular
+- D. Todos los eucariontes tenemos undulipodios
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 47
+**Subtema:** Origen de la vida · endosimbiosis en detalle
+
+De esta primera célula protoeucarionte resultante descendemos, seguramente, todos los organismos con núcleo, pues todos los eucariontes tenemos mitocondrias.
+
+### 126
+
+De conformidad con el libro de Biología, ¿qué presentan incluso los linajes eucariontes que no tienen mitocondrias?
+
+- A. Vestigios genéticos de haberlas tenido
+- B. Cloroplastos que cumplen su función
+- C. Un segundo núcleo que las reemplaza
+- D. Undulipodios de gran tamaño
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 47
+**Subtema:** Origen de la vida · endosimbiosis en detalle
+
+Incluso los linajes eucariontes que no tienen mitocondrias presentan vestigios genéticos de haberlas tenido.
+
+### 127
+
+En relación con el libro de Biología, ¿de qué modo pudieron ingresar los ancestros de las mitocondrias y los cloroplastos en la célula hospedadora?
+
+- A. Ya sea como parásito o como alimento que luego no fue digerido
+- B. Únicamente por invaginación de la membrana celular
+- C. Únicamente por fusión de dos células con núcleo
+- D. Únicamente arrastrados por la corriente del citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 47
+**Subtema:** Origen de la vida · endosimbiosis en detalle
+
+Tanto los ancestros de las mitocondrias como los ancestros de los cloroplastos pudieron haber ingresado en la célula hospedadora inicial, ya sea como parásito o como alimento que luego no fue digerido, y permanecido así en el interior de la célula.
+
+### 128
+
+De acuerdo con el libro de Biología, ¿con qué grupo de bacterias se ha propuesto que las mitocondrias comparten un ancestro común de vida libre?
+
+- A. Con las Rickettsia
+- B. Con las cianobacterias
+- C. Con las arqueas metanógenas
+- D. Con los lactobacilos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 46
+**Subtema:** Origen de la vida · endosimbiosis en detalle
+
+Se ha propuesto que las mitocondrias y el grupo de las Rickettsia, un conjunto particular de bacterias, han compartido un ancestro común de vida libre.
+
+> Par que hay que separar: las **mitocondrias** se emparientan con las
+> **Rickettsia**; los **plástidos** (cloroplastos), con las **cianobacterias**
+> (ver reactivo 129).
+
+### 129
+
+De conformidad con el libro de Biología, ¿con qué grupo de bacterias compartía características el ancestro de los plástidos?
+
+- A. Con las cianobacterias
+- B. Con las Rickettsia
+- C. Con las bacterias heterótrofas aeróbicas
+- D. Con las arqueas metanógenas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 47
+**Subtema:** Origen de la vida · endosimbiosis en detalle
+
+Para el caso de los plástidos, se ha sugerido que el ancestro común de vida libre compartía una gran cantidad de características con otro grupo de bacterias, las cianobacterias.
+
+### 130
+
+En relación con el libro de Biología, ¿qué otras dos estructuras propuso Margulis que también surgieron por endosimbiosis, en eventos aún más antiguos?
+
+- A. El núcleo celular y las organelas de locomoción (undulipodios o cilios)
+- B. Las mitocondrias y los cloroplastos
+- C. Los ribosomas y la membrana celular
+- D. El citoplasma y la envoltura nuclear
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 47
+**Subtema:** Origen de la vida · endosimbiosis en detalle
+
+Margulis también propuso en su teoría que el núcleo celular y las organelas de locomoción eucarionte, que son los undulipodios o cilios, son el producto evolutivo de otros dos eventos endosimbióticos todavía más antiguos que aquellos que dieron lugar a las mitocondrias y los cloroplastos.
+
+### 131
+
+De acuerdo con el libro de Biología, ¿por qué la teoría de Margulis se llama de endosimbiosis "en serie"?
+
+- A. Porque se asume que los eventos endosimbióticos ocurrieron varias veces y en serie, unos después de otros
+- B. Porque las organelas se disponen en serie dentro del citoplasma
+- C. Porque los organismos simbiontes formaban cadenas en serie
+- D. Porque la teoría se publicó en una serie de artículos sucesivos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 47
+**Subtema:** Origen de la vida · endosimbiosis en detalle
+
+La referencia a lo serial de la teoría se debe a que se asume que los eventos endosimbióticos ocurrieron varias veces y en serie, unos después de otros.
+
+### 132
+
+De conformidad con el libro de Biología, ¿qué diferencia hay entre los eventos que originaron mitocondrias y cloroplastos y los que habrían originado el núcleo y el undulipodio?
+
+- A. Que los que habrían originado el núcleo y el undulipodio no cuentan con evidencia clara y contundente que los confirme
+- B. Que los del núcleo y el undulipodio están plenamente demostrados
+- C. Que los de mitocondrias y cloroplastos son sólo hipotéticos
+- D. Que ninguno de los cuatro cuenta con evidencia alguna
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 47
+**Subtema:** Origen de la vida · endosimbiosis en detalle
+
+Sin embargo, la diferencia es que los eventos hipotéticos que habrían originado al núcleo y al undulipodio no cuentan con evidencia clara y contundente que los confirmen.
+
+> El libro vuelve a marcar el **límite** de la teoría (ver reactivo 110): las
+> mitocondrias y los cloroplastos tienen evidencia; el núcleo y el undulipodio,
+> no. Es la reserva que el aspirante tiende a soltar.
+
+---
+
+**Reactivos en este archivo:** 132
