@@ -96,9 +96,35 @@ type AnalisisConsistencia = {
   scoreCoincidenciaIdeal?: ScoreCoincidenciaIdeal | null
 }
 
+/**
+ * Diagnóstico del examen cultural. No cuenta aciertos —eso ya está arriba—:
+ * dice por qué falló y qué páginas abrir.
+ */
+type DiagnosticoCultural = {
+  medianaSegundos: number
+  cuadrantes: {
+    /** Correcto y rápido. */
+    dominado: number
+    /** Correcto pero lento: con cronómetro es lo primero que se cae. */
+    fragil: number
+    /** Incorrecto y lento: lo estudió y lo tiene cruzado. */
+    confundido: number
+    /** Incorrecto y rápido: todavía no lo lee. */
+    sinVer: number
+  }
+  /** Hasta dónde llegaría si desenreda todo lo que tiene cruzado. */
+  techoAlcanzable: number
+  libros: Array<{
+    libro: string
+    errores: number
+    rangos: Array<{ desde: number; hasta: number; errores: number }>
+  }>
+  subtemas: Array<{ tema: string; errores: number }>
+}
+
 type Resultados = {
   intentoId: number
-  examen: { id: number; nombre: string; calificable: boolean }
+  examen: { id: number; nombre: string; tipo?: string; calificable: boolean }
   estado: 'EN_PROGRESO' | 'COMPLETADA' | 'TIEMPO_AGOTADO' | 'ABANDONADA'
   tiempoTotalMs: number
   reactivosRespondidos: number
@@ -109,6 +135,7 @@ type Resultados = {
   metricasTemporales: MetricasTemporales
   analisisConsistencia?: AnalisisConsistencia
   senalesCriticas?: SenalesCriticas | null
+  diagnosticoCultural?: DiagnosticoCultural | null
 }
 
 /* ═══════════════════════════════════════════════════════════
@@ -205,7 +232,9 @@ function PanelCalificable({ data }: { data: Resultados }) {
                   : data.estado}
               </span>
               <h1 className="mt-2 text-3xl font-semibold tracking-tight">
-                Tu perfil psicológico
+                {data.diagnosticoCultural
+                  ? 'Tu examen cultural'
+                  : 'Tu perfil psicológico'}
               </h1>
               <p className="mt-1 text-sm text-muted-foreground">
                 {data.examen.nombre} · {fecha} · duración {tiempoMin} min
@@ -286,6 +315,16 @@ function PanelCalificable({ data }: { data: Resultados }) {
             sub={`${data.porTema.length} temas`}
           />
         </section>
+
+        {/* Diagnóstico del examen cultural. Va antes de las gráficas porque es
+            lo accionable: qué tiene cruzado y qué páginas abrir. */}
+        {data.diagnosticoCultural && (
+          <DiagnosticoCultural
+            d={data.diagnosticoCultural}
+            aciertos={data.aciertos ?? 0}
+            total={data.reactivosRespondidos}
+          />
+        )}
 
         {/* Gráficos visuales del intento */}
         <GraficosPsicometrico
@@ -391,6 +430,223 @@ function DiagnosticoCard({
         </Link>
       )}
     </div>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Diagnóstico del examen cultural
+   ═══════════════════════════════════════════════════════════ */
+
+function DiagnosticoCultural({
+  d,
+  aciertos,
+  total,
+}: {
+  d: DiagnosticoCultural
+  aciertos: number
+  total: number
+}) {
+  const { dominado, fragil, confundido, sinVer } = d.cuadrantes
+  const errores = total - aciertos
+  const recuperables = confundido
+
+  const cuadros = [
+    {
+      n: dominado,
+      titulo: 'Dominado',
+      señal: 'Correcto · rápido',
+      texto: 'Lo sabes y lo recuperas sin esfuerzo. No gastes tiempo de estudio aquí.',
+      color: 'text-military',
+      borde: 'border-l-military',
+    },
+    {
+      n: fragil,
+      titulo: 'Frágil',
+      señal: 'Correcto · lento',
+      texto:
+        'Acertaste, pero dudando. Con el cronómetro encima esto es lo primero que se cae. Repaso corto y repetido.',
+      color: 'text-accent',
+      borde: 'border-l-accent',
+    },
+    {
+      n: confundido,
+      titulo: 'Confundido',
+      señal: 'Incorrecto · lento',
+      texto:
+        'Lo estudiaste y lo tienes cruzado con otra cosa. Es lo más recuperable: hay que separar los pares que confundes.',
+      color: 'text-destructive',
+      borde: 'border-l-destructive',
+    },
+    {
+      n: sinVer,
+      titulo: 'Sin ver',
+      señal: 'Incorrecto · rápido',
+      texto:
+        'Ni lo intentaste — no lo has estudiado todavía. Se arregla leyendo, no repasando.',
+      color: 'text-muted-foreground',
+      borde: 'border-l-border',
+    },
+  ]
+
+  return (
+    <>
+      {/* Techo alcanzable. El examen cultural no publica puntaje de corte, así
+          que la meta honesta es su propio techo y no un umbral inventado. */}
+      <section className="mt-8 rounded-xl border border-border border-t-2 border-t-accent bg-card p-6">
+        <p className="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+          Hasta dónde puedes llegar
+        </p>
+        <div className="mt-3 flex flex-wrap items-end gap-x-3 gap-y-1">
+          <span className="text-4xl font-semibold leading-none tracking-tight text-accent tabular-nums">
+            {aciertos}
+          </span>
+          <span className="text-lg text-muted-foreground">de {total} ahora</span>
+          <ArrowRight className="mb-1 h-4 w-4 text-muted-foreground" />
+          <span className="text-4xl font-semibold leading-none tracking-tight text-accent tabular-nums">
+            {d.techoAlcanzable}
+          </span>
+          <span className="text-lg text-muted-foreground">alcanzable</span>
+        </div>
+        <div className="mt-4 h-2 overflow-hidden rounded-full bg-muted">
+          <div
+            className="h-full rounded-full bg-accent"
+            style={{ width: `${total ? (aciertos / total) * 100 : 0}%` }}
+          />
+        </div>
+        <p className="mt-4 max-w-2xl text-sm text-foreground">
+          {recuperables > 0 ? (
+            <>
+              <span className="font-semibold">
+                {recuperables} de tus {errores} errores son recuperables
+              </span>{' '}
+              — no son cosas que no hayas visto, son cosas que estudiaste y
+              tienes cruzadas.
+            </>
+          ) : (
+            <>
+              El examen cultural no tiene puntaje de corte publicado. Este panel
+              no te dice si pasas: te dice qué sabes y qué páginas abrir.
+            </>
+          )}
+        </p>
+      </section>
+
+      {/* Cuadrantes */}
+      <section className="mt-8">
+        <h2 className="text-lg font-semibold tracking-tight text-foreground">
+          Por qué fallaste, no sólo cuánto
+        </h2>
+        <p className="mt-1 max-w-2xl text-sm text-muted-foreground">
+          Cruzando si acertaste con cuánto tardaste salen cuatro situaciones que
+          se arreglan distinto. Tu tiempo medio por pregunta fue de{' '}
+          {d.medianaSegundos} segundos.
+        </p>
+        <div className="mt-4 grid gap-3 sm:grid-cols-2">
+          {cuadros.map((c) => (
+            <div
+              key={c.titulo}
+              className={cn(
+                'rounded-xl border border-l-4 border-border bg-card p-5',
+                c.borde,
+              )}
+            >
+              <p
+                className={cn(
+                  'text-3xl font-semibold leading-none tracking-tight tabular-nums',
+                  c.color,
+                )}
+              >
+                {c.n}
+              </p>
+              <h3 className="mt-2 font-semibold text-foreground">{c.titulo}</h3>
+              <p className="text-[11px] font-semibold uppercase tracking-widest text-muted-foreground">
+                {c.señal}
+              </p>
+              <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+                {c.texto}
+              </p>
+            </div>
+          ))}
+        </div>
+        {confundido > sinVer && confundido > 0 && (
+          <div className="mt-3 rounded-lg border border-dashed border-military/40 bg-military/5 px-4 py-3 text-sm text-muted-foreground">
+            <span className="font-semibold text-foreground">
+              Lee esto antes que la calificación.
+            </span>{' '}
+            Tienes {confundido} reactivos «confundidos» contra {sinVer} «sin
+            ver». No es que te falte estudiar: es que estudiaste y se te está
+            mezclando. Por eso el plan de abajo no te manda a leer capítulos
+            enteros, sino páginas concretas.
+          </div>
+        )}
+      </section>
+
+      {/* Plan por páginas */}
+      {d.libros.length > 0 && (
+        <section className="mt-8">
+          <h2 className="text-lg font-semibold tracking-tight text-foreground">
+            Qué estudiar
+          </h2>
+          <p className="mt-1 max-w-2xl text-sm text-muted-foreground">
+            Tus errores llevados a las páginas exactas de los libros del temario.
+            Las marcadas en rojo son donde fallaste tres veces o más.
+          </p>
+          <div className="mt-4 divide-y divide-border rounded-xl border border-border bg-card">
+            {d.libros.map((l) => (
+              <div key={l.libro} className="p-5">
+                <div className="flex flex-wrap items-baseline justify-between gap-2">
+                  <h3 className="font-semibold text-foreground">{l.libro}</h3>
+                  <span className="text-xs text-muted-foreground tabular-nums">
+                    {l.errores} {l.errores === 1 ? 'error' : 'errores'} ·{' '}
+                    {l.rangos.length}{' '}
+                    {l.rangos.length === 1 ? 'tramo' : 'tramos'}
+                  </span>
+                </div>
+                <div className="mt-3 flex flex-wrap gap-2">
+                  {l.rangos.map((r) => (
+                    <span
+                      key={`${r.desde}-${r.hasta}`}
+                      className={cn(
+                        'rounded-md border px-2 py-1 text-xs font-semibold tabular-nums',
+                        r.errores >= 3
+                          ? 'border-destructive/40 bg-destructive/10 text-destructive'
+                          : 'border-accent/30 bg-accent/10 text-accent',
+                      )}
+                    >
+                      {r.desde === r.hasta
+                        ? `p. ${r.desde}`
+                        : `pp. ${r.desde}–${r.hasta}`}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Subtemas con más errores */}
+      {d.subtemas.length > 0 && (
+        <section className="mt-8">
+          <h2 className="text-lg font-semibold tracking-tight text-foreground">
+            Los temas que se te atoraron
+          </h2>
+          <div className="mt-4 divide-y divide-border rounded-xl border border-border bg-card">
+            {d.subtemas.map((s) => (
+              <div
+                key={s.tema}
+                className="flex items-center justify-between gap-4 px-5 py-3"
+              >
+                <span className="text-sm text-foreground">{s.tema}</span>
+                <span className="shrink-0 rounded-full bg-destructive/10 px-2.5 py-0.5 text-xs font-semibold text-destructive tabular-nums">
+                  {s.errores} {s.errores === 1 ? 'error' : 'errores'}
+                </span>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+    </>
   )
 }
 

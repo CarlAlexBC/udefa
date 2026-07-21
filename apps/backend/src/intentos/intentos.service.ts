@@ -265,11 +265,19 @@ export class IntentosService {
       ? null
       : this.detectarSenalesCriticas(respuestasConDelta, intento.examen.tipo);
 
+    // Diagnóstico del examen cultural. Va aparte de las métricas de arriba
+    // porque no cuenta aciertos: dice POR QUÉ falló y qué páginas abrir.
+    const diagnosticoCultural =
+      intento.examen.tipo === 'cultural'
+        ? this.calcularDiagnosticoCultural(respuestasConDelta)
+        : null;
+
     return {
       intentoId: intento.id,
       examen: {
         id: intento.examen.id,
         nombre: intento.examen.nombre,
+        tipo: intento.examen.tipo,
         calificable,
       },
       estado: intento.estado,
@@ -283,6 +291,118 @@ export class IntentosService {
       analisisConsistencia,
       escalasValidez,
       senalesCriticas,
+      diagnosticoCultural,
+    };
+  }
+
+  /**
+   * Diagnóstico del examen cultural.
+   *
+   * El cultural es de recuerdo literal: cada reactivo sale textual de un libro
+   * del temario y guarda su referencia con página impresa. Eso permite un panel
+   * que no dice "sacaste 61" sino "estudia estas páginas".
+   *
+   * Dos ideas lo sostienen:
+   *
+   * 1. **Cruzar acierto con velocidad.** Salen cuatro situaciones que se
+   *    arreglan distinto, y dos de ellas no se ven en la calificación:
+   *    acertar dudando (frágil) y fallar habiendo estudiado (confundido).
+   *    El corte de "lento" es la mediana del PROPIO aspirante, no un número
+   *    fijo: a alguien rápido de por sí, 60 segundos ya le es tardanza.
+   *
+   * 2. **Agrupar los errores por página del libro.** "Estudia Geografía" no le
+   *    sirve a nadie; "18 errores entre las páginas 74 y 79" sí.
+   */
+  private calcularDiagnosticoCultural(
+    respuestas: Array<{
+      esCorrecta: boolean | null;
+      tiempoDeltaMs: number;
+      reactivo: { tema: string | null; referencia: string | null };
+    }>,
+  ) {
+    if (respuestas.length === 0) return null;
+
+    const tiempos = respuestas.map((r) => r.tiempoDeltaMs).sort((a, b) => a - b);
+    const medianaMs = tiempos[Math.floor(tiempos.length / 2)];
+
+    const cuadrantes = {
+      dominado: 0, // correcto y rápido — no gastes tiempo aquí
+      fragil: 0, // correcto pero lento — con cronómetro es lo primero que se cae
+      confundido: 0, // incorrecto y lento — lo estudió y lo tiene cruzado
+      sinVer: 0, // incorrecto y rápido — todavía no lo lee
+    };
+    for (const r of respuestas) {
+      const lento = r.tiempoDeltaMs > medianaMs;
+      if (r.esCorrecta) cuadrantes[lento ? 'fragil' : 'dominado']++;
+      else cuadrantes[lento ? 'confundido' : 'sinVer']++;
+    }
+
+    const aciertos = respuestas.filter((r) => r.esCorrecta === true).length;
+
+    // Errores agrupados por libro y por página, con las páginas contiguas
+    // unidas en rangos para que el plan de estudio se lea de un vistazo.
+    const porLibro = new Map<string, Map<number, number>>();
+    for (const r of respuestas) {
+      if (r.esCorrecta) continue;
+      const ref = r.reactivo.referencia ?? '';
+      const pagina = Number(/Pág\.\s*(\d+)/i.exec(ref)?.[1]);
+      // "Baldor, Aurelio (2019) Álgebra, Editorial…" → "Álgebra"
+      const libro = /\(\d{4}\)\s*([^,]+)/.exec(ref)?.[1]?.trim();
+      if (!libro || !Number.isFinite(pagina)) continue;
+      if (!porLibro.has(libro)) porLibro.set(libro, new Map());
+      const paginas = porLibro.get(libro)!;
+      paginas.set(pagina, (paginas.get(pagina) ?? 0) + 1);
+    }
+
+    const libros = [...porLibro.entries()]
+      .map(([libro, paginas]) => {
+        const ordenadas = [...paginas.keys()].sort((a, b) => a - b);
+        const rangos: Array<{
+          desde: number;
+          hasta: number;
+          errores: number;
+        }> = [];
+        for (const p of ordenadas) {
+          const ultimo = rangos[rangos.length - 1];
+          if (ultimo && p === ultimo.hasta + 1) {
+            ultimo.hasta = p;
+            ultimo.errores += paginas.get(p)!;
+          } else {
+            rangos.push({ desde: p, hasta: p, errores: paginas.get(p)! });
+          }
+        }
+        return {
+          libro,
+          errores: [...paginas.values()].reduce((a, b) => a + b, 0),
+          rangos: rangos.sort((a, b) => b.errores - a.errores),
+        };
+      })
+      .sort((a, b) => b.errores - a.errores);
+
+    // Subtemas donde más se falló: es el "qué" del plan, mientras que las
+    // páginas son el "dónde".
+    const porSubtema = new Map<string, number>();
+    for (const r of respuestas) {
+      if (r.esCorrecta || !r.reactivo.tema) continue;
+      porSubtema.set(
+        r.reactivo.tema,
+        (porSubtema.get(r.reactivo.tema) ?? 0) + 1,
+      );
+    }
+    const subtemas = [...porSubtema.entries()]
+      .map(([tema, errores]) => ({ tema, errores }))
+      .sort((a, b) => b.errores - a.errores)
+      .slice(0, 8);
+
+    return {
+      medianaSegundos: Math.round(medianaMs / 1000),
+      cuadrantes,
+      // Si desenreda todo lo que tiene cruzado, hasta dónde llegaría. No hay
+      // puntaje de corte oficial en el cultural, así que la meta honesta es
+      // su propio techo, no un umbral inventado.
+      techoAlcanzable: aciertos + cuadrantes.confundido,
+      libros,
+      subtemas,
     };
   }
 
