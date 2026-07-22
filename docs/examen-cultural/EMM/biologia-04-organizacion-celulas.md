@@ -92,8 +92,14 @@ el capítulo 4 añade sobre la organización celular.
 inicial: la metáfora de las células madre" (pp. 84 en adelante) es una
 **discusión lingüística** sobre cómo traducir *stem cell* al español —célula
 madre, germinal, progenitora, precursora—, no recuerdo literal de definiciones o
-procesos. Mismo criterio que con "Temas en debate" del capítulo 3. Las páginas 85
-y 88 son las **preguntas de repaso del propio libro**, no teoría nueva.
+procesos. Mismo criterio que con "Temas en debate" del capítulo 3. La página 86
+son las **preguntas de repaso del propio libro**, no teoría nueva.
+
+> **Corregido el 22 jul 2026.** Esta nota decía "las páginas 85 y 88 son las
+> preguntas de repaso". Verificado con `extraer.py`: la 85 es la continuación de
+> "Retomando la problemática inicial", las preguntas de repaso están en la 86, y
+> la **88 ya es del capítulo 5** (hoja 134). Nada que rehacer en los reactivos
+> del capítulo 4; sólo era un dato mal escrito en el encabezado.
 
 **Pendiente:** ninguno. El capítulo 4 está cerrado. Lo que falta de Biología lo
 declara el archivo del capítulo en curso — hoy

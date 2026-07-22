@@ -25,7 +25,14 @@ python docs/examen-cultural/extraer.py "examen_cultural/libros_examen_cultural/E
 ## Alcance
 
 Este archivo cubre el **capítulo 5 · Membrana plasmática**, que empieza en la
-página impresa **89** (hoja 135 del PDF).
+página impresa **87** (hoja 133 del PDF) y termina en la **102** (hoja 148).
+
+**Corrección del 22 jul 2026:** el encabezado decía que el capítulo empezaba en
+la página 89, y las páginas **87 y 88 se habían quedado fuera**. La 87 abre el
+capítulo con el apartado "Biología en contexto social · La nicotina y sus
+cómplices"; la 88 lo continúa y trae además la sección de teoría "Los seres vivos
+y los intercambios de materia y energía". Verificado con `extraer.py` sobre las
+hojas 133 y 134: la portadilla del capítulo 5 está en la hoja 133.
 
 ## Cobertura actual
 
@@ -68,10 +75,23 @@ Cubiertas las páginas impresas **89 a 100**:
 - Los intercambios a través de vesículas: el transporte en masa, la endocitosis
   (el endosoma, la fagocitosis y los fagosomas, los lisosomas), la exocitosis
   (qué se exporta) y la endocitosis mediada por receptor con la clatrina.
+- La fusión de membranas y el párrafo evolutivo que cierra el cuerpo del
+  capítulo; los pies de las dos microfotografías de la página 101.
 
-**Pendiente:** el cierre del capítulo 5 — la fusión de membranas y el párrafo
-evolutivo (p. 100), los pies de las figuras 5-11 y 5-12 (p. 101) y "La nicotina
-y sus cómplices" (p. 102) —, y los capítulos 7, 8, 11, 12, 31, 32, 35, 36 y 37.
+**Pendiente del capítulo 5:**
+
+- La sección de teoría **"Los seres vivos y los intercambios de materia y
+  energía"** (p. 88) — hueco real, se descubrió el 22 jul 2026.
+- El apartado **"Biología en contexto social · La nicotina y sus cómplices"**
+  (pp. 87–88) y su cierre **"Retomando la problemática inicial"** (p. 102).
+  **Decisión pendiente de Carlo**, porque el capítulo 4 dejó fuera su apartado
+  equivalente por no ser recuerdo literal. Aquí el caso no es idéntico: buena
+  parte de estas páginas sí son datos duros de biología (el pH pulmonar, los
+  tejidos con mayor afinidad por la nicotina, la composición del cigarrillo, el
+  número de componentes del humo), y el tema —qué atraviesa una membrana y por
+  qué— es justo el del capítulo.
+
+**Pendiente de la materia:** los capítulos 7, 8, 11, 12, 31, 32, 35, 36 y 37.
 
 **No se cubre:** las "Situaciones problemáticas" de la p. 102 son ejercicios de
 resolución, no teoría (criterio de abajo).
@@ -2216,4 +2236,136 @@ En la cara interna –citoplasmática– de las áreas de la membrana celular, d
 
 ---
 
-**Reactivos en este archivo:** 123
+## Sub-lote 37 · La fusión de membranas y el cierre del capítulo (p. 100)
+
+### 124
+
+En relación con el libro de Biología, ¿por qué está mediada, en general, la fusión de membranas?
+
+- A. Por proteínas llamadas de fusión
+- B. Por la clatrina de la cara citoplasmática
+- C. Por la hidrólisis directa del ATP, sin proteínas
+- D. Por el gradiente de concentración de sodio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · fusión de membranas
+
+La fusión de membranas es mediada, en general, por proteínas llamadas de fusión.
+
+### 125
+
+De acuerdo con el libro de Biología, además de permitir el intercambio de sustancias, ¿a qué contribuyen los procesos de fusión de membranas?
+
+- A. Al reciclado de componentes de la membrana plasmática
+- B. A la síntesis de las hormonas en el núcleo
+- C. Al aumento del grosor de la bicapa lipídica
+- D. A la formación de la pared celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · fusión de membranas
+
+Estos procesos ocurren en la mayoría de las células y, además de permitir el intercambio de sustancias, contribuyen al reciclado de componentes de la membrana plasmática.
+
+### 126
+
+De conformidad con el libro de Biología, ¿con qué comenzó el proceso evolutivo del que resultan los mecanismos de intercambio vistos en el capítulo?
+
+- A. Con la formación de una película de fosfolípidos alrededor de unas pocas moléculas orgánicas
+- B. Con la aparición de la pared celular en las primeras células
+- C. Con la aparición del núcleo y sus poros
+- D. Con la formación de las primeras proteínas de transporte
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · cierre del capítulo
+
+Los mecanismos de intercambio vistos en este capítulo son el resultado de miles de millones de años de un proceso evolutivo, que comenzó, hasta donde podemos inferir, con la formación de una película de fosfolípidos alrededor de unas pocas moléculas orgánicas.
+
+### 127
+
+En relación con el libro de Biología, ¿qué permitió aquella primera película de fosfolípidos?
+
+- A. Separó a las moléculas de su ambiente externo y les permitió mantener el tipo particular de organización que reconocemos como célula
+- B. Permitió que las moléculas orgánicas se dispersaran libremente en el medio
+- C. Permitió la síntesis del ATP a partir de la luz solar
+- D. Permitió la aparición de los primeros tejidos multicelulares
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · cierre del capítulo
+
+Esta película separó a las moléculas de su ambiente externo y les permitió mantener el tipo particular de organización que reconocemos como célula.
+
+---
+
+## Sub-lote 38 · Las microfotografías del capítulo (p. 101)
+
+### 128
+
+De acuerdo con el libro de Biología, ¿dónde se formó la vesícula de secreción que muestra la microfotografía del protista *Tetrahymena furgasoni*?
+
+- A. En el complejo de Golgi
+- B. En el retículo endoplasmático rugoso
+- C. En la membrana nuclear
+- D. En un lisosoma
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 101
+**Subtema:** Membrana plasmática · exocitosis
+
+La microfotografía muestra una vesícula de secreción formada en el complejo de Golgi del protista *Tetrahymena furgasoni*, secretando mucosidad sobre la superficie celular.
+
+### 129
+
+De conformidad con el libro de Biología, en esa misma microfotografía de la vesícula de secreción, ¿qué debe observarse?
+
+- A. Que la membrana de la vesícula se ha fusionado con la membrana plasmática
+- B. Que la vesícula permanece separada de la membrana plasmática
+- C. Que la vesícula ha sido degradada por un lisosoma
+- D. Que la vesícula se ha desprendido hacia el interior del citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 101
+**Subtema:** Membrana plasmática · exocitosis
+
+Obsérvese que la membrana de la vesícula se ha fusionado con la membrana plasmática.
+
+### 130
+
+En relación con el libro de Biología, en la formación de una vesícula en un óvulo de gallina, ¿qué son las partículas que se observan en el medio extracelular?
+
+- A. Lipoproteínas unidas a sus receptores de membrana
+- B. Moléculas de clatrina desprendidas de la cara interna
+- C. Microorganismos a punto de ser fagocitados
+- D. Cristales de sales minerales del medio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 101
+**Subtema:** Membrana plasmática · endocitosis mediada por receptor
+
+Las partículas que se observan en el medio extracelular son lipoproteínas unidas a sus receptores de membrana.
+
+### 131
+
+De acuerdo con el libro de Biología, ¿a dónde serán incorporadas las lipoproteínas transportadas por las vesículas del óvulo de gallina?
+
+- A. A la yema del huevo
+- B. A la clara del huevo
+- C. A la cáscara del huevo
+- D. A los lisosomas de la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 101
+**Subtema:** Membrana plasmática · endocitosis mediada por receptor
+
+Las lipoproteínas transportadas por estas vesículas serán incorporadas a la yema del huevo.
+
+> Los números de figura de estos pies **no se preguntan**: en la página 100 el
+> libro remite a la fig. 5-11 para la clatrina y a la 5-12 para la exocitosis,
+> pero las figuras están al revés. Errata anotada en el encabezado.
+
+---
+
+**Reactivos en este archivo:** 131
