@@ -26,12 +26,30 @@ python docs/examen-cultural/extraer.py "examen_cultural/libros_examen_cultural/E
 ## Alcance
 
 Este archivo cubre el **capítulo 4 · La organización de las células**, que
-empieza en la página impresa **61** (hoja 107 del PDF).
+empieza en la página impresa **59** (hoja 105 del PDF).
+
+> **Corrección del 22 jul 2026.** Aquí decía que el capítulo empezaba en la 61, y
+> las páginas **59 y 60 se habían quedado fuera**. La 59 abre con "Biología en
+> contexto social · La metáfora de las células madre"; la **60 es mitad recuadro
+> y mitad cuerpo del capítulo** —la parte de abajo son los primeros
+> microscopistas, Leeuwenhoek y Hooke—. Cubiertas en los **sub-lotes 47 y 48**,
+> al final del archivo. Se descubrió al comprobar que el capítulo 7 tampoco
+> empezaba donde decía el temario; desde entonces **la portadilla de cada
+> capítulo se verifica con `extraer.py` antes de fijar dónde empieza**.
 
 ## Cobertura actual
 
-**El capítulo 4 queda cerrado.** Cubiertas las páginas impresas **61 a 63 y 66 a
+**El capítulo 4 queda cerrado.** Cubiertas las páginas impresas **59 a 63 y 66 a
 83**:
+
+- Los primeros microscopistas (p. 60): Leeuwenhoek, Hooke y las "habitaciones
+  pequeñas" de la *Micrographia*, la resignificación del concepto de célula 150
+  años después, y las interpretaciones enfrentadas de Grew, von Haller y
+  Malpighi.
+- De "Biología en contexto social · La metáfora de las células madre" (pp. 59–60),
+  **sólo los datos de biología**: Haeckel y el término *Stammzelle* en sus dos
+  sentidos, la Teoría de la Recapitulación, el hemocitoblasto y su etimología, y
+  los experimentos de Till y McCulloch que definieron la célula troncal.
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -3020,4 +3038,293 @@ Estas condiciones son provistas por el incubador de células, instrumento fundam
 
 ---
 
-**Reactivos en este archivo:** 173
+## Sub-lote 47 · Los primeros microscopistas (p. 60)
+
+> **Hueco tapado el 22 jul 2026.** La cobertura arrancaba en la página 61, pero
+> el capítulo empieza en la 59 y la mitad inferior de la **página 60 es cuerpo
+> del capítulo** —Leeuwenhoek, Hooke y los primeros microscopistas—, no recuadro.
+> Va al final del archivo, fuera del orden de páginas, para no renumerar los 173
+> reactivos anteriores.
+
+### 174
+
+De conformidad con el libro de Biología, ¿qué abrieron la invención del microscopio por Antony van Leeuwenhoek y su perfeccionamiento?
+
+- A. Nuevos horizontes en el estudio del mundo viviente
+- B. La posibilidad de ver los átomos por primera vez
+- C. El camino hacia la síntesis química de la vida
+- D. La discusión sobre el origen extraterrestre de la vida
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · los primeros microscopistas
+
+En las postrimerías del siglo XVII, la invención del microscopio por Antony van Leeuwenhoek (1632-1723) y su perfeccionamiento abrieron nuevos horizontes en el estudio del mundo viviente.
+
+### 175
+
+En relación con el libro de Biología, ¿qué notó Robert Hooke al observar el corcho y otros tejidos vegetales con un microscopio que él mismo había fabricado?
+
+- A. Que estaban constituidos por pequeñas cavidades separadas por paredes
+- B. Que estaban formados por fibras continuas sin separaciones
+- C. Que estaban compuestos por vesículas flotando en un líquido
+- D. Que estaban formados por una sustancia plástica homogénea
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · los primeros microscopistas
+
+Así fue como el científico inglés Robert Hooke (1635-1703), usando un microscopio que él mismo había fabricado, notó que el corcho y otros tejidos vegetales estaban constituidos por pequeñas cavidades separadas por paredes.
+
+### 176
+
+De acuerdo con el libro de Biología, ¿cómo llamó Hooke a esas cavidades y cuál es el significado de ese nombre?
+
+- A. "Células", cuyo significado es "habitaciones pequeñas"
+- B. "Celdillas", cuyo significado es "panales de cera"
+- C. "Vesículas", cuyo significado es "bolsas diminutas"
+- D. "Cavernas", cuyo significado es "huecos internos"
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · los primeros microscopistas
+
+A estas cavidades las llamó "células" –cuyo significado es "habitaciones pequeñas"–.
+
+### 177
+
+De conformidad con el libro de Biología, ¿en qué publicación y de qué año consta esa observación de Hooke?
+
+- A. *Micrographia*, de 1665
+- B. *Historia de la Creación*, de 1868
+- C. *Micrographia*, de 1858
+- D. *De motu animalium*, de 1680
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · los primeros microscopistas
+
+Según consta en su publicación *Micrographia* (1665).
+
+### 178
+
+En relación con el libro de Biología, ¿cuándo fue resignificado el concepto de célula en el sentido en que lo concebimos actualmente?
+
+- A. Unos 150 años después, cuando científicos alemanes desarrollaron los postulados de la teoría celular
+- B. Ese mismo año, con la publicación de Hooke
+- C. Unos 20 años después, con los trabajos de Leeuwenhoek
+- D. Unos 300 años después, con el microscopio electrónico
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · los primeros microscopistas
+
+El concepto de célula, que actualmente designa a la unidad funcional y estructural de los seres vivos, fue resignificada en el sentido en que la concebimos actualmente unos 150 años después, cuando científicos alemanes desarrollaron los postulados de la teoría celular.
+
+### 179
+
+De acuerdo con el libro de Biología, ¿en qué estaba realmente interesado Hooke por aquellos tiempos?
+
+- A. En las propiedades de los materiales y en el poder del microscopio para revelar la estructura de la materia
+- B. En demostrar que todos los seres vivos provienen de otros seres vivos
+- C. En clasificar las especies vegetales conocidas
+- D. En encontrar el origen de las enfermedades infecciosas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · los primeros microscopistas
+
+En realidad, por aquellos tiempos, Hooke estaba interesado en las propiedades de los materiales (arena, nieve, corcho) y en el poder del microscopio para revelar la estructura de la materia.
+
+### 180
+
+De conformidad con el libro de Biología, ¿qué interpretaba el médico y botánico inglés Nehemiah Grew sobre las unidades que se observaban al microscopio?
+
+- A. Que correspondían al efecto producido por los tabiques que interrumpían una sustancia plástica continua constitutiva de los seres vivos
+- B. Que eran habitaciones pequeñas separadas por paredes
+- C. Que eran organismos independientes que vivían dentro de los tejidos
+- D. Que eran un artefacto óptico del microscopio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · los primeros microscopistas
+
+Era el caso, por ejemplo, del médico y botánico inglés Nehemiah Grew (1641-1712), quien interpretaba que las unidades que se observaban correspondían, en realidad, al efecto producido por los tabiques que interrumpían una sustancia plástica continua constitutiva de los seres vivos.
+
+### 181
+
+En relación con el libro de Biología, ¿en qué diferían Hooke, Albrecht von Haller y Malpighi, que sí consideraban unidades a lo que observaban?
+
+- A. En la interpretación de lo que observaban: donde uno veía celdillas, los otros veían fibras o vesículas
+- B. En el aumento del microscopio que cada uno empleaba
+- C. En el tipo de tejido que preferían observar
+- D. En si las unidades estaban vivas o muertas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · los primeros microscopistas
+
+Aunque tanto Hooke como el anatomista y naturalista suizo Albrecht von Haller (1708-1777) o Malpighi las consideraban unidades, diferían entre ellos en cuanto a la interpretación de lo que observaban: donde uno veía celdillas, los otros veían fibras o vesículas, respectivamente.
+
+> El contraste que ordena todo el pasaje: los **vitalistas** como **Grew** ni
+> siquiera aceptaban que hubiera unidades —veían el efecto de unos tabiques—;
+> **Hooke, von Haller y Malpighi** sí las aceptaban, pero cada uno las veía de
+> una forma distinta.
+
+---
+
+## Sub-lote 48 · La metáfora de las células madre (pp. 59–60)
+
+> **Sólo los datos de biología** — criterio de Carlo del 22 jul 2026. De este
+> apartado de apertura entra la historia científica del concepto; **queda fuera**
+> la parte social y de divulgación (la imagen de la célula en las portadas, los
+> medios periodísticos, las preguntas de reflexión).
+>
+> **No choca con la decisión sobre "Retomando la problemática inicial".** Aquel
+> apartado de cierre (pp. 84–85) sigue dejado fuera a propósito, y con razón: es
+> una **discusión lingüística** sobre cómo traducir *stem cell* al español. Lo
+> que entra aquí es la **historia científica del concepto**, que es otra cosa.
+
+### 182
+
+De acuerdo con el libro de Biología, ¿quién introdujo por primera vez el término *Stammzelle*, y en qué obra?
+
+- A. El naturalista alemán Ernst Haeckel, en su libro *Historia de la Creación*, de 1868
+- B. El científico inglés Robert Hooke, en su publicación *Micrographia*, de 1665
+- C. El hematólogo alemán Artur Pappenheim, en 1870
+- D. Los investigadores canadienses Till y McCulloch, en 1961
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 59
+**Subtema:** Organización de las células · células troncales
+
+El naturalista alemán Ernst Haeckel (1834-1919) fue el primero en acuñar un término semejante en la segunda mitad del siglo XIX. En su libro *Historia de la Creación* de 1868 introduce por primera vez el término *Stammzelle*.
+
+### 183
+
+De conformidad con el libro de Biología, ¿a qué se refería Haeckel con el término *Stammzelle* la primera vez que lo utilizó?
+
+- A. Al microorganismo unicelular a partir del cual habrían evolucionado todos los otros grupos de organismos
+- B. Al cigoto a partir del cual se forma todo un organismo maduro
+- C. A la célula de la médula ósea que forma la sangre
+- D. A cualquier célula capaz de autorrenovarse y diferenciarse
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 59
+**Subtema:** Organización de las células · células troncales
+
+Introduce por primera vez el término *Stammzelle* (años más tarde traducido al inglés como *stem cell* y al español como célula troncal) para referirse al microorganismo unicelular a partir del cual habrían evolucionado todos los otros grupos de organismos. Por lo tanto, la primera vez que se utilizó el término "célula troncal", se le dio un sentido de parentesco, es decir, filogénico.
+
+### 184
+
+En relación con el libro de Biología, ¿qué proponía la Teoría de la Recapitulación de Haeckel, que no está aceptada en la actualidad?
+
+- A. Que a lo largo del desarrollo de cada organismo se repite todo el proceso evolutivo de dicha especie
+- B. Que todos los organismos descienden de un único ancestro común
+- C. Que las células sólo pueden originarse a partir de células preexistentes
+- D. Que el desarrollo de un organismo es independiente de su evolución
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · células troncales
+
+Fruto de esas analogías desarrolló su propia Teoría de la Recapitulación que, aunque no está aceptada en la actualidad, proponía que a lo largo del desarrollo de cada organismo (ontogénesis) todo el proceso evolutivo de dicha especie (filogénesis) se repite.
+
+### 185
+
+De acuerdo con el libro de Biología, ¿qué sentido ontogénico le dio Haeckel también al término *Stammzelle*?
+
+- A. El del cigoto o célula a partir de la cual se forma todo un organismo maduro
+- B. El del microorganismo unicelular del que evolucionaron todos los grupos
+- C. El de la célula que da origen a los tipos celulares sanguíneos
+- D. El de la célula que se autorrenueva indefinidamente en el adulto
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · células troncales
+
+Por ello, el mismo Haeckel también dotó de un sentido ontogénico al término *Stammzelle*, refiriéndose al cigoto o célula a partir de la cual se forma todo un organismo maduro.
+
+> Los **dos sentidos** que Haeckel le dio a la misma palabra, y que el libro
+> separa con cuidado: el **filogénico** mira hacia atrás, al ancestro del que
+> evolucionaron los grupos; el **ontogénico** mira al **cigoto** del que se forma
+> un individuo.
+
+### 186
+
+De conformidad con el libro de Biología, ¿de qué tres vocablos griegos se compone la palabra "hemocitoblasto"?
+
+- A. *Hemo*, relativo a la sangre; *citos*, relativo a la célula; y *blastos*, relativo al germen o retoño
+- B. *Hemo*, relativo a la médula; *citos*, relativo al núcleo; y *blastos*, relativo a la división
+- C. *Hemo*, relativo a la sangre; *citos*, relativo al tejido; y *blastos*, relativo al crecimiento
+- D. *Hemo*, relativo al hierro; *citos*, relativo a la célula; y *blastos*, relativo al origen
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · células troncales
+
+Se aceptó que existía una única célula troncal o hemocitoblasto (palabra compuesta por tres vocablos griegos: *hemo* relativo a la sangre, *citos* relativo a la célula y *blastos* relativo al germen o retoño).
+
+### 187
+
+En relación con el libro de Biología, ¿qué genera el hemocitoblasto?
+
+- A. Todos los tipos celulares sanguíneos
+- B. Únicamente los eritrocitos
+- C. Únicamente los linfocitos y los trombocitos
+- D. Todas las células del sistema nervioso
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · células troncales
+
+Una única célula troncal o hemocitoblasto que genera todos los tipos celulares sanguíneos (linfocitos, trombocitos, eritrocitos, granulocitos, eritrocitos, etc.).
+
+### 188
+
+De acuerdo con el libro de Biología, ¿en qué consistieron los experimentos de los investigadores canadienses James Till y Ernest McCulloch?
+
+- A. En la inyección de células de la médula ósea en ratones irradiados
+- B. En el cultivo de células vegetales en medios artificiales
+- C. En la eliminación del material genético de bacterias
+- D. En la observación de tejidos vegetales al microscopio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · células troncales
+
+En 1961, los investigadores canadienses James Till y Ernest McCulloch realizaron una serie de experimentos que incluían la inyección de células de la médula ósea en ratones irradiados.
+
+### 189
+
+De conformidad con el libro de Biología, ¿qué observaron y qué confirmaron más tarde Till y McCulloch sobre esas células?
+
+- A. Que se diferenciaban en distintos tipos de células y que, además, se autorrenovaban
+- B. Que se diferenciaban, pero no eran capaces de autorrenovarse
+- C. Que se autorrenovaban, pero no podían diferenciarse
+- D. Que morían al poco tiempo de ser inyectadas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · células troncales
+
+Observaron que se diferenciaban en distintos tipos de células y más tarde confirmaron que, además, se autorrenovaban; se comprueba, de esta manera, que de una sola célula de médula, una célula troncal, se forman todas las células sanguíneas.
+
+### 190
+
+En relación con el libro de Biología, ¿cuál es el concepto actual de *stem cell* o células troncales?
+
+- A. Cualquier célula que es capaz de autorrenovarse y diferenciarse, de forma simultánea, hacia otras estirpes celulares
+- B. Cualquier célula que se divide con mayor rapidez que las demás
+- C. Cualquier célula que carece de núcleo diferenciado
+- D. Cualquier célula que proviene directamente del cigoto
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 60
+**Subtema:** Organización de las células · células troncales
+
+Till y McCulloch, entre otros investigadores, fueron quienes en la década de 1970 y 1980 terminaron por definir el concepto actual de *stem cell* o células troncales como cualquier célula que es capaz de autorrenovarse y diferenciarse, de forma simultánea, hacia otras estirpes celulares.
+
+---
+
+**Reactivos en este archivo:** 190

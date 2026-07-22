@@ -77,7 +77,16 @@ primeras células**, que va de la página impresa **32 a la 60**.
 
 ## Cobertura actual
 
-**El capítulo 3 queda cerrado.** Cubiertas las páginas impresas **35 a 55**:
+**El capítulo 3 queda cerrado.** Cubiertas las páginas impresas **33 a 55**:
+
+> **Corrección del 22 jul 2026.** Esta cobertura decía "35 a 55" y era cierta: las
+> páginas **33 y 34 se habían quedado fuera**. La 33 abre el capítulo con
+> "Biología en contexto social · Vida sintética", y la **34 es cuerpo del
+> capítulo** —"¿Qué es la vida?", la definición de las primeras células y el
+> arranque del Big Bang—, no recuadro. Están cubiertas en los **sub-lotes 36 y
+> 37**, al final del archivo. Se descubrió al comprobar que el capítulo 7 tampoco
+> empezaba donde decía el temario; desde entonces **la portadilla de cada
+> capítulo se verifica con `extraer.py` antes de fijar dónde empieza**.
 
 - La formación de los primeros átomos tras el Big Bang y el origen del sistema
   solar.
@@ -127,6 +136,13 @@ primeras células**, que va de la página impresa **32 a la 60**.
   Pasteur en 1864.
 - El ensayo 3-3, mecanicismo y vitalismo: Descartes, Pasteur vitalista, y los
   Buchner cerrando el debate con la enzima.
+- La apertura del capítulo (p. 34): que no hay una definición simple de "vida",
+  qué se entiende por primeras células, el Big Bang (13 700 millones de años,
+  100 mil millones de grados Celsius) y la figura de *Vibrio cholerae* y los
+  estromatolitos de la puna andina.
+- De "Biología en contexto social · Vida sintética" (p. 33), **sólo los datos de
+  biología**: el experimento de Venter con *Mycoplasma genitalium*, por qué se
+  eligió, el método, *Mycoplasma laboratorium* y el genoma mínimo de 2016.
 
 **Apartado dejado fuera a propósito.** El cierre del capítulo, "Temas en debate"
 (pp. 55–60) —¿diseño inteligente?, vida "sintética" de Craig Venter, el caso
@@ -3513,4 +3529,322 @@ Así se demostró que una reacción hasta entonces considerada "vital" era solo 
 
 ---
 
-**Reactivos en este archivo:** 202
+## Sub-lote 36 · La apertura del capítulo (p. 34)
+
+> **Hueco tapado el 22 jul 2026.** La cobertura de este archivo arrancaba en la
+> página 35, pero el capítulo empieza en la 33 y la **página 34 es cuerpo del
+> capítulo**, no recuadro: trae "¿Qué es la vida?", la definición de las primeras
+> células y el arranque del Big Bang. Se descubrió al comprobar que el capítulo 7
+> tampoco empezaba donde decía el temario. Va al final del archivo, fuera del
+> orden de páginas, para no renumerar los 202 reactivos anteriores.
+
+### 203
+
+De acuerdo con el libro de Biología, ¿existe una definición simple de qué es la vida?
+
+- A. No; es un concepto abstracto que designa aquello que caracteriza a los organismos vivos y los diferencia de los objetos no vivos
+- B. Sí; es la capacidad de reproducirse, y basta con ella
+- C. Sí; es la presencia de una membrana que separa al organismo del ambiente
+- D. Sí; es la capacidad de intercambiar materia y energía con el ambiente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 34
+**Subtema:** Origen de la vida · qué es la vida
+
+En realidad, no existe una definición simple de qué es la vida. Este es un concepto abstracto que designa aquello que caracteriza a los organismos vivos y que los diferencia de los objetos no vivos.
+
+### 204
+
+De conformidad con el libro de Biología, ¿qué se entiende por primeras células?
+
+- A. Sistemas organizados de un modo en que puedan responder a los estímulos, mantener su integridad, intercambiar materia y energía con el ambiente, producir descendientes similares a sí mismos y formar linajes que evolucionan
+- B. Sistemas capaces únicamente de reproducirse y de crecer
+- C. Sistemas rodeados por una pared rígida que los aísla del ambiente
+- D. Sistemas que sólo intercambian materia y energía con el ambiente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 34
+**Subtema:** Origen de la vida · las primeras células
+
+Nadie sabe con exactitud cuándo o cómo comenzaron a existir las primeras células, entendiendo como tales a aquellos sistemas organizados de un modo en que puedan responder a los estímulos, realizar funciones internas para mantener su integridad, intercambiar materia y energía con el ambiente, producir descendientes similares a sí mismos y formar linajes que se modifican con el tiempo, es decir, evolucionan.
+
+### 205
+
+En relación con el libro de Biología, ¿qué hipótesis favorecen el conocimiento de la historia del planeta y los experimentos de laboratorio?
+
+- A. Que las primeras células se formaron a partir de moléculas más simples precursoras capaces de autoensamblarse de manera espontánea, formando sistemas polimoleculares más complejos
+- B. Que las primeras células llegaron ya formadas desde otros planetas
+- C. Que las primeras células surgieron de una única molécula de ADN completa
+- D. Que las primeras células se formaron a partir de organismos multicelulares que se simplificaron
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 34
+**Subtema:** Origen de la vida · las primeras células
+
+El conocimiento creciente de la historia de nuestro planeta y los resultados de numerosos experimentos de laboratorio favorecen la hipótesis de que las primeras células se formaron a partir de moléculas más simples precursoras capaces de autoensamblarse de manera espontánea, formando sistemas polimoleculares más complejos.
+
+### 206
+
+De acuerdo con el libro de Biología, según las teorías actuales, ¿dónde se encontraban toda la energía y la materia presentes en el Universo?
+
+- A. Concentradas en un único punto
+- B. Repartidas de manera uniforme por todo el espacio
+- C. Concentradas en el interior de las primeras estrellas
+- D. Divididas entre materia y antimateria en dos regiones
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 34
+**Subtema:** Origen de la vida · Big Bang
+
+Según las teorías actuales, toda la energía y la materia presentes actualmente en el Universo probablemente se encontraban concentradas en un único punto.
+
+### 207
+
+De conformidad con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿hace cuánto tiempo se produjo el Big Bang?
+
+- A. Hace aproximadamente 13 700 millones de años
+- B. Hace aproximadamente 4 600 millones de años
+- C. Hace aproximadamente 3 800 millones de años
+- D. Hace aproximadamente 137 000 millones de años
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 34
+**Subtema:** Origen de la vida · Big Bang
+
+En un determinado momento hace aproximadamente 13 700 millones de años, se produjo una gran explosión o Big Bang.
+
+### 208
+
+En relación con el libro de Biología, ¿qué inició y a qué dio origen el Big Bang?
+
+- A. Inició la expansión del Universo y dio origen al espacio-tiempo y la energía
+- B. Inició la formación de los primeros átomos y dio origen a las galaxias
+- C. Inició el enfriamiento del Universo y dio origen a los planetas
+- D. Inició la formación de la Tierra y dio origen a su atmósfera
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 34
+**Subtema:** Origen de la vida · Big Bang
+
+Se produjo una gran explosión o Big Bang que inició la expansión del Universo y dio origen al espacio-tiempo y la energía.
+
+### 209
+
+De acuerdo con el libro de Biología, ¿cuál era la temperatura en el momento del Big Bang?
+
+- A. Cercana a los 100 mil millones de grados Celsius
+- B. Cercana a los 1 000 millones de grados Celsius
+- C. Cercana a los 100 millones de grados Celsius
+- D. Cercana a los 10 mil grados Celsius
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 34
+**Subtema:** Origen de la vida · Big Bang
+
+Conforme a este paradigma cosmológico, la temperatura en el momento de la explosión era cercana a los 100 mil millones de grados Celsius (10¹¹ ºC).
+
+> Ojo con el distractor B: **1 000 millones de grados** es la temperatura de unos
+> 100 segundos **después** del Big Bang, que se pregunta en el reactivo 1. Son
+> dos cifras del mismo relato y se confunden.
+
+### 210
+
+De conformidad con el libro de Biología, ¿en qué forma se encontraría toda la materia a esa temperatura, en la que no podrían existir los átomos?
+
+- A. En forma de partículas elementales subatómicas
+- B. En forma de moléculas orgánicas simples
+- C. En forma de polvo estelar
+- D. En forma de gas de hidrógeno y helio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 34
+**Subtema:** Origen de la vida · Big Bang
+
+A esta temperatura no podrían existir los átomos; toda la materia se encontraría en forma de partículas elementales subatómicas.
+
+### 211
+
+En relación con el libro de Biología, ¿qué propone el modelo que ocurría a medida que el Universo se expandía y se enfriaba?
+
+- A. Que gradualmente se iba formando más materia
+- B. Que la materia existente se destruía poco a poco
+- C. Que la energía se transformaba íntegramente en luz
+- D. Que la temperatura volvía a aumentar
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 34
+**Subtema:** Origen de la vida · Big Bang
+
+Este modelo propone que, a medida que el Universo se expandía y se enfriaba, gradualmente se iba formando más materia.
+
+### 212
+
+De acuerdo con el libro de Biología, ¿qué es *Vibrio cholerae*?
+
+- A. Una bacteria que puede infectar el sistema digestivo
+- B. Un alga unicelular de las lagunas saladas
+- C. Un hongo que forma parte de los estromatolitos
+- D. Un protista con vacuolas contráctiles
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 34
+**Subtema:** Origen de la vida · las primeras células
+
+Microfotografía electrónica de barrido de *Vibrio Cholerae*, bacteria que puede infectar el sistema digestivo.
+
+### 213
+
+De conformidad con el libro de Biología, ¿dónde fueron hallados los estromatolitos actuales que muestra la figura del capítulo?
+
+- A. En la puna andina, en la Argentina
+- B. En la costa occidental de Australia
+- C. En los depósitos de Isua, en Groenlandia
+- D. En el desierto del Sahara
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 34
+**Subtema:** Origen de la vida · estromatolitos
+
+Estromatolitos actuales hallados en la puna andina en la Argentina.
+
+### 214
+
+En relación con el libro de Biología, ¿en qué se basan las expediciones interplanetarias en busca de vida?
+
+- A. En descripciones de estromatolitos terrestres, para compararlos con rocas laminadas que puedan encontrarse fuera de la Tierra
+- B. En la búsqueda directa de microfósiles de bacterias
+- C. En la detección de oxígeno en la atmósfera de otros planetas
+- D. En el análisis de los isótopos del carbono de los meteoritos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 34
+**Subtema:** Origen de la vida · estromatolitos
+
+Las expediciones interplanetarias en busca de vida se basan en descripciones de estromatolitos terrestres para compararlos con rocas laminadas que puedan encontrarse fuera de la Tierra.
+
+---
+
+## Sub-lote 37 · Vida "sintética": el genoma de Venter (p. 33)
+
+> **Sólo los datos de biología** — criterio de Carlo del 22 jul 2026. De este
+> apartado de apertura entra el procedimiento experimental; **queda fuera** la
+> parte social y filosófica (la repercusión pública, el debate de intereses, las
+> preguntas de reflexión).
+>
+> **No choca con la decisión sobre "Temas en debate".** Aquel apartado de cierre
+> (pp. 55–60) sigue dejado fuera a propósito, y con razón: es la **discusión**
+> filosófica y legal sobre este mismo caso. Lo que entra aquí es el **relato
+> factual del experimento**, que es otra cosa.
+
+### 215
+
+De acuerdo con el libro de Biología, ¿con qué microorganismo estaba trabajando el equipo de J. C. Venter?
+
+- A. *Mycoplasma genitalium*
+- B. *Escherichia coli*
+- C. *Vibrio cholerae*
+- D. *Paramecium caudatum*
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 33
+**Subtema:** Origen de la vida · vida sintética
+
+El equipo de J. C. Venter estaba trabajando con un microorganismo, el *Mycoplasma genitalium*.
+
+### 216
+
+De conformidad con el libro de Biología, ¿por qué fue seleccionado ese microorganismo como modelo experimental?
+
+- A. Porque tiene una alta tasa de reproducción y su material genético es uno de los más pequeños conocidos hasta el momento
+- B. Porque es el microorganismo más grande que se conoce
+- C. Porque no posee material genético propio
+- D. Porque es resistente a todos los antibióticos conocidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 33
+**Subtema:** Origen de la vida · vida sintética
+
+Este microorganismo fue seleccionado como modelo experimental porque tiene una alta tasa de reproducción y su material genético es uno de los más pequeños conocidos hasta el momento.
+
+### 217
+
+En relación con el libro de Biología, ¿en qué consistían las manipulaciones con las que se redujo aún más ese material genético?
+
+- A. En eliminar genes y poner a prueba si la célula era aún viable
+- B. En añadir genes de otras especies y medir su crecimiento
+- C. En exponer la bacteria a radiación hasta que mutara
+- D. En cruzar dos cepas distintas y seleccionar la descendencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 33
+**Subtema:** Origen de la vida · vida sintética
+
+Mediante manipulaciones que consistían en eliminar genes y poner a prueba si la célula era aún viable, este material se redujo aún más hasta dejar solo los componentes que se mostraron como esenciales para la vida de esta bacteria.
+
+### 218
+
+De acuerdo con el libro de Biología, ¿qué hicieron los investigadores una vez obtenido el "genoma simplificado"?
+
+- A. Fabricaron mediante síntesis química moléculas de material genético idéntico y las introdujeron en bacterias de otra cepa, a las que previamente les habían eliminado su propio material genético
+- B. Lo conservaron congelado sin volver a utilizarlo
+- C. Lo inyectaron en ratones para observar su efecto
+- D. Lo compararon con el genoma humano para buscar semejanzas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 33
+**Subtema:** Origen de la vida · vida sintética
+
+Los investigadores "fabricaron" mediante síntesis química moléculas de material genético idéntico a ese y lo introdujeron en bacterias de otra cepa, *Mycoplasma capricolum*, a las que previamente les habían eliminado su propio material genético.
+
+### 219
+
+De conformidad con el libro de Biología, ¿cómo se llamaron las células modificadas de *Mycoplasma capricolum*?
+
+- A. *Mycoplasma laboratorium*
+- B. *Mycoplasma genitalium*
+- C. *Mycoplasma syntheticum*
+- D. *Mycoplasma venteri*
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 33
+**Subtema:** Origen de la vida · vida sintética
+
+Al cultivar las células modificadas de *Mycoplasma capricolum*, ahora llamadas *Mycoplasma laboratorium*, estas comenzaron a reproducirse sin dificultades.
+
+> Las tres cepas del experimento, que es donde se enreda todo el mundo: el genoma
+> se tomó de ***genitalium***, se metió en ***capricolum*** (vaciada antes), y el
+> resultado se llamó ***laboratorium***.
+
+### 220
+
+En relación con el libro de Biología, ¿a qué se parecían las características de los descendientes de esas células?
+
+- A. A las del microorganismo donante del genoma
+- B. A las de la cepa que recibió el genoma
+- C. A una mezcla equilibrada de las dos cepas
+- D. A ninguna de las dos, porque eran características nuevas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 33
+**Subtema:** Origen de la vida · vida sintética
+
+Estas comenzaron a reproducirse sin dificultades, pero las características de los descendientes eran semejantes a las del microorganismo donante del genoma.
+
+### 221
+
+De acuerdo con el libro de Biología, ¿con qué objetivo sintetizó el grupo de Venter un genoma aún más pequeño?
+
+- A. Crear una célula que contuviera solo los genes indispensables para mantener vivo a un organismo en su forma más simple
+- B. Obtener una bacteria resistente a los antibióticos
+- C. Producir una célula capaz de realizar la fotosíntesis
+- D. Reconstruir el genoma del ancestro común de todos los seres vivos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 33
+**Subtema:** Origen de la vida · vida sintética
+
+El grupo científico encabezado por Venter sintetizó artificialmente un genoma aún más pequeño, con el objetivo de crear una célula que contuviera solo los genes indispensables para mantener vivo a un organismo en su forma más simple.
+
+---
+
+**Reactivos en este archivo:** 221
