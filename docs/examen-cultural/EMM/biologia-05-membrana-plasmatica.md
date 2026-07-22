@@ -29,7 +29,7 @@ página impresa **89** (hoja 135 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **89 a 98**:
+Cubiertas las páginas impresas **89 a 100**:
 
 - La historia del modelo de membrana: Langmuir, Gorter y Grendel (la bicapa),
   Cole y Danielli (las proteínas), Robertson (el modelo trilaminar).
@@ -61,11 +61,14 @@ Cubiertas las páginas impresas **89 a 98**:
   las bombas hidráulicas, el nombre "bombas", los sitios de unión específicos,
   el ciclo completo de la proteína transportadora (complejo proteína-soluto,
   cambio de conformación, liberación, retorno) y el ATP como fuente de energía.
+- La bomba de Na⁺-K⁺: las concentraciones desiguales de los dos iones, el nombre
+  del sistema, el 30% de la energía del metabolismo en reposo, el antiporte de
+  tres Na⁺ por dos K⁺ por ATP, el movimiento neto de carga y su papel en los
+  potenciales eléctricos de la membrana (recuadro 5-4 incluido).
 
-**Pendiente:** el resto del capítulo 5 — la bomba de Na⁺-K⁺ (p. 99), el recuadro
-5-4 (p. 100), los intercambios a través de vesículas (pp. 99–101) y el cierre
-"La nicotina y sus cómplices" (p. 102) —, y los capítulos 7, 8, 11, 12, 31, 32,
-35, 36 y 37.
+**Pendiente:** el resto del capítulo 5 — los intercambios a través de vesículas
+(pp. 99–101) y el cierre "La nicotina y sus cómplices" (p. 102) —, y los
+capítulos 7, 8, 11, 12, 31, 32, 35, 36 y 37.
 
 **No se cubre:** las "Situaciones problemáticas" de la p. 102 son ejercicios de
 resolución, no teoría (criterio de abajo).
@@ -1755,4 +1758,205 @@ El ATP constituye la principal forma de almacenamiento e intercambio de energía
 
 ---
 
-**Reactivos en este archivo:** 96
+## Sub-lote 31 · La bomba de Na⁺-K⁺ (p. 99)
+
+### 97
+
+En relación con el libro de Biología, ¿cómo es la concentración de Na⁺ en el citoplasma comparada con la del medio extracelular?
+
+- A. Es mucho menor que en el medio extracelular
+- B. Es mucho mayor que en el medio extracelular
+- C. Es exactamente igual a la del medio extracelular
+- D. Es nula, porque el Na⁺ no entra nunca en la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 99
+**Subtema:** Membrana plasmática · bomba de sodio y potasio
+
+En la mayoría de las células de los eucariontes, el K⁺ y el Na⁺ se encuentran en concentraciones muy diferentes a uno y otro lado de las membranas biológicas: la concentración de Na⁺ en el citoplasma es mucho menor que en el medio extracelular.
+
+### 98
+
+De acuerdo con el libro de Biología, ¿por qué el K⁺ es requerido en una concentración alta dentro de la célula?
+
+- A. Porque es un catión clave en muchos sistemas enzimáticos intracelulares
+- B. Porque es el principal componente de la bicapa lipídica
+- C. Porque forma parte del glucocálix de la cara externa
+- D. Porque es el único ion que atraviesa la membrana por difusión simple
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 99
+**Subtema:** Membrana plasmática · bomba de sodio y potasio
+
+Por su parte, el K⁺, que es un catión clave en muchos sistemas enzimáticos intracelulares, es requerido en una concentración alta dentro de la célula.
+
+> El par que se confunde: el **Na⁺** está **más afuera** que adentro; el **K⁺**,
+> **más adentro** que afuera. Uno es el distractor del otro.
+
+### 99
+
+De conformidad con el libro de Biología, ¿cómo pueden mantenerse esos estados alejados del equilibrio del Na⁺ y el K⁺?
+
+- A. Mediante la participación de las proteínas de transporte y con un aporte constante de energía
+- B. Mediante la difusión simple de los dos iones a través de la bicapa
+- C. Mediante el cierre permanente de todos los canales de la membrana
+- D. Mediante la formación de vesículas que atrapan los iones sobrantes
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 99
+**Subtema:** Membrana plasmática · bomba de sodio y potasio
+
+Estos estados alejados del equilibrio solo pueden mantenerse mediante la participación de las proteínas de transporte y con un aporte constante de energía, es decir, a través de un sistema de transporte activo que compensa los flujos pasivos de Na⁺ y K⁺ determinados por sus respectivos gradientes.
+
+### 100
+
+En relación con el libro de Biología, ¿cómo se denomina el sistema de transporte activo que compensa los flujos pasivos de Na⁺ y K⁺?
+
+- A. Bomba de Na⁺-K⁺
+- B. Acuaporina
+- C. Uniporte de sodio
+- D. Toxina formadora de poros
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 99
+**Subtema:** Membrana plasmática · bomba de sodio y potasio
+
+Este sistema se denomina bomba de Na⁺-K⁺.
+
+### 101
+
+De acuerdo con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿qué proporción de la energía producida durante el metabolismo de un ser vivo en reposo se utiliza para el funcionamiento de la bomba de Na⁺-K⁺?
+
+- A. Alrededor del 30%
+- B. Alrededor del 5%
+- C. Alrededor del 60%
+- D. Alrededor del 90%
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 99
+**Subtema:** Membrana plasmática · bomba de sodio y potasio
+
+La importancia de este sistema enzimático en la función celular queda en evidencia si tenemos en cuenta que alrededor del 30% de la energía producida durante el metabolismo de un ser vivo en reposo se utiliza para el funcionamiento de la bomba de Na⁺-K⁺.
+
+---
+
+## Sub-lote 32 · El transporte activo de sodio y potasio (recuadro 5-4, p. 100)
+
+### 102
+
+De conformidad con el libro de Biología, ¿qué permite la concentración alta de Na⁺ en el medio extracelular y su concentración baja dentro de la célula?
+
+- A. El mantenimiento del volumen celular
+- B. La síntesis de las proteínas integrales
+- C. La formación del glucocálix
+- D. La apertura permanente de las acuaporinas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · bomba de sodio y potasio
+
+Como ya hemos mencionado, la concentración alta de Na⁺ en el medio extracelular y su concentración baja dentro de la célula permite el mantenimiento del volumen celular.
+
+### 103
+
+En relación con el libro de Biología, ¿con qué otro nombre, más simple, se conoce la bomba de Na⁺-K⁺?
+
+- A. Bomba de sodio
+- B. Bomba de calcio
+- C. Bomba de protones
+- D. Bomba de agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · bomba de sodio y potasio
+
+Este sistema se denomina bomba de Na⁺-K⁺, Na⁺-K⁺-ATPasa o simplemente bomba de sodio.
+
+> Cuidado al citar esta línea: el libro imprime **"Na⁺-Ka⁺-ATPasa"**, con una
+> "a" de más. Es errata suya —el símbolo del potasio es **K**—, así que no se
+> hace reactivo de ese nombre. Está anotada en el encabezado.
+
+### 104
+
+De acuerdo con el libro de Biología, ¿dónde se localiza la bomba de sodio?
+
+- A. En la membrana plasmática de la mayoría de las células eucariontes
+- B. En la membrana interna de las mitocondrias, únicamente
+- C. En la pared celular de las células vegetales
+- D. En el interior de los lisosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · bomba de sodio y potasio
+
+La Na⁺-K⁺-ATPasa se localiza en la membrana plasmática de la mayoría de las células eucariontes.
+
+### 105
+
+De conformidad con el libro de Biología, ¿a cuál de las tres clases de transportadores pertenece la bomba de sodio?
+
+- A. Al antiporte
+- B. Al uniporte
+- C. Al simporte
+- D. A ninguna, porque es un canal iónico
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · bomba de sodio y potasio
+
+Funciona como un antiporte que intercambia tres iones Na⁺ del medio intracelular por dos iones K⁺ del medio extracelular por cada molécula de ATP hidrolizada.
+
+> Conecta con el sub-lote 18: **antiporte** es el que mueve las dos sustancias en
+> sentidos opuestos. La bomba de sodio es el ejemplo que el libro desarrolla.
+
+### 106
+
+En relación con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿cuántos iones intercambia la bomba de sodio por cada molécula de ATP hidrolizada?
+
+- A. Tres iones Na⁺ del medio intracelular por dos iones K⁺ del medio extracelular
+- B. Dos iones Na⁺ del medio intracelular por tres iones K⁺ del medio extracelular
+- C. Tres iones K⁺ del medio intracelular por dos iones Na⁺ del medio extracelular
+- D. Un ion Na⁺ del medio intracelular por un ion K⁺ del medio extracelular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · bomba de sodio y potasio
+
+Funciona como un antiporte que intercambia tres iones Na⁺ del medio intracelular por dos iones K⁺ del medio extracelular por cada molécula de ATP hidrolizada.
+
+> Las cifras se prestan a invertirse: salen **tres** sodios y entran **dos**
+> potasios. Los distractores B y C son justamente las dos formas de confundirlo.
+
+### 107
+
+De acuerdo con el libro de Biología, ¿cuál es el resultado de cada ciclo de la bomba de sodio, dado que moviliza un número diferente de cargas hacia cada lado?
+
+- A. El movimiento neto de una carga positiva hacia el medio extracelular
+- B. El movimiento neto de una carga positiva hacia el interior celular
+- C. El movimiento neto de dos cargas negativas hacia el medio extracelular
+- D. Ningún movimiento neto de carga, porque se compensan
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · bomba de sodio y potasio
+
+Dado que la enzima moviliza un número diferente de cargas eléctricas hacia el interior celular que hacia el exterior, cada ciclo dará como resultado el movimiento neto de una carga positiva hacia el medio extracelular.
+
+### 108
+
+De conformidad con el libro de Biología, ¿en qué tiene particular importancia el movimiento neto de carga que produce la bomba de sodio?
+
+- A. En la generación de los potenciales eléctricos de la membrana y en células excitables, como las neuronas
+- B. En la digestión del material internalizado por endocitosis
+- C. En la formación de la pared celular de las células vegetales
+- D. En la síntesis de los fosfolípidos de la bicapa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · bomba de sodio y potasio
+
+Esta característica tiene particular importancia en la generación de los potenciales eléctricos de la membrana y en células excitables, como las neuronas, para la recuperación de las propiedades eléctricas de la membrana, luego de la generación de los impulsos eléctricos.
+
+---
+
+**Reactivos en este archivo:** 108
