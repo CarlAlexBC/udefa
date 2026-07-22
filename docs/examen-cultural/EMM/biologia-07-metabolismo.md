@@ -50,7 +50,7 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **126 a 137**:
+Cubiertas las páginas impresas **126 a 138**:
 
 - La vida y el flujo de energía del sol; la célula como transformador de energía;
   el metabolismo y el origen griego de la palabra "energía".
@@ -101,11 +101,14 @@ Cubiertas las páginas impresas **126 a 137**:
 - El sitio activo y el sustrato; el paso del modelo llave-cerradura de Fischer
   al ajuste inducido; el complejo enzima-sustrato y el ciclo catalítico.
 - Las isoenzimas y la LDH con sus cinco formas.
+- Los cofactores y las coenzimas: el ion magnesio, el NAD, y cómo se unen a la
+  enzima; las vías enzimáticas y los complejos multienzimáticos.
 
-**Pendiente:** del capítulo 7, las páginas impresas 138 a 144 — la regulación
-enzimática y lo que siga hasta el cierre del capítulo; queda por decidir el
-apartado "Biología en contexto social" de las páginas 125–126. De la materia
-siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 7, las páginas impresas 139 a 144 — la regulación de
+la actividad enzimática (temperatura, pH, inhibidores) y lo que siga hasta el
+cierre del capítulo; queda por decidir el apartado "Biología en contexto social"
+de las páginas 125–126. De la materia siguen sin empezar los capítulos 8, 11, 12,
+31, 32, 35, 36 y 37.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
@@ -2645,4 +2648,210 @@ La distribución de las cinco formas es característica en cada tejido y sus pro
 
 ---
 
-**Reactivos en este archivo:** 152
+## Sub-lote 32 · Cofactores y coenzimas (p. 138)
+
+### 153
+
+En relación con el libro de Biología, ¿cómo se denominan las sustancias adicionales que requiere el funcionamiento de muchas enzimas, según sean inorgánicas u orgánicas?
+
+- A. Cofactores, si son inorgánicas y de bajo peso molecular; coenzimas, si son orgánicas no proteicas
+- B. Coenzimas, si son inorgánicas y de bajo peso molecular; cofactores, si son orgánicas no proteicas
+- C. Isoenzimas, si son inorgánicas; apoenzimas, si son orgánicas
+- D. Sustratos, si son inorgánicas; productos, si son orgánicas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · cofactores y coenzimas
+
+Si estas sustancias adicionales son inorgánicas y de bajo peso molecular se las denomina cofactores, y si son orgánicas no proteicas se las llama coenzimas.
+
+> El par se invierte con facilidad porque los nombres se parecen. Regla corta:
+> **cofactor = inorgánico**; **coenzima = orgánica**.
+
+### 154
+
+De acuerdo con el libro de Biología, ¿cuál es un ejemplo de cofactor y en qué reacciones es indispensable?
+
+- A. El ion magnesio, indispensable en todas las reacciones enzimáticas que implican la transferencia de un grupo fosfato de una molécula a otra
+- B. El dinucleótido de nicotinamida y adenina, indispensable en las reacciones de síntesis de proteínas
+- C. El ion sodio, indispensable en todas las reacciones de oxidorreducción
+- D. El ion potasio, indispensable en la formación del complejo enzima-sustrato
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · cofactores y coenzimas
+
+Un ejemplo de cofactor es el ion magnesio (Mg²⁺), indispensable en todas las reacciones enzimáticas que implican la transferencia de un grupo fosfato de una molécula a otra.
+
+### 155
+
+De conformidad con el libro de Biología, ¿cómo mantiene el ion magnesio en posición al grupo fosfato dentro del sitio activo?
+
+- A. Lo atrae con sus dos cargas positivas, porque el grupo fosfato en solución tiene dos cargas negativas
+- B. Lo repele con sus dos cargas negativas, porque el grupo fosfato tiene dos cargas positivas
+- C. Lo une mediante un enlace covalente permanente
+- D. Lo envuelve en una capa de agua que lo inmoviliza
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · cofactores y coenzimas
+
+El grupo fosfato, cuando está en solución, tiene dos cargas negativas y, cuando está en el sitio activo, se mantiene en posición por la acción del ion magnesio que lo atrae con sus dos cargas positivas.
+
+### 156
+
+En relación con el libro de Biología, ¿cómo y dónde se unen las coenzimas a la enzima?
+
+- A. En forma temporaria o permanente, y en general bastante cerca del sitio activo
+- B. Siempre en forma permanente, y en el extremo opuesto al sitio activo
+- C. Siempre en forma temporaria, y dentro del núcleo celular
+- D. No se unen a la enzima, sino al producto de la reacción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · cofactores y coenzimas
+
+Las coenzimas, por su parte, se unen en forma temporaria o permanente a la enzima; en general, bastante cerca del sitio activo.
+
+### 157
+
+De acuerdo con el libro de Biología, ¿qué reciben con frecuencia las coenzimas que funcionan como aceptores de electrones?
+
+- A. Un par de electrones acompañados por un ion hidrógeno, un protón, que luego transfieren a otra molécula
+- B. Un solo electrón sin acompañamiento, que retienen de forma permanente
+- C. Un grupo fosfato, que luego ceden al ATP
+- D. Un átomo de magnesio, que estabiliza el sitio activo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · cofactores y coenzimas
+
+Con frecuencia, reciben un par de electrones acompañados por un ion hidrógeno –un protón– que luego transfieren a otra molécula.
+
+### 158
+
+De conformidad con el libro de Biología, ¿cuál es una de las coenzimas aceptoras de electrones más abundantes y en qué procesos participa?
+
+- A. El dinucleótido de nicotinamida y adenina (NAD), que desempeña un papel fundamental en los procesos de glucólisis y de respiración celular
+- B. El adenosín trifosfato (ATP), que desempeña un papel fundamental en la síntesis de proteínas
+- C. La lacticodeshidrogenasa (LDH), que desempeña un papel fundamental en la fotosíntesis
+- D. El ion magnesio (Mg²⁺), que desempeña un papel fundamental en la glucólisis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · cofactores y coenzimas
+
+Hay varios tipos diferentes de coenzimas aceptoras de electrones; una de las más abundantes es el dinucleótido de nicotinamida y adenina (NAD), que desempeña un papel fundamental en los procesos de glucólisis y de respiración celular.
+
+---
+
+## Sub-lote 33 · Las vías enzimáticas (p. 138)
+
+### 159
+
+En relación con el libro de Biología, ¿cuándo es catabólica y cuándo anabólica una vía metabólica?
+
+- A. Catabólica, si se trata de reacciones de degradación; anabólica, si son de síntesis
+- B. Catabólica, si se trata de reacciones de síntesis; anabólica, si son de degradación
+- C. Catabólica, si ocurre en el citosol; anabólica, si ocurre en la membrana
+- D. Catabólica, si requiere enzimas; anabólica, si no las requiere
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · vías enzimáticas
+
+Esta vías pueden ser catabólicas, si se trata de reacciones de degradación, y anabólicas, si son de síntesis.
+
+### 160
+
+De acuerdo con el libro de Biología, ¿cómo se catalizan los pasos de una vía metabólica?
+
+- A. Cada uno de los pasos es catalizado por una enzima específica, y varias enzimas trabajan en serie a lo largo de la vía
+- B. Todos los pasos son catalizados por una única enzima que se desplaza a lo largo de la vía
+- C. Sólo el primer paso requiere enzima; los demás ocurren solos
+- D. Los pasos no requieren enzimas, sólo cofactores
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · vías enzimáticas
+
+Cada uno de los pasos de una vía metabólica es catalizado por una enzima específica y varias enzimas trabajan en serie a lo largo de la vía.
+
+### 161
+
+De conformidad con el libro de Biología, ¿cómo se llama la agrupación que a veces forman las enzimas?
+
+- A. Complejos multienzimáticos
+- B. Complejos enzima-sustrato
+- C. Isoenzimas
+- D. Vías metabólicas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · vías enzimáticas
+
+A veces, las enzimas se agrupan formando complejos multienzimáticos.
+
+### 162
+
+En relación con el libro de Biología, ¿dónde se encuentran las enzimas y complejos multienzimáticos en los organismos eucariontes?
+
+- A. Algunas en solución dentro de ciertos orgánulos, como los lisosomas, y otras embutidas en la membrana de organelas particulares
+- B. Todas en solución en el citosol, sin excepción
+- C. Todas embutidas en la membrana celular
+- D. Todas dentro del núcleo celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · vías enzimáticas
+
+En los organismos eucariontes, algunas enzimas y complejos multienzimáticos se encuentran en solución dentro de ciertos orgánulos, como sucede en los lisosomas, mientras que otras están embutidas en la membrana de organelas particulares, o directamente en la membrana celular si se trata de organismos procariontes.
+
+### 163
+
+De acuerdo con el libro de Biología, ¿qué patrón presentan las enzimas ubicadas en membranas que actúan en una misma vía metabólica?
+
+- A. Un patrón secuencial de alineación espacial que se corresponde con la secuencia de pasos de una reacción
+- B. Una distribución al azar por toda la superficie de la membrana
+- C. Una agrupación en el centro exacto de la membrana
+- D. Una alineación inversa a la secuencia de pasos de la reacción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · vías enzimáticas
+
+Las enzimas ubicadas en membranas y que actúan en una misma vía metabólica presentan un patrón secuencial de alineación espacial que se corresponde con la secuencia de pasos de una reacción.
+
+### 164
+
+De conformidad con el libro de Biología, en esa disposición, ¿qué es el producto de una reacción?
+
+- A. El sustrato de la enzima contigua, que catalizará la siguiente reacción de la serie
+- B. El producto final de toda la vía metabólica
+- C. Un residuo que la célula elimina de inmediato
+- D. El cofactor de la enzima anterior
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · vías enzimáticas
+
+De este modo, el producto de una reacción es el sustrato de la enzima contigua que catalizará la siguiente reacción de la serie.
+
+### 165
+
+En relación con el libro de Biología, ¿cuál es una ventaja de esa disposición de las enzimas?
+
+- A. Que se produce una escasa acumulación de productos intermedios, con la consiguiente optimización de la energía
+- B. Que se acumulan grandes reservas de productos intermedios para usarlas después
+- C. Que la vía puede funcionar sin necesidad de enzimas
+- D. Que la célula puede prescindir de la membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 138
+**Subtema:** Metabolismo · vías enzimáticas
+
+Una ventaja de esta disposición es que se produce una escasa acumulación de productos intermedios, pues cada producto tiende a ser usado en la próxima reacción de la vía, con la consiguiente optimización de la energía.
+
+---
+
+**Reactivos en este archivo:** 165
