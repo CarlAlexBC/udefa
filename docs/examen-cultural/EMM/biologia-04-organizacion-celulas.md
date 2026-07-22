@@ -30,7 +30,7 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63 y 66 a 78**:
+Cubiertas las páginas impresas **61 a 63 y 66 a 80**:
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -63,6 +63,10 @@ Cubiertas las páginas impresas **61 a 63 y 66 a 78**:
 - Los plástidos y sus tres tipos (leucoplastos, cromoplastos, cloroplastos) con
   el origen de sus nombres; los cloroplastos, la fotosíntesis y la membrana
   tilacoide.
+- El citoesqueleto y sus tres integrantes (microtúbulos, filamentos de actina,
+  filamentos intermedios); microtúbulos (tubulina, 22 nm, cilios y flagelos);
+  actina (6 nm, actina G y F, seudópodos); los dos mecanismos de movimiento
+  celular y la miosina.
 
 **Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
 4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
@@ -2287,4 +2291,204 @@ Además de las dos membranas comunes a todos los plástidos, los cloroplastos ti
 
 ---
 
-**Reactivos en este archivo:** 131
+## Sub-lote 33 · El citoesqueleto y sus tres integrantes (p. 79)
+
+### 132
+
+De acuerdo con el libro de Biología, además de dar forma a la célula, ¿de qué es responsable el citoesqueleto?
+
+- A. Del movimiento, participa en las modificaciones de su morfología y dirige el tránsito intracelular
+- B. De la síntesis de las proteínas de exportación
+- C. Del almacenamiento del material genético
+- D. De la producción de energía a partir de la glucosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 79
+**Subtema:** Organización de las células · citoesqueleto
+
+Además es responsable del movimiento, participa en las modificaciones de su morfología y dirige el tránsito intracelular.
+
+### 133
+
+De conformidad con el libro de Biología, ¿cuáles son los tres integrantes principales del citoesqueleto?
+
+- A. Los microtúbulos, los filamentos de actina (o microfilamentos) y los filamentos intermedios
+- B. Las crestas, los tilacoides y las cisternas
+- C. Los ribosomas, los lisosomas y los peroxisomas
+- D. La actina, la miosina y la tubulina, únicamente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 79
+**Subtema:** Organización de las células · citoesqueleto
+
+Se han identificado tres integrantes principales del citoesqueleto: los microtúbulos, los filamentos de actina –o microfilamentos– y los filamentos intermedios.
+
+---
+
+## Sub-lote 34 · Los microtúbulos (p. 79)
+
+### 134
+
+En relación con el libro de Biología, ¿qué son los microtúbulos y por qué proteínas están formados?
+
+- A. Largos tubos huecos formados por dímeros de dos proteínas globulares llamadas tubulina alfa y tubulina beta
+- B. Largas hélices dobles formadas por actina G
+- C. Sacos aplanados formados por lípidos de membrana
+- D. Filamentos macizos formados por miosina
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 79
+**Subtema:** Organización de las células · microtúbulos
+
+Los microtúbulos son largos tubos huecos formados por dímeros de dos proteínas globulares llamadas tubulina alfa y tubulina beta, que se asocian formando un polímero.
+
+### 135
+
+De acuerdo con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿qué diámetro tienen los microtúbulos?
+
+- A. Alrededor de 22 nanómetros
+- B. Alrededor de 6 nanómetros
+- C. Alrededor de 10 nanómetros
+- D. Alrededor de 100 nanómetros
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 79
+**Subtema:** Organización de las células · microtúbulos
+
+Estos tubos, constituidos por el polímero enroscado, tienen alrededor de 22 nanómetros de diámetro, pero su longitud es variable.
+
+### 136
+
+De conformidad con el libro de Biología, ¿qué función cumplen los microtúbulos dentro del citoplasma?
+
+- A. El transporte y el movimiento de vesículas y organelas dentro del citoplasma
+- B. La digestión de macromoléculas
+- C. La síntesis de lípidos y esteroides
+- D. El almacenamiento de almidón
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 79
+**Subtema:** Organización de las células · microtúbulos
+
+Los microtúbulos son importantes en el transporte y el movimiento de vesículas y organelas dentro del citoplasma.
+
+### 137
+
+En relación con el libro de Biología, ¿de qué estructuras de locomoción son componentes principales los microtúbulos?
+
+- A. De los cilios y los flagelos
+- B. De los seudópodos o "falsos pies"
+- C. De las fibras de tensión
+- D. De las crestas mitocondriales
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 79
+**Subtema:** Organización de las células · microtúbulos
+
+Los microtúbulos son componentes principales de los cilios y los flagelos, estructuras que participan en la locomoción de muchos tipos de células.
+
+---
+
+## Sub-lote 35 · Los filamentos de actina (p. 79)
+
+### 138
+
+De acuerdo con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿qué diámetro promedio tienen los filamentos de actina o microfilamentos?
+
+- A. Un diámetro promedio de 6 nanómetros
+- B. Un diámetro promedio de 22 nanómetros
+- C. Un diámetro promedio de 60 nanómetros
+- D. Un diámetro promedio de 1 nanómetro
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 79
+**Subtema:** Organización de las células · filamentos de actina
+
+Los filamentos de actina o microfilamentos, de un diámetro promedio de 6 nanómetros, están constituidos por varias moléculas de una proteína globular llamada actina G.
+
+> Par de diámetros que se cruza: los **microtúbulos** miden 22 nm; los
+> **filamentos de actina**, 6 nm. Los microtúbulos son los más gruesos; la actina,
+> de los más finos (reactivo 135).
+
+### 139
+
+De conformidad con el libro de Biología, ¿qué estructura forman las moléculas de actina G al ensamblarse?
+
+- A. Una larga estructura helicoidal doble que se conoce como actina F
+- B. Un tubo hueco de tubulina
+- C. Un saco aplanado de membrana
+- D. Un dímero de tubulina alfa y beta
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 79
+**Subtema:** Organización de las células · filamentos de actina
+
+Cuando estas moléculas de actina G se ensamblan, forman una larga estructura helicoidal doble que se conoce como actina F.
+
+### 140
+
+En relación con el libro de Biología, ¿qué forma la polimerización de la actina para impulsar ciertos movimientos de las células?
+
+- A. Seudópodos o "falsos pies"
+- B. Cilios y flagelos
+- C. Crestas y tilacoides
+- D. Vacuolas alimentarias
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 79
+**Subtema:** Organización de las células · filamentos de actina
+
+Ciertos movimientos de las células son impulsados por la polimerización de la actina que, de esta manera, forma seudópodos o "falsos pies".
+
+---
+
+## Sub-lote 36 · Los mecanismos del movimiento celular (p. 80)
+
+### 141
+
+De acuerdo con el libro de Biología, ¿en qué consiste el primer mecanismo de movimiento celular?
+
+- A. En el montaje de proteínas contráctiles, como los filamentos de actina
+- B. En estructuras motoras permanentes formadas por microtúbulos
+- C. En la fisión binaria de la célula
+- D. En la difusión pasiva a través de la membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · movimiento celular
+
+El primero consiste en el montaje de proteínas contráctiles, como los filamentos de actina, que además de su función estructural cumplen un papel importante tanto en el movimiento interno del contenido celular como en el de la propia célula.
+
+### 142
+
+De conformidad con el libro de Biología, ¿en qué consiste el segundo mecanismo de movimiento celular?
+
+- A. En estructuras motoras permanentes formadas por la asociación de microtúbulos, como los cilios y los flagelos
+- B. En el montaje de filamentos de actina contráctiles
+- C. En la formación de seudópodos
+- D. En la polimerización de la tubulina en el núcleo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · movimiento celular
+
+Un segundo mecanismo para el movimiento celular consiste en estructuras motoras permanentes formadas por la asociación de microtúbulos, como son los cilios y los flagelos.
+
+### 143
+
+En relación con el libro de Biología, en la motilidad celular, ¿a qué otra proteína fibrosa suele estar asociada la actina?
+
+- A. A la miosina
+- B. A la tubulina
+- C. A la actina G
+- D. A la catalasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · movimiento celular
+
+En su participación en la motilidad celular, la actina suele estar asociada a otros tipos de proteínas. En particular, la miosina, otra proteína fibrosa.
+
+---
+
+**Reactivos en este archivo:** 143
