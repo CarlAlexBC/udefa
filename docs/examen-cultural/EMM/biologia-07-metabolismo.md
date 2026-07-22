@@ -50,7 +50,7 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **126 a 131**:
+Cubiertas las páginas impresas **126 a 132**:
 
 - La vida y el flujo de energía del sol; la célula como transformador de energía;
   el metabolismo y el origen griego de la palabra "energía".
@@ -77,9 +77,14 @@ Cubiertas las páginas impresas **126 a 131**:
 - Las heterogeneidades de la célula: los gradientes a través de las membranas,
   los compartimentos sin membrana, el citosol como gel, y por qué la disipación
   de los gradientes significa la muerte celular.
+- Las transformaciones energéticas durante las reacciones químicas: la entalpía
+  (etimología, símbolo, Qp, exo y endotérmica) y la oxidación de la glucosa en el
+  calorímetro (673 kcal/mol).
+- La energía libre de Gibbs: el desequilibrio químico, la reacción de
+  oxidorreducción, y la ecuación ΔG = ΔH – T × ΔS.
 
-**Pendiente:** del capítulo 7, las páginas impresas 132 a 144 — la entalpía y la
-energía libre de Gibbs, y lo que siga hasta el cierre del capítulo; queda por
+**Pendiente:** del capítulo 7, las páginas impresas 133 a 144 — el recuadro 7-1
+sobre oxidorreducción, y lo que siga hasta el cierre del capítulo; queda por
 decidir el apartado "Biología en contexto social" de las páginas 125–126. De la
 materia siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
 
@@ -1141,4 +1146,324 @@ Estos gradientes, potenciales y desequilibrios, son las fuerzas que operan en un
 
 ---
 
-**Reactivos en este archivo:** 62
+## Sub-lote 13 · La entalpía (p. 132)
+
+### 63
+
+En relación con el libro de Biología, ¿qué sufren las especies participantes durante las reacciones químicas?
+
+- A. Reordenamientos de sus configuraciones electrónicas
+- B. Cambios en el número de protones de sus núcleos
+- C. La pérdida completa de su estructura molecular
+- D. Un aumento invariable de su temperatura
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · entalpía
+
+Durante las reacciones químicas, las especies participantes sufren reordenamientos de sus configuraciones electrónicas.
+
+### 64
+
+De acuerdo con el libro de Biología, ¿cómo se llaman las reacciones en las que las especies sufren pérdida o ganancia neta en su contenido de electrones?
+
+- A. Reacciones de oxidorreducción
+- B. Reacciones exotérmicas
+- C. Reacciones endotérmicas
+- D. Reacciones de condensación
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · entalpía
+
+Incluso, pueden sufrir pérdida o ganancia neta en su contenido de electrones –reacciones de oxidorreducción–.
+
+### 65
+
+De conformidad con el libro de Biología, ¿qué nombre recibe la cantidad de energía puesta en juego por las reacciones químicas a presión constante, de dónde viene esa palabra y con qué letra se simboliza?
+
+- A. Entalpía, del griego *enthalpien*, que significa calentar; se simboliza con la letra H
+- B. Entropía, del griego *tropos*, que significa cambio; se simboliza con la letra S
+- C. Entalpía, del griego *therme*, que significa calor; se simboliza con la letra T
+- D. Energía libre, del griego *ergon*, que significa trabajo; se simboliza con la letra G
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · entalpía
+
+La cantidad de energía puesta en juego por las reacciones químicas en estas condiciones recibe el nombre de entalpía (del griego *enthalpien*, que significa calentar). La entalpía se simboliza con la letra H.
+
+> **Entalpía** y **entropía** se parecen tanto que se confunden solas. *Enthalpien*
+> es **calentar** y va con **H**; *tropos* es **cambio** y va con **S**.
+
+### 66
+
+En relación con el libro de Biología, ¿qué representa Qp?
+
+- A. El calor cedido o ganado en una reacción a presión constante
+- B. El trabajo mecánico producido por la reacción
+- C. La cantidad de electrones transferidos en la reacción
+- D. La temperatura final del sistema
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · entalpía
+
+Qp representa el calor cedido o ganado en una reacción a presión constante.
+
+### 67
+
+De acuerdo con el libro de Biología, ¿a qué presión constante se mide la entalpía, condición que se encuentra dentro de los seres vivos?
+
+- A. 1 atmósfera
+- B. 10 atmósferas
+- C. 100 atmósferas
+- D. 0,1 atmósferas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · entalpía
+
+La cantidad total de energía intercambiada (medible en forma de calor) para una reacción que ocurre en condiciones de presión constante de 1 atmósfera (1 atm) –condición que se encuentra dentro de los seres vivos–.
+
+### 68
+
+De conformidad con el libro de Biología, ¿cómo se denomina la reacción en la que se libera energía y la entalpía de los productos disminuye?
+
+- A. Exotérmica
+- B. Endotérmica
+- C. De oxidorreducción
+- D. Estacionaria
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · entalpía
+
+Si al producirse la reacción se libera energía, la entalpía de los productos disminuye. Este tipo de reacción se denomina exotérmica.
+
+### 69
+
+En relación con el libro de Biología, ¿cómo se denomina la reacción contraria a la exotérmica?
+
+- A. Endotérmica
+- B. Isotérmica
+- C. Adiabática
+- D. Irreversible
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · entalpía
+
+Si ocurre lo contrario, se denomina endotérmica.
+
+### 70
+
+De acuerdo con el libro de Biología, ¿qué permite medir la entalpía en las condiciones descritas?
+
+- A. Los cambios energéticos globales sufridos por los átomos o moléculas durante las transformaciones químicas
+- B. La velocidad a la que ocurre cada reacción química
+- C. El número de pasos intermedios de una ruta metabólica
+- D. El grado de desorden alcanzado por el sistema
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · entalpía
+
+Así, en las condiciones descritas, la entalpía es una manera de medir los cambios energéticos globales sufridos por los átomos o moléculas durante las transformaciones químicas.
+
+### 71
+
+De conformidad con el libro de Biología, si la transformación de una molécula en otra puede ocurrir por diferentes rutas metabólicas, ¿qué ocurre con el cambio global de entalpía?
+
+- A. Será siempre el mismo
+- B. Será mayor cuantos más pasos tenga la ruta
+- C. Será menor cuantos más pasos tenga la ruta
+- D. Variará de manera imprevisible según la ruta
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · entalpía
+
+La transformación de una molécula R en una P en los organismos vivos puede ocurrir por diferentes caminos (o rutas metabólicas). Sin embargo, el cambio global de entalpía sufrido será siempre el mismo.
+
+---
+
+## Sub-lote 14 · La oxidación de la glucosa en el calorímetro (p. 132)
+
+### 72
+
+En relación con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuánta energía total se libera al realizar en el laboratorio la oxidación total de la glucosa en un calorímetro?
+
+- A. 673 kcal/mol
+- B. 376 kcal/mol
+- C. 6 730 kcal/mol
+- D. 67 kcal/mol
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · entalpía
+
+Energía total liberada = 673 kcal/mol.
+
+### 73
+
+De acuerdo con el libro de Biología, ¿por qué ese valor permite estimar la cantidad de energía que puede liberarse en la célula?
+
+- A. Porque no depende de la forma en la que se ejecute la reacción
+- B. Porque la célula realiza la reacción en un solo paso, igual que el calorímetro
+- C. Porque en la célula la reacción libera exactamente el doble
+- D. Porque la célula aprovecha como trabajo útil la totalidad de esa energía
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · entalpía
+
+Esta es en realidad la magnitud del cambio entálpico. Dado que este valor no depende de la forma en la que se ejecute la reacción, permite estimar cuál es la cantidad de energía que puede ser liberada en la célula cuando se produce esta reacción.
+
+---
+
+## Sub-lote 15 · La energía libre de Gibbs (p. 132)
+
+### 74
+
+De conformidad con el libro de Biología, ¿qué se genera cuando se enfrentan dos sustancias químicas capaces de reaccionar?
+
+- A. Una situación de desequilibrio químico
+- B. Una situación de equilibrio químico inmediato
+- C. Un aumento de la entropía sin reacción alguna
+- D. Un estado estacionario permanente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · energía libre de Gibbs
+
+Cuando se enfrentan dos sustancias químicas capaces de reaccionar, se genera una situación de desequilibrio químico.
+
+### 75
+
+En relación con el libro de Biología, ¿de qué dependerá la magnitud de ese desequilibrio?
+
+- A. De la diferencia de potencial establecida en el sistema, en relación con las configuraciones y los arreglos de los núcleos y electrones de las especies químicas intervinientes
+- B. Únicamente de la temperatura a la que se encuentre el sistema
+- C. Únicamente de la cantidad de sustancia que se enfrente
+- D. Del tiempo que las dos sustancias permanezcan en contacto
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · energía libre de Gibbs
+
+La magnitud del desequilibrio dependerá de la diferencia de potencial establecida en el sistema en relación con las configuraciones y los arreglos de los núcleos y electrones de las especies químicas intervinientes.
+
+### 76
+
+De acuerdo con el libro de Biología, en una reacción de oxidorreducción, ¿qué logra el sistema cuando los electrones pasan del estado de mayor energía en A al de menor energía en B?
+
+- A. Un estado de mínima energía, en el que se habrá logrado el equilibrio químico
+- B. Un estado de máxima energía, alejado del equilibrio
+- C. Un estado estacionario sostenido por procesos balanceados
+- D. Un aumento de la energía útil disponible
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · energía libre de Gibbs
+
+Cuando los electrones pasan del estado de mayor energía en A al de menor energía en B, el sistema logra un estado de mínima energía en el que se habrá logrado el equilibrio químico.
+
+### 77
+
+De conformidad con el libro de Biología, ¿qué ocurre con la energía liberada por ese proceso?
+
+- A. No se destruye, sino que se libera al medio en forma de calor
+- B. Se destruye por completo al alcanzarse el equilibrio
+- C. Queda almacenada indefinidamente en los productos
+- D. Se convierte íntegramente en trabajo útil
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · energía libre de Gibbs
+
+La energía liberada por este proceso no se destruye, sino que se libera al medio en forma de calor.
+
+### 78
+
+En relación con el libro de Biología, en una célula viva, ¿a qué es igual el término "energía total intercambiada" durante la reacción?
+
+- A. Al cambio de entalpía del sistema
+- B. Al cambio de entropía del sistema
+- C. A la energía libre de Gibbs
+- D. A la magnitud TS
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · energía libre de Gibbs
+
+Ahora sabemos que, en una célula viva, el término energía total intercambiada durante la reacción es igual al cambio de entalpía del sistema.
+
+### 79
+
+De acuerdo con el libro de Biología, ¿a qué magnitud es igual la cantidad de energía que no es posible aprovechar como trabajo útil?
+
+- A. A la magnitud TS
+- B. A la magnitud H
+- C. A la magnitud G
+- D. A la magnitud Qp
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · energía libre de Gibbs
+
+Definimos, además, que el término que representa aquella cantidad de energía que no es posible aprovechar como trabajo útil (energía disipada) es igual a la magnitud TS.
+
+### 80
+
+De conformidad con el libro de Biología, ¿cómo se reescribe la ecuación de la energía útil con esos términos?
+
+- A. Energía útil = H – TS
+- B. Energía útil = H + TS
+- C. Energía útil = TS – H
+- D. Energía útil = H × TS
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · energía libre de Gibbs
+
+Energía útil = H – TS.
+
+### 81
+
+En relación con el libro de Biología, ¿quién presentó por primera vez esa función termodinámica, cómo se denomina y con qué letra se simboliza?
+
+- A. El matemático norteamericano J. W. Gibbs; se denomina energía libre de Gibbs y se simboliza con la letra G
+- B. El físico alemán Rudolf Clausius; se denomina entropía y se simboliza con la letra S
+- C. El físico ruso-belga Ilya Prigogine; se denomina energía irreversible y se simboliza con la letra P
+- D. El físico inglés James Joule; se denomina energía mecánica y se simboliza con la letra J
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · energía libre de Gibbs
+
+Expresada de esta forma, la energía útil es una nueva función termodinámica presentada por primera vez por el matemático norteamericano J. W. Gibbs. Por ello, esta magnitud, a la que se denomina energía libre de Gibbs, se simboliza con la letra G.
+
+### 82
+
+De acuerdo con el libro de Biología, ¿cómo se expresa la energía libre de Gibbs empleando la letra griega delta para las variaciones?
+
+- A. ΔG = ΔH – T × ΔS
+- B. ΔG = ΔH + T × ΔS
+- C. ΔG = T × ΔS – ΔH
+- D. ΔG = ΔH × T × ΔS
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 132
+**Subtema:** Metabolismo · energía libre de Gibbs
+
+Para cualquier propiedad termodinámica es común expresar sus variaciones o diferencias entre los estados final e inicial de un proceso con la letra griega delta (Δ). Así, reescribiremos la expresión anterior como: ΔG = ΔH – T × ΔS.
+
+> La ecuación que amarra todo el capítulo: la energía **aprovechable** (ΔG) es la
+> energía **total** puesta en juego (ΔH) **menos** la que se pierde sin remedio
+> (T × ΔS). Las tres letras ya salieron por separado: H de entalpía, S de
+> entropía, G de Gibbs.
+
+---
+
+**Reactivos en este archivo:** 82
