@@ -50,7 +50,7 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **126 a 141**:
+**Cuerpo del capítulo completo.** Cubiertas las páginas impresas **126 a 142**:
 
 - La vida y el flujo de energía del sol; la célula como transformador de energía;
   el metabolismo y el origen griego de la palabra "energía".
@@ -113,11 +113,20 @@ Cubiertas las páginas impresas **126 a 141**:
   enzimática con Michaelis y Menten, la saturación y la constante Km; los efectos
   alostéricos (sitio de regulación, efector, homotrópico y heterotrópico); y la
   modificación covalente.
+- La fosforilasa y el músculo; los precursores inactivos y el tripsinógeno; las
+  figuras 7-12 y 7-13; y el párrafo que cierra el cuerpo del capítulo.
 
-**Pendiente:** del capítulo 7, las páginas impresas 142 a 144 — el cierre del
-capítulo; queda por decidir el apartado "Biología en contexto social" de las
-páginas 125–126. De la materia siguen sin empezar los capítulos 8, 11, 12, 31,
-32, 35, 36 y 37.
+**Pendiente:** del capítulo 7, sólo el apartado "Biología en contexto social" de
+las páginas 125–126, a la espera de que Carlo decida si entra. De la materia
+siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
+
+**No se cubre**, por los criterios ya fijados:
+
+- **"Retomando la problemática inicial"** (pp. 143–144), el apartado de cierre.
+  Es la discusión filosófica y social sobre el caso de apertura, igual que en los
+  capítulos 3, 4 y 5, que también lo dejaron fuera.
+- Las **"Situaciones problemáticas"** (p. 144): son ejercicios de resolución, no
+  teoría.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
@@ -3722,4 +3731,190 @@ La modificación más frecuente consiste en la fosforilación y desfosforilació
 
 ---
 
-**Reactivos en este archivo:** 217
+## Sub-lote 47 · La fosforilasa y el músculo (p. 142)
+
+### 218
+
+De conformidad con el libro de Biología, ¿en qué participa la enzima fosforilasa?
+
+- A. En la degradación del glucógeno
+- B. En la síntesis del glucógeno
+- C. En la degradación de las proteínas ingeridas
+- D. En la síntesis del ATP a partir de ADP
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 142
+**Subtema:** Metabolismo · modificación covalente
+
+Un ejemplo es la enzima fosforilasa, que participa en la degradación del glucógeno.
+
+### 219
+
+En relación con el libro de Biología, ¿cómo se encuentra la fosforilasa en el músculo en estado de reposo y cómo se activa?
+
+- A. Con baja actividad, y se activa por adición de fosfato a un aminoácido de la enzima
+- B. Con alta actividad, y se desactiva por adición de fosfato a un aminoácido de la enzima
+- C. Con baja actividad, y se activa por aumento de la temperatura muscular
+- D. Con alta actividad, y se activa por eliminación de fosfato
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 142
+**Subtema:** Metabolismo · modificación covalente
+
+Esta enzima se encuentra con baja actividad en el músculo en estado de reposo y se activa por adición de fosfato a un aminoácido de la enzima.
+
+### 220
+
+De acuerdo con el libro de Biología, ¿qué promueve esa unión del fosfato a la fosforilasa?
+
+- A. La glucogenólisis, con la consecuente liberación de glucosa que proporciona la energía que requiere el trabajo muscular
+- B. La síntesis de glucógeno a partir de la glucosa de la sangre
+- C. La contracción directa de las fibras musculares
+- D. La desnaturalización de las proteínas del músculo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 142
+**Subtema:** Metabolismo · modificación covalente
+
+Esta unión promueve la glucogenólisis, con la consecuente liberación de glucosa que proporciona la energía que requiere el trabajo muscular.
+
+### 221
+
+De conformidad con el libro de Biología, ¿por qué esa modificación de la fosforilasa es reversible?
+
+- A. Porque por eliminación de los grupos fosfato se desactiva la enzima
+- B. Porque la enzima se destruye y vuelve a sintetizarse
+- C. Porque el glucógeno vuelve a formarse espontáneamente
+- D. Porque la enzima cambia de sustrato al terminar
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 142
+**Subtema:** Metabolismo · modificación covalente
+
+Esta modificación es reversible, ya que, a su vez, por eliminación de los grupos fosfato se desactiva la enzima.
+
+---
+
+## Sub-lote 48 · Los precursores inactivos (p. 142)
+
+### 222
+
+En relación con el libro de Biología, ¿cómo se sintetizan algunas enzimas y cuándo se activan?
+
+- A. En forma de precursores inactivos, y son activadas a un tiempo y en un lugar fisiológicamente apropiado
+- B. Ya en su forma activa, listas para funcionar desde su síntesis
+- C. En forma de precursores inactivos que nunca llegan a activarse
+- D. Unidas a su sustrato desde el momento de su síntesis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 142
+**Subtema:** Metabolismo · precursores inactivos
+
+Algunas enzimas se sintetizan en forma de precursores inactivos y son activadas a un tiempo y en un lugar fisiológicamente apropiado.
+
+### 223
+
+De acuerdo con el libro de Biología, ¿qué enzimas muestran ese control?
+
+- A. Las enzimas digestivas: pepsina, tripsina y quimotripsina
+- B. Las enzimas del lisosoma: las hidrolasas ácidas
+- C. Las enzimas de la membrana: las ATPasas
+- D. Las enzimas del metabolismo energético: las isoenzimas de la LDH
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 142
+**Subtema:** Metabolismo · precursores inactivos
+
+Las enzimas digestivas muestran este control (pepsina, tripsina, quimotripsina).
+
+### 224
+
+De conformidad con el libro de Biología, ¿dónde se sintetiza el tripsinógeno, cómo se activa y en qué se convierte?
+
+- A. Se sintetiza en el páncreas y es activado por la rotura irreversible de un enlace peptídico en el intestino delgado, lo que forma la enzima activa tripsina
+- B. Se sintetiza en el intestino delgado y es activado en el páncreas, lo que forma la enzima activa pepsina
+- C. Se sintetiza en el estómago y es activado por el pH ácido, lo que forma la quimotripsina
+- D. Se sintetiza en el hígado y es activado por adición de fosfato, lo que forma la tripsina
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 142
+**Subtema:** Metabolismo · precursores inactivos
+
+Por ejemplo, el tripsinógeno se sintetiza en el páncreas y es activado por la rotura irreversible de un enlace peptídico en el intestino delgado, lo que forma la enzima activa tripsina, que participa en la degradación de las proteínas ingeridas.
+
+> Dato con peso clínico: la enzima se fabrica **inactiva** en el páncreas y sólo
+> se enciende **fuera de él**, en el intestino. Si se activara antes, digeriría
+> el propio páncreas. Conviene que un aspirante a médico entienda el porqué del
+> mecanismo, no sólo el nombre.
+
+---
+
+## Sub-lote 49 · Las figuras del cierre (pp. 141–142)
+
+### 225
+
+En relación con el libro de Biología, ¿a qué corresponde el valor máximo Vmáx en el gráfico de la cinética enzimática?
+
+- A. A la saturación, cuando todas las enzimas se encuentran unidas al sustrato
+- B. Al punto en que la mitad de las enzimas están unidas al sustrato
+- C. Al momento en que la enzima se desnaturaliza
+- D. A la concentración de sustrato conocida como Km
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 142
+**Subtema:** Metabolismo · cinética enzimática
+
+El valor máximo Vmáx corresponde a la saturación, cuando todas las enzimas se encuentran unidas al sustrato.
+
+### 226
+
+De acuerdo con el libro de Biología, ¿qué es un efector alostérico y dónde interactúa?
+
+- A. Una molécula pequeña que puede interactuar con enzimas en regiones diferentes del sitio activo
+- B. Una molécula grande que se une exclusivamente al sitio activo
+- C. Un ion inorgánico que sustituye al sustrato
+- D. Una enzima que cataliza la activación de otra enzima
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 142
+**Subtema:** Metabolismo · efectos alostéricos
+
+Un efector alostérico es una molécula pequeña que puede interactuar con enzimas en regiones diferentes del sitio activo.
+
+### 227
+
+De conformidad con el libro de Biología, ¿qué impacto tiene la unión del efector alostérico y de qué dos maneras puede actuar?
+
+- A. Un impacto drástico sobre la estructura terciaria o cuaternaria de las enzimas, y puede actuar como activador o como inhibidor
+- B. Un impacto leve y transitorio, y sólo puede actuar como inhibidor
+- C. Ningún impacto estructural, y sólo puede actuar como activador
+- D. Un impacto que destruye la enzima de forma irreversible
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 142
+**Subtema:** Metabolismo · efectos alostéricos
+
+Esta unión tiene un impacto drástico sobre la estructura terciaria o cuaternaria de las enzimas, que, en consecuencia, alteran su actividad. Los efectores alostéricos pueden actuar como activadores o como inhibidores.
+
+---
+
+## Sub-lote 50 · El cierre del capítulo (p. 142)
+
+### 228
+
+En relación con el libro de Biología, ¿qué procesos metabólicos anuncia el capítulo que se analizarán en los próximos?
+
+- A. Catabólicos, como la glucólisis y la respiración celular, y anabólico, como la fotosíntesis
+- B. Anabólicos, como la glucólisis y la respiración celular, y catabólico, como la fotosíntesis
+- C. Únicamente catabólicos, como la glucólisis y la respiración celular
+- D. Únicamente anabólicos, como la fotosíntesis y la síntesis de proteínas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 142
+**Subtema:** Metabolismo · cierre del capítulo
+
+En los próximos capítulos analizaremos procesos metabólicos catabólicos, como la glucólisis y respiración celular, y anabólico, como la fotosíntesis, en los que están involucrados los conceptos recorridos en este.
+
+---
+
+**Reactivos en este archivo:** 228
