@@ -350,7 +350,7 @@ Son moléculas orgánicas biológicas: las proteínas, los lípidos y los glúci
 
 ### 18
 
-De acuerdo con el libro de Biología, ¿alrededor de qué porcentaje del peso seco de las membranas constituyen las proteínas?
+De acuerdo con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿alrededor de qué porcentaje del peso seco de las membranas constituyen las proteínas?
 
 - A. Alrededor del 60%
 - B. Alrededor del 40%
@@ -365,7 +365,7 @@ Proteínas: constituyen alrededor del 60% del peso seco de las membranas. Muchas
 
 ### 19
 
-De conformidad con el libro de Biología, ¿alrededor de qué porcentaje del peso seco constituyen los lípidos?
+De conformidad con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿alrededor de qué porcentaje del peso seco constituyen los lípidos?
 
 - A. Alrededor del 40%
 - B. Alrededor del 60%
