@@ -121,11 +121,9 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
   Dublín, sus dos temas, los científicos que influyó y el origen de la biología
   molecular. Va en el **sub-lote 51**, fuera del orden de páginas.
 
-**Pendiente:** del capítulo 7, nada — quedó cerrado el 22 jul 2026 en 240
-reactivos. De la materia siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35,
-36 y 37; el próximo es el 8. Este archivo sostiene la declaración de lo que falta
-hasta que exista el `.md` del capítulo 8, para que Biología no aparezca como
-cerrada en `ESTADO.md` teniendo ocho capítulos por escribir.
+**Pendiente:** ninguno. El capítulo 7 está cerrado en 240 reactivos (22 jul
+2026). Lo que falta de Biología lo declara el archivo del capítulo en curso —
+hoy `biologia-08-glucolisis-respiracion.md`.
 
 **No se cubre**, por los criterios ya fijados:
 
