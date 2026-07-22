@@ -50,7 +50,7 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **126 a 140**:
+Cubiertas las páginas impresas **126 a 141**:
 
 - La vida y el flujo de energía del sol; la célula como transformador de energía;
   el metabolismo y el origen griego de la palabra "energía".
@@ -109,11 +109,15 @@ Cubiertas las páginas impresas **126 a 140**:
 - Las enzimas del lisosoma y su pH ácido; la curva de la temperatura (figura
   7-11); y la inhibición enzimática completa: competitiva —con el ejemplo del
   PABA y la sulfanilamida— y no competitiva, con la cisteína y el plomo.
+- La inhibición irreversible (los gases neurotóxicos, la penicilina); la cinética
+  enzimática con Michaelis y Menten, la saturación y la constante Km; los efectos
+  alostéricos (sitio de regulación, efector, homotrópico y heterotrópico); y la
+  modificación covalente.
 
-**Pendiente:** del capítulo 7, las páginas impresas 141 a 144 — la regulación
-alostérica y lo que siga hasta el cierre del capítulo; queda por decidir el
-apartado "Biología en contexto social" de las páginas 125–126. De la materia
-siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 7, las páginas impresas 142 a 144 — el cierre del
+capítulo; queda por decidir el apartado "Biología en contexto social" de las
+páginas 125–126. De la materia siguen sin empezar los capítulos 8, 11, 12, 31,
+32, 35, 36 y 37.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
@@ -3424,4 +3428,298 @@ El plomo forma enlaces covalentes con estos grupos.
 
 ---
 
-**Reactivos en este archivo:** 199
+## Sub-lote 43 · La inhibición irreversible (p. 141)
+
+### 200
+
+De conformidad con el libro de Biología, ¿de qué no depende la reversión de la inhibición no competitiva, y cómo puede revertirse en el caso del plomo?
+
+- A. No depende de un incremento en las concentraciones de sustrato; puede revertirse con otros compuestos que contengan sulfhidrilo y enlacen los átomos de plomo más fuerte que la cisteína
+- B. Depende de un incremento en las concentraciones de sustrato, igual que la competitiva
+- C. No puede revertirse en ningún caso
+- D. Depende únicamente de bajar la temperatura del medio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · inhibición no competitiva
+
+Este tipo de inhibición también suele ser reversible, pero no depende de un incremento en las concentraciones de sustrato; en el caso del plomo, por ejemplo, la inhibición puede ser revertida mediante un tratamiento con otros compuestos que contengan sulfhidrilo y que enlacen los átomos de plomo de un modo más fuerte que la cisteína.
+
+### 201
+
+En relación con el libro de Biología, ¿por qué algunas sustancias inhiben a las enzimas en forma irreversible?
+
+- A. Porque se unen permanentemente con grupos funcionales clave del sitio activo, o porque desnaturalizan por completo a la proteína de modo que su estructura terciaria no se puede restablecer
+- B. Porque ocupan temporalmente el sitio activo y compiten con el sustrato
+- C. Porque disminuyen la concentración de sustrato disponible
+- D. Porque bloquean los genes que sintetizan la enzima
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · inhibición irreversible
+
+Algunas sustancias inhiben a las enzimas en forma irreversible, porque se unen permanentemente con grupos funcionales clave del sitio activo o porque desnaturalizan por completo a la proteína, de modo tal que su estructura terciaria no se puede restablecer.
+
+### 202
+
+De acuerdo con el libro de Biología, ¿cuál es el caso de los gases neurotóxicos que tuvieron uso amplio durante la Primera Guerra Mundial?
+
+- A. Son inhibidores irreversibles, hoy prohibidos, y se encuentran entre los venenos más potentes que se conocen
+- B. Son inhibidores competitivos, hoy usados como fármacos
+- C. Son activadores alostéricos de la actividad enzimática
+- D. Son cofactores inorgánicos de bajo peso molecular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · inhibición irreversible
+
+Este es el caso de los gases neurotóxicos que tuvieron uso amplio durante la Primera Guerra Mundial y en la actualidad están prohibidos, ya que se encuentran entre los venenos más potentes que se conocen.
+
+### 203
+
+De conformidad con el libro de Biología, ¿qué antibiótico se menciona como inhibidor irreversible de la actividad enzimática?
+
+- A. La penicilina
+- B. La sulfanilamida
+- C. La estreptomicina
+- D. La tetraciclina
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · inhibición irreversible
+
+Muchos fármacos útiles, incluso el antibiótico penicilina, son también inhibidores irreversibles de la actividad enzimática.
+
+> Los dos fármacos del capítulo, que van por mecanismos distintos: la
+> **sulfanilamida** (p. 140) es inhibidor **competitivo**; la **penicilina**,
+> **irreversible**. El distractor B juega con esa confusión.
+
+---
+
+## Sub-lote 44 · La concentración de sustrato y la saturación (p. 141)
+
+### 204
+
+En relación con el libro de Biología, a una determinada concentración de enzima, ¿qué ocurre a bajas concentraciones de sustrato?
+
+- A. La velocidad aumenta de modo proporcional al aumento de la concentración de sustrato
+- B. La velocidad se mantiene constante, sin importar el sustrato
+- C. La velocidad disminuye al aumentar la concentración de sustrato
+- D. La velocidad ya alcanza su valor máximo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · cinética enzimática
+
+A bajas concentraciones de sustrato, la velocidad aumenta de modo proporcional al aumento de la concentración de sustrato.
+
+### 205
+
+De acuerdo con el libro de Biología, cuando la concentración de sustrato es alta y se alcanza la velocidad máxima, ¿de qué modo puede aumentar aún esa velocidad?
+
+- A. Sólo si se incrementa la concentración de enzima
+- B. Sólo si se incrementa aún más la concentración de sustrato
+- C. Sólo si se disminuye la temperatura del medio
+- D. No puede aumentar de ninguna manera
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · cinética enzimática
+
+Cuando la concentración de sustrato es alta, tiende a alcanzarse una velocidad máxima, que solo podrá aumentar si se incrementa la concentración de enzima.
+
+### 206
+
+De conformidad con el libro de Biología, ¿quiénes propusieron en 1913 un modelo para explicar esta cinética, y qué postularon?
+
+- A. El bioquímico alemán Leonor Michaelis y la investigadora canadiense Maud Menten, postulando la existencia de un complejo enzima-sustrato
+- B. El químico alemán Emil Fischer y la investigadora canadiense Maud Menten, postulando el modelo llave-cerradura
+- C. Los investigadores canadienses James Till y Ernest McCulloch, postulando la célula troncal
+- D. El físico ruso-belga Ilya Prigogine y el bioquímico alemán Leonor Michaelis, postulando la autoorganización
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · cinética enzimática
+
+En 1913, el bioquímico alemán Leonor Michaelis (1875-1949) y la investigadora canadiense Maud Menten (1879-1969) propusieron un modelo para explicar esta cinética, postulando la existencia de un complejo enzima-sustrato (ES).
+
+### 207
+
+En relación con el libro de Biología, ¿cómo se conoce el estado en el que todos los sitios activos están ocupados y se ha alcanzado la velocidad máxima?
+
+- A. Saturación
+- B. Desnaturalización
+- C. Equilibrio químico
+- D. Estado estacionario
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · cinética enzimática
+
+Ese estado en el que todos los sitios activos están ocupados y se ha alcanzado la velocidad máxima es conocido como saturación.
+
+### 208
+
+De acuerdo con el libro de Biología, ¿qué caracteriza la constante o coeficiente de velocidad, denominada k?
+
+- A. La afinidad de la enzima por el sustrato; es una constante de proporcionalidad entre la velocidad de reacción y la concentración de los reactivos
+- B. La temperatura óptima a la que trabaja la enzima
+- C. El número de sitios activos que posee la enzima
+- D. La cantidad de producto final que se formará
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · cinética enzimática
+
+La constante o coeficiente de velocidad, denominada k, caracteriza la afinidad de la enzima (E) por el sustrato (S). Es una constante de proporcionalidad entre la velocidad de reacción y la concentración de los reactivos.
+
+### 209
+
+De conformidad con el libro de Biología, ¿qué dos caminos puede seguir el complejo "ES"?
+
+- A. Puede disociarse, generando nuevamente "E" y "S", o puede formar el producto con la consiguiente recuperación de la enzima
+- B. Puede disociarse o puede desnaturalizarse de forma irreversible
+- C. Puede formar el producto o puede unirse a un segundo sustrato
+- D. Puede fosforilarse o desfosforilarse
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · cinética enzimática
+
+Este complejo "ES" puede seguir dos caminos: se puede disociar, generando nuevamente "E" y "S", con una constante de velocidad k₂ o puede formar el producto con la consiguiente recuperación de la enzima con una constante de velocidad k₃.
+
+### 210
+
+En relación con el libro de Biología, ¿qué es la constante Km en la ecuación de Michaelis y Menten?
+
+- A. El valor de la concentración de S para el cual la velocidad V alcanza un valor igual a la mitad de su valor máximo
+- B. El valor de la concentración de S para el cual la velocidad V alcanza su valor máximo
+- C. La velocidad máxima que puede alcanzar la reacción
+- D. La afinidad de la enzima por el producto final
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · cinética enzimática
+
+La constante Km en este caso es el valor de la concentración de S para el cual la velocidad V alcanza un valor igual a la mitad de su valor máximo Vmáx.
+
+---
+
+## Sub-lote 45 · Los efectos alostéricos (p. 141)
+
+### 211
+
+De acuerdo con el libro de Biología, ¿cómo se conoce el mecanismo por el cual una enzima puede activarse o inactivarse de forma temporal?
+
+- A. Interacción alostérica
+- B. Modificación covalente
+- C. Inhibición competitiva
+- D. Ajuste inducido
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · efectos alostéricos
+
+Un mecanismo por el cual una enzima puede activarse o inactivarse de forma temporal se conoce como interacción alostérica.
+
+### 212
+
+De conformidad con el libro de Biología, ¿qué significa la interacción alostérica?
+
+- A. Que la función de un determinado sitio de una proteína puede verse alterada por la interacción de una segunda molécula en otro sitio
+- B. Que el sustrato se une al sitio activo y es transformado en producto
+- C. Que la enzima se desnaturaliza de forma permanente
+- D. Que dos enzimas distintas catalizan la misma reacción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · efectos alostéricos
+
+Esto significa que la función de un determinado sitio de una proteína puede verse alterado por la interacción de una segunda molécula en otro sitio.
+
+### 213
+
+En relación con el libro de Biología, ¿cómo se llaman el segundo sitio de unión de la enzima y la molécula que se une a él?
+
+- A. El sitio de regulación, y la molécula es el efector alostérico
+- B. El sitio activo, y la molécula es el sustrato
+- C. El sitio catalítico, y la molécula es el cofactor
+- D. El sitio de saturación, y la molécula es la coenzima
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · efectos alostéricos
+
+Esto ocurre en aquellas enzimas que, además del sitio activo, tienen otro sitio de unión: el sitio de regulación al cual se une la segunda molécula conocida como efector alostérico.
+
+### 214
+
+De acuerdo con el libro de Biología, ¿qué produce la unión de un efector al sitio de regulación?
+
+- A. Cambia la conformación de la molécula de enzima, modificando su sitio activo y permitiendo o impidiendo la unión del sustrato
+- B. Destruye de forma permanente el sitio activo de la enzima
+- C. Duplica el número de sitios activos de la enzima
+- D. Sustituye al sustrato en la reacción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · efectos alostéricos
+
+La unión de un efector al sitio de regulación cambia la conformación de la molécula de enzima, modificando su sitio activo, permitiendo o impidiendo la unión del sustrato al mismo. De esta manera, una enzima puede activarse o inactivarse.
+
+### 215
+
+De conformidad con el libro de Biología, ¿cómo se llama el efecto cuando el efector alostérico es el propio sustrato, y cómo cuando es distinto de él?
+
+- A. Homotrópico cuando es el sustrato; heterotrópico cuando es distinto del sustrato
+- B. Heterotrópico cuando es el sustrato; homotrópico cuando es distinto del sustrato
+- C. Competitivo cuando es el sustrato; no competitivo cuando es distinto
+- D. Reversible cuando es el sustrato; irreversible cuando es distinto
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · efectos alostéricos
+
+Cuando el efector alostérico es el sustrato, el efecto se llama homotrópico; si es distinto del sustrato, se dice que es heterotrópico.
+
+> Ayuda la raíz griega: **homo-** es "igual" —el efector **es** el sustrato—;
+> **hetero-** es "distinto". Es el mismo par que ya salió en el capítulo 3 con
+> heterótrofos y autótrofos.
+
+---
+
+## Sub-lote 46 · La modificación covalente (p. 141)
+
+### 216
+
+En relación con el libro de Biología, ¿cómo son reguladas algunas enzimas mediante la modificación covalente?
+
+- A. A través de la adición o sustracción de grupos que se unen en forma covalente
+- B. A través del cambio de temperatura del medio celular
+- C. A través de la unión de un efector al sitio de regulación
+- D. A través de la competencia de dos sustratos por el sitio activo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · modificación covalente
+
+Algunas enzimas son reguladas a través de la adición o sustracción de grupos que se unen en forma covalente.
+
+### 217
+
+De acuerdo con el libro de Biología, ¿cuál es la modificación covalente más frecuente y qué enzimas la llevan a cabo?
+
+- A. La fosforilación y desfosforilación, llevadas a cabo por otras enzimas: las cinasas y las fosfatasas
+- B. La oxidación y reducción, llevadas a cabo por las ATPasas
+- C. La hidrólisis y la síntesis, llevadas a cabo por las isoenzimas
+- D. La adición y sustracción de iones magnesio, llevadas a cabo por las coenzimas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 141
+**Subtema:** Metabolismo · modificación covalente
+
+La modificación más frecuente consiste en la fosforilación y desfosforilación (proceso de unión o eliminación de fosfatos) llevadas a cabo, a su vez, por otras enzimas (cinasas y fosfatasas).
+
+---
+
+**Reactivos en este archivo:** 217
