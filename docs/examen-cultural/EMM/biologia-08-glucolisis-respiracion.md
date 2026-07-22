@@ -44,7 +44,7 @@ página **159** (hoja 205).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **146**:
+Cubiertas las páginas impresas **146 a 148**:
 
 - La glucólisis como vía central; el ATP como principal transportador de energía
   y dónde interviene.
@@ -54,8 +54,12 @@ Cubiertas las páginas impresas **146**:
 - Las coenzimas transportadoras de electrones: NAD⁺ y FAD, y sus formas
   reducidas.
 - La cadena respiratoria y la formación de agua.
+- La figura 8-2: la cuenta del ion hidrógeno sobrante y la fuerza protón-motriz;
+  la riboflavina (vitamina B₂), el FMN y las flavoproteínas.
+- La glucólisis: dónde ocurre, sus nueve reacciones, en qué consiste globalmente,
+  qué pasos gastan y cuáles fabrican ATP, y los tres primeros paso a paso.
 
-**Pendiente:** del capítulo 8, las páginas impresas 147 a 158, y el apartado
+**Pendiente:** del capítulo 8, las páginas impresas 149 a 158, y el apartado
 "Biología en contexto social" de las páginas 145–146. De la materia siguen sin
 empezar los capítulos 11, 12, 31, 32, 35, 36 y 37.
 
@@ -64,6 +68,25 @@ empezar los capítulos 11, 12, 31, 32, 35, 36 y 37.
 > en blanco. Si se parte en viñetas o se le cambia el nombre, el archivo pasa a
 > "no declarado"; y si el texto **empieza por "ninguno"**, da la materia entera
 > por cerrada. Las dos cosas pasaron el 22 jul 2026.
+
+## Erratas del libro · capítulo 8
+
+| Pág. | Dice | Debe decir |
+|---|---|---|
+| 147 | "El **dinucleótico** de nicotinamida y adenina (NAD)", en el pie de la figura 8-2 | "dinucleó**tido**" — el mismo pie lo escribe bien nueve líneas después, para el FAD, y el cuerpo de la página 146 también |
+
+Verificada contra el texto crudo del PDF, no contra la salida de `extraer.py`.
+**No se escribe reactivo sobre ese punto.**
+
+## Aviso de extracción: hay figuras con la capa de texto cifrada
+
+**Problema nuevo, distinto del "Lorem ipsum" de los recuadros ENSAYO.** La figura
+8-3 (p. 148) trae su capa de texto **corrida tres letras**: sale `&LWRSODVPD`
+donde dice "Citoplasma", `$73` donde dice "ATP" y `.UHEV` donde dice "Krebs".
+
+No es basura: es texto legible con un desplazamiento fijo. Pero **no se
+transcribe a mano ni se descifra** — si una figura sale así, se renderiza con
+`render.py` y se lee con los ojos, igual que los ENSAYO.
 
 ## Criterio: teoría sobre práctica
 
@@ -436,4 +459,305 @@ Cuando los electrones alcanzan el nivel energético más bajo, se combinan con l
 
 ---
 
-**Reactivos en este archivo:** 21
+## Sub-lote 6 · La figura del NAD y el FAD (figura 8-2, p. 147)
+
+### 22
+
+De acuerdo con el libro de Biología, ¿qué requiere la reducción de NAD a NADH?
+
+- A. Dos electrones y un ion hidrógeno
+- B. Un electrón y dos iones hidrógeno
+- C. Dos átomos de hidrógeno completos
+- D. Un grupo fosfato y un electrón
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 147
+**Subtema:** Glucólisis · NAD y FAD
+
+Como se indica, la reducción de NAD a NADH requiere dos electrones y un ion hidrógeno.
+
+### 23
+
+De conformidad con el libro de Biología, ¿por qué hay un ion hidrógeno sobrante cuando el NAD se reduce?
+
+- A. Porque los dos electrones en general viajan como componentes de dos átomos de hidrógeno
+- B. Porque el NAD capta siempre un ion hidrógeno de más del que necesita
+- C. Porque el ion hidrógeno proviene del agua del citoplasma
+- D. Porque la enzima libera un ion hidrógeno al catalizar la reacción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 147
+**Subtema:** Glucólisis · NAD y FAD
+
+Sin embargo, los dos electrones en general viajan como componentes de dos átomos de hidrógeno; así, hay un ion hidrógeno sobrante cuando el NAD se reduce.
+
+### 24
+
+En relación con el libro de Biología, ¿en qué están implicados esos iones hidrógeno?
+
+- A. En la generación de la fuerza protón-motriz
+- B. En la síntesis directa de glucosa
+- C. En la formación de la pared celular
+- D. En la desnaturalización de las enzimas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 147
+**Subtema:** Glucólisis · NAD y FAD
+
+Estos iones hidrógeno están implicados en la generación de la fuerza protón-motriz.
+
+### 25
+
+De acuerdo con el libro de Biología, ¿qué es la riboflavina y quién la sintetiza?
+
+- A. Un componente del FAD, también conocida como vitamina B₂, sintetizada por las plantas y muchos microorganismos
+- B. Un componente del NAD, también conocida como vitamina B₁, sintetizada sólo por los animales
+- C. Un componente del ATP, también conocida como vitamina C, sintetizada por las plantas
+- D. Un componente de la membrana mitocondrial, sintetizada por las mitocondrias
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 147
+**Subtema:** Glucólisis · NAD y FAD
+
+Un componente del FAD, la riboflavina (también conocida como vitamina B₂), es sintetizada por las plantas y muchos microorganismos.
+
+### 26
+
+De conformidad con el libro de Biología, ¿cómo es la riboflavina en su forma oxidada?
+
+- A. Un pigmento de color amarillo brillante
+- B. Un pigmento de color rojo intenso
+- C. Un compuesto incoloro y transparente
+- D. Un pigmento de color verde azulado
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 147
+**Subtema:** Glucólisis · NAD y FAD
+
+En su forma oxidada es un pigmento de color amarillo brillante.
+
+### 27
+
+En relación con el libro de Biología, ¿por qué está formado el mononucleótido de flavina (FMN)?
+
+- A. Por la riboflavina y el primero de los grupos fosfato
+- B. Por la riboflavina y la adenina, sin grupos fosfato
+- C. Por la nicotinamida y dos grupos fosfato
+- D. Por la adenina, la ribosa y tres grupos fosfato
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 147
+**Subtema:** Glucólisis · NAD y FAD
+
+Un transportador de electrones relacionado, el mononucleótido de flavina (FMN), está formado por la riboflavina y el primero de los grupos fosfato.
+
+### 28
+
+De acuerdo con el libro de Biología, ¿cómo se encuentran el FAD y el FMN en las células, y qué macromoléculas forman?
+
+- A. Unidos a proteínas específicas, formando macromoléculas conocidas como flavoproteínas
+- B. Libres en el citoplasma, sin unirse a ninguna proteína
+- C. Unidos a lípidos, formando lipoproteínas
+- D. Unidos a hidratos de carbono, formando glucoproteínas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 147
+**Subtema:** Glucólisis · NAD y FAD
+
+En las células, tanto el FAD como el FMN se encuentran unidos a proteínas específicas, formando macromoléculas conocidas como flavoproteínas.
+
+---
+
+## Sub-lote 7 · La glucólisis, primera etapa (p. 148)
+
+### 29
+
+De conformidad con el libro de Biología, ¿dónde se lleva a cabo la serie de reacciones que constituyen la glucólisis?
+
+- A. En casi todas las células vivas, desde las células procariontes hasta las eucariontes
+- B. Únicamente en las células eucariontes
+- C. Únicamente en las células procariontes
+- D. Únicamente en las células de los organismos aeróbicos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 148
+**Subtema:** Glucólisis · primera etapa
+
+La serie de reacciones que constituyen la glucólisis se lleva a cabo en casi todas las células vivas, desde las células procariontes hasta las eucariontes.
+
+### 30
+
+En relación con el libro de Biología, ¿qué ejemplifica la glucólisis?
+
+- A. De qué manera los procesos bioquímicos de una célula viva se desarrollan en pequeños pasos secuenciales
+- B. De qué manera una sola enzima puede catalizar todo un proceso
+- C. De qué manera las reacciones celulares ocurren de forma instantánea
+- D. De qué manera la célula puede prescindir de las enzimas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 148
+**Subtema:** Glucólisis · primera etapa
+
+La glucólisis ejemplifica de qué manera los procesos bioquímicos de una célula viva se desarrollan en pequeños pasos secuenciales.
+
+### 31
+
+De acuerdo con el libro de Biología, ¿en cuántas reacciones ocurre el proceso de la glucólisis y cómo se cataliza cada una?
+
+- A. En una serie de nueve reacciones, cada una catalizada por una enzima específica
+- B. En una serie de cinco reacciones, cada una catalizada por una enzima específica
+- C. En una serie de nueve reacciones, todas catalizadas por la misma enzima
+- D. En una sola reacción global catalizada por un complejo multienzimático
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 148
+**Subtema:** Glucólisis · primera etapa
+
+Este proceso ocurre en una serie de nueve reacciones, cada una de las cuales es catalizada por una enzima específica.
+
+### 32
+
+De conformidad con el libro de Biología, analizado de forma global, ¿en qué consiste el proceso de la glucólisis?
+
+- A. En la división de una molécula de glucosa, de seis átomos de carbono, en dos moléculas de un compuesto tricarbonado llamado ácido pirúvico o piruvato
+- B. En la unión de dos moléculas de glucosa en un compuesto de doce carbonos
+- C. En la división de una molécula de glucosa en seis moléculas de dióxido de carbono
+- D. En la transformación de la glucosa en fructosa, sin división alguna
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 148
+**Subtema:** Glucólisis · primera etapa
+
+El proceso, analizado de forma global, consiste en la división de una molécula de glucosa (de seis átomos de carbono) en dos moléculas de un compuesto tricarbonado, llamado ácido pirúvico (o piruvato).
+
+### 33
+
+En relación con el libro de Biología, ¿qué pasos de la glucólisis requieren energía y qué ocurre en ellos?
+
+- A. El paso 1 y el 3; en ambos se transfiere un grupo fosfato a la molécula de azúcar, generando enlaces de alta energía
+- B. El paso 5 y el 6; en ambos se libera un grupo fosfato de la molécula de azúcar
+- C. Todos los pasos requieren energía por igual
+- D. Ninguno requiere energía, porque toda la vía es exergónica
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 148
+**Subtema:** Glucólisis · primera etapa
+
+Los primeros pasos en la glucólisis requieren energía: tanto en el paso 1 como en el 3 se transfiere un grupo fosfato a la molécula de azúcar, generando enlaces de alta energía.
+
+### 34
+
+De acuerdo con el libro de Biología, ¿a partir de qué paso las reacciones de la glucólisis liberan energía?
+
+- A. A partir del paso 4
+- B. A partir del paso 1
+- C. A partir del paso 6
+- D. A partir del paso 9
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 148
+**Subtema:** Glucólisis · primera etapa
+
+A partir del paso 4, las reacciones liberan energía.
+
+### 35
+
+De conformidad con el libro de Biología, ¿qué ocurre en el paso 5 de la glucólisis?
+
+- A. Se reducen dos moléculas de NAD⁺ a NADH y H⁺, y se almacena parte de la energía producida por la oxidación del gliceraldehído 3-fosfato
+- B. Se oxidan dos moléculas de NADH a NAD⁺, y se libera toda la energía como calor
+- C. Se transfiere un grupo fosfato desde el ATP a la molécula de azúcar
+- D. Se divide la molécula de glucosa en dos de ácido pirúvico
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 148
+**Subtema:** Glucólisis · primera etapa
+
+En el paso 5 se reducen dos moléculas de NAD⁺ a NADH y H⁺, y se almacena parte de la energía producida por la oxidación del gliceraldehído 3-fosfato.
+
+### 36
+
+En relación con el libro de Biología, ¿qué ocurre en los pasos 6 y 9 de la glucólisis?
+
+- A. Las moléculas de ADP toman energía del sistema, fosforilándose a ATP
+- B. Las moléculas de ATP ceden energía al sistema, desfosforilándose a ADP
+- C. Se reducen dos moléculas de NAD⁺ a NADH
+- D. Se transfiere un grupo fosfato desde el ATP a la molécula de azúcar
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 148
+**Subtema:** Glucólisis · primera etapa
+
+En los pasos 6 y 9, las moléculas de ADP toman energía del sistema, fosforilándose a ATP.
+
+> El reparto de la vía, que conviene tener claro antes de entrar al detalle:
+> **pasos 1 y 3 gastan** ATP; **a partir del 4 se libera** energía; el **5**
+> carga los NADH; y los **6 y 9** son los que **fabrican** ATP.
+
+---
+
+## Sub-lote 8 · Los tres primeros pasos (p. 148)
+
+### 37
+
+De acuerdo con el libro de Biología, ¿qué ocurre en el paso 1 de la glucólisis?
+
+- A. El grupo fosfato terminal se transfiere de una molécula de ATP al carbono en la posición 6 de la glucosa y se forma glucosa 6-fosfato
+- B. El grupo fosfato terminal se transfiere de la glucosa a una molécula de ADP
+- C. La glucosa se divide directamente en dos moléculas de ácido pirúvico
+- D. La glucosa se transforma en fructosa sin ganar ningún fosfato
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 148
+**Subtema:** Glucólisis · paso a paso
+
+Paso 1. El grupo fosfato terminal se transfiere de una molécula de ATP al carbono en la posición 6 de la molécula de glucosa y se forma glucosa 6-fosfato.
+
+### 38
+
+De conformidad con el libro de Biología, ¿qué transformación ocurre en el paso 2 de la glucólisis?
+
+- A. El anillo hexagonal característico de la glucosa se transforma en el anillo pentagonal de la fructosa
+- B. El anillo pentagonal de la fructosa se transforma en el anillo hexagonal de la glucosa
+- C. El anillo hexagonal se abre y forma una cadena lineal
+- D. Dos anillos hexagonales se unen en uno solo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 148
+**Subtema:** Glucólisis · paso a paso
+
+La estructura de la glucosa 6-fosfato se reorganiza. El anillo hexagonal característico de la glucosa se transforma en el anillo pentagonal de la fructosa (fructosa 6-fosfato).
+
+### 39
+
+En relación con el libro de Biología, ¿en qué se diferencian la glucosa y la fructosa?
+
+- A. Tienen el mismo número de átomos y sólo difieren en su disposición
+- B. Tienen distinto número de átomos de carbono
+- C. Tienen distinto número de átomos de oxígeno
+- D. Son idénticas en todo, incluida su disposición
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 148
+**Subtema:** Glucólisis · paso a paso
+
+La glucosa y la fructosa tienen el mismo número de átomos (C₆H₁₂O₆) y solo difieren en su disposición.
+
+### 40
+
+De acuerdo con el libro de Biología, ¿qué ocurre en el paso 3 de la glucólisis y qué se produce?
+
+- A. La fructosa 6-fosfato gana un segundo fosfato que proviene de otro ATP, produciendo fructosa 1,6-difosfato
+- B. La fructosa 6-fosfato pierde su fosfato, produciendo fructosa libre
+- C. La fructosa 6-fosfato se divide en dos moléculas de tres carbonos
+- D. La fructosa 6-fosfato se reduce a NADH
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 148
+**Subtema:** Glucólisis · paso a paso
+
+Paso 3. En este paso, que es semejante al primero, la fructosa 6-fosfato gana un segundo fosfato que proviene de otro ATP. El fosfato añadido se une al primer carbono, produciendo fructosa 1,6-difosfato.
+
+---
+
+**Reactivos en este archivo:** 40
