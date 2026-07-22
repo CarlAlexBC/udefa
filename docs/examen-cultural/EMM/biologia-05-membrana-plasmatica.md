@@ -29,7 +29,7 @@ página impresa **89** (hoja 135 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **89 a 91**:
+Cubiertas las páginas impresas **89 a 92**:
 
 - La historia del modelo de membrana: Langmuir, Gorter y Grendel (la bicapa),
   Cole y Danielli (las proteínas), Robertson (el modelo trilaminar).
@@ -40,6 +40,8 @@ Cubiertas las páginas impresas **89 a 91**:
 - La composición química de la membrana: proteínas (~60%), lípidos (~40%),
   glúcidos (2–10%), y la cara externa de los glúcidos.
 - La asimetría de las dos caras y la enzima translocadora.
+- Las proteínas integrales y su orientación; el glucocálix; los movimientos en
+  la bicapa; los dominios de membrana y la polaridad de las células intestinales.
 
 **Pendiente:** el resto del capítulo 5, y los capítulos 7, 8, 11, 12, 31, 32, 35,
 36 y 37.
@@ -463,4 +465,144 @@ Estos lípidos pueden ser trasladados de una capa a la otra por una enzima trans
 
 ---
 
-**Reactivos en este archivo:** 24
+## Sub-lote 7 · Las proteínas de la membrana (p. 91)
+
+### 25
+
+De acuerdo con el libro de Biología, ¿qué orientación tienen las proteínas integrales de membrana?
+
+- A. Una orientación espacial definida, con porciones a uno u otro lado completamente distintas en su composición de aminoácidos y estructura terciaria
+- B. Una orientación al azar, distinta en cada momento
+- C. Una orientación idéntica en ambos lados de la membrana
+- D. Ninguna orientación, porque flotan libremente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 91
+**Subtema:** Membrana plasmática · proteínas de membrana
+
+Las proteínas integrales de membrana tienen una orientación espacial definida y las porciones que se extienden a uno u otro lado son completamente distintas en su composición de aminoácidos y en su estructura terciaria.
+
+---
+
+## Sub-lote 8 · El glucocálix (p. 92)
+
+### 26
+
+De conformidad con el libro de Biología, ¿qué forma la cubierta de oligosacáridos que sobresalen hacia el espacio extracelular y protege la superficie de la célula?
+
+- A. El glucocálix
+- B. La lámina nuclear
+- C. La pared celular
+- D. La matriz mitocondrial
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · glucocálix
+
+Formando una cubierta que protege la superficie de la célula, integrando el glucocálix que la rodea.
+
+---
+
+## Sub-lote 9 · Los movimientos en la bicapa (p. 92)
+
+### 27
+
+En relación con el libro de Biología, ¿de qué dos formas se mueven las proteínas de la membrana en la bicapa?
+
+- A. Mediante el desplazamiento lateral o la rotación
+- B. Únicamente atravesando la membrana de un lado a otro
+- C. Únicamente hacia el interior del citosol
+- D. No se mueven, están fijas en su posición
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · movimientos en la bicapa
+
+Las proteínas de la membrana se mueven en la bicapa, generalmente en el mismo plano, ya sea mediante el desplazamiento lateral o la rotación.
+
+### 28
+
+De acuerdo con el libro de Biología, ¿cómo es el movimiento de los lípidos en la bicapa comparado con el de las proteínas?
+
+- A. También ocurre, pero de forma más lenta
+- B. Ocurre de forma más rápida que el de las proteínas
+- C. No ocurre en absoluto
+- D. Ocurre sólo durante la división celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · movimientos en la bicapa
+
+Este movimiento también ocurre entre los lípidos, aunque de forma más lenta.
+
+### 29
+
+De conformidad con el libro de Biología, ¿qué son los dominios de membrana, respecto del paso de las moléculas?
+
+- A. Regiones diferentes entre las que se restringe el paso de las moléculas, que se mueven en forma de dominó pero no pueden pasar al de al lado
+- B. Regiones donde las moléculas pasan libremente de una a otra
+- C. Regiones sin proteínas ni lípidos
+- D. Regiones exclusivas de las células procariontes
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · dominios de membrana
+
+Existen dominios de membrana diferentes entre los que se restringe el paso de las moléculas. Las moléculas se mueven en forma de dominó, pero no pueden pasar al de al lado.
+
+---
+
+## Sub-lote 10 · La polaridad de las células intestinales (p. 92)
+
+### 30
+
+En relación con el libro de Biología, ¿qué caracteriza a las células intestinales respecto de sus dominios de membrana?
+
+- A. Tienen polaridad, y la porción apical está claramente diferenciada de la basal
+- B. No tienen polaridad, y toda su membrana es igual
+- C. Tienen dos núcleos, uno apical y otro basal
+- D. Carecen de membrana en su porción apical
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · polaridad celular
+
+Las células intestinales tienen polaridad y la porción apical está claramente diferenciada de la basal.
+
+### 31
+
+De acuerdo con el libro de Biología, ¿qué hace la porción apical de la membrana de las células intestinales, en contacto con la luz del intestino?
+
+- A. Absorbe los alimentos y nutrientes
+- B. Sintetiza las enzimas digestivas
+- C. Los envía directamente al núcleo
+- D. Los devuelve a la luz del intestino
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · polaridad celular
+
+La porción apical de la membrana, en contacto con la luz del intestino, absorbe los alimentos y nutrientes.
+
+### 32
+
+De conformidad con el libro de Biología, ¿qué ocurre en la porción basal de la membrana de las células intestinales?
+
+- A. Es atravesada por los alimentos parcialmente procesados, que llegan así a los vasos sanguíneos subyacentes
+- B. Absorbe directamente los alimentos de la luz del intestino
+- C. Sintetiza el glucocálix
+- D. Expulsa los desechos hacia la luz del intestino
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · polaridad celular
+
+La porción basal de la membrana es atravesada por los alimentos parcialmente procesados, que llegan así a los vasos sanguíneos subyacentes.
+
+> Par que hay que ordenar: la porción **apical** (en la luz del intestino)
+> **absorbe**; la **basal** deja pasar hacia los **vasos sanguíneos**. Es el
+> recorrido del nutriente: entra por arriba, sale por abajo a la sangre.
+
+---
+
+**Reactivos en este archivo:** 32
