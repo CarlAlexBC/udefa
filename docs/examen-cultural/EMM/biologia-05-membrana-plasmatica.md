@@ -42,6 +42,9 @@ Cubiertas las páginas impresas **89 a 92**:
 - La asimetría de las dos caras y la enzima translocadora.
 - Las proteínas integrales y su orientación; el glucocálix; los movimientos en
   la bicapa; los dominios de membrana y la polaridad de las células intestinales.
+- La unión estrecha; las proteínas periféricas (actina, espectrina); los hidratos
+  de carbono y la comunicación celular; y el cuadro de funciones de las proteínas
+  integrales (transportadoras, canales, bombas, receptores, antigénicas, enzimas).
 
 **Pendiente:** el resto del capítulo 5, y los capítulos 7, 8, 11, 12, 31, 32, 35,
 36 y 37.
@@ -605,4 +608,174 @@ La porción basal de la membrana es atravesada por los alimentos parcialmente pr
 
 ---
 
-**Reactivos en este archivo:** 32
+## Sub-lote 11 · La unión estrecha y las proteínas periféricas (pp. 92–93)
+
+### 33
+
+De acuerdo con el libro de Biología, ¿qué unión entre las membranas de las células de un epitelio impide el pasaje de moléculas de un dominio al otro de la membrana?
+
+- A. La unión estrecha
+- B. La unión translocadora
+- C. La unión basal
+- D. La unión covalente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · unión estrecha
+
+Entre esas uniones, la unión estrecha parece tener un papel importante, al impedir el pasaje de moléculas de un dominio al otro de la membrana.
+
+### 34
+
+De conformidad con el libro de Biología, ¿qué caracteriza a las proteínas periféricas respecto de la bicapa lipídica?
+
+- A. No atraviesan la bicapa lipídica, sino que se unen a una u otra cara mediante interacciones con otras proteínas
+- B. Atraviesan por completo la bicapa lipídica de lado a lado
+- C. Están embebidas en el interior hidrófobo de la bicapa
+- D. Flotan libres en el citosol sin unirse a la membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · proteínas periféricas
+
+Existe otro grupo de proteínas, denominadas proteínas periféricas, que no atraviesan la bicapa lipídica, sino que se unen a una u otra cara de la membrana mediante interacciones con otras proteínas.
+
+> Par contrapuesto que es la clave: las **integrales** atraviesan la bicapa y
+> tienen orientación definida (reactivo 25); las **periféricas** no la atraviesan,
+> se pegan a una cara. Cada una es el distractor de la otra.
+
+### 35
+
+En relación con el libro de Biología, ¿qué proteínas periféricas se encuentran ancladas a la cara interna de la membrana por uniones con proteínas integrales?
+
+- A. La actina o la espectrina
+- B. La tubulina o la dineína
+- C. La insulina o la miosina
+- D. El colesterol o los esfingolípidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · proteínas periféricas
+
+Algunas proteínas periféricas, como la actina o la espectrina, se encuentran ancladas a la cara interna de la membrana por uniones con proteínas integrales.
+
+---
+
+## Sub-lote 12 · Los hidratos de carbono y la comunicación celular (p. 92)
+
+### 36
+
+De acuerdo con el libro de Biología, ¿qué papel fundamental cumplen las cadenas de hidratos de carbono de la cara exterior de la membrana?
+
+- A. Un papel en la comunicación celular: la adhesión de las células entre sí y el reconocimiento de moléculas en la superficie de la membrana
+- B. Un papel en la producción de energía a partir de la glucosa
+- C. Un papel en la digestión de macromoléculas
+- D. Un papel exclusivamente estructural, sin función de comunicación
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · comunicación celular
+
+Estas cadenas cumplen un papel fundamental en la comunicación celular, ya que están implicadas en la adhesión de las células entre sí y en el reconocimiento de moléculas en la superficie de la membrana, como es el caso de la detección de sustancias extrañas por parte de las células del sistema inmunitario.
+
+---
+
+## Sub-lote 13 · Las funciones de las proteínas integrales (cuadro 5-1, p. 92)
+
+### 37
+
+De conformidad con el libro de Biología, ¿qué función cumplen las proteínas integrales llamadas transportadoras o carriers?
+
+- A. Pueden transportar ciertas sustancias a través de la membrana
+- B. Extraen o introducen iones con gasto de energía
+- C. Provocan respuestas de los sistemas inmunitarios
+- D. Anclan el citoesqueleto a la membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · funciones de las proteínas integrales
+
+Transportadores o carriers: pueden transportar ciertas sustancias a través de la membrana.
+
+### 38
+
+De acuerdo con el libro de Biología, ¿qué función cumplen los canales iónicos?
+
+- A. Pueden tener, o no, compuertas por donde pasan ciertos iones, como K⁺, Ca²⁺ o Cl⁻, para los cuales la bicapa es casi impermeable
+- B. Extraen o introducen iones en contra del gradiente, con gasto de energía
+- C. Sintetizan las proteínas de la membrana
+- D. Marcan la superficie de la célula como una etiqueta
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · funciones de las proteínas integrales
+
+Canales iónicos: pueden tener, o no, compuertas por donde pasan ciertos iones; p. ej., K⁺, Ca²⁺, Cl⁻, para los cuales la bicapa lipídica es casi impermeable.
+
+### 39
+
+En relación con el libro de Biología, ¿qué función cumplen las proteínas integrales llamadas bombas?
+
+- A. Extraen o introducen algún ion, con gasto de energía por parte de la célula, realizando un transporte activo en contra del gradiente de concentración
+- B. Dejan pasar los iones a favor del gradiente, sin gasto de energía
+- C. Transportan información como los neurotransmisores
+- D. Anclan las proteínas periféricas a la membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · funciones de las proteínas integrales
+
+Bombas: extraen o introducen algún ion, con gasto de energía por parte de la célula, realizando un transporte activo, en contra del gradiente de concentración.
+
+> Par que se cruza: el **canal iónico** deja pasar el ion (a favor del gradiente,
+> sin gasto); la **bomba** lo mueve en contra del gradiente, gastando energía.
+> Ambos manejan iones, pero uno es pasivo y el otro activo.
+
+### 40
+
+De conformidad con el libro de Biología, ¿qué son las proteínas integrales que actúan como receptores?
+
+- A. Un sitio de unión de moléculas que generalmente llevan alguna información, como los neurotransmisores o las hormonas
+- B. Proteínas que transportan iones con gasto de energía
+- C. Proteínas que anclan el citoesqueleto
+- D. Proteínas que digieren macromoléculas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · funciones de las proteínas integrales
+
+Receptores: sitio de unión de moléculas. Generalmente, llevan alguna información, como los neurotransmisores o las hormonas.
+
+### 41
+
+De acuerdo con el libro de Biología, ¿qué caracteriza a las proteínas integrales con propiedades antigénicas?
+
+- A. Marcan la superficie de la célula como una "etiqueta", lo que permite que sea reconocida por otras células
+- B. Sintetizan las hormonas de la célula
+- C. Transportan iones a favor del gradiente
+- D. Forman la bicapa lipídica de la membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · funciones de las proteínas integrales
+
+Proteínas con propiedades antigénicas: son antígenos, pues marcan la superficie de la célula como una "etiqueta", lo que permite que sea reconocida por otras células.
+
+### 42
+
+En relación con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿cuántas enzimas diferentes con distribución asimétrica a ambos lados de la membrana se describieron?
+
+- A. Más de 30 enzimas diferentes
+- B. Más de 5 enzimas diferentes
+- C. Más de 100 enzimas diferentes
+- D. Más de 300 enzimas diferentes
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 92
+**Subtema:** Membrana plasmática · funciones de las proteínas integrales
+
+Hay reacciones bioquímicas que ocurren a nivel de la membrana, ya que allí se encuentran las enzimas necesarias. Se describieron más de 30 enzimas diferentes con distribución asimétrica a ambos lados de la membrana.
+
+---
+
+**Reactivos en este archivo:** 42
