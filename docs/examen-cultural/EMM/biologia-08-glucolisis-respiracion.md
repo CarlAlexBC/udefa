@@ -44,7 +44,7 @@ página **159** (hoja 205).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **146 a 148**:
+Cubiertas las páginas impresas **146 a 149**:
 
 - La glucólisis como vía central; el ATP como principal transportador de energía
   y dónde interviene.
@@ -58,8 +58,10 @@ Cubiertas las páginas impresas **146 a 148**:
   la riboflavina (vitamina B₂), el FMN y las flavoproteínas.
 - La glucólisis: dónde ocurre, sus nueve reacciones, en qué consiste globalmente,
   qué pasos gastan y cuáles fabrican ATP, y los tres primeros paso a paso.
+- La figura 8-4: las enzimas de la vía; el balance de las reacciones
+  preparatorias; y los pasos 4 y 5, donde la vía se desdobla en dos moléculas.
 
-**Pendiente:** del capítulo 8, las páginas impresas 149 a 158, y el apartado
+**Pendiente:** del capítulo 8, las páginas impresas 150 a 158, y el apartado
 "Biología en contexto social" de las páginas 145–146. De la materia siguen sin
 empezar los capítulos 11, 12, 31, 32, 35, 36 y 37.
 
@@ -760,4 +762,251 @@ Paso 3. En este paso, que es semejante al primero, la fructosa 6-fosfato gana un
 
 ---
 
-**Reactivos en este archivo:** 40
+## Sub-lote 9 · Las enzimas de la glucólisis (figura 8-4, p. 149)
+
+### 41
+
+De conformidad con el libro de Biología, ¿qué enzima interviene en el paso 1 de la glucólisis?
+
+- A. La hexocinasa
+- B. La aldolasa
+- C. La enolasa
+- D. La piruvato cinasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · enzimas de la vía
+
+Paso 1: Hexocinasa.
+
+### 42
+
+En relación con el libro de Biología, ¿qué enzima interviene en el paso 3 de la glucólisis?
+
+- A. La fosfofructocinasa
+- B. La fosfohexosa isomerasa
+- C. La fosfoglicerato cinasa
+- D. La fosfogliceromutasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · enzimas de la vía
+
+Paso 3: Fosfofructocinasa.
+
+### 43
+
+De acuerdo con el libro de Biología, ¿qué enzima interviene en el paso 4 de la glucólisis?
+
+- A. La aldolasa
+- B. La hexocinasa
+- C. La triosa fosfato deshidrogenasa
+- D. La isomerasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · enzimas de la vía
+
+Paso 4: Aldolasa.
+
+### 44
+
+De conformidad con el libro de Biología, ¿qué enzima interviene en el paso 9 de la glucólisis?
+
+- A. La piruvato cinasa
+- B. La enolasa
+- C. La fosfoglicerato cinasa
+- D. La hexocinasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · enzimas de la vía
+
+Paso 9: Piruvato cinasa.
+
+> Las nueve enzimas, en orden, por si hace falta repasarlas: hexocinasa,
+> fosfohexosa isomerasa, fosfofructocinasa, aldolasa, triosa fosfato
+> deshidrogenasa, fosfoglicerato cinasa, fosfogliceromutasa, enolasa y piruvato
+> cinasa. Las **cinasas** son las que mueven grupos fosfato, y por eso aparecen
+> en los pasos donde entra o sale un ATP.
+
+### 45
+
+En relación con el libro de Biología, ¿qué figura en los recuadros violetas del esquema de la glucólisis?
+
+- A. Los nombres de los sucesivos compuestos de carbono que resultan de la progresiva oxidación de la glucosa
+- B. Los nombres de las enzimas que intervienen en cada paso
+- C. Las cantidades de ATP consumidas y producidas
+- D. Los nombres de las coenzimas transportadoras de electrones
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · enzimas de la vía
+
+En los recuadros violetas figuran los nombres de los sucesivos compuestos de carbono que resultan de la progresiva oxidación de la glucosa.
+
+---
+
+## Sub-lote 10 · El balance de las reacciones preparatorias (p. 149)
+
+### 46
+
+De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, en el curso de las reacciones vistas hasta el paso 3, ¿cuántas moléculas de ATP se han convertido en ADP?
+
+- A. Dos
+- B. Una
+- C. Cuatro
+- D. Ninguna
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · balance preparatorio
+
+Nótese que en el curso de las reacciones que se han visto hasta aquí, dos moléculas de ATP se han convertido en ADP.
+
+### 47
+
+De conformidad con el libro de Biología, ¿para qué se ha utilizado la energía liberada por esas dos moléculas de ATP?
+
+- A. Para generar un compuesto de alta energía libre, la fructosa 1,6-difosfato, que será rápidamente degradado en las etapas posteriores
+- B. Para sintetizar dos moléculas nuevas de glucosa
+- C. Para reducir dos moléculas de NAD⁺ a NADH
+- D. Para formar agua a partir de protones y oxígeno
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · balance preparatorio
+
+La energía liberada se ha utilizado para generar un compuesto de alta energía libre (fructosa 1,6 difosfato) que será rápidamente degradado en las etapas posteriores.
+
+### 48
+
+En relación con el libro de Biología, ¿cuándo se han completado las reacciones preparatorias de la glucólisis?
+
+- A. Al completarse el paso 4
+- B. Al completarse el paso 3
+- C. Al completarse el paso 5
+- D. Al completarse el paso 9
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · balance preparatorio
+
+Al completarse el paso 4 se han completado las reacciones preparatorias.
+
+---
+
+## Sub-lote 11 · Los pasos 4 y 5 (p. 149)
+
+### 49
+
+De acuerdo con el libro de Biología, ¿en qué dos moléculas es escindida la fructosa 1,6-difosfato en el paso 4?
+
+- A. En la dihidroxiacetona fosfato y el gliceraldehído 3-fosfato, ambas de tres carbonos
+- B. En dos moléculas de ácido pirúvico, ambas de tres carbonos
+- C. En dos moléculas de glucosa 6-fosfato, ambas de seis carbonos
+- D. En el 1,3-difosfoglicerato y el 3-fosfoglicerato
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · pasos 4 y 5
+
+Paso 4. La molécula de fructosa 1,6 difosfato de seis carbonos es escindida en dos moléculas de tres carbonos: la dihidroxiacetona fosfato y el gliceraldehído 3-fosfato.
+
+### 50
+
+De conformidad con el libro de Biología, ¿qué ocurre finalmente con toda la dihidroxiacetona fosfato, y por qué?
+
+- A. Se convierte en gliceraldehído fosfato, porque de las dos moléculas sólo el gliceraldehído fosfato se consume en las reacciones subsiguientes
+- B. Se acumula en el citoplasma sin transformarse
+- C. Se convierte directamente en ácido pirúvico
+- D. Es eliminada de la célula como residuo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · pasos 4 y 5
+
+Ambas moléculas son interconvertibles por una enzima. Sin embargo, dado que, de las dos moléculas, solo el gliceraldehído fosfato se consume en las reacciones subsiguientes, toda la dihidroxiacetona fosfato finalmente se convierte en gliceraldehído fosfato.
+
+### 51
+
+En relación con el libro de Biología, ¿por qué los productos de todos los pasos siguientes deben contarse dos veces?
+
+- A. Para dar cuenta del destino de una molécula de glucosa
+- B. Porque cada paso ocurre dos veces seguidas en el tiempo
+- C. Porque intervienen dos enzimas distintas en cada paso
+- D. Porque la mitad de los productos se pierde como calor
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · pasos 4 y 5
+
+Así, los productos de todos los pasos siguientes deben contarse dos veces (multiplicarse por dos) para dar cuenta del destino de una molécula de glucosa.
+
+> Éste es el punto donde se descuadran todas las cuentas del capítulo: **a partir
+> del paso 4 hay dos moléculas recorriendo la vía**, no una. Por eso todo lo que
+> viene después se multiplica por dos.
+
+### 52
+
+De acuerdo con el libro de Biología, ¿en qué se oxidan las moléculas de gliceraldehído fosfato en el paso 5?
+
+- A. En 1,3-difosfoglicerato
+- B. En 3-fosfoglicerato
+- C. En fosfoenol piruvato
+- D. En ácido pirúvico
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · pasos 4 y 5
+
+Paso 5. Las moléculas de gliceraldehído fosfato se oxidan a 1,3-difosfoglicerato.
+
+### 53
+
+De conformidad con el libro de Biología, ¿a dónde son transferidos los átomos de hidrógeno con sus electrones provenientes de esa oxidación?
+
+- A. Al NAD⁺, que se reduce a NADH y H⁺
+- B. Al FAD, que se reduce a FADH₂
+- C. Al ADP, que se fosforila a ATP
+- D. Al oxígeno, con el que forman agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · pasos 4 y 5
+
+Los átomos de hidrógeno con sus electrones, provenientes de esta oxidación, son transferidos al NAD⁺ que se reduce a NADH y H⁺.
+
+### 54
+
+En relación con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, ¿cuántas moléculas de NADH y cuántos iones H⁺ se obtienen por cada molécula de glucosa en ese paso?
+
+- A. Un total de dos moléculas de NADH y dos iones H⁺
+- B. Un total de una molécula de NADH y un ion H⁺
+- C. Un total de cuatro moléculas de NADH y cuatro iones H⁺
+- D. Un total de dos moléculas de NADH y cuatro iones H⁺
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · pasos 4 y 5
+
+Un total de dos moléculas de NADH y dos iones H⁺ por cada molécula de glucosa.
+
+### 55
+
+De acuerdo con el libro de Biología, ¿cómo es esa reacción del paso 5 y en qué se aprovecha la energía que libera?
+
+- A. Es muy exergónica, y la energía liberada es aprovechada por la misma enzima para unir un grupo fosfato
+- B. Es muy endergónica, y requiere energía aportada por el ATP
+- C. Es neutra, y no libera ni consume energía
+- D. Es muy exergónica, y toda la energía se pierde como calor
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 149
+**Subtema:** Glucólisis · pasos 4 y 5
+
+Esta reacción es muy exergónica y la energía liberada es aprovechada por la misma enzima para unir un grupo fosfato.
+
+---
+
+**Reactivos en este archivo:** 55
