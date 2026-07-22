@@ -30,7 +30,7 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63 y 66 a 73**:
+Cubiertas las páginas impresas **61 a 63 y 66 a 73** (RE y vacuolas incluidos):
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -52,6 +52,8 @@ Cubiertas las páginas impresas **61 a 63 y 66 a 73**:
   funciones del núcleo.
 - La centrifugación diferencial para aislar organelas; el sistema de
   endomembranas; las vacuolas y la fagocitosis; el retículo endoplasmático.
+- Los dos compartimentos del RE y sus dos tipos (rugoso y liso); las vesículas y
+  las vacuolas, su tamaño, su fusión y sus funciones.
 
 **Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
 4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
@@ -1510,4 +1512,151 @@ El retículo endoplasmático (RE) constituye la mayor parte del sistema de endom
 
 ---
 
-**Reactivos en este archivo:** 85
+## Sub-lote 22 · Los dos compartimentos y tipos de retículo endoplasmático (p. 73)
+
+### 86
+
+De conformidad con el libro de Biología, ¿qué dos compartimentos separa la membrana del retículo endoplasmático?
+
+- A. La luz o espacio intercisternal, interno a la membrana, y el citosol
+- B. El núcleo y el citoplasma
+- C. La vacuola alimentaria y el complejo de Golgi
+- D. El espacio perinuclear y la matriz extracelular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · retículo endoplasmático
+
+La membrana del RE separa dos compartimentos: la luz o espacio intercisternal, interno a la membrana, y el citosol.
+
+### 87
+
+De acuerdo con el libro de Biología, ¿cuáles son los dos tipos de retículo endoplasmático?
+
+- A. El retículo endoplasmático rugoso o granular (RER o REG) y el retículo endoplasmático liso (REL)
+- B. El retículo endoplasmático interno y el externo
+- C. El retículo endoplasmático nuclear y el citosólico
+- D. El retículo endoplasmático primario y el secundario
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · retículo endoplasmático
+
+Existen dos tipos de retículo endoplasmático, el retículo endoplasmático rugoso o granular (RER o REG) y el retículo endoplasmático liso (REL).
+
+### 88
+
+En relación con el libro de Biología, ¿de qué es una continuación el retículo endoplasmático rugoso, y dónde se encuentra por ello?
+
+- A. Es una continuación de la membrana nuclear externa y, por lo tanto, se encuentra más cercano al núcleo
+- B. Es una continuación del complejo de Golgi y se encuentra cerca de la membrana celular
+- C. Es una continuación del retículo endoplasmático liso y se encuentra lejos del núcleo
+- D. Es una continuación de la vacuola central y se encuentra en el centro de la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · retículo endoplasmático
+
+El retículo endoplasmático rugoso o granular (RER o REG), que es una continuación de la membrana nuclear externa y, por lo tanto, se encuentra más cercano al núcleo.
+
+### 89
+
+De conformidad con el libro de Biología, ¿de qué es una continuación el retículo endoplasmático liso?
+
+- A. Del retículo endoplasmático rugoso (RER)
+- B. De la membrana nuclear externa
+- C. De la membrana plasmática
+- D. Del complejo de Golgi
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · retículo endoplasmático
+
+El retículo endoplasmático liso (REL), que es una continuación del RER.
+
+> Par que hay que ordenar: el **rugoso** sale de la membrana nuclear externa (por
+> eso está pegado al núcleo); el **liso** sale del rugoso. Es una cadena: núcleo
+> → RER → REL.
+
+---
+
+## Sub-lote 23 · Las vesículas y las vacuolas (p. 73)
+
+### 90
+
+De acuerdo con el libro de Biología, ¿qué son las vesículas?
+
+- A. Organelas con forma de bolsa delimitadas por membranas
+- B. Redes de sacos aplanados y canales interconectados
+- C. Filamentos proteicos que dan estabilidad al núcleo
+- D. Estructuras rígidas de celulosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · vesículas y vacuolas
+
+El citoplasma de las células eucariontes contiene un gran número de vesículas, que son organelas con forma de bolsa delimitados por membranas.
+
+### 91
+
+De conformidad con el libro de Biología, ¿cuáles son las principales funciones de las vesículas?
+
+- A. El almacenamiento y el transporte de materiales, tanto dentro de la célula como hacia el interior y el exterior de esta
+- B. La síntesis de proteínas a partir de aminoácidos
+- C. La producción de energía a partir de la glucosa
+- D. El almacenamiento exclusivo del material genético
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · vesículas y vacuolas
+
+Sus principales funciones son el almacenamiento y el transporte de materiales, tanto dentro de la célula como hacia el interior y el exterior de esta.
+
+### 92
+
+En relación con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿qué proporción del volumen celular pueden ocupar las vacuolas?
+
+- A. De un 30 a un 90% del volumen celular
+- B. De un 10 a un 20% del volumen celular
+- C. De un 5 a un 15% del volumen celular
+- D. Exactamente el 50% del volumen celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · vesículas y vacuolas
+
+La mayoría de las células de plantas y hongos contienen un tipo particular de vesículas, las vacuolas, que son de gran tamaño, están llenas de fluido y pueden ocupar de un 30 a un 90% del volumen celular.
+
+### 93
+
+De acuerdo con el libro de Biología, ¿qué ocurre con las numerosas vacuolas pequeñas de las células vegetales jóvenes a medida que maduran?
+
+- A. Se fusionan en una vacuola grande, central, que se transforma en un elemento de soporte fundamental de la célula
+- B. Desaparecen por completo del citoplasma
+- C. Se transforman en mitocondrias
+- D. Se dividen en vacuolas aún más pequeñas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · vesículas y vacuolas
+
+Las células vegetales jóvenes se caracterizan por tener muchas vacuolas, pero, a medida que las numerosas vacuolas pequeñas maduran, se fusionan en una vacuola grande, central, que luego se transforma en un elemento de soporte fundamental de la célula.
+
+### 94
+
+De conformidad con el libro de Biología, además de mantener la turgencia celular, ¿qué otras funciones pueden cumplir las vacuolas?
+
+- A. Almacenar de manera temporaria nutrientes o productos de desecho y funcionar como un compartimento de degradación de sustancias
+- B. Sintetizar las proteínas que serán exportadas por la célula
+- C. Portar y transmitir la información hereditaria
+- D. Realizar la fotosíntesis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · vesículas y vacuolas
+
+Las vacuolas mantienen la turgencia celular y también pueden almacenar de manera temporaria nutrientes o productos de desecho y funcionar como un compartimento de degradación de sustancias.
+
+---
+
+**Reactivos en este archivo:** 94
