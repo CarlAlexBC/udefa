@@ -45,6 +45,9 @@ Cubiertas las páginas impresas **89 a 92**:
 - La unión estrecha; las proteínas periféricas (actina, espectrina); los hidratos
   de carbono y la comunicación celular; y el cuadro de funciones de las proteínas
   integrales (transportadoras, canales, bombas, receptores, antigénicas, enzimas).
+- Qué atraviesa la bicapa (polar vs no polar); las proteínas de transporte
+  (canales y transportadores); las acuaporinas; los poros y las toxinas
+  formadoras de poros; la función de la membrana y la permeabilidad selectiva.
 
 **Pendiente:** el resto del capítulo 5, y los capítulos 7, 8, 11, 12, 31, 32, 35,
 36 y 37.
@@ -778,4 +781,193 @@ Hay reacciones bioquímicas que ocurren a nivel de la membrana, ya que allí se 
 
 ---
 
-**Reactivos en este archivo:** 42
+## Sub-lote 14 · Qué atraviesa la bicapa y las proteínas de transporte (pp. 92–93)
+
+### 43
+
+De acuerdo con el libro de Biología, ¿qué moléculas no pueden atravesar libremente la bicapa lipídica?
+
+- A. Las moléculas polares, como la glucosa, y también el agua o los iones de escaso tamaño, que lo hacen muy lentamente
+- B. El dióxido de carbono y el oxígeno
+- C. Las hormonas esteroideas
+- D. Todas las moléculas la atraviesan libremente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 93
+**Subtema:** Membrana plasmática · qué atraviesa la bicapa
+
+Las moléculas polares, como la glucosa, no podrán hacerlo libremente; incluso, pequeñas moléculas de agua o iones de escaso tamaño no podrán atravesarla o lo harán muy lentamente.
+
+> Par contrapuesto: las moléculas **no polares** —CO₂, oxígeno, hormonas
+> esteroideas— cruzan libre la bicapa; las **polares** —glucosa, agua, iones— no,
+> necesitan proteínas de transporte. Lo que decide es si la molécula es polar.
+
+### 44
+
+De conformidad con el libro de Biología, ¿cómo se denomina de forma genérica a las proteínas integrales por las que pasan las moléculas polares, evitando el ambiente no polar de los fosfolípidos?
+
+- A. Proteínas de transporte
+- B. Proteínas antigénicas
+- C. Proteínas estructurales
+- D. Proteínas periféricas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 93
+**Subtema:** Membrana plasmática · proteínas de transporte
+
+A estas proteínas se las denomina de forma genérica proteínas de transporte y pueden actuar de dos formas básicas diferentes: como canales o como transportadores.
+
+### 45
+
+En relación con el libro de Biología, ¿de qué dos formas básicas pueden actuar las proteínas de transporte?
+
+- A. Como canales o como transportadores
+- B. Como bombas o como receptores
+- C. Como enzimas o como antígenos
+- D. Como integrales o como periféricas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 93
+**Subtema:** Membrana plasmática · proteínas de transporte
+
+A estas proteínas se las denomina de forma genérica proteínas de transporte y pueden actuar de dos formas básicas diferentes: como canales o como transportadores.
+
+---
+
+## Sub-lote 15 · Los canales y las acuaporinas (p. 93)
+
+### 46
+
+De acuerdo con el libro de Biología, ¿qué son los canales?
+
+- A. Proteínas integrales de membrana que forman conductos a través de los cuales pueden pasar moléculas polares y iones
+- B. Proteínas periféricas ancladas a la cara interna de la membrana
+- C. Cadenas de hidratos de carbono de la cara externa
+- D. Lípidos que forman la bicapa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 93
+**Subtema:** Membrana plasmática · canales
+
+Los canales son proteínas integrales de membrana que forman conductos a través de los cuales pueden pasar moléculas polares y iones.
+
+### 47
+
+De conformidad con el libro de Biología, ¿qué son las acuaporinas y para qué son específicas?
+
+- A. Canales constituidos por proteínas de membrana que son específicas para el agua, aunque también los solutos neutros y pequeños como la urea o el glicerol pueden atravesarlos
+- B. Bombas que introducen agua con gasto de energía
+- C. Canales específicos para los iones sodio y potasio
+- D. Proteínas periféricas de la cara externa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 93
+**Subtema:** Membrana plasmática · acuaporinas
+
+Las acuaporinas son canales constituidos por proteínas de membrana que son específicas para el agua, aunque también los solutos neutros y pequeños, como la urea o el glicerol, pueden atravesarlos.
+
+### 48
+
+En relación con el libro de Biología, ¿de qué es consecuencia la alta selectividad de los canales iónicos?
+
+- A. De su arquitectura molecular, que permite o impide la difusión de sustancias de acuerdo con su tamaño y carga
+- B. Del gasto de energía de la célula
+- C. De la cantidad de agua que contienen
+- D. De su ubicación en la cara interna de la membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 93
+**Subtema:** Membrana plasmática · canales
+
+La alta selectividad de los canales iónicos es consecuencia de su arquitectura molecular que permite o impide la difusión de sustancias de acuerdo con su tamaño y carga.
+
+### 49
+
+De acuerdo con el libro de Biología, cuando un estímulo "gatilla" la apertura de un canal, ¿qué provoca?
+
+- A. Aumenta la probabilidad de que un canal permanezca abierto
+- B. Cierra el canal de forma permanente
+- C. Destruye la proteína del canal
+- D. Invierte la dirección del transporte
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 93
+**Subtema:** Membrana plasmática · canales
+
+Diversos estímulos "gatillan" la apertura del canal, es decir, aumentan la probabilidad de que un canal permanezca abierto.
+
+---
+
+## Sub-lote 16 · Los poros (p. 93)
+
+### 50
+
+De conformidad con el libro de Biología, ¿cómo son los poros comparados con los canales, en cuanto a tamaño y selectividad?
+
+- A. Son mucho más grandes que los canales y, por lo tanto, mucho menos selectivos
+- B. Son mucho más pequeños que los canales y más selectivos
+- C. Son del mismo tamaño y selectividad que los canales
+- D. Son específicos para un único tipo de ion
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 93
+**Subtema:** Membrana plasmática · poros
+
+Existe otro grupo de conductos, los denominados poros. Estos conductos son mucho más grandes que los canales y, por lo tanto, son mucho menos selectivos.
+
+> Par contrapuesto: el **canal** es pequeño y muy selectivo (deja pasar iones
+> concretos); el **poro** es grande y poco selectivo. A mayor tamaño, menor
+> selectividad.
+
+### 51
+
+En relación con el libro de Biología, ¿qué son las toxinas formadoras de poros?
+
+- A. Péptidos o proteínas que una célula patógena sintetiza y secreta, y que forman un poro en la membrana de otra célula, pudiendo producir su muerte
+- B. Canales específicos para el agua
+- C. Proteínas estructurales de anclaje del citoesqueleto
+- D. Enzimas de la cara interna de la membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 93
+**Subtema:** Membrana plasmática · poros
+
+Esta categoría también incluye a las toxinas formadoras de poros, que son péptidos o proteínas que una célula patógena sintetiza y secreta al medio extracelular. Allí ejercen su efecto tóxico al asociarse con la membrana de otra célula, donde forman un poro a través del cual pueden salir componentes esenciales del interior celular o entrar en la célula sustancias específicas que pueden producir la muerte celular.
+
+---
+
+## Sub-lote 17 · La permeabilidad selectiva (p. 93)
+
+### 52
+
+De acuerdo con el libro de Biología, ¿cuál es la función de la membrana celular?
+
+- A. Mantener la integridad de la célula y, a la vez, regular el tránsito de sustancias de manera selectiva hacia el interior y el exterior
+- B. Producir la energía que la célula necesita
+- C. Almacenar el material genético de la célula
+- D. Sintetizar todas las proteínas de la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 93
+**Subtema:** Membrana plasmática · permeabilidad selectiva
+
+La función de la membrana celular es la de mantener la integridad de la célula y, a la vez, regular el tránsito de sustancias de manera selectiva hacia el interior y el exterior de esta.
+
+### 53
+
+De conformidad con el libro de Biología, ¿cómo se llama la propiedad de la membrana de regular el pasaje de sustancias a través de ella?
+
+- A. La permeabilidad selectiva
+- B. La fluidez de la bicapa
+- C. La polaridad celular
+- D. La asimetría de las caras
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 93
+**Subtema:** Membrana plasmática · permeabilidad selectiva
+
+Una de esas propiedades de la membrana, que analizaremos a continuación, es la permeabilidad selectiva, es decir, la propiedad de regular el pasaje de sustancias a través de ella.
+
+---
+
+**Reactivos en este archivo:** 53
