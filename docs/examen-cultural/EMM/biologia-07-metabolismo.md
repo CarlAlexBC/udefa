@@ -50,7 +50,7 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **126 a 134**:
+Cubiertas las páginas impresas **126 a 136**:
 
 - La vida y el flujo de energía del sol; la célula como transformador de energía;
   el metabolismo y el origen griego de la palabra "energía".
@@ -89,11 +89,19 @@ Cubiertas las páginas impresas **126 a 134**:
   el rendimiento; las vías anabólicas y catabólicas.
 - El recuadro 7-1: las reacciones redox, oxidación como pérdida de electrones y
   reducción como ganancia, su simultaneidad y los átomos de hidrógeno.
+- La universalidad del metabolismo y la ancestralidad común; la molécula de ATP
+  y su hidrólisis.
+- Espontaneidad frente a velocidad: por qué la enzima acelera pero no vuelve
+  espontánea una reacción; el ejemplo del ácido carbónico y el factor 10⁷.
+- El ATP como moneda energética: el almidón y el glucógeno, las ATPasas, el
+  tiritar, los 40 kg de ATP al día; la fosforilación con cinasas y fosfatasas.
+- Los catalizadores y la energía de activación.
 
-**Pendiente:** del capítulo 7, las páginas impresas 135 a 144 — las enzimas en
-detalle y lo que siga hasta el cierre del capítulo; queda por decidir el apartado
-"Biología en contexto social" de las páginas 125–126. De la materia siguen sin
-empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 7, las páginas impresas 137 a 144 — el sitio activo,
+el complejo enzima-sustrato y el ajuste inducido, y lo que siga hasta el cierre
+del capítulo; queda por decidir el apartado "Biología en contexto social" de las
+páginas 125–126. De la materia siguen sin empezar los capítulos 8, 11, 12, 31,
+32, 35, 36 y 37.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
@@ -1879,4 +1887,400 @@ En estos casos, la oxidación implica la pérdida de átomos de hidrógeno y la 
 
 ---
 
-**Reactivos en este archivo:** 106
+## Sub-lote 21 · La universalidad del metabolismo (p. 135)
+
+### 107
+
+De conformidad con el libro de Biología, ¿qué reflejan las leves diferencias entre las vías metabólicas de los seres humanos, los robles, los hongos y las medusas?
+
+- A. La ancestralidad común de todos los seres vivos
+- B. Que todos ellos viven en el mismo tipo de ambiente
+- C. Que el metabolismo apareció varias veces por separado
+- D. Que todos ellos tienen el mismo tamaño celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 135
+**Subtema:** Metabolismo · universalidad
+
+Las diferencias en muchas de las vías metabólicas de los seres humanos, los robles, los hongos y las medusas son muy leves. Estas homologías reflejan la ancestralidad común de todos los seres vivos.
+
+### 108
+
+En relación con el libro de Biología, ¿qué vías metabólicas son virtualmente universales?
+
+- A. La glucólisis y la respiración, que ocurren en casi todos los sistemas vivos
+- B. La construcción de paredes celulares y la fotosíntesis
+- C. La síntesis de aminoácidos y la de bases nitrogenadas, únicamente
+- D. Ninguna; cada organismo tiene vías completamente propias
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 135
+**Subtema:** Metabolismo · universalidad
+
+Algunas vías metabólicas como la glucólisis y la respiración son virtualmente universales: ocurren en casi todos los sistemas vivos.
+
+### 109
+
+De acuerdo con el libro de Biología, ¿en qué gastan gran parte de su energía las células vegetales, a diferencia de las animales?
+
+- A. En la construcción de paredes celulares
+- B. En la contracción de sus fibras musculares
+- C. En el transporte de oxígeno por la sangre
+- D. En la síntesis de ATP a partir de ADP
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 135
+**Subtema:** Metabolismo · universalidad
+
+Muchos tipos de sistemas vivos, como las células vegetales, tienen vías particulares que les son propias. Por ejemplo, estas células gastan gran parte de su energía en la construcción de paredes celulares, lo cual no ocurre en las células animales.
+
+---
+
+## Sub-lote 22 · La molécula de ATP (p. 135)
+
+### 110
+
+De conformidad con el libro de Biología, ¿por qué está constituida la molécula de ATP?
+
+- A. Por una base nitrogenada que es la adenina, un azúcar de cinco carbonos, la ribosa, y tres grupos fosfato
+- B. Por una base nitrogenada que es la adenina, un azúcar de seis carbonos, la glucosa, y dos grupos fosfato
+- C. Por dos bases nitrogenadas, un azúcar de cinco carbonos y un grupo fosfato
+- D. Por una cadena de aminoácidos y tres grupos fosfato
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 135
+**Subtema:** Metabolismo · ATP
+
+La molécula de ATP está constituida por una base nitrogenada que es la adenina, un azúcar de cinco carbonos, la ribosa y tres grupos fosfato.
+
+### 111
+
+En relación con el libro de Biología, ¿cómo están unidos los tres grupos fosfato del ATP y qué ocurre al romperse?
+
+- A. Por enlaces covalentes que se rompen fácilmente por hidrólisis, transformando el ATP en ADP y fósforo inorgánico, y liberando una gran cantidad de energía
+- B. Por enlaces iónicos que se rompen por calor, transformando el ATP en glucosa y liberando calor
+- C. Por puentes de hidrógeno que se rompen espontáneamente, sin liberar energía
+- D. Por enlaces covalentes que no pueden romperse en la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 135
+**Subtema:** Metabolismo · ATP
+
+Los tres grupos fosfato están unidos por enlaces covalentes que se rompen fácilmente por hidrólisis, transformando el ATP en ADP y fósforo (P) inorgánico y liberando una gran cantidad de energía.
+
+---
+
+## Sub-lote 23 · Espontaneidad y velocidad: las enzimas (p. 135)
+
+### 112
+
+De acuerdo con el libro de Biología, ¿qué nos dice, y qué no, el hecho de saber que una reacción es espontánea?
+
+- A. Sólo nos dice que podrá ocurrir sin un aporte de energía, pero no nos informa acerca de la velocidad con la que ocurrirá
+- B. Nos dice tanto que ocurrirá sin aporte de energía como la velocidad exacta a la que lo hará
+- C. Sólo nos informa de la velocidad, pero no de si requiere energía
+- D. No nos dice nada sobre la reacción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 135
+**Subtema:** Metabolismo · enzimas
+
+El hecho de saber que una reacción es espontánea solo nos dice que podrá ocurrir sin un aporte de energía, pero no nos informa acerca de la velocidad con la que ocurrirá dicha reacción.
+
+### 113
+
+De conformidad con el libro de Biología, en los animales, ¿en qué se transforma el dióxido de carbono resultante del metabolismo celular y para qué?
+
+- A. En ácido carbónico, que es la manera en que es transportado por la sangre
+- B. En glucosa, que es la manera en que es almacenado en el hígado
+- C. En bicarbonato de sodio, que es eliminado por el riñón
+- D. En oxígeno, que es devuelto a los pulmones
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 135
+**Subtema:** Metabolismo · enzimas
+
+En los animales, el dióxido de carbono resultante del metabolismo celular se transforma en ácido carbónico, que es la manera en que es transportado por la sangre.
+
+### 114
+
+En relación con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuántas veces mayor es la velocidad de esa reacción en los animales que la que se produce en el mar, debido a la acción de las enzimas?
+
+- A. 10⁷ veces mayor
+- B. 10³ veces mayor
+- C. 10¹² veces mayor
+- D. 10 veces mayor
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 135
+**Subtema:** Metabolismo · enzimas
+
+Debido a la acción de las enzimas, la velocidad de esta reacción en los animales es 10⁷ mayor que la que se produce en el mar.
+
+### 115
+
+De acuerdo con el libro de Biología, ¿qué son las enzimas?
+
+- A. Componentes celulares que aceleran las reacciones espontáneas
+- B. Componentes celulares que hacen espontáneas las reacciones que no lo son
+- C. Componentes celulares que almacenan la energía de la célula
+- D. Componentes celulares que forman la pared celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 135
+**Subtema:** Metabolismo · enzimas
+
+Las enzimas son componentes celulares que aceleran las reacciones espontáneas.
+
+> Distinción fina que el libro construye en toda esta página: la enzima **no**
+> vuelve espontánea una reacción que no lo es —eso lo decide el ΔG—, sólo la
+> **acelera**. El distractor B es justo ese error.
+
+### 116
+
+De conformidad con el libro de Biología, según la representación esquemática de una vía metabólica, ¿qué ocurre si cualquiera de sus pasos se inhibe?
+
+- A. La vía se interrumpe y las reacciones siguientes no se producen
+- B. La vía continúa por un camino alternativo automáticamente
+- C. La vía se acelera para compensar el paso perdido
+- D. Sólo se detiene ese paso, y los siguientes continúan igual
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 135
+**Subtema:** Metabolismo · vías metabólicas
+
+Si cualquier paso de la vía metabólica se inhibe –porque una enzima no funciona o porque falta sustrato–, la vía se interrumpe y las reacciones siguientes no se producen.
+
+---
+
+## Sub-lote 24 · El ATP como moneda energética (p. 136)
+
+### 117
+
+En relación con el libro de Biología, ¿en qué macromoléculas almacenan las células la energía química?
+
+- A. En el almidón, en las plantas, y el glucógeno, en las bacterias y los animales
+- B. En el glucógeno, en las plantas, y el almidón, en las bacterias y los animales
+- C. En la celulosa, tanto en las plantas como en los animales
+- D. En el ATP, que se acumula como reserva a largo plazo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · ATP
+
+Las células almacenan energía en forma de energía química contenida en los enlaces de ciertas macromoléculas especiales, como el almidón en las plantas y el glucógeno en las bacterias y los animales.
+
+### 118
+
+De acuerdo con el libro de Biología, ¿en qué participa la energía liberada en los procesos exergónicos?
+
+- A. En la síntesis de ATP a partir de ADP y fósforo inorgánico
+- B. En la degradación del ATP en ADP y fósforo inorgánico
+- C. En la construcción de la pared celular de las plantas
+- D. En el aumento de la entropía del citosol
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · ATP
+
+La energía liberada en los procesos exergónicos mencionados participa en la síntesis de ATP a partir de ADP y fósforo inorgánico.
+
+### 119
+
+De conformidad con el libro de Biología, ¿cómo se denominan en conjunto las enzimas que catalizan la hidrólisis del ATP?
+
+- A. ATPasas
+- B. Cinasas
+- C. Fosfatasas
+- D. Catalasas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · ATP
+
+La hidrólisis del ATP está catalizada por enzimas que, en conjunto, se denominan ATPasas.
+
+### 120
+
+En relación con el libro de Biología, ¿cómo aumentan su temperatura corporal algunos animales, como las aves y los mamíferos, al tiritar?
+
+- A. El ATP hidrolizado durante la contracción muscular libera parte de la energía en forma de calor
+- B. Las células queman directamente el glucógeno de reserva sin intermediarios
+- C. La pared celular de sus tejidos retiene el calor del ambiente
+- D. Las ATPasas dejan de funcionar y el calor se acumula
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · ATP
+
+A veces, también, algunos animales, como las aves y los mamíferos, aumentan su temperatura corporal mediante este mecanismo: al tiritar, el ATP hidrolizado durante la contracción muscular libera parte de la energía en forma de calor.
+
+### 121
+
+De acuerdo con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuánto ATP se ha estimado que utiliza una persona por día?
+
+- A. 40 kg
+- B. 4 kg
+- C. 400 kg
+- D. 400 g
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · ATP
+
+Se ha estimado que una persona utiliza 40 kg de ATP por día.
+
+### 122
+
+De conformidad con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuántas veces por día es fosforilada y desfosforilada cada molécula de ADP?
+
+- A. Unas 1 000 veces por día
+- B. Unas 100 veces por día
+- C. Unas 10 000 veces por día
+- D. Unas 10 veces por día
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · ATP
+
+Esto implicaría que cada molécula de ADP es fosforilada a ATP y posteriormente desfosforilada unas 1000 veces por día.
+
+---
+
+## Sub-lote 25 · Fosforilación: cinasas y fosfatasas (p. 136)
+
+### 123
+
+En relación con el libro de Biología, ¿cómo se conoce la adición de un grupo fosfato a otra molécula, y qué familia de enzimas la lleva a cabo?
+
+- A. Fosforilación; la llevan a cabo las cinasas
+- B. Fosforilación; la llevan a cabo las fosfatasas
+- C. Hidrólisis; la llevan a cabo las ATPasas
+- D. Desfosforilación; la llevan a cabo las cinasas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · cinasas y fosfatasas
+
+Esta adición de un grupo fosfato se conoce como fosforilación y la lleva a cabo una familia de enzimas llamadas cinasas.
+
+### 124
+
+De acuerdo con el libro de Biología, ¿de qué se encargan las enzimas denominadas fosfatasas?
+
+- A. De eliminar los grupos fosfato de las moléculas que, por lo general, fueron incorporados por las cinasas
+- B. De añadir los grupos fosfato que después eliminarán las cinasas
+- C. De catalizar la hidrólisis del ATP en ADP
+- D. De sintetizar ATP a partir de ADP y fósforo inorgánico
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · cinasas y fosfatasas
+
+Existe otro grupo de enzimas, denominadas fosfatasas, que se encargan de eliminar los grupos fosfato de las moléculas que, por lo general, fueron incorporados por las cinasas.
+
+> Otro par contrapuesto: las **cinasas ponen** el fosfato, las **fosfatasas lo
+> quitan**. El libro dice que su interacción regula una gran cantidad de vías
+> metabólicas, y son fáciles de intercambiar en un reactivo.
+
+### 125
+
+De conformidad con el libro de Biología, ¿qué regula la interacción entre cinasas y fosfatasas?
+
+- A. Una gran cantidad de vías metabólicas
+- B. Únicamente la síntesis de ATP
+- C. Únicamente la temperatura corporal
+- D. La permeabilidad de la membrana plasmática
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · cinasas y fosfatasas
+
+La interacción entre cinasas y fosfatasas regula una gran cantidad de vías metabólicas.
+
+---
+
+## Sub-lote 26 · Los catalizadores y la energía de activación (p. 136)
+
+### 126
+
+En relación con el libro de Biología, ¿qué es un catalizador?
+
+- A. Una sustancia que modifica la velocidad de una reacción química, pero sin sufrir un cambio químico permanente en el proceso
+- B. Una sustancia que se consume por completo durante la reacción que acelera
+- C. Una sustancia que aporta la energía que le falta a una reacción
+- D. Una sustancia que impide que la reacción llegue al equilibrio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · energía de activación
+
+Las enzimas son catalizadores biológicos. Un catalizador es una sustancia que modifica la velocidad de una reacción química, pero sin sufrir un cambio químico permanente en el proceso.
+
+### 127
+
+De acuerdo con el libro de Biología, ¿qué implica toda reacción química respecto de los átomos de los reactivos?
+
+- A. Un reordenamiento: se rompen los enlaces que los mantienen unidos y se forman otros nuevos que dan lugar a compuestos diferentes
+- B. Un cambio en el número de átomos, que aumenta o disminuye
+- C. La destrucción de los átomos iniciales y la creación de otros
+- D. Un cambio en el número de protones de sus núcleos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · energía de activación
+
+Toda reacción química implica un reordenamiento de los átomos que forman parte de los reactivos: se rompen los enlaces que los mantienen unidos y se forman otros nuevos que dan lugar a compuestos diferentes de los iniciales, aunque formados por el mismo tipo y cantidades de átomos.
+
+### 128
+
+De conformidad con el libro de Biología, ¿por qué ocurren las reacciones químicas, aun las exergónicas?
+
+- A. Debido a un ingreso inicial de energía que favorece la desestabilización de los enlaces de las moléculas que forman los reactivos
+- B. Sin ningún ingreso de energía, porque son espontáneas
+- C. Debido únicamente a la presencia de un catalizador
+- D. Debido al aumento de la temperatura del sistema
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · energía de activación
+
+Cualquier reacción química, aun las que son exergónicas, ocurren debido a un ingreso inicial de energía que favorece la desestabilización de los enlaces de las moléculas que forman los reactivos y la consecuente formación de otros nuevos de menor energía.
+
+### 129
+
+En relación con el libro de Biología, ¿qué son los estadios químicos intermedios de una reacción?
+
+- A. Átomos o moléculas que están a mitad de camino entre el reactivo y el producto, con sus configuraciones electrónicas alteradas y estados energéticos altos
+- B. Los productos finales de la reacción, ya estabilizados
+- C. Los catalizadores que la enzima libera durante el proceso
+- D. Los enlaces covalentes que se forman al final de la reacción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · energía de activación
+
+Estos estadios químicos intermedios son átomos o moléculas que están a mitad de camino entre el reactivo y el producto; sus configuraciones electrónicas se encuentran alteradas y sus estados energéticos son altos.
+
+### 130
+
+De acuerdo con el libro de Biología, ¿qué se conoce como energía de activación?
+
+- A. La diferencia en energía libre entre los reactivos y sus estadios intermedios
+- B. La diferencia en energía libre entre los reactivos y los productos finales
+- C. La energía total liberada por la reacción
+- D. La energía que la enzima aporta a la reacción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 136
+**Subtema:** Metabolismo · energía de activación
+
+La diferencia en energía libre entre los reactivos y sus estadios intermedios es lo que se conoce como energía de activación.
+
+> Ojo con el distractor B: la energía libre entre reactivos y **productos** es el
+> ΔG, que decide si la reacción es espontánea. La energía de **activación** se
+> mide contra los **estadios intermedios**, y es lo que la enzima abarata.
+
+---
+
+**Reactivos en este archivo:** 130
