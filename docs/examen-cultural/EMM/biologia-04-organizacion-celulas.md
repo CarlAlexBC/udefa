@@ -30,7 +30,8 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63 y 66 a 81**:
+**El capítulo 4 queda cerrado.** Cubiertas las páginas impresas **61 a 63 y 66 a
+83**:
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -71,6 +72,11 @@ Cubiertas las páginas impresas **61 a 63 y 66 a 81**:
   microvellosidades, músculo); los filamentos intermedios (7–11 nm, proteínas
   fibrosas, tetrámeros); el citoesqueleto como estructura dinámica; y los cilios
   y flagelos: dónde están y quiénes no los tienen.
+- Cilio o flagelo y la estructura 9+2; la dineína; los cilios en el tracto
+  respiratorio y los oviductos; el cuerpo basal; los centríolos, el centrosoma y
+  el huso mitótico; y la conservación evolutiva como prueba de unidad.
+- El recuadro 4-4, el cultivo de células: para qué sirve, el medio, los
+  parámetros y el incubador.
 
 **Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
 4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
@@ -82,8 +88,16 @@ Schwann (p. 61), pero eso ya está cubierto a fondo en el ensayo 3-1 del capítu
 3 (`biologia-03-origen-vida.md`, reactivos 172–184). Aquí sólo se escribe lo que
 el capítulo 4 añade sobre la organización celular.
 
-**Pendiente:** el resto del capítulo 4, y los capítulos 5, 7, 8, 11, 12, 31, 32,
-35, 36 y 37.
+**Apartado dejado fuera a propósito.** La sección "Retomando la problemática
+inicial: la metáfora de las células madre" (pp. 84 en adelante) es una
+**discusión lingüística** sobre cómo traducir *stem cell* al español —célula
+madre, germinal, progenitora, precursora—, no recuerdo literal de definiciones o
+procesos. Mismo criterio que con "Temas en debate" del capítulo 3. Las páginas 85
+y 88 son las **preguntas de repaso del propio libro**, no teoría nueva.
+
+**Pendiente:** ninguno. El capítulo 4 está cerrado. Lo que falta de Biología lo
+declara el archivo del capítulo en curso — el siguiente es el capítulo 5,
+Membrana plasmática (p. 89).
 
 ## Criterio: teoría sobre práctica
 
@@ -2695,4 +2709,309 @@ Solo algunos grupos de eucariontes, como las algas rojas, los hongos, las planta
 
 ---
 
-**Reactivos en este archivo:** 155
+## Sub-lote 41 · Cilio o flagelo, y la estructura 9+2 (p. 81)
+
+### 156
+
+De acuerdo con el libro de Biología, ¿qué son los cilios y los flagelos, y por qué están rodeados?
+
+- A. Protrusiones de la propia célula, rodeadas por su membrana plasmática
+- B. Estructuras independientes que se adhieren a la célula desde el exterior
+- C. Prolongaciones de la pared celular rígida
+- D. Canales internos del citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 81
+**Subtema:** Organización de las células · cilios y flagelos
+
+Se trata de protrusiones de la propia célula, rodeadas por su membrana plasmática.
+
+### 157
+
+De conformidad con el libro de Biología, ¿cuál es la diferencia más evidente entre un cilio y un flagelo?
+
+- A. Su longitud: cuando son cortos y numerosos se llaman cilios; cuando son más largos y escasos, flagelos
+- B. Su composición química: los cilios son de actina y los flagelos de tubulina
+- C. Su función: los cilios digieren y los flagelos sintetizan
+- D. Su ubicación: los cilios están dentro de la célula y los flagelos fuera
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 81
+**Subtema:** Organización de las células · cilios y flagelos
+
+Ambos participan en el movimiento celular y tienen una estructura común; la diferencia más evidente entre ellos es su longitud. Cuando son cortos y numerosos, se llaman cilios; cuando son más largos y escasos, se llaman flagelos.
+
+> Cilio y flagelo tienen **la misma estructura**; sólo cambian largo y número.
+> Cortos y muchos = cilios; largos y pocos = flagelos.
+
+### 158
+
+En relación con el libro de Biología, ¿cuál es la estructura interna común a prácticamente todos los cilios y flagelos de células eucariontes?
+
+- A. Nueve pares de microtúbulos fusionados que forman un anillo alrededor de otros dos microtúbulos centrales
+- B. Nueve tripletes de microtúbulos sin ninguno en el centro
+- C. Dos microtúbulos centrales sin anillo externo
+- D. Filamentos de actina dispuestos en haces
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 81
+**Subtema:** Organización de las células · cilios y flagelos
+
+Prácticamente todos los cilios y los flagelos de células eucariontes, ya sean de un paramecio o de un espermatozoide, tienen la misma estructura interna: nueve pares de microtúbulos fusionados forman un anillo que rodea a otros dos microtúbulos situados en el centro.
+
+### 159
+
+De acuerdo con el libro de Biología, ¿a qué se debe la gran movilidad de los espermatozoides humanos?
+
+- A. A su poderoso flagelo único o "cola"
+- B. A sus numerosos cilios cortos
+- C. A sus filamentos de actina
+- D. A sus microvellosidades
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 81
+**Subtema:** Organización de las células · cilios y flagelos
+
+La gran movilidad de los espermatozoides humanos se debe a su poderoso flagelo único o "cola".
+
+### 160
+
+De conformidad con el libro de Biología, ¿qué proteína permite que los microtúbulos de cilios y flagelos se deslicen unos sobre otros, y como qué funciona?
+
+- A. La dineína, que funciona como una ATPasa
+- B. La miosina, que funciona como una proteína contráctil
+- C. La actina, que funciona como una proteína globular
+- D. La tubulina, que funciona como una enzima oxidativa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 81
+**Subtema:** Organización de las células · cilios y flagelos
+
+Los microtúbulos se deslizan unos sobre otros por la acción de la proteína dineína que funciona como una ATPasa.
+
+---
+
+## Sub-lote 42 · La acción de los cilios en el cuerpo humano (pp. 81–82)
+
+### 161
+
+En relación con el libro de Biología, en las células del tracto respiratorio, ¿qué genera el movimiento de los cilios al batir?
+
+- A. Una corriente ascendente de mucus que arrastra hollín, polvo, polen y sustancias extrañas hacia la garganta
+- B. Una corriente descendente que lleva el aire a los pulmones
+- C. Una contracción que expulsa el aire
+- D. Un movimiento que impulsa la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 81
+**Subtema:** Organización de las células · cilios en el cuerpo humano
+
+En las células de nuestro tracto respiratorio, el movimiento de los cilios genera un movimiento en el medio externo. Al batir, crean una corriente ascendente de mucus que arrastra los restos de hollín, polvo, polen, alquitrán de tabaco y cualquier sustancia extraña que se haya inhalado hacia la garganta.
+
+### 162
+
+De acuerdo con el libro de Biología, en las células que tapizan los oviductos, ¿qué impulsa el batir de sus cilios?
+
+- A. Impulsa a los oocitos, a través del conducto, desde el ovario hacia el útero
+- B. Impulsa a los espermatozoides hacia el ovario
+- C. Impulsa el mucus hacia la garganta
+- D. Impulsa la sangre a través de las branquias
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 82
+**Subtema:** Organización de las células · cilios en el cuerpo humano
+
+Otro ejemplo lo constituyen las células que tapizan las superficies internas de los oviductos. El batir de sus cilios impulsa a los oocitos, a través del conducto, desde el ovario hacia el útero.
+
+---
+
+## Sub-lote 43 · El cuerpo basal (p. 82)
+
+### 163
+
+De conformidad con el libro de Biología, ¿por qué estructura están anclados los cilios y flagelos a la célula?
+
+- A. Por una estructura en forma de cilindro, el cuerpo basal
+- B. Por la lámina nuclear
+- C. Por el centrosoma
+- D. Por la membrana tilacoide
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 82
+**Subtema:** Organización de las células · cuerpo basal
+
+Los cilios y los flagelos están anclados a la célula por una estructura en forma de cilindro, el cuerpo basal.
+
+### 164
+
+En relación con el libro de Biología, ¿cómo están dispuestos los microtúbulos del cuerpo basal, a diferencia de los de cilios y flagelos?
+
+- A. En tripletes que, en número de nueve, forman la pared del cilindro, y sin microtúbulos en el centro
+- B. En pares que forman un anillo alrededor de dos centrales
+- C. En un solo microtúbulo central
+- D. En haces de actina
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 82
+**Subtema:** Organización de las células · cuerpo basal
+
+A diferencia de los cilios y flagelos, estos están dispuestos en tripletes que, en número de nueve, forman la pared del cilindro. Otra diferencia es que el cuerpo basal no tiene microtúbulos en el centro y ninguno de sus microtúbulos tiene brazos.
+
+> Par que hay que distinguir: el **cilio/flagelo** es "9 pares + 2 centrales"; el
+> **cuerpo basal** es "9 tripletes, sin centro". Misma familia, distinta
+> disposición.
+
+---
+
+## Sub-lote 44 · Los centríolos, el centrosoma y el huso mitótico (p. 82)
+
+### 165
+
+De acuerdo con el libro de Biología, ¿en qué grupos de organismos se encuentran los centríolos?
+
+- A. Sólo en aquellos que también tienen cilios o flagelos (y, por lo tanto, cuerpos basales)
+- B. En todos los organismos, sin excepción
+- C. Sólo en las bacterias y otros procariontes
+- D. Sólo en las células vegetales con pared celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 82
+**Subtema:** Organización de las células · centríolos
+
+Los centríolos se encuentran solo en aquellos grupos de organismos que también tienen cilios o flagelos (y, por lo tanto, cuerpos basales).
+
+### 166
+
+De conformidad con el libro de Biología, ¿cómo se llama la región del citoplasma donde se ubican los centríolos, próxima a la envoltura nuclear?
+
+- A. El centrosoma
+- B. El cuerpo basal
+- C. La matriz mitocondrial
+- D. El nucléolo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 82
+**Subtema:** Organización de las células · centríolos
+
+Se ubican en una región del citoplasma llamada centrosoma. Se trata de una zona más clara próxima a la envoltura nuclear, a partir de la cual se disponen en forma radial los microtúbulos del citoesqueleto.
+
+### 167
+
+En relación con el libro de Biología, ¿como qué se considera al centrosoma?
+
+- A. El principal centro organizador de microtúbulos
+- B. El principal centro de síntesis de proteínas
+- C. El principal centro de digestión celular
+- D. El principal centro de almacenamiento de energía
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 82
+**Subtema:** Organización de las células · centríolos
+
+Por esta razón, el centrosoma se considera el principal centro organizador de microtúbulos.
+
+### 168
+
+De acuerdo con el libro de Biología, ¿qué es el huso mitótico?
+
+- A. Una estructura formada por microtúbulos que se ensamblan en el momento de la división celular y está relacionada con el movimiento de los cromosomas
+- B. Una estructura de actina que estrangula el citoplasma
+- C. Un conjunto de filamentos intermedios que sostienen el núcleo
+- D. Una membrana que rodea a los centríolos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 82
+**Subtema:** Organización de las células · centríolos
+
+Desempeña un papel importante en la formación del huso mitótico, que es una estructura formada por microtúbulos que se ensamblan en el momento de la división celular y está relacionada con el movimiento de los cromosomas.
+
+---
+
+## Sub-lote 45 · La conservación evolutiva de cilios y flagelos (p. 82)
+
+### 169
+
+De conformidad con el libro de Biología, ¿qué constituye para los biólogos la repetición y conservación de la estructura de cilios y flagelos a lo largo de la evolución?
+
+- A. Otra prueba abrumadora de la unidad básica de los seres vivos
+- B. Una prueba de que la vida se originó en otros planetas
+- C. Una prueba de que los seres vivos no tienen un origen común
+- D. Una excepción a la teoría celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 82
+**Subtema:** Organización de las células · conservación evolutiva
+
+Para los biólogos, la repetición y la conservación de esta estructura compleja a lo largo de la evolución, desde organismos unicelulares muy antiguos hasta organismos pluricelulares más recientes, constituye otra prueba abrumadora de la unidad básica de los seres vivos.
+
+> Cierra el capítulo enlazando con su inicio: la unidad de los seres vivos (el
+> ancestro común, LUCA, del capítulo 3). Que la misma estructura 9+2 aparezca en
+> un paramecio y en un espermatozoide humano es la huella de ese origen común.
+
+---
+
+## Sub-lote 46 · El cultivo de células (recuadro 4-4, p. 83)
+
+### 170
+
+De acuerdo con el libro de Biología, ¿en qué campos se aplican hoy las técnicas de cultivo celular?
+
+- A. En la investigación básica y aplicada, en el diagnóstico clínico e incluso en algunos procesos industriales
+- B. Únicamente en la investigación básica de laboratorio
+- C. Únicamente en el diagnóstico clínico de patologías
+- D. Únicamente en la industria farmacéutica
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 83
+**Subtema:** Organización de las células · cultivo de células
+
+En la actualidad, las técnicas de cultivo celular constituyen herramientas fundamentales que se aplican tanto en la investigación básica como en la aplicada, en el diagnóstico clínico e incluso en algunos procesos industriales.
+
+### 171
+
+De conformidad con el libro de Biología, ¿qué debe contener el medio adecuado para que las células puedan mantenerse y proliferar?
+
+- A. Nutrientes como aminoácidos esenciales, hidratos de carbono, vitaminas, iones inorgánicos y suero de diferentes especies
+- B. Únicamente agua destilada y sales
+- C. Únicamente glucosa y oxígeno
+- D. Enzimas hidrolíticas y ácidos nucleicos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 83
+**Subtema:** Organización de las células · cultivo de células
+
+Para que las células puedan mantenerse y proliferar, se deben cultivar en un medio adecuado, que contenga nutrientes, como aminoácidos esenciales, hidratos de carbono, vitaminas, iones inorgánicos y suero de diferentes especies, como de caballo o de bovino.
+
+### 172
+
+En relación con el libro de Biología, además de los requerimientos nutricionales, ¿qué otros parámetros es necesario controlar en el cultivo de células?
+
+- A. La temperatura, el pH, la tensión de CO₂ y la humedad
+- B. La presión osmótica y la luz solar
+- C. La densidad y la viscosidad del medio
+- D. El campo magnético y la radiación
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 83
+**Subtema:** Organización de las células · cultivo de células
+
+Además de los requerimientos nutricionales, es necesario controlar otros parámetros, como la temperatura, el pH, la tensión de CO₂ y la humedad.
+
+### 173
+
+De acuerdo con el libro de Biología, ¿qué instrumento fundamental provee las condiciones necesarias para el cultivo celular?
+
+- A. El incubador de células
+- B. La ultracentrífuga
+- C. El microscopio electrónico
+- D. La cámara de fluorescencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 83
+**Subtema:** Organización de las células · cultivo de células
+
+Estas condiciones son provistas por el incubador de células, instrumento fundamental para el cultivo celular.
+
+---
+
+**Reactivos en este archivo:** 173
