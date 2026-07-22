@@ -50,7 +50,7 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **126 a 132**:
+Cubiertas las páginas impresas **126 a 134**:
 
 - La vida y el flujo de energía del sol; la célula como transformador de energía;
   el metabolismo y el origen griego de la palabra "energía".
@@ -82,17 +82,34 @@ Cubiertas las páginas impresas **126 a 132**:
   calorímetro (673 kcal/mol).
 - La energía libre de Gibbs: el desequilibrio químico, la reacción de
   oxidorreducción, y la ecuación ΔG = ΔH – T × ΔS.
+- El calorímetro y la espontaneidad: ΔG negativo = espontánea, y por qué una
+  reacción endotérmica puede serlo.
+- Reacciones exergónicas y endergónicas, su acoplamiento y el papel del ATP.
+- El metabolismo como red de redes; las enzimas y su impacto en la velocidad y
+  el rendimiento; las vías anabólicas y catabólicas.
+- El recuadro 7-1: las reacciones redox, oxidación como pérdida de electrones y
+  reducción como ganancia, su simultaneidad y los átomos de hidrógeno.
 
-**Pendiente:** del capítulo 7, las páginas impresas 133 a 144 — el recuadro 7-1
-sobre oxidorreducción, y lo que siga hasta el cierre del capítulo; queda por
-decidir el apartado "Biología en contexto social" de las páginas 125–126. De la
-materia siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 7, las páginas impresas 135 a 144 — las enzimas en
+detalle y lo que siga hasta el cierre del capítulo; queda por decidir el apartado
+"Biología en contexto social" de las páginas 125–126. De la materia siguen sin
+empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
 > en blanco. Si se parte en viñetas o se le cambia el nombre, `ESTADO.md` da el
 > archivo por **no declarado** y cuenta la materia como cerrada. Ya pasó el 22 jul
 > 2026 en el capítulo 5.
+
+## Erratas del libro · capítulo 7
+
+| Pág. | Dice | Debe decir |
+|---|---|---|
+| 133 | "el ATP (**adenonsín** trifosfato)" | "adenosín trifosfato" — sobra una **n**. El propio libro escribe bien "adenosín difosfato" dos líneas después, para el ADP |
+
+Verificada con `render.py` sobre la hoja 179; no es suciedad de la capa de texto.
+**No se escribe reactivo sobre el nombre completo del ATP** — el reactivo 92
+pregunta la transformación, no el nombre.
 
 ## Rarezas de redacción del libro
 
@@ -1466,4 +1483,400 @@ Para cualquier propiedad termodinámica es común expresar sus variaciones o dif
 
 ---
 
-**Reactivos en este archivo:** 82
+## Sub-lote 16 · El calorímetro y la espontaneidad (p. 133)
+
+### 83
+
+De conformidad con el libro de Biología, ¿para qué se usa un calorímetro?
+
+- A. Para medir la cantidad de energía almacenada en un compuesto orgánico
+- B. Para medir la velocidad de una reacción química
+- C. Para separar los componentes de una mezcla
+- D. Para medir la presión dentro de un sistema cerrado
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 133
+**Subtema:** Metabolismo · calorímetro
+
+Un calorímetro se usa para medir la cantidad de energía almacenada en un compuesto orgánico.
+
+### 84
+
+En relación con el libro de Biología, ¿cómo se procede con la muestra en un calorímetro?
+
+- A. Una cantidad conocida del compuesto se incinera eléctricamente y se mide el aumento de temperatura del agua circundante
+- B. Una cantidad conocida del compuesto se disuelve en agua y se mide su volumen
+- C. El compuesto se enfría hasta congelarse y se pesa el hielo formado
+- D. El compuesto se expone a la luz y se mide la energía reflejada
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 133
+**Subtema:** Metabolismo · calorímetro
+
+Una cantidad conocida del compuesto se incinera eléctricamente. Cuando este compuesto se quema, se mide el aumento de temperatura del agua circundante.
+
+### 85
+
+De acuerdo con el libro de Biología, además de la máxima energía liberada por una reacción, ¿qué otra cosa permite estimar la energía libre?
+
+- A. Si una reacción química dada será espontánea o no
+- B. La velocidad exacta a la que ocurrirá la reacción
+- C. El número de pasos intermedios de la reacción
+- D. La temperatura final que alcanzará el sistema
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 133
+**Subtema:** Metabolismo · espontaneidad
+
+Esta magnitud permite estimar cuál es la máxima cantidad de energía liberada por una reacción, la cual podría ser transformada en trabajo por un organismo. Pero, además, este parámetro permite estimar si una reacción química dada será espontánea o no.
+
+### 86
+
+De conformidad con el libro de Biología, ¿cuál es la dirección natural de todo proceso, y qué signo de ΔG indica que una reacción ocurrirá de forma espontánea?
+
+- A. Disminuir su energía libre; si el ΔG es negativo, la reacción ocurrirá de forma espontánea
+- B. Aumentar su energía libre; si el ΔG es positivo, la reacción ocurrirá de forma espontánea
+- C. Mantener constante su energía libre; si el ΔG es cero, la reacción ocurrirá de forma espontánea
+- D. Disminuir su entalpía; si el ΔH es negativo, la reacción ocurrirá de forma espontánea
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 133
+**Subtema:** Metabolismo · espontaneidad
+
+La dirección natural de todo proceso es la de disminuir su energía libre, es decir, que si el ΔG de una reacción es negativo, esta ocurrirá de forma espontánea.
+
+### 87
+
+En relación con el libro de Biología, ¿qué hecho explica que la espontaneidad dependa de la energía libre?
+
+- A. Que aun las reacciones o transformaciones endotérmicas puedan ser espontáneas
+- B. Que todas las reacciones exotérmicas sean espontáneas sin excepción
+- C. Que ninguna reacción endotérmica pueda ocurrir en los seres vivos
+- D. Que la espontaneidad dependa únicamente de la temperatura
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 133
+**Subtema:** Metabolismo · espontaneidad
+
+Esto explica el hecho de que aun las reacciones o transformaciones endotérmicas puedan ser espontáneas.
+
+---
+
+## Sub-lote 17 · Reacciones exergónicas y endergónicas (p. 133)
+
+### 88
+
+De acuerdo con el libro de Biología, ¿cómo se denominan las reacciones con ΔG negativo, que entregan la energía útil para toda la actividad celular?
+
+- A. Reacciones exergónicas
+- B. Reacciones endergónicas
+- C. Reacciones endotérmicas
+- D. Reacciones estacionarias
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 133
+**Subtema:** Metabolismo · exergónicas y endergónicas
+
+Las reacciones con ΔG negativos son las que entregan energía útil que servirá para llevar a cabo toda la actividad celular y se denominan reacciones exergónicas, que, como hemos dicho, son espontáneas.
+
+### 89
+
+De conformidad con el libro de Biología, ¿cómo se denominan las reacciones cuyo ΔG es positivo?
+
+- A. Endergónicas; consumen energía libre y no ocurren de manera espontánea
+- B. Exergónicas; entregan energía libre y ocurren de manera espontánea
+- C. Exotérmicas; liberan calor y ocurren de manera espontánea
+- D. Redox; transfieren electrones y ocurren de manera espontánea
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 133
+**Subtema:** Metabolismo · exergónicas y endergónicas
+
+Cuando el ΔG de una reacción es positivo, esta consume energía libre. Este tipo de reacciones se denominan endergónicas y no ocurren de manera espontánea.
+
+> El par que se invierte solo. **Exergónicas**: ΔG **negativo**, **entregan**
+> energía, **espontáneas**. **Endergónicas**: ΔG **positivo**, **consumen**
+> energía, **no** espontáneas. Y ojo, no confundirlas con exotérmica y
+> endotérmica, que son de entalpía, no de energía libre.
+
+### 90
+
+En relación con el libro de Biología, ¿cómo pueden ocurrir las reacciones endergónicas en el metabolismo celular, si no son espontáneas?
+
+- A. Porque las reacciones químicas pueden acoplarse, y así las exergónicas les proporcionan energía a las endergónicas
+- B. Porque en la célula el ΔG de esas reacciones cambia de signo
+- C. Porque la célula crea la energía que les hace falta
+- D. Porque ocurren sólo cuando la célula alcanza el equilibrio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 133
+**Subtema:** Metabolismo · exergónicas y endergónicas
+
+Esto puede ocurrir merced a que las reacciones químicas pueden acoplarse y así las reacciones exergónicas les proporcionan energía a las endergónicas.
+
+### 91
+
+De acuerdo con el libro de Biología, ¿por qué son posibles esos acoplamientos energéticos?
+
+- A. Porque la energía liberada en las exergónicas puede almacenarse en forma de enlaces químicos de moléculas que actúan como intermediarios
+- B. Porque las dos reacciones ocurren siempre en el mismo instante y lugar
+- C. Porque la energía puede transferirse directamente en forma de calor
+- D. Porque las enzimas crean la energía que falta
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 133
+**Subtema:** Metabolismo · exergónicas y endergónicas
+
+Estos acoplamientos energéticos son posibles fundamentalmente porque la energía liberada en las primeras puede almacenarse en la forma de enlaces químicos de moléculas que actúan como intermediarios, aportando dicha energía en las reacciones endergónicas que así lo requieran.
+
+### 92
+
+De conformidad con el libro de Biología, ¿en qué se transforma el ATP al perder un grupo fosfato, y qué ocurre en ese proceso?
+
+- A. En ADP, y en ese proceso libera energía
+- B. En ADP, y en ese proceso consume energía
+- C. En glucosa, y en ese proceso libera calor
+- D. En NADH, y en ese proceso libera electrones
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 133
+**Subtema:** Metabolismo · exergónicas y endergónicas
+
+Una de estas moléculas intermediarias es el ATP que, al perder un grupo fosfato, se transforma en ADP (adenosín difosfato) y en ese proceso libera energía.
+
+> **No se pregunta el nombre completo del ATP.** El libro lo escribe "adenonsín
+> trifosfato", con una **n** de más, y dos líneas después escribe bien "adenosín
+> difosfato" para el ADP. Es errata suya, anotada en el encabezado.
+
+---
+
+## Sub-lote 18 · El metabolismo como red de redes (pp. 133–134)
+
+### 93
+
+En relación con el libro de Biología, ¿qué representa en realidad la ecuación R → P?
+
+- A. Un proceso global que resume un conjunto de reacciones que constituyen las etapas intermedias entre R y P
+- B. Una única reacción química que ocurre en un solo paso
+- C. Una reacción que sólo puede darse fuera de la célula
+- D. El equilibrio final entre reactivos y productos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 133
+**Subtema:** Metabolismo · red de redes
+
+Sin embargo, esta ecuación representa un proceso global que, en realidad, resume un conjunto de reacciones que constituyen las etapas intermedias entre R y P.
+
+### 94
+
+De acuerdo con el libro de Biología, ¿de qué depende el número de reacciones que un organismo emplea para convertir R en P?
+
+- A. De la estrategia metabólica del organismo en cuestión, y diferentes organismos pueden disponer de distintos números
+- B. Del tamaño del organismo, siempre en la misma proporción
+- C. Es siempre el mismo número en todos los organismos
+- D. De la temperatura del ambiente en que vive el organismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 133
+**Subtema:** Metabolismo · red de redes
+
+Diferentes organismos pueden disponer de distintos números de reacciones para llevar a cabo la conversión global de R en P, según la estrategia metabólica del organismo en cuestión.
+
+### 95
+
+De conformidad con el libro de Biología, ¿cuál es quizás la característica más destacada de las reacciones químicas que ocurren en los seres vivos?
+
+- A. Que se encuentran catalizadas por enzimas
+- B. Que ocurren siempre a temperaturas muy elevadas
+- C. Que no requieren energía de ningún tipo
+- D. Que son todas irreversibles
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 134
+**Subtema:** Metabolismo · enzimas
+
+Quizás, la característica más destacada de las reacciones químicas que ocurren en los seres vivos es que se encuentran catalizadas por enzimas.
+
+### 96
+
+En relación con el libro de Biología, ¿en qué dos aspectos generales de las reacciones químicas tiene un profundo impacto la presencia de enzimas?
+
+- A. En la velocidad y el rendimiento
+- B. En la temperatura y la presión
+- C. En la entalpía y la entropía
+- D. En el volumen y la concentración
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 134
+**Subtema:** Metabolismo · enzimas
+
+La presencia de enzimas tiene un profundo impacto en dos aspectos generales de las reacciones químicas: la velocidad y el rendimiento.
+
+---
+
+## Sub-lote 19 · Las vías metabólicas (p. 134)
+
+### 97
+
+De acuerdo con el libro de Biología, ¿cómo se llama la serie ordenada de pasos en la que los bioquímicos agrupan las reacciones propias del metabolismo?
+
+- A. Vías metabólicas
+- B. Ciclos energéticos
+- C. Cadenas enzimáticas
+- D. Redes de transferencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 134
+**Subtema:** Metabolismo · vías metabólicas
+
+Los bioquímicos agrupan estas reacciones propias del metabolismo en una serie ordenada de pasos, que comúnmente se llaman vías metabólicas.
+
+### 98
+
+De conformidad con el libro de Biología, ¿cómo se denominan las vías relacionadas con la biosíntesis de las partes con las que una célula se construye a sí misma, y cómo se llama ese proceso?
+
+- A. Vías anabólicas; el proceso metabólico de síntesis se denomina anabolismo
+- B. Vías catabólicas; el proceso metabólico de síntesis se denomina catabolismo
+- C. Vías anabólicas; el proceso metabólico de síntesis se denomina catabolismo
+- D. Vías degradativas; el proceso metabólico de síntesis se denomina metabolismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 134
+**Subtema:** Metabolismo · vías metabólicas
+
+Algunas de ellas se relacionan con la biosíntesis de las partes estructurales y funcionales con las que una célula se construye a sí misma, y se denominan vías anabólicas; el proceso metabólico de síntesis se denomina anabolismo.
+
+### 99
+
+En relación con el libro de Biología, ¿en qué consisten las vías catabólicas?
+
+- A. En la degradación de moléculas complejas, a partir de las cuales obtienen energía y otras moléculas más simples necesarias para la biosíntesis
+- B. En la síntesis de las partes estructurales y funcionales de la célula
+- C. En el transporte de moléculas a través de la membrana
+- D. En la duplicación del material genético
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 134
+**Subtema:** Metabolismo · vías metabólicas
+
+Otras consisten en la degradación de moléculas complejas, a partir de las cuales obtienen energía y otras moléculas más simples necesarias para la biosíntesis. Estas vías degradativas se denominan vías catabólicas.
+
+> El par que ordena el capítulo entero: **anabolismo** = **construir** (síntesis);
+> **catabolismo** = **degradar**. Se confunden por el parecido de las palabras, y
+> el distractor de cada uno es el otro.
+
+### 100
+
+De acuerdo con el libro de Biología, ¿cómo se puede describir el metabolismo?
+
+- A. Como ciclos de retroalimentación entre las vías catabólicas y las anabólicas
+- B. Como una sucesión de vías anabólicas independientes entre sí
+- C. Como una única vía lineal que va de los reactivos a los productos
+- D. Como el conjunto de reacciones que ocurren sin enzimas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 134
+**Subtema:** Metabolismo · vías metabólicas
+
+Así, el metabolismo se puede describir como ciclos de retroalimentación entre las vías catabólicas y las anabólicas.
+
+---
+
+## Sub-lote 20 · La oxidorreducción (recuadro 7-1, p. 134)
+
+### 101
+
+De conformidad con el libro de Biología, ¿qué son en esencia las reacciones químicas?
+
+- A. Transformaciones energéticas en virtud de las cuales la energía almacenada en los enlaces químicos se transfiere a otros recién formados
+- B. Cambios en el número de protones de los núcleos atómicos
+- C. Procesos en los que la energía se crea a partir de la materia
+- D. Movimientos de moléculas sin cambio energético alguno
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 134
+**Subtema:** Metabolismo · oxidorreducción
+
+Las reacciones químicas son, en esencia, transformaciones energéticas en virtud de las cuales la energía almacenada en los enlaces químicos se transfiere a otros recién formados.
+
+### 102
+
+En relación con el libro de Biología, ¿cómo se conocen las reacciones que consisten en la transferencia de electrones entre los reactivos?
+
+- A. Reacciones de oxidación-reducción, oxidorreducción o redox
+- B. Reacciones exergónicas o endergónicas
+- C. Reacciones anabólicas o catabólicas
+- D. Reacciones exotérmicas o endotérmicas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 134
+**Subtema:** Metabolismo · oxidorreducción
+
+Estas reacciones se conocen como reacciones de oxidación-reducción, oxidorreducción o redox.
+
+### 103
+
+De acuerdo con el libro de Biología, ¿qué le ocurre a un átomo o molécula que pierde electrones, y cómo se llama ese proceso?
+
+- A. Se oxida; el proceso de pérdida de electrones se denomina oxidación
+- B. Se reduce; el proceso de pérdida de electrones se denomina reducción
+- C. Se oxida; el proceso de pérdida de electrones se denomina reducción
+- D. Se reduce; el proceso de pérdida de electrones se denomina oxidación
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 134
+**Subtema:** Metabolismo · oxidorreducción
+
+Cuando un átomo o una molécula pierde electrones, se dice que se oxida. El proceso de pérdida de electrones se denomina oxidación.
+
+### 104
+
+De conformidad con el libro de Biología, ¿qué le ocurre a un átomo o molécula que gana electrones, y cómo se llama ese proceso?
+
+- A. Se reduce; el proceso de ganancia de electrones se llama reducción
+- B. Se oxida; el proceso de ganancia de electrones se llama oxidación
+- C. Se reduce; el proceso de ganancia de electrones se llama oxidación
+- D. Se oxida; el proceso de ganancia de electrones se llama reducción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 134
+**Subtema:** Metabolismo · oxidorreducción
+
+Cuando los gana, se dice que se reduce. El de ganancia se llama reducción.
+
+> El punto donde se cae todo el mundo, porque el nombre engaña: **ganar**
+> electrones se llama **reducción**. Pierde = oxida; gana = reduce.
+
+### 105
+
+En relación con el libro de Biología, ¿ocurren por separado o de forma simultánea la oxidación y la reducción?
+
+- A. Siempre ocurren de forma simultánea, porque cuando un átomo o molécula pierde electrones, existen otros capaces de aceptarlos
+- B. Siempre ocurren por separado y en momentos distintos
+- C. La oxidación ocurre primero y la reducción después, con un retraso
+- D. Sólo ocurren de forma simultánea dentro de los seres vivos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 134
+**Subtema:** Metabolismo · oxidorreducción
+
+Ambos procesos siempre ocurren de forma simultánea: cuando un átomo o molécula pierde electrones, existen otros capaces de aceptarlos.
+
+### 106
+
+De acuerdo con el libro de Biología, cuando las transferencias de electrones van acompañadas de transferencias de protones, ¿qué implican la oxidación y la reducción?
+
+- A. La oxidación implica la pérdida de átomos de hidrógeno, y la reducción, la ganancia de átomos de hidrógeno
+- B. La oxidación implica la ganancia de átomos de hidrógeno, y la reducción, la pérdida
+- C. Las dos implican la ganancia de átomos de hidrógeno
+- D. Las dos implican la pérdida de átomos de hidrógeno
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 134
+**Subtema:** Metabolismo · oxidorreducción
+
+En estos casos, la oxidación implica la pérdida de átomos de hidrógeno y la reducción, la ganancia de átomos de hidrógeno.
+
+---
+
+**Reactivos en este archivo:** 106
