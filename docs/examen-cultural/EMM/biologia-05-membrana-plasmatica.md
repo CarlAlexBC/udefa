@@ -53,6 +53,9 @@ Cubiertas las páginas impresas **89 a 92**:
 - La carga y las moléculas que cruzan la bicapa (O₂, CO₂, urea, agua,
   esteroides); la difusión (a favor del gradiente, sin gasto); la ósmosis (el
   agua va hacia donde hay más soluto).
+- Difusión simple vs facilitada; el transporte activo (en contra del gradiente,
+  con energía); la tonicidad (iso/hipo/hipertónica); la turgencia y las vacuolas
+  contráctiles.
 
 **Pendiente:** el resto del capítulo 5, y los capítulos 7, 8, 11, 12, 31, 32, 35,
 36 y 37.
@@ -1266,4 +1269,218 @@ Si esa misma membrana separara a dos soluciones de igual concentración, no habr
 
 ---
 
-**Reactivos en este archivo:** 70
+## Sub-lote 23 · Difusión simple y difusión facilitada (p. 96)
+
+### 71
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el mecanismo cuando las moléculas son solubles en la bicapa lipídica y la atraviesan directamente?
+
+- A. Difusión simple
+- B. Difusión facilitada
+- C. Transporte activo
+- D. Endocitosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 96
+**Subtema:** Membrana plasmática · difusión simple y facilitada
+
+Cuando las moléculas son solubles en la bicapa lipídica, el mecanismo se denomina difusión simple.
+
+### 72
+
+De conformidad con el libro de Biología, ¿cómo se denomina el mecanismo cuando intervienen proteínas integrales, ya sean canales o transportadores?
+
+- A. Difusión facilitada
+- B. Difusión simple
+- C. Transporte activo
+- D. Ósmosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 96
+**Subtema:** Membrana plasmática · difusión simple y facilitada
+
+Cuando intervienen proteínas integrales, ya sean los canales o los transportadores, el mecanismo se denomina difusión facilitada.
+
+> Par que hay que separar: la **difusión simple** cruza la bicapa directamente
+> (moléculas solubles en lípidos); la **facilitada** necesita una proteína
+> integral. Las dos son difusión —sin gasto—, pero una usa proteína y la otra no.
+
+### 73
+
+En relación con el libro de Biología, ¿cuál es la fuerza impulsora del transporte activo, a diferencia de la difusión?
+
+- A. El resultado de un aporte externo de energía, que permite que el flujo se produzca desde zonas de menor potencial químico a zonas donde este es mayor
+- B. El gradiente de potencial químico, sin ningún aporte de energía
+- C. La solubilidad de las moléculas en la bicapa lipídica
+- D. El movimiento al azar de las moléculas de agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 96
+**Subtema:** Membrana plasmática · transporte activo
+
+Transporte activo: la fuerza impulsora es el resultado de un aporte externo de energía que permite que el flujo se produzca desde zonas de menor potencial químico a zonas donde este es mayor.
+
+> Cierra el mapa del transporte: la **difusión** (simple o facilitada) es
+> **pasiva**, va a favor del gradiente sin gasto; el **transporte activo** va en
+> contra del gradiente y por eso necesita energía.
+
+---
+
+## Sub-lote 24 · El agua y la ósmosis en términos osmóticos (recuadro 5-2, p. 97)
+
+### 74
+
+De acuerdo con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿qué porcentaje de la masa corporal de la mayoría de los seres vivos constituye el agua?
+
+- A. El 70%
+- B. El 40%
+- C. El 90%
+- D. El 20%
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 97
+**Subtema:** Membrana plasmática · ósmosis y tonicidad
+
+El agua constituye el 70% de la masa corporal de la mayoría de los seres vivos.
+
+### 75
+
+De conformidad con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿desde qué solución hacia cuál se mueve el agua en la ósmosis, según su concentración?
+
+- A. Desde la solución más diluida (o hiposmótica) a la que contenga mayor concentración de solutos (o hiperosmótica)
+- B. Desde la solución más concentrada (hiperosmótica) a la más diluida (hiposmótica)
+- C. Desde la solución con más agua a la que también tiene más agua
+- D. En ambos sentidos por igual, siempre
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 97
+**Subtema:** Membrana plasmática · ósmosis y tonicidad
+
+El agua se moverá desde la solución más diluida (o hiposmótica) a la que contenga mayor concentración de solutos (o hiperosmótica).
+
+---
+
+## Sub-lote 25 · La tonicidad de las células (recuadro 5-2, p. 97)
+
+### 76
+
+En relación con el libro de Biología, ¿qué es la tonicidad?
+
+- A. Un parámetro que describe las soluciones según si provocan la entrada o la salida de agua de una célula, determinado por la concentración de solutos del medio que la rodea
+- B. La cantidad de energía cinética de las moléculas de agua
+- C. La velocidad a la que difunde un soluto
+- D. El grosor de la membrana plasmática
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 97
+**Subtema:** Membrana plasmática · tonicidad
+
+La tonicidad es un parámetro que describe las soluciones según si estas provocan la entrada o la salida de agua de una célula, y está determinada por la concentración de solutos presentes en la solución del medio que rodea a la célula.
+
+### 77
+
+De acuerdo con el libro de Biología, ¿qué es una solución isotónica?
+
+- A. Aquella que no modifica el volumen de una célula inmersa en ella, porque no se produce flujo neto de agua
+- B. Aquella que hace que la célula gane agua y aumente su volumen
+- C. Aquella que hace que la célula pierda agua y reduzca su volumen
+- D. Aquella que tiene mayor concentración de solutos que la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 97
+**Subtema:** Membrana plasmática · tonicidad
+
+Una solución isotónica es aquella que no modifica el volumen de una célula inmersa en esa solución; es decir, que, debido a la relación de concentraciones, no se produce flujo neto de agua hacia adentro o hacia afuera de esa célula.
+
+### 78
+
+De conformidad con el libro de Biología, si se coloca una célula en una solución hipotónica, ¿qué le ocurre?
+
+- A. El agua de la solución penetrará en ella y aumentará su volumen
+- B. La célula perderá agua y reducirá su volumen
+- C. No se producirá ningún flujo de agua
+- D. La célula expulsará sus solutos hacia la solución
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 97
+**Subtema:** Membrana plasmática · tonicidad
+
+Si se coloca una célula en una solución hipotónica (es decir, con menor concentración de solutos que los que tiene la célula), el agua de esta solución penetrará en ella y aumentará su volumen.
+
+### 79
+
+En relación con el libro de Biología, si una célula se sumerge en una solución hipertónica, ¿qué le ocurre?
+
+- A. Perderá agua y reducirá su volumen
+- B. Ganará agua y aumentará su volumen
+- C. No modificará su volumen
+- D. Absorberá los solutos de la solución
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 97
+**Subtema:** Membrana plasmática · tonicidad
+
+En una solución con mayor concentración de solutos –hipertónica– la célula sumergida en ella perderá agua y reducirá su volumen.
+
+> Las tres tonicidades, que se preguntan siempre: **iso** = no cambia; **hipo**
+> (menos soluto afuera) = la célula **gana** agua y se hincha; **hiper** (más
+> soluto afuera) = la célula **pierde** agua y se encoge. El agua siempre va hacia
+> donde hay más soluto.
+
+---
+
+## Sub-lote 26 · La turgencia y las vacuolas contráctiles (recuadro 5-2, p. 97)
+
+### 80
+
+De acuerdo con el libro de Biología, en las células vegetales, ¿cómo se conoce el aumento de presión interna que produce el ingreso inicial de agua, limitado por la pared celular?
+
+- A. Presión de turgencia
+- B. Presión osmótica
+- C. Presión hidrostática
+- D. Presión de tonicidad
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 97
+**Subtema:** Membrana plasmática · turgencia
+
+En las células vegetales, la pared celular que rodea a la membrana plasmática limita el aumento de volumen. Entonces, el ingreso inicial de agua produce un aumento de la presión interna, conocido como presión de turgencia.
+
+### 81
+
+De conformidad con el libro de Biología, ¿mediante qué mecanismo eliminan el exceso de agua algunos organismos unicelulares como Paramecium?
+
+- A. Mediante la expulsión coordinada y pulsátil de agua a través de vacuolas contráctiles
+- B. Mediante la síntesis de pared celular
+- C. Mediante el transporte activo de solutos hacia el interior
+- D. Mediante la fagocitosis del agua sobrante
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 97
+**Subtema:** Membrana plasmática · turgencia
+
+Algunos organismos unicelulares como Paramecium tienen mecanismos alternativos por los cuales eliminan el exceso de agua que ingresa por ósmosis, entre ellos, la expulsión coordinada y pulsátil de agua a través de vacuolas contráctiles.
+
+### 82
+
+En relación con el libro de Biología, ¿cómo evitan las células de los animales multicelulares la entrada neta de agua que provocarían sus macromoléculas?
+
+- A. Manteniendo una concentración intracelular de iones, fundamentalmente Na⁺, menor que en el medio extracelular, mediante sistemas de transporte activo
+- B. Rodeándose de una pared celular rígida
+- C. Expulsando agua por vacuolas contráctiles
+- D. Aumentando su concentración de proteínas y ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 97
+**Subtema:** Membrana plasmática · turgencia
+
+Las células de los animales multicelulares, en cambio, mantienen una concentración intracelular de iones, fundamentalmente Na⁺, menor que en el medio extracelular, a través de sistemas de transporte activo. De esta manera, la presencia de macromoléculas se compensa y no tiene lugar una entrada neta de agua.
+
+> Tres estrategias contra el exceso de agua, según el tipo de célula: la
+> **vegetal** aguanta con su **pared** (turgencia); el **paramecio** lo bombea
+> con **vacuolas contráctiles**; la célula **animal** lo compensa sacando **Na⁺**
+> por transporte activo.
+
+---
+
+**Reactivos en este archivo:** 82
