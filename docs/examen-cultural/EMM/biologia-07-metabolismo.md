@@ -50,7 +50,7 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
 
 ## Cobertura actual
 
-**Cuerpo del capítulo completo.** Cubiertas las páginas impresas **126 a 142**:
+**Capítulo cerrado.** Cubiertas las páginas impresas **125 a 142**:
 
 - La vida y el flujo de energía del sol; la célula como transformador de energía;
   el metabolismo y el origen griego de la palabra "energía".
@@ -115,10 +115,17 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
   modificación covalente.
 - La fosforilasa y el músculo; los precursores inactivos y el tripsinógeno; las
   figuras 7-12 y 7-13; y el párrafo que cierra el cuerpo del capítulo.
+- El apartado de apertura **"Biología en contexto social · Cuando los físicos
+  incursionaron en la biología"** (pp. 125–126) **completo**, por decisión de
+  Carlo del 22 jul 2026: el Círculo de Viena, las conferencias de Schrödinger en
+  Dublín, sus dos temas, los científicos que influyó y el origen de la biología
+  molecular. Va en el **sub-lote 51**, fuera del orden de páginas.
 
-**Pendiente:** del capítulo 7, sólo el apartado "Biología en contexto social" de
-las páginas 125–126, a la espera de que Carlo decida si entra. De la materia
-siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 7, nada — quedó cerrado el 22 jul 2026 en 240
+reactivos. De la materia siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35,
+36 y 37; el próximo es el 8. Este archivo sostiene la declaración de lo que falta
+hasta que exista el `.md` del capítulo 8, para que Biología no aparezca como
+cerrada en `ESTADO.md` teniendo ocho capítulos por escribir.
 
 **No se cubre**, por los criterios ya fijados:
 
@@ -3917,4 +3924,207 @@ En los próximos capítulos analizaremos procesos metabólicos catabólicos, com
 
 ---
 
-**Reactivos en este archivo:** 228
+## Sub-lote 51 · Cuando los físicos incursionaron en la biología (pp. 125–126)
+
+> **Apartado completo** — decisión de Carlo del 22 jul 2026. A diferencia del de
+> la nicotina (cap. 5), aquí casi todo es historia de la ciencia y no biología,
+> pero se cubre entero igualmente.
+>
+> **Cuidado con duplicar.** Los dos conceptos de Schrödinger —"orden a partir del
+> orden" y "orden a partir del desorden"— ya están cubiertos desde el cuerpo del
+> capítulo, en los reactivos 42, 43 y 54 a 57. Aquí se toman **sólo por el ángulo
+> que el cuerpo no da**: el de la herencia y el de la termodinámica tal como los
+> plantea el apartado. Lo demás son fechas, nombres y el origen de la biología
+> molecular.
+>
+> Va al final del archivo, fuera del orden de páginas, para no renumerar los 228
+> reactivos anteriores.
+
+### 229
+
+De acuerdo con el libro de Biología, ¿qué movimiento surgió en 1921 con la pretensión de buscar principios unificadores en la ciencia?
+
+- A. El "Círculo de Viena para la concepción científica del mundo"
+- B. El "Círculo de Dublín para la unidad de la ciencia"
+- C. La "Escuela de Copenhague para la física cuántica"
+- D. El "Congreso de Bruselas para las ciencias naturales"
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 125
+**Subtema:** Metabolismo · los físicos y la biología
+
+En 1921 surgió con fuerza la pretensión de buscar principios unificadores en la ciencia. Esta aspiración se gestó en Europa, en un movimiento en el que confluyeron filósofos y científicos denominado "Círculo de Viena para la concepción científica del mundo".
+
+### 230
+
+De conformidad con el libro de Biología, ¿cuál era el origen de Erwin Schrödinger?
+
+- A. Físico de origen austríaco naturalizado irlandés
+- B. Físico de origen irlandés naturalizado austríaco
+- C. Físico de origen alemán naturalizado británico
+- D. Físico de origen francés naturalizado austríaco
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 125
+**Subtema:** Metabolismo · los físicos y la biología
+
+Erwin Schrödinger (1887-1961), físico de origen austríaco naturalizado irlandés.
+
+### 231
+
+En relación con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuántas conferencias impartió Schrödinger en 1943, dónde, y en qué circunstancia?
+
+- A. Tres conferencias en el Trinity College de Dublín, cuando se encontraba exiliado debido a la persecución del nazismo
+- B. Cinco conferencias en la Universidad de Viena, cuando ya había regresado del exilio
+- C. Tres conferencias en el Trinity College de Dublín, invitado como profesor visitante
+- D. Una conferencia en el Círculo de Viena, antes de la guerra
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 125
+**Subtema:** Metabolismo · los físicos y la biología
+
+Erwin Schrödinger (1887-1961) impartió en 1943 tres conferencias en el *Trinity College* de Dublín cuando se encontraba exiliado debido a la persecución del nazismo.
+
+### 232
+
+De acuerdo con el libro de Biología, ¿por qué contribución era ya un reconocido premio nobel Schrödinger?
+
+- A. Por su contribución a la física cuántica
+- B. Por su contribución a la biología molecular
+- C. Por su contribución a la termodinámica de procesos irreversibles
+- D. Por su contribución a la genética de poblaciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 125
+**Subtema:** Metabolismo · los físicos y la biología
+
+Schrödinger, ya un reconocido premio nobel por su contribución a la física cuántica, explicó sus consideraciones acerca de los sistemas vivos ante estudiantes y un público no especializado, tomando como base los sistemas físicos.
+
+### 233
+
+De conformidad con el libro de Biología, ¿ante qué público explicó Schrödinger sus consideraciones acerca de los sistemas vivos, y sobre qué base?
+
+- A. Ante estudiantes y un público no especializado, tomando como base los sistemas físicos
+- B. Ante una audiencia exclusiva de biólogos profesionales, tomando como base los sistemas vivos
+- C. Ante los miembros del Círculo de Viena, tomando como base la filosofía
+- D. Ante médicos y químicos, tomando como base la termodinámica aplicada
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 125
+**Subtema:** Metabolismo · los físicos y la biología
+
+Schrödinger explicó sus consideraciones acerca de los sistemas vivos ante estudiantes y un público no especializado, tomando como base los sistemas físicos.
+
+### 234
+
+En relación con el libro de Biología, ¿en qué se basaron los dos temas que Schrödinger discutió en su libro?
+
+- A. En sus reflexiones sobre la herencia y la termodinámica
+- B. En sus reflexiones sobre la evolución y la ecología
+- C. En sus reflexiones sobre la física cuántica y la relatividad
+- D. En sus reflexiones sobre la medicina y la fisiología
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 125
+**Subtema:** Metabolismo · los físicos y la biología
+
+En ese libro, Schrödinger discutió dos temas basados en sus reflexiones sobre la herencia y la termodinámica.
+
+### 235
+
+De acuerdo con el libro de Biología, ¿con qué se relaciona el tema que Schrödinger denominó "orden a partir del orden"?
+
+- A. Con la forma en que los organismos transmiten la información de generación en generación
+- B. Con la forma en que los organismos obtienen energía del entorno
+- C. Con la forma en que aumenta la entropía del Universo
+- D. Con la forma en que las enzimas aceleran las reacciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 125
+**Subtema:** Metabolismo · los físicos y la biología
+
+El primero de los temas, al que denominó "orden a partir del orden", se relaciona con la forma en que los organismos transmiten la información de generación en generación.
+
+### 236
+
+De conformidad con el libro de Biología, ¿qué se preguntaba Schrödinger en el tema "el orden a partir del desorden", y qué propuso?
+
+- A. Cómo pueden mantenerse las estructuras vivas en un universo en el que el desorden tiende a aumentar; propuso que los sistemas biológicos conservan o amplían su complejidad al tomar energía del entorno
+- B. Cómo se transmite la información de generación en generación; propuso el cristal aperiódico
+- C. Por qué las reacciones químicas necesitan enzimas; propuso la energía de activación
+- D. Cómo se originó la primera célula; propuso la evolución química
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 125
+**Subtema:** Metabolismo · los físicos y la biología
+
+El segundo tema abordado fue "el orden a partir del desorden", y se preguntaba cómo pueden mantenerse las estructuras vivas en un universo en el que el desorden tiende a aumentar. Propuso que la vida no es ajena ni se opone a las leyes de la termodinámica, sino que los sistemas biológicos conservan o amplían su complejidad, al tomar energía del entorno.
+
+> Los dos temas, ordenados como los presenta el apartado: **"orden a partir del
+> orden"** es el de la **herencia**; **"orden a partir del desorden"**, el de la
+> **termodinámica**. El cuerpo del capítulo los desarrolla en los reactivos 43 y
+> 54 a 57.
+
+### 237
+
+En relación con el libro de Biología, ¿qué ocurrió con las ideas del libro de Schrödinger?
+
+- A. Fueron defendidas por algunos investigadores, pero también mostraron ser equivocadas en varios puntos, aunque en buena parte inspiraron la investigación biológica subsiguiente
+- B. Fueron aceptadas por unanimidad y ninguna resultó equivocada
+- C. Fueron rechazadas por completo y no tuvieron ninguna influencia posterior
+- D. Fueron ignoradas hasta el descubrimiento del ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 125
+**Subtema:** Metabolismo · los físicos y la biología
+
+Si bien las ideas de este libro fueron defendidas por algunos investigadores, también mostraron ser equivocadas en varios puntos. Pero, en buena parte, sus reflexiones inspiraron la investigación biológica subsiguiente.
+
+### 238
+
+De acuerdo con el libro de Biología, según el biólogo y filósofo francés Michel Morange, ¿por qué algunos físicos se sumergieron en la naturaleza de lo vivo?
+
+- A. Porque estaban desencantados por el papel de sus colegas en el desarrollo de la bomba atómica, y buscaban nuevos horizontes de investigación
+- B. Porque la física cuántica había quedado agotada como campo de estudio
+- C. Porque los biólogos se lo pidieron expresamente
+- D. Porque el Círculo de Viena les prohibió seguir en la física
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 126
+**Subtema:** Metabolismo · los físicos y la biología
+
+Según el biólogo y filósofo francés Michel Morange, algunos físicos desencantados por el papel de sus colegas en el desarrollo de la bomba atómica se sumergieron en la naturaleza de lo vivo para buscar nuevos horizontes de investigación.
+
+### 239
+
+De conformidad con el libro de Biología, ¿de qué rama de la biología pusieron los cimientos el lenguaje, las metáforas y los enfoques asumidos por los físicos?
+
+- A. De la biología molecular, hasta entonces desarrollada principalmente por bioquímicos
+- B. De la genética de poblaciones, hasta entonces desarrollada por matemáticos
+- C. De la ecología, hasta entonces desarrollada por naturalistas
+- D. De la citología, hasta entonces desarrollada por microscopistas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 126
+**Subtema:** Metabolismo · los físicos y la biología
+
+De este modo, el lenguaje, las metáforas y los enfoques asumidos por los físicos pusieron los cimientos de una rama de la biología hasta el momento desarrollada principalmente por bioquímicos: la biología molecular.
+
+### 240
+
+En relación con el libro de Biología, ¿en qué proyecto participó Maurice Wilkins y con quiénes compartió el premio Nobel de 1962?
+
+- A. En el proyecto Manhattan, que desarrolló la bomba atómica, y compartió el Nobel con Watson y Crick
+- B. En el proyecto Manhattan, que desarrolló la bomba atómica, y compartió el Nobel con Chargaff y Jacob
+- C. En el Círculo de Viena, y compartió el Nobel con Schrödinger
+- D. En el proyecto del Trinity College, y compartió el Nobel con Morange
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 126
+**Subtema:** Metabolismo · los físicos y la biología
+
+Maurice Wilkins, quien participó en el proyecto Manhattan que desarrolló la bomba atómica, en su discurso de recepción del premio Nobel (compartido con Watson y Crick) en 1962.
+
+---
+
+**Reactivos en este archivo:** 240
