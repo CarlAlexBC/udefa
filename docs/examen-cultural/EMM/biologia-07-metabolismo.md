@@ -50,7 +50,7 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **126 a 136**:
+Cubiertas las páginas impresas **126 a 137**:
 
 - La vida y el flujo de energía del sol; la célula como transformador de energía;
   el metabolismo y el origen griego de la palabra "energía".
@@ -96,12 +96,16 @@ Cubiertas las páginas impresas **126 a 136**:
 - El ATP como moneda energética: el almidón y el glucógeno, las ATPasas, el
   tiritar, los 40 kg de ATP al día; la fosforilación con cinasas y fosfatasas.
 - Los catalizadores y la energía de activación.
+- La velocidad de reacción y por qué la célula no puede simplemente calentarse;
+  cómo bajan las enzimas la energía de activación.
+- El sitio activo y el sustrato; el paso del modelo llave-cerradura de Fischer
+  al ajuste inducido; el complejo enzima-sustrato y el ciclo catalítico.
+- Las isoenzimas y la LDH con sus cinco formas.
 
-**Pendiente:** del capítulo 7, las páginas impresas 137 a 144 — el sitio activo,
-el complejo enzima-sustrato y el ajuste inducido, y lo que siga hasta el cierre
-del capítulo; queda por decidir el apartado "Biología en contexto social" de las
-páginas 125–126. De la materia siguen sin empezar los capítulos 8, 11, 12, 31,
-32, 35, 36 y 37.
+**Pendiente:** del capítulo 7, las páginas impresas 138 a 144 — la regulación
+enzimática y lo que siga hasta el cierre del capítulo; queda por decidir el
+apartado "Biología en contexto social" de las páginas 125–126. De la materia
+siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
@@ -2283,4 +2287,362 @@ La diferencia en energía libre entre los reactivos y sus estadios intermedios e
 
 ---
 
-**Reactivos en este archivo:** 130
+## Sub-lote 27 · La velocidad de reacción y por qué no basta con calentar (p. 137)
+
+### 131
+
+De conformidad con el libro de Biología, ¿de qué depende la cantidad de reactantes que alcanza la energía de activación?
+
+- A. Cuanto mayores sean la temperatura y la concentración de los reactivos, mayor será esa cantidad
+- B. Cuanto menores sean la temperatura y la concentración de los reactivos, mayor será esa cantidad
+- C. Depende únicamente de la presión del sistema
+- D. Es siempre la misma, cualesquiera que sean las condiciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · velocidad de reacción
+
+Por esta razón, cuanto mayores sean la temperatura y la concentración de los reactivos, mayor será la cantidad de reactantes que alcance la energía de activación.
+
+### 132
+
+En relación con el libro de Biología, ¿a qué es proporcional la velocidad de una reacción química?
+
+- A. A la cantidad de átomos o moléculas que estén alcanzando la energía de activación en un tiempo dado
+- B. A la cantidad total de producto que se formará al final
+- C. A la diferencia de energía libre entre reactivos y productos
+- D. Al número de enzimas distintas presentes en el sistema
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · velocidad de reacción
+
+Así, la velocidad de una reacción química es proporcional a la cantidad de átomos o moléculas que estén alcanzando la energía de activación en un tiempo dado.
+
+### 133
+
+De acuerdo con el libro de Biología, ¿por qué un aumento de la temperatura celular no constituiría una "solución"?
+
+- A. Porque el calor desnaturaliza las proteínas y porque se acelerarían todas las reacciones celulares a la vez, con lo que el metabolismo sería incontrolable
+- B. Porque el calor detendría por completo todas las reacciones celulares
+- C. Porque la célula no puede aumentar su temperatura en ningún caso
+- D. Porque el calor aumentaría la energía de activación de las reacciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · velocidad de reacción
+
+Un aumento de la temperatura celular no constituiría una "solución" para este "problema" por dos razones. Por una parte, el calor desnaturaliza las proteínas, impidiendo que cumplan sus funciones y, por otra parte, se acelerarían todas las reacciones celulares a la vez y el metabolismo sería incontrolable.
+
+### 134
+
+De conformidad con el libro de Biología, ¿mediante qué actúan las enzimas como catalizadores?
+
+- A. Mediante la disminución de la energía de activación de las reacciones
+- B. Mediante el aumento de la energía de activación de las reacciones
+- C. Mediante el aumento de la temperatura del citoplasma
+- D. Mediante el aporte de energía libre a la reacción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · enzimas
+
+Las enzimas actúan como catalizadores mediante la disminución de la energía de activación de las reacciones.
+
+### 135
+
+En relación con el libro de Biología, ¿cómo logran las enzimas disminuir la energía de activación?
+
+- A. A través de la formación de asociaciones temporales transitorias con los reactivos, acercando a las moléculas que reaccionan y debilitando los enlaces químicos existentes
+- B. Uniéndose de forma permanente a los reactivos hasta el final del proceso
+- C. Aumentando la concentración de los reactivos en el citosol
+- D. Elevando la temperatura local del sitio de la reacción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · enzimas
+
+A través de la formación de asociaciones temporales transitorias con los reactivos, las enzimas acercan a las moléculas que reaccionan y debilitan los enlaces químicos existentes, lo cual facilita la formación de otros nuevos.
+
+---
+
+## Sub-lote 28 · El sitio activo y el sustrato (p. 137)
+
+### 136
+
+De acuerdo con el libro de Biología, ¿qué son la mayoría de las enzimas?
+
+- A. Proteínas globulares de gran tamaño, formadas por una o más cadenas polipeptídicas, aunque algunas son moléculas de ARN
+- B. Moléculas de ARN, aunque algunas son proteínas globulares
+- C. Lípidos de gran tamaño insertos en la membrana
+- D. Hidratos de carbono ramificados
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · sitio activo
+
+Aunque algunas enzimas son moléculas de ARN, la mayoría de ellas son proteínas globulares de gran tamaño, formadas por una o más cadenas polipeptídicas.
+
+### 137
+
+De conformidad con el libro de Biología, ¿qué es el sitio activo de la enzima?
+
+- A. El surco o bolsillo que forman las cadenas plegadas, lugar físico en el que encajan las moléculas de los reactivos y donde ocurren las reacciones
+- B. La superficie externa de la enzima, donde se adhieren los productos
+- C. El centro de la molécula, donde se almacena la energía de activación
+- D. La región de la enzima que se destruye durante la reacción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · sitio activo
+
+Las cadenas están plegadas de tal manera que forman un surco o bolsillo, en el cual quedan expuestos algunos de sus aminoácidos. Ese surco o bolsillo, que es el lugar físico en el que encajan las moléculas del o de los reactivos y donde ocurren las reacciones, se denomina sitio activo de la enzima.
+
+### 138
+
+En relación con el libro de Biología, ¿por qué en el sitio activo sólo encajan determinados reactivos?
+
+- A. Debido a un exquisito encastre entre la forma del sitio y su afinidad por los reactivos
+- B. Debido al tamaño total de la molécula de enzima
+- C. Debido a la temperatura a la que trabaja la célula
+- D. Debido a la carga eléctrica de la membrana plasmática
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · sitio activo
+
+En el sitio activo solo encajan determinados reactivos debido a un exquisito encastre entre la forma del sitio y su afinidad por los reactivos.
+
+### 139
+
+De acuerdo con el libro de Biología, en una reacción catalizada por enzimas, ¿cómo se denomina a los reactivos?
+
+- A. Sustrato de la enzima
+- B. Producto de la enzima
+- C. Isoenzimas
+- D. Cofactores de la enzima
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · sitio activo
+
+En una reacción catalizada por enzimas, a los reactivos se los denomina sustrato de la enzima.
+
+---
+
+## Sub-lote 29 · De la llave-cerradura al ajuste inducido (p. 137)
+
+### 140
+
+De conformidad con el libro de Biología, ¿quién postuló la existencia de sitios activos, en qué año, y con qué comparó su relación con los sustratos?
+
+- A. El químico alemán Emil Fischer, en 1894, y la comparó con la que existe entre una cerradura y su llave
+- B. El químico alemán Emil Fischer, en 1919, y la comparó con la de un molde y su vaciado
+- C. El físico alemán Rudolf Clausius, en 1894, y la comparó con la de dos imanes
+- D. El matemático norteamericano J. W. Gibbs, en 1894, y la comparó con la de una cerradura y su llave
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · ajuste inducido
+
+Cuando el químico alemán Emil Fischer (1852-1919) postuló en 1894 la existencia de sitios activos, comparó la relación entre estos y sus sustratos con aquella que existe entre una cerradura y su llave.
+
+### 141
+
+En relación con el libro de Biología, ¿qué indicarían sobre el sitio activo los estudios posteriores de la estructura de las enzimas?
+
+- A. Que es mucho más flexible e interactivo que el que sugiere el modelo llave-cerradura
+- B. Que es mucho más rígido de lo que sugiere el modelo llave-cerradura
+- C. Que no existe realmente como estructura física
+- D. Que es idéntico en todas las enzimas conocidas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · ajuste inducido
+
+Sin embargo, algunos estudios posteriores sobre la estructura de las enzimas indicarían que el sitio activo es mucho más flexible e interactivo que el que sugiere el modelo llave-cerradura.
+
+### 142
+
+De acuerdo con el libro de Biología, ¿cómo se llama el modelo actual, según el cual la unión entre la enzima y el sustrato altera la conformación de la enzima?
+
+- A. Ajuste inducido
+- B. Llave-cerradura
+- C. Mosaico fluido
+- D. Complejo enzima-sustrato
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · ajuste inducido
+
+El modelo actual propone que la unión entre la enzima y el sustrato parece alterar la conformación de la enzima, lo cual induce un íntimo ajuste entre el sitio activo y el sustrato. A este modelo se lo llama ajuste inducido.
+
+> Los dos modelos, en orden histórico: **llave-cerradura** (Fischer, 1894) supone
+> un sitio activo **rígido**; el **ajuste inducido**, que es el modelo actual,
+> supone uno **flexible** que se amolda al sustrato al unirse.
+
+### 143
+
+De conformidad con el libro de Biología, ¿cómo se llama el complejo que se forma al unirse la enzima a su sustrato?
+
+- A. Complejo enzima-sustrato
+- B. Complejo proteína-soluto
+- C. Complejo de ajuste inducido
+- D. Complejo catalítico
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · ajuste inducido
+
+Al unirse la enzima a su sustrato (que pueden ser uno o más reactivos), se forma un complejo llamado complejo enzima-sustrato.
+
+### 144
+
+En relación con el libro de Biología, ¿cuándo se lleva a cabo la actividad catalítica que transforma el sustrato en el producto?
+
+- A. Mientras la enzima y el sustrato permanecen unidos
+- B. Antes de que la enzima y el sustrato se unan
+- C. Después de que la enzima y el sustrato se separan
+- D. Sólo si la enzima se destruye en el proceso
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · ajuste inducido
+
+Mientras permanecen unidos, se lleva a cabo la actividad catalítica que transforma el sustrato en el producto.
+
+---
+
+## Sub-lote 30 · Por qué se acelera la reacción y el ciclo catalítico (p. 137)
+
+### 145
+
+De acuerdo con el libro de Biología, ¿cómo funciona el sitio activo para acelerar la reacción?
+
+- A. Como un molde en el cual los reactivos se acercan mucho y encajan en la orientación adecuada para que la reacción se produzca
+- B. Como una barrera que impide el paso de los reactivos no deseados
+- C. Como una fuente de calor que eleva la temperatura local
+- D. Como un depósito donde se almacenan los productos formados
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · ciclo catalítico
+
+En primer lugar, el sitio activo funciona como un molde en el cual los reactivos se acercan mucho y encajan en la orientación adecuada para que la reacción se produzca.
+
+### 146
+
+De conformidad con el libro de Biología, ¿qué se cree que crea el ajuste inducido entre el sitio activo y el sustrato?
+
+- A. Tensión en las moléculas reactivas, lo que facilita el curso de la reacción
+- B. Una barrera energética que retrasa la reacción
+- C. Una unión permanente que inmoviliza al sustrato
+- D. Un aumento de la energía de activación necesaria
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · ciclo catalítico
+
+Se cree que el ajuste inducido entre el sitio activo y el sustrato crea tensión en las moléculas reactivas, lo que facilita el curso de la reacción.
+
+### 147
+
+En relación con el libro de Biología, ¿en qué se invierte en gran medida la energía de activación?
+
+- A. En el acercamiento de las moléculas reactivas y en la rotura de los enlaces
+- B. En la síntesis de nuevas moléculas de enzima
+- C. En el calentamiento del citosol celular
+- D. En la formación del complejo enzima-sustrato únicamente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · ciclo catalítico
+
+De esta manera, la energía de activación, que en gran medida se invierte en el acercamiento de las moléculas reactivas y en la rotura de los enlaces, se ve disminuida con la acción de las enzimas.
+
+### 148
+
+De acuerdo con el libro de Biología, ¿qué se denomina ciclo catalítico de una enzima?
+
+- A. Que, al no cambiar su naturaleza durante la reacción, luego de participar en una queda disponible para catalizar una nueva
+- B. Que la enzima se consume en cada reacción y debe volver a sintetizarse
+- C. Que la enzima cambia de sustrato en cada vuelta del ciclo
+- D. Que la enzima alterna entre estados activo e inactivo cada segundo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · ciclo catalítico
+
+Dado que las enzimas no cambian su naturaleza durante la reacción química luego de participar en una reacción quedan disponibles para catalizar una nueva. Esto es lo que se denomina ciclo catalítico de una enzima.
+
+### 149
+
+De conformidad con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuántas moléculas puede procesar una sola molécula de enzima, y en qué tiempo?
+
+- A. Decenas de miles de moléculas iguales, en tiempos del orden de un segundo
+- B. Decenas de moléculas iguales, en tiempos del orden de un minuto
+- C. Una sola molécula, en tiempos del orden de un segundo
+- D. Millones de moléculas distintas, en tiempos del orden de una hora
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · ciclo catalítico
+
+Una sola molécula de enzima puede catalizar la reacción de decenas de miles de moléculas iguales en tiempos del orden de un segundo. Por esto, las enzimas son particularmente eficaces en cantidades muy pequeñas.
+
+---
+
+## Sub-lote 31 · Las isoenzimas (p. 137)
+
+### 150
+
+En relación con el libro de Biología, ¿cómo se denominan las diferentes formas estructurales de una misma enzima con la misma actividad catalítica?
+
+- A. Isoenzimas
+- B. Coenzimas
+- C. Proenzimas
+- D. Apoenzimas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · isoenzimas
+
+En un organismo pluricelular, y también en cada una de sus células, pueden existir distintas variedades de una misma enzima con la misma actividad catalítica. Estas diferentes formas estructurales de una enzima se denominan isoenzimas.
+
+### 151
+
+De acuerdo con el libro de Biología, ¿cuál es una de las isoenzimas mejor estudiadas, en qué participa y cuántas formas posee?
+
+- A. La lacticodeshidrogenasa (LDH), que participa en el metabolismo energético y posee cinco isoenzimas
+- B. La lacticodeshidrogenasa (LDH), que participa en la síntesis de proteínas y posee tres isoenzimas
+- C. La ATPasa, que participa en el metabolismo energético y posee cinco isoenzimas
+- D. La clatrina, que participa en el transporte de vesículas y posee cinco isoenzimas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · isoenzimas
+
+Una de las mejor estudiadas es la lacticodeshidrogenasa (LDH), que participa en el metabolismo energético y posee cinco isoenzimas.
+
+### 152
+
+De conformidad con el libro de Biología, ¿cómo es la distribución de las cinco formas de la LDH?
+
+- A. Es característica en cada tejido, y sus proporciones relativas cambian en ciertos estados patológicos
+- B. Es idéntica en todos los tejidos y no cambia nunca
+- C. Es característica de cada individuo, pero igual en todos sus tejidos
+- D. Cambia al azar de un momento a otro dentro del mismo tejido
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 137
+**Subtema:** Metabolismo · isoenzimas
+
+La distribución de las cinco formas es característica en cada tejido y sus proporciones relativas cambian en ciertos estados patológicos.
+
+> Éste es el dato con más peso clínico del capítulo, y por eso conviene que un
+> aspirante a médico militar lo tenga: si las proporciones de las isoenzimas
+> **cambian en ciertos estados patológicos**, medirlas sirve para diagnosticar.
+
+---
+
+**Reactivos en este archivo:** 152
