@@ -29,12 +29,17 @@ página impresa **89** (hoja 135 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **89 a 90**:
+Cubiertas las páginas impresas **89 a 91**:
 
 - La historia del modelo de membrana: Langmuir, Gorter y Grendel (la bicapa),
   Cole y Danielli (las proteínas), Robertson (el modelo trilaminar).
 - El grosor de la membrana.
 - El modelo de balsas de membrana.
+- El modelo de mosaico fluido de Singer y Nicolson; la disposición de los
+  fosfolípidos (colas hidrófobas dentro, cabezas hidrófilas fuera).
+- La composición química de la membrana: proteínas (~60%), lípidos (~40%),
+  glúcidos (2–10%), y la cara externa de los glúcidos.
+- La asimetría de las dos caras y la enzima translocadora.
 
 **Pendiente:** el resto del capítulo 5, y los capítulos 7, 8, 11, 12, 31, 32, 35,
 36 y 37.
@@ -243,4 +248,219 @@ Actualmente se conocen dos tipos de balsas de membranas: 1) las balsas planas, q
 
 ---
 
-**Reactivos en este archivo:** 11
+## Sub-lote 4 · El modelo de mosaico fluido (pp. 90–91)
+
+### 12
+
+De acuerdo con el libro de Biología, ¿quiénes propusieron a inicios de la década de 1970 que las proteínas globulares estaban insertas en la bicapa lipídica?
+
+- A. Los bioquímicos S. J. Singer y G. Nicolson
+- B. Los científicos holandeses E. Gorter y F. Grendel
+- C. Los investigadores europeos K. Simons y G. van Meer
+- D. El científico inglés J. D. Robertson
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 90
+**Subtema:** Membrana plasmática · mosaico fluido
+
+Al inicio de la década de 1970, este modelo fue reemplazado por el propuesto por los bioquímicos S. J. Singer y G. Nicolson, quienes postularon que las proteínas globulares estaban insertas en la bicapa lipídica.
+
+### 13
+
+De conformidad con el libro de Biología, ¿cómo se llamó el modelo de Singer y Nicolson?
+
+- A. El modelo de mosaico fluido
+- B. El modelo trilaminar o de "sándwich"
+- C. El modelo de balsas de membrana
+- D. El modelo de bicapa simple
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 90
+**Subtema:** Membrana plasmática · mosaico fluido
+
+A este modelo se lo llamó modelo de mosaico fluido.
+
+### 14
+
+En relación con el libro de Biología, ¿cómo se disponen los fosfolípidos en la doble capa de la membrana?
+
+- A. Con sus colas hidrófobas apuntando hacia el interior de la membrana y sus cabezas hidrófilas de fosfato hacia el exterior
+- B. Con sus cabezas hidrófilas hacia el interior y sus colas hidrófobas hacia el exterior
+- C. Con todas sus colas y cabezas apuntando hacia el mismo lado
+- D. Sin ninguna orientación definida
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 90
+**Subtema:** Membrana plasmática · mosaico fluido
+
+La doble capa está constituida básicamente por fosfolípidos que se disponen con sus colas hidrófobas apuntando hacia el interior de la membrana y sus cabezas hidrófilas de fosfato, hacia el exterior.
+
+> Ésta es la clave de la bicapa: las **cabezas hidrófilas** (aman el agua) hacia
+> afuera, donde está el agua; las **colas hidrófobas** (huyen del agua) escondidas
+> en el interior. El distractor B lo invierte.
+
+### 15
+
+De acuerdo con el libro de Biología, ¿por qué se denomina "mosaico" a la estructura de la membrana?
+
+- A. Porque la disposición de las proteínas y los fosfolípidos alternados aparenta un mosaico irregular
+- B. Porque la membrana tiene colores distintos
+- C. Porque está formada por piezas rígidas encajadas
+- D. Porque las proteínas forman un patrón regular repetido
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 91
+**Subtema:** Membrana plasmática · mosaico fluido
+
+La disposición de las proteínas y los fosfolípidos alternados que forman la membrana aparentan un "mosaico" irregular.
+
+### 16
+
+De conformidad con el libro de Biología, ¿por qué se denomina "fluido" al modelo de la membrana?
+
+- A. Porque, aunque parecen ancladas, algunas proteínas pueden desplazarse de forma lateral por la bicapa, de manera que el mosaico cambia a lo largo del tiempo
+- B. Porque la membrana está hecha de un líquido
+- C. Porque el agua atraviesa libremente la membrana
+- D. Porque los fosfolípidos se disuelven en el citosol
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 91
+**Subtema:** Membrana plasmática · mosaico fluido
+
+Algunas de las proteínas incluso pueden desplazarse de forma lateral por la bicapa, de manera que la estructura en "mosaico" de fosfolípidos y proteínas cambia a lo largo del tiempo. Por tal razón, este modelo propuesto para la estructura de la membrana se denomina modelo de mosaico fluido.
+
+---
+
+## Sub-lote 5 · La composición química de la membrana (recuadro 5-1, p. 90)
+
+### 17
+
+En relación con el libro de Biología, ¿qué tres tipos de moléculas orgánicas componen la membrana plasmática?
+
+- A. Las proteínas, los lípidos y los glúcidos
+- B. Los ácidos nucleicos, los lípidos y el agua
+- C. Las proteínas, los ácidos nucleicos y las sales
+- D. Los glúcidos, el colesterol y el agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 90
+**Subtema:** Membrana plasmática · composición química
+
+Son moléculas orgánicas biológicas: las proteínas, los lípidos y los glúcidos.
+
+### 18
+
+De acuerdo con el libro de Biología, ¿alrededor de qué porcentaje del peso seco de las membranas constituyen las proteínas?
+
+- A. Alrededor del 60%
+- B. Alrededor del 40%
+- C. Alrededor del 10%
+- D. Alrededor del 90%
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 90
+**Subtema:** Membrana plasmática · composición química
+
+Proteínas: constituyen alrededor del 60% del peso seco de las membranas. Muchas de ellas son glucoproteínas y algunas lipoproteínas.
+
+### 19
+
+De conformidad con el libro de Biología, ¿alrededor de qué porcentaje del peso seco constituyen los lípidos?
+
+- A. Alrededor del 40%
+- B. Alrededor del 60%
+- C. Alrededor del 2%
+- D. Alrededor del 80%
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 90
+**Subtema:** Membrana plasmática · composición química
+
+Lípidos: constituyen alrededor del 40% del peso seco de la membrana y son fundamentales en esa estructura, ya que forman una doble capa o bicapa lipídica completa, sólo interrumpida por proteínas integrales.
+
+> Par de porcentajes del recuadro: **proteínas ~60%**, **lípidos ~40%** del peso
+> seco. Los glúcidos son minoría (2 a 10%). Cada cifra es el distractor de la
+> otra.
+
+### 20
+
+En relación con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿entre qué valores puede constituir los glúcidos el peso seco de la membrana, según el tipo celular?
+
+- A. Desde el 2 hasta el 10%
+- B. Desde el 20 hasta el 40%
+- C. Desde el 40 hasta el 60%
+- D. Desde el 60 hasta el 90%
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 90
+**Subtema:** Membrana plasmática · composición química
+
+Glúcidos: pueden constituir desde el 2 hasta el 10% del peso seco de la membrana, según el tipo celular.
+
+### 21
+
+De acuerdo con el libro de Biología, ¿en qué cara de la membrana están siempre dispuestos los glúcidos?
+
+- A. En la cara externa, hacia el espacio extracelular
+- B. En la cara interna, hacia el citoplasma
+- C. En ambas caras por igual
+- D. En el interior hidrófobo de la bicapa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 90
+**Subtema:** Membrana plasmática · composición química
+
+Glúcidos: se encuentran siempre en combinación con proteínas (glucoproteínas) y con lípidos (glucolípidos). Están siempre dispuestos en la cara externa, hacia el espacio extracelular.
+
+### 22
+
+De conformidad con el libro de Biología, ¿con qué se encuentran siempre en combinación los glúcidos de la membrana?
+
+- A. Con proteínas (glucoproteínas) y con lípidos (glucolípidos)
+- B. Con ácidos nucleicos y con agua
+- C. Con colesterol y con sales
+- D. Con enzimas hidrolíticas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 90
+**Subtema:** Membrana plasmática · composición química
+
+Glúcidos: se encuentran siempre en combinación con proteínas (glucoproteínas) y con lípidos (glucolípidos).
+
+---
+
+## Sub-lote 6 · La asimetría de las dos caras (p. 91)
+
+### 23
+
+En relación con el libro de Biología, ¿cómo son las superficies interior y exterior de la membrana en cuanto a su composición química?
+
+- A. Difieren de manera considerable en su composición química
+- B. Son idénticas en su composición química
+- C. Difieren sólo en la cantidad de agua
+- D. Carecen de composición química definida
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 91
+**Subtema:** Membrana plasmática · asimetría de las caras
+
+Las superficies interior y exterior de la membrana difieren de manera considerable en su composición química.
+
+### 24
+
+De acuerdo con el libro de Biología, ¿qué enzima puede trasladar los lípidos de una capa de la membrana a la otra?
+
+- A. Una enzima translocadora
+- B. Una enzima hidrolítica
+- C. Una enzima oxidasa
+- D. Una ATPasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 91
+**Subtema:** Membrana plasmática · asimetría de las caras
+
+Estos lípidos pueden ser trasladados de una capa a la otra por una enzima translocadora.
+
+---
+
+**Reactivos en este archivo:** 24
