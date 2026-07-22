@@ -30,7 +30,7 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63 y 66 a 71**:
+Cubiertas las páginas impresas **61 a 63 y 66 a 73**:
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -50,6 +50,8 @@ Cubiertas las páginas impresas **61 a 63 y 66 a 71**:
   nuclear, los poros, el complejo del poro y la lámina nuclear.
 - Miescher y la nucleína; la cromatina, las histonas; el nucléolo y las dos
   funciones del núcleo.
+- La centrifugación diferencial para aislar organelas; el sistema de
+  endomembranas; las vacuolas y la fagocitosis; el retículo endoplasmático.
 
 **Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
 4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
@@ -1339,4 +1341,170 @@ Según indicó el trabajo de Hämmerling, el núcleo ejerce una influencia conti
 
 ---
 
-**Reactivos en este archivo:** 75
+## Sub-lote 18 · La centrifugación diferencial (recuadro 4-3, p. 72)
+
+### 76
+
+De acuerdo con el libro de Biología, ¿qué aprovecha la técnica de centrifugación diferencial para aislar una organela de las demás estructuras celulares?
+
+- A. Las diferencias de tamaño y densidad de las partículas que componen las células
+- B. Las diferencias de carga eléctrica de las partículas
+- C. Las diferencias de color de las organelas teñidas
+- D. Las diferencias de temperatura entre las organelas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 72
+**Subtema:** Organización de las células · centrifugación diferencial
+
+Esto es posible mediante la técnica de centrifugación diferencial que aprovecha las diferencias de tamaño y densidad de las partículas que componen las células.
+
+### 77
+
+De conformidad con el libro de Biología, en la centrifugación diferencial, ¿qué partículas sedimentan de manera más rápida?
+
+- A. Las más grandes y más densas
+- B. Las más pequeñas y más livianas
+- C. Las de mayor carga eléctrica
+- D. Las que están teñidas con fluorescencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 72
+**Subtema:** Organización de las células · centrifugación diferencial
+
+Las partículas sometidas a una intensa fuerza gravitacional, se moverán a través del líquido a distintas velocidades; las más grandes y más densas sedimentarán de manera más rápida.
+
+### 78
+
+En relación con el libro de Biología, ¿dónde se hace girar a velocidades muy altas la suspensión de partículas para separarlas?
+
+- A. En una ultracentrífuga
+- B. En un microscopio electrónico
+- C. En un tubo de fermentación
+- D. En una cámara de fluorescencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 72
+**Subtema:** Organización de las células · centrifugación diferencial
+
+Estas partículas, suspendidas en un líquido, se colocan dentro de un tubo de ensayo en una ultracentrífuga y se las hace girar a velocidades muy altas.
+
+---
+
+## Sub-lote 19 · El sistema de endomembranas (p. 72)
+
+### 79
+
+De acuerdo con el libro de Biología, ¿por qué estructuras está constituido el sistema de endomembranas?
+
+- A. Por vacuolas y vesículas, el retículo endoplasmático, el complejo de Golgi y los lisosomas
+- B. Por la membrana plasmática, el citosol y el núcleo
+- C. Por las mitocondrias, los cloroplastos y los ribosomas
+- D. Por la pared celular, la laminilla media y la matriz extracelular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 72
+**Subtema:** Organización de las células · sistema de endomembranas
+
+El sistema de endomembranas está constituido por vacuolas y vesículas, el retículo endoplasmático, el complejo de Golgi y los lisosomas.
+
+### 80
+
+De conformidad con el libro de Biología, aunque los distintos compartimentos del sistema de endomembranas están físicamente separados, ¿cómo se encuentran entre sí?
+
+- A. Funcionalmente interconectados
+- B. Totalmente aislados unos de otros
+- C. Fusionados en una sola estructura
+- D. Conectados sólo durante la división celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 72
+**Subtema:** Organización de las células · sistema de endomembranas
+
+Aunque los distintos compartimentos están físicamente separados, se encuentran funcionalmente interconectados.
+
+### 81
+
+En relación con el libro de Biología, ¿a qué contribuyen en conjunto los compartimentos del sistema de endomembranas?
+
+- A. A la síntesis, modificación, transporte y exportación de las proteínas, el metabolismo de los lípidos y la eliminación de sustancias tóxicas
+- B. Únicamente a la síntesis de ADN y su transmisión a la descendencia
+- C. Únicamente a la producción de energía a partir de la glucosa
+- D. A la formación de la pared celular y la matriz extracelular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 72
+**Subtema:** Organización de las células · sistema de endomembranas
+
+En conjunto contribuyen a la síntesis, modificación, transporte y exportación de las proteínas, el metabolismo de los lípidos y la eliminación de sustancias tóxicas.
+
+---
+
+## Sub-lote 20 · Las vacuolas y la fagocitosis (p. 73)
+
+### 82
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el mecanismo por el cual muchos protistas, como las amebas, engloban su alimento?
+
+- A. Fagocitosis
+- B. Difusión pasiva
+- C. Centrifugación
+- D. Fotosíntesis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · vacuolas y fagocitosis
+
+Muchos protistas, como las amebas, ingieren su alimento a través del mecanismo denominado fagocitosis, mediante el cual engloban el alimento y lo incorporan a la célula dentro de una vacuola.
+
+### 83
+
+De conformidad con el libro de Biología, ¿dentro de qué estructura incorpora la célula el alimento englobado por fagocitosis?
+
+- A. Dentro de una vacuola denominada vacuola alimentaria
+- B. Dentro del núcleo celular
+- C. Dentro del complejo de Golgi
+- D. Dentro de una mitocondria
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · vacuolas y fagocitosis
+
+Mediante el cual engloban el alimento y lo incorporan a la célula dentro de una vacuola denominada vacuola alimentaria.
+
+---
+
+## Sub-lote 21 · El retículo endoplasmático (p. 73)
+
+### 84
+
+En relación con el libro de Biología, ¿qué parte del sistema de endomembranas constituye el retículo endoplasmático?
+
+- A. La mayor parte
+- B. La menor parte
+- C. Sólo la membrana externa
+- D. Únicamente los lisosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · retículo endoplasmático
+
+El retículo endoplasmático (RE) constituye la mayor parte del sistema de endomembranas.
+
+### 85
+
+De acuerdo con el libro de Biología, ¿cómo es la estructura del retículo endoplasmático?
+
+- A. Una red de sacos aplanados, tubos y canales interconectados, característica de las células eucariontes
+- B. Una única membrana esférica que rodea al núcleo
+- C. Un conjunto de gránulos sueltos en el citosol
+- D. Una pared rígida de celulosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 73
+**Subtema:** Organización de las células · retículo endoplasmático
+
+El retículo endoplasmático (RE) constituye la mayor parte del sistema de endomembranas. Es una red de sacos aplanados, tubos y canales interconectados, y es característico de las células eucariontes.
+
+---
+
+**Reactivos en este archivo:** 85
