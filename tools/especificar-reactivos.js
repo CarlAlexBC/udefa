@@ -35,7 +35,7 @@ const CONECTORES = ['De acuerdo con', 'De conformidad con', 'En relación con'];
 // El reactivo "flota" (necesita la referencia) cuando pregunta por un dato
 // suelto: una cantidad, una fecha, una proporción. Si ya nombra su concepto,
 // no se toca.
-const FLOTA = /¿a cuánto|¿cuánto|¿cuánta|¿cuántos|¿cuántas|¿en qué año|¿en qué década|¿en qué siglo|¿en qué fecha|¿hace cuánto|¿hace aproximadamente|¿desde qué|¿desde cuándo|¿de cuándo|¿qué año|¿qué década|¿qué diámetro|¿qué proporción|¿qué porcentaje|¿qué tamaño|¿qué masa|¿a qué edad/i;
+const FLOTA = /¿a cuánto|¿cuánto|¿cuánta|¿cuántos|¿cuántas|¿en qué año|¿en qué década|¿en qué siglo|¿en qué fecha|¿hace cuánto|¿hace aproximadamente|¿desde qué|¿desde cuándo|¿de cuándo|¿qué año|¿qué década|¿qué diámetro|¿qué proporción|¿qué porcentaje|¿qué tamaño|¿qué masa|¿qué grosor|¿qué espesor|¿entre qué valores|¿a qué edad/i;
 
 if (!TEMA) {
   console.log('Falta --tema "el/la <tema en minúscula>"');

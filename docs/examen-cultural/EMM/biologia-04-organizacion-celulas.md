@@ -96,8 +96,8 @@ procesos. Mismo criterio que con "Temas en debate" del capítulo 3. Las páginas
 y 88 son las **preguntas de repaso del propio libro**, no teoría nueva.
 
 **Pendiente:** ninguno. El capítulo 4 está cerrado. Lo que falta de Biología lo
-declara el archivo del capítulo en curso — el siguiente es el capítulo 5,
-Membrana plasmática (p. 89).
+declara el archivo del capítulo en curso — hoy
+`biologia-05-membrana-plasmatica.md`.
 
 ## Criterio: teoría sobre práctica
 
