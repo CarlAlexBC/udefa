@@ -30,7 +30,7 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63 y 66 a 77**:
+Cubiertas las páginas impresas **61 a 63 y 66 a 78**:
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -57,8 +57,12 @@ Cubiertas las páginas impresas **61 a 63 y 66 a 77**:
 - Los ribosomas del RER y la síntesis de proteínas (insulina/páncreas); el
   complejo de Golgi y la glucosilación; los lisosomas (primarios y secundarios);
   y las funciones del REL (lípidos, desintoxicación, esteroides).
-- Los peroxisomas (enzimas oxidativas, agua oxigenada); las mitocondrias (dos
-  membranas, crestas, matriz, tamaño, fisión binaria y su cromosoma propio).
+- Los peroxisomas (enzimas oxidativas, agua oxigenada, catalasa, hígado y
+  etanol); las mitocondrias (dos membranas, crestas, matriz, tamaño, fisión
+  binaria y su cromosoma propio).
+- Los plástidos y sus tres tipos (leucoplastos, cromoplastos, cloroplastos) con
+  el origen de sus nombres; los cloroplastos, la fotosíntesis y la membrana
+  tilacoide.
 
 **Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
 4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
@@ -2094,4 +2098,193 @@ El resto de las proteínas que participan en las funciones de la mitocondria se 
 
 ---
 
-**Reactivos en este archivo:** 120
+## Sub-lote 30 · La catalasa y los peroxisomas hepáticos (p. 76)
+
+### 121
+
+De acuerdo con el libro de Biología, ¿qué enzima escinde el peróxido de hidrógeno acumulado, y en qué productos?
+
+- A. La catalasa, que da como productos agua e hidrógeno y evita el daño a las células
+- B. La oxidasa, que da como productos oxígeno y glucosa
+- C. La hidrolasa, que da como productos aminoácidos
+- D. La lipasa, que da como productos ácidos grasos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 76
+**Subtema:** Organización de las células · peroxisomas
+
+Otra de las enzimas presentes, la catalasa, escinde el peróxido de hidrógeno acumulado, lo que da como productos agua e hidrógeno y evita así cualquier daño a las células.
+
+> Par dentro del peroxisoma: la **oxidasa** forma el agua oxigenada (tóxica,
+> reactivo 113) y la **catalasa** la deshace. Una crea el peróxido, la otra lo
+> destruye.
+
+### 122
+
+De conformidad con el libro de Biología, ¿en qué células son particularmente abundantes los peroxisomas, y en qué participan?
+
+- A. En las células hepáticas, donde participan en la eliminación por oxidación de sustancias tóxicas como el etanol
+- B. En las células pancreáticas, donde participan en la síntesis de insulina
+- C. En los glóbulos blancos, donde participan en la fagocitosis de bacterias
+- D. En las células de las gónadas, donde participan en la síntesis de esteroides
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 76
+**Subtema:** Organización de las células · peroxisomas
+
+Los peroxisomas son abundantes particularmente en las células hepáticas, donde participan en la eliminación por oxidación de algunas sustancias tóxicas, como el etanol.
+
+---
+
+## Sub-lote 31 · Los plástidos y sus tres tipos (p. 77)
+
+### 123
+
+En relación con el libro de Biología, ¿a qué designa de manera genérica el término plástido, y en qué células se encuentran?
+
+- A. A una familia de organelas que se encuentran sólo en las células de plantas y algas
+- B. A las organelas de la respiración presentes en todas las células
+- C. A las vesículas digestivas de las células animales
+- D. A los filamentos del citoesqueleto
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · plástidos
+
+El término plástido designa de manera genérica a una familia de organelas que se encuentran solo en las células de plantas y algas.
+
+### 124
+
+De acuerdo con el libro de Biología, ¿cuáles son los tres tipos de plástidos?
+
+- A. Los leucoplastos, los cromoplastos y los cloroplastos
+- B. Las mitocondrias, los lisosomas y los peroxisomas
+- C. Los leucoplastos, los tilacoides y las crestas
+- D. Los cloroplastos, las vacuolas y los ribosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · plástidos
+
+Se pueden reconocer tres tipos de plástidos: los leucoplastos, los cromoplastos y los cloroplastos.
+
+### 125
+
+De conformidad con el libro de Biología, ¿qué pueden almacenar los leucoplastos, y en qué órganos vegetales son abundantes?
+
+- A. Almidón o, en ocasiones, proteínas o aceites; y son abundantes en raíces como el nabo o tubérculos como la papa
+- B. Pigmentos rojos y amarillos; y son abundantes en los pétalos de las flores
+- C. Clorofila; y son abundantes en las hojas verdes
+- D. Enzimas digestivas; y son abundantes en las semillas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · plástidos
+
+Los leucoplastos, que pueden almacenar almidón o, en algunas ocasiones, proteínas o aceites y son abundantes en órganos de almacenamiento de los vegetales, como raíces (p. ej., el nabo) o tubérculos (p. ej., la papa).
+
+### 126
+
+En relación con el libro de Biología, ¿qué contienen los cromoplastos, y dónde están presentes?
+
+- A. Pigmentos del tipo de los carotenoides, de color rojo y amarillo, presentes en las cáscaras de algunas frutas y en los pétalos de las flores
+- B. Clorofila verde, presente en las hojas
+- C. Almidón, presente en las raíces y tubérculos
+- D. Enzimas oxidativas, presentes en el hígado
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · plástidos
+
+Los cromoplastos, que contienen pigmentos del tipo de los carotenoides, de color rojo y amarillo, presentes en las cáscaras de algunas frutas y en los pétalos de las flores.
+
+### 127
+
+De acuerdo con el libro de Biología, ¿con qué se relacionan las denominaciones de los tres plástidos, y qué significan sus raíces?
+
+- A. Con los colores que presentan: leuco significa blanco, cromo remite a diversidad de colores, y chloro significa verde
+- B. Con su tamaño: leuco es pequeño, cromo mediano y chloro grande
+- C. Con su función: leuco almacena, cromo transporta y chloro digiere
+- D. Con la célula donde están: leuco en raíces, cromo en frutas y chloro en semillas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · plástidos
+
+Sus denominaciones se relacionan con los colores que presentan: leuco significa blanco, cromo remite a la diversidad de colores que pueden presentar según el tipo y cantidad de carotenos, y chloro significa verde, que es el color preponderante de los cloroplastos debido a la gran cantidad de clorofila que poseen.
+
+---
+
+## Sub-lote 32 · Los cloroplastos y la fotosíntesis (pp. 77–78)
+
+### 128
+
+De conformidad con el libro de Biología, ¿qué proceso tiene lugar en los cloroplastos?
+
+- A. La fotosíntesis
+- B. La respiración celular
+- C. La digestión intracelular
+- D. La síntesis de proteínas de exportación
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · cloroplastos
+
+Los cloroplastos son las organelas celulares en las que tiene lugar la fotosíntesis.
+
+> Par de organelas energéticas que se confunden: en las **mitocondrias** ocurre
+> la **respiración** (reactivo 116); en los **cloroplastos**, la **fotosíntesis**.
+> Ambas tienen doble membrana y ADN propio, pero hacen procesos opuestos.
+
+### 129
+
+En relación con el libro de Biología, mediante la fotosíntesis, ¿qué producen los organismos fotoautótrofos y a partir de qué?
+
+- A. Moléculas orgánicas complejas, como los hidratos de carbono, a partir de compuestos sencillos como el dióxido de carbono y el agua
+- B. Compuestos sencillos, como el dióxido de carbono, a partir de moléculas orgánicas complejas
+- C. Energía lumínica, a partir de la glucosa
+- D. Proteínas, a partir de aminoácidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · cloroplastos
+
+Mediante este mecanismo, los organismos fotoautótrofos producen moléculas orgánicas complejas, como los hidratos de carbono, a partir de compuestos sencillos, como el dióxido de carbono y el agua.
+
+### 130
+
+De acuerdo con el libro de Biología, ¿qué tipo de energía interviene en la fotosíntesis?
+
+- A. La energía lumínica
+- B. La energía química de los enlaces
+- C. La energía térmica del ambiente
+- D. La energía eléctrica de las membranas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · cloroplastos
+
+La energía involucrada en este proceso de síntesis es la energía lumínica.
+
+### 131
+
+De conformidad con el libro de Biología, además de las dos membranas comunes a todos los plástidos, ¿qué tercera membrana interna tienen los cloroplastos?
+
+- A. La membrana tilacoide
+- B. La membrana nuclear
+- C. La membrana de las crestas
+- D. La membrana perinuclear
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · cloroplastos
+
+Además de las dos membranas comunes a todos los plástidos, los cloroplastos tienen una tercera membrana interna: la membrana tilacoide.
+
+> Paralelo entre las dos organelas: la mitocondria pliega su membrana interna en
+> **crestas**; el cloroplasto tiene una tercera membrana, la **tilacoide**. Ambas
+> crean superficies de trabajo, pero se llaman distinto.
+
+---
+
+**Reactivos en este archivo:** 131
