@@ -18,7 +18,7 @@ _Regenerado el 2026-07-22._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM) | 1598 | abiertas: EMM · Biología |
+| Examen cultural (EMM, HCM) | 1605 | abiertas: EMM · Biología |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -33,7 +33,7 @@ _Regenerado el 2026-07-22._
 |---|---:|---|
 | EMM · Biología · Capítulo 3 · Origen de la vida | 202 | ninguno. El capítulo 3 está cerrado. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy `biologia-04-organizacion-celulas.md`. |
 | EMM · Biología · Capítulo 4 · La organización de las células | 173 | ninguno. El capítulo 4 está cerrado. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy `biologia-05-membrana-plasmatica.md`. |
-| EMM · Biología · Capítulo 5 · Membrana plasmática | 53 | el resto del capítulo 5, y los capítulos 7, 8, 11, 12, 31, 32, 35, 36 y 37. |
+| EMM · Biología · Capítulo 5 · Membrana plasmática | 60 | el resto del capítulo 5, y los capítulos 7, 8, 11, 12, 31, 32, 35, 36 y 37. |
 | HCM · Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
 | HCM · Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
 | HCM · Álgebra · Capítulo II · Resta | 23 | ninguno. El capítulo II (pp. 46–57) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-03-signos-agrupacion.md`. |
@@ -48,7 +48,7 @@ _Regenerado el 2026-07-22._
 | HCM · Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
 | HCM · Geografía · Capítulo 5 · Islas | 42 | ninguno. El capítulo 5 está cerrado. |
 | HCM · Historia · Capítulo 6 · El mundo contemporáneo | 600 | ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que pide el temario del HCM están completos, de la página 205 a la 279. |
-| **Total** | **1598** | |
+| **Total** | **1605** | |
 
 ## Personalidad (remaster)
 

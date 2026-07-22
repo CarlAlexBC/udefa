@@ -48,6 +48,8 @@ Cubiertas las páginas impresas **89 a 92**:
 - Qué atraviesa la bicapa (polar vs no polar); las proteínas de transporte
   (canales y transportadores); las acuaporinas; los poros y las toxinas
   formadoras de poros; la función de la membrana y la permeabilidad selectiva.
+- Los transportadores y sus tres clases (uniporte, simporte, antiporte); qué
+  facilita el paso por los fosfolípidos (polaridad, tamaño, carga).
 
 **Pendiente:** el resto del capítulo 5, y los capítulos 7, 8, 11, 12, 31, 32, 35,
 36 y 37.
@@ -970,4 +972,125 @@ Una de esas propiedades de la membrana, que analizaremos a continuación, es la 
 
 ---
 
-**Reactivos en este archivo:** 53
+## Sub-lote 18 · Los transportadores y sus tres clases (p. 94)
+
+### 54
+
+De acuerdo con el libro de Biología, ¿qué son los transportadores?
+
+- A. Estructuras proteicas que se asocian en forma específica con la molécula que será transportada y, mediante sutiles cambios en su estructura, la conducen de uno a otro lado de la membrana
+- B. Conductos siempre abiertos por los que pasa cualquier sustancia
+- C. Cadenas de hidratos de carbono de la cara externa
+- D. Lípidos que forman la bicapa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 94
+**Subtema:** Membrana plasmática · transportadores
+
+Los transportadores son estructuras proteicas que se asocian en forma específica con la molécula que será transportada. Mediante sutiles cambios en su estructura, la proteína transportadora conduce a la molécula de uno a otro lado de la membrana.
+
+> Par que hay que separar: el **canal** es un conducto abierto por el que pasa la
+> molécula sola (reactivo 46); el **transportador** se une a la molécula y cambia
+> de forma para pasarla. Canal = puerta; transportador = torniquete.
+
+### 55
+
+De conformidad con el libro de Biología, ¿qué transportan los uniportes?
+
+- A. Una única especie química en una dirección definida
+- B. Dos o más especies químicas en el mismo sentido
+- C. Dos o más especies en sentidos opuestos
+- D. Ninguna especie química, sólo agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 94
+**Subtema:** Membrana plasmática · transportadores
+
+Uniportes: transportan una única especie química en una dirección definida.
+
+### 56
+
+En relación con el libro de Biología, ¿qué transportan los simportes?
+
+- A. Dos o más especies químicas diferentes en el mismo sentido
+- B. Una única especie química en una dirección definida
+- C. Dos o más especies en sentidos opuestos
+- D. Únicamente iones de una misma carga
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 94
+**Subtema:** Membrana plasmática · transportadores
+
+Simportes: transportan dos o más especies químicas diferentes en el mismo sentido.
+
+### 57
+
+De acuerdo con el libro de Biología, ¿qué transportan los antiportes?
+
+- A. Dos o más especies en sentidos opuestos
+- B. Dos o más especies químicas en el mismo sentido
+- C. Una única especie química en una dirección definida
+- D. Únicamente agua y solutos neutros
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 94
+**Subtema:** Membrana plasmática · transportadores
+
+Antiportes: transportan dos o más especies en sentidos opuestos.
+
+> Las tres clases se distinguen por cuántas sustancias y en qué sentido: **uni**
+> = una, una dirección; **sim** = varias, mismo sentido; **anti** = varias,
+> sentidos opuestos. El prefijo lo dice todo.
+
+---
+
+## Sub-lote 19 · Qué facilita el paso por los fosfolípidos (p. 94)
+
+### 58
+
+De conformidad con el libro de Biología, ¿de qué depende la capacidad de una sustancia para atravesar la membrana circulando entre las cadenas carbonadas?
+
+- A. De la polaridad, del tamaño y de la carga de la sustancia
+- B. Únicamente del tamaño de la sustancia
+- C. De la temperatura del medio exclusivamente
+- D. De la cantidad de agua presente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 94
+**Subtema:** Membrana plasmática · paso por los fosfolípidos
+
+Esta capacidad depende de la polaridad, del tamaño y de la carga de las sustancias.
+
+### 59
+
+En relación con el libro de Biología, respecto de la polaridad, ¿qué sustancias circulan con mayor facilidad a través de los fosfolípidos?
+
+- A. Cuanto menos polar (o más hidrófoba) es la sustancia, circulará con mayor facilidad
+- B. Cuanto más polar (o más hidrófila) es la sustancia, circulará con mayor facilidad
+- C. La polaridad no influye en la circulación
+- D. Sólo circulan las sustancias con carga eléctrica
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 94
+**Subtema:** Membrana plasmática · paso por los fosfolípidos
+
+Polaridad. Cuanto menos polar (o más hidrófoba) es la sustancia, circulará con mayor facilidad a través de los fosfolípidos.
+
+### 60
+
+De acuerdo con el libro de Biología, respecto del tamaño, ¿qué sustancias se desplazan con mayor facilidad a través de los fosfolípidos?
+
+- A. Cuanto más pequeña es la sustancia, podrá desplazarse con mayor facilidad
+- B. Cuanto más grande es la sustancia, podrá desplazarse con mayor facilidad
+- C. El tamaño no influye en el desplazamiento
+- D. Sólo se desplazan las sustancias de mayor tamaño
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 94
+**Subtema:** Membrana plasmática · paso por los fosfolípidos
+
+Tamaño. Cuanto más pequeña es la sustancia, podrá desplazarse con mayor facilidad a través de los fosfolípidos.
+
+---
+
+**Reactivos en este archivo:** 60
