@@ -18,7 +18,7 @@ _Regenerado el 2026-07-22._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM) | 1702 | abiertas: EMM · Biología |
+| Examen cultural (EMM, HCM) | 1722 | abiertas: EMM · Biología |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -33,7 +33,8 @@ _Regenerado el 2026-07-22._
 |---|---:|---|
 | EMM · Biología · Capítulo 3 · Origen de la vida | 202 | ninguno. El capítulo 3 está cerrado. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy `biologia-04-organizacion-celulas.md`. |
 | EMM · Biología · Capítulo 4 · La organización de las células | 173 | ninguno. El capítulo 4 está cerrado. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy `biologia-05-membrana-plasmatica.md`. |
-| EMM · Biología · Capítulo 5 · Membrana plasmática | 157 | del capítulo 5, nada — quedó cerrado el 22 jul 2026 en 157 reactivos. De la materia siguen sin empezar los capítulos 7, 8, 11, 12, 31, 32, 35, 36 y 37; el próximo es el 7. Este archivo sostiene la declaración de lo que falta hasta que exista el `.md` del capítulo 7, para que Biología no aparezca como cerrada en `ESTADO.md` teniendo nueve capítulos por escribir. |
+| EMM · Biología · Capítulo 5 · Membrana plasmática | 157 | ninguno. El capítulo 5 está cerrado en 157 reactivos (22 jul 2026). Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy `biologia-07-metabolismo.md`. |
+| EMM · Biología · Capítulo 7 · Metabolismo | 20 | del capítulo 7, las páginas impresas 129 a 144 — la segunda ley de la termodinámica (la que cita el Anexo "H"), y lo que siga hasta el cierre del capítulo; queda por decidir el apartado "Biología en contexto social" de las páginas 125–126. De la materia siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37. |
 | HCM · Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
 | HCM · Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
 | HCM · Álgebra · Capítulo II · Resta | 23 | ninguno. El capítulo II (pp. 46–57) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-03-signos-agrupacion.md`. |
@@ -48,7 +49,7 @@ _Regenerado el 2026-07-22._
 | HCM · Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
 | HCM · Geografía · Capítulo 5 · Islas | 42 | ninguno. El capítulo 5 está cerrado. |
 | HCM · Historia · Capítulo 6 · El mundo contemporáneo | 600 | ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que pide el temario del HCM están completos, de la página 205 a la 279. |
-| **Total** | **1702** | |
+| **Total** | **1722** | |
 
 ## Personalidad (remaster)
 

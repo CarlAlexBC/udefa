@@ -89,11 +89,9 @@ hojas 133 y 134: la portadilla del capítulo 5 está en la hoja 133.
   aditivos, los componentes del humo y el alquitrán. **Sub-lote 40**, también
   fuera del orden de páginas.
 
-**Pendiente:** del capítulo 5, nada — quedó cerrado el 22 jul 2026 en 157
-reactivos. De la materia siguen sin empezar los capítulos 7, 8, 11, 12, 31, 32,
-35, 36 y 37; el próximo es el 7. Este archivo sostiene la declaración de lo que
-falta hasta que exista el `.md` del capítulo 7, para que Biología no aparezca
-como cerrada en `ESTADO.md` teniendo nueve capítulos por escribir.
+**Pendiente:** ninguno. El capítulo 5 está cerrado en 157 reactivos (22 jul
+2026). Lo que falta de Biología lo declara el archivo del capítulo en curso —
+hoy `biologia-07-metabolismo.md`.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón

@@ -39,7 +39,7 @@ const CONECTORES = ['De acuerdo con', 'De conformidad con', 'En relación con'];
 // "¿" pegado, para cazar también "¿alrededor de qué porcentaje…" o "¿de qué
 // diámetro…". Los interrogativos de tiempo/cantidad sí llevan "¿" para no
 // disparar con esas palabras a media frase.
-const FLOTA = /¿a cuánto|¿cuánto|¿cuánta|¿cuántos|¿cuántas|¿en qué año|¿en qué década|¿en qué siglo|¿en qué fecha|¿hace cuánto|¿hace aproximadamente|¿desde qué década|¿desde qué año|¿desde qué momento|¿desde cuándo|¿de cuándo|¿qué año|¿qué década|¿a qué edad|qué diámetro|qué proporción|qué porcentaje|qué tamaño|qué masa|qué grosor|qué espesor|entre qué valores/i;
+const FLOTA = /¿a cuánto|¿cuánto|¿cuánta|¿cuántos|¿cuántas|¿en qué año|¿en qué década|¿en qué siglo|¿en qué fecha|¿hace cuánto|¿hace aproximadamente|¿desde qué década|¿desde qué año|¿desde qué momento|¿desde cuándo|¿de cuándo|¿qué año|¿qué década|¿a qué edad|qué diámetro|qué proporción|qué fracción|qué porcentaje|qué tamaño|qué masa|qué grosor|qué espesor|entre qué valores/i;
 
 if (!TEMA) {
   console.log('Falta --tema "el/la <tema en minúscula>"');
