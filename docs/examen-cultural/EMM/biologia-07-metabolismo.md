@@ -50,7 +50,7 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **126 a 138**:
+Cubiertas las páginas impresas **126 a 139**:
 
 - La vida y el flujo de energía del sol; la célula como transformador de energía;
   el metabolismo y el origen griego de la palabra "energía".
@@ -103,12 +103,14 @@ Cubiertas las páginas impresas **126 a 138**:
 - Las isoenzimas y la LDH con sus cinco formas.
 - Los cofactores y las coenzimas: el ion magnesio, el NAD, y cómo se unen a la
   enzima; las vías enzimáticas y los complejos multienzimáticos.
+- El ajuste inducido paso a paso (figura 7-10, la sacarasa); la regulación
+  enzimática y la multimodulación; los efectos de la temperatura (los 10 °C, los
+  40 °C, la desnaturalización, las bacterias termófilas) y del pH.
 
-**Pendiente:** del capítulo 7, las páginas impresas 139 a 144 — la regulación de
-la actividad enzimática (temperatura, pH, inhibidores) y lo que siga hasta el
-cierre del capítulo; queda por decidir el apartado "Biología en contexto social"
-de las páginas 125–126. De la materia siguen sin empezar los capítulos 8, 11, 12,
-31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 7, las páginas impresas 140 a 144 — los inhibidores,
+la regulación alostérica y lo que siga hasta el cierre del capítulo; queda por
+decidir el apartado "Biología en contexto social" de las páginas 125–126. De la
+materia siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
@@ -2854,4 +2856,264 @@ Una ventaja de esta disposición es que se produce una escasa acumulación de pr
 
 ---
 
-**Reactivos en este archivo:** 165
+## Sub-lote 34 · El ajuste inducido paso a paso (figura 7-10, p. 139)
+
+### 166
+
+De acuerdo con el libro de Biología, ¿qué da como resultado la hidrólisis de la sacarosa?
+
+- A. Dos monosacáridos: la glucosa y la fructosa
+- B. Dos monosacáridos: la glucosa y la ribosa
+- C. Un monosacárido y un aminoácido
+- D. Dos disacáridos idénticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · ajuste inducido
+
+Este esquema representa la hidrólisis de la sacarosa (un disacárido) que da como resultado dos monosacáridos: la glucosa y la fructosa.
+
+### 167
+
+De conformidad con el libro de Biología, ¿en qué forma se encuentra el sitio activo antes de la interacción con el sustrato?
+
+- A. En una forma relajada, pero capaz de reconocer específicamente a su sustrato
+- B. En una forma rígida que ya encaja exactamente con el sustrato
+- C. En una forma cerrada que impide el acceso del sustrato
+- D. En una forma tensionada que se relaja al unirse el sustrato
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · ajuste inducido
+
+Antes de la interacción con el sustrato, el sitio activo de la enzima se encuentra en una forma relajada, pero es capaz de reconocer específicamente a su sustrato.
+
+### 168
+
+En relación con el libro de Biología, ¿qué provoca la reacomodación del sitio activo al producirse la interacción con el sustrato?
+
+- A. Una tensión en la molécula del sustrato que facilita la reacción con el agua
+- B. Una relajación de la molécula del sustrato que retrasa la reacción
+- C. La rotura inmediata de la enzima
+- D. La expulsión del sustrato sin que ocurra reacción alguna
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · ajuste inducido
+
+Al producirse la interacción, el sustrato induce un íntimo ajuste con el sitio activo. Esta reacomodación del sitio activo provoca una tensión en la molécula del sustrato que facilita la reacción con el agua.
+
+---
+
+## Sub-lote 35 · La regulación de la actividad enzimática (p. 139)
+
+### 169
+
+De acuerdo con el libro de Biología, ¿qué factores pueden afectar la velocidad de las reacciones químicas catalizadas por enzimas?
+
+- A. La temperatura, el pH, la concentración de sustrato, la concentración de enzima y la presencia de inhibidores, entre otros
+- B. Únicamente la temperatura y la presión atmosférica
+- C. Únicamente la concentración de enzima
+- D. El tamaño de la célula y su edad
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · regulación enzimática
+
+La velocidad de las reacciones químicas catalizadas por enzimas puede verse afectada por distintos factores, como: la temperatura, el pH, la concentración de sustrato, la concentración de enzima, la presencia de inhibidores, entre otros.
+
+### 170
+
+De conformidad con el libro de Biología, ¿en qué consiste el tipo de regulación que se establece a nivel de la propia síntesis de las proteínas?
+
+- A. En la activación o desactivación de los genes que llevan la información para la síntesis de determinadas enzimas
+- B. En la destrucción física de las enzimas ya sintetizadas
+- C. En el cambio de temperatura del citoplasma
+- D. En la sustitución de unos cofactores por otros
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · regulación enzimática
+
+Un tipo de regulación se establece a nivel de la propia síntesis de las proteínas, ya sea por activación o desactivación de los genes que llevan la información para la síntesis de determinadas enzimas.
+
+### 171
+
+En relación con el libro de Biología, ¿qué concepto ha originado el hecho de que distintos tipos de regulación puedan coexistir en una enzima dada?
+
+- A. Multimodulación
+- B. Multienzimación
+- C. Retroalimentación
+- D. Ajuste inducido
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · regulación enzimática
+
+Los distintos tipos de regulación pueden coexistir en una enzima dada, lo que ha originado el concepto de multimodulación.
+
+---
+
+## Sub-lote 36 · Los efectos de la temperatura (p. 139)
+
+### 172
+
+De acuerdo con el libro de Biología, ¿por qué la velocidad de las reacciones catalizadas por enzimas aumenta con la temperatura?
+
+- A. Porque la probabilidad de que las moléculas de sustrato colisionen con los sitios activos es mayor
+- B. Porque el calor crea nuevas moléculas de enzima
+- C. Porque el calor disminuye la energía libre de la reacción
+- D. Porque el calor vuelve espontáneas las reacciones que no lo son
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · temperatura y actividad enzimática
+
+La velocidad de las reacciones catalizadas por enzimas aumenta con la temperatura, ya que la probabilidad de que las moléculas de sustrato colisionen con los sitios activos es mayor.
+
+### 173
+
+De conformidad con el libro de Biología, ¿cada cuántos grados de aumento se duplica aproximadamente la velocidad de la mayoría de las reacciones enzimáticas?
+
+- A. Cada 10 °C
+- B. Cada 5 °C
+- C. Cada 20 °C
+- D. Cada 40 °C
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · temperatura y actividad enzimática
+
+La velocidad de la mayoría de las reacciones enzimáticas se duplica aproximadamente por cada 10 °C de aumento en la temperatura.
+
+### 174
+
+En relación con el libro de Biología, ¿por encima de qué temperatura decae rápidamente la velocidad de las reacciones enzimáticas?
+
+- A. Por encima de los 40 °C
+- B. Por encima de los 70 °C
+- C. Por encima de los 20 °C
+- D. Por encima de los 72 °C
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · temperatura y actividad enzimática
+
+Sin embargo, por encima de los 40 °C, esta decae rápidamente.
+
+> Las dos cifras van juntas y se prestan a mezclarse: **cada 10 °C se duplica**,
+> pero **pasados los 40 °C se desploma**. Los 70 y 72 °C son de las bacterias
+> termófilas del reactivo 178, y por eso sirven de distractor.
+
+### 175
+
+De acuerdo con el libro de Biología, ¿por qué decae la velocidad a temperaturas altas?
+
+- A. Porque aumentan el movimiento y la vibración de la propia molécula proteica, rompiendo enlaces relativamente frágiles que mantienen su estructura terciaria o cuaternaria
+- B. Porque el sustrato se evapora antes de llegar al sitio activo
+- C. Porque el calor destruye los cofactores inorgánicos
+- D. Porque disminuye la probabilidad de colisión entre sustrato y enzima
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · temperatura y actividad enzimática
+
+Esto sucede porque, debido a la alta temperatura, aumentan el movimiento y la vibración de la propia molécula proteica, rompiendo enlaces relativamente frágiles que mantienen su estructura terciaria o cuaternaria, como los puentes de hidrógeno.
+
+### 176
+
+De conformidad con el libro de Biología, ¿qué se dice que ocurre cuando una proteína pierde su estructura tridimensional característica?
+
+- A. Que se desnaturaliza
+- B. Que se hidroliza
+- C. Que se fosforila
+- D. Que se oxida
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · temperatura y actividad enzimática
+
+Cuando una proteína pierde su estructura tridimensional característica, se dice que se desnaturaliza.
+
+### 177
+
+En relación con el libro de Biología, ¿qué ocurre si la desnaturalización se torna irreversible?
+
+- A. Las cadenas polipeptídicas quedan permanentemente inactivadas
+- B. Las cadenas polipeptídicas recuperan su forma al bajar la temperatura
+- C. La enzima duplica su actividad catalítica
+- D. La enzima cambia de sustrato
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · temperatura y actividad enzimática
+
+La desnaturalización puede tornarse irreversible, en cuyo caso las cadenas polipeptídicas quedan permanentemente inactivadas.
+
+### 178
+
+De acuerdo con el libro de Biología, ¿con qué coincide la temperatura óptima de cada enzima en la mayoría de los casos?
+
+- A. Con la temperatura fisiológica
+- B. Con la temperatura ambiente
+- C. Con la temperatura de desnaturalización
+- D. Con los 72 °C
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · temperatura y actividad enzimática
+
+Cada enzima tendrá una temperatura óptima que, en la mayoría de los casos, será coincidente con la fisiológica.
+
+### 179
+
+De conformidad con el libro de Biología, ¿qué enzimas tienen temperaturas óptimas cercanas a los 72 °C?
+
+- A. Las de ciertas bacterias termófilas que viven en aguas termales con temperaturas superiores a los 70 °C
+- B. Las de las células musculares de las aves y los mamíferos
+- C. Las de los lisosomas de las células eucariontes
+- D. Las de las bacterias que viven en aguas polares
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · temperatura y actividad enzimática
+
+Hay enzimas que tienen temperaturas óptimas cercanas a los 72 °C, como el caso de las enzimas de ciertas bacterias termófilas que viven en aguas termales con temperaturas superiores a los 70 °C.
+
+---
+
+## Sub-lote 37 · Los efectos del pH (p. 139)
+
+### 180
+
+En relación con el libro de Biología, ¿por qué el pH del medio afecta a las enzimas?
+
+- A. Porque son proteínas compuestas por aminoácidos que pueden captar o liberar protones según el pH del medio en el que se encuentren
+- B. Porque el pH destruye directamente los enlaces covalentes de la enzima
+- C. Porque el pH modifica la temperatura del citoplasma
+- D. Porque el pH cambia la naturaleza química del sustrato
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · pH y actividad enzimática
+
+Las enzimas son proteínas compuestas por aminoácidos que pueden captar o liberar protones según el pH del medio en el que se encuentren.
+
+### 181
+
+De acuerdo con el libro de Biología, ¿qué produce la alteración de la carga neta de cada aminoácido al tomar o ceder protones?
+
+- A. Atracciones y repulsiones que modifican la estructura terciaria de la enzima
+- B. La rotura inmediata de la cadena polipeptídica
+- C. Un aumento permanente de la actividad catalítica
+- D. La sustitución de unos aminoácidos por otros
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 139
+**Subtema:** Metabolismo · pH y actividad enzimática
+
+La carga neta de cada aminoácido se ve afectada al tomar o ceder protones y esto produce atracciones y/o repulsiones que modifican la estructura terciaria de la enzima.
+
+---
+
+**Reactivos en este archivo:** 181
