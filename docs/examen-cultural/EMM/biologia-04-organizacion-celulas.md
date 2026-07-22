@@ -30,7 +30,7 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63 y 66 a 80**:
+Cubiertas las páginas impresas **61 a 63 y 66 a 81**:
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -67,6 +67,10 @@ Cubiertas las páginas impresas **61 a 63 y 66 a 80**:
   filamentos intermedios); microtúbulos (tubulina, 22 nm, cilios y flagelos);
   actina (6 nm, actina G y F, seudópodos); los dos mecanismos de movimiento
   celular y la miosina.
+- La actina y la miosina (seudópodos, cinturón contráctil de la división,
+  microvellosidades, músculo); los filamentos intermedios (7–11 nm, proteínas
+  fibrosas, tetrámeros); el citoesqueleto como estructura dinámica; y los cilios
+  y flagelos: dónde están y quiénes no los tienen.
 
 **Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
 4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
@@ -2491,4 +2495,204 @@ En su participación en la motilidad celular, la actina suele estar asociada a o
 
 ---
 
-**Reactivos en este archivo:** 143
+## Sub-lote 37 · La actina, la miosina y las microvellosidades (p. 80)
+
+### 144
+
+De acuerdo con el libro de Biología, ¿qué provoca la interacción de los filamentos de actina con la miosina cerca del borde celular, para emitir un seudópodo?
+
+- A. Una contracción localizada que hace presión sobre el líquido celular, que a su vez presiona sobre la membrana
+- B. La duplicación del material genético
+- C. La síntesis de nuevas proteínas de membrana
+- D. La formación de cilios y flagelos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · actina y miosina
+
+Los filamentos de actina se encuentran concentrados en haces, o formando una malla, cerca del borde celular donde interactúan con la miosina, lo que provoca una contracción localizada que hace presión sobre el líquido celular que, a su vez, presiona sobre la membrana y emite una prolongación, el seudópodo.
+
+### 145
+
+De conformidad con el libro de Biología, durante la división de las células animales, ¿qué forman los filamentos de actina junto con la miosina?
+
+- A. Una especie de cinturón contráctil que estrangula al citoplasma y separa las dos células hijas
+- B. Un huso de microtúbulos que reparte los cromosomas
+- C. Una nueva pared celular entre las dos células
+- D. Una membrana nuclear alrededor de cada célula hija
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · actina y miosina
+
+Estos filamentos, junto con la miosina, también actúan en las células animales durante la división celular, ya que forman una especie de cinturón contráctil que estrangula al citoplasma y separa las dos células hijas.
+
+### 146
+
+En relación con el libro de Biología, ¿de qué son el centro los haces de actina en las células intestinales especializadas en la absorción?
+
+- A. De las microvellosidades, que aumentan de manera considerable su superficie de absorción
+- B. De los cilios que impulsan el alimento
+- C. De las vacuolas alimentarias
+- D. De los lisosomas digestivos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · actina y miosina
+
+Los haces de actina constituyen el centro de las microvellosidades, como las que forman las células intestinales especializadas en la absorción de los nutrientes. Las membranas de estas células poseen numerosas prolongaciones, las microvellosidades, que aumentan de manera considerable su superficie de absorción.
+
+### 147
+
+De acuerdo con el libro de Biología, ¿de qué conjuntos contráctiles son los principales componentes la actina y la miosina?
+
+- A. De los conjuntos contráctiles complejos de las células musculares
+- B. De las microvellosidades intestinales
+- C. De los cilios y flagelos
+- D. De la lámina nuclear
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · actina y miosina
+
+La actina y la miosina son, además, los principales componentes de los conjuntos contráctiles complejos de las células musculares.
+
+---
+
+## Sub-lote 38 · Los filamentos intermedios (p. 80)
+
+### 148
+
+De conformidad con el libro de Biología, ¿en qué organismos se encuentran los filamentos intermedios, y en qué células son particularmente abundantes?
+
+- A. En los organismos pluricelulares, y son abundantes en las células sometidas a tensiones mecánicas, como las epiteliales, nerviosas y musculares
+- B. En los organismos unicelulares, y son abundantes en las amebas
+- C. En las células vegetales, y son abundantes en las raíces
+- D. En las bacterias, y son abundantes en las procariontes
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · filamentos intermedios
+
+Los filamentos intermedios se encuentran en los organismos pluricelulares y son particularmente abundantes en las células sometidas a tensiones mecánicas, como las células epiteliales, nerviosas y musculares.
+
+### 149
+
+De acuerdo con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿qué diámetro tienen los filamentos intermedios?
+
+- A. Entre 7 y 11 nanómetros
+- B. Alrededor de 22 nanómetros
+- C. Alrededor de 6 nanómetros
+- D. Entre 30 y 50 nanómetros
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · filamentos intermedios
+
+Tienen un grosor intermedio entre los microtúbulos y los filamentos de actina, con un diámetro de entre 7 y 11 nanómetros.
+
+> Cierra la escala de grosores del citoesqueleto: **microtúbulos** 22 nm (los más
+> gruesos), **filamentos intermedios** 7 a 11 nm (los del medio, de ahí su
+> nombre), **filamentos de actina** 6 nm (los más finos).
+
+### 150
+
+En relación con el libro de Biología, ¿de qué están compuestos los filamentos intermedios, a diferencia de los microtúbulos y la actina?
+
+- A. Por proteínas fibrosas resistentes y duraderas, en lugar de subunidades de proteína globular
+- B. Por lípidos de membrana
+- C. Por hidratos de carbono asociados
+- D. Por ácidos nucleicos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · filamentos intermedios
+
+A diferencia de estos, que están constituidos por subunidades de proteína globular, los filamentos intermedios están compuestos por proteínas fibrosas resistentes y duraderas.
+
+### 151
+
+De conformidad con el libro de Biología, ¿por qué tipo de unidades están formados los filamentos intermedios?
+
+- A. Por tetrámeros, es decir, cuatro subunidades, en lugar de dímeros
+- B. Por dímeros, es decir, dos subunidades
+- C. Por monómeros de proteína globular
+- D. Por moléculas de actina G
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · filamentos intermedios
+
+Las unidades que los forman son tetrámeros (cuatro subunidades) en lugar de dímeros.
+
+---
+
+## Sub-lote 39 · El citoesqueleto como estructura dinámica (p. 80)
+
+### 152
+
+De acuerdo con el libro de Biología, ¿cómo es la estructura tridimensional que el citoesqueleto otorga a la célula?
+
+- A. Altamente ordenada, pero no rígida ni permanente: es dinámica y cambia según las actividades de la célula
+- B. Rígida y permanente, incapaz de cambiar
+- C. Desordenada y sin forma definida
+- D. Idéntica en todas las células, sin variación
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · citoesqueleto dinámico
+
+Aunque esta red le otorga a la célula una estructura tridimensional altamente ordenada, esta no es rígida ni permanente. Es una estructura dinámica que cambia y se desplaza de acuerdo con las actividades de la célula.
+
+### 153
+
+De conformidad con el libro de Biología, ¿qué formas de movimiento exhiben incluso las células vegetales, pese a su pared celular rígida?
+
+- A. Corrientes citoplasmáticas, movimientos cromosómicos y cambios de forma durante la división celular
+- B. Locomoción por cilios y flagelos
+- C. Movimiento ameboide con seudópodos
+- D. Desplazamiento sobre superficies mediante microvellosidades
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 80
+**Subtema:** Organización de las células · citoesqueleto dinámico
+
+Aun las vegetales, encerradas por una pared celular rígida, muestran corrientes citoplasmáticas activas (movimientos del citoplasma dentro de la célula), movimientos cromosómicos y cambios de forma durante la división celular.
+
+---
+
+## Sub-lote 40 · Cilios y flagelos (p. 81)
+
+### 154
+
+En relación con el libro de Biología, ¿en qué células se encuentran muy difundidos los cilios y los flagelos?
+
+- A. En las células de animales, en las células sexuales de helechos y otras plantas, y en los protistas
+- B. Únicamente en las bacterias y otros procariontes
+- C. Únicamente en las células vegetales con pared celular
+- D. Únicamente en las células musculares
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 81
+**Subtema:** Organización de las células · cilios y flagelos
+
+Los cilios y los flagelos se encuentran muy difundidos entre los seres vivos: en las células de animales, en las células sexuales de helechos y otras plantas, y en los protistas.
+
+### 155
+
+De acuerdo con el libro de Biología, ¿qué grupos de eucariontes no tienen cilios ni flagelos en ninguna célula?
+
+- A. Las algas rojas, los hongos, las plantas con flor y los gusanos redondos (nematodos)
+- B. Los animales, los protistas y los helechos
+- C. Las bacterias y las arqueas
+- D. Todas las células vegetales sin excepción
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 81
+**Subtema:** Organización de las células · cilios y flagelos
+
+Solo algunos grupos de eucariontes, como las algas rojas, los hongos, las plantas con flor y los gusanos redondos (nematodos) no tienen cilios ni flagelos en ninguna célula.
+
+---
+
+**Reactivos en este archivo:** 155
