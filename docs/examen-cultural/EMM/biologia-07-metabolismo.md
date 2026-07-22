@@ -50,7 +50,7 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **126 a 130**:
+Cubiertas las páginas impresas **126 a 131**:
 
 - La vida y el flujo de energía del sol; la célula como transformador de energía;
   el metabolismo y el origen griego de la palabra "energía".
@@ -68,11 +68,20 @@ Cubiertas las páginas impresas **126 a 130**:
   dos principios.
 - Los sistemas vivos frente a la segunda ley: la controversia con los biólogos y
   el aporte de Schrödinger en *¿Qué es la vida?* (1944).
+- Cómo se salva la objeción: el organismo gana orden interno a expensas de
+  desordenar su ambiente, y la cuenta se cierra mirando el conjunto.
+- Equilibrio frente a estado estacionario, y Prigogine con la termodinámica de
+  procesos irreversibles (Nobel de química, 1977).
+- El "orden a partir de orden": el microcódigo, el cristal aperiódico y su
+  confirmación posterior en el ADN de Watson y Crick.
+- Las heterogeneidades de la célula: los gradientes a través de las membranas,
+  los compartimentos sin membrana, el citosol como gel, y por qué la disipación
+  de los gradientes significa la muerte celular.
 
-**Pendiente:** del capítulo 7, las páginas impresas 131 a 144 — el estado
-estacionario, y lo que siga hasta el cierre del capítulo; queda por decidir el
-apartado "Biología en contexto social" de las páginas 125–126. De la materia
-siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 7, las páginas impresas 132 a 144 — la entalpía y la
+energía libre de Gibbs, y lo que siga hasta el cierre del capítulo; queda por
+decidir el apartado "Biología en contexto social" de las páginas 125–126. De la
+materia siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
@@ -819,4 +828,317 @@ Hizo notar que en los organismos vivos conviven dos procesos esenciales: la gene
 
 ---
 
-**Reactivos en este archivo:** 43
+## Sub-lote 9 · El sistema biológico y su entorno (p. 131)
+
+### 44
+
+De conformidad con el libro de Biología, ¿qué devuelven las células a su entorno durante los procesos que mantienen su organización interna?
+
+- A. Energía disipada que consiste en calor y otras formas, aumentando el desorden y la entropía del ambiente
+- B. Energía útil que el ambiente vuelve a aprovechar íntegramente
+- C. Únicamente materia, sin ninguna forma de energía
+- D. Información genética que se dispersa en el medio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · el sistema biológico y su entorno
+
+Durante estos procesos, las células devuelven a su entorno energía disipada que consiste en calor y otras formas que rápidamente se distribuyen en el ambiente, aumentando su desorden y entropía.
+
+### 45
+
+En relación con el libro de Biología, ¿por qué el segundo principio de la termodinámica también se cumple en el caso de los sistemas biológicos?
+
+- A. Porque la entropía del conjunto, organismo vivo más entorno, está en permanente aumento
+- B. Porque la entropía del organismo vivo por sí sola está en permanente aumento
+- C. Porque los organismos vivos son sistemas aislados
+- D. Porque los organismos vivos no disipan energía
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · el sistema biológico y su entorno
+
+De esta forma, el segundo principio de la termodinámica también se cumple en el caso de los sistemas biológicos, dado que la entropía del conjunto (organismo vivo + entorno) está en permanente aumento.
+
+### 46
+
+De acuerdo con el libro de Biología, ¿cómo debe considerarse el sistema biológico para comprender sus balances energéticos?
+
+- A. En conjunto con su entorno
+- B. Por separado de su entorno
+- C. Como un sistema completamente aislado
+- D. Como un sistema en equilibrio permanente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · el sistema biológico y su entorno
+
+El sistema biológico debe considerarse en conjunto con su entorno.
+
+### 47
+
+De conformidad con el libro de Biología, ¿cómo consiguen los organismos vivos ganar orden interno?
+
+- A. A expensas de generar desorden en su ambiente
+- B. A expensas de reducir el desorden de su ambiente
+- C. Sin ningún efecto sobre el desorden de su ambiente
+- D. Creando energía nueva dentro de sus células
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · el sistema biológico y su entorno
+
+Así, los organismos vivos consiguen ganar orden interno a expensas de generar desorden en su ambiente.
+
+> Ésta es la respuesta del libro a la gran objeción: el ser vivo **sí** se ordena,
+> pero **desordena más el ambiente**. La cuenta se cierra mirando el conjunto, no
+> el organismo solo.
+
+### 48
+
+En relación con el libro de Biología, ¿cómo se mantiene vivo un sistema biológico en su estado organizado?
+
+- A. Tomando energía del ambiente y procesándola a través de su sistema de reacciones metabólicas
+- B. Conservando indefinidamente la energía con la que se formó
+- C. Impidiendo todo intercambio de energía con el ambiente
+- D. Alcanzando el equilibrio con su entorno
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · el sistema biológico y su entorno
+
+Un sistema biológico se mantiene vivo en su estado organizado, tomando energía del ambiente y procesándola a través de su sistema de reacciones metabólicas.
+
+---
+
+## Sub-lote 10 · Equilibrio y estado estacionario (p. 131)
+
+### 49
+
+De acuerdo con el libro de Biología, ¿en qué se diferencian un sistema en equilibrio y un sistema estacionario?
+
+- A. El que está en equilibrio mantiene su constancia por la ausencia de procesos; el estacionario se mantiene porque existen procesos balanceados
+- B. El que está en equilibrio se mantiene por procesos balanceados; el estacionario, por la ausencia de procesos
+- C. Los dos se mantienen por la ausencia de procesos, y sólo cambian de nombre
+- D. Los dos se mantienen por procesos balanceados, y sólo cambian de nombre
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · estado estacionario
+
+Mientras que un sistema en equilibrio mantiene su constancia por la ausencia de procesos, un sistema estacionario se mantiene porque existen procesos balanceados.
+
+> Los dos se ven quietos desde fuera, y ahí está la trampa: el **equilibrio** está
+> quieto porque **no pasa nada**; el **estacionario**, porque pasan muchas cosas
+> que **se compensan**. La célula viva es lo segundo.
+
+### 50
+
+De conformidad con el libro de Biología, ¿quién fue la figura más trascendente que retomó las ideas de Schrödinger?
+
+- A. El físico ruso-belga Ilya Prigogine
+- B. El físico alemán Rudolf Clausius
+- C. El físico inglés James Joule
+- D. El matemático norteamericano J. W. Gibbs
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · estado estacionario
+
+La figura más trascendente que retomó las ideas de Schrödinger fue el físico ruso-belga Ilya Prigogine (1917-2003).
+
+### 51
+
+En relación con el libro de Biología, ¿qué termodinámica desarrolló Prigogine?
+
+- A. Una termodinámica aplicable a los procesos que están ocurriendo lejos del equilibrio, conocida como termodinámica de procesos irreversibles
+- B. Una termodinámica aplicable sólo a los sistemas en equilibrio
+- C. Una termodinámica aplicable únicamente a las máquinas térmicas
+- D. Una termodinámica que niega la validez de la segunda ley
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · estado estacionario
+
+Ilya Prigogine (1917-2003), quien desarrolló una termodinámica aplicable a aquellos procesos que están ocurriendo lejos del equilibrio (conocida como termodinámica de procesos irreversibles).
+
+### 52
+
+De acuerdo con el libro de Biología, ¿qué demostró Prigogine sobre los sistemas caóticos?
+
+- A. Que lejos del equilibrio un sistema caótico puede autoorganizarse
+- B. Que cerca del equilibrio un sistema caótico puede autoorganizarse
+- C. Que un sistema caótico nunca puede autoorganizarse
+- D. Que un sistema caótico sólo se organiza si un agente externo lo ordena
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · estado estacionario
+
+Demostró que lejos del equilibrio un sistema caótico puede autoorganizarse.
+
+### 53
+
+De conformidad con el libro de Biología, ¿qué premio obtuvo Prigogine por sus trabajos y en qué año?
+
+- A. El Premio Nobel de química, en 1977
+- B. El Premio Nobel de física, en 1977
+- C. El Premio Nobel de química, en 1944
+- D. El Premio Nobel de medicina, en 1961
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · estado estacionario
+
+Con la termodinámica de procesos irreversibles, Prigogine formalizó el concepto "orden a partir de desorden" y por sus trabajos obtuvo el Premio Nobel de química en 1977.
+
+---
+
+## Sub-lote 11 · El orden a partir de orden (p. 131)
+
+### 54
+
+En relación con el libro de Biología, ¿qué intenta explicar Schrödinger con la expresión "orden a partir de orden"?
+
+- A. La capacidad de los organismos de producir réplicas de sí mismos e incluso de generar variaciones heredables
+- B. La capacidad de los organismos de disipar calor hacia el ambiente
+- C. La tendencia de todo sistema a alcanzar el equilibrio
+- D. La formación espontánea de gradientes dentro del citosol
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · orden a partir de orden
+
+Con la expresión "orden a partir de orden", Schrödinger intenta explicar la capacidad de los organismos de producir réplicas de sí mismos e incluso de generar variaciones heredables.
+
+### 55
+
+De acuerdo con el libro de Biología, ¿por qué creía Schrödinger que estaba regido el gran orden que reina en la materia viva?
+
+- A. Por información almacenada en un "microcódigo"
+- B. Por una fuerza vital ajena a la física y la química
+- C. Por el equilibrio térmico con el ambiente
+- D. Por la disipación constante de energía
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · orden a partir de orden
+
+Schrödinger creía que el gran orden que reina en la materia viva estaba regido por información almacenada en un "microcódigo".
+
+### 56
+
+De conformidad con el libro de Biología, ¿qué suponía Schrödinger que era el sustrato físico capaz de almacenar esa información?
+
+- A. Algún tipo de cristal aperiódico
+- B. Una membrana de fosfolípidos
+- C. Una proteína globular
+- D. Un cristal perfectamente periódico
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · orden a partir de orden
+
+Suponía que algún tipo de cristal aperiódico era el sustrato físico que permitía almacenar esa información y sobre el que podían tallarse las pequeñas variaciones que posteriormente resultarían heredables.
+
+### 57
+
+En relación con el libro de Biología, ¿quiénes describieron una década más tarde la macromolécula que reunía muchas de las condiciones anticipadas por Schrödinger?
+
+- A. Watson y Crick, con la estructura del ADN
+- B. Till y McCulloch, con la célula troncal
+- C. Schleiden y Schwann, con la teoría celular
+- D. Singer y Nicolson, con el mosaico fluido
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · orden a partir de orden
+
+Una década más tarde, Watson y Crick describieron la estructura del ADN, una macromolécula que reúne muchas de las condiciones anticipadas por Schrödinger, necesarias para almacenar la información genética.
+
+---
+
+## Sub-lote 12 · Las heterogeneidades de la célula (p. 131)
+
+### 58
+
+De acuerdo con el libro de Biología, ¿qué son las heterogeneidades en las células vivas?
+
+- A. La norma
+- B. La excepción
+- C. Un signo de daño celular
+- D. Un estado transitorio previo al equilibrio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · las heterogeneidades de la célula
+
+En las células vivas, las heterogeneidades son la norma.
+
+### 59
+
+De conformidad con el libro de Biología, ¿qué tipos de gradientes o potenciales se forman a través de las membranas?
+
+- A. Químicos, quimiosmóticos y electroquímicos
+- B. Térmicos, gravitacionales y mecánicos
+- C. Lumínicos, sonoros y magnéticos
+- D. Nucleares, eléctricos y radiantes
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · las heterogeneidades de la célula
+
+A través de las membranas se forman diferentes tipos de gradientes o potenciales (químicos, quimiosmóticos, electroquímicos, etc.), cada uno de ellos está constituido por diferencias en las concentraciones de moléculas específicas a uno y otro lado de las membranas.
+
+### 60
+
+En relación con el libro de Biología, ¿hace falta una membrana biológica para definir un compartimento?
+
+- A. No; no necesariamente debe existir una membrana biológica
+- B. Sí; sin membrana biológica no hay compartimento posible
+- C. Sí, pero sólo en las células vegetales
+- D. Sí, pero sólo en las células procariontes
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · las heterogeneidades de la célula
+
+Pero, para definir un compartimento, no necesariamente debe existir una membrana biológica.
+
+### 61
+
+De acuerdo con el libro de Biología, ¿cómo debe considerarse el citosol celular?
+
+- A. No como un medio acuoso simple, sino más bien como un gel, por lo que la difusión tiene restricciones
+- B. Como un medio acuoso simple, en el que la difusión es libre
+- C. Como un medio sólido en el que no hay difusión alguna
+- D. Como un medio gaseoso de baja densidad
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · las heterogeneidades de la célula
+
+Recuérdese que el citosol celular no debe considerarse un medio acuoso simple, es más bien un gel y, por lo tanto, la difusión tiene restricciones.
+
+### 62
+
+De conformidad con el libro de Biología, ¿qué significaría para la célula la disipación de sus gradientes, potenciales y desequilibrios?
+
+- A. El equilibrio con el ambiente y la consecuente muerte celular
+- B. Un aumento de su eficiencia metabólica
+- C. El paso a un estado estacionario más estable
+- D. La ganancia de información y de orden interno
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
+**Subtema:** Metabolismo · las heterogeneidades de la célula
+
+Estos gradientes, potenciales y desequilibrios, son las fuerzas que operan en una gran cantidad de funciones vitales de las células. Por lo tanto, para estas es crucial mantenerlos. Su disipación significaría el equilibrio con el ambiente y la consecuente muerte celular.
+
+> La frase que cierra el argumento del capítulo, y la más fuerte para el
+> aspirante: para una célula, **llegar al equilibrio es morirse**. Estar viva es
+> justamente estar lejos del equilibrio.
+
+---
+
+**Reactivos en este archivo:** 62
