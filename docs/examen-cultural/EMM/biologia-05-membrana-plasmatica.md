@@ -29,7 +29,7 @@ página impresa **89** (hoja 135 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **89 a 92**:
+Cubiertas las páginas impresas **89 a 98**:
 
 - La historia del modelo de membrana: Langmuir, Gorter y Grendel (la bicapa),
   Cole y Danielli (las proteínas), Robertson (el modelo trilaminar).
@@ -56,9 +56,40 @@ Cubiertas las páginas impresas **89 a 92**:
 - Difusión simple vs facilitada; el transporte activo (en contra del gradiente,
   con energía); la tonicidad (iso/hipo/hipertónica); la turgencia y las vacuolas
   contráctiles.
+- El movimiento de agua en la célula vegetal turgente (figura del recuadro 5-3).
+- La sección "Transportes activos": transporte pasivo vs activo, la analogía de
+  las bombas hidráulicas, el nombre "bombas", los sitios de unión específicos,
+  el ciclo completo de la proteína transportadora (complejo proteína-soluto,
+  cambio de conformación, liberación, retorno) y el ATP como fuente de energía.
 
-**Pendiente:** el resto del capítulo 5, y los capítulos 7, 8, 11, 12, 31, 32, 35,
-36 y 37.
+**Pendiente:** el resto del capítulo 5 — la bomba de Na⁺-K⁺ (p. 99), el recuadro
+5-4 (p. 100), los intercambios a través de vesículas (pp. 99–101) y el cierre
+"La nicotina y sus cómplices" (p. 102) —, y los capítulos 7, 8, 11, 12, 31, 32,
+35, 36 y 37.
+
+**No se cubre:** las "Situaciones problemáticas" de la p. 102 son ejercicios de
+resolución, no teoría (criterio de abajo).
+
+## Erratas del libro · capítulo 5
+
+| Pág. | Dice | Debe decir |
+|---|---|---|
+| 100 | "Na⁺-Ka⁺-ATPasa" (dos veces, recuadro 5-4) | "Na⁺-K⁺-ATPasa" — el símbolo del potasio es K, no Ka |
+| 100 | Remite a la fig. 5-11 para la clatrina y a la fig. 5-12 para la exocitosis | Están al revés: la 5-11 es la vesícula de secreción (exocitosis) y la 5-12 la formación de vesícula con clatrina |
+
+Verificadas con `render.py` sobre la hoja 146; no son suciedad de la capa de
+texto. **No se escriben reactivos sobre esos dos puntos.**
+
+## Repeticiones del propio libro
+
+El **recuadro 5-3** (p. 98, "La tonicidad de las células") repite casi palabra
+por palabra la parte de tonicidad del **recuadro 5-2** (p. 97), con una sola
+diferencia: en la p. 97 la tonicidad la determina "la concentración de solutos
+presentes en la solución del medio que rodea a la célula", y en la p. 98 "la
+concentración de solutos presentes en la solución **que no pueden atravesar la
+membrana**, en relación con la concentración de esos mismos solutos dentro de la
+célula". Los reactivos de tonicidad (76–79) se escribieron con la redacción de la
+p. 97; de la p. 98 sólo se tomó la figura, para no duplicar.
 
 ## Criterio: teoría sobre práctica
 
@@ -1483,4 +1514,245 @@ Las células de los animales multicelulares, en cambio, mantienen una concentrac
 
 ---
 
-**Reactivos en este archivo:** 82
+## Sub-lote 27 · El movimiento de agua en la célula vegetal (recuadro 5-3, p. 98)
+
+### 83
+
+De acuerdo con el libro de Biología, en una célula vegetal turgente, ¿cómo es el fluido extracelular y qué provoca?
+
+- A. Es hipotónico, por lo cual hay un ingreso neto de agua a la célula que genera un aumento de la presión intracelular
+- B. Es hipertónico, por lo cual hay una salida neta de agua de la célula
+- C. Es isotónico, por lo cual no hay flujo neto de agua en ningún sentido
+- D. Es hiperosmótico, por lo cual la pared celular se desprende de la membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · turgencia
+
+En una célula vegetal turgente, el fluido extracelular es hipotónico, por lo cual hay un ingreso neto de agua a la célula que genera un aumento de la presión intracelular.
+
+> El recuadro 5-3 de la página 98 repite casi palabra por palabra la parte de
+> tonicidad del recuadro 5-2 (p. 97), que ya está cubierta en los reactivos 76 a
+> 79. Lo único nuevo de la página 98 es esta figura de la célula vegetal.
+
+---
+
+## Sub-lote 28 · Transporte pasivo y transporte activo (p. 98)
+
+### 84
+
+De conformidad con el libro de Biología, ¿de qué tipo de transporte se trata cuando el pasaje de sustancias de un lado de la membrana a otro ocurre de manera espontánea y sin gasto de energía?
+
+- A. De un transporte pasivo
+- B. De un transporte activo
+- C. De la endocitosis
+- D. De la exocitosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+Como hemos visto, cuando el pasaje de sustancias de un lado de la membrana a otro ocurre de manera espontánea y se realiza sin gasto de energía, se trata de un tipo de transporte pasivo.
+
+### 85
+
+En relación con el libro de Biología, ¿de qué tipo de transporte se trata cuando los movimientos de sustancias no ocurren en forma espontánea, sino que requieren un aporte externo de energía?
+
+- A. De un transporte activo
+- B. De un transporte pasivo
+- C. De la difusión simple
+- D. De la ósmosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+Cuando los movimientos de sustancias no ocurren en forma espontánea, sino que requieren un aporte externo de energía, se trata de un transporte activo.
+
+> El par que define todo el tema: **espontáneo y sin gasto** = pasivo; **no
+> espontáneo y con aporte externo de energía** = activo. Cada uno es el
+> distractor del otro.
+
+### 86
+
+De acuerdo con el libro de Biología, ¿con qué se compara el funcionamiento de los sistemas de transporte activo, desde un punto de vista energético?
+
+- A. Con las bombas hidráulicas que elevan agua hacia tanques ubicados a grandes alturas, a expensas del aporte de energía externa
+- B. Con un filtro que deja pasar sólo las partículas más pequeñas
+- C. Con un imán que atrae las partículas de carga contraria
+- D. Con una esponja que absorbe agua por capilaridad
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+Desde un punto de vista energético, se puede hacer una analogía entre el funcionamiento de los sistemas de transporte activo y el de las bombas hidráulicas que elevan agua hacia tanques ubicados a grandes alturas, a expensas del aporte de energía externa.
+
+### 87
+
+De conformidad con el libro de Biología, ¿cómo se denomina a las proteínas que transportan sustancias en forma activa?
+
+- A. Bombas
+- B. Canales
+- C. Poros
+- D. Acuaporinas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+Esta analogía se ha llevado un extremo tal de denominar bombas a las proteínas que transportan sustancias en forma activa.
+
+> Ojo con confundir los tres nombres de proteína que ya salieron en el capítulo:
+> **canales** y **poros** dejan pasar sin gasto (pasivo); las **bombas** empujan
+> en contra del gradiente y por eso necesitan energía.
+
+---
+
+## Sub-lote 29 · El ciclo de la proteína que actúa como bomba (fig. 5-10, p. 98)
+
+### 88
+
+En relación con el libro de Biología, ¿qué poseen las proteínas integrales que cumplen un papel fundamental en el transporte?
+
+- A. Sitios de unión específicos que tienen alta afinidad por el soluto que se ha de transportar
+- B. Un canal permanentemente abierto al paso del agua
+- C. Una cadena de hidratos de carbono en su cara citoplasmática
+- D. Una cola hidrófoba que sobresale de la bicapa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+Las proteínas integrales de la membrana cumplen un papel fundamental en el transporte. Estas proteínas poseen sitios de unión específicos que tienen alta afinidad por el soluto que se ha de transportar.
+
+### 89
+
+De acuerdo con el libro de Biología, en el primer paso del transporte activo, ¿qué forma la proteína que actúa como bomba al unirse al soluto?
+
+- A. Un complejo proteína-soluto
+- B. Un poro acuoso permanente
+- C. Una vesícula intracelular
+- D. Un enlace covalente con el ATP
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+En un primer paso, la proteína que actúa como bomba se une al soluto y forma un complejo proteína-soluto.
+
+### 90
+
+De conformidad con el libro de Biología, ¿en qué compartimento se forma el complejo proteína-soluto?
+
+- A. En el compartimento donde la concentración del soluto es menor
+- B. En el compartimento donde la concentración del soluto es mayor
+- C. En el compartimento donde las dos concentraciones son iguales
+- D. Siempre en el medio extracelular, cualquiera que sea la concentración
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+Esto ocurre en el compartimento donde la concentración del soluto es menor.
+
+### 91
+
+En relación con el libro de Biología, una vez producida la unión con el soluto, ¿de qué depende el cambio de conformación de la proteína?
+
+- A. Del suministro de energía
+- B. De la temperatura del medio extracelular
+- C. Del grosor de la bicapa lipídica
+- D. De la carga eléctrica del glucocálix
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+Una vez producida la unión, tiene lugar un cambio de conformación en la proteína, que depende del suministro de energía.
+
+### 92
+
+De acuerdo con el libro de Biología, ¿por qué la proteína libera el soluto al medio después del cambio de conformación?
+
+- A. Porque la nueva conformación posee una afinidad mucho menor por el soluto
+- B. Porque la nueva conformación posee una afinidad mucho mayor por el soluto
+- C. Porque la proteína se rompe y deja escapar su contenido
+- D. Porque el soluto se disuelve en la bicapa lipídica
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+La nueva conformación posee una afinidad mucho menor por el soluto, razón por la cual lo libera al medio.
+
+### 93
+
+De conformidad con el libro de Biología, ¿qué ocurre finalmente con la proteína después de liberar el soluto?
+
+- A. Retoma su conformación inicial y queda en condiciones de iniciar un nuevo ciclo de reacción
+- B. Queda fija en la nueva conformación y ya no vuelve a transportar
+- C. Se desprende de la membrana hacia el citoplasma
+- D. Es degradada en los lisosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+Finalmente, la proteína retoma su conformación inicial y queda en condiciones de iniciar un nuevo ciclo de reacción.
+
+### 94
+
+En relación con el libro de Biología, ¿cuál es el resultado del proceso de transporte activo?
+
+- A. Un transporte neto de sustancias desde el compartimento de menor concentración hacia el de mayor concentración
+- B. Un transporte neto de sustancias desde el compartimento de mayor concentración hacia el de menor concentración
+- C. La igualación de las concentraciones a ambos lados de la membrana
+- D. La formación de una vesícula que envuelve al soluto
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+El resultado de este proceso es un transporte neto de sustancias desde el compartimento de menor concentración hacia el de mayor concentración.
+
+> Aquí se ve por qué hace falta energía: el soluto entra por donde hay **menos**
+> y sale por donde hay **más**, o sea justo al revés de la difusión.
+
+---
+
+## Sub-lote 30 · La energía del transporte activo (p. 98)
+
+### 95
+
+De acuerdo con el libro de Biología, ¿de dónde aprovechan la energía la mayoría de las proteínas transportadoras?
+
+- A. De la energía química contenida en los enlaces químicos de moléculas, como el ATP
+- B. De la energía luminosa captada por los cloroplastos
+- C. Del gradiente de temperatura entre la célula y el medio
+- D. Del movimiento al azar de las moléculas de agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+La mayoría de las proteínas transportadoras aprovechan la energía química contenida en los enlaces químicos de moléculas, como el ATP.
+
+### 96
+
+De conformidad con el libro de Biología, ¿qué constituye el ATP para los seres vivos?
+
+- A. La principal forma de almacenamiento e intercambio de energía
+- B. El principal componente estructural de la membrana
+- C. El principal transportador de oxígeno de la sangre
+- D. La molécula que forma el glucocálix
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 98
+**Subtema:** Membrana plasmática · transporte activo
+
+El ATP constituye la principal forma de almacenamiento e intercambio de energía de los seres vivos.
+
+---
+
+**Reactivos en este archivo:** 96
