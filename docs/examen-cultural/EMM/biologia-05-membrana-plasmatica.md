@@ -84,18 +84,23 @@ de las páginas 87–88 y 102 (ver "Pendiente", abajo).
   ejemplo del árbol (fotosíntesis y respiración). Va en el **sub-lote 39**,
   fuera del orden de páginas, para no renumerar los 131 reactivos anteriores.
 
-**Pendiente del capítulo 5:**
+**Pendiente:** del capítulo 5, sólo el apartado "Biología en contexto social · La
+nicotina y sus cómplices" (pp. 87–88) y su cierre "Retomando la problemática
+inicial" (p. 102) — a la espera de que Carlo decida si entra. De la materia,
+los capítulos 7, 8, 11, 12, 31, 32, 35, 36 y 37.
 
-- El apartado **"Biología en contexto social · La nicotina y sus cómplices"**
-  (pp. 87–88) y su cierre **"Retomando la problemática inicial"** (p. 102).
-  **Decisión pendiente de Carlo**, porque el capítulo 4 dejó fuera su apartado
-  equivalente por no ser recuerdo literal. Aquí el caso no es idéntico: buena
-  parte de estas páginas sí son datos duros de biología (el pH pulmonar, los
-  tejidos con mayor afinidad por la nicotina, la composición del cigarrillo, el
-  número de componentes del humo), y el tema —qué atraviesa una membrana y por
-  qué— es justo el del capítulo.
+> **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
+> `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
+> en blanco. Si se parte en varias líneas con viñetas, o se le cambia el nombre,
+> `ESTADO.md` da el archivo por **no declarado** y cuenta la materia como
+> cerrada. Ya pasó el 22 jul 2026.
 
-**Pendiente de la materia:** los capítulos 7, 8, 11, 12, 31, 32, 35, 36 y 37.
+**Por qué está pendiente ese apartado.** El capítulo 4 dejó fuera su equivalente
+("Retomando la problemática inicial") por no ser recuerdo literal. Aquí el caso
+no es idéntico: buena parte de estas páginas sí son datos duros de biología —el
+pH pulmonar (7,4), los tejidos con mayor afinidad por la nicotina, la composición
+del cigarrillo, el número de componentes del humo—, y el tema, qué atraviesa una
+membrana y por qué, es justo el del capítulo.
 
 **No se cubre:** las "Situaciones problemáticas" de la p. 102 son ejercicios de
 resolución, no teoría (criterio de abajo).
