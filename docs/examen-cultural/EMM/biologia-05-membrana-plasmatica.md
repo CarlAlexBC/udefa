@@ -36,8 +36,7 @@ hojas 133 y 134: la portadilla del capítulo 5 está en la hoja 133.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **88 a 101**. Queda fuera sólo el apartado social
-de las páginas 87–88 y 102 (ver "Pendiente", abajo).
+**Capítulo cerrado.** Cubiertas las páginas impresas **87 a 102** completas.
 
 - La historia del modelo de membrana: Langmuir, Gorter y Grendel (la bicapa),
   Cole y Danielli (las proteínas), Robertson (el modelo trilaminar).
@@ -83,11 +82,18 @@ de las páginas 87–88 y 102 (ver "Pendiente", abajo).
   el sistema en estudio, el ambiente de la célula, los sistemas abiertos y el
   ejemplo del árbol (fotosíntesis y respiración). Va en el **sub-lote 39**,
   fuera del orden de páginas, para no renumerar los 131 reactivos anteriores.
+- De "Biología en contexto social · La nicotina y sus cómplices" (pp. 87, 88 y
+  102), **sólo los datos de biología**: qué es la nicotina, cómo el pH del medio
+  le permite o le impide cruzar una membrana, dónde se absorbe según el tipo de
+  tabaco, los tejidos con mayor afinidad, la composición del cigarrillo, los
+  aditivos, los componentes del humo y el alquitrán. **Sub-lote 40**, también
+  fuera del orden de páginas.
 
-**Pendiente:** del capítulo 5, sólo el apartado "Biología en contexto social · La
-nicotina y sus cómplices" (pp. 87–88) y su cierre "Retomando la problemática
-inicial" (p. 102) — a la espera de que Carlo decida si entra. De la materia,
-los capítulos 7, 8, 11, 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 5, nada — quedó cerrado el 22 jul 2026 en 157
+reactivos. De la materia siguen sin empezar los capítulos 7, 8, 11, 12, 31, 32,
+35, 36 y 37; el próximo es el 7. Este archivo sostiene la declaración de lo que
+falta hasta que exista el `.md` del capítulo 7, para que Biología no aparezca
+como cerrada en `ESTADO.md` teniendo nueve capítulos por escribir.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
@@ -95,15 +101,15 @@ los capítulos 7, 8, 11, 12, 31, 32, 35, 36 y 37.
 > `ESTADO.md` da el archivo por **no declarado** y cuenta la materia como
 > cerrada. Ya pasó el 22 jul 2026.
 
-**Por qué está pendiente ese apartado.** El capítulo 4 dejó fuera su equivalente
-("Retomando la problemática inicial") por no ser recuerdo literal. Aquí el caso
-no es idéntico: buena parte de estas páginas sí son datos duros de biología —el
-pH pulmonar (7,4), los tejidos con mayor afinidad por la nicotina, la composición
-del cigarrillo, el número de componentes del humo—, y el tema, qué atraviesa una
-membrana y por qué, es justo el del capítulo.
+**No se cubre**, por decisión de Carlo del 22 jul 2026:
 
-**No se cubre:** las "Situaciones problemáticas" de la p. 102 son ejercicios de
-resolución, no teoría (criterio de abajo).
+- La **parte histórica y de la industria** del apartado "La nicotina y sus
+  cómplices": Nixon y la prohibición de anuncios de 1970, el informe *Report on
+  Smoking and Health*, Philip Morris, los médicos financiados. No es recuerdo
+  literal de biología. Del apartado sí entraron los datos de química y
+  fisiología — están en el sub-lote 40.
+- Las **"Situaciones problemáticas"** de la p. 102: son ejercicios de
+  resolución, no teoría (criterio de abajo).
 
 ## Erratas del libro · capítulo 5
 
@@ -2540,4 +2546,273 @@ Estos intercambios permiten mantener la estabilidad del ser vivo a través del t
 
 ---
 
-**Reactivos en este archivo:** 141
+## Sub-lote 40 · La nicotina y las membranas (pp. 87, 88 y 102)
+
+> **Sólo los datos de biología** — decisión de Carlo del 22 jul 2026. De este
+> apartado entra lo que es química y fisiología: qué es la nicotina, cómo el pH
+> le permite o le impide cruzar una membrana, dónde se absorbe y qué contiene el
+> humo. **Queda fuera toda la parte histórica y de la industria** (Nixon y la
+> prohibición de 1970, el informe *Report on Smoking and Health*, Philip Morris,
+> los médicos financiados), que no es recuerdo literal de biología. Mismo
+> espíritu con que el capítulo 4 dejó fuera su apartado equivalente, pero aquí el
+> tema —qué atraviesa una membrana y por qué— es justo el del capítulo.
+>
+> También fuera del orden de páginas, por lo mismo que el sub-lote 39.
+
+### 142
+
+En relación con el libro de Biología, ¿qué es la nicotina?
+
+- A. Un alcaloide derivado de la planta de tabaco
+- B. Una proteína integral de la membrana
+- C. Un fosfolípido de origen vegetal
+- D. Un hidrato de carbono del glucocálix
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 87
+**Subtema:** Membrana plasmática · la nicotina
+
+Los cigarrillos a base de nicotina, un alcaloide derivado de la planta de tabaco.
+
+### 143
+
+De acuerdo con el libro de Biología, ¿qué particularidad tiene la nicotina entre los alcaloides naturales?
+
+- A. Es uno de los pocos alcaloides naturales liposolubles que es líquido
+- B. Es el único alcaloide natural que es un gas a temperatura ambiente
+- C. Es el único alcaloide natural insoluble en lípidos
+- D. Es el alcaloide natural de mayor peso molecular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 102
+**Subtema:** Membrana plasmática · la nicotina
+
+La nicotina es uno de los pocos alcaloides naturales liposolubles que es líquido.
+
+### 144
+
+De conformidad con el libro de Biología, ¿de qué depende el pasaje de la nicotina a través de las membranas?
+
+- A. Del pH del medio
+- B. De la temperatura del medio
+- C. Del grosor de la membrana
+- D. Del número de acuaporinas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · la nicotina
+
+Hoy se sabe que la nicotina atraviesa fácilmente las membranas biológicas. El pasaje a través de las membranas depende del pH del medio.
+
+### 145
+
+En relación con el libro de Biología, ¿qué le ocurre a la nicotina cuando el medio es ácido?
+
+- A. Tiende a estar ionizada y, en consecuencia, presenta dificultad para atravesar las membranas biológicas
+- B. Tiende a estar en su forma no ionizada y atraviesa con facilidad las membranas
+- C. Se descompone y pierde su actividad
+- D. Se une a los receptores de la cara externa de la membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 102
+**Subtema:** Membrana plasmática · la nicotina
+
+Cuando el medio es ácido, la nicotina tiende a estar ionizada y, en consecuencia, presenta dificultad para atravesar las membranas biológicas.
+
+### 146
+
+De acuerdo con el libro de Biología, ¿qué le ocurre a la nicotina cuando el medio es básico?
+
+- A. Tiende a estar en su forma no ionizada y, dada su liposolubilidad, atraviesa con facilidad las membranas biológicas
+- B. Tiende a estar ionizada y presenta dificultad para atravesar las membranas
+- C. Precipita y queda retenida fuera de la célula
+- D. Necesita una proteína transportadora para cruzar
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 102
+**Subtema:** Membrana plasmática · la nicotina
+
+Por el contrario, cuando el medio es básico, tiende a estar en su forma no ionizada; por lo tanto, dada su liposolubilidad, atraviesa con facilidad las membranas biológicas.
+
+> El par que hay que tener clarísimo, porque explica todo lo demás: en medio
+> **ácido** la nicotina se **ioniza** y le **cuesta** cruzar; en medio **básico**
+> queda **sin ionizar** y **cruza fácil**. Enlaza con el sub-lote 19: lo que no
+> tiene carga pasa por los fosfolípidos.
+
+### 147
+
+De conformidad con el libro de Biología, ¿por qué la nicotina atraviesa en forma rápida las membranas pulmonares?
+
+- A. Por la amplia área que presentan los alvéolos, favorecida por el pH pulmonar
+- B. Por el escaso grosor de la pared de los bronquios
+- C. Por la gran cantidad de bombas de sodio del pulmón
+- D. Por la acidez del humo inhalado
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · la nicotina
+
+La nicotina atraviesa las membranas pulmonares en forma rápida, por la amplia área que presentan los alvéolos, favorecida por el pH pulmonar (7,4).
+
+### 148
+
+En relación con el libro de Biología, ¿cuál es el pH pulmonar?
+
+- A. 7,4
+- B. 5,4
+- C. 8,4
+- D. 6,0
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · la nicotina
+
+La nicotina atraviesa las membranas pulmonares en forma rápida, por la amplia área que presentan los alvéolos, favorecida por el pH pulmonar (7,4).
+
+### 149
+
+De acuerdo con el libro de Biología, ¿a dónde entra la nicotina luego de su absorción?
+
+- A. En el torrente sanguíneo
+- B. En el aparato digestivo
+- C. En los lisosomas de las células pulmonares
+- D. En el líquido cefalorraquídeo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · la nicotina
+
+Luego de su absorción, entra en el torrente sanguíneo.
+
+### 150
+
+De conformidad con el libro de Biología, ¿cuáles son los tejidos que tienen mayor afinidad por la nicotina, según estudios animales?
+
+- A. El riñón, el hígado, el pulmón, el cerebro y el corazón
+- B. La piel, el músculo, el hueso, el cartílago y la sangre
+- C. El estómago, el intestino, el páncreas, el bazo y la vejiga
+- D. El ojo, el oído, la lengua, la nariz y la piel
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · la nicotina
+
+Muchas evidencias provenientes de estudios animales muestran que los tejidos que tienen mayor afinidad por la nicotina son: el riñón, el hígado, el pulmón, el cerebro y el corazón.
+
+### 151
+
+En relación con el libro de Biología, ¿por qué en los cigarros puros y en el tabaco de pipa la nicotina se absorbe por la cavidad orofaríngea, sin necesidad de tragar el humo?
+
+- A. Porque son de carácter alcalino
+- B. Porque son de carácter ácido
+- C. Porque su humo es más frío
+- D. Porque contienen menos nicotina
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 102
+**Subtema:** Membrana plasmática · la nicotina
+
+En los cigarros puros y en el tabaco de pipa, que son de carácter alcalino, generalmente la nicotina se absorbe por la cavidad orofaríngea sin necesidad de que el humo sea tragado.
+
+### 152
+
+De acuerdo con el libro de Biología, ¿por qué el humo de los cigarrillos tiene que ser inhalado?
+
+- A. Porque es más ácido, y la nicotina se absorbe sobre todo en el pulmón, por su pH más alcalino
+- B. Porque es más alcalino, y la nicotina se absorbe en la cavidad orofaríngea
+- C. Porque contiene menos nicotina que el de los cigarros puros
+- D. Porque el humo del cigarrillo no atraviesa las mucosas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 102
+**Subtema:** Membrana plasmática · la nicotina
+
+En cambio, el humo de los cigarrillos, que es más ácido, tiene que ser inhalado, mientras que la nicotina se absorbe, sobre todo en el pulmón, por su pH más alcalino.
+
+> Aquí se ve la regla del pH aplicada: el **puro y la pipa** son **alcalinos** y
+> la nicotina entra por la **boca**; el **cigarrillo** es **ácido** y hay que
+> **inhalarlo** para que entre por el pulmón, que sí es alcalino. Cada uno es el
+> distractor del otro.
+
+### 153
+
+De conformidad con el libro de Biología, ¿cómo se estima que está compuesto un cigarrillo, conforme al proceso industrial que atraviesa?
+
+- A. El 50% por hojas de tabaco, el 30% por tabaco reconstituido y el 20% por tabaco expandido con dióxido de carbono
+- B. El 50% por tabaco reconstituido, el 30% por hojas de tabaco y el 20% por tabaco expandido con dióxido de carbono
+- C. El 70% por hojas de tabaco, el 20% por tabaco reconstituido y el 10% por tabaco expandido con dióxido de carbono
+- D. El 30% por hojas de tabaco, el 30% por tabaco reconstituido y el 40% por tabaco expandido con dióxido de carbono
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · la nicotina
+
+Conforme al proceso industrial que atraviesa, se estima que el 50% de un cigarrillo está compuesto por hojas de tabaco, el 30% por tabaco reconstituido y el 20% por tabaco expandido con dióxido de carbono.
+
+### 154
+
+En relación con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿cuánta nicotina tiene un cigarrillo promedio?
+
+- A. 1 gramo
+- B. 1 miligramo
+- C. 10 gramos
+- D. 100 miligramos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · la nicotina
+
+Un cigarrillo promedio tiene 1 gramo de nicotina.
+
+### 155
+
+De acuerdo con el libro de Biología, ¿qué efecto tiene el amoníaco que se agrega al tabaco reconstituido?
+
+- A. Aumenta la liberación de la nicotina
+- B. Suaviza la aspereza del tabaco
+- C. Reduce la cantidad de nicotina del cigarrillo
+- D. Impide la formación de alquitrán
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · la nicotina
+
+Se le agregan aditivos para manipular el contenido de nicotina (p. ej., agregando amoníaco, sustancia que aumenta la liberación de la nicotina) y suavizar la aspereza del tabaco (p. ej., agregando azúcar, chocolate, miel, regaliz, mentol, etc.).
+
+> El distractor B es el otro grupo de aditivos que nombra el mismo paréntesis:
+> el **amoníaco** libera más nicotina; el **azúcar, el chocolate, la miel, el
+> regaliz y el mentol** son los que suavizan la aspereza.
+
+### 156
+
+De conformidad con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿cuántos componentes se estima que contiene el humo de tabaco y cuántos producen cáncer?
+
+- A. Unos 7000 componentes, de los cuales casi 70 son sustancias que producen cáncer
+- B. Unos 700 componentes, de los cuales casi 7 son sustancias que producen cáncer
+- C. Unos 70 000 componentes, de los cuales casi 700 son sustancias que producen cáncer
+- D. Unos 7000 componentes, de los cuales casi 700 son sustancias que producen cáncer
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · la nicotina
+
+A su vez, se estima que el humo de tabaco contiene unos 7000 componentes, de los cuales casi 70 son sustancias que producen cáncer.
+
+### 157
+
+En relación con el libro de Biología, ¿qué es el alquitrán y qué efecto tiene en el pulmón?
+
+- A. Un residuo negro y pegajoso cuyos restos quedan depositados en el pulmón, obstruyendo los bronquios y afectando la respiración
+- B. Un gas incoloro que se disuelve en la sangre y llega al cerebro
+- C. Un alcaloide líquido que atraviesa con facilidad las membranas
+- D. Un metal tóxico que se acumula en el riñón y el hígado
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · la nicotina
+
+Por su parte, el alquitrán es un residuo negro y pegajoso que contiene miles de sustancias químicas que se desprenden en el humo del cigarrillo y sus restos quedan depositados en el pulmón, obstruyendo los bronquios y afectando la respiración.
+
+---
+
+**Reactivos en este archivo:** 157
