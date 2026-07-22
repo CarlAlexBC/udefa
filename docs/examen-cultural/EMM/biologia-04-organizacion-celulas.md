@@ -30,7 +30,7 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63 y 66 a 73** (RE y vacuolas incluidos):
+Cubiertas las páginas impresas **61 a 63 y 66 a 75**:
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -54,6 +54,9 @@ Cubiertas las páginas impresas **61 a 63 y 66 a 73** (RE y vacuolas incluidos):
   endomembranas; las vacuolas y la fagocitosis; el retículo endoplasmático.
 - Los dos compartimentos del RE y sus dos tipos (rugoso y liso); las vesículas y
   las vacuolas, su tamaño, su fusión y sus funciones.
+- Los ribosomas del RER y la síntesis de proteínas (insulina/páncreas); el
+  complejo de Golgi y la glucosilación; los lisosomas (primarios y secundarios);
+  y las funciones del REL (lípidos, desintoxicación, esteroides).
 
 **Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
 4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
@@ -1659,4 +1662,253 @@ Las vacuolas mantienen la turgencia celular y también pueden almacenar de maner
 
 ---
 
-**Reactivos en este archivo:** 94
+## Sub-lote 24 · Los ribosomas del RER y la síntesis de proteínas (p. 74)
+
+### 95
+
+De acuerdo con el libro de Biología, ¿a qué se debe la apariencia rugosa del retículo endoplasmático rugoso?
+
+- A. A que posee ribosomas adheridos a su membrana
+- B. A que carece por completo de membrana
+- C. A que está lleno de enzimas digestivas
+- D. A que su membrana está plegada en crestas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 74
+**Subtema:** Organización de las células · ribosomas y RER
+
+La apariencia rugosa del RER se debe a que posee ribosomas adheridos a su membrana.
+
+### 96
+
+De conformidad con el libro de Biología, ¿qué se sintetiza en los ribosomas adheridos a la membrana del retículo endoplasmático granular?
+
+- A. Las proteínas que serán transportadas, ya sea para integrar la membrana celular o para ser exportadas
+- B. Los lípidos que forman la bicapa de la membrana
+- C. Los hidratos de carbono de la pared celular
+- D. El ADN que porta la información hereditaria
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 74
+**Subtema:** Organización de las células · ribosomas y RER
+
+En los ribosomas que están adheridos a la membrana del REG se sintetizan las proteínas que serán transportadas, ya sea para integrar parte de la membrana celular o para ser exportadas.
+
+### 97
+
+En relación con el libro de Biología, ¿qué ejemplo de hormona proteica sintetizada en el RER da el libro, y qué órgano la secreta?
+
+- A. La insulina, secretada por el páncreas
+- B. La adrenalina, secretada por las glándulas suprarrenales
+- C. La testosterona, secretada por las gónadas
+- D. La tiroxina, secretada por la tiroides
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 74
+**Subtema:** Organización de las células · ribosomas y RER
+
+Por ejemplo, la insulina, una hormona proteica secretada por el páncreas, es sintetizada en el RER. Así, esta estructura se encuentra muy desarrollada en las células pancreáticas.
+
+---
+
+## Sub-lote 25 · El complejo de Golgi (p. 75)
+
+### 98
+
+De acuerdo con el libro de Biología, ¿qué ejemplo de procesamiento de proteínas ocurre en el complejo de Golgi?
+
+- A. El agregado de azúcares (glucosilación) a las proteínas
+- B. La duplicación del ADN
+- C. La degradación de las proteínas en aminoácidos
+- D. La síntesis de nuevas proteínas a partir de ribosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · complejo de Golgi
+
+Como ejemplo el agregado de azúcares (glucosilación) a las proteínas.
+
+### 99
+
+De conformidad con el libro de Biología, ¿hacia qué tres destinos viajan las proteínas glucosiladas que salen del complejo de Golgi en vesículas de transporte?
+
+- A. A otros compartimentos del sistema de endomembranas, a la superficie de la célula, y al exterior de la célula
+- B. Únicamente al núcleo celular
+- C. Únicamente a las mitocondrias
+- D. Al citoesqueleto, a la pared celular y a la matriz nuclear
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · complejo de Golgi
+
+Las proteínas glucosiladas salen de él y viajan en vesículas de transporte que se dirigen a: otros compartimentos del sistema de endomembranas (lisosomas y otras organelas), la superficie de la célula donde formarán parte de la membrana plasmática y el exterior de la célula (exportación).
+
+### 100
+
+En relación con el libro de Biología, en las células vegetales, ¿qué otra función cumple el complejo de Golgi?
+
+- A. Sintetiza y reúne algunos de los componentes de las paredes celulares, que exporta a la superficie de la célula
+- B. Almacena el material genético de la célula
+- C. Realiza la fotosíntesis
+- D. Produce la energía a partir de la glucosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · complejo de Golgi
+
+En las células vegetales, el complejo de Golgi también sintetiza y reúne algunos de los componentes de las paredes celulares, a los que exporta a la superficie de la célula donde son ensamblados.
+
+---
+
+## Sub-lote 26 · Los lisosomas (p. 75)
+
+### 101
+
+De acuerdo con el libro de Biología, ¿qué son los lisosomas y dónde se forman?
+
+- A. Un tipo especial de vesículas con función digestiva que se forman en el complejo de Golgi
+- B. Organelas fotosintéticas que se forman en el núcleo
+- C. Vesículas de transporte que se forman en la membrana plasmática
+- D. Filamentos proteicos que se forman en el citoesqueleto
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · lisosomas
+
+Los lisosomas son un tipo especial de vesículas con función digestiva que se forman en el complejo de Golgi.
+
+### 102
+
+De conformidad con el libro de Biología, ¿qué contienen los lisosomas en su interior y dónde se sintetizan?
+
+- A. Enzimas hidrolíticas sintetizadas en el RER, que degradan proteínas, polisacáridos, ácidos nucleicos y lípidos
+- B. Clorofila sintetizada en los cloroplastos
+- C. Hormonas proteicas sintetizadas en el páncreas
+- D. Ribosomas sintetizados en el nucléolo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · lisosomas
+
+En su interior contienen enzimas hidrolíticas sintetizadas en el RER, que degradan los tipos principales de macromoléculas que se encuentran en una célula viva: proteínas, polisacáridos, ácidos nucleicos y lípidos.
+
+### 103
+
+En relación con el libro de Biología, ¿en qué medio son activas las enzimas de los lisosomas, y cómo se provee?
+
+- A. En el medio ácido del interior del lisosoma, provisto por proteínas de transporte que bombean H⁺ con gasto de energía
+- B. En el medio básico del citosol, provisto por difusión pasiva
+- C. En el medio neutro de la vacuola alimentaria
+- D. En el medio ácido del complejo de Golgi, provisto por los ribosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · lisosomas
+
+Estas enzimas solo son activas en el medio ácido característico del interior del lisosoma. La acidez es provista por las proteínas de transporte de su membrana que bombean H⁺ al interior de la vesícula con gasto de energía.
+
+### 104
+
+De acuerdo con el libro de Biología, ¿cómo se denominan los lisosomas recién formados?
+
+- A. Lisosomas primarios
+- B. Lisosomas secundarios
+- C. Vacuolas alimentarias
+- D. Peroxisomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · lisosomas
+
+Los lisosomas recién formados se denominan lisosomas primarios.
+
+### 105
+
+De conformidad con el libro de Biología, ¿cómo se forma un lisosoma secundario?
+
+- A. Cuando los lisosomas primarios funden sus membranas con las de la vacuola alimentaria
+- B. Cuando dos lisosomas primarios se dividen en cuatro
+- C. Cuando el complejo de Golgi expulsa una vesícula
+- D. Cuando el RER sintetiza nuevas enzimas hidrolíticas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · lisosomas
+
+En los organismos unicelulares que ingieren alimento por fagocitosis, los lisosomas primarios funden sus membranas con las de la vacuola alimentaria, formándose así un lisosoma secundario, en el cual se produce la digestión del alimento por parte de las enzimas hidrolíticas.
+
+> Par que hay que ordenar: el **primario** es el lisosoma recién formado; el
+> **secundario** resulta de fundirse con la vacuola alimentaria, y es donde
+> ocurre la digestión.
+
+### 106
+
+En relación con el libro de Biología, ¿qué células del sistema inmunitario ejemplifican la función de los lisosomas capturando bacterias por fagocitosis?
+
+- A. Los glóbulos blancos
+- B. Los glóbulos rojos
+- C. Las plaquetas
+- D. Las células pancreáticas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · lisosomas
+
+Otro ejemplo de la función de los lisosomas lo aportan los glóbulos blancos. Estas células del sistema inmunitario capturan bacterias por fagocitosis y las envuelven en una vacuola.
+
+---
+
+## Sub-lote 27 · Las funciones del retículo endoplasmático liso (p. 75)
+
+### 107
+
+De acuerdo con el libro de Biología, ¿qué procesos metabólicos ocurren en el retículo endoplasmático liso?
+
+- A. La síntesis de lípidos, el metabolismo de los hidratos de carbono y los procesos de desintoxicación
+- B. La síntesis de proteínas de exportación
+- C. La digestión de macromoléculas por enzimas hidrolíticas
+- D. La duplicación del material genético
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · retículo endoplasmático liso
+
+En el REL ocurren numerosos procesos metabólicos, como las síntesis de lípidos, el metabolismo de los hidratos de carbono y los procesos de desintoxicación por modificación de sustancias tóxicas.
+
+### 108
+
+De conformidad con el libro de Biología, ¿en qué células está muy desarrollado el retículo endoplasmático liso, por su papel en la desintoxicación?
+
+- A. En las células hepáticas
+- B. En las células pancreáticas
+- C. En los glóbulos blancos
+- D. En las células nerviosas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · retículo endoplasmático liso
+
+Los procesos de desintoxicación por modificación de sustancias tóxicas, como por ejemplo las que provienen de los psicofármacos. Esto ocurre especialmente en las células hepáticas, cuyo REL está muy desarrollado.
+
+> Par de "dónde está muy desarrollado cada RE": el **rugoso** en las células
+> **pancreáticas** (fabrican insulina, reactivo 97); el **liso** en las
+> **hepáticas** (desintoxican). Cada tipo se especializa en una célula distinta.
+
+### 109
+
+En relación con el libro de Biología, ¿qué lípidos sintetizados en el retículo endoplasmático liso forman parte de algunas hormonas sexuales, y en qué células presenta por ello un gran desarrollo?
+
+- A. Los esteroides, y presenta gran desarrollo en las células de las gónadas
+- B. Los ácidos grasos, y presenta gran desarrollo en las células hepáticas
+- C. Los fosfolípidos, y presenta gran desarrollo en las células pancreáticas
+- D. Los triglicéridos, y presenta gran desarrollo en los glóbulos blancos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · retículo endoplasmático liso
+
+Entre los lípidos sintetizados en esta organela se encuentran los esteroides que forman parte de algunas hormonas sexuales. Por eso, el REL también presenta un gran desarrollo en las células de las gónadas que producen estas hormonas.
+
+---
+
+**Reactivos en este archivo:** 109
