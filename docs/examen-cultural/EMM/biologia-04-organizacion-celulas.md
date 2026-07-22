@@ -30,7 +30,7 @@ empieza en la página impresa **61** (hoja 107 del PDF).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **61 a 63 y 66 a 75**:
+Cubiertas las páginas impresas **61 a 63 y 66 a 77**:
 
 - Tamaño de las células y por qué no son mucho mayores: la relación
   superficie/volumen.
@@ -57,6 +57,8 @@ Cubiertas las páginas impresas **61 a 63 y 66 a 75**:
 - Los ribosomas del RER y la síntesis de proteínas (insulina/páncreas); el
   complejo de Golgi y la glucosilación; los lisosomas (primarios y secundarios);
   y las funciones del REL (lípidos, desintoxicación, esteroides).
+- Los peroxisomas (enzimas oxidativas, agua oxigenada); las mitocondrias (dos
+  membranas, crestas, matriz, tamaño, fisión binaria y su cromosoma propio).
 
 **Páginas 64–65 sin cuerpo citable.** Son la fig. 4-3 (célula animal), la fig.
 4-4 (célula vegetal) y el cuadro de tipos de microscopio — todo diagrama e
@@ -1911,4 +1913,185 @@ Entre los lípidos sintetizados en esta organela se encuentran los esteroides qu
 
 ---
 
-**Reactivos en este archivo:** 109
+## Sub-lote 28 · Los peroxisomas (pp. 75–76)
+
+### 110
+
+De acuerdo con el libro de Biología, ¿qué son los peroxisomas?
+
+- A. Otro tipo de vesícula relativamente grande presente en la mayoría de las células eucariontes
+- B. Un tipo de mitocondria sin crestas
+- C. Un compartimento del complejo de Golgi
+- D. Una parte de la membrana nuclear
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 75
+**Subtema:** Organización de las células · peroxisomas
+
+Otro tipo de vesícula relativamente grande presente en la mayoría de las células eucariontes son los peroxisomas.
+
+### 111
+
+De conformidad con el libro de Biología, ¿qué tipo de enzimas contienen en general los peroxisomas?
+
+- A. Enzimas oxidativas
+- B. Enzimas hidrolíticas
+- C. Enzimas de glucosilación
+- D. Enzimas de replicación
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 76
+**Subtema:** Organización de las células · peroxisomas
+
+Son vesículas con una sola membrana, en las que se producen diferentes reacciones gracias a las distintas enzimas que contienen; en general, se trata de enzimas oxidativas.
+
+> Par que se cruza: los **peroxisomas** tienen enzimas **oxidativas**; los
+> **lisosomas**, enzimas **hidrolíticas** (reactivo 102). Ambas organelas son
+> vesículas, pero con enzimas de tipo distinto.
+
+### 112
+
+En relación con el libro de Biología, ¿qué libera la degradación de los ácidos grasos en los peroxisomas?
+
+- A. Energía en forma de calor y compuestos que participan en la síntesis de otras sustancias
+- B. Oxígeno y glucosa
+- C. Proteínas de exportación
+- D. Material genético
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 76
+**Subtema:** Organización de las células · peroxisomas
+
+En los peroxisomas, la degradación de los ácidos grasos libera energía en forma de calor y compuestos que participan en la síntesis de otras sustancias.
+
+### 113
+
+De acuerdo con el libro de Biología, ¿qué forma la enzima oxidasa al hacer posible la unión del hidrógeno a los átomos de oxígeno?
+
+- A. El peróxido de hidrógeno, también conocido como agua oxigenada
+- B. El dióxido de carbono
+- C. El agua pura
+- D. El ácido graso
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 76
+**Subtema:** Organización de las células · peroxisomas
+
+En este proceso, la enzima oxidasa hace posible la unión del hidrógeno a los átomos de oxígeno y forma el peróxido de hidrógeno, también conocido como agua oxigenada.
+
+---
+
+## Sub-lote 29 · Las mitocondrias (p. 77)
+
+### 114
+
+De conformidad con el libro de Biología, ¿por cuántas membranas están constituidas las mitocondrias, y cómo son?
+
+- A. Por dos membranas: la externa lisa y la más interna plegada hacia adentro formando crestas
+- B. Por una sola membrana lisa
+- C. Por tres membranas concéntricas
+- D. Por una membrana externa plegada y una interna lisa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · mitocondrias
+
+Las mitocondrias están constituidas por dos membranas: la membrana externa lisa, y la más interna que se encuentra plegada hacia adentro, formando crestas.
+
+### 115
+
+De acuerdo con el libro de Biología, ¿cómo se llaman los pliegues de la membrana interna de la mitocondria, y qué constituyen?
+
+- A. Crestas, que constituyen superficies de trabajo donde ocurren las reacciones asociadas a la respiración
+- B. Matriz, que constituye el espacio interno de la organela
+- C. Tilacoides, que constituyen las superficies fotosintéticas
+- D. Cisternas, que constituyen los canales de transporte
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · mitocondrias
+
+La más interna que se encuentra plegada hacia adentro, formando crestas que constituyen superficies de trabajo en las que ocurren las reacciones químicas asociadas a la respiración.
+
+### 116
+
+En relación con el libro de Biología, ¿qué relación hay entre la actividad de una mitocondria y sus crestas?
+
+- A. Cuanto más activa es una mitocondria, más crestas tiene
+- B. Cuanto más activa es una mitocondria, menos crestas tiene
+- C. El número de crestas no depende de su actividad
+- D. Las mitocondrias activas carecen de crestas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · mitocondrias
+
+Cuanto más activa es una mitocondria, más crestas tiene.
+
+### 117
+
+De conformidad con el libro de Biología, ¿cómo se denomina el espacio interno que delimitan las crestas?
+
+- A. La matriz mitocondrial
+- B. El citosol
+- C. El espacio intercisternal
+- D. La luz mitocondrial
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · mitocondrias
+
+El espacio interno que delimitan las crestas se denomina matriz mitocondrial.
+
+### 118
+
+De acuerdo con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿cuánto miden las mitocondrias?
+
+- A. Alrededor de 1,5 µm de ancho y 2 a 8 µm de longitud
+- B. Alrededor de 5 µm de ancho y 10 a 20 µm de longitud
+- C. Alrededor de 0,5 µm de ancho y 1 µm de longitud
+- D. Alrededor de 15 µm de ancho y 30 µm de longitud
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · mitocondrias
+
+Las mitocondrias miden alrededor de 1,5 µm de ancho y 2 a 8 µm de longitud.
+
+### 119
+
+En relación con el libro de Biología, ¿cómo se reproducen las mitocondrias, como vestigio de su vida como organismos independientes?
+
+- A. Por fisión binaria, al igual que las bacterias
+- B. Por mitosis, al igual que las células eucariontes
+- C. Por gemación a partir del complejo de Golgi
+- D. Por síntesis a partir del RER
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · mitocondrias
+
+Como hemos visto en el capítulo 3, las mitocondrias presentan vestigios de su vida como organismos independientes. Se reproducen por fisión binaria, al igual que las bacterias, y en la matriz poseen un pequeño cromosoma que codifica algunas de sus proteínas y ribosomas similares a los de los organismos procariontes.
+
+> Enlaza con la teoría endosimbiótica del capítulo 3 (reactivos 113–117): la
+> fisión binaria, el cromosoma propio y los ribosomas tipo procarionte son las
+> huellas de que la mitocondria fue una bacteria libre.
+
+### 120
+
+De conformidad con el libro de Biología, ¿dónde se sintetiza el resto de las proteínas de la mitocondria que no codifica su propio cromosoma?
+
+- A. En el RER del citoplasma celular, e ingresan por medio de una señal específica
+- B. En la matriz mitocondrial, por sus propios ribosomas
+- C. En el complejo de Golgi
+- D. En el núcleo celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 77
+**Subtema:** Organización de las células · mitocondrias
+
+El resto de las proteínas que participan en las funciones de la mitocondria se sintetizan en el RER del citoplasma celular y, al igual que sucede con otras organelas, como los cloroplastos y los peroxisomas, ingresan en ellos por medio de una señal específica para cada organela.
+
+---
+
+**Reactivos en este archivo:** 120
