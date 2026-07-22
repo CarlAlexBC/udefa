@@ -50,7 +50,7 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **126 a 139**:
+Cubiertas las páginas impresas **126 a 140**:
 
 - La vida y el flujo de energía del sol; la célula como transformador de energía;
   el metabolismo y el origen griego de la palabra "energía".
@@ -106,11 +106,14 @@ Cubiertas las páginas impresas **126 a 139**:
 - El ajuste inducido paso a paso (figura 7-10, la sacarasa); la regulación
   enzimática y la multimodulación; los efectos de la temperatura (los 10 °C, los
   40 °C, la desnaturalización, las bacterias termófilas) y del pH.
+- Las enzimas del lisosoma y su pH ácido; la curva de la temperatura (figura
+  7-11); y la inhibición enzimática completa: competitiva —con el ejemplo del
+  PABA y la sulfanilamida— y no competitiva, con la cisteína y el plomo.
 
-**Pendiente:** del capítulo 7, las páginas impresas 140 a 144 — los inhibidores,
-la regulación alostérica y lo que siga hasta el cierre del capítulo; queda por
-decidir el apartado "Biología en contexto social" de las páginas 125–126. De la
-materia siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 7, las páginas impresas 141 a 144 — la regulación
+alostérica y lo que siga hasta el cierre del capítulo; queda por decidir el
+apartado "Biología en contexto social" de las páginas 125–126. De la materia
+siguen sin empezar los capítulos 8, 11, 12, 31, 32, 35, 36 y 37.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
@@ -3116,4 +3119,309 @@ La carga neta de cada aminoácido se ve afectada al tomar o ceder protones y est
 
 ---
 
-**Reactivos en este archivo:** 181
+## Sub-lote 38 · El pH y las enzimas del lisosoma (p. 140)
+
+### 182
+
+De conformidad con el libro de Biología, ¿según qué varía la sensibilidad al pH de una enzima?
+
+- A. Según la composición de aminoácidos de la enzima en estudio
+- B. Según el tamaño total de la molécula de enzima
+- C. Según la temperatura del medio en que se encuentre
+- D. Según la cantidad de sustrato disponible
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · pH y actividad enzimática
+
+Como cada enzima diferente tiene una estructura primaria característica que determina su especificidad biológica, la sensibilidad al pH varía según la composición de aminoácidos de la enzima en estudio.
+
+### 183
+
+En relación con el libro de Biología, ¿qué participa en muchos casos en la interacción entre el sitio activo de la enzima y el sustrato?
+
+- A. Grupos con carga neta positiva o negativa, importantes para el reconocimiento enzima-sustrato y para la estabilización de esa unión
+- B. Grupos sin carga alguna, que sólo aportan volumen
+- C. Iones magnesio, que sustituyen al sustrato
+- D. Moléculas de agua que impiden la unión
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · pH y actividad enzimática
+
+En muchos casos, en la interacción entre el sitio activo de la enzima y el sustrato participan grupos con carga neta positiva o negativa que son importantes tanto para el reconocimiento enzima-sustrato como para la estabilización de esa unión.
+
+### 184
+
+De acuerdo con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuántas enzimas hidrolíticas diferentes tiene el interior del lisosoma?
+
+- A. 50
+- B. 5
+- C. 500
+- D. 15
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · pH y actividad enzimática
+
+El interior del lisosoma, por ejemplo, tiene 50 enzimas hidrolíticas diferentes.
+
+### 185
+
+De conformidad con el libro de Biología, ¿qué pH posee el interior del lisosoma?
+
+- A. Un pH de 5,0
+- B. Un pH de 7,4
+- C. Un pH de 9,0
+- D. Un pH de 2,0
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · pH y actividad enzimática
+
+Estas últimas, son un ejemplo de enzimas que actúan en pH ácido, ya que el interior del lisosoma posee en pH de 5,0.
+
+> El distractor B, 7,4, es el pH pulmonar del capítulo 5. Son los dos valores de
+> pH que trae el temario y conviene no cruzarlos.
+
+---
+
+## Sub-lote 39 · La curva de la temperatura (figura 7-11, p. 140)
+
+### 186
+
+En relación con el libro de Biología, ¿a qué temperatura se alcanza la velocidad máxima de reacción en los seres humanos y otros mamíferos?
+
+- A. A alrededor de los 40 °C
+- B. A alrededor de los 37 °C
+- C. A alrededor de los 60 °C
+- D. A alrededor de los 72 °C
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · temperatura y actividad enzimática
+
+En las reacciones enzimáticas que ocurren en los seres humanos (temperatura corporal 37 °C) y otros mamíferos, la velocidad máxima de reacción se alcanza a alrededor de los 40 °C.
+
+> Trampa fina: los **37 °C** son la **temperatura corporal**, pero la velocidad
+> máxima se alcanza a los **40 °C**. El libro da los dos datos en la misma frase
+> y es fácil responder con el primero.
+
+### 187
+
+De acuerdo con el libro de Biología, ¿a qué temperatura aproximada se detiene por completo la reacción, y por qué?
+
+- A. A los 60 °C, a raíz de la desnaturalización de la enzima
+- B. A los 40 °C, a raíz de la desnaturalización de la enzima
+- C. A los 72 °C, a raíz de la falta de sustrato
+- D. A los 37 °C, a raíz del descenso de la energía de activación
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · temperatura y actividad enzimática
+
+Por encima de esta temperatura, la velocidad disminuye y, aproximadamente a los 60 °C, la reacción se detiene por completo, a raíz de la desnaturalización de la enzima.
+
+### 188
+
+De conformidad con el libro de Biología, aunque la forma de la curva sea similar para todas las reacciones enzimáticas, ¿qué varía?
+
+- A. El intervalo de temperaturas en el cual una enzima es activa, según el tipo de organismo y la enzima particular
+- B. La forma de la curva en cada tejido del mismo organismo
+- C. La velocidad máxima, que es siempre distinta para cada sustrato
+- D. Nada; el intervalo es idéntico en todos los organismos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · temperatura y actividad enzimática
+
+Aunque la forma de la curva es similar para todas las reacciones enzimáticas, el intervalo de temperaturas en el cual una enzima es activa varía con el tipo de organismo y con la enzima particular.
+
+---
+
+## Sub-lote 40 · La inhibición enzimática (p. 140)
+
+### 189
+
+En relación con el libro de Biología, ¿qué son los inhibidores enzimáticos?
+
+- A. Sustancias por cuya acción la actividad de una enzima puede estar disminuida o suprimida por completo
+- B. Sustancias que aumentan la actividad de una enzima
+- C. Sustancias que sustituyen a la enzima en la reacción
+- D. Sustancias que aportan la energía de activación que falta
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · inhibición enzimática
+
+La actividad de una enzima puede estar disminuida o suprimida por completo por la acción de diversas sustancias que actúan como inhibidores enzimáticos.
+
+### 190
+
+De acuerdo con el libro de Biología, ¿de qué dos tipos puede ser el proceso de inhibición, que ocurre en forma natural como uno de los patrones normales de la biorregulación?
+
+- A. Reversible, que puede ser competitiva o no competitiva, e irreversible
+- B. Competitiva e irreversible, únicamente
+- C. Natural y artificial
+- D. Alostérica y multimodulada
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · inhibición enzimática
+
+El proceso de inhibición puede ocurrir en forma natural, constituyendo uno de los patrones normales de la biorregulación, y puede ser de dos tipos: reversible (competitiva o no competitiva) e irreversible.
+
+### 191
+
+De conformidad con el libro de Biología, ¿qué capacidad comparten algunos antibióticos y diversos fármacos?
+
+- A. La capacidad de inhibición, por lo que son de gran utilidad para estudiar algunos aspectos de la acción enzimática
+- B. La capacidad de sintetizar nuevas enzimas
+- C. La capacidad de aumentar la temperatura corporal
+- D. La capacidad de sustituir a los cofactores inorgánicos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · inhibición enzimática
+
+Algunos antibióticos y diversos fármacos comparten esta capacidad de inhibición y son de gran utilidad para estudiar algunos aspectos de la acción enzimática.
+
+---
+
+## Sub-lote 41 · La inhibición competitiva (p. 140)
+
+### 192
+
+En relación con el libro de Biología, ¿en qué consiste la inhibición competitiva y por qué recibe ese nombre?
+
+- A. Algunos compuestos ocupan temporalmente el sitio activo de la enzima, dado que el compuesto regulador y el sustrato compiten por la unión a ese sitio
+- B. El compuesto se une a un sitio distinto del sitio activo y desorganiza la estructura de la enzima
+- C. El compuesto destruye la enzima de forma permanente
+- D. El compuesto compite con la enzima por unirse al producto final
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · inhibición competitiva
+
+Algunos compuestos inhiben la actividad enzimática, ocupando temporalmente el sitio activo de la enzima; esta forma de regulación se conoce como inhibición competitiva, dado que el compuesto regulador y el sustrato compiten por la unión al sitio activo.
+
+### 193
+
+De acuerdo con el libro de Biología, ¿de qué depende el resultado de la competencia en la inhibición competitiva, que es completamente reversible?
+
+- A. De cuántas moléculas de cada tipo estén presentes
+- B. De la temperatura del medio, únicamente
+- C. Del tamaño del sitio activo de la enzima
+- D. De la cantidad de producto final ya formado
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · inhibición competitiva
+
+La inhibición competitiva es completamente reversible; el resultado de la competencia en cualquier momento, en particular, depende de cuántas moléculas de cada tipo estén presentes.
+
+### 194
+
+De conformidad con el libro de Biología, en la serie de reacciones del ejemplo, ¿qué ocurriría si el producto final F fuera similar en estructura al producto D?
+
+- A. F podría ocupar el sitio activo de la enzima E4, evitando que D, el sustrato normal, se una a la enzima
+- B. F se uniría a D y ambos serían degradados juntos
+- C. F aceleraría la acción de la enzima E4
+- D. F sustituiría a la enzima E4 en la serie de reacciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · inhibición competitiva
+
+El producto final F puede ser similar en estructura al producto D. Entonces, F podría ocupar el sitio activo de la enzima E4, evitando que D, el sustrato normal, se una a la enzima.
+
+### 195
+
+En relación con el libro de Biología, ¿cómo actúa el fármaco sulfanilamida sobre las bacterias?
+
+- A. Tiene una estructura muy semejante a la del ácido paraaminobenzoico y ocupa el sitio activo de la enzima que debe convertirlo en ácido fólico
+- B. Destruye directamente la pared celular de la bacteria
+- C. Impide que la bacteria absorba ácido fólico del medio
+- D. Se une al ADN bacteriano e impide su duplicación
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · inhibición competitiva
+
+El fármaco sulfanilamida tiene una estructura muy semejante a la del PABA y ocupa el sitio activo de la enzima que debe convertir el PABA en ácido fólico.
+
+### 196
+
+De acuerdo con el libro de Biología, ¿por qué la célula animal no sufre daño alguno con ese fármaco, mientras que la bacteria muere?
+
+- A. Porque no sintetiza dicha vitamina, sino que la obtiene de los alimentos
+- B. Porque sintetiza el doble de ácido fólico que la bacteria
+- C. Porque su sitio activo es más grande y el fármaco no encaja
+- D. Porque no necesita ácido fólico para su metabolismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · inhibición competitiva
+
+Sin ácido fólico, la bacteria muere, mientras que la célula animal –que no sintetiza dicha vitamina, sino que la obtiene de los alimentos– no sufre daño alguno.
+
+> El mejor ejemplo del capítulo para un aspirante a médico: así funciona un
+> antibiótico. Ataca una vía metabólica que **la bacteria tiene y nosotros no**,
+> y por eso mata a una sin tocar a la otra.
+
+---
+
+## Sub-lote 42 · La inhibición no competitiva (p. 140)
+
+### 197
+
+De conformidad con el libro de Biología, ¿en qué consiste el mecanismo de inhibición no competitiva?
+
+- A. En la unión del compuesto a un sitio de la enzima distinto del sitio activo, lo que desorganiza su estructura terciaria y la inactiva
+- B. En la unión del compuesto al propio sitio activo, desplazando al sustrato
+- C. En la destrucción de los cofactores inorgánicos de la enzima
+- D. En el bloqueo de los genes que sintetizan la enzima
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · inhibición no competitiva
+
+El mecanismo de inhibición no competitiva consiste en la unión del compuesto a un sitio de la enzima distinto del sitio activo, lo que desorganiza su estructura terciaria y la inactiva.
+
+> El par que define todo el apartado: la **competitiva** se mete **en** el sitio
+> activo y compite con el sustrato; la **no competitiva** se une **en otro sitio**
+> y deforma la enzima. Ni siquiera necesita parecerse al sustrato.
+
+### 198
+
+En relación con el libro de Biología, ¿qué aminoácido con grupo sulfhidrilo contienen muchas enzimas?
+
+- A. La cisteína
+- B. La adenina
+- C. La ribosa
+- D. La nicotinamida
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · inhibición no competitiva
+
+Muchas enzimas contienen, entre sus aminoácidos, a la cisteína, que tiene un grupo sulfhidrilo (SH).
+
+### 199
+
+De acuerdo con el libro de Biología, ¿qué hace el plomo con los grupos sulfhidrilo de las enzimas?
+
+- A. Forma enlaces covalentes con esos grupos
+- B. Forma enlaces iónicos débiles y reversibles con esos grupos
+- C. Sustituye esos grupos por grupos fosfato
+- D. Impide que esos grupos se formen durante la síntesis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 140
+**Subtema:** Metabolismo · inhibición no competitiva
+
+El plomo forma enlaces covalentes con estos grupos.
+
+---
+
+**Reactivos en este archivo:** 199
