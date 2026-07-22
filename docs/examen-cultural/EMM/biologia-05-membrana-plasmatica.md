@@ -36,7 +36,8 @@ hojas 133 y 134: la portadilla del capítulo 5 está en la hoja 133.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **89 a 100**:
+Cubiertas las páginas impresas **88 a 101**. Queda fuera sólo el apartado social
+de las páginas 87–88 y 102 (ver "Pendiente", abajo).
 
 - La historia del modelo de membrana: Langmuir, Gorter y Grendel (la bicapa),
   Cole y Danielli (las proteínas), Robertson (el modelo trilaminar).
@@ -77,11 +78,14 @@ Cubiertas las páginas impresas **89 a 100**:
   (qué se exporta) y la endocitosis mediada por receptor con la clatrina.
 - La fusión de membranas y el párrafo evolutivo que cierra el cuerpo del
   capítulo; los pies de las dos microfotografías de la página 101.
+- La sección **"Los seres vivos y los intercambios de materia y energía"**
+  (p. 88): la caracterización de las interacciones con el medio, qué puede ser
+  el sistema en estudio, el ambiente de la célula, los sistemas abiertos y el
+  ejemplo del árbol (fotosíntesis y respiración). Va en el **sub-lote 39**,
+  fuera del orden de páginas, para no renumerar los 131 reactivos anteriores.
 
 **Pendiente del capítulo 5:**
 
-- La sección de teoría **"Los seres vivos y los intercambios de materia y
-  energía"** (p. 88) — hueco real, se descubrió el 22 jul 2026.
 - El apartado **"Biología en contexto social · La nicotina y sus cómplices"**
   (pp. 87–88) y su cierre **"Retomando la problemática inicial"** (p. 102).
   **Decisión pendiente de Carlo**, porque el capítulo 4 dejó fuera su apartado
@@ -2368,4 +2372,167 @@ Las lipoproteínas transportadas por estas vesículas serán incorporadas a la y
 
 ---
 
-**Reactivos en este archivo:** 131
+## Sub-lote 39 · Los seres vivos y los intercambios de materia y energía (p. 88)
+
+> **Fuera del orden de páginas, a propósito.** Este sub-lote tapa el hueco de la
+> página 88, que se había quedado fuera porque el encabezado daba por empezado el
+> capítulo en la 89. Se añade al final para no renumerar los 131 reactivos
+> anteriores: la numeración del archivo es corrida, no por página.
+
+### 132
+
+De conformidad con el libro de Biología, ¿en qué consiste una de las primeras etapas en el estudio de un sistema físico o biológico?
+
+- A. En la caracterización de las interacciones de ese sistema con el medio
+- B. En la medición del peso total del sistema
+- C. En la clasificación de sus células por tamaño
+- D. En el conteo de las especies que lo forman
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · intercambios de materia y energía
+
+Una de las primeras etapas en el estudio de un sistema físico o biológico consiste en la caracterización de las interacciones de ese sistema con el medio.
+
+### 133
+
+En relación con el libro de Biología, ¿de qué dependen en gran medida las interacciones de un sistema con el medio?
+
+- A. De las propiedades de la superficie que lo envuelve, lo delimita y lo comunica con el entorno
+- B. Del volumen total que ocupa el sistema
+- C. De la temperatura interna del sistema
+- D. Del número de células que lo componen
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · intercambios de materia y energía
+
+Estas interacciones dependen, en gran medida, de las propiedades de la superficie que lo envuelve, lo delimita y lo comunica con el entorno.
+
+### 134
+
+De acuerdo con el libro de Biología, ¿qué puede ser el sistema en estudio en el mundo biológico?
+
+- A. Una célula, una parte de una célula, un conjunto de células definido en forma arbitraria, un órgano, un individuo o una población
+- B. Únicamente una célula completa
+- C. Únicamente un individuo o una población
+- D. Únicamente un órgano o un tejido
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · intercambios de materia y energía
+
+En el mundo biológico, el sistema en estudio puede ser una célula, una parte de una célula, un conjunto de células definido en forma arbitraria, un órgano, un individuo o una población.
+
+### 135
+
+De conformidad con el libro de Biología, ¿cuál es el ambiente de la célula?
+
+- A. Los fluidos que la bañan y, en ocasiones, otras células
+- B. El aire que rodea al organismo completo
+- C. Su propio citoplasma y sus organelas
+- D. La pared celular que la envuelve
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · intercambios de materia y energía
+
+En el caso de la célula, su ambiente son los fluidos que la bañan y, en ocasiones, otras células.
+
+### 136
+
+En relación con el libro de Biología, ¿qué ejemplo da de un sistema que carece de un límite nítidamente demarcado?
+
+- A. Un sistema formado por un conjunto de animales y plantas en cierta región del planeta
+- B. Una célula rodeada por su membrana plasmática
+- C. Un órgano recubierto por su tejido conectivo
+- D. Un individuo delimitado por su piel
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · intercambios de materia y energía
+
+Este tipo de sistema tiene superficies físicas reales que lo separan de su medioambiente, mientras que otros carecen de un límite nítidamente demarcado, por ejemplo, un sistema formado por un conjunto de animales y plantas en cierta región del planeta.
+
+### 137
+
+De acuerdo con el libro de Biología, ¿de qué manera interaccionan con su entorno todos los sistemas biológicos?
+
+- A. A través de intercambios de materia y energía
+- B. Únicamente a través del intercambio de calor
+- C. Únicamente a través de señales químicas
+- D. A través de la reproducción de sus células
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · intercambios de materia y energía
+
+Pese a estas diferencias, todos los sistemas biológicos interaccionan con su entorno, esencialmente de la misma manera, a través de intercambios de materia y energía.
+
+### 138
+
+De conformidad con el libro de Biología, ¿cómo se les llama a los sistemas biológicos por interaccionar con su entorno a través de intercambios de materia y energía?
+
+- A. Sistemas abiertos
+- B. Sistemas cerrados
+- C. Sistemas aislados
+- D. Sistemas trilaminares
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · intercambios de materia y energía
+
+Por esta razón, decimos que los sistemas biológicos son sistemas abiertos.
+
+### 139
+
+En relación con el libro de Biología, ¿qué absorbe y qué libera un árbol durante el proceso de fotosíntesis?
+
+- A. Absorbe CO₂ y luz del ambiente, y libera O₂
+- B. Absorbe O₂ del ambiente, y libera CO₂
+- C. Absorbe O₂ y luz del ambiente, y libera CO₂
+- D. Absorbe CO₂ y calor del ambiente, y libera luz
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · intercambios de materia y energía
+
+Por ejemplo, el árbol representado en la figura 5-1 absorbe CO₂ y luz del ambiente y libera O₂ durante el proceso de fotosíntesis.
+
+### 140
+
+De acuerdo con el libro de Biología, ¿qué absorbe y qué libera un árbol durante el proceso de respiración?
+
+- A. Absorbe O₂ y libera CO₂
+- B. Absorbe CO₂ y libera O₂
+- C. Absorbe CO₂ y luz, y libera O₂
+- D. Absorbe calor y libera agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · intercambios de materia y energía
+
+A la vez, absorbe O₂ y libera CO₂ durante el proceso de respiración.
+
+> El par que se invierte solo: en la **fotosíntesis** entra CO₂ y sale O₂; en la
+> **respiración**, al revés. El mismo árbol hace las dos cosas, y cada respuesta
+> es el distractor de la otra.
+
+### 141
+
+De conformidad con el libro de Biología, ¿qué permiten los intercambios de materia y energía entre el ser vivo y el ambiente?
+
+- A. Mantener la estabilidad del ser vivo a través del tiempo
+- B. Aumentar de manera indefinida el tamaño del ser vivo
+- C. Aislar al ser vivo de su medioambiente
+- D. Detener por completo su metabolismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 88
+**Subtema:** Membrana plasmática · intercambios de materia y energía
+
+Estos intercambios permiten mantener la estabilidad del ser vivo a través del tiempo.
+
+---
+
+**Reactivos en este archivo:** 141
