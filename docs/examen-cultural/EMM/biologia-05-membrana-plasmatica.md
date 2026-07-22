@@ -1345,7 +1345,7 @@ El agua constituye el 70% de la masa corporal de la mayoría de los seres vivos.
 
 ### 75
 
-De conformidad con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿desde qué solución hacia cuál se mueve el agua en la ósmosis, según su concentración?
+De conformidad con el libro de Biología, ¿desde qué solución hacia cuál se mueve el agua en la ósmosis, según su concentración?
 
 - A. Desde la solución más diluida (o hiposmótica) a la que contenga mayor concentración de solutos (o hiperosmótica)
 - B. Desde la solución más concentrada (hiperosmótica) a la más diluida (hiposmótica)
