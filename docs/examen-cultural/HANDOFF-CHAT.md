@@ -68,6 +68,7 @@ Lee el estado aquí, en este orden:
 |---|---|
 | Cuántos reactivos hay y qué falta | `ESTADO.md` en la raíz (**generado**) |
 | Qué páginas exactas faltan de una materia | El encabezado de su `.md`, sección "Cobertura actual" |
+| Qué problemas hay abiertos y cuáles ya se decidieron | `PENDIENTES.md` en esta carpeta |
 
 ```
 node tools/estado-proyecto/generar-estado.js   # regenera ESTADO.md
