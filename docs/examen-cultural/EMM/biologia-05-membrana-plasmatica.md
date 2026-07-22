@@ -65,10 +65,13 @@ Cubiertas las páginas impresas **89 a 100**:
   del sistema, el 30% de la energía del metabolismo en reposo, el antiporte de
   tres Na⁺ por dos K⁺ por ATP, el movimiento neto de carga y su papel en los
   potenciales eléctricos de la membrana (recuadro 5-4 incluido).
+- Los intercambios a través de vesículas: el transporte en masa, la endocitosis
+  (el endosoma, la fagocitosis y los fagosomas, los lisosomas), la exocitosis
+  (qué se exporta) y la endocitosis mediada por receptor con la clatrina.
 
-**Pendiente:** el resto del capítulo 5 — los intercambios a través de vesículas
-(pp. 99–101) y el cierre "La nicotina y sus cómplices" (p. 102) —, y los
-capítulos 7, 8, 11, 12, 31, 32, 35, 36 y 37.
+**Pendiente:** el cierre del capítulo 5 — la fusión de membranas y el párrafo
+evolutivo (p. 100), los pies de las figuras 5-11 y 5-12 (p. 101) y "La nicotina
+y sus cómplices" (p. 102) —, y los capítulos 7, 8, 11, 12, 31, 32, 35, 36 y 37.
 
 **No se cubre:** las "Situaciones problemáticas" de la p. 102 son ejercicios de
 resolución, no teoría (criterio de abajo).
@@ -1959,4 +1962,258 @@ Esta característica tiene particular importancia en la generación de los poten
 
 ---
 
-**Reactivos en este archivo:** 108
+## Sub-lote 33 · El transporte en masa (p. 99)
+
+### 109
+
+En relación con el libro de Biología, ¿qué ocurre con las moléculas grandes, como las proteínas y los polisacáridos, y con otras partículas de gran tamaño?
+
+- A. No pueden atravesar la membrana celular, ni siquiera mediadas por proteínas de transporte
+- B. Atraviesan la membrana por difusión simple, como el oxígeno
+- C. Atraviesan la membrana por los canales iónicos
+- D. Atraviesan la membrana disueltas en la bicapa lipídica
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 99
+**Subtema:** Membrana plasmática · transporte en masa
+
+Las moléculas grandes, como las proteínas y los polisacáridos, así como otras partículas de gran tamaño no pueden atravesar la membrana celular, ni siquiera mediadas por proteínas de transporte.
+
+### 110
+
+De acuerdo con el libro de Biología, ¿de qué dos procesos se trata cuando el transporte a través de la membrana implica la formación de vesículas?
+
+- A. De la endocitosis y la exocitosis
+- B. De la difusión simple y la difusión facilitada
+- C. De la ósmosis y la turgencia
+- D. Del uniporte y el simporte
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 99
+**Subtema:** Membrana plasmática · transporte en masa
+
+En estos casos, el transporte a través de la membrana se produce por procesos completamente diferentes que implican la formación de vesículas. Se trata de la endocitosis y la exocitosis.
+
+### 111
+
+De conformidad con el libro de Biología, ¿qué es la endocitosis?
+
+- A. El proceso por el cual ingresan partículas de gran tamaño en la célula
+- B. El proceso por el cual la célula expulsa partículas al medio extracelular
+- C. El paso de agua a través de una membrana semipermeable
+- D. El transporte de iones en contra de su gradiente de concentración
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 99
+**Subtema:** Membrana plasmática · endocitosis
+
+La endocitosis es el proceso por el cual ingresan partículas de gran tamaño en la célula.
+
+### 112
+
+En relación con el libro de Biología, ¿cómo comienza el proceso de endocitosis en la membrana plasmática?
+
+- A. Una porción de la membrana se repliega y genera una pequeña depresión en su lado externo, que se profundiza rodeando a la sustancia que va a ingresar
+- B. Una proteína integral abre un canal por el que pasa la partícula entera
+- C. La membrana se rompe y vuelve a cerrarse detrás de la partícula
+- D. La partícula se disuelve en las colas hidrófobas de los fosfolípidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 99
+**Subtema:** Membrana plasmática · endocitosis
+
+En este proceso, una porción de la membrana plasmática se repliega y genera una pequeña depresión en su lado externo, que se profundiza rodeando a la sustancia que va a ingresar en la célula, junto con una porción del material del medio extracelular.
+
+---
+
+## Sub-lote 34 · El endosoma y la fagocitosis (p. 100)
+
+### 113
+
+De acuerdo con el libro de Biología, ¿cómo se llama la vesícula intracelular que se forma cuando los extremos libres de la membrana se unen?
+
+- A. Endosoma
+- B. Lisosoma
+- C. Ribosoma
+- D. Cloroplasto
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · endocitosis
+
+A continuación, los extremos libres de la membrana se unen y se forma una vesícula intracelular, llamada endosoma, dentro de la cual se encuentra el material internalizado.
+
+### 114
+
+De conformidad con el libro de Biología, ¿cómo se denomina el mecanismo cuando el material internalizado es un microorganismo?
+
+- A. Fagocitosis
+- B. Exocitosis
+- C. Ósmosis
+- D. Difusión facilitada
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · fagocitosis
+
+Este puede ser una macromolécula o un microorganismo, en cuyo caso el mecanismo se denomina fagocitosis.
+
+### 115
+
+En relación con el libro de Biología, ¿cómo se denominan las vesículas de gran tamaño que se forman en la fagocitosis?
+
+- A. Fagosomas
+- B. Endosomas
+- C. Lisosomas
+- D. Vacuolas contráctiles
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · fagocitosis
+
+Las vesículas de gran tamaño que se forman se denominan fagosomas.
+
+> Tres nombres que se parecen y no son lo mismo: el **endosoma** es la vesícula
+> de cualquier endocitosis; el **fagosoma** es la vesícula grande de la
+> fagocitosis; el **lisosoma** es donde se degrada lo que entró.
+
+### 116
+
+De acuerdo con el libro de Biología, ¿dónde es degradado gran parte del material que ingresa por endocitosis?
+
+- A. En los lisosomas
+- B. En los fagosomas
+- C. En el complejo de Golgi
+- D. En las vacuolas contráctiles
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · endocitosis
+
+Gran parte del material que ingresa por endocitosis es degradado en los lisosomas.
+
+### 117
+
+De conformidad con el libro de Biología, ¿a qué obedece el proceso de internalización?
+
+- A. A diversas señales externas o internas
+- B. Únicamente al gradiente de concentración del soluto
+- C. Únicamente a la hidrólisis del ATP
+- D. Al grosor de la membrana plasmática
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · endocitosis
+
+El proceso de internalización obedece a diversas señales externas o internas.
+
+---
+
+## Sub-lote 35 · La exocitosis (p. 100)
+
+### 118
+
+En relación con el libro de Biología, ¿qué es la exocitosis?
+
+- A. El mecanismo mediante el cual las células expulsan partículas o sustancias al medio extracelular
+- B. El mecanismo por el cual ingresan partículas de gran tamaño en la célula
+- C. El paso de agua desde la solución más diluida a la más concentrada
+- D. El intercambio de tres iones Na⁺ por dos iones K⁺
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · exocitosis
+
+La exocitosis es el mecanismo mediante el cual las células expulsan partículas o sustancias al medio extracelular.
+
+> El par completo del transporte en masa: la **endocitosis** mete, la
+> **exocitosis** saca. Cada definición es el distractor de la otra.
+
+### 119
+
+De acuerdo con el libro de Biología, ¿qué ocurre con las vesículas que envuelven el material que se exportará?
+
+- A. Se fusionan desde el lado interno de la membrana plasmática y su contenido se libera al exterior
+- B. Se fusionan desde el lado externo de la membrana plasmática y su contenido entra en la célula
+- C. Son degradadas en los lisosomas junto con su contenido
+- D. Permanecen ancladas al citoesqueleto sin fusionarse
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · exocitosis
+
+El material que se exportará es envuelto en vesículas intracelulares. Estas vesículas se fusionan desde el lado interno de la membrana plasmática y su contenido se libera al exterior.
+
+### 120
+
+De conformidad con el libro de Biología, ¿qué sustancias se exportan por medio de la exocitosis?
+
+- A. Neurotransmisores, enzimas digestivas y hormonas, como la insulina
+- B. Oxígeno, dióxido de carbono y urea
+- C. Iones sodio, potasio y calcio
+- D. Fosfolípidos, colesterol y glucolípidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · exocitosis
+
+Por medio de este proceso se exportan neurotransmisores, enzimas digestivas y hormonas, como la insulina, en respuesta a una señal o estímulo de origen externo.
+
+> El distractor B son justamente las moléculas que **sí** cruzan la bicapa solas
+> (sub-lote 20): por eso no necesitan vesícula.
+
+---
+
+## Sub-lote 36 · La endocitosis mediada por receptor (pp. 100–101)
+
+### 121
+
+En relación con el libro de Biología, ¿cómo se llama el mecanismo en el que las sustancias que serán transportadas al interior de la célula deben acoplarse primero a moléculas receptoras específicas?
+
+- A. Endocitosis mediada por receptor
+- B. Fagocitosis
+- C. Exocitosis mediada por receptor
+- D. Difusión facilitada
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · endocitosis mediada por receptor
+
+En algunos casos, las sustancias que serán transportadas al interior de la célula deberán primero acoplarse a moléculas receptoras específicas, mecanismo llamado endocitosis mediada por receptor.
+
+### 122
+
+De acuerdo con el libro de Biología, ¿dónde se encuentran los receptores de la endocitosis mediada por receptor?
+
+- A. Concentrados en zonas particulares de la membrana, o se agrupan después de haberse unido a las moléculas que serán transportadas
+- B. Repartidos de manera uniforme por toda la superficie de la membrana
+- C. Libres en el citoplasma, sin contacto con la membrana
+- D. En el interior de los lisosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · endocitosis mediada por receptor
+
+Los receptores se encuentran concentrados en zonas particulares de la membrana o se agrupan después de haberse unido a las moléculas que serán transportadas.
+
+### 123
+
+De conformidad con el libro de Biología, ¿qué función cumple la clatrina, ubicada en la cara interna de la membrana?
+
+- A. Induce la curvatura de la membrana y la formación de las vesículas
+- B. Transporta iones sodio en contra de su gradiente
+- C. Forma un poro permanente por el que pasa el agua
+- D. Degrada el material internalizado
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 100
+**Subtema:** Membrana plasmática · endocitosis mediada por receptor
+
+En la cara interna –citoplasmática– de las áreas de la membrana celular, donde se localizan los receptores, o en las que se agrupan luego de la unión con moléculas específicas se ubican proteínas periféricas de membrana, como la clatrina, que inducen la curvatura de la membrana y la formación de las vesículas.
+
+> La clatrina es **proteína periférica**, no integral: no atraviesa la bicapa, se
+> apoya en su cara interna. Conecta con el sub-lote 11.
+
+---
+
+**Reactivos en este archivo:** 123
