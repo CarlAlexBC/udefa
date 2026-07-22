@@ -50,6 +50,9 @@ Cubiertas las páginas impresas **89 a 92**:
   formadoras de poros; la función de la membrana y la permeabilidad selectiva.
 - Los transportadores y sus tres clases (uniporte, simporte, antiporte); qué
   facilita el paso por los fosfolípidos (polaridad, tamaño, carga).
+- La carga y las moléculas que cruzan la bicapa (O₂, CO₂, urea, agua,
+  esteroides); la difusión (a favor del gradiente, sin gasto); la ósmosis (el
+  agua va hacia donde hay más soluto).
 
 **Pendiente:** el resto del capítulo 5, y los capítulos 7, 8, 11, 12, 31, 32, 35,
 36 y 37.
@@ -1093,4 +1096,174 @@ Tamaño. Cuanto más pequeña es la sustancia, podrá desplazarse con mayor faci
 
 ---
 
-**Reactivos en este archivo:** 60
+## Sub-lote 20 · La carga y las moléculas que cruzan la bicapa (pp. 94–95)
+
+### 61
+
+De acuerdo con el libro de Biología, respecto de la carga, ¿por qué los iones no pueden atravesar la bicapa lipídica, por pequeños que sean?
+
+- A. Debido a su carga eléctrica
+- B. Debido a su gran tamaño
+- C. Debido a que son moléculas no polares
+- D. Debido a que carecen de energía cinética
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 94
+**Subtema:** Membrana plasmática · la carga
+
+Carga. Los iones, no importa cuán pequeños sean, no pueden atravesar la bicapa lipídica debido a su carga eléctrica.
+
+### 62
+
+De conformidad con el libro de Biología, ¿qué moléculas pequeñas polares pueden moverse a través de la membrana pese a su distribución asimétrica de cargas?
+
+- A. Las que son polares pero no tienen carga eléctrica neta
+- B. Las que tienen carga eléctrica neta positiva
+- C. Las que tienen carga eléctrica neta negativa
+- D. Únicamente los iones de sodio y potasio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 94
+**Subtema:** Membrana plasmática · la carga
+
+Algunas moléculas pequeñas que tienen una distribución asimétrica de cargas –son polares–, pero que no tienen carga eléctrica neta, pueden moverse a través de la membrana.
+
+### 63
+
+En relación con el libro de Biología, ¿qué ejemplos de moléculas que pueden moverse a través de la bicapa lipídica menciona el libro?
+
+- A. Los gases O₂ y CO₂ de la respiración, la urea, el agua y las hormonas esteroideas
+- B. La glucosa, los aminoácidos y las proteínas
+- C. Los iones sodio, potasio y cloruro
+- D. El ADN y el ARN
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 94
+**Subtema:** Membrana plasmática · la carga
+
+Ejemplos de moléculas que pueden moverse a través de la bicapa lipídica son los dos gases que participan en el proceso de respiración, O₂ y CO₂, la urea, el agua, las hormonas esteroideas, entre otras.
+
+---
+
+## Sub-lote 21 · La difusión (p. 95)
+
+### 64
+
+De acuerdo con el libro de Biología, ¿qué es la energía cinética de las moléculas?
+
+- A. Una cantidad de energía indicativa de sus movimientos espontáneos
+- B. La energía que la célula gasta para transportar sustancias
+- C. La energía almacenada en los enlaces químicos
+- D. La energía necesaria para formar la bicapa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 95
+**Subtema:** Membrana plasmática · difusión
+
+Toda sustancia está formada por moléculas que poseen cierta cantidad de energía cinética, que es indicativa de sus movimientos espontáneos.
+
+### 65
+
+De conformidad con el libro de Biología, ¿qué es la difusión?
+
+- A. El desplazamiento neto de moléculas, a presión y temperatura constantes, desde las zonas de mayor concentración hacia las de menor concentración
+- B. El desplazamiento de moléculas desde las zonas de menor hacia las de mayor concentración
+- C. El transporte de moléculas con gasto de energía
+- D. El movimiento del agua a través de una membrana semipermeable
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 95
+**Subtema:** Membrana plasmática · difusión
+
+La difusión es el desplazamiento neto de moléculas, a presión y temperatura constantes, desde las zonas de mayor concentración hacia las zonas de menor concentración y es el mecanismo principal de movimiento de moléculas en una célula.
+
+### 66
+
+En relación con el libro de Biología, ¿la difusión ocurre con gasto de energía o sin él?
+
+- A. Sin gasto de energía externa
+- B. Con gasto de energía externa
+- C. Sólo con gasto de energía en contra del gradiente
+- D. Con gasto de energía proporcionado por las bombas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 95
+**Subtema:** Membrana plasmática · difusión
+
+La difusión es el desplazamiento neto de moléculas [...]. Este desplazamiento ocurre sin gasto de energía externa.
+
+> Ésta es la clave que distingue la difusión del transporte activo: la difusión
+> va **a favor** del gradiente (de mayor a menor concentración) y por eso es
+> **gratis**; la bomba va en contra y por eso gasta energía (reactivo 39).
+
+### 67
+
+De acuerdo con el libro de Biología, ¿por qué es eficaz la difusión para el pasaje de sustancias a través de las membranas biológicas?
+
+- A. Por el pequeño espesor de las membranas y la velocidad que puede alcanzar una molécula que se desplaza por difusión
+- B. Porque las membranas gastan energía para acelerarla
+- C. Porque las membranas son muy gruesas
+- D. Porque las moléculas se desplazan muy lentamente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 95
+**Subtema:** Membrana plasmática · difusión
+
+El pequeño espesor de las membranas biológicas y la velocidad que puede alcanzar una molécula que se desplaza por difusión hacen que este mecanismo sea eficaz para el pasaje de sustancias que pueden atravesar la bicapa lipídica de las membranas.
+
+---
+
+## Sub-lote 22 · La ósmosis (p. 96)
+
+### 68
+
+De conformidad con el libro de Biología, cuando dos soluciones de distinta concentración están separadas por una membrana permeable sólo al agua, ¿qué tiende a hacer la solución espontáneamente?
+
+- A. A igualar sus concentraciones de un lado y del otro mediante el movimiento del agua, ya que los solutos no pueden atravesarla
+- B. A aumentar la diferencia de concentraciones entre ambos lados
+- C. A mover los solutos de un lado a otro
+- D. A detener todo movimiento de agua y solutos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 96
+**Subtema:** Membrana plasmática · ósmosis
+
+La solución tenderá espontáneamente a igualar sus concentraciones de un lado y del otro de la membrana mediante el movimiento del agua, ya que los solutos no pueden atravesarla.
+
+### 69
+
+De acuerdo con el libro de Biología, ¿en qué sentido se mueve el agua entre dos soluciones de distinta concentración?
+
+- A. Desde la solución más diluida, donde la concentración de soluto es menor, hacia la que contenga mayor concentración de solutos
+- B. Desde la solución más concentrada hacia la más diluida
+- C. En ambos sentidos por igual, sin flujo neto
+- D. Sólo desde donde hay más agua hacia donde hay más solutos con gasto de energía
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 96
+**Subtema:** Membrana plasmática · ósmosis
+
+La solución que contenga menor concentración de solutos tendrá mayor concentración de agua y, en consecuencia, esta se moverá desde la solución más diluida, es decir, donde la concentración de soluto es menor, hacia la que contenga mayor concentración de solutos.
+
+> La clave de la ósmosis: el **agua** va hacia donde hay **más soluto** (menos
+> agua). Se mueve el agua, no el soluto, porque el soluto no puede cruzar. Es
+> difusión, pero del agua.
+
+### 70
+
+En relación con el libro de Biología, si una membrana permeable al agua separa dos soluciones de igual concentración, ¿qué ocurre?
+
+- A. No habría flujo neto a través de ella
+- B. El agua se movería con fuerza hacia un lado
+- C. Los solutos atravesarían la membrana
+- D. Ambas soluciones aumentarían su concentración
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 96
+**Subtema:** Membrana plasmática · ósmosis
+
+Si esa misma membrana separara a dos soluciones de igual concentración, no habría flujo neto a través de ella.
+
+---
+
+**Reactivos en este archivo:** 70
