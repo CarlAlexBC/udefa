@@ -33,8 +33,9 @@ leyeron de la hoja, no se calcularon.
 ## Cobertura actual
 
 Cubiertas las páginas impresas **212 a 216 y 218 a 230**, más los temas de la
-Sección III de las páginas **232 a 239** (teoría cromosómica, Morgan, el sexo
-biológico y los cromosomas X/Y, e interacciones entre alelos): qué es la reproducción
+Sección III de las páginas **232 a 240** (teoría cromosómica, Morgan, el sexo
+biológico y los cromosomas X/Y, interacciones entre alelos, la herencia poligénica
+y la interacción genes-ambiente): qué es la reproducción
 sexual, la meiosis y la fecundación, el cigoto, las dotaciones cromosómicas, los
 números de cromosomas por especie, el entrecruzamiento, las fases de la meiosis,
 las diferencias entre mitosis y meiosis, el cariotipo y el número cromosómico
@@ -65,7 +66,11 @@ páginas 233-234 se cubre también el sexo biológico: qué es y sus categorías
 (cromosómico, hormonal, gonadal), los cromosomas sexuales con el macho
 heterogamético y la hembra homogamética (el saltamontes X0, la inversión en aves y
 mariposas) y la determinación cromosómica del sexo en la meiosis (fig. 11-25: el
-espermatozoide X o Y define el sexo, las variantes X0/XXY/XXX).
+espermatozoide X o Y define el sexo, las variantes X0/XXY/XXX). Y de las páginas
+239-240, la herencia poligénica y la variación continua (la curva de campana de la
+altura, fig. 11-32) y la interacción entre los genes y el ambiente (la plántula, el
+ranúnculo de agua, las prímulas, los conejos himalayos y los gatos siameses,
+fig. 11-33; el principio de que el fenotipo resulta de la interacción genes-ambiente).
 
 Las páginas 217 y 219 son íntegramente figuras (11-6, 11-10 y 11-11), y la 222
 trae la biografía de Mendel de la que sí salieron reactivos. De las figuras 11-17,
@@ -78,15 +83,13 @@ que el chat anterior había saltado entre la 227 y la 228, ya cubierto.
 veces (pp. 222, 229 y 230). Sí se escribieron reactivos con ese término (80 y 83).
 
 **Pendiente:** del capítulo 11, intercalado entre lo ya cubierto de la 231 a la
-239, falta: el Ensayo 11-3 (p. 231, "¿Qué estudiaba Mendel en el jardín de la
+240, falta: el Ensayo 11-3 (p. 231, "¿Qué estudiaba Mendel en el jardín de la
 abadía?"), las mutaciones de De Vries y la planta *Oenothera* (p. 233), el sexo
 genital (una de las cuatro categorías, sin reactivo propio, p. 234), el Ensayo 11-4
-(intersexualidad, pp. 235-236), la herencia poligénica y la variación continua
-(fig. 11-32, pp. 239-240) y la interacción entre los genes y el ambiente
-(el ranúnculo de agua, los conejos himalayos, los gatos siameses, fig. 11-33,
-pp. 239-240) y lo que reste del capítulo desde la p. 240 en adelante. Falta también
-el recuadro social de la página 210 y los ensayos 11-1 y 11-2. De la materia de
-Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
+(intersexualidad, pp. 235-236) y lo que reste del capítulo desde la p. 241 en
+adelante (todavía sin renderizar). Falta también el recuadro social de la página
+210 y los ensayos 11-1 y 11-2. De la materia de Biología siguen sin empezar los
+capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -2463,4 +2466,182 @@ En la población humana existen, además de individuos XX y XY, otras variantes 
 
 ---
 
-**Reactivos en este archivo:** 145
+## Sub-lote 37 · La herencia poligénica y la variación continua (fig. 11-32, pp. 239-240)
+
+### 146
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se conoce el fenómeno por el cual características como la altura, el peso, el color o el comportamiento resultan de la acción acumulativa de los efectos combinados de muchos genes?
+
+- A. Herencia poligénica
+- B. Dominancia incompleta
+- C. Codominancia
+- D. Ligamiento entre genes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 239
+**Subtema:** reproducción sexual · herencia poligénica
+
+Algunas características, como el tamaño, la altura, el peso, la forma, el color, la tasa metabólica y el comportamiento no son el resultado de interacciones entre uno, dos o varios genes, sino de la acción acumulativa de los efectos combinados de muchos genes. Este fenómeno se conoce como herencia poligénica.
+
+### 147
+
+De acuerdo con el libro de Biología de Curtis, las características determinadas por varios genes o poligenes no muestran diferencias nítidas, sino una gradación de pequeñas diferencias que se conoce como…
+
+- A. Variación continua
+- B. No disyunción
+- C. Dominancia incompleta
+- D. Herencia ligada al sexo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 239
+**Subtema:** reproducción sexual · herencia poligénica
+
+Las características determinadas por varios genes, o poligenes, no muestran diferencias nítidas entre los grupos de individuos, como las estudiadas por Mendel. En cambio, muestran una gradación de pequeñas diferencias que se conoce como variación continua.
+
+### 148
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-32, ¿qué forma tiene la curva de distribución de la altura de los hombres de una población y dónde se ubica la media?
+
+- A. Forma de campana, con la media o promedio ubicada habitualmente en el centro de la curva
+- B. Forma de recta ascendente, con la media en un extremo
+- C. Forma de campana, con la media siempre en un extremo
+- D. Forma de dos campanas, con la media entre ambas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 240
+**Subtema:** reproducción sexual · herencia poligénica
+
+La altura es una característica afectada por varios genes. La curva de distribución de la altura tiene forma de campana con la media o promedio ubicada habitualmente en el centro de la curva.
+
+### 149
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo son la mayoría de las características humanas que dan lugar a la variabilidad fenotípica entre individuos?
+
+- A. Son poligénicas
+- B. Dependen de un solo gen
+- C. Son codominantes
+- D. Están ligadas al sexo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 239
+**Subtema:** reproducción sexual · herencia poligénica
+
+Se considera que el color de la piel en los seres humanos se encuentra bajo un control genético semejante, así como lo están muchas otras características. De hecho, la mayoría de las características humanas que dan lugar a la variabilidad fenotípica entre individuos son poligénicas.
+
+---
+
+## Sub-lote 38 · La interacción entre los genes y el ambiente (fig. 11-33, pp. 239-240)
+
+### 150
+
+De acuerdo con el libro de Biología de Curtis, ¿de qué depende la expresión de los genes?
+
+- A. De la interacción con el medioambiente
+- B. Únicamente del número de cromosomas del organismo
+- C. Solo del alelo dominante que esté presente
+- D. Exclusivamente de las hormonas del organismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 239
+**Subtema:** reproducción sexual · genes y ambiente
+
+La expresión de los genes depende de la interacción con el medioambiente.
+
+### 151
+
+De acuerdo con el libro de Biología de Curtis, según el ejemplo de la plántula, que tiene la capacidad determinada genéticamente de ser verde, ¿qué ocurre si se la mantiene en la oscuridad?
+
+- A. Nunca se volverá verde
+- B. Se volverá verde, pero más lentamente
+- C. Se volverá verde igual que con luz
+- D. Se volverá verde y además florecerá antes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 240
+**Subtema:** reproducción sexual · genes y ambiente
+
+Una plántula puede tener la capacidad determinada genéticamente de ser verde, de florecer y fructificar, pero nunca se volverá verde si se mantiene en la oscuridad.
+
+### 152
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-33, en el ranúnculo de agua, ¿cómo son las hojas que crecen por encima del agua frente a las que crecen bajo el agua, siendo genéticamente idénticas?
+
+- A. Las de encima son anchas, planas y lobuladas; las de bajo el agua, delgadas y finamente divididas
+- B. Las de encima son delgadas y divididas; las de bajo el agua, anchas y planas
+- C. Todas las hojas son idénticas en forma, por encima y por debajo del agua
+- D. Las hojas de bajo el agua no llegan a desarrollarse
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 240
+**Subtema:** reproducción sexual · genes y ambiente
+
+Las hojas que crecen por encima del agua son anchas, planas y lobuladas; las que crecen bajo el agua, genéticamente idénticas a las anteriores, son delgadas y están finamente divididas.
+
+### 153
+
+De acuerdo con el libro de Biología de Curtis, ¿de qué color son las flores de las prímulas a temperatura ambiente, y qué ocurre cuando la temperatura se eleva por encima de 30 °C?
+
+- A. Rojas a temperatura ambiente; blancas cuando la temperatura supera los 30 °C
+- B. Blancas a temperatura ambiente; rojas cuando la temperatura supera los 30 °C
+- C. Rojas siempre, sin importar la temperatura
+- D. Rosadas a temperatura ambiente; rojas cuando la temperatura supera los 30 °C
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 240
+**Subtema:** reproducción sexual · genes y ambiente
+
+Las prímulas, plantas de flores rojas a temperatura ambiente, tienen flores blancas cuando la temperatura se eleva por encima de 30ºC.
+
+### 154
+
+De acuerdo con el libro de Biología de Curtis, ¿de qué color son los conejos himalayos a temperaturas altas y a temperaturas bajas?
+
+- A. Blancos a temperaturas altas y negros a temperaturas bajas
+- B. Negros a temperaturas altas y blancos a temperaturas bajas
+- C. Blancos a cualquier temperatura
+- D. Grises a temperaturas altas y blancos a temperaturas bajas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 240
+**Subtema:** reproducción sexual · genes y ambiente
+
+Los conejos himalayos son blancos a temperaturas altas y negros a temperaturas bajas.
+
+### 155
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué zonas son negros los gatos siameses criados a temperatura ambiente?
+
+- A. En sus zonas periféricas más frías, como las orejas, la nariz y la punta de la cola
+- B. En el lomo y el vientre, sus zonas más cálidas
+- C. Por todo el cuerpo de manera uniforme
+- D. Solamente en las patas traseras
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 240
+**Subtema:** reproducción sexual · genes y ambiente
+
+Los gatos siameses criados a temperatura ambiente son negros en sus zonas periféricas más frías, como las orejas, la nariz y la punta de la cola.
+
+> Tres ejemplos de un mismo tipo (el color depende de la temperatura): prímulas
+> (blancas por encima de 30 °C), conejos himalayos (blancos con calor, negros con
+> frío) y gatos siameses (negros en las zonas más frías). Los reactivos 153, 154 y
+> 155 se prestan a usarse unos como distractores de otros.
+
+### 156
+
+De acuerdo con el libro de Biología de Curtis, ¿cuál es el primer principio que ilustran estos ejemplos?
+
+- A. El fenotipo de cualquier organismo es el resultado de la interacción entre los genes y el ambiente
+- B. El fenotipo de un organismo depende únicamente de su genotipo
+- C. El ambiente no tiene ningún efecto sobre el fenotipo
+- D. El genotipo es el resultado de la interacción entre el fenotipo y el ambiente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 240
+**Subtema:** reproducción sexual · genes y ambiente
+
+El fenotipo de cualquier organismo es el resultado de la interacción entre los genes y el ambiente.
+
+---
+
+**Reactivos en este archivo:** 156
