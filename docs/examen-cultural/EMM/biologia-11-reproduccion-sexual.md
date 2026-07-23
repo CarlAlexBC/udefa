@@ -30,7 +30,11 @@ capítulo 11 están en la **hoja 254** (página impresa 208); el recuadro
 impreso corre 1 respecto del desfase +46 en este tramo, así que las páginas se
 leyeron de la hoja, no se calcularon.
 
-## Cobertura actual
+## Cobertura actual · CAPÍTULO 11 CERRADO
+
+**Capítulo cerrado en 162 reactivos** (decisión de Carlo, 23 jul 2026). La teoría
+evaluable del capítulo (pp. 212-240) está completa, más el Ensayo 11-1 del síndrome
+de Down (p. 221). Lo que se dejó fuera a propósito está al final de este encabezado.
 
 Cubiertas las páginas impresas **212 a 216 y 218 a 230**, más los temas de la
 Sección III de las páginas **232 a 240** (teoría cromosómica, Morgan, el sexo
@@ -71,6 +75,10 @@ espermatozoide X o Y define el sexo, las variantes X0/XXY/XXX). Y de las página
 altura, fig. 11-32) y la interacción entre los genes y el ambiente (la plántula, el
 ranúnculo de agua, las prímulas, los conejos himalayos y los gatos siameses,
 fig. 11-33; el principio de que el fenotipo resulta de la interacción genes-ambiente).
+Por último, del **Ensayo 11-1 (p. 221)** se cubre el síndrome de Down: Down y la
+descripción de 1866, Lejeune (1958) y la trisomía del par 21, el nombre "trisomía
+21", el cambio de nomenclatura de la OMS en 1965, las patologías por el cromosoma
+extranumerario y el aumento de la esperanza de vida.
 
 Las páginas 217 y 219 son íntegramente figuras (11-6, 11-10 y 11-11), y la 222
 trae la biografía de Mendel de la que sí salieron reactivos. De las figuras 11-17,
@@ -82,14 +90,25 @@ que el chat anterior había saltado entre la 227 y la 228, ya cubierto.
 (`crop.py`, hoja 276) y el libro escribe *elemente*, en cursiva; aparece así tres
 veces (pp. 222, 229 y 230). Sí se escribieron reactivos con ese término (80 y 83).
 
-**Pendiente:** del capítulo 11, intercalado entre lo ya cubierto de la 231 a la
-240, falta: el Ensayo 11-3 (p. 231, "¿Qué estudiaba Mendel en el jardín de la
-abadía?"), las mutaciones de De Vries y la planta *Oenothera* (p. 233), el sexo
-genital (una de las cuatro categorías, sin reactivo propio, p. 234), el Ensayo 11-4
-(intersexualidad, pp. 235-236) y lo que reste del capítulo desde la p. 241 en
-adelante (todavía sin renderizar). Falta también el recuadro social de la página
-210 y los ensayos 11-1 y 11-2. De la materia de Biología siguen sin empezar los
-capítulos 12, 31, 32, 35, 36 y 37.
+**Lo que se dejó fuera a propósito (capítulo cerrado en la p. 243):** no se
+convirtió en reactivos, y no por olvido:
+
+- El **ensayo social "Distinción entre sexo y género"** (recuadro p. 210 + cierre
+  en la p. 241): es texto argumentativo, no recuerdo literal, y es tema delicado.
+- Los **Ensayos 11-2** ("Concepciones acerca de la herencia", pp. 222-223),
+  **11-3** ("¿Qué estudiaba Mendel en el jardín de la abadía?", p. 231) y **11-4**
+  ("Diversidad sexual de los cuerpos. Intersexualidad", p. 235): son ensayos
+  discursivos; el 11-4, además, es sensible.
+- El **Cuestionario / Situaciones problemáticas** (pp. 242-243): son problemas de
+  aplicación (contar cromosomas y cromátidas, cruces para deducir genotipos,
+  genealogías de hemofilia, grupos sanguíneos en un juicio de paternidad, etc.), y
+  el examen cultural es teórico, no práctico.
+- Del sexo biológico quedó sin reactivo propio el **sexo genital** (la cuarta
+  categoría, p. 234), por ser la definición más escueta; vive como distractor.
+
+El capítulo 11 termina en la p. 243 (la 244 en blanco, la 245 abre el capítulo 12,
+"El flujo de información genética"). De la materia de Biología siguen sin empezar
+los capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -2644,4 +2663,98 @@ El fenotipo de cualquier organismo es el resultado de la interacción entre los 
 
 ---
 
-**Reactivos en este archivo:** 156
+## Sub-lote 39 · Ensayo 11-1 · El síndrome de Down (p. 221)
+
+### 157
+
+De acuerdo con el libro de Biología de Curtis, según el ensayo 11-1, ¿a quién debe su nombre el síndrome de Down y en qué año se describió esta alteración?
+
+- A. Al médico inglés John Langdon Haydon Down, que la describió en 1866
+- B. Al médico francés Jérôme Lejeune, que la describió en 1958
+- C. Al médico inglés John Langdon Haydon Down, que la describió en 1958
+- D. Al médico francés Jérôme Lejeune, que la describió en 1866
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 221
+**Subtema:** reproducción sexual · síndrome de Down
+
+El síndrome de Down debe su nombre al médico inglés John Langdon Haydon Down (1828-1896), quien describió esta alteración en 1866, aunque no dilucidó las causas que la producían.
+
+### 158
+
+De acuerdo con el libro de Biología de Curtis, según el ensayo 11-1, ¿qué encontró en 1958 el investigador francés Jérôme Lejeune sobre el síndrome de Down?
+
+- A. Que el síndrome estaba asociado con una trisomía en el par 21 de cromosomas
+- B. Que el síndrome estaba asociado con una trisomía en el par 23 de cromosomas
+- C. Que el síndrome se debía a la falta de un cromosoma del par 21
+- D. Que el síndrome no tenía ninguna relación con los cromosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 221
+**Subtema:** reproducción sexual · síndrome de Down
+
+En 1958, un investigador francés, Jérôme Lejeune (1926-1994), encontró que el síndrome estaba asociado con una trisomía en el par 21 de cromosomas.
+
+### 159
+
+De acuerdo con el libro de Biología de Curtis, según el ensayo 11-1, ¿qué denominación alternativa propuso el propio Lejeune para el síndrome de Down?
+
+- A. Trisomía 21
+- B. Monosomía 21
+- C. Trisomía 23
+- D. Síndrome de Lejeune
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 221
+**Subtema:** reproducción sexual · síndrome de Down
+
+El propio Lejeune propuso la denominación alternativa de "trisomía 21".
+
+### 160
+
+De acuerdo con el libro de Biología de Curtis, según el ensayo 11-1, ¿qué hizo la Organización Mundial de la Salud en 1965 respecto de este síndrome?
+
+- A. Hizo un cambio de nomenclatura tras una petición formal del delegado de Mongolia
+- B. Prohibió el estudio genético del síndrome
+- C. Declaró que el síndrome no era hereditario
+- D. Estableció el primer tratamiento farmacológico para el síndrome
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 221
+**Subtema:** reproducción sexual · síndrome de Down
+
+En 1965, la Organización Mundial de la Salud hizo un cambio de nomenclatura tras una petición formal del delegado de Mongolia.
+
+### 161
+
+De acuerdo con el libro de Biología de Curtis, según el ensayo 11-1, ¿a qué se debe que las personas con síndrome de Down puedan padecer patologías del corazón, el sistema digestivo y el sistema endocrino?
+
+- A. Al exceso de proteínas sintetizadas por el cromosoma extranumerario
+- B. A la falta de proteínas por un cromosoma faltante
+- C. A una mutación en el cromosoma X
+- D. A la ausencia total del cromosoma del par 21
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 221
+**Subtema:** reproducción sexual · síndrome de Down
+
+Las personas con síndrome de Down tienen una discapacidad cognitiva variable y pueden padecer algunas patologías, en especial del corazón, el sistema digestivo y el sistema endocrino debido al exceso de proteínas sintetizadas por el cromosoma extranumerario.
+
+### 162
+
+De acuerdo con el libro de Biología de Curtis, según el ensayo 11-1, ¿cómo cambió la esperanza de vida de las personas con síndrome de Down, de hace unas décadas a la actualidad en los países desarrollados?
+
+- A. Subió de 14 años hace unas décadas hasta casi la media poblacional (60 años, en países desarrollados)
+- B. Bajó de 60 años hace unas décadas a 14 años en la actualidad
+- C. Se mantuvo en 14 años, sin cambios
+- D. Subió de 30 años a 45 años
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 221
+**Subtema:** reproducción sexual · síndrome de Down
+
+En la actualidad, la esperanza de vida de estas personas (14 años hace unas décadas) ha subido hasta alcanzar casi la media poblacional (60 años, en países desarrollados).
+
+---
+
+**Reactivos en este archivo:** 162
