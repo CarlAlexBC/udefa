@@ -44,7 +44,7 @@ página **159** (hoja 205).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **146 a 151**:
+Cubiertas las páginas impresas **146 a 152**:
 
 - La glucólisis como vía central; el ATP como principal transportador de energía
   y dónde interviene.
@@ -65,8 +65,11 @@ Cubiertas las páginas impresas **146 a 151**:
   al ciclo de Krebs.
 - Las tres figuras de la página 151: el esquema de la mitocondria, la formación
   de acetil-CoA y el ciclo de Krebs completo con sus ocho compuestos.
+- El balance del ciclo de Krebs; la etapa final del transporte de electrones y
+  la cadena respiratoria; el acoplamiento quimiosmótico de Peter Mitchell; y el
+  rendimiento energético global de 38 ATP por molécula de glucosa.
 
-**Pendiente:** del capítulo 8, las páginas impresas 152 a 158, y el apartado
+**Pendiente:** del capítulo 8, las páginas impresas 153 a 158, y el apartado
 "Biología en contexto social" de las páginas 145–146. De la materia siguen sin
 empezar los capítulos 11, 12, 31, 32, 35, 36 y 37.
 
@@ -1634,4 +1637,332 @@ GDP, GTP.
 
 ---
 
-**Reactivos en este archivo:** 93
+## Sub-lote 19 · El balance del ciclo de Krebs (p. 152)
+
+### 94
+
+De acuerdo con el libro de Biología, ¿interviene el oxígeno en las reacciones del ciclo de Krebs?
+
+- A. No; los electrones y los protones eliminados en la oxidación del carbono son aceptados por el NAD⁺ y el FAD
+- B. Sí; el oxígeno acepta directamente los electrones eliminados en la oxidación del carbono
+- C. Sí; el oxígeno se combina con el grupo acetilo al entrar en el ciclo
+- D. No; los electrones son aceptados por la coenzima A
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · balance del ciclo de Krebs
+
+Si bien la entrada del ácido pirúvico a la mitocondria depende de la presencia de oxígeno en el medio, en las reacciones del ciclo de Krebs no interviene el O₂; los electrones y los protones eliminados en la oxidación del carbono son aceptados por el NAD⁺ y el FAD.
+
+> Distinción fina: el oxígeno **hace falta para que el ácido pirúvico entre** a la
+> mitocondria, pero **no participa** en las reacciones del ciclo. Se cuela ahí
+> mismo, en la misma frase del libro.
+
+### 95
+
+De conformidad con el libro de Biología, ¿qué se forma y qué se libera por cada vuelta del ciclo de Krebs?
+
+- A. Se forman una molécula de ATP, tres de NADH y una de FADH₂, y se liberan dos moléculas de dióxido de carbono
+- B. Se forman dos moléculas de ATP, seis de NADH y dos de FADH₂, y se liberan cuatro de dióxido de carbono
+- C. Se forman tres moléculas de ATP, una de NADH y tres de FADH₂, y se liberan dos de dióxido de carbono
+- D. Se forman una molécula de ATP, una de NADH y una de FADH₂, y se libera una de dióxido de carbono
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · balance del ciclo de Krebs
+
+Por cada ciclo se forma una molécula de ATP, tres moléculas de NADH y una molécula de FADH₂ a partir de FAD. Además, se liberan dos moléculas de CO₂.
+
+### 96
+
+En relación con el libro de Biología, ¿por qué ese rendimiento debe ser multiplicado por dos?
+
+- A. Porque por cada molécula de glucosa se forman dos grupos acetilo
+- B. Porque el ciclo de Krebs ocurre en las dos membranas de la mitocondria
+- C. Porque cada ciclo se repite dos veces por cada grupo acetilo
+- D. Porque la mitad del rendimiento se pierde como calor
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · balance del ciclo de Krebs
+
+Si se tiene en cuenta que por cada molécula de glucosa se forman dos grupos acetilo, este rendimiento debe ser multiplicado por dos.
+
+### 97
+
+De acuerdo con el libro de Biología, ¿cuál es el resultado neto de la etapa del ciclo de Krebs?
+
+- A. Dos moléculas de ATP, seis de NADH, dos de FADH₂ y cuatro de dióxido de carbono
+- B. Una molécula de ATP, tres de NADH, una de FADH₂ y dos de dióxido de carbono
+- C. Cuatro moléculas de ATP, seis de NADH, cuatro de FADH₂ y dos de dióxido de carbono
+- D. Dos moléculas de ATP, dos de NADH, seis de FADH₂ y cuatro de dióxido de carbono
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · balance del ciclo de Krebs
+
+Resultado neto de esta etapa: 2 moléculas de ATP, 6 moléculas de NADH, 2 moléculas de FADH₂, 4 moléculas de CO₂.
+
+> El distractor B es el rendimiento **de una vuelta**, no el neto de la etapa. Es
+> el mismo error que en la glucólisis: el libro da primero la cifra por ciclo y
+> después la total, y se confunden.
+
+---
+
+## Sub-lote 20 · La etapa final: el transporte de electrones (p. 152)
+
+### 98
+
+De conformidad con el libro de Biología, una vez oxidada la glucosa, ¿dónde permanece la mayor parte de la energía almacenada?
+
+- A. En los electrones que se separaron de los átomos de carbono y fueron conducidos a los aceptores NAD⁺ y FAD
+- B. En los enlaces fosfato del ATP ya formado
+- C. En las moléculas de dióxido de carbono liberadas
+- D. En el gradiente de protones de la membrana externa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · transporte de electrones
+
+Sin embargo, la mayor parte de la energía almacenada permanece en los electrones que se separaron de los átomos de carbono y fueron conducidos a los aceptores NAD⁺ y FAD, los cuales se redujeron a NADH y FADH₂.
+
+### 99
+
+En relación con el libro de Biología, ¿qué ocurre con los electrones del NADH y del FADH₂ durante el transporte terminal de electrones?
+
+- A. Son conducidos paso a paso a un nivel energético inferior, a través de una secuencia de reacciones de oxidorreducción
+- B. Son conducidos paso a paso a un nivel energético superior, a través de una secuencia de reacciones de síntesis
+- C. Son liberados directamente al citoplasma celular
+- D. Se combinan de inmediato con el dióxido de carbono
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · transporte de electrones
+
+Durante el transporte terminal de electrones, que es la etapa final de la respiración, los electrones del NADH y del FADH₂, de alto nivel energético, son conducidos paso a paso a un nivel energético inferior, a través de una secuencia de reacciones de oxidorreducción.
+
+### 100
+
+De acuerdo con el libro de Biología, ¿cómo se denomina esa secuencia de reacciones de oxidorreducción?
+
+- A. Cadena transportadora de electrones o cadena respiratoria
+- B. Ciclo de Krebs o ciclo del ácido cítrico
+- C. Vía glucolítica o secuencia glucolítica
+- D. Complejo multienzimático de la piruvato deshidrogenasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · transporte de electrones
+
+Una secuencia de reacciones de oxidorreducción, que constituyen la cadena transportadora de electrones o cadena respiratoria.
+
+### 101
+
+De conformidad con el libro de Biología, ¿qué ocurre cuando los electrones se mueven por la cadena respiratoria saltando a niveles energéticos inferiores?
+
+- A. Se libera energía, que participa en la síntesis de ATP a partir de ADP
+- B. Se consume energía, que debe aportar la molécula de glucosa
+- C. Se libera dióxido de carbono
+- D. Se detiene la respiración celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · transporte de electrones
+
+Cuando los electrones se mueven por la cadena respiratoria, saltando a niveles energéticos inferiores, se libera energía. Esta energía participa en la síntesis de ATP a partir de ADP.
+
+### 102
+
+En relación con el libro de Biología, ¿cómo se denomina ese proceso de síntesis de ATP?
+
+- A. Fosforilación oxidativa
+- B. Fosforilación a nivel de sustrato
+- C. Descarboxilación oxidativa
+- D. Acoplamiento enzimático
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · transporte de electrones
+
+Esta energía participa en la síntesis de ATP a partir de ADP, en un proceso denominado fosforilación oxidativa.
+
+---
+
+## Sub-lote 21 · La cadena respiratoria (p. 152)
+
+### 103
+
+De acuerdo con el libro de Biología, ¿dónde se encuentran los componentes principales de la cadena transportadora de electrones?
+
+- A. Forman parte de complejos multienzimáticos que se encuentran en la membrana interna de las mitocondrias
+- B. Forman parte de complejos multienzimáticos disueltos en la matriz mitocondrial
+- C. Se encuentran libres en el citoplasma celular
+- D. Se encuentran en la membrana externa de las mitocondrias
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · cadena respiratoria
+
+Los componentes principales de la cadena transportadora de electrones forman parte de complejos multienzimáticos que se encuentran en la membrana interna de las mitocondrias.
+
+### 104
+
+De conformidad con el libro de Biología, aunque las estructuras de los citocromos son parecidas, ¿para qué difiere cada una lo suficiente?
+
+- A. Para captar electrones con diferentes niveles energéticos
+- B. Para unirse a distintos tipos de sustrato
+- C. Para resistir distintas temperaturas
+- D. Para formar parte de membranas distintas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · cadena respiratoria
+
+Aunque las estructuras de los citocromos son parecidas, cada una difiere lo suficiente como para captar electrones con diferentes niveles energéticos.
+
+### 105
+
+En relación con el libro de Biología, ¿qué hace el átomo de hierro de cada citocromo?
+
+- A. Acepta y libera, en forma alternada, un electrón, y lo transfiere al siguiente citocromo en un nivel de energía ligeramente inferior
+- B. Acepta un electrón y lo retiene de forma permanente
+- C. Libera protones hacia el espacio intermembrana
+- D. Se combina con el oxígeno para formar agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · cadena respiratoria
+
+El átomo de hierro (Fe) de cada citocromo acepta y libera, en forma alternada, un electrón y lo transfiere al siguiente citocromo en un nivel de energía ligeramente inferior.
+
+### 106
+
+De acuerdo con el libro de Biología, ¿qué ocurre cuando los electrones adquieren un nivel de energía suficientemente bajo?
+
+- A. Son aceptados por el oxígeno, que entonces se combina con protones de la solución, lo que da como resultado moléculas de agua
+- B. Son aceptados por el dióxido de carbono, lo que da como resultado glucosa
+- C. Vuelven al NADH para reiniciar la cadena
+- D. Se liberan al citoplasma como calor
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · cadena respiratoria
+
+Luego de estas sucesivas reacciones de oxidorreducción, los electrones adquieren un nivel de energía suficientemente bajo y son aceptados por el oxígeno que entonces se combina con protones (iones H⁺) de la solución, lo que da como resultado moléculas de agua.
+
+---
+
+## Sub-lote 22 · El acoplamiento quimiosmótico (p. 152)
+
+### 107
+
+De conformidad con el libro de Biología, ¿quién propuso que la síntesis de ATP era impulsada por un gradiente de protones, y en qué década?
+
+- A. El bioquímico británico Peter Mitchell, en la década de 1960
+- B. El bioquímico alemán Leonor Michaelis, en la década de 1910
+- C. El físico ruso-belga Ilya Prigogine, en la década de 1970
+- D. El físico austríaco Edwin Schrödinger, en la década de 1940
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · acoplamiento quimiosmótico
+
+En la década de 1960, el bioquímico británico Peter Mitchell (1920-1992) propuso que la síntesis de ATP era impulsada por un gradiente de protones establecido a través de la membrana mitocondrial interna.
+
+### 108
+
+En relación con el libro de Biología, ¿qué premio recibió Peter Mitchell por su trabajo y en qué año?
+
+- A. El Premio Nobel, en 1978
+- B. El Premio Nobel, en 1968
+- C. El Premio Nobel de química, en 1977
+- D. El Premio Nobel de medicina, en 1961
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · acoplamiento quimiosmótico
+
+Por su trabajo, recibió el Premio Nobel en 1978.
+
+### 109
+
+De acuerdo con el libro de Biología, ¿qué refleja el vocablo "quimiosmótico"?
+
+- A. Que la producción de ATP incluye tanto procesos químicos como procesos de transporte a través de una membrana selectivamente permeable
+- B. Que la producción de ATP depende únicamente de procesos químicos
+- C. Que la producción de ATP depende únicamente del transporte a través de la membrana
+- D. Que la producción de ATP ocurre por ósmosis del agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · acoplamiento quimiosmótico
+
+El vocablo "quimiosmótico" refleja el hecho de que la producción de ATP, como resultado de la fosforilación oxidativa, incluye tanto procesos químicos como procesos de transporte a través de una membrana selectivamente permeable.
+
+### 110
+
+De conformidad con el libro de Biología, ¿qué dos acontecimientos diferentes tienen lugar en el acoplamiento quimiosmótico?
+
+- A. Se establece un gradiente de protones a través de la membrana mitocondrial interna, y la energía potencial almacenada en el gradiente se libera y es capturada en la formación de ATP
+- B. Se establece un gradiente de electrones y se libera dióxido de carbono
+- C. Se oxida el ácido pirúvico y se forma acetil-CoA
+- D. Se reduce el NAD⁺ y se oxida el FADH₂
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · acoplamiento quimiosmótico
+
+En el acoplamiento quimiosmótico tienen lugar dos acontecimientos diferentes: 1) se establece un gradiente de protones a través de la membrana mitocondrial interna y 2) la energía potencial almacenada en el gradiente se libera y es capturada en la formación de ATP a partir de ADP y fosfato.
+
+---
+
+## Sub-lote 23 · El rendimiento energético global (p. 152)
+
+### 111
+
+En relación con el libro de Biología, ¿cuál es la producción total máxima de ATP a partir de una molécula de glucosa?
+
+- A. 38 moléculas de ATP
+- B. 36 moléculas de ATP
+- C. 32 moléculas de ATP
+- D. 40 moléculas de ATP
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · rendimiento global
+
+Como se muestra en un cuadro de balance, la producción total a partir de una molécula de glucosa es, como máximo, de 38 moléculas de ATP.
+
+### 112
+
+De acuerdo con el libro de Biología, ¿por qué esas cifras representan el máximo rendimiento energético teórico posible?
+
+- A. Porque el gradiente de protones en la mitocondria puede usarse para propósitos distintos de la síntesis de ATP
+- B. Porque parte del ATP formado se degrada de inmediato
+- C. Porque la glucosa nunca llega a oxidarse por completo
+- D. Porque el oxígeno del medio suele ser insuficiente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · rendimiento global
+
+Tengamos en cuenta que el gradiente de protones en la mitocondria puede usarse para propósitos distintos de la síntesis de ATP y, por consiguiente, las cifras que damos representan el máximo rendimiento energético teórico posible.
+
+### 113
+
+De conformidad con el libro de Biología, ¿de dónde provienen esas 38 moléculas de ATP?
+
+- A. A excepción de dos, de reacciones que ocurren en la mitocondria; y con excepción de cuatro, todas resultan del pasaje de electrones transportados por el NADH o el FADH₂
+- B. A excepción de cuatro, de reacciones que ocurren en la mitocondria; y con excepción de dos, todas resultan del pasaje de electrones
+- C. Todas provienen de reacciones que ocurren en el citoplasma celular
+- D. Todas provienen del ciclo de Krebs, sin intervención de la cadena de transporte
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
+**Subtema:** Respiración celular · rendimiento global
+
+Nótese que, a excepción de dos, las 38 moléculas de ATP provienen de reacciones que ocurren en la mitocondria y, con excepción de cuatro, todas resultan del pasaje de electrones transportados por el NADH o el FADH₂ a favor de la cadena de transporte de electrones.
+
+---
+
+**Reactivos en este archivo:** 113
