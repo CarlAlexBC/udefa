@@ -33,8 +33,8 @@ leyeron de la hoja, no se calcularon.
 ## Cobertura actual
 
 Cubiertas las páginas impresas **212 a 216 y 218 a 230**, más los temas de la
-Sección III de las páginas **232 y 235 a 239** (teoría cromosómica, Morgan e
-interacciones entre alelos): qué es la reproducción
+Sección III de las páginas **232 a 239** (teoría cromosómica, Morgan, el sexo
+biológico y los cromosomas X/Y, e interacciones entre alelos): qué es la reproducción
 sexual, la meiosis y la fecundación, el cigoto, las dotaciones cromosómicas, los
 números de cromosomas por especie, el entrecruzamiento, las fases de la meiosis,
 las diferencias entre mitosis y meiosis, el cariotipo y el número cromosómico
@@ -60,7 +60,12 @@ las características ligadas al sexo, los cruces recíprocos de las figuras 11-2
 237-239 se cubren, además, las interacciones entre alelos: la dominancia incompleta
 (el *Antirrhinum* rosado de Bateson y Punnett, fig. 11-30), la codominancia con los
 grupos sanguíneos (los tres alelos I^A, I^B e i; los genotipos AB e 0; los
-antígenos) y los alelos múltiples (el pelaje del conejo, fig. 11-31).
+antígenos) y los alelos múltiples (el pelaje del conejo, fig. 11-31). De las
+páginas 233-234 se cubre también el sexo biológico: qué es y sus categorías
+(cromosómico, hormonal, gonadal), los cromosomas sexuales con el macho
+heterogamético y la hembra homogamética (el saltamontes X0, la inversión en aves y
+mariposas) y la determinación cromosómica del sexo en la meiosis (fig. 11-25: el
+espermatozoide X o Y define el sexo, las variantes X0/XXY/XXX).
 
 Las páginas 217 y 219 son íntegramente figuras (11-6, 11-10 y 11-11), y la 222
 trae la biografía de Mendel de la que sí salieron reactivos. De las figuras 11-17,
@@ -75,8 +80,7 @@ veces (pp. 222, 229 y 230). Sí se escribieron reactivos con ese término (80 y 
 **Pendiente:** del capítulo 11, intercalado entre lo ya cubierto de la 231 a la
 239, falta: el Ensayo 11-3 (p. 231, "¿Qué estudiaba Mendel en el jardín de la
 abadía?"), las mutaciones de De Vries y la planta *Oenothera* (p. 233), el sexo
-biológico y sus categorías (cromosómico, hormonal, gonadal, genital) con los
-cromosomas sexuales X/Y y machos hetero/homogaméticos (pp. 233-235), el Ensayo 11-4
+genital (una de las cuatro categorías, sin reactivo propio, p. 234), el Ensayo 11-4
 (intersexualidad, pp. 235-236), la herencia poligénica y la variación continua
 (fig. 11-32, pp. 239-240) y la interacción entre los genes y el ambiente
 (el ranúnculo de agua, los conejos himalayos, los gatos siameses, fig. 11-33,
@@ -2247,4 +2251,216 @@ El color del pelaje en los conejos está determinado por una serie de cuatro ale
 
 ---
 
-**Reactivos en este archivo:** 132
+## Sub-lote 34 · Qué es el sexo biológico y sus categorías (pp. 233-234)
+
+### 133
+
+De acuerdo con el libro de Biología de Curtis, ¿a qué hace referencia, en general, el concepto de sexo biológico?
+
+- A. A aquellas características que son sustento para clasificar a los individuos como machos o hembras
+- B. Únicamente a la identidad que cada persona siente como propia
+- C. A la composición de los cromosomas del sistema nervioso
+- D. Al predominio de las hormonas andrógenos sobre las estrógenos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 233
+**Subtema:** reproducción sexual · sexo biológico
+
+El sexo biológico es un concepto que, en general, hace referencia a aquellas características que son sustento para clasificar a los individuos como machos o hembras y que en nuestra especie serán nombradas como hombres y mujeres.
+
+### 134
+
+De acuerdo con el libro de Biología de Curtis, ¿a qué hace referencia el sexo cromosómico y en qué momento se define?
+
+- A. A la composición de los cromosomas sexuales; se define en el momento de la concepción
+- B. Al predominio de un tipo de hormonas; se define en la pubertad
+- C. A las gónadas del embrión; se define en el momento del parto
+- D. A los genitales internos y externos; se define en la adolescencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 234
+**Subtema:** reproducción sexual · sexo biológico
+
+Sexo cromosómico: hace referencia a la composición de los cromosomas sexuales, que puede ser XX, XY, y diversas intersexualidades. La composición cromosómica se define en el momento de la concepción.
+
+### 135
+
+De acuerdo con el libro de Biología de Curtis, ¿a qué hace referencia el sexo hormonal?
+
+- A. Al predominio de hormonas andrógenos o de hormonas estrógenos
+- B. A la composición de los cromosomas sexuales
+- C. A las gónadas que se forman a partir del tejido del embrión
+- D. A las características de los genitales internos y externos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 234
+**Subtema:** reproducción sexual · sexo biológico
+
+Sexo hormonal: hace referencia al predominio de hormonas andrógenos o de hormonas estrógenos.
+
+### 136
+
+De acuerdo con el libro de Biología de Curtis, ¿a qué hace referencia el sexo gonadal?
+
+- A. A las gónadas que se forman a partir del tejido gonadal indiferenciado del embrión
+- B. Al predominio de hormonas andrógenos o de hormonas estrógenos
+- C. A la composición de los cromosomas sexuales de la persona
+- D. A las características de los genitales internos y externos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 234
+**Subtema:** reproducción sexual · sexo biológico
+
+Sexo gonadal: hace referencia a las gónadas que se forman a partir del tejido gonadal indiferenciado del embrión.
+
+---
+
+## Sub-lote 35 · Los cromosomas sexuales y el macho heterogamético (p. 234)
+
+### 137
+
+De acuerdo con el libro de Biología de Curtis, en algunos insectos como el saltamontes estudiado por Sutton, que no tienen cromosoma Y, ¿cómo son las hembras y los machos?
+
+- A. Las hembras son XX y los machos X0 (el 0 indica la ausencia del cromosoma)
+- B. Las hembras son X0 y los machos XX
+- C. Las hembras son XY y los machos XX
+- D. Las hembras son XX y los machos XY
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 234
+**Subtema:** reproducción sexual · cromosomas sexuales
+
+En algunos insectos, como el saltamontes estudiado por Sutton, no hay cromosoma Y. Las hembras son XX y los machos X0 (el 0 indica la ausencia del cromosoma).
+
+### 138
+
+De acuerdo con el libro de Biología de Curtis, en las combinaciones XX/XY o XX/X0, ¿por qué se dice que el macho es heterogamético?
+
+- A. Porque puede producir dos tipos de gametos: los que contienen el cromosoma X y los que contienen el Y o no contienen ningún cromosoma sexual
+- B. Porque todos sus gametos portan siempre el cromosoma X
+- C. Porque no produce gametos con cromosomas sexuales
+- D. Porque produce el doble de gametos que la hembra
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 234
+**Subtema:** reproducción sexual · cromosomas sexuales
+
+En las combinaciones XX/XY o XX/X0, el macho es heterogamético porque puede producir dos tipos de gametos: aquellos que contienen el cromosoma X y los que contienen el cromosoma Y o no contienen ningún cromosoma sexual.
+
+### 139
+
+De acuerdo con el libro de Biología de Curtis, en esas mismas combinaciones, ¿por qué se dice que la hembra es homogamética?
+
+- A. Porque sus gametos siempre portan el cromosoma X
+- B. Porque sus gametos portan el cromosoma X o el cromosoma Y
+- C. Porque sus gametos no portan ningún cromosoma sexual
+- D. Porque sus gametos siempre portan el cromosoma Y
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 234
+**Subtema:** reproducción sexual · cromosomas sexuales
+
+La hembra, en cambio, es homogamética, ya que sus gametos siempre portan el cromosoma X.
+
+> Par contrapuesto (reactivos 138 y 139): el **macho** es *heterogamético* (produce
+> dos tipos de gametos) y la **hembra** *homogamética* (todos con X). Cada regla es
+> el distractor de la otra. Ojo: esto es en mamíferos e insectos; en aves, polillas
+> y mariposas se invierte (reactivo 140).
+
+### 140
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué grupos ocurre al revés, con los machos homogaméticos y las hembras heterogaméticas?
+
+- A. En las aves, las polillas y las mariposas
+- B. En los saltamontes y otros insectos estudiados por Sutton
+- C. En los mamíferos y las plantas de guisante
+- D. En las moscas del género *Drosophila*
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 234
+**Subtema:** reproducción sexual · cromosomas sexuales
+
+Sin embargo, en otros casos, como en las aves, las polillas y las mariposas, ocurre al revés: los machos son homogaméticos y las hembras heterogaméticas.
+
+---
+
+## Sub-lote 36 · La meiosis y la determinación cromosómica del sexo (fig. 11-25, p. 234)
+
+### 141
+
+De acuerdo con el libro de Biología de Curtis, en los humanos, durante la meiosis del varón, ¿cuántos espermatozoides produce cada célula diploide y qué cromosoma sexual recibe cada uno?
+
+- A. Cuatro espermatozoides haploides: dos reciben un cromosoma X y los otros dos, un cromosoma Y
+- B. Dos espermatozoides haploides: uno con el cromosoma X y otro con el Y
+- C. Cuatro espermatozoides haploides, todos con el cromosoma X
+- D. Cuatro espermatozoides haploides, todos con el cromosoma Y
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 234
+**Subtema:** reproducción sexual · determinación del sexo
+
+En los humanos, durante la meiosis del varón, cada célula diploide que origina los espermatozoides produce cuatro espermatozoides haploides. Dos reciben un cromosoma X y los otros dos reciben un cromosoma Y.
+
+### 142
+
+De acuerdo con el libro de Biología de Curtis, durante la meiosis de la mujer, ¿qué cromosoma sexual contiene cualquier óvulo que se forma, y por qué?
+
+- A. Un cromosoma X, dado que la mujer no posee cromosoma Y en ninguna de sus células
+- B. Un cromosoma Y, dado que la mujer no posee cromosoma X en sus células
+- C. Un cromosoma X o uno Y, según cada óvulo
+- D. Ningún cromosoma sexual hasta el momento de la fecundación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 234
+**Subtema:** reproducción sexual · determinación del sexo
+
+Durante la meiosis de la mujer, cualquier óvulo que se forma contiene un cromosoma X, dado que no posee cromosoma Y en ninguna de sus células.
+
+### 143
+
+De acuerdo con el libro de Biología de Curtis, en las especies en las que los machos son heterogaméticos, ¿qué define el sexo cromosómico de la progenie?
+
+- A. El cromosoma sexual aportado por el espermatozoide que fecunda al óvulo
+- B. El cromosoma sexual aportado por el óvulo
+- C. El número total de cromosomas del cigoto
+- D. La cantidad de hormonas producidas por el embrión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 234
+**Subtema:** reproducción sexual · determinación del sexo
+
+En las especies en las que los machos son heterogaméticos, el cromosoma sexual aportado por el espermatozoide define el sexo cromosómico de la progenie.
+
+### 144
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-25, ¿a qué da lugar el cigoto si al óvulo lo fecunda un espermatozoide con cromosoma X, y si lo fecunda uno con cromosoma Y?
+
+- A. Con el cromosoma X, a una hembra (XX); con el cromosoma Y, a un macho (XY)
+- B. Con el cromosoma X, a un macho (XY); con el cromosoma Y, a una hembra (XX)
+- C. Con el cromosoma X o con el Y, siempre a una hembra (XX)
+- D. Con el cromosoma X, a una hembra (XX); con el cromosoma Y, a una hembra (X0)
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 234
+**Subtema:** reproducción sexual · determinación del sexo
+
+Si un espermatozoide que lleva un cromosoma X fecunda al óvulo, el cigoto dará lugar a una hembra (XX); si un espermatozoide que lleva un cromosoma Y fecunda al óvulo, el cigoto dará lugar a un macho (XY).
+
+### 145
+
+De acuerdo con el libro de Biología de Curtis, además de los individuos XX y XY, ¿qué otras variantes de menor frecuencia existen en la población humana?
+
+- A. Variantes como X0, XXY y XXX, entre otras
+- B. Variantes como YY y Y0
+- C. No existe ninguna otra variante además de XX y XY
+- D. Variantes como XXXX en todos los casos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 234
+**Subtema:** reproducción sexual · determinación del sexo
+
+En la población humana existen, además de individuos XX y XY, otras variantes de menor frecuencia, como X0, XXY, XXX, entre otras.
+
+---
+
+**Reactivos en este archivo:** 145
