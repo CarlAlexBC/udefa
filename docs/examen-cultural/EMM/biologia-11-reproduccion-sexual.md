@@ -32,7 +32,8 @@ leyeron de la hoja, no se calcularon.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **212 a 216 y 218 a 230**: qué es la reproducción
+Cubiertas las páginas impresas **212 a 216 y 218 a 230**, más el hilo de la teoría
+cromosómica y de Morgan en las páginas **232 y 235 a 238**: qué es la reproducción
 sexual, la meiosis y la fecundación, el cigoto, las dotaciones cromosómicas, los
 números de cromosomas por especie, el entrecruzamiento, las fases de la meiosis,
 las diferencias entre mitosis y meiosis, el cariotipo y el número cromosómico
@@ -48,7 +49,13 @@ tablero de Punnett, la segregación de los alelos con la relación genotípica 1
 y el cruzamiento de prueba o *test cross* (figuras 11-17, 11-18 y 11-19), el
 cruzamiento dihíbrido y la segunda ley de Mendel o
 principio de distribución independiente con su relación 9:3:3:1, y la teoría
-cromosómica de Sutton (el término *elemente*, el gen en los cromosomas).
+cromosómica de Sutton (el término *elemente*, el gen en los cromosomas). A eso se
+suma, de las páginas 232 y 235-238, el cierre de la teoría cromosómica (la "edad de
+oro", la controversia sobre los genes en los cromosomas y la prioridad del artículo
+de Sutton) y el trabajo de Morgan: la mosca *Drosophila melanogaster* y sus
+ventajas, sus cuatro pares de cromosomas (2n=8), la mosca mutante de ojos blancos y
+las características ligadas al sexo, los cruces recíprocos de las figuras 11-28 y
+11-29, y Müller con los mutágenos y el ligamiento entre genes.
 
 Las páginas 217 y 219 son íntegramente figuras (11-6, 11-10 y 11-11), y la 222
 trae la biografía de Mendel de la que sí salieron reactivos. De las figuras 11-17,
@@ -60,14 +67,15 @@ que el chat anterior había saltado entre la 227 y la 228, ya cubierto.
 (`crop.py`, hoja 276) y el libro escribe *elemente*, en cursiva; aparece así tres
 veces (pp. 222, 229 y 230). Sí se escribieron reactivos con ese término (80 y 83).
 
-**Pendiente:** del capítulo 11 falta de la página impresa 231 en adelante
-(hoja 277+): el Ensayo 11-3 (p. 231, "¿Qué estudiaba Mendel en el jardín de la
-abadía?"), y la continuación de la Sección III — la teoría cromosómica y
-Morgan/*Drosophila* (pp. 232-233), las mutaciones de De Vries (p. 233), el sexo
-biológico y los cromosomas sexuales X/Y con hetero/homogaméticos (pp. 233-235) y
-el Ensayo 11-4 (intersexualidad, pp. 235-236). Falta también el recuadro social de
-la página 210 y los ensayos 11-1 y 11-2. De la materia de Biología siguen sin
-empezar los capítulos 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 11, intercalado entre lo ya cubierto de la 231 a la
+238, falta: el Ensayo 11-3 (p. 231, "¿Qué estudiaba Mendel en el jardín de la
+abadía?"), las mutaciones de De Vries y la planta *Oenothera* (p. 233), el sexo
+biológico y sus categorías (cromosómico, hormonal, gonadal, genital) con los
+cromosomas sexuales X/Y y machos hetero/homogaméticos (pp. 233-235), el Ensayo 11-4
+(intersexualidad, pp. 235-236) y la dominancia incompleta y la codominancia
+(Bateson y *Antirrhinum*, pp. 237-238 en adelante). Falta también el recuadro
+social de la página 210 y los ensayos 11-1 y 11-2. De la materia de Biología siguen
+sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -1672,4 +1680,378 @@ Esta relación genotípica da cuenta de la relación fenotípica: tres dominante
 
 ---
 
-**Reactivos en este archivo:** 98
+## Sub-lote 26 · El cierre de la teoría cromosómica: la "edad de oro" y Sutton (p. 232)
+
+### 99
+
+De acuerdo con el libro de Biología de Curtis, a comienzos del siglo, al iniciar la "edad de oro", ¿qué suscitó la idea de que los genes se encontraban en los cromosomas?
+
+- A. Ásperas controversias
+- B. Una aceptación inmediata y unánime
+- C. El abandono de los estudios sobre la herencia
+- D. La confirmación definitiva del trabajo de Mendel
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 232
+**Subtema:** reproducción sexual · teoría cromosómica
+
+A comienzos del siglo, al iniciar la "edad de oro", la idea de que los genes se encontraban en los cromosomas suscitó ásperas controversias.
+
+### 100
+
+De acuerdo con el libro de Biología de Curtis, en esa etapa, aunque el trabajo de Sutton y de otros citólogos era conocido, ¿cómo se lo consideraba para los estudios sobre la herencia?
+
+- A. Se lo consideraba irrelevante para los estudios sobre la herencia
+- B. Se lo consideraba la base indiscutible de la genética
+- C. Se lo consideraba una simple copia de las ideas de Mendel
+- D. Se lo consideraba un error que debía corregirse
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 232
+**Subtema:** reproducción sexual · teoría cromosómica
+
+En esta etapa de la investigación genética, el gen no se asumía aún como una realidad física y, aunque el trabajo de Sutton y de otros citólogos era conocido, se consideraba irrelevante para los estudios sobre la herencia.
+
+### 101
+
+De acuerdo con el libro de Biología de Curtis, casi en la misma época en que Sutton realizaba sus investigaciones, ¿qué correlación reconocieron otros biólogos?
+
+- A. La correlación entre el comportamiento de los *elemente* de Mendel y el movimiento de los cromosomas
+- B. La correlación entre el tamaño de los cromosomas y el número de genes
+- C. La correlación entre las mutaciones y la exposición a la radiación
+- D. La correlación entre el color de los ojos y la alimentación de la mosca
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 232
+**Subtema:** reproducción sexual · teoría cromosómica
+
+Casi en la misma época en que Sutton realizaba sus investigaciones, otros biólogos reconocieron la correlación entre el comportamiento de los *elemente* de Mendel y el movimiento de los cromosomas.
+
+### 102
+
+De acuerdo con el libro de Biología de Curtis, en comparación con los otros biólogos que reconocieron esa misma correlación, ¿qué ocurrió con el artículo del joven Sutton?
+
+- A. Se publicó primero y su presentación fue la más convincente
+- B. Se publicó último y pasó inadvertido
+- C. Nunca llegó a publicarse en vida de Sutton
+- D. Fue refutado por Morgan poco después
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 232
+**Subtema:** reproducción sexual · teoría cromosómica
+
+El artículo del joven Sutton, sin embargo, se publicó primero y su presentación fue la más convincente.
+
+---
+
+## Sub-lote 27 · Morgan y la mosca *Drosophila* (p. 232)
+
+### 103
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué año y en qué universidad fundó Thomas H. Morgan el que sería el laboratorio de genética más importante de las décadas siguientes?
+
+- A. En 1909, en la Universidad de Columbia
+- B. En 1902, en la Universidad de Columbia
+- C. En 1909, en la Universidad de Brünn
+- D. En 1927, en la Universidad de Columbia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 232
+**Subtema:** reproducción sexual · Morgan y Drosophila
+
+En 1909, el biólogo estadounidense Thomas H. Morgan (1866-1945) fundó en la Universidad de Columbia el que sería el laboratorio de genética más importante de las décadas siguientes.
+
+### 104
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se denominó el período de la investigación genética que duró hasta la Segunda Guerra Mundial?
+
+- A. La edad de oro de la genética
+- B. La revolución mendeliana
+- C. La era de la citología
+- D. La síntesis moderna
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 232
+**Subtema:** reproducción sexual · Morgan y Drosophila
+
+Este período de la investigación genética, que duró hasta la Segunda Guerra Mundial, fue denominado "la edad de oro de la genética".
+
+### 105
+
+De acuerdo con el libro de Biología de Curtis, ¿qué organismo eligió Morgan como su organismo experimental?
+
+- A. La mosca del vinagre *Drosophila melanogaster*, también conocida como la mosca de la fruta
+- B. La planta de guisante *Pisum sativum*
+- C. El saltamontes macho
+- D. La planta del género *Oenothera*
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 232
+**Subtema:** reproducción sexual · Morgan y Drosophila
+
+Con una notable combinación entre intuición y suerte, Morgan eligió a la mosca del vinagre *Drosophila melanogaster*, también conocida como la mosca de la fruta, como su organismo experimental.
+
+### 106
+
+De acuerdo con el libro de Biología de Curtis, entre las ventajas de la mosca de la fruta como material de investigación, ¿cuánto mide de largo y cada cuánto puede producir una nueva generación?
+
+- A. Mide solo 3 milímetros de largo y puede producir una nueva generación cada dos semanas
+- B. Mide solo 3 centímetros de largo y puede producir una nueva generación cada dos meses
+- C. Mide solo 1 milímetro de largo y puede producir una nueva generación cada semana
+- D. Mide solo 3 milímetros de largo y puede producir una nueva generación cada dos meses
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 232
+**Subtema:** reproducción sexual · Morgan y Drosophila
+
+Entre sus ventajas se encuentran las siguientes: es fácil de criar y de mantener, se alimenta de las levaduras que fermentan la fruta en putrefacción, mide solo 3 milímetros de largo, puede producir una nueva generación cada dos semanas y la hembra deposita centenas de huevos durante su vida adulta.
+
+### 107
+
+De acuerdo con el libro de Biología de Curtis, ¿qué principio de enorme importancia ayudó a consolidar *D. melanogaster*?
+
+- A. Que los *elemente* de Mendel –los genes– están ubicados en los cromosomas
+- B. Que los genes están ubicados en el citoplasma de la célula
+- C. Que cada característica depende de un solo gen
+- D. Que los genes se originan por acción de la radiación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 232
+**Subtema:** reproducción sexual · Morgan y Drosophila
+
+*D. melanogaster* ayudó a Morgan y a sus colegas a consolidar un principio de enorme importancia: los *elemente* de Mendel –los genes– están ubicados en los cromosomas.
+
+---
+
+## Sub-lote 28 · Los cromosomas de la mosca de la fruta (fig. 11-26, pp. 235-236)
+
+### 108
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se reparten los cuatro pares de cromosomas de *Drosophila melanogaster*?
+
+- A. Tres pares son autosomas y el cuarto es el par sexual (XX en las hembras y XY en los machos)
+- B. Los cuatro pares son autosomas
+- C. Dos pares son autosomas y dos pares son sexuales
+- D. Tres pares son sexuales y el cuarto es autosómico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 235
+**Subtema:** reproducción sexual · Morgan y Drosophila
+
+Una de las ventajas del uso de *Drosophila melanogaster* para estudios genéticos es que tiene solo cuatro pares de cromosomas. Tres pares son autosomas y el cuarto es el par sexual: XX en las hembras y XY en los machos.
+
+### 109
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-26, ¿cuántos cromosomas en total (2n) tiene la mosca de la fruta?
+
+- A. Ocho cromosomas (2n = 8)
+- B. Catorce cromosomas (2n = 14)
+- C. Cuatro cromosomas (2n = 4)
+- D. Cuarenta y seis cromosomas (2n = 46)
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 236
+**Subtema:** reproducción sexual · Morgan y Drosophila
+
+Estas pequeñas moscas tienen solo cuatro pares de cromosomas (2n = 8), un hecho que simplificó los experimentos de Morgan.
+
+---
+
+## Sub-lote 29 · La mosca de ojos blancos y las características ligadas al sexo (figs. 11-27 a 11-29, pp. 236-238)
+
+### 110
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-27, ¿qué descubrió Morgan cuando buscaba diferencias genéticas entre las moscas *Drosophila*?
+
+- A. Un solo individuo de ojos blancos en su población de miles de moscas
+- B. Cientos de individuos de ojos blancos en su población
+- C. Una mosca que carecía por completo de ojos
+- D. Un solo individuo de ojos rojos entre moscas de ojos blancos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 236
+**Subtema:** reproducción sexual · características ligadas al sexo
+
+Cuando buscaba diferencias genéticas entre las moscas *Drosophila*, Morgan descubrió un solo individuo de ojos blancos en su población de miles de moscas.
+
+### 111
+
+De acuerdo con el libro de Biología de Curtis, cuando aparearon al macho de ojos blancos con una hembra de ojos rojos, ¿cómo fue la progenie F1 y qué sugería sobre el alelo para ojos blancos?
+
+- A. Toda la progenie F1 tuvo ojos rojos; aparentemente, el alelo para ojos blancos era recesivo
+- B. Toda la progenie F1 tuvo ojos blancos; el alelo para ojos blancos era dominante
+- C. La mitad de la F1 tuvo ojos rojos y la otra mitad ojos blancos
+- D. Solo las hembras de la F1 tuvieron ojos blancos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 236
+**Subtema:** reproducción sexual · características ligadas al sexo
+
+Cuando aparearon a esta mosca (macho) con una hembra de ojos rojos, toda la progenie F1 tuvo ojos rojos. Aparentemente, el alelo para ojos blancos era recesivo.
+
+### 112
+
+De acuerdo con el libro de Biología de Curtis, ¿qué hipótesis formuló el equipo de Morgan sobre el gen para el color de ojos?
+
+- A. Que el gen para el color de ojos se encuentra solo en el cromosoma X
+- B. Que el gen para el color de ojos se encuentra solo en el cromosoma Y
+- C. Que el gen para el color de ojos se encuentra en los autosomas
+- D. Que el gen para el color de ojos se encuentra tanto en el X como en el Y
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 236
+**Subtema:** reproducción sexual · características ligadas al sexo
+
+Sobre la base de estos experimentos se formuló la siguiente hipótesis: el gen para el color de ojos se encuentra solo en el cromosoma X.
+
+### 113
+
+De acuerdo con el libro de Biología de Curtis, ¿qué concepto introdujeron estos experimentos de Morgan?
+
+- A. El concepto de características ligadas al sexo
+- B. El concepto de dominancia incompleta
+- C. El concepto de mutágeno
+- D. El concepto de codominancia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 236
+**Subtema:** reproducción sexual · características ligadas al sexo
+
+Estos experimentos introdujeron el concepto de características ligadas al sexo que son tan importantes en la genética de los humanos como en la de las moscas de la fruta.
+
+### 114
+
+De acuerdo con el libro de Biología de Curtis, ¿de qué convencieron a Morgan y a muchos genetistas los resultados de los cruzamientos entre moscas de ojos blancos y de ojos rojos?
+
+- A. De que la hipótesis de Sutton era correcta: los genes están en los cromosomas
+- B. De que los genes están en el citoplasma de la célula
+- C. De que el color de los ojos no era una característica hereditaria
+- D. De que Mendel se había equivocado en sus leyes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 236
+**Subtema:** reproducción sexual · características ligadas al sexo
+
+Los resultados de los cruzamientos entre las moscas de la fruta de ojos blancos y las de ojos rojos convencieron a Morgan y a muchos otros genetistas de que la hipótesis de Sutton era correcta: los genes están en los cromosomas.
+
+### 115
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-28, ¿cómo se representan el alelo salvaje para ojos rojos y la característica menos común de ojos blancos?
+
+- A. El alelo salvaje para ojos rojos con una B y el de ojos blancos con una b
+- B. El alelo para ojos rojos con una b y el de ojos blancos con una B
+- C. Ambos alelos con la letra X
+- D. El alelo para ojos rojos con una R y el de ojos blancos con una r
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 237
+**Subtema:** reproducción sexual · características ligadas al sexo
+
+El alelo salvaje para ojos rojos se representa con una B y la característica menos común, ojos blancos, con una b.
+
+### 116
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-28, al cruzar entre sí moscas de ojos rojos de la F1, ¿qué se obtuvo en la generación F2 y qué sugirió?
+
+- A. Machos de ojos rojos y de ojos blancos, pero todas las hembras de ojos rojos; sugirió una relación entre el color de ojos y los cromosomas sexuales
+- B. Todas las moscas de ojos rojos, sin relación alguna con el sexo
+- C. Todos los machos de ojos rojos y todas las hembras de ojos blancos
+- D. Machos y hembras por igual, la mitad de cada uno con ojos blancos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 237
+**Subtema:** reproducción sexual · características ligadas al sexo
+
+Cuando apareó a una hembra de ojos rojos de la F1 con un macho de ojos rojos de la F1, obtuvo en la generación F2 machos de ojos rojos y de ojos blancos, pero todas las hembras F2 tuvieron ojos rojos. Esto sugirió una relación entre la herencia del color de ojos y el comportamiento de los cromosomas sexuales.
+
+### 117
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-28, en el cruzamiento de prueba entre una hembra F1 de ojos rojos (de genotipo desconocido) y el macho original de ojos blancos, ¿qué indicaron los resultados?
+
+- A. Que la hembra F1 era heterocigótica, y sugirieron que el gen para el color de ojos estaba localizado en el cromosoma X
+- B. Que la hembra F1 era homocigótica dominante
+- C. Que la hembra F1 era homocigótica recesiva
+- D. Que la hembra F1 no portaba el gen para el color de ojos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 237
+**Subtema:** reproducción sexual · características ligadas al sexo
+
+El genotipo de la hembra antes del cruzamiento de prueba era desconocido; la hembra de la F1 podía ser tanto homocigótica como heterocigótica. Los resultados indicaron que la segunda opción era la correcta y sugirieron que el gen para el color de ojos debía estar localizado en el cromosoma X.
+
+### 118
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-29 (cruce entre una hembra de ojos blancos y un macho de ojos rojos), ¿por qué los machos F1 son todos de ojos blancos?
+
+- A. Porque con su único cromosoma X recibido de la hembra llevan el alelo recesivo b, y el cromosoma Y no lleva gen para color de ojos
+- B. Porque reciben el alelo recesivo del padre de ojos rojos
+- C. Porque en los machos el alelo para ojos blancos se vuelve dominante
+- D. Porque el cromosoma Y lleva el alelo para ojos blancos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 238
+**Subtema:** reproducción sexual · características ligadas al sexo
+
+Los machos F1, con su único cromosoma X recibido de la hembra, llevan el alelo recesivo b y serán todos de ojos blancos, dado que el cromosoma Y no lleva gen para color de ojos.
+
+> Cruces recíprocos, la clave del ligamiento al sexo: en la figura 11-28 (macho
+> blanco × hembra roja) la F1 es toda de ojos rojos; en la figura 11-29 (hembra
+> blanca × macho rojo) los machos F1 son todos de ojos blancos. Que el resultado
+> cambie al invertir los sexos de los progenitores es lo que delata que el gen va
+> en el cromosoma X.
+
+---
+
+## Sub-lote 30 · Müller, los mutágenos y el ligamiento entre genes (p. 236)
+
+### 119
+
+De acuerdo con el libro de Biología de Curtis, ¿qué encontró en 1927 Hermann J. Müller, uno de los colaboradores de Morgan?
+
+- A. Que la exposición a los rayos X incrementaba en gran medida la velocidad de mutación en *Drosophila*
+- B. Que los rayos X detenían por completo las mutaciones en *Drosophila*
+- C. Que las mutaciones solo se producían de forma espontánea
+- D. Que los rayos X cambiaban el sexo de las moscas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 236
+**Subtema:** reproducción sexual · ligamiento y mutágenos
+
+Hermann J. Müller (1890-1967), uno de los colaboradores de Morgan, encontró que la exposición a los rayos X incrementaba en gran medida la velocidad de mutación en *Drosophila*.
+
+### 120
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se llama a los agentes que producen mutaciones, como la luz ultravioleta y ciertos agentes químicos?
+
+- A. Mutágenos
+- B. Mutantes
+- C. Autosomas
+- D. Alelos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 236
+**Subtema:** reproducción sexual · ligamiento y mutágenos
+
+Otras formas de radiación, como la luz ultravioleta y ciertos agentes químicos, también actuaban como agentes que producen mutaciones, es decir, son mutágenos.
+
+> No confundir **mutágeno** (el agente que produce la mutación) con **mutante** (el
+> organismo que la exhibe): el distractor B del reactivo 120 explota esa confusión.
+
+### 121
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se dice que están los genes que tienden a segregar en conjunto porque están próximos en un mismo cromosoma?
+
+- A. Están ligados: pertenecen al mismo grupo de ligamiento
+- B. Están recombinados: pertenecen a distintos grupos de ligamiento
+- C. Se distribuyen en forma independiente uno del otro
+- D. Están mutados por acción de un mutágeno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 236
+**Subtema:** reproducción sexual · ligamiento y mutágenos
+
+Se dice que los genes que tienden a segregar en conjunto, porque están próximos en un mismo cromosoma, se encuentran ligados, es decir, pertenecen al mismo grupo de ligamiento.
+
+---
+
+**Reactivos en este archivo:** 121
