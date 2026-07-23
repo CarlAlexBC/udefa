@@ -32,7 +32,7 @@ leyeron de la hoja, no se calcularon.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **212 a 216 y 218 a 223**: qué es la reproducción
+Cubiertas las páginas impresas **212 a 216 y 218 a 226**: qué es la reproducción
 sexual, la meiosis y la fecundación, el cigoto, las dotaciones cromosómicas, los
 números de cromosomas por especie, el entrecruzamiento, las fases de la meiosis,
 las diferencias entre mitosis y meiosis, el cariotipo y el número cromosómico
@@ -40,7 +40,9 @@ humano, la gametogénesis (espermatogénesis y oogénesis), el momento de la mei
 femenina, autosomas y cromosomas sexuales X/Y, la no disyunción, la
 variabilidad genética, la transferencia horizontal y vertical de genes, y los
 experimentos de Mendel: quién fue, qué demostró y su método experimental con el
-guisante *Pisum sativum*.
+guisante *Pisum sativum*, el diseño de sus cruzamientos (hibridación, generaciones
+P/F1/F2, líneas puras), los caracteres dominantes y recesivos con la relación 3:1,
+y la primera ley de Mendel o principio de segregación.
 
 Las páginas 217 y 219 son íntegramente figuras (11-6, 11-10 y 11-11), y la 222
 trae la biografía de Mendel de la que sí salieron reactivos.
@@ -49,7 +51,7 @@ trae la biografía de Mendel de la que sí salieron reactivos.
 (la palabra salió cortada en el extractor, parecía "elementen"). No se escribió
 reactivo sobre ese término hasta recortarlo a alta resolución y confirmarlo.
 
-**Pendiente:** del capítulo 11 falta de la página impresa 224 en adelante (hoja 270+): las tres leyes de Mendel, el recuadro social de la página 210 y los ensayos 11-1 y 11-2. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 11 falta de la página impresa 227 en adelante (hoja 273+): el cruzamiento de prueba, la segunda ley de Mendel (distribución independiente), el recuadro social de la página 210 y los ensayos 11-1 y 11-2. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -869,4 +871,196 @@ En consecuencia, la flor normalmente se autopoliniza; es decir, los anterozoides
 
 ---
 
-**Reactivos en este archivo:** 50
+## Sub-lote 15 · El diseño de los experimentos de Mendel (p. 224)
+
+### 51
+
+De acuerdo con el libro de Biología de Curtis, ¿con cuántas variedades diferentes de plantas de guisante comenzó Mendel su trabajo?
+
+- A. Con 32 variedades
+- B. Con 7 variedades
+- C. Con 46 variedades
+- D. Con 2 variedades
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 224
+**Subtema:** reproducción sexual · experimentos de Mendel
+
+Mendel comenzó su trabajo con 32 variedades diferentes de plantas de guisante, a las que estudió durante varios años antes de comenzar sus experimentos cuantitativos.
+
+### 52
+
+De acuerdo con el libro de Biología de Curtis, ¿cuántas características seleccionó Mendel para su estudio, cada una con dos variantes distintas?
+
+- A. Siete características
+- B. Dos características
+- C. Treinta y dos características
+- D. Tres características
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 224
+**Subtema:** reproducción sexual · experimentos de Mendel
+
+Seleccionó siete características: cada una aparecía en dos variantes conspicuamente distintas en las diferentes variedades de la misma planta.
+
+### 53
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se denomina el cruzamiento artificial entre dos variedades de líneas genéticamente puras?
+
+- A. Hibridación
+- B. Autopolinización
+- C. Segregación
+- D. Transducción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 224
+**Subtema:** reproducción sexual · experimentos de Mendel
+
+Realizó cruzamientos artificiales entre dos variedades de líneas genéticamente puras (p. ej., una línea pura de flores púrpura y una línea pura de flores blancas). Este tipo de cruzamiento se denomina hibridación.
+
+### 54
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo denominó Mendel a la generación de líneas puras y a la descendencia híbrida de su cruzamiento?
+
+- A. Generación parental (P) a las líneas puras y generación filial 1 (F1) a la descendencia híbrida
+- B. Generación filial 1 (F1) a las líneas puras y generación parental (P) a la descendencia
+- C. Generación F2 a las líneas puras y F1 a la descendencia
+- D. Generación híbrida a las líneas puras y generación pura a la descendencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 224
+**Subtema:** reproducción sexual · experimentos de Mendel
+
+A la generación de líneas puras, generación parental (P). A la descendencia híbrida, es decir, a todas las plantas que crecen a partir de las semillas resultantes de la hibridación de P, la denominó generación filial 1 (F1).
+
+### 55
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se obtiene la generación filial 2 (F2)?
+
+- A. Dejando que las plantas de F1 se autopolinicen
+- B. Cruzando las plantas de F1 con la generación parental
+- C. Cruzando dos líneas puras diferentes
+- D. Autopolinizando la generación parental
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 224
+**Subtema:** reproducción sexual · experimentos de Mendel
+
+Luego, dejaba que las plantas de F1 se autopolinizaran, lo cual daba como resultado una nueva generación: la generación filial 2 (F2).
+
+### 56
+
+De acuerdo con el libro de Biología de Curtis, ¿qué caracteriza a una línea pura respecto de una característica?
+
+- A. Que a través de sucesivas autopolinizaciones esa característica no cambia de una generación a la siguiente
+- B. Que la característica se mezcla con la de otras variedades en cada generación
+- C. Que la característica desaparece en la primera generación
+- D. Que la característica aparece en una relación 3:1
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 224
+**Subtema:** reproducción sexual · experimentos de Mendel
+
+Se pueden obtener fácilmente líneas puras en relación con una determinada característica; es decir que a través de sucesivas autopolinizaciones esa característica no cambia de una generación a la siguiente.
+
+---
+
+## Sub-lote 16 · Caracteres dominantes y recesivos (pp. 225–226)
+
+### 57
+
+De acuerdo con el libro de Biología de Curtis, al analizar la F1, ¿cuántas de las dos variantes alternativas mostraban los miembros de la progenie?
+
+- A. Solo una de las dos variantes alternativas
+- B. Las dos variantes por igual
+- C. Una variante intermedia entre las dos
+- D. Ninguna de las dos variantes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 224
+**Subtema:** reproducción sexual · dominancia
+
+Mendel encontró que, en todos los casos, al analizar la F1, todos los miembros de la progenie mostraban solo una de las dos variantes alternativas; la otra desaparecía.
+
+### 58
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo llamó Mendel a las variantes que aparecían en la F1 y volvían a aparecer en la F2 en mayor proporción, como las semillas amarillas y las flores púrpura?
+
+- A. Caracteres dominantes
+- B. Caracteres recesivos
+- C. Caracteres intermedios
+- D. Líneas puras
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 225
+**Subtema:** reproducción sexual · dominancia
+
+A las variantes presentes en la generación P, que aparecían en la generación F1 y que volvían a aparecer en la F2 en mayor proporción, como las semillas amarillas y las flores púrpura, Mendel las llamó caracteres dominantes.
+
+### 59
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué relación aproximada aparecen las variantes dominantes y recesivas en la generación F2?
+
+- A. En una relación aproximada de 3:1
+- B. En una relación aproximada de 1:1
+- C. En una relación aproximada de 2:1
+- D. En una relación aproximada de 9:3:3:1
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 226
+**Subtema:** reproducción sexual · dominancia
+
+Podemos comprobar que las variantes dominantes y recesivas aparecen en la segunda generación (generación F2) en una relación aproximada de 3:1.
+
+---
+
+## Sub-lote 17 · La primera ley de Mendel (p. 226)
+
+### 60
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se conoce hoy la primera ley de Mendel?
+
+- A. Como el principio de segregación
+- B. Como el principio de la distribución independiente
+- C. Como el principio de dominancia
+- D. Como el principio de la transferencia horizontal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 226
+**Subtema:** reproducción sexual · primera ley de Mendel
+
+Esto condujo a formular lo que hoy se conoce como primera ley de Mendel o principio de segregación.
+
+### 61
+
+De acuerdo con el libro de Biología de Curtis, ¿qué establece la primera ley de Mendel o principio de segregación?
+
+- A. Cada individuo lleva un par de factores hereditarios para cada característica, y los miembros del par se separan o segregan durante la formación de los gametos
+- B. Los factores hereditarios de distintas características se distribuyen de manera independiente
+- C. Un factor dominante siempre suprime al recesivo en todas las generaciones
+- D. Cada individuo lleva un solo factor hereditario para cada característica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 226
+**Subtema:** reproducción sexual · primera ley de Mendel
+
+Cada individuo lleva un par de factores hereditarios para cada característica. Los miembros del par se separan –o segregan– durante la formación de los gametos.
+
+### 62
+
+De acuerdo con el libro de Biología de Curtis, según la explicación de Mendel, ¿cómo están los factores en las plantas F1?
+
+- A. En pares: un miembro de cada par heredado de un progenitor y el otro del otro progenitor
+- B. En unidades individuales heredadas de un solo progenitor
+- C. Mezclados de forma intermedia entre ambos progenitores
+- D. En grupos de tres factores por característica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 226
+**Subtema:** reproducción sexual · primera ley de Mendel
+
+Explicó que estos factores están en las plantas F1 en pares: un miembro de cada par sería heredado de un progenitor y el otro, del otro progenitor.
+
+---
+
+**Reactivos en este archivo:** 62
