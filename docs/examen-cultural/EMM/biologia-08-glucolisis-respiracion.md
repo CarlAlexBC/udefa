@@ -44,7 +44,7 @@ página **159** (hoja 205).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **146 a 152**:
+Cubiertas las páginas impresas **146 a 153**:
 
 - La glucólisis como vía central; el ATP como principal transportador de energía
   y dónde interviene.
@@ -68,8 +68,10 @@ Cubiertas las páginas impresas **146 a 152**:
 - El balance del ciclo de Krebs; la etapa final del transporte de electrones y
   la cadena respiratoria; el acoplamiento quimiosmótico de Peter Mitchell; y el
   rendimiento energético global de 38 ATP por molécula de glucosa.
+- Las figuras 8-8 y 8-9: el detalle de la cadena transportadora con sus tres
+  complejos y la ATP sintetasa, y el resumen completo del proceso.
 
-**Pendiente:** del capítulo 8, las páginas impresas 153 a 158, y el apartado
+**Pendiente:** del capítulo 8, las páginas impresas 154 a 158, y el apartado
 "Biología en contexto social" de las páginas 145–146. De la materia siguen sin
 empezar los capítulos 11, 12, 31, 32, 35, 36 y 37.
 
@@ -1965,4 +1967,186 @@ Nótese que, a excepción de dos, las 38 moléculas de ATP provienen de reaccion
 
 ---
 
-**Reactivos en este archivo:** 113
+## Sub-lote 24 · La cadena transportadora en la figura 8-8 (p. 153)
+
+### 114
+
+En relación con el libro de Biología, ¿qué contienen los complejos de proteínas inmersos en la membrana mitocondrial interna?
+
+- A. Los transportadores de electrones y las enzimas necesarias para catalizar la transferencia de electrones de un transportador a otro
+- B. Únicamente los transportadores de electrones, sin enzimas
+- C. Las reservas de glucógeno de la célula
+- D. El material genético propio de la mitocondria
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 153
+**Subtema:** Respiración celular · cadena transportadora
+
+Estos complejos contienen los transportadores de electrones y las enzimas necesarias para catalizar la transferencia de electrones de un transportador a otro.
+
+### 115
+
+De acuerdo con el libro de Biología, mientras los electrones son transportados a lo largo de la cadena respiratoria, ¿qué se bombea y hacia dónde?
+
+- A. Se bombean protones a través de los complejos proteicos, desde la matriz hacia el espacio intermembrana
+- B. Se bombean protones desde el espacio intermembrana hacia la matriz
+- C. Se bombean electrones desde la matriz hacia el citosol
+- D. Se bombea oxígeno desde el citosol hacia la matriz
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 153
+**Subtema:** Respiración celular · cadena transportadora
+
+Mientras los electrones son transportados a lo largo de la cadena respiratoria, se bombean protones a través de los complejos proteicos, desde la matriz hacia el espacio intermembrana.
+
+### 116
+
+De conformidad con el libro de Biología, ¿con qué se combinan finalmente los electrones y qué se forma?
+
+- A. Con los protones y el oxígeno, y se forma agua
+- B. Con el dióxido de carbono, y se forma glucosa
+- C. Con el NAD⁺, y se forma NADH
+- D. Con el fosfato inorgánico, y se forma ATP
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 153
+**Subtema:** Respiración celular · cadena transportadora
+
+Los electrones finalmente se combinan con los H⁺ y el oxígeno, y se forma agua.
+
+### 117
+
+En relación con el libro de Biología, ¿qué suministra la energía por medio de la cual se genera el ATP a partir del ADP y el fosfato inorgánico?
+
+- A. El movimiento de protones a favor del gradiente, a medida que pasan a través del complejo de la ATP sintetasa
+- B. El movimiento de protones en contra del gradiente, impulsado por el ATP ya formado
+- C. La oxidación directa de la glucosa en la matriz mitocondrial
+- D. La combinación del oxígeno con el dióxido de carbono
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 153
+**Subtema:** Respiración celular · cadena transportadora
+
+El movimiento de protones a favor del gradiente, a medida que pasan a través del complejo de la ATP sintetasa, suministra la energía por medio de la cual se genera el ATP a partir del ADP y el fosfato inorgánico.
+
+> Aquí se cierra el argumento de Mitchell: los complejos **suben** los protones al
+> espacio intermembrana gastando la energía de los electrones, y luego esos
+> protones **bajan** por la ATP sintetasa, y esa bajada es la que fabrica el ATP.
+
+### 118
+
+De acuerdo con el libro de Biología, ¿qué tres complejos rotula el esquema de la cadena transportadora de electrones?
+
+- A. El complejo NADH deshidrogenasa, el complejo citocromo b-c₁ y el complejo citocromo oxidasa
+- B. El complejo piruvato deshidrogenasa, el complejo citocromo b-c₁ y el complejo ATP sintetasa
+- C. El complejo NADH deshidrogenasa, el complejo aldolasa y el complejo citocromo oxidasa
+- D. El complejo citocromo oxidasa, el complejo hexocinasa y el complejo ATP sintetasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 153
+**Subtema:** Respiración celular · cadena transportadora
+
+Complejo NADH deshidrogenasa, complejo citocromo b-c₁, complejo citocromo oxidasa.
+
+---
+
+## Sub-lote 25 · El resumen de la respiración celular (figura 8-9, p. 153)
+
+### 119
+
+De conformidad con el libro de Biología, según el esquema resumen, ¿dónde ocurre la glucólisis?
+
+- A. En el citosol
+- B. En la matriz mitocondrial
+- C. En la membrana mitocondrial interna
+- D. En el espacio intermembrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 153
+**Subtema:** Respiración celular · resumen del proceso
+
+Citosol: glucosa, glucólisis, 2 piruvato.
+
+### 120
+
+En relación con el libro de Biología, según el esquema resumen, ¿en qué se convierten los 2 NADH producidos en el citosol?
+
+- A. En 2 NADH o 2 FADH₂
+- B. En 2 ATP o 2 GTP
+- C. En 2 acetil-CoA
+- D. En 2 moléculas de agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 153
+**Subtema:** Respiración celular · resumen del proceso
+
+2 NADH → 2 NADH o 2 FADH₂.
+
+### 121
+
+De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, según el esquema resumen, ¿cuántos NADH y FADH₂ salen del ciclo de Krebs?
+
+- A. 6 NADH y 2 FADH₂
+- B. 2 NADH y 6 FADH₂
+- C. 6 NADH y 6 FADH₂
+- D. 2 NADH y 2 FADH₂
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 153
+**Subtema:** Respiración celular · resumen del proceso
+
+Ciclo de Krebs: 6 NADH, 2 FADH₂.
+
+### 122
+
+De conformidad con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, según el esquema resumen, ¿cuánto ATP aporta la fosforilación oxidativa?
+
+- A. Aproximadamente 32 o 34 ATP
+- B. Aproximadamente 36 o 38 ATP
+- C. Exactamente 2 ATP
+- D. Aproximadamente 12 o 14 ATP
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 153
+**Subtema:** Respiración celular · resumen del proceso
+
+Fosforilación oxidativa: transporte de electrones y quimiósmosis, + aproximadamente 32 o 34 ATP.
+
+### 123
+
+En relación con el libro de Biología, según el esquema resumen, ¿cuál es el total aproximado de ATP del proceso completo?
+
+- A. Aproximadamente 36 o 38 ATP
+- B. Aproximadamente 32 o 34 ATP
+- C. Exactamente 38 ATP
+- D. Aproximadamente 4 ATP
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 153
+**Subtema:** Respiración celular · resumen del proceso
+
++ aproximadamente 36 o 38 ATP.
+
+> Ojo a la diferencia con la página anterior: el **texto** dice "como máximo 38",
+> y la **figura** da el rango "aproximadamente 36 o 38". No se contradicen —el
+> 38 es el techo teórico y el 36 el caso en que el NADH del citosol entra como
+> FADH₂—, pero conviene tener presentes las dos cifras.
+
+### 124
+
+De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, según el esquema resumen, ¿cuánto ATP aportan por separado la glucólisis y el ciclo de Krebs?
+
+- A. 2 ATP cada uno
+- B. 4 ATP cada uno
+- C. 2 ATP la glucólisis y 4 el ciclo de Krebs
+- D. 4 ATP la glucólisis y 2 el ciclo de Krebs
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 153
+**Subtema:** Respiración celular · resumen del proceso
+
++2 ATP (glucólisis), + 2 ATP (ciclo de Krebs).
+
+---
+
+**Reactivos en este archivo:** 124
