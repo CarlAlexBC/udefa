@@ -32,7 +32,7 @@ leyeron de la hoja, no se calcularon.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **212 a 216 y 218 a 226**: qué es la reproducción
+Cubiertas las páginas impresas **212 a 216 y 218 a 227**: qué es la reproducción
 sexual, la meiosis y la fecundación, el cigoto, las dotaciones cromosómicas, los
 números de cromosomas por especie, el entrecruzamiento, las fases de la meiosis,
 las diferencias entre mitosis y meiosis, el cariotipo y el número cromosómico
@@ -42,7 +42,9 @@ variabilidad genética, la transferencia horizontal y vertical de genes, y los
 experimentos de Mendel: quién fue, qué demostró y su método experimental con el
 guisante *Pisum sativum*, el diseño de sus cruzamientos (hibridación, generaciones
 P/F1/F2, líneas puras), los caracteres dominantes y recesivos con la relación 3:1,
-y la primera ley de Mendel o principio de segregación.
+la primera ley de Mendel o principio de segregación, y el vocabulario genético
+moderno: genotipo, fenotipo, alelos, homocigosis y heterocigosis, dominancia y el
+tablero de Punnett.
 
 Las páginas 217 y 219 son íntegramente figuras (11-6, 11-10 y 11-11), y la 222
 trae la biografía de Mendel de la que sí salieron reactivos.
@@ -51,7 +53,7 @@ trae la biografía de Mendel de la que sí salieron reactivos.
 (la palabra salió cortada en el extractor, parecía "elementen"). No se escribió
 reactivo sobre ese término hasta recortarlo a alta resolución y confirmarlo.
 
-**Pendiente:** del capítulo 11 falta de la página impresa 227 en adelante (hoja 273+): el cruzamiento de prueba, la segunda ley de Mendel (distribución independiente), el recuadro social de la página 210 y los ensayos 11-1 y 11-2. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 11 falta de la página impresa 228 en adelante (hoja 274+): el cruzamiento de prueba, la segunda ley de Mendel (distribución independiente), el recuadro social de la página 210 y los ensayos 11-1 y 11-2. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -1063,4 +1065,170 @@ Explicó que estos factores están en las plantas F1 en pares: un miembro de cad
 
 ---
 
-**Reactivos en este archivo:** 62
+## Sub-lote 18 · Genotipo, fenotipo y alelos (p. 227)
+
+### 63
+
+De acuerdo con el libro de Biología de Curtis, ¿qué constituye el genotipo de un individuo?
+
+- A. Su composición genética respecto de una o varias características
+- B. Su apariencia externa y características observables
+- C. El conjunto de sus alelos dominantes únicamente
+- D. El número de cromosomas de sus células somáticas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · genotipo y fenotipo
+
+La composición genética de un individuo respecto de una o a varias características constituye su genotipo.
+
+### 64
+
+De acuerdo con el libro de Biología de Curtis, ¿qué constituye el fenotipo de un organismo?
+
+- A. Su apariencia externa y otras características observables o mensurables
+- B. Su composición genética respecto de una característica
+- C. El par de factores hereditarios de cada gen
+- D. La forma alternativa de un gen
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · genotipo y fenotipo
+
+La apariencia externa y otras características observables o mensurables de un organismo constituyen su fenotipo.
+
+> Los reactivos 63 y 64 son el par obligado: el **genotipo** es la composición
+> genética y el **fenotipo** la apariencia observable. Cada uno es el distractor
+> del otro.
+
+### 65
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se conocen las diferentes variantes o formas alternativas que puede presentar un gen que codifica una característica dada?
+
+- A. Alelos
+- B. Genotipos
+- C. Cromosomas homólogos
+- D. Factores dominantes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · alelos
+
+Cualquier gen que codifica una característica dada, como el color de las semillas, puede presentar diferentes variantes, formas alternativas, que se conocen como alelos.
+
+### 66
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se representan por medio de letras los alelos dominantes y los recesivos?
+
+- A. Mayúsculas para los alelos dominantes y minúsculas para los recesivos
+- B. Minúsculas para los alelos dominantes y mayúsculas para los recesivos
+- C. Números para los dominantes y letras para los recesivos
+- D. Letras griegas para los dominantes y latinas para los recesivos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · alelos
+
+Estos pueden representarse por medio de letras: mayúsculas para los alelos dominantes y minúsculas para los recesivos.
+
+---
+
+## Sub-lote 19 · Homocigosis, heterocigosis y dominancia (p. 227)
+
+### 67
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo es un organismo cuyos dos alelos son iguales, por ejemplo AA o aa?
+
+- A. Homocigótico para esa característica
+- B. Heterocigótico para esa característica
+- C. Fenotípicamente recesivo
+- D. Diploide para esa característica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · homocigosis y heterocigosis
+
+Si ambos alelos son iguales (p. ej., AA o aa), el organismo es homocigótico para esa característica.
+
+### 68
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo es un organismo cuyos dos alelos son diferentes, por ejemplo Aa?
+
+- A. Heterocigótico para esa característica
+- B. Homocigótico para esa característica
+- C. Fenotípicamente dominante puro
+- D. Haploide para esa característica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · homocigosis y heterocigosis
+
+Si ambos alelos son diferentes (p. ej., Aa), el organismo es heterocigótico para la característica.
+
+### 69
+
+De acuerdo con el libro de Biología de Curtis, ¿cuándo se manifiesta fenotípicamente un alelo dominante?
+
+- A. Tanto en homocigosis como en heterocigosis
+- B. Solo en homocigosis
+- C. Solo en heterocigosis
+- D. Solo cuando se reúne con un alelo recesivo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · dominancia
+
+Un alelo dominante se manifiesta fenotípicamente tanto en homocigosis como en heterocigosis; un alelo recesivo solo se manifiesta en homocigosis.
+
+### 70
+
+De acuerdo con el libro de Biología de Curtis, ¿cuándo se manifiesta un alelo recesivo?
+
+- A. Solo en homocigosis
+- B. Tanto en homocigosis como en heterocigosis
+- C. Solo en heterocigosis
+- D. Nunca se manifiesta en el fenotipo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · dominancia
+
+Un alelo recesivo solo se manifiesta en homocigosis.
+
+### 71
+
+De acuerdo con el libro de Biología de Curtis, ¿cuántos alelos de cada gen recibe cada gameto cuando se forman durante la meiosis?
+
+- A. Solamente un alelo de cada gen
+- B. Los dos alelos de cada gen
+- C. Ningún alelo, hasta la fecundación
+- D. Cuatro alelos de cada gen
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · segregación de alelos
+
+Cuando se forman los gametos durante la meiosis cada uno recibe solamente un alelo de cada gen. Luego, al producirse la fecundación y la formación del cigoto, los alelos se reúnen nuevamente en pares.
+
+---
+
+## Sub-lote 20 · El tablero de Punnett (p. 227)
+
+### 72
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se conoce la tabla de doble entrada que es una de las formas más simples de predecir los tipos de descendencia de un cruzamiento?
+
+- A. Tablero de Punnett
+- B. Cuadro de Mendel
+- C. Tabla de segregación
+- D. Cuadro de alelos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · tablero de Punnett
+
+Una de las formas más simples de predecir los tipos de descendencia que serán producidos a partir de ese cruzamiento es diagramarlo utilizando una tabla de doble entrada, conocida como tablero de Punnett.
+
+---
+
+**Reactivos en este archivo:** 72
