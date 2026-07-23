@@ -31,15 +31,20 @@ leyeron de la hoja, no se calcularon.
 
 ## Cobertura actual
 
-Cubierta la página impresa **246**: la evolución del concepto de gen (los biólogos
-de la década de 1940 y las enzimas; George Beadle y su hipótesis sobre el color de
-ojos de *Drosophila*; el experimento de Beadle y Tatum en 1941 con el moho rosado
-del pan *Neurospora* irradiado con rayos X; la síntesis "un gen: una enzima" y su
-evolución a "un gen: una proteína" y a "un gen: un polipéptido") y el dogma central
-de la biología (Francis Crick, 1957; qué establece y por qué "dogma" fue un nombre
-poco acertado).
+Cubiertas las páginas impresas **246 a 248**: la evolución del concepto de gen (los
+biólogos de la década de 1940 y las enzimas; George Beadle y su hipótesis sobre el
+color de ojos de *Drosophila*; el experimento de Beadle y Tatum en 1941 con el moho
+rosado del pan *Neurospora* irradiado con rayos X, fig. 12-1; la síntesis "un gen:
+una enzima" y su evolución a "un gen: una proteína" y a "un gen: un polipéptido");
+el dogma central de la biología (Francis Crick, 1957; qué establece, la fig. 12-2 y
+por qué "dogma" fue un nombre poco acertado / "hipótesis central"); las excepciones
+al dogma (Temin 1962 y los virus con ARN, la transcriptasa inversa de Baltimore en
+1970, el Nobel de 1975); y el arranque de la transcripción (los tres tipos de ARN
+—mensajero, ribosomal y de transferencia— y sus funciones, qué es la transcripción,
+la ARN polimerasa, el promotor y el terminador, Jacob y Monod en 1960, y la
+definición de traducción).
 
-**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 247 (hoja 293) en adelante. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 249 (hoja 295) en adelante. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -258,4 +263,261 @@ De acuerdo con el libro de Biología, ¿por qué "dogma" fue una denominación p
 
 ---
 
-**Reactivos en este archivo:** 13
+## Sub-lote 3 · El experimento de Beadle y Tatum y el dogma en imágenes (figs. 12-1 y 12-2, p. 247)
+
+### 14
+
+De acuerdo con el libro de Biología, según la figura 12-1, ¿qué propusieron Beadle y Tatum a partir de su experimento con *Neurospora*?
+
+- A. Que un cambio en un solo gen da como resultado un cambio en una sola enzima
+- B. Que un cambio en una sola enzima cambia todos los genes
+- C. Que las mutaciones no afectan a las enzimas
+- D. Que un solo gen produce muchas enzimas distintas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 247
+**Subtema:** flujo de información genética · concepto de gen
+
+Sobre la base de esta experiencia, Beadle y Tatum propusieron que un cambio en un solo gen da como resultado un cambio en una sola enzima.
+
+### 15
+
+De acuerdo con el libro de Biología, según la figura 12-2, ¿en qué dirección propuso Francis Crick que fluye la información?
+
+- A. En una única dirección: del ADN a las proteínas
+- B. En una única dirección: de las proteínas al ADN
+- C. En ambas direcciones entre el ADN y las proteínas
+- D. Únicamente de una proteína a otra proteína
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 247
+**Subtema:** flujo de información genética · dogma central
+
+Francis Crick propuso que la información fluye en una única dirección: del ADN a las proteínas.
+
+---
+
+## Sub-lote 4 · Las excepciones al dogma central (p. 248)
+
+### 16
+
+De acuerdo con el libro de Biología, ¿qué reveló en 1962 el virólogo Howard M. Temin como excepción al dogma?
+
+- A. Que algunos virus contienen ARN en lugar de ADN como material genético
+- B. Que todos los virus contienen ADN como material genético
+- C. Que las proteínas pueden formar ADN
+- D. Que el ADN no es material genético
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · dogma central
+
+Una de esas excepciones fue revelada en 1962 por el virólogo estadounidense Howard M. Temin (1934-1994), quien encontró que algunos virus contienen ARN en lugar de ADN como material genético.
+
+### 17
+
+De acuerdo con el libro de Biología, ¿cómo llamaron a la enzima que aislaron en 1970 Temin y Baltimore, y por qué?
+
+- A. Transcriptasa inversa o reversa, porque invierte el modelo de transcripción postulado por el dogma
+- B. ARN polimerasa, porque sintetiza moléculas de ARN
+- C. ADN polimerasa, porque replica el ADN
+- D. Traductasa, porque invierte la traducción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · dogma central
+
+Temin y otros investigadores, dirigidos por el virólogo estadounidense David Baltimore, en 1970 aislaron la enzima en cuestión a la que llamaron transcriptasa inversa o reversa, ya que invierte el modelo de transcripción postulado por el dogma.
+
+### 18
+
+De acuerdo con el libro de Biología, respecto de la reversibilidad, ¿en qué se diferencia la traducción de la transcripción?
+
+- A. La transcripción puede ser reversible, pero la traducción no: no se sintetiza material genético a partir de proteínas
+- B. La traducción puede ser reversible, pero la transcripción no
+- C. Ambas son siempre reversibles
+- D. Ninguna de las dos puede ser reversible
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · dogma central
+
+Si bien este es un ejemplo de que la transcripción puede ser reversible, hasta hoy no se ha encontrado que esto ocurra con la traducción; es decir, no se sintetiza material genético a partir de proteínas.
+
+### 19
+
+De acuerdo con el libro de Biología, ¿quiénes recibieron el Premio Nobel de Medicina en 1975 por estas investigaciones?
+
+- A. Baltimore, Temin y Renato Dulbecco
+- B. François Jacob, Jacques Monod y Francis Crick
+- C. George Beadle, Edgard Tatum y Thomas Morgan
+- D. James Watson, Francis Crick y Rosalind Franklin
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · dogma central
+
+Baltimore, Temin y el director de ambos, el estadounidense Renato Dulbecco, recibieron el Premio Nobel de Medicina en 1975 por sus investigaciones.
+
+### 20
+
+De acuerdo con el libro de Biología, tras ser criticado por usar la palabra "dogma", ¿cómo reconoció Crick que hubiera sido más adecuado llamar a su teoría?
+
+- A. "Hipótesis central"
+- B. "Ley central"
+- C. "Teoría del ADN"
+- D. "Principio de Crick"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · dogma central
+
+Después de haber publicado su teoría, Crick fue criticado por usar la palabra "dogma". Más tarde, él mismo reconoció que hubiera sido más adecuado llamarla "hipótesis central".
+
+---
+
+## Sub-lote 5 · La transcripción y los tres tipos de ARN (p. 248)
+
+### 21
+
+De acuerdo con el libro de Biología, ¿qué tres tipos de ARN intervienen en la síntesis de proteínas o traducción?
+
+- A. El mensajero (ARNm), el ribosomal (ARNr) y el de transferencia (ARNt)
+- B. El mensajero, el mitocondrial y el nuclear
+- C. El polimérico, el ribosomal y el catalítico
+- D. El de transcripción, el de traducción y el de replicación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · transcripción
+
+En la síntesis de proteínas o traducción intervienen tres tipos de ARN: el mensajero (ARNm), que es una copia del gen que codifica el polipéptido que se va a sintetizar; el ribosomal (ARNr), que forma parte de los ribosomas; y el de transferencia (ARNt), encargado de transportar aminoácidos al ribosoma.
+
+### 22
+
+De acuerdo con el libro de Biología, ¿qué es el ARN mensajero (ARNm)?
+
+- A. Una copia del gen que codifica el polipéptido que se va a sintetizar
+- B. El ARN que forma parte de los ribosomas
+- C. El ARN encargado de transportar aminoácidos al ribosoma
+- D. Una enzima que separa las dos cadenas del ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · transcripción
+
+El mensajero (ARNm) es una copia del gen que codifica el polipéptido que se va a sintetizar.
+
+### 23
+
+De acuerdo con el libro de Biología, ¿cuál es la función del ARN de transferencia (ARNt)?
+
+- A. Transportar aminoácidos al ribosoma
+- B. Formar parte de los ribosomas
+- C. Ser una copia del gen que codifica el polipéptido
+- D. Separar las dos cadenas del ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · transcripción
+
+El de transferencia (ARNt) es el encargado de transportar aminoácidos al ribosoma.
+
+### 24
+
+De acuerdo con el libro de Biología, ¿cuál es la función del ARN ribosomal (ARNr)?
+
+- A. Formar parte de los ribosomas
+- B. Transportar aminoácidos al ribosoma
+- C. Ser una copia del gen que codifica el polipéptido
+- D. Reconocer el terminador del gen
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · transcripción
+
+El ribosomal (ARNr) forma parte de los ribosomas.
+
+> Los tres ARN son vecinos que se confunden (reactivos 22, 23 y 24): el
+> **mensajero** copia el gen, el **ribosomal** forma parte de los ribosomas y el de
+> **transferencia** transporta aminoácidos al ribosoma. Cada función es el
+> distractor de las otras dos.
+
+### 25
+
+De acuerdo con el libro de Biología, ¿cómo se llama el proceso de copiado de los genes por el que se producen los tres tipos de ARN, y qué papel cumple?
+
+- A. Transcripción; en todas las células es el paso previo a la síntesis de proteínas
+- B. Traducción; es el paso final de la síntesis de proteínas
+- C. Replicación; duplica el ADN antes de que la célula se divida
+- D. Mutación; cambia la secuencia del gen
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · transcripción
+
+Todos ellos se producen de la misma manera: mediante un proceso de copiado de los diferentes genes llamado transcripción. En todas las células, la transcripción es el paso previo a la síntesis de proteínas.
+
+### 26
+
+De acuerdo con el libro de Biología, a grandes rasgos, ¿qué hace la enzima ARN polimerasa en la transcripción?
+
+- A. Reconoce el inicio de un gen, separa las dos cadenas del ADN y, usando solo una hebra como molde, sintetiza una molécula de ARN complementaria
+- B. Une los aminoácidos entre sí para formar la proteína
+- C. Transporta los aminoácidos hasta el ribosoma
+- D. Copia a la vez las dos hebras del ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · transcripción
+
+Una enzima llamada ARN polimerasa reconoce el inicio de un gen, separa las dos cadenas del ADN y, usando solo una de las hebras como molde, sintetiza una molécula de ARN complementaria a ella.
+
+### 27
+
+De acuerdo con el libro de Biología, en cada gen, ¿cómo se llaman la secuencia que indica dónde empieza y la que indica dónde termina la transcripción?
+
+- A. El promotor (señal de inicio) y el terminador (señal de fin)
+- B. El terminador (señal de inicio) y el promotor (señal de fin)
+- C. El codón (inicio) y el anticodón (fin)
+- D. El exón (inicio) y el intrón (fin)
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · transcripción
+
+Cada uno presenta una secuencia que indica dónde empieza, llamada promotor o secuencia promotora, que funciona como señal de inicio de la transcripción, y otra que indica dónde termina, el terminador o señal de fin de la transcripción.
+
+### 28
+
+De acuerdo con el libro de Biología, ¿quiénes propusieron en 1960 la existencia del ARN mensajero?
+
+- A. Los biólogos franceses François Jacob y Jacques Monod
+- B. George Beadle y Edgard Tatum
+- C. Howard Temin y David Baltimore
+- D. James Watson y Francis Crick
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · transcripción
+
+La existencia del ARN mensajero fue propuesta en 1960 por los biólogos franceses François Jacob (1920-2013) y Jacques Monod (1910-1976).
+
+### 29
+
+De acuerdo con el libro de Biología, ¿qué es la traducción?
+
+- A. El proceso mediante el cual los aminoácidos se ensamblan en una secuencia especificada por la secuencia de nucleótidos del ARNm
+- B. El copiado de un gen para producir una molécula de ARN
+- C. La duplicación del ADN antes de la división celular
+- D. La separación de las dos cadenas del ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 248
+**Subtema:** flujo de información genética · traducción
+
+La traducción es el proceso mediante el cual los aminoácidos se ensamblan en una secuencia que está especificada por la secuencia de nucleótidos del ARNm.
+
+---
+
+**Reactivos en este archivo:** 29
