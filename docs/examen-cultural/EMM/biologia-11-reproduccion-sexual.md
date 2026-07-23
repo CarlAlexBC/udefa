@@ -32,12 +32,12 @@ leyeron de la hoja, no se calcularon.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **212 a 213**: qué es la reproducción sexual,
+Cubiertas las páginas impresas **212 a 215**: qué es la reproducción sexual,
 la meiosis y la fecundación como sus dos hechos, el cigoto, las dotaciones
-cromosómicas (haploide, diploide, poliploide), los números de cromosomas por
-especie, y el entrecruzamiento.
+cromosómicas, los números de cromosomas por especie, el entrecruzamiento, las
+fases de la meiosis (figura 11-4) y las diferencias entre mitosis y meiosis.
 
-**Pendiente:** el capítulo 11 está recién arrancado; falta de la página impresa 214 en adelante (hoja 260+), incluido el recuadro social de la página 210 y los experimentos de Mendel. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 11 falta de la página impresa 216 en adelante (hoja 262+), incluido el recuadro social de la página 210 y los experimentos de Mendel. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -243,4 +243,117 @@ Al igual que la mitosis, la meiosis es un proceso continuo en el que se pueden r
 
 ---
 
-**Reactivos en este archivo:** 12
+## Sub-lote 4 · Las fases de la primera división meiótica (fig. 11-4, p. 214)
+
+### 13
+
+De acuerdo con el libro de Biología de Curtis, durante la profase I de la meiosis, ¿qué ocurre con la cromatina?
+
+- A. Se condensa y los cromosomas se hacen visibles con el microscopio óptico
+- B. Se descondensa y desaparece del núcleo
+- C. Se duplica sin condensarse
+- D. Se alinea en el plano ecuatorial
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 214
+**Subtema:** reproducción sexual · fases de la meiosis
+
+Profase I: la cromatina se condensa y los cromosomas se hacen visibles con el microscopio óptico.
+
+### 14
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se llaman los puntos de entrecruzamiento donde los cromosomas homólogos permanecen en íntima asociación hasta el fin de la profase?
+
+- A. Quiasmas
+- B. Cinetocoros
+- C. Centrómeros
+- D. Ásteres
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 214
+**Subtema:** reproducción sexual · fases de la meiosis
+
+A medida que avanza la profase, los homólogos de cada par comienzan a separarse entre sí, excepto en los puntos de entrecruzamiento o quiasmas, donde permanecen en íntima asociación hasta el fin de la profase.
+
+### 15
+
+De acuerdo con el libro de Biología de Curtis, ¿qué distingue a la metafase I de la meiosis respecto de la metafase de la mitosis?
+
+- A. Los pares de homólogos se alinean en el plano ecuatorial, a diferencia de la mitosis, donde los cromosomas duplicados se disponen sin apareamiento de los homólogos
+- B. Los cromosomas se disponen en el plano ecuatorial sin apareamiento
+- C. Las cromátidas hermanas se separan hacia los polos
+- D. La cromatina se condensa por primera vez
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 214
+**Subtema:** reproducción sexual · fases de la meiosis
+
+Metafase I: los pares de homólogos se alinean en el plano ecuatorial, a diferencia de la metafase de la mitosis, en la que los cromosomas duplicados se disponen en el plano ecuatorial sin apareamiento de los homólogos.
+
+### 16
+
+De acuerdo con el libro de Biología de Curtis, durante la anafase I de la meiosis, ¿qué ocurre con las dos cromátidas hermanas de cada homólogo?
+
+- A. No se separan como ocurre en la mitosis, sino que permanecen juntas
+- B. Se separan una de otra, como en la mitosis
+- C. Se duplican hacia los polos
+- D. Se alinean en el plano ecuatorial
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 214
+**Subtema:** reproducción sexual · fases de la meiosis
+
+Anafase I: los homólogos, cada uno formado por dos cromátidas hermanas, se separan como si fueran tironeados por las fibras del huso unidas a los cinetocoros. Sin embargo, las dos cromátidas hermanas de cada homólogo no se separan como ocurre en la mitosis, sino que permanecen juntas.
+
+### 17
+
+De acuerdo con el libro de Biología de Curtis, en la anafase II de la meiosis, ¿cómo puede llamarse cada cromátida cuando se separa y se mueve hacia uno de los polos?
+
+- A. Cromosoma
+- B. Homólogo
+- C. Quiasma
+- D. Cinetocoro
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 215
+**Subtema:** reproducción sexual · fases de la meiosis
+
+Anafase II. Al igual que en la anafase de la mitosis, las cromátidas se separan una de otra. Cada cromátida, que ahora puede ser llamada cromosoma, se mueve hacia uno de los polos.
+
+---
+
+## Sub-lote 5 · Mitosis y meiosis: procesos similares, pero diferentes (p. 215)
+
+### 18
+
+De acuerdo con el libro de Biología de Curtis, ¿cuántas veces se divide cada núcleo diploide durante la meiosis y cuántos núcleos produce?
+
+- A. Se divide dos veces y produce cuatro núcleos
+- B. Se divide una vez y produce dos núcleos
+- C. Se divide cuatro veces y produce ocho núcleos
+- D. Se divide dos veces y produce dos núcleos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 215
+**Subtema:** reproducción sexual · mitosis y meiosis
+
+Durante la meiosis, cada núcleo diploide se divide dos veces y produce cuatro núcleos.
+
+### 19
+
+De acuerdo con el libro de Biología de Curtis, ¿de qué depende que uno de los gametos contenga un cromosoma procedente de uno u otro progenitor?
+
+- A. Exclusivamente del azar
+- B. Del número de quiasmas formados
+- C. De la cantidad de cromátidas hermanas
+- D. Del orden de las fases de la meiosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 215
+**Subtema:** reproducción sexual · mitosis y meiosis
+
+El hecho de que uno de los gametos contenga un cromosoma procedente de uno u otro progenitor depende exclusivamente del azar. Este proceso azaroso hace que los núcleos haploides producidos por la meiosis contengan nuevas combinaciones de cromosomas.
+
+---
+
+**Reactivos en este archivo:** 19
