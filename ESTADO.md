@@ -18,7 +18,7 @@ _Regenerado el 2026-07-23._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM) | 2370 | abiertas: EMM · Biología |
+| Examen cultural (EMM, HCM) | 2377 | abiertas: EMM · Biología |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -37,7 +37,7 @@ _Regenerado el 2026-07-23._
 | EMM · Biología · Capítulo 7 · Metabolismo | 240 | ninguno. El capítulo 7 está cerrado en 240 reactivos (22 jul 2026). Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy `biologia-08-glucolisis-respiracion.md`. |
 | EMM · Biología · Capítulo 8 · Glucólisis y respiración celular | 149 | ninguno. El capítulo 8 está cerrado en 149 reactivos (23 jul 2026); los ejercicios de razonamiento de la página 158 quedan fuera por no ser de recuerdo literal. Lo que falta de Biología lo declara el archivo del último capítulo escrito — hoy, el capítulo 11. |
 | EMM · Biología · Capítulo 11 · La reproducción sexual y las bases cromosómicas de la herencia | 162 | ninguno. El capítulo 11 está cerrado en 162 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 12 (`biologia-12-flujo-informacion-genetica.md`). |
-| EMM · Biología · Capítulo 12 · El flujo de información genética y la síntesis de proteínas | 81 | el capítulo 12 está EN CURSO; sigue desde la página impresa 256 (hoja 302) en adelante (el codón de inicio y el mecanismo de la traducción en el ribosoma). Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente. |
+| EMM · Biología · Capítulo 12 · El flujo de información genética y la síntesis de proteínas | 88 | el capítulo 12 está EN CURSO; sigue desde la página impresa 257 (hoja 303) en adelante (el mecanismo de la traducción en el ribosoma: iniciación, elongación y terminación). Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente. |
 | HCM · Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
 | HCM · Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
 | HCM · Álgebra · Capítulo II · Resta | 23 | ninguno. El capítulo II (pp. 46–57) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-03-signos-agrupacion.md`. |
@@ -52,7 +52,7 @@ _Regenerado el 2026-07-23._
 | HCM · Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
 | HCM · Geografía · Capítulo 5 · Islas | 42 | ninguno. El capítulo 5 está cerrado. |
 | HCM · Historia · Capítulo 6 · El mundo contemporáneo | 600 | ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que pide el temario del HCM están completos, de la página 205 a la 279. |
-| **Total** | **2370** | |
+| **Total** | **2377** | |
 
 ## Personalidad (remaster)
 

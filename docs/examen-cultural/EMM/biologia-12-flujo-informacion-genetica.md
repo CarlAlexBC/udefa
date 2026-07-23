@@ -68,9 +68,14 @@ de tripletes). De la **página 255** se cubre el desciframiento del código (Nir
 y Matthaei), el codón, los 64 codones (61 codificantes y los tres de terminación
 UGA, UAA y UAG), el código degenerado o redundante y los codones sinónimos, el
 código universal y sus excepciones (*Mycoplasma*, *Paramecium* y las mitocondrias), y
-los cuatro grupos de los 20 aminoácidos de la fig. 12-9.
+los cuatro grupos de los 20 aminoácidos de la fig. 12-9. De la **página 256** se
+cubre que el código no es ambiguo (cada codón, un único aminoácido) y permite
+predecir la secuencia del polipéptido, el codón de inicio AUG desde el extremo 5',
+que las excepciones no contradicen el ancestro común, las aminoacil-ARNt sintetasas
+(al menos 20, la clave de la traducción) y la tabla del código genético (fig. 12-10,
+con los seis codones de la leucina).
 
-**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 256 (hoja 302) en adelante (el codón de inicio y el mecanismo de la traducción en el ribosoma). Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 257 (hoja 303) en adelante (el mecanismo de la traducción en el ribosoma: iniciación, elongación y terminación). Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -1375,4 +1380,117 @@ Los 20 aminoácidos que comúnmente constituyen las proteínas se agrupan en no 
 
 ---
 
-**Reactivos en este archivo:** 81
+## Sub-lote 17 · Las propiedades del código: no ambiguo, inicio y excepciones (p. 256)
+
+### 82
+
+De acuerdo con el libro de Biología, ¿por qué se dice que el código genético no es ambiguo?
+
+- A. Porque cada codón especifica un único aminoácido
+- B. Porque cada aminoácido tiene un solo codón
+- C. Porque existen codones sin sentido
+- D. Porque el código es universal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 256
+**Subtema:** flujo de información genética · código genético
+
+Cada codón especifica un único aminoácido; en este sentido se dice que el código genético no es ambiguo.
+
+### 83
+
+De acuerdo con el libro de Biología, conociendo la secuencia de nucleótidos de un determinado ARN mensajero, ¿qué permite el código genético?
+
+- A. Predecir la secuencia de aminoácidos que tendrá el polipéptido codificado en él
+- B. Predecir el número de cromosomas del organismo
+- C. Conocer la edad del organismo
+- D. Determinar el sexo del individuo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 256
+**Subtema:** flujo de información genética · código genético
+
+Conociendo la secuencia de nucleótidos de un determinado ARN mensajero, el código genético permite predecir la secuencia de aminoácidos que tendrá el polipéptido codificado en él.
+
+### 84
+
+De acuerdo con el libro de Biología, ¿cuál es el codón que funciona como señal de inicio de la traducción?
+
+- A. El primer codón AUG desde el extremo 5'
+- B. El codón UGA desde el extremo 3'
+- C. Cualquiera de los codones UAA, UAG o UGA
+- D. El último codón desde el extremo 5'
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 256
+**Subtema:** flujo de información genética · código genético
+
+El primer codón AUG desde el extremo 5' es el que funciona como señal de inicio.
+
+### 85
+
+De acuerdo con el libro de Biología, ¿qué muestran las excepciones al código universal respecto de la hipótesis del ancestro común?
+
+- A. No la contradicen; más bien confirman que el proceso evolutivo no es una ruta lineal
+- B. La contradicen por completo
+- C. Demuestran que no existe un ancestro común
+- D. No tienen ninguna relación con la evolución
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 256
+**Subtema:** flujo de información genética · código genético
+
+Estas excepciones no contradicen la hipótesis del ancestro común, más bien confirman que el proceso evolutivo no es una ruta lineal, sino que, muy por el contrario, reflejan la complejidad de la historia de la vida.
+
+---
+
+## Sub-lote 18 · Las aminoacil-ARNt sintetasas y la tabla del código (fig. 12-10, p. 256)
+
+### 86
+
+De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, ¿cuántas aminoacil-ARNt sintetasas diferentes existen, y para qué?
+
+- A. Por lo menos 20 diferentes, una o más para cada uno de los 20 aminoácidos
+- B. Una sola para todos los aminoácidos
+- C. 64 diferentes, una por cada codón
+- D. Tres diferentes, una por cada codón de terminación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 256
+**Subtema:** flujo de información genética · traducción
+
+Existen por lo menos 20 aminoacil-ARNt sintetasas diferentes, una o más para cada uno de los 20 aminoácidos que normalmente forman parte de las proteínas.
+
+### 87
+
+De acuerdo con el libro de Biología, ¿qué hace cada aminoacil-ARNt sintetasa, y por qué es importante?
+
+- A. Reconoce y une un determinado tipo de aminoácido con un determinado tipo de ARNt; en esa especificidad está la clave de la traducción
+- B. Corta los intrones del ARN mensajero
+- C. Copia la información del ADN a una molécula de ARN
+- D. Forma las uniones peptídicas dentro del ribosoma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 256
+**Subtema:** flujo de información genética · traducción
+
+Cada aminoacil-ARNt sintetasa reconoce y une un determinado tipo de aminoácido con un determinado tipo de ARNt. En esta especificidad está la clave de la traducción.
+
+### 88
+
+De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, según la figura 12-10, ¿cuántos tripletes diferentes corresponden al aminoácido leucina?
+
+- A. Seis tripletes diferentes
+- B. Un solo triplete
+- C. Veinte tripletes
+- D. Tres tripletes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 256
+**Subtema:** flujo de información genética · código genético
+
+Dado que los 61 tripletes codifican para 20 aminoácidos, hay codones "sinónimos", como los 6 tripletes diferentes que corresponden al aminoácido leucina.
+
+---
+
+**Reactivos en este archivo:** 88
