@@ -44,7 +44,7 @@ página **159** (hoja 205).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **146 a 149**:
+Cubiertas las páginas impresas **146 a 150**:
 
 - La glucólisis como vía central; el ATP como principal transportador de energía
   y dónde interviene.
@@ -60,8 +60,11 @@ Cubiertas las páginas impresas **146 a 149**:
   qué pasos gastan y cuáles fabrican ATP, y los tres primeros paso a paso.
 - La figura 8-4: las enzimas de la vía; el balance de las reacciones
   preparatorias; y los pasos 4 y 5, donde la vía se desdobla en dos moléculas.
+- Los pasos 6 a 9 y el balance neto de la glucólisis; la respiración aeróbica y
+  la estructura de la mitocondria; la oxidación del ácido pirúvico y la entrada
+  al ciclo de Krebs.
 
-**Pendiente:** del capítulo 8, las páginas impresas 150 a 158, y el apartado
+**Pendiente:** del capítulo 8, las páginas impresas 151 a 158, y el apartado
 "Biología en contexto social" de las páginas 145–146. De la materia siguen sin
 empezar los capítulos 11, 12, 31, 32, 35, 36 y 37.
 
@@ -1009,4 +1012,358 @@ Esta reacción es muy exergónica y la energía liberada es aprovechada por la m
 
 ---
 
-**Reactivos en este archivo:** 55
+## Sub-lote 12 · Los pasos 6 a 9 (p. 150)
+
+### 56
+
+De conformidad con el libro de Biología, ¿en qué se utiliza el grupo fosfato liberado de la molécula de difosfoglicerato en el paso 6?
+
+- A. En recargar una molécula de ADP, con un total de dos moléculas de ATP por molécula de glucosa
+- B. En reducir una molécula de NAD⁺ a NADH
+- C. En unirse a una nueva molécula de glucosa
+- D. En formar una molécula de agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Glucólisis · pasos 6 a 9
+
+Paso 6. El grupo fosfato incorporado en el paso anterior es liberado de la molécula de difosfoglicerato y utilizado en recargar una molécula de ADP (un total de dos moléculas de ATP por molécula de glucosa). Esta reacción es altamente exergónica.
+
+### 57
+
+En relación con el libro de Biología, ¿qué ocurre en el paso 7 de la glucólisis?
+
+- A. Se transfiere un grupo fosfato remanente desde la posición 3 a la posición 2
+- B. Se transfiere un grupo fosfato remanente desde la posición 2 a la posición 3
+- C. Se elimina una molécula de agua del compuesto de tres carbonos
+- D. Se forma una molécula de ATP a partir de ADP
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Glucólisis · pasos 6 a 9
+
+Paso 7. Se transfiere un grupo fosfato remanente desde la posición 3 a la posición 2.
+
+### 58
+
+De acuerdo con el libro de Biología, ¿qué se elimina en el paso 8 de la glucólisis?
+
+- A. Una molécula de agua del compuesto de tres carbonos
+- B. Una molécula de dióxido de carbono del compuesto de tres carbonos
+- C. Un grupo fosfato del compuesto de tres carbonos
+- D. Un átomo de hidrógeno del compuesto de tres carbonos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Glucólisis · pasos 6 a 9
+
+Paso 8. En este paso se elimina una molécula de agua del compuesto de tres carbonos.
+
+### 59
+
+De conformidad con el libro de Biología, ¿qué logra el reordenamiento interno de la molécula en el paso 8?
+
+- A. Cambia la distribución energética, concentrando la energía en el enlace del grupo fosfato, que se hace muy inestable y prepara a la molécula para la siguiente reacción
+- B. Reparte la energía por igual en toda la molécula, estabilizándola
+- C. Elimina toda la energía de la molécula en forma de calor
+- D. Duplica el número de átomos de carbono de la molécula
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Glucólisis · pasos 6 a 9
+
+Este reordenamiento interno de la molécula cambia la distribución energética en ella, concentrando la energía en el enlace del grupo fosfato que se hace muy inestable y prepara a la molécula para la siguiente reacción.
+
+### 60
+
+En relación con el libro de Biología, ¿qué ocurre en el paso 9 de la glucólisis?
+
+- A. El grupo fosfato de alta energía es transferido por la enzima piruvato cinasa a una molécula de ADP, y se forma otra molécula de ATP
+- B. El grupo fosfato de alta energía es transferido por la aldolasa a una molécula de NAD⁺
+- C. Se elimina una molécula de agua y se forma ácido pirúvico
+- D. Se escinde la molécula en dos compuestos de tres carbonos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Glucólisis · pasos 6 a 9
+
+Paso 9. El grupo fosfato de alta energía es transferido por la enzima piruvato cinasa a una molécula de ADP, y se forma otra molécula de ATP (nuevamente, un total de dos moléculas de ATP por molécula de glucosa). Esta es también una reacción altamente exergónica.
+
+---
+
+## Sub-lote 13 · El balance de la glucólisis (p. 150)
+
+### 61
+
+De acuerdo con el libro de Biología, ¿qué es necesario para iniciar la secuencia glucolítica?
+
+- A. La energía de los enlaces fosfato de dos moléculas de ATP
+- B. La energía de los enlaces fosfato de cuatro moléculas de ATP
+- C. La energía de dos moléculas de NADH
+- D. La presencia de oxígeno en el medio
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Glucólisis · balance
+
+Para iniciar la secuencia glucolítica (rotura de la glucosa) es necesaria la energía de los enlaces fosfato de dos moléculas de ATP.
+
+### 62
+
+De conformidad con el libro de Biología, ¿qué se produce posteriormente en la secuencia glucolítica?
+
+- A. Dos moléculas de NADH a partir de dos de NAD⁺ y cuatro de ATP a partir de cuatro de ADP
+- B. Cuatro moléculas de NADH a partir de cuatro de NAD⁺ y dos de ATP a partir de dos de ADP
+- C. Dos moléculas de NADH y dos de ATP únicamente
+- D. Seis moléculas de ATP a partir de seis de ADP
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Glucólisis · balance
+
+Posteriormente se producen dos moléculas de NADH a partir de dos de NAD⁺ y cuatro de ATP a partir de cuatro de ADP.
+
+### 63
+
+En relación con el libro de Biología, ¿cuál es el resultado neto de la etapa de la glucólisis?
+
+- A. Dos moléculas de ácido pirúvico de tres carbonos, dos moléculas de ATP y dos moléculas de NADH
+- B. Dos moléculas de ácido pirúvico de tres carbonos, cuatro moléculas de ATP y dos moléculas de NADH
+- C. Una molécula de ácido pirúvico, dos moléculas de ATP y dos moléculas de NADH
+- D. Dos moléculas de ácido pirúvico de seis carbonos, dos de ATP y cuatro de NADH
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Glucólisis · balance
+
+Resultado neto de esta etapa: 2 moléculas de ácido pirúvico (3 carbonos), 2 moléculas de ATP, 2 moléculas de NADH.
+
+> La cuenta que más se confunde, porque el libro da los dos números seguidos: se
+> **fabrican cuatro** ATP, pero se **gastaron dos** al principio, así que el
+> resultado **neto son dos**. El distractor B es justo el bruto en lugar del neto.
+
+### 64
+
+De acuerdo con el libro de Biología, ¿dónde queda conservada parte de la energía contenida en la molécula original de glucosa?
+
+- A. En los enlaces fosfato de dos moléculas de ATP y en los electrones de alto potencial redox de dos moléculas de NADH
+- B. Únicamente en los enlaces fosfato de dos moléculas de ATP
+- C. Únicamente en los electrones de dos moléculas de NADH
+- D. En los enlaces carbono-carbono del ácido pirúvico, exclusivamente
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Glucólisis · balance
+
+Parte de la energía contenida en la molécula original queda conservada en los enlaces fosfato de dos moléculas de ATP y en los electrones de alto potencial redox de dos moléculas de NADH.
+
+### 65
+
+De conformidad con el libro de Biología, ¿qué vía sigue el ácido pirúvico según las condiciones del medio?
+
+- A. En presencia de oxígeno seguirá la vía aeróbica; en ausencia de oxígeno podrá seguir alguna de dos posibles vías anaeróbicas
+- B. En presencia de oxígeno seguirá una vía anaeróbica; en ausencia de oxígeno, la aeróbica
+- C. Siempre sigue la vía aeróbica, haya o no oxígeno
+- D. Siempre sigue una vía anaeróbica, haya o no oxígeno
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Glucólisis · balance
+
+Otra parte de la energía permanece aún en las dos moléculas de ácido pirúvico que, según las condiciones del medio, puede incorporarse a una de varias vías metabólicas: en presencia de oxígeno, seguirá la vía aeróbica. En ausencia de oxígeno, podrá seguir alguna de dos posibles vías anaeróbicas.
+
+### 66
+
+En relación con el libro de Biología, ¿cómo se denominan también las vías anaeróbicas?
+
+- A. Respiración anaeróbica o fermentación
+- B. Respiración aeróbica o glucólisis
+- C. Ciclo de Krebs o transporte de electrones
+- D. Vías catabólicas o degradativas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Glucólisis · balance
+
+Seguir las vías anaeróbicas también llamadas respiración anaeróbica o fermentación.
+
+---
+
+## Sub-lote 14 · La respiración aeróbica y la mitocondria (p. 150)
+
+### 67
+
+De acuerdo con el libro de Biología, cuando hay oxígeno disponible, ¿qué implica la siguiente etapa de la degradación de la glucosa?
+
+- A. La oxidación progresiva del ácido pirúvico a dióxido de carbono y agua, proceso que se conoce como respiración celular
+- B. La reducción progresiva del ácido pirúvico a glucosa
+- C. La fermentación del ácido pirúvico a alcohol
+- D. La síntesis de glucógeno a partir del ácido pirúvico
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Respiración celular · respiración aeróbica
+
+Cuando hay O₂ disponible, la siguiente etapa de la degradación de la glucosa implica la oxidación progresiva del ácido pirúvico a CO₂ y agua, proceso que se conoce como respiración celular.
+
+### 68
+
+De conformidad con el libro de Biología, ¿en qué dos etapas tiene lugar la respiración celular y dónde ocurren en las células eucariontes?
+
+- A. El ciclo de Krebs y el transporte terminal de electrones, y se desarrollan dentro de las mitocondrias
+- B. La glucólisis y el ciclo de Krebs, y se desarrollan en el citoplasma
+- C. El transporte terminal de electrones y la fermentación, y se desarrollan en el núcleo
+- D. El ciclo de Krebs y la fermentación, y se desarrollan dentro de las mitocondrias
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Respiración celular · respiración aeróbica
+
+La respiración celular tiene lugar en dos etapas: el ciclo de Krebs y el transporte terminal de electrones. En las células eucariontes, estas reacciones se desarrollan dentro de las mitocondrias.
+
+### 69
+
+En relación con el libro de Biología, ¿cómo son las dos membranas de la mitocondria?
+
+- A. La externa es una membrana lisa, mientras que la interna está replegada y forma las crestas
+- B. La externa está replegada y forma las crestas, mientras que la interna es lisa
+- C. Las dos son lisas y de igual grosor
+- D. Las dos están replegadas y forman crestas
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Respiración celular · la mitocondria
+
+Las mitocondrias están constituidas por dos membranas. La externa es una membrana lisa, mientras que la interna está replegada y forma las crestas.
+
+### 70
+
+De acuerdo con el libro de Biología, ¿qué es la matriz mitocondrial y qué contiene?
+
+- A. El compartimento interno de la mitocondria, formado por una solución densa que contiene enzimas, coenzimas, agua, fosfatos y otras moléculas implicadas en la respiración
+- B. La membrana externa de la mitocondria, formada por fosfolípidos y proteínas
+- C. El espacio entre las dos membranas, ocupado únicamente por agua
+- D. El conjunto de crestas formadas por la membrana interna
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Respiración celular · la mitocondria
+
+El compartimento interno de la mitocondria, en contacto con la superficie interna de las crestas, es la matriz mitocondrial formada por una solución densa que contiene enzimas, coenzimas, agua, fosfatos y otras moléculas implicadas en la respiración.
+
+### 71
+
+De conformidad con el libro de Biología, ¿dónde se encuentran las enzimas del ciclo de Krebs y los componentes de la cadena de transporte de electrones?
+
+- A. Algunas enzimas del ciclo de Krebs en solución en la matriz; otras, junto con los componentes de la cadena de transporte, en las membranas de las crestas
+- B. Todas en solución en la matriz mitocondrial
+- C. Todas en las membranas de las crestas
+- D. Todas en la membrana externa de la mitocondria
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Respiración celular · la mitocondria
+
+Algunas de las enzimas que participan en las reacciones del ciclo de Krebs se encuentran en solución en la matriz. Otras, junto con otros componentes que participan en la cadena de transporte de electrones, se encuentran en las membranas de las crestas.
+
+### 72
+
+En relación con el libro de Biología, ¿dónde llevan a cabo la respiración aeróbica los organismos procariontes, que carecen de mitocondrias?
+
+- A. En pequeñas invaginaciones de la membrana plasmática que generan un microentorno capaz de desarrollar la misma función que las mitocondrias
+- B. En el citoplasma, sin ninguna estructura especializada
+- C. En el nucleoide, junto al material genético
+- D. En la pared celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Respiración celular · la mitocondria
+
+Una gran cantidad de organismos procariontes respiran aeróbicamente, pero, como carecen de mitocondrias, estos procesos se llevan a cabo en pequeñas invaginaciones de la membrana plasmática que generan un microentorno capaz de desarrollar la misma función que las mitocondrias de los eucariontes.
+
+---
+
+## Sub-lote 15 · La oxidación del ácido pirúvico y el ciclo de Krebs (p. 150)
+
+### 73
+
+De acuerdo con el libro de Biología, ¿cómo es transportado hacia la matriz mitocondrial el ácido pirúvico resultante de la glucólisis?
+
+- A. De forma selectiva, mediante una proteína de transporte
+- B. Por difusión simple a través de las dos membranas
+- C. Mediante endocitosis de la membrana mitocondrial
+- D. Unido a una molécula de ATP
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Respiración celular · oxidación del ácido pirúvico
+
+El ácido pirúvico citoplasmático resultante de la glucólisis es transportado hacia la matriz mitocondrial de forma selectiva mediante una proteína de transporte.
+
+### 74
+
+De conformidad con el libro de Biología, ¿qué ocurre en primer lugar en la oxidación del ácido pirúvico?
+
+- A. Los átomos de carbono y de oxígeno del grupo carboxilo se eliminan en forma de dióxido de carbono y queda un grupo acetilo de dos carbonos
+- B. Los átomos de carbono del grupo carboxilo se unen a un compuesto de cuatro carbonos
+- C. La molécula se escinde en dos compuestos de tres carbonos
+- D. La molécula se reduce a gliceraldehído 3-fosfato
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Respiración celular · oxidación del ácido pirúvico
+
+En primer lugar, los átomos de carbono y de oxígeno del grupo carboxilo se eliminan en forma de CO₂ y queda un grupo acetilo de dos carbonos.
+
+### 75
+
+En relación con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, ¿cuántas moléculas nuevas de NADH se forman en ese proceso?
+
+- A. Dos
+- B. Una
+- C. Cuatro
+- D. Seis
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Respiración celular · oxidación del ácido pirúvico
+
+En este proceso, se han formado dos nuevas moléculas NADH.
+
+### 76
+
+De acuerdo con el libro de Biología, ¿qué ocurre al entrar el grupo acetilo en el ciclo de Krebs?
+
+- A. Se combina con un compuesto de cuatro carbonos, el ácido oxalacético, y produce un compuesto de seis carbonos, el ácido cítrico
+- B. Se combina con un compuesto de seis carbonos, el ácido cítrico, y produce uno de cuatro, el ácido oxalacético
+- C. Se oxida directamente a dióxido de carbono y agua
+- D. Se transforma en dos moléculas de ácido pirúvico
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Respiración celular · ciclo de Krebs
+
+Al entrar en el ciclo de Krebs, el grupo acetilo de dos carbonos se combina con un compuesto de cuatro carbonos (ácido oxalacético) y produce un compuesto de seis carbonos (ácido cítrico).
+
+### 77
+
+De conformidad con el libro de Biología, ¿qué ocurre en el curso del ciclo de Krebs?
+
+- A. Dos de los seis carbonos del ácido cítrico se oxidan a dióxido de carbono, se regenera el ácido oxalacético y se completa un ciclo
+- B. Los seis carbonos del ácido cítrico se oxidan a dióxido de carbono y el ciclo se interrumpe
+- C. Se forman dos moléculas de ácido pirúvico y el ciclo se reinicia
+- D. Se regenera el ácido cítrico a partir del oxalacético
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 150
+**Subtema:** Respiración celular · ciclo de Krebs
+
+En el curso de este ciclo, dos de los seis carbonos del ácido cítrico se oxidan a CO₂, se regenera el ácido oxalacético, y se completa un ciclo.
+
+> La cuenta de carbonos del ciclo, que es lo que lo hace "ciclo": entran **2**
+> (el acetilo) + **4** (el oxalacético) = **6** (el cítrico); salen **2** como
+> CO₂ y quedan otra vez **4**, listos para la vuelta siguiente.
+
+---
+
+**Reactivos en este archivo:** 77
