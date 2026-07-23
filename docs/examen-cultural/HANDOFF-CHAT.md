@@ -30,10 +30,10 @@ Cómo trabajar con él, en corto:
 
 | Qué | Ruta |
 |---|---|
-| Reactivos escritos | `docs/examen-cultural/HCM/*.md` |
-| Herramientas | `docs/examen-cultural/render.py` y `crop.py` |
-| Libros escaneados | `examen_cultural/libros_examen_cultural/HCM/` |
-| Temarios oficiales | `examen_cultural/temarios_de_escuelas/HCM/` |
+| Reactivos escritos | `docs/examen-cultural/HCM/*.md` y `docs/examen-cultural/EMM/*.md` |
+| Herramientas | `docs/examen-cultural/extraer.py`, `render.py` y `crop.py` |
+| Libros | `examen_cultural/libros_examen_cultural/HCM/` y `.../EMM/` |
+| Temarios oficiales | `examen_cultural/temarios_de_escuelas/` · versión JSON en `docs/examen-cultural/temarios.json` |
 
 Los libros y la convocatoria **están en `.gitignore`** — son ~300 MB de PDF y
 documentos con derechos. Si no los tienes en tu copia, pídeselos a Carlo.
@@ -72,48 +72,70 @@ Lee el estado aquí, en este orden:
 
 ```
 node tools/estado-proyecto/generar-estado.js   # regenera ESTADO.md
-grep -c "^### " docs/examen-cultural/HCM/*.md  # el conteo crudo
+grep -c "^### " docs/examen-cultural/*/*.md      # el conteo crudo, HCM y EMM
 ```
 
-Lo estable: **Geografía, Historia y Español están cerradas. Álgebra es la única
-materia abierta**, y le toca a quien tenga este handoff.
+Lo estable a hoy (23 jul 2026): **el HCM está cerrado entero** (Geografía,
+Historia, Español y Álgebra). La materia viva es **EMM · Biología**, con los
+capítulos 3, 4, 5, 7 y 8 cerrados y el **11 en curso**. Confirma siempre contra
+`ESTADO.md`, que es lo que se regenera.
 
-### Cómo arrancar en Álgebra
+### Cómo arrancar en EMM Biología (la materia viva)
 
-**El desfase es +8**: hoja del PDF 17 = página impresa 9. Suma 8 a la primera
-página impresa que te falte y ésa es la hoja desde donde renderizas.
+**El libro es distinto y el método también.** No es un escaneo mudo como los del
+HCM: el Curtis **trae capa de texto**, así que el cuerpo se saca con `extraer.py`,
+no con `render.py`. Lee la sección "Cómo se trabaja" de abajo antes de empezar.
+
+**Desfase +46** (con una deriva de ±1 en algunos tramos, así que la página se lee
+de la hoja, nunca se calcula): página impresa P = hoja P+46.
 
 ```
-python docs/examen-cultural/render.py "examen_cultural/libros_examen_cultural/HCM/Álgebra de Baldor.pdf" <hoja> <hoja+9> 110
+PYTHONIOENCODING=utf-8 python docs/examen-cultural/extraer.py "examen_cultural/libros_examen_cultural/EMM/1 BIOLOGIA DE CURTIS.pdf" <hoja> <hoja> --desfase=46
 ```
 
-Tramos del temario, para ubicarte: Preliminares 5–39, I · Suma 40–45,
-II · Resta 46–57, III · Signos de agrupación 58–62, IV · Multiplicación 63–78,
-V · División 79–96, VI · Productos y cocientes notables 97–111.
+Por dónde va y qué falta: el encabezado de
+`docs/examen-cultural/EMM/biologia-11-reproduccion-sexual.md`, sección "Cobertura
+actual", lo dice exacto (a hoy, desde la página impresa 231, el cruzamiento de
+prueba). Los capítulos que faltan de la materia: 12, 31, 32, 35, 36 y 37.
+
+> Cuando el HCM/Álgebra vuelva a ser relevante, su método es el de abajo con
+> `render.py` y desfase +8. Pero hoy no es lo que se trabaja.
 
 ---
 
 ## Cómo se trabaja, paso a paso
 
-### 1. Renderizar las páginas
+### 1. Sacar el texto de la página — depende del libro
 
-Los libros son **escaneos sin capa de texto**: no se pueden leer por programa.
-Hay que convertir la página a imagen y leerla con los ojos.
+Hay **dos tipos de libro** y se trabajan distinto:
+
+**a) Curtis de Biología (EMM) — trae capa de texto.** El cuerpo se saca directo,
+sin leer imágenes:
+
+```
+PYTHONIOENCODING=utf-8 python docs/examen-cultural/extraer.py "examen_cultural/libros_examen_cultural/EMM/1 BIOLOGIA DE CURTIS.pdf" <hoja> <hoja> --desfase=46
+```
+
+El `PYTHONIOENCODING=utf-8` es obligatorio con el Bash tool o la consola revienta.
+**Ojo:** los recuadros y los pies de figura del Curtis tienen la capa de texto en
+lorem ipsum o cifrada (sale "0HLRVLV" y cosas así) — eso se lee con `render.py`
+como imagen, no con `extraer.py`.
+
+**b) Libros del HCM (Baldor, Tamayo, etc.) — escaneos mudos.** No tienen texto:
+hay que convertir la página a imagen y leerla con los ojos:
 
 ```
 python docs/examen-cultural/render.py "<ruta del pdf>" <hoja_desde> <hoja_hasta> 110
 ```
 
-Los PNG salen **junto al script**, dentro del repo. **Muévelos al scratchpad
-inmediatamente** o ensucias el árbol de git:
+Los PNG de `render.py` y `crop.py` salen **junto al script**, dentro del repo.
+Están en `.gitignore`, así que no ensucian el árbol, pero conviene no dejar
+basura.
 
-```
-mv docs/examen-cultural/hoja_*.png <scratchpad>/
-```
-
-Hay también `crop.py`, que recorta una región de la hoja y la renderiza a
-500–600 dpi. Sirve para verificar cifras largas o decidir si una rareza es
-errata del libro o suciedad del escaneo — a 110 dpi no siempre se distingue.
+`crop.py` recorta una región de la hoja y la renderiza a 500–600 dpi. Sirve para
+verificar un dato dudoso —cifra larga o una palabra rara— antes de fijarlo. Así
+se confirmó que el término *elemente* de Mendel es del libro y no un corte del
+extractor.
 
 ### 2. Leer y escribir
 
@@ -255,14 +277,14 @@ verdad, los documentos se desactualizan:
 
 ```
 git fetch origin && git status --short
-grep -c "^### " docs/examen-cultural/HCM/*.md
+grep -c "^### " docs/examen-cultural/*/*.md
 ```
 
 Si aparece trabajo sin commitear que tú no escribiste, **commitéalo antes de
 tocar nada**. Es de la otra sesión y no tiene respaldo.
 
-Reparto vigente: **Álgebra es lo único abierto**, y le toca a quien tenga este
-handoff. Las otras tres materias están cerradas.
+Reparto vigente: **el HCM está cerrado; la materia viva es EMM · Biología**, y le
+toca a quien tenga este handoff.
 
 ---
 
