@@ -32,12 +32,16 @@ leyeron de la hoja, no se calcularon.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **212 a 215**: qué es la reproducción sexual,
-la meiosis y la fecundación como sus dos hechos, el cigoto, las dotaciones
-cromosómicas, los números de cromosomas por especie, el entrecruzamiento, las
-fases de la meiosis (figura 11-4) y las diferencias entre mitosis y meiosis.
+Cubiertas las páginas impresas **212 a 216 y 218**: qué es la reproducción
+sexual, la meiosis y la fecundación, el cigoto, las dotaciones cromosómicas, los
+números de cromosomas por especie, el entrecruzamiento, las fases de la meiosis,
+las diferencias entre mitosis y meiosis, el cariotipo y el número cromosómico
+humano, y la gametogénesis (espermatogénesis y oogénesis).
 
-**Pendiente:** del capítulo 11 falta de la página impresa 216 en adelante (hoja 262+), incluido el recuadro social de la página 210 y los experimentos de Mendel. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
+La página 217 es íntegramente la figura 11-6 (fecundación y meiosis en distintos
+ciclos de vida): sin cuerpo de texto del que salgan reactivos.
+
+**Pendiente:** del capítulo 11 falta de la página impresa 219 en adelante (hoja 265+), incluido el recuadro social de la página 210 y los experimentos de Mendel. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -356,4 +360,166 @@ El hecho de que uno de los gametos contenga un cromosoma procedente de uno u otr
 
 ---
 
-**Reactivos en este archivo:** 19
+## Sub-lote 6 · Diferencias entre mitosis y meiosis (p. 216)
+
+### 20
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué tipo de células puede ocurrir la mitosis y en cuáles la meiosis?
+
+- A. La mitosis en células haploides o diploides; la meiosis solo en células con número diploide o poliploide
+- B. La mitosis solo en células diploides; la meiosis en cualquier célula
+- C. Ambas ocurren únicamente en células diploides
+- D. La mitosis solo en células haploides; la meiosis solo en diploides
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 216
+**Subtema:** reproducción sexual · mitosis y meiosis
+
+La mitosis puede ocurrir en las células haploides o diploides, mientras que la meiosis ocurre solo en aquellas células con un número diploide (o poliploide) de cromosomas.
+
+### 21
+
+De acuerdo con el libro de Biología de Curtis, ¿cuántas veces se duplican los cromosomas antes de la primera división nuclear en la meiosis, y qué contiene cada núcleo hijo?
+
+- A. Se duplican solo una vez, y cada núcleo hijo contiene la mitad del número de cromosomas del núcleo original
+- B. Se duplican dos veces, y cada núcleo hijo contiene el mismo número de cromosomas
+- C. No se duplican, y cada núcleo hijo contiene el doble de cromosomas
+- D. Se duplican una vez, y cada núcleo hijo mantiene invariable el número de cromosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 216
+**Subtema:** reproducción sexual · mitosis y meiosis
+
+Los cromosomas se duplican solo una vez antes de la primera división nuclear. Por lo tanto, cada uno de los cuatro núcleos hijos contiene la mitad del número de cromosomas presentes en el núcleo original.
+
+### 22
+
+De acuerdo con el libro de Biología de Curtis, ¿qué ocurre con el número de cromosomas en la mitosis después de la duplicación de los cromosomas?
+
+- A. Se mantiene invariable, porque cada núcleo se divide solo una vez
+- B. Se reduce a la mitad, porque el núcleo se divide dos veces
+- C. Se duplica en cada división
+- D. Varía según el número de quiasmas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 216
+**Subtema:** reproducción sexual · mitosis y meiosis
+
+En la mitosis, en cambio, después de la duplicación de los cromosomas cada núcleo se divide solo una vez. En consecuencia, el número de cromosomas se mantiene invariable.
+
+### 23
+
+De acuerdo con el libro de Biología de Curtis, ¿qué sucesos de la meiosis, que no se producen durante la mitosis, son la clave de la reducción del número cromosómico?
+
+- A. El apareamiento de los homólogos en la profase I, su alineamiento en la metafase I y su separación en la anafase I
+- B. La separación de las cromátidas hermanas en la anafase
+- C. La duplicación de los cromosomas antes de cada división
+- D. La desintegración de la envoltura nuclear en la profase
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 216
+**Subtema:** reproducción sexual · mitosis y meiosis
+
+Durante la profase I de la meiosis se produce el apareamiento de los cromosomas homólogos, seguido del alineamiento de los pares de homólogos en el plano ecuatorial en la metafase I y de la separación de los homólogos en la anafase I. Estos sucesos, que no se producen durante la mitosis, son la clave de la reducción del número cromosómico.
+
+---
+
+## Sub-lote 7 · Cariotipo y número cromosómico humano (p. 218)
+
+### 24
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se denomina el ordenamiento sistematizado de los cromosomas?
+
+- A. Cariotipo
+- B. Genotipo
+- C. Cromatina
+- D. Fenotipo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 218
+**Subtema:** reproducción sexual · cariotipo
+
+El ordenamiento sistematizado de los cromosomas se denomina cariotipo.
+
+### 25
+
+De acuerdo con el libro de Biología de Curtis, ¿cuál es el número haploide de cromosomas en la especie humana?
+
+- A. 23
+- B. 46
+- C. 22
+- D. 47
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 218
+**Subtema:** reproducción sexual · cariotipo
+
+En la especie humana, el número diploide de cromosomas es, con mayor frecuencia, 46 y el número haploide es 23.
+
+---
+
+## Sub-lote 8 · Espermatogénesis y oogénesis (p. 218)
+
+### 26
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué se diferenciará luego cada una de las cuatro espermátides producidas?
+
+- A. En un espermatozoide
+- B. En un oocito primario
+- C. En un cuerpo polar
+- D. En un óvulo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 218
+**Subtema:** reproducción sexual · gametogénesis
+
+Cada una de las cuatro espermátides producidas luego se diferenciará en un espermatozoide.
+
+### 27
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se llaman las células diploides de la hembra que sufren la división meiótica?
+
+- A. Oocitos primarios
+- B. Espermatocitos secundarios
+- C. Espermátides
+- D. Cuerpos polares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 218
+**Subtema:** reproducción sexual · gametogénesis
+
+En la hembra, las células diploides que sufren la división meiótica se llaman oocitos primarios.
+
+### 28
+
+De acuerdo con el libro de Biología de Curtis, ¿cuántos óvulos se forman de cada oocito primario y qué más se produce?
+
+- A. Un solo óvulo, junto con dos o tres cuerpos polares
+- B. Cuatro óvulos, sin cuerpos polares
+- C. Dos óvulos y dos cuerpos polares
+- D. Un óvulo y cuatro espermátides
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 218
+**Subtema:** reproducción sexual · gametogénesis
+
+De cada oocito primario solo se forma un óvulo, junto con dos o tres cuerpos polares. Los cuerpos polares contienen los otros núcleos resultantes de la meiosis que, habitualmente, se desintegran.
+
+### 29
+
+De acuerdo con el libro de Biología de Curtis, ¿por qué el óvulo está bien provisto de ribosomas, mitocondrias, enzimas y nutrientes?
+
+- A. Como resultado de la división desigual del citoplasma durante la citocinesis
+- B. Porque recibe el citoplasma de los cuatro núcleos por igual
+- C. Porque los cuerpos polares le aportan sus nutrientes
+- D. Porque no experimenta la segunda división meiótica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 218
+**Subtema:** reproducción sexual · gametogénesis
+
+Como resultado de esta división desigual del citoplasma, el óvulo está bien provisto de ribosomas, mitocondrias, enzimas, nutrientes almacenados y gran cantidad de moléculas, como el ARN, importantes para el desarrollo del embrión.
+
+---
+
+**Reactivos en este archivo:** 29
