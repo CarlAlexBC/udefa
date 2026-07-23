@@ -80,9 +80,16 @@ procariontes, el anticodón UAC, los factores de iniciación y el GTP, fig. 12-1
 tres sitios del ribosoma (A, P y E) y la peptidil transferasa; la elongación (la
 translocación, los factores de elongación, el plegado tridimensional); y la
 terminación (el codón de terminación, los factores de liberación y la separación
-final).
+final). De las **páginas 259-260** se cubre el polirribosoma o polisoma (fig. 12-16)
+y la síntesis en eucariotas (la maduración aumenta la variedad de proteínas, los
+ribosomas libres para las proteínas del citosol, el péptido señal que dirige al
+retículo endoplasmático, y Günter Blobel con su Nobel de 1999), y la redefinición
+molecular de las mutaciones (la mutación como cambio en la secuencia o el número de
+nucleótidos del ADN, la transmisión por gametos frente a células somáticas, las
+mutaciones puntuales, y la anemia falciforme —valina por ácido glutámico, un único
+nucleótido—).
 
-**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 259 (hoja 305) en adelante. Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 261 (hoja 307) en adelante (todavía sin extraer: el resto de las mutaciones, las reformulaciones actuales del concepto de gen y el cierre del capítulo). Sigue pendiente, además, el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249). Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -1752,4 +1759,196 @@ Así se detiene la traducción: el ARNt se libera, la cadena polipeptídica se d
 
 ---
 
-**Reactivos en este archivo:** 104
+## Sub-lote 22 · El polirribosoma y los destinos de las proteínas (fig. 12-16, pp. 259-260)
+
+### 105
+
+De acuerdo con el libro de Biología, ¿cómo se conoce al conjunto de varios ribosomas que avanzan sobre un mismo ARNm, uno detrás del otro como vagones de un tren?
+
+- A. Polirribosoma o polisoma
+- B. Nucléolo
+- C. Complejo de iniciación
+- D. Aminoacil-ARNt
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 259
+**Subtema:** flujo de información genética · traducción
+
+Un mismo ARNm se asocia con varios ribosomas que avanzan sobre él uno detrás del otro como vagones de un tren. A este conjunto se lo conoce como polirribosoma o polisoma.
+
+### 106
+
+De acuerdo con el libro de Biología, ¿por qué el polirribosoma constituye un evento de amplificación?
+
+- A. Porque de cada ARNm sintetizado podrán obtenerse muchos polipéptidos iguales
+- B. Porque de cada ARNm se obtiene un solo polipéptido
+- C. Porque duplica la molécula de ADN
+- D. Porque copia el ARNm nuevamente a ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 259
+**Subtema:** flujo de información genética · traducción
+
+Se trata de un evento de amplificación, dado que de cada ARNm sintetizado podrán obtenerse muchos polipéptidos iguales.
+
+### 107
+
+De acuerdo con el libro de Biología, aunque el mecanismo de traducción es muy similar en procariotas y eucariotas, ¿qué efecto tiene en eucariotas que el ARNm sea procesado de distintas maneras?
+
+- A. Aumenta considerablemente la variedad de proteínas que se obtienen en la traducción
+- B. Reduce la variedad de proteínas a una sola
+- C. Impide por completo la traducción
+- D. Elimina la necesidad de los ribosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 259
+**Subtema:** flujo de información genética · traducción
+
+En eucariotas los ARNm sufren un proceso de maduración que, al ser procesado de distintas maneras, aumenta considerablemente la variedad de proteínas que se obtienen en la traducción.
+
+### 108
+
+De acuerdo con el libro de Biología, si una proteína cumple su función en el citosol, como las enzimas de la glucólisis, ¿dónde se sintetiza?
+
+- A. Se inicia y concluye en los ribosomas libres
+- B. En el complejo de Golgi
+- C. En el interior del núcleo
+- D. En la membrana del retículo endoplasmático
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 260
+**Subtema:** flujo de información genética · traducción
+
+Si la proteína cumple su función en el citosol, como las enzimas de la glucólisis, su síntesis se inicia y concluye allí mismo en los ribosomas libres.
+
+### 109
+
+De acuerdo con el libro de Biología, ¿cómo se llama la secuencia que dirige al ribosoma con la proteína naciente a la membrana del retículo endoplasmático?
+
+- A. El péptido señal
+- B. El anticodón
+- C. El promotor
+- D. La cola de poli-A
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 260
+**Subtema:** flujo de información genética · traducción
+
+Estas proteínas tienen una secuencia llamada péptido señal. Esta señal dirige al ribosoma con la proteína naciente a la membrana del retículo endoplasmático.
+
+### 110
+
+De acuerdo con el libro de Biología, ¿qué biólogo celular recibió el Premio Nobel de Medicina en 1999 por sus investigaciones sobre las señales que dirigen las proteínas?
+
+- A. El alemán Günter Blobel
+- B. El estadounidense Marshall Nirenberg
+- C. El británico Francis Crick
+- D. El francés François Jacob
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 260
+**Subtema:** flujo de información genética · traducción
+
+Por sus investigaciones sobre las señales que dirigen las proteínas, el biólogo celular alemán Günter Blobel recibió el Premio Nobel de Medicina en 1999.
+
+---
+
+## Sub-lote 23 · La redefinición de las mutaciones (p. 260)
+
+### 111
+
+De acuerdo con el libro de Biología, ¿cómo se reformuló, en términos moleculares, la definición de mutación?
+
+- A. Una mutación es un cambio en la secuencia o en el número de nucleótidos en el ADN de una célula
+- B. Una mutación es un cambio en la forma del ribosoma
+- C. Una mutación es la unión de un ARNt a un aminoácido
+- D. Una mutación es la pérdida del capuchón del ARNm
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 260
+**Subtema:** flujo de información genética · mutaciones
+
+Una mutación es un cambio en la secuencia o en el número de nucleótidos en el ADN de una célula.
+
+### 112
+
+De acuerdo con el libro de Biología, en los organismos pluricelulares, ¿qué mutaciones se transmiten a las generaciones futuras?
+
+- A. Solo las que ocurren en los gametos o en las células que los originan
+- B. Todas las mutaciones, ocurran en la célula que ocurran
+- C. Solo las que ocurren en las células somáticas
+- D. Ninguna mutación llega a transmitirse
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 260
+**Subtema:** flujo de información genética · mutaciones
+
+En los organismos pluricelulares, las mutaciones pueden ocurrir en el ADN de cualquiera de sus células, pero solo se transmiten a generaciones futuras aquellas que ocurren en los gametos, o en las células que los originan.
+
+### 113
+
+De acuerdo con el libro de Biología, ¿cómo se llaman las mutaciones que implican solamente la sustitución, inserción o deleción de un nucleótido?
+
+- A. Mutaciones puntuales
+- B. Mutaciones cromosómicas
+- C. No disyunciones
+- D. Recombinaciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 260
+**Subtema:** flujo de información genética · mutaciones
+
+La mayoría de las mutaciones implican solamente la sustitución, inserción o deleción de un nucleótido y reciben el nombre de mutaciones puntuales.
+
+---
+
+## Sub-lote 24 · La anemia falciforme como ejemplo (p. 260)
+
+### 114
+
+De acuerdo con el libro de Biología, en la anemia falciforme, ¿qué defecto presenta la hemoglobina?
+
+- A. Contiene valina en una posición que, en la hemoglobina normal, está ocupada por ácido glutámico
+- B. Contiene ácido glutámico donde la hemoglobina normal tiene valina
+- C. Carece por completo de aminoácidos
+- D. Tiene el doble de aminoácidos que la hemoglobina normal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 260
+**Subtema:** flujo de información genética · mutaciones
+
+La hemoglobina presente en las personas que sufren la anemia falciforme contiene valina (val) en una posición de la secuencia de aminoácidos que, en la hemoglobina normal, está ocupada por ácido glutámico (glu).
+
+### 115
+
+De acuerdo con el libro de Biología, ¿de cuántos nucleótidos es la diferencia entre los codones del ARNm para el ácido glutámico y para la valina?
+
+- A. De un único nucleótido
+- B. De dos nucleótidos
+- C. De tres nucleótidos
+- D. De ningún nucleótido: son idénticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 260
+**Subtema:** flujo de información genética · mutaciones
+
+La diferencia entre los codones de ARNm para el ácido glutámico y la valina es un único nucleótido: en el ARNm, GAA o GAG especifican el ácido glutámico, mientras que GUU, GUC, GUA o GUG especifican la valina.
+
+### 116
+
+De acuerdo con el libro de Biología, como ocurre en la anemia falciforme, ¿qué puede producir una mutación puntual?
+
+- A. Cambios en la secuencia de aminoácidos de la proteína resultante
+- B. La duplicación del número de cromosomas de la célula
+- C. La pérdida del núcleo celular
+- D. La transcripción reversa del ARN a ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 260
+**Subtema:** flujo de información genética · mutaciones
+
+Como ocurre en la anemia falciforme, una mutación puntual puede producir cambios en la secuencia de aminoácidos de la proteína resultante.
+
+---
+
+**Reactivos en este archivo:** 116
