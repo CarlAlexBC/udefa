@@ -32,18 +32,24 @@ leyeron de la hoja, no se calcularon.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **212 a 216 y 218 a 220**: qué es la reproducción
+Cubiertas las páginas impresas **212 a 216 y 218 a 223**: qué es la reproducción
 sexual, la meiosis y la fecundación, el cigoto, las dotaciones cromosómicas, los
 números de cromosomas por especie, el entrecruzamiento, las fases de la meiosis,
 las diferencias entre mitosis y meiosis, el cariotipo y el número cromosómico
 humano, la gametogénesis (espermatogénesis y oogénesis), el momento de la meiosis
-femenina, autosomas y cromosomas sexuales X/Y, la no disyunción y la
-variabilidad genética.
+femenina, autosomas y cromosomas sexuales X/Y, la no disyunción, la
+variabilidad genética, la transferencia horizontal y vertical de genes, y los
+experimentos de Mendel: quién fue, qué demostró y su método experimental con el
+guisante *Pisum sativum*.
 
-La página 217 es íntegramente la figura 11-6 (fecundación y meiosis en distintos
-ciclos de vida): sin cuerpo de texto del que salgan reactivos.
+Las páginas 217 y 219 son íntegramente figuras (11-6, 11-10 y 11-11), y la 222
+trae la biografía de Mendel de la que sí salieron reactivos.
 
-**Pendiente:** del capítulo 11 falta de la página impresa 221 en adelante (hoja 267+): las tres fuentes de variabilidad genética en detalle, el recuadro social de la página 210 y los experimentos de Mendel. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
+**Pendiente de verificar:** el nombre que Mendel dio a las unidades discretas
+(la palabra salió cortada en el extractor, parecía "elementen"). No se escribió
+reactivo sobre ese término hasta recortarlo a alta resolución y confirmarlo.
+
+**Pendiente:** del capítulo 11 falta de la página impresa 224 en adelante (hoja 270+): las tres leyes de Mendel, el recuadro social de la página 210 y los ensayos 11-1 y 11-2. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -686,4 +692,181 @@ En las especies de reproducción sexual pueden reconocerse tres procesos fundame
 
 ---
 
-**Reactivos en este archivo:** 39
+## Sub-lote 12 · Transferencia horizontal y vertical de genes (p. 221)
+
+### 40
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se llama la transferencia directa de ADN de una bacteria a otra?
+
+- A. La conjugación
+- B. La transformación
+- C. La transducción
+- D. La transposición
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 221
+**Subtema:** reproducción sexual · transferencia de genes
+
+La conjugación o transferencia directa de ADN de una bacteria a otra.
+
+### 41
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué consiste la transformación?
+
+- A. En la captación directa de fragmentos de ADN del medio circundante por parte de una célula
+- B. En la transferencia directa de ADN de una bacteria a otra
+- C. En la transferencia de material genético bacteriano empaquetado en partículas virales
+- D. En el movimiento de genes de cromosomas de una misma célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 221
+**Subtema:** reproducción sexual · transferencia de genes
+
+La transformación o captación directa de fragmentos de ADN del medio circundante por parte de una célula.
+
+### 42
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se llama la transferencia de material genético bacteriano empaquetado en partículas virales de una célula infectada a otra?
+
+- A. La transducción
+- B. La conjugación
+- C. La transformación
+- D. La infección viral
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 221
+**Subtema:** reproducción sexual · transferencia de genes
+
+La transducción o transferencia de material genético bacteriano empaquetado en partículas virales de una célula infectada a otra.
+
+### 43
+
+De acuerdo con el libro de Biología de Curtis, ¿qué implican todos los mecanismos de intercambio de material genético entre distintas células, en contraste con la transferencia vertical?
+
+- A. Una transferencia horizontal de genes
+- B. Una transferencia vertical de genes
+- C. Una transposición de cromosomas
+- D. Una conjugación bacteriana
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 221
+**Subtema:** reproducción sexual · transferencia de genes
+
+Todos estos mecanismos de intercambio de material genético entre distintas células implican una transferencia horizontal de genes, en contraste con la transferencia vertical.
+
+### 44
+
+De acuerdo con el libro de Biología de Curtis, ¿cuándo se produce la transferencia vertical de genes?
+
+- A. Cuando el material genético pasa de los progenitores a las células hijas durante la división celular
+- B. Cuando un fragmento de ADN foráneo ingresa en una célula
+- C. Cuando los genes saltan de una especie a otra
+- D. Cuando un genoma viral se incorpora a una célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 221
+**Subtema:** reproducción sexual · transferencia de genes
+
+La transferencia vertical se produce cuando el material genético pasa de los progenitores a las células hijas durante la división celular.
+
+---
+
+## Sub-lote 13 · Mendel y el nacimiento de la genética (p. 222)
+
+### 45
+
+De acuerdo con el libro de Biología de Curtis, ¿quién inició los experimentos que proporcionarían las primeras respuestas rigurosas a las preguntas sobre la herencia?
+
+- A. Johann Gregor Mendel, un monje austríaco
+- B. William Bateson, un naturalista inglés
+- C. Chlamydomonas, un eucarionte unicelular
+- D. Pisum sativum, un criador de plantas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 222
+**Subtema:** reproducción sexual · Mendel
+
+Entre los naturalistas que realizaron este tipo de prácticas se encontraba Johann Gregor Mendel (1822-1884), un monje austríaco, que inició los experimentos que más tarde proporcionarían las primeras respuestas más rigurosas a las preguntas sobre la herencia.
+
+### 46
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué universidad estudió Mendel matemática y otras ciencias durante dos años?
+
+- A. En la Universidad de Viena
+- B. En la Universidad de Brünn
+- C. En la Universidad de Brno
+- D. En la Universidad de Viena y Praga
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 222
+**Subtema:** reproducción sexual · Mendel
+
+Durante dos años estudió matemática y otras ciencias en la Universidad de Viena.
+
+### 47
+
+De acuerdo con el libro de Biología de Curtis, ¿qué contribuyó a demostrar Mendel, aun antes de que se identificaran los cromosomas como estructuras que albergan la información hereditaria?
+
+- A. Que las características heredadas se encuentran en unidades discretas que se redistribuyen en cada generación
+- B. Que las características heredadas se mezclan de manera continua entre los progenitores
+- C. Que la herencia se transmite por transferencia horizontal de genes
+- D. Que los cromosomas sexuales determinan todas las características
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 222
+**Subtema:** reproducción sexual · Mendel
+
+Mendel contribuyó a demostrar que las características heredadas se encuentran en unidades discretas que se redistribuyen en cada generación. Estas unidades discretas podrían considerarse el equivalente de las que en la actualidad conocemos como genes.
+
+---
+
+## Sub-lote 14 · El método experimental de Mendel (p. 223)
+
+### 48
+
+De acuerdo con el libro de Biología de Curtis, ¿qué planta eligió Mendel para llevar a cabo sus experimentos sobre la herencia?
+
+- A. El guisante o arveja común, *Pisum sativum*
+- B. La *Chlamydomonas*
+- C. El maíz
+- D. El lirio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 223
+**Subtema:** reproducción sexual · método de Mendel
+
+Para llevar a cabo sus experimentos sobre la herencia, Mendel eligió el guisante o arveja común, *Pisum sativum*.
+
+### 49
+
+De acuerdo con el libro de Biología de Curtis, ¿qué ventajas tenían las plantas de guisante para los experimentos de Mendel?
+
+- A. Se conseguían en el comercio, eran fáciles de cultivar y crecían con rapidez
+- B. Tenían un ciclo de vida largo y complejo
+- C. Requerían polinización cruzada obligatoria
+- D. Presentaban características imposibles de diferenciar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 223
+**Subtema:** reproducción sexual · método de Mendel
+
+Las ventajas de estas plantas eran que se conseguían en el comercio, eran fáciles de cultivar y crecían con rapidez.
+
+### 50
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se poliniza normalmente la flor del guisante, ya que sus estructuras reproductivas están encerradas por completo por pétalos?
+
+- A. Se autopoliniza: los anterozoides de una flor fecundan a los óvulos de la misma flor
+- B. Se poliniza de forma cruzada entre variedades diferentes
+- C. Se poliniza por el viento entre plantas distintas
+- D. Requiere la intervención manual del investigador
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 223
+**Subtema:** reproducción sexual · método de Mendel
+
+En consecuencia, la flor normalmente se autopoliniza; es decir, los anterozoides de una flor fecundan a los óvulos de la misma flor.
+
+---
+
+**Reactivos en este archivo:** 50
