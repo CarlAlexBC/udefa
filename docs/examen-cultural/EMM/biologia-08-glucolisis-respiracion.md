@@ -44,7 +44,7 @@ página **159** (hoja 205).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **146 a 150**:
+Cubiertas las páginas impresas **146 a 151**:
 
 - La glucólisis como vía central; el ATP como principal transportador de energía
   y dónde interviene.
@@ -63,8 +63,10 @@ Cubiertas las páginas impresas **146 a 150**:
 - Los pasos 6 a 9 y el balance neto de la glucólisis; la respiración aeróbica y
   la estructura de la mitocondria; la oxidación del ácido pirúvico y la entrada
   al ciclo de Krebs.
+- Las tres figuras de la página 151: el esquema de la mitocondria, la formación
+  de acetil-CoA y el ciclo de Krebs completo con sus ocho compuestos.
 
-**Pendiente:** del capítulo 8, las páginas impresas 151 a 158, y el apartado
+**Pendiente:** del capítulo 8, las páginas impresas 152 a 158, y el apartado
 "Biología en contexto social" de las páginas 145–146. De la materia siguen sin
 empezar los capítulos 11, 12, 31, 32, 35, 36 y 37.
 
@@ -1366,4 +1368,270 @@ En el curso de este ciclo, dos de los seis carbonos del ácido cítrico se oxida
 
 ---
 
-**Reactivos en este archivo:** 77
+## Sub-lote 16 · El esquema de la mitocondria (figura 8-5, p. 151)
+
+### 78
+
+En relación con el libro de Biología, ¿qué conforma la membrana interna plegada de la mitocondria?
+
+- A. Una serie de tabiques o crestas
+- B. Una serie de vesículas independientes
+- C. Una capa lisa que envuelve a la externa
+- D. Una red de microtúbulos
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · la mitocondria
+
+Una mitocondria está formada por dos membranas. La membrana interna plegada conforma una serie de tabiques o crestas.
+
+### 79
+
+De acuerdo con el libro de Biología, ¿dónde se encuentran muchas de las enzimas y transportadores de electrones involucrados en la respiración celular?
+
+- A. Insertos en las membranas internas de la mitocondria
+- B. Disueltos en el espacio intermembrana
+- C. Insertos en la membrana externa de la mitocondria
+- D. Libres en el citoplasma celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · la mitocondria
+
+Muchas de las enzimas y transportadores de electrones involucrados en la respiración celular se encuentran insertos en estas membranas internas.
+
+### 80
+
+De conformidad con el libro de Biología, ¿qué papel desempeñan los complejos de ATP sintetasa?
+
+- A. Un papel fundamental en la formación de ATP durante la etapa final de la respiración celular
+- B. Un papel fundamental en la degradación del ATP a ADP
+- C. Un papel fundamental en el transporte del ácido pirúvico a la matriz
+- D. Un papel fundamental en la formación de las crestas mitocondriales
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · la mitocondria
+
+Entre las enzimas están los complejos de ATP sintetasa que, como veremos, desempeñan un papel fundamental en la formación de ATP durante la etapa final de la respiración celular.
+
+### 81
+
+En relación con el libro de Biología, ¿cómo se llama el compartimento que queda entre las dos membranas de la mitocondria?
+
+- A. Espacio intermembrana
+- B. Matriz mitocondrial
+- C. Cresta mitocondrial
+- D. Nucleoide
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · la mitocondria
+
+Esquema de una mitocondria: membrana externa, membrana interna, espacio intermembrana, crestas y matriz.
+
+> Las cinco partes que rotula la figura, para no confundirlas: las dos
+> **membranas**, el **espacio intermembrana** entre ellas, las **crestas** que
+> forma la interna al plegarse, y la **matriz** que es todo lo de dentro.
+
+---
+
+## Sub-lote 17 · La formación de acetil-CoA (figura 8-6, p. 151)
+
+### 82
+
+De acuerdo con el libro de Biología, ¿qué enzima interviene en la oxidación del ácido pirúvico?
+
+- A. La piruvato deshidrogenasa
+- B. La piruvato cinasa
+- C. La triosa fosfato deshidrogenasa
+- D. La ATP sintetasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · acetil-CoA
+
+Piruvato deshidrogenasa.
+
+> Ojo con el distractor B: la **piruvato cinasa** es la del paso 9 de la
+> glucólisis; la **piruvato deshidrogenasa** es la que oxida el ácido pirúvico
+> ya dentro de la mitocondria. Se parecen en el nombre y actúan en etapas
+> distintas.
+
+### 83
+
+De conformidad con el libro de Biología, ¿a qué se oxida la molécula de tres carbonos del ácido pirúvico?
+
+- A. Al grupo acetilo de dos carbonos
+- B. Al ácido cítrico de seis carbonos
+- C. Al ácido oxalacético de cuatro carbonos
+- D. A dos moléculas de dióxido de carbono
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · acetil-CoA
+
+La molécula de tres carbonos del ácido pirúvico se oxida al grupo acetilo de dos carbonos.
+
+### 84
+
+En relación con el libro de Biología, ¿con qué se combina el grupo acetilo y qué compuesto forma?
+
+- A. Con la coenzima A, formando el compuesto acetil-CoA
+- B. Con el ácido oxalacético, formando el ácido cítrico
+- C. Con el NAD⁺, formando NADH
+- D. Con el oxígeno, formando dióxido de carbono
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · acetil-CoA
+
+El grupo acetilo de dos carbonos se combina con la coenzima A, formando el compuesto acetil-CoA.
+
+### 85
+
+De acuerdo con el libro de Biología, ¿a qué está acoplada la oxidación de la molécula de ácido pirúvico?
+
+- A. A la reducción de NAD⁺
+- B. A la reducción de FAD
+- C. A la síntesis de ATP a partir de ADP
+- D. A la formación de agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · acetil-CoA
+
+La oxidación de la molécula de ácido pirúvico está acoplada a la reducción de NAD⁺.
+
+### 86
+
+De conformidad con el libro de Biología, ¿a dónde entra la acetil-CoA?
+
+- A. En el ciclo de Krebs
+- B. En la glucólisis
+- C. En la cadena de transporte de electrones
+- D. En el espacio intermembrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · acetil-CoA
+
+La acetil-CoA entra en el ciclo de Krebs.
+
+---
+
+## Sub-lote 18 · El ciclo de Krebs en la figura 8-7 (p. 151)
+
+### 87
+
+En relación con el libro de Biología, ¿qué ocurre en el ciclo de Krebs con los carbonos donados por el grupo acetilo?
+
+- A. Se oxidan a dióxido de carbono
+- B. Se reducen a glucosa
+- C. Se incorporan al ácido oxalacético de forma permanente
+- D. Se transforman en agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · ciclo de Krebs
+
+En este ciclo, los carbonos donados por el grupo acetilo se oxidan a CO₂.
+
+### 88
+
+De acuerdo con el libro de Biología, ¿a qué aceptores pasan los electrones en el ciclo de Krebs?
+
+- A. A los aceptores de electrones NAD y FAD
+- B. Al oxígeno molecular, directamente
+- C. A la coenzima A
+- D. A los complejos de ATP sintetasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · ciclo de Krebs
+
+Los electrones pasan a los aceptores de electrones NAD y FAD.
+
+### 89
+
+De conformidad con el libro de Biología, ¿qué interviene en cada paso del ciclo de Krebs, al igual que en la glucólisis?
+
+- A. Una enzima específica
+- B. Una molécula de agua
+- C. Una molécula de ATP
+- D. Un transportador de la membrana interna
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · ciclo de Krebs
+
+Al igual que en la glucólisis, en cada paso interviene una enzima específica.
+
+### 90
+
+En relación con el libro de Biología, ¿qué papel cumple la coenzima A?
+
+- A. Es el nexo entre la oxidación del ácido pirúvico y el ciclo de Krebs
+- B. Es el aceptor final de los electrones de la cadena respiratoria
+- C. Es la enzima que cataliza el primer paso del ciclo de Krebs
+- D. Es el transportador que lleva el ácido pirúvico a la matriz
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · ciclo de Krebs
+
+La coenzima A es el nexo entre la oxidación del ácido pirúvico y el ciclo de Krebs.
+
+### 91
+
+De acuerdo con el libro de Biología, ¿en qué orden aparecen los primeros compuestos del ciclo de Krebs?
+
+- A. Ácido cítrico, ácido cis-aconítico, ácido isocítrico y ácido α-cetoglutárico
+- B. Ácido cítrico, ácido isocítrico, ácido cis-aconítico y ácido α-cetoglutárico
+- C. Ácido oxalacético, ácido málico, ácido fumárico y ácido succínico
+- D. Ácido α-cetoglutárico, ácido isocítrico, ácido cis-aconítico y ácido cítrico
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · ciclo de Krebs
+
+Ácido cítrico, ácido cis-aconítico, ácido isocítrico, ácido α-cetoglutárico.
+
+### 92
+
+De conformidad con el libro de Biología, ¿en qué orden aparecen los últimos compuestos del ciclo de Krebs, antes de cerrarse?
+
+- A. Ácido succínico, ácido fumárico, ácido málico y ácido oxalacético
+- B. Ácido succínico, ácido málico, ácido fumárico y ácido oxalacético
+- C. Ácido oxalacético, ácido málico, ácido fumárico y ácido succínico
+- D. Ácido fumárico, ácido succínico, ácido oxalacético y ácido málico
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · ciclo de Krebs
+
+Ácido succínico, ácido fumárico, ácido málico, ácido oxalacético.
+
+> Los ocho compuestos del ciclo, en orden y de corrido: **cítrico**,
+> **cis-aconítico**, **isocítrico**, **α-cetoglutárico**, **succínico**,
+> **fumárico**, **málico** y **oxalacético** — que es con el que empezó todo y
+> por eso el ciclo se cierra.
+
+### 93
+
+En relación con el libro de Biología, ¿qué compuesto de alta energía se forma a partir del GDP en el ciclo de Krebs?
+
+- A. GTP
+- B. ATP
+- C. NADH
+- D. FADH₂
+
+**Respuesta:** A
+**Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 151
+**Subtema:** Respiración celular · ciclo de Krebs
+
+GDP, GTP.
+
+---
+
+**Reactivos en este archivo:** 93
