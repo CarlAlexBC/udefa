@@ -73,9 +73,16 @@ cubre que el código no es ambiguo (cada codón, un único aminoácido) y permit
 predecir la secuencia del polipéptido, el codón de inicio AUG desde el extremo 5',
 que las excepciones no contradicen el ancestro común, las aminoacil-ARNt sintetasas
 (al menos 20, la clave de la traducción) y la tabla del código genético (fig. 12-10,
-con los seis codones de la leucina).
+con los seis codones de la leucina). De las **páginas 257-258** se cubre el mecanismo
+de la traducción: sus tres etapas, el complejo aminoacil-ARNt formado con ATP, el
+anticodón; la iniciación (subunidad menor + ARNm + ARNt con metionina, la fMet en
+procariontes, el anticodón UAC, los factores de iniciación y el GTP, fig. 12-13); los
+tres sitios del ribosoma (A, P y E) y la peptidil transferasa; la elongación (la
+translocación, los factores de elongación, el plegado tridimensional); y la
+terminación (el codón de terminación, los factores de liberación y la separación
+final).
 
-**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 257 (hoja 303) en adelante (el mecanismo de la traducción en el ribosoma: iniciación, elongación y terminación). Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 259 (hoja 305) en adelante. Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -1493,4 +1500,256 @@ Dado que los 61 tripletes codifican para 20 aminoácidos, hay codones "sinónimo
 
 ---
 
-**Reactivos en este archivo:** 88
+## Sub-lote 19 · Los elementos de la traducción y el anticodón (p. 257)
+
+### 89
+
+De acuerdo con el libro de Biología, ¿en qué tres etapas se divide el proceso de la traducción?
+
+- A. Iniciación, elongación y terminación
+- B. Transcripción, maduración y traducción
+- C. Replicación, transcripción y traducción
+- D. Promotor, elongación y terminador
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 257
+**Subtema:** flujo de información genética · traducción
+
+Para estudiar el proceso de la traducción resulta útil dividirlo en tres etapas: iniciación, elongación y terminación.
+
+### 90
+
+De acuerdo con el libro de Biología, la reacción en la que cada ARNt se une a un aminoácido requiere energía. ¿De dónde proviene y cómo se llama el producto?
+
+- A. De la hidrólisis de ATP; el producto es un complejo denominado aminoacil-ARNt
+- B. De la hidrólisis de GTP; el producto es un ribosoma
+- C. De la luz solar; el producto es un codón
+- D. De la hidrólisis de ADN; el producto es un anticodón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 257
+**Subtema:** flujo de información genética · traducción
+
+La reacción en la que cada ARNt se une a un aminoácido requiere energía, que será aportada por la hidrólisis de moléculas de ATP. El producto de esta reacción es un complejo denominado aminoacil-ARNt.
+
+### 91
+
+De acuerdo con el libro de Biología, además del sitio de unión al aminoácido (la secuencia CCA en el extremo 3'), ¿qué otro sitio posee cada ARNt y en qué consiste?
+
+- A. El anticodón, un triplete particular de nucleótidos que puede aparearse con los codones del ARNm
+- B. El promotor, que señala el inicio de la transcripción
+- C. El capuchón, que protege el extremo 5'
+- D. La cola de poli-A, que regula su estabilidad
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 257
+**Subtema:** flujo de información genética · traducción
+
+Cada ARNt posee en su secuencia otro sitio llamado anticodón, que consiste en un triplete particular de nucleótidos. Los anticodones pueden aparearse con los codones del ARNm.
+
+---
+
+## Sub-lote 20 · La iniciación de la traducción (fig. 12-13, pp. 257-258)
+
+### 92
+
+De acuerdo con el libro de Biología, ¿en qué consiste la iniciación de la traducción?
+
+- A. En el encuentro de una subunidad menor, un ARNm y un ARNt cargado con el aminoácido metionina
+- B. En la separación de las dos cadenas del ADN
+- C. En el corte de los intrones del ARNm
+- D. En la llegada del ribosoma a un codón de terminación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 257
+**Subtema:** flujo de información genética · traducción
+
+La iniciación consiste en el encuentro de un conjunto de biomoléculas: en primer lugar, se reúnen una subunidad menor, un ARNm y un ARNt cargado con el aminoácido metionina.
+
+### 93
+
+De acuerdo con el libro de Biología, en los procariontes, ¿con qué aminoácido modificado está cargado el primer ARNt de la iniciación?
+
+- A. Con la formil-metionina (fMet)
+- B. Con la leucina
+- C. Con la valina
+- D. Con la arginina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 258
+**Subtema:** flujo de información genética · traducción
+
+En procariontes, el primer ARNt de la iniciación está cargado con el aminoácido modificado formil-metionina, fMet.
+
+### 94
+
+De acuerdo con el libro de Biología, dado que el codón de inicio es AUG, ¿qué anticodón contiene en su secuencia el primer ARNt?
+
+- A. El anticodón UAC
+- B. El anticodón AUG
+- C. El anticodón TAC
+- D. El anticodón CCA
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 258
+**Subtema:** flujo de información genética · traducción
+
+El codón de inicio es el primer codón AUG desde el extremo 5' (por lo tanto, este primer ARNt contiene en su secuencia el anticodón UAC). Codón y anticodón quedarán enfrentados por la complementariedad entre sus bases.
+
+### 95
+
+De acuerdo con el libro de Biología, además de las subunidades ribosómicas, ¿qué requiere la etapa de iniciación?
+
+- A. La presencia de proteínas adicionales, los factores de iniciación, y energía de la hidrólisis de GTP
+- B. La presencia de ADN polimerasa y energía de la luz solar
+- C. La cola de poli-A y energía de la hidrólisis de ATP
+- D. La caja TATA y el factor sigma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 258
+**Subtema:** flujo de información genética · traducción
+
+Esta etapa requiere la presencia de proteínas adicionales, los factores de iniciación, y el aporte de energía, que es suministrado por la hidrólisis de GTP (guanosín trifosfato).
+
+### 96
+
+De acuerdo con el libro de Biología, ¿cuáles son los tres sitios de la subunidad mayor por los que van pasando los ARNt durante la síntesis de proteínas?
+
+- A. El sitio A (aminoacílico), el sitio P (peptidílico) y el sitio E (salida)
+- B. El sitio 5', el sitio 3' y el sitio central
+- C. El promotor, el codón y el terminador
+- D. El sitio molde, el sitio codificante y el sitio de salida
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 258
+**Subtema:** flujo de información genética · traducción
+
+La subunidad mayor de los ribosomas contiene tres sitios por los que los ARNt irán pasando sucesivamente durante la síntesis de proteínas: el sitio A (aminoacílico), el sitio P (peptidílico) y el sitio E (del inglés *exit*, salida).
+
+### 97
+
+De acuerdo con el libro de Biología, ¿cómo se llama la ribozima de la subunidad mayor responsable de formar las uniones peptídicas entre los aminoácidos?
+
+- A. La peptidil transferasa
+- B. La ARN polimerasa
+- C. La aminoacil-ARNt sintetasa
+- D. La transcriptasa inversa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 258
+**Subtema:** flujo de información genética · traducción
+
+Esta subunidad contiene la peptidil transferasa, una ribozima responsable de formar las uniones peptídicas entre los aminoácidos.
+
+---
+
+## Sub-lote 21 · La elongación y la terminación (figs. 12-14 y 12-15, p. 258)
+
+### 98
+
+De acuerdo con el libro de Biología, ¿por qué la etapa de elongación recibe ese nombre?
+
+- A. Porque consiste en la formación de la cadena polipeptídica, que se va alargando de a un aminoácido por vez
+- B. Porque el ARN mensajero se va alargando
+- C. Porque el ADN se duplica antes de la división
+- D. Porque el ribosoma aumenta de tamaño
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 258
+**Subtema:** flujo de información genética · traducción
+
+La elongación recibe este nombre porque, a grandes rasgos, consiste en la formación de la cadena polipeptídica, que se irá alargando de a un aminoácido por vez.
+
+### 99
+
+De acuerdo con el libro de Biología, ¿en qué consiste la translocación?
+
+- A. En el desplazamiento de tres nucleótidos hacia el extremo 3' del ARNm, que cambia de lugar a los ARNt
+- B. En el corte y la eliminación de los intrones del ARNm
+- C. En la unión de la subunidad mayor al complejo de iniciación
+- D. En la separación de las dos cadenas del ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 258
+**Subtema:** flujo de información genética · traducción
+
+Lo que sucede a continuación se conoce como translocación y consiste en el desplazamiento de tres nucleótidos hacia el extremo 3' del ARNm. Este corrimiento cambia de lugar a los ARNt.
+
+### 100
+
+De acuerdo con el libro de Biología, de manera similar a la iniciación, ¿qué requiere la elongación?
+
+- A. La participación de un conjunto de proteínas llamadas factores de elongación y energía de la hidrólisis de GTP
+- B. La acción de la ARN polimerasa y energía de la luz
+- C. La caja TATA y el factor sigma
+- D. La cola de poli-A y el capuchón del ARNm
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 258
+**Subtema:** flujo de información genética · traducción
+
+De manera similar a la primera etapa, la elongación requiere la participación de un conjunto de proteínas llamadas factores de elongación y el aporte de energía, también suministrado por la hidrólisis de GTP.
+
+### 101
+
+De acuerdo con el libro de Biología, a medida que la cadena polipeptídica se alarga, ¿qué producen las interacciones que se establecen entre sus aminoácidos?
+
+- A. Los pliegues que le darán su forma tridimensional final
+- B. La separación inmediata de las subunidades ribosómicas
+- C. El corte de los intrones del ARNm
+- D. La degradación del polipéptido naciente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 258
+**Subtema:** flujo de información genética · traducción
+
+A medida que la cadena polipeptídica se va alargando, comienzan a establecerse diversas interacciones entre sus aminoácidos. Estas interacciones producen los pliegues que le darán su forma tridimensional final.
+
+### 102
+
+De acuerdo con el libro de Biología, ¿cuándo comienza la etapa de terminación de la traducción?
+
+- A. Cuando el ribosoma llega a un codón de terminación (UAG, UAA o UGA), cerca del extremo 3' del ARNm
+- B. Cuando el ribosoma se une al codón AUG del ARNm
+- C. Cuando se agrega la cola de poli-A al ARNm
+- D. Cuando el segundo ARNt entra en el sitio A
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 258
+**Subtema:** flujo de información genética · traducción
+
+La terminación o última etapa comienza cuando el ribosoma llega a un codón de terminación (UAG, UAA o UGA), cerca del extremo 3' de la molécula de ARNm.
+
+### 103
+
+De acuerdo con el libro de Biología, como ningún ARNt tiene un anticodón complementario a un codón de terminación, ¿qué proteínas intervienen para que el polipéptido ya formado se separe del último ARNt?
+
+- A. Los factores de liberación
+- B. Los factores de iniciación
+- C. Las aminoacil-ARNt sintetasas
+- D. Las topoisomerasas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 258
+**Subtema:** flujo de información genética · traducción
+
+Intervienen unas proteínas llamadas factores de liberación, haciendo que el polipéptido ya formado se separe del último ARNt.
+
+### 104
+
+De acuerdo con el libro de Biología, ¿qué ocurre cuando se detiene la traducción?
+
+- A. El ARNt se libera, la cadena polipeptídica se desprende y las dos subunidades ribosómicas se separan
+- B. El ARN mensajero se degrada de inmediato
+- C. Comienza de inmediato una nueva transcripción
+- D. Se forma el capuchón en el extremo 5' del ARNm
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 258
+**Subtema:** flujo de información genética · traducción
+
+Así se detiene la traducción: el ARNt se libera, la cadena polipeptídica se desprende y las dos subunidades ribosómicas se separan.
+
+---
+
+**Reactivos en este archivo:** 104
