@@ -32,7 +32,7 @@ leyeron de la hoja, no se calcularon.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **212 a 216 y 218 a 229**: qué es la reproducción
+Cubiertas las páginas impresas **212 a 216 y 218 a 230**: qué es la reproducción
 sexual, la meiosis y la fecundación, el cigoto, las dotaciones cromosómicas, los
 números de cromosomas por especie, el entrecruzamiento, las fases de la meiosis,
 las diferencias entre mitosis y meiosis, el cariotipo y el número cromosómico
@@ -45,7 +45,8 @@ P/F1/F2, líneas puras), los caracteres dominantes y recesivos con la relación 
 la primera ley de Mendel o principio de segregación, y el vocabulario genético
 moderno: genotipo, fenotipo, alelos, homocigosis y heterocigosis, dominancia, el
 tablero de Punnett, el cruzamiento dihíbrido y la segunda ley de Mendel o
-principio de distribución independiente con su relación 9:3:3:1.
+principio de distribución independiente con su relación 9:3:3:1, y la teoría
+cromosómica de Sutton (el término *elemente*, el gen en los cromosomas).
 
 Las páginas 217 y 219 son íntegramente figuras (11-6, 11-10 y 11-11), y la 222
 trae la biografía de Mendel de la que sí salieron reactivos.
@@ -55,7 +56,7 @@ extractor como "elemente" (pp. 222 y 229), pero ambas salieron de un renglón qu
 el extractor corta, y el término correcto podría ser "elementen". **No se escribió
 reactivo sobre ese término** hasta recortarlo a alta resolución y confirmarlo.
 
-**Pendiente:** del capítulo 11 falta de la página impresa 230 en adelante (hoja 276+): el cruzamiento de prueba (test cross), lo que reste de genética mendeliana, el recuadro social de la página 210 y los ensayos 11-1, 11-2 y 11-3. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 11 falta de la página impresa 231 en adelante (hoja 277+): el cruzamiento de prueba (test cross), lo que reste de genética mendeliana, el recuadro social de la página 210 y los ensayos 11-1, 11-2 y 11-3. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -1350,4 +1351,102 @@ La progenie F1 de cada uno de estos cruzamientos siempre será heterocigótica p
 
 ---
 
-**Reactivos en este archivo:** 79
+## Sub-lote 23 · La teoría cromosómica: Sutton y Mendel (p. 230)
+
+### 80
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo llamó Mendel a las unidades hereditarias que hoy conocemos como genes?
+
+- A. *Elemente*
+- B. Alelos
+- C. Cromosomas
+- D. Gametos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 230
+**Subtema:** reproducción sexual · teoría cromosómica
+
+Sutton supuso que los *elemente* descritos por Mendel –que hoy conocemos como genes– están en los cromosomas.
+
+> Término verificado con recorte a 550 dpi (`crop.py`, hoja 276): el libro escribe
+> *elemente*, en cursiva. Aparece así tres veces (pp. 222, 229 y 230). No es un
+> corte del extractor, es la palabra que usa el Curtis.
+
+### 81
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué año se encontraba Sutton estudiando la formación de las células sexuales en machos de saltamontes?
+
+- A. En 1902
+- B. En 1822
+- C. En 1884
+- D. En 1862
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 230
+**Subtema:** reproducción sexual · teoría cromosómica
+
+Iniciado el siglo, en 1902, Sutton se encontraba estudiando la formación de las células sexuales en machos de saltamontes.
+
+### 82
+
+De acuerdo con el libro de Biología de Curtis, ¿durante qué fase se hace evidente la existencia de cromosomas homólogos, cuando estos se aparean?
+
+- A. Durante la primera fase de la meiosis
+- B. Durante la fecundación
+- C. Durante la anafase de la mitosis
+- D. Durante la formación del cigoto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 230
+**Subtema:** reproducción sexual · teoría cromosómica
+
+La existencia de cromosomas homólogos se hacía evidente durante el apareamiento de la primera fase de la meiosis, aunque un ojo perspicaz también podría haberlos encontrado al observar la metafase de la mitosis.
+
+### 83
+
+De acuerdo con el libro de Biología de Curtis, según el razonamiento de Sutton, ¿dónde están los genes y qué porta cada cromosoma homólogo?
+
+- A. Los genes están en los cromosomas, y cada cromosoma homólogo porta uno de los alelos de cada gen
+- B. Los genes están en el citoplasma, y cada cromosoma porta todos los alelos
+- C. Los genes están en los gametos, y cada cromosoma porta un solo gen
+- D. Los genes están en la membrana, y cada cromosoma porta dos alelos de cada gen
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 230
+**Subtema:** reproducción sexual · teoría cromosómica
+
+Sutton supuso que los *elemente* descritos por Mendel están en los cromosomas, y que cada cromosoma homólogo porta uno de los alelos de cada gen.
+
+### 84
+
+De acuerdo con el libro de Biología de Curtis, ¿por qué proceso podía explicarse el principio mendeliano de segregación de los alelos?
+
+- A. Por la segregación de los cromosomas homólogos durante la meiosis
+- B. Por la fusión de los núcleos durante la fecundación
+- C. Por la duplicación de los cromosomas en la mitosis
+- D. Por el apareamiento de las cromátidas hermanas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 230
+**Subtema:** reproducción sexual · teoría cromosómica
+
+El principio mendeliano de segregación de los alelos podía explicarse por la segregación de los cromosomas homólogos durante la meiosis.
+
+### 85
+
+De acuerdo con el libro de Biología de Curtis, ¿bajo qué condición pueden distribuirse en forma independiente los alelos que corresponden a genes diferentes, según el segundo principio de Mendel?
+
+- A. Solo si están situados en diferentes pares de cromosomas, o si están alejados en el mismo cromosoma y pueden intercambiarse
+- B. Solo si están en el mismo par de cromosomas y muy próximos entre sí
+- C. Solo si ambos alelos son dominantes
+- D. Solo si el organismo es homocigótico para ambos genes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 230
+**Subtema:** reproducción sexual · teoría cromosómica
+
+Este principio establece que los alelos que corresponden a genes diferentes se distribuyen en forma independiente durante la segregación. Esto solo puede ocurrir si dos pares de alelos diferentes están situados en diferentes pares de cromosomas o si están alejados uno del otro en el mismo cromosoma y pueden intercambiarse.
+
+---
+
+**Reactivos en este archivo:** 85
