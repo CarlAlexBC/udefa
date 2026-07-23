@@ -32,16 +32,18 @@ leyeron de la hoja, no se calcularon.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **212 a 216 y 218**: qué es la reproducción
+Cubiertas las páginas impresas **212 a 216 y 218 a 220**: qué es la reproducción
 sexual, la meiosis y la fecundación, el cigoto, las dotaciones cromosómicas, los
 números de cromosomas por especie, el entrecruzamiento, las fases de la meiosis,
 las diferencias entre mitosis y meiosis, el cariotipo y el número cromosómico
-humano, y la gametogénesis (espermatogénesis y oogénesis).
+humano, la gametogénesis (espermatogénesis y oogénesis), el momento de la meiosis
+femenina, autosomas y cromosomas sexuales X/Y, la no disyunción y la
+variabilidad genética.
 
 La página 217 es íntegramente la figura 11-6 (fecundación y meiosis en distintos
 ciclos de vida): sin cuerpo de texto del que salgan reactivos.
 
-**Pendiente:** del capítulo 11 falta de la página impresa 219 en adelante (hoja 265+), incluido el recuadro social de la página 210 y los experimentos de Mendel. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 11 falta de la página impresa 221 en adelante (hoja 267+): las tres fuentes de variabilidad genética en detalle, el recuadro social de la página 210 y los experimentos de Mendel. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -522,4 +524,166 @@ Como resultado de esta división desigual del citoplasma, el óvulo está bien p
 
 ---
 
-**Reactivos en este archivo:** 29
+## Sub-lote 9 · El momento de la meiosis femenina (fig. 11-11, p. 219)
+
+### 30
+
+De acuerdo con el libro de Biología de Curtis, ¿cuándo comienza y hasta cuándo queda detenida la primera división meiótica en la mujer?
+
+- A. Comienza durante el tercer mes de su desarrollo fetal y queda detenida en la profase I hasta la ovulación durante la pubertad
+- B. Comienza en la pubertad y queda detenida en la metafase I hasta la ovulación
+- C. Comienza al nacer y se completa antes del primer mes de vida
+- D. Comienza y termina durante el tercer mes de desarrollo fetal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 219
+**Subtema:** reproducción sexual · gametogénesis
+
+La primera división meiótica comienza, en la mujer, durante el tercer mes de su desarrollo fetal y queda detenida en la profase I hasta que se produce la ovulación durante la pubertad.
+
+### 31
+
+De acuerdo con el libro de Biología de Curtis, ¿cuándo ocurre la segunda división meiótica que produce el óvulo?
+
+- A. No ocurre hasta que el espermatozoide fecundante haya penetrado en el oocito secundario
+- B. Ocurre inmediatamente después de la primera división meiótica
+- C. Ocurre durante el tercer mes del desarrollo fetal
+- D. Ocurre al comienzo de la pubertad, junto con la ovulación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 219
+**Subtema:** reproducción sexual · gametogénesis
+
+La segunda división meiótica, que produce el óvulo y un segundo corpúsculo polar, no ocurre hasta que el espermatozoide fecundante haya penetrado en el oocito secundario.
+
+---
+
+## Sub-lote 10 · Autosomas y cromosomas sexuales (p. 220)
+
+### 32
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se llaman los cromosomas cuyos dos miembros del par portan el mismo tipo de información?
+
+- A. Autosomas
+- B. Cromosomas sexuales
+- C. Cromosomas homólogos
+- D. Cromátidas hermanas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 220
+**Subtema:** reproducción sexual · autosomas y sexuales
+
+En cada uno de los pares de cromosomas, excepto en uno, los dos miembros del par tienen los mismos tipos de genes; es decir, portan el mismo tipo de información. Estos cromosomas son los autosomas.
+
+### 33
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se denomina el cromosoma sexual que comparten ambos sexos?
+
+- A. El cromosoma X
+- B. El cromosoma Y
+- C. El autosoma
+- D. El cromosoma homólogo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 220
+**Subtema:** reproducción sexual · autosomas y sexuales
+
+El cromosoma que comparten ambos sexos se llama cromosoma X y el diferente se denomina cromosoma Y.
+
+### 34
+
+De acuerdo con el libro de Biología de Curtis, ¿cuál es, con mayor frecuencia, el par de cromosomas sexuales de la hembra y del macho?
+
+- A. En la hembra XX y en el macho XY
+- B. En la hembra XY y en el macho XX
+- C. En ambos XX
+- D. En ambos XY
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 220
+**Subtema:** reproducción sexual · autosomas y sexuales
+
+El par de cromosomas sexuales de la hembra es con mayor frecuencia XX, mientras que el de los machos con mayor frecuencia es XY.
+
+### 35
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo son entre sí los dos cromosomas sexuales en el hombre?
+
+- A. Diferentes: uno es igual al par sexual de la mujer y el otro es mucho más pequeño
+- B. Morfológicamente iguales, como en la mujer
+- C. Ambos más pequeños que los autosomas
+- D. Idénticos a los autosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 220
+**Subtema:** reproducción sexual · autosomas y sexuales
+
+En las mujeres, los dos cromosomas sexuales son morfológicamente iguales, pero en los hombres son diferentes. Uno de los cromosomas sexuales del hombre es igual a los que constituyen el par sexual de la mujer, pero el otro es mucho más pequeño.
+
+---
+
+## Sub-lote 11 · No disyunción y variabilidad genética (p. 220)
+
+### 36
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se denomina el fenómeno en el que los cromosomas homólogos o sus cromátidas no se separan del modo normal durante la meiosis o la mitosis?
+
+- A. No disyunción de los cromosomas
+- B. Entrecruzamiento
+- C. Segregación al azar
+- D. Recombinación cromosómica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 220
+**Subtema:** reproducción sexual · no disyunción
+
+En ciertas ocasiones, los cromosomas homólogos o sus cromátidas no se separan del modo ya descrito durante la meiosis o la mitosis. Este fenómeno se denomina no disyunción de los cromosomas.
+
+### 37
+
+De acuerdo con el libro de Biología de Curtis, ¿qué da como resultado la no disyunción?
+
+- A. Gametos con uno o más cromosomas faltantes o sobrantes
+- B. Gametos genéticamente idénticos al progenitor
+- C. La duplicación del número de cromosomas en cada gameto
+- D. La recombinación del material genético de los progenitores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 220
+**Subtema:** reproducción sexual · no disyunción
+
+En cualquier caso, la no disyunción da como resultado gametos con uno o más cromosomas faltantes o sobrantes.
+
+### 38
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo son genéticamente los individuos producidos en forma asexual respecto de sus progenitores?
+
+- A. Genéticamente idénticos, salvo que ocurra algún tipo de mutación
+- B. Con enorme potencial para la variabilidad genética
+- C. Con la mitad del material genético del progenitor
+- D. Diferentes por efecto del entrecruzamiento
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 220
+**Subtema:** reproducción sexual · variabilidad genética
+
+Debido al proceso de duplicación cromosómica que ocurre en la mitosis, los individuos producidos en forma asexual son genéticamente idénticos a sus progenitores, salvo que ocurra algún tipo de mutación. En contraste, en los individuos producidos sexualmente, el potencial para la variabilidad genética es enorme.
+
+### 39
+
+De acuerdo con el libro de Biología de Curtis, ¿cuántos procesos fundamentales funcionan como fuentes de variabilidad genética en las especies de reproducción sexual?
+
+- A. Tres
+- B. Dos
+- C. Cuatro
+- D. Ocho
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 220
+**Subtema:** reproducción sexual · variabilidad genética
+
+En las especies de reproducción sexual pueden reconocerse tres procesos fundamentales que ocurren durante la meiosis y la fecundación, y que funcionan como fuentes de variabilidad genética.
+
+---
+
+**Reactivos en este archivo:** 39
