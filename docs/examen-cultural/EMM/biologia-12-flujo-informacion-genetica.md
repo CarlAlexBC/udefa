@@ -42,9 +42,16 @@ al dogma (Temin 1962 y los virus con ARN, la transcriptasa inversa de Baltimore 
 1970, el Nobel de 1975); y el arranque de la transcripción (los tres tipos de ARN
 —mensajero, ribosomal y de transferencia— y sus funciones, qué es la transcripción,
 la ARN polimerasa, el promotor y el terminador, Jacob y Monod en 1960, y la
-definición de traducción).
+definición de traducción). De la **página 250** se cubre el mecanismo de la
+transcripción: la caja TATA, qué hace el promotor (el nucleótido +1) y cuándo se
+inicia la transcripción; el factor sigma procariota; que los procariotas tienen una
+sola ARN polimerasa y los eucariotas tres (I → ARNr, II → ARNm, III → ARNt); la
+cadena molde leída de 3' a 5' y la antimolde sin función; la burbuja de
+transcripción; el reemplazo de la timina por uracilo; los enlaces fosfodiéster en
+dirección 5' a 3'; las topoisomerasas y el superenrollamiento; el fin de la
+transcripción; y la fig. 12-4 (adición en el extremo 3').
 
-**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 249 (hoja 295) en adelante. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 251 (hoja 297) en adelante. Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -520,4 +527,207 @@ La traducción es el proceso mediante el cual los aminoácidos se ensamblan en u
 
 ---
 
-**Reactivos en este archivo:** 29
+## Sub-lote 6 · La iniciación de la transcripción: promotor y ARN polimerasas (p. 250)
+
+### 30
+
+De acuerdo con el libro de Biología, en algunos promotores eucariontes, ¿cómo se llama la secuencia consenso rica en adeninas (A) y timinas (T)?
+
+- A. La caja TATA
+- B. La caja CAAT
+- C. El codón de inicio
+- D. El factor sigma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+En algunos promotores eucariontes existe una secuencia conocida como caja TATA, cuyo nombre se debe a que es rica en adeninas (A) y timinas (T).
+
+### 31
+
+De acuerdo con el libro de Biología, ¿qué función cumple el promotor respecto de la ARN polimerasa?
+
+- A. Indicarle cuál es el primer nucleótido del gen que deberá "leer" (nucleótido +1), en cuál cadena se encuentra y en qué dirección avanzará
+- B. Unir entre sí los aminoácidos de la proteína
+- C. Señalar el fin de la transcripción
+- D. Transportar los aminoácidos hasta el ribosoma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+El promotor cumple la función de indicarle a la ARN polimerasa cuál es el primer nucleótido del gen que deberá "leer" (al que se denomina nucleótido +1), en cuál de las dos cadenas se encuentra y en qué dirección avanzará.
+
+### 32
+
+De acuerdo con el libro de Biología, ¿cuándo se inicia la transcripción?
+
+- A. Cuando una ARN polimerasa se une al promotor del gen que será transcrito
+- B. Cuando el ARN recién sintetizado se libera del ribosoma
+- C. Cuando la ARN polimerasa sobrepasa el terminador
+- D. Cuando el ARN de transferencia transporta el primer aminoácido
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+La transcripción se inicia cuando una ARN polimerasa se une al promotor del gen que será transcrito.
+
+### 33
+
+De acuerdo con el libro de Biología, en la ARN polimerasa procariota, ¿cómo se llama la subunidad reguladora que se libera una vez reconocido el promotor?
+
+- A. El factor sigma
+- B. El núcleo catalítico
+- C. El factor basal de transcripción
+- D. La topoisomerasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+La ARN polimerasa procariota consta de una porción denominada núcleo catalítico y una subunidad reguladora, llamada factor sigma que, una vez reconocido el promotor, se libera.
+
+### 34
+
+De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, ¿cuántos tipos de ARN polimerasa hay en los procariotas y cuántos en los eucariotas?
+
+- A. Un solo tipo en los procariotas y tres tipos en los eucariotas
+- B. Tres tipos en los procariotas y un solo tipo en los eucariotas
+- C. Un solo tipo en los procariotas y uno en los eucariotas
+- D. Dos tipos en cada uno de los dos grupos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+En los primeros [procariotas] existe un solo tipo de enzima ARN polimerasa, capaz de transcribir todos los genes. En cambio, en los eucariotas existen tres tipos de ARN polimerasas.
+
+### 35
+
+De acuerdo con el libro de Biología, en los eucariotas, ¿qué sintetiza cada una de las tres ARN polimerasas?
+
+- A. La I los ARN ribosomales, la II los ARN mensajeros y la III los ARN de transferencia
+- B. La I los ARN mensajeros, la II los de transferencia y la III los ribosomales
+- C. La I los ARN de transferencia, la II los ribosomales y la III los mensajeros
+- D. Las tres sintetizan los tres tipos de ARN por igual
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+La ARN polimerasa I es la encargada de sintetizar los ARN ribosomales, la ARN polimerasa II sintetiza los ARN mensajeros y la ARN polimerasa III, los ARN de transferencia.
+
+---
+
+## Sub-lote 7 · La elongación y el fin de la transcripción (p. 250)
+
+### 36
+
+De acuerdo con el libro de Biología, durante la polimerización, ¿en qué sentido recorre la ARN polimerasa la cadena molde, y qué papel tiene la cadena antimolde?
+
+- A. Recorre la cadena molde en sentido 3' a 5'; la antimolde no cumple ninguna función en este proceso
+- B. Recorre la cadena molde en sentido 5' a 3'; la antimolde es la que se copia
+- C. Recorre las dos cadenas del ADN a la vez
+- D. Recorre la cadena antimolde en sentido 3' a 5'; la molde no cumple función
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+En este proceso recorre una de las cadenas del gen, la cadena molde, en sentido 3' a 5'. La otra cadena, la antimolde, no cumple ninguna función en este proceso.
+
+### 37
+
+De acuerdo con el libro de Biología, ¿cómo se llama la región donde la ARN polimerasa separa transitoriamente las dos cadenas del ADN dejando expuestas unas pocas bases?
+
+- A. La burbuja de transcripción
+- B. La horquilla de replicación
+- C. La caja TATA
+- D. El nucleótido +1
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+A medida que avanza, la ARN polimerasa separa transitoriamente ambas cadenas del ADN, formando una burbuja de transcripción, de manera que deja expuestas unas pocas bases en esa región.
+
+### 38
+
+De acuerdo con el libro de Biología, en el apareamiento de los ribonucleótidos durante la transcripción, ¿qué base reemplaza a la timina?
+
+- A. El uracilo
+- B. La adenina
+- C. La citosina
+- D. La guanina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+Los ribonucleótidos se aparean con los desoxirribonucleótidos de la misma manera que estos últimos entre sí (salvo que en los ribonucleótidos la timina es reemplazada por uracilo).
+
+### 39
+
+De acuerdo con el libro de Biología, ¿por qué tipo de enlace y en qué dirección une la ARN polimerasa los ribonucleótidos entre sí?
+
+- A. Por enlaces fosfodiéster, en la dirección 5' a 3'
+- B. Por puentes de hidrógeno, en la dirección 3' a 5'
+- C. Por enlaces peptídicos, en la dirección 5' a 3'
+- D. Por enlaces fosfodiéster, en la dirección 3' a 5'
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+La misma ARN polimerasa los va uniendo entre sí por enlaces fosfodiéster. Esto ocurre, desde ya, en la dirección 5' a 3'.
+
+### 40
+
+De acuerdo con el libro de Biología, ¿qué enzima se encarga de corregir el superenrollamiento que se forma por delante de la burbuja de transcripción?
+
+- A. Una enzima de la familia de las topoisomerasas
+- B. La ARN polimerasa III
+- C. El factor sigma
+- D. La transcriptasa inversa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+Por delante de la burbuja la doble hélice de ADN se superenrolla. Esto frenaría su avance, pero una enzima de la familia de las topoisomerasas se encarga de corregir ese superenrollamiento.
+
+### 41
+
+De acuerdo con el libro de Biología, ¿cuándo finaliza la transcripción?
+
+- A. Cuando la ARN polimerasa sobrepasa la secuencia terminadora: el ARN se libera y la burbuja se cierra
+- B. Cuando la ARN polimerasa se une al promotor del gen
+- C. Cuando se forma la burbuja de transcripción
+- D. Cuando el ARN de transferencia transporta el último aminoácido
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+La transcripción finaliza cuando la ARN polimerasa sobrepasa la secuencia terminadora, el ARN recién sintetizado se libera y la burbuja se cierra.
+
+### 42
+
+De acuerdo con el libro de Biología, según la figura 12-4, ¿en qué extremo del ARN naciente se adicionan los ribonucleótidos?
+
+- A. En el extremo 3', previa eliminación de dos grupos fosfato
+- B. En el extremo 5', sin eliminar ningún grupo fosfato
+- C. En los dos extremos del ARN a la vez
+- D. En el extremo 5', previa eliminación de tres grupos fosfato
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 250
+**Subtema:** flujo de información genética · transcripción
+
+Los ribonucleótidos se adicionan en el extremo 3' del ARN naciente, previa eliminación de dos grupos fosfato.
+
+---
+
+**Reactivos en este archivo:** 42
