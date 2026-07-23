@@ -64,9 +64,13 @@ ARN de transferencia (70 a 90 ribonucleótidos, la hoja de trébol y la forma de
 secuencia CCA del extremo 3' y el aminoacil-ARNt, fig. 12-8), el *splicing*
 alternativo, la definición de traducción, y el arranque del código genético (Gamow,
 los 20 aminoácidos frente a los cuatro nucleótidos, el cálculo 4ⁿ = 64 y el código
-de tripletes).
+de tripletes). De la **página 255** se cubre el desciframiento del código (Nirenberg
+y Matthaei), el codón, los 64 codones (61 codificantes y los tres de terminación
+UGA, UAA y UAG), el código degenerado o redundante y los codones sinónimos, el
+código universal y sus excepciones (*Mycoplasma*, *Paramecium* y las mitocondrias), y
+los cuatro grupos de los 20 aminoácidos de la fig. 12-9.
 
-**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 255 (hoja 301) en adelante (el desciframiento del código: Nirenberg y Matthaei, la tabla de codones, los codones de inicio y de fin). Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 256 (hoja 302) en adelante (el codón de inicio y el mecanismo de la traducción en el ribosoma). Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -1228,4 +1232,147 @@ La idea de un código de tres nucleótidos o código de tripletes fue ampliament
 
 ---
 
-**Reactivos en este archivo:** 72
+## Sub-lote 15 · El desciframiento del código y los codones (p. 255)
+
+### 73
+
+De acuerdo con el libro de Biología, ¿qué científicos realizaron las investigaciones iniciales que permitieron descifrar el código genético y deducir los tripletes correspondientes a todos los aminoácidos?
+
+- A. Los estadounidenses Marshall Nirenberg y Heinrich Matthaei
+- B. Los franceses François Jacob y Jacques Monod
+- C. Los estadounidenses George Beadle y Edgard Tatum
+- D. Los británicos James Watson y Francis Crick
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 255
+**Subtema:** flujo de información genética · código genético
+
+Las investigaciones iniciales que permitieron descifrar el código fueron realizadas por los científicos estadounidenses Marshall Nirenberg y Heinrich Matthaei. Luego de varios experimentos se pudieron deducir los tripletes correspondientes a todos los aminoácidos.
+
+### 74
+
+De acuerdo con el libro de Biología, ¿cómo se llamó también a cada triplete de nucleótidos en el ARNm?
+
+- A. Codón
+- B. Anticodón
+- C. Intrón
+- D. Exón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 255
+**Subtema:** flujo de información genética · código genético
+
+A cada triplete de nucleótidos en el ARNm se lo llamó también codón.
+
+### 75
+
+De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, de los 64 codones existentes, ¿cuántos codifican aminoácidos particulares y cuántos son codones de terminación?
+
+- A. 61 codifican aminoácidos particulares y tres son codones de terminación
+- B. 20 codifican aminoácidos y 44 son codones de terminación
+- C. Los 64 codifican aminoácidos y ninguno es de terminación
+- D. 61 son de terminación y tres codifican aminoácidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 255
+**Subtema:** flujo de información genética · código genético
+
+De los 64 codones existentes, 61 codifican aminoácidos particulares y tres (UGA, UAA y UAG) son codones "sin sentido"; es decir: no tienen traducción y constituyen codones de terminación de la síntesis.
+
+### 76
+
+De acuerdo con el libro de Biología, ¿cuáles son los tres codones "sin sentido" que constituyen codones de terminación de la síntesis?
+
+- A. UGA, UAA y UAG
+- B. AUG, GUG y UUG
+- C. AAA, CCC y GGG
+- D. UUU, CCC y AAA
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 255
+**Subtema:** flujo de información genética · código genético
+
+Tres codones (UGA, UAA y UAG) son codones "sin sentido"; es decir: no tienen traducción y constituyen codones de terminación de la síntesis.
+
+### 77
+
+De acuerdo con el libro de Biología, dado que 61 combinaciones codifican solo 20 aminoácidos y hay más de un codón para la mayoría de ellos, ¿cómo se dice que es el código genético?
+
+- A. Degenerado (o redundante)
+- B. Universal
+- C. No degenerado
+- D. Sin sentido
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 255
+**Subtema:** flujo de información genética · código genético
+
+Dado que 61 combinaciones codifican 20 aminoácidos, es evidente que debe haber más de un codón para la mayoría de los aminoácidos. Por esta razón, se dice que el código genético es degenerado. También podría decirse que el código genético es redundante.
+
+### 78
+
+De acuerdo con el libro de Biología, ¿en qué difieren únicamente los codones sinónimos?
+
+- A. En la última letra
+- B. En la primera letra
+- C. En las tres letras a la vez
+- D. En su longitud total
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 255
+**Subtema:** flujo de información genética · código genético
+
+Nótese que los codones sinónimos difieren únicamente en la última letra.
+
+---
+
+## Sub-lote 16 · El código universal y sus excepciones (fig. 12-9, p. 255)
+
+### 79
+
+De acuerdo con el libro de Biología, como la correspondencia entre nucleótidos y aminoácidos es la misma para casi todos los seres vivos, ¿cómo se dice que es el código genético y qué idea abona?
+
+- A. Universal; abona la idea de que todas las especies provienen de una única especie ancestral
+- B. Degenerado; abona la idea de que las especies no tienen relación entre sí
+- C. Redundante; abona la idea de que el código cambia en cada especie
+- D. Sin sentido; abona la idea de que no existe un ancestro común
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 255
+**Subtema:** flujo de información genética · código genético
+
+Para casi todos los seres vivos, desde los más antiguos, como las bacterias, hasta los más jóvenes, como las plantas y los animales, la correspondencia entre nucleótidos y aminoácidos es la misma. En referencia a esta característica se dice que el código genético es universal. La universalidad del código abona la idea de que todas las especies que existen en la actualidad en nuestro planeta provienen de una única especie ancestral.
+
+### 80
+
+De acuerdo con el libro de Biología, entre las pocas excepciones a la universalidad, ¿en qué organismos un codón de terminación codifica un aminoácido?
+
+- A. En la bacteria *Mycoplasma*, en el protozoo ciliado *Paramecium* y en las mitocondrias de varios organismos
+- B. En todas las plantas y en todos los animales
+- C. En ningún organismo conocido hasta hoy
+- D. Únicamente en los virus
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 255
+**Subtema:** flujo de información genética · código genético
+
+Se han encontrado unas pocas excepciones interesantes: en algunos casos, un codón que en la mayoría de los organismos es de terminación codifica un aminoácido, como ocurre en la bacteria *Mycoplasma*, en el protozoo ciliado *Paramecium* y en las mitocondrias de varios organismos.
+
+### 81
+
+De acuerdo con el libro de Biología, según la figura 12-9, ¿en qué cuatro grupos se clasifican los 20 aminoácidos que comúnmente constituyen las proteínas?
+
+- A. No polares; polares (con carga neutra a pH 7); ácidos (cargados negativamente a pH 7); y básicos (cargados positivamente a pH 7)
+- B. Grandes, medianos, pequeños y diminutos
+- C. Esenciales, no esenciales, ácidos y neutros
+- D. Simples, compuestos, ramificados y aromáticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 255
+**Subtema:** flujo de información genética · código genético
+
+Los 20 aminoácidos que comúnmente constituyen las proteínas se agrupan en no polares; polares (con carga neutra a pH 7); ácidos (cargados negativamente a pH 7); y básicos (cargados positivamente a pH 7).
+
+---
+
+**Reactivos en este archivo:** 81
