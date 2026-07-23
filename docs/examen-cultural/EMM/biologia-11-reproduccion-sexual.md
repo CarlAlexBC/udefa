@@ -32,8 +32,9 @@ leyeron de la hoja, no se calcularon.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **212 a 216 y 218 a 230**, más el hilo de la teoría
-cromosómica y de Morgan en las páginas **232 y 235 a 238**: qué es la reproducción
+Cubiertas las páginas impresas **212 a 216 y 218 a 230**, más los temas de la
+Sección III de las páginas **232 y 235 a 239** (teoría cromosómica, Morgan e
+interacciones entre alelos): qué es la reproducción
 sexual, la meiosis y la fecundación, el cigoto, las dotaciones cromosómicas, los
 números de cromosomas por especie, el entrecruzamiento, las fases de la meiosis,
 las diferencias entre mitosis y meiosis, el cariotipo y el número cromosómico
@@ -55,7 +56,11 @@ oro", la controversia sobre los genes en los cromosomas y la prioridad del artí
 de Sutton) y el trabajo de Morgan: la mosca *Drosophila melanogaster* y sus
 ventajas, sus cuatro pares de cromosomas (2n=8), la mosca mutante de ojos blancos y
 las características ligadas al sexo, los cruces recíprocos de las figuras 11-28 y
-11-29, y Müller con los mutágenos y el ligamiento entre genes.
+11-29, y Müller con los mutágenos y el ligamiento entre genes. De las páginas
+237-239 se cubren, además, las interacciones entre alelos: la dominancia incompleta
+(el *Antirrhinum* rosado de Bateson y Punnett, fig. 11-30), la codominancia con los
+grupos sanguíneos (los tres alelos I^A, I^B e i; los genotipos AB e 0; los
+antígenos) y los alelos múltiples (el pelaje del conejo, fig. 11-31).
 
 Las páginas 217 y 219 son íntegramente figuras (11-6, 11-10 y 11-11), y la 222
 trae la biografía de Mendel de la que sí salieron reactivos. De las figuras 11-17,
@@ -68,14 +73,16 @@ que el chat anterior había saltado entre la 227 y la 228, ya cubierto.
 veces (pp. 222, 229 y 230). Sí se escribieron reactivos con ese término (80 y 83).
 
 **Pendiente:** del capítulo 11, intercalado entre lo ya cubierto de la 231 a la
-238, falta: el Ensayo 11-3 (p. 231, "¿Qué estudiaba Mendel en el jardín de la
+239, falta: el Ensayo 11-3 (p. 231, "¿Qué estudiaba Mendel en el jardín de la
 abadía?"), las mutaciones de De Vries y la planta *Oenothera* (p. 233), el sexo
 biológico y sus categorías (cromosómico, hormonal, gonadal, genital) con los
 cromosomas sexuales X/Y y machos hetero/homogaméticos (pp. 233-235), el Ensayo 11-4
-(intersexualidad, pp. 235-236) y la dominancia incompleta y la codominancia
-(Bateson y *Antirrhinum*, pp. 237-238 en adelante). Falta también el recuadro
-social de la página 210 y los ensayos 11-1 y 11-2. De la materia de Biología siguen
-sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
+(intersexualidad, pp. 235-236), la herencia poligénica y la variación continua
+(fig. 11-32, pp. 239-240) y la interacción entre los genes y el ambiente
+(el ranúnculo de agua, los conejos himalayos, los gatos siameses, fig. 11-33,
+pp. 239-240) y lo que reste del capítulo desde la p. 240 en adelante. Falta también
+el recuadro social de la página 210 y los ensayos 11-1 y 11-2. De la materia de
+Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -2054,4 +2061,190 @@ Se dice que los genes que tienden a segregar en conjunto, porque están próximo
 
 ---
 
-**Reactivos en este archivo:** 121
+## Sub-lote 31 · La dominancia incompleta (*Antirrhinum*, fig. 11-30, pp. 237-238)
+
+### 122
+
+De acuerdo con el libro de Biología de Curtis, al cruzar plantas *Antirrhinum* homocigóticas de flores rojas (R¹R¹) con homocigóticas de flores blancas (R²R²), ¿cómo fue la generación F1?
+
+- A. Plantas heterocigóticas (R¹R²) de flores rosadas, un fenotipo intermedio al de ambos homocigotos
+- B. Plantas de flores rojas, iguales al progenitor de flores rojas
+- C. Plantas de flores blancas, iguales al progenitor de flores blancas
+- D. La mitad de las plantas de flores rojas y la otra mitad de flores blancas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 238
+**Subtema:** reproducción sexual · dominancia incompleta
+
+Bateson y Punnett cruzaron plantas del género *Antirrhinum* (conocida como conejito o boca de dragón). Una de las plantas progenitoras era homocigótica de flores rojas (R¹R¹) y la otra, homocigótica de flores blancas (R²R²). Encontraron que se producía una generación F1 de plantas heterocigóticas (R¹R²), pero de flores rosadas, un fenotipo intermedio al de ambos homocigotos.
+
+### 123
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se conoce el fenómeno por el cual el heterocigoto de *Antirrhinum* tiene flores rosadas, y a qué se debe en este caso?
+
+- A. Dominancia incompleta; es el resultado de una producción menor de pigmento rojo de los ejemplares heterocigóticos
+- B. Codominancia; es el resultado de la mezcla de dos antígenos
+- C. Herencia poligénica; es el resultado de la acción acumulativa de muchos genes
+- D. Ligamiento; es el resultado de que los genes están próximos en un mismo cromosoma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 238
+**Subtema:** reproducción sexual · dominancia incompleta
+
+El fenómeno se conoce como dominancia incompleta y, en este caso, es el resultado de una producción menor de pigmento rojo de los ejemplares heterocigóticos de la F1.
+
+### 124
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-30, en la dominancia incompleta del *Antirrhinum*, ¿qué ocurre con los alelos y con la flor del heterocigoto?
+
+- A. Ningún alelo es dominante y la flor del heterocigoto presenta un fenotipo intermedio entre los dos colores
+- B. El alelo rojo es dominante y la flor del heterocigoto es roja
+- C. El alelo blanco es dominante y la flor del heterocigoto es blanca
+- D. Ambos alelos son dominantes y la flor muestra los dos colores por separado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 238
+**Subtema:** reproducción sexual · dominancia incompleta
+
+En este caso, ningún alelo es dominante. La flor del heterocigoto presenta un fenotipo intermedio entre los dos colores.
+
+### 125
+
+De acuerdo con el libro de Biología de Curtis, cuando los heterocigotos de flores rosadas se autopolinizan y en la F2 vuelven a aparecer las flores rojas y blancas, ¿qué demuestra esto sobre los alelos?
+
+- A. Que los alelos se mantienen como unidades discretas e inalteradas
+- B. Que los alelos se fusionan de manera permanente en el heterocigoto
+- C. Que los alelos desaparecen al formarse el heterocigoto
+- D. Que los alelos mutan durante la autopolinización
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 238
+**Subtema:** reproducción sexual · dominancia incompleta
+
+Cuando estos individuos se autopolinizan, las características rojo y blanco para el color de las flores aparecen de nuevo en la progenie (F2), lo cual demuestra que los alelos se mantienen como unidades discretas e inalteradas.
+
+---
+
+## Sub-lote 32 · La codominancia y los grupos sanguíneos (pp. 238-239)
+
+### 126
+
+De acuerdo con el libro de Biología de Curtis, en la codominancia, ¿qué ocurre con los individuos heterocigóticos respecto de los alelos?
+
+- A. Expresan ambos alelos; es decir, los dos fenotipos homocigóticos simultáneamente
+- B. Expresan solamente el alelo dominante de los dos
+- C. No expresan ninguno de los dos alelos
+- D. Expresan un alelo nuevo, distinto del de ambos progenitores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 238
+**Subtema:** reproducción sexual · codominancia
+
+Los alelos se mantienen como unidades discretas e inalteradas y también pueden actuar en codominancia. En este caso, los individuos heterocigóticos presentan un fenotipo intermedio, expresan ambos alelos; es decir, los dos fenotipos homocigóticos simultáneamente.
+
+> Distingue **dominancia incompleta** de **codominancia**, el par que más se
+> confunde: en la incompleta el heterocigoto es una *mezcla* (el *Antirrhinum*
+> rosado, ningún alelo dominante); en la codominancia expresa *los dos fenotipos
+> homocigóticos a la vez* (el grupo AB tiene a la vez el antígeno A y el B). Aviso:
+> el propio libro redacta flojo la codominancia —le mete "presentan un fenotipo
+> intermedio"—, pero la marca que la separa es "expresan ambos alelos
+> simultáneamente". No se hizo reactivo que enfrente "intermedio" contra "no
+> intermedio", justo porque el libro usa esa palabra en las dos.
+
+### 127
+
+De acuerdo con el libro de Biología de Curtis, ¿por cuántos alelos está determinado el gen de los cuatro grupos sanguíneos principales (A, B, AB y 0), y cuáles son?
+
+- A. Por un gen que posee tres alelos: I^A, I^B e i
+- B. Por un gen que posee dos alelos: I^A e i
+- C. Por un gen que posee cuatro alelos: A, B, AB y 0
+- D. Por cuatro genes diferentes, uno para cada grupo sanguíneo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 239
+**Subtema:** reproducción sexual · codominancia
+
+Los cuatro grupos sanguíneos principales, A, B, AB y 0, están determinados por un gen que posee tres alelos: I^A, I^B e i.
+
+### 128
+
+De acuerdo con el libro de Biología de Curtis, ¿qué relación de dominancia hay entre los alelos I^A, I^B e i de los grupos sanguíneos?
+
+- A. I^A e I^B son codominantes, mientras que i es recesivo
+- B. i es codominante con I^A, mientras que I^B es recesivo
+- C. Los tres alelos son codominantes entre sí
+- D. I^A es dominante sobre I^B, y ambos sobre i
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 239
+**Subtema:** reproducción sexual · codominancia
+
+Los alelos I^A y I^B son codominantes, mientras que el i es recesivo.
+
+### 129
+
+De acuerdo con el libro de Biología de Curtis, ¿cuál es el genotipo de los individuos con grupo sanguíneo AB y cuál el de los del grupo 0?
+
+- A. El grupo AB siempre es I^AI^B y el grupo 0 siempre es ii
+- B. El grupo AB siempre es I^Ai y el grupo 0 siempre es I^Bi
+- C. El grupo AB siempre es ii y el grupo 0 siempre es I^AI^B
+- D. El grupo AB puede ser I^AI^A o I^BI^B y el grupo 0 es I^Ai
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 239
+**Subtema:** reproducción sexual · codominancia
+
+Los individuos con grupo sanguíneo AB siempre son genotípicamente I^AI^B. Por el contrario, los individuos con grupo sanguíneo 0 siempre son genotípicamente ii.
+
+### 130
+
+De acuerdo con el libro de Biología de Curtis, ¿qué caracteriza a los grupos sanguíneos A, B y AB en la superficie del glóbulo rojo, y qué ocurre con el grupo 0?
+
+- A. Tienen un antígeno, un polisacárido específico, en la superficie del glóbulo rojo; el grupo 0 no posee estos antígenos
+- B. No tienen ningún antígeno; solo el grupo 0 posee antígenos
+- C. Tienen un anticuerpo en el plasma; el grupo 0 tiene el doble
+- D. Tienen una proteína en el núcleo del glóbulo rojo; el grupo 0 también la tiene
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 239
+**Subtema:** reproducción sexual · codominancia
+
+Los grupos sanguíneos A, B y AB se caracterizan por tener un antígeno, un polisacárido específico, en la superficie del glóbulo rojo. El grupo 0 no posee estos antígenos.
+
+---
+
+## Sub-lote 33 · Los alelos múltiples (fig. 11-31, p. 239)
+
+### 131
+
+De acuerdo con el libro de Biología de Curtis, aunque un organismo diploide tiene solo dos alelos de un gen dado, ¿de dónde resultan los alelos múltiples que existen para ciertos genes en la población?
+
+- A. De mutaciones diferentes en un solo gen
+- B. De la combinación de genes situados en distintos cromosomas
+- C. De la fusión de dos genes vecinos en uno solo
+- D. De la acción del ambiente sobre el fenotipo del organismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 239
+**Subtema:** reproducción sexual · alelos múltiples
+
+Aunque cualquier organismo diploide tiene solo dos alelos de un gen dado, es frecuente que, para ciertos genes, existan más de dos variantes en la población. Estos alelos múltiples resultan de mutaciones diferentes en un solo gen.
+
+### 132
+
+De acuerdo con el libro de Biología de Curtis, en la serie de cuatro alelos que determina el color del pelaje en los conejos, ¿cómo es la relación de dominancia?
+
+- A. Cada alelo es dominante sobre los que vienen a continuación
+- B. Los cuatro alelos son codominantes entre sí
+- C. El alelo albino es dominante sobre todos los demás
+- D. Ningún alelo es dominante y el pelaje siempre es intermedio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 239
+**Subtema:** reproducción sexual · alelos múltiples
+
+El color del pelaje en los conejos está determinado por una serie de cuatro alelos. En esta serie, cada alelo es dominante sobre los que vienen a continuación, en el siguiente orden: C, c^ch, c^h, c.
+
+---
+
+**Reactivos en este archivo:** 132
