@@ -129,7 +129,7 @@ correcta se escribe siempre en A porque el importador baraja las opciones.
 
 ### 1
 
-De acuerdo con el libro de Biología de Curtis, ¿qué produce la reproducción sexual?
+De acuerdo con el libro de Biología, ¿qué produce la reproducción sexual?
 
 - A. Descendencia que tiene características genéticas de los dos progenitores
 - B. Descendencia genéticamente idéntica a un único progenitor
@@ -144,7 +144,7 @@ La inmensa mayoría de los organismos eucariontes, como las moscas, los erizos d
 
 ### 2
 
-De acuerdo con el libro de Biología de Curtis, ¿qué proceso involucra la formación de las células sexuales que requiere la reproducción sexual?
+De acuerdo con el libro de Biología, ¿qué proceso involucra la formación de las células sexuales que requiere la reproducción sexual?
 
 - A. La meiosis
 - B. La mitosis
@@ -159,7 +159,7 @@ La reproducción sexual requiere la formación de células sexuales, lo cual inv
 
 ### 3
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se llama la célula que se origina cuando las células sexuales se reúnen por el proceso de fecundación?
+De acuerdo con el libro de Biología, ¿cómo se llama la célula que se origina cuando las células sexuales se reúnen por el proceso de fecundación?
 
 - A. Célula huevo o cigoto
 - B. Gameto
@@ -174,7 +174,7 @@ Estas células se reúnen por el proceso de fecundación y dan origen a una cél
 
 ### 4
 
-De acuerdo con el libro de Biología de Curtis, ¿qué mecanismo es el responsable de la reproducción asexual de los organismos unicelulares eucariotas?
+De acuerdo con el libro de Biología, ¿qué mecanismo es el responsable de la reproducción asexual de los organismos unicelulares eucariotas?
 
 - A. La mitosis
 - B. La meiosis
@@ -193,7 +193,7 @@ Este mecanismo [la mitosis] es el responsable de la reproducción asexual de los
 
 ### 5
 
-De acuerdo con el libro de Biología de Curtis, ¿cuántos cromosomas tiene un ser humano en cada célula somática?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos cromosomas tiene un ser humano en cada célula somática?
 
 - A. 46
 - B. 38
@@ -208,7 +208,7 @@ Un mosquito tiene 6 cromosomas en cada célula somática (del cuerpo); el maíz,
 
 ### 6
 
-De acuerdo con el libro de Biología de Curtis, ¿cuántos cromosomas tiene un mosquito en cada célula somática?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos cromosomas tiene un mosquito en cada célula somática?
 
 - A. 6
 - B. 20
@@ -223,7 +223,7 @@ Un mosquito tiene 6 cromosomas en cada célula somática (del cuerpo); el maíz,
 
 ### 7
 
-De acuerdo con el libro de Biología de Curtis, ¿cuántos cromosomas tiene el maíz en cada célula somática?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos cromosomas tiene el maíz en cada célula somática?
 
 - A. 20
 - B. 6
@@ -238,7 +238,7 @@ Un mosquito tiene 6 cromosomas en cada célula somática (del cuerpo); el maíz,
 
 ### 8
 
-De acuerdo con el libro de Biología de Curtis, ¿qué tienen en común el ser humano y la papa respecto de su número de cromosomas?
+De acuerdo con el libro de Biología, ¿qué tienen en común el ser humano y la papa respecto de su número de cromosomas?
 
 - A. Ambos tienen 46 cromosomas
 - B. Ambos tienen 38 cromosomas
@@ -261,7 +261,7 @@ Un ser humano, 46; una papa, también 46.
 
 ### 9
 
-De acuerdo con el libro de Biología de Curtis, ¿por qué dos hechos se caracteriza la reproducción sexual?
+De acuerdo con el libro de Biología, ¿por qué dos hechos se caracteriza la reproducción sexual?
 
 - A. La meiosis y la unión de los gametos, o fecundación
 - B. La mitosis y la unión de los gametos
@@ -276,7 +276,7 @@ La reproducción sexual se caracteriza por dos hechos: la meiosis y la unión de
 
 ### 10
 
-De acuerdo con el libro de Biología de Curtis, ¿qué número de dotación cromosómica tienen las células resultantes de la meiosis?
+De acuerdo con el libro de Biología, ¿qué número de dotación cromosómica tienen las células resultantes de la meiosis?
 
 - A. Una sola dotación cromosómica, o sea, un número haploide (n)
 - B. Dos dotaciones cromosómicas, o sea, un número diploide (2n)
@@ -291,7 +291,7 @@ Las células resultantes de la meiosis tienen una sola dotación cromosómica, o
 
 ### 11
 
-De acuerdo con el libro de Biología de Curtis, ¿qué permite el entrecruzamiento?
+De acuerdo con el libro de Biología, ¿qué permite el entrecruzamiento?
 
 - A. La recombinación del material genético de los dos progenitores
 - B. La duplicación exacta del material genético
@@ -306,7 +306,7 @@ El entrecruzamiento es un mecanismo crucial que permite la recombinación del ma
 
 ### 12
 
-De acuerdo con el libro de Biología de Curtis, ¿en cuántas divisiones nucleares sucesivas consiste la meiosis?
+De acuerdo con el libro de Biología, ¿en cuántas divisiones nucleares sucesivas consiste la meiosis?
 
 - A. En dos divisiones nucleares sucesivas
 - B. En una sola división nuclear
@@ -325,7 +325,7 @@ Al igual que la mitosis, la meiosis es un proceso continuo en el que se pueden r
 
 ### 13
 
-De acuerdo con el libro de Biología de Curtis, durante la profase I de la meiosis, ¿qué ocurre con la cromatina?
+De acuerdo con el libro de Biología, durante la profase I de la meiosis, ¿qué ocurre con la cromatina?
 
 - A. Se condensa y los cromosomas se hacen visibles con el microscopio óptico
 - B. Se descondensa y desaparece del núcleo
@@ -340,7 +340,7 @@ Profase I: la cromatina se condensa y los cromosomas se hacen visibles con el mi
 
 ### 14
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se llaman los puntos de entrecruzamiento donde los cromosomas homólogos permanecen en íntima asociación hasta el fin de la profase?
+De acuerdo con el libro de Biología, ¿cómo se llaman los puntos de entrecruzamiento donde los cromosomas homólogos permanecen en íntima asociación hasta el fin de la profase?
 
 - A. Quiasmas
 - B. Cinetocoros
@@ -355,7 +355,7 @@ A medida que avanza la profase, los homólogos de cada par comienzan a separarse
 
 ### 15
 
-De acuerdo con el libro de Biología de Curtis, ¿qué distingue a la metafase I de la meiosis respecto de la metafase de la mitosis?
+De acuerdo con el libro de Biología, ¿qué distingue a la metafase I de la meiosis respecto de la metafase de la mitosis?
 
 - A. Los pares de homólogos se alinean en el plano ecuatorial, a diferencia de la mitosis, donde los cromosomas duplicados se disponen sin apareamiento de los homólogos
 - B. Los cromosomas se disponen en el plano ecuatorial sin apareamiento
@@ -370,7 +370,7 @@ Metafase I: los pares de homólogos se alinean en el plano ecuatorial, a diferen
 
 ### 16
 
-De acuerdo con el libro de Biología de Curtis, durante la anafase I de la meiosis, ¿qué ocurre con las dos cromátidas hermanas de cada homólogo?
+De acuerdo con el libro de Biología, durante la anafase I de la meiosis, ¿qué ocurre con las dos cromátidas hermanas de cada homólogo?
 
 - A. No se separan como ocurre en la mitosis, sino que permanecen juntas
 - B. Se separan una de otra, como en la mitosis
@@ -385,7 +385,7 @@ Anafase I: los homólogos, cada uno formado por dos cromátidas hermanas, se sep
 
 ### 17
 
-De acuerdo con el libro de Biología de Curtis, en la anafase II de la meiosis, ¿cómo puede llamarse cada cromátida cuando se separa y se mueve hacia uno de los polos?
+De acuerdo con el libro de Biología, en la anafase II de la meiosis, ¿cómo puede llamarse cada cromátida cuando se separa y se mueve hacia uno de los polos?
 
 - A. Cromosoma
 - B. Homólogo
@@ -404,7 +404,7 @@ Anafase II. Al igual que en la anafase de la mitosis, las cromátidas se separan
 
 ### 18
 
-De acuerdo con el libro de Biología de Curtis, ¿cuántas veces se divide cada núcleo diploide durante la meiosis y cuántos núcleos produce?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántas veces se divide cada núcleo diploide durante la meiosis y cuántos núcleos produce?
 
 - A. Se divide dos veces y produce cuatro núcleos
 - B. Se divide una vez y produce dos núcleos
@@ -419,7 +419,7 @@ Durante la meiosis, cada núcleo diploide se divide dos veces y produce cuatro n
 
 ### 19
 
-De acuerdo con el libro de Biología de Curtis, ¿de qué depende que uno de los gametos contenga un cromosoma procedente de uno u otro progenitor?
+De acuerdo con el libro de Biología, ¿de qué depende que uno de los gametos contenga un cromosoma procedente de uno u otro progenitor?
 
 - A. Exclusivamente del azar
 - B. Del número de quiasmas formados
@@ -438,7 +438,7 @@ El hecho de que uno de los gametos contenga un cromosoma procedente de uno u otr
 
 ### 20
 
-De acuerdo con el libro de Biología de Curtis, ¿en qué tipo de células puede ocurrir la mitosis y en cuáles la meiosis?
+De acuerdo con el libro de Biología, ¿en qué tipo de células puede ocurrir la mitosis y en cuáles la meiosis?
 
 - A. La mitosis en células haploides o diploides; la meiosis solo en células con número diploide o poliploide
 - B. La mitosis solo en células diploides; la meiosis en cualquier célula
@@ -453,7 +453,7 @@ La mitosis puede ocurrir en las células haploides o diploides, mientras que la 
 
 ### 21
 
-De acuerdo con el libro de Biología de Curtis, ¿cuántas veces se duplican los cromosomas antes de la primera división nuclear en la meiosis, y qué contiene cada núcleo hijo?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántas veces se duplican los cromosomas antes de la primera división nuclear en la meiosis, y qué contiene cada núcleo hijo?
 
 - A. Se duplican solo una vez, y cada núcleo hijo contiene la mitad del número de cromosomas del núcleo original
 - B. Se duplican dos veces, y cada núcleo hijo contiene el mismo número de cromosomas
@@ -468,7 +468,7 @@ Los cromosomas se duplican solo una vez antes de la primera división nuclear. P
 
 ### 22
 
-De acuerdo con el libro de Biología de Curtis, ¿qué ocurre con el número de cromosomas en la mitosis después de la duplicación de los cromosomas?
+De acuerdo con el libro de Biología, ¿qué ocurre con el número de cromosomas en la mitosis después de la duplicación de los cromosomas?
 
 - A. Se mantiene invariable, porque cada núcleo se divide solo una vez
 - B. Se reduce a la mitad, porque el núcleo se divide dos veces
@@ -483,7 +483,7 @@ En la mitosis, en cambio, después de la duplicación de los cromosomas cada nú
 
 ### 23
 
-De acuerdo con el libro de Biología de Curtis, ¿qué sucesos de la meiosis, que no se producen durante la mitosis, son la clave de la reducción del número cromosómico?
+De acuerdo con el libro de Biología, ¿qué sucesos de la meiosis, que no se producen durante la mitosis, son la clave de la reducción del número cromosómico?
 
 - A. El apareamiento de los homólogos en la profase I, su alineamiento en la metafase I y su separación en la anafase I
 - B. La separación de las cromátidas hermanas en la anafase
@@ -502,7 +502,7 @@ Durante la profase I de la meiosis se produce el apareamiento de los cromosomas 
 
 ### 24
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se denomina el ordenamiento sistematizado de los cromosomas?
+De acuerdo con el libro de Biología, ¿cómo se denomina el ordenamiento sistematizado de los cromosomas?
 
 - A. Cariotipo
 - B. Genotipo
@@ -517,7 +517,7 @@ El ordenamiento sistematizado de los cromosomas se denomina cariotipo.
 
 ### 25
 
-De acuerdo con el libro de Biología de Curtis, ¿cuál es el número haploide de cromosomas en la especie humana?
+De acuerdo con el libro de Biología, ¿cuál es el número haploide de cromosomas en la especie humana?
 
 - A. 23
 - B. 46
@@ -536,7 +536,7 @@ En la especie humana, el número diploide de cromosomas es, con mayor frecuencia
 
 ### 26
 
-De acuerdo con el libro de Biología de Curtis, ¿en qué se diferenciará luego cada una de las cuatro espermátides producidas?
+De acuerdo con el libro de Biología, ¿en qué se diferenciará luego cada una de las cuatro espermátides producidas?
 
 - A. En un espermatozoide
 - B. En un oocito primario
@@ -551,7 +551,7 @@ Cada una de las cuatro espermátides producidas luego se diferenciará en un esp
 
 ### 27
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se llaman las células diploides de la hembra que sufren la división meiótica?
+De acuerdo con el libro de Biología, ¿cómo se llaman las células diploides de la hembra que sufren la división meiótica?
 
 - A. Oocitos primarios
 - B. Espermatocitos secundarios
@@ -566,7 +566,7 @@ En la hembra, las células diploides que sufren la división meiótica se llaman
 
 ### 28
 
-De acuerdo con el libro de Biología de Curtis, ¿cuántos óvulos se forman de cada oocito primario y qué más se produce?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos óvulos se forman de cada oocito primario y qué más se produce?
 
 - A. Un solo óvulo, junto con dos o tres cuerpos polares
 - B. Cuatro óvulos, sin cuerpos polares
@@ -581,7 +581,7 @@ De cada oocito primario solo se forma un óvulo, junto con dos o tres cuerpos po
 
 ### 29
 
-De acuerdo con el libro de Biología de Curtis, ¿por qué el óvulo está bien provisto de ribosomas, mitocondrias, enzimas y nutrientes?
+De acuerdo con el libro de Biología, ¿por qué el óvulo está bien provisto de ribosomas, mitocondrias, enzimas y nutrientes?
 
 - A. Como resultado de la división desigual del citoplasma durante la citocinesis
 - B. Porque recibe el citoplasma de los cuatro núcleos por igual
@@ -600,7 +600,7 @@ Como resultado de esta división desigual del citoplasma, el óvulo está bien p
 
 ### 30
 
-De acuerdo con el libro de Biología de Curtis, ¿cuándo comienza y hasta cuándo queda detenida la primera división meiótica en la mujer?
+De acuerdo con el libro de Biología, ¿cuándo comienza y hasta cuándo queda detenida la primera división meiótica en la mujer?
 
 - A. Comienza durante el tercer mes de su desarrollo fetal y queda detenida en la profase I hasta la ovulación durante la pubertad
 - B. Comienza en la pubertad y queda detenida en la metafase I hasta la ovulación
@@ -615,7 +615,7 @@ La primera división meiótica comienza, en la mujer, durante el tercer mes de s
 
 ### 31
 
-De acuerdo con el libro de Biología de Curtis, ¿cuándo ocurre la segunda división meiótica que produce el óvulo?
+De acuerdo con el libro de Biología, ¿cuándo ocurre la segunda división meiótica que produce el óvulo?
 
 - A. No ocurre hasta que el espermatozoide fecundante haya penetrado en el oocito secundario
 - B. Ocurre inmediatamente después de la primera división meiótica
@@ -634,7 +634,7 @@ La segunda división meiótica, que produce el óvulo y un segundo corpúsculo p
 
 ### 32
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se llaman los cromosomas cuyos dos miembros del par portan el mismo tipo de información?
+De acuerdo con el libro de Biología, ¿cómo se llaman los cromosomas cuyos dos miembros del par portan el mismo tipo de información?
 
 - A. Autosomas
 - B. Cromosomas sexuales
@@ -649,7 +649,7 @@ En cada uno de los pares de cromosomas, excepto en uno, los dos miembros del par
 
 ### 33
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se denomina el cromosoma sexual que comparten ambos sexos?
+De acuerdo con el libro de Biología, ¿cómo se denomina el cromosoma sexual que comparten ambos sexos?
 
 - A. El cromosoma X
 - B. El cromosoma Y
@@ -664,7 +664,7 @@ El cromosoma que comparten ambos sexos se llama cromosoma X y el diferente se de
 
 ### 34
 
-De acuerdo con el libro de Biología de Curtis, ¿cuál es, con mayor frecuencia, el par de cromosomas sexuales de la hembra y del macho?
+De acuerdo con el libro de Biología, ¿cuál es, con mayor frecuencia, el par de cromosomas sexuales de la hembra y del macho?
 
 - A. En la hembra XX y en el macho XY
 - B. En la hembra XY y en el macho XX
@@ -679,7 +679,7 @@ El par de cromosomas sexuales de la hembra es con mayor frecuencia XX, mientras 
 
 ### 35
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo son entre sí los dos cromosomas sexuales en el hombre?
+De acuerdo con el libro de Biología, ¿cómo son entre sí los dos cromosomas sexuales en el hombre?
 
 - A. Diferentes: uno es igual al par sexual de la mujer y el otro es mucho más pequeño
 - B. Morfológicamente iguales, como en la mujer
@@ -698,7 +698,7 @@ En las mujeres, los dos cromosomas sexuales son morfológicamente iguales, pero 
 
 ### 36
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se denomina el fenómeno en el que los cromosomas homólogos o sus cromátidas no se separan del modo normal durante la meiosis o la mitosis?
+De acuerdo con el libro de Biología, ¿cómo se denomina el fenómeno en el que los cromosomas homólogos o sus cromátidas no se separan del modo normal durante la meiosis o la mitosis?
 
 - A. No disyunción de los cromosomas
 - B. Entrecruzamiento
@@ -713,7 +713,7 @@ En ciertas ocasiones, los cromosomas homólogos o sus cromátidas no se separan 
 
 ### 37
 
-De acuerdo con el libro de Biología de Curtis, ¿qué da como resultado la no disyunción?
+De acuerdo con el libro de Biología, ¿qué da como resultado la no disyunción?
 
 - A. Gametos con uno o más cromosomas faltantes o sobrantes
 - B. Gametos genéticamente idénticos al progenitor
@@ -728,7 +728,7 @@ En cualquier caso, la no disyunción da como resultado gametos con uno o más cr
 
 ### 38
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo son genéticamente los individuos producidos en forma asexual respecto de sus progenitores?
+De acuerdo con el libro de Biología, ¿cómo son genéticamente los individuos producidos en forma asexual respecto de sus progenitores?
 
 - A. Genéticamente idénticos, salvo que ocurra algún tipo de mutación
 - B. Con enorme potencial para la variabilidad genética
@@ -743,7 +743,7 @@ Debido al proceso de duplicación cromosómica que ocurre en la mitosis, los ind
 
 ### 39
 
-De acuerdo con el libro de Biología de Curtis, ¿cuántos procesos fundamentales funcionan como fuentes de variabilidad genética en las especies de reproducción sexual?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos procesos fundamentales funcionan como fuentes de variabilidad genética en las especies de reproducción sexual?
 
 - A. Tres
 - B. Dos
@@ -762,7 +762,7 @@ En las especies de reproducción sexual pueden reconocerse tres procesos fundame
 
 ### 40
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se llama la transferencia directa de ADN de una bacteria a otra?
+De acuerdo con el libro de Biología, ¿cómo se llama la transferencia directa de ADN de una bacteria a otra?
 
 - A. La conjugación
 - B. La transformación
@@ -777,7 +777,7 @@ La conjugación o transferencia directa de ADN de una bacteria a otra.
 
 ### 41
 
-De acuerdo con el libro de Biología de Curtis, ¿en qué consiste la transformación?
+De acuerdo con el libro de Biología, ¿en qué consiste la transformación?
 
 - A. En la captación directa de fragmentos de ADN del medio circundante por parte de una célula
 - B. En la transferencia directa de ADN de una bacteria a otra
@@ -792,7 +792,7 @@ La transformación o captación directa de fragmentos de ADN del medio circundan
 
 ### 42
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se llama la transferencia de material genético bacteriano empaquetado en partículas virales de una célula infectada a otra?
+De acuerdo con el libro de Biología, ¿cómo se llama la transferencia de material genético bacteriano empaquetado en partículas virales de una célula infectada a otra?
 
 - A. La transducción
 - B. La conjugación
@@ -807,7 +807,7 @@ La transducción o transferencia de material genético bacteriano empaquetado en
 
 ### 43
 
-De acuerdo con el libro de Biología de Curtis, ¿qué implican todos los mecanismos de intercambio de material genético entre distintas células, en contraste con la transferencia vertical?
+De acuerdo con el libro de Biología, ¿qué implican todos los mecanismos de intercambio de material genético entre distintas células, en contraste con la transferencia vertical?
 
 - A. Una transferencia horizontal de genes
 - B. Una transferencia vertical de genes
@@ -822,7 +822,7 @@ Todos estos mecanismos de intercambio de material genético entre distintas cél
 
 ### 44
 
-De acuerdo con el libro de Biología de Curtis, ¿cuándo se produce la transferencia vertical de genes?
+De acuerdo con el libro de Biología, ¿cuándo se produce la transferencia vertical de genes?
 
 - A. Cuando el material genético pasa de los progenitores a las células hijas durante la división celular
 - B. Cuando un fragmento de ADN foráneo ingresa en una célula
@@ -841,7 +841,7 @@ La transferencia vertical se produce cuando el material genético pasa de los pr
 
 ### 45
 
-De acuerdo con el libro de Biología de Curtis, ¿quién inició los experimentos que proporcionarían las primeras respuestas rigurosas a las preguntas sobre la herencia?
+De acuerdo con el libro de Biología, ¿quién inició los experimentos que proporcionarían las primeras respuestas rigurosas a las preguntas sobre la herencia?
 
 - A. Johann Gregor Mendel, un monje austríaco
 - B. William Bateson, un naturalista inglés
@@ -856,7 +856,7 @@ Entre los naturalistas que realizaron este tipo de prácticas se encontraba Joha
 
 ### 46
 
-De acuerdo con el libro de Biología de Curtis, ¿en qué universidad estudió Mendel matemática y otras ciencias durante dos años?
+De acuerdo con el libro de Biología, ¿en qué universidad estudió Mendel matemática y otras ciencias durante dos años?
 
 - A. En la Universidad de Viena
 - B. En la Universidad de Brünn
@@ -871,7 +871,7 @@ Durante dos años estudió matemática y otras ciencias en la Universidad de Vie
 
 ### 47
 
-De acuerdo con el libro de Biología de Curtis, ¿qué contribuyó a demostrar Mendel, aun antes de que se identificaran los cromosomas como estructuras que albergan la información hereditaria?
+De acuerdo con el libro de Biología, ¿qué contribuyó a demostrar Mendel, aun antes de que se identificaran los cromosomas como estructuras que albergan la información hereditaria?
 
 - A. Que las características heredadas se encuentran en unidades discretas que se redistribuyen en cada generación
 - B. Que las características heredadas se mezclan de manera continua entre los progenitores
@@ -890,7 +890,7 @@ Mendel contribuyó a demostrar que las características heredadas se encuentran 
 
 ### 48
 
-De acuerdo con el libro de Biología de Curtis, ¿qué planta eligió Mendel para llevar a cabo sus experimentos sobre la herencia?
+De acuerdo con el libro de Biología, ¿qué planta eligió Mendel para llevar a cabo sus experimentos sobre la herencia?
 
 - A. El guisante o arveja común, *Pisum sativum*
 - B. La *Chlamydomonas*
@@ -905,7 +905,7 @@ Para llevar a cabo sus experimentos sobre la herencia, Mendel eligió el guisant
 
 ### 49
 
-De acuerdo con el libro de Biología de Curtis, ¿qué ventajas tenían las plantas de guisante para los experimentos de Mendel?
+De acuerdo con el libro de Biología, ¿qué ventajas tenían las plantas de guisante para los experimentos de Mendel?
 
 - A. Se conseguían en el comercio, eran fáciles de cultivar y crecían con rapidez
 - B. Tenían un ciclo de vida largo y complejo
@@ -920,7 +920,7 @@ Las ventajas de estas plantas eran que se conseguían en el comercio, eran fáci
 
 ### 50
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se poliniza normalmente la flor del guisante, ya que sus estructuras reproductivas están encerradas por completo por pétalos?
+De acuerdo con el libro de Biología, ¿cómo se poliniza normalmente la flor del guisante, ya que sus estructuras reproductivas están encerradas por completo por pétalos?
 
 - A. Se autopoliniza: los anterozoides de una flor fecundan a los óvulos de la misma flor
 - B. Se poliniza de forma cruzada entre variedades diferentes
@@ -939,7 +939,7 @@ En consecuencia, la flor normalmente se autopoliniza; es decir, los anterozoides
 
 ### 51
 
-De acuerdo con el libro de Biología de Curtis, ¿con cuántas variedades diferentes de plantas de guisante comenzó Mendel su trabajo?
+De acuerdo con el libro de Biología, ¿con cuántas variedades diferentes de plantas de guisante comenzó Mendel su trabajo?
 
 - A. Con 32 variedades
 - B. Con 7 variedades
@@ -954,7 +954,7 @@ Mendel comenzó su trabajo con 32 variedades diferentes de plantas de guisante, 
 
 ### 52
 
-De acuerdo con el libro de Biología de Curtis, ¿cuántas características seleccionó Mendel para su estudio, cada una con dos variantes distintas?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántas características seleccionó Mendel para su estudio, cada una con dos variantes distintas?
 
 - A. Siete características
 - B. Dos características
@@ -969,7 +969,7 @@ Seleccionó siete características: cada una aparecía en dos variantes conspicu
 
 ### 53
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se denomina el cruzamiento artificial entre dos variedades de líneas genéticamente puras?
+De acuerdo con el libro de Biología, ¿cómo se denomina el cruzamiento artificial entre dos variedades de líneas genéticamente puras?
 
 - A. Hibridación
 - B. Autopolinización
@@ -984,7 +984,7 @@ Realizó cruzamientos artificiales entre dos variedades de líneas genéticament
 
 ### 54
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo denominó Mendel a la generación de líneas puras y a la descendencia híbrida de su cruzamiento?
+De acuerdo con el libro de Biología, ¿cómo denominó Mendel a la generación de líneas puras y a la descendencia híbrida de su cruzamiento?
 
 - A. Generación parental (P) a las líneas puras y generación filial 1 (F1) a la descendencia híbrida
 - B. Generación filial 1 (F1) a las líneas puras y generación parental (P) a la descendencia
@@ -999,7 +999,7 @@ A la generación de líneas puras, generación parental (P). A la descendencia h
 
 ### 55
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se obtiene la generación filial 2 (F2)?
+De acuerdo con el libro de Biología, ¿cómo se obtiene la generación filial 2 (F2)?
 
 - A. Dejando que las plantas de F1 se autopolinicen
 - B. Cruzando las plantas de F1 con la generación parental
@@ -1014,7 +1014,7 @@ Luego, dejaba que las plantas de F1 se autopolinizaran, lo cual daba como result
 
 ### 56
 
-De acuerdo con el libro de Biología de Curtis, ¿qué caracteriza a una línea pura respecto de una característica?
+De acuerdo con el libro de Biología, ¿qué caracteriza a una línea pura respecto de una característica?
 
 - A. Que a través de sucesivas autopolinizaciones esa característica no cambia de una generación a la siguiente
 - B. Que la característica se mezcla con la de otras variedades en cada generación
@@ -1033,7 +1033,7 @@ Se pueden obtener fácilmente líneas puras en relación con una determinada car
 
 ### 57
 
-De acuerdo con el libro de Biología de Curtis, al analizar la F1, ¿cuántas de las dos variantes alternativas mostraban los miembros de la progenie?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, al analizar la F1, ¿cuántas de las dos variantes alternativas mostraban los miembros de la progenie?
 
 - A. Solo una de las dos variantes alternativas
 - B. Las dos variantes por igual
@@ -1048,7 +1048,7 @@ Mendel encontró que, en todos los casos, al analizar la F1, todos los miembros 
 
 ### 58
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo llamó Mendel a las variantes que aparecían en la F1 y volvían a aparecer en la F2 en mayor proporción, como las semillas amarillas y las flores púrpura?
+De acuerdo con el libro de Biología, ¿cómo llamó Mendel a las variantes que aparecían en la F1 y volvían a aparecer en la F2 en mayor proporción, como las semillas amarillas y las flores púrpura?
 
 - A. Caracteres dominantes
 - B. Caracteres recesivos
@@ -1063,7 +1063,7 @@ A las variantes presentes en la generación P, que aparecían en la generación 
 
 ### 59
 
-De acuerdo con el libro de Biología de Curtis, ¿en qué relación aproximada aparecen las variantes dominantes y recesivas en la generación F2?
+De acuerdo con el libro de Biología, ¿en qué relación aproximada aparecen las variantes dominantes y recesivas en la generación F2?
 
 - A. En una relación aproximada de 3:1
 - B. En una relación aproximada de 1:1
@@ -1082,7 +1082,7 @@ Podemos comprobar que las variantes dominantes y recesivas aparecen en la segund
 
 ### 60
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se conoce hoy la primera ley de Mendel?
+De acuerdo con el libro de Biología, ¿cómo se conoce hoy la primera ley de Mendel?
 
 - A. Como el principio de segregación
 - B. Como el principio de la distribución independiente
@@ -1097,7 +1097,7 @@ Esto condujo a formular lo que hoy se conoce como primera ley de Mendel o princi
 
 ### 61
 
-De acuerdo con el libro de Biología de Curtis, ¿qué establece la primera ley de Mendel o principio de segregación?
+De acuerdo con el libro de Biología, ¿qué establece la primera ley de Mendel o principio de segregación?
 
 - A. Cada individuo lleva un par de factores hereditarios para cada característica, y los miembros del par se separan o segregan durante la formación de los gametos
 - B. Los factores hereditarios de distintas características se distribuyen de manera independiente
@@ -1112,7 +1112,7 @@ Cada individuo lleva un par de factores hereditarios para cada característica. 
 
 ### 62
 
-De acuerdo con el libro de Biología de Curtis, según la explicación de Mendel, ¿cómo están los factores en las plantas F1?
+De acuerdo con el libro de Biología, según la explicación de Mendel, ¿cómo están los factores en las plantas F1?
 
 - A. En pares: un miembro de cada par heredado de un progenitor y el otro del otro progenitor
 - B. En unidades individuales heredadas de un solo progenitor
@@ -1131,7 +1131,7 @@ Explicó que estos factores están en las plantas F1 en pares: un miembro de cad
 
 ### 63
 
-De acuerdo con el libro de Biología de Curtis, ¿qué constituye el genotipo de un individuo?
+De acuerdo con el libro de Biología, ¿qué constituye el genotipo de un individuo?
 
 - A. Su composición genética respecto de una o varias características
 - B. Su apariencia externa y características observables
@@ -1146,7 +1146,7 @@ La composición genética de un individuo respecto de una o a varias caracterís
 
 ### 64
 
-De acuerdo con el libro de Biología de Curtis, ¿qué constituye el fenotipo de un organismo?
+De acuerdo con el libro de Biología, ¿qué constituye el fenotipo de un organismo?
 
 - A. Su apariencia externa y otras características observables o mensurables
 - B. Su composición genética respecto de una característica
@@ -1165,7 +1165,7 @@ La apariencia externa y otras características observables o mensurables de un o
 
 ### 65
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se conocen las diferentes variantes o formas alternativas que puede presentar un gen que codifica una característica dada?
+De acuerdo con el libro de Biología, ¿cómo se conocen las diferentes variantes o formas alternativas que puede presentar un gen que codifica una característica dada?
 
 - A. Alelos
 - B. Genotipos
@@ -1180,7 +1180,7 @@ Cualquier gen que codifica una característica dada, como el color de las semill
 
 ### 66
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se representan por medio de letras los alelos dominantes y los recesivos?
+De acuerdo con el libro de Biología, ¿cómo se representan por medio de letras los alelos dominantes y los recesivos?
 
 - A. Mayúsculas para los alelos dominantes y minúsculas para los recesivos
 - B. Minúsculas para los alelos dominantes y mayúsculas para los recesivos
@@ -1199,7 +1199,7 @@ Estos pueden representarse por medio de letras: mayúsculas para los alelos domi
 
 ### 67
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo es un organismo cuyos dos alelos son iguales, por ejemplo AA o aa?
+De acuerdo con el libro de Biología, ¿cómo es un organismo cuyos dos alelos son iguales, por ejemplo AA o aa?
 
 - A. Homocigótico para esa característica
 - B. Heterocigótico para esa característica
@@ -1214,7 +1214,7 @@ Si ambos alelos son iguales (p. ej., AA o aa), el organismo es homocigótico par
 
 ### 68
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo es un organismo cuyos dos alelos son diferentes, por ejemplo Aa?
+De acuerdo con el libro de Biología, ¿cómo es un organismo cuyos dos alelos son diferentes, por ejemplo Aa?
 
 - A. Heterocigótico para esa característica
 - B. Homocigótico para esa característica
@@ -1229,7 +1229,7 @@ Si ambos alelos son diferentes (p. ej., Aa), el organismo es heterocigótico par
 
 ### 69
 
-De acuerdo con el libro de Biología de Curtis, ¿cuándo se manifiesta fenotípicamente un alelo dominante?
+De acuerdo con el libro de Biología, ¿cuándo se manifiesta fenotípicamente un alelo dominante?
 
 - A. Tanto en homocigosis como en heterocigosis
 - B. Solo en homocigosis
@@ -1244,7 +1244,7 @@ Un alelo dominante se manifiesta fenotípicamente tanto en homocigosis como en h
 
 ### 70
 
-De acuerdo con el libro de Biología de Curtis, ¿cuándo se manifiesta un alelo recesivo?
+De acuerdo con el libro de Biología, ¿cuándo se manifiesta un alelo recesivo?
 
 - A. Solo en homocigosis
 - B. Tanto en homocigosis como en heterocigosis
@@ -1259,7 +1259,7 @@ Un alelo recesivo solo se manifiesta en homocigosis.
 
 ### 71
 
-De acuerdo con el libro de Biología de Curtis, ¿cuántos alelos de cada gen recibe cada gameto cuando se forman durante la meiosis?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos alelos de cada gen recibe cada gameto cuando se forman durante la meiosis?
 
 - A. Solamente un alelo de cada gen
 - B. Los dos alelos de cada gen
@@ -1278,7 +1278,7 @@ Cuando se forman los gametos durante la meiosis cada uno recibe solamente un ale
 
 ### 72
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se conoce la tabla de doble entrada que es una de las formas más simples de predecir los tipos de descendencia de un cruzamiento?
+De acuerdo con el libro de Biología, ¿cómo se conoce la tabla de doble entrada que es una de las formas más simples de predecir los tipos de descendencia de un cruzamiento?
 
 - A. Tablero de Punnett
 - B. Cuadro de Mendel
@@ -1297,7 +1297,7 @@ Una de las formas más simples de predecir los tipos de descendencia que serán 
 
 ### 73
 
-De acuerdo con el libro de Biología de Curtis, en su segunda serie de experimentos, ¿cuántas características analizó Mendel simultáneamente?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, en su segunda serie de experimentos, ¿cuántas características analizó Mendel simultáneamente?
 
 - A. Dos características simultáneamente
 - B. Una sola característica a través de dos generaciones
@@ -1312,7 +1312,7 @@ En su primer conjunto de experimentos, Mendel realizó el seguimiento de un solo
 
 ### 74
 
-De acuerdo con el libro de Biología de Curtis, al cruzar una planta de semillas redondas y amarillas (alelos dominantes) con otra de semillas rugosas y verdes (alelos recesivos), ¿cómo fueron todas las semillas producidas en la F1?
+De acuerdo con el libro de Biología, al cruzar una planta de semillas redondas y amarillas (alelos dominantes) con otra de semillas rugosas y verdes (alelos recesivos), ¿cómo fueron todas las semillas producidas en la F1?
 
 - A. Redondas y amarillas
 - B. Rugosas y verdes
@@ -1327,7 +1327,7 @@ Cruzó una planta que producía semillas redondas y amarillas (ambos alelos domi
 
 ### 75
 
-De acuerdo con el libro de Biología de Curtis, cuando las plantas F1 del cruzamiento dihíbrido se autopolinizaron, ¿qué apareció en la F2 además de las variantes de los progenitores?
+De acuerdo con el libro de Biología, cuando las plantas F1 del cruzamiento dihíbrido se autopolinizaron, ¿qué apareció en la F2 además de las variantes de los progenitores?
 
 - A. Nuevas combinaciones: semillas rugosas y amarillas, y redondas y verdes
 - B. Solo semillas redondas y amarillas
@@ -1342,7 +1342,7 @@ Todas las semillas restantes fueron distintas de los progenitores: 101 rugosas y
 
 ### 76
 
-De acuerdo con el libro de Biología de Curtis, ¿qué ocurre con la relación 3:1 de cada característica cuando en el cruzamiento dihíbrido se consideran el color y la forma de la semilla de manera independiente?
+De acuerdo con el libro de Biología, ¿qué ocurre con la relación 3:1 de cada característica cuando en el cruzamiento dihíbrido se consideran el color y la forma de la semilla de manera independiente?
 
 - A. Se mantiene: cada característica por separado sigue apareciendo en una relación 3 a 1
 - B. Desaparece por completo y se vuelve 1:1
@@ -1361,7 +1361,7 @@ Si al analizar estos nuevos experimentos, se consideran el color y la forma de l
 
 ### 77
 
-De acuerdo con el libro de Biología de Curtis, ¿qué establece el principio de distribución independiente sobre los pares de alelos durante la formación de los gametos?
+De acuerdo con el libro de Biología, ¿qué establece el principio de distribución independiente sobre los pares de alelos durante la formación de los gametos?
 
 - A. Cada par de alelos segrega independientemente de los otros pares
 - B. Los pares de alelos permanecen unidos y se heredan en bloque
@@ -1376,7 +1376,7 @@ Durante la formación de los gametos, cada par de alelos segrega independienteme
 
 ### 78
 
-De acuerdo con el libro de Biología de Curtis, en un cruzamiento que involucra dos genes que se distribuyen en forma independiente, cada uno con un alelo dominante y uno recesivo, ¿en qué relación estarán en promedio los fenotipos de la progenie?
+De acuerdo con el libro de Biología, en un cruzamiento que involucra dos genes que se distribuyen en forma independiente, cada uno con un alelo dominante y uno recesivo, ¿en qué relación estarán en promedio los fenotipos de la progenie?
 
 - A. En la relación 9:3:3:1
 - B. En la relación 3:1
@@ -1395,7 +1395,7 @@ En un cruzamiento que involucra a dos genes que se distribuyen en forma independ
 
 ### 79
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo será siempre la progenie F1 de un cruzamiento entre un progenitor homocigoto dominante para una característica y homocigoto recesivo para la otra (rrAA × RRaa)?
+De acuerdo con el libro de Biología, ¿cómo será siempre la progenie F1 de un cruzamiento entre un progenitor homocigoto dominante para una característica y homocigoto recesivo para la otra (rrAA × RRaa)?
 
 - A. Heterocigótica para ambas características
 - B. Homocigótica dominante para ambas
@@ -1414,7 +1414,7 @@ La progenie F1 de cada uno de estos cruzamientos siempre será heterocigótica p
 
 ### 80
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo llamó Mendel a las unidades hereditarias que hoy conocemos como genes?
+De acuerdo con el libro de Biología, ¿cómo llamó Mendel a las unidades hereditarias que hoy conocemos como genes?
 
 - A. *Elemente*
 - B. Alelos
@@ -1433,7 +1433,7 @@ Sutton supuso que los *elemente* descritos por Mendel –que hoy conocemos como 
 
 ### 81
 
-De acuerdo con el libro de Biología de Curtis, ¿en qué año se encontraba Sutton estudiando la formación de las células sexuales en machos de saltamontes?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿en qué año se encontraba Sutton estudiando la formación de las células sexuales en machos de saltamontes?
 
 - A. En 1902
 - B. En 1822
@@ -1448,7 +1448,7 @@ Iniciado el siglo, en 1902, Sutton se encontraba estudiando la formación de las
 
 ### 82
 
-De acuerdo con el libro de Biología de Curtis, ¿durante qué fase se hace evidente la existencia de cromosomas homólogos, cuando estos se aparean?
+De acuerdo con el libro de Biología, ¿durante qué fase se hace evidente la existencia de cromosomas homólogos, cuando estos se aparean?
 
 - A. Durante la primera fase de la meiosis
 - B. Durante la fecundación
@@ -1463,7 +1463,7 @@ La existencia de cromosomas homólogos se hacía evidente durante el apareamient
 
 ### 83
 
-De acuerdo con el libro de Biología de Curtis, según el razonamiento de Sutton, ¿dónde están los genes y qué porta cada cromosoma homólogo?
+De acuerdo con el libro de Biología, según el razonamiento de Sutton, ¿dónde están los genes y qué porta cada cromosoma homólogo?
 
 - A. Los genes están en los cromosomas, y cada cromosoma homólogo porta uno de los alelos de cada gen
 - B. Los genes están en el citoplasma, y cada cromosoma porta todos los alelos
@@ -1478,7 +1478,7 @@ Sutton supuso que los *elemente* descritos por Mendel están en los cromosomas, 
 
 ### 84
 
-De acuerdo con el libro de Biología de Curtis, ¿por qué proceso podía explicarse el principio mendeliano de segregación de los alelos?
+De acuerdo con el libro de Biología, ¿por qué proceso podía explicarse el principio mendeliano de segregación de los alelos?
 
 - A. Por la segregación de los cromosomas homólogos durante la meiosis
 - B. Por la fusión de los núcleos durante la fecundación
@@ -1493,7 +1493,7 @@ El principio mendeliano de segregación de los alelos podía explicarse por la s
 
 ### 85
 
-De acuerdo con el libro de Biología de Curtis, ¿bajo qué condición pueden distribuirse en forma independiente los alelos que corresponden a genes diferentes, según el segundo principio de Mendel?
+De acuerdo con el libro de Biología, ¿bajo qué condición pueden distribuirse en forma independiente los alelos que corresponden a genes diferentes, según el segundo principio de Mendel?
 
 - A. Solo si están situados en diferentes pares de cromosomas, o si están alejados en el mismo cromosoma y pueden intercambiarse
 - B. Solo si están en el mismo par de cromosomas y muy próximos entre sí
@@ -1512,7 +1512,7 @@ Este principio establece que los alelos que corresponden a genes diferentes se d
 
 ### 86
 
-De acuerdo con el libro de Biología de Curtis, ¿qué se puede conocer al realizar un cruzamiento de prueba?
+De acuerdo con el libro de Biología, ¿qué se puede conocer al realizar un cruzamiento de prueba?
 
 - A. El genotipo del progenitor del fenotipo dominante
 - B. El fenotipo del progenitor homocigótico recesivo
@@ -1527,7 +1527,7 @@ Cuando se realiza un experimento de este tipo, conocido como cruzamiento de prue
 
 ### 87
 
-De acuerdo con el libro de Biología de Curtis, ¿entre qué dos individuos se realiza un cruzamiento de prueba?
+De acuerdo con el libro de Biología, ¿entre qué dos individuos se realiza un cruzamiento de prueba?
 
 - A. Entre uno de fenotipo dominante y genotipo desconocido y otro que se sabe que es homocigótico para el alelo recesivo
 - B. Entre dos individuos de fenotipo dominante y genotipo desconocido
@@ -1542,7 +1542,7 @@ Esto no es más que un cruzamiento experimental entre un individuo que tiene el 
 
 ### 88
 
-De acuerdo con el libro de Biología de Curtis, ¿qué hipótesis se pone a prueba al cruzar plantas F1 de flores púrpura con plantas de flores blancas?
+De acuerdo con el libro de Biología, ¿qué hipótesis se pone a prueba al cruzar plantas F1 de flores púrpura con plantas de flores blancas?
 
 - A. Que los alelos aparecen en pares y que ambos alelos de un par segregan durante la formación de los gametos
 - B. Que los alelos de genes diferentes se distribuyen en forma independiente
@@ -1557,7 +1557,7 @@ Para probar la hipótesis de que los alelos aparecen en pares y de que ambos ale
 
 ### 89
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-19, ¿por qué se sabe con certeza que una planta de guisante de flores blancas es homocigótica para el alelo recesivo (bb)?
+De acuerdo con el libro de Biología, según la figura 11-19, ¿por qué se sabe con certeza que una planta de guisante de flores blancas es homocigótica para el alelo recesivo (bb)?
 
 - A. Porque si tuviera un alelo B se expresaría como púrpura
 - B. Porque las flores blancas siempre son heterocigóticas
@@ -1572,7 +1572,7 @@ Si una planta de guisante tiene flores blancas, sabemos con certeza que es homoc
 
 ### 90
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-19, ¿qué genotipos puede tener una planta de guisante con flor púrpura?
+De acuerdo con el libro de Biología, según la figura 11-19, ¿qué genotipos puede tener una planta de guisante con flor púrpura?
 
 - A. El genotipo Bb o BB
 - B. Solamente el genotipo BB
@@ -1587,7 +1587,7 @@ Pero una planta de guisante con flor púrpura puede tener el genotipo Bb o BB.
 
 ### 91
 
-De acuerdo con el libro de Biología de Curtis, en un cruzamiento de prueba, si se obtienen plantas con dos fenotipos diferentes, ¿cómo era el progenitor de fenotipo dominante?
+De acuerdo con el libro de Biología, en un cruzamiento de prueba, si se obtienen plantas con dos fenotipos diferentes, ¿cómo era el progenitor de fenotipo dominante?
 
 - A. Era heterocigótico
 - B. Era homocigótico dominante
@@ -1602,7 +1602,7 @@ Si se obtienen plantas con dos fenotipos diferentes, entonces, el progenitor de 
 
 ### 92
 
-De acuerdo con el libro de Biología de Curtis, en un cruzamiento de prueba, si en la descendencia aparece un solo fenotipo, ¿cómo era el progenitor de fenotipo dominante?
+De acuerdo con el libro de Biología, en un cruzamiento de prueba, si en la descendencia aparece un solo fenotipo, ¿cómo era el progenitor de fenotipo dominante?
 
 - A. Era homocigótico para la característica en estudio
 - B. Era heterocigótico para la característica en estudio
@@ -1625,7 +1625,7 @@ Si aparece un solo fenotipo, entonces, el progenitor era homocigótico para la c
 
 ### 93
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-17, ¿qué gametos produce una planta homocigótica para flores púrpura (BB)?
+De acuerdo con el libro de Biología, según la figura 11-17, ¿qué gametos produce una planta homocigótica para flores púrpura (BB)?
 
 - A. Solo óvulos o granos de polen con el alelo para flor púrpura (B)
 - B. La mitad de los gametos con el alelo B y la otra mitad con el alelo b
@@ -1640,7 +1640,7 @@ Una planta de guisante homocigótica para flores púrpura (BB) solo produce óvu
 
 ### 94
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-17, ¿qué proporción de gametos con cada alelo produce una planta heterocigótica (Bb)?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, según la figura 11-17, ¿qué proporción de gametos con cada alelo produce una planta heterocigótica (Bb)?
 
 - A. La mitad de los gametos con el alelo B y la otra mitad con el alelo b
 - B. Todos los gametos con el alelo B
@@ -1655,7 +1655,7 @@ Esta planta produce la mitad de los gametos con el alelo B y la otra mitad con e
 
 ### 95
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-18, en el cruzamiento entre una planta BB y otra bb, ¿cuál es el fenotipo y el genotipo de la generación F1?
+De acuerdo con el libro de Biología, según la figura 11-18, en el cruzamiento entre una planta BB y otra bb, ¿cuál es el fenotipo y el genotipo de la generación F1?
 
 - A. Fenotipo púrpura, pero genotipo Bb
 - B. Fenotipo blanco y genotipo bb
@@ -1670,7 +1670,7 @@ El fenotipo de la progenie –la generación F1– es púrpura, pero su genotipo
 
 ### 96
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-18, ¿cuántos tipos de gametos produce la F1 heterocigótica y en qué proporción?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, según la figura 11-18, ¿cuántos tipos de gametos produce la F1 heterocigótica y en qué proporción?
 
 - A. Cuatro tipos —granos de polen B, óvulos B, granos de polen b y óvulos b— en proporciones iguales
 - B. Dos tipos —óvulos B y granos de polen b— en proporciones iguales
@@ -1685,7 +1685,7 @@ La F1 heterocigótica produce cuatro tipos de gametos: granos de polen B, óvulo
 
 ### 97
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-18, cuando la F1 heterocigótica (Bb) se autopoliniza, ¿cuál es la relación genotípica de la descendencia?
+De acuerdo con el libro de Biología, según la figura 11-18, cuando la F1 heterocigótica (Bb) se autopoliniza, ¿cuál es la relación genotípica de la descendencia?
 
 - A. La relación 1:2:1 (1/4 BB, 2/4 Bb y 1/4 bb)
 - B. La relación 3:1 (tres dominantes a un recesivo)
@@ -1700,7 +1700,7 @@ Los óvulos y los granos de polen B y b se combinan al azar y forman, en promedi
 
 ### 98
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-18, ¿qué relación fenotípica da cuenta la relación genotípica 1:2:1?
+De acuerdo con el libro de Biología, según la figura 11-18, ¿qué relación fenotípica da cuenta la relación genotípica 1:2:1?
 
 - A. Tres dominantes (púrpura) a un recesivo (blanco), que se expresa como 3:1
 - B. Dos dominantes a dos recesivos, que se expresa como 2:2
@@ -1724,7 +1724,7 @@ Esta relación genotípica da cuenta de la relación fenotípica: tres dominante
 
 ### 99
 
-De acuerdo con el libro de Biología de Curtis, a comienzos del siglo, al iniciar la "edad de oro", ¿qué suscitó la idea de que los genes se encontraban en los cromosomas?
+De acuerdo con el libro de Biología, a comienzos del siglo, al iniciar la "edad de oro", ¿qué suscitó la idea de que los genes se encontraban en los cromosomas?
 
 - A. Ásperas controversias
 - B. Una aceptación inmediata y unánime
@@ -1739,7 +1739,7 @@ A comienzos del siglo, al iniciar la "edad de oro", la idea de que los genes se 
 
 ### 100
 
-De acuerdo con el libro de Biología de Curtis, en esa etapa, aunque el trabajo de Sutton y de otros citólogos era conocido, ¿cómo se lo consideraba para los estudios sobre la herencia?
+De acuerdo con el libro de Biología, en esa etapa, aunque el trabajo de Sutton y de otros citólogos era conocido, ¿cómo se lo consideraba para los estudios sobre la herencia?
 
 - A. Se lo consideraba irrelevante para los estudios sobre la herencia
 - B. Se lo consideraba la base indiscutible de la genética
@@ -1754,7 +1754,7 @@ En esta etapa de la investigación genética, el gen no se asumía aún como una
 
 ### 101
 
-De acuerdo con el libro de Biología de Curtis, casi en la misma época en que Sutton realizaba sus investigaciones, ¿qué correlación reconocieron otros biólogos?
+De acuerdo con el libro de Biología, casi en la misma época en que Sutton realizaba sus investigaciones, ¿qué correlación reconocieron otros biólogos?
 
 - A. La correlación entre el comportamiento de los *elemente* de Mendel y el movimiento de los cromosomas
 - B. La correlación entre el tamaño de los cromosomas y el número de genes
@@ -1769,7 +1769,7 @@ Casi en la misma época en que Sutton realizaba sus investigaciones, otros biól
 
 ### 102
 
-De acuerdo con el libro de Biología de Curtis, en comparación con los otros biólogos que reconocieron esa misma correlación, ¿qué ocurrió con el artículo del joven Sutton?
+De acuerdo con el libro de Biología, en comparación con los otros biólogos que reconocieron esa misma correlación, ¿qué ocurrió con el artículo del joven Sutton?
 
 - A. Se publicó primero y su presentación fue la más convincente
 - B. Se publicó último y pasó inadvertido
@@ -1788,7 +1788,7 @@ El artículo del joven Sutton, sin embargo, se publicó primero y su presentaci�
 
 ### 103
 
-De acuerdo con el libro de Biología de Curtis, ¿en qué año y en qué universidad fundó Thomas H. Morgan el que sería el laboratorio de genética más importante de las décadas siguientes?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿en qué año y en qué universidad fundó Thomas H. Morgan el que sería el laboratorio de genética más importante de las décadas siguientes?
 
 - A. En 1909, en la Universidad de Columbia
 - B. En 1902, en la Universidad de Columbia
@@ -1803,7 +1803,7 @@ En 1909, el biólogo estadounidense Thomas H. Morgan (1866-1945) fundó en la Un
 
 ### 104
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se denominó el período de la investigación genética que duró hasta la Segunda Guerra Mundial?
+De acuerdo con el libro de Biología, ¿cómo se denominó el período de la investigación genética que duró hasta la Segunda Guerra Mundial?
 
 - A. La edad de oro de la genética
 - B. La revolución mendeliana
@@ -1818,7 +1818,7 @@ Este período de la investigación genética, que duró hasta la Segunda Guerra 
 
 ### 105
 
-De acuerdo con el libro de Biología de Curtis, ¿qué organismo eligió Morgan como su organismo experimental?
+De acuerdo con el libro de Biología, ¿qué organismo eligió Morgan como su organismo experimental?
 
 - A. La mosca del vinagre *Drosophila melanogaster*, también conocida como la mosca de la fruta
 - B. La planta de guisante *Pisum sativum*
@@ -1833,7 +1833,7 @@ Con una notable combinación entre intuición y suerte, Morgan eligió a la mosc
 
 ### 106
 
-De acuerdo con el libro de Biología de Curtis, entre las ventajas de la mosca de la fruta como material de investigación, ¿cuánto mide de largo y cada cuánto puede producir una nueva generación?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, entre las ventajas de la mosca de la fruta como material de investigación, ¿cuánto mide de largo y cada cuánto puede producir una nueva generación?
 
 - A. Mide solo 3 milímetros de largo y puede producir una nueva generación cada dos semanas
 - B. Mide solo 3 centímetros de largo y puede producir una nueva generación cada dos meses
@@ -1848,7 +1848,7 @@ Entre sus ventajas se encuentran las siguientes: es fácil de criar y de mantene
 
 ### 107
 
-De acuerdo con el libro de Biología de Curtis, ¿qué principio de enorme importancia ayudó a consolidar *D. melanogaster*?
+De acuerdo con el libro de Biología, ¿qué principio de enorme importancia ayudó a consolidar *D. melanogaster*?
 
 - A. Que los *elemente* de Mendel –los genes– están ubicados en los cromosomas
 - B. Que los genes están ubicados en el citoplasma de la célula
@@ -1867,7 +1867,7 @@ De acuerdo con el libro de Biología de Curtis, ¿qué principio de enorme impor
 
 ### 108
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se reparten los cuatro pares de cromosomas de *Drosophila melanogaster*?
+De acuerdo con el libro de Biología, ¿cómo se reparten los cuatro pares de cromosomas de *Drosophila melanogaster*?
 
 - A. Tres pares son autosomas y el cuarto es el par sexual (XX en las hembras y XY en los machos)
 - B. Los cuatro pares son autosomas
@@ -1882,7 +1882,7 @@ Una de las ventajas del uso de *Drosophila melanogaster* para estudios genético
 
 ### 109
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-26, ¿cuántos cromosomas en total (2n) tiene la mosca de la fruta?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, según la figura 11-26, ¿cuántos cromosomas en total (2n) tiene la mosca de la fruta?
 
 - A. Ocho cromosomas (2n = 8)
 - B. Catorce cromosomas (2n = 14)
@@ -1901,7 +1901,7 @@ Estas pequeñas moscas tienen solo cuatro pares de cromosomas (2n = 8), un hecho
 
 ### 110
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-27, ¿qué descubrió Morgan cuando buscaba diferencias genéticas entre las moscas *Drosophila*?
+De acuerdo con el libro de Biología, según la figura 11-27, ¿qué descubrió Morgan cuando buscaba diferencias genéticas entre las moscas *Drosophila*?
 
 - A. Un solo individuo de ojos blancos en su población de miles de moscas
 - B. Cientos de individuos de ojos blancos en su población
@@ -1916,7 +1916,7 @@ Cuando buscaba diferencias genéticas entre las moscas *Drosophila*, Morgan desc
 
 ### 111
 
-De acuerdo con el libro de Biología de Curtis, cuando aparearon al macho de ojos blancos con una hembra de ojos rojos, ¿cómo fue la progenie F1 y qué sugería sobre el alelo para ojos blancos?
+De acuerdo con el libro de Biología, cuando aparearon al macho de ojos blancos con una hembra de ojos rojos, ¿cómo fue la progenie F1 y qué sugería sobre el alelo para ojos blancos?
 
 - A. Toda la progenie F1 tuvo ojos rojos; aparentemente, el alelo para ojos blancos era recesivo
 - B. Toda la progenie F1 tuvo ojos blancos; el alelo para ojos blancos era dominante
@@ -1931,7 +1931,7 @@ Cuando aparearon a esta mosca (macho) con una hembra de ojos rojos, toda la prog
 
 ### 112
 
-De acuerdo con el libro de Biología de Curtis, ¿qué hipótesis formuló el equipo de Morgan sobre el gen para el color de ojos?
+De acuerdo con el libro de Biología, ¿qué hipótesis formuló el equipo de Morgan sobre el gen para el color de ojos?
 
 - A. Que el gen para el color de ojos se encuentra solo en el cromosoma X
 - B. Que el gen para el color de ojos se encuentra solo en el cromosoma Y
@@ -1946,7 +1946,7 @@ Sobre la base de estos experimentos se formuló la siguiente hipótesis: el gen 
 
 ### 113
 
-De acuerdo con el libro de Biología de Curtis, ¿qué concepto introdujeron estos experimentos de Morgan?
+De acuerdo con el libro de Biología, ¿qué concepto introdujeron estos experimentos de Morgan?
 
 - A. El concepto de características ligadas al sexo
 - B. El concepto de dominancia incompleta
@@ -1961,7 +1961,7 @@ Estos experimentos introdujeron el concepto de características ligadas al sexo 
 
 ### 114
 
-De acuerdo con el libro de Biología de Curtis, ¿de qué convencieron a Morgan y a muchos genetistas los resultados de los cruzamientos entre moscas de ojos blancos y de ojos rojos?
+De acuerdo con el libro de Biología, ¿de qué convencieron a Morgan y a muchos genetistas los resultados de los cruzamientos entre moscas de ojos blancos y de ojos rojos?
 
 - A. De que la hipótesis de Sutton era correcta: los genes están en los cromosomas
 - B. De que los genes están en el citoplasma de la célula
@@ -1976,7 +1976,7 @@ Los resultados de los cruzamientos entre las moscas de la fruta de ojos blancos 
 
 ### 115
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-28, ¿cómo se representan el alelo salvaje para ojos rojos y la característica menos común de ojos blancos?
+De acuerdo con el libro de Biología, según la figura 11-28, ¿cómo se representan el alelo salvaje para ojos rojos y la característica menos común de ojos blancos?
 
 - A. El alelo salvaje para ojos rojos con una B y el de ojos blancos con una b
 - B. El alelo para ojos rojos con una b y el de ojos blancos con una B
@@ -1991,7 +1991,7 @@ El alelo salvaje para ojos rojos se representa con una B y la característica me
 
 ### 116
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-28, al cruzar entre sí moscas de ojos rojos de la F1, ¿qué se obtuvo en la generación F2 y qué sugirió?
+De acuerdo con el libro de Biología, según la figura 11-28, al cruzar entre sí moscas de ojos rojos de la F1, ¿qué se obtuvo en la generación F2 y qué sugirió?
 
 - A. Machos de ojos rojos y de ojos blancos, pero todas las hembras de ojos rojos; sugirió una relación entre el color de ojos y los cromosomas sexuales
 - B. Todas las moscas de ojos rojos, sin relación alguna con el sexo
@@ -2006,7 +2006,7 @@ Cuando apareó a una hembra de ojos rojos de la F1 con un macho de ojos rojos de
 
 ### 117
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-28, en el cruzamiento de prueba entre una hembra F1 de ojos rojos (de genotipo desconocido) y el macho original de ojos blancos, ¿qué indicaron los resultados?
+De acuerdo con el libro de Biología, según la figura 11-28, en el cruzamiento de prueba entre una hembra F1 de ojos rojos (de genotipo desconocido) y el macho original de ojos blancos, ¿qué indicaron los resultados?
 
 - A. Que la hembra F1 era heterocigótica, y sugirieron que el gen para el color de ojos estaba localizado en el cromosoma X
 - B. Que la hembra F1 era homocigótica dominante
@@ -2021,7 +2021,7 @@ El genotipo de la hembra antes del cruzamiento de prueba era desconocido; la hem
 
 ### 118
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-29 (cruce entre una hembra de ojos blancos y un macho de ojos rojos), ¿por qué los machos F1 son todos de ojos blancos?
+De acuerdo con el libro de Biología, según la figura 11-29 (cruce entre una hembra de ojos blancos y un macho de ojos rojos), ¿por qué los machos F1 son todos de ojos blancos?
 
 - A. Porque con su único cromosoma X recibido de la hembra llevan el alelo recesivo b, y el cromosoma Y no lleva gen para color de ojos
 - B. Porque reciben el alelo recesivo del padre de ojos rojos
@@ -2046,7 +2046,7 @@ Los machos F1, con su único cromosoma X recibido de la hembra, llevan el alelo 
 
 ### 119
 
-De acuerdo con el libro de Biología de Curtis, ¿qué encontró en 1927 Hermann J. Müller, uno de los colaboradores de Morgan?
+De acuerdo con el libro de Biología, ¿qué encontró en 1927 Hermann J. Müller, uno de los colaboradores de Morgan?
 
 - A. Que la exposición a los rayos X incrementaba en gran medida la velocidad de mutación en *Drosophila*
 - B. Que los rayos X detenían por completo las mutaciones en *Drosophila*
@@ -2061,7 +2061,7 @@ Hermann J. Müller (1890-1967), uno de los colaboradores de Morgan, encontró qu
 
 ### 120
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se llama a los agentes que producen mutaciones, como la luz ultravioleta y ciertos agentes químicos?
+De acuerdo con el libro de Biología, ¿cómo se llama a los agentes que producen mutaciones, como la luz ultravioleta y ciertos agentes químicos?
 
 - A. Mutágenos
 - B. Mutantes
@@ -2079,7 +2079,7 @@ Otras formas de radiación, como la luz ultravioleta y ciertos agentes químicos
 
 ### 121
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se dice que están los genes que tienden a segregar en conjunto porque están próximos en un mismo cromosoma?
+De acuerdo con el libro de Biología, ¿cómo se dice que están los genes que tienden a segregar en conjunto porque están próximos en un mismo cromosoma?
 
 - A. Están ligados: pertenecen al mismo grupo de ligamiento
 - B. Están recombinados: pertenecen a distintos grupos de ligamiento
@@ -2098,7 +2098,7 @@ Se dice que los genes que tienden a segregar en conjunto, porque están próximo
 
 ### 122
 
-De acuerdo con el libro de Biología de Curtis, al cruzar plantas *Antirrhinum* homocigóticas de flores rojas (R¹R¹) con homocigóticas de flores blancas (R²R²), ¿cómo fue la generación F1?
+De acuerdo con el libro de Biología, al cruzar plantas *Antirrhinum* homocigóticas de flores rojas (R¹R¹) con homocigóticas de flores blancas (R²R²), ¿cómo fue la generación F1?
 
 - A. Plantas heterocigóticas (R¹R²) de flores rosadas, un fenotipo intermedio al de ambos homocigotos
 - B. Plantas de flores rojas, iguales al progenitor de flores rojas
@@ -2113,7 +2113,7 @@ Bateson y Punnett cruzaron plantas del género *Antirrhinum* (conocida como cone
 
 ### 123
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se conoce el fenómeno por el cual el heterocigoto de *Antirrhinum* tiene flores rosadas, y a qué se debe en este caso?
+De acuerdo con el libro de Biología, ¿cómo se conoce el fenómeno por el cual el heterocigoto de *Antirrhinum* tiene flores rosadas, y a qué se debe en este caso?
 
 - A. Dominancia incompleta; es el resultado de una producción menor de pigmento rojo de los ejemplares heterocigóticos
 - B. Codominancia; es el resultado de la mezcla de dos antígenos
@@ -2128,7 +2128,7 @@ El fenómeno se conoce como dominancia incompleta y, en este caso, es el resulta
 
 ### 124
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-30, en la dominancia incompleta del *Antirrhinum*, ¿qué ocurre con los alelos y con la flor del heterocigoto?
+De acuerdo con el libro de Biología, según la figura 11-30, en la dominancia incompleta del *Antirrhinum*, ¿qué ocurre con los alelos y con la flor del heterocigoto?
 
 - A. Ningún alelo es dominante y la flor del heterocigoto presenta un fenotipo intermedio entre los dos colores
 - B. El alelo rojo es dominante y la flor del heterocigoto es roja
@@ -2143,7 +2143,7 @@ En este caso, ningún alelo es dominante. La flor del heterocigoto presenta un f
 
 ### 125
 
-De acuerdo con el libro de Biología de Curtis, cuando los heterocigotos de flores rosadas se autopolinizan y en la F2 vuelven a aparecer las flores rojas y blancas, ¿qué demuestra esto sobre los alelos?
+De acuerdo con el libro de Biología, cuando los heterocigotos de flores rosadas se autopolinizan y en la F2 vuelven a aparecer las flores rojas y blancas, ¿qué demuestra esto sobre los alelos?
 
 - A. Que los alelos se mantienen como unidades discretas e inalteradas
 - B. Que los alelos se fusionan de manera permanente en el heterocigoto
@@ -2162,7 +2162,7 @@ Cuando estos individuos se autopolinizan, las características rojo y blanco par
 
 ### 126
 
-De acuerdo con el libro de Biología de Curtis, en la codominancia, ¿qué ocurre con los individuos heterocigóticos respecto de los alelos?
+De acuerdo con el libro de Biología, en la codominancia, ¿qué ocurre con los individuos heterocigóticos respecto de los alelos?
 
 - A. Expresan ambos alelos; es decir, los dos fenotipos homocigóticos simultáneamente
 - B. Expresan solamente el alelo dominante de los dos
@@ -2186,7 +2186,7 @@ Los alelos se mantienen como unidades discretas e inalteradas y también pueden 
 
 ### 127
 
-De acuerdo con el libro de Biología de Curtis, ¿por cuántos alelos está determinado el gen de los cuatro grupos sanguíneos principales (A, B, AB y 0), y cuáles son?
+De acuerdo con el libro de Biología, ¿por cuántos alelos está determinado el gen de los cuatro grupos sanguíneos principales (A, B, AB y 0), y cuáles son?
 
 - A. Por un gen que posee tres alelos: I^A, I^B e i
 - B. Por un gen que posee dos alelos: I^A e i
@@ -2201,7 +2201,7 @@ Los cuatro grupos sanguíneos principales, A, B, AB y 0, están determinados por
 
 ### 128
 
-De acuerdo con el libro de Biología de Curtis, ¿qué relación de dominancia hay entre los alelos I^A, I^B e i de los grupos sanguíneos?
+De acuerdo con el libro de Biología, ¿qué relación de dominancia hay entre los alelos I^A, I^B e i de los grupos sanguíneos?
 
 - A. I^A e I^B son codominantes, mientras que i es recesivo
 - B. i es codominante con I^A, mientras que I^B es recesivo
@@ -2216,7 +2216,7 @@ Los alelos I^A y I^B son codominantes, mientras que el i es recesivo.
 
 ### 129
 
-De acuerdo con el libro de Biología de Curtis, ¿cuál es el genotipo de los individuos con grupo sanguíneo AB y cuál el de los del grupo 0?
+De acuerdo con el libro de Biología, ¿cuál es el genotipo de los individuos con grupo sanguíneo AB y cuál el de los del grupo 0?
 
 - A. El grupo AB siempre es I^AI^B y el grupo 0 siempre es ii
 - B. El grupo AB siempre es I^Ai y el grupo 0 siempre es I^Bi
@@ -2231,7 +2231,7 @@ Los individuos con grupo sanguíneo AB siempre son genotípicamente I^AI^B. Por 
 
 ### 130
 
-De acuerdo con el libro de Biología de Curtis, ¿qué caracteriza a los grupos sanguíneos A, B y AB en la superficie del glóbulo rojo, y qué ocurre con el grupo 0?
+De acuerdo con el libro de Biología, ¿qué caracteriza a los grupos sanguíneos A, B y AB en la superficie del glóbulo rojo, y qué ocurre con el grupo 0?
 
 - A. Tienen un antígeno, un polisacárido específico, en la superficie del glóbulo rojo; el grupo 0 no posee estos antígenos
 - B. No tienen ningún antígeno; solo el grupo 0 posee antígenos
@@ -2250,7 +2250,7 @@ Los grupos sanguíneos A, B y AB se caracterizan por tener un antígeno, un poli
 
 ### 131
 
-De acuerdo con el libro de Biología de Curtis, aunque un organismo diploide tiene solo dos alelos de un gen dado, ¿de dónde resultan los alelos múltiples que existen para ciertos genes en la población?
+De acuerdo con el libro de Biología, aunque un organismo diploide tiene solo dos alelos de un gen dado, ¿de dónde resultan los alelos múltiples que existen para ciertos genes en la población?
 
 - A. De mutaciones diferentes en un solo gen
 - B. De la combinación de genes situados en distintos cromosomas
@@ -2265,7 +2265,7 @@ Aunque cualquier organismo diploide tiene solo dos alelos de un gen dado, es fre
 
 ### 132
 
-De acuerdo con el libro de Biología de Curtis, en la serie de cuatro alelos que determina el color del pelaje en los conejos, ¿cómo es la relación de dominancia?
+De acuerdo con el libro de Biología, en la serie de cuatro alelos que determina el color del pelaje en los conejos, ¿cómo es la relación de dominancia?
 
 - A. Cada alelo es dominante sobre los que vienen a continuación
 - B. Los cuatro alelos son codominantes entre sí
@@ -2284,7 +2284,7 @@ El color del pelaje en los conejos está determinado por una serie de cuatro ale
 
 ### 133
 
-De acuerdo con el libro de Biología de Curtis, ¿a qué hace referencia, en general, el concepto de sexo biológico?
+De acuerdo con el libro de Biología, ¿a qué hace referencia, en general, el concepto de sexo biológico?
 
 - A. A aquellas características que son sustento para clasificar a los individuos como machos o hembras
 - B. Únicamente a la identidad que cada persona siente como propia
@@ -2299,7 +2299,7 @@ El sexo biológico es un concepto que, en general, hace referencia a aquellas ca
 
 ### 134
 
-De acuerdo con el libro de Biología de Curtis, ¿a qué hace referencia el sexo cromosómico y en qué momento se define?
+De acuerdo con el libro de Biología, ¿a qué hace referencia el sexo cromosómico y en qué momento se define?
 
 - A. A la composición de los cromosomas sexuales; se define en el momento de la concepción
 - B. Al predominio de un tipo de hormonas; se define en la pubertad
@@ -2314,7 +2314,7 @@ Sexo cromosómico: hace referencia a la composición de los cromosomas sexuales,
 
 ### 135
 
-De acuerdo con el libro de Biología de Curtis, ¿a qué hace referencia el sexo hormonal?
+De acuerdo con el libro de Biología, ¿a qué hace referencia el sexo hormonal?
 
 - A. Al predominio de hormonas andrógenos o de hormonas estrógenos
 - B. A la composición de los cromosomas sexuales
@@ -2329,7 +2329,7 @@ Sexo hormonal: hace referencia al predominio de hormonas andrógenos o de hormon
 
 ### 136
 
-De acuerdo con el libro de Biología de Curtis, ¿a qué hace referencia el sexo gonadal?
+De acuerdo con el libro de Biología, ¿a qué hace referencia el sexo gonadal?
 
 - A. A las gónadas que se forman a partir del tejido gonadal indiferenciado del embrión
 - B. Al predominio de hormonas andrógenos o de hormonas estrógenos
@@ -2348,7 +2348,7 @@ Sexo gonadal: hace referencia a las gónadas que se forman a partir del tejido g
 
 ### 137
 
-De acuerdo con el libro de Biología de Curtis, en algunos insectos como el saltamontes estudiado por Sutton, que no tienen cromosoma Y, ¿cómo son las hembras y los machos?
+De acuerdo con el libro de Biología, en algunos insectos como el saltamontes estudiado por Sutton, que no tienen cromosoma Y, ¿cómo son las hembras y los machos?
 
 - A. Las hembras son XX y los machos X0 (el 0 indica la ausencia del cromosoma)
 - B. Las hembras son X0 y los machos XX
@@ -2363,7 +2363,7 @@ En algunos insectos, como el saltamontes estudiado por Sutton, no hay cromosoma 
 
 ### 138
 
-De acuerdo con el libro de Biología de Curtis, en las combinaciones XX/XY o XX/X0, ¿por qué se dice que el macho es heterogamético?
+De acuerdo con el libro de Biología, en las combinaciones XX/XY o XX/X0, ¿por qué se dice que el macho es heterogamético?
 
 - A. Porque puede producir dos tipos de gametos: los que contienen el cromosoma X y los que contienen el Y o no contienen ningún cromosoma sexual
 - B. Porque todos sus gametos portan siempre el cromosoma X
@@ -2378,7 +2378,7 @@ En las combinaciones XX/XY o XX/X0, el macho es heterogamético porque puede pro
 
 ### 139
 
-De acuerdo con el libro de Biología de Curtis, en esas mismas combinaciones, ¿por qué se dice que la hembra es homogamética?
+De acuerdo con el libro de Biología, en esas mismas combinaciones, ¿por qué se dice que la hembra es homogamética?
 
 - A. Porque sus gametos siempre portan el cromosoma X
 - B. Porque sus gametos portan el cromosoma X o el cromosoma Y
@@ -2398,7 +2398,7 @@ La hembra, en cambio, es homogamética, ya que sus gametos siempre portan el cro
 
 ### 140
 
-De acuerdo con el libro de Biología de Curtis, ¿en qué grupos ocurre al revés, con los machos homogaméticos y las hembras heterogaméticas?
+De acuerdo con el libro de Biología, ¿en qué grupos ocurre al revés, con los machos homogaméticos y las hembras heterogaméticas?
 
 - A. En las aves, las polillas y las mariposas
 - B. En los saltamontes y otros insectos estudiados por Sutton
@@ -2417,7 +2417,7 @@ Sin embargo, en otros casos, como en las aves, las polillas y las mariposas, ocu
 
 ### 141
 
-De acuerdo con el libro de Biología de Curtis, en los humanos, durante la meiosis del varón, ¿cuántos espermatozoides produce cada célula diploide y qué cromosoma sexual recibe cada uno?
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, en los humanos, durante la meiosis del varón, ¿cuántos espermatozoides produce cada célula diploide y qué cromosoma sexual recibe cada uno?
 
 - A. Cuatro espermatozoides haploides: dos reciben un cromosoma X y los otros dos, un cromosoma Y
 - B. Dos espermatozoides haploides: uno con el cromosoma X y otro con el Y
@@ -2432,7 +2432,7 @@ En los humanos, durante la meiosis del varón, cada célula diploide que origina
 
 ### 142
 
-De acuerdo con el libro de Biología de Curtis, durante la meiosis de la mujer, ¿qué cromosoma sexual contiene cualquier óvulo que se forma, y por qué?
+De acuerdo con el libro de Biología, durante la meiosis de la mujer, ¿qué cromosoma sexual contiene cualquier óvulo que se forma, y por qué?
 
 - A. Un cromosoma X, dado que la mujer no posee cromosoma Y en ninguna de sus células
 - B. Un cromosoma Y, dado que la mujer no posee cromosoma X en sus células
@@ -2447,7 +2447,7 @@ Durante la meiosis de la mujer, cualquier óvulo que se forma contiene un cromos
 
 ### 143
 
-De acuerdo con el libro de Biología de Curtis, en las especies en las que los machos son heterogaméticos, ¿qué define el sexo cromosómico de la progenie?
+De acuerdo con el libro de Biología, en las especies en las que los machos son heterogaméticos, ¿qué define el sexo cromosómico de la progenie?
 
 - A. El cromosoma sexual aportado por el espermatozoide que fecunda al óvulo
 - B. El cromosoma sexual aportado por el óvulo
@@ -2462,7 +2462,7 @@ En las especies en las que los machos son heterogaméticos, el cromosoma sexual 
 
 ### 144
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-25, ¿a qué da lugar el cigoto si al óvulo lo fecunda un espermatozoide con cromosoma X, y si lo fecunda uno con cromosoma Y?
+De acuerdo con el libro de Biología, según la figura 11-25, ¿a qué da lugar el cigoto si al óvulo lo fecunda un espermatozoide con cromosoma X, y si lo fecunda uno con cromosoma Y?
 
 - A. Con el cromosoma X, a una hembra (XX); con el cromosoma Y, a un macho (XY)
 - B. Con el cromosoma X, a un macho (XY); con el cromosoma Y, a una hembra (XX)
@@ -2477,7 +2477,7 @@ Si un espermatozoide que lleva un cromosoma X fecunda al óvulo, el cigoto dará
 
 ### 145
 
-De acuerdo con el libro de Biología de Curtis, además de los individuos XX y XY, ¿qué otras variantes de menor frecuencia existen en la población humana?
+De acuerdo con el libro de Biología, además de los individuos XX y XY, ¿qué otras variantes de menor frecuencia existen en la población humana?
 
 - A. Variantes como X0, XXY y XXX, entre otras
 - B. Variantes como YY y Y0
@@ -2496,7 +2496,7 @@ En la población humana existen, además de individuos XX y XY, otras variantes 
 
 ### 146
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo se conoce el fenómeno por el cual características como la altura, el peso, el color o el comportamiento resultan de la acción acumulativa de los efectos combinados de muchos genes?
+De acuerdo con el libro de Biología, ¿cómo se conoce el fenómeno por el cual características como la altura, el peso, el color o el comportamiento resultan de la acción acumulativa de los efectos combinados de muchos genes?
 
 - A. Herencia poligénica
 - B. Dominancia incompleta
@@ -2511,7 +2511,7 @@ Algunas características, como el tamaño, la altura, el peso, la forma, el colo
 
 ### 147
 
-De acuerdo con el libro de Biología de Curtis, las características determinadas por varios genes o poligenes no muestran diferencias nítidas, sino una gradación de pequeñas diferencias que se conoce como…
+De acuerdo con el libro de Biología, las características determinadas por varios genes o poligenes no muestran diferencias nítidas, sino una gradación de pequeñas diferencias que se conoce como…
 
 - A. Variación continua
 - B. No disyunción
@@ -2526,7 +2526,7 @@ Las características determinadas por varios genes, o poligenes, no muestran dif
 
 ### 148
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-32, ¿qué forma tiene la curva de distribución de la altura de los hombres de una población y dónde se ubica la media?
+De acuerdo con el libro de Biología, según la figura 11-32, ¿qué forma tiene la curva de distribución de la altura de los hombres de una población y dónde se ubica la media?
 
 - A. Forma de campana, con la media o promedio ubicada habitualmente en el centro de la curva
 - B. Forma de recta ascendente, con la media en un extremo
@@ -2541,7 +2541,7 @@ La altura es una característica afectada por varios genes. La curva de distribu
 
 ### 149
 
-De acuerdo con el libro de Biología de Curtis, ¿cómo son la mayoría de las características humanas que dan lugar a la variabilidad fenotípica entre individuos?
+De acuerdo con el libro de Biología, ¿cómo son la mayoría de las características humanas que dan lugar a la variabilidad fenotípica entre individuos?
 
 - A. Son poligénicas
 - B. Dependen de un solo gen
@@ -2560,7 +2560,7 @@ Se considera que el color de la piel en los seres humanos se encuentra bajo un c
 
 ### 150
 
-De acuerdo con el libro de Biología de Curtis, ¿de qué depende la expresión de los genes?
+De acuerdo con el libro de Biología, ¿de qué depende la expresión de los genes?
 
 - A. De la interacción con el medioambiente
 - B. Únicamente del número de cromosomas del organismo
@@ -2575,7 +2575,7 @@ La expresión de los genes depende de la interacción con el medioambiente.
 
 ### 151
 
-De acuerdo con el libro de Biología de Curtis, según el ejemplo de la plántula, que tiene la capacidad determinada genéticamente de ser verde, ¿qué ocurre si se la mantiene en la oscuridad?
+De acuerdo con el libro de Biología, según el ejemplo de la plántula, que tiene la capacidad determinada genéticamente de ser verde, ¿qué ocurre si se la mantiene en la oscuridad?
 
 - A. Nunca se volverá verde
 - B. Se volverá verde, pero más lentamente
@@ -2590,7 +2590,7 @@ Una plántula puede tener la capacidad determinada genéticamente de ser verde, 
 
 ### 152
 
-De acuerdo con el libro de Biología de Curtis, según la figura 11-33, en el ranúnculo de agua, ¿cómo son las hojas que crecen por encima del agua frente a las que crecen bajo el agua, siendo genéticamente idénticas?
+De acuerdo con el libro de Biología, según la figura 11-33, en el ranúnculo de agua, ¿cómo son las hojas que crecen por encima del agua frente a las que crecen bajo el agua, siendo genéticamente idénticas?
 
 - A. Las de encima son anchas, planas y lobuladas; las de bajo el agua, delgadas y finamente divididas
 - B. Las de encima son delgadas y divididas; las de bajo el agua, anchas y planas
@@ -2605,7 +2605,7 @@ Las hojas que crecen por encima del agua son anchas, planas y lobuladas; las que
 
 ### 153
 
-De acuerdo con el libro de Biología de Curtis, ¿de qué color son las flores de las prímulas a temperatura ambiente, y qué ocurre cuando la temperatura se eleva por encima de 30 °C?
+De acuerdo con el libro de Biología, ¿de qué color son las flores de las prímulas a temperatura ambiente, y qué ocurre cuando la temperatura se eleva por encima de 30 °C?
 
 - A. Rojas a temperatura ambiente; blancas cuando la temperatura supera los 30 °C
 - B. Blancas a temperatura ambiente; rojas cuando la temperatura supera los 30 °C
@@ -2620,7 +2620,7 @@ Las prímulas, plantas de flores rojas a temperatura ambiente, tienen flores bla
 
 ### 154
 
-De acuerdo con el libro de Biología de Curtis, ¿de qué color son los conejos himalayos a temperaturas altas y a temperaturas bajas?
+De acuerdo con el libro de Biología, ¿de qué color son los conejos himalayos a temperaturas altas y a temperaturas bajas?
 
 - A. Blancos a temperaturas altas y negros a temperaturas bajas
 - B. Negros a temperaturas altas y blancos a temperaturas bajas
@@ -2635,7 +2635,7 @@ Los conejos himalayos son blancos a temperaturas altas y negros a temperaturas b
 
 ### 155
 
-De acuerdo con el libro de Biología de Curtis, ¿en qué zonas son negros los gatos siameses criados a temperatura ambiente?
+De acuerdo con el libro de Biología, ¿en qué zonas son negros los gatos siameses criados a temperatura ambiente?
 
 - A. En sus zonas periféricas más frías, como las orejas, la nariz y la punta de la cola
 - B. En el lomo y el vientre, sus zonas más cálidas
@@ -2655,7 +2655,7 @@ Los gatos siameses criados a temperatura ambiente son negros en sus zonas perif�
 
 ### 156
 
-De acuerdo con el libro de Biología de Curtis, ¿cuál es el primer principio que ilustran estos ejemplos?
+De acuerdo con el libro de Biología, ¿cuál es el primer principio que ilustran estos ejemplos?
 
 - A. El fenotipo de cualquier organismo es el resultado de la interacción entre los genes y el ambiente
 - B. El fenotipo de un organismo depende únicamente de su genotipo
@@ -2674,7 +2674,7 @@ El fenotipo de cualquier organismo es el resultado de la interacción entre los 
 
 ### 157
 
-De acuerdo con el libro de Biología de Curtis, según el ensayo 11-1, ¿a quién debe su nombre el síndrome de Down y en qué año se describió esta alteración?
+De acuerdo con el libro de Biología, según el ensayo 11-1, ¿a quién debe su nombre el síndrome de Down y en qué año se describió esta alteración?
 
 - A. Al médico inglés John Langdon Haydon Down, que la describió en 1866
 - B. Al médico francés Jérôme Lejeune, que la describió en 1958
@@ -2689,7 +2689,7 @@ El síndrome de Down debe su nombre al médico inglés John Langdon Haydon Down 
 
 ### 158
 
-De acuerdo con el libro de Biología de Curtis, según el ensayo 11-1, ¿qué encontró en 1958 el investigador francés Jérôme Lejeune sobre el síndrome de Down?
+De acuerdo con el libro de Biología, según el ensayo 11-1, ¿qué encontró en 1958 el investigador francés Jérôme Lejeune sobre el síndrome de Down?
 
 - A. Que el síndrome estaba asociado con una trisomía en el par 21 de cromosomas
 - B. Que el síndrome estaba asociado con una trisomía en el par 23 de cromosomas
@@ -2704,7 +2704,7 @@ En 1958, un investigador francés, Jérôme Lejeune (1926-1994), encontró que e
 
 ### 159
 
-De acuerdo con el libro de Biología de Curtis, según el ensayo 11-1, ¿qué denominación alternativa propuso el propio Lejeune para el síndrome de Down?
+De acuerdo con el libro de Biología, según el ensayo 11-1, ¿qué denominación alternativa propuso el propio Lejeune para el síndrome de Down?
 
 - A. Trisomía 21
 - B. Monosomía 21
@@ -2719,7 +2719,7 @@ El propio Lejeune propuso la denominación alternativa de "trisomía 21".
 
 ### 160
 
-De acuerdo con el libro de Biología de Curtis, según el ensayo 11-1, ¿qué hizo la Organización Mundial de la Salud en 1965 respecto de este síndrome?
+De acuerdo con el libro de Biología, según el ensayo 11-1, ¿qué hizo la Organización Mundial de la Salud en 1965 respecto de este síndrome?
 
 - A. Hizo un cambio de nomenclatura tras una petición formal del delegado de Mongolia
 - B. Prohibió el estudio genético del síndrome
@@ -2734,7 +2734,7 @@ En 1965, la Organización Mundial de la Salud hizo un cambio de nomenclatura tra
 
 ### 161
 
-De acuerdo con el libro de Biología de Curtis, según el ensayo 11-1, ¿a qué se debe que las personas con síndrome de Down puedan padecer patologías del corazón, el sistema digestivo y el sistema endocrino?
+De acuerdo con el libro de Biología, según el ensayo 11-1, ¿a qué se debe que las personas con síndrome de Down puedan padecer patologías del corazón, el sistema digestivo y el sistema endocrino?
 
 - A. Al exceso de proteínas sintetizadas por el cromosoma extranumerario
 - B. A la falta de proteínas por un cromosoma faltante
@@ -2749,7 +2749,7 @@ Las personas con síndrome de Down tienen una discapacidad cognitiva variable y 
 
 ### 162
 
-De acuerdo con el libro de Biología de Curtis, según el ensayo 11-1, ¿cómo cambió la esperanza de vida de las personas con síndrome de Down, de hace unas décadas a la actualidad en los países desarrollados?
+De acuerdo con el libro de Biología, según el ensayo 11-1, ¿cómo cambió la esperanza de vida de las personas con síndrome de Down, de hace unas décadas a la actualidad en los países desarrollados?
 
 - A. Subió de 14 años hace unas décadas hasta casi la media poblacional (60 años, en países desarrollados)
 - B. Bajó de 60 años hace unas décadas a 14 años en la actualidad
