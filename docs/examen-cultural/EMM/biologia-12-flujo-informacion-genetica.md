@@ -87,9 +87,22 @@ retículo endoplasmático, y Günter Blobel con su Nobel de 1999), y la redefini
 molecular de las mutaciones (la mutación como cambio en la secuencia o el número de
 nucleótidos del ADN, la transmisión por gametos frente a células somáticas, las
 mutaciones puntuales, y la anemia falciforme —valina por ácido glutámico, un único
-nucleótido—).
+nucleótido—). De las **páginas 261-262** se cubre el resto de las mutaciones (el
+corrimiento del marco de lectura por deleción o adición, la fig. 12-18, y las
+mutaciones en regiones no codificantes como la caja TATA) y la revisión del concepto
+de gen (el gen sin extremos físicos y no contiguo, la definición actual de gen, el
+transcriptoma y el proteoma, y por qué las definiciones clásicas ya no alcanzan).
 
-**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 261 (hoja 307) en adelante (todavía sin extraer: el resto de las mutaciones, las reformulaciones actuales del concepto de gen y el cierre del capítulo). Sigue pendiente, además, el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249). Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+Con esto, **la teoría del capítulo 12 (pp. 246-262) queda cubierta**. Lo que se dejó
+fuera a propósito: la sección "La diversidad de conceptos de gen" (p. 263), que son
+citas de opinión de varios científicos sobre qué es un gen (discursivo, no recuerdo
+literal); el recuadro "Temas en debate" (p. 263, lorem ipsum); el ensayo de cierre
+"Retomando la problemática inicial · Las metáforas y el lenguaje de la genética"
+(p. 264, discursivo); y las "Situaciones problemáticas" (p. 264, problemas de
+aplicación). El capítulo termina en la p. 264 (la 265 abre el capítulo 13, que no
+está en el temario; el siguiente del temario es el 31).
+
+**Pendiente:** la teoría del capítulo 12 está completa (pp. 246-262); antes de cerrarlo queda por minar el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente. Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -1951,4 +1964,136 @@ Como ocurre en la anemia falciforme, una mutación puntual puede producir cambio
 
 ---
 
-**Reactivos en este archivo:** 116
+## Sub-lote 25 · Las mutaciones: marco de lectura y regiones no codificantes (fig. 12-18, pp. 261)
+
+### 117
+
+De acuerdo con el libro de Biología, cuando ocurre la deleción o la adición de nucleótidos dentro del gen, ¿qué suele suceder con el marco de lectura y cuál es el resultado?
+
+- A. El marco de lectura suele desplazarse y el resultado es la síntesis de una proteína completamente nueva
+- B. El marco de lectura no cambia y la proteína resulta idéntica a la original
+- C. El gen deja de existir por completo
+- D. Se duplica el número de cromosomas de la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 261
+**Subtema:** flujo de información genética · mutaciones
+
+Cuando ocurre la deleción o la adición de nucleótidos dentro del gen, el marco de lectura del gen suele desplazarse y el resultado es la síntesis de una proteína completamente nueva.
+
+### 118
+
+De acuerdo con el libro de Biología, ¿a qué llevan casi invariablemente los corrimientos del marco de lectura?
+
+- A. A proteínas defectuosas, o por lo general más cortas si aparece un codón de terminación en la nueva fase de lectura
+- B. A proteínas siempre más largas que la original
+- C. A proteínas idénticas a las originales
+- D. A la duplicación del gen que las codifica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 261
+**Subtema:** flujo de información genética · mutaciones
+
+Los corrimientos del marco de lectura casi invariablemente llevan a proteínas defectuosas, o por lo general más cortas, si aparece un codón de terminación en la fase nueva de lectura.
+
+### 119
+
+De acuerdo con el libro de Biología, ¿qué efecto tiene una mutación en la caja TATA del promotor?
+
+- A. Impedirá la transcripción del gen
+- B. Aumentará la velocidad de la transcripción
+- C. No tendrá ningún efecto sobre el gen
+- D. Cambiará un aminoácido en una posición de la proteína
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 261
+**Subtema:** flujo de información genética · mutaciones
+
+Ciertas mutaciones afectan secuencias en regiones no codificantes del gen. Por ejemplo, una mutación en la caja TATA del promotor impedirá la transcripción del gen.
+
+---
+
+## Sub-lote 26 · La revisión del concepto de gen: transcriptoma y proteoma (p. 262)
+
+### 120
+
+De acuerdo con el libro de Biología, ¿cómo está delimitado cada gen y cómo están dispuestos los genes en el cromosoma?
+
+- A. No tiene extremos físicos; su delimitación está dada por cambios en la información, y los genes no son contiguos: están separados por regiones no codificantes de ADN
+- B. Tiene extremos físicos claros y los genes están pegados uno al lado del otro
+- C. Cada gen ocupa un cromosoma completo, sin interrupciones
+- D. Todos los genes ocupan el mismo lugar en todas las especies
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 262
+**Subtema:** flujo de información genética · concepto de gen
+
+Cada gen es una porción de una molécula de ADN y no tiene extremos físicos. Su delimitación está dada por cambios en la información. Los genes no son contiguos, están separados por regiones no codificantes de ADN.
+
+### 121
+
+De acuerdo con el libro de Biología, ¿cuál es una de las posibles definiciones actuales de gen?
+
+- A. Todo segmento de ADN que se encuentra luego de un promotor y que puede ser transcrito por una ARN polimerasa y originar un ARN funcional
+- B. Todo segmento de ARN que forma parte de un ribosoma
+- C. Cualquier proteína presente en el citoplasma de la célula
+- D. Un cromosoma completo con todos sus genes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 262
+**Subtema:** flujo de información genética · concepto de gen
+
+Un gen es todo segmento de ADN que se encuentra luego de un promotor y que puede ser transcrito por una ARN polimerasa y originar un ARN funcional (ARNm, ARNr, ARNt, ribozima u otros tipos de ARN).
+
+### 122
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el conjunto de ARN expresados por los genes de un organismo?
+
+- A. El transcriptoma
+- B. El proteoma
+- C. El genoma
+- D. El cariotipo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 262
+**Subtema:** flujo de información genética · concepto de gen
+
+El conjunto de ARN expresados por los genes de un organismo se denomina transcriptoma.
+
+### 123
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el conjunto de polipéptidos producidos por la traducción del transcriptoma?
+
+- A. El proteoma
+- B. El transcriptoma
+- C. El genoma
+- D. El cariotipo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 262
+**Subtema:** flujo de información genética · concepto de gen
+
+El conjunto de polipéptidos producidos por la traducción del transcriptoma constituye el proteoma.
+
+> Par que se confunde (reactivos 122 y 123): el **transcriptoma** es el conjunto de
+> **ARN** expresados por los genes; el **proteoma**, el conjunto de **polipéptidos**
+> que resultan de traducir ese transcriptoma. Uno es el paso previo del otro.
+
+### 124
+
+De acuerdo con el libro de Biología, ¿por qué las definiciones clásicas de gen (un segmento de ADN que codifica una proteína) no se ajustan a los conocimientos actuales?
+
+- A. Porque muchos genes codifican ARN que nunca se traducen en proteínas, como los ARNt y los ARNr
+- B. Porque ya no existen los genes en el ADN
+- C. Porque todos los genes, sin excepción, codifican proteínas
+- D. Porque los genes se encuentran en las proteínas y no en el ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 262
+**Subtema:** flujo de información genética · concepto de gen
+
+Muchos genes codifican ARN que nunca se traducen en proteínas, como los ARNt, los ARNr. Así, las definiciones clásicas no se ajustan a los conocimientos actuales.
+
+---
+
+**Reactivos en este archivo:** 124
