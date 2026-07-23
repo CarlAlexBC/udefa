@@ -32,7 +32,7 @@ leyeron de la hoja, no se calcularon.
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **212 a 216 y 218 a 227**: qué es la reproducción
+Cubiertas las páginas impresas **212 a 216 y 218 a 229**: qué es la reproducción
 sexual, la meiosis y la fecundación, el cigoto, las dotaciones cromosómicas, los
 números de cromosomas por especie, el entrecruzamiento, las fases de la meiosis,
 las diferencias entre mitosis y meiosis, el cariotipo y el número cromosómico
@@ -43,17 +43,19 @@ experimentos de Mendel: quién fue, qué demostró y su método experimental con
 guisante *Pisum sativum*, el diseño de sus cruzamientos (hibridación, generaciones
 P/F1/F2, líneas puras), los caracteres dominantes y recesivos con la relación 3:1,
 la primera ley de Mendel o principio de segregación, y el vocabulario genético
-moderno: genotipo, fenotipo, alelos, homocigosis y heterocigosis, dominancia y el
-tablero de Punnett.
+moderno: genotipo, fenotipo, alelos, homocigosis y heterocigosis, dominancia, el
+tablero de Punnett, el cruzamiento dihíbrido y la segunda ley de Mendel o
+principio de distribución independiente con su relación 9:3:3:1.
 
 Las páginas 217 y 219 son íntegramente figuras (11-6, 11-10 y 11-11), y la 222
 trae la biografía de Mendel de la que sí salieron reactivos.
 
-**Pendiente de verificar:** el nombre que Mendel dio a las unidades discretas
-(la palabra salió cortada en el extractor, parecía "elementen"). No se escribió
-reactivo sobre ese término hasta recortarlo a alta resolución y confirmarlo.
+**Sobre el nombre de las unidades de Mendel:** la palabra aparece dos veces en el
+extractor como "elemente" (pp. 222 y 229), pero ambas salieron de un renglón que
+el extractor corta, y el término correcto podría ser "elementen". **No se escribió
+reactivo sobre ese término** hasta recortarlo a alta resolución y confirmarlo.
 
-**Pendiente:** del capítulo 11 falta de la página impresa 228 en adelante (hoja 274+): el cruzamiento de prueba, la segunda ley de Mendel (distribución independiente), el recuadro social de la página 210 y los ensayos 11-1 y 11-2. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 11 falta de la página impresa 230 en adelante (hoja 276+): el cruzamiento de prueba (test cross), lo que reste de genética mendeliana, el recuadro social de la página 210 y los ensayos 11-1, 11-2 y 11-3. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -1231,4 +1233,121 @@ Una de las formas más simples de predecir los tipos de descendencia que serán 
 
 ---
 
-**Reactivos en este archivo:** 72
+## Sub-lote 21 · El cruzamiento dihíbrido (p. 228)
+
+### 73
+
+De acuerdo con el libro de Biología de Curtis, en su segunda serie de experimentos, ¿cuántas características analizó Mendel simultáneamente?
+
+- A. Dos características simultáneamente
+- B. Una sola característica a través de dos generaciones
+- C. Siete características simultáneamente
+- D. Tres características simultáneamente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 228
+**Subtema:** reproducción sexual · distribución independiente
+
+En su primer conjunto de experimentos, Mendel realizó el seguimiento de un solo carácter a través de dos generaciones, sin tener en cuenta cómo variaban los otros. En una segunda serie de experimentos, analizó cómo variaban dos características simultáneamente.
+
+### 74
+
+De acuerdo con el libro de Biología de Curtis, al cruzar una planta de semillas redondas y amarillas (alelos dominantes) con otra de semillas rugosas y verdes (alelos recesivos), ¿cómo fueron todas las semillas producidas en la F1?
+
+- A. Redondas y amarillas
+- B. Rugosas y verdes
+- C. Redondas y verdes
+- D. Rugosas y amarillas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 228
+**Subtema:** reproducción sexual · distribución independiente
+
+Cruzó una planta que producía semillas redondas y amarillas (ambos alelos dominantes) con otra que daba semillas rugosas y verdes (alelos recesivos). Como podía esperarse, todas las semillas producidas en este cruzamiento fueron redondas y amarillas.
+
+### 75
+
+De acuerdo con el libro de Biología de Curtis, cuando las plantas F1 del cruzamiento dihíbrido se autopolinizaron, ¿qué apareció en la F2 además de las variantes de los progenitores?
+
+- A. Nuevas combinaciones: semillas rugosas y amarillas, y redondas y verdes
+- B. Solo semillas redondas y amarillas
+- C. Solo semillas rugosas y verdes
+- D. Semillas de características intermedias entre los progenitores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 228
+**Subtema:** reproducción sexual · distribución independiente
+
+Todas las semillas restantes fueron distintas de los progenitores: 101 rugosas y amarillas, y 108 redondas y verdes. Habían aparecido nuevas combinaciones.
+
+### 76
+
+De acuerdo con el libro de Biología de Curtis, ¿qué ocurre con la relación 3:1 de cada característica cuando en el cruzamiento dihíbrido se consideran el color y la forma de la semilla de manera independiente?
+
+- A. Se mantiene: cada característica por separado sigue apareciendo en una relación 3 a 1
+- B. Desaparece por completo y se vuelve 1:1
+- C. Se transforma en una relación 9:3:3:1 para cada característica
+- D. Se invierte a favor de las variantes recesivas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 228
+**Subtema:** reproducción sexual · distribución independiente
+
+Si al analizar estos nuevos experimentos, se consideran el color y la forma de la semilla de manera independiente, esta relación se mantiene: las variantes de la forma de la semilla (redonda y rugosa) aparecen en una relación 3 a 1.
+
+---
+
+## Sub-lote 22 · La segunda ley de Mendel (p. 229)
+
+### 77
+
+De acuerdo con el libro de Biología de Curtis, ¿qué establece el principio de distribución independiente sobre los pares de alelos durante la formación de los gametos?
+
+- A. Cada par de alelos segrega independientemente de los otros pares
+- B. Los pares de alelos permanecen unidos y se heredan en bloque
+- C. Un solo par de alelos segrega por vez, en orden
+- D. Los alelos dominantes segregan antes que los recesivos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 229
+**Subtema:** reproducción sexual · segunda ley de Mendel
+
+Durante la formación de los gametos, cada par de alelos segrega independientemente de los otros pares. En otras palabras, los factores hereditarios para cada característica se distribuyen en los gametos en forma independiente uno del otro.
+
+### 78
+
+De acuerdo con el libro de Biología de Curtis, en un cruzamiento que involucra dos genes que se distribuyen en forma independiente, cada uno con un alelo dominante y uno recesivo, ¿en qué relación estarán en promedio los fenotipos de la progenie?
+
+- A. En la relación 9:3:3:1
+- B. En la relación 3:1
+- C. En la relación 1:1
+- D. En la relación 2:1
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 229
+**Subtema:** reproducción sexual · segunda ley de Mendel
+
+En un cruzamiento que involucra a dos genes que se distribuyen en forma independiente –cada uno con un alelo dominante y uno recesivo–, los fenotipos de la progenie estarán, en promedio, en la relación 9:3:3:1.
+
+> Ojo al par 3:1 (una característica, primera ley) contra 9:3:3:1 (dos
+> características, segunda ley). Es la confusión más fácil entre las dos leyes,
+> y los distractores de los reactivos 59, 76 y 78 la explotan.
+
+### 79
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo será siempre la progenie F1 de un cruzamiento entre un progenitor homocigoto dominante para una característica y homocigoto recesivo para la otra (rrAA × RRaa)?
+
+- A. Heterocigótica para ambas características
+- B. Homocigótica dominante para ambas
+- C. Homocigótica recesiva para ambas
+- D. Homocigótica para una y heterocigótica para la otra
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 229
+**Subtema:** reproducción sexual · segunda ley de Mendel
+
+La progenie F1 de cada uno de estos cruzamientos siempre será heterocigótica para ambas características.
+
+---
+
+**Reactivos en este archivo:** 79
