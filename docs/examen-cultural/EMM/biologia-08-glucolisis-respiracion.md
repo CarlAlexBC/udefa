@@ -44,7 +44,7 @@ página **159** (hoja 205).
 
 ## Cobertura actual
 
-Cubiertas las páginas impresas **146 a 153**:
+Cubiertas las páginas impresas **145 a 158**:
 
 - La glucólisis como vía central; el ATP como principal transportador de energía
   y dónde interviene.
@@ -71,9 +71,18 @@ Cubiertas las páginas impresas **146 a 153**:
 - Las figuras 8-8 y 8-9: el detalle de la cadena transportadora con sus tres
   complejos y la ATP sintetasa, y el resumen completo del proceso.
 
-**Pendiente:** del capítulo 8, las páginas impresas 154 a 158, y el apartado
-"Biología en contexto social" de las páginas 145–146. De la materia siguen sin
-empezar los capítulos 11, 12, 31, 32, 35, 36 y 37.
+- La fermentación láctica y alcohólica; aerobios estrictos, anaerobios y
+  anaerobios facultativos; el reciclaje de NAD⁺ y por qué la glucólisis es
+  evolutivamente temprana.
+- Otras vías catabólicas: cómo entran grasas y proteínas al ciclo de Krebs, la
+  desaminación y la excreción como urea; el ciclo de Krebs como centro de
+  comunicaciones del metabolismo.
+- Vías de síntesis: células autótrofas y heterótrofas; en qué difieren las vías
+  biosintéticas de las catabólicas.
+- El apartado "Biología en contexto social": el cianuro de las almendras
+  amargas y su uso como arma química (páginas 145 y 157).
+
+**Pendiente:** el capítulo 8 está cerrado en 149 reactivos (23 jul 2026); los ejercicios de razonamiento de la página 158 quedan fuera por no ser de recuerdo literal. De la materia de Biología siguen sin empezar los capítulos 11, 12, 31, 32, 35, 36 y 37.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
@@ -2149,4 +2158,408 @@ De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y l
 
 ---
 
-**Reactivos en este archivo:** 124
+## Sub-lote 26 · La fermentación (p. 154)
+
+### 125
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se llaman los organismos que solo pueden obtener energía en presencia de oxígeno y que mueren cuando no disponen de él?
+
+- A. Aerobios estrictos
+- B. Anaerobios estrictos
+- C. Anaerobios facultativos
+- D. Aerobios facultativos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 154
+**Subtema:** glucólisis y respiración · fermentación
+
+Algunos organismos, llamados aerobios estrictos, solo pueden obtener energía de esta forma y, cuando no disponen de oxígeno, mueren.
+
+### 126
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se llaman los organismos que pueden pasar de una vía a la otra según la concentración de oxígeno en el medio?
+
+- A. Anaerobios facultativos
+- B. Aerobios estrictos
+- C. Anaerobios estrictos
+- D. Aerobios primarios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 154
+**Subtema:** glucólisis y respiración · fermentación
+
+Algunos organismos que pueden pasar de una vía a la otra según la concentración de oxígeno en el medio se denominan anaerobios facultativos.
+
+### 127
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué constituyen las vías en las que el aceptor final de electrones es un compuesto diferente del oxígeno?
+
+- A. La respiración anaeróbica
+- B. La respiración aeróbica
+- C. La fosforilación oxidativa
+- D. El acoplamiento quimiosmótico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 154
+**Subtema:** glucólisis y respiración · fermentación
+
+Estas vías, en las que el aceptor final de electrones es un compuesto diferente del oxígeno, constituyen la respiración anaeróbica.
+
+### 128
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se llama la formación de alcohol a partir de azúcar?
+
+- A. Fermentación alcohólica
+- B. Fermentación láctica
+- C. Respiración anaeróbica
+- D. Desaminación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 154
+**Subtema:** glucólisis y respiración · fermentación
+
+La formación de alcohol a partir de azúcar se llama fermentación alcohólica.
+
+### 129
+
+De acuerdo con el libro de Biología de Curtis, ¿cuál fue el primer proceso enzimático intensamente estudiado, aun cuando todavía no se había instalado el concepto de enzima?
+
+- A. La fermentación
+- B. La glucólisis
+- C. El ciclo de Krebs
+- D. La cadena respiratoria
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 154
+**Subtema:** glucólisis y respiración · fermentación
+
+Dada la importancia económica de la industria vitivinícola, la fermentación fue el primer proceso enzimático intensamente estudiado, aun cuando todavía no se había instalado el concepto de enzima.
+
+### 130
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se denominaban comúnmente las enzimas antes de que se conocieran sus efectos tan diversos?
+
+- A. "Fermentos"
+- B. "Catalizadores"
+- C. "Coenzimas"
+- D. "Zimógenos"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 154
+**Subtema:** glucólisis y respiración · fermentación
+
+De hecho, antes de que se conocieran sus efectos tan diversos, las enzimas se denominaban comúnmente "fermentos".
+
+### 131
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se llama la transformación del ácido pirúvico en ácido láctico?
+
+- A. Fermentación láctica
+- B. Fermentación alcohólica
+- C. Desaminación
+- D. Fosforilación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 154
+**Subtema:** glucólisis y respiración · fermentación
+
+La transformación del ácido pirúvico en ácido láctico se llama fermentación láctica.
+
+### 132
+
+De acuerdo con el libro de Biología de Curtis, ¿qué provoca la sensación de fatiga muscular durante el ejercicio intenso?
+
+- A. La acumulación de ácido láctico, que disminuye el pH de las células musculares y reduce la capacidad de las fibras para contraerse
+- B. El agotamiento total de las reservas de glucógeno del músculo
+- C. La detención de la glucólisis por falta de NAD⁺
+- D. La difusión del ácido pirúvico hacia la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 154
+**Subtema:** glucólisis y respiración · fermentación
+
+La acumulación de ácido láctico provoca que el pH de las células musculares disminuya y reduce la capacidad de las fibras musculares para contraerse, lo que provoca la sensación de fatiga muscular.
+
+---
+
+## Sub-lote 27 · El sentido de la fermentación y las otras vías (p. 155)
+
+### 133
+
+De acuerdo con el libro de Biología de Curtis, ¿qué reacción fundamental se produce durante la fermentación, si no se forma ATP?
+
+- A. La oxidación del NADH a NAD⁺, que recicla la molécula a su estado oxidado
+- B. La reducción del NAD⁺ a NADH, que aporta energía adicional
+- C. La formación de acetil-CoA a partir del ácido pirúvico
+- D. La síntesis de glucosa a partir del ácido láctico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 155
+**Subtema:** glucólisis y respiración · fermentación
+
+Durante el proceso de fermentación, no se forma ATP; es decir, la célula no obtiene energía adicional en este proceso. Sin embargo, se produce una reacción fundamental, que es la oxidación del NADH a NAD⁺, ya que recicla esta molécula a su estado oxidado que podrá así volver a participar en la vía glucolítica.
+
+### 134
+
+De acuerdo con el libro de Biología de Curtis, ¿qué sugiere el hecho de que la glucólisis no requiera O₂?
+
+- A. Que la vía glucolítica ha evolucionado de forma temprana en la historia metabólica de los seres vivos, antes de que el O₂ libre estuviese presente en la atmósfera
+- B. Que la glucólisis es una vía exclusiva de los organismos aerobios
+- C. Que la glucólisis apareció después del ciclo de Krebs
+- D. Que la glucólisis no puede ocurrir en organismos primitivos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 155
+**Subtema:** glucólisis y respiración · fermentación
+
+El hecho de que la glucólisis no requiera O₂ sugiere que la vía glucolítica ha evolucionado de forma temprana en la historia metabólica de los seres vivos, antes de que el O₂ libre estuviese presente en la atmósfera.
+
+### 135
+
+De acuerdo con el libro de Biología de Curtis, ¿qué fracción del ATP que puede generarse por procesos aeróbicos representan las dos moléculas de ATP de la glucólisis anaeróbica?
+
+- A. Alrededor del 5%
+- B. Alrededor del 40%
+- C. Alrededor del 2%
+- D. Alrededor del 10%
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 155
+**Subtema:** glucólisis y respiración · fermentación
+
+Aunque la glucólisis anaeróbica solo genera dos moléculas de ATP por cada molécula de glucosa procesada (una fracción muy pequeña, alrededor del 5% del ATP que puede generarse por procesos aeróbicos), ha sido y continúa siendo adecuada para las necesidades energéticas de muchos organismos.
+
+---
+
+## Sub-lote 28 · Otras vías catabólicas (pp. 155–156)
+
+### 136
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se conoce al ciclo de Krebs por su papel en la conexión de las distintas vías del metabolismo?
+
+- A. El gran centro de comunicaciones del metabolismo
+- B. La vía central de la biosíntesis
+- C. El principal transportador de energía
+- D. El punto de partida de la glucólisis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 155
+**Subtema:** glucólisis y respiración · otras vías catabólicas
+
+Este tipo de moléculas son transformadas por diferentes vías que también se conectan con el ciclo de Krebs, el gran centro de comunicaciones del metabolismo.
+
+### 137
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué componentes se escinden las grasas durante la digestión?
+
+- A. En glicerol y ácido graso
+- B. En aminoácidos y urea
+- C. En glucosa y ácido pirúvico
+- D. En acetil-CoA y NADH
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 155
+**Subtema:** glucólisis y respiración · otras vías catabólicas
+
+Las grasas, durante la digestión, se escinden en sus componentes glicerol y ácido graso.
+
+### 138
+
+De acuerdo con el libro de Biología de Curtis, ¿como qué entran los ácidos grasos al ciclo de Krebs?
+
+- A. Como acetil-CoA
+- B. Como gliceraldehído 3-fosfato
+- C. Como ácido pirúvico
+- D. Como aminoácidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 155
+**Subtema:** glucólisis y respiración · otras vías catabólicas
+
+Estos últimos son degradados a moléculas de dos carbonos y entran en el ciclo de Krebs como acetil-CoA. Por su parte, el glicerol puede convertirse en gliceraldehído 3-fosfato que, como hemos visto, es un intermediario de la glucólisis.
+
+### 139
+
+De acuerdo con el libro de Biología de Curtis, ¿qué proceso sufren los aminoácidos, en el cual se eliminan los grupos amino?
+
+- A. La desaminación
+- B. La fermentación
+- C. La fosforilación
+- D. La hidrólisis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 155
+**Subtema:** glucólisis y respiración · otras vías catabólicas
+
+Los aminoácidos pasan por un proceso de desaminación, en el cual se eliminan los grupos amino y queda un esqueleto de carbonos que puede convertirse en un grupo acetilo o bien en uno de los compuestos de la vía glucolítica o del ciclo de Krebs.
+
+### 140
+
+De acuerdo con el libro de Biología de Curtis, ¿cómo se excretan finalmente los grupos amino eliminados, si no se reutilizan?
+
+- A. Como compuestos nitrogenados, por ejemplo, la urea
+- B. Como acetil-CoA
+- C. Como dióxido de carbono
+- D. Como ácido láctico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 155
+**Subtema:** glucólisis y respiración · otras vías catabólicas
+
+Los grupos amino eliminados, si no se reutilizan, finalmente se excretan como compuestos nitrogenados (p. ej., la urea).
+
+---
+
+## Sub-lote 29 · Vías de síntesis: autótrofas y heterótrofas (p. 156)
+
+### 141
+
+De acuerdo con el libro de Biología de Curtis, ¿de qué dependen las células heterótrofas para obtener las moléculas orgánicas esenciales para la vida?
+
+- A. De fuentes externas
+- B. De la síntesis a partir de moléculas inorgánicas simples
+- C. De la energía de la luz solar
+- D. Del reciclaje interno de sus propios monosacáridos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 156
+**Subtema:** glucólisis y respiración · vías de síntesis
+
+Las células heterótrofas dependen de fuentes externas para obtener las moléculas orgánicas que son esenciales para la vida.
+
+### 142
+
+De acuerdo con el libro de Biología de Curtis, ¿a partir de qué sintetizan monosacáridos las células autótrofas?
+
+- A. A partir de moléculas inorgánicas simples y de una fuente externa de energía
+- B. A partir de moléculas orgánicas obtenidas de fuentes externas
+- C. A partir del ácido láctico producido en la fermentación
+- D. A partir de los aminoácidos de las proteínas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 156
+**Subtema:** glucólisis y respiración · vías de síntesis
+
+Las células autótrofas, por el contrario, sintetizan monosacáridos a partir de moléculas inorgánicas simples y de una fuente externa de energía.
+
+> Los reactivos 141 y 142 son el par obligado: las **heterótrofas** dependen de
+> fuentes externas y las **autótrofas** sintetizan a partir de inorgánicas. Cada
+> una es el distractor de la otra.
+
+### 143
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué se diferencian las vías biosintéticas de las catabólicas, aunque son semejantes?
+
+- A. Enzimas diferentes controlan los diversos pasos y hay varios puntos decisivos del anabolismo que difieren de los procesos catabólicos
+- B. No requieren un suministro constante de moléculas orgánicas
+- C. Ocurren únicamente en las células autótrofas
+- D. No producen ni consumen energía
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 156
+**Subtema:** glucólisis y respiración · vías de síntesis
+
+Sin embargo, las vías biosintéticas, aunque son semejantes a las catabólicas, se diferencian de ellas. Enzimas diferentes controlan los diversos pasos y hay varios puntos decisivos del anabolismo que difieren de los de los procesos catabólicos.
+
+---
+
+## Sub-lote 30 · Biología en contexto social: el cianuro (pp. 145, 157)
+
+> Apartado "Biología en contexto social". Es contenido histórico-social ligado a
+> la cadena respiratoria, no biología pura. Se cubre con reactivos de dato
+> concreto. **Los ejercicios de la p. 158** ("Argumente por qué…", "Compare el
+> rendimiento…") son de razonamiento, no de recuerdo literal, y quedan fuera.
+
+### 144
+
+De acuerdo con el libro de Biología de Curtis, ¿qué sustancia, presente en alta concentración en las almendras amargas, libera ácido cianhídrico al degradarse con la saliva?
+
+- A. La amigdalina
+- B. El benzaldehído
+- C. La riboflavina
+- D. El ácido láctico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 145
+**Subtema:** glucólisis y respiración · contexto social
+
+Las semillas de las almendras poseen en su composición una sustancia llamada amigdalina. Cuando se comen estas almendras, la amigdalina se degrada con la saliva y libera ácido cianhídrico que, en nuestro sistema digestivo, se transforma rápidamente en cianuro, uno de los venenos más potentes conocidos.
+
+### 145
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué interfiere el cianuro liberado por la ingesta de almendras amargas, provocando asfixia repentina letal?
+
+- A. En la cadena respiratoria
+- B. En la glucólisis
+- C. En la fermentación láctica
+- D. En la digestión de las proteínas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 145
+**Subtema:** glucólisis y respiración · contexto social
+
+La ingesta de 20 de estas almendras por un adulto o 10 por un niño, produce asfixia repentina letal, ya que el cianuro liberado interfiere en la cadena respiratoria.
+
+### 146
+
+De acuerdo con el libro de Biología de Curtis, ¿qué producto de la degradación de la amigdalina le da a las almendras amargas su sabor, razón por la cual desistimos de comerlas?
+
+- A. El benzaldehído
+- B. La amigdalina
+- C. El ácido cianhídrico
+- D. El cianuro
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 145
+**Subtema:** glucólisis y respiración · contexto social
+
+Otro de los productos de la degradación de la amigdalina es el benzaldehído, que es lo que les da el sabor amargo, razón por la cual desistimos de comerlas.
+
+### 147
+
+De acuerdo con el libro de Biología de Curtis, ¿en qué conflicto tiene su origen el empleo de sustancias químicas con fines bélicos o "guerra química"?
+
+- A. En la Primera Guerra Mundial
+- B. En la Segunda Guerra Mundial
+- C. En la Guerra Fría
+- D. En la represión del pueblo kurdo en 1988
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 157
+**Subtema:** glucólisis y respiración · contexto social
+
+El empleo de sustancias químicas con fines bélicos o "guerra química", como se conoce hoy en día, tiene su origen en los campos de batalla de la Primera Guerra Mundial y su uso se ha extendido desde entonces.
+
+### 148
+
+De acuerdo con el libro de Biología de Curtis, ¿bajo qué nombre fue utilizado el ácido cianhídrico en las cámaras de gas del régimen nazi?
+
+- A. ZIKLON B o ácido prúsico
+- B. Amigdalina
+- C. Benzaldehído
+- D. Gas mostaza
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 157
+**Subtema:** glucólisis y respiración · contexto social
+
+En efecto, el ácido cianhídrico fue utilizado en las cámaras de gas del régimen nazi bajo el nombre de ZIKLON B o ácido prúsico.
+
+### 149
+
+De acuerdo con el libro de Biología de Curtis, ¿por qué resultan letales las armas químicas?
+
+- A. Porque afectan, en última instancia, algún aspecto clave del metabolismo celular
+- B. Porque destruyen directamente el material genético de las células
+- C. Porque impiden la digestión de los alimentos
+- D. Porque bloquean la síntesis de proteínas en los ribosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 157
+**Subtema:** glucólisis y respiración · contexto social
+
+Las armas químicas resultan letales porque afectan, en última instancia, algún aspecto clave del metabolismo celular.
+
+---
+
+**Reactivos en este archivo:** 149
