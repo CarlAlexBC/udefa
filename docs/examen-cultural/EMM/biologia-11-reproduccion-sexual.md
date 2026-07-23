@@ -44,19 +44,30 @@ guisante *Pisum sativum*, el diseño de sus cruzamientos (hibridación, generaci
 P/F1/F2, líneas puras), los caracteres dominantes y recesivos con la relación 3:1,
 la primera ley de Mendel o principio de segregación, y el vocabulario genético
 moderno: genotipo, fenotipo, alelos, homocigosis y heterocigosis, dominancia, el
-tablero de Punnett, el cruzamiento dihíbrido y la segunda ley de Mendel o
+tablero de Punnett, la segregación de los alelos con la relación genotípica 1:2:1
+y el cruzamiento de prueba o *test cross* (figuras 11-17, 11-18 y 11-19), el
+cruzamiento dihíbrido y la segunda ley de Mendel o
 principio de distribución independiente con su relación 9:3:3:1, y la teoría
 cromosómica de Sutton (el término *elemente*, el gen en los cromosomas).
 
 Las páginas 217 y 219 son íntegramente figuras (11-6, 11-10 y 11-11), y la 222
-trae la biografía de Mendel de la que sí salieron reactivos.
+trae la biografía de Mendel de la que sí salieron reactivos. De las figuras 11-17,
+11-18 y 11-19 (pp. 227-228 — segregación de alelos, principio de segregación con
+la relación 1:2:1 y el cruzamiento de prueba) sí salieron reactivos: son un bolsón
+que el chat anterior había saltado entre la 227 y la 228, ya cubierto.
 
-**Sobre el nombre de las unidades de Mendel:** la palabra aparece dos veces en el
-extractor como "elemente" (pp. 222 y 229), pero ambas salieron de un renglón que
-el extractor corta, y el término correcto podría ser "elementen". **No se escribió
-reactivo sobre ese término** hasta recortarlo a alta resolución y confirmarlo.
+**Sobre el nombre de las unidades de Mendel:** resuelto. Se recortó a 550 dpi
+(`crop.py`, hoja 276) y el libro escribe *elemente*, en cursiva; aparece así tres
+veces (pp. 222, 229 y 230). Sí se escribieron reactivos con ese término (80 y 83).
 
-**Pendiente:** del capítulo 11 falta de la página impresa 231 en adelante (hoja 277+): el cruzamiento de prueba (test cross), lo que reste de genética mendeliana, el recuadro social de la página 210 y los ensayos 11-1, 11-2 y 11-3. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37.
+**Pendiente:** del capítulo 11 falta de la página impresa 231 en adelante
+(hoja 277+): el Ensayo 11-3 (p. 231, "¿Qué estudiaba Mendel en el jardín de la
+abadía?"), y la continuación de la Sección III — la teoría cromosómica y
+Morgan/*Drosophila* (pp. 232-233), las mutaciones de De Vries (p. 233), el sexo
+biológico y los cromosomas sexuales X/Y con hetero/homogaméticos (pp. 233-235) y
+el Ensayo 11-4 (intersexualidad, pp. 235-236). Falta también el recuadro social de
+la página 210 y los ensayos 11-1 y 11-2. De la materia de Biología siguen sin
+empezar los capítulos 12, 31, 32, 35, 36 y 37.
 
 ## Cómo se escriben estos reactivos
 
@@ -1449,4 +1460,216 @@ Este principio establece que los alelos que corresponden a genes diferentes se d
 
 ---
 
-**Reactivos en este archivo:** 85
+## Sub-lote 24 · El cruzamiento de prueba (test cross) (pp. 227-228)
+
+### 86
+
+De acuerdo con el libro de Biología de Curtis, ¿qué se puede conocer al realizar un cruzamiento de prueba?
+
+- A. El genotipo del progenitor del fenotipo dominante
+- B. El fenotipo del progenitor homocigótico recesivo
+- C. El número de gametos que produce el híbrido
+- D. La proporción de la relación 9:3:3:1
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · cruzamiento de prueba
+
+Cuando se realiza un experimento de este tipo, conocido como cruzamiento de prueba, se puede conocer el genotipo del progenitor del fenotipo dominante.
+
+### 87
+
+De acuerdo con el libro de Biología de Curtis, ¿entre qué dos individuos se realiza un cruzamiento de prueba?
+
+- A. Entre uno de fenotipo dominante y genotipo desconocido y otro que se sabe que es homocigótico para el alelo recesivo
+- B. Entre dos individuos de fenotipo dominante y genotipo desconocido
+- C. Entre un individuo homocigótico dominante y otro heterocigótico
+- D. Entre dos individuos homocigóticos para el alelo recesivo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · cruzamiento de prueba
+
+Esto no es más que un cruzamiento experimental entre un individuo que tiene el fenotipo dominante para una característica dada (y genotipo desconocido) y otro individuo que se sabe que es homocigótico para el alelo recesivo.
+
+### 88
+
+De acuerdo con el libro de Biología de Curtis, ¿qué hipótesis se pone a prueba al cruzar plantas F1 de flores púrpura con plantas de flores blancas?
+
+- A. Que los alelos aparecen en pares y que ambos alelos de un par segregan durante la formación de los gametos
+- B. Que los alelos de genes diferentes se distribuyen en forma independiente
+- C. Que el alelo recesivo surge por una mutación del alelo dominante
+- D. Que los cromosomas homólogos se aparean durante la meiosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · cruzamiento de prueba
+
+Para probar la hipótesis de que los alelos aparecen en pares y de que ambos alelos de un par segregan durante la formación de los gametos, es necesario realizar un experimento adicional: cruzar plantas F1 de flores púrpura (obtenidas a partir de un cruzamiento entre plantas puras de flores púrpura y plantas de flores blancas) con plantas de flores blancas.
+
+### 89
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-19, ¿por qué se sabe con certeza que una planta de guisante de flores blancas es homocigótica para el alelo recesivo (bb)?
+
+- A. Porque si tuviera un alelo B se expresaría como púrpura
+- B. Porque las flores blancas siempre son heterocigóticas
+- C. Porque el alelo b es dominante sobre el alelo B
+- D. Porque solo produce gametos con el alelo B
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 228
+**Subtema:** reproducción sexual · cruzamiento de prueba
+
+Si una planta de guisante tiene flores blancas, sabemos con certeza que es homocigótica para el alelo recesivo (bb), pues si tuviera un alelo B se expresaría como púrpura.
+
+### 90
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-19, ¿qué genotipos puede tener una planta de guisante con flor púrpura?
+
+- A. El genotipo Bb o BB
+- B. Solamente el genotipo BB
+- C. Solamente el genotipo bb
+- D. El genotipo bb o Bb
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 228
+**Subtema:** reproducción sexual · cruzamiento de prueba
+
+Pero una planta de guisante con flor púrpura puede tener el genotipo Bb o BB.
+
+### 91
+
+De acuerdo con el libro de Biología de Curtis, en un cruzamiento de prueba, si se obtienen plantas con dos fenotipos diferentes, ¿cómo era el progenitor de fenotipo dominante?
+
+- A. Era heterocigótico
+- B. Era homocigótico dominante
+- C. Era homocigótico recesivo
+- D. Era una línea pura para esa característica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 228
+**Subtema:** reproducción sexual · cruzamiento de prueba
+
+Si se obtienen plantas con dos fenotipos diferentes, entonces, el progenitor de fenotipo dominante era heterocigótico.
+
+### 92
+
+De acuerdo con el libro de Biología de Curtis, en un cruzamiento de prueba, si en la descendencia aparece un solo fenotipo, ¿cómo era el progenitor de fenotipo dominante?
+
+- A. Era homocigótico para la característica en estudio
+- B. Era heterocigótico para la característica en estudio
+- C. Portaba un alelo dominante y uno recesivo
+- D. Era homocigótico recesivo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 228
+**Subtema:** reproducción sexual · cruzamiento de prueba
+
+Si aparece un solo fenotipo, entonces, el progenitor era homocigótico para la característica en estudio.
+
+> Par contrapuesto (reactivos 91 y 92): en el cruzamiento de prueba, **dos
+> fenotipos** en la descendencia delatan un progenitor **heterocigótico**, y **un
+> solo fenotipo**, uno **homocigótico**. Cada regla es el distractor de la otra.
+
+---
+
+## Sub-lote 25 · La segregación de los alelos y la relación 1:2:1 (figs. 11-17 y 11-18, pp. 227-228)
+
+### 93
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-17, ¿qué gametos produce una planta homocigótica para flores púrpura (BB)?
+
+- A. Solo óvulos o granos de polen con el alelo para flor púrpura (B)
+- B. La mitad de los gametos con el alelo B y la otra mitad con el alelo b
+- C. Solo óvulos o granos de polen con el alelo para flor blanca (b)
+- D. Gametos que llevan a la vez el alelo B y el alelo b
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · segregación de alelos
+
+Una planta de guisante homocigótica para flores púrpura (BB) solo produce óvulos o granos de polen con el alelo para flor púrpura (B).
+
+### 94
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-17, ¿qué proporción de gametos con cada alelo produce una planta heterocigótica (Bb)?
+
+- A. La mitad de los gametos con el alelo B y la otra mitad con el alelo b
+- B. Todos los gametos con el alelo B
+- C. Tres cuartos con el alelo B y un cuarto con el alelo b
+- D. Todos los gametos con el alelo b
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 227
+**Subtema:** reproducción sexual · segregación de alelos
+
+Esta planta produce la mitad de los gametos con el alelo B y la otra mitad con el alelo b, ya sea que se trate de óvulos o granos de polen.
+
+### 95
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-18, en el cruzamiento entre una planta BB y otra bb, ¿cuál es el fenotipo y el genotipo de la generación F1?
+
+- A. Fenotipo púrpura, pero genotipo Bb
+- B. Fenotipo blanco y genotipo bb
+- C. Fenotipo púrpura y genotipo BB
+- D. Fenotipo púrpura y genotipo bb
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 228
+**Subtema:** reproducción sexual · principio de segregación
+
+El fenotipo de la progenie –la generación F1– es púrpura, pero su genotipo es Bb.
+
+### 96
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-18, ¿cuántos tipos de gametos produce la F1 heterocigótica y en qué proporción?
+
+- A. Cuatro tipos —granos de polen B, óvulos B, granos de polen b y óvulos b— en proporciones iguales
+- B. Dos tipos —óvulos B y granos de polen b— en proporciones iguales
+- C. Un solo tipo de gameto, que lleva a la vez el alelo B y el alelo b
+- D. Cuatro tipos de gametos en la relación 9:3:3:1
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 228
+**Subtema:** reproducción sexual · principio de segregación
+
+La F1 heterocigótica produce cuatro tipos de gametos: granos de polen B, óvulos B, granos de polen b y óvulos b, en proporciones iguales.
+
+### 97
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-18, cuando la F1 heterocigótica (Bb) se autopoliniza, ¿cuál es la relación genotípica de la descendencia?
+
+- A. La relación 1:2:1 (1/4 BB, 2/4 Bb y 1/4 bb)
+- B. La relación 3:1 (tres dominantes a un recesivo)
+- C. La relación 9:3:3:1
+- D. La relación 1:1 (la mitad BB y la mitad bb)
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 228
+**Subtema:** reproducción sexual · principio de segregación
+
+Los óvulos y los granos de polen B y b se combinan al azar y forman, en promedio, 1/4 BB (púrpura), 2/4 (o 1/2) Bb (púrpura) y 1/4 bb (blanco); lo que significa una relación genotípica de 1:2:1.
+
+### 98
+
+De acuerdo con el libro de Biología de Curtis, según la figura 11-18, ¿qué relación fenotípica da cuenta la relación genotípica 1:2:1?
+
+- A. Tres dominantes (púrpura) a un recesivo (blanco), que se expresa como 3:1
+- B. Dos dominantes a dos recesivos, que se expresa como 2:2
+- C. Un dominante a un recesivo, que se expresa como 1:1
+- D. Nueve dominantes a un recesivo, que se expresa como 9:1
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 228
+**Subtema:** reproducción sexual · principio de segregación
+
+Esta relación genotípica da cuenta de la relación fenotípica: tres dominantes (púrpura) a un recesivo (blanco), que se expresa como 3:1.
+
+> Distingue la **relación genotípica 1:2:1** (reactivo 97) de la **relación
+> fenotípica 3:1** (reactivo 98): salen de la misma cruza (Bb × Bb, fig. 11-18) y
+> son la trampa clásica. La 1:2:1 cuenta genotipos (BB, Bb, bb); la 3:1 cuenta lo
+> que se ve (púrpura contra blanco).
+
+---
+
+**Reactivos en este archivo:** 98
