@@ -57,9 +57,16 @@ ARN: la maduración y las ribozimas, la longitud del ARNm (500 a 10 000
 ribonucleótidos), la traducción cotranscripcional en procariotas frente al
 procesamiento en el núcleo eucariota (transcrito primario / ARNm maduro), y los tres
 pasos de la maduración del ARNm (capuchón en el 5', cola de poli-A en el 3', y corte
-y empalme o *splicing* de intrones y exones, fig. 12-7).
+y empalme o *splicing* de intrones y exones, fig. 12-7). De las **páginas 253-254**
+se cubre el ARN ribosomal y los ribosomas (el nucléolo, las dos subunidades, los
+ribosomas como "fábricas" de proteínas, los conteos en procariotas y eucariotas), el
+ARN de transferencia (70 a 90 ribonucleótidos, la hoja de trébol y la forma de L, la
+secuencia CCA del extremo 3' y el aminoacil-ARNt, fig. 12-8), el *splicing*
+alternativo, la definición de traducción, y el arranque del código genético (Gamow,
+los 20 aminoácidos frente a los cuatro nucleótidos, el cálculo 4ⁿ = 64 y el código
+de tripletes).
 
-**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 253 (hoja 299) en adelante. Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 255 (hoja 301) en adelante (el desciframiento del código: Nirenberg y Matthaei, la tabla de codones, los codones de inicio y de fin). Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -965,4 +972,260 @@ El ARNm sufre un proceso de corte y eliminación de secuencias, llamadas introne
 
 ---
 
-**Reactivos en este archivo:** 56
+## Sub-lote 11 · El ARN ribosomal y los ribosomas (p. 253)
+
+### 57
+
+De acuerdo con el libro de Biología, ¿en qué compartimento del núcleo se sintetiza el pre-ARNr y se ensamblan las subunidades ribosomales?
+
+- A. En el nucléolo
+- B. En la mitocondria
+- C. En el retículo endoplásmico
+- D. En el aparato de Golgi
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 253
+**Subtema:** flujo de información genética · ARN ribosomal
+
+El armado de las subunidades ribosomales se produce en un compartimento particular del núcleo llamado nucléolo. Allí se encuentran muchas copias del gen que codifica el pre-ARNr.
+
+### 58
+
+De acuerdo con el libro de Biología, ¿por qué se dice que los ribosomas son las "fábricas" de proteínas?
+
+- A. Porque contienen la enzima encargada de formar las uniones peptídicas entre los aminoácidos
+- B. Porque copian la información del ADN a una molécula de ARN
+- C. Porque transportan los aminoácidos hasta el núcleo
+- D. Porque agregan el capuchón al ARNm
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 253
+**Subtema:** flujo de información genética · ARN ribosomal
+
+Uno de los motivos por los que se dice que los ribosomas son las "fábricas" de proteínas es porque contienen la enzima encargada de formar las uniones peptídicas entre los aminoácidos.
+
+### 59
+
+De acuerdo con el libro de Biología, ¿por cuántas subunidades está constituido cada ribosoma y cómo se llaman?
+
+- A. Por dos subunidades de diferente tamaño: la subunidad mayor y la subunidad menor
+- B. Por una sola subunidad
+- C. Por tres subunidades del mismo tamaño
+- D. Por cuatro subunidades
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 253
+**Subtema:** flujo de información genética · ARN ribosomal
+
+Cada ribosoma está constituido por dos subunidades de diferente tamaño llamadas simplemente subunidad mayor y subunidad menor.
+
+### 60
+
+De acuerdo con el libro de Biología, ¿qué se necesita para que una subunidad menor se asocie con una mayor y se forme un ribosoma activo?
+
+- A. El encuentro con un ARNm; mientras no ocurra, las subunidades permanecen separadas e inactivas
+- B. El encuentro con un ARN de transferencia
+- C. La presencia de un nucléolo en el citoplasma
+- D. La adición de un capuchón a las subunidades
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 253
+**Subtema:** flujo de información genética · ARN ribosomal
+
+Para que una subunidad menor se asocie con una subunidad mayor y se forme un ribosoma activo, será necesario el encuentro con un ARNm. Mientras este encuentro no ocurra, las subunidades permanecerán separadas e inactivas.
+
+### 61
+
+De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, ¿cuántos ribosomas hay en una célula procariota y en una eucariota?
+
+- A. Miles en una procariota y millones en una eucariota
+- B. Millones en una procariota y miles en una eucariota
+- C. Uno solo en cada tipo de célula
+- D. Ninguno en las procariotas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 253
+**Subtema:** flujo de información genética · ARN ribosomal
+
+En una célula procariota hay miles de ellos y en una eucariota el número asciende a millones.
+
+---
+
+## Sub-lote 12 · El ARN de transferencia (fig. 12-8, p. 253)
+
+### 62
+
+De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, ¿de qué tamaño son las moléculas de ARN de transferencia?
+
+- A. Relativamente pequeñas, de 70 a 90 ribonucleótidos
+- B. Muy grandes, de 500 a 10 000 ribonucleótidos
+- C. De un solo ribonucleótido
+- D. De 1000 a 5000 ribonucleótidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 253
+**Subtema:** flujo de información genética · ARN de transferencia
+
+Los ARN de transferencia son moléculas relativamente pequeñas, de 70 a 90 ribonucleótidos.
+
+### 63
+
+De acuerdo con el libro de Biología, ¿cómo se conocen la estructura secundaria y la estructura tridimensional final del ARN de transferencia?
+
+- A. La secundaria como hoja de trébol y la tridimensional final en forma de L
+- B. La secundaria en forma de L y la tridimensional como hoja de trébol
+- C. Ambas en forma de doble hélice
+- D. Ambas en forma de campana
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 253
+**Subtema:** flujo de información genética · ARN de transferencia
+
+Esta estructura secundaria característica se conoce como hoja de trébol. Otros plegamientos determinan una estructura tridimensional final en forma de L.
+
+### 64
+
+De acuerdo con el libro de Biología, ¿qué secuencia tienen todos los ARNt maduros en su extremo 3', y qué función cumple esa región?
+
+- A. La secuencia CCA; es el sitio de unión a un aminoácido
+- B. La secuencia AUG; es donde comienza la traducción
+- C. La secuencia TATA; es donde se une la ARN polimerasa
+- D. La cola de poli-A; regula la estabilidad de la molécula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 253
+**Subtema:** flujo de información genética · ARN de transferencia
+
+Todos los ARNt una vez maduros tienen en su extremo 3' la secuencia CCA. Esta región de la molécula es el sitio de unión a un aminoácido.
+
+### 65
+
+De acuerdo con el libro de Biología, ¿cómo se llama el complejo que se forma cuando un ARNt se une a un aminoácido?
+
+- A. Aminoacil-ARNt
+- B. Pre-ARNt
+- C. Ribosoma
+- D. Transcrito primario
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 253
+**Subtema:** flujo de información genética · ARN de transferencia
+
+La unión de un ARNt y un aminoácido forma un complejo que se llama aminoacil-ARNt.
+
+---
+
+## Sub-lote 13 · El *splicing* alternativo y la definición de traducción (pp. 252-253)
+
+### 66
+
+De acuerdo con el libro de Biología, ¿qué permite el corte y empalme alternativo (*splicing* alternativo)?
+
+- A. Obtener moléculas de ARNm maduro diferentes a partir de transcritos primarios originalmente idénticos, dando polipéptidos con distintas funciones
+- B. Obtener siempre exactamente el mismo ARNm maduro
+- C. Copiar el ADN a ARN sin ningún error
+- D. Unir dos ribosomas en uno solo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 253
+**Subtema:** flujo de información genética · maduración del ARNm
+
+Este corte y empalme alternativo permite obtener moléculas de ARNm maduro diferentes a partir de moléculas de ARNm transcritos primarios originalmente idénticos, lo cual da finalmente como resultado polipéptidos con distintas funciones.
+
+### 67
+
+De acuerdo con el libro de Biología, ¿por qué el proceso de síntesis de proteínas recibe el nombre de traducción?
+
+- A. Porque la información de la secuencia de nucleótidos de un ARNm es decodificada para sintetizar una molécula totalmente diferente: un polipéptido de aminoácidos
+- B. Porque copia la información del ADN a una molécula de ARN
+- C. Porque duplica la molécula de ADN
+- D. Porque corta los intrones del ARNm
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 253
+**Subtema:** flujo de información genética · traducción
+
+El proceso de traducción recibe este nombre debido a que la información contenida en la secuencia de nucleótidos de un ARN mensajero es decodificada de modo que se sintetiza otra molécula totalmente diferente: un polipéptido formado por una secuencia de aminoácidos.
+
+---
+
+## Sub-lote 14 · El código genético (p. 254)
+
+### 68
+
+De acuerdo con el libro de Biología, ¿a qué remite el concepto de código genético?
+
+- A. Al sistema de símbolos y reglas que define la relación entre el lenguaje de los ácidos nucleicos y el de las proteínas
+- B. Al número de cromosomas de una especie
+- C. A la secuencia de aminoácidos de una sola proteína
+- D. Al conjunto de todos los genes de un organismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 254
+**Subtema:** flujo de información genética · código genético
+
+El concepto de código genético remite al sistema de símbolos y reglas que define la relación entre el lenguaje de los ácidos nucleicos y el de las proteínas.
+
+### 69
+
+De acuerdo con el libro de Biología, ¿quién, mediante cálculos matemáticos, contribuyó a descifrar el código genético?
+
+- A. El astrónomo estadounidense de origen ruso George Gamow
+- B. El botánico holandés Hugo de Vries
+- C. El monje agustino Gregor Mendel
+- D. El virólogo estadounidense Howard Temin
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 254
+**Subtema:** flujo de información genética · código genético
+
+Uno de ellos fue el astrónomo estadounidense de origen ruso George Gamow (1904-1968) quien, mediante cálculos matemáticos, contribuyó a su dilucidación.
+
+### 70
+
+De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, ¿cuántos tipos de aminoácidos forman las proteínas y cuántos tipos de nucleótidos tienen el ADN y el ARN?
+
+- A. 20 tipos de aminoácidos y solo cuatro tipos de nucleótidos
+- B. Cuatro tipos de aminoácidos y 20 tipos de nucleótidos
+- C. 64 tipos de aminoácidos y cuatro tipos de nucleótidos
+- D. 20 tipos de aminoácidos y 20 tipos de nucleótidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 254
+**Subtema:** flujo de información genética · código genético
+
+Las proteínas están conformadas por combinaciones diversas de 20 tipos de aminoácidos, pero el ADN y el ARN tienen solo cuatro tipos de nucleótidos, de acuerdo con su base nitrogenada.
+
+### 71
+
+De acuerdo con el libro de Biología, según el razonamiento de Gamow, ¿por qué al menos tres nucleótidos en secuencia deben especificar cada aminoácido?
+
+- A. Porque las combinaciones de dos nucleótidos son solo 16 (insuficiente) y las de tres son 64 (más que suficiente)
+- B. Porque las combinaciones de dos nucleótidos son 64
+- C. Porque un solo nucleótido permite 20 combinaciones
+- D. Porque las combinaciones de tres nucleótidos son solo 16
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 254
+**Subtema:** flujo de información genética · código genético
+
+La cantidad de combinaciones de nucleótidos tomados de a dos es 16, un número aún insuficiente. Por lo tanto, por lo menos tres nucleótidos en secuencia debían especificar cada aminoácido. Las combinaciones de nucleótidos tomados de a tres son 64, lo cual, claramente, es más que suficiente.
+
+### 72
+
+De acuerdo con el libro de Biología, ¿cuándo se comprobó la hipótesis del código de tres nucleótidos o código de tripletes?
+
+- A. Cuando el código finalmente se descifró, una década después de que Watson y Crick publicaran su modelo de la estructura del ADN
+- B. En el mismo momento en que Gamow lo propuso
+- C. Antes de que se conociera la estructura del ADN
+- D. Nunca llegó a comprobarse
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 254
+**Subtema:** flujo de información genética · código genético
+
+La idea de un código de tres nucleótidos o código de tripletes fue ampliamente adoptada. Sin embargo, esta hipótesis solo fue comprobada cuando el código finalmente se descifró, una década después de que Watson y Crick publicaron su modelo de la estructura del ADN.
+
+---
+
+**Reactivos en este archivo:** 72
