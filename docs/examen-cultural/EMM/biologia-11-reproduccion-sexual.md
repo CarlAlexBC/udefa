@@ -109,7 +109,7 @@ convirtió en reactivos, y no por olvido:
 El capítulo 11 termina en la p. 243 (la 244 en blanco, la 245 abre el capítulo 12,
 "El flujo de información genética").
 
-**Pendiente:** el capítulo 11 está cerrado en 162 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37, y este archivo —el último capítulo escrito— sostiene ese pendiente hasta que exista el `.md` del capítulo 12.
+**Pendiente:** ninguno. El capítulo 11 está cerrado en 162 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 12 (`biologia-12-flujo-informacion-genetica.md`).
 
 > **No renombres ni partas en viñetas este `**Pendiente:**`.** El generador de
 > `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el primer
