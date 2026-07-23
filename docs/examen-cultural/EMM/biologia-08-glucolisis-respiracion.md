@@ -82,7 +82,7 @@ Cubiertas las páginas impresas **145 a 158**:
 - El apartado "Biología en contexto social": el cianuro de las almendras
   amargas y su uso como arma química (páginas 145 y 157).
 
-**Pendiente:** el capítulo 8 está cerrado en 149 reactivos (23 jul 2026); los ejercicios de razonamiento de la página 158 quedan fuera por no ser de recuerdo literal. De la materia de Biología siguen sin empezar los capítulos 11, 12, 31, 32, 35, 36 y 37.
+**Pendiente:** ninguno. El capítulo 8 está cerrado en 149 reactivos (23 jul 2026); los ejercicios de razonamiento de la página 158 quedan fuera por no ser de recuerdo literal. Lo que falta de Biología lo declara el archivo del último capítulo escrito — hoy, el capítulo 11.
 
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón

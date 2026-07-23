@@ -107,8 +107,15 @@ convirtió en reactivos, y no por olvido:
   categoría, p. 234), por ser la definición más escueta; vive como distractor.
 
 El capítulo 11 termina en la p. 243 (la 244 en blanco, la 245 abre el capítulo 12,
-"El flujo de información genética"). De la materia de Biología siguen sin empezar
-los capítulos 12, 31, 32, 35, 36 y 37.
+"El flujo de información genética").
+
+**Pendiente:** el capítulo 11 está cerrado en 162 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. De la materia de Biología siguen sin empezar los capítulos 12, 31, 32, 35, 36 y 37, y este archivo —el último capítulo escrito— sostiene ese pendiente hasta que exista el `.md` del capítulo 12.
+
+> **No renombres ni partas en viñetas este `**Pendiente:**`.** El generador de
+> `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el primer
+> renglón en blanco; si desaparece, Biología se reporta como cerrada, y un pendiente
+> que empieza con "ninguno" también la cierra. Por eso el último capítulo escrito
+> sostiene, en un solo párrafo, la lista de los que faltan.
 
 ## Cómo se escriben estos reactivos
 
