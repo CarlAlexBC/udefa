@@ -49,9 +49,17 @@ sola ARN polimerasa y los eucariotas tres (I → ARNr, II → ARNm, III → ARNt
 cadena molde leída de 3' a 5' y la antimolde sin función; la burbuja de
 transcripción; el reemplazo de la timina por uracilo; los enlaces fosfodiéster en
 dirección 5' a 3'; las topoisomerasas y el superenrollamiento; el fin de la
-transcripción; y la fig. 12-4 (adición en el extremo 3').
+transcripción; y la fig. 12-4 (adición en el extremo 3'). De las **páginas 251-252**
+se cubre el cierre de la transcripción (la cadena codificante o antimolde, la
+amplificación, que las ARN polimerasas no corrigen errores y que ese error no es
+heredable, la regulación en unicelulares y pluricelulares) y los distintos tipos de
+ARN: la maduración y las ribozimas, la longitud del ARNm (500 a 10 000
+ribonucleótidos), la traducción cotranscripcional en procariotas frente al
+procesamiento en el núcleo eucariota (transcrito primario / ARNm maduro), y los tres
+pasos de la maduración del ARNm (capuchón en el 5', cola de poli-A en el 3', y corte
+y empalme o *splicing* de intrones y exones, fig. 12-7).
 
-**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 251 (hoja 297) en adelante. Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 12 está EN CURSO; sigue desde la página impresa 253 (hoja 299) en adelante. Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -730,4 +738,231 @@ Los ribonucleótidos se adicionan en el extremo 3' del ARN naciente, previa elim
 
 ---
 
-**Reactivos en este archivo:** 42
+## Sub-lote 8 · El cierre de la transcripción: cadena codificante, amplificación y errores (p. 251)
+
+### 43
+
+De acuerdo con el libro de Biología, cuando el producto de la transcripción es un ARNm, ¿cómo se llama también la cadena antimolde y para qué sirve?
+
+- A. Cadena codificante; es la que un científico usa para comunicar la secuencia específica de ese gen
+- B. Cadena molde; es la que lee la ARN polimerasa
+- C. Cadena promotora; es la que señala el inicio de la transcripción
+- D. Cadena terminadora; es la que señala el fin de la transcripción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 251
+**Subtema:** flujo de información genética · transcripción
+
+En el caso particular de que el producto obtenido sea un ARNm, el que codifica un polipéptido, la cadena antimolde es llamada también codificante y es la que utilizará, por ejemplo, un científico si desea comunicar la secuencia específica de ese gen.
+
+### 44
+
+De acuerdo con el libro de Biología, dado que la transcripción no altera la estructura del ADN, ¿qué puede ocurrir con un gen determinado una vez dadas las condiciones para transcribirse?
+
+- A. Puede transcribirse muchas veces, obteniéndose muchas moléculas de ARN iguales (un evento de amplificación)
+- B. Solo puede transcribirse una única vez
+- C. Se destruye inmediatamente después de transcribirse
+- D. Se convierte directamente en proteína
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 251
+**Subtema:** flujo de información genética · transcripción
+
+La transcripción no altera la estructura del ADN; por ello, una vez que están dadas las condiciones para que un gen determinado se transcriba, este proceso puede ocurrir muchas veces, obteniéndose así muchas moléculas de ARN iguales. Esto constituye un pequeño evento de amplificación.
+
+### 45
+
+De acuerdo con el libro de Biología, a diferencia de las ADN polimerasas, ¿qué NO hacen las ARN polimerasas?
+
+- A. No corrigen errores
+- B. No sintetizan moléculas de ARN
+- C. No reconocen el promotor del gen
+- D. No utilizan ribonucleótidos como sustrato
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 251
+**Subtema:** flujo de información genética · transcripción
+
+A diferencia de las ADN polimerasas, las ARN polimerasas no corrigen errores.
+
+### 46
+
+De acuerdo con el libro de Biología, si se produce un error en la síntesis de un ARN mensajero, ¿por qué no es heredable?
+
+- A. Porque no afecta el ADN (no es una mutación); solo afecta los polipéptidos sintetizados a partir de esa molécula defectuosa
+- B. Porque el ARN mensajero se corrige a sí mismo
+- C. Porque el error pasa al ADN y se transmite a la descendencia
+- D. Porque afecta a todos los ARN de la célula por igual
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 251
+**Subtema:** flujo de información genética · transcripción
+
+Si se produjera un error en la síntesis de un ARN mensajero, se verían afectados solamente los polipéptidos sintetizados a partir de esa molécula defectuosa. Desde el punto de vista evolutivo, al no afectar el ADN (nótese que no hemos empleado el término mutación), este error no es heredable.
+
+### 47
+
+De acuerdo con el libro de Biología, ¿en qué se centra principalmente la regulación de la transcripción en los organismos unicelulares y en los pluricelulares?
+
+- A. En los unicelulares, en respuestas a cambios del ambiente; en los pluricelulares, en la diferenciación celular
+- B. En los unicelulares, en la diferenciación celular; en los pluricelulares, en el ambiente
+- C. En ambos, únicamente en respuestas al ambiente
+- D. En ambos, únicamente en la diferenciación celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 251
+**Subtema:** flujo de información genética · transcripción
+
+En los organismos unicelulares, la regulación de la transcripción está principalmente asociada a respuestas a cambios en el ambiente. En cambio, en los organismos pluricelulares, la regulación de la transcripción cumple un papel fundamental en la diferenciación celular.
+
+---
+
+## Sub-lote 9 · Los distintos tipos de ARN y el ARN mensajero (pp. 251-252)
+
+### 48
+
+De acuerdo con el libro de Biología, ¿qué le ocurre a la mayoría de las moléculas de ARN mensajero, ribosomal y de transferencia durante su síntesis o después de ella?
+
+- A. Sufre algún tipo de modificación, en procesos de maduración que le permiten cumplir sus funciones
+- B. Se degrada de inmediato sin cumplir ninguna función
+- C. Se convierte nuevamente en ADN
+- D. No sufre ninguna modificación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 251
+**Subtema:** flujo de información genética · tipos de ARN
+
+La mayoría de las moléculas de ARN mensajero, ribosomal y de transferencia sufre algún tipo de modificación durante su síntesis o luego de ella. Estas modificaciones forman parte de procesos de maduración que les permiten cumplir sus funciones.
+
+### 49
+
+De acuerdo con el libro de Biología, ¿cómo se llaman las moléculas de ARN con actividad catalítica que intervienen en algunas de esas modificaciones?
+
+- A. Ribozimas
+- B. Topoisomerasas
+- C. ARN polimerasas
+- D. Ribosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 252
+**Subtema:** flujo de información genética · tipos de ARN
+
+En algunas modificaciones intervienen las ribozimas, que son moléculas de ARN con actividad catalítica.
+
+### 50
+
+De acuerdo con el libro de Biología, ¿qué longitud tienen las moléculas de ARN mensajero?
+
+- A. De 500 a 10 000 ribonucleótidos
+- B. De 5 a 100 ribonucleótidos
+- C. De 1 a 20 ribonucleótidos
+- D. De 100 000 a 1 000 000 de ribonucleótidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 252
+**Subtema:** flujo de información genética · ARN mensajero
+
+Las moléculas de ARN mensajero tienen una longitud de 500 a 10 000 ribonucleótidos.
+
+### 51
+
+De acuerdo con el libro de Biología, en las células procariotas, ¿cuándo se encuentra el ARNm con los ribosomas para iniciar la traducción?
+
+- A. Antes de que haya finalizado la transcripción; se dice que la traducción es cotranscripcional
+- B. Solo después de que el ARNm sale del núcleo
+- C. Solo después de un proceso de maduración del ARNm
+- D. Nunca, porque los procariotas no realizan traducción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 252
+**Subtema:** flujo de información genética · ARN mensajero
+
+En las células procariotas, que no están compartimentalizadas, este encuentro ocurre antes de que haya finalizado la transcripción. Se dice, entonces, que la traducción es cotranscripcional.
+
+### 52
+
+De acuerdo con el libro de Biología, en los eucariotas, ¿dónde se completa la transcripción y dónde están los ribosomas?
+
+- A. La transcripción se completa dentro del núcleo y los ribosomas están fuera de él
+- B. Tanto la transcripción como los ribosomas están dentro del núcleo
+- C. La transcripción ocurre en el citoplasma y los ribosomas, en el núcleo
+- D. Ambos se encuentran dentro de la mitocondria
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 252
+**Subtema:** flujo de información genética · ARN mensajero
+
+En los eucariotas la situación es muy diferente: la transcripción se completa dentro del núcleo, que es donde se aloja el ADN, pero los ribosomas están fuera de él.
+
+### 53
+
+De acuerdo con el libro de Biología, en los eucariotas, ¿cómo se llaman los ARNm que aún no han sido modificados y los que ya fueron procesados?
+
+- A. Transcritos primarios los no modificados y ARNm maduros los procesados
+- B. ARNm maduros los no modificados y transcritos primarios los procesados
+- C. Ribozimas y ARN polimerasas
+- D. Intrones y exones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 252
+**Subtema:** flujo de información genética · ARN mensajero
+
+Los ARNm eucariotas que aún no han sido modificados se denominan transcritos primarios y los que son procesados, ARNm maduros.
+
+---
+
+## Sub-lote 10 · La maduración del ARNm: capuchón, cola de poli-A y corte y empalme (fig. 12-7, p. 252)
+
+### 54
+
+De acuerdo con el libro de Biología, la primera modificación de la maduración agrega un nucleótido modificado en el extremo 5' del ARNm. ¿Cómo se llama y qué función cumple?
+
+- A. El capuchón (o cap): protege al ARNm de la degradación, y su presencia es necesaria para que el ARNm se una al ribosoma
+- B. La cola de poli-A: regula la estabilidad del ARNm
+- C. El intrón: se elimina del ARNm
+- D. El exón: se empalma en el ARNm
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 252
+**Subtema:** flujo de información genética · maduración del ARNm
+
+Este nucleótido, denominado capuchón (o cap en inglés) protege al ARNm de la degradación. La unión del ARNm al ribosoma solo se produce ante la presencia de este capuchón.
+
+### 55
+
+De acuerdo con el libro de Biología, cuando la transcripción está concluyendo se agrega una serie de ribonucleótidos de adenina al extremo 3' del ARNm. ¿Cómo se llama y qué regula?
+
+- A. La cola de poli-A: regula la estabilidad del ARNm, es decir, el tiempo que permanecerá disponible en el citoplasma
+- B. El capuchón: protege el extremo 5' de la degradación
+- C. El intrón: se corta y se elimina del ARNm
+- D. El codón de inicio: señala dónde empieza la traducción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 252
+**Subtema:** flujo de información genética · maduración del ARNm
+
+Una enzima agrega una serie de ribonucleótidos de adenina (cola de poli-Adeninas) al extremo 3' del ARNm transcrito primario. Esta cola de poli-A interviene en la regulación de la estabilidad de los ARNm, es decir, el tiempo que permanecerán disponibles en el citoplasma para ser traducidos.
+
+### 56
+
+De acuerdo con el libro de Biología, ¿en qué consiste el corte y empalme (*splicing*), el último paso de la maduración del ARNm?
+
+- A. En el corte y la eliminación de secuencias llamadas intrones y el posterior empalme de las secuencias restantes, los exones
+- B. En agregar el capuchón al extremo 5' del ARNm
+- C. En agregar la cola de poli-A al extremo 3' del ARNm
+- D. En copiar la información del ADN a una molécula de ARN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 252
+**Subtema:** flujo de información genética · maduración del ARNm
+
+El ARNm sufre un proceso de corte y eliminación de secuencias, llamadas intrones, y el posterior empalme de las secuencias restantes (los exones).
+
+> Los tres pasos de la maduración del ARNm son vecinos que se confunden
+> (reactivos 54, 55 y 56): el **capuchón** protege el extremo **5'**, la **cola de
+> poli-A** estabiliza el extremo **3'** y el **corte y empalme** quita los intrones
+> y une los exones. Cada uno es distractor de los otros.
+
+---
+
+**Reactivos en este archivo:** 56
