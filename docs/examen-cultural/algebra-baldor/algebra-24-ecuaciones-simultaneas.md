@@ -40,11 +40,15 @@ NO llevan reactivos** (criterio de teoría sobre práctica).
 - Regla de cada método: igualación (art. 294), sustitución (art. 295) y
   reducción (arts. 296–297).
 
-**Pendiente:** el capítulo XXIV está cerrado (arts. 289–297, pp. 319–323; sólo la
-teoría, los sistemas resueltos y los problemas son práctica y no llevan reactivos).
-Lo que falta de Álgebra es el capítulo **XXV (Ecuaciones simultáneas de primer grado
-con tres o más incógnitas)**, que pide la EMOS; mientras no se abra su archivo, éste
-sostiene el pendiente de Álgebra.
+**Pendiente:** el capítulo XXIV está cubierto en la teoría de los arts. 289–297
+(pp. 319–323; los sistemas resueltos y los problemas son práctica y no llevan
+reactivos). El capítulo **XXV** ya tiene archivo
+(`algebra-25-ecuaciones-simultaneas-tres-incognitas.md`), que es hoy quien sostiene
+el pendiente de Álgebra. **Aviso de alcance:** el propio Capítulo XXIV continúa
+después de la p. 323 con la **teoría de determinantes de segundo orden** (art. 302
+"Determinante", p. 333, y la resolución por determinantes, pp. 334–336), que quedó
+fuera de este archivo; está anotado en el encabezado de `algebra-25` como decisión
+para Carlo sobre si se rellena para cumplir el "Completo" del temario.
 
 ## Nota del banco: una inconsistencia del libro (resuelta)
 
