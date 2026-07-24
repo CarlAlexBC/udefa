@@ -71,7 +71,17 @@ analogía del ingreso de la sala de cine (págs. 182–183), que es un recurso
 didáctico y no contenido de química, ni de la "Revisión de conceptos y hechos"
 de la pág. 186.
 
-**Pendiente:** los subtemas **5.4** a **5.8**.
+**5.4 La ecuación de los gases ideales (págs. 186–194): cerrado.** La constante
+de los gases, la ecuación de los gases ideales y sus cuatro variables, qué es un
+gas ideal, la temperatura y presión estándar (STP) y el volumen molar, la forma
+modificada de la ecuación para condiciones que cambian, los cálculos de densidad
+y la masa molar de una sustancia gaseosa. **No** se sacan reactivos de los
+Ejemplos 5.3 a 5.10 (págs. 187–194) ni de la "Revisión de conceptos y hechos" de
+la pág. 194: son ejercicios resueltos. Tampoco se citan las ecuaciones (5.11) y
+(5.12), donde la traducción convirtió los símbolos en palabras ("norte" por *n*,
+"metro" por *m*, "re" por *d* y "PAGS" por *P*).
+
+**Pendiente:** los subtemas **5.5** a **5.8**.
 
 ## Tablas y figuras que NO se citan — la traducción las destrozó
 
@@ -1600,11 +1610,531 @@ En relación con el libro de Química, ¿cuál es la relación del volumen de am
 
 La relación de volumen de hidrógeno molecular a nitrógeno molecular es 3:1, y la de amoníaco (el producto) a la suma de los volúmenes de hidrógeno molecular y nitrógeno molecular (los reactivos) es 2:4 o 1:2.
 
+## Sub-lote 4 · 5.4 La ecuación de los gases ideales (págs. 186–194)
+
+### 92
+
+De acuerdo con el libro de Química, ¿cómo se denomina R, la constante de proporcionalidad de la ecuación que combina las tres leyes de los gases?
+
+- A. Constante de los gases
+- B. Constante de Avogadro
+- C. Constante de Boyle
+- D. Constante de Kelvin
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 186
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · constante de los gases
+
+Donde R, la constante de proporcionalidad, se denomina constante de los gases.
+
+### 93
+
+De conformidad con el libro de Química, ¿qué describe la ecuación de los gases ideales?
+
+- A. La relación entre las cuatro variables P, V, T y n
+- B. La relación entre las dos variables P y V únicamente
+- C. La relación entre la masa y el volumen de un sólido
+- D. La relación entre la densidad y la masa molar de un líquido
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 186
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · ecuación de los gases ideales
+
+La ecuación (5.8), que se denomina ecuación de los gases ideales, describe la relación entre las cuatro variables P, V, T y n.
+
+### 94
+
+En relación con el libro de Química, ¿qué es un gas ideal?
+
+- A. Un gas hipotético cuyo comportamiento presión-volumen-temperatura puede explicarse completamente mediante la ecuación del gas ideal
+- B. Un gas real cuyo comportamiento coincide siempre con la ecuación del gas ideal
+- C. Cualquier gas noble en condiciones atmosféricas normales
+- D. Cualquier gas que exista como molécula diatómica
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 186
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · gas ideal
+
+Un gas ideal es un gas hipotético cuyo comportamiento presión-volumen-temperatura puede explicarse completamente mediante la ecuación del gas ideal.
+
+### 95
+
+De acuerdo con el libro de Química, ¿cómo se comportan las moléculas de un gas ideal entre sí?
+
+- A. No se atraen ni se repelen entre sí y su volumen es insignificante en comparación con el volumen del recipiente
+- B. Se atraen fuertemente entre sí y ocupan casi todo el volumen del recipiente
+- C. Se repelen fuertemente entre sí y ocupan casi todo el volumen del recipiente
+- D. Se atraen entre sí sólo a temperaturas elevadas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 186
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · gas ideal
+
+Las moléculas de un gas ideal no se atraen ni se repelen entre sí y su volumen es insignificante en comparación con el volumen del recipiente.
+
+### 96
+
+De conformidad con el libro de Química, ¿existe en la naturaleza un gas ideal?
+
+- A. No; aunque en la naturaleza no existe tal cosa como un gas ideal, la aproximación funciona bastante bien para la mayoría de los rangos razonables de temperatura y presión
+- B. Sí; todos los gases nobles son gases ideales en la naturaleza
+- C. Sí; todos los gases diatómicos son gases ideales en la naturaleza
+- D. No; y por eso la aproximación del gas ideal no sirve para ningún cálculo
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 186
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · gas ideal
+
+Aunque en la naturaleza no existe tal cosa como un gas ideal, la aproximación del gas ideal funciona bastante bien para la mayoría de los rangos razonables de temperatura y presión.
+
+### 97
+
+En relación con el libro de Química, ¿en qué condiciones muchos gases reales se comportan como un gas ideal?
+
+- A. A 0 °C (273,15 K) y 1 atm de presión
+- B. A 25 °C y 1 atm de presión
+- C. A 100 °C y 760 atm de presión
+- D. A 0 °C y 760 atm de presión
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 186
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · gas ideal
+
+A 0 °C (273,15 K) y 1 atm de presión, muchos gases reales se comportan como un gas ideal.
+
+> Par que se presta a confusión: las **condiciones atmosféricas normales** son
+> 25 °C y 1 atm (reactivo 2), mientras que la **temperatura y presión estándar
+> (STP)** son 0 °C y 1 atm (reactivo 99). El distractor B usa una por la otra.
+
+### 98
+
+De acuerdo con el libro de Química, ¿a qué se aplica la ecuación de los gases ideales, a diferencia de las leyes de los gases de la sección 5.3?
+
+- A. A sistemas que no experimentan cambios en la presión, el volumen, la temperatura y la cantidad de un gas
+- B. A sistemas que experimentan cambios en las cuatro variables al mismo tiempo
+- C. Únicamente a los gases nobles
+- D. Únicamente a los gases que se encuentran en STP
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 186
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · ecuación de los gases ideales
+
+Tenga en cuenta que la ecuación de los gases ideales, a diferencia de las leyes de los gases analizadas en la Sección 5.3, se aplica a sistemas que no experimentan cambios en la presión, el volumen, la temperatura y la cantidad de un gas.
+
+### 99
+
+De conformidad con el libro de Química, ¿cómo se denominan las condiciones de 0 °C y 1 atm?
+
+- A. Temperatura y presión estándar, a menudo abreviadas STP
+- B. Condiciones atmosféricas normales
+- C. Cero absoluto
+- D. Presión atmosférica estándar
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 187
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · temperatura y presión estándar
+
+Las condiciones de 0 °C y 1 atm se denominan temperatura y presión estándar, a menudo abreviadas STP.
+
+### 100
+
+En relación con el libro de Química, ¿qué valor se usa para el volumen molar de un gas en STP?
+
+- A. 22,41 L
+- B. 44,01 L
+- C. 0,0821 L
+- D. 273,15 L
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 187
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · volumen molar
+
+Para la mayoría de los cálculos, redondearemos el valor de R a tres cifras significativas (0,0821 L · atm/K · mol) y usaremos 22,41 L para el volumen molar de un gas en STP.
+
+### 101
+
+De acuerdo con el libro de Química, ¿a qué valor se redondea la constante de los gases R a tres cifras significativas?
+
+- A. 0,0821 L · atm/K · mol
+- B. 0,0281 L · atm/K · mol
+- C. 8,21 L · atm/K · mol
+- D. 22,41 L · atm/K · mol
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 187
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · constante de los gases
+
+Para la mayoría de los cálculos, redondearemos el valor de R a tres cifras significativas (0,0821 L · atm/K · mol).
+
+### 102
+
+De conformidad con el libro de Química, ¿con qué objeto se compara el volumen molar en STP en la figura 5.11?
+
+- A. Con una pelota de baloncesto, que es algo menor
+- B. Con un globo de helio de investigación científica
+- C. Con una bombilla eléctrica llena de argón
+- D. Con un bulbo de vidrio para medir la densidad
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 187
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · volumen molar
+
+Una comparación del volumen molar en STP (que es de aproximadamente 22,4 L) con una pelota de baloncesto.
+
+### 103
+
+En relación con el libro de Química, ¿en cuántas unidades se puede expresar la constante de los gases?
+
+- A. En diferentes unidades, que se pueden consultar en el Apéndice 1
+- B. Únicamente en L · atm/K · mol
+- C. Únicamente en pascales por kelvin
+- D. Únicamente en las unidades del sistema inglés
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 187
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · constante de los gases
+
+La constante de los gases se puede expresar en diferentes unidades (ver Apéndice 1).
+
+### 104
+
+De acuerdo con el libro de Química, ¿para qué tipo de problemas es útil la ecuación de los gases ideales?
+
+- A. Para problemas que no involucran cambios en P, V, T y n para una muestra de gas
+- B. Para problemas en los que las cuatro variables cambian a la vez
+- C. Únicamente para problemas de estequiometría
+- D. Únicamente para problemas sobre sólidos y líquidos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 188
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · ecuación de los gases ideales
+
+La ecuación de los gases ideales es útil para problemas que no involucran cambios en P, V, T y n para una muestra de gas.
+
+### 105
+
+De conformidad con el libro de Química, ¿qué podemos hacer si conocemos tres de las cuatro variables de la ecuación de los gases ideales?
+
+- A. Calcular la cuarta usando la ecuación
+- B. Calcular la masa molar del gas sin más datos
+- C. Determinar la fórmula química del gas
+- D. Nada; hacen falta las cuatro
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 188
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · ecuación de los gases ideales
+
+Por lo tanto, si conocemos tres de las variables, podemos calcular la cuarta usando la ecuación.
+
+### 106
+
+En relación con el libro de Química, ¿qué debemos emplear cuando las condiciones de un gas cambian?
+
+- A. Una forma modificada de la ecuación del gas ideal que tenga en cuenta las condiciones iniciales y finales
+- B. La ecuación del gas ideal sin ninguna modificación
+- C. La ley de Boyle únicamente
+- D. La ecuación de la densidad del gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 188
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · ecuación de los gases ideales
+
+Cuando las condiciones cambian, debemos emplear una forma modificada de la ecuación del gas ideal que tenga en cuenta las condiciones iniciales y finales.
+
+### 107
+
+De acuerdo con el libro de Química, ¿qué denotan los subíndices 1 y 2 en la forma modificada de la ecuación del gas ideal?
+
+- A. Los estados inicial y final del gas, respectivamente
+- B. Los estados final e inicial del gas, respectivamente
+- C. Las dos sustancias que reaccionan entre sí
+- D. Las dos unidades de presión que se comparan
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 188
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · ecuación de los gases ideales
+
+Los subíndices 1 y 2 denotan los estados inicial y final del gas, respectivamente.
+
+### 108
+
+De conformidad con el libro de Química, ¿de dónde pueden derivarse todas las leyes de los gases discutidas en la sección 5.3?
+
+- A. De la ecuación (5.9), la forma modificada de la ecuación del gas ideal
+- B. De la ley de Boyle únicamente
+- C. De la ley de Avogadro únicamente
+- D. De la definición de presión atmosférica estándar
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 188
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · ecuación de los gases ideales
+
+Es interesante notar que todas las leyes de los gases discutidas en la Sección 5.3 pueden derivarse de la Ecuación (5.9).
+
+### 109
+
+En relación con el libro de Química, ¿qué hay que recordar al resolver problemas de la ley de los gases?
+
+- A. Convertir °C a K
+- B. Convertir K a °C
+- C. Convertir atmósferas a pascales
+- D. Convertir litros a mililitros
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 190
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · ecuación de los gases ideales
+
+Recuerde convertir °C a K cuando resuelva problemas de la ley de los gases.
+
+### 110
+
+De acuerdo con el libro de Química, ¿cuál es una consecuencia práctica de que la presión de una cantidad dada de gas a volumen constante sea directamente proporcional a su temperatura absoluta?
+
+- A. Que las presiones de las llantas de los automóviles deben verificarse solo cuando las llantas están a temperaturas normales
+- B. Que las llantas de los automóviles deben inflarse siempre después de un viaje largo
+- C. Que las llantas de los automóviles pierden presión cuando se calientan
+- D. Que la presión de las llantas no cambia con la temperatura
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 190
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · ecuación de los gases ideales
+
+Una consecuencia práctica de esta relación es que las presiones de las llantas de los automóviles deben verificarse solo cuando las llantas están a temperaturas normales. Después de un viaje largo (especialmente en verano), los neumáticos se calientan mucho y la presión del aire en su interior aumenta.
+
+### 111
+
+De conformidad con el libro de Química, ¿qué condición debe cumplirse para usar cualquier unidad apropiada de volumen o de presión en la ecuación?
+
+- A. Usar las mismas unidades en ambos lados de la ecuación
+- B. Usar litros en un lado y mililitros en el otro
+- C. Usar siempre unidades del sistema internacional
+- D. Usar siempre atmósferas y litros
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 190
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · ecuación de los gases ideales
+
+Podemos usar cualquier unidad apropiada para el volumen (o la presión) siempre que usemos las mismas unidades en ambos lados de la ecuación.
+
+### 112
+
+En relación con el libro de Química, ¿cómo están separadas las moléculas gaseosas a diferencia de las moléculas en materia condensada?
+
+- A. Por distancias que son grandes en comparación con su tamaño
+- B. Por distancias que son pequeñas en comparación con su tamaño
+- C. Por distancias exactamente iguales a su tamaño
+- D. No están separadas: se tocan entre sí
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 191
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · densidad de los gases
+
+A diferencia de las moléculas en materia condensada (es decir, en líquidos y sólidos), las moléculas gaseosas están separadas por distancias que son grandes en comparación con su tamaño.
+
+### 113
+
+De acuerdo con el libro de Química, ¿cómo es la densidad de los gases en condiciones atmosféricas?
+
+- A. Muy baja
+- B. Muy alta
+- C. Igual a la de los líquidos
+- D. Igual a la de los sólidos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 191
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · densidad de los gases
+
+En consecuencia, la densidad de los gases es muy baja en condiciones atmosféricas.
+
+### 114
+
+De conformidad con el libro de Química, ¿en qué unidades se expresan generalmente las densidades de los gases?
+
+- A. En gramos por litro (g/L), en lugar de gramos por mililitro (g/mL)
+- B. En gramos por mililitro (g/mL), en lugar de gramos por litro (g/L)
+- C. En moles por litro (mol/L)
+- D. En litros por mol (L/mol)
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 191
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · densidad de los gases
+
+Por esta razón, las densidades de los gases generalmente se expresan en gramos por litro (g/L) en lugar de gramos por mililitro (g/mL).
+
+### 115
+
+En relación con el libro de Química, ¿por qué la densidad es independiente de la cantidad de sustancia?
+
+- A. Por ser una propiedad intensiva
+- B. Por ser una propiedad extensiva
+- C. Porque depende únicamente de la presión
+- D. Porque depende únicamente de la masa molar
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 192
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · densidad de los gases
+
+Al ser una propiedad intensiva, la densidad es independiente de la cantidad de sustancia. Por lo tanto, podemos usar cualquier cantidad conveniente para ayudarnos a resolver el problema.
+
+### 116
+
+De acuerdo con el libro de Química, ¿cuál es la densidad del agua y cuál la del oro?
+
+- A. La del agua es de 1,0 g/mL y la del oro es de 19,3 g/cm3
+- B. La del agua es de 19,3 g/mL y la del oro es de 1,0 g/cm3
+- C. La del agua es de 13,6 g/mL y la del oro es de 1,0 g/cm3
+- D. La del agua es de 1,0 g/mL y la del oro es de 13,6 g/cm3
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 192
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · densidad de los gases
+
+En comparación, la densidad del agua es de 1,0 g/mL y la del oro es de 19,3 g/cm3.
+
+> El distractor D mete la densidad del mercurio (13,6 g/ml, reactivo 51) en lugar
+> de la del oro.
+
+### 117
+
+De conformidad con el libro de Química, ¿en qué caso funciona el procedimiento de hallar la masa molar examinando la fórmula y sumando las masas molares de los átomos que la componen?
+
+- A. Sólo si se conoce la fórmula real de la sustancia
+- B. Siempre, sin ninguna condición
+- C. Sólo si la sustancia es un sólido
+- D. Sólo si la sustancia es un gas noble
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 192
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · masa molar de una sustancia gaseosa
+
+Sin embargo, este procedimiento sólo funciona si se conoce la fórmula real de la sustancia.
+
+### 118
+
+En relación con el libro de Química, ¿con qué tipo de sustancias tratan a menudo los químicos en la práctica?
+
+- A. Con sustancias de composición desconocida o sólo parcialmente definida
+- B. Con sustancias cuya fórmula química se conoce siempre por completo
+- C. Únicamente con gases nobles
+- D. Únicamente con compuestos iónicos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 192
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · masa molar de una sustancia gaseosa
+
+En la práctica, los químicos a menudo tratan con sustancias de composición desconocida o sólo parcialmente definida.
+
+### 119
+
+De acuerdo con el libro de Química, ¿qué se necesita para encontrar la masa molar de una sustancia desconocida que es gaseosa?
+
+- A. Un valor de densidad determinado experimentalmente (o datos de masa y volumen) para el gas a una temperatura y presión conocidas
+- B. Únicamente la fórmula química de la sustancia
+- C. Únicamente su punto de ebullición
+- D. Únicamente el color del gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 192
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · masa molar de una sustancia gaseosa
+
+Si la sustancia desconocida es gaseosa, su masa molar se puede encontrar gracias a la ecuación de los gases ideales. Todo lo que se necesita es un valor de densidad determinado experimentalmente (o datos de masa y volumen) para el gas a una temperatura y presión conocidas.
+
+### 120
+
+De conformidad con el libro de Química, en el experimento del bulbo, ¿qué da la diferencia de masas entre el bulbo lleno y el bulbo evacuado?
+
+- A. La masa del gas
+- B. El volumen del gas
+- C. La presión del gas
+- D. La masa molar del gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 192
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · masa molar de una sustancia gaseosa
+
+Primero se pesa el bulbo, luego se vacía (evacuado) y se vuelve a pesar. La diferencia de masas da la masa del gas.
+
+### 121
+
+En relación con el libro de Química, ¿cuánto pesan 100 mL de aire en condiciones atmosféricas?
+
+- A. Alrededor de 0,12 g
+- B. Alrededor de 1,2 g
+- C. Alrededor de 12 g
+- D. Alrededor de 0,012 g
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 192
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · masa molar de una sustancia gaseosa
+
+En condiciones atmosféricas, 100 mL de aire pesan alrededor de 0,12 g, una cantidad fácil de medir.
+
+### 122
+
+De acuerdo con el libro de Química, ¿qué instrumento se ha convertido en el dominante para determinar la masa molar?
+
+- A. El espectrómetro de masas
+- B. El barómetro de mercurio
+- C. El manómetro de tubo abierto
+- D. El bulbo de volumen conocido
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 193
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · masa molar de una sustancia gaseosa
+
+El espectrómetro de masas se ha convertido en el instrumento dominante para determinar la masa molar, pero la determinación de la masa molar por el método de la densidad sigue siendo útil.
+
+### 123
+
+De conformidad con el libro de Química, ¿qué se puede determinar por el procedimiento de la densidad sin conocer la fórmula química del compuesto?
+
+- A. La masa molar de un compuesto gaseoso
+- B. El número de átomos de cada elemento del compuesto
+- C. El punto de ebullición del compuesto
+- D. La presión atmosférica del lugar
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 193
+**Tema:** 5.4 · la ecuación de los gases ideales
+**Subtema:** Química · masa molar de una sustancia gaseosa
+
+Tenga en cuenta que podemos determinar la masa molar de un compuesto gaseoso por este procedimiento sin conocer su fórmula química.
+
 ---
 
-**Pendiente:** los subtemas **5.4** (la ecuación de los gases ideales), **5.5**
-(estequiometría de gases), **5.6** (ley de Dalton de las presiones parciales),
-**5.7** (la teoría cinética molecular de los gases) y **5.8** (desviación del
-comportamiento ideal).
+**Pendiente:** los subtemas **5.5** (estequiometría de gases), **5.6** (ley de
+Dalton de las presiones parciales), **5.7** (la teoría cinética molecular de los
+gases) y **5.8** (desviación del comportamiento ideal).
 
-**Reactivos en este archivo:** 91
+**Reactivos en este archivo:** 123
