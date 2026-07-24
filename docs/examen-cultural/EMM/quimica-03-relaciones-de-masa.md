@@ -24,23 +24,31 @@ para mandarlo a llamar. Cuando toque migrar, la carpeta se nombra por el
 
 ## Quién lo pide hoy
 
-**Escuela Militar de Enfermería** · Curso de Formación de Oficiales con
-Licenciatura en Enfermería Militar · temario `QUI-02-2026`. El **mismo** código
-de temario aparece para la Escuela Militar de Medicina, así que es un temario de
-Química compartido: estos reactivos sirven a ambos planteles sin duplicarse.
+**Escuela Militar de Medicina** · Curso de Formación de Médico Cirujano Militar ·
+temario `QUI-02-2026` (`EMM_CSO_FORM_M_C`). El **mismo** código de temario
+aparece para la Escuela Militar de Enfermería, así que es un temario de Química
+compartido; el reactivo pertenece al libro y sirve a ambos planteles sin
+duplicarse.
 
-Ese temario pide del capítulo 3 **solo** estos subtemas: **3.1** Masa atómica ·
-**3.2** Número de Avogadro y masa molar de un elemento · **3.3** Masa molecular.
+Ese temario pide del capítulo 3 estos subtemas: **3.1** Masa atómica · **3.2**
+Número de Avogadro y masa molar de un elemento · **3.3** Masa molecular · **3.5**
+Composición porcentual de los compuestos · **3.7** Reacciones químicas y
+ecuaciones químicas.
 
-**No** entran **3.4** (espectrómetro de masas) ni del **3.5 al 3.10**
-(composición porcentual, fórmulas empírica y molecular, ecuaciones químicas,
-estequiometría, reactivo limitante y rendimiento). Buena parte de 3.1–3.3 es
-"calcula/resuelve": de eso **tampoco** se escriben reactivos; solo se toma lo
-**teórico** (definiciones, conceptos y unidades).
+> **Ojo (24 jul 2026):** las tres primeras subsecciones (3.1–3.3) se escribieron
+> primero contra el temario de **Enfermería**, que pide menos. Al abrir el
+> temario de **Medicina** se vio que además pide **3.5 y 3.7**, que se añadieron
+> después (sub-lotes 4 y 5).
 
-**Desfase de páginas:** en este tramo la hoja del PDF va **34 adelante** de la
-página impresa (hoja 113 = página 79). Se re-ancla leyendo el pie de página en
-cada subtema; se mantuvo en +34 en las tres subsecciones.
+**No** entran **3.4** (espectrómetro de masas), **3.6** (determinación
+experimental de fórmulas empíricas) ni del **3.8 al 3.10** (estequiometría,
+reactivo limitante y rendimiento). Buena parte del capítulo es "calcula/resuelve":
+de eso **no** se escriben reactivos; solo se toma lo **teórico** (definiciones,
+conceptos y unidades).
+
+**Desfase de páginas:** empieza en **+34** (hoja 113 = página 79) y sube a **+35**
+al llegar a 3.7 (hoja 128 = página 93). Se re-ancla leyendo el pie de página en
+cada subtema.
 
 ## Cobertura actual
 
@@ -54,6 +62,13 @@ relación numérica con la masa atómica.
 
 **3.3 Masa molecular (págs. 84–85): en curso.** Qué es la masa molecular, cómo
 se determina y su relación numérica con la masa molar.
+
+**3.5 Composición porcentual de los compuestos (pág. 88): en curso.** Qué es la
+composición porcentual en masa, cómo se obtiene y para qué sirve.
+
+**3.7 Reacciones químicas y ecuaciones químicas (págs. 93–95): en curso.** Qué es
+una reacción química, reactivos y productos, estados físicos, coeficientes y
+subíndices, y la ley de conservación de la masa como guía del balanceo.
 
 ---
 
@@ -473,12 +488,260 @@ De acuerdo con el libro de Química, ¿qué relación numérica hay entre la mas
 
 La masa molar de un compuesto (en gramos) es numéricamente igual a su masa molecular (en uma).
 
+## Sub-lote 4 · Composición porcentual de los compuestos (p. 88-89)
+
+### 28
+
+De acuerdo con el libro de Química, ¿qué es la composición porcentual en masa?
+
+- A. El porcentaje en masa de cada elemento en un compuesto
+- B. La masa total del compuesto expresada en gramos
+- C. El número de moles de cada elemento en un compuesto
+- D. La masa molar del compuesto dividida entre su número de átomos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 88
+**Subtema:** Química · composición porcentual
+
+La composición porcentual en masa es el porcentaje en masa de cada elemento en un compuesto.
+
+### 29
+
+De acuerdo con el libro de Química, ¿cómo se obtiene la composición porcentual de un elemento en un compuesto?
+
+- A. Dividiendo la masa de cada elemento en 1 mol del compuesto por la masa molar del compuesto y multiplicando por 100 por ciento
+- B. Dividiendo la masa molar del compuesto por la masa de cada elemento
+- C. Sumando las masas molares de todos los elementos del compuesto
+- D. Multiplicando la masa molar del compuesto por su número de átomos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 88
+**Subtema:** Química · composición porcentual
+
+La composición porcentual se obtiene dividiendo la masa de cada elemento en 1 mol del compuesto por la masa molar del compuesto y multiplicando por 100 por ciento.
+
+### 30
+
+De acuerdo con el libro de Química, en la fórmula de la composición porcentual, ¿qué representa n?
+
+- A. El número de moles del elemento en 1 mol del compuesto
+- B. El número de átomos del elemento en la tabla periódica
+- C. El número de compuestos que se forman
+- D. La masa molar del elemento
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 88
+**Subtema:** Química · composición porcentual
+
+Donde n es el número de moles del elemento en 1 mol del compuesto.
+
+### 31
+
+De acuerdo con el libro de Química, ¿qué nos indican tanto la fórmula molecular como la fórmula empírica de un compuesto?
+
+- A. La composición porcentual en masa del compuesto
+- B. El punto de fusión del compuesto
+- C. La densidad del compuesto
+- D. El número de isótopos del compuesto
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 89
+**Subtema:** Química · composición porcentual
+
+Tanto la fórmula molecular como la fórmula empírica nos indican la composición porcentual en masa del compuesto.
+
+### 32
+
+De acuerdo con el libro de Química, ¿para qué sirve comparar la composición porcentual calculada con la obtenida experimentalmente de una muestra?
+
+- A. Para determinar la pureza de la muestra
+- B. Para determinar el color de la muestra
+- C. Para determinar la temperatura de la muestra
+- D. Para determinar la carga eléctrica de la muestra
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 88
+**Subtema:** Química · composición porcentual
+
+Al comparar el resultado con la composición porcentual obtenida experimentalmente para nuestra muestra, pudimos determinar la pureza de la muestra.
+
+## Sub-lote 5 · Reacciones químicas y ecuaciones químicas (p. 93-95)
+
+### 33
+
+De acuerdo con el libro de Química, ¿qué es una reacción química?
+
+- A. Un proceso en el que una sustancia (o sustancias) se transforma en una o más sustancias nuevas
+- B. Un proceso en el que una sustancia cambia de estado físico sin cambiar su identidad
+- C. Un proceso en el que una sustancia se disuelve en agua
+- D. Un proceso en el que se mide la masa de una sustancia
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 93
+**Subtema:** Química · reacciones y ecuaciones químicas
+
+Una reacción química es un proceso en el que una sustancia (o sustancias) se transforma en una o más sustancias nuevas.
+
+### 34
+
+De acuerdo con el libro de Química, ¿en qué secuencia convencional se ensambla una ecuación química?
+
+- A. Los reactivos a la izquierda, separados por una flecha de los productos a la derecha
+- B. Los productos a la izquierda, separados por una flecha de los reactivos a la derecha
+- C. Los reactivos y los productos mezclados, sin un orden fijo
+- D. Los reactivos arriba y los productos abajo
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 95
+**Subtema:** Química · reacciones y ecuaciones químicas
+
+Los ensamblamos en la secuencia convencional: los reactivos a la izquierda separados por una flecha de los productos a la derecha.
+
+### 35
+
+De acuerdo con el libro de Química, ¿qué simboliza escribir H2O sobre la flecha de una ecuación?
+
+- A. El proceso físico de disolver una sustancia en agua
+- B. Que la reacción libera agua como producto
+- C. Que la reacción ocurre a alta temperatura
+- D. Que el agua es un reactivo que se consume
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 95
+**Subtema:** Química · reacciones y ecuaciones químicas
+
+Escribir H2O sobre la flecha simboliza el proceso físico de disolver una sustancia en agua.
+
+### 36
+
+De acuerdo con el libro de Química, ¿qué ley se usa como guía para equilibrar las ecuaciones químicas?
+
+- A. La ley de conservación de la masa
+- B. La ley de las proporciones múltiples
+- C. La ley de Avogadro
+- D. La ley de Coulomb
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 94
+**Subtema:** Química · reacciones y ecuaciones químicas
+
+Usamos la ley de conservación de la masa como nuestra guía para equilibrar ecuaciones químicas.
+
+### 37
+
+De acuerdo con el libro de Química, ¿qué significa que una ecuación esté desequilibrada?
+
+- A. Que el número de cada tipo de átomo de un lado de la flecha difiere del número del otro lado
+- B. Que los reactivos y los productos tienen distinto color
+- C. Que la reacción no libera energía
+- D. Que faltan los estados físicos de las sustancias
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 95
+**Subtema:** Química · reacciones y ecuaciones químicas
+
+Es probable que la ecuación escrita en este punto esté desequilibrada; es decir, el número de cada tipo de átomo de un lado de la flecha difiere del número del otro lado.
+
+### 38
+
+De acuerdo con el libro de Química, ¿qué son los coeficientes en una ecuación química?
+
+- A. Los números que preceden a las fórmulas
+- B. Los números dentro de las fórmulas
+- C. Los símbolos que indican el estado físico
+- D. Las cargas eléctricas de los iones
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 95
+**Subtema:** Química · reacciones y ecuaciones químicas
+
+Podemos cambiar los coeficientes (los números que preceden a las fórmulas) pero no los subíndices (los números dentro de las fórmulas).
+
+> Par que se presta a confusión: los **coeficientes** van delante de la fórmula y
+> sí se cambian al equilibrar; los **subíndices** van dentro de la fórmula y NO
+> se cambian, porque cambiarían la identidad de la sustancia (reactivos 38-41).
+
+### 39
+
+De acuerdo con el libro de Química, ¿qué son los subíndices en una fórmula química?
+
+- A. Los números dentro de las fórmulas
+- B. Los números que preceden a las fórmulas
+- C. Los símbolos que indican el estado físico
+- D. Las flechas que separan reactivos de productos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 95
+**Subtema:** Química · reacciones y ecuaciones químicas
+
+Podemos cambiar los coeficientes (los números que preceden a las fórmulas) pero no los subíndices (los números dentro de las fórmulas).
+
+### 40
+
+De acuerdo con el libro de Química, al equilibrar una ecuación, ¿qué se puede cambiar?
+
+- A. Los coeficientes, pero no los subíndices
+- B. Los subíndices, pero no los coeficientes
+- C. Tanto los coeficientes como los subíndices
+- D. Ni los coeficientes ni los subíndices
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 95
+**Subtema:** Química · reacciones y ecuaciones químicas
+
+Podemos cambiar los coeficientes (los números que preceden a las fórmulas) pero no los subíndices (los números dentro de las fórmulas).
+
+### 41
+
+De acuerdo con el libro de Química, ¿por qué no se deben cambiar los subíndices al equilibrar una ecuación?
+
+- A. Porque cambiar los subíndices cambiaría la identidad de la sustancia
+- B. Porque cambiar los subíndices no afecta en nada a la ecuación
+- C. Porque los subíndices siempre valen 1
+- D. Porque los subíndices indican el estado físico de la sustancia
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 95
+**Subtema:** Química · reacciones y ecuaciones químicas
+
+Cambiar los subíndices cambiaría la identidad de la sustancia.
+
+### 42
+
+De acuerdo con el libro de Química, ¿cuándo no se muestra el coeficiente de una sustancia en una ecuación?
+
+- A. Cuando el coeficiente es 1
+- B. Cuando el coeficiente es 2
+- C. Cuando el coeficiente es mayor que 10
+- D. Cuando la sustancia es un gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 94
+**Subtema:** Química · reacciones y ecuaciones químicas
+
+Cuando el coeficiente es 1, como en el caso del O2, no se muestra.
+
+### 43
+
+De acuerdo con el libro de Química, ¿en qué consiste el último paso para equilibrar una ecuación química?
+
+- A. Revisar que haya el mismo número total de cada tipo de átomo en ambos lados de la flecha
+- B. Revisar que la reacción libere energía
+- C. Revisar que los reactivos y los productos tengan el mismo color
+- D. Revisar que la ecuación tenga más productos que reactivos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 95
+**Subtema:** Química · reacciones y ecuaciones químicas
+
+Revisa tu ecuación balanceada para asegurarte de que tienes el mismo número total de cada tipo de átomos en ambos lados de la flecha de la ecuación.
+
 ---
 
-**Pendiente:** dentro del capítulo 3 no queda teoría por cubrir de los subtemas
-que pide el temario (3.1, 3.2 y 3.3) más allá de un repaso; el resto del capítulo
-(3.4 a 3.10) no entra. Siguen abiertos los capítulos 4, 9 y 24, que el temario
-pide y todavía no tienen archivo. Este archivo sostiene la lista hasta que exista
-el `.md` del capítulo 4.
+**Pendiente:** el capítulo 3 queda cubierto en los cinco subtemas que pide el
+temario de Medicina (3.1, 3.2, 3.3, 3.5 y 3.7); el resto del capítulo (3.4, 3.6 y
+3.8 a 3.10) no entra. En Química siguen abiertos el **capítulo 24** (24.2 y 24.4),
+que aún no tiene archivo, y el **relleno de 4.3 y 4.4** en el capítulo 4. Este
+archivo sostiene la lista hasta que ese trabajo se cierre.
 
-**Reactivos en este archivo:** 27
+**Reactivos en este archivo:** 43
