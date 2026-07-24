@@ -29,7 +29,7 @@ caracteres; no sirve para este libro. El método es renderizar la hoja a PNG con
 
 **Desfase de esta unidad: 13, ya verificado leyendo la hoja.** La hoja 345 del PDF
 muestra impreso "332" (345 − 332 = 13) y contiene la entrada de la Unidad 11; la
-hoja 373 muestra "359". Se leyó de la hoja en cada tramo, no se calculó; el
+hoja 372 muestra "359". Se leyó de la hoja en cada tramo, no se calculó; el
 desfase se mantuvo constante en toda la unidad.
 
 ## Cobertura actual

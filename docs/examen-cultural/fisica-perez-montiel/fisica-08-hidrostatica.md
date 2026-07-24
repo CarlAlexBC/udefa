@@ -26,8 +26,8 @@ Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria,
 caracteres; no sirve para este libro. El método es renderizar la hoja a PNG con
 `render.py` y leerla con los ojos.
 
-**Desfase de esta unidad: 13, ya verificado leyendo la hoja.** La hoja 288 del PDF
-muestra impreso "274" (288 − 274 = 13) y contiene la entrada de la Unidad 8; la
+**Desfase de esta unidad: 13, ya verificado leyendo la hoja.** La hoja 287 del PDF
+muestra impreso "274" (287 − 274 = 13) y contiene la entrada de la Unidad 8; la
 hoja 298 muestra "285". Se leyó de la hoja en cada tramo, no se calculó; el
 desfase se mantuvo constante en toda la unidad.
 
