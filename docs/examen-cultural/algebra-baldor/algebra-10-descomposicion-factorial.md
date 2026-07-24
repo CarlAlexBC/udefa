@@ -31,7 +31,7 @@ numerados quedan fuera por la norma de teoría sobre práctica.
 
 ## Cobertura actual
 
-**EN CURSO.** Cubierto de la p. 143 a la 147:
+**EN CURSO.** Cubierto de la p. 143 a la 157:
 
 - Recuadro histórico de Hypatia (p. 143).
 - Factores o divisores (art. 131), descomponer en factores o factorar (art. 132) y
@@ -40,8 +40,14 @@ numerados quedan fuera por la norma de teoría sobre práctica.
 - Prueba general de los factores y los diez casos (art. 135).
 - Caso I: cuando todos los términos tienen un factor común.
 - Caso II: factor común por agrupación de términos.
+- Caso III: trinomio cuadrado perfecto, con la raíz cuadrada de un monomio y las
+  reglas para reconocerlo y factorarlo (arts. 136–140).
+- Caso IV: diferencia de cuadrados perfectos y su regla (arts. 141–142).
+- Caso V: trinomio cuadrado perfecto por adición y sustracción; combinación de los
+  casos III y IV; y por qué una suma de dos cuadrados no se descompone en factores
+  racionales (arts. 143–144).
 
-**Pendiente:** sigue el Capítulo X desde el **Caso III (p. 148)** en adelante —los
+**Pendiente:** sigue el Capítulo X con los casos restantes, del **Caso VI** en adelante —los
 casos que faltan hasta completar los diez y el cuadro de los tipos básicos— y
 después faltan de Álgebra los capítulos **XVIII (Fórmulas, p. 270), XX (Funciones),
 XXIV y XXV (Ecuaciones simultáneas)**, que piden EMM/EMO/EMOS. Este archivo sostiene
@@ -379,5 +385,182 @@ La agrupación puede hacerse generalmente de más de un modo con tal que los dos
 
 ---
 
-**Reactivos en este archivo:** 19
-**Pendiente:** sigue el Capítulo X desde el Caso III (p. 148) en adelante hasta completar los diez casos y el cuadro de los tipos básicos; después faltan de Álgebra los capítulos XVIII (Fórmulas, p. 270), XX (Funciones), XXIV y XXV (Ecuaciones simultáneas), que piden EMM/EMO/EMOS. Mientras el capítulo en curso sea el X, este archivo sostiene el pendiente de Álgebra.
+## Sub-lote 7 · Caso III: trinomio cuadrado perfecto (arts. 136–140, pp. 149–150)
+
+### 20
+
+En relación con el libro de Álgebra, ¿cuándo una cantidad es cuadrado perfecto?
+
+- A. Cuando es el cuadrado de otra cantidad, o sea, cuando es el producto de dos factores iguales
+- B. Cuando es el cubo de otra cantidad, o sea, cuando es el producto de tres factores iguales
+- C. Cuando es la suma de dos cantidades iguales
+- D. Cuando sólo es divisible por ella misma y por 1
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 149
+**Subtema:** Descomposición factorial · Caso III
+
+Una cantidad es cuadrado perfecto cuando es el cuadrado de otra cantidad, o sea, cuando es el producto de dos factores iguales.
+
+### 21
+
+En relación con el libro de Álgebra, ¿cuántos signos tiene la raíz cuadrada de una cantidad positiva?
+
+- A. Dos signos, + y −
+- B. Un solo signo, +
+- C. Un solo signo, −
+- D. Ningún signo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 149
+**Subtema:** Descomposición factorial · Caso III
+
+La raíz cuadrada de una cantidad positiva tiene dos signos, + y −.
+
+### 22
+
+En relación con el libro de Álgebra, ¿cómo se extrae la raíz cuadrada de un monomio?
+
+- A. Se extrae la raíz cuadrada de su coeficiente y se divide el exponente de cada letra por 2
+- B. Se extrae la raíz cuadrada de su coeficiente y se multiplica el exponente de cada letra por 2
+- C. Se divide el coeficiente por 2 y el exponente de cada letra por 2
+- D. Se extrae la raíz cuadrada del coeficiente y la raíz cuadrada de cada exponente
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 149
+**Subtema:** Descomposición factorial · Caso III
+
+Para extraer la raíz cuadrada de un monomio se extrae la raíz cuadrada de su coeficiente y se divide el exponente de cada letra por 2.
+
+### 23
+
+En relación con el libro de Álgebra, ¿cuándo un trinomio es cuadrado perfecto?
+
+- A. Cuando es el cuadrado de un binomio, o sea, el producto de dos binomios iguales
+- B. Cuando es el cuadrado de un monomio, o sea, el producto de dos monomios iguales
+- C. Cuando es el producto de dos binomios diferentes
+- D. Cuando es la suma de los cuadrados de dos binomios
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 149
+**Subtema:** Descomposición factorial · Caso III
+
+Un trinomio es cuadrado perfecto cuando es el cuadrado de un binomio, o sea, el producto de dos binomios iguales.
+
+### 24
+
+En relación con el libro de Álgebra, según la regla, ¿cuándo un trinomio ordenado con relación a una letra es cuadrado perfecto?
+
+- A. Cuando el primero y tercer términos son cuadrados perfectos y positivos, y el segundo término es el doble producto de sus raíces cuadradas
+- B. Cuando los tres términos son cuadrados perfectos y positivos
+- C. Cuando el primero y segundo términos son cuadrados perfectos, y el tercero es el doble producto de sus raíces cuadradas
+- D. Cuando el primero y tercer términos son cuadrados perfectos y el segundo es la mitad del producto de sus raíces cuadradas
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 149
+**Subtema:** Descomposición factorial · Caso III
+
+Un trinomio ordenado con relación a una letra es cuadrado perfecto cuando el primero y tercer términos son cuadrados perfectos (o tienen raíz cuadrada exacta) y positivos, y el segundo término es el doble producto de sus raíces cuadradas.
+
+### 25
+
+En relación con el libro de Álgebra, según la regla para factorar un trinomio cuadrado perfecto, ¿por cuál signo se separan las raíces cuadradas del primero y tercer términos?
+
+- A. Por el signo del segundo término
+- B. Por el signo del primer término
+- C. Por el signo del tercer término
+- D. Siempre por el signo más
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 150
+**Subtema:** Descomposición factorial · Caso III
+
+Se extrae la raíz cuadrada al primero y tercer términos del trinomio y se separan estas raíces por el signo del segundo término.
+
+---
+
+## Sub-lote 8 · Caso IV: diferencia de cuadrados (arts. 141–142, p. 152)
+
+### 26
+
+En relación con el libro de Álgebra, la suma de dos cantidades multiplicadas por su diferencia, ¿a qué es igual?
+
+- A. Al cuadrado del minuendo menos el cuadrado del sustraendo
+- B. Al cuadrado del minuendo más el cuadrado del sustraendo
+- C. A la suma de los cuadrados de las dos cantidades
+- D. Al cuadrado de la diferencia de las dos cantidades
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 152
+**Subtema:** Descomposición factorial · Caso IV
+
+La suma de dos cantidades multiplicadas por su diferencia es igual al cuadrado del minuendo menos el cuadrado del sustraendo.
+
+### 27
+
+En relación con el libro de Álgebra, según la regla para factorar una diferencia de cuadrados, después de extraer la raíz cuadrada al minuendo y al sustraendo, ¿qué se hace?
+
+- A. Se multiplica la suma de estas raíces cuadradas por la diferencia entre la raíz del minuendo y la del sustraendo
+- B. Se multiplica la diferencia de estas raíces cuadradas por sí misma
+- C. Se suma la raíz del minuendo con la raíz del sustraendo
+- D. Se eleva al cuadrado la suma de las dos raíces cuadradas
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 152
+**Subtema:** Descomposición factorial · Caso IV
+
+Se extrae la raíz cuadrada al minuendo y al sustraendo y se multiplica la suma de estas raíces cuadradas por la diferencia entre la raíz del minuendo y la del sustraendo.
+
+---
+
+## Sub-lote 9 · Combinación de casos, Caso V y suma de cuadrados (pp. 154–157)
+
+### 28
+
+En relación con el libro de Álgebra, al arreglar convenientemente los términos de ciertas expresiones compuestas para obtener trinomios cuadrados perfectos y descomponerlos (Caso III), ¿qué se obtiene?
+
+- A. Una diferencia de cuadrados
+- B. Un factor común monomio
+- C. Una suma de dos cuadrados
+- D. Un cubo perfecto de binomio
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 154
+**Subtema:** Descomposición factorial · combinación III y IV
+
+Mediante un arreglo conveniente de sus términos se obtiene uno o dos trinomios cuadrados perfectos y descomponiendo estos trinomios (Caso III) se obtiene una diferencia de cuadrados (Caso IV).
+
+### 29
+
+En relación con el libro de Álgebra, ¿cómo se llama el Caso V de la descomposición factorial?
+
+- A. Trinomio cuadrado perfecto por adición y sustracción
+- B. Trinomio cuadrado perfecto
+- C. Diferencia de cuadrados perfectos
+- D. Factor común por agrupación de términos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 156
+**Subtema:** Descomposición factorial · Caso V
+
+Caso V. Trinomio cuadrado perfecto por adición y sustracción.
+
+### 30
+
+En relación con el libro de Álgebra, ¿tiene descomposición en factores racionales una suma de dos cuadrados?
+
+- A. En general no tiene descomposición en factores racionales
+- B. Siempre se descompone como el cuadrado de una suma
+- C. Siempre se descompone en dos binomios iguales
+- D. Siempre se descompone como una diferencia de cuadrados
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 157
+**Subtema:** Descomposición factorial · suma de cuadrados
+
+En general una suma de dos cuadrados no tiene descomposición en factores racionales, es decir, factores en que no haya raíz.
+
+---
+
+**Reactivos en este archivo:** 30
+**Pendiente:** sigue el Capítulo X con los casos restantes, del Caso VI en adelante —los trinomios de la forma x²+bx+c y ax²+bx+c, el cubo perfecto de binomios, la suma y diferencia de cubos y demás— hasta completar los diez casos y el cuadro de los tipos básicos; después faltan de Álgebra los capítulos XVIII (Fórmulas, p. 270), XX (Funciones), XXIV y XXV (Ecuaciones simultáneas), que piden EMM/EMO/EMOS. Mientras el capítulo en curso sea el X, este archivo sostiene el pendiente de Álgebra.
