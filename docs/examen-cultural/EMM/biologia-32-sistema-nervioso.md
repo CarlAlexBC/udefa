@@ -97,9 +97,19 @@ cadena de ganglios simpáticos o el ganglio celíaco), la secreción de noradren
 adrenalina por la médula suprarrenal, la doble inervación de los órganos internos, las
 estructuras químicas de la noradrenalina y la acetilcolina (con la errata del pie b/c
 advertida), y los efectos antagónicos sobre los órganos (pupila, corazón, bronquios,
-estómago, salivación y vejiga).
+estómago, salivación y vejiga). De la **página 765** se cubren los efectos de la
+estimulación parasimpática, el que las divisiones simpática y parasimpática no siempre
+son antagónicas (colaboran en la secreción salival y la respuesta sexual), la tercera
+división —la entérica— (red neuronal con tantas neuronas como la médula espinal, en las
+paredes del tubo digestivo, con sus plexos submucoso y muscular), y el arranque de "El
+impulso nervioso: una corriente de información": la irritabilidad, los tejidos nervioso
+y muscular excitables, el experimento de Luigi Galvani (1737-1798) y la "electricidad
+animal", el potencial eléctrico y la diferencia de potencial (con los ejemplos de la
+batería de 12 V y el tomacorriente de 110/220 V), la definición del impulso nervioso, y
+la historia del modelo (el axón como cable en el siglo XIX y el calamar con sus axones
+gigantes de hasta 1 mm en el siglo XX, fig. 32-8).
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 765 (hoja 811) en adelante (el resto de la división parasimpática, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 766 (hoja 812) en adelante (el potencial de membrana y las señales eléctricas, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -1817,6 +1827,267 @@ De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene
 
 En la figura 32-7, el simpático "relaja la vejiga", mientras que el parasimpático, por el nervio pélvico, "contrae la vejiga".
 
+## Sub-lote 12 · El parasimpático y la división entérica (p. 765)
+
+### 111
+
+De acuerdo con el libro de Biología, ¿qué efectos produce la estimulación parasimpática?
+
+- A. Disminuye la frecuencia cardíaca, incrementa los movimientos del músculo liso de la pared intestinal y estimula la secreción de las glándulas salivales y las glándulas digestivas del estómago
+- B. Aumenta la frecuencia cardíaca, detiene los movimientos del intestino e inhibe la secreción salival
+- C. Disminuye la frecuencia cardíaca, detiene los movimientos intestinales y dilata las pupilas
+- D. Aumenta la frecuencia respiratoria y provoca la vasoconstricción de la piel
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · estimulación parasimpática
+
+La estimulación parasimpática disminuye la frecuencia cardíaca, incrementa los movimientos del músculo liso de la pared intestinal y estimula la secreción de las glándulas salivales y las glándulas digestivas del estómago.
+
+### 112
+
+De acuerdo con el libro de Biología, las funciones de las divisiones simpática y parasimpática no siempre son antagónicas. ¿En qué respuestas colaboran ambos sistemas?
+
+- A. En la secreción salival y la respuesta sexual en ambos sexos
+- B. En la contracción de los músculos esqueléticos voluntarios
+- C. En la respuesta de lucha o huida, exclusivamente
+- D. En la contracción de la pupila y la aceleración del latido cardíaco
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · simpático y parasimpático
+
+Las funciones de las divisiones simpática y parasimpática no siempre son antagónicas. Ambos sistemas colaboran en algunas respuestas, como la secreción salival y la respuesta sexual en ambos sexos.
+
+### 113
+
+De acuerdo con el libro de Biología, algunos autores consideran una tercera división en el sistema nervioso autónomo. ¿Cuál es?
+
+- A. La división entérica
+- B. La división somática
+- C. La división central
+- D. La división refleja
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · división entérica
+
+Algunos autores consideran una tercera división en el sistema nervioso autónomo: la división entérica.
+
+### 114
+
+De acuerdo con el libro de Biología, ¿cómo describe el libro la división entérica y dónde se encuentra?
+
+- A. Es una importante red neuronal (con un número de neuronas igual al de la médula espinal), que se encuentra en las paredes del tubo digestivo
+- B. Es un pequeño ganglio ubicado en el tronco cerebral
+- C. Es una red de vasos sanguíneos que rodea el estómago
+- D. Es un conjunto de glándulas ubicadas en la médula suprarrenal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · división entérica
+
+La división entérica es una importante red neuronal (con un número de neuronas igual al de la médula espinal), que se encuentra en las paredes del tubo digestivo.
+
+### 115
+
+De acuerdo con el libro de Biología, ¿en qué dos plexos se subdivide la división entérica y qué controla cada uno?
+
+- A. En un plexo submucoso que regula la secreción y la absorción en las paredes digestivas, y en un plexo muscular que controla los movimientos del tubo digestivo
+- B. En un plexo submucoso que controla los movimientos, y en un plexo muscular que regula la secreción y la absorción
+- C. En un plexo sensorial y un plexo motor, ambos ubicados en la médula espinal
+- D. En un plexo simpático y un plexo parasimpático, ubicados en las glándulas salivales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · división entérica
+
+La división entérica se subdivide en un plexo submucoso que regula la secreción y la absorción en las paredes digestivas, y en un plexo muscular que controla los movimientos del tubo digestivo.
+
+> Fácil de invertir: **submucoso → secreción y absorción**; **muscular → movimientos** del tubo digestivo.
+
+### 116
+
+De acuerdo con el libro de Biología, ¿qué asegura el perfecto estado funcional de la división entérica?
+
+- A. El desarrollo correcto de los procesos digestivos
+- B. La regulación de la frecuencia cardíaca
+- C. La respuesta de lucha o huida
+- D. La contracción de los músculos esqueléticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · división entérica
+
+La división entérica está modulada por el resto del sistema nervioso autónomo y el perfecto estado funcional de esta división asegura el desarrollo correcto de los procesos digestivos.
+
+## Sub-lote 13 · El impulso nervioso: irritabilidad, Galvani y el potencial eléctrico (fig. 32-8, p. 765)
+
+### 117
+
+De acuerdo con el libro de Biología, ¿qué es la irritabilidad, una de las características de los seres vivos?
+
+- A. La capacidad para responder a los estímulos
+- B. La capacidad para reproducirse
+- C. La capacidad para almacenar energía
+- D. La capacidad para desplazarse de un lugar a otro
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · irritabilidad
+
+Una de las características de los seres vivos es la irritabilidad, es decir, la capacidad para responder a los estímulos.
+
+### 118
+
+De acuerdo con el libro de Biología, ¿qué tejidos poseen la propiedad de ser excitables, y de qué depende su excitabilidad?
+
+- A. Los tejidos nervioso y muscular; su excitabilidad depende de los cambios eléctricos que se producen a través de su membrana plasmática
+- B. Solo el tejido nervioso; su excitabilidad depende del número de neuronas
+- C. Los tejidos óseo y conectivo; su excitabilidad depende de su rigidez
+- D. Solo el tejido muscular; su excitabilidad depende de la cantidad de sangre que recibe
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · tejidos excitables
+
+Los tejidos nervioso y muscular poseen esta propiedad, y su excitabilidad depende de los cambios eléctricos que se producen a través de su membrana plasmática.
+
+### 119
+
+De acuerdo con el libro de Biología, hace más de 200 años, ¿qué observó Luigi Galvani (1737-1798) y cómo llamó al fenómeno?
+
+- A. Observó que el paso de una corriente eléctrica a lo largo del nervio de una pata de rana provocaba la contracción del músculo, y llamó a este fenómeno "electricidad animal"
+- B. Observó que la luz provocaba la contracción del músculo de la rana, y lo llamó "fototropismo"
+- C. Observó que el calor aceleraba el latido cardíaco de la rana, y lo llamó "electricidad animal"
+- D. Observó que la corriente eléctrica detenía el latido de la rana, y lo llamó "bioelectricidad"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · Galvani
+
+Hace más de 200 años, Luigi Galvani (1737-1798) observó que el paso de una corriente eléctrica a lo largo del nervio de una pata de rana provocaba la contracción del músculo; llamó a este fenómeno "electricidad animal".
+
+### 120
+
+De acuerdo con el libro de Biología, ¿cómo se denomina la capacidad de una carga eléctrica en el espacio para desplazarse y realizar trabajo eléctrico?
+
+- A. Potencial eléctrico
+- B. Corriente eléctrica
+- C. Impulso nervioso
+- D. Resistencia eléctrica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · potencial eléctrico
+
+Una carga eléctrica en el espacio posee cierta capacidad para desplazarse y realizar trabajo eléctrico. Esta capacidad se denomina potencial eléctrico.
+
+### 121
+
+De acuerdo con el libro de Biología, según sus ejemplos, ¿qué diferencia de potencial eléctrico se registra entre los bornes de una batería de automóvil y entre los polos de un tomacorriente?
+
+- A. 12 voltios en la batería de automóvil, y 110 o 220 V en el tomacorriente
+- B. 220 voltios en la batería, y 12 V en el tomacorriente
+- C. 110 voltios en ambos casos
+- D. 12 voltios en ambos casos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · diferencia de potencial
+
+Entre los bornes de una batería de automóvil se registra una diferencia de potencial eléctrico de 12 voltios (V) y entre los polos de un tomacorriente, esa diferencia puede ser de 110 o 220 V.
+
+### 122
+
+De acuerdo con el libro de Biología, ¿qué es la diferencia de potencial respecto de las cargas eléctricas?
+
+- A. El "motor" que hace mover las cargas eléctricas entre dos puntos y produce una corriente eléctrica
+- B. Una barrera que impide el movimiento de las cargas eléctricas
+- C. La cantidad total de carga almacenada en un punto
+- D. La resistencia que ofrece un cable al paso de la corriente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · diferencia de potencial
+
+La diferencia de potencial es el "motor" que hace mover las cargas eléctricas entre dos puntos y produce una corriente eléctrica.
+
+### 123
+
+De acuerdo con el libro de Biología, la diferencia de potencial eléctrico a través de la membrana plasmática de neuronas y fibras musculares puede permanecer constante o variar y conducirse de un lado a otro de las células excitables. ¿Cómo se denomina este proceso?
+
+- A. Impulso nervioso
+- B. Trabajo eléctrico
+- C. Electricidad animal
+- D. Irritabilidad
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · impulso nervioso
+
+Esta diferencia de potencial puede permanecer constante en el tiempo o variar y conducirse de un lado a otro de las células excitables. Este proceso se denomina impulso nervioso.
+
+### 124
+
+De acuerdo con el libro de Biología, ¿qué se consideraba, hacia finales del siglo XIX, sobre la naturaleza del impulso nervioso?
+
+- A. Que era una corriente eléctrica que discurría a lo largo de un axón, del mismo modo que los electrones fluyen a lo largo de un cable; sin embargo, este modelo no resistió un examen crítico
+- B. Que era una señal química transmitida por las hormonas de la sangre
+- C. Que era un flujo de agua a través de la membrana del axón
+- D. Que era una vibración mecánica que recorría el axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · impulso nervioso
+
+Hacia finales del siglo XIX, se consideraba que el impulso nervioso era una corriente eléctrica —o sea, un flujo de cargas eléctricas impulsado por un gradiente de potencial eléctrico— que discurría a lo largo de un axón, del mismo modo que los electrones fluyen a lo largo de un cable. Sin embargo, este modelo no resistió un examen crítico.
+
+### 125
+
+De acuerdo con el libro de Biología, ¿cuál fue el primer organismo utilizado como modelo en los estudios de las señales eléctricas del sistema nervioso, y por qué se eligió?
+
+- A. El calamar, elegido por sus neuronas motoras de grandes axones
+- B. La rana, elegida por sus patas musculosas
+- C. El ratón, elegido por su encéfalo pequeño
+- D. La abeja, elegida por sus 7000 neuronas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · el calamar
+
+El primer organismo utilizado como modelo en los estudios de las señales eléctricas en el sistema nervioso fue el calamar, elegido por sus neuronas motoras de grandes axones.
+
+### 126
+
+De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, según la figura 32-8, ¿qué diámetro alcanzan los axones gigantes del calamar y para qué se usaron?
+
+- A. Un diámetro de hasta 1 mm, y se usaron en todos los estudios tempranos de neurofisiología
+- B. Un diámetro de hasta 1 cm, y se usaron para estudiar el sistema endocrino
+- C. Un diámetro de hasta 0,1 mm, y se usaron para estudiar los músculos esqueléticos
+- D. Un diámetro de hasta 10 mm, y se usaron para estudiar la médula espinal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · el calamar
+
+Los nervios estrellados contienen los axones gigantes, de un diámetro hasta 1 mm, que se usaron en todos los estudios tempranos de neurofisiología.
+
+### 127
+
+De acuerdo con el libro de Biología, según la figura 32-8, ¿qué músculos inervan los axones gigantes del calamar y qué producen sus contracciones?
+
+- A. Inervan los músculos de la pared del manto, cuyas contracciones poderosas producen la expulsión rápida del agua de la cavidad del manto, lo que da la respuesta de escape
+- B. Inervan los músculos del corazón, cuyas contracciones producen el latido cardíaco
+- C. Inervan los músculos de los tentáculos, cuyas contracciones producen la captura de presas
+- D. Inervan los músculos del ojo, cuyas contracciones producen el enfoque visual
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 765
+**Subtema:** sistema nervioso · el calamar
+
+Los axones gigantes inervan los músculos de la pared del manto; las contracciones poderosas de estos músculos dan como resultado la expulsión rápida del agua de la cavidad del manto, lo que produce la respuesta de escape.
+
 ---
 
-**Reactivos en este archivo:** 110
+**Reactivos en este archivo:** 127
