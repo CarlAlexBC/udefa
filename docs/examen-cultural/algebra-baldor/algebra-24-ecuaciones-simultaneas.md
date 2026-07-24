@@ -46,14 +46,20 @@ Lo que falta de Álgebra es el capítulo **XXV (Ecuaciones simultáneas de prime
 con tres o más incógnitas)**, que pide la EMOS; mientras no se abra su archivo, éste
 sostiene el pendiente de Álgebra.
 
-## Aviso al aspirante: una inconsistencia del libro
+## Nota del banco: una inconsistencia del libro (resuelta)
 
 El libro se contradice con el nombre del **segundo método de eliminación**. El
-art. 293 dice que los tres métodos son *"igualación, **comparación** y reducción"*,
-pero el propio libro titula ese segundo método, en el art. 295, como
-**"Eliminación por sustitución"**. Los reactivos citan el art. 293 al pie de la
-letra; el aspirante debe saber que en los encabezados de sección aparece como
-*sustitución*.
+resumen del art. 293 dice que los tres métodos son *"igualación, **comparación** y
+reducción"*, pero el propio libro **desarrolla y titula** ese segundo método, en el
+art. 295, como **"Eliminación por sustitución"**.
+
+**Criterio (Carlo, 24 jul 2026):** la información es importante, así que el reactivo
+se conserva, pero se **formula con el nombre con que el libro efectivamente enseña**
+el método (*sustitución*, la sección que lo desarrolla), no con el del resumen
+errado (*comparación*). Regla general del banco: **cuando el libro se contradice
+consigo mismo, el reactivo se resuelve por la sección que desarrolla el tema, no por
+el resumen.** (Los datos falsos —no las contradicciones— van como aviso al
+aspirante, no como pregunta, como en Historia cap. 6.)
 
 ## Criterio: teoría sobre práctica
 
@@ -298,20 +304,20 @@ Para resolver un sistema de esta clase es necesario obtener de las dos ecuacione
 
 ### 15
 
-En relación con el libro de Álgebra, ¿cuáles son los tres métodos de eliminación más usuales?
+En relación con el libro de Álgebra, ¿cuáles son los tres métodos de eliminación más usuales para resolver un sistema de dos ecuaciones con dos incógnitas?
 
-- A. Igualación, comparación y reducción
-- B. Igualación, sustitución y reducción
-- C. Igualación, comparación y sustitución
-- D. Sustitución, reducción y factorización
+- A. Igualación, sustitución y reducción
+- B. Sustitución, factorización y transposición
+- C. Igualación, comparación y despeje
+- D. Reducción, simplificación y agrupación
 
 **Respuesta:** A
-**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 320
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 321
 **Subtema:** Ecuaciones simultáneas · métodos de eliminación
 
-Son tres: Método de igualación, de comparación y de reducción, también llamado este último de suma o resta.
+El libro desarrolla tres métodos de eliminación: por igualación (art. 294), por sustitución (art. 295) y por reducción, también llamado de suma o resta (arts. 296-297).
 
-> El libro se contradice: el art. 293 dice "comparación" pero titula ese método "sustitución" en el art. 295. Se cita el art. 293 al pie de la letra; B ("sustitución") es la versión de los encabezados de sección, el mejor distractor.
+> El resumen del art. 293 (p. 320) nombra el 2º método "comparación", pero el libro lo desarrolla y titula "sustitución" (art. 295). El reactivo toma el nombre con que el libro efectivamente enseña el método; la contradicción del resumen se resuelve por la sección que lo desarrolla. El distractor C conserva "comparación" como trampa para quien sólo leyó el resumen.
 
 ### 16
 
