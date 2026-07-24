@@ -77,9 +77,20 @@ días, los 2 millones/segundo, y el diámetro de 7-8 µm con su forma de "rosqui
 **página 845** se cubren los glóbulos blancos (defensa, migración con seudópodos y
 fagocitosis, el pus, los 6000-9000/mm³ y la leucemia), las plaquetas (los megacariocitos,
 su función en la coagulación y su estructura sin núcleo) y el arranque de la coagulación
-sanguínea (la hemorragia y la necrosis), más la fig. 36-5 del linfocito.
+sanguínea (la hemorragia y la necrosis), más la fig. 36-5 del linfocito. De la **página
+846** se cubre el mecanismo de la coagulación (la coagulación en invertebrados y mamíferos,
+la vasoconstricción, los 15 factores, la hemofilia y el factor VIII; el recuadro 36-1 con
+las dos fases —plaquetaria y plasmática—, el endotelio y el colágeno, la cascada de
+amplificación, y la vía tromboplastina → protrombina/trombina → fibrinógeno/fibrina; y la
+fig. 36-6 del coágulo como barrera impenetrable). De la **página 847** se cubren "Una bomba
+poderosa: el corazón" (el corazón como bomba, las cuatro cámaras de aves y mamíferos, la
+circulación pulmonar y sistémica) y "El corazón humano" (los dos "corazones", el miocardio
+y los miocitos, el retorno venoso por las venas cavas, las válvulas tricúspide y mitral, el
+circuito pulmonar por la arteria pulmonar y las venas pulmonares, el circuito sistémico por
+la aorta con el sistema coronario y las carótidas, la definición de vena/arteria de la fig.
+36-7, y la contracción simultánea de aurículas y ventrículos).
 
-**Pendiente:** el capítulo 36 está EN CURSO; sigue desde la página impresa 846 (hoja 892) en adelante (el mecanismo de la coagulación sanguínea, la bomba cardíaca y el sistema de vasos sanguíneos, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, sigue sin empezar el capítulo 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 36 está EN CURSO; sigue desde la página impresa 848 (hoja 894) en adelante (el ciclo cardíaco, el sistema de conducción del corazón, los vasos sanguíneos y la presión arterial, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, sigue sin empezar el capítulo 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -960,4 +971,505 @@ Microfotografía electrónica de barrido de un linfocito humano (uno de los tipo
 
 ---
 
-**Reactivos en este archivo:** 50
+## Sub-lote 7 · La coagulación sanguínea y la hemofilia (fig. 36-6, p. 846)
+
+### 51
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el proceso de formación de la placa o coágulo que obtura una herida?
+
+- A. Coagulación
+- B. Vasoconstricción
+- C. Hematopoyesis
+- D. Fagocitosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · coagulación
+
+La aglutinación y posterior formación de una placa de células sanguíneas obtura la zona. El proceso de formación de esta placa o coágulo se denomina coagulación.
+
+---
+
+### 52
+
+De acuerdo con el libro de Biología, en los mamíferos, cuando un vaso sanguíneo se rompe, ¿qué ocurre primero con los otros vasos de la zona afectada?
+
+- A. Se contraen –vasoconstricción– y el aporte de sangre se reduce
+- B. Se dilatan y aumentan el aporte de sangre
+- C. Liberan glóbulos blancos al espacio intersticial
+- D. Se transforman en capilares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · coagulación
+
+Cuando un vaso sanguíneo se rompe, otros vasos de la zona afectada se contraen –vasoconstricción– y el aporte de sangre se reduce.
+
+---
+
+### 53
+
+De acuerdo con el libro de Biología, además de plaquetas, ¿cuántos factores de la coagulación requiere, al menos, la coagulación de la sangre?
+
+- A. Al menos 15 factores de la coagulación
+- B. Al menos 3 factores de la coagulación
+- C. Al menos 50 factores de la coagulación
+- D. Un único factor de la coagulación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · coagulación
+
+La coagulación de la sangre requiere plaquetas y, al menos 15 factores de la coagulación, algunos de ellos circulantes en el torrente sanguíneo y otros presentes en las membranas de las plaquetas o de otros tipos celulares.
+
+---
+
+### 54
+
+De acuerdo con el libro de Biología, ¿qué es la hemofilia?
+
+- A. Un grupo de enfermedades determinadas genéticamente que se caracterizan por la imposibilidad de coagulación normal
+- B. Un tipo de cáncer de la médula ósea
+- C. Una anemia por deficiencia de hierro
+- D. Una infección de los glóbulos blancos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · hemofilia
+
+La hemofilia –patología que se caracteriza por la imposibilidad de coagulación normal– es, en realidad, un grupo de enfermedades determinadas genéticamente que afectan a la coagulación.
+
+---
+
+### 55
+
+De acuerdo con el libro de Biología, en el tipo más frecuente de hemofilia, ¿de qué factor de coagulación carecen los enfermos?
+
+- A. Del factor VIII
+- B. Del factor III
+- C. De la protrombina
+- D. De la tromboplastina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · hemofilia
+
+En el tipo más frecuente de hemofilia, los enfermos carecen de un factor particular de coagulación: el factor VIII.
+
+---
+
+## Sub-lote 8 · Las fases de la coagulación (recuadro 36-1, p. 846)
+
+### 56
+
+De acuerdo con el libro de Biología, ¿en qué dos etapas se produce la coagulación?
+
+- A. La fase plaquetaria (o hemostasis primaria) y la fase de coagulación plasmática
+- B. La vasoconstricción y la vasodilatación
+- C. La hematopoyesis y la fagocitosis
+- D. La fase arterial y la fase venosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · fases de la coagulación
+
+La coagulación se produce en dos etapas: la fase plaquetaria, o hemostasis primaria, y la fase de coagulación plasmática.
+
+---
+
+### 57
+
+De acuerdo con el libro de Biología, ¿cómo se denomina la capa celular que reviste la superficie interna de los vasos sanguíneos?
+
+- A. Endotelio
+- B. Miocardio
+- C. Pleura
+- D. Hemocele
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · endotelio
+
+Cuando se daña la capa celular que reviste la superficie interna de los vasos, denominada endotelio, las plaquetas se unen con moléculas de colágeno.
+
+---
+
+### 58
+
+De acuerdo con el libro de Biología, en la fase plaquetaria, cuando se daña el endotelio, ¿con qué se unen las plaquetas?
+
+- A. Con moléculas de colágeno
+- B. Con moléculas de fibrina
+- C. Con los glóbulos rojos
+- D. Con el factor VIII
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · fase plaquetaria
+
+Cuando se daña la capa celular que reviste la superficie interna de los vasos, denominada endotelio, las plaquetas se unen con moléculas de colágeno. Así, se activan y experimentan cambios estructurales y bioquímicos profundos.
+
+---
+
+### 59
+
+De acuerdo con el libro de Biología, en la coagulación plasmática, ¿cómo es la cascada de reacciones?
+
+- A. El producto de cada paso actúa como catalizador para el paso siguiente, en un proceso de amplificación en el que aumenta el número de moléculas
+- B. Cada paso destruye las moléculas del paso anterior
+- C. Todas las reacciones ocurren simultáneamente y sin catalizadores
+- D. El número de moléculas disminuye en cada paso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · coagulación plasmática
+
+Se produce una cascada de reacciones en la que el producto de cada paso actúa como catalizador para el paso siguiente y las moléculas que intervienen son reutilizadas una y otra vez. El resultado es que, en cada paso de la serie, el número de moléculas aumenta en un proceso de amplificación.
+
+---
+
+### 60
+
+De acuerdo con el libro de Biología, en la cascada de coagulación, ¿qué hace la tromboplastina activada?
+
+- A. Convierte la protrombina en la enzima trombina, que es su forma activa
+- B. Convierte la fibrina en fibrinógeno
+- C. Convierte el colágeno en plaquetas
+- D. Convierte la trombina en protrombina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · coagulación plasmática
+
+Esta comienza con la activación de una molécula llamada tromboplastina, que convierte a la protrombina –una proteína plasmática producida en el hígado– en la enzima trombina, que es su forma activa.
+
+---
+
+### 61
+
+De acuerdo con el libro de Biología, ¿dónde se produce la protrombina, la proteína plasmática que se convierte en trombina?
+
+- A. En el hígado
+- B. En la médula ósea
+- C. En el endotelio de los vasos
+- D. En el bazo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · coagulación plasmática
+
+La protrombina –una proteína plasmática producida en el hígado–.
+
+---
+
+### 62
+
+De acuerdo con el libro de Biología, ¿sobre qué molécula actúa la trombina y en qué la convierte?
+
+- A. Sobre el fibrinógeno (forma inactiva), y cataliza su conversión a fibrina
+- B. Sobre la protrombina, y la convierte en tromboplastina
+- C. Sobre el colágeno, y lo convierte en plaquetas
+- D. Sobre la fibrina, y la convierte en fibrinógeno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · coagulación plasmática
+
+A su vez, la trombina actúa sobre una molécula en forma inactiva –el fibrinógeno– y cataliza su conversión a fibrina.
+
+---
+
+### 63
+
+De acuerdo con el libro de Biología, ¿qué forman las moléculas de fibrina al aglutinarse?
+
+- A. Una red insoluble en la cual se "enredan" los glóbulos rojos y las plaquetas, formando un coágulo
+- B. Una solución líquida que disuelve el coágulo
+- C. Una placa de colágeno sobre el endotelio
+- D. Una capa de miocardio sobre la herida
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · coagulación plasmática
+
+Las moléculas de fibrina se aglutinan y forman una red insoluble en la cual se "enredan" los glóbulos rojos y las plaquetas. Así se forma un coágulo que luego se contrae, ayudando a cerrar la herida.
+
+---
+
+### 64
+
+De acuerdo con el libro de Biología, cuando se completa el coágulo, ¿qué se forma?
+
+- A. Una barrera impenetrable que evita tanto la pérdida de líquidos vitales como la entrada de microorganismos infecciosos
+- B. Una capa temporal que se disuelve en pocos minutos
+- C. Una placa de plaquetas sin fibrina
+- D. Un tejido cicatricial de miocardio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 846
+**Subtema:** circulación · formación del coágulo
+
+Cuando se completa el coágulo, se forma una barrera impenetrable que evita tanto la pérdida de líquidos vitales como la entrada de microorganismos infecciosos.
+
+---
+
+## Sub-lote 9 · El corazón como bomba y el corazón humano (fig. 36-7, p. 847)
+
+### 65
+
+De acuerdo con el libro de Biología, cuando el corazón se contrae, ¿qué ocurre?
+
+- A. La cavidad interna se reduce, la presión en su interior aumenta y la sangre es expulsada
+- B. La cavidad interna se agranda, la presión disminuye y la sangre ingresa
+- C. La presión permanece constante y la sangre no se mueve
+- D. El músculo se relaja y la sangre retrocede
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · el corazón como bomba
+
+El corazón es un músculo con una enorme fuerza de contracción, que actúa como una verdadera bomba. Cuando se contrae, la cavidad interna se reduce, la presión en su interior aumenta y la sangre es expulsada.
+
+---
+
+### 66
+
+De acuerdo con el libro de Biología, ¿en cuántas cámaras está dividido el corazón de aves y mamíferos?
+
+- A. En cuatro cámaras: dos aurículas y dos ventrículos
+- B. En dos cámaras: una aurícula y un ventrículo
+- C. En tres cámaras: dos aurículas y un ventrículo
+- D. En una única cámara
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · corazón de aves y mamíferos
+
+El corazón de aves y mamíferos está dividido en cuatro cámaras: dos aurículas y dos ventrículos.
+
+---
+
+### 67
+
+De acuerdo con el libro de Biología, ¿cómo se denominan la circulación que irriga los pulmones y la que abastece al resto del organismo?
+
+- A. Circulación pulmonar y circulación sistémica
+- B. Circulación arterial y circulación venosa
+- C. Circulación primaria y circulación secundaria
+- D. Circulación abierta y circulación cerrada
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · circulación pulmonar y sistémica
+
+Una separación más completa entre la circulación que irriga los pulmones (circulación pulmonar) y la que abastece al resto del organismo (circulación sistémica).
+
+---
+
+### 68
+
+De acuerdo con el libro de Biología, ¿en qué dos partes funcionalmente distintas está separado el corazón humano?
+
+- A. El "corazón derecho" y el "corazón izquierdo", cada uno con una aurícula y un ventrículo comunicados por válvulas
+- B. La aurícula superior y la aurícula inferior
+- C. El corazón arterial y el corazón venoso
+- D. El miocardio y el endotelio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · corazón humano
+
+El corazón humano está separado en dos partes funcionalmente distintas, el "corazón derecho" y el "corazón izquierdo", cada una provista de una aurícula y un ventrículo comunicados entre sí mediante válvulas que dejan pasar la sangre en un sentido, pero no en el otro.
+
+---
+
+### 69
+
+De acuerdo con el libro de Biología, ¿cómo se llaman las células del músculo cardíaco o miocardio?
+
+- A. Miocitos
+- B. Leucocitos
+- C. Megacariocitos
+- D. Eritrocitos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · miocardio
+
+Este corazón de cuatro cámaras posee paredes constituidas predominantemente por músculo cardíaco (miocardio), cuyas células se denominan miocitos.
+
+---
+
+### 70
+
+De acuerdo con el libro de Biología, ¿cómo se llama el proceso por el cual la sangre retorna desde los tejidos y penetra en la aurícula derecha por las venas cavas superior e inferior?
+
+- A. Retorno venoso
+- B. Perfusión
+- C. Vasoconstricción
+- D. Circulación pulmonar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · retorno venoso
+
+La sangre que retorna desde los tejidos corporales –proceso llamado retorno venoso– penetra en la aurícula derecha mediante dos grandes venas: las venas cavas superior e inferior.
+
+---
+
+### 71
+
+De acuerdo con el libro de Biología, ¿al abrirse qué válvula pasa la sangre de la aurícula derecha al ventrículo derecho?
+
+- A. La válvula tricúspide
+- B. La válvula mitral
+- C. La válvula aórtica
+- D. La válvula pulmonar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · válvulas cardíacas
+
+Esta sangre (relativamente desoxigenada) pasa luego al ventrículo derecho, al abrirse la válvula tricúspide.
+
+---
+
+### 72
+
+De acuerdo con el libro de Biología, ¿mediante qué vaso bombea el ventrículo derecho la sangre hacia el circuito pulmonar?
+
+- A. Mediante la arteria pulmonar
+- B. Mediante la arteria aorta
+- C. Mediante las venas cavas
+- D. Mediante las venas pulmonares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · circuito pulmonar
+
+Este ventrículo bombea la sangre hacia el circuito pulmonar mediante la arteria pulmonar.
+
+---
+
+### 73
+
+De acuerdo con el libro de Biología, la sangre totalmente oxigenada que sale de los pulmones ingresa a la aurícula izquierda, ¿por qué vasos?
+
+- A. Por las venas pulmonares
+- B. Por las venas cavas
+- C. Por la arteria pulmonar
+- D. Por la arteria aorta
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · circuito pulmonar
+
+La sangre totalmente oxigenada que sale de los pulmones ingresa a la aurícula izquierda por las venas pulmonares.
+
+---
+
+### 74
+
+De acuerdo con el libro de Biología, ¿al abrirse qué válvula pasa la sangre de la aurícula izquierda al ventrículo izquierdo?
+
+- A. La válvula mitral
+- B. La válvula tricúspide
+- C. La válvula pulmonar
+- D. La válvula aórtica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · válvulas cardíacas
+
+La sangre [...] ingresa a la aurícula izquierda por las venas pulmonares y luego hacia el ventrículo izquierdo, al abrirse la válvula mitral.
+
+> Este reactivo forma par con el 71 (tricúspide, lado derecho / mitral, lado izquierdo).
+
+---
+
+### 75
+
+De acuerdo con el libro de Biología, ¿hacia qué vaso bombea el ventrículo izquierdo la sangre oxigenada, para distribuirla por el circuito sistémico?
+
+- A. Hacia la arteria aorta
+- B. Hacia la arteria pulmonar
+- C. Hacia las venas cavas
+- D. Hacia las venas pulmonares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · circuito sistémico
+
+Por último, el ventrículo izquierdo bombea la sangre que se oxigenó en los pulmones hacia la arteria aorta, que la distribuye, a su vez, por todo el circuito sistémico.
+
+---
+
+### 76
+
+De acuerdo con el libro de Biología, ¿qué irriga el sistema vascular coronario?
+
+- A. Al propio tejido cardíaco
+- B. Al cerebro
+- C. A los pulmones
+- D. A los riñones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · circuito sistémico
+
+Incluido el sistema vascular coronario, que irriga al propio tejido cardíaco.
+
+---
+
+### 77
+
+De acuerdo con el libro de Biología, ¿qué arterias irrigan el cerebro y garantizan la integridad de las células nerviosas?
+
+- A. Las arterias carótidas
+- B. Las arterias coronarias
+- C. Las arterias pulmonares
+- D. Las venas cavas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · circuito sistémico
+
+Las arterias carótidas, que irrigan el cerebro y garantizan, así, la integridad de las células nerviosas.
+
+---
+
+### 78
+
+De acuerdo con el libro de Biología, según la figura del corazón humano, ¿cómo se distingue una vena de una arteria?
+
+- A. Se denomina vena a todo vaso que ingresa en el corazón y arteria a los que salen de él, independientemente de la concentración de oxígeno de la sangre
+- B. Vena es todo vaso con sangre desoxigenada y arteria todo vaso con sangre oxigenada
+- C. Vena es todo vaso que sale del corazón y arteria todo vaso que ingresa en él
+- D. La distinción depende únicamente del diámetro del vaso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · venas y arterias
+
+Nótese que se denomina vena a todo vaso sanguíneo que ingresa en el corazón y arteria a los que salen de él, independientemente de la concentración de oxígeno que tenga la sangre que circula por ellos.
+
+---
+
+### 79
+
+De acuerdo con el libro de Biología, ¿cómo se contraen las aurículas y los ventrículos del corazón?
+
+- A. Ambas aurículas se contraen al mismo tiempo, y lo mismo ocurre con ambos ventrículos
+- B. Primero se contrae la aurícula derecha y luego la izquierda
+- C. Las aurículas y los ventrículos se contraen todos a la vez
+- D. Solo se contrae el ventrículo izquierdo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 847
+**Subtema:** circulación · contracción cardíaca
+
+Ambas aurículas se contraen al mismo tiempo y lo mismo ocurre con ambos ventrículos.
+
+---
+
+**Reactivos en este archivo:** 79
