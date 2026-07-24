@@ -29,7 +29,11 @@ título del capítulo y el epígrafe de Evelyn Fox Keller. **El cuerpo empieza e
 hoja 292** (p. 246), con la sección "Evolución del concepto de gen". Las páginas se
 leyeron de la hoja, no se calcularon.
 
-## Cobertura actual
+## Cobertura actual · CAPÍTULO 12 CERRADO
+
+**Capítulo cerrado en 131 reactivos** (decisión de Carlo, 23 jul 2026). Cubre toda
+la teoría del capítulo (pp. 246-262) más el Ensayo 12-1 (p. 249). Lo que se dejó
+fuera a propósito está más abajo.
 
 Cubiertas las páginas impresas **246 a 248**: la evolución del concepto de gen (los
 biólogos de la década de 1940 y las enzimas; George Beadle y su hipótesis sobre el
@@ -93,7 +97,11 @@ mutaciones en regiones no codificantes como la caja TATA) y la revisión del con
 de gen (el gen sin extremos físicos y no contiguo, la definición actual de gen, el
 transcriptoma y el proteoma, y por qué las definiciones clásicas ya no alcanzan).
 
-Con esto, **la teoría del capítulo 12 (pp. 246-262) queda cubierta**. Lo que se dejó
+También se cubre el **Ensayo 12-1 "El mensajero evasivo" (p. 249)**: la pista del ARN
+abundante en el citoplasma, el experimento de Brenner, Jacob y Meselson (1961) con
+uracilo radiactivo, la hibridación ADN-ARN de Sol Spiegelman y su resultado.
+
+Con esto, **la teoría del capítulo 12 (pp. 246-262) y el Ensayo 12-1 quedan cubiertos**. Lo que se dejó
 fuera a propósito: la sección "La diversidad de conceptos de gen" (p. 263), que son
 citas de opinión de varios científicos sobre qué es un gen (discursivo, no recuerdo
 literal); el recuadro "Temas en debate" (p. 263, lorem ipsum); el ensayo de cierre
@@ -102,7 +110,7 @@ literal); el recuadro "Temas en debate" (p. 263, lorem ipsum); el ensayo de cier
 aplicación). El capítulo termina en la p. 264 (la 265 abre el capítulo 13, que no
 está en el temario; el siguiente del temario es el 31).
 
-**Pendiente:** la teoría del capítulo 12 está completa (pp. 246-262); antes de cerrarlo queda por minar el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente. Queda pendiente el recuadro Ensayo 12-1 "El mensajero evasivo" (p. 249, hoja 295): trae datos concretos minables (Brenner, Jacob y Meselson, 1961; la hibridación ADN-ARN de Spiegelman), como se hizo con el Ensayo 11-1. De la materia de Biología, además del resto de este capítulo, siguen sin empezar los capítulos 31, 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 12 está cerrado en 131 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. De la materia de Biología siguen sin empezar los capítulos 31, 32, 35, 36 y 37, y este archivo —el último capítulo escrito— sostiene ese pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -2096,4 +2104,113 @@ Muchos genes codifican ARN que nunca se traducen en proteínas, como los ARNt, l
 
 ---
 
-**Reactivos en este archivo:** 124
+## Sub-lote 27 · Ensayo 12-1 · El mensajero evasivo (p. 249)
+
+### 125
+
+De acuerdo con el libro de Biología, según el ensayo 12-1, ¿cuál fue la pista principal para dilucidar el papel del ARN en el ensamblado de las proteínas?
+
+- A. Que el citoplasma de las células que sintetizan proteínas contiene una gran cantidad de ARN
+- B. Que el núcleo de esas células carece por completo de ARN
+- C. Que las proteínas contienen ADN en su estructura
+- D. Que los ribosomas no contienen ARN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 249
+**Subtema:** flujo de información genética · ARN mensajero
+
+Cuando las células están sintetizando proteínas, se puede observar que su citoplasma contiene una gran cantidad de ARN. Esta observación fue la pista principal para dilucidar el papel del ARN en el ensamblado de las proteínas.
+
+### 126
+
+De acuerdo con el libro de Biología, según el ensayo 12-1, ¿qué científicos infectaron en 1961 células de *E. coli* con fagos para probar la hipótesis del mensajero?
+
+- A. El sudafricano Sydney Brenner, el francés François Jacob y el estadounidense Matthew Meselson
+- B. George Beadle, Edgard Tatum y Thomas Morgan
+- C. James Watson, Francis Crick y Rosalind Franklin
+- D. Marshall Nirenberg, Heinrich Matthaei y George Gamow
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 249
+**Subtema:** flujo de información genética · ARN mensajero
+
+Para probar esta hipótesis, en 1961, el sudafricano Sydney Brenner, el francés François Jacob y el estadounidense Matthew Meselson infectaron células de *E. coli* con fagos.
+
+### 127
+
+De acuerdo con el libro de Biología, según el ensayo 12-1, ¿por qué usaron uracilo marcado radiactivamente en el medio de cultivo?
+
+- A. Porque el uracilo es una base presente en el ARN, pero no en el ADN
+- B. Porque el uracilo está presente solo en el ADN
+- C. Porque el uracilo no se encuentra en ningún ácido nucleico
+- D. Porque el uracilo es una proteína de los ribosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 249
+**Subtema:** flujo de información genética · ARN mensajero
+
+Las cultivaron en un medio que contenía el nucleótido de uracilo marcado radiactivamente (el uracilo es una base que está presente en el ARN, pero no en el ADN).
+
+### 128
+
+De acuerdo con el libro de Biología, según el ensayo 12-1, ¿qué encontraron al analizar las células?
+
+- A. Moléculas de ARN radiactivas, de vida corta, asociadas con ribosomas pero que no formaban parte de ellos
+- B. Moléculas de ADN radiactivas dentro del núcleo
+- C. Proteínas radiactivas de vida muy larga
+- D. Ribosomas formados por ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 249
+**Subtema:** flujo de información genética · ARN mensajero
+
+Cuando analizaron las células, encontraron moléculas de ARN radiactivas, de vida corta, asociadas con ribosomas, pero que no formaban parte de ellos.
+
+### 129
+
+De acuerdo con el libro de Biología, según el ensayo 12-1, ¿quién desarrolló la técnica de hibridación ADN-ARN, en la década de 1960?
+
+- A. El microbiólogo estadounidense Sol Spiegelman
+- B. El francés Louis Pasteur
+- C. El monje agustino Gregor Mendel
+- D. El biólogo celular alemán Günter Blobel
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 249
+**Subtema:** flujo de información genética · ARN mensajero
+
+Se utilizó la técnica conocida como hibridación ADN-ARN, desarrollada por el microbiólogo estadounidense Sol Spiegelman en la década de 1960.
+
+### 130
+
+De acuerdo con el libro de Biología, según el ensayo 12-1, en la técnica de hibridación, ¿qué ocurre al calentar suavemente y luego enfriar lentamente las moléculas de ADN en solución?
+
+- A. Al calentar, las dos cadenas de la doble hélice se separan; al enfriar, las cadenas complementarias se aparean de nuevo
+- B. Al calentar, las cadenas se unen; al enfriar, se separan para siempre
+- C. Al calentar, el ADN se convierte en ARN
+- D. Al calentar, el ADN se destruye por completo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 249
+**Subtema:** flujo de información genética · ARN mensajero
+
+Si se calientan suavemente moléculas de ADN en solución, los puentes de hidrógeno que mantienen su estructura se rompen y las dos cadenas de la doble hélice se separan. Cuando la solución se enfría lentamente, las cadenas complementarias se aparean de nuevo.
+
+### 131
+
+De acuerdo con el libro de Biología, según el ensayo 12-1, ¿qué resultado obtuvieron al mezclar el ARN radiactivo con ADN del fago y, como control, con ADN de *E. coli*?
+
+- A. Con el ADN del fago se formaron muchos híbridos radiactivos; con el ADN de *E. coli* no se formaron híbridos
+- B. Con ambos ADN se formaron híbridos radiactivos por igual
+- C. Con ninguno de los dos se formaron híbridos
+- D. Con el ADN de *E. coli* se formaron híbridos; con el del fago, no
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 249
+**Subtema:** flujo de información genética · ARN mensajero
+
+Al mezclar las moléculas radiactivas de ARN con una solución de ADN del fago y calentar y luego enfriar la mezcla, encontraron una gran cantidad de híbridos radiactivos. En el experimento de control, con una solución de ADN de *E. coli*, no detectaron híbridos radiactivos.
+
+---
+
+**Reactivos en este archivo:** 131
