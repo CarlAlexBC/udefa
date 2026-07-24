@@ -53,9 +53,14 @@ detalle (fig. 31-6: epidermis viva/muerta con queratina, melanocitos y melanina,
 glándulas sudoríparas y sebáceas, el tejido adiposo como conectivo) y los tejidos
 conjuntivos (su función de reunir/apoyar/proteger, la matriz abundante líquida
 —sangre, linfa, hemolinfa— o sólida —cartílago y hueso—, el plasma, el tejido
-cartilaginoso y sus zonas en el adulto, y el tejido óseo con fosfato de calcio).
+cartilaginoso y sus zonas en el adulto, y el tejido óseo con fosfato de calcio). De
+la **página 745** se cubre el cuadro 31-2 de los tejidos conjuntivos especializados
+(adiposo blanco con adipocitos e hipodermis; sanguíneo con glóbulos, plaquetas y
+plasma; cartilaginoso con condrocitos; óseo con hidroxiapatita y su papel en la
+homeostasis del calcio) y el esqueleto humano (fig. 31-7: 206 huesos, 29 del cráneo
+—14 de la cara y 6 de los oídos—, 27 por mano y 26 por pie).
 
-**Pendiente:** el capítulo 31 está EN CURSO; sigue desde la página impresa 745 (hoja 791) en adelante (lo que reste del tejido conjuntivo y los tejidos muscular y nervioso en detalle). Queda pendiente, además, el Cuadro 31-1 "Uniones entre células" (p. 743, cifrado como recuadro: hay que renderizarlo) y el Ensayo 31-1 "Diversidad de los sistemas de sostén". De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 31 está EN CURSO; sigue desde la página impresa 746 (hoja 792) en adelante (el tejido óseo compacto/esponjoso y los conductos de Havers, y los tejidos muscular y nervioso en detalle). Queda pendiente, además, el Cuadro 31-1 "Uniones entre células" (p. 743, cifrado como recuadro: hay que renderizarlo) y el Ensayo 31-1 "Diversidad de los sistemas de sostén". De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -233,7 +238,7 @@ Los tejidos pueden unirse entre sí y formar órganos; esta unión no solo es es
 
 ### 11
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
 
 - A. Alrededor de 200 tipos de células, que se agrupan en solo cuatro tipos de tejidos
 - B. Cuatro tipos de células, agrupadas en 200 tejidos
@@ -767,4 +772,177 @@ En el tejido óseo, la matriz de colágeno está impregnada con fosfato de calci
 
 ---
 
-**Reactivos en este archivo:** 44
+## Sub-lote 9 · Los tipos de tejido conjuntivo especializado (cuadro 31-2, p. 745)
+
+### 45
+
+De acuerdo con el libro de Biología, según el cuadro 31-2, ¿qué contiene el tejido adiposo blanco y qué funciones cumple?
+
+- A. Contiene adipocitos (células almacenadoras de lípidos); almacena energía, aísla y protege a los órganos vitales
+- B. Contiene glóbulos rojos; transporta oxígeno por el cuerpo
+- C. Contiene condrocitos; forma el cartílago
+- D. Contiene cristales de hidroxiapatita; da rigidez a los huesos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 745
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+El tejido adiposo blanco contiene adipocitos (células almacenadoras de lípidos) en íntima relación con un rico lecho vascular. Almacena energía, aísla y protege a los órganos vitales.
+
+### 46
+
+De acuerdo con el libro de Biología, según el cuadro 31-2, ¿qué capa forma el tejido adiposo blanco por debajo de la piel?
+
+- A. Una capa aislante llamada hipodermis
+- B. La epidermis
+- C. La dermis
+- D. El periostio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 745
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+El tejido adiposo blanco forma una capa aislante por debajo de la piel (hipodermis).
+
+### 47
+
+De acuerdo con el libro de Biología, según el cuadro 31-2, ¿qué contiene el tejido sanguíneo?
+
+- A. Glóbulos rojos, blancos, plaquetas y plasma
+- B. Adipocitos y lípidos almacenados
+- C. Condrocitos y colágeno
+- D. Cristales de hidroxiapatita
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 745
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+El tejido sanguíneo contiene glóbulos rojos, blancos, plaquetas y plasma.
+
+### 48
+
+De acuerdo con el libro de Biología, según el cuadro 31-2, ¿qué transporta el tejido sanguíneo?
+
+- A. Nutrientes, oxígeno, desechos y otras sustancias
+- B. Únicamente oxígeno
+- C. Únicamente desechos metabólicos
+- D. Los impulsos nerviosos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 745
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+El tejido sanguíneo transporta nutrientes, oxígeno, desechos y otras sustancias.
+
+### 49
+
+De acuerdo con el libro de Biología, según el cuadro 31-2, ¿qué células contiene el tejido cartilaginoso y qué secretan?
+
+- A. Condrocitos, que secretan una matriz extracelular sólida, firme y elástica, con colágeno que la refuerza y sustancia fundamental
+- B. Adipocitos, que almacenan lípidos
+- C. Glóbulos rojos, que transportan oxígeno
+- D. Osteocitos, que mineralizan la matriz con calcio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 745
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+El tejido cartilaginoso contiene condrocitos, células que secretan una matriz extracelular sólida, firme y elástica, con colágeno que la refuerza y sustancia fundamental.
+
+### 50
+
+De acuerdo con el libro de Biología, según el cuadro 31-2, ¿qué forma el tejido cartilaginoso en el ser humano?
+
+- A. Forma los primeros huesos del feto humano
+- B. Forma la sangre del feto humano
+- C. Forma la piel del feto humano
+- D. Forma los músculos del feto humano
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 745
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+El tejido cartilaginoso forma los primeros huesos del feto humano.
+
+### 51
+
+De acuerdo con el libro de Biología, según el cuadro 31-2, ¿con qué está mineralizada la matriz extracelular del tejido óseo?
+
+- A. Con fosfato de calcio en forma de cristales de hidroxiapatita
+- B. Con queratina
+- C. Con lípidos almacenados
+- D. Con plasma sanguíneo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 745
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+En el tejido óseo, la matriz extracelular está mineralizada (fosfato de calcio en forma de cristales de hidroxiapatita).
+
+### 52
+
+De acuerdo con el libro de Biología, según el cuadro 31-2, ¿qué almacena el tejido óseo y qué regula?
+
+- A. Almacena calcio y fosfato, que pueden pasar a la sangre, regulando la homeostasis de los niveles de calcio
+- B. Almacena oxígeno, regulando la respiración
+- C. Almacena lípidos, regulando la reserva de energía
+- D. Almacena agua, regulando la temperatura corporal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 745
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+El tejido óseo almacena calcio y fosfato que pueden pasar a la sangre, regulando la homeostasis de los niveles de calcio.
+
+---
+
+## Sub-lote 10 · El esqueleto humano (fig. 31-7, p. 745)
+
+### 53
+
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos contiene el esqueleto de un adulto?
+
+- A. 206 huesos
+- B. 300 huesos
+- C. 150 huesos
+- D. 46 huesos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 745
+**Subtema:** tejidos, órganos y sistemas · el esqueleto
+
+El esqueleto de un adulto contiene 206 huesos.
+
+### 54
+
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
+
+- A. 29 huesos, incluidos los 14 de la cara y los 6 huesecillos de los oídos
+- B. 14 huesos, todos de la cara
+- C. 6 huesos, todos de los oídos
+- D. 50 huesos en total en el cráneo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 745
+**Subtema:** tejidos, órganos y sistemas · el esqueleto
+
+Veintinueve huesos pertenecen al cráneo, incluidos los 14 huesos de la cara y los 6 huesecillos de los oídos.
+
+### 55
+
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos hay en cada mano y en cada pie?
+
+- A. 27 huesos en cada mano y 26 en cada pie
+- B. 26 huesos en cada mano y 27 en cada pie
+- C. 10 huesos en cada mano y 10 en cada pie
+- D. 20 huesos en cada mano y 20 en cada pie
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 745
+**Subtema:** tejidos, órganos y sistemas · el esqueleto
+
+Hay 27 huesos en cada mano y 26 en cada pie.
+
+---
+
+**Reactivos en este archivo:** 55
