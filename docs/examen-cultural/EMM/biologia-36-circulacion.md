@@ -98,9 +98,20 @@ flujo sanguíneo y el gasto cardíaco (72 latidos/min, 0,07 L por latido, 5 L/mi
 sanguíneos (el recorrido arterias → arteriolas → capilares → vénulas → venas, la pared de
 arterias y venas, y los sistemas porta con el ejemplo hepático) y la regulación del latido
 (el bulbo raquídeo y el autónomo, simpático/parasimpático, la adrenalina, la autorregulación
-por elongación y los circuitos en serie, fig. 36-9).
+por elongación y los circuitos en serie, fig. 36-9). De la **página 850** se cubren la
+resistencia vascular y la regulación de la perfusión (viscosidad y diámetro, la
+vasoconstricción y la vasodilatación de las arteriolas, la inervación simpática y las
+hormonas, la termorregulación cutánea, el flujo cerebral constante y las manifestaciones
+emocionales, fig. 36-10), la presión sanguínea (su definición, la medición en el brazo, los
+120/80, sistólica y diastólica, la presión máxima en la aorta y el volumen regulado en los
+riñones) y la anatomía de arterias y venas (las tres capas, el endotelio, las arterias que
+mantienen presión y las venas para extracciones, figs. 36-10 y 36-11). De la **página 851**
+se cubren el centro de regulación cardiovascular en el bulbo y el retorno venoso (las venas
+como reservorio, las válvulas venosas contra el reflujo, la bomba muscular al caminar, las
+várices, la velocidad mínima en los capilares y las venas como mayor depósito, figs. 36-12 y
+36-13).
 
-**Pendiente:** el capítulo 36 está EN CURSO; sigue desde la página impresa 850 (hoja 896) en adelante (la presión arterial, los capilares y el intercambio con los tejidos, y el sistema linfático, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, sigue sin empezar el capítulo 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 36 está EN CURSO; sigue desde la página impresa 852 (hoja 898) en adelante (los capilares y el intercambio con los tejidos, y el sistema linfático, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, sigue sin empezar el capítulo 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -1983,4 +1994,456 @@ Debido a que ambos circuitos (pulmonar y sistémico) se encuentran dispuestos en
 
 ---
 
-**Reactivos en este archivo:** 108
+## Sub-lote 14 · La resistencia vascular y la regulación de la perfusión (fig. 36-10, p. 850)
+
+### 109
+
+De acuerdo con el libro de Biología, ¿de qué depende la resistencia vascular?
+
+- A. De la viscosidad de la sangre y del diámetro de los vasos sanguíneos
+- B. Únicamente de la frecuencia cardíaca
+- C. Del número de glóbulos blancos
+- D. De la cantidad de válvulas venosas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · resistencia vascular
+
+La resistencia vascular depende, por un lado, de la viscosidad de la sangre y, por otro, del diámetro de los vasos sanguíneos.
+
+---
+
+### 110
+
+De acuerdo con el libro de Biología, cuando el músculo liso de las arteriolas se contrae (vasoconstricción), ¿qué ocurre?
+
+- A. Su luz disminuye y, por lo tanto, también disminuye el flujo hacia el lecho capilar que alimenta
+- B. Su luz aumenta y aumenta el flujo de sangre a los capilares
+- C. La presión en la aorta desciende bruscamente
+- D. Se cierran las válvulas venosas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · vasoconstricción
+
+Cuando el músculo liso de las arteriolas se contrae (vasoconstricción), su luz disminuye y, por lo tanto, también disminuye el flujo hacia el lecho capilar que alimenta.
+
+---
+
+### 111
+
+De acuerdo con el libro de Biología, cuando el músculo liso de las arteriolas se relaja (vasodilatación), ¿qué ocurre?
+
+- A. La arteriola aumenta su luz y el flujo de sangre a los capilares aumenta
+- B. La arteriola disminuye su luz y el flujo a los capilares disminuye
+- C. Las venas se contraen y elevan su presión
+- D. La presión sistólica sube a 120 mm Hg
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · vasodilatación
+
+Cuando el músculo liso se relaja, la arteriola aumenta su luz (vasodilatación) y el flujo de sangre a los capilares aumenta.
+
+---
+
+### 112
+
+De acuerdo con el libro de Biología, ¿qué inervación reciben los músculos lisos de las arteriolas y qué sustancias los afectan?
+
+- A. Inervación autonómica (principalmente simpática), y las hormonas adrenalina y noradrenalina y el óxido nítrico producido en el endotelio vascular
+- B. Inervación voluntaria de la corteza cerebral, sin influencia hormonal
+- C. Solo la acción del haz de His
+- D. Únicamente la insulina y el glucagón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · regulación vascular
+
+Estos músculos lisos reciben inervación autonómica (principalmente del sistema simpático) y se encuentran también afectados por las hormonas adrenalina y noradrenalina y el óxido nítrico producido en el endotelio vascular.
+
+---
+
+### 113
+
+De acuerdo con el libro de Biología, ¿cómo se regula la perfusión a distintos tejidos según los requerimientos variables del animal?
+
+- A. Mediante la constricción o la dilatación selectiva de las arteriolas
+- B. Mediante la apertura y el cierre de las válvulas cardíacas
+- C. Aumentando o disminuyendo el número de glóbulos rojos
+- D. Modificando la viscosidad de la sangre en el hígado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · regulación de la perfusión
+
+Mediante la constricción o la dilatación selectiva de las arteriolas se regula la perfusión a distintos tejidos y, de este modo, la provisión de O2 y nutrientes según los requerimientos variables del animal.
+
+---
+
+### 114
+
+De acuerdo con el libro de Biología, cuando las temperaturas son bajas, ¿qué ocurre con el flujo de sangre hacia la piel, como respuesta termorregulatoria?
+
+- A. Se reduce por vasoconstricción, disminuyendo la pérdida de calor desde la sangre hacia el ambiente
+- B. Aumenta por vasodilatación, incrementando la pérdida de calor
+- C. Se mantiene constante como el del cerebro
+- D. Se detiene por completo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · termorregulación
+
+Cuando las temperaturas son bajas, el flujo de sangre hacia la piel se reduce por vasoconstricción, disminuyendo así la pérdida de calor desde la sangre hacia el ambiente, lo que constituye una típica respuesta termorregulatoria en mamíferos y aves.
+
+---
+
+### 115
+
+De acuerdo con el libro de Biología, ¿cómo es el flujo de sangre al cerebro y por qué tiene particular importancia?
+
+- A. Es constante, debido a la gran sensibilidad de las células cerebrales a una disminución de los niveles sanguíneos de O2 y de glucosa
+- B. Es variable, según el ejercicio y la digestión
+- C. Se reduce por vasoconstricción ante el frío
+- D. Aumenta solo durante la digestión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · flujo cerebral
+
+El flujo de sangre al cerebro es constante. Esto tiene particular importancia debido a que la gran sensibilidad de las células cerebrales a una disminución de los niveles sanguíneos de O2 y de glucosa constituye un aspecto crítico.
+
+---
+
+### 116
+
+De acuerdo con el libro de Biología, ¿cuáles son ejemplos de manifestaciones emocionales que influyen sobre la vasoconstricción y la dilatación?
+
+- A. El rubor causado al sentir vergüenza, la palidez por miedo y el dolor de pecho por la emoción (angina pectoris)
+- B. El aumento del número de glóbulos rojos por estrés
+- C. La coagulación de la sangre ante una herida
+- D. La contracción de las válvulas venosas al caminar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · regulación emocional del flujo
+
+Ciertas manifestaciones emocionales también influyen sobre la vasoconstricción y la dilatación y, de esta manera, sobre la distribución del flujo de sangre. Ejemplos familiares son el rubor causado al sentir vergüenza, la palidez por miedo, la sensación de dolor en el pecho y en el brazo izquierdo desencadenada por la emoción (angina pectoris).
+
+---
+
+## Sub-lote 15 · La presión sanguínea (p. 850)
+
+### 117
+
+De acuerdo con el libro de Biología, ¿qué es la presión sanguínea?
+
+- A. Una medida de la fuerza por unidad de área que ejerce la sangre sobre las paredes de los vasos sanguíneos
+- B. El volumen de sangre bombeado por el corazón por minuto
+- C. El número de latidos del corazón por minuto
+- D. La viscosidad de la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · presión sanguínea
+
+La presión sanguínea es una medida de la fuerza por unidad de área que ejerce la sangre sobre las paredes de los vasos sanguíneos.
+
+---
+
+### 118
+
+De acuerdo con el libro de Biología, ¿dónde se mide habitualmente la presión arterial?
+
+- A. En la arteria del brazo
+- B. En la arteria carótida del cuello
+- C. En la vena cava inferior
+- D. En la aorta
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · presión arterial
+
+La presión arterial habitualmente se mide en la arteria del brazo.
+
+---
+
+### 119
+
+De acuerdo con el libro de Biología, ¿a qué corresponde la presión sanguínea sistólica de 120 mm Hg de un adulto joven?
+
+- A. A cuando los ventrículos alcanzan su contracción máxima
+- B. A cuando los ventrículos se relajan
+- C. A cuando las aurículas se llenan de sangre
+- D. A cuando se cierra la válvula aórtica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · presión sistólica
+
+La presión sanguínea normal de un adulto joven es de 120 milímetros de mercurio (mm Hg) cuando los ventrículos alcanzan su contracción máxima (presión sanguínea sistólica).
+
+---
+
+### 120
+
+De acuerdo con el libro de Biología, ¿a qué corresponde la presión diastólica de 80 mm Hg?
+
+- A. A cuando los ventrículos se relajan
+- B. A cuando los ventrículos alcanzan su contracción máxima
+- C. A cuando se abre la válvula aórtica
+- D. A cuando la sangre entra en la aorta
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · presión diastólica
+
+De 80 mm Hg cuando estos se relajan (presión diastólica). Estos valores se expresan como una presión sanguínea de 120/80.
+
+> Este reactivo forma par con el 119 (sistólica: contracción máxima, 120 / diastólica: relajación, 80).
+
+---
+
+### 121
+
+De acuerdo con el libro de Biología, ¿dónde es máxima y dónde mínima la presión sanguínea?
+
+- A. Máxima en la aorta y mínima en las grandes venas que retornan la sangre al corazón
+- B. Máxima en los capilares y mínima en la aorta
+- C. Máxima en las venas y mínima en las arterias
+- D. Igual en todos los tramos del circuito
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · presión sanguínea
+
+La presión sanguínea es máxima en la aorta y mínima en las grandes venas que retornan la sangre al corazón.
+
+---
+
+### 122
+
+De acuerdo con el libro de Biología, ¿dónde se regula principalmente el volumen circulante de sangre, un tercer factor que determina la presión?
+
+- A. En los riñones
+- B. En el hígado
+- C. En el bazo
+- D. En la médula ósea
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · presión sanguínea
+
+El volumen circulante de sangre, que se regula principalmente en los riñones, es un tercer factor relevante que determina la presión.
+
+---
+
+## Sub-lote 16 · La anatomía de arterias y venas (figs. 36-10 y 36-11, p. 850)
+
+### 123
+
+De acuerdo con el libro de Biología, ¿en cuántas capas están constituidas las paredes de las arterias?
+
+- A. En tres capas: la interna o endotelio, la media con músculo liso y tejidos elásticos, y la externa de colágeno y tejidos de sostén
+- B. En una única capa de endotelio
+- C. En dos capas: endotelio y músculo cardíaco
+- D. En cuatro capas de tejido conjuntivo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · anatomía de los vasos
+
+Las arterias tienen las paredes más gruesas y más fuertes, y están constituidas por tres capas. La capa interna, o endotelio, forma el revestimiento interior de los vasos y está en contacto directo con la sangre; la capa media contiene músculo liso y tejidos elásticos; la capa externa, también elástica, está constituida por colágeno y otros tejidos de sostén.
+
+---
+
+### 124
+
+De acuerdo con el libro de Biología, ¿cuál es la capa interna de los vasos, que forma el revestimiento interior en contacto directo con la sangre?
+
+- A. El endotelio
+- B. La capa media de músculo liso
+- C. La capa externa de colágeno
+- D. El miocardio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · anatomía de los vasos
+
+La capa interna, o endotelio, forma el revestimiento interior de los vasos y está en contacto directo con la sangre.
+
+---
+
+### 125
+
+De acuerdo con el libro de Biología, gracias a su elasticidad, ¿qué característica tienen las arterias?
+
+- A. Se estiran cuando la sangre se vierte en ellas y mantienen presión
+- B. No se estiran y no oponen resistencia a la sangre
+- C. Albergan el mayor volumen de sangre del circuito
+- D. Carecen de músculo liso en sus paredes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · anatomía de los vasos
+
+Dada su elasticidad, las arterias se estiran cuando la sangre se vierte en ellas, al mismo tiempo que oponen una resistencia importante a la presión que ejerce la sangre sobre sus paredes. En otras palabras, son vasos que mantienen presión.
+
+---
+
+### 126
+
+De acuerdo con el libro de Biología, ¿por qué las extracciones de sangre se realizan punzando venas y no arterias?
+
+- A. Porque las venas son más delgadas y distensibles, no mantienen presión y pueden albergar un gran volumen sanguíneo
+- B. Porque las venas tienen paredes más gruesas y elásticas que las arterias
+- C. Porque las venas mantienen mayor presión que las arterias
+- D. Porque las arterias carecen de sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 850
+**Subtema:** circulación · anatomía de los vasos
+
+Las paredes de las venas [...] son más delgadas y menos elásticas; es decir, son más distensibles. Esto no les permite mantener presión, aunque pueden albergar un gran volumen sanguíneo. Esta es la razón por la cual las extracciones de sangre se realizan punzando venas y no arterias.
+
+---
+
+## Sub-lote 17 · El centro de regulación cardiovascular y el retorno venoso (figs. 36-12 y 36-13, p. 851)
+
+### 127
+
+De acuerdo con el libro de Biología, ¿dónde se localiza el centro de regulación cardiovascular?
+
+- A. En el bulbo, una parte pequeña del encéfalo que se continúa con la médula espinal
+- B. En la corteza cerebral
+- C. En el nódulo sinoauricular del corazón
+- D. En los riñones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 851
+**Subtema:** circulación · centro de regulación cardiovascular
+
+La descarga nerviosa que controla la contracción del músculo liso de los vasos sanguíneos, junto con la actividad nerviosa que regula el ritmo cardíaco y la potencia del latido está coordinada por el centro de regulación cardiovascular. Este centro se localiza en el bulbo, una parte pequeña del encéfalo que se continúa con la médula espinal.
+
+---
+
+### 128
+
+De acuerdo con el libro de Biología, ¿por qué las venas almacenan una cantidad importante de sangre?
+
+- A. Porque sus paredes delgadas y sus diámetros relativamente grandes ofrecen poca resistencia al flujo sanguíneo
+- B. Porque sus paredes gruesas y elásticas mantienen la presión
+- C. Porque poseen el mayor número de válvulas
+- D. Porque están en contacto directo con el corazón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 851
+**Subtema:** circulación · retorno venoso
+
+Las venas, con sus paredes delgadas y sus diámetros relativamente grandes, ofrecen poca resistencia al flujo sanguíneo, de manera que almacenan una cantidad importante de sangre.
+
+---
+
+### 129
+
+De acuerdo con el libro de Biología, ¿qué función cumplen las válvulas de las venas?
+
+- A. Evitan el reflujo de sangre
+- B. Oxigenan la sangre en los tejidos
+- C. Aumentan la presión sistólica
+- D. Regulan la frecuencia cardíaca
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 851
+**Subtema:** circulación · válvulas venosas
+
+Las válvulas de las venas evitan el reflujo de sangre.
+
+---
+
+### 130
+
+De acuerdo con el libro de Biología, ¿cómo se intensifica el retorno de sangre venosa al corazón?
+
+- A. Por las contracciones de los músculos esqueléticos de los miembros, que comprimen las venas y elevan la presión en su interior
+- B. Por la contracción de las arteriolas
+- C. Por el aumento de la viscosidad de la sangre
+- D. Por el cierre de la válvula aórtica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 851
+**Subtema:** circulación · retorno venoso
+
+El retorno de sangre venosa al corazón se intensifica por las contracciones de los músculos esqueléticos de los miembros. Cuando una persona camina, los músculos de las piernas comprimen las venas que yacen entre los músculos que se contraen. La presión dentro de las venas se eleva y se incrementa el flujo.
+
+---
+
+### 131
+
+De acuerdo con el libro de Biología, ¿qué provoca la aparición de várices?
+
+- A. La distensión anormal de las paredes venosas, que vuelve defectuoso el cierre de las válvulas y acumula sangre en las venas
+- B. La contracción excesiva de las arteriolas
+- C. El aumento de la presión sistólica en la aorta
+- D. La falta de glóbulos blancos en la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 851
+**Subtema:** circulación · várices
+
+La edad avanzada o la permanencia prolongada en posición de pie provocan la distensión anormal de las paredes venosas, que aumenta el diámetro de las venas y, en consecuencia, el cierre de las válvulas se torna defectuoso. De esta manera [...] se produce una acumulación de sangre en las venas [...] y genera la aparición de várices.
+
+---
+
+### 132
+
+De acuerdo con el libro de Biología, ¿en qué tramo del circuito es mínima la velocidad del flujo sanguíneo?
+
+- A. En los capilares, cuyo número es inmenso
+- B. En la aorta
+- C. En las venas cavas
+- D. En las arteriolas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 851
+**Subtema:** circulación · velocidad del flujo
+
+La velocidad del flujo sanguíneo depende inversamente del área transversal conjunta que se verifica en cada tramo del circuito; es mínima en los capilares, cuyo número es inmenso.
+
+---
+
+### 133
+
+De acuerdo con el libro de Biología, ¿qué vasos constituyen el mayor "depósito" de sangre del circuito?
+
+- A. Las venas, por ser distensibles
+- B. Las arterias, por ser elásticas
+- C. Los capilares, por ser numerosos
+- D. Las arteriolas, por tener músculo liso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 851
+**Subtema:** circulación · reservorio venoso
+
+Al ser distensibles, las venas constituyen el mayor "depósito" de sangre del circuito.
+
+---
+
+### 134
+
+De acuerdo con el libro de Biología, ¿cómo actúan las válvulas situadas dentro del sistema venoso?
+
+- A. Se abren y permiten el movimiento de la sangre hacia el corazón, y se cierran para evitar el retroceso
+- B. Se abren solo durante la sístole ventricular
+- C. Permiten el paso de la sangre en ambos sentidos
+- D. Regulan la frecuencia cardíaca
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 851
+**Subtema:** circulación · válvulas venosas
+
+Las válvulas situadas a intervalos dentro del sistema venoso se abren y permiten el movimiento de la sangre hacia el corazón (válvula superior) y se cierran y evitan, así, el retroceso (válvula inferior).
+
+---
+
+**Reactivos en este archivo:** 134
