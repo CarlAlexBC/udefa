@@ -221,7 +221,7 @@ sinápticos; la suma y anulación de PEPS y PIPS que decide si la neurona dispar
 efecto de las benzodiazepinas sobre circuitos con predominio de PIPS, y el procesamiento
 de la información en el cuerpo celular de cada neurona.
 
-**Pendiente:** el capítulo 32 quedó CERRADO el 23 jul 2026 en 271 reactivos y cubre completas las páginas impresas 756-775 (el ensayo de cierre "Retomando la problemática inicial" y los ejercicios no llevan reactivos por norma). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37 —el temario salta del 32 al 35, porque los capítulos 33 y 34 no entran—, y mientras no exista el `.md` del capítulo 35 este archivo sostiene el pendiente de la materia.
+**Pendiente:** ninguno. El capítulo 32 está cerrado en 271 reactivos (23 jul 2026) y cubre completas las páginas impresas 756-775; el ensayo de cierre "Retomando la problemática inicial" y los ejercicios no llevan reactivos por norma. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 35 (`biologia-35-respiracion.md`).
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
