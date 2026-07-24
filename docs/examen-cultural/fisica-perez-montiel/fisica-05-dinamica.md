@@ -1,39 +1,43 @@
 # Física · Unidad 5 · Dinámica
 
-**Materia:** dos temarios piden esta unidad del mismo libro — `FIS-03-2026`
-(EMO) y `FG-03-2026` (EMOS).
-**Unidad del libro:** Unidad 5. Dinámica → **sólo los 7 temas** que suman los dos
-temarios (2. Leyes de la Dinámica · 3. Gravitación Universal · 5. Estática ·
-8. Energía · 10. Sustentabilidad y Contaminación · 13. Cantidad de Movimiento o
-Momento Lineal · 16. Ley de la Conservación de la Cantidad de Movimiento o del
-Momento Lineal · 17. Ley de la Conservación del Momento Angular)
+**Materia:** **cinco planteles** piden esta unidad del mismo libro, con tres
+claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM y EMOS) y
+`FIS-02-2026` (EMA y EMMA).
+**Unidad del libro:** Unidad 5. Dinámica → los temas 2, 3, 5, 8, 10, 13, 16 y 17.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
-> **libro**, no a una escuela. Quién lo pide es cosa del temario, y **los dos
-> temarios no piden lo mismo**:
+> **libro**, no a una escuela. Quién lo pide es cosa del temario, y **ningún
+> plantel pide lo mismo que otro**:
 >
-> | Tema de la Unidad 5 | EMO (`FIS-03-2026`) | EMOS (`FG-03-2026`) |
-> |---|:---:|:---:|
-> | 2 · Leyes de la dinámica | sí | sí |
-> | 3 · Gravitación universal | sí | sí |
-> | 5 · Estática | sí | — |
-> | 8 · Energía | sí | sí |
-> | 10 · Sustentabilidad y contaminación | — | sí |
-> | 13 · Cantidad de movimiento o momento lineal | sí | — |
-> | 16 · Ley de la conservación de la cantidad de movimiento | — | sí |
-> | 17 · Ley de la conservación del momento angular | sí | — |
+> | Tema de la Unidad 5 | EMO<br>`FIS-03` | EMM<br>`FG-03` | EMOS<br>`FG-03` | EMA/EMMA<br>`FIS-02` |
+> |---|:---:|:---:|:---:|:---:|
+> | 2 · Leyes de la dinámica | sí | sí | sí | — |
+> | 3 · Gravitación universal | sí | — | sí | — |
+> | 5 · Estática | sí | — | — | — |
+> | 6 · Fricción | — | — | — | **sí — NO ESCRITO** |
+> | 8 · Energía | sí | sí | sí | sí |
+> | 10 · Sustentabilidad y contaminación | — | — | sí | — |
+> | 13 · Cantidad de movimiento o momento lineal | sí | sí | — | — |
+> | 16 · Ley de la conservación de la cantidad de movimiento | — | — | sí | — |
+> | 17 · Ley de la conservación del momento angular | sí | sí | — | — |
 >
-> Sólo los temas 2, 3 y 8 los piden las dos escuelas. Los temas 5, 13 y 17 son de
-> la EMO nada más; los temas 10 y 16, de la EMOS nada más. Por eso **la línea
-> `**Tema:**` de cada reactivo es obligatoria**: es la clave (`U5 t3`, `U5 t16`…)
-> con la que cada temario manda a llamar lo suyo. Sin ella las dos escuelas se
-> llevarían todo el archivo. `**Referencia:**` (libro, edición, página) y
-> `**Subtema:**` completan la llave.
+> **Trampa verificada el 24 jul 2026:** la clave `FG-03-2026` aparece en el PDF
+> de la EMM **y** en el de la EMOS, pero **las dos listas de temas son
+> distintas**. De esta unidad la EMM pide los temas 2, 8, 13 y 17; la EMOS pide
+> los temas 2, 3, 8, 10 y 16. No basta con leer el código: hay que abrir el PDF
+> de cada plantel. Los 94 reactivos con que arrancó este archivo son justo los
+> cuatro temas de la **EMM**, aunque el encabezado viejo se los atribuía a la
+> EMOS.
+>
+> Por eso **la línea `**Tema:**` de cada reactivo es obligatoria**: es la clave
+> (`U5 t3`, `U5 t16`…) con la que cada temario manda a llamar lo suyo. Sin ella
+> los cinco planteles se llevarían todo el archivo. `**Referencia:**` (libro,
+> edición, página) y `**Subtema:**` completan la llave.
 >
 > Ojo con los temas 16 y 17, que se parecen de nombre y **no son el mismo**: el 16
 > es la conservación de la **cantidad de movimiento** (momento lineal) y lo pide
-> sólo la EMOS; el 17 es la conservación del **momento angular** y lo pide sólo la
-> EMO.
+> sólo la EMOS; el 17 es la conservación del **momento angular** y lo piden la EMO
+> y la EMM.
 
 ## Libro
 
@@ -130,8 +134,10 @@ temas 1, 6, 7, 9, 11, 12 y 18.
   sus ejercicios propuestos. La teoría del tema 16 cabe entera en la p. 207.
 - Los "Ejercicios propuestos" de toda la unidad.
 
-**Pendiente:** ninguno. La Unidad 5 queda **CERRADA** en los ocho temas que suman
-los dos temarios.
+**Pendiente:** el **tema 6, Fricción (pp. 177–183)**, que pide el temario
+`FIS-02-2026` de la EMA y la EMMA. No estaba en el paquete de esta tanda, que se
+armó sumando la EMO y la EMOS. Con eso la unidad queda **CERRADA para la EMO, la
+EMM y la EMOS**, y le falta un solo tema para cerrar también la EMA y la EMMA.
 
 ## Cómo se escriben estos reactivos
 

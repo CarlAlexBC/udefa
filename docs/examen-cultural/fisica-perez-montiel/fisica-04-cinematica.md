@@ -1,32 +1,33 @@
 # Física · Unidad 4 · Cinemática
 
-**Materia:** dos temarios piden esta unidad del mismo libro — `FIS-03-2026`
-(EMO) y `FG-03-2026` (EMOS).
-**Unidad del libro:** Unidad 4. Cinemática → **sólo los 7 temas** que suman los
-dos temarios (2. Concepto de Partícula Material en Movimiento e Interpretación de
-su Trayectoria · 4. Distancia, Desplazamiento, Velocidad y Rapidez · 5.
-Movimiento Rectilíneo Uniforme (MRU) · 6. Velocidad Media · 9. Aceleración y
-Movimiento Rectilíneo Uniformemente Acelerado (MRUA) · 10. Tiro Parabólico ·
-11. Movimiento Circular)
+**Materia:** **cinco planteles** piden esta unidad del mismo libro, con tres
+claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM y EMOS) y
+`FIS-02-2026` (EMA y EMMA).
+**Unidad del libro:** Unidad 4. Cinemática → los temas 2, 4, 5, 6, 9, 10 y 11.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
-> **libro**, no a una escuela. Quién lo pide es cosa del temario, y **los dos
-> temarios no piden lo mismo**:
+> **libro**, no a una escuela. Quién lo pide es cosa del temario, y **ningún
+> plantel pide lo mismo que otro**:
 >
-> | Tema de la Unidad 4 | EMO (`FIS-03-2026`) | EMOS (`FG-03-2026`) |
-> |---|:---:|:---:|
-> | 2 · Partícula material y trayectoria | sí | — |
-> | 4 · Distancia, desplazamiento, velocidad y rapidez | sí | sí |
-> | 5 · MRU | sí | — |
-> | 6 · Velocidad media | sí | — |
-> | 9 · Aceleración y MRUA | sí | sí |
-> | 10 · Tiro parabólico | sí | — |
-> | 11 · Movimiento circular | sí | — |
+> | Tema de la Unidad 4 | EMO<br>`FIS-03` | EMM<br>`FG-03` | EMOS<br>`FG-03` | EMA/EMMA<br>`FIS-02` |
+> |---|:---:|:---:|:---:|:---:|
+> | 2 · Partícula material y trayectoria | sí | — | — | — |
+> | 4 · Distancia, desplazamiento, velocidad y rapidez | sí | sí | sí | sí |
+> | 5 · MRU | sí | — | — | sí |
+> | 6 · Velocidad media | sí | — | — | sí |
+> | 7 · Velocidad instantánea | — | — | — | **sí — NO ESCRITO** |
+> | 9 · Aceleración y MRUA | sí | — | sí | — |
+> | 10 · Tiro parabólico | sí | — | — | — |
+> | 11 · Movimiento circular | sí | — | — | — |
 >
-> Sólo los temas 4 y 9 los piden las dos escuelas; los otros cinco son de la EMO
-> nada más. Por eso **la línea `**Tema:**` de cada reactivo es obligatoria**: es
-> la clave (`U4 t5`, `U4 t9`…) con la que cada temario manda a llamar lo suyo. Sin
-> ella las dos escuelas se llevarían todo el archivo. `**Referencia:**` (libro,
+> **Trampa verificada el 24 jul 2026:** la clave `FG-03-2026` aparece en el PDF
+> de la EMM **y** en el de la EMOS, pero **las dos listas de temas son
+> distintas**. La EMM sólo pide el tema 4 de esta unidad; la EMOS pide el 4 y el
+> 9. No basta con leer el código: hay que abrir el PDF de cada plantel.
+>
+> Por eso **la línea `**Tema:**` de cada reactivo es obligatoria**: es la clave
+> (`U4 t5`, `U4 t9`…) con la que cada temario manda a llamar lo suyo. Sin ella
+> los cinco planteles se llevarían todo el archivo. `**Referencia:**` (libro,
 > edición, página) y `**Subtema:**` completan la llave.
 
 ## Libro
@@ -98,8 +99,10 @@ cinemática), 3 (Sistemas de referencia inerciales y no inerciales), 7 (Velocida
 instantánea), 8 (Interpretación de gráficas), 12 (MCUA) y 13 (MAS), aunque los
 temas 1 y 3 comparten la p. 68 con el tema 2.
 
-**Pendiente:** ninguno. La Unidad 4 queda **CERRADA** en los siete temas que
-suman los dos temarios.
+**Pendiente:** el **tema 7, Velocidad instantánea (p. 76)**, que pide el temario
+`FIS-02-2026` de la EMA y la EMMA. No estaba en el paquete de esta tanda, que se
+armó sumando la EMO y la EMOS. Con eso la unidad queda **CERRADA para la EMO, la
+EMM y la EMOS**, y le falta un solo tema para cerrar también la EMA y la EMMA.
 
 ## Erratas del libro
 
