@@ -45,9 +45,13 @@ encéfalo, el cerebelo del tiburón, el cuerpo estriado de las aves, la corteza
 cerebral de los mamíferos), el tamaño del encéfalo (el *Argentinosaurus*; la ballena
 10 000 g / 0,02%; el humano 1300-1500 g / 2%; el plegamiento de la corteza en los
 primates; 86 000 millones de neuronas frente a las 7000 de la abeja) y la red difusa
-de los cnidarios (fig. 32-1).
+de los cnidarios (fig. 32-1). De la **página 758** se cubre la neurona (unidad
+morfofuncional que se comunica por señales eléctricas y químicas, las sinapsis, el
+soma, las dendritas, el axón y la información unidireccional) y las células de la
+glía (la vaina de mielina y sus funciones de sostén, nutrición, defensa y guía), más
+los ganglios del sistema nervioso periférico.
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 758 (hoja 804) en adelante (el resto de los sistemas nerviosos de los invertebrados y la neurona en detalle). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 759 (hoja 805) en adelante (las neuronas sensoriales/motoras, la transmisión de señales, y la división en sistema nervioso central —SNC— y periférico —SNP—). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -375,4 +379,128 @@ En el cnidario, las neuronas forman una red difusa.
 
 ---
 
-**Reactivos en este archivo:** 20
+## Sub-lote 3 · La neurona y las células de la glía (fig. 32-2, p. 758)
+
+### 21
+
+De acuerdo con el libro de Biología, ¿en qué células se basa todo sistema nervioso, y cómo se comunican entre sí?
+
+- A. En las neuronas, unidades morfofuncionales que se comunican entre sí mediante señales eléctricas y químicas
+- B. En las células de la glía, que se comunican solo por señales químicas
+- C. En los ganglios, que no se comunican entre sí
+- D. En la vaina de mielina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · la neurona
+
+Todo sistema nervioso se basa en la actividad de células especializadas, las neuronas: unidades morfofuncionales que se comunican entre sí mediante señales eléctricas y químicas.
+
+### 22
+
+De acuerdo con el libro de Biología, además de a otras neuronas, ¿a qué otras células transmiten señales las neuronas?
+
+- A. A células efectoras, como las células musculares o las glandulares
+- B. Únicamente a las células de la glía
+- C. A ninguna otra célula del cuerpo
+- D. Solo a las células óseas del esqueleto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · la neurona
+
+Las neuronas no solo transmiten señales a otras neuronas, sino también a células efectoras que forman parte de tejidos que responden a estas, como las células musculares o las glandulares.
+
+### 23
+
+De acuerdo con el libro de Biología, ¿a través de qué uniones ocurre la transmisión de la señal, y por medio de qué de manera habitual?
+
+- A. A través de las sinapsis, de manera habitual por medio de la liberación de transmisores químicos
+- B. A través de las vértebras, por medio de impulsos óseos
+- C. A través del soma, por medio de la contracción
+- D. A través de la vaina de mielina, solo por señales eléctricas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · la neurona
+
+La transmisión de la señal ocurre a través de uniones conocidas como sinapsis, de manera habitual por medio de la liberación de transmisores químicos.
+
+### 24
+
+De acuerdo con el libro de Biología, ¿cómo se llama el cuerpo de la neurona que contiene el núcleo?
+
+- A. El soma
+- B. El axón
+- C. La dendrita
+- D. El ganglio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · la neurona
+
+Las células nerviosas o neuronas están formadas por un cuerpo, o soma, que contiene al núcleo.
+
+### 25
+
+De acuerdo con el libro de Biología, ¿en qué sentido circula la información en la neurona?
+
+- A. Siempre unidireccional: desde las dendritas hacia el cuerpo neuronal, y de allí por el axón hasta el extremo ramificado (teledendrón)
+- B. En ambos sentidos por igual
+- C. Solamente desde el axón hacia las dendritas
+- D. No circula: permanece siempre en el soma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · la neurona
+
+La información es siempre unidireccional desde las dendritas hacia el cuerpo neuronal, y de allí por el axón hasta el extremo ramificado (teledendrón).
+
+### 26
+
+De acuerdo con el libro de Biología, ¿qué conforman las células de la glía que recubre la mayoría de los axones y acelera la transmisión de las señales?
+
+- A. La vaina de mielina
+- B. El soma de la neurona
+- C. Las dendritas
+- D. Los ganglios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · células de la glía
+
+Las células de la glía conforman la vaina de mielina, que recubre la mayoría de los axones y que acelera la transmisión de las señales a través de las neuronas.
+
+### 27
+
+De acuerdo con el libro de Biología, además de conformar la vaina de mielina, ¿qué otras funciones cumplen las células de la glía?
+
+- A. Actúan como tejido de sostén, facilitan la nutrición de las neuronas y la eliminación de sus desechos, contribuyen a su defensa y actúan como guías para el desarrollo neuronal
+- B. Transmiten los impulsos nerviosos en lugar de las neuronas
+- C. Únicamente almacenan lípidos como reserva
+- D. Producen las hormonas del sistema endocrino
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · células de la glía
+
+Las células de la glía actúan como tejido de sostén, facilitan la nutrición de las neuronas y la eliminación de sus desechos metabólicos, contribuyen a su defensa y actúan como guías para el desarrollo neuronal.
+
+### 28
+
+De acuerdo con el libro de Biología, en los vertebrados y los invertebrados, ¿cómo se llama la agrupación de los cuerpos (somas) de las células nerviosas en el sistema nervioso periférico?
+
+- A. Ganglios
+- B. Sinapsis
+- C. Dendritas
+- D. Vainas de mielina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · la neurona
+
+En los vertebrados, al igual que en los invertebrados, los cuerpos o somas de las células nerviosas, con frecuencia, se encuentran agrupados en ganglios en el sistema nervioso periférico.
+
+---
+
+**Reactivos en este archivo:** 28
