@@ -61,7 +61,17 @@ presión atmosférica estándar, el torr y el manómetro. **No** se sacan reacti
 de los Ejemplos 5.1 y 5.2 (pág. 179) ni de la sección "Revisión de conceptos y
 hechos" (pág. 180): son ejercicios, y el examen cultural es teórico.
 
-**Pendiente:** los subtemas **5.3** a **5.8**.
+**5.3 Las leyes de los gases (págs. 180–186): cerrado.** De dónde salen las leyes
+de los gases; la relación presión-volumen y la **ley de Boyle** con el aparato de
+Boyle y la constante de proporcionalidad; la relación temperatura-volumen, la
+**ley de Charles y Gay-Lussac**, el cero absoluto, la escala Kelvin y su relación
+con la Celsius; y la relación volumen-cantidad con la **ley de Avogadro** y la
+razón de volúmenes en la síntesis de amoníaco. **No** se sacan reactivos de la
+analogía del ingreso de la sala de cine (págs. 182–183), que es un recurso
+didáctico y no contenido de química, ni de la "Revisión de conceptos y hechos"
+de la pág. 186.
+
+**Pendiente:** los subtemas **5.4** a **5.8**.
 
 ## Tablas y figuras que NO se citan — la traducción las destrozó
 
@@ -949,11 +959,652 @@ De acuerdo con el libro de Química, ¿qué relación hay entre la altura del l�
 
 Porque la altura del líquido en una columna es inversamente proporcional a la densidad del líquido, esta propiedad permite la construcción de barómetros y manómetros manejablemente pequeños.
 
+## Sub-lote 3 · 5.3 Las leyes de los gases (págs. 180–186)
+
+### 53
+
+De acuerdo con el libro de Química, ¿de qué son producto las leyes de los gases?
+
+- A. De innumerables experimentos sobre las propiedades físicas de los gases que se llevaron a cabo durante varios siglos
+- B. De un único experimento realizado por Robert Boyle en el siglo XVII
+- C. De cálculos teóricos hechos sin recurrir a la experimentación
+- D. De la observación directa de las moléculas con el microscopio
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 180
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · origen de las leyes de los gases
+
+Las leyes de los gases que estudiaremos en este capítulo son el producto de innumerables experimentos sobre las propiedades físicas de los gases que se llevaron a cabo durante varios siglos.
+
+### 54
+
+De conformidad con el libro de Química, ¿qué representa cada una de las generalizaciones sobre el comportamiento macroscópico de las sustancias gaseosas?
+
+- A. Un hito en la historia de la ciencia
+- B. Una hipótesis todavía sin comprobar
+- C. Un caso particular de la ley de Boyle
+- D. Una aproximación válida sólo para los gases nobles
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 180
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · origen de las leyes de los gases
+
+Cada una de estas generalizaciones sobre el comportamiento macroscópico de las sustancias gaseosas representa un hito en la historia de la ciencia.
+
+### 55
+
+En relación con el libro de Química, ¿en qué siglo estudió Robert Boyle el comportamiento de los gases de forma sistemática y cuantitativa?
+
+- A. En el siglo XVII
+- B. En el siglo XVI
+- C. En el siglo XVIII
+- D. En el siglo XIX
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 180
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Boyle
+
+En el siglo XVII, Robert Boyle estudió el comportamiento de los gases de forma sistemática y cuantitativa.
+
+### 56
+
+De acuerdo con el libro de Química, ¿qué relación investigó Boyle en una serie de estudios sobre una muestra de gas?
+
+- A. La relación presión-volumen
+- B. La relación temperatura-volumen
+- C. La relación volumen-cantidad
+- D. La relación masa-densidad
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 180
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Boyle
+
+En una serie de estudios, Boyle investigó la relación presión-volumen de una muestra de gas.
+
+### 57
+
+De conformidad con el libro de Química, ¿qué le ocurre al volumen ocupado por una cantidad dada de gas a medida que aumenta la presión a temperatura constante?
+
+- A. Disminuye
+- B. Aumenta
+- C. Permanece igual
+- D. Se duplica
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 180
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Boyle
+
+Tenga en cuenta que a medida que aumenta la presión (P) a temperatura constante, el volumen (V) ocupado por una cantidad dada de gas disminuye.
+
+### 58
+
+En relación con el libro de Química, ¿qué tipo de relación existe entre la presión y el volumen de un gas a temperatura constante?
+
+- A. Una relación inversa
+- B. Una relación directa
+- C. Una relación exponencial
+- D. No existe ninguna relación
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 180
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Boyle
+
+Claramente, existe una relación inversa entre la presión y el volumen de un gas a temperatura constante.
+
+### 59
+
+De acuerdo con el libro de Química, ¿qué establece la ley de Boyle?
+
+- A. Que la presión de una cantidad fija de gas a una temperatura constante es inversamente proporcional al volumen del gas
+- B. Que la presión de una cantidad fija de gas a una temperatura constante es directamente proporcional al volumen del gas
+- C. Que el volumen de una cantidad fija de gas a presión constante es directamente proporcional a la temperatura absoluta del gas
+- D. Que a presión y temperatura constantes, el volumen de un gas es directamente proporcional al número de moles del gas presente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 180
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Boyle
+
+Esta relación ahora se conoce como la ley de Boyle, que establece que la presión de una cantidad fija de gas a una temperatura constante es inversamente proporcional al volumen del gas.
+
+> Los distractores C y D son los enunciados de la ley de Charles y de la ley de
+> Avogadro, que este mismo subtema define más adelante (reactivos 80 y 88).
+
+### 60
+
+De conformidad con el libro de Química, ¿qué libro de Robert Boyle influyó en generaciones de químicos?
+
+- A. *The Skeptical Chymist*, publicado en 1661
+- B. *Principios*, publicado en 1687
+- C. *La ley de los gases ideales*, publicado en 1811
+- D. *Hidrodinámica*, publicado en 1662
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 180
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Boyle
+
+A pesar de que Boyle a menudo estaba en desacuerdo con los científicos de su generación, su libro *The Skeptical Chymist* (1661) influyó en generaciones de químicos.
+
+### 61
+
+En relación con el libro de Química, ¿qué le ocurre al volumen del gas cuando se duplica la presión sobre él en el aparato de Boyle?
+
+- A. Se reduce a la mitad, de 100 mL a 50 mL
+- B. Se duplica, de 100 mL a 200 mL
+- C. Se mantiene en 100 mL
+- D. Se reduce a un tercio del valor original
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 181
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Boyle
+
+En la figura 5.5(b), se agregó más mercurio para duplicar la presión sobre el gas, y el volumen del gas se reduce a 50 mL.
+
+### 62
+
+De acuerdo con el libro de Química, ¿qué le ocurre al volumen del gas al triplicar la presión sobre él?
+
+- A. Disminuye a un tercio del valor original
+- B. Disminuye a la mitad del valor original
+- C. Se triplica respecto del valor original
+- D. No cambia respecto del valor original
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 181
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Boyle
+
+Triplicar la presión sobre el gas disminuye su volumen a un tercio del valor original.
+
+### 63
+
+De conformidad con el libro de Química, ¿cómo se llama la constante k1 de la expresión matemática de la ley de Boyle?
+
+- A. Constante de proporcionalidad
+- B. Constante de los gases
+- C. Constante de Avogadro
+- D. Constante atmosférica
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 181
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Boyle
+
+Donde k1 es una constante llamada constante de proporcionalidad.
+
+### 64
+
+En relación con el libro de Química, ¿qué dice la ley de Boyle en la forma en que relaciona el producto de la presión y el volumen?
+
+- A. Que el producto de la presión y el volumen de un gas a temperatura constante y cantidad de gas constante es una constante
+- B. Que el cociente de la presión entre el volumen de un gas es siempre una constante
+- C. Que la suma de la presión y el volumen de un gas es siempre una constante
+- D. Que el producto de la presión y la temperatura de un gas es siempre una constante
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 181
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Boyle
+
+Esta forma de la ley de Boyle dice que el producto de la presión y el volumen de un gas a temperatura constante y la cantidad de gas es una constante.
+
+### 65
+
+De acuerdo con el libro de Química, ¿a qué es igual la presión aplicada a un gas?
+
+- A. A la presión del gas
+- B. A la mitad de la presión del gas
+- C. Al doble de la presión del gas
+- D. A la presión atmosférica estándar
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 181
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Boyle
+
+La presión aplicada a un gas es igual a la presión del gas.
+
+### 66
+
+De conformidad con el libro de Química, ¿qué se mantiene igual para una muestra dada de gas mientras la temperatura se mantenga constante y la cantidad de gas no cambie?
+
+- A. El producto de la presión por el volumen, que siempre es igual a la misma constante
+- B. El valor individual de la presión, que nunca varía
+- C. El valor individual del volumen, que nunca varía
+- D. La densidad del gas, que nunca varía
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 183
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Boyle
+
+Aunque los valores individuales de presión y volumen pueden variar mucho para una muestra dada de gas, mientras la temperatura se mantenga constante y la cantidad de gas no cambie, P por V siempre es igual a la misma constante.
+
+### 67
+
+En relación con el libro de Química, ¿quiénes fueron los primeros investigadores de la relación entre la temperatura y el volumen de un gas?
+
+- A. Los científicos franceses Jacques Charles y Joseph Gay-Lussac
+- B. El químico británico Robert Boyle y el físico inglés Isaac Newton
+- C. El científico italiano Amedeo Avogadro y el físico escocés Lord Kelvin
+- D. El físico francés Blaise Pascal y el científico italiano Evangelista Torricelli
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 183
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Charles
+
+Los primeros investigadores de esta relación fueron los científicos franceses Jacques Charles y Joseph Gay-Lussac.
+
+### 68
+
+De acuerdo con el libro de Química, ¿qué demostraron los estudios de Charles y Gay-Lussac sobre el volumen de una muestra de gas a presión constante?
+
+- A. Que aumenta cuando se calienta y disminuye cuando se enfría
+- B. Que disminuye cuando se calienta y aumenta cuando se enfría
+- C. Que no cambia aunque cambie la temperatura
+- D. Que sólo cambia si además cambia la cantidad de gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 183
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Charles
+
+Sus estudios demostraron que, a presión constante, el volumen de una muestra de gas aumenta cuando se calienta y disminuye cuando se enfría.
+
+### 69
+
+De conformidad con el libro de Química, ¿qué figura produce la gráfica de volumen contra temperatura a cualquier presión dada?
+
+- A. Una línea recta
+- B. Una curva que se acerca al eje sin tocarlo
+- C. Una circunferencia
+- D. Una línea quebrada en dos tramos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 183
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Charles
+
+A cualquier presión dada, la gráfica de volumen versus temperatura produce una línea recta.
+
+### 70
+
+En relación con el libro de Química, ¿por qué en la práctica sólo podemos medir el volumen de un gas en un rango de temperatura limitado?
+
+- A. Porque todos los gases se condensan a bajas temperaturas para formar líquidos
+- B. Porque todos los gases se descomponen a bajas temperaturas
+- C. Porque los termómetros no funcionan a bajas temperaturas
+- D. Porque el volumen de los gases deja de depender de la temperatura
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 183
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Charles
+
+En la práctica, podemos medir el volumen de un gas solo en un rango de temperatura limitado, porque todos los gases se condensan a bajas temperaturas para formar líquidos.
+
+### 71
+
+De acuerdo con el libro de Química, ¿por qué se distinguió Jacques Alexandre César Charles además de por ser un conferencista talentoso?
+
+- A. Por ser inventor de aparatos científicos y la primera persona en usar hidrógeno para inflar globos
+- B. Por haber inventado el barómetro de mercurio
+- C. Por haber establecido la escala de temperatura absoluta
+- D. Por haber inventado una máquina calculadora
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 183
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Charles
+
+Jacques Alexandre César Charles (1746–1823), físico francés. Fue un conferencista talentoso, un inventor de aparatos científicos y la primera persona en usar hidrógeno para inflar globos.
+
+### 72
+
+De conformidad con el libro de Química, ¿a qué altitud ascendió una vez Joseph Louis Gay-Lussac para recolectar muestras de aire para su análisis?
+
+- A. A 20.000 pies
+- B. A 2.000 pies
+- C. A 200.000 pies
+- D. A 6,4 km
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 183
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Charles
+
+Al igual que Charles, Gay-Lussac era un entusiasta de los globos. Una vez ascendió a una altitud de 20.000 pies para recolectar muestras de aire para su análisis.
+
+### 73
+
+En relación con el libro de Química, ¿en qué año se dio cuenta Lord Kelvin de la importancia del fenómeno de la intersección de temperatura de volumen cero?
+
+- A. En 1848
+- B. En 1811
+- C. En 1661
+- D. En 1687
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 184
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · cero absoluto
+
+En 1848, Lord Kelvin se dio cuenta de la importancia de este fenómeno.
+
+### 74
+
+De acuerdo con el libro de Química, ¿qué es el cero absoluto?
+
+- A. Teóricamente, la temperatura más baja alcanzable
+- B. La temperatura a la que se congela el agua
+- C. La temperatura a la que hierve el agua
+- D. La temperatura de las condiciones atmosféricas normales
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 184
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · cero absoluto
+
+Identificó −273,15 °C como el cero absoluto, teóricamente la temperatura más baja alcanzable.
+
+> El PDF imprime el signo menos como `ÿ` ("ÿ273.15°C"); se restituye el menos,
+> según la política del encabezado.
+
+### 75
+
+De conformidad con el libro de Química, ¿qué escala estableció Lord Kelvin con el cero absoluto como punto de partida?
+
+- A. Una escala de temperatura absoluta, ahora llamada escala de temperatura Kelvin
+- B. La escala de temperatura Celsius
+- C. La escala de presión en atmósferas
+- D. La escala de volumen en litros
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 184
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · escala Kelvin
+
+Luego estableció una escala de temperatura absoluta, ahora llamada escala de temperatura Kelvin, con el cero absoluto como punto de partida.
+
+### 76
+
+En relación con el libro de Química, ¿cómo es un kelvin (K) respecto de un grado Celsius?
+
+- A. Es igual en magnitud a un grado Celsius
+- B. Es el doble en magnitud que un grado Celsius
+- C. Es la mitad en magnitud que un grado Celsius
+- D. Es 273,15 veces mayor que un grado Celsius
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 184
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · escala Kelvin
+
+En la escala Kelvin, un kelvin (K) es igual en magnitud a un grado Celsius.
+
+### 77
+
+De acuerdo con el libro de Química, ¿cuál es la única diferencia entre la escala de temperatura absoluta y la escala Celsius?
+
+- A. Que la posición cero está desplazada
+- B. Que la magnitud de cada grado es distinta
+- C. Que una mide presión y la otra volumen
+- D. Que una sólo sirve para gases y la otra para líquidos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 184
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · escala Kelvin
+
+La única diferencia entre la escala de temperatura absoluta y la escala Celsius es que la posición cero está desplazada.
+
+### 78
+
+De conformidad con el libro de Química, ¿qué letras se usan por convención para la temperatura absoluta y para la temperatura en la escala Celsius?
+
+- A. T para la temperatura absoluta en kelvin y t para la temperatura en la escala Celsius
+- B. t para la temperatura absoluta en kelvin y T para la temperatura en la escala Celsius
+- C. K para la temperatura absoluta y C para la temperatura en la escala Celsius
+- D. P para la temperatura absoluta y V para la temperatura en la escala Celsius
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 184
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · escala Kelvin
+
+Por convención, usamos T para indicar la temperatura absoluta (kelvin) y t para indicar la temperatura en la escala Celsius.
+
+### 79
+
+En relación con el libro de Química, ¿qué valor se usa en la mayoría de los cálculos como término que relaciona K y °C?
+
+- A. 273, en lugar de 273,15
+- B. 273,15, en lugar de 273
+- C. 373, en lugar de 373,15
+- D. 100, en lugar de 273
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 184
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · escala Kelvin
+
+En la mayoría de los cálculos usaremos 273 en lugar de 273,15 como el término que relaciona K y °C.
+
+### 80
+
+De acuerdo con el libro de Química, ¿qué establece la ley de Charles y Gay-Lussac?
+
+- A. Que el volumen de una cantidad fija de gas mantenida a presión constante es directamente proporcional a la temperatura absoluta del gas
+- B. Que el volumen de una cantidad fija de gas mantenida a presión constante es inversamente proporcional a la temperatura absoluta del gas
+- C. Que la presión de una cantidad fija de gas a una temperatura constante es inversamente proporcional al volumen del gas
+- D. Que a presión y temperatura constantes, el volumen de un gas es directamente proporcional al número de moles del gas presente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 184
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Charles
+
+La ecuación (5.3) se conoce como ley de Charles y Gay Lussac, o simplemente ley de Charles, que establece que el volumen de una cantidad fija de gas mantenida a presión constante es directamente proporcional a la temperatura absoluta del gas.
+
+### 81
+
+De conformidad con el libro de Química, ¿en qué unidad debe estar la temperatura en los cálculos de la ley de los gases?
+
+- A. En kelvins
+- B. En grados Celsius
+- C. En atmósferas
+- D. En pascales
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 184
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · escala Kelvin
+
+Recuerde que la temperatura debe estar en kelvins en los cálculos de la ley de los gases.
+
+### 82
+
+En relación con el libro de Química, ¿qué han logrado los científicos en condiciones experimentales especiales respecto del cero absoluto?
+
+- A. Aproximarse al cero absoluto en una pequeña fracción de un kelvin
+- B. Alcanzar exactamente el cero absoluto
+- C. Descender por debajo del cero absoluto
+- D. Demostrar que el cero absoluto no existe
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 184
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · cero absoluto
+
+En condiciones experimentales especiales, los científicos han logrado aproximarse al cero absoluto en una pequeña fracción de un kelvin.
+
+### 83
+
+De acuerdo con el libro de Química, ¿qué era William Thomson, Lord Kelvin?
+
+- A. Matemático y físico escocés
+- B. Químico y filósofo natural británico
+- C. Científico italiano
+- D. Químico y físico francés
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 184
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · escala Kelvin
+
+William Thomson, Lord Kelvin (1824-1907). Matemático y físico escocés. Kelvin hizo un trabajo importante en muchas ramas de la física.
+
+### 84
+
+De conformidad con el libro de Química, ¿qué muestra otra forma de la ley de Charles a una cantidad constante de gas y volumen?
+
+- A. Que la presión de un gas es proporcional a la temperatura
+- B. Que la presión de un gas es inversamente proporcional a la temperatura
+- C. Que el volumen de un gas es proporcional a la presión
+- D. Que la densidad de un gas es proporcional a la temperatura
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 185
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Charles
+
+Otra forma de la ley de Charles muestra que a una cantidad constante de gas y volumen, la presión de un gas es proporcional a la temperatura.
+
+### 85
+
+En relación con el libro de Química, ¿de qué nacionalidad era el científico Amedeo Avogadro?
+
+- A. Italiano
+- B. Francés
+- C. Británico
+- D. Escocés
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 185
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Avogadro
+
+El trabajo del científico italiano Amedeo Avogadro complementó los estudios de Boyle, Charles y Gay-Lussac.
+
+### 86
+
+De acuerdo con el libro de Química, ¿qué afirmaba la hipótesis que Avogadro publicó en 1811?
+
+- A. Que a la misma temperatura y presión, volúmenes iguales de diferentes gases contienen el mismo número de moléculas
+- B. Que a la misma temperatura y presión, volúmenes iguales de diferentes gases contienen la misma masa
+- C. Que a la misma temperatura y presión, volúmenes distintos de un mismo gas contienen el mismo número de moléculas
+- D. Que a la misma temperatura y presión, todos los gases tienen la misma densidad
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 185
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Avogadro
+
+En 1811 publicó una hipótesis que afirmaba que a la misma temperatura y presión, volúmenes iguales de diferentes gases contienen el mismo número de moléculas (o átomos si el gas es monoatómico).
+
+### 87
+
+De conformidad con el libro de Química, ¿a qué debe ser proporcional el volumen de cualquier gas dado?
+
+- A. Al número de moles de moléculas presentes
+- B. A la masa de cada una de sus moléculas
+- C. Al cuadrado de la presión aplicada
+- D. A la densidad del gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 185
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Avogadro
+
+De ello se deduce que el volumen de cualquier gas dado debe ser proporcional al número de moles de moléculas presentes.
+
+### 88
+
+En relación con el libro de Química, ¿qué establece la ley de Avogadro?
+
+- A. Que a presión y temperatura constantes, el volumen de un gas es directamente proporcional al número de moles del gas presente
+- B. Que a presión y temperatura constantes, el volumen de un gas es inversamente proporcional al número de moles del gas presente
+- C. Que la presión de una cantidad fija de gas a temperatura constante es inversamente proporcional al volumen del gas
+- D. Que el volumen de una cantidad fija de gas a presión constante es directamente proporcional a la temperatura absoluta del gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 185
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Avogadro
+
+La ecuación (5.7) es la expresión matemática de la ley de Avogadro, que establece que a presión y temperatura constantes, el volumen de un gas es directamente proporcional al número de moles del gas presente.
+
+> Las tres leyes de este subtema se distinguen por lo que se mantiene constante:
+> Boyle deja fija la temperatura (reactivo 59), Charles deja fija la presión
+> (reactivo 80) y Avogadro deja fijas la presión y la temperatura (reactivo 88).
+> Cada enunciado es el mejor distractor de los otros dos.
+
+### 89
+
+De acuerdo con el libro de Química, ¿qué ocurre con los volúmenes de reacción cuando dos gases reaccionan entre sí?
+
+- A. Tienen una relación simple entre sí
+- B. No guardan ninguna relación entre sí
+- C. Son siempre iguales entre sí
+- D. Se anulan mutuamente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 185
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Avogadro
+
+De acuerdo con la ley de Avogadro, vemos que cuando dos gases reaccionan entre sí, sus volúmenes de reacción tienen una relación simple entre sí.
+
+### 90
+
+De conformidad con el libro de Química, en la síntesis de amoníaco, ¿cuál es la relación de volumen de hidrógeno molecular a nitrógeno molecular?
+
+- A. 3:1
+- B. 1:3
+- C. 2:4
+- D. 1:2
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 185
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Avogadro
+
+La relación de volumen de hidrógeno molecular a nitrógeno molecular es 3:1, y la de amoníaco (el producto) a la suma de los volúmenes de hidrógeno molecular y nitrógeno molecular (los reactivos) es 2:4 o 1:2.
+
+> Las dos razones del mismo renglón se usan una como distractor de la otra:
+> hidrógeno a nitrógeno es **3:1**, y amoníaco a la suma de los reactivos es
+> **2:4 o 1:2** (reactivos 90 y 91).
+
+### 91
+
+En relación con el libro de Química, ¿cuál es la relación del volumen de amoníaco a la suma de los volúmenes de hidrógeno molecular y nitrógeno molecular?
+
+- A. 2:4 o 1:2
+- B. 3:1
+- C. 1:1
+- D. 4:2 o 2:1
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 185
+**Tema:** 5.3 · las leyes de los gases
+**Subtema:** Química · ley de Avogadro
+
+La relación de volumen de hidrógeno molecular a nitrógeno molecular es 3:1, y la de amoníaco (el producto) a la suma de los volúmenes de hidrógeno molecular y nitrógeno molecular (los reactivos) es 2:4 o 1:2.
+
 ---
 
-**Pendiente:** los subtemas **5.3** (las leyes de los gases), **5.4** (la ecuación
-de los gases ideales), **5.5** (estequiometría de gases), **5.6** (ley de Dalton
-de las presiones parciales), **5.7** (la teoría cinética molecular de los gases)
-y **5.8** (desviación del comportamiento ideal).
+**Pendiente:** los subtemas **5.4** (la ecuación de los gases ideales), **5.5**
+(estequiometría de gases), **5.6** (ley de Dalton de las presiones parciales),
+**5.7** (la teoría cinética molecular de los gases) y **5.8** (desviación del
+comportamiento ideal).
 
-**Reactivos en este archivo:** 52
+**Reactivos en este archivo:** 91
