@@ -31,7 +31,8 @@ numerados quedan fuera por la norma de teoría sobre práctica.
 
 ## Cobertura actual
 
-**EN CURSO.** Cubierto de la p. 143 a la 157:
+**COMPLETO.** El capítulo X queda cubierto en sus diez casos de factorización, de la
+p. 143 a la 172:
 
 - Recuadro histórico de Hypatia (p. 143).
 - Factores o divisores (art. 131), descomponer en factores o factorar (art. 132) y
@@ -46,12 +47,20 @@ numerados quedan fuera por la norma de teoría sobre práctica.
 - Caso V: trinomio cuadrado perfecto por adición y sustracción; combinación de los
   casos III y IV; y por qué una suma de dos cuadrados no se descompone en factores
   racionales (arts. 143–144).
+- Caso VI: trinomio de la forma x²+bx+c, con sus condiciones y la regla práctica
+  (arts. 145–147).
+- Caso VII: trinomio de la forma ax²+bx+c (arts. 148–149).
+- Caso VIII: cubo perfecto de binomios y la raíz cúbica de un monomio (arts. 150–151).
+- Caso IX: suma o diferencia de cubos perfectos, con las Reglas 1 y 2 (arts. 154–155).
+- Caso X: suma o diferencia de dos potencias iguales y sus reglas de divisibilidad
+  (art. 156), más el principio de la combinación de casos (art. 158).
 
-**Pendiente:** sigue el Capítulo X con los casos restantes, del **Caso VI** en adelante —los
-casos que faltan hasta completar los diez y el cuadro de los tipos básicos— y
-después faltan de Álgebra los capítulos **XVIII (Fórmulas, p. 270), XX (Funciones),
-XXIV y XXV (Ecuaciones simultáneas)**, que piden EMM/EMO/EMOS. Este archivo sostiene
-el pendiente de Álgebra mientras el capítulo en curso sea el X.
+**Pendiente:** el capítulo X (los diez casos, pp. 143–170, más el principio para combinar
+casos) queda cerrado; los ejercicios de descomposición en 3, 4, 5 y 6 factores (arts.
+158–159 en adelante) son práctica y no llevan reactivos. Lo que falta de Álgebra son los
+capítulos **XVIII (Fórmulas, p. 270), XX (Funciones), XXIV y XXV (Ecuaciones
+simultáneas)**, que piden EMM/EMO/EMOS; mientras no se abra el archivo del XVIII, éste
+sostiene el pendiente de Álgebra.
 
 ## Criterio: teoría sobre práctica
 
@@ -562,5 +571,268 @@ En general una suma de dos cuadrados no tiene descomposición en factores racion
 
 ---
 
-**Reactivos en este archivo:** 30
-**Pendiente:** sigue el Capítulo X con los casos restantes, del Caso VI en adelante —los trinomios de la forma x²+bx+c y ax²+bx+c, el cubo perfecto de binomios, la suma y diferencia de cubos y demás— hasta completar los diez casos y el cuadro de los tipos básicos; después faltan de Álgebra los capítulos XVIII (Fórmulas, p. 270), XX (Funciones), XXIV y XXV (Ecuaciones simultáneas), que piden EMM/EMO/EMOS. Mientras el capítulo en curso sea el X, este archivo sostiene el pendiente de Álgebra.
+## Sub-lote 10 · Caso VI: trinomio de la forma x²+bx+c (arts. 145–146, pp. 158–159)
+
+### 31
+
+En relación con el libro de Álgebra, en un trinomio de la forma x²+bx+c, ¿cuánto vale el coeficiente del primer término?
+
+- A. 1
+- B. Una cantidad cualquiera distinta de 1
+- C. 2
+- D. El doble del segundo término
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 158
+**Subtema:** Descomposición factorial · Caso VI
+
+El coeficiente del primer término es 1.
+
+### 32
+
+En relación con el libro de Álgebra, en un trinomio de la forma x²+bx+c, ¿cómo es el tercer término?
+
+- A. Independiente de la letra que aparece en el 1º y 2º términos y una cantidad cualquiera, positiva o negativa
+- B. Igual a la letra del primer término elevada al cuadrado
+- C. La misma letra del primero con exponente 1
+- D. El doble producto de las raíces del primero y segundo términos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 158
+**Subtema:** Descomposición factorial · Caso VI
+
+El tercer término es independiente de la letra que aparece en el 1º y 2º términos y es una cantidad cualquiera, positiva o negativa.
+
+### 33
+
+En relación con el libro de Álgebra, según la regla práctica para factorar un trinomio de la forma x²+bx+c, ¿cuál es el primer término de cada factor binomio?
+
+- A. x, o sea la raíz cuadrada del primer término del trinomio
+- B. El tercer término del trinomio
+- C. El coeficiente del segundo término
+- D. La raíz cúbica del primer término del trinomio
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 158
+**Subtema:** Descomposición factorial · Caso VI
+
+El trinomio se descompone en dos factores binomios cuyo primer término es x, o sea la raíz cuadrada del primer término del trinomio.
+
+### 34
+
+En relación con el libro de Álgebra, al factorar un trinomio de la forma x²+bx+c, si los dos factores binomios tienen en el medio signos iguales, ¿qué dos números se buscan?
+
+- A. Dos números cuya suma sea el valor absoluto del segundo término del trinomio y cuyo producto sea el valor absoluto del tercer término
+- B. Dos números cuya diferencia sea el valor absoluto del segundo término y cuyo producto sea el valor absoluto del tercer término
+- C. Dos números cuya suma sea el tercer término y cuyo producto sea el segundo término
+- D. Dos números iguales cuya suma sea el segundo término
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 159
+**Subtema:** Descomposición factorial · Caso VI
+
+Si los dos factores binomios tienen en el medio signos iguales se buscan dos números cuya suma sea el valor absoluto del segundo término del trinomio y cuyo producto sea el valor absoluto del tercer término del trinomio.
+
+### 35
+
+En relación con el libro de Álgebra, al factorar un trinomio de la forma x²+bx+c, si los dos factores binomios tienen en el medio signos distintos, ¿qué dos números se buscan?
+
+- A. Dos números cuya diferencia sea el valor absoluto del segundo término del trinomio y cuyo producto sea el valor absoluto del tercer término
+- B. Dos números cuya suma sea el valor absoluto del segundo término y cuyo producto sea el valor absoluto del tercer término
+- C. Dos números cuya diferencia sea el tercer término y cuyo producto sea el segundo término
+- D. Dos números cuyo cociente sea el segundo término
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 159
+**Subtema:** Descomposición factorial · Caso VI
+
+Si los dos factores binomios tienen en el medio signos distintos se buscan dos números cuya diferencia sea el valor absoluto del segundo término del trinomio y cuyo producto sea el valor absoluto del tercer término del trinomio.
+
+---
+
+## Sub-lote 11 · Caso VII: trinomio de la forma ax²+bx+c (art. 148, p. 163)
+
+### 36
+
+En relación con el libro de Álgebra, ¿cómo se llama el Caso VII de la descomposición factorial?
+
+- A. Trinomio de la forma ax²+bx+c
+- B. Trinomio de la forma x²+bx+c
+- C. Cubo perfecto de binomios
+- D. Diferencia de cuadrados perfectos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 163
+**Subtema:** Descomposición factorial · Caso VII
+
+Caso VII. Trinomio de la forma ax²+bx+c.
+
+### 37
+
+En relación con el libro de Álgebra, ¿en qué se diferencian los trinomios de la forma ax²+bx+c de los de la forma x²+bx+c?
+
+- A. En que el primer término tiene un coeficiente distinto de 1
+- B. En que tienen cuatro términos en vez de tres
+- C. En que el tercer término es siempre negativo
+- D. En que el primer término no es un cuadrado
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 163
+**Subtema:** Descomposición factorial · Caso VII
+
+Se diferencian de los trinomios estudiados en el caso anterior en que el primer término tiene un coeficiente distinto de 1.
+
+---
+
+## Sub-lote 12 · Caso VIII: cubo perfecto de binomios (arts. 150–151, pp. 166–167)
+
+### 38
+
+En relación con el libro de Álgebra, ¿cuántos términos debe tener una expresión ordenada para ser el cubo de un binomio?
+
+- A. Cuatro términos
+- B. Tres términos
+- C. Dos términos
+- D. Cinco términos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 166
+**Subtema:** Descomposición factorial · Caso VIII
+
+Tener cuatro términos.
+
+### 39
+
+En relación con el libro de Álgebra, para que una expresión ordenada sea el cubo de un binomio, ¿cómo deben ser el primero y el último términos?
+
+- A. Cubos perfectos
+- B. Cuadrados perfectos
+- C. Iguales entre sí
+- D. Uno positivo y el otro negativo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 166
+**Subtema:** Descomposición factorial · Caso VIII
+
+Que el primero y el último términos sean cubos perfectos.
+
+### 40
+
+En relación con el libro de Álgebra, si todos los términos de la expresión son positivos, ¿de qué es el cubo la expresión?
+
+- A. Del cubo de la suma de las raíces cúbicas de su primero y último término
+- B. Del cubo de la diferencia de las raíces cúbicas de su primero y último término
+- C. Del cuadrado de la suma de las raíces cúbicas de su primero y último término
+- D. Del cubo del producto de las raíces cúbicas de su primero y último término
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 166
+**Subtema:** Descomposición factorial · Caso VIII
+
+Si todos los términos de la expresión son positivos, la expresión dada es el cubo de la suma de las raíces cúbicas de su primero y último término.
+
+> Si los términos son alternativamente positivos y negativos, la expresión es el cubo
+> de la diferencia de dichas raíces.
+
+### 41
+
+En relación con el libro de Álgebra, ¿cómo se obtiene la raíz cúbica de un monomio?
+
+- A. Extrayendo la raíz cúbica de su coeficiente y dividiendo el exponente de cada letra entre 3
+- B. Extrayendo la raíz cuadrada de su coeficiente y dividiendo el exponente de cada letra entre 2
+- C. Extrayendo la raíz cúbica de su coeficiente y multiplicando el exponente de cada letra por 3
+- D. Dividiendo el coeficiente y el exponente de cada letra entre 3
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 166
+**Subtema:** Descomposición factorial · Caso VIII
+
+La raíz cúbica de un monomio se obtiene extrayendo la raíz cúbica de su coeficiente y dividiendo el exponente de cada letra entre 3.
+
+---
+
+## Sub-lote 13 · Caso IX: suma o diferencia de cubos perfectos (Reglas 1–2, p. 168)
+
+### 42
+
+En relación con el libro de Álgebra, según la Regla 1, ¿en qué dos factores se descompone la suma de dos cubos perfectos?
+
+- A. En la suma de sus raíces cúbicas, y el cuadrado de la primera raíz menos el producto de las dos raíces más el cuadrado de la segunda raíz
+- B. En la diferencia de sus raíces cúbicas, y el cuadrado de la primera raíz más el producto de las dos raíces más el cuadrado de la segunda raíz
+- C. En la suma de sus raíces cúbicas, y el cuadrado de la primera raíz más el producto de las dos raíces más el cuadrado de la segunda raíz
+- D. En la suma de sus raíces cuadradas, y la diferencia de sus cuadrados
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 168
+**Subtema:** Descomposición factorial · Caso IX
+
+La suma de dos cubos perfectos se descompone en dos factores: 1º La suma de sus raíces cúbicas. 2º El cuadrado de la primera raíz, menos el producto de las dos raíces, más el cuadrado de la segunda raíz.
+
+### 43
+
+En relación con el libro de Álgebra, según la Regla 2, ¿en qué dos factores se descompone la diferencia de dos cubos perfectos?
+
+- A. En la diferencia de sus raíces cúbicas, y el cuadrado de la primera raíz más el producto de las dos raíces más el cuadrado de la segunda raíz
+- B. En la suma de sus raíces cúbicas, y el cuadrado de la primera raíz menos el producto de las dos raíces más el cuadrado de la segunda raíz
+- C. En la diferencia de sus raíces cúbicas, y el cuadrado de la primera raíz menos el producto de las dos raíces más el cuadrado de la segunda raíz
+- D. En la diferencia de sus raíces cuadradas, y la suma de sus cuadrados
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 168
+**Subtema:** Descomposición factorial · Caso IX
+
+La diferencia de dos cubos perfectos se descompone en dos factores: 1º La diferencia de sus raíces cúbicas. 2º El cuadrado de la primera raíz, más el producto de las dos raíces, más el cuadrado de la segunda raíz.
+
+---
+
+## Sub-lote 14 · Caso X y combinación de casos (arts. 156, 158, pp. 169–172)
+
+### 44
+
+En relación con el libro de Álgebra, según el Caso X, ¿por quién es divisible aⁿ − bⁿ, siendo n par o impar?
+
+- A. Por a − b
+- B. Por a + b
+- C. Por a² − b²
+- D. Por ninguno, nunca es divisible
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 169
+**Subtema:** Descomposición factorial · Caso X
+
+aⁿ − bⁿ es divisible por a − b siendo n par o impar.
+
+### 45
+
+En relación con el libro de Álgebra, según el Caso X, ¿es aⁿ + bⁿ divisible por a − b?
+
+- A. No, aⁿ + bⁿ nunca es divisible por a − b
+- B. Sí, siempre es divisible por a − b
+- C. Sí, sólo cuando n es par
+- D. Sí, sólo cuando n es impar
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 169
+**Subtema:** Descomposición factorial · Caso X
+
+aⁿ + bⁿ nunca es divisible por a − b.
+
+### 46
+
+En relación con el libro de Álgebra, al descomponer una expresión en varios factores combinando casos, ¿qué es lo primero que debe hacerse?
+
+- A. Ver si hay algún factor común, y si lo hay, sacar dicho factor común
+- B. Buscar una diferencia de cuadrados
+- C. Extraer la raíz cúbica de cada término
+- D. Ordenar la expresión en orden descendente
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 172
+**Subtema:** Descomposición factorial · combinación de casos
+
+Lo primero que debe hacerse es ver si hay algún factor común, y si lo hay, sacar dicho factor común.
+
+---
+
+**Reactivos en este archivo:** 46
+**Pendiente:** el capítulo X (los diez casos de factorización, pp. 143–170, más el principio para combinar casos) queda cerrado; los ejercicios de descomposición en 3, 4, 5 y 6 factores son práctica y no llevan reactivos. Lo que falta de Álgebra son los capítulos XVIII (Fórmulas, p. 270), XX (Funciones), XXIV y XXV (Ecuaciones simultáneas), que piden EMM/EMO/EMOS; mientras no se abra el archivo del XVIII, éste sostiene el pendiente de Álgebra.
