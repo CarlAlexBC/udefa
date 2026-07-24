@@ -221,11 +221,15 @@ export class ExamenesService {
         // OJO: sin respuestaCorrecta — la respuesta NO se filtra al cliente.
         select: { id: true, enunciado: true, opciones: true, tipo: true, tema: true },
       });
-      bloques.push({
-        nombre: m.nombre,
-        codigo,
-        reactivos: this.mezclar(disponibles).slice(0, DEFAULT_POR_MATERIA),
-      });
+      // Barajado POR INTENTO: además de elegir QUÉ reactivos entran, se barajan
+      // las OPCIONES de cada uno en cada llamada. Así la correcta cae en distinta
+      // posición para cada aspirante/intento — para que aprenda, no memorice "es
+      // la B". No rompe la calificación: se compara el TEXTO de la opción, no la
+      // letra (intentos.service.ts). El orden fijo del import queda sólo de base.
+      const elegidos = this.mezclar(disponibles)
+        .slice(0, DEFAULT_POR_MATERIA)
+        .map((r) => ({ ...r, opciones: this.mezclar(r.opciones as string[]) }));
+      bloques.push({ nombre: m.nombre, codigo, reactivos: elegidos });
     }
 
     return { tipo: 'cultural', plantel, carrera: carrera.carrera, anio: carrera.anio, bloques };
