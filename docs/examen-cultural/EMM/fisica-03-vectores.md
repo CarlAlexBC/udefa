@@ -29,25 +29,32 @@ cada referencia se **lee** de la esquina de la hoja, nunca se calcula.
 
 ## Cobertura actual
 
+La Unidad 3 (Vectores) queda **COMPLETA** en este archivo: temas 1 a 16
+(pp. 42–60), sólo teoría, saltando todos los ejercicios y problemas resueltos.
+
 - **Sub-lote 1 · Características y escala de un vector (p. 42)** — temas 1 y 2.
 - **Sub-lote 2 · Clasificación de vectores: coplanares, colineales,
   concurrentes (p. 43)** — temas 3, 4 y 5.
 - **Sub-lote 3 · Resultante, equilibrante, propiedades y suma (p. 44–45)** —
   temas 6, 7 (a–f) y 8.
+- **Sub-lote 4 · Composición, descomposición y vectores unitarios (p. 47, 51)**
+  — temas 9 y 10.
+- **Sub-lote 5 · Suma de vectores concurrentes: paralelogramo, polígono y
+  triángulo (p. 52, 56, 58)** — temas 11, 12 y 13.
+- **Sub-lote 6 · Producto por escalar, producto escalar y producto vectorial
+  (p. 59, 60)** — temas 14, 15 y 16.
 
 ## Pendiente
 
-Falta el resto de la Unidad 3 desde la p. 45: composición y descomposición
-rectangular de vectores por métodos gráficos y analíticos (tema 9), vectores
-unitarios (tema 10), suma de dos vectores concurrentes (tema 11), suma de más de
-dos vectores concurrentes (tema 12), método del triángulo (tema 13), producto de
-un vector por un escalar (tema 14), producto escalar (tema 15) y producto
-vectorial (tema 16) — sólo las definiciones/conceptos, saltando todos los
-ejercicios y problemas resueltos. Y quedan pendientes de la materia las demás
-unidades del temario: Unidad 4 (Cinemática, sólo el tema 4), Unidad 5 (Dinámica,
-temas 2, 8, 13 y 17), Unidad 6 (Materia y sus Propiedades, temas 1, 2 y 3),
-Unidad 8 (Hidrostática, completa) y Unidad 11 (Termología, temas 1, 2, 3, 5, 7 y
-12), cada una en su propio archivo.
+Falta el resto de la materia Física en sus propios archivos (la Unidad 3 ya está
+cerrada arriba): Unidad 4 (Cinemática, sólo el tema 4 sobre distancia,
+desplazamiento, velocidad y rapidez), Unidad 5 (Dinámica, temas 2 Leyes de la
+Dinámica, 8 Energía, 13 Cantidad de Movimiento o Momento Lineal y 17 Ley de la
+Conservación del Momento Angular), Unidad 6 (Materia y sus Propiedades, temas 1
+Estructura de la Materia, 2 Estados de Agregación y 3 Propiedades Generales o
+Extensivas), Unidad 8 (Hidrostática, completa) y Unidad 11 (Termología, temas 1,
+2, 3, 5, 7 y 12), siempre sólo definiciones/conceptos y saltando ejercicios y
+problemas.
 
 ## Cómo se escriben estos reactivos
 
@@ -449,6 +456,361 @@ De acuerdo con el libro de Física, para sumar magnitudes vectoriales debemos ut
 
 <Estos métodos pueden ser gráficos o analíticos, pero en ambos casos se consideran, además de la magnitud del vector, su dirección y sentido.>
 
+## Sub-lote 4 · Composición, descomposición y vectores unitarios (p. 47, 51)
+
+### 26
+
+De acuerdo con el libro de Física, cuando un sistema de vectores se sustituye por otro equivalente que tiene un número mayor de vectores, ¿cómo se llama ese procedimiento?
+
+- A. Descomposición.
+- B. Composición.
+- C. Traslación.
+- D. Equilibrante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 47
+**Subtema:** física · vectores
+
+<Si el sistema equivalente tiene un número mayor de vectores, el procedimiento se llama descomposición.>
+
+### 27
+
+De acuerdo con el libro de Física, cuando el sistema equivalente tiene un número menor de vectores, ¿cómo se llama ese procedimiento?
+
+- A. Composición.
+- B. Descomposición.
+- C. Adición.
+- D. Resultante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 47
+**Subtema:** física · vectores
+
+<Si el sistema equivalente tiene un número menor de vectores, el procedimiento se denomina composición.>
+
+> Se confunden: mayor número de vectores = descomposición; menor número = composición.
+
+### 28
+
+De acuerdo con el libro de Física, al trazar desde el extremo de un vector una línea perpendicular hacia el eje X y otra hacia el eje Y, ¿cómo se llaman los vectores así formados?
+
+- A. Las componentes rectangulares del vector.
+- B. Los vectores unitarios del vector.
+- C. Las resultantes del vector.
+- D. Las equilibrantes del vector.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 47
+**Subtema:** física · vectores
+
+<Los vectores ax y ay así formados reciben el nombre de las componentes rectangulares del vector a.>
+
+### 29
+
+De acuerdo con el libro de Física, ¿por qué a las componentes de un vector se les llama rectangulares?
+
+- A. Porque las componentes forman entre sí un ángulo recto (90°).
+- B. Porque las componentes tienen la misma magnitud.
+- C. Porque las componentes son paralelas entre sí.
+- D. Porque las componentes se trazan sobre una cartulina rectangular.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 47
+**Subtema:** física · vectores
+
+<Se les llama rectangulares porque las componentes forman entre sí un ángulo recto (90°). También se les denominan componentes perpendiculares.>
+
+### 30
+
+De acuerdo con el libro de Física, ¿qué es un vector unitario?
+
+- A. Aquel que tiene una magnitud igual a uno y no tiene dimensiones.
+- B. Aquel que tiene una magnitud mayor que uno y tiene dimensiones.
+- C. Aquel que no tiene un punto de aplicación en particular.
+- D. Aquel que forma un ángulo recto con otro vector.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 51
+**Subtema:** física · vectores
+
+<Un vector unitario es aquel que tiene una magnitud igual a uno y no tiene dimensiones.>
+
+### 31
+
+De acuerdo con el libro de Física, ¿con qué fin se utiliza un vector unitario?
+
+- A. Con el único fin de especificar una dirección determinada, ya que no tiene ningún otro significado físico.
+- B. Con el fin de aumentar la magnitud de otro vector.
+- C. Con el fin de cancelar la resultante de un sistema de vectores.
+- D. Con el fin de trasladar un vector a otro punto del plano.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 51
+**Subtema:** física · vectores
+
+<Se utiliza con el único fin de especificar una dirección determinada, ya que no tiene ningún otro significado físico.>
+
+### 32
+
+De acuerdo con el libro de Física, ¿qué símbolos especiales se utilizan para representar los vectores unitarios en las direcciones y sentidos positivos de los ejes X, Y y Z?
+
+- A. Los símbolos î, ĵ y k̂.
+- B. Los símbolos ax, ay y az.
+- C. Los símbolos α, β y γ.
+- D. Los símbolos F1, F2 y F3.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 51
+**Subtema:** física · vectores
+
+<Es común utilizar los símbolos especiales î, ĵ y k̂ para representar vectores unitarios en las direcciones y sentidos positivos de los ejes X, Y y Z, respectivamente.>
+
+## Sub-lote 5 · Suma de vectores concurrentes: paralelogramo, polígono y triángulo (p. 52, 56, 58)
+
+### 33
+
+De acuerdo con el libro de Física, ¿qué método gráfico se utiliza cuando se desea sumar dos vectores concurrentes?
+
+- A. El método del paralelogramo.
+- B. El método del polígono.
+- C. El método del triángulo.
+- D. El teorema de Pitágoras.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 52
+**Subtema:** física · vectores
+
+<Cuando en forma gráfica se desea sumar dos vectores concurrentes se utiliza el método del paralelogramo.>
+
+### 34
+
+De acuerdo con el libro de Física, para encontrar la resultante de dos vectores por el método analítico, ¿cuándo se usa el teorema de Pitágoras?
+
+- A. Si los dos vectores forman un ángulo de 90°.
+- B. Si los dos vectores forman cualquier ángulo distinto de 90°.
+- C. Si los dos vectores son colineales.
+- D. Si los dos vectores tienen la misma magnitud.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 52
+**Subtema:** física · vectores
+
+<Para encontrar la resultante por el método analítico se usará el teorema de Pitágoras si los dos vectores forman un ángulo de 90°.>
+
+### 35
+
+De acuerdo con el libro de Física, si dos vectores forman cualquier ángulo distinto de 90°, ¿qué ley se usa para encontrar la resultante y cuál para calcular su ángulo?
+
+- A. La Ley de los Cosenos para la resultante y la Ley de los Senos para el ángulo.
+- B. La Ley de los Senos para la resultante y la Ley de los Cosenos para el ángulo.
+- C. El teorema de Pitágoras para la resultante y la Ley de los Senos para el ángulo.
+- D. La Ley de los Cosenos para la resultante y también para el ángulo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 52
+**Subtema:** física · vectores
+
+<Pero si originan cualquier otro ángulo se usará la Ley de los Cosenos y para calcular el ángulo de la resultante se aplicará la Ley de los Senos.>
+
+### 36
+
+De acuerdo con el libro de Física, ¿qué método gráfico se utiliza para sumar más de dos vectores angulares o concurrentes?
+
+- A. El método del polígono.
+- B. El método del paralelogramo.
+- C. El método del triángulo.
+- D. El teorema de Pitágoras.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 56
+**Subtema:** física · vectores
+
+<Para sumar más de dos vectores angulares o concurrentes en forma gráfica, se utiliza el llamado método del polígono.>
+
+### 37
+
+De acuerdo con el libro de Física, ¿en qué consiste el método del polígono?
+
+- A. En trasladar paralelamente a sí mismo cada uno de los vectores sumados, colocándolos uno a continuación del otro, poniendo el origen de un vector en el extremo del otro.
+- B. En dibujar la paralela de cada vector para formar un paralelogramo y medir la diagonal.
+- C. En descomponer cada vector en sus componentes rectangulares.
+- D. En multiplicar la magnitud de un vector por la componente perpendicular del otro.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 56
+**Subtema:** física · vectores
+
+<Dicho método consiste en trasladar paralelamente a sí mismo cada uno de los vectores sumados, de tal manera que al tomar uno de los vectores como base los otros se colocarán uno a continuación del otro, poniendo el origen de un vector en el extremo del otro y así sucesivamente hasta colocar el último vector.>
+
+### 38
+
+De acuerdo con el libro de Física, en el método del polígono, ¿cuál es la resultante?
+
+- A. El vector que una el origen de los vectores con el extremo libre del último vector sumado.
+- B. El vector que une los extremos de todos los vectores entre sí.
+- C. El vector perpendicular al plano formado por los vectores.
+- D. El vector opuesto al primer vector sumado.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 56
+**Subtema:** física · vectores
+
+<La resultante será el vector que una el origen de los vectores con el extremo libre del último vector sumado y su sentido estará dirigido hacia el extremo del último vector.>
+
+### 39
+
+De acuerdo con el libro de Física, ¿para qué se utiliza el método del triángulo?
+
+- A. Para sumar o restar dos vectores no concurrentes, es decir, que no tienen ningún punto en común.
+- B. Para sumar dos vectores concurrentes que se cruzan en un punto.
+- C. Para sumar más de dos vectores concurrentes.
+- D. Para descomponer un vector en sus componentes rectangulares.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 58
+**Subtema:** física · vectores
+
+<El método del triángulo se utiliza para sumar o restar dos vectores no concurrentes, es decir, que no tienen ningún punto en común.>
+
+### 40
+
+De acuerdo con el libro de Física, ¿en qué principio se basa el método del triángulo?
+
+- A. En el principio de los vectores libres.
+- B. En el principio de los vectores deslizantes.
+- C. En el teorema de Pitágoras.
+- D. En la Ley de los Cosenos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 58
+**Subtema:** física · vectores
+
+<Este método se basa en el principio de los vectores libres, ya mencionado en la sección 3 de esta unidad.>
+
+## Sub-lote 6 · Producto por escalar, producto escalar y producto vectorial (p. 59, 60)
+
+### 41
+
+De acuerdo con el libro de Física, ¿cómo se define el producto de un escalar k y de un vector?
+
+- A. Como un nuevo vector cuya magnitud es k veces mayor que la magnitud del vector.
+- B. Como un nuevo escalar cuya magnitud es k veces la del vector.
+- C. Como un vector perpendicular al vector original.
+- D. Como la componente rectangular del vector original.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 59
+**Subtema:** física · vectores
+
+<El producto de un escalar k y de un vector r se escribe: kr y se define como un nuevo vector cuya magnitud es k veces mayor que la magnitud de r.>
+
+### 42
+
+De acuerdo con el libro de Física, en el producto de un vector por un escalar, ¿qué ocurre con el sentido del nuevo vector según el signo de k?
+
+- A. Tiene el mismo sentido que el vector si k es positivo; si k es negativo, cambiará su sentido.
+- B. Tiene siempre el mismo sentido que el vector, sin importar el signo de k.
+- C. Tiene siempre sentido contrario al vector, sin importar el signo de k.
+- D. Pierde su sentido y se convierte en una magnitud escalar.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 59
+**Subtema:** física · vectores
+
+<El nuevo vector tiene el mismo sentido que r si k es positivo; sin embargo, si k es negativo, el vector resultante cambiará su sentido y magnitud, o sólo su sentido.>
+
+### 43
+
+De acuerdo con el libro de Física, ¿cómo se define la resta de dos vectores?
+
+- A. Como la suma al vector minuendo del vector opuesto del sustraendo.
+- B. Como la suma de las magnitudes de ambos vectores.
+- C. Como el producto de un vector por la componente perpendicular del otro.
+- D. Como la diferencia entre sus componentes rectangulares únicamente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 59
+**Subtema:** física · vectores
+
+<Podemos definir la resta de dos vectores como la suma al vector minuendo del vector opuesto del sustraendo: a − b = a + (−b).>
+
+### 44
+
+De acuerdo con el libro de Física, el producto escalar de dos vectores, llamado también producto punto, ¿qué da como resultado?
+
+- A. Una magnitud escalar, pues carece de dirección y sentido.
+- B. Otro vector perpendicular al plano formado por los dos vectores.
+- C. Un vector con la misma dirección que el primero.
+- D. Un vector unitario en la dirección del segundo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 60
+**Subtema:** física · vectores
+
+<El producto escalar de dos vectores, llamado también producto punto, da como resultado una magnitud escalar, pues carece de dirección y sentido.>
+
+### 45
+
+De acuerdo con el libro de Física, ¿cuáles son algunas magnitudes físicas que resultan del producto escalar de dos vectores?
+
+- A. El trabajo mecánico, la potencia eléctrica y la densidad de energía electromagnética.
+- B. El momento de una fuerza, la fuerza sobre una carga en movimiento y la cantidad de movimiento angular.
+- C. La velocidad, la aceleración y el desplazamiento.
+- D. La masa, el volumen y la densidad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 60
+**Subtema:** física · vectores
+
+<Algunas magnitudes físicas que resultan del producto escalar de dos vectores son: el trabajo mecánico, la potencia eléctrica y la densidad de energía electromagnética.>
+
+### 46
+
+De acuerdo con el libro de Física, el producto vectorial de dos vectores, llamado también producto cruz, ¿qué da como resultado?
+
+- A. Otro vector, el cual siempre es perpendicular al plano formado por los dos vectores que se multiplican.
+- B. Una magnitud escalar que carece de dirección y sentido.
+- C. Un vector paralelo al plano formado por los dos vectores.
+- D. Un vector unitario de magnitud igual a uno.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 60
+**Subtema:** física · vectores
+
+<El producto vectorial de dos vectores, llamado también producto cruz, da como resultado otro vector, el cual siempre es perpendicular al plano formado por los dos vectores que se multiplican.>
+
+> Se confunden: el producto escalar (punto) da una magnitud escalar; el producto vectorial (cruz) da otro vector perpendicular al plano.
+
+### 47
+
+De acuerdo con el libro de Física, en el producto vectorial, ¿por qué debe tomarse en cuenta el orden de los factores?
+
+- A. Porque no es lo mismo a × b que b × a.
+- B. Porque no es lo mismo a · b que b · a.
+- C. Porque el resultado siempre es una magnitud escalar.
+- D. Porque las magnitudes deben tener las mismas unidades.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 60
+**Subtema:** física · vectores
+
+<En el producto vectorial el orden de los factores debe tomarse en cuenta, pues no es lo mismo a × b que b × a.>
+
+### 48
+
+De acuerdo con el libro de Física, ¿cuáles son algunas magnitudes físicas que resultan del producto vectorial?
+
+- A. El momento de una fuerza, la fuerza que recibe una carga en movimiento al penetrar a un campo magnético y la cantidad de movimiento angular.
+- B. El trabajo mecánico, la potencia eléctrica y la densidad de energía electromagnética.
+- C. La distancia, la rapidez y el tiempo.
+- D. La temperatura, el calor y la presión.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 60
+**Subtema:** física · vectores
+
+<Algunas magnitudes físicas que resultan del producto vectorial son: el momento de una fuerza, la fuerza que recibe una carga en movimiento al penetrar a un campo magnético y la cantidad de movimiento angular.>
+
 ---
 
-**Reactivos en este archivo:** 25
+**Reactivos en este archivo:** 48
