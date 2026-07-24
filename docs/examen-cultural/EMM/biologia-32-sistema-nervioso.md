@@ -64,9 +64,20 @@ médula con los ganglios de la raíz dorsal (fig. 32-4), y las divisiones del SN
 (simpática que prepara para la acción, parasimpática que restaura, entérica del
 digestivo), los nervios craneales (13 pares) y espinales (variables: 31 en humanos,
 todos mixtos), el cerebro (dos hemisferios, la corteza cerebral de sustancia gris) y
-la protección del SNC (las meninges y el líquido cefalorraquídeo).
+la protección del SNC (las meninges y el líquido cefalorraquídeo). De la **página
+762** se cubren las fibras motoras y sensitivas de cada par raquídeo (que inervan
+y reciben señales de la misma área del cuerpo), las lesiones medulares (que eliminan
+la sensibilidad y el control motor por debajo de la lesión), los cuerpos celulares
+de las neuronas sensoriales (unipolares, en los ganglios de la raíz dorsal, por fuera
+de la médula), sus sinapsis en la sustancia gris con interneuronas, neuronas motoras
+o de proyección (que ascienden por la sustancia blanca), las órdenes motoras (que
+salen por la zona ventral de la sustancia gris vía los nervios raquídeos) y el arco
+reflejo (figs. 32-5 y 32-6): la unidad básica de procesamiento nervioso, el ejemplo
+del pinchazo, la secuencia receptor→neurona sensorial→interneurona→neurona motora→
+efector, su presencia en todos los vertebrados, su papel en la regulación de procesos
+internos, y el arco reflejo polisináptico con su comunicación por sinapsis.
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 762 (hoja 808) en adelante (el arco reflejo, las barreras del SNC y el resto del capítulo). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 763 (hoja 809) en adelante (el resto del arco reflejo, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -971,6 +982,235 @@ De acuerdo con el libro de Biología, ¿qué líquido baña al encéfalo y la m�
 
 El sistema nervioso central está bañado por el líquido cefalorraquídeo. Este líquido rodea al encéfalo y la médula espinal. El líquido cefalorraquídeo actúa también como un amortiguador de impactos.
 
+## Sub-lote 7 · El arco reflejo (figs. 32-5 y 32-6, p. 762)
+
+### 58
+
+De acuerdo con el libro de Biología, ¿a qué inervan las fibras motoras de cada par raquídeo y qué reciben las fibras sensitivas?
+
+- A. Las fibras motoras inervan los músculos de un área particular del cuerpo, y las fibras sensitivas reciben señales de los receptores sensoriales de la misma área
+- B. Las fibras motoras reciben señales de los receptores sensoriales, y las fibras sensitivas inervan los músculos de la misma área
+- C. Ambas fibras inervan los músculos de un área particular del cuerpo
+- D. Las fibras motoras inervan los receptores sensoriales, y las fibras sensitivas los músculos de otra área
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · nervios raquídeos
+
+Las fibras motoras de cada par inervan los músculos de un área particular del cuerpo, y las fibras sensitivas reciben señales de los receptores sensoriales de la misma área.
+
+### 59
+
+De acuerdo con el libro de Biología, ¿qué provocan las lesiones en la médula espinal?
+
+- A. Eliminan la sensibilidad e impiden el control motor de las áreas ubicadas en la zona inferior a la lesión
+- B. Eliminan la sensibilidad e impiden el control motor de las áreas ubicadas en la zona superior a la lesión
+- C. Solo afectan la sensibilidad, sin alterar el control motor de ningún área
+- D. Solo impiden el control motor, sin alterar la sensibilidad de ningún área
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · lesiones medulares
+
+Las lesiones en la médula espinal eliminan la sensibilidad e impiden el control motor de las áreas ubicadas en la zona inferior a la lesión.
+
+### 60
+
+De acuerdo con el libro de Biología, ¿por qué una lesión medular elimina la sensibilidad y el control motor por debajo de ella?
+
+- A. Porque la información periférica no puede llegar al cerebro, donde es procesada, así como la señal cerebral no puede llegar hasta los efectores a través de la zona dañada
+- B. Porque los efectores musculares y glandulares se destruyen en el momento de la lesión
+- C. Porque los ganglios de la raíz dorsal dejan de producir neuronas sensoriales
+- D. Porque el líquido cefalorraquídeo deja de amortiguar la médula espinal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · lesiones medulares
+
+Las lesiones eliminan la sensibilidad e impiden el control motor de las áreas ubicadas en la zona inferior a la lesión, ya que la información periférica no puede llegar al cerebro, donde es procesada, así como la señal cerebral no puede llegar hasta los efectores a través de la zona dañada.
+
+### 61
+
+De acuerdo con el libro de Biología, ¿dónde se encuentran los cuerpos celulares de las neuronas sensoriales?
+
+- A. En los ganglios de la raíz dorsal, por fuera de la médula espinal
+- B. En la zona ventral de la sustancia gris de la médula espinal
+- C. En la corteza cerebral de los hemisferios
+- D. Dentro de los cordones de la sustancia blanca medular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · neuronas sensoriales
+
+Los cuerpos celulares de las neuronas sensoriales se encuentran en los ganglios de la raíz dorsal, por fuera de la médula espinal.
+
+### 62
+
+De acuerdo con el libro de Biología, ¿cómo se denominan las neuronas sensoriales modificadas y qué conexión establecen?
+
+- A. Se denominan unipolares y establecen una conexión entre la periferia (piel, órganos, entre otros) y la zona dorsal de la médula espinal
+- B. Se denominan bipolares y establecen una conexión entre dos regiones del encéfalo
+- C. Se denominan multipolares y conectan la zona ventral de la médula con los efectores musculares
+- D. Se denominan interneuronas y conectan dos neuronas motoras entre sí
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · neuronas sensoriales
+
+Estas neuronas modificadas se denominan unipolares y establecen una conexión entre la periferia (piel, órganos, entre otros), desde donde se transmite la información, y la zona dorsal de la médula espinal, hacia donde llega la información.
+
+### 63
+
+De acuerdo con el libro de Biología, en la sustancia gris medular, ¿con qué establecen sinapsis las neuronas sensoriales?
+
+- A. Con interneuronas o con neuronas motoras, o bien con neuronas de proyección
+- B. Únicamente con otras neuronas sensoriales
+- C. Con las células de la glía y la vaina de mielina
+- D. Directamente con los efectores musculares o glandulares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · sinapsis medular
+
+Allí, en la sustancia gris medular, establecen sinapsis con interneuronas o con neuronas motoras, o bien con neuronas de proyección.
+
+### 64
+
+De acuerdo con el libro de Biología, ¿por dónde asciende la información hacia el encéfalo a través de las neuronas de proyección?
+
+- A. Por cordones de la sustancia blanca medular
+- B. Por los ganglios de la raíz dorsal
+- C. Por las meninges y el líquido cefalorraquídeo
+- D. Por la zona ventral de la sustancia gris
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · neuronas de proyección
+
+Las neuronas de proyección son aquellas por donde asciende información hacia el encéfalo por cordones de la sustancia blanca medular.
+
+### 65
+
+De acuerdo con el libro de Biología, ¿por dónde se dirigen las órdenes motoras que provienen del encéfalo o se generan en la médula espinal, y hacia dónde?
+
+- A. Por los axones de las neuronas motoras que emergen de la zona ventral de la sustancia gris, vía los nervios raquídeos, hacia los efectores musculares o glandulares
+- B. Por los axones de las neuronas sensoriales que emergen de la zona dorsal, vía los ganglios de la raíz dorsal, hacia el encéfalo
+- C. Por los cordones de la sustancia blanca medular, hacia la corteza cerebral
+- D. Por las interneuronas de la sustancia gris, hacia los receptores sensoriales de la piel
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · órdenes motoras
+
+Las órdenes motoras que provienen del encéfalo o se generan en la propia médula espinal se dirigen por los axones de las neuronas motoras que emergen de la zona ventral de la sustancia gris, vía los nervios raquídeos, hacia los efectores musculares o glandulares.
+
+> Confusión con el 64: por la **sustancia blanca** medular *asciende* la información sensitiva hacia el encéfalo; las **órdenes motoras** salen por los axones que emergen de la zona **ventral de la sustancia gris**, vía los nervios raquídeos.
+
+### 66
+
+De acuerdo con el libro de Biología, ¿cómo se llama el circuito nervioso simple, formado por los cuatro tipos de neuronas interconectadas, responsable de las respuestas rápidas y eficientes de los reflejos?
+
+- A. El arco reflejo
+- B. El flujo axoplásmico
+- C. La formación reticular
+- D. El sistema activador reticular ascendente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · arco reflejo
+
+Los cuatro tipos de neuronas mencionadas con frecuencia están interconectados. Esto es fácilmente visible en un circuito nervioso simple llamado arco reflejo, responsable de las respuestas rápidas y eficientes de los reflejos.
+
+### 67
+
+De acuerdo con el libro de Biología, según el ejemplo del pinchazo al caminar, ¿qué ocurre?
+
+- A. Automáticamente retiramos el pie sin necesidad de pensar en ello y, casi al mismo tiempo, el cerebro toma conciencia de lo que ha ocurrido
+- B. El cerebro debe procesar el estímulo antes de que podamos retirar el pie
+- C. El pie permanece inmóvil hasta que decidimos conscientemente retirarlo
+- D. El estímulo se transmite únicamente al encéfalo, sin generar respuesta motora
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · arco reflejo
+
+Si, por ejemplo, nos pinchamos al caminar, automáticamente retiramos el pie sin necesidad de pensar en ello. Casi al mismo tiempo, el cerebro toma conciencia de lo que ha ocurrido y adopta alguna medida o comportamiento posterior.
+
+### 68
+
+De acuerdo con el libro de Biología, según la figura 32-5, cuando reciben un estímulo como un pinchazo, ¿a qué estimulan las células receptoras sensoriales y adónde retransmite la señal?
+
+- A. Estimulan a una neurona sensorial, que retransmite la señal a una interneurona situada dentro de una zona localizada del sistema nervioso central, con frecuencia la médula espinal
+- B. Estimulan directamente a una neurona motora, que retransmite la señal al músculo
+- C. Estimulan a una interneurona, que retransmite la señal a los ganglios de la raíz dorsal
+- D. Estimulan a las neuronas de proyección, que llevan la señal directamente a los efectores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · arco reflejo
+
+Cuando reciben un estímulo, como un pinchazo, las células receptoras sensoriales estimulan a una neurona sensorial, que retransmite la señal a una interneurona situada dentro de una zona localizada del sistema nervioso central, con frecuencia la médula espinal.
+
+### 69
+
+De acuerdo con el libro de Biología, según la figura 32-5, ¿en qué animales se encuentran los componentes básicos del arco reflejo?
+
+- A. En todos los vertebrados
+- B. Solo en los mamíferos
+- C. Solo en los primates
+- D. Únicamente en los cnidarios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · arco reflejo
+
+Estos componentes básicos del arco reflejo se encuentran en todos los vertebrados.
+
+### 70
+
+De acuerdo con el libro de Biología, según la figura 32-5, ¿qué papel desempeñan los arcos reflejos?
+
+- A. Un papel esencial en la regulación de muchos procesos internos y permiten respuestas casi instantáneas a numerosos estímulos ambientales
+- B. Un papel secundario, limitado exclusivamente a la digestión
+- C. Regulan únicamente la consciencia y los estados de ánimo
+- D. Permiten respuestas lentas y deliberadas ante los estímulos ambientales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · arco reflejo
+
+Los arcos reflejos desempeñan un papel esencial en la regulación de muchos procesos internos y permiten respuestas casi instantáneas a numerosos estímulos ambientales.
+
+### 71
+
+De acuerdo con el libro de Biología, según la figura 32-6 sobre el arco reflejo polisináptico, ¿cómo se conducen las señales generadas por las terminales nerviosas libres de la piel?
+
+- A. De forma aferente a lo largo de la neurona sensorial hacia una interneurona ubicada en la sustancia gris de la médula espinal
+- B. De forma eferente a lo largo de la neurona motora hacia la piel
+- C. Directamente hacia los efectores musculares, sin pasar por la médula espinal
+- D. A lo largo de la sustancia blanca hacia los ganglios de la raíz dorsal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · arco reflejo polisináptico
+
+Las terminales nerviosas libres de la piel (receptores), cuando se estimulan de manera apropiada, generan señales nerviosas que son conducidas de forma aferente a lo largo de la neurona sensorial hacia una interneurona ubicada en la sustancia gris de la médula espinal.
+
+### 72
+
+De acuerdo con el libro de Biología, según la figura 32-6, ¿cómo se realiza la comunicación entre las neuronas mencionadas y entre la neurona motora y el músculo?
+
+- A. A través de sinapsis
+- B. A través de la vaina de mielina
+- C. A través del líquido cefalorraquídeo
+- D. A través de los cordones de la sustancia blanca
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 762
+**Subtema:** sistema nervioso · arco reflejo polisináptico
+
+La comunicación entre las neuronas mencionadas y entre la neurona motora y el músculo se realizan a través de sinapsis.
+
 ---
 
-**Reactivos en este archivo:** 57
+**Reactivos en este archivo:** 72
