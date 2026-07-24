@@ -18,7 +18,7 @@ _Regenerado el 2026-07-24._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 3784 | abiertas: EMM · Biología |
+| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 3818 | abiertas: EMM · Biología |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -62,13 +62,14 @@ _Regenerado el 2026-07-24._
 | algebra-baldor · Álgebra · Capítulo IV · Multiplicación | 30 | ninguno. El capítulo IV (pp. 63–78) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-05-division.md`. |
 | algebra-baldor · Álgebra · Capítulo V · División | 32 | ninguno. El capítulo V (pp. 79–96) está cerrado, y con `algebra-06-productos-cocientes-notables.md` quedó cerrada toda la materia. |
 | algebra-baldor · Álgebra · Capítulo VI · Productos y cocientes notables | 28 | ninguno. El capítulo VI está cerrado y **con él toda la materia de Álgebra**: Preliminares y los capítulos I a VI, páginas impresas 5 a 111. |
+| algebra-baldor · Álgebra · Capítulo VIII · Ecuaciones enteras de primer grado con una incógnita | 34 | ninguno. El capítulo VIII (pp. 122–130) está cerrado, y es el único capítulo que este banco añade por encima del Capítulo VI para dar servicio al temario de la EME (`ÁLGE-03-2026`). Con él, Álgebra queda cubierta en todo lo que piden los temarios que citan este Baldor 4ª ed. 2019. |
 | fisica-perez-montiel · Física · Unidad 3 · Vectores | 48 | ninguno. La Unidad 3 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 4 · Cinemática | 15 | ninguno. La Unidad 4 (tema 4, único que pide el temario) está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 5 · Dinámica | 94 | ninguno. La Unidad 5 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 6 · Materia y sus Propiedades | 49 | ninguno. La Unidad 6 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 8 · Hidrostática | 45 | ninguno. La Unidad 8 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 11 · Termología | 49 | ninguno de esta unidad. Con la Unidad 11 se cierra la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: quedan cerradas las Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
-| **Total** | **3784** | |
+| **Total** | **3818** | |
 
 ## Personalidad (remaster)
 
