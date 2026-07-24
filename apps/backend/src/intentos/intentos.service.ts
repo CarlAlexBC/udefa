@@ -180,6 +180,9 @@ export class IntentosService {
       }
     >();
     for (const r of respuestasConDelta) {
+      // Culturales: se agregan por tema, no por bloque, y hoy no entran a un
+      // intento psicológico. Sin bloque no hay fila que agrupar aquí.
+      if (r.reactivo.bloqueId == null || !r.reactivo.bloque) continue;
       const id = r.reactivo.bloqueId;
       let stats = bloqueStats.get(id);
       if (!stats) {

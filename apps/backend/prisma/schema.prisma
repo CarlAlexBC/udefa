@@ -80,8 +80,13 @@ model Bloque {
 
 model Reactivo {
   id                Int                 @id @default(autoincrement())
-  bloqueId          Int
-  bloque            Bloque              @relation(fields: [bloqueId], references: [id])
+  // Un reactivo cuelga de UN Bloque (psicológico) O de UN Tema (cultural).
+  // Los dos van opcionales: el reactivo cultural pertenece al libro/tema, no a
+  // un examen fijo; el examen cultural se arma al vuelo eligiendo temas.
+  bloqueId          Int?
+  bloque            Bloque?             @relation(fields: [bloqueId], references: [id])
+  temaId            Int?
+  temaBanco         Tema?               @relation(fields: [temaId], references: [id])
   enunciado         String
   tipo              String              @default("opcion_multiple")
   opciones          Json
@@ -109,6 +114,53 @@ model Reactivo {
   imagenUrl         String?
   respuestas        RespuestaReactivo[]
   createdAt         DateTime            @default(now())
+}
+
+// --- Banco cultural: lado de la OFERTA (a qué pertenece un reactivo) ---
+// El reactivo cultural pertenece al LIBRO, no al plantel. La jerarquía es
+// Libro → Capítulo/Unidad → Tema → Reactivo. La DEMANDA (Plantel → Carrera →
+// Temario por año → selecciona Temas) se modela aparte cuando se arme el examen.
+
+model Libro {
+  id        Int        @id @default(autoincrement())
+  // IDENTIDAD del libro: un slug estable que controlamos, uno por libro real.
+  // Sale de la carpeta-por-libro ("algebra-baldor", "fisica-perez-montiel"); para
+  // HCM/EMM aún sin migrar se arma "<materia>-<apellido>" (p. ej. "espanol-zarzar").
+  // El "código de materia" NO vive aquí: es de la DEMANDA y está en temarios.json,
+  // donde un mismo libro lo citan varios códigos.
+  slug      String     @unique
+  materia   String // "Álgebra", "Física" — dato legible, no identidad
+  autor     String // "Baldor, Aurelio" — se lee de la 1ª Referencia del reactivo
+  edicion   String?
+  anio      Int?
+  isbn      String?
+  capitulos Capitulo[]
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+}
+
+model Capitulo {
+  id        Int      @id @default(autoincrement())
+  libroId   Int
+  libro     Libro    @relation(fields: [libroId], references: [id])
+  numero    Int
+  titulo    String
+  temas     Tema[]
+  createdAt DateTime @default(now())
+
+  @@unique([libroId, numero])
+}
+
+model Tema {
+  id         Int        @id @default(autoincrement())
+  capituloId Int
+  capitulo   Capitulo   @relation(fields: [capituloId], references: [id])
+  // Texto de la línea `**Subtema:**` del reactivo, p. ej. "física · vectores".
+  nombre     String
+  reactivos  Reactivo[]
+  createdAt  DateTime   @default(now())
+
+  @@unique([capituloId, nombre])
 }
 
 enum Polaridad {
