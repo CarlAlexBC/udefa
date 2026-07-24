@@ -94,9 +94,19 @@ nasales, la piel de los anfibios, el bombeo bucal de las ranas, la cavidad torá
 reptiles, aves y mamíferos, y los sacos aéreos de las aves con su flujo unidireccional,
 fig. 35-5); y el arranque de "El sistema respiratorio humano" (las cavidades nasales que
 filtran, humedecen y calientan el aire, la faringe, la laringe con las cuerdas vocales, la
-tráquea con sus anillos de cartílago, y los bronquios y bronquíolos).
+tráquea con sus anillos de cartílago, y los bronquios y bronquíolos). De la **página 833**
+se cubren el músculo liso de bronquios y bronquíolos bajo control del sistema autónomo (y
+la dilatación simpática en el estrés) y las dos figuras: la **fig. 35-5** del sistema
+respiratorio de las aves (pulmones pequeños pero extraordinariamente eficientes, el flujo
+unidireccional de la zona posterior a la anterior frente al flujo y reflujo de los
+mamíferos, los sacos alojados en los espacios aéreos de los huesos, el ciclo de dos
+inhalaciones y espiraciones, los sacos como fuelles sin intercambio gaseoso que dejan poco
+aire residual "muerto", los parabronquios y el pollo de 14 días) y la **fig. 35-6** del
+sistema humano (el recorrido completo del aire hasta los alvéolos, los aproximadamente
+300 millones de alvéolos del par de pulmones, y la difusión de O2 y CO2 a través de la
+pared alveolar y de los capilares).
 
-**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 833 (hoja 879) en adelante (el resto del sistema respiratorio humano: los alvéolos, la mecánica respiratoria y el transporte de gases, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 834 (hoja 880) en adelante (los alvéolos en detalle, la mecánica respiratoria y el transporte de gases, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -1388,6 +1398,192 @@ De acuerdo con el libro de Biología, ¿en qué desemboca la tráquea y cómo se
 
 La tráquea desemboca en los bronquios, que se subdividen en conductos aéreos cada vez más pequeños llamados bronquíolos.
 
+## Sub-lote 12 · El control del flujo de aire y el sistema respiratorio de las aves (fig. 35-5, p. 833)
+
+### 84
+
+De acuerdo con el libro de Biología, ¿qué rodea a los bronquios y bronquíolos, y qué ajusta su contracción y relajación?
+
+- A. Capas delgadas de músculo liso, bajo el control del sistema nervioso autónomo, cuya contracción y relajación ajustan el flujo de aire de acuerdo con las demandas metabólicas
+- B. Anillos de cartílago rígido que impiden todo cambio de diámetro
+- C. Capas de músculo esquelético bajo control voluntario
+- D. Sacos aéreos que almacenan el aire inspirado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 833
+**Subtema:** respiración · músculo liso bronquial
+
+Los bronquios y los bronquíolos están rodeados por capas delgadas de músculo liso. La contracción y la relajación de este músculo, que se halla bajo el control del sistema nervioso autónomo, ajustan el flujo de aire de acuerdo con las demandas metabólicas.
+
+### 85
+
+De acuerdo con el libro de Biología, durante las situaciones de estrés, ¿qué hace el sistema nervioso simpático con los bronquíolos?
+
+- A. Los dilata, con lo cual aumentan su diámetro y, en consecuencia, aumenta también el flujo de aire oxigenado
+- B. Los contrae, con lo cual disminuye su diámetro y el flujo de aire
+- C. Los mantiene sin cambios, porque no responden al sistema nervioso
+- D. Los reemplaza por sacos aéreos temporales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 833
+**Subtema:** respiración · dilatación de los bronquíolos
+
+Durante las situaciones de estrés, el sistema nervioso simpático dilata los bronquíolos, los cuales aumentan su diámetro, y, en consecuencia, el flujo de aire oxigenado también aumenta.
+
+### 86
+
+De acuerdo con el libro de Biología, según la figura 35-5, ¿cómo son los pulmones de las aves y qué les permiten?
+
+- A. Aunque son pequeños, son extraordinariamente eficientes, lo cual les permite soportar largos períodos de intensa actividad, como los vuelos migratorios
+- B. Son muy grandes y poco eficientes, por lo que deben descansar con frecuencia
+- C. Son pequeños y poco eficientes, lo cual limita su capacidad de vuelo
+- D. Son idénticos a los de los mamíferos en tamaño y eficiencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 833
+**Subtema:** respiración · pulmones de las aves
+
+Si bien los pulmones de las aves son pequeños, estos son extraordinariamente eficientes, lo cual les permite soportar largos períodos de intensa actividad, como los vuelos migratorios.
+
+### 87
+
+De acuerdo con el libro de Biología, según la figura 35-5, ¿en qué se diferencia la circulación del aire en las aves respecto de los mamíferos?
+
+- A. En los mamíferos el aire entra y sale del pulmón por la misma vía —la tráquea—, mientras que en las aves circula en un único sentido: ingresa por la zona posterior y, tras el intercambio gaseoso, lo abandona por la zona anterior
+- B. En las aves el aire entra y sale por la misma vía, mientras que en los mamíferos circula en un único sentido
+- C. En ambos grupos el aire circula en un único sentido a través del pulmón
+- D. En las aves el aire ingresa por la zona anterior y sale por la posterior
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 833
+**Subtema:** respiración · flujo unidireccional de las aves
+
+A diferencia de los mamíferos, en los que el aire entra y sale del pulmón a través de la misma vía —la tráquea—, en las aves, el aire circula por los pulmones en un único sentido: ingresa en el pulmón desde la zona posterior y, luego de producirse el intercambio gaseoso, lo abandona por la zona anterior.
+
+> Es la diferencia de fondo entre los dos sistemas: en los **mamíferos** el aire va y viene por la misma vía (flujo y reflujo); en las **aves** el flujo es **unidireccional**, y por eso queda poco aire residual "muerto" (reactivo 90).
+
+### 88
+
+De acuerdo con el libro de Biología, según la figura 35-5, ¿dónde están ubicados los sacos con los que se conecta cada pulmón de las aves?
+
+- A. En los espacios aéreos de los huesos
+- B. En la cavidad abdominal, junto al tubo digestivo
+- C. Dentro del propio tejido pulmonar, sin salir de él
+- D. En la base del cuello, junto a la laringe
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 833
+**Subtema:** respiración · sacos aéreos de las aves
+
+Cada pulmón está conectado con varios sacos ubicados en los espacios aéreos de los huesos.
+
+### 89
+
+De acuerdo con el libro de Biología, según la figura 35-5, ¿cuál es el recorrido del aire en el ciclo respiratorio de un ave?
+
+- A. Al inhalar, el aire entra por la tráquea y pasa a los sacos aéreos posteriores; en la espiración siguiente pasa de esos sacos a los pulmones, donde ocurre el intercambio gaseoso; en la siguiente inspiración sale de los pulmones hacia los sacos aéreos anteriores, y en la subsecuente espiración sale del cuerpo
+- B. Al inhalar, el aire pasa directamente a los pulmones y en la espiración sale del cuerpo, en un solo ciclo
+- C. Al inhalar, el aire entra por los sacos anteriores y en la espiración pasa a los posteriores
+- D. El aire permanece siempre dentro de los sacos aéreos, sin llegar nunca a los pulmones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 833
+**Subtema:** respiración · ciclo respiratorio de las aves
+
+Cuando el ave inhala, el aire entra por la tráquea y pasa a los sacos aéreos posteriores. Durante la subsecuente espiración, pasa de los sacos posteriores a los pulmones, en donde se produce el intercambio gaseoso. Durante la siguiente inspiración, el aire sale de los pulmones e ingresa en los sacos aéreos anteriores; en la subsecuente espiración, sale del cuerpo.
+
+### 90
+
+De acuerdo con el libro de Biología, según la figura 35-5, ¿qué función cumplen los sacos aéreos de las aves y qué resultado produce?
+
+- A. En ellos no se produce intercambio gaseoso; actúan como fuelles, insuflando aire fresco en los pulmones en cada ciclo respiratorio, y como resultado queda poco aire residual "muerto" en los pulmones, a diferencia de lo que ocurre en los mamíferos
+- B. En ellos se produce todo el intercambio gaseoso, y por eso los pulmones pueden ser pequeños
+- C. Almacenan sangre oxigenada como reservorio para el vuelo
+- D. Filtran el polvo del aire antes de que llegue a los pulmones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 833
+**Subtema:** respiración · sacos aéreos de las aves
+
+En los sacos no se produce intercambio gaseoso; estos actúan como fuelles, insuflando aire fresco en los pulmones en cada ciclo respiratorio. Como resultado, queda poco aire residual "muerto" en los pulmones, a diferencia de lo que ocurre en los mamíferos.
+
+### 91
+
+De acuerdo con el libro de Biología, según la figura 35-5, ¿cómo se llaman los tubos aéreos del pulmón de las aves y dónde ocurre allí el intercambio gaseoso?
+
+- A. Se llaman parabronquios, y el intercambio gaseoso ocurre en la amplia malla de tubos capilares aéreos y capilares sanguíneos que forman el tejido respiratorio esponjoso
+- B. Se llaman alvéolos, y el intercambio ocurre en su pared junto a los capilares
+- C. Se llaman bronquíolos, y el intercambio ocurre en los sacos aéreos
+- D. Se llaman laminillas secundarias, y el intercambio ocurre por contracorriente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 833
+**Subtema:** respiración · parabronquios
+
+Los tubos aéreos del pulmón de las aves son los parabronquios. El intercambio gaseoso ocurre en la amplia malla de tubos capilares aéreos y capilares sanguíneos, que constituyen el tejido respiratorio esponjoso que se observa rodeando a los tubos mayores.
+
+### 92
+
+De acuerdo con el libro de Biología, según la figura 35-5, ¿de qué animal es la microfotografía electrónica de barrido del tejido pulmonar?
+
+- A. De un pollo de 14 días
+- B. De un ave migratoria adulta
+- C. De un pez pulmonado
+- D. De un caracol terrestre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 833
+**Subtema:** respiración · pulmones de las aves
+
+Microfotografía electrónica de barrido de un tejido pulmonar de un pollo de 14 días. Los tubos visibles aquí están ventilados por el aire incorporado por los sacos aéreos.
+
+## Sub-lote 13 · El recorrido del aire y los alvéolos humanos (fig. 35-6, p. 833)
+
+### 93
+
+De acuerdo con el libro de Biología, según la figura 35-6, ¿cuál es el recorrido completo del aire en el sistema respiratorio humano?
+
+- A. Ingresa por la nariz o la boca, pasa a la faringe, luego a la laringe y desciende finalmente por la tráquea, los bronquios y los bronquíolos hasta los alvéolos pulmonares
+- B. Ingresa por la nariz, pasa a la laringe, luego a la faringe y desciende por los bronquíolos hasta los bronquios
+- C. Ingresa por la boca, pasa al esófago y desde allí a los pulmones
+- D. Ingresa por la tráquea, pasa a la faringe y desde allí a los alvéolos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 833
+**Subtema:** respiración · recorrido del aire
+
+El aire ingresa por la nariz o la boca, pasa a la faringe, luego a la laringe y desciende finalmente por la tráquea, los bronquios y los bronquíolos hasta los alvéolos pulmonares.
+
+### 94
+
+De acuerdo con el libro de Biología, según la figura 35-6, ¿en cuántos alvéolos se produce el intercambio gaseoso en el par de pulmones?
+
+- A. En los aproximadamente 300 millones de alvéolos del par de pulmones
+- B. En los aproximadamente 300 mil alvéolos del par de pulmones
+- C. En los aproximadamente 3 millones de alvéolos del par de pulmones
+- D. En un único alvéolo por cada pulmón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 833
+**Subtema:** respiración · alvéolos
+
+El intercambio gaseoso se produce en los aproximadamente 300 millones de alvéolos del par de pulmones.
+
+### 95
+
+De acuerdo con el libro de Biología, según la figura 35-6, ¿a través de qué difunden el O2 y el CO2 hacia o desde la sangre?
+
+- A. A través de la pared de los alvéolos y de los capilares sanguíneos
+- B. A través de la pared de la tráquea y de los bronquios
+- C. A través de las cuerdas vocales y la laringe
+- D. A través de los sacos aéreos y los parabronquios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 833
+**Subtema:** respiración · intercambio alveolar
+
+El O2 y CO2 difunden hacia o desde la sangre a través de la pared de los alvéolos y de los capilares sanguíneos.
+
 ---
 
-**Reactivos en este archivo:** 83
+**Reactivos en este archivo:** 95
