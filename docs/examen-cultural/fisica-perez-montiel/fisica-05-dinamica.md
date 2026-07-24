@@ -88,6 +88,11 @@ reactivo 2. La página de cada referencia se **lee** de la esquina de la hoja.
 - **Sub-lote 17 · Campo gravitacional y su intensidad (p. 155)** — tema 3
 - **Sub-lote 18 · El cosmos, el Big Bang y el Sistema Solar (pp. 155–156)** — tema 3
 - **Sub-lote 19 · El Sol, los planetas y los cometas (p. 156)** — tema 3
+- **Sub-lote 20 · Relación de la estática con la dinámica (p. 165)** — tema 5
+- **Sub-lote 21 · Sistemas de fuerzas colineales, concurrentes y paralelas (pp. 166–167)** — tema 5
+- **Sub-lote 22 · Par de fuerzas y momento de una fuerza (pp. 168–169)** — tema 5
+- **Sub-lote 23 · Centro de gravedad, centroide y centro de masa (p. 169)** — tema 5
+- **Sub-lote 24 · Condiciones de equilibrio y diagrama de cuerpo libre (p. 170)** — tema 5
 
 **Fuera del temario, no se tocan** aunque caigan en las mismas páginas: los temas
 14 (Relación entre el impulso y la cantidad de movimiento) y 15 (Choque elástico
@@ -102,11 +107,18 @@ temas 1, 6, 7, 9, 11, 12 y 18.
 - p. 151 · la mitad superior, que es "Resolución de un problema de fuerza
   centrípeta" y sus ejercicios propuestos.
 - p. 157 · completa: "Resolución de problemas de la ley de gravitación universal".
+- p. 168 · el "método analítico para encontrar el punto de aplicación de la
+  resultante", que el propio libro remite a la resolución de problemas.
+- p. 170 · de la sección "Estrategia para resolver problemas de equilibrio de los
+  cuerpos y diagrama de cuerpo libre" **sólo se tomó la definición** de diagrama
+  de cuerpo libre y qué fuerzas aparecen al aislar un cuerpo. Los pasos a), b) y
+  1, 2, 3 son procedimiento y no llevan reactivo.
+- pp. 171–176 · resolución de problemas de equilibrio y sus ejercicios
+  propuestos.
 - Los "Ejercicios propuestos" de toda la unidad.
 
-**Pendiente:** temas 5 (Estática, pp. 165–176), 10 (Sustentabilidad y
-contaminación, pp. 198–199) y 16 (Ley de la conservación de la cantidad de
-movimiento, pp. 207–211).
+**Pendiente:** temas 10 (Sustentabilidad y contaminación, pp. 198–199) y 16 (Ley
+de la conservación de la cantidad de movimiento, pp. 207–211).
 
 ## Cómo se escriben estos reactivos
 
@@ -2722,6 +2734,726 @@ En relación con el libro de Física, ¿cuándo fue visto a simple vista el come
 
 <El cometa Halley fue visto a simple vista desde la Tierra en el año de 1986 y se regresa al Sistema Solar interior cada 75 años por lo que será observado nuevamente en el año 2061.>
 
+## Sub-lote 20 · Relación de la estática con la dinámica (p. 165)
+
+### 160
+
+De acuerdo con el libro de Física, ¿de dónde se deriva la palabra estática y qué significa?
+
+- A. Del griego *statikós*, que significa inmóvil.
+- B. Del griego *statikós*, que significa equilibrio.
+- C. Del latín *staticus*, que significa inmóvil.
+- D. Del griego *dýnamis*, que significa fuerza.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<La palabra estática se deriva del griego statikós que significa inmóvil.>
+
+### 161
+
+De conformidad con el libro de Física, ¿dónde queda comprendida la estática y qué analiza?
+
+- A. Queda comprendida dentro del estudio de la dinámica y analiza las situaciones que permiten el equilibrio de los cuerpos.
+- B. Queda comprendida dentro del estudio de la cinemática y analiza las situaciones que permiten el movimiento de los cuerpos.
+- C. Queda comprendida dentro del estudio de la hidrostática y analiza el equilibrio de los líquidos.
+- D. Queda fuera del estudio de la dinámica y analiza únicamente las causas del movimiento.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<En virtud de que la dinámica estudia las causas que originan el reposo o movimiento de los cuerpos, tenemos que la estática queda comprendida dentro del estudio de la dinámica y analiza las situaciones que permiten el equilibrio de los cuerpos.>
+
+### 162
+
+En relación con el libro de Física, ¿en qué se sustentan los principios de la estática?
+
+- A. En las leyes de Newton.
+- B. En las leyes de Kepler.
+- C. En la ley de la gravitación universal.
+- D. En la ley de la conservación de la energía.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Los principios de la estática se sustentan en las leyes de Newton.>
+
+### 163
+
+De acuerdo con el libro de Física, ¿qué casos estudia en general la estática?
+
+- A. Aquellos casos en que los cuerpos sometidos a la acción de varias fuerzas no se mueven, toda vez que éstas se equilibran entre sí.
+- B. Aquellos casos en que los cuerpos sometidos a la acción de varias fuerzas se mueven con una aceleración constante.
+- C. Aquellos casos en que sobre los cuerpos no actúa ninguna fuerza en absoluto.
+- D. Aquellos casos en que los cuerpos giran sobre su propio eje con velocidad angular constante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<En general, la estática estudia aquellos casos en que los cuerpos sometidos a la acción de varias fuerzas no se mueven, toda vez que éstas se equilibran entre sí.>
+
+### 164
+
+De conformidad con el libro de Física, ¿qué otros casos considera la estática además de los cuerpos que no se mueven?
+
+- A. Los casos en que la resultante de las fuerzas que actúan sobre un cuerpo en movimiento es nula y el cuerpo sigue desplazándose con movimiento rectilíneo uniforme.
+- B. Los casos en que la resultante de las fuerzas que actúan sobre un cuerpo en movimiento es nula y el cuerpo se detiene de inmediato.
+- C. Los casos en que la resultante de las fuerzas que actúan sobre un cuerpo en movimiento aumenta y el cuerpo acelera uniformemente.
+- D. Los casos en que un cuerpo cae libremente por acción de la fuerza de gravedad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<También considera los casos en que la resultante de las fuerzas que actúan sobre un cuerpo en movimiento es nula y el cuerpo sigue desplazándose con movimiento rectilíneo uniforme.>
+
+### 165
+
+En relación con el libro de Física, ¿qué son los cuerpos rígidos?
+
+- A. Aquéllos cuya deformación provocada por una fuerza es mínima al compararla con su tamaño.
+- B. Aquéllos cuya deformación provocada por una fuerza es muy grande al compararla con su tamaño.
+- C. Aquéllos que no experimentan ninguna fuerza externa sobre su superficie.
+- D. Aquéllos cuyo centro de gravedad se localiza siempre en su centro geométrico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<En esta sección nos ocuparemos del estudio del equilibrio de los cuerpos rígidos, aquéllos cuya deformación provocada por una fuerza es mínima al compararla con su tamaño.>
+
+### 166
+
+De acuerdo con el libro de Física, ¿cómo se clasifican las fuerzas en coplanares y no coplanares?
+
+- A. Coplanares si se encuentran en el mismo plano, y no coplanares si están en diferente plano.
+- B. Coplanares si se encuentran en diferente plano, y no coplanares si están en el mismo plano.
+- C. Coplanares si sus líneas de acción pasan por un mismo punto, y no coplanares si son paralelas.
+- D. Coplanares si tienen la misma magnitud, y no coplanares si tienen magnitudes diferentes.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Las fuerzas pueden clasificarse en coplanares si se encuentran en el mismo plano, y no coplanares si están en diferente plano.>
+
+### 167
+
+De conformidad con el libro de Física, ¿qué dice el principio de transmisibilidad del punto de aplicación de las fuerzas?
+
+- A. El efecto externo de una fuerza no se modifica cuando se traslada en su misma dirección, es decir, sobre su propia línea de acción.
+- B. El efecto externo de una fuerza se modifica cuando se traslada en su misma dirección, es decir, sobre su propia línea de acción.
+- C. El efecto externo de una fuerza no se modifica cuando se traslada a cualquier punto del cuerpo, sea cual sea su dirección.
+- D. El efecto externo de una fuerza depende únicamente de su magnitud y no de su punto de aplicación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<El efecto externo de una fuerza no se modifica cuando se traslada en su misma dirección, es decir, sobre su propia línea de acción.>
+
+### 168
+
+En relación con el ejemplo del libro de Física, si deseamos mover un cuerpo horizontalmente aplicando una fuerza, ¿qué ocurre?
+
+- A. El resultado será el mismo si lo empujamos o si lo jalamos.
+- B. El resultado será mayor si lo empujamos que si lo jalamos.
+- C. El resultado será mayor si lo jalamos que si lo empujamos.
+- D. El resultado será nulo tanto si lo empujamos como si lo jalamos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 166
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Por ejemplo, si deseamos mover un cuerpo horizontalmente aplicando una fuerza, el resultado será el mismo si lo empujamos o si lo jalamos.>
+
+## Sub-lote 21 · Sistemas de fuerzas colineales, concurrentes y paralelas (pp. 166–167)
+
+### 169
+
+De acuerdo con el libro de Física, ¿cuándo se forma un sistema de fuerzas colineales?
+
+- A. Cuando sobre un cuerpo actúan dos o más fuerzas con una misma línea de acción, es decir, en la misma dirección.
+- B. Cuando sobre un cuerpo actúan dos o más fuerzas cuyas líneas de acción pasan por un mismo punto.
+- C. Cuando sobre un cuerpo actúan dos o más fuerzas cuyas líneas de acción son paralelas.
+- D. Cuando sobre un cuerpo actúan dos fuerzas de la misma magnitud y sentido contrario.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 166
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Un sistema de fuerzas colineales se forma cuando sobre un cuerpo actúan dos o más fuerzas con una misma línea de acción, es decir, en la misma dirección.>
+
+### 170
+
+De conformidad con el libro de Física, ¿a qué es igual la magnitud de la resultante de dos fuerzas colineales?
+
+- A. A la suma algebraica de las dos fuerzas.
+- B. Al producto de las dos fuerzas.
+- C. Al cociente de las dos fuerzas.
+- D. Siempre a cero, sea cual sea el sentido de las dos fuerzas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 166
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<La magnitud de la resultante de las dos fuerzas colineales será igual a la suma algebraica.>
+
+### 171
+
+En relación con el libro de Física, cuando al sumar dos fuerzas colineales la resultante es igual a cero, ¿en qué estado queda el cuerpo?
+
+- A. Estará en equilibrio, es decir, en reposo, o bien, en movimiento rectilíneo uniforme.
+- B. Estará en movimiento rectilíneo uniformemente acelerado.
+- C. Estará girando sobre su propio eje con velocidad angular constante.
+- D. Estará necesariamente en reposo absoluto, sin ninguna otra posibilidad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 166
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Puesto que al sumar las dos fuerzas la resultante es igual a cero, el carrito estará en equilibrio, es decir, en reposo, o bien, en movimiento rectilíneo uniforme toda vez que las dos fuerzas se equilibran entre sí.>
+
+### 172
+
+De acuerdo con el libro de Física, ¿qué son las fuerzas concurrentes y por qué se les llama también angulares?
+
+- A. Son aquéllas cuyas direcciones o líneas de acción pasan por un mismo punto; se les llama angulares porque forman un ángulo entre ellas.
+- B. Son aquéllas cuyas direcciones o líneas de acción son paralelas; se les llama angulares porque forman un ángulo recto entre ellas.
+- C. Son aquéllas que actúan sobre la misma línea de acción; se les llama angulares porque forman un ángulo de 180°.
+- D. Son aquéllas de la misma magnitud y sentido contrario; se les llama angulares porque producen un movimiento de rotación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 167
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Las fuerzas concurrentes son aquéllas cuyas direcciones o líneas de acción pasan por un mismo punto. También se les suele llamar angulares porque forman un ángulo entre ellas.>
+
+### 173
+
+De conformidad con el libro de Física, ¿qué método se utiliza para sumar gráficamente dos fuerzas concurrentes y cuál para más de dos?
+
+- A. Para dos, el método del paralelogramo; para más de dos, el método del polígono.
+- B. Para dos, el método del polígono; para más de dos, el método del paralelogramo.
+- C. Para dos y para más de dos se utiliza siempre el método del paralelogramo.
+- D. Para dos, el método del triángulo; para más de dos, el método del paralelogramo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 167
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Cuando en forma gráfica se desea sumar dos fuerzas concurrentes, como los ejemplos del 1 al 4, se utiliza el método del paralelogramo. Para sumar más de dos fuerzas concurrentes, como en los ejemplos 5 y 6, se utiliza el método del polígono.>
+
+### 174
+
+En relación con el libro de Física, si sobre un cuerpo rígido actúan dos o más fuerzas cuyas líneas de acción son paralelas, ¿cómo será la resultante?
+
+- A. Tendrá una magnitud igual a la suma de ellas con su línea de acción también paralela a las fuerzas, pero su punto de aplicación debe ser determinado con precisión.
+- B. Tendrá una magnitud igual a la suma de ellas con su línea de acción perpendicular a las fuerzas, y su punto de aplicación es indiferente.
+- C. Tendrá una magnitud igual a cero, pues las fuerzas paralelas siempre se equilibran entre sí.
+- D. Tendrá una magnitud igual al producto de ellas con su línea de acción paralela a las fuerzas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 167
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Si sobre un cuerpo rígido actúan dos o más fuerzas cuyas líneas de acción son paralelas, la resultante tendrá una magnitud igual a la suma de ellas con su línea de acción también paralela a las fuerzas, pero su punto de aplicación debe ser determinado con precisión para que produzca el mismo efecto que las componentes.>
+
+## Sub-lote 22 · Par de fuerzas y momento de una fuerza (pp. 168–169)
+
+### 175
+
+De acuerdo con el libro de Física, ¿cuándo se produce un par de fuerzas?
+
+- A. Cuando dos fuerzas paralelas de la misma magnitud, pero de sentido contrario actúan sobre un cuerpo.
+- B. Cuando dos fuerzas paralelas de la misma magnitud y del mismo sentido actúan sobre un cuerpo.
+- C. Cuando dos fuerzas de magnitudes diferentes y de sentido contrario actúan sobre la misma línea de acción.
+- D. Cuando dos fuerzas cuyas líneas de acción pasan por un mismo punto actúan sobre un cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 168
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Se produce un par de fuerzas cuando dos fuerzas paralelas de la misma magnitud, pero de sentido contrario actúan sobre un cuerpo.>
+
+### 176
+
+De conformidad con el libro de Física, ¿cuánto vale la resultante de un par de fuerzas y dónde está su punto de aplicación?
+
+- A. Su resultante es igual a cero y su punto de aplicación está en el centro de la línea que une a los puntos de aplicación de las fuerzas componentes.
+- B. Su resultante es igual a la suma de las dos fuerzas y su punto de aplicación está en el centro de la línea que une a los puntos de aplicación de las componentes.
+- C. Su resultante es igual a cero y su punto de aplicación está en uno de los extremos de la línea que une a las componentes.
+- D. Su resultante es igual al doble de una de las fuerzas y su punto de aplicación está en el centro de gravedad del cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 168
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Su resultante es igual a cero y su punto de aplicación está en el centro de la línea que une a los puntos de aplicación de las fuerzas componentes.>
+
+### 177
+
+En relación con el libro de Física, ¿qué produce siempre un par de fuerzas no obstante que su resultante es cero?
+
+- A. Un movimiento de rotación, tal como sucede con el volante de un automóvil.
+- B. Un movimiento de traslación, tal como sucede con un carrito que se empuja.
+- C. Un movimiento rectilíneo uniformemente acelerado.
+- D. Ningún movimiento en absoluto, pues su resultante es igual a cero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 168
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<No obstante que la resultante es cero, un par de fuerzas produce siempre un movimiento de rotación tal como sucede con el volante de un automóvil.>
+
+### 178
+
+De acuerdo con el libro de Física, ¿de qué dependen los efectos que una fuerza provoca en un movimiento de rotación?
+
+- A. Del punto donde se aplique.
+- B. Únicamente de su magnitud, sin importar dónde se aplique.
+- C. De la masa total del cuerpo sobre el que actúa.
+- D. De la velocidad angular que ya lleve el cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 168
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<La razón es que los efectos que una fuerza provoca en un movimiento de rotación depende del punto donde se aplique.>
+
+### 179
+
+De conformidad con el libro de Física, ¿cómo se define el momento de una fuerza, también llamado momento de torsión, torque o torca?
+
+- A. Como la capacidad que tiene una fuerza para hacer girar un cuerpo.
+- B. Como la capacidad que tiene una fuerza para trasladar un cuerpo de un punto a otro.
+- C. Como el punto donde se encuentra aplicada la resultante de las fuerzas gravitatorias de un cuerpo.
+- D. Como la suma algebraica de dos fuerzas que actúan sobre la misma línea de acción.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 168
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<El momento de una fuerza, también llamado momento de torsión o simplemente torque o torca (torcer), se define como la capacidad que tiene una fuerza para hacer girar un cuerpo.>
+
+### 180
+
+En relación con el libro de Física, ¿cómo se calcula la magnitud del momento de una fuerza?
+
+- A. Multiplicando la magnitud de la fuerza aplicada por el brazo de la palanca.
+- B. Dividiendo la magnitud de la fuerza aplicada entre el brazo de la palanca.
+- C. Sumando la magnitud de la fuerza aplicada y el brazo de la palanca.
+- D. Dividiendo el brazo de la palanca entre la magnitud de la fuerza aplicada.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 168
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<La magnitud del momento de una fuerza (M) se calcula multiplicando la magnitud de la fuerza aplicada (F) por el brazo de la palanca (r).>
+
+### 181
+
+De acuerdo con el libro de Física, ¿cuándo se considera por convención que el momento de una fuerza es positivo y cuándo negativo?
+
+- A. Es positivo cuando su tendencia es hacer girar a un cuerpo en sentido contrario al giro de las manecillas de un reloj, y negativo cuando la tendencia es hacerlo girar en sentido de las manecillas del reloj.
+- B. Es positivo cuando su tendencia es hacer girar a un cuerpo en sentido de las manecillas de un reloj, y negativo cuando la tendencia es hacerlo girar en sentido contrario.
+- C. Es positivo cuando la fuerza se aplica en el punto de apoyo, y negativo cuando se aplica lejos de él.
+- D. Es positivo cuando el brazo de palanca es mayor que la fuerza, y negativo cuando es menor.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 168
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Esto se debe a que por convención se considera que el momento de una fuerza es positivo cuando su tendencia es hacer girar a un cuerpo en sentido contrario al giro de las manecillas de un reloj, y negativo cuando la tendencia de la fuerza aplicada es hacer girar al cuerpo en sentido de las manecillas del reloj.>
+
+### 182
+
+De conformidad con el ejemplo del libro de Física, ¿qué ocurre cuando la fuerza se aplica exactamente en el punto de apoyo de la viga?
+
+- A. Su brazo de palanca es cero y no tiene ninguna capacidad para hacer girar a la viga, por tanto, su momento es nulo.
+- B. Su brazo de palanca es máximo y tiene la mayor capacidad para hacer girar a la viga, por tanto, su momento es máximo.
+- C. Su brazo de palanca se reduce a la mitad y su momento es la mitad, con signo negativo.
+- D. Su brazo de palanca es cero pero su momento sigue siendo el mismo, pues la fuerza no cambió.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<No obstante que la fuerza sigue siendo la misma (20 N), su brazo de palanca es cero y no tiene ninguna capacidad para hacer girar a la viga, por tanto, su momento es nulo.>
+
+### 183
+
+En relación con la conclusión del libro de Física, ¿qué tipo de magnitud es el momento de una fuerza y cuál es su dirección?
+
+- A. Es una magnitud vectorial cuya dirección es perpendicular al plano en que se realiza la rotación del cuerpo y su sentido dependerá de cómo se realice ésta.
+- B. Es una magnitud escalar que sólo requiere que se señale su magnitud para quedar definida.
+- C. Es una magnitud vectorial cuya dirección es paralela al plano en que se realiza la rotación del cuerpo.
+- D. Es una magnitud vectorial cuya dirección está siempre dirigida hacia el centro de gravedad del cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Por todo lo anterior, podemos concluir que el momento de una fuerza es una magnitud vectorial cuya dirección es perpendicular al plano en que se realiza la rotación del cuerpo y su sentido dependerá de cómo se realice ésta.>
+
+## Sub-lote 23 · Centro de gravedad, centroide y centro de masa (p. 169)
+
+### 184
+
+De acuerdo con el libro de Física, ¿qué es el centro de gravedad de un cuerpo?
+
+- A. Es el punto donde se encuentra aplicada la resultante de la suma de todas las fuerzas gravitatorias que actúan sobre cada una de las partículas del mismo.
+- B. Es el punto donde estaría el centro de masa si el espacio vacío fuera ocupado por un cuerpo.
+- C. Es el punto en el cual para cualquier plano que pasa por él los momentos de las masas a un lado del plano son iguales a los del otro lado.
+- D. Es el punto de apoyo sobre el cual el cuerpo gira cuando se le aplica una fuerza.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<El centro de gravedad de un cuerpo es el punto donde se encuentra aplicada la resultante de la suma de todas las fuerzas gravitatorias que actúan sobre cada una de las partículas del mismo.>
+
+### 185
+
+De conformidad con el libro de Física, si el cuerpo es simétrico y homogéneo, ¿dónde se localizará la resultante de todas las fuerzas gravitatorias?
+
+- A. En el centro geométrico.
+- B. En uno de sus extremos.
+- C. En su base de apoyo.
+- D. Fuera del cuerpo, sobre su línea de acción.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Si el cuerpo es simétrico y homogéneo la resultante de todas las fuerzas gravitatorias se localizará en el centro geométrico.>
+
+### 186
+
+En relación con el libro de Física, ¿qué ocurre si se suspende un cuerpo de su centro de gravedad?
+
+- A. Queda en completo equilibrio, tanto de traslación como de rotación.
+- B. Queda en equilibrio de traslación, pero no de rotación.
+- C. Queda en equilibrio de rotación, pero no de traslación.
+- D. Comienza a girar sobre su propio eje con velocidad angular constante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Si se suspende un cuerpo de su centro de gravedad queda en completo equilibrio, tanto de traslación como de rotación.>
+
+### 187
+
+De acuerdo con el libro de Física, ¿cómo se encuentra fácilmente el centro de gravedad de un cuerpo que no es simétrico, como un bate de beisbol o una piedra?
+
+- A. Suspendiendo el cuerpo en dos puntos diferentes; el cruce de las dos líneas que sucesivamente ocupan la posición vertical es el centro de gravedad.
+- B. Localizando su centro geométrico, que en todo cuerpo coincide con el centro de gravedad.
+- C. Suspendiendo el cuerpo en un solo punto y midiendo la altura a la que queda.
+- D. Calculando el promedio de las masas de todas sus partículas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Su centro de gravedad puede encontrarse fácilmente si se suspende el cuerpo en dos puntos diferentes. El cruce de las dos líneas que sucesivamente ocupan la posición vertical, es el centro de gravedad.>
+
+### 188
+
+De conformidad con el libro de Física, ¿qué se entiende por centroide?
+
+- A. El punto donde estaría el centro de gravedad, si el espacio vacío fuera ocupado por un cuerpo.
+- B. El punto donde se encuentra aplicada la resultante de las fuerzas gravitatorias del cuerpo.
+- C. El punto en el cual los momentos de las masas a un lado de cualquier plano son iguales a los del otro lado.
+- D. El punto geométrico donde se cruzan las diagonales de un cuerpo simétrico y homogéneo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Por centroide se entiende el punto donde estaría el centro de gravedad, si el espacio vacío fuera ocupado por un cuerpo.>
+
+### 189
+
+En relación con los ejemplos del libro de Física, ¿cuál de estos cuerpos tiene centroide y cuál centro de gravedad?
+
+- A. Un tubo metálico tiene centroide, pero una barra metálica cilíndrica presenta centro de gravedad.
+- B. Un tubo metálico tiene centro de gravedad, pero una barra metálica cilíndrica presenta centroide.
+- C. Tanto el tubo metálico como la barra metálica cilíndrica tienen centroide.
+- D. Tanto el tubo metálico como la barra metálica cilíndrica tienen centro de gravedad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Lo mismo sucede con un tubo metálico, éste tiene centroide, pero una barra metálica cilíndrica presenta centro de gravedad.>
+
+> La distinción es la que más se presta a confusión de este sub-lote: lo **hueco** tiene centroide (cubo hueco de placas, tubo metálico); lo **macizo** tiene centro de gravedad (trozo de madera cuadrangular, barra metálica cilíndrica).
+
+### 190
+
+De acuerdo con el libro de Física, ¿dónde se localiza el centro de masa de un cuerpo?
+
+- A. En aquel punto en el cual para cualquier plano que pasa por él los momentos de las masas a un lado del plano son iguales a los momentos de las masas del otro lado.
+- B. En aquel punto donde se encuentra aplicada la resultante de la suma de todas las fuerzas gravitatorias del cuerpo.
+- C. En aquel punto donde estaría el centro de gravedad si el espacio vacío fuera ocupado por un cuerpo.
+- D. En el centro geométrico del cuerpo, sea éste simétrico o no.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<El centro de masa de un cuerpo se localiza en aquel punto en el cual para cualquier plano que pasa por él los momentos de las masas a un lado del plano son iguales a los momentos de las masas del otro lado.>
+
+### 191
+
+De conformidad con el libro de Física, ¿qué se requiere para que un cuerpo apoyado esté en equilibrio?
+
+- A. Que la línea de acción de su peso, o sea, la vertical que pasa por su centro de gravedad, pase también por su base de apoyo.
+- B. Que la línea de acción de su peso quede por completo fuera de su base de apoyo.
+- C. Que su centro de gravedad se encuentre a la mayor altura posible.
+- D. Que la resultante de las fuerzas gravitatorias que actúan sobre él sea igual a cero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Para que un cuerpo apoyado esté en equilibrio se requiere que la línea de acción de su peso, o sea, la vertical que pasa por su centro de gravedad, pase también por su base de apoyo.>
+
+### 192
+
+En relación con el libro de Física, ¿qué ocurre cuando la vertical del centro de gravedad no pasa por el apoyo?
+
+- A. El peso y la reacción dejan de ser colineales y se transforman en un par de fuerzas con su correspondiente momento de rotación, ocasionando que el cuerpo gire o caiga.
+- B. El peso y la reacción se vuelven colineales y el cuerpo queda en completo equilibrio.
+- C. El peso se anula por completo y el cuerpo queda flotando sobre su base de apoyo.
+- D. La reacción del apoyo aumenta hasta igualar el doble del peso del cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Cuando la vertical del centro de gravedad no pasa por el apoyo, el peso y la reacción dejan de ser colineales y se transforman en un par de fuerzas con su correspondiente momento de rotación, ocasionando que el cuerpo gire o caiga.>
+
+### 193
+
+De acuerdo con el libro de Física, ¿cuándo está un cuerpo en equilibrio estable?
+
+- A. Cuando al moverlo vuelve a ocupar la posición que tenía debido al efecto de la fuerza de gravedad; al moverse, su centro de gravedad sube.
+- B. Cuando al moverlo baja su centro de gravedad, por lo que trata de alejarse de su posición inicial.
+- C. Cuando en cualquier posición su centro de gravedad se mantiene a la misma altura.
+- D. Cuando su centro de gravedad se localiza exactamente en su centro geométrico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Un cuerpo está en equilibrio estable cuando al moverlo vuelve a ocupar la posición que tenía debido al efecto de la fuerza de gravedad. Cuando se mueve, su centro de gravedad sube, por ello trata de regresar a su posición inicial.>
+
+### 194
+
+De conformidad con el libro de Física, ¿cuándo tiene un cuerpo equilibrio inestable?
+
+- A. Cuando al moverlo baja su centro de gravedad, por lo que trata de alejarse de su posición inicial buscando tener un equilibrio estable.
+- B. Cuando al moverlo sube su centro de gravedad, por lo que trata de regresar a su posición inicial.
+- C. Cuando en cualquier posición su centro de gravedad se mantiene a la misma altura.
+- D. Cuando la línea de acción de su peso pasa por su base de apoyo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Un cuerpo tiene equilibrio inestable cuando al moverlo baja su centro de gravedad, por lo que trata de alejarse de su posición inicial buscando tener un equilibrio estable.>
+
+### 195
+
+En relación con el libro de Física, ¿cuándo es indiferente el equilibrio de un cuerpo?
+
+- A. Cuando en cualquier posición su centro de gravedad se mantiene a la misma altura, por lo cual no trata de conservar su posición original ni alejarse de ella.
+- B. Cuando en cualquier posición su centro de gravedad sube, por lo cual trata de conservar su posición original.
+- C. Cuando en cualquier posición su centro de gravedad baja, por lo cual trata de alejarse de su posición original.
+- D. Cuando su centro de gravedad queda fuera de su base de sustentación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<El equilibrio de un cuerpo es indiferente cuando en cualquier posición su centro de gravedad se mantiene a la misma altura, por lo cual no trata de conservar su posición original ni alejarse de ella.>
+
+> Los tres tipos de equilibrio se distinguen por lo que le pasa al centro de gravedad al mover el cuerpo: **sube** → estable; **baja** → inestable; **se mantiene igual** → indiferente.
+
+### 196
+
+De acuerdo con el libro de Física, ¿de qué depende la estabilidad de un cuerpo apoyado sobre su base?
+
+- A. Aumenta a medida que es mayor la superficie de sustentación y disminuye al ser mayor la altura de su centro de gravedad.
+- B. Aumenta a medida que es menor la superficie de sustentación y disminuye al ser menor la altura de su centro de gravedad.
+- C. Aumenta a medida que es mayor la altura de su centro de gravedad y disminuye al ser mayor la superficie de sustentación.
+- D. No depende ni de la superficie de sustentación ni de la altura del centro de gravedad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<En general, la estabilidad de un cuerpo apoyado sobre su base aumenta a medida que es mayor la superficie de sustentación y disminuye al ser mayor la altura de su centro de gravedad.>
+
+### 197
+
+De conformidad con el ejemplo del libro de Física, ¿por qué los autos de carreras tienen su centro de gravedad lo más bajo posible?
+
+- A. Para una mayor estabilidad.
+- B. Para una mayor velocidad en las rectas.
+- C. Para reducir la magnitud de su peso.
+- D. Para aumentar la altura de su superficie de sustentación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 169
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Por ello, los autos de carreras tienen su centro de gravedad lo más bajo posible para una mayor estabilidad.>
+
+## Sub-lote 24 · Condiciones de equilibrio y diagrama de cuerpo libre (p. 170)
+
+### 198
+
+En relación con el libro de Física, ¿qué nos dice la primera condición de equilibrio?
+
+- A. Para que un cuerpo esté en equilibrio de traslación, la resultante de todas las fuerzas que actúan sobre él debe ser cero.
+- B. Para que un cuerpo esté en equilibrio de rotación, la suma de los momentos de las fuerzas que actúan sobre él debe ser igual a cero.
+- C. Para que un cuerpo esté en equilibrio de traslación, la suma de los momentos de las fuerzas que actúan sobre él debe ser cero.
+- D. Para que un cuerpo esté en equilibrio, la resultante de todas las fuerzas que actúan sobre él debe ser máxima.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 170
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Con lo anteriormente expuesto podemos establecer la primera condición de equilibrio que nos dice: para que un cuerpo esté en equilibrio de traslación, la resultante de todas las fuerzas que actúan sobre él debe ser cero.>
+
+### 199
+
+De acuerdo con el libro de Física, ¿qué dice la segunda condición de equilibrio?
+
+- A. Para que un cuerpo esté en equilibrio de rotación, la suma de los momentos o torcas de las fuerzas que actúan sobre él respecto a cualquier punto debe ser igual a cero.
+- B. Para que un cuerpo esté en equilibrio de rotación, la resultante de todas las fuerzas que actúan sobre él debe ser igual a cero.
+- C. Para que un cuerpo esté en equilibrio de traslación, la suma de los momentos de las fuerzas que actúan sobre él debe ser igual a cero.
+- D. Para que un cuerpo esté en equilibrio de rotación, la suma de los momentos de las fuerzas debe ser igual a su peso.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 170
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Para que un cuerpo esté en equilibrio de rotación, la suma de los momentos o torcas de las fuerzas que actúan sobre él respecto a cualquier punto debe ser igual a cero.>
+
+> Las dos condiciones se confunden con facilidad: la **primera** es de **traslación** y habla de la resultante de las fuerzas; la **segunda** es de **rotación** y habla de la suma de los momentos.
+
+### 200
+
+De conformidad con el libro de Física, ¿puede un cuerpo estar en equilibrio de traslación y aun así estar girando?
+
+- A. Sí, puede encontrarse en equilibrio de traslación si la resultante de las fuerzas que actúan sobre él es cero y, sin embargo, estar girando sobre su propio eje.
+- B. No, si la resultante de las fuerzas que actúan sobre él es cero el cuerpo no puede girar de ninguna manera.
+- C. Sí, pero sólo si la suma de los momentos de las fuerzas que actúan sobre él también es cero.
+- D. No, porque el equilibrio de traslación y el de rotación son siempre simultáneos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 170
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Un cuerpo puede encontrarse en equilibrio de traslación si la resultante de las fuerzas que actúan sobre él es cero. Sin embargo, puede estar girando sobre su propio eje, como fue señalado en la sección: Par de fuerzas, debido al efecto que le produce un par de fuerzas.>
+
+### 201
+
+En relación con el libro de Física, ¿qué nombre recibe el procedimiento gráfico para aislar un cuerpo?
+
+- A. Diagrama de cuerpo libre.
+- B. Método del paralelogramo.
+- C. Método del polígono.
+- D. Principio de transmisibilidad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 170
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Este procedimiento gráfico para aislar un cuerpo recibe el nombre de diagrama de cuerpo libre.>
+
+### 202
+
+De acuerdo con el libro de Física, cuando se aísla un cuerpo, ¿qué fuerzas aparecen sobre él y por qué son ocasionadas?
+
+- A. Únicamente las fuerzas externas que soporta, ocasionadas por tener contacto con otros cuerpos o por atracción gravitacional.
+- B. Únicamente las fuerzas internas que lo mantienen unido, ocasionadas por la cohesión de sus partículas.
+- C. Tanto las fuerzas externas como las internas, ocasionadas por su propia masa.
+- D. Ninguna fuerza, pues al aislarlo el cuerpo queda libre de toda acción externa.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 170
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<Cuando se aísla un cuerpo sobre él aparecen únicamente las fuerzas externas que soporta, las cuales son ocasionadas por tener contacto con otros cuerpos o por atracción gravitacional.>
+
+### 203
+
+De conformidad con la nota del libro de Física, ¿a qué dos tipos de movimiento puede reducirse para su estudio cualquier movimiento, por complejo que sea?
+
+- A. De traslación y de rotación.
+- B. De traslación y de vibración.
+- C. De rotación y de oscilación.
+- D. Rectilíneo uniforme y rectilíneo uniformemente acelerado.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 170
+**Tema:** U5 t5 · estática
+**Subtema:** física · estática
+
+<En general, cualquier movimiento por complejo que sea puede ser reducido para su estudio a dos tipos de movimiento: de traslación y de rotación.>
+
 ---
 
-**Reactivos en este archivo:** 159
+**Reactivos en este archivo:** 203
