@@ -21,8 +21,10 @@ la copia de la EMM. Se leyó de la hoja, no se calculó.
 ## Alcance
 
 El Capítulo XXV empieza en la página impresa **340** (recuadro histórico de Euler)
-y comparte capítulo con la representación gráfica de puntos en el espacio. Este
-archivo cubre, por ahora, su **primer bloque de teoría**, páginas **340 a 346**:
+y termina antes del Capítulo XXVI. Este archivo cubre **toda su teoría**, páginas
+**340 a 352**, en dos bloques:
+
+**Primer bloque — resolución de sistemas 3×3 (pp. 340–346):**
 
 - Recuadro histórico de **Leonard Euler** (p. 340).
 - Método de resolución de un sistema de tres ecuaciones con tres incógnitas
@@ -33,26 +35,39 @@ archivo cubre, por ahora, su **primer bloque de teoría**, páginas **340 a 346*
 - **Regla de Kramer** (Cramer) para resolver sistemas por determinantes
   (art. 309, p. 346).
 
-**Los sistemas resueltos, los ejercicios (178 a 188) y los problemas son
+**Segundo bloque — representación gráfica en el espacio (pp. 348–352):**
+
+- Ejes coordenados en el espacio: rectangulares/oblicuos, origen, planos
+  coordenados y triedro trirrectángulo (art. 310, p. 348).
+- Coordenadas cartesianas de un punto del espacio: abscisa, ordenada y cota
+  (art. 311, p. 349).
+- Representación de un punto cuando una o más coordenadas son 0 (art. 312, p. 350).
+- El plano: toda ecuación de primer grado con tres variables representa un plano;
+  las trazas (art. 313, p. 350).
+- Plano que pasa por un punto (art. 315, p. 352).
+- Significación gráfica y resolución gráfica: la solución de un sistema 3×3 es el
+  punto común a los tres planos (arts. 316–317, p. 352).
+
+**Los sistemas resueltos, los ejercicios (178 a 191) y los problemas son
 práctica y NO llevan reactivos** (criterio de teoría sobre práctica). Las
-**reglas** de los métodos sí son teoría.
+**reglas** de los métodos sí son teoría. El **art. 318** (sistemas de 4 ecuaciones
+con 4 incógnitas, p. 354) es un ejemplo resuelto —práctica— sin reactivos; cierra
+el capítulo.
 
 ## Cobertura actual
 
-Cubierto en su teoría el primer bloque del capítulo (pp. 340–346, arts. 306–309):
-el recuadro de Euler, el método de eliminación para sistemas 3×3, la definición de
-determinante de tercer orden, la Regla de Sarrus y la Regla de Kramer.
+**COMPLETO.** El capítulo XXV queda cubierto en su teoría (arts. 306–317,
+pp. 340–352): el recuadro de Euler, el método de eliminación para sistemas 3×3, la
+definición de determinante de tercer orden, la Regla de Sarrus, la Regla de Kramer,
+y toda la representación gráfica de puntos del espacio y planos (ejes y planos
+coordenados, coordenadas de un punto, el plano y sus trazas, y la solución de un
+sistema 3×3 como punto común de los tres planos).
 
-**Pendiente:** el capítulo XXV **NO está cerrado**. Falta su **segundo bloque, la
-representación gráfica de puntos del espacio y planos** (arts. 310–313 en adelante,
-desde la p. 348: ejes coordenados en el espacio, triedro trirrectángulo, planos
-coordenados, coordenadas cartesianas de un punto del espacio —abscisa, ordenada y
-cota— y la representación gráfica de la ecuación). **Es una decisión de alcance
-para Carlo**, igual que en su momento con la representación gráfica de las
-funciones (Cap. XXI): hay que confirmar hasta dónde llega el "Completo" del temario
-`ALGE-04-2026` de la EMOS y dónde termina exactamente el Capítulo XXV (el Capítulo
-XXVI arranca después). Mientras se decide, este archivo sostiene el pendiente de
-Álgebra.
+**Pendiente:** ninguno del capítulo XXV. Con él **el temario de Álgebra de la EMOS
+(`ALGE-04-2026`) queda cubierto**, y con él toda la materia Álgebra en lo que piden
+los cinco planteles. Queda pendiente, en el Capítulo XXIV, el relleno de la teoría
+de determinantes de 2º orden (art. 302), que se trabaja en su propio archivo
+`algebra-24-ecuaciones-simultaneas.md`.
 
 ## Aviso de alcance del Capítulo XXIV (para Carlo)
 
@@ -348,13 +363,298 @@ En relación con el libro de Álgebra, según la Regla de Kramer, ¿cómo se obt
 
 El numerador es la determinante que se obtiene sustituyendo en la determinante del sistema la columna de los coeficientes de la incógnita que se halla por la columna de los términos independientes de las ecuaciones dadas.
 
+## Sub-lote 6 · Ejes coordenados en el espacio (art. 310, p. 348)
+
+### 18
+
+De acuerdo con el libro de Álgebra, si por un punto del espacio O trazamos tres ejes OX, OY, OZ de modo que cada eje sea perpendicular a los otros dos, ¿qué tenemos?
+
+- A. Un sistema de ejes coordenados rectangulares en el espacio
+- B. Un sistema de ejes coordenados oblicuos en el espacio
+- C. Un triedro trirrectángulo inverso
+- D. Un plano coordenado
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 348
+**Subtema:** Ecuaciones simultáneas tres incógnitas · ejes coordenados en el espacio
+
+Si por un punto del espacio O trazamos tres ejes OX, OY, OZ, de modo que cada eje sea perpendicular a los otros dos, tenemos un sistema de ejes coordenados rectangulares en el espacio.
+
+### 19
+
+En relación con el libro de Álgebra, ¿qué tenemos si los ejes coordenados del espacio no son perpendiculares entre sí?
+
+- A. Un sistema de ejes coordenados oblicuos
+- B. Un sistema de ejes coordenados rectangulares
+- C. Un triedro trirrectángulo
+- D. Un plano coordenado
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 348
+**Subtema:** Ecuaciones simultáneas tres incógnitas · ejes coordenados en el espacio
+
+Si los ejes no son perpendiculares entre sí, tenemos un sistema de ejes coordenados oblicuos.
+
+### 20
+
+De acuerdo con el libro de Álgebra, en el sistema de ejes coordenados del espacio, ¿qué plano determinan los ejes OX y OY?
+
+- A. El plano XY
+- B. El plano YZ
+- C. El plano ZX
+- D. El plano XYZ
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 348
+**Subtema:** Ecuaciones simultáneas tres incógnitas · ejes coordenados en el espacio
+
+Los ejes OX y OY determinan el plano XY; los ejes OY y OZ determinan el plano YZ, y los ejes OZ y OX determinan el plano ZX. Estos son los planos coordenados.
+
+### 21
+
+En relación con el libro de Álgebra, ¿cómo se llaman los planos XY, YZ y ZX determinados por los ejes coordenados del espacio?
+
+- A. Los planos coordenados
+- B. Las trazas del plano
+- C. Los triedros trirrectángulos
+- D. Los ejes coordenados
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 348
+**Subtema:** Ecuaciones simultáneas tres incógnitas · ejes coordenados en el espacio
+
+Los ejes OX y OY determinan el plano XY; los ejes OY y OZ determinan el plano YZ, y los ejes OZ y OX determinan el plano ZX. Estos son los planos coordenados.
+
+### 22
+
+De acuerdo con el libro de Álgebra, los tres planos coordenados, perpendicular cada uno de ellos a los otros dos, ¿qué forman?
+
+- A. Un triedro trirrectángulo
+- B. Un sistema de ejes oblicuos
+- C. Un plano de trazas
+- D. Un origen de coordenadas
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 348
+**Subtema:** Ecuaciones simultáneas tres incógnitas · ejes coordenados en el espacio
+
+Estos tres planos, perpendicular cada uno de ellos a los otros dos, forman un triedro trirrectángulo.
+
+## Sub-lote 7 · Coordenadas cartesianas de un punto del espacio (art. 311, p. 349)
+
+### 23
+
+En relación con el libro de Álgebra, ¿qué son las coordenadas de un punto del espacio?
+
+- A. Sus distancias a los planos coordenados
+- B. Sus distancias a los ejes coordenados
+- C. Sus distancias al origen
+- D. Los ángulos que forma con los ejes
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 349
+**Subtema:** Ecuaciones simultáneas tres incógnitas · coordenadas de un punto del espacio
+
+La posición de un punto del espacio queda determinada por sus coordenadas en el espacio, que son sus distancias a los planos coordenados.
+
+### 24
+
+De acuerdo con el libro de Álgebra, ¿qué es la abscisa x de un punto P del espacio?
+
+- A. La distancia de P al plano YZ
+- B. La distancia de P al plano ZX
+- C. La distancia de P al plano XY
+- D. La distancia de P al origen
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 349
+**Subtema:** Ecuaciones simultáneas tres incógnitas · coordenadas de un punto del espacio
+
+La abscisa x, que es la distancia de P al plano YZ.
+
+### 25
+
+En relación con el libro de Álgebra, ¿qué es la ordenada y de un punto P del espacio?
+
+- A. La distancia de P al plano ZX
+- B. La distancia de P al plano YZ
+- C. La distancia de P al plano XY
+- D. La distancia de P al eje OY
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 349
+**Subtema:** Ecuaciones simultáneas tres incógnitas · coordenadas de un punto del espacio
+
+La ordenada y, que es la distancia de P al plano ZX.
+
+### 26
+
+De acuerdo con el libro de Álgebra, ¿qué es la cota z de un punto P del espacio?
+
+- A. La distancia de P al plano XY
+- B. La distancia de P al plano YZ
+- C. La distancia de P al plano ZX
+- D. La distancia de P al eje OZ
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 349
+**Subtema:** Ecuaciones simultáneas tres incógnitas · coordenadas de un punto del espacio
+
+La cota z, que es la distancia de P al plano XY.
+
+## Sub-lote 8 · Representación de un punto cuando una o más coordenadas son 0 (art. 312, p. 350)
+
+### 27
+
+En relación con el libro de Álgebra, cuando una de las coordenadas de un punto es 0 y las otras dos no, ¿dónde está situado el punto?
+
+- A. En uno de los planos coordenados
+- B. En uno de los ejes coordenados
+- C. En el origen
+- D. Fuera del triedro trirrectángulo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 350
+**Subtema:** Ecuaciones simultáneas tres incógnitas · punto con coordenadas nulas
+
+Cuando una de las coordenadas es 0 y las otras dos no, el punto está situado en uno de los planos coordenados.
+
+### 28
+
+De acuerdo con el libro de Álgebra, cuando dos de las coordenadas de un punto son 0 y la otra no, ¿dónde está situado el punto?
+
+- A. En uno de los ejes
+- B. En uno de los planos coordenados
+- C. En el origen
+- D. En el triedro trirrectángulo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 350
+**Subtema:** Ecuaciones simultáneas tres incógnitas · punto con coordenadas nulas
+
+Cuando dos de las coordenadas son 0 y la otra no, el punto está situado en uno de los ejes.
+
+### 29
+
+En relación con el libro de Álgebra, si las tres coordenadas de un punto son 0, ¿dónde está el punto?
+
+- A. Es el origen
+- B. Está en el plano XY
+- C. Está en el eje OZ
+- D. Está en el infinito
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 350
+**Subtema:** Ecuaciones simultáneas tres incógnitas · punto con coordenadas nulas
+
+Si las tres coordenadas son 0, el punto es el origen.
+
+## Sub-lote 9 · El plano (art. 313, p. 350)
+
+### 30
+
+De acuerdo con el libro de Álgebra, ¿qué representa toda ecuación de primer grado con tres variables?
+
+- A. Un plano
+- B. Una recta
+- C. Un punto
+- D. Una circunferencia
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 350
+**Subtema:** Ecuaciones simultáneas tres incógnitas · el plano
+
+Toda ecuación de primer grado con tres variables representa un plano.
+
+### 31
+
+En relación con el libro de Álgebra, los segmentos OA, OB y OC de un plano, ¿qué son?
+
+- A. Las trazas del plano sobre los ejes
+- B. Los ejes coordenados del plano
+- C. Las coordenadas del origen
+- D. Los planos coordenados
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 350
+**Subtema:** Ecuaciones simultáneas tres incógnitas · el plano
+
+Los segmentos OA, OB y OC son las trazas del plano sobre los ejes.
+
+### 32
+
+De acuerdo con el libro de Álgebra, los puntos A, B y C donde el plano intersecta a los ejes, por ser puntos de los ejes, ¿cuántas coordenadas nulas tienen?
+
+- A. Dos coordenadas nulas
+- B. Una coordenada nula
+- C. Tres coordenadas nulas
+- D. Ninguna coordenada nula
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 350
+**Subtema:** Ecuaciones simultáneas tres incógnitas · el plano
+
+Los puntos A, B y C, donde el plano intersecta a los ejes, por ser puntos de los ejes, tienen dos coordenadas nulas.
+
+## Sub-lote 10 · Plano que pasa por un punto (art. 315, p. 352)
+
+### 33
+
+En relación con el libro de Álgebra, si un plano pasa por un punto del espacio, ¿qué ocurre con las coordenadas de ese punto?
+
+- A. Satisfacen la ecuación del plano
+- B. Son todas iguales a cero
+- C. Son las trazas del plano
+- D. Determinan un triedro trirrectángulo
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 352
+**Subtema:** Ecuaciones simultáneas tres incógnitas · plano que pasa por un punto
+
+Si un plano pasa por un punto del espacio, las coordenadas de ese punto satisfacen la ecuación del plano.
+
+## Sub-lote 11 · Significación gráfica de la solución de un sistema 3×3 (arts. 316–317, p. 352)
+
+### 34
+
+De acuerdo con el libro de Álgebra, la solución de un sistema de tres ecuaciones con tres incógnitas representa un punto del espacio; respecto de los tres planos que representan las ecuaciones, ¿qué es ese punto?
+
+- A. El punto común a los tres planos, por el que pasan los tres
+- B. Un punto de uno solo de los tres planos
+- C. El origen de coordenadas
+- D. Un punto de intersección de dos de los tres planos
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 352
+**Subtema:** Ecuaciones simultáneas tres incógnitas · significación gráfica de la solución
+
+El punto pertenece a los tres planos que representan las ecuaciones dadas; luego, es un punto por el que pasan los 3 planos, el punto común a los 3 planos.
+
+### 35
+
+En relación con el libro de Álgebra, ¿qué es resolver gráficamente un sistema de tres ecuaciones con tres incógnitas?
+
+- A. Hallar el punto del espacio por el que pasan los tres planos
+- B. Hallar la recta de intersección de dos de los planos
+- C. Hallar las trazas de cada plano sobre los ejes
+- D. Hallar el origen del sistema de coordenadas
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 352
+**Subtema:** Ecuaciones simultáneas tres incógnitas · significación gráfica de la solución
+
+Resolver gráficamente un sistema de tres ecuaciones con tres incógnitas es hallar el punto del espacio por el que pasan los tres planos.
+
 ---
 
-**Pendiente:** el capítulo XXV **NO está cerrado** (ver la sección "Alcance"). Este
-archivo cubre su primer bloque de teoría (arts. 306–309, pp. 340–346). Falta la
-**representación gráfica de puntos del espacio y planos** (desde la p. 348), que es
-una decisión de alcance para Carlo, y queda anotado aparte el posible relleno del
-**Capítulo XXIV** (determinantes de segundo orden, art. 302). Mientras se decide,
-este archivo sostiene el pendiente de Álgebra.
+**Pendiente:** ninguno. El capítulo XXV queda cerrado en su teoría (arts. 306–317,
+pp. 340–352): la resolución de sistemas 3×3, los determinantes de tercer orden con
+las reglas de Sarrus y de Kramer, y la representación gráfica de puntos del espacio
+y planos. El art. 318 (sistemas de 4 ecuaciones con 4 incógnitas) es un ejemplo
+resuelto —práctica— y no lleva reactivos. Con el XXV, **el temario de Álgebra de la
+EMOS (`ALGE-04-2026`) queda cubierto**, y con él toda la materia Álgebra en lo que
+piden los cinco planteles (HCM, EME, EMM, EMO y EMOS). Queda el relleno de
+determinantes de 2º orden del Capítulo XXIV (art. 302), que se trabaja en su propio
+archivo.
 
-**Reactivos en este archivo:** 17
+**Reactivos en este archivo:** 35

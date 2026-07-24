@@ -20,17 +20,31 @@ de la página impresa (hoja 323 = p. 319). Se leyó de la hoja, no se calculó.
 ## Alcance
 
 Este archivo cubre el **Capítulo XXIV · Ecuaciones simultáneas de primer grado con
-dos incógnitas**, páginas impresas **319 a 323**. Sólo la **teoría**: el recuadro
-histórico de Brook Taylor; las definiciones de ecuaciones simultáneas, equivalentes,
-independientes e incompatibles; sistema de ecuaciones, solución, sistema
-compatible/incompatible y determinado/indeterminado; la eliminación y los tres
-métodos de eliminación (igualación, sustitución y reducción), citando la regla de
-cada uno. **Los sistemas resueltos, los ejercicios y los problemas son práctica y
-NO llevan reactivos** (criterio de teoría sobre práctica).
+dos incógnitas**, páginas impresas **319 a 336**, en dos bloques de teoría:
+
+**Bloque 1 — métodos de eliminación (pp. 319–323):** el recuadro histórico de Brook
+Taylor; las definiciones de ecuaciones simultáneas, equivalentes, independientes e
+incompatibles; sistema de ecuaciones, solución, sistema compatible/incompatible y
+determinado/indeterminado; la eliminación y los tres métodos de eliminación
+(igualación, sustitución y reducción), citando la regla de cada uno.
+
+**Bloque 2 — teoría de determinantes de 2º orden (pp. 333–335):** la definición de
+determinante (columnas, filas, determinante cuadrada, orden, segundo orden, diagonal
+principal y secundaria) (art. 302); el desarrollo de una determinante de segundo
+orden (art. 303); y la regla para resolver un sistema de dos ecuaciones con dos
+incógnitas por determinantes (art. 304). Este bloque se añadió por decisión de Carlo
+(24 jul 2026) para cumplir el "Completo" del temario, en coherencia con los
+determinantes de tercer orden ya escritos en el Capítulo XXV (`algebra-25`).
+
+**Los sistemas resueltos, los ejercicios (178–187) y los problemas son práctica y
+NO llevan reactivos** (criterio de teoría sobre práctica). Las **reglas** sí son
+teoría. Quedan fuera, por ser práctica, los arts. 298–301 (sistemas numéricos,
+fraccionarios, literales y con incógnitas en los denominadores) y la resolución
+gráfica de sistemas 2×2 (arts. 305 en adelante), que son procedimiento.
 
 ## Cobertura actual
 
-**COMPLETO.** El capítulo XXIV queda cubierto en su teoría, pp. 319–323:
+**COMPLETO.** El capítulo XXIV queda cubierto en su teoría, pp. 319–335:
 
 - Recuadro histórico de Brook Taylor (p. 319).
 - Ecuaciones simultáneas, equivalentes e independientes (arts. 289–290).
@@ -39,16 +53,18 @@ NO llevan reactivos** (criterio de teoría sobre práctica).
 - Resolución por eliminación (art. 292) y los tres métodos (art. 293).
 - Regla de cada método: igualación (art. 294), sustitución (art. 295) y
   reducción (arts. 296–297).
+- **Determinante** (art. 302, p. 333): columnas, filas, determinante cuadrada, orden,
+  segundo orden, diagonal principal y secundaria.
+- **Desarrollo de una determinante de segundo orden** (art. 303, p. 334).
+- **Resolución por determinantes de un sistema de dos ecuaciones con dos incógnitas**
+  (art. 304, p. 335): la regla del denominador (determinante del sistema) y del
+  numerador.
 
-**Pendiente:** el capítulo XXIV está cubierto en la teoría de los arts. 289–297
-(pp. 319–323; los sistemas resueltos y los problemas son práctica y no llevan
-reactivos). El capítulo **XXV** ya tiene archivo
-(`algebra-25-ecuaciones-simultaneas-tres-incognitas.md`), que es hoy quien sostiene
-el pendiente de Álgebra. **Aviso de alcance:** el propio Capítulo XXIV continúa
-después de la p. 323 con la **teoría de determinantes de segundo orden** (art. 302
-"Determinante", p. 333, y la resolución por determinantes, pp. 334–336), que quedó
-fuera de este archivo; está anotado en el encabezado de `algebra-25` como decisión
-para Carlo sobre si se rellena para cumplir el "Completo" del temario.
+**Pendiente:** ninguno. El capítulo XXIV queda cerrado en su teoría (arts. 289–297 y
+302–304, pp. 319–335). El capítulo **XXV** tiene su propio archivo
+(`algebra-25-ecuaciones-simultaneas-tres-incognitas.md`), que sostiene el pendiente
+de Álgebra; con el XXV cerrado, la materia Álgebra queda cubierta para los cinco
+planteles.
 
 ## Nota del banco: una inconsistencia del libro (resuelta)
 
@@ -416,3 +432,163 @@ En relación con el libro de Álgebra, en el método de reducción, cuando los c
 **Subtema:** Ecuaciones simultáneas · método de reducción
 
 Como los coeficientes que hemos igualado tienen signos iguales, se restan ambas ecuaciones y de ese modo se elimina la incógnita.
+
+## Sub-lote · Determinante (art. 302, p. 333)
+
+### 22
+
+En relación con el libro de Álgebra, ¿por qué cantidades están constituidas las columnas de una determinante?
+
+- A. Por las cantidades que están en una misma línea vertical
+- B. Por las cantidades que están en una misma línea horizontal
+- C. Por las cantidades que están en la diagonal principal
+- D. Por las cantidades que están en la diagonal secundaria
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 333
+**Subtema:** Ecuaciones simultáneas · determinante
+
+Las columnas de una determinante están constituidas por las cantidades que están en una misma línea vertical.
+
+### 23
+
+De acuerdo con el libro de Álgebra, ¿por qué cantidades están constituidas las filas de una determinante?
+
+- A. Por las cantidades que están en una misma línea horizontal
+- B. Por las cantidades que están en una misma línea vertical
+- C. Por las cantidades que están en la diagonal principal
+- D. Por las cantidades que están en la diagonal secundaria
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 333
+**Subtema:** Ecuaciones simultáneas · determinante
+
+Las filas están constituidas por las cantidades que están en una misma línea horizontal.
+
+### 24
+
+En relación con el libro de Álgebra, ¿cuándo es cuadrada una determinante?
+
+- A. Cuando tiene el mismo número de columnas que de filas
+- B. Cuando tiene más columnas que filas
+- C. Cuando tiene más filas que columnas
+- D. Cuando tiene una sola fila y una sola columna
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 333
+**Subtema:** Ecuaciones simultáneas · determinante
+
+Una determinante es cuadrada cuando tiene el mismo número de columnas que de filas.
+
+### 25
+
+De acuerdo con el libro de Álgebra, ¿cómo se llaman las determinantes que tienen dos columnas y dos filas?
+
+- A. Determinantes de segundo orden
+- B. Determinantes de primer orden
+- C. Determinantes de tercer orden
+- D. Determinantes cuadradas dobles
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 333
+**Subtema:** Ecuaciones simultáneas · determinante
+
+El orden de una determinante cuadrada es el número de elementos de cada fila o columna. Así, las que tienen dos columnas y dos filas son determinantes de segundo orden.
+
+### 26
+
+En relación con el libro de Álgebra, ¿qué es el orden de una determinante cuadrada?
+
+- A. El número de elementos de cada fila o columna
+- B. El producto de los términos de la diagonal principal
+- C. La diferencia entre las columnas y las filas
+- D. El número total de elementos de la determinante
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 333
+**Subtema:** Ecuaciones simultáneas · determinante
+
+El orden de una determinante cuadrada es el número de elementos de cada fila o columna.
+
+### 27
+
+De acuerdo con el libro de Álgebra, en una determinante de segundo orden, ¿cómo se llama la línea que une los dos términos de la diagonal que baja de izquierda a derecha?
+
+- A. La diagonal principal
+- B. La diagonal secundaria
+- C. La diagonal vertical
+- D. La diagonal horizontal
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 333
+**Subtema:** Ecuaciones simultáneas · determinante
+
+En la determinante, la línea que une a con b es la diagonal principal y la línea que une c con d es la diagonal secundaria.
+
+### 28
+
+En relación con el libro de Álgebra, en una determinante de segundo orden, ¿cómo se llama la línea que une los dos términos de la otra diagonal?
+
+- A. La diagonal secundaria
+- B. La diagonal principal
+- C. La diagonal inversa
+- D. La diagonal media
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 333
+**Subtema:** Ecuaciones simultáneas · determinante
+
+En la determinante, la línea que une a con b es la diagonal principal y la línea que une c con d es la diagonal secundaria.
+
+## Sub-lote · Desarrollo de una determinante de segundo orden (art. 303, p. 334)
+
+### 29
+
+De acuerdo con el libro de Álgebra, ¿a qué equivale una determinante de segundo orden?
+
+- A. Al producto de los términos de la diagonal principal, menos el producto de los términos de la diagonal secundaria
+- B. Al producto de los términos de la diagonal secundaria, menos el producto de los términos de la diagonal principal
+- C. A la suma de los productos de ambas diagonales
+- D. Al producto de todos los términos de la determinante
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 334
+**Subtema:** Ecuaciones simultáneas · desarrollo de una determinante de segundo orden
+
+Una determinante de segundo orden equivale al producto de los términos que pertenecen a la diagonal principal, menos el producto de los términos que pertenecen a la diagonal secundaria.
+
+## Sub-lote · Resolución por determinantes de un sistema de dos ecuaciones con dos incógnitas (art. 304, p. 335)
+
+### 30
+
+En relación con el libro de Álgebra, para resolver por determinantes un sistema de dos ecuaciones con dos incógnitas, el valor de cada incógnita es una fracción; ¿cuál es su denominador?
+
+- A. La determinante formada con los coeficientes de x e y, llamada determinante del sistema
+- B. La determinante formada con los términos independientes de las ecuaciones
+- C. La suma de los coeficientes de x e y
+- D. El producto de los términos independientes de las ecuaciones
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 335
+**Subtema:** Ecuaciones simultáneas · resolución por determinantes
+
+El valor de x es una fracción cuyo denominador es la determinante formada con los coeficientes de x e y (determinante del sistema).
+
+### 31
+
+De acuerdo con el libro de Álgebra, al resolver por determinantes un sistema de dos ecuaciones con dos incógnitas, ¿cómo se obtiene el numerador del valor de x?
+
+- A. Sustituyendo en la determinante del sistema la columna de los coeficientes de x por la columna de los términos independientes de las ecuaciones dadas
+- B. Sustituyendo en la determinante del sistema la columna de los coeficientes de y por la columna de los términos independientes
+- C. Multiplicando la determinante del sistema por los términos independientes
+- D. Sumando a la determinante del sistema la columna de los términos independientes
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 335
+**Subtema:** Ecuaciones simultáneas · resolución por determinantes
+
+El numerador es la determinante que se obtiene sustituyendo en la determinante del sistema la columna de los coeficientes de x por la columna de los términos independientes de las ecuaciones dadas.
+
+---
+
+**Reactivos en este archivo:** 31
