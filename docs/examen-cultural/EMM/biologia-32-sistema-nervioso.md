@@ -127,9 +127,18 @@ frecuencia asociada a la intensidad), y las bases iónicas de los potenciales de
 (membranas permeables a Na+, K+ y Cl–; la diferencia de potencial depende del gradiente
 químico y de la permeabilidad; los canales iónicos y su probabilidad de estar abiertos;
 los mecanismos que los abren; y el potencial de reposo por la distribución asimétrica de
-iones fuera de su equilibrio químico).
+iones fuera de su equilibrio químico). De la **página 768** se cubre el detalle iónico:
+los gradientes del K+ (favorece su salida) y del Na+ (favorece su ingreso), el potencial
+de reposo generado por la salida de K+ por los canales de fuga (único ion con canales
+abiertos en reposo), la fig. 32-11 del axón en reposo (proteínas integrales —canales y
+bombas—, los canales de fuga de K+, los canales de Na+ y K+ regulados por potencial
+eléctrico cerrados por compuertas, la bomba de Na+/K+-ATPasa, y los aniones difusibles
+HCO3–/Cl– y los no difusibles de gran tamaño); y el potencial de acción (fig. 32-12): el
+umbral que abre los canales de Na+ sensibles al potencial, la despolarización hasta +40 mV
+(0,5 ms), la inactivación del Na+, la apertura más lenta de los canales de K+, la
+repolarización y la breve hiperpolarización, con el cierre final de los canales de K+.
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 768 (hoja 814) en adelante (el resto de las bases iónicas del potencial de reposo —el K+ y los demás iones—, las figs. 32-11 y 32-12, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 769 (hoja 815) en adelante (el resto del potencial de acción y su propagación, la fig. 32-12, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -2557,6 +2566,254 @@ De acuerdo con el libro de Biología, ¿por qué se genera y se mantiene fundame
 
 El potencial de membrana en reposo se genera y se mantiene fundamentalmente por la existencia de una distribución asimétrica de iones a ambos lados de la membrana. A su vez, estos iones están fuera de su equilibrio químico y, de esta forma, tienen una tendencia neta a entrar o salir de la célula.
 
+## Sub-lote 18 · El potencial de reposo y el axón en reposo (fig. 32-11, p. 768)
+
+### 157
+
+De acuerdo con el libro de Biología, ¿hacia dónde favorecen los gradientes químicos el movimiento del K+ y del Na+?
+
+- A. El gradiente químico favorece la salida del K+ (más concentrado en el interior) y el ingreso del Na+ (más concentrado en el medio extracelular)
+- B. El gradiente químico favorece el ingreso del K+ y la salida del Na+
+- C. El gradiente químico favorece la salida de ambos iones de la célula
+- D. El gradiente químico favorece el ingreso de ambos iones a la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · gradientes iónicos
+
+Al estar el K+ más concentrado en el interior celular, su gradiente químico favorece su salida. Por el contrario, se favorece el ingreso de Na+ al estar más concentrado en el medio extracelular.
+
+### 158
+
+De acuerdo con el libro de Biología, mientras la neurona o fibra muscular está en reposo, ¿cuál es el único ion cuyos canales iónicos se encuentran abiertos, y cómo se llaman?
+
+- A. El K+; sus canales abiertos se llaman canales de fuga
+- B. El Na+; sus canales abiertos se llaman canales regulados por potencial eléctrico
+- C. El Cl–; sus canales abiertos se llaman canales de fuga
+- D. El Ca2+; sus canales abiertos se llaman compuertas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · canales de fuga
+
+Mientras la neurona o fibra muscular permanece en el estado de reposo, el K+ es el único ion cuyos canales iónicos se encuentran abiertos (canales de fuga).
+
+### 159
+
+De acuerdo con el libro de Biología, ¿cómo se genera el potencial de membrana en reposo, con valores negativos en su cara interna?
+
+- A. El movimiento de salida de K+ mueve cargas positivas hacia el exterior de la célula y así genera el potencial de membrana en reposo, con valores negativos en su cara interna
+- B. El ingreso de Na+ mueve cargas positivas hacia el interior de la célula
+- C. La salida de los aniones no difusibles hacia el exterior de la célula
+- D. El ingreso de Cl– hacia el interior de la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · potencial de reposo
+
+El movimiento de salida de K+ mueve cargas positivas hacia el exterior de la célula y así genera el potencial de membrana en reposo, con valores negativos en su cara interna.
+
+### 160
+
+De acuerdo con el libro de Biología, según la figura 32-11, ¿qué proteínas integrales posee la membrana del axón y qué intercambian?
+
+- A. Canales y bombas que participan en los intercambios de K+ y Na+ entre el citosol de los axones y el líquido intersticial externo
+- B. Solo bombas que intercambian glucosa y oxígeno
+- C. Únicamente canales de Cl– que intercambian agua
+- D. Solo vainas de mielina que aíslan el axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · proteínas de membrana
+
+La membrana del axón posee una serie de proteínas integrales de membrana, entre las que se encuentran canales y bombas que participan en los intercambios de K+ y Na+ entre el citosol de los axones y el líquido intersticial externo.
+
+### 161
+
+De acuerdo con el libro de Biología, según la figura 32-11, ¿qué permiten los canales de fuga de K+ durante el estado de reposo?
+
+- A. Permiten la difusión de los iones K+ a favor de su salida, impulsada por su gradiente de potencial electroquímico
+- B. Permiten el ingreso masivo de Na+ hacia el interior de la célula
+- C. Permiten la salida de los aniones no difusibles de gran tamaño
+- D. Bombean K+ hacia el interior consumiendo ATP
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · canales de fuga
+
+Hay canales K+ que permanecen siempre abiertos durante el estado de reposo (canales de fuga) y permiten la difusión de los iones K+ impulsada por su gradiente de potencial electroquímico a favor de su salida.
+
+### 162
+
+De acuerdo con el libro de Biología, según la figura 32-11, ¿en qué estado permanecen los canales de Na+ y K+ regulados por potencial eléctrico durante el reposo, y por qué?
+
+- A. Permanecen mayoritariamente cerrados, por la presencia de compuertas; así, solo una cantidad muy pequeña de Na+ puede entrar a favor de su gradiente electroquímico
+- B. Permanecen siempre abiertos, permitiendo el paso libre de Na+ y K+
+- C. Desaparecen por completo de la membrana durante el reposo
+- D. Se convierten en bombas de Na+/K+-ATPasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · canales regulados por potencial
+
+Los canales de Na+ y K+ regulados por potencial eléctrico permanecen mayoritariamente cerrados, por la presencia de compuertas, durante el estado de reposo. Así, una cantidad muy pequeña de Na+ puede entrar a favor de su gradiente electroquímico.
+
+> Dos clases de canales que conviene no confundir: los **canales de fuga** (de K+, siempre abiertos en reposo) y los **canales regulados por potencial eléctrico** (de Na+ y K+, mayoritariamente cerrados en reposo por sus compuertas).
+
+### 163
+
+De acuerdo con el libro de Biología, según la figura 32-11, ¿qué genera el funcionamiento conjunto de los canales y la bomba de Na+/K+-ATPasa?
+
+- A. Las diferencias de concentración y permeabilidad de las que dependen el potencial de reposo y el potencial de acción
+- B. La vaina de mielina que recubre el axón
+- C. La liberación de adrenalina por la médula suprarrenal
+- D. La contracción de los músculos esqueléticos voluntarios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · bomba de sodio y potasio
+
+El funcionamiento conjunto de estos sistemas genera las diferencias de concentración y permeabilidad de las que dependen el potencial de reposo y el potencial de acción.
+
+### 164
+
+De acuerdo con el libro de Biología, según la figura 32-11, ¿cuáles son los aniones difusibles y cómo se describen los no difusibles?
+
+- A. Los aniones difusibles son el HCO3– y el Cl–; los no difusibles son de gran tamaño
+- B. Los aniones difusibles son el Na+ y el K+; los no difusibles son el Cl–
+- C. Los aniones difusibles son de gran tamaño; los no difusibles son el HCO3– y el Cl–
+- D. En el esquema no existen aniones difusibles
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · aniones
+
+En la figura 32-11 los aniones difusibles son el HCO3– y el Cl–, y los aniones no difusibles son de gran tamaño.
+
+## Sub-lote 19 · El potencial de acción: despolarización, repolarización e hiperpolarización (fig. 32-12, p. 768)
+
+### 165
+
+De acuerdo con el libro de Biología, cuando un estímulo hace que el potencial de membrana supere un potencial umbral determinado, ¿qué induce?
+
+- A. La apertura de un gran número de canales de Na+ sensibles al potencial eléctrico que se encontraban cerrados, lo cual provoca un aumento repentino de la permeabilidad al Na+
+- B. El cierre de todos los canales de fuga de K+
+- C. La detención de la bomba de Na+/K+-ATPasa
+- D. La salida masiva de los aniones no difusibles
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · potencial umbral
+
+Cuando un estímulo químico o eléctrico alcanza la membrana del axón y hace que su potencial de membrana supere un potencial umbral determinado, induce la apertura de un gran número de canales de Na+ sensibles al potencial eléctrico que se encontraban cerrados, lo cual provoca un aumento repentino de la permeabilidad al Na+.
+
+### 166
+
+De acuerdo con el libro de Biología, al abrirse los canales de Na+ y entrar cargas positivas al axón, ¿qué valor alcanza el potencial de membrana?
+
+- A. Alrededor de +40 mV
+- B. Alrededor de –70 mV
+- C. Alrededor de –180 mV
+- D. Exactamente 0 mV
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · despolarización
+
+La tendencia del Na+ a ingresar en la célula acarrea cargas positivas hacia el interior del axón. El potencial de membrana cambia con rapidez y alcanza un valor de alrededor de +40 mV.
+
+### 167
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el cambio del potencial de membrana hacia valores positivos (positivo del lado intracelular), y de qué es la etapa inicial?
+
+- A. Despolarización; constituye la etapa inicial del potencial de acción
+- B. Repolarización; es la etapa final del potencial de acción
+- C. Hiperpolarización; es la etapa de reposo del axón
+- D. Potencial umbral; es la etapa de fuga del K+
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · despolarización
+
+El potencial de membrana se invierte su signo: ahora es positivo del lado intracelular. Este cambio del potencial de membrana hacia valores positivos se denomina despolarización y constituye la etapa inicial del potencial de acción.
+
+### 168
+
+De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuánto dura aproximadamente el cambio en la permeabilidad al Na+, y qué ocurre después con esos canales?
+
+- A. Dura alrededor de 0,5 ms; luego los canales de Na+ pasan a un estado inactivo y la membrana retorna a su baja permeabilidad al Na+
+- B. Dura alrededor de 40 ms; luego los canales de Na+ permanecen abiertos indefinidamente
+- C. Dura alrededor de 0,5 s; luego los canales de Na+ se convierten en canales de fuga
+- D. No tiene una duración definida y se mantiene constante
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · permeabilidad al sodio
+
+El cambio en la permeabilidad al Na+ dura 0,5 ms, aproximadamente. Luego, estos canales de Na+ pasan a un estado inactivo y, así, la membrana retorna a su estado previo de baja permeabilidad a los iones Na+.
+
+### 169
+
+De acuerdo con el libro de Biología, mientras el potencial de membrana se hace positivo, ¿qué otros canales se van abriendo y de qué manera?
+
+- A. Otros canales de K+ dependientes del potencial eléctrico, que se abren de forma más lenta e incrementan la permeabilidad al K+
+- B. Nuevos canales de Na+ de fuga, que se abren de forma instantánea
+- C. Las bombas de Na+/K+-ATPasa, que dejan de funcionar
+- D. Canales de Cl– que expulsan los aniones no difusibles
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · canales de potasio
+
+En respuesta al cambio del potencial de membrana hacia valores positivos también se han estado abriendo, aunque de forma más lenta, otros canales de K+ que también son dependientes del potencial eléctrico; y se fue incrementando la permeabilidad a los iones K+.
+
+### 170
+
+De acuerdo con el libro de Biología, frente a la salida de cargas positivas acarreadas por el K+, ¿en qué fase entra el potencial de membrana y qué ocurre en ella?
+
+- A. En la fase de repolarización, en la que vuelve a aproximarse al potencial de reposo negativo
+- B. En la fase de despolarización, en la que se hace cada vez más positivo
+- C. En la fase de reposo permanente, en la que deja de cambiar
+- D. En la fase umbral, en la que se detiene la salida de K+
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · repolarización
+
+Frente a la salida de cargas positivas acarreadas por el K+, el potencial de membrana entra en una fase llamada repolarización, en la que vuelve a aproximarse al potencial de reposo negativo.
+
+### 171
+
+De acuerdo con el libro de Biología, al final, ¿a qué breve estado lleva la salida de iones K+ y qué lo caracteriza?
+
+- A. A un breve estado de hiperpolarización, en donde el potencial de membrana toma valores más negativos que en el de reposo
+- B. A un estado de despolarización permanente, con valores positivos
+- C. A un estado de reposo idéntico al inicial, sin ningún cambio
+- D. A la apertura definitiva de todos los canales de Na+
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · hiperpolarización
+
+Al final, la salida de iones K+ lleva ahora a un breve estado de hiperpolarización, en donde el potencial de membrana toma valores más negativos que en el de reposo.
+
+> Secuencia del potencial de acción, en orden: **despolarización** (entra Na+, hasta +40 mV) → **repolarización** (sale K+, vuelve hacia el reposo) → **hiperpolarización** (breve, más negativo que el reposo).
+
+### 172
+
+De acuerdo con el libro de Biología, al disminuir el potencial de membrana, ¿qué ocurre con los canales de K+ dependientes del potencial eléctrico?
+
+- A. Vuelven al estado cerrado
+- B. Se abren aún más
+- C. Se transforman en canales de fuga
+- D. Se convierten en bombas de Na+/K+-ATPasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 768
+**Subtema:** sistema nervioso · canales de potasio
+
+Al disminuir el potencial de membrana, los canales de K+ dependientes del potencial eléctrico vuelven al estado cerrado.
+
 ---
 
-**Reactivos en este archivo:** 156
+**Reactivos en este archivo:** 172
