@@ -171,8 +171,17 @@ receptores postsinápticos; la fig. 32-16 con las vesículas llenas de neurotran
 sustancias; los neurotransmisores rápidos y punto a punto, clasificados por composición
 química; los neuromoduladores que regulan; las neurohormonas de efectos lentos y duraderos
 a distancia; y la serotonina del tronco cerebral asociada al ánimo, el sueño y la depresión).
+De la **página 773** se cubre el **cuadro 32-1** (principales sustancias transmisoras): la
+acetilcolina (éster de Acetil-CoA y colina; Alzheimer), las monoaminas noradrenalina y
+adrenalina (depresión/manía), la dopamina (Parkinson por atrofia, esquizofrenia por
+hiperactividad, adicción), la serotonina (sueño y temperatura), la histamina, los
+aminoácidos glutamato (excitador, tóxico en exceso), glicina y GABA (inhibidores), los
+polipéptidos (encefalinas y endorfinas, sustancia P, neuropéptidos), las purinas (adenosina
+y ATP) y el óxido nítrico (gas, acción retrógrada, síntesis por NOS a partir de arginina,
+activa el cGMP); más el principio de que la acción depende del receptor y que las drogas
+del encéfalo intensifican o inhiben los sistemas transmisores.
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 773 (hoja 819) en adelante (el resto de los transmisores químicos —la dopamina y el cuadro 32-1—, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 774 (hoja 820) en adelante (los potenciales postsinápticos y la integración de señales, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -3654,6 +3663,269 @@ De acuerdo con el libro de Biología, ¿desde dónde se libera la serotonina y c
 
 La serotonina se libera desde axones cuyas neuronas se ubican en el tronco cerebral, en regiones del cerebro asociadas con el estado de ánimo y la atención; los niveles de serotonina se asocian con el ciclo de sueño y su falta ha sido relacionada con ciertos estados depresivos.
 
+## Sub-lote 28 · El cuadro 32-1: ésteres, aminas y aminoácidos (p. 773)
+
+### 225
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿cuál es la caracterización química de la acetilcolina (ACh)?
+
+- A. Un éster de Acetil-CoA y colina
+- B. Una amina biógena o monoamina
+- C. Un aminoácido
+- D. Un gas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · acetilcolina
+
+Según el cuadro 32-1, la acetilcolina (ACh) es un éster de Acetil-CoA y colina.
+
+### 226
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿qué ocurre con la acetilcolina en la enfermedad de Alzheimer?
+
+- A. Existe una reducción del ACh a causa de una degeneración de las neuronas que la producen
+- B. Existe un aumento del ACh por la hiperactividad de las neuronas que la producen
+- C. El ACh se transforma en dopamina
+- D. El ACh deja de unirse a cualquier receptor
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · acetilcolina · Alzheimer
+
+En la enfermedad de Alzheimer existe una reducción del ACh a causa de una degeneración de las neuronas que la producen.
+
+### 227
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿cómo se caracterizan químicamente la noradrenalina (NA) y la adrenalina (epinefrina), y con qué se asocian sus valores?
+
+- A. Son aminas biógenas o monoaminas; algunas expresiones de depresión recurrente se asocian con sus valores bajos y ciertos estados maníacos con sus valores altos
+- B. Son aminoácidos; la depresión se asocia con sus valores altos y la manía con los bajos
+- C. Son polipéptidos que solo participan en la analgesia endógena
+- D. Son un gas que actúa como neuromodulador retrógrado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · noradrenalina y adrenalina
+
+La noradrenalina (NA) y la adrenalina (epinefrina) son aminas biógenas o monoaminas. Algunas expresiones de depresión recurrente están asociadas con los valores bajos y ciertos estados maníacos con los valores altos.
+
+### 228
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿de qué es producto la enfermedad de Parkinson?
+
+- A. De la atrofia en las neuronas liberadoras de dopamina (que vinculan al mesencéfalo con el cuerpo estriado)
+- B. De la hiperactividad de la dopamina en el hipotálamo y el sistema límbico
+- C. De una reducción de la acetilcolina en el encéfalo
+- D. De un exceso de glutamato que provoca muerte neuronal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · dopamina · Parkinson
+
+La enfermedad de Parkinson es producto de la atrofia en las neuronas liberadoras de DA (que vinculan al mesencéfalo con el cuerpo estriado).
+
+### 229
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿cómo puede producirse la esquizofrenia en relación con la dopamina?
+
+- A. Por la hiperactividad de la DA en el hipotálamo, el sistema límbico y el prosencéfalo medial
+- B. Por la atrofia de las neuronas liberadoras de DA del mesencéfalo
+- C. Por una reducción de la DA a causa de una degeneración neuronal
+- D. Por la ausencia total de receptores de DA en la médula espinal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · dopamina · esquizofrenia
+
+La esquizofrenia puede producirse por la hiperactividad de la DA en el hipotálamo, el sistema límbico y el prosencéfalo medial. La adicción a diversas drogas de abuso también está relacionada con el sistema dopaminérgico.
+
+> Dos enfermedades ligadas a la dopamina, en sentidos opuestos: el **Parkinson** es por **atrofia/déficit** de las neuronas liberadoras de DA (reactivo 228); la **esquizofrenia**, por **hiperactividad** de la DA.
+
+### 230
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿cómo se caracteriza químicamente la serotonina (5HT) y en qué procesos participa?
+
+- A. Es una amina biógena o monoamina; participa en el sueño y en la regulación de la temperatura, y algunas expresiones de depresión recurrente se asocian con valores bajos
+- B. Es un aminoácido; participa solo en la contracción del músculo esquelético
+- C. Es un éster; participa en el movimiento voluntario y la memoria
+- D. Es un gas; participa en el aprendizaje mediante acción retrógrada
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · serotonina
+
+La serotonina (5HT) es una amina biógena o monoamina. Puede ser excitadora o inhibidora. Participa en el sueño y en la regulación de la temperatura. Algunas expresiones de depresión recurrente están asociadas con valores bajos.
+
+### 231
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, la histamina (HA), ¿con qué procesos está relacionada?
+
+- A. Con el despertar, el comportamiento sexual, la regulación de secreción hormonal y los umbrales del dolor
+- B. Con el movimiento voluntario y el ciclo vigilia-sueño únicamente
+- C. Con la analgesia endógena y la transmisión sensorial del dolor
+- D. Con los reflejos espinales y las conductas motoras
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · histamina
+
+La histamina (HA) está relacionada con el despertar, el comportamiento sexual, la regulación de secreción hormonal y los umbrales del dolor.
+
+### 232
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿cómo se caracteriza el glutamato y qué puede provocar en cantidades excesivas?
+
+- A. Es un aminoácido excitador; interviene en la memoria y el aprendizaje, y en cantidades excesivas puede provocar muerte neuronal por toxicidad
+- B. Es una monoamina inhibidora que participa solo en el sueño
+- C. Es un polipéptido que interviene en la analgesia endógena
+- D. Es un gas que no tiene efectos tóxicos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · glutamato
+
+El glutamato es un aminoácido excitador. Se libera en el SNC; intervendría en los mecanismos de memoria y aprendizaje. En cantidades excesivas puede provocar muerte neuronal por toxicidad.
+
+### 233
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿cómo actúa la glicina y en qué participa?
+
+- A. Es inhibidora en la médula espinal o excitadora en el encéfalo; participa en los reflejos espinales y otras conductas motoras
+- B. Es siempre excitadora en todo el sistema nervioso; participa solo en la memoria
+- C. Es una monoamina que participa en la regulación de la temperatura
+- D. Es un polipéptido que participa en las vías del dolor
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · glicina
+
+La glicina es un aminoácido inhibidor (médula espinal) o excitador (encéfalo). Se libera en el SNC. Participa en los reflejos espinales y otras conductas motoras.
+
+### 234
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿cómo actúa el GABA (ácido gamma-aminobutírico) y con qué está relacionado?
+
+- A. Es un aminoácido inhibidor; participa en la conducta motora y está relacionado con los ritmos circadianos
+- B. Es un aminoácido excitador que provoca muerte neuronal por toxicidad
+- C. Es una monoamina relacionada con la depresión y la manía
+- D. Es un éster que participa en el movimiento voluntario de músculos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · GABA
+
+El GABA (ácido gamma-aminobutírico) es un aminoácido inhibidor. Se libera en el SNC y en la unión neuromuscular de invertebrados. Participa en la conducta motora. Está relacionado con los ritmos circadianos.
+
+> Los tres aminoácidos del cuadro: el **glutamato** es excitador (y tóxico en exceso); la **glicina** es inhibidora en la médula o excitadora en el encéfalo; el **GABA** es inhibidor.
+
+## Sub-lote 29 · El cuadro 32-1: polipéptidos, purinas y gases; y el papel del receptor (p. 773)
+
+### 235
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿cómo se caracterizan las encefalinas y endorfinas y en qué participan?
+
+- A. Son polipéptidos; participan en la transmisión sensorial, en especial del dolor, y en mecanismos de analgesia endógena
+- B. Son aminoácidos excitadores relacionados con la memoria y el aprendizaje
+- C. Son monoaminas relacionadas con la depresión recurrente
+- D. Son un gas neuromodulador de acción retrógrada
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · encefalinas y endorfinas
+
+Las encefalinas y endorfinas son polipéptidos. Participan en la transmisión sensorial, en especial del dolor, y en mecanismos de analgesia endógena.
+
+### 236
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿cómo se caracteriza la sustancia P y en qué participa?
+
+- A. Es un polipéptido de modulación excitadora; participa en algunas vías del dolor
+- B. Es un aminoácido inhibidor que participa en los reflejos espinales
+- C. Es una monoamina que regula la temperatura corporal
+- D. Es una purina que actúa como neuromodulador
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · sustancia P
+
+La sustancia P es un polipéptido de modulación excitadora. Participa en algunas vías del dolor.
+
+### 237
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿cómo se caracterizan los neuropéptidos y en qué participan?
+
+- A. Son polipéptidos; participan en la regulación de comportamientos alimentarios
+- B. Son purinas que actúan como neuromoduladores
+- C. Son aminoácidos excitadores relacionados con el aprendizaje
+- D. Son un gas relacionado con los umbrales del dolor
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · neuropéptidos
+
+Los neuropéptidos son polipéptidos. Participan en la regulación de comportamientos alimentarios.
+
+### 238
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿cómo se caracterizan químicamente la adenosina y el ATP, y qué función cumplen?
+
+- A. Son purinas y funcionan como neuromoduladores
+- B. Son aminoácidos excitadores que intervienen en la memoria
+- C. Son monoaminas relacionadas con el estado de alerta
+- D. Son polipéptidos relacionados con la analgesia endógena
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · adenosina y ATP
+
+La adenosina y el ATP son purinas y funcionan como neuromoduladores.
+
+### 239
+
+De acuerdo con el libro de Biología, según el cuadro 32-1, ¿cómo se caracteriza el óxido nítrico (NO), a partir de qué se sintetiza y qué activa?
+
+- A. Es un gas neuromodulador de acción retrógrada; se sintetiza a partir de la arginina mediante la enzima óxido nítrico sintetasa (NOS) y activa la producción de un segundo mensajero: el cGMP
+- B. Es un aminoácido excitador que se sintetiza a partir del glutamato
+- C. Es una monoamina que se sintetiza a partir de la colina
+- D. Es un polipéptido que se sintetiza en las vesículas sinápticas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · óxido nítrico
+
+El óxido nítrico (NO) es un gas neuromodulador de acción retrógrada. Participa en procesos de aprendizaje y memoria. Se sintetiza a partir de la arginina mediante la enzima óxido nítrico sintetasa (NOS) y activa la producción de un segundo mensajero: el cGMP.
+
+### 240
+
+De acuerdo con el libro de Biología, un mismo transmisor puede interactuar con diferentes tipos de receptores. ¿De qué depende entonces el mensaje sináptico?
+
+- A. No depende de forma exclusiva del neurotransmisor, sino también del tipo de interacción que se establezca entre el transmisor y un tipo determinado de receptor
+- B. Depende exclusivamente del neurotransmisor liberado, sin importar el receptor
+- C. Depende únicamente de la velocidad del axón presináptico
+- D. Depende solo de la cantidad de vaina de mielina de la neurona
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · receptores
+
+Un mismo transmisor puede interactuar con diferentes tipos de receptores; según el receptor con el cual interactúe, producirá respuestas excitadoras o inhibidoras sobre la neurona postsináptica. El mensaje sináptico no depende de forma exclusiva del neurotransmisor, sino también del tipo de interacción que se establezca entre el transmisor y un tipo determinado de receptor.
+
+### 241
+
+De acuerdo con el libro de Biología, casi todas las drogas que actúan en el encéfalo y alteran la atención o el comportamiento, ¿cómo lo hacen?
+
+- A. Porque intensifican o inhiben la actividad de los sistemas transmisores
+- B. Porque destruyen la vaina de mielina de los axones
+- C. Porque bloquean por completo la bomba de Na+/K+-ATPasa
+- D. Porque aumentan la cantidad de nodos de Ranvier
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 773
+**Subtema:** sistema nervioso · drogas y transmisores
+
+Casi todas las drogas que actúan en el encéfalo y alteran la atención o el comportamiento lo hacen porque intensifican o inhiben la actividad de los sistemas transmisores.
+
 ---
 
-**Reactivos en este archivo:** 224
+**Reactivos en este archivo:** 241
