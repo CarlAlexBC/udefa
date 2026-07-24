@@ -18,7 +18,7 @@ _Regenerado el 2026-07-24._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, fisica-perez-montiel) | 3279 | abiertas: EMM · Biología, EMM · Química, fisica-perez-montiel · Física |
+| Examen cultural (EMM, HCM, fisica-perez-montiel) | 3324 | abiertas: EMM · Biología, EMM · Química, fisica-perez-montiel · Física |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -60,7 +60,11 @@ _Regenerado el 2026-07-24._
 | fisica-perez-montiel · Física · Unidad 4 · Cinemática | 15 | Falta el resto de la materia Física en sus propios archivos (la Unidad 3 y el tema 4 de esta Unidad 4 ya están cerrados): Unidad 5 (Dinámica, temas 2 Leyes de la Dinámica, 8 Energía, 13 Cantidad de Movimiento o Momento Lineal y 17 Ley de la Conservación del Momento Angular), Unidad 6 (Materia y sus Propiedades, temas 1 Estructura de la Materia, 2 Estados de Agregación y 3 Propiedades Generales o Extensivas), Unidad 8 (Hidrostática, completa) y Unidad 11 (Termología, temas 1 Diferencia entre Calor y Temperatura, 2 Medida de la Temperatura, 3 Escalas Termométricas, 5 Formas de Propagación del Calor, 7 Unidades para Medir el Calor y 12 Los Gases y sus Leyes), siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 5 · Dinámica | 94 | Falta el resto de la materia Física en sus propios archivos (las Unidades 3, 4 y 5 ya están cerradas): la Unidad 6 (Materia y sus Propiedades, temas 1 Estructura de la Materia p. 244, 2 Estados de Agregación p. 248 y 3 Propiedades Generales o Extensivas p. 249), la Unidad 8 (Hidrostática, completa) y la Unidad 11 (Termología, temas 1, 2, 3, 5, 7 y 12), siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 6 · Materia y sus Propiedades | 49 | Faltan las otras dos unidades de Física en sus propios archivos: la Unidad 8 (Hidrostática, completa) y la Unidad 11 (Termología, temas 1 calor vs temperatura, 2 medida de la temperatura, 3 escalas Celsius/Kelvin/Fahrenheit, 5 formas de propagación del calor, 7 unidades para medir el calor y 12 los gases y sus leyes), siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
-| **Total** | **3279** | |
+| fisica-perez-montiel · Física · Unidad 8 · Hidrostática | 45 | _no declarado_ |
+| **Total** | **3324** | |
+
+> 1 archivo(s) no declaran pendiente en su encabezado, así que este resumen **no puede afirmar que estén cerrados**. Para que aparezcan como
+> terminados, agrégales una línea `**Pendiente:**` que lo diga.
 
 ## Personalidad (remaster)
 
