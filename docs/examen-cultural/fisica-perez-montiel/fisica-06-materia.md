@@ -45,12 +45,11 @@ masa molecular del Na₂SO₄ (p. 247), por ser un problema de cálculo.
 - **Sub-lote 2 · Estados de Agregación (p. 248–249)**
 - **Sub-lote 3 · Propiedades Generales o Extensivas (p. 249–251)**
 
-**Pendiente:** Faltan las otras dos unidades de Física en sus propios archivos: la
-Unidad 8 (Hidrostática, completa) y la Unidad 11 (Termología, temas 1 calor vs
-temperatura, 2 medida de la temperatura, 3 escalas Celsius/Kelvin/Fahrenheit,
-5 formas de propagación del calor, 7 unidades para medir el calor y 12 los gases y
-sus leyes), siempre sólo definiciones y conceptos, saltando ejercicios y problemas
-resueltos.
+**Pendiente:** ninguno. La Unidad 6 está cerrada, y con la Unidad 11 quedó
+cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la
+EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus
+Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y
+conceptos, saltando ejercicios y problemas resueltos.
 
 ## Cómo se escriben estos reactivos
 

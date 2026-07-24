@@ -44,16 +44,11 @@ desplazamiento, velocidad y rapidez" de la p. 71.
 - **Sub-lote 2 · Velocidad y rapidez (p. 70)**
 - **Sub-lote 3 · Definición y unidades de la velocidad (p. 71)**
 
-**Pendiente:** Falta el resto de la materia Física en sus propios archivos (la
-Unidad 3 y el tema 4 de esta Unidad 4 ya están cerrados): Unidad 5 (Dinámica,
-temas 2 Leyes de la Dinámica, 8 Energía, 13 Cantidad de Movimiento o Momento
-Lineal y 17 Ley de la Conservación del Momento Angular), Unidad 6 (Materia y sus
-Propiedades, temas 1 Estructura de la Materia, 2 Estados de Agregación y 3
-Propiedades Generales o Extensivas), Unidad 8 (Hidrostática, completa) y Unidad 11
-(Termología, temas 1 Diferencia entre Calor y Temperatura, 2 Medida de la
-Temperatura, 3 Escalas Termométricas, 5 Formas de Propagación del Calor, 7
-Unidades para Medir el Calor y 12 Los Gases y sus Leyes), siempre sólo
-definiciones y conceptos, saltando ejercicios y problemas resueltos.
+**Pendiente:** ninguno. La Unidad 4 (tema 4, único que pide el temario) está
+cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en
+lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática,
+5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre
+sólo definiciones y conceptos, saltando ejercicios y problemas resueltos.
 
 ## Cómo se escriben estos reactivos
 

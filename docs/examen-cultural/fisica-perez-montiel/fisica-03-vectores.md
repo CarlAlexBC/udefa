@@ -51,15 +51,11 @@ La Unidad 3 (Vectores) queda **COMPLETA** en este archivo: temas 1 a 16
 - **Sub-lote 6 · Producto por escalar, producto escalar y producto vectorial
   (p. 59, 60)** — temas 14, 15 y 16.
 
-**Pendiente:** Falta el resto de la materia Física en sus propios archivos (la
-Unidad 3 ya está cerrada arriba): Unidad 4 (Cinemática, sólo el tema 4 sobre distancia,
-desplazamiento, velocidad y rapidez), Unidad 5 (Dinámica, temas 2 Leyes de la
-Dinámica, 8 Energía, 13 Cantidad de Movimiento o Momento Lineal y 17 Ley de la
-Conservación del Momento Angular), Unidad 6 (Materia y sus Propiedades, temas 1
-Estructura de la Materia, 2 Estados de Agregación y 3 Propiedades Generales o
-Extensivas), Unidad 8 (Hidrostática, completa) y Unidad 11 (Termología, temas 1,
-2, 3, 5, 7 y 12), siempre sólo definiciones/conceptos y saltando ejercicios y
-problemas.
+**Pendiente:** ninguno. La Unidad 3 está cerrada, y con la Unidad 11 quedó
+cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la
+EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus
+Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y
+conceptos, saltando ejercicios y problemas resueltos.
 
 ## Cómo se escriben estos reactivos
 

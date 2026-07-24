@@ -88,9 +88,19 @@ circulación pulmonar y sistémica) y "El corazón humano" (los dos "corazones",
 y los miocitos, el retorno venoso por las venas cavas, las válvulas tricúspide y mitral, el
 circuito pulmonar por la arteria pulmonar y las venas pulmonares, el circuito sistémico por
 la aorta con el sistema coronario y las carótidas, la definición de vena/arteria de la fig.
-36-7, y la contracción simultánea de aurículas y ventrículos).
+36-7, y la contracción simultánea de aurículas y ventrículos). De la **página 848** se
+cubren el sistema de conducción del corazón (el nódulo sinoauricular como marcapasos, el
+nódulo auriculoventricular, el enlentecimiento de la conducción, el haz de His y los
+marcapasos artificiales, fig. 36-8) y el ciclo cardíaco (las válvulas y la circulación
+unidireccional, la sístole y la diástole ventricular con el juego de las válvulas mitral y
+aórtica, y la fiebre reumática con el "soplo cardíaco"). De la **página 849** se cubren el
+flujo sanguíneo y el gasto cardíaco (72 latidos/min, 0,07 L por latido, 5 L/min), los vasos
+sanguíneos (el recorrido arterias → arteriolas → capilares → vénulas → venas, la pared de
+arterias y venas, y los sistemas porta con el ejemplo hepático) y la regulación del latido
+(el bulbo raquídeo y el autónomo, simpático/parasimpático, la adrenalina, la autorregulación
+por elongación y los circuitos en serie, fig. 36-9).
 
-**Pendiente:** el capítulo 36 está EN CURSO; sigue desde la página impresa 848 (hoja 894) en adelante (el ciclo cardíaco, el sistema de conducción del corazón, los vasos sanguíneos y la presión arterial, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, sigue sin empezar el capítulo 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 36 está EN CURSO; sigue desde la página impresa 850 (hoja 896) en adelante (la presión arterial, los capilares y el intercambio con los tejidos, y el sistema linfático, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, sigue sin empezar el capítulo 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -1472,4 +1482,505 @@ Ambas aurículas se contraen al mismo tiempo y lo mismo ocurre con ambos ventrí
 
 ---
 
-**Reactivos en este archivo:** 79
+## Sub-lote 10 · El sistema de conducción del corazón (fig. 36-8, p. 848)
+
+### 80
+
+De acuerdo con el libro de Biología, ¿qué región especializada de la aurícula derecha controla el latido del corazón del mamífero, actuando como marcapasos?
+
+- A. El nódulo sinoauricular
+- B. El nódulo auriculoventricular
+- C. El haz de His
+- D. El bulbo raquídeo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · sistema de conducción
+
+El latido del corazón del mamífero está controlado por una región especializada de la aurícula derecha, el nódulo (o nodo) sinoauricular, formado por células musculares cardíacas modificadas que, al actuar como un marcapasos, imponen el ritmo cardíaco.
+
+---
+
+### 81
+
+De acuerdo con el libro de Biología, ¿cómo están unidas entre sí las células del miocardio auricular que reciben los potenciales de acción del marcapasos?
+
+- A. Por sinapsis eléctricas
+- B. Por válvulas auriculoventriculares
+- C. Por fibras del haz de His
+- D. Por vénulas y arteriolas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · sistema de conducción
+
+Propagando potenciales de acción hacia todas las células del miocardio auricular –unidas entre sí por sinapsis eléctricas– que, en respuesta, se contraen.
+
+---
+
+### 82
+
+De acuerdo con el libro de Biología, ¿qué segundo marcapasos, ubicado en el lado derecho, controla la contracción ventricular?
+
+- A. El nódulo auriculoventricular
+- B. El nódulo sinoauricular
+- C. El haz de His
+- D. La válvula mitral
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · sistema de conducción
+
+Un segundo marcapasos, el nódulo (o nodo) auriculoventricular, también ubicado en el lado derecho, controla la contracción ventricular.
+
+---
+
+### 83
+
+De acuerdo con el libro de Biología, ¿por qué se enlentece la velocidad de conducción de los potenciales de acción en el nódulo auriculoventricular?
+
+- A. Para permitir que las aurículas terminen de contraerse antes de que comience la sístole ventricular
+- B. Para que los ventrículos se contraigan antes que las aurículas
+- C. Para detener por completo el impulso nervioso
+- D. Para aumentar la presión en la aorta
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · sistema de conducción
+
+En la conexión nerviosa con el nódulo auriculoventricular, la velocidad de conducción de los potenciales de acción se enlentece, lo cual permite que las aurículas terminen de contraerse antes de que comience la contracción o sístole ventricular.
+
+---
+
+### 84
+
+De acuerdo con el libro de Biología, ¿cómo se llama la estructura que conduce rápidamente los potenciales de acción hacia todo el miocardio ventricular?
+
+- A. El haz de His
+- B. El nódulo sinoauricular
+- C. La válvula aórtica
+- D. La vena porta
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · sistema de conducción
+
+La propagación de potenciales de acción a las células del miocardio ventricular [...] es muy rápida, especialmente en el llamado haz de His, que conduce a los potenciales de acción hacia todo el miocardio ventricular.
+
+---
+
+### 85
+
+De acuerdo con el libro de Biología, ¿cómo puede remediarse, en muchos casos, la disfunción de los marcapasos cardíacos?
+
+- A. Con la incorporación de marcapasos artificiales que regularizan el ritmo y la sincronización de la contracción cardíaca
+- B. Con la administración del factor VIII
+- C. Con un aumento del retorno venoso
+- D. Con la extirpación del nódulo sinoauricular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · sistema de conducción
+
+La disfunción de los marcapasos cardíacos puede, en muchos casos, remediarse con la incorporación de marcapasos artificiales que regularizan el ritmo y la sincronización de la contracción cardíaca.
+
+---
+
+## Sub-lote 11 · El ciclo cardíaco: sístole y diástole (p. 848)
+
+### 86
+
+De acuerdo con el libro de Biología, ¿qué aseguran las válvulas del corazón de los vertebrados?
+
+- A. La circulación unidireccional de la sangre, abriéndose o cerrándose según la diferencia de presión entre las cámaras
+- B. La contracción simultánea de aurículas y ventrículos
+- C. La oxigenación de la sangre en los pulmones
+- D. La producción de los potenciales de acción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · válvulas cardíacas
+
+El corazón de todos los vertebrados posee válvulas que aseguran la circulación unidireccional de la sangre, ya que se abren o se cierran de acuerdo con la diferencia de presión sanguínea entre las cámaras, y permiten o impiden el paso de sangre.
+
+---
+
+### 87
+
+De acuerdo con el libro de Biología, ¿cómo se denomina la contracción del ventrículo?
+
+- A. Sístole ventricular
+- B. Diástole ventricular
+- C. Retorno venoso
+- D. Perfusión ventricular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · ciclo cardíaco
+
+En el "corazón izquierdo", durante la contracción del ventrículo, o sístole ventricular, la presión dentro del ventrículo izquierdo aumenta.
+
+---
+
+### 88
+
+De acuerdo con el libro de Biología, durante la sístole del ventrículo izquierdo, al aumentar la presión, ¿qué ocurre con las válvulas?
+
+- A. Se cierra la válvula mitral y luego se abre la válvula aórtica
+- B. Se abre la válvula mitral y se cierra la válvula aórtica
+- C. Se cierran ambas válvulas simultáneamente
+- D. Se abre la válvula tricúspide y se cierra la pulmonar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · ciclo cardíaco
+
+La presión dentro del ventrículo izquierdo aumenta, se cierra la correspondiente válvula auriculoventricular (válvula mitral) y luego, al aumentar aún más la presión, se abre la válvula ubicada entre el ventrículo y la arteria aorta (válvula aórtica).
+
+---
+
+### 89
+
+De acuerdo con el libro de Biología, ¿cómo se denomina la relajación del ventrículo?
+
+- A. Diástole ventricular
+- B. Sístole ventricular
+- C. Gasto cardíaco
+- D. Vasoconstricción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · ciclo cardíaco
+
+Durante la relajación, o diástole ventricular, la baja presión que inicialmente desarrolla el ventrículo provoca el cierre de la válvula aórtica.
+
+---
+
+### 90
+
+De acuerdo con el libro de Biología, durante la diástole ventricular, ¿qué provoca la baja presión del ventrículo?
+
+- A. El cierre de la válvula aórtica, evitando el reflujo desde la aorta, y luego la apertura de la mitral con el ingreso de sangre desde la aurícula
+- B. La apertura de la válvula aórtica y la salida de sangre hacia la aorta
+- C. El cierre de la válvula mitral y el aumento de la presión ventricular
+- D. La contracción simultánea de ambos ventrículos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · ciclo cardíaco
+
+La baja presión que inicialmente desarrolla el ventrículo provoca el cierre de la válvula aórtica, evitando así el reflujo de sangre desde la aorta; el descenso posterior de la presión ventricular provoca la apertura de la válvula mitral con el consiguiente ingreso de sangre desde la aurícula.
+
+---
+
+### 91
+
+De acuerdo con el libro de Biología, en la fiebre reumática humana, ¿qué produce el ruido que se caracteriza como "soplo cardíaco"?
+
+- A. La sangre en retroceso a través de la válvula defectuosa
+- B. La contracción demasiado rápida de los ventrículos
+- C. La obstrucción de la arteria aorta
+- D. El exceso de adrenalina en la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · patologías valvulares
+
+El daño de estas válvulas puede acarrear trastornos serios, como ocurre en la fiebre reumática humana, en la cual la sangre en retroceso a través de la válvula defectuosa produce el ruido que se caracteriza como "soplo cardíaco".
+
+---
+
+### 92
+
+De acuerdo con el libro de Biología, al extenderse la excitación nerviosa desde el marcapasos a través de las células musculares de la aurícula, ¿qué ocurre?
+
+- A. Ambas aurículas se contraen casi simultáneamente
+- B. Los ventrículos se contraen antes que las aurículas
+- C. Se cierra la válvula aórtica
+- D. Se detiene el latido cardíaco
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 848
+**Subtema:** circulación · sistema de conducción
+
+La excitación nerviosa –potenciales de acción– se extiende desde el marcapasos a través de las células musculares de la aurícula y hace que ambas aurículas se contraigan casi simultáneamente.
+
+---
+
+## Sub-lote 12 · El gasto cardíaco y los vasos sanguíneos (p. 849)
+
+### 93
+
+De acuerdo con el libro de Biología, ¿cómo se define el flujo sanguíneo?
+
+- A. El volumen de sangre que circula por minuto, el mismo en cualquier tramo del circuito
+- B. La presión que ejercen las arterias sobre la sangre
+- C. El número de latidos del corazón por minuto
+- D. La diferencia de presión entre las cámaras del corazón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · flujo sanguíneo
+
+El flujo sanguíneo (volumen de sangre que circula por minuto) es el mismo en cualquier tramo del circuito que se considere. Este flujo es impuesto por el corazón.
+
+---
+
+### 94
+
+De acuerdo con el libro de Biología, en condiciones de reposo, ¿cuántas veces por minuto late el corazón?
+
+- A. 72 veces por minuto
+- B. 5 veces por minuto
+- C. 720 veces por minuto
+- D. 120 veces por minuto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · gasto cardíaco
+
+En condiciones de reposo, el corazón late 72 veces por minuto y, con cada latido, eyecta unos 0,07 L de sangre a través de la aorta.
+
+---
+
+### 95
+
+De acuerdo con el libro de Biología, en condiciones de reposo, ¿cuál es el gasto cardíaco en promedio?
+
+- A. 5 L por minuto
+- B. 0,07 L por minuto
+- C. 72 L por minuto
+- D. 15 L por minuto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · gasto cardíaco
+
+Con cada latido, eyecta unos 0,07 L de sangre a través de la aorta. Por lo tanto, el gasto cardíaco es, en promedio, de 5 L por minuto.
+
+---
+
+### 96
+
+De acuerdo con el libro de Biología, ¿cuál es el orden de los vasos por los que la sangre abandona el corazón hasta los capilares?
+
+- A. Arterias grandes → arterias ramificadas más pequeñas → arteriolas → capilares sanguíneos
+- B. Capilares → arteriolas → arterias → venas
+- C. Venas → vénulas → capilares → arterias
+- D. Arteriolas → arterias grandes → vénulas → capilares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · vasos sanguíneos
+
+La sangre abandona el corazón a través de las arterias grandes hasta llegar a arterias ramificadas más pequeñas; luego, pasa a arterias aún más delgadas: las arteriolas; por último, a redes de vasos de menor diámetro: los capilares sanguíneos.
+
+---
+
+### 97
+
+De acuerdo con el libro de Biología, desde los capilares, ¿por qué venas pequeñas de mayor diámetro continúa la sangre?
+
+- A. Las vénulas
+- B. Las arteriolas
+- C. Las venas cavas
+- D. Las arterias coronarias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · vasos sanguíneos
+
+Desde los capilares, la sangre continúa por venas pequeñas de mayor diámetro: las vénulas; luego, a través de venas más grandes, hasta retornar al corazón.
+
+---
+
+### 98
+
+De acuerdo con el libro de Biología, ¿cómo difieren las paredes de las arterias y las venas?
+
+- A. Las arterias tienen una pared muscular gruesa y elástica para mantener la presión, y las venas una pared más delgada y distensible
+- B. Las arterias tienen una pared delgada y las venas una gruesa y elástica
+- C. Ambas tienen paredes idénticas de músculo cardíaco
+- D. Las arterias carecen de pared y las venas son musculares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · vasos sanguíneos
+
+Las arterias poseen una pared muscular gruesa y elástica, apta para resistir y mantener la presión sanguínea, mientras que las venas poseen una pared más delgada y distensible.
+
+---
+
+### 99
+
+De acuerdo con el libro de Biología, por su pared más delgada y distensible, ¿qué capacidad elevada tienen las venas?
+
+- A. La de actuar como reservorios de sangre
+- B. La de mantener alta la presión sanguínea
+- C. La de oxigenar la sangre
+- D. La de impulsar la sangre con fuerza
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · vasos sanguíneos
+
+Las venas poseen una pared más delgada y distensible, de modo que estos vasos presentan baja resistencia, aunque elevada capacidad para actuar como reservorios de sangre.
+
+---
+
+### 100
+
+De acuerdo con el libro de Biología, ¿cómo se denominan los sistemas en los que la sangre fluye a lo largo de dos lechos capilares distintos antes de retornar al corazón?
+
+- A. Sistemas porta
+- B. Sistemas coronarios
+- C. Circulación pulmonar
+- D. Sistemas linfáticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · sistemas porta
+
+En la circulación sistémica existen varios sistemas a través de los cuales la sangre fluye a lo largo de dos lechos capilares distintos, conectados entre sí por venas o arterias, antes de ingresar a las venas grandes por las que retornan al corazón. Estos sistemas se denominan sistemas porta.
+
+---
+
+### 101
+
+De acuerdo con el libro de Biología, en el sistema porta hepático, ¿hacia dónde es desviada la sangre venosa que fluye por los capilares del tubo digestivo?
+
+- A. Hacia el hígado, por intermedio de la vena porta hepática
+- B. Hacia los pulmones, por la arteria pulmonar
+- C. Hacia el corazón, por las venas cavas
+- D. Hacia el cerebro, por las arterias carótidas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · sistema porta hepático
+
+Por intermedio del sistema porta hepático, la sangre venosa que fluye por los capilares del tubo digestivo es desviada hacia el hígado por intermedio de la vena porta hepática.
+
+---
+
+## Sub-lote 13 · La regulación del latido cardíaco (fig. 36-9, p. 849)
+
+### 102
+
+De acuerdo con el libro de Biología, ¿qué centros nerviosos ejercen la regulación nerviosa del latido cardíaco?
+
+- A. Centros nerviosos ubicados en el bulbo raquídeo, que utilizan el sistema nervioso autónomo como vía eferente
+- B. Centros ubicados en la corteza cerebral, de control voluntario
+- C. El nódulo sinoauricular por sí solo
+- D. Las arterias carótidas del cuello
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · regulación del latido
+
+La regulación nerviosa del latido cardíaco es ejercida por centros nerviosos ubicados en el bulbo raquídeo que utilizan al sistema nervioso autónomo, tanto simpático como parasimpático, como vía eferente.
+
+---
+
+### 103
+
+De acuerdo con el libro de Biología, ¿cómo actúan las fibras simpáticas y parasimpáticas sobre el nódulo sinoauricular?
+
+- A. Las simpáticas lo estimulan y aumentan la frecuencia cardíaca; las parasimpáticas lo inhiben y la disminuyen
+- B. Las simpáticas lo inhiben y las parasimpáticas lo estimulan
+- C. Ambas aumentan la frecuencia cardíaca
+- D. Ambas disminuyen la frecuencia cardíaca
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · regulación del latido
+
+Las fibras simpáticas estimulan el nódulo sinoauricular y, así, la frecuencia cardíaca aumenta, mientras que las fibras parasimpáticas lo inhiben, disminuyendo la frecuencia cardíaca.
+
+---
+
+### 104
+
+De acuerdo con el libro de Biología, ¿qué es capaz de hacer la adrenalina, secretada a la sangre por estimulación simpática de la médula suprarrenal?
+
+- A. Aumentar tanto la frecuencia de contracción como la fuerza desarrollada por el ventrículo
+- B. Disminuir la frecuencia y la fuerza de contracción del corazón
+- C. Cerrar la válvula aórtica
+- D. Reducir el retorno venoso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · regulación del latido
+
+Por medio de la estimulación simpática de la médula suprarrenal, se secreta adrenalina a la sangre. Esta hormona, cuya concentración en sangre aumenta en casos como el síndrome de estrés, es capaz de aumentar tanto la frecuencia de contracción como la fuerza desarrollada por el ventrículo.
+
+---
+
+### 105
+
+De acuerdo con el libro de Biología, según la capacidad de autorregulación del corazón, ¿cuándo se contrae el músculo cardíaco con mayor intensidad y velocidad?
+
+- A. En la medida en que se encuentre más elongado
+- B. En la medida en que se encuentre más contraído
+- C. Cuando disminuye el retorno venoso
+- D. Cuando baja la concentración de adrenalina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · autorregulación cardíaca
+
+El músculo cardíaco puede contraerse con mayor intensidad y velocidad en la medida en que se encuentre más elongado.
+
+---
+
+### 106
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el volumen de sangre bombeado por el corazón en un minuto?
+
+- A. Gasto cardíaco
+- B. Flujo sanguíneo
+- C. Volumen de eyección
+- D. Retorno venoso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · gasto cardíaco
+
+El volumen de sangre bombeado por el corazón en un minuto se denomina gasto cardíaco.
+
+---
+
+### 107
+
+De acuerdo con el libro de Biología, ¿a qué puede deberse un aumento del gasto cardíaco?
+
+- A. A un aumento de la frecuencia cardíaca, del volumen de eyección o de ambos factores
+- B. Únicamente a una disminución de la frecuencia cardíaca
+- C. Al cierre de la válvula aórtica
+- D. A la disminución del retorno venoso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · gasto cardíaco
+
+Un aumento del gasto cardíaco puede deberse a un aumento de la frecuencia cardíaca, del volumen de eyección o de ambos factores.
+
+---
+
+### 108
+
+De acuerdo con el libro de Biología, dado que los circuitos pulmonar y sistémico están dispuestos en serie, ¿cómo debe ser el gasto cardíaco de uno y otro ventrículo?
+
+- A. Debe ser el mismo, necesariamente
+- B. El del ventrículo izquierdo debe ser el doble
+- C. El del ventrículo derecho debe ser mayor
+- D. Deben ser independientes entre sí
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 849
+**Subtema:** circulación · gasto cardíaco
+
+Debido a que ambos circuitos (pulmonar y sistémico) se encuentran dispuestos en serie, el gasto cardíaco de uno y otro ventrículo debe ser el mismo, necesariamente.
+
+---
+
+**Reactivos en este archivo:** 108

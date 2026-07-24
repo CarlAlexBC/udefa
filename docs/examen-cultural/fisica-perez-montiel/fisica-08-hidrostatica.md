@@ -48,6 +48,12 @@ Se saltaron las tres actividades experimentales de la unidad y toda la sección
 "Resolución de problemas de hidrostática" (pp. 285–286), por ser problemas de
 cálculo.
 
+**Pendiente:** ninguno. La Unidad 8 está cerrada, y con la Unidad 11 quedó
+cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la
+EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus
+Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y
+conceptos, saltando ejercicios y problemas resueltos.
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal: la opción correcta y la justificación son **cita textual** del
