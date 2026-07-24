@@ -13,6 +13,16 @@ Curtis, Barnes, Schnek, Massarini. *Biología*. **Editorial Médica Panamericana
 (221 reactivos), 4 (190), 5 (157), 7 (240), 8 (149), 11 (162), 12 (131) y 31 (84).
 En el temario, tras el 32 vienen el 35, el 36 y el 37.
 
+## CAPÍTULO 32 CERRADO
+
+Cerrado el **23 jul 2026** en **271 reactivos**. Cubre las páginas impresas **756-775**
+completas, desde la evolución de los sistemas nerviosos hasta la integración de la
+información sináptica. El cuerpo del capítulo termina en la p. 775 ("En el próximo
+capítulo veremos cómo se produce el procesamiento de la información"); lo que sigue
+—el ensayo de cierre "Retomando la problemática inicial · La medicalización de los
+estados de ánimo" (pp. 775-776) y los ejercicios de las pp. 776 en adelante— **no lleva
+reactivos por norma**. Verificado en la hoja 822 que ahí ya no queda cuerpo de capítulo.
+
 ## Método
 
 Cuerpo del texto con `docs/examen-cultural/extraer.py --desfase=46` (el libro
@@ -189,9 +199,16 @@ más potentes y adictivos, su acción como neuromoduladores inhibidores de la no
 el hallazgo de los receptores en la médula espinal y el tallo cerebral, las encefalinas de
 cinco aminoácidos derivadas de la proencefalina, las endorfinas y su relación con la ACTH,
 el estrés extremo, la analgesia natural de soldados y atletas, y la adicción por reducción
-de la producción normal de endorfinas).
+de la producción normal de endorfinas). De la **página 775** —última del cuerpo— se cubren
+los potenciales excitatorios postsinápticos (PEPS, por canales a iones positivos Na+ y
+Ca2+, que despolarizan y acercan al umbral) y los inhibitorios (PIPS, por canales a Cl–,
+que hiperpolarizan y alejan del umbral), el viaje del potencial despolarizante hacia el
+cono axónico, la integración sináptica (las neuronas del SNC con 10 000 a 15 000 puntos
+sinápticos; la suma y anulación de PEPS y PIPS que decide si la neurona dispara), el
+efecto de las benzodiazepinas sobre circuitos con predominio de PIPS, y el procesamiento
+de la información en el cuerpo celular de cada neurona.
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 775 (hoja 821) en adelante (los potenciales postsinápticos y la integración de señales, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 quedó CERRADO el 23 jul 2026 en 271 reactivos y cubre completas las páginas impresas 756-775 (el ensayo de cierre "Retomando la problemática inicial" y los ejercicios no llevan reactivos por norma). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37 —el temario salta del 32 al 35, porque los capítulos 33 y 34 no entran—, y mientras no exista el `.md` del capítulo 35 este archivo sostiene el pendiente de la materia.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -4242,6 +4259,160 @@ De acuerdo con el libro de Biología, ¿cómo se propone que se genera la adicci
 
 Se propone que la incorporación de estos opiáceos externos reduce la producción normal de endorfinas, lo cual genera una dependencia siempre creciente de la fuente artificial, que da como resultado una adicción a estas drogas, con consecuencias graves para la salud de quien las consume.
 
+## Sub-lote 32 · Los potenciales postsinápticos y la integración sináptica (p. 775)
+
+### 262
+
+De acuerdo con el libro de Biología, si al unirse un mensajero nervioso a un receptor postsináptico se abren canales iónicos para iones positivos (Na+, Ca2+), ¿qué generan estos al ingresar?
+
+- A. Una despolarización del potencial de membrana en reposo
+- B. Una hiperpolarización del potencial de membrana en reposo
+- C. El cierre definitivo de todos los canales de la membrana
+- D. La destrucción de los receptores postsinápticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 775
+**Subtema:** sistema nervioso · potenciales excitatorios postsinápticos
+
+Si al unirse un mensajero nervioso a un receptor postsináptico, este produce la apertura de canales iónicos para iones positivos (Na+, Ca2+), al ingresar, estos generan una despolarización del potencial de membrana en reposo.
+
+### 263
+
+De acuerdo con el libro de Biología, ¿hacia dónde viaja el potencial despolarizante y qué se encuentra en esa región?
+
+- A. Viaja desde las dendritas y el soma hacia el cono axónico, donde se encuentra la mayor concentración de canales iónicos de Na+ y K+ regulados por voltaje
+- B. Viaja desde el cono axónico hacia las dendritas, donde se concentran los canales de fuga
+- C. Viaja hacia la vaina de mielina, donde se concentran las bombas de Na+/K+-ATPasa
+- D. Viaja hacia la hendidura sináptica, donde se concentran los neurotransmisores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 775
+**Subtema:** sistema nervioso · cono axónico
+
+Este potencial despolarizante viaja desde las dendritas y el soma hacia el cono axónico. En esta región es donde se encuentra la mayor concentración de canales iónicos de Na+ y K+ regulados por voltaje.
+
+### 264
+
+De acuerdo con el libro de Biología, ¿cómo se denominan los potenciales despolarizantes que, si superan el umbral, generan un potencial de acción que viaja por el axón?
+
+- A. Potenciales excitatorios postsinápticos o PEPS
+- B. Potenciales inhibitorios postsinápticos o PIPS
+- C. Potenciales de reposo o PR
+- D. Potenciales umbrales o PU
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 775
+**Subtema:** sistema nervioso · PEPS
+
+En caso de que el potencial despolarizante supere el umbral para la apertura de canales dependientes del voltaje, se generará un potencial de acción que viajará a lo largo del axón. Por esta razón, a estos potenciales despolarizantes se los denomina potenciales excitatorios postsinápticos o PEPS.
+
+### 265
+
+De acuerdo con el libro de Biología, si al unirse el neurotransmisor al receptor postsináptico se abren canales que dejan entrar iones negativos (Cl–), ¿qué se genera y cómo se denomina?
+
+- A. Se generan potenciales hiperpolarizantes que "alejan" el potencial de membrana del potencial umbral y dificultan disparar un potencial de acción; se denominan potenciales inhibitorios postsinápticos o PIPS
+- B. Se generan potenciales despolarizantes que acercan la membrana al umbral; se denominan PEPS
+- C. Se genera un potencial de acción inmediato, sin necesidad de umbral
+- D. Se genera el potencial de reposo, que no cambia con los estímulos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 775
+**Subtema:** sistema nervioso · PIPS
+
+Si al unirse el neurotransmisor al receptor postsináptico se abren canales que dejan entrar iones negativos (Cl–), se generan potenciales hiperpolarizantes (más negativos), que, al llegar al cono axónico, "alejan" el potencial de membrana del potencial umbral y dificultan la posibilidad de disparar un potencial de acción. Por esta razón, a estos potenciales hiperpolarizantes se los denomina potenciales inhibitorios postsinápticos o PIPS.
+
+> Los dos se distinguen por el ion y por el sentido: los **PEPS** abren canales a iones **positivos** (Na+, Ca2+), **despolarizan** y **acercan** al umbral; los **PIPS** abren canales a iones **negativos** (Cl–), **hiperpolarizan** y **alejan** del umbral.
+
+### 266
+
+De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuántos puntos sinápticos poseen en promedio las neuronas del sistema nervioso central?
+
+- A. Entre 10 000 y 15 000 puntos sinápticos cada una
+- B. Entre 10 y 15 puntos sinápticos cada una
+- C. Entre 100 000 y 150 000 puntos sinápticos cada una
+- D. Un solo punto sináptico cada una
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 775
+**Subtema:** sistema nervioso · puntos sinápticos
+
+Las dendritas y el cuerpo celular de una sola neurona pueden recibir señales enviadas por centenares o hasta por miles de sinapsis. En promedio, las neuronas del sistema nervioso central poseen entre 10 000 y 15 000 puntos sinápticos cada una.
+
+### 267
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el proceso complejo que se desarrolla en el cuerpo neuronal porque muchas sinapsis excitadoras e inhibidoras están activadas de forma simultánea?
+
+- A. Integración sináptica
+- B. Conducción saltatoria
+- C. Período refractario
+- D. Flujo axoplásmico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 775
+**Subtema:** sistema nervioso · integración sináptica
+
+Como muchas sinapsis excitadoras e inhibidoras están activadas de forma simultánea, en el cuerpo neuronal se desarrolla un proceso complejo, denominado integración sináptica.
+
+### 268
+
+De acuerdo con el libro de Biología, en la integración sináptica, ¿qué ocurre a cada momento y qué determina su resultado?
+
+- A. Se están sumando y anulando potenciales postsinápticos excitatorios e inhibitorios, cuyo resultado llega al cono axónico y determina si una neurona disparará (excitación) o no (inhibición) un potencial de acción
+- B. Se acumulan solo los potenciales excitatorios, que siempre disparan un potencial de acción
+- C. Se anulan todos los potenciales, de modo que la neurona nunca dispara
+- D. Los potenciales se suman en la hendidura sináptica, sin llegar al cono axónico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 775
+**Subtema:** sistema nervioso · integración sináptica
+
+A cada momento se están sumando y anulando potenciales postsinápticos excitatorios e inhibitorios, cuyo resultado de la integración llega al cono axónico y determina si una neurona disparará (excitación) o no (inhibición) un potencial de acción.
+
+### 269
+
+De acuerdo con el libro de Biología, ¿qué efecto generan las benzodiazepinas, como el diazepam, en ciertos circuitos en los que predominan los PIPS?
+
+- A. Una disminución de la excitación del sistema nervioso central y un estado comportamental de baja respuesta a los estímulos externos (sedación), que puede llegar —según la dosis— al sueño (hipnótico) o la anestesia
+- B. Un aumento de la excitación del sistema nervioso central y un estado de alerta máxima
+- C. La destrucción de los receptores postsinápticos de las neuronas
+- D. Un aumento de la velocidad de conducción del impulso nervioso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 775
+**Subtema:** sistema nervioso · benzodiazepinas
+
+Las benzodiazepinas, como el diazepam, en ciertos circuitos en los que predominan los PIPS generan una disminución de la excitación del sistema nervioso central y un estado comportamental de baja respuesta a los estímulos externos (sedación), pudiendo llegar —según la dosis— al sueño (hipnótico) o la anestesia.
+
+### 270
+
+De acuerdo con el libro de Biología, ¿dónde ocurre el procesamiento de la información y qué papel cumple?
+
+- A. Ocurre dentro del cuerpo celular de cada neurona individual, y cumple un papel central en la integración y en el control ejercido de manera conjunta por los sistemas nervioso y endocrino
+- B. Ocurre únicamente en la hendidura sináptica, y solo controla el sistema endocrino
+- C. Ocurre en la vaina de mielina, y su papel es aislar la fibra nerviosa
+- D. Ocurre en la médula suprarrenal, y su papel es liberar adrenalina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 775
+**Subtema:** sistema nervioso · procesamiento de la información
+
+El procesamiento de la información, que ocurre dentro del cuerpo celular de cada neurona individual, cumple un papel central en la integración y en el control ejercido de manera conjunta por los sistemas nervioso y endocrino.
+
+### 271
+
+De acuerdo con el libro de Biología, además del tipo de neurotransmisores y neuromoduladores que recibe cada célula, ¿qué otros factores afectan al procesamiento de la información?
+
+- A. Su cantidad, el tiempo preciso de su llegada y las localizaciones en la neurona de las varias sinapsis y receptores
+- B. Únicamente la temperatura del líquido intersticial
+- C. Solo el diámetro del axón y la cantidad de mielina
+- D. Ningún otro factor: solo importa el tipo de neurotransmisor
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 775
+**Subtema:** sistema nervioso · procesamiento de la información
+
+Este procesamiento no solo es afectado por el tipo de neurotransmisores y neuromoduladores específicos que recibe cada célula, sino también por su cantidad, el tiempo preciso de su llegada y las localizaciones en la neurona de las varias sinapsis y receptores.
+
 ---
 
-**Reactivos en este archivo:** 261
+**Reactivos en este archivo:** 271
