@@ -86,8 +86,25 @@ compuestos con hidrógeno. Faltan los ácidos y bases (64–65) y los hidratos (
   de ejemplos de esa página, además, **CO aparece traducido como "QUÉ"**. No se
   escribe ningún reactivo sobre esa tabla; las reglas en texto corrido sí están
   limpias y de ahí salen los reactivos 104–107.
+- **Figura 2.15** (nomenclatura de oxoácidos y oxoaniones): la terminación
+  inglesa "-ate" salió traducida como **"comió"**. No se cita.
 
-**Pendiente:** 2.7 (ácidos y bases, e hidratos) y 2.8.
+Cubiertos también los **ácidos y bases (págs. 64–65)** y los **hidratos (pág.
+66)**. **2.7 queda cerrado**, salvo revisar el apartado "Compuestos inorgánicos
+familiares" de la pág. 67, que se verá al entrar a 2.8.
+
+**Pendiente:** 2.8.
+
+## Avisos al aspirante — el libro dice mal
+
+**El HClO₃ está mal nombrado, dos veces.** En la lista de oxoácidos de
+referencia (pág. 64) y en el cuadro 2.6 (pág. 65), el libro escribe
+"HClO3 (ácido **clorhídrico**)". Es falso: el ácido clorhídrico es el **HCl**, y
+el HClO₃ es el **ácido clórico**. El propio libro lo dice bien tres renglones
+más abajo, en la regla de los oxoácidos: *"al agregar un átomo de O al HClO3, el
+ácido **clórico** se convierte en ácido perclórico, HClO4"*. **No se escribe
+ningún reactivo que pida el nombre del HClO₃**; el reactivo 119 se apoya en la
+frase de la regla, que sí es correcta. Se publica como aviso.
 
 ---
 
@@ -1843,4 +1860,361 @@ Los compuestos binarios que contienen carbono e hidrógeno son compuestos orgán
 
 ---
 
-**Reactivos en este archivo:** 112
+## Sub-lote 17 · Ácidos y oxoácidos
+
+### 113
+
+De acuerdo con el libro de Química, ¿cómo se puede describir un ácido?
+
+- A. Como una sustancia que produce iones de hidrógeno cuando se disuelve en agua
+- B. Como una sustancia que produce iones de hidróxido cuando se disuelve en agua
+- C. Como un compuesto que tiene moléculas de agua unidas a él
+- D. Como un compuesto formado a partir de cationes y aniones metálicos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 64
+**Subtema:** nomenclatura · ácidos
+
+Un ácido se puede describir como una sustancia que produce iones de hidrógeno (H+) cuando se disuelve en agua.
+
+### 114
+
+De conformidad con el libro de Química, ¿a qué es equivalente el ion H+?
+
+- A. A un protón, y a menudo se lo denomina así
+- B. A un electrón
+- C. A un neutrón
+- D. A un átomo de hidrógeno completo
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 64
+**Subtema:** nomenclatura · ácidos
+
+(H+ es equivalente a un protón y, a menudo, se lo denomina así).
+
+### 115
+
+En relación con el libro de Química, ¿qué contienen las fórmulas de los ácidos?
+
+- A. Uno o más átomos de hidrógeno, así como un grupo aniónico
+- B. Uno o más átomos de oxígeno unidos a un metal
+- C. Un número específico de moléculas de agua
+- D. Únicamente elementos no metálicos sin hidrógeno
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 64
+**Subtema:** nomenclatura · ácidos
+
+Las fórmulas de los ácidos contienen uno o más átomos de hidrógeno, así como un grupo aniónico.
+
+### 116
+
+De acuerdo con el libro de Química, ¿cómo se llama el HCl en estado gaseoso o líquido puro, y cómo cuando se disuelve en agua?
+
+- A. En estado gaseoso o líquido puro es cloruro de hidrógeno; disuelto en agua se llama ácido clorhídrico
+- B. En estado gaseoso o líquido puro es ácido clorhídrico; disuelto en agua se llama cloruro de hidrógeno
+- C. En ambos casos se llama cloruro de hidrógeno
+- D. En ambos casos se llama ácido clorhídrico
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 64
+**Subtema:** nomenclatura · ácidos
+
+El nombre asignado al compuesto depende de su estado físico. En estado gaseoso o líquido puro, el HCl es un compuesto molecular llamado cloruro de hidrógeno. Cuando se disuelve en agua, las moléculas se descomponen en iones H+ y Cl−; en este estado, la sustancia se llama ácido clorhídrico.
+
+### 117
+
+De conformidad con el libro de Química, ¿qué son los oxoácidos?
+
+- A. Ácidos que contienen hidrógeno, oxígeno y otro elemento, llamado el elemento central
+- B. Ácidos que contienen únicamente hidrógeno y oxígeno
+- C. Compuestos que tienen moléculas de agua unidas a ellos
+- D. Aniones derivados de los ácidos que terminan en "-uro"
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 64
+**Subtema:** nomenclatura · oxoácidos
+
+Los oxoácidos son ácidos que contienen hidrógeno, oxígeno y otro elemento (el elemento central).
+
+### 118
+
+En relación con el libro de Química, ¿en qué orden se escriben generalmente las fórmulas de los oxoácidos?
+
+- A. Con la H primero, seguida del elemento central y luego la O
+- B. Con el elemento central primero, seguido de la H y luego la O
+- C. Con la O primero, seguida de la H y luego el elemento central
+- D. En orden alfabético según el símbolo de cada elemento
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 64
+**Subtema:** nomenclatura · oxoácidos
+
+Las fórmulas de los oxoácidos generalmente se escriben con la H primero, seguida del elemento central y luego la O.
+
+### 119
+
+De acuerdo con el libro de Química, al agregar un átomo de O al HClO3, ¿en qué se convierte el ácido clórico?
+
+- A. En ácido perclórico, HClO4
+- B. En ácido cloroso, HClO2
+- C. En ácido hipocloroso, HClO
+- D. En ácido clorhídrico, HCl
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 64
+**Subtema:** nomenclatura · oxoácidos
+
+Adición de un átomo de O al ácido "-ic": El ácido se llama "per . . ácido .-ic". Por lo tanto, al agregar un átomo de O al HClO3, el ácido clórico se convierte en ácido perclórico, HClO4.
+
+### 120
+
+De conformidad con el libro de Química, al eliminar un átomo de O del ácido nítrico, HNO3, ¿en qué se convierte?
+
+- A. En ácido nitroso, HNO2
+- B. En ácido pernítrico, HNO4
+- C. En ácido hiponitroso, HNO
+- D. En nitrato de hidrógeno, HNO
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 64
+**Subtema:** nomenclatura · oxoácidos
+
+Eliminación de un átomo de O del ácido "-ic": El ácido se llama ácido "-ous". Por lo tanto, el ácido nítrico, HNO3, se convierte en ácido nitroso, HNO2.
+
+### 121
+
+En relación con el libro de Química, cuando el HBrO3 se convierte en HBrO, ¿cómo se denomina el ácido?
+
+- A. Ácido hipobromoso
+- B. Ácido perbrómico
+- C. Ácido bromoso
+- D. Ácido bromhídrico
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 64
+**Subtema:** nomenclatura · oxoácidos
+
+Eliminación de dos átomos de O del ácido "-ic": El ácido se llama "hipo . . ácido .-oso". Así, cuando el HBrO3 se convierte en HBrO, el ácido se denomina ácido hipobromoso.
+
+### 122
+
+De acuerdo con el libro de Química, según el cuadro 2.5, ¿cómo se llama el HF como compuesto molecular y como ácido?
+
+- A. Fluoruro de hidrógeno como compuesto molecular y ácido fluorhídrico como ácido
+- B. Ácido fluorhídrico como compuesto molecular e hidruro de flúor como ácido
+- C. Fluoruro de hidrógeno en ambos casos
+- D. Ácido fluórico como compuesto molecular y fluoruro como ácido
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 64
+**Subtema:** nomenclatura · ácidos
+
+Cuadro 2.5, Algunos ácidos simples. HF (fluoruro de hidrógeno); HF (ácido fluorhídrico); F− (fluoruro).
+
+### 123
+
+De conformidad con el libro de Química, según el cuadro 2.5, ¿cómo se llama el HCN como ácido y cuál es su anión correspondiente?
+
+- A. Ácido cianhídrico, y su anión es el cianuro
+- B. Ácido carbónico, y su anión es el carbonato
+- C. Ácido nítrico, y su anión es el nitrato
+- D. Ácido cianoso, y su anión es el cianito
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 64
+**Subtema:** nomenclatura · ácidos
+
+Cuadro 2.5, Algunos ácidos simples. HCN (cianuro de hidrógeno); HCN (ácido cianhídrico); CN− (cianuro).
+
+---
+
+## Sub-lote 18 · Oxoaniones
+
+### 124
+
+En relación con el libro de Química, ¿qué son los oxoaniones?
+
+- A. Los aniones de los oxoácidos
+- B. Los cationes derivados de los metales de transición
+- C. Los compuestos que contienen moléculas de agua unidas
+- D. Los ácidos que contienen hidrógeno y oxígeno
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 65
+**Subtema:** nomenclatura · oxoaniones
+
+Las reglas para nombrar oxoaniones, aniones de oxoácidos, son las siguientes.
+
+### 125
+
+De acuerdo con el libro de Química, ¿cómo se llama el anión CO3 2− derivado del H2CO3?
+
+- A. Carbonato
+- B. Carbonito
+- C. Bicarbonato
+- D. Carburo
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 65
+**Subtema:** nomenclatura · oxoaniones
+
+Cuando se eliminan todos los iones H del ácido "-ic", el nombre del anión termina con "-ate". Por ejemplo, el anión CO3 2− derivado del H2CO3 se llama carbonato.
+
+### 126
+
+De conformidad con el libro de Química, ¿cómo se denomina el anión ClO2 − derivado del HClO2?
+
+- A. Clorito
+- B. Clorato
+- C. Perclorato
+- D. Hipoclorito
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 65
+**Subtema:** nomenclatura · oxoaniones
+
+Cuando se eliminan todos los iones H del ácido "-oso", el nombre del anión termina con "-ite". Así, el anión ClO2 − derivado del HClO2 se denomina clorito.
+
+### 127
+
+En relación con el libro de Química, entre los aniones derivados del ácido fosfórico, ¿cómo se llaman el H2PO4 − y el HPO4 2−?
+
+- A. Fosfato de dihidrógeno y fosfato de hidrógeno, respectivamente
+- B. Fosfato de hidrógeno y fosfato de dihidrógeno, respectivamente
+- C. Fosfito y fosfato, respectivamente
+- D. Difosfato y monofosfato, respectivamente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 65
+**Subtema:** nomenclatura · oxoaniones
+
+Considere los aniones derivados del ácido fosfórico: H3PO4, ácido fosfórico; H2PO4 −, fosfato de dihidrógeno; HPO4 2−, fosfato de hidrogeno; PO4 3−, fosfato.
+
+### 128
+
+De acuerdo con el libro de Química, ¿qué ocurre con el prefijo "mono-" cuando solo hay un H en el anión?
+
+- A. Generalmente se omite
+- B. Siempre se escribe
+- C. Se sustituye por "hipo-"
+- D. Se sustituye por un número romano
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 65
+**Subtema:** nomenclatura · oxoaniones
+
+Tenga en cuenta que generalmente omitimos el prefijo "mono-" cuando solo hay un H en el anión.
+
+### 129
+
+De conformidad con el libro de Química, según el cuadro 2.6, ¿cómo se llaman los oxoaniones ClO4 − y ClO−?
+
+- A. Perclorato e hipoclorito, respectivamente
+- B. Clorato y clorito, respectivamente
+- C. Hipoclorito y perclorato, respectivamente
+- D. Clorito y clorato, respectivamente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 65
+**Subtema:** nomenclatura · oxoaniones
+
+Cuadro 2.6, Nombres de oxoácidos y oxoaniones que contienen cloro. HClO4 (ácido perclórico), ClO4 − (perclorato); HClO (ácido hipocloroso), ClO− (hipoclorito).
+
+---
+
+## Sub-lote 19 · Bases e hidratos
+
+### 130
+
+En relación con el libro de Química, ¿cómo se puede describir una base?
+
+- A. Como una sustancia que produce iones de hidróxido cuando se disuelve en agua
+- B. Como una sustancia que produce iones de hidrógeno cuando se disuelve en agua
+- C. Como un compuesto que contiene moléculas de agua unidas a él
+- D. Como un ácido que ha perdido todos sus átomos de oxígeno
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 66
+**Subtema:** nomenclatura · bases
+
+Una base se puede describir como una sustancia que produce iones de hidróxido (OH−) cuando se disuelve en agua.
+
+### 131
+
+De acuerdo con el libro de Química, ¿cómo se nombran el NaOH, el KOH y el Ba(OH)2?
+
+- A. Hidróxido de sodio, hidróxido de potasio e hidróxido de bario
+- B. Óxido de sodio, óxido de potasio y óxido de bario
+- C. Hidruro de sodio, hidruro de potasio e hidruro de bario
+- D. Sodio hidratado, potasio hidratado y bario hidratado
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 66
+**Subtema:** nomenclatura · bases
+
+Algunos ejemplos son: NaOH, hidróxido de sodio; KOH, hidróxido de potasio; Ba(OH)2, hidróxido de bario.
+
+### 132
+
+De conformidad con el libro de Química, ¿por qué el amoníaco se clasifica correctamente como una base, si no contiene iones de hidróxido en su estructura?
+
+- A. Porque al disolverse en agua reacciona parcialmente con ella para producir iones OH−
+- B. Porque en estado gaseoso libera iones de hidrógeno
+- C. Porque contiene nitrógeno, que siempre actúa como base
+- D. Porque su fórmula se escribe con el hidrógeno al final
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 66
+**Subtema:** nomenclatura · bases
+
+Siempre que una sustancia produzca iones de hidróxido cuando se disuelva en agua, no es necesario que contenga iones de hidróxido en su estructura para ser considerada una base. De hecho, cuando el amoníaco se disuelve en agua, el NH3 reacciona parcialmente con el agua para producir NH4+ e iones OH−. Por lo tanto, se clasifica correctamente como una base.
+
+### 133
+
+En relación con el libro de Química, ¿qué son los hidratos?
+
+- A. Compuestos que tienen un número específico de moléculas de agua unidas a ellos
+- B. Compuestos que producen iones de hidrógeno al disolverse en agua
+- C. Ácidos que contienen hidrógeno, oxígeno y un elemento central
+- D. Compuestos de los que se han expulsado todas las moléculas de agua
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 66
+**Subtema:** nomenclatura · hidratos
+
+Los hidratos son compuestos que tienen un número específico de moléculas de agua unidas a ellos.
+
+### 134
+
+De acuerdo con el libro de Química, ¿cuál es el nombre sistemático del compuesto cuya fórmula es CuSO4 · 5H2O?
+
+- A. Sulfato de cobre(II) pentahidratado
+- B. Sulfato de cobre(II) anhidro
+- C. Sulfato de cobre(II) tetrahidratado
+- D. Pentasulfato de cobre(II)
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 66
+**Subtema:** nomenclatura · hidratos
+
+En su estado normal, cada unidad de sulfato de cobre (II) tiene cinco moléculas de agua asociadas. El nombre sistemático de este compuesto es sulfato de cobre(II) pentahidratado y su fórmula se escribe como CuSO4 · 5H2O.
+
+### 135
+
+De conformidad con el libro de Química, ¿qué significa que un compuesto sea anhidro?
+
+- A. Que el compuesto ya no tiene moléculas de agua asociadas
+- B. Que el compuesto tiene cinco moléculas de agua asociadas
+- C. Que el compuesto produce iones de hidróxido en agua
+- D. Que el compuesto no puede disolverse en agua
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 66
+**Subtema:** nomenclatura · hidratos
+
+Las moléculas de agua pueden ser expulsadas por calentamiento. Cuando esto ocurre, el compuesto resultante es CuSO4, que a veces se denomina sulfato de cobre (II) anhidro; "anhidro" significa que el compuesto ya no tiene moléculas de agua asociadas.
+
+---
+
+**Reactivos en este archivo:** 135
