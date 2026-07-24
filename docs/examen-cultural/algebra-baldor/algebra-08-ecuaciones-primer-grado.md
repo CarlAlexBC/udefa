@@ -65,10 +65,9 @@ resolución de la p. 127, más el Ejercicio 78 (pp. 127–130), quedan fuera por
 norma de teoría sobre práctica: el reactivo pregunta por la regla, no por el
 resultado.
 
-**Pendiente:** ninguno. El capítulo VIII (pp. 122–130) está cerrado, y es el único
-capítulo que este banco añade por encima del Capítulo VI para dar servicio al
-temario de la EME (`ÁLGE-03-2026`). Con él, Álgebra queda cubierta en todo lo que
-piden los temarios que citan este Baldor 4ª ed. 2019.
+**Pendiente:** ninguno. El capítulo VIII (pp. 122–130) está cerrado. Lo que falta de
+Álgebra —los capítulos X, XVIII, XX, XXIV y (la EMOS) XXV, que piden EMM/EMO/EMOS—
+lo declara el archivo del capítulo en curso, hoy `algebra-10-descomposicion-factorial.md`.
 
 ## Criterio: teoría sobre práctica
 
