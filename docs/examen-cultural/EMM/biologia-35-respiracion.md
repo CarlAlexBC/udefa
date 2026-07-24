@@ -23,7 +23,7 @@ traen de aquí: no se duplican.
 > **libro** (como ya se hizo con `fisica-perez-montiel/`), no por la escuela.
 
 **Capítulos de este libro ya cerrados:** 3 (221 reactivos), 4 (190), 5 (157), 7 (240),
-8 (149), 11 (162), 12 (131), 31 (84) y 32 (271). Tras el 35 siguen el 36 y el 37.
+8 (149), 11 (162), 12 (131), 31 (84), 32 (271) y 35 (166). Siguen el 36 y el 37.
 
 ## Método
 
@@ -131,15 +131,35 @@ del músculo esquelético como reservorio que libera O2 bajo 20 mm Hg), y el int
 gases con los tejidos (la combinación y disociación de la hemoglobina según la PpO2, el
 transporte de CO2 disuelto en plasma y como ácido carbónico catalizado por la anhidrasa
 carbónica, y la fig. 35-9 con la saturación a 100 mm Hg y la liberación del 30 % a 40 mm
-Hg).
+Hg). De la **página 837** se cubren el cierre del transporte de CO2 (en los pulmones el
+ácido carbónico se disocia en CO2 y agua para eliminarse con el aire espirado) y toda la
+fig. 35-10 (el CO2 disuelto en plasma, unido a grupos amino de la hemoglobina o —la mayor
+parte— como ion bicarbonato producido en dos pasos por la anhidrasa carbónica de los
+glóbulos rojos, y la reacción reversible según la PpCO2), más "El control nervioso de la
+ventilación" (el sistema nervioso que ajusta frecuencia y amplitud, el centro respiratorio
+bulbar de la fig. 35-11 con sus grupos dorsal y ventral, la respiración rítmica y
+automática de control voluntario limitado, y los quimiorreceptores periféricos —aorta y
+carótidas, alarmas tempranas de 7 s— y centrales, con la modulación por corteza,
+hipotálamo y sistema límbico). De la **página 838** se cubren la sensibilidad de los
+quimiorreceptores periféricos a la caída de la PpO2 por debajo de 60 mm Hg, la
+hiperventilación como respuesta, el mareo por alcalinidad al hiperventilar, el control
+involuntario que retoma al elevarse la PpCO2, y la respuesta a los iones H+ (hasta antes
+del ensayo de cierre "Retomando la problemática inicial", que por norma no lleva
+reactivos). **Con esto el capítulo 35 queda cubierto por completo.**
 
 **Errata del libro (p. 836).** El libro imprime el ion bicarbonato como **"HCO3+"** (con
 signo más), pero el bicarbonato es un **anión** y su fórmula correcta es **HCO3⁻**. No es
-suciedad del escaneo: está así impreso (verificado con render a 500 dpi). Por eso los
-reactivos de esa reacción **no fijan la carga del ion**: citan "los iones bicarbonato e
-hidrógeno" sin el superíndice, para no propagar el error.
+suciedad del escaneo: está así impreso (verificado con render a 500 dpi). Curiosamente, en
+la **fig. 35-10 (p. 837)** el mismo libro lo escribe **bien**, como "(HCO3–)"; la errata es
+puntual del cuerpo de la p. 836. Por eso los reactivos de esa reacción **no fijan la carga
+del ion**: citan "los iones bicarbonato e hidrógeno" sin el superíndice, para no propagar
+el error.
 
-**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 837 (hoja 883) en adelante (el resto del transporte de CO2 y la fig. 35-10, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 35 quedó **cubierto por completo** (páginas 828 a 838, hasta
+antes del ensayo de cierre "Retomando la problemática inicial" y de los ejercicios, que por
+norma no llevan reactivos). De la materia de Biología siguen **sin empezar los capítulos 36
+y 37**; este archivo sostiene ese pendiente de la materia hasta que exista el `.md` del
+capítulo 36.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -2455,4 +2475,369 @@ Esto ocurre cuando la sangre rica en O2 alcanza a los capilares, donde la presi�
 
 ---
 
-**Reactivos en este archivo:** 145
+## Sub-lote 20 · El final del transporte de CO2 (fig. 35-10, p. 837)
+
+### 146
+
+De acuerdo con el libro de Biología, en los pulmones, ¿qué les ocurre al ácido carbónico y al CO2?
+
+- A. El ácido carbónico se disocia y forma CO2 y agua, mientras que el CO2 unido a la hemoglobina se desprende
+- B. El ácido carbónico se forma a partir de CO2 y agua, mientras que el CO2 se une a la hemoglobina
+- C. El bicarbonato se combina con iones hidrógeno y se transforma en glóbulos rojos
+- D. El O2 se disocia de la hemoglobina y forma ácido carbónico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · transporte de CO2
+
+El ácido carbónico se disocia y forma CO2 y agua, mientras que el CO2 unido a la hemoglobina se desprende. Así, el CO2 se difunde desde el plasma a los alvéolos y es eliminado con el aire espirado.
+
+---
+
+### 147
+
+De acuerdo con el libro de Biología, ¿en qué forma se encuentra la mayor parte del CO2 en la sangre?
+
+- A. Como ion bicarbonato, que se produce en una reacción de dos pasos
+- B. Disuelto simplemente en el plasma sanguíneo
+- C. Unido en su totalidad a grupos amino de la hemoglobina
+- D. Como ácido carbónico sin disociar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · transporte de CO2
+
+La mayor parte del CO2 se encuentra como ion bicarbonato (HCO3–), que se produce en una reacción de dos pasos.
+
+---
+
+### 148
+
+De acuerdo con el libro de Biología, ¿dónde se encuentra la enzima anhidrasa carbónica, que cataliza la formación de ácido carbónico?
+
+- A. En los glóbulos rojos
+- B. En el plasma sanguíneo
+- C. En los alvéolos pulmonares
+- D. En el músculo esquelético
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · transporte de CO2
+
+El CO2 proveniente del metabolismo de los tejidos se combina con el agua y forma ácido carbónico (H2CO3), una reacción catalizada por la enzima anhidrasa carbónica, que se encuentra en los glóbulos rojos.
+
+---
+
+### 149
+
+De acuerdo con el libro de Biología, en los tejidos, donde la PpCO2 es mayor, ¿qué ocurre?
+
+- A. Se forman iones bicarbonato
+- B. El ácido carbónico se disocia y forma CO2 y agua
+- C. El CO2 se difunde directamente hacia los alvéolos
+- D. La hemoglobina se satura por completo de O2
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · transporte de CO2
+
+En los tejidos, en donde la PpCO2 es mayor, se forman iones bicarbonato. En los pulmones, donde la PpCO2 es menor, el ácido carbónico se disocia, y forma CO2 y agua.
+
+---
+
+### 150
+
+De acuerdo con el libro de Biología, además de disuelto en el plasma, ¿a qué se une parte del CO2 para circular en la sangre?
+
+- A. A grupos amino de las moléculas de hemoglobina
+- B. Al átomo de hierro de la hemoglobina
+- C. A la enzima anhidrasa carbónica
+- D. A la mioglobina del músculo esquelético
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · transporte de CO2
+
+El CO2 es más soluble que el O2 en la sangre y circula, en parte, disuelto en el plasma y, en parte, unido a grupos amino de las moléculas de hemoglobina.
+
+---
+
+## Sub-lote 21 · El control nervioso de la ventilación (fig. 35-11, p. 837)
+
+### 151
+
+De acuerdo con el libro de Biología, al regular la ventilación, ¿qué ajusta el sistema nervioso?
+
+- A. La frecuencia y la amplitud de la inspiración y la espiración, de acuerdo con las demandas del organismo
+- B. El diámetro de los alvéolos y el grosor de la membrana respiratoria
+- C. La cantidad de hemoglobina de los glóbulos rojos
+- D. La solubilidad del O2 en el plasma sanguíneo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · control nervioso de la ventilación
+
+La ventilación es regulada por el sistema nervioso, que ajusta la frecuencia y la amplitud de la inspiración y la espiración de acuerdo con las demandas del organismo, de manera tal que las presiones de O2 y de CO2 en la sangre arterial casi no se alteran.
+
+---
+
+### 152
+
+De acuerdo con el libro de Biología, ¿qué es y dónde se encuentra el centro respiratorio bulbar?
+
+- A. Un grupo disperso de neuronas que se encuentran en el bulbo raquídeo y en la protuberancia del tallo cerebral o tronco encefálico
+- B. Un grupo de neuronas ubicado únicamente en la corteza cerebral
+- C. Un conjunto de receptores ubicado en la aorta y las carótidas
+- D. Un grupo de células ubicado en el diafragma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · control nervioso de la ventilación
+
+Este ajuste se realiza a través del centro respiratorio bulbar, un grupo disperso de neuronas que se encuentran en el bulbo raquídeo y en la protuberancia del tallo cerebral o tronco encefálico.
+
+---
+
+### 153
+
+De acuerdo con el libro de Biología, ¿cómo es la respiración normal que controla el centro respiratorio?
+
+- A. Rítmica y automática, como también lo es el latido cardíaco
+- B. Voluntaria y consciente, a diferencia del latido cardíaco
+- C. Irregular y dependiente por completo de la corteza cerebral
+- D. Continua y sin pausas, al margen del control nervioso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · control nervioso de la ventilación
+
+El centro respiratorio controla la respiración normal, que es rítmica y automática, como también lo es el latido cardíaco.
+
+---
+
+### 154
+
+De acuerdo con el libro de Biología, ¿qué registran permanentemente los quimiorreceptores?
+
+- A. Los niveles de O2 y CO2 en la sangre
+- B. La temperatura de la sangre arterial
+- C. El volumen de aire de los alvéolos
+- D. La presión del líquido intrapleural
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · quimiorreceptores
+
+Los niveles de O2 y CO2 en la sangre son registrados permanentemente por un tipo de receptores sensoriales especializados en la detección de señales químicas.
+
+---
+
+### 155
+
+De acuerdo con el libro de Biología, ¿dónde están ubicados los quimiorreceptores periféricos?
+
+- A. En arterias importantes, como la aorta y las carótidas
+- B. En el mismo bulbo raquídeo
+- C. En el parénquima pulmonar
+- D. En la corteza cerebral
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · quimiorreceptores
+
+Estos quimiorreceptores pueden ser periféricos, es decir, están ubicados en arterias importantes –como la aorta y las carótidas–, o bien centrales, ubicados en el mismo bulbo raquídeo.
+
+---
+
+### 156
+
+De acuerdo con el libro de Biología, ¿por qué los receptores periféricos actúan como alarmas tempranas?
+
+- A. Porque tienen un tiempo de respuesta mucho menor que los receptores centrales (alrededor de 7 s, en comparación con 7-10 min)
+- B. Porque tienen un tiempo de respuesta mucho mayor que los receptores centrales (7-10 min, en comparación con 7 s)
+- C. Porque están ubicados en el mismo bulbo raquídeo
+- D. Porque tienen una mayor influencia moduladora sobre el centro respiratorio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · quimiorreceptores
+
+Los receptores periféricos actúan como alarmas tempranas, ya que tienen un tiempo de respuesta a los cambios en las presiones parciales de O2 y CO2 mucho menor que los receptores centrales (alrededor de 7 s, en comparación con 7-10 min).
+
+---
+
+### 157
+
+De acuerdo con el libro de Biología, ¿en qué dos grupos se organizan las neuronas del centro respiratorio bulbar?
+
+- A. El grupo respiratorio dorsal y el grupo respiratorio ventral
+- B. El grupo respiratorio central y el grupo respiratorio periférico
+- C. El grupo simpático y el grupo parasimpático
+- D. El grupo torácico y el grupo abdominal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · centro respiratorio bulbar
+
+El centro respiratorio bulbar está formado por un conjunto de neuronas organizadas en dos grupos: el grupo respiratorio dorsal y el grupo respiratorio ventral.
+
+---
+
+### 158
+
+De acuerdo con el libro de Biología, ¿qué determina el grupo respiratorio dorsal?
+
+- A. El patrón cíclico de la inspiración y la espiración
+- B. El volumen de aire movilizado
+- C. La cantidad de hemoglobina en la sangre
+- D. El diámetro de los bronquíolos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · centro respiratorio bulbar
+
+El grupo respiratorio dorsal determina el patrón cíclico de la inspiración y la espiración; el grupo respiratorio ventral controla el volumen de aire movilizado.
+
+---
+
+### 159
+
+De acuerdo con el libro de Biología, ¿qué controla el grupo respiratorio ventral?
+
+- A. El volumen de aire movilizado
+- B. El patrón cíclico de la inspiración y la espiración
+- C. La frecuencia del latido cardíaco
+- D. La producción de sonidos y la deglución
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · centro respiratorio bulbar
+
+El grupo respiratorio dorsal determina el patrón cíclico de la inspiración y la espiración; el grupo respiratorio ventral controla el volumen de aire movilizado.
+
+> Este reactivo forma par con el 158 (dorsal: el patrón cíclico / ventral: el volumen de aire).
+
+---
+
+### 160
+
+De acuerdo con el libro de Biología, ¿qué estructura permite que controlemos la ventilación en forma voluntaria?
+
+- A. La corteza cerebral
+- B. El bulbo raquídeo
+- C. El hipotálamo y el sistema límbico
+- D. La protuberancia y el mesencéfalo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · control nervioso de la ventilación
+
+El centro respiratorio también está bajo la influencia de la corteza cerebral, que permite que controlemos en forma voluntaria la ventilación.
+
+---
+
+### 161
+
+De acuerdo con el libro de Biología, ¿qué tipo de respuestas generan estructuras autonómicas como el hipotálamo y el sistema límbico?
+
+- A. Respuestas de tipo predictivo; por ejemplo, incrementan la ventilación antes de un esfuerzo físico
+- B. Respuestas voluntarias que permiten controlar la ventilación a discreción
+- C. El patrón cíclico de la inspiración y la espiración
+- D. La detección directa de los niveles de O2 y CO2 en la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 837
+**Subtema:** respiración · control nervioso de la ventilación
+
+Otras estructuras autonómicas, como el hipotálamo y el sistema límbico, generan respuestas de tipo predictivo, por ejemplo, incrementan la ventilación antes de un esfuerzo físico.
+
+---
+
+## Sub-lote 22 · Los quimiorreceptores y la hiperventilación (p. 838)
+
+### 162
+
+De acuerdo con el libro de Biología, ¿a qué son más sensibles los quimiorreceptores periféricos?
+
+- A. A una caída de la PpO2 arterial por debajo de los 60 mm Hg
+- B. A un aumento de la PpO2 arterial por encima de los 100 mm Hg
+- C. A una caída de la temperatura de la sangre arterial
+- D. A un descenso de la concentración de iones hidrógeno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 838
+**Subtema:** respiración · quimiorreceptores
+
+Los quimiorreceptores periféricos son más sensibles a una caída de la PpO2 arterial por debajo de los 60 mm Hg.
+
+---
+
+### 163
+
+De acuerdo con el libro de Biología, ¿cuál es, en ambos casos, la respuesta de los quimiorreceptores?
+
+- A. La hiperventilación (respiración profunda y rápida)
+- B. La apnea (suspensión de la respiración)
+- C. La broncoconstricción de las vías aéreas
+- D. La disminución del latido cardíaco
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 838
+**Subtema:** respiración · hiperventilación
+
+En ambos casos, la respuesta es la hiperventilación (respiración profunda y rápida).
+
+---
+
+### 164
+
+De acuerdo con el libro de Biología, ¿qué le ocurre a una persona que hiperventila deliberadamente?
+
+- A. Se sentirá débil y mareada por el incremento de la alcalinidad de la sangre
+- B. Se sentirá fuerte y despierta por el incremento de O2 en la sangre
+- C. Sufrirá un aumento de la acidez de la sangre
+- D. Perderá la conciencia por exceso de CO2 en los alvéolos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 838
+**Subtema:** respiración · hiperventilación
+
+Si una persona hiperventila deliberadamente, se sentirá débil y mareada por el incremento de la alcalinidad de la sangre.
+
+---
+
+### 165
+
+De acuerdo con el libro de Biología, si se pierde la conciencia mientras se contiene la respiración y se eleva la PpCO2, ¿qué sucede?
+
+- A. Los controles involuntarios se hacen cargo una vez más y se reanuda la respiración
+- B. La respiración permanece detenida hasta recuperar la conciencia
+- C. La corteza cerebral mantiene el control voluntario de la respiración
+- D. Los quimiorreceptores dejan de responder a los cambios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 838
+**Subtema:** respiración · control involuntario
+
+Tan pronto como se pierde la conciencia y se eleva la PpCO2, los controles involuntarios se hacen cargo una vez más y se reanuda la respiración.
+
+---
+
+### 166
+
+De acuerdo con el libro de Biología, si la PpCO2 y la concentración de iones H+ se incrementan solo ligeramente, ¿qué ocurre?
+
+- A. De inmediato, la respiración se hace más profunda y más rápida, lo cual permite que más CO2 deje la sangre
+- B. La respiración se hace más lenta y superficial, reteniendo CO2 en la sangre
+- C. Los quimiorreceptores dejan de enviar señales al centro respiratorio
+- D. La hemoglobina libera todo su O2 en los pulmones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 838
+**Subtema:** respiración · control de la ventilación
+
+Si la PpCO2 y, por lo tanto, la concentración de iones H+ se incrementan solo ligeramente, de inmediato, la respiración se hace más profunda y más rápida, lo cual permite que más CO2 deje la sangre hasta que la concentración de iones H+ haya retornado a la normalidad.
+
+---
+
+**Reactivos en este archivo:** 166
