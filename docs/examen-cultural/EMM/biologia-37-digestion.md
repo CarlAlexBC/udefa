@@ -84,7 +84,17 @@ sabores tóxicos, fig. 37-5). De la **página 861** se cubren la deglución (los
 digestivo y respiratorio separados, la faringe común y la epiglotis que bloquea la tráquea,
 fig. 37-6) y el cuadro 37-1 de las principales enzimas digestivas (amilasa salival, pepsina,
 amilasa pancreática, lipasa, tripsina, desoxirribonucleasa, enteroquinasa, maltasa y lactasa,
-con su fuente, pH, sustrato y producto).
+con su fuente, pH, sustrato y producto). De la **página 862** se cubren el estómago (el
+esófago que atraviesa el diafragma, el cardias, la capacidad de 2-4 L, las criptas gástricas
+y el jugo gástrico —HCl y pepsinógeno—, las funciones del HCl y la pepsina, el pH 1,5-2,5, el
+moco protector rico en bicarbonato, el ardor al vomitar, las úlceras por *Helicobacter
+pylori*, la escasa absorción estomacal, el control autónomo simpático/parasimpático, la
+gastrina y la cafeína, el píloro y el vaciado en 4 h, fig. 37-7). De la **página 863** se
+cubre el intestino delgado (dónde se completa e inicia cada digestión, los pliegues,
+vellosidades y microvellosidades, los 6 m y 300 m², la división duodeno / yeyuno e íleon, las
+disacaridasas, la neutralización por páncreas e hígado, la absorción de monosacáridos y
+aminoácidos, los quilomicrones al sistema linfático, y las dos porciones del páncreas, fig.
+37-8).
 
 **Erratas del libro (cuadro 37-1, p. 861).** Verificadas con render a 500 dpi (no son
 suciedad del escaneo, están así impresas): (1) la **quimotripsina** aparece con sustrato
@@ -94,7 +104,7 @@ y galactosa" — es falso, la sacarosa se hidroliza en glucosa y **fructosa**; l
 proviene de la lactosa. **No se escriben reactivos sobre esas dos filas**, por la misma
 regla aplicada a los datos falsos de Historia.
 
-**Pendiente:** el capítulo 37 está EN CURSO; sigue desde la página impresa 862 (hoja 908) en adelante (el estómago y los jugos gástricos, el intestino delgado, el páncreas y el hígado, el intestino grueso y el resto del sistema digestivo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre.
+**Pendiente:** el capítulo 37 está EN CURSO; sigue desde la página impresa 864 (hoja 910) en adelante (el páncreas exocrino y endocrino, el hígado y la bilis, el intestino grueso, la absorción de agua y la microbiota, y el resto del sistema digestivo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -1152,4 +1162,505 @@ Lactasa: con frecuencia ausente en los adultos, en especial en los de origen afr
 
 ---
 
-**Reactivos en este archivo:** 60
+## Sub-lote 11 · El estómago: el cardias, el jugo gástrico y las criptas gástricas (fig. 37-7, p. 862)
+
+### 61
+
+De acuerdo con el libro de Biología, ¿qué atraviesa el esófago antes de abrirse en el estómago?
+
+- A. El diafragma muscular que separa las cavidades torácica y abdominal
+- B. El peritoneo que tapiza la cavidad abdominal
+- C. El píloro que lo separa del intestino delgado
+- D. La faringe común con el sistema respiratorio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · esófago
+
+El esófago atraviesa el diafragma muscular que separa las cavidades torácica y abdominal y se abre en el estómago.
+
+---
+
+### 62
+
+De acuerdo con el libro de Biología, ¿cómo se llama el segundo esfínter del tubo digestivo, situado entre el esófago y el estómago?
+
+- A. El esfínter esofágico inferior (o cardias)
+- B. El píloro
+- C. El esfínter esofágico superior
+- D. La epiglotis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · estómago
+
+Luego de atravesar el segundo esfínter del tubo digestivo –el esfínter esofágico inferior (o cardias), situado entre el esófago y el estómago–, llega al estómago.
+
+---
+
+### 63
+
+De acuerdo con el libro de Biología, ¿cuánto alimento puede contener el estómago humano distendido?
+
+- A. Entre 2 y 4 litros
+- B. Entre 1 y 1,5 litros
+- C. Entre 6 y 8 litros
+- D. Alrededor de 300 mililitros
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · estómago
+
+El estómago humano distendido puede contener entre 2 y 4 litros de alimento.
+
+---
+
+### 64
+
+De acuerdo con el libro de Biología, ¿cómo se llaman los pequeños sacos que forman los repliegues de la mucosa estomacal?
+
+- A. Criptas gástricas
+- B. Vellosidades intestinales
+- C. Quilomicrones
+- D. Glándulas salivales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · mucosa estomacal
+
+La mucosa estomacal es una capa relativamente gruesa, cuyos repliegues forman pequeños sacos, o criptas gástricas, tapizados en su parte superior por células secretoras de moco.
+
+---
+
+### 65
+
+De acuerdo con el libro de Biología, en la parte inferior de las criptas gástricas, ¿qué liberan las células glandulares?
+
+- A. Protones (H+) e iones cloruro (Cl–), que forman ácido clorhídrico (HCl), y pepsinógeno
+- B. Solo agua y moco
+- C. Amilasa salival y bicarbonato
+- D. Bilis y enzimas pancreáticas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · jugo gástrico
+
+En la parte inferior de las criptas se ubican células glandulares que liberan protones (H+) e iones cloruro (Cl–), que forman ácido clorhídrico (HCl), y pepsinógeno, una molécula precursora de la enzima pepsina.
+
+---
+
+### 66
+
+De acuerdo con el libro de Biología, ¿qué constituye el jugo gástrico?
+
+- A. El ácido clorhídrico y el pepsinógeno, junto con el agua en la cual se disuelven
+- B. La bilis y las enzimas pancreáticas
+- C. El moco rico en bicarbonato y la saliva
+- D. Los quilomicrones y los ácidos grasos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · jugo gástrico
+
+Estas secreciones, junto con el agua en la cual se disuelven, constituyen el jugo gástrico.
+
+---
+
+## Sub-lote 12 · El HCl, la pepsina y la protección de la mucosa (p. 862)
+
+### 67
+
+De acuerdo con el libro de Biología, además de destruir microorganismos, desnaturalizar proteínas y disgregar fibras, ¿cuál es la función adicional fundamental del HCl?
+
+- A. Inicia la conversión del precursor pepsinógeno en la enzima activa pepsina
+- B. Neutraliza la acidez del jugo gástrico
+- C. Absorbe los nutrientes hacia la sangre
+- D. Empaqueta las grasas en quilomicrones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · ácido clorhídrico
+
+El HCl destruye a la mayoría de los microorganismos presentes en el alimento, desnaturaliza algunas proteínas y disgrega los componentes fibrosos, aunque tiene una función adicional fundamental: inicia la conversión del precursor pepsinógeno en la enzima activa pepsina.
+
+---
+
+### 68
+
+De acuerdo con el libro de Biología, ¿qué cataliza la pepsina?
+
+- A. La hidrólisis de las proteínas en péptidos más pequeños
+- B. La hidrólisis de los almidones en maltosa
+- C. La hidrólisis de las grasas en ácidos grasos
+- D. La síntesis de proteínas a partir de aminoácidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · pepsina
+
+La pepsina cataliza la hidrólisis de las proteínas en péptidos más pequeños y actúa sobre otras moléculas de pepsinógeno y así forma, aún, más pepsina.
+
+---
+
+### 69
+
+De acuerdo con el libro de Biología, ¿entre qué valores varía normalmente el pH del jugo gástrico?
+
+- A. Entre 1,5 y 2,5
+- B. Entre 6,9 y 7,1
+- C. Entre 7 y 8
+- D. Entre 4 y 5
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · jugo gástrico
+
+El HCl acidifica el jugo gástrico, cuyos niveles de pH varían de modo normal entre 1,5 y 2,5, una acidez muy superior a la de cualquier otro líquido corporal.
+
+---
+
+### 70
+
+De acuerdo con el libro de Biología, ¿cómo está protegido el epitelio estomacal de la autodigestión?
+
+- A. Mediante el moco secretado por las células superficiales de las criptas, rico en bicarbonato, que neutraliza la acidez
+- B. Mediante una capa de músculo liso que aísla el ácido
+- C. Mediante la pepsina, que digiere el HCl
+- D. Mediante la gastrina, que inhibe la secreción de ácido
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · protección de la mucosa
+
+El epitelio estomacal está protegido de la autodigestión mediante el moco secretado por las células superficiales de las criptas. Este moco (o mucus) es rico en bicarbonato, que neutraliza la acidez.
+
+---
+
+### 71
+
+De acuerdo con el libro de Biología, ¿qué causa la sensación de ardor que se siente al vomitar?
+
+- A. La acidez del jugo gástrico que actúa sobre la mucosa del esófago y la faringe, que no poseen protección
+- B. La contracción del esfínter pilórico
+- C. La liberación de gastrina en la sangre
+- D. La acción de la amilasa salival
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · jugo gástrico
+
+La sensación de ardor que se siente al vomitar es causada por la acidez del jugo gástrico que actúa sobre la mucosa del esófago y la faringe, que no poseen protección.
+
+---
+
+## Sub-lote 13 · Las úlceras, la absorción y el control del estómago (fig. 37-7, p. 862)
+
+### 72
+
+De acuerdo con el libro de Biología, ¿cuál se comprobó que es la causa de muchas úlceras?
+
+- A. Una bacteria llamada Helicobacter pylori, que infecta las células secretoras de moco
+- B. Una hipersecreción de gastrina
+- C. La falta de pepsina en el estómago
+- D. Un exceso de bicarbonato en el moco
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · úlceras
+
+Más tarde se comprobó que la causa de muchas úlceras es una bacteria llamada Helicobacter pylori, que infecta las células secretoras de moco y provoca una disminución del moco protector.
+
+---
+
+### 73
+
+De acuerdo con el libro de Biología, ¿cómo se tratan las úlceras causadas por Helicobacter pylori?
+
+- A. Como cualquier infección bacteriana, con antibióticos específicos
+- B. Con una dieta rica en bicarbonato
+- C. Con suplementos de pepsina
+- D. Con la extirpación del píloro
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · úlceras
+
+Las úlceras causadas por H. pylori se tratan como cualquier infección bacteriana, con antibióticos específicos.
+
+---
+
+### 74
+
+De acuerdo con el libro de Biología, ¿qué elementos se absorben en el estómago y pasan al torrente sanguíneo?
+
+- A. Cierta cantidad de agua, iones, ciertos ácidos grasos, medicamentos como la aspirina y el alcohol
+- B. La mayor parte de los aminoácidos y monosacáridos
+- C. Las grasas empaquetadas en quilomicrones
+- D. Ninguna sustancia; el estómago no absorbe nada
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · absorción estomacal
+
+En el estómago se absorben algunos elementos, como cierta cantidad de agua, iones, ciertos ácidos grasos, medicamentos (como la aspirina) y el alcohol, que pueden atravesar sus paredes y pasar al torrente sanguíneo.
+
+---
+
+### 75
+
+De acuerdo con el libro de Biología, ¿cómo actúan las ramas simpática y parasimpática del sistema nervioso autónomo sobre la digestión en el estómago?
+
+- A. La rama simpática inhibe la digestión y la rama parasimpática la estimula
+- B. La rama simpática estimula la digestión y la parasimpática la inhibe
+- C. Ambas ramas inhiben la digestión
+- D. Ambas ramas estimulan la digestión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · control nervioso del estómago
+
+El estómago se encuentra bajo el control del sistema nervioso autónomo, tanto de la rama simpática –que inhibe la digestión– como de la rama parasimpática –que la estimula–.
+
+---
+
+### 76
+
+De acuerdo con el libro de Biología, ¿qué efecto tiene la hormona gastrina, secretada por células endocrinas de la mucosa gástrica?
+
+- A. Incrementa la secreción de jugo gástrico y las contracciones de la pared estomacal
+- B. Disminuye la secreción de jugo gástrico
+- C. Neutraliza la acidez del estómago
+- D. Empaqueta las grasas en quilomicrones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · gastrina
+
+Ciertas células endocrinas de la mucosa gástrica secretan la hormona estomacal gastrina, que se libera al torrente sanguíneo. Esta hormona incrementa la secreción de jugo gástrico y las contracciones de la pared estomacal.
+
+---
+
+### 77
+
+De acuerdo con el libro de Biología, ¿qué compuesto estimula la liberación de gastrina?
+
+- A. La cafeína
+- B. El bicarbonato
+- C. La aspirina
+- D. El alcohol
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · gastrina
+
+Ciertos compuestos, como la cafeína, estimulan la liberación de gastrina.
+
+---
+
+### 78
+
+De acuerdo con el libro de Biología, ¿cómo se llama el esfínter que separa el estómago del intestino delgado?
+
+- A. El píloro
+- B. El cardias
+- C. El esfínter esofágico superior
+- D. La epiglotis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · píloro
+
+El alimento se convierte en una masa semilíquida que se mueve por peristalsis y atraviesa otro esfínter: el píloro, que separa al estómago del intestino delgado.
+
+---
+
+### 79
+
+De acuerdo con el libro de Biología, ¿en cuánto tiempo se vacía el estómago después de la ingestión?
+
+- A. Alrededor de 4 horas
+- B. Alrededor de 30 minutos
+- C. Alrededor de 24 horas
+- D. Alrededor de 12 horas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 862
+**Subtema:** digestión · vaciado gástrico
+
+El estómago se vacía alrededor de 4 horas después de la ingestión, según la proporción de lípidos y fibras que contenga el alimento que esté procesando.
+
+---
+
+## Sub-lote 14 · El intestino delgado: estructura y absorción (fig. 37-8, p. 863)
+
+### 80
+
+De acuerdo con el libro de Biología, ¿qué ocurre con la digestión en el intestino delgado?
+
+- A. Se completa la digestión de los hidratos de carbono y las proteínas, y se inicia la digestión de las grasas
+- B. Se inicia la digestión de los hidratos de carbono y las proteínas
+- C. Solo se absorben nutrientes, sin ninguna digestión
+- D. Se completa únicamente la digestión de las grasas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 863
+**Subtema:** digestión · intestino delgado
+
+Allí se completa la digestión de los hidratos de carbono y las proteínas –que comenzó en la boca y el estómago– y se inicia la digestión de las grasas.
+
+---
+
+### 81
+
+De acuerdo con el libro de Biología, ¿qué estructuras aumentan la superficie de contacto del intestino delgado con el alimento?
+
+- A. Pliegues circulares en la submucosa, vellosidades en la mucosa y microvellosidades en las células epiteliales
+- B. Criptas gástricas y glándulas salivales
+- C. Esfínteres y válvulas
+- D. Quilomicrones y capilares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 863
+**Subtema:** digestión · intestino delgado
+
+Presenta pliegues circulares en la capa submucosa, vellosidades en la capa mucosa y diminutas proyecciones citoplasmáticas –microvellosidades– en la superficie de las células epiteliales.
+
+---
+
+### 82
+
+De acuerdo con el libro de Biología, ¿cuánto mediría el intestino delgado de un adulto humano si se extendiera por completo?
+
+- A. Unos 6 metros
+- B. Unos 2 metros
+- C. Unos 30 metros
+- D. Unos 60 centímetros
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 863
+**Subtema:** digestión · intestino delgado
+
+Si extendiéramos por completo el intestino delgado de un adulto humano, este mediría unos 6 metros de longitud.
+
+---
+
+### 83
+
+De acuerdo con el libro de Biología, ¿a cuánto equivale el área total de la superficie del intestino delgado?
+
+- A. A alrededor de 300 m², el tamaño de una cancha de tenis
+- B. A alrededor de 3 m², el tamaño de una mesa
+- C. A alrededor de 30 m², el tamaño de una habitación
+- D. A alrededor de 3000 m², el tamaño de un campo de fútbol
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 863
+**Subtema:** digestión · intestino delgado
+
+El área total de su superficie es de alrededor de 300 m², lo que equivale al tamaño de una cancha de tenis.
+
+---
+
+### 84
+
+De acuerdo con el libro de Biología, ¿cómo se divide el intestino delgado según su función?
+
+- A. El duodeno (mayor parte de la digestión) y el yeyuno e íleon (absorción)
+- B. El duodeno (absorción) y el yeyuno e íleon (digestión)
+- C. El colon, el recto y el ano
+- D. El cardias y el píloro
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 863
+**Subtema:** digestión · intestino delgado
+
+El intestino delgado se divide en: el duodeno, donde ocurre la mayor parte de la digestión; el yeyuno e íleon, donde tiene lugar la absorción.
+
+---
+
+### 85
+
+De acuerdo con el libro de Biología, ¿qué enzimas de las microvellosidades intestinales degradan los disacáridos en monosacáridos?
+
+- A. Las disacaridasas: maltasa, sacarasa y lactasa
+- B. Las lipasas pancreáticas
+- C. Las nucleasas
+- D. Las aminopeptidasas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 863
+**Subtema:** digestión · disacaridasas
+
+La membrana plasmática de las microvellosidades intestinales contiene enzimas que catalizan los últimos pasos de la digestión intestinal: disacaridasas –maltasa, sacarasa y lactasa–, que degradan los disacáridos en monosacáridos.
+
+---
+
+### 86
+
+De acuerdo con el libro de Biología, en el duodeno, ¿qué función cumplen las secreciones exocrinas del páncreas y del hígado, ricas en bicarbonato?
+
+- A. Neutralizan la acidez del alimento procedente del estómago
+- B. Aumentan la acidez del alimento
+- C. Empaquetan las grasas en quilomicrones
+- D. Absorben los monosacáridos hacia la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 863
+**Subtema:** digestión · duodeno
+
+Todas estas secreciones contienen una gran cantidad de enzimas y bicarbonato que neutralizan la acidez del alimento procedente del estómago.
+
+---
+
+### 87
+
+De acuerdo con el libro de Biología, ¿cómo se absorben la glucosa y la galactosa, y cómo la fructosa?
+
+- A. La glucosa y la galactosa por transporte activo secundario (con sodio); la fructosa por difusión facilitada
+- B. Las tres por difusión simple
+- C. La glucosa por difusión facilitada; la fructosa por transporte activo
+- D. Todas por transporte pasivo, sin intervención del sodio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 863
+**Subtema:** digestión · absorción intestinal
+
+Los monosacáridos glucosa y galactosa, así como la mayor parte de los aminoácidos, son absorbidos en un proceso de transporte en el que también interviene el sodio (transporte activo secundario); la fructosa atraviesa el epitelio intestinal por difusión facilitada.
+
+---
+
+### 88
+
+De acuerdo con el libro de Biología, ¿en qué partículas se empaquetan las grasas resintetizadas en las células intestinales, y a dónde ingresan?
+
+- A. En quilomicrones, que ingresan en el sistema linfático
+- B. En glóbulos rojos, que ingresan en los capilares
+- C. En vellosidades, que ingresan en el estómago
+- D. En criptas, que ingresan en el páncreas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 863
+**Subtema:** digestión · absorción de grasas
+
+Las grasas [...] son empaquetadas en partículas llamadas quilomicrones, que ingresan en el sistema linfático.
+
+---
+
+### 89
+
+De acuerdo con el libro de Biología, ¿en qué dos porciones se diferencia el páncreas?
+
+- A. Páncreas exocrino y páncreas endocrino
+- B. Páncreas anterior y páncreas posterior
+- C. Páncreas cefálico y páncreas caudal
+- D. Páncreas mucoso y páncreas seroso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 863
+**Subtema:** digestión · páncreas
+
+Este órgano se diferencia en dos porciones: páncreas exocrino y endocrino.
+
+---
+
+**Reactivos en este archivo:** 89
