@@ -48,9 +48,14 @@ multicelularidad. De la **página 742** se cubren los dos componentes de la matr
 por qué los huesos perduran), los tres tipos de uniones celulares (estrechas, de
 anclaje y comunicantes), y el tejido epitelial (revestimiento en lámina continua, la
 forma de las células, las glándulas, y la piel: epidermis epitelial + dermis
-conjuntiva).
+conjuntiva). De las **páginas 743-744** se cubren las microvellosidades, la piel en
+detalle (fig. 31-6: epidermis viva/muerta con queratina, melanocitos y melanina,
+glándulas sudoríparas y sebáceas, el tejido adiposo como conectivo) y los tejidos
+conjuntivos (su función de reunir/apoyar/proteger, la matriz abundante líquida
+—sangre, linfa, hemolinfa— o sólida —cartílago y hueso—, el plasma, el tejido
+cartilaginoso y sus zonas en el adulto, y el tejido óseo con fosfato de calcio).
 
-**Pendiente:** el capítulo 31 está EN CURSO; sigue desde la página impresa 743 (hoja 789) en adelante (el resto de la piel y sus glándulas, y los tejidos conjuntivo, muscular y nervioso en detalle). De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 31 está EN CURSO; sigue desde la página impresa 745 (hoja 791) en adelante (lo que reste del tejido conjuntivo y los tejidos muscular y nervioso en detalle). Queda pendiente, además, el Cuadro 31-1 "Uniones entre células" (p. 743, cifrado como recuadro: hay que renderizarlo) y el Ensayo 31-1 "Diversidad de los sistemas de sostén". De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -228,7 +233,7 @@ Los tejidos pueden unirse entre sí y formar órganos; esta unión no solo es es
 
 ### 11
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
 
 - A. Alrededor de 200 tipos de células, que se agrupan en solo cuatro tipos de tejidos
 - B. Cuatro tipos de células, agrupadas en 200 tejidos
@@ -574,4 +579,192 @@ La epidermis es el tejido de la piel que se encuentra en contacto directo con el
 
 ---
 
-**Reactivos en este archivo:** 32
+## Sub-lote 7 · La piel y los epitelios en detalle (figs. 31-5 y 31-6, pp. 743-744)
+
+### 33
+
+De acuerdo con el libro de Biología, ¿qué son las microvellosidades que tienen muchas células epiteliales, y para qué sirven?
+
+- A. Proyecciones citoplasmáticas que se extienden como finos dedos y aumentan la superficie de intercambio
+- B. Células muertas ricas en queratina
+- C. Glándulas que secretan sudor
+- D. Vasos sanguíneos que irrigan la dermis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 743
+**Subtema:** tejidos, órganos y sistemas · tejido epitelial
+
+Muchas células epiteliales tienen microvellosidades, proyecciones citoplasmáticas que se extienden como finos dedos y aumentan así la superficie de intercambio.
+
+### 34
+
+De acuerdo con el libro de Biología, según la figura 31-6, ¿cómo está estratificada la epidermis?
+
+- A. En una capa interna de células epiteliales vivas y una capa externa de células muertas, ricas en queratina
+- B. En una sola capa de células vivas, sin capa externa
+- C. En tres capas de tejido óseo
+- D. En una única capa de tejido adiposo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 744
+**Subtema:** tejidos, órganos y sistemas · la piel
+
+La epidermis se encuentra estratificada en una capa interna de células epiteliales vivas y en una capa externa de células muertas, ricas en queratina.
+
+### 35
+
+De acuerdo con el libro de Biología, según la figura 31-6, ¿qué células hay en la base de la epidermis y qué producen?
+
+- A. Melanocitos, que producen melanina, el pigmento responsable del color de la piel
+- B. Eritrocitos, que producen hemoglobina
+- C. Osteocitos, que producen tejido óseo
+- D. Linfocitos, que producen anticuerpos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 744
+**Subtema:** tejidos, órganos y sistemas · la piel
+
+En la base de la epidermis hay melanocitos: células que producen melanina, el pigmento responsable del color de la piel.
+
+### 36
+
+De acuerdo con el libro de Biología, según la figura 31-6, ¿qué secretan las glándulas sudoríparas y las sebáceas de la piel?
+
+- A. Las sudoríparas secretan agua, iones y desechos metabólicos; las sebáceas, sustancias grasas que lubrican la superficie de la piel
+- B. Las sudoríparas secretan grasa; las sebáceas, agua
+- C. Ambas secretan únicamente agua
+- D. Ambas secretan hormonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 744
+**Subtema:** tejidos, órganos y sistemas · la piel
+
+Las glándulas sudoríparas secretan agua, iones y desechos metabólicos, y las sebáceas secretan sustancias grasas que lubrican la superficie de la piel.
+
+### 37
+
+De acuerdo con el libro de Biología, el tejido graso o adiposo, que forma la capa aislante por debajo de la dermis, ¿de qué tipo de tejido es una forma?
+
+- A. Del tejido conectivo (conjuntivo)
+- B. Del tejido epitelial
+- C. Del tejido muscular
+- D. Del tejido nervioso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 744
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+El tejido graso o adiposo, que constituye la capa aislante por debajo de la dermis, también es una forma de tejido conectivo.
+
+---
+
+## Sub-lote 8 · Los tejidos conjuntivos: sangre, cartílago y hueso (cuadro 31-2, p. 744)
+
+### 38
+
+De acuerdo con el libro de Biología, ¿qué función cumplen los tejidos conjuntivos o conectivos respecto de los otros tres tipos de tejidos?
+
+- A. Reúnen, dan apoyo y protegen a los tejidos epitelial, muscular y nervioso
+- B. Transmiten los impulsos nerviosos
+- C. Se contraen para producir movimiento
+- D. Revisten las cavidades del cuerpo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 744
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+Los tejidos conjuntivos o conectivos reúnen, dan apoyo y protegen a los otros tres tipos de tejidos: epitelial, muscular y nervioso.
+
+### 39
+
+De acuerdo con el libro de Biología, a diferencia de los otros tejidos, ¿qué caracteriza a los tejidos conjuntivos?
+
+- A. Tener una matriz extracelular abundante
+- B. Tener una matriz extracelular escasa
+- C. No tener matriz extracelular
+- D. Estar formados por una sola célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 744
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+A diferencia de los otros tejidos, los tejidos conjuntivos se caracterizan por tener una matriz extracelular abundante.
+
+### 40
+
+De acuerdo con el libro de Biología, la matriz de los tejidos conjuntivos puede ser líquida o sólida. ¿Cuáles son ejemplos de cada una?
+
+- A. Líquida: la sangre, la linfa y la hemolinfa; sólida: los tejidos cartilaginoso y óseo
+- B. Líquida: el hueso; sólida: la sangre
+- C. Solo puede ser líquida, nunca sólida
+- D. Solo puede ser sólida, nunca líquida
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 744
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+Esta matriz puede ser líquida, como la de la sangre y la linfa de los vertebrados y la hemolinfa de la mayoría de los invertebrados, o sólida, con distinto grado de dureza, como en los tejidos conjuntivos propiamente dichos: cartilaginoso y óseo.
+
+### 41
+
+De acuerdo con el libro de Biología, en la sangre, la linfa y la hemolinfa, ¿en qué están suspendidas las células (como los eritrocitos y los leucocitos)?
+
+- A. En una matriz líquida, o plasma, que contiene numerosos iones y moléculas biológicamente activas
+- B. En una matriz sólida de fosfato de calcio
+- C. En el aire, sin ninguna matriz
+- D. En una matriz de queratina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 744
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+Estas células están suspendidas en una matriz líquida, o plasma, que contiene numerosos iones y moléculas biológicamente activas.
+
+### 42
+
+De acuerdo con el libro de Biología, ¿cómo es el tejido cartilaginoso y qué constituye?
+
+- A. Es resistente, aunque flexible; constituye el esqueleto de diversos grupos de peces y de los embriones de ciertos vertebrados, incluido el humano
+- B. Es rígido por el fosfato de calcio; forma todos los huesos del adulto
+- C. Es líquido; forma la sangre y la linfa
+- D. Es contráctil; forma los músculos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 744
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+El tejido cartilaginoso es resistente, aunque flexible; constituye el esqueleto de diversos grupos de peces y de los embriones de ciertos vertebrados, incluido el humano.
+
+### 43
+
+De acuerdo con el libro de Biología, en el ser humano adulto, ¿en qué zonas se retiene el cartílago?
+
+- A. En la tráquea, la nariz y las orejas, los discos intervertebrales y los extremos de los huesos
+- B. En el cerebro y la médula espinal
+- C. En la sangre y la linfa
+- D. En ninguna zona: desaparece por completo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 744
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+En el estado de adulto, los humanos aún retenemos el cartílago en algunas zonas, como la tráquea, la nariz y las orejas, así como en los discos intervertebrales y en los extremos de los huesos.
+
+### 44
+
+De acuerdo con el libro de Biología, en el tejido óseo, ¿con qué está impregnada la matriz de colágeno y qué le otorga?
+
+- A. Con fosfato de calcio, que otorga gran rigidez a los huesos y les permite proporcionar sostén al cuerpo
+- B. Con queratina, que le da flexibilidad
+- C. Con plasma, que le da fluidez
+- D. Con melanina, que le da color
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 744
+**Subtema:** tejidos, órganos y sistemas · tejido conjuntivo
+
+En el tejido óseo, la matriz de colágeno está impregnada con fosfato de calcio, que otorga gran rigidez a los huesos y les permite proporcionar sostén al cuerpo.
+
+---
+
+**Reactivos en este archivo:** 44
