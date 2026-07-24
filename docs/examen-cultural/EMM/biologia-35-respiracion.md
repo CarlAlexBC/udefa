@@ -155,11 +155,10 @@ puntual del cuerpo de la p. 836. Por eso los reactivos de esa reacción **no fij
 del ion**: citan "los iones bicarbonato e hidrógeno" sin el superíndice, para no propagar
 el error.
 
-**Pendiente:** el capítulo 35 quedó **cubierto por completo** (páginas 828 a 838, hasta
-antes del ensayo de cierre "Retomando la problemática inicial" y de los ejercicios, que por
-norma no llevan reactivos). De la materia de Biología siguen **sin empezar los capítulos 36
-y 37**; este archivo sostiene ese pendiente de la materia hasta que exista el `.md` del
-capítulo 36.
+**Pendiente:** ninguno. El capítulo 35 está cerrado en 166 reactivos (24 jul 2026) y cubre
+completas las páginas impresas 828 a 838; el ensayo de cierre "Retomando la problemática
+inicial" y los ejercicios no llevan reactivos por norma. Lo que falta de Biología lo
+declara el archivo del capítulo en curso — hoy, el capítulo 36 (`biologia-36-circulacion.md`).
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo

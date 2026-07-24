@@ -18,7 +18,7 @@ _Regenerado el 2026-07-24._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, fisica-perez-montiel) | 3396 | abiertas: EMM · Biología, EMM · Química, fisica-perez-montiel · Física |
+| Examen cultural (EMM, HCM, fisica-perez-montiel) | 3415 | abiertas: EMM · Biología, EMM · Química, fisica-perez-montiel · Física |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -40,7 +40,8 @@ _Regenerado el 2026-07-24._
 | EMM · Biología · Capítulo 12 · El flujo de información genética y la síntesis de proteínas | 131 | ninguno. El capítulo 12 está cerrado en 131 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 31 (`biologia-31-tejidos-organos-sistemas.md`). |
 | EMM · Biología · Capítulo 31 · Los tejidos, órganos y sistemas de los vertebrados | 84 | ninguno. El capítulo 31 está cerrado en 84 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 32 (`biologia-32-sistema-nervioso.md`). |
 | EMM · Biología · Capítulo 32 · El sistema nervioso: estructura y función | 271 | ninguno. El capítulo 32 está cerrado en 271 reactivos (23 jul 2026) y cubre completas las páginas impresas 756-775; el ensayo de cierre "Retomando la problemática inicial" y los ejercicios no llevan reactivos por norma. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 35 (`biologia-35-respiracion.md`). |
-| EMM · Biología · Capítulo 35 · La respiración | 166 | el capítulo 35 quedó **cubierto por completo** (páginas 828 a 838, hasta antes del ensayo de cierre "Retomando la problemática inicial" y de los ejercicios, que por norma no llevan reactivos). De la materia de Biología siguen **sin empezar los capítulos 36 y 37**; este archivo sostiene ese pendiente de la materia hasta que exista el `.md` del capítulo 36. |
+| EMM · Biología · Capítulo 35 · La respiración | 166 | ninguno. El capítulo 35 está cerrado en 166 reactivos (24 jul 2026) y cubre completas las páginas impresas 828 a 838; el ensayo de cierre "Retomando la problemática inicial" y los ejercicios no llevan reactivos por norma. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 36 (`biologia-36-circulacion.md`). |
+| EMM · Biología · Capítulo 36 · La circulación | 19 | el capítulo 36 está EN CURSO; sigue desde la página impresa 844 (hoja 890) en adelante (la composición de la sangre de los vertebrados, la bomba cardíaca y el sistema de vasos sanguíneos, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, sigue sin empezar el capítulo 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente. |
 | EMM · Química · Capítulo 2 · Átomos, moléculas e iones | 153 | los capítulos 3, 4, 9 y 24, que el temario pide y todavía no tienen archivo. Este archivo sostiene la lista hasta que exista el `.md` del capítulo 3. |
 | EMM · Química · Capítulo 3 · Relaciones de masa en las reacciones químicas | 27 | dentro del capítulo 3 no queda teoría por cubrir de los subtemas que pide el temario (3.1, 3.2 y 3.3) más allá de un repaso; el resto del capítulo (3.4 a 3.10) no entra. Siguen abiertos los capítulos 4, 9 y 24, que el temario pide y todavía no tienen archivo. Este archivo sostiene la lista hasta que exista el `.md` del capítulo 4. |
 | EMM · Química · Capítulo 4 · Reacciones en disolución acuosa | 24 | dentro del capítulo 4 no queda teoría por cubrir de los subtemas que pide el temario (4.1 y 4.5) más allá de un repaso; el resto del capítulo (4.2 a 4.4 y 4.6 a 4.8) no entra. Sigue abierto el capítulo 9 y el capítulo 24, que el temario de Medicina pide y todavía no tienen archivo. Este archivo sostiene la lista hasta que exista el `.md` del capítulo 9. |
@@ -63,7 +64,7 @@ _Regenerado el 2026-07-24._
 | fisica-perez-montiel · Física · Unidad 5 · Dinámica | 94 | Falta el resto de la materia Física en sus propios archivos (las Unidades 3, 4 y 5 ya están cerradas): la Unidad 6 (Materia y sus Propiedades, temas 1 Estructura de la Materia p. 244, 2 Estados de Agregación p. 248 y 3 Propiedades Generales o Extensivas p. 249), la Unidad 8 (Hidrostática, completa) y la Unidad 11 (Termología, temas 1, 2, 3, 5, 7 y 12), siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 6 · Materia y sus Propiedades | 49 | Faltan las otras dos unidades de Física en sus propios archivos: la Unidad 8 (Hidrostática, completa) y la Unidad 11 (Termología, temas 1 calor vs temperatura, 2 medida de la temperatura, 3 escalas Celsius/Kelvin/Fahrenheit, 5 formas de propagación del calor, 7 unidades para medir el calor y 12 los gases y sus leyes), siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 8 · Hidrostática | 45 | _no declarado_ |
-| **Total** | **3396** | |
+| **Total** | **3415** | |
 
 > 1 archivo(s) no declaran pendiente en su encabezado, así que este resumen **no puede afirmar que estén cerrados**. Para que aparezcan como
 > terminados, agrégales una línea `**Pendiente:**` que lo diga.
