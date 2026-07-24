@@ -58,9 +58,12 @@ la **página 745** se cubre el cuadro 31-2 de los tejidos conjuntivos especializ
 (adiposo blanco con adipocitos e hipodermis; sanguíneo con glóbulos, plaquetas y
 plasma; cartilaginoso con condrocitos; óseo con hidroxiapatita y su papel en la
 homeostasis del calcio) y el esqueleto humano (fig. 31-7: 206 huesos, 29 del cráneo
-—14 de la cara y 6 de los oídos—, 27 por mano y 26 por pie).
+—14 de la cara y 6 de los oídos—, 27 por mano y 26 por pie). De la **página 746** se
+cubre el tejido muscular: las células especializadas en la contracción, los dos
+tipos (estriado con bandas y liso sin bandas) y la clasificación esquelético
+(voluntario) / cardíaco (estriado pero involuntario) / liso (involuntario).
 
-**Pendiente:** el capítulo 31 está EN CURSO; sigue desde la página impresa 746 (hoja 792) en adelante (el tejido óseo compacto/esponjoso y los conductos de Havers, y los tejidos muscular y nervioso en detalle). Queda pendiente, además, el Cuadro 31-1 "Uniones entre células" (p. 743, cifrado como recuadro: hay que renderizarlo) y el Ensayo 31-1 "Diversidad de los sistemas de sostén". De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 31 está EN CURSO; sigue desde la página impresa 747 (hoja 793) en adelante (el tejido nervioso y la neurona, y luego los órganos y sistemas de órganos; el capítulo cierra en la p. 751, con el ensayo de cierre en la 752 y las situaciones problemáticas en la 753). Queda pendiente, además, el Cuadro 31-1 "Uniones entre células" (p. 743, cifrado como recuadro: hay que renderizarlo) y el Ensayo 31-1 "Diversidad de los sistemas de sostén". De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -238,7 +241,7 @@ Los tejidos pueden unirse entre sí y formar órganos; esta unión no solo es es
 
 ### 11
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
 
 - A. Alrededor de 200 tipos de células, que se agrupan en solo cuatro tipos de tejidos
 - B. Cuatro tipos de células, agrupadas en 200 tejidos
@@ -900,7 +903,7 @@ El tejido óseo almacena calcio y fosfato que pueden pasar a la sangre, reguland
 
 ### 53
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos contiene el esqueleto de un adulto?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos contiene el esqueleto de un adulto?
 
 - A. 206 huesos
 - B. 300 huesos
@@ -915,7 +918,7 @@ El esqueleto de un adulto contiene 206 huesos.
 
 ### 54
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
 
 - A. 29 huesos, incluidos los 14 de la cara y los 6 huesecillos de los oídos
 - B. 14 huesos, todos de la cara
@@ -930,7 +933,7 @@ Veintinueve huesos pertenecen al cráneo, incluidos los 14 huesos de la cara y l
 
 ### 55
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos hay en cada mano y en cada pie?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos hay en cada mano y en cada pie?
 
 - A. 27 huesos en cada mano y 26 en cada pie
 - B. 26 huesos en cada mano y 27 en cada pie
@@ -945,4 +948,118 @@ Hay 27 huesos en cada mano y 26 en cada pie.
 
 ---
 
-**Reactivos en este archivo:** 55
+## Sub-lote 11 · El tejido muscular (fig. 31-10, p. 746)
+
+### 56
+
+De acuerdo con el libro de Biología, ¿en qué están especializadas las células del tejido muscular?
+
+- A. En la contracción
+- B. En la recepción de estímulos
+- C. En el revestimiento del cuerpo
+- D. En la secreción de hormonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 746
+**Subtema:** tejidos, órganos y sistemas · tejido muscular
+
+El tejido muscular contiene células especializadas en la contracción.
+
+### 57
+
+De acuerdo con el libro de Biología, ¿cuáles son los dos tipos de tejido muscular?
+
+- A. El músculo estriado (que muestra bandas transversales bajo el microscopio) y el músculo liso (sin bandas)
+- B. El músculo voluntario y el involuntario, ambos con bandas
+- C. El músculo esquelético y el cardíaco, ambos lisos
+- D. El músculo óseo y el cartilaginoso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 746
+**Subtema:** tejidos, órganos y sistemas · tejido muscular
+
+Existen dos tipos de tejido muscular: el que forma el músculo estriado –llamado así porque bajo el microscopio muestra bandas transversales– y el del músculo liso, sin bandas.
+
+### 58
+
+De acuerdo con el libro de Biología, ¿por qué se llama estriado al músculo estriado?
+
+- A. Porque bajo el microscopio muestra bandas transversales
+- B. Porque produce estrías en la piel
+- C. Porque es de color rayado a simple vista
+- D. Porque no puede contraerse
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 746
+**Subtema:** tejidos, órganos y sistemas · tejido muscular
+
+El músculo estriado es llamado así porque bajo el microscopio muestra bandas transversales.
+
+### 59
+
+De acuerdo con el libro de Biología, los músculos esqueléticos, unidos a los huesos y responsables del movimiento, ¿cómo se llaman también y por qué?
+
+- A. Músculos voluntarios, porque pueden moverse a voluntad
+- B. Músculos involuntarios, porque no se mueven a voluntad
+- C. Músculos lisos, porque no tienen bandas
+- D. Músculos cardíacos, porque forman el corazón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 746
+**Subtema:** tejidos, órganos y sistemas · tejido muscular
+
+Los músculos esqueléticos que, unidos a los huesos, son los responsables del movimiento. Estos músculos pueden moverse a voluntad y, por lo tanto, se los llama también músculos voluntarios.
+
+### 60
+
+De acuerdo con el libro de Biología, ¿qué constituye el músculo cardíaco y puede moverse a voluntad?
+
+- A. Constituye las paredes del corazón y no puede moverse a voluntad
+- B. Constituye los huesos y se mueve a voluntad
+- C. Forma la pared del útero y la vejiga
+- D. Reviste el interior del intestino delgado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 746
+**Subtema:** tejidos, órganos y sistemas · tejido muscular
+
+Otro tipo de músculo estriado es el músculo cardíaco, que constituye las paredes del corazón y no puede moverse a voluntad.
+
+### 61
+
+De acuerdo con el libro de Biología, ¿de qué forma parte el músculo liso y cómo es su movimiento?
+
+- A. Forma parte de la pared de órganos internos (el útero, la vejiga, los órganos digestivos y los vasos sanguíneos); su movimiento no es voluntario
+- B. Forma los huesos del esqueleto; su movimiento es voluntario
+- C. Constituye las paredes del corazón
+- D. Une los músculos a los huesos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 746
+**Subtema:** tejidos, órganos y sistemas · tejido muscular
+
+El músculo liso forma parte de la pared de órganos internos, como el útero, la vejiga, los órganos digestivos y los vasos sanguíneos, y su movimiento tampoco es voluntario.
+
+### 62
+
+De acuerdo con el libro de Biología, ¿qué músculos se incluyen en la categoría de músculos involuntarios?
+
+- A. El músculo liso y el músculo cardíaco
+- B. El músculo esquelético y el estriado
+- C. Únicamente el músculo esquelético
+- D. Todos los músculos estriados
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 746
+**Subtema:** tejidos, órganos y sistemas · tejido muscular
+
+El músculo liso y el músculo cardíaco se incluyen en la categoría de músculos involuntarios.
+
+> Clasificación del músculo, para no confundir (reactivos 57–62): por su aspecto es
+> **estriado** (con bandas) o **liso** (sin bandas); por su control es **voluntario**
+> o **involuntario**. El esquelético es estriado y voluntario; el cardíaco es
+> estriado pero involuntario; el liso es involuntario.
+
+---
+
+**Reactivos en este archivo:** 62
