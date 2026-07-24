@@ -86,9 +86,20 @@ parasimpático (fig. 32-7): la etimología *pathos*, sus diferencias, los neurot
 (noradrenalina en el simpático y acetilcolina en el parasimpático), el efecto antagónico,
 la homeostasis, y la respuesta simpática "de lucha o huida" (frecuencias cardíaca y
 respiratoria, vasoconstricción, pupilas y piloerección, inhibición digestiva y la
-secreción de adrenalina por la médula suprarrenal).
+secreción de adrenalina por la médula suprarrenal). De la **página 764** se cubre el
+cierre de la respuesta simpática (la glucosa hepática como energía suplementaria para
+los músculos y el "luchar o huir"), la división parasimpática (que regula las
+actividades restauradoras del cuerpo) y la **figura 32-7** del sistema nervioso
+autónomo: las dos neuronas articuladas por una sinapsis en los ganglios, el origen del
+parasimpático (tronco cerebral y región sacra, con ganglios en los órganos blanco) y
+del simpático (regiones torácica y lumbar, con fibras preganglionares cortas hasta la
+cadena de ganglios simpáticos o el ganglio celíaco), la secreción de noradrenalina y
+adrenalina por la médula suprarrenal, la doble inervación de los órganos internos, las
+estructuras químicas de la noradrenalina y la acetilcolina (con la errata del pie b/c
+advertida), y los efectos antagónicos sobre los órganos (pupila, corazón, bronquios,
+estómago, salivación y vejiga).
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 764 (hoja 810) en adelante (el resto de la respuesta simpática, la división parasimpática, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 765 (hoja 811) en adelante (el resto de la división parasimpática, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -1543,6 +1554,269 @@ De acuerdo con el libro de Biología, frente a la estimulación simpática, ¿qu
 
 Además, frente a la estimulación simpática, la médula suprarrenal secreta adrenalina.
 
+## Sub-lote 10 · El parasimpático y la anatomía del SNA (fig. 32-7, p. 764)
+
+### 94
+
+De acuerdo con el libro de Biología, en la respuesta simpática, la liberación de grandes cantidades de glucosa del hígado en el torrente sanguíneo, ¿qué resulta ser?
+
+- A. Una fuente de energía suplementaria para los músculos
+- B. Una reserva de grasa que se almacena en el hígado
+- C. Un desecho que el cuerpo elimina por la orina
+- D. Una fuente de energía exclusiva para el cerebro
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · respuesta simpática
+
+La médula suprarrenal secreta adrenalina que, junto con otras hormonas, causa la liberación de grandes cantidades de glucosa del hígado en el torrente sanguíneo, que resulta una fuente de energía suplementaria para los músculos.
+
+### 95
+
+De acuerdo con el libro de Biología, como consecuencia de esta constelación de respuestas simpáticas, ¿para qué queda preparado el cuerpo como un todo?
+
+- A. Para "luchar o huir" o, cuando menos en los seres humanos, para una acción que habría sido apropiada en alguna etapa temprana de nuestra evolución
+- B. Para descansar y digerir tranquilamente una comida copiosa
+- C. Para conciliar un sueño profundo y reparador
+- D. Para reducir al mínimo su consumo de energía
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · respuesta de lucha o huida
+
+Como consecuencia de esta constelación de respuestas, el cuerpo como un todo está preparado para "luchar o huir" o, cuando menos en los seres humanos, para una acción que habría sido apropiada en alguna etapa temprana de nuestra evolución.
+
+### 96
+
+De acuerdo con el libro de Biología, a diferencia de la simpática, ¿qué regula de manera primaria la división parasimpática?
+
+- A. Las actividades restauradoras del cuerpo; por ejemplo, es particularmente activa después de una comida copiosa
+- B. Las respuestas de estrés y la preparación del cuerpo para la acción
+- C. La contracción voluntaria de los músculos esqueléticos
+- D. La liberación de glucosa hepática durante el ejercicio intenso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · división parasimpática
+
+La división parasimpática, por el contrario, regula de manera primaria las actividades restauradoras del cuerpo; por ejemplo, es particularmente activa después de una comida copiosa.
+
+### 97
+
+De acuerdo con el libro de Biología, según la figura 32-7, ¿cómo están formadas ambas divisiones (simpática y parasimpática) del sistema nervioso autónomo?
+
+- A. Por dos neuronas articuladas en los ganglios autónomos por una sinapsis
+- B. Por una sola neurona que va del sistema nervioso central al efector sin sinapsis
+- C. Por tres neuronas conectadas en serie dentro de la médula espinal
+- D. Por dos neuronas que nunca hacen sinapsis entre sí
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · sistema autónomo
+
+El sistema nervioso autónomo comprende la división simpática y parasimpática, ambas formadas por dos neuronas articuladas en los ganglios autónomos por una sinapsis.
+
+### 98
+
+De acuerdo con el libro de Biología, según la figura 32-7, ¿de dónde salen las fibras preganglionares del sistema nervioso parasimpático?
+
+- A. Del tronco cerebral y de la región sacra de la médula espinal
+- B. De las regiones torácica y lumbar de la médula espinal
+- C. Únicamente de la corteza cerebral
+- D. De los ganglios de la raíz dorsal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · fibras preganglionares
+
+Las fibras preganglionares del sistema nervioso parasimpático salen del tronco cerebral y de la región sacra de la médula espinal.
+
+### 99
+
+De acuerdo con el libro de Biología, según la figura 32-7, las fibras preganglionares parasimpáticas establecen sinapsis con las neuronas posganglionares, ¿en qué ganglios?
+
+- A. En los ganglios ubicados en los órganos blanco o cerca de ellos
+- B. En la cadena de ganglios simpáticos
+- C. En el ganglio celíaco exclusivamente
+- D. En los ganglios de la raíz dorsal de la médula espinal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · ganglios parasimpáticos
+
+Las fibras preganglionares del sistema nervioso parasimpático establecen sinapsis con las neuronas posganglionares de los ganglios ubicados en los órganos blanco o cerca de ellos.
+
+### 100
+
+De acuerdo con el libro de Biología, según la figura 32-7, ¿en qué regiones de la médula espinal se origina el sistema nervioso simpático?
+
+- A. En las regiones torácica y lumbar
+- B. En el tronco cerebral y la región sacra
+- C. En la región cervical únicamente
+- D. En los ganglios de la raíz dorsal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · origen del simpático
+
+El sistema nervioso simpático se origina en las regiones torácica y lumbar de la médula espinal.
+
+> Contraste fácil de invertir: el **parasimpático** sale del tronco cerebral y la región **sacra** (reactivo 98); el **simpático** se origina en las regiones **torácica y lumbar**.
+
+### 101
+
+De acuerdo con el libro de Biología, según la figura 32-7, ¿cómo son las fibras preganglionares de la división simpática y dónde hacen sinapsis?
+
+- A. Son cortas y hacen sinapsis con las neuronas posganglionares en la cadena de ganglios simpáticos o en otros ganglios, como el ganglio celíaco
+- B. Son largas y hacen sinapsis directamente dentro de los órganos blanco
+- C. Son cortas y hacen sinapsis dentro del tronco cerebral
+- D. Son largas y no establecen sinapsis en ningún ganglio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · ganglios simpáticos
+
+Las fibras preganglionares de la división simpática son cortas y hacen sinapsis con las neuronas posganglionares en la cadena de ganglios simpáticos o en otros ganglios, como el ganglio celíaco.
+
+### 102
+
+De acuerdo con el libro de Biología, según la figura 32-7, ¿qué sustancias también son secretadas por la médula de la glándula suprarrenal?
+
+- A. La noradrenalina y la adrenalina
+- B. La acetilcolina y la serotonina
+- C. La insulina y el glucagón
+- D. La dopamina y la melatonina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · médula suprarrenal
+
+La noradrenalina y la adrenalina también son secretadas por la médula de la glándula suprarrenal.
+
+### 103
+
+De acuerdo con el libro de Biología, según la figura 32-7, ¿qué tipo de inervación reciben la mayoría de los órganos internos y con qué fin?
+
+- A. Doble inervación —simpática y parasimpática—, que en conjunto regula la homeostasis del medio interno y, en el caso del simpático, prepara al organismo para la acción
+- B. Inervación única simpática, cuyo fin es solo preparar para la acción
+- C. Inervación única parasimpática, cuyo fin es solo regular el reposo
+- D. Inervación exclusivamente somática y voluntaria
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · doble inervación
+
+La mayoría de los órganos internos reciben doble inervación —simpática y parasimpática—, que, en conjunto, actúan regulando la homeostasis del medio interno y, en el caso del simpático, preparando al organismo para la acción.
+
+### 104
+
+De acuerdo con el libro de Biología, en los paneles b) y c) de la figura 32-7 se muestran las estructuras químicas de dos neurotransmisores. ¿Cuáles son?
+
+- A. La noradrenalina y la acetilcolina
+- B. La adrenalina y la serotonina
+- C. La dopamina y la acetilcolina
+- D. La insulina y el glucagón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · neurotransmisores
+
+Los paneles muestran la estructura química de la noradrenalina y la estructura química de la acetilcolina.
+
+> Aviso al aspirante: en este pie de figura los rótulos **b)** y **c)** están **invertidos** respecto a los dibujos (el panel b) es en realidad la acetilcolina y el c), la noradrenalina). Por eso no hay reactivo que pida "cuál letra es cuál"; solo se pregunta qué dos moléculas se muestran.
+
+## Sub-lote 11 · Los efectos antagónicos del SNA sobre los órganos (fig. 32-7, p. 764)
+
+### 105
+
+De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene cada división sobre la pupila?
+
+- A. El simpático dilata la pupila y el parasimpático (oculomotor) la contrae
+- B. El simpático contrae la pupila y el parasimpático la dilata
+- C. Ambas divisiones dilatan la pupila
+- D. Ninguna de las dos divisiones actúa sobre la pupila
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · efecto sobre la pupila
+
+En la figura 32-7, el simpático "dilata la pupila", mientras que el parasimpático, por el nervio oculomotor, "contrae la pupila".
+
+### 106
+
+De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene cada división sobre el latido del corazón?
+
+- A. El simpático acelera el latido cardíaco y refuerza la contracción, mientras que el parasimpático hace más lento el latido
+- B. El simpático hace más lento el latido y el parasimpático lo acelera
+- C. Ambas divisiones aceleran el latido cardíaco
+- D. Ninguna de las dos divisiones actúa sobre el corazón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · efecto sobre el corazón
+
+En la figura 32-7, el simpático "acelera el latido cardíaco, refuerza la contracción", mientras que el parasimpático "hace más lento el latido".
+
+### 107
+
+De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene cada división sobre los bronquios?
+
+- A. El simpático relaja los bronquios y el parasimpático los contrae
+- B. El simpático contrae los bronquios y el parasimpático los relaja
+- C. Ambas divisiones relajan los bronquios
+- D. Ninguna de las dos divisiones actúa sobre los bronquios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · efecto sobre los bronquios
+
+En la figura 32-7, el simpático "relaja los bronquios", mientras que el parasimpático "contrae los bronquios".
+
+### 108
+
+De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene cada división sobre la actividad del estómago?
+
+- A. El simpático inhibe la actividad y el parasimpático la estimula
+- B. El simpático estimula la actividad y el parasimpático la inhibe
+- C. Ambas divisiones inhiben la actividad del estómago
+- D. Ninguna de las dos divisiones actúa sobre el estómago
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · efecto sobre el estómago
+
+En la figura 32-7, sobre el estómago el simpático "inhibe la actividad", mientras que el parasimpático "estimula la actividad".
+
+### 109
+
+De acuerdo con el libro de Biología, según la figura 32-7, ¿cómo estimula cada división la salivación?
+
+- A. El parasimpático (nervio facial) la estimula fuertemente y el simpático la estimula débilmente
+- B. El parasimpático la estimula débilmente y el simpático la estimula fuertemente
+- C. Solo el simpático estimula la salivación
+- D. Ninguna de las dos divisiones actúa sobre las glándulas salivales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · efecto sobre la salivación
+
+En la figura 32-7, el parasimpático, por el nervio facial, "estimula la salivación (fuertemente)", mientras que el simpático "estimula la salivación (débilmente)".
+
+### 110
+
+De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene cada división sobre la vejiga?
+
+- A. El simpático relaja la vejiga y el parasimpático (nervio pélvico) la contrae
+- B. El simpático contrae la vejiga y el parasimpático la relaja
+- C. Ambas divisiones contraen la vejiga
+- D. Ninguna de las dos divisiones actúa sobre la vejiga
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
+**Subtema:** sistema nervioso · efecto sobre la vejiga
+
+En la figura 32-7, el simpático "relaja la vejiga", mientras que el parasimpático, por el nervio pélvico, "contrae la vejiga".
+
 ---
 
-**Reactivos en este archivo:** 93
+**Reactivos en este archivo:** 110
