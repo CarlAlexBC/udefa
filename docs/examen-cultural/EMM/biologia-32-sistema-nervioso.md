@@ -137,8 +137,17 @@ HCO3–/Cl– y los no difusibles de gran tamaño); y el potencial de acción (f
 umbral que abre los canales de Na+ sensibles al potencial, la despolarización hasta +40 mV
 (0,5 ms), la inactivación del Na+, la apertura más lenta de los canales de K+, la
 repolarización y la breve hiperpolarización, con el cierre final de los canales de K+.
+De la **página 769** se cubre el cierre del mecanismo (el potencial de acción se debe a
+rápidos movimientos de iones sin cambios sustanciales en sus concentraciones; el número
+de iones que se mueven es pequeño por el corto tiempo de apertura), la bomba de
+Na+/K+-ATPasa (transporte activo en contra del gradiente —Na+ afuera, K+ adentro— que
+restablece el reposo), el arranque de la **propagación del impulso nervioso** (la
+despolarización se autopropaga y autorrefuerza, como una llama en una mecha, mientras el
+primer sector se repolariza, fig. 32-13), y el pie de la fig. 32-12 (las bombas
+restablecen el reposo al finalizar, y el potencial umbral autoinducido que da origen al
+potencial de acción).
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 769 (hoja 815) en adelante (el resto del potencial de acción y su propagación, la fig. 32-12, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 770 (hoja 816) en adelante (el resto de la propagación del impulso nervioso, la fig. 32-13, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -2814,6 +2823,130 @@ De acuerdo con el libro de Biología, al disminuir el potencial de membrana, ¿q
 
 Al disminuir el potencial de membrana, los canales de K+ dependientes del potencial eléctrico vuelven al estado cerrado.
 
+## Sub-lote 20 · La propagación del impulso nervioso y la bomba de sodio y potasio (figs. 32-12 y 32-13, p. 769)
+
+### 173
+
+De acuerdo con el libro de Biología, ¿por qué el número total de iones Na+ y K+ que se mueven durante el potencial de acción es pequeño?
+
+- A. Debido al corto tiempo que los canales iónicos permanecen abiertos
+- B. Debido a que la membrana es impermeable a todos los iones
+- C. Debido a que la bomba de Na+/K+-ATPasa deja de funcionar
+- D. Debido a que los canales de fuga se cierran por completo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 769
+**Subtema:** sistema nervioso · potencial de acción
+
+Debido al corto tiempo que los canales iónicos permanecen abiertos, el número total de iones Na+ y K+ que se mueven durante el potencial de acción es pequeño.
+
+### 174
+
+De acuerdo con el libro de Biología, ¿en qué dirección transporta los iones la bomba de Na+/K+-ATPasa, en contra de su gradiente químico?
+
+- A. El Na+ hacia el medio extracelular y el K+ hacia el medio intracelular
+- B. El Na+ hacia el medio intracelular y el K+ hacia el medio extracelular
+- C. Ambos iones hacia el medio extracelular
+- D. Ambos iones hacia el medio intracelular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 769
+**Subtema:** sistema nervioso · bomba de sodio y potasio
+
+La bomba de Na+/K+-ATPasa transporta iones en contra de su gradiente químico: Na+ hacia el medio extracelular y K+ hacia el medio intracelular.
+
+> La bomba trabaja **en contra** del gradiente (transporte activo, con gasto de energía), al revés de los canales, que dejan pasar los iones **a favor** de su gradiente.
+
+### 175
+
+De acuerdo con el libro de Biología, ¿de qué modo transporta los iones la bomba de Na+/K+-ATPasa y para qué contribuye?
+
+- A. En forma activa —es decir, con gasto de energía—, y contribuye a mantener las concentraciones de estos iones en sus niveles originales y a restablecer los valores del potencial de reposo
+- B. En forma pasiva —sin gasto de energía—, y contribuye a eliminar por completo los iones de la célula
+- C. En forma activa, pero solo para producir la despolarización
+- D. En forma pasiva, y contribuye a acelerar la hiperpolarización
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 769
+**Subtema:** sistema nervioso · bomba de sodio y potasio
+
+La bomba de Na+/K+-ATPasa transporta iones en contra de su gradiente químico en forma activa —es decir, con gasto de energía—, contribuye a mantener las concentraciones de estos iones en sus niveles originales —y fuera de su equilibrio químico— y restablece los valores del potencial de reposo.
+
+### 176
+
+De acuerdo con el libro de Biología, ¿a qué se deben los cambios del potencial de membrana durante el potencial de acción, y qué ocurre con las concentraciones de Na+ y K+?
+
+- A. Se deben a rápidos movimientos de iones a través de la membrana axónica, sin modificaciones sustanciales en las concentraciones internas y externas de los iones Na+ y K+
+- B. Se deben a un cambio permanente y grande en las concentraciones de Na+ y K+
+- C. Se deben a la desaparición de todos los iones del interior de la célula
+- D. Se deben al ingreso masivo de agua a la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 769
+**Subtema:** sistema nervioso · potencial de acción
+
+Los potenciales de acción se originan a lo largo del axón en forma de cambios en el potencial de membrana debido a rápidos movimientos de iones a través de la membrana axónica, sin modificaciones sustanciales en las concentraciones internas y externas de los iones Na+ y K+.
+
+### 177
+
+De acuerdo con el libro de Biología, durante la propagación del impulso nervioso, ¿cómo se desplaza la despolarización a lo largo del axón?
+
+- A. Se desplaza de un sector a un punto vecino y continúa a lo largo del axón, autopropagándose de manera continua (se autorrefuerza), como una llama que corre a lo largo de una mecha
+- B. Se desplaza en saltos aleatorios que van y vienen por el axón
+- C. Se desplaza solo en el soma y las dendritas, sin recorrer el axón
+- D. Permanece fija en el sector donde comenzó, sin desplazarse
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 769
+**Subtema:** sistema nervioso · propagación del impulso
+
+La despolarización comienza en un sector de la membrana neuronal, se desplaza a un punto vecino y continúa desplazándose a lo largo del axón (se autopropaga) de manera continua (se autorrefuerza), como una llama que corre a lo largo de una mecha.
+
+### 178
+
+De acuerdo con el libro de Biología, mientras la despolarización avanza a lo largo del axón, ¿qué ocurre con el primer sector?
+
+- A. Constantemente se repolariza el primer sector
+- B. El primer sector permanece despolarizado de forma permanente
+- C. El primer sector se destruye tras el paso del impulso
+- D. El primer sector deja de conducir impulsos para siempre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 769
+**Subtema:** sistema nervioso · propagación del impulso
+
+Al mismo tiempo que la despolarización se desplaza, constantemente se repolariza el primer sector.
+
+### 179
+
+De acuerdo con el libro de Biología, según la figura 32-12, al finalizar el potencial de acción, ¿qué ocurre con las bombas de Na+/K+-ATPasa?
+
+- A. Aumentan su actividad y restablecen las condiciones del reposo
+- B. Detienen por completo su actividad
+- C. Se transforman en canales de fuga de K+
+- D. Invierten su función y provocan una nueva despolarización
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 769
+**Subtema:** sistema nervioso · bomba de sodio y potasio
+
+Al finalizar el potencial de acción, la actividad de las bombas de Na+/K+-ATPasa aumentan su actividad y restablecen las condiciones del reposo.
+
+### 180
+
+De acuerdo con el libro de Biología, según la figura 32-12, ¿qué es el potencial umbral y qué ocurre a partir de que la membrana lo alcanza?
+
+- A. Es el valor del potencial de membrana al que debe llegar la membrana del axón, tras la estimulación, para que se abran los canales de Na+ sensibles al potencial; a partir de ese momento, la apertura de esos canales es autoinducida y da origen al potencial de acción
+- B. Es el valor máximo de +40 mV que alcanza el potencial de acción
+- C. Es el valor del potencial de reposo, al que la membrana regresa tras el impulso
+- D. Es el valor más negativo que alcanza la membrana durante la hiperpolarización
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 769
+**Subtema:** sistema nervioso · potencial umbral
+
+El potencial umbral es el valor del potencial de membrana al cual debe llegar la membrana del axón luego de la estimulación para que ocurra la apertura de canales de Na+ sensibles al potencial de membrana. A partir de ese momento, la apertura de este tipo de canales de Na+ es autoinducida y da origen al potencial de acción.
+
 ---
 
-**Reactivos en este archivo:** 172
+**Reactivos en este archivo:** 180
