@@ -44,12 +44,18 @@ reactivo 2. La página de cada referencia se **lee** de la esquina de la hoja.
 
 ## Cobertura actual
 
-Del temario van cubiertos dos de los cuatro temas: el **tema 2 · Leyes de la
-Dinámica** (pp. 140–143 y 149–150), incluidas las fuerzas centrípeta y centrífuga
-que el índice cuelga de ese mismo tema, y el **tema 8 · Energía** (pp. 189–196).
-Se saltaron los "Ejercicios propuestos" y los problemas resueltos de elevadores y
-montacargas (pp. 148–149) y los de trabajo mecánico (p. 188), y se paró antes del
-tema 9 Piezoelectricidad (p. 197), que no está en el temario.
+La Unidad 5 queda **COMPLETA** en lo que pide el temario: sus **cuatro temas**
+(2 Leyes de la Dinámica pp. 140–143 y 149–150, incluidas las fuerzas centrípeta y
+centrífuga que el índice cuelga de ese mismo tema; 8 Energía pp. 189–196; 13
+Cantidad de Movimiento p. 206; y 17 Ley de la Conservación del Momento Angular
+pp. 212–216).
+
+Se saltó todo lo que el temario no pide aunque cayera en las mismas páginas: los
+temas 14 (Relación entre el impulso y la cantidad de movimiento) y 15 (Choque
+elástico e inelástico), que comparten la p. 206 con el tema 13, y el tema 9
+Piezoelectricidad (p. 197). También se saltaron los "Ejercicios propuestos" y los
+problemas resueltos de elevadores y montacargas (pp. 148–149) y de trabajo
+mecánico (p. 188).
 
 - **Sub-lote 1 · Newton y la primera ley o ley de la inercia (p. 140–141)**
 - **Sub-lote 2 · Segunda ley de Newton (p. 141–142)**
@@ -59,14 +65,13 @@ tema 9 Piezoelectricidad (p. 197), que no está en el temario.
 - **Sub-lote 6 · Definición de energía y energía potencial gravitacional (p. 191–192)**
 - **Sub-lote 7 · Energía potencial elástica y energía cinética (p. 193)**
 - **Sub-lote 8 · Ley de la conservación de la energía y su degradación (p. 195–196)**
+- **Sub-lote 9 · Cantidad de movimiento o momento lineal (p. 206)**
+- **Sub-lote 10 · Momento de una fuerza y magnitudes angulares (p. 212–213)**
+- **Sub-lote 11 · Inercia rotacional y momento angular (p. 213, 215)**
+- **Sub-lote 12 · Ley de la conservación del momento angular, ECR y giroscopio (p. 215–216)**
 
-**Pendiente:** Faltan de esta Unidad 5 los otros dos temas del temario: el tema
-13 Cantidad de Movimiento o Momento Lineal (p. 206) y el tema 17 Ley de la
-Conservación del Momento Angular (pp. 212–216: momento de una fuerza, inercia
-rotacional o momento de inercia, y la conservación de la cantidad de movimiento
-angular); al entrar a esas páginas hay que volver a leer el desfase de la hoja,
-porque en esta unidad ya cambió una vez de 12 a 13. Y faltan además, en sus
-propios archivos, la Unidad 6 (Materia y sus
+**Pendiente:** Falta el resto de la materia Física en sus propios archivos (las
+Unidades 3, 4 y 5 ya están cerradas): la Unidad 6 (Materia y sus
 Propiedades, temas 1 Estructura de la Materia p. 244, 2 Estados de Agregación p.
 248 y 3 Propiedades Generales o Extensivas p. 249), la Unidad 8 (Hidrostática,
 completa) y la Unidad 11 (Termología, temas 1, 2, 3, 5, 7 y 12), siempre sólo
@@ -1083,6 +1088,455 @@ De acuerdo con el libro de Física, en ausencia de fricción, ¿qué sucede con 
 
 > Ojo con el par: **en ausencia de fricción** la energía mecánica se conserva; en la realidad la fricción siempre está presente, el cuerpo disipa energía como calor y tarde o temprano se detiene.
 
+## Sub-lote 9 · Cantidad de movimiento o momento lineal (p. 206)
+
+### 66
+
+De acuerdo con el libro de Física, ¿a qué es igual la cantidad de movimiento lineal de un cuerpo?
+
+- A. Al producto de su masa por la magnitud de su velocidad.
+- B. Al producto de su masa por la magnitud de su aceleración.
+- C. Al cociente de su masa entre la magnitud de su velocidad.
+- D. Al producto de su peso por la altura a la que se encuentra.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 206
+**Subtema:** física · cantidad de movimiento
+
+<La cantidad de movimiento lineal de un cuerpo, o simplemente cantidad de movimiento, es igual al producto de su masa por la magnitud de su velocidad.>
+
+### 67
+
+De acuerdo con el libro de Física, ¿qué tipo de magnitud es la cantidad de movimiento?
+
+- A. Una magnitud vectorial cuya dirección corresponde a la de la velocidad.
+- B. Una magnitud escalar que sólo indica la rapidez del cuerpo.
+- C. Una magnitud vectorial cuya dirección es siempre vertical.
+- D. Una magnitud escalar cuyo valor depende del nivel de referencia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 206
+**Subtema:** física · cantidad de movimiento
+
+<La cantidad de movimiento es una magnitud vectorial cuya dirección corresponde a la de la velocidad.>
+
+### 68
+
+De acuerdo con el libro de Física, ¿en qué unidades se expresa la cantidad de movimiento?
+
+- A. En kg m/s
+- B. En kg m²/s
+- C. En kg m/s²
+- D. En kg m²/s²
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 206
+**Subtema:** física · cantidad de movimiento
+
+<Donde: C = cantidad de movimiento en kg m/s.>
+
+### 69
+
+De acuerdo con el libro de Física, ¿por qué se dice que un cuerpo ha experimentado una variación en su cantidad de movimiento?
+
+- A. Porque como resultado del impulso que recibe, éste cambia su velocidad.
+- B. Porque su masa aumenta al recibir el impulso.
+- C. Porque su peso cambia al modificarse la fuerza de gravedad.
+- D. Porque su momento de inercia se redistribuye en torno al eje.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 206
+**Subtema:** física · cantidad de movimiento
+
+<Como resultado del impulso que recibe un cuerpo, éste cambia su velocidad, motivo por el cual se dice que ha experimentado una variación en su cantidad de movimiento.>
+
+## Sub-lote 10 · Momento de una fuerza y magnitudes angulares (p. 212–213)
+
+### 70
+
+De acuerdo con el libro de Física, ¿qué otros nombres recibe el momento de una fuerza?
+
+- A. Momento estático, momento de torsión, o simplemente torca.
+- B. Momento angular, momento lineal, o simplemente impulso.
+- C. Momento de inercia, inercia rotacional, o simplemente inercia.
+- D. Momento cinético, momento potencial, o simplemente energía.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 212
+**Subtema:** física · momento angular
+
+<El momento de una fuerza, que también recibe los nombres de momento estático, momento de torsión, o simplemente torca (torcer).>
+
+### 71
+
+De acuerdo con el libro de Física, ¿cómo se define el momento de una fuerza?
+
+- A. Como la capacidad que tiene una fuerza para hacer girar un cuerpo.
+- B. Como la capacidad que tiene un cuerpo para oponerse a cambios en su rotación.
+- C. Como el producto de la masa por la magnitud de la velocidad angular.
+- D. Como el trabajo realizado por un momento de rotación resultante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 212
+**Subtema:** física · momento angular
+
+<Se define como la capacidad que tiene una fuerza para hacer girar un cuerpo. También se puede interpretar como la intensidad con que la fuerza, al actuar sobre un cuerpo, tiende a comunicarle un movimiento de rotación.>
+
+### 72
+
+De acuerdo con el libro de Física, ¿cómo se calcula la magnitud del momento de una fuerza?
+
+- A. Multiplicando el valor de la fuerza aplicada por el brazo de la palanca.
+- B. Dividiendo el valor de la fuerza aplicada entre el brazo de la palanca.
+- C. Multiplicando la masa por la magnitud de la aceleración angular.
+- D. Multiplicando el momento de inercia por la magnitud de la velocidad angular.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 212
+**Subtema:** física · momento angular
+
+<Se calcula multiplicando el valor de la fuerza aplicada (F) por el brazo de la palanca (r).>
+
+### 73
+
+De acuerdo con el libro de Física, ¿cuándo se considera positivo el momento de una fuerza?
+
+- A. Cuando su tendencia es hacer girar un cuerpo en sentido contrario al giro de las manecillas del reloj.
+- B. Cuando su tendencia es hacer girar un cuerpo en el sentido de las manecillas del reloj.
+- C. Cuando la fuerza aplicada es vertical y dirigida hacia arriba.
+- D. Cuando el brazo de la palanca es mayor que la fuerza aplicada.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 212
+**Subtema:** física · momento angular
+
+<Por convención, se considera que el momento de una fuerza es positivo cuando su tendencia es hacer girar un cuerpo en sentido contrario al giro de las manecillas del reloj y es negativo cuando la tendencia de la fuerza aplicada es hacer girar al cuerpo en el sentido de las manecillas del reloj.>
+
+### 74
+
+De acuerdo con el libro de Física, ¿en qué se puede expresar el desplazamiento angular?
+
+- A. En grados, revoluciones o radianes.
+- B. En metros, centímetros o kilómetros.
+- C. En joules, newtons o watts.
+- D. En rad/s, m/s o km/h.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 212
+**Subtema:** física · momento angular
+
+<Su desplazamiento angular (θ) se puede expresar en grados, revoluciones o radianes.>
+
+### 75
+
+De acuerdo con el libro de Física, ¿cuándo el ángulo será de un radián?
+
+- A. Si el arco tiene una longitud igual al radio.
+- B. Si el arco tiene una longitud igual al doble del radio.
+- C. Si el arco equivale a la circunferencia completa.
+- D. Si el arco forma un ángulo recto con el radio.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 212
+**Subtema:** física · momento angular
+
+<El ángulo (θ) será de un radián si el arco AB tiene una longitud igual al radio OA.>
+
+### 76
+
+De acuerdo con el libro de Física, ¿a cuántos grados equivale un radián?
+
+- A. 57.3°
+- B. 45°
+- C. 90°
+- D. 360°
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 212
+**Subtema:** física · momento angular
+
+<1 radián = 360°/2π = 57.3°.>
+
+### 77
+
+De acuerdo con el libro de Física, ¿qué representa la magnitud de la velocidad angular?
+
+- A. El cociente entre la magnitud del desplazamiento angular de un cuerpo y el tiempo que tarda en realizarlo.
+- B. El producto del momento de inercia por el desplazamiento angular.
+- C. El cociente entre la magnitud de la fuerza y el brazo de la palanca.
+- D. El producto de la masa por la magnitud de la velocidad lineal.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 212
+**Subtema:** física · momento angular
+
+<La magnitud de la velocidad angular (ω) representa el cociente entre la magnitud del desplazamiento angular (θ) de un cuerpo y el tiempo que tarda en realizarlo.>
+
+### 78
+
+De acuerdo con el libro de Física, ¿por qué la velocidad lineal también recibe el nombre de tangencial?
+
+- A. Porque la dirección del movimiento siempre es tangente a la circunferencia recorrida por la partícula.
+- B. Porque su magnitud disminuye a medida que aumenta el radio de la circunferencia.
+- C. Porque siempre apunta hacia el centro de la circunferencia.
+- D. Porque se mide en radianes por segundo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 213
+**Subtema:** física · momento angular
+
+<Esta velocidad lineal también recibe el nombre de tangencial, porque la dirección del movimiento siempre es tangente a la circunferencia recorrida por la partícula y representa la velocidad que llevaría ésta si saliera disparada tangencialmente.>
+
+### 79
+
+De acuerdo con el libro de Física, ¿cuándo se dice que un cuerpo que gira experimenta una aceleración angular?
+
+- A. Cuando su velocidad angular no permanece constante sino que varía.
+- B. Cuando su velocidad angular permanece constante durante todo el giro.
+- C. Cuando el cuerpo deja de girar por completo.
+- D. Cuando su momento de inercia permanece constante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 213
+**Subtema:** física · momento angular
+
+<Cuando durante el movimiento de un cuerpo que gira, su velocidad angular no permanece constante sino que varía, decimos que experimenta una aceleración angular (α).>
+
+## Sub-lote 11 · Inercia rotacional y momento angular (p. 213, 215)
+
+### 80
+
+De acuerdo con el libro de Física, ¿qué nombre recibe la propiedad de los cuerpos de oponerse a cambios en su estado de movimiento de rotación?
+
+- A. Inercia rotacional, también llamada momento de inercia.
+- B. Momento de una fuerza, también llamado torca.
+- C. Cantidad de movimiento angular, también llamada momento angular.
+- D. Precesión giroscópica, también llamada rigidez en el espacio.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 213
+**Subtema:** física · momento angular
+
+<La propiedad de los cuerpos de oponerse a cambios en su estado de movimiento de rotación recibe el nombre de inercia rotacional, también llamada momento de inercia.>
+
+### 81
+
+De acuerdo con el libro de Física, ¿con qué letra se representa la magnitud del momento de inercia?
+
+- A. Con la letra I.
+- B. Con la letra L.
+- C. Con la letra τ.
+- D. Con la letra ω.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 213
+**Subtema:** física · momento angular
+
+<Inercia rotacional, también llamada momento de inercia, y cuya magnitud se representa por la letra I.>
+
+### 82
+
+De acuerdo con el libro de Física, ¿qué mide el momento de inercia o inercia rotacional de un cuerpo?
+
+- A. Su resistencia a variar su estado de movimiento de rotación.
+- B. Su resistencia a variar su estado de movimiento de traslación.
+- C. La capacidad de una fuerza para hacer girar el cuerpo.
+- D. El trabajo realizado por el cuerpo durante su giro.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 215
+**Subtema:** física · momento angular
+
+<En términos generales podemos señalar que el momento de inercia, o inercia rotacional de un cuerpo, mide su resistencia a variar su estado de movimiento de rotación.>
+
+### 83
+
+De acuerdo con el libro de Física, ¿en qué se diferencia el momento de inercia de la inercia en el momento lineal?
+
+- A. En la inercia lineal la resistencia depende únicamente de su masa, mientras que la magnitud del momento de inercia depende, además de su masa, de la manera en que está distribuida en torno al eje de rotación.
+- B. En la inercia lineal la resistencia depende de la distribución de la masa, mientras que el momento de inercia depende sólo de la masa.
+- C. En que ambas dependen únicamente de la masa del cuerpo.
+- D. En que la inercia lineal depende de la velocidad angular y el momento de inercia del radio de giro.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 215
+**Subtema:** física · momento angular
+
+<Se diferencia de la inercia en el momento lineal en que, en ésta, su resistencia a variar su estado de movimiento depende únicamente de su masa, mientras que la magnitud del momento de inercia de un cuerpo depende, además de su masa, de la manera en que está distribuida en torno al eje de rotación.>
+
+> Ésta es la diferencia clave: la inercia lineal sólo depende de **cuánta** masa; el momento de inercia también de **dónde** está esa masa respecto al eje.
+
+### 84
+
+De acuerdo con el libro de Física, ¿cómo se define la magnitud de la cantidad de movimiento angular o momento angular de un cuerpo en rotación?
+
+- A. Es el producto de la magnitud de su momento de inercia por la magnitud de su velocidad angular.
+- B. Es el producto de su masa por la magnitud de su velocidad lineal.
+- C. Es el producto de la fuerza aplicada por el brazo de la palanca.
+- D. Es el cociente del momento de inercia entre la velocidad angular.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 215
+**Subtema:** física · momento angular
+
+<Por definición, la magnitud de la cantidad de movimiento angular, o simplemente magnitud del momento angular (L) de un cuerpo en rotación, es el producto de la magnitud de su momento de inercia (I) por la magnitud de su velocidad angular (ω).>
+
+### 85
+
+De acuerdo con el libro de Física, ¿cuáles son las unidades del momento angular en el Sistema Internacional?
+
+- A. kg m²/s
+- B. kg m/s
+- C. kg m²/s²
+- D. rad/s
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 215
+**Subtema:** física · momento angular
+
+<Las unidades de L en el Sistema Internacional son kg m²/s.>
+
+> No confundir con las de la cantidad de movimiento lineal, que son kg m/s.
+
+## Sub-lote 12 · Ley de la conservación del momento angular, ECR y giroscopio (p. 215–216)
+
+### 86
+
+De acuerdo con el libro de Física, ¿qué señala la ley de la conservación del momento angular?
+
+- A. Que el momento angular total permanece constante, si no actúa sobre el sistema un momento de rotación externo no equilibrado.
+- B. Que el momento angular total aumenta si no actúa sobre el sistema un momento de rotación externo.
+- C. Que el momento angular total siempre disminuye por efecto de la fricción.
+- D. Que el momento angular total es igual al producto de la masa por la velocidad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 215
+**Subtema:** física · momento angular
+
+<La ley de la conservación del momento angular señala que el momento angular total permanece constante, si no actúa sobre el sistema un momento de rotación externo no equilibrado.>
+
+### 87
+
+De acuerdo con el libro de Física, ¿de qué otra manera se enuncia la ley de la conservación del momento angular?
+
+- A. Cuando la suma de los momentos de rotación externos que actúan sobre un sistema de cuerpos es igual a cero, el momento angular permanece constante.
+- B. Cuando la suma de los momentos de rotación externos es diferente de cero, el momento angular permanece constante.
+- C. Cuando la suma de las fuerzas externas es igual a cero, la velocidad angular aumenta.
+- D. Cuando el momento de inercia es igual a cero, el momento angular se conserva.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 215
+**Subtema:** física · momento angular
+
+<También se enuncia así: cuando la suma de los momentos de rotación (Στ) externos que actúan sobre un sistema de cuerpos es igual a cero, el momento angular permanece constante.>
+
+### 88
+
+De acuerdo con el libro de Física, cuando una persona sentada en un banco giratorio extiende y levanta los brazos a una posición horizontal, ¿qué ocurre?
+
+- A. La magnitud de su momento de inercia aumenta y disminuye la magnitud de su velocidad angular.
+- B. La magnitud de su momento de inercia disminuye y aumenta la magnitud de su velocidad angular.
+- C. Tanto su momento de inercia como su velocidad angular aumentan.
+- D. Tanto su momento de inercia como su velocidad angular disminuyen.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 215
+**Subtema:** física · momento angular
+
+<Cuando los extiende y levanta a una posición horizontal, la magnitud de su momento de inercia (I) aumenta y disminuye la magnitud de su velocidad de rotación, es decir, la magnitud de su velocidad angular ω.>
+
+### 89
+
+De acuerdo con el libro de Física, cuando la inercia rotacional de un cuerpo en rotación cambia como consecuencia de una redistribución de su masa, ¿qué debe ocurrir?
+
+- A. Debe cambiar su rapidez de rotación para que se conserve su momento angular.
+- B. Su momento angular debe aumentar en la misma proporción.
+- C. Su velocidad angular permanece necesariamente constante.
+- D. Su momento angular se degrada convirtiéndose en calor.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 215
+**Subtema:** física · momento angular
+
+<Cuando la inercia rotacional o momento de inercia (I) de un cuerpo en rotación cambia como consecuencia de una redistribución de su masa, debe cambiar su rapidez de rotación para que se conserve su momento angular.>
+
+### 90
+
+De acuerdo con el libro de Física, ¿cuál es un ejemplo práctico de conservación del momento angular?
+
+- A. La Tierra, misma que durante millones de años ha girado con una magnitud de velocidad angular prácticamente constante.
+- B. Una bala que se incrusta en un bloque de madera.
+- C. Un paracaidista que alcanza su velocidad terminal.
+- D. Un péndulo que se detiene poco a poco por efecto de la fricción.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 215
+**Subtema:** física · momento angular
+
+<Un ejemplo práctico de conservación del momento angular es la Tierra, misma que durante millones de años ha girado con una magnitud de velocidad angular prácticamente constante.>
+
+### 91
+
+De acuerdo con el libro de Física, ¿a qué es igual el valor de la energía cinética rotacional de un cuerpo?
+
+- A. Al trabajo realizado por un momento de rotación resultante que acelera al cuerpo en su movimiento giratorio hasta que adquiere su velocidad final.
+- B. Al producto de su masa por la magnitud de su velocidad lineal.
+- C. Al producto de su momento de inercia por su aceleración angular.
+- D. A la mitad del momento angular del cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 216
+**Subtema:** física · momento angular
+
+<La energía cinética rotacional de un cuerpo tiene un valor igual al trabajo realizado por un momento de rotación resultante que acelera al cuerpo en su movimiento giratorio hasta que adquiere su velocidad final.>
+
+### 92
+
+De acuerdo con el libro de Física, ¿qué es un giroscopio?
+
+- A. Todo cuerpo en rotación, como es el caso de la Tierra, que tiene dos propiedades fundamentales: inercia giroscópica y precesión giroscópica.
+- B. Todo cuerpo en reposo que se opone a ser puesto a girar.
+- C. Un instrumento que sirve para medir la magnitud de la fuerza aplicada a un cuerpo.
+- D. Un cuerpo que únicamente puede girar en una sola dirección.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 216
+**Subtema:** física · momento angular
+
+<Un giroscopio es todo cuerpo en rotación (como es el caso de la Tierra) que tiene dos propiedades fundamentales: 1. Inercia giroscópica o rigidez en el espacio, es decir, tiene inercia rotacional. 2. Precesión giroscópica.>
+
+### 93
+
+De acuerdo con el libro de Física, ¿en qué consiste la precesión giroscópica?
+
+- A. En la inclinación del eje en un ángulo recto (90°) siempre que se presente una fuerza que tienda a cambiar el plano de rotación.
+- B. En la rigidez en el espacio que impide cualquier movimiento del eje de rotación.
+- C. En la disminución progresiva de la velocidad angular por efecto de la fricción.
+- D. En el aumento del momento de inercia al redistribuirse la masa del cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 216
+**Subtema:** física · momento angular
+
+<Precesión giroscópica, que consiste en la inclinación del eje en un ángulo recto (90°) siempre que se presente una fuerza que tienda a cambiar el plano de rotación.>
+
+> Se confunden las dos propiedades del giroscopio: la inercia giroscópica es la **rigidez en el espacio**; la precesión es la **inclinación del eje en ángulo recto**.
+
+### 94
+
+De acuerdo con el libro de Física, ¿dónde se utiliza especialmente la suspensión Cardán?
+
+- A. En los compases o brújulas de navegar de los barcos y submarinos.
+- B. En los motores de combustión de los automóviles.
+- C. En las turbinas de las presas hidroeléctricas.
+- D. En los aerogeneradores de alta potencia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 216
+**Subtema:** física · momento angular
+
+<Un soporte cardánico se fundamenta en el principio de la llamada suspensión Cardán, que se utiliza especialmente en los compases o brújulas de navegar de los barcos y submarinos.>
+
 ---
 
-**Reactivos en este archivo:** 65
+**Reactivos en este archivo:** 94
