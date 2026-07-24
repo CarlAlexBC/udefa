@@ -110,7 +110,7 @@ literal); el recuadro "Temas en debate" (p. 263, lorem ipsum); el ensayo de cier
 aplicación). El capítulo termina en la p. 264 (la 265 abre el capítulo 13, que no
 está en el temario; el siguiente del temario es el 31).
 
-**Pendiente:** el capítulo 12 está cerrado en 131 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. De la materia de Biología siguen sin empezar los capítulos 31, 32, 35, 36 y 37, y este archivo —el último capítulo escrito— sostiene ese pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** ninguno. El capítulo 12 está cerrado en 131 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 31 (`biologia-31-tejidos-organos-sistemas.md`).
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
