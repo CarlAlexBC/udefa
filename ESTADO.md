@@ -18,7 +18,7 @@ _Regenerado el 2026-07-24._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 3914 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
+| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 3929 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -64,7 +64,8 @@ _Regenerado el 2026-07-24._
 | algebra-baldor · Álgebra · Capítulo VI · Productos y cocientes notables | 28 | ninguno. El capítulo VI está cerrado y con él **el temario del HCM** (`ALG-02-2026`): Preliminares y los capítulos I a VI, páginas impresas 5 a 111. La **EME** (`ÁLGE-03-2026`) pide además el capítulo VIII, en `algebra-08-ecuaciones-primer-grado.md`. |
 | algebra-baldor · Álgebra · Capítulo VIII · Ecuaciones enteras de primer grado con una incógnita | 34 | ninguno. El capítulo VIII (pp. 122–130) está cerrado. Lo que falta de Álgebra —los capítulos X, XVIII, XX, XXIV y (la EMOS) XXV, que piden EMM/EMO/EMOS— lo declara el archivo del capítulo en curso, hoy `algebra-10-descomposicion-factorial.md`. |
 | algebra-baldor · Álgebra · Capítulo X · Descomposición factorial | 46 | el capítulo X (los diez casos, pp. 143–170, más el principio para combinar casos) queda cerrado; los ejercicios de descomposición en 3, 4, 5 y 6 factores (arts. 158–159 en adelante) son práctica y no llevan reactivos. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-18-formulas.md`. |
-| algebra-baldor · Álgebra · Capítulo XVIII · Fórmulas | 15 | el capítulo XVIII está cerrado. Lo que falta de Álgebra son los capítulos **XX (Funciones), XXIV y XXV (Ecuaciones simultáneas)**, que piden EMM/EMO/EMOS; mientras no se abra el archivo del XX, éste sostiene el pendiente de Álgebra. |
+| algebra-baldor · Álgebra · Capítulo XVIII · Fórmulas | 15 | el capítulo XVIII está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-20-funciones.md`. |
+| algebra-baldor · Álgebra · Capítulo XX · Funciones | 15 | sigue el Capítulo XX desde la **variación directa (art. 259, p. 284)** en adelante —variación inversa, conjunta y directa e inversa a la vez, el resumen de las variaciones y la representación gráfica de las funciones (coordenadas cartesianas, abscisa y ordenada)— hasta cerrar el capítulo. Después faltan de Álgebra los capítulos **XXIV y XXV (Ecuaciones simultáneas)**, que piden EMM/EMO/EMOS. Este archivo sostiene el pendiente de Álgebra mientras el capítulo en curso sea el XX. |
 | fisica-perez-montiel · Física · Unidad 1 · Introducción al conocimiento de la Física | 20 | ninguno. La Unidad 1 (temas 4–7, únicos que pide el temario) queda cerrada. Lo que falta de Física para la EMO es la **Unidad 2 · Unidades y mediciones** (temas 1, 3, 4 y 8), en `fisica-02-unidades-mediciones.md`. |
 | fisica-perez-montiel · Física · Unidad 2 · Unidades y mediciones | 15 | ninguno. La Unidad 2 (temas 1, 3, 4 y 8, únicos que pide el temario) queda cerrada. Con ella se cierran las **dos unidades que la EMO (`FIS-03-2026`) pide por encima de lo que ya existía** en esta carpeta (Unidades 1 y 2). Las demás unidades que pide la EMO —4, 5, 6, 8 y 11— ya están escritas en esta carpeta; conviene revisar a nivel de tema que su selección coincida con la de `FIS-03`, pues se escribieron para el temario `FG-03` de la EMOS. |
 | fisica-perez-montiel · Física · Unidad 3 · Vectores | 48 | ninguno. La Unidad 3 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
@@ -73,7 +74,7 @@ _Regenerado el 2026-07-24._
 | fisica-perez-montiel · Física · Unidad 6 · Materia y sus Propiedades | 49 | ninguno. La Unidad 6 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 8 · Hidrostática | 45 | ninguno. La Unidad 8 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 11 · Termología | 49 | ninguno de esta unidad. Con la Unidad 11 se cierra la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: quedan cerradas las Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
-| **Total** | **3914** | |
+| **Total** | **3929** | |
 
 ## Personalidad (remaster)
 

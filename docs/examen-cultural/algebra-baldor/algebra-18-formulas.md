@@ -39,10 +39,8 @@ llevan reactivos por la norma de teoría sobre práctica.
 - Empleo de fórmulas en casos prácticos (art. 241) y cambio del sujeto de una
   fórmula (art. 242).
 
-**Pendiente:** el capítulo XVIII está cerrado. Lo que falta de Álgebra son los
-capítulos **XX (Funciones), XXIV y XXV (Ecuaciones simultáneas)**, que piden
-EMM/EMO/EMOS; mientras no se abra el archivo del XX, éste sostiene el pendiente de
-Álgebra.
+**Pendiente:** el capítulo XVIII está cerrado. Lo que falta de Álgebra lo declara el
+archivo del capítulo en curso — hoy `algebra-20-funciones.md`.
 
 ## Criterio: teoría sobre práctica
 
@@ -307,4 +305,4 @@ Podemos despejar cualquiera de los elementos que entran en ella, considerándolo
 ---
 
 **Reactivos en este archivo:** 15
-**Pendiente:** el capítulo XVIII (Fórmulas, pp. 270–275, arts. 237–242) queda cerrado. Lo que falta de Álgebra son los capítulos XX (Funciones), XXIV y XXV (Ecuaciones simultáneas), que piden EMM/EMO/EMOS; mientras no se abra el archivo del XX, éste sostiene el pendiente de Álgebra.
+**Pendiente:** el capítulo XVIII (Fórmulas, pp. 270–275, arts. 237–242) queda cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-20-funciones.md`.
