@@ -83,7 +83,7 @@ Aunque la idea de Demócrito no fue aceptada por muchos de sus contemporáneos (
 
 ### 3
 
-Según el libro de Química, ¿qué significa la palabra *átomos*, con la que Demócrito denominó a las partículas de la materia?
+De conformidad con el libro de Química, ¿qué significa la palabra *átomos*, con la que Demócrito denominó a las partículas de la materia?
 
 - A. Indivisible
 - B. Invisible
@@ -149,7 +149,7 @@ Todos los átomos de un elemento dado son idénticos, tienen el mismo tamaño, m
 
 ### 7
 
-Según el libro de Química, según la teoría atómica de Dalton, ¿cómo están los átomos en cualquier compuesto dado?
+En relación con el libro de Química, según la teoría atómica de Dalton, ¿cómo están los átomos en cualquier compuesto dado?
 
 - A. Los compuestos están formados por átomos de más de un elemento, y los átomos presentes siempre están en la misma proporción
 - B. Los compuestos están formados por átomos de un solo elemento en proporción variable
@@ -213,7 +213,7 @@ Esta idea es una extensión de una ley publicada en 1799 por Joseph Proust, un q
 
 ### 11
 
-Según el libro de Química, ¿qué establece la ley de las proporciones definidas de Proust?
+De conformidad con el libro de Química, ¿qué establece la ley de las proporciones definidas de Proust?
 
 - A. Que diferentes muestras de un mismo compuesto siempre contienen sus elementos constituyentes en la misma proporción en masa
 - B. Que un mismo compuesto puede contener sus elementos en proporciones de masa distintas según su origen
@@ -277,7 +277,7 @@ Sobre la base de la teoría atómica de Dalton, podemos definir un átomo como l
 
 ### 15
 
-Según el libro de Química, ¿cuáles son las tres partículas subatómicas cuyo descubrimiento reveló que el átomo posee una estructura interna?
+En relación con el libro de Química, ¿cuáles son las tres partículas subatómicas cuyo descubrimiento reveló que el átomo posee una estructura interna?
 
 - A. Electrones, protones y neutrones
 - B. Electrones, positrones y neutrones
@@ -337,7 +337,7 @@ Debido a que el rayo catódico es atraído por la placa que tiene cargas positiv
 
 ### 19
 
-Según el libro de Química, ¿qué determinó el físico inglés J. J. Thomson usando un tubo de rayos catódicos?
+De conformidad con el libro de Química, ¿qué determinó el físico inglés J. J. Thomson usando un tubo de rayos catódicos?
 
 - A. La relación entre la carga eléctrica y la masa de un electrón individual
 - B. El valor exacto de la carga de un electrón
@@ -401,7 +401,7 @@ Puramente por accidente, descubrió que la exposición de placas fotográficas e
 
 ### 23
 
-Según el libro de Química, ¿quién sugirió el nombre de *radiactividad* y qué describe ese término?
+En relación con el libro de Química, ¿quién sugirió el nombre de *radiactividad* y qué describe ese término?
 
 - A. Marie Curie, para describir la emisión espontánea de partículas y/o radiación
 - B. Antoine Becquerel, para describir la emisión de rayos X por el uranio
@@ -461,7 +461,7 @@ Los rayos beta, o partículas beta, son electrones y son desviados por la placa 
 
 ### 27
 
-Según el libro de Química, ¿qué característica tienen los rayos gamma?
+De conformidad con el libro de Química, ¿qué característica tienen los rayos gamma?
 
 - A. Son rayos de alta energía que no tienen carga y no se ven afectados por un campo externo
 - B. Son partículas cargadas positivamente, desviadas por la placa positiva
@@ -495,7 +495,7 @@ Thomson propuso que se podía pensar en un átomo como una esfera de materia pos
 
 ### 29
 
-Según el libro de Química, ¿qué hizo Ernest Rutherford en 1910 para investigar la estructura de los átomos?
+En relación con el libro de Química, ¿qué hizo Ernest Rutherford en 1910 para investigar la estructura de los átomos?
 
 - A. Bombardeó láminas muy delgadas de oro y otros metales con partículas alfa de una fuente radiactiva
 - B. Midió la carga de pequeñas gotas de aceite en un campo eléctrico
@@ -525,7 +525,7 @@ Según Rutherford, la mayor parte del átomo debe ser espacio vacío. […] Las 
 
 ### 31
 
-Según el libro de Química, ¿qué es el núcleo del átomo?
+De conformidad con el libro de Química, ¿qué es el núcleo del átomo?
 
 - A. Un núcleo central y denso dentro del átomo
 - B. La nube de electrones que rodea al átomo
@@ -540,7 +540,7 @@ Las cargas positivas del átomo, propuso Rutherford, están todas concentradas e
 
 ### 32
 
-En relación con el libro de Química, ¿cómo se llaman las partículas cargadas positivamente del núcleo y qué masa tienen respecto al electrón?
+En relación con el libro de Química, en el capítulo 2 sobre los átomos, las moléculas y los iones, ¿cómo se llaman las partículas cargadas positivamente del núcleo y qué masa tienen respecto al electrón?
 
 - A. Protones; su masa es unas 1840 veces la del electrón con carga opuesta
 - B. Neutrones; su masa es igual a la del electrón
@@ -555,7 +555,7 @@ Las partículas cargadas positivamente en el núcleo se llaman protones. En expe
 
 ### 33
 
-Según el libro de Química, ¿cómo se distribuye la masa del átomo respecto a su núcleo?
+En relación con el libro de Química, ¿cómo se distribuye la masa del átomo respecto a su núcleo?
 
 - A. La masa del núcleo constituye la mayor parte de la masa de todo el átomo
 - B. La masa se reparte por igual entre el núcleo y los electrones
@@ -591,7 +591,7 @@ Puedes apreciar los tamaños relativos de un átomo y su núcleo imaginando que 
 
 ### 35
 
-Según el libro de Química, ¿quién proporcionó en 1932 la prueba de la existencia del neutrón y cómo lo hizo?
+De conformidad con el libro de Química, ¿quién proporcionó en 1932 la prueba de la existencia del neutrón y cómo lo hizo?
 
 - A. James Chadwick, al bombardear una fina lámina de berilio con partículas alfa
 - B. Ernest Rutherford, al dispersar partículas alfa con una lámina de oro
