@@ -1,0 +1,9 @@
+{
+  "_nota": "Puente CURADO: codigo de materia -> libro (slug) + capitulos que pide ese temario. Es la pieza que une la DEMANDA (temarios.json, un codigo por carrera/materia) con la OFERTA (arbol Libro/Capitulo/Tema por slug). Se cura a mano a partir de los temas[] de temarios.json (que vienen sucios del PDF) y se valida contra el arbol de oferta con scripts/resolver-cultural.ts. NO auto-parsear los temas[]. Solo estan los codigos cuyo libro ya existe en la oferta; los demas se agregan cuando se escriba su libro.",
+  "puente": {
+    "ESP-01-2026": { "slug": "espanol-zarzar", "capitulos": [1, 3] },
+    "ALG-02-2026": { "slug": "algebra-baldor", "capitulos": [1, 2, 3, 4, 5, 6] },
+    "HIST-03-2026": { "slug": "historia-rodriguez", "capitulos": [6] },
+    "GEO-04-2026": { "slug": "geografia-tamayo", "capitulos": [1, 3, 4, 5] }
+  }
+}
