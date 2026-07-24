@@ -1,19 +1,26 @@
 # Física · Unidad 6 · Materia y sus Propiedades
 
-**Materia:** `FG-03-2026` · Física General
-**Unidad del libro:** Unidad 6. Materia y sus Propiedades → **sólo los 3 temas**
-que pide el temario (1. Estructura de la Materia · 2. Estados de Agregación ·
-3. Propiedades Generales o Extensivas). **NO entra** el tema 4 (Propiedades
-Características o Intensivas, p. 251 en adelante), y por tanto **no entra la
-densidad**, aunque caiga en la misma página.
+**Materia:** **cuatro planteles** piden esta unidad del mismo libro, con tres
+claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM) y `FÍS-02-2026`
+(EMMA). La EMA no pide esta unidad; la EMOS tampoco.
+**Unidad del libro:** Unidad 6. Materia y sus Propiedades → los temas 1, 2 y 3.
+**NO entra** el tema 4 (Propiedades Características o Intensivas, p. 251 en
+adelante), y por tanto **no entra la densidad**, aunque caiga en la misma página.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
-> **libro**, no a una escuela. Quién lo pide es cosa del temario: hoy estos temas
-> los piden los temarios de la **EMO** y la **EMOS**, y si mañana otra carrera o
-> plantel pide el mismo libro y los mismos temas, reutiliza estos mismos reactivos
-> sin duplicarlos. La línea `**Referencia:**` (libro, edición, página) y
-> `**Subtema:**` de cada reactivo son la llave con la que el temario los manda a
-> llamar.
+> **libro**, no a una escuela. Quién lo pide es cosa del temario, y **no todos
+> piden lo mismo**:
+>
+> | Tema de la Unidad 6 | EMO<br>`FIS-03` | EMM<br>`FG-03` | EMMA<br>`FÍS-02` |
+> |---|:---:|:---:|:---:|
+> | 1 · Estructura de la materia | sí | sí | sí |
+> | 2 · Estados de agregación | sí | sí | sí |
+> | 3 · Propiedades generales o extensivas | — | sí | sí |
+>
+> La EMO pide sólo los temas 1 y 2; la EMM y la EMMA piden además el 3. Por eso
+> **la línea `**Tema:**` de cada reactivo es obligatoria** (`U6 t1`, `U6 t3`…):
+> sin ella la EMO se llevaría también los reactivos del tema 3 que no pidió.
+> `**Referencia:**` (libro, edición, página) y `**Subtema:**` completan la llave.
 
 ## Libro
 
@@ -41,15 +48,12 @@ que el temario no pide, aunque su primer concepto —la densidad— empiece en l
 misma p. 251 donde termina el tema 3. También se saltó el ejemplo resuelto de la
 masa molecular del Na₂SO₄ (p. 247), por ser un problema de cálculo.
 
-- **Sub-lote 1 · Estructura de la Materia (p. 244–247)**
-- **Sub-lote 2 · Estados de Agregación (p. 248–249)**
-- **Sub-lote 3 · Propiedades Generales o Extensivas (p. 249–251)**
+- **Sub-lote 1 · Estructura de la Materia (p. 244–247)** — tema 1
+- **Sub-lote 2 · Estados de Agregación (p. 248–249)** — tema 2
+- **Sub-lote 3 · Propiedades Generales o Extensivas (p. 249–251)** — tema 3
 
-**Pendiente:** ninguno. La Unidad 6 está cerrada, y con la Unidad 11 quedó
-cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la
-EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus
-Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y
-conceptos, saltando ejercicios y problemas resueltos.
+**Pendiente:** ninguno. La Unidad 6 queda cerrada para la EMO (temas 1, 2), la
+EMM y la EMMA (temas 1, 2, 3).
 
 ## Cómo se escriben estos reactivos
 
@@ -74,6 +78,7 @@ De acuerdo con el libro de Física, ¿a qué conclusión llegó Tales de Mileto?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Tales, filósofo, astrónomo y geómetra, nacido en Mileto (Asia Menor), el año 640 a. C., llegó a la conclusión de que el agua es necesaria para todas las cosas vivientes.>
@@ -89,6 +94,7 @@ De acuerdo con el libro de Física, según Empédocles la materia no estaba comp
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <De acuerdo con este sabio, la materia no estaba compuesta de una sola sustancia sino de cuatro "elementos": aire, agua, tierra y fuego.>
@@ -104,6 +110,7 @@ De acuerdo con el libro de Física, la palabra átomo, en griego, significa:
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <A dicha partícula la denominaron átomo, palabra que en griego significa: sin división.>
@@ -119,6 +126,7 @@ De acuerdo con el libro de Física, ¿quiénes fueron los primeros en considerar
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <El griego Leucipo (460-370 a. C.) y su discípulo Demócrito, fueron los primeros en considerar que si un cuerpo se dividiera cada vez en trozos más pequeños, llegaría un momento en que se tendría una partícula tan pequeña que ya no sería posible dividirla más.>
@@ -134,6 +142,7 @@ De acuerdo con el libro de Física, ¿quién postuló una hipótesis lógica ace
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Fue un químico y físico inglés, John Dalton (1766-1844), quien postuló una hipótesis lógica acerca de la existencia de los átomos.>
@@ -149,6 +158,7 @@ De acuerdo con el libro de Física, ¿qué dice la Ley de la Conservación de la
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Postuló la Ley de la Conservación de la Materia, que dice: La materia no puede crearse ni destruirse.>
@@ -164,6 +174,7 @@ De acuerdo con el libro de Física, ¿quién postuló la Ley de la Conservación
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Antoine Lavoisier, químico francés (1743-1794), uno de los creadores de la química moderna [...] Postuló la Ley de la Conservación de la Materia, que dice: La materia no puede crearse ni destruirse.>
@@ -179,6 +190,7 @@ De acuerdo con el libro de Física, el principio de que las sustancias específi
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Proust observó que las sustancias específicas siempre contienen la misma proporción en la masa de sus elementos. [...] Este principio se conoce como Ley de las Proporciones Definidas o Ley de Proust.>
@@ -196,6 +208,7 @@ De acuerdo con el libro de Física, según la Teoría Atómica de Dalton, toda m
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <a) Toda materia está formada por partículas diminutas llamadas átomos. Éstos son indivisibles.>
@@ -211,6 +224,7 @@ De acuerdo con el libro de Física, según los postulados de la Teoría Atómica
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <b) Todos los átomos de un mismo elemento tienen idéntico peso y son iguales entre sí.>
@@ -226,6 +240,7 @@ De acuerdo con el libro de Física, según los postulados de la Teoría Atómica
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <c) Los átomos de diferentes elementos tienen distinto peso.>
@@ -241,6 +256,7 @@ De acuerdo con el libro de Física, ¿qué es un átomo?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Un átomo es la unidad más pequeña posible de un elemento químico.>
@@ -258,6 +274,7 @@ De acuerdo con el libro de Física, los átomos se encuentran constituidos por p
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Los átomos se encuentran constituidos por partículas elementales: electrones, protones y neutrones.>
@@ -273,6 +290,7 @@ De acuerdo con el libro de Física, ¿qué partículas tienen una propiedad llam
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Los electrones y los protones tienen una propiedad llamada carga eléctrica.>
@@ -288,6 +306,7 @@ De acuerdo con el libro de Física, ¿qué es una molécula?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Una molécula es la partícula más pequeña de una sustancia que mantiene las propiedades químicas específicas de la misma.>
@@ -303,6 +322,7 @@ De acuerdo con el libro de Física, la hipótesis de Avogadro establece que, en 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <La hipótesis de Avogadro establece que, en las mismas condiciones de temperatura y presión, iguales volúmenes gaseosos contienen igual número de moléculas.>
@@ -318,6 +338,7 @@ De acuerdo con el libro de Física, ¿quién estableció la Ley de las Proporcio
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <John Dalton estableció una ley que supuso sería cierta si su teoría era correcta. Esta ley no fue resultado de datos obtenidos experimentalmente y recibe el nombre de Ley de las Proporciones Múltiples.>
@@ -333,6 +354,7 @@ De acuerdo con el libro de Física, ¿qué es un cuerpo?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Es todo aquello que ocupa un lugar en el espacio, por ejemplo, una mesa, un coche, la Luna, el Sol, la Tierra, una naranja, un clip [...]>
@@ -348,6 +370,7 @@ De acuerdo con el libro de Física, ¿qué es una sustancia?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Es cualquier tipo de materia que presenta características que la distinguen de otras.>
@@ -363,6 +386,7 @@ De acuerdo con el libro de Física, ¿qué es un elemento?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 246
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Es una muestra homogénea de la materia, compuesta de átomos idénticos. Por tanto, todos los átomos de un elemento determinado deben tener el mismo número atómico.>
@@ -378,6 +402,7 @@ De acuerdo con el libro de Física, ¿cuántos elementos se han descubierto hast
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 246
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Hasta el momento se han descubierto 118, metales y no metales.>
@@ -393,6 +418,7 @@ De acuerdo con el libro de Física, ¿qué es un compuesto?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 246
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Es una muestra homogénea de materia constituida por dos o más átomos diferentes en determinada proporción. Algunos ejemplos son: el agua, el azúcar, la sal o el dióxido de carbono.>
@@ -408,6 +434,7 @@ De acuerdo con el libro de Física, ¿quién ordenó todos los elementos químic
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 246
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Mendeleiev ordenó todos los elementos químicos conocidos en su época en una tabla, denominada tabla periódica, de características muy parecidas a la que utilizamos actualmente.>
@@ -423,6 +450,7 @@ De acuerdo con el libro de Física, si se suman las masas atómicas de todos los
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 247
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Si se suman las masas atómicas de todos los átomos de una molécula, la resultante es la masa de la molécula, esto es, masa molecular.>
@@ -438,6 +466,7 @@ De acuerdo con el libro de Física, ¿qué número se denomina número de Avogad
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 247
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Al número 6.02 × 10²³ se le denomina número de Avogadro, en honor al físico italiano Amadeo Avogadro (1776-1856).>
@@ -453,6 +482,7 @@ De acuerdo con el libro de Física, un mol de cualquier especie química, ya sea
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 247
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <Un mol de cualquier especie química, ya sea atómica, iónica o molecular, contiene 6.02 × 10²³ partículas individuales.>
@@ -468,6 +498,7 @@ De acuerdo con el libro de Física, el mol es una unidad o patrón de medida ace
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 247
+**Tema:** U6 t1 · estructura de la materia
 **Subtema:** Física · Estructura de la materia
 
 <El mol es una unidad o patrón de medida aceptado por el Sistema Internacional para medir la cantidad de sustancia.>
@@ -487,6 +518,7 @@ De acuerdo con el libro de Física, ¿en cuántos y cuáles estados físicos se 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 248
+**Tema:** U6 t2 · estados de agregación
 **Subtema:** Física · Estados de agregación
 
 <La materia se presenta en cuatro estados físicos: sólido, líquido, gaseoso y plasma.>
@@ -502,6 +534,7 @@ De acuerdo con el libro de Física, una sustancia se encuentra en estado sólido
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 248
+**Tema:** U6 t2 · estados de agregación
 **Subtema:** Física · Estados de agregación
 
 <a) Sólido si la energía cinética de sus moléculas es menor que la energía potencial (cohesión) que existe entre ellas.>
@@ -517,6 +550,7 @@ De acuerdo con el libro de Física, una sustancia se encuentra en estado líquid
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 248
+**Tema:** U6 t2 · estados de agregación
 **Subtema:** Física · Estados de agregación
 
 <b) Líquido si las energías cinética y potencial de sus moléculas son aproximadamente iguales.>
@@ -532,6 +566,7 @@ De acuerdo con el libro de Física, una sustancia se encuentra en estado gaseoso
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 248
+**Tema:** U6 t2 · estados de agregación
 **Subtema:** Física · Estados de agregación
 
 <c) Gaseoso si la energía cinética de las moléculas es mayor que su energía potencial.>
@@ -547,6 +582,7 @@ De acuerdo con el libro de Física, el plasma, denominado cuarto estado de la ma
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 248
+**Tema:** U6 t2 · estados de agregación
 **Subtema:** Física · Estados de agregación
 
 <El plasma, denominado cuarto estado de la materia, se produce al aumentar la temperatura a más de 5 000 °C.>
@@ -562,6 +598,7 @@ De acuerdo con el libro de Física, en el plasma las moléculas se rompen, los �
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 248
+**Tema:** U6 t2 · estados de agregación
 **Subtema:** Física · Estados de agregación
 
 <[...] los átomos chocan en forma violenta y pierden sus electrones, lo cual da origen a un gas extraordinariamente ionizado, mezcla de iones y electrones.>
@@ -577,6 +614,7 @@ De acuerdo con el libro de Física, el movimiento browniano fue descubierto en 1
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
+**Tema:** U6 t2 · estados de agregación
 **Subtema:** Física · Estados de agregación
 
 <[...] uno es el denominado movimiento browniano, descubierto en 1827 por el científico escocés Robert Brown (1773-1858).>
@@ -592,6 +630,7 @@ De acuerdo con el libro de Física, el movimiento de pequeñas partículas en su
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
+**Tema:** U6 t2 · estados de agregación
 **Subtema:** Física · Estados de agregación
 
 <El movimiento de pequeñas partículas en suspensión, originado por los golpes de las moléculas en movimiento caótico o desordenado, recibe el nombre de movimiento browniano.>
@@ -607,6 +646,7 @@ De acuerdo con el libro de Física, el fenómeno de difusión se explica debido 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
+**Tema:** U6 t2 · estados de agregación
 **Subtema:** Física · Estados de agregación
 
 <El fenómeno de difusión también se explica debido al movimiento caótico de las moléculas.>
@@ -622,6 +662,7 @@ De acuerdo con el libro de Física, el movimiento caótico de las moléculas que
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
+**Tema:** U6 t2 · estados de agregación
 **Subtema:** Física · Estados de agregación
 
 <Dicho movimiento se nota más en un gas, pues en un líquido las moléculas están situadas más cerca unas de otras y las fuerzas de atracción entre ellas frenan la difusión.>
@@ -641,6 +682,7 @@ De acuerdo con el libro de Física, las propiedades que presentan los cuerpos si
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
+**Tema:** U6 t3 · propiedades generales o extensivas de la materia
 **Subtema:** Física · Propiedades generales de la materia
 
 <Las propiedades que presentan los cuerpos sin distinción reciben el nombre de propiedades generales, por tal motivo no posibilitan diferenciar una sustancia de otra.>
@@ -656,6 +698,7 @@ De acuerdo con el libro de Física, ¿cuáles son propiedades generales o extens
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
+**Tema:** U6 t3 · propiedades generales o extensivas de la materia
 **Subtema:** Física · Propiedades generales de la materia
 
 <[...] su valor depende de la cantidad de materia, tal es el caso de la masa, el peso, el volumen, la inercia y la energía.>
@@ -671,6 +714,7 @@ De acuerdo con el libro de Física, a algunas propiedades generales de la materi
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
+**Tema:** U6 t3 · propiedades generales o extensivas de la materia
 **Subtema:** Física · Propiedades generales de la materia
 
 <A algunas de las propiedades generales de la materia también se les da el nombre de propiedades extensivas, pues su valor depende de la cantidad de materia [...]>
@@ -686,6 +730,7 @@ De acuerdo con el libro de Física, la porción de espacio que ocupa todo cuerpo
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
+**Tema:** U6 t3 · propiedades generales o extensivas de la materia
 **Subtema:** Física · Propiedades generales de la materia
 
 <Todo cuerpo ocupa una porción de espacio llamado volumen.>
@@ -701,6 +746,7 @@ De acuerdo con el libro de Física, ¿qué es la masa?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
+**Tema:** U6 t3 · propiedades generales o extensivas de la materia
 **Subtema:** Física · Propiedades generales de la materia
 
 <Es la cantidad de materia contenida en un cuerpo.>
@@ -716,6 +762,7 @@ De acuerdo con el libro de Física, ¿qué representa el peso de un cuerpo?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 250
+**Tema:** U6 t3 · propiedades generales o extensivas de la materia
 **Subtema:** Física · Propiedades generales de la materia
 
 <El peso de un cuerpo representa la fuerza gravitacional con la que es atraída la masa de dicho cuerpo.>
@@ -731,6 +778,7 @@ De acuerdo con el libro de Física, por representar una fuerza, el peso de un cu
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 250
+**Tema:** U6 t3 · propiedades generales o extensivas de la materia
 **Subtema:** Física · Propiedades generales de la materia
 
 <Por representar una fuerza, el peso de un cuerpo se considera una magnitud vectorial, cuya dirección es vertical y su sentido está dirigido siempre hacia el centro de la Tierra.>
@@ -746,6 +794,7 @@ De acuerdo con el libro de Física, ¿cuál es la unidad del peso en el Sistema 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 250
+**Tema:** U6 t3 · propiedades generales o extensivas de la materia
 **Subtema:** Física · Propiedades generales de la materia
 
 <P = mg. Su unidad es el newton (N) en el Sistema Internacional, mientras en el Sistema MKS técnico la unidad es el kilogramo-fuerza (kg_f): 1 kg_f = 9.8 N.>
@@ -761,6 +810,7 @@ De acuerdo con el libro de Física, ¿qué es la inercia?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 250
+**Tema:** U6 t3 · propiedades generales o extensivas de la materia
 **Subtema:** Física · Propiedades generales de la materia
 
 <Es la oposición que presentan los cuerpos a variar su estado, ya sea de reposo o de movimiento.>
@@ -776,6 +826,7 @@ De acuerdo con el libro de Física, ¿cuál es una medida cuantitativa de la ine
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 250
+**Tema:** U6 t3 · propiedades generales o extensivas de la materia
 **Subtema:** Física · Propiedades generales de la materia
 
 <Una medida cuantitativa de la inercia de un cuerpo es su masa, pues la masa de un cuerpo es una medida de su inercia. Por tanto, a mayor masa, mayor inercia.>
@@ -791,6 +842,7 @@ De acuerdo con el libro de Física, la energía es una propiedad que caracteriza
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 251
+**Tema:** U6 t3 · propiedades generales o extensivas de la materia
 **Subtema:** Física · Propiedades generales de la materia
 
 <Es una propiedad que caracteriza la interacción de los componentes de un sistema físico que tiene la capacidad de realizar un trabajo.>
@@ -806,6 +858,7 @@ De acuerdo con el libro de Física, ¿cuál es la fórmula relativista que relac
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 251
+**Tema:** U6 t3 · propiedades generales o extensivas de la materia
 **Subtema:** Física · Propiedades generales de la materia
 
 <Por tanto, la materia puede convertirse en energía y viceversa. La fórmula relativista que relaciona a la masa con la energía es: E = mc².>

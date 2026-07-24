@@ -1,23 +1,32 @@
 # Física · Unidad 11 · Termología
 
-**Materia:** `FG-03-2026` · Física General
-**Unidad del libro:** Unidad 11. Termología → **los 7 temas** que piden los
-temarios (1. Diferencia entre calor y temperatura · 2. Medida de la temperatura ·
-3. Diferentes escalas termométricas: Celsius, Kelvin y Fahrenheit · 5. Formas de
-propagación del calor · **6. Energía solar, su medida y transformación** · 7.
-Unidades para medir el calor · 12. Los gases y sus leyes). El tema **6 lo pide la
-EMO (`FIS-03`)**, no la EMOS (`FG-03`); los demás los piden ambas. **NO entran**
-los temas 4 (Dilatación de los cuerpos), 8 (Capacidad calorífica), 9 (Calor
-específico), 10 (Calor latente), 11 (Calor cedido y absorbido) ni 13
+**Materia:** **cuatro planteles** piden esta unidad del mismo libro, con tres
+claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM) y `FIS-02-2026` (EMA).
+La EMMA no pide esta unidad; la EMOS tampoco.
+**Unidad del libro:** Unidad 11. Termología → los temas 1, 2, 3, 4, 5, 6, 7 y 12
+sumando los tres temarios. **NO entran** los temas 8 (Capacidad calorífica), 9
+(Calor específico), 10 (Calor latente), 11 (Calor cedido y absorbido) ni 13
 (Termodinámica), aunque caigan en las mismas páginas.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
-> **libro**, no a una escuela. Quién lo pide es cosa del temario: hoy estos temas
-> los piden los temarios de la **EMO** y la **EMOS**, y si mañana otra carrera o
-> plantel pide el mismo libro y los mismos temas, reutiliza estos mismos reactivos
-> sin duplicarlos. La línea `**Referencia:**` (libro, edición, página) y
-> `**Subtema:**` de cada reactivo son la llave con la que el temario los manda a
-> llamar.
+> **libro**, no a una escuela. Quién lo pide es cosa del temario, y **cada
+> plantel pide una selección distinta**:
+>
+> | Tema de la Unidad 11 | EMO<br>`FIS-03` | EMM<br>`FG-03` | EMA<br>`FIS-02` |
+> |---|:---:|:---:|:---:|
+> | 1 · Diferencia entre calor y temperatura | sí | sí | sí |
+> | 2 · Medida de la temperatura | sí | sí | — |
+> | 3 · Escalas Celsius, Kelvin y Fahrenheit | sí | sí | sí |
+> | 4 · Dilatación de los cuerpos | — | — | **sí — NO ESCRITO** |
+> | 5 · Formas de propagación del calor | sí | sí | sí |
+> | 6 · Energía solar, su medida y transformación | sí | — | — |
+> | 7 · Unidades para medir el calor | sí | sí | — |
+> | 12 · Los gases y sus leyes | sí | sí | sí |
+>
+> El tema 6 sólo lo pide la EMO; el tema 4 sólo la EMA (**y no está escrito** —
+> el libro lo trata en pp. 337–343 y aquí se saltó). Por eso **la línea
+> `**Tema:**` de cada reactivo es obligatoria** (`U11 t3`, `U11 t6`…).
+> `**Referencia:**` (libro, edición, página) y `**Subtema:**` completan la llave.
 
 ## Libro
 
@@ -50,21 +59,24 @@ calorífica, Calor específico, Calor latente y Calor cedido y absorbido, pp.
 saltaron todos los "Ejercicios propuestos", los problemas resueltos de conversión
 de escalas y de las leyes de los gases, y las actividades experimentales.
 
-- **Sub-lote 1 · Diferencia entre calor y temperatura (p. 332, 334–335)**
-- **Sub-lote 2 · Medida de la temperatura (p. 335–336)**
-- **Sub-lote 3 · Escalas Celsius, Kelvin y Fahrenheit (p. 336–337)**
-- **Sub-lote 4 · Formas de propagación del calor (p. 343–344)**
-- **Sub-lote 5 · Unidades para medir el calor (p. 346)**
-- **Sub-lote 6 · Los gases: generalidades y teoría cinética (p. 354)**
-- **Sub-lote 7 · Leyes de Boyle, Charles y Gay-Lussac (p. 355–357)**
-- **Sub-lote 8 · Ley general del estado gaseoso y constante universal (p. 358–359)**
-- **Sub-lote 9 · Energía solar, su medida y transformación (tema 6, p. 345)** — añadido para la EMO (`FIS-03`); va al final del archivo (orden de captura, no de página)
+- **Sub-lote 1 · Diferencia entre calor y temperatura (p. 332, 334–335)** — tema 1
+- **Sub-lote 2 · Medida de la temperatura (p. 335–336)** — tema 2
+- **Sub-lote 3 · Escalas Celsius, Kelvin y Fahrenheit (p. 336–337)** — tema 3
+- **Sub-lote 4 · Formas de propagación del calor (p. 343–344)** — tema 5
+- **Sub-lote 5 · Unidades para medir el calor (p. 346)** — tema 7
+- **Sub-lote 6 · Los gases: generalidades y teoría cinética (p. 354)** — tema 12
+- **Sub-lote 7 · Leyes de Boyle, Charles y Gay-Lussac (p. 355–357)** — tema 12
+- **Sub-lote 8 · Ley general del estado gaseoso y constante universal (p. 358–359)** — tema 12
+- **Sub-lote 9 · Energía solar, su medida y transformación (p. 345)** — tema 6; añadido para la EMO (`FIS-03`), va al final del archivo (orden de captura, no de página)
 
-**Pendiente:** ninguno de esta unidad. La Unidad 11 queda completa para la EMOS
-(`FG-03`) y, con el tema 6 añadido, también para la EMO (`FIS-03`). En cambio la
-materia Física **no** está cerrada para la EMO: su temario `FIS-03` aún pide temas
-sin escribir en la Unidad 4 (Cinemática: temas 2, 5, 6, 9, 10 y 11) y en la Unidad
-5 (Dinámica: tema 3 Gravitación universal y tema 5 Estática).
+**Pendiente para el contenido que estaba en el paquete:** ninguno. La Unidad 11
+queda cerrada para la EMO (temas 1, 2, 3, 5, 6, 7, 12), la EMM (1, 2, 3, 5, 7, 12)
+y, salvo el tema 4, la EMA. Con esta unidad **la materia Física queda CERRADA para
+la EMO** (`FIS-03-2026`): U1, U2, U4, U5, U6, U8 y U11, todas escritas y con clave
+`**Tema:**`.
+
+**Único hueco vivo de la unidad:** el **tema 4 · Dilatación de los cuerpos**
+(pp. 337–343), que pide sólo la EMA (`FIS-02`) y no está escrito.
 
 ## Cómo se escriben estos reactivos
 
@@ -89,6 +101,7 @@ De acuerdo con el libro de Física, ¿cómo se interpreta actualmente el calor?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 332
+**Tema:** U11 t1 · diferencia entre calor y temperatura
 **Subtema:** Física · Calor y temperatura
 
 <Actualmente, se interpreta al calor como una energía en tránsito que fluye de cuerpos a mayor temperatura a los de menor temperatura.>
@@ -104,6 +117,7 @@ De acuerdo con el libro de Física, ¿qué es la temperatura?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 332
+**Tema:** U11 t1 · diferencia entre calor y temperatura
 **Subtema:** Física · Calor y temperatura
 
 <La temperatura es una magnitud física que indica qué tan caliente o fría está una sustancia y se mide con un termómetro.>
@@ -119,6 +133,7 @@ De acuerdo con el libro de Física, ¿a qué se denomina calor?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 334
+**Tema:** U11 t1 · diferencia entre calor y temperatura
 **Subtema:** Física · Calor y temperatura
 
 <Se denomina calor a la transferencia de energía de una parte a otra de un cuerpo o entre distintos cuerpos que se encuentran a diferente temperatura.>
@@ -134,6 +149,7 @@ De acuerdo con el libro de Física, el calor es energía en tránsito y siempre 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 334
+**Tema:** U11 t1 · diferencia entre calor y temperatura
 **Subtema:** Física · Calor y temperatura
 
 <El calor es energía en tránsito y siempre fluye de cuerpos de mayor temperatura a los de menor temperatura.>
@@ -149,6 +165,7 @@ De acuerdo con el libro de Física, la temperatura de un cuerpo o un sistema es 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 334
+**Tema:** U11 t1 · diferencia entre calor y temperatura
 **Subtema:** Física · Calor y temperatura
 
 <La temperatura de un cuerpo o un sistema es una propiedad intensiva, ya que no depende de la cantidad de materia ni de su naturaleza, sino del ambiente en el que se encuentren.>
@@ -164,6 +181,7 @@ De acuerdo con el libro de Física, ¿de qué depende la temperatura?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 334
+**Tema:** U11 t1 · diferencia entre calor y temperatura
 **Subtema:** Física · Calor y temperatura
 
 <La temperatura sí depende del estado de agitación o movimiento desordenado de las moléculas, o sea, del valor de la energía cinética media o promedio de las moléculas del cuerpo o del sistema.>
@@ -179,6 +197,7 @@ De acuerdo con el libro de Física, nuestro organismo no detecta la temperatura,
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 334
+**Tema:** U11 t1 · diferencia entre calor y temperatura
 **Subtema:** Física · Calor y temperatura
 
 <Es muy importante recordar que nuestro organismo no detecta la temperatura, sino pérdidas o ganancias de calor.>
@@ -194,6 +213,7 @@ De acuerdo con el libro de Física, ¿cómo se define la energía interna de un 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 335
+**Tema:** U11 t1 · diferencia entre calor y temperatura
 **Subtema:** Física · Calor y temperatura
 
 <La energía interna de un cuerpo o sustancia se define como la suma de las energías cinética y potencial de todas las moléculas individuales que lo constituyen.>
@@ -209,6 +229,7 @@ De acuerdo con el libro de Física, la temperatura denominada cero absoluto corr
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 334
+**Tema:** U11 t1 · diferencia entre calor y temperatura
 **Subtema:** Física · Calor y temperatura
 
 <Se considera que sus moléculas no tendrían energía cinética traslacional a la temperatura denominada cero absoluto y que corresponde a cero Kelvin o –273 °C.>
@@ -228,6 +249,7 @@ De acuerdo con el libro de Física, ¿qué instrumento se utiliza para medir la 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 335
+**Tema:** U11 t2 · medida de la temperatura
 **Subtema:** Física · Medida de la temperatura
 
 <Para medir la temperatura se utiliza el termómetro.>
@@ -243,6 +265,7 @@ De acuerdo con el libro de Física, se dice que dos cuerpos están en equilibrio
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 335
+**Tema:** U11 t2 · medida de la temperatura
 **Subtema:** Física · Medida de la temperatura
 
 <[...] cuando se ponen en contacto dos cuerpos que están a distinta temperatura, después de cierto tiempo alcanzan la misma temperatura, es decir, están en equilibrio térmico.>
@@ -258,6 +281,7 @@ De acuerdo con el libro de Física, ¿qué fenómeno se utiliza en la construcci
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 335
+**Tema:** U11 t2 · medida de la temperatura
 **Subtema:** Física · Medida de la temperatura
 
 <El fenómeno de la dilatación de los fluidos se utiliza en la construcción de los termómetros.>
@@ -273,6 +297,7 @@ De acuerdo con el libro de Física, ¿en qué se basa el funcionamiento de los t
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
+**Tema:** U11 t2 · medida de la temperatura
 **Subtema:** Física · Medida de la temperatura
 
 <Su funcionamiento se basa en el hecho de que la resistencia eléctrica de un conductor metálico aumenta de manera directamente proporcional al aumento de su temperatura.>
@@ -288,6 +313,7 @@ De acuerdo con el libro de Física, cuando se requiere medir temperaturas menore
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
+**Tema:** U11 t2 · medida de la temperatura
 **Subtema:** Física · Medida de la temperatura
 
 <Cuando se requiere medir temperaturas menores de –39 °C hasta de –130 °C se utiliza el termómetro de alcohol.>
@@ -307,6 +333,7 @@ De acuerdo con el libro de Física, ¿quién construyó en 1714 el primer termó
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
+**Tema:** U11 t3 · escalas Celsius, Kelvin y Fahrenheit
 **Subtema:** Física · Escalas termométricas
 
 <El alemán Gabriel Fahrenheit (1686-1736), soplador de vidrio y fabricante de instrumentos, construyó en 1714 el primer termómetro.>
@@ -322,6 +349,7 @@ De acuerdo con el libro de Física, ¿en qué basó su escala Andrés Celsius?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
+**Tema:** U11 t3 · escalas Celsius, Kelvin y Fahrenheit
 **Subtema:** Física · Escalas termométricas
 
 <Andrés Celsius (1701-1744) basó su escala en el punto de fusión del hielo (0 °C) y en el punto de ebullición del agua (100 °C) a la presión de una atmósfera, o sea, 760 mm de Hg, es decir, dividió su escala en 100 partes iguales, cada una de 1 °C.>
@@ -337,6 +365,7 @@ De acuerdo con el libro de Física, en la escala propuesta por William Kelvin el
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
+**Tema:** U11 t3 · escalas Celsius, Kelvin y Fahrenheit
 **Subtema:** Física · Escalas termométricas
 
 <[...] el inglés William Kelvin (1824-1907) propuso una nueva escala de temperatura, en la cual el cero corresponde a lo que tal vez sea la menor temperatura posible llamada cero absoluto, en esta temperatura la energía cinética de las moléculas es cero.>
@@ -352,6 +381,7 @@ De acuerdo con el libro de Física, el valor de cero grados en la escala de Cels
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
+**Tema:** U11 t3 · escalas Celsius, Kelvin y Fahrenheit
 **Subtema:** Física · Escalas termométricas
 
 <El tamaño de un grado de la escala Kelvin es igual al de un grado Celsius y el valor de cero grados en la escala de Celsius equivale a 273 K.>
@@ -367,6 +397,7 @@ De acuerdo con el libro de Física, ¿cuál es la escala aceptada por el Sistema
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
+**Tema:** U11 t3 · escalas Celsius, Kelvin y Fahrenheit
 **Subtema:** Física · Escalas termométricas
 
 <Cuando la temperatura se da en Kelvin se dice que es absoluta y ésta es la escala aceptada por el Sistema Internacional de Unidades (SI).>
@@ -382,6 +413,7 @@ De acuerdo con el libro de Física, ¿cuál es el límite mínimo de temperatura
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
+**Tema:** U11 t3 · escalas Celsius, Kelvin y Fahrenheit
 **Subtema:** Física · Escalas termométricas
 
 <Existe un límite mínimo de temperatura: 0 K = –273 °C = –460 °F, pero no hay límite máximo de ella.>
@@ -397,6 +429,7 @@ De acuerdo con el libro de Física, ¿cuál es la expresión para transformar de
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 337
+**Tema:** U11 t3 · escalas Celsius, Kelvin y Fahrenheit
 **Subtema:** Física · Escalas termométricas
 
 <1. Para transformar de grados Celsius a Kelvin: K = °C + 273.>
@@ -412,6 +445,7 @@ De acuerdo con el libro de Física, ¿cuál es la expresión para transformar de
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 337
+**Tema:** U11 t3 · escalas Celsius, Kelvin y Fahrenheit
 **Subtema:** Física · Escalas termométricas
 
 <3. Para transformar de grados Celsius a grados Fahrenheit: °F = 1.8 °C + 32.>
@@ -427,6 +461,7 @@ De acuerdo con el libro de Física, ¿cuál es la expresión para transformar de
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 337
+**Tema:** U11 t3 · escalas Celsius, Kelvin y Fahrenheit
 **Subtema:** Física · Escalas termométricas
 
 <4. Para transformar de grados Fahrenheit a grados Celsius: °C = (°F – 32) / 1.8.>
@@ -442,6 +477,7 @@ De acuerdo con el libro de Física, el tamaño de un grado de la escala Kelvin:
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
+**Tema:** U11 t3 · escalas Celsius, Kelvin y Fahrenheit
 **Subtema:** Física · Escalas termométricas
 
 <El tamaño de un grado de la escala Kelvin es igual al de un grado Celsius [...]>
@@ -461,6 +497,7 @@ De acuerdo con el libro de Física, el calor o energía calorífica siempre se p
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 343
+**Tema:** U11 t5 · formas de propagación del calor
 **Subtema:** Física · Propagación del calor
 
 <El calor o energía calorífica siempre se propaga de los cuerpos calientes a los fríos de tres maneras diferentes: a) Conducción. b) Convección. c) Radiación.>
@@ -476,6 +513,7 @@ De acuerdo con el libro de Física, ¿qué es la conducción?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 343
+**Tema:** U11 t5 · formas de propagación del calor
 **Subtema:** Física · Propagación del calor
 
 <La conducción es la forma de propagación del calor a través de un cuerpo sólido, debido al choque entre moléculas.>
@@ -491,6 +529,7 @@ De acuerdo con el libro de Física, ¿qué es la convección?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 344
+**Tema:** U11 t5 · formas de propagación del calor
 **Subtema:** Física · Propagación del calor
 
 <La convección es la propagación del calor ocasionada por el movimiento de la sustancia caliente.>
@@ -506,6 +545,7 @@ De acuerdo con el libro de Física, ¿qué es la radiación?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 344
+**Tema:** U11 t5 · formas de propagación del calor
 **Subtema:** Física · Propagación del calor
 
 <La radiación es la propagación del calor por medio de ondas electromagnéticas esparcidas, incluso en el vacío, a una rapidez de aproximadamente 300 mil km/s.>
@@ -521,6 +561,7 @@ De acuerdo con el libro de Física, la radiación propaga el calor a una rapidez
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 344
+**Tema:** U11 t5 · formas de propagación del calor
 **Subtema:** Física · Propagación del calor
 
 <La radiación es la propagación del calor por medio de ondas electromagnéticas esparcidas, incluso en el vacío, a una rapidez de aproximadamente 300 mil km/s.>
@@ -536,6 +577,7 @@ De acuerdo con el libro de Física, ¿por cuál forma de propagación nos llega 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 344
+**Tema:** U11 t5 · formas de propagación del calor
 **Subtema:** Física · Propagación del calor
 
 <El calor que nos llega del Sol es por radiación, pues las ondas caloríficas atraviesan el vacío existente entre la Tierra y el Sol.>
@@ -551,6 +593,7 @@ De acuerdo con el libro de Física, ¿qué forma de propagación del calor no se
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 344
+**Tema:** U11 t5 · formas de propagación del calor
 **Subtema:** Física · Propagación del calor
 
 <En el vacío no se propaga el calor por conducción.>
@@ -566,6 +609,7 @@ De acuerdo con el libro de Física, ¿qué materiales son buenos conductores del
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 344
+**Tema:** U11 t5 · formas de propagación del calor
 **Subtema:** Física · Propagación del calor
 
 <Los metales son buenos conductores del calor; y el corcho, la madera, el plástico, la lana, el aire, la porcelana, el vidrio y el papel son malos conductores del mismo.>
@@ -585,6 +629,7 @@ De acuerdo con el libro de Física, ¿cuál es la unidad para medir el calor en 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t7 · unidades para medir el calor
 **Subtema:** Física · Unidades del calor
 
 <Sistema Internacional de Unidades (SI): joule = newton metro = N m = J.>
@@ -600,6 +645,7 @@ De acuerdo con el libro de Física, ¿qué es una caloría?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t7 · unidades para medir el calor
 **Subtema:** Física · Unidades del calor
 
 <Es la cantidad de calor aplicado a un gramo de agua para elevar su temperatura 1 °C, de 14.5 a 15.5 °C.>
@@ -615,6 +661,7 @@ De acuerdo con el libro de Física, ¿a cuánto equivale una kilocaloría?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t7 · unidades para medir el calor
 **Subtema:** Física · Unidades del calor
 
 <Es un múltiplo de la caloría y equivale a: 1 kcal = 1 000 cal.>
@@ -630,6 +677,7 @@ De acuerdo con el libro de Física, ¿qué es un BTU?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t7 · unidades para medir el calor
 **Subtema:** Física · Unidades del calor
 
 <Es la cantidad de calor aplicada a una libra de agua (454 g) para que eleve su temperatura un grado Fahrenheit: 1 BTU = 252 cal = 0.252 kcal.>
@@ -645,6 +693,7 @@ De acuerdo con el libro de Física, ¿cuál es la equivalencia entre calorías y
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t7 · unidades para medir el calor
 **Subtema:** Física · Unidades del calor
 
 <La equivalencia entre joules y calorías, es la siguiente: 1 joule = 0.24 cal; 1 caloría = 4.2 J.>
@@ -664,6 +713,7 @@ De acuerdo con el libro de Física, ¿por qué se caracteriza un gas?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 354
+**Tema:** U11 t12 · los gases y sus leyes
 **Subtema:** Física · Los gases y sus leyes
 
 <Un gas se caracteriza porque sus moléculas están muy separadas unas de otras, razón por la cual carecen de forma definida y ocupan todo el volumen del recipiente que los contiene.>
@@ -679,6 +729,7 @@ De acuerdo con el libro de Física, ¿por qué los gases son sumamente compresib
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 354
+**Tema:** U11 t12 · los gases y sus leyes
 **Subtema:** Física · Los gases y sus leyes
 
 <Son fluidos como los líquidos, pero se diferencian de éstos por ser sumamente compresibles debido a la mínima fuerza de cohesión entre sus moléculas.>
@@ -694,6 +745,7 @@ De acuerdo con el libro de Física, ¿qué es la temperatura crítica de un gas?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 354
+**Tema:** U11 t12 · los gases y sus leyes
 **Subtema:** Física · Los gases y sus leyes
 
 <La temperatura crítica de un gas es aquella temperatura por encima de la cual no puede ser licuado independientemente de que la presión aplicada sea muy grande.>
@@ -709,6 +761,7 @@ De acuerdo con el libro de Física, ¿qué es un gas ideal?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 354
+**Tema:** U11 t12 · los gases y sus leyes
 **Subtema:** Física · Los gases y sus leyes
 
 <Un gas ideal es un gas hipotético que posibilita hacer consideraciones prácticas que facilitan algunos cálculos matemáticos.>
@@ -728,6 +781,7 @@ De acuerdo con el libro de Física, ¿qué establece la ley de Boyle?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 355
+**Tema:** U11 t12 · los gases y sus leyes
 **Subtema:** Física · Los gases y sus leyes
 
 <Ley de Boyle. A una temperatura constante y para una masa dada de un gas, el volumen del gas varía de manera inversamente proporcional a la presión absoluta que recibe.>
@@ -745,6 +799,7 @@ De acuerdo con el libro de Física, ¿quién es considerado el padre de la quím
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 355
+**Tema:** U11 t12 · los gases y sus leyes
 **Subtema:** Física · Los gases y sus leyes
 
 <El inglés Robert Boyle (1627-1691) es considerado el padre de la química moderna.>
@@ -760,6 +815,7 @@ De acuerdo con el libro de Física, ¿cómo se denomina un proceso que se realiz
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 355
+**Tema:** U11 t12 · los gases y sus leyes
 **Subtema:** Física · Los gases y sus leyes
 
 <Nota: Cuando un proceso se realiza a temperatura constante se denomina isotérmico.>
@@ -775,6 +831,7 @@ De acuerdo con el libro de Física, ¿qué establece la ley de Charles?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 356
+**Tema:** U11 t12 · los gases y sus leyes
 **Subtema:** Física · Los gases y sus leyes
 
 <Ley de Charles. A una presión constante y para una masa dada de un gas, el volumen del gas varía de manera directamente proporcional a su temperatura absoluta.>
@@ -792,6 +849,7 @@ De acuerdo con el libro de Física, ¿qué establece la ley de Gay-Lussac?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 357
+**Tema:** U11 t12 · los gases y sus leyes
 **Subtema:** Física · Los gases y sus leyes
 
 <Ley de Gay-Lussac. A un volumen constante y para una masa determinada de un gas, la presión absoluta que recibe el gas es directamente proporcional a su temperatura absoluta.>
@@ -813,6 +871,7 @@ De acuerdo con el libro de Física, ¿qué establece la ley general del estado g
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 358
+**Tema:** U11 t12 · los gases y sus leyes
 **Subtema:** Física · Los gases y sus leyes
 
 <[...] la ley general del estado gaseoso establece que para una masa dada de un gas, su relación PV/T siempre será constante.>
@@ -828,6 +887,7 @@ De acuerdo con el libro de Física, ¿cuál es el valor de la constante universa
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 359
+**Tema:** U11 t12 · los gases y sus leyes
 **Subtema:** Física · Los gases y sus leyes
 
 <R = PV/nT = (1 atm × 22.413 ℓ) / (1 mol × 273 K) = 0.0821 atm ℓ/mol K [...] equivalente a: R = 8.32 J/mol K.>
@@ -843,6 +903,7 @@ De acuerdo con el libro de Física, un mol de cualquier gas ideal en condiciones
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 359
+**Tema:** U11 t12 · los gases y sus leyes
 **Subtema:** Física · Los gases y sus leyes
 
 <[...] un mol de cualquier gas ideal y en condiciones normales de presión y temperatura, es decir, una atmósfera y 273 K, ocupa un volumen de 22.413 litros.>
@@ -865,6 +926,7 @@ De acuerdo con el libro de Física, ¿cómo se genera la energía radiante del S
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Tema:** U11 t6 · energía solar, su medida y transformación
 **Subtema:** Física · Energía solar
 
 <La energía radiante del Sol se genera por reacciones termonucleares de fusión.>
@@ -880,6 +942,7 @@ De acuerdo con el libro de Física, ¿cómo se produce la fusión nuclear?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Tema:** U11 t6 · energía solar, su medida y transformación
 **Subtema:** Física · Energía solar
 
 <La fusión nuclear se produce debido a la unión de dos o más núcleos de átomos ligeros en un solo núcleo de mayor masa.>
@@ -895,6 +958,7 @@ De acuerdo con el libro de Física, cuando dos núcleos ligeros se unen para for
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Tema:** U11 t6 · energía solar, su medida y transformación
 **Subtema:** Física · Energía solar
 
 <Siempre que dos núcleos ligeros se unen para formar otro más pesado, la masa del producto es menor que la suma de los primeros. La diferencia de masa, es decir, la parte de materia faltante, se ha convertido en energía.>
@@ -910,6 +974,7 @@ De acuerdo con el libro de Física, ¿cómo se define la intensidad de la radiac
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Tema:** U11 t6 · energía solar, su medida y transformación
 **Subtema:** Física · Energía solar
 
 <Así podemos definir la intensidad de la radiación solar como la potencia de la radiación recibida del Sol en un área de 1 m².>
@@ -925,6 +990,7 @@ De acuerdo con el libro de Física, aproximadamente, cada centímetro cuadrado d
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Tema:** U11 t6 · energía solar, su medida y transformación
 **Subtema:** Física · Energía solar
 
 <Aproximadamente, cada centímetro cuadrado de la superficie de la Tierra que esté iluminado perpendicularmente por los rayos solares, recibe 14 calorías por minuto, equivalentes a 14 000 kilocalorías (14 kcal = 58.8 kJ) por minuto, en una superficie de 1 m².>
@@ -940,6 +1006,7 @@ De acuerdo con el libro de Física, de la intensidad de la energía solar que re
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Tema:** U11 t6 · energía solar, su medida y transformación
 **Subtema:** Física · Energía solar
 
 <Cabe señalar que la intensidad de la energía solar que recibe cada m² de la parte externa de la atmósfera terrestre que esté iluminado perpendicularmente por los rayos solares, tienen un valor de 1.4 kW/m², pero sólo llegan a la superficie de la Tierra 0.98 kW/m², pues 0.42 kW los absorbe la atmósfera.>
@@ -955,6 +1022,7 @@ De acuerdo con el libro de Física, ¿para qué se construyen destiladores solar
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Tema:** U11 t6 · energía solar, su medida y transformación
 **Subtema:** Física · Energía solar
 
 <También se están construyendo destiladores solares para obtener agua potable a partir del agua de los mares.>

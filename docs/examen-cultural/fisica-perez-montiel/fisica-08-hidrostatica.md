@@ -1,20 +1,38 @@
 # Física · Unidad 8 · Hidrostática
 
-**Materia:** `FG-03-2026` · Física General
-**Unidad del libro:** Unidad 8. Hidrostática → **COMPLETA** en lo que es teoría.
-Se escriben todos los temas del contenido (Características de los líquidos,
-Densidad y peso específico, Presión, Principio de Pascal, Principio de Arquímedes
-y flotación de los cuerpos). Se saltan las tres **Actividades experimentales**
-(15, 16 y 17) y la sección **Resolución de problemas de hidrostática**, por ser
-experimentos y cálculos.
+**Materia:** **cuatro planteles** piden esta unidad del mismo libro, con tres
+claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMOS), `FIS-02-2026` (EMA)
+y `FÍS-02-2026` (EMMA). La EMM no pide esta unidad.
+**Unidad del libro:** Unidad 8. Hidrostática → **COMPLETA** en su parte teórica.
+Se escriben todos los temas del contenido (1. Características de los líquidos ·
+2. Densidad y peso específico · 3. Presión · 4. Principio de Pascal · 5. Principio
+de Arquímedes y flotación de los cuerpos). Se saltan las tres **Actividades
+experimentales** (15, 16 y 17) y la sección **Resolución de problemas de
+hidrostática**, por ser experimentos y cálculos.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
-> **libro**, no a una escuela. Quién lo pide es cosa del temario: hoy esta unidad
-> la piden los temarios de la **EMO** y la **EMOS**, y si mañana otra carrera o
-> plantel pide el mismo libro y la misma unidad, reutiliza estos mismos reactivos
-> sin duplicarlos. La línea `**Referencia:**` (libro, edición, página) y
-> `**Subtema:**` de cada reactivo son la llave con la que el temario los manda a
-> llamar.
+> **libro**, no a una escuela. Quién lo pide es cosa del temario, y **cada
+> plantel pide una selección distinta de temas**:
+>
+> | Tema de la Unidad 8 | EMO<br>`FIS-03` | EMOS<br>`FG-03` | EMA<br>`FIS-02` | EMMA<br>`FÍS-02` |
+> |---|:---:|:---:|:---:|:---:|
+> | 1 · Características de los líquidos | sí | sí | — | sí |
+> | 2 · Densidad y peso específico | sí | — | sí | sí |
+> | 3 · Presión | sí | sí | sí | sí |
+> | 4 · Principio de Pascal | — | — | sí | sí |
+> | 5 · Principio de Arquímedes y flotación | — | — | sí | — |
+>
+> Cuatro selecciones diferentes sobre el mismo archivo. Por eso **la línea
+> `**Tema:**` de cada reactivo es obligatoria** (`U8 t1`, `U8 t3`…): es lo único
+> que permite servirle a la EMOS los temas 1 y 3 sin darle el 2, 4 y 5.
+> `**Referencia:**` (libro, edición, página) y `**Subtema:**` completan la llave.
+>
+> **Ojo con las "Generalidades" (sub-lote 1, p. 274):** son los 5 reactivos de
+> apertura de la unidad —qué es la hidráulica, hidrostática vs hidrodinámica,
+> incompresibilidad de los líquidos—. **No son un tema numerado** y **ningún
+> temario los pide**, así que llevan la clave `U8 generalidades · hidráulica e
+> hidrostática`, que ninguna escuela llama todavía. **Decisión pendiente de
+> Carlo:** dejarlos así (quedan en el banco sin servirse) o plegarlos al tema 1.
 
 ## Libro
 
@@ -35,24 +53,27 @@ desfase se mantuvo constante en toda la unidad.
 
 La Unidad 8 queda **COMPLETA** en su parte teórica:
 
-- **Sub-lote 1 · Generalidades: hidráulica e hidrostática (p. 274)**
-- **Sub-lote 2 · Características de los líquidos (p. 276–277)**
-- **Sub-lote 3 · Densidad y peso específico (p. 278)**
-- **Sub-lote 4 · Presión (p. 279)**
-- **Sub-lote 5 · Presión hidrostática y paradoja de Stevin (p. 280)**
-- **Sub-lote 6 · Presión atmosférica, barómetro y presión manométrica/absoluta (p. 280–281)**
-- **Sub-lote 7 · Principio de Pascal (p. 282–283)**
-- **Sub-lote 8 · Principio de Arquímedes y flotación (p. 284–285)**
+- **Sub-lote 1 · Generalidades: hidráulica e hidrostática (p. 274)** — sin tema numerado
+- **Sub-lote 2 · Características de los líquidos (p. 276–277)** — tema 1
+- **Sub-lote 3 · Densidad y peso específico (p. 278)** — tema 2
+- **Sub-lote 4 · Presión (p. 279)** — tema 3
+- **Sub-lote 5 · Presión hidrostática y paradoja de Stevin (p. 280)** — tema 3
+- **Sub-lote 6 · Presión atmosférica, barómetro y presión manométrica/absoluta (p. 280–281)** — tema 3
+- **Sub-lote 7 · Principio de Pascal (p. 282–283)** — tema 4
+- **Sub-lote 8 · Principio de Arquímedes y flotación (p. 284–285)** — tema 5
+
+Los sub-lotes 4, 5 y 6 son todos el **tema 3 · Presión**: el índice del libro
+cuelga "presión hidrostática", "presión atmosférica", "barómetro de Torricelli" y
+"presión manométrica y absoluta" como subapartados de ese mismo tema.
 
 Se saltaron las tres actividades experimentales de la unidad y toda la sección
 "Resolución de problemas de hidrostática" (pp. 285–286), por ser problemas de
 cálculo.
 
-**Pendiente:** ninguno. La Unidad 8 está cerrada, y con la Unidad 11 quedó
-cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la
-EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus
-Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y
-conceptos, saltando ejercicios y problemas resueltos.
+**Pendiente:** ninguno de contenido. La Unidad 8 queda cerrada para la EMO
+(temas 1, 2, 3), la EMOS (1, 3), la EMA (2, 3, 4, 5) y la EMMA (1, 2, 3, 4).
+Queda una decisión de Carlo sobre las "Generalidades" (ver el aviso del
+encabezado).
 
 ## Cómo se escriben estos reactivos
 
@@ -77,6 +98,7 @@ De acuerdo con el libro de Física, ¿qué estudia la hidráulica?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 274
+**Tema:** U8 generalidades · hidráulica e hidrostática
 **Subtema:** Física · Hidrostática
 
 <La hidráulica es la parte de la Física que estudia la mecánica de los fluidos; analiza las leyes que rigen el movimiento de los líquidos y las técnicas para el mejor aprovechamiento de las aguas.>
@@ -92,6 +114,7 @@ De acuerdo con el libro de Física, ¿en qué dos partes se divide la hidráulic
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 274
+**Tema:** U8 generalidades · hidráulica e hidrostática
 **Subtema:** Física · Hidrostática
 
 <La hidráulica se divide en dos partes: la hidrostática, encargada de lo relacionado con los líquidos en reposo, y la hidrodinámica, que estudia el comportamiento de los líquidos en movimiento.>
@@ -107,6 +130,7 @@ De acuerdo con el libro de Física, ¿cuál es el objetivo de la hidrostática?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 274
+**Tema:** U8 generalidades · hidráulica e hidrostática
 **Subtema:** Física · Hidrostática
 
 <La hidrostática tiene por objetivo estudiar a los líquidos en reposo.>
@@ -122,6 +146,7 @@ De acuerdo con el libro de Física, respecto de la compresibilidad de los fluido
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 274
+**Tema:** U8 generalidades · hidráulica e hidrostática
 **Subtema:** Física · Hidrostática
 
 <[...] un gas tiene una densidad muy baja debido a la separación entre sus moléculas y, por tanto, puede comprimirse con facilidad, mientras un líquido es prácticamente incompresible.>
@@ -137,6 +162,7 @@ De acuerdo con el libro de Física, respecto de la forma y el volumen de un líq
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 274
+**Tema:** U8 generalidades · hidráulica e hidrostática
 **Subtema:** Física · Hidrostática
 
 <Un líquido, por su parte, no tiene forma definida, pero sí volumen definido.>
@@ -156,6 +182,7 @@ De acuerdo con el libro de Física, ¿cómo se define la viscosidad?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 276
+**Tema:** U8 t1 · características de los líquidos
 **Subtema:** Física · Características de los líquidos
 
 <[...] la viscosidad se puede definir como una medida de la resistencia que opone un líquido a fluir.>
@@ -171,6 +198,7 @@ De acuerdo con el libro de Física, ¿cuál es la unidad de viscosidad en el Sis
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 276
+**Tema:** U8 t1 · características de los líquidos
 **Subtema:** Física · Características de los líquidos
 
 <La unidad de viscosidad en el Sistema Internacional es el pascal-segundo (Pa · s) [...]>
@@ -186,6 +214,7 @@ De acuerdo con el libro de Física, ¿qué hace la tensión superficial?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 276
+**Tema:** U8 t1 · características de los líquidos
 **Subtema:** Física · Características de los líquidos
 
 <La tensión superficial hace que la superficie libre de un líquido se comporte como una finísima membrana elástica.>
@@ -201,6 +230,7 @@ De acuerdo con el libro de Física, ¿qué es la cohesión?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 277
+**Tema:** U8 t1 · características de los líquidos
 **Subtema:** Física · Características de los líquidos
 
 <Es la fuerza que mantiene unidas a las moléculas de una misma sustancia. Por la fuerza de cohesión, si dos gotas de agua se juntan forman una sola [...]>
@@ -216,6 +246,7 @@ De acuerdo con el libro de Física, ¿qué es la adherencia?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 277
+**Tema:** U8 t1 · características de los líquidos
 **Subtema:** Física · Características de los líquidos
 
 <La adherencia es la fuerza de atracción que se manifiesta entre las moléculas de dos sustancias diferentes en contacto.>
@@ -233,6 +264,7 @@ De acuerdo con el libro de Física, ¿cuándo se presenta la capilaridad?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 277
+**Tema:** U8 t1 · características de los líquidos
 **Subtema:** Física · Características de los líquidos
 
 <La capilaridad se presenta cuando existe contacto entre un líquido y una pared sólida, especialmente si son tubos muy delgados (casi del diámetro de un cabello) llamados capilares.>
@@ -252,6 +284,7 @@ De acuerdo con el libro de Física, ¿cómo se determina el valor de la densidad
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 278
+**Tema:** U8 t2 · densidad y peso específico
 **Subtema:** Física · Densidad y peso específico
 
 <Su valor se determina dividiendo la masa de la sustancia entre el volumen que ocupa: ρ = masa/volumen [...] en kg/m³.>
@@ -267,6 +300,7 @@ De acuerdo con el libro de Física, ¿cómo se determina el valor del peso espec
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 278
+**Tema:** U8 t2 · densidad y peso específico
 **Subtema:** Física · Densidad y peso específico
 
 <El peso específico de una sustancia también es una propiedad característica, su valor se determina dividiendo la magnitud de su peso entre el volumen que ocupa: Pe = P/V.>
@@ -282,6 +316,7 @@ De acuerdo con el libro de Física, el peso específico de una sustancia es igua
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 278
+**Tema:** U8 t2 · densidad y peso específico
 **Subtema:** Física · Densidad y peso específico
 
 <Peso específico = densidad multiplicada por la magnitud de la aceleración de la gravedad [...] Pe = ρg.>
@@ -297,6 +332,7 @@ De acuerdo con el libro de Física, ¿qué dispositivos se usan en forma prácti
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 278
+**Tema:** U8 t2 · densidad y peso específico
 **Subtema:** Física · Densidad y peso específico
 
 <La densidad de los líquidos se determina en forma práctica usando los densímetros.>
@@ -316,6 +352,7 @@ De acuerdo con el libro de Física, ¿qué indica la presión?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 279
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión
 
 <La presión indica la relación entre la magnitud de una fuerza aplicada y el área sobre la cual actúa.>
@@ -331,6 +368,7 @@ De acuerdo con el libro de Física, en la expresión de la presión P = F/A, ¿e
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 279
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión
 
 <donde: P = presión en N/m² = pascal.>
@@ -346,6 +384,7 @@ De acuerdo con el libro de Física, en cualquier caso en que exista presión, la
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 279
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión
 
 <En cualquier caso en que exista presión, una fuerza actuará en forma perpendicular sobre una superficie.>
@@ -361,6 +400,7 @@ De acuerdo con el libro de Física, ¿cómo es la presión respecto de la fuerza
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 279
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión
 
 <La presión es directamente proporcional a la magnitud de la fuerza recibida e inversamente proporcional al área sobre la que actúa la fuerza.>
@@ -376,6 +416,7 @@ De acuerdo con el libro de Física, el hundimiento que unos cuerpos producen sob
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 279
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión
 
 <[...] el hundimiento no es un indicador de la magnitud de la fuerza, sino de la presión que ejercen unos cuerpos sobre otros.>
@@ -395,6 +436,7 @@ De acuerdo con el libro de Física, la presión hidrostática que un líquido or
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 279
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión hidrostática
 
 <[...] una presión llamada: presión hidrostática, que será mayor a medida que la profundidad de la columna del líquido sea mayor. Dicha presión actúa en todos los puntos del líquido y de las paredes del recipiente contenedor y sólo es nula en la superficie libre del líquido.>
@@ -410,6 +452,7 @@ De acuerdo con el libro de Física, ¿cómo se calcula la presión hidrostática
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 280
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión hidrostática
 
 <La presión hidrostática en cualquier punto puede calcularse multiplicando el peso específico del líquido por la altura que hay desde la superficie libre del líquido hasta el punto considerado.>
@@ -425,6 +468,7 @@ De acuerdo con el libro de Física, la paradoja hidrostática de Stevin señala 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 280
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión hidrostática
 
 <[...] la paradoja [...] hidrostática de Stevin señala lo siguiente: la presión ejercida por un líquido en cualquier punto de un recipiente no depende de la forma de éste ni de la cantidad de líquido contenido, sino únicamente del peso específico y de la altura que hay del punto considerado a la superficie libre del líquido.>
@@ -444,6 +488,7 @@ De acuerdo con el libro de Física, ¿qué es la presión atmosférica?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 280
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión atmosférica
 
 <El aire [...] debido a su peso ejerce una presión sobre todos los cuerpos que están en contacto con él, la cual es llamada presión atmosférica.>
@@ -459,6 +504,7 @@ De acuerdo con el libro de Física, ¿cuál es la composición del aire de la at
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 280
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión atmosférica
 
 <El aire, que es una mezcla de 20% de oxígeno, 79% de nitrógeno y 1% de gases raros [...]>
@@ -474,6 +520,7 @@ De acuerdo con el libro de Física, ¿cómo varía la presión atmosférica con 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 280
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión atmosférica
 
 <A medida que es mayor la altura sobre el nivel del mar, la presión atmosférica disminuye.>
@@ -489,6 +536,7 @@ De acuerdo con el libro de Física, al nivel del mar la presión atmosférica ti
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 280
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión atmosférica
 
 <[...] al nivel del mar tiene su máximo valor o presión normal equivalente a: 1 atmósfera = 760 mm de Hg = 1.013 × 10⁵ N/m².>
@@ -504,6 +552,7 @@ De acuerdo con el libro de Física, ¿cuál es el valor de la presión atmosfér
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 280
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión atmosférica
 
 <En la Ciudad de México su valor es de 586 mm de Hg equivalente a: 0.78 × 10⁵ N/m².>
@@ -519,6 +568,7 @@ De acuerdo con el libro de Física, ¿qué es un barómetro?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 281
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión atmosférica
 
 <[...] un barómetro, instrumento que sirve para determinar experimentalmente la presión atmosférica.>
@@ -534,6 +584,7 @@ De acuerdo con el libro de Física, en el experimento de Torricelli el mercurio 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 281
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión atmosférica
 
 <[...] observó que el líquido descendía del tubo hasta alcanzar un equilibrio a una altura de 76 cm sobre la superficie libre del mercurio.>
@@ -549,6 +600,7 @@ De acuerdo con el libro de Física, la presión diferente a la atmosférica reci
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 281
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión manométrica
 
 <La presión diferente a la atmosférica recibe el nombre de presión manométrica.>
@@ -564,6 +616,7 @@ De acuerdo con el libro de Física, ¿cómo se llaman los dispositivos para medi
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 281
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión manométrica
 
 <Los dispositivos para medir la presión manométrica se llaman manómetros.>
@@ -579,6 +632,7 @@ De acuerdo con el libro de Física, la presión absoluta que soporta un fluido e
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 281
+**Tema:** U8 t3 · presión
 **Subtema:** Física · Presión manométrica
 
 <[...] la presión absoluta que soporta el fluido encerrado es igual a la suma de las presiones manométrica y atmosférica.>
@@ -598,6 +652,7 @@ De acuerdo con el libro de Física, ¿qué establece el principio de Pascal?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 282
+**Tema:** U8 t4 · principio de Pascal
 **Subtema:** Física · Principio de Pascal
 
 <Toda presión que se ejerce sobre un líquido encerrado en un recipiente se transmite con la misma intensidad a todos los puntos del líquido y a las paredes del recipiente que lo contiene.>
@@ -613,6 +668,7 @@ De acuerdo con el libro de Física, ¿quién enunció el principio de Pascal?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 282
+**Tema:** U8 t4 · principio de Pascal
 **Subtema:** Física · Principio de Pascal
 
 <Esta observación fue hecha por el físico francés Blaise Pascal (1623-1662), quien enunció el siguiente principio que lleva su nombre [...]>
@@ -628,6 +684,7 @@ De acuerdo con el libro de Física, la prensa hidráulica es una de las aplicaci
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 282
+**Tema:** U8 t4 · principio de Pascal
 **Subtema:** Física · Principio de Pascal
 
 <La prensa hidráulica es una de las aplicaciones del principio de Pascal. Consta esencialmente de dos cilindros de diferente diámetro, cada uno con su respectivo émbolo, unidos por medio de un tubo de comunicación.>
@@ -643,6 +700,7 @@ De acuerdo con el libro de Física, ¿en qué principio se basan los frenos hidr
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 283
+**Tema:** U8 t4 · principio de Pascal
 **Subtema:** Física · Principio de Pascal
 
 <Los frenos hidráulicos de los automóviles también se basan en el principio de Pascal.>
@@ -662,6 +720,7 @@ De acuerdo con el libro de Física, ¿qué establece el principio de Arquímedes
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 284
+**Tema:** U8 t5 · principio de Arquímedes y flotación
 **Subtema:** Física · Principio de Arquímedes
 
 <Principio de Arquímedes: todo cuerpo sumergido en un fluido recibe un empuje ascendente igual al peso del fluido desalojado.>
@@ -677,6 +736,7 @@ De acuerdo con el libro de Física, ¿quién estudió el empuje que reciben los 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 284
+**Tema:** U8 t5 · principio de Arquímedes y flotación
 **Subtema:** Física · Principio de Arquímedes
 
 <El empuje que reciben los cuerpos al ser introducidos en un líquido fue estudiado por el griego Arquímedes (287-212 a. C.) [...]>
@@ -692,6 +752,7 @@ De acuerdo con el libro de Física, ¿en qué caso un cuerpo flota?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 284
+**Tema:** U8 t5 · principio de Arquímedes y flotación
 **Subtema:** Física · Principio de Arquímedes
 
 <Si la magnitud del peso de un cuerpo es menor a la magnitud del empuje que recibe, flota porque desaloja menor cantidad de líquido que su volumen.>
@@ -707,6 +768,7 @@ De acuerdo con el libro de Física, ¿en qué caso un cuerpo permanece en equili
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 284
+**Tema:** U8 t5 · principio de Arquímedes y flotación
 **Subtema:** Física · Principio de Arquímedes
 
 <Si la magnitud del peso del cuerpo es igual a la magnitud del empuje que recibe, permanecerá en equilibrio, es decir, sumergido dentro del líquido.>
@@ -722,6 +784,7 @@ De acuerdo con el libro de Física, ¿en qué caso un cuerpo se hunde?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 284
+**Tema:** U8 t5 · principio de Arquímedes y flotación
 **Subtema:** Física · Principio de Arquímedes
 
 <Si la magnitud del peso del cuerpo es mayor que la magnitud del empuje, se hunde.>
@@ -737,6 +800,7 @@ De acuerdo con el libro de Física, para que un cuerpo flote en cualquier fluido
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 285
+**Tema:** U8 t5 · principio de Arquímedes y flotación
 **Subtema:** Física · Principio de Arquímedes
 
 <Para que un cuerpo flote en cualquier fluido, su densidad promedio debe ser menor a la del fluido.>
@@ -752,6 +816,7 @@ De acuerdo con el libro de Física, ¿cómo se determina la magnitud del empuje 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 285
+**Tema:** U8 t5 · principio de Arquímedes y flotación
 **Subtema:** Física · Principio de Arquímedes
 
 <La magnitud del empuje que recibe un cuerpo sumergido en un líquido se determina multiplicando el peso específico del líquido por el volumen desalojado de éste: E = PeV.>
@@ -767,6 +832,7 @@ De acuerdo con el libro de Física, ¿cuáles son algunas aplicaciones del princ
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 285
+**Tema:** U8 t5 · principio de Arquímedes y flotación
 **Subtema:** Física · Principio de Arquímedes
 
 <Algunas aplicaciones del principio de Arquímedes son flotación de barcos, submarinos, salvavidas, densímetros o en los flotadores de las cajas de los inodoros.>

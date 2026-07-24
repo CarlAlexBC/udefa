@@ -1,19 +1,19 @@
 # Física · Unidad 2 · Unidades y mediciones
 
-**Materia:** `FIS-03-2026` · Física General
-**Unidad del libro:** Unidad 2. Unidades y mediciones → **sólo los temas 1, 3, 4 y 8** que pide el temario
+**Materia:** hoy **sólo la EMO** (`FIS-03-2026`) pide esta unidad del libro.
+**Unidad del libro:** Unidad 2. Unidades y mediciones → los temas 1, 3, 4 y 8.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
-> **libro**, no a una escuela. Estos temas los pide el temario de la **Escuela
-> Militar de Odontología (EMO)** (`FIS-03-2026`), que reclama de la Unidad 2 los
+> **libro**, no a una escuela. De los cinco planteles que usan este libro
+> (Pérez Montiel), la Unidad 2 hoy la pide **sólo la EMO** (`FIS-03-2026`): los
 > temas 1 (Definiciones de magnitud, medir y unidad de medida), 3 (Magnitudes
 > fundamentales y derivadas), 4 (Sistemas de unidades absolutos) y 8 (Medición de
-> diferentes magnitudes con métodos directos e indirectos). **La EMOS
-> (`FG-03-2026`) NO pide esta unidad** —su temario de Física arranca en la Unidad
-> 4—. Si mañana otra carrera pide el mismo libro y temas, reutiliza estos mismos
-> reactivos sin duplicarlos. La línea `**Referencia:**` (libro, edición, página) y
-> `**Subtema:**` de cada reactivo son la llave con la que el temario los manda a
-> llamar.
+> diferentes magnitudes con métodos directos e indirectos). La EMOS, la EMM, la
+> EMA y la EMMA no piden esta unidad.
+>
+> Aun así, **cada reactivo lleva su línea `**Tema:**`** (`U2 t1`, `U2 t3`…): es la
+> clave con la que cualquier temario manda a llamar un tema suelto.
+> `**Referencia:**` (libro, edición, página) y `**Subtema:**` completan la llave.
 
 ## Libro
 
@@ -52,11 +52,10 @@ dimensionales), 9 (Análisis de errores) y 10 (Estadística)— y los cuadros 2.
 - **Sub-lote 4 · Medición con métodos directos e indirectos (tema 8, p. 27)**
 
 **Pendiente:** ninguno. La Unidad 2 (temas 1, 3, 4 y 8, únicos que pide el
-temario) queda cerrada. Con ella se cierran las **dos unidades que la EMO
-(`FIS-03-2026`) pide por encima de lo que ya existía** en esta carpeta (Unidades 1
-y 2). Las demás unidades que pide la EMO —4, 5, 6, 8 y 11— ya están escritas en
-esta carpeta; conviene revisar a nivel de tema que su selección coincida con la de
-`FIS-03`, pues se escribieron para el temario `FG-03` de la EMOS.
+temario) queda cerrada. **La materia Física está CERRADA para la EMO**
+(`FIS-03-2026`): verificado tema por tema contra `temarios.json` el 24 jul 2026,
+todas las unidades que pide —U1, U2, U4, U5, U6, U8 y U11— están escritas y con
+clave `**Tema:**` para que el importador llame exactamente su selección.
 
 ## Cómo se escriben estos reactivos
 
@@ -81,6 +80,7 @@ De acuerdo con el libro de Física, ¿qué se llama magnitud?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 16
+**Tema:** U2 t1 · magnitud, medir y unidad de medida
 **Subtema:** física · magnitud, medir y unidad de medida
 
 <Se llama magnitud a todo aquello que puede ser medido.>
@@ -96,6 +96,7 @@ De acuerdo con el libro de Física, ¿por qué los sentimientos como el amor, el
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 16
+**Tema:** U2 t1 · magnitud, medir y unidad de medida
 **Subtema:** física · magnitud, medir y unidad de medida
 
 <Los sentimientos como el amor, el odio, la felicidad, la ira y la envidia no pueden ser medidos; por tanto, no son magnitudes.>
@@ -111,6 +112,7 @@ De acuerdo con el libro de Física, ¿qué es medir?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 16
+**Tema:** U2 t1 · magnitud, medir y unidad de medida
 **Subtema:** física · magnitud, medir y unidad de medida
 
 <Es comparar una magnitud con otra de la misma especie que de manera arbitraria o convencional se toma como base, unidad o patrón de medida.>
@@ -126,6 +128,7 @@ De acuerdo con el libro de Física, ¿qué recibe el nombre de unidad de medida 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 16
+**Tema:** U2 t1 · magnitud, medir y unidad de medida
 **Subtema:** física · magnitud, medir y unidad de medida
 
 <Recibe el nombre de unidad de medida o patrón toda magnitud de valor conocido y perfectamente definido que se utiliza como referencia para medir y expresar el valor de otras magnitudes de la misma especie.>
@@ -141,6 +144,7 @@ De acuerdo con el libro de Física, ¿cuál es una de las principales caracterí
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 16
+**Tema:** U2 t1 · magnitud, medir y unidad de medida
 **Subtema:** física · magnitud, medir y unidad de medida
 
 <Una de las principales características que debe cumplir un patrón de medida es que sea reproducible.>
@@ -160,6 +164,7 @@ De acuerdo con el libro de Física, ¿qué reciben el nombre de magnitudes funda
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 19
+**Tema:** U2 t3 · magnitudes fundamentales y derivadas
 **Subtema:** física · magnitudes fundamentales y derivadas
 
 <Reciben el nombre de magnitudes fundamentales aquellas que no se definen en función de otras magnitudes físicas y, por tanto, sirven de base para obtener las demás magnitudes utilizadas en la Física y que reciben el nombre de magnitudes derivadas.>
@@ -175,6 +180,7 @@ De acuerdo con el libro de Física, ¿cómo resultan las magnitudes derivadas?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 19
+**Tema:** U2 t3 · magnitudes fundamentales y derivadas
 **Subtema:** física · magnitudes fundamentales y derivadas
 
 <Las magnitudes derivadas resultan de multiplicar o dividir entre sí las magnitudes fundamentales.>
@@ -190,6 +196,7 @@ De acuerdo con el libro de Física, ¿cuántas magnitudes fundamentales existen 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 19
+**Tema:** U2 t3 · magnitudes fundamentales y derivadas
 **Subtema:** física · magnitudes fundamentales y derivadas
 
 <En el Sistema Internacional existen siete magnitudes fundamentales: longitud, masa, tiempo, temperatura, intensidad de corriente eléctrica, intensidad luminosa y cantidad de sustancia.>
@@ -209,6 +216,7 @@ De acuerdo con el libro de Física, ¿qué reciben el nombre de Sistemas de Unid
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 19
+**Tema:** U2 t4 · sistemas de unidades absolutos
 **Subtema:** física · sistemas de unidades absolutos
 
 <Reciben el nombre de Sistemas de Unidades Absolutos aquellos que como una de sus magnitudes fundamentales utilizan a la masa y no al peso, ya que éste es considerado una magnitud derivada.>
@@ -224,6 +232,7 @@ De acuerdo con el libro de Física, en los sistemas absolutos (cuadro 2.1), ¿co
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 19
+**Tema:** U2 t4 · sistemas de unidades absolutos
 **Subtema:** física · sistemas de unidades absolutos
 
 <En este cuadro sólo se trabaja con tres magnitudes fundamentales: longitud, masa y tiempo, y todas las demás son derivadas de ellas, pues se obtienen al multiplicar o dividir entre sí a esas tres magnitudes.>
@@ -239,6 +248,7 @@ De acuerdo con el libro de Física, ¿cómo se escriben los símbolos de las uni
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 19
+**Tema:** U2 t4 · sistemas de unidades absolutos
 **Subtema:** física · sistemas de unidades absolutos
 
 <Los símbolos de las unidades se escriben con minúsculas a menos que se trate de nombres propios, en tal caso será con mayúsculas; los símbolos se anotan en singular y sin punto.>
@@ -254,6 +264,7 @@ De acuerdo con el libro de Física, ¿cómo debe escribirse el símbolo del kilo
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 20
+**Tema:** U2 t4 · sistemas de unidades absolutos
 **Subtema:** física · sistemas de unidades absolutos
 
 <Los símbolos se anotan en singular y sin punto. Por tanto, debemos escribir para kilogramo: kg y no Kg; para kilómetro: km y no Km; para gramo: g y no gr; para newton: N y no n ni Nw.>
@@ -273,6 +284,7 @@ De acuerdo con el libro de Física, ¿por qué se requiere de mediciones indirec
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 27
+**Tema:** U2 t8 · medición con métodos directos e indirectos
 **Subtema:** física · medición directa e indirecta
 
 <Sin embargo, no siempre es posible realizar mediciones directas, por eso se requiere de mediciones indirectas para determinar el valor de una magnitud.>
@@ -288,6 +300,7 @@ De acuerdo con el libro de Física, cuando se determina el valor de una magnitud
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 27
+**Tema:** U2 t8 · medición con métodos directos e indirectos
 **Subtema:** física · medición directa e indirecta
 
 <Cuando se determina el valor de una magnitud por medio de un método indirecto, generalmente se requiere realizar dos o más mediciones directas y, además, se efectúa una operación o cálculo matemático.>
@@ -303,6 +316,7 @@ De acuerdo con el libro de Física, ¿cuál de las siguientes es una medición q
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 27
+**Tema:** U2 t8 · medición con métodos directos e indirectos
 **Subtema:** física · medición directa e indirecta
 
 <Algunas de ellas las podemos medir directamente, tal es el caso de la longitud de una mesa mediante el empleo de una regla graduada o el espesor de una moneda utilizando el calibrador vernier.>

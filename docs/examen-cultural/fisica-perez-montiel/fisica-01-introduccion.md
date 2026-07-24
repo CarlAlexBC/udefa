@@ -1,18 +1,22 @@
 # Física · Unidad 1 · Introducción al conocimiento de la Física
 
-**Materia:** `FIS-03-2026` · Física General
-**Unidad del libro:** Unidad 1. Introducción al conocimiento de la Física → **sólo los temas 4, 5, 6 y 7** que pide el temario
+**Materia:** hoy **sólo la EMO** (`FIS-03-2026`) pide esta unidad del libro.
+**Unidad del libro:** Unidad 1. Introducción al conocimiento de la Física → los
+temas 4, 5, 6 y 7.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
-> **libro**, no a una escuela. Estos temas los pide el temario de la **Escuela
-> Militar de Odontología (EMO)** (`FIS-03-2026`), que reclama de la Unidad 1 los
+> **libro**, no a una escuela. De los cinco planteles que usan este libro
+> (Pérez Montiel), la Unidad 1 hoy la pide **sólo la EMO** (`FIS-03-2026`): los
 > temas 4 (Concepto de ciencia), 5 (Ciencias formales y factuales), 6 (Juicios
 > deductivos e inductivos) y 7 (El método científico en la construcción de la
-> ciencia). **La EMOS (`FG-03-2026`) NO pide esta unidad** —su temario de Física
-> arranca en la Unidad 4—, por eso no existía este archivo. Si mañana otra carrera
-> pide el mismo libro y temas, reutiliza estos mismos reactivos sin duplicarlos.
-> La línea `**Referencia:**` (libro, edición, página) y `**Subtema:**` de cada
-> reactivo son la llave con la que el temario los manda a llamar.
+> ciencia). La EMOS, la EMM, la EMA y la EMMA no piden esta unidad, por eso no
+> existía este archivo.
+>
+> Aun así, **cada reactivo lleva su línea `**Tema:**`** (`U1 t4`, `U1 t5`…): es la
+> clave con la que cualquier temario manda a llamar un tema suelto. Hoy la EMO se
+> lleva los cuatro, pero si mañana otro plantel pide sólo el tema 7, la clave ya
+> está puesta. `**Referencia:**` (libro, edición, página) y `**Subtema:**`
+> completan la llave.
 
 ## Libro
 
@@ -50,8 +54,9 @@ pide, y las Actividades experimentales, el Resumen y la Autoevaluación.
 - **Sub-lote 4 · El método científico en la construcción de la ciencia (tema 7, pp. 8–9)**
 
 **Pendiente:** ninguno. La Unidad 1 (temas 4–7, únicos que pide el temario) queda
-cerrada. Lo que falta de Física para la EMO es la **Unidad 2 · Unidades y
-mediciones** (temas 1, 3, 4 y 8), en `fisica-02-unidades-mediciones.md`.
+cerrada. Con esta unidad, **la materia Física queda CERRADA para la EMO**
+(`FIS-03-2026`): están escritas y con clave `**Tema:**` todas sus unidades — U1,
+U2, U4, U5, U6, U8 y U11.
 
 ## Cómo se escriben estos reactivos
 
@@ -76,6 +81,7 @@ De acuerdo con el libro de Física, ¿qué es la ciencia?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 7
+**Tema:** U1 t4 · concepto de ciencia
 **Subtema:** física · concepto de ciencia
 
 <La ciencia es un conjunto de conocimientos razonados y sistematizados opuestos al conocimiento vulgar.>
@@ -91,6 +97,7 @@ De acuerdo con el libro de Física, entre las principales características de la
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 7
+**Tema:** U1 t4 · concepto de ciencia
 **Subtema:** física · concepto de ciencia
 
 <Sistemática, ya que emplea el método científico para sus investigaciones. Por medio de él obtiene un conjunto de conocimientos ordenados y relacionados entre sí, evitando dejar al azar la posibilidad de explicar el porqué de las cosas.>
@@ -108,6 +115,7 @@ De acuerdo con el libro de Física, ¿qué significa que la ciencia sea comproba
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 7
+**Tema:** U1 t4 · concepto de ciencia
 **Subtema:** física · concepto de ciencia
 
 <Comprobable, porque puede verificar si es falso o verdadero lo que se propone como conocimiento.>
@@ -123,6 +131,7 @@ De acuerdo con el libro de Física, ¿qué significa que la ciencia sea perfecti
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 7
+**Tema:** U1 t4 · concepto de ciencia
 **Subtema:** física · concepto de ciencia
 
 <Perfectible, es decir, sus enunciados de ninguna manera deben considerarse como verdades absolutas, sino por el contrario, constantemente sufren modificaciones e incluso correcciones a medida que el hombre incrementa sus conocimientos y mejora la calidad y precisión de sus instrumentos de medición y observación.>
@@ -142,6 +151,7 @@ De acuerdo con el libro de Física, ¿en cuántos grandes grupos se divide la ci
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 7
+**Tema:** U1 t5 · ciencias formales y ciencias factuales
 **Subtema:** física · ciencias formales y factuales
 
 <La ciencia se divide para su estudio en dos grandes grupos:> Ciencias formales y Ciencias factuales.
@@ -157,6 +167,7 @@ De acuerdo con el libro de Física, ¿qué estudian las ciencias formales?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 7
+**Tema:** U1 t5 · ciencias formales y ciencias factuales
 **Subtema:** física · ciencias formales y factuales
 
 <Son aquellas que estudian ideas, como es el caso de la Lógica y las Matemáticas.>
@@ -172,6 +183,7 @@ De acuerdo con el libro de Física, ¿cuál es la característica principal de l
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 7
+**Tema:** U1 t5 · ciencias formales y ciencias factuales
 **Subtema:** física · ciencias formales y factuales
 
 <La característica principal de estas ciencias es que demuestran o prueban sus enunciados con base en principios lógicos o matemáticos, pero no los confirman experimentalmente.>
@@ -187,6 +199,7 @@ De acuerdo con el libro de Física, ¿qué estudian las ciencias factuales?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 7
+**Tema:** U1 t5 · ciencias formales y ciencias factuales
 **Subtema:** física · ciencias formales y factuales
 
 <Se encargan de estudiar hechos, ya sean naturales (figura 1.5), como es el caso de la Física, Química, Biología y Geografía Física, que se caracterizan porque estudian hechos debidos a una causa y que provocan un efecto. O bien, estudian hechos humanos o sociales, como es el caso de la Historia, Sociología, Psicología Social y Economía.>
@@ -202,6 +215,7 @@ De acuerdo con el libro de Física, ¿cómo comprueban sus hipótesis, teorías 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 7
+**Tema:** U1 t5 · ciencias formales y ciencias factuales
 **Subtema:** física · ciencias formales y factuales
 
 <En general, las ciencias factuales comprueban mediante la observación y la experimentación sus hipótesis, teorías o leyes.>
@@ -221,6 +235,7 @@ De acuerdo con el libro de Física, ¿cuándo se realiza un juicio deductivo?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 7
+**Tema:** U1 t6 · juicios deductivos e inductivos
 **Subtema:** física · juicios deductivos e inductivos
 
 <Las ciencias formales generalmente emplean juicios deductivos, los cuales se realizan cuando, a partir de una generalidad o ley, se analiza un caso particular.>
@@ -236,6 +251,7 @@ De acuerdo con el libro de Física, ¿cuándo se lleva a cabo un juicio inductiv
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 8
+**Tema:** U1 t6 · juicios deductivos e inductivos
 **Subtema:** física · juicios deductivos e inductivos
 
 <Las ciencias factuales por lo general usan juicios inductivos que se llevan a cabo cuando, gracias al estudio de un caso o hecho particular, se llega al enunciado de una generalidad o ley.>
@@ -251,6 +267,7 @@ De acuerdo con el libro de Física, ¿qué tipo de juicios emplean generalmente 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 7
+**Tema:** U1 t6 · juicios deductivos e inductivos
 **Subtema:** física · juicios deductivos e inductivos
 
 <Las ciencias formales generalmente emplean juicios deductivos, los cuales se realizan cuando, a partir de una generalidad o ley, se analiza un caso particular. Las ciencias factuales por lo general usan juicios inductivos que se llevan a cabo cuando, gracias al estudio de un caso o hecho particular, se llega al enunciado de una generalidad o ley.>
@@ -270,6 +287,7 @@ De acuerdo con el libro de Física, respecto al método científico, ¿existe un
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 8
+**Tema:** U1 t7 · el método científico en la construcción de la ciencia
 **Subtema:** física · método científico
 
 <No existe un método científico único capaz de proporcionar una fórmula que conduzca sin falla a un descubrimiento. En conclusión, si como método entendemos el camino hacia un fin, no hay uno, sino muchos métodos y muy variados.>
@@ -285,6 +303,7 @@ De acuerdo con el libro de Física, ¿qué es una hipótesis?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 8
+**Tema:** U1 t7 · el método científico en la construcción de la ciencia
 **Subtema:** física · método científico
 
 <Una hipótesis es una idea o conjetura para explicar por qué o cómo se produce determinado hecho o fenómeno, lo que contribuirá a resolver el problema en estudio.>
@@ -300,6 +319,7 @@ De acuerdo con el libro de Física, ¿qué dos requisitos debe cumplir una conje
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 8
+**Tema:** U1 t7 · el método científico en la construcción de la ciencia
 **Subtema:** física · método científico
 
 <Para que una conjetura sea una buena hipótesis debe cumplir dos requisitos: estar libre de contradicciones y poder someterse a comprobación.>
@@ -315,6 +335,7 @@ De acuerdo con el libro de Física, ¿cómo se denomina el proceso de comprobar 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 8
+**Tema:** U1 t7 · el método científico en la construcción de la ciencia
 **Subtema:** física · método científico
 
 <Se denomina contrastar la hipótesis al proceso de comprobar la validez de la misma.>
@@ -330,6 +351,7 @@ De acuerdo con el libro de Física, ¿qué ciencias utilizan el método científ
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 9
+**Tema:** U1 t7 · el método científico en la construcción de la ciencia
 **Subtema:** física · método científico
 
 <El método científico experimental es utilizado por las ciencias factuales, ya que la Lógica y las Matemáticas no requieren de la experimentación para demostrar sus enunciados, como en la Física, la Química o la Biología, que sí la necesitan para probar la validez de sus postulados.>
@@ -345,6 +367,7 @@ De acuerdo con el libro de Física, ¿cuál es el primer paso de la posible secu
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 9
+**Tema:** U1 t7 · el método científico en la construcción de la ciencia
 **Subtema:** física · método científico
 
 <Identificación del problema, es decir, cuál es el fenómeno en estudio.>
@@ -360,6 +383,7 @@ De acuerdo con el libro de Física, según el método experimental, ¿cuándo se
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 9
+**Tema:** U1 t7 · el método científico en la construcción de la ciencia
 **Subtema:** física · método científico
 
 <Obtención de una ley, la cual se produce cuando el afortunado y persistente investigador encuentra reglas invariables que dentro de ciertos límites rigen el fenómeno en estudio.>
@@ -375,6 +399,7 @@ De acuerdo con el libro de Física, ¿cuál es la diferencia entre un descubrimi
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 9
+**Tema:** U1 t7 · el método científico en la construcción de la ciencia
 **Subtema:** física · método científico
 
 <Un descubrimiento es algo que ya existía, pero no era conocido, mientras que el invento es algo que antes no existía y se crea.>
