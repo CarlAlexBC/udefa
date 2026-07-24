@@ -107,9 +107,18 @@ y muscular excitables, el experimento de Luigi Galvani (1737-1798) y la "electri
 animal", el potencial eléctrico y la diferencia de potencial (con los ejemplos de la
 batería de 12 V y el tomacorriente de 110/220 V), la definición del impulso nervioso, y
 la historia del modelo (el axón como cable en el siglo XIX y el calamar con sus axones
-gigantes de hasta 1 mm en el siglo XX, fig. 32-8).
+gigantes de hasta 1 mm en el siglo XX, fig. 32-8). De la **página 766** se cubre la
+medición del potencial de membrana (fig. 32-9): los microelectrodos de a pares y el
+osciloscopio (mV en función de ms), el ΔV = 0 con ambos electrodos fuera, el ΔV = −70 mV
+con uno dentro del axón (interior negativo), la convención del medio extracelular = 0 V,
+el nombre "potencial de membrana" y los valores de otras células (glóbulo rojo −9 mV,
+célula vegetal −180 mV); y la distinción entre potencial de reposo (célula no estimulada)
+y respuestas de potencial como el potencial de acción, las respuestas pasivas (soma y
+dendritas, cortas distancias) y activas (axón, largas distancias), el valor umbral, la
+respuesta de "todo o nada" (fig. 32-10, neurona sensorial de la piel de un gato frente a
+la presión) y el potencial de acción como inversión instantánea del potencial de membrana.
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 766 (hoja 812) en adelante (el potencial de membrana y las señales eléctricas, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 767 (hoja 813) en adelante (el resto de las señales eléctricas y el potencial de acción, la fig. 32-10, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -2088,6 +2097,239 @@ De acuerdo con el libro de Biología, según la figura 32-8, ¿qué músculos in
 
 Los axones gigantes inervan los músculos de la pared del manto; las contracciones poderosas de estos músculos dan como resultado la expulsión rápida del agua de la cavidad del manto, lo que produce la respuesta de escape.
 
+## Sub-lote 14 · El potencial de membrana y su medición (fig. 32-9, p. 766)
+
+### 128
+
+De acuerdo con el libro de Biología, ¿cómo se hacen las mediciones de diferencia de potencial eléctrico entre el interior y el exterior de un axón?
+
+- A. Con microelectrodos lo suficientemente pequeños como para penetrar en una célula viva sin dañarla de manera grave, utilizados de a pares y conectados a un voltímetro muy sensible (osciloscopio)
+- B. Con electrodos grandes colocados sobre la piel del animal
+- C. Con un microscopio óptico que observa directamente el flujo de iones
+- D. Con una jeringa que extrae el líquido del interior del axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · microelectrodos
+
+Las mediciones de diferencia de potencial eléctrico entre el interior y el exterior de un axón se hacen con microelectrodos lo suficientemente pequeños como para penetrar en una célula viva, sin dañarla de manera grave. Los microelectrodos se utilizan de a pares y están conectados con un voltímetro muy sensible (osciloscopio).
+
+### 129
+
+De acuerdo con el libro de Biología, el osciloscopio mide la diferencia de potencial eléctrico en función del tiempo. ¿En qué órdenes de magnitud?
+
+- A. La diferencia de potencial en el orden de los milivoltios (mV) y el tiempo en el orden de los milisegundos (ms)
+- B. La diferencia de potencial en voltios (V) y el tiempo en segundos (s)
+- C. La diferencia de potencial en microvoltios (µV) y el tiempo en minutos
+- D. La diferencia de potencial en el orden de los milisegundos y el tiempo en milivoltios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · osciloscopio
+
+El osciloscopio mide la diferencia de potencial eléctrico (en el orden de los milivoltios [mV]) en función del tiempo (en el orden de los milisegundos [ms]).
+
+### 130
+
+De acuerdo con el libro de Biología, según la figura 32-9a, cuando ambos microelectrodos están fuera de la neurona, ¿qué diferencia de potencial se registra?
+
+- A. No se registra diferencia de potencial eléctrico (ΔV = 0 mV)
+- B. Se registra una diferencia de –70 mV
+- C. Se registra una diferencia de +70 mV
+- D. Se registra una inversión instantánea del potencial
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · potencial de membrana
+
+Cuando ambos microelectrodos están fuera de la neurona, no se registra diferencia de potencial eléctrico (ΔV = 0 mV).
+
+### 131
+
+De acuerdo con el libro de Biología, cuando uno de los microelectrodos se introduce en el interior del axón, ¿qué diferencia de potencial se observa entre el medio intracelular y el extracelular?
+
+- A. Una diferencia de alrededor de 70 mV, con el interior negativo respecto del exterior (ΔV = –70 mV)
+- B. Una diferencia de alrededor de 70 mV, con el interior positivo respecto del exterior (ΔV = +70 mV)
+- C. Ninguna diferencia de potencial (ΔV = 0 mV)
+- D. Una diferencia de alrededor de 180 mV, con el interior positivo respecto del exterior
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · potencial de membrana en reposo
+
+Cuando uno de los microelectrodos se introduce en el interior del axón, se observa que existe una diferencia de potencial eléctrico entre el medio intracelular y el extracelular de alrededor de 70 mV, donde en el interior predominan cargas negativas: es negativo respecto del exterior (ΔV = –70 mV).
+
+### 132
+
+De acuerdo con el libro de Biología, por convención, ¿qué potencial eléctrico se le asigna al medio extracelular?
+
+- A. Un potencial eléctrico igual a 0 V
+- B. Un potencial eléctrico igual a –70 mV
+- C. Un potencial eléctrico igual a +70 mV
+- D. Un potencial eléctrico igual a –180 mV
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · convención
+
+Por convención, se considera al medio extracelular con un potencial eléctrico = 0 V.
+
+### 133
+
+De acuerdo con el libro de Biología, ¿cómo se denomina la diferencia de potencial eléctrico entre el medio intracelular y el extracelular de la neurona?
+
+- A. Potencial de membrana
+- B. Potencial de acción
+- C. Electricidad animal
+- D. Corriente eléctrica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · potencial de membrana
+
+Esta diferencia de potencial se denomina potencial de membrana.
+
+### 134
+
+De acuerdo con el libro de Biología, el mismo experimento realizado en un glóbulo rojo y en una célula vegetal, ¿qué valores de potencial arroja?
+
+- A. –9 mV en el glóbulo rojo y –180 mV en la célula vegetal, y se mantienen casi constantes durante la vida de estas células
+- B. –70 mV en ambas células
+- C. –180 mV en el glóbulo rojo y –9 mV en la célula vegetal
+- D. 0 mV en ambas células
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · potencial de membrana
+
+El mismo experimento realizado en un glóbulo rojo arroja un valor de –9 mV y en una célula vegetal uno de –180 mV, estos se mantienen casi constantes durante la vida de estas células.
+
+> Tres valores de potencial de membrana que conviene no mezclar: **neurona/axón −70 mV**, **glóbulo rojo −9 mV**, **célula vegetal −180 mV**.
+
+## Sub-lote 15 · Potencial de reposo, potencial de acción y "todo o nada" (figs. 32-9 y 32-10, p. 766)
+
+### 135
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el potencial de membrana de las células excitables cuando no están estimuladas y cuando responden a estímulos?
+
+- A. Cuando no están estimuladas se encuentran en potencial de reposo; en respuesta a estímulos presentan respuestas de potencial, como el potencial de acción, que son cambios transitorios
+- B. Cuando no están estimuladas están en potencial de acción; en respuesta a estímulos, en potencial de reposo
+- C. En ambos casos se denomina potencial de reposo
+- D. En ambos casos se denomina potencial de acción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · potencial de reposo
+
+Es conveniente usar nombres distintos para el potencial de membrana en las células excitables: cuando no están estimuladas se encuentran en potencial de reposo, y en respuesta a estímulos presentan respuestas de potencial como el potencial de acción, que son cambios transitorios.
+
+### 136
+
+De acuerdo con el libro de Biología, los cambios en el potencial de membrana se subdividen en respuestas pasivas y activas. ¿Dónde se desarrolla cada una y qué distancia recorre?
+
+- A. Las pasivas se desarrollan en el soma y las dendritas y se desplazan a muy cortas distancias; las activas se generan en el axón y pueden desplazarse largas distancias
+- B. Las pasivas se generan en el axón y recorren largas distancias; las activas, en el soma y las dendritas, cortas distancias
+- C. Ambas se generan en el axón y recorren largas distancias
+- D. Ambas se desarrollan en las dendritas y recorren cortas distancias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · respuestas pasivas y activas
+
+Las respuestas pasivas se desarrollan en el soma y las dendritas de las neuronas, y se desplazan a muy cortas distancias; las activas se generan en el axón y pueden desplazarse largas distancias. Se denominan potenciales de acción.
+
+### 137
+
+De acuerdo con el libro de Biología, los potenciales de acción registrados para una misma neurona, ¿cómo son entre sí?
+
+- A. Casi siempre son iguales
+- B. Siempre son diferentes y variables
+- C. Aumentan de tamaño con cada estímulo
+- D. Disminuyen de tamaño con el paso del tiempo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · potenciales de acción
+
+Los potenciales de acción registrados para una misma neurona casi siempre son iguales.
+
+### 138
+
+De acuerdo con el libro de Biología, según la figura 32-10, ¿de qué se muestra la respuesta y frente a qué estímulo?
+
+- A. La respuesta de una sola neurona sensorial de la piel de un gato frente a la presión
+- B. La respuesta de una neurona motora de la médula de un gato frente a la luz
+- C. La respuesta de un axón gigante de calamar frente al calor
+- D. La respuesta de la glándula suprarrenal frente al estrés
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · potencial de acción
+
+En la figura 32-10 se muestra la respuesta de una sola neurona sensorial de la piel de un gato frente a la presión.
+
+### 139
+
+De acuerdo con el libro de Biología, frente a un estímulo, ¿qué condición debe cumplir su intensidad para que se genere un potencial de acción en el axón?
+
+- A. Que sea suficiente, es decir, que supere un valor umbral
+- B. Que sea muy débil, por debajo del valor umbral
+- C. Que se mantenga durante varios minutos sin interrupción
+- D. Que provenga siempre del soma y las dendritas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · valor umbral
+
+Frente a un estímulo, si su intensidad es suficiente (supera un valor umbral), se genera un potencial de acción en el axón.
+
+### 140
+
+De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, los impulsos generados en el axón al superarse el umbral, ¿de qué tamaño son y cómo se llama esa respuesta?
+
+- A. Todos son del mismo tamaño; es la respuesta de "todo o nada"
+- B. Cada uno es de distinto tamaño según la intensidad del estímulo; es la respuesta "graduada"
+- C. Aumentan de tamaño con estímulos más fuertes; es la respuesta "proporcional"
+- D. Son cada vez más pequeños; es la respuesta "decreciente"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · todo o nada
+
+Todos los impulsos así generados son del mismo tamaño (respuesta de "todo o nada").
+
+### 141
+
+De acuerdo con el libro de Biología, según la figura 32-9b, cuando un microelectrodo se coloca dentro de la membrana, ¿qué muestra el osciloscopio y cómo se llama esa diferencia?
+
+- A. Que el potencial eléctrico en el interior de la neurona es menor que en el exterior, con una diferencia cercana a los 70 milivoltios: es el potencial de membrana en reposo
+- B. Que el interior es mayor que el exterior, con una diferencia de 180 mV
+- C. Que no hay ninguna diferencia de potencial entre el interior y el exterior
+- D. Una inversión instantánea del potencial, llamada potencial de acción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · potencial de membrana en reposo
+
+Cuando un microelectrodo se coloca dentro de la membrana, el osciloscopio muestra que el potencial eléctrico en el interior de la neurona es menor que en el exterior, y que la diferencia entre los dos es cercana a los 70 milivoltios. Este es el potencial de membrana en reposo.
+
+### 142
+
+De acuerdo con el libro de Biología, según la figura 32-9c, cuando el axón es estimulado y el impulso alcanza los microelectrodos, ¿qué muestra el osciloscopio y cómo se conoce?
+
+- A. Una inversión instantánea del potencial de membrana, que se conoce como potencial de acción
+- B. Una diferencia de potencial constante de 0 mV
+- C. Un potencial de reposo estable de –70 mV
+- D. La desaparición permanente del potencial de membrana
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 766
+**Subtema:** sistema nervioso · potencial de acción
+
+Cuando el axón es estimulado de manera apropiada, la excitación nerviosa se propaga a lo largo de él como un impulso nervioso. Cuando el impulso alcanza la región en la cual se encuentran los microelectrodos, el osciloscopio muestra una inversión instantánea del potencial de membrana, que se conoce como potencial de acción.
+
+> No confundir con el reposo (reactivo 141): el **potencial de reposo** es la diferencia estable de −70 mV de la célula no estimulada; el **potencial de acción** es la inversión instantánea y transitoria que aparece cuando el impulso llega.
+
 ---
 
-**Reactivos en este archivo:** 127
+**Reactivos en este archivo:** 142
