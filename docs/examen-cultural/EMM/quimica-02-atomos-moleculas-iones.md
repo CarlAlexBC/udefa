@@ -555,7 +555,7 @@ Las cargas positivas del átomo, propuso Rutherford, están todas concentradas e
 
 ### 32
 
-En relación con el libro de Química, en el capítulo 2 sobre los átomos, las moléculas y los iones, ¿cómo se llaman las partículas cargadas positivamente del núcleo y qué masa tienen respecto al electrón?
+En relación con el libro de Química, en el capítulo 2 sobre los átomos y las moléculas, ¿cómo se llaman las partículas cargadas positivamente del núcleo y qué masa tienen respecto al electrón?
 
 - A. Protones; su masa es unas 1840 veces la del electrón con carga opuesta
 - B. Neutrones; su masa es igual a la del electrón
@@ -666,4 +666,282 @@ El electrón, el protón y el neutrón son los tres componentes fundamentales de
 
 ---
 
-**Reactivos en este archivo:** 38
+## Sub-lote 8 · Moléculas
+
+### 39
+
+De acuerdo con el libro de Química, ¿cuáles son los únicos elementos que existen en la naturaleza como átomos individuales?
+
+- A. Solo los seis gases nobles del Grupo 8A (He, Ne, Ar, Kr, Xe y Rn)
+- B. Solo los elementos del Grupo 7A (F, Cl, Br, I y At)
+- C. Solo los metales alcalinos del Grupo 1A
+- D. Solo el hidrógeno y el oxígeno
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 52
+**Subtema:** moléculas e iones · gases monoatómicos
+
+De todos los elementos, solo los seis gases nobles del Grupo 8A de la tabla periódica (He, Ne, Ar, Kr, Xe y Rn) existen en la naturaleza como átomos individuales.
+
+### 40
+
+De conformidad con el libro de Química, ¿cómo se llaman esos gases cuyos elementos existen como átomos individuales y qué significa ese nombre?
+
+- A. Gases monoatómicos, que significa "un átomo"
+- B. Gases diatómicos, que significa "dos átomos"
+- C. Gases poliatómicos, que significa "muchos átomos"
+- D. Gases inertes, que significa "sin reacción"
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 52
+**Subtema:** moléculas e iones · gases monoatómicos
+
+Por esta razón, se les llama gases monoatómicos (que significa "un átomo").
+
+### 41
+
+En relación con el libro de Química, ¿qué es una molécula?
+
+- A. Un agregado de al menos dos átomos en un arreglo definido unidos por fuerzas químicas
+- B. Un átomo o un grupo de átomos que tiene una carga neta positiva o negativa
+- C. La unidad básica de un elemento que puede entrar en combinación química
+- D. Un conjunto de dos o más elementos unidos en proporción variable
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 52
+**Subtema:** moléculas e iones · molécula
+
+Una molécula es un agregado de al menos dos átomos en un arreglo definido unidos por fuerzas químicas (también llamados enlaces químicos).
+
+### 42
+
+De acuerdo con el libro de Química, ¿por qué una molécula no es necesariamente un compuesto, según el ejemplo del hidrógeno gaseoso?
+
+- A. Porque el hidrógeno gaseoso es un elemento puro, pero consta de moléculas formadas por dos átomos de H cada una
+- B. Porque el hidrógeno gaseoso contiene átomos de dos elementos distintos
+- C. Porque el hidrógeno gaseoso existe en la naturaleza como átomos individuales
+- D. Porque el hidrógeno gaseoso tiene una carga neta positiva
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 52
+**Subtema:** moléculas e iones · molécula
+
+Por lo tanto, una molécula no es necesariamente un compuesto que, por definición, se compone de dos o más elementos. El hidrógeno gaseoso, por ejemplo, es un elemento puro, pero consta de moléculas formadas por dos átomos de H cada una.
+
+### 43
+
+De conformidad con el libro de Química, ¿qué carga eléctrica tienen las moléculas?
+
+- A. Son eléctricamente neutras, al igual que los átomos
+- B. Tienen siempre una carga neta positiva
+- C. Tienen siempre una carga neta negativa
+- D. Su carga depende del número de átomos que contengan
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 52
+**Subtema:** moléculas e iones · molécula
+
+Al igual que los átomos, las moléculas son eléctricamente neutras.
+
+### 44
+
+En relación con el libro de Química, ¿por qué la molécula de hidrógeno se llama molécula diatómica?
+
+- A. Porque contiene solo dos átomos
+- B. Porque contiene dos elementos diferentes
+- C. Porque tiene dos cargas positivas
+- D. Porque se forma a partir de dos moléculas más pequeñas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 52
+**Subtema:** moléculas e iones · molécula diatómica
+
+La molécula de hidrógeno, simbolizada como H2, se llama molécula diatómica, porque contiene solo dos átomos.
+
+### 45
+
+De acuerdo con el libro de Química, además del hidrógeno, ¿qué otros elementos existen normalmente como moléculas diatómicas?
+
+- A. El nitrógeno y el oxígeno, así como los elementos del Grupo 7A: flúor, cloro, bromo y yodo
+- B. Solo los gases nobles del Grupo 8A
+- C. El carbono, el azufre y el fósforo
+- D. Los metales alcalinos del Grupo 1A
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 52
+**Subtema:** moléculas e iones · molécula diatómica
+
+Otros elementos que normalmente existen como moléculas diatómicas son el nitrógeno (N2) y el oxígeno (O2), así como los elementos del Grupo 7A: flúor (F2), cloro (Cl2), bromo (Br2) y yodo (I2).
+
+### 46
+
+De conformidad con el libro de Química, ¿qué ejemplos da el libro de moléculas diatómicas formadas por átomos de elementos diferentes?
+
+- A. El cloruro de hidrógeno (HCl) y el monóxido de carbono (CO)
+- B. El ozono (O3) y el agua (H2O)
+- C. El amoníaco (NH3) y el ozono (O3)
+- D. El nitrógeno (N2) y el oxígeno (O2)
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 52
+**Subtema:** moléculas e iones · molécula diatómica
+
+Por supuesto, una molécula diatómica puede contener átomos de diferentes elementos. Algunos ejemplos son el cloruro de hidrógeno (HCl) y el monóxido de carbono (CO).
+
+### 47
+
+En relación con el libro de Química, ¿a qué se les llama moléculas poliatómicas?
+
+- A. A las moléculas que contienen más de dos átomos
+- B. A las moléculas que contienen exactamente dos átomos
+- C. A las moléculas formadas por más de dos elementos distintos
+- D. A las moléculas que tienen una carga neta
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 52
+**Subtema:** moléculas e iones · moléculas poliatómicas
+
+Las moléculas que contienen más de dos átomos se llaman moléculas poliatómicas. Al igual que el ozono, el agua (H2O) y el amoníaco (NH3) son moléculas poliatómicas.
+
+---
+
+## Sub-lote 9 · Iones
+
+### 48
+
+De acuerdo con el libro de Química, ¿qué es un ion?
+
+- A. Un átomo o un grupo de átomos que tiene una carga neta positiva o negativa
+- B. Un agregado de al menos dos átomos unidos por fuerzas químicas
+- C. La unidad básica de un elemento que puede entrar en combinación química
+- D. Una molécula formada por más de dos átomos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 52
+**Subtema:** moléculas e iones · ion
+
+Un ion es un átomo o un grupo de átomos que tiene una carga neta positiva o negativa.
+
+### 49
+
+De conformidad con el libro de Química, ¿qué es un catión y cómo se forma?
+
+- A. Un ion con una carga neta positiva, que resulta de la pérdida de uno o más electrones de un átomo neutro
+- B. Un ion con una carga neta negativa, que resulta de ganar uno o más electrones
+- C. Un átomo neutro que ha ganado un protón en el núcleo
+- D. Un grupo de átomos que no tiene carga neta
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 53
+**Subtema:** moléculas e iones · catión
+
+La pérdida de uno o más electrones de un átomo neutro da como resultado un catión, un ion con una carga neta positiva.
+
+### 50
+
+En relación con el libro de Química, cuando un átomo de sodio se convierte en catión de sodio, ¿cómo quedan sus protones y sus electrones?
+
+- A. Conserva 11 protones y pasa de 11 a 10 electrones
+- B. Conserva 11 protones y pasa de 11 a 12 electrones
+- C. Pasa de 11 a 10 protones y conserva sus 11 electrones
+- D. Conserva 17 protones y pasa de 17 a 18 electrones
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 53
+**Subtema:** moléculas e iones · catión
+
+Un átomo de sodio (Na) puede perder fácilmente un electrón para convertirse en un catión de sodio, que está representado por Na+. En el átomo: 11 protones, 11 electrones. Ion Na+: 11 protones, 10 electrones.
+
+### 51
+
+De acuerdo con el libro de Química, ¿qué es un anión?
+
+- A. Un ion cuya carga neta es negativa, debido a un aumento en el número de electrones
+- B. Un ion cuya carga neta es positiva, debido a la pérdida de electrones
+- C. Un átomo que ha perdido protones de su núcleo
+- D. Una molécula eléctricamente neutra
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 53
+**Subtema:** moléculas e iones · anión
+
+Por otro lado, un anión es un ion cuya carga neta es negativa debido a un aumento en el número de electrones.
+
+### 52
+
+De conformidad con el libro de Química, cuando un átomo de cloro gana un electrón para convertirse en ion cloruro, ¿cómo quedan sus protones y sus electrones?
+
+- A. Conserva 17 protones y pasa de 17 a 18 electrones
+- B. Conserva 17 protones y pasa de 17 a 16 electrones
+- C. Pasa de 17 a 18 protones y conserva sus 17 electrones
+- D. Conserva 11 protones y pasa de 11 a 10 electrones
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 53
+**Subtema:** moléculas e iones · anión
+
+Un átomo de cloro (Cl), por ejemplo, puede ganar un electrón para convertirse en el ion cloruro Cl−. Átomo de cloro: 17 protones, 17 electrones. Ion Cl−: 17 protones, 18 electrones.
+
+### 53
+
+En relación con el libro de Química, ¿por qué el cloruro de sodio (NaCl) se denomina compuesto iónico?
+
+- A. Porque se forma a partir de cationes y aniones
+- B. Porque se forma a partir de dos átomos del mismo elemento
+- C. Porque es una molécula eléctricamente neutra
+- D. Porque contiene más de dos átomos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 53
+**Subtema:** moléculas e iones · compuesto iónico
+
+El cloruro de sodio (NaCl), la sal de mesa ordinaria, se denomina compuesto iónico porque se forma a partir de cationes y aniones.
+
+### 54
+
+De acuerdo con el libro de Química, ¿a qué se les llama iones monoatómicos?
+
+- A. A los iones que contienen un solo átomo
+- B. A los iones que contienen más de un átomo
+- C. A los iones que tienen una sola carga positiva
+- D. A los iones formados únicamente por metales
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 53
+**Subtema:** moléculas e iones · iones monoatómicos
+
+Estos iones, así como el Na+ y el Cl−, se denominan iones monoatómicos, porque contienen un solo átomo.
+
+### 55
+
+De conformidad con el libro de Química, con muy pocas excepciones, ¿qué tipo de iones tienden a formar los metales y los no metales?
+
+- A. Los metales tienden a formar cationes y los no metales forman aniones
+- B. Los metales tienden a formar aniones y los no metales forman cationes
+- C. Tanto los metales como los no metales tienden a formar cationes
+- D. Tanto los metales como los no metales forman moléculas neutras
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 53
+**Subtema:** moléculas e iones · iones monoatómicos
+
+Con muy pocas excepciones, los metales tienden a formar cationes y los no metales forman aniones.
+
+### 56
+
+En relación con el libro de Química, ¿qué son los iones poliatómicos y qué ejemplos da el libro?
+
+- A. Iones que contienen más de un átomo, como el ion hidróxido, el ion cianuro y el ion amonio
+- B. Iones que contienen un solo átomo, como el sodio y el cloruro
+- C. Moléculas eléctricamente neutras formadas por más de dos átomos
+- D. Átomos que han perdido más de un electrón, como el magnesio y el hierro
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 53
+**Subtema:** moléculas e iones · iones poliatómicos
+
+Además, dos o más átomos pueden combinarse para formar un ion que tiene una carga neta positiva o neta negativa. Iones poliatómicos como OH− (ion hidróxido), CN− (ion cianuro) y NH4+ (ion amonio) son iones que contienen más de un átomo.
+
+---
+
+**Reactivos en este archivo:** 56
