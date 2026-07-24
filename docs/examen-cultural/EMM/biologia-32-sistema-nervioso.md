@@ -145,9 +145,18 @@ restablece el reposo), el arranque de la **propagación del impulso nervioso** (
 despolarización se autopropaga y autorrefuerza, como una llama en una mecha, mientras el
 primer sector se repolariza, fig. 32-13), y el pie de la fig. 32-12 (las bombas
 restablecen el reposo al finalizar, y el potencial umbral autoinducido que da origen al
-potencial de acción).
+potencial de acción). De la **página 770** se cubre la conducción unidireccional (del cono
+axónico al teledendrón) y el período refractario (la inactivación del Na+ más la
+hiperpolarización impiden un nuevo potencial de acción y evitan que se junten a alta
+frecuencia); la conducción saltatoria (figs. 32-13 y 32-14): la velocidad según el diámetro,
+la vaina de mielina de las células de Schwann como aislante lipídico con nodos de Ranvier,
+el salto del potencial de acción de nodo en nodo hasta 120 m/s con ahorro energético de la
+bomba; y el arranque de "La sinapsis" (figs. 32-15 y 32-16): Ramón y Cajal (1852-1934) que
+describió las zonas de comunicación y Sherrington (1857-1952) que las llamó sinapsis, las
+sinapsis eléctricas (uniones comunicantes/gap junctions) y químicas (mayoritarias en
+mamíferos, las neuronas nunca se tocan, hendidura sináptica de ~20 nm).
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 770 (hoja 816) en adelante (el resto de la propagación del impulso nervioso, la fig. 32-13, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 771 (hoja 817) en adelante (el resto de las sinapsis químicas y la transmisión sináptica, las figs. 32-15 y 32-16, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -2947,6 +2956,286 @@ De acuerdo con el libro de Biología, según la figura 32-12, ¿qué es el poten
 
 El potencial umbral es el valor del potencial de membrana al cual debe llegar la membrana del axón luego de la estimulación para que ocurra la apertura de canales de Na+ sensibles al potencial de membrana. A partir de ese momento, la apertura de este tipo de canales de Na+ es autoinducida y da origen al potencial de acción.
 
+## Sub-lote 21 · La conducción unidireccional y el período refractario (p. 770)
+
+### 181
+
+De acuerdo con el libro de Biología, ¿en qué dirección se conduce el impulso nervioso y por qué?
+
+- A. En una sola dirección, desde el cono axónico —donde se originan los potenciales de acción— hacia el teledendrón (la arborización terminal del axón), porque el origen de los potenciales de acción se encuentra en la zona inicial del axón
+- B. Desde el teledendrón hacia el cono axónico, porque los potenciales de acción se originan en la arborización terminal
+- C. En ambas direcciones a la vez a lo largo del axón
+- D. Desde las dendritas hacia el soma, sin recorrer el axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · conducción unidireccional
+
+El impulso nervioso se conduce en una sola dirección, desde el cono axónico —en donde se originan los potenciales de acción— hacia el teledendrón, la arborización terminal del axón. Esto se debe a que el origen de los potenciales de acción se encuentra en la zona inicial del axón.
+
+### 182
+
+De acuerdo con el libro de Biología, ¿cómo se explica el flujo unidireccional del impulso nervioso?
+
+- A. Porque los canales de Na+, inmediatamente después de abrirse, pasan a un estado inactivo y solo pueden volver a abrirse transcurrido un cierto tiempo; esto, más la hiperpolarización, hacen que el segmento anterior tenga un período refractario
+- B. Porque la vaina de mielina impide que el impulso retroceda
+- C. Porque el teledendrón bombea el impulso hacia adelante con gasto de energía
+- D. Porque los canales de K+ permanecen cerrados durante todo el impulso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · período refractario
+
+El flujo unidireccional se explica porque los canales de Na+, inmediatamente después de abrirse, pasan a un estado inactivo y solo están en condiciones de volver a abrirse transcurrido un cierto tiempo. Este hecho, más el estado de hiperpolarización, hacen que el segmento del axón anterior al sitio en donde se produjo el potencial de acción tenga un período refractario.
+
+### 183
+
+De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuánto dura el período refractario y qué impide?
+
+- A. Dura varios milisegundos, de modo tal que no puede generarse un nuevo potencial de acción
+- B. Dura varios minutos, durante los cuales se generan muchos potenciales de acción
+- C. No tiene duración definida y permite generar potenciales de acción sin límite
+- D. Dura varios segundos, y acelera la generación de nuevos potenciales de acción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · período refractario
+
+El segmento del axón anterior al sitio en donde se produjo el potencial de acción tiene un período refractario, que dura varios milisegundos, de modo tal que no puede generarse un nuevo potencial de acción.
+
+### 184
+
+De acuerdo con el libro de Biología, dado que la intensidad de los estímulos se codifica por la frecuencia de potenciales de acción, ¿qué permite el período refractario?
+
+- A. Permite que, frente a una alta frecuencia de disparo, un potencial de acción no se junte con el siguiente
+- B. Permite que los potenciales de acción se fusionen en uno solo de mayor amplitud
+- C. Permite que la neurona deje de responder por completo a los estímulos
+- D. Permite que los potenciales de acción viajen en ambas direcciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · período refractario
+
+Debido a que la intensidad de los estímulos sensoriales se codifica a través de la frecuencia de potenciales de acción, este período refractario permite que, frente a una alta frecuencia de disparo, un potencial de acción no se junte con el siguiente.
+
+## Sub-lote 22 · La vaina de mielina y la conducción saltatoria (figs. 32-13 y 32-14, p. 770)
+
+### 185
+
+De acuerdo con el libro de Biología, la velocidad de conducción del impulso nervioso no es igual para todas las neuronas. ¿Qué axones conducen más rápido?
+
+- A. Los axones de mayor diámetro conducen más rápido que los de menor calibre
+- B. Los axones de menor diámetro conducen más rápido que los de mayor calibre
+- C. Todos los axones conducen a la misma velocidad
+- D. Los axones más cortos conducen más rápido que los más largos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · velocidad de conducción
+
+La velocidad de conducción del impulso nervioso es esencial para la supervivencia de los animales y no es igual para todas las neuronas. Los axones de mayor diámetro conducen más rápido que los de menor calibre.
+
+### 186
+
+De acuerdo con el libro de Biología, los axones largos de los vertebrados suelen estar envueltos en vainas de mielina. ¿Qué células especializadas las forman?
+
+- A. Las células de Schwann
+- B. Las neuronas sensoriales
+- C. Los glóbulos rojos
+- D. Las células de la médula suprarrenal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · vaina de mielina
+
+Los axones largos de los vertebrados, por lo general, están envueltos en vainas de mielina, formadas por células especializadas: las células de Schwann.
+
+### 187
+
+De acuerdo con el libro de Biología, ¿cómo actúa la vaina de mielina y cómo se llaman sus interrupciones a intervalos regulares?
+
+- A. Actúa como un aislante de origen lipídico interrumpido a intervalos regulares: los llamados nodos de Ranvier
+- B. Actúa como un conductor de origen proteico continuo, sin interrupciones
+- C. Actúa como una bomba de iones ubicada en el cono axónico
+- D. Actúa como un aislante de origen mineral que recubre todo el axón sin interrupciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · nodos de Ranvier
+
+La vaina de mielina actúa como un aislante de origen lipídico interrumpido a intervalos regulares: los llamados nodos de Ranvier.
+
+### 188
+
+De acuerdo con el libro de Biología, en las fibras mielinizadas, ¿en qué lugar pueden moverse los iones Na+ y K+ a través de la membrana del axón?
+
+- A. Solo en los nodos de Ranvier
+- B. A lo largo de toda la membrana del axón por igual
+- C. Únicamente en el teledendrón
+- D. En ningún punto de la membrana del axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · nodos de Ranvier
+
+Solo en los nodos, los iones Na+ y K+ pueden moverse a través de la membrana del axón.
+
+### 189
+
+De acuerdo con el libro de Biología, en las fibras mielinizadas, ¿cómo se desplaza el potencial de acción y cómo se llama esa conducción?
+
+- A. El potencial de acción "salta" de un nodo a otro, no se mueve de manera continua; esta conducción saltatoria incrementa en gran medida la velocidad
+- B. El potencial de acción se mueve de manera continua a lo largo de toda la membrana, y esto disminuye la velocidad
+- C. El potencial de acción permanece fijo en un solo nodo
+- D. El potencial de acción retrocede de nodo en nodo hacia el soma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · conducción saltatoria
+
+En las fibras mielinizadas —que incluyen todas las fibras nerviosas grandes de los vertebrados— el potencial de acción "salta" de un nodo a otro, no se mueve de manera continua a lo largo de la membrana. Esta conducción saltatoria incrementa en gran medida la velocidad.
+
+### 190
+
+De acuerdo con el libro de Biología, ¿qué velocidad alcanzan algunas fibras nerviosas mielínicas grandes, en comparación con las fibras amielínicas y pequeñas?
+
+- A. Alcanzan los 120 m/s, frente a solo unos pocos metros por segundo en las fibras amielínicas y pequeñas
+- B. Alcanzan los 12 m/s, frente a los 120 m/s de las fibras amielínicas
+- C. Alcanzan los 1200 m/s, frente a los 120 m/s de las fibras amielínicas
+- D. Ambos tipos de fibras conducen a la misma velocidad de 120 m/s
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · velocidad de conducción
+
+Algunas fibras nerviosas mielínicas grandes conducen impulsos a velocidades que alcanzan los 120 m/s, en comparación con las velocidades de solo unos pocos metros por segundo en fibras amielínicas y pequeñas.
+
+### 191
+
+De acuerdo con el libro de Biología, en las fibras mielinizadas, ¿por qué existe un enorme ahorro energético por parte de la bomba de Na+/K+-ATPasa?
+
+- A. Porque los iones Na+ y K+ se mueven solo a través de una pequeña porción de la membrana del axón
+- B. Porque la bomba de Na+/K+-ATPasa deja de funcionar por completo
+- C. Porque los iones se mueven a lo largo de toda la membrana del axón
+- D. Porque la mielina genera energía que reemplaza a la bomba
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · ahorro energético
+
+Dado que los iones Na+ y K+ se mueven solo a través de una pequeña porción de la membrana del axón, existe un enorme ahorro energético por parte de la bomba de Na+/K+-ATPasa.
+
+### 192
+
+De acuerdo con el libro de Biología, según la figura 32-13a, en una fibra sin vaina de mielina, ¿cómo ocurren la despolarización y la repolarización?
+
+- A. Toda la membrana del axón está en contacto con el líquido intersticial, y la despolarización y la repolarización ocurren punto a punto a lo largo de ella
+- B. Solo los nodos de Ranvier están en contacto con el líquido intersticial, y el impulso salta entre ellos
+- C. La despolarización ocurre en un solo punto y no se propaga
+- D. La membrana no contiene canales ni bombas de Na+/K+
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · conducción nerviosa
+
+En una fibra sin vaina de mielina, toda la membrana del axón está en contacto con el líquido intersticial. Todas las partes de la membrana contienen canales y bombas de Na+/K+. La despolarización y la repolarización de la membrana ocurren punto a punto a lo largo de ella.
+
+## Sub-lote 23 · La sinapsis: eléctricas y químicas (figs. 32-15 y 32-16, p. 770)
+
+### 193
+
+De acuerdo con el libro de Biología, ¿quién fue el histólogo español que describió las zonas de comunicación entre neuronas?
+
+- A. Santiago Ramón y Cajal (1852-1934)
+- B. Charles Sherrington (1857-1952)
+- C. Luigi Galvani (1737-1798)
+- D. Eric Kandel
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · la sinapsis
+
+El histólogo español Santiago Ramón y Cajal (1852-1934) describió las zonas de comunicación entre neuronas.
+
+### 194
+
+De acuerdo con el libro de Biología, ¿quién llamó "sinapsis" a esas zonas, sobre la base de sus experimentos acerca de la velocidad de propagación de la señal en vías reflejas?
+
+- A. El fisiólogo inglés Charles Sherrington (1857-1952)
+- B. El histólogo español Santiago Ramón y Cajal (1852-1934)
+- C. Luigi Galvani (1737-1798)
+- D. Eric Kandel
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · la sinapsis
+
+Sobre la base de sus experimentos acerca de la velocidad de propagación de la señal en vías reflejas, el fisiólogo inglés Charles Sherrington (1857-1952) llamó sinapsis a esas zonas.
+
+> No confundir a los dos: **Ramón y Cajal** (1852-1934) *describió* las zonas de comunicación entre neuronas; **Sherrington** (1857-1952) las *nombró* sinapsis.
+
+### 195
+
+De acuerdo con el libro de Biología, las señales se transmiten de una neurona a otra a lo largo de las sinapsis. ¿De qué naturaleza pueden ser estas?
+
+- A. De naturaleza eléctrica o química
+- B. Únicamente de naturaleza eléctrica
+- C. Únicamente de naturaleza química
+- D. De naturaleza mecánica o luminosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · tipos de sinapsis
+
+Las señales se transmiten desde una neurona a otra a lo largo de estas sinapsis, que pueden ser de naturaleza eléctrica o química.
+
+### 196
+
+De acuerdo con el libro de Biología, en las sinapsis eléctricas, ¿a través de qué fluyen los iones?
+
+- A. A través de uniones comunicantes (en inglés, gap junctions), que comunican los citoplasmas de neuronas íntimamente yuxtapuestas
+- B. A través de la hendidura sináptica de 20 nanómetros
+- C. A través de la vaina de mielina de los nodos de Ranvier
+- D. A través de la bomba de Na+/K+-ATPasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · sinapsis eléctricas
+
+En las sinapsis eléctricas, los iones fluyen a través de uniones comunicantes (en inglés, gap junctions), que se producen entre las membranas celulares de las neuronas. Estas uniones comunican los citoplasmas de neuronas íntimamente yuxtapuestas, y las corrientes iónicas presinápticas pueden transmitirse de forma pasiva a la neurona siguiente.
+
+### 197
+
+De acuerdo con el libro de Biología, las sinapsis químicas constituyen el tipo de conexión mayoritario en el sistema nervioso de los mamíferos. ¿Qué ocurre con las dos neuronas en ellas?
+
+- A. Las dos neuronas nunca se tocan
+- B. Las dos neuronas se fusionan en una sola
+- C. Las dos neuronas comparten el mismo citoplasma
+- D. Las dos neuronas se tocan a través de uniones comunicantes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · sinapsis químicas
+
+En las sinapsis químicas, que constituyen el tipo de conexión mayoritario en el sistema nervioso de los mamíferos, las dos neuronas nunca se tocan.
+
+> Contraste clave: en las **sinapsis eléctricas** las neuronas están íntimamente yuxtapuestas y comunicadas por uniones comunicantes; en las **químicas** (mayoritarias en mamíferos) las dos neuronas *nunca se tocan* y las separa la hendidura sináptica.
+
+### 198
+
+De acuerdo con el libro de Biología, en las sinapsis químicas, ¿cómo se llama el espacio de alrededor de 20 nanómetros que separa a las dos neuronas?
+
+- A. La hendidura sináptica
+- B. La unión comunicante
+- C. El nodo de Ranvier
+- D. El cono axónico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
+**Subtema:** sistema nervioso · hendidura sináptica
+
+Un espacio de alrededor de 20 nanómetros, conocido como hendidura sináptica, separa a las dos neuronas en las sinapsis químicas.
+
 ---
 
-**Reactivos en este archivo:** 180
+**Reactivos en este archivo:** 198
