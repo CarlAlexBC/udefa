@@ -625,7 +625,7 @@ De acuerdo con el libro de Química, ¿qué es un ácido monoprótico?
 **Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 131
 **Subtema:** Química · reacciones ácido-base
 
-Los ácidos monopróticos; es decir, cada unidad del ácido produce un ion de hidrógeno tras la ionización.
+En un ácido monoprótico, cada unidad del ácido produce un ion de hidrógeno tras la ionización.
 
 ### 37
 
