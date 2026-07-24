@@ -82,9 +82,21 @@ artrópodos, sin vínculo con el circulatorio) y "Las branquias de los vertebrad
 origen alimentario y el caso actual de *Branchiostoma*, el paso a la función respiratoria,
 las laminillas secundarias, la ventilación por el piso de la boca y el opérculo, los peces
 de natación rápida que pueden asfixiarse en un acuario, y el mecanismo de contracorriente
-de la fig. 35-4, con la hemoglobina como responsable de la capacidad de transporte).
+de la fig. 35-4, con la hemoglobina como responsable de la capacidad de transporte). De la
+**página 832** se cubren los pulmones de los vertebrados y la comparación aire/agua (el
+volumen 15 veces mayor de agua que debe bombear un pez, la desventaja del flujo y reflujo
+frente al flujo continuo, y las tres ventajas del aire: 21 % de O2 frente al 0,5 % del agua
+a 15 ºC, difusión 300 000 veces más rápida y un costo de ventilación del 1-2 % frente al
+20 % del pez; más los pulmones de los caracoles terrestres, el origen de los pulmones en la
+zona anterior de la faringe y los peces pulmonados de agua dulce); la respiración de los
+vertebrados terrestres (pulmones de anfibios y reptiles, la epiglotis y las ventanas
+nasales, la piel de los anfibios, el bombeo bucal de las ranas, la cavidad torácica de
+reptiles, aves y mamíferos, y los sacos aéreos de las aves con su flujo unidireccional,
+fig. 35-5); y el arranque de "El sistema respiratorio humano" (las cavidades nasales que
+filtran, humedecen y calientan el aire, la faringe, la laringe con las cuerdas vocales, la
+tráquea con sus anillos de cartílago, y los bronquios y bronquíolos).
 
-**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 832 (hoja 878) en adelante (el resto del capítulo: los pulmones y la respiración de los vertebrados terrestres, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 833 (hoja 879) en adelante (el resto del sistema respiratorio humano: los alvéolos, la mecánica respiratoria y el transporte de gases, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -1068,6 +1080,314 @@ De acuerdo con el libro de Biología, según la figura 35-4, ¿qué se necesita 
 
 Se necesitan importantes volúmenes de agua para abastecer de O2 al torrente sanguíneo, cuya capacidad de transporte es elevada debido a la hemoglobina, que une oxígeno.
 
+## Sub-lote 9 · Los pulmones de los vertebrados: el aire frente al agua (p. 832)
+
+### 64
+
+De acuerdo con el libro de Biología, para saturar de O2 un determinado volumen de sangre, ¿qué volumen de agua debe bombear la mayoría de los peces por las branquias?
+
+- A. Un volumen 15 veces mayor de agua
+- B. Un volumen 15 veces menor de agua
+- C. Un volumen exactamente igual al de la sangre
+- D. Un volumen 300 000 veces mayor de agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · volúmenes de agua y sangre
+
+Dado que, debido a la presencia de hemoglobina, la sangre tiene mucha más capacidad de transporte de O2 que el agua, para saturar de O2 un determinado volumen de sangre, la mayoría de los peces debe bombear un volumen 15 veces mayor de agua por las branquias.
+
+### 65
+
+De acuerdo con el libro de Biología, ¿qué son los pulmones y qué desventaja tienen frente a las branquias?
+
+- A. Son cavidades internas desde las cuales el O2 del aire ingresa en el torrente sanguíneo; su desventaja es que, para la difusión, es más eficiente un flujo continuo de fluido que el flujo y reflujo rítmicos de los pulmones, que se llenan y se vacían con regularidad
+- B. Son superficies evaginadas; su desventaja es que no poseen capilares sanguíneos
+- C. Son tubos ramificados; su desventaja es que no se comunican con el exterior
+- D. Son cavidades internas; su desventaja es que el aire contiene menos O2 que el agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · pulmones de los vertebrados
+
+Los pulmones son cavidades internas desde las cuales el O2 contenido en el aire ingresa en el torrente sanguíneo. Si se comparan con las branquias, los pulmones tienen una desventaja: desde el punto de vista de la difusión, es más eficiente tener un flujo continuo de fluido a través de la superficie respiratoria que un flujo y reflujo rítmicos como ocurre en los pulmones, que se llenan y se vacían de aire con regularidad.
+
+### 66
+
+De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, ¿qué porcentaje de O2 tiene el aire de la atmósfera actual en comparación con el agua a 15 ºC?
+
+- A. El 21% del volumen del aire es O2, en comparación con el 0,5% de O2 que se encuentra en el agua a 15 ºC
+- B. El 0,5% del volumen del aire es O2, en comparación con el 21% del agua a 15 ºC
+- C. Ambos contienen alrededor del 21% de O2
+- D. El aire contiene 77% de O2 y el agua 21%
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · el aire frente al agua
+
+El aire es una fuente de O2 muy superior al agua: el 21% del volumen de aire de la atmósfera actual es O2, en comparación con el 0,5% de O2 que se encuentra en el agua, a 15 ºC.
+
+### 67
+
+De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, ¿cuántas veces más rápido se difunde el O2 en el aire que en el agua?
+
+- A. Unas 300 000 veces más rápido
+- B. Unas 15 veces más rápido
+- C. Unas 300 veces más rápido
+- D. Unas 21 veces más rápido
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · difusión en aire y agua
+
+El O2 se difunde unas 300 000 veces más rápido en el aire que en el agua y, por lo tanto, se puede obtener mucho más rápido del aire a medida que es utilizado por los organismos que respiran.
+
+### 68
+
+De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, ¿cuánta energía gasta un pez en el trabajo muscular de la ventilación en comparación con un organismo que respira aire?
+
+- A. Un pez gasta hasta el 20% de su energía, mientras que un organismo que respira aire gasta solo entre el 1 y el 2%
+- B. Un pez gasta entre el 1 y el 2%, mientras que un organismo que respira aire gasta hasta el 20%
+- C. Ambos gastan alrededor del 20% de su energía
+- D. Un pez gasta el 50% y un organismo que respira aire, el 20%
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · costo energético de la ventilación
+
+El agua tiene una viscosidad mucho más elevada que el aire, por lo que se requiere más trabajo para movilizar un mismo volumen de agua que de aire. Un pez gasta hasta el 20% de su energía en el trabajo muscular asociado con la ventilación, mientras que un organismo que respira aire gasta solo entre el 1 y el 2% de su energía en este proceso.
+
+> Las tres ventajas del aire sobre el agua, juntas: contiene **más O2** (21% frente a 0,5%), el O2 **difunde 300 000 veces más rápido** en él, y es **menos viscoso**, por lo que ventilar cuesta mucho menos energía (1-2% frente al 20% del pez).
+
+### 69
+
+De acuerdo con el libro de Biología, además de los vertebrados, ¿en qué otros animales se encuentran pulmones?
+
+- A. En algunos invertebrados, como los caracoles terrestres, que han desarrollado de forma independiente pulmones de notable similitud a los de algunos anfibios
+- B. Únicamente en los peces óseos de natación rápida
+- C. En todos los artrópodos terrestres, que los desarrollaron a partir de las tráqueas
+- D. En ningún invertebrado: son exclusivos de los vertebrados
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · pulmones en invertebrados
+
+Si bien los pulmones son fundamentalmente un órgano característico de los vertebrados, también se encuentran en algunos invertebrados, como los caracoles terrestres, que han desarrollado, de forma independiente, pulmones de notable similitud a los de algunos anfibios.
+
+### 70
+
+De acuerdo con el libro de Biología, en algunos peces primitivos que poseían branquias y pulmones, ¿a partir de qué zona se desarrollaron los pulmones?
+
+- A. A partir de la zona anterior de la faringe, de manera independiente de las branquias
+- B. A partir de las propias branquias, por transformación directa
+- C. A partir de la piel del dorso del animal
+- D. A partir del sistema traqueal de los artrópodos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · origen de los pulmones
+
+Algunos peces primitivos poseían tanto branquias como pulmones; estos últimos se desarrollaron de manera independiente de las branquias, a partir de la zona anterior de la faringe.
+
+### 71
+
+De acuerdo con el libro de Biología, ¿cómo es el pulmón de los peces pulmonados y en qué ambiente se habría seleccionado?
+
+- A. Tiene paredes delgadas y muy vascularizadas que permiten un intercambio eficiente de O2; es probable que haya sido seleccionado en organismos que vivían en agua dulce, que a diferencia del agua de mar puede estancarse y perder gran parte del O2 disuelto
+- B. Tiene paredes gruesas y poco vascularizadas; se habría seleccionado en el agua de mar
+- C. Es idéntico al de los mamíferos; se habría seleccionado en ambientes terrestres secos
+- D. Carece de vascularización; se habría seleccionado en aguas muy frías
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · peces pulmonados
+
+El pulmón de los peces pulmonados tiene paredes delgadas y muy vascularizadas, que permiten un intercambio eficiente de O2. Es probable que este pulmón haya sido seleccionado en organismos que vivían en agua dulce que, a diferencia del agua de mar, puede estancarse y perder gran parte del O2 disuelto.
+
+### 72
+
+De acuerdo con el libro de Biología, ¿qué hacen las pocas especies actuales de peces pulmonados y qué logran con ello?
+
+- A. Suben a la superficie, incorporan bocanadas de aire a sus pulmones y vuelven a sumergirse, independizándose en cierta medida de las fluctuaciones en la concentración del O2 disuelto en el agua
+- B. Permanecen siempre en el fondo, respirando únicamente por sus branquias
+- C. Abandonan el agua de forma permanente para vivir en tierra firme
+- D. Cierran sus branquias y respiran solo por la piel
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · peces pulmonados
+
+Todavía existen unas pocas especies de peces pulmonados que pueden respirar tanto en el agua como en el aire con sus branquias y pulmones. Estos peces suben a la superficie, incorporan bocanadas de aire a sus pulmones y vuelven a sumergirse, independizándose, en cierta medida, de las fluctuaciones en la concentración del O2 disuelto en el agua.
+
+## Sub-lote 10 · La respiración de los vertebrados terrestres y las aves (fig. 35-5, p. 832)
+
+### 73
+
+De acuerdo con el libro de Biología, ¿cómo son los pulmones de los anfibios y reptiles?
+
+- A. Relativamente simples, aunque más grandes y complejos que los de los peces pulmonados
+- B. Extremadamente complejos, con sacos aéreos como los de las aves
+- C. Más simples y pequeños que los de los peces pulmonados
+- D. Idénticos a los de los mamíferos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · anfibios y reptiles
+
+Los anfibios y reptiles poseen pulmones relativamente simples, aunque más grandes y complejos que los de los peces pulmonados.
+
+### 74
+
+De acuerdo con el libro de Biología, ¿qué estructuras permiten a los vertebrados que respiran aire hacerlo con la boca cerrada?
+
+- A. Una tráquea protegida por un mecanismo de válvula —la epiglotis— y ventanas nasales
+- B. Un opérculo que cubre las branquias y unos espiráculos
+- C. Una serie de sacos aéreos comunicados con los pulmones
+- D. Unas laminillas secundarias dispuestas en paralelo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · epiglotis
+
+Los anfibios, los reptiles y otros vertebrados que respiran aire tienen una tráquea protegida por un mecanismo de válvula —la epiglotis— y ventanas nasales, que les permiten respirar con la boca cerrada.
+
+### 75
+
+De acuerdo con el libro de Biología, ¿de qué dependen los anfibios y los reptiles para el intercambio gaseoso?
+
+- A. Los anfibios dependen en gran medida de su piel, aunque los reptiles respiran casi por entero a través de los pulmones
+- B. Los anfibios respiran casi por entero por los pulmones y los reptiles por la piel
+- C. Ambos dependen exclusivamente de su piel
+- D. Ambos dependen exclusivamente de branquias internas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · anfibios y reptiles
+
+Los anfibios dependen, en gran medida, de su piel para el intercambio gaseoso, aunque los reptiles respiran casi por entero a través de los pulmones.
+
+### 76
+
+De acuerdo con el libro de Biología, ¿cómo incorporan las ranas el aire a sus pulmones?
+
+- A. Fuerzan su ingreso al contraer el piso de la boca; luego abren la epiglotis y permiten que el aire sea exhalado
+- B. Mediante cambios en la presión y el volumen de la cavidad torácica
+- C. Mediante la expansión y compresión alternada de sacos aéreos
+- D. Bombeando agua por movimientos rítmicos del opérculo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · las ranas
+
+Las ranas incorporan el aire y fuerzan su ingreso en los pulmones al contraer el piso de la boca; luego, abren la epiglotis y permiten que el aire sea exhalado.
+
+### 77
+
+De acuerdo con el libro de Biología, en los reptiles, las aves y los mamíferos, ¿cómo entra y sale el aire de los pulmones?
+
+- A. Como consecuencia de cambios en la presión y el volumen de la cavidad torácica, producidos por contracciones y relajaciones musculares
+- B. Por la contracción del piso de la boca, como en las ranas
+- C. Por la acción de los cilios del epitelio respiratorio
+- D. Por difusión simple, sin intervención muscular alguna
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · cavidad torácica
+
+En los reptiles, las aves y los mamíferos, el aire entra y sale de los pulmones como consecuencia de cambios en la presión y el volumen de la cavidad torácica, producidos por contracciones y relajaciones musculares.
+
+### 78
+
+De acuerdo con el libro de Biología, ¿por qué el sistema respiratorio de las aves es más eficiente?
+
+- A. Porque tienen una serie de sacos aéreos —donde no se produce intercambio gaseoso entre el aire y la sangre— comunicados con pequeños pulmones muy vascularizados, cuya expansión y compresión alternada determinan un flujo unidireccional y continuo de aire
+- B. Porque sus pulmones son mucho más grandes que los de los mamíferos
+- C. Porque respiran por la piel además de por los pulmones
+- D. Porque poseen branquias internas además de pulmones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · sacos aéreos de las aves
+
+En las aves, que tienen tasas metabólicas elevadas, este sistema es más eficiente debido a que tienen una serie de sacos aéreos —donde no se produce un intercambio gaseoso entre el aire y la sangre—, que están comunicados con pequeños pulmones muy vascularizados. La expansión y la compresión alternada de esos sacos determinan un flujo unidireccional y continuo de aire en los pulmones. De esa manera, el intercambio de gases se maximiza y la mezcla entre aire inspirado y espirado disminuye.
+
+## Sub-lote 11 · El sistema respiratorio humano: las vías aéreas superiores (fig. 35-6a, p. 832)
+
+### 79
+
+De acuerdo con el libro de Biología, ¿qué funciones cumplen las cavidades nasales?
+
+- A. Están tapizadas con pelos y cilios que atrapan el polvo y otras partículas extrañas —función que también cumple el moco, que además humedece el aire—, y poseen una rica provisión de sangre que calienta el aire antes de que alcance los pulmones
+- B. Solo humedecen el aire, sin filtrarlo ni calentarlo
+- C. Únicamente calientan el aire, sin atrapar partículas
+- D. Producen las cuerdas vocales y el sonido de la voz
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · cavidades nasales
+
+Las cavidades nasales están tapizadas con pelos y cilios que atrapan el polvo y otras partículas extrañas. La misma función cumple el moco secretado por las células epiteliales que revisten estas cavidades; este ayuda, además, a humedecer el aire inhalado. Las cavidades nasales poseen una rica provisión de sangre que mantiene su temperatura elevada y calienta el aire antes de que este alcance los pulmones.
+
+### 80
+
+De acuerdo con el libro de Biología, desde las cavidades nasales, ¿qué recorrido sigue el aire y dónde se sitúa la laringe?
+
+- A. Pasa a la faringe y desde allí a la laringe, situada en la parte superior y anterior del cuello
+- B. Pasa directamente a la tráquea, sin atravesar la faringe
+- C. Pasa a la laringe y desde allí a la faringe, situada en la parte posterior del tórax
+- D. Pasa a los bronquíolos y desde allí a la faringe
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · faringe y laringe
+
+Desde las cavidades nasales, el aire pasa a la faringe y desde allí a la laringe, situada en la parte superior y anterior del cuello.
+
+### 81
+
+De acuerdo con el libro de Biología, ¿qué son las cuerdas vocales que contiene la laringe?
+
+- A. Dos músculos longitudinales con ligamentos transversales que atraviesan la luz del tracto respiratorio y determinan un espacio triangular por donde pasa el aire
+- B. Dos anillos de cartílago que refuerzan las paredes de la tráquea
+- C. Dos membranas ciliadas que atrapan el polvo del aire inhalado
+- D. Dos sacos aéreos donde no se produce intercambio gaseoso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · cuerdas vocales
+
+La laringe contiene las cuerdas vocales, que son dos músculos longitudinales con ligamentos transversales que atraviesan la luz del tracto respiratorio y determinan un espacio triangular por donde pasa el aire.
+
+### 82
+
+De acuerdo con el libro de Biología, ¿cómo es la tráquea y para qué sirven los anillos de cartílago de sus paredes?
+
+- A. Es un largo tubo membranoso revestido de células epiteliales ciliadas; los anillos de cartílago evitan su colapso durante la inspiración o cuando es presionada por alimentos desde el esófago contiguo
+- B. Es un saco vascularizado sin revestimiento; los anillos sirven para producir sonido
+- C. Es un tubo rígido de hueso; los anillos permiten su expansión durante la espiración
+- D. Es una cavidad interna donde ocurre la hematosis; los anillos filtran el polvo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · tráquea
+
+Desde la laringe, el aire inspirado pasa a través de la tráquea: un largo tubo membranoso también revestido de células epiteliales ciliadas. Las paredes de la tráquea están reforzadas por anillos de cartílago que evitan su colapso durante la inspiración o cuando es presionada por alimentos desde el esófago contiguo.
+
+### 83
+
+De acuerdo con el libro de Biología, ¿en qué desemboca la tráquea y cómo se llaman los conductos en que se subdividen?
+
+- A. Desemboca en los bronquios, que se subdividen en conductos aéreos cada vez más pequeños llamados bronquíolos
+- B. Desemboca en los bronquíolos, que se subdividen en conductos más grandes llamados bronquios
+- C. Desemboca en la laringe, que se subdivide en cuerdas vocales
+- D. Desemboca en los sacos aéreos, que se subdividen en laminillas secundarias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 832
+**Subtema:** respiración · bronquios y bronquíolos
+
+La tráquea desemboca en los bronquios, que se subdividen en conductos aéreos cada vez más pequeños llamados bronquíolos.
+
 ---
 
-**Reactivos en este archivo:** 63
+**Reactivos en este archivo:** 83
