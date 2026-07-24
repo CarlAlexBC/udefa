@@ -162,9 +162,17 @@ la célula de Schwann del SNP que se envuelve y expulsa su citoplasma, y la vain
 de membranas lipídicas que aísla la fibra) y la fig. 32-15 (el mecanismo de la sinapsis
 eléctrica —corrientes iónicas directas por uniones comunicantes, sin mensajeros químicos—
 y de la química —fusión de vesículas sinápticas, exocitosis de neurotransmisores en la
-hendidura, receptores específicos y el potencial postsináptico—).
+hendidura, receptores específicos y el potencial postsináptico—). De la **página 772** se
+cubre la transmisión sináptica química (los transmisores nerviosos que cruzan la hendidura;
+las señales de fuerza variable que excitan o inhiben según el receptor y el circuito; la
+síntesis en el cuerpo celular y el transporte por flujo axoplásmico a las vesículas; los
+receptores postsinápticos; la fig. 32-16 con las vesículas llenas de neurotransmisor y las
+áreas de exocitosis vs receptores) y los tipos de transmisores químicos (más de 50
+sustancias; los neurotransmisores rápidos y punto a punto, clasificados por composición
+química; los neuromoduladores que regulan; las neurohormonas de efectos lentos y duraderos
+a distancia; y la serotonina del tronco cerebral asociada al ánimo, el sueño y la depresión).
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 772 (hoja 818) en adelante (el resto de la transmisión sináptica química y los neurotransmisores, la fig. 32-16, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 773 (hoja 819) en adelante (el resto de los transmisores químicos —la dopamina y el cuadro 32-1—, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -3430,6 +3438,222 @@ De acuerdo con el libro de Biología, según la figura 32-15b, una vez liberadas
 
 Estas moléculas se difunden a la célula postsináptica, en donde se combinan con receptores específicos de la membrana celular, lo cual provoca una respuesta específica: un potencial postsináptico.
 
+## Sub-lote 26 · La transmisión sináptica química y sus receptores (fig. 32-16, p. 772)
+
+### 211
+
+De acuerdo con el libro de Biología, ¿cómo se transmite la información a través de la hendidura sináptica, de la célula presináptica a la postsináptica?
+
+- A. Por medio de moléculas señalizadoras: los transmisores nerviosos
+- B. Por medio de corrientes eléctricas directas, sin moléculas de por medio
+- C. Por medio de la vaina de mielina
+- D. Por medio del torrente sanguíneo exclusivamente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · transmisores nerviosos
+
+La información se transmite desde la célula presináptica a la postsináptica a través de la hendidura sináptica por medio de moléculas señalizadoras: los transmisores nerviosos.
+
+### 212
+
+De acuerdo con el libro de Biología, a diferencia del potencial de acción ("todo o nada"), ¿cómo son las señales transmitidas a través de las sinapsis químicas?
+
+- A. Son de fuerza variable y pueden tener efectos opuestos: algunas excitan y otras inhiben la actividad de la célula postsináptica
+- B. Son de fuerza fija ("todo o nada") y siempre excitan la célula postsináptica
+- C. Son de fuerza variable, pero solo pueden excitar la célula postsináptica
+- D. Son de fuerza fija y siempre inhiben la célula postsináptica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · sinapsis químicas
+
+A diferencia del potencial de acción, que es de naturaleza "todo o nada", las señales transmitidas a través de las sinapsis químicas son de fuerza variable y pueden tener efectos opuestos: algunas pueden excitar y otras inhibir la actividad de la célula postsináptica.
+
+### 213
+
+De acuerdo con el libro de Biología, ¿de qué depende que una señal sináptica química excite o inhiba a la célula postsináptica?
+
+- A. Del receptor que recibe el mensaje y del circuito nervioso dentro del sistema nervioso en el que se encuentre
+- B. Del tamaño del axón presináptico únicamente
+- C. De la cantidad de mielina de la neurona postsináptica
+- D. De la temperatura del líquido intersticial
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · sinapsis químicas
+
+Algunas señales excitan y otras inhiben la actividad de la célula postsináptica, de acuerdo con el receptor que recibe el mensaje y el circuito nervioso dentro del sistema nervioso en el que se encuentre.
+
+### 214
+
+De acuerdo con el libro de Biología, ¿dónde se sintetizan algunos transmisores y cómo llegan a almacenarse?
+
+- A. Se sintetizan en el cuerpo celular de la neurona y se transportan por flujo axoplásmico a los terminales axónicos, donde se "empaquetan" y se almacenan en vesículas sinápticas
+- B. Se sintetizan en la hendidura sináptica y se almacenan en la célula postsináptica
+- C. Se sintetizan en la médula suprarrenal y viajan por la sangre hasta el axón
+- D. Se sintetizan en la vaina de mielina y se almacenan en los nodos de Ranvier
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · vesículas sinápticas
+
+Algunos transmisores se sintetizan en el cuerpo celular de la neurona y se transportan por flujo axoplásmico a los terminales axónicos, en donde se "empaquetan" y se almacenan en vesículas sinápticas.
+
+### 215
+
+De acuerdo con el libro de Biología, ¿qué son las estructuras de unión del transmisor nervioso en la membrana postsináptica y qué papel cumplen?
+
+- A. Son proteínas específicas de membrana que constituyen los receptores postsinápticos, y que son la clave del reconocimiento de la liberación de transmisores presinápticos
+- B. Son vesículas sinápticas que almacenan los neurotransmisores
+- C. Son uniones comunicantes que conectan los citoplasmas de las dos neuronas
+- D. Son capas de mielina que aíslan la membrana postsináptica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · receptores postsinápticos
+
+Las estructuras de unión del transmisor nervioso en la membrana postsináptica son proteínas específicas de membrana que constituyen los receptores postsinápticos, y que son la clave del reconocimiento de la liberación de transmisores presinápticos.
+
+### 216
+
+De acuerdo con el libro de Biología, según la figura 32-16, ¿qué se observa en las terminales axónicas que forman sinapsis con la dendrita?
+
+- A. Numerosas vesículas sinápticas llenas de neurotransmisor
+- B. Grandes cantidades de vaina de mielina
+- C. Numerosos nodos de Ranvier
+- D. Uniones comunicantes que conectan con la dendrita
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · vesículas sinápticas
+
+Nótense en las terminales axónicas las numerosas vesículas sinápticas llenas de neurotransmisor.
+
+### 217
+
+De acuerdo con el libro de Biología, según la figura 32-16, en las áreas borrosas de las membranas contiguas, ¿en qué están especializadas las células presinápticas y en qué son ricas las postsinápticas?
+
+- A. Las presinápticas están especializadas en la exocitosis; las postsinápticas son ricas en receptores de moléculas de neurotransmisor
+- B. Las presinápticas son ricas en receptores; las postsinápticas están especializadas en la exocitosis
+- C. Ambas están especializadas en la exocitosis
+- D. Ambas son ricas en receptores de moléculas de neurotransmisor
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · exocitosis y receptores
+
+En las células presinápticas, estas áreas están especializadas en la exocitosis, mientras que en las células postsinápticas son ricas en receptores de moléculas de neurotransmisor.
+
+## Sub-lote 27 · Los transmisores químicos: neurotransmisores, neuromoduladores y neurohormonas (cuadro 32-1, p. 772)
+
+### 218
+
+De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuántas sustancias se han identificado como transmisores químicos, y en qué tres tipos se distinguen?
+
+- A. Más de 50 sustancias diferentes; se distinguen en neurotransmisores, neuromoduladores y neurohormonas
+- B. Exactamente 10 sustancias; se distinguen en excitadoras, inhibidoras y neutras
+- C. Más de 500 sustancias; se distinguen en eléctricas, químicas y mixtas
+- D. Una sola sustancia, la acetilcolina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · transmisores químicos
+
+Hasta el momento, se han identificado más de 50 sustancias diferentes que funcionan como transmisores químicos dentro del sistema nervioso. Podemos distinguir distintos tipos de transmisores: neurotransmisores, neuromoduladores y neurohormonas.
+
+### 219
+
+De acuerdo con el libro de Biología, ¿cómo actúan los neurotransmisores?
+
+- A. Actúan rápido, con efectos breves y sobre una pequeña zona de la membrana de la neurona adyacente (liberación punto a punto), y generan cambios en la excitabilidad de la célula postsináptica
+- B. Actúan lento, con efectos duraderos y a gran distancia del lugar de liberación
+- C. Actúan solo sobre las células de la glía
+- D. Actúan por el torrente sanguíneo, en puntos alejados de su liberación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · neurotransmisores
+
+Los neurotransmisores son moléculas que actúan rápido, con efectos breves y sobre una pequeña zona de la membrana de la neurona adyacente —liberación punto a punto— y generan, de forma directa o indirecta, cambios en la excitabilidad de la célula postsináptica.
+
+### 220
+
+De acuerdo con el libro de Biología, ¿en qué se basa la principal forma de clasificar a los neurotransmisores?
+
+- A. En su composición química
+- B. En su color
+- C. En su tamaño físico
+- D. En la velocidad del axón que los libera
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · neurotransmisores
+
+Existen varias formas de clasificar, u organizar, a los neurotransmisores; la principal se basa en su composición química.
+
+### 221
+
+De acuerdo con el libro de Biología, ¿qué hacen los neuromoduladores, a diferencia de los neurotransmisores?
+
+- A. No generan una señal transmisora, sino que la regulan: "adaptan" o "preparan" a las neuronas para que respondan de manera particular a la estimulación posterior por parte de un neurotransmisor
+- B. Generan la respuesta principal en las neuronas receptoras
+- C. Transmiten corrientes iónicas directas por uniones comunicantes
+- D. Aíslan la fibra nerviosa como la vaina de mielina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · neuromoduladores
+
+Los neuromoduladores no generan una señal transmisora, sino que la regulan. Así, mientras que los neurotransmisores producen la respuesta principal en las neuronas receptoras, los neuromoduladores "adaptan" o "preparan" a las neuronas, a fin de que respondan de manera particular a la estimulación posterior por parte de un neurotransmisor.
+
+### 222
+
+De acuerdo con el libro de Biología, ¿qué son las neurohormonas y cómo llegan a sus destinos?
+
+- A. Son señales químicas con efectos difusos en puntos alejados de donde se liberaron, a los cuales llegan al ser transportadas por el líquido intersticial o el torrente sanguíneo
+- B. Son señales que actúan solo en la sinapsis inmediata, punto a punto
+- C. Son proteínas específicas de la membrana postsináptica
+- D. Son vesículas que almacenan los neurotransmisores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · neurohormonas
+
+Las neurohormonas son señales químicas que poseen efectos difusos en puntos alejados de aquellos en donde se liberaron, a los cuales llegan al ser transportadas por el líquido intersticial o el torrente sanguíneo.
+
+### 223
+
+De acuerdo con el libro de Biología, ¿cómo se distinguen las neurohormonas, y qué sustancias pueden actuar como neurotransmisor y neurohormona a la vez?
+
+- A. Se distinguen porque producen efectos lentos y duraderos, a una distancia considerable del lugar de su liberación; la noradrenalina, la serotonina y la dopamina pueden actuar como ambos tipos
+- B. Se distinguen porque producen efectos rápidos y breves, punto a punto; solo la acetilcolina actúa como ambos
+- C. Se distinguen porque no producen ningún efecto; ninguna sustancia actúa como ambos
+- D. Se distinguen porque actúan solo por uniones comunicantes; solo el Na+ actúa como ambos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · neurohormonas
+
+Las neurohormonas se distinguen porque producen efectos lentos y duraderos, que pueden actuar a una distancia considerable del lugar de su liberación. El límite entre el concepto de neurotransmisor y neurohormona es poco nítido y muchas sustancias, como la noradrenalina, serotonina y dopamina, entre otras, pueden actuar como ambos tipos de transmisores nerviosos.
+
+> Los tres tipos, por su alcance: los **neurotransmisores** actúan rápido y punto a punto; los **neuromoduladores** regulan (adaptan o preparan) la respuesta; las **neurohormonas** producen efectos lentos y duraderos a distancia, vía el líquido intersticial o la sangre.
+
+### 224
+
+De acuerdo con el libro de Biología, ¿desde dónde se libera la serotonina y con qué procesos se asocian sus niveles?
+
+- A. Se libera desde axones cuyas neuronas se ubican en el tronco cerebral, en regiones asociadas con el estado de ánimo y la atención; sus niveles se asocian con el ciclo de sueño y su falta se ha relacionado con ciertos estados depresivos
+- B. Se libera desde la médula espinal y se asocia solo con la contracción muscular
+- C. Se libera desde la médula suprarrenal y se asocia con la digestión
+- D. Se libera desde los nodos de Ranvier y se asocia con la velocidad de conducción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
+**Subtema:** sistema nervioso · serotonina
+
+La serotonina se libera desde axones cuyas neuronas se ubican en el tronco cerebral, en regiones del cerebro asociadas con el estado de ánimo y la atención; los niveles de serotonina se asocian con el ciclo de sueño y su falta ha sido relacionada con ciertos estados depresivos.
+
 ---
 
-**Reactivos en este archivo:** 210
+**Reactivos en este archivo:** 224
