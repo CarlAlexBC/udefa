@@ -63,6 +63,11 @@ cada referencia se **lee** de la esquina de la hoja, nunca se calcula.
 - **Sub-lote 8 · MRUA, aceleración media, aceleración instantánea y sus gráficas (p. 82)** — tema 9
 - **Sub-lote 9 · Caída libre de los cuerpos (pp. 89–90)** — tema 9
 - **Sub-lote 10 · Velocidad terminal y tiro vertical (pp. 90–91)** — tema 9
+- **Sub-lote 11 · Tiro parabólico: concepto y tiro parabólico horizontal (pp. 93–94)** — tema 10
+- **Sub-lote 12 · Tiro parabólico oblicuo (p. 94)** — tema 10
+- **Sub-lote 13 · Movimiento circular: concepto, ángulo y radián (p. 98)** — tema 11
+- **Sub-lote 14 · Desplazamiento angular, periodo, frecuencia y velocidad angular (pp. 99–100)** — tema 11
+- **Sub-lote 15 · Movimiento circular uniforme, MCU (p. 100)** — tema 11
 
 **Páginas saltadas a propósito** (teoría sobre práctica — no son olvidos):
 
@@ -82,14 +87,19 @@ cada referencia se **lee** de la esquina de la hoja, nunca se calcula.
   página —el área en la gráfica aceleración-tiempo representa la velocidad— ya
   quedó en el reactivo 55, tomada de la p. 82.
 - p. 92 · completa: "Resolución de problemas de caída libre y tiro vertical".
+- p. 95 · completa: "Resolución de un problema de tiro parabólico oblicuo", con
+  su deducción algebraica del alcance horizontal.
+- pp. 96–97 · resolución de problemas y ejercicios propuestos de tiro parabólico.
+- pp. 101–102 · resolución de problemas y ejercicios propuestos de movimiento
+  circular.
 
 **Fuera del temario, no se tocan:** temas 1 (Importancia del estudio de la
 cinemática), 3 (Sistemas de referencia inerciales y no inerciales), 7 (Velocidad
 instantánea), 8 (Interpretación de gráficas), 12 (MCUA) y 13 (MAS), aunque los
 temas 1 y 3 comparten la p. 68 con el tema 2.
 
-**Pendiente:** temas 10 (Tiro parabólico, pp. 93–97) y 11 (Movimiento circular,
-pp. 98–102).
+**Pendiente:** ninguno. La Unidad 4 queda **CERRADA** en los siete temas que
+suman los dos temarios.
 
 ## Erratas del libro
 
@@ -1394,6 +1404,822 @@ De conformidad con el libro de Física, ¿cómo se obtiene el tiempo de permanen
 
 <Como el tiempo que tarda en subir es el mismo para bajar, entonces el tiempo de permanencia en el aire será: t(aire) = 2 t(subir).>
 
+## Sub-lote 11 · Tiro parabólico: concepto y tiro parabólico horizontal (pp. 93–94)
+
+### 79
+
+En relación con el libro de Física, ¿de qué es un ejemplo el tiro parabólico?
+
+- A. De movimiento realizado por un cuerpo en dos dimensiones o sobre un plano.
+- B. De movimiento realizado por un cuerpo en una sola dimensión y en línea recta.
+- C. De movimiento realizado por un cuerpo en tres dimensiones y en el espacio.
+- D. De movimiento realizado por un cuerpo sobre una trayectoria circular.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 93
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<El tiro parabólico es un ejemplo de movimiento realizado por un cuerpo en dos dimensiones o sobre un plano.>
+
+### 80
+
+De acuerdo con el libro de Física, ¿cuándo es parabólico el movimiento de un cuerpo?
+
+- A. Si su trayectoria es una parábola, es decir, una curva abierta, simétrica respecto a un eje y con un solo foco.
+- B. Si su trayectoria es una circunferencia, es decir, una curva cerrada y con un solo centro.
+- C. Si su trayectoria es una elipse, es decir, una curva cerrada y con dos focos.
+- D. Si su trayectoria es una recta, es decir, una línea abierta y sin foco alguno.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 93
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<El movimiento de un cuerpo es parabólico si su trayectoria es una parábola, es decir, una curva abierta, simétrica respecto a un eje y con un solo foco.>
+
+### 81
+
+De conformidad con el libro de Física, ¿como la combinación de qué dos movimientos puede considerarse el tiro parabólico para su estudio?
+
+- A. De un movimiento horizontal uniforme y un movimiento vertical rectilíneo uniformemente acelerado.
+- B. De un movimiento horizontal rectilíneo uniformemente acelerado y un movimiento vertical uniforme.
+- C. De un movimiento horizontal uniforme y un movimiento vertical circular uniforme.
+- D. De dos movimientos verticales rectilíneos uniformemente acelerados de sentido contrario.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 93
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<El tiro parabólico, para su estudio, puede considerarse como la combinación de dos movimientos que son un movimiento horizontal uniforme y un movimiento vertical rectilíneo uniformemente acelerado.>
+
+### 82
+
+En relación con el libro de Física, ¿de qué es la resultante el tiro parabólico?
+
+- A. De la suma vectorial de un movimiento horizontal uniforme y de un movimiento vertical rectilíneo uniformemente acelerado.
+- B. De la resta vectorial de un movimiento horizontal uniforme y de un movimiento vertical rectilíneo uniformemente acelerado.
+- C. De la suma escalar de un movimiento horizontal uniforme y de un movimiento vertical rectilíneo uniformemente acelerado.
+- D. De la suma vectorial de dos movimientos horizontales uniformes de sentido contrario.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 93
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<En otras palabras, el tiro parabólico es la resultante de la suma vectorial de un movimiento horizontal uniforme y de un movimiento vertical rectilíneo uniformemente acelerado.>
+
+### 83
+
+De acuerdo con el libro de Física, ¿de cuántos tipos es el tiro parabólico y cuáles son?
+
+- A. De dos tipos: horizontal y oblicuo.
+- B. De dos tipos: horizontal y vertical.
+- C. De tres tipos: horizontal, vertical y oblicuo.
+- D. De dos tipos: uniforme y uniformemente acelerado.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 93
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<El tiro parabólico es de dos tipos: horizontal y oblicuo.>
+
+### 84
+
+De conformidad con el libro de Física, ¿por qué se caracteriza el tiro parabólico horizontal?
+
+- A. Por la trayectoria o camino curvo que sigue un cuerpo al ser lanzado horizontalmente al vacío, resultado de dos movimientos independientes.
+- B. Por la trayectoria que sigue un cuerpo cuando es lanzado con una velocidad inicial que forma un ángulo con el eje horizontal.
+- C. Por la trayectoria recta que sigue un cuerpo al ser lanzado horizontalmente al vacío, resultado de un solo movimiento.
+- D. Por la trayectoria que sigue un cuerpo lanzado verticalmente hacia arriba hasta alcanzar su altura máxima.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 93
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<Se caracteriza por la trayectoria o camino curvo que sigue un cuerpo al ser lanzado horizontalmente al vacío, resultado de dos movimientos independientes.>
+
+> El distractor B es la definición del tiro parabólico **oblicuo** (reactivo 88). Lo que los separa es si el cuerpo se lanza horizontalmente o formando un ángulo con el eje horizontal.
+
+### 85
+
+En relación con el libro de Física, ¿cuáles son los dos movimientos independientes de los que resulta el tiro parabólico horizontal?
+
+- A. Un movimiento horizontal con velocidad constante y otro vertical, el cual se inicia con una velocidad cero y va aumentando su magnitud.
+- B. Un movimiento horizontal que se inicia con una velocidad cero y va aumentando su magnitud, y otro vertical con velocidad constante.
+- C. Un movimiento horizontal con velocidad constante y otro vertical que también conserva constante su velocidad.
+- D. Un movimiento horizontal con velocidad decreciente y otro vertical con velocidad creciente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 93
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<Resultado de dos movimientos independientes: un movimiento horizontal con velocidad constante y otro vertical, el cual se inicia con una velocidad cero y va aumentando su magnitud en la misma proporción de otro cuerpo que cayera al vacío desde el mismo punto en el mismo instante.>
+
+### 86
+
+De acuerdo con el libro de Física, ¿qué rapidez tendrá durante su recorrido horizontal una pelota lanzada con una velocidad horizontal?
+
+- A. Una rapidez constante durante su recorrido horizontal e independiente de su movimiento vertical originado por la aceleración de la gravedad durante su caída libre.
+- B. Una rapidez que va aumentando durante su recorrido horizontal por efecto de la aceleración de la gravedad durante su caída libre.
+- C. Una rapidez que va disminuyendo durante su recorrido horizontal hasta anularse al llegar al suelo.
+- D. Una rapidez constante durante su recorrido horizontal, pero dependiente de su movimiento vertical.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 94
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<La pelota lanzada con una velocidad horizontal tendrá una rapidez constante durante su recorrido horizontal e independiente de su movimiento vertical originado por la aceleración de la gravedad durante su caída libre.>
+
+### 87
+
+De conformidad con el pie de figura del libro de Física, ¿qué se observa en las componentes de la velocidad de un cuerpo que sigue una trayectoria parabólica horizontal?
+
+- A. La velocidad horizontal permanece constante, mientras la velocidad vertical aumenta su magnitud durante su caída libre por acción de la gravedad de la Tierra.
+- B. La velocidad vertical permanece constante, mientras la velocidad horizontal aumenta su magnitud durante su caída libre por acción de la gravedad de la Tierra.
+- C. Tanto la velocidad horizontal como la vertical permanecen constantes durante toda la trayectoria.
+- D. Tanto la velocidad horizontal como la vertical aumentan su magnitud por acción de la gravedad de la Tierra.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 94
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<Se observa cómo la velocidad horizontal (v_H) permanece constante, mientras la velocidad vertical (v_V) aumenta su magnitud durante su caída libre por acción de la gravedad de la Tierra.>
+
+## Sub-lote 12 · Tiro parabólico oblicuo (p. 94)
+
+### 88
+
+En relación con el libro de Física, ¿por qué se caracteriza el tiro parabólico oblicuo?
+
+- A. Por la trayectoria que sigue un cuerpo cuando es lanzado con una velocidad inicial que forma un ángulo con el eje horizontal.
+- B. Por la trayectoria que sigue un cuerpo cuando es lanzado horizontalmente al vacío.
+- C. Por la trayectoria que sigue un cuerpo cuando es lanzado verticalmente hacia arriba.
+- D. Por la trayectoria que sigue un cuerpo cuando se suelta desde el reposo y cae al vacío.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 94
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<Se caracteriza por la trayectoria que sigue un cuerpo cuando es lanzado con una velocidad inicial que forma un ángulo con el eje horizontal.>
+
+### 89
+
+De acuerdo con los ejemplos del libro de Física, ¿qué trayectorias corresponden a un tiro parabólico oblicuo?
+
+- A. La seguida por una pelota de voleibol después de recibir el golpe durante el saque inicial, o la de un balón de futbol al ser despejado con un cierto ángulo por el portero.
+- B. La seguida por un proyectil que cae desde un avión en movimiento, o la de una pelota lanzada horizontalmente al vacío.
+- C. La seguida por una esfera metálica lanzada verticalmente hacia arriba, o la de una maceta que cae desde una azotea.
+- D. La seguida por una persona en la rueda de la fortuna, o la de una piedra atada a una cuerda que se hace girar.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 94
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<Por ejemplo, la trayectoria seguida por una pelota de voleibol después de recibir el golpe durante el saque inicial, o el de un balón de futbol al ser despejado con un cierto ángulo por el portero.>
+
+### 90
+
+De conformidad con el libro de Física, ¿cuál es la única condición para que un cuerpo lanzado con una determinada magnitud de velocidad inicial tenga el mismo alcance horizontal con dos ángulos de tiro diferentes?
+
+- A. Que la suma de dichos ángulos dé un resultado de 90°.
+- B. Que la suma de dichos ángulos dé un resultado de 180°.
+- C. Que la diferencia entre dichos ángulos dé un resultado de 45°.
+- D. Que el producto de dichos ángulos dé un resultado de 90°.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 94
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<Una característica del tiro parabólico oblicuo es que cuando se lanza un cuerpo con una determinada magnitud de velocidad inicial, tendrá el mismo alcance horizontal, es decir, recorrerá la misma distancia en forma horizontal con dos ángulos diferentes de tiro, la única condición es que la suma de dichos ángulos dé un resultado de 90°.>
+
+### 91
+
+En relación con el ejemplo del libro de Física, ¿con qué ángulo de tiro tiene un cuerpo el mismo alcance horizontal que uno lanzado con un ángulo de 30°?
+
+- A. Con un ángulo de 60°.
+- B. Con un ángulo de 45°.
+- C. Con un ángulo de 70°.
+- D. Con un ángulo de 15°.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 94
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<De esta manera, un cuerpo lanzado con un ángulo de 30° tiene un alcance horizontal igual a un cuerpo lanzado con un ángulo de 60° (30° + 60° = 90°).>
+
+### 92
+
+De acuerdo con el libro de Física, ¿cuándo tiene lugar el alcance máximo horizontal?
+
+- A. Cuando el ángulo de tiro es de 45°.
+- B. Cuando el ángulo de tiro es de 90°.
+- C. Cuando el ángulo de tiro es de 70°.
+- D. Cuando el ángulo de tiro es de 20°.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 94
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<El alcance máximo horizontal tiene lugar cuando el ángulo de tiro es de 45°.>
+
+### 93
+
+De conformidad con la conclusión del libro de Física, ¿qué sucede cuanto mayor es el ángulo de tiro respecto al eje horizontal?
+
+- A. Un cuerpo adquiere una mayor altura y durará más tiempo en el aire; sin embargo, al ser menor la magnitud de la componente horizontal de la velocidad inicial, su alcance horizontal también será menor.
+- B. Un cuerpo adquiere una menor altura y durará menos tiempo en el aire; sin embargo, al ser mayor la magnitud de la componente horizontal de la velocidad inicial, su alcance horizontal será mayor.
+- C. Un cuerpo adquiere una mayor altura y durará más tiempo en el aire, por lo que su alcance horizontal también será mayor.
+- D. Un cuerpo adquiere siempre la misma altura y el mismo alcance horizontal, sea cual sea el ángulo de tiro.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 94
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<En conclusión, cuanto mayor es el ángulo de tiro respecto al eje horizontal, un cuerpo adquiere una mayor altura y durará más tiempo en el aire; sin embargo, al ser menor la magnitud de la componente horizontal de la velocidad inicial, su alcance horizontal también será menor.>
+
+### 94
+
+En relación con el pie de figura del libro de Física, ¿para qué pares de ángulos es el mismo el alcance horizontal del cuerpo?
+
+- A. Para los ángulos de 20° y 70°, y de igual manera para los ángulos de 30° y 60°.
+- B. Para los ángulos de 20° y 30°, y de igual manera para los ángulos de 60° y 70°.
+- C. Para los ángulos de 15° y 45°, y de igual manera para los ángulos de 45° y 75°.
+- D. Para los ángulos de 20° y 60°, y de igual manera para los ángulos de 30° y 70°.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 94
+**Tema:** U4 t10 · tiro parabólico
+**Subtema:** física · cinemática
+
+<El alcance horizontal del cuerpo es el mismo para los ángulos de 20° y 70°. De igual manera, el alcance horizontal es el mismo para los ángulos de 30° y 60°.>
+
+## Sub-lote 13 · Movimiento circular: concepto, ángulo y radián (p. 98)
+
+### 95
+
+De acuerdo con el libro de Física, ¿cuándo describe un cuerpo o una partícula un movimiento circular?
+
+- A. Cuando su trayectoria es una circunferencia.
+- B. Cuando su trayectoria es una parábola.
+- C. Cuando su trayectoria es una línea recta.
+- D. Cuando su trayectoria es una elipse.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Un cuerpo o una partícula describe un movimiento circular cuando su trayectoria es una circunferencia.>
+
+### 96
+
+De conformidad con el libro de Física, ¿qué le ocurre al vector velocidad en el movimiento circular?
+
+- A. Varía constantemente de dirección, y su magnitud o módulo puede estar variando o permanecer constante.
+- B. Varía constantemente de magnitud, mientras su dirección permanece siempre constante.
+- C. Permanece constante tanto en magnitud como en dirección durante todo el recorrido.
+- D. Varía constantemente de dirección y su magnitud siempre permanece constante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<En este movimiento el vector velocidad varía constantemente de dirección, y su magnitud o módulo puede estar variando o permanecer constante.>
+
+### 97
+
+En relación con el libro de Física, ¿qué ángulo forma siempre la aceleración de una partícula en movimiento circular con su velocidad?
+
+- A. Un ángulo recto (90°).
+- B. Un ángulo de 45°.
+- C. Un ángulo de 180°.
+- D. Un ángulo de 0°.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Por tanto, en un movimiento circular una partícula se puede mover con rapidez constante o no, pero su aceleración formará siempre un ángulo recto (90°) con su velocidad y se desplazará formando un círculo.>
+
+### 98
+
+De acuerdo con el libro de Física, ¿qué nombre recibe la aceleración que recibe la partícula, dirigida hacia el centro del círculo?
+
+- A. Aceleración normal, radial o centrípeta.
+- B. Aceleración tangencial, lineal o centrífuga.
+- C. Aceleración angular, media o instantánea.
+- D. Aceleración gravitacional o de la gravedad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<La aceleración que recibe la partícula está dirigida hacia el centro del círculo y recibe el nombre de aceleración normal, radial o centrípeta.>
+
+### 99
+
+De conformidad con el libro de Física, ¿dónde se efectúa el movimiento circular?
+
+- A. En un mismo plano, y es el movimiento más sencillo en dos dimensiones y en dos direcciones.
+- B. En tres planos distintos, y es el movimiento más complejo en tres dimensiones.
+- C. En una sola línea recta, y es el movimiento más sencillo en una dimensión.
+- D. En un mismo plano, y es el movimiento más complejo en dos dimensiones y en cuatro direcciones.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<El movimiento circular se efectúa en un mismo plano y es el movimiento más sencillo en dos dimensiones y en dos direcciones.>
+
+### 100
+
+En relación con los ejemplos del libro de Física, ¿qué casos cotidianos corresponden a un movimiento circular?
+
+- A. Una persona que se sube a una rueda de la fortuna, una niña que disfruta en un carrusel, o una piedra atada al extremo de una cuerda y que se hace girar.
+- B. Una pelota de golf lanzada con cierto ángulo, un balón de futbol despejado por el portero, o un proyectil lanzado desde un avión.
+- C. Un autobús que aumenta y disminuye la magnitud de su velocidad, o un auto de carreras que se acerca a una curva.
+- D. Una maceta que cae desde una azotea, una hoja de papel que cae al suelo, o una pluma de ave dentro de un tubo al vacío.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<En nuestra vida cotidiana observamos diferentes partículas describiendo movimientos circulares, tal es el caso de una persona que se sube a una rueda de la fortuna, una niña que disfruta en un carrusel, o una piedra atada al extremo de una cuerda y que se hace girar.>
+
+### 101
+
+De acuerdo con el libro de Física, ¿de qué es un caso particular el movimiento circular y por qué?
+
+- A. Del movimiento de traslación de una partícula, ya que el eje de giro está fuera de dicha partícula.
+- B. Del movimiento de rotación de un cuerpo rígido, ya que el eje de giro está dentro de dicho cuerpo.
+- C. Del movimiento rectilíneo uniforme, ya que recorre distancias iguales en tiempos iguales.
+- D. Del tiro parabólico, ya que resulta de la suma de un movimiento horizontal y otro vertical.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Es importante señalar que el movimiento circular es un caso particular del movimiento de traslación de una partícula, ya que el eje de giro está fuera de dicha partícula.>
+
+### 102
+
+De conformidad con el libro de Física, ¿dónde se localiza el eje de giro en el movimiento de rotación de un cuerpo rígido?
+
+- A. Dentro del cuerpo rígido.
+- B. Fuera del cuerpo rígido.
+- C. En la tangente a la trayectoria del cuerpo rígido.
+- D. En un punto cualquiera de la circunferencia que describe.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<No sucede así en el movimiento de rotación de un cuerpo rígido en donde el eje de giro se localiza dentro del cuerpo rígido.>
+
+> Los reactivos 101 y 102 son el par que el libro contrasta: en el movimiento **circular** el eje de giro queda **fuera** de la partícula; en el de **rotación**, **dentro** del cuerpo rígido.
+
+### 103
+
+En relación con el libro de Física, ¿con qué modelos se describen el movimiento circular y el movimiento de rotación?
+
+- A. El movimiento circular se describe con el modelo de partícula y el movimiento de rotación con el modelo del cuerpo rígido.
+- B. El movimiento circular se describe con el modelo del cuerpo rígido y el movimiento de rotación con el modelo de partícula.
+- C. Ambos movimientos se describen con el modelo de partícula.
+- D. Ambos movimientos se describen con el modelo del cuerpo rígido.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Además, el movimiento circular se describe con el modelo de partícula y el movimiento de rotación con el modelo del cuerpo rígido.>
+
+### 104
+
+De acuerdo con el libro de Física, ¿con qué magnitudes se enuncian generalmente las expresiones matemáticas del movimiento circular?
+
+- A. Con magnitudes angulares como el desplazamiento angular, la velocidad angular y la aceleración angular.
+- B. Con magnitudes lineales como el desplazamiento, la velocidad y la aceleración.
+- C. Con magnitudes escalares como la distancia, la rapidez y el tiempo.
+- D. Con magnitudes fundamentales como la longitud, la masa y el tiempo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Las expresiones matemáticas del movimiento circular se enuncian generalmente con magnitudes angulares como el desplazamiento angular, la velocidad angular y la aceleración angular.>
+
+### 105
+
+De conformidad con el libro de Física, en el movimiento circular de una partícula, ¿dónde resulta práctico considerar que se encuentra el origen del sistema de referencia?
+
+- A. En el centro de su trayectoria circular.
+- B. En un punto cualquiera de su trayectoria circular.
+- C. En la tangente a su trayectoria circular.
+- D. Fuera del plano de su trayectoria circular.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<En el movimiento circular de una partícula, resulta práctico considerar que el origen del sistema de referencia se encuentra en el centro de su trayectoria circular.>
+
+### 106
+
+En relación con el libro de Física, ¿cómo son las trayectorias de las partículas de un cuerpo en movimiento circular?
+
+- A. Circunferencias concéntricas de longitud diferente y de radio igual a la distancia entre la partícula considerada y el eje de rotación.
+- B. Circunferencias concéntricas de la misma longitud y de radio igual para todas las partículas del cuerpo.
+- C. Parábolas abiertas y simétricas respecto a un eje, con un solo foco.
+- D. Líneas rectas paralelas entre sí y perpendiculares al eje de rotación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<No obstante, es conveniente resaltar que las trayectorias de éstas son circunferencias concéntricas de longitud diferente y de radio igual a la distancia entre la partícula considerada y el eje de rotación.>
+
+### 107
+
+De acuerdo con el libro de Física, ¿qué es el ángulo?
+
+- A. Es la abertura comprendida entre dos radios que limitan un arco de circunferencia.
+- B. Es el ángulo central al que corresponde un arco de longitud igual al radio.
+- C. Es el tiempo que tarda un móvil en dar una vuelta completa o en completar un ciclo.
+- D. Es el número de vueltas, revoluciones o ciclos que efectúa un móvil en un segundo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Ángulo. Es la abertura comprendida entre dos radios que limitan un arco de circunferencia.>
+
+### 108
+
+De conformidad con el libro de Física, ¿qué es el radián?
+
+- A. Es el ángulo central al que corresponde un arco de longitud igual al radio.
+- B. Es la abertura comprendida entre dos radios que limitan un arco de circunferencia.
+- C. Es el ángulo que tiene como base el número 60.
+- D. Es el ángulo que se efectúa cuando un objeto realiza una vuelta completa alrededor de un eje de rotación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Radián. Es el ángulo central al que corresponde un arco de longitud igual al radio.>
+
+> Los reactivos 107 y 108 se prestan a confusión porque el libro define **ángulo** y **radián** uno tras otro: el ángulo es la abertura entre dos radios; el radián es el ángulo particular cuyo arco mide lo mismo que el radio.
+
+### 109
+
+En relación con el libro de Física, ¿a cuánto equivale un radián en grados sexagesimales?
+
+- A. 57.3° = 57° 18'
+- B. 60° = 60° 00'
+- C. 45.5° = 45° 30'
+- D. 360° = 2π rad
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 98
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Un radián equivale a 57.3° = 57° 18'.>
+
+## Sub-lote 14 · Desplazamiento angular, periodo, frecuencia y velocidad angular (pp. 99–100)
+
+### 110
+
+De acuerdo con el libro de Física, si tomamos como origen del sistema de referencia el centro de la trayectoria circular, ¿qué magnitud y qué dirección tendrá el vector de posición?
+
+- A. Tendrá una magnitud constante y su dirección será la misma que tenga el radio de la circunferencia.
+- B. Tendrá una magnitud variable y su dirección será siempre tangente a la circunferencia.
+- C. Tendrá una magnitud constante y su dirección será siempre perpendicular al radio de la circunferencia.
+- D. Tendrá una magnitud variable y su dirección será la misma que tenga el eje de rotación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 99
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Por tanto, el vector de posición tendrá una magnitud constante y su dirección será la misma que tenga el radio de la circunferencia.>
+
+### 111
+
+De conformidad con el libro de Física, ¿qué es el desplazamiento angular?
+
+- A. Es la magnitud física que cuantifica la magnitud de la rotación que experimenta un objeto de acuerdo con su ángulo de giro.
+- B. Es la magnitud física que cuantifica el tiempo que tarda un objeto en dar una vuelta completa.
+- C. Es la magnitud física que cuantifica el número de vueltas que efectúa un objeto en un segundo.
+- D. Es la magnitud física que cuantifica la longitud de la circunferencia que describe un objeto.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 99
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Por tanto, el desplazamiento angular es la magnitud física que cuantifica la magnitud de la rotación que experimenta un objeto de acuerdo con su ángulo de giro.>
+
+### 112
+
+En relación con el libro de Física, ¿con qué letra griega se representa el desplazamiento angular y cuáles son sus unidades de medida?
+
+- A. Con la letra griega θ (theta); sus unidades son el radián en el Sistema Internacional, así como grados sexagesimales y revoluciones, que son unidades prácticas.
+- B. Con la letra griega ω (omega); sus unidades son el radián en el Sistema Internacional, así como grados sexagesimales y revoluciones, que son unidades prácticas.
+- C. Con la letra griega Δ (delta); sus unidades son el metro en el Sistema Internacional, así como el centímetro, que es unidad práctica.
+- D. Con la letra griega α (alfa); sus unidades son el radián por segundo en el Sistema Internacional, así como las revoluciones por minuto.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 99
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<El desplazamiento angular se representa con la letra griega θ (theta) y sus unidades de medida son: el radián, cuando el sistema usado es el Internacional; así como grados sexagesimales y revoluciones que son unidades prácticas.>
+
+### 113
+
+De acuerdo con el libro de Física, ¿qué es el grado sexagesimal?
+
+- A. Es aquel que tiene como base el número 60; la circunferencia tiene 360 grados sexagesimales, cada uno de los cuales se subdivide en 60 minutos, y éstos en 60 segundos.
+- B. Es aquel que tiene como base el número 360; la circunferencia tiene 60 grados sexagesimales, cada uno de los cuales se subdivide en 360 minutos.
+- C. Es aquel que tiene como base el número 6; la circunferencia tiene 60 grados sexagesimales, cada uno de los cuales se subdivide en 6 minutos.
+- D. Es aquel que tiene como base el número 100; la circunferencia tiene 400 grados sexagesimales, cada uno de los cuales se subdivide en 100 minutos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 99
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<El grado sexagesimal es aquel que tiene como base el número 60. La circunferencia tiene 360 grados sexagesimales, cada uno de los cuales se subdivide en 60 minutos, y éstos en 60 segundos.>
+
+### 114
+
+De conformidad con el libro de Física, ¿cuándo se efectúa una revolución y a cuánto es igual?
+
+- A. Cuando un objeto realiza una vuelta completa alrededor de un eje de rotación; una revolución es igual a 360° = 2π rad.
+- B. Cuando un objeto realiza media vuelta alrededor de un eje de rotación; una revolución es igual a 180° = π rad.
+- C. Cuando un objeto recorre un arco de longitud igual al radio; una revolución es igual a 57.3° = 1 rad.
+- D. Cuando un objeto realiza una vuelta completa alrededor de un eje de rotación; una revolución es igual a 60° = 2π rad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 99
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Una revolución se efectúa cuando un objeto realiza una vuelta completa alrededor de un eje de rotación. Una revolución es igual a 360° = 2π rad.>
+
+### 115
+
+En relación con el libro de Física, ¿qué es el periodo?
+
+- A. Es el tiempo que tarda un móvil en dar una vuelta completa o en completar un ciclo.
+- B. Es el número de vueltas, revoluciones o ciclos que efectúa un móvil en un segundo.
+- C. Es la abertura comprendida entre dos radios que limitan un arco de circunferencia.
+- D. Es el cociente entre la magnitud del desplazamiento angular y el tiempo que tarda en efectuarlo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 99
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Periodo. Es el tiempo que tarda un móvil en dar una vuelta completa o en completar un ciclo.>
+
+### 116
+
+De acuerdo con el libro de Física, ¿qué es la frecuencia?
+
+- A. Es el número de vueltas, revoluciones o ciclos que efectúa un móvil en un segundo.
+- B. Es el tiempo que tarda un móvil en dar una vuelta completa o en completar un ciclo.
+- C. Es la magnitud física que cuantifica la rotación de un objeto según su ángulo de giro.
+- D. Es la velocidad que llevará un cuerpo al salir disparado en forma tangencial a la circunferencia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 99
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Frecuencia. Es el número de vueltas, revoluciones o ciclos que efectúa un móvil en un segundo.>
+
+### 117
+
+De conformidad con el libro de Física, ¿qué relación existe entre el periodo y la frecuencia?
+
+- A. El periodo equivale al inverso de la frecuencia y la frecuencia al inverso del periodo.
+- B. El periodo equivale al doble de la frecuencia y la frecuencia a la mitad del periodo.
+- C. El periodo equivale al cuadrado de la frecuencia y la frecuencia a la raíz del periodo.
+- D. El periodo y la frecuencia son siempre iguales entre sí.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 99
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Como puede observarse, el periodo equivale al inverso de la frecuencia y la frecuencia al inverso del periodo.>
+
+### 118
+
+En relación con el libro de Física, ¿qué representa la magnitud de la velocidad angular?
+
+- A. El cociente entre la magnitud del desplazamiento angular de un cuerpo y el tiempo que tarda en efectuarlo.
+- B. El producto de la magnitud del desplazamiento angular de un cuerpo por el tiempo que tarda en efectuarlo.
+- C. El cociente entre el tiempo que tarda un cuerpo y la magnitud de su desplazamiento angular.
+- D. El cociente entre el número de ciclos que efectúa un cuerpo y un segundo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 99
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<La magnitud de la velocidad angular representa el cociente entre la magnitud del desplazamiento angular de un cuerpo y el tiempo que tarda en efectuarlo.>
+
+### 119
+
+De acuerdo con el libro de Física, en la fórmula de la velocidad angular, ¿qué representa cada literal?
+
+- A. ω = magnitud de la velocidad angular en rad/s, θ = magnitud del desplazamiento angular en rad, t = tiempo en que efectúa el desplazamiento en segundos (s).
+- B. ω = magnitud del desplazamiento angular en rad, θ = magnitud de la velocidad angular en rad/s, t = tiempo en que efectúa el desplazamiento en segundos (s).
+- C. ω = magnitud de la aceleración angular en rad/s², θ = magnitud del desplazamiento angular en rad, t = periodo en segundos (s).
+- D. ω = magnitud de la velocidad angular en rad/s, θ = magnitud del desplazamiento lineal en metros, t = frecuencia en ciclos por segundo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 100
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Donde: ω = magnitud de la velocidad angular en rad/s, θ = magnitud del desplazamiento angular en rad, t = tiempo en que efectúa el desplazamiento en segundos (s).>
+
+### 120
+
+De conformidad con el libro de Física, ¿cuándo podemos determinar la magnitud de la velocidad angular media de un cuerpo?
+
+- A. Cuando su velocidad angular no es constante o uniforme, al conocer las magnitudes de la velocidad angular inicial y su velocidad angular final.
+- B. Cuando su velocidad angular es constante o uniforme, al conocer únicamente la magnitud de su velocidad angular final.
+- C. Cuando su desplazamiento angular es igual a cero, al conocer el tiempo que tarda en efectuarlo.
+- D. Cuando su periodo y su frecuencia son iguales entre sí.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 100
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Cuando la velocidad angular de un cuerpo no es constante o uniforme, podemos determinar la magnitud de la velocidad angular media al conocer las magnitudes de la velocidad angular inicial y su velocidad angular final.>
+
+## Sub-lote 15 · Movimiento circular uniforme, MCU (p. 100)
+
+### 121
+
+En relación con el libro de Física, ¿cuándo se produce el movimiento circular uniforme?
+
+- A. Cuando un cuerpo o partícula con una magnitud de velocidad angular constante describe ángulos iguales en tiempos iguales.
+- B. Cuando un cuerpo o partícula con una magnitud de velocidad angular variable describe ángulos iguales en tiempos iguales.
+- C. Cuando un cuerpo o partícula con una magnitud de velocidad angular constante describe ángulos cada vez mayores en tiempos iguales.
+- D. Cuando un cuerpo o partícula sigue una trayectoria recta recorriendo distancias iguales en tiempos iguales.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 100
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Este movimiento se produce cuando un cuerpo o partícula con una magnitud de velocidad angular constante describe ángulos iguales en tiempos iguales.>
+
+### 122
+
+De acuerdo con el libro de Física, ¿a qué se debe el origen del movimiento circular uniforme?
+
+- A. A una fuerza de magnitud constante, cuya acción es perpendicular a la trayectoria del cuerpo.
+- B. A una fuerza de magnitud variable, cuya acción es tangente a la trayectoria del cuerpo.
+- C. A una fuerza de magnitud constante, cuya acción es paralela a la trayectoria del cuerpo.
+- D. A la ausencia total de fuerzas que actúen sobre el cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 100
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<El origen de este movimiento se debe a una fuerza de magnitud constante, cuya acción es perpendicular a la trayectoria del cuerpo.>
+
+### 123
+
+De conformidad con el libro de Física, ¿qué produce esa fuerza en el movimiento circular uniforme?
+
+- A. Una aceleración que afectará sólo la dirección del movimiento sin modificar la magnitud de la velocidad, es decir, la rapidez que lleva el cuerpo.
+- B. Una aceleración que afectará sólo la magnitud de la velocidad sin modificar la dirección del movimiento.
+- C. Una aceleración que afectará tanto la dirección del movimiento como la magnitud de la velocidad.
+- D. Una desaceleración que anulará poco a poco la magnitud de la velocidad del cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 100
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Y produce una aceleración que afectará sólo la dirección del movimiento sin modificar la magnitud de la velocidad, es decir, la rapidez que lleva el cuerpo.>
+
+### 124
+
+En relación con el libro de Física, ¿qué ocurre con el vector velocidad en un movimiento circular uniforme?
+
+- A. Mantiene constante su magnitud, pero no su dirección, toda vez que ésta siempre se conserva tangente a la trayectoria del cuerpo.
+- B. Mantiene constante su dirección, pero no su magnitud, toda vez que ésta siempre se conserva perpendicular a la trayectoria del cuerpo.
+- C. Mantiene constantes tanto su magnitud como su dirección durante todo el recorrido.
+- D. No mantiene constante ni su magnitud ni su dirección durante el recorrido.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 100
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Por tanto, en un movimiento circular uniforme el vector velocidad mantiene constante su magnitud, pero no su dirección, toda vez que ésta siempre se conserva tangente a la trayectoria del cuerpo.>
+
+### 125
+
+De acuerdo con el libro de Física, ¿qué diferencia hay entre el movimiento rectilíneo uniforme y el movimiento circular uniforme en cuanto a lo que permanece constante?
+
+- A. En el rectilíneo uniforme la velocidad y su magnitud permanecen constantes; en el circular uniforme sólo permanece constante la rapidez, o sea, la magnitud de la velocidad lineal o tangencial.
+- B. En el rectilíneo uniforme sólo permanece constante la rapidez; en el circular uniforme la velocidad y su magnitud permanecen constantes.
+- C. En ambos movimientos permanecen constantes tanto la velocidad como su magnitud.
+- D. En ambos movimientos sólo permanece constante la rapidez, pero no la velocidad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 100
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<En el movimiento rectilíneo uniforme un cuerpo móvil sigue una trayectoria en línea recta, recorriendo distancias iguales en cada unidad de tiempo, por lo que la velocidad y su magnitud, es decir, la rapidez, permanecen constantes. En cambio, en el movimiento circular uniforme sólo permanece constante la rapidez, o sea, la magnitud de la velocidad lineal o tangencial.>
+
+### 126
+
+De conformidad con el libro de Física, ¿respecto a qué es siempre tangente y respecto a qué es perpendicular la velocidad lineal o tangencial?
+
+- A. Es siempre tangente a la circunferencia y, por tanto, perpendicular al radio de la misma.
+- B. Es siempre tangente al radio y, por tanto, perpendicular a la circunferencia.
+- C. Es siempre perpendicular a la circunferencia y paralela al radio de la misma.
+- D. Es siempre paralela a la circunferencia y tangente al eje de rotación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 100
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Ya que ésta cambia de dirección, misma que siempre será tangente a la circunferencia y, por tanto, perpendicular al radio de la misma.>
+
+### 127
+
+En relación con el libro de Física, ¿qué representa la velocidad tangencial o lineal?
+
+- A. La velocidad que llevará un cuerpo al salir disparado en forma tangencial a la circunferencia que describe.
+- B. La velocidad con que un cuerpo gira alrededor del centro de la circunferencia que describe.
+- C. La velocidad con que un cuerpo se acerca al centro de la circunferencia que describe.
+- D. La velocidad media entre la velocidad angular inicial y la velocidad angular final del cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 100
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<La velocidad tangencial o lineal representa la velocidad que llevará un cuerpo al salir disparado en forma tangencial a la circunferencia que describe.>
+
+### 128
+
+De acuerdo con el libro de Física, ¿cómo será la interpretación de gráficas para el movimiento circular uniforme?
+
+- A. En forma idéntica a la realizada para el movimiento rectilíneo uniforme, pues ambos movimientos son muy similares.
+- B. En forma opuesta a la realizada para el movimiento rectilíneo uniforme, pues ambos movimientos son contrarios.
+- C. En forma idéntica a la realizada para el movimiento rectilíneo uniformemente acelerado.
+- D. En forma idéntica a la realizada para el tiro parabólico oblicuo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 100
+**Tema:** U4 t11 · movimiento circular
+**Subtema:** física · cinemática
+
+<Como los movimientos rectilíneo uniforme y circular uniforme son muy similares, la interpretación de gráficas para el movimiento circular uniforme (MCU) será en forma idéntica a la realizada para el movimiento rectilíneo uniforme.>
+
 ---
 
-**Reactivos en este archivo:** 78
+**Reactivos en este archivo:** 128
