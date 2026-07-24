@@ -104,9 +104,18 @@ inhalaciones y espiraciones, los sacos como fuelles sin intercambio gaseoso que 
 aire residual "muerto", los parabronquios y el pollo de 14 días) y la **fig. 35-6** del
 sistema humano (el recorrido completo del aire hasta los alvéolos, los aproximadamente
 300 millones de alvéolos del par de pulmones, y la difusión de O2 y CO2 a través de la
-pared alveolar y de los capilares).
+pared alveolar y de los capilares). De la **página 834** se cubren los alvéolos en detalle
+(el intercambio por difusión en los racimos alrededor de los bronquíolos más pequeños, su
+diámetro de 0,1 a 0,2 mm y los capilares que los bañan) y la limpieza de las vías aéreas
+(los espasmos bronquiales, los cilios que empujan el moco hacia la faringe, y cuándo se
+nota esa producción de moco); más el **ensayo 35-1 sobre el asma** (los varios millares de
+respiraciones diarias, los casos de Beethoven, el "Che" Guevara y Proust, los tres
+fenómenos que la definen, los síntomas y el silbido, su empeoramiento nocturno, los
+desencadenantes alérgicos, la relación epidemiológica con la contaminación, el diagnóstico
+por espirometría y flujo máximo, la diferencia entre broncodilatadores y
+glucocorticosteroides, y su carácter psicosomático).
 
-**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 834 (hoja 880) en adelante (los alvéolos en detalle, la mecánica respiratoria y el transporte de gases, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 835 (hoja 881) en adelante (la membrana respiratoria, la mecánica de la ventilación y el transporte de gases, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -1584,6 +1593,267 @@ De acuerdo con el libro de Biología, según la figura 35-6, ¿a través de qué
 
 El O2 y CO2 difunden hacia o desde la sangre a través de la pared de los alvéolos y de los capilares sanguíneos.
 
+## Sub-lote 14 · Los alvéolos y la limpieza de las vías aéreas (p. 834)
+
+### 96
+
+De acuerdo con el libro de Biología, ¿dónde ocurre el intercambio de gases y por qué?
+
+- A. Por difusión, como consecuencia de diferentes presiones parciales de O2 y CO2, en pequeños sacos aéreos denominados alvéolos, agrupados en racimos alrededor de los extremos de los bronquíolos más pequeños
+- B. Por transporte activo, en la pared de la tráquea y los bronquios
+- C. Por difusión, en los sacos aéreos de los huesos
+- D. Por exocitosis, en las cuerdas vocales de la laringe
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · alvéolos
+
+El intercambio de gases ocurre por difusión —como consecuencia de diferentes presiones parciales de O2 y CO2— en pequeños sacos aéreos denominados alvéolos, que se encuentran agrupados en racimos alrededor de los extremos de los bronquíolos más pequeños.
+
+### 97
+
+De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, ¿qué diámetro tiene cada alvéolo y qué lo rodea?
+
+- A. Entre 0,1 y 0,2 mm de diámetro, y está rodeado por capilares: vasos sanguíneos muy delgados que bañan casi por completo cada alvéolo
+- B. Entre 1 y 2 cm de diámetro, y está rodeado por anillos de cartílago
+- C. Entre 0,1 y 0,2 m de diámetro, y está rodeado por músculo liso
+- D. Entre 10 y 20 mm de diámetro, y está rodeado por sacos aéreos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · alvéolos
+
+Cada alvéolo tiene entre 0,1 y 0,2 mm de diámetro y está rodeado por capilares: vasos sanguíneos muy delgados que bañan casi por completo cada alvéolo.
+
+### 98
+
+De acuerdo con el libro de Biología, ¿qué ocurre en algunas ocasiones, como en un ataque de asma, y qué provoca?
+
+- A. Se producen espasmos bronquiales, lo que dificulta el intercambio de aire
+- B. Se produce una dilatación permanente de los bronquios, que facilita el intercambio
+- C. Se detiene por completo el batido de los cilios de la tráquea
+- D. Se colapsa la tráquea por falta de anillos de cartílago
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · espasmos bronquiales
+
+En algunas ocasiones, se producen espasmos bronquiales, como en un ataque de asma, lo que dificulta el intercambio de aire.
+
+### 99
+
+De acuerdo con el libro de Biología, ¿qué hacen los cilios de la tráquea, los bronquios y los bronquíolos?
+
+- A. Baten continuamente y empujan el moco y las partículas extrañas embebidas en él hacia la faringe, desde donde por lo general son tragados
+- B. Baten continuamente y empujan el moco hacia los alvéolos, donde se absorbe
+- C. Permanecen inmóviles y solo filtran el aire inhalado
+- D. Secretan el moco que humedece el aire inhalado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · cilios y moco
+
+Los cilios de la tráquea, los bronquios y los bronquíolos baten continuamente y empujan el moco y las partículas extrañas embebidas en él hacia la faringe, desde donde, por lo general, son tragados.
+
+### 100
+
+De acuerdo con el libro de Biología, ¿cuándo notamos habitualmente la producción de moco?
+
+- A. Solo cuando se incrementa por encima de lo normal, como consecuencia de una irritación de las membranas debido a una infección o a una reacción alérgica
+- B. De forma permanente, porque siempre resulta perceptible
+- C. Únicamente durante el ejercicio físico intenso
+- D. Solo cuando disminuye por debajo de lo normal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · producción de moco
+
+Esta producción de moco habitualmente la notamos solo cuando se incrementa por encima de lo normal, como consecuencia de una irritación de las membranas debido a una infección o a una reacción alérgica.
+
+## Sub-lote 15 · El ensayo 35-1: el asma (p. 834)
+
+### 101
+
+De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, si contáramos la cantidad de veces que inspiramos y espiramos cada día, ¿cuánto sumaríamos, y qué se moviliza en ese proceso?
+
+- A. Sumaríamos varios millares; en ese proceso se mueven decenas de músculos y huesos, se expande y achica el tórax, y se inflan y desinflan los pulmones
+- B. Sumaríamos unas pocas decenas; solo se mueve el diafragma
+- C. Sumaríamos varios millones; se mueven únicamente los pulmones
+- D. Sumaríamos alrededor de cien; se mueven solo las costillas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · asma
+
+Si contáramos la cantidad de veces que inspiramos y espiramos cada día, sumaríamos varios millares. En este proceso se mueven decenas de músculos y huesos, se expande y achica el tórax, y se inflan y desinflan los pulmones.
+
+### 102
+
+De acuerdo con el libro de Biología, ¿a qué personajes menciona el ensayo como personas a las que el asma no impidió sus logros?
+
+- A. A Ludwig von Beethoven, que compuso su *Novena Sinfonía*; a Ernesto "Che" Guevara, que protagonizó la revolución cubana de 1959; y a Marcel Proust, que escribió *En busca del tiempo perdido*
+- B. A Charles Darwin, a Louis Pasteur y a Santiago Ramón y Cajal
+- C. A Luigi Galvani, a Charles Sherrington y a Eric Kandel
+- D. A Vincent Van Gogh, a Marcel Proust y a Charles Darwin
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · asma
+
+El asma no impidió a Ludwig von Beethoven, para muchos el más grande compositor de todos los tiempos, componer su *Novena Sinfonía* ni a Ernesto "Che" Guevara protagonizar la revolución cubana de 1959 ni a Marcel Proust escribir *En busca del tiempo perdido*, una de las obras cumbre de la literatura universal.
+
+### 103
+
+De acuerdo con el libro de Biología, ¿qué es esencialmente el asma y qué tres fenómenos se combinan en ella?
+
+- A. Es esencialmente una inflamación de las vías aéreas: los bronquios son estrangulados por el músculo liso que los rodea, sus paredes internas se inflaman y las membranas mucosas producen una gran cantidad de moco, lo cual reduce el espacio dentro de los pequeños conductos pulmonares
+- B. Es esencialmente una infección de los alvéolos, que se llenan de líquido
+- C. Es esencialmente una obstrucción de la tráquea por un cuerpo extraño
+- D. Es esencialmente una dilatación excesiva de los bronquios y bronquíolos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · asma
+
+Es esencialmente una inflamación de las vías aéreas, durante la cual los bronquios son estrangulados por el músculo liso que los rodea, sus paredes internas se inflaman y las membranas mucosas que tapizan su interior producen una gran cantidad de moco. Estos tres fenómenos combinados reducen el espacio dentro de los pequeños conductos pulmonares.
+
+### 104
+
+De acuerdo con el libro de Biología, ¿qué síntomas puede presentar una persona durante un ataque de asma?
+
+- A. Algunas sufren una fuerte tos, otras sienten una opresión en el pecho y les cuesta ventilar; muchas veces la ventilación está acompañada por un silbido causado por el aire forzado a pasar por las vías aéreas angostadas
+- B. Todas presentan exactamente los mismos síntomas: fiebre alta y dolor muscular
+- C. El único síntoma posible es la pérdida de la voz
+- D. No presentan ningún síntoma perceptible
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · asma
+
+No todas las personas tienen los mismos síntomas durante un ataque de asma. Algunas sufren una fuerte tos, otras sienten una opresión en el pecho y les cuesta ventilar. Muchas veces, la ventilación está acompañada por un silbido causado por el aire forzado a pasar por las vías aéreas angostadas.
+
+### 105
+
+De acuerdo con el libro de Biología, ¿en qué momento empeoran por lo general los síntomas del asma?
+
+- A. Durante la noche y la madrugada
+- B. Durante el mediodía y la primera tarde
+- C. Únicamente en verano, al mediodía
+- D. Los síntomas no varían a lo largo del día
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · asma
+
+Los síntomas del asma varían de hora en hora, de un día a otro, de semana a semana y de mes a mes. Por lo general, empeoran durante la noche y la madrugada.
+
+### 106
+
+De acuerdo con el libro de Biología, ¿qué desencadena en muchas ocasiones los ataques de asma?
+
+- A. La alergia a sustancias como el polen, partículas de piel de perros y gatos o ácaros presentes en el polvo, el moho acumulado en paredes húmedas y el ejercicio
+- B. Únicamente el consumo de alimentos fríos
+- C. Solo la exposición prolongada al sol
+- D. Exclusivamente la altitud sobre el nivel del mar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · asma
+
+En muchas ocasiones, los ataques son desencadenados por la alergia a sustancias, como el polen, partículas de piel de perros y gatos o ácaros presentes en el polvo, por el moho acumulado en paredes húmedas y por el ejercicio.
+
+### 107
+
+De acuerdo con el libro de Biología, ¿qué demuestran los estudios epidemiológicos sobre el asma, y qué son los alérgenos?
+
+- A. Que el aumento de la frecuencia del asma coincide con el aumento de la contaminación atmosférica y se ha relacionado con la exposición a alérgenos domésticos, al tabaco y a diversos irritantes químicos; los alérgenos son sustancias que provocan alergia
+- B. Que la frecuencia del asma disminuye con el aumento de la contaminación; los alérgenos son medicamentos antiinflamatorios
+- C. Que el asma no guarda ninguna relación con el ambiente; los alérgenos son bacterias
+- D. Que el asma solo aparece en países desarrollados; los alérgenos son virus respiratorios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · asma y contaminación
+
+Los estudios epidemiológicos demuestran que el aumento de la frecuencia del asma coincide con el aumento de la contaminación atmosférica y ha sido relacionado con la exposición a alérgenos (sustancias que provocan alergia) domésticos, al tabaco y a diversos irritantes químicos.
+
+### 108
+
+De acuerdo con el libro de Biología, ¿qué lugar ocupa el asma entre las enfermedades y a quiénes afecta?
+
+- A. Es una de las enfermedades crónicas más frecuentes en el mundo y se ha transformado en un problema sanitario global, que afecta tanto a personas de países desarrollados como "periféricos"
+- B. Es una enfermedad rara que solo afecta a los países desarrollados
+- C. Es una enfermedad aguda y pasajera que afecta solo a los niños
+- D. Es una enfermedad que ha desaparecido casi por completo en el mundo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · asma
+
+El asma es una de las enfermedades crónicas más frecuentes en el mundo y se ha transformado en un problema sanitario global, que afecta tanto a personas de países desarrollados como "periféricos".
+
+### 109
+
+De acuerdo con el libro de Biología, ¿qué pruebas de la función pulmonar se necesitan para el diagnóstico y qué mide cada una?
+
+- A. La espirometría, que evalúa la limitación del flujo de aire, y el estudio del flujo máximo, que mide la velocidad máxima a la cual el aire puede salir de los pulmones
+- B. La espirometría, que mide la velocidad máxima de salida del aire, y el flujo máximo, que evalúa la cantidad de moco
+- C. Solo un análisis de sangre que mide la hemoglobina
+- D. Únicamente una radiografía de tórax
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · diagnóstico del asma
+
+Se necesitan un examen físico y pruebas de la función pulmonar, como la espirometría —que evalúa la limitación del flujo de aire— y el estudio del flujo máximo —que mide la velocidad máxima a la cual el aire puede salir de los pulmones.
+
+### 110
+
+De acuerdo con el libro de Biología, ¿cómo actúan los broncodilatadores de acción rápida y qué limitación tienen?
+
+- A. Otorgan alivio inmediato al relajar los músculos bronquiales y facilitar el flujo de aire, pero sus efectos son temporarios y no afectan a la inflamación ni disminuyen la cantidad de moco
+- B. Controlan la inflamación de las vías aéreas de forma permanente y eliminan el moco
+- C. Actúan lentamente y solo sirven para el control a largo plazo
+- D. Aumentan la contracción de los músculos bronquiales para forzar el aire
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · broncodilatadores
+
+Los broncodilatadores de acción rápida otorgan alivio inmediato, al relajar los músculos bronquiales y facilitar así el flujo de aire. Sin embargo, sus efectos son temporarios y no afectan a la inflamación ni disminuyen la cantidad de moco.
+
+### 111
+
+De acuerdo con el libro de Biología, para el control del asma en el largo plazo, ¿qué necesitan los asmáticos y qué logran esos medicamentos?
+
+- A. Tomar antiinflamatorios e inhalar glucocorticosteroides de forma regular; estos medicamentos controlan la inflamación de las vías aéreas e incluso disminuyen la sensibilidad a los agentes que disparan el asma
+- B. Tomar únicamente broncodilatadores de acción rápida cada vez que sientan alivio
+- C. Inhalar oxígeno puro de forma regular, sin ningún medicamento
+- D. No requieren ningún tratamiento a largo plazo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · tratamiento del asma
+
+Para su control en el largo plazo, los asmáticos necesitan tomar antiinflamatorios e inhalar glucocorticosteroides de forma regular, a intervalos dictados por la intensidad y la frecuencia de los ataques. Estos medicamentos controlan la inflamación de las vías aéreas, e incluso disminuyen la sensibilidad a los agentes que disparan el asma.
+
+> Los dos tratamientos hacen cosas distintas: los **broncodilatadores** alivian rápido pero **no tocan la inflamación ni el moco**; los **antiinflamatorios y glucocorticosteroides** son el control **a largo plazo** y sí controlan la inflamación.
+
+### 112
+
+De acuerdo con el libro de Biología, ¿qué han demostrado numerosos estudios sobre la naturaleza del asma?
+
+- A. Que es una afección psicosomática, en la cual coexisten un componente orgánico y un componente psicoemocional fuertemente entrelazados
+- B. Que es una afección exclusivamente orgánica, sin ningún componente emocional
+- C. Que es una afección exclusivamente psicológica, sin base orgánica
+- D. Que es una afección contagiosa de origen viral
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 834
+**Subtema:** respiración · asma
+
+Numerosos estudios han demostrado también que el asma es una afección psicosomática, en la cual coexisten un componente orgánico y un componente psicoemocional fuertemente entrelazados.
+
 ---
 
-**Reactivos en este archivo:** 95
+**Reactivos en este archivo:** 112
