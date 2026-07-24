@@ -95,7 +95,29 @@ cómo se miden las presiones parciales y la recolección de un gas sobre agua co
 la presión de vapor del agua. **No** se sacan reactivos de los Ejemplos 5.14 y
 5.15 ni de la "Revisión de conceptos y hechos" de la pág. 202.
 
-**Pendiente:** los subtemas **5.7** y **5.8**.
+**5.7 La teoría cinética molecular de los gases (págs. 204–211): cerrado.** Los
+cuatro supuestos de la teoría cinética, la definición de energía cinética, la
+velocidad cuadrática media, la interpretación cinética de la presión y de la
+temperatura absoluta, el movimiento térmico; la aplicación a las leyes de los
+gases (compresibilidad, Boyle, Charles, Avogadro y Dalton); la distribución de
+velocidades de Maxwell y la velocidad más probable; la velocidad de la raíz
+cuadrada media; y la difusión y efusión de gases con la ley de Graham. **El
+arranque de la sección (pág. 203) quedó en inglés** (ver más abajo), así que sus
+reactivos salen de la pág. 204 en adelante. **No** se sacan reactivos de los
+Ejemplos 5.16 y 5.17 ni de las "Revisión de conceptos y hechos" de las págs. 202
+y 211.
+
+**5.8 Desviación del comportamiento ideal (págs. 211–213): cerrado.** Qué es el
+comportamiento ideal y sus dos condiciones, cuándo un gas real se desvía de la
+idealidad (alta presión, baja temperatura), y la ecuación de van der Waals con
+sus correcciones de presión y de volumen y el significado de la constante *a*.
+**No** se saca reactivo del Ejemplo 5.18 ni de la **Tabla 5.4** (la traducción la
+rompió, ver más abajo).
+
+**Pendiente:** ninguno. Con los subtemas 5.7 y 5.8 el capítulo 5 (Gases) queda
+cerrado, y con él **Química queda cerrada para todos los planteles** que la piden:
+el capítulo 5 era el único que faltaba y es exclusivo de la EMOS; los demás
+(EMM, EME y EMO) ya estaban cubiertos.
 
 ## Tablas y figuras que NO se citan — la traducción las destrozó
 
@@ -108,6 +130,7 @@ la presión de vapor del agua. **No** se sacan reactivos de los Ejemplos 5.14 y
 | **Figura 5.13** (pág. 195) | "Moles" quedó traducido como **"lunares"**: "lunares de reactivo", "lunares de producto". |
 | **Cuadro 5.3** (pág. 201) | El encabezado quedó descuadrado ("Temperatura Presión (°C) (mmHg)") y a la fila de los 65 °C se le borró la temperatura. Las cifras de presión sí están bien; el dato de los 100 °C se cita desde el pie de la figura 5.16, que está limpio. |
 | **Figuras 5.17 y 5.18** (pág. 206) | "Él (4,003 g/mol)" por He, y "helicóptero con hendidura giratoria" donde el original dice *chopper with rotating slit* (el disco interruptor). |
+| **Tabla 5.4** (pág. 213), constantes de van der Waals | Los nombres de los gases se tradujeron como palabras ("Él" por He, "Nació" por Ne, "Con"/"Carro" por Ar/Xe, "kr" por Kr) y los encabezados de las columnas *a* y *b* quedaron descuadrados. Sus valores numéricos **no se citan**; el reactivo sobre la constante *a* del helio sale de la **prosa** de la pág. 213, que sí está limpia. |
 
 ## Páginas que quedaron SIN TRADUCIR (en inglés)
 
@@ -118,6 +141,7 @@ se cita texto en español**, así que de estas páginas no sale ningún reactivo
 |---|---|
 | **198** | La deducción de la ley de Dalton y **la definición de fracción molar**. Por eso el reactivo 132 va sobre las propiedades de la fracción molar, que sí están en español en la pág. 199. |
 | **202–203** | El ensayo "Chemistry in Action · Scuba Diving and the Gas Laws" completo, la "Review of Concepts & Facts" del 5.6 y **el arranque del subtema 5.7** (energía, trabajo y la presentación de Boltzmann y Maxwell). El 5.7 se retoma en español en la pág. 204, y de ahí salen sus reactivos. |
+| **209** | El ensayo "Chemistry in Action · Super Cold Atoms" completo (el condensado de Bose-Einstein). Es un recuadro de lectura, no contenido de recuerdo; queda fuera por partida doble (aside + inglés). |
 
 ## Avisos al aspirante — la traducción cambia palabras
 
@@ -2539,7 +2563,735 @@ Tenga en cuenta que en el punto de ebullición del agua (100 °C) la presión es
 
 ---
 
-**Pendiente:** los subtemas **5.7** (la teoría cinética molecular de los gases) y
-**5.8** (desviación del comportamiento ideal).
+## Sub-lote 7 · 5.7 La teoría cinética molecular de los gases (págs. 204–211)
 
-**Reactivos en este archivo:** 146
+### 147
+
+De acuerdo con el libro de Química, según la teoría cinética molecular, ¿cómo pueden considerarse las moléculas de un gas?
+
+- A. Como "puntos"; es decir, poseen masa pero tienen un volumen despreciable
+- B. Como esferas cuyo volumen es igual al del recipiente que las contiene
+- C. Como partículas sin masa que ocupan todo el volumen disponible
+- D. Como cuerpos separados por distancias menores que sus propias dimensiones
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · supuestos de la teoría cinética
+
+Un gas está compuesto por moléculas que están separadas entre sí por distancias mucho mayores que sus propias dimensiones. Las moléculas pueden considerarse como "puntos"; es decir, poseen masa pero tienen un volumen despreciable.
+
+### 148
+
+En relación con el libro de Química, según la teoría cinética molecular, ¿cómo son las colisiones entre las moléculas de un gas?
+
+- A. Perfectamente elásticas
+- B. Perfectamente inelásticas
+- C. Parcialmente elásticas, con pérdida de energía
+- D. Inexistentes, porque las moléculas nunca chocan entre sí
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · supuestos de la teoría cinética
+
+Las moléculas de gas están en constante movimiento en direcciones aleatorias y con frecuencia chocan entre sí. Las colisiones entre moléculas son perfectamente elásticas.
+
+### 149
+
+De acuerdo con el libro de Química, aunque la energía se transfiera de una molécula a otra en una colisión, ¿qué ocurre con la energía total de todas las moléculas en un sistema?
+
+- A. Sigue siendo la misma
+- B. Aumenta con cada colisión
+- C. Disminuye con cada colisión
+- D. Se transforma por completo en calor
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · supuestos de la teoría cinética
+
+La energía se puede transferir de una molécula a otra como resultado de una colisión. Sin embargo, la energía total de todas las moléculas en un sistema sigue siendo la misma.
+
+### 150
+
+En relación con el libro de Química, según la teoría cinética molecular, ¿qué fuerzas ejercen entre sí las moléculas de un gas?
+
+- A. No ejercen fuerzas de atracción ni de repulsión entre sí
+- B. Ejercen únicamente fuerzas de atracción
+- C. Ejercen únicamente fuerzas de repulsión
+- D. Ejercen fuerzas de atracción y de repulsión por igual
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · supuestos de la teoría cinética
+
+Las moléculas de gas no ejercen fuerzas de atracción ni de repulsión entre sí.
+
+### 151
+
+De acuerdo con el libro de Química, ¿a qué es proporcional la energía cinética promedio de las moléculas de un gas?
+
+- A. A la temperatura del gas en kelvin
+- B. A la presión del gas en atmósferas
+- C. Al volumen del recipiente en litros
+- D. A la masa molar del gas en gramos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · supuestos de la teoría cinética
+
+La energía cinética promedio de las moléculas es proporcional a la temperatura del gas en kelvin.
+
+### 152
+
+En relación con el libro de Química, dos gases cualesquiera que están a la misma temperatura, ¿qué tendrán en común?
+
+- A. La misma energía cinética promedio
+- B. La misma masa molar
+- C. El mismo número de moléculas
+- D. La misma velocidad para todas sus moléculas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · supuestos de la teoría cinética
+
+Dos gases cualesquiera a la misma temperatura tendrán la misma energía cinética promedio.
+
+### 153
+
+De acuerdo con el libro de Química, ¿qué es la energía cinética (KE)?
+
+- A. El tipo de energía gastada por un objeto en movimiento, o energía de movimiento
+- B. La energía que posee un objeto en reposo por su posición
+- C. La energía liberada cuando un gas se condensa en líquido
+- D. La capacidad de un gas para resistir la compresión
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · energía cinética
+
+La energía cinética (KE) es el tipo de energía gastada por un objeto en movimiento, o energía de movimiento.
+
+### 154
+
+En relación con el libro de Química, ¿cómo trata la teoría cinética de los gases a las moléculas?
+
+- A. Como esferas duras sin estructura interna
+- B. Como esferas blandas que se deforman al chocar
+- C. Como puntos con carga eléctrica
+- D. Como partículas unidas entre sí por enlaces
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · modelo de las moléculas
+
+La teoría cinética de los gases trata a las moléculas como esferas duras sin estructura interna.
+
+### 155
+
+De acuerdo con el libro de Química, ¿qué es la velocidad cuadrática media?
+
+- A. El promedio del cuadrado de las velocidades de todas las moléculas
+- B. La velocidad de la molécula más rápida del sistema
+- C. La suma de las velocidades de todas las moléculas
+- D. La velocidad de la molécula más lenta del sistema
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · velocidad cuadrática media
+
+La cantidad u2 se llama velocidad cuadrática media; es el promedio del cuadrado de las velocidades de todas las moléculas.
+
+### 156
+
+En relación con el libro de Química, según la teoría cinética molecular, ¿de qué es resultado la presión del gas?
+
+- A. De las colisiones entre las moléculas y las paredes de su recipiente
+- B. De la atracción entre las moléculas del gas
+- C. De la repulsión entre las moléculas y las paredes
+- D. Del volumen que ocupan las moléculas del gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · interpretación cinética de la presión
+
+De acuerdo con la teoría cinética molecular, la presión del gas es el resultado de colisiones entre las moléculas y las paredes de su recipiente.
+
+### 157
+
+De acuerdo con el libro de Química, ¿de qué depende la presión del gas, según la teoría cinética molecular?
+
+- A. De la frecuencia de colisión por unidad de área y de cuán "fuerte" golpean las moléculas contra la pared
+- B. Únicamente del tamaño de las moléculas del gas
+- C. Únicamente de la masa molar del gas
+- D. De la atracción entre las moléculas y las paredes del recipiente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · interpretación cinética de la presión
+
+Depende de la frecuencia de colisión por unidad de área y de cuán "fuerte" golpean las moléculas contra la pared.
+
+### 158
+
+En relación con el libro de Química, ¿de qué es una medida la temperatura absoluta de un gas?
+
+- A. De la energía cinética promedio de las moléculas
+- B. Del volumen ocupado por las moléculas
+- C. De la masa total de las moléculas
+- D. Del número de moléculas del gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · interpretación cinética de la temperatura
+
+La temperatura absoluta de un gas es una medida de la energía cinética promedio de las moléculas.
+
+### 159
+
+De acuerdo con el libro de Química, ¿cómo se denomina a veces el movimiento molecular aleatorio?
+
+- A. Movimiento térmico
+- B. Movimiento elástico
+- C. Movimiento de difusión
+- D. Movimiento de efusión
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 204
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · movimiento térmico
+
+Debido a que está relacionado con la temperatura de la muestra de gas, el movimiento molecular aleatorio a veces se denomina movimiento térmico.
+
+### 160
+
+En relación con el libro de Química, ¿por qué los gases se pueden comprimir fácilmente para ocupar menos volumen?
+
+- A. Porque sus moléculas están separadas por grandes distancias
+- B. Porque sus moléculas se atraen fuertemente entre sí
+- C. Porque sus moléculas tienen un volumen muy grande
+- D. Porque sus moléculas están en reposo
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 205
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · aplicación a las leyes de los gases
+
+Debido a que las moléculas en la fase gaseosa están separadas por grandes distancias (suposición 1), los gases se pueden comprimir fácilmente para ocupar menos volumen.
+
+### 161
+
+De acuerdo con el libro de Química, según la teoría cinética, ¿de qué resulta la presión ejercida por un gas?
+
+- A. Del impacto de sus moléculas en las paredes del recipiente
+- B. De la atracción entre sus moléculas
+- C. Del volumen que ocupan sus moléculas
+- D. De la masa molar de sus moléculas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 205
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · aplicación a las leyes de los gases
+
+La presión ejercida por un gas resulta del impacto de sus moléculas en las paredes del recipiente.
+
+### 162
+
+En relación con el libro de Química, según la teoría cinética, si se calienta un gas, ¿qué ocurre con las colisiones de sus moléculas contra las paredes del recipiente?
+
+- A. Chocan con más frecuencia y con mayor impacto
+- B. Chocan con menos frecuencia y con menor impacto
+- C. Dejan de chocar contra las paredes
+- D. Chocan con la misma frecuencia pero con menor impacto
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 205
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · aplicación a las leyes de los gases
+
+El aumento de la temperatura aumenta la energía cinética promedio. En consecuencia, las moléculas chocarán con las paredes del recipiente con más frecuencia y con mayor impacto si se calienta el gas.
+
+### 163
+
+De acuerdo con el libro de Química, a la misma presión y temperatura, ¿qué tienen en común volúmenes iguales de gases, ya sean iguales o diferentes?
+
+- A. Contienen el mismo número de moléculas
+- B. Tienen la misma masa
+- C. Tienen la misma masa molar
+- D. Contienen el mismo número de átomos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 205
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · aplicación a las leyes de los gases
+
+Otra forma de enunciar la ley de Avogadro es que, a la misma presión y temperatura, volúmenes iguales de gases, ya sean gases iguales o diferentes, contienen el mismo número de moléculas.
+
+### 164
+
+En relación con el libro de Química, dado que las moléculas no se atraen ni se repelen entre sí, ¿cómo se ve afectada la presión ejercida por un tipo de molécula por la presencia de otro gas?
+
+- A. No se ve afectada por la presencia de otro gas
+- B. Aumenta por la presencia de otro gas
+- C. Disminuye por la presencia de otro gas
+- D. Se anula por la presencia de otro gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 205
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · aplicación a las leyes de los gases
+
+Si las moléculas no se atraen ni se repelen entre sí (suposición 3), entonces la presión ejercida por un tipo de molécula no se ve afectada por la presencia de otro gas.
+
+### 165
+
+De acuerdo con el libro de Química, ¿quién analizó el comportamiento de las moléculas de gas a diferentes temperaturas para saber cuántas moléculas se mueven a una determinada velocidad?
+
+- A. Maxwell
+- B. Boyle
+- C. Avogadro
+- D. Dalton
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 205
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · distribución de velocidades moleculares
+
+Para responder a esta pregunta, Maxwell analizó el comportamiento de las moléculas de gas a diferentes temperaturas.
+
+### 166
+
+En relación con el libro de Química, en la distribución de velocidades de un gas, ¿qué ocurre a temperaturas más altas?
+
+- A. Más moléculas se mueven a velocidades más rápidas
+- B. Más moléculas se mueven a velocidades más lentas
+- C. Todas las moléculas se mueven a la misma velocidad
+- D. Las moléculas dejan de moverse
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 206
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · distribución de velocidades moleculares
+
+Distribución de velocidades para gas nitrógeno a tres temperaturas diferentes. A temperaturas más altas, más moléculas se mueven a velocidades más rápidas.
+
+### 167
+
+De acuerdo con el libro de Química, a una temperatura dada, ¿qué moléculas se mueven más rápido, en promedio?
+
+- A. Las moléculas más ligeras
+- B. Las moléculas más pesadas
+- C. Todas a la misma velocidad, sin importar su masa
+- D. Las moléculas de mayor volumen
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 206
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · distribución de velocidades moleculares
+
+A una temperatura dada, las moléculas más ligeras se mueven más rápido, en promedio.
+
+### 168
+
+En relación con el libro de Química, ¿qué representa el pico de cada curva de distribución de velocidad de Maxwell?
+
+- A. La velocidad más probable, es decir, la velocidad del mayor número de moléculas
+- B. La velocidad máxima que alcanza cualquier molécula
+- C. La velocidad mínima de las moléculas del gas
+- D. La velocidad promedio de las moléculas más pesadas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 206
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · distribución de velocidades moleculares
+
+El pico de cada curva representa la velocidad más probable, es decir, la velocidad del mayor número de moléculas.
+
+### 169
+
+De acuerdo con el libro de Química, ¿qué le ocurre a la velocidad más probable a medida que aumenta la temperatura?
+
+- A. Aumenta, y el pico de la curva se desplaza hacia la derecha
+- B. Disminuye, y el pico de la curva se desplaza hacia la izquierda
+- C. Permanece constante, sin desplazar el pico
+- D. Se anula, y desaparece el pico de la curva
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 206
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · distribución de velocidades moleculares
+
+La velocidad más probable aumenta a medida que aumenta la temperatura (el pico se desplaza hacia la derecha).
+
+### 170
+
+En relación con el libro de Química, ¿qué es la velocidad de la raíz cuadrada media (urms)?
+
+- A. Una velocidad molecular media
+- B. La velocidad de la molécula más veloz
+- C. La velocidad de la molécula más lenta
+- D. La suma de las velocidades de todas las moléculas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 207
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · velocidad de la raíz cuadrada media
+
+Una forma de estimar la velocidad molecular es calcular la velocidad (urms) de la raíz cuadrada media (rms), que es una velocidad molecular media.
+
+### 171
+
+De acuerdo con el libro de Química, según la velocidad de la raíz cuadrada media, ¿cómo se mueven las moléculas cuanto más pesado es el gas?
+
+- A. Más lentamente
+- B. Más rápidamente
+- C. A la misma velocidad, sin importar su masa
+- D. De forma cada vez más rápida al aumentar la masa
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 207
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · velocidad de la raíz cuadrada media
+
+Se deduce que cuanto más pesado es el gas, más lentamente se mueven sus moléculas.
+
+### 172
+
+En relación con el libro de Química, ¿por qué solo una pequeña cantidad de helio está presente en la atmósfera de la Tierra?
+
+- A. Porque la velocidad promedio del helio es mayor y más átomos de helio escapan hacia el espacio exterior
+- B. Porque el helio reacciona con el oxígeno de la atmósfera
+- C. Porque el helio es más pesado y se hunde hacia la superficie
+- D. Porque el helio se condensa formando líquido en la atmósfera
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 208
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · velocidad de la raíz cuadrada media
+
+Debido a que la velocidad promedio del helio es considerablemente mayor que la del nitrógeno molecular o el oxígeno molecular, más átomos de helio escapan de la atmósfera de la Tierra hacia el espacio exterior. En consecuencia, solo una pequeña cantidad de helio está presente en nuestra atmósfera.
+
+### 173
+
+De acuerdo con el libro de Química, ¿qué es la difusión?
+
+- A. La mezcla gradual de moléculas de un gas con moléculas de otro gas en virtud de sus propiedades cinéticas
+- B. El escape de un gas a presión a través de una pequeña abertura
+- C. La condensación de un gas para formar un líquido
+- D. La compresión de un gas para ocupar menos volumen
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 208
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · difusión de gases
+
+La difusión, la mezcla gradual de moléculas de un gas con moléculas de otro gas en virtud de sus propiedades cinéticas, proporciona una demostración directa del movimiento aleatorio gaseoso.
+
+### 174
+
+En relación con el libro de Química, ¿en qué sentido procede siempre la difusión?
+
+- A. De una región de mayor concentración a otra donde la concentración es menor
+- B. De una región de menor concentración a otra donde la concentración es mayor
+- C. De una región de menor presión a otra de mayor presión
+- D. De una región de menor temperatura a otra de mayor temperatura
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 208
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · difusión de gases
+
+La difusión siempre procede de una región de mayor concentración a otra donde la concentración es menor.
+
+### 175
+
+De acuerdo con el libro de Química, ¿por qué la difusión de los gases ocurre gradualmente y no instantáneamente?
+
+- A. Porque una molécula experimenta numerosas colisiones mientras se mueve de un extremo al otro
+- B. Porque las velocidades moleculares son muy pequeñas
+- C. Porque las moléculas se atraen fuertemente entre sí
+- D. Porque las moléculas se mueven en línea recta sin chocar
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 208
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · difusión de gases
+
+La razón es que una molécula experimenta numerosas colisiones mientras se mueve de un extremo al otro del banco. Por lo tanto, la difusión de los gases siempre ocurre gradualmente, y no instantáneamente como parecen sugerir las velocidades moleculares.
+
+### 176
+
+En relación con el libro de Química, cuando el gas NH3 y el gas HCl se combinan para formar NH4Cl sólido, ¿por qué el sólido aparece primero cerca de la botella de HCl?
+
+- A. Porque el NH3 es más liviano y, por lo tanto, se difunde más rápido
+- B. Porque el HCl es más liviano y, por lo tanto, se difunde más rápido
+- C. Porque el NH3 es más pesado y se difunde más lento
+- D. Porque el NH4Cl se forma únicamente dentro de la botella de HCl
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 210
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · difusión de gases
+
+Debido a que el NH3 es más liviano y, por lo tanto, se difunde más rápido, el NH4Cl sólido aparece primero cerca de la botella de HCl.
+
+### 177
+
+De acuerdo con el libro de Química, ¿qué encontró Thomas Graham en 1832 sobre las velocidades de difusión de los gases bajo las mismas condiciones de temperatura y presión?
+
+- A. Que son inversamente proporcionales a las raíces cuadradas de sus masas molares
+- B. Que son directamente proporcionales a sus masas molares
+- C. Que son iguales para todos los gases
+- D. Que son directamente proporcionales a las raíces cuadradas de sus masas molares
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 210
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · ley de difusión de Graham
+
+En 1832, el químico escocés Thomas Graham encontró que bajo las mismas condiciones de temperatura y presión, las velocidades de difusión de los gases son inversamente proporcionales a las raíces cuadradas de sus masas molares.
+
+### 178
+
+En relación con el libro de Química, ¿qué es la efusión?
+
+- A. El proceso por el cual un gas a presión escapa de un compartimento de un recipiente a otro pasando a través de una pequeña abertura
+- B. La mezcla gradual de las moléculas de un gas con las de otro gas
+- C. La condensación de un gas para formar un líquido
+- D. El aumento de la presión de un gas al reducir su volumen
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 210
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · efusión de gases
+
+La efusión es el proceso por el cual un gas a presión escapa de un compartimento de un recipiente a otro pasando a través de una pequeña abertura.
+
+### 179
+
+De acuerdo con el libro de Química, ¿por qué un globo de goma lleno de helio se desinfla más rápido que uno lleno de aire?
+
+- A. Porque la tasa de efusión a través de los poros de la goma es más rápida para los átomos de helio más livianos que para las moléculas de aire
+- B. Porque el helio reacciona con la goma del globo
+- C. Porque el helio es más pesado que el aire y empuja con más fuerza
+- D. Porque el aire se difunde hacia el interior del globo
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 210
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · efusión de gases
+
+Un globo de goma lleno de helio se desinfla más rápido que uno lleno de aire porque la tasa de efusión a través de los poros de la goma es más rápida para los átomos de helio más livianos que para las moléculas de aire.
+
+### 180
+
+En relación con el libro de Química, ¿para qué se utiliza industrialmente la efusión de gas?
+
+- A. Para separar isótopos de uranio en forma de 235UF6 y 238UF6 gaseosos
+- B. Para producir amoníaco a partir de nitrógeno e hidrógeno
+- C. Para licuar el aire y separar sus componentes
+- D. Para medir la presión atmosférica a distintas altitudes
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 210
+**Tema:** 5.7 · la teoría cinética molecular de los gases
+**Subtema:** Química · efusión de gases
+
+Industrialmente, la efusión de gas se utiliza para separar isótopos de uranio en forma de 235UF6 y 238UF6 gaseosos.
+
+## Sub-lote 8 · 5.8 Desviación del comportamiento ideal (págs. 211–213)
+
+### 181
+
+De acuerdo con el libro de Química, ¿qué dos condiciones satisface un gas que presenta un comportamiento ideal?
+
+- A. Sus moléculas no ejercen fuerzas de atracción ni de repulsión, y su volumen es insignificante comparado con el del recipiente
+- B. Sus moléculas se atraen fuertemente, y su volumen es igual al del recipiente
+- C. Sus moléculas están en reposo, y su volumen es despreciable
+- D. Sus moléculas se repelen entre sí, y su volumen es mayor que el del recipiente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 211
+**Tema:** 5.8 · desviación del comportamiento ideal
+**Subtema:** Química · comportamiento ideal
+
+Las leyes de los gases y la teoría cinética molecular suponen que las moléculas en estado gaseoso no ejercen ninguna fuerza, ni de atracción ni de repulsión, entre sí. La otra suposición es que el volumen de las moléculas es insignificantemente pequeño en comparación con el del recipiente. Se dice que un gas que satisface estas dos condiciones presenta un comportamiento ideal.
+
+### 182
+
+En relación con el libro de Química, si no existieran las fuerzas intermoleculares, ¿qué no podrían hacer los gases?
+
+- A. Condensarse para formar líquidos
+- B. Comprimirse para ocupar menos volumen
+- C. Difundirse a través de una abertura
+- D. Ejercer presión sobre las paredes del recipiente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 211
+**Tema:** 5.8 · desviación del comportamiento ideal
+**Subtema:** Química · comportamiento ideal
+
+Sin fuerzas intermoleculares, los gases no podrían condensarse para formar líquidos.
+
+### 183
+
+De acuerdo con el libro de Química, según la ecuación del gas ideal, para 1 mol de gas, ¿a cuánto es igual PV/RT, independientemente de la presión real del gas?
+
+- A. A 1
+- B. A 0
+- C. Al número de moles del gas
+- D. A la temperatura absoluta del gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 211
+**Tema:** 5.8 · desviación del comportamiento ideal
+**Subtema:** Química · desviación de la idealidad
+
+Según la ecuación del gas ideal (para 1 mol de gas), PV/RT es igual a 1, independientemente de la presión real del gas.
+
+### 184
+
+En relación con el libro de Química, ¿en qué condición las fuerzas intermoleculares llegan a ser lo suficientemente significativas como para que un gas no se comporte de manera ideal?
+
+- A. A altas presiones, cuando la densidad del gas aumenta y las moléculas están mucho más cerca unas de otras
+- B. A bajas presiones, cuando las moléculas están muy separadas
+- C. A presión atmosférica, cuando las fuerzas de atracción son insignificantes
+- D. En el vacío, cuando no hay moléculas presentes
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 211
+**Tema:** 5.8 · desviación del comportamiento ideal
+**Subtema:** Química · desviación de la idealidad
+
+A altas presiones, la densidad del gas aumenta; las moléculas están mucho más cerca unas de otras. Entonces, las fuerzas intermoleculares pueden ser lo suficientemente significativas como para afectar el movimiento de las moléculas, y el gas no se comportará de manera ideal.
+
+### 185
+
+De acuerdo con el libro de Química, además de aumentar la presión, ¿de qué otra forma se puede observar el comportamiento no ideal de los gases?
+
+- A. Bajando la temperatura, lo que disminuye la energía cinética promedio de las moléculas
+- B. Subiendo la temperatura, lo que aumenta la energía cinética promedio
+- C. Aumentando el volumen del recipiente
+- D. Reduciendo el número de moléculas del gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 212
+**Tema:** 5.8 · desviación del comportamiento ideal
+**Subtema:** Química · desviación de la idealidad
+
+Otra forma de observar el comportamiento no ideal de los gases es bajar la temperatura. Enfriar un gas disminuye la energía cinética promedio de las moléculas, lo que en cierto sentido priva a las moléculas del impulso que necesitan para romper su atracción mutua.
+
+### 186
+
+En relación con el libro de Química, ¿quién realizó por primera vez, en 1873, el análisis que modifica la ecuación del gas ideal teniendo en cuenta las fuerzas intermoleculares y los volúmenes moleculares finitos?
+
+- A. El físico holandés JD van der Waals
+- B. El químico escocés Thomas Graham
+- C. El físico inglés James Prescott Joule
+- D. El físico James Clerk Maxwell
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 212
+**Tema:** 5.8 · desviación del comportamiento ideal
+**Subtema:** Química · ecuación de van der Waals
+
+Tal análisis fue realizado por primera vez por el físico holandés JD van der Waals en 1873.
+
+### 187
+
+De acuerdo con el libro de Química, según van der Waals, ¿qué efecto tienen las atracciones de las moléculas vecinas sobre el impacto de una molécula contra la pared del recipiente?
+
+- A. Tienden a suavizar el impacto, de modo que la presión del gas es más baja de lo esperado para un gas ideal
+- B. Aumentan el impacto, de modo que la presión del gas es más alta de lo esperado
+- C. No tienen ningún efecto sobre el impacto
+- D. Impiden por completo que la molécula llegue a la pared
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 212
+**Tema:** 5.8 · desviación del comportamiento ideal
+**Subtema:** Química · ecuación de van der Waals
+
+Las atracciones intermoleculares que ejercen sus vecinas tienden a suavizar el impacto de esta molécula contra la pared. El efecto general es una presión de gas más baja de lo que esperaríamos para un gas ideal.
+
+### 188
+
+En relación con el libro de Química, ¿por qué la ecuación de van der Waals corrige el volumen del recipiente?
+
+- A. Porque cada molécula ocupa un volumen intrínseco finito, aunque pequeño
+- B. Porque las moléculas no ocupan ningún volumen
+- C. Porque el recipiente cambia de tamaño con la presión
+- D. Porque el volumen de las moléculas es igual al del recipiente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 212
+**Tema:** 5.8 · desviación del comportamiento ideal
+**Subtema:** Química · ecuación de van der Waals
+
+Cada molécula ocupa un volumen intrínseco finito, aunque pequeño, por lo que el volumen efectivo del gas se convierte en (V − nb).
+
+### 189
+
+De acuerdo con el libro de Química, en la ecuación de van der Waals, ¿qué indica el valor de la constante *a*?
+
+- A. Con qué fuerza se atraen entre sí las moléculas de un tipo dado de gas
+- B. El volumen que ocupa una molécula del gas
+- C. El número de moles del gas
+- D. La temperatura absoluta del gas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 213
+**Tema:** 5.8 · desviación del comportamiento ideal
+**Subtema:** Química · ecuación de van der Waals
+
+El valor de a indica con qué fuerza se atraen entre sí las moléculas de un tipo dado de gas.
+
+### 190
+
+En relación con el libro de Química, entre los gases de la tabla de constantes de van der Waals, ¿cuál tiene la atracción más débil entre sus átomos?
+
+- A. El helio, porque tiene el menor valor de a
+- B. El nitrógeno, porque tiene el mayor valor de a
+- C. El amoníaco, porque tiene el menor valor de b
+- D. El cloro, porque tiene el mayor valor de b
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 213
+**Tema:** 5.8 · desviación del comportamiento ideal
+**Subtema:** Química · ecuación de van der Waals
+
+Vemos que los átomos de helio tienen la atracción más débil entre sí, porque el helio tiene la menor a.
+
+### 191
+
+De acuerdo con el libro de Química, ¿por qué trabajo recibió van der Waals el Premio Nobel de Física en 1910?
+
+- A. Por su trabajo sobre las propiedades de los gases y líquidos
+- B. Por su trabajo sobre la ósmosis y los ácidos fosfóricos
+- C. Por determinar el equivalente mecánico del calor
+- D. Por su trabajo sobre la teoría cinética de los gases
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 212
+**Tema:** 5.8 · desviación del comportamiento ideal
+**Subtema:** Química · ecuación de van der Waals
+
+Van der Waals recibió el Premio Nobel de Física en 1910 por su trabajo sobre las propiedades de los gases y líquidos.
+
+---
+
+**Pendiente:** ninguno. Con los subtemas 5.7 y 5.8 el capítulo 5 (Gases) queda
+cerrado en su teoría, y con él **Química queda cerrada para todos los planteles**
+que la piden (EMM, EME, EMO y EMOS): el capítulo 5 era el único subtema que
+faltaba y es exclusivo de la EMOS.
+
+**Reactivos en este archivo:** 191
