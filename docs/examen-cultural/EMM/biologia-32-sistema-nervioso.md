@@ -154,9 +154,17 @@ el salto del potencial de acción de nodo en nodo hasta 120 m/s con ahorro energ
 bomba; y el arranque de "La sinapsis" (figs. 32-15 y 32-16): Ramón y Cajal (1852-1934) que
 describió las zonas de comunicación y Sherrington (1857-1952) que las llamó sinapsis, las
 sinapsis eléctricas (uniones comunicantes/gap junctions) y químicas (mayoritarias en
-mamíferos, las neuronas nunca se tocan, hendidura sináptica de ~20 nm).
+mamíferos, las neuronas nunca se tocan, hendidura sináptica de ~20 nm). De la **página
+771** (enteramente figuras) se cubre la fig. 32-14 (la formación de la vaina de mielina:
+cada segmento por una sola célula de la glía, los nodos de Ranvier como zonas expuestas,
+la alternancia de porciones aisladas y no aisladas como clave de la rápida transmisión,
+la célula de Schwann del SNP que se envuelve y expulsa su citoplasma, y la vaina de capas
+de membranas lipídicas que aísla la fibra) y la fig. 32-15 (el mecanismo de la sinapsis
+eléctrica —corrientes iónicas directas por uniones comunicantes, sin mensajeros químicos—
+y de la química —fusión de vesículas sinápticas, exocitosis de neurotransmisores en la
+hendidura, receptores específicos y el potencial postsináptico—).
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 771 (hoja 817) en adelante (el resto de las sinapsis químicas y la transmisión sináptica, las figs. 32-15 y 32-16, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 772 (hoja 818) en adelante (el resto de la transmisión sináptica química y los neurotransmisores, la fig. 32-16, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -3236,6 +3244,192 @@ De acuerdo con el libro de Biología, en las sinapsis químicas, ¿cómo se llam
 
 Un espacio de alrededor de 20 nanómetros, conocido como hendidura sináptica, separa a las dos neuronas en las sinapsis químicas.
 
+## Sub-lote 24 · La formación de la vaina de mielina (fig. 32-14, p. 771)
+
+### 199
+
+De acuerdo con el libro de Biología, según la figura 32-14a, ¿qué muestra la neurona en formación en cultivo?
+
+- A. Se ha desarrollado el axón y aún están desarrollándose las dendritas
+- B. Se han desarrollado las dendritas y aún se está desarrollando el axón
+- C. Se ha desarrollado por completo la vaina de mielina
+- D. Se ha desarrollado el soma, pero no el axón ni las dendritas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
+**Subtema:** sistema nervioso · neurona en cultivo
+
+En la figura 32-14a se muestra una neurona en formación en cultivo; se ha desarrollado el axón y aún están desarrollándose las dendritas.
+
+### 200
+
+De acuerdo con el libro de Biología, según la figura 32-14b, ¿por cuántas células de la glía está dado cada segmento de la vaina de mielina?
+
+- A. Cada segmento está dado por una sola célula de la glía
+- B. Cada segmento está dado por diez células de la glía
+- C. Cada segmento está dado por una neurona sensorial
+- D. Cada segmento no está formado por células, sino por lípidos libres
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
+**Subtema:** sistema nervioso · vaina de mielina
+
+En el esquema de una neurona recubierta por la vaina de mielina aislante, cada segmento de la vaina está dado por una sola célula de la glía.
+
+### 201
+
+De acuerdo con el libro de Biología, según la figura 32-14b, ¿qué son los nodos de Ranvier?
+
+- A. Las zonas en donde, entre las dos células de la glía, la membrana del axón queda expuesta al medio exterior
+- B. Las capas de mielina que envuelven el axón
+- C. El núcleo de la célula de Schwann
+- D. La arborización terminal del axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
+**Subtema:** sistema nervioso · nodos de Ranvier
+
+Entre las dos células de la glía, la membrana del axón queda expuesta al medio exterior, en las zonas llamadas nodos de Ranvier.
+
+### 202
+
+De acuerdo con el libro de Biología, según la figura 32-14b, ¿qué constituye la clave de la rápida transmisión del impulso nervioso en neuronas de axones largos?
+
+- A. La alternancia de porciones aisladas y no aisladas del axón
+- B. La ausencia total de vaina de mielina en el axón
+- C. El pequeño diámetro del axón
+- D. La presencia de un solo nodo de Ranvier en todo el axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
+**Subtema:** sistema nervioso · conducción rápida
+
+La alternancia de porciones aisladas y no aisladas del axón constituye la clave de la rápida transmisión del impulso nervioso en neuronas de axones largos.
+
+### 203
+
+De acuerdo con el libro de Biología, según la figura 32-14c, ¿cómo forma la vaina de mielina la célula de Schwann?
+
+- A. Al crecer, se envuelve varias veces alrededor del axón y expulsa de modo gradual su citoplasma, que se encuentra entre las capas
+- B. Deposita una capa de calcio alrededor del axón sin envolverse
+- C. Se fusiona con el axón para formar una sola célula
+- D. Inyecta neurotransmisores en el interior del axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
+**Subtema:** sistema nervioso · célula de Schwann
+
+Cuando la célula de Schwann crece, se envuelve varias veces alrededor del axón y expulsa de modo gradual su citoplasma, que se encuentra entre las capas.
+
+### 204
+
+De acuerdo con el libro de Biología, según la figura 32-14c, ¿de qué consiste la vaina de mielina y qué función cumple?
+
+- A. Consiste en capas de membranas celulares lipídicas, y aísla a la fibra nerviosa
+- B. Consiste en una capa mineral rígida que da soporte al axón
+- C. Consiste en fibras musculares que contraen el axón
+- D. Consiste en vasos sanguíneos que nutren el axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
+**Subtema:** sistema nervioso · vaina de mielina
+
+La vaina de mielina, que consiste en capas de membranas celulares lipídicas, aísla a la fibra nerviosa.
+
+### 205
+
+De acuerdo con el libro de Biología, según la figura 32-14c, la célula de la glía que forma la vaina de mielina, ¿en qué parte del sistema nervioso se encuentra?
+
+- A. En el sistema nervioso periférico
+- B. En el sistema nervioso central
+- C. En la médula suprarrenal
+- D. En la corteza cerebral
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
+**Subtema:** sistema nervioso · sistema nervioso periférico
+
+La vaina de mielina se forma por una célula de la glía, un tipo de célula glial que se encuentra en el sistema nervioso periférico.
+
+### 206
+
+De acuerdo con el libro de Biología, según la figura 32-14d, ¿por qué la vaina de mielina madura tiene un aspecto oscuro en la microfotografía electrónica?
+
+- A. Por los productos químicos usados para "fijar" el espécimen para microscopia electrónica; sin este tratamiento, la vaina de mielina se ve blanca
+- B. Porque la mielina es naturalmente de color negro
+- C. Porque la microscopia electrónica quema el espécimen
+- D. Porque el axón contiene grandes cantidades de melanina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
+**Subtema:** sistema nervioso · vaina de mielina
+
+El aspecto oscuro de la vaina de mielina madura resulta de los productos químicos usados para "fijar" el espécimen para microscopia electrónica; sin este tratamiento, la vaina de mielina se ve blanca.
+
+## Sub-lote 25 · Las sinapsis eléctricas y químicas (fig. 32-15, p. 771)
+
+### 207
+
+De acuerdo con el libro de Biología, según la figura 32-15a, en una sinapsis eléctrica, ¿cómo se transmiten los cambios cuando llega un potencial de acción a la terminal axónica?
+
+- A. Por la transmisión directa de corrientes iónicas a través de las uniones comunicantes o nexos (gap junctions), en las que se produce el contacto entre las membranas presináptica y postsináptica
+- B. Por la liberación de neurotransmisores en la hendidura sináptica
+- C. Por la fusión de vesículas sinápticas con la membrana postsináptica
+- D. Por la difusión de hormonas a través de la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
+**Subtema:** sistema nervioso · sinapsis eléctricas
+
+La llegada de un potencial de acción a la terminal axónica de la célula presináptica está acompañada por la transmisión directa de corrientes iónicas. Estos cambios son transmitidos a través de las uniones comunicantes o nexos (gap junctions), en las que se produce el contacto entre las membranas presináptica y postsináptica.
+
+### 208
+
+De acuerdo con el libro de Biología, según la figura 32-15a, en la sinapsis eléctrica, ¿qué genera la transmisión de corrientes iónicas, y con qué particularidad?
+
+- A. Genera la despolarización de la membrana celular sin que medien mensajeros químicos
+- B. Genera la hiperpolarización de la membrana con ayuda de neurotransmisores
+- C. Genera la fusión de las vesículas sinápticas con la membrana
+- D. Genera un potencial postsináptico mediante receptores específicos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
+**Subtema:** sistema nervioso · sinapsis eléctricas
+
+La transmisión de corrientes iónicas a través de las uniones comunicantes genera la despolarización de la membrana celular sin que medien mensajeros químicos.
+
+> Contraste del mecanismo: la sinapsis **eléctrica** pasa corrientes iónicas directas por las uniones comunicantes, *sin* mensajeros químicos; la **química** libera neurotransmisores por exocitosis en la hendidura, que actúan sobre receptores de la célula postsináptica.
+
+### 209
+
+De acuerdo con el libro de Biología, según la figura 32-15b, en una sinapsis química, ¿qué inicia la llegada de un potencial de acción a la terminal axónica?
+
+- A. La fusión de las vesículas sinápticas —que contienen moléculas de neurotransmisores— con la membrana del axón, y su liberación por exocitosis en la hendidura sináptica
+- B. La transmisión directa de corrientes iónicas por las uniones comunicantes
+- C. El cierre de todos los canales de la membrana postsináptica
+- D. La absorción de neurotransmisores desde la hendidura hacia el axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
+**Subtema:** sistema nervioso · sinapsis químicas
+
+La llegada de un potencial de acción en la terminal axónica inicia la fusión de las vesículas sinápticas —que contienen moléculas de neurotransmisores— con la membrana del axón y las libera por exocitosis en la hendidura sináptica.
+
+### 210
+
+De acuerdo con el libro de Biología, según la figura 32-15b, una vez liberadas en la hendidura, ¿qué hacen las moléculas de neurotransmisor y qué provocan?
+
+- A. Se difunden a la célula postsináptica, donde se combinan con receptores específicos de la membrana celular, lo cual provoca una respuesta específica: un potencial postsináptico
+- B. Regresan de inmediato al axón presináptico sin producir efecto alguno
+- C. Se transforman en corrientes iónicas que viajan por las uniones comunicantes
+- D. Son destruidas antes de alcanzar la célula postsináptica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
+**Subtema:** sistema nervioso · potencial postsináptico
+
+Estas moléculas se difunden a la célula postsináptica, en donde se combinan con receptores específicos de la membrana celular, lo cual provoca una respuesta específica: un potencial postsináptico.
+
 ---
 
-**Reactivos en este archivo:** 198
+**Reactivos en este archivo:** 210
