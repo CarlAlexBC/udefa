@@ -18,7 +18,7 @@ _Regenerado el 2026-07-24._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM) | 2430 | abiertas: EMM · Biología |
+| Examen cultural (EMM, HCM) | 2441 | abiertas: EMM · Biología |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -38,7 +38,7 @@ _Regenerado el 2026-07-24._
 | EMM · Biología · Capítulo 8 · Glucólisis y respiración celular | 149 | ninguno. El capítulo 8 está cerrado en 149 reactivos (23 jul 2026); los ejercicios de razonamiento de la página 158 quedan fuera por no ser de recuerdo literal. Lo que falta de Biología lo declara el archivo del último capítulo escrito — hoy, el capítulo 11. |
 | EMM · Biología · Capítulo 11 · La reproducción sexual y las bases cromosómicas de la herencia | 162 | ninguno. El capítulo 11 está cerrado en 162 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 12 (`biologia-12-flujo-informacion-genetica.md`). |
 | EMM · Biología · Capítulo 12 · El flujo de información genética y la síntesis de proteínas | 131 | ninguno. El capítulo 12 está cerrado en 131 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 31 (`biologia-31-tejidos-organos-sistemas.md`). |
-| EMM · Biología · Capítulo 31 · Los tejidos, órganos y sistemas de los vertebrados | 10 | el capítulo 31 está EN CURSO; sigue desde la página impresa 741 (hoja 787) en adelante. De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente. |
+| EMM · Biología · Capítulo 31 · Los tejidos, órganos y sistemas de los vertebrados | 21 | el capítulo 31 está EN CURSO; sigue desde la página impresa 742 (hoja 788) en adelante (los cuatro tipos de tejidos en detalle, empezando por el epitelial). De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente. |
 | HCM · Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
 | HCM · Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
 | HCM · Álgebra · Capítulo II · Resta | 23 | ninguno. El capítulo II (pp. 46–57) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-03-signos-agrupacion.md`. |
@@ -53,7 +53,7 @@ _Regenerado el 2026-07-24._
 | HCM · Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
 | HCM · Geografía · Capítulo 5 · Islas | 42 | ninguno. El capítulo 5 está cerrado. |
 | HCM · Historia · Capítulo 6 · El mundo contemporáneo | 600 | ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que pide el temario del HCM están completos, de la página 205 a la 279. |
-| **Total** | **2430** | |
+| **Total** | **2441** | |
 
 ## Personalidad (remaster)
 
