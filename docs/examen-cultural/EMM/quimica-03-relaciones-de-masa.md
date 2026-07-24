@@ -738,10 +738,9 @@ Revisa tu ecuación balanceada para asegurarte de que tienes el mismo número to
 
 ---
 
-**Pendiente:** el capítulo 3 queda cubierto en los cinco subtemas que pide el
-temario de Medicina (3.1, 3.2, 3.3, 3.5 y 3.7); el resto del capítulo (3.4, 3.6 y
-3.8 a 3.10) no entra. En Química siguen abiertos el **capítulo 24** (24.2 y 24.4),
-que aún no tiene archivo, y el **relleno de 4.3 y 4.4** en el capítulo 4. Este
-archivo sostiene la lista hasta que ese trabajo se cierre.
+**Pendiente:** ninguno. El capítulo 3 quedó cubierto en los cinco subtemas que
+pide el temario de Medicina (3.1, 3.2, 3.3, 3.5 y 3.7); el resto del capítulo
+(3.4, 3.6 y 3.8 a 3.10) no entra. Química quedó cerrada; el resumen lo sostiene
+el `.md` del capítulo 24.
 
 **Reactivos en este archivo:** 43

@@ -103,9 +103,8 @@ los objetivos de aprendizaje y el resumen del capítulo.
 **El capítulo 2 queda CERRADO** en sus seis subtemas del temario (2.1, 2.2, 2.5,
 2.6, 2.7 y 2.8).
 
-**Pendiente:** los capítulos 3, 4, 9 y 24, que el temario pide y todavía no
-tienen archivo. Este archivo sostiene la lista hasta que exista el `.md` del
-capítulo 3.
+**Pendiente:** ninguno. Química quedó cerrada en todos los capítulos del temario
+de Medicina; el resumen lo sostiene el `.md` del capítulo 24.
 
 ## Avisos al aspirante — el libro dice mal
 

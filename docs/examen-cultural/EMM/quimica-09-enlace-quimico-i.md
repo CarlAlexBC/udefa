@@ -525,13 +525,8 @@ Los elementos más electronegativos (los halógenos, el oxígeno, el nitrógeno 
 
 ---
 
-**Pendiente:** dentro del capítulo 9 no queda teoría por cubrir de los subtemas
-que pide el temario (9.2, 9.4 y 9.5) más allá de un repaso. Queda abierto el
-**capítulo 24** (Química orgánica: 24.2 hidrocarburos alifáticos y 24.4 química
-de los grupos funcionales), que el temario de Medicina pide y todavía no tiene
-archivo. **Además quedan por rellenar, si Carlo lo decide, las partes teóricas de
-3.5, 3.7, 4.3 y 4.4**, que el temario de Medicina pide y que los archivos de los
-capítulos 3 y 4 no cubren (se escribieron contra el temario de Enfermería). Este
-archivo sostiene la lista hasta que exista el `.md` del capítulo 24.
+**Pendiente:** ninguno. El capítulo 9 quedó cubierto en los tres subtemas que
+pide el temario de Medicina (9.2, 9.4 y 9.5). Química quedó cerrada; el resumen lo
+sostiene el `.md` del capítulo 24.
 
 **Reactivos en este archivo:** 30

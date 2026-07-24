@@ -890,11 +890,9 @@ Para iones compuestos de un solo átomo (es decir, iones monoatómicos), el núm
 
 ---
 
-**Pendiente:** el capítulo 4 queda cubierto en los cuatro subtemas que pide el
-temario de Medicina (4.1, 4.3, 4.4 y 4.5); el resto del capítulo (4.2 y 4.6 a
-4.8) no entra. En Química solo queda abierto el **capítulo 24** (Química orgánica:
-24.2 hidrocarburos alifáticos y 24.4 química de los grupos funcionales), que aún
-no tiene archivo. Este archivo sostiene la lista hasta que exista el `.md` del
+**Pendiente:** ninguno. El capítulo 4 quedó cubierto en los cuatro subtemas que
+pide el temario de Medicina (4.1, 4.3, 4.4 y 4.5); el resto del capítulo (4.2 y
+4.6 a 4.8) no entra. Química quedó cerrada; el resumen lo sostiene el `.md` del
 capítulo 24.
 
 **Reactivos en este archivo:** 53
