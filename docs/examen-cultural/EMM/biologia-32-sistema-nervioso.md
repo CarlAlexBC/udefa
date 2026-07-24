@@ -75,9 +75,20 @@ salen por la zona ventral de la sustancia gris vía los nervios raquídeos) y el
 reflejo (figs. 32-5 y 32-6): la unidad básica de procesamiento nervioso, el ejemplo
 del pinchazo, la secuencia receptor→neurona sensorial→interneurona→neurona motora→
 efector, su presencia en todos los vertebrados, su papel en la regulación de procesos
-internos, y el arco reflejo polisináptico con su comunicación por sinapsis.
+internos, y el arco reflejo polisináptico con su comunicación por sinapsis. De la
+**página 763** se cubren las características de las acciones reflejas (involuntarias,
+innatas, estereotipadas y de alto valor adaptativo), los subsistemas somático (SNS,
+control voluntario de los músculos esqueléticos) y autónomo (SNA, control involuntario
+del músculo cardíaco, glándulas y músculo liso), la anatomía de sus neuronas motoras,
+los ganglios autónomos con las neuronas preganglionares y posganglionares, el que solo
+el autónomo puede inhibir a un efector, los reflejos viscerales, y el SNA simpático y
+parasimpático (fig. 32-7): la etimología *pathos*, sus diferencias, los neurotransmisores
+(noradrenalina en el simpático y acetilcolina en el parasimpático), el efecto antagónico,
+la homeostasis, y la respuesta simpática "de lucha o huida" (frecuencias cardíaca y
+respiratoria, vasoconstricción, pupilas y piloerección, inhibición digestiva y la
+secreción de adrenalina por la médula suprarrenal).
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 763 (hoja 809) en adelante (el resto del arco reflejo, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 764 (hoja 810) en adelante (el resto de la respuesta simpática, la división parasimpática, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -1211,6 +1222,327 @@ De acuerdo con el libro de Biología, según la figura 32-6, ¿cómo se realiza 
 
 La comunicación entre las neuronas mencionadas y entre la neurona motora y el músculo se realizan a través de sinapsis.
 
+## Sub-lote 8 · Las acciones reflejas y los subsistemas somático y autónomo (p. 763)
+
+### 73
+
+De acuerdo con el libro de Biología, ¿cómo son las acciones reflejas según sus características?
+
+- A. Respuestas básicas, involuntarias, innatas (no aprendidas, con base genética), estereotipadas (siempre operan del mismo modo) y de alto valor adaptativo
+- B. Respuestas complejas, voluntarias, aprendidas y variables según la situación
+- C. Respuestas voluntarias, innatas y de bajo valor adaptativo
+- D. Respuestas involuntarias, aprendidas por experiencia y de alto valor adaptativo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · acciones reflejas
+
+Las acciones reflejas son respuestas básicas, involuntarias, innatas (no aprendidas, que tienen una base genética), estereotipadas (siempre operan del mismo modo) y de alto valor adaptativo.
+
+### 74
+
+De acuerdo con el libro de Biología, ¿por qué las acciones reflejas son de alto valor adaptativo?
+
+- A. Porque les permiten a los animales dar respuestas rápidas y seguras a estímulos, por lo general nocivos, y así garantizar la protección y supervivencia del individuo
+- B. Porque permiten al animal aprender de cada estímulo nuevo que recibe
+- C. Porque le dan tiempo al cerebro para decidir conscientemente la respuesta
+- D. Porque son respuestas lentas pero muy precisas ante estímulos placenteros
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · acciones reflejas
+
+Son de alto valor adaptativo, ya que les permiten a los animales dar respuestas rápidas y seguras a estímulos, por lo general nocivos, y así garantizar la protección y supervivencia del individuo.
+
+### 75
+
+De acuerdo con el libro de Biología, ¿qué sistema lleva a cabo el control "voluntario" sobre los músculos esqueléticos?
+
+- A. El sistema nervioso periférico somático (SNS)
+- B. El sistema nervioso periférico autónomo (SNA)
+- C. La división simpática del sistema autónomo
+- D. La médula suprarrenal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · sistema somático
+
+El sistema nervioso puede ejercer un control "voluntario" sobre los músculos esqueléticos, al comandar a voluntad —de forma consciente— sus movimientos. Este control es llevado a cabo por el sistema nervioso periférico somático (SNS).
+
+### 76
+
+De acuerdo con el libro de Biología, ¿qué está a cargo del sistema nervioso periférico autónomo (SNA) mediante el control "involuntario"?
+
+- A. El músculo cardíaco, las glándulas y el músculo liso, como el que se encuentra en las paredes de los vasos sanguíneos y en los sistemas digestivo, respiratorio, excretor y reproductor
+- B. Únicamente los músculos esqueléticos del cuerpo
+- C. Solo el músculo cardíaco, sin incluir las glándulas ni el músculo liso
+- D. Los receptores sensoriales de la piel y de los músculos esqueléticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · sistema autónomo
+
+El control "involuntario" del músculo cardíaco, las glándulas y el músculo liso, como el que se encuentra en las paredes de los vasos sanguíneos y en los sistemas digestivo, respiratorio, excretor y reproductor, está a cargo del sistema nervioso periférico autónomo (SNA).
+
+### 77
+
+De acuerdo con el libro de Biología, ¿por qué la distinción entre "voluntario" e "involuntario" puede llevar fácilmente a equívocos?
+
+- A. Porque los músculos esqueléticos del sistema somático también se mueven de manera involuntaria en una acción refleja, mientras que ciertos estados de ánimo o entrenamientos como el yoga pueden modificar de forma voluntaria las funciones reguladas por el sistema autónomo
+- B. Porque el sistema somático solo controla funciones involuntarias y el autónomo solo funciones voluntarias
+- C. Porque ambos sistemas controlan exclusivamente los músculos esqueléticos
+- D. Porque las acciones reflejas son siempre voluntarias y conscientes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · voluntario e involuntario
+
+La distinción entre "voluntario" e "involuntario" puede llevar fácilmente a equívocos: los músculos esqueléticos del sistema somático también se mueven de manera involuntaria en una acción refleja, mientras que ciertos estados de ánimo, o incluso entrenamientos como el yoga, pueden modificar de forma voluntaria las funciones reguladas por el sistema autónomo.
+
+### 78
+
+De acuerdo con el libro de Biología, ¿dónde están los cuerpos celulares de las neuronas motoras del sistema somático y cómo corren sus axones?
+
+- A. Dentro del sistema nervioso central, y los largos axones corren sin interrupción hacia los músculos esqueléticos
+- B. Dentro de los ganglios autónomos, y sus axones hacen sinapsis antes de llegar al músculo
+- C. En los ganglios de la raíz dorsal, y sus axones corren hacia las vísceras
+- D. Por fuera del sistema nervioso central, con axones cortos hacia las glándulas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · neuronas motoras somáticas
+
+Los cuerpos celulares de las neuronas motoras del sistema somático están localizados dentro del sistema nervioso central y los largos axones corren sin interrupción hacia los músculos esqueléticos.
+
+### 79
+
+De acuerdo con el libro de Biología, a diferencia del somático, ¿qué hacen los axones del sistema nervioso autónomo antes de llegar a los efectores?
+
+- A. Hacen sinapsis por fuera del sistema nervioso central, dentro de ganglios autónomos, con neuronas motoras que luego inervan los efectores
+- B. Corren sin interrupción desde el sistema nervioso central hasta los efectores
+- C. Terminan directamente en los receptores sensoriales de la piel
+- D. Hacen sinapsis dentro de la médula espinal antes de salir del sistema nervioso central
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · ganglios autónomos
+
+Por lo habitual, estos axones no realizan todo el recorrido hasta los órganos blanco o efectores, sino que hacen sinapsis por fuera del sistema nervioso central con neuronas motoras que luego inervan los efectores. Estas sinapsis ocurren dentro de ganglios autónomos.
+
+### 80
+
+De acuerdo con el libro de Biología, en el sistema nervioso autónomo, ¿cómo se llaman las neuronas cuyos axones emergen del SNC y terminan en los ganglios, y las que emergen de los ganglios y terminan en los efectores?
+
+- A. Las primeras se llaman preganglionares y las segundas, posganglionares
+- B. Las primeras se llaman posganglionares y las segundas, preganglionares
+- C. Ambas se llaman preganglionares
+- D. Las primeras se llaman aferentes y las segundas, eferentes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · pre y posganglionares
+
+Las neuronas del sistema nervioso autónomo cuyos axones emergen del sistema nervioso central y terminan en los ganglios se llaman preganglionares, mientras que aquellas cuyos axones emergen de los ganglios y terminan en los efectores se denominan posganglionares.
+
+### 81
+
+De acuerdo con el libro de Biología, ¿qué diferencia importante existe entre el subsistema somático y el autónomo respecto a los efectores?
+
+- A. El sistema somático puede estimular a un efector o no, aunque no puede inhibirlo; en contraste, el sistema autónomo es capaz de estimular o inhibir la actividad de un efector
+- B. El sistema somático puede estimular e inhibir, mientras que el autónomo solo puede estimular
+- C. Ninguno de los dos subsistemas puede inhibir a un efector
+- D. Ambos pueden estimular, pero solo el somático puede inhibir a un efector
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · somático y autónomo
+
+El sistema somático puede estimular a un efector o no, aunque no puede inhibirlo. En contraste, el sistema autónomo es capaz de estimular o inhibir la actividad de un efector.
+
+### 82
+
+De acuerdo con el libro de Biología, las neuronas del sistema nervioso autónomo que reciben información desde receptores que detectan cambios en las vísceras (como la presión y la temperatura sanguínea), ¿en qué intervienen?
+
+- A. En los reflejos viscerales
+- B. En los reflejos somáticos
+- C. En las acciones voluntarias conscientes
+- D. En la contracción de los músculos esqueléticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · reflejos viscerales
+
+El sistema nervioso autónomo recibe información sensorial principalmente desde receptores sensoriales que detectan cambios en las vísceras y en el interior del cuerpo, como los cambios en la presión y en la temperatura sanguínea, entre otros. Estas neuronas intervienen en los reflejos viscerales.
+
+## Sub-lote 9 · El sistema nervioso autónomo: simpático y parasimpático (fig. 32-7, p. 763)
+
+### 83
+
+De acuerdo con el libro de Biología, las divisiones simpática y parasimpática deben su nombre a una palabra griega. ¿Cuál es y qué significa?
+
+- A. La palabra griega *pathos*, que significa sufrimiento o sensación
+- B. La palabra griega *soma*, que significa cuerpo
+- C. La palabra griega *autos*, que significa propio
+- D. La palabra griega *neuron*, que significa nervio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · simpático y parasimpático
+
+El sistema nervioso autónomo posee una división simpática y una división parasimpática; estas deben su nombre a la palabra griega *pathos*, que significa sufrimiento o sensación.
+
+### 84
+
+De acuerdo con el libro de Biología, ¿en qué se diferencian las divisiones simpática y parasimpática del sistema nervioso autónomo?
+
+- A. En su anatomía, su función y los transmisores químicos involucrados en ellas
+- B. Únicamente en el tamaño de sus neuronas
+- C. Solo en su ubicación anatómica, pero no en su función
+- D. En el número de ganglios, que es idéntico en ambas divisiones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · simpático y parasimpático
+
+Ambas divisiones del sistema nervioso autónomo se diferencian por su anatomía, su función y por los transmisores químicos involucrados en ellas.
+
+### 85
+
+De acuerdo con el libro de Biología, ¿cuál es el principal neurotransmisor posganglionar del sistema simpático y cuál el del parasimpático?
+
+- A. La noradrenalina en el simpático y la acetilcolina en el parasimpático
+- B. La acetilcolina en el simpático y la noradrenalina en el parasimpático
+- C. La adrenalina en ambas divisiones
+- D. La dopamina en el simpático y la serotonina en el parasimpático
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · neurotransmisores
+
+La noradrenalina es el principal neurotransmisor posganglionar del sistema simpático y la acetilcolina lo es del parasimpático.
+
+> Fácil de invertir: **noradrenalina → simpático**, **acetilcolina → parasimpático**. No confundir la noradrenalina (neurotransmisor) con la adrenalina que secreta la médula suprarrenal (reactivo 93).
+
+### 86
+
+De acuerdo con el libro de Biología, ¿qué tipo de efecto tienen, por lo general, las divisiones simpática y parasimpática sobre la mayoría de los órganos internos?
+
+- A. Un efecto antagónico, ya que los órganos están inervados por axones de ambos sistemas
+- B. Un efecto idéntico y sumatorio en cada órgano
+- C. Ningún efecto, porque cada división actúa sobre órganos distintos
+- D. Un efecto exclusivamente estimulante en ambos casos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · efecto antagónico
+
+Por lo general, las divisiones simpática y parasimpática tienen un efecto antagónico sobre la mayoría de los órganos internos, los cuales están inervados por axones de ambos sistemas.
+
+### 87
+
+De acuerdo con el libro de Biología, ¿de qué dependen, principalmente, las funciones viscerales y la regulación homeostática del cuerpo?
+
+- A. De la cooperación de las divisiones del sistema autónomo y de la actividad de las glándulas endocrinas
+- B. Únicamente de la división simpática del sistema autónomo
+- C. Solo de los músculos esqueléticos del sistema somático
+- D. De los reflejos medulares del sistema somático
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · homeostasis
+
+Las funciones viscerales y la regulación homeostática del cuerpo dependen, principalmente, de la cooperación de estas divisiones del sistema autónomo y de la actividad de las glándulas endocrinas.
+
+### 88
+
+De acuerdo con el libro de Biología, ¿para qué prepara al cuerpo la división simpática y cómo suele llamarse esa respuesta?
+
+- A. Prepara el cuerpo para la acción y es responsable de la respuesta a situaciones de estrés; suele decirse que se trata de una respuesta "de lucha o huida"
+- B. Prepara el cuerpo para el reposo y la digestión; suele llamarse respuesta "de descanso"
+- C. Prepara el cuerpo para el sueño; suele llamarse respuesta "de relajación"
+- D. Prepara el cuerpo para la reproducción; suele llamarse respuesta "de cortejo"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · división simpática
+
+Como consecuencia de su actividad, la división simpática prepara el cuerpo para la acción y es responsable de la respuesta del organismo a situaciones de estrés. Suele decirse que se trata de una respuesta "de lucha o huida".
+
+### 89
+
+De acuerdo con el libro de Biología, ¿cuáles son algunos de los aspectos físicos ligados al miedo, resultado del aumento en la descarga de noradrenalina del sistema simpático?
+
+- A. El aumento de las frecuencias cardíaca y respiratoria y la contracción de los vasos sanguíneos de la piel y del tubo digestivo
+- B. La disminución de la frecuencia cardíaca y la dilatación de los vasos sanguíneos
+- C. El aumento del movimiento intestinal y la disminución de la frecuencia respiratoria
+- D. La disminución de la presión sanguínea y la contracción de las pupilas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · respuesta de lucha o huida
+
+Los aspectos físicos ligados al miedo, como el aumento de las frecuencias cardíaca y respiratoria y la contracción de los vasos sanguíneos de la piel y del tubo digestivo, son el resultado de un aumento en la descarga de noradrenalina por parte de las neuronas del sistema simpático.
+
+### 90
+
+De acuerdo con el libro de Biología, ¿qué efecto tiene la vasoconstricción provocada por el sistema simpático?
+
+- A. Incrementa el retorno de la sangre al corazón, lo cual eleva la presión sanguínea y permite que más sangre sea enviada a los músculos, al corazón y al cerebro
+- B. Disminuye el retorno de la sangre al corazón y baja la presión sanguínea
+- C. Envía la mayor parte de la sangre al tubo digestivo y a la piel
+- D. Detiene por completo la circulación de sangre hacia el cerebro
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · respuesta de lucha o huida
+
+La vasoconstricción mencionada incrementa el retorno de la sangre al corazón, lo cual eleva la presión sanguínea y permite que más sangre sea enviada a los músculos, al corazón y al cerebro.
+
+### 91
+
+De acuerdo con el libro de Biología, además del aumento cardíaco y respiratorio, ¿qué otras reacciones ligadas al miedo menciona el libro?
+
+- A. La dilatación de las pupilas y la contracción de los músculos unidos a los folículos capilares de la piel
+- B. La contracción de las pupilas y la relajación de los músculos de la piel
+- C. El aumento del movimiento rítmico del intestino
+- D. La secreción de saliva y el aumento del apetito
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · respuesta de lucha o huida
+
+Otras reacciones ligadas al miedo son la dilatación de las pupilas y la contracción de los músculos unidos a los folículos capilares de la piel (es probable que esto sea un legado de nuestros antecesores con pelaje, que así erizados parecían de mayor tamaño y más feroces).
+
+### 92
+
+De acuerdo con el libro de Biología, ante la estimulación simpática, ¿qué ocurre con el movimiento del intestino y los esfínteres?
+
+- A. El movimiento rítmico del intestino se detiene y los esfínteres se relajan, y estas reacciones inhiben las operaciones digestivas
+- B. El movimiento del intestino se acelera y los esfínteres se contraen
+- C. La digestión se estimula y aumenta la absorción de nutrientes
+- D. Los esfínteres se contraen con fuerza para impedir toda evacuación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · respuesta de lucha o huida
+
+El movimiento rítmico del intestino se detiene y los esfínteres se relajan. Estas reacciones inhiben las operaciones digestivas.
+
+### 93
+
+De acuerdo con el libro de Biología, frente a la estimulación simpática, ¿qué secreta la médula suprarrenal?
+
+- A. Adrenalina
+- B. Acetilcolina
+- C. Insulina
+- D. Melatonina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 763
+**Subtema:** sistema nervioso · médula suprarrenal
+
+Además, frente a la estimulación simpática, la médula suprarrenal secreta adrenalina.
+
 ---
 
-**Reactivos en este archivo:** 72
+**Reactivos en este archivo:** 93
