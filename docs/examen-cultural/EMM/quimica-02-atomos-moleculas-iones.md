@@ -1,11 +1,16 @@
 # Química · Capítulo 2 · Átomos, moléculas e iones
 
-**Plantel:** Escuela Militar de Medicina · **Materia:** `QUI-02-2026`
-
 ## Libro
 
 Chang, Raymond y Overby, Jason, *Química*, **13ª edición**, McGraw-Hill
 Education, 2019. ISBN 978-1-259-91115-6.
+
+**Este archivo pertenece al libro, no a un plantel.** El reactivo cuelga de
+Libro → Capítulo → Tema; el plantel es solo quien lo pide hoy. Por eso la llave
+de cada reactivo son sus campos **Referencia:** (libro, edición y **página leída
+de la hoja**, nunca calculada) y **Subtema:**, que son los que el temario usará
+para mandarlo a llamar. Cuando toque migrar, la carpeta se nombra por el
+**libro** (`quimica-chang`), no por la escuela.
 
 > Este PDF es una **traducción automática (Google)** del original en inglés —es
 > la copia que estudia el aspirante, así que es la fuente correcta para el
@@ -19,9 +24,13 @@ Education, 2019. ISBN 978-1-259-91115-6.
 > **Aviso adicional:** algunas hojas quedaron **sin traducir (en inglés)** —por
 > ejemplo la p. 48—; solo se cita texto en español.
 
-## Alcance del temario
+## Quién lo pide hoy
 
-El temario pide del capítulo 2 **solo** estos subtemas: **2.1** Teoría atómica ·
+**Escuela Militar de Medicina** · Curso de Formación de Médico Cirujano Militar ·
+temario `QUI-02-2026`. Si mañana otro plantel o carrera pide estos mismos temas,
+estos mismos reactivos le sirven sin duplicarse.
+
+Ese temario pide del capítulo 2 **solo** estos subtemas: **2.1** Teoría atómica ·
 **2.2** Estructura del átomo · **2.5** Moléculas y iones · **2.6** Fórmulas
 químicas · **2.7** Nomenclatura de los compuestos · **2.8** Introducción a los
 compuestos orgánicos.
