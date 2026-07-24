@@ -70,13 +70,24 @@ se imprimen deformadas.
 **2.7 Nomenclatura de compuestos (págs. 58–66): en curso.** Cubierto el bloque
 de **compuestos iónicos (págs. 58–60)**: la nomenclatura química, orgánico vs.
 inorgánico, las cuatro categorías, los compuestos binarios y ternarios, la
-terminación "-uro", el sistema antiguo "-oso/-ico" y el sistema Stock. Faltan
-los compuestos moleculares (61–63), los ácidos y bases (64–65) y los hidratos
-(66). No se sacan reactivos de la columna de **cationes** del cuadro 2.3: la
-traducción pega los nombres unos con otros ("bario (Ba2+) cadmio (Cd2+) calcio
-(Ca2+)"); la columna de aniones sí está limpia.
+terminación "-uro", el sistema antiguo "-oso/-ico" y el sistema Stock. Cubierto
+también el bloque de **compuestos moleculares (págs. 61–63)**: cómo se nombran
+los binarios, los prefijos griegos y sus reglas, y las excepciones de los
+compuestos con hidrógeno. Faltan los ácidos y bases (64–65) y los hidratos (66).
 
-**Pendiente:** 2.7 (compuestos moleculares, ácidos y bases, e hidratos) y 2.8.
+**Dos tablas de este apartado no sirven para citar, por la traducción:**
+
+- **Cuadro 2.3**, columna de **cationes**: pega los nombres unos con otros
+  ("bario (Ba2+) cadmio (Cd2+) calcio (Ca2+)"). La columna de aniones sí está
+  limpia.
+- **Cuadro 2.4**, los **prefijos griegos**: están destrozados — "desde-" por
+  *di-*, "maleficio-" por *hexa-*, "octava-" por *octa-*, "no en-" por *nona-* y
+  "niños" por *deca-*; solo sobreviven tri-, tetra-, penta- y hepta-. En la lista
+  de ejemplos de esa página, además, **CO aparece traducido como "QUÉ"**. No se
+  escribe ningún reactivo sobre esa tabla; las reglas en texto corrido sí están
+  limpias y de ahí salen los reactivos 104–107.
+
+**Pendiente:** 2.7 (ácidos y bases, e hidratos) y 2.8.
 
 ---
 
@@ -1646,4 +1657,190 @@ De acuerdo con la práctica moderna, preferiremos el sistema de Stock para nombr
 
 ---
 
-**Reactivos en este archivo:** 100
+## Sub-lote 16 · Compuestos moleculares
+
+### 101
+
+De acuerdo con el libro de Química, ¿qué distingue a los compuestos moleculares de los iónicos, y por qué tipo de elementos suelen estar formados?
+
+- A. Contienen unidades moleculares individuales y suelen estar compuestos por elementos no metálicos
+- B. Contienen cationes y aniones y suelen estar compuestos por metales
+- C. Contienen únicamente átomos de un mismo elemento
+- D. Contienen siempre hidrógeno combinado con un metal
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 61
+**Subtema:** nomenclatura · compuestos moleculares
+
+A diferencia de los compuestos iónicos, los compuestos moleculares contienen unidades moleculares individuales. Suelen estar compuestos por elementos no metálicos.
+
+### 102
+
+De conformidad con el libro de Química, al nombrar un compuesto molecular binario, ¿qué elemento se nombra primero?
+
+- A. El primer elemento que aparece en la fórmula, y después el segundo
+- B. El segundo elemento de la fórmula, y después el primero
+- C. El elemento no metálico, sin importar su posición
+- D. El elemento de mayor masa atómica
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 61
+**Subtema:** nomenclatura · compuestos moleculares
+
+Nombrar compuestos moleculares binarios es similar a nombrar compuestos iónicos binarios. Primero colocamos el nombre del primer elemento en la fórmula, y el segundo elemento se nombra agregando "-ide" a la raíz del nombre del elemento.
+
+> Aquí el libro deja la terminación inglesa "-ide" sin traducir; en la página 58 la da bien en español ("-uro"). Por eso este reactivo pregunta por el orden y no por la terminación.
+
+### 103
+
+En relación con el libro de Química, ¿cómo se nombran los compuestos HCl, HBr y SiC?
+
+- A. Cloruro de hidrógeno, bromuro de hidrógeno y carburo de silicio
+- B. Ácido clorhídrico, ácido bromhídrico y silicato de carbono
+- C. Hidruro de cloro, hidruro de bromo y siliciuro de carbono
+- D. Monocloruro de hidrógeno, monobromuro de hidrógeno y monocarburo de silicio
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 61
+**Subtema:** nomenclatura · compuestos moleculares
+
+Algunos ejemplos son: cloruro de hidrógeno, HCl; bromuro de hidrógeno, HBr; carburo de silicio, SiC.
+
+### 104
+
+De acuerdo con el libro de Química, cuando un par de elementos forma varios compuestos diferentes, ¿cómo se evita la confusión al nombrarlos?
+
+- A. Mediante el uso de prefijos griegos
+- B. Mediante números romanos entre paréntesis
+- C. Mediante las terminaciones "-oso" e "-ico"
+- D. Mediante nombres comunes derivados de su aplicación
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 61
+**Subtema:** nomenclatura · prefijos griegos
+
+Es bastante común que un par de elementos formen varios compuestos diferentes. En estos casos, se evita la confusión al nombrar los compuestos mediante el uso de prefijos griegos.
+
+### 105
+
+De conformidad con el libro de Química, ¿qué ocurre con el prefijo "mono-" en el primer elemento, según el ejemplo del PCl3?
+
+- A. Puede omitirse: PCl3 se llama tricloruro de fósforo, no tricloruro de monofósforo
+- B. Debe escribirse siempre: PCl3 se llama tricloruro de monofósforo
+- C. Se sustituye por un número romano
+- D. Se coloca en el segundo elemento
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 62
+**Subtema:** nomenclatura · prefijos griegos
+
+El prefijo "mono-" puede omitirse para el primer elemento. Por ejemplo, PCl3 se llama tricloruro de fósforo, no tricloruro de monofósforo.
+
+### 106
+
+En relación con el libro de Química, ¿qué significa generalmente la ausencia de un prefijo para el primer elemento?
+
+- A. Que solo hay un átomo de ese elemento presente en la molécula
+- B. Que hay dos átomos de ese elemento en la molécula
+- C. Que el número de átomos es indeterminado
+- D. Que el elemento es un metal de transición
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 62
+**Subtema:** nomenclatura · prefijos griegos
+
+Por lo tanto, la ausencia de un prefijo para el primer elemento generalmente significa que solo hay un átomo de ese elemento presente en la molécula.
+
+### 107
+
+De acuerdo con el libro de Química, en el caso de los óxidos, ¿qué ocurre a veces con el prefijo, según el ejemplo del N2O4?
+
+- A. Se omite la terminación "a": puede llamarse tetróxido de dinitrógeno en lugar de tetraóxido de dinitrógeno
+- B. Se duplica el prefijo del segundo elemento
+- C. Se sustituye el prefijo por un número romano
+- D. Se omite por completo el prefijo del segundo elemento
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 62
+**Subtema:** nomenclatura · prefijos griegos
+
+Para los óxidos, a veces se omite la terminación "a" en el prefijo. Por ejemplo, N2O4 puede llamarse tetróxido de dinitrógeno en lugar de tetraóxido de dinitrógeno.
+
+### 108
+
+De conformidad con el libro de Química, ¿cuáles son las excepciones al uso de prefijos griegos?
+
+- A. Los compuestos moleculares que contienen hidrógeno, que tradicionalmente se denominan por sus nombres comunes no sistemáticos
+- B. Los compuestos iónicos binarios, que usan el sistema Stock
+- C. Los óxidos de los metales de transición
+- D. Los compuestos ternarios que contienen oxígeno
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 62
+**Subtema:** nomenclatura · compuestos moleculares
+
+Las excepciones al uso de prefijos griegos son los compuestos moleculares que contienen hidrógeno. Tradicionalmente, muchos de estos compuestos se denominan por sus nombres comunes no sistemáticos o por nombres que no indican específicamente el número de átomos de H presentes.
+
+### 109
+
+En relación con el libro de Química, ¿cómo se llaman los compuestos B2H6, SiH4 y PH3?
+
+- A. Diborano, silano y fosfina
+- B. Dihidruro de boro, tetrahidruro de silicio y trihidruro de fósforo
+- C. Borano, silicano y fosfano
+- D. Hexahidruro de diboro, silano y amoníaco
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 62
+**Subtema:** nomenclatura · compuestos moleculares
+
+B2H6, diborano; CH4, metano; SiH4, silano; NH3, amoníaco; PH3, fosfina; H2O, agua; H2S, sulfuro de hidrógeno.
+
+### 110
+
+De acuerdo con el libro de Química, ¿en qué compuestos se escribe primero el hidrógeno, pese a lo irregular del orden?
+
+- A. En el agua y en el sulfuro de hidrógeno
+- B. En el metano y en el amoníaco
+- C. En el diborano y en el silano
+- D. En la fosfina y en el metano
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 62
+**Subtema:** nomenclatura · compuestos moleculares
+
+Tenga en cuenta que incluso el orden de escritura de los elementos en las fórmulas de los compuestos de hidrógeno es irregular. En agua y sulfuro de hidrógeno, H se escribe primero, mientras que aparece en último lugar en los otros compuestos.
+
+### 111
+
+De conformidad con el libro de Química, ¿qué fórmula molecular corresponde al trifluoruro de arsénico?
+
+- A. AsF3
+- B. As3F
+- C. AsF
+- D. As2F3
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 62
+**Subtema:** nomenclatura · compuestos moleculares
+
+El nombre trifluoruro de arsénico significa que hay tres átomos de F y un átomo de As en cada molécula, y la fórmula molecular es AsF3. Tenga en cuenta que el orden de los elementos en la fórmula es el mismo que en su nombre.
+
+### 112
+
+En relación con el libro de Química, ¿cómo se clasifican los compuestos binarios que contienen carbono e hidrógeno, y qué implica eso?
+
+- A. Son compuestos orgánicos y no siguen las mismas convenciones de nomenclatura
+- B. Son compuestos iónicos y se nombran con el sistema Stock
+- C. Son hidratos y se nombran con prefijos griegos
+- D. Son compuestos ternarios y llevan la terminación "-uro"
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 62
+**Subtema:** nomenclatura · compuestos moleculares
+
+Los compuestos binarios que contienen carbono e hidrógeno son compuestos orgánicos; no siguen las mismas convenciones de nomenclatura. Discutiremos la denominación de los compuestos orgánicos en el Capítulo 24.
+
+---
+
+**Reactivos en este archivo:** 112
