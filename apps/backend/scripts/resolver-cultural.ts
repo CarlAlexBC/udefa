@@ -19,7 +19,8 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 const RAIZ = path.resolve(__dirname, '../../../docs/examen-cultural');
-const puente: Record<string, { slug: string; capitulos: number[] }> = JSON.parse(
+// Indexado por PLANTEL -> CODIGO -> { slug, capitulos }.
+const puente: Record<string, Record<string, { slug: string; capitulos: number[] }>> = JSON.parse(
   fs.readFileSync(path.join(RAIZ, 'puente-oferta-demanda.json'), 'utf8'),
 ).puente;
 const temarios = JSON.parse(fs.readFileSync(path.join(RAIZ, 'temarios.json'), 'utf8'));
@@ -34,21 +35,23 @@ async function main() {
     //    referido tiene que existir de verdad.
     console.log('=== Validación del puente vs árbol de oferta ===');
     let gaps = 0;
-    for (const [cod, e] of Object.entries(puente)) {
-      const libro = await prisma.libro.findUnique({
-        where: { slug: e.slug },
-        include: { capitulos: true },
-      });
-      if (!libro) {
-        console.log(`  ✗ ${cod}: el slug '${e.slug}' no existe en la oferta`);
-        gaps++;
-        continue;
-      }
-      const existentes = new Set(libro.capitulos.map((c) => c.numero));
-      const faltan = e.capitulos.filter((n) => !existentes.has(n));
-      if (faltan.length) {
-        console.log(`  ✗ ${cod} (${e.slug}): faltan capítulos ${faltan.join(', ')} en la oferta`);
-        gaps++;
+    for (const [pl, cods] of Object.entries(puente)) {
+      for (const [cod, e] of Object.entries(cods)) {
+        const libro = await prisma.libro.findUnique({
+          where: { slug: e.slug },
+          include: { capitulos: true },
+        });
+        if (!libro) {
+          console.log(`  ✗ ${pl}/${cod}: el slug '${e.slug}' no existe en la oferta`);
+          gaps++;
+          continue;
+        }
+        const existentes = new Set(libro.capitulos.map((c) => c.numero));
+        const faltan = e.capitulos.filter((n) => !existentes.has(n));
+        if (faltan.length) {
+          console.log(`  ✗ ${pl}/${cod} (${e.slug}): faltan capítulos ${faltan.join(', ')} en la oferta`);
+          gaps++;
+        }
       }
     }
     if (!gaps) console.log('  ✓ todos los slugs y capítulos del puente existen en la oferta');
@@ -58,14 +61,15 @@ async function main() {
     const carreras = temarios.carreras.filter((c: any) => c.plantel === PLANTEL);
     console.log(`=== ${PLANTEL}: ${carreras.length} carrera(s) ===\n`);
 
+    const codsPlantel = puente[PLANTEL] ?? {};
     for (const c of carreras) {
       console.log(`### ${c.carrera}`);
       let total = 0;
       for (const m of c.materias || []) {
         const cod = m.codigo_normalizado || m.codigo;
-        const e = puente[cod];
+        const e = codsPlantel[cod];
         if (!e) {
-          console.log(`  - ${cod} (${m.nombre}): SIN PUENTE (libro aún no importado)`);
+          console.log(`  - ${cod} (${m.nombre}): SIN PUENTE (libro/selección aún no definidos para ${PLANTEL})`);
           continue;
         }
         const n = await prisma.reactivo.count({

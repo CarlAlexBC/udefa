@@ -186,7 +186,9 @@ export class ExamenesService {
    * Es la opción rápida y reversible; el destino es tablas Carrera/Temario.
    */
   async armarExamenCultural(plantel: string, carreraIdx = 0) {
-    const puente: Record<string, { slug: string; capitulos: number[] }> = JSON.parse(
+    // Indexado por PLANTEL -> CODIGO: un mismo codigo pide capitulos distintos en
+    // cada escuela, asi que la seleccion se toma del plantel, no solo del codigo.
+    const puente: Record<string, Record<string, { slug: string; capitulos: number[] }>> = JSON.parse(
       fs.readFileSync(this.rutaCultural('puente-oferta-demanda.json'), 'utf8'),
     ).puente;
     const temarios = JSON.parse(fs.readFileSync(this.rutaCultural('temarios.json'), 'utf8'));
@@ -204,8 +206,8 @@ export class ExamenesService {
     const bloques: { nombre: string; codigo: string; reactivos: unknown[] }[] = [];
     for (const m of carrera.materias ?? []) {
       const codigo = m.codigo_normalizado || m.codigo;
-      const puenteMateria = puente[codigo];
-      if (!puenteMateria) continue; // materia cuyo libro aún no está en la oferta
+      const puenteMateria = puente[plantel]?.[codigo];
+      if (!puenteMateria) continue; // materia sin selección definida para este plantel
       const disponibles = await this.prisma.reactivo.findMany({
         where: {
           banco: 'cultural',

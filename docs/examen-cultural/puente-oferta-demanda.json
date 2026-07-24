@@ -1,17 +1,34 @@
 {
-  "_nota": "Puente CURADO: codigo de materia -> libro (slug) + capitulos que pide ese temario. Es la pieza que une la DEMANDA (temarios.json, un codigo por carrera/materia) con la OFERTA (arbol Libro/Capitulo/Tema por slug). Se cura a mano a partir de los temas[] de temarios.json (que vienen sucios del PDF) y se valida contra el arbol de oferta con scripts/resolver-cultural.ts. NO auto-parsear los temas[]. Solo estan los codigos cuyo libro ya existe en la oferta; los demas se agregan cuando se escriba su libro.",
+  "_nota": "Puente CURADO, indexado por PLANTEL -> CODIGO de materia -> { slug, capitulos }. Une la DEMANDA (temarios.json, cada carrera/materia) con la OFERTA (arbol Libro/Capitulo/Tema por slug). OJO: un mismo codigo (p.ej. BIO-01-2026) pide capitulos DISTINTOS en cada escuela (verificado en temarios.json), por eso se indexa por plantel y NO solo por codigo. Se cura a mano leyendo los temas[] (que vienen sucios del PDF); NO auto-parsear. Se valida contra la oferta con scripts/resolver-cultural.ts. La seleccion es a nivel CAPITULO; algunos temarios piden solo ciertos temas dentro de un capitulo (Quimica por subtema, Fisica EMOS por tema) -> refinamiento a nivel tema pendiente. Solo estan los planteles/codigos cuyo libro ya existe en la oferta.",
   "puente": {
-    "ESP-01-2026": { "slug": "espanol-zarzar", "capitulos": [1, 3] },
-    "ALG-02-2026": { "slug": "algebra-baldor", "capitulos": [1, 2, 3, 4, 5, 6] },
-    "HIST-03-2026": { "slug": "historia-rodriguez", "capitulos": [6] },
-    "GEO-04-2026": { "slug": "geografia-tamayo", "capitulos": [1, 3, 4, 5] },
-
-    "ALGE-04-2026": { "slug": "algebra-baldor", "capitulos": [1, 2, 3, 4, 5, 8, 10, 18, 20, 24] },
-    "BIO-01-2026": { "slug": "biologia-curtis", "capitulos": [3, 4, 5, 7, 8, 11, 12, 31, 32, 35, 36, 37] },
-    "FG-03-2026": { "slug": "fisica-perez-montiel", "capitulos": [3, 4, 5, 6, 8, 11] },
-    "QUI-02-2026": { "slug": "quimica-chang", "capitulos": [2, 3, 4, 9, 24] },
-
-    "ALGE-03-2026": { "slug": "algebra-baldor", "capitulos": [1, 2, 3, 4, 5, 8] },
-    "FIS-03-2026": { "slug": "fisica-perez-montiel", "capitulos": [1, 2, 4, 5, 6, 8, 11] }
+    "HCM": {
+      "ESP-01-2026": { "slug": "espanol-zarzar", "capitulos": [1, 3] },
+      "ALG-02-2026": { "slug": "algebra-baldor", "capitulos": [1, 2, 3, 4, 5, 6] },
+      "HIST-03-2026": { "slug": "historia-rodriguez", "capitulos": [6] },
+      "GEO-04-2026": { "slug": "geografia-tamayo", "capitulos": [1, 3, 4, 5] }
+    },
+    "EMM": {
+      "BIO-01-2026": { "slug": "biologia-curtis", "capitulos": [3, 4, 5, 7, 8, 11, 12, 31, 32, 35, 36, 37] },
+      "QUI-02-2026": { "slug": "quimica-chang", "capitulos": [2, 3, 4, 9, 24] },
+      "FG-03-2026": { "slug": "fisica-perez-montiel", "capitulos": [3, 4, 5, 6, 8, 11] },
+      "ALGE-04-2026": { "slug": "algebra-baldor", "capitulos": [1, 2, 3, 4, 5, 8, 10, 18, 20, 24] }
+    },
+    "EME": {
+      "BIO-01-2026": { "slug": "biologia-curtis", "capitulos": [3, 4, 5, 7, 35, 37] },
+      "QUI-02-2026": { "slug": "quimica-chang", "capitulos": [2, 3, 4] },
+      "ALGE-03-2026": { "slug": "algebra-baldor", "capitulos": [1, 2, 3, 4, 5, 8] }
+    },
+    "EMO": {
+      "BIO-01-2026": { "slug": "biologia-curtis", "capitulos": [3, 4, 5, 7, 8, 11, 31, 32, 33, 35, 36, 37] },
+      "QUI-02-2026": { "slug": "quimica-chang", "capitulos": [2, 3, 4, 9] },
+      "FIS-03-2026": { "slug": "fisica-perez-montiel", "capitulos": [1, 2, 4, 5, 6, 8, 11] },
+      "ALGE-04-2026": { "slug": "algebra-baldor", "capitulos": [1, 2, 3, 4, 5, 8, 10, 18, 20, 24] }
+    },
+    "EMOS": {
+      "BIO-01-2026": { "slug": "biologia-curtis", "capitulos": [3, 4, 5, 8, 14, 15, 31, 32, 35, 36, 37] },
+      "QUI-02-2026": { "slug": "quimica-chang", "capitulos": [2, 3, 5] },
+      "FG-03-2026": { "slug": "fisica-perez-montiel", "capitulos": [4, 5, 8] },
+      "ALGE-04-2026": { "slug": "algebra-baldor", "capitulos": [1, 2, 3, 4, 5, 8, 10, 18, 20, 24, 25] }
+    }
   }
 }
