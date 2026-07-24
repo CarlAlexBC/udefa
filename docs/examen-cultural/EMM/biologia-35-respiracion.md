@@ -65,9 +65,18 @@ y el reflejo de buceo, con la derivación del O2 al corazón y al cerebro); más
 de "Evolución y diversidad de los sistemas respiratorios" (la respiración celular como
 oxidación de compuestos orgánicos, el límite de la difusión eficiente por debajo del
 milímetro, por qué basta en unicelulares y medusas pero no en organismos grandes, y la
-aparición de diversos sistemas respiratorios como resultado de ese límite).
+aparición de diversos sistemas respiratorios como resultado de ese límite). De la **página
+830** se cubren las características de los órganos respiratorios (qué es un sistema
+respiratorio "eficiente"; la lombriz de tierra con una sola capa de células como superficie
+de intercambio; los gradientes de O2 y CO2; el reparto por el sistema circulatorio y el
+transporte del CO2 por la sangre o la hemolinfa; el repliegue de la superficie en animales
+grandes, con los 2 m2 de superficie corporal frente a los 100 m2 del pulmón; las branquias
+evaginadas frente a los pulmones invaginados) y la fig. 35-3 con las cinco estrategias
+(piel de los anélidos, branquias externas de poliquetos y anfibios, branquias internas de
+los peces, tráqueas y espiráculos de los artrópodos, y pulmones de vertebrados y caracoles
+terrestres).
 
-**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 830 (hoja 876) en adelante (los distintos sistemas respiratorios de los animales y el resto del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 831 (hoja 877) en adelante (el resto de los procesos por los que el O2 alcanza los tejidos y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -589,6 +598,237 @@ De acuerdo con el libro de Biología, ¿qué representó la baja eficiencia del 
 
 De esta manera, la baja eficiencia del proceso de difusión gaseosa representó un límite para los animales multicelulares, cuya supervivencia es el resultado de la aparición de diversos sistemas respiratorios.
 
+## Sub-lote 5 · Las características de los órganos respiratorios (p. 830)
+
+### 34
+
+De acuerdo con el libro de Biología, ¿qué es un sistema respiratorio "eficiente"?
+
+- A. Aquel que le permite a cada célula proveer la cantidad adecuada de O2 en un tiempo suficiente para abastecer sus necesidades metabólicas, a la vez que permite la eliminación adecuada del CO2 producido por las células
+- B. Aquel que provee la mayor cantidad posible de O2, sin importar el tiempo ni la eliminación del CO2
+- C. Aquel que elimina el CO2 pero no permite el ingreso de O2
+- D. Aquel que funciona únicamente por difusión simple, sin sistema circulatorio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · órganos respiratorios
+
+Un sistema respiratorio "eficiente" es aquel que le permite a cada célula proveer la cantidad adecuada de O2 en un tiempo suficiente para abastecer sus necesidades metabólicas, a la vez que permite la eliminación adecuada del CO2 producido por las células.
+
+### 35
+
+De acuerdo con el libro de Biología, en ciertos invertebrados de pequeño tamaño, como la lombriz de tierra, ¿qué separa el interior del cuerpo del exterior?
+
+- A. Una sola capa de células, que constituye la superficie de intercambio gaseoso
+- B. Un sistema de branquias internas altamente vascularizadas
+- C. Un par de pulmones invaginados
+- D. Una red de tubos traqueales con espiráculos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · superficie de intercambio
+
+En ciertos invertebrados de pequeño tamaño, como la lombriz de tierra, el interior del cuerpo está separado del exterior por una sola capa de células, que constituye la superficie de intercambio gaseoso.
+
+### 36
+
+De acuerdo con el libro de Biología, en esa superficie húmeda, ¿cómo están distribuidos el oxígeno y el dióxido de carbono respecto del interior celular?
+
+- A. El oxígeno está menos concentrado en el interior celular, porque es consumido de modo permanente por las células; y la concentración de CO2 es mayor en el interior, porque es producido por las células
+- B. El oxígeno está más concentrado en el interior celular y el CO2 menos concentrado
+- C. Ambos gases están igualmente concentrados dentro y fuera de la célula
+- D. Ninguno de los dos gases presenta gradiente de concentración
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · gradientes de gases
+
+Los gases difunden libremente a favor de su gradiente de concentración: el oxígeno, que de modo permanente es consumido por las células, está menos concentrado en el interior celular; mientras que la concentración de CO2 es mayor en el interior, ya que es producido por las células.
+
+### 37
+
+De acuerdo con el libro de Biología, ¿cómo se distribuye el O2 que ingresa y cómo se transporta el CO2 hacia la superficie corporal?
+
+- A. El O2 es distribuido al resto de las células mediante el sistema circulatorio, y el CO2 es transportado por la sangre (o hemolinfa, en los invertebrados) desde los tejidos metabólicamente activos hacia la superficie corporal, donde se elimina
+- B. Ambos gases se distribuyen únicamente por difusión, sin intervención del sistema circulatorio
+- C. El O2 es transportado por la hemolinfa y el CO2 permanece almacenado en los tejidos
+- D. El CO2 es distribuido a las células y el O2 se elimina por la superficie corporal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · transporte de gases
+
+A medida que el O2 ingresa, es distribuido al resto de las células del organismo mediante el sistema circulatorio. A su vez, el CO2 es transportado por la sangre (o hemolinfa, en los invertebrados) desde los tejidos metabólicamente activos hacia la superficie corporal, donde se elimina.
+
+### 38
+
+De acuerdo con el libro de Biología, ¿por qué los animales de gran tamaño tienen órganos respiratorios de superficie altamente replegada?
+
+- A. Porque su superficie de intercambio gaseoso sería demasiado pequeña para abastecer las demandas de su masa corporal, y el repliegue aumenta de manera significativa la superficie para el intercambio gaseoso
+- B. Porque el repliegue reduce la superficie de intercambio y ahorra energía
+- C. Porque el repliegue impide la entrada de gases contaminantes
+- D. Porque necesitan almacenar aire dentro de los pliegues
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · superficie replegada
+
+La superficie de intercambio gaseoso en grupos de animales de gran tamaño sería demasiado pequeña para abastecer las demandas de su masa corporal. Estos animales tienen órganos respiratorios, cuya superficie se encuentra altamente replegada, lo cual aumenta, de manera significativa, la superficie para el intercambio gaseoso.
+
+### 39
+
+De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, ¿cuánto mide la superficie corporal de un humano adulto y cuánto la superficie interna de su pulmón?
+
+- A. La superficie corporal es de alrededor de 2 m2 y la superficie interna del pulmón ocupa unos 100 m2
+- B. La superficie corporal es de alrededor de 100 m2 y la del pulmón unos 2 m2
+- C. Ambas miden alrededor de 2 m2
+- D. La superficie corporal es de alrededor de 20 m2 y la del pulmón unos 10 m2
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · superficie pulmonar
+
+Por ejemplo, la superficie corporal de un humano adulto es de alrededor de 2 m2, mientras que la superficie interna del pulmón ocupa unos 100 m2.
+
+### 40
+
+De acuerdo con el libro de Biología, ¿en qué otro sistema se observa la misma característica de superficie altamente replegada, y para qué?
+
+- A. En el intestino, cuya superficie altamente replegada optimiza la absorción de los nutrientes digeridos
+- B. En el corazón, cuya superficie replegada optimiza el bombeo de sangre
+- C. En el encéfalo, cuya superficie replegada optimiza la conducción nerviosa
+- D. En la piel, cuya superficie replegada optimiza la pérdida de calor
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · superficie replegada
+
+La misma característica se observa en el curso de la evolución de otros sistemas, como en el caso de la superficie altamente replegada del intestino, que optimiza la absorción de los nutrientes digeridos.
+
+### 41
+
+De acuerdo con el libro de Biología, ¿cuáles son los dos órganos respiratorios más comunes entre los animales y en qué se diferencian sus superficies?
+
+- A. Las branquias y los pulmones: las branquias son habitualmente superficies evaginadas, mientras que los pulmones son cavidades o superficies invaginadas
+- B. Las branquias y los pulmones: las branquias son superficies invaginadas y los pulmones, evaginadas
+- C. Las tráqueas y los espiráculos: ambas son superficies evaginadas
+- D. La piel y el intestino: ambas son cavidades invaginadas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · branquias y pulmones
+
+Las superficies replegadas del sistema respiratorio son características de los dos órganos respiratorios más comunes que encontramos entre los animales: branquias y pulmones. Las branquias son habitualmente superficies evaginadas, mientras que los pulmones son cavidades o superficies invaginadas.
+
+> Fácil de invertir: las **branquias** salen hacia afuera (superficies **evaginadas**); los **pulmones** son cavidades hacia adentro (superficies **invaginadas**).
+
+### 42
+
+De acuerdo con el libro de Biología, ¿cómo pueden disponerse las capas de tejido branquial y con qué compara el libro la branquia de una ostra?
+
+- A. Pueden estar extendidas en un plano, apiladas o formar distintos tipos de circunvoluciones; la branquia de una ostra tiene una forma similar a un radiador accionado por vapor de agua
+- B. Solo pueden estar extendidas en un plano; la branquia de una ostra tiene forma de tubo recto
+- C. Siempre forman una esfera hueca; la branquia de una ostra tiene forma de saco
+- D. Solo pueden estar apiladas; la branquia de una ostra tiene forma de espiral
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · branquias
+
+Las capas de tejido branquial pueden estar extendidas en un plano, apiladas o formar distintos tipos de circunvoluciones. La branquia de una ostra, por ejemplo, tiene una forma similar a un radiador accionado por vapor de agua.
+
+### 43
+
+De acuerdo con el libro de Biología, ¿cómo ingresa el O2 en el organismo desde el aire o el agua?
+
+- A. Por difusión simple, al atravesar un epitelio delgado y húmedo
+- B. Por transporte activo, con gasto de energía
+- C. Por exocitosis a través de vesículas del epitelio
+- D. Por acción de la bomba de Na+/K+-ATPasa del epitelio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · difusión simple
+
+El O2 ingresa en el organismo desde el aire o el agua (medio externo) por difusión simple, al atravesar un epitelio delgado y húmedo.
+
+## Sub-lote 6 · La diversidad de estrategias para obtener oxígeno (fig. 35-3, p. 830)
+
+### 44
+
+De acuerdo con el libro de Biología, según la figura 35-3a, en organismos pequeños como los gusanos cilíndricos y la lombriz de tierra, ¿cómo se produce el intercambio gaseoso?
+
+- A. A través de la superficie corporal formada por una sola capa de células; en los capilares superficiales el O2 difunde hacia la sangre, mientras que el CO2 lo hace en sentido contrario
+- B. A través de branquias internas altamente vascularizadas
+- C. A través de tubos traqueales que penetran en cada tejido
+- D. A través de pulmones invaginados y altamente vascularizados
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · anélidos
+
+En organismos pequeños, como los gusanos cilíndricos, el intercambio gaseoso se produce a través de la superficie corporal formada por una sola capa de células. En la medida en que la sangre circula a lo largo de los capilares superficiales, el O2 difunde hacia la sangre, mientras que el CO2 lo hace en sentido contrario.
+
+### 45
+
+De acuerdo con el libro de Biología, según la figura 35-3b, en los gusanos poliquetos y algunos anfibios como las salamandras, ¿cómo ocurre el intercambio gaseoso?
+
+- A. A través de la superficie corporal y, además, por medio de branquias externas que incrementan la superficie de intercambio gaseoso
+- B. Únicamente por medio de branquias internas
+- C. Únicamente por medio de pulmones
+- D. Por medio de tráqueas que comunican al exterior por espiráculos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · branquias externas
+
+En gusanos poliquetos y algunos anfibios, como las salamandras, el intercambio gaseoso ocurre a través de la superficie corporal y, además, por medio de branquias externas que incrementan la superficie de intercambio gaseoso.
+
+### 46
+
+De acuerdo con el libro de Biología, según la figura 35-3c, en los animales con branquias internas, como los peces, ¿qué hace el mecanismo de ventilación?
+
+- A. Impulsa la circulación del agua sobre las superficies branquiales altamente vascularizadas, a través de las cuales se produce la hematosis
+- B. Impulsa la circulación del aire hacia los pulmones y desde ellos
+- C. Impulsa el aire a través de los tubos traqueales hasta cada tejido
+- D. Impulsa la sangre hacia la superficie corporal para que difundan los gases
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · branquias internas
+
+En los animales con branquias internas, como los peces, el mecanismo de ventilación impulsa la circulación del agua sobre las superficies branquiales altamente vascularizadas, a través de las cuales se produce la hematosis.
+
+### 47
+
+De acuerdo con el libro de Biología, según la figura 35-3d, en los insectos y otros artrópodos terrestres, ¿dónde ocurre el intercambio gaseoso y cómo comunican los tubos con el exterior?
+
+- A. Ocurre en los extremos terminales de los finos tubos traqueales, que se ramifican por el cuerpo y penetran en cada tejido; el otro extremo comunica al exterior por orificios llamados espiráculos
+- B. Ocurre en branquias externas y el aire entra por la boca
+- C. Ocurre en pulmones invaginados que comunican con el exterior por la tráquea
+- D. Ocurre a través de toda la superficie corporal, sin tubos ni orificios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · tráqueas y espiráculos
+
+En insectos y otros artrópodos terrestres, el intercambio gaseoso ocurre en los extremos terminales de los finos tubos traqueales, que se ramifican a través del cuerpo y penetran en cada tejido. El intercambio con el medio ocurre en el otro extremo de los tubos, que comunican al exterior por medio de orificios llamados espiráculos.
+
+### 48
+
+De acuerdo con el libro de Biología, según la figura 35-3e, ¿en qué animales están presentes los pulmones y qué son?
+
+- A. En todos los vertebrados que respiran aire y en algunos invertebrados, como los caracoles terrestres; son sacos altamente vascularizados en donde se produce la hematosis
+- B. Únicamente en los mamíferos; son tubos ramificados que penetran en cada tejido
+- C. Solo en los peces; son superficies evaginadas altamente vascularizadas
+- D. En todos los invertebrados acuáticos; son cavidades sin vascularización
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 830
+**Subtema:** respiración · pulmones
+
+Los pulmones, presentes en todos los vertebrados que respiran aire y en algunos invertebrados, como los caracoles terrestres, son sacos altamente vascularizados en donde se produce la hematosis. La ventilación provoca el flujo de aire desde los pulmones y hacia ellos.
+
 ---
 
-**Reactivos en este archivo:** 33
+**Reactivos en este archivo:** 48
