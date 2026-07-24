@@ -1,17 +1,30 @@
 # Biología · Capítulo 32 · El sistema nervioso: estructura y función
 
-**Plantel:** Escuela Militar de Medicina · **Materia:** `BIO-01-2026`
-**Aplica a:** Curso de Formación de Médico Cirujano Militar.
-
-## Libro
+## Libro — a quién pertenece este material
 
 Curtis, Barnes, Schnek, Massarini. *Biología*. **Editorial Médica Panamericana**,
 **octava edición**. Edición, año y desfase verificados en
 `biologia-03-origen-vida.md` (8ª ed.; se cita 2022; desfase **+46**).
 
-**Este archivo continúa el temario `BIO-01-2026`.** Cerrados los capítulos 3
-(221 reactivos), 4 (190), 5 (157), 7 (240), 8 (149), 11 (162), 12 (131) y 31 (84).
-En el temario, tras el 32 vienen el 35, el 36 y el 37.
+**Los reactivos pertenecen al libro, no a un plantel.** El orden es
+`Libro → Capítulo → Tema → Reactivo`. Un plantel no es dueño del material: por el otro
+lado va la demanda (`Plantel → Carrera → Temario por año → selecciona Temas`), y un examen
+se arma cruzando ambos. Por eso el mismo reactivo puede servir a varias escuelas y
+carreras sin existir dos veces, y por eso los campos **Referencia:** (libro, edición,
+página) y **Subtema:** son la llave con la que el temario los manda a llamar.
+
+**Quién lo pide hoy:** Escuela Militar de Medicina, Curso de Formación de Médico Cirujano
+Militar (clave de materia `BIO-01-2026`). Si mañana otra escuela pide estos temas, se
+traen de aquí: no se duplican.
+
+> **Carpeta pendiente de migrar.** Este archivo sigue en `docs/examen-cultural/EMM/` por
+> ahora. Cuando se migre, la carpeta se nombra por el **libro** (como ya se hizo con
+> `fisica-perez-montiel/`), no por la escuela. Los capítulos de Biología se mueven todos
+> juntos, en un solo paso, para no chocar en git.
+
+**Capítulos de este libro ya cerrados:** 3 (221 reactivos), 4 (190), 5 (157), 7 (240),
+8 (149), 11 (162), 12 (131), 31 (84) y 32 (271). El temario vigente que los pide salta
+del 32 al 35: siguen el 35, el 36 y el 37 (el 33 y el 34 no entran).
 
 ## CAPÍTULO 32 CERRADO
 

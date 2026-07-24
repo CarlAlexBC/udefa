@@ -54,7 +54,13 @@ rayos alfa/beta/gamma), el protón y el núcleo (modelo de Thomson, experimento 
 Rutherford) y el neutrón (Chadwick). No se citan las cifras rotas de carga/masa
 ni la Tabla 2.1, que está en inglés (p. 48).
 
-**Pendiente:** 2.5, 2.6, 2.7 y 2.8.
+**2.5 Moléculas e iones (págs. 52–53): cerrado.** Los gases monoatómicos, la
+molécula, las moléculas diatómicas y poliatómicas, el ion, el catión, el anión,
+el compuesto iónico y los iones monoatómicos y poliatómicos. En este tramo las
+cargas negativas se imprimen rotas (`Clÿ`, `OHÿ`) y los subíndices se aplanan
+("H2O"); se cita restituyendo el signo menos, según la política del encabezado.
+
+**Pendiente:** 2.6, 2.7 y 2.8.
 
 ---
 
