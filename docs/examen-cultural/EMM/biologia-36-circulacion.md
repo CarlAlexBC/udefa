@@ -66,9 +66,20 @@ artrópodos; cerrado en anélidos; y la ventaja de los sistemas cerrados). De la
 abierto en moluscos y artrópodos; c: la lombriz de tierra con varios pares de corazones y
 válvulas; d: los peces con aurícula y ventrículo y circuito simple; e: anfibios y reptiles
 con dos aurículas y ventrículo sin división —salvo cocodrilos y lagartos, con cuatro
-cavidades—; f: aves y mamíferos con aurícula y ventrículo divididos en dos).
+cavidades—; f: aves y mamíferos con aurícula y ventrículo divididos en dos). De la
+**página 844** se cubre la composición de la sangre de los vertebrados (el volumen de 6 L
+repartido en plasma y células, el hematocrito y su valor clínico, el hemograma, la fig.
+36-3 con el 45 %/55 % al centrifugar; el plasma con su 90 % de agua y las proteínas
+plasmáticas —albúmina, fibrinógeno, globulinas— y el bicarbonato de sodio para el pH; la
+hematopoyesis y las células madre pluripotenciales; y los glóbulos rojos de la fig. 36-4
+—transporte de O2 y viscosidad, la expulsión del núcleo, los 5 millones/mm³, los 120-130
+días, los 2 millones/segundo, y el diámetro de 7-8 µm con su forma de "rosquilla"). De la
+**página 845** se cubren los glóbulos blancos (defensa, migración con seudópodos y
+fagocitosis, el pus, los 6000-9000/mm³ y la leucemia), las plaquetas (los megacariocitos,
+su función en la coagulación y su estructura sin núcleo) y el arranque de la coagulación
+sanguínea (la hemorragia y la necrosis), más la fig. 36-5 del linfocito.
 
-**Pendiente:** el capítulo 36 está EN CURSO; sigue desde la página impresa 844 (hoja 890) en adelante (la composición de la sangre de los vertebrados, la bomba cardíaca y el sistema de vasos sanguíneos, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, sigue sin empezar el capítulo 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 36 está EN CURSO; sigue desde la página impresa 846 (hoja 892) en adelante (el mecanismo de la coagulación sanguínea, la bomba cardíaca y el sistema de vasos sanguíneos, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, sigue sin empezar el capítulo 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -412,4 +423,541 @@ Aves y mamíferos. Tanto la aurícula (A) como el ventrículo (V) están dividid
 
 ---
 
-**Reactivos en este archivo:** 19
+## Sub-lote 3 · La composición de la sangre y el hematocrito (fig. 36-3, p. 844)
+
+### 20
+
+De acuerdo con el libro de Biología, ¿cómo se reparte el volumen de sangre humana, de alrededor de 6 L?
+
+- A. En 3,3 L de plasma (un líquido amarillento) y 2,7 L de células: glóbulos rojos, glóbulos blancos y plaquetas
+- B. En 2,7 L de plasma y 3,3 L de células sanguíneas
+- C. En 6 L completos de plasma, sin células
+- D. En 3 L de agua y 3 L de hemoglobina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · composición de la sangre
+
+Volumen de alrededor de 6 L, de los cuales 3,3 están constituidos por un líquido amarillento: el plasma. Los 2,7 L restantes son células: glóbulos rojos (también llamados eritrocitos o hematíes), glóbulos blancos (leucocitos) y plaquetas.
+
+---
+
+### 21
+
+De acuerdo con el libro de Biología, ¿cómo se llama el volumen ocupado por las células sanguíneas, expresado como un porcentaje del volumen total de sangre?
+
+- A. Hematocrito
+- B. Hemograma
+- C. Hematopoyesis
+- D. Perfusión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · hematocrito
+
+El volumen ocupado por las células sanguíneas se llama hematocrito y se expresa como un porcentaje del volumen total de sangre.
+
+---
+
+### 22
+
+De acuerdo con el libro de Biología, en condiciones normales, ¿qué porcentaje de las células sanguíneas son glóbulos rojos?
+
+- A. El 99%
+- B. El 55%
+- C. El 45%
+- D. El 1%
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · hematocrito
+
+En condiciones normales, el 99% de las células sanguíneas son glóbulos rojos.
+
+---
+
+### 23
+
+De acuerdo con el libro de Biología, ¿cómo se expresan, entre otros parámetros, las anemias producidas por una dieta deficiente en hierro o vitamina B12?
+
+- A. Como una disminución del hematocrito
+- B. Como un aumento del hematocrito
+- C. Como un aumento del número de glóbulos blancos
+- D. Como una disminución del número de plaquetas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · hematocrito
+
+Las anemias producidas por una dieta deficiente en hierro o vitamina B12 se expresan, entre otros parámetros, como una disminución del hematocrito.
+
+---
+
+### 24
+
+De acuerdo con el libro de Biología, ¿cómo se llama el análisis completo de sangre que mide el número de glóbulos blancos, glóbulos rojos y plaquetas, además del valor de la hemoglobina?
+
+- A. Hemograma
+- B. Hematocrito
+- C. Hematopoyesis
+- D. Hemocele
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · hemograma
+
+El hematocrito está incluido en el análisis completo de sangre o hemograma, que mide también el número de glóbulos blancos, glóbulos rojos y plaquetas, además del valor de la hemoglobina, que forma parte de los eritrocitos.
+
+---
+
+### 25
+
+De acuerdo con el libro de Biología, al centrifugar sangre anticoagulada, ¿cómo se reparten las dos fases que se observan?
+
+- A. Una fase compacta y rojiza (células sanguíneas) en el fondo, con alrededor del 45% del volumen, y el plasma amarillento por encima, con el 55% restante
+- B. El plasma en el fondo con el 45% y las células por encima con el 55%
+- C. Las dos fases ocupan exactamente el 50% del volumen cada una
+- D. Una única fase homogénea de color rojo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · componentes de la sangre
+
+Al cabo de algunos minutos se observan dos fases bien definidas: una de ellas –compacta y rojiza– se deposita en el fondo y ocupa alrededor del 45% del volumen total. [...] Por encima se encuentra una fase líquida de color amarillento, el plasma, que ocupa alrededor del 55% restante.
+
+---
+
+## Sub-lote 4 · El plasma y las proteínas plasmáticas (p. 844)
+
+### 26
+
+De acuerdo con el libro de Biología, ¿de qué está formado el plasma en un 90% y cómo funciona químicamente?
+
+- A. En un 90% por agua, por lo que funciona como un solvente polar
+- B. En un 90% por proteínas, por lo que funciona como un solvente no polar
+- C. En un 90% por sales, por lo que funciona como un ácido débil
+- D. En un 90% por hemoglobina, por lo que transporta el O2
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · plasma
+
+Este componente de la sangre está formado en un 90% por agua y, por lo tanto, funciona químicamente como un solvente polar.
+
+---
+
+### 27
+
+De acuerdo con el libro de Biología, ¿qué función cumple la albúmina del plasma?
+
+- A. Transporta sustancias insolubles como colesterol, lípidos y ciertas hormonas, y genera una presión osmótica que contribuye a mantener el equilibrio hídrico de la sangre
+- B. Participa en la coagulación de la sangre
+- C. Participa en la defensa contra agentes externos
+- D. Transporta el O2 hasta los tejidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · proteínas plasmáticas
+
+Albúmina, que transporta ciertas sustancias insolubles en el plasma, como colesterol, lípidos y ciertas hormonas. Su presencia, además, genera una presión osmótica que contribuye a mantener el equilibrio hídrico de la sangre.
+
+---
+
+### 28
+
+De acuerdo con el libro de Biología, ¿en qué proceso participa el fibrinógeno del plasma?
+
+- A. En la coagulación
+- B. En el transporte de O2
+- C. En la defensa contra agentes externos
+- D. En el mantenimiento del equilibrio hídrico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · proteínas plasmáticas
+
+Fibrinógeno, que participa en la coagulación.
+
+---
+
+### 29
+
+De acuerdo con el libro de Biología, ¿en qué participan las globulinas, como las inmunoglobulinas, del plasma?
+
+- A. En la defensa contra agentes externos
+- B. En la coagulación de la sangre
+- C. En el transporte de colesterol y lípidos
+- D. En el transporte de O2
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · proteínas plasmáticas
+
+Globulinas, como las inmunoglobulinas, que participan en la defensa contra agentes externos.
+
+> Este reactivo forma trío con el 27 (albúmina) y el 28 (fibrinógeno): las tres son proteínas plasmáticas con funciones distintas.
+
+---
+
+### 30
+
+De acuerdo con el libro de Biología, ¿qué sal disuelta en el plasma, junto con la hemoglobina y las proteínas plasmáticas, contribuye a mantener la constancia del pH sanguíneo?
+
+- A. El bicarbonato de sodio
+- B. El cloruro de potasio
+- C. El fibrinógeno
+- D. La albúmina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · plasma
+
+Disueltas en el plasma se encuentran, además, diversas sales: el bicarbonato de sodio en especial, que en conjunto con la hemoglobina de los glóbulos rojos y las proteínas plasmáticas contribuyen a mantener la constancia del pH sanguíneo.
+
+---
+
+## Sub-lote 5 · La hematopoyesis y los glóbulos rojos (fig. 36-4, p. 844)
+
+### 31
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el proceso de formación de las células sanguíneas?
+
+- A. Hematopoyesis
+- B. Hematocrito
+- C. Fagocitosis
+- D. Necrosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · hematopoyesis
+
+Las células sanguíneas se forman tempranamente en el desarrollo. Este proceso de formación se denomina hematopoyesis.
+
+---
+
+### 32
+
+De acuerdo con el libro de Biología, luego del nacimiento, ¿dónde se generan todas las células sanguíneas, salvo los linfocitos?
+
+- A. Solo en la médula ósea
+- B. En el hígado y el bazo
+- C. En los órganos linfáticos secundarios
+- D. En el plasma sanguíneo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · hematopoyesis
+
+Luego del nacimiento, todas las células sanguíneas solo se generan en la médula ósea –excepto los linfocitos que se forman en los órganos linfáticos secundarios–.
+
+---
+
+### 33
+
+De acuerdo con el libro de Biología, ¿a partir de qué se originan las células sanguíneas?
+
+- A. De un tipo único de células troncales, o células madre, que son pluripotenciales
+- B. De los glóbulos rojos maduros que se dividen
+- C. De las proteínas plasmáticas del plasma
+- D. De los megacariocitos del hígado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · células madre
+
+Las células sanguíneas se originan a partir de un tipo único de células troncales, o células madre, que son pluripotenciales, es decir, que pueden dar origen a distintos grupos celulares.
+
+---
+
+### 34
+
+De acuerdo con el libro de Biología, además de transportar O2, ¿de qué son los principales responsables los glóbulos rojos?
+
+- A. De la viscosidad de la sangre
+- B. De la coagulación de la sangre
+- C. De la defensa contra las infecciones
+- D. Del mantenimiento del pH sanguíneo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · glóbulos rojos
+
+Los glóbulos rojos son los transportadores de O2 por excelencia y son, además, los principales responsables de la viscosidad de la sangre.
+
+---
+
+### 35
+
+De acuerdo con el libro de Biología, cuando el glóbulo rojo de un mamífero madura, ¿qué ocurre?
+
+- A. Expulsa su núcleo y sus mitocondrias, y casi todo su volumen pasa a consistir en hemoglobina
+- B. Aumenta su número de mitocondrias para producir más ATP
+- C. Duplica su núcleo para poder dividirse más rápido
+- D. Se llena de gránulos y emite seudópodos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · glóbulos rojos
+
+Cuando el glóbulo rojo de un mamífero madura, expulsa su núcleo y sus mitocondrias, mientras que las demás estructuras celulares internas se desintegran. Casi todo el volumen del glóbulo rojo maduro consiste en hemoglobina, el pigmento al que se unen las moléculas de O2.
+
+---
+
+### 36
+
+De acuerdo con el libro de Biología, ¿cuántos glóbulos rojos por mm3 de sangre existen aproximadamente en los humanos?
+
+- A. Alrededor de 5 millones
+- B. Alrededor de 5 mil
+- C. Alrededor de 500 mil
+- D. Alrededor de 50 millones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · glóbulos rojos
+
+En los humanos, existen alrededor de 5 millones de glóbulos rojos por mm3 de sangre (en varones 4,5-5 millones/mm3 y en mujeres 4-4,5 millones/mm3).
+
+---
+
+### 37
+
+De acuerdo con el libro de Biología, ¿cuál es el lapso de vida de los glóbulos rojos?
+
+- A. Entre 120 y 130 días
+- B. Entre 12 y 13 días
+- C. Entre 12 y 13 años
+- D. Entre 6000 y 9000 días
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · glóbulos rojos
+
+Como los glóbulos rojos carecen de núcleo, no pueden sintetizar nuevas moléculas. Su lapso de vida es breve: alcanza entre 120 y 130 días.
+
+---
+
+### 38
+
+De acuerdo con el libro de Biología, ¿a qué ritmo mueren los glóbulos rojos en nuestro cuerpo, siendo reemplazados a igual ritmo en la médula ósea?
+
+- A. Alrededor de 2 millones por segundo
+- B. Alrededor de 2 mil por segundo
+- C. Alrededor de 5 millones por minuto
+- D. Alrededor de 120 por día
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · glóbulos rojos
+
+Están muriendo glóbulos rojos a un ritmo de alrededor de 2 millones por segundo, aunque son reemplazados por la formación, a igual ritmo, de nuevos glóbulos rojos en la médula ósea.
+
+---
+
+### 39
+
+De acuerdo con el libro de Biología, ¿qué diámetro tienen los glóbulos rojos de los vertebrados?
+
+- A. Entre 7 y 8 micrómetros
+- B. Entre 5 y 6 micrómetros
+- C. Entre 1 y 2 micrómetros
+- D. Entre 70 y 80 micrómetros
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · glóbulos rojos
+
+Los glóbulos rojos tienen entre 7 y 8 micrómetros de diámetro y son significativamente más grandes que algunos de los capilares más pequeños, que tienen solo 5 micrómetros de diámetro.
+
+---
+
+### 40
+
+De acuerdo con el libro de Biología, ¿por qué los glóbulos rojos pueden pasar a través de capilares más pequeños que ellos?
+
+- A. Porque su forma de "rosquilla" les permite curvarse, torcerse y plegarse
+- B. Porque expulsan su núcleo al entrar en el capilar
+- C. Porque se dividen en fragmentos más pequeños
+- D. Porque emiten seudópodos como las amebas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 844
+**Subtema:** circulación · glóbulos rojos
+
+Su paso a través de los capilares es posible porque su forma de "rosquilla" permite que se curven, se tuerzan y se plieguen.
+
+---
+
+## Sub-lote 6 · Los glóbulos blancos y las plaquetas (fig. 36-5, p. 845)
+
+### 41
+
+De acuerdo con el libro de Biología, ¿cuál es la función principal de los glóbulos blancos o leucocitos?
+
+- A. La defensa del organismo contra virus, bacterias y partículas extrañas
+- B. El transporte de O2 hasta los tejidos
+- C. La coagulación de la sangre
+- D. El mantenimiento del pH sanguíneo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 845
+**Subtema:** circulación · glóbulos blancos
+
+Los glóbulos blancos o leucocitos son células casi incoloras, ya que no poseen pigmentos, tienen núcleo y su tamaño es mayor que el de los glóbulos rojos. Su función principal es la defensa del organismo contra virus, bacterias y partículas extrañas.
+
+---
+
+### 42
+
+De acuerdo con el libro de Biología, a diferencia de los glóbulos rojos, ¿qué pueden hacer los glóbulos blancos?
+
+- A. Migrar al espacio intersticial y desplazarse por medio de seudópodos, como las amebas
+- B. Transportar O2 fuera de los vasos sanguíneos
+- C. Sintetizar hemoglobina en los tejidos
+- D. Dividirse dentro de los capilares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 845
+**Subtema:** circulación · glóbulos blancos
+
+A diferencia de los glóbulos rojos, los glóbulos blancos no están confinados dentro de los vasos sanguíneos, sino que pueden migrar al espacio intersticial. [...] en los tejidos pueden aplanarse y desplazarse por medio de seudópodos, como las amebas.
+
+---
+
+### 43
+
+De acuerdo con el libro de Biología, ¿de qué está compuesto fundamentalmente el pus que supura de las heridas infectadas de la piel?
+
+- A. De glóbulos blancos muertos durante el proceso de control de la infección
+- B. De glóbulos rojos muertos
+- C. De plaquetas activadas
+- D. De plasma coagulado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 845
+**Subtema:** circulación · glóbulos blancos
+
+El pus, que por lo común supura de las heridas infectadas que se producen en la piel, está compuesto fundamentalmente por estas células muertas.
+
+---
+
+### 44
+
+De acuerdo con el libro de Biología, ¿cuántos glóbulos blancos por mm3 hay en la sangre de nuestra especie?
+
+- A. Entre 6000 y 9000
+- B. Entre 4 y 5 millones
+- C. Entre 120 y 130
+- D. Entre 2 y 3 millones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 845
+**Subtema:** circulación · glóbulos blancos
+
+En la sangre de nuestra especie hay entre 6000 y 9000 glóbulos blancos por mm3.
+
+---
+
+### 45
+
+De acuerdo con el libro de Biología, ¿qué ocurre en la médula ósea en la forma de cáncer conocida como leucemia?
+
+- A. Una proliferación aumentada de glóbulos blancos afuncionales o anormales, mientras disminuye la producción de los glóbulos blancos normales
+- B. Una destrucción total de los glóbulos rojos
+- C. Una disminución del hematocrito por falta de hierro
+- D. Una proliferación de plaquetas anormales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 845
+**Subtema:** circulación · leucemia
+
+En la forma de cáncer conocida como leucemia, se produce en la médula ósea una proliferación aumentada de glóbulos blancos, que son afuncionales o anormales; al mismo tiempo, disminuye la producción de los glóbulos blancos normales que protegen al organismo.
+
+---
+
+### 46
+
+De acuerdo con el libro de Biología, ¿de qué células son fragmentos las plaquetas?
+
+- A. De células inusualmente grandes llamadas megacariocitos, que se encuentran en la médula ósea
+- B. De los glóbulos rojos maduros que se fragmentan
+- C. De los linfocitos de los órganos linfáticos
+- D. De las células madre del hígado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 845
+**Subtema:** circulación · plaquetas
+
+Las plaquetas, llamadas así porque se asemejan a placas pequeñas, son pequeños discos incoloros, fragmentos de células inusualmente grandes –los megacariocitos– que se encuentran en la médula ósea.
+
+---
+
+### 47
+
+De acuerdo con el libro de Biología, ¿qué función cumplen las plaquetas?
+
+- A. Inician la coagulación de la sangre y obturan roturas de los vasos sanguíneos
+- B. Transportan el O2 hasta los tejidos
+- C. Realizan la fagocitosis de virus y bacterias
+- D. Mantienen la constancia del pH sanguíneo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 845
+**Subtema:** circulación · plaquetas
+
+Las plaquetas inician la coagulación de la sangre y obturan roturas de los vasos sanguíneos.
+
+---
+
+### 48
+
+De acuerdo con el libro de Biología, respecto de su estructura, ¿qué caracteriza a las plaquetas?
+
+- A. No contienen núcleos, aunque tienen mitocondrias, lo que les permite el aprovisionamiento de ATP
+- B. Contienen un núcleo grande y carecen de mitocondrias
+- C. Están llenas de hemoglobina como los glóbulos rojos
+- D. Poseen pigmentos que les dan color
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 845
+**Subtema:** circulación · plaquetas
+
+Las plaquetas no contienen núcleos, aunque tienen mitocondrias –lo que les permite el aprovisionamiento de ATP–, un retículo endoplasmático liso y numerosos gránulos en donde se acumulan diversas sustancias.
+
+---
+
+### 49
+
+De acuerdo con el libro de Biología, cuando se rompe un vaso sanguíneo y se produce una hemorragia, ¿qué puede causar en la zona circundante a la lesión?
+
+- A. Necrosis, es decir, la muerte de las células
+- B. Fagocitosis de las células vecinas
+- C. Leucemia en la médula ósea
+- D. Un aumento del hematocrito
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 845
+**Subtema:** circulación · coagulación sanguínea
+
+Cuando se rompe un vaso sanguíneo, se produce una hemorragia que disminuye el aporte de O2 y nutrientes al área afectada. Esto puede causar necrosis –la muerte de las células– de la zona circundante a la lesión.
+
+---
+
+### 50
+
+De acuerdo con el libro de Biología, ¿qué es un linfocito?
+
+- A. Uno de los tipos de glóbulos blancos
+- B. Uno de los tipos de glóbulos rojos
+- C. Un fragmento de megacariocito
+- D. Una proteína plasmática
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 845
+**Subtema:** circulación · linfocitos
+
+Microfotografía electrónica de barrido de un linfocito humano (uno de los tipos de glóbulos blancos) atrapando células bacterianas.
+
+---
+
+**Reactivos en este archivo:** 50
