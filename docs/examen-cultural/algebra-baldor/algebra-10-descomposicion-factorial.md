@@ -57,10 +57,8 @@ p. 143 a la 172:
 
 **Pendiente:** el capítulo X (los diez casos, pp. 143–170, más el principio para combinar
 casos) queda cerrado; los ejercicios de descomposición en 3, 4, 5 y 6 factores (arts.
-158–159 en adelante) son práctica y no llevan reactivos. Lo que falta de Álgebra son los
-capítulos **XVIII (Fórmulas, p. 270), XX (Funciones), XXIV y XXV (Ecuaciones
-simultáneas)**, que piden EMM/EMO/EMOS; mientras no se abra el archivo del XVIII, éste
-sostiene el pendiente de Álgebra.
+158–159 en adelante) son práctica y no llevan reactivos. Lo que falta de Álgebra lo
+declara el archivo del capítulo en curso — hoy `algebra-18-formulas.md`.
 
 ## Criterio: teoría sobre práctica
 
@@ -835,4 +833,4 @@ Lo primero que debe hacerse es ver si hay algún factor común, y si lo hay, sac
 ---
 
 **Reactivos en este archivo:** 46
-**Pendiente:** el capítulo X (los diez casos de factorización, pp. 143–170, más el principio para combinar casos) queda cerrado; los ejercicios de descomposición en 3, 4, 5 y 6 factores son práctica y no llevan reactivos. Lo que falta de Álgebra son los capítulos XVIII (Fórmulas, p. 270), XX (Funciones), XXIV y XXV (Ecuaciones simultáneas), que piden EMM/EMO/EMOS; mientras no se abra el archivo del XVIII, éste sostiene el pendiente de Álgebra.
+**Pendiente:** el capítulo X (los diez casos de factorización, pp. 143–170, más el principio para combinar casos) queda cerrado; los ejercicios de descomposición en 3, 4, 5 y 6 factores son práctica y no llevan reactivos. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-18-formulas.md`.
