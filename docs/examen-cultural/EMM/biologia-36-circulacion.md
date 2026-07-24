@@ -23,7 +23,7 @@ traen de aquí: no se duplican.
 > **libro** (como ya se hizo con `fisica-perez-montiel/`), no por la escuela.
 
 **Capítulos de este libro ya cerrados:** 3 (221 reactivos), 4 (190), 5 (157), 7 (240),
-8 (149), 11 (162), 12 (131), 31 (84), 32 (271) y 35 (166). Tras el 36 sigue el 37.
+8 (149), 11 (162), 12 (131), 31 (84), 32 (271), 35 (166) y 36 (153). Solo falta el 37.
 
 ## Método
 
@@ -109,9 +109,20 @@ mantienen presión y las venas para extracciones, figs. 36-10 y 36-11). De la **
 se cubren el centro de regulación cardiovascular en el bulbo y el retorno venoso (las venas
 como reservorio, las válvulas venosas contra el reflujo, la bomba muscular al caminar, las
 várices, la velocidad mínima en los capilares y las venas como mayor depósito, figs. 36-12 y
-36-13).
+36-13). De la **página 852** se cubren los barorreceptores y el reflejo cardiovascular (la
+detección del estiramiento, los quimiorreceptores, los efectores y la retroalimentación
+negativa), los capilares y la difusión de sustancias (el endotelio de una sola capa, los
+130 µm de distancia máxima, la velocidad mínima y el área transversal conjunta) y el
+arranque del sistema linfático (el filtrado del 2 %, los 20 L, los 2-4 L que retornan por el
+sistema linfático, y los vasos linfáticos, fig. 36-14). De la **página 853** se cubre el
+cierre del sistema linfático (el movimiento de la linfa en mamíferos, los ganglios
+linfáticos y la proliferación de linfocitos, los capilares linfáticos como conductos ciegos,
+la definición de linfa, su papel en el transporte de grasas y los "corazones linfáticos" de
+los anfibios). **Con esto el capítulo 36 queda cubierto por completo** (páginas 842 a 853;
+la p. 854 son los ejercicios "Situaciones problemáticas" y el ensayo de cierre "Retomando la
+problemática inicial", que por norma no llevan reactivos).
 
-**Pendiente:** el capítulo 36 está EN CURSO; sigue desde la página impresa 852 (hoja 898) en adelante (los capilares y el intercambio con los tejidos, y el sistema linfático, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, sigue sin empezar el capítulo 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 36 quedó **cubierto por completo** (páginas 842 a 853, hasta antes del ensayo de cierre "Retomando la problemática inicial" y de los ejercicios, que por norma no llevan reactivos). De la materia de Biología sigue **sin empezar el capítulo 37** (La digestión, que arranca hacia la página impresa 855-856); este archivo sostiene ese pendiente de la materia hasta que exista el `.md` del capítulo 37.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -2446,4 +2457,333 @@ Las válvulas situadas a intervalos dentro del sistema venoso se abren y permite
 
 ---
 
-**Reactivos en este archivo:** 134
+## Sub-lote 18 · Los barorreceptores y el reflejo cardiovascular (p. 852)
+
+### 135
+
+De acuerdo con el libro de Biología, ¿qué detectan los barorreceptores (receptores de presión)?
+
+- A. El estiramiento de las paredes de los vasos sanguíneos, consecuencia de las diferentes presiones sanguíneas en su interior
+- B. La concentración de O2 y CO2 de la sangre
+- C. Las variaciones del pH sanguíneo
+- D. La temperatura de la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 852
+**Subtema:** circulación · barorreceptores
+
+Los barorreceptores (receptores de presión) detectan el estiramiento de las paredes de los vasos sanguíneos, que es consecuencia de las diferentes presiones sanguíneas en su interior.
+
+---
+
+### 136
+
+De acuerdo con el libro de Biología, ¿dónde se encuentran principalmente los barorreceptores?
+
+- A. En las arterias carótidas, la aorta, las venas cavas y el corazón
+- B. En los riñones y el hígado
+- C. En los capilares sistémicos
+- D. En los nódulos linfáticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 852
+**Subtema:** circulación · barorreceptores
+
+Estos receptores se encuentran principalmente en las arterias carótidas, la aorta, las venas cavas y el corazón.
+
+---
+
+### 137
+
+De acuerdo con el libro de Biología, ¿a qué son sensibles los quimiorreceptores ubicados en esos vasos?
+
+- A. A cambios en la concentración de O2 y CO2 de la sangre y a variaciones en el pH sanguíneo
+- B. Al estiramiento de las paredes de los vasos sanguíneos
+- C. A la temperatura de la piel
+- D. A la viscosidad de la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 852
+**Subtema:** circulación · quimiorreceptores
+
+En los mismos vasos se ubican también quimiorreceptores sensibles a cambios en la concentración de O2 y CO2 de la sangre, así como a variaciones en el pH sanguíneo.
+
+---
+
+### 138
+
+De acuerdo con el libro de Biología, ¿cuáles son los órganos efectores del reflejo cardiovascular?
+
+- A. El corazón y los vasos sanguíneos
+- B. Los riñones y el hígado
+- C. Los pulmones y las branquias
+- D. Los nódulos linfáticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 852
+**Subtema:** circulación · reflejo cardiovascular
+
+El centro de regulación cardiovascular recibe e integra información a partir de los dos tipos de receptores y desencadena una respuesta de tipo refleja. Los órganos efectores del reflejo son el corazón y los vasos sanguíneos.
+
+---
+
+### 139
+
+De acuerdo con el libro de Biología, mediante el control por retroalimentación negativa, cuando la presión sanguínea desciende, ¿qué ocurre?
+
+- A. La actividad del corazón aumenta y los vasos sanguíneos se contraen, lo cual eleva la presión sanguínea hasta su valor normal
+- B. La actividad del corazón disminuye y los vasos sanguíneos se dilatan
+- C. Los barorreceptores dejan de responder al estiramiento
+- D. La sangre se desvía hacia el sistema linfático
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 852
+**Subtema:** circulación · reflejo cardiovascular
+
+Cuando la presión desciende, la actividad del corazón aumenta y los vasos sanguíneos se contraen, lo cual eleva la presión sanguínea hasta su valor normal.
+
+---
+
+## Sub-lote 19 · Los capilares y la difusión de sustancias (p. 852)
+
+### 140
+
+De acuerdo con el libro de Biología, ¿por qué los capilares son las principales estructuras del intercambio de sustancias entre la sangre y los tejidos?
+
+- A. Porque tienen paredes en extremo delgadas, constituidas por una sola capa de células que forma el endotelio
+- B. Porque tienen paredes gruesas y musculares
+- C. Porque poseen válvulas que evitan el reflujo
+- D. Porque contienen la mayor cantidad de sangre del circuito
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 852
+**Subtema:** circulación · capilares
+
+Los capilares son las principales estructuras en las que se produce el intercambio de sustancias entre la sangre y los tejidos, debido a que tienen paredes en extremo delgadas, constituidas por una sola capa de células que forma el endotelio.
+
+---
+
+### 141
+
+De acuerdo con el libro de Biología, ¿a qué distancia máxima de un capilar se encuentra cualquier célula del cuerpo humano?
+
+- A. A no más de 130 micrómetros
+- B. A no más de 5 micrómetros
+- C. A no más de 20 micrómetros
+- D. A no más de 130 milímetros
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 852
+**Subtema:** circulación · densidad capilar
+
+No hay célula en el cuerpo humano que esté a más de 130 micrómetros de un capilar, una distancia lo suficientemente pequeña para la difusión eficiente del O2, CO2, iones, hormonas y otras sustancias disueltas de bajo peso molecular.
+
+---
+
+### 142
+
+De acuerdo con el libro de Biología, ¿por qué es importante que la velocidad del flujo sanguíneo sea mínima en los capilares?
+
+- A. Porque permite que la difusión de diferentes sustancias se produzca de manera eficiente
+- B. Porque aumenta la presión sanguínea
+- C. Porque acelera el retorno venoso
+- D. Porque impide el intercambio de sustancias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 852
+**Subtema:** circulación · capilares
+
+Si bien el flujo sanguíneo es constante a lo largo del circuito, su velocidad es mínima en los capilares, lo que permite que la difusión de diferentes sustancias se produzca de manera eficiente.
+
+---
+
+### 143
+
+De acuerdo con el libro de Biología, ¿cómo es el área transversal conjunta de los numerosísimos capilares dispuestos en paralelo?
+
+- A. Es la mayor de todo el sistema circulatorio
+- B. Es la menor de todo el sistema circulatorio
+- C. Es igual a la de la aorta
+- D. Es igual a la de las venas cavas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 852
+**Subtema:** circulación · capilares
+
+El área transversal de un solo capilar es mínima, aunque el área transversal conjunta, resultante de la suma de las áreas de los numerosísimos capilares dispuestos en paralelo, es la mayor de todo el sistema circulatorio.
+
+---
+
+## Sub-lote 20 · El sistema linfático (fig. 36-14, p. 852-853)
+
+### 144
+
+De acuerdo con el libro de Biología, en los humanos, ¿qué fracción del filtrado retorna al sistema circulatorio mediante el sistema linfático?
+
+- A. Una cierta fracción, de 2 a 4 L por día
+- B. La totalidad de los 20 L filtrados por día
+- C. El 2% recuperado por los capilares sistémicos
+- D. Ninguna fracción; todo se pierde
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 852
+**Subtema:** circulación · sistema linfático
+
+En los humanos, si bien el filtrado representa un 2% del plasma circulante, al cabo de un día se filtran unos 20 L. La mayor parte de ese filtrado es recuperada por los mismos capilares sistémicos, pero una cierta fracción (de 2 a 4 L) retorna al sistema circulatorio mediante el sistema linfático.
+
+---
+
+### 145
+
+De acuerdo con el libro de Biología, ¿a qué se asemejan los vasos linfáticos más grandes en su estructura?
+
+- A. A las venas, con una capa de músculo liso y un sistema de válvulas que asegura el tránsito del líquido en un solo sentido
+- B. A las arterias, con paredes gruesas y elásticas
+- C. A los capilares sanguíneos, sin pared muscular
+- D. Al miocardio del corazón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 852
+**Subtema:** circulación · vasos linfáticos
+
+Los vasos más grandes son similares a las venas en su estructura: presentan una capa de músculo liso que les permite contraerse y un sistema de válvulas que asegura el tránsito del líquido en un solo sentido.
+
+---
+
+### 146
+
+De acuerdo con el libro de Biología, ¿cómo reingresa la linfa al torrente sanguíneo?
+
+- A. Mediante el conducto torácico y el conducto linfático derecho, que desembocan en las venas subclavias, las cuales drenan en la vena cava superior
+- B. Mediante la arteria aorta hacia los tejidos del cuerpo
+- C. Directamente desde los capilares linfáticos al corazón
+- D. A través de los riñones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 852
+**Subtema:** circulación · sistema linfático
+
+La linfa reingresa en el torrente sanguíneo mediante el conducto torácico, que desemboca en la vena subclavia izquierda, y el conducto linfático derecho, que desemboca en la vena subclavia derecha. Estas dos venas drenan en la vena cava superior.
+
+---
+
+### 147
+
+De acuerdo con el libro de Biología, en los mamíferos, ¿cómo se mueve la linfa?
+
+- A. Por la contracción de los vasos linfáticos y por la acción de los músculos del cuerpo
+- B. Por el bombeo directo del corazón
+- C. Por la presión de la aorta
+- D. Por la difusión simple a través del endotelio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 853
+**Subtema:** circulación · sistema linfático
+
+En los mamíferos, la linfa se mueve por la contracción de los vasos linfáticos y por la acción de los músculos del cuerpo.
+
+---
+
+### 148
+
+De acuerdo con el libro de Biología, ¿qué son los nódulos o ganglios linfáticos?
+
+- A. Masas de tejido esponjoso distribuidas en todo el sistema linfático, sitios de proliferación de los linfocitos
+- B. Válvulas que evitan el reflujo de la linfa
+- C. Conductos ciegos ubicados en el espacio intercelular
+- D. Corazones linfáticos de los anfibios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 853
+**Subtema:** circulación · ganglios linfáticos
+
+Los nódulos o ganglios linfáticos son masas de tejido esponjoso distribuidas en todo el sistema linfático. Son los sitios de proliferación de los linfocitos –glóbulos blancos especializados, que son efectores de la respuesta inmunitaria–.
+
+---
+
+### 149
+
+De acuerdo con el libro de Biología, además de la proliferación de linfocitos, ¿qué se elimina en los ganglios linfáticos?
+
+- A. Los restos celulares y las partículas extrañas de la linfa antes de que penetren en la sangre
+- B. El CO2 de la respiración celular
+- C. La urea del plasma
+- D. Los glóbulos rojos envejecidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 853
+**Subtema:** circulación · ganglios linfáticos
+
+En estos ganglios se eliminan, además, los restos celulares y las partículas extrañas de la linfa antes de que penetren en la sangre.
+
+---
+
+### 150
+
+De acuerdo con el libro de Biología, ¿qué diferencia importante tienen los capilares linfáticos respecto del sistema circulatorio?
+
+- A. Son conductos ciegos, sin salida, ubicados en el espacio intercelular, que no forman parte de un circuito continuo
+- B. Poseen paredes gruesas y musculares
+- C. Transportan sangre oxigenada
+- D. Forman un circuito cerrado con el corazón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 853
+**Subtema:** circulación · capilares linfáticos
+
+Los capilares linfáticos son conductos ciegos, sin salida, que se ubican en el espacio intercelular y no forman parte de un circuito continuo.
+
+---
+
+### 151
+
+De acuerdo con el libro de Biología, ¿cómo se conoce el líquido que transporta el sistema linfático?
+
+- A. Linfa
+- B. Plasma
+- C. Hemolinfa
+- D. Suero
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 853
+**Subtema:** circulación · linfa
+
+El líquido que transporta el sistema linfático se conoce como linfa.
+
+---
+
+### 152
+
+De acuerdo con el libro de Biología, además de su función circulatoria, ¿qué transporta la linfa desde el tubo digestivo al torrente sanguíneo?
+
+- A. Las grasas absorbidas en el tubo digestivo
+- B. El O2 captado en los pulmones
+- C. La urea filtrada en los riñones
+- D. Los glóbulos rojos de la médula ósea
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 853
+**Subtema:** circulación · linfa
+
+Como se verá en el capítulo 37, la linfa es, además, el medio por el cual las grasas absorbidas en el tubo digestivo se transportan al torrente sanguíneo.
+
+---
+
+### 153
+
+De acuerdo con el libro de Biología, ¿qué poseen algunos vertebrados no mamíferos, como muchos anfibios, para propulsar la linfa?
+
+- A. "Corazones linfáticos"
+- B. Un segundo bulbo raquídeo
+- C. Branquias linfáticas
+- D. Válvulas aórticas adicionales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 853
+**Subtema:** circulación · sistema linfático
+
+Algunos vertebrados no mamíferos (como el caso de muchos anfibios) poseen "corazones linfáticos" capaces de propulsar la linfa.
+
+---
+
+**Reactivos en este archivo:** 153
