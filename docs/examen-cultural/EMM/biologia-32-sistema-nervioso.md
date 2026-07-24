@@ -59,9 +59,14 @@ De la **página 760** se cubren la sustancia gris y blanca de la médula, el enc
 protuberancia y bulbo raquídeo), la formación reticular y el SARA, las funciones del
 cerebelo y del diencéfalo, las raíces dorsal (sensitiva) y ventral (motora) de la
 médula con los ganglios de la raíz dorsal (fig. 32-4), y las divisiones del SNP
-—somático y autónomo (simpático, parasimpático y entérico), fig. 32-3—.
+—somático y autónomo (simpático, parasimpático y entérico), fig. 32-3—. De la
+**página 761** se cubren el SNP somático (SNS) y autónomo (SNA) con sus divisiones
+(simpática que prepara para la acción, parasimpática que restaura, entérica del
+digestivo), los nervios craneales (13 pares) y espinales (variables: 31 en humanos,
+todos mixtos), el cerebro (dos hemisferios, la corteza cerebral de sustancia gris) y
+la protección del SNC (las meninges y el líquido cefalorraquídeo).
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 761 (hoja 807) en adelante (el cerebro y la corteza cerebral en detalle, y el resto del sistema nervioso). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 762 (hoja 808) en adelante (el arco reflejo, las barreras del SNC y el resto del capítulo). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -810,4 +815,162 @@ El sistema nervioso autónomo se subdivide en la división simpática, la parasi
 
 ---
 
-**Reactivos en este archivo:** 47
+## Sub-lote 6 · El sistema nervioso periférico, los nervios y la protección del SNC (p. 761)
+
+### 48
+
+De acuerdo con el libro de Biología, ¿con qué está asociado el SNP somático (SNS)?
+
+- A. Con la relación y la interacción del animal con el ambiente externo: recoge información sensitiva y envía información motora hacia los músculos esqueléticos
+- B. Con la actividad visceral y la regulación homeostática del medio interno
+- C. Con la producción de todas las hormonas del cuerpo
+- D. Únicamente con la digestión de los alimentos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 761
+**Subtema:** sistema nervioso · SNP
+
+El SNP somático (SNS) recoge información sensitiva a través de los receptores sensoriales y envía información motora hacia los músculos esqueléticos. Este subsistema está asociado con la relación y la interacción del animal con el ambiente externo.
+
+### 49
+
+De acuerdo con el libro de Biología, ¿con qué se relaciona fundamentalmente el SNP autónomo (SNA), y qué controla de forma involuntaria?
+
+- A. Con la actividad visceral y la regulación homeostática del medio interno; controla el músculo liso, el músculo cardíaco y las glándulas
+- B. Con los músculos esqueléticos voluntarios
+- C. Con el procesamiento del lenguaje articulado
+- D. Con el equilibrio y la coordinación motora
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 761
+**Subtema:** sistema nervioso · SNP
+
+El SNP autónomo (SNA) se relaciona fundamentalmente con la actividad visceral y la regulación homeostática del medio interno. Este subsistema controla de forma involuntaria el músculo liso, el músculo cardíaco y las glándulas.
+
+### 50
+
+De acuerdo con el libro de Biología, en el sistema nervioso autónomo, ¿qué hacen la división simpática y la parasimpática?
+
+- A. La simpática prepara el cuerpo para la acción; la parasimpática interviene en la restauración corporal luego de algún desequilibrio
+- B. La simpática restaura el cuerpo; la parasimpática lo prepara para la acción
+- C. Ambas preparan el cuerpo para la acción
+- D. Ambas regulan únicamente la digestión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 761
+**Subtema:** sistema nervioso · SNP
+
+La división simpática consiste en nervios cuya actividad prepara el cuerpo para la acción, y la división parasimpática, cuyos nervios intervienen en la restauración corporal luego de algún desequilibrio.
+
+> Par contrapuesto (reactivo 50): la **simpática** prepara para la acción (acelerar);
+> la **parasimpática** restaura tras el desequilibrio (calmar). Cada una es el
+> distractor de la otra.
+
+### 51
+
+De acuerdo con el libro de Biología, ¿qué regula la división entérica del sistema nervioso autónomo?
+
+- A. El funcionamiento autónomo del sistema digestivo
+- B. La acción de los músculos esqueléticos
+- C. La respiración y la frecuencia cardíaca
+- D. El equilibrio y la coordinación motora
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 761
+**Subtema:** sistema nervioso · SNP
+
+Una tercera división es la división entérica, que regula el funcionamiento autónomo del sistema digestivo.
+
+### 52
+
+De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuántos pares de nervios craneales hay y cómo se conectan?
+
+- A. 13 pares (numerados del 0 al XII), que se conectan de modo directo con el encéfalo
+- B. 31 pares, que se conectan con la médula espinal
+- C. 10 pares, que se conectan con el cerebelo
+- D. 3 pares, que se conectan con los ganglios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 761
+**Subtema:** sistema nervioso · nervios
+
+Los nervios craneales se conectan de modo directo con el encéfalo. Son 13 pares (que se denominan numerándolos del 0 al XII) en la mayoría de los vertebrados, incluidos los seres humanos.
+
+### 53
+
+De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, los nervios espinales o raquídeos se conectan con la médula espinal. ¿Cuántos pares hay en los humanos y de qué tipo son?
+
+- A. 31 pares en los humanos; todos son mixtos (sensitivos y motores)
+- B. 13 pares en los humanos; todos solo sensitivos
+- C. 10 pares en los humanos; todos solo motores
+- D. 42 pares en los humanos; todos solo sensitivos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 761
+**Subtema:** sistema nervioso · nervios
+
+Los nervios espinales o raquídeos se conectan con la médula espinal. En los humanos hay 31. Todos los pares de nervios espinales son mixtos (sensitivos y motores).
+
+### 54
+
+De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuántos pares de nervios espinales hay en las ranas, en los humanos y en el caballo?
+
+- A. En las ranas 10, en los humanos 31 y en el caballo 42
+- B. En las ranas 42, en los humanos 10 y en el caballo 31
+- C. En los tres, 13 pares
+- D. En las ranas 31, en los humanos 42 y en el caballo 10
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 761
+**Subtema:** sistema nervioso · nervios
+
+El número de nervios espinales es variable en los vertebrados: en las ranas hay 10; en los humanos, 31; en el perro, 36; en el gato, 38; en el caballo, 42.
+
+### 55
+
+De acuerdo con el libro de Biología, en los vertebrados, ¿en qué se ve diferenciado el cerebro, y qué recubre a los hemisferios cerebrales?
+
+- A. En dos hemisferios cerebrales (derecho e izquierdo); la sustancia gris los recubre (corteza cerebral) y la sustancia blanca es interna
+- B. En un solo hemisferio, recubierto por la sustancia blanca
+- C. En tres hemisferios, sin corteza cerebral
+- D. En dos hemisferios, con la sustancia gris interna y la blanca externa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 761
+**Subtema:** sistema nervioso · el cerebro
+
+En los vertebrados, el cerebro se ve claramente diferenciado en dos hemisferios cerebrales, derecho e izquierdo. En la mayoría de estos, la sustancia gris recubre a los hemisferios cerebrales (corteza cerebral) y la sustancia blanca es interna.
+
+### 56
+
+De acuerdo con el libro de Biología, además del cráneo y la columna vertebral, ¿qué capas de membranas protegen al sistema nervioso central?
+
+- A. Las meninges
+- B. La corteza cerebral
+- C. Los ganglios de la raíz dorsal
+- D. La vaina de mielina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 761
+**Subtema:** sistema nervioso · protección del SNC
+
+El sistema nervioso central se encuentra protegido no solo por el cráneo y la columna vertebral, sino también por capas de membranas llamadas meninges.
+
+### 57
+
+De acuerdo con el libro de Biología, ¿qué líquido baña al encéfalo y la médula espinal, y qué función cumple además?
+
+- A. El líquido cefalorraquídeo, que actúa también como un amortiguador de impactos
+- B. El plasma sanguíneo, que solo transporta oxígeno
+- C. La linfa, cuya única función es la defensa
+- D. El líquido axoplásmico, que transmite los impulsos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 761
+**Subtema:** sistema nervioso · protección del SNC
+
+El sistema nervioso central está bañado por el líquido cefalorraquídeo. Este líquido rodea al encéfalo y la médula espinal. El líquido cefalorraquídeo actúa también como un amortiguador de impactos.
+
+---
+
+**Reactivos en este archivo:** 57
