@@ -60,7 +60,14 @@ el compuesto iónico y los iones monoatómicos y poliatómicos. En este tramo la
 cargas negativas se imprimen rotas (`Clÿ`, `OHÿ`) y los subíndices se aplanan
 ("H2O"); se cita restituyendo el signo menos, según la política del encabezado.
 
-**Pendiente:** 2.6, 2.7 y 2.8.
+**2.6 Fórmulas químicas (págs. 54–57): cerrado.** La fórmula molecular, el
+alótropo, los modelos moleculares (bolas y palos, relleno de espacios), la
+fórmula estructural, la fórmula empírica y la fórmula de los compuestos iónicos
+con su regla de subíndices. No se sacan reactivos de los Ejemplos 2.2, 2.3 y 2.4
+(ejercicios resueltos), ni de las fórmulas estructurales de la figura 2.12, que
+se imprimen deformadas.
+
+**Pendiente:** 2.7 y 2.8.
 
 ---
 
@@ -944,4 +951,406 @@ Además, dos o más átomos pueden combinarse para formar un ion que tiene una c
 
 ---
 
-**Reactivos en este archivo:** 56
+## Sub-lote 10 · Fórmulas químicas y modelos moleculares
+
+### 57
+
+De acuerdo con el libro de Química, ¿para qué usan los químicos las fórmulas químicas?
+
+- A. Para expresar la composición de moléculas y compuestos iónicos en términos de símbolos químicos
+- B. Para representar únicamente la carga eléctrica de los iones
+- C. Para indicar la masa exacta de cada átomo de un compuesto
+- D. Para describir la disposición tridimensional de los enlaces
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 54
+**Subtema:** fórmulas químicas · definición
+
+Los químicos usan fórmulas químicas para expresar la composición de moléculas y compuestos iónicos en términos de símbolos químicos.
+
+### 58
+
+De conformidad con el libro de Química, ¿de qué dos tipos de fórmulas se ocupa el libro en este apartado?
+
+- A. Fórmulas moleculares y fórmulas empíricas
+- B. Fórmulas estructurales y fórmulas iónicas
+- C. Fórmulas empíricas y fórmulas estructurales
+- D. Fórmulas moleculares y fórmulas de red
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 54
+**Subtema:** fórmulas químicas · definición
+
+Aquí nos ocupamos de dos tipos de fórmulas: fórmulas moleculares y fórmulas empíricas.
+
+### 59
+
+En relación con el libro de Química, ¿qué muestra una fórmula molecular?
+
+- A. El número exacto de átomos de cada elemento en la unidad más pequeña de una sustancia
+- B. La relación de números enteros más simple de los átomos presentes
+- C. Cómo están unidos entre sí los átomos en una molécula
+- D. La carga neta del catión y del anión
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 54
+**Subtema:** fórmulas químicas · fórmula molecular
+
+Una fórmula molecular muestra el número exacto de átomos de cada elemento en la unidad más pequeña de una sustancia.
+
+### 60
+
+De acuerdo con el libro de Química, ¿por qué no hay subíndice para el O en la fórmula H2O?
+
+- A. Porque solo hay un átomo de oxígeno en una molécula de agua, por lo que el número "uno" se omite en la fórmula
+- B. Porque el oxígeno no forma enlaces en la molécula de agua
+- C. Porque el subíndice del oxígeno se sobreentiende como dos
+- D. Porque el oxígeno aparece en el agua como alótropo
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 54
+**Subtema:** fórmulas químicas · fórmula molecular
+
+No hay subíndice para O en H2O porque solo hay un átomo de oxígeno en una molécula de agua, por lo que el número "uno" se omite en la fórmula.
+
+### 61
+
+De conformidad con el libro de Química, ¿qué es un alótropo?
+
+- A. Una de dos o más formas distintas de un elemento
+- B. Un compuesto formado por dos elementos diferentes
+- C. Un ion con una carga neta positiva
+- D. Una molécula que contiene más de dos átomos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 54
+**Subtema:** fórmulas químicas · alótropo
+
+Tenga en cuenta que el oxígeno (O2) y el ozono (O3) son alótropos del oxígeno. Un alótropo es una de dos o más formas distintas de un elemento.
+
+### 62
+
+En relación con el libro de Química, ¿cuáles son las dos formas alotrópicas del elemento carbono que menciona el libro?
+
+- A. El diamante y el grafito
+- B. El oxígeno y el ozono
+- C. El diamante y el metano
+- D. El grafito y el dióxido de carbono
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 54
+**Subtema:** fórmulas químicas · alótropo
+
+Dos formas alotrópicas del elemento carbono, el diamante y el grafito, son dramáticamente diferentes no solo en sus propiedades, sino también en su costo relativo.
+
+### 63
+
+De acuerdo con el libro de Química, ¿cuáles son los dos tipos estándar de modelos moleculares que se utilizan actualmente?
+
+- A. Los modelos de bolas y palos y los modelos de relleno de espacios
+- B. Los modelos estructurales y los modelos empíricos
+- C. Los modelos de red y los modelos de esferas truncadas
+- D. Los modelos moleculares y los modelos iónicos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 54
+**Subtema:** fórmulas químicas · modelos moleculares
+
+Actualmente se utilizan dos tipos estándar de modelos moleculares: modelos de bolas y palos y modelos de relleno de espacios.
+
+### 64
+
+De conformidad con el libro de Química, en los kits de modelos de bolas y palos, ¿qué se utiliza para representar los enlaces químicos?
+
+- A. Palos o resortes
+- B. Sujetadores a presión
+- C. Bolas truncadas
+- D. Líneas de color
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 54
+**Subtema:** fórmulas químicas · modelos moleculares
+
+En los kits de modelos de bolas y palos, los átomos son bolas de madera o plástico con agujeros. Se utilizan palos o resortes para representar los enlaces químicos.
+
+### 65
+
+En relación con el libro de Química, ¿cómo están representados los átomos en los modelos que llenan el espacio?
+
+- A. Por bolas truncadas unidas por sujetadores a presión, de modo que los enlaces no son visibles
+- B. Por bolas del mismo tamaño unidas por palos o resortes
+- C. Por líneas que conectan los símbolos atómicos
+- D. Por esferas unidas mediante resortes bien visibles
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 54
+**Subtema:** fórmulas químicas · modelos moleculares
+
+En los modelos que llenan el espacio, los átomos están representados por bolas truncadas unidas por sujetadores a presión, de modo que los enlaces no son visibles. Las bolas son proporcionales en tamaño a los átomos.
+
+### 66
+
+De acuerdo con el libro de Química, ¿qué muestra una fórmula estructural?
+
+- A. Cómo los átomos están unidos entre sí en una molécula
+- B. El número exacto de átomos de cada elemento de la sustancia
+- C. La relación de números enteros más simple de sus átomos
+- D. La carga neta de los iones que forman el compuesto
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 55
+**Subtema:** fórmulas químicas · fórmula estructural
+
+El primer paso para construir un modelo molecular es escribir la fórmula estructural, que muestra cómo los átomos están unidos entre sí en una molécula.
+
+### 67
+
+De conformidad con el libro de Química, en una fórmula estructural, ¿qué representa la línea que conecta dos símbolos atómicos?
+
+- A. Un enlace químico
+- B. Una carga eléctrica compartida
+- C. Un par de electrones libres
+- D. La distancia real entre los núcleos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 55
+**Subtema:** fórmulas químicas · fórmula estructural
+
+Por lo tanto, la fórmula estructural del agua es H—O—H. Una línea que conecta los dos símbolos atómicos representa un enlace químico.
+
+---
+
+## Sub-lote 11 · Fórmulas empíricas
+
+### 68
+
+En relación con el libro de Química, ¿qué nos dice la fórmula empírica?
+
+- A. Qué elementos están presentes y la relación de números enteros más simple de sus átomos
+- B. El número exacto de átomos de cada elemento en la molécula
+- C. Cómo se enlazan entre sí los átomos de la molécula
+- D. La masa de cada elemento presente en el compuesto
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 55
+**Subtema:** fórmulas químicas · fórmula empírica
+
+Por lo tanto, la fórmula empírica nos dice qué elementos están presentes y la relación de números enteros más simple de sus átomos.
+
+### 69
+
+De acuerdo con el libro de Química, ¿cuál es la fórmula molecular y cuál la fórmula empírica del peróxido de hidrógeno?
+
+- A. La molecular es H2O2 y la empírica es HO
+- B. La molecular es HO y la empírica es H2O2
+- C. La molecular es H2O y la empírica es HO
+- D. La molecular es H2O2 y la empírica es H2O
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 55
+**Subtema:** fórmulas químicas · fórmula empírica
+
+La fórmula molecular del peróxido de hidrógeno, una sustancia utilizada como antiséptico y como agente blanqueador para textiles y cabello, es H2O2. […] La fórmula empírica del peróxido de hidrógeno es HO.
+
+### 70
+
+De conformidad con el libro de Química, ¿cuál es la fórmula empírica de la hidracina, cuya fórmula molecular es N2H4?
+
+- A. NH2
+- B. N2H2
+- C. NH4
+- D. N2H
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 55
+**Subtema:** fórmulas químicas · fórmula empírica
+
+Como otro ejemplo, considere el compuesto hidracina (N2H4), que se usa como combustible para cohetes. La fórmula empírica de la hidracina es NH2.
+
+### 71
+
+En relación con el libro de Química, ¿qué información da la fórmula molecular de la hidracina que no da su fórmula empírica?
+
+- A. El número real de átomos de N (dos) y de átomos de H (cuatro) presentes en una molécula
+- B. La relación de nitrógeno a hidrógeno, que es 1:2
+- C. Qué elementos están presentes en el compuesto
+- D. La carga neta de la molécula
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 55
+**Subtema:** fórmulas químicas · fórmula empírica
+
+Aunque la relación de nitrógeno a hidrógeno es 1:2 tanto en la fórmula molecular (N2H4) como en la fórmula empírica (NH2), sólo la fórmula molecular nos dice el número real de átomos de N (dos) y de átomos de H (cuatro) presentes.
+
+### 72
+
+De acuerdo con el libro de Química, ¿cómo se escriben las fórmulas empíricas?
+
+- A. Reduciendo los subíndices de las fórmulas moleculares a los números enteros más pequeños posibles
+- B. Multiplicando los subíndices de las fórmulas moleculares por el número de átomos
+- C. Sumando las cargas del catión y del anión
+- D. Indicando el número exacto de átomos de cada elemento
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 55
+**Subtema:** fórmulas químicas · fórmula empírica
+
+Las fórmulas empíricas son las fórmulas químicas más simples; se escriben reduciendo los subíndices de las fórmulas moleculares a los números enteros más pequeños posibles.
+
+### 73
+
+De conformidad con el libro de Química, ¿qué relación hay entre conocer la fórmula molecular y conocer la fórmula empírica?
+
+- A. Si conocemos la fórmula molecular, también conocemos la empírica, pero lo contrario no es cierto
+- B. Si conocemos la fórmula empírica, también conocemos la molecular, pero no al revés
+- C. Conocer cualquiera de las dos permite conocer siempre la otra
+- D. No existe ninguna relación entre ambas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 55
+**Subtema:** fórmulas químicas · fórmula empírica
+
+Las fórmulas moleculares son las verdaderas fórmulas de las moléculas. Si conocemos la fórmula molecular, también conocemos la fórmula empírica, pero lo contrario no es cierto.
+
+### 74
+
+En relación con el libro de Química, ¿qué ejemplos da el libro de moléculas en las que la fórmula molecular y la empírica son la misma?
+
+- A. El agua, el amoníaco, el dióxido de carbono y el metano
+- B. El peróxido de hidrógeno, la hidracina y el ozono
+- C. El diborano, la vainillina y la cafeína
+- D. El oxígeno, el ozono, el diamante y el grafito
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 55
+**Subtema:** fórmulas químicas · fórmula empírica
+
+Para muchas moléculas, la fórmula molecular y la fórmula empírica son la misma. Algunos ejemplos son el agua (H2O), el amoníaco (NH3), el dióxido de carbono (CO2) y el metano (CH4).
+
+### 75
+
+De acuerdo con el libro de Química, ¿qué significa la palabra *empírico*?
+
+- A. "Derivado del experimento"
+- B. "Derivado del cálculo"
+- C. "De la forma más simple"
+- D. "Sin subíndices"
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 55
+**Subtema:** fórmulas químicas · fórmula empírica
+
+La palabra empírico significa "derivado del experimento". Como veremos en el Capítulo 3, las fórmulas empíricas se determinan experimentalmente.
+
+---
+
+## Sub-lote 12 · Fórmula de los compuestos iónicos
+
+### 76
+
+De conformidad con el libro de Química, ¿por qué las fórmulas de los compuestos iónicos suelen ser las mismas que sus fórmulas empíricas?
+
+- A. Porque los compuestos iónicos no consisten en unidades moleculares discretas
+- B. Porque los compuestos iónicos siempre tienen una carga neta positiva
+- C. Porque sus subíndices nunca se pueden reducir
+- D. Porque contienen un solo tipo de átomo
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 56
+**Subtema:** fórmulas químicas · compuestos iónicos
+
+Las fórmulas de los compuestos iónicos suelen ser las mismas que sus fórmulas empíricas, porque los compuestos iónicos no consisten en unidades moleculares discretas.
+
+### 77
+
+En relación con el libro de Química, en el capítulo 2 sobre los átomos y las moléculas, en una muestra sólida de cloruro de sodio, ¿qué proporción de cationes a aniones hay y qué consecuencia tiene?
+
+- A. Una proporción de 1:1, de modo que el compuesto es eléctricamente neutro
+- B. Una proporción de 2:1, de modo que el compuesto tiene carga positiva
+- C. Una proporción de 1:6, de modo que el compuesto resulta inestable
+- D. Una proporción de 6:1, de modo que el compuesto es eléctricamente neutro
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 56
+**Subtema:** fórmulas químicas · compuestos iónicos
+
+En tal compuesto hay una proporción de cationes a aniones de 1:1, de modo que el compuesto es eléctricamente neutro.
+
+### 78
+
+De acuerdo con el libro de Química, ¿por cuántos iones cloruro circundantes está igualmente retenido cada ion sodio en el NaCl?
+
+- A. Por seis
+- B. Por uno
+- C. Por dos
+- D. Por cuatro
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 56
+**Subtema:** fórmulas químicas · compuestos iónicos
+
+De hecho, cada ion Na+ está igualmente retenido por seis iones Cl− circundantes y viceversa.
+
+### 79
+
+De conformidad con el libro de Química, ¿qué debe tenerse en cuenta sobre las cargas en la fórmula de un compuesto iónico?
+
+- A. Que las cargas del catión y el anión no se muestran en la fórmula
+- B. Que las cargas siempre se escriben como subíndices
+- C. Que solo se muestra la carga del catión
+- D. Que las cargas se escriben antes del símbolo del elemento
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 56
+**Subtema:** fórmulas químicas · compuestos iónicos
+
+Tenga en cuenta que las cargas del catión y el anión no se muestran en la fórmula de un compuesto iónico.
+
+### 80
+
+En relación con el libro de Química, ¿qué condición debe cumplirse para que los compuestos iónicos sean eléctricamente neutros?
+
+- A. La suma de las cargas del catión y el anión en cada unidad de fórmula debe ser cero
+- B. El número de cationes debe superar al de aniones
+- C. Las cargas del catión y del anión deben ser siempre numéricamente iguales
+- D. El subíndice de cada ion debe ser 1
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 57
+**Subtema:** fórmulas químicas · compuestos iónicos
+
+Para que los compuestos iónicos sean eléctricamente neutros, la suma de las cargas del catión y el anión en cada unidad de fórmula debe ser cero.
+
+### 81
+
+De acuerdo con el libro de Química, cuando las cargas del catión y el anión son numéricamente diferentes, ¿qué regla se aplica para que la fórmula sea eléctricamente neutra?
+
+- A. El subíndice del catión es numéricamente igual a la carga del anión, y el subíndice del anión es numéricamente igual a la carga del catión
+- B. El subíndice de cada ion es numéricamente igual a su propia carga
+- C. Se suman las cargas y el resultado es el subíndice del anión
+- D. Se multiplican las cargas y el producto es el subíndice del catión
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 57
+**Subtema:** fórmulas químicas · compuestos iónicos
+
+Aplicamos la siguiente regla para hacer que la fórmula sea eléctricamente neutra: el subíndice del catión es numéricamente igual a la carga del anión, y el subíndice del anión es numéricamente igual a la carga del catión.
+
+### 82
+
+De conformidad con el libro de Química, ¿qué ocurre cuando las cargas del catión y del anión son numéricamente iguales?
+
+- A. No se necesitan subíndices
+- B. Se duplican los subíndices de ambos iones
+- C. Se escribe el subíndice 2 en el anión
+- D. La fórmula no puede ser eléctricamente neutra
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 57
+**Subtema:** fórmulas químicas · compuestos iónicos
+
+Si las cargas son numéricamente iguales, entonces no se necesitan subíndices.
+
+---
+
+**Reactivos en este archivo:** 82
