@@ -81,7 +81,21 @@ la pág. 194: son ejercicios resueltos. Tampoco se citan las ecuaciones (5.11) y
 (5.12), donde la traducción convirtió los símbolos en palabras ("norte" por *n*,
 "metro" por *m*, "re" por *d* y "PAGS" por *P*).
 
-**Pendiente:** los subtemas **5.5** a **5.8**.
+**5.5 Estequiometría de gases (págs. 195–197): cerrado, y es corto a propósito.**
+El subtema entero son **tres párrafos de teoría y cinco ejemplos resueltos**
+(5.11, 5.12 y 5.13, más la "Revisión de conceptos" de la pág. 197). Como el
+examen cultural es teórico, de este subtema salen sólo **3 reactivos**: los que
+cubren esos tres párrafos. No es un descuido — es todo lo que hay de teoría.
+Tampoco se cita la **Figura 5.13**, donde la traducción convirtió "moles" en
+**"lunares"** ("lunares de reactivo", "lunares de producto").
+
+**5.6 Ley de Dalton de las presiones parciales (págs. 197–202): cerrado.** Qué son
+las presiones parciales, la ley de Dalton, las propiedades de la fracción molar,
+cómo se miden las presiones parciales y la recolección de un gas sobre agua con
+la presión de vapor del agua. **No** se sacan reactivos de los Ejemplos 5.14 y
+5.15 ni de la "Revisión de conceptos y hechos" de la pág. 202.
+
+**Pendiente:** los subtemas **5.7** y **5.8**.
 
 ## Tablas y figuras que NO se citan — la traducción las destrozó
 
@@ -91,6 +105,19 @@ la pág. 194: son ejercicios resueltos. Tampoco se citan las ecuaciones (5.11) y
 | **Tabla 5.1** (pág. 176) | La columna de elementos trae "el (helio)" por He, "no (neón)" por Ne y "Vehículo (xenón)" por Xe. Los compuestos sí están limpios, y de ahí salen los reactivos 12 y 13. |
 | **Figura 5.4** (pág. 180), los manómetros | "Aspiradora" donde el original dice *Vacuum* (vacío). |
 | **Tabla 5.2** (pág. 181) | Los volúmenes vienen en notación científica sin superíndice ("1,09 × 103"). |
+| **Figura 5.13** (pág. 195) | "Moles" quedó traducido como **"lunares"**: "lunares de reactivo", "lunares de producto". |
+| **Cuadro 5.3** (pág. 201) | El encabezado quedó descuadrado ("Temperatura Presión (°C) (mmHg)") y a la fila de los 65 °C se le borró la temperatura. Las cifras de presión sí están bien; el dato de los 100 °C se cita desde el pie de la figura 5.16, que está limpio. |
+| **Figuras 5.17 y 5.18** (pág. 206) | "Él (4,003 g/mol)" por He, y "helicóptero con hendidura giratoria" donde el original dice *chopper with rotating slit* (el disco interruptor). |
+
+## Páginas que quedaron SIN TRADUCIR (en inglés)
+
+Igual que en los capítulos 2 y 24, este PDF dejó hojas sueltas en inglés. **Sólo
+se cita texto en español**, así que de estas páginas no sale ningún reactivo:
+
+| Página impresa | Qué contiene |
+|---|---|
+| **198** | La deducción de la ley de Dalton y **la definición de fracción molar**. Por eso el reactivo 132 va sobre las propiedades de la fracción molar, que sí están en español en la pág. 199. |
+| **202–203** | El ensayo "Chemistry in Action · Scuba Diving and the Gas Laws" completo, la "Review of Concepts & Facts" del 5.6 y **el arranque del subtema 5.7** (energía, trabajo y la presentación de Boltzmann y Maxwell). El 5.7 se retoma en español en la pág. 204, y de ahí salen sus reactivos. |
 
 ## Avisos al aspirante — la traducción cambia palabras
 
@@ -2131,10 +2158,388 @@ De conformidad con el libro de Química, ¿qué se puede determinar por el proce
 
 Tenga en cuenta que podemos determinar la masa molar de un compuesto gaseoso por este procedimiento sin conocer su fórmula química.
 
+## Sub-lote 5 · 5.5 Estequiometría de gases (págs. 195–197)
+
+### 124
+
+De acuerdo con el libro de Química, ¿qué relaciones se usaron en el capítulo 3 para resolver problemas de estequiometría?
+
+- A. Las relaciones entre cantidades (en moles) y masas (en gramos) de reactivos y productos
+- B. Las relaciones entre presión y volumen de reactivos y productos
+- C. Las relaciones entre temperatura y densidad de reactivos y productos
+- D. Las relaciones entre el color y el olor de reactivos y productos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 195
+**Tema:** 5.5 · estequiometría de gases
+**Subtema:** Química · estequiometría de gases
+
+En el Capítulo 3 usamos relaciones entre cantidades (en moles) y masas (en gramos) de reactivos y productos para resolver problemas de estequiometría.
+
+### 125
+
+De conformidad con el libro de Química, ¿qué relaciones podemos usar además cuando los reactivos o los productos son gases?
+
+- A. Las relaciones entre cantidades (moles, n) y volumen (V)
+- B. Las relaciones entre masa (gramos) y densidad
+- C. Las relaciones entre presión atmosférica y altitud
+- D. Las relaciones entre color y masa molar
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 195
+**Tema:** 5.5 · estequiometría de gases
+**Subtema:** Química · estequiometría de gases
+
+Cuando los reactivos y/o productos son gases, también podemos usar las relaciones entre cantidades (moles, n) y volumen (V) para resolver tales problemas.
+
+### 126
+
+En relación con el libro de Química, ¿cuál es la clave para resolver problemas de estequiometría?
+
+- A. La relación molar, independientemente del estado físico de los reactivos y productos
+- B. La relación de masas, sólo cuando los reactivos son sólidos
+- C. La relación de volúmenes, sólo cuando los reactivos son gases
+- D. La presión total de la mezcla de reactivos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 195
+**Tema:** 5.5 · estequiometría de gases
+**Subtema:** Química · estequiometría de gases
+
+La clave para resolver problemas de estequiometría es la relación molar, independientemente del estado físico de los reactivos y productos.
+
+## Sub-lote 6 · 5.6 Ley de Dalton de las presiones parciales (págs. 197–202)
+
+### 127
+
+De acuerdo con el libro de Química, ¿qué son las presiones parciales?
+
+- A. Las presiones de los componentes individuales del gas en la mezcla
+- B. La presión total que ejerce una mezcla de gases
+- C. Las presiones de un gas puro medidas a distintas temperaturas
+- D. Las presiones que ejerce el vapor de agua sobre un líquido
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 197
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · presiones parciales
+
+En este caso, y en todos los casos que involucran mezclas de gases, la presión total del gas está relacionada con las presiones parciales, es decir, las presiones de los componentes individuales del gas en la mezcla.
+
+### 128
+
+De conformidad con el libro de Química, ¿en qué año formuló Dalton su ley de las presiones parciales?
+
+- A. En 1801
+- B. En 1811
+- C. En 1848
+- D. En 1661
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 197
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · ley de Dalton
+
+En 1801, Dalton formuló una ley, ahora conocida como la ley de presiones parciales de Dalton.
+
+> Par que se presta a confusión: Dalton formuló su ley en **1801** (reactivo 128)
+> y Avogadro publicó su hipótesis en **1811** (reactivo 86).
+
+### 129
+
+En relación con el libro de Química, ¿qué establece la ley de presiones parciales de Dalton?
+
+- A. Que la presión total de una mezcla de gases es solo la suma de las presiones que ejercería cada gas si estuviera presente solo
+- B. Que la presión total de una mezcla de gases es el producto de las presiones que ejercería cada gas si estuviera presente solo
+- C. Que la presión total de una mezcla de gases es igual a la presión del componente más abundante
+- D. Que la presión total de una mezcla de gases depende de la naturaleza de las moléculas que la componen
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 197
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · ley de Dalton
+
+La ley de presiones parciales de Dalton establece que la presión total de una mezcla de gases es solo la suma de las presiones que ejercería cada gas si estuviera presente solo.
+
+### 130
+
+De acuerdo con el libro de Química, ¿en qué se habían concentrado los apartados anteriores frente a lo que estudian los experimentos reales?
+
+- A. En el comportamiento de las sustancias gaseosas puras, mientras que los estudios experimentales involucran muy a menudo mezclas de gases
+- B. En el comportamiento de las mezclas de gases, mientras que los estudios experimentales involucran gases puros
+- C. En el comportamiento de los sólidos y los líquidos
+- D. En el comportamiento de los gases nobles únicamente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 197
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · mezclas de gases
+
+Hasta ahora nos hemos concentrado en el comportamiento de las sustancias gaseosas puras, pero los estudios experimentales involucran muy a menudo mezclas de gases.
+
+### 131
+
+De conformidad con el libro de Química, ¿qué son ni y nT en la expresión de la fracción molar?
+
+- A. El número de moles del componente i y el número total de moles presentes, respectivamente
+- B. El número total de moles presentes y el número de moles del componente i, respectivamente
+- C. La presión inicial y la presión total de la mezcla, respectivamente
+- D. El volumen inicial y el volumen total de la mezcla, respectivamente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 199
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · fracción molar
+
+Donde ni y nT son el número de moles del componente i y el número total de moles presentes, respectivamente.
+
+### 132
+
+En relación con el libro de Química, ¿cómo es la fracción molar como cantidad?
+
+- A. Es una cantidad adimensional y siempre es menor que 1
+- B. Es una cantidad que se mide en moles y siempre es mayor que 1
+- C. Es una cantidad que se mide en atmósferas y siempre es igual a 1
+- D. Es una cantidad adimensional que siempre es mayor que 1
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 199
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · fracción molar
+
+La fracción molar es una cantidad adimensional y siempre es menor que 1.
+
+> La **definición** de fracción molar cae en la pág. 198, que este PDF dejó **sin
+> traducir, en inglés**; por eso el reactivo va sobre sus propiedades, que sí
+> están en español en la pág. 199.
+
+### 133
+
+De acuerdo con el libro de Química, ¿a cuánto debe ser igual la suma de las fracciones molares de una mezcla de gases?
+
+- A. A 1
+- B. A 0
+- C. A la presión total de la mezcla
+- D. Al número total de moles presentes
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 199
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · fracción molar
+
+Tenga en cuenta que la suma de las fracciones molares de una mezcla de gases debe ser igual a 1.
+
+### 134
+
+De conformidad con el libro de Química, ¿qué puede medir un manómetro en una mezcla gaseosa?
+
+- A. Sólo la presión total de la mezcla
+- B. Sólo la presión parcial de cada componente
+- C. La fracción molar de cada componente
+- D. El número total de moles presentes
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 199
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · medición de presiones parciales
+
+Un manómetro puede medir sólo la presión total de una mezcla gaseosa.
+
+### 135
+
+En relación con el libro de Química, ¿cuál es el método más directo para medir presiones parciales?
+
+- A. Usar un espectrómetro de masas
+- B. Usar un manómetro de tubo abierto
+- C. Usar un barómetro de mercurio
+- D. Recolectar el gas sobre agua
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 199
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · medición de presiones parciales
+
+El método más directo para medir presiones parciales es usando un espectrómetro de masas.
+
+### 136
+
+De acuerdo con el libro de Química, ¿a qué son directamente proporcionales las intensidades relativas de los picos en un espectro de masas?
+
+- A. A las cantidades y, por lo tanto, a las fracciones molares de los gases presentes
+- B. A la presión total de la mezcla únicamente
+- C. A la temperatura absoluta de la mezcla
+- D. Al volumen del recipiente que contiene la mezcla
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 199
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · medición de presiones parciales
+
+Las intensidades relativas de los picos en un espectro de masas son directamente proporcionales a las cantidades y, por lo tanto, a las fracciones molares de los gases presentes.
+
+### 137
+
+De conformidad con el libro de Química, ¿en qué consiste una aplicación importante de la ley de presiones parciales de Dalton?
+
+- A. En calcular la cantidad de gas recolectado sobre el agua
+- B. En calcular la masa molar de un compuesto desconocido
+- C. En medir la presión atmosférica con un barómetro
+- D. En determinar el volumen molar de un gas en STP
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 200
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · recolección de gas sobre agua
+
+Una aplicación importante de la ley de presiones parciales de Dalton consiste en calcular la cantidad de gas recolectado sobre el agua.
+
+### 138
+
+En relación con el libro de Química, ¿de dónde se obtienen generalmente los gases que se utilizan comúnmente en el laboratorio?
+
+- A. De cilindros de gas a presión
+- B. De la descomposición del clorato de potasio
+- C. Del aire atmosférico filtrado
+- D. De la recolección sobre agua
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 200
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · recolección de gas sobre agua
+
+Los gases que se utilizan comúnmente en el laboratorio se obtienen generalmente de cilindros de gas a presión, pero si ocasionalmente se necesita una pequeña cantidad de un determinado gas, puede ser más conveniente prepararlo químicamente.
+
+### 139
+
+De acuerdo con el libro de Química, ¿en qué se descompone el clorato de potasio (KClO3) cuando se calienta?
+
+- A. En KCl y O2
+- B. En KCl y H2O
+- C. En K y Cl2
+- D. En KOH y O3
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 200
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · recolección de gas sobre agua
+
+Por ejemplo, cuando se calienta el clorato de potasio (KClO3), se descompone en KCl y O2.
+
+### 140
+
+De conformidad con el libro de Química, ¿qué sustancia acelera la reacción al calentar clorato de potasio para generar oxígeno?
+
+- A. Una pequeña cantidad de dióxido de manganeso (MnO2)
+- B. Una pequeña cantidad de cloruro de potasio (KCl)
+- C. Una pequeña cantidad de vapor de agua
+- D. Una pequeña cantidad de dióxido de carbono (CO2)
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 200
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · recolección de gas sobre agua
+
+El oxígeno generado al calentar clorato de potasio (KClO3) en presencia de una pequeña cantidad de dióxido de manganeso (MnO2), que acelera la reacción, se burbujea a través del agua y se recoge en una botella.
+
+### 141
+
+En relación con el libro de Química, ¿cómo está la botella invertida al inicio de la recolección de oxígeno sobre agua?
+
+- A. Completamente llena de agua
+- B. Completamente llena de oxígeno gaseoso
+- C. Completamente vacía
+- D. Llena hasta la mitad de agua y hasta la mitad de aire
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 200
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · recolección de gas sobre agua
+
+Inicialmente, la botella invertida está completamente llena de agua.
+
+### 142
+
+De acuerdo con el libro de Química, ¿en qué suposición se basa el método de recolectar un gas sobre agua?
+
+- A. En que el gas no reacciona con el agua y que no es apreciablemente soluble en ella
+- B. En que el gas reacciona con el agua para formar un producto medible
+- C. En que el gas es apreciablemente soluble en el agua
+- D. En que el gas tiene la misma densidad que el agua
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 201
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · recolección de gas sobre agua
+
+Este método de recolectar un gas se basa en la suposición de que el gas no reacciona con el agua y que no es apreciablemente soluble en ella.
+
+### 143
+
+De conformidad con el libro de Química, ¿para qué gas no son válidas las suposiciones del método de recolección sobre agua?
+
+- A. Para el NH3, que se disuelve fácilmente en agua
+- B. Para el O2, que se disuelve fácilmente en agua
+- C. Para el He, que reacciona con el agua
+- D. Para el N2, que reacciona con el agua
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 201
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · recolección de gas sobre agua
+
+Estas suposiciones son válidas para el oxígeno gaseoso, pero no para gases como el NH3, que se disuelve fácilmente en agua.
+
+### 144
+
+En relación con el libro de Química, ¿por qué el oxígeno gaseoso recogido sobre agua no es puro?
+
+- A. Porque el vapor de agua también está presente en la botella
+- B. Porque el oxígeno reacciona con el agua de la botella
+- C. Porque parte del oxígeno se disuelve en el agua
+- D. Porque el clorato de potasio pasa a la botella
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 201
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · recolección de gas sobre agua
+
+Sin embargo, el oxígeno gaseoso recogido de esta manera no es puro, porque el vapor de agua también está presente en la botella.
+
+### 145
+
+De acuerdo con el libro de Química, ¿a qué es igual la presión total del gas recogido sobre agua?
+
+- A. A la suma de las presiones ejercidas por el oxígeno gaseoso y el vapor de agua
+- B. A la presión ejercida únicamente por el oxígeno gaseoso
+- C. A la presión ejercida únicamente por el vapor de agua
+- D. A la diferencia entre la presión del oxígeno y la del vapor de agua
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 201
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · recolección de gas sobre agua
+
+La presión total del gas es igual a la suma de las presiones ejercidas por el oxígeno gaseoso y el vapor de agua.
+
+### 146
+
+De conformidad con el libro de Química, ¿cuál es la presión del vapor de agua en el punto de ebullición del agua?
+
+- A. 760 mmHg, que es exactamente igual a 1 atm
+- B. 22,4 mmHg, que es exactamente igual a 1 atm
+- C. 4,58 mmHg, que es exactamente igual a 1 atm
+- D. 1 mmHg, que es exactamente igual a 1 atm
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 201
+**Tema:** 5.6 · ley de Dalton de las presiones parciales
+**Subtema:** Química · presión de vapor de agua
+
+Tenga en cuenta que en el punto de ebullición del agua (100 °C) la presión es de 760 mmHg, que es exactamente igual a 1 atm.
+
 ---
 
-**Pendiente:** los subtemas **5.5** (estequiometría de gases), **5.6** (ley de
-Dalton de las presiones parciales), **5.7** (la teoría cinética molecular de los
-gases) y **5.8** (desviación del comportamiento ideal).
+**Pendiente:** los subtemas **5.7** (la teoría cinética molecular de los gases) y
+**5.8** (desviación del comportamiento ideal).
 
-**Reactivos en este archivo:** 123
+**Reactivos en este archivo:** 146
