@@ -74,9 +74,17 @@ grandes, con los 2 m2 de superficie corporal frente a los 100 m2 del pulmón; la
 evaginadas frente a los pulmones invaginados) y la fig. 35-3 con las cinco estrategias
 (piel de los anélidos, branquias externas de poliquetos y anfibios, branquias internas de
 los peces, tráqueas y espiráculos de los artrópodos, y pulmones de vertebrados y caracoles
-terrestres).
+terrestres). De la **página 831** se cubre el recorrido completo de los gases (el epitelio
+delgado que hace eficiente la difusión, el paso del O2 al endotelio capilar y la baja PpO2
+de la sangre entrante que sostiene el gradiente, la llegada del O2 al líquido intersticial
+y a las células, el camino inverso del CO2, y la excepción del sistema traqueal de los
+artrópodos, sin vínculo con el circulatorio) y "Las branquias de los vertebrados" (su
+origen alimentario y el caso actual de *Branchiostoma*, el paso a la función respiratoria,
+las laminillas secundarias, la ventilación por el piso de la boca y el opérculo, los peces
+de natación rápida que pueden asfixiarse en un acuario, y el mecanismo de contracorriente
+de la fig. 35-4, con la hemoglobina como responsable de la capacidad de transporte).
 
-**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 831 (hoja 877) en adelante (el resto de los procesos por los que el O2 alcanza los tejidos y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 832 (hoja 878) en adelante (el resto del capítulo: los pulmones y la respiración de los vertebrados terrestres, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -829,6 +837,237 @@ De acuerdo con el libro de Biología, según la figura 35-3e, ¿en qué animales
 
 Los pulmones, presentes en todos los vertebrados que respiran aire y en algunos invertebrados, como los caracoles terrestres, son sacos altamente vascularizados en donde se produce la hematosis. La ventilación provoca el flujo de aire desde los pulmones y hacia ellos.
 
+## Sub-lote 7 · Cómo el O2 alcanza los tejidos y cómo sale el CO2 (p. 831)
+
+### 49
+
+De acuerdo con el libro de Biología, ¿bajo qué condición es eficiente la difusión en un órgano respiratorio?
+
+- A. Siempre y cuando la distancia sea corta; es decir, que el epitelio sea delgado, como efectivamente lo es en todo órgano respiratorio
+- B. Siempre y cuando la distancia sea larga y el epitelio sea grueso
+- C. Únicamente si el epitelio está seco
+- D. Solo si el epitelio carece de capilares sanguíneos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · difusión y epitelio
+
+La difusión es eficiente, siempre y cuando la distancia sea corta; es decir, que el epitelio sea delgado, como efectivamente lo es en todo órgano respiratorio.
+
+### 50
+
+De acuerdo con el libro de Biología, ¿qué presión parcial de O2 posee la sangre que ingresa en el órgano respiratorio y para qué sirve?
+
+- A. Una presión parcial de O2 relativamente baja, lo cual mantiene el gradiente necesario para que este gas ingrese de forma permanente desde el ambiente
+- B. Una presión parcial de O2 muy alta, lo cual acelera la salida del gas hacia el ambiente
+- C. Una presión parcial de O2 idéntica a la del ambiente, lo cual detiene la difusión
+- D. Una presión parcial de O2 nula, lo cual impide todo intercambio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · gradiente de oxígeno
+
+La sangre que ingresa en el órgano respiratorio posee una presión parcial de O2 relativamente baja, lo cual mantiene el gradiente necesario para que este gas ingrese de forma permanente desde el ambiente.
+
+### 51
+
+De acuerdo con el libro de Biología, desde la sangre de los capilares que irrigan los tejidos, ¿qué recorrido sigue el O2?
+
+- A. Difunde hacia el líquido intersticial y desde allí hacia las células, que de forma permanente lo están utilizando para la respiración celular
+- B. Difunde directamente desde los capilares hacia el ambiente exterior
+- C. Es transportado por el sistema traqueal hasta cada tejido
+- D. Permanece en los capilares sin salir hacia los tejidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · llegada del oxígeno a las células
+
+Desde la sangre de los capilares que irrigan los distintos tejidos, el O2 difunde hacia el líquido intersticial y desde allí hacia las células que, de forma permanente, lo están utilizando para la respiración celular.
+
+### 52
+
+De acuerdo con el libro de Biología, ¿qué camino sigue el CO2 producido por las células?
+
+- A. Sigue el camino inverso del O2: difunde hacia la sangre, es transportado al órgano respiratorio y desde allí difunde hacia el ambiente, al atravesar el epitelio respiratorio a favor de su gradiente de concentración
+- B. Sigue el mismo camino que el O2, desde el ambiente hacia las células
+- C. Permanece almacenado de forma permanente en el líquido intersticial
+- D. Es eliminado directamente por los capilares, sin pasar por el órgano respiratorio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · salida del dióxido de carbono
+
+El CO2 que se produce como consecuencia de este proceso sigue el camino inverso del O2; es decir, difunde hacia la sangre y es transportado al órgano respiratorio, desde donde se difundirá hacia el ambiente, al atravesar el epitelio respiratorio a favor de su gradiente de concentración.
+
+### 53
+
+De acuerdo con el libro de Biología, ¿cuál es la excepción notoria a este recorrido, y en qué consiste?
+
+- A. Las tráqueas de los insectos y otros artrópodos: no hay vinculación entre los sistemas respiratorio y circulatorio, y el O2 alcanza los tejidos de modo directo mediante las ramas cada vez más finas y arborizadas del sistema traqueal
+- B. Las branquias de los peces: el O2 llega a los tejidos sin pasar por la sangre
+- C. Los pulmones de los caracoles terrestres: el O2 se transporta por el líquido intersticial únicamente
+- D. La piel de los anélidos: el O2 no llega nunca a los tejidos profundos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · sistema traqueal
+
+Una excepción notoria la constituyen las tráqueas de los insectos y otros artrópodos. En este caso, no hay vinculación entre los sistemas respiratorio y circulatorio; el O2 alcanza los tejidos, de modo directo, mediante las ramas cada vez más finas y más arborizadas del sistema traqueal.
+
+## Sub-lote 8 · Las branquias de los vertebrados y el mecanismo de contracorriente (fig. 35-4, p. 831)
+
+### 54
+
+De acuerdo con el libro de Biología, ¿qué función se considera que desempeñaban en su origen evolutivo las branquias de los vertebrados?
+
+- A. Una función alimentaria: el agua ingresaba por la boca y era expulsada a través de las hendiduras branquiales, y en ese proceso las partículas de materia orgánica eran extraídas del flujo de agua
+- B. Una función respiratoria exclusiva, desde su primer origen
+- C. Una función de sostén del esqueleto de la cabeza
+- D. Una función de regulación de la temperatura corporal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · origen de las branquias
+
+Se considera que, en su origen evolutivo, las branquias de los vertebrados desempeñaban una función alimentaria. El agua ingresaba por la boca y era expulsada a través de las hendiduras branquiales. En este proceso, las partículas de materia orgánica eran extraídas del flujo de agua.
+
+### 55
+
+De acuerdo con el libro de Biología, ¿qué organismo actual se alimenta de esa manera?
+
+- A. El cefalocordado *Branchiostoma*
+- B. El atún, un pez óseo de natación rápida
+- C. El caracol terrestre
+- D. La salamandra, un anfibio con branquias externas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · Branchiostoma
+
+Entre los organismos actuales, el cefalocordado *Branchiostoma* se alimenta de esta manera.
+
+### 56
+
+De acuerdo con el libro de Biología, ¿qué nueva función habrían pasado a cumplir las branquias de algunos animales en el curso de la historia evolutiva?
+
+- A. El intercambio respiratorio
+- B. La digestión de las partículas de materia orgánica
+- C. La producción de hemoglobina
+- D. La regulación del ritmo cardíaco
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · evolución de las branquias
+
+En el curso de la historia evolutiva, las branquias de algunos animales habrían pasado a cumplir una nueva función: el intercambio respiratorio.
+
+### 57
+
+De acuerdo con el libro de Biología, ¿qué son las laminillas secundarias de las branquias de los peces actuales y con qué las compara el libro?
+
+- A. Son expansiones que se disponen entre sí en paralelo, como las hojas de un libro, cuya superficie conjunta es elevada, lo cual facilita el intercambio gaseoso
+- B. Son tubos ramificados que penetran en cada tejido, como las raíces de un árbol
+- C. Son sacos invaginados y vascularizados, como pequeños globos
+- D. Son orificios que comunican al exterior, como ventanas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · laminillas secundarias
+
+Los peces actuales poseen branquias con laminillas secundarias (expansiones que se disponen entre sí en paralelo, como las hojas de un libro), cuya superficie conjunta es elevada, lo cual facilita el intercambio gaseoso.
+
+### 58
+
+De acuerdo con el libro de Biología, en la mayoría de los peces óseos, ¿cómo es bombeada el agua que lleva O2 disuelto?
+
+- A. Al interior de la boca por movimientos rítmicos del piso de la boca y del opérculo que cubre las branquias, y fluye hacia afuera a través de ellas
+- B. Por contracciones del corazón que impulsan el agua hacia las branquias
+- C. Por los espiráculos, que se abren y cierran de forma rítmica
+- D. Por la dilatación de los pulmones, que aspiran el agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · ventilación branquial
+
+En la mayoría de los peces óseos, el agua —que lleva O2 disuelto— es bombeada al interior de la boca por movimientos rítmicos del piso de la boca y del opérculo que cubre las branquias y fluye hacia afuera a través de ellas.
+
+### 59
+
+De acuerdo con el libro de Biología, ¿cómo obtienen el O2 los peces de natación rápida y continua, como la caballa o los atunes, y qué riesgo corren?
+
+- A. Mantienen sus bocas abiertas cuando nadan, y dependen tanto de ese método que pueden asfixiarse con facilidad si sus movimientos están limitados, como en un acuario
+- B. Cierran sus bocas y bombean el agua con el opérculo, sin riesgo alguno
+- C. Salen a la superficie a tomar aire, y se ahogan si no pueden hacerlo
+- D. Obtienen el O2 por la piel, y se asfixian si el agua está fría
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · peces de natación rápida
+
+Los peces de natación rápida y continua, como la caballa o los atunes, pueden obtener suficiente O2 al mantener sus bocas abiertas cuando nadan. Estos peces dependen tanto de este método de respiración que, si se mantienen en un acuario o en cualquier otro espacio en donde sus movimientos estén limitados, pueden asfixiarse con facilidad.
+
+### 60
+
+De acuerdo con el libro de Biología, en las branquias de los peces, ¿en qué sentido circula la sangre de los capilares respecto del agua?
+
+- A. En un sentido contrario al del agua que atraviesa la branquia por el espacio existente entre las laminillas (disposición en contracorriente)
+- B. En el mismo sentido que el agua que atraviesa la branquia
+- C. En sentido perpendicular al del agua
+- D. La sangre permanece inmóvil mientras el agua circula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · contracorriente
+
+En las branquias de los peces, la sangre de los capilares que irrigan el interior de las laminillas branquiales circula en un sentido contrario al del agua que atraviesa la branquia por el espacio existente entre las laminillas.
+
+### 61
+
+De acuerdo con el libro de Biología, según la figura 35-4c, en el intercambio por contracorriente, ¿qué relación hay entre la presión de O2 del agua y la de la sangre?
+
+- A. El agua siempre tiene mayor presión de O2 que la sangre y, por eso, el O2 fluye desde el agua hacia la sangre a lo largo de todo el sistema de intercambio
+- B. La sangre siempre tiene mayor presión de O2 que el agua, y el O2 fluye hacia el agua
+- C. Ambas tienen la misma presión de O2, por lo que no hay flujo neto
+- D. La presión de O2 del agua solo supera a la de la sangre en el primer tramo del recorrido
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · contracorriente
+
+En el intercambio por contracorriente, el agua siempre tiene mayor presión de O2 que la sangre y, por eso, el O2 fluye desde el agua hacia la sangre, a lo largo de todo el sistema de intercambio.
+
+> Esa es justamente la ventaja del sistema: como el agua y la sangre corren en sentidos opuestos, el gradiente **se mantiene a lo largo de todo el recorrido** y no se agota a mitad de camino.
+
+### 62
+
+De acuerdo con el libro de Biología, según la figura 35-4, ¿qué resultado da la disposición en contracorriente?
+
+- A. Una transferencia de O2 extremadamente eficiente
+- B. Una transferencia de O2 muy pobre, que se compensa con el volumen de sangre
+- C. La eliminación completa del CO2 de la sangre
+- D. La detención del flujo de agua entre las laminillas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · contracorriente
+
+Esta disposición en contracorriente da como resultado una transferencia de O2 extremadamente eficiente.
+
+### 63
+
+De acuerdo con el libro de Biología, según la figura 35-4, ¿qué se necesita para abastecer de O2 al torrente sanguíneo y a qué se debe su elevada capacidad de transporte?
+
+- A. Se necesitan importantes volúmenes de agua, y la elevada capacidad de transporte de la sangre se debe a la hemoglobina, que une oxígeno
+- B. Se necesitan volúmenes muy pequeños de agua, y la capacidad de transporte se debe al plasma
+- C. Se necesita aire en lugar de agua, y la capacidad de transporte se debe a la mioglobina
+- D. No se necesita ningún volumen de agua, porque el O2 pasa directamente del aire a la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 831
+**Subtema:** respiración · hemoglobina
+
+Se necesitan importantes volúmenes de agua para abastecer de O2 al torrente sanguíneo, cuya capacidad de transporte es elevada debido a la hemoglobina, que une oxígeno.
+
 ---
 
-**Reactivos en este archivo:** 48
+**Reactivos en este archivo:** 63
