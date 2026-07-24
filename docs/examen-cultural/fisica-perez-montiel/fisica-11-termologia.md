@@ -84,7 +84,7 @@ De acuerdo con el libro de Física, ¿cómo se interpreta actualmente el calor?
 - D. Como la magnitud física que indica qué tan caliente o fría está una sustancia.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 332
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 332
 **Subtema:** Física · Calor y temperatura
 
 <Actualmente, se interpreta al calor como una energía en tránsito que fluye de cuerpos a mayor temperatura a los de menor temperatura.>
@@ -99,7 +99,7 @@ De acuerdo con el libro de Física, ¿qué es la temperatura?
 - D. La suma de las energías cinética y potencial de las moléculas de un cuerpo.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 332
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 332
 **Subtema:** Física · Calor y temperatura
 
 <La temperatura es una magnitud física que indica qué tan caliente o fría está una sustancia y se mide con un termómetro.>
@@ -114,7 +114,7 @@ De acuerdo con el libro de Física, ¿a qué se denomina calor?
 - D. Al estado de agitación o movimiento desordenado de las moléculas.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 334
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 334
 **Subtema:** Física · Calor y temperatura
 
 <Se denomina calor a la transferencia de energía de una parte a otra de un cuerpo o entre distintos cuerpos que se encuentran a diferente temperatura.>
@@ -129,7 +129,7 @@ De acuerdo con el libro de Física, el calor es energía en tránsito y siempre 
 - D. De los cuerpos de menor volumen a los de mayor volumen.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 334
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 334
 **Subtema:** Física · Calor y temperatura
 
 <El calor es energía en tránsito y siempre fluye de cuerpos de mayor temperatura a los de menor temperatura.>
@@ -144,7 +144,7 @@ De acuerdo con el libro de Física, la temperatura de un cuerpo o un sistema es 
 - D. Depende de la cantidad de calor cedida al ambiente.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 334
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 334
 **Subtema:** Física · Calor y temperatura
 
 <La temperatura de un cuerpo o un sistema es una propiedad intensiva, ya que no depende de la cantidad de materia ni de su naturaleza, sino del ambiente en el que se encuentren.>
@@ -159,7 +159,7 @@ De acuerdo con el libro de Física, ¿de qué depende la temperatura?
 - D. De la cantidad de calor que el cuerpo ha cedido al ambiente.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 334
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 334
 **Subtema:** Física · Calor y temperatura
 
 <La temperatura sí depende del estado de agitación o movimiento desordenado de las moléculas, o sea, del valor de la energía cinética media o promedio de las moléculas del cuerpo o del sistema.>
@@ -174,7 +174,7 @@ De acuerdo con el libro de Física, nuestro organismo no detecta la temperatura,
 - D. La energía interna de las sustancias.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 334
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 334
 **Subtema:** Física · Calor y temperatura
 
 <Es muy importante recordar que nuestro organismo no detecta la temperatura, sino pérdidas o ganancias de calor.>
@@ -189,7 +189,7 @@ De acuerdo con el libro de Física, ¿cómo se define la energía interna de un 
 - D. Como la energía en tránsito que fluye de los cuerpos calientes a los fríos.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 335
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 335
 **Subtema:** Física · Calor y temperatura
 
 <La energía interna de un cuerpo o sustancia se define como la suma de las energías cinética y potencial de todas las moléculas individuales que lo constituyen.>
@@ -204,7 +204,7 @@ De acuerdo con el libro de Física, la temperatura denominada cero absoluto corr
 - D. Cero grados Fahrenheit o 0 °C.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 334
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 334
 **Subtema:** Física · Calor y temperatura
 
 <Se considera que sus moléculas no tendrían energía cinética traslacional a la temperatura denominada cero absoluto y que corresponde a cero Kelvin o –273 °C.>
@@ -223,7 +223,7 @@ De acuerdo con el libro de Física, ¿qué instrumento se utiliza para medir la 
 - D. El manómetro.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 335
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 335
 **Subtema:** Física · Medida de la temperatura
 
 <Para medir la temperatura se utiliza el termómetro.>
@@ -238,7 +238,7 @@ De acuerdo con el libro de Física, se dice que dos cuerpos están en equilibrio
 - D. Ambos cuerpos se encuentran a la temperatura del cero absoluto.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 335
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 335
 **Subtema:** Física · Medida de la temperatura
 
 <[...] cuando se ponen en contacto dos cuerpos que están a distinta temperatura, después de cierto tiempo alcanzan la misma temperatura, es decir, están en equilibrio térmico.>
@@ -253,7 +253,7 @@ De acuerdo con el libro de Física, ¿qué fenómeno se utiliza en la construcci
 - D. La radiación de ondas electromagnéticas.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 335
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 335
 **Subtema:** Física · Medida de la temperatura
 
 <El fenómeno de la dilatación de los fluidos se utiliza en la construcción de los termómetros.>
@@ -268,7 +268,7 @@ De acuerdo con el libro de Física, ¿en qué se basa el funcionamiento de los t
 - D. En la propagación del calor por ondas electromagnéticas.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 336
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
 **Subtema:** Física · Medida de la temperatura
 
 <Su funcionamiento se basa en el hecho de que la resistencia eléctrica de un conductor metálico aumenta de manera directamente proporcional al aumento de su temperatura.>
@@ -283,7 +283,7 @@ De acuerdo con el libro de Física, cuando se requiere medir temperaturas menore
 - D. Termómetro de tolueno.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 336
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
 **Subtema:** Física · Medida de la temperatura
 
 <Cuando se requiere medir temperaturas menores de –39 °C hasta de –130 °C se utiliza el termómetro de alcohol.>
@@ -302,7 +302,7 @@ De acuerdo con el libro de Física, ¿quién construyó en 1714 el primer termó
 - D. El francés Jacques Charles.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 336
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
 **Subtema:** Física · Escalas termométricas
 
 <El alemán Gabriel Fahrenheit (1686-1736), soplador de vidrio y fabricante de instrumentos, construyó en 1714 el primer termómetro.>
@@ -317,7 +317,7 @@ De acuerdo con el libro de Física, ¿en qué basó su escala Andrés Celsius?
 - D. En el punto de fusión del mercurio y en el punto de ebullición del alcohol.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 336
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
 **Subtema:** Física · Escalas termométricas
 
 <Andrés Celsius (1701-1744) basó su escala en el punto de fusión del hielo (0 °C) y en el punto de ebullición del agua (100 °C) a la presión de una atmósfera, o sea, 760 mm de Hg, es decir, dividió su escala en 100 partes iguales, cada una de 1 °C.>
@@ -332,7 +332,7 @@ De acuerdo con el libro de Física, en la escala propuesta por William Kelvin el
 - D. La temperatura del cuerpo humano.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 336
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
 **Subtema:** Física · Escalas termométricas
 
 <[...] el inglés William Kelvin (1824-1907) propuso una nueva escala de temperatura, en la cual el cero corresponde a lo que tal vez sea la menor temperatura posible llamada cero absoluto, en esta temperatura la energía cinética de las moléculas es cero.>
@@ -347,7 +347,7 @@ De acuerdo con el libro de Física, el valor de cero grados en la escala de Cels
 - D. –273 K.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 336
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
 **Subtema:** Física · Escalas termométricas
 
 <El tamaño de un grado de la escala Kelvin es igual al de un grado Celsius y el valor de cero grados en la escala de Celsius equivale a 273 K.>
@@ -362,7 +362,7 @@ De acuerdo con el libro de Física, ¿cuál es la escala aceptada por el Sistema
 - D. La escala de mercurio.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 336
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
 **Subtema:** Física · Escalas termométricas
 
 <Cuando la temperatura se da en Kelvin se dice que es absoluta y ésta es la escala aceptada por el Sistema Internacional de Unidades (SI).>
@@ -377,7 +377,7 @@ De acuerdo con el libro de Física, ¿cuál es el límite mínimo de temperatura
 - D. 0 K = 273 °C = 460 °F.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 336
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
 **Subtema:** Física · Escalas termométricas
 
 <Existe un límite mínimo de temperatura: 0 K = –273 °C = –460 °F, pero no hay límite máximo de ella.>
@@ -392,7 +392,7 @@ De acuerdo con el libro de Física, ¿cuál es la expresión para transformar de
 - D. K = (°C – 32) / 1.8.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 337
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 337
 **Subtema:** Física · Escalas termométricas
 
 <1. Para transformar de grados Celsius a Kelvin: K = °C + 273.>
@@ -407,7 +407,7 @@ De acuerdo con el libro de Física, ¿cuál es la expresión para transformar de
 - D. °F = °C + 273.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 337
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 337
 **Subtema:** Física · Escalas termométricas
 
 <3. Para transformar de grados Celsius a grados Fahrenheit: °F = 1.8 °C + 32.>
@@ -422,7 +422,7 @@ De acuerdo con el libro de Física, ¿cuál es la expresión para transformar de
 - D. °C = °F – 273.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 337
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 337
 **Subtema:** Física · Escalas termométricas
 
 <4. Para transformar de grados Fahrenheit a grados Celsius: °C = (°F – 32) / 1.8.>
@@ -437,7 +437,7 @@ De acuerdo con el libro de Física, el tamaño de un grado de la escala Kelvin:
 - D. Es la mitad del de un grado Fahrenheit.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 336
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 336
 **Subtema:** Física · Escalas termométricas
 
 <El tamaño de un grado de la escala Kelvin es igual al de un grado Celsius [...]>
@@ -456,7 +456,7 @@ De acuerdo con el libro de Física, el calor o energía calorífica siempre se p
 - D. Radiación, difusión y conducción.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 343
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 343
 **Subtema:** Física · Propagación del calor
 
 <El calor o energía calorífica siempre se propaga de los cuerpos calientes a los fríos de tres maneras diferentes: a) Conducción. b) Convección. c) Radiación.>
@@ -471,7 +471,7 @@ De acuerdo con el libro de Física, ¿qué es la conducción?
 - D. Es el movimiento de partículas en suspensión originado por los golpes de las moléculas.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 343
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 343
 **Subtema:** Física · Propagación del calor
 
 <La conducción es la forma de propagación del calor a través de un cuerpo sólido, debido al choque entre moléculas.>
@@ -486,7 +486,7 @@ De acuerdo con el libro de Física, ¿qué es la convección?
 - D. Es la resistencia que opone un líquido a fluir.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 344
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 344
 **Subtema:** Física · Propagación del calor
 
 <La convección es la propagación del calor ocasionada por el movimiento de la sustancia caliente.>
@@ -501,7 +501,7 @@ De acuerdo con el libro de Física, ¿qué es la radiación?
 - D. Es la transferencia de calor que sólo ocurre en presencia de un medio material.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 344
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 344
 **Subtema:** Física · Propagación del calor
 
 <La radiación es la propagación del calor por medio de ondas electromagnéticas esparcidas, incluso en el vacío, a una rapidez de aproximadamente 300 mil km/s.>
@@ -516,7 +516,7 @@ De acuerdo con el libro de Física, la radiación propaga el calor a una rapidez
 - D. 30 millones de km/s.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 344
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 344
 **Subtema:** Física · Propagación del calor
 
 <La radiación es la propagación del calor por medio de ondas electromagnéticas esparcidas, incluso en el vacío, a una rapidez de aproximadamente 300 mil km/s.>
@@ -531,7 +531,7 @@ De acuerdo con el libro de Física, ¿por cuál forma de propagación nos llega 
 - D. Por difusión.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 344
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 344
 **Subtema:** Física · Propagación del calor
 
 <El calor que nos llega del Sol es por radiación, pues las ondas caloríficas atraviesan el vacío existente entre la Tierra y el Sol.>
@@ -546,7 +546,7 @@ De acuerdo con el libro de Física, ¿qué forma de propagación del calor no se
 - D. La propagación de rayos infrarrojos.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 344
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 344
 **Subtema:** Física · Propagación del calor
 
 <En el vacío no se propaga el calor por conducción.>
@@ -561,7 +561,7 @@ De acuerdo con el libro de Física, ¿qué materiales son buenos conductores del
 - D. La porcelana y el vidrio.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 344
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 344
 **Subtema:** Física · Propagación del calor
 
 <Los metales son buenos conductores del calor; y el corcho, la madera, el plástico, la lana, el aire, la porcelana, el vidrio y el papel son malos conductores del mismo.>
@@ -580,7 +580,7 @@ De acuerdo con el libro de Física, ¿cuál es la unidad para medir el calor en 
 - D. El BTU.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 346
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
 **Subtema:** Física · Unidades del calor
 
 <Sistema Internacional de Unidades (SI): joule = newton metro = N m = J.>
@@ -595,7 +595,7 @@ De acuerdo con el libro de Física, ¿qué es una caloría?
 - D. Es la unidad de calor del Sistema Internacional, igual a un newton metro.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 346
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
 **Subtema:** Física · Unidades del calor
 
 <Es la cantidad de calor aplicado a un gramo de agua para elevar su temperatura 1 °C, de 14.5 a 15.5 °C.>
@@ -610,7 +610,7 @@ De acuerdo con el libro de Física, ¿a cuánto equivale una kilocaloría?
 - D. 1 kcal = 4.2 cal.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 346
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
 **Subtema:** Física · Unidades del calor
 
 <Es un múltiplo de la caloría y equivale a: 1 kcal = 1 000 cal.>
@@ -625,7 +625,7 @@ De acuerdo con el libro de Física, ¿qué es un BTU?
 - D. Es la unidad de calor del Sistema Internacional, igual a un newton metro.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 346
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
 **Subtema:** Física · Unidades del calor
 
 <Es la cantidad de calor aplicada a una libra de agua (454 g) para que eleve su temperatura un grado Fahrenheit: 1 BTU = 252 cal = 0.252 kcal.>
@@ -640,7 +640,7 @@ De acuerdo con el libro de Física, ¿cuál es la equivalencia entre calorías y
 - D. 1 caloría = 1 000 J.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 346
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
 **Subtema:** Física · Unidades del calor
 
 <La equivalencia entre joules y calorías, es la siguiente: 1 joule = 0.24 cal; 1 caloría = 4.2 J.>
@@ -659,7 +659,7 @@ De acuerdo con el libro de Física, ¿por qué se caracteriza un gas?
 - D. Porque sus moléculas se encuentran fijas y sólo vibran alrededor de posiciones fijas.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 354
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 354
 **Subtema:** Física · Los gases y sus leyes
 
 <Un gas se caracteriza porque sus moléculas están muy separadas unas de otras, razón por la cual carecen de forma definida y ocupan todo el volumen del recipiente que los contiene.>
@@ -674,7 +674,7 @@ De acuerdo con el libro de Física, ¿por qué los gases son sumamente compresib
 - D. Debido a la alta densidad que presentan.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 354
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 354
 **Subtema:** Física · Los gases y sus leyes
 
 <Son fluidos como los líquidos, pero se diferencian de éstos por ser sumamente compresibles debido a la mínima fuerza de cohesión entre sus moléculas.>
@@ -689,7 +689,7 @@ De acuerdo con el libro de Física, ¿qué es la temperatura crítica de un gas?
 - D. Es la temperatura a la que la presión del gas se hace directamente proporcional al volumen.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 354
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 354
 **Subtema:** Física · Los gases y sus leyes
 
 <La temperatura crítica de un gas es aquella temperatura por encima de la cual no puede ser licuado independientemente de que la presión aplicada sea muy grande.>
@@ -704,7 +704,7 @@ De acuerdo con el libro de Física, ¿qué es un gas ideal?
 - D. Es un gas con una alta fuerza de atracción entre sus moléculas.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 354
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 354
 **Subtema:** Física · Los gases y sus leyes
 
 <Un gas ideal es un gas hipotético que posibilita hacer consideraciones prácticas que facilitan algunos cálculos matemáticos.>
@@ -723,7 +723,7 @@ De acuerdo con el libro de Física, ¿qué establece la ley de Boyle?
 - D. Para una masa dada de un gas, su relación entre presión, volumen y temperatura siempre será constante.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 355
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 355
 **Subtema:** Física · Los gases y sus leyes
 
 <Ley de Boyle. A una temperatura constante y para una masa dada de un gas, el volumen del gas varía de manera inversamente proporcional a la presión absoluta que recibe.>
@@ -740,7 +740,7 @@ De acuerdo con el libro de Física, ¿quién es considerado el padre de la quím
 - D. El inglés William Kelvin.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 355
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 355
 **Subtema:** Física · Los gases y sus leyes
 
 <El inglés Robert Boyle (1627-1691) es considerado el padre de la química moderna.>
@@ -755,7 +755,7 @@ De acuerdo con el libro de Física, ¿cómo se denomina un proceso que se realiz
 - D. Adiabático.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 355
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 355
 **Subtema:** Física · Los gases y sus leyes
 
 <Nota: Cuando un proceso se realiza a temperatura constante se denomina isotérmico.>
@@ -770,7 +770,7 @@ De acuerdo con el libro de Física, ¿qué establece la ley de Charles?
 - D. Para una masa dada de un gas, su relación entre presión, volumen y temperatura siempre será constante.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 356
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 356
 **Subtema:** Física · Los gases y sus leyes
 
 <Ley de Charles. A una presión constante y para una masa dada de un gas, el volumen del gas varía de manera directamente proporcional a su temperatura absoluta.>
@@ -787,7 +787,7 @@ De acuerdo con el libro de Física, ¿qué establece la ley de Gay-Lussac?
 - D. Para una masa dada de un gas, su relación entre presión, volumen y temperatura siempre será constante.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 357
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 357
 **Subtema:** Física · Los gases y sus leyes
 
 <Ley de Gay-Lussac. A un volumen constante y para una masa determinada de un gas, la presión absoluta que recibe el gas es directamente proporcional a su temperatura absoluta.>
@@ -808,7 +808,7 @@ De acuerdo con el libro de Física, ¿qué establece la ley general del estado g
 - D. Que la presión de un gas es independiente de su volumen y de su temperatura.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 358
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 358
 **Subtema:** Física · Los gases y sus leyes
 
 <[...] la ley general del estado gaseoso establece que para una masa dada de un gas, su relación PV/T siempre será constante.>
@@ -823,7 +823,7 @@ De acuerdo con el libro de Física, ¿cuál es el valor de la constante universa
 - D. 1.013 × 10⁵ atm ℓ/mol K.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 359
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 359
 **Subtema:** Física · Los gases y sus leyes
 
 <R = PV/nT = (1 atm × 22.413 ℓ) / (1 mol × 273 K) = 0.0821 atm ℓ/mol K [...] equivalente a: R = 8.32 J/mol K.>
@@ -838,7 +838,7 @@ De acuerdo con el libro de Física, un mol de cualquier gas ideal en condiciones
 - D. 760 litros.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 359
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 359
 **Subtema:** Física · Los gases y sus leyes
 
 <[...] un mol de cualquier gas ideal y en condiciones normales de presión y temperatura, es decir, una atmósfera y 273 K, ocupa un volumen de 22.413 litros.>

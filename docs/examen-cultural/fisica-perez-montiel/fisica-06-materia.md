@@ -73,7 +73,7 @@ De acuerdo con el libro de Física, ¿a qué conclusión llegó Tales de Mileto?
 - D. A que la tierra es necesaria para todas las cosas vivientes.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 244
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
 **Subtema:** Física · Estructura de la materia
 
 <Tales, filósofo, astrónomo y geómetra, nacido en Mileto (Asia Menor), el año 640 a. C., llegó a la conclusión de que el agua es necesaria para todas las cosas vivientes.>
@@ -88,7 +88,7 @@ De acuerdo con el libro de Física, según Empédocles la materia no estaba comp
 - D. Agua, tierra, fuego y metal.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 244
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
 **Subtema:** Física · Estructura de la materia
 
 <De acuerdo con este sabio, la materia no estaba compuesta de una sola sustancia sino de cuatro "elementos": aire, agua, tierra y fuego.>
@@ -103,7 +103,7 @@ De acuerdo con el libro de Física, la palabra átomo, en griego, significa:
 - D. Sin materia.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 244
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
 **Subtema:** Física · Estructura de la materia
 
 <A dicha partícula la denominaron átomo, palabra que en griego significa: sin división.>
@@ -118,7 +118,7 @@ De acuerdo con el libro de Física, ¿quiénes fueron los primeros en considerar
 - D. John Dalton y Antoine Lavoisier.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 244
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
 **Subtema:** Física · Estructura de la materia
 
 <El griego Leucipo (460-370 a. C.) y su discípulo Demócrito, fueron los primeros en considerar que si un cuerpo se dividiera cada vez en trozos más pequeños, llegaría un momento en que se tendría una partícula tan pequeña que ya no sería posible dividirla más.>
@@ -133,7 +133,7 @@ De acuerdo con el libro de Física, ¿quién postuló una hipótesis lógica ace
 - D. Amadeo Avogadro, físico italiano.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 244
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
 **Subtema:** Física · Estructura de la materia
 
 <Fue un químico y físico inglés, John Dalton (1766-1844), quien postuló una hipótesis lógica acerca de la existencia de los átomos.>
@@ -148,7 +148,7 @@ De acuerdo con el libro de Física, ¿qué dice la Ley de la Conservación de la
 - D. La materia puede crearse y destruirse por igual.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 244
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
 **Subtema:** Física · Estructura de la materia
 
 <Postuló la Ley de la Conservación de la Materia, que dice: La materia no puede crearse ni destruirse.>
@@ -163,7 +163,7 @@ De acuerdo con el libro de Física, ¿quién postuló la Ley de la Conservación
 - D. J. L. Gay Lussac.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 244
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
 **Subtema:** Física · Estructura de la materia
 
 <Antoine Lavoisier, químico francés (1743-1794), uno de los creadores de la química moderna [...] Postuló la Ley de la Conservación de la Materia, que dice: La materia no puede crearse ni destruirse.>
@@ -178,7 +178,7 @@ De acuerdo con el libro de Física, el principio de que las sustancias específi
 - D. Hipótesis de Avogadro.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 244
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 244
 **Subtema:** Física · Estructura de la materia
 
 <Proust observó que las sustancias específicas siempre contienen la misma proporción en la masa de sus elementos. [...] Este principio se conoce como Ley de las Proporciones Definidas o Ley de Proust.>
@@ -195,7 +195,7 @@ De acuerdo con el libro de Física, según la Teoría Atómica de Dalton, toda m
 - D. Sin masa.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 245
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
 **Subtema:** Física · Estructura de la materia
 
 <a) Toda materia está formada por partículas diminutas llamadas átomos. Éstos son indivisibles.>
@@ -210,7 +210,7 @@ De acuerdo con el libro de Física, según los postulados de la Teoría Atómica
 - D. Tienen distinto peso pero son iguales entre sí.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 245
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
 **Subtema:** Física · Estructura de la materia
 
 <b) Todos los átomos de un mismo elemento tienen idéntico peso y son iguales entre sí.>
@@ -225,7 +225,7 @@ De acuerdo con el libro de Física, según los postulados de la Teoría Atómica
 - D. Son indivisibles entre sí.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 245
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
 **Subtema:** Física · Estructura de la materia
 
 <c) Los átomos de diferentes elementos tienen distinto peso.>
@@ -240,7 +240,7 @@ De acuerdo con el libro de Física, ¿qué es un átomo?
 - D. Una muestra homogénea de materia constituida por dos o más átomos diferentes.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 245
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
 **Subtema:** Física · Estructura de la materia
 
 <Un átomo es la unidad más pequeña posible de un elemento químico.>
@@ -257,7 +257,7 @@ De acuerdo con el libro de Física, los átomos se encuentran constituidos por p
 - D. Electrones, neutrones y fotones.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 245
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
 **Subtema:** Física · Estructura de la materia
 
 <Los átomos se encuentran constituidos por partículas elementales: electrones, protones y neutrones.>
@@ -272,7 +272,7 @@ De acuerdo con el libro de Física, ¿qué partículas tienen una propiedad llam
 - D. Únicamente los neutrones.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 245
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
 **Subtema:** Física · Estructura de la materia
 
 <Los electrones y los protones tienen una propiedad llamada carga eléctrica.>
@@ -287,7 +287,7 @@ De acuerdo con el libro de Física, ¿qué es una molécula?
 - D. Una partícula con carga eléctrica formada por electrones y protones.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 245
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
 **Subtema:** Física · Estructura de la materia
 
 <Una molécula es la partícula más pequeña de una sustancia que mantiene las propiedades químicas específicas de la misma.>
@@ -302,7 +302,7 @@ De acuerdo con el libro de Física, la hipótesis de Avogadro establece que, en 
 - D. Igual número de átomos por molécula.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 245
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
 **Subtema:** Física · Estructura de la materia
 
 <La hipótesis de Avogadro establece que, en las mismas condiciones de temperatura y presión, iguales volúmenes gaseosos contienen igual número de moléculas.>
@@ -317,7 +317,7 @@ De acuerdo con el libro de Física, ¿quién estableció la Ley de las Proporcio
 - D. Amadeo Avogadro.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 245
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
 **Subtema:** Física · Estructura de la materia
 
 <John Dalton estableció una ley que supuso sería cierta si su teoría era correcta. Esta ley no fue resultado de datos obtenidos experimentalmente y recibe el nombre de Ley de las Proporciones Múltiples.>
@@ -332,7 +332,7 @@ De acuerdo con el libro de Física, ¿qué es un cuerpo?
 - D. La cantidad de materia contenida en un espacio.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 245
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
 **Subtema:** Física · Estructura de la materia
 
 <Es todo aquello que ocupa un lugar en el espacio, por ejemplo, una mesa, un coche, la Luna, el Sol, la Tierra, una naranja, un clip [...]>
@@ -347,7 +347,7 @@ De acuerdo con el libro de Física, ¿qué es una sustancia?
 - D. La partícula más pequeña de un elemento químico.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 245
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 245
 **Subtema:** Física · Estructura de la materia
 
 <Es cualquier tipo de materia que presenta características que la distinguen de otras.>
@@ -362,7 +362,7 @@ De acuerdo con el libro de Física, ¿qué es un elemento?
 - D. La partícula más pequeña de una sustancia.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 246
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 246
 **Subtema:** Física · Estructura de la materia
 
 <Es una muestra homogénea de la materia, compuesta de átomos idénticos. Por tanto, todos los átomos de un elemento determinado deben tener el mismo número atómico.>
@@ -377,7 +377,7 @@ De acuerdo con el libro de Física, ¿cuántos elementos se han descubierto hast
 - D. 55.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 246
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 246
 **Subtema:** Física · Estructura de la materia
 
 <Hasta el momento se han descubierto 118, metales y no metales.>
@@ -392,7 +392,7 @@ De acuerdo con el libro de Física, ¿qué es un compuesto?
 - D. La unidad más pequeña posible de un elemento químico.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 246
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 246
 **Subtema:** Física · Estructura de la materia
 
 <Es una muestra homogénea de materia constituida por dos o más átomos diferentes en determinada proporción. Algunos ejemplos son: el agua, el azúcar, la sal o el dióxido de carbono.>
@@ -407,7 +407,7 @@ De acuerdo con el libro de Física, ¿quién ordenó todos los elementos químic
 - D. Joseph Proust.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 246
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 246
 **Subtema:** Física · Estructura de la materia
 
 <Mendeleiev ordenó todos los elementos químicos conocidos en su época en una tabla, denominada tabla periódica, de características muy parecidas a la que utilizamos actualmente.>
@@ -422,7 +422,7 @@ De acuerdo con el libro de Física, si se suman las masas atómicas de todos los
 - D. La densidad de la molécula.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 247
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 247
 **Subtema:** Física · Estructura de la materia
 
 <Si se suman las masas atómicas de todos los átomos de una molécula, la resultante es la masa de la molécula, esto es, masa molecular.>
@@ -437,7 +437,7 @@ De acuerdo con el libro de Física, ¿qué número se denomina número de Avogad
 - D. 1.01 × 10²³.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 247
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 247
 **Subtema:** Física · Estructura de la materia
 
 <Al número 6.02 × 10²³ se le denomina número de Avogadro, en honor al físico italiano Amadeo Avogadro (1776-1856).>
@@ -452,7 +452,7 @@ De acuerdo con el libro de Física, un mol de cualquier especie química, ya sea
 - D. 118 partículas individuales.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 247
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 247
 **Subtema:** Física · Estructura de la materia
 
 <Un mol de cualquier especie química, ya sea atómica, iónica o molecular, contiene 6.02 × 10²³ partículas individuales.>
@@ -467,7 +467,7 @@ De acuerdo con el libro de Física, el mol es una unidad o patrón de medida ace
 - D. La densidad de una sustancia.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 247
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 247
 **Subtema:** Física · Estructura de la materia
 
 <El mol es una unidad o patrón de medida aceptado por el Sistema Internacional para medir la cantidad de sustancia.>
@@ -486,7 +486,7 @@ De acuerdo con el libro de Física, ¿en cuántos y cuáles estados físicos se 
 - D. En dos: sólido y líquido.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 248
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 248
 **Subtema:** Física · Estados de agregación
 
 <La materia se presenta en cuatro estados físicos: sólido, líquido, gaseoso y plasma.>
@@ -501,7 +501,7 @@ De acuerdo con el libro de Física, una sustancia se encuentra en estado sólido
 - D. Es nula.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 248
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 248
 **Subtema:** Física · Estados de agregación
 
 <a) Sólido si la energía cinética de sus moléculas es menor que la energía potencial (cohesión) que existe entre ellas.>
@@ -516,7 +516,7 @@ De acuerdo con el libro de Física, una sustancia se encuentra en estado líquid
 - D. Ambas son nulas.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 248
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 248
 **Subtema:** Física · Estados de agregación
 
 <b) Líquido si las energías cinética y potencial de sus moléculas son aproximadamente iguales.>
@@ -531,7 +531,7 @@ De acuerdo con el libro de Física, una sustancia se encuentra en estado gaseoso
 - D. Es igual a la fuerza de cohesión.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 248
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 248
 **Subtema:** Física · Estados de agregación
 
 <c) Gaseoso si la energía cinética de las moléculas es mayor que su energía potencial.>
@@ -546,7 +546,7 @@ De acuerdo con el libro de Física, el plasma, denominado cuarto estado de la ma
 - D. 10 000 °C.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 248
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 248
 **Subtema:** Física · Estados de agregación
 
 <El plasma, denominado cuarto estado de la materia, se produce al aumentar la temperatura a más de 5 000 °C.>
@@ -561,7 +561,7 @@ De acuerdo con el libro de Física, en el plasma las moléculas se rompen, los �
 - D. Un vapor neutro, mezcla de moléculas y neutrones.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 248
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 248
 **Subtema:** Física · Estados de agregación
 
 <[...] los átomos chocan en forma violenta y pierden sus electrones, lo cual da origen a un gas extraordinariamente ionizado, mezcla de iones y electrones.>
@@ -576,7 +576,7 @@ De acuerdo con el libro de Física, el movimiento browniano fue descubierto en 1
 - D. Isaac Newton.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 249
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
 **Subtema:** Física · Estados de agregación
 
 <[...] uno es el denominado movimiento browniano, descubierto en 1827 por el científico escocés Robert Brown (1773-1858).>
@@ -591,7 +591,7 @@ De acuerdo con el libro de Física, el movimiento de pequeñas partículas en su
 - D. Energía cinética.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 249
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
 **Subtema:** Física · Estados de agregación
 
 <El movimiento de pequeñas partículas en suspensión, originado por los golpes de las moléculas en movimiento caótico o desordenado, recibe el nombre de movimiento browniano.>
@@ -606,7 +606,7 @@ De acuerdo con el libro de Física, el fenómeno de difusión se explica debido 
 - D. La presión del gas sobre las paredes del recipiente.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 249
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
 **Subtema:** Física · Estados de agregación
 
 <El fenómeno de difusión también se explica debido al movimiento caótico de las moléculas.>
@@ -621,7 +621,7 @@ De acuerdo con el libro de Física, el movimiento caótico de las moléculas que
 - D. Un plasma.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 249
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
 **Subtema:** Física · Estados de agregación
 
 <Dicho movimiento se nota más en un gas, pues en un líquido las moléculas están situadas más cerca unas de otras y las fuerzas de atracción entre ellas frenan la difusión.>
@@ -640,7 +640,7 @@ De acuerdo con el libro de Física, las propiedades que presentan los cuerpos si
 - D. Propiedades químicas.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 249
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
 **Subtema:** Física · Propiedades generales de la materia
 
 <Las propiedades que presentan los cuerpos sin distinción reciben el nombre de propiedades generales, por tal motivo no posibilitan diferenciar una sustancia de otra.>
@@ -655,7 +655,7 @@ De acuerdo con el libro de Física, ¿cuáles son propiedades generales o extens
 - D. El índice de refracción y el módulo de Young.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 249
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
 **Subtema:** Física · Propiedades generales de la materia
 
 <[...] su valor depende de la cantidad de materia, tal es el caso de la masa, el peso, el volumen, la inercia y la energía.>
@@ -670,7 +670,7 @@ De acuerdo con el libro de Física, a algunas propiedades generales de la materi
 - D. Se percibe con nuestros sentidos.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 249
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
 **Subtema:** Física · Propiedades generales de la materia
 
 <A algunas de las propiedades generales de la materia también se les da el nombre de propiedades extensivas, pues su valor depende de la cantidad de materia [...]>
@@ -685,7 +685,7 @@ De acuerdo con el libro de Física, la porción de espacio que ocupa todo cuerpo
 - D. Densidad.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 249
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
 **Subtema:** Física · Propiedades generales de la materia
 
 <Todo cuerpo ocupa una porción de espacio llamado volumen.>
@@ -700,7 +700,7 @@ De acuerdo con el libro de Física, ¿qué es la masa?
 - D. La oposición que presentan los cuerpos a variar su estado.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 249
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
 **Subtema:** Física · Propiedades generales de la materia
 
 <Es la cantidad de materia contenida en un cuerpo.>
@@ -715,7 +715,7 @@ De acuerdo con el libro de Física, ¿qué representa el peso de un cuerpo?
 - D. La oposición que presenta a variar su estado de reposo o movimiento.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 250
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 250
 **Subtema:** Física · Propiedades generales de la materia
 
 <El peso de un cuerpo representa la fuerza gravitacional con la que es atraída la masa de dicho cuerpo.>
@@ -730,7 +730,7 @@ De acuerdo con el libro de Física, por representar una fuerza, el peso de un cu
 - D. Intensiva.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 250
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 250
 **Subtema:** Física · Propiedades generales de la materia
 
 <Por representar una fuerza, el peso de un cuerpo se considera una magnitud vectorial, cuya dirección es vertical y su sentido está dirigido siempre hacia el centro de la Tierra.>
@@ -745,7 +745,7 @@ De acuerdo con el libro de Física, ¿cuál es la unidad del peso en el Sistema 
 - D. El joule (J).
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 250
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 250
 **Subtema:** Física · Propiedades generales de la materia
 
 <P = mg. Su unidad es el newton (N) en el Sistema Internacional, mientras en el Sistema MKS técnico la unidad es el kilogramo-fuerza (kg_f): 1 kg_f = 9.8 N.>
@@ -760,7 +760,7 @@ De acuerdo con el libro de Física, ¿qué es la inercia?
 - D. La porción de espacio que ocupa un cuerpo.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 250
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 250
 **Subtema:** Física · Propiedades generales de la materia
 
 <Es la oposición que presentan los cuerpos a variar su estado, ya sea de reposo o de movimiento.>
@@ -775,7 +775,7 @@ De acuerdo con el libro de Física, ¿cuál es una medida cuantitativa de la ine
 - D. Su energía.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 250
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 250
 **Subtema:** Física · Propiedades generales de la materia
 
 <Una medida cuantitativa de la inercia de un cuerpo es su masa, pues la masa de un cuerpo es una medida de su inercia. Por tanto, a mayor masa, mayor inercia.>
@@ -790,7 +790,7 @@ De acuerdo con el libro de Física, la energía es una propiedad que caracteriza
 - D. Contener cierta cantidad de materia.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 251
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 251
 **Subtema:** Física · Propiedades generales de la materia
 
 <Es una propiedad que caracteriza la interacción de los componentes de un sistema físico que tiene la capacidad de realizar un trabajo.>
@@ -805,7 +805,7 @@ De acuerdo con el libro de Física, ¿cuál es la fórmula relativista que relac
 - D. E = mgh.
 
 **Respuesta:** A
-**Referencia:** *Física General*, Pérez Montiel, 6ª ed., Pág. 251
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 251
 **Subtema:** Física · Propiedades generales de la materia
 
 <Por tanto, la materia puede convertirse en energía y viceversa. La fórmula relativista que relaciona a la masa con la energía es: E = mc².>
