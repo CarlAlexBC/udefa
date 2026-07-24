@@ -4,6 +4,11 @@
     "ESP-01-2026": { "slug": "espanol-zarzar", "capitulos": [1, 3] },
     "ALG-02-2026": { "slug": "algebra-baldor", "capitulos": [1, 2, 3, 4, 5, 6] },
     "HIST-03-2026": { "slug": "historia-rodriguez", "capitulos": [6] },
-    "GEO-04-2026": { "slug": "geografia-tamayo", "capitulos": [1, 3, 4, 5] }
+    "GEO-04-2026": { "slug": "geografia-tamayo", "capitulos": [1, 3, 4, 5] },
+
+    "ALGE-04-2026": { "slug": "algebra-baldor", "capitulos": [1, 2, 3, 4, 5, 8, 10, 18, 20, 24] },
+    "BIO-01-2026": { "slug": "biologia-curtis", "capitulos": [3, 4, 5, 7, 8, 11, 12, 31, 32, 35, 36, 37] },
+    "FG-03-2026": { "slug": "fisica-perez-montiel", "capitulos": [3, 4, 5, 6, 8, 11] },
+    "QUI-02-2026": { "slug": "quimica-chang", "capitulos": [2, 3, 4, 9, 24] }
   }
 }
