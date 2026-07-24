@@ -122,7 +122,11 @@ los anfibios). **Con esto el capítulo 36 queda cubierto por completo** (página
 la p. 854 son los ejercicios "Situaciones problemáticas" y el ensayo de cierre "Retomando la
 problemática inicial", que por norma no llevan reactivos).
 
-**Pendiente:** el capítulo 36 quedó **cubierto por completo** (páginas 842 a 853, hasta antes del ensayo de cierre "Retomando la problemática inicial" y de los ejercicios, que por norma no llevan reactivos). De la materia de Biología sigue **sin empezar el capítulo 37** (La digestión, que arranca hacia la página impresa 855-856); este archivo sostiene ese pendiente de la materia hasta que exista el `.md` del capítulo 37.
+**Pendiente:** ninguno. El capítulo 36 está cerrado en 153 reactivos (24 jul 2026) y cubre
+completas las páginas impresas 842 a 853; el ensayo de cierre "Retomando la problemática
+inicial" y los ejercicios no llevan reactivos por norma. Lo que falta de Biología lo declara
+el archivo del capítulo en curso — hoy, el capítulo 37 (`biologia-37-digestion.md`), que es
+el último del temario de la materia.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
