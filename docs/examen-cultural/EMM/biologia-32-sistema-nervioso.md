@@ -117,8 +117,19 @@ y respuestas de potencial como el potencial de acción, las respuestas pasivas (
 dendritas, cortas distancias) y activas (axón, largas distancias), el valor umbral, la
 respuesta de "todo o nada" (fig. 32-10, neurona sensorial de la piel de un gato frente a
 la presión) y el potencial de acción como inversión instantánea del potencial de membrana.
+De la **página 767** se cubren la frecuencia como única variación crítica (a más intenso
+el estímulo, mayor la frecuencia de descarga, aunque los potenciales sean iguales), las
+funciones del potencial de acción (transmisión rápida a grandes distancias; control de
+respuestas efectoras: apertura de canales iónicos, contracción muscular y exocitosis),
+el pie de la fig. 32-10 (el experimento clásico del gato con la sonda de punta roma: a
+más profunda la presión, mayor la frecuencia con la misma amplitud, y el SNC detecta la
+frecuencia asociada a la intensidad), y las bases iónicas de los potenciales de membrana
+(membranas permeables a Na+, K+ y Cl–; la diferencia de potencial depende del gradiente
+químico y de la permeabilidad; los canales iónicos y su probabilidad de estar abiertos;
+los mecanismos que los abren; y el potencial de reposo por la distribución asimétrica de
+iones fuera de su equilibrio químico).
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 767 (hoja 813) en adelante (el resto de las señales eléctricas y el potencial de acción, la fig. 32-10, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 768 (hoja 814) en adelante (el resto de las bases iónicas del potencial de reposo —el K+ y los demás iones—, las figs. 32-11 y 32-12, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -2330,6 +2341,222 @@ Cuando el axón es estimulado de manera apropiada, la excitación nerviosa se pr
 
 > No confundir con el reposo (reactivo 141): el **potencial de reposo** es la diferencia estable de −70 mV de la célula no estimulada; el **potencial de acción** es la inversión instantánea y transitoria que aparece cuando el impulso llega.
 
+## Sub-lote 16 · La frecuencia del potencial de acción y sus funciones (fig. 32-10, p. 767)
+
+### 143
+
+De acuerdo con el libro de Biología, ¿cuál es la única variación —y crítica— en la respuesta de una neurona ante estímulos de distinta intensidad?
+
+- A. La frecuencia; es decir, el número de impulsos nerviosos que se producen en un tiempo determinado
+- B. La amplitud de cada potencial de acción
+- C. La duración de cada potencial de acción
+- D. El tamaño del axón que conduce el impulso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · frecuencia
+
+La única variación —y es una variación crítica— es la frecuencia; es decir, el número de impulsos nerviosos que se producen en un tiempo determinado.
+
+### 144
+
+De acuerdo con el libro de Biología, ¿qué ocurre con la descarga de potenciales de acción cuanto más intenso es el estímulo?
+
+- A. Mayor es la frecuencia de descarga de potenciales de acción de la neurona, aunque estos potenciales sean iguales entre sí
+- B. Mayor es la amplitud de cada potencial de acción, aunque su frecuencia no cambie
+- C. Menor es la frecuencia de descarga de potenciales de acción
+- D. Los potenciales de acción desaparecen por completo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · frecuencia
+
+Cuanto más intenso es el estímulo, mayor es la frecuencia de descarga de potenciales de acción de la neurona, aunque estos potenciales sean iguales entre sí.
+
+> Enlaza con el "todo o nada" (reactivo 140): como la amplitud es siempre la misma, la neurona codifica la intensidad del estímulo solo por la **frecuencia** de sus potenciales de acción, no por su tamaño.
+
+### 145
+
+De acuerdo con el libro de Biología, entre las funciones de importancia del potencial de acción en los tejidos excitables, ¿cuál se menciona respecto a la transmisión de información?
+
+- A. La transmisión rápida de la información a lo largo de grandes distancias en el sistema nervioso y las fibras musculares
+- B. La transmisión lenta de la información a cortas distancias en el soma y las dendritas
+- C. El almacenamiento permanente de la información dentro de la membrana
+- D. La transmisión de información únicamente por medio de hormonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · funciones del potencial de acción
+
+Entre las funciones de importancia del potencial de acción está la transmisión rápida de la información a lo largo de grandes distancias en el sistema nervioso y las fibras musculares.
+
+### 146
+
+De acuerdo con el libro de Biología, entre las funciones del potencial de acción, ¿qué comprende el control de respuestas efectoras?
+
+- A. La activación de canales iónicos sensibles a cambios en el potencial eléctrico, la contracción muscular y la exocitosis
+- B. La síntesis de la vaina de mielina y la nutrición de las neuronas
+- C. El almacenamiento de glucosa en el hígado
+- D. La producción del líquido cefalorraquídeo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · funciones del potencial de acción
+
+Entre las funciones del potencial de acción está el control de respuestas efectoras, incluida la activación de canales iónicos sensibles a cambios en el potencial eléctrico, contracción muscular y exocitosis.
+
+### 147
+
+De acuerdo con el libro de Biología, según la figura 32-10a, ¿cómo son los impulsos de cualquier neurona entre sí?
+
+- A. Son similares; o sea, todos los potenciales de acción tienen la misma duración y variación de potencial eléctrico
+- B. Son de distinta duración y variación según el estímulo
+- C. Aumentan de amplitud con estímulos más fuertes
+- D. Solo se registran en las fibras musculares, no en las neuronas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · potencial de acción
+
+Los impulsos de cualquier neurona son similares, o sea, todos los potenciales de acción tienen la misma duración y variación de potencial eléctrico.
+
+### 148
+
+De acuerdo con el libro de Biología, según la figura 32-10b, ¿en qué consiste el experimento clásico con el gato?
+
+- A. Se presiona la piel de un gato con una pequeña sonda de punta roma, lo cual estimula una neurona sensorial (un receptor táctil), y los impulsos generados se transmiten hacia el sistema nervioso central
+- B. Se aplica una corriente eléctrica al encéfalo del gato para provocar la contracción muscular
+- C. Se ilumina la retina del gato para medir el potencial de acción de la vista
+- D. Se inyecta adrenalina en la médula suprarrenal del gato
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · experimento del gato
+
+En un experimento clásico, se presiona la piel de un gato con una pequeña sonda de punta roma, lo cual estimula una neurona sensorial (un receptor táctil). Los impulsos que se generan se transmiten por la neurona hacia el sistema nervioso central.
+
+### 149
+
+De acuerdo con el libro de Biología, según la figura 32-10c, ¿qué ocurría con los potenciales de acción cuanto más profundamente se presionaba la piel?
+
+- A. Se generaban con mayor frecuencia, aunque todos tenían la misma amplitud
+- B. Aumentaban su amplitud, aunque su frecuencia no cambiaba
+- C. Se generaban con menor frecuencia
+- D. Desaparecían por completo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · frecuencia e intensidad
+
+Cuanto más profundamente se presionaba la piel, los potenciales de acción se generaban con mayor frecuencia; todos los potenciales de acción tienen la misma amplitud, aunque su frecuencia se incrementa con la intensidad del estímulo.
+
+### 150
+
+De acuerdo con el libro de Biología, según la figura 32-10c, ¿qué detecta el sistema nervioso central y con qué se asocia?
+
+- A. Detecta la frecuencia de los potenciales de acción, que se asocia con la intensidad del estímulo
+- B. Detecta la amplitud de los potenciales de acción, que se asocia con la duración
+- C. Detecta el color del estímulo
+- D. Detecta la temperatura de la piel
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · codificación de la intensidad
+
+Lo que el sistema nervioso central detecta es esa frecuencia, que se asocia con la intensidad.
+
+## Sub-lote 17 · Las bases iónicas de los potenciales de membrana (figs. 32-11 y 32-12, p. 767)
+
+### 151
+
+De acuerdo con el libro de Biología, por lo general, ¿a qué iones son permeables las membranas biológicas?
+
+- A. A varios iones, como el Na+, el K+ y el Cl–
+- B. Únicamente al agua
+- C. Solo al Ca2+ y al Mg2+
+- D. A ningún ion, ya que son impermeables
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · bases iónicas
+
+Por lo general, las membranas biológicas son permeables a varios iones, como Na+, K+ y Cl–.
+
+### 152
+
+De acuerdo con el libro de Biología, la diferencia de potencial eléctrico que se genera a través de la membrana, ¿de qué depende?
+
+- A. Del gradiente químico (la concentración intracelular y extracelular de cada uno de esos iones) y de la permeabilidad de la membrana a cada uno de ellos
+- B. Únicamente del tamaño de la célula
+- C. Solo de la temperatura del medio extracelular
+- D. De la cantidad de mielina que recubre el axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · diferencia de potencial
+
+La diferencia de potencial eléctrico que se genera a través de la membrana depende del gradiente químico (de la concentración intracelular y extracelular de cada uno de esos iones) y de la permeabilidad de la membrana a cada uno de ellos.
+
+### 153
+
+De acuerdo con el libro de Biología, ¿de qué es consecuencia la permeabilidad de una membrana a los iones?
+
+- A. Del tipo y la cantidad de canales abiertos para cada especie iónica
+- B. Del grosor total de la membrana plasmática
+- C. Del número de mitocondrias de la célula
+- D. De la cantidad de mielina del axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · permeabilidad
+
+La permeabilidad de una membrana a los iones, por su parte, es consecuencia del tipo y la cantidad de canales abiertos para cada especie iónica.
+
+### 154
+
+De acuerdo con el libro de Biología, una membrana con gran cantidad de canales, ¿puede ser poco permeable a los iones, y por qué?
+
+- A. Sí, puede ser poco permeable si los canales poseen una probabilidad muy baja de estar abiertos
+- B. No, siempre es muy permeable si tiene muchos canales
+- C. Sí, pero solo si carece por completo de canales
+- D. No, porque la permeabilidad no depende de los canales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · canales iónicos
+
+Una membrana puede poseer gran cantidad de canales; sin embargo, puede ser poco permeable a los iones, si los canales poseen una probabilidad muy baja de estar abiertos.
+
+### 155
+
+De acuerdo con el libro de Biología, ¿qué mecanismos pueden activar (abrir) los canales para un ion determinado?
+
+- A. Un cambio en el potencial eléctrico de membrana o la llegada de una molécula mensajera que se une al canal, entre otros
+- B. Un aumento de la temperatura corporal, exclusivamente
+- C. La presencia de la vaina de mielina alrededor del axón
+- D. La ausencia total de iones en el medio extracelular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · apertura de canales
+
+Solo cuando se presentan mecanismos adecuados que activan (abren) canales para un ion determinado (como un cambio en el potencial eléctrico de membrana o la llegada de una molécula mensajera que se une al canal, entre otros), la membrana aumenta su permeabilidad a ese ion particular, ya que el canal pasa de un estado cerrado a otro abierto.
+
+### 156
+
+De acuerdo con el libro de Biología, ¿por qué se genera y se mantiene fundamentalmente el potencial de membrana en reposo?
+
+- A. Por la existencia de una distribución asimétrica de iones a ambos lados de la membrana, que están fuera de su equilibrio químico y tienen una tendencia neta a entrar o salir de la célula
+- B. Por la distribución perfectamente simétrica de iones a ambos lados de la membrana
+- C. Por la ausencia total de iones dentro de la célula
+- D. Por la presencia de la vaina de mielina en el soma de la neurona
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 767
+**Subtema:** sistema nervioso · potencial de membrana en reposo
+
+El potencial de membrana en reposo se genera y se mantiene fundamentalmente por la existencia de una distribución asimétrica de iones a ambos lados de la membrana. A su vez, estos iones están fuera de su equilibrio químico y, de esta forma, tienen una tendencia neta a entrar o salir de la célula.
+
 ---
 
-**Reactivos en este archivo:** 142
+**Reactivos en este archivo:** 156
