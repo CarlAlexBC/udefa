@@ -36,13 +36,14 @@ ejercicios de cálculo y las gráficas concretas no llevan reactivos.
 - Función de una y de varias variables independientes (art. 256).
 - Ley de dependencia (art. 257).
 - Funciones analíticas y concretas (art. 258).
+- Variación directa, inversa, conjunta y directa e inversa a la vez, y el resumen de
+  las variaciones (arts. 259–265).
 
-**Pendiente:** sigue el Capítulo XX desde la **variación directa (art. 259, p. 284)**
-en adelante —variación inversa, conjunta y directa e inversa a la vez, el resumen de
-las variaciones y la representación gráfica de las funciones (coordenadas cartesianas,
-abscisa y ordenada)— hasta cerrar el capítulo. Después faltan de Álgebra los capítulos
-**XXIV y XXV (Ecuaciones simultáneas)**, que piden EMM/EMO/EMOS. Este archivo sostiene
-el pendiente de Álgebra mientras el capítulo en curso sea el XX.
+**Pendiente:** sigue el Capítulo XX con la **representación gráfica de las funciones**
+(coordenadas cartesianas, abscisa y ordenada, cuadrantes, signo de las coordenadas)
+hasta cerrar el capítulo. Después faltan de Álgebra los capítulos **XXIV y XXV
+(Ecuaciones simultáneas)**, que piden EMM/EMO/EMOS. Este archivo sostiene el pendiente
+de Álgebra mientras el capítulo en curso sea el XX.
 
 ## Criterio: teoría sobre práctica
 
@@ -308,5 +309,122 @@ Cuando por observación de los hechos sabemos que una cantidad depende de otra, 
 
 ---
 
-**Reactivos en este archivo:** 15
-**Pendiente:** sigue el Capítulo XX desde la variación directa (art. 259, p. 284) en adelante —variación inversa, conjunta y directa e inversa a la vez, el resumen de las variaciones y la representación gráfica de las funciones (coordenadas cartesianas, abscisa y ordenada)— hasta cerrar el capítulo. Después faltan de Álgebra los capítulos XXIV y XXV (Ecuaciones simultáneas), que piden EMM/EMO/EMOS. Mientras el capítulo en curso sea el XX, este archivo sostiene el pendiente de Álgebra.
+## Sub-lote 7 · Variación directa e inversa (arts. 259–262, pp. 284–285)
+
+### 16
+
+En relación con el libro de Álgebra, ¿cuándo se dice que A varía directamente a B, o que A es directamente proporcional a B?
+
+- A. Cuando multiplicando o dividiendo una de estas dos variables por una cantidad, la otra queda multiplicada o dividida por esa misma cantidad
+- B. Cuando multiplicando una de estas variables por una cantidad, la otra queda dividida por esa misma cantidad
+- C. Cuando las dos variables permanecen constantes
+- D. Cuando el producto de las dos variables es constante
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 284
+**Subtema:** Funciones · variación directa
+
+Se dice que A varía directamente a B o que A es directamente proporcional a B cuando multiplicando o dividiendo una de estas dos variables por una cantidad, la otra queda multiplicada o dividida por esa misma cantidad.
+
+### 17
+
+En relación con el libro de Álgebra, si A es proporcional a B, ¿a qué es igual A?
+
+- A. A B multiplicada por una constante
+- B. A una constante dividida entre B
+- C. A B más una constante
+- D. A B menos una constante
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 285
+**Subtema:** Funciones · variación directa
+
+Si A es proporcional a B, A es igual a B multiplicada por una constante.
+
+> El libro lo expresa como A = kB, siendo k una constante.
+
+### 18
+
+En relación con el libro de Álgebra, ¿cuándo se dice que A varía inversamente a B, o que A es inversamente proporcional a B?
+
+- A. Cuando multiplicando o dividiendo una de estas variables por una cantidad, la otra queda dividida en el primer caso y multiplicada en el segundo por la misma cantidad
+- B. Cuando multiplicando o dividiendo una de estas variables por una cantidad, la otra queda multiplicada o dividida por esa misma cantidad
+- C. Cuando el cociente de las dos variables es constante
+- D. Cuando las dos variables crecen a la vez
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 285
+**Subtema:** Funciones · variación inversa
+
+Se dice que A varía inversamente a B o que A es inversamente proporcional a B cuando multiplicando o dividiendo una de estas variables por una cantidad, la otra queda dividida en el primer caso y multiplicada en el segundo por la misma cantidad.
+
+### 19
+
+En relación con el libro de Álgebra, si A es inversamente proporcional a B, ¿a qué es igual A?
+
+- A. A una constante dividida entre B
+- B. A B multiplicada por una constante
+- C. Al producto de B por una constante
+- D. A B más una constante
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 285
+**Subtema:** Funciones · variación inversa
+
+Si A es inversamente proporcional a B, A es igual a una constante dividida entre B.
+
+> El libro lo expresa como A = k/B, siendo k una constante.
+
+### 20
+
+En relación con el libro de Álgebra, si A es inversamente proporcional a B, ¿qué es constante?
+
+- A. El producto AB
+- B. El cociente A/B
+- C. La suma A + B
+- D. La diferencia A − B
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 285
+**Subtema:** Funciones · variación inversa
+
+Si A es inversamente proporcional a B, el producto AB es constante.
+
+---
+
+## Sub-lote 8 · Variación conjunta y directa e inversa (arts. 263–264, p. 286)
+
+### 21
+
+En relación con el libro de Álgebra, según la variación conjunta, si A es proporcional a B cuando C es constante y a C cuando B es constante, ¿a qué es proporcional A cuando B y C varían?
+
+- A. Al producto BC
+- B. A la suma B + C
+- C. A la relación B/C
+- D. A la diferencia B − C
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 286
+**Subtema:** Funciones · variación conjunta
+
+A es proporcional a BC cuando B y C varían; si una cantidad es proporcional a otras varias, lo es a su producto.
+
+### 22
+
+En relación con el libro de Álgebra, ¿cuándo se dice que A es proporcional a B e inversamente proporcional a C?
+
+- A. Cuando A es proporcional a la relación B/C
+- B. Cuando A es proporcional al producto BC
+- C. Cuando A es proporcional a la suma B + C
+- D. Cuando A es proporcional a la diferencia B − C
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 286
+**Subtema:** Funciones · variación directa e inversa
+
+Se dice que A es proporcional a B e inversamente proporcional a C cuando A es proporcional a la relación B/C.
+
+---
+
+**Reactivos en este archivo:** 22
+**Pendiente:** sigue el Capítulo XX con la representación gráfica de las funciones (coordenadas cartesianas, abscisa y ordenada, cuadrantes, signo de las coordenadas) hasta cerrar el capítulo. Después faltan de Álgebra los capítulos XXIV y XXV (Ecuaciones simultáneas), que piden EMM/EMO/EMOS. Mientras el capítulo en curso sea el XX, este archivo sostiene el pendiente de Álgebra.
