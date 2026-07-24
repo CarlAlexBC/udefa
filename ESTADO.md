@@ -18,7 +18,7 @@ _Regenerado el 2026-07-24._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, fisica-perez-montiel) | 3345 | abiertas: EMM · Biología, EMM · Química, fisica-perez-montiel · Física |
+| Examen cultural (EMM, HCM, fisica-perez-montiel) | 3372 | abiertas: EMM · Biología, EMM · Química, fisica-perez-montiel · Física |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -42,6 +42,7 @@ _Regenerado el 2026-07-24._
 | EMM · Biología · Capítulo 32 · El sistema nervioso: estructura y función | 271 | ninguno. El capítulo 32 está cerrado en 271 reactivos (23 jul 2026) y cubre completas las páginas impresas 756-775; el ensayo de cierre "Retomando la problemática inicial" y los ejercicios no llevan reactivos por norma. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 35 (`biologia-35-respiracion.md`). |
 | EMM · Biología · Capítulo 35 · La respiración | 166 | el capítulo 35 quedó **cubierto por completo** (páginas 828 a 838, hasta antes del ensayo de cierre "Retomando la problemática inicial" y de los ejercicios, que por norma no llevan reactivos). De la materia de Biología siguen **sin empezar los capítulos 36 y 37**; este archivo sostiene ese pendiente de la materia hasta que exista el `.md` del capítulo 36. |
 | EMM · Química · Capítulo 2 · Átomos, moléculas e iones | 153 | los capítulos 3, 4, 9 y 24, que el temario pide y todavía no tienen archivo. Este archivo sostiene la lista hasta que exista el `.md` del capítulo 3. |
+| EMM · Química · Capítulo 3 · Relaciones de masa en las reacciones químicas | 27 | dentro del capítulo 3 no queda teoría por cubrir de los subtemas que pide el temario (3.1, 3.2 y 3.3) más allá de un repaso; el resto del capítulo (3.4 a 3.10) no entra. Siguen abiertos los capítulos 4, 9 y 24, que el temario pide y todavía no tienen archivo. Este archivo sostiene la lista hasta que exista el `.md` del capítulo 4. |
 | HCM · Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
 | HCM · Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
 | HCM · Álgebra · Capítulo II · Resta | 23 | ninguno. El capítulo II (pp. 46–57) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-03-signos-agrupacion.md`. |
@@ -61,7 +62,7 @@ _Regenerado el 2026-07-24._
 | fisica-perez-montiel · Física · Unidad 5 · Dinámica | 94 | Falta el resto de la materia Física en sus propios archivos (las Unidades 3, 4 y 5 ya están cerradas): la Unidad 6 (Materia y sus Propiedades, temas 1 Estructura de la Materia p. 244, 2 Estados de Agregación p. 248 y 3 Propiedades Generales o Extensivas p. 249), la Unidad 8 (Hidrostática, completa) y la Unidad 11 (Termología, temas 1, 2, 3, 5, 7 y 12), siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 6 · Materia y sus Propiedades | 49 | Faltan las otras dos unidades de Física en sus propios archivos: la Unidad 8 (Hidrostática, completa) y la Unidad 11 (Termología, temas 1 calor vs temperatura, 2 medida de la temperatura, 3 escalas Celsius/Kelvin/Fahrenheit, 5 formas de propagación del calor, 7 unidades para medir el calor y 12 los gases y sus leyes), siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 8 · Hidrostática | 45 | _no declarado_ |
-| **Total** | **3345** | |
+| **Total** | **3372** | |
 
 > 1 archivo(s) no declaran pendiente en su encabezado, así que este resumen **no puede afirmar que estén cerrados**. Para que aparezcan como
 > terminados, agrégales una línea `**Pendiente:**` que lo diga.
