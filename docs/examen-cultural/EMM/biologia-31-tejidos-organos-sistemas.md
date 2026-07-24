@@ -61,9 +61,15 @@ homeostasis del calcio) y el esqueleto humano (fig. 31-7: 206 huesos, 29 del cr�
 —14 de la cara y 6 de los oídos—, 27 por mano y 26 por pie). De la **página 746** se
 cubre el tejido muscular: las células especializadas en la contracción, los dos
 tipos (estriado con bandas y liso sin bandas) y la clasificación esquelético
-(voluntario) / cardíaco (estriado pero involuntario) / liso (involuntario).
+(voluntario) / cardíaco (estriado pero involuntario) / liso (involuntario). De las
+**páginas 747-749** se cubren el tejido nervioso (las neuronas y las células de la
+glía), la neurona (cuerpo celular, dendritas, axón, las fibras nerviosas, las
+sinapsis, las cuatro clases de neuronas y los nervios), los músculos antagónicos
+(fig. 31-12) y los órganos y sistemas de órganos (el estómago con sus cuatro
+tejidos, el nivel de los sistemas de órganos, y el principio de que las partes
+contribuyen al todo y el todo a las partes).
 
-**Pendiente:** el capítulo 31 está EN CURSO; sigue desde la página impresa 747 (hoja 793) en adelante (el tejido nervioso y la neurona, y luego los órganos y sistemas de órganos; el capítulo cierra en la p. 751, con el ensayo de cierre en la 752 y las situaciones problemáticas en la 753). Queda pendiente, además, el Cuadro 31-1 "Uniones entre células" (p. 743, cifrado como recuadro: hay que renderizarlo) y el Ensayo 31-1 "Diversidad de los sistemas de sostén". De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 31 está EN CURSO; sigue desde la página impresa 750 (hoja 796) en adelante (lo que reste de los sistemas de órganos, fig. 31-13; el capítulo cierra en la p. 751, con el ensayo de cierre en la 752 y las situaciones problemáticas en la 753). Queda pendiente, además, el Cuadro 31-1 "Uniones entre células" (p. 743, cifrado como recuadro: hay que renderizarlo) y el Ensayo 31-1 "Diversidad de los sistemas de sostén". De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -241,7 +247,7 @@ Los tejidos pueden unirse entre sí y formar órganos; esta unión no solo es es
 
 ### 11
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
 
 - A. Alrededor de 200 tipos de células, que se agrupan en solo cuatro tipos de tejidos
 - B. Cuatro tipos de células, agrupadas en 200 tejidos
@@ -903,7 +909,7 @@ El tejido óseo almacena calcio y fosfato que pueden pasar a la sangre, reguland
 
 ### 53
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos contiene el esqueleto de un adulto?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos contiene el esqueleto de un adulto?
 
 - A. 206 huesos
 - B. 300 huesos
@@ -918,7 +924,7 @@ El esqueleto de un adulto contiene 206 huesos.
 
 ### 54
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
 
 - A. 29 huesos, incluidos los 14 de la cara y los 6 huesecillos de los oídos
 - B. 14 huesos, todos de la cara
@@ -933,7 +939,7 @@ Veintinueve huesos pertenecen al cráneo, incluidos los 14 huesos de la cara y l
 
 ### 55
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos hay en cada mano y en cada pie?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos hay en cada mano y en cada pie?
 
 - A. 27 huesos en cada mano y 26 en cada pie
 - B. 26 huesos en cada mano y 27 en cada pie
@@ -1062,4 +1068,207 @@ El músculo liso y el músculo cardíaco se incluyen en la categoría de múscul
 
 ---
 
-**Reactivos en este archivo:** 62
+## Sub-lote 12 · El tejido nervioso y la neurona (fig. 31-12, pp. 747-749)
+
+### 63
+
+De acuerdo con el libro de Biología, ¿cuáles son las unidades funcionales esenciales del tejido nervioso y en qué están especializadas?
+
+- A. Las neuronas, especializadas en la recepción, elaboración y transmisión de los impulsos nerviosos
+- B. Los adipocitos, especializados en almacenar lípidos
+- C. Los condrocitos, especializados en secretar matriz
+- D. Las fibras musculares, especializadas en la contracción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 747
+**Subtema:** tejidos, órganos y sistemas · tejido nervioso
+
+Las neuronas son las unidades funcionales esenciales del tejido nervioso, especializadas en la recepción, elaboración y transmisión de los impulsos nerviosos.
+
+### 64
+
+De acuerdo con el libro de Biología, ¿qué células acompañan a las neuronas y son imprescindibles para su funcionamiento?
+
+- A. Las células de la glía
+- B. Los eritrocitos
+- C. Los melanocitos
+- D. Los adipocitos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 747
+**Subtema:** tejidos, órganos y sistemas · tejido nervioso
+
+Las neuronas están acompañadas por las células de la glía, que son imprescindibles para su funcionamiento.
+
+### 65
+
+De acuerdo con el libro de Biología, ¿qué contiene el cuerpo celular de una neurona típica?
+
+- A. El núcleo y la mayor parte de la maquinaria metabólica de la célula
+- B. Solamente el axón
+- C. La matriz extracelular del tejido
+- D. Los cristales de hidroxiapatita
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 749
+**Subtema:** tejidos, órganos y sistemas · la neurona
+
+Una neurona típica está formada por un cuerpo celular que contiene el núcleo y la mayor parte de la maquinaria metabólica de la célula.
+
+### 66
+
+De acuerdo con el libro de Biología, ¿qué son las dendritas y qué función cumplen?
+
+- A. Extensiones citoplasmáticas numerosas, cortas y filiformes que, junto con el cuerpo celular, reciben los estímulos de otras células
+- B. Una extensión larga que conduce el impulso a grandes distancias
+- C. El cuerpo celular que contiene el núcleo
+- D. Las células de la glía que acompañan a la neurona
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 749
+**Subtema:** tejidos, órganos y sistemas · la neurona
+
+Del núcleo emergen las dendritas –que son extensiones citoplasmáticas numerosas, cortas y filiformes que, junto con el cuerpo celular, reciben los estímulos de otras células.
+
+### 67
+
+De acuerdo con el libro de Biología, ¿qué es el axón y qué función cumple?
+
+- A. Una extensión citoplasmática especial, por lo general muy larga, capaz de conducir de forma rápida el impulso nervioso a grandes distancias
+- B. Extensiones cortas y numerosas que reciben los estímulos
+- C. El cuerpo celular donde está el núcleo
+- D. La conexión entre dos neuronas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 749
+**Subtema:** tejidos, órganos y sistemas · la neurona
+
+El axón es una extensión citoplasmática especial, por lo general muy larga, capaz de conducir de forma rápida el impulso nervioso a grandes distancias.
+
+### 68
+
+De acuerdo con el libro de Biología, los axones constituyen las fibras nerviosas. ¿Qué hacen las neuronas con las señales que reciben?
+
+- A. Reciben señales del ambiente externo e interno, las integran y transmiten la información a otras neuronas, músculos o glándulas
+- B. Solo almacenan las señales, sin transmitirlas
+- C. Destruyen las señales recibidas
+- D. Convierten las señales en tejido óseo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 749
+**Subtema:** tejidos, órganos y sistemas · la neurona
+
+Las neuronas reciben señales del ambiente externo e interno, integran las señales recibidas y transmiten la información integrada a otras neuronas, músculos o glándulas.
+
+### 69
+
+De acuerdo con el libro de Biología, ¿cómo se denominan las conexiones que forma la mayoría de las neuronas con otras neuronas?
+
+- A. Sinapsis
+- B. Nervios
+- C. Dendritas
+- D. Fibras musculares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 749
+**Subtema:** tejidos, órganos y sistemas · la neurona
+
+La mayoría de las neuronas forman conexiones con otras neuronas, que se denominan sinapsis.
+
+### 70
+
+De acuerdo con el libro de Biología, ¿cuáles son las cuatro clases de neuronas?
+
+- A. Sensoriales, interneuronas, de proyección y motoras
+- B. Estriadas, lisas, cardíacas y esqueléticas
+- C. Epiteliales, conjuntivas, musculares y nerviosas
+- D. Sensoriales, adiposas, óseas y sanguíneas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 749
+**Subtema:** tejidos, órganos y sistemas · la neurona
+
+Existen cuatro clases de neuronas: sensoriales, interneuronas, de proyección y motoras.
+
+### 71
+
+De acuerdo con el libro de Biología, ¿qué son los nervios?
+
+- A. Haces de numerosos axones pertenecientes a muchas neuronas, desde centenares a miles
+- B. Una sola neurona aislada
+- C. Un tipo de tejido muscular
+- D. Las conexiones sinápticas entre dos neuronas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 749
+**Subtema:** tejidos, órganos y sistemas · tejido nervioso
+
+Los nervios son haces de numerosos axones pertenecientes a muchas neuronas: desde centenares a miles.
+
+### 72
+
+De acuerdo con el libro de Biología, según la figura 31-12, dado que los músculos no pueden alargarse de forma espontánea, ¿cómo trabajan con frecuencia los músculos esqueléticos?
+
+- A. En pares antagónicos: cuando uno se contrae, el otro se relaja (por ejemplo, el bíceps se contrae y el tríceps se relaja)
+- B. Todos se contraen a la vez y ninguno se relaja
+- C. Se alargan de forma espontánea, sin necesidad de contraerse
+- D. Trabajan siempre de a un solo músculo por vez
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 749
+**Subtema:** tejidos, órganos y sistemas · tejido muscular
+
+Los músculos no pueden alargarse de forma espontánea; lo hacen solo cuando se contraen los músculos antagónicos. Por ejemplo, cuando se mueve la mano hacia el hombro, el bíceps se contrae y el tríceps se relaja.
+
+---
+
+## Sub-lote 13 · Los órganos y los sistemas de órganos (fig. 31-13, p. 749)
+
+### 73
+
+De acuerdo con el libro de Biología, al analizar un órgano como el estómago, ¿por qué tejidos está constituido?
+
+- A. Por capas de epitelio glandular, tejido conjuntivo, tejido nervioso y tejido muscular liso
+- B. Únicamente por tejido muscular
+- C. Únicamente por tejido óseo
+- D. Únicamente por tejido nervioso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 749
+**Subtema:** tejidos, órganos y sistemas · niveles de organización
+
+Si analizamos un órgano como el estómago, podemos ver que está constituido por capas de epitelio glandular (en el tapiz estomacal), tejido conjuntivo, tejido nervioso y tejido muscular liso.
+
+### 74
+
+De acuerdo con el libro de Biología, los órganos que trabajan juntos en forma integrada y desempeñan una función particular, ¿qué nivel de organización constituyen?
+
+- A. El de los sistemas de órganos
+- B. El de los tejidos
+- C. El de las células
+- D. El de las moléculas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 749
+**Subtema:** tejidos, órganos y sistemas · niveles de organización
+
+Los órganos que trabajan juntos en forma integrada y desempeñan una función particular constituyen el siguiente nivel de organización: el de los sistemas de órganos.
+
+### 75
+
+De acuerdo con el libro de Biología, ¿cuál es uno de los principios más profundos de la biología sobre la estructura de los organismos más complejos?
+
+- A. Las partes contribuyen al todo y el todo a las partes
+- B. Las partes son totalmente independientes del todo
+- C. El todo no depende en nada de sus partes
+- D. Las partes actúan en oposición al todo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 749
+**Subtema:** tejidos, órganos y sistemas · niveles de organización
+
+La estructura y los procesos reguladores de los organismos más complejos adoptan tal forma que las partes contribuyen al todo y el todo a las partes.
+
+---
+
+**Reactivos en este archivo:** 75
