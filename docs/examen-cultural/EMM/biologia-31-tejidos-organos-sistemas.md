@@ -43,9 +43,14 @@ agrupados en cuatro tipos de tejidos (epitelial, conjuntivo, muscular y nervioso
 fig. 31-4), la cavidad abdominal, las características de los mamíferos
 (termorreguladores, con pelo, que amamantan y paren crías vivas salvo los
 monotremas), la matriz extracelular y el pasaje de la unicelularidad a la
-multicelularidad.
+multicelularidad. De la **página 742** se cubren los dos componentes de la matriz
+(las proteínas fibrosas colágeno/elastina y la sustancia fundamental, sus estados y
+por qué los huesos perduran), los tres tipos de uniones celulares (estrechas, de
+anclaje y comunicantes), y el tejido epitelial (revestimiento en lámina continua, la
+forma de las células, las glándulas, y la piel: epidermis epitelial + dermis
+conjuntiva).
 
-**Pendiente:** el capítulo 31 está EN CURSO; sigue desde la página impresa 742 (hoja 788) en adelante (los cuatro tipos de tejidos en detalle, empezando por el epitelial). De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 31 está EN CURSO; sigue desde la página impresa 743 (hoja 789) en adelante (el resto de la piel y sus glándulas, y los tejidos conjuntivo, muscular y nervioso en detalle). De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -223,7 +228,7 @@ Los tejidos pueden unirse entre sí y formar órganos; esta unión no solo es es
 
 ### 11
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
 
 - A. Alrededor de 200 tipos de células, que se agrupan en solo cuatro tipos de tejidos
 - B. Cuatro tipos de células, agrupadas en 200 tejidos
@@ -392,4 +397,181 @@ El corazón es un órgano constituido por células agrupadas en diversos tejidos
 
 ---
 
-**Reactivos en este archivo:** 21
+## Sub-lote 5 · La matriz extracelular y las uniones entre las células (p. 742)
+
+### 22
+
+De acuerdo con el libro de Biología, ¿cuáles son los dos componentes principales que forman la matriz extracelular?
+
+- A. Las proteínas fibrosas (distintos tipos de colágeno y elastina) y la sustancia fundamental
+- B. El agua y las sales minerales
+- C. El núcleo y el citoplasma de las células
+- D. Las vértebras y el cráneo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 742
+**Subtema:** tejidos, órganos y sistemas · matriz extracelular
+
+Dos componentes principales forman la matriz: proteínas fibrosas –distintos tipos de colágeno y elastina– que le confieren resistencia y elasticidad, y la llamada sustancia fundamental, formada por hidratos de carbono libres y complejos de proteína.
+
+### 23
+
+De acuerdo con el libro de Biología, ¿qué le confieren a la matriz las proteínas fibrosas (el colágeno y la elastina)?
+
+- A. Resistencia y elasticidad
+- B. Color y olor
+- C. Capacidad de contracción
+- D. Impermeabilidad total al agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 742
+**Subtema:** tejidos, órganos y sistemas · matriz extracelular
+
+Las proteínas fibrosas –distintos tipos de colágeno y elastina– le confieren resistencia y elasticidad.
+
+### 24
+
+De acuerdo con el libro de Biología, la matriz extracelular puede ser líquida, gelatinosa, fibrosa, elástica o rígida. ¿Cuándo es rígida?
+
+- A. Cuando se calcifica
+- B. Cuando se congela
+- C. Cuando se seca al aire
+- D. Cuando se disuelve en agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 742
+**Subtema:** tejidos, órganos y sistemas · matriz extracelular
+
+La matriz extracelular puede ser líquida, gelatinosa, fibrosa, elástica o rígida (cuando se calcifica), según la proporción de fibras y las características de la sustancia fundamental que la componen.
+
+### 25
+
+De acuerdo con el libro de Biología, cuando un animal muere, ¿qué le ocurre a la matriz que explica que los huesos permanezcan casi intactos durante millones de años?
+
+- A. Los componentes orgánicos se degradan y solo se conservan las sustancias inorgánicas, que mantienen la forma original del tejido
+- B. Todos los componentes, orgánicos e inorgánicos, se conservan intactos
+- C. Los componentes inorgánicos se degradan primero
+- D. La matriz desaparece por completo de inmediato
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 742
+**Subtema:** tejidos, órganos y sistemas · matriz extracelular
+
+Cuando un animal muere, los componentes orgánicos de la matriz se degradan y solo se conservan las sustancias inorgánicas que mantienen la forma original del tejido.
+
+### 26
+
+De acuerdo con el libro de Biología, ¿cuáles son los tres tipos básicos de uniones que mantienen unidas a las células?
+
+- A. Las uniones estrechas, las uniones de anclaje y las uniones comunicantes
+- B. Las uniones óseas, musculares y nerviosas
+- C. Las uniones epiteliales, conjuntivas y adiposas
+- D. Las uniones simples, dobles y triples
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 742
+**Subtema:** tejidos, órganos y sistemas · uniones celulares
+
+Existen tres tipos básicos de uniones: las uniones estrechas, las uniones de anclaje y las uniones comunicantes.
+
+---
+
+## Sub-lote 6 · El tejido epitelial y la piel (fig. 31-5, p. 742)
+
+### 27
+
+De acuerdo con el libro de Biología, ¿qué hace el tejido epitelial y cómo es su estructura?
+
+- A. Reviste el cuerpo, sus cavidades y el interior y el exterior de los órganos, formando una lámina continua con gran densidad de células y escasa matriz extracelular
+- B. Se contrae para producir movimiento
+- C. Transmite los impulsos nerviosos
+- D. Da sostén al cuerpo con abundante matriz extracelular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 742
+**Subtema:** tejidos, órganos y sistemas · tejido epitelial
+
+El tejido epitelial reviste el cuerpo y sus cavidades, así como el interior y el exterior de los órganos, y forma una lámina continua. Tiene una gran densidad de células embebidas en una escasa matriz extracelular.
+
+### 28
+
+De acuerdo con el libro de Biología, ¿qué debe atravesar la barrera que forma el tejido epitelial?
+
+- A. Todo lo que se incorpora al cuerpo e interviene en su metabolismo
+- B. Únicamente el agua
+- C. Nada: es una barrera completamente impenetrable
+- D. Solamente los impulsos nerviosos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 742
+**Subtema:** tejidos, órganos y sistemas · tejido epitelial
+
+Todo lo que se incorpora al cuerpo e interviene en su metabolismo debe atravesar esta barrera.
+
+### 29
+
+De acuerdo con el libro de Biología, ¿qué determina el tipo de tejido epitelial resultante?
+
+- A. La forma de las células (cuboides, cilíndricas o aplanadas) y la cantidad de capas en las que se agrupan
+- B. El color de las células
+- C. La temperatura del cuerpo
+- D. La cantidad de matriz extracelular que producen
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 742
+**Subtema:** tejidos, órganos y sistemas · tejido epitelial
+
+La forma de las células –cuboides, cilíndricas o aplanadas– y la cantidad de capas en las que se agrupan determinan el tipo de tejido epitelial resultante.
+
+### 30
+
+De acuerdo con el libro de Biología, las células epiteliales especializadas en la secreción de sustancias de exportación forman parte de las glándulas. ¿Qué son las glándulas?
+
+- A. Órganos que secretan sustancias, como el sudor, la saliva, la leche, las hormonas y las enzimas digestivas
+- B. Órganos que solo transportan la sangre
+- C. Tejidos especializados en la contracción
+- D. Células nerviosas que transmiten estímulos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 742
+**Subtema:** tejidos, órganos y sistemas · tejido epitelial
+
+Algunas células epiteliales están especializadas en la síntesis y la secreción de sustancias de exportación; en muchos casos, forman parte de glándulas, órganos que secretan sustancias, como el sudor, la saliva, la leche, las hormonas y las enzimas digestivas.
+
+### 31
+
+De acuerdo con el libro de Biología, la piel es el órgano más grande del cuerpo. ¿Por qué tejidos está formada?
+
+- A. Por tejido epitelial (la epidermis) y tejido conjuntivo (la dermis)
+- B. Por tejido muscular y tejido nervioso
+- C. Solamente por tejido conjuntivo
+- D. Solamente por tejido óseo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 742
+**Subtema:** tejidos, órganos y sistemas · la piel
+
+La piel es el órgano más grande del cuerpo. Está formada por tejido epitelial, llamado epidermis, y tejido conjuntivo o dermis.
+
+### 32
+
+De acuerdo con el libro de Biología, ¿cuál es el tejido de la piel que se encuentra en contacto directo con el medio externo y constituye una barrera protectora?
+
+- A. La epidermis
+- B. La dermis
+- C. El tejido adiposo subcutáneo
+- D. El tejido óseo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 742
+**Subtema:** tejidos, órganos y sistemas · la piel
+
+La epidermis es el tejido de la piel que se encuentra en contacto directo con el medio externo. Por lo tanto, constituye una barrera protectora.
+
+> Par que se confunde (reactivos 31 y 32): la **epidermis** es el tejido *epitelial*
+> externo de la piel (barrera); la **dermis** es el tejido *conjuntivo* por debajo.
+> "Epi-" = encima.
+
+---
+
+**Reactivos en este archivo:** 32
