@@ -1,7 +1,14 @@
 # Álgebra · Capítulo VI · Productos y cocientes notables
 
-**Plantel:** Heroico Colegio Militar · **Materia:** `ALG-02-2026`
-**Aplica a:** Lic. en Administración Militar y Lic. en Seguridad Pública (temario idéntico).
+**Libro:** Baldor · *Álgebra* (Patria, 4ª ed. 2019) · **Capítulo VI. Productos y cocientes notables → COMPLETO**
+
+> **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
+> **libro**, no a una escuela. El Capítulo VI lo pide el temario del **HCM**
+> (`ALG-02-2026`) y otros que citan este mismo Baldor 4ª ed. 2019; **la EME no lo
+> incluye** en su temario (salta del V al VIII). Si mañana otra carrera pide el
+> mismo libro y capítulo, se reutilizan estos reactivos sin duplicarlos. Las
+> líneas `**Referencia:**` y `**Subtema:**` de cada reactivo son la llave con que
+> el temario los manda a llamar.
 
 ## Libro
 

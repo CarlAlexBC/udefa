@@ -18,7 +18,7 @@ _Regenerado el 2026-07-24._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, fisica-perez-montiel) | 3755 | abiertas: EMM · Biología |
+| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 3755 | abiertas: EMM · Biología |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -48,13 +48,6 @@ _Regenerado el 2026-07-24._
 | EMM · Química · Capítulo 4 · Reacciones en disolución acuosa | 53 | ninguno. El capítulo 4 quedó cubierto en los cuatro subtemas que pide el temario de Medicina (4.1, 4.3, 4.4 y 4.5); el resto del capítulo (4.2 y 4.6 a 4.8) no entra. Química quedó cerrada; el resumen lo sostiene el `.md` del capítulo 24. |
 | EMM · Química · Capítulo 9 · Enlace químico I: Conceptos básicos | 30 | ninguno. El capítulo 9 quedó cubierto en los tres subtemas que pide el temario de Medicina (9.2, 9.4 y 9.5). Química quedó cerrada; el resumen lo sostiene el `.md` del capítulo 24. |
 | EMM · Química · Capítulo 24 · Química orgánica | 22 | ninguno. Con el capítulo 24, **Química queda cerrada** en todos los capítulos que pide el temario de Medicina `QUI-02-2026`: cap. 2 (153), cap. 3 (43), cap. 4 (53), cap. 9 (30) y cap. 24 (22). El temario de Enfermería es un subconjunto y también queda cubierto. |
-| HCM · Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
-| HCM · Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
-| HCM · Álgebra · Capítulo II · Resta | 23 | ninguno. El capítulo II (pp. 46–57) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-03-signos-agrupacion.md`. |
-| HCM · Álgebra · Capítulo III · Signos de agrupación | 18 | ninguno. El capítulo III (pp. 58–62) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-04-multiplicacion.md`. |
-| HCM · Álgebra · Capítulo IV · Multiplicación | 30 | ninguno. El capítulo IV (pp. 63–78) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-05-division.md`. |
-| HCM · Álgebra · Capítulo V · División | 32 | ninguno. El capítulo V (pp. 79–96) está cerrado, y con `algebra-06-productos-cocientes-notables.md` quedó cerrada toda la materia. |
-| HCM · Álgebra · Capítulo VI · Productos y cocientes notables | 28 | ninguno. El capítulo VI está cerrado y **con él toda la materia de Álgebra**: Preliminares y los capítulos I a VI, páginas impresas 5 a 111. |
 | HCM · Español · Bloque 1 · Proceso comunicativo | 32 | ninguno. El bloque 1 está cerrado. |
 | HCM · Español · Bloque 3 · Proceso de escritura | 77 | ninguno. El bloque 3 está cerrado. |
 | HCM · Geografía · Capítulo 1 · Generalidades | 13 | ninguno. El alcance del capítulo 1 está cerrado. |
@@ -62,6 +55,13 @@ _Regenerado el 2026-07-24._
 | HCM · Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
 | HCM · Geografía · Capítulo 5 · Islas | 42 | ninguno. El capítulo 5 está cerrado. |
 | HCM · Historia · Capítulo 6 · El mundo contemporáneo | 600 | ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que pide el temario del HCM están completos, de la página 205 a la 279. |
+| algebra-baldor · Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
+| algebra-baldor · Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
+| algebra-baldor · Álgebra · Capítulo II · Resta | 23 | ninguno. El capítulo II (pp. 46–57) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-03-signos-agrupacion.md`. |
+| algebra-baldor · Álgebra · Capítulo III · Signos de agrupación | 18 | ninguno. El capítulo III (pp. 58–62) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-04-multiplicacion.md`. |
+| algebra-baldor · Álgebra · Capítulo IV · Multiplicación | 30 | ninguno. El capítulo IV (pp. 63–78) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-05-division.md`. |
+| algebra-baldor · Álgebra · Capítulo V · División | 32 | ninguno. El capítulo V (pp. 79–96) está cerrado, y con `algebra-06-productos-cocientes-notables.md` quedó cerrada toda la materia. |
+| algebra-baldor · Álgebra · Capítulo VI · Productos y cocientes notables | 28 | ninguno. El capítulo VI está cerrado y **con él toda la materia de Álgebra**: Preliminares y los capítulos I a VI, páginas impresas 5 a 111. |
 | fisica-perez-montiel · Física · Unidad 3 · Vectores | 48 | ninguno. La Unidad 3 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 4 · Cinemática | 15 | ninguno. La Unidad 4 (tema 4, único que pide el temario) está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 5 · Dinámica | 94 | ninguno. La Unidad 5 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
