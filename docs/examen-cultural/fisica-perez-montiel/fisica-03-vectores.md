@@ -1,8 +1,15 @@
 # Física · Unidad 3 · Vectores
 
-**Plantel:** Escuela Militar de Medicina (EMM) — UDEFA
 **Materia:** `FG-03-2026` · Física General
-**Unidad del temario:** Unidad 3. Vectores → **COMPLETO**
+**Unidad del libro:** Unidad 3. Vectores → **COMPLETA**
+
+> **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
+> **libro**, no a una escuela. Quién lo pide es cosa del temario: hoy la Unidad 3
+> la piden los temarios de la **EMO** y la **EMOS**, y si mañana otra carrera o
+> plantel pide el mismo libro y la misma unidad, reutiliza estos mismos reactivos
+> sin duplicarlos. La línea `**Referencia:**` (libro, edición, página) y
+> `**Subtema:**` de cada reactivo son la llave con la que el temario los manda a
+> llamar.
 
 ## Libro
 
@@ -44,10 +51,8 @@ La Unidad 3 (Vectores) queda **COMPLETA** en este archivo: temas 1 a 16
 - **Sub-lote 6 · Producto por escalar, producto escalar y producto vectorial
   (p. 59, 60)** — temas 14, 15 y 16.
 
-## Pendiente
-
-Falta el resto de la materia Física en sus propios archivos (la Unidad 3 ya está
-cerrada arriba): Unidad 4 (Cinemática, sólo el tema 4 sobre distancia,
+**Pendiente:** Falta el resto de la materia Física en sus propios archivos (la
+Unidad 3 ya está cerrada arriba): Unidad 4 (Cinemática, sólo el tema 4 sobre distancia,
 desplazamiento, velocidad y rapidez), Unidad 5 (Dinámica, temas 2 Leyes de la
 Dinámica, 8 Energía, 13 Cantidad de Movimiento o Momento Lineal y 17 Ley de la
 Conservación del Momento Angular), Unidad 6 (Materia y sus Propiedades, temas 1

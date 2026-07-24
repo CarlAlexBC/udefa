@@ -18,7 +18,7 @@ _Regenerado el 2026-07-24._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM) | 2851 | abiertas: EMM · Biología, EMM · Química |
+| Examen cultural (EMM, HCM, fisica-perez-montiel) | 2851 | abiertas: EMM · Biología, EMM · Química, fisica-perez-montiel · Física |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -40,7 +40,6 @@ _Regenerado el 2026-07-24._
 | EMM · Biología · Capítulo 12 · El flujo de información genética y la síntesis de proteínas | 131 | ninguno. El capítulo 12 está cerrado en 131 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 31 (`biologia-31-tejidos-organos-sistemas.md`). |
 | EMM · Biología · Capítulo 31 · Los tejidos, órganos y sistemas de los vertebrados | 84 | ninguno. El capítulo 31 está cerrado en 84 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 32 (`biologia-32-sistema-nervioso.md`). |
 | EMM · Biología · Capítulo 32 · El sistema nervioso: estructura y función | 261 | el capítulo 32 está EN CURSO; sigue desde la página impresa 775 (hoja 821) en adelante (los potenciales postsinápticos y la integración de señales, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente. |
-| EMM · Física · Unidad 3 · Vectores | 48 | _no declarado_ |
 | EMM · Química · Capítulo 2 · Átomos, moléculas e iones | 38 | 2.5, 2.6, 2.7 y 2.8. |
 | HCM · Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
 | HCM · Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
@@ -56,10 +55,8 @@ _Regenerado el 2026-07-24._
 | HCM · Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
 | HCM · Geografía · Capítulo 5 · Islas | 42 | ninguno. El capítulo 5 está cerrado. |
 | HCM · Historia · Capítulo 6 · El mundo contemporáneo | 600 | ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que pide el temario del HCM están completos, de la página 205 a la 279. |
+| fisica-perez-montiel · Física · Unidad 3 · Vectores | 48 | Falta el resto de la materia Física en sus propios archivos (la Unidad 3 ya está cerrada arriba): Unidad 4 (Cinemática, sólo el tema 4 sobre distancia, desplazamiento, velocidad y rapidez), Unidad 5 (Dinámica, temas 2 Leyes de la Dinámica, 8 Energía, 13 Cantidad de Movimiento o Momento Lineal y 17 Ley de la Conservación del Momento Angular), Unidad 6 (Materia y sus Propiedades, temas 1 Estructura de la Materia, 2 Estados de Agregación y 3 Propiedades Generales o Extensivas), Unidad 8 (Hidrostática, completa) y Unidad 11 (Termología, temas 1, 2, 3, 5, 7 y 12), siempre sólo definiciones/conceptos y saltando ejercicios y problemas. |
 | **Total** | **2851** | |
-
-> 1 archivo(s) no declaran pendiente en su encabezado, así que este resumen **no puede afirmar que estén cerrados**. Para que aparezcan como
-> terminados, agrégales una línea `**Pendiente:**` que lo diga.
 
 ## Personalidad (remaster)
 
