@@ -54,8 +54,14 @@ neuronas motoras (eferentes) y sensoriales (aferentes), las señales bioeléctri
 químicas (los transmisores nerviosos, la sinapsis, el flujo axoplásmico) y la
 división del sistema nervioso de los vertebrados en central (SNC: encéfalo y médula
 espinal) y periférico (SNP), con la función y las dimensiones de la médula espinal.
+De la **página 760** se cubren la sustancia gris y blanca de la médula, el encéfalo
+(cerebro, diencéfalo, cerebelo y tronco cerebral), el tronco cerebral (mesencéfalo,
+protuberancia y bulbo raquídeo), la formación reticular y el SARA, las funciones del
+cerebelo y del diencéfalo, las raíces dorsal (sensitiva) y ventral (motora) de la
+médula con los ganglios de la raíz dorsal (fig. 32-4), y las divisiones del SNP
+—somático y autónomo (simpático, parasimpático y entérico), fig. 32-3—.
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 760 (hoja 806) en adelante (el encéfalo en detalle, las raíces dorsal/ventral de la médula, y el resto del sistema nervioso periférico). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 761 (hoja 807) en adelante (el cerebro y la corteza cerebral en detalle, y el resto del sistema nervioso). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -635,4 +641,173 @@ En los seres humanos, la médula espinal es un cilindro delgado de unos 40 cm de
 
 ---
 
-**Reactivos en este archivo:** 36
+## Sub-lote 5 · El encéfalo y las raíces de la médula (figs. 32-3 y 32-4, p. 760)
+
+### 37
+
+De acuerdo con el libro de Biología, en la médula espinal, ¿de qué está compuesta principalmente la sustancia gris y de qué la sustancia blanca?
+
+- A. La gris, de interneuronas, cuerpos celulares y dendritas de neuronas motoras y células de la glía; la blanca, de haces de axones mielínicos
+- B. La gris, de haces de axones mielínicos; la blanca, de interneuronas
+- C. Ambas están compuestas de tejido óseo
+- D. Ambas están compuestas únicamente de células de la glía
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 760
+**Subtema:** sistema nervioso · médula espinal
+
+La sustancia gris de la médula consiste, fundamentalmente, en interneuronas, cuerpos celulares y dendritas de neuronas motoras y células de la glía. La sustancia blanca está formada por haces de axones mielínicos, que corren en sentido longitudinal a través de la médula espinal.
+
+### 38
+
+De acuerdo con el libro de Biología, ¿qué estructuras comprende el encéfalo?
+
+- A. El cerebro, el diencéfalo, el cerebelo y el tronco cerebral (o tallo encefálico)
+- B. Únicamente el cerebro
+- C. La médula espinal y los ganglios
+- D. El corazón y los pulmones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 760
+**Subtema:** sistema nervioso · el encéfalo
+
+La médula espinal se continúa con el encéfalo, que comprende el cerebro, el diencéfalo, el cerebelo y el tronco cerebral (o tallo encefálico).
+
+### 39
+
+De acuerdo con el libro de Biología, ¿por qué estructuras está formado el tronco cerebral?
+
+- A. Por el mesencéfalo, la protuberancia y el bulbo raquídeo
+- B. Por el cerebro y el cerebelo
+- C. Por la médula espinal y el diencéfalo
+- D. Por los ganglios de la raíz dorsal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 760
+**Subtema:** sistema nervioso · el encéfalo
+
+El tronco cerebral está formado por el mesencéfalo, la protuberancia y el bulbo raquídeo.
+
+### 40
+
+De acuerdo con el libro de Biología, ¿qué funciones reguladoras automáticas comandan los núcleos de la formación reticular, en el tronco cerebral?
+
+- A. El control de la respiración, de la frecuencia cardíaca y de la presión sanguínea
+- B. El lenguaje articulado y el pensamiento simbólico
+- C. La digestión y la absorción de los alimentos
+- D. El equilibrio y la coordinación motora
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 760
+**Subtema:** sistema nervioso · el encéfalo
+
+Dentro del tronco cerebral se ubica la formación reticular, con la presencia de núcleos que comandan algunas funciones reguladoras automáticas importantes, como el control de la respiración, de la frecuencia cardíaca y de la presión sanguínea.
+
+### 41
+
+De acuerdo con el libro de Biología, ¿cómo se llama el sistema, ubicado en la formación reticular, de vital importancia para el nivel de excitación y alerta (llamado el "interruptor de consciencia")?
+
+- A. El sistema activador reticular ascendente (SARA)
+- B. El diencéfalo
+- C. El cerebelo
+- D. El bulbo raquídeo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 760
+**Subtema:** sistema nervioso · el encéfalo
+
+Dentro de la formación reticular se ubica el sistema activador reticular ascendente (SARA), de vital importancia en el mantenimiento del nivel general de excitación y alerta (con frecuencia se lo denomina el "interruptor de consciencia").
+
+### 42
+
+De acuerdo con el libro de Biología, el cerebelo, que se encuentra en la parte posterior y basal del encéfalo, ¿con qué se relaciona?
+
+- A. Con el equilibrio y la coordinación motora
+- B. Con la producción de hormonas
+- C. Con la digestión de los alimentos
+- D. Con el control de la respiración
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 760
+**Subtema:** sistema nervioso · el encéfalo
+
+El cerebelo, estructura que se encuentra en la parte posterior y basal del encéfalo, se relaciona con el equilibrio y la coordinación motora, entre sus muchas otras funciones.
+
+### 43
+
+De acuerdo con el libro de Biología, ¿en qué es una región fundamental el diencéfalo?
+
+- A. En el procesamiento de información, la regulación de las funciones viscerales y endocrinas, y la regulación de los ritmos biológicos
+- B. En la coordinación de los movimientos del vuelo
+- C. En el almacenamiento de calcio y fosfato
+- D. En la contracción de los músculos esqueléticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 760
+**Subtema:** sistema nervioso · el encéfalo
+
+El diencéfalo es una región fundamental en lo que hace al procesamiento de información, la regulación de las funciones viscerales y endocrinas, y en la regulación de los ritmos biológicos.
+
+### 44
+
+De acuerdo con el libro de Biología, según la figura 32-4, ¿en qué dos haces de fibras se divide cada nervio espinal o raquídeo?
+
+- A. La raíz dorsal sensitiva y la raíz ventral motora
+- B. La raíz dorsal motora y la raíz ventral sensitiva
+- C. La sustancia gris y la sustancia blanca
+- D. La división simpática y la parasimpática
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 760
+**Subtema:** sistema nervioso · médula espinal
+
+Cada nervio espinal o raquídeo se divide en dos haces de fibras, la raíz dorsal sensitiva y la raíz ventral motora, en la columna vertebral.
+
+### 45
+
+De acuerdo con el libro de Biología, según la figura 32-4, ¿dónde se encuentran los cuerpos celulares de las neuronas sensoriales?
+
+- A. En los ganglios de la raíz dorsal
+- B. En la propia médula espinal
+- C. En el cerebelo
+- D. En el tronco cerebral
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 760
+**Subtema:** sistema nervioso · médula espinal
+
+Los cuerpos celulares de las neuronas sensoriales se encuentran en los ganglios de la raíz dorsal.
+
+### 46
+
+De acuerdo con el libro de Biología, según la figura 32-3, ¿en qué dos partes se divide el sistema nervioso periférico?
+
+- A. En el somático y el autónomo
+- B. En el central y el periférico
+- C. En la sustancia gris y la sustancia blanca
+- D. En el simpático y el diencéfalo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 760
+**Subtema:** sistema nervioso · SNP
+
+El sistema nervioso periférico se divide en somático y autónomo.
+
+### 47
+
+De acuerdo con el libro de Biología, según la figura 32-3, ¿en qué divisiones se subdivide el sistema nervioso autónomo?
+
+- A. En la división simpática, la parasimpática y la entérica
+- B. En la somática y la motora
+- C. En la dorsal y la ventral
+- D. En la sustancia gris y la sustancia blanca
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 760
+**Subtema:** sistema nervioso · SNP
+
+El sistema nervioso autónomo se subdivide en la división simpática, la parasimpática y la entérica.
+
+---
+
+**Reactivos en este archivo:** 47
