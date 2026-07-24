@@ -30,11 +30,14 @@ tanto la hoja 105 es la página 97.
 ## Alcance
 
 Este archivo cubre el **Capítulo VI · Productos y cocientes notables**, páginas
-impresas **97 a 111**. **Con él se cierra el temario de Álgebra.**
+impresas **97 a 111**. **Con él se cierra el temario del HCM** (`ALG-02-2026`); la
+EME (`ÁLGE-03-2026`) pide además el capítulo VIII, en
+`algebra-08-ecuaciones-primer-grado.md`.
 
 ## Cobertura actual
 
-**El capítulo VI queda cerrado, y con él toda la materia.** Cubierta la teoría de
+**El capítulo VI queda cerrado, y con él el temario del HCM** (Preliminares y los
+capítulos I a VI). Cubierta la teoría de
 las páginas **97 a 111**:
 
 - El recuadro histórico de Euclides.
@@ -96,8 +99,10 @@ documentado en `algebra-04-multiplicacion.md`: los pies de ilustración y el cue
 del texto no concuerdan. Por el criterio del banco manda el cuerpo. **No se
 escribió reactivo sobre las fechas de Euclides.**
 
-**Pendiente:** ninguno. El capítulo VI está cerrado y **con él toda la materia de
-Álgebra**: Preliminares y los capítulos I a VI, páginas impresas 5 a 111.
+**Pendiente:** ninguno. El capítulo VI está cerrado y con él **el temario del HCM**
+(`ALG-02-2026`): Preliminares y los capítulos I a VI, páginas impresas 5 a 111. La
+**EME** (`ÁLGE-03-2026`) pide además el capítulo VIII, en
+`algebra-08-ecuaciones-primer-grado.md`.
 
 ## Criterio: teoría sobre práctica
 

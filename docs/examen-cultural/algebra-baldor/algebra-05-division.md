@@ -78,8 +78,9 @@ Cuatro puntos de este capítulo ya estaban cubiertos en
 El criterio fue el de siempre: no repetir el hecho, sí escribir lo que el
 capítulo añade.
 
-**Pendiente:** ninguno. El capítulo V (pp. 79–96) está cerrado, y con
-`algebra-06-productos-cocientes-notables.md` quedó cerrada toda la materia.
+**Pendiente:** ninguno. El capítulo V (pp. 79–96) está cerrado. El capítulo VI
+(`algebra-06-productos-cocientes-notables.md`) cierra el temario del HCM, y el
+capítulo VIII (`algebra-08-ecuaciones-primer-grado.md`) cubre el que añade la EME.
 
 ## Criterio: teoría sobre práctica
 
