@@ -19,16 +19,17 @@ de la página impresa (hoja 286 = p. 282). Se leyó de la hoja, no se calculó.
 
 ## Alcance
 
-Este archivo cubre el **Capítulo XX · Funciones**, que arranca en la página impresa
-**282**. El capítulo va desde el concepto de función (constantes y variables,
-definición de Cauchy, ley de dependencia, funciones analíticas y concretas) hasta la
-variación (directa, inversa, conjunta) y la representación gráfica de las funciones
-(coordenadas cartesianas). Sólo se toma la teoría (definiciones y reglas); los
-ejercicios de cálculo y las gráficas concretas no llevan reactivos.
+Este archivo cubre el **Capítulo XX · Funciones**, páginas impresas **282 a 290**. El
+capítulo va desde el concepto de función (constantes y variables, definición de Cauchy,
+ley de dependencia, funciones analíticas y concretas) hasta la variación (directa,
+inversa, conjunta) y las funciones expresables por fórmulas. **La representación
+gráfica de las funciones es el Capítulo XXI, que el temario NO pide**, así que no entra
+aquí. Sólo se toma la teoría (definiciones y reglas); los ejercicios de cálculo no
+llevan reactivos.
 
 ## Cobertura actual
 
-**EN CURSO.** Cubierto de la p. 282 a la 284:
+**COMPLETO.** El capítulo XX queda cubierto, pp. 282–290:
 
 - Recuadro histórico de Pierre Fermat (p. 282).
 - Constantes y variables (art. 254).
@@ -38,12 +39,12 @@ ejercicios de cálculo y las gráficas concretas no llevan reactivos.
 - Funciones analíticas y concretas (art. 258).
 - Variación directa, inversa, conjunta y directa e inversa a la vez, y el resumen de
   las variaciones (arts. 259–265).
+- Funciones expresables por fórmulas y el grado de una función (art. 266).
 
-**Pendiente:** sigue el Capítulo XX con la **representación gráfica de las funciones**
-(coordenadas cartesianas, abscisa y ordenada, cuadrantes, signo de las coordenadas)
-hasta cerrar el capítulo. Después faltan de Álgebra los capítulos **XXIV y XXV
-(Ecuaciones simultáneas)**, que piden EMM/EMO/EMOS. Este archivo sostiene el pendiente
-de Álgebra mientras el capítulo en curso sea el XX.
+**Pendiente:** el capítulo XX está cerrado (arts. 254–267, pp. 282–290; la
+representación gráfica de las funciones es el Capítulo XXI, que el temario no pide). Lo
+que falta de Álgebra son los capítulos **XXIV y XXV (Ecuaciones simultáneas)**, que
+piden EMM/EMO/EMOS; mientras no se abra su archivo, éste sostiene el pendiente de Álgebra.
 
 ## Criterio: teoría sobre práctica
 
@@ -426,5 +427,54 @@ Se dice que A es proporcional a B e inversamente proporcional a C cuando A es pr
 
 ---
 
-**Reactivos en este archivo:** 22
-**Pendiente:** sigue el Capítulo XX con la representación gráfica de las funciones (coordenadas cartesianas, abscisa y ordenada, cuadrantes, signo de las coordenadas) hasta cerrar el capítulo. Después faltan de Álgebra los capítulos XXIV y XXV (Ecuaciones simultáneas), que piden EMM/EMO/EMOS. Mientras el capítulo en curso sea el XX, este archivo sostiene el pendiente de Álgebra.
+## Sub-lote 9 · Funciones expresables por fórmulas (art. 266, p. 288)
+
+### 23
+
+En relación con el libro de Álgebra, ¿cuándo son las funciones expresables por fórmulas o ecuaciones?
+
+- A. Cuando se conoce la relación matemática que liga a la variable dependiente o función con las variables independientes, o sea cuando se conoce la ley de dependencia
+- B. Cuando la variable independiente es constante
+- C. Cuando no se conoce la ley de dependencia
+- D. Cuando la función es concreta
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 288
+**Subtema:** Funciones · expresables por fórmulas
+
+En general, las funciones son expresables por fórmulas o ecuaciones cuando se conoce la relación matemática que liga a la variable dependiente o función con las variables independientes, o sea cuando se conoce la ley de dependencia.
+
+### 24
+
+En relación con el libro de Álgebra, la ecuación que es la expresión analítica de una función, ¿qué hace con la función?
+
+- A. La define
+- B. La grafica
+- C. La suprime
+- D. La aproxima
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 288
+**Subtema:** Funciones · expresables por fórmulas
+
+En estos casos habrá una ecuación que será la expresión analítica de la función y que define la función.
+
+### 25
+
+En relación con el libro de Álgebra, ¿de qué grado es la función 2x + 1?
+
+- A. De primer grado
+- B. De segundo grado
+- C. De tercer grado
+- D. De grado cero
+
+**Respuesta:** A
+**Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 288
+**Subtema:** Funciones · grado
+
+2x + 1 es una función de primer grado; 2x², de segundo grado; x³ + 2x − 1, de tercer grado.
+
+---
+
+**Reactivos en este archivo:** 25
+**Pendiente:** el capítulo XX está cerrado (arts. 254–267, pp. 282–290; la representación gráfica de las funciones es el Capítulo XXI, que el temario no pide). Lo que falta de Álgebra son los capítulos XXIV y XXV (Ecuaciones simultáneas), que piden EMM/EMO/EMOS; mientras no se abra su archivo, éste sostiene el pendiente de Álgebra.
