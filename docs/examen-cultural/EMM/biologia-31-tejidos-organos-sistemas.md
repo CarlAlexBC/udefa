@@ -87,7 +87,7 @@ de aplicación); y el detalle funcional del Cuadro 31-1 "Uniones entre células"
 comunicantes— sí están cubiertos (reactivo 26). El capítulo termina en la p. 753; la
 754 abre el capítulo 32.
 
-**Pendiente:** el capítulo 31 está cerrado en 84 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37, y este archivo —el último capítulo escrito— sostiene ese pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** ninguno. El capítulo 31 está cerrado en 84 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 32 (`biologia-32-sistema-nervioso.md`).
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
