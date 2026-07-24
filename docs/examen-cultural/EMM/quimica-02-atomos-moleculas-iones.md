@@ -67,7 +67,16 @@ con su regla de subíndices. No se sacan reactivos de los Ejemplos 2.2, 2.3 y 2.
 (ejercicios resueltos), ni de las fórmulas estructurales de la figura 2.12, que
 se imprimen deformadas.
 
-**Pendiente:** 2.7 y 2.8.
+**2.7 Nomenclatura de compuestos (págs. 58–66): en curso.** Cubierto el bloque
+de **compuestos iónicos (págs. 58–60)**: la nomenclatura química, orgánico vs.
+inorgánico, las cuatro categorías, los compuestos binarios y ternarios, la
+terminación "-uro", el sistema antiguo "-oso/-ico" y el sistema Stock. Faltan
+los compuestos moleculares (61–63), los ácidos y bases (64–65) y los hidratos
+(66). No se sacan reactivos de la columna de **cationes** del cuadro 2.3: la
+traducción pega los nombres unos con otros ("bario (Ba2+) cadmio (Cd2+) calcio
+(Ca2+)"); la columna de aniones sí está limpia.
+
+**Pendiente:** 2.7 (compuestos moleculares, ácidos y bases, e hidratos) y 2.8.
 
 ---
 
@@ -1353,4 +1362,288 @@ Si las cargas son numéricamente iguales, entonces no se necesitan subíndices.
 
 ---
 
-**Reactivos en este archivo:** 82
+## Sub-lote 13 · Nomenclatura química: generalidades
+
+### 83
+
+De acuerdo con el libro de Química, ¿qué es la nomenclatura química?
+
+- A. La denominación de los compuestos químicos
+- B. La clasificación de los elementos en la tabla periódica
+- C. El cálculo de las cargas de los iones de un compuesto
+- D. La medición experimental de las fórmulas empíricas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 58
+**Subtema:** nomenclatura · generalidades
+
+Para comenzar nuestra discusión sobre la nomenclatura química, la denominación de los compuestos químicos, primero debemos distinguir entre compuestos orgánicos e inorgánicos.
+
+### 84
+
+De conformidad con el libro de Química, en el capítulo 2 sobre los átomos y las moléculas, ¿a cuántos asciende hoy en día el número de compuestos conocidos?
+
+- A. Supera con creces los 66 millones
+- B. Supera con creces los 6 millones
+- C. Ronda los 660 mil
+- D. Ronda los 6 mil
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 58
+**Subtema:** nomenclatura · generalidades
+
+Hoy en día, el número de compuestos conocidos supera con creces los 66 millones. Afortunadamente, no es necesario memorizar sus nombres.
+
+### 85
+
+En relación con el libro de Química, ¿qué contienen los compuestos orgánicos?
+
+- A. Carbono, generalmente en combinación con elementos como hidrógeno, oxígeno, nitrógeno y azufre
+- B. Únicamente hidrógeno y oxígeno
+- C. Un metal combinado con un no metal
+- D. Solo elementos de los grupos 1A y 7A
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 58
+**Subtema:** nomenclatura · orgánicos e inorgánicos
+
+Los compuestos orgánicos contienen carbono, generalmente en combinación con elementos como hidrógeno, oxígeno, nitrógeno y azufre. Todos los demás compuestos se clasifican como compuestos inorgánicos.
+
+### 86
+
+De acuerdo con el libro de Química, ¿cómo se clasifican por conveniencia el monóxido de carbono, el dióxido de carbono y el disulfuro de carbono, aunque contienen carbono?
+
+- A. Como compuestos inorgánicos
+- B. Como compuestos orgánicos
+- C. Como hidratos
+- D. Como compuestos ternarios
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 58
+**Subtema:** nomenclatura · orgánicos e inorgánicos
+
+Por conveniencia, algunos compuestos que contienen carbono, como el monóxido de carbono (CO), el dióxido de carbono (CO2), el disulfuro de carbono (CS2), los compuestos que contienen el grupo cianuro (CN−) y el carbonato (CO3 2−) y el bicarbonato (HCO3 −) […] se consideran compuestos inorgánicos.
+
+### 87
+
+De conformidad con el libro de Química, ¿en qué cuatro categorías se dividen los compuestos inorgánicos?
+
+- A. Compuestos iónicos, compuestos moleculares, ácidos y bases, e hidratos
+- B. Compuestos binarios, ternarios, cuaternarios y complejos
+- C. Ácidos, bases, sales y óxidos
+- D. Compuestos metálicos, no metálicos, orgánicos e inorgánicos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 58
+**Subtema:** nomenclatura · generalidades
+
+Para organizar y simplificar nuestra aventura de nombrar compuestos, podemos dividir los compuestos inorgánicos en cuatro categorías: compuestos iónicos, compuestos moleculares, ácidos y bases e hidratos.
+
+---
+
+## Sub-lote 14 · Compuestos iónicos binarios y ternarios
+
+### 88
+
+En relación con el libro de Química, ¿cuál es la importante excepción entre los cationes, que no se deriva de átomos metálicos?
+
+- A. El ion amonio
+- B. El ion hidróxido
+- C. El ion cianuro
+- D. El ion nitrato
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 58
+**Subtema:** nomenclatura · compuestos iónicos
+
+Con la importante excepción del ion amonio, NH4+, todos los cationes que nos interesan se derivan de átomos metálicos. Los cationes metálicos toman sus nombres de los elementos.
+
+### 89
+
+De acuerdo con el libro de Química, ¿qué son los compuestos binarios?
+
+- A. Compuestos formados a partir de solo dos elementos
+- B. Compuestos que constan de tres elementos
+- C. Compuestos que contienen dos cationes distintos
+- D. Compuestos con dos moléculas de agua
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 58
+**Subtema:** nomenclatura · compuestos binarios
+
+Muchos compuestos iónicos son compuestos binarios o compuestos formados a partir de solo dos elementos.
+
+### 90
+
+De conformidad con el libro de Química, en los compuestos binarios, ¿en qué orden se mencionan los elementos?
+
+- A. Primero el catión metálico, seguido del anión no metálico
+- B. Primero el anión no metálico, seguido del catión metálico
+- C. Primero el elemento de mayor carga, sea cual sea
+- D. En orden alfabético según su símbolo
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 58
+**Subtema:** nomenclatura · compuestos binarios
+
+Para los compuestos binarios, el primer elemento mencionado es el catión metálico, seguido del anión no metálico. Por lo tanto, NaCl es cloruro de sodio.
+
+### 91
+
+En relación con el libro de Química, ¿cómo se nombra el anión en un compuesto binario?
+
+- A. Tomando la primera parte del nombre del elemento y agregando "-uro"
+- B. Tomando el nombre completo del elemento y agregando "-ato"
+- C. Anteponiendo un prefijo griego al nombre del elemento
+- D. Usando un número romano entre paréntesis
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 58
+**Subtema:** nomenclatura · compuestos binarios
+
+El anión se nombra tomando la primera parte del nombre del elemento (cloro) y agregando "-uro".
+
+### 92
+
+De acuerdo con el libro de Química, ¿cómo se denominan los compuestos LiOH y KCN?
+
+- A. Hidróxido de litio y cianuro de potasio
+- B. Óxido de litio y carbonato de potasio
+- C. Hidruro de litio y cloruro de potasio
+- D. Litio hidroxilado y potasio cianurado
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 59
+**Subtema:** nomenclatura · compuestos ternarios
+
+La terminación "-uro" también se usa para ciertos grupos aniónicos que contienen diferentes elementos, como el hidróxido (OH−) y el cianuro (CN−). Así, los compuestos LiOH y KCN se denominan hidróxido de litio y cianuro de potasio, respectivamente.
+
+### 93
+
+De conformidad con el libro de Química, ¿qué son los compuestos ternarios?
+
+- A. Compuestos que constan de tres elementos
+- B. Compuestos formados a partir de solo dos elementos
+- C. Compuestos que contienen tres átomos en total
+- D. Compuestos con tres cargas positivas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 59
+**Subtema:** nomenclatura · compuestos ternarios
+
+Estas y otras sustancias iónicas similares se denominan compuestos ternarios, lo que significa compuestos que constan de tres elementos.
+
+---
+
+## Sub-lote 15 · Cationes con más de una carga
+
+### 94
+
+En relación con el libro de Química, ¿qué metales pueden formar más de un tipo de catión, y qué dos cationes forma el hierro?
+
+- A. Especialmente los metales de transición; el hierro forma Fe2+ y Fe3+
+- B. Especialmente los metales alcalinos; el hierro forma Fe+ y Fe2+
+- C. Únicamente los gases nobles; el hierro forma Fe3+ y Fe4+
+- D. Especialmente los no metales; el hierro forma solo Fe2+
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 59
+**Subtema:** nomenclatura · cationes de carga variable
+
+Ciertos metales, especialmente los metales de transición, pueden formar más de un tipo de catión. Tomemos el hierro como ejemplo. El hierro puede formar dos cationes: Fe2+ y Fe3+.
+
+### 95
+
+De acuerdo con el libro de Química, en el sistema de nomenclatura más antiguo, ¿qué terminaciones se asignan a los cationes según sus cargas?
+
+- A. "-oso" al catión con menos cargas positivas y "-ico" al catión con más cargas positivas
+- B. "-ico" al catión con menos cargas positivas y "-oso" al catión con más cargas positivas
+- C. "-uro" al catión con menos cargas y "-ato" al de más cargas
+- D. "-ito" al catión con menos cargas y "-ato" al de más cargas
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 59
+**Subtema:** nomenclatura · cationes de carga variable
+
+Un sistema de nomenclatura más antiguo que todavía tiene un uso limitado asigna la terminación "-ous" al catión con menos cargas positivas y la terminación "-ic" al catión con más cargas positivas.
+
+> El libro conserva aquí las terminaciones inglesas "-ous" y "-ic" sin traducir, aunque enseguida las aplica en español ("ion ferroso", "ion férrico"). Se cita tal como aparece.
+
+### 96
+
+De conformidad con el libro de Química, ¿cómo se llaman los compuestos FeCl2 y FeCl3 en el sistema antiguo?
+
+- A. Cloruro ferroso y cloruro férrico
+- B. Cloruro férrico y cloruro ferroso
+- C. Cloruro de hierro (I) y cloruro de hierro (II)
+- D. Dicloruro de hierro y tricloruro de hierro
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 59
+**Subtema:** nomenclatura · cationes de carga variable
+
+Los nombres de los compuestos que estos iones de hierro forman con el cloro serían así: FeCl2, cloruro ferroso; FeCl3, cloruro férrico.
+
+### 97
+
+En relación con el libro de Química, ¿cuál es la primera limitación del método de nombrar iones con los sufijos "-oso" e "-ico"?
+
+- A. Que no brindan información sobre las cargas reales de los dos cationes involucrados
+- B. Que no pueden aplicarse a los metales de transición
+- C. Que exigen usar números romanos
+- D. Que solo funcionan con compuestos ternarios
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 59
+**Subtema:** nomenclatura · cationes de carga variable
+
+Este método de nombrar iones tiene algunas limitaciones distintas. Primero, los sufijos "-ous" y "-ic" no brindan información sobre las cargas reales de los dos cationes involucrados.
+
+### 98
+
+De acuerdo con el libro de Química, ¿en qué consiste el sistema Stock?
+
+- A. En designar los diferentes cationes con números romanos, donde I indica una carga positiva en el catión metálico y II dos cargas positivas
+- B. En anteponer prefijos griegos al nombre del catión
+- C. En usar las terminaciones "-oso" e "-ico" según la carga
+- D. En escribir la carga como subíndice del símbolo del metal
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 59
+**Subtema:** nomenclatura · sistema Stock
+
+Se ha vuelto cada vez más común designar diferentes cationes con números romanos. Esto se llama el sistema Stock. En este sistema, el número romano I indica una carga positiva en el catión metálico, II significa dos cargas positivas en el catión metálico y así sucesivamente.
+
+### 99
+
+De conformidad con el libro de Química, según el sistema Stock, ¿cómo se nombran los compuestos MnO, Mn2O3 y MnO2?
+
+- A. Óxido de manganeso (II), óxido de manganeso (III) y óxido de manganeso (IV)
+- B. Óxido de manganeso (I), óxido de manganeso (II) y óxido de manganeso (III)
+- C. Óxido manganoso, óxido mangánico y peróxido de manganeso
+- D. Monóxido, trióxido y dióxido de manganeso
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 59
+**Subtema:** nomenclatura · sistema Stock
+
+Los átomos de manganeso (Mn) pueden asumir varias cargas positivas diferentes: Mn2+, MnO, óxido de manganeso (II); Mn3+, Mn2O3, óxido de manganeso (III); Mn4+, MnO2, óxido de manganeso (IV).
+
+### 100
+
+En relación con el libro de Química, ¿qué sistema de nomenclatura prefiere el libro para nombrar compuestos?
+
+- A. El sistema de Stock, de acuerdo con la práctica moderna
+- B. El sistema antiguo de las terminaciones "-oso" e "-ico"
+- C. El sistema de prefijos griegos
+- D. El sistema de nombres comunes derivados del origen o la aplicación
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 60
+**Subtema:** nomenclatura · sistema Stock
+
+De acuerdo con la práctica moderna, preferiremos el sistema de Stock para nombrar compuestos en este libro de texto.
+
+---
+
+**Reactivos en este archivo:** 100
