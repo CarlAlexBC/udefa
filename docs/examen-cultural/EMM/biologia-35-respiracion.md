@@ -113,9 +113,33 @@ respiraciones diarias, los casos de Beethoven, el "Che" Guevara y Proust, los tr
 fenómenos que la definen, los síntomas y el silbido, su empeoramiento nocturno, los
 desencadenantes alérgicos, la relación epidemiológica con la contaminación, el diagnóstico
 por espirometría y flujo máximo, la diferencia entre broncodilatadores y
-glucocorticosteroides, y su carácter psicosomático).
+glucocorticosteroides, y su carácter psicosomático). De la **página 835** se cubren la
+membrana respiratoria (el endotelio capilar y las células epiteliales planas de los
+alvéolos como una única y fina capa de células con un delgado espacio intersticial,
+fig. 35-7), las pleuras (visceral y parietal) y el espacio intrapleural con su líquido
+lubricante, y el proceso de la ventilación (el cambio de volumen de la cavidad torácica
+por el diafragma y los músculos intercostales, la inspiración con el diafragma que se
+aplana, y el modelo de la fig. 35-8 con la espiración pasiva y la forzada). De la
+**página 836** se cubren el final del proceso de ventilación (los intercostales externos,
+la caída de presión que hace entrar el aire, la exhalación pasiva por las propiedades
+elásticas y la regulación en el bulbo raquídeo con su alto umbral a los anestésicos), los
+pigmentos respiratorios y el transporte de oxígeno (la baja solubilidad del O2 en plasma,
+el 0,3 %, las proteínas transportadoras que elevan 70 veces la capacidad, la hemoglobina
+y la hemocianina, su ubicación en plasma o en glóbulos rojos según el grupo, los 265
+millones de moléculas por eritrocito, las cuatro subunidades con hierro, y la mioglobina
+del músculo esquelético como reservorio que libera O2 bajo 20 mm Hg), y el intercambio de
+gases con los tejidos (la combinación y disociación de la hemoglobina según la PpO2, el
+transporte de CO2 disuelto en plasma y como ácido carbónico catalizado por la anhidrasa
+carbónica, y la fig. 35-9 con la saturación a 100 mm Hg y la liberación del 30 % a 40 mm
+Hg).
 
-**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 835 (hoja 881) en adelante (la membrana respiratoria, la mecánica de la ventilación y el transporte de gases, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Errata del libro (p. 836).** El libro imprime el ion bicarbonato como **"HCO3+"** (con
+signo más), pero el bicarbonato es un **anión** y su fórmula correcta es **HCO3⁻**. No es
+suciedad del escaneo: está así impreso (verificado con render a 500 dpi). Por eso los
+reactivos de esa reacción **no fijan la carga del ion**: citan "los iones bicarbonato e
+hidrógeno" sin el superíndice, para no propagar el error.
+
+**Pendiente:** el capítulo 35 está EN CURSO; sigue desde la página impresa 837 (hoja 883) en adelante (el resto del transporte de CO2 y la fig. 35-10, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). De la materia de Biología, además de este capítulo, siguen sin empezar los capítulos 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -1856,4 +1880,579 @@ Numerosos estudios han demostrado también que el asma es una afección psicosom
 
 ---
 
-**Reactivos en este archivo:** 112
+## Sub-lote 16 · La membrana respiratoria y las pleuras (fig. 35-7, p. 835)
+
+### 113
+
+De acuerdo con el libro de Biología, ¿qué constituyen, en conjunto, el endotelio de los capilares y las células epiteliales planas de los alvéolos?
+
+- A. Una única y fina capa de células, separadas entre sí por un delgado espacio intersticial
+- B. Una gruesa pared de varias capas de músculo liso, sin espacio intersticial
+- C. Una envoltura de cartílago continuo que rodea por completo cada alvéolo
+- D. Una doble membrana de tejido conjuntivo denso separada por líquido pleural
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 835
+**Subtema:** respiración · membrana respiratoria
+
+El endotelio de los capilares, junto con las células epiteliales planas de los alvéolos, constituye una única y fina capa de células, separadas entre sí por un delgado espacio intersticial.
+
+---
+
+### 114
+
+De acuerdo con el libro de Biología, ¿cómo se llama la membrana delgada que cubre los pulmones?
+
+- A. La pleura visceral
+- B. La pleura parietal
+- C. La pleura costal
+- D. El espacio intrapleural
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 835
+**Subtema:** respiración · pleuras
+
+Los pulmones están cubiertos por una membrana delgada, la pleura visceral, mientras que la cavidad torácica está revestida internamente por la pleura parietal.
+
+> El par visceral / parietal se presta a confusión: la visceral cubre el pulmón, la parietal reviste la cavidad torácica.
+
+---
+
+### 115
+
+De acuerdo con el libro de Biología, ¿qué membrana reviste internamente la cavidad torácica?
+
+- A. La pleura parietal
+- B. La pleura visceral
+- C. La pleura costal
+- D. El espacio intrapleural
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 835
+**Subtema:** respiración · pleuras
+
+Los pulmones están cubiertos por una membrana delgada, la pleura visceral, mientras que la cavidad torácica está revestida internamente por la pleura parietal.
+
+---
+
+### 116
+
+De acuerdo con el libro de Biología, ¿qué contiene el espacio intrapleural, comprendido entre las pleuras?
+
+- A. Una pequeña cantidad de líquido lubricante, de modo que ambas se deslizan entre sí cuando los pulmones se expanden y se contraen
+- B. Una gran cantidad de aire a presión que mantiene inflados los pulmones
+- C. Un tejido conjuntivo denso que fija los pulmones a la caja torácica
+- D. Una capa de músculo liso que comprime los pulmones al espirar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 835
+**Subtema:** respiración · espacio intrapleural
+
+El espacio comprendido entre las pleuras, o espacio intrapleural, contiene una pequeña cantidad de líquido lubricante, de modo que ambas se deslizan entre sí cuando los pulmones se expanden y se contraen.
+
+---
+
+## Sub-lote 17 · El proceso de la ventilación (fig. 35-8, p. 835)
+
+### 117
+
+De acuerdo con el libro de Biología, ¿qué cambia el volumen de la cavidad torácica?
+
+- A. La contracción y la relajación del diafragma muscular y de los músculos intercostales
+- B. La dilatación y la constricción de los bronquíolos por el músculo liso
+- C. El batido de los cilios del epitelio de las vías aéreas
+- D. La expansión y el colapso pasivos de los alvéolos por su elasticidad
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 835
+**Subtema:** respiración · ventilación
+
+La contracción y la relajación del diafragma muscular y de los músculos intercostales cambian el volumen de la cavidad torácica.
+
+---
+
+### 118
+
+De acuerdo con el libro de Biología, ¿qué ocurre con el diafragma cuando inhalamos?
+
+- A. Contraemos el diafragma, que se aplana y así se alarga la cavidad torácica
+- B. Relajamos el diafragma, que se abomba y así se acorta la cavidad torácica
+- C. Contraemos el diafragma, que se abomba y así se acorta la cavidad torácica
+- D. Relajamos el diafragma, que se aplana y así se alarga la cavidad torácica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 835
+**Subtema:** respiración · ventilación
+
+Cuando inhalamos contraemos el diafragma, que se aplana y así se alarga la cavidad torácica.
+
+---
+
+### 119
+
+De acuerdo con el libro de Biología, al inhalar, ¿qué hacen los músculos intercostales externos al contraerse?
+
+- A. Empujan la caja torácica hacia arriba y hacia afuera, ensanchando la caja torácica
+- B. Empujan la caja torácica hacia abajo y hacia adentro, estrechando la caja torácica
+- C. Comprimen el diafragma hacia arriba, reduciendo la cavidad torácica
+- D. Mantienen inmóvil la caja torácica mientras solo se mueve el diafragma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · ventilación
+
+Contraemos los músculos intercostales externos, que empujan la caja torácica hacia arriba y hacia afuera, ensanchando la caja torácica.
+
+---
+
+### 120
+
+De acuerdo con el libro de Biología, durante la inspiración, ¿qué sucede con el volumen y la presión de la cavidad torácica?
+
+- A. La cavidad torácica se agranda, la presión dentro de ella disminuye y el aire entra en los pulmones
+- B. La cavidad torácica se agranda, la presión dentro de ella aumenta y el aire sale de los pulmones
+- C. La cavidad torácica se reduce, la presión dentro de ella disminuye y el aire entra en los pulmones
+- D. La cavidad torácica se reduce, la presión dentro de ella aumenta y el aire sale de los pulmones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · ventilación
+
+La cavidad torácica se agranda, la presión dentro de ella disminuye y el aire entra en los pulmones.
+
+---
+
+### 121
+
+De acuerdo con el libro de Biología, durante la exhalación, ¿gracias a qué el pulmón retorna a la situación previa a la inhalación?
+
+- A. Gracias a sus propiedades elásticas, cuando estos músculos se relajan
+- B. Gracias a la contracción activa del diafragma, que se aplana
+- C. Gracias al empuje de los músculos intercostales externos
+- D. Gracias a la presión del líquido intrapleural sobre los alvéolos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · ventilación
+
+Durante la exhalación, estos músculos se relajan y el pulmón retorna a la situación previa a la inhalación, gracias a sus propiedades elásticas.
+
+---
+
+### 122
+
+De acuerdo con el libro de Biología, según el modelo del funcionamiento de los pulmones, ¿por qué se produce la espiración pasiva?
+
+- A. Por relajación tanto del diafragma, que sube, como de los intercostales externos
+- B. Por contracción tanto del diafragma, que baja, como de los intercostales externos
+- C. Por contracción de los músculos intercostales internos únicamente
+- D. Por relajación del músculo liso de los bronquíolos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 835
+**Subtema:** respiración · ventilación
+
+La parrilla costal se mueve hacia abajo y hacia adentro, por relajación tanto del diafragma, que sube, como de los intercostales externos. Disminuye así el volumen de la cavidad torácica y la presión en el interior del pulmón; de este modo se produce la espiración pasiva.
+
+---
+
+### 123
+
+De acuerdo con el libro de Biología, durante la espiración activa o forzada, ¿qué se suma?
+
+- A. La contracción de los músculos intercostales internos, que mueven la parrilla costal hacia adentro y hacia abajo
+- B. La contracción de los músculos intercostales externos, que mueven la parrilla costal hacia arriba y hacia afuera
+- C. La contracción del diafragma, que se aplana y desciende
+- D. El batido de los cilios que empujan el moco hacia la faringe
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 835
+**Subtema:** respiración · ventilación
+
+Durante la espiración activa o forzada, se suma la contracción de los músculos intercostales internos, que mueven la parrilla costal hacia adentro y hacia abajo.
+
+---
+
+### 124
+
+De acuerdo con el libro de Biología, ¿dónde se regula el proceso cíclico que es la base de la ventilación?
+
+- A. En los centros nerviosos ubicados en el bulbo raquídeo
+- B. En los centros nerviosos ubicados en el cerebelo
+- C. En los centros nerviosos ubicados en el hipotálamo
+- D. En los centros nerviosos ubicados en la médula espinal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · regulación de la ventilación
+
+Este proceso cíclico, que es la base de la ventilación, se regula en los centros nerviosos ubicados en el bulbo raquídeo.
+
+---
+
+### 125
+
+De acuerdo con el libro de Biología, ¿por qué un paciente anestesiado puede seguir respirando normalmente durante una intervención quirúrgica?
+
+- A. Porque estos centros poseen el umbral más alto de respuesta a anestésicos
+- B. Porque estos centros poseen el umbral más bajo de respuesta a anestésicos
+- C. Porque los anestésicos no alcanzan nunca el bulbo raquídeo
+- D. Porque el diafragma se contrae de forma independiente del sistema nervioso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · regulación de la ventilación
+
+Estos centros poseen el umbral más alto de respuesta a anestésicos, de modo que, durante una intervención quirúrgica, el paciente anestesiado puede seguir respirando normalmente.
+
+---
+
+## Sub-lote 18 · Los pigmentos respiratorios y el transporte de oxígeno (p. 836)
+
+### 126
+
+De acuerdo con el libro de Biología, a una presión atmosférica normal, ¿qué porcentaje de O2 se disuelve en el plasma sanguíneo?
+
+- A. Solo un 0,3%
+- B. Solo un 3%
+- C. Alrededor de un 21%
+- D. Alrededor de un 70%
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · transporte de oxígeno
+
+El O2 es relativamente insoluble en el plasma sanguíneo. A una presión atmosférica normal, solo un 0,3% de O2 se disuelve en el plasma.
+
+---
+
+### 127
+
+De acuerdo con el libro de Biología, ¿cuánto elevan los pigmentos respiratorios la capacidad de transporte de O2 de la sangre?
+
+- A. Hasta 70 veces
+- B. Hasta 7 veces
+- C. Hasta 100 veces
+- D. Hasta 265 veces
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · pigmentos respiratorios
+
+Proteínas especiales transportadoras –los pigmentos respiratorios–, que elevan hasta 70 veces la capacidad de transporte de O2 de la sangre.
+
+---
+
+### 128
+
+De acuerdo con el libro de Biología, ¿cuáles son los pigmentos respiratorios más comunes?
+
+- A. La hemoglobina y la hemocianina
+- B. La mioglobina y la anhidrasa carbónica
+- C. La hemocianina y la mioglobina
+- D. La hemoglobina y la mioglobina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · pigmentos respiratorios
+
+Los pigmentos respiratorios más comunes son la hemoglobina, presente en todos los vertebrados y varios grupos de invertebrados, y la hemocianina, presente, por ejemplo, en los moluscos y artrópodos.
+
+---
+
+### 129
+
+De acuerdo con el libro de Biología, ¿en qué animales está presente la hemoglobina?
+
+- A. En todos los vertebrados y varios grupos de invertebrados
+- B. Únicamente en los mamíferos y las aves
+- C. Solo en los moluscos y artrópodos
+- D. Exclusivamente en los insectos con sistema traqueolar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · pigmentos respiratorios
+
+La hemoglobina, presente en todos los vertebrados y varios grupos de invertebrados.
+
+---
+
+### 130
+
+De acuerdo con el libro de Biología, ¿en qué animales está presente la hemocianina?
+
+- A. En los moluscos y artrópodos
+- B. En todos los vertebrados
+- C. En los peces y anfibios
+- D. En los equinodermos y peces
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · pigmentos respiratorios
+
+La hemocianina, presente, por ejemplo, en los moluscos y artrópodos.
+
+---
+
+### 131
+
+De acuerdo con el libro de Biología, en la mayoría de los invertebrados, ¿dónde se encuentran los pigmentos respiratorios?
+
+- A. Disueltos en el plasma sanguíneo
+- B. Transportados en los glóbulos rojos o eritrocitos
+- C. Fijados a la pared de los capilares
+- D. Almacenados en el músculo esquelético
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · pigmentos respiratorios
+
+En la mayoría de los invertebrados, los pigmentos respiratorios están disueltos en el plasma sanguíneo.
+
+---
+
+### 132
+
+De acuerdo con el libro de Biología, en los vertebrados y equinodermos, ¿cómo son transportados los pigmentos respiratorios?
+
+- A. En los glóbulos rojos o eritrocitos
+- B. Disueltos en el plasma sanguíneo
+- C. En combinación con la anhidrasa carbónica
+- D. En el líquido intrapleural
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · pigmentos respiratorios
+
+En los vertebrados y equinodermos, los pigmentos son transportados en los glóbulos rojos o eritrocitos.
+
+> Este reactivo forma par con el 131 (invertebrados: disueltos en el plasma / vertebrados y equinodermos: en los glóbulos rojos).
+
+---
+
+### 133
+
+De acuerdo con el libro de Biología, ¿cuántas moléculas de hemoglobina lleva un glóbulo rojo maduro?
+
+- A. Unos 265 millones de moléculas de hemoglobina
+- B. Unos 70 millones de moléculas de hemoglobina
+- C. Unos 4 millones de moléculas de hemoglobina
+- D. Unos 500 millones de moléculas de hemoglobina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · glóbulos rojos
+
+Un glóbulo rojo maduro lleva unos 265 millones de moléculas de hemoglobina.
+
+---
+
+### 134
+
+De acuerdo con el libro de Biología, ¿en qué consiste la estructura de la hemoglobina?
+
+- A. En cuatro subunidades, cada una constituida por una cadena polipeptídica y un átomo de hierro
+- B. En dos subunidades, cada una constituida por una cadena polipeptídica y un átomo de hierro
+- C. En una sola cadena polipeptídica con cuatro átomos de hierro
+- D. En cuatro subunidades, cada una constituida por un átomo de cobre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · hemoglobina
+
+La estructura de la hemoglobina consiste en cuatro subunidades, cada una constituida por una cadena polipeptídica y un átomo de hierro.
+
+---
+
+### 135
+
+De acuerdo con el libro de Biología, ¿dónde se encuentra la mioglobina y a qué se asemeja en términos estructurales?
+
+- A. En el músculo esquelético, y se asemeja a una de las subunidades de la molécula de hemoglobina
+- B. En el plasma sanguíneo, y se asemeja a la molécula completa de hemoglobina
+- C. En los glóbulos rojos, y se asemeja a la hemocianina
+- D. En el músculo cardíaco, y se asemeja a la anhidrasa carbónica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · mioglobina
+
+La mioglobina es otro pigmento respiratorio que se encuentra en el músculo esquelético. En términos estructurales, se asemeja a una de las subunidades de la molécula de hemoglobina.
+
+---
+
+### 136
+
+De acuerdo con el libro de Biología, ¿cómo es la afinidad de la mioglobina por el O2 comparada con la de la hemoglobina?
+
+- A. Mayor que la de la hemoglobina, lo cual explica que la mioglobina pueda saturarse "quitándole" el O2 a la hemoglobina circulante
+- B. Menor que la de la hemoglobina, por lo que la mioglobina cede el O2 a la hemoglobina circulante
+- C. Igual a la de la hemoglobina, por lo que no hay intercambio de O2 entre ambas
+- D. Nula, porque la mioglobina no fija O2
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · mioglobina
+
+La afinidad de la mioglobina por el O2 es mayor que la de la hemoglobina, lo cual explica que la mioglobina pueda saturarse "quitándole" el O2 a la hemoglobina circulante.
+
+---
+
+### 137
+
+De acuerdo con el libro de Biología, ¿cuándo comienza la mioglobina a liberar el O2 que almacena?
+
+- A. Cuando la PpO2 del músculo esquelético cae por debajo de 20 mm Hg, lo que ocurre durante un ejercicio intenso
+- B. Cuando la PpO2 del músculo esquelético supera los 100 mm Hg, en reposo
+- C. Cuando la PpO2 del músculo esquelético cae por debajo de 40 mm Hg, durante el sueño
+- D. Cuando la hemoglobina se satura por completo en los pulmones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · mioglobina
+
+La mioglobina actúa como reservorio de O2 y solo comienza a liberarlo cuando la PpO2 del músculo esquelético cae por debajo de 20 mm Hg, lo que ocurre durante un ejercicio intenso.
+
+---
+
+## Sub-lote 19 · El intercambio de gases con los tejidos (fig. 35-9, p. 836)
+
+### 138
+
+De acuerdo con el libro de Biología, en los capilares alveolares, donde la PpO2 es más elevada, ¿qué ocurre?
+
+- A. La hemoglobina se combina con el O2
+- B. La hemoglobina se desprende del O2
+- C. La mioglobina cede el O2 a la sangre
+- D. El CO2 se combina con la hemoglobina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · intercambio de gases
+
+En los capilares alveolares –donde la PpO2 es más elevada– la hemoglobina se combina con el O2.
+
+---
+
+### 139
+
+De acuerdo con el libro de Biología, en los tejidos, donde la PpO2 es inferior, ¿qué ocurre con el O2?
+
+- A. Se desprende de la hemoglobina y difunde hacia los tejidos
+- B. Se combina con la hemoglobina y permanece en la sangre
+- C. Se disuelve por completo en el plasma sanguíneo
+- D. Es captado por la anhidrasa carbónica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · intercambio de gases
+
+En los tejidos –donde la PpO2 es inferior– el O2 se desprende de la hemoglobina y difunde hacia los tejidos.
+
+> Este reactivo forma par con el 138 (capilares alveolares: la hemoglobina se combina con el O2 / tejidos: el O2 se desprende).
+
+---
+
+### 140
+
+De acuerdo con el libro de Biología, ¿qué sucede cuanto más O2 consume un tejido por ser muy activo?
+
+- A. Menor será la PpO2 en ese tejido y mayor cantidad de O2 se desprenderá de la hemoglobina
+- B. Mayor será la PpO2 en ese tejido y menor cantidad de O2 se desprenderá de la hemoglobina
+- C. La hemoglobina se saturará por completo en ese tejido
+- D. El CO2 dejará de transportarse por la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · intercambio de gases
+
+Cuanto más O2 consume un tejido por ser muy activo, menor será la PpO2 en ese tejido y mayor cantidad de O2 se desprenderá de la hemoglobina.
+
+---
+
+### 141
+
+De acuerdo con el libro de Biología, ¿cómo es la solubilidad del CO2 comparada con la del O2?
+
+- A. El CO2 es más soluble que el O2, por ello se transporta, en parte, disuelto simplemente en el plasma
+- B. El CO2 es menos soluble que el O2, por ello nunca se disuelve en el plasma
+- C. El CO2 tiene la misma solubilidad que el O2
+- D. El CO2 es insoluble y solo se transporta unido a la hemoglobina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · transporte de CO2
+
+El CO2 es más soluble que el O2, por ello, se transporta, en parte, disuelto simplemente en el plasma.
+
+---
+
+### 142
+
+De acuerdo con el libro de Biología, la mayor porción del CO2 ingresa en los glóbulos rojos, donde reacciona con el agua y forma...
+
+- A. Ácido carbónico, un ácido débil que se disocia en los iones bicarbonato e hidrógeno
+- B. Ácido láctico, que se acumula en el músculo activo
+- C. Anhidrasa carbónica, una enzima transportadora de gases
+- D. Oxihemoglobina, que libera el O2 en los tejidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · transporte de CO2
+
+La mayor porción, sin embargo, ingresa en los glóbulos rojos, donde reacciona con el agua y forma ácido carbónico, un ácido débil que se disocia en los iones bicarbonato e hidrógeno.
+
+---
+
+### 143
+
+De acuerdo con el libro de Biología, ¿qué enzima cataliza la reacción del CO2 con el agua?
+
+- A. La enzima anhidrasa carbónica
+- B. La enzima hemoglobina reductasa
+- C. El pigmento hemocianina
+- D. La mioglobina del músculo esquelético
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · transporte de CO2
+
+La reacción del CO2 con el agua está catalizada por la enzima anhidrasa carbónica.
+
+---
+
+### 144
+
+De acuerdo con el libro de Biología, cuando la PpO2 alcanza los 100 mm Hg, presión típica del aire del pulmón humano, ¿qué le ocurre a la hemoglobina?
+
+- A. Se satura casi por completo
+- B. Se descarga casi por completo
+- C. Libera alrededor de un 30% de su O2
+- D. Se combina con el CO2
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · curva de la hemoglobina
+
+Cuando la PpO2 alcanza los 100 mm Hg, que es la presión típica en el aire del pulmón humano, la hemoglobina se satura casi por completo.
+
+---
+
+### 145
+
+De acuerdo con el libro de Biología, cuando la sangre rica en O2 alcanza los capilares, donde la presión es solo de 40 mm Hg o menos, ¿cuánto de su O2 libera?
+
+- A. Alrededor de un 30% en los tejidos
+- B. Alrededor de un 70% en los tejidos
+- C. La totalidad de su O2
+- D. Menos de un 1% en los tejidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 836
+**Subtema:** respiración · curva de la hemoglobina
+
+Esto ocurre cuando la sangre rica en O2 alcanza a los capilares, donde la presión es solo de 40 mm Hg o menos, y así libera parte de su O2 (alrededor de un 30%) en los tejidos.
+
+---
+
+**Reactivos en este archivo:** 145
