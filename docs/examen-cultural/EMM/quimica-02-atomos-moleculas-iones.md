@@ -89,11 +89,23 @@ compuestos con hidrógeno. Faltan los ácidos y bases (64–65) y los hidratos (
 - **Figura 2.15** (nomenclatura de oxoácidos y oxoaniones): la terminación
   inglesa "-ate" salió traducida como **"comió"**. No se cita.
 
-Cubiertos también los **ácidos y bases (págs. 64–65)** y los **hidratos (pág.
-66)**. **2.7 queda cerrado**, salvo revisar el apartado "Compuestos inorgánicos
-familiares" de la pág. 67, que se verá al entrar a 2.8.
+Cubiertos también los **ácidos y bases (págs. 64–65)**, los **hidratos (pág.
+66)** y los **compuestos inorgánicos familiares (pág. 67)**. **2.7 cerrado.** De
+la tabla 2.7 solo se citan los nombres común y sistemático: la columna de
+fórmulas trae "Alto" en lugar de CaO y "magnesio(OH)2" en lugar de Mg(OH)2.
 
-**Pendiente:** 2.8.
+**2.8 Introducción a los compuestos orgánicos (págs. 67–69): cerrado.** Los
+hidrocarburos y sus usos, los alcanos de cadena lineal con la tabla 2.8 —que sí
+está limpia— y los grupos funcionales (hidroxilo, amino y carboxilo) con las
+moléculas que generan. El apartado termina en la p. 69; de ahí en adelante son
+los objetivos de aprendizaje y el resumen del capítulo.
+
+**El capítulo 2 queda CERRADO** en sus seis subtemas del temario (2.1, 2.2, 2.5,
+2.6, 2.7 y 2.8).
+
+**Pendiente:** los capítulos 3, 4, 9 y 24, que el temario pide y todavía no
+tienen archivo. Este archivo sostiene la lista hasta que exista el `.md` del
+capítulo 3.
 
 ## Avisos al aspirante — el libro dice mal
 
@@ -2217,4 +2229,286 @@ Las moléculas de agua pueden ser expulsadas por calentamiento. Cuando esto ocur
 
 ---
 
-**Reactivos en este archivo:** 135
+## Sub-lote 20 · Compuestos inorgánicos familiares
+
+### 136
+
+De acuerdo con el libro de Química, ¿por qué se recurre a los nombres comunes de algunos compuestos?
+
+- A. Porque algunos compuestos se conocen mejor por sus nombres comunes que por sus nombres químicos sistemáticos
+- B. Porque los nombres sistemáticos no existen para esos compuestos
+- C. Porque los nombres comunes indican la carga de los iones
+- D. Porque los nombres sistemáticos solo se usan para compuestos orgánicos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 67
+**Subtema:** nomenclatura · nombres comunes
+
+Algunos compuestos se conocen mejor por sus nombres comunes que por sus nombres químicos sistemáticos. En la tabla 2.7 se enumeran ejemplos familiares.
+
+### 137
+
+De conformidad con el libro de Química, según la tabla 2.7, ¿cuál es el nombre sistemático del compuesto conocido comúnmente como hielo seco?
+
+- A. Dióxido de carbono sólido
+- B. Monóxido de dihidrógeno
+- C. Monóxido de dinitrógeno
+- D. Carbonato de calcio
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 67
+**Subtema:** nomenclatura · nombres comunes
+
+Tabla 2.7, Nombres comunes y sistemáticos de algunos compuestos. Hielo seco: dióxido de carbono sólido.
+
+### 138
+
+En relación con el libro de Química, según la tabla 2.7, ¿qué compuesto se conoce comúnmente como gas de la risa?
+
+- A. El monóxido de dinitrógeno
+- B. El nitruro de trihidrógeno
+- C. El dióxido de carbono sólido
+- D. El monóxido de dihidrógeno
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 67
+**Subtema:** nomenclatura · nombres comunes
+
+Tabla 2.7, Nombres comunes y sistemáticos de algunos compuestos. Gas de la risa: monóxido de dinitrógeno.
+
+### 139
+
+De acuerdo con el libro de Química, según la tabla 2.7, ¿cuáles son los nombres sistemáticos de la cal viva y de la cal apagada?
+
+- A. Óxido de calcio e hidróxido de calcio, respectivamente
+- B. Hidróxido de calcio y óxido de calcio, respectivamente
+- C. Carbonato de calcio y sulfato de calcio dihidrato, respectivamente
+- D. Óxido de magnesio e hidróxido de magnesio, respectivamente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 67
+**Subtema:** nomenclatura · nombres comunes
+
+Tabla 2.7, Nombres comunes y sistemáticos de algunos compuestos. Cal viva: óxido de calcio. Cal apagada: hidróxido de calcio.
+
+### 140
+
+De conformidad con el libro de Química, según la tabla 2.7, ¿con qué nombres comunes se conoce al carbonato de calcio?
+
+- A. Mármol, tiza y piedra caliza
+- B. Cal viva y cal apagada
+- C. Yeso y sal de Epsom
+- D. Detergente y leche de magnesia
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 67
+**Subtema:** nomenclatura · nombres comunes
+
+Tabla 2.7, Nombres comunes y sistemáticos de algunos compuestos. Mármol, tiza, piedra caliza: carbonato de calcio.
+
+### 141
+
+En relación con el libro de Química, según la tabla 2.7, ¿cuáles son los nombres sistemáticos de la sal de Epsom y del yeso?
+
+- A. Sulfato de magnesio heptahidratado y sulfato de calcio dihidrato, respectivamente
+- B. Sulfato de calcio dihidrato y sulfato de magnesio heptahidratado, respectivamente
+- C. Carbonato de sodio decahidratado e hidróxido de magnesio, respectivamente
+- D. Hidróxido de calcio y carbonato de calcio, respectivamente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 67
+**Subtema:** nomenclatura · nombres comunes
+
+Tabla 2.7, Nombres comunes y sistemáticos de algunos compuestos. Sal de Epsom: sulfato de magnesio heptahidratado. Yeso: sulfato de calcio dihidrato.
+
+---
+
+## Sub-lote 21 · Hidrocarburos y alcanos
+
+### 142
+
+De acuerdo con el libro de Química, ¿cuál es el tipo más simple de compuestos orgánicos y qué contienen?
+
+- A. Los hidrocarburos, que contienen solo átomos de carbono e hidrógeno
+- B. Los alcoholes, que contienen carbono, hidrógeno y oxígeno
+- C. Los hidratos, que contienen moléculas de agua unidas
+- D. Los oxoácidos, que contienen hidrógeno, oxígeno y un elemento central
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 67
+**Subtema:** compuestos orgánicos · hidrocarburos
+
+El tipo más simple de compuestos orgánicos son los hidrocarburos, que contienen solo átomos de carbono e hidrógeno.
+
+### 143
+
+De conformidad con el libro de Química, ¿para qué se utilizan los hidrocarburos?
+
+- A. Como combustibles para calefacción doméstica e industrial, para generar electricidad y alimentar motores de combustión interna, y como materia prima para la industria química
+- B. Únicamente como materia prima para la industria farmacéutica
+- C. Solo como disolventes en el laboratorio
+- D. Como agentes blanqueadores y antisépticos
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 67
+**Subtema:** compuestos orgánicos · hidrocarburos
+
+Los hidrocarburos se utilizan como combustibles para calefacción doméstica e industrial, para generar electricidad y alimentar motores de combustión interna, y como materia prima para la industria química.
+
+### 144
+
+En relación con el libro de Química, en los alcanos de cadena lineal, ¿qué caracteriza a las cadenas de carbono?
+
+- A. Que no tienen ramificaciones
+- B. Que forman anillos cerrados
+- C. Que alternan enlaces dobles y sencillos
+- D. Que contienen un átomo de oxígeno intercalado
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 67
+**Subtema:** compuestos orgánicos · alcanos
+
+La tabla 2.8 muestra los nombres, fórmulas y modelos moleculares de los primeros 10 alcanos de cadena lineal, en los que las cadenas de carbono no tienen ramificaciones.
+
+### 145
+
+De acuerdo con el libro de Química, ¿de qué depende el nombre de un alcano y en qué terminan todos esos nombres?
+
+- A. Depende de la cantidad de átomos de carbono en la molécula, y todos terminan con "-ano"
+- B. Depende del número de átomos de hidrógeno, y todos terminan con "-eno"
+- C. Depende de la carga del compuesto, y todos terminan con "-uro"
+- D. Depende del grupo funcional presente, y todos terminan con "-ol"
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 68
+**Subtema:** compuestos orgánicos · alcanos
+
+El nombre de un alcano depende de la cantidad de átomos de carbono en la molécula y todos los nombres terminan con "-ano".
+
+### 146
+
+De conformidad con el libro de Química, ¿a partir de qué alcano se usan los prefijos griegos para indicar el número de átomos de carbono?
+
+- A. A partir del C5H12
+- B. A partir del CH4
+- C. A partir del C2H6
+- D. A partir del C10H22
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 68
+**Subtema:** compuestos orgánicos · alcanos
+
+Comenzando con C5H12, usamos los prefijos griegos de la tabla 2.4 para indicar el número de átomos de carbono presentes.
+
+### 147
+
+En relación con el libro de Química, según la tabla 2.8, ¿qué fórmulas corresponden al metano, al etano y al propano?
+
+- A. CH4, C2H6 y C3H8, respectivamente
+- B. C2H6, C3H8 y C4H10, respectivamente
+- C. CH4, C2H4 y C3H6, respectivamente
+- D. C3H8, C2H6 y CH4, respectivamente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 68
+**Subtema:** compuestos orgánicos · alcanos
+
+Tabla 2.8, Los primeros 10 alcanos de cadena lineal. Metano, CH4; etano, C2H6; propano, C3H8.
+
+### 148
+
+De acuerdo con el libro de Química, según la tabla 2.8, ¿qué fórmulas corresponden al butano y al pentano?
+
+- A. C4H10 y C5H12, respectivamente
+- B. C5H12 y C6H14, respectivamente
+- C. C4H8 y C5H10, respectivamente
+- D. C3H8 y C4H10, respectivamente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 68
+**Subtema:** compuestos orgánicos · alcanos
+
+Tabla 2.8, Los primeros 10 alcanos de cadena lineal. Butano, C4H10; pentano, C5H12.
+
+### 149
+
+De conformidad con el libro de Química, según la tabla 2.8, ¿qué fórmulas corresponden al octano y al decano?
+
+- A. C8H18 y C10H22, respectivamente
+- B. C8H16 y C10H20, respectivamente
+- C. C9H20 y C10H22, respectivamente
+- D. C10H22 y C8H18, respectivamente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 68
+**Subtema:** compuestos orgánicos · alcanos
+
+Tabla 2.8, Los primeros 10 alcanos de cadena lineal. Octano, C8H18; decano, C10H22.
+
+---
+
+## Sub-lote 22 · Grupos funcionales
+
+### 150
+
+En relación con el libro de Química, ¿en qué consisten los grupos funcionales?
+
+- A. En uno o unos pocos átomos unidos de una manera específica
+- B. En cadenas de carbono sin ramificaciones
+- C. En moléculas de agua unidas a un compuesto
+- D. En iones que contienen más de un átomo
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 68
+**Subtema:** compuestos orgánicos · grupos funcionales
+
+La química de los compuestos orgánicos está determinada en gran medida por los grupos funcionales, que consisten en uno o unos pocos átomos unidos de una manera específica.
+
+### 151
+
+De acuerdo con el libro de Química, ¿cómo se llaman los grupos -OH, -NH2 y -COOH?
+
+- A. Grupo hidroxilo, grupo amino y grupo carboxilo, respectivamente
+- B. Grupo carboxilo, grupo hidroxilo y grupo amino, respectivamente
+- C. Grupo amino, grupo carboxilo y grupo hidroxilo, respectivamente
+- D. Grupo hidruro, grupo nitruro y grupo carburo, respectivamente
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 68
+**Subtema:** compuestos orgánicos · grupos funcionales
+
+Cuando un átomo de H en el metano se reemplaza por un grupo hidroxilo (-OH), un grupo amino (-NH2) y un grupo carboxilo (-COOH), se generan las siguientes moléculas.
+
+### 152
+
+De conformidad con el libro de Química, ¿qué moléculas se generan al reemplazar un átomo de H del metano por un grupo hidroxilo, uno amino y uno carboxilo?
+
+- A. Metanol, metilamina y ácido acético
+- B. Etanol, etilamina y ácido fórmico
+- C. Metano, etano y propano
+- D. Metanol, amoníaco y ácido carbónico
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 68
+**Subtema:** compuestos orgánicos · grupos funcionales
+
+Cuando un átomo de H en el metano se reemplaza por un grupo hidroxilo (-OH), un grupo amino (-NH2) y un grupo carboxilo (-COOH), se generan las siguientes moléculas: metanol, metilamina, ácido acético.
+
+### 153
+
+En relación con el libro de Química, ¿en función de qué se pueden predecir las propiedades químicas de esas moléculas?
+
+- A. En función de la reactividad de los grupos funcionales
+- B. En función del número de átomos de carbono de la cadena
+- C. En función de su nombre común
+- D. En función de la carga neta de la molécula
+
+**Respuesta:** A
+**Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 68
+**Subtema:** compuestos orgánicos · grupos funcionales
+
+Las propiedades químicas de estas moléculas se pueden predecir en función de la reactividad de los grupos funcionales.
+
+---
+
+**Reactivos en este archivo:** 153
