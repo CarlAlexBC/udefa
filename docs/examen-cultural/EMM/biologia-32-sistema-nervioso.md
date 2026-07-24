@@ -39,9 +39,15 @@ nervioso como uno de los más complejos) y la evolución de los sistemas nervios
 organismos simples responden a estímulos sin sistema nervioso —protozoos y
 esponjas—, y el proceso de encefalización o cefalización). De la **página 757** se
 cubre el sistema nervioso central y el periférico, el aumento del encéfalo y la
-posición dorsal del sistema nervioso en los vertebrados.
+posición dorsal del sistema nervioso en los vertebrados. De las **páginas 757-758**
+se cubre el encéfalo de los distintos vertebrados (la protección de la médula y el
+encéfalo, el cerebelo del tiburón, el cuerpo estriado de las aves, la corteza
+cerebral de los mamíferos), el tamaño del encéfalo (el *Argentinosaurus*; la ballena
+10 000 g / 0,02%; el humano 1300-1500 g / 2%; el plegamiento de la corteza en los
+primates; 86 000 millones de neuronas frente a las 7000 de la abeja) y la red difusa
+de los cnidarios (fig. 32-1).
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 757 (hoja 803) en adelante. De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 758 (hoja 804) en adelante (el resto de los sistemas nerviosos de los invertebrados y la neurona en detalle). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -211,4 +217,162 @@ En los vertebrados, el sistema nervioso no es ventral como en los invertebrados,
 
 ---
 
-**Reactivos en este archivo:** 10
+## Sub-lote 2 · El encéfalo de los vertebrados y su tamaño (fig. 32-1, pp. 757-758)
+
+### 11
+
+De acuerdo con el libro de Biología, en los vertebrados, ¿por qué están protegidos la médula espinal y el encéfalo?
+
+- A. Por los huesos de la columna vertebral y del cráneo
+- B. Por un exoesqueleto de quitina
+- C. Únicamente por el tejido adiposo
+- D. No están protegidos por ninguna estructura
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 757
+**Subtema:** sistema nervioso · vertebrados
+
+Los centros principales de procesamiento –la médula espinal y el encéfalo– están protegidos por los huesos de la columna vertebral y del cráneo.
+
+### 12
+
+De acuerdo con el libro de Biología, los peces cartilaginosos, como los tiburones, de gran actividad locomotora, ¿qué órgano tienen muy desarrollado, y qué coordina?
+
+- A. Un cerebelo muy desarrollado, responsable de coordinar el movimiento de los músculos
+- B. Una corteza cerebral desarrollada para el lenguaje
+- C. Un cuerpo estriado que coordina el vuelo
+- D. Unos lóbulos ópticos para producir hormonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 757
+**Subtema:** sistema nervioso · vertebrados
+
+Los peces cartilaginosos, como los tiburones, de gran actividad locomotora, tienen un cerebelo muy desarrollado. Este órgano es responsable de coordinar el movimiento de los músculos.
+
+### 13
+
+De acuerdo con el libro de Biología, en las aves, ¿qué representa el cuerpo estriado y qué coordina el cerebelo?
+
+- A. El cuerpo estriado es el principal centro integrador del cerebro, y el cerebelo coordina el equilibrio y los movimientos del vuelo
+- B. El cuerpo estriado coordina la digestión, y el cerebelo, el lenguaje
+- C. Ambos coordinan únicamente la respiración
+- D. El cuerpo estriado produce las hormonas del vuelo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 757
+**Subtema:** sistema nervioso · vertebrados
+
+En las aves, una de las estructuras más complejas del sistema nervioso es el cuerpo estriado, que representa el principal centro integrador de su cerebro, y el cerebelo, que coordina el equilibrio y los movimientos del vuelo.
+
+### 14
+
+De acuerdo con el libro de Biología, ¿cuál es la principal característica del sistema nervioso de los mamíferos?
+
+- A. El enorme desarrollo de su corteza cerebral, relacionada con funciones complejas como el procesamiento de grandes cantidades de información
+- B. La ausencia total de encéfalo
+- C. Un cerebelo diminuto o inexistente
+- D. Una red nerviosa difusa sin centros de procesamiento
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 757
+**Subtema:** sistema nervioso · vertebrados
+
+La principal característica de los mamíferos es el enorme desarrollo de su corteza cerebral relacionada con funciones particularmente complejas, como el procesamiento de grandes cantidades de información y, en los humanos, con el lenguaje articulado y el pensamiento simbólico.
+
+### 15
+
+De acuerdo con el libro de Biología, según el ejemplo del *Argentinosaurus* (cuyo cerebro del tamaño de una naranja gobernaba un cuerpo enorme), ¿de qué NO depende necesariamente la capacidad de ejecutar funciones complejas?
+
+- A. Del tamaño del encéfalo
+- B. Del número de patas del animal
+- C. De la temperatura corporal
+- D. Del tipo de esqueleto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · el encéfalo
+
+La capacidad para ejecutar funciones complejas no depende necesariamente del tamaño. Un encéfalo relativamente simple y pequeño puede llevar a cabo un control estricto del cuerpo, como en el *Argentinosaurus*, un dinosaurio de cuello largo.
+
+### 16
+
+De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuánto pesa el encéfalo más grande (el de la ballena) y qué porcentaje del peso corporal representa?
+
+- A. Pesa 10 000 g, pero representa solo el 0,02% del peso corporal
+- B. Pesa 1400 g y representa el 2% del peso corporal
+- C. Pesa 100 g y representa el 10% del peso corporal
+- D. Pesa 10 000 g y representa el 20% del peso corporal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · el encéfalo
+
+El encéfalo más grande es el de la ballena, que pesa 10 000 g, pero representa solo el 0,02% del peso corporal.
+
+### 17
+
+De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuánto pesa el encéfalo humano y qué porcentaje del peso corporal representa?
+
+- A. Pesa unos 1300-1500 g y representa el 2% del peso corporal
+- B. Pesa 10 000 g y representa el 0,02% del peso corporal
+- C. Pesa 300 g y representa el 30% del peso corporal
+- D. Pesa 5000 g y representa el 50% del peso corporal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · el encéfalo
+
+El encéfalo humano, que pesa unos 1300-1500 g, si bien es mucho menor en peso absoluto, representa el 2% de nuestro peso corporal.
+
+> Par de cifras vecinas (reactivos 16 y 17): la **ballena** tiene el encéfalo más
+> pesado (10 000 g) pero es solo el **0,02%** de su cuerpo; el **humano**, mucho más
+> liviano (1300-1500 g), llega al **2%**. El peso absoluto y el relativo se cruzan.
+
+### 18
+
+De acuerdo con el libro de Biología, en el linaje de los primates, ¿cómo se superó el límite físico que la cavidad craneana imponía al tamaño del cerebro?
+
+- A. Por el plegamiento de la corteza cerebral, que permite que una gran superficie quepa en un volumen relativamente pequeño
+- B. Por la eliminación de los huesos del cráneo
+- C. Por la reducción del número de neuronas
+- D. Por el aumento del tamaño del cráneo sin ningún límite
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · el encéfalo
+
+En el linaje de los primates, este límite fue superado por el plegamiento de la corteza cerebral. Esta peculiar "novedad" evolutiva permite que una gran superficie de corteza, aunque altamente replegada en circunvoluciones, quepa en un volumen relativamente pequeño, limitado por el cráneo.
+
+### 19
+
+De acuerdo con el libro de Biología, el tamaño de los órganos nerviosos se correlaciona con el número de sus neuronas. ¿Con cuántas neuronas cuenta el encéfalo humano y cuántas la abeja?
+
+- A. El encéfalo humano, cerca de 86 000 millones de neuronas; la abeja, 7000 neuronas
+- B. El encéfalo humano, 7000 neuronas; la abeja, 86 000 millones
+- C. Ambos cuentan con cerca de 1400 millones de neuronas
+- D. El encéfalo humano, 1000 neuronas; la abeja, 100 neuronas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 758
+**Subtema:** sistema nervioso · el encéfalo
+
+El masivo encéfalo humano, de alrededor de 1400 cm³, cuenta con cerca de 86 000 millones de neuronas, mientras que la abeja lleva 7000 neuronas en un cerebro de menos de 1 mm³.
+
+### 20
+
+De acuerdo con el libro de Biología, según la figura 32-1, ¿cómo forman las neuronas el sistema nervioso en los cnidarios?
+
+- A. Forman una red nerviosa difusa
+- B. Forman un encéfalo protegido por el cráneo
+- C. Forman una corteza cerebral plegada
+- D. Forman un cordón nervioso dorsal desarrollado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 757
+**Subtema:** sistema nervioso · invertebrados
+
+En el cnidario, las neuronas forman una red difusa.
+
+---
+
+**Reactivos en este archivo:** 20
