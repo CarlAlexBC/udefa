@@ -38,6 +38,12 @@ export class ExamenesController {
     return this.examenesService.armarExamen(Number(id), usuario.id);
   }
 
+  // Examen cultural armado desde el árbol de oferta (por temaId), por plantel.
+  // Aditivo: no reemplaza a :id/armar (que sirve el banco plano).
+  @Get('cultural/:plantel/armar')
+  armarExamenCultural(@Param('plantel') plantel: string) {
+    return this.examenesService.armarExamenCultural(plantel);
+  }
 
   @Patch(':id')
   actualizar(

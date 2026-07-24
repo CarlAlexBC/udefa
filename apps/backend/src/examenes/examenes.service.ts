@@ -5,6 +5,8 @@ import {
 } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { TemasPrioridadService } from '../temas-prioridad/temas-prioridad.service';
+import * as fs from 'fs';
+import * as path from 'path';
 
 /** Banco de reactivos que alimenta el diagnóstico de personalidad. */
 const BANCO_DIAGNOSTICO = 'remaster';
@@ -172,6 +174,69 @@ export class ExamenesService {
       ...examen,
       bloques: bloquesConReactivos,
     };
+  }
+
+  /**
+   * Arma el examen cultural de una carrera DESDE EL ÁRBOL DE OFERTA (por temaId),
+   * sin materializar bloques planos ni duplicar reactivos. Es ADITIVO: no toca
+   * armarExamen (que sirve el banco plano 'cultural-hcm').
+   *
+   * La DEMANDA se lee de docs/examen-cultural/: temarios.json (qué materias pide
+   * cada carrera) + puente-oferta-demanda.json (código de materia → slug + capítulos).
+   * Es la opción rápida y reversible; el destino es tablas Carrera/Temario.
+   */
+  async armarExamenCultural(plantel: string, carreraIdx = 0) {
+    const puente: Record<string, { slug: string; capitulos: number[] }> = JSON.parse(
+      fs.readFileSync(this.rutaCultural('puente-oferta-demanda.json'), 'utf8'),
+    ).puente;
+    const temarios = JSON.parse(fs.readFileSync(this.rutaCultural('temarios.json'), 'utf8'));
+
+    const carreras = temarios.carreras.filter((c: any) => c.plantel === plantel);
+    if (!carreras.length) {
+      throw new NotFoundException(`No hay temario para el plantel "${plantel}".`);
+    }
+    const carrera = carreras[carreraIdx] ?? carreras[0];
+
+    // Reparto de las 100 preguntas entre materias. Parejo por ahora (provisional,
+    // mismo criterio que REPARTO_CULTURAL de armarExamen).
+    const DEFAULT_POR_MATERIA = 25;
+
+    const bloques: { nombre: string; codigo: string; reactivos: unknown[] }[] = [];
+    for (const m of carrera.materias ?? []) {
+      const codigo = m.codigo_normalizado || m.codigo;
+      const puenteMateria = puente[codigo];
+      if (!puenteMateria) continue; // materia cuyo libro aún no está en la oferta
+      const disponibles = await this.prisma.reactivo.findMany({
+        where: {
+          banco: 'cultural',
+          temaBanco: {
+            capitulo: {
+              numero: { in: puenteMateria.capitulos },
+              libro: { slug: puenteMateria.slug },
+            },
+          },
+        },
+        // OJO: sin respuestaCorrecta — la respuesta NO se filtra al cliente.
+        select: { id: true, enunciado: true, opciones: true, tipo: true, tema: true },
+      });
+      bloques.push({
+        nombre: m.nombre,
+        codigo,
+        reactivos: this.mezclar(disponibles).slice(0, DEFAULT_POR_MATERIA),
+      });
+    }
+
+    return { tipo: 'cultural', plantel, carrera: carrera.carrera, anio: carrera.anio, bloques };
+  }
+
+  /** Ruta a un archivo de docs/examen-cultural/, robusta a desde dónde se corra. */
+  private rutaCultural(archivo: string): string {
+    const candidatos = [
+      path.resolve(process.cwd(), '..', '..', 'docs', 'examen-cultural', archivo),
+      path.resolve(__dirname, '..', '..', '..', '..', 'docs', 'examen-cultural', archivo),
+    ];
+    for (const c of candidatos) if (fs.existsSync(c)) return c;
+    throw new NotFoundException(`No encuentro ${archivo} del examen cultural.`);
   }
 
   /**
