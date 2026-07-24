@@ -179,9 +179,19 @@ aminoácidos glutamato (excitador, tóxico en exceso), glicina y GABA (inhibidor
 polipéptidos (encefalinas y endorfinas, sustancia P, neuropéptidos), las purinas (adenosina
 y ATP) y el óxido nítrico (gas, acción retrógrada, síntesis por NOS a partir de arginina,
 activa el cGMP); más el principio de que la acción depende del receptor y que las drogas
-del encéfalo intensifican o inhiben los sistemas transmisores.
+del encéfalo intensifican o inhiben los sistemas transmisores. De la **página 774** (dos
+recuadros) se cubre el **recuadro 32-1** sobre el clorpirifós (insecticida de cultivos de
+soja, maíz, trigo y cebada que inhibe la acetilcolinesterasa y colapsa el sistema nervioso;
+su efecto en humanos sobre la acetilcolina, la prohibición en EE. UU. y Europa, su hallazgo
+en el agua, los sedimentos y la biota, y los daños en el desarrollo) y el **ensayo 32-1**
+sobre los opiáceos endógenos (la etimología de *opion*, los opiáceos como los analgésicos
+más potentes y adictivos, su acción como neuromoduladores inhibidores de la nocicepción,
+el hallazgo de los receptores en la médula espinal y el tallo cerebral, las encefalinas de
+cinco aminoácidos derivadas de la proencefalina, las endorfinas y su relación con la ACTH,
+el estrés extremo, la analgesia natural de soldados y atletas, y la adicción por reducción
+de la producción normal de endorfinas).
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 774 (hoja 820) en adelante (los potenciales postsinápticos y la integración de señales, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 775 (hoja 821) en adelante (los potenciales postsinápticos y la integración de señales, las barreras del SNC y lo que reste del capítulo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y las "Situaciones problemáticas"). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -3926,6 +3936,312 @@ De acuerdo con el libro de Biología, casi todas las drogas que actúan en el en
 
 Casi todas las drogas que actúan en el encéfalo y alteran la atención o el comportamiento lo hacen porque intensifican o inhiben la actividad de los sistemas transmisores.
 
+## Sub-lote 30 · El recuadro 32-1: el clorpirifós y la acetilcolinesterasa (p. 774)
+
+### 242
+
+De acuerdo con el libro de Biología, ¿qué es el clorpirifós y en qué cultivos se utiliza?
+
+- A. Es un insecticida utilizado para el control de numerosos insectos considerados plagas en cultivos de soja, maíz, trigo y cebada
+- B. Es un fertilizante utilizado para enriquecer los cultivos de arroz y café
+- C. Es un medicamento utilizado para tratar la enfermedad de Alzheimer
+- D. Es un neurotransmisor natural de los insectos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · clorpirifós
+
+El clorpirifós es un insecticida utilizado para el control de numerosos insectos considerados plagas en cultivos de soja, maíz, trigo y cebada.
+
+### 243
+
+De acuerdo con el libro de Biología, ¿en qué consiste la acción del clorpirifós en el insecto?
+
+- A. En la inhibición de la enzima acetilcolinesterasa, lo que causa el envenenamiento por colapso de su sistema nervioso
+- B. En la destrucción directa de la vaina de mielina de sus axones
+- C. En el bloqueo de la bomba de Na+/K+-ATPasa de sus células
+- D. En la estimulación excesiva de la producción de dopamina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · clorpirifós · acetilcolinesterasa
+
+Su acción en el insecto consiste en la inhibición de la enzima acetilcolinesterasa, lo que causa el envenenamiento por colapso de su sistema nervioso.
+
+### 244
+
+De acuerdo con el libro de Biología, ¿cómo actúa el clorpirifós sobre el sistema nervioso humano y qué provoca?
+
+- A. Afecta a la acetilcolinesterasa encargada de actuar en el área neuronal y controlar al neurotransmisor acetilcolina, bloquea la transmisión correcta de los impulsos nerviosos y provoca incoordinación motora, y podría causar la muerte
+- B. Afecta únicamente a la dopamina y provoca la enfermedad de Parkinson
+- C. Afecta a la vaina de mielina y provoca una conducción más rápida del impulso
+- D. No tiene ningún efecto sobre el sistema nervioso humano
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · clorpirifós · acetilcolina
+
+El clorpirifós actúa sobre el sistema nervioso humano, pues también afecta a la acetilcolinesterasa encargada de actuar en el área neuronal y controlar al neurotransmisor acetilcolina. De este modo, genera un envenenamiento tóxico, en la medida en que bloquea la transmisión correcta de los impulsos nerviosos. Esto provoca incoordinación motora y podría causar la muerte.
+
+### 245
+
+De acuerdo con el libro de Biología, ¿dónde fue prohibido el clorpirifós?
+
+- A. En los Estados Unidos y en muchos países de Europa
+- B. Únicamente en los países de África
+- C. En todos los países del mundo sin excepción
+- D. En ningún país, ya que se considera inofensivo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · clorpirifós · prohibición
+
+Precisamente, por eso fue prohibido en los Estados Unidos y en muchos países de Europa.
+
+### 246
+
+De acuerdo con el libro de Biología, ¿dónde se ha hallado clorpirifós, y qué es la biota?
+
+- A. En el agua, en los sedimentos y en la biota, es decir, en el conjunto de organismos vivos
+- B. Solo en el aire de las zonas urbanas; la biota es el conjunto de minerales del suelo
+- C. Únicamente en los cultivos tratados; la biota es el conjunto de aguas subterráneas
+- D. En ningún medio natural; la biota es el conjunto de sedimentos marinos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · clorpirifós · biota
+
+Se ha hallado clorpirifós en el agua, en los sedimentos y en la biota, es decir, en el conjunto de organismos vivos.
+
+### 247
+
+De acuerdo con el libro de Biología, ¿por qué se quitó del mercado el clorpirifós en la mayoría de las naciones?
+
+- A. Porque se advirtió que las mujeres gestantes y las que alimentaban a sus bebés transmitían la sustancia a sus hijos, y algunos nacían con malformaciones, poco peso y problemas neurológicos
+- B. Porque dejó de ser eficaz contra las plagas de los cultivos
+- C. Porque su producción resultaba demasiado costosa
+- D. Porque se descubrió que solo afectaba a los insectos, y no a las plagas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · clorpirifós · efectos en el desarrollo
+
+En la mayoría de las naciones en las que esta sustancia se quitó del mercado fue porque se advirtió que las mujeres gestantes y las que alimentaban a sus bebés transmitían la sustancia a sus hijos y algunos nacían con malformaciones, poco peso y problemas neurológicos.
+
+> De este recuadro solo se usan los datos concretos. El propio libro plantea el aumento de casos de trastornos del espectro autista como algo que "**podría** estar relacionado" con este veneno: al ser una conjetura y no una afirmación, no se escribe reactivo sobre ella.
+
+## Sub-lote 31 · El ensayo 32-1: los opiáceos endógenos y las endorfinas (p. 774)
+
+### 248
+
+De acuerdo con el libro de Biología, ¿de dónde proviene la palabra "opio" y qué significa?
+
+- A. Del griego *opion*, que significa "jugo de amapola"
+- B. Del latín *opium*, que significa "sueño profundo"
+- C. Del griego *pathos*, que significa "sufrimiento o sensación"
+- D. Del árabe *afiun*, que significa "flor blanca"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · opiáceos · etimología
+
+La palabra "opio" proviene del griego *opion*, que significa "jugo de amapola".
+
+### 249
+
+De acuerdo con el libro de Biología, ¿qué se dice del jugo de amapola y sus derivados, como la morfina?
+
+- A. Son los analgésicos más potentes que se conocen, sus efectos incluyen la euforia y también son altamente adictivos
+- B. Son analgésicos muy débiles, sin efectos secundarios ni riesgo de adicción
+- C. Son estimulantes que aumentan la percepción del dolor
+- D. Son antibióticos utilizados contra infecciones nerviosas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · opiáceos
+
+Desde la época de los antiguos griegos, el jugo de amapola y sus derivados, como la morfina, se han utilizado para controlar el dolor. Son los analgésicos más potentes que se conocen y sus efectos incluyen a la euforia. También son altamente adictivos.
+
+### 250
+
+De acuerdo con el libro de Biología, ¿a qué se deben las propiedades analgésicas de los opiáceos?
+
+- A. A que actúan como neuromoduladores inhibidores, al disminuir la producción de impulsos nerviosos que ascienden por las vías del dolor (nocicepción)
+- B. A que actúan como neurotransmisores excitadores que aumentan los impulsos del dolor
+- C. A que destruyen los receptores del dolor de la piel
+- D. A que bloquean la bomba de Na+/K+-ATPasa de las neuronas sensoriales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · opiáceos · nocicepción
+
+Sus propiedades analgésicas se deben a que actúan como neuromoduladores inhibidores, al disminuir la producción de impulsos nerviosos que ascienden por las vías del dolor (nocicepción).
+
+### 251
+
+De acuerdo con el libro de Biología, ¿qué hizo sospechar que los opiáceos actúan por unión a receptores endógenos específicos?
+
+- A. Que todas las moléculas de sustancias con acción opiácea tienen estructuras químicas tridimensionales similares
+- B. Que todas las sustancias opiáceas tienen el mismo color y sabor
+- C. Que los opiáceos solo actúan en los invertebrados
+- D. Que los opiáceos se disuelven únicamente en agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · opiáceos · receptores
+
+Todas las moléculas de sustancias con acción opiácea tienen estructuras químicas tridimensionales similares. Por eso, durante un largo tiempo se sospechó que los opiáceos actúan sobre el sistema nervioso por unión a receptores endógenos específicos.
+
+### 252
+
+De acuerdo con el libro de Biología, ¿dónde se localizaron de forma primaria los receptores de opiáceos?
+
+- A. En la médula espinal, en el tallo cerebral y en diversas regiones del cerebro, en todos los vertebrados examinados
+- B. Únicamente en la piel y en los músculos esqueléticos
+- C. Solo en la médula suprarrenal de los mamíferos
+- D. En el tubo digestivo de los invertebrados exclusivamente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · opiáceos · receptores
+
+La búsqueda de estos receptores permitió localizarlos de forma primaria en la médula espinal, en el tallo cerebral y en diversas regiones del cerebro en todos los vertebrados examinados.
+
+### 253
+
+De acuerdo con el libro de Biología, ¿qué respuesta lógica explicaba que las neuronas de los vertebrados tuvieran receptores específicos para moléculas propias de ciertas plantas?
+
+- A. Que es probable que el cerebro de los vertebrados produzca sustancias similares a los opiáceos
+- B. Que los vertebrados heredaron esos receptores directamente de las plantas
+- C. Que los receptores eran en realidad inútiles y no cumplían función alguna
+- D. Que las plantas producen esas moléculas para beneficiar a los vertebrados
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · opiáceos endógenos
+
+Solo una respuesta parecía lógica: es probable que el cerebro de los vertebrados produzca sustancias similares a los opiáceos. Esta conclusión desencadenó la búsqueda de sustancias endógenas que tuviesen actividad opiácea.
+
+### 254
+
+De acuerdo con el libro de Biología, ¿cuáles son los opiáceos endógenos aislados y dónde se encuentran difundidos?
+
+- A. Las encefalinas y las endorfinas, difundidas en todo el sistema nervioso central y también en la médula suprarrenal
+- B. La morfina y la heroína, difundidas únicamente en el hígado
+- C. La dopamina y la serotonina, difundidas solo en el tronco cerebral
+- D. El glutamato y el GABA, difundidos en la unión neuromuscular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · encefalinas y endorfinas
+
+Entre los opiáceos endógenos se encuentran las encefalinas y las endorfinas, difundidas en todo el sistema nervioso central y también en la médula suprarrenal.
+
+### 255
+
+De acuerdo con el libro de Biología, ¿cómo son las encefalinas identificadas y a partir de qué se producen?
+
+- A. Son dos péptidos de solo cinco aminoácidos, producidos en múltiples copias a partir de una única cadena polipeptídica precursora (proencefalina)
+- B. Son dos aminas biógenas producidas a partir de la arginina
+- C. Son tres proteínas de más de cien aminoácidos producidas en el hígado
+- D. Son un gas producido por la enzima óxido nítrico sintetasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · encefalinas
+
+Las encefalinas identificadas son dos péptidos de solo cinco aminoácidos y, de acuerdo con la evidencia reciente, son producidas en múltiples copias a partir de una única cadena polipeptídica precursora (proencefalina).
+
+### 256
+
+De acuerdo con el libro de Biología, ¿en qué áreas encefálicas se encuentran las endorfinas en concentraciones altas?
+
+- A. En áreas involucradas en la transmisión del dolor, la respiración, la actividad motora, la secreción de las hormonas hipofisarias y el humor
+- B. Únicamente en las áreas de la visión y la audición
+- C. Solo en el cuerpo estriado y el cerebelo
+- D. En ninguna área encefálica; solo se hallan en la piel
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · endorfinas
+
+Las endorfinas se encuentran en concentraciones altas en áreas encefálicas involucradas en la transmisión del dolor, la respiración, la actividad motora, la secreción de las hormonas hipofisarias y el humor.
+
+### 257
+
+De acuerdo con el libro de Biología, ¿qué es la ACTH?
+
+- A. La hormona liberada por la hipófisis anterior que estimula la corteza suprarrenal
+- B. Un neurotransmisor liberado en la unión neuromuscular
+- C. Una enzima que degrada la acetilcolina en la hendidura sináptica
+- D. Un opiáceo endógeno formado por cinco aminoácidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · ACTH
+
+La ACTH es la hormona liberada por la hipófisis anterior que estimula la corteza suprarrenal.
+
+### 258
+
+De acuerdo con el libro de Biología, según los estudios del comportamiento, ¿qué produce el estrés durante situaciones extremas?
+
+- A. Incrementa la actividad del eje hipotálamo-adenohipófisis-glándula suprarrenal y la concentración de endorfinas en la sangre y el tejido nervioso, con cambios paralelos en el umbral del dolor
+- B. Disminuye la concentración de endorfinas y reduce el umbral del dolor
+- C. Detiene por completo la actividad de la glándula suprarrenal
+- D. No produce ningún cambio medible en el organismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · endorfinas · estrés
+
+Los estudios del comportamiento indican que el estrés durante situaciones extremas incrementa la actividad del eje hipotálamo-adenohipófisis-glándula suprarrenal y la concentración de endorfinas en la sangre y el tejido nervioso, con cambios paralelos en el umbral del dolor.
+
+### 259
+
+De acuerdo con el libro de Biología, ¿qué explicaría que soldados en batalla o atletas en momentos críticos no perciban una herida muy dolorosa?
+
+- A. Que las endorfinas funcionan como analgésicos naturales que alivian el dolor
+- B. Que el estrés destruye los receptores del dolor de forma permanente
+- C. Que en esas situaciones el sistema nervioso central deja de funcionar
+- D. Que la morfina se produce de forma natural en la piel herida
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · endorfinas · analgesia natural
+
+Las endorfinas funcionan como analgésicos naturales que alivian el dolor. Esto explicaría por qué ciertos individuos en situaciones de estrés —soldados en batalla, atletas en los momentos críticos de una competencia— suelen informar que no percibieron lo que después se comprobó que era una herida muy dolorosa.
+
+### 260
+
+De acuerdo con el libro de Biología, ¿cómo actúan la morfina, la heroína y otros opiáceos exógenos?
+
+- A. Se acoplan a los receptores de endorfinas y así alivian el estrés, levantan el ánimo y aplacan el dolor
+- B. Destruyen los receptores de endorfinas de forma irreversible
+- C. Aumentan la producción natural de endorfinas del organismo
+- D. Actúan solo sobre los músculos esqueléticos, sin tocar el sistema nervioso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · opiáceos exógenos
+
+La morfina, la heroína y otros opiáceos exógenos se acoplan a los receptores de endorfinas y así alivian el estrés, levantan el ánimo y aplacan el dolor.
+
+### 261
+
+De acuerdo con el libro de Biología, ¿cómo se propone que se genera la adicción a los opiáceos externos?
+
+- A. La incorporación de estos opiáceos externos reduce la producción normal de endorfinas, lo cual genera una dependencia siempre creciente de la fuente artificial
+- B. La incorporación de estos opiáceos aumenta la producción normal de endorfinas hasta niveles tóxicos
+- C. Los opiáceos externos destruyen la médula suprarrenal
+- D. Los opiáceos externos no generan ninguna dependencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 774
+**Subtema:** sistema nervioso · opiáceos · adicción
+
+Se propone que la incorporación de estos opiáceos externos reduce la producción normal de endorfinas, lo cual genera una dependencia siempre creciente de la fuente artificial, que da como resultado una adicción a estas drogas, con consecuencias graves para la salud de quien las consume.
+
 ---
 
-**Reactivos en este archivo:** 241
+**Reactivos en este archivo:** 261
