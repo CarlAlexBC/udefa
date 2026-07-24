@@ -52,10 +52,15 @@ cada tramo, nunca se calculó:
 - **Tramo del tema 3 (pp. 151–157): desfase = 12.** La hoja 163 muestra impreso
   "151" en su esquina y contiene el arranque de GRAVITACIÓN UNIVERSAL
   (163 − 151 = 12).
+- **Tramo del tema 5 (pp. 165–176): desfase = 12.** La hoja 177 muestra impreso
+  "165" y contiene el arranque de ESTÁTICA (177 − 165 = 12).
 - **Tramo del tema 8 (pp. 188–196): desfase = 13.** La hoja 201 muestra impreso
   "188" (201 − 188 = 13) y la hoja 202 muestra "189", donde arranca ENERGÍA.
+- **Tramo de los temas 10, 13, 16 y 17 (pp. 198–216): desfase = 13.** La hoja 211
+  muestra impreso "198", donde arranca SUSTENTABILIDAD Y CONTAMINACIÓN, y la
+  hoja 220 muestra "207", donde arranca el tema 16.
 
-Es decir, entre la p. 157 y la p. 188 el PDF gana una hoja. Si se hubiera
+Es decir, entre la p. 176 y la p. 188 el PDF gana una hoja. Si se hubiera
 arrastrado el desfase 12, la Energía se habría buscado una hoja antes y las
 referencias habrían salido todas corridas. **Releer el desfase al cambiar de
 tema, no sólo al cambiar de unidad.**
@@ -93,6 +98,8 @@ reactivo 2. La página de cada referencia se **lee** de la esquina de la hoja.
 - **Sub-lote 22 · Par de fuerzas y momento de una fuerza (pp. 168–169)** — tema 5
 - **Sub-lote 23 · Centro de gravedad, centroide y centro de masa (p. 169)** — tema 5
 - **Sub-lote 24 · Condiciones de equilibrio y diagrama de cuerpo libre (p. 170)** — tema 5
+- **Sub-lote 25 · Importancia de la energía, sus usos y sus consecuencias (pp. 198–199)** — tema 10
+- **Sub-lote 26 · Ley de la conservación de la cantidad de movimiento (p. 207)** — tema 16
 
 **Fuera del temario, no se tocan** aunque caigan en las mismas páginas: los temas
 14 (Relación entre el impulso y la cantidad de movimiento) y 15 (Choque elástico
@@ -115,10 +122,16 @@ temas 1, 6, 7, 9, 11, 12 y 18.
   1, 2, 3 son procedimiento y no llevan reactivo.
 - pp. 171–176 · resolución de problemas de equilibrio y sus ejercicios
   propuestos.
+- p. 198 · la mitad superior, que es el final del tema 9 Piezoelectricidad y su
+  sección "Degradación de la energía" — **ojo, no confundirla** con la
+  "Ley de la conservación de la energía y su degradación" de la p. 195, que sí
+  entra por el tema 8 y ya está cubierta en el sub-lote 8.
+- pp. 208–211 · resolución de problemas de impulso y cantidad de movimiento y
+  sus ejercicios propuestos. La teoría del tema 16 cabe entera en la p. 207.
 - Los "Ejercicios propuestos" de toda la unidad.
 
-**Pendiente:** temas 10 (Sustentabilidad y contaminación, pp. 198–199) y 16 (Ley
-de la conservación de la cantidad de movimiento, pp. 207–211).
+**Pendiente:** ninguno. La Unidad 5 queda **CERRADA** en los ocho temas que suman
+los dos temarios.
 
 ## Cómo se escriben estos reactivos
 
@@ -3454,6 +3467,480 @@ De conformidad con la nota del libro de Física, ¿a qué dos tipos de movimient
 
 <En general, cualquier movimiento por complejo que sea puede ser reducido para su estudio a dos tipos de movimiento: de traslación y de rotación.>
 
+## Sub-lote 25 · Importancia de la energía, sus usos y sus consecuencias (pp. 198–199)
+
+### 204
+
+En relación con el libro de Física, ¿qué ha hecho posible el uso de los diferentes tipos de energía que existen?
+
+- A. El desarrollo de la ciencia, así como las diversas aplicaciones en la tecnología.
+- B. Únicamente la generación de energía eléctrica en las plantas termoeléctricas.
+- C. Únicamente el traslado rápido por tierra, aire, mares y ríos.
+- D. La eliminación por completo de la contaminación del suelo, agua y aire.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 198
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Ya hemos señalado que el progreso de nuestra sociedad no sería posible sin los diferentes tipos de energía que existen, cuyo uso ha hecho posible el desarrollo de la ciencia, así como las diversas aplicaciones en la tecnología.>
+
+### 205
+
+De acuerdo con el libro de Física, ¿qué consecuencias provoca el uso de los diferentes energéticos?
+
+- A. Consecuencias como la contaminación del suelo, agua y aire.
+- B. Consecuencias como el agotamiento de las fuentes de energía renovables.
+- C. Consecuencias como la disminución de la capa de ozono en la superficie.
+- D. Ninguna consecuencia, pues los energéticos son limpios por naturaleza.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Sin embargo, no podemos olvidar que el uso de los diferentes energéticos provoca consecuencias como la contaminación del suelo, agua y aire.>
+
+### 206
+
+De conformidad con el libro de Física, ¿qué debemos tener presente sobre las ventajas que representa la electricidad frente a los otros combustibles?
+
+- A. Que un alto porcentaje de energía eléctrica se obtiene quemando combustibles en las plantas eléctricas.
+- B. Que toda la energía eléctrica se obtiene de fuentes de energía renovables y no contaminantes.
+- C. Que la electricidad es el único combustible que produce dióxido de azufre y lluvia ácida.
+- D. Que la electricidad no permite disponer con facilidad y de inmediato de la energía que necesitamos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Si bien las ventajas que representa la electricidad frente a los otros combustibles son múltiples porque es limpia y permite disponer con facilidad y de inmediato de la energía que necesitamos, debemos tener presente que un alto porcentaje de energía eléctrica se obtiene quemando combustibles en las plantas eléctricas.>
+
+### 207
+
+En relación con el libro de Física, ¿qué ocurre con la contaminación al obtener energía eléctrica quemando combustibles en las plantas eléctricas?
+
+- A. Se evita la contaminación doméstica, pero se traslada al medio ambiente donde se concentra.
+- B. Se evita la contaminación del medio ambiente, pero se traslada al interior de las casas.
+- C. Se elimina por completo la contaminación tanto doméstica como del medio ambiente.
+- D. Se concentra únicamente en el suelo, sin afectar el agua ni el aire.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Con ese procedimiento se evita la contaminación doméstica, pero se traslada al medio ambiente donde se concentra.>
+
+### 208
+
+De acuerdo con el libro de Física, ¿de dónde provienen las sustancias nocivas que contiene el aire de los grandes núcleos urbanos e industriales?
+
+- A. De la combustión de carbón, leña e hidrocarburos.
+- B. De la acción de la luz solar sobre el oxígeno de la atmósfera alta.
+- C. De los derrames de refinerías, tuberías, pozos y barcos petroleros.
+- D. De la evaporación del agua producida durante la combustión de la gasolina.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Estas sustancias provienen de la combustión de carbón, leña e hidrocarburos.>
+
+### 209
+
+De conformidad con el libro de Física, ¿qué produce la gasolina en exceso durante su combustión?
+
+- A. Dióxido de carbono y agua.
+- B. Monóxido de carbono y ozono.
+- C. Dióxido de azufre y lluvia ácida.
+- D. Hidrógeno y helio.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Así, la gasolina en exceso produce dióxido de carbono y agua durante su combustión.>
+
+### 210
+
+En relación con el libro de Física, ¿qué característica tiene el monóxido de carbono?
+
+- A. Es un gas venenoso.
+- B. Es un gas que puede causar daños al hígado, incluso cáncer.
+- C. Es un gas que ocasiona enfermedades de las vías respiratorias y lluvia ácida.
+- D. Es un gas que daña los pulmones y ennegrece la ropa, rostros, casas y edificios.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Monóxido de carbono, que es un gas venenoso.>
+
+### 211
+
+De acuerdo con el libro de Física, ¿qué daños pueden causar los hidrocarburos no quemados?
+
+- A. Daños al hígado, incluso cáncer.
+- B. Enfermedades de las vías respiratorias y lluvia ácida.
+- C. Daños a los pulmones y ennegrecimiento de la ropa, rostros, casas y edificios.
+- D. Irritación de las vías respiratorias por la acción de la luz solar.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Hidrocarburos no quemados, que pueden causar daños al hígado, incluso cáncer.>
+
+### 212
+
+De conformidad con el libro de Física, ¿a partir de qué se forma el dióxido de azufre y qué ocasiona?
+
+- A. Se forma a partir de la pequeña cantidad de azufre que contiene el petróleo, y ocasiona enfermedades de las vías respiratorias y lluvia ácida.
+- B. Se forma a partir de la reacción entre nitrógeno y oxígeno a la temperatura del motor, y ocasiona daños al hígado, incluso cáncer.
+- C. Se forma a partir de la acción de la luz solar sobre el oxígeno, y ocasiona irritación de las vías respiratorias.
+- D. Se forma a partir de las partículas de carbono en suspensión, y ocasiona daños a los pulmones.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Dióxido de azufre formado a partir de la pequeña cantidad de azufre que contiene el petróleo, que ocasiona enfermedades de las vías respiratorias y lluvia ácida.>
+
+### 213
+
+En relación con el libro de Física, ¿de qué son productos el monóxido y el dióxido de nitrógeno y qué efectos ocasionan?
+
+- A. Son productos de la reacción entre nitrógeno y oxígeno a la temperatura del motor, y ocasionan los mismos efectos perniciosos que el dióxido de azufre.
+- B. Son productos de la combustión parcial de la gasolina, y ocasionan daños al hígado, incluso cáncer.
+- C. Son productos de la acción de la luz solar sobre los gases de escape, y ocasionan irritación de las vías respiratorias.
+- D. Son productos de la pequeña cantidad de azufre que contiene el petróleo, y ocasionan lluvia ácida.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Monóxido y dióxido de nitrógeno, productos de la reacción entre nitrógeno y oxígeno a la temperatura del motor; ocasiona los mismos efectos perniciosos que el dióxido de azufre.>
+
+### 214
+
+De acuerdo con el libro de Física, ¿por qué está constituido el humo y qué daños causa?
+
+- A. Por pequeñas partículas de carbono en suspensión que dañan los pulmones y ennegrecen la ropa, rostros, casas y edificios.
+- B. Por pequeñas partículas de azufre en suspensión que ocasionan lluvia ácida y enfermedades respiratorias.
+- C. Por vapor de agua y dióxido de carbono que dañan los pulmones y ennegrecen la ropa.
+- D. Por ozono producido por la acción de la luz solar que irrita las vías respiratorias.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Humo constituido por pequeñas partículas de carbono en suspensión que daña los pulmones y ennegrece la ropa, rostros, casas y edificios.>
+
+### 215
+
+De conformidad con el libro de Física, ¿por qué es particular el caso del ozono?
+
+- A. Es beneficioso en la atmósfera alta porque nos protege de una radiación intensa de rayos ultravioleta provenientes del Sol, pero perjudicial en la superficie porque irrita las vías respiratorias.
+- B. Es perjudicial en la atmósfera alta porque impide el paso de los rayos ultravioleta, pero beneficioso en la superficie porque limpia el aire.
+- C. Es beneficioso tanto en la atmósfera alta como en la superficie, pues en ambas nos protege de la radiación solar.
+- D. Es perjudicial tanto en la atmósfera alta como en la superficie, pues en ambas irrita las vías respiratorias.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<El caso del ozono es particular, ya que es beneficioso en la atmósfera alta porque nos protege de una radiación intensa de rayos ultravioleta provenientes del Sol, pero perjudicial en la superficie porque irrita las vías respiratorias.>
+
+> Es el reactivo más fácil de invertir de todo el tema: **arriba protege, abajo irrita**. El distractor B cambia de lugar los dos efectos.
+
+### 216
+
+En relación con el libro de Física, ¿cómo se produce el ozono en la superficie?
+
+- A. Por la acción de la luz solar sobre el oxígeno y los gases de escape de los motores.
+- B. Por la combustión parcial de la gasolina en el interior de los motores.
+- C. Por la reacción entre nitrógeno y oxígeno a la temperatura del motor.
+- D. Por la quema de combustibles en las plantas eléctricas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<El ozono se produce aquí por la acción de la luz solar sobre el oxígeno y los gases de escape de los motores.>
+
+### 217
+
+De acuerdo con el libro de Física, ¿qué es el esmog y de dónde proviene ese vocablo?
+
+- A. Es una niebla contaminante y persistente sobre los grandes núcleos urbanos; el vocablo inglés proviene de la contracción de las palabras *smoke*, que significa humo, y *fog*, niebla.
+- B. Es una niebla contaminante y persistente sobre los grandes núcleos urbanos; el vocablo griego proviene de la contracción de las palabras que significan humo y niebla.
+- C. Es un gas venenoso que se concentra en la atmósfera alta; el vocablo inglés proviene de las palabras *smoke*, humo, y *gas*.
+- D. Es el conjunto de partículas de carbono en suspensión; el vocablo inglés proviene de las palabras *smoke*, humo, y *smoulder*, arder.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<El conjunto de éstos forma lo que se llama esmog (vocablo inglés que proviene de la contracción de las palabras smoke que significa humo y fog niebla), que aparece como una niebla contaminante y persistente sobre los grandes núcleos urbanos.>
+
+### 218
+
+De conformidad con el pie de figura del libro de Física, ¿a qué se debe principalmente la contaminación urbana en forma de esmog?
+
+- A. A los motores de combustión interna de automóviles, camiones e industrias.
+- B. A los derrames de refinerías, tuberías, pozos y barcos petroleros.
+- C. A la quema de combustibles en las plantas eléctricas únicamente.
+- D. A la radiación intensa de rayos ultravioleta provenientes del Sol.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<La contaminación urbana en forma de esmog se debe principalmente a los motores de combustión interna de automóviles, camiones e industrias.>
+
+### 219
+
+En relación con el libro de Física, además de los automóviles, ¿qué otros contaminantes completan el panorama y de dónde provienen?
+
+- A. De las industrias y las plantas termoeléctricas, como vapores de disolventes, productos químicos, polvos de metales y cemento.
+- B. De la atmósfera alta, como el ozono y los rayos ultravioleta provenientes del Sol.
+- C. De los derrames de refinerías, como los plásticos y las fibras sintéticas.
+- D. De las fuentes de energía renovables, como la solar, eólica, hidráulica y geotérmica.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Los automóviles no son el único problema; también las industrias y las plantas termoeléctricas completan el panorama contribuyendo con sus propios contaminantes, como vapores de disolventes, productos químicos, polvos de metales, cemento, entre otros.>
+
+### 220
+
+De acuerdo con el libro de Física, ¿qué es importante instalar en los tubos de escape de los automóviles en la lucha contra la contaminación y para qué?
+
+- A. Convertidores catalíticos, para que transformen los gases nocivos en otros no dañinos.
+- B. Torres de lavado, para que eliminen humos y polvos.
+- C. Cristales piezoeléctricos, para que midan la intensidad de los gases de escape.
+- D. Filtros de biomasa, para que conviertan los gases nocivos en energía eléctrica.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<En la lucha contra la contaminación es importante instalar convertidores catalíticos en los tubos de escape de los automóviles para que transformen los gases nocivos en otros no dañinos.>
+
+### 221
+
+De conformidad con el libro de Física, ¿qué deben construirse en las industrias como sistema anticontaminante?
+
+- A. Torres de lavado que eliminen humos y polvos.
+- B. Convertidores catalíticos que transformen los gases nocivos en otros no dañinos.
+- C. Plantas termoeléctricas que concentren la contaminación en el medio ambiente.
+- D. Depósitos subterráneos que almacenen los vapores de disolventes.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<En las industrias deben construirse torres de lavado que eliminen humos y polvos, entre otros sistemas anticontaminantes.>
+
+> Se prestan a confusión los dos remedios que el libro da seguidos: los **convertidores catalíticos** son para los automóviles; las **torres de lavado**, para las industrias.
+
+### 222
+
+En relación con el libro de Física, ¿cuáles son las fuentes de energía renovables que menciona?
+
+- A. La solar, eólica, hidráulica, geotérmica, mareomotriz, del hidrógeno o de la biomasa.
+- B. El petróleo, el carbón, la leña y los hidrocarburos.
+- C. La solar, eólica, hidráulica y la que se obtiene quemando combustibles en las plantas eléctricas.
+- D. Únicamente la solar y la eólica, por ser las que no producen residuos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Es urgente que los países con recursos científicos, tecnológicos y económicos se unan para investigar y desarrollar procesos que posibiliten el uso a gran escala y de manera rentable de las fuentes de energía renovables como la solar, eólica, hidráulica, geotérmica, mareomotriz, del hidrógeno o de la biomasa.>
+
+### 223
+
+De acuerdo con el libro de Física, ¿para qué debemos cuidar el petróleo en lugar de quemarlo y contaminar el ambiente?
+
+- A. Para que las siguientes generaciones lo aprovechen en la producción de plásticos y en la fabricación de telas hechas con fibras sintéticas.
+- B. Para que las siguientes generaciones lo aprovechen como fuente de energía renovable a gran escala.
+- C. Para que las plantas termoeléctricas dispongan de combustible durante más tiempo.
+- D. Para evitar que se agoten las fuentes de energía solar, eólica e hidráulica.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<Tal es el caso del petróleo, que en lugar de quemarlo y contaminar el ambiente, lo debemos cuidar para que las siguientes generaciones lo aprovechen en la producción de plásticos y en la fabricación de telas hechas con fibras sintéticas entre otros usos.>
+
+### 224
+
+De conformidad con el libro de Física, ¿qué han causado los derrames de refinerías, tuberías, pozos y barcos petroleros?
+
+- A. Enormes daños a la flora y la fauna.
+- B. Enormes daños a la capa de ozono de la atmósfera alta.
+- C. La formación de esmog sobre los grandes núcleos urbanos.
+- D. El agotamiento de las fuentes de energía renovables.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 199
+**Tema:** U5 t10 · sustentabilidad y contaminación
+**Subtema:** física · sustentabilidad y contaminación
+
+<En ese contexto, los derrames de refinerías, tuberías, pozos y barcos petroleros han causado enormes daños a la flora y la fauna.>
+
+## Sub-lote 26 · Ley de la conservación de la cantidad de movimiento (p. 207)
+
+### 225
+
+En relación con el libro de Física, ¿qué señala la ley de la conservación de la cantidad de movimiento?
+
+- A. Cuando dos o más cuerpos chocan, la cantidad de movimiento es igual antes y después del choque.
+- B. Cuando dos o más cuerpos chocan, la cantidad de movimiento después del choque es mayor que antes de él.
+- C. Cuando dos o más cuerpos chocan, la cantidad de movimiento después del choque es igual a cero.
+- D. Cuando dos o más cuerpos chocan, la cantidad de movimiento se transforma íntegramente en energía calorífica.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 207
+**Tema:** U5 t16 · ley de la conservación de la cantidad de movimiento
+**Subtema:** física · cantidad de movimiento
+
+<La ley de la conservación de la cantidad de movimiento señala lo siguiente: cuando dos o más cuerpos chocan la cantidad de movimiento es igual antes y después del choque.>
+
+### 226
+
+De acuerdo con el libro de Física, ¿qué significa la ley de la conservación de la cantidad de movimiento?
+
+- A. Que el resultado de la suma vectorial correspondiente a las cantidades de movimiento de los cuerpos después del choque es igual a la suma de los vectores que corresponde a las cantidades de movimiento de los cuerpos antes de él.
+- B. Que el resultado de la suma vectorial de las cantidades de movimiento después del choque es siempre mayor que la suma de las cantidades de movimiento antes de él.
+- C. Que el resultado de la suma escalar de las cantidades de movimiento después del choque es igual a la suma de las magnitudes antes de él.
+- D. Que la cantidad de movimiento de cada cuerpo por separado permanece igual antes y después del choque.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 207
+**Tema:** U5 t16 · ley de la conservación de la cantidad de movimiento
+**Subtema:** física · cantidad de movimiento
+
+<Esto significa que si dos o más cuerpos chocan, el resultado de la suma vectorial correspondiente a las cantidades de movimiento de los cuerpos después del choque es igual a la suma de los vectores que corresponde a las cantidades de movimiento de los cuerpos antes de él.>
+
+### 227
+
+De conformidad con el libro de Física, antes del choque, ¿a qué es igual la cantidad de movimiento de cada masa?
+
+- A. Al producto de su masa por su velocidad.
+- B. Al cociente de su masa entre su velocidad.
+- C. A la suma de su masa y su velocidad.
+- D. Al producto de su masa por el cuadrado de su velocidad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 207
+**Tema:** U5 t16 · ley de la conservación de la cantidad de movimiento
+**Subtema:** física · cantidad de movimiento
+
+<Antes del choque, tanto la masa 1 como la masa 2 tienen una cantidad de movimiento igual al producto de su masa por su velocidad.>
+
+### 228
+
+En relación con el libro de Física, en el análisis del choque de frente de dos esferas de acero, ¿qué representan las literales U₁ y U₂?
+
+- A. Las velocidades que llevan antes del choque.
+- B. Las velocidades que llevan después del choque.
+- C. Las masas de las dos esferas de acero.
+- D. Los impulsos que reciben durante el choque.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 207
+**Tema:** U5 t16 · ley de la conservación de la cantidad de movimiento
+**Subtema:** física · cantidad de movimiento
+
+<Efectuemos el análisis del choque de frente de dos esferas de acero cuyas masas son m₁ y m₂, representando por U₁ y U₂ las velocidades que llevan antes del choque, y por v₁ y v₂ las velocidades que llevan después del mismo.>
+
+### 229
+
+De acuerdo con el libro de Física, en la ecuación de la conservación de la cantidad de movimiento, ¿qué representa la expresión m₁v₁ + m₂v₂?
+
+- A. La cantidad de movimiento después del choque.
+- B. La cantidad de movimiento antes del choque.
+- C. El impulso que reciben las masas durante el choque.
+- D. La energía cinética total del sistema antes del choque.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 207
+**Tema:** U5 t16 · ley de la conservación de la cantidad de movimiento
+**Subtema:** física · cantidad de movimiento
+
+<Donde: m₁U₁ + m₂U₂ = cantidad de movimiento antes del choque; m₁v₁ + m₂v₂ = cantidad de movimiento después del choque.>
+
+> El libro distingue las dos expresiones sólo por la letra de la velocidad: con **U** es antes del choque, con **v** es después. El distractor B las intercambia.
+
+### 230
+
+De conformidad con el libro de Física, ¿qué se observa en la ecuación 6 respecto a la cantidad de movimiento?
+
+- A. Que antes del choque y después de él la cantidad de movimiento es la misma.
+- B. Que antes del choque la cantidad de movimiento es mayor que después de él.
+- C. Que después del choque la cantidad de movimiento es mayor que antes de él.
+- D. Que antes y después del choque la cantidad de movimiento es igual a cero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 207
+**Tema:** U5 t16 · ley de la conservación de la cantidad de movimiento
+**Subtema:** física · cantidad de movimiento
+
+<La ecuación 6 nos señala claramente la ley de la conservación de la cantidad de movimiento, pues se observa que antes del choque y después de él la cantidad de movimiento es la misma.>
+
+### 231
+
+En relación con el libro de Física, ¿en qué condiciones es válida la ley de la conservación de la cantidad de movimiento o del momento lineal?
+
+- A. Es válida para cualquier sistema, siempre y cuando se encuentre aislado y cerrado, es decir, que no actúen fuerzas externas sobre el sistema.
+- B. Es válida únicamente para sistemas sobre los cuales actúen fuerzas externas constantes.
+- C. Es válida únicamente para sistemas en los que las partículas se muevan en una sola dimensión.
+- D. Es válida únicamente para los choques de frente entre dos esferas de acero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 207
+**Tema:** U5 t16 · ley de la conservación de la cantidad de movimiento
+**Subtema:** física · cantidad de movimiento
+
+<La ley de la conservación de la cantidad de movimiento o ley de la conservación del momento lineal es válida para cualquier sistema, siempre y cuando se encuentre aislado y cerrado, es decir, que no actúen fuerzas externas sobre el sistema.>
+
+### 232
+
+De acuerdo con el libro de Física, ¿importa si las direcciones de las partículas del sistema antes y después de chocar unas con otras son en una o dos dimensiones?
+
+- A. No importa, pues la ley es válida para cualquier sistema aislado y cerrado.
+- B. Sí importa, pues la ley sólo es válida cuando el movimiento se produce en una dimensión.
+- C. Sí importa, pues la ley sólo es válida cuando el movimiento se produce en dos dimensiones.
+- D. Sí importa, pues en dos dimensiones la cantidad de movimiento deja de conservarse.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 207
+**Tema:** U5 t16 · ley de la conservación de la cantidad de movimiento
+**Subtema:** física · cantidad de movimiento
+
+<Así pues, no importa si las direcciones de las partículas del sistema antes y después de chocar unas con otras sea en una o dos dimensiones.>
+
 ---
 
-**Reactivos en este archivo:** 203
+**Reactivos en este archivo:** 232
