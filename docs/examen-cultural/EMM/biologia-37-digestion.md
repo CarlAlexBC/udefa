@@ -76,9 +76,25 @@ articulación de sonidos), las glándulas salivales y la saliva (los tres pares,
 alcalinidad por bicarbonato, la amilasa salival, el control autónomo, la salivación por
 olfato/vista, la inhibición por miedo y el 1-1,5 L diario) y la deglución (el bolo
 alimenticio, su carácter voluntario que sigue involuntario, el esfínter esofágico superior,
-el músculo estriado y liso del esófago, la peristalsis y el moco protector).
+el músculo estriado y liso del esófago, la peristalsis y el moco protector). De la **página
+860** se cubren la dentición de los mamíferos (el plan básico, la dentición humana omnívora,
+los 20/32 dientes y los colmillos de elefantes y morsas, fig. 37-4) y las papilas gustativas
+(las células receptoras en el poro, su ubicación en paladar y faringe, y la percepción de
+sabores tóxicos, fig. 37-5). De la **página 861** se cubren la deglución (los sistemas
+digestivo y respiratorio separados, la faringe común y la epiglotis que bloquea la tráquea,
+fig. 37-6) y el cuadro 37-1 de las principales enzimas digestivas (amilasa salival, pepsina,
+amilasa pancreática, lipasa, tripsina, desoxirribonucleasa, enteroquinasa, maltasa y lactasa,
+con su fuente, pH, sustrato y producto).
 
-**Pendiente:** el capítulo 37 está EN CURSO; sigue desde la página impresa 860 (hoja 906) en adelante (el estómago y los jugos gástricos, el intestino delgado, el páncreas y el hígado, el intestino grueso y el resto del sistema digestivo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre.
+**Erratas del libro (cuadro 37-1, p. 861).** Verificadas con render a 500 dpi (no son
+suciedad del escaneo, están así impresas): (1) la **quimotripsina** aparece con sustrato
+"Grasas" y producto "Dipéptidos" — es falso, la quimotripsina es una proteasa (actúa sobre
+proteínas/polipéptidos, no sobre grasas). (2) La **sacarasa** aparece con producto "Glucosa
+y galactosa" — es falso, la sacarosa se hidroliza en glucosa y **fructosa**; la galactosa
+proviene de la lactosa. **No se escriben reactivos sobre esas dos filas**, por la misma
+regla aplicada a los datos falsos de Historia.
+
+**Pendiente:** el capítulo 37 está EN CURSO; sigue desde la página impresa 862 (hoja 908) en adelante (el estómago y los jugos gástricos, el intestino delgado, el páncreas y el hígado, el intestino grueso y el resto del sistema digestivo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -790,4 +806,350 @@ El esófago está recubierto por una capa de moco que ayuda al pasaje del alimen
 
 ---
 
-**Reactivos en este archivo:** 40
+## Sub-lote 8 · La dentición de los mamíferos (fig. 37-4, p. 860)
+
+### 41
+
+De acuerdo con el libro de Biología, ¿qué incluye el plan de dentición básico de un mamífero, en cada cuadrante?
+
+- A. Dos incisivos, un canino, dos a cuatro premolares y dos a tres molares
+- B. Cuatro incisivos, dos caninos y dos molares
+- C. Solo incisivos y molares
+- D. Un incisivo, un canino y un premolar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 860
+**Subtema:** digestión · dentición
+
+El plan de dentición básico de un mamífero incluye, en cada cuadrante: dos incisivos, un canino ("colmillo"), dos a cuatro premolares y dos a tres molares.
+
+---
+
+### 42
+
+De acuerdo con el libro de Biología, ¿cómo es la dentición de los humanos y con qué se corresponde?
+
+- A. Relativamente no especializada, lo que se corresponde con su dieta omnívora
+- B. Muy especializada, con caninos grandes, propia de una dieta carnívora
+- C. Con molares planos, propia de una dieta herbívora
+- D. Sin caninos, propia de los roedores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 860
+**Subtema:** digestión · dentición
+
+La dentición de los humanos es relativamente no especializada, lo que se corresponde con su dieta omnívora.
+
+---
+
+### 43
+
+De acuerdo con el libro de Biología, ¿cuántos dientes tienen los niños y por cuántos son reemplazados?
+
+- A. Tienen 20 dientes, reemplazados por un segundo conjunto de 32
+- B. Tienen 32 dientes, reemplazados por un segundo conjunto de 20
+- C. Tienen 28 dientes, reemplazados por 32
+- D. Tienen 16 dientes, reemplazados por 24
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 860
+**Subtema:** digestión · dentición
+
+Los niños tienen 20 dientes que se van perdiendo y son reemplazados por un segundo conjunto de 32 dientes, a medida que los maxilares aumentan de tamaño.
+
+---
+
+### 44
+
+De acuerdo con el libro de Biología, ¿qué son en realidad los "colmillos" de los elefantes y los de las morsas?
+
+- A. Los de los elefantes son incisivos modificados; los de las morsas, caninos modificados
+- B. Ambos son caninos modificados
+- C. Ambos son molares modificados
+- D. Los de los elefantes son caninos; los de las morsas, incisivos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 860
+**Subtema:** digestión · dentición
+
+En los elefantes, los llamados "colmillos" son, en realidad, incisivos modificados que utilizan en el ataque y la defensa [...], mientras que los colmillos de la mayoría de otros mamíferos, como las morsas, son caninos modificados.
+
+---
+
+## Sub-lote 9 · Las papilas gustativas y la deglución (figs. 37-5 y 37-6, p. 860-861)
+
+### 45
+
+De acuerdo con el libro de Biología, ¿dónde se encuentran las células receptoras sensoriales de la papila gustativa?
+
+- A. Dentro del poro de la papila gustativa
+- B. En la superficie externa de la lengua
+- C. En el esfínter esofágico
+- D. En la mucosa estomacal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 860
+**Subtema:** digestión · papilas gustativas
+
+Las células receptoras sensoriales de la papila gustativa se encuentran dentro del poro.
+
+---
+
+### 46
+
+De acuerdo con el libro de Biología, además de en la lengua, ¿dónde más se encuentran papilas gustativas?
+
+- A. En el paladar y en la faringe
+- B. En el esófago y el estómago
+- C. En los labios y las encías
+- D. En la epiglotis y la laringe
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 860
+**Subtema:** digestión · papilas gustativas
+
+Otras papilas gustativas se encuentran en el paladar y en la faringe.
+
+---
+
+### 47
+
+De acuerdo con el libro de Biología, ¿por qué las células receptoras de las papilas gustativas desempeñan una función crítica?
+
+- A. Porque a través de ellas los animales perciben sabores desagradables en alimentos que muchas veces son tóxicos
+- B. Porque secretan la amilasa salival
+- C. Porque inician la deglución
+- D. Porque producen el bolo alimenticio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 860
+**Subtema:** digestión · papilas gustativas
+
+Estas células desempeñan una función crítica, ya que, a través de ellas, los animales perciben sabores desagradables en alimentos que muchas veces son tóxicos.
+
+---
+
+### 48
+
+De acuerdo con el libro de Biología, ¿qué estructura es común a los sistemas digestivo y respiratorio y conecta la tráquea con el esófago?
+
+- A. La faringe
+- B. La epiglotis
+- C. La laringe
+- D. El esfínter esofágico superior
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · deglución
+
+En la mayor parte de los grupos de mamíferos, los sistemas digestivo y respiratorio están separados, lo cual evita que la comida ingrese en los pulmones. La faringe es común a los ambos sistemas, y conecta la tráquea con el esófago.
+
+---
+
+### 49
+
+De acuerdo con el libro de Biología, durante la deglución, ¿qué bloquea la entrada de la tráquea?
+
+- A. La epiglotis, que se retrae y bloquea la entrada de la tráquea
+- B. El paladar blando, que desciende
+- C. El esfínter esofágico superior, que se cierra
+- D. La lengua, que cubre la laringe
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · deglución
+
+Aunque no se observa en la figura, las cuerdas vocales cierran la laringe. La epiglotis se retrae y bloquea la entrada de la tráquea.
+
+---
+
+## Sub-lote 10 · Las principales enzimas digestivas (cuadro 37-1, p. 861)
+
+### 50
+
+De acuerdo con el libro de Biología, según el cuadro de enzimas digestivas, ¿sobre qué sustrato actúa la amilasa salival y qué produce?
+
+- A. Actúa sobre los almidones y produce maltosa y oligosacáridos
+- B. Actúa sobre las proteínas y produce polipéptidos
+- C. Actúa sobre las grasas y produce ácidos grasos y glicerol
+- D. Actúa sobre la lactosa y produce glucosa y galactosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · enzimas digestivas
+
+Amilasa salival — Fuente: glándulas salivales; pH: 6,9; sustrato: almidones; producto: maltosa y oligosacáridos.
+
+---
+
+### 51
+
+De acuerdo con el libro de Biología, según el cuadro de enzimas digestivas, ¿cuál es la fuente de la pepsina, sobre qué sustrato actúa y qué produce?
+
+- A. Su fuente es la mucosa estomacal; actúa sobre las proteínas y produce polipéptidos
+- B. Su fuente es el páncreas; actúa sobre las grasas y produce glicerol
+- C. Su fuente son las glándulas salivales; actúa sobre los almidones
+- D. Su fuente es el intestino delgado; actúa sobre la maltosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · enzimas digestivas
+
+Pepsina — Fuente: mucosa estomacal; pH: 2; sustrato: proteínas; producto: polipéptidos.
+
+---
+
+### 52
+
+De acuerdo con el libro de Biología, según el cuadro de enzimas digestivas, ¿a qué pH actúa la pepsina?
+
+- A. A pH 2
+- B. A pH 6,9
+- C. A pH 7,1
+- D. A pH 8
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · enzimas digestivas
+
+Pepsina — pH al que actúa: 2.
+
+---
+
+### 53
+
+De acuerdo con el libro de Biología, según el cuadro de enzimas digestivas, ¿sobre qué sustrato actúa la amilasa pancreática y qué produce?
+
+- A. Actúa sobre los almidones y produce polisacáridos y disacáridos
+- B. Actúa sobre las proteínas y produce aminoácidos
+- C. Actúa sobre las grasas y produce ácidos grasos
+- D. Actúa sobre el RNA y produce nucleótidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · enzimas digestivas
+
+Amilasa pancreática — Fuente: páncreas; pH: 7,1; sustrato: almidones; producto: polisacáridos y disacáridos.
+
+---
+
+### 54
+
+De acuerdo con el libro de Biología, según el cuadro de enzimas digestivas, ¿sobre qué sustrato actúa la lipasa y qué produce?
+
+- A. Actúa sobre las grasas y produce ácidos grasos y glicerol
+- B. Actúa sobre los almidones y produce maltosa
+- C. Actúa sobre las proteínas y produce polipéptidos
+- D. Actúa sobre el DNA y produce nucleótidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · enzimas digestivas
+
+Lipasa — Fuente: páncreas; pH: 8; sustrato: grasas; producto: ácidos grasos y glicerol.
+
+---
+
+### 55
+
+De acuerdo con el libro de Biología, según el cuadro de enzimas digestivas, ¿cuál es la fuente de la tripsina?
+
+- A. El páncreas
+- B. La mucosa estomacal
+- C. Las glándulas salivales
+- D. El intestino grueso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · enzimas digestivas
+
+Tripsina — Fuente: páncreas; pH: 8.
+
+---
+
+### 56
+
+De acuerdo con el libro de Biología, según el cuadro de enzimas digestivas, ¿sobre qué sustrato actúa la desoxirribonucleasa y qué produce?
+
+- A. Actúa sobre el DNA y produce nucleótidos
+- B. Actúa sobre el RNA y produce aminoácidos
+- C. Actúa sobre las proteínas y produce dipéptidos
+- D. Actúa sobre los almidones y produce glucosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · enzimas digestivas
+
+Desoxirribonucleasa — Fuente: páncreas; pH: 8; sustrato: DNA; producto: nucleótidos.
+
+---
+
+### 57
+
+De acuerdo con el libro de Biología, según el cuadro de enzimas digestivas, ¿sobre qué sustrato actúa la enteroquinasa duodenal y qué produce?
+
+- A. Actúa sobre el tripsinógeno y produce tripsina activa
+- B. Actúa sobre la tripsina y produce tripsinógeno
+- C. Actúa sobre las proteínas y produce polipéptidos
+- D. Actúa sobre la maltosa y produce glucosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · enzimas digestivas
+
+Enteroquinasa duodenal — Fuente: intestino delgado; pH: 8; sustrato: tripsinógeno; producto: tripsina activa.
+
+---
+
+### 58
+
+De acuerdo con el libro de Biología, según el cuadro de enzimas digestivas, ¿sobre qué sustrato actúa la maltasa y qué produce?
+
+- A. Actúa sobre la maltosa y produce glucosa
+- B. Actúa sobre la lactosa y produce galactosa
+- C. Actúa sobre los almidones y produce maltosa
+- D. Actúa sobre las proteínas y produce aminoácidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · enzimas digestivas
+
+Maltasa — Fuente: intestino delgado; pH: 8; sustrato: maltosa; producto: glucosa.
+
+---
+
+### 59
+
+De acuerdo con el libro de Biología, según el cuadro de enzimas digestivas, ¿sobre qué sustrato actúa la lactasa y qué produce?
+
+- A. Actúa sobre la lactosa y produce glucosa y galactosa
+- B. Actúa sobre la maltosa y produce glucosa
+- C. Actúa sobre las proteínas y produce aminoácidos
+- D. Actúa sobre las grasas y produce glicerol
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · enzimas digestivas
+
+Lactasa — Fuente: intestino delgado; pH: 8; sustrato: lactosa; producto: glucosa y galactosa.
+
+---
+
+### 60
+
+De acuerdo con el libro de Biología, según la nota del cuadro de enzimas digestivas, ¿qué ocurre con la lactasa?
+
+- A. Con frecuencia está ausente en los adultos, en especial en los de origen africano
+- B. Está siempre presente en todos los adultos
+- C. Solo se encuentra en los recién nacidos de origen europeo
+- D. Es la enzima más abundante del páncreas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 861
+**Subtema:** digestión · lactasa
+
+Lactasa: con frecuencia ausente en los adultos, en especial en los de origen africano.
+
+---
+
+**Reactivos en este archivo:** 60
