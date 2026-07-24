@@ -18,7 +18,7 @@ _Regenerado el 2026-07-24._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 3936 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
+| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 3943 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -73,8 +73,8 @@ _Regenerado el 2026-07-24._
 | fisica-perez-montiel · Física · Unidad 5 · Dinámica | 94 | ninguno. La Unidad 5 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 6 · Materia y sus Propiedades | 49 | ninguno. La Unidad 6 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
 | fisica-perez-montiel · Física · Unidad 8 · Hidrostática | 45 | ninguno. La Unidad 8 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
-| fisica-perez-montiel · Física · Unidad 11 · Termología | 49 | ninguno de esta unidad. La Unidad 11 queda completa para la EMOS (`FG-03`) y, con el tema 6 añadido, también para la EMO (`FIS-03`). En cambio la materia Física **no** está cerrada para la EMO: su temario `FIS-03` aún pide temas sin escribir en la Unidad 4 (Cinemática: temas 2, 5, 6, 9, 10 y 11) y en la Unidad 5 (Dinámica: tema 3 Gravitación universal y tema 5 Estática). |
-| **Total** | **3936** | |
+| fisica-perez-montiel · Física · Unidad 11 · Termología | 56 | ninguno de esta unidad. La Unidad 11 queda completa para la EMOS (`FG-03`) y, con el tema 6 añadido, también para la EMO (`FIS-03`). En cambio la materia Física **no** está cerrada para la EMO: su temario `FIS-03` aún pide temas sin escribir en la Unidad 4 (Cinemática: temas 2, 5, 6, 9, 10 y 11) y en la Unidad 5 (Dinámica: tema 3 Gravitación universal y tema 5 Estática). |
+| **Total** | **3943** | |
 
 ## Personalidad (remaster)
 

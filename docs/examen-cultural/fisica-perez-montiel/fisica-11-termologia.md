@@ -1,13 +1,15 @@
 # Física · Unidad 11 · Termología
 
 **Materia:** `FG-03-2026` · Física General
-**Unidad del libro:** Unidad 11. Termología → **sólo los 6 temas** que pide el
-temario (1. Diferencia entre calor y temperatura · 2. Medida de la temperatura ·
+**Unidad del libro:** Unidad 11. Termología → **los 7 temas** que piden los
+temarios (1. Diferencia entre calor y temperatura · 2. Medida de la temperatura ·
 3. Diferentes escalas termométricas: Celsius, Kelvin y Fahrenheit · 5. Formas de
-propagación del calor · 7. Unidades para medir el calor · 12. Los gases y sus
-leyes). **NO entran** los temas 4 (Dilatación de los cuerpos), 6 (Energía solar),
-8 (Capacidad calorífica), 9 (Calor específico), 10 (Calor latente), 11 (Calor
-cedido y absorbido) ni 13 (Termodinámica), aunque caigan en las mismas páginas.
+propagación del calor · **6. Energía solar, su medida y transformación** · 7.
+Unidades para medir el calor · 12. Los gases y sus leyes). El tema **6 lo pide la
+EMO (`FIS-03`)**, no la EMOS (`FG-03`); los demás los piden ambas. **NO entran**
+los temas 4 (Dilatación de los cuerpos), 8 (Capacidad calorífica), 9 (Calor
+específico), 10 (Calor latente), 11 (Calor cedido y absorbido) ni 13
+(Termodinámica), aunque caigan en las mismas páginas.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Quién lo pide es cosa del temario: hoy estos temas
@@ -34,16 +36,17 @@ desfase se mantuvo constante en toda la unidad.
 
 ## Cobertura actual
 
-La Unidad 11 queda **COMPLETA** en lo que pide el temario: sus **seis temas**
+La Unidad 11 queda **COMPLETA** en lo que piden los temarios: sus **siete temas**
 (1 Diferencia entre calor y temperatura pp. 332–335; 2 Medida de la temperatura
 pp. 335–336; 3 Escalas Celsius, Kelvin y Fahrenheit pp. 336–337; 5 Formas de
-propagación del calor pp. 343–344; 7 Unidades para medir el calor p. 346; 12 Los
-gases y sus leyes pp. 354–359).
+propagación del calor pp. 343–344; **6 Energía solar, su medida y transformación
+p. 345**; 7 Unidades para medir el calor p. 346; 12 Los gases y sus leyes pp.
+354–359).
 
-Se saltó todo lo que el temario no pide aunque cayera en las mismas páginas: los
-temas 4 (Dilatación de los cuerpos, pp. 337–343), 6 (Energía solar, pp. 345–346),
-8 a 11 (Capacidad calorífica, Calor específico, Calor latente y Calor cedido y
-absorbido, pp. 346–353) y 13 (Termodinámica, p. 360 en adelante). También se
+Se saltó todo lo que los temarios no piden aunque cayera en las mismas páginas:
+los temas 4 (Dilatación de los cuerpos, pp. 337–343), 8 a 11 (Capacidad
+calorífica, Calor específico, Calor latente y Calor cedido y absorbido, pp.
+346–353) y 13 (Termodinámica, p. 360 en adelante). También se
 saltaron todos los "Ejercicios propuestos", los problemas resueltos de conversión
 de escalas y de las leyes de los gases, y las actividades experimentales.
 
@@ -55,12 +58,13 @@ de escalas y de las leyes de los gases, y las actividades experimentales.
 - **Sub-lote 6 · Los gases: generalidades y teoría cinética (p. 354)**
 - **Sub-lote 7 · Leyes de Boyle, Charles y Gay-Lussac (p. 355–357)**
 - **Sub-lote 8 · Ley general del estado gaseoso y constante universal (p. 358–359)**
+- **Sub-lote 9 · Energía solar, su medida y transformación (tema 6, p. 345)** — añadido para la EMO (`FIS-03`); va al final del archivo (orden de captura, no de página)
 
-**Pendiente:** ninguno de esta unidad. Con la Unidad 11 se cierra la materia
-Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: quedan
-cerradas las Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus
-Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y
-conceptos, saltando ejercicios y problemas resueltos.
+**Pendiente:** ninguno de esta unidad. La Unidad 11 queda completa para la EMOS
+(`FG-03`) y, con el tema 6 añadido, también para la EMO (`FIS-03`). En cambio la
+materia Física **no** está cerrada para la EMO: su temario `FIS-03` aún pide temas
+sin escribir en la Unidad 4 (Cinemática: temas 2, 5, 6, 9, 10 y 11) y en la Unidad
+5 (Dinámica: tema 3 Gravitación universal y tema 5 Estática).
 
 ## Cómo se escriben estos reactivos
 
@@ -845,4 +849,116 @@ De acuerdo con el libro de Física, un mol de cualquier gas ideal en condiciones
 
 ---
 
-**Reactivos en este archivo:** 49
+## Sub-lote 9 · Energía solar, su medida y transformación (tema 6, p. 345)
+
+> Este sub-lote se **añadió después** para la EMO (`FIS-03`), que sí pide el tema 6
+> (la EMOS no). Por eso va al final, fuera del orden de página del resto del archivo.
+
+### 50
+
+De acuerdo con el libro de Física, ¿cómo se genera la energía radiante del Sol?
+
+- A. Por reacciones termonucleares de fusión.
+- B. Por reacciones termonucleares de fisión.
+- C. Por reacciones químicas de combustión.
+- D. Por la conducción del calor de su núcleo a su superficie.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Subtema:** Física · Energía solar
+
+<La energía radiante del Sol se genera por reacciones termonucleares de fusión.>
+
+### 51
+
+De acuerdo con el libro de Física, ¿cómo se produce la fusión nuclear?
+
+- A. Debido a la unión de dos o más núcleos de átomos ligeros en un solo núcleo de mayor masa.
+- B. Debido a la división de un núcleo pesado en dos o más núcleos ligeros.
+- C. Debido al choque desordenado entre las moléculas de un cuerpo caliente.
+- D. Debido a la pérdida de electrones de los átomos de un cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Subtema:** Física · Energía solar
+
+<La fusión nuclear se produce debido a la unión de dos o más núcleos de átomos ligeros en un solo núcleo de mayor masa.>
+
+### 52
+
+De acuerdo con el libro de Física, cuando dos núcleos ligeros se unen para formar otro más pesado, ¿qué ocurre con la masa?
+
+- A. La masa del producto es menor que la suma de los primeros, y la diferencia de masa se ha convertido en energía.
+- B. La masa del producto es mayor que la suma de los primeros.
+- C. La masa del producto es igual a la suma de los primeros.
+- D. La masa desaparece por completo sin convertirse en nada.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Subtema:** Física · Energía solar
+
+<Siempre que dos núcleos ligeros se unen para formar otro más pesado, la masa del producto es menor que la suma de los primeros. La diferencia de masa, es decir, la parte de materia faltante, se ha convertido en energía.>
+
+### 53
+
+De acuerdo con el libro de Física, ¿cómo se define la intensidad de la radiación solar?
+
+- A. Como la potencia de la radiación recibida del Sol en un área de 1 m².
+- B. Como la cantidad de calor que recibe del Sol un gramo de agua en un minuto.
+- C. Como la energía total que emite el Sol en todas direcciones.
+- D. Como la temperatura que alcanza la superficie de la Tierra al mediodía.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Subtema:** Física · Energía solar
+
+<Así podemos definir la intensidad de la radiación solar como la potencia de la radiación recibida del Sol en un área de 1 m².>
+
+### 54
+
+De acuerdo con el libro de Física, aproximadamente, cada centímetro cuadrado de la superficie de la Tierra iluminado perpendicularmente por los rayos solares, ¿cuántas calorías por minuto recibe?
+
+- A. 14 calorías por minuto.
+- B. 7 calorías por minuto.
+- C. 28 calorías por minuto.
+- D. 140 calorías por minuto.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Subtema:** Física · Energía solar
+
+<Aproximadamente, cada centímetro cuadrado de la superficie de la Tierra que esté iluminado perpendicularmente por los rayos solares, recibe 14 calorías por minuto, equivalentes a 14 000 kilocalorías (14 kcal = 58.8 kJ) por minuto, en una superficie de 1 m².>
+
+### 55
+
+De acuerdo con el libro de Física, de la intensidad de la energía solar que recibe cada m² de la parte externa de la atmósfera (1.4 kW/m²), ¿cuánto llega a la superficie de la Tierra?
+
+- A. 0.98 kW/m², pues 0.42 kW los absorbe la atmósfera.
+- B. 1.4 kW/m², pues la atmósfera no absorbe nada.
+- C. 0.42 kW/m², pues 0.98 kW los absorbe la atmósfera.
+- D. 14 kW/m², pues la atmósfera concentra la radiación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Subtema:** Física · Energía solar
+
+<Cabe señalar que la intensidad de la energía solar que recibe cada m² de la parte externa de la atmósfera terrestre que esté iluminado perpendicularmente por los rayos solares, tienen un valor de 1.4 kW/m², pero sólo llegan a la superficie de la Tierra 0.98 kW/m², pues 0.42 kW los absorbe la atmósfera.>
+
+### 56
+
+De acuerdo con el libro de Física, ¿para qué se construyen destiladores solares?
+
+- A. Para obtener agua potable a partir del agua de los mares.
+- B. Para generar energía eléctrica a partir del viento.
+- C. Para medir la intensidad de la radiación solar.
+- D. Para almacenar el calor del Sol en baterías químicas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 345
+**Subtema:** Física · Energía solar
+
+<También se están construyendo destiladores solares para obtener agua potable a partir del agua de los mares.>
+
+---
+
+**Reactivos en este archivo:** 56
