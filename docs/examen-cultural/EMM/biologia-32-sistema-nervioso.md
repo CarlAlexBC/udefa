@@ -49,9 +49,13 @@ de los cnidarios (fig. 32-1). De la **página 758** se cubre la neurona (unidad
 morfofuncional que se comunica por señales eléctricas y químicas, las sinapsis, el
 soma, las dendritas, el axón y la información unidireccional) y las células de la
 glía (la vaina de mielina y sus funciones de sostén, nutrición, defensa y guía), más
-los ganglios del sistema nervioso periférico.
+los ganglios del sistema nervioso periférico. De la **página 759** se cubren las
+neuronas motoras (eferentes) y sensoriales (aferentes), las señales bioeléctricas y
+químicas (los transmisores nerviosos, la sinapsis, el flujo axoplásmico) y la
+división del sistema nervioso de los vertebrados en central (SNC: encéfalo y médula
+espinal) y periférico (SNP), con la función y las dimensiones de la médula espinal.
 
-**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 759 (hoja 805) en adelante (las neuronas sensoriales/motoras, la transmisión de señales, y la división en sistema nervioso central —SNC— y periférico —SNP—). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+**Pendiente:** el capítulo 32 está EN CURSO; sigue desde la página impresa 760 (hoja 806) en adelante (el encéfalo en detalle, las raíces dorsal/ventral de la médula, y el resto del sistema nervioso periférico). De la materia de Biología siguen sin empezar los capítulos 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -503,4 +507,132 @@ En los vertebrados, al igual que en los invertebrados, los cuerpos o somas de la
 
 ---
 
-**Reactivos en este archivo:** 28
+## Sub-lote 4 · Las señales y la división del sistema nervioso (figs. 32-3 y 32-4, p. 759)
+
+### 29
+
+De acuerdo con el libro de Biología, ¿en qué sentido llevan las señales las neuronas motoras y las sensoriales?
+
+- A. Las motoras son eferentes (llevan señales del centro hacia la periferia); las sensoriales son aferentes (de la periferia hacia el centro)
+- B. Las motoras son aferentes; las sensoriales, eferentes
+- C. Ambas llevan señales únicamente hacia el centro
+- D. Ambas llevan señales únicamente hacia la periferia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 759
+**Subtema:** sistema nervioso · tipos de neuronas
+
+Las neuronas motoras son eferentes, de modo que llevan señales desde el centro "hacia la periferia", mientras que las neuronas sensoriales son aferentes; es decir, que llevan señales desde la periferia "hacia el centro".
+
+> Par contrapuesto (reactivo 29): **motora = eferente** (del centro a la periferia) y
+> **sensorial = aferente** (de la periferia al centro). Truco: afErente = Entra al
+> centro; efErente = sale (Ejecuta) hacia la periferia.
+
+### 30
+
+De acuerdo con el libro de Biología, ¿cómo se producen las señales bioeléctricas de las neuronas?
+
+- A. Por el movimiento de iones a través de la membrana plasmática, que genera corrientes eléctricas
+- B. Por la liberación de transmisores químicos
+- C. Por la contracción de los músculos
+- D. Por el flujo de sangre a través de los capilares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 759
+**Subtema:** sistema nervioso · señales
+
+Las señales bioeléctricas son producidas por el movimiento de iones a través de la membrana plasmática de la neurona. Este movimiento genera corrientes eléctricas que pueden variar en el tiempo y transmitirse por la superficie de la neurona.
+
+### 31
+
+De acuerdo con el libro de Biología, como hay un espacio o brecha entre una neurona y otra, ¿qué se libera al llegar al final de la célula para constituir una señal química para la neurona receptora?
+
+- A. Moléculas denominadas transmisores nerviosos; así se realiza la sinapsis
+- B. Iones que generan corrientes eléctricas
+- C. Vainas de mielina
+- D. Células de la glía
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 759
+**Subtema:** sistema nervioso · señales
+
+Al llegar al final de la célula se liberan moléculas, denominadas transmisores nerviosos, que constituyen una señal química para la neurona receptora. De esta manera, se realiza la sinapsis.
+
+### 32
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el flujo por el cual se movilizan moléculas a lo largo del axón?
+
+- A. Flujo axoplásmico
+- B. Sinapsis química
+- C. Impulso sensorial
+- D. Corriente iónica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 759
+**Subtema:** sistema nervioso · la neurona
+
+Dentro de la neurona se produce un flujo por el cual se movilizan moléculas a lo largo del axón, denominado flujo axoplásmico.
+
+### 33
+
+De acuerdo con el libro de Biología, ¿cuáles son las dos regiones principales del sistema nervioso de los vertebrados, y por qué está formada cada una?
+
+- A. El sistema nervioso central (SNC), formado por el encéfalo y la médula espinal; y el periférico (SNP), formado por las vías sensitivas y motoras que se distribuyen por todo el cuerpo
+- B. El central, formado por las vías sensitivas; el periférico, por el encéfalo
+- C. Ambas formadas únicamente por la médula espinal
+- D. El central, formado por los ganglios; el periférico, por el cerebro
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 759
+**Subtema:** sistema nervioso · SNC y SNP
+
+En el sistema nervioso de los vertebrados se pueden reconocer dos regiones principales: el sistema nervioso central (SNC), formado por el encéfalo y la médula espinal, y el sistema nervioso periférico (SNP), formado por las vías sensitivas y motoras que se distribuyen por todo el cuerpo.
+
+### 34
+
+De acuerdo con el libro de Biología, ¿qué función cumple la médula espinal?
+
+- A. Actúa como enlace entre el encéfalo y el resto del cuerpo, transmitiendo información en ambos sentidos: a ella llegan nervios sensitivos y de ella parten nervios motores
+- B. Únicamente produce hormonas
+- C. Únicamente almacena calcio y fosfato
+- D. No transmite ninguna información
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 759
+**Subtema:** sistema nervioso · médula espinal
+
+La médula espinal actúa como un enlace entre el encéfalo y el resto del cuerpo, al transmitir información en ambos sentidos: hacia el encéfalo, ya que a ella llegan nervios sensitivos, y hacia los efectores del cuerpo, ya que de ella parten nervios motores.
+
+### 35
+
+De acuerdo con el libro de Biología, ¿qué importantes funciones controlan los circuitos nerviosos ubicados en la médula espinal?
+
+- A. La locomoción, el funcionamiento de esfínteres, ciertos reflejos y otras funciones
+- B. El lenguaje articulado y el pensamiento simbólico
+- C. La producción de todas las hormonas del cuerpo
+- D. La digestión y la absorción de los alimentos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 759
+**Subtema:** sistema nervioso · médula espinal
+
+En la médula espinal también se ubican los circuitos nerviosos que controlan importantes funciones, como la locomoción, el funcionamiento de esfínteres, ciertos reflejos y otras funciones.
+
+### 36
+
+De acuerdo con el libro de Biología, en los seres humanos, ¿cómo es la médula espinal?
+
+- A. Un cilindro delgado de unos 40 cm de largo, con un grosor aproximado al del dedo meñique
+- B. Una esfera del tamaño de una naranja
+- C. Un cilindro de unos 2 metros de largo
+- D. Una lámina plana del tamaño de la palma de la mano
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 759
+**Subtema:** sistema nervioso · médula espinal
+
+En los seres humanos, la médula espinal es un cilindro delgado de unos 40 cm de largo con un grosor aproximado al del dedo meñique.
+
+---
+
+**Reactivos en este archivo:** 36
