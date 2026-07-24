@@ -31,7 +31,11 @@ Donación de órganos", el título del capítulo y el epígrafe de Carl Sagan. *
 cuerpo empieza en la hoja 786** (página impresa 740), con la historia de la
 anatomía. El desfase +46 se verificó aquí (hoja 786 = p. 740), no se calculó.
 
-## Cobertura actual
+## Cobertura actual · CAPÍTULO 31 CERRADO
+
+**Capítulo cerrado en 84 reactivos** (decisión de Carlo, 23 jul 2026). Cubre el
+cuerpo del capítulo (pp. 740-751) más los ensayos 31-1 y 31-2. Lo que se dejó fuera
+a propósito está más abajo.
 
 Cubierta la página impresa **740**: la historia de la anatomía (Alcmeón de Crotona
 hacia el 520 a. C., el fin y la reanudación de la disección en el Renacimiento,
@@ -67,9 +71,23 @@ glía), la neurona (cuerpo celular, dendritas, axón, las fibras nerviosas, las
 sinapsis, las cuatro clases de neuronas y los nervios), los músculos antagónicos
 (fig. 31-12) y los órganos y sistemas de órganos (el estómago con sus cuatro
 tejidos, el nivel de los sistemas de órganos, y el principio de que las partes
-contribuyen al todo y el todo a las partes).
+contribuyen al todo y el todo a las partes). De la **página 747** se cubren las
+articulaciones (móviles, semimóviles e inmóviles) y las proteínas de la contracción
+(actina y miosina), y el **Ensayo 31-1** (la diversidad de los sistemas de sostén: la
+función del esqueleto y los tipos hidrostático, exoesqueleto y endoesqueleto). De las
+**páginas 750-751** se cubre la figura 31-13 con los once principales sistemas del
+cuerpo humano y, del **Ensayo 31-2** (medicina regenerativa), la regeneración de un
+miembro en el axolote y del hígado en los mamíferos.
 
-**Pendiente:** el capítulo 31 está EN CURSO; sigue desde la página impresa 750 (hoja 796) en adelante (lo que reste de los sistemas de órganos, fig. 31-13; el capítulo cierra en la p. 751, con el ensayo de cierre en la 752 y las situaciones problemáticas en la 753). Queda pendiente, además, el Cuadro 31-1 "Uniones entre células" (p. 743, cifrado como recuadro: hay que renderizarlo) y el Ensayo 31-1 "Diversidad de los sistemas de sostén". De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37. Este archivo —el capítulo en curso— sostiene el pendiente de la materia hasta que exista el `.md` del siguiente.
+Con esto, **el capítulo 31 queda cerrado**. Lo que se dejó fuera a propósito: el
+apartado social "Retomando la problemática inicial · Donación de órganos" (p. 752,
+discursivo, como el de apertura); las "Situaciones problemáticas" (p. 753, problemas
+de aplicación); y el detalle funcional del Cuadro 31-1 "Uniones entre células"
+(p. 743, viene cifrado como recuadro), aunque sus tres tipos —estrechas, de anclaje y
+comunicantes— sí están cubiertos (reactivo 26). El capítulo termina en la p. 753; la
+754 abre el capítulo 32.
+
+**Pendiente:** el capítulo 31 está cerrado en 84 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. De la materia de Biología siguen sin empezar los capítulos 32, 35, 36 y 37, y este archivo —el último capítulo escrito— sostiene ese pendiente de la materia hasta que exista el `.md` del siguiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
@@ -247,7 +265,7 @@ Los tejidos pueden unirse entre sí y formar órganos; esta unión no solo es es
 
 ### 11
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
 
 - A. Alrededor de 200 tipos de células, que se agrupan en solo cuatro tipos de tejidos
 - B. Cuatro tipos de células, agrupadas en 200 tejidos
@@ -909,7 +927,7 @@ El tejido óseo almacena calcio y fosfato que pueden pasar a la sangre, reguland
 
 ### 53
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos contiene el esqueleto de un adulto?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos contiene el esqueleto de un adulto?
 
 - A. 206 huesos
 - B. 300 huesos
@@ -924,7 +942,7 @@ El esqueleto de un adulto contiene 206 huesos.
 
 ### 54
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
 
 - A. 29 huesos, incluidos los 14 de la cara y los 6 huesecillos de los oídos
 - B. 14 huesos, todos de la cara
@@ -939,7 +957,7 @@ Veintinueve huesos pertenecen al cráneo, incluidos los 14 huesos de la cara y l
 
 ### 55
 
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos hay en cada mano y en cada pie?
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos hay en cada mano y en cada pie?
 
 - A. 27 huesos en cada mano y 26 en cada pie
 - B. 26 huesos en cada mano y 27 en cada pie
@@ -1271,4 +1289,151 @@ La estructura y los procesos reguladores de los organismos más complejos adopta
 
 ---
 
-**Reactivos en este archivo:** 75
+## Sub-lote 14 · Las articulaciones y las proteínas de la contracción (p. 747)
+
+### 76
+
+De acuerdo con el libro de Biología, las articulaciones (conexiones entre dos o más huesos) se diferencian según su grado de movilidad. ¿Cuáles son los tres tipos, con un ejemplo de cada uno?
+
+- A. Móviles (el codo o la rodilla), semimóviles (las vértebras de la región lumbar) e inmóviles (los huesos del cráneo)
+- B. Móviles (el cráneo), semimóviles (el codo) e inmóviles (la rodilla)
+- C. Solo móviles e inmóviles, sin un tipo intermedio
+- D. Todas las articulaciones son inmóviles
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 747
+**Subtema:** tejidos, órganos y sistemas · el esqueleto
+
+Las articulaciones son conexiones entre dos o más huesos y pueden diferenciarse según el grado de movilidad entre las partes que se unen: pueden ser móviles (p. ej., en el codo o la rodilla), semimóviles (p. ej., entre las vértebras de la región lumbar) e inmóviles (p. ej., los huesos del cráneo).
+
+### 77
+
+De acuerdo con el libro de Biología, ¿de la interacción de qué dos proteínas depende la contracción de las células musculares?
+
+- A. De la actina y la miosina
+- B. Del colágeno y la elastina
+- C. De la queratina y la melanina
+- D. De la fibrina y el fosfato de calcio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 747
+**Subtema:** tejidos, órganos y sistemas · tejido muscular
+
+La contracción de las células musculares depende de la interacción de dos proteínas: la actina y la miosina.
+
+---
+
+## Sub-lote 15 · Ensayo 31-1 · La diversidad de los sistemas de sostén (p. 747)
+
+### 78
+
+De acuerdo con el libro de Biología, según el ensayo 31-1, ¿qué funciones cumple el sistema de sostén que posee la gran mayoría de los animales?
+
+- A. Da forma al cuerpo, protege los órganos internos y provee una superficie de inserción a los músculos, lo cual permite el movimiento
+- B. Únicamente transporta oxígeno y nutrientes
+- C. Únicamente produce las hormonas del organismo
+- D. Únicamente reviste las cavidades del cuerpo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 747
+**Subtema:** tejidos, órganos y sistemas · sistemas de sostén
+
+La gran mayoría de los animales posee algún tipo de sistema de sostén que da forma al cuerpo, protege los órganos internos y provee una superficie de inserción a los músculos, lo cual permite el movimiento.
+
+### 79
+
+De acuerdo con el libro de Biología, según el ensayo 31-1, ¿qué tipo de esqueleto tienen los cnidarios (con su mesoglea gelatinosa) y las lombrices de tierra?
+
+- A. Un esqueleto hidrostático
+- B. Un exoesqueleto
+- C. Un endoesqueleto óseo
+- D. Un esqueleto de espículas inorgánicas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 747
+**Subtema:** tejidos, órganos y sistemas · sistemas de sostén
+
+El material gelatinoso (mesoglea) de los cnidarios forma parte de un tipo de tejido denominado esqueleto hidrostático, que permite un cierto tipo de movimiento y sostén. Las lombrices de tierra también tienen un líquido que cumple esta función.
+
+### 80
+
+De acuerdo con el libro de Biología, según el ensayo 31-1, ¿en qué grupos se encuentra el exoesqueleto, que además de proveer sostén protege al organismo del medio externo?
+
+- A. En algunos grupos de moluscos y en los artrópodos
+- B. En los vertebrados y los equinodermos
+- C. En los cnidarios y las lombrices de tierra
+- D. En las esponjas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 747
+**Subtema:** tejidos, órganos y sistemas · sistemas de sostén
+
+El exoesqueleto, que además de proveer sostén protege al organismo del medio externo, se encuentra en algunos grupos de moluscos y en los artrópodos.
+
+### 81
+
+De acuerdo con el libro de Biología, según el ensayo 31-1, ¿qué animales se caracterizan por la presencia de un endoesqueleto?
+
+- A. Los equinodermos y los vertebrados
+- B. Los moluscos y los artrópodos
+- C. Los cnidarios y las lombrices de tierra
+- D. Únicamente las esponjas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 747
+**Subtema:** tejidos, órganos y sistemas · sistemas de sostén
+
+Otros animales, como los equinodermos y los vertebrados, se caracterizan por la presencia de un endoesqueleto.
+
+---
+
+## Sub-lote 16 · Los sistemas del cuerpo humano y la regeneración (fig. 31-13 y ensayo 31-2, pp. 750-751)
+
+### 82
+
+De acuerdo con el libro de Biología, según la figura 31-13, ¿cuáles son los principales sistemas del cuerpo humano?
+
+- A. El tegumentario, el muscular, el óseo, el digestivo, el excretor, el respiratorio, el genital, el circulatorio, el endocrino, el linfático y el nervioso
+- B. El epitelial, el conjuntivo, el muscular y el nervioso
+- C. Solamente el digestivo y el circulatorio
+- D. El hidrostático, el exoesqueleto y el endoesqueleto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 751
+**Subtema:** tejidos, órganos y sistemas · sistemas del cuerpo
+
+Los principales sistemas del cuerpo humano son el sistema tegumentario, el muscular, el óseo, el digestivo, el excretor, el respiratorio, el genital, el circulatorio, el endocrino, el linfático y el nervioso.
+
+### 83
+
+De acuerdo con el libro de Biología, según el ensayo 31-2, ¿qué capacidad tiene el axolote, una salamandra?
+
+- A. Regenerar por completo un miembro luego de su amputación
+- B. Cambiar de sexo a voluntad
+- C. Vivir sin sistema nervioso
+- D. Producir su propio exoesqueleto de quitina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 750
+**Subtema:** tejidos, órganos y sistemas · regeneración
+
+El axolote es una salamandra que tiene la capacidad de regenerar por completo un miembro, luego de su amputación.
+
+### 84
+
+De acuerdo con el libro de Biología, según el ensayo 31-2, ¿qué tejido pueden regenerar los mamíferos, aun luego de grandes resecciones?
+
+- A. El hígado
+- B. El cerebro
+- C. El corazón
+- D. Los huesos del cráneo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 750
+**Subtema:** tejidos, órganos y sistemas · regeneración
+
+Los mamíferos poseen la capacidad de regenerar algunos tejidos, como el hígado, aun luego de grandes resecciones.
+
+---
+
+**Reactivos en este archivo:** 84
