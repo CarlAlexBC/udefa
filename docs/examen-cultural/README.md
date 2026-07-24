@@ -244,6 +244,19 @@ generando `ESTADO.md` desde el propio importador.
 
 **Decisión de Carlo del 21 jul 2026: el importador baraja las opciones.**
 
+**Ampliación de Carlo del 24 jul 2026: además de barajar al importar, hay que
+barajar POR INTENTO.** El orden de las opciones debe cambiar en cada intento del
+examen —no un orden fijo por reactivo— para que nadie memorice la respuesta por su
+inciso. Es seguro y barato porque la calificación ya compara por TEXTO, no por
+letra (`apps/backend/src/intentos/intentos.service.ts`, método `responder`). Forma:
+guardar las cuatro opciones y cuál es la correcta por su contenido; barajar al
+SERVIR cada intento con semilla estable por intento (p. ej. `intentoId`+`reactivoId`),
+así el orden queda estable dentro de un intento pero distinto entre intentos. Debe
+entrar JUNTO con el importador/modelo de la base, no programarse en paralelo (hoy hay
+trabajo sin commitear del otro chat en `apps/backend`). Respaldo: el Anexo H reparte
+la correcta en sus diez ejemplos (A×3, B×3, C×4, D×0), así que barajar replica el
+examen real, no lo inventa.
+
 Con eso se cierra la vieja discusión de la clave de respuestas. Daba igual que
 Historia, Español y Álgebra escribieran siempre la correcta como A y que
 Geografía la repartiera entre A, B y C: **el orden del `.md` deja de importar en
