@@ -18,7 +18,7 @@ _Regenerado el 2026-07-25._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 4915 | abiertas: EMM · Biología, algebra-baldor · Álgebra, fisica-perez-montiel · Física |
+| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 5012 | abiertas: EMM · Biología, algebra-baldor · Álgebra, fisica-perez-montiel · Física |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -58,6 +58,7 @@ _Regenerado el 2026-07-25._
 | HCM · Geografía · Capítulo 3 · Unidades orogénicas | 43 | ninguno. El alcance del capítulo 3 está cerrado. |
 | HCM · Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
 | HCM · Geografía · Capítulo 5 · Islas | 42 | ninguno. El capítulo 5 está cerrado. |
+| HCM · Geografía · Capítulo 7 · Climatología | 97 | ninguno. El capítulo 7 está cerrado: cubierto en toda su prosa (pp. 120–167) con 97 reactivos; la p.168 ya es el arranque del capítulo 8, Hidrología, que queda fuera. Ya se corrió el importador de oferta en dry-run (árbol y validaciones OK). Además, la materia Geografía **no está cerrada para la EMA**: falta completar el capítulo 3 (Regiones geomorfológicas) y escribir el capítulo 23 (Geografía Política y Administrativa) entero. |
 | HCM · Historia · Capítulo 6 · El mundo contemporáneo | 600 | ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que pide el temario del HCM están completos, de la página 205 a la 279. |
 | algebra-baldor · Álgebra · Preliminares | 186 | ninguno. Preliminares (pp. 5–39) está cerrado. Lo que falta de Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** — hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta. |
 | algebra-baldor · Álgebra · Capítulo I · Suma | 19 | ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`. |
@@ -80,7 +81,7 @@ _Regenerado el 2026-07-25._
 | fisica-perez-montiel · Física · Unidad 6 · Materia y sus Propiedades | 49 | ninguno. La Unidad 6 queda cerrada para la EMO (temas 1, 2), la EMM y la EMMA (temas 1, 2, 3). |
 | fisica-perez-montiel · Física · Unidad 8 · Hidrostática | 45 | ninguno de contenido. La Unidad 8 queda cerrada para la EMO (temas 1, 2, 3), la EMOS (1, 3), la EMA (2, 3, 4, 5) y la EMMA (1, 2, 3, 4). Queda una decisión de Carlo sobre las "Generalidades" (ver el aviso del encabezado). |
 | fisica-perez-montiel · Física · Unidad 11 · Termología | 56 | _no declarado_ |
-| **Total** | **4915** | |
+| **Total** | **5012** | |
 
 > 1 archivo(s) no declaran pendiente en su encabezado, así que este resumen **no puede afirmar que estén cerrados**. Para que aparezcan como
 > terminados, agrégales una línea `**Pendiente:**` que lo diga.

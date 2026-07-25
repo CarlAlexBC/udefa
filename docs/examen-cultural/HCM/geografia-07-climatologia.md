@@ -64,13 +64,12 @@ y **EB con su descripción completa** (tundra ET, hielos perpetuos por altitud).
 > tropicales, depresiones polares, alisios y contralisios. No eran rótulos de mapa;
 > son texto capturable, ya escrito en los reactivos 94–97.
 
-**Cerrado.** El capítulo 7 quedó cubierto en toda su prosa (pp. 120–167) con 97
-reactivos; la p.168 ya es el arranque del capítulo 8, Hidrología, que queda fuera.
-Al importar: correr el importador de oferta
-(`apps/backend/scripts/importar-cultural-oferta.ts`) y regenerar `ESTADO.md`.
-Además, la materia Geografía **no está cerrada para la EMA**: falta completar el
-capítulo 3 (Regiones geomorfológicas) y escribir el capítulo 23 (Geografía Política
-y Administrativa) entero.
+**Pendiente:** ninguno. El capítulo 7 está cerrado: cubierto en toda su prosa
+(pp. 120–167) con 97 reactivos; la p.168 ya es el arranque del capítulo 8,
+Hidrología, que queda fuera. Ya se corrió el importador de oferta en dry-run (árbol
+y validaciones OK). Además, la materia Geografía **no está cerrada para la EMA**:
+falta completar el capítulo 3 (Regiones geomorfológicas) y escribir el capítulo 23
+(Geografía Política y Administrativa) entero.
 
 ---
 
