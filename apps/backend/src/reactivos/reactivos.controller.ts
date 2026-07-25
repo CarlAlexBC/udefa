@@ -2,6 +2,7 @@ import {
   Controller,
   Post,
   Get,
+  Patch,
   Delete,
   Body,
   Param,
@@ -76,6 +77,22 @@ export class ReactivosController {
       polaridad,
       search: search || undefined,
     });
+  }
+
+  @Patch(':id')
+  actualizar(
+    @Param('id') id: string,
+    @Body()
+    datos: {
+      enunciado?: string;
+      opciones?: any;
+      respuestaCorrecta?: string | null;
+      explicacion?: string | null;
+      tema?: string | null;
+      referencia?: string | null;
+    },
+  ) {
+    return this.reactivosService.actualizar(Number(id), datos);
   }
 
   @Delete(':id')

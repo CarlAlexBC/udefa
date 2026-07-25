@@ -29,6 +29,39 @@ export class ReactivosService {
     });
   }
 
+  /**
+   * Edita un reactivo existente. Solo toca los campos que llegan definidos:
+   * Prisma ignora las claves `undefined`, así que un PATCH parcial no borra
+   * lo que no se envía.
+   */
+  async actualizar(
+    id: number,
+    datos: {
+      enunciado?: string;
+      opciones?: any;
+      respuestaCorrecta?: string | null;
+      explicacion?: string | null;
+      tema?: string | null;
+      referencia?: string | null;
+    },
+  ) {
+    return this.prisma.reactivo.update({
+      where: { id },
+      data: datos,
+      // Mismo shape que obtenerTodos, para que el frontend refresque la fila
+      // completa (incluida la fase) sin un fetch extra.
+      include: {
+        bloque: {
+          select: {
+            id: true,
+            nombre: true,
+            examen: { select: { id: true, tipo: true } },
+          },
+        },
+      },
+    });
+  }
+
   async obtenerTodos(opciones: {
     take?: number;
     skip?: number;
