@@ -68,8 +68,10 @@ nunca de la discusión social sobre regulación de agroquímicos.
 | p. 296, pie de la fig. 14-2 | "el resultado del experimento de **Diesch**" | **Driesch** — el propio pie lo escribe bien dos renglones antes ("Experimento de Driesch con huevos de erizos de mar"). Verificado con `crop.py` a 500 dpi para descartar suciedad del escaneo. |
 | p. 295, columna izquierda | "los procesos involucrados en la ejecución **de del** desarrollo embrionario" | "de**l** desarrollo embrionario" — sobra una palabra. |
 | p. 299, columna derecha | "en este escenario el **genotipó** adquiere un valor condicionado" | **genotipo** — acento de más. |
+| p. 301, ensayo 14-1 | "la mirada del filósofo y matemático **sueco** René Descartes (1598-1650)" | **francés**. No es errata de escritura sino de dato: Descartes nació en Francia; murió en Estocolmo, que es probablemente el origen de la confusión. Verificado con `crop.py` a 600 dpi. |
 
-**No se escriben reactivos sobre estos tres puntos.**
+**No se escriben reactivos sobre estos cuatro puntos.** El de Descartes es el más
+delicado: un aspirante que lo memorice se lleva un dato falso a la cabeza.
 
 ## Cobertura actual
 
@@ -116,7 +118,38 @@ y resaltados; los "escritores", "borradores" y "lectores" epigenéticos; y dónd
 procesos epigenéticos (núcleo, ambiente citoplasmático y a distancia por comunicaciones
 intercelulares).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **301** (hoja 347) en adelante —el ensayo 14-1 sobre las metáforas en la biología, las principales modificaciones epigenéticas (metilación del ADN, modificaciones de las histonas, ARN pequeños no codificantes), la herencia epigenética transgeneracional, los gemelos y los ratones *agouti*, y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Además del 14 quedan por escribir el capítulo **15** (`biologia-15-bases-moleculares-desarrollo.md`, en curso en esta misma sesión), el capítulo **33** (`biologia-33-percepcion-sensorial.md`, en curso en esta misma sesión) y el capítulo **37** (`biologia-37-digestion.md`, que lleva otra sesión). Biología NO está cerrada.
+Cubiertas las páginas impresas **301 a 303** (ensayo 14-1, "El papel de las metáforas en la
+biología, la genética y la epigenética"): para qué hacen falta las metáforas, su capacidad
+de organizar los conceptos, Dorothy Nelkin, la metáfora bélica y por qué fortalece a su
+"enemigo", las metáforas biológicas (máquina, lenguaje y texto) con la debilidad del
+mecanicismo, el dogma central de Crick de 1958 y por qué el ADN "no fabrica nada", las
+bibliotecas o librerías genómicas, Evelyn Fox Keller, el genoma como partitura, el plano
+(*blueprint*), el *switch* de Julian Huxley con su submetáfora del reóstato, las epimarcas,
+el determinismo ambiental y la figura de la madre, y la reflexión final con la cita de
+Borges. **La primera página del ensayo (301) tiene la capa de texto en lorem ipsum y se leyó
+con `render.py`**, no con `extraer.py`.
+
+Cubierta la página impresa **303** (cuerpo): las modificaciones "escritoras", "lectoras" y
+"borradoras"; el criterio con el que el capítulo las organiza; el arranque de la metilación
+del ADN (el grupo metilo, sus cuatro átomos, las cadenas de ARN de 19 bases); los distintos
+"patrones de resaltado" de la célula hepática y la nerviosa; las marcas que cambian durante
+el desarrollo embrionario; y la herencia epigenética.
+
+Cubierta la página impresa **304**: la ADN metil transferasa como proteína "escritora" y el
+efecto de la metilación sobre la tasa de expresión; las reglas de la metilación (citosinas
+adyacentes a guanina, el dinucleótido CpG y qué representa su "p", la abundancia de 1/5 del
+valor esperado, las islas CpG y su ubicación); las proteínas "decodificadoras"; el paso de
+la cromatina de laxo a compacto; la metilación como supresor en la metáfora del texto; la
+condición del silenciamiento transcripcional; la DNMT1; y las figs. 14-7 y 14-8.
+
+Cubierta la página impresa **305**: por qué es crucial copiar el patrón de metilación; la
+metilación como el ejemplo mejor conocido de herencia por mitosis; el efecto inverso de la
+metilación fuera de las regiones promotoras; las proteínas de unión a Metil CpG (sus tres
+familias y su papel en la reparación del ADN); la demetilación del ADN como proceso
+"borrador"; la fig. 14-9; y el recuadro 14-1 completo (Rudolf Jaenisch, los ratones sin ADN
+metiltransferasa y las células cancerosas).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **306** (hoja 352) en adelante —las modificaciones de las histonas, el silenciamiento por ARN pequeños no codificantes, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Además del 14 quedan por escribir el capítulo **15** (`biologia-15-bases-moleculares-desarrollo.md`, en curso en esta misma sesión), el capítulo **33** (`biologia-33-percepcion-sensorial.md`, en curso en esta misma sesión) y el capítulo **37** (`biologia-37-digestion.md`, que lleva otra sesión). Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -1494,5 +1527,1343 @@ En relación con el libro de Biología, ¿qué otros procesos califican como fen
 **Subtema:** epigenética · fenómenos tratados en otros capítulos
 
 Algunos de ellos son la regulación génica mediada por factores de transcripción (basales, específicos); los procesos silenciadores y potenciadores de la expresión génica; el corte y empalme del ARNm y su regulación; la regulación de la traducción y la localización de las proteínas y sus modificaciones postraduccionales, como la fosforilación y desfosforilación; la organización cuaternaria de las proteínas, así como su degradación o inactivación.
+
+---
+
+### 79
+
+De acuerdo con el libro de Biología, ¿por qué es necesario representar un nuevo conocimiento en términos que aludan al conocimiento previamente establecido?
+
+- A. Porque sin esa representación se hacen difíciles la comprensión, la conceptualización y la comunicación
+- B. Porque sin esa representación el conocimiento no puede ser publicado en revistas científicas
+- C. Porque sin esa representación el experimento no puede repetirse en el laboratorio
+- D. Porque sin esa representación no puede calcularse el margen de error del resultado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 301
+**Subtema:** epigenética · ensayo 14-1, para qué sirven las metáforas
+
+Toda vez que la ciencia construye un nuevo conocimiento (relativo a un objeto, a un hecho o a un proceso), es necesario representarlo en términos que aludan al conocimiento previamente establecido. Sin esa representación –que, en muchos casos, adopta la forma de una metáfora– se hacen difíciles la comprensión, la conceptualización y la comunicación.
+
+---
+
+### 80
+
+De conformidad con el libro de Biología, ¿qué capacidad tienen las metáforas respecto de los conceptos?
+
+- A. La capacidad de organizar los conceptos, a la vez cognitiva y emocionalmente
+- B. La capacidad de demostrar los conceptos por vía experimental
+- C. La capacidad de traducir los conceptos a un lenguaje matemático exacto
+- D. La capacidad de eliminar toda ambigüedad de los conceptos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 301
+**Subtema:** epigenética · ensayo 14-1, capacidad de las metáforas
+
+Las metáforas tienen la capacidad de organizar los conceptos, a la vez cognitiva y emocionalmente.
+
+---
+
+### 81
+
+En relación con el libro de Biología, ¿qué ha planteado Dorothy Nelkin (1933-2003), socióloga de la ciencia estadounidense, sobre las metáforas?
+
+- A. Que son un vehículo importante y prevalente de la comunicación pública
+- B. Que son un obstáculo insalvable para la comunicación pública
+- C. Que sólo tienen valor dentro del laboratorio y no fuera de él
+- D. Que deben ser sustituidas por definiciones matemáticas exactas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 301
+**Subtema:** epigenética · ensayo 14-1, Dorothy Nelkin
+
+Dorothy Nelkin (1933-2003), socióloga de la ciencia estadounidense, ha planteado que las metáforas son un vehículo importante y prevalente de la comunicación pública, enfatizando que son especialmente importantes para transmitir y divulgar la información científica.
+
+---
+
+### 82
+
+De acuerdo con el libro de Biología, ¿por qué las metáforas son algo más que una ayuda explicativa?
+
+- A. Porque su repetición y su naturalización moldean nuestra comprensión de los hechos, ya que afectan el modo en el que percibimos, pensamos y actuamos
+- B. Porque permiten calcular con precisión el resultado de un experimento
+- C. Porque sustituyen por completo a la evidencia experimental
+- D. Porque son el único medio válido de publicación científica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 301
+**Subtema:** epigenética · ensayo 14-1, el peso de las metáforas
+
+Pero las metáforas son algo más que una ayuda explicativa: su repetición y su naturalización moldean nuestra comprensión de los hechos, ya que afectan el modo en el que percibimos, pensamos y actuamos.
+
+---
+
+### 83
+
+De conformidad con el libro de Biología, ¿qué metáfora de uso frecuente califica el texto como "bastante penosa"?
+
+- A. La de la guerra o el enfrentamiento bélico en general
+- B. La del genoma como partitura musical
+- C. La del plano o cianotipo (*blueprint*)
+- D. La del interruptor o *switch*
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 301
+**Subtema:** epigenética · ensayo 14-1, la metáfora bélica
+
+Una metáfora bastante penosa, de uso frecuente, es la de la guerra o el enfrentamiento bélico en general. Es común leer o escuchar (incluso a gestores de los planes gubernamentales) acerca de "la guerra contra el cáncer", "la lucha contra las malezas" o "el combate a los microbios".
+
+---
+
+### 84
+
+En relación con el libro de Biología, ¿cómo terminan las estrategias bélicas contra el "enemigo" biológico, según se explica en el ensayo 14-1?
+
+- A. No terminan en un triunfo completo, sino que, por el contrario, suelen terminar fortaleciéndolo
+- B. Terminan en un triunfo completo y en la derrota definitiva del "enemigo"
+- C. Terminan sin ningún efecto observable sobre el "enemigo"
+- D. Terminan siempre en la extinción de la especie combatida
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 301
+**Subtema:** epigenética · ensayo 14-1, resultado de las estrategias bélicas
+
+Es sabido que estas estrategias bélicas nunca terminan en un triunfo completo (o la derrota del "enemigo"), sino que, por el contrario, suelen terminar fortaleciéndolo, como ha sucedido con la aparición de malezas resistentes a los herbicidas o la actual proliferación de bacterias resistentes a todos los antibióticos conocidos.
+
+---
+
+### 85
+
+De acuerdo con el libro de Biología, ¿por qué los seres vivos son difíciles de modelizar de manera abstracta?
+
+- A. Porque son genuinamente muy complejos
+- B. Porque son demasiado pequeños para ser observados
+- C. Porque su número de especies es desconocido
+- D. Porque su comportamiento es enteramente azaroso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 301
+**Subtema:** epigenética · ensayo 14-1, metáforas biológicas
+
+Los seres vivos son difíciles de modelizar de manera abstracta, ya que son genuinamente muy complejos.
+
+---
+
+### 86
+
+De conformidad con el libro de Biología, ¿cómo operan las unidades de la herencia o "genes" y sus productos?
+
+- A. En redes regulatorias muy sofisticadas; interactúan y se solapan entre sí de modos muy diversos, que en gran parte desconocemos
+- B. De manera aislada e independiente unos de otros, con efectos plenamente conocidos
+- C. En cadenas lineales que se ejecutan siempre en el mismo orden
+- D. Únicamente durante la división celular, y permanecen inactivos el resto del tiempo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 301
+**Subtema:** epigenética · ensayo 14-1, redes regulatorias
+
+En particular, las unidades de la herencia o "genes" y sus productos operan en redes regulatorias muy sofisticadas; interactúan y se solapan entre sí de modos muy diversos, que en gran parte desconocemos.
+
+---
+
+### 87
+
+En relación con el libro de Biología, ¿cuál es la debilidad principal de las metáforas mecanicistas, además de su extremo reduccionismo?
+
+- A. Que no tienen en cuenta a la historia de la célula
+- B. Que no permiten describir la estructura de las proteínas
+- C. Que resultan demasiado complejas para el público general
+- D. Que sólo pueden aplicarse a los organismos unicelulares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 301
+**Subtema:** epigenética · ensayo 14-1, debilidad de las metáforas mecanicistas
+
+La debilidad principal de estas metáforas mecanicistas, además de su extremo reduccionismo, es que no tienen en cuenta a la historia de la célula, ya que un organismo vivo no es el resultado de un proceso de "fabricación" que responde a un diseño o propósito, sino que proviene de una larga serie de generaciones anteriores que hacen posible su existencia.
+
+---
+
+### 88
+
+De acuerdo con el libro de Biología, ¿con qué términos se sigue describiendo a la célula en algunos libros de texto, como ejemplo ilustrativo de las metáforas de la máquina?
+
+- A. Como la maquinaria vital, fábrica química o computadora
+- B. Como una partitura, una sinfonía o una pieza de música
+- C. Como un texto, un libro o una enciclopedia
+- D. Como un plano, un cianotipo o una receta
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 301
+**Subtema:** epigenética · ensayo 14-1, la célula como máquina
+
+Un ejemplo ilustrativo es el de la célula, que aún se describe en algunos libros de texto como la maquinaria vital, fábrica química o computadora.
+
+> Los tres distractores son metáforas reales del mismo ensayo, pero de las categorías
+> de música, texto y plano, no de la máquina.
+
+---
+
+### 89
+
+De conformidad con el libro de Biología, ¿cuándo y en torno a qué escuela se desarrollaron las metáforas de lenguaje?
+
+- A. A principios del siglo xx, alrededor de la escuela embriológica alemana
+- B. A mediados del siglo xx, alrededor de la escuela de biología molecular estadounidense
+- C. A principios del siglo xix, alrededor de la escuela evolucionista inglesa
+- D. A fines del siglo xx, alrededor de la escuela de la biotecnología moderna
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 301
+**Subtema:** epigenética · ensayo 14-1, metáforas de lenguaje
+
+Metáforas de lenguaje. Se desarrollaron a principios del siglo xx, alrededor de la escuela embriológica alemana.
+
+---
+
+### 90
+
+En relación con el libro de Biología, ¿en qué décadas fueron centrales las metáforas de lenguaje para el desarrollo de la biología molecular?
+
+- A. En las décadas de 1950 y 1960
+- B. En las décadas de 1930 y 1940
+- C. En las décadas de 1970 y 1980
+- D. En las décadas de 1990 y 2000
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, las metáforas en la biología molecular
+
+Estos tipos de metáforas fueron centrales en el desarrollo de la biología molecular, en las décadas de 1950 y 1960, y más tarde se adaptaron al desarrollo de la biotecnología moderna, basada en el ADN recombinante.
+
+---
+
+### 91
+
+De acuerdo con el libro de Biología, ¿de dónde proviene el error conceptual de llamar "librerías" genómicas a las bibliotecas genómicas?
+
+- A. De una mala traducción literal de *library*, su término en inglés
+- B. De una mala traducción literal de *bookmark*, su término en inglés
+- C. De una mala traducción literal de *blueprint*, su término en inglés
+- D. De una mala traducción literal de *hardware*, su término en inglés
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, bibliotecas o librerías genómicas
+
+Encontramos, entonces, a las bibliotecas o librerías (genómicas), esta última constituye un error conceptual proveniente de una mala traducción literal de *library*, su término en inglés.
+
+---
+
+### 92
+
+De conformidad con el libro de Biología, ¿en qué secuencia lineal se plasma el dogma central de la biología molecular, tal como fue propuesto por Francis Crick en 1958?
+
+- A. ADN → ARN → Proteína
+- B. ARN → ADN → Proteína
+- C. Proteína → ARN → ADN
+- D. ADN → Proteína → ARN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, el dogma central
+
+El dogma central de la biología molecular (como fue propuesto por Francis Crick en 1958) se plasma en una secuencia lineal que se representa como: ADN → ARN → Proteína.
+
+---
+
+### 93
+
+En relación con el libro de Biología, ¿cómo se describiría el dogma central a través de las metáforas del lenguaje?
+
+- A. "El ADN se replica y se transcribe a ARN que se traduce a proteína"
+- B. "El ADN fabrica ARN que fabrica proteína"
+- C. "El ADN resalta el ARN que resalta la proteína"
+- D. "El ADN ejecuta el ARN que ejecuta la proteína"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, el dogma en metáforas de lenguaje
+
+Este proceso descrito a través de las metáforas del lenguaje se describiría como: "El ADN se replica y se transcribe a ARN que se traduce a proteína".
+
+> El distractor B es la misma frase vista a través de la metáfora de la máquina, que
+> el libro califica de "grueso error" en el renglón siguiente.
+
+---
+
+### 94
+
+De acuerdo con el libro de Biología, ¿por qué constituye un grueso error decir que "el ADN fabrica ARN que fabrica proteína"?
+
+- A. Porque el ADN no fabrica nada, sino que es la célula como un todo, en todo caso, el ámbito en el que ocurren estas transformaciones
+- B. Porque el ARN no participa en la síntesis de las proteínas
+- C. Porque el proceso ocurre en sentido inverso, de la proteína hacia el ADN
+- D. Porque el ADN sólo fabrica proteínas y nunca ARN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, por qué el ADN no "fabrica"
+
+Esto constituye un grueso error, ya que el ADN no fabrica nada, sino que es la célula como un todo, en todo caso, el ámbito en el que ocurren estas transformaciones.
+
+---
+
+### 95
+
+De conformidad con el libro de Biología, ¿por qué las metáforas de texto son las más comunes?
+
+- A. Por lo fácil de su comprensión
+- B. Por su exactitud matemática
+- C. Por su antigüedad histórica
+- D. Por su respaldo experimental
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, metáforas de texto
+
+Las metáforas de texto son las más comunes, por lo fácil de su comprensión.
+
+---
+
+### 96
+
+En relación con el libro de Biología, en las metáforas de texto, ¿a qué se comparan las bases nitrogenadas, los codones y aminoácidos, y los genes?
+
+- A. Las bases nitrogenadas a letras; los codones y aminoácidos a palabras; y los genes a oraciones
+- B. Las bases nitrogenadas a palabras; los codones y aminoácidos a letras; y los genes a oraciones
+- C. Las bases nitrogenadas a oraciones; los codones y aminoácidos a palabras; y los genes a letras
+- D. Las bases nitrogenadas a letras; los codones y aminoácidos a oraciones; y los genes a palabras
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, letras, palabras y oraciones
+
+Es frecuente encontrar en los libros de texto y en los medios de comunicación a las bases nitrogenadas que componen el ADN como letras; a los codones y aminoácidos como palabras; y a los genes (y proteínas) como oraciones.
+
+> Los tres distractores permutan los mismos tres términos. Es el tipo de detalle que
+> distingue a quien leyó del que hojeó.
+
+---
+
+### 97
+
+De acuerdo con el libro de Biología, ¿qué metáfora cuestiona Evelyn Fox Keller, física especialista en historia y filosofía de la ciencia?
+
+- A. La metáfora de la codificación de la información, que fue central en los inicios de la biología molecular
+- B. La metáfora de la guerra contra el cáncer
+- C. La metáfora del genoma como partitura musical
+- D. La metáfora del paisaje epigenético de Waddington
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, Evelyn Fox Keller
+
+Otros autores relevantes, como Evelyn Fox Keller, física especialista en historia y filosofía de la ciencia, cuestionan la metáfora de la codificación de la información, que fue central en los inicios de la biología molecular.
+
+---
+
+### 98
+
+De conformidad con el libro de Biología, ¿qué riesgo tienen las metáforas, aunque contribuyan a hacer accesible el conocimiento?
+
+- A. Que en muchos casos simplifican excesivamente y, en ocasiones, distorsionan la comprensión de procesos vitales y complejos
+- B. Que impiden por completo la divulgación científica al público general
+- C. Que sólo pueden ser comprendidas por especialistas del área
+- D. Que invalidan los resultados experimentales que describen
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, riesgo de las metáforas
+
+Aunque se ha planteado que este tipo de metáforas contribuyen a hacer accesible el conocimiento, no debe perderse de vista que, en muchos casos, simplifican excesivamente y, en ocasiones, distorsionan la comprensión de procesos vitales y complejos.
+
+---
+
+### 99
+
+En relación con el libro de Biología, ¿qué metáfora refleja una mirada diferente y más compleja del genoma y del organismo?
+
+- A. La que presenta al genoma como una partitura y al organismo como una sinfonía o pieza de música
+- B. La que presenta al genoma como una máquina y al organismo como su producto fabricado
+- C. La que presenta al genoma como un ejército y al organismo como su campo de batalla
+- D. La que presenta al genoma como una biblioteca y al organismo como su lector
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, el genoma como partitura
+
+Una metáfora que refleja una mirada diferente y más compleja es la que presenta al genoma como una partitura y al organismo como una sinfonía o pieza de música.
+
+---
+
+### 100
+
+De acuerdo con el libro de Biología, en la metáfora de la partitura, ¿qué cambia y qué no cambia en las diversas interpretaciones de la sinfonía?
+
+- A. La partitura no cambia, pero sí su ejecución, lo cual produce un resultado final distinto cada vez que se ejecuta
+- B. La partitura cambia, pero su ejecución permanece siempre igual
+- C. Ni la partitura ni su ejecución cambian, y el resultado es siempre idéntico
+- D. Tanto la partitura como su ejecución cambian en cada interpretación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, partitura y ejecución
+
+Siguiendo esta representación, en diversas interpretaciones de la sinfonía la partitura no cambia, pero sí su ejecución, lo cual produce un resultado final distinto cada vez que se ejecuta.
+
+---
+
+### 101
+
+De conformidad con el libro de Biología, ¿cuál es una de las metáforas más utilizadas, con cientos de referencias en estudios científicos?
+
+- A. La metáfora del plano (cianotipo, *blueprint*)
+- B. La metáfora del reóstato o regulador de intensidad
+- C. La metáfora del conmutador ferroviario
+- D. La metáfora del formateado del texto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, la metáfora del plano
+
+La metáfora del plano (cianotipo, *blueprint*) es una de las más utilizadas, con cientos de referencias en estudios científicos, así como la metáfora de la receta, que apareció un poco antes en el tiempo.
+
+---
+
+### 102
+
+En relación con el libro de Biología, ¿qué expresiones metafóricas se emplean para los procesos moleculares epigenéticos?
+
+- A. Marcas (*markers* o *tags*), marcadores, marcapáginas o *bookmarks*, resaltadores, escritores (*writers*), lectores (*readers*) y borradores (*erasers*)
+- B. Ejércitos, batallas, armas, defensas, ataques y retiradas
+- C. Bibliotecas, librerías, catálogos, estanterías, ficheros y préstamos
+- D. Engranajes, poleas, palancas, resortes, ejes y bielas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, expresiones metafóricas epigenéticas
+
+Es así que encontramos expresiones metafóricas para los procesos moleculares epigenéticos: marcas (*markers* o *tags*), marcadores, marcapáginas o *bookmarks*, resaltadores, escritores (*writers*), lectores (*readers*) y borradores (*erasers*).
+
+---
+
+### 103
+
+De acuerdo con el libro de Biología, ¿qué pueden hacer las marcas epigenéticas o epimarcas, según este tipo de metáforas?
+
+- A. Enmascararse, desenmascararse e, incluso, silenciarse
+- B. Duplicarse, triplicarse e, incluso, cuadruplicarse
+- C. Migrar, fusionarse e, incluso, dividirse
+- D. Cristalizarse, disolverse e, incluso, evaporarse
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, epimarcas
+
+Según este tipo de metáforas, estas marcas epigenéticas o epimarcas pueden, además, enmascararse, desenmascararse e, incluso, silenciarse.
+
+---
+
+### 104
+
+De conformidad con el libro de Biología, ¿en qué dos sentidos se utiliza la metáfora del *switch*?
+
+- A. Para denotar al interruptor de encendido/apagado electrónico, pero también en el sentido original de conmutador ferroviario
+- B. Para denotar al interruptor de encendido/apagado electrónico, pero también en el sentido de regulador de intensidad
+- C. Para denotar al conmutador ferroviario, pero también en el sentido de termostato
+- D. Para denotar al plano o cianotipo, pero también en el sentido de partitura musical
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, la metáfora del *switch*
+
+Una metáfora que ha adquirido/recuperado un significado adicional es la del *switch*, que se utiliza para denotar al interruptor de encendido/apagado electrónico, pero también en el sentido original de conmutador ferroviario, es decir, la palanca que al ser accionada hace que el tren cambie de vía y tome una dirección particular.
+
+> Cuidado con el distractor B: el regulador de intensidad (*dimmer switch*) es, según
+> el propio libro, una **submetáfora** del *switch*, no uno de sus dos sentidos.
+
+---
+
+### 105
+
+En relación con el libro de Biología, ¿quién propuso la metáfora del *switch* en el contexto del modelo del paisaje epigenético de Conrad Waddington?
+
+- A. Julian Huxley (1887-1975)
+- B. Richard Lewontin
+- C. Evelyn Fox Keller
+- D. Dorothy Nelkin (1933-2003)
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, Julian Huxley
+
+Esta metáfora fue propuesta por Julian Huxley (1887-1975), en el contexto del modelo del paisaje epigenético (*epigenetic landscape*) de Conrad Waddington (1905-1975).
+
+---
+
+### 106
+
+De acuerdo con el libro de Biología, ¿de qué da cuenta la metáfora del *switch* en el modelo del paisaje epigenético?
+
+- A. De la posibilidad que tiene una célula de adoptar un estado metabólico o camino de desarrollo dado entre varios posibles, dependiendo del contexto
+- B. De la imposibilidad de que una célula cambie su destino una vez diferenciada
+- C. Del número exacto de genes que una célula puede expresar a la vez
+- D. De la velocidad con la que se replica el ADN antes de la mitosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, qué explica el *switch*
+
+Para dar cuenta de la posibilidad que tiene una célula de adoptar un estado metabólico o camino de desarrollo dado entre varios posibles, dependiendo del contexto.
+
+---
+
+### 107
+
+De conformidad con el libro de Biología, ¿cuál es una submetáfora epigenética del *switch*?
+
+- A. La del reóstato, o regulador de intensidad (*dimmer switch*) o, incluso, termostato
+- B. La del conmutador ferroviario que cambia la vía del tren
+- C. La de la partitura ejecutada por un pianista
+- D. La del marcapáginas o *bookmark*
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, el reóstato
+
+Una submetáfora epigenética del *switch* es la del reóstato, o regulador de intensidad (*dimmer switch*) o, incluso, termostato.
+
+---
+
+### 108
+
+En relación con el libro de Biología, ¿cuál es, según el ensayo 14-1, el encuadre metafórico más promisorio para la epigenética?
+
+- A. La metáfora de la música
+- B. La metáfora de la máquina
+- C. La metáfora de la guerra
+- D. La metáfora de la biblioteca
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, la música como encuadre
+
+La metáfora de la música es quizás el encuadre metafórico más promisorio para la epigenética, ya que abre un espacio conceptual para argumentar que ahora podemos cambiar nuestro destino genético, tocando una canción diferente si así lo desea el intérprete.
+
+---
+
+### 109
+
+De acuerdo con el libro de Biología, en la metáfora musical aplicada al desarrollo, ¿qué representa el teclado?
+
+- A. La secuencia del ADN
+- B. El ambiente externo del organismo
+- C. El conjunto de las proteínas de la célula
+- D. La red de comunicaciones intercelulares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, el teclado como secuencia de ADN
+
+Durante el desarrollo, la notación musical determina cómo serán ejecutadas las notas de la partitura en el teclado –la secuencia del ADN–, y de acuerdo con la técnica, la sensibilidad y el temperamento del momento del pianista.
+
+---
+
+### 110
+
+De conformidad con el libro de Biología, ¿a qué nuevo tipo de pensamiento determinista puede conducir la metáfora de la programación epigenética?
+
+- A. A un determinismo no genético, sino ambiental, donde el carácter o la estructura de un organismo estarían definidos por el ambiente
+- B. A un determinismo estrictamente genético, donde todo queda definido por la secuencia del ADN
+- C. A un determinismo azaroso, donde ningún factor puede predecir el fenotipo
+- D. A un determinismo poblacional, donde sólo cuentan las frecuencias alélicas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, determinismo ambiental
+
+La relación entre el ambiente y el genoma, a veces, se expresa a través de la metáfora de la programación epigenética, lo que puede conducir a un nuevo tipo de pensamiento determinista, no genético esta vez, sino ambiental, donde el carácter o la estructura de un organismo estarían definidos por el ambiente.
+
+---
+
+### 111
+
+En relación con el libro de Biología, ¿qué constituye por excelencia el entorno social y material (*nurture*) en las metáforas de la herencia epigenética?
+
+- A. La figura de la madre
+- B. La figura del padre
+- C. La comunidad científica
+- D. El laboratorio experimental
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
+**Subtema:** epigenética · ensayo 14-1, la figura de la madre
+
+Pero, además, el entorno social y material (*nurture*) por excelencia lo constituye la figura de la madre.
+
+---
+
+### 112
+
+De acuerdo con el libro de Biología, ¿qué se debe advertir siempre acerca de las metáforas?
+
+- A. Que no son "la realidad", sino una construcción cognitiva en muchos casos con fuertes componentes sociales, culturales e ideológicos
+- B. Que son una descripción exacta y neutral de la realidad biológica
+- C. Que sólo tienen valor si han sido validadas experimentalmente
+- D. Que carecen por completo de utilidad para enseñar y comunicar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · ensayo 14-1, reflexión final
+
+En el mismo sentido, siempre se debe advertir que las metáforas no son "la realidad", sino una construcción cognitiva en muchos casos con fuertes componentes sociales, culturales e ideológicos.
+
+---
+
+### 113
+
+De conformidad con el libro de Biología, ¿en qué se transforman las metáforas si se cristalizan y naturalizan?
+
+- A. Se tornan invisibles y, en lugar de ser puentes que contribuyan a acceder al conocimiento, inhibirán el pensamiento crítico y se transformarán en obstáculos
+- B. Se tornan más precisas y se transforman en definiciones científicas exactas
+- C. Se tornan inútiles y desaparecen del lenguaje científico
+- D. Se tornan universales y dejan de tener componentes culturales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · ensayo 14-1, metáforas cristalizadas
+
+Si las metáforas se cristalizan y naturalizan se tornan invisibles y, en lugar de ser puentes que contribuyan a acceder al conocimiento, inhibirán el pensamiento crítico y se transformarán en obstáculos para acceder a nuevas miradas y conocimientos alternativos.
+
+---
+
+### 114
+
+En relación con el libro de Biología, ¿qué opinaba Jorge Luis Borges sobre las metáforas que duran a pesar de su repetición?
+
+- A. Que son mejores que las recién inventadas, por más ingeniosas que estas sean
+- B. Que son peores que las recién inventadas, porque han perdido su fuerza
+- C. Que son equivalentes a las recién inventadas, porque todas cumplen la misma función
+- D. Que deben ser abandonadas en favor de las recién inventadas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · ensayo 14-1, Borges
+
+Según Jorge Luis Borges, las metáforas que duran a pesar de su repetición son mejores que las recién inventadas, por más ingeniosas que estas sean.
+
+---
+
+### 115
+
+De acuerdo con el libro de Biología, ¿cómo se describen las modificaciones epigenéticas "escritoras"?
+
+- A. Como aquellas que organizan estructuralmente cómo se ejecutará el patrón genómico
+- B. Como aquellas que median la expresión de los genes involucrados
+- C. Como aquellas que se encargan de eliminar marcas previamente adquiridas
+- D. Como aquellas que degradan los ARN mensajeros ya traducidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · modificaciones "escritoras"
+
+Estas modificaciones se describen de acuerdo con la metáfora literaria, en tanto sean modificaciones "escritoras" –en el caso de que organicen estructuralmente como se ejecutará el patrón genómico–.
+
+---
+
+### 116
+
+De conformidad con el libro de Biología, ¿cómo se describen las modificaciones epigenéticas "lectoras"?
+
+- A. Como aquellas que median la expresión de los genes involucrados
+- B. Como aquellas que organizan estructuralmente cómo se ejecutará el patrón genómico
+- C. Como aquellas que se encargan de eliminar marcas previamente adquiridas
+- D. Como aquellas que reparan los errores de la replicación del ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · modificaciones "lectoras"
+
+"Lectoras" –en tanto medien la expresión de los genes involucrados–.
+
+---
+
+### 117
+
+En relación con el libro de Biología, ¿cómo se describen las modificaciones epigenéticas "borradoras"?
+
+- A. Como aquellas que se encargan de eliminar marcas previamente adquiridas
+- B. Como aquellas que organizan estructuralmente cómo se ejecutará el patrón genómico
+- C. Como aquellas que median la expresión de los genes involucrados
+- D. Como aquellas que duplican las marcas durante la replicación del ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · modificaciones "borradoras"
+
+O "borradoras" –si se encargan de eliminar marcas previamente adquiridas–.
+
+---
+
+### 118
+
+De acuerdo con el libro de Biología, ¿conforme a qué criterio organiza el capítulo los principales cambios epigenéticos descritos hasta el momento?
+
+- A. Conforme al elemento ultraestructural de la célula a la que modifican
+- B. Conforme al orden cronológico en el que fueron descubiertos
+- C. Conforme al tamaño de las moléculas involucradas
+- D. Conforme al tipo de organismo en el que fueron descritos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · criterio de organización del capítulo
+
+A continuación, se exponen algunos de los principales cambios epigenéticos descritos hasta el momento, organizados conforme al elemento ultraestructural de la célula a la que modifican, y se explicará, en cada caso, el tipo de efecto que produce cada uno de estos cambios.
+
+---
+
+### 119
+
+De conformidad con el libro de Biología, ¿cuál es la modificación epigenética más pequeña que se conoce?
+
+- A. La dada por el grupo metilo
+- B. La dada por el grupo fosfato
+- C. La dada por la molécula de ADP-ribosa
+- D. La dada por las cadenas de ARN de 19 bases nitrogenadas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · metilación del ADN, el grupo metilo
+
+La modificación epigenética más pequeña que se conoce está dada por el grupo metilo.
+
+---
+
+### 120
+
+En relación con el libro de Biología, ¿qué átomos comprende el grupo metilo?
+
+- A. Un átomo de carbono y tres átomos de hidrógeno
+- B. Un átomo de carbono y cuatro átomos de hidrógeno
+- C. Tres átomos de carbono y un átomo de hidrógeno
+- D. Un átomo de nitrógeno y tres átomos de hidrógeno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · composición del grupo metilo
+
+Esta molécula, que comprende un átomo de carbono y tres átomos de hidrógeno, se adjunta a algunas bases de citosina de la cadena de ADN.
+
+---
+
+### 121
+
+De acuerdo con el libro de Biología, ¿de cuántos átomos consta la modificación epigenética más pequeña?
+
+- A. De solo cuatro átomos
+- B. De solo tres átomos
+- C. De solo diecinueve átomos
+- D. De solo dos átomos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · tamaño de la modificación más pequeña
+
+La modificación epigenética más pequeña consta de solo cuatro átomos.
+
+---
+
+### 122
+
+De conformidad con el libro de Biología, ¿de cuántas bases nitrogenadas son las cadenas de ARN que ayudan a especificar dónde debe ir cada tipo de resaltado?
+
+- A. De solo 19 bases nitrogenadas
+- B. De solo 4 bases nitrogenadas
+- C. De solo 8 bases nitrogenadas
+- D. De solo 25 bases nitrogenadas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · cadenas de ARN de 19 bases
+
+Otras involucran cadenas de ARN de solo 19 bases nitrogenadas que ayudan a especificar dónde debe ir cada tipo de resaltado.
+
+---
+
+### 123
+
+En relación con el libro de Biología, ¿qué diferencia hay entre las células de un organismo respecto de su secuencia de ADN y sus "patrones de resaltado"?
+
+- A. Casi todas contienen la misma secuencia de ADN, pero diferentes tipos de células tienen diferentes "patrones de resaltado"
+- B. Cada tipo celular contiene una secuencia de ADN distinta, pero el mismo "patrón de resaltado"
+- C. Todas contienen la misma secuencia de ADN y el mismo "patrón de resaltado"
+- D. Cada tipo celular contiene una secuencia de ADN distinta y un "patrón de resaltado" distinto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · mismo ADN, distintos patrones de resaltado
+
+Casi todas las células de un organismo contienen la misma secuencia de ADN, pero diferentes tipos de células tienen diferentes "patrones de resaltado". Una célula hepática no necesita las mismas "páginas" del "manual de instrucciones" que una célula nerviosa.
+
+---
+
+### 124
+
+De acuerdo con el libro de Biología, ¿qué ocurre con las marcas epigenéticas durante el desarrollo embrionario?
+
+- A. No permanecen fijas en el ADN de las células, sino que van cambiando conforme la célula se va diferenciando
+- B. Permanecen fijas en el ADN de las células desde el cigoto hasta el organismo adulto
+- C. Desaparecen por completo al comenzar la diferenciación celular
+- D. Sólo aparecen una vez que la célula ha terminado de diferenciarse
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · las marcas durante el desarrollo embrionario
+
+Uno de los aspectos más interesantes de los procesos epigenéticos es que durante el desarrollo embrionario las marcas no permanecen fijas en el ADN de las células, sino que van cambiando conforme la célula se va diferenciando.
+
+---
+
+### 125
+
+De conformidad con el libro de Biología, ¿cómo se conoce la transmisión de padres a hijos de algunas modificaciones epigenéticas?
+
+- A. Herencia epigenética
+- B. Impronta genómica
+- C. Plasticidad fenotípica
+- D. Canalización irreversible
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · herencia epigenética
+
+Incluso, algunas de estas modificaciones pueden ser transmitidas de padres a hijos, lo cual se conoce como herencia epigenética.
+
+---
+
+### 126
+
+En relación con el libro de Biología, además de las marcas y las proteínas, ¿qué otro factor tiene importancia en los procesos epigenéticos?
+
+- A. La localización espacial específica de los cromosomas en el núcleo
+- B. La cantidad de mitocondrias presentes en el citoplasma
+- C. El espesor de la membrana plasmática de la célula
+- D. La temperatura del medio extracelular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 303
+**Subtema:** epigenética · localización de los cromosomas
+
+También, la localización espacial específica de los cromosomas en el núcleo tiene importancia en los procesos epigenéticos.
+
+---
+
+### 127
+
+De acuerdo con el libro de Biología, ¿qué muestra la figura 14-7 sobre la neurona y la célula hepática de mamífero?
+
+- A. Que ambas células contienen el mismo genoma, pero expresan diferentes conjuntos de ARN y proteínas
+- B. Que ambas células contienen genomas distintos y expresan los mismos ARN y proteínas
+- C. Que ambas células contienen el mismo genoma y expresan los mismos ARN y proteínas
+- D. Que ambas células contienen genomas distintos y expresan ARN y proteínas distintos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · fig. 14-7, genotipo y fenotipos celulares
+
+Neurona (izquierda) y célula hepática (derecha) de mamífero. Ambas células contienen el mismo genoma, pero expresan diferentes conjuntos de ARN y proteínas.
+
+---
+
+### 128
+
+De conformidad con el libro de Biología, ¿qué enzima adjunta el grupo metilo a algunas bases de citosina de la cadena de ADN, comportándose como una proteína "escritora"?
+
+- A. La ADN metil transferasa
+- B. La ADN polimerasa
+- C. La topoisomerasa
+- D. La transcriptasa inversa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · ADN metil transferasa
+
+Se adjunta a algunas bases de citosina de la cadena de ADN mediante la acción de la enzima llamada ADN metil transferasa que, en este caso, se comporta como una proteína "escritora".
+
+---
+
+### 129
+
+En relación con el libro de Biología, ¿qué provoca la metilación del ADN sobre la afinidad entre los genes y sus factores de transcripción?
+
+- A. Provoca una reducción en la afinidad existente entre los genes y sus factores de transcripción específicos, y disminuye su tasa de expresión
+- B. Provoca un aumento en la afinidad existente y aumenta su tasa de expresión
+- C. No modifica la afinidad, pero duplica la tasa de expresión
+- D. Elimina por completo los factores de transcripción específicos de la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · efecto de la metilación sobre la expresión
+
+La metilación del ADN provoca una reducción en la afinidad existente entre los genes y sus factores de transcripción específicos, y disminuye su tasa de expresión.
+
+---
+
+### 130
+
+De acuerdo con el libro de Biología, ¿junto a qué base están situadas la mayoría de las bases de citosina metiladas (mC)?
+
+- A. En sitios adyacentes a bases de guanina
+- B. En sitios adyacentes a bases de adenina
+- C. En sitios adyacentes a bases de timina
+- D. En sitios adyacentes a bases de uracilo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · sitios CpG
+
+Se ha observado que la mayoría de las bases de citosina metiladas (mC) están situadas en sitios adyacentes a bases de guanina.
+
+---
+
+### 131
+
+De conformidad con el libro de Biología, en la denominación "CpG" del dinucleótido, ¿qué representa la "p"?
+
+- A. El enlace mediado por un grupo fosfato
+- B. El enlace mediado por un grupo metilo
+- C. La base púrica del par de nucleótidos
+- D. La proteína decodificadora que se une al sitio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · qué significa la "p" de CpG
+
+El dinucleótido así constituido se denomina "CpG", en donde la "p" representa el enlace mediado por un grupo fosfato.
+
+---
+
+### 132
+
+En relación con el libro de Biología, ¿qué proporción representa la cantidad absoluta de dinucleótidos CpG del genoma completo respecto de la esperada como producto del azar?
+
+- A. 1/5 del valor esperado
+- B. 1/2 del valor esperado
+- C. 1/10 del valor esperado
+- D. 1/20 del valor esperado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · abundancia de los dinucleótidos CpG
+
+Si bien en el análisis del genoma completo la cantidad absoluta de dinucleótidos CpG es bastante inferior a la que se esperaría como producto del azar (1/5 del valor esperado).
+
+---
+
+### 133
+
+De acuerdo con el libro de Biología, ¿cómo se llaman las variantes repetitivas o *clusters* en los que se organizan los dinucleótidos CpG?
+
+- A. Islas CpG
+- B. Cajas TATA
+- C. Cuerpos P
+- D. Gránulos de estrés
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · islas CpG
+
+Se observa que tienen una distribución no homogénea en el genoma, ya que se encuentran organizados en variantes repetitivas o *clusters* (llamados islas CpG).
+
+---
+
+### 134
+
+De conformidad con el libro de Biología, ¿dónde se ubican las islas CpG?
+
+- A. En torno a sitios de inicio de la transcripción
+- B. En torno a los extremos teloméricos de los cromosomas
+- C. En torno a los centrómeros de los cromosomas
+- D. En torno a los sitios de terminación de la traducción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · fig. 14-8, ubicación de las islas CpG
+
+Las islas CpG se ubican en torno a sitios de inicio de la transcripción. La metilación de las islas CpG puede inhibir la expresión de un gen.
+
+---
+
+### 135
+
+En relación con el libro de Biología, ¿cómo se denomina a las proteínas del núcleo celular que reconocen y se unen específicamente a bases de citosina metiladas?
+
+- A. Proteínas "decodificadoras"
+- B. Proteínas "escritoras"
+- C. Proteínas "borradoras"
+- D. Proteínas chaperonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · proteínas decodificadoras
+
+También se ha observado que en el núcleo celular existen proteínas que reconocen y se unen específicamente a bases de citosina metiladas (mC), a las que se suele denominar proteínas "decodificadoras".
+
+---
+
+### 136
+
+De acuerdo con el libro de Biología, ¿qué efecto tienen sobre la cromatina los complejos proteicos formados a partir de las proteínas decodificadoras?
+
+- A. Modifican su configuración tridimensional, que pasa de un estado laxo a uno compacto
+- B. Modifican su configuración tridimensional, que pasa de un estado compacto a uno laxo
+- C. Rompen sus enlaces fosfodiéster y la fragmentan
+- D. Duplican su contenido de histonas sin cambiar su configuración
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · efecto sobre la cromatina
+
+Los complejos proteicos así formados modifican la configuración tridimensional de la cromatina, que pasa de un estado laxo a uno compacto; se bloquea la transcripción de genes que contienen ADN metilado, inhibiéndose así la producción de los correspondientes ARNm y proteínas.
+
+---
+
+### 137
+
+De conformidad con el libro de Biología, en la metáfora del texto, ¿cómo se comportaría la metilación del ADN?
+
+- A. Más como un supresor que como un resaltador, al impedir que la célula pueda "leer" la secuencia metilada
+- B. Más como un resaltador que como un supresor, al destacar la secuencia metilada
+- C. Como un marcapáginas que señala dónde debe reanudarse la lectura
+- D. Como un traductor que convierte la secuencia a otro idioma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · la metilación como supresor
+
+En la metáfora del texto, en este caso, la metilación del ADN se comportaría más como un supresor que como un resaltador, al impedir que la célula pueda "leer" la secuencia metilada.
+
+---
+
+### 138
+
+En relación con el libro de Biología, ¿cuándo ocurre el silenciamiento transcripcional?
+
+- A. Solo cuando ambas hebras de la doble hélice de ADN están metiladas en el mismo sitio CpG
+- B. Cuando al menos una de las dos hebras está metilada en cualquier sitio CpG
+- C. Cuando ninguna de las dos hebras está metilada
+- D. Cuando las dos hebras están metiladas en sitios CpG diferentes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · condición del silenciamiento transcripcional
+
+El silenciamiento transcripcional solo ocurre cuando ambas hebras de la doble hélice de ADN están metiladas en el mismo sitio CpG.
+
+---
+
+### 139
+
+De acuerdo con el libro de Biología, ¿qué ocurre con las nuevas hebras copiadas durante la replicación del ADN en la mitosis, respecto de los grupos metilo?
+
+- A. No tienen grupos metilos adjuntos
+- B. Tienen el doble de grupos metilos que la hebra original
+- C. Tienen exactamente los mismos grupos metilos que la hebra original
+- D. Tienen grupos metilos adjuntos, pero en sitios distintos de los de la hebra original
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · metilación y replicación
+
+Pero cuando el ADN se replica durante la mitosis, las nuevas hebras que se han copiado a partir de las originales no tienen grupos metilos adjuntos.
+
+---
+
+### 140
+
+De conformidad con el libro de Biología, ¿qué proteína copia el patrón original de metilación del ADN a las dos nuevas cadenas formadas durante la replicación?
+
+- A. La ADN metiltransferasa 1 (DNMT1)
+- B. La ADN polimerasa 1
+- C. La topoisomerasa 1
+- D. La ARN polimerasa 1
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · DNMT1
+
+En esa instancia interviene una proteína llamada ADN metiltransferasa 1 (DNMT1, por su sigla en inglés), que copia el patrón original de metilación del ADN a las dos nuevas cadenas formadas durante la replicación.
+
+---
+
+### 141
+
+En relación con el libro de Biología, ¿cómo actúa la enzima ADN metiltransferasa 1 sobre los sitios CpG?
+
+- A. Reconoce los sitios CpG asimétricamente metilados y adiciona el grupo metilo a la base citosina desnuda de la nueva cadena, restableciendo el patrón original simétrico
+- B. Reconoce los sitios CpG simétricamente metilados y les retira el grupo metilo de ambas cadenas
+- C. Reconoce los sitios CpG no metilados y los corta para su reparación
+- D. Reconoce los sitios CpG y los desplaza hacia los sitios de inicio de la transcripción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 304
+**Subtema:** epigenética · fig. 14-9, cómo actúa la DNMT1
+
+Esta enzima reconoce los sitios CpG asimétricamente metilados y adiciona el grupo metilo a la base citosina desnuda de la nueva cadena, restableciendo el patrón original simétrico del ADN original.
+
+---
+
+### 142
+
+De acuerdo con el libro de Biología, ¿para qué resulta crucial el proceso de copiado del patrón de metilación?
+
+- A. Para que se mantenga el paisaje epigenético de las células maduras e impida que se revierta la diferenciación celular
+- B. Para que se acelere la velocidad de la replicación del ADN
+- C. Para que se reduzca el número de mutaciones durante la mitosis
+- D. Para que se aumente el número de cromosomas de la célula hija
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · por qué es crucial mantener el patrón
+
+Este proceso resulta crucial para que se mantenga el paisaje epigenético de las células maduras e impida que se revierta la diferenciación celular.
+
+---
+
+### 143
+
+De conformidad con el libro de Biología, ¿de qué es la metilación del ADN el ejemplo mejor conocido?
+
+- A. De una modificación epigenética que se hereda por mitosis
+- B. De una mutación puntual que altera la secuencia del ADN
+- C. De un proceso "borrador" del patrón de organización del ADN
+- D. De una modificación de las histonas de la cromatina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · la metilación como herencia por mitosis
+
+La metilación del ADN es el ejemplo mejor conocido de una modificación epigenética que se hereda por mitosis.
+
+---
+
+### 144
+
+En relación con el libro de Biología, ¿qué efecto se ha propuesto para la metilación del ADN cuando ocurre en regiones propias de un gen y no en las regiones promotoras?
+
+- A. Puede tener el efecto inverso, al aumentar la tasa de expresividad de ese gen
+- B. Puede reforzar el silenciamiento y anular por completo la expresión de ese gen
+- C. No produce ningún efecto sobre la expresión de ese gen
+- D. Produce una mutación puntual en la secuencia de ese gen
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · metilación fuera de las regiones promotoras
+
+En algunos casos, se ha propuesto que la metilación del ADN en regiones propias de un gen –y no en las regiones promotoras– puede tener el efecto inverso, al aumentar la tasa de expresividad de ese gen.
+
+---
+
+### 145
+
+De acuerdo con el libro de Biología, ¿qué muestra el fenómeno de que la metilación pueda aumentar la expresión de un gen según dónde ocurra?
+
+- A. Que las moléculas o modificaciones específicas no tienen un valor en sí mismas, sino en un contexto temporal y espacial particular
+- B. Que las moléculas específicas tienen siempre el mismo valor, independientemente del contexto
+- C. Que la metilación carece de todo efecto sobre la expresión génica
+- D. Que la expresión génica depende exclusivamente de la secuencia del promotor
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · el valor de una modificación depende del contexto
+
+Este fenómeno muestra que las moléculas o modificaciones específicas no tienen un valor en sí mismas, sino en un contexto temporal y espacial particular.
+
+---
+
+### 146
+
+De conformidad con el libro de Biología, ¿qué tipo de proteínas son las de unión a Metil CpG?
+
+- A. Proteínas "lectoras" que reconocen el ADN metilado e inician el silenciamiento de la cromatina a través del reclutamiento de otras moléculas
+- B. Proteínas "escritoras" que adicionan el grupo metilo a las bases de citosina
+- C. Proteínas "borradoras" que eliminan el grupo metilo de las bases de citosina
+- D. Proteínas chaperonas que recuperan el plegamiento nativo de otras proteínas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · proteínas de unión a Metil CpG
+
+Se trata de proteínas "lectoras" que reconocen el ADN metilado e inician el silenciamiento de la cromatina a través del reclutamiento de otras moléculas.
+
+---
+
+### 147
+
+En relación con el libro de Biología, ¿cuántas familias de proteínas de unión a Metil CpG se han descrito en diversas investigaciones?
+
+- A. Tres familias
+- B. Dos familias
+- C. Cuatro familias
+- D. Cinco familias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · familias de proteínas de unión a Metil CpG
+
+En diversas investigaciones se han descrito tres familias de estas proteínas que mostraron tener cierta especificidad, tanto por reconocer algunas partes específicas del ADN metilado como por producir su efecto silenciador de maneras particulares.
+
+---
+
+### 148
+
+De acuerdo con el libro de Biología, ¿en qué otro proceso están involucradas algunas proteínas con dominio de unión a Metil CpG?
+
+- A. En la reparación del ADN
+- B. En el transporte de iones a través de la membrana
+- C. En la síntesis de ATP en la mitocondria
+- D. En la formación del huso mitótico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · proteínas Metil CpG y reparación del ADN
+
+Existen otras proteínas con dominio de unión a Metil CpG que están involucradas en la reparación del ADN.
+
+---
+
+### 149
+
+De conformidad con el libro de Biología, ¿dentro de qué tipo de procesos se encuentra la reactivación de genes cuyos sectores promotores están metilados?
+
+- A. Dentro de los llamados procesos "borradores" del patrón de organización del ADN
+- B. Dentro de los llamados procesos "escritores" del patrón de organización del ADN
+- C. Dentro de los llamados procesos "lectores" del patrón de organización del ADN
+- D. Dentro de los procesos de reparación de las mutaciones puntuales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · demetilación del ADN
+
+En algunas ocasiones, los genes, cuyos sectores promotores se encuentran metilados, pueden ser reactivados; este fenómeno se encuentra dentro de los llamados procesos "borradores" del patrón de organización del ADN.
+
+---
+
+### 150
+
+En relación con el libro de Biología, ¿cuándo cambia el paisaje epigenético?
+
+- A. Cuando las células comienzan a activar los genes que se requieren para desarrollar sus funciones especializadas como células terminalmente diferenciadas de tejidos específicos
+- B. Cuando las células pierden por completo su capacidad de expresar genes
+- C. Cuando las células duplican su contenido de ADN antes de la mitosis
+- D. Cuando las células sufren una mutación en su secuencia promotora
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · cambio del paisaje epigenético
+
+El paisaje epigenético cambia cuando las células comienzan a activar los genes que se requieren para desarrollar sus funciones especializadas como células terminalmente diferenciadas de tejidos específicos.
+
+---
+
+### 151
+
+De acuerdo con el libro de Biología, ¿qué representan los puntos amarillos de la figura 14-9?
+
+- A. Los grupos metilo
+- B. Las bases de citosina
+- C. Las islas CpG
+- D. Las proteínas decodificadoras
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · fig. 14-9, los puntos amarillos
+
+Los puntos amarillos representan los grupos metilo.
+
+---
+
+### 152
+
+De conformidad con el libro de Biología, ¿quién demostró en la década de 1990 la importancia de la metilación del ADN?
+
+- A. El grupo de investigación del biólogo alemán Rudolf Jaenisch
+- B. El grupo de investigación del biólogo escocés Conrad H. Waddington
+- C. El grupo de investigación del genetista estadounidense Richard Lewontin
+- D. El grupo de investigación del anatomista suizo Wilhelm His
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · recuadro 14-1, Rudolf Jaenisch
+
+En la década de 1990, el grupo de investigación del biólogo alemán Rudolf Jaenisch demostró la importancia de la metilación del ADN.
+
+---
+
+### 153
+
+En relación con el libro de Biología, ¿qué modelo experimental empleó el grupo de Rudolf Jaenisch?
+
+- A. Ratones tratados mediante ingeniería genética, que carecían de la enzima ADN metiltransferasa
+- B. Poblaciones de la pulga de agua *Daphnia* sometidas a cambios de temperatura
+- C. Huevos fecundados de rana del género *Xenopus*
+- D. Huevos de erizos de mar separados en el estadio de dos blastómeras
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · recuadro 14-1, el modelo experimental
+
+Utilizando un modelo experimental que empleaba ratones tratados mediante ingeniería genética, que carecían de la enzima ADN metiltransferasa.
+
+---
+
+### 154
+
+De acuerdo con el libro de Biología, ¿qué ocurre con la progenie de los ratones que carecen de la enzima ADN metiltransferasa?
+
+- A. La progenie es inviable, ya que la F1 muere en diversos estadios embrionarios
+- B. La progenie es viable, pero presenta malformaciones en los miembros
+- C. La progenie es viable y no presenta ninguna alteración observable
+- D. La progenie sólo es inviable a partir de la tercera generación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · recuadro 14-1, inviabilidad de la progenie
+
+En este modelo, la progenie es inviable, ya que la F1 muere en diversos estadios embrionarios.
+
+---
+
+### 155
+
+De conformidad con el libro de Biología, ¿qué alteraciones encontraron los grupos de investigación que emplearon un modelo de células cancerosas?
+
+- A. Cambios masivos en los patrones de metilación, activación atípica de patrones de expresión génica y alteraciones de la ADN metiltransferasa
+- B. Ausencia total de metilación y pérdida completa del genoma nuclear
+- C. Duplicación del número de cromosomas sin cambios en la metilación
+- D. Reducción del tamaño celular sin alteraciones en la expresión génica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · recuadro 14-1, células cancerosas
+
+Otros grupos de investigación, que emplearon un modelo de células cancerosas, encontraron que, entre otras alteraciones, estas células presentan cambios masivos en los patrones de metilación, activación atípica de patrones de expresión génica y alteraciones de la ADN metiltransferasa.
+
+---
+
+### 156
+
+En relación con el libro de Biología, ¿qué sugieren los resultados de las investigaciones del recuadro 14-1 sobre el funcionamiento normal de las células y de los organismos?
+
+- A. Que requiere la ocurrencia de patrones normales de metilación
+- B. Que requiere la ausencia total de metilación del ADN
+- C. Que es independiente de los patrones de metilación
+- D. Que requiere una metilación máxima de todas las islas CpG
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
+**Subtema:** epigenética · recuadro 14-1, conclusión
+
+Los resultados de estas investigaciones sugieren que el normal funcionamiento de las células y de los organismos requiere la ocurrencia de patrones normales de metilación.
 
 ---
