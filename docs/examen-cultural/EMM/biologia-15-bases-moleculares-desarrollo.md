@@ -88,7 +88,7 @@ mismo párrafo o del mismo cuadro. La correcta se escribe siempre en **A** porqu
 importador baraja las opciones. El enunciado nombra el libro y alterna las tres fórmulas
 del Anexo "H": "De acuerdo con", "De conformidad con", "En relación con".
 
-**Pendiente:** el capítulo 15 está EN CURSO; cubiertas las páginas impresas **325 a 331** (dos tandas): el apartado de apertura de la talidomida sólo en sus datos de biología; la historia de la biología del desarrollo (preformacionismo y epigénesis, el vitalismo y el mecanicismo, las tres capas germinales, el reduccionismo genético, la fig. 15-2 del homúnculo); las etapas del desarrollo (segmentación, gastrulación, organogénesis) y la definición de desarrollo y de cigoto; y los mecanismos de la diferenciación (células competentes, especificadas y determinadas; determinantes citoplasmáticos y desarrollo en mosaico; inducción y desarrollo regulativo; interacciones paracrina y yuxtacrina; la cascada de inducción del ojo). Cubierta también la señalización del desarrollo (páginas impresas **332 a 334**: las vías de Hedgehog, Wnt, la superfamilia TGF-β/BMP y los FGF; la inducción por señales directas —uniones gap y Notch—; la interacción con la matriz extracelular —composición, la hidroxiapatita del hueso, las integrinas, la transición epitelio-mesenquimática— y las células de la cresta neural). Cubiertos también los morfógenos y gradientes (páginas impresas **335 y 336**: las conexinas de las uniones gap y el cross-talk; que la respuesta a una señal varía con el desarrollo; el morfógeno y el gradiente como información de posición; el modelo de la bandera francesa de Wolpert; la diferenciación dorsoventral del tubo neural con BMP y SHH e inductores primarios y secundarios; y Drosophila como organismo modelo —el germario, las células nodrizas y foliculares, el sincicio, los morfógenos maternos y los 14 segmentos corporales—). Sigue desde la página impresa **336** ("Red de regulación génica") en adelante, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Además del 15 siguen abiertos el capítulo **14** (`biologia-14-epigenetica.md`) y el capítulo **37** (`biologia-37-digestion.md`). Biología NO está cerrada.
+**Pendiente:** el capítulo 15 está EN CURSO; cubiertas las páginas impresas **325 a 331** (dos tandas): el apartado de apertura de la talidomida sólo en sus datos de biología; la historia de la biología del desarrollo (preformacionismo y epigénesis, el vitalismo y el mecanicismo, las tres capas germinales, el reduccionismo genético, la fig. 15-2 del homúnculo); las etapas del desarrollo (segmentación, gastrulación, organogénesis) y la definición de desarrollo y de cigoto; y los mecanismos de la diferenciación (células competentes, especificadas y determinadas; determinantes citoplasmáticos y desarrollo en mosaico; inducción y desarrollo regulativo; interacciones paracrina y yuxtacrina; la cascada de inducción del ojo). Cubierta también la señalización del desarrollo (páginas impresas **332 a 334**: las vías de Hedgehog, Wnt, la superfamilia TGF-β/BMP y los FGF; la inducción por señales directas —uniones gap y Notch—; la interacción con la matriz extracelular —composición, la hidroxiapatita del hueso, las integrinas, la transición epitelio-mesenquimática— y las células de la cresta neural). Cubiertos también los morfógenos y gradientes (páginas impresas **335 y 336**: las conexinas de las uniones gap y el cross-talk; que la respuesta a una señal varía con el desarrollo; el morfógeno y el gradiente como información de posición; el modelo de la bandera francesa de Wolpert; la diferenciación dorsoventral del tubo neural con BMP y SHH e inductores primarios y secundarios; y Drosophila como organismo modelo —el germario, las células nodrizas y foliculares, el sincicio, los morfógenos maternos y los 14 segmentos corporales—). Cubierta también la regulación génica del desarrollo en Drosophila (páginas impresas **337 a 339**: los morfógenos maternos Bicoid, Nanos y Oskar y sus gradientes, la señal Gurken y el establecimiento de los ejes; los tres tipos de genes de segmentación —gap, regla de pares y polaridad de segmento— y la cascada de segmentación; y los genes homeóticos o Hox —Edward B. Lewis y el complejo bithorax, la mutación Ultrabithorax, los complejos bithorax y antennapedia, el homeodominio/homeobox y la colinealidad—). Sigue desde la página impresa **339** (los genes homeóticos, desde William Bateson) en adelante, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Además del 15 siguen abiertos el capítulo **14** (`biologia-14-epigenetica.md`) y el capítulo **37** (`biologia-37-digestion.md`). Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -1539,3 +1539,309 @@ De acuerdo con el libro de Biología, a las 24 horas de desarrollo de Drosophila
 **Subtema:** desarrollo · los segmentos corporales de Drosophila
 
 En 24 horas de desarrollo es posible ver la formación de los segmentos corporales que se presentan como 14 unidades repetidas (3 piezas bucales en la región anterior del animal, seguidas por 3 unidades toráxicas y 8 unidades abdominales).
+
+---
+
+### 85
+
+De conformidad con el libro de Biología, entre los productos de genes maternos de Drosophila, ¿qué proteínas constituyen un excelente ejemplo de morfógenos?
+
+- A. Las proteínas Bicoid y Nanos
+- B. Las proteínas Patched y Smoothened
+- C. Las conexinas de las uniones gap
+- D. Las integrinas de la matriz extracelular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 337
+**Subtema:** desarrollo · Bicoid y Nanos como morfógenos
+
+Los productos de genes maternos, como las proteínas Bicoid y Nanos, constituyen un excelente ejemplo de morfógenos.
+
+---
+
+### 86
+
+En relación con el libro de Biología, antes de la fecundación, ¿dónde se establecen dentro del citoplasma del oocito los ARNm que codifican las proteínas Bicoid y Oskar?
+
+- A. El ARNm de Bicoid en lo que será la región anterior y el de Oskar en el extremo posterior
+- B. El ARNm de Bicoid en el extremo posterior y el de Oskar en la región anterior
+- C. Ambos ARNm se distribuyen al azar en el citoplasma
+- D. Ambos ARNm se ubican en el centro del oocito
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 337
+**Subtema:** desarrollo · ubicación de los ARNm maternos
+
+…los ARNm que codifican las proteínas Bicoid y Oskar, se establecen dentro del citoplasma del oocito, pero no al azar, ya que el ARNm de Bicoid lo hará en lo que será la región anterior y el de Oskar lo hará en el extremo posterior.
+
+---
+
+### 87
+
+De acuerdo con el libro de Biología, ¿cómo es el gradiente de la proteína Bicoid en el oocito de Drosophila?
+
+- A. Su concentración es más alta en el futuro extremo anterior y más baja en el posterior
+- B. Su concentración es más alta en el futuro extremo posterior y más baja en el anterior
+- C. Su concentración es uniforme en todo el oocito
+- D. Su concentración es más alta en la región dorsal que en la ventral
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 337
+**Subtema:** desarrollo · el gradiente de Bicoid
+
+…la concentración de Bicoid es más alta en el futuro extremo anterior y más baja en el posterior, mientras que con Nanos ocurre lo inverso.
+
+---
+
+### 88
+
+De conformidad con el libro de Biología, ¿qué segmentos darán los núcleos que reciban grandes cantidades de Bicoid y poco de Nanos?
+
+- A. Segmentos correspondientes a la cabeza
+- B. Segmentos correspondientes al tórax
+- C. Segmentos correspondientes al abdomen
+- D. No darán origen a ningún segmento
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 337
+**Subtema:** desarrollo · gradientes de Bicoid y Nanos y la identidad de segmentos
+
+…los núcleos que reciban grandes cantidades de Bicoid y poco de Nanos darán segmentos correspondientes a la cabeza, los que reciban cantidades intermedias de ambos darán segmentos del tórax y los que reciban altas concentraciones de Nanos y poco de Bicoid darán segmentos abdominales.
+
+---
+
+### 89
+
+En relación con el libro de Biología, ¿qué determina la presencia de Oskar en el extremo posterior del oocito?
+
+- A. Que en esa zona se localicen los ARNm que codifican la proteína Nanos
+- B. Que en esa zona se localice el ARNm de Bicoid
+- C. Que se degraden todos los morfógenos maternos
+- D. Que se forme la cáscara del huevo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 337
+**Subtema:** desarrollo · Oskar y la localización de Nanos
+
+La presencia de Oskar en el extremo posterior determina que en esta zona se localicen los RNAm que codifican otra proteína denominada Nanos.
+
+---
+
+### 90
+
+De acuerdo con el libro de Biología, ¿qué señal, emitida desde el oocito, activa un receptor en la membrana de las células foliculares y desencadena la reorganización de su citoesqueleto?
+
+- A. Gurken
+- B. Bicoid
+- C. Sonic hedgehog
+- D. BMP
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 337
+**Subtema:** desarrollo · la señal Gurken
+
+…comienzan a recibir una señal denominada Gurken desde el oocito, que produce la activación de un receptor en la membrana de las células foliculares que las lleva a emitir nuevas señales hacia el oocito y trae como consecuencia la reorganización de su citoesqueleto.
+
+---
+
+### 91
+
+De conformidad con el libro de Biología, los genes que determinan el número y la polaridad de los segmentos larvales se expresan secuencialmente; ¿en qué tres tipos se clasifican?
+
+- A. Genes gap, genes de regla de pares y genes de polaridad de segmento
+- B. Genes Hox, genes Bicoid y genes Nanos
+- C. Genes de efecto materno, genes homeóticos y genes Gurken
+- D. Genes gap, genes bithorax y genes antennapedia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 338
+**Subtema:** desarrollo · los tres tipos de genes de segmentación
+
+Los genes que determinan el número y la polaridad de los segmentos larvales se expresan secuencialmente y se pueden clasificar en tres tipos diferentes: genes gap, genes de regla de pares y genes de polaridad de segmento.
+
+---
+
+### 92
+
+En relación con el libro de Biología, ¿qué caracteriza a los genes gap?
+
+- A. Son los primeros que se expresan (o se reprimen) por acción de los mensajeros de origen materno (Bicoid y Nanos) y organizan amplias áreas a lo largo del eje anteroposterior
+- B. Determinan los bordes anterior y posterior de cada segmento individual
+- C. Dan la identidad morfológica a cada segmento del animal
+- D. Se expresan típicamente en catorce bandas verticales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 338
+**Subtema:** desarrollo · los genes gap
+
+Genes gap: son los primeros que se expresan (o se reprimen) por acción de los mensajeros de origen materno (Bicoid y Nanos) y organizan amplias áreas a lo largo del eje anteroposterior. Las mutaciones en estos genes provocan la pérdida de ciertas áreas consecutivas.
+
+---
+
+### 93
+
+De acuerdo con el libro de Biología, ¿de qué depende la transcripción de los genes de regla de pares?
+
+- A. De los productos proteicos de los genes gap que interactúan
+- B. De los morfógenos maternos Bicoid y Nanos directamente
+- C. De la señal Gurken de las células foliculares
+- D. De los genes homeóticos ya expresados
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 339
+**Subtema:** desarrollo · los genes de regla de pares
+
+Genes de regla de pares: su transcripción depende de los productos proteicos de los genes gap que interactúan. Otras mutaciones generan embriones en los que faltan segmentos alternados; por ejemplo, todos los segmentos pares son normales, mientras que todos los segmentos impares han desaparecido.
+
+---
+
+### 94
+
+De conformidad con el libro de Biología, ¿qué determinan los genes de polaridad de segmento?
+
+- A. Los bordes anterior y posterior de los segmentos individuales, por lo que sus mutaciones no afectan el número total de segmentos, sino subregiones dentro de ellos
+- B. El número total de segmentos del embrión
+- C. La identidad morfológica de cada segmento del animal
+- D. La ubicación de los ARNm maternos en el oocito
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 339
+**Subtema:** desarrollo · los genes de polaridad de segmento
+
+Genes de polaridad de segmento: estos genes determinan los bordes anterior y posterior de los segmentos individuales, por lo tanto, las mutaciones en estos genes no afectan el número total de segmentos, sino subregiones dentro de ellos.
+
+---
+
+### 95
+
+En relación con el libro de Biología, ¿cómo se conoce el orden temporal en que se expresan los genes de segmentación (efecto materno, gap, regla de pares y polaridad de segmento)?
+
+- A. Cascada de segmentación
+- B. Colinealidad
+- C. Cross-talk
+- D. Transición epitelio-mesenquimática
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 339
+**Subtema:** desarrollo · la cascada de segmentación
+
+Este orden temporal de expresión de los genes de segmentación se conoce como cascada de segmentación. Al final de esta cascada se expresan los genes homeóticos, que son los que de alguna manera dan identidad a estos segmentos.
+
+---
+
+### 96
+
+De acuerdo con el libro de Biología, ¿qué comenzó a investigar en 1946 el biólogo estadounidense Edward B. Lewis en la mosca Drosophila?
+
+- A. Un conjunto de mutaciones homeóticas que producen un fenotipo denominado bithorax
+- B. La estructura del ADN y su duplicación
+- C. La vía de señalización de Hedgehog
+- D. La composición de la matriz extracelular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 339
+**Subtema:** desarrollo · Edward B. Lewis y las mutaciones bithorax
+
+En 1946, el biólogo estadounidense Edward B. Lewis (1918-2004) comenzó a investigar, en estas moscas, un conjunto de mutaciones homeóticas que producen un fenotipo denominado bithorax.
+
+---
+
+### 97
+
+De conformidad con el libro de Biología, ¿qué fenotipo produce la mutación Ultrabithorax (Ubx)?
+
+- A. El tercer segmento torácico (T3) toma la identidad del segundo (T2), de modo que la mosca presenta dos segmentos T2 idénticos, con los halterios transformados en alas
+- B. La mosca pierde por completo el tórax
+- C. La mosca desarrolla patas en el lugar de las antenas
+- D. La mosca no forma segmentos abdominales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 339
+**Subtema:** desarrollo · la mutación Ultrabithorax
+
+Una de estas mutaciones denominada ultrabithorax (Ubx) produce un notable fenotipo: el tercer segmento torácico T3 toma la identidad del segundo segmento torácico T2, de modo que T3 desaparece y la mosca presenta dos segmentos T2 idénticos, con los halterios transformados en las alas y todos los apéndices correspondientes a ese segmento duplicados.
+
+---
+
+### 98
+
+En relación con el libro de Biología, ¿con qué fue galardonado Edward B. Lewis por su estudio del complejo bithorax?
+
+- A. Con el Premio Nobel de Medicina y Fisiología, en 1995
+- B. Con el Premio Nobel de Química, en 1962
+- C. Con el Premio Nobel de la Paz, en 1980
+- D. Con la Medalla Fields, en 1995
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 339
+**Subtema:** desarrollo · el Premio Nobel de Lewis
+
+Por este estudio, Lewis fue galardonado con el Premio Nobel de Medicina y Fisiología, en 1995.
+
+---
+
+### 99
+
+De acuerdo con el libro de Biología, en Drosophila, ¿por qué dos partes está constituido el conjunto de genes involucrados en el desarrollo?
+
+- A. Por el complejo bithorax y el complejo antennapedia
+- B. Por el complejo Bicoid y el complejo Nanos
+- C. Por el complejo gap y el complejo de polaridad de segmento
+- D. Por el complejo Gurken y el complejo Oskar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 339
+**Subtema:** desarrollo · los complejos bithorax y antennapedia
+
+En Drosophila, el conjunto de genes involucrados en el desarrollo está constituido por dos partes: el complejo bithorax y el complejo antennapedia. Cada complejo contiene varios genes, los cuales de forma genérica se denominan genes del complejo homeótico o genes Hox.
+
+---
+
+### 100
+
+De conformidad con el libro de Biología, a nivel molecular, los genes Hox codifican factores de transcripción que contienen una secuencia de 60 aminoácidos; ¿cómo se llama esa secuencia?
+
+- A. Homeodominio u homeobox, capaz de reconocer regiones específicas del ADN
+- B. Homúnculo, capaz de duplicar el ADN
+- C. Colinealidad, capaz de segmentar el embrión
+- D. Sincicio, capaz de traducir el ARNm
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 339
+**Subtema:** desarrollo · el homeodominio (homeobox)
+
+En el nivel molecular, los genes Hox codifican proteínas que actúan como factores de transcripción, que contienen una secuencia de 60 aminoácidos llamada homeodominio u homeobox, capaz de reconocer regiones específicas del ADN.
+
+---
+
+### 101
+
+En relación con el libro de Biología, ¿cómo se conoce el fenómeno según el cual el orden en que se activan los genes Hox a lo largo del eje anteroposterior es idéntico al orden en que se ordenan en el complejo a lo largo del cromosoma?
+
+- A. Colinealidad
+- B. Cascada de segmentación
+- C. Cross-talk
+- D. Inducción secundaria
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 339
+**Subtema:** desarrollo · la colinealidad de los genes Hox
+
+…el orden en el que se activan a lo largo del eje anteroposterior es idéntico al orden en el cual estos genes Hox se ordenan en el complejo a lo largo del cromosoma. Este fascinante fenómeno, cuyas bases comienzan a comprenderse, se conoce como colinealidad.
+
+---
+
+### 102
+
+De acuerdo con el libro de Biología, ¿qué ocurre cuando existen mutaciones que afectan la expresión normal de los genes Hox?
+
+- A. Que la identidad de los segmentos puede ser transformada en la de otros segmentos del animal
+- B. Que el animal pierde por completo todos sus segmentos
+- C. Que se detiene la duplicación del ADN
+- D. Que se forma un embrión sin núcleos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 339
+**Subtema:** desarrollo · mutaciones en los genes Hox
+
+Cuando existen mutaciones que afectan la expresión normal de los genes Hox, el resultado es que la identidad de los segmentos puede ser transformada en la de otros segmentos del animal.
