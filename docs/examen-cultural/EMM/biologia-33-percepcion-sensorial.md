@@ -53,7 +53,7 @@ problemática inicial"—.
 
 ## Cobertura actual
 
-**EN CURSO.** Cubiertas las pp. 778–791: sensación y percepción y la organización
+**EN CURSO.** Cubiertas las pp. 778–794: sensación y percepción y la organización
 jerárquica del sistema nervioso; adaptación sensorial, transducción y codificación;
 los cinco tipos de receptores y las vías nerviosas; el sistema visual completo
 (anatomía del ojo, cuadro 33-1 de modalidades sensoriales, visión estereoscópica,
@@ -61,20 +61,22 @@ retina —conos y bastones—, nervio óptico, punto ciego, fóvea y espectro vi
 audición (oído externo, medio e interno, la cóclea y el equilibrio); el gusto, el
 olfato y el sistema somatosensorial; el procesamiento de la información (Broca,
 localizacionistas/globalistas, plasticidad) y los sabores; el recuadro 33-1 de
-comunicación química (feromonas y órgano vomeronasal); y el encéfalo de los
-vertebrados (sustancia blanca y gris, tronco cerebral, cerebelo, diencéfalo —tálamo,
-hipotálamo, glándula pineal—, telencéfalo, cuerpo calloso y la corteza cerebral hasta
-sus lóbulos).
+comunicación química (feromonas y órgano vomeronasal); el encéfalo de los vertebrados
+(sustancia blanca y gris, tronco cerebral, cerebelo, diencéfalo —tálamo, hipotálamo,
+glándula pineal—, telencéfalo, cuerpo calloso y la corteza cerebral hasta sus
+lóbulos); el recuadro 33-2 (la neurociencia y sus métodos: EEG, TC, RM, TEP y RMf);
+las áreas funcionales de la corteza (motora, somatosensorial, auditiva, visual), los
+homúnculos y las cortezas de asociación; y la lateralización de los hemisferios (con
+la formación reticular).
 
 **Pendiente:** el capítulo 33 está **EN CURSO**. Sigue desde la página impresa
-**792** en adelante: las áreas funcionales de la corteza (motora, somatosensorial,
-auditiva, visual), los homúnculos, las cortezas de asociación, la lateralización de
-los hemisferios, el aprendizaje y la memoria, y la respuesta motora (la contracción
-muscular y el sarcómero), hasta antes del ensayo de cierre "Retomando la problemática
-inicial" y los ejercicios. El capítulo 33 termina en la p. 810; el capítulo 34 (El
-sistema endocrino) empieza en la p. 811. Este capítulo lo pide **sólo la EMO**;
-mientras no se cierre, este archivo sostiene su propio pendiente. **Recordatorio de
-coordinación:** los capítulos 14, 15 y 37 son de otras sesiones.
+**795** en adelante: el aprendizaje y la memoria (la babosa *Aplysia*, la habituación
+y la sensibilización), y la respuesta motora (la contracción muscular y el sarcómero),
+hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios.
+El capítulo 33 termina en la p. 810; el capítulo 34 (El sistema endocrino) empieza en
+la p. 811. Este capítulo lo pide **sólo la EMO**; mientras no se cierre, este archivo
+sostiene su propio pendiente. **Recordatorio de coordinación:** los capítulos 14, 15 y
+37 son de otras sesiones.
 
 ## Cómo se escriben estos reactivos
 
@@ -1826,22 +1828,298 @@ Según el libro de Biología, ¿en qué cuatro lóbulos está subdividido de man
 
 El córtex en cada hemisferio cerebral está subdividido de manera externa en cuatro lóbulos por dos profundas cisuras o surcos en la superficie: los lóbulos frontal, parietal, temporal y occipital.
 
+## Sub-lote 17 · La neocorteza y el recuadro 33-2 · La neurociencia y sus métodos (p. 792)
+
+### 115
+
+De acuerdo con el libro de Biología, además de la arquicorteza y la paleocorteza, ¿qué tercer tipo de corteza se agrega en los mamíferos?
+
+- A. La neocorteza
+- B. La sustancia blanca
+- C. El cuerpo calloso
+- D. La corteza visual
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 792
+**Subtema:** Percepción sensorial · la corteza cerebral
+
+En todos los vertebrados se pueden reconocer dos tipos de cortezas: la arquicorteza y la paleocorteza; en los mamíferos se agrega un tercer tipo: la neocorteza.
+
+### 116
+
+En relación con el libro de Biología, ¿cuál es la causa del gran tamaño de los hemisferios cerebrales de los mamíferos?
+
+- A. El crecimiento y el desarrollo de la neocorteza
+- B. El aumento del líquido cefalorraquídeo
+- C. El engrosamiento de los huesos del cráneo
+- D. La multiplicación de las glándulas pineales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 792
+**Subtema:** Percepción sensorial · la corteza cerebral
+
+La causa del gran tamaño de los hemisferios cerebrales de los mamíferos es precisamente el crecimiento y el desarrollo de la neocorteza, la cual desplazó a las otras cortezas hacia las regiones basales del cerebro.
+
+### 117
+
+Según el libro de Biología, según el recuadro 33-2, ¿qué es el electroencefalograma (EEG)?
+
+- A. El registro de la actividad bioeléctrica en distintos puntos de la corteza cerebral, registrada sobre el cuero cabelludo
+- B. La representación detallada de los tejidos blandos obtenida con rayos X
+- C. El estudio del encéfalo mediante microelectrodos insertados en el cerebro
+- D. La medición del latido cardíaco y la presión arterial
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 792
+**Subtema:** Percepción sensorial · la neurociencia y sus métodos
+
+El electroencefalograma (EEG) es el registro de la actividad bioeléctrica en distintos puntos de la corteza cerebral, registrada sobre el cuero cabelludo (no invasivo).
+
+### 118
+
+De acuerdo con el libro de Biología, según el recuadro 33-2, ¿para qué es una herramienta útil la electroencefalografía?
+
+- A. Para el estudio del sueño y sus patologías, y para el diagnóstico y el registro de enfermedades, como la epilepsia y los tumores cerebrales
+- B. Para medir la cantidad de feromonas presentes en el ambiente
+- C. Para regenerar las neuronas dañadas del sistema nervioso central
+- D. Para producir la hormona melatonina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 792
+**Subtema:** Percepción sensorial · la neurociencia y sus métodos
+
+La electroencefalografía es una herramienta útil para el estudio del sueño y sus patologías, y para el diagnóstico y el registro de enfermedades, como la epilepsia y los tumores cerebrales.
+
+### 119
+
+En relación con el libro de Biología, según el recuadro 33-2, ¿qué brindan la tomografía computarizada (TC) y las imágenes por resonancia magnética (RM)?
+
+- A. Una representación detallada de los tejidos blandos
+- B. Un registro de la actividad bioeléctrica del cuero cabelludo
+- C. La medición de la propiocepción y el dolor
+- D. La secreción de las hormonas del hipotálamo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 792
+**Subtema:** Percepción sensorial · la neurociencia y sus métodos
+
+Al igual que la tomografía computarizada (TC), las imágenes por resonancia magnética (RM) brindan una representación detallada de los tejidos blandos.
+
+### 120
+
+Según el libro de Biología, según el recuadro 33-2, ¿qué son la tomografía por emisión de positrones (TEP) y la resonancia magnética funcional (RMf)?
+
+- A. Estudios funcionales del encéfalo in vivo, que se utilizan tanto para la evaluación clínica de pacientes como para la investigación del funcionamiento cerebral
+- B. Registros de la actividad bioeléctrica sobre el cuero cabelludo
+- C. Técnicas para medir el latido cardíaco y la respiración
+- D. Métodos para teñir la sustancia blanca y la sustancia gris
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 792
+**Subtema:** Percepción sensorial · la neurociencia y sus métodos
+
+La tomografía por emisión de positrones (TEP) y la resonancia magnética funcional (RMf) son estudios funcionales del encéfalo in vivo, que se utilizan tanto para la evaluación clínica de pacientes como para la investigación del funcionamiento cerebral.
+
+## Sub-lote 18 · Áreas funcionales de la corteza y los homúnculos (p. 793)
+
+### 121
+
+De acuerdo con el libro de Biología, ¿qué función cumple la corteza motora, ubicada delante de la cisura central en el lóbulo frontal?
+
+- A. Planifica y controla la actividad voluntaria de los músculos esqueléticos
+- B. Recibe las señales táctiles y la información sobre la temperatura y el dolor
+- C. Procesa las señales enviadas por las neuronas sensoriales del oído
+- D. Procesa la información visual proveniente de la retina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 793
+**Subtema:** Percepción sensorial · la corteza cerebral
+
+La corteza motora, ubicada delante de la cisura central en el lóbulo frontal, planifica y controla la actividad voluntaria de los músculos esqueléticos.
+
+### 122
+
+En relación con el libro de Biología, ¿qué recibe la corteza somatosensorial, que forma parte del lóbulo parietal?
+
+- A. Señales táctiles y estímulos relacionados con la propiocepción, la temperatura y el dolor
+- B. Las órdenes para la actividad voluntaria de los músculos esqueléticos
+- C. Las señales del oído sobre las características del sonido
+- D. La información visual proveniente de la fóvea
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 793
+**Subtema:** Percepción sensorial · la corteza cerebral
+
+La corteza somatosensorial, ubicada por detrás de la cisura central, forma parte del lóbulo parietal y recibe señales táctiles y estímulos relacionados con la propiocepción (percepción del propio cuerpo), la temperatura y el dolor.
+
+### 123
+
+Según el libro de Biología, ¿dónde se localiza la corteza auditiva y qué procesa?
+
+- A. En el lóbulo temporal superior, y procesa señales enviadas por las neuronas sensoriales del oído que responden a diferentes características del sonido
+- B. En el lóbulo occipital, y procesa la información visual de la retina
+- C. En el lóbulo frontal, y controla la actividad voluntaria de los músculos
+- D. En el lóbulo parietal, y recibe las señales táctiles del cuerpo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 793
+**Subtema:** Percepción sensorial · la corteza cerebral
+
+La corteza auditiva, localizada en el lóbulo temporal superior, procesa señales enviadas por las neuronas sensoriales del oído que responden a diferentes características del sonido.
+
+### 124
+
+De acuerdo con el libro de Biología, ¿qué lóbulo ocupa la corteza visual?
+
+- A. El lóbulo occipital
+- B. El lóbulo frontal
+- C. El lóbulo parietal
+- D. El lóbulo temporal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 793
+**Subtema:** Percepción sensorial · la corteza cerebral
+
+La corteza visual ocupa el lóbulo occipital.
+
+### 125
+
+En relación con el libro de Biología, ¿por qué se denominaron "homúnculo sensorial" y "homúnculo motor" a ciertas regiones del cerebro?
+
+- A. Porque las áreas del cuerpo se representaban sobre la corteza, superponiendo el dibujo de un humanoide con las áreas cerebrales involucradas
+- B. Porque tienen forma de un pequeño oído dentro del cerebro
+- C. Porque son las únicas regiones del cerebro que carecen de neuronas
+- D. Porque sólo existen en el hemisferio derecho
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 793
+**Subtema:** Percepción sensorial · la corteza cerebral
+
+En un origen, estas regiones del cerebro se denominaron "homúnculo sensorial" y "homúnculo motor", debido a que las áreas del cuerpo se representaban sobre la corteza, superponiendo el dibujo de un humanoide con las áreas cerebrales involucradas.
+
+### 126
+
+Según el libro de Biología, ¿qué hacen las cortezas de asociación o áreas de procesamiento intrínseco?
+
+- A. Asocian e integran diversa información motora y sensorial
+- B. Controlan exclusivamente el latido cardíaco y la respiración
+- C. Producen las hormonas del sistema endocrino
+- D. Conducen los impulsos desde la médula espinal hacia los músculos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 793
+**Subtema:** Percepción sensorial · la corteza cerebral
+
+Las denominadas cortezas de asociación o áreas de procesamiento intrínseco (véase fig. 33-11c) asocian e integran diversa información motora y sensorial.
+
+## Sub-lote 19 · Lateralización de los hemisferios y la formación reticular (p. 794)
+
+### 127
+
+De acuerdo con el libro de Biología, ¿qué significa que los hemisferios cerebrales sean funcionalmente diferentes?
+
+- A. Que existe una lateralización funcional
+- B. Que uno de ellos carece por completo de neuronas
+- C. Que ambos controlan el mismo lado del cuerpo
+- D. Que ninguno de los dos interviene en el lenguaje
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 794
+**Subtema:** Percepción sensorial · lateralización de los hemisferios
+
+Los hemisferios cerebrales son funcionalmente diferentes, es decir, existe una lateralización funcional.
+
+### 128
+
+En relación con el libro de Biología, ¿en qué se especializa el hemisferio izquierdo?
+
+- A. En los procesos de pensamiento lógico y analítico secuenciales, en especial en las funciones verbales (lenguaje) y matemáticas
+- B. En el pensamiento sintético y en las relaciones visuales y espaciales
+- C. En el reconocimiento de rostros y de temas musicales
+- D. En la construcción de la imagen corporal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 794
+**Subtema:** Percepción sensorial · lateralización de los hemisferios
+
+Hemisferio izquierdo: se especializa en los procesos de pensamiento lógico y analítico secuenciales, es decir, en descomponer las cosas en sus partes integrantes, en especial en las funciones verbales (lenguaje) y matemáticas; procesa la información de un componente a la vez.
+
+### 129
+
+Según el libro de Biología, ¿en qué se especializa el hemisferio derecho?
+
+- A. En el pensamiento sintético y en las relaciones visuales y espaciales, la identificación de objetos por su forma, las actividades artísticas y el reconocimiento de rostros
+- B. En el pensamiento lógico y analítico secuencial
+- C. En las funciones verbales (lenguaje) y matemáticas
+- D. En descomponer las cosas en sus partes integrantes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 794
+**Subtema:** Percepción sensorial · lateralización de los hemisferios
+
+Hemisferio derecho: se especializa en el pensamiento sintético y en las relaciones visuales y espaciales, es decir, en unir componentes diferentes y formar un todo (en particular, en tareas espaciales), en la identificación de objetos por su forma, en las actividades artísticas, en el reconocimiento de temas musicales, en la construcción de la imagen corporal y en el reconocimiento de rostros.
+
+### 130
+
+De acuerdo con el libro de Biología, ¿por qué es necesario el cuerpo calloso?
+
+- A. Para que ambos hemisferios funcionen en forma cooperativa
+- B. Para producir la hormona melatonina
+- C. Para filtrar la información entrante irrelevante
+- D. Para conducir el sonido hasta el oído interno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 794
+**Subtema:** Percepción sensorial · lateralización de los hemisferios
+
+El cuerpo calloso es necesario para que ambos hemisferios funcionen en forma cooperativa.
+
+### 131
+
+En relación con el libro de Biología, ¿con qué se relaciona la formación reticular?
+
+- A. Con el estado de alerta y de conciencia
+- B. Con la producción de las hormonas sexuales
+- C. Con la contracción de los músculos esqueléticos
+- D. Con la transducción del sonido en la cóclea
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 794
+**Subtema:** Percepción sensorial · redes integradoras del encéfalo
+
+Un conjunto de estas redes, la formación reticular, se relaciona con el estado de alerta y de conciencia.
+
+### 132
+
+Según el libro de Biología, ¿qué hace la red laxa de neuronas de la formación reticular con la información entrante?
+
+- A. La filtra y diferencia la importante de la irrelevante
+- B. La convierte en hormonas del sistema endocrino
+- C. La bloquea por completo durante la vigilia
+- D. La envía únicamente al epitelio olfatorio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 794
+**Subtema:** Percepción sensorial · redes integradoras del encéfalo
+
+Esta red laxa de neuronas filtra la información entrante y diferencia la importante de la irrelevante.
+
 ---
 
 **Pendiente:** el capítulo 33 está **EN CURSO** (ver la sección "Cobertura actual").
-Las tandas cubren pp. 778–791: introducción, receptores, sistema visual, audición y
+Las tandas cubren pp. 778–794: introducción, receptores, sistema visual, audición y
 equilibrio, sentidos químicos y somatosensorial, el procesamiento de la información
 (Broca, localizacionistas/globalistas, plasticidad), los sabores y el epitelio
-olfatorio, el recuadro 33-1 de comunicación química (feromonas y órgano vomeronasal) y
+olfatorio, el recuadro 33-1 de comunicación química (feromonas y órgano vomeronasal),
 el encéfalo de los vertebrados (sustancia blanca y gris, tronco cerebral, cerebelo,
-diencéfalo —tálamo, hipotálamo, glándula pineal—, telencéfalo, cuerpo calloso y la
-corteza cerebral hasta sus lóbulos). Falta desde la p. 792: las áreas funcionales de la
+diencéfalo, telencéfalo, cuerpo calloso y la corteza), el recuadro 33-2 (la
+neurociencia y sus métodos: EEG, TC, RM, TEP y RMf), las áreas funcionales de la
 corteza (motora, somatosensorial, auditiva, visual), los homúnculos, las cortezas de
-asociación, la lateralización de los hemisferios, el aprendizaje y la memoria, y la
-respuesta motora (la contracción muscular y el sarcómero), hasta antes del ensayo de
-cierre "Retomando la problemática inicial" y los ejercicios. **El capítulo 33 termina
-en la p. 810; el capítulo 34 (El sistema endocrino) empieza en la p. 811** (hoja 857,
-verificado de la hoja). Lo pide **sólo la EMO**. Los capítulos 14, 15 y 37 son de otras
-sesiones.
+asociación y la lateralización de los hemisferios. Falta desde la p. 795: el
+aprendizaje y la memoria, y la respuesta motora (la contracción muscular y el
+sarcómero), hasta antes del ensayo de cierre "Retomando la problemática inicial" y los
+ejercicios. **El capítulo 33 termina en la p. 810; el capítulo 34 (El sistema
+endocrino) empieza en la p. 811** (hoja 857, verificado de la hoja). Lo pide **sólo la
+EMO**. Los capítulos 14, 15 y 37 son de otras sesiones.
 
-**Reactivos en este archivo:** 114
+**Reactivos en este archivo:** 132
