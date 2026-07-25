@@ -68,20 +68,23 @@ lóbulos); el recuadro 33-2 (la neurociencia y sus métodos: EEG, TC, RM, TEP y 
 las áreas funcionales de la corteza (motora, somatosensorial, auditiva, visual), los
 homúnculos y las cortezas de asociación; la lateralización de los hemisferios (con la
 formación reticular); la memoria y el procesamiento de la información (memoria de
-corto y largo plazo, el hipocampo, los tipos de memoria, la amígdala); y el
-aprendizaje (plasticidad neuronal, *Aplysia* y Kandel, habituación y sensibilización,
+corto y largo plazo, el hipocampo, los tipos de memoria, la amígdala); el aprendizaje
+(plasticidad neuronal, *Aplysia* y Kandel, habituación y sensibilización,
 condicionamiento clásico de Pavlov, aprendizaje social e imitativo y las neuronas
-espejo). Las páginas de ENSAYO (recuadros 33-x y "Biología en contexto social", pp.
-796 y 798) quedan fuera por no ser recuerdo literal.
+espejo); la regeneración del sistema nervioso; y la respuesta motora (los sistemas
+sensoriales, el músculo esquelético como efector somático, el cardíaco y el liso como
+efectores autónomos, y las tres clases de movimientos —reflejos, patrones rítmicos y
+voluntarios—). Las páginas de ENSAYO (recuadros 33-x y "Biología en contexto social",
+pp. 796 y 798) quedan fuera por no ser recuerdo literal.
 
 **Pendiente:** el capítulo 33 está **EN CURSO**. Sigue desde la página impresa
-**799** en adelante: la regeneración del sistema nervioso, el mecanismo sináptico de
-la habituación y la sensibilización (*Aplysia*), y la respuesta motora (la contracción
-muscular y el sarcómero, pp. 800–810), hasta antes del ensayo de cierre "Retomando la
-problemática inicial" y los ejercicios. El capítulo 33 termina en la p. 810; el
-capítulo 34 (El sistema endocrino) empieza en la p. 811. Este capítulo lo pide **sólo
-la EMO**; mientras no se cierre, este archivo sostiene su propio pendiente.
-**Recordatorio de coordinación:** los capítulos 14, 15 y 37 son de otras sesiones.
+**801** en adelante: la estructura del músculo esquelético y el mecanismo de la
+contracción muscular (el sarcómero, la actina y la miosina, las líneas Z y los puentes
+cruzados, pp. 802–810), hasta antes del ensayo de cierre "Retomando la problemática
+inicial" y los ejercicios. El capítulo 33 termina en la p. 810; el capítulo 34 (El
+sistema endocrino) empieza en la p. 811. Este capítulo lo pide **sólo la EMO**;
+mientras no se cierre, este archivo sostiene su propio pendiente. **Recordatorio de
+coordinación:** los capítulos 14, 15 y 37 son de otras sesiones.
 
 ## Cómo se escriben estos reactivos
 
@@ -2385,25 +2388,224 @@ Según el libro de Biología, ¿en qué participan las neuronas espejo de las co
 
 En los primates –incluidos los humanos– se ha encontrado que las neuronas espejo de las cortezas frontal y parietal participan directamente en la comprensión de las conductas de los demás, intervienen en el aprendizaje por imitación y en el procesamiento del lenguaje.
 
+## Sub-lote 23 · Regeneración del sistema nervioso y el mecanismo de la habituación y la sensibilización (p. 799)
+
+### 151
+
+De acuerdo con el libro de Biología, ¿qué efectos puede tener una lesión o enfermedad en el sistema nervioso?
+
+- A. Efectos devastadores al limitar enormemente, distorsionar o aun impedir la percepción sensorial, la respuesta motora o el desempeño cognitivo
+- B. Un aumento inmediato de la capacidad regenerativa de todas las neuronas
+- C. La producción excesiva de feromonas
+- D. La sustitución de la sustancia gris por sustancia blanca
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 799
+**Subtema:** Percepción sensorial · regeneración del sistema nervioso
+
+Una lesión o enfermedad en el sistema nervioso puede tener efectos devastadores al limitar enormemente, distorsionar o aun impedir la percepción sensorial, la respuesta motora o el desempeño cognitivo.
+
+### 152
+
+En relación con el libro de Biología, ¿qué axones mantienen cierta capacidad regenerativa?
+
+- A. Los del sistema nervioso periférico
+- B. Los del encéfalo humano adulto
+- C. Los de la médula espinal
+- D. Los de la corteza cerebral
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 799
+**Subtema:** Percepción sensorial · regeneración del sistema nervioso
+
+Estos daños no siempre son irreversibles, ya que, en ocasiones, los axones, en especial los del sistema nervioso periférico, mantienen cierta capacidad regenerativa.
+
+### 153
+
+Según el libro de Biología, ¿por qué las lesiones cerebrales o en la médula espinal, por lo general, son irreversibles?
+
+- A. Porque las células nerviosas maduras no se regeneran y el proceso de regeneración prácticamente no ocurre en el sistema nervioso central
+- B. Porque el sistema nervioso central regenera sus neuronas con demasiada rapidez
+- C. Porque los axones periféricos invaden el cerebro
+- D. Porque las neuronas maduras se dividen sin control
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 799
+**Subtema:** Percepción sensorial · regeneración del sistema nervioso
+
+Las células nerviosas maduras no se regeneran, de modo que el proceso de regeneración prácticamente no ocurre en el sistema nervioso central, razón por la cual las lesiones cerebrales o en la médula espinal, por lo general, son irreversibles.
+
+### 154
+
+De acuerdo con el libro de Biología, ¿qué ocurre con la babosa si se la toca en forma repetida?
+
+- A. Se habitúa al estímulo y deja de retraerse ante nuevos toques
+- B. Se vuelve cada vez más sensible al estímulo
+- C. Libera feromonas al agua
+- D. Pierde por completo sus branquias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 799
+**Subtema:** Percepción sensorial · aprendizaje
+
+Si se la toca en forma repetida, la babosa se habitúa al estímulo y deja de retraerse ante nuevos toques.
+
+### 155
+
+En relación con el libro de Biología, ¿con qué está asociada la habituación?
+
+- A. Con una disminución gradual en la cantidad de neurotransmisor liberado por las neuronas sensoriales que se estimulan de forma repetida
+- B. Con un incremento gradual en la cantidad de neurotransmisor liberado
+- C. Con la destrucción de las neuronas motoras de la branquia
+- D. Con la producción de melatonina en la sinapsis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 799
+**Subtema:** Percepción sensorial · aprendizaje
+
+La habituación, que se considera una forma muy simple de aprendizaje, está asociada con una disminución gradual en la cantidad de neurotransmisor liberado por las neuronas sensoriales que se estimulan de forma repetida.
+
+### 156
+
+Según el libro de Biología, ¿qué es la sensibilización en la sinapsis?
+
+- A. Un fenómeno que tiene un efecto opuesto al de la habituación y en el cual existe un incremento gradual en la cantidad de neurotransmisor liberado por las neuronas sensoriales
+- B. Una disminución gradual en la cantidad de neurotransmisor liberado
+- C. La pérdida definitiva de la capacidad de respuesta de la branquia
+- D. La transferencia de la información a la memoria de largo plazo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 799
+**Subtema:** Percepción sensorial · aprendizaje
+
+En la sinapsis, esto se denomina sensibilización, un fenómeno que tiene un efecto opuesto al de la habituación y en el cual existe un incremento gradual en la cantidad de neurotransmisor liberado por las neuronas sensoriales.
+
+## Sub-lote 24 · La respuesta a la información: la contracción muscular (p. 800)
+
+### 157
+
+De acuerdo con el libro de Biología, ¿qué proporcionan los sistemas sensoriales?
+
+- A. Una representación interna del mundo exterior y de la situación del cuerpo en el espacio
+- B. La energía química necesaria para la contracción muscular
+- C. Las hormonas del sistema endocrino
+- D. La regeneración de las neuronas dañadas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 800
+**Subtema:** Percepción sensorial · respuesta motora
+
+Los sistemas sensoriales proporcionan una representación interna del mundo exterior y de la situación del cuerpo en el espacio.
+
+### 158
+
+En relación con el libro de Biología, ¿de qué depende la respuesta comportamental de un organismo a la información sensorial?
+
+- A. Del músculo esquelético, el efector del sistema nervioso somático
+- B. De la glándula pineal, el efector del sistema endocrino
+- C. Del epitelio olfatorio, el efector del sistema sensorial
+- D. Del hipocampo, el efector de la memoria
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 800
+**Subtema:** Percepción sensorial · respuesta motora
+
+La respuesta comportamental de un organismo a la información sensorial depende del músculo esquelético, el efector del sistema nervioso somático.
+
+### 159
+
+Según el libro de Biología, ¿de qué sistema son efectores los músculos cardíaco y liso?
+
+- A. Del sistema nervioso autónomo
+- B. Del sistema nervioso somático
+- C. Del sistema endocrino
+- D. Del sistema límbico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 800
+**Subtema:** Percepción sensorial · respuesta motora
+
+Gran parte de las respuestas emocionales y muchos otros ajustes en el ambiente interno también dependen de músculos como el cardíaco y el liso, dos de los efectores del sistema nervioso autónomo.
+
+### 160
+
+De acuerdo con el libro de Biología, ¿en cuántas grandes clases pueden dividirse los movimientos?
+
+- A. En tres grandes clases
+- B. En dos grandes clases
+- C. En cuatro grandes clases
+- D. En cinco grandes clases
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 800
+**Subtema:** Percepción sensorial · respuesta motora
+
+Los movimientos pueden dividirse en tres grandes clases, que se superponen y pueden distinguirse tanto por su complejidad como por el grado del control que el organismo ejerce sobre ellos.
+
+### 161
+
+En relación con el libro de Biología, ¿cómo son las respuestas reflejas, como el reflejo de retirada de un miembro frente a un estímulo doloroso?
+
+- A. Innatas e involuntarias
+- B. Aprendidas y voluntarias
+- C. Rítmicas y repetitivas
+- D. Dirigidas hacia un objetivo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 800
+**Subtema:** Percepción sensorial · respuesta motora
+
+Respuestas reflejas, innatas e involuntarias, como el reflejo de retirada de un miembro frente a un estímulo doloroso.
+
+### 162
+
+Según el libro de Biología, ¿qué son ejemplos de patrones motores rítmicos?
+
+- A. Caminar o masticar
+- B. El reflejo de retirada de un miembro
+- C. Resolver un problema matemático
+- D. El latido del corazón y la respiración
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 800
+**Subtema:** Percepción sensorial · respuesta motora
+
+Patrones motores rítmicos, como caminar o masticar, que combinan tanto características de los actos reflejos como de acciones voluntarias.
+
+### 163
+
+De acuerdo con el libro de Biología, ¿qué caracteriza a los movimientos voluntarios?
+
+- A. Representan el mayor grado de complejidad, tienen un propósito, están dirigidos hacia un objetivo y pueden ser aprendidos
+- B. Son innatos e involuntarios
+- C. Son rítmicos, como caminar o masticar
+- D. No requieren ningún control por parte del organismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 800
+**Subtema:** Percepción sensorial · respuesta motora
+
+Movimientos voluntarios, que representan el mayor grado de complejidad. Estos movimientos tienen un propósito, están dirigidos hacia un objetivo y pueden ser aprendidos.
+
 ---
 
 **Pendiente:** el capítulo 33 está **EN CURSO** (ver la sección "Cobertura actual").
-Las tandas cubren pp. 778–797: introducción, receptores, sistema visual, audición y
+Las tandas cubren pp. 778–800: introducción, receptores, sistema visual, audición y
 equilibrio, sentidos químicos y somatosensorial, el procesamiento de la información,
 los sabores y el epitelio olfatorio, el recuadro 33-1 (comunicación química), el
 encéfalo de los vertebrados, el recuadro 33-2 (la neurociencia y sus métodos), las
 áreas funcionales de la corteza, los homúnculos, las cortezas de asociación, la
-lateralización de los hemisferios, la memoria y el procesamiento de la información
-(memoria de corto y largo plazo, hipocampo, tipos de memoria, amígdala) y el
+lateralización de los hemisferios, la memoria y el procesamiento de la información, el
 aprendizaje (plasticidad neuronal, Aplysia, habituación y sensibilización,
-condicionamiento clásico, aprendizaje social e imitativo, neuronas espejo). Falta
-desde la p. 799: la regeneración del sistema nervioso, el mecanismo sináptico de la
-habituación y la sensibilización, y la respuesta motora (la contracción muscular y el
-sarcómero, pp. 800–810), hasta antes del ensayo de cierre "Retomando la problemática
-inicial" y los ejercicios. Las páginas de ENSAYO (recuadros 33-x y "Biología en
-contexto social", pp. 796 y 798) quedan fuera por no ser recuerdo literal. **El
-capítulo 33 termina en la p. 810; el capítulo 34 (El sistema endocrino) empieza en la
-p. 811** (hoja 857, verificado de la hoja). Lo pide **sólo la EMO**. Los capítulos 14,
-15 y 37 son de otras sesiones.
+condicionamiento clásico, aprendizaje social e imitativo, neuronas espejo), la
+regeneración del sistema nervioso y la respuesta motora (los sistemas sensoriales, los
+efectores muscular esquelético/cardíaco/liso y las tres clases de movimientos). Falta
+desde la p. 801: la estructura del músculo esquelético y el mecanismo de la contracción
+muscular (el sarcómero, la actina y la miosina, las líneas Z y los puentes cruzados,
+pp. 802–810), hasta antes del ensayo de cierre "Retomando la problemática inicial" y
+los ejercicios. Las páginas de ENSAYO (recuadros 33-x y "Biología en contexto social")
+quedan fuera por no ser recuerdo literal. **El capítulo 33 termina en la p. 810; el
+capítulo 34 (El sistema endocrino) empieza en la p. 811** (hoja 857, verificado de la
+hoja). Lo pide **sólo la EMO**. Los capítulos 14, 15 y 37 son de otras sesiones.
 
-**Reactivos en este archivo:** 150
+**Reactivos en este archivo:** 163
