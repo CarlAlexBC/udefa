@@ -16,9 +16,10 @@ import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
 import {
   AlertCircle,
+  BookOpen,
   Brain,
-  Building2,
   Clock,
+  ListChecks,
   Loader2,
   Scale,
   Star,
@@ -39,6 +40,7 @@ type Stats = {
   }
   reactivos: {
     total: number
+    cultural: number
     porFase: Array<{ examenId: number; nombre: string; total: number }>
   }
   distribucionPorPlantel: Array<{
@@ -100,6 +102,14 @@ export default function AdminHomePage() {
       ? Math.round((stats.sesiones.completadas / stats.sesiones.total) * 100)
       : 0
 
+  // El banco psicológico = suma de las 3 fases (no `reactivos.total`, que
+  // incluye lo cultural). Se calcula igual que el badge del menú para que
+  // ambos muestren el mismo número.
+  const reactivosPsico = stats.reactivos.porFase.reduce(
+    (acc, f) => acc + f.total,
+    0,
+  )
+
   return (
     <div>
       <div className="mb-6">
@@ -115,7 +125,7 @@ export default function AdminHomePage() {
       </div>
 
       {/* Cards grandes */}
-      <div className="mb-6 grid grid-cols-2 gap-3 lg:grid-cols-4">
+      <div className="mb-6 grid grid-cols-2 gap-3 lg:grid-cols-5">
         <StatCard
           icon={<Users className="h-4 w-4 text-accent" />}
           titulo="Usuarios"
@@ -136,11 +146,18 @@ export default function AdminHomePage() {
           sub="respuestas registradas totales"
         />
         <StatCard
-          icon={<Building2 className="h-4 w-4 text-accent" />}
-          titulo="Reactivos"
-          valor={stats.reactivos.total}
-          sub="en el banco"
+          icon={<ListChecks className="h-4 w-4 text-accent" />}
+          titulo="Banco psicológico"
+          valor={reactivosPsico}
+          sub="reactivos · las 3 fases"
           href="/inicio/admin/reactivos"
+        />
+        <StatCard
+          icon={<BookOpen className="h-4 w-4 text-accent" />}
+          titulo="Banco cultural"
+          valor={stats.reactivos.cultural}
+          sub="reactivos · por libro"
+          href="/inicio/admin/banco-cultural"
         />
       </div>
 

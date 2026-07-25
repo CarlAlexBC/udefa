@@ -25,6 +25,7 @@ export class AdminService {
       sesionesAbandonadas,
       intentosTotal,
       reactivosTotal,
+      reactivosCulturalTotal,
       distribucionPorPlantelRaw,
       reactivosPorExamenRaw,
       intentosPorExamenRaw,
@@ -44,6 +45,10 @@ export class AdminService {
       }),
       this.prisma.intentoExamen.count(),
       this.prisma.reactivo.count(),
+      // Solo los reactivos culturales: cuelgan de un Tema del banco (temaId),
+      // no de un Bloque. `reactivosTotal` los incluye; este count los aísla
+      // para que el Dashboard pueda separar el banco psicológico del cultural.
+      this.prisma.reactivo.count({ where: { temaId: { not: null } } }),
       // groupBy usuarios por plantelId + join a nombre del plantel
       this.prisma.usuario.groupBy({
         by: ['plantelId'],
@@ -126,7 +131,11 @@ export class AdminService {
         abandonadas: sesionesAbandonadas,
       },
       intentos: { total: intentosTotal, porFase: intentosPorFase },
-      reactivos: { total: reactivosTotal, porFase: reactivosPorFase },
+      reactivos: {
+        total: reactivosTotal,
+        cultural: reactivosCulturalTotal,
+        porFase: reactivosPorFase,
+      },
       distribucionPorPlantel,
       recientes,
     };
