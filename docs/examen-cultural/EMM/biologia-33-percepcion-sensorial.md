@@ -996,15 +996,137 @@ En relación con el libro de Biología, ¿qué mecanorreceptores se sitúan sobr
 
 Sobre una de las membranas internas de la cóclea se sitúan los mecanorreceptores, células pilosas con estereocilios, que traducen los estímulos mecánicos que llegan a su superficie en forma de ondas en impulsos.
 
+## Sub-lote 10 · El equilibrio y la cóclea (p. 785)
+
+### 61
+
+De acuerdo con el libro de Biología, los canales semicirculares, el utrículo y el sáculo del oído interno, que forman el aparato vestibular, ¿con qué sentido están relacionados?
+
+- A. Con el sentido del equilibrio y de la posición del cuerpo en el espacio
+- B. Con el sentido de la audición
+- C. Con el sentido del gusto
+- D. Con el sentido del olfato
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 785
+**Subtema:** Percepción sensorial · equilibrio
+
+Los canales semicirculares y otros órganos, como el utrículo y el sáculo (que forman parte del aparato vestibular), no están relacionados con la audición, sino con el sentido del equilibrio y de la posición del cuerpo en el espacio.
+
+### 62
+
+En relación con el libro de Biología, ¿a qué responden las células ciliadas del aparato vestibular, inmersas en un líquido viscoso?
+
+- A. A cambios en la posición de la cabeza respecto de la gravedad y la aceleración
+- B. A las variaciones en la intensidad de la luz
+- C. A la presencia de sustancias químicas disueltas
+- D. A los cambios de temperatura de la piel
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 785
+**Subtema:** Percepción sensorial · equilibrio
+
+Dentro de estos órganos existen células ciliadas inmersas en un líquido viscoso, que responden a cambios en la posición de la cabeza respecto de la gravedad y la aceleración.
+
+### 63
+
+De acuerdo con el libro de Biología, ¿cómo se denominan los pequeños cuerpos de carbonato de calcio que deforman y estimulan los receptores del aparato vestibular?
+
+- A. Otolitos
+- B. Estereocilios
+- C. Estribos
+- D. Ampollas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 785
+**Subtema:** Percepción sensorial · equilibrio
+
+El movimiento vertical u horizontal produce la estimulación del sáculo y el utrículo, debido a la acción de pequeños cuerpos de carbonato de calcio denominados otolitos, que pueden deformar y estimular los receptores del aparato vestibular.
+
+### 64
+
+En relación con el libro de Biología, según la figura 33-5, ¿qué ocurre cuando las ondas de sonido entran por el oído externo?
+
+- A. Chocan con la membrana timpánica y la hacen vibrar
+- B. Estimulan directamente la fóvea de la retina
+- C. Deforman los otolitos del aparato vestibular
+- D. Se transforman en luz dentro de la cóclea
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 785
+**Subtema:** Percepción sensorial · audición
+
+Las ondas de sonido entran por el oído externo, chocan con la membrana timpánica y la hacen vibrar.
+
+### 65
+
+De acuerdo con el libro de Biología, según la figura 33-5, ¿por qué se amplifica el sonido que entró por el oído externo?
+
+- A. Porque la ventana oval es más pequeña que el tímpano, así que la presión se distribuye en un área menor y resulta mayor
+- B. Porque la ventana oval es más grande que el tímpano y reparte la presión en un área mayor
+- C. Porque los otolitos aumentan la energía de las ondas sonoras
+- D. Porque el líquido de la cóclea multiplica las vibraciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 785
+**Subtema:** Percepción sensorial · audición
+
+Como esta última membrana [la ventana oval] es más pequeña que el tímpano, la presión se distribuye en un área menor y da como resultado una presión (fuerza por unidad de área) mayor. Así, el sonido que entró por el oído externo se amplifica.
+
+### 66
+
+En relación con el libro de Biología, según la figura 33-5, ¿cómo es la cóclea?
+
+- A. Un canal espiralado dividido en dos cámaras, con un canal timpánico entre ellas, y las tres cámaras contienen líquido
+- B. Una cavidad única llena de aire limitada por el tímpano
+- C. Un tubo recto conectado a la faringe superior
+- D. Un conjunto de tres huesecillos articulados
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 785
+**Subtema:** Percepción sensorial · audición
+
+La cóclea es un canal espiralado, dividido en dos cámaras –una superior y otra inferior– con un canal timpánico entre ellas. Las tres cámaras contienen líquido.
+
+### 67
+
+De acuerdo con el libro de Biología, según la figura 33-5, ¿qué estructura forma el piso del canal timpánico de la cóclea, y qué órgano yace sobre ella?
+
+- A. La membrana basilar, sobre la cual yace el órgano de Corti
+- B. La ventana oval, sobre la cual yace el estribo
+- C. La membrana tectorial, sobre la cual yacen los otolitos
+- D. La membrana timpánica, sobre la cual yace el martillo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 785
+**Subtema:** Percepción sensorial · audición
+
+El piso del canal timpánico está formado por la membrana basilar, sobre la cual yace el órgano de Corti, el verdadero órgano sensorial.
+
+### 68
+
+En relación con el libro de Biología, según la figura 33-5, ¿cuál es el verdadero órgano sensorial de la audición, que yace sobre la membrana basilar?
+
+- A. El órgano de Corti
+- B. El aparato vestibular
+- C. La ventana oval
+- D. El pabellón auditivo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 785
+**Subtema:** Percepción sensorial · audición
+
+El piso del canal timpánico está formado por la membrana basilar, sobre la cual yace el órgano de Corti, el verdadero órgano sensorial.
+
 ---
 
 **Pendiente:** el capítulo 33 está **EN CURSO** (ver la sección "Cobertura actual").
-Las tandas cubren pp. 778–784: introducción, receptores, todo el sistema visual
-(hasta el nervio óptico, el punto ciego, la fóvea y el espectro visible) y el inicio
-de la audición (el oído externo, medio e interno). Falta desde la p. 785: el resto de
-la audición (la cóclea y la transducción del sonido, el equilibrio), el gusto y el
-olfato, el tacto, el procesamiento en los centros nerviosos superiores y la respuesta
-motora, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los
-ejercicios. Lo pide **sólo la EMO**. Los capítulos 14, 15 y 37 son de otras sesiones.
+Las tandas cubren pp. 778–785: introducción, receptores, todo el sistema visual, la
+audición (el oído externo, medio e interno, la cóclea y el órgano de Corti) y el
+equilibrio (aparato vestibular y otolitos). Falta desde la p. 786: el gusto y el
+olfato (sentidos químicos), el tacto y los demás sentidos somáticos, el procesamiento
+en los centros nerviosos superiores y la respuesta motora, hasta antes del ensayo de
+cierre "Retomando la problemática inicial" y los ejercicios. Lo pide **sólo la EMO**.
+Los capítulos 14, 15 y 37 son de otras sesiones.
 
-**Reactivos en este archivo:** 60
+**Reactivos en este archivo:** 68
