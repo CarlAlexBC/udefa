@@ -9,8 +9,10 @@ import {
   Check,
   ChevronLeft,
   Loader2,
+  Pencil,
   X,
 } from 'lucide-react'
+import { ModalEditarReactivo } from '@/components/admin/ModalEditarReactivo'
 
 /* ═══════════════════════════════════════════════════════════
    Tipos
@@ -49,6 +51,7 @@ type ReactivoCultural = {
   respuestaCorrecta: string | null
   explicacion: string | null
   referencia: string | null
+  tema: string | null
 }
 
 /* ═══════════════════════════════════════════════════════════
@@ -289,6 +292,7 @@ function ModalReactivosTema({
   const [reactivos, setReactivos] = useState<ReactivoCultural[]>([])
   const [cargando, setCargando] = useState(true)
   const [error, setError] = useState('')
+  const [editando, setEditando] = useState<ReactivoCultural | null>(null)
 
   useEffect(() => {
     apiFetch<ReactivoCultural[]>(`/cultural/temas/${tema.id}/reactivos`)
@@ -303,6 +307,7 @@ function ModalReactivosTema({
   }, [tema.id])
 
   return (
+    <>
     <div
       className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4"
       onClick={onCerrar}
@@ -345,10 +350,20 @@ function ModalReactivosTema({
             <ol className="space-y-5">
               {reactivos.map((r, i) => (
                 <li key={r.id} className="text-sm">
-                  <p className="font-medium text-foreground">
-                    <span className="text-muted-foreground">{i + 1}. </span>
-                    {r.enunciado}
-                  </p>
+                  <div className="flex items-start justify-between gap-2">
+                    <p className="font-medium text-foreground">
+                      <span className="text-muted-foreground">{i + 1}. </span>
+                      {r.enunciado}
+                    </p>
+                    <button
+                      type="button"
+                      onClick={() => setEditando(r)}
+                      className="inline-flex shrink-0 items-center gap-1 rounded-md border border-border px-2 py-0.5 text-[11px] font-medium text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+                    >
+                      <Pencil className="h-3 w-3" />
+                      Editar
+                    </button>
+                  </div>
                   {Array.isArray(r.opciones) && (
                     <ul className="mt-2 space-y-1">
                       {(r.opciones as unknown[]).map((op, j) => {
@@ -392,5 +407,20 @@ function ModalReactivosTema({
         </div>
       </div>
     </div>
+
+    {editando && (
+      <ModalEditarReactivo
+        reactivo={editando}
+        exigeCorrecta
+        onCerrar={() => setEditando(null)}
+        onGuardado={(act) => {
+          setReactivos((prev) =>
+            prev.map((r) => (r.id === act.id ? { ...r, ...act } : r)),
+          )
+          setEditando(null)
+        }}
+      />
+    )}
+    </>
   )
 }

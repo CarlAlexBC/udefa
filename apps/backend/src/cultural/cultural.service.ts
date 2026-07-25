@@ -69,6 +69,7 @@ export class CulturalService {
         respuestaCorrecta: true,
         explicacion: true,
         referencia: true,
+        tema: true,
       },
     });
   }
