@@ -1300,15 +1300,167 @@ En relación con el libro de Biología, ¿cómo se denominan los receptores quí
 
 La mayor parte de los animales tiene receptores químicos que detectan sustancias químicas que se encuentran a una cierta distancia (exterorreceptores).
 
+## Sub-lote 12 · Procesamiento de la información; los sabores y el epitelio olfatorio (p. 787)
+
+### 81
+
+De acuerdo con el libro de Biología, ¿qué propuso en 1864 el cirujano y antropólogo francés Paul Broca sobre el hemisferio izquierdo del cerebro humano?
+
+- A. Que estaba relacionado con el habla
+- B. Que estaba relacionado con la visión
+- C. Que estaba relacionado con el equilibrio
+- D. Que estaba relacionado con el olfato
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 787
+**Subtema:** Percepción sensorial · procesamiento de la información
+
+En 1864, el cirujano y antropólogo francés Paul Broca (1824-1880) propuso que el hemisferio izquierdo del cerebro humano estaba relacionado con el habla.
+
+### 82
+
+En relación con el libro de Biología, ¿qué sostenían los localizacionistas en la controversia sobre las funciones mentales?
+
+- A. Que las funciones mentales estaban localizadas en áreas determinadas de la corteza cerebral
+- B. Que las funciones mentales eran el producto de la actividad de toda la corteza
+- C. Que las funciones mentales no dependían del cerebro
+- D. Que las funciones mentales residían en el hemisferio derecho
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 787
+**Subtema:** Percepción sensorial · procesamiento de la información
+
+Se estableció una discusión entre quienes proponían que las funciones mentales estaban localizadas en áreas determinadas de la corteza cerebral –localizacionistas– y quienes sostenían que estas funciones eran el producto de la actividad de toda la corteza –globalistas–.
+
+### 83
+
+De acuerdo con el libro de Biología, ¿qué es la plasticidad que exhiben las redes nerviosas, a diferencia de los circuitos eléctricos?
+
+- A. La capacidad para experimentar modificaciones funcionales y, hasta cierto punto, anatómicas, en respuesta a la experiencia
+- B. La capacidad para conducir la electricidad sin resistencia
+- C. La incapacidad de modificarse una vez formadas
+- D. La capacidad para regenerarse tras cualquier lesión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 787
+**Subtema:** Percepción sensorial · procesamiento de la información
+
+A diferencia de los circuitos eléctricos, las redes nerviosas no son simples conexiones de cables, sino que exhiben plasticidad, es decir, tienen la capacidad para experimentar modificaciones funcionales y, hasta cierto punto, incluso anatómicas, en respuesta a la experiencia.
+
+### 84
+
+En relación con el libro de Biología, ¿qué tienen de particular los receptores olfatorios respecto del resto del sistema nervioso?
+
+- A. Son las únicas neuronas que están en contacto directo con el ambiente
+- B. Son las únicas neuronas que no conducen impulsos nerviosos
+- C. Son las únicas neuronas que carecen de núcleo
+- D. Son las únicas neuronas incapaces de regenerarse
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 787
+**Subtema:** Percepción sensorial · olfato
+
+Los receptores olfatorios son las únicas neuronas que están en contacto directo con el ambiente.
+
+### 85
+
+De acuerdo con el libro de Biología, ¿por qué el gusto y el olfato se confunden con facilidad?
+
+- A. Porque el sabor de los alimentos depende en gran medida de los estímulos que llegan al epitelio olfatorio a través de la garganta (faringe)
+- B. Porque los receptores del gusto y del olfato son la misma célula
+- C. Porque ambos sentidos se procesan en el oído interno
+- D. Porque los dos dependen exclusivamente de las papilas gustativas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 787
+**Subtema:** Percepción sensorial · gusto y olfato
+
+El sabor de los alimentos depende, en gran medida, de los estímulos que llegan hasta el epitelio olfatorio a través de la garganta (faringe) y, por ello, es que el gusto y el olfato se confunden con facilidad.
+
+### 86
+
+En relación con el libro de Biología, ¿cuáles son los cuatro "gustos" básicos que captan los receptores gustativos?
+
+- A. Dulce, ácido, amargo y salado
+- B. Dulce, ácido, picante y salado
+- C. Dulce, amargo, umami y picante
+- D. Ácido, salado, astringente y metálico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 787
+**Subtema:** Percepción sensorial · gusto
+
+Los "gustos" que captan los receptores gustativos son básicamente cuatro: dulce, ácido, amargo y salado.
+
+### 87
+
+De acuerdo con el libro de Biología, ¿cuál es el quinto sabor reconocido actualmente, que significa "delicioso" en japonés y corresponde al glutamato?
+
+- A. El umami
+- B. El picante
+- C. El astringente
+- D. El mentolado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 787
+**Subtema:** Percepción sensorial · gusto
+
+Actualmente se reconoce un quinto sabor: umami, que significa "delicioso" en japonés y que corresponde al glutamato.
+
+### 88
+
+En relación con el libro de Biología, según la figura 33-7, ¿qué es el epitelio olfatorio?
+
+- A. Un tejido especializado que recubre el techo de cada cavidad nasal y es responsable de nuestro sentido del olfato
+- B. La capa más interna del ojo que contiene los fotorreceptores
+- C. La membrana que forma el piso del canal timpánico de la cóclea
+- D. El conjunto de papilas gustativas de la lengua
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 787
+**Subtema:** Percepción sensorial · olfato
+
+El epitelio olfatorio, un tejido especializado que recubre el techo de cada cavidad nasal, es responsable de nuestro sentido del olfato.
+
+### 89
+
+De acuerdo con el libro de Biología, según la figura 33-7, ¿por qué tres tipos de células está compuesto el epitelio olfatorio?
+
+- A. Células de soporte, células basales y neurorreceptores olfatorios
+- B. Conos, bastones y células ganglionares
+- C. Células ciliadas, otolitos y células de soporte
+- D. Papilas gustativas, células de soporte y células basales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 787
+**Subtema:** Percepción sensorial · olfato
+
+El epitelio olfatorio está compuesto por tres tipos de células: células de soporte, células basales y neurorreceptores olfatorios, que son los receptores sensoriales.
+
+### 90
+
+En relación con el libro de Biología, ¿por qué la mucosa olfatoria es uno de los pocos lugares del sistema nervioso con una característica particular?
+
+- A. Porque en ella existe una regeneración neuronal activa
+- B. Porque en ella no hay ninguna neurona
+- C. Porque en ella el impulso nervioso viaja más lento
+- D. Porque en ella se procesa la visión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 787
+**Subtema:** Percepción sensorial · olfato
+
+La mucosa olfatoria es uno de los pocos lugares del sistema nervioso en donde existe una regeneración neuronal activa.
+
 ---
 
 **Pendiente:** el capítulo 33 está **EN CURSO** (ver la sección "Cobertura actual").
-Las tandas cubren pp. 778–786: introducción, receptores, sistema visual, audición y
-equilibrio, y los sentidos químicos y el sistema somatosensorial (olfato, gusto,
-tacto, propiocepción, nocicepción, estereognosia y quimiotaxis). Falta desde la
-p. 787: el resto de los sistemas químicos y del somatosensorial, el procesamiento en
-los centros nerviosos superiores y la respuesta motora, hasta antes del ensayo de
-cierre "Retomando la problemática inicial" y los ejercicios. Lo pide **sólo la EMO**.
-Los capítulos 14, 15 y 37 son de otras sesiones.
+Las tandas cubren pp. 778–787: introducción, receptores, sistema visual, audición y
+equilibrio, sentidos químicos y somatosensorial, el procesamiento de la información
+(Broca, localizacionistas/globalistas, plasticidad) y los sabores y el epitelio
+olfatorio. Falta desde la p. 788: el resto del procesamiento en los centros nerviosos
+superiores y la respuesta motora, hasta antes del ensayo de cierre "Retomando la
+problemática inicial" y los ejercicios. Lo pide **sólo la EMO**. Los capítulos 14, 15
+y 37 son de otras sesiones.
 
-**Reactivos en este archivo:** 80
+**Reactivos en este archivo:** 90
