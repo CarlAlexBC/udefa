@@ -10,17 +10,22 @@ import {
 } from '@nestjs/common';
 import { ExamenesService } from './examenes.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
+import { RolesGuard } from '../auth/guards/roles.guard';
+import { Roles } from '../auth/decorators/roles.decorator';
 import {
   UsuarioActual,
   type UsuarioAutenticado,
 } from '../auth/decorators/usuario-actual.decorator';
 
-@UseGuards(JwtAuthGuard)
+// RolesGuard deja pasar las rutas sin @Roles; solo las mutaciones son admin.
+// Los GET (listar y armar) quedan abiertos a cualquier usuario autenticado.
+@UseGuards(JwtAuthGuard, RolesGuard)
 @Controller('examenes')
 export class ExamenesController {
   constructor(private examenesService: ExamenesService) {}
 
   @Post()
+  @Roles('admin')
   crear(@Body() datos: { tipo: string; nombre: string; duracionMin: number; calificable: boolean }) {
     return this.examenesService.crear(datos.tipo, datos.nombre, datos.duracionMin, datos.calificable);
   }
@@ -46,6 +51,7 @@ export class ExamenesController {
   }
 
   @Patch(':id')
+  @Roles('admin')
   actualizar(
     @Param('id') id: string,
     @Body() datos: { tipo: string; nombre: string; duracionMin: number; calificable: boolean },
@@ -54,6 +60,7 @@ export class ExamenesController {
   }
 
   @Delete(':id')
+  @Roles('admin')
   borrar(@Param('id') id: string) {
     return this.examenesService.borrar(Number(id));
   }
