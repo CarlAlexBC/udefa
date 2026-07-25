@@ -911,3 +911,125 @@ De acuerdo con el libro de Geografía Moderna de México, ¿a qué se llama hela
 **Subtema:** climatología · heladas
 
 Se llama helada al enfriamiento intenso que llega a producirse a causa de la pérdida nocturna del calor por irradiación terrestre, hecho que se presenta generalmente coincidiendo con la salida del Sol o pocos minutos después de ella.
+
+### 56
+
+En relación con el libro de Geografía Moderna de México, en la zona baja de altitud no mayor de 1000 m situada dentro de la zona tropical, ¿qué ocurre con las heladas?
+
+- A. No se registra este fenómeno
+- B. Se registran hasta 10 heladas al año
+- C. Se registran hasta 80 heladas al año
+- D. Se registran hasta 100 heladas al año
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 144
+**Subtema:** climatología · heladas
+
+El examen de la figura 7.16 permite observar que generalmente en la zona baja de altitud no mayor de 1000 m y situada dentro de la zona tropical no se registra este fenómeno.
+
+### 57
+
+De acuerdo con el libro de Geografía Moderna de México, ¿en qué lugares se observan hasta 80 heladas al año?
+
+- A. En los llanos de Apan, el valle de Toluca y los puntos culminantes de la Sierra Madre Occidental
+- B. En la región de Chihuahua y Durango
+- C. En la Península de Yucatán y la costa del Golfo de México
+- D. En la Altiplanicie Meridional y la región de El Salado
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 144
+**Subtema:** climatología · heladas
+
+En la Altiplanicie y en la Cordillera Neovolcánica, el fenómeno se presenta con más frecuencia, con máximos en los llanos de Apan, el valle de Toluca y en los puntos culminantes de la Sierra Madre Occidental, lugares en que se observan hasta 80 heladas al año.
+
+### 58
+
+En relación con el libro de Geografía Moderna de México, ¿cuántas heladas al año se registran como máximo en la región de Chihuahua y Durango?
+
+- A. Hasta 100 heladas al año
+- B. Hasta 80 heladas al año
+- C. Hasta 50 heladas al año
+- D. Hasta 120 heladas al año
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 147
+**Subtema:** climatología · heladas
+
+En la porción noroccidental se registran hasta 100 heladas al año, en la región de Chihuahua y Durango.
+
+## Sub-lote 11 · Precipitación
+
+### 59
+
+De acuerdo con el libro de Geografía Moderna de México, ¿en qué unidad se mide convencionalmente la cantidad de precipitación?
+
+- A. En milímetros, como el espesor de la lámina de agua caída en un día, mes o año
+- B. En litros por metro cuadrado que caen durante una hora
+- C. En gramos de tensión de vapor de agua por metro cúbico
+- D. En porcentaje del cielo que aparece cubierto de nubes
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 147
+**Subtema:** climatología · precipitación
+
+El almacenamiento producido, cuyo espesor, medido en milímetros, expresa la cantidad de agua caída en un periodo determinado, el cual puede ser día, mes o año.
+
+### 60
+
+En relación con el libro de Geografía Moderna de México, ¿cómo se llaman las líneas que unen los puntos que registran la misma precipitación?
+
+- A. Isoyetas
+- B. Isonefas
+- C. Isotermas
+- D. Isobaras
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 147
+**Subtema:** climatología · precipitación
+
+Al unir los puntos que registran la misma precipitación, se trazan las líneas conocidas con el nombre de isoyetas.
+
+### 61
+
+De acuerdo con el libro de Geografía Moderna de México, la mayor cantidad de precipitaciones se registra en la costa del Golfo de México, entre el puerto de Tampico y la ciudad de Campeche; ¿a qué máximos llega?
+
+- A. 3000 mm
+- B. 1100 mm
+- C. 1200 mm
+- D. 2000 mm
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 147
+**Subtema:** climatología · precipitación
+
+La mayor cantidad de precipitaciones se registran en la zona costera del Golfo de México, en la porción comprendida entre el puerto de Tampico y la ciudad de Campeche, desde la orilla del mar hasta alcanzar las cimas altas de la Sierra Madre Oriental, Sierra Madre de Oaxaca, Sierra Atravesada, Meseta Central de Chiapas y serranías de Guatemala, con valor medio de 1100 mm que llega a máximos de 3000 mm.
+
+### 62
+
+En relación con el libro de Geografía Moderna de México, ¿en qué lugar desciende la precipitación hasta 100 mm, su valor más bajo?
+
+- A. En el noroeste del desierto de Altar, al noroeste de Sonora
+- B. En la Altiplanicie Meridional, en la región de El Salado
+- C. En la Península de Baja California, entre Tijuana y Ensenada
+- D. En el centro del país, en las altas serranías
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 147
+**Subtema:** climatología · precipitación
+
+En general, en la planicie costera, la precipitación se mantiene abajo de 1200 mm anuales: recorriéndola de sur a norte; estos valores se reducen hasta llegar al noroeste de Sonora, donde desciende hasta 100 mm en la porción noroeste del desierto de Altar.
+
+### 63
+
+De acuerdo con el libro de Geografía Moderna de México, ¿por qué no basta con considerar exclusivamente la precipitación anual?
+
+- A. Porque nos formaríamos una idea errónea de los recursos pluviales; es necesario analizar la precipitación en el curso del año
+- B. Porque la precipitación anual no puede representarse con isoyetas
+- C. Porque el suelo impermeable altera la medición del agua caída
+- D. Porque sólo la Península de Yucatán cuenta con registros anuales
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 149
+**Subtema:** climatología · precipitación
+
+Si tomamos en cuenta exclusivamente la precipitación anual, podríamos formarnos una idea errónea de los recursos pluviales, por lo que es necesario analizar la precipitación en el curso del año.
