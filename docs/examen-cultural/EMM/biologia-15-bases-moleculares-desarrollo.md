@@ -88,7 +88,7 @@ mismo párrafo o del mismo cuadro. La correcta se escribe siempre en **A** porqu
 importador baraja las opciones. El enunciado nombra el libro y alterna las tres fórmulas
 del Anexo "H": "De acuerdo con", "De conformidad con", "En relación con".
 
-**Pendiente:** el capítulo 15 está EN CURSO; cubiertas las páginas impresas **325 a 331** (dos tandas): el apartado de apertura de la talidomida sólo en sus datos de biología; la historia de la biología del desarrollo (preformacionismo y epigénesis, el vitalismo y el mecanicismo, las tres capas germinales, el reduccionismo genético, la fig. 15-2 del homúnculo); las etapas del desarrollo (segmentación, gastrulación, organogénesis) y la definición de desarrollo y de cigoto; y los mecanismos de la diferenciación (células competentes, especificadas y determinadas; determinantes citoplasmáticos y desarrollo en mosaico; inducción y desarrollo regulativo; interacciones paracrina y yuxtacrina; la cascada de inducción del ojo). Cubierta también la señalización del desarrollo (páginas impresas **332 a 334**: las vías de Hedgehog, Wnt, la superfamilia TGF-β/BMP y los FGF; la inducción por señales directas —uniones gap y Notch—; la interacción con la matriz extracelular —composición, la hidroxiapatita del hueso, las integrinas, la transición epitelio-mesenquimática— y las células de la cresta neural). Cubiertos también los morfógenos y gradientes (páginas impresas **335 y 336**: las conexinas de las uniones gap y el cross-talk; que la respuesta a una señal varía con el desarrollo; el morfógeno y el gradiente como información de posición; el modelo de la bandera francesa de Wolpert; la diferenciación dorsoventral del tubo neural con BMP y SHH e inductores primarios y secundarios; y Drosophila como organismo modelo —el germario, las células nodrizas y foliculares, el sincicio, los morfógenos maternos y los 14 segmentos corporales—). Cubierta también la regulación génica del desarrollo en Drosophila (páginas impresas **337 a 339**: los morfógenos maternos Bicoid, Nanos y Oskar y sus gradientes, la señal Gurken y el establecimiento de los ejes; los tres tipos de genes de segmentación —gap, regla de pares y polaridad de segmento— y la cascada de segmentación; y los genes homeóticos o Hox —Edward B. Lewis y el complejo bithorax, la mutación Ultrabithorax, los complejos bithorax y antennapedia, el homeodominio/homeobox y la colinealidad—). Sigue desde la página impresa **339** (los genes homeóticos, desde William Bateson) en adelante, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Además del 15 siguen abiertos el capítulo **14** (`biologia-14-epigenetica.md`) y el capítulo **37** (`biologia-37-digestion.md`). Biología NO está cerrada.
+**Pendiente:** ninguno. El capítulo 15 quedó **cerrado en 119 reactivos** (25 jul 2026), cubriendo las páginas impresas **325 a 343**: el apartado de apertura de la talidomida (sólo sus datos de biología); la historia de la biología del desarrollo (preformacionismo y epigénesis, vitalismo y mecanicismo, las tres capas germinales, el reduccionismo genético, la fig. 15-2 del homúnculo); la definición de desarrollo y de cigoto y las etapas (segmentación, gastrulación, organogénesis); los mecanismos de la diferenciación (células competentes, especificadas y determinadas; determinantes citoplasmáticos y desarrollo en mosaico; inducción y desarrollo regulativo; interacciones paracrina y yuxtacrina; la cascada de inducción del ojo); la señalización (Hedgehog, Wnt, TGF-β/BMP, FGF; uniones gap y Notch; matriz extracelular, integrinas, cresta neural); los morfógenos y gradientes (el modelo de la bandera francesa, el tubo neural con BMP y SHH, Drosophila como organismo modelo); la regulación génica de la segmentación (Bicoid, Nanos, Oskar, Gurken; los genes gap, de regla de pares y de polaridad de segmento; la cascada de segmentación) y los genes homeóticos o Hox (Bateson, Edward B. Lewis y el complejo bithorax, Ultrabithorax, el homeodominio/homeobox, la colinealidad, Andrés Carrasco y el homeobox en vertebrados, Pax-6, Evo-Devo y Eco-Evo-Devo, y los genes propios de cada especie). El ensayo de cierre "Retomando la problemática inicial" y los ejercicios no llevan reactivos por norma. **Biología NO está cerrada:** siguen abiertos el capítulo **14** (`biologia-14-epigenetica.md`) y el capítulo **37** (`biologia-37-digestion.md`), que sostienen su propio pendiente.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -1845,3 +1845,292 @@ De acuerdo con el libro de Biología, ¿qué ocurre cuando existen mutaciones qu
 **Subtema:** desarrollo · mutaciones en los genes Hox
 
 Cuando existen mutaciones que afectan la expresión normal de los genes Hox, el resultado es que la identidad de los segmentos puede ser transformada en la de otros segmentos del animal.
+
+---
+
+### 103
+
+De conformidad con el libro de Biología, en su trabajo *Materiales para el estudio de la variación*, ¿qué resaltó el científico inglés William Bateson?
+
+- A. La existencia de un tipo especial de transformación corporal, detectada en varios animales, en la cual una estructura determinada había trocado su identidad en otra
+- B. Que dentro del huevo ya existía un organismo en miniatura preformado
+- C. Que el desarrollo depende de una fuerza mística o vitalista
+- D. Que las células se diferencian al azar dentro del embrión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 339
+**Subtema:** desarrollo · William Bateson y las transformaciones homeóticas
+
+En su trabajo *Materiales para el estudio de la variación* resaltó la existencia de un tipo especial de transformación corporal detectada en varios animales, en la cual una estructura determinada había trocado su identidad en otra.
+
+---
+
+### 104
+
+En relación con el libro de Biología, ¿qué logró el embriólogo argentino Andrés Carrasco con el estudio del genoma de la rana Xenopus laevis?
+
+- A. El aislamiento del primer fragmento de ADN de vertebrado que contenía la secuencia homeobox
+- B. La secuenciación completa del genoma de Drosophila
+- C. El descubrimiento de la señal Gurken en las células foliculares
+- D. La demostración del desarrollo en mosaico en los vertebrados
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 340
+**Subtema:** desarrollo · Andrés Carrasco y el homeobox en vertebrados
+
+La posibilidad de constatar la presencia de genes homeóticos en vertebrados se concretó en 1984 a partir de las investigaciones del embriólogo argentino Andrés Carrasco (1946-2014)... Su investigación culminó con el aislamiento del primer fragmento de ADN de vertebrado que contenía la secuencia homeobox.
+
+---
+
+### 105
+
+De acuerdo con el libro de Biología, ¿qué características tenía el homeodominio del gen HoxC6 aislado de la rana Xenopus laevis?
+
+- A. Un homeodominio de 60 aminoácidos, con una conservación del 95% respecto del homeodominio del gen Antennapedia de Drosophila melanogaster
+- B. Un homeodominio de 60 aminoácidos, sin ninguna semejanza con los genes de Drosophila
+- C. Un homeodominio de 600 aminoácidos, exclusivo de los anfibios
+- D. Un homeodominio idéntico al de las levaduras
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 340
+**Subtema:** desarrollo · el gen HoxC6 y la conservación del homeodominio
+
+El gen aislado de Xenopus laevis (HoxC6) incluía un homeodominio de 60 aminoácidos que presentaba una conservación en su secuencia del 95% respecto del homeodominio del gen Antennapedia de Drosophila melanogaster.
+
+---
+
+### 106
+
+De conformidad con el libro de Biología, ¿en qué organismos se encuentran los genes con homeobox?
+
+- A. En la mayoría de los eucariontes, desde las levaduras hasta el ser humano
+- B. Únicamente en la mosca Drosophila melanogaster
+- C. Sólo en los vertebrados
+- D. Sólo en las plantas con flores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 340
+**Subtema:** desarrollo · la distribución de los genes con homeobox
+
+En la actualidad, se sabe que los genes con homeobox se encuentran en la mayoría de los eucariontes, desde las levaduras hasta el ser humano.
+
+---
+
+### 107
+
+En relación con el libro de Biología, ¿dónde se encuentran los genes Hox *sensu stricto* (en sentido estricto), ubicados de forma contigua en un cromosoma?
+
+- A. Solo en animales triploblásticos con simetría bilateral
+- B. En todos los eucariontes, desde las levaduras hasta el ser humano
+- C. Solo en las plantas
+- D. Solo en los animales de simetría radial
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 340
+**Subtema:** desarrollo · los genes Hox *sensu stricto*
+
+…los datos disponibles hasta el presente indican que los genes Hox *sensu stricto* (en sentido estricto), ubicados de forma contigua en un cromosoma, solo se encuentran en animales triploblásticos con simetría bilateral.
+
+---
+
+### 108
+
+De acuerdo con el libro de Biología, ¿qué genes del desarrollo están notablemente conservados en el mundo animal?
+
+- A. Los genes del eje dorsoventral, los que dirigen el desarrollo del corazón, los de la especificación temprana del sistema nervioso y los que controlan la formación de ojos
+- B. Únicamente los genes que codifican las conexinas de las uniones gap
+- C. Sólo los genes de las células foliculares del oocito
+- D. Ninguno: cada especie tiene genes de desarrollo completamente distintos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 340
+**Subtema:** desarrollo · la conservación evolutiva de los genes del desarrollo
+
+Hoy sabemos que los genes involucrados en el establecimiento de ejes corporales en la dirección dorsoventral, los genes que dirigen el desarrollo del corazón, los genes involucrados en la especificación temprana del sistema nervioso y los que controlan la formación de ojos están notablemente conservados en el mundo animal.
+
+---
+
+### 109
+
+De acuerdo con el libro de Biología, ¿qué codifica el gen Pax-6, que está sorprendentemente conservado?
+
+- A. La formación del ojo, tanto de insectos como de vertebrados
+- B. La formación del corazón en los vertebrados
+- C. La formación de las tres capas germinales
+- D. La formación de las células de la cresta neural
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 342
+**Subtema:** desarrollo · el gen Pax-6 y la formación de ojos
+
+Un gen sorprendentemente conservado, es decir, que tiene una secuencia muy similar, es el gen Pax-6, que codifica la formación del ojo, tanto de insectos como de vertebrados.
+
+---
+
+### 110
+
+De conformidad con el libro de Biología, ¿qué ocurre cuando el gen Pax-6 de ratón se expresa experimentalmente en Drosophila?
+
+- A. Que induce la formación de un ojo, pero de un ojo de mosca
+- B. Que induce la formación de un ojo idéntico al del ratón
+- C. Que la mosca no desarrolla ningún ojo
+- D. Que la mosca pierde por completo las alas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 342
+**Subtema:** desarrollo · Pax-6 y los ojos ectópicos
+
+…comprobaron que cuando el gen Pax-6 de ratón se expresa experimentalmente en Drosophila, también induce la formación de un ojo, pero lógicamente ¡de un ojo de mosca!
+
+---
+
+### 111
+
+En relación con el libro de Biología, ¿cómo se denomina la disciplina, consolidada desde la década de 1980, que integra la idea de que los animales se constituyen a partir de un conjunto de genes conservados?
+
+- A. Evo-Devo (por Evolución y Desarrollo, del inglés *Evolution and Development*)
+- B. Eco-Evo-Devo
+- C. Epigenética
+- D. Embriología descriptiva
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 342
+**Subtema:** desarrollo · el campo Evo-Devo
+
+Esta idea fue central en la constitución de una disciplina relativamente nueva dentro de la biología, que se denominó Evo-Devo (por Evolución y Desarrollo, del inglés *Evolution and Development*) que comenzó a consolidarse a partir de la década de 1980.
+
+---
+
+### 112
+
+De acuerdo con el libro de Biología, ¿qué nueva versión del campo Evo-Devo surge al incorporar con mayor énfasis la dimensión ambiental?
+
+- A. Eco-Evo-Devo (del inglés *Ecology, Evolution and Development*)
+- B. Evo-Devo clásico
+- C. La epigenética
+- D. La embriología experimental
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 342
+**Subtema:** desarrollo · el campo Eco-Evo-Devo
+
+…se amplió al incorporar con mayor énfasis la dimensión ambiental para interpretar las relaciones entre evolución y desarrollo, dando lugar a una nueva versión denominada Eco-Evo-Devo (del inglés *Ecology, Evolution and Development*).
+
+---
+
+### 113
+
+De conformidad con el libro de Biología, entre los principios que rigen el Eco-Evo-Devo, ¿qué se afirma sobre el papel del ambiente?
+
+- A. Que el ambiente puede alterar la expresión de estos genes y, por consiguiente, el desarrollo
+- B. Que el ambiente no tiene ningún efecto sobre la expresión de los genes
+- C. Que el ambiente reemplaza por completo a los genes en el desarrollo
+- D. Que el ambiente sólo influye en las plantas, no en los animales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 342
+**Subtema:** desarrollo · los principios del Eco-Evo-Devo
+
+El ambiente puede alterar la expresión de estos genes y, por consiguiente, el desarrollo.
+
+---
+
+### 114
+
+En relación con el libro de Biología, ¿a través de qué pueden surgir las "novedades" de cada especie?
+
+- A. A través de reordenamientos, cambios en la regulación y la expresión o por duplicación
+- B. Únicamente a través de la pérdida total del genoma conservado
+- C. Sólo a través de cambios en el ambiente, sin intervención de los genes
+- D. Exclusivamente a través de la migración de las células de la cresta neural
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 342
+**Subtema:** desarrollo · las novedades de cada especie
+
+…las "novedades" de cada especie pueden surgir a través de reordenamientos, cambios en la regulación y la expresión o por duplicación.
+
+---
+
+### 115
+
+De acuerdo con el libro de Biología, con la duplicación del genoma en los vertebrados, ¿qué puede ocurrir cuando se produce una mutación?
+
+- A. Que una copia adquiera nuevas funciones, mientras que la otra copia mantiene su función original
+- B. Que ambas copias pierdan su función por completo
+- C. Que el genoma se reduzca a la mitad
+- D. Que las dos copias adquieran exactamente la misma función nueva
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 342
+**Subtema:** desarrollo · duplicación génica y nuevas funciones
+
+…con la duplicación del genoma en los vertebrados, la ocurrencia de una mutación puede originar una copia que adquiere nuevas funciones, mientras que la otra copia mantiene su función original.
+
+---
+
+### 116
+
+De conformidad con el libro de Biología, en los invertebrados nematodes, ¿qué se observó respecto de sus genes totales?
+
+- A. Que el 20% de los genes totales son únicos
+- B. Que ninguno de sus genes es único
+- C. Que todos sus genes están conservados con los de los vertebrados
+- D. Que el 95% de sus genes provienen de Drosophila
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 343
+**Subtema:** desarrollo · los genes únicos de cada especie
+
+…en los invertebrados nematodes (véase cap. 28, fig. 28-36) se observó que el 20% de los genes totales son únicos.
+
+---
+
+### 117
+
+En relación con el libro de Biología, ¿por qué se caracteriza el pulpo Octopus bimaculoides, cuyo genoma secuenciaron Albertin y colaboradores en 2015?
+
+- A. Por el extraordinario desarrollo de su sistema nervioso y la respuesta a los cambios de coloración de su piel
+- B. Por carecer por completo de sistema nervioso
+- C. Por tener el genoma más pequeño de todos los moluscos
+- D. Por no presentar ningún gen único de su especie
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 343
+**Subtema:** desarrollo · el genoma de Octopus bimaculoides
+
+…en el año 2015, Albertin y cols. secuenciaron el genoma de un pulpo Octopus bimaculoides, que se caracteriza por el extraordinario desarrollo de su sistema nervioso y la respuesta a los cambios de coloración de su piel.
+
+---
+
+### 118
+
+De acuerdo con el libro de Biología, ¿qué se demostró respecto de los genes del pulpo Octopus?
+
+- A. Que casi el 10% de los genes que codifican proteínas son específicos de Octopus, y más de 1000 de esos genes se expresan en el sistema nervioso central y en la piel
+- B. Que ninguno de sus genes es específico de la especie
+- C. Que todos sus genes se expresan únicamente en la piel
+- D. Que sus genes son idénticos a los de los nematodes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 343
+**Subtema:** desarrollo · los genes específicos de Octopus
+
+…se demostró que casi el 10% de los genes que codifican proteínas son específicos de Octopus y más de 1000 de esos genes se expresan en el sistema nervioso central y en la piel.
+
+---
+
+### 119
+
+De conformidad con el libro de Biología, ¿cómo se denomina a los genes que son únicos de cada especie y de los que aún se desconoce si cumplen algún papel durante el desarrollo?
+
+- A. Genes "huérfanos" o "restringidos a un taxón"
+- B. Genes Hox *sensu stricto*
+- C. Genes de polaridad de segmento
+- D. Genes de efecto materno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 343
+**Subtema:** desarrollo · los genes "huérfanos" o restringidos a un taxón
+
+Aún son pocos los estudios llevados a cabo en estos genes "huérfanos" o "restringidos a un taxón" y no se conoce si cumplen algún papel durante el desarrollo, pero futuros estudios podrían brindar una importante información al respecto.
