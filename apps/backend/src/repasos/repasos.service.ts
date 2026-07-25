@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common';
+import { Injectable, NotFoundException } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 
 /**
@@ -114,5 +114,111 @@ export class RepasosService {
     }));
 
     return { pendientesHoy, total, porCaja };
+  }
+
+  /**
+   * La cola del día: los reactivos del aspirante ya vencidos (`proximoRepaso`
+   * pasado), barajados y SIN la respuesta, listos para la pantalla de estudio.
+   *
+   * No manda `respuestaCorrecta`, la justificación ni la cita: eso se revela
+   * sólo al contestar (ver `responder`), igual que el simulador nunca filtra la
+   * correcta al cliente. Baraja la lista y las opciones de cada reactivo para
+   * que el aspirante fije el dato y no la posición.
+   */
+  async pendientes(usuarioId: number) {
+    const ahora = new Date();
+    const filas = await this.prisma.repasoReactivo.findMany({
+      where: { usuarioId, proximoRepaso: { lte: ahora } },
+      select: {
+        caja: true,
+        reactivo: {
+          select: { id: true, enunciado: true, opciones: true, tema: true },
+        },
+      },
+    });
+
+    const items = filas.map((f) => ({
+      reactivoId: f.reactivo.id,
+      caja: f.caja,
+      enunciado: f.reactivo.enunciado,
+      tema: f.reactivo.tema,
+      opciones: this.mezclar(f.reactivo.opciones as string[]),
+    }));
+
+    return this.mezclar(items);
+  }
+
+  /**
+   * Registra el resultado de un repaso y mueve la caja de Leitner.
+   *
+   * Leitner puro: sólo cuenta si acertó o no (la velocidad se usó una sola vez
+   * al sembrar, no aquí).
+   *   - acierta → sube una caja (tope en la última) y vuelve más tarde; racha +1
+   *   - falla   → cae a la caja 1 y vuelve mañana; racha a 0
+   *
+   * Devuelve la corrección para pintarla al instante: la respuesta correcta, la
+   * justificación textual y la cita con página, más el salto de caja. Contestar
+   * NO crea filas: si el reactivo no está en la cola del aspirante → 404
+   * (sembrar es sólo del simulacro).
+   */
+  async responder(
+    usuarioId: number,
+    reactivoId: number,
+    respuestaSeleccionada: string,
+  ) {
+    const clave = { usuarioId_reactivoId: { usuarioId, reactivoId } };
+
+    const repaso = await this.prisma.repasoReactivo.findUnique({
+      where: clave,
+    });
+    if (!repaso) {
+      throw new NotFoundException('Ese reactivo no está en tu cola de repaso');
+    }
+
+    const reactivo = await this.prisma.reactivo.findUnique({
+      where: { id: reactivoId },
+      select: { respuestaCorrecta: true, explicacion: true, referencia: true },
+    });
+    if (!reactivo) {
+      throw new NotFoundException('Reactivo no encontrado');
+    }
+
+    // Comparación por TEXTO, no por letra: las opciones se barajan por intento,
+    // así que la letra ya no significa nada (mismo criterio que el simulador).
+    const esCorrecta = reactivo.respuestaCorrecta === respuestaSeleccionada;
+    const cajaAnterior = repaso.caja;
+
+    // Tope en la última caja: si dejara subir más allá, ese reactivo caería
+    // fuera del reparto por caja (1..5) que reporta `resumen`.
+    const MAX_CAJA = RepasosService.INTERVALOS_DIAS.length;
+    const caja = esCorrecta ? Math.min(cajaAnterior + 1, MAX_CAJA) : 1;
+    const rachaAciertos = esCorrecta ? repaso.rachaAciertos + 1 : 0;
+    const ahora = new Date();
+    const proximoRepaso = this.proximaFecha(caja, ahora);
+
+    await this.prisma.repasoReactivo.update({
+      where: clave,
+      data: { caja, rachaAciertos, proximoRepaso, ultimoVistoAt: ahora },
+    });
+
+    return {
+      esCorrecta,
+      respuestaCorrecta: reactivo.respuestaCorrecta,
+      explicacion: reactivo.explicacion,
+      referencia: reactivo.referencia,
+      cajaAnterior,
+      caja,
+      proximoRepaso,
+    };
+  }
+
+  /** Fisher-Yates: baraja una copia sin tocar el arreglo original. */
+  private mezclar<T>(arreglo: T[]): T[] {
+    const copia = [...arreglo];
+    for (let i = copia.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [copia[i], copia[j]] = [copia[j], copia[i]];
+    }
+    return copia;
   }
 }
