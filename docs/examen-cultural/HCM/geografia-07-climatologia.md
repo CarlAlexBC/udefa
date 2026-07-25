@@ -15,16 +15,18 @@ pide el temario, confirmado contra la página legal.
 
 ## Alcance del temario
 
-El temario `GEO-03-2026` de la EMA pide el **capítulo 7, Climatología, completo**
-(páginas impresas **120–168**, hoja 113 a ~164 del PDF). El capítulo 8, Hidrología,
-empieza en la p.169 (hoja 165) y queda **fuera**.
+El temario `GEO-03-2026` de la EMA pide el **capítulo 7, Climatología, completo**.
+La prosa del capítulo va de la página impresa **120 a la 167** (hoja 113 a 162 del
+PDF); la **p.167 (hoja 162) es la última** del capítulo. El capítulo 8, Hidrología,
+**empieza en la p.168 (hoja 163)** —no en la 169, como suponía la nota vieja— y
+queda **fuera**.
 
 **Desfase de páginas:** el escaneo de Geografía **está curado y salta** — no se
 corta en la impresa 260 como decía la nota vieja del HCM; llega hasta la 471
 (capítulo 23). En este capítulo el desfase arranca en **+7** (hoja 113 = página
-120) y baja a **+4** más adelante, porque el escaneo se salta ~3 páginas impresas
-en algún punto del capítulo. **Las páginas de las referencias se leen de la hoja,
-nunca se calculan.**
+120) y baja a **+5** al final (hoja 162 = página 167), porque el tramo de mapas
+tiene páginas duplicadas (la p.130 y la p.131 aparecen dos veces). **Las páginas
+de las referencias se leen de la hoja, nunca se calculan.**
 
 ## Criterio de este capítulo
 
@@ -36,35 +38,35 @@ estudiante pasaría por alto sobre la definición grande que sí se aprende.
 
 ## Cobertura actual
 
-**EN CURSO — 85 reactivos, cubierto hasta la página impresa 166.** Escritas las
-páginas de **prosa** 120–166: qué es la climatología y el clima (Koeppen),
-factores y elementos, los factores climáticos de México (Trópico de Cáncer, cenit,
-microclimas), la insolación, la evaporación, el régimen térmico e isotermas, la
-presión barométrica (isobaras, centros de máximas), los frentes y masas de aire
-(el Norte, ciclones y anticiclones), la humedad relativa, la nubosidad (isonefas),
-las heladas, la precipitación (isoyetas), y **toda la clasificación climática de
-Köppen**: el Cuadro 7.1 (símbolos A–E, régimen de lluvias w/s/f/x'/m, vegetación
-S/W/T/F/B), los umbrales de las zonas A/B/C, el Cuadro 7.2 y los subtipos
-Af, Am, BS, BW, Cs, Cf, Cx', Cw y EB.
+**CERRADO — 97 reactivos, cubre toda la prosa del capítulo (pp. 120–167).**
+Escritas las páginas de **prosa** 120–167: qué es la climatología y el clima
+(Koeppen), factores y elementos, los factores climáticos de México (Trópico de
+Cáncer, cenit, microclimas), la insolación, la evaporación, el régimen térmico e
+isotermas, la presión barométrica (isobaras, centros de máximas), **los vientos de
+la Fig. 7.11** (calmas ecuatoriales y tropicales, depresiones polares, alisios y
+contralisios), los frentes y masas de aire (el Norte, ciclones y anticiclones), la
+humedad relativa, la nubosidad (isonefas), las heladas, la precipitación
+(isoyetas), y **toda la clasificación climática de Köppen**: el Cuadro 7.1
+(símbolos A–E, régimen de lluvias w/s/f/x'/m, vegetación S/W/T/F/B), los umbrales
+de las zonas A/B/C, el Cuadro 7.2 y los subtipos Af, Am, BS, BW, Cs, Cf, Cx', Cw
+y **EB con su descripción completa** (tundra ET, hielos perpetuos por altitud).
 
 > **El capítulo es muy mapeado.** Son sólo mapas, sin prosa nueva, las páginas
-> impresas **123** (Fig. 7.1), **125–130** (Figs. 7.2a–d, 7.3, 7.4) y **132–139**
+> impresas **123** (Fig. 7.1), **125–130** (Figs. 7.2a–d, 7.3, 7.4) y **132–138**
 > (Figs. 7.5–7.10, isobaras). Sus datos numéricos ya se capturaron del texto de
 > las páginas de prosa vecinas. **El escaneo, además, tiene páginas duplicadas y
-> algo desordenadas en este tramo** (la p.131 aparece dos veces, la p.130 se cuela
-> entre medias): las páginas se leen de la hoja, una por una, nunca se calculan.
+> algo desordenadas en este tramo** (la p.130 y la p.131 aparecen dos veces): las
+> páginas se leen de la hoja, una por una, nunca se calculan.
 >
-> **Pendiente por verificar:** la lista de tipos de viento de la Fig. 7.11 se
-> corta en "Calmas ecuatoriales" al final de la p.131 y la p.140 ya entra en
-> "Frentes"; los demás vientos (alisios, etc.) o van rotulados dentro de los mapas
-> de pp.132–139 o el libro los abrevió. No se inventan.
+> **Vientos de la Fig. 7.11 — RESUELTO.** La lista arranca en la p.131 ("Calmas
+> ecuatoriales", reactivo 36) y **continúa en PROSA en la p.139** (hoja 134),
+> debajo del esquema de la Fig. 7.11 y después de los mapas de isobaras: calmas
+> tropicales, depresiones polares, alisios y contralisios. No eran rótulos de mapa;
+> son texto capturable, ya escrito en los reactivos 94–97.
 
-**Pendiente:** cerrar el capítulo leyendo las páginas impresas **167 y 168**
-(cierre del subtipo Cw, el subtipo polar de altitud EB si trae descripción, y lo
-que reste antes de que empiece el capítulo 8, Hidrología, en la p.169). **Verificar
-también** el hueco de los tipos de viento de la Fig. 7.11 (la lista se cortaba en
-"Calmas ecuatoriales" al final de la p.131; ver la nota de arriba). Cuando el
-capítulo cierre: correr el importador de oferta
+**Cerrado.** El capítulo 7 quedó cubierto en toda su prosa (pp. 120–167) con 97
+reactivos; la p.168 ya es el arranque del capítulo 8, Hidrología, que queda fuera.
+Al importar: correr el importador de oferta
 (`apps/backend/scripts/importar-cultural-oferta.ts`) y regenerar `ESTADO.md`.
 Además, la materia Geografía **no está cerrada para la EMA**: falta completar el
 capítulo 3 (Regiones geomorfológicas) y escribir el capítulo 23 (Geografía Política
@@ -1376,3 +1378,191 @@ En relación con el libro de Geografía Moderna de México, según el cuadro 7.2
 **Subtema:** climatología · tipos de climas
 
 Cuadro 7.2. E (Polar): De altitud: EB.
+
+## Sub-lote 15 · Cierre de tipos de climas: subtipo Cw (precipitación) y polar de altitud (EB)
+
+### 86
+
+De acuerdo con el libro de Geografía Moderna de México, en el clima templado con lluvias en verano (Cw), ¿qué altura debe rebasar la precipitación de verano?
+
+- A. 580 mm
+- B. 750 mm
+- C. 500 mm
+- D. 400 mm
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 166
+**Subtema:** climatología · tipos de climas
+
+La precipitación se presenta en verano y debe alcanzar alturas superiores a 580 mm, rebasa este límite y queda comprendida entre 900 y 1000 mm de precipitación anual.
+
+### 87
+
+En relación con el libro de Geografía Moderna de México, en el clima polar de altitud (EB), ¿a cuánto es inferior la temperatura media del mes más cálido?
+
+- A. A 10 °C
+- B. A 0 °C
+- C. A 18 °C
+- D. A 5 °C
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 167
+**Subtema:** climatología · tipos de climas
+
+La temperatura media del mes más cálido es inferior a 10 °C y la correspondiente al mes más frío es inferior a 0 °C.
+
+### 88
+
+De acuerdo con el libro de Geografía Moderna de México, el clima de tundra que se presenta en las grandes alturas de nuestras serranías, ¿con qué símbolo lo representa el libro?
+
+- A. ET
+- B. EB
+- C. EF
+- D. EH
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 167
+**Subtema:** climatología · tipos de climas
+
+Su clima es de tundra, simbolizado por ET, y se presenta en las grandes alturas de nuestras serranías, principalmente arriba de los 3000 m [...].
+
+### 89
+
+En relación con el libro de Geografía Moderna de México, el clima de tundra (polar de altitud) se presenta principalmente arriba de ¿qué altitud?
+
+- A. 3000 m
+- B. 4000 m
+- C. 2000 m
+- D. 3500 m
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 167
+**Subtema:** climatología · tipos de climas
+
+Su clima es de tundra [...] y se presenta en las grandes alturas de nuestras serranías, principalmente arriba de los 3000 m en el Nevado de Toluca, el Nevado de Colima, el Cofre de Perote, La Malinche, el Pico de Orizaba, el Popocatépetl y el Iztaccíhuatl, formando un anillo en torno de los hielos perpetuos.
+
+### 90
+
+De acuerdo con el libro de Geografía Moderna de México, la típica vegetación de tundra del clima polar de altitud, ¿por qué está formada?
+
+- A. Por musgos, líquenes y plantas herbáceas, estas últimas en pequeña cantidad
+- B. Por coníferas y bosques de montaña
+- C. Por pastizales y plantas xerófilas
+- D. Por selva baja y matorral espinoso
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 167
+**Subtema:** climatología · tipos de climas
+
+En estas áreas se presenta la típica vegetación de tundra, formada por musgos, líquenes, plantas herbáceas, si bien estas últimas se encuentran en pequeña cantidad.
+
+### 91
+
+En relación con el libro de Geografía Moderna de México, ¿qué condición térmica define el clima polar de hielos perpetuos por altitud?
+
+- A. Que la temperatura media en todos los meses del año sea inferior a 0 °C
+- B. Que la temperatura media anual sea inferior a 0 °C
+- C. Que la temperatura media del mes más frío sea inferior a 0 °C
+- D. Que la temperatura media del mes más cálido sea inferior a 10 °C
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 167
+**Subtema:** climatología · tipos de climas
+
+Si la temperatura media en todos los meses del año es inferior a 0 °C, se tiene el clima polar de hielos perpetuos por altitud, caracterizado porque durante la temporada en que hay humedad está cubierto por nieve.
+
+### 92
+
+De acuerdo con el libro de Geografía Moderna de México, ¿arriba de qué altitud se extiende el clima polar de hielos perpetuos, en el Pico de Orizaba, el Popocatépetl y el Iztaccíhuatl?
+
+- A. 4000 m
+- B. 3000 m
+- C. 5000 m
+- D. 4500 m
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 167
+**Subtema:** climatología · tipos de climas
+
+Esta zona se extiende arriba de los 4000 m de altitud en el Pico de Orizaba, Popocatépetl e Iztaccíhuatl.
+
+### 93
+
+En relación con el libro de Geografía Moderna de México, en el clima polar de altitud (EB), la elevada precipitación se localiza principalmente ¿en qué meses?
+
+- A. De junio a octubre
+- B. De noviembre a marzo
+- C. Durante todo el año por igual
+- D. De diciembre a febrero
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 167
+**Subtema:** climatología · tipos de climas
+
+Todas las regiones en que se presenta en México tienen una elevada precipitación, localizada principalmente de junio a octubre; las partes que ven hacia el oriente, pueden tener precipitaciones excepcionales y de alguna importancia en el invierno.
+
+## Sub-lote 16 · Vientos de la Fig. 7.11 (p.139): calmas tropicales, depresiones polares, alisios y contralisios
+
+> La lista de tipos de viento de la Fig. 7.11 arranca en la p.131 ("Calmas
+> ecuatoriales", reactivo 36) y **continúa en prosa en la p.139**, después de los
+> mapas de isobaras: son texto capturable, no rótulos de mapa.
+
+### 94
+
+De acuerdo con el libro de Geografía Moderna de México, aproximadamente a los 30° de latitud Norte y Sur —la parte norte de Sonora, Chihuahua y Baja California— se inicia una zona de calmas; ¿cómo se llama?
+
+- A. Anticiclónica
+- B. Ecuatorial
+- C. Polar
+- D. Monzónica
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 139
+**Subtema:** climatología · vientos
+
+Calmas tropicales. Aproximadamente a 30° de latitud Norte y Sur, es decir, la parte norte de los estados de Sonora, Chihuahua y Baja California, se inicia una zona de calmas llamada anticiclónica.
+
+### 95
+
+En relación con el libro de Geografía Moderna de México, las depresiones polares, localizadas a los 60° de latitud N y S, ¿qué son?
+
+- A. La región en donde los vientos sufren inversiones
+- B. La zona vecina al ecuador con movimientos ascendentes
+- C. La franja donde se inicia la zona anticiclónica de calmas
+- D. La superficie de contacto entre dos masas de aire en movimiento
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 139
+**Subtema:** climatología · vientos
+
+Depresiones polares. Localizada a los 60° de latitud N y S, es la región en donde los vientos sufren inversiones.
+
+### 96
+
+De acuerdo con el libro de Geografía Moderna de México, los vientos que se generan en la zona anticiclónica y afectan el territorio nacional reciben el nombre de alisios; ¿qué significa esa palabra?
+
+- A. Regulares
+- B. Cálidos
+- C. Húmedos
+- D. Costeros
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 139
+**Subtema:** climatología · vientos
+
+Los vientos que se generan en la zona anticiclónica hacia el sur [...] afectan el territorio de nuestro país; estos vientos reciben el nombre de alisios, que significa regulares.
+
+### 97
+
+En relación con el libro de Geografía Moderna de México, los vientos que, tras una inversión, regresan por la alta atmósfera desde las calmas ecuatoriales hacia las depresiones polares reciben el nombre de contralisios; ¿en qué dirección se mueven?
+
+- A. De sursureste a nornoroeste
+- B. De noreste a suroeste
+- C. De este a oeste
+- D. De norte a sur
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 139
+**Subtema:** climatología · vientos
+
+[...] Se mueven con una dirección sursureste a nornoroeste y reciben el nombre de contralisios.
