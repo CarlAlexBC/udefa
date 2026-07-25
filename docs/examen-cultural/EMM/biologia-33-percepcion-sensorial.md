@@ -53,7 +53,7 @@ problemática inicial"—.
 
 ## Cobertura actual
 
-**EN CURSO.** Cubiertas las pp. 778–794: sensación y percepción y la organización
+**EN CURSO.** Cubiertas las pp. 778–797: sensación y percepción y la organización
 jerárquica del sistema nervioso; adaptación sensorial, transducción y codificación;
 los cinco tipos de receptores y las vías nerviosas; el sistema visual completo
 (anatomía del ojo, cuadro 33-1 de modalidades sensoriales, visión estereoscópica,
@@ -66,17 +66,22 @@ comunicación química (feromonas y órgano vomeronasal); el encéfalo de los ve
 glándula pineal—, telencéfalo, cuerpo calloso y la corteza cerebral hasta sus
 lóbulos); el recuadro 33-2 (la neurociencia y sus métodos: EEG, TC, RM, TEP y RMf);
 las áreas funcionales de la corteza (motora, somatosensorial, auditiva, visual), los
-homúnculos y las cortezas de asociación; y la lateralización de los hemisferios (con
-la formación reticular).
+homúnculos y las cortezas de asociación; la lateralización de los hemisferios (con la
+formación reticular); la memoria y el procesamiento de la información (memoria de
+corto y largo plazo, el hipocampo, los tipos de memoria, la amígdala); y el
+aprendizaje (plasticidad neuronal, *Aplysia* y Kandel, habituación y sensibilización,
+condicionamiento clásico de Pavlov, aprendizaje social e imitativo y las neuronas
+espejo). Las páginas de ENSAYO (recuadros 33-x y "Biología en contexto social", pp.
+796 y 798) quedan fuera por no ser recuerdo literal.
 
 **Pendiente:** el capítulo 33 está **EN CURSO**. Sigue desde la página impresa
-**795** en adelante: el aprendizaje y la memoria (la babosa *Aplysia*, la habituación
-y la sensibilización), y la respuesta motora (la contracción muscular y el sarcómero),
-hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios.
-El capítulo 33 termina en la p. 810; el capítulo 34 (El sistema endocrino) empieza en
-la p. 811. Este capítulo lo pide **sólo la EMO**; mientras no se cierre, este archivo
-sostiene su propio pendiente. **Recordatorio de coordinación:** los capítulos 14, 15 y
-37 son de otras sesiones.
+**799** en adelante: la regeneración del sistema nervioso, el mecanismo sináptico de
+la habituación y la sensibilización (*Aplysia*), y la respuesta motora (la contracción
+muscular y el sarcómero, pp. 800–810), hasta antes del ensayo de cierre "Retomando la
+problemática inicial" y los ejercicios. El capítulo 33 termina en la p. 810; el
+capítulo 34 (El sistema endocrino) empieza en la p. 811. Este capítulo lo pide **sólo
+la EMO**; mientras no se cierre, este archivo sostiene su propio pendiente.
+**Recordatorio de coordinación:** los capítulos 14, 15 y 37 son de otras sesiones.
 
 ## Cómo se escriben estos reactivos
 
@@ -2104,22 +2109,301 @@ Según el libro de Biología, ¿qué hace la red laxa de neuronas de la formaci�
 
 Esta red laxa de neuronas filtra la información entrante y diferencia la importante de la irrelevante.
 
+## Sub-lote 20 · Memoria, almacenamiento y procesamiento de la información (p. 795)
+
+### 133
+
+De acuerdo con el libro de Biología, ¿qué es la memoria?
+
+- A. La habilidad para almacenar y recuperar información sobre experiencias pasadas, propias o ajenas
+- B. La conversión de la energía de un estímulo en un impulso nervioso
+- C. La capacidad de los músculos esqueléticos para contraerse ante una orden
+- D. La pérdida de respuesta de un receptor ante una estimulación constante
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 795
+**Subtema:** Percepción sensorial · memoria y procesamiento de la información
+
+La memoria, más específicamente, es la habilidad para almacenar y recuperar información sobre experiencias pasadas, propias o ajenas, y se consolida en dos etapas.
+
+### 134
+
+En relación con el libro de Biología, ¿qué caracteriza a la memoria de corto plazo?
+
+- A. Se establece de forma inmediata luego de adquirir la información, y dura entre segundos y minutos
+- B. Es de carácter estable en el tiempo y requiere un proceso de consolidación
+- C. Sólo almacena la memoria motora, como andar en bicicleta
+- D. Depende exclusivamente de la amígdala
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 795
+**Subtema:** Percepción sensorial · memoria y procesamiento de la información
+
+La memoria de corto plazo es la que se establece de forma inmediata luego de adquirir la información, y dura entre segundos y minutos.
+
+### 135
+
+Según el libro de Biología, ¿cómo se establece la memoria de largo plazo?
+
+- A. Luego de un proceso de consolidación, y es de carácter estable en el tiempo
+- B. De forma inmediata, y dura entre segundos y minutos
+- C. Sólo mediante la repetición de un estímulo neutro
+- D. Por la descarga de las neuronas sensoriales de la branquia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 795
+**Subtema:** Percepción sensorial · memoria y procesamiento de la información
+
+Luego de un proceso de consolidación se establece una memoria de largo plazo, de carácter estable en el tiempo.
+
+### 136
+
+De acuerdo con el libro de Biología, ¿qué estructura, una corteza del lóbulo temporal, es crucial en el proceso de consolidación de la memoria de largo plazo?
+
+- A. El hipocampo
+- B. El cerebelo
+- C. El bulbo raquídeo
+- D. La glándula pineal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 795
+**Subtema:** Percepción sensorial · memoria y procesamiento de la información
+
+La información se transfiere a la memoria de largo plazo mediante un proceso de consolidación, en el cual una corteza del lóbulo temporal, el hipocampo, es crucial.
+
+### 137
+
+En relación con el libro de Biología, ¿cómo se clasifican las memorias según su contenido?
+
+- A. En declarativas o explícitas y de procedimiento o implícitas
+- B. En retrógradas y anterógradas
+- C. En asociativas y no asociativas
+- D. En habituación y sensibilización
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 795
+**Subtema:** Percepción sensorial · memoria y procesamiento de la información
+
+En cuanto al contenido, las memorias se pueden clasificar en declarativas o explícitas (el recuerdo de hechos que pueden ser narrados) o de procedimiento o implícitas (memoria motora, el recuerdo de cómo andar en bicicleta).
+
+### 138
+
+Según el libro de Biología, ¿cómo puede definirse el aprendizaje?
+
+- A. En términos de los cambios relativamente permanentes debidos a la experiencia pasada
+- B. Como la habilidad para almacenar y recuperar información
+- C. Como la contracción coordinada de los músculos esqueléticos
+- D. Como la pérdida de respuesta ante un estímulo constante
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 795
+**Subtema:** Percepción sensorial · aprendizaje
+
+El aprendizaje puede definirse en términos de los cambios relativamente permanentes debidos a la experiencia pasada, así, la memoria es una parte crucial del proceso de aprendizaje, ya que sin ella las experiencias se "perderían".
+
+### 139
+
+De acuerdo con el libro de Biología, ¿qué es la amígdala?
+
+- A. Un importante centro de convergencia de la información sensorial y regulador de los estados emocionales
+- B. La corteza del lóbulo temporal crucial en la consolidación de la memoria
+- C. La masa de fibras mielínicas que une los dos hemisferios cerebrales
+- D. El órgano del sistema nasal que responde a las feromonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 795
+**Subtema:** Percepción sensorial · memoria y procesamiento de la información
+
+Entre otras estructuras, se destacan la amígdala, un importante centro de convergencia de la información sensorial y regulador de los estados emocionales, y el hipotálamo, que procesa y transmite las sensaciones de hambre, sed y deseo.
+
+## Sub-lote 21 · Plasticidad neuronal y el aprendizaje en Aplysia (p. 797)
+
+### 140
+
+Según el libro de Biología, ¿cómo se conocen los cambios en las conexiones y los circuitos entre las neuronas?
+
+- A. Como procesos de plasticidad neuronal
+- B. Como procesos de habituación
+- C. Como reflejos condicionados
+- D. Como memoria de corto plazo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 797
+**Subtema:** Percepción sensorial · plasticidad neuronal
+
+Estos cambios en las conexiones y los circuitos entre las neuronas se conocen como procesos de plasticidad neuronal.
+
+### 141
+
+En relación con el libro de Biología, ¿qué incluyen principalmente los procesos de plasticidad neuronal?
+
+- A. Modificaciones en la comunicación entre las neuronas que fortalecen o debilitan ciertas conexiones sinápticas
+- B. El aumento del número de huesos que protegen el encéfalo
+- C. La producción de melatonina por la glándula pineal
+- D. La contracción de los filamentos de actina y miosina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 797
+**Subtema:** Percepción sensorial · plasticidad neuronal
+
+Estos procesos incluyen, principalmente, modificaciones en la comunicación entre las neuronas que fortalecen o debilitan ciertas conexiones sinápticas, como aquellas vinculadas con los mecanismos que subyacen a la memoria y el aprendizaje.
+
+### 142
+
+De acuerdo con el libro de Biología, ¿qué invertebrado, estudiado por el fisiólogo Eric Kandel, arrojó nueva luz sobre la memoria?
+
+- A. La babosa de mar Aplysia
+- B. La mosca Drosophila
+- C. El calamar gigante
+- D. El caracol de jardín
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 797
+**Subtema:** Percepción sensorial · aprendizaje
+
+Un invertebrado que arrojó nueva luz sobre la memoria es la babosa de mar Aplysia. El fisiólogo austríaco-estadounidense Eric Kandel y sus colaboradores en los Estados Unidos estudiaron el reflejo de retracción branquial en Aplysia.
+
+### 143
+
+En relación con el libro de Biología, ¿qué hace la babosa Aplysia cuando se toca con suavidad su región ventral?
+
+- A. Rápidamente retrae su sifón y sus delicadas branquias en una reacción protectora
+- B. Libera feromonas al agua para atraer a otros individuos
+- C. Aumenta la producción de melatonina
+- D. Deja de responder de inmediato desde el primer contacto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 797
+**Subtema:** Percepción sensorial · aprendizaje
+
+Cuando se toca con suavidad su región ventral, este molusco rápidamente retrae su sifón y sus delicadas branquias en una reacción protectora.
+
+## Sub-lote 22 · Los tipos de aprendizaje (p. 797)
+
+### 144
+
+Según el libro de Biología, ¿de qué tipo de aprendizaje son ejemplos la habituación y la sensibilización?
+
+- A. Del aprendizaje no asociativo
+- B. Del aprendizaje asociativo
+- C. Del aprendizaje social
+- D. Del aprendizaje imitativo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 797
+**Subtema:** Percepción sensorial · aprendizaje
+
+La habituación y la sensibilización son dos ejemplos del aprendizaje no asociativo, en el que la respuesta comportamental es consecuencia de la respuesta a un solo tipo de estímulo.
+
+### 145
+
+De acuerdo con el libro de Biología, ¿qué es la habituación?
+
+- A. Una forma simple de aprendizaje, en la cual un estímulo neutro se repite muchas veces y provoca cada vez menos respuesta
+- B. El aprendizaje de la relación de un estímulo con otro
+- C. La adquisición de un comportamiento al observar a otro individuo
+- D. La habilidad para almacenar y recuperar información pasada
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 797
+**Subtema:** Percepción sensorial · aprendizaje
+
+La habituación es una forma simple de aprendizaje, en la cual un estímulo neutro se repite muchas veces. Sin embargo, a medida que se repite, este estímulo provoca cada vez menos respuesta. Luego de un tiempo, el sujeto se ha habituado al estímulo y lo ignora.
+
+### 146
+
+En relación con el libro de Biología, ¿qué ocurre en el aprendizaje asociativo?
+
+- A. El organismo aprende acerca de la relación de un estímulo con otro o de un estímulo con una respuesta
+- B. El organismo deja de responder a un estímulo neutro que se repite
+- C. El organismo adquiere un comportamiento al imitar a otro
+- D. El organismo almacena la información de forma inmediata durante segundos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 797
+**Subtema:** Percepción sensorial · aprendizaje
+
+En el aprendizaje asociativo, el organismo aprende acerca de la relación de un estímulo con otro o de un estímulo con una respuesta (asocia dos sucesos).
+
+### 147
+
+Según el libro de Biología, ¿cómo se denominó el tipo de aprendizaje asociativo que describió Iván Pavlov, en 1927, con perros que asociaron el sonido de una campana con el alimento?
+
+- A. Condicionamiento clásico
+- B. Habituación
+- C. Aprendizaje imitativo
+- D. Sensibilización
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 797
+**Subtema:** Percepción sensorial · aprendizaje
+
+A este tipo de aprendizaje asociativo se lo denominó condicionamiento clásico.
+
+### 148
+
+De acuerdo con el libro de Biología, ¿cuándo se denomina aprendizaje social?
+
+- A. Cuando la presencia de un individuo puede influir de manera significativa en el conocimiento adquirido por otro individuo
+- B. Cuando un estímulo neutro se repite muchas veces hasta ignorarlo
+- C. Cuando el organismo asocia el sonido de una campana con el alimento
+- D. Cuando se pierde la capacidad de establecer nuevas memorias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 797
+**Subtema:** Percepción sensorial · aprendizaje
+
+Se denomina aprendizaje social cuando la presencia de un individuo puede influir de manera significativa en el conocimiento adquirido por otro individuo.
+
+### 149
+
+En relación con el libro de Biología, ¿cuándo ocurre el aprendizaje imitativo o imitación?
+
+- A. Cuando un comportamiento novedoso es adquirido por un individuo luego de observar a otro realizar ese comportamiento
+- B. Cuando un estímulo se repite hasta provocar cada vez menos respuesta
+- C. Cuando dos estímulos se asocian entre sí
+- D. Cuando la información se transfiere a la memoria de largo plazo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 797
+**Subtema:** Percepción sensorial · aprendizaje
+
+Una de las formas más complejas de aprendizaje social es la imitación o aprendizaje imitativo. Este aprendizaje ocurre cuando un comportamiento novedoso es adquirido por un individuo luego de observar a otro realizar ese comportamiento.
+
+### 150
+
+Según el libro de Biología, ¿en qué participan las neuronas espejo de las cortezas frontal y parietal de los primates?
+
+- A. En la comprensión de las conductas de los demás, el aprendizaje por imitación y el procesamiento del lenguaje
+- B. En la producción de las hormonas del sistema endocrino
+- C. En la transducción del sonido en el oído interno
+- D. En la contracción de los músculos esqueléticos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 797
+**Subtema:** Percepción sensorial · aprendizaje
+
+En los primates –incluidos los humanos– se ha encontrado que las neuronas espejo de las cortezas frontal y parietal participan directamente en la comprensión de las conductas de los demás, intervienen en el aprendizaje por imitación y en el procesamiento del lenguaje.
+
 ---
 
 **Pendiente:** el capítulo 33 está **EN CURSO** (ver la sección "Cobertura actual").
-Las tandas cubren pp. 778–794: introducción, receptores, sistema visual, audición y
-equilibrio, sentidos químicos y somatosensorial, el procesamiento de la información
-(Broca, localizacionistas/globalistas, plasticidad), los sabores y el epitelio
-olfatorio, el recuadro 33-1 de comunicación química (feromonas y órgano vomeronasal),
-el encéfalo de los vertebrados (sustancia blanca y gris, tronco cerebral, cerebelo,
-diencéfalo, telencéfalo, cuerpo calloso y la corteza), el recuadro 33-2 (la
-neurociencia y sus métodos: EEG, TC, RM, TEP y RMf), las áreas funcionales de la
-corteza (motora, somatosensorial, auditiva, visual), los homúnculos, las cortezas de
-asociación y la lateralización de los hemisferios. Falta desde la p. 795: el
-aprendizaje y la memoria, y la respuesta motora (la contracción muscular y el
-sarcómero), hasta antes del ensayo de cierre "Retomando la problemática inicial" y los
-ejercicios. **El capítulo 33 termina en la p. 810; el capítulo 34 (El sistema
-endocrino) empieza en la p. 811** (hoja 857, verificado de la hoja). Lo pide **sólo la
-EMO**. Los capítulos 14, 15 y 37 son de otras sesiones.
+Las tandas cubren pp. 778–797: introducción, receptores, sistema visual, audición y
+equilibrio, sentidos químicos y somatosensorial, el procesamiento de la información,
+los sabores y el epitelio olfatorio, el recuadro 33-1 (comunicación química), el
+encéfalo de los vertebrados, el recuadro 33-2 (la neurociencia y sus métodos), las
+áreas funcionales de la corteza, los homúnculos, las cortezas de asociación, la
+lateralización de los hemisferios, la memoria y el procesamiento de la información
+(memoria de corto y largo plazo, hipocampo, tipos de memoria, amígdala) y el
+aprendizaje (plasticidad neuronal, Aplysia, habituación y sensibilización,
+condicionamiento clásico, aprendizaje social e imitativo, neuronas espejo). Falta
+desde la p. 799: la regeneración del sistema nervioso, el mecanismo sináptico de la
+habituación y la sensibilización, y la respuesta motora (la contracción muscular y el
+sarcómero, pp. 800–810), hasta antes del ensayo de cierre "Retomando la problemática
+inicial" y los ejercicios. Las páginas de ENSAYO (recuadros 33-x y "Biología en
+contexto social", pp. 796 y 798) quedan fuera por no ser recuerdo literal. **El
+capítulo 33 termina en la p. 810; el capítulo 34 (El sistema endocrino) empieza en la
+p. 811** (hoja 857, verificado de la hoja). Lo pide **sólo la EMO**. Los capítulos 14,
+15 y 37 son de otras sesiones.
 
-**Reactivos en este archivo:** 132
+**Reactivos en este archivo:** 150
