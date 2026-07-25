@@ -88,7 +88,7 @@ mismo párrafo o del mismo cuadro. La correcta se escribe siempre en **A** porqu
 importador baraja las opciones. El enunciado nombra el libro y alterna las tres fórmulas
 del Anexo "H": "De acuerdo con", "De conformidad con", "En relación con".
 
-**Pendiente:** el capítulo 15 está EN CURSO; cubiertas las páginas impresas **325 a 331** (dos tandas): el apartado de apertura de la talidomida sólo en sus datos de biología; la historia de la biología del desarrollo (preformacionismo y epigénesis, el vitalismo y el mecanicismo, las tres capas germinales, el reduccionismo genético, la fig. 15-2 del homúnculo); las etapas del desarrollo (segmentación, gastrulación, organogénesis) y la definición de desarrollo y de cigoto; y los mecanismos de la diferenciación (células competentes, especificadas y determinadas; determinantes citoplasmáticos y desarrollo en mosaico; inducción y desarrollo regulativo; interacciones paracrina y yuxtacrina; la cascada de inducción del ojo). Cubierta también la señalización del desarrollo (páginas impresas **332 a 334**: las vías de Hedgehog, Wnt, la superfamilia TGF-β/BMP y los FGF; la inducción por señales directas —uniones gap y Notch—; la interacción con la matriz extracelular —composición, la hidroxiapatita del hueso, las integrinas, la transición epitelio-mesenquimática— y las células de la cresta neural). Sigue desde la página impresa **335** en adelante (lo que resta del capítulo), hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Además del 15 siguen abiertos el capítulo **14** (`biologia-14-epigenetica.md`) y el capítulo **37** (`biologia-37-digestion.md`). Biología NO está cerrada.
+**Pendiente:** el capítulo 15 está EN CURSO; cubiertas las páginas impresas **325 a 331** (dos tandas): el apartado de apertura de la talidomida sólo en sus datos de biología; la historia de la biología del desarrollo (preformacionismo y epigénesis, el vitalismo y el mecanicismo, las tres capas germinales, el reduccionismo genético, la fig. 15-2 del homúnculo); las etapas del desarrollo (segmentación, gastrulación, organogénesis) y la definición de desarrollo y de cigoto; y los mecanismos de la diferenciación (células competentes, especificadas y determinadas; determinantes citoplasmáticos y desarrollo en mosaico; inducción y desarrollo regulativo; interacciones paracrina y yuxtacrina; la cascada de inducción del ojo). Cubierta también la señalización del desarrollo (páginas impresas **332 a 334**: las vías de Hedgehog, Wnt, la superfamilia TGF-β/BMP y los FGF; la inducción por señales directas —uniones gap y Notch—; la interacción con la matriz extracelular —composición, la hidroxiapatita del hueso, las integrinas, la transición epitelio-mesenquimática— y las células de la cresta neural). Cubiertos también los morfógenos y gradientes (páginas impresas **335 y 336**: las conexinas de las uniones gap y el cross-talk; que la respuesta a una señal varía con el desarrollo; el morfógeno y el gradiente como información de posición; el modelo de la bandera francesa de Wolpert; la diferenciación dorsoventral del tubo neural con BMP y SHH e inductores primarios y secundarios; y Drosophila como organismo modelo —el germario, las células nodrizas y foliculares, el sincicio, los morfógenos maternos y los 14 segmentos corporales—). Sigue desde la página impresa **336** ("Red de regulación génica") en adelante, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Además del 15 siguen abiertos el capítulo **14** (`biologia-14-epigenetica.md`) y el capítulo **37** (`biologia-37-digestion.md`). Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -1214,3 +1214,328 @@ En relación con el libro de Biología, sobre las células de la cresta neural (
 **Subtema:** desarrollo · las células de la cresta neural
 
 Estas células se establecen en la cresta del tubo neural en formación, disminuyen las uniones celulares que las mantenían unidas en el epitelio (en particular, las cadherinas), modifican su citoesqueleto (lo que les permite moverse y adquirir un estado mesenquimático) y, a través de moléculas presentes en la matriz extracelular, pueden migrar desde el sistema nervioso y formar una enorme variedad de tipos celulares derivados, incluidas las células gliales, los melanóforos, las células óseas del esplacnocráneo, las neuronas simpáticas y parasimpáticas, y muchos otros derivados.
+
+---
+
+### 66
+
+De acuerdo con el libro de Biología, ¿por qué proteínas están formados los canales de las uniones gap (comunicantes)?
+
+- A. Por proteínas llamadas conexinas, de las cuales hay distintos tipos
+- B. Por integrinas ancladas a los microfilamentos de actina
+- C. Por cadherinas del epitelio
+- D. Por glucoproteínas ricas en el aminoácido cisteína
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 335
+**Subtema:** desarrollo · las conexinas de las uniones gap
+
+Estos canales están formados por proteínas llamadas conexinas, de las cuales hay distintos tipos.
+
+---
+
+### 67
+
+De conformidad con el libro de Biología, ¿qué se demostró al bloquear las conexinas con anticuerpos?
+
+- A. Que se altera el desarrollo normal
+- B. Que el desarrollo se acelera
+- C. Que no se produce ningún efecto sobre el desarrollo
+- D. Que las células migran más rápido
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 335
+**Subtema:** desarrollo · importancia de las conexinas en el desarrollo
+
+Esta clase de unión es muy importante en el desarrollo y se demostró que si se bloquean las conexinas con anticuerpos se altera el desarrollo normal.
+
+---
+
+### 68
+
+En relación con el libro de Biología, ¿cómo se denomina el mecanismo por el cual las vías de señalización, al recibir la célula varias señales a la vez, se cruzan entre sí?
+
+- A. Cross-talk
+- B. Inducción secundaria
+- C. Transición epitelio-mesenquimática
+- D. Desarrollo en mosaico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 335
+**Subtema:** desarrollo · el cross-talk entre vías de señalización
+
+Todas estas vías de señalización suelen estar interconectadas y como, por lo general, la célula está recibiendo varias señales a la vez, las vías se cruzan entre sí en un mecanismo denominado cross-talk.
+
+---
+
+### 69
+
+De acuerdo con el libro de Biología, ¿de qué depende la respuesta de una célula a una señal inductiva?
+
+- A. Del estado de desarrollo en el que la célula se encuentre, de modo que una misma señal puede evocar distintas respuestas en diferentes células
+- B. Únicamente del tipo de morfógeno, sin importar el estado de la célula
+- C. De que la señal sea siempre de tipo "todo o nada"
+- D. De la cantidad de ADN que contenga la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 335
+**Subtema:** desarrollo · la respuesta a la señal varía con el desarrollo
+
+La respuesta a una señal depende del estado de desarrollo en el que la célula se encuentre... Incluso, una misma señal puede evocar distintas respuestas en diferentes células y eso dependerá de los "antecedentes del desarrollo" y del estado del proceso en el que se encuentre cada una.
+
+---
+
+### 70
+
+De conformidad con el libro de Biología, ¿qué se puede afirmar sobre la posición de los tejidos y órganos en un organismo?
+
+- A. Que las células no se diferencian al azar, sino que se organizan en tejidos y órganos que siempre ocupan una misma posición dentro del organismo
+- B. Que cada tejido puede formarse en cualquier posición del organismo
+- C. Que la posición de los órganos depende del azar de las mutaciones
+- D. Que los tejidos ocupan posiciones distintas en cada individuo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 335
+**Subtema:** desarrollo · el ordenamiento de tejidos y órganos
+
+Las células no se diferencian al azar, sino que se organizan en tejidos y órganos, y estos siempre ocupan una misma posición dentro de un organismo.
+
+---
+
+### 71
+
+En relación con el libro de Biología, en la interacción paracrina, ¿cómo son las señales de las células vecinas?
+
+- A. No suelen ser de tipo "todo o nada", sino que el efecto que generan depende de la cantidad de señal que se recibe
+- B. Siempre son de tipo "todo o nada"
+- C. No dependen de la cantidad de señal recibida
+- D. Sólo actúan por contacto directo entre las células
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 335
+**Subtema:** desarrollo · la señal paracrina depende de la cantidad
+
+En esta interacción paracrina, las señales de células vecinas no suelen ser de tipo "todo o nada", sino más bien que el efecto que generan depende de la cantidad de señal que recibe.
+
+---
+
+### 72
+
+De acuerdo con el libro de Biología, ¿cómo se denomina la señal soluble que, según su concentración, puede especificar distintos tipos celulares?
+
+- A. Morfógeno
+- B. Conexina
+- C. Integrina
+- D. Cadherina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 335
+**Subtema:** desarrollo · el morfógeno
+
+Esta señal soluble se denomina morfógeno y, según su concentración, puede especificar distintos tipos celulares.
+
+---
+
+### 73
+
+De conformidad con el libro de Biología, a medida que un morfógeno difunde a lo largo de un eje corporal, ¿qué ocurre con su concentración y qué le proporciona al embrión?
+
+- A. Su concentración decrece en forma progresiva, y así le proporciona al embrión un sistema de información de posición
+- B. Su concentración aumenta progresivamente, e impide la diferenciación celular
+- C. Su concentración se mantiene constante en todo el eje corporal
+- D. Su concentración varía al azar, sin dar información de posición
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 335
+**Subtema:** desarrollo · el gradiente de morfógeno y la información de posición
+
+…a medida que difunde a lo largo de un eje corporal, su concentración decrece en forma progresiva, y así le proporciona al embrión un sistema de información de posición.
+
+---
+
+### 74
+
+En relación con el libro de Biología, ¿quién propuso el modelo de la bandera francesa para explicar el papel del gradiente de concentración de un morfógeno en la diferenciación celular?
+
+- A. Lewis Wolpert
+- B. Scott Gilbert
+- C. Theodor Boveri
+- D. Laurent Chabry
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 335
+**Subtema:** desarrollo · el modelo de la bandera francesa
+
+Este ejemplo fue propuesto por Lewis Wolper para explicar el papel del gradiente de concentración de un morfógeno en la diferenciación celular.
+
+> El libro escribe el apellido como "Wolper"; la grafía correcta es Wolpert.
+
+---
+
+### 75
+
+De acuerdo con el libro de Biología, en el modelo de la bandera francesa, ¿qué concentración de morfógeno requieren las células que se diferencian en azul?
+
+- A. Concentraciones altas de morfógeno, por encima de un dado umbral
+- B. Concentraciones bajas de morfógeno
+- C. Concentraciones intermedias de morfógeno
+- D. Ninguna, porque no requieren morfógeno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 335
+**Subtema:** desarrollo · la bandera francesa, los umbrales
+
+Las células que se diferencian en azules requieren concentraciones altas de morfógeno por encima de un dado umbral. Las que se diferencian en blanco requieren concentraciones menores, pero todavía por encima de otro umbral, y las que se diferencian en rojo, concentraciones aún menores.
+
+---
+
+### 76
+
+De conformidad con el libro de Biología, en la diferenciación dorsoventral del tubo neural, ¿qué estructuras secretan los morfógenos BMP y SHH?
+
+- A. El ectodermo epidérmico, en la parte dorsal, secreta BMP, y la notocorda, en la parte ventral, secreta SHH
+- B. La notocorda secreta BMP y el ectodermo epidérmico secreta SHH
+- C. El techo y el piso del tubo neural secretan ambos morfógenos por igual
+- D. Las células foliculares secretan BMP y SHH
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 335
+**Subtema:** desarrollo · los morfógenos BMP y SHH en el tubo neural
+
+Las estructuras cercanas al tubo neural son el ectodermo epidérmico en la parte dorsal y la notocorda en la parte ventral, las cuales secretan los morfógenos BMP y SHH, respectivamente.
+
+---
+
+### 77
+
+En relación con el libro de Biología, en la diferenciación del tubo neural, ¿cuáles son los inductores primarios y cuáles los secundarios?
+
+- A. El ectodermo epidérmico y la notocorda son inductores primarios; el techo y el piso del tubo neural son inductores secundarios
+- B. El techo y el piso del tubo neural son inductores primarios; el ectodermo epidérmico y la notocorda, secundarios
+- C. Todos actúan como inductores primarios
+- D. Sólo la notocorda es inductor, y es de tipo secundario
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 336
+**Subtema:** desarrollo · inductores primarios y secundarios
+
+El ectodermo epidérmico y la notocorda son, entonces, inductores primarios, mientras que el techo y el piso del tubo neural son inductores secundarios (ya que primero deben ser inducidos).
+
+---
+
+### 78
+
+De acuerdo con el libro de Biología, ¿de qué concentraciones de morfógenos depende la diferenciación en motoneuronas en la parte ventral del tubo neural?
+
+- A. De altas concentraciones de SHH y bajas de BMP
+- B. De altas concentraciones de BMP y bajas de SHH
+- C. De concentraciones iguales de BMP y SHH
+- D. De la ausencia total de morfógenos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 336
+**Subtema:** desarrollo · la diferenciación de motoneuronas
+
+…la diferenciación en motoneuronas en la parte ventral dependerá de altas concentraciones de SHH y bajas de BMP.
+
+---
+
+### 79
+
+De conformidad con el libro de Biología, ¿por qué la mosca de la fruta Drosophila melanogaster es un excelente modelo para estudiar el desarrollo?
+
+- A. Porque sus procesos de herencia genética se conocen mejor que los de cualquier otro organismo multicelular, su genoma está totalmente secuenciado y es fácil de mantener, con un ciclo de vida corto
+- B. Porque es el organismo multicelular más grande y fácil de observar a simple vista
+- C. Porque carece de genoma, lo que simplifica su estudio
+- D. Porque su desarrollo es idéntico, paso a paso, al de los vertebrados
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 336
+**Subtema:** desarrollo · Drosophila como organismo modelo
+
+Este modelo se caracteriza por: a) sus procesos de herencia genética se conocen mejor que los de cualquier otro organismo multicelular...; b) su genoma se encuentra totalmente secuenciado y está disponible públicamente;... d) estas moscas son fáciles de mantener en el laboratorio y presentan un ciclo de vida corto.
+
+---
+
+### 80
+
+En relación con el libro de Biología, en el germario de la ovariola de Drosophila, ¿qué produce una célula madre al experimentar cuatro divisiones mitóticas?
+
+- A. Produce 16 células intercomunicadas por canales citoplasmáticos: una dará origen al oocito y las otras 15, a las células nodrizas o nutricias
+- B. Produce 4 células, todas destinadas a formar oocitos
+- C. Produce 15 células, todas nodrizas, sin ningún oocito
+- D. Produce 2 células foliculares que forman la cáscara del huevo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 336
+**Subtema:** desarrollo · el germario de Drosophila
+
+En una estructura llamada germario, una célula madre experimenta cuatro divisiones mitóticas que producen 16 células intercomunicadas por medio de canales citoplasmáticos. Una de estas 16 células (la que tiene más canales citoplasmáticos) dará origen al oocito y las otras 15 darán células nodrizas o nutricias.
+
+---
+
+### 81
+
+De acuerdo con el libro de Biología, ¿qué secretan las células foliculares que rodean al oocito de Drosophila?
+
+- A. Los materiales que componen la membrana vitelina y la cáscara del huevo
+- B. Los morfógenos maternos que difunden en el embrión
+- C. Las conexinas de las uniones gap
+- D. Los cristales de hidroxiapatita
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 336
+**Subtema:** desarrollo · las células foliculares
+
+Estas células foliculares secretarán los materiales que componen la membrana vitelina y la cáscara del huevo, las cuales recubren por completo el huevo maduro.
+
+---
+
+### 82
+
+De conformidad con el libro de Biología, en el desarrollo temprano de Drosophila, al no ser la división nuclear seguida inmediatamente por la citocinesis, ¿qué tipo de embrión se forma?
+
+- A. Un embrión multinucleado sin separaciones, denominado sincicio
+- B. Un embrión con las células ya separadas por membranas
+- C. Un embrión de una sola célula gigante con un único núcleo
+- D. Un embrión formado sólo por células foliculares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 336
+**Subtema:** desarrollo · el sincicio de Drosophila
+
+La división nuclear no es seguida inmediatamente por la citocinesis; por lo tanto, la segmentación está desfasada y se forma un embrión multinucleado sin separaciones (sincicio).
+
+---
+
+### 83
+
+En relación con el libro de Biología, en una primera etapa del desarrollo de Drosophila, ¿por qué los morfógenos maternos pueden difundir fácilmente dentro del citoplasma único del embrión?
+
+- A. Porque al no haber membranas celulares, los morfógenos sintetizados por las células nutricias difunden fácilmente en el citoplasma único
+- B. Porque las membranas celulares los transportan activamente de una célula a otra
+- C. Porque son insolubles y quedan retenidos en un solo punto
+- D. Porque las células foliculares los bombean hacia el interior del embrión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 336
+**Subtema:** desarrollo · los morfógenos maternos en el sincicio
+
+En una primera etapa, al no haber membranas celulares, los morfógenos maternos, o sea, los sintetizados por las células nutricias, pueden difundir fácilmente dentro del citoplasma único del embrión.
+
+---
+
+### 84
+
+De acuerdo con el libro de Biología, a las 24 horas de desarrollo de Drosophila, ¿cómo se presentan los segmentos corporales?
+
+- A. Como 14 unidades repetidas: 3 piezas bucales en la región anterior, 3 unidades torácicas y 8 unidades abdominales
+- B. Como 8 unidades repetidas, todas abdominales
+- C. Como 3 unidades torácicas únicamente
+- D. Como una masa continua, sin segmentación aparente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 336
+**Subtema:** desarrollo · los segmentos corporales de Drosophila
+
+En 24 horas de desarrollo es posible ver la formación de los segmentos corporales que se presentan como 14 unidades repetidas (3 piezas bucales en la región anterior del animal, seguidas por 3 unidades toráxicas y 8 unidades abdominales).
