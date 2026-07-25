@@ -1,0 +1,620 @@
+# Geografía · Capítulo 7 · Climatología
+
+**Plantel:** Escuela Militar de Aviación · **Materia:** `GEO-03-2026`
+**Aplica a:** Lic. en Admón. Militar Piloto Aviador y Lic. en Seguridad Pública Piloto Aviador (temario idéntico).
+
+> El reactivo pertenece al **libro** (`geografia-tamayo`), no al plantel: este
+> capítulo lo pide sólo la EMA, pero cualquier temario que llame al capítulo 7 de
+> Tamayo lo reutiliza.
+
+## Libro
+
+Tamayo, Jorge L., *Geografía Moderna de México*, **15ª edición**, Editorial
+Trillas, 2021 (reimpresión marzo 2023). ISBN 978-607-17-4231-5. Es la edición que
+pide el temario, confirmado contra la página legal.
+
+## Alcance del temario
+
+El temario `GEO-03-2026` de la EMA pide el **capítulo 7, Climatología, completo**
+(páginas impresas **120–168**, hoja 113 a ~164 del PDF). El capítulo 8, Hidrología,
+empieza en la p.169 (hoja 165) y queda **fuera**.
+
+**Desfase de páginas:** el escaneo de Geografía **está curado y salta** — no se
+corta en la impresa 260 como decía la nota vieja del HCM; llega hasta la 471
+(capítulo 23). En este capítulo el desfase arranca en **+7** (hoja 113 = página
+120) y baja a **+4** más adelante, porque el escaneo se salta ~3 páginas impresas
+en algún punto del capítulo. **Las páginas de las referencias se leen de la hoja,
+nunca se calculan.**
+
+## Criterio de este capítulo
+
+No se trata de llenar reactivos sobre lo obvio. El examen es de **recuerdo
+literal**, y lo que tumba al aspirante es el **dato chiquito y olvidable** —una
+cifra, una condición exacta, un nombre, una clasificación menor— que leyó de
+pasada y no registró. Cada reactivo caza uno de esos datos; se prioriza lo que un
+estudiante pasaría por alto sobre la definición grande que sí se aprende.
+
+## Cobertura actual
+
+**EN CURSO.** Escritas las páginas de **prosa** hasta la 131: qué es la
+climatología y el clima (Koeppen), factores y elementos, los factores climáticos
+de México (Trópico de Cáncer, cenit, microclimas), la insolación, la evaporación
+(magnitud y condiciones), el régimen térmico e isotermas (valores por región,
+máximas absolutas, oscilaciones) y la presión barométrica (isobaras, zonas de alta
+y baja presión, centros de máximas).
+
+> **El capítulo es muy mapeado.** Son sólo mapas, sin prosa nueva, las páginas
+> impresas **123** (Fig. 7.1), **125–130** (Figs. 7.2a–d, 7.3, 7.4) y **132–139**
+> (Figs. 7.5–7.10, isobaras). Sus datos numéricos ya se capturaron del texto de
+> las páginas de prosa vecinas. **El escaneo, además, tiene páginas duplicadas y
+> algo desordenadas en este tramo** (la p.131 aparece dos veces, la p.130 se cuela
+> entre medias): las páginas se leen de la hoja, una por una, nunca se calculan.
+>
+> **Pendiente por verificar:** la lista de tipos de viento de la Fig. 7.11 se
+> corta en "Calmas ecuatoriales" al final de la p.131 y la p.140 ya entra en
+> "Frentes"; los demás vientos (alisios, etc.) o van rotulados dentro de los mapas
+> de pp.132–139 o el libro los abrevió. No se inventan.
+
+**Pendiente:** el resto del capítulo 7, de la página impresa **140** en adelante
+(frentes y masas de aire, "Norte", ciclones y anticiclones, humedad relativa,
+nubosidad, heladas y lluvias, tipos de climas y la clasificación de Koeppen), hasta
+la página **168**, antes de que empiece el capítulo 8, Hidrología. Además, la
+materia Geografía **no está cerrada para la EMA**: falta completar el capítulo 3
+(Regiones geomorfológicas) y escribir el capítulo 23 (Geografía Política y
+Administrativa) entero.
+
+---
+
+## Sub-lote 1 · Qué es la climatología; factores y elementos
+
+### 1
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cómo define Koeppen el clima?
+
+- A. La suma total de las condiciones atmosféricas que hacen un lugar de la superficie terrestre más o menos habitable para los seres humanos, animales y plantas
+- B. El conjunto de fenómenos meteorológicos que ocurren en la atmósfera durante un día en un lugar determinado
+- C. El promedio de las temperaturas registradas a lo largo de un año en una región
+- D. La capa gaseosa que envuelve a la Tierra y regula la radiación solar que se recibe
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 120
+**Subtema:** climatología · definición de clima
+
+Podremos entender por qué Koeppen dice que el clima "es la suma total de las condiciones atmosféricas que hacen un lugar de la superficie terrestre más o menos habitable para los seres humanos, animales y plantas".
+
+### 2
+
+En relación con el libro de Geografía Moderna de México, ¿cómo se entiende a la climatología?
+
+- A. Como la rama de la meteorología que estudia el conjunto de fenómenos que se presentan en un cierto lapso en zonas o lugares determinados de la superficie de la Tierra
+- B. Como la disciplina que mide y pronostica el estado del tiempo de un lugar día con día
+- C. Como la ciencia que estudia la composición y estructura de la atmósfera terrestre
+- D. Como la rama de la geografía que describe el relieve y la geomorfología de un país
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 120
+**Subtema:** climatología · definición de clima
+
+Si entendemos a esta disciplina científica como la rama de la meteorología que estudia el conjunto de fenómenos que se presentan en un cierto lapso en zonas o lugares determinados de la superficie de la Tierra.
+
+### 3
+
+En relación con el libro de Geografía Moderna de México, ¿cómo se llaman los dos agentes del clima que considera Koeppen?
+
+- A. Factores y elementos
+- B. Insolación y evaporación
+- C. Temperatura y precipitación
+- D. Latitud y altitud
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 120
+**Subtema:** climatología · definición de clima
+
+Ese mismo autor considera que hay dos agentes del clima, que se llaman factores y elementos de clima.
+
+### 4
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué son los factores del clima?
+
+- A. Las condiciones astronómicas, geográficas y meteorológicas que modifican el clima
+- B. Las manifestaciones que permiten valuar y precisar la influencia de la radiación del calor y de la precipitación
+- C. Los fenómenos que se presentan en un cierto lapso en zonas o lugares determinados de la superficie de la Tierra
+- D. Los hidrometeoros, como la niebla y el granizo, que se producen en la atmósfera
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 120
+**Subtema:** climatología · factores del clima
+
+Factores. Son las condiciones astronómicas, geográficas y meteorológicas que modifican el clima, como la latitud geográfica, la altitud, la naturaleza de la superficie sobre las que descansan la atmósfera, el relieve, la vegetación, entre otros.
+
+### 5
+
+En relación con el libro de Geografía Moderna de México, ¿cuáles de los siguientes son ejemplos de factores del clima?
+
+- A. La latitud geográfica, la altitud, el relieve y la vegetación
+- B. La radiación del calor, la precipitación y el viento
+- C. La humedad atmosférica, la niebla y el granizo
+- D. La insolación, la evaporación y la nubosidad
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 120
+**Subtema:** climatología · factores del clima
+
+> Los distractores B, C y D son elementos del clima, no factores: es la trampa de confundir unos con otros.
+
+Factores. Son las condiciones astronómicas, geográficas y meteorológicas que modifican el clima, como la latitud geográfica, la altitud, la naturaleza de la superficie sobre las que descansan la atmósfera, el relieve, la vegetación, entre otros.
+
+### 6
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué son los elementos del clima?
+
+- A. Las manifestaciones que permiten valuar y precisar la influencia de la radiación del calor, de la precipitación, del viento y de la humedad atmosférica
+- B. Las condiciones astronómicas, geográficas y meteorológicas que modifican el clima
+- C. La rama de la meteorología que estudia los fenómenos atmosféricos de un lugar
+- D. La latitud, la altitud y la naturaleza de la superficie sobre la que descansa la atmósfera
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 120
+**Subtema:** climatología · elementos del clima
+
+Elementos. Son las manifestaciones que permiten valuar y precisar la influencia de la radiación del calor, de la precipitación, del viento, de la humedad atmosférica y en general, de los hidrometeoros (niebla y granizo, entre otros).
+
+### 7
+
+En relación con el libro de Geografía Moderna de México, al definir los elementos del clima, ¿qué dos hidrometeoros se mencionan como ejemplo?
+
+- A. La niebla y el granizo
+- B. El relieve y la altitud
+- C. La latitud y la vegetación
+- D. El viento y la insolación
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 120
+**Subtema:** climatología · elementos del clima
+
+Elementos. Son las manifestaciones que permiten valuar y precisar la influencia de la radiación del calor, de la precipitación, del viento, de la humedad atmosférica y en general, de los hidrometeoros (niebla y granizo, entre otros).
+
+## Sub-lote 2 · Factores climáticos de México
+
+### 8
+
+De acuerdo con el libro de Geografía Moderna de México, respecto de las zonas que cruzan el territorio nacional, ¿cuál cubre la mayor área del país?
+
+- A. La zona extratropical
+- B. La zona tropical
+- C. La zona del Trópico de Cáncer
+- D. La zona del cenit solar
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 120
+**Subtema:** climatología · factores climáticos de México
+
+México es cruzado por el Trópico de Cáncer, tiene parte de su territorio dentro de la zona tropical, mientras la porción restante, que es la que cubre mayor área, se extiende en la zona extratropical.
+
+### 9
+
+En relación con el libro de Geografía Moderna de México, ¿cuántas veces al año tiene el Sol sobre su cenit la parte del país situada al sur del Trópico de Cáncer?
+
+- A. Dos veces al año
+- B. Una vez al año
+- C. Tres veces al año
+- D. Cuatro veces al año
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 120
+**Subtema:** climatología · factores climáticos de México
+
+La parte situada al sur del Trópico de Cáncer tiene dos veces al año al Sol sobre su cenit.
+
+### 10
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cómo llegan los rayos solares a la zona extratropical del país?
+
+- A. Inclinados, con ángulo variable, pues nunca tiene el Sol sobre su cenit
+- B. Perpendiculares, con el Sol sobre su cenit dos veces al año
+- C. Perpendiculares durante todo el año, sin variación de ángulo
+- D. Inclinados sólo durante el invierno, y perpendiculares en verano
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 121
+**Subtema:** climatología · factores climáticos de México
+
+En cambio, la extratropical nunca lo tiene y siempre los rayos solares le llegan inclinados, con ángulo variable.
+
+### 11
+
+En relación con el libro de Geografía Moderna de México, ¿qué provoca que en una corta área existan numerosos microclimas en el país?
+
+- A. La altitud, variable en una corta área, por la complicada geomorfología del país
+- B. La cercanía simultánea al océano Pacífico y al océano Atlántico
+- C. El paso del Trópico de Cáncer por el centro del territorio
+- D. La insolación elevada del norte de Chihuahua, Sonora y Baja California
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 121
+**Subtema:** climatología · factores climáticos de México
+
+La complicada geomorfología de nuestro país impide hacer generalizaciones pensando en grandes extensiones que disfruten de un tipo de clima determinado, porque la altitud, variable en una corta área, provoca modificaciones tan fuertes que es necesario tener presente la existencia de numerosos microclimas.
+
+## Sub-lote 3 · Elementos climáticos: insolación y evaporación
+
+### 12
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cuáles son los elementos del clima que se analizan en el capítulo?
+
+- A. Insolación, evaporación, régimen térmico, presión barométrica, humedad relativa, nubosidad, heladas y lluvias
+- B. Latitud, altitud, relieve, vegetación, presión, viento y humedad
+- C. Temperatura, precipitación, viento, microclimas, factores y elementos
+- D. Régimen térmico, hidrometeoros, zonas tropicales, cenit y radiación solar
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 121
+**Subtema:** climatología · elementos del clima
+
+Analizaremos los siguientes elementos del clima: insolación, evaporación, régimen térmico, presión barométrica, humedad relativa, nubosidad, heladas y lluvias.
+
+### 13
+
+En relación con el libro de Geografía Moderna de México, ¿a qué se llama insolación?
+
+- A. Al periodo durante el cual los rayos llegan a la superficie de la Tierra
+- B. Al calentamiento que convierte en vapor el agua de mares, lagos y ríos
+- C. Al porcentaje del cielo que aparece cubierto por nubes en un lugar
+- D. A la cantidad de lluvia que cae en una región durante el año
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 121
+**Subtema:** climatología · insolación
+
+Se llama insolación al periodo durante el cual los rayos llegan a la superficie de la Tierra y es costumbre valorarla en porcentaje del tiempo a que se refiere: mes o año.
+
+### 14
+
+De acuerdo con el libro de Geografía Moderna de México, ¿en qué unidad se acostumbra valorar la insolación?
+
+- A. En porcentaje del tiempo a que se refiere: mes o año
+- B. En horas de Sol acumuladas por día
+- C. En grados de inclinación de los rayos solares
+- D. En calorías recibidas por centímetro cuadrado
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 121
+**Subtema:** climatología · insolación
+
+Es costumbre valorarla en porcentaje del tiempo a que se refiere: mes o año.
+
+### 15
+
+En relación con el libro de Geografía Moderna de México, ¿en qué región del país es más baja la insolación?
+
+- A. En la parte sureste del país y en la costa del Golfo de México
+- B. En la parte norte de los estados de Chihuahua, Sonora y Baja California
+- C. En el Altiplano y en la zona del Trópico de Cáncer
+- D. En la Península de Yucatán y el mar Caribe
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 121
+**Subtema:** climatología · insolación
+
+En la parte sureste del país y en la costa del Golfo de México, la insolación es la más baja de nuestro territorio; es mayor en el Altiplano y aumenta hacia el noroeste, alcanzando los valores más elevados en la parte norte de los estados de Chihuahua, Sonora y Baja California.
+
+### 16
+
+De acuerdo con el libro de Geografía Moderna de México, ¿en qué parte del país alcanza la insolación sus valores más elevados?
+
+- A. En la parte norte de los estados de Chihuahua, Sonora y Baja California
+- B. En la parte sureste del país y en la costa del Golfo de México
+- C. En la vertiente del Golfo de México y el mar Caribe
+- D. En el sur del Trópico de Cáncer, dentro de la zona tropical
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 121
+**Subtema:** climatología · insolación
+
+Es mayor en el Altiplano y aumenta hacia el noroeste, alcanzando los valores más elevados en la parte norte de los estados de Chihuahua, Sonora y Baja California.
+
+### 17
+
+En relación con el libro de Geografía Moderna de México, ¿dónde es reducido el número de días despejados?
+
+- A. En el sureste y en la costa del Golfo de México
+- B. En la Altiplanicie y el norte del país
+- C. En el norte de Chihuahua, Sonora y Baja California
+- D. En la zona extratropical del territorio
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 121
+**Subtema:** climatología · insolación
+
+Correlativamente, el número de días despejados es reducido en el sureste y en la costa del Golfo de México, aumenta en la Altiplanicie y gradualmente crece al norte de nuestro país, alcanzando los máximos valores al norte de Chihuahua, Sonora y Baja California.
+
+### 18
+
+De acuerdo con el libro de Geografía Moderna de México, ¿en qué consiste la evaporación como elemento del clima?
+
+- A. En que, por el calentamiento de los rayos solares, el agua de las superficies líquidas y de los suelos húmedos se convierte en vapor
+- B. En el periodo durante el cual los rayos solares llegan a la superficie de la Tierra
+- C. En la condensación del vapor de agua que da origen a la niebla y las nubes
+- D. En la humedad que contiene la atmósfera cuando está saturada a la temperatura ambiente
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 121
+**Subtema:** climatología · evaporación
+
+Como consecuencia del calentamiento que los rayos solares producen, aparece este importante fenómeno, que actúa principalmente sobre la superficie líquida (mares, lagos y ríos, principalmente) y en los suelos húmedos, convirtiendo el agua en vapor, mientras la atmósfera no esté saturada a la temperatura ambiente.
+
+### 19
+
+En relación con el libro de Geografía Moderna de México, ¿bajo qué condición se realiza la evaporación?
+
+- A. Mientras la atmósfera no esté saturada a la temperatura ambiente
+- B. Únicamente cuando la atmósfera está saturada de vapor de agua
+- C. Sólo durante la noche, cuando desciende la temperatura
+- D. Cuando los rayos solares llegan inclinados con ángulo variable
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 121
+**Subtema:** climatología · evaporación
+
+Convirtiendo el agua en vapor, mientras la atmósfera no esté saturada a la temperatura ambiente.
+
+## Sub-lote 4 · Evaporación: magnitud y condiciones
+
+### 20
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué lámina de agua se puede evaporar anualmente en nuestro país?
+
+- A. Una lámina que oscila de 2000 a 2500 mm anuales
+- B. Una lámina que oscila de 1000 a 1500 mm anuales
+- C. Una lámina que oscila de 1500 a 2000 mm anuales
+- D. Una lámina que oscila de 3000 a 3500 mm anuales
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 122
+**Subtema:** climatología · evaporación
+
+A pesar de que este fenómeno está ligado a factores locales, no varía fuertemente y en nuestro país se puede evaporar una lámina que oscila de 2000 a 2500 mm anuales.
+
+### 21
+
+En relación con el libro de Geografía Moderna de México, ¿de qué va siempre acompañada la evaporación?
+
+- A. De enfriamiento de la superficie líquida o del suelo
+- B. De calentamiento de la superficie líquida o del suelo
+- C. De la saturación inmediata de la atmósfera
+- D. De la condensación del vapor en forma de niebla
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 122
+**Subtema:** climatología · evaporación
+
+Toma calor de su alrededor, por lo que la evaporación siempre va acompañada de enfriamiento de la superficie líquida o del suelo.
+
+### 22
+
+De acuerdo con el libro de Geografía Moderna de México, ¿en qué zonas no se realiza la evaporación?
+
+- A. En las zonas áridas carentes de depósitos o de suelos húmedos
+- B. En las zonas de mayor altitud de la Cordillera Neovolcánica
+- C. En las costas del océano Pacífico y del Golfo de México
+- D. En la zona intertropical situada al sur del Trópico de Cáncer
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 122
+**Subtema:** climatología · evaporación
+
+Los volúmenes evaporados son función de las superficies capaces de producir vapor, de manera que en las zonas áridas carentes de depósitos o de suelos húmedos la evaporación no se realiza.
+
+## Sub-lote 5 · Régimen térmico e isotermas
+
+### 23
+
+En relación con el libro de Geografía Moderna de México, ¿qué son las isotermas?
+
+- A. Las curvas que unen los puntos que tienen una misma temperatura
+- B. Las curvas que unen los puntos que tienen una misma altitud
+- C. Las curvas que unen los puntos que tienen una misma presión
+- D. Las curvas que unen los puntos que reciben una misma cantidad de lluvia
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 122
+**Subtema:** climatología · régimen térmico
+
+Al unir los puntos que tienen una misma temperatura, en un periodo determinado, se pueden dibujar sobre una carta geográfica las isotermas o curvas de igual temperatura.
+
+### 24
+
+De acuerdo con el libro de Geografía Moderna de México, en el territorio al sur del paralelo 20°N con altitud máxima de 1000 m, ¿cuál es la temperatura media anual?
+
+- A. Superior a 24 °C
+- B. Superior a 20 °C
+- C. Entre 16 y 20 °C
+- D. Inferior a 18 °C
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 122
+**Subtema:** climatología · régimen térmico
+
+La carta de isotermas anuales permite observar que al sur del paralelo 20°N, el territorio con una altitud máxima de 1000 m está comprendido dentro del área limitada por la isoterma de 24°C; es decir, que en esa porción la temperatura media anual es superior a 24°C.
+
+### 25
+
+En relación con el libro de Geografía Moderna de México, en las zonas bajas tropicales, ¿por debajo de qué temperatura media no descienden en el mes más frío (enero)?
+
+- A. 18 °C
+- B. 14 °C
+- C. 12 °C
+- D. 20 °C
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 122
+**Subtema:** climatología · régimen térmico
+
+En las zonas bajas tropicales, la temperatura es bastante uniforme; en el mes más frío, que es enero, no se registran temperaturas medias menores a 18°C.
+
+### 26
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué región es la excepción por tener una media anual mayor a 24 °C pese a estar al norte del paralelo 20°N?
+
+- A. El extremo norte de la Península de Yucatán
+- B. La porción noroeste de la Altiplanicie Septentrional
+- C. Las cercanías de Zacatecas
+- D. La Cordillera Neovolcánica
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 122
+**Subtema:** climatología · régimen térmico
+
+Al norte del paralelo 20°N, las tierras comprendidas desde la orilla del mar hasta la altitud de 1000 m tienen una temperatura media anual comprendida entre 20 y 24°C, con excepción del extremo norte de la Península de Yucatán, que a pesar de tener mayor latitud del paralelo de 20°N, tiene una media anual mayor a 24°C.
+
+### 27
+
+En relación con el libro de Geografía Moderna de México, en el régimen térmico del territorio, ¿qué factor predomina?
+
+- A. La altitud
+- B. La latitud
+- C. La longitud
+- D. La cercanía al mar
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 124
+**Subtema:** climatología · régimen térmico
+
+Siempre se recuestan y toman como punto de apoyo las serranías, o sea que es visible, en el régimen térmico de nuestro territorio, la preponderancia de la altitud sobre la longitud.
+
+### 28
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cuál es la máxima temperatura observada en la porción intertropical, en altitudes de no más de 1500 m sobre el nivel del mar?
+
+- A. 40 °C
+- B. 36 °C
+- C. 44 °C
+- D. 48 °C
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 124
+**Subtema:** climatología · régimen térmico
+
+Se puede observar que en la porción intertropical la máxima temperatura observada es de 40°C, en altitudes de no más de 1500 m sobre el nivel del mar.
+
+### 29
+
+En relación con el libro de Geografía Moderna de México, la planicie costera noroccidental del estado de Sonora registra las temperaturas absolutas más elevadas del país; ¿qué valor alcanzan?
+
+- A. 56 °C
+- B. 48 °C
+- C. 50 °C
+- D. 40 °C
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 124
+**Subtema:** climatología · régimen térmico
+
+Las zonas donde se registran las más elevadas temperaturas absolutas son la planicie costera noroccidental del estado de Sonora, con temperaturas que alcanzan 56°C.
+
+### 30
+
+De acuerdo con el libro de Geografía Moderna de México, en buena parte del estado de Chihuahua, ¿qué valor excede la oscilación anual absoluta de la temperatura?
+
+- A. 70 °C
+- B. 60 °C
+- C. 50 °C
+- D. 48 °C
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 124
+**Subtema:** climatología · régimen térmico
+
+Buena parte del estado de Chihuahua registra máximas superiores a 48°C y mínimas inferiores a 22°C bajo cero, o sea, que la oscilación anual absoluta de la temperatura exceda a 70°C.
+
+## Sub-lote 6 · Presión barométrica
+
+### 31
+
+En relación con el libro de Geografía Moderna de México, ¿qué nombre reciben las líneas que unen los puntos donde se ha registrado una misma presión atmosférica?
+
+- A. Isobaras o líneas de igual presión
+- B. Isotermas o líneas de igual temperatura
+- C. Isoyetas o líneas de igual precipitación
+- D. Paralelos o líneas de igual latitud
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 131
+**Subtema:** climatología · presión barométrica
+
+Al unir los puntos donde se ha registrado una misma presión atmosférica, es posible trazar las líneas conocidas con el nombre de isobaras o líneas de igual presión.
+
+### 32
+
+De acuerdo con el libro de Geografía Moderna de México, según la carta de isobaras anuales medias, ¿dónde se definen zonas de alta presión?
+
+- A. En el Golfo de México y frente a la costa noroeste de Baja California
+- B. En la frontera con EUA y frente a las costas de Guerrero y Jalisco
+- C. En la Península de Yucatán y el mar Caribe
+- D. En el océano Pacífico, cerca de las islas Azores
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 131
+**Subtema:** climatología · presión barométrica
+
+Se definen zonas de alta presión en el Golfo de México y frente a la costa noroeste de Baja California, y zonas de baja presión en la frontera con EUA y frente a las costas de Guerrero y Jalisco.
+
+### 33
+
+En relación con el libro de Geografía Moderna de México, según la carta de isobaras anuales medias, ¿dónde se definen zonas de baja presión?
+
+- A. En la frontera con EUA y frente a las costas de Guerrero y Jalisco
+- B. En el Golfo de México y frente a la costa noroeste de Baja California
+- C. En el Altiplano y las cercanías de Zacatecas
+- D. En el extremo norte de la Península de Yucatán
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 131
+**Subtema:** climatología · presión barométrica
+
+Se definen zonas de alta presión en el Golfo de México y frente a la costa noroeste de Baja California, y zonas de baja presión en la frontera con EUA y frente a las costas de Guerrero y Jalisco.
+
+### 34
+
+De acuerdo con el libro de Geografía Moderna de México, en la carta de isobaras de julio, ¿dónde está situado el centro de máximas?
+
+- A. Cerca de las Azores, en el océano Atlántico
+- B. Sobre Norteamérica, compuesto por dos áreas
+- C. En el Golfo de México, frente a la costa de Veracruz
+- D. En el océano Pacífico, frente a Guerrero y Jalisco
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 131
+**Subtema:** climatología · presión barométrica
+
+En la carta de julio, el centro de máximas está situado cerca de las Azores, en el océano Atlántico, produciéndose vientos que recorren toda esa superficie líquida y generalmente vienen a chocar con el continente americano.
+
+### 35
+
+En relación con el libro de Geografía Moderna de México, en la carta de isobaras de enero, el centro de máximas sobre Norteamérica provoca movimientos de norte a sur que, por la rotación de la Tierra, ¿hacia dónde se dirigen?
+
+- A. Hacia el suroeste
+- B. Hacia el sureste
+- C. Hacia el noroeste
+- D. Hacia el noreste
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 131
+**Subtema:** climatología · presión barométrica
+
+En enero se tiene un centro de máximas sobre Norteamérica compuesto por dos áreas que provocan movimientos de norte a sur y que por la rotación de la Tierra se dirigen hacia el suroeste.
+
+### 36
+
+De acuerdo con el libro de Geografía Moderna de México, ¿cómo son los movimientos del viento en las calmas ecuatoriales, en la zona vecina al ecuador?
+
+- A. Ascendentes, por lo que no tienen corrientes horizontales
+- B. Descendentes, por lo que forman fuertes corrientes horizontales
+- C. Horizontales y constantes de este a oeste
+- D. Circulares alrededor de los centros de alta presión
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 131
+**Subtema:** climatología · vientos
+
+Calmas ecuatoriales. Es la zona vecina al ecuador; los movimientos del viento son ascendentes y, por tanto, no tienen corrientes horizontales.
