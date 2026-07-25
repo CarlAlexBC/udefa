@@ -53,19 +53,21 @@ problemática inicial"—.
 
 ## Cobertura actual
 
-**EN CURSO.** Primera tanda: la introducción al capítulo (pp. 778–779) —la
-definición de sensación y percepción, la organización jerárquica del sistema
-nervioso, la adaptación sensorial, la transducción y la codificación de la
-información sensorial—.
+**EN CURSO.** Cubiertas las pp. 778–781: la definición de sensación y percepción,
+la organización jerárquica del sistema nervioso, la adaptación sensorial, la
+transducción y la codificación de la información sensorial (tanda 1); y los cinco
+tipos de receptores (mecano-, quimio-, foto-, termo- y nociceptores), las vías
+nerviosas, el sistema visual, los sistemas sensoriales y la anatomía del ojo humano
+de la figura 33-2 (tanda 2).
 
 **Pendiente:** el capítulo 33 está **EN CURSO**. Sigue desde la página impresa
-**780** en adelante: los tipos de receptores sensoriales (mecanorreceptores,
-quimiorreceptores, termorreceptores, fotorreceptores, etc.), los sistemas
-sensoriales (tacto, gusto, olfato, audición, equilibrio y visión), el procesamiento
-en los centros nerviosos superiores y la respuesta motora, hasta antes del ensayo de
-cierre "Retomando la problemática inicial" y los ejercicios. Este capítulo lo pide
-**sólo la EMO**; mientras no se cierre, este archivo sostiene su propio pendiente.
-**Recordatorio de coordinación:** los capítulos 14, 15 y 37 son de otras sesiones.
+**782** en adelante: el resto del sistema visual (fototransducción, bastones y conos,
+procesamiento en la retina), los demás sistemas sensoriales (audición y equilibrio,
+gusto y olfato, tacto), el procesamiento en los centros nerviosos superiores y la
+respuesta motora, hasta antes del ensayo de cierre "Retomando la problemática
+inicial" y los ejercicios. Este capítulo lo pide **sólo la EMO**; mientras no se
+cierre, este archivo sostiene su propio pendiente. **Recordatorio de coordinación:**
+los capítulos 14, 15 y 37 son de otras sesiones.
 
 ## Cómo se escriben estos reactivos
 
@@ -304,12 +306,307 @@ De acuerdo con el libro de Biología, según la figura 33-1, ¿qué colores no p
 
 La abeja melífera no puede distinguir el rojo del gris.
 
+## Sub-lote 3 · Tipos de receptores sensoriales y vías nerviosas (p. 781)
+
+### 16
+
+De acuerdo con el libro de Biología, ¿qué receptores responden a la presión, el grado de contracción muscular, la posición de las articulaciones y el estímulo de las ondas sonoras?
+
+- A. Los mecanorreceptores
+- B. Los quimiorreceptores
+- C. Los fotorreceptores
+- D. Los termorreceptores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · tipos de receptores
+
+La presión, el grado de contracción muscular, la posición de las articulaciones del cuerpo y el estímulo de las ondas sonoras: mecanorreceptores, que originan sensaciones somáticas, como el tacto, propioceptivas o la audición.
+
+### 17
+
+En relación con el libro de Biología, ¿qué sensaciones originan los quimiorreceptores, que responden a la presencia de sustancias químicas?
+
+- A. Sensaciones olfativas o gustativas
+- B. Sensaciones visuales
+- C. Sensaciones somáticas de frío o calor
+- D. Sensaciones auditivas o propioceptivas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · tipos de receptores
+
+La presencia de sustancias químicas: quimiorreceptores, que originan sensaciones olfativas o gustativas.
+
+### 18
+
+De acuerdo con el libro de Biología, ¿qué receptores responden a la luz (fotones u ondas electromagnéticas) y originan sensaciones visuales?
+
+- A. Los fotorreceptores
+- B. Los mecanorreceptores
+- C. Los quimiorreceptores
+- D. Los termorreceptores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · tipos de receptores
+
+La luz (fotones u ondas electromagnéticas): fotorreceptores, que originan sensaciones visuales.
+
+### 19
+
+En relación con el libro de Biología, ¿qué receptores responden a la temperatura y originan sensaciones somáticas como el frío o el calor?
+
+- A. Los termorreceptores
+- B. Los fotorreceptores
+- C. Los mecanorreceptores
+- D. Los quimiorreceptores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · tipos de receptores
+
+La temperatura: termorreceptores, que originan sensaciones somáticas, como el frío o el calor.
+
+### 20
+
+De acuerdo con el libro de Biología, ¿cómo denominan algunos autores a los receptores especializados en captar estímulos químicos, mecánicos y térmicos nocivos para los tejidos?
+
+- A. Nociceptores
+- B. Mecanorreceptores
+- C. Termorreceptores
+- D. Electrorreceptores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · tipos de receptores
+
+Existen receptores especializados para captar estímulos químicos, mecánicos y térmicos nocivos para los tejidos, denominados por algunos autores como nociceptores.
+
+### 21
+
+En relación con el libro de Biología, ¿cómo se denominan comúnmente las rutas neuronales a través de las cuales ocurre la transmisión de un impulso dentro del sistema nervioso?
+
+- A. Vías nerviosas
+- B. Centros de relevo
+- C. Modalidades sensoriales
+- D. Órganos efectores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · vías nerviosas
+
+La transmisión de un impulso dentro del sistema nervioso ocurre a través de rutas neuronales comúnmente denominadas vías nerviosas.
+
+## Sub-lote 4 · El sistema visual y los sistemas sensoriales (p. 781)
+
+### 22
+
+De acuerdo con el libro de Biología, en su forma más simple, ¿qué es la visión, como ocurre en muchos invertebrados?
+
+- A. Solo el registro de la intensidad de la luz y cierta reacción a ella
+- B. La formación de un mapa detallado del patrón espacial sobre la retina
+- C. La distinción precisa de todos los colores del espectro
+- D. La percepción tridimensional de los objetos del ambiente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · sistema visual
+
+En su forma más simple, la visión es solo el registro de la intensidad de la luz y cierta reacción a ella, como ocurre en muchos invertebrados.
+
+### 23
+
+En relación con el libro de Biología, ¿cuál es el trabajo fundamental del ojo de los vertebrados, comparable al de una cámara fotográfica?
+
+- A. Hacer un mapa del patrón espacial de la ordenación óptica sobre la retina
+- B. Registrar solamente la intensidad de la luz
+- C. Convertir los sonidos en imágenes
+- D. Regular la temperatura del interior del ojo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · sistema visual
+
+El trabajo fundamental del ojo de los vertebrados –como una cámara fotográfica– es hacer un mapa del patrón espacial en la ordenación óptica sobre la retina.
+
+### 24
+
+De acuerdo con el libro de Biología, ¿cuáles se encuentran entre los sistemas fotorreceptores más desarrollados?
+
+- A. El ojo compuesto de los artrópodos, el ojo del pulpo y el de los vertebrados
+- B. Los ojos de todos los invertebrados por igual
+- C. Los mecanorreceptores de los mamíferos
+- D. Los termorreceptores de los reptiles
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · sistema visual
+
+El ojo compuesto de los artrópodos, el ojo del pulpo y el de los vertebrados se encuentran entre los sistemas fotorreceptores más desarrollados.
+
+### 25
+
+En relación con el libro de Biología, la información que ingresa por los sistemas sensoriales participa de forma principal en la percepción, el control del movimiento, el mantenimiento de la activación nerviosa y, además, ¿en qué otra función?
+
+- A. En la regulación de las funciones de los órganos internos
+- B. En la síntesis de las hormonas sexuales
+- C. En la reparación de los tejidos dañados
+- D. En la producción de las células sanguíneas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · sistemas sensoriales
+
+La información participa de forma principal en: a) la percepción; b) el control del movimiento; c) la regulación de las funciones de los órganos internos; y d) el mantenimiento de la activación nerviosa.
+
+## Sub-lote 5 · Anatomía del ojo humano (figura 33-2, p. 781)
+
+### 26
+
+De acuerdo con el libro de Biología, según la figura 33-2, ¿cómo está compuesto el ojo humano?
+
+- A. Por tres capas de tejido que forman una esfera llena de líquido
+- B. Por dos capas de tejido que forman un disco plano
+- C. Por una sola capa de tejido transparente
+- D. Por cuatro capas de músculo liso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · anatomía del ojo humano
+
+El ojo humano es un órgano complejo compuesto por tres capas de tejido que forman una esfera llena de líquido.
+
+### 27
+
+En relación con el libro de Biología, según la figura 33-2, ¿qué es la esclerótica, la capa externa del ojo?
+
+- A. Tejido conectivo blanco y fibroso que cumple una función protectora
+- B. Una capa media que contiene vasos sanguíneos
+- C. La capa más interna que contiene los fotorreceptores
+- D. Un orificio en el centro del iris
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · anatomía del ojo humano
+
+La capa externa –la esclerótica– es tejido conectivo blanco y fibroso, que cumple una función protectora.
+
+### 28
+
+De acuerdo con el libro de Biología, según la figura 33-2, ¿qué es la córnea?
+
+- A. La porción anterior de la esclerótica, que es transparente
+- B. La capa media del ojo, que contiene vasos sanguíneos
+- C. La zona de la retina de mayor agudeza visual
+- D. La parte coloreada del ojo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · anatomía del ojo humano
+
+La porción anterior de la esclerótica –la córnea– es transparente.
+
+### 29
+
+En relación con el libro de Biología, según la figura 33-2, ¿qué contiene la coroides, la capa media del ojo?
+
+- A. Vasos sanguíneos
+- B. Las células fotorreceptoras
+- C. Tejido conectivo blanco y fibroso
+- D. Líquido transparente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · anatomía del ojo humano
+
+La capa media –la coroides– contiene vasos sanguíneos.
+
+### 30
+
+De acuerdo con el libro de Biología, según la figura 33-2, ¿qué células contiene la retina, la capa más interna del ojo?
+
+- A. Las células fotorreceptoras: los bastones y los conos
+- B. Las células del músculo ciliar
+- C. Los vasos sanguíneos de la coroides
+- D. Las fibras de la esclerótica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · anatomía del ojo humano
+
+La capa más interna del ojo –la retina– contiene las células fotorreceptoras: los bastones y los conos.
+
+### 31
+
+En relación con el libro de Biología, según la figura 33-2, ¿qué es la fóvea?
+
+- A. La zona de la retina, cerca de su centro, de mayor agudeza visual
+- B. La porción transparente anterior de la esclerótica
+- C. El orificio central del iris
+- D. El círculo de músculo liso que sostiene el cristalino
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · anatomía del ojo humano
+
+La fóvea, cerca del centro de la retina, es la zona de mayor agudeza visual.
+
+### 32
+
+De acuerdo con el libro de Biología, según la figura 33-2, ¿qué es la pupila?
+
+- A. Un orificio en el centro del iris, cuyo tamaño regulan los músculos circulares del iris
+- B. La parte coloreada del ojo
+- C. La capa externa protectora del ojo
+- D. La zona de mayor agudeza visual de la retina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · anatomía del ojo humano
+
+La pupila es un orificio en el centro del iris, cuyo tamaño está regulado por el control de los músculos circulares del iris.
+
+### 33
+
+En relación con el libro de Biología, según la figura 33-2, ¿qué es el iris?
+
+- A. La parte coloreada del ojo, una estructura circular unida al cuerpo ciliar
+- B. La capa más interna del ojo, que contiene los fotorreceptores
+- C. El tejido conectivo blanco y fibroso de la capa externa
+- D. La porción transparente anterior de la esclerótica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · anatomía del ojo humano
+
+La parte coloreada del ojo –el iris– es una estructura circular unida al cuerpo ciliar.
+
+### 34
+
+De acuerdo con el libro de Biología, según la figura 33-2, ¿qué es el músculo ciliar?
+
+- A. Un círculo de músculo liso desde el cual se extienden los ligamentos suspensores que mantienen al cristalino en posición
+- B. La parte coloreada del ojo, unida a la pupila
+- C. La capa media del ojo, que contiene los vasos sanguíneos
+- D. El orificio central por donde entra la luz
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 781
+**Subtema:** Percepción sensorial · anatomía del ojo humano
+
+El músculo ciliar es un círculo de músculo liso, desde el cual se extienden los ligamentos suspensores que mantienen al cristalino en posición.
+
 ---
 
 **Pendiente:** el capítulo 33 está **EN CURSO** (ver la sección "Cobertura actual").
-Esta primera tanda cubre la introducción, pp. 778–779. Falta desde la p. 780: los
-tipos de receptores, los sistemas sensoriales (tacto, gusto, olfato, audición,
-equilibrio y visión), el procesamiento superior y la respuesta motora. Lo pide
-**sólo la EMO**. Los capítulos 14, 15 y 37 son de otras sesiones.
+Las dos primeras tandas cubren pp. 778–781: la introducción, los tipos de
+receptores, el sistema visual, los sistemas sensoriales y la anatomía del ojo
+humano. Falta desde la p. 782: el resto del sistema visual (fototransducción,
+bastones y conos, procesamiento en la retina), los demás sistemas sensoriales
+(audición y equilibrio, gusto y olfato, tacto), el procesamiento en los centros
+nerviosos superiores y la respuesta motora, hasta antes del ensayo de cierre
+"Retomando la problemática inicial" y los ejercicios. Lo pide **sólo la EMO**. Los
+capítulos 14, 15 y 37 son de otras sesiones.
 
-**Reactivos en este archivo:** 15
+**Reactivos en este archivo:** 34
