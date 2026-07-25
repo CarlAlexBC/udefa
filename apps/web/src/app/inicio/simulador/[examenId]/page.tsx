@@ -9,7 +9,7 @@ import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import {
   INSTRUCCIONES_POR_BLOQUE,
-  INSTRUCCIONES_POR_TIPO,
+  construirInstruccionesCultural,
   AVISO_CAMBIO_MATERIA,
   type InstruccionesBloque,
 } from '@/lib/instrucciones-bloques'
@@ -366,8 +366,13 @@ export default function SimuladorPage({
         esUltimo={esUltimoBloque}
         // De corrido: una sola instrucción para todo el examen, no una por
         // materia, y el progreso se cuenta en reactivos y no en bloques.
+        // De corrido (cultural): una sola instrucción para todo el examen, con
+        // las materias reales de ESTE plantel (los bloques ya vienen por plantel)
+        // y un ejemplo de una de sus materias — no las del HCM para todos.
         instruccionesDelExamen={
-          esDeCorrido && examen ? INSTRUCCIONES_POR_TIPO[examen.tipo] : undefined
+          esDeCorrido && examen
+            ? construirInstruccionesCultural(bloques.map((b) => b.nombre))
+            : undefined
         }
         totalReactivos={bloques.reduce((n, b) => n + b.reactivos.length, 0)}
         cronometroGlobalSeg={

@@ -145,33 +145,11 @@ export default function Home() {
             </p>
           </div>
 
+          {/* Orden: primero el cultural, después las tres fases psicológicas
+              (decisión de Carlo — es el orden del proceso de admisión). */}
           <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
             <FaseCard
               numero="01"
-              titulo="Psicométrico"
-              descripcion="Analogías, sinónimos, razonamiento lógico y abstracto en 4 bloques bajo presión de tiempo."
-              reactivos="250 reactivos"
-              duracion="40 min"
-              icono={<Brain className="h-5 w-5 text-accent" />}
-            />
-            <FaseCard
-              numero="02"
-              titulo="Personalidad"
-              descripcion="8 temas centrales con escala Likert. Detecta contradicciones a lo largo del examen."
-              reactivos="2,807 reactivos"
-              duracion="45 min"
-              icono={<UserCircle className="h-5 w-5 text-accent" />}
-            />
-            <FaseCard
-              numero="03"
-              titulo="Axiológico"
-              descripcion="Patriotismo, lealtad, honor y disciplina. Valida si tu perfil de valores encaja."
-              reactivos="155 reactivos"
-              duracion="10 min"
-              icono={<Scale className="h-5 w-5 text-accent" />}
-            />
-            <FaseCard
-              numero="04"
               titulo="Cultural"
               descripcion="Conocimientos generales de nivel bachillerato — 100 preguntas según la Convocatoria UDEFA 2026."
               reactivos="100 preguntas"
@@ -179,7 +157,40 @@ export default function Home() {
               icono={<BookOpen className="h-5 w-5 text-accent" />}
               proximamente
             />
+            <FaseCard
+              numero="02"
+              titulo="Psicométrico"
+              descripcion="Analogías, sinónimos, razonamiento lógico y abstracto en 4 bloques bajo presión de tiempo."
+              reactivos="100 reactivos"
+              duracion="40 min"
+              icono={<Brain className="h-5 w-5 text-accent" />}
+            />
+            <FaseCard
+              numero="03"
+              titulo="Personalidad"
+              descripcion="Mide rasgos centrales de tu personalidad. Lo que cuenta es la coherencia de tu perfil a lo largo del examen."
+              reactivos="256 reactivos"
+              duracion="45 min"
+              icono={<UserCircle className="h-5 w-5 text-accent" />}
+            />
+            <FaseCard
+              numero="04"
+              titulo="Axiológico"
+              descripcion="Patriotismo, lealtad, honor y disciplina. Valida si tu perfil de valores encaja."
+              reactivos="39 reactivos"
+              duracion="10 min"
+              icono={<Scale className="h-5 w-5 text-accent" />}
+            />
           </div>
+
+          {/* Leyenda: explica en llano el formato de respuesta de las fases
+              psicológicas, sin exponer el detalle técnico de la escala Likert. */}
+          <p className="mx-auto mt-6 max-w-2xl text-center text-xs leading-relaxed text-muted-foreground">
+            <span className="font-semibold text-foreground">Personalidad y Axiológico</span> se
+            responden en una escala de acuerdo/desacuerdo: no hay respuestas correctas ni
+            incorrectas. El sistema evalúa la coherencia de tu perfil a lo largo del examen, no
+            cuántas «aciertas».
+          </p>
         </div>
       </section>
 

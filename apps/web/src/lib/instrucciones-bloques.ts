@@ -119,11 +119,16 @@ export const INSTRUCCIONES_POR_BLOQUE: Record<string, InstruccionesBloque> = {
 }
 
 /* ═══════════════════════════════════════════════════════════════
-   EXÁMENES QUE CORREN DE CORRIDO
+   EXÁMENES QUE CORREN DE CORRIDO — el examen cultural
 
    El examen cultural NO se presenta por bloques: es una sola tanda de
    100 reactivos con una única instrucción al principio y un solo
    cronómetro de 2 horas (confirmado por Carlo el 21 jul 2026).
+
+   Y cambia por PLANTEL: cada escuela tiene su propio temario, así que
+   las materias y el ejemplo resuelto NO se escriben a mano (antes eran
+   las del HCM para todos). Se arman a partir de las materias reales del
+   examen —los bloques ya vienen por plantel desde el backend—.
 
    Las materias siguen existiendo por dentro —para armar el examen y
    para diagnosticar en el panel de resultados— pero el aspirante no ve
@@ -131,34 +136,109 @@ export const INSTRUCCIONES_POR_BLOQUE: Record<string, InstruccionesBloque> = {
    cambió de materia.
    ═══════════════════════════════════════════════════════════════ */
 
-/** Instrucciones que se muestran UNA vez, al empezar, indexadas por `Examen.tipo`. */
-export const INSTRUCCIONES_POR_TIPO: Record<string, InstruccionesBloque> = {
-  cultural: {
+/**
+ * Materias del examen cultural por plantel, tal como las pide su temario
+ * (docs/examen-cultural/temarios.json → `materias_en_portada`). Sirve al
+ * dashboard, que muestra las materias ANTES de armar el examen y por eso no
+ * puede leerlas de los bloques.
+ *
+ * La clave es el nombre del plantel EXACTO como está en la BD (`Plantel.nombre`)
+ * — el mismo que usa apps/web/src/lib/planteles.ts.
+ */
+export const MATERIAS_CULTURAL_POR_PLANTEL: Record<string, string[]> = {
+  'Heroico Colegio Militar': ['Español', 'Álgebra', 'Historia', 'Geografía'],
+  'Escuela Militar de Medicina': ['Biología', 'Química', 'Física General', 'Álgebra'],
+  'Escuela Militar de Odontología': ['Biología', 'Química', 'Física', 'Álgebra'],
+  'Escuela Militar de Enfermería': ['Biología', 'Química', 'Álgebra'],
+  'Escuela Militar de Oficiales de Sanidad': ['Biología', 'Química', 'Física General', 'Álgebra'],
+}
+
+/**
+ * Une una lista de materias en español: `["A","B","C"]` → `"A, B y C"`.
+ * Con `conjuncion: 'o'` da `"A, B o C"` (para el "practica sólo X u Y").
+ */
+export function unirMaterias(materias: string[], conjuncion: 'y' | 'o' = 'y'): string {
+  if (materias.length === 0) return 'las materias de tu temario'
+  if (materias.length === 1) return materias[0]
+  return `${materias.slice(0, -1).join(', ')} ${conjuncion} ${materias[materias.length - 1]}`
+}
+
+/**
+ * Ejemplos resueltos del examen cultural. Son reactivos REALES y TEXTUALES del
+ * banco —no inventados— para que el aspirante vea el estilo exacto de su examen:
+ * cuatro opciones muy parecidas y una sola correcta al pie de la letra.
+ *
+ * HCM → Álgebra de Baldor. Las escuelas de sanidad (EMM, EMO, EME, EMOS) →
+ * Biología de Curtis, la materia que comparten las cuatro.
+ */
+const EJEMPLO_CULTURAL_ALGEBRA: EjemploReactivo = {
+  enunciado: 'De acuerdo con el libro de Álgebra de Baldor, ¿qué es el Álgebra?',
+  opciones: [
+    'La rama de la Matemática que estudia la cantidad con valores determinados',
+    'La parte de la Geometría que estudia las figuras y sus medidas',
+    'La rama de la Matemática que estudia la cantidad considerada del modo más general posible',
+    'La ciencia que estudia únicamente los números y sus operaciones',
+  ],
+  respuestaCorrecta:
+    'La rama de la Matemática que estudia la cantidad considerada del modo más general posible',
+  explicacion:
+    'La primera opción describe la Aritmética, no el Álgebra, y es la confusión más común. Fíjate en que las cuatro opciones se parecen mucho: así es todo el examen. Léelas completas antes de contestar.',
+}
+
+const EJEMPLO_CULTURAL_BIOLOGIA: EjemploReactivo = {
+  enunciado:
+    'De acuerdo con el libro de Biología, ¿cuál es la principal restricción en cuanto al tamaño de la célula?',
+  opciones: [
+    'La que impone la relación entre su volumen y su superficie',
+    'La que impone la resistencia de la membrana celular',
+    'La que impone la cantidad de material genético que contiene',
+    'La que impone la presión de las células vecinas',
+  ],
+  respuestaCorrecta: 'La que impone la relación entre su volumen y su superficie',
+  explicacion:
+    'Las cuatro opciones empiezan igual ("La que impone…") y todas suenan razonables, pero sólo una es la que dice el libro: la relación entre el volumen y la superficie de la célula. Así es todo el examen cultural — es de recuerdo literal, no de deducir. Léelas completas antes de contestar.',
+}
+
+/**
+ * Elige el ejemplo según las materias del examen: si hay Biología es una escuela
+ * de sanidad (EMM, EMO, EME, EMOS); si no, es el HCM.
+ */
+function ejemploCulturalPara(materias: string[]): EjemploReactivo {
+  const hayBiologia = materias.some((m) => m.toLowerCase().startsWith('biolog'))
+  return hayBiologia ? EJEMPLO_CULTURAL_BIOLOGIA : EJEMPLO_CULTURAL_ALGEBRA
+}
+
+/**
+ * Arma la pantalla de instrucciones del examen cultural a partir de las materias
+ * REALES del examen (`bloques.map(b => b.nombre)`). Así cada plantel ve su propia
+ * lista y un ejemplo de una materia suya, sin escribir a mano las del HCM.
+ */
+export function construirInstruccionesCultural(materias: string[]): InstruccionesBloque {
+  const lista = unirMaterias(materias)
+  const hayAlgebra = materias.some((m) => m.toLowerCase().startsWith('álgebra') || m.toLowerCase().startsWith('algebra'))
+  return {
     titulo: 'Examen cultural',
     instrucciones:
-      'Son 100 reactivos de Español, Álgebra, Historia y Geografía, uno tras otro y sin pausa entre materias. Tienes 2 horas para todo el examen: puedes repartirlas como quieras, pero cuando el reloj llegue a cero el examen se cierra estés donde estés. Cada reactivo sale de los libros oficiales del temario y se evalúa que RECUERDES lo que dice el libro, no que lo deduzcas. En Álgebra no vas a resolver operaciones: se te pregunta por definiciones y reglas.',
-    ejemplo: {
-      enunciado: 'De acuerdo con el libro de Álgebra de Baldor, ¿qué es el Álgebra?',
-      opciones: [
-        'La rama de la Matemática que estudia la cantidad con valores determinados',
-        'La parte de la Geometría que estudia las figuras y sus medidas',
-        'La rama de la Matemática que estudia la cantidad considerada del modo más general posible',
-        'La ciencia que estudia únicamente los números y sus operaciones',
-      ],
-      respuestaCorrecta:
-        'La rama de la Matemática que estudia la cantidad considerada del modo más general posible',
-      explicacion:
-        'La primera opción describe la Aritmética, no el Álgebra, y es la confusión más común. Fíjate en que las cuatro opciones se parecen mucho: así es todo el examen. Léelas completas antes de contestar.',
-    },
+      `Son 100 reactivos de ${lista}, uno tras otro y sin pausa entre materias. ` +
+      'Tienes 2 horas para todo el examen: puedes repartirlas como quieras, pero cuando el reloj llegue a cero el examen se cierra estés donde estés. ' +
+      'Cada reactivo sale de los libros oficiales del temario y se evalúa que RECUERDES lo que dice el libro, no que lo deduzcas.' +
+      (hayAlgebra ? ' En Álgebra no vas a resolver operaciones: se te pregunta por definiciones y reglas.' : ''),
+    ejemplo: ejemploCulturalPara(materias),
     notaEspecial:
-      'Un solo cronómetro para las cuatro materias. Si te atoras en una pregunta, márcala mentalmente y sigue — es preferible perder una que quedarte sin tiempo para las últimas veinte.',
-  },
+      'Un solo cronómetro para todas las materias. Si te atoras en una pregunta, márcala mentalmente y sigue — es preferible perder una que quedarte sin tiempo para las últimas veinte.',
+  }
 }
 
 /** Aviso breve al entrar a cada materia. No corta el examen: sólo avisa. */
 export const AVISO_CAMBIO_MATERIA: Record<string, string> = {
+  // HCM
   Español: 'Reactivos del Taller de Lectura y Redacción 1.',
   'Álgebra': 'Álgebra de Baldor. Definiciones y reglas, no operaciones.',
   Historia: 'Historia Universal, el mundo contemporáneo.',
   'Geografía': 'Geografía Moderna de México. Fíjate en las cifras.',
+  // Escuelas de sanidad (EMM, EMO, EME, EMOS)
+  'Biología': 'Biología de Curtis. Lo que dice el libro, al pie de la letra.',
+  'Química': 'Química de Chang. Definiciones, nomenclatura y conceptos.',
+  'Física': 'Física de Pérez Montiel. Conceptos y definiciones, no problemas.',
+  'Física General': 'Física de Pérez Montiel. Conceptos y definiciones, no problemas.',
 }

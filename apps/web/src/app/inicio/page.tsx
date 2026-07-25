@@ -8,6 +8,7 @@ import { cn } from '@/lib/utils'
 import { Button, buttonVariants } from '@/components/ui/button'
 import { HeaderPrivado } from './HeaderPrivado'
 import { logoDePlantel } from '@/lib/planteles'
+import { MATERIAS_CULTURAL_POR_PLANTEL, unirMaterias } from '@/lib/instrucciones-bloques'
 import {
   AlertCircle,
   ArrowRight,
@@ -144,6 +145,11 @@ function Dashboard({
   /** El examen cultural de ESTE plantel, o null si todavía no existe. */
   examenCultural: ExamenDisponible | null
 }) {
+  // Materias del examen cultural de ESTE plantel (Biología/Química/Física/Álgebra
+  // en las escuelas de sanidad, Español/Álgebra/Historia/Geografía en el HCM).
+  // Antes estaban escritas a mano las del HCM para todos.
+  const materiasCultural = MATERIAS_CULTURAL_POR_PLANTEL[plantel.nombre] ?? []
+
   return (
     <main className="mx-auto max-w-5xl px-6 py-12">
       {/* Saludo personalizado */}
@@ -166,13 +172,7 @@ function Dashboard({
           Son dos pruebas distintas del proceso de admisión y se presentan por
           separado, así que cada una tiene su propio simulador. */}
       <section className="mb-8 grid grid-cols-1 gap-4 lg:grid-cols-2">
-        <SimuladorCompletoCTA
-          href="/inicio/sesion"
-          etiqueta="Examen simulador · Psicológico"
-          titulo="Las 3 fases seguidas, como en el examen real"
-          descripcion="Psicométrico → Personalidad → Axiológico. Sin pausa entre fases. Al final ves resultados agregados y coherencia global."
-          icono={<Star className="h-6 w-6 text-accent" />}
-        />
+        {/* Orden: primero el cultural, después el psicológico (decisión de Carlo). */}
         <SimuladorCompletoCTA
           href={examenCultural ? `/inicio/simulador/${examenCultural.id}` : undefined}
           etiqueta="Examen simulador · Cultural"
@@ -183,10 +183,17 @@ function Dashboard({
           }
           descripcion={
             examenCultural
-              ? 'Español, Álgebra, Historia y Geografía de corrido, con un solo cronómetro. Al final ves tus aciertos por materia y qué páginas repasar.'
+              ? `${unirMaterias(materiasCultural)} de corrido, con un solo cronómetro. Al final ves tus aciertos por materia y qué páginas repasar.`
               : `El examen cultural cambia según la escuela. El banco del ${plantel.nombre} todavía está en preparación.`
           }
           icono={<BookOpen className="h-6 w-6 text-accent" />}
+        />
+        <SimuladorCompletoCTA
+          href="/inicio/sesion"
+          etiqueta="Examen simulador · Psicológico"
+          titulo="Las 3 fases seguidas, como en el examen real"
+          descripcion="Psicométrico → Personalidad → Axiológico. Sin pausa entre fases. Al final ves resultados agregados y coherencia global."
+          icono={<Star className="h-6 w-6 text-accent" />}
         />
       </section>
 
@@ -213,14 +220,14 @@ function Dashboard({
             href="/inicio/simulador/2"
             fase="Fase 02"
             titulo="Personalidad"
-            descripcion="Escala Likert. 8 temas centrales. El sistema detecta contradicciones entre respuestas."
+            descripcion="256 reactivos sobre rasgos de personalidad. No hay respuestas correctas: el sistema mide la coherencia de tu perfil."
             icono={<UserCircle className="h-5 w-5 text-accent" />}
           />
           <ExamenCTA
             href="/inicio/simulador/3"
             fase="Fase 03"
             titulo="Axiológico"
-            descripcion="Perfil de valores militares. Escala de 5 puntos. Responde honestamente."
+            descripcion="39 reactivos sobre valores militares. Responde con honestidad; se evalúa si tu perfil de valores encaja."
             icono={<Scale className="h-5 w-5 text-accent" />}
           />
           {/* El simulador cultural completo vive arriba, con el psicológico.
@@ -230,7 +237,7 @@ function Dashboard({
           <ExamenCTA
             fase="Fase 04"
             titulo="Cultural por materia"
-            descripcion="Practica sólo Español, Álgebra, Historia o Geografía, sin cronómetro y con la referencia del libro a la mano."
+            descripcion={`Practica sólo ${unirMaterias(materiasCultural, 'o')}, sin cronómetro y con la referencia del libro a la mano.`}
             icono={<BookOpen className="h-5 w-5 text-accent" />}
             proximamente
           />
