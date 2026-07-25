@@ -1118,15 +1118,197 @@ En relación con el libro de Biología, según la figura 33-5, ¿cuál es el ver
 
 El piso del canal timpánico está formado por la membrana basilar, sobre la cual yace el órgano de Corti, el verdadero órgano sensorial.
 
+## Sub-lote 11 · Olfato, gusto y sistema somatosensorial (p. 786)
+
+### 69
+
+De acuerdo con el libro de Biología, ¿para qué animales es el sentido del olfato su "ventana al mundo", a diferencia de los seres humanos?
+
+- A. Para muchos animales, mientras que los seres humanos centran su percepción básicamente en la visión
+- B. Para los seres humanos, más que para cualquier otro animal
+- C. Para todos los animales por igual, incluidos los humanos
+- D. Para ningún animal, pues todos se guían por la visión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 786
+**Subtema:** Percepción sensorial · olfato
+
+Para muchos animales, el sentido del olfato es su "ventana al mundo". No es el caso de los seres humanos, que centramos nuestra percepción del medio externo básicamente en la visión.
+
+### 70
+
+En relación con el libro de Biología, en muchos animales, ¿qué comportamientos rige el olfato?
+
+- A. El comportamiento alimentario, la localización y selección de la pareja, la delimitación territorial y de senderos, y la recepción de señales de alarma
+- B. Únicamente la búsqueda de alimento
+- C. Solamente la localización de la pareja
+- D. Exclusivamente la orientación visual en el espacio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 786
+**Subtema:** Percepción sensorial · olfato
+
+En muchos animales, el olfato rige el comportamiento alimentario, la localización y selección de la pareja, la delimitación territorial y de senderos, y la recepción de señales de alarma.
+
+### 71
+
+De acuerdo con el libro de Biología, en los vertebrados terrestres, ¿dónde se encuentran las células gustativas, y qué constituyen junto con las células de soporte que las rodean?
+
+- A. Dentro de la boca; constituyen las papilas gustativas
+- B. En la mucosa nasal; constituyen los neurorreceptores olfatorios
+- C. Sobre la superficie del cuerpo; constituyen los exterorreceptores
+- D. En el oído interno; constituyen las células ciliadas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 786
+**Subtema:** Percepción sensorial · gusto
+
+En los vertebrados terrestres, las células gustativas se encuentran dentro de la boca. Los receptores gustativos y las células de soporte que los rodean constituyen las papilas gustativas.
+
+### 72
+
+En relación con el libro de Biología, en el sistema somatosensorial, ¿qué provoca la estimulación mecánica de la superficie corporal?
+
+- A. La sensación táctil
+- B. Las sensaciones térmicas
+- C. La propiocepción
+- D. La nocicepción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 786
+**Subtema:** Percepción sensorial · sistema somatosensorial
+
+La estimulación mecánica de la superficie corporal provoca la sensación táctil.
+
+### 73
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el fenómeno que provocan los desplazamientos mecánicos de los músculos y las articulaciones, y que ayuda a mantener la posición y controlar el movimiento?
+
+- A. La propiocepción
+- B. La nocicepción
+- C. La estereognosia
+- D. La quimiotaxis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 786
+**Subtema:** Percepción sensorial · sistema somatosensorial
+
+Los desplazamientos mecánicos de los músculos y las articulaciones constituyen estímulos que provocan el fenómeno denominado propiocepción. Con este término se agrupa a un conjunto de funciones del sistema nervioso que conducen a mantener la posición, controlar el movimiento de la cabeza, de los miembros y del cuerpo, y –junto con el sistema vestibular–, a la sensación de equilibrio.
+
+### 74
+
+En relación con el libro de Biología, ¿por qué es importante la nocicepción, provocada por estímulos químicos, mecánicos o térmicos nocivos?
+
+- A. Porque constituye una señal de alerta y una información significativa para la protección del organismo
+- B. Porque permite mantener la posición y el equilibrio del cuerpo
+- C. Porque produce la percepción de tridimensionalidad de los objetos
+- D. Porque orienta al animal hacia la fuente de un estímulo químico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 786
+**Subtema:** Percepción sensorial · sistema somatosensorial
+
+Los estímulos químicos, mecánicos o térmicos nocivos [provocan la] nocicepción. Este tipo de sensación, que puede provocar emociones fuertes, es importante porque constituye una señal de alerta y se convierte en una información significativa para la protección del organismo.
+
+### 75
+
+De acuerdo con el libro de Biología, ¿de qué tipo es la mayor parte de los receptores que constituyen el sistema somatosensorial, como los de la piel?
+
+- A. Del tipo mecanorreceptores
+- B. Del tipo fotorreceptores
+- C. Del tipo quimiorreceptores
+- D. Del tipo termorreceptores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 786
+**Subtema:** Percepción sensorial · sistema somatosensorial
+
+La mayor parte de los receptores que constituyen el sistema somatosensorial son del tipo mecanorreceptores, como los de la piel, que proveen información acerca del ambiente externo.
+
+### 76
+
+En relación con el libro de Biología, ¿cómo se denomina la percepción de tridimensionalidad que producen, combinados, el tacto y la propiocepción de la mano al manipular un objeto?
+
+- A. Estereognosia
+- B. Propiocepción
+- C. Quimiotaxis
+- D. Nocicepción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 786
+**Subtema:** Percepción sensorial · sistema somatosensorial
+
+El tacto y la propiocepción de la mano, combinados, producen la percepción de tridimensionalidad (estereognosia) cuando manipulamos un objeto. Esta capacidad sensorial nos permite, por ejemplo, distinguir un cuerpo esférico de uno cúbico al manipularlo a ciegas.
+
+### 77
+
+De acuerdo con el libro de Biología, ¿qué son los corpúsculos de Pacini, situados en la piel o debajo de ella?
+
+- A. Receptores rodeados de tejido conectivo, lo que modifica su respuesta a los estímulos táctiles
+- B. Células gustativas rodeadas de células de soporte
+- C. Cuerpos de carbonato de calcio que estimulan el aparato vestibular
+- D. Fotorreceptores compactados de la fóvea
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 786
+**Subtema:** Percepción sensorial · sistema somatosensorial
+
+Otros receptores situados en la piel o debajo de ella (como los corpúsculos de Pacini) están rodeados de tejido conectivo, lo que modifica su respuesta a los estímulos táctiles.
+
+### 78
+
+En relación con el libro de Biología, ¿qué es la quimiorrecepción?
+
+- A. La detección de ciertas sustancias químicas
+- B. La detección de la intensidad de la luz
+- C. La detección de las ondas de presión del aire
+- D. La detección de los cambios de temperatura
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 786
+**Subtema:** Percepción sensorial · sistemas químicos
+
+La quimiorrecepción –es decir, la detección de ciertas sustancias químicas– puede extenderse de manera amplia en el cuerpo de los animales.
+
+### 79
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el mecanismo por el cual un animal se orienta, se aleja o se acerca a la fuente de un estímulo químico?
+
+- A. Quimiotaxis
+- B. Quimiorrecepción
+- C. Propiocepción
+- D. Estereognosia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 786
+**Subtema:** Percepción sensorial · sistemas químicos
+
+Los quimiorreceptores obtienen información sobre el tipo, la intensidad y la proximidad o lejanía de ciertas sustancias; esto le permite al animal orientarse, alejarse o acercarse a la fuente de estímulo químico (este mecanismo se denomina quimiotaxis).
+
+### 80
+
+En relación con el libro de Biología, ¿cómo se denominan los receptores químicos que detectan sustancias que se encuentran a una cierta distancia?
+
+- A. Exterorreceptores
+- B. Interorreceptores
+- C. Mecanorreceptores
+- D. Termorreceptores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 786
+**Subtema:** Percepción sensorial · sistemas químicos
+
+La mayor parte de los animales tiene receptores químicos que detectan sustancias químicas que se encuentran a una cierta distancia (exterorreceptores).
+
 ---
 
 **Pendiente:** el capítulo 33 está **EN CURSO** (ver la sección "Cobertura actual").
-Las tandas cubren pp. 778–785: introducción, receptores, todo el sistema visual, la
-audición (el oído externo, medio e interno, la cóclea y el órgano de Corti) y el
-equilibrio (aparato vestibular y otolitos). Falta desde la p. 786: el gusto y el
-olfato (sentidos químicos), el tacto y los demás sentidos somáticos, el procesamiento
-en los centros nerviosos superiores y la respuesta motora, hasta antes del ensayo de
+Las tandas cubren pp. 778–786: introducción, receptores, sistema visual, audición y
+equilibrio, y los sentidos químicos y el sistema somatosensorial (olfato, gusto,
+tacto, propiocepción, nocicepción, estereognosia y quimiotaxis). Falta desde la
+p. 787: el resto de los sistemas químicos y del somatosensorial, el procesamiento en
+los centros nerviosos superiores y la respuesta motora, hasta antes del ensayo de
 cierre "Retomando la problemática inicial" y los ejercicios. Lo pide **sólo la EMO**.
 Los capítulos 14, 15 y 37 son de otras sesiones.
 
-**Reactivos en este archivo:** 68
+**Reactivos en este archivo:** 80
