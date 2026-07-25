@@ -32,7 +32,8 @@ export class AuthService {
 
     const LIMITE_DISPOSITIVOS = 2;
 
-    if (sesionesActivas >= LIMITE_DISPOSITIVOS) {
+    // Los admin no tienen tope de dispositivos (decisión de Carlo).
+    if (usuario.rol !== 'admin' && sesionesActivas >= LIMITE_DISPOSITIVOS) {
       throw new ForbiddenException(
         'Alcanzaste el máximo de dispositivos. Cierra sesión en otro dispositivo para continuar.',
       );

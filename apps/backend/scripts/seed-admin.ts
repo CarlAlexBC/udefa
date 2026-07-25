@@ -1,11 +1,12 @@
 /**
- * Seed que marca al usuario "raíz" del sistema como admin.
+ * Seed que marca a un usuario como admin. El correo va por parámetro.
  *
- * Corre:
- *   npx ts-node scripts/seed-admin.ts
+ * Corre (cualquiera de las dos formas):
+ *   npx ts-node scripts/seed-admin.ts tu-correo@gmail.com
+ *   ADMIN_EMAIL=tu-correo@gmail.com npx ts-node scripts/seed-admin.ts
  *
  * Qué hace:
- *   Busca al usuario con email ADMIN_EMAIL y setea rol='admin'.
+ *   Busca al usuario con ese email y setea rol='admin'.
  *   Idempotente: puedes correrlo varias veces sin efecto acumulado.
  *
  * Nota: si el usuario aún no está registrado, no lo crea (evitamos
@@ -16,7 +17,16 @@ import { PrismaClient } from '@prisma/client';
 
 const prisma = new PrismaClient();
 
-const ADMIN_EMAIL = 'alexbc1889@gmail.com';
+// Correo por parámetro: primer argumento, o variable de entorno ADMIN_EMAIL.
+const ADMIN_EMAIL = process.argv[2] ?? process.env.ADMIN_EMAIL ?? '';
+
+if (!ADMIN_EMAIL.includes('@')) {
+  console.error(
+    '✖ Falta el correo. Uso:\n' +
+      '    npx ts-node scripts/seed-admin.ts tu-correo@gmail.com',
+  );
+  process.exit(1);
+}
 
 async function main() {
   console.log(`▶ Seed Admin — marcando ${ADMIN_EMAIL} como admin`);
