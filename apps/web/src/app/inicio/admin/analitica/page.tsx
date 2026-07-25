@@ -13,7 +13,16 @@ import {
 } from 'recharts'
 import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
-import { AlertCircle, BarChart3, BookOpen, Brain, Loader2, TrendingUp } from 'lucide-react'
+import {
+  AlertCircle,
+  BarChart3,
+  BookOpen,
+  Brain,
+  Loader2,
+  Scale,
+  TrendingUp,
+  UserCircle,
+} from 'lucide-react'
 
 /* ═══════════════════════════════════════════════════════════
    Tipos
@@ -76,6 +85,23 @@ type AnaliticaCultural = {
   erroresPorTema: ErrorTema[]
 }
 
+// Distribución: exámenes sin acierto/error (Personalidad, Axiológico).
+type DistribucionItem = {
+  reactivoId: number
+  enunciado: string
+  tema: string | null
+  polaridad: 'POSITIVA' | 'NEGATIVA' | 'TRAMPA' | null
+  total: number
+  mayoritaria: number
+  distribucion: Array<{ respuesta: string; n: number; pct: number }>
+}
+
+type Distribucion = {
+  examenId: number
+  totalRespuestas: number
+  items: DistribucionItem[]
+}
+
 /**
  * Color de la barra según la tasa de error: verde bajo, ámbar medio, rojo alto.
  * Ayuda a leer la gráfica de un vistazo sin mirar los números.
@@ -91,7 +117,9 @@ function colorPorTasa(tasa: number): string {
    ═══════════════════════════════════════════════════════════ */
 
 export default function AnaliticaPage() {
-  const [vista, setVista] = useState<'psicologico' | 'cultural'>('psicologico')
+  const [vista, setVista] = useState<
+    'psicometrico' | 'personalidad' | 'axiologico' | 'cultural'
+  >('psicometrico')
 
   return (
     <div>
@@ -100,22 +128,37 @@ export default function AnaliticaPage() {
           Administración
         </p>
         <h1 className="mt-1 text-2xl font-semibold tracking-tight text-foreground">
-          Analítica de errores
+          Analítica
         </h1>
         <p className="mt-2 max-w-2xl text-sm text-muted-foreground">
-          Dónde fallan más los aspirantes. Solo cubre exámenes con respuesta
-          correcta (Psicométrico y Cultural).
+          Cómo responden los aspirantes. En Psicométrico y Cultural, dónde fallan
+          más; en Personalidad y Axiológico —que no tienen acierto/error— cómo se
+          reparten las respuestas.
         </p>
       </div>
 
-      {/* Pestañas */}
-      <div className="mb-6 inline-flex gap-1 rounded-lg border border-border bg-card p-1">
+      {/* Pestañas — una por examen. */}
+      <div className="mb-6 inline-flex flex-wrap gap-1 rounded-lg border border-border bg-card p-1">
         <TabBtn
-          activo={vista === 'psicologico'}
-          onClick={() => setVista('psicologico')}
+          activo={vista === 'psicometrico'}
+          onClick={() => setVista('psicometrico')}
           icon={Brain}
         >
-          Psicológico
+          Psicométrico
+        </TabBtn>
+        <TabBtn
+          activo={vista === 'personalidad'}
+          onClick={() => setVista('personalidad')}
+          icon={UserCircle}
+        >
+          Personalidad
+        </TabBtn>
+        <TabBtn
+          activo={vista === 'axiologico'}
+          onClick={() => setVista('axiologico')}
+          icon={Scale}
+        >
+          Axiológico
         </TabBtn>
         <TabBtn
           activo={vista === 'cultural'}
@@ -126,7 +169,15 @@ export default function AnaliticaPage() {
         </TabBtn>
       </div>
 
-      {vista === 'psicologico' ? <VistaPsicologico /> : <VistaCultural />}
+      {vista === 'psicometrico' ? (
+        <VistaPsicologico />
+      ) : vista === 'personalidad' ? (
+        <VistaDistribucion examenId={2} nombre="Personalidad" />
+      ) : vista === 'axiologico' ? (
+        <VistaDistribucion examenId={3} nombre="Axiológico" />
+      ) : (
+        <VistaCultural />
+      )}
     </div>
   )
 }
@@ -321,6 +372,184 @@ function VistaCultural() {
         />
       </Section>
     </>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Vista Personalidad / Axiológico (GET /admin/distribucion)
+   — exámenes sin acierto/error: se mide la distribución de respuestas
+   ═══════════════════════════════════════════════════════════ */
+
+// Por encima de este % en la respuesta dominante, el reactivo "no discrimina":
+// casi todos contestan igual, así que no separa a un aspirante de otro.
+const UMBRAL_POCO_DISCRIMINA = 85
+
+// Paleta categórica para los segmentos de la barra de distribución.
+const COLORES_DIST = ['#10b981', '#64748b', '#f59e0b', '#6366f1', '#f43f5e']
+
+function VistaDistribucion({
+  examenId,
+  nombre,
+}: {
+  examenId: number
+  nombre: string
+}) {
+  const [data, setData] = useState<Distribucion | null>(null)
+  const [cargando, setCargando] = useState(true)
+  const [error, setError] = useState('')
+
+  useEffect(() => {
+    setCargando(true)
+    setError('')
+    apiFetch<Distribucion>(`/admin/distribucion?examenId=${examenId}`)
+      .then((res) => {
+        setData(res)
+        setCargando(false)
+      })
+      .catch((err) => {
+        setError((err as Error).message)
+        setCargando(false)
+      })
+  }, [examenId])
+
+  if (cargando) return <Cargando />
+  if (error || !data) return <ErrorBox mensaje={error || 'Sin datos'} />
+
+  if (data.totalRespuestas === 0) {
+    return (
+      <SinDatos
+        texto={`En cuanto los aspirantes resuelvan el simulador de ${nombre}, aquí verás cómo se reparten las respuestas de cada reactivo.`}
+      />
+    )
+  }
+
+  return (
+    <>
+      <ResumenRespuestas n={data.totalRespuestas} />
+      <Section titulo="Distribución de respuestas por reactivo">
+        <p className="mb-3 max-w-2xl text-xs text-muted-foreground">
+          {nombre} no tiene respuestas correctas: se mide cómo se reparten.
+          Arriba salen los reactivos que casi todos responden igual —«no
+          discriminan» entre aspirantes y conviene revisarlos—. Ojo con la
+          polaridad: en un rasgo muy marcado, un reparto disparejo puede ser lo
+          esperado.
+        </p>
+        <TablaDistribucion items={data.items} />
+      </Section>
+    </>
+  )
+}
+
+function TablaDistribucion({ items }: { items: DistribucionItem[] }) {
+  return (
+    <div className="overflow-hidden rounded-xl border border-border bg-card shadow-sm">
+      <div className="overflow-x-auto">
+        <table className="w-full text-left text-sm">
+          <thead className="border-b border-border bg-muted/40 text-[10px] uppercase tracking-widest text-muted-foreground">
+            <tr>
+              <th className="px-3 py-2 font-semibold">Enunciado</th>
+              <th className="px-3 py-2 font-semibold">Polaridad</th>
+              <th className="px-3 py-2 font-semibold">Distribución</th>
+              <th className="px-3 py-2 text-right font-semibold">Respuestas</th>
+            </tr>
+          </thead>
+          <tbody>
+            {items.map((it) => (
+              <tr
+                key={it.reactivoId}
+                className="border-b border-border/40 last:border-b-0 hover:bg-muted/20"
+              >
+                <td className="max-w-md px-3 py-2 text-xs text-foreground">
+                  <p className="line-clamp-2">{it.enunciado}</p>
+                  {it.mayoritaria >= UMBRAL_POCO_DISCRIMINA && (
+                    <span className="mt-1 inline-flex items-center rounded-full bg-amber-500/10 px-2 py-0.5 text-[10px] font-semibold text-amber-600">
+                      poco discrimina · {it.mayoritaria}%
+                    </span>
+                  )}
+                </td>
+                <td className="px-3 py-2">
+                  <PolaridadTag polaridad={it.polaridad} />
+                </td>
+                <td className="px-3 py-2">
+                  <BarraDistribucion distribucion={it.distribucion} />
+                </td>
+                <td className="px-3 py-2 text-right text-xs text-muted-foreground">
+                  {it.total}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  )
+}
+
+/** Barra horizontal con un segmento por respuesta + leyenda con % debajo. */
+function BarraDistribucion({
+  distribucion,
+}: {
+  distribucion: DistribucionItem['distribucion']
+}) {
+  return (
+    <div className="min-w-[220px]">
+      <div className="flex h-3.5 w-full overflow-hidden rounded-full border border-border">
+        {distribucion.map((d, i) => (
+          <div
+            key={d.respuesta}
+            style={{
+              width: `${d.pct}%`,
+              backgroundColor: COLORES_DIST[i % COLORES_DIST.length],
+            }}
+            title={`${d.respuesta}: ${d.pct}% (${d.n})`}
+          />
+        ))}
+      </div>
+      <div className="mt-1 flex flex-wrap gap-x-3 gap-y-0.5">
+        {distribucion.map((d, i) => (
+          <span
+            key={d.respuesta}
+            className="inline-flex items-center gap-1 text-[10px] text-muted-foreground"
+          >
+            <span
+              className="h-2 w-2 rounded-full"
+              style={{ backgroundColor: COLORES_DIST[i % COLORES_DIST.length] }}
+            />
+            {d.respuesta} {d.pct}%
+          </span>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+/** Etiqueta de polaridad para Personalidad (POSITIVA/NEGATIVA/TRAMPA). */
+function PolaridadTag({
+  polaridad,
+}: {
+  polaridad: DistribucionItem['polaridad']
+}) {
+  if (!polaridad)
+    return <span className="text-xs text-muted-foreground/60">—</span>
+  const clase: Record<string, string> = {
+    POSITIVA: 'bg-emerald-500/10 text-emerald-600',
+    NEGATIVA: 'bg-rose-500/10 text-rose-600',
+    TRAMPA: 'bg-amber-500/10 text-amber-600',
+  }
+  const etiqueta: Record<string, string> = {
+    POSITIVA: 'Positiva',
+    NEGATIVA: 'Negativa',
+    TRAMPA: 'Trampa',
+  }
+  return (
+    <span
+      className={cn(
+        'inline-flex items-center rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest',
+        clase[polaridad] ?? 'bg-muted text-muted-foreground',
+      )}
+    >
+      {etiqueta[polaridad] ?? polaridad}
+    </span>
   )
 }
 

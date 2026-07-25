@@ -1,4 +1,4 @@
-import { Controller, Get, UseGuards } from '@nestjs/common';
+import { Controller, Get, Query, UseGuards } from '@nestjs/common';
 import { AdminService } from './admin.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
@@ -22,5 +22,14 @@ export class AdminController {
   @Get('analitica')
   obtenerAnalitica() {
     return this.adminService.obtenerAnalitica();
+  }
+
+  /**
+   * Distribución de respuestas para exámenes sin acierto/error
+   * (Personalidad=2, Axiológico=3). Ver AdminService.obtenerDistribucion.
+   */
+  @Get('distribucion')
+  obtenerDistribucion(@Query('examenId') examenId: string) {
+    return this.adminService.obtenerDistribucion(Number(examenId));
   }
 }

@@ -284,4 +284,67 @@ export class AdminService {
       erroresPorTema,
     };
   }
+
+  /**
+   * Distribución de respuestas para exámenes NO calificables (Personalidad=2,
+   * Axiológico=3). No hay acierto/error, así que el análogo de "reactivos más
+   * fallados" es: por cada reactivo, cómo se reparten las respuestas. Un reparto
+   * muy disparejo (casi todos contestan lo mismo) = reactivo que no discrimina
+   * entre aspirantes, candidato a revisión.
+   *
+   * Estrategia: un groupBy por (reactivo, respuesta) agrega todo en la BD; el
+   * resto es rollup en memoria sobre ese set ya reducido.
+   */
+  async obtenerDistribucion(examenId: number) {
+    const grupos = await this.prisma.respuestaReactivo.groupBy({
+      by: ['reactivoId', 'respuestaSeleccionada'],
+      where: { reactivo: { bloque: { examenId } } },
+      _count: { _all: true },
+    });
+
+    // reactivoId → (respuesta → conteo)
+    const porReactivo = new Map<number, Map<string, number>>();
+    for (const g of grupos) {
+      const m = porReactivo.get(g.reactivoId) ?? new Map<string, number>();
+      m.set(g.respuestaSeleccionada, g._count._all);
+      porReactivo.set(g.reactivoId, m);
+    }
+
+    // Metadata (enunciado, tema, polaridad) de los reactivos con respuestas.
+    const reactivoIds = [...porReactivo.keys()];
+    const reactivos = await this.prisma.reactivo.findMany({
+      where: { id: { in: reactivoIds } },
+      select: { id: true, enunciado: true, tema: true, polaridad: true },
+    });
+    const meta = new Map(reactivos.map((r) => [r.id, r]));
+
+    const items = reactivoIds
+      .map((id) => {
+        const dist = porReactivo.get(id)!;
+        const total = [...dist.values()].reduce((a, b) => a + b, 0);
+        const distribucion = [...dist.entries()]
+          .map(([respuesta, n]) => ({
+            respuesta,
+            n,
+            pct: total > 0 ? Math.round((n / total) * 100) : 0,
+          }))
+          .sort((a, b) => b.n - a.n);
+        const m = meta.get(id);
+        return {
+          reactivoId: id,
+          enunciado: m?.enunciado ?? '(reactivo eliminado)',
+          tema: m?.tema ?? null,
+          polaridad: m?.polaridad ?? null,
+          total,
+          // % de la respuesta dominante: alto = poco discrimina.
+          mayoritaria: distribucion[0]?.pct ?? 0,
+          distribucion,
+        };
+      })
+      // Los menos discriminantes (reparto más disparejo) primero.
+      .sort((a, b) => b.mayoritaria - a.mayoritaria || b.total - a.total);
+
+    const totalRespuestas = items.reduce((a, it) => a + it.total, 0);
+    return { examenId, totalRespuestas, items };
+  }
 }
