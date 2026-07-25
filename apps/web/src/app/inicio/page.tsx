@@ -14,7 +14,9 @@ import {
   ArrowRight,
   BookOpen,
   Brain,
+  CheckCircle2,
   Loader2,
+  Repeat,
   Scale,
   Star,
   UserCircle,
@@ -167,6 +169,10 @@ function Dashboard({
 
       {/* Card del plantel — con logo oficial */}
       <PlantelHeroCard plantel={plantel} />
+
+      {/* Repaso espaciado — la "capa verde". Sólo aparece si el aspirante ya
+          tiene cola sembrada (hizo al menos un simulacro cultural). */}
+      <RepasoHoyCard />
 
       {/* CTAs principales: los dos exámenes simuladores completos.
           Son dos pruebas distintas del proceso de admisión y se presentan por
@@ -402,6 +408,71 @@ function ExamenCTA({
         Iniciar simulador
         <ArrowRight className="h-3 w-3 transition-transform group-hover:translate-x-0.5" />
       </div>
+    </Link>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Sub-componente: entrada al repaso espaciado ("capa verde")
+   - Sin cola sembrada (total 0) → no se muestra nada.
+   - Con reactivos vencidos hoy   → tarjeta en latón, enlaza al repaso.
+   - Al día (0 vencidos) hoy       → tarjeta apagada, sin enlace.
+   ═══════════════════════════════════════════════════════════ */
+
+type ResumenRepaso = { pendientesHoy: number; total: number }
+
+function RepasoHoyCard() {
+  const [resumen, setResumen] = useState<ResumenRepaso | null>(null)
+
+  useEffect(() => {
+    apiFetch<ResumenRepaso>('/repasos/resumen')
+      .then(setResumen)
+      .catch(() => setResumen(null))
+  }, [])
+
+  // Nunca hizo un simulacro cultural → nada que repasar todavía.
+  if (!resumen || resumen.total === 0) return null
+
+  if (resumen.pendientesHoy === 0) {
+    return (
+      <div className="mb-8 flex items-center gap-4 rounded-xl border border-border bg-card p-5">
+        <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-military/10">
+          <CheckCircle2 className="h-5 w-5 text-military" />
+        </div>
+        <div>
+          <p className="text-[10px] font-bold uppercase tracking-widest text-military">
+            Repaso espaciado
+          </p>
+          <p className="mt-0.5 font-semibold text-foreground">Vas al día</p>
+          <p className="mt-0.5 text-xs text-muted-foreground">
+            No tienes reactivos por repasar hoy. Vuelve mañana.
+          </p>
+        </div>
+      </div>
+    )
+  }
+
+  const n = resumen.pendientesHoy
+  return (
+    <Link
+      href="/inicio/repaso"
+      className="group mb-8 flex items-center gap-4 rounded-xl border-2 border-accent bg-accent/5 p-5 transition-colors hover:bg-accent/10"
+    >
+      <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-accent/20">
+        <Repeat className="h-5 w-5 text-accent" />
+      </div>
+      <div className="flex-1">
+        <p className="text-[10px] font-bold uppercase tracking-widest text-accent">
+          Repaso de hoy
+        </p>
+        <p className="mt-0.5 font-semibold text-foreground">
+          {n} {n === 1 ? 'reactivo te espera' : 'reactivos te esperan'}
+        </p>
+        <p className="mt-0.5 text-xs text-muted-foreground">
+          Repásalos con corrección inmediata y la cita del libro.
+        </p>
+      </div>
+      <ArrowRight className="hidden h-5 w-5 shrink-0 text-accent transition-transform group-hover:translate-x-1 md:block" />
     </Link>
   )
 }
