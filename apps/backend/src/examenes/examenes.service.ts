@@ -116,6 +116,26 @@ export class ExamenesService {
    */
   private readonly REPARTO_CULTURAL: Record<string, number> = {};
 
+  /**
+   * Nombre del plantel (tal como se guarda en Plantel.nombre) → código del
+   * temario/puente (HCM, EMM…).
+   *
+   * temarios.json y puente-oferta-demanda.json identifican al plantel por
+   * CÓDIGO, pero un Examen guarda plantelId → Plantel.nombre (el nombre largo).
+   * Este mapa cruza los dos. Los nombres son los mismos que usa el front para
+   * los logos (apps/web/src/lib/planteles.ts) y el seed de planteles.
+   *
+   * Si un examen cultural apunta a un plantel que no está aquí, el armado falla
+   * con un 404 claro en vez de servir un examen vacío en silencio.
+   */
+  private readonly CODIGO_POR_PLANTEL: Record<string, string> = {
+    'Heroico Colegio Militar': 'HCM',
+    'Escuela Militar de Medicina': 'EMM',
+    'Escuela Militar de Enfermería': 'EME',
+    'Escuela Militar de Odontología': 'EMO',
+    'Escuela Militar de Oficiales de Sanidad': 'EMOS',
+  };
+
   async armarExamen(examenId: number, usuarioId?: number) {
     const examen = await this.prisma.examen.findUnique({
       where: { id: examenId },
@@ -145,6 +165,14 @@ export class ExamenesService {
           'Este examen es de otro plantel. El examen cultural cambia según la escuela a la que te presentas.',
         );
       }
+    }
+
+    // El examen CULTURAL se sirve del ÁRBOL DE OFERTA (por temaId), no del banco
+    // plano: cualquier plantel usa el banco compartido y las opciones se barajan POR
+    // INTENTO. Devuelve la MISMA forma que el flat de abajo, así el simulador y los
+    // intentos no cambian. (El plano 'cultural-hcm' queda como respaldo, sin uso.)
+    if (examen.tipo === 'cultural') {
+      return this.armarCulturalParaSimulador(examen);
     }
 
     const reactivosPorBloque =
@@ -233,6 +261,61 @@ export class ExamenesService {
     }
 
     return { tipo: 'cultural', plantel, carrera: carrera.carrera, anio: carrera.anio, bloques };
+  }
+
+  /**
+   * Arma el examen CULTURAL para el simulador, desde el árbol de oferta.
+   *
+   * Es el puente entre el Examen de la base (que trae plantelId numérico) y
+   * armarExamenCultural (que pide el CÓDIGO de plantel). Resuelve el código con
+   * CODIGO_POR_PLANTEL, reusa armarExamenCultural —que lee el puente y baraja las
+   * opciones POR INTENTO— y devuelve la MISMA forma que el camino plano de
+   * armarExamen ({...examen, bloques}), para que el simulador y los intentos no
+   * cambien.
+   *
+   * Los bloques del cultural son SINTÉTICOS: sus reactivos cuelgan de un Tema, no
+   * de un Bloque de la base, así que se les fabrica el id/orden/tiempoLimite que
+   * el front espera. El reloj del cultural es global (examen.duracionMin), de modo
+   * que tiempoLimite por bloque es sólo informativo.
+   */
+  private async armarCulturalParaSimulador(examen: {
+    id: number;
+    tipo: string;
+    nombre: string;
+    duracionMin: number;
+    calificable: boolean;
+    plantelId: number | null;
+    anio: number | null;
+    bloques: unknown;
+  }) {
+    if (examen.plantelId === null) {
+      throw new NotFoundException(
+        'El examen cultural no tiene plantel asignado; no se puede resolver su temario.',
+      );
+    }
+    const plantel = await this.prisma.plantel.findUnique({
+      where: { id: examen.plantelId },
+      select: { nombre: true },
+    });
+    const codigo = plantel ? this.CODIGO_POR_PLANTEL[plantel.nombre] : undefined;
+    if (!codigo) {
+      throw new NotFoundException(
+        `El plantel "${plantel?.nombre ?? examen.plantelId}" no tiene un código de temario conocido para el examen cultural.`,
+      );
+    }
+
+    const armado = await this.armarExamenCultural(codigo);
+
+    const bloques = armado.bloques.map((b, i) => ({
+      id: i + 1,
+      examenId: examen.id,
+      nombre: b.nombre,
+      orden: i + 1,
+      tiempoLimite: examen.duracionMin,
+      reactivos: b.reactivos,
+    }));
+
+    return { ...examen, bloques };
   }
 
   /** Ruta a un archivo de docs/examen-cultural/, robusta a desde dónde se corra. */
