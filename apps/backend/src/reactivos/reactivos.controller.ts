@@ -58,6 +58,18 @@ export class ReactivosController {
     );
   }
 
+  /**
+   * Igual que `temas` pero con el conteo de cada tema. Se declara junto al
+   * anterior, ANTES del `@Get()` genérico y de `@Delete(':id')`, para que Nest
+   * no lo tome como un `:id`.
+   */
+  @Get('temas-conteo')
+  listarTemasConConteo(@Query('examenId') examenId?: string) {
+    return this.reactivosService.listarTemasConConteo(
+      examenId ? Number(examenId) : undefined,
+    );
+  }
+
   @Get()
   obtenerTodos(
     @Query('take') take?: string,

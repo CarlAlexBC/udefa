@@ -221,7 +221,7 @@ export default function AdminHomePage() {
                       borderRadius: 8,
                       fontSize: 12,
                     }}
-                    formatter={(v: number) => [`${v} aspirantes`, 'Usuarios']}
+                    formatter={(v) => [`${Number(v)} aspirantes`, 'Usuarios']}
                   />
                   <Bar dataKey="usuarios" radius={[0, 4, 4, 0]}>
                     {stats.distribucionPorPlantel.map((_, idx) => (

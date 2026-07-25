@@ -149,6 +149,28 @@ export class ReactivosService {
       .filter((t): t is string => t !== null);
   }
 
+  /**
+   * Igual que `listarTemas` pero con el número de reactivos de cada tema, en un
+   * solo `groupBy` (no N counts). Alimenta el árbol del banco psicológico para
+   * que cada tema muestre su tamaño, igual que el Banco cultural. Excluye los
+   * reactivos sin tema —los mismos que `listarTemas` ya no lista—; siguen siendo
+   * accesibles por búsqueda.
+   */
+  async listarTemasConConteo(examenId?: number) {
+    const grupos = await this.prisma.reactivo.groupBy({
+      by: ['tema'],
+      where: {
+        tema: { not: null },
+        ...(examenId ? { bloque: { examenId } } : {}),
+      },
+      _count: { _all: true },
+      orderBy: { tema: 'asc' },
+    });
+    return grupos
+      .filter((g): g is typeof g & { tema: string } => g.tema !== null)
+      .map((g) => ({ tema: g.tema, total: g._count._all }));
+  }
+
   async borrar(id: number) {
     return this.prisma.reactivo.delete({
       where: { id },
