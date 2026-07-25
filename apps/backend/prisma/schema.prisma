@@ -38,6 +38,7 @@ model Usuario {
   plantel           Plantel?               @relation(fields: [plantelId], references: [id])
   sesionesCompletas SesionExamenCompleto[]
   intentos          IntentoExamen[]
+  repasos           RepasoReactivo[]
   createdAt         DateTime               @default(now())
   updatedAt         DateTime               @updatedAt
 }
@@ -113,6 +114,7 @@ model Reactivo {
   crossRef          String?
   imagenUrl         String?
   respuestas        RespuestaReactivo[]
+  repasos           RepasoReactivo[]
   createdAt         DateTime            @default(now())
 }
 
@@ -229,6 +231,38 @@ model RespuestaReactivo {
   esCorrecta            Boolean?
   respondidoEnMs        Int
   createdAt             DateTime      @default(now())
+}
+
+/**
+ * Memoria de repaso espaciado — la "capa verde".
+ *
+ * RespuestaReactivo guarda cada respuesta suelta de un intento. Esto es distinto:
+ * recuerda el ESTADO de un dato a lo largo del tiempo para UN aspirante. Una fila
+ * por par (usuario, reactivo).
+ *
+ * Usa cajas de Leitner: `caja` 1..5 y `proximoRepaso` crece con la caja. Acierta →
+ * sube de caja (vuelve más tarde). Falla → cae a la caja 1 (vuelve mañana). La cola
+ * del día son las filas del usuario con `proximoRepaso` ya vencido.
+ *
+ * Se siembra sola al terminar un simulacro cultural (ver módulo `repasos`).
+ */
+model RepasoReactivo {
+  id            Int      @id @default(autoincrement())
+  usuarioId     Int
+  usuario       Usuario  @relation(fields: [usuarioId], references: [id])
+  reactivoId    Int
+  reactivo      Reactivo @relation(fields: [reactivoId], references: [id])
+  caja          Int      @default(1)
+  rachaAciertos Int      @default(0)
+  proximoRepaso DateTime
+  ultimoVistoAt DateTime @default(now())
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  // Un aspirante tiene un solo estado de repaso por reactivo.
+  @@unique([usuarioId, reactivoId])
+  // La cola del día pregunta por (usuario, proximoRepaso <= ahora): este índice la hace barata.
+  @@index([usuarioId, proximoRepaso])
 }
 
 /**

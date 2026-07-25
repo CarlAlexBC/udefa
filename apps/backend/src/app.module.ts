@@ -9,13 +9,14 @@ import { ExamenesModule } from './examenes/examenes.module';
 import { BloquesModule } from './bloques/bloques.module';
 import { ReactivosModule } from './reactivos/reactivos.module';
 import { IntentosModule } from './intentos/intentos.module';
+import { RepasosModule } from './repasos/repasos.module';
 import { SesionesCompletasModule } from './sesiones-completas/sesiones-completas.module';
 import { TemasPrioridadModule } from './temas-prioridad/temas-prioridad.module';
 import { AdminModule } from './admin/admin.module';
 import { CulturalModule } from './cultural/cultural.module';
 
 @Module({
-  imports: [UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule, IntentosModule, SesionesCompletasModule, TemasPrioridadModule, AdminModule, CulturalModule],
+  imports: [UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule, IntentosModule, RepasosModule, SesionesCompletasModule, TemasPrioridadModule, AdminModule, CulturalModule],
   controllers: [AppController],
   providers: [AppService, PrismaService],
 })

@@ -5,10 +5,14 @@ import {
   ForbiddenException,
 } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
+import { RepasosService } from '../repasos/repasos.service';
 
 @Injectable()
 export class IntentosService {
-  constructor(private prisma: PrismaService) {}
+  constructor(
+    private prisma: PrismaService,
+    private repasos: RepasosService,
+  ) {}
 
   /**
    * Helper compartido: valida que un recurso exista y sea del usuario dado.
@@ -113,13 +117,23 @@ export class IntentosService {
       );
     }
 
-    return this.prisma.intentoExamen.update({
+    const actualizado = await this.prisma.intentoExamen.update({
       where: { id: intentoId },
       data: {
         estado,
         finAt: new Date(),
       },
     });
+
+    // Capa verde: al cerrar un simulacro cultural, siembra la cola de repaso con
+    // lo que el aspirante falló o llevó frágil. No se siembra desde un abandono.
+    // El service filtra por tipo cultural, así que esto es inofensivo para el
+    // psicológico.
+    if (estado !== 'ABANDONADA') {
+      await this.repasos.sembrarDesdeIntento(intentoId, usuarioId);
+    }
+
+    return actualizado;
   }
 
   async obtenerResultados(intentoId: number, usuarioId: number) {
