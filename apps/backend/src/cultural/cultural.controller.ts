@@ -19,6 +19,11 @@ export class CulturalController {
     return this.culturalService.listarLibros();
   }
 
+  @Get('analitica')
+  obtenerAnalitica() {
+    return this.culturalService.obtenerAnalitica();
+  }
+
   @Get('libros/:id')
   obtenerLibro(@Param('id') id: string) {
     return this.culturalService.obtenerLibro(Number(id));

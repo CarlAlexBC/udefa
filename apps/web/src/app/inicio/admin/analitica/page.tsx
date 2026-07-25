@@ -13,10 +13,10 @@ import {
 } from 'recharts'
 import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
-import { AlertCircle, BarChart3, Loader2, TrendingUp } from 'lucide-react'
+import { AlertCircle, BarChart3, BookOpen, Brain, Loader2, TrendingUp } from 'lucide-react'
 
 /* ═══════════════════════════════════════════════════════════
-   Tipos (espejo del payload de GET /admin/analitica)
+   Tipos
    ═══════════════════════════════════════════════════════════ */
 
 type ReactivoFallado = {
@@ -51,6 +51,31 @@ type Analitica = {
   erroresPorTema: ErrorTema[]
 }
 
+// Cultural: agrega por materia (libro) y por tema en vez de por bloque.
+type ReactivoFalladoCultural = {
+  reactivoId: number
+  enunciado: string
+  materia: string | null
+  tema: string | null
+  total: number
+  incorrectas: number
+  tasaError: number
+}
+
+type ErrorMateria = {
+  materia: string
+  total: number
+  incorrectas: number
+  tasaError: number
+}
+
+type AnaliticaCultural = {
+  totalRespuestasCalificadas: number
+  reactivosMasFallados: ReactivoFalladoCultural[]
+  erroresPorMateria: ErrorMateria[]
+  erroresPorTema: ErrorTema[]
+}
+
 /**
  * Color de la barra según la tasa de error: verde bajo, ámbar medio, rojo alto.
  * Ayuda a leer la gráfica de un vistazo sin mirar los números.
@@ -62,10 +87,83 @@ function colorPorTasa(tasa: number): string {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   Página
+   Página — con pestañas Psicológico / Cultural
    ═══════════════════════════════════════════════════════════ */
 
 export default function AnaliticaPage() {
+  const [vista, setVista] = useState<'psicologico' | 'cultural'>('psicologico')
+
+  return (
+    <div>
+      <div className="mb-5">
+        <p className="text-[10px] font-semibold uppercase tracking-widest text-military">
+          Administración
+        </p>
+        <h1 className="mt-1 text-2xl font-semibold tracking-tight text-foreground">
+          Analítica de errores
+        </h1>
+        <p className="mt-2 max-w-2xl text-sm text-muted-foreground">
+          Dónde fallan más los aspirantes. Solo cubre exámenes con respuesta
+          correcta (Psicométrico y Cultural).
+        </p>
+      </div>
+
+      {/* Pestañas */}
+      <div className="mb-6 inline-flex gap-1 rounded-lg border border-border bg-card p-1">
+        <TabBtn
+          activo={vista === 'psicologico'}
+          onClick={() => setVista('psicologico')}
+          icon={Brain}
+        >
+          Psicológico
+        </TabBtn>
+        <TabBtn
+          activo={vista === 'cultural'}
+          onClick={() => setVista('cultural')}
+          icon={BookOpen}
+        >
+          Cultural
+        </TabBtn>
+      </div>
+
+      {vista === 'psicologico' ? <VistaPsicologico /> : <VistaCultural />}
+    </div>
+  )
+}
+
+function TabBtn({
+  activo,
+  onClick,
+  icon: Icon,
+  children,
+}: {
+  activo: boolean
+  onClick: () => void
+  icon: React.ComponentType<{ className?: string }>
+  children: React.ReactNode
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      className={cn(
+        'inline-flex items-center gap-1.5 rounded-md px-3 py-1.5 text-sm font-medium transition-colors',
+        activo
+          ? 'bg-accent/10 text-accent'
+          : 'text-muted-foreground hover:text-foreground',
+      )}
+    >
+      <Icon className="h-4 w-4" />
+      {children}
+    </button>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Vista Psicológico (GET /admin/analitica)
+   ═══════════════════════════════════════════════════════════ */
+
+function VistaPsicologico() {
   const [data, setData] = useState<Analitica | null>(null)
   const [cargando, setCargando] = useState(true)
   const [error, setError] = useState('')
@@ -82,163 +180,198 @@ export default function AnaliticaPage() {
       })
   }, [])
 
-  if (cargando) {
+  if (cargando) return <Cargando />
+  if (error || !data) return <ErrorBox mensaje={error || 'Sin datos'} />
+
+  if (data.totalRespuestasCalificadas === 0) {
     return (
-      <div className="flex items-center gap-3 text-muted-foreground">
-        <Loader2 className="h-5 w-5 animate-spin" />
-        <p className="text-sm">Cargando analítica…</p>
-      </div>
+      <SinDatos
+        texto="En cuanto los aspirantes resuelvan el simulador psicométrico, aquí verás qué reactivos, bloques y temas cuestan más."
+      />
     )
   }
-
-  if (error || !data) {
-    return (
-      <div className="flex items-start gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-3">
-        <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-destructive" />
-        <p className="text-sm text-destructive">{error || 'Sin datos'}</p>
-      </div>
-    )
-  }
-
-  const sinDatos = data.totalRespuestasCalificadas === 0
 
   return (
-    <div>
-      <div className="mb-6">
-        <p className="text-[10px] font-semibold uppercase tracking-widest text-military">
-          Administración
+    <>
+      <ResumenRespuestas n={data.totalRespuestasCalificadas} />
+
+      <Section titulo="% de error por bloque">
+        <GraficaError
+          items={data.erroresPorBloque.map((b) => ({
+            nombre: b.nombre,
+            tasaError: b.tasaError,
+            total: b.total,
+          }))}
+        />
+      </Section>
+
+      <Section titulo="% de error por tema">
+        {data.erroresPorTema.length === 0 ? (
+          <VacioChico texto="Sin temas etiquetados con respuestas todavía." />
+        ) : (
+          <GraficaError
+            items={data.erroresPorTema.map((t) => ({
+              nombre: t.tema,
+              tasaError: t.tasaError,
+              total: t.total,
+            }))}
+          />
+        )}
+      </Section>
+
+      <Section titulo="Reactivos más fallados">
+        <p className="mb-3 text-xs text-muted-foreground">
+          Ordenados por tasa de error. Si un reactivo lo falla casi todo el
+          mundo, revísalo — puede estar mal redactado o con la respuesta correcta
+          mal marcada.
         </p>
-        <h1 className="mt-1 text-2xl font-semibold tracking-tight text-foreground">
-          Analítica de errores
-        </h1>
-        <p className="mt-2 max-w-2xl text-sm text-muted-foreground">
-          Dónde fallan más los aspirantes. Solo cubre el{' '}
-          <span className="font-medium text-foreground">Psicométrico</span> — es
-          el único examen con respuestas correctas. Personalidad y Axiológico
-          miden perfil, no aciertos, así que no aparecen aquí.
-        </p>
-      </div>
-
-      {sinDatos ? (
-        <div className="rounded-xl border border-dashed border-border/70 bg-card/60 p-10 text-center">
-          <BarChart3 className="mx-auto mb-3 h-8 w-8 text-muted-foreground/50" />
-          <p className="text-sm font-medium text-foreground">
-            Aún no hay respuestas calificadas
-          </p>
-          <p className="mx-auto mt-1 max-w-md text-xs text-muted-foreground">
-            En cuanto los aspirantes empiecen a resolver el simulador
-            psicométrico, aquí verás qué reactivos, bloques y temas cuestan más.
-          </p>
-        </div>
-      ) : (
-        <>
-          {/* Resumen */}
-          <div className="mb-6 inline-flex items-center gap-2 rounded-lg border border-border bg-card px-4 py-2 text-sm text-muted-foreground shadow-sm">
-            <TrendingUp className="h-4 w-4 text-accent" />
-            <span>
-              Basado en{' '}
-              <span className="font-semibold text-foreground">
-                {data.totalRespuestasCalificadas.toLocaleString('es-MX')}
-              </span>{' '}
-              respuestas calificadas
-            </span>
-          </div>
-
-          {/* Errores por bloque */}
-          <Section titulo="% de error por bloque">
-            <GraficaError items={data.erroresPorBloque.map((b) => ({
-              nombre: b.nombre,
-              tasaError: b.tasaError,
-              total: b.total,
-            }))} />
-          </Section>
-
-          {/* Errores por tema */}
-          <Section titulo="% de error por tema">
-            {data.erroresPorTema.length === 0 ? (
-              <VacioChico texto="Sin temas etiquetados con respuestas todavía." />
-            ) : (
-              <GraficaError
-                items={data.erroresPorTema.map((t) => ({
-                  nombre: t.tema,
-                  tasaError: t.tasaError,
-                  total: t.total,
-                }))}
-              />
-            )}
-          </Section>
-
-          {/* Reactivos más fallados */}
-          <Section titulo="Reactivos más fallados">
-            <p className="mb-3 text-xs text-muted-foreground">
-              Ordenados por tasa de error. Si un reactivo lo falla casi todo el
-              mundo, revísalo — puede estar mal redactado o con la respuesta
-              correcta mal marcada.
-            </p>
-            <div className="overflow-hidden rounded-xl border border-border bg-card shadow-sm">
-              <div className="overflow-x-auto">
-                <table className="w-full text-left text-sm">
-                  <thead className="border-b border-border bg-muted/40 text-[10px] uppercase tracking-widest text-muted-foreground">
-                    <tr>
-                      <th className="px-3 py-2 font-semibold">Enunciado</th>
-                      <th className="px-3 py-2 font-semibold">Bloque</th>
-                      <th className="px-3 py-2 font-semibold">Tema</th>
-                      <th className="px-3 py-2 text-right font-semibold">
-                        Respuestas
-                      </th>
-                      <th className="px-3 py-2 text-right font-semibold">
-                        % error
-                      </th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {data.reactivosMasFallados.map((r) => (
-                      <tr
-                        key={r.reactivoId}
-                        className="border-b border-border/40 last:border-b-0 hover:bg-muted/20"
-                      >
-                        <td className="max-w-md px-3 py-2 text-xs text-foreground">
-                          <p className="line-clamp-2">{r.enunciado}</p>
-                        </td>
-                        <td className="px-3 py-2 text-xs text-muted-foreground">
-                          {r.bloqueNombre ?? '—'}
-                        </td>
-                        <td className="px-3 py-2 text-xs text-muted-foreground">
-                          {r.tema ?? '—'}
-                        </td>
-                        <td className="px-3 py-2 text-right text-xs text-muted-foreground">
-                          {r.incorrectas}/{r.total}
-                        </td>
-                        <td className="px-3 py-2 text-right">
-                          <span
-                            className={cn(
-                              'inline-flex items-center rounded-full px-2 py-0.5 text-[11px] font-semibold',
-                              r.tasaError >= 60
-                                ? 'bg-rose-500/10 text-rose-600'
-                                : r.tasaError >= 35
-                                  ? 'bg-amber-500/10 text-amber-600'
-                                  : 'bg-emerald-500/10 text-emerald-600',
-                            )}
-                          >
-                            {r.tasaError}%
-                          </span>
-                        </td>
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          </Section>
-        </>
-      )}
-    </div>
+        <TablaReactivos
+          filas={data.reactivosMasFallados.map((r) => ({
+            reactivoId: r.reactivoId,
+            enunciado: r.enunciado,
+            categoria: r.bloqueNombre,
+            tema: r.tema,
+            total: r.total,
+            incorrectas: r.incorrectas,
+            tasaError: r.tasaError,
+          }))}
+          etiquetaCategoria="Bloque"
+        />
+      </Section>
+    </>
   )
 }
 
 /* ═══════════════════════════════════════════════════════════
-   Sub-componentes
+   Vista Cultural (GET /cultural/analitica)
    ═══════════════════════════════════════════════════════════ */
+
+function VistaCultural() {
+  const [data, setData] = useState<AnaliticaCultural | null>(null)
+  const [cargando, setCargando] = useState(true)
+  const [error, setError] = useState('')
+
+  useEffect(() => {
+    apiFetch<AnaliticaCultural>('/cultural/analitica')
+      .then((res) => {
+        setData(res)
+        setCargando(false)
+      })
+      .catch((err) => {
+        setError((err as Error).message)
+        setCargando(false)
+      })
+  }, [])
+
+  if (cargando) return <Cargando />
+  if (error || !data) return <ErrorBox mensaje={error || 'Sin datos'} />
+
+  if (data.totalRespuestasCalificadas === 0) {
+    return (
+      <SinDatos
+        texto="En cuanto los aspirantes resuelvan el simulador cultural, aquí verás qué materias, temas y reactivos cuestan más."
+      />
+    )
+  }
+
+  return (
+    <>
+      <ResumenRespuestas n={data.totalRespuestasCalificadas} />
+
+      <Section titulo="% de error por materia">
+        <GraficaError
+          items={data.erroresPorMateria.map((m) => ({
+            nombre: m.materia,
+            tasaError: m.tasaError,
+            total: m.total,
+          }))}
+        />
+      </Section>
+
+      <Section titulo="% de error por tema (los 20 peores)">
+        {data.erroresPorTema.length === 0 ? (
+          <VacioChico texto="Sin temas con respuestas todavía." />
+        ) : (
+          <GraficaError
+            items={data.erroresPorTema.map((t) => ({
+              nombre: t.tema,
+              tasaError: t.tasaError,
+              total: t.total,
+            }))}
+          />
+        )}
+      </Section>
+
+      <Section titulo="Reactivos más fallados">
+        <p className="mb-3 text-xs text-muted-foreground">
+          Ordenados por tasa de error. Un 100% consistente suele ser la respuesta
+          mal marcada — corrígela en el Banco cultural.
+        </p>
+        <TablaReactivos
+          filas={data.reactivosMasFallados.map((r) => ({
+            reactivoId: r.reactivoId,
+            enunciado: r.enunciado,
+            categoria: r.materia,
+            tema: r.tema,
+            total: r.total,
+            incorrectas: r.incorrectas,
+            tasaError: r.tasaError,
+          }))}
+          etiquetaCategoria="Materia"
+        />
+      </Section>
+    </>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Sub-componentes compartidos
+   ═══════════════════════════════════════════════════════════ */
+
+function Cargando() {
+  return (
+    <div className="flex items-center gap-3 text-muted-foreground">
+      <Loader2 className="h-5 w-5 animate-spin" />
+      <p className="text-sm">Cargando analítica…</p>
+    </div>
+  )
+}
+
+function ErrorBox({ mensaje }: { mensaje: string }) {
+  return (
+    <div className="flex items-start gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-3">
+      <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-destructive" />
+      <p className="text-sm text-destructive">{mensaje}</p>
+    </div>
+  )
+}
+
+function SinDatos({ texto }: { texto: string }) {
+  return (
+    <div className="rounded-xl border border-dashed border-border/70 bg-card/60 p-10 text-center">
+      <BarChart3 className="mx-auto mb-3 h-8 w-8 text-muted-foreground/50" />
+      <p className="text-sm font-medium text-foreground">
+        Aún no hay respuestas calificadas
+      </p>
+      <p className="mx-auto mt-1 max-w-md text-xs text-muted-foreground">{texto}</p>
+    </div>
+  )
+}
+
+function ResumenRespuestas({ n }: { n: number }) {
+  return (
+    <div className="mb-6 inline-flex items-center gap-2 rounded-lg border border-border bg-card px-4 py-2 text-sm text-muted-foreground shadow-sm">
+      <TrendingUp className="h-4 w-4 text-accent" />
+      <span>
+        Basado en{' '}
+        <span className="font-semibold text-foreground">
+          {n.toLocaleString('es-MX')}
+        </span>{' '}
+        respuestas calificadas
+      </span>
+    </div>
+  )
+}
 
 function Section({
   titulo,
@@ -263,6 +396,76 @@ function VacioChico({ texto }: { texto: string }) {
     <p className="rounded-lg border border-dashed border-border/70 p-6 text-center text-sm text-muted-foreground">
       {texto}
     </p>
+  )
+}
+
+/** Tabla de reactivos más fallados, compartida por las dos vistas. */
+function TablaReactivos({
+  filas,
+  etiquetaCategoria,
+}: {
+  filas: Array<{
+    reactivoId: number
+    enunciado: string
+    categoria: string | null
+    tema: string | null
+    total: number
+    incorrectas: number
+    tasaError: number
+  }>
+  etiquetaCategoria: string
+}) {
+  return (
+    <div className="overflow-hidden rounded-xl border border-border bg-card shadow-sm">
+      <div className="overflow-x-auto">
+        <table className="w-full text-left text-sm">
+          <thead className="border-b border-border bg-muted/40 text-[10px] uppercase tracking-widest text-muted-foreground">
+            <tr>
+              <th className="px-3 py-2 font-semibold">Enunciado</th>
+              <th className="px-3 py-2 font-semibold">{etiquetaCategoria}</th>
+              <th className="px-3 py-2 font-semibold">Tema</th>
+              <th className="px-3 py-2 text-right font-semibold">Respuestas</th>
+              <th className="px-3 py-2 text-right font-semibold">% error</th>
+            </tr>
+          </thead>
+          <tbody>
+            {filas.map((r) => (
+              <tr
+                key={r.reactivoId}
+                className="border-b border-border/40 last:border-b-0 hover:bg-muted/20"
+              >
+                <td className="max-w-md px-3 py-2 text-xs text-foreground">
+                  <p className="line-clamp-2">{r.enunciado}</p>
+                </td>
+                <td className="px-3 py-2 text-xs text-muted-foreground">
+                  {r.categoria ?? '—'}
+                </td>
+                <td className="px-3 py-2 text-xs text-muted-foreground">
+                  {r.tema ?? '—'}
+                </td>
+                <td className="px-3 py-2 text-right text-xs text-muted-foreground">
+                  {r.incorrectas}/{r.total}
+                </td>
+                <td className="px-3 py-2 text-right">
+                  <span
+                    className={cn(
+                      'inline-flex items-center rounded-full px-2 py-0.5 text-[11px] font-semibold',
+                      r.tasaError >= 60
+                        ? 'bg-rose-500/10 text-rose-600'
+                        : r.tasaError >= 35
+                          ? 'bg-amber-500/10 text-amber-600'
+                          : 'bg-emerald-500/10 text-emerald-600',
+                    )}
+                  >
+                    {r.tasaError}%
+                  </span>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
   )
 }
 
@@ -312,8 +515,8 @@ function GraficaError({
                 borderRadius: 8,
                 fontSize: 12,
               }}
-              formatter={(v: number, _n, item) => [
-                `${v}% error (${item?.payload?.total ?? 0} respuestas)`,
+              formatter={(v, _n, item) => [
+                `${Number(v)}% error (${item?.payload?.total ?? 0} respuestas)`,
                 'Tasa',
               ]}
             />
