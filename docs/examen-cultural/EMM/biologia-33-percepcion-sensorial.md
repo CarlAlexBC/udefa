@@ -53,21 +53,22 @@ problemática inicial"—.
 
 ## Cobertura actual
 
-**EN CURSO.** Cubiertas las pp. 778–781: la definición de sensación y percepción,
+**EN CURSO.** Cubiertas las pp. 778–783: la definición de sensación y percepción,
 la organización jerárquica del sistema nervioso, la adaptación sensorial, la
-transducción y la codificación de la información sensorial (tanda 1); y los cinco
-tipos de receptores (mecano-, quimio-, foto-, termo- y nociceptores), las vías
-nerviosas, el sistema visual, los sistemas sensoriales y la anatomía del ojo humano
-de la figura 33-2 (tanda 2).
+transducción y la codificación de la información sensorial (tanda 1); los cinco
+tipos de receptores, las vías nerviosas, el sistema visual, los sistemas sensoriales
+y la anatomía del ojo humano de la figura 33-2 (tanda 2); y el cuadro 33-1 de
+modalidades sensoriales, la visión estereoscópica y el procesamiento en la retina
+(conos y bastones) (tanda 3).
 
 **Pendiente:** el capítulo 33 está **EN CURSO**. Sigue desde la página impresa
-**782** en adelante: el resto del sistema visual (fototransducción, bastones y conos,
-procesamiento en la retina), los demás sistemas sensoriales (audición y equilibrio,
-gusto y olfato, tacto), el procesamiento en los centros nerviosos superiores y la
-respuesta motora, hasta antes del ensayo de cierre "Retomando la problemática
-inicial" y los ejercicios. Este capítulo lo pide **sólo la EMO**; mientras no se
-cierre, este archivo sostiene su propio pendiente. **Recordatorio de coordinación:**
-los capítulos 14, 15 y 37 son de otras sesiones.
+**784** en adelante: las estructuras accesorias del ojo y la formación de la imagen,
+la fototransducción, los demás sistemas sensoriales (audición y equilibrio, gusto y
+olfato, tacto), el procesamiento en los centros nerviosos superiores y la respuesta
+motora, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los
+ejercicios. Este capítulo lo pide **sólo la EMO**; mientras no se cierre, este
+archivo sostiene su propio pendiente. **Recordatorio de coordinación:** los
+capítulos 14, 15 y 37 son de otras sesiones.
 
 ## Cómo se escriben estos reactivos
 
@@ -597,16 +598,200 @@ De acuerdo con el libro de Biología, según la figura 33-2, ¿qué es el múscu
 
 El músculo ciliar es un círculo de músculo liso, desde el cual se extienden los ligamentos suspensores que mantienen al cristalino en posición.
 
+## Sub-lote 6 · Cuadro 33-1 · Modalidades sensoriales en los mamíferos (p. 782)
+
+### 35
+
+De acuerdo con el libro de Biología, según el cuadro 33-1, ¿cuál es la célula receptora del gusto?
+
+- A. Las papilas gustativas
+- B. Los neurorreceptores olfatorios
+- C. Las células ciliadas
+- D. Los fotorreceptores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 782
+**Subtema:** Percepción sensorial · modalidades sensoriales
+
+Gusto: estímulo, iones y moléculas disueltas en agua; localización, lengua y faringe; célula receptora, papilas gustativas.
+
+### 36
+
+En relación con el libro de Biología, según el cuadro 33-1, ¿dónde se localizan los receptores del olfato?
+
+- A. En la mucosa olfatoria en la cavidad nasal
+- B. En las papilas gustativas de la lengua
+- C. En la cóclea del oído interno
+- D. En la retina del ojo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 782
+**Subtema:** Percepción sensorial · modalidades sensoriales
+
+Olfato: estímulo, moléculas disueltas en aire o en agua; localización, mucosa olfatoria en la cavidad nasal; célula receptora, neurorreceptores olfatorios.
+
+### 37
+
+De acuerdo con el libro de Biología, según el cuadro 33-1, ¿dónde se localiza el receptor de la audición?
+
+- A. En la cóclea (órgano de Corti), en el oído interno
+- B. En el aparato vestibular del oído interno
+- C. En la mucosa olfatoria de la cavidad nasal
+- D. En la retina del ojo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 782
+**Subtema:** Percepción sensorial · modalidades sensoriales
+
+Audición: estímulo, estimulación mecánica (vibraciones sonoras); localización, cóclea (órgano de Corti) en el oído interno; célula receptora, células ciliadas.
+
+### 38
+
+En relación con el libro de Biología, según el cuadro 33-1, ¿dónde se localiza el receptor del equilibrio?
+
+- A. En el aparato vestibular, en el oído interno
+- B. En la cóclea (órgano de Corti) del oído interno
+- C. En los husos musculares
+- D. En las papilas gustativas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 782
+**Subtema:** Percepción sensorial · modalidades sensoriales
+
+Equilibrio: estímulo, aceleración angular y lineal (estimulación mecánica); localización, aparato vestibular en el oído interno; célula receptora, células ciliadas.
+
+### 39
+
+De acuerdo con el libro de Biología, según el cuadro 33-1, ¿cuáles son las células receptoras de la visión?
+
+- A. Los fotorreceptores (conos y bastones)
+- B. Las células ciliadas
+- C. Las papilas gustativas
+- D. Los husos musculares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 782
+**Subtema:** Percepción sensorial · modalidades sensoriales
+
+Visión: estímulo, luz (fotones); localización, retina en el ojo; célula receptora, fotorreceptores (conos y bastones).
+
+### 40
+
+En relación con el libro de Biología, según el cuadro 33-1, ¿cuál es la célula receptora de la propiocepción por estiramiento muscular?
+
+- A. El huso muscular con terminaciones nerviosas
+- B. Las células ciliadas
+- C. Las papilas gustativas
+- D. Los barorreceptores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 782
+**Subtema:** Percepción sensorial · modalidades sensoriales
+
+Propiocepción: estímulo, estiramiento muscular (estimulación mecánica); localización, músculos; célula receptora, huso muscular con terminaciones nerviosas.
+
+## Sub-lote 7 · Visión estereoscópica y procesamiento en la retina (p. 783)
+
+### 41
+
+De acuerdo con el libro de Biología, ¿qué tipo de visión tienen muchos animales depredadores, a diferencia de los que suelen ser presa y tienen los ojos a los lados de la cabeza?
+
+- A. Visión estereoscópica
+- B. Visión en blanco y negro
+- C. Visión ultravioleta
+- D. Visión nula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 783
+**Subtema:** Percepción sensorial · sistema visual
+
+Muchos animales depredadores tienen visión estereoscópica, mientras que aquellos que con más frecuencia tienen el papel de presa suelen tener los ojos a los lados de la cabeza.
+
+### 42
+
+En relación con el libro de Biología, ¿cuántos tipos de fotorreceptores contiene la retina del ojo de los vertebrados, que capturan la energía lumínica e inician la transducción?
+
+- A. Dos: los conos y los bastones
+- B. Uno solo: los conos
+- C. Tres: conos, bastones y células ciliadas
+- D. Cuatro, uno por cada color primario
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 783
+**Subtema:** Percepción sensorial · procesamiento en la retina
+
+La retina del ojo de los vertebrados contiene dos tipos de fotorreceptores que capturan la energía lumínica y comienzan el proceso de transducción: los conos y los bastones.
+
+### 43
+
+De acuerdo con el libro de Biología, ¿de qué visión son responsables los bastones y de cuál los conos?
+
+- A. Los bastones, de la visión en blanco y negro; los conos, de la visión en color
+- B. Los bastones, de la visión en color; los conos, de la visión en blanco y negro
+- C. Ambos, de la visión en color por igual
+- D. Ambos, de la visión en blanco y negro por igual
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 783
+**Subtema:** Percepción sensorial · procesamiento en la retina
+
+Los bastones son responsables de la visión en blanco y negro y los conos, de la visión en color.
+
+### 44
+
+En relación con el libro de Biología, ¿qué fotorreceptores son más sensibles a la luz y se utilizan en la visión con poca luz, aunque den menos resolución?
+
+- A. Los bastones
+- B. Los conos
+- C. Las células ciliadas
+- D. Los neurorreceptores olfatorios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 783
+**Subtema:** Percepción sensorial · procesamiento en la retina
+
+Los bastones no proporcionan un grado de resolución tan grande como los conos, aunque son más sensibles a la luz (se utilizan en la visión con poca luz).
+
+### 45
+
+De acuerdo con el libro de Biología, ¿por qué durante la noche o en penumbras los humanos vemos un mundo descolorido?
+
+- A. Porque la luz tenue no estimula los conos
+- B. Porque la luz tenue no estimula los bastones
+- C. Porque la retina deja de funcionar en la oscuridad
+- D. Porque los bastones dejan de ser sensibles a la luz
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 783
+**Subtema:** Percepción sensorial · procesamiento en la retina
+
+La luz tenue no estimula los conos, razón por la cual durante la noche o en penumbras los humanos vemos un mundo descolorido.
+
+### 46
+
+En relación con el libro de Biología, ¿por qué los animales nocturnos no tienen visión en color?
+
+- A. Porque tienen retinas constituidas, casi por completo, por bastones
+- B. Porque tienen retinas constituidas, casi por completo, por conos
+- C. Porque carecen por completo de retina
+- D. Porque sus conos solo perciben el color rojo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 783
+**Subtema:** Percepción sensorial · procesamiento en la retina
+
+Los animales nocturnos tienen retinas constituidas, casi por completo, por bastones y, por lo tanto, no tienen visión en color.
+
 ---
 
 **Pendiente:** el capítulo 33 está **EN CURSO** (ver la sección "Cobertura actual").
-Las dos primeras tandas cubren pp. 778–781: la introducción, los tipos de
-receptores, el sistema visual, los sistemas sensoriales y la anatomía del ojo
-humano. Falta desde la p. 782: el resto del sistema visual (fototransducción,
-bastones y conos, procesamiento en la retina), los demás sistemas sensoriales
+Las tandas cubren pp. 778–783: introducción, tipos de receptores, sistema visual,
+anatomía del ojo, el cuadro 33-1 de modalidades sensoriales y el procesamiento en la
+retina (conos y bastones). Falta desde la p. 784: las estructuras accesorias del ojo
+y la formación de la imagen, la fototransducción, los demás sistemas sensoriales
 (audición y equilibrio, gusto y olfato, tacto), el procesamiento en los centros
 nerviosos superiores y la respuesta motora, hasta antes del ensayo de cierre
 "Retomando la problemática inicial" y los ejercicios. Lo pide **sólo la EMO**. Los
 capítulos 14, 15 y 37 son de otras sesiones.
 
-**Reactivos en este archivo:** 34
+**Reactivos en este archivo:** 46
