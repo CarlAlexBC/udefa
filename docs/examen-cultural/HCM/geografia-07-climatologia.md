@@ -36,12 +36,16 @@ estudiante pasaría por alto sobre la definición grande que sí se aprende.
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas de **prosa** hasta la 131: qué es la
-climatología y el clima (Koeppen), factores y elementos, los factores climáticos
-de México (Trópico de Cáncer, cenit, microclimas), la insolación, la evaporación
-(magnitud y condiciones), el régimen térmico e isotermas (valores por región,
-máximas absolutas, oscilaciones) y la presión barométrica (isobaras, zonas de alta
-y baja presión, centros de máximas).
+**EN CURSO — 85 reactivos, cubierto hasta la página impresa 166.** Escritas las
+páginas de **prosa** 120–166: qué es la climatología y el clima (Koeppen),
+factores y elementos, los factores climáticos de México (Trópico de Cáncer, cenit,
+microclimas), la insolación, la evaporación, el régimen térmico e isotermas, la
+presión barométrica (isobaras, centros de máximas), los frentes y masas de aire
+(el Norte, ciclones y anticiclones), la humedad relativa, la nubosidad (isonefas),
+las heladas, la precipitación (isoyetas), y **toda la clasificación climática de
+Köppen**: el Cuadro 7.1 (símbolos A–E, régimen de lluvias w/s/f/x'/m, vegetación
+S/W/T/F/B), los umbrales de las zonas A/B/C, el Cuadro 7.2 y los subtipos
+Af, Am, BS, BW, Cs, Cf, Cx', Cw y EB.
 
 > **El capítulo es muy mapeado.** Son sólo mapas, sin prosa nueva, las páginas
 > impresas **123** (Fig. 7.1), **125–130** (Figs. 7.2a–d, 7.3, 7.4) y **132–139**
@@ -55,13 +59,16 @@ y baja presión, centros de máximas).
 > "Frentes"; los demás vientos (alisios, etc.) o van rotulados dentro de los mapas
 > de pp.132–139 o el libro los abrevió. No se inventan.
 
-**Pendiente:** el resto del capítulo 7, de la página impresa **140** en adelante
-(frentes y masas de aire, "Norte", ciclones y anticiclones, humedad relativa,
-nubosidad, heladas y lluvias, tipos de climas y la clasificación de Koeppen), hasta
-la página **168**, antes de que empiece el capítulo 8, Hidrología. Además, la
-materia Geografía **no está cerrada para la EMA**: falta completar el capítulo 3
-(Regiones geomorfológicas) y escribir el capítulo 23 (Geografía Política y
-Administrativa) entero.
+**Pendiente:** cerrar el capítulo leyendo las páginas impresas **167 y 168**
+(cierre del subtipo Cw, el subtipo polar de altitud EB si trae descripción, y lo
+que reste antes de que empiece el capítulo 8, Hidrología, en la p.169). **Verificar
+también** el hueco de los tipos de viento de la Fig. 7.11 (la lista se cortaba en
+"Calmas ecuatoriales" al final de la p.131; ver la nota de arriba). Cuando el
+capítulo cierre: correr el importador de oferta
+(`apps/backend/scripts/importar-cultural-oferta.ts`) y regenerar `ESTADO.md`.
+Además, la materia Geografía **no está cerrada para la EMA**: falta completar el
+capítulo 3 (Regiones geomorfológicas) y escribir el capítulo 23 (Geografía Política
+y Administrativa) entero.
 
 ---
 
@@ -1185,3 +1192,187 @@ En relación con el libro de Geografía Moderna de México, ¿qué caracteriza a
 **Subtema:** climatología · tipos de climas
 
 El símbolo que la representa es C y se caracteriza porque la temperatura media del mes más cálido es superior a 18°C y el mes más frío excede a 0°C, además la altura anual de la lluvia es aproximadamente superior a 400 mm, si ésta se presenta en verano, y 200 mm, si la precipitación ocurre en invierno.
+
+## Sub-lote 13 · Tipos de climas: subtipos tropicales (A) y secos (B)
+
+### 74
+
+De acuerdo con el libro de Geografía Moderna de México, según el cuadro 7.2, ¿qué código corresponde al clima tropical con intensas lluvias monzónicas en verano?
+
+- A. Am
+- B. Af
+- C. Aw
+- D. As
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 161
+**Subtema:** climatología · tipos de climas
+
+Cuadro 7.2. A (tropical): Con lluvias todo el año: Af; Con intensas lluvias monzónicas en verano: Am; Con lluvias en verano: Aw.
+
+### 75
+
+En relación con el libro de Geografía Moderna de México, el clima tropical con lluvias todo el año (Af), ¿qué tipo de vegetación presenta?
+
+- A. Selva tropical
+- B. Sabana
+- C. Pradera
+- D. Coníferas
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 161
+**Subtema:** climatología · tipos de climas
+
+Tropical con lluvias todo el año (Af). [...] En la zona cubierta aparece vegetación de selva tropical, con precipitación anual de 2600 mm.
+
+### 76
+
+De acuerdo con el libro de Geografía Moderna de México, el clima tropical con intensas lluvias monzónicas en verano (Am), ¿qué tipo de vegetación herbácea presenta?
+
+- A. Sabana
+- B. Selva tropical
+- C. Pradera
+- D. Estepa
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 163
+**Subtema:** climatología · tipos de climas
+
+Las superficies con este clima tienen vegetación herbácea de tipo sabana.
+
+### 77
+
+En relación con el libro de Geografía Moderna de México, según el cuadro 7.2, ¿qué código corresponde al clima seco desértico?
+
+- A. BW
+- B. BS
+- C. BD
+- D. Bx
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 161
+**Subtema:** climatología · tipos de climas
+
+Cuadro 7.2. B (Seco): Estepario: BS; Desértico: BW.
+
+### 78
+
+De acuerdo con el libro de Geografía Moderna de México, el clima seco estepario (BS) se caracteriza, en la zona intertropical, por una precipitación media anual inferior a ¿cuánto?
+
+- A. 750 mm
+- B. 500 mm
+- C. 400 mm
+- D. 800 mm
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 163
+**Subtema:** climatología · tipos de climas
+
+Seco estepario (BS). Caracterizado por una precipitación media anual inferior a 750 mm en la zona intertropical, 500 mm en la templada con lluvia en verano, y 300 mm en la templada con lluvia en invierno. Tiene dos variantes: la caliente con temperatura media anual superior a 18 °C y la fría, cuando es menor.
+
+### 79
+
+En relación con el libro de Geografía Moderna de México, el clima seco desértico (BW) representa la agudización del seco estepario; ¿por qué?
+
+- A. Porque la precipitación es aproximadamente igual a la mitad
+- B. Porque la precipitación es aproximadamente el doble
+- C. Porque la temperatura media anual es mucho más baja
+- D. Porque las lluvias se concentran únicamente en invierno
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 164
+**Subtema:** climatología · tipos de climas
+
+Seco desértico (BW). Representa la agudización del clima anterior, porque la precipitación es aproximadamente igual a la mitad.
+
+## Sub-lote 14 · Tipos de climas: subtipos templados (C) y polar (E)
+
+### 80
+
+De acuerdo con el libro de Geografía Moderna de México, según el cuadro 7.2, ¿qué código corresponde al clima templado con escasas lluvias todo el año?
+
+- A. Cx'
+- B. Cw
+- C. Cs
+- D. Cf
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 161
+**Subtema:** climatología · tipos de climas
+
+Cuadro 7.2. C (templado): Con lluvias en invierno: Cs; Con lluvias todo el año: Cf; Con escasas lluvias todo el año: Cx'; Con lluvias en verano: Cw.
+
+### 81
+
+En relación con el libro de Geografía Moderna de México, el clima templado con lluvias en invierno (Cs), que abarca las sierras de Juárez y San Pedro Mártir, ¿qué cubierta vegetal presenta?
+
+- A. Herbácea de tipo pradera
+- B. Forestal de coníferas
+- C. De selva tropical
+- D. Herbácea de tipo sabana
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 165
+**Subtema:** climatología · tipos de climas
+
+Templado con lluvias en invierno (Cs). [...] El área de dispersión de este clima es muy reducida y abarca las sierras de Juárez y San Pedro Mártir en el noroeste de la Península de Baja California. El territorio tiene una cubierta vegetal herbácea de tipo pradera.
+
+### 82
+
+De acuerdo con el libro de Geografía Moderna de México, el clima templado con lluvias todo el año (Cf), limitado a la Huasteca veracruzana y la Sierra Madre de Oaxaca, ¿qué vegetación forestal presenta en su mayor parte?
+
+- A. Coníferas
+- B. Selva tropical
+- C. Sabana
+- D. Estepa
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 165
+**Subtema:** climatología · tipos de climas
+
+Templado con lluvias todo el año (Cf). [...] Estas superficies están cubiertas por vegetación forestal, en su mayor parte de coníferas.
+
+### 83
+
+En relación con el libro de Geografía Moderna de México, ¿en qué región se presenta únicamente el clima templado con escasas lluvias todo el año (Cx')?
+
+- A. En una pequeña región de la parte norte del estado de Sonora
+- B. En la Huasteca veracruzana y la Sierra Madre de Oaxaca
+- C. En las sierras de Juárez y San Pedro Mártir de Baja California
+- D. En la porción ístmica del estado de Veracruz
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 166
+**Subtema:** climatología · tipos de climas
+
+Templado con escasas lluvias todo el año (Cx'). [...] Este clima se presenta únicamente en una pequeña región de la parte norte del estado de Sonora.
+
+### 84
+
+De acuerdo con el libro de Geografía Moderna de México, ¿qué tipo de clima cubre las áreas densamente pobladas del país (el Bajío, el valle de Toluca, la cuenca del Estado de México)?
+
+- A. El templado con lluvias en verano (Cw)
+- B. El tropical con lluvias todo el año (Af)
+- C. El seco desértico (BW)
+- D. El templado con lluvias en invierno (Cs)
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 166
+**Subtema:** climatología · tipos de climas
+
+Templado con lluvias en verano (Cw). [...] Cubre las áreas densamente pobladas del país y comprende las llanuras del oeste, centro y sureste de la Altiplanicie Meridional [...] incluye también el Bajío, el valle de Toluca, la cuenca del Estado de México.
+
+### 85
+
+En relación con el libro de Geografía Moderna de México, según el cuadro 7.2, ¿qué código corresponde al clima polar de altitud?
+
+- A. EB
+- B. EA
+- C. EP
+- D. Ex
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 161
+**Subtema:** climatología · tipos de climas
+
+Cuadro 7.2. E (Polar): De altitud: EB.
