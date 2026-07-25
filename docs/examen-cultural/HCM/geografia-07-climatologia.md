@@ -1033,3 +1033,155 @@ De acuerdo con el libro de Geografía Moderna de México, ¿por qué no basta co
 **Subtema:** climatología · precipitación
 
 Si tomamos en cuenta exclusivamente la precipitación anual, podríamos formarnos una idea errónea de los recursos pluviales, por lo que es necesario analizar la precipitación en el curso del año.
+
+## Sub-lote 12 · Clima: la clasificación de Köppen
+
+### 64
+
+De acuerdo con el libro de Geografía Moderna de México, ¿de qué orden es la lluvia media anual del país, que lo coloca en la categoría de territorio de escasas lluvias?
+
+- A. 717 mm
+- B. 800 mm
+- C. 1100 mm
+- D. 400 mm
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 157
+**Subtema:** climatología · tipos de climas
+
+La lluvia media anual es del orden de 717 mm, que nos coloca en la categoría de país con territorio de escasas lluvias.
+
+### 65
+
+En relación con el libro de Geografía Moderna de México, según la clasificación climática de Koeppen, ¿cuál de las zonas fundamentales no existe en México?
+
+- A. La D, frío lluvioso
+- B. La A, tropical lluvioso
+- C. La C, templado lluvioso
+- D. La B, seco
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 157
+**Subtema:** climatología · tipos de climas
+
+Cuadro 7.1. Zonas fundamentales: A Tropical lluvioso; B Seco; C Templado lluvioso; D Frío lluvioso (no existe en México); E Polar (es insignificante el área que cubren en las cimas de nuestras cumbres nevadas).
+
+### 66
+
+De acuerdo con el libro de Geografía Moderna de México, en la clasificación de Koeppen, ¿qué representa el símbolo E?
+
+- A. La zona polar, cuya área es insignificante, en las cimas de las cumbres nevadas
+- B. La zona seca, que se extiende por la Altiplanicie Septentrional
+- C. La zona fría lluviosa, que no existe en México
+- D. La zona tropical lluviosa de la Península de Yucatán
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 157
+**Subtema:** climatología · tipos de climas
+
+Cuadro 7.1. Zonas fundamentales: [...] E Polar (es insignificante el área que cubren en las cimas de nuestras cumbres nevadas).
+
+### 67
+
+En relación con el libro de Geografía Moderna de México, en la simbología de Koeppen sobre el régimen de lluvias, ¿qué indica el símbolo "m"?
+
+- A. Lluvia intensa monzónica en verano
+- B. Lluvia escasa en todo el año
+- C. Lluvia en verano, seco en invierno
+- D. Lluvia en todo el año
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 157
+**Subtema:** climatología · tipos de climas
+
+Cuadro 7.1. Otros símbolos, sobre el régimen de lluvias: w Lluvia en verano, seco en invierno; s Lluvia en invierno, verano seco; f Lluvia en todo el año; x' Lluvia escasa en todo el año; m Lluvia intensa monzónica en verano.
+
+### 68
+
+De acuerdo con el libro de Geografía Moderna de México, en la simbología de Koeppen, ¿qué símbolo indica "lluvia escasa en todo el año"?
+
+- A. x'
+- B. f
+- C. w
+- D. m
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 157
+**Subtema:** climatología · tipos de climas
+
+Cuadro 7.1. Otros símbolos, sobre el régimen de lluvias: w Lluvia en verano, seco en invierno; s Lluvia en invierno, verano seco; f Lluvia en todo el año; x' Lluvia escasa en todo el año; m Lluvia intensa monzónica en verano.
+
+### 69
+
+En relación con el libro de Geografía Moderna de México, en la simbología de Koeppen, ¿qué indica el símbolo "w"?
+
+- A. Lluvia en verano, seco en invierno
+- B. Lluvia en invierno, verano seco
+- C. Lluvia en todo el año
+- D. Lluvia escasa en todo el año
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 157
+**Subtema:** climatología · tipos de climas
+
+Cuadro 7.1. Otros símbolos, sobre el régimen de lluvias: w Lluvia en verano, seco en invierno; s Lluvia en invierno, verano seco; f Lluvia en todo el año; x' Lluvia escasa en todo el año; m Lluvia intensa monzónica en verano.
+
+### 70
+
+De acuerdo con el libro de Geografía Moderna de México, en la simbología de Koeppen sobre la vegetación, ¿qué representa el símbolo "W"?
+
+- A. Desierto
+- B. Estepa
+- C. Tundra
+- D. De alta montaña
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 157
+**Subtema:** climatología · tipos de climas
+
+Cuadro 7.1. Otros símbolos, sobre vegetación: S Estepa; W Desierto; T Tundra; F Hielos perpetuos; B De alta montaña.
+
+### 71
+
+En relación con el libro de Geografía Moderna de México, la zona tropical lluviosa (símbolo A) tiene una temperatura media mensual superior a 18 °C todo el año; ¿qué altura media anual de lluvia excede?
+
+- A. 800 mm
+- B. 400 mm
+- C. 200 mm
+- D. 1000 mm
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 158
+**Subtema:** climatología · tipos de climas
+
+Se presenta con el símbolo A y se caracteriza por un régimen térmico en que la temperatura media mensual durante todo el año es superior a 18°C y la altura media anual de la lluvia excede a 800 mm.
+
+### 72
+
+De acuerdo con el libro de Geografía Moderna de México, la zona seca (símbolo B) se caracteriza, dentro de la zona intertropical, por una precipitación anual inferior a ¿cuánto?
+
+- A. 77 mm
+- B. 200 mm
+- C. 400 mm
+- D. 100 mm
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 158
+**Subtema:** climatología · tipos de climas
+
+Está representada por el símbolo B y se caracteriza por una precipitación anual inferior a 77 mm dentro de la zona intertropical, a 400 mm en la zona templada con lluvias en verano y a 200 mm en las porciones templadas con lluvias de invierno.
+
+### 73
+
+En relación con el libro de Geografía Moderna de México, ¿qué caracteriza a la zona templada lluviosa (símbolo C)?
+
+- A. Que la temperatura media del mes más cálido es superior a 18 °C y la del mes más frío excede a 0 °C
+- B. Que la temperatura media mensual es superior a 18 °C durante todo el año
+- C. Que la precipitación anual es inferior a 77 mm dentro de la zona intertropical
+- D. Que el área que cubre es insignificante, en las cimas de las cumbres nevadas
+
+**Respuesta:** A
+**Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 158
+**Subtema:** climatología · tipos de climas
+
+El símbolo que la representa es C y se caracteriza porque la temperatura media del mes más cálido es superior a 18°C y el mes más frío excede a 0°C, además la altura anual de la lluvia es aproximadamente superior a 400 mm, si ésta se presenta en verano, y 200 mm, si la precipitación ocurre en invierno.
