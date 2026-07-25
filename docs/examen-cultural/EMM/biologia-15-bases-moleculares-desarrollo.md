@@ -88,7 +88,7 @@ mismo párrafo o del mismo cuadro. La correcta se escribe siempre en **A** porqu
 importador baraja las opciones. El enunciado nombra el libro y alterna las tres fórmulas
 del Anexo "H": "De acuerdo con", "De conformidad con", "En relación con".
 
-**Pendiente:** el capítulo 15 está EN CURSO; cubiertas las páginas impresas **325 a 331** (dos tandas): el apartado de apertura de la talidomida sólo en sus datos de biología; la historia de la biología del desarrollo (preformacionismo y epigénesis, el vitalismo y el mecanicismo, las tres capas germinales, el reduccionismo genético, la fig. 15-2 del homúnculo); las etapas del desarrollo (segmentación, gastrulación, organogénesis) y la definición de desarrollo y de cigoto; y los mecanismos de la diferenciación (células competentes, especificadas y determinadas; determinantes citoplasmáticos y desarrollo en mosaico; inducción y desarrollo regulativo; interacciones paracrina y yuxtacrina; la cascada de inducción del ojo). Sigue desde la página impresa **332** en adelante (las vías de señalización: Hedgehog, Wnt y la superfamilia TGF-β/BMP, y lo que resta del capítulo), hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Además del 15 siguen abiertos el capítulo **14** (`biologia-14-epigenetica.md`) y el capítulo **37** (`biologia-37-digestion.md`). Biología NO está cerrada.
+**Pendiente:** el capítulo 15 está EN CURSO; cubiertas las páginas impresas **325 a 331** (dos tandas): el apartado de apertura de la talidomida sólo en sus datos de biología; la historia de la biología del desarrollo (preformacionismo y epigénesis, el vitalismo y el mecanicismo, las tres capas germinales, el reduccionismo genético, la fig. 15-2 del homúnculo); las etapas del desarrollo (segmentación, gastrulación, organogénesis) y la definición de desarrollo y de cigoto; y los mecanismos de la diferenciación (células competentes, especificadas y determinadas; determinantes citoplasmáticos y desarrollo en mosaico; inducción y desarrollo regulativo; interacciones paracrina y yuxtacrina; la cascada de inducción del ojo). Cubierta también la señalización del desarrollo (páginas impresas **332 a 334**: las vías de Hedgehog, Wnt, la superfamilia TGF-β/BMP y los FGF; la inducción por señales directas —uniones gap y Notch—; la interacción con la matriz extracelular —composición, la hidroxiapatita del hueso, las integrinas, la transición epitelio-mesenquimática— y las células de la cresta neural). Sigue desde la página impresa **335** en adelante (lo que resta del capítulo), hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Además del 15 siguen abiertos el capítulo **14** (`biologia-14-epigenetica.md`) y el capítulo **37** (`biologia-37-digestion.md`). Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -872,3 +872,345 @@ De acuerdo con el libro de Biología, cuando la señal molecular que se difunde 
 **Subtema:** desarrollo · la interacción paracrina
 
 En el primer caso, la señal que se difunde puede provenir de una célula o desde la matriz extracelular. En estos casos, la interacción es de tipo paracrina.
+
+---
+
+### 46
+
+De conformidad con el libro de Biología, ¿qué produce una mutación en el gen que codifica la proteína Hedgehog en la mosca de la fruta Drosophila?
+
+- A. Una larva con dentículos puntiagudos sobre la cutícula, similar a un erizo
+- B. Una larva sin segmentación en el eje anteroposterior
+- C. Una larva con el tubo neural duplicado
+- D. Una larva sin células de la cresta neural
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 332
+**Subtema:** desarrollo · vía de Hedgehog, su descubrimiento
+
+Fueron halladas en Drosophila, donde una mutación en el gen que codifica esta proteína produce una larva con dentículos puntiagudos sobre la cutícula, similar a un erizo (de ahí su nombre: hedgehog en inglés significa erizo).
+
+---
+
+### 47
+
+En relación con el libro de Biología, ¿cuáles son los tres homólogos del gen hedgehog de Drosophila que existen en los vertebrados?
+
+- A. Sonic hedgehog (shh), desert hedgehog (dhh) e indian hedgehog (ihh)
+- B. Wingless, Frizzled y Disheveled
+- C. BMP, TGF-β y FGF
+- D. Patched, Smoothened y Gli
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 332
+**Subtema:** desarrollo · los homólogos de hedgehog en los vertebrados
+
+En los vertebrados, existen tres homólogos del gen hedgehog de Drosophila: sonic hedgehog (shh), desert hedgehog (dhh) e indian hedgehog (ihh). De estas tres, shh es la que más implicada está en las regulaciones durante el desarrollo.
+
+---
+
+### 48
+
+De acuerdo con el libro de Biología, ¿por qué el homólogo sonic hedgehog (shh) lleva ese nombre?
+
+- A. Por el personaje del juego Sega
+- B. Por su forma parecida a la de un erizo
+- C. Por su dependencia del colesterol
+- D. Por su receptor de membrana Patched
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 332
+**Subtema:** desarrollo · el nombre de sonic hedgehog
+
+…sonic hedgehog (shh, lleva su nombre por el personaje del juego Sega)…
+
+---
+
+### 49
+
+De conformidad con el libro de Biología, ¿de qué depende la forma activa de las proteínas Hedgehog?
+
+- A. Del colesterol: si el colesterol no está unido a ellas, la difusión se restringe profundamente
+- B. De la temperatura del citoplasma
+- C. De la presencia de cadherinas en la membrana
+- D. De la concentración de fosfato de calcio en la matriz
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 332
+**Subtema:** desarrollo · Hedgehog, dependencia del colesterol
+
+Una característica de estas proteínas es que su forma activa es dependiente del colesterol. Si el colesterol no está unido a ellas, la difusión se restringe profundamente.
+
+---
+
+### 50
+
+En relación con el libro de Biología, ¿a través de qué receptor de membrana actúan las proteínas Hedgehog?
+
+- A. Patched
+- B. Frizzled
+- C. Un receptor de tipo tirosina cinasa
+- D. Una integrina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 332
+**Subtema:** desarrollo · el receptor Patched de Hedgehog
+
+Estas proteínas actúan a través de un receptor de membrana denominado Patched.
+
+---
+
+### 51
+
+De acuerdo con el libro de Biología, ¿en qué procesos del desarrollo es sumamente importante el factor paracrino Hedgehog?
+
+- A. En la diferenciación ventral del tubo neural, la diferenciación de cartílago y el establecimiento del eje anteroposterior de los miembros
+- B. En la formación del sistema respiratorio y el eje dorsoventral de los miembros
+- C. En la inducción de la formación de hueso
+- D. En la formación de estructuras segmentadas como los somitos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 332
+**Subtema:** desarrollo · funciones de Hedgehog
+
+Este factor paracrino es sumamente importante en la diferenciación ventral del tubo neural, diferenciación de cartílago y en el establecimiento del eje anteroposterior de los miembros, entre otros.
+
+> Los distractores son funciones de OTRAS vías del mismo apartado: la B es de Wnt, la C es de BMP y la D es de la vía de Notch.
+
+---
+
+### 52
+
+De conformidad con el libro de Biología, ¿qué caracteriza al grupo de proteínas Wingless (Wnt)?
+
+- A. Que son más de 15 glucoproteínas ricas en el aminoácido cisteína, halladas independientemente en Drosophila y ratones
+- B. Que son un grupo de más de 30 factores paracrinos que forman una superfamilia
+- C. Que son proteínas cuya forma activa depende del colesterol
+- D. Que son receptores transmembrana anclados a microfilamentos de actina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 332
+**Subtema:** desarrollo · las proteínas Wnt
+
+Dentro de este grupo se encuentran más de 15 glucoproteínas ricas en el aminoácido cisteína, que fueron halladas independientemente en Drosophila y ratones.
+
+---
+
+### 53
+
+En relación con el libro de Biología, ¿a través de qué receptor actúan las glucoproteínas Wnt?
+
+- A. Frizzled
+- B. Patched
+- C. Un receptor transmembrana de un solo paso
+- D. Una integrina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 332
+**Subtema:** desarrollo · el receptor Frizzled de Wnt
+
+Estas glucoproteínas actúan a través de un receptor llamado Frizzled.
+
+---
+
+### 54
+
+De acuerdo con el libro de Biología, ¿en qué estructuras interviene la vía de Wnt?
+
+- A. En la diferenciación de las células de la cresta neural, el establecimiento del eje dorsoventral de los miembros y la formación del sistema respiratorio
+- B. En la diferenciación ventral del tubo neural y el eje anteroposterior de los miembros
+- C. En la inducción de la formación de hueso
+- D. En la formación de estructuras segmentadas como los somitos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 332
+**Subtema:** desarrollo · funciones de Wnt
+
+Wnt interviene en la formación de muchas estructuras, como la diferenciación de las células de la cresta neural, actúa en el establecimiento del eje dorsoventral de los miembros, en la formación del sistema respiratorio, entre otros.
+
+---
+
+### 55
+
+De conformidad con el libro de Biología, ¿qué caracteriza al grupo de factores paracrinos TGF-β?
+
+- A. Que tiene más de 30 miembros y se considera una superfamilia subdividida, a su vez, en familias
+- B. Que son más de 15 glucoproteínas ricas en cisteína
+- C. Que actúan a través del receptor Frizzled
+- D. Que su forma activa depende del colesterol
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 332
+**Subtema:** desarrollo · la superfamilia TGF-β
+
+Este grupo de factores paracrinos con más de 30 miembros se considera una superfamilia subdividida, a su vez, en familias que participan en el desarrollo de numerosas estructuras del embrión.
+
+---
+
+### 56
+
+En relación con el libro de Biología, ¿cuál fue el primer miembro hallado del grupo TGF-β, y a qué debe su nombre?
+
+- A. BMP (factor morfogenético del hueso), que debe su nombre a la primera función descrita: la inducción de la formación de hueso
+- B. Sonic hedgehog, que debe su nombre a un personaje de videojuego
+- C. Wingless, que debe su nombre a sus efectos sobre las alas de Drosophila
+- D. Frizzled, que debe su nombre a su forma rizada
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 332
+**Subtema:** desarrollo · BMP, el primer miembro de TGF-β
+
+El primer miembro de este grupo de proteínas hallado fue BMP (por las siglas en inglés de Bone Morphogenetic Proteins, factor morfogenético del hueso), que debe su nombre a la primera función descrita que fue la inducción de la formación de hueso.
+
+---
+
+### 57
+
+De acuerdo con el libro de Biología, ¿a través de qué tipo de receptor actúan los miembros de la superfamilia TGF-β?
+
+- A. Un receptor transmembrana de un solo paso
+- B. El receptor de membrana Patched
+- C. El receptor Frizzled de 7 pasos de membrana
+- D. Las uniones gap o comunicantes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 332
+**Subtema:** desarrollo · el receptor de TGF-β
+
+Los miembros de esta superfamilia actúan a través de un receptor transmembrana de un solo paso.
+
+---
+
+### 58
+
+De conformidad con el libro de Biología, en la vía de los factores de crecimiento fibroblástico (FGF), ¿a través de qué tipo de receptores responden las células a esta señal?
+
+- A. A través de receptores transmembrana de tipo tirosina cinasa
+- B. A través del receptor de membrana Patched
+- C. A través de las uniones gap o comunicantes
+- D. A través de integrinas ancladas a la actina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 333
+**Subtema:** desarrollo · la vía de los FGF
+
+Las células que responden a esta señal lo hacen a través de receptores transmembrana de tipo tirosina cinasa.
+
+---
+
+### 59
+
+En relación con el libro de Biología, cuando las moléculas que transmiten una señal son muy pequeñas y solubles, ¿cómo atraviesan la membrana plasmática de una célula a otra?
+
+- A. Directamente, a través de las uniones gap (unión comunicante)
+- B. A través del receptor de membrana Patched
+- C. A través de receptores de tipo tirosina cinasa
+- D. Uniéndose a las integrinas de la matriz extracelular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 334
+**Subtema:** desarrollo · inducción por señales directas, uniones gap
+
+Cuando las moléculas que transmiten una señal son muy pequeñas y solubles atraviesan directamente la membrana plasmática a través de las uniones gap (unión comunicante).
+
+---
+
+### 60
+
+De acuerdo con el libro de Biología, ¿en qué procesos es fundamental la inducción mediada por la proteína Notch?
+
+- A. En la formación de estructuras segmentadas (somitos) y en la diferenciación neural, tanto de los vertebrados como de Drosophila
+- B. En la inducción de la formación de hueso
+- C. En el establecimiento del eje anteroposterior de los miembros
+- D. En la migración de las células de la cresta neural
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 334
+**Subtema:** desarrollo · la inducción por Notch
+
+Este tipo de inducción es fundamental, por ejemplo, en la formación de estructuras segmentadas (somitos) y en la diferenciación neural tanto de los vertebrados como de Drosophila.
+
+---
+
+### 61
+
+De conformidad con el libro de Biología, ¿por qué componentes está constituida la matriz extracelular que las células sintetizan y secretan?
+
+- A. Por colágeno, proteoglucanos y glucoproteínas, como integrinas y fibronectina
+- B. Por cristales de hidroxiapatita únicamente
+- C. Por microfilamentos de actina y microtúbulos
+- D. Por glucoproteínas ricas en cisteína, como las Wnt
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 334
+**Subtema:** desarrollo · composición de la matriz extracelular
+
+Esta matriz les da un ambiente particular constituido por colágeno, proteoglucanos, glucoproteínas, como integrinas y fibronectina, etc.
+
+---
+
+### 62
+
+En relación con el libro de Biología, en el hueso, ¿qué le otorga gran resistencia y dureza al tejido?
+
+- A. La abundante matriz secretada por los osteoblastos con cristales de hidroxiapatita (fosfato de calcio cristalizado)
+- B. La red de microfilamentos de actina de sus células
+- C. La presencia de proteínas Wnt ricas en cisteína
+- D. Las uniones gap entre sus células
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 334
+**Subtema:** desarrollo · la matriz del hueso, la hidroxiapatita
+
+La idea de células inmersas en una matriz extracelular es evidente, por ejemplo, en el hueso, donde una abundante matriz secretada por los osteoblastos con cristales de hidroxiapatita (fosfato de calcio cristalizado) le otorga gran resistencia y dureza al tejido.
+
+---
+
+### 63
+
+De acuerdo con el libro de Biología, ¿qué son las integrinas?
+
+- A. Receptores que atraviesan la membrana plasmática y cuyo dominio intracelular está anclado a microfilamentos de actina del citoesqueleto
+- B. Glucoproteínas ricas en cisteína que actúan a través del receptor Frizzled
+- C. Uniones que comunican directamente el citoplasma de dos células
+- D. Cristales de fosfato de calcio de la matriz del hueso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 334
+**Subtema:** desarrollo · las integrinas
+
+Estos receptores se conocen como integrinas y se caracterizan porque atraviesan la membrana plasmática y su dominio intracelular está anclado a microfilamentos de actina del citoesqueleto.
+
+---
+
+### 64
+
+De conformidad con el libro de Biología, ¿qué caracteriza a las células que sufren una transición epitelio-mesenquimática?
+
+- A. Que pierden las uniones celulares que las mantenían unidas en un epitelio y adquieren un comportamiento mesenquimático, y usan señales de la matriz extracelular para migrar
+- B. Que refuerzan sus uniones celulares y quedan fijas en el epitelio
+- C. Que pierden por completo su citoesqueleto de actina
+- D. Que secretan cristales de hidroxiapatita para endurecer el tejido
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 334
+**Subtema:** desarrollo · la transición epitelio-mesenquimática
+
+…las células que sufren transición epitelio-mesenquimática, es decir: aquellas que pierden uniones celulares que las mantenían unidas en un epitelio y adquieren un comportamiento mesenquimático, y que utilizan señales de la matriz extracelular para poder llevar a cabo la migración.
+
+---
+
+### 65
+
+En relación con el libro de Biología, sobre las células de la cresta neural (CCN), ¿qué cambio les permite migrar desde el sistema nervioso y formar una enorme variedad de tipos celulares derivados?
+
+- A. Que disminuyen las uniones celulares que las mantenían unidas en el epitelio (en particular, las cadherinas) y modifican su citoesqueleto, adquiriendo un estado mesenquimático
+- B. Que refuerzan sus cadherinas para desplazarse en bloque
+- C. Que secretan una matriz de hidroxiapatita que las impulsa
+- D. Que pierden su información genética para especializarse
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 334
+**Subtema:** desarrollo · las células de la cresta neural
+
+Estas células se establecen en la cresta del tubo neural en formación, disminuyen las uniones celulares que las mantenían unidas en el epitelio (en particular, las cadherinas), modifican su citoesqueleto (lo que les permite moverse y adquirir un estado mesenquimático) y, a través de moléculas presentes en la matriz extracelular, pueden migrar desde el sistema nervioso y formar una enorme variedad de tipos celulares derivados, incluidas las células gliales, los melanóforos, las células óseas del esplacnocráneo, las neuronas simpáticas y parasimpáticas, y muchos otros derivados.
