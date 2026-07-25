@@ -73,6 +73,7 @@ que extrae el texto embebido, no un escaneo). Verificadas contra la grafía est�
 | p. 328, pie de la fig. 15-2 | "Nicolas **Hartsoek** (1656-1725)" | **Nicolaas Hartsoeker** |
 | p. 328 | "Wilhelm **Johansen**" | **Wilhelm Johannsen** |
 | p. 328 | "Caspar **Friederich** Wolff (1733-1794)" | **Caspar Friedrich Wolff** |
+| p. 329 | "Lewis **Wolper**" | **Lewis Wolpert** |
 | p. 325, recuadro | "Widuking Lenz" · "William Mc Bride" | **Widukind Lenz** · **William McBride** |
 
 **No se escriben reactivos que dependan de la grafía de estos nombres.** En los enunciados
@@ -87,7 +88,7 @@ mismo párrafo o del mismo cuadro. La correcta se escribe siempre en **A** porqu
 importador baraja las opciones. El enunciado nombra el libro y alterna las tres fórmulas
 del Anexo "H": "De acuerdo con", "De conformidad con", "En relación con".
 
-**Pendiente:** el capítulo 15 está EN CURSO; cubierta la primera tanda (páginas impresas **325 a 329**: el apartado de apertura de la talidomida sólo en sus datos de biología, la historia de la biología del desarrollo —preformacionismo y epigénesis, el vitalismo y el mecanicismo, las tres capas germinales, el reduccionismo genético, la fig. 15-2 del homúnculo— y el inicio de la diferenciación celular con las células competentes, especificadas y determinadas). Sigue desde la página impresa **330** en adelante, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Además del 15 siguen abiertos el capítulo **14** (`biologia-14-epigenetica.md`) y el capítulo **37** (`biologia-37-digestion.md`). Biología NO está cerrada.
+**Pendiente:** el capítulo 15 está EN CURSO; cubiertas las páginas impresas **325 a 331** (dos tandas): el apartado de apertura de la talidomida sólo en sus datos de biología; la historia de la biología del desarrollo (preformacionismo y epigénesis, el vitalismo y el mecanicismo, las tres capas germinales, el reduccionismo genético, la fig. 15-2 del homúnculo); las etapas del desarrollo (segmentación, gastrulación, organogénesis) y la definición de desarrollo y de cigoto; y los mecanismos de la diferenciación (células competentes, especificadas y determinadas; determinantes citoplasmáticos y desarrollo en mosaico; inducción y desarrollo regulativo; interacciones paracrina y yuxtacrina; la cascada de inducción del ojo). Sigue desde la página impresa **332** en adelante (las vías de señalización: Hedgehog, Wnt y la superfamilia TGF-β/BMP, y lo que resta del capítulo), hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Además del 15 siguen abiertos el capítulo **14** (`biologia-14-epigenetica.md`) y el capítulo **37** (`biologia-37-digestion.md`). Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -375,7 +376,7 @@ De acuerdo con su descripción, en la cabeza de los espermatozoides se encontrab
 
 ### 17
 
-De conformidad con el libro de Biología, según el "plan generativo del desarrollo" que expone Scott Gilbert, ¿qué contiene el genoma?
+De conformidad con el libro de Biología, según el "plan generativo del desarrollo" que expone Lewis Wolpert, ¿qué contiene el genoma?
 
 - A. Una "serie de instrucciones" en las que los componentes del citoplasma y las células del medio son fundamentales, al igual que los genes
 - B. Una "descripción del organismo" completa y suficiente por sí misma
@@ -384,9 +385,11 @@ De conformidad con el libro de Biología, según el "plan generativo del desarro
 
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
-**Subtema:** desarrollo · el plan generativo (Scott Gilbert)
+**Subtema:** desarrollo · el plan generativo (Lewis Wolpert)
 
 …en ella se asume que el genoma, en lugar de contener "una descripción del organismo", contiene una "serie de instrucciones" en las que los componentes del citoplasma y las células del medio son fundamentales, al igual que los genes.
+
+> El "plan generativo del desarrollo" es la metáfora de Lewis Wolpert (el libro escribe "Wolper"), no de Scott Gilbert; Gilbert aparece por otra idea (que el organismo es funcional desde la primera célula). El distractor B es la concepción contrapuesta, el "programa descriptivo del desarrollo".
 
 ---
 
@@ -440,3 +443,432 @@ De conformidad con el libro de Biología, ¿cuándo se dice que una célula est�
 Cuando la célula recibe una señal y comienza a expresar todos los factores característicos de un cierto tipo celular que le permitirán su posterior diferenciación, se dice que está determinada. En esta etapa, aunque la célula todavía no está diferenciada fenotípicamente, entra en un camino irreversible de diferenciación, en forma independiente del ambiente.
 
 > El distractor B es la definición de célula "especificada", que aparece en el mismo párrafo; se contrasta a propósito con la de célula "determinada".
+
+---
+
+### 21
+
+De acuerdo con el libro de Biología, ¿cómo se puede definir el desarrollo?
+
+- A. Como el proceso por el cual un organismo multicelular se constituye a partir de una única célula a través de una serie de cambios que involucran procesos moleculares, celulares y fisiológicos
+- B. Como el proceso por el cual una célula se divide sin cambios en su estructura ni en su función
+- C. Como el proceso por el cual un organismo unicelular se transforma en uno multicelular de otra especie
+- D. Como el conjunto de mutaciones que un organismo acumula a lo largo de su vida
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · definición de desarrollo
+
+El desarrollo se puede definir como el proceso por el cual un organismo multicelular se constituye a partir de una única célula a través de una serie de cambios que involucran procesos moleculares, celulares y fisiológicos.
+
+---
+
+### 22
+
+De conformidad con el libro de Biología, ¿qué es el cigoto?
+
+- A. La primera célula de un embrión, resultado de la unión entre un oocito y un espermatozoide durante la fecundación
+- B. La célula que resulta de la primera división mitótica del embrión
+- C. La célula que da origen exclusivamente a las células germinales primordiales
+- D. Cada una de las células que se forman durante la segmentación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · el cigoto
+
+La primera célula de un embrión, llamada cigoto, es el resultado de la unión entre un oocito y un espermatozoide durante la fecundación.
+
+---
+
+### 23
+
+En relación con el libro de Biología, ¿cómo se denomina el complejo proceso, iniciado a partir del cigoto, que consiste en divisiones mitóticas sucesivas sin crecimiento celular?
+
+- A. Segmentación
+- B. Gastrulación
+- C. Organogénesis
+- D. Fecundación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · la segmentación
+
+Esa primera célula, a través de un complejo proceso que se inicia con divisiones mitóticas sucesivas sin crecimiento celular, se denomina segmentación.
+
+---
+
+### 24
+
+De acuerdo con el libro de Biología, ¿qué ocurre durante la gastrulación?
+
+- A. Las células comienzan a adquirir movimientos complejos y se forman las capas germinales
+- B. El cigoto se divide por mitosis sin crecimiento celular
+- C. Las capas germinales se organizan dentro del embrión en estructuras ordenadas
+- D. Se produce la unión entre el oocito y el espermatozoide
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · la gastrulación
+
+En un momento del desarrollo, en particular durante la gastrulación, estas células comienzan a adquirir movimientos complejos y se forman las capas germinales que luego se organizan dentro del embrión en estructuras ordenadas.
+
+---
+
+### 25
+
+De conformidad con el libro de Biología, ¿qué sucede durante la organogénesis?
+
+- A. Las capas germinales se organizan dentro del embrión en estructuras ordenadas
+- B. Las células adquieren por primera vez movimientos complejos
+- C. La primera célula se forma por la unión de los gametos
+- D. El cigoto se divide por segmentación sin crecimiento celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · la organogénesis
+
+…se forman las capas germinales que luego se organizan dentro del embrión en estructuras ordenadas durante el proceso de organogénesis.
+
+---
+
+### 26
+
+En relación con el libro de Biología, con el ejemplo del desarrollo del pollo, ¿qué señala el libro sobre las etapas del desarrollo?
+
+- A. Que no necesariamente cada etapa comienza cuando termina la otra: mientras en la parte anterior del embrión se produce la organogénesis, en la posterior aún se lleva a cabo la gastrulación
+- B. Que la organogénesis siempre termina antes de que comience la gastrulación
+- C. Que la gastrulación y la organogénesis ocurren de manera simultánea en todo el embrión
+- D. Que la organogénesis ocurre únicamente en la parte posterior del embrión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · las etapas no son estrictamente secuenciales
+
+No necesariamente cada una de estas etapas comienza cuando termina la otra. Por ejemplo, en el desarrollo del pollo, mientras en la parte anterior del embrión se está produciendo la organogénesis –en la que se visualiza el desarrollo de las estructuras cefálicas– en la posterior aún se está llevando a cabo la gastrulación.
+
+---
+
+### 27
+
+De acuerdo con el libro de Biología, al derivar todas las células de un cigoto que se divide por mitosis, ¿qué se puede afirmar sobre su información genética?
+
+- A. Que todas poseen la misma información genética, de modo que toda la información sobre el desarrollo está contenida en esa primera célula
+- B. Que cada célula recibe sólo una parte de la información genética del cigoto
+- C. Que la información genética se pierde progresivamente en cada división
+- D. Que cada tipo celular posee un genoma distinto del de las demás células
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · misma información genética en todas las células
+
+Al derivar todas las células de un organismo de un cigoto que se divide por mitosis, estas poseen la misma información genética. Es decir: toda la información sobre el desarrollo de un organismo está contenida en esa primera célula.
+
+---
+
+### 28
+
+De conformidad con el libro de Biología, ¿cómo llama Lewis Wolpert a la concepción según la cual toda la información del desarrollo está contenida en los genes?
+
+- A. "Programa descriptivo del desarrollo"
+- B. "Plan generativo del desarrollo"
+- C. "Paisaje epigenético"
+- D. "Desarrollo en mosaico"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · Wolpert, el programa descriptivo
+
+Considera que la propuesta anterior, en la cual toda la información está contenida en los genes, constituye un "programa descriptivo del desarrollo".
+
+> El distractor B, "plan generativo del desarrollo", es la concepción que el propio Wolpert contrapone (véase el reactivo 17). El libro escribe su apellido como "Wolper".
+
+---
+
+### 29
+
+En relación con el libro de Biología, según Scott Gilbert, ¿por qué el desarrollo no se puede comparar con el ensamblaje secuencial de las piezas de una máquina en construcción?
+
+- A. Porque el organismo, ya desde la primera célula, debe ser funcional, mientras que la máquina no funciona hasta que no se completa con todas sus partes
+- B. Porque la máquina se ensambla más rápido que un organismo
+- C. Porque el organismo, a diferencia de la máquina, deja de cambiar una vez que se completa
+- D. Porque la máquina, a diferencia del organismo, puede repararse a sí misma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · Scott Gilbert, el embrión como sistema funcional
+
+Una de las características más importantes del proceso del desarrollo es que mientras se constituye un organismo, ya desde la primera célula, esta debe ser funcional; es decir: el proceso no se puede comparar con el ensamblaje secuencial de las piezas de una máquina en construcción, la cual no funciona hasta que no se completa con todas sus partes.
+
+---
+
+### 30
+
+De acuerdo con el libro de Biología, ¿con qué se hace una analogía del desarrollo de un organismo, que puede detenerse en cualquier momento para ver aspectos diferentes?
+
+- A. Con una película
+- B. Con el ensamblaje de una máquina
+- C. Con un manual de instrucciones
+- D. Con una partitura musical
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · la analogía de la película
+
+Se puede hacer una analogía sobre el desarrollo de un organismo con una película: desde el principio hasta el fin se puede detener en cualquier momento y, según donde se la detenga, se verán aspectos diferentes.
+
+---
+
+### 31
+
+De conformidad con el libro de Biología, ¿qué se utiliza, por lo general, para conocer con exactitud el momento en el que se lleva a cabo un estudio en biología del desarrollo?
+
+- A. Tablas de desarrollo para cada especie modelo, en las que se especifican las características de cada etapa
+- B. El genoma completo de la especie estudiada
+- C. Un único cronómetro común para todas las especies
+- D. La secuencia de aminoácidos de sus proteínas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · las tablas de desarrollo
+
+…se utilizan tablas de desarrollo para cada especie modelo en las que se especifican las características de cada etapa.
+
+---
+
+### 32
+
+En relación con el libro de Biología, en el camino de formación de una proteína activa a partir de un gen, ¿qué puede regularse en una primera etapa?
+
+- A. Que se favorezca o no la transcripción de ese gen, ya sea por procesos genéticos o epigenéticos
+- B. Que el ARNm ya sintetizado sea degradado o silenciado
+- C. Que la proteína no sufra las modificaciones postraduccionales indispensables para ser activa
+- D. Que el ARNm transcripto se procese de manera diferencial
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · puntos de regulación de la expresión
+
+En el camino de formación de una proteína activa (o, eventualmente, un ARN) a partir de un gen puede haber muchos puntos de regulación: puede darse en una primera etapa, es decir, favorecerse o no la transcripción de ese gen, ya sea por procesos genéticos o epigenéticos.
+
+> Los distractores B, C y D son los demás puntos de regulación que enumera el mismo párrafo; se contrastan a propósito con el de la "primera etapa".
+
+---
+
+### 33
+
+De acuerdo con el libro de Biología, ¿qué se puede afirmar sobre la expresión de los genes en una célula?
+
+- A. Que no todos los genes se expresan: algunos están "prendidos" y otros "apagados"
+- B. Que todos los genes de la célula se expresan al mismo tiempo
+- C. Que la célula sólo conserva los genes que expresa y pierde el resto
+- D. Que los genes "apagados" desaparecen del genoma de la célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 330
+**Subtema:** desarrollo · genes prendidos y apagados
+
+Está claro, entonces, que no todos los genes se expresan en una célula, algunos están "prendidos" y otros "apagados".
+
+---
+
+### 34
+
+De conformidad con el libro de Biología, ¿cuáles son los dos tipos de componentes que hay que considerar para comprender cómo se regula la expresión durante el desarrollo?
+
+- A. Los componentes internos del citoplasma (determinantes citoplasmáticos) y los componentes externos dados por la interacción con otras células y la matriz extracelular (inducción)
+- B. Los genes "prendidos" y los genes "apagados"
+- C. Los oocitos y los espermatozoides
+- D. Las capas germinales y la notocorda
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 330
+**Subtema:** desarrollo · determinantes citoplasmáticos e inducción
+
+…es fundamental considerar el ambiente en el cual esa célula se está desarrollando, teniendo en cuenta los componentes internos que están en el citoplasma (determinantes citoplasmáticos) y los componentes externos dados por la interacción con otras células y la matriz extracelular (inducción).
+
+---
+
+### 35
+
+En relación con el libro de Biología, ¿cómo se denomina el desarrollo en el que cada blastómero parecería estar ya diferenciado, de modo que al quitarlo se pierden las estructuras que se originaban a partir de él?
+
+- A. Desarrollo en mosaico
+- B. Desarrollo regulativo
+- C. Inducción
+- D. Segmentación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 330
+**Subtema:** desarrollo · desarrollo en mosaico
+
+A este tipo de desarrollo, en el que cada blastómero (mosaico) parecería estar ya diferenciado, se lo suele denominar desarrollo en mosaico. Es decir: en el citoplasma de los blastómeros habría moléculas que determinarían el tipo celular.
+
+---
+
+### 36
+
+De acuerdo con el libro de Biología, ¿quién llevó a cabo, en 1887, los primeros estudios que demostraron el desarrollo en mosaico?
+
+- A. El fisiólogo y embriólogo francés Laurent Chabry
+- B. El embriólogo alemán Theodor Boveri
+- C. El biólogo del desarrollo Lewis Wolpert
+- D. El biólogo estadounidense Scott Gilbert
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 330
+**Subtema:** desarrollo · Chabry y el desarrollo en mosaico
+
+Los primeros estudios que demostraron este tipo de desarrollo fueron llevados a cabo por el fisiólogo y embriólogo francés Laurent Chabry (1855-1894), en 1887, con embriones de organismos.
+
+---
+
+### 37
+
+De conformidad con el libro de Biología, ¿qué naturaleza tenían los determinantes distribuidos de manera desigual en el citoplasma que quedaban confinados en algunas células durante el desarrollo?
+
+- A. Eran ARN y proteínas
+- B. Eran únicamente moléculas de ADN
+- C. Eran lípidos de la membrana plasmática
+- D. Eran iones inorgánicos del citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 330
+**Subtema:** desarrollo · naturaleza de los determinantes citoplasmáticos
+
+Casi un siglo después se demostró que esos determinantes eran ARN y proteínas que se encontraban distribuidos de manera desigual en el citoplasma; por lo tanto, durante las sucesivas divisiones en el desarrollo quedarían confinados solo en algunas células.
+
+---
+
+### 38
+
+En relación con el libro de Biología, ¿qué demostró Theodor Boveri en los nematodos respecto del plasma germinal del hemisferio vegetativo?
+
+- A. Que contiene componentes o determinantes que permiten que las células de esa región se diferencien en células germinales primordiales
+- B. Que carece por completo de determinantes citoplasmáticos
+- C. Que sus determinantes se distribuyen por igual en todas las células del embrión
+- D. Que da origen únicamente a las capas germinales del embrión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 330
+**Subtema:** desarrollo · Boveri y el plasma germinal
+
+El embriólogo alemán Theodor Boveri (1862-1915) demostró que el plasma germinal en el hemisferio vegetativo contiene componentes o determinantes que permiten que las células en esa región se puedan diferenciar en CGP.
+
+---
+
+### 39
+
+De acuerdo con el libro de Biología, en la mosca de la fruta Drosophila, ¿cómo se denominan los determinantes que se encuentran en el extremo posterior del embrión y darán origen a las células germinales primordiales?
+
+- A. Plasma polar
+- B. Plasma germinal vegetativo
+- C. Determinantes de la región animal
+- D. Placode óptico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 330
+**Subtema:** desarrollo · el plasma polar en Drosophila
+
+En la mosca de la fruta Drosophila, estos determinantes se denominan plasma polar porque se encuentran en el extremo posterior del embrión y darán origen a las CGP o células polares.
+
+---
+
+### 40
+
+De conformidad con el libro de Biología, ¿en qué consiste el proceso de inducción?
+
+- A. En que las señales generadas por las células vecinas desencadenan la diferenciación de una célula
+- B. En que los determinantes del citoplasma se reparten de manera desigual entre las células hijas
+- C. En que cada blastómero se diferencia de manera independiente de las células vecinas
+- D. En que la célula pierde la capacidad de responder a las señales del ambiente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 331
+**Subtema:** desarrollo · la inducción
+
+En el proceso de inducción, las señales generadas por las células vecinas desencadenan su diferenciación.
+
+---
+
+### 41
+
+En relación con el libro de Biología, ¿cómo se denomina el desarrollo de los embriones tempranos en los que la pérdida de un blastómero hace que las células restantes alteren sus destinos compensando la pérdida?
+
+- A. Desarrollo regulativo
+- B. Desarrollo en mosaico
+- C. Segmentación
+- D. Organogénesis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 331
+**Subtema:** desarrollo · el desarrollo regulativo
+
+El desarrollo de los embriones tempranos, en los que la pérdida de un blastómero hace que las células restantes alteren sus destinos compensando la pérdida, se denomina desarrollo regulativo y es el tipo de desarrollo que se observa en la mayoría de los vertebrados.
+
+---
+
+### 42
+
+De acuerdo con el libro de Biología, ¿qué característica tiene la inducción cuando un tejido es inducido por una señal?
+
+- A. Que se modifica y, entonces, puede actuar como inductor de otro tejido o del que previamente lo indujo
+- B. Que pierde de forma permanente la capacidad de responder a nuevas señales
+- C. Que deja de depender del ambiente y se diferencia siempre en el mismo tipo celular
+- D. Que reparte sus determinantes citoplasmáticos entre las células vecinas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 331
+**Subtema:** desarrollo · el tejido inducido como inductor
+
+Una característica de la inducción es que cuando un tejido es inducido por una señal, se modifica y, entonces, puede actuar como inductor de otro tejido o del que previamente lo indujo.
+
+---
+
+### 43
+
+De conformidad con el libro de Biología, en la cascada de inducción que ocurre en la formación del ojo, ¿qué forman la vesícula óptica y el ectodermo epidérmico al invaginarse?
+
+- A. La vesícula óptica forma la copa óptica y el ectodermo epidérmico forma el cristalino
+- B. La vesícula óptica forma el cristalino y el ectodermo epidérmico forma la retina
+- C. Ambos forman en conjunto el nervio óptico
+- D. La vesícula óptica forma el placode óptico y el ectodermo epidérmico forma la copa óptica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 331
+**Subtema:** desarrollo · fig. 15-5, la inducción en el ojo
+
+…mientras que la vesícula óptica se invagina y forma la copa óptica, el ectodermo epidérmico se invagina y forma el cristalino.
+
+---
+
+### 44
+
+En relación con el libro de Biología, ¿cómo se denomina la interacción que se produce por contacto entre dos células, a través de proteínas presentes en la célula que induce y la inducida?
+
+- A. Interacción yuxtacrina
+- B. Interacción paracrina
+- C. Inducción regulativa
+- D. Desarrollo en mosaico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 331
+**Subtema:** desarrollo · la interacción yuxtacrina
+
+Cuando la interacción se produce por contacto entre dos células a través de proteínas presentes en la célula que induce y la inducida, se denomina interacción yuxtacrina.
+
+---
+
+### 45
+
+De acuerdo con el libro de Biología, cuando la señal molecular que se difunde proviene de una célula o de la matriz extracelular, ¿de qué tipo es la interacción?
+
+- A. Paracrina
+- B. Yuxtacrina
+- C. Endocrina
+- D. Autocrina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 331
+**Subtema:** desarrollo · la interacción paracrina
+
+En el primer caso, la señal que se difunde puede provenir de una célula o desde la matriz extracelular. En estos casos, la interacción es de tipo paracrina.
