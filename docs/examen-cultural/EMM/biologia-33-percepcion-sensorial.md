@@ -53,22 +53,22 @@ problemática inicial"—.
 
 ## Cobertura actual
 
-**EN CURSO.** Cubiertas las pp. 778–783: la definición de sensación y percepción,
-la organización jerárquica del sistema nervioso, la adaptación sensorial, la
-transducción y la codificación de la información sensorial (tanda 1); los cinco
-tipos de receptores, las vías nerviosas, el sistema visual, los sistemas sensoriales
-y la anatomía del ojo humano de la figura 33-2 (tanda 2); y el cuadro 33-1 de
-modalidades sensoriales, la visión estereoscópica y el procesamiento en la retina
-(conos y bastones) (tanda 3).
+**EN CURSO.** Cubiertas las pp. 778–784: sensación y percepción, la organización
+jerárquica del sistema nervioso, adaptación sensorial, transducción y codificación
+(tanda 1); los cinco tipos de receptores, las vías nerviosas, el sistema visual, los
+sistemas sensoriales y la anatomía del ojo de la figura 33-2 (tanda 2); el cuadro
+33-1 de modalidades sensoriales, la visión estereoscópica y el procesamiento en la
+retina —conos y bastones— (tanda 3); y la conclusión del sistema visual —nervio
+óptico, punto ciego, fóvea y espectro visible— más el inicio de la audición —el oído
+externo, medio e interno— (tanda 4).
 
 **Pendiente:** el capítulo 33 está **EN CURSO**. Sigue desde la página impresa
-**784** en adelante: las estructuras accesorias del ojo y la formación de la imagen,
-la fototransducción, los demás sistemas sensoriales (audición y equilibrio, gusto y
-olfato, tacto), el procesamiento en los centros nerviosos superiores y la respuesta
-motora, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los
-ejercicios. Este capítulo lo pide **sólo la EMO**; mientras no se cierre, este
-archivo sostiene su propio pendiente. **Recordatorio de coordinación:** los
-capítulos 14, 15 y 37 son de otras sesiones.
+**785** en adelante: el resto de la audición (la cóclea y la transducción del sonido,
+el equilibrio), el gusto y el olfato, el tacto, el procesamiento en los centros
+nerviosos superiores y la respuesta motora, hasta antes del ensayo de cierre
+"Retomando la problemática inicial" y los ejercicios. Este capítulo lo pide **sólo la
+EMO**; mientras no se cierre, este archivo sostiene su propio pendiente.
+**Recordatorio de coordinación:** los capítulos 14, 15 y 37 son de otras sesiones.
 
 ## Cómo se escriben estos reactivos
 
@@ -782,16 +782,229 @@ En relación con el libro de Biología, ¿por qué los animales nocturnos no tie
 
 Los animales nocturnos tienen retinas constituidas, casi por completo, por bastones y, por lo tanto, no tienen visión en color.
 
+## Sub-lote 8 · Conclusión del sistema visual: nervio óptico, punto ciego y fóvea (p. 784)
+
+### 47
+
+De acuerdo con el libro de Biología, ¿qué forman los axones de todas las células ganglionares de la retina al converger en la parte posterior del globo ocular?
+
+- A. El nervio óptico, que conecta la retina con el encéfalo
+- B. La fóvea, zona de mayor agudeza visual
+- C. El músculo ciliar, que sostiene el cristalino
+- D. La coroides, capa media del ojo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · nervio óptico
+
+Los axones de todas las células ganglionares de la retina convergen en la parte posterior del globo ocular y forman el nervio óptico, que conecta la retina con el encéfalo.
+
+### 48
+
+En relación con el libro de Biología, ¿por qué el punto de la retina por donde pasa el nervio óptico es un punto ciego?
+
+- A. Porque carece de fotorreceptores
+- B. Porque está formado exclusivamente por conos
+- C. Porque en él se forma la imagen más definida
+- D. Porque está cubierto por el cristalino
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · nervio óptico
+
+El punto de la retina por donde pasa el nervio óptico carece de fotorreceptores y es, por lo tanto, un punto ciego.
+
+### 49
+
+De acuerdo con el libro de Biología, ¿por qué de modo habitual no percibimos el punto ciego de la retina?
+
+- A. Porque las "porciones faltantes" de la imagen son suministradas por el otro ojo
+- B. Porque el punto ciego se desplaza constantemente
+- C. Porque los conos de la fóvea lo compensan
+- D. Porque el cristalino corrige la imagen
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · nervio óptico
+
+Como de modo habitual vemos el mismo objeto con ambos ojos, las "porciones faltantes" de una imagen son suministradas por el otro ojo.
+
+### 50
+
+En relación con el libro de Biología, ¿cuál es el área de la retina en la cual se forma la imagen más definida?
+
+- A. La fóvea, que tiene una gran cantidad de conos fuertemente compactados
+- B. El punto ciego, por donde sale el nervio óptico
+- C. La coroides, capa media rica en vasos sanguíneos
+- D. La esclerótica, capa externa protectora
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · fóvea
+
+El área de la retina en la cual se forma la imagen más definida es la fóvea, que tiene una gran cantidad de células fotorreceptoras formadas, casi por completo, por conos fuertemente compactados.
+
+### 51
+
+De acuerdo con el libro de Biología, ¿cuántas fóveas tienen las aves, que dependen de la visión por sobre todos los demás sentidos?
+
+- A. Dos o hasta tres fóveas
+- B. Una sola fóvea, como los mamíferos
+- C. Ninguna fóvea
+- D. Una fóvea por cada color primario
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · fóvea
+
+Las aves, que dependen de la visión por sobre todos los demás sentidos, tienen dos o hasta tres fóveas y sus fotorreceptores tienden a estar más apretados.
+
+### 52
+
+En relación con el libro de Biología, para el ojo humano, ¿entre qué colores se extiende el espectro visible?
+
+- A. Desde la luz violeta, de ondas comparativamente cortas, hasta la luz roja, la onda más larga que podemos ver
+- B. Desde la luz roja, de ondas cortas, hasta la luz violeta, la onda más larga que podemos ver
+- C. Desde el ultravioleta hasta el infrarrojo
+- D. Desde la luz verde hasta la luz azul
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · espectro visible
+
+Para el ojo humano, el espectro visible va desde la luz violeta, constituida por ondas de luz comparativamente cortas, hasta la luz roja, la onda más larga que podemos ver.
+
+## Sub-lote 9 · La audición: el oído (p. 784)
+
+### 53
+
+De acuerdo con el libro de Biología, ¿en qué tres partes se divide el oído de los mamíferos, un sistema de cámaras?
+
+- A. Oído externo, medio e interno
+- B. Oído anterior, central y posterior
+- C. Oído superior, medio e inferior
+- D. Oído izquierdo, central y derecho
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · audición
+
+El oído de los mamíferos es un sistema de cámaras. Comprende el oído externo, medio e interno, y cada uno de ellos tiene una función específica en la detección del sonido.
+
+### 54
+
+En relación con el libro de Biología, ¿de qué consta el oído externo, y cuál es su función?
+
+- A. De un pabellón y un canal auditivo que colectan y encauzan las vibraciones hacia el oído medio
+- B. De tres huesecillos que amplifican las ondas sonoras
+- C. De la cóclea, un tubo enrollado con mecanorreceptores
+- D. De la trompa auditiva que lo conecta con la faringe
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · audición
+
+El oído externo consta de un pabellón y un canal auditivo en los que circula el aire. Ambos colectan y encauzan las vibraciones hacia el oído medio.
+
+### 55
+
+De acuerdo con el libro de Biología, el oído medio es una cavidad llena de aire limitada por dos membranas; ¿cuáles son?
+
+- A. El tímpano y la membrana que cubre la ventana oval
+- B. La córnea y la esclerótica
+- C. La cóclea y el pabellón auditivo
+- D. La retina y la coroides
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · audición
+
+El oído medio es una cavidad llena de aire limitada por dos membranas: el tímpano y la membrana que cubre la ventana oval.
+
+### 56
+
+En relación con el libro de Biología, ¿cuáles son los tres huesecillos que conectan las dos membranas del oído medio?
+
+- A. El martillo, el yunque y el estribo
+- B. El martillo, el estribo y la cóclea
+- C. El tímpano, el yunque y la ventana oval
+- D. El pabellón, el canal auditivo y el estribo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · audición
+
+Ambas están conectadas por medio de tres huesecillos: martillo, yunque y estribo.
+
+### 57
+
+De acuerdo con el libro de Biología, ¿qué función cumplen los tres huesecillos del oído medio?
+
+- A. Amplifican notablemente las ondas sonoras mediante la percusión sobre la ventana oval
+- B. Colectan y encauzan las vibraciones desde el ambiente
+- C. Traducen los estímulos mecánicos en impulsos nerviosos
+- D. Conectan el oído medio con la faringe superior
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · audición
+
+Estos pequeños huesos amplifican notablemente las ondas sonoras mediante la percusión sobre la ventana oval.
+
+### 58
+
+En relación con el libro de Biología, ¿qué estructura conecta el oído medio con la faringe superior?
+
+- A. La trompa auditiva (o trompa de Eustaquio)
+- B. El canal auditivo del oído externo
+- C. La ventana oval
+- D. El nervio óptico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · audición
+
+El oído medio está conectado con la faringe superior por la trompa auditiva (o trompa de Eustaquio).
+
+### 59
+
+De acuerdo con el libro de Biología, ¿qué estructura en forma de tubo enrollado está situada en el oído interno?
+
+- A. La cóclea
+- B. El tímpano
+- C. El estribo
+- D. El pabellón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · audición
+
+En el oído interno está situada la cóclea, una estructura en forma de tubo enrollado.
+
+### 60
+
+En relación con el libro de Biología, ¿qué mecanorreceptores se sitúan sobre una de las membranas internas de la cóclea y traducen en impulsos los estímulos mecánicos que llegan en forma de ondas?
+
+- A. Células pilosas con estereocilios
+- B. Conos y bastones
+- C. Papilas gustativas
+- D. Neurorreceptores olfatorios
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 784
+**Subtema:** Percepción sensorial · audición
+
+Sobre una de las membranas internas de la cóclea se sitúan los mecanorreceptores, células pilosas con estereocilios, que traducen los estímulos mecánicos que llegan a su superficie en forma de ondas en impulsos.
+
 ---
 
 **Pendiente:** el capítulo 33 está **EN CURSO** (ver la sección "Cobertura actual").
-Las tandas cubren pp. 778–783: introducción, tipos de receptores, sistema visual,
-anatomía del ojo, el cuadro 33-1 de modalidades sensoriales y el procesamiento en la
-retina (conos y bastones). Falta desde la p. 784: las estructuras accesorias del ojo
-y la formación de la imagen, la fototransducción, los demás sistemas sensoriales
-(audición y equilibrio, gusto y olfato, tacto), el procesamiento en los centros
-nerviosos superiores y la respuesta motora, hasta antes del ensayo de cierre
-"Retomando la problemática inicial" y los ejercicios. Lo pide **sólo la EMO**. Los
-capítulos 14, 15 y 37 son de otras sesiones.
+Las tandas cubren pp. 778–784: introducción, receptores, todo el sistema visual
+(hasta el nervio óptico, el punto ciego, la fóvea y el espectro visible) y el inicio
+de la audición (el oído externo, medio e interno). Falta desde la p. 785: el resto de
+la audición (la cóclea y la transducción del sonido, el equilibrio), el gusto y el
+olfato, el tacto, el procesamiento en los centros nerviosos superiores y la respuesta
+motora, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los
+ejercicios. Lo pide **sólo la EMO**. Los capítulos 14, 15 y 37 son de otras sesiones.
 
-**Reactivos en este archivo:** 46
+**Reactivos en este archivo:** 60
