@@ -18,7 +18,7 @@ _Regenerado el 2026-07-25._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 5012 | abiertas: EMM · Biología, algebra-baldor · Álgebra, fisica-perez-montiel · Física |
+| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 5058 | abiertas: EMM · Biología, algebra-baldor · Álgebra, fisica-perez-montiel · Física |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -55,6 +55,7 @@ _Regenerado el 2026-07-25._
 | HCM · Español · Bloque 1 · Proceso comunicativo | 32 | ninguno. El bloque 1 está cerrado. |
 | HCM · Español · Bloque 3 · Proceso de escritura | 77 | ninguno. El bloque 3 está cerrado. |
 | HCM · Geografía · Capítulo 1 · Generalidades | 13 | ninguno. El alcance del capítulo 1 está cerrado. |
+| HCM · Geografía · Capítulo 3 · Regiones geomorfológicas | 46 | ninguno. Regiones geomorfológicas está cerrado en su alcance: cubierto de la p.80 a la p.90 con 46 reactivos; la p.86 falta del escaneo (hueco documentado arriba) y la p.91 ya es el capítulo 4, Litorales, que queda fuera. Con esto el **capítulo 3 completo** queda cubierto para la EMA (Unidades orogénicas en `geografia-03-unidades-orogenicas.md` + este archivo). A la materia Geografía de la EMA aún le falta escribir el **capítulo 23** (Geografía Política y Administrativa). |
 | HCM · Geografía · Capítulo 3 · Unidades orogénicas | 43 | ninguno. El alcance del capítulo 3 está cerrado. |
 | HCM · Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
 | HCM · Geografía · Capítulo 5 · Islas | 42 | ninguno. El capítulo 5 está cerrado. |
@@ -81,7 +82,7 @@ _Regenerado el 2026-07-25._
 | fisica-perez-montiel · Física · Unidad 6 · Materia y sus Propiedades | 49 | ninguno. La Unidad 6 queda cerrada para la EMO (temas 1, 2), la EMM y la EMMA (temas 1, 2, 3). |
 | fisica-perez-montiel · Física · Unidad 8 · Hidrostática | 45 | ninguno de contenido. La Unidad 8 queda cerrada para la EMO (temas 1, 2, 3), la EMOS (1, 3), la EMA (2, 3, 4, 5) y la EMMA (1, 2, 3, 4). Queda una decisión de Carlo sobre las "Generalidades" (ver el aviso del encabezado). |
 | fisica-perez-montiel · Física · Unidad 11 · Termología | 56 | _no declarado_ |
-| **Total** | **5012** | |
+| **Total** | **5058** | |
 
 > 1 archivo(s) no declaran pendiente en su encabezado, así que este resumen **no puede afirmar que estén cerrados**. Para que aparezcan como
 > terminados, agrégales una línea `**Pendiente:**` que lo diga.
