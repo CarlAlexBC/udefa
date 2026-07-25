@@ -50,6 +50,18 @@ type TemaConteo = { tema: string; total: number }
 const PAGE_SIZE = 50
 const SEARCH_DEBOUNCE_MS = 400
 
+// Filtro de polaridad para la lista de reactivos. Solo tiene sentido en
+// Personalidad (sus reactivos traen polaridad); el control ni aparece donde no
+// hay ninguna. El backend ya acepta `polaridad=POSITIVA|NEGATIVA`.
+const OPCIONES_POLARIDAD: Array<{
+  valor: 'POSITIVA' | 'NEGATIVA' | null
+  label: string
+}> = [
+  { valor: null, label: 'Todas' },
+  { valor: 'POSITIVA', label: 'Positiva' },
+  { valor: 'NEGATIVA', label: 'Negativa' },
+]
+
 // El backend fija estos IDs (Examen 1=Psicométrico, 2=Personalidad, 3=Axiológico).
 const FASES: Array<{
   id: number
@@ -344,12 +356,22 @@ function ListaReactivosEditable({
   const [cargandoMas, setCargandoMas] = useState(false)
   const [error, setError] = useState('')
   const [editando, setEditando] = useState<Reactivo | null>(null)
+  // Filtro de polaridad (null = todas). El `key` del padre remonta este
+  // componente al cambiar de tema/búsqueda, así que el filtro se reinicia solo.
+  const [polaridadSel, setPolaridadSel] = useState<'POSITIVA' | 'NEGATIVA' | null>(
+    null,
+  )
+
+  // La consulta base más el filtro de polaridad, si hay uno activo.
+  const queryConFiltro = polaridadSel
+    ? `${queryBase}&polaridad=${polaridadSel}`
+    : queryBase
 
   useEffect(() => {
     let vivo = true
     setCargando(true)
     setError('')
-    apiFetch<RespuestaReactivos>(`/reactivos?${queryBase}&take=${PAGE_SIZE}&skip=0`)
+    apiFetch<RespuestaReactivos>(`/reactivos?${queryConFiltro}&take=${PAGE_SIZE}&skip=0`)
       .then((res) => {
         if (!vivo) return
         setReactivos(res.data)
@@ -364,13 +386,13 @@ function ListaReactivosEditable({
     return () => {
       vivo = false
     }
-  }, [queryBase])
+  }, [queryConFiltro])
 
   async function cargarMas() {
     setCargandoMas(true)
     try {
       const res = await apiFetch<RespuestaReactivos>(
-        `/reactivos?${queryBase}&take=${PAGE_SIZE}&skip=${meta.skip + meta.take}`,
+        `/reactivos?${queryConFiltro}&take=${PAGE_SIZE}&skip=${meta.skip + meta.take}`,
       )
       setReactivos((prev) => [...prev, ...res.data])
       setMeta(res.meta)
@@ -385,14 +407,47 @@ function ListaReactivosEditable({
     setReactivos((prev) => prev.map((r) => (r.id === act.id ? { ...r, ...act } : r)))
   }
 
-  if (cargando) return <Cargando />
-  if (error) return <ErrorBox mensaje={error} />
+  // El filtro se muestra donde hay polaridad que filtrar (Personalidad) o si ya
+  // hay un filtro activo. Se renderiza en todos los estados —cargando, error,
+  // vacío o con lista— para que no desaparezca al re-consultar tras un cambio.
+  const mostrarFiltro =
+    polaridadSel !== null || reactivos.some((r) => r.polaridad !== null)
+  const filtro = mostrarFiltro ? (
+    <FiltroPolaridad seleccion={polaridadSel} onCambiar={setPolaridadSel} />
+  ) : null
+
+  if (cargando)
+    return (
+      <>
+        {filtro}
+        <Cargando />
+      </>
+    )
+  if (error)
+    return (
+      <>
+        {filtro}
+        <ErrorBox mensaje={error} />
+      </>
+    )
   if (reactivos.length === 0) {
-    return <Vacio texto="No hay reactivos aquí." />
+    return (
+      <>
+        {filtro}
+        <Vacio
+          texto={
+            polaridadSel
+              ? 'No hay reactivos con esa polaridad en esta vista.'
+              : 'No hay reactivos aquí.'
+          }
+        />
+      </>
+    )
   }
 
   return (
     <>
+      {filtro}
       <div className="mb-3 text-xs text-muted-foreground">
         Mostrando{' '}
         <span className="font-semibold text-foreground">{reactivos.length}</span>{' '}
@@ -569,6 +624,43 @@ function PolaridadBadge({
     >
       {polaridad === 'POSITIVA' ? 'Positiva' : 'Negativa'}
     </span>
+  )
+}
+
+/** Filtro segmentado de polaridad (Todas / Positiva / Negativa) para la lista. */
+function FiltroPolaridad({
+  seleccion,
+  onCambiar,
+}: {
+  seleccion: 'POSITIVA' | 'NEGATIVA' | null
+  onCambiar: (v: 'POSITIVA' | 'NEGATIVA' | null) => void
+}) {
+  return (
+    <div className="mb-3 flex items-center gap-2">
+      <span className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+        Polaridad
+      </span>
+      <div className="inline-flex items-center gap-0.5 rounded-lg border border-border bg-card p-0.5 shadow-sm">
+        {OPCIONES_POLARIDAD.map((opt) => {
+          const activo = seleccion === opt.valor
+          return (
+            <button
+              key={opt.label}
+              type="button"
+              onClick={() => onCambiar(opt.valor)}
+              className={cn(
+                'rounded-md px-3 py-1 text-xs font-medium transition-colors',
+                activo
+                  ? 'bg-accent text-accent-foreground'
+                  : 'text-muted-foreground hover:text-foreground',
+              )}
+            >
+              {opt.label}
+            </button>
+          )
+        })}
+      </div>
+    </div>
   )
 }
 
