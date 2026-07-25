@@ -53,22 +53,28 @@ problemática inicial"—.
 
 ## Cobertura actual
 
-**EN CURSO.** Cubiertas las pp. 778–784: sensación y percepción, la organización
-jerárquica del sistema nervioso, adaptación sensorial, transducción y codificación
-(tanda 1); los cinco tipos de receptores, las vías nerviosas, el sistema visual, los
-sistemas sensoriales y la anatomía del ojo de la figura 33-2 (tanda 2); el cuadro
-33-1 de modalidades sensoriales, la visión estereoscópica y el procesamiento en la
-retina —conos y bastones— (tanda 3); y la conclusión del sistema visual —nervio
-óptico, punto ciego, fóvea y espectro visible— más el inicio de la audición —el oído
-externo, medio e interno— (tanda 4).
+**EN CURSO.** Cubiertas las pp. 778–791: sensación y percepción y la organización
+jerárquica del sistema nervioso; adaptación sensorial, transducción y codificación;
+los cinco tipos de receptores y las vías nerviosas; el sistema visual completo
+(anatomía del ojo, cuadro 33-1 de modalidades sensoriales, visión estereoscópica,
+retina —conos y bastones—, nervio óptico, punto ciego, fóvea y espectro visible); la
+audición (oído externo, medio e interno, la cóclea y el equilibrio); el gusto, el
+olfato y el sistema somatosensorial; el procesamiento de la información (Broca,
+localizacionistas/globalistas, plasticidad) y los sabores; el recuadro 33-1 de
+comunicación química (feromonas y órgano vomeronasal); y el encéfalo de los
+vertebrados (sustancia blanca y gris, tronco cerebral, cerebelo, diencéfalo —tálamo,
+hipotálamo, glándula pineal—, telencéfalo, cuerpo calloso y la corteza cerebral hasta
+sus lóbulos).
 
 **Pendiente:** el capítulo 33 está **EN CURSO**. Sigue desde la página impresa
-**785** en adelante: el resto de la audición (la cóclea y la transducción del sonido,
-el equilibrio), el gusto y el olfato, el tacto, el procesamiento en los centros
-nerviosos superiores y la respuesta motora, hasta antes del ensayo de cierre
-"Retomando la problemática inicial" y los ejercicios. Este capítulo lo pide **sólo la
-EMO**; mientras no se cierre, este archivo sostiene su propio pendiente.
-**Recordatorio de coordinación:** los capítulos 14, 15 y 37 son de otras sesiones.
+**792** en adelante: las áreas funcionales de la corteza (motora, somatosensorial,
+auditiva, visual), los homúnculos, las cortezas de asociación, la lateralización de
+los hemisferios, el aprendizaje y la memoria, y la respuesta motora (la contracción
+muscular y el sarcómero), hasta antes del ensayo de cierre "Retomando la problemática
+inicial" y los ejercicios. El capítulo 33 termina en la p. 810; el capítulo 34 (El
+sistema endocrino) empieza en la p. 811. Este capítulo lo pide **sólo la EMO**;
+mientras no se cierre, este archivo sostiene su propio pendiente. **Recordatorio de
+coordinación:** los capítulos 14, 15 y 37 son de otras sesiones.
 
 ## Cómo se escriben estos reactivos
 
@@ -1452,15 +1458,390 @@ En relación con el libro de Biología, ¿por qué la mucosa olfatoria es uno de
 
 La mucosa olfatoria es uno de los pocos lugares del sistema nervioso en donde existe una regeneración neuronal activa.
 
+## Sub-lote 13 · Recuadro 33-1 · Comunicación química: feromonas y órgano vomeronasal (p. 788)
+
+### 91
+
+En relación con el libro de Biología, según el recuadro 33-1, ¿cómo se llaman las señales químicas enviadas y recibidas por individuos de la misma especie?
+
+- A. Feromonas
+- B. Hormonas
+- C. Neurotransmisores
+- D. Enzimas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 788
+**Subtema:** Percepción sensorial · comunicación química
+
+Las señales químicas enviadas y recibidas por individuos de la misma especie se llaman feromonas.
+
+### 92
+
+De acuerdo con el libro de Biología, según el recuadro 33-1, ¿qué son las feromonas?
+
+- A. Moléculas que pueden contener mensajes muy específicos, con una gran cantidad de información, y que afectan al comportamiento o a los procesos fisiológicos del otro
+- B. Células especializadas que captan la luz y la transforman en impulsos nerviosos
+- C. Prolongaciones de las neuronas que conducen el impulso hacia el cuerpo celular
+- D. Glándulas que vierten sus productos hacia el interior de la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 788
+**Subtema:** Percepción sensorial · comunicación química
+
+La mayoría de las especies se comunican mediante feromonas: moléculas que pueden contener mensajes muy específicos, con una gran cantidad de información, y que afectan al comportamiento o a los procesos fisiológicos del otro.
+
+### 93
+
+Según el libro de Biología, según el recuadro 33-1, ¿en qué se diferencian las feromonas de otras señales?
+
+- A. En que pueden persistir en el ambiente durante mucho tiempo
+- B. En que se destruyen apenas son liberadas al ambiente
+- C. En que sólo actúan por contacto directo entre dos individuos
+- D. En que viajan exclusivamente por la sangre del receptor
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 788
+**Subtema:** Percepción sensorial · comunicación química
+
+A diferencia de otras señales, las feromonas pueden persistir en el ambiente durante mucho tiempo.
+
+### 94
+
+De acuerdo con el libro de Biología, según el recuadro 33-1, ¿por qué se afirma que las feromonas son muy poderosas?
+
+- A. Porque unas cuantas moléculas liberadas en el aire o en el agua a través de la orina, el sudor u otras secreciones corporales bastan para influir en el comportamiento de otro animal
+- B. Porque cada molécula transporta la totalidad del código genético del individuo
+- C. Porque son las moléculas más grandes y pesadas del organismo
+- D. Porque sólo pueden ser producidas por los mamíferos de gran tamaño
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 788
+**Subtema:** Percepción sensorial · comunicación química
+
+Son muy poderosas: unas cuantas moléculas de feromonas liberadas en el aire o en el agua a través de la orina, el sudor u otras secreciones corporales bastan para influir en el comportamiento de otro animal.
+
+### 95
+
+En relación con el libro de Biología, según el recuadro 33-1, ¿cuál sería la función del órgano vomeronasal?
+
+- A. Responder a los estímulos provistos por las feromonas y enviar señales a diversas zonas del cerebro
+- B. Regular la temperatura del aire que ingresa por la nariz
+- C. Producir las lágrimas que lubrican la superficie del ojo
+- D. Amplificar las ondas sonoras que llegan al oído interno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 788
+**Subtema:** Percepción sensorial · comunicación química
+
+Un pequeño órgano del sistema nasal, el órgano vomeronasal, presente en mamíferos, reptiles y anfibios, sería el encargado de responder a los estímulos provistos por las feromonas y de enviar señales a diversas zonas del cerebro.
+
+### 96
+
+De acuerdo con el libro de Biología, según el recuadro 33-1, ¿qué se concluye hoy acerca del órgano vomeronasal humano?
+
+- A. Que no se trata de un vestigio, sino de un órgano funcional
+- B. Que es un órgano vestigial sin ninguna importancia fisiológica
+- C. Que no existe en la especie humana
+- D. Que sólo aparece durante el desarrollo embrionario y luego desaparece
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 788
+**Subtema:** Percepción sensorial · comunicación química
+
+No se trata, pues, de un vestigio, sino de un órgano funcional.
+
+## Sub-lote 14 · El encéfalo de los vertebrados: sustancia blanca y gris, y el tronco cerebral (p. 789)
+
+### 97
+
+De acuerdo con el libro de Biología, ¿por qué está formada la sustancia blanca del encéfalo?
+
+- A. Por los axones revestidos de mielina
+- B. Por los somas y las dendritas de las neuronas
+- C. Por los huesos del cráneo y las meninges
+- D. Por el líquido cefalorraquídeo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 789
+**Subtema:** Percepción sensorial · el encéfalo de los vertebrados
+
+Al igual que la médula espinal, está formado por sustancia blanca (los axones revestidos de mielina) y su sustancia gris (los somas y las dendritas de un enorme número de neuronas y las células de la glía).
+
+### 98
+
+En relación con el libro de Biología, ¿por qué está formada la sustancia gris del encéfalo?
+
+- A. Por los somas y las dendritas de un enorme número de neuronas y las células de la glía
+- B. Por los axones revestidos de mielina
+- C. Por las tres protuberancias del tubo neural
+- D. Por las meninges y el líquido cefalorraquídeo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 789
+**Subtema:** Percepción sensorial · el encéfalo de los vertebrados
+
+Al igual que la médula espinal, está formado por sustancia blanca (los axones revestidos de mielina) y su sustancia gris (los somas y las dendritas de un enorme número de neuronas y las células de la glía).
+
+### 99
+
+Según el libro de Biología, ¿dónde puede rastrearse el origen evolutivo del encéfalo de los vertebrados?
+
+- A. En una serie de tres protuberancias situadas en el extremo anterior del tubo neural hueco
+- B. En los huesos del cráneo que protegen el encéfalo
+- C. En las meninges y el líquido cefalorraquídeo
+- D. En los núcleos del bulbo raquídeo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 789
+**Subtema:** Percepción sensorial · el encéfalo de los vertebrados
+
+Podemos rastrear el origen evolutivo del encéfalo de los vertebrados en una serie de tres protuberancias situadas en el extremo anterior del tubo neural hueco.
+
+### 100
+
+De acuerdo con el libro de Biología, en peces, anfibios y reptiles, ¿qué tres regiones constituyen las tres protuberancias del tubo neural?
+
+- A. El "cerebro posterior" o rombencéfalo, el "cerebro medio" o mesencéfalo y el "cerebro anterior" o prosencéfalo
+- B. El bulbo raquídeo, la protuberancia y el cerebelo
+- C. El tálamo, el hipotálamo y la glándula pineal
+- D. Los lóbulos frontal, parietal y occipital
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 789
+**Subtema:** Percepción sensorial · el encéfalo de los vertebrados
+
+En peces, anfibios y reptiles, las tres protuberancias mencionadas con anterioridad conservan su disposición lineal y constituyen: el "cerebro posterior" o rombencéfalo, el "cerebro medio" o mesencéfalo y el "cerebro anterior" o prosencéfalo.
+
+### 101
+
+En relación con el libro de Biología, ¿por qué estructuras está formado el tronco o tallo cerebral de los vertebrados?
+
+- A. Por el bulbo raquídeo, la protuberancia y el mesencéfalo
+- B. Por el diencéfalo y el telencéfalo
+- C. Por los dos hemisferios cerebrales y el cuerpo calloso
+- D. Por el tálamo, el hipotálamo y la glándula pineal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 789
+**Subtema:** Percepción sensorial · el tronco cerebral
+
+En los vertebrados, el tronco o tallo cerebral está formado por el bulbo raquídeo, la protuberancia (que corresponden al rombencéfalo) y el mesencéfalo (cerebro medio).
+
+### 102
+
+Según el libro de Biología, ¿qué se afirma del tronco cerebral respecto de la información nerviosa?
+
+- A. Que toda la información que entra en el cerebro o sale de él, desde la periferia o hacia ella, pasa por esta estructura
+- B. Que ninguna información sensorial lo atraviesa
+- C. Que sólo procesa la información olfatoria
+- D. Que únicamente conduce las órdenes motoras voluntarias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 789
+**Subtema:** Percepción sensorial · el tronco cerebral
+
+Toda la información que entra en el cerebro o sale de él, desde la periferia o hacia ella, pasa por esta estructura.
+
+## Sub-lote 15 · Bulbo, cerebelo y diencéfalo: el tálamo (p. 790)
+
+### 103
+
+De acuerdo con el libro de Biología, ¿qué controlan los centros nerviosos del bulbo?
+
+- A. El latido cardíaco, la presión arterial y la respiración
+- B. La visión, la audición y el equilibrio
+- C. El pensamiento abstracto y el lenguaje
+- D. La producción de las hormonas del organismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 790
+**Subtema:** Percepción sensorial · el tronco cerebral
+
+Los centros nerviosos del bulbo controlan el latido cardíaco, la presión arterial y la respiración, razón por la cual un golpe asestado en la base del cráneo puede ser fatal.
+
+### 104
+
+En relación con el libro de Biología, ¿cuántos pares de nervios craneales surgen de la superficie inferior del encéfalo?
+
+- A. 13 pares
+- B. 10 pares
+- C. 12 pares
+- D. 31 pares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 790
+**Subtema:** Percepción sensorial · el tronco cerebral
+
+De la superficie inferior del encéfalo surgen 13 pares de nervios craneales.
+
+### 105
+
+Según el libro de Biología, ¿cuáles son las funciones del cerebelo?
+
+- A. Coordina el movimiento voluntario de los músculos, regula el tono muscular y realiza un ajuste fino del equilibrio corporal
+- B. Controla el latido cardíaco, la presión arterial y la respiración
+- C. Redirige la información sensorial a los centros correspondientes del cerebro
+- D. Produce la hormona melatonina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 790
+**Subtema:** Percepción sensorial · el tronco cerebral
+
+El cerebelo (que corresponde al rombencéfalo), ubicado dorsalmente al tronco cerebral, coordina el movimiento voluntario de los músculos, regula el tono muscular y realiza un ajuste fino del equilibrio corporal.
+
+### 106
+
+De acuerdo con el libro de Biología, ¿en qué dos porciones se divide el prosencéfalo en el embrión?
+
+- A. En el diencéfalo y el telencéfalo
+- B. En el rombencéfalo y el mesencéfalo
+- C. En el bulbo raquídeo y la protuberancia
+- D. En la sustancia blanca y la sustancia gris
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 790
+**Subtema:** Percepción sensorial · el diencéfalo
+
+En el embrión, el prosencéfalo se divide en el diencéfalo y el telencéfalo.
+
+### 107
+
+En relación con el libro de Biología, ¿qué es el tálamo?
+
+- A. Dos masas ovoides de materia gris que constituyen el principal centro de comunicación entre el tronco cerebral y los centros superiores del cerebro
+- B. Un pequeño órgano del sistema nasal que responde a las feromonas
+- C. La masa de fibras mielínicas que une los dos hemisferios cerebrales
+- D. La capa más externa de los hemisferios cerebrales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 790
+**Subtema:** Percepción sensorial · el diencéfalo
+
+El tálamo, dos masas ovoides de materia gris dentro del encéfalo, constituye el principal centro de comunicación entre el tronco cerebral y los centros superiores del cerebro.
+
+### 108
+
+Según el libro de Biología, la información proveniente de todos los sentidos es redirigida por el tálamo a los centros del cerebro, ¿con la excepción de cuál?
+
+- A. Con excepción del olfato
+- B. Con excepción de la visión
+- C. Con excepción de la audición
+- D. Con excepción del tacto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 790
+**Subtema:** Percepción sensorial · el diencéfalo
+
+La información proveniente de todos los sentidos (con excepción del olfato) es redirigida por el tálamo a los centros correspondientes del cerebro.
+
+## Sub-lote 16 · Hipotálamo, glándula pineal, telencéfalo y corteza cerebral (p. 791)
+
+### 109
+
+De acuerdo con el libro de Biología, ¿qué se afirma del hipotálamo a pesar de su pequeño tamaño?
+
+- A. Que es uno de los centros de regulación homeostática más importantes del encéfalo
+- B. Que es la estructura que más cambios ha experimentado en la evolución
+- C. Que carece de importancia fisiológica
+- D. Que produce la hormona melatonina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 791
+**Subtema:** Percepción sensorial · el diencéfalo
+
+El hipotálamo, a pesar de su pequeño tamaño, es uno de los centros de regulación homeostática más importantes del encéfalo.
+
+### 110
+
+En relación con el libro de Biología, ¿de la integración de qué sistemas es el hipotálamo el centro principal?
+
+- A. De los sistemas nervioso y endocrino
+- B. De los sistemas circulatorio y respiratorio
+- C. De los sistemas digestivo y excretor
+- D. De los sistemas muscular y esquelético
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 791
+**Subtema:** Percepción sensorial · el diencéfalo
+
+Esta región del cerebro es el centro principal para la integración de los sistemas nervioso y endocrino y, al mismo tiempo, controla la expresión de los ritmos circadianos.
+
+### 111
+
+Según el libro de Biología, ¿qué hormona produce la glándula pineal?
+
+- A. La melatonina
+- B. La prolactina
+- C. La somatotrofina
+- D. La adrenalina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 791
+**Subtema:** Percepción sensorial · el diencéfalo
+
+La glándula pineal también forma parte del diencéfalo, se ubica dorsal al tálamo y produce la hormona melatonina.
+
+### 112
+
+De acuerdo con el libro de Biología, ¿mediante qué estructura se conectan entre sí los hemisferios cerebrales?
+
+- A. Mediante una masa de fibras mielínicas muy compacta: el cuerpo calloso
+- B. Mediante el tálamo
+- C. Mediante el tronco cerebral
+- D. Mediante los núcleos de la base
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 791
+**Subtema:** Percepción sensorial · el telencéfalo
+
+Los hemisferios cerebrales se conectan entre sí mediante una masa de fibras mielínicas muy compacta: el cuerpo calloso.
+
+### 113
+
+En relación con el libro de Biología, ¿dónde se localizan unos 10 000 millones de las células nerviosas del encéfalo humano?
+
+- A. En la corteza cerebral o córtex
+- B. En el cerebelo
+- C. En el bulbo raquídeo
+- D. En la médula espinal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 791
+**Subtema:** Percepción sensorial · la corteza cerebral
+
+De los aproximadamente 100 000 millones de células nerviosas que se encuentran en el encéfalo humano, unos 10 000 millones se localizan en la corteza cerebral o córtex.
+
+### 114
+
+Según el libro de Biología, ¿en qué cuatro lóbulos está subdividido de manera externa el córtex de cada hemisferio cerebral?
+
+- A. Frontal, parietal, temporal y occipital
+- B. Frontal, parietal, temporal y límbico
+- C. Rombencéfalo, mesencéfalo, prosencéfalo y diencéfalo
+- D. Central, lateral, dorsal y ventral
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 791
+**Subtema:** Percepción sensorial · la corteza cerebral
+
+El córtex en cada hemisferio cerebral está subdividido de manera externa en cuatro lóbulos por dos profundas cisuras o surcos en la superficie: los lóbulos frontal, parietal, temporal y occipital.
+
 ---
 
 **Pendiente:** el capítulo 33 está **EN CURSO** (ver la sección "Cobertura actual").
-Las tandas cubren pp. 778–787: introducción, receptores, sistema visual, audición y
+Las tandas cubren pp. 778–791: introducción, receptores, sistema visual, audición y
 equilibrio, sentidos químicos y somatosensorial, el procesamiento de la información
-(Broca, localizacionistas/globalistas, plasticidad) y los sabores y el epitelio
-olfatorio. Falta desde la p. 788: el resto del procesamiento en los centros nerviosos
-superiores y la respuesta motora, hasta antes del ensayo de cierre "Retomando la
-problemática inicial" y los ejercicios. Lo pide **sólo la EMO**. Los capítulos 14, 15
-y 37 son de otras sesiones.
+(Broca, localizacionistas/globalistas, plasticidad), los sabores y el epitelio
+olfatorio, el recuadro 33-1 de comunicación química (feromonas y órgano vomeronasal) y
+el encéfalo de los vertebrados (sustancia blanca y gris, tronco cerebral, cerebelo,
+diencéfalo —tálamo, hipotálamo, glándula pineal—, telencéfalo, cuerpo calloso y la
+corteza cerebral hasta sus lóbulos). Falta desde la p. 792: las áreas funcionales de la
+corteza (motora, somatosensorial, auditiva, visual), los homúnculos, las cortezas de
+asociación, la lateralización de los hemisferios, el aprendizaje y la memoria, y la
+respuesta motora (la contracción muscular y el sarcómero), hasta antes del ensayo de
+cierre "Retomando la problemática inicial" y los ejercicios. **El capítulo 33 termina
+en la p. 810; el capítulo 34 (El sistema endocrino) empieza en la p. 811** (hoja 857,
+verificado de la hoja). Lo pide **sólo la EMO**. Los capítulos 14, 15 y 37 son de otras
+sesiones.
 
-**Reactivos en este archivo:** 90
+**Reactivos en este archivo:** 114
