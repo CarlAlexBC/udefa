@@ -1,0 +1,442 @@
+# Biología · Capítulo 15 · Bases moleculares del desarrollo
+
+## Libro — a quién pertenece este material
+
+Curtis, Barnes, Schnek, Massarini. *Biología*. **Editorial Médica Panamericana**,
+**octava edición**. Edición, año y desfase verificados en
+`biologia-03-origen-vida.md` (8ª ed.; se cita 2022; desfase **+46**).
+
+**Los reactivos pertenecen al libro, no a un plantel.** El orden es
+`Libro → Capítulo → Tema → Reactivo`. Un plantel no es dueño del material: por el otro
+lado va la demanda (`Plantel → Carrera → Temario por año → selecciona Temas`), y un examen
+se arma cruzando ambos. Por eso el mismo reactivo puede servir a varias escuelas y
+carreras sin existir dos veces, y por eso los campos **Referencia:** (libro, edición,
+página) y **Subtema:** son la llave con la que el temario los manda a llamar.
+
+**Quién lo pide hoy:** sólo la **EMOS** — Escuela Militar de Oficiales de Sanidad (clave
+de materia `BIO-01-2026`). Ninguna otra escuela pide hoy este capítulo. Si mañana lo pide
+otra, se trae de aquí: no se duplica.
+
+> **Carpeta pendiente de migrar.** Este archivo nace en `docs/examen-cultural/EMM/` a
+> propósito, junto al resto de Biología, para que la materia se mueva completa en un solo
+> paso y no quede partida en dos sitios. Cuando se migre, la carpeta se nombra por el
+> **libro** (como ya se hizo con `fisica-perez-montiel/`), no por la escuela.
+
+**Sin línea `**Tema:**` en este libro.** El temario de Biología pide **capítulos
+completos**, no temas sueltos, así que la clave de temario no aporta nada y se omite. El
+**Subtema:** va en prosa, con el mismo patrón que el resto de la materia.
+
+## Método
+
+Cuerpo del texto con `docs/examen-cultural/extraer.py --desfase=46` (el libro trae capa
+de texto). Las figuras y los recuadros van con `render.py` o `crop.py` cuando su capa de
+texto sale en lorem ipsum o cifrada. Detalle en el encabezado del capítulo 3.
+
+```
+PYTHONIOENCODING=utf-8 python docs/examen-cultural/extraer.py "examen_cultural/libros_examen_cultural/EMM/1 BIOLOGIA DE CURTIS.pdf" <hoja> <hoja> --desfase=46
+```
+
+**Dónde empieza el capítulo — verificado hoja por hoja.** El capítulo 15 pertenece a la
+**Sección III · Patrones y procesos de la herencia**. El capítulo 14 termina en la hoja 369
+(página impresa 323); la hoja 370 (página impresa 324) está en blanco. La **portadilla del
+capítulo 15 es la hoja 371 (página impresa 325)**: trae el número 15, el título "BASES
+MOLECULARES DEL DESARROLLO", el epígrafe de Franz Kafka y el apartado de apertura "Biología
+en contexto social · Las huellas de la talidomida".
+
+**El cuerpo empieza en la hoja 372 (página impresa 326)**, donde bajo el encabezado de
+sección arranca el texto con las preguntas guía ("¿Cómo se forman los distintos organismos
+a partir de una primera célula?…") y la sección "La biología del desarrollo a lo largo de
+la historia". En esa misma página, en la otra columna, sigue el recuadro de apertura de la
+talidomida (la trampa habitual de este libro: la página parece sólo continuación del
+recuadro, pero ya trae cuerpo de capítulo). Verificado con `extraer.py`.
+
+**Desfase reverificado aquí:** hoja 372 = página impresa 326 (+46), hoja 371 = página
+impresa 325 (+46). Leído de la hoja, nunca calculado.
+
+**Qué queda fuera por norma.** El ensayo de cierre "Retomando la problemática inicial" y
+los ejercicios **no llevan reactivos**, igual que en los capítulos 14, 32, 35 y 36. Del
+apartado de apertura "Biología en contexto social · Las huellas de la talidomida" **sí se
+toman reactivos, pero sólo de sus datos de biología** —la teratogenia de la talidomida, las
+malformaciones que produce (meromelia y amelia), y que atraviesa la placenta y altera el
+desarrollo embrionario—, nunca de la discusión social sobre la industria farmacéutica, la
+FDA o la figura de Frances Kelsey.
+
+## Erratas del libro
+
+El capítulo escribe mal varios nombres propios en su capa de texto (leída con `extraer.py`,
+que extrae el texto embebido, no un escaneo). Verificadas contra la grafía estándar:
+
+| Dónde | Cómo lo escribe el libro | Grafía correcta |
+|---|---|---|
+| p. 327 | "Marcelo **Malphigi** (1628-1694)" | **Marcello Malpighi** |
+| p. 327 | "Antonie van **Leewenhoek** (1632-1723)" | **Antonie van Leeuwenhoek** |
+| p. 328, pie de la fig. 15-2 | "Nicolas **Hartsoek** (1656-1725)" | **Nicolaas Hartsoeker** |
+| p. 328 | "Wilhelm **Johansen**" | **Wilhelm Johannsen** |
+| p. 328 | "Caspar **Friederich** Wolff (1733-1794)" | **Caspar Friedrich Wolff** |
+| p. 325, recuadro | "Widuking Lenz" · "William Mc Bride" | **Widukind Lenz** · **William McBride** |
+
+**No se escriben reactivos que dependan de la grafía de estos nombres.** En los enunciados
+se usa la grafía correcta; la cita textual de la opción y de la justificación conserva lo
+que dice el libro cuando hace falta, porque el aspirante lee este libro.
+
+## Cómo se escriben estos reactivos
+
+Recuerdo literal: la opción correcta y la justificación son **cita textual** del Curtis, sin
+parafrasear. Cuatro opciones del mismo tipo y magnitud; los mejores distractores salen del
+mismo párrafo o del mismo cuadro. La correcta se escribe siempre en **A** porque el
+importador baraja las opciones. El enunciado nombra el libro y alterna las tres fórmulas
+del Anexo "H": "De acuerdo con", "De conformidad con", "En relación con".
+
+**Pendiente:** el capítulo 15 está EN CURSO; cubierta la primera tanda (páginas impresas **325 a 329**: el apartado de apertura de la talidomida sólo en sus datos de biología, la historia de la biología del desarrollo —preformacionismo y epigénesis, el vitalismo y el mecanicismo, las tres capas germinales, el reduccionismo genético, la fig. 15-2 del homúnculo— y el inicio de la diferenciación celular con las células competentes, especificadas y determinadas). Sigue desde la página impresa **330** en adelante, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Además del 15 siguen abiertos el capítulo **14** (`biologia-14-epigenetica.md`) y el capítulo **37** (`biologia-37-digestion.md`). Biología NO está cerrada.
+
+> **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
+> de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
+> que le sigue hasta el primer renglón en blanco. Si se convierte en encabezado
+> (`## Pendiente`), si desaparece, o si empieza con "ninguno", Biología se reporta como
+> cerrada teniendo capítulos en blanco.
+
+---
+
+### 1
+
+De acuerdo con el libro de Biología, ¿qué son la meromelia o la amelia?
+
+- A. Malformaciones congénitas en las cuales los huesos de los miembros son más cortos que lo habitual o están ausentes
+- B. Malformaciones congénitas en las cuales los huesos del cráneo no llegan a soldarse
+- C. Enfermedades en las que los músculos de los miembros pierden fuerza de forma progresiva
+- D. Alteraciones en las que los miembros pierden por completo la sensibilidad
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 325
+**Subtema:** desarrollo · apartado de apertura, la talidomida
+
+…comenzó a detectarse un incremento en los casos de meromelia o amelia –malformaciones congénitas en las cuales los huesos de los miembros son más cortos que lo habitual o están ausentes– muchas veces asociadas a otras malformaciones.
+
+---
+
+### 2
+
+De conformidad con el libro de Biología, ¿qué mostraron las investigaciones llevadas a cabo por científicos independientes de las empresas farmacéuticas sobre la talidomida?
+
+- A. Que la talidomida atraviesa la placenta y altera el desarrollo embrionario
+- B. Que la talidomida se acumula en el hígado de la madre y produce intoxicación
+- C. Que la talidomida altera la producción de gametos en la madre
+- D. Que la talidomida provoca mutaciones hereditarias en la línea germinal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 326
+**Subtema:** desarrollo · apartado de apertura, acción de la talidomida
+
+Las investigaciones llevadas a cabo por científicos independientes de las empresas farmacéuticas mostraron que la talidomida atraviesa la placenta y altera el desarrollo embrionario; esto cambió radicalmente la percepción y los criterios para el uso de medicamentos durante el embarazo.
+
+---
+
+### 3
+
+En relación con el libro de Biología, ¿quiénes iniciaron los estudios del desarrollo embrionario a partir de observaciones diarias de huevos de gallina?
+
+- A. Los pensadores griegos Hipócrates y Aristóteles
+- B. Los embriólogos alemanes Pander y Rathke
+- C. Los naturalistas italianos Malpighi y Spallanzani
+- D. Los filósofos griegos Platón y Sócrates
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 326
+**Subtema:** desarrollo · historia, los griegos
+
+…fueron los pensadores griegos Hipócrates y Aristóteles quienes iniciaron estudios a partir de observaciones diarias de huevos de gallina.
+
+---
+
+### 4
+
+De acuerdo con el libro de Biología, ¿quién fue el primero en estudiar el desarrollo de embriones de ave de manera secuencial?
+
+- A. Aristóteles
+- B. Hipócrates
+- C. Marcello Malpighi
+- D. Karl Ernst von Baer
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 327
+**Subtema:** desarrollo · historia, Aristóteles
+
+Aristóteles fue el primero en estudiar el desarrollo de embriones de ave de manera secuencial, a partir de lo cual elaboró dos hipótesis alternativas para explicar el desarrollo embrionario.
+
+---
+
+### 5
+
+De conformidad con el libro de Biología, ¿qué sugería la explicación preformacionista sobre el huevo de ave?
+
+- A. Que dentro del huevo de ave ya existía un ave en miniatura que solo tenía que crecer en tamaño
+- B. Que el ave se desarrollaba gradualmente a partir de estructuras simples
+- C. Que el huevo de ave contenía únicamente las tres capas germinales
+- D. Que el embrión de ave se formaba a partir del líquido seminal del macho
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 327
+**Subtema:** desarrollo · historia, preformacionismo
+
+…la primera explicación fue la preformacionista, que sugería que dentro del huevo de ave ya existía un ave en miniatura que solo tenía que crecer en tamaño.
+
+---
+
+### 6
+
+En relación con el libro de Biología, según la versión espermatista del preformacionismo, ¿qué papel se le asignaba a la mujer?
+
+- A. El de "el envase" o recipiente pasivo para el crecimiento del embrión
+- B. El de aportar la mitad del ave en miniatura ya formada
+- C. El de proporcionar las tres capas germinales del embrión
+- D. El de dirigir el desarrollo mediante una fuerza vitalista
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 327
+**Subtema:** desarrollo · historia, ovistas y espermatistas
+
+Esta concepción, que se conoce como espermatista, situaba a la mujer en el papel de recipiente pasivo para el crecimiento del embrión. Sea cual fuera la creencia del momento, la mujer, desde todos los tiempos, fue considerada "el envase".
+
+---
+
+### 7
+
+De acuerdo con el libro de Biología, ¿cuál era uno de los límites del preformacionismo?
+
+- A. Que no podía explicar la ocurrencia de malformaciones, partos múltiples, siameses e híbridos
+- B. Que no podía explicar la existencia de las tres capas germinales
+- C. Que no podía explicar la presencia de gametos en ambos sexos
+- D. Que no podía explicar el reduccionismo genético
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 327
+**Subtema:** desarrollo · historia, límites del preformacionismo
+
+Pero el preformacionismo tenía sus límites. Por ejemplo, no podía explicar la ocurrencia de malformaciones, partos múltiples, siameses, desarrollo de embriones de ave de manera secuencial, híbridos, etc.
+
+---
+
+### 8
+
+De conformidad con el libro de Biología, ¿a qué conclusión llegó el alemán Caspar Friedrich Wolff sobre la base de sus observaciones?
+
+- A. Que todos los cuerpos se desarrollan gradualmente a partir de estructuras "simples", y que esto se extiende a toda la naturaleza, tanto en plantas como en animales
+- B. Que dentro del huevo ya existía un organismo en miniatura preformado
+- C. Que el desarrollo estaba guiado por una fuerza mística o vitalista
+- D. Que el individuo se formaba únicamente a partir del gameto masculino
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 328
+**Subtema:** desarrollo · historia, Wolff y la epigénesis
+
+Sobre la base de sus observaciones, Wolff concluyó que todos los cuerpos se desarrollan gradualmente a partir de estructuras "simples" y que esto se extiende a toda la naturaleza, tanto en plantas como en animales.
+
+> El libro escribe su nombre como "Caspar Friederich Wolff"; en el enunciado se usa la grafía correcta (Friedrich). El dato que se evalúa es su conclusión, no la grafía.
+
+---
+
+### 9
+
+En relación con el libro de Biología, ¿qué demostraron en 1775 los experimentos del italiano Lazzaro Spallanzani?
+
+- A. Que, para la formación de un individuo, se requerían los gametos de ambos sexos
+- B. Que el individuo se formaba únicamente a partir del gameto femenino
+- C. Que el líquido seminal contenía individuos en miniatura ya formados
+- D. Que el desarrollo del individuo no requería la participación de gametos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 328
+**Subtema:** desarrollo · historia, Spallanzani
+
+En 1775, los experimentos del naturalista y sacerdote italiano Lázaro Spallanzani (1729-1799) demostraron que, para la formación de un individuo, se requerían los gametos de ambos sexos (hoy conocidos como espermatozoides y oocitos).
+
+---
+
+### 10
+
+De acuerdo con el libro de Biología, ¿cómo se conoció la concepción que postulaba la existencia de una fuerza mística, un plan o diseño que guiaba el desarrollo?
+
+- A. Vitalismo
+- B. Mecanicismo
+- C. Preformacionismo
+- D. Reduccionismo genético
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 328
+**Subtema:** desarrollo · el vitalismo
+
+Para explicarlo, se postulaba la existencia de una fuerza mística, un plan o diseño que guiaba el desarrollo, concepción que se conoció como vitalismo.
+
+---
+
+### 11
+
+De conformidad con el libro de Biología, ¿qué proponían los mecanicistas sobre el desarrollo?
+
+- A. Que el desarrollo era el resultado de una fuerza mecánica regida por leyes físicas y químicas
+- B. Que el desarrollo estaba guiado por una fuerza mística o un plan preestablecido
+- C. Que el desarrollo dependía exclusivamente de los genes del núcleo
+- D. Que el desarrollo ocurría a partir de un organismo preformado en miniatura
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 328
+**Subtema:** desarrollo · el mecanicismo
+
+En contraposición con el vitalismo, los mecanicistas proponían que el desarrollo era el resultado de una fuerza mecánica regida por leyes físicas y químicas.
+
+---
+
+### 12
+
+En relación con el libro de Biología, ¿cuáles son las tres capas germinales que identificaron y describieron Pander, Rathke y von Baer?
+
+- A. Ectodermo, endodermo y mesodermo
+- B. Epidermis, dermis e hipodermis
+- C. Notocorda, arcos faríngeos y tubo neural
+- D. Ectodermo, blastodermo y mesénquima
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 328
+**Subtema:** desarrollo · embriología moderna, las capas germinales
+
+Ellos identificaron y describieron las tres capas germinales (ectodermo, endodermo y mesodermo), la notocorda, los arcos faríngeos, entre otras estructuras.
+
+---
+
+### 13
+
+De acuerdo con el libro de Biología, en el capítulo 15 sobre las bases moleculares del desarrollo, ¿en qué año se acuñó el término *gen*?
+
+- A. En 1909
+- B. En 1900
+- C. En 1859
+- D. En 1953
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 328
+**Subtema:** desarrollo · historia de la genética, el término *gen*
+
+En el año 1900 se publicaron tres estudios independientes que reinterpretaban las leyes de Mendel; esto dio sustento al surgimiento de la genética (aunque el término gen recién fue acuñado en el año 1909 por Wilhelm Johansen).
+
+> El distractor "1900" es el año de la reinterpretación de las leyes de Mendel que aparece en el mismo párrafo; se presta a confusión a propósito. El libro escribe el apellido como "Johansen" (la grafía estándar es Johannsen), pero aquí se evalúa el año, no el nombre.
+
+---
+
+### 14
+
+De conformidad con el libro de Biología, ¿en qué consistió el reduccionismo genético que se instaló con fuerza tras los estudios sobre la estructura del ADN?
+
+- A. En asignarle a los genes un "papel superior" en desmedro de la consideración del ambiente
+- B. En asignarle al ambiente el papel principal por encima de los genes
+- C. En negar la existencia de los genes como unidades de la herencia
+- D. En reducir el desarrollo a la acción de las tres capas germinales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 328
+**Subtema:** desarrollo · el reduccionismo genético
+
+…condujeron a instalar con fuerza el reduccionismo genético que le asignó a los genes un "papel superior" en desmedro de la consideración del ambiente.
+
+---
+
+### 15
+
+En relación con el libro de Biología, ¿qué pregunta central para la embriología deja abierta el paradigma que otorga un papel central a los genes?
+
+- A. Cómo es posible que, si casi todas las células tienen el mismo genoma, unas se diferencien en neuronas, otras en células musculares y otras en células de la piel
+- B. Cómo se transmite el genoma completo de una generación a la siguiente
+- C. Por qué las células pierden parte de su genoma durante la diferenciación
+- D. Cómo se originó la primera célula a partir de moléculas inorgánicas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 328
+**Subtema:** desarrollo · la pregunta de la diferenciación
+
+¿Cómo es posible que, si casi todas las células tienen el mismo genoma, unas se diferencien en neuronas, otras en células musculares y otras en células de la piel?
+
+---
+
+### 16
+
+De acuerdo con el libro de Biología, según la representación de los homúnculos de la figura 15-2, ¿qué se encontraba en la cabeza de los espermatozoides?
+
+- A. Un ser humano en miniatura perfectamente formado
+- B. Una célula huevo todavía sin fecundar
+- C. Un conjunto de tres capas germinales
+- D. Una notocorda en formación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 328
+**Subtema:** desarrollo · fig. 15-2, el homúnculo
+
+De acuerdo con su descripción, en la cabeza de los espermatozoides se encontraba un ser humano en miniatura perfectamente formado, a lo que denominó "homúnculo". Esta interpretación fue considerada como una confirmación experimental de la teoría de la preformación, particularmente en su versión espermatista.
+
+---
+
+### 17
+
+De conformidad con el libro de Biología, según el "plan generativo del desarrollo" que expone Scott Gilbert, ¿qué contiene el genoma?
+
+- A. Una "serie de instrucciones" en las que los componentes del citoplasma y las células del medio son fundamentales, al igual que los genes
+- B. Una "descripción del organismo" completa y suficiente por sí misma
+- C. Un organismo preformado en miniatura listo para crecer en tamaño
+- D. Únicamente las tres capas germinales del futuro embrión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · el plan generativo (Scott Gilbert)
+
+…en ella se asume que el genoma, en lugar de contener "una descripción del organismo", contiene una "serie de instrucciones" en las que los componentes del citoplasma y las células del medio son fundamentales, al igual que los genes.
+
+---
+
+### 18
+
+En relación con el libro de Biología, ¿cómo se denomina el desarrollo de las distintas células especializadas?
+
+- A. Diferenciación
+- B. Determinación
+- C. Especificación
+- D. Competencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · la diferenciación celular
+
+El desarrollo de las distintas células especializadas se denomina diferenciación.
+
+---
+
+### 19
+
+De acuerdo con el libro de Biología, ¿qué caracteriza a una célula competente?
+
+- A. Que es capaz de recibir y, de alguna manera, "traducir" las señales del ambiente
+- B. Que ya ha alcanzado su morfología definitiva y no responde a ninguna señal
+- C. Que ha perdido parte de su genoma durante la diferenciación
+- D. Que expresa todos los genes de su genoma al mismo tiempo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · la célula competente
+
+Las células, durante el desarrollo, reciben señales del ambiente que las modifican siempre y cuando sean competentes, es decir: sean capaces de recibir y, de alguna manera, "traducir" esas señales.
+
+---
+
+### 20
+
+De conformidad con el libro de Biología, ¿cuándo se dice que una célula está determinada?
+
+- A. Cuando recibe una señal y comienza a expresar todos los factores característicos de un cierto tipo celular que le permitirán su posterior diferenciación
+- B. Cuando responde a una señal de manera todavía reversible, mientras no aparezca una señal nueva que la inhiba
+- C. Cuando ha alcanzado por completo su morfología característica y ya no puede cambiar
+- D. Cuando pierde la capacidad de recibir y traducir las señales del ambiente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 329
+**Subtema:** desarrollo · la célula determinada
+
+Cuando la célula recibe una señal y comienza a expresar todos los factores característicos de un cierto tipo celular que le permitirán su posterior diferenciación, se dice que está determinada. En esta etapa, aunque la célula todavía no está diferenciada fenotípicamente, entra en un camino irreversible de diferenciación, en forma independiente del ambiente.
+
+> El distractor B es la definición de célula "especificada", que aparece en el mismo párrafo; se contrasta a propósito con la de célula "determinada".
