@@ -53,38 +53,37 @@ problemática inicial"—.
 
 ## Cobertura actual
 
-**EN CURSO.** Cubiertas las pp. 778–797: sensación y percepción y la organización
-jerárquica del sistema nervioso; adaptación sensorial, transducción y codificación;
-los cinco tipos de receptores y las vías nerviosas; el sistema visual completo
-(anatomía del ojo, cuadro 33-1 de modalidades sensoriales, visión estereoscópica,
-retina —conos y bastones—, nervio óptico, punto ciego, fóvea y espectro visible); la
-audición (oído externo, medio e interno, la cóclea y el equilibrio); el gusto, el
-olfato y el sistema somatosensorial; el procesamiento de la información (Broca,
-localizacionistas/globalistas, plasticidad) y los sabores; el recuadro 33-1 de
-comunicación química (feromonas y órgano vomeronasal); el encéfalo de los vertebrados
-(sustancia blanca y gris, tronco cerebral, cerebelo, diencéfalo —tálamo, hipotálamo,
-glándula pineal—, telencéfalo, cuerpo calloso y la corteza cerebral hasta sus
-lóbulos); el recuadro 33-2 (la neurociencia y sus métodos: EEG, TC, RM, TEP y RMf);
-las áreas funcionales de la corteza (motora, somatosensorial, auditiva, visual), los
-homúnculos y las cortezas de asociación; la lateralización de los hemisferios (con la
-formación reticular); la memoria y el procesamiento de la información (memoria de
-corto y largo plazo, el hipocampo, los tipos de memoria, la amígdala); el aprendizaje
-(plasticidad neuronal, *Aplysia* y Kandel, habituación y sensibilización,
-condicionamiento clásico de Pavlov, aprendizaje social e imitativo y las neuronas
-espejo); la regeneración del sistema nervioso; y la respuesta motora (los sistemas
-sensoriales, el músculo esquelético como efector somático, el cardíaco y el liso como
-efectores autónomos, y las tres clases de movimientos —reflejos, patrones rítmicos y
-voluntarios—). Las páginas de ENSAYO (recuadros 33-x y "Biología en contexto social",
-pp. 796 y 798) quedan fuera por no ser recuerdo literal.
+**CERRADO — 186 reactivos.** Cubiertas las pp. 778–805: sensación y percepción y la
+organización jerárquica del sistema nervioso; adaptación sensorial, transducción y
+codificación; los cinco tipos de receptores y las vías nerviosas; el sistema visual
+completo (anatomía del ojo, cuadro 33-1 de modalidades sensoriales, visión
+estereoscópica, retina —conos y bastones—, nervio óptico, punto ciego, fóvea y
+espectro visible); la audición (oído externo, medio e interno, la cóclea y el
+equilibrio); el gusto, el olfato y el sistema somatosensorial; el procesamiento de la
+información (Broca, localizacionistas/globalistas, plasticidad) y los sabores; el
+recuadro 33-1 de comunicación química (feromonas y órgano vomeronasal); el encéfalo
+de los vertebrados (sustancia blanca y gris, tronco cerebral, cerebelo, diencéfalo
+—tálamo, hipotálamo, glándula pineal—, telencéfalo, cuerpo calloso y la corteza
+cerebral hasta sus lóbulos); el recuadro 33-2 (la neurociencia y sus métodos: EEG, TC,
+RM, TEP y RMf); las áreas funcionales de la corteza (motora, somatosensorial, auditiva,
+visual), los homúnculos y las cortezas de asociación; la lateralización de los
+hemisferios (con la formación reticular); la memoria y el procesamiento de la
+información (memoria de corto y largo plazo, el hipocampo, los tipos de memoria, la
+amígdala); el aprendizaje (plasticidad neuronal, *Aplysia* y Kandel, habituación y
+sensibilización, condicionamiento clásico de Pavlov, aprendizaje social e imitativo y
+las neuronas espejo); la regeneración del sistema nervioso; y la respuesta motora,
+hasta la contracción muscular (la estructura del músculo esquelético, el sarcómero, la
+actina y la miosina, el modelo de filamento deslizante, los puentes cruzados, el ATP y
+el calcio, la unidad motora, la unión neuromuscular y la jerarquía del control motor).
+Las páginas de ENSAYO (recuadros 33-x y "Biología en contexto social", con capa de
+texto lorem ipsum) y el cierre de las pp. 806–810 (ensayo "Retomando la problemática
+inicial" y las "Situaciones problemáticas") quedan fuera por no ser recuerdo literal.
 
-**Pendiente:** el capítulo 33 está **EN CURSO**. Sigue desde la página impresa
-**801** en adelante: la estructura del músculo esquelético y el mecanismo de la
-contracción muscular (el sarcómero, la actina y la miosina, las líneas Z y los puentes
-cruzados, pp. 802–810), hasta antes del ensayo de cierre "Retomando la problemática
-inicial" y los ejercicios. El capítulo 33 termina en la p. 810; el capítulo 34 (El
-sistema endocrino) empieza en la p. 811. Este capítulo lo pide **sólo la EMO**;
-mientras no se cierre, este archivo sostiene su propio pendiente. **Recordatorio de
-coordinación:** los capítulos 14, 15 y 37 son de otras sesiones.
+**Pendiente:** el capítulo 33 quedó **CERRADO** en 186 reactivos (cuerpo del texto,
+pp. 778–805). El capítulo 34 (El sistema endocrino) empieza en la p. 811. Lo pide
+**sólo la EMO**. **Biología como materia NO está cerrada:** faltan los capítulos **14,
+15 y 37**, que llevan otras sesiones y sostienen su propio pendiente.
+**Recordatorio de coordinación:** los capítulos 14, 15 y 37 no se tocan desde aquí.
 
 ## Cómo se escriben estos reactivos
 
@@ -2587,25 +2586,376 @@ De acuerdo con el libro de Biología, ¿qué caracteriza a los movimientos volun
 
 Movimientos voluntarios, que representan el mayor grado de complejidad. Estos movimientos tienen un propósito, están dirigidos hacia un objetivo y pueden ser aprendidos.
 
+## Sub-lote 25 · La estructura del músculo esquelético (p. 802)
+
+### 164
+
+De acuerdo con el libro de Biología, ¿en qué consiste la contracción muscular?
+
+- A. En el acortamiento de las fibras musculares y el subsiguiente desarrollo de trabajo mecánico sobre el sistema artroesquelético
+- B. En el alargamiento de las fibras musculares y la relajación del esqueleto
+- C. En la liberación de feromonas por las glándulas sudoríparas
+- D. En la transducción del sonido en el oído interno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 802
+**Subtema:** Percepción sensorial · la contracción muscular
+
+La contracción muscular consiste en el acortamiento de las fibras musculares y el subsiguiente desarrollo de trabajo mecánico sobre el sistema artroesquelético, lo que permite el movimiento.
+
+### 165
+
+En relación con el libro de Biología, ¿en qué consiste un músculo esquelético?
+
+- A. En cientos de miles de células, o fibras musculares, unidas por tejido conectivo
+- B. En una sola célula gigante sin núcleos
+- C. En un conjunto de neuronas sensoriales y motoras
+- D. En haces de fibras de colágeno sin células
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 802
+**Subtema:** Percepción sensorial · la contracción muscular
+
+Un músculo esquelético consiste en cientos de miles de células, o fibras musculares, unidas por tejido conectivo.
+
+### 166
+
+Según el libro de Biología, ¿cómo es cada fibra muscular y qué membrana la rodea?
+
+- A. Es una sola célula multinucleada rodeada por una membrana celular externa, el sarcolema
+- B. Es una célula sin núcleo rodeada por el retículo sarcoplasmático
+- C. Es un conjunto de axones rodeado por una vaina de mielina
+- D. Es una molécula de miosina rodeada de actina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 802
+**Subtema:** Percepción sensorial · la contracción muscular
+
+Cada fibra es una sola célula multinucleada y está rodeada por una membrana celular externa, el sarcolema.
+
+### 167
+
+De acuerdo con el libro de Biología, ¿cómo se denominan las invaginaciones que posee el sarcolema, a modo de dedos de guante?
+
+- A. Tubos T
+- B. Líneas Z
+- C. Miofibrillas
+- D. Puentes cruzados
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 802
+**Subtema:** Percepción sensorial · la contracción muscular
+
+El sarcolema posee invaginaciones, a modo de dedos de guante, denominadas tubos T.
+
+### 168
+
+En relación con el libro de Biología, ¿cuáles son las pequeñas unidades estructurales y funcionales de la fibra muscular?
+
+- A. Las miofibrillas
+- B. Los sarcómeros
+- C. Los tubos T
+- D. Las neuronas motoras
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 802
+**Subtema:** Percepción sensorial · la contracción muscular
+
+Dentro del citoplasma de cada fibra muscular hay unas 1000 a 2000 miofibrillas, las pequeñas unidades estructurales y funcionales de la fibra muscular.
+
+### 169
+
+Según el libro de Biología, ¿qué contienen los sacos del retículo sarcoplasmático, con un papel esencial en la contracción muscular?
+
+- A. Grandes concentraciones de iones calcio (Ca²⁺)
+- B. Grandes concentraciones de acetilcolina
+- C. Moléculas de melatonina
+- D. Filamentos de actina y miosina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 802
+**Subtema:** Percepción sensorial · la contracción muscular
+
+Los sacos del retículo sarcoplasmático contienen grandes concentraciones de iones calcio (Ca²⁺), que cumplen un papel esencial en la contracción muscular.
+
+### 170
+
+De acuerdo con el libro de Biología, ¿en qué unidades están organizadas las miofibrillas?
+
+- A. En unidades llamadas sarcómeros, que se repiten uno tras otro, en serie
+- B. En unidades llamadas tubos T, dispuestas al azar
+- C. En unidades llamadas sarcolemas, unas dentro de otras
+- D. En unidades llamadas neuronas motoras
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 802
+**Subtema:** Percepción sensorial · la contracción muscular
+
+Las miofibrillas están organizadas en unidades llamadas sarcómeros, que se repiten uno tras otro, en serie.
+
+### 171
+
+En relación con el libro de Biología, según la figura 33-16, ¿qué es la línea Z?
+
+- A. La zona en la que están anclados los filamentos delgados de los sarcómeros contiguos
+- B. La región que solo contiene filamentos gruesos
+- C. La parte de la banda A en la que no hay filamentos delgados
+- D. La membrana externa que rodea a cada fibra muscular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 802
+**Subtema:** Percepción sensorial · la contracción muscular
+
+La línea Z es la zona en la que están anclados los filamentos delgados de los sarcómeros contiguos.
+
+## Sub-lote 26 · La maquinaria contráctil: el sarcómero (p. 803)
+
+### 172
+
+De acuerdo con el libro de Biología, ¿qué es el sarcómero?
+
+- A. La unidad funcional del músculo esquelético y la base del mecanismo de la contracción
+- B. La membrana externa que rodea a cada fibra muscular
+- C. El axón de una neurona motora y las fibras que inerva
+- D. El reservorio de iones calcio de la fibra muscular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 803
+**Subtema:** Percepción sensorial · la contracción muscular
+
+El sarcómero es la unidad funcional del músculo esquelético y la base del mecanismo de la contracción.
+
+### 173
+
+En relación con el libro de Biología, ¿de qué proteínas están compuestos los dos tipos de filamentos del sarcómero?
+
+- A. Los más gruesos, de miosina; los más delgados, de actina
+- B. Los más gruesos, de actina; los más delgados, de miosina
+- C. Ambos tipos, de acetilcolina
+- D. Ambos tipos, de colágeno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 803
+**Subtema:** Percepción sensorial · la contracción muscular
+
+Cada sarcómero está compuesto por dos tipos de filamentos que corren paralelos entre sí: los más gruesos están compuestos por la proteína miosina; los filamentos más delgados son, básicamente, actina.
+
+### 174
+
+Según el libro de Biología, ¿qué ocurre cuando se estimula el músculo?
+
+- A. Los filamentos delgados de actina del sarcómero se deslizan sobre los filamentos gruesos de miosina
+- B. Los filamentos de actina y miosina se separan y se alejan entre sí
+- C. El sarcolema pierde su capacidad de propagar un potencial de acción
+- D. El retículo sarcoplasmático deja de contener iones calcio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 803
+**Subtema:** Percepción sensorial · la contracción muscular
+
+Cuando se estimula el músculo, los filamentos delgados de actina del sarcómero se deslizan sobre los filamentos gruesos de miosina.
+
+### 175
+
+De acuerdo con el libro de Biología, ¿qué se forma entre los filamentos gruesos y delgados, según el modelo de filamento deslizante?
+
+- A. Puentes cruzados que se rompen y se vuelven a formar rápidamente cuando un filamento se desliza a lo largo del otro
+- B. Uniones permanentes que impiden todo movimiento entre los filamentos
+- C. Vesículas sinápticas que liberan acetilcolina
+- D. Invaginaciones del sarcolema llamadas tubos T
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 803
+**Subtema:** Percepción sensorial · la contracción muscular
+
+Como explica el modelo de filamento deslizante, entre los filamentos gruesos y delgados se forman puentes cruzados que se rompen y se vuelven a formar rápidamente cuando un filamento se desliza a lo largo del otro.
+
+### 176
+
+En relación con el libro de Biología, ¿de qué consiste, principalmente, cada filamento delgado?
+
+- A. De dos filamentos de actina enrollados entre sí en una cadena helicoidal, compuestos por moléculas globulares de actina
+- B. De haces de proteína miosina
+- C. De iones calcio unidos al retículo sarcoplasmático
+- D. De vesículas cargadas de acetilcolina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 803
+**Subtema:** Percepción sensorial · la contracción muscular
+
+Cada filamento delgado consiste, principalmente, en dos filamentos de actina enrollados entre sí en una cadena helicoidal. Cada cadena está compuesta por moléculas globulares de actina.
+
+### 177
+
+Según el libro de Biología, ¿cómo está compuesta cada molécula individual de miosina?
+
+- A. Por dos cadenas proteicas enrolladas en una hélice, con el extremo de cada cadena plegado en una estructura globular: la "cabeza"
+- B. Por dos filamentos de actina enrollados en una cadena helicoidal
+- C. Por un solo ion calcio rodeado de agua
+- D. Por invaginaciones del sarcolema
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 803
+**Subtema:** Percepción sensorial · la contracción muscular
+
+Cada molécula individual de miosina está compuesta por dos cadenas proteicas enrolladas en una hélice; el extremo de cada cadena se encuentra plegado en una estructura globular: la "cabeza".
+
+## Sub-lote 27 · El mecanismo molecular: el ATP y el calcio (pp. 803–804)
+
+### 178
+
+De acuerdo con el libro de Biología, ¿qué hacen las cabezas globulares de miosina con actividad ATPasa?
+
+- A. Actúan como palancas que se unen a los sitios activos de las moléculas de actina de los filamentos delgados y forman puentes cruzados
+- B. Producen y liberan el neurotransmisor acetilcolina
+- C. Almacenan los iones calcio del retículo sarcoplasmático
+- D. Anclan los filamentos delgados en la línea Z
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 803
+**Subtema:** Percepción sensorial · la contracción muscular
+
+Las cabezas globulares de miosina con actividad ATPasa, que sobresalen de los filamentos gruesos, actúan como palancas que se unen a los sitios activos de las moléculas de actina de los filamentos delgados y forman puentes cruzados.
+
+### 179
+
+En relación con el libro de Biología, ¿qué molécula suministra la energía necesaria para la contracción?
+
+- A. La molécula de ATP
+- B. La molécula de actina
+- C. La molécula de acetilcolina
+- D. La molécula de melatonina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 803
+**Subtema:** Percepción sensorial · la contracción muscular
+
+La energía necesaria para la contracción es suministrada por la molécula de ATP.
+
+### 180
+
+Según el libro de Biología, ¿qué permite la presencia de calcio en la contracción muscular?
+
+- A. Que las cabezas de las moléculas de miosina se aproximen al filamento delgado de actina, al cual se unen y forman los "puentes cruzados"
+- B. Que los filamentos de actina y miosina se separen definitivamente
+- C. Que el sarcolema deje de propagar potenciales de acción
+- D. Que se libere acetilcolina en la hendidura sináptica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 804
+**Subtema:** Percepción sensorial · la contracción muscular
+
+La presencia de calcio permite que las cabezas de las moléculas de miosina se aproximen al filamento delgado de actina, al cual se unen y forman los "puentes cruzados".
+
+### 181
+
+De acuerdo con el libro de Biología, ¿cuáles son las dos funciones cruciales de las cabezas de miosina?
+
+- A. Son los sitios de unión en los cuales se ejerce la fuerza sobre los filamentos delgados y actúan como enzimas que escinden el ATP en ADP + Pi
+- B. Producen acetilcolina y la liberan a la hendidura sináptica
+- C. Almacenan calcio y lo liberan al citoplasma
+- D. Forman la membrana externa de la fibra muscular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 804
+**Subtema:** Percepción sensorial · la contracción muscular
+
+Las cabezas tienen dos funciones cruciales: son los sitios de unión en los cuales se ejerce la fuerza sobre los filamentos delgados durante la contracción y actúan como enzimas que escinden el ATP en ADP + Pi (fósforo inorgánico), con lo que suministran la energía requerida para la contracción muscular.
+
+## Sub-lote 28 · La unidad motora, la unión neuromuscular y el control motor (pp. 804–805)
+
+### 182
+
+En relación con el libro de Biología, ¿qué se conoce como unidad motora?
+
+- A. El conjunto del axón de una sola neurona motora y todas las fibras musculares que inerva
+- B. El conjunto de miofibrillas de una sola fibra muscular
+- C. El conjunto de sarcómeros de una miofibrilla
+- D. El conjunto de tubos T del sarcolema
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 804
+**Subtema:** Percepción sensorial · la unidad motora
+
+El conjunto del axón de una sola neurona motora y todas las fibras musculares que inerva se conoce como unidad motora.
+
+### 183
+
+De acuerdo con el libro de Biología, ¿qué determina el número de fibras musculares de una unidad motora?
+
+- A. Cuán preciso es su control; cuantas menos fibras inerve una neurona, mayor será la precisión
+- B. La cantidad de calcio que almacena el retículo sarcoplasmático
+- C. La velocidad a la que se libera la acetilcolina
+- D. El número de tubos T del sarcolema
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 804
+**Subtema:** Percepción sensorial · la unidad motora
+
+El número de fibras musculares de una unidad motora determina cuán preciso es su control; cuantas menos fibras inerve una neurona, mayor será la precisión.
+
+### 184
+
+Según el libro de Biología, ¿qué neurotransmisor se libera en la unión neuromuscular?
+
+- A. La acetilcolina
+- B. La dopamina
+- C. La melatonina
+- D. La adrenalina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 804
+**Subtema:** Percepción sensorial · la unidad motora
+
+Durante la sinapsis química que comunica el axón con la fibra muscular –unión neuromuscular– se libera el neurotransmisor acetilcolina.
+
+### 185
+
+En relación con el libro de Biología, ¿de qué depende la fuerza de la contracción del músculo como un todo?
+
+- A. Del número de unidades motoras que se hayan activado y de la frecuencia con la que sean estimuladas a través de los axones motores
+- B. Únicamente del tamaño de un solo sarcómero
+- C. De la cantidad de tubos T de una sola fibra
+- D. De la longitud de la vaina de mielina del axón
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 805
+**Subtema:** Percepción sensorial · la unidad motora
+
+La fuerza de la contracción del músculo como un todo depende del número de unidades motoras que se hayan activado y de la frecuencia con la que sean estimuladas a través de los axones motores.
+
+### 186
+
+De acuerdo con el libro de Biología, en la jerarquía de estructuras que controlan la función motora, ¿cuál es la más básica y fundamental?
+
+- A. La médula espinal, que es el punto final de decisión para los movimientos voluntarios y las acciones reflejas
+- B. La corteza cerebral, el nivel más alto de la jerarquía
+- C. El tronco encefálico, el nivel intermedio
+- D. El cerebelo, junto con los núcleos de la base
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 805
+**Subtema:** Percepción sensorial · el control motor
+
+En la jerarquía de estructuras que controlan la función motora, la médula espinal es la más básica y fundamental; es el punto final de decisión para los movimientos voluntarios, así como para las acciones reflejas.
+
 ---
 
-**Pendiente:** el capítulo 33 está **EN CURSO** (ver la sección "Cobertura actual").
-Las tandas cubren pp. 778–800: introducción, receptores, sistema visual, audición y
-equilibrio, sentidos químicos y somatosensorial, el procesamiento de la información,
-los sabores y el epitelio olfatorio, el recuadro 33-1 (comunicación química), el
-encéfalo de los vertebrados, el recuadro 33-2 (la neurociencia y sus métodos), las
-áreas funcionales de la corteza, los homúnculos, las cortezas de asociación, la
-lateralización de los hemisferios, la memoria y el procesamiento de la información, el
-aprendizaje (plasticidad neuronal, Aplysia, habituación y sensibilización,
-condicionamiento clásico, aprendizaje social e imitativo, neuronas espejo), la
-regeneración del sistema nervioso y la respuesta motora (los sistemas sensoriales, los
-efectores muscular esquelético/cardíaco/liso y las tres clases de movimientos). Falta
-desde la p. 801: la estructura del músculo esquelético y el mecanismo de la contracción
-muscular (el sarcómero, la actina y la miosina, las líneas Z y los puentes cruzados,
-pp. 802–810), hasta antes del ensayo de cierre "Retomando la problemática inicial" y
-los ejercicios. Las páginas de ENSAYO (recuadros 33-x y "Biología en contexto social")
-quedan fuera por no ser recuerdo literal. **El capítulo 33 termina en la p. 810; el
-capítulo 34 (El sistema endocrino) empieza en la p. 811** (hoja 857, verificado de la
-hoja). Lo pide **sólo la EMO**. Los capítulos 14, 15 y 37 son de otras sesiones.
+**Pendiente:** el capítulo 33 quedó **CERRADO** en 186 reactivos, con el cuerpo del
+texto cubierto de la p. 778 a la p. 805: sensación y percepción; los receptores y las
+vías nerviosas; el sistema visual; la audición y el equilibrio; el gusto, el olfato y
+el sistema somatosensorial; el procesamiento de la información; el recuadro 33-1
+(comunicación química); el encéfalo de los vertebrados; el recuadro 33-2 (la
+neurociencia y sus métodos); las áreas funcionales de la corteza y la lateralización;
+la memoria y el aprendizaje; la regeneración del sistema nervioso; y la respuesta
+motora hasta la contracción muscular (el sarcómero, la actina y la miosina, el modelo
+de filamento deslizante, los puentes cruzados, el ATP y el calcio, la unidad motora,
+la unión neuromuscular y la jerarquía del control motor). Quedan **fuera** por norma:
+las páginas de ENSAYO (recuadros 33-x y "Biología en contexto social", con capa de
+texto lorem ipsum) y, de la p. 806 a la p. 810, el ensayo de cierre "Retomando la
+problemática inicial" y las "Situaciones problemáticas" (ejercicios). El capítulo 34
+(El sistema endocrino) empieza en la p. 811. Lo pide **sólo la EMO**. **Biología como
+materia NO está cerrada:** faltan los capítulos **14, 15 y 37**, que llevan otras
+sesiones y sostienen su propio pendiente.
 
-**Reactivos en este archivo:** 163
+**Reactivos en este archivo:** 186
