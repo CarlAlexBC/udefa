@@ -1,4 +1,6 @@
 import { Module } from '@nestjs/common';
+import { APP_GUARD } from '@nestjs/core';
+import { ThrottlerModule, ThrottlerGuard } from '@nestjs/throttler';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { UsuariosModule } from './usuarios/usuarios.module';
@@ -16,8 +18,20 @@ import { AdminModule } from './admin/admin.module';
 import { CulturalModule } from './cultural/cultural.module';
 
 @Module({
-  imports: [UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule, IntentosModule, RepasosModule, SesionesCompletasModule, TemasPrioridadModule, AdminModule, CulturalModule],
+  imports: [
+    // Freno general contra abuso: 200 peticiones por minuto desde una misma
+    // dirección IP. Es holgado a propósito — un aspirante contestando su examen
+    // no se acerca a ese número. El login lleva su propio freno, mucho más
+    // estricto, declarado en su controlador con @Throttle. (ttl va en ms.)
+    ThrottlerModule.forRoot([{ ttl: 60000, limit: 200 }]),
+    UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule, IntentosModule, RepasosModule, SesionesCompletasModule, TemasPrioridadModule, AdminModule, CulturalModule],
   controllers: [AppController],
-  providers: [AppService, PrismaService],
+  providers: [
+    AppService,
+    PrismaService,
+    // Registra el freno como guardia GLOBAL: vigila todas las rutas sin tener
+    // que anotarlas una por una.
+    { provide: APP_GUARD, useClass: ThrottlerGuard },
+  ],
 })
 export class AppModule {}
