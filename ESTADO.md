@@ -18,7 +18,7 @@ _Regenerado el 2026-07-26._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 5181 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
+| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 5198 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -82,8 +82,9 @@ _Regenerado el 2026-07-26._
 | fisica-perez-montiel · Física · Unidad 5 · Dinámica | 252 | ninguno. Con el **tema 6, Fricción (pp. 177–179)** —añadido el 25 jul 2026 en el sub-lote 27, 20 reactivos— la Unidad 5 queda **CERRADA para los cinco planteles** que la piden: la EMO (`FIS-03`), la EMM y la EMOS (`FG-03`) y la **EMA y la EMMA** (`FIS-02`), que eran las únicas que pedían el tema 6. |
 | fisica-perez-montiel · Física · Unidad 6 · Materia y sus Propiedades | 49 | ninguno. La Unidad 6 queda cerrada para la EMO (temas 1, 2), la EMM y la EMMA (temas 1, 2, 3). |
 | fisica-perez-montiel · Física · Unidad 8 · Hidrostática | 45 | ninguno de contenido. La Unidad 8 queda cerrada para la EMO (temas 1, 2, 3), la EMOS (1, 3), la EMA (2, 3, 4, 5) y la EMMA (1, 2, 3, 4). Queda una decisión de Carlo sobre las "Generalidades" (ver el aviso del encabezado). |
+| fisica-perez-montiel · Física · Unidad 9 · Hidrodinámica | 17 | ninguno. Con los temas 3 y 4, la Unidad 9 queda **CERRADA para la EMA**, el único plantel que la pide. Con esta unidad, **la materia Física queda CERRADA para la EMA** salvo el re-keying de la Unidad 3 (Vectores), que está escrita pero sin la clave `**Tema:**` (pendiente aparte, ver `fisica-03-vectores.md`). |
 | fisica-perez-montiel · Física · Unidad 11 · Termología | 74 | ninguno. Con el **tema 4 · Dilatación de los cuerpos** —añadido el 25 jul 2026 en el sub-lote 10, 18 reactivos— la Unidad 11 queda **CERRADA para los tres planteles** que la piden: la EMO (temas 1, 2, 3, 5, 6, 7, 12), la EMM (1, 2, 3, 5, 7, 12) y la **EMA** (1, 3, 4, 5, 12). El tema 4 era el único hueco vivo de la unidad; ya no queda ninguno. |
-| **Total** | **5181** | |
+| **Total** | **5198** | |
 
 ## Personalidad (remaster)
 
