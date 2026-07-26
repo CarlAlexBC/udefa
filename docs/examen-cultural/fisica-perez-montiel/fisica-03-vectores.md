@@ -1,15 +1,42 @@
 # Física · Unidad 3 · Vectores
 
-**Materia:** `FG-03-2026` · Física General
-**Unidad del libro:** Unidad 3. Vectores → **COMPLETA**
+**Materia:** dos planteles piden esta unidad del mismo libro, con dos claves de
+temario: `FIS-02-2026` (**EMA**) y `FG-03-2026` (**EMM**).
+**Unidad del libro:** Unidad 3. Vectores → **COMPLETA** (temas 1 a 16, pp. 42–60).
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
-> **libro**, no a una escuela. Quién lo pide es cosa del temario: hoy la Unidad 3
-> la piden los temarios de la **EMO** y la **EMOS**, y si mañana otra carrera o
-> plantel pide el mismo libro y la misma unidad, reutiliza estos mismos reactivos
-> sin duplicarlos. La línea `**Referencia:**` (libro, edición, página) y
-> `**Subtema:**` de cada reactivo son la llave con la que el temario los manda a
-> llamar.
+> **libro**, no a una escuela. Quién lo pide es cosa del temario, y **los dos
+> planteles piden cosas distintas**:
+>
+> | Tema de la Unidad 3 | EMA<br>`FIS-02` | EMM<br>`FG-03` |
+> |---|:---:|:---:|
+> | 1 · Características de un vector | sí | sí |
+> | 2 · Cómo establecer la escala de un vector | — | sí |
+> | 3 · Coplanares, no coplanares, deslizantes y libres | sí | sí |
+> | 4 · Sistemas de vectores colineales | sí | sí |
+> | 5 · Concurrentes o angulares | sí | sí |
+> | 6 · Resultante y equilibrante | sí | sí |
+> | 7 · Propiedades de los vectores | sí | sí |
+> | 8 · Suma de vectores | sí | sí |
+> | 9 · Composición y descomposición rectangular | sí | sí |
+> | 10 · Vectores unitarios | — | sí |
+> | 11 · Método del paralelogramo | — | sí |
+> | 12 · Método del polígono | — | sí |
+> | 13 · Método del triángulo | — | sí |
+> | 14 · Producto de un vector por un escalar | — | sí |
+> | 15 · Producto escalar (punto) | — | sí |
+> | 16 · Producto vectorial (cruz) | — | sí |
+>
+> La **EMM** la pide **completa** (los 16 temas); la **EMA** sólo los temas 1, 3,
+> 4, 5, 6, 7, 8 y 9 (excluye el 2 y del 10 al 16). Por eso **la línea `**Tema:**`
+> de cada reactivo es obligatoria** (`U3 t1`, `U3 t3`…): es lo único que permite
+> darle a la EMA su selección sin entregarle la escala ni los productos.
+> `**Referencia:**` (libro, edición, página) y `**Subtema:**` completan la llave.
+>
+> **Trampa corregida el 26 jul 2026:** el encabezado viejo atribuía esta unidad a
+> la EMO y la EMOS. Es falso: la clave `FG-03-2026` aparece en varios PDFs con
+> listas distintas, y quien pide la Unidad 3 son la **EMA** y la **EMM**. Verificado
+> abriendo los dos temarios (ver [[project-examen-cultural-planteles-faltantes]]).
 
 ## Libro
 
@@ -38,24 +65,29 @@ cada referencia se **lee** de la esquina de la hoja, nunca se calcula.
 
 La Unidad 3 (Vectores) queda **COMPLETA** en este archivo: temas 1 a 16
 (pp. 42–60), sólo teoría, saltando todos los ejercicios y problemas resueltos.
+**Los 48 reactivos ya llevan su clave `**Tema:**`** (`U3 t1` … `U3 t16`), añadida
+el 26 jul 2026 verificando contra el libro dónde arranca cada tema numerado; antes
+sólo tenían `**Referencia:**` y `**Subtema:**`, lo que impedía servirle a la EMA su
+selección. El mapeo reactivo→tema:
 
-- **Sub-lote 1 · Características y escala de un vector (p. 42)** — temas 1 y 2.
-- **Sub-lote 2 · Clasificación de vectores: coplanares, colineales,
-  concurrentes (p. 43)** — temas 3, 4 y 5.
+- **Sub-lote 1 · Características y escala (p. 42)** — r1–7 = t1 (características),
+  r8 = t2 (escala; **la EMA no lo pide**).
+- **Sub-lote 2 · Clasificación (p. 43)** — r9–11 = t3, r12 = t4, r13–14 = t5.
 - **Sub-lote 3 · Resultante, equilibrante, propiedades y suma (p. 44–45)** —
-  temas 6, 7 (a–f) y 8.
+  r15–17 = t6, r18–24 = t7, r25 = t8.
 - **Sub-lote 4 · Composición, descomposición y vectores unitarios (p. 47, 51)**
-  — temas 9 y 10.
-- **Sub-lote 5 · Suma de vectores concurrentes: paralelogramo, polígono y
-  triángulo (p. 52, 56, 58)** — temas 11, 12 y 13.
-- **Sub-lote 6 · Producto por escalar, producto escalar y producto vectorial
-  (p. 59, 60)** — temas 14, 15 y 16.
+  — r26–29 = t9 (**último tema que pide la EMA**), r30–32 = t10 (vectores
+  unitarios; **la EMA no lo pide**).
+- **Sub-lote 5 · Suma de vectores concurrentes (p. 52, 56, 58)** — r33–35 = t11,
+  r36–38 = t12, r39–40 = t13. **La EMA no pide t11–t13.**
+- **Sub-lote 6 · Productos (p. 59, 60)** — r41–43 = t14, r44–45 = t15,
+  r46–48 = t16. **La EMA no pide t14–t16.**
 
-**Pendiente:** ninguno. La Unidad 3 está cerrada, y con la Unidad 11 quedó
-cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la
-EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus
-Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y
-conceptos, saltando ejercicios y problemas resueltos.
+**Pendiente:** ninguno. La Unidad 3 está cerrada y **keyed**. Con ella, **la materia
+Física queda CERRADA para la EMA** (`FIS-02-2026`): U3, U4, U5, U6, U8, U9 y U11,
+todas escritas y con clave `**Tema:**`. Para la **EMM** (`FG-03-2026`) esta unidad se
+sirve **completa** (los 16 temas); las claves permiten que la EMA reciba sólo su
+subconjunto (temas 1, 3, 4, 5, 6, 7, 8 y 9).
 
 ## Cómo se escriben estos reactivos
 
@@ -81,6 +113,7 @@ De acuerdo con el libro de Física, ¿cuáles son las características de un vec
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 42
+**Tema:** U3 t1 · características de un vector
 **Subtema:** física · vectores
 
 <Un vector cualquiera tiene las siguientes características: 1. Punto de aplicación u origen. 2. Magnitud, intensidad o módulo del vector. 3. Dirección. 4. Sentido.>
@@ -96,6 +129,7 @@ De acuerdo con el libro de Física, ¿a qué se refiere la magnitud, intensidad 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 42
+**Tema:** U3 t1 · características de un vector
 **Subtema:** física · vectores
 
 <Magnitud, intensidad o módulo del vector. Indica su valor y se representa por la longitud del vector de acuerdo con una escala convencional.>
@@ -111,6 +145,7 @@ De acuerdo con el libro de Física, ¿qué es la dirección de un vector?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 42
+**Tema:** U3 t1 · características de un vector
 **Subtema:** física · vectores
 
 <Dirección. Señala la línea sobre la cual actúa, puede ser horizontal, vertical u oblicua.>
@@ -126,6 +161,7 @@ De acuerdo con el libro de Física, ¿qué es el sentido de un vector?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 42
+**Tema:** U3 t1 · características de un vector
 **Subtema:** física · vectores
 
 <Sentido. Queda señalado por la punta de la flecha e indica hacia dónde actúa el vector.>
@@ -143,6 +179,7 @@ De acuerdo con el libro de Física, el sentido de un vector se puede identificar
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 42
+**Tema:** U3 t1 · características de un vector
 **Subtema:** física · vectores
 
 <El sentido de éste se puede identificar de manera convencional con signos (+) o (−).>
@@ -158,6 +195,7 @@ De acuerdo con la nota del libro de Física, algunos autores sólo manejan tres 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 42
+**Tema:** U3 t1 · características de un vector
 **Subtema:** física · vectores
 
 <Con respecto a las características de un vector, algunos autores sólo manejan tres: punto de aplicación, magnitud y dirección.>
@@ -173,6 +211,7 @@ De acuerdo con la nota del libro de Física, cuando se manejan sólo tres caract
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 42
+**Tema:** U3 t1 · características de un vector
 **Subtema:** física · vectores
 
 <La dirección se define como el ángulo que forma la línea de acción del vector con respecto al eje X positivo, por lo que el sentido es una consecuencia de la dirección.>
@@ -188,6 +227,7 @@ De acuerdo con el libro de Física, para representar un vector, ¿qué escalas e
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 42
+**Tema:** U3 t2 · cómo establecer la escala de un vector
 **Subtema:** física · vectores
 
 <En general, lo recomendable es usar escalas de 1:1, 1:10, 1:100 y 1:1 000, siempre que sea posible.>
@@ -205,6 +245,7 @@ De acuerdo con el libro de Física, ¿cuándo son coplanares los vectores?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 43
+**Tema:** U3 t3 · vectores coplanares, no coplanares, deslizantes y libres
 **Subtema:** física · vectores
 
 <Los vectores son coplanares si se encuentran en un mismo plano, de lo contrario son no coplanares.>
@@ -220,6 +261,7 @@ De acuerdo con el libro de Física, ¿qué son los vectores deslizantes?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 43
+**Tema:** U3 t3 · vectores coplanares, no coplanares, deslizantes y libres
 **Subtema:** física · vectores
 
 <Vectores deslizantes. Son aquellos que se pueden desplazar o deslizar a lo largo de su línea de acción, es decir, en su misma dirección.>
@@ -235,6 +277,7 @@ De acuerdo con el libro de Física, ¿qué son los vectores libres?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 43
+**Tema:** U3 t3 · vectores coplanares, no coplanares, deslizantes y libres
 **Subtema:** física · vectores
 
 <Vectores libres. Son aquellos que no tienen un punto de aplicación en particular.>
@@ -252,6 +295,7 @@ De acuerdo con el libro de Física, ¿cuándo se tiene un sistema de vectores co
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 43
+**Tema:** U3 t4 · sistemas de vectores colineales
 **Subtema:** física · vectores
 
 <Se tiene un sistema de vectores colineales cuando dos o más vectores se encuentran en la misma dirección o línea de acción.>
@@ -267,6 +311,7 @@ De acuerdo con el libro de Física, ¿cuándo es concurrente un sistema de vecto
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 43
+**Tema:** U3 t5 · sistema de vectores concurrentes o angulares
 **Subtema:** física · vectores
 
 <Un sistema de vectores es concurrente cuando la dirección o línea de acción de los vectores se cruza en algún punto; el punto de cruce constituye el punto de aplicación de los vectores.>
@@ -282,6 +327,7 @@ De acuerdo con el libro de Física, ¿por qué a los vectores concurrentes tambi
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 43
+**Tema:** U3 t5 · sistema de vectores concurrentes o angulares
 **Subtema:** física · vectores
 
 <A estos vectores se les llama angulares o concurrentes porque forman un ángulo entre ellos.>
@@ -299,6 +345,7 @@ De acuerdo con el libro de Física, ¿qué es la resultante de un sistema de vec
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 44
+**Tema:** U3 t6 · resultante y equilibrante de un sistema de vectores
 **Subtema:** física · vectores
 
 <La resultante de un sistema de vectores es el vector que produce, él solo, el mismo efecto que los demás vectores del sistema. Por ello, un vector resultante es aquel capaz de sustituir un sistema de vectores.>
@@ -314,6 +361,7 @@ De acuerdo con el libro de Física, ¿qué es la equilibrante de un sistema de v
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 44
+**Tema:** U3 t6 · resultante y equilibrante de un sistema de vectores
 **Subtema:** física · vectores
 
 <La equilibrante de un sistema de vectores es el vector que es capaz de cancelar el vector resultante de un sistema de vectores.>
@@ -329,6 +377,7 @@ De acuerdo con el libro de Física, ¿qué relación tiene la equilibrante con l
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 44
+**Tema:** U3 t6 · resultante y equilibrante de un sistema de vectores
 **Subtema:** física · vectores
 
 <Por tanto, tiene la misma magnitud y dirección que la resultante, pero con sentido contrario.>
@@ -346,6 +395,7 @@ De acuerdo con el libro de Física, ¿cuándo son iguales dos vectores?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 44
+**Tema:** U3 t7 · propiedades de los vectores
 **Subtema:** física · vectores
 
 <Dos vectores son iguales cuando su magnitud, dirección y sentido también son iguales.>
@@ -361,6 +411,7 @@ De acuerdo con la propiedad de adición del libro de Física, ¿bajo qué condic
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 44
+**Tema:** U3 t7 · propiedades de los vectores
 **Subtema:** física · vectores
 
 <Sólo se pueden sumar dos o más vectores si tienen las mismas unidades de medida. Por ejemplo, no es posible sumar un vector fuerza con un vector desplazamiento.>
@@ -376,6 +427,7 @@ De acuerdo con el libro de Física, ¿cómo se define el negativo de un vector?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 44
+**Tema:** U3 t7 · propiedades de los vectores
 **Subtema:** física · vectores
 
 <El negativo de un vector cualquiera, por ejemplo de un vector a, se define como aquel vector que sumado al vector a, da un resultado igual a cero. Por tanto, a + (−a) = 0.>
@@ -391,6 +443,7 @@ De acuerdo con el libro de Física, en conclusión, ¿qué características tien
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 44
+**Tema:** U3 t7 · propiedades de los vectores
 **Subtema:** física · vectores
 
 <El negativo de un vector tiene la misma magnitud y dirección de dicho vector, pero su sentido es contrario.>
@@ -406,6 +459,7 @@ De acuerdo con la ley conmutativa de la adición de vectores, ¿qué sucede cuan
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 44
+**Tema:** U3 t7 · propiedades de los vectores
 **Subtema:** física · vectores
 
 <Cuando se suman dos vectores, la resultante de la adición es la misma, sin importar el orden en que se sumen los vectores.>
@@ -421,6 +475,7 @@ De acuerdo con la propiedad de transmisibilidad del punto de aplicación, ¿qué
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 44
+**Tema:** U3 t7 · propiedades de los vectores
 **Subtema:** física · vectores
 
 <El efecto externo de un vector deslizante no se modifica si es trasladado en su misma dirección, es decir, sobre su propia línea de acción.>
@@ -436,6 +491,7 @@ De acuerdo con la propiedad de los vectores libres, ¿qué ocurre con los vector
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 45
+**Tema:** U3 t7 · propiedades de los vectores
 **Subtema:** física · vectores
 
 <Los vectores no se modifican si se trasladan paralelamente a sí mismos.>
@@ -453,6 +509,7 @@ De acuerdo con el libro de Física, para sumar magnitudes vectoriales debemos ut
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 45
+**Tema:** U3 t8 · suma de vectores
 **Subtema:** física · vectores
 
 <Estos métodos pueden ser gráficos o analíticos, pero en ambos casos se consideran, además de la magnitud del vector, su dirección y sentido.>
@@ -470,6 +527,7 @@ De acuerdo con el libro de Física, cuando un sistema de vectores se sustituye p
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 47
+**Tema:** U3 t9 · composición y descomposición rectangular de vectores
 **Subtema:** física · vectores
 
 <Si el sistema equivalente tiene un número mayor de vectores, el procedimiento se llama descomposición.>
@@ -485,6 +543,7 @@ De acuerdo con el libro de Física, cuando el sistema equivalente tiene un núme
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 47
+**Tema:** U3 t9 · composición y descomposición rectangular de vectores
 **Subtema:** física · vectores
 
 <Si el sistema equivalente tiene un número menor de vectores, el procedimiento se denomina composición.>
@@ -502,6 +561,7 @@ De acuerdo con el libro de Física, al trazar desde el extremo de un vector una 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 47
+**Tema:** U3 t9 · composición y descomposición rectangular de vectores
 **Subtema:** física · vectores
 
 <Los vectores ax y ay así formados reciben el nombre de las componentes rectangulares del vector a.>
@@ -517,6 +577,7 @@ De acuerdo con el libro de Física, ¿por qué a las componentes de un vector se
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 47
+**Tema:** U3 t9 · composición y descomposición rectangular de vectores
 **Subtema:** física · vectores
 
 <Se les llama rectangulares porque las componentes forman entre sí un ángulo recto (90°). También se les denominan componentes perpendiculares.>
@@ -532,6 +593,7 @@ De acuerdo con el libro de Física, ¿qué es un vector unitario?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 51
+**Tema:** U3 t10 · vectores unitarios
 **Subtema:** física · vectores
 
 <Un vector unitario es aquel que tiene una magnitud igual a uno y no tiene dimensiones.>
@@ -547,6 +609,7 @@ De acuerdo con el libro de Física, ¿con qué fin se utiliza un vector unitario
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 51
+**Tema:** U3 t10 · vectores unitarios
 **Subtema:** física · vectores
 
 <Se utiliza con el único fin de especificar una dirección determinada, ya que no tiene ningún otro significado físico.>
@@ -562,6 +625,7 @@ De acuerdo con el libro de Física, ¿qué símbolos especiales se utilizan para
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 51
+**Tema:** U3 t10 · vectores unitarios
 **Subtema:** física · vectores
 
 <Es común utilizar los símbolos especiales î, ĵ y k̂ para representar vectores unitarios en las direcciones y sentidos positivos de los ejes X, Y y Z, respectivamente.>
@@ -579,6 +643,7 @@ De acuerdo con el libro de Física, ¿qué método gráfico se utiliza cuando se
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 52
+**Tema:** U3 t11 · suma de vectores concurrentes: método del paralelogramo
 **Subtema:** física · vectores
 
 <Cuando en forma gráfica se desea sumar dos vectores concurrentes se utiliza el método del paralelogramo.>
@@ -594,6 +659,7 @@ De acuerdo con el libro de Física, para encontrar la resultante de dos vectores
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 52
+**Tema:** U3 t11 · suma de vectores concurrentes: método del paralelogramo
 **Subtema:** física · vectores
 
 <Para encontrar la resultante por el método analítico se usará el teorema de Pitágoras si los dos vectores forman un ángulo de 90°.>
@@ -609,6 +675,7 @@ De acuerdo con el libro de Física, si dos vectores forman cualquier ángulo dis
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 52
+**Tema:** U3 t11 · suma de vectores concurrentes: método del paralelogramo
 **Subtema:** física · vectores
 
 <Pero si originan cualquier otro ángulo se usará la Ley de los Cosenos y para calcular el ángulo de la resultante se aplicará la Ley de los Senos.>
@@ -624,6 +691,7 @@ De acuerdo con el libro de Física, ¿qué método gráfico se utiliza para suma
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 56
+**Tema:** U3 t12 · suma de vectores concurrentes: método del polígono
 **Subtema:** física · vectores
 
 <Para sumar más de dos vectores angulares o concurrentes en forma gráfica, se utiliza el llamado método del polígono.>
@@ -639,6 +707,7 @@ De acuerdo con el libro de Física, ¿en qué consiste el método del polígono?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 56
+**Tema:** U3 t12 · suma de vectores concurrentes: método del polígono
 **Subtema:** física · vectores
 
 <Dicho método consiste en trasladar paralelamente a sí mismo cada uno de los vectores sumados, de tal manera que al tomar uno de los vectores como base los otros se colocarán uno a continuación del otro, poniendo el origen de un vector en el extremo del otro y así sucesivamente hasta colocar el último vector.>
@@ -654,6 +723,7 @@ De acuerdo con el libro de Física, en el método del polígono, ¿cuál es la r
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 56
+**Tema:** U3 t12 · suma de vectores concurrentes: método del polígono
 **Subtema:** física · vectores
 
 <La resultante será el vector que una el origen de los vectores con el extremo libre del último vector sumado y su sentido estará dirigido hacia el extremo del último vector.>
@@ -669,6 +739,7 @@ De acuerdo con el libro de Física, ¿para qué se utiliza el método del trián
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 58
+**Tema:** U3 t13 · suma de vectores: método del triángulo
 **Subtema:** física · vectores
 
 <El método del triángulo se utiliza para sumar o restar dos vectores no concurrentes, es decir, que no tienen ningún punto en común.>
@@ -684,6 +755,7 @@ De acuerdo con el libro de Física, ¿en qué principio se basa el método del t
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 58
+**Tema:** U3 t13 · suma de vectores: método del triángulo
 **Subtema:** física · vectores
 
 <Este método se basa en el principio de los vectores libres, ya mencionado en la sección 3 de esta unidad.>
@@ -701,6 +773,7 @@ De acuerdo con el libro de Física, ¿cómo se define el producto de un escalar 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 59
+**Tema:** U3 t14 · producto de un vector por un escalar
 **Subtema:** física · vectores
 
 <El producto de un escalar k y de un vector r se escribe: kr y se define como un nuevo vector cuya magnitud es k veces mayor que la magnitud de r.>
@@ -716,6 +789,7 @@ De acuerdo con el libro de Física, en el producto de un vector por un escalar, 
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 59
+**Tema:** U3 t14 · producto de un vector por un escalar
 **Subtema:** física · vectores
 
 <El nuevo vector tiene el mismo sentido que r si k es positivo; sin embargo, si k es negativo, el vector resultante cambiará su sentido y magnitud, o sólo su sentido.>
@@ -731,6 +805,7 @@ De acuerdo con el libro de Física, ¿cómo se define la resta de dos vectores?
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 59
+**Tema:** U3 t14 · producto de un vector por un escalar
 **Subtema:** física · vectores
 
 <Podemos definir la resta de dos vectores como la suma al vector minuendo del vector opuesto del sustraendo: a − b = a + (−b).>
@@ -746,6 +821,7 @@ De acuerdo con el libro de Física, el producto escalar de dos vectores, llamado
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 60
+**Tema:** U3 t15 · producto escalar o producto punto
 **Subtema:** física · vectores
 
 <El producto escalar de dos vectores, llamado también producto punto, da como resultado una magnitud escalar, pues carece de dirección y sentido.>
@@ -761,6 +837,7 @@ De acuerdo con el libro de Física, ¿cuáles son algunas magnitudes físicas qu
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 60
+**Tema:** U3 t15 · producto escalar o producto punto
 **Subtema:** física · vectores
 
 <Algunas magnitudes físicas que resultan del producto escalar de dos vectores son: el trabajo mecánico, la potencia eléctrica y la densidad de energía electromagnética.>
@@ -776,6 +853,7 @@ De acuerdo con el libro de Física, el producto vectorial de dos vectores, llama
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 60
+**Tema:** U3 t16 · producto vectorial o producto cruz
 **Subtema:** física · vectores
 
 <El producto vectorial de dos vectores, llamado también producto cruz, da como resultado otro vector, el cual siempre es perpendicular al plano formado por los dos vectores que se multiplican.>
@@ -793,6 +871,7 @@ De acuerdo con el libro de Física, en el producto vectorial, ¿por qué debe to
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 60
+**Tema:** U3 t16 · producto vectorial o producto cruz
 **Subtema:** física · vectores
 
 <En el producto vectorial el orden de los factores debe tomarse en cuenta, pues no es lo mismo a × b que b × a.>
@@ -808,6 +887,7 @@ De acuerdo con el libro de Física, ¿cuáles son algunas magnitudes físicas qu
 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 60
+**Tema:** U3 t16 · producto vectorial o producto cruz
 **Subtema:** física · vectores
 
 <Algunas magnitudes físicas que resultan del producto vectorial son: el momento de una fuerza, la fuerza que recibe una carga en movimiento al penetrar a un campo magnético y la cantidad de movimiento angular.>
