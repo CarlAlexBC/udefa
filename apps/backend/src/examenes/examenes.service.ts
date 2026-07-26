@@ -228,15 +228,27 @@ export class ExamenesService {
     }
     const carrera = carreras[carreraIdx] ?? carreras[0];
 
-    // Reparto de las 100 preguntas entre materias. Parejo por ahora (provisional,
-    // mismo criterio que REPARTO_CULTURAL de armarExamen).
-    const DEFAULT_POR_MATERIA = 25;
+    // Reparto de las 100 preguntas entre las materias que este plantel realmente
+    // pide (las que tienen selección en el puente). Parejo; el sobrante del redondeo
+    // —cuando 100 no divide exacto entre el número de materias— va a las primeras.
+    // Así todos los planteles arman 100 sin importar cuántas materias tengan:
+    // 4 materias → 25 c/u; 3 materias (EMA, EME) → 34/33/33.
+    const TOTAL_EXAMEN = 100;
+    const materias = carrera.materias ?? [];
+    const nActivas = materias.filter(
+      (m: any) => puente[plantel]?.[m.codigo_normalizado || m.codigo],
+    ).length;
+    const base = nActivas ? Math.floor(TOTAL_EXAMEN / nActivas) : 0;
+    let resto = nActivas ? TOTAL_EXAMEN - base * nActivas : 0;
 
     const bloques: { nombre: string; codigo: string; reactivos: unknown[] }[] = [];
-    for (const m of carrera.materias ?? []) {
+    for (const m of materias) {
       const codigo = m.codigo_normalizado || m.codigo;
       const puenteMateria = puente[plantel]?.[codigo];
       if (!puenteMateria) continue; // materia sin selección definida para este plantel
+      // Cuota de esta materia: base, +1 mientras quede sobrante por repartir.
+      const cuota = base + (resto > 0 ? 1 : 0);
+      if (resto > 0) resto--;
       const disponibles = await this.prisma.reactivo.findMany({
         where: {
           banco: 'cultural',
@@ -256,7 +268,7 @@ export class ExamenesService {
       // la B". No rompe la calificación: se compara el TEXTO de la opción, no la
       // letra (intentos.service.ts). El orden fijo del import queda sólo de base.
       const elegidos = this.mezclar(disponibles)
-        .slice(0, DEFAULT_POR_MATERIA)
+        .slice(0, cuota)
         .map((r) => ({ ...r, opciones: this.mezclar(r.opciones as string[]) }));
       bloques.push({ nombre: m.nombre, codigo, reactivos: elegidos });
     }
