@@ -57,9 +57,10 @@ práctica.
 `ÁLGE`/`Álgebra` de sus dos carreras) tiene completos los ocho capítulos que pide de este
 Baldor —III, IV, V, VIII, X, XIII, XX y XXIV—, así que **Álgebra queda cerrada para la
 EMA**. **Álgebra como materia NO está cerrada:** la **EMI** (Escuela Militar de Ingeniería),
-que usa el mismo libro, pide además los capítulos **XI (Máximo común divisor)**, **XII
-(Mínimo común múltiplo)**, **XXI (Representación gráfica de funciones y relaciones)** y
-**XXXII (Números complejos)**, que todavía no tienen archivo.
+que usa el mismo libro, pide además los capítulos **XXI (Representación gráfica de
+funciones y relaciones)** y **XXXII (Números complejos)**, que todavía no tienen
+archivo. Los capítulos **XI (Máximo común divisor)** y **XII (Mínimo común múltiplo)**,
+que también pedía la EMI, ya están escritos (`algebra-11`, `algebra-12`).
 
 ## Criterio: teoría sobre práctica
 
