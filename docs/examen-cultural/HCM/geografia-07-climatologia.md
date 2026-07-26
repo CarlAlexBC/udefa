@@ -67,9 +67,10 @@ y **EB con su descripción completa** (tundra ET, hielos perpetuos por altitud).
 **Pendiente:** ninguno. El capítulo 7 está cerrado: cubierto en toda su prosa
 (pp. 120–167) con 97 reactivos; la p.168 ya es el arranque del capítulo 8,
 Hidrología, que queda fuera. Ya se corrió el importador de oferta en dry-run (árbol
-y validaciones OK). Además, la materia Geografía **no está cerrada para la EMA**:
-falta completar el capítulo 3 (Regiones geomorfológicas) y escribir el capítulo 23
-(Geografía Política y Administrativa) entero.
+y validaciones OK). Además, la materia Geografía **ya quedó cerrada para la EMA**:
+el capítulo 3 se completó con las Regiones geomorfológicas
+(`geografia-03-regiones-geomorfologicas.md`) y el capítulo 23 se escribió entero
+(`geografia-23-geografia-politica.md`).
 
 ---
 
