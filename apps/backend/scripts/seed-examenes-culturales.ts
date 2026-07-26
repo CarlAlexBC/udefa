@@ -18,15 +18,17 @@ import { PrismaClient } from '@prisma/client';
 const prisma = new PrismaClient();
 const ANIO = 2026;
 
-// plantelId (fijo en la BD) → código de temario, sólo para el nombre del examen.
-// El armado no usa este código: resuelve el plantel por Plantel.nombre (ver
-// CODIGO_POR_PLANTEL en examenes.service.ts). El HCM (plantelId 1) no está aquí:
-// su Examen ya existe.
-const PLANTELES: Array<{ plantelId: number; codigo: string }> = [
-  { plantelId: 2, codigo: 'EMM' },
-  { plantelId: 6, codigo: 'EMO' },
-  { plantelId: 7, codigo: 'EME' },
-  { plantelId: 9, codigo: 'EMOS' },
+// Nombre del plantel (llave canónica, la misma de CODIGO_POR_PLANTEL en
+// examenes.service.ts) → código de temario, sólo para el nombre del examen. Se
+// resuelve por NOMBRE y no por plantelId hardcodeado, porque el id depende del
+// orden de siembra y no es estable entre entornos. El HCM no está aquí: su Examen
+// ya existe (lo crea importar-cultural.ts).
+const PLANTELES: Array<{ nombre: string; codigo: string }> = [
+  { nombre: 'Escuela Militar de Medicina', codigo: 'EMM' },
+  { nombre: 'Escuela Militar de Odontología', codigo: 'EMO' },
+  { nombre: 'Escuela Militar de Enfermería', codigo: 'EME' },
+  { nombre: 'Escuela Militar de Oficiales de Sanidad', codigo: 'EMOS' },
+  { nombre: 'Escuela Militar de Aviación', codigo: 'EMA' },
 ];
 
 async function main() {
@@ -35,15 +37,16 @@ async function main() {
   let creados = 0;
   let existentes = 0;
 
-  for (const { plantelId, codigo } of PLANTELES) {
-    const plantel = await prisma.plantel.findUnique({
-      where: { id: plantelId },
-      select: { nombre: true },
+  for (const { nombre, codigo } of PLANTELES) {
+    const plantel = await prisma.plantel.findFirst({
+      where: { nombre },
+      select: { id: true, nombre: true },
     });
     if (!plantel) {
-      console.log(`     ✗ plantelId ${plantelId} (${codigo}) no existe en la BD — se omite`);
+      console.log(`     ✗ plantel "${nombre}" (${codigo}) no existe en la BD — se omite`);
       continue;
     }
+    const plantelId = plantel.id;
 
     const ya = await prisma.examen.findFirst({
       where: { tipo: 'cultural', plantelId, anio: ANIO },

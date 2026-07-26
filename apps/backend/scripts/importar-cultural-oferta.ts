@@ -371,62 +371,93 @@ function reporte(archivos: ArchivoParsed[]) {
 // ---------------------------------------------------------------------------
 // Escritura a la base (--escribir)
 // ---------------------------------------------------------------------------
+/** ¿El reactivo existente en la BD ya coincide con lo que trae el .md? Compara
+ *  sólo los campos que este importador escribe, para poder saltar los que no
+ *  cambiaron y no reescribir toda la base en cada corrida. */
+function reactivoIgual(ex: any, data: any): boolean {
+  return (
+    JSON.stringify(ex.opciones) === JSON.stringify(data.opciones) &&
+    (ex.respuestaCorrecta ?? null) === (data.respuestaCorrecta ?? null) &&
+    (ex.explicacion ?? null) === (data.explicacion ?? null) &&
+    (ex.referencia ?? null) === (data.referencia ?? null) &&
+    (ex.notaRevisor ?? null) === (data.notaRevisor ?? null) &&
+    (ex.tema ?? null) === (data.tema ?? null) &&
+    (ex.numeroEnEje ?? null) === (data.numeroEnEje ?? null) &&
+    (ex.tipo ?? null) === (data.tipo ?? null)
+  );
+}
+
 async function escribir(archivos: ArchivoParsed[]) {
   const prisma = new PrismaClient();
   try {
-    // 1. Limpiar el import de oferta previo. NO toca otros bancos (cultural-hcm, etc.).
-    const prev = await prisma.reactivo.count({ where: { banco: BANCO } });
-    if (prev) {
-      console.log(`Borrando ${prev} reactivos banco='${BANCO}' previos...`);
-      await prisma.reactivo.deleteMany({ where: { banco: BANCO } });
-    }
-    // El árbol se reconstruye entero para no dejar temas huérfanos. Nadie más
-    // referencia estas tablas todavía (la demanda está diferida).
-    await prisma.tema.deleteMany({});
-    await prisma.capitulo.deleteMany({});
-    await prisma.libro.deleteMany({});
+    // Escritura NO DESTRUCTIVA e idempotente. Antes esto borraba TODO el árbol
+    // (libro/capítulo/tema/reactivo) y lo reinsertaba, lo que rompía la llave
+    // foránea en cuanto un reactivo ya tenía respuestas (RespuestaReactivo) o
+    // repasos (RepasoReactivo). Ahora se RECONCILIA:
+    //   - Libro/Capítulo/Tema: UPSERT por su llave natural (slug; libroId+numero;
+    //     capituloId+nombre).
+    //   - Cada reactivo se empareja por (temaId, enunciado, banco). Si existe y no
+    //     cambió, se deja intacto (su id se preserva → las respuestas/repasos siguen
+    //     válidos). Si cambió, se ACTUALIZA en su lugar. Si es nuevo, se CREA.
+    //   - Los reactivos que ya no están en los .md se BORRAN sólo si NADIE los
+    //     referencia; si tienen respuestas/repasos, se conservan y se avisa.
+    // El barajado de opciones es determinista (sha256 del enunciado), así que un
+    // reactivo sin cambios produce exactamente las mismas opciones cada corrida.
+    // NO toca otros bancos (cultural-hcm, remaster, v1).
 
-    // 2. Agrupar los archivos por slug (cada slug = un Libro).
+    // Agrupar los archivos por slug (cada slug = un Libro).
     const porSlug = new Map<string, ArchivoParsed[]>();
     for (const a of archivos) {
       if (!porSlug.has(a.libro.slug)) porSlug.set(a.libro.slug, []);
       porSlug.get(a.libro.slug)!.push(a);
     }
 
-    let nReactivos = 0;
+    const vistos = new Set<number>(); // ids de reactivos presentes en los .md de esta corrida
+    // Cache de los reactivos ya existentes por tema, indexados por enunciado, para
+    // no consultar la BD reactivo por reactivo.
+    const existentesPorTema = new Map<number, Map<string, any>>();
+    let nuevos = 0;
+    let actualizados = 0;
+    let sinCambio = 0;
+
     for (const [slug, arls] of porSlug) {
       const info = arls.find((a) => a.libro.autor)?.libro ?? arls[0].libro;
-      const libro = await prisma.libro.create({
-        data: {
-          slug,
-          materia: info.materia,
-          autor: info.autor,
-          edicion: info.edicion,
-          anio: info.anio,
-        },
+      const libro = await prisma.libro.upsert({
+        where: { slug },
+        create: { slug, materia: info.materia, autor: info.autor, edicion: info.edicion, anio: info.anio },
+        update: { materia: info.materia, autor: info.autor, edicion: info.edicion, anio: info.anio },
       });
 
       for (const a of arls) {
-        const capitulo = await prisma.capitulo.create({
-          data: { libroId: libro.id, numero: a.capNumero, titulo: a.capTitulo },
+        const capitulo = await prisma.capitulo.upsert({
+          where: { libroId_numero: { libroId: libro.id, numero: a.capNumero } },
+          create: { libroId: libro.id, numero: a.capNumero, titulo: a.capTitulo },
+          update: { titulo: a.capTitulo },
         });
 
         // Un Tema por subtema distinto dentro del capítulo (@@unique capituloId+nombre).
-        const temaId = new Map<string, number>();
-        const filas: any[] = [];
+        const temaIdCache = new Map<string, number>();
         for (const r of a.reactivos) {
-          let id = temaId.get(r.subtema);
-          if (id === undefined) {
-            const tema = await prisma.tema.create({
-              data: { capituloId: capitulo.id, nombre: r.subtema },
+          let temaId = temaIdCache.get(r.subtema);
+          if (temaId === undefined) {
+            const tema = await prisma.tema.upsert({
+              where: { capituloId_nombre: { capituloId: capitulo.id, nombre: r.subtema } },
+              create: { capituloId: capitulo.id, nombre: r.subtema },
+              update: {},
             });
-            id = tema.id;
-            temaId.set(r.subtema, id);
+            temaId = tema.id;
+            temaIdCache.set(r.subtema, temaId);
+            if (!existentesPorTema.has(temaId)) {
+              const filas = await prisma.reactivo.findMany({ where: { temaId, banco: BANCO } });
+              existentesPorTema.set(temaId, new Map(filas.map((f) => [f.enunciado, f])));
+            }
           }
+          const mapEnun = existentesPorTema.get(temaId)!;
+
           const baraj = barajarDeterminista(r.opciones, r.enunciado);
-          filas.push({
-            temaId: id,
-            bloqueId: null, // el armado (bloque) es de la demanda, se cablea aparte
+          const data = {
+            temaId,
+            bloqueId: null as number | null,
             enunciado: r.enunciado,
             tipo: 'opcion_multiple',
             opciones: baraj,
@@ -437,17 +468,62 @@ async function escribir(archivos: ArchivoParsed[]) {
             tema: r.subtema,
             banco: BANCO,
             numeroEnEje: r.numero,
-          });
+          };
+
+          const existente = mapEnun.get(r.enunciado);
+          if (!existente) {
+            const creado = await prisma.reactivo.create({ data });
+            mapEnun.set(r.enunciado, creado);
+            vistos.add(creado.id);
+            nuevos++;
+          } else {
+            vistos.add(existente.id);
+            if (reactivoIgual(existente, data)) {
+              sinCambio++;
+            } else {
+              await prisma.reactivo.update({ where: { id: existente.id }, data });
+              actualizados++;
+            }
+          }
         }
-        await prisma.reactivo.createMany({ data: filas });
-        nReactivos += filas.length;
       }
     }
 
+    // Podar reactivos culturales que ya no están en los .md: se borran sólo si
+    // nadie los referencia; los que tienen historial se conservan y se avisa.
+    const restantes = await prisma.reactivo.findMany({
+      where: { banco: BANCO },
+      select: { id: true, _count: { select: { respuestas: true, repasos: true } } },
+    });
+    let borrados = 0;
+    let conservadosPorReferencia = 0;
+    for (const r of restantes) {
+      if (vistos.has(r.id)) continue;
+      if (r._count.respuestas > 0 || r._count.repasos > 0) {
+        conservadosPorReferencia++;
+      } else {
+        await prisma.reactivo.delete({ where: { id: r.id } });
+        borrados++;
+      }
+    }
+
+    // Podar temas/capítulos/libros que quedaron vacíos. Nadie referencia estas
+    // tablas directamente (sólo Reactivo), así que borrar los vacíos es seguro.
+    await prisma.tema.deleteMany({ where: { reactivos: { none: {} } } });
+    await prisma.capitulo.deleteMany({ where: { temas: { none: {} } } });
+    await prisma.libro.deleteMany({ where: { capitulos: { none: {} } } });
+
     const totalTemas = await prisma.tema.count();
+    const totalReact = await prisma.reactivo.count({ where: { banco: BANCO } });
     console.log(
-      `✓ Escrito: ${porSlug.size} libros · ${archivos.length} capítulos · ${totalTemas} temas · ${nReactivos} reactivos banco='${BANCO}'.`,
+      `✓ Reconciliado (banco='${BANCO}'): ${nuevos} nuevos · ${actualizados} actualizados · ${sinCambio} sin cambio · ${borrados} borrados.`,
     );
+    if (conservadosPorReferencia > 0) {
+      console.log(
+        `  ⚠ ${conservadosPorReferencia} reactivo(s) ya no están en los .md pero tienen respuestas/repasos: se CONSERVARON para no romper el historial.`,
+      );
+    }
+    console.log(`  Total ahora: ${porSlug.size} libros · ${totalTemas} temas · ${totalReact} reactivos banco='${BANCO}'.`);
   } finally {
     await prisma.$disconnect();
   }
