@@ -17,14 +17,14 @@ sumando los tres temarios. **NO entran** los temas 8 (Capacidad calorífica), 9
 > | 1 · Diferencia entre calor y temperatura | sí | sí | sí |
 > | 2 · Medida de la temperatura | sí | sí | — |
 > | 3 · Escalas Celsius, Kelvin y Fahrenheit | sí | sí | sí |
-> | 4 · Dilatación de los cuerpos | — | — | **sí — NO ESCRITO** |
+> | 4 · Dilatación de los cuerpos | — | — | **sí ✓** |
 > | 5 · Formas de propagación del calor | sí | sí | sí |
 > | 6 · Energía solar, su medida y transformación | sí | — | — |
 > | 7 · Unidades para medir el calor | sí | sí | — |
 > | 12 · Los gases y sus leyes | sí | sí | sí |
 >
-> El tema 6 sólo lo pide la EMO; el tema 4 sólo la EMA (**y no está escrito** —
-> el libro lo trata en pp. 337–343 y aquí se saltó). Por eso **la línea
+> El tema 6 sólo lo pide la EMO; el tema 4 sólo la EMA (**escrito el 25 jul 2026**
+> en el sub-lote 10, teoría de las pp. 337–341). Por eso **la línea
 > `**Tema:**` de cada reactivo es obligatoria** (`U11 t3`, `U11 t6`…).
 > `**Referencia:**` (libro, edición, página) y `**Subtema:**` completan la llave.
 
@@ -45,19 +45,20 @@ desfase se mantuvo constante en toda la unidad.
 
 ## Cobertura actual
 
-La Unidad 11 queda **COMPLETA** en lo que piden los temarios: sus **siete temas**
+La Unidad 11 queda **COMPLETA** en lo que piden los temarios: sus **ocho temas**
 (1 Diferencia entre calor y temperatura pp. 332–335; 2 Medida de la temperatura
-pp. 335–336; 3 Escalas Celsius, Kelvin y Fahrenheit pp. 336–337; 5 Formas de
-propagación del calor pp. 343–344; **6 Energía solar, su medida y transformación
-p. 345**; 7 Unidades para medir el calor p. 346; 12 Los gases y sus leyes pp.
-354–359).
+pp. 335–336; 3 Escalas Celsius, Kelvin y Fahrenheit pp. 336–337; **4 Dilatación de
+los cuerpos pp. 337–341**; 5 Formas de propagación del calor pp. 343–344; **6
+Energía solar, su medida y transformación p. 345**; 7 Unidades para medir el calor
+p. 346; 12 Los gases y sus leyes pp. 354–359).
 
 Se saltó todo lo que los temarios no piden aunque cayera en las mismas páginas:
-los temas 4 (Dilatación de los cuerpos, pp. 337–343), 8 a 11 (Capacidad
-calorífica, Calor específico, Calor latente y Calor cedido y absorbido, pp.
-346–353) y 13 (Termodinámica, p. 360 en adelante). También se
-saltaron todos los "Ejercicios propuestos", los problemas resueltos de conversión
-de escalas y de las leyes de los gases, y las actividades experimentales.
+los temas 8 a 11 (Capacidad calorífica, Calor específico, Calor latente y Calor
+cedido y absorbido, pp. 346–353) y 13 (Termodinámica, p. 360 en adelante). Del
+tema 4 se saltó la p. 342 (problemas resueltos de dilatación cúbica) y los cuadros
+11.1, 11.2 y 11.3 de valores de coeficientes (datos de tabla). También se saltaron
+todos los "Ejercicios propuestos", los problemas resueltos de conversión de escalas
+y de las leyes de los gases, y las actividades experimentales.
 
 - **Sub-lote 1 · Diferencia entre calor y temperatura (p. 332, 334–335)** — tema 1
 - **Sub-lote 2 · Medida de la temperatura (p. 335–336)** — tema 2
@@ -68,15 +69,13 @@ de escalas y de las leyes de los gases, y las actividades experimentales.
 - **Sub-lote 7 · Leyes de Boyle, Charles y Gay-Lussac (p. 355–357)** — tema 12
 - **Sub-lote 8 · Ley general del estado gaseoso y constante universal (p. 358–359)** — tema 12
 - **Sub-lote 9 · Energía solar, su medida y transformación (p. 345)** — tema 6; añadido para la EMO (`FIS-03`), va al final del archivo (orden de captura, no de página)
+- **Sub-lote 10 · Dilatación de los cuerpos (pp. 337–341)** — tema 4; añadido para la EMA (`FIS-02`), va al final del archivo (orden de captura, no de página)
 
-**Pendiente para el contenido que estaba en el paquete:** ninguno. La Unidad 11
-queda cerrada para la EMO (temas 1, 2, 3, 5, 6, 7, 12), la EMM (1, 2, 3, 5, 7, 12)
-y, salvo el tema 4, la EMA. Con esta unidad **la materia Física queda CERRADA para
-la EMO** (`FIS-03-2026`): U1, U2, U4, U5, U6, U8 y U11, todas escritas y con clave
-`**Tema:**`.
-
-**Único hueco vivo de la unidad:** el **tema 4 · Dilatación de los cuerpos**
-(pp. 337–343), que pide sólo la EMA (`FIS-02`) y no está escrito.
+**Pendiente:** ninguno. Con el **tema 4 · Dilatación de los cuerpos** —añadido el
+25 jul 2026 en el sub-lote 10, 18 reactivos— la Unidad 11 queda **CERRADA para los
+tres planteles** que la piden: la EMO (temas 1, 2, 3, 5, 6, 7, 12), la EMM (1, 2, 3,
+5, 7, 12) y la **EMA** (1, 3, 4, 5, 12). El tema 4 era el único hueco vivo de la
+unidad; ya no queda ninguno.
 
 ## Cómo se escriben estos reactivos
 
@@ -1029,4 +1028,304 @@ De acuerdo con el libro de Física, ¿para qué se construyen destiladores solar
 
 ---
 
-**Reactivos en este archivo:** 56
+## Sub-lote 10 · Dilatación de los cuerpos (pp. 337–341) — tema 4
+
+> El tema 4 (Dilatación de los cuerpos) sólo lo pide la **EMA** (`FIS-02`). Su teoría
+> vive en las pp. 337–341 (dilatación lineal, de área y cúbica, con sus coeficientes
+> α, γ y β); la p. 342 es "Resolución de problemas de dilatación cúbica" y la p. 343
+> ya arranca el tema 5, así que quedan fuera por la norma de teoría sobre práctica.
+> También se saltan los cuadros 11.1, 11.2 y 11.3 de valores de coeficientes (datos
+> de tabla) y todos los problemas resueltos. Desfase de la unidad: 13 (hoja 350 =
+> p. 337 impresa).
+
+### 57
+
+En relación con el libro de Física, ¿cómo afectan los cambios de temperatura el tamaño de los cuerpos?
+
+- A. La mayoría de ellos se dilatan al calentarse y se contraen si se enfrían.
+- B. La mayoría de ellos se contraen al calentarse y se dilatan si se enfrían.
+- C. La mayoría de ellos conservan su tamaño al calentarse o enfriarse.
+- D. La mayoría de ellos se dilatan tanto al calentarse como al enfriarse.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 337
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<Los cambios de temperatura afectan el tamaño de los cuerpos, pues la mayoría de ellos se dilatan al calentarse y se contraen si se enfrían.>
+
+### 58
+
+En relación con el libro de Física, ¿qué sustancias manifiestan un comportamiento contrario al dilatarse y contraerse?
+
+- A. El agua y el hule.
+- B. El hierro y el aluminio.
+- C. El mercurio y el alcohol.
+- D. El vidrio y el cobre.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 337
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<El agua y el hule manifiestan un comportamiento contrario.>
+
+### 59
+
+En relación con el libro de Física, ¿cuál se dilata más?
+
+- A. Los gases se dilatan mucho más que los líquidos y éstos más que los sólidos.
+- B. Los sólidos se dilatan mucho más que los líquidos y éstos más que los gases.
+- C. Los líquidos se dilatan mucho más que los gases y éstos más que los sólidos.
+- D. Los tres se dilatan exactamente en la misma proporción.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 337
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<Los gases se dilatan mucho más que los líquidos y éstos más que los sólidos.>
+
+### 60
+
+En relación con el libro de Física, en los sólidos, ¿qué les ocurre a las partículas al calentarse, dando como resultado la dilatación?
+
+- A. Aumentan su movimiento y se alejan de sus centros de vibración.
+- B. Disminuyen su movimiento y se acercan a sus centros de vibración.
+- C. Dejan de vibrar y quedan fijas en sus posiciones.
+- D. Chocan unas contra otras en forma continua sin alejarse.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 337
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<En los sólidos las partículas vibran alrededor de posiciones fijas; sin embargo, al calentarse aumentan su movimiento y se alejan de sus centros de vibración dando como resultado la dilatación.>
+
+### 61
+
+En relación con el libro de Física, cuando una barra de metal es calentada, ¿en cuántas dimensiones sufre un aumento?
+
+- A. En sus tres dimensiones: largo, ancho y alto, por lo que su dilatación es cúbica.
+- B. En una sola dimensión: el largo, por lo que su dilatación es lineal.
+- C. En dos dimensiones: largo y ancho, por lo que su dilatación es de área.
+- D. En ninguna dimensión, pues los metales no se dilatan.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 338
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<Una barra de cualquier metal al ser calentada sufre un aumento en sus tres dimensiones: largo, ancho y alto, por lo que su dilatación es cúbica.>
+
+### 62
+
+En relación con el libro de Física, en los cuerpos sólidos como alambres, varillas o barras, ¿qué es lo más importante al elevarse la temperatura?
+
+- A. El aumento de longitud que experimentan, es decir, su dilatación lineal.
+- B. El aumento de área que experimentan, es decir, su dilatación de área.
+- C. El aumento de volumen que experimentan, es decir, su dilatación cúbica.
+- D. La disminución de longitud que experimentan, es decir, su contracción lineal.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 338
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<En los cuerpos sólidos, como alambres, varillas o barras, lo más importante es el aumento de longitud que experimentan al elevarse la temperatura, es decir, su dilatación lineal.>
+
+### 63
+
+En relación con el libro de Física, ¿qué es el coeficiente de dilatación lineal?
+
+- A. El incremento relativo de longitud que presenta una varilla de determinada sustancia, con un largo inicial de un metro, cuando su temperatura se eleva un grado Celsius.
+- B. El incremento relativo de área que presenta una lámina de determinada sustancia, con un área inicial de un metro cuadrado, cuando su temperatura se eleva un grado Celsius.
+- C. El incremento relativo de volumen que presenta un cuerpo de determinada sustancia, con un volumen inicial de un metro cúbico, cuando su temperatura se eleva un grado Celsius.
+- D. El incremento absoluto de longitud que presenta una varilla de cualquier sustancia al elevarse su temperatura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 338
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<Es el incremento relativo de longitud que presenta una varilla de determinada sustancia, con un largo inicial de un metro, cuando su temperatura se eleva un grado Celsius.>
+
+### 64
+
+En relación con el libro de Física, ¿con qué letra griega se representa el coeficiente de dilatación lineal?
+
+- A. Alfa (α).
+- B. Gamma (γ).
+- C. Beta (β).
+- D. Lambda (λ).
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 338
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<A este incremento se le llama coeficiente de dilatación lineal y se representa con la letra griega alfa (α).>
+
+### 65
+
+En relación con el libro de Física, ¿cómo se llaman las articulaciones móviles que se instalan para absorber las variaciones de longitud en las estructuras rígidas?
+
+- A. Juntas de dilatación.
+- B. Rodillos de apoyo.
+- C. Coeficientes de dilatación.
+- D. Espacios libres.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 339
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<Se instalan en lugares convenientes las llamadas juntas de dilatación, articulaciones móviles que absorben las variaciones de longitud.>
+
+### 66
+
+En relación con el libro de Física, ¿qué es el coeficiente de dilatación de área?
+
+- A. El incremento relativo de área que experimenta un cuerpo de determinada sustancia, de área igual a 1 m², al elevarse su temperatura un grado centígrado.
+- B. El incremento relativo de longitud que experimenta un cuerpo de determinada sustancia, de largo igual a 1 m, al elevarse su temperatura un grado centígrado.
+- C. El incremento relativo de volumen que experimenta un cuerpo de determinada sustancia, de volumen igual a 1 m³, al elevarse su temperatura un grado centígrado.
+- D. El incremento absoluto de área que experimenta cualquier cuerpo al elevarse su temperatura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 339
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<Es el incremento relativo de área que experimenta un cuerpo de determinada sustancia, de área igual a 1 m², al elevarse su temperatura un grado centígrado.>
+
+### 67
+
+En relación con el libro de Física, ¿con qué letra griega se representa el coeficiente de dilatación de área?
+
+- A. Gamma (γ).
+- B. Alfa (α).
+- C. Beta (β).
+- D. Delta (δ).
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 339
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<Este coeficiente se representa con la letra griega gamma (γ).>
+
+### 68
+
+En relación con el libro de Física, si se conoce el coeficiente de dilatación lineal de un sólido, ¿cómo es su coeficiente de dilatación de área?
+
+- A. Será dos veces mayor (γ = 2α).
+- B. Será tres veces mayor (γ = 3α).
+- C. Será la mitad (γ = α/2).
+- D. Será igual (γ = α).
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 339
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<Si se conoce el coeficiente de dilatación lineal de un sólido, su coeficiente de dilatación de área será dos veces mayor: γ = 2α.>
+
+### 69
+
+En relación con el libro de Física, ¿qué implica la dilatación cúbica?
+
+- A. El aumento en las dimensiones de un cuerpo: largo, ancho y alto, lo que significa un incremento de volumen.
+- B. El aumento en una sola dimensión de un cuerpo: el largo, lo que significa un incremento de longitud.
+- C. El aumento en dos dimensiones de un cuerpo: largo y ancho, lo que significa un incremento de área.
+- D. La disminución en las tres dimensiones de un cuerpo, lo que significa una contracción de volumen.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 340
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<Implica el aumento en las dimensiones de un cuerpo: largo, ancho y alto, lo que significa un incremento de volumen.>
+
+### 70
+
+En relación con el libro de Física, ¿qué es el coeficiente de dilatación cúbica?
+
+- A. El incremento relativo de volumen que experimenta un cuerpo de determinada sustancia, de volumen igual a 1 m³, al elevar su temperatura un grado Celsius.
+- B. El incremento relativo de área que experimenta un cuerpo de determinada sustancia, de área igual a 1 m², al elevar su temperatura un grado Celsius.
+- C. El incremento relativo de longitud que experimenta un cuerpo de determinada sustancia, de largo igual a 1 m, al elevar su temperatura un grado Celsius.
+- D. El incremento absoluto de volumen que experimenta cualquier cuerpo al elevar su temperatura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 340
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<Es el incremento relativo de volumen que experimenta un cuerpo de determinada sustancia, de volumen igual a 1 m³, al elevar su temperatura un grado Celsius.>
+
+### 71
+
+En relación con el libro de Física, ¿con qué letra griega se representa el coeficiente de dilatación cúbica?
+
+- A. Beta (β).
+- B. Alfa (α).
+- C. Gamma (γ).
+- D. Omega (ω).
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 340
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<Este coeficiente se representa con la letra griega beta (β).>
+
+### 72
+
+En relación con el libro de Física, ¿para qué tipo de sustancias se emplea el coeficiente de dilatación cúbica?
+
+- A. Para los líquidos.
+- B. Para los sólidos.
+- C. Para los gases.
+- D. Únicamente para los metales.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 341
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<El coeficiente de dilatación cúbica se emplea para los líquidos.>
+
+### 73
+
+En relación con el libro de Física, si se conoce el coeficiente de dilatación lineal de un sólido, ¿cómo es su coeficiente de dilatación cúbica?
+
+- A. Será tres veces mayor (β = 3α).
+- B. Será dos veces mayor (β = 2α).
+- C. Será la tercera parte (β = α/3).
+- D. Será igual (β = α).
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 341
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<Si se conoce el coeficiente de dilatación lineal de un sólido, su coeficiente de dilatación cúbica será tres veces mayor: β = 3α.>
+
+### 74
+
+En relación con el libro de Física, ¿cómo es el coeficiente de dilatación cúbica para los gases?
+
+- A. Es igual para todos los gases: por cada grado Celsius que cambie su temperatura variará 1/273 el volumen que ocupaba a 0 °C.
+- B. Es distinto para cada gas, según su densidad.
+- C. Es igual al coeficiente de dilatación lineal del hierro.
+- D. Es cero, pues los gases no cambian de volumen con la temperatura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 341
+**Tema:** U11 t4 · dilatación de los cuerpos
+**Subtema:** Física · Dilatación de los cuerpos
+
+<El coeficiente de dilatación cúbica es igual para todos los gases. Es decir, cualquier gas, al ser sometido a una presión constante, por cada grado Celsius que cambie su temperatura variará 1/273 el volumen que ocupaba a 0 °C.>
+
+---
+
+**Reactivos en este archivo:** 74

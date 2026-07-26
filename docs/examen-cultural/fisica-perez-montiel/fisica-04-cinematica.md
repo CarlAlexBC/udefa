@@ -15,7 +15,7 @@ claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM y EMOS) y
 > | 4 · Distancia, desplazamiento, velocidad y rapidez | sí | sí | sí | sí |
 > | 5 · MRU | sí | — | — | sí |
 > | 6 · Velocidad media | sí | — | — | sí |
-> | 7 · Velocidad instantánea | — | — | — | **sí — NO ESCRITO** |
+> | 7 · Velocidad instantánea | — | — | — | **sí ✓** |
 > | 9 · Aceleración y MRUA | sí | — | sí | — |
 > | 10 · Tiro parabólico | sí | — | — | — |
 > | 11 · Movimiento circular | sí | — | — | — |
@@ -69,6 +69,7 @@ cada referencia se **lee** de la esquina de la hoja, nunca se calcula.
 - **Sub-lote 13 · Movimiento circular: concepto, ángulo y radián (p. 98)** — tema 11
 - **Sub-lote 14 · Desplazamiento angular, periodo, frecuencia y velocidad angular (pp. 99–100)** — tema 11
 - **Sub-lote 15 · Movimiento circular uniforme, MCU (p. 100)** — tema 11
+- **Sub-lote 16 · Velocidad instantánea (p. 76)** — tema 7
 
 **Páginas saltadas a propósito** (teoría sobre práctica — no son olvidos):
 
@@ -95,14 +96,19 @@ cada referencia se **lee** de la esquina de la hoja, nunca se calcula.
   circular.
 
 **Fuera del temario, no se tocan:** temas 1 (Importancia del estudio de la
-cinemática), 3 (Sistemas de referencia inerciales y no inerciales), 7 (Velocidad
-instantánea), 8 (Interpretación de gráficas), 12 (MCUA) y 13 (MAS), aunque los
-temas 1 y 3 comparten la p. 68 con el tema 2.
+cinemática), 3 (Sistemas de referencia inerciales y no inerciales), 8
+(Interpretación de gráficas), 12 (MCUA) y 13 (MAS), aunque los temas 1 y 3
+comparten la p. 68 con el tema 2.
 
-**Pendiente:** el **tema 7, Velocidad instantánea (p. 76)**, que pide el temario
-`FIS-02-2026` de la EMA y la EMMA. No estaba en el paquete de esta tanda, que se
-armó sumando la EMO y la EMOS. Con eso la unidad queda **CERRADA para la EMO, la
-EMM y la EMOS**, y le falta un solo tema para cerrar también la EMA y la EMMA.
+De la p. 76 (tema 7) se saltó a propósito el bloque "Resolución de un problema de
+velocidad instantánea" (la gráfica y el cálculo de la pendiente de la tangente),
+por ser práctica, no teoría.
+
+**Pendiente:** ninguno. Con el **tema 7, Velocidad instantánea (p. 76)** —añadido
+el 25 jul 2026 en el sub-lote 16, 5 reactivos— la Unidad 4 queda **CERRADA para
+los cinco planteles** que la piden: la EMO (`FIS-03`), la EMM y la EMOS (`FG-03`) y
+la **EMA y la EMMA** (`FIS-02`), que eran las únicas que pedían el tema 7. Desfase
+de la copia de la EMA reverificado aquí: hoja 88 = p. 76 impresa (+12).
 
 ## Erratas del libro
 
@@ -2225,4 +2231,88 @@ De acuerdo con el libro de Física, ¿cómo será la interpretación de gráfica
 
 ---
 
-**Reactivos en este archivo:** 128
+## Sub-lote 16 · Velocidad instantánea (p. 76) — tema 7
+
+### 129
+
+En relación con el libro de Física, ¿cuándo se aproxima la velocidad media a una velocidad instantánea?
+
+- A. Cuando en el movimiento de un cuerpo los intervalos de tiempo considerados son cada vez más pequeños.
+- B. Cuando en el movimiento de un cuerpo los intervalos de tiempo considerados son cada vez más grandes.
+- C. Cuando el cuerpo se mueve con velocidad constante a lo largo de una línea recta.
+- D. Cuando la trayectoria seguida por el cuerpo es una circunferencia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 76
+**Tema:** U4 t7 · velocidad instantánea
+**Subtema:** física · cinemática
+
+<La velocidad media se aproxima a una velocidad instantánea cuando en el movimiento de un cuerpo los intervalos de tiempo considerados son cada vez más pequeños.>
+
+### 130
+
+En relación con el libro de Física, si el intervalo de tiempo es tan pequeño que casi tiende a cero, ¿cómo será la velocidad del cuerpo?
+
+- A. Instantánea.
+- B. Media.
+- C. Constante.
+- D. Uniforme.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 76
+**Tema:** U4 t7 · velocidad instantánea
+**Subtema:** física · cinemática
+
+<Si el intervalo de tiempo es tan pequeño que casi tiende a cero, la velocidad del cuerpo será instantánea.>
+
+### 131
+
+En relación con el libro de Física, matemáticamente, ¿qué es la velocidad instantánea en un punto?
+
+- A. El límite de la velocidad media alrededor del punto cuando el intervalo de tiempo (Δt) es tan pequeño que tiende a cero.
+- B. El promedio de la velocidad media alrededor del punto cuando el intervalo de tiempo (Δt) es muy grande.
+- C. El producto de la velocidad media por el intervalo de tiempo (Δt) alrededor del punto.
+- D. La suma de la velocidad media y el intervalo de tiempo (Δt) alrededor del punto.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 76
+**Tema:** U4 t7 · velocidad instantánea
+**Subtema:** física · cinemática
+
+<Matemáticamente podemos decir que la velocidad instantánea en un punto es el límite de la velocidad media alrededor del punto cuando el intervalo de tiempo (Δt) es tan pequeño que tiende a cero (Δt → 0).>
+
+### 132
+
+En relación con el libro de Física, ¿cuándo son iguales la velocidad media y la velocidad instantánea?
+
+- A. Cuando la velocidad de un móvil permanece constante.
+- B. Cuando la velocidad de un móvil varía constantemente.
+- C. Cuando el móvil parte del reposo.
+- D. Cuando el intervalo de tiempo considerado es muy grande.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 76
+**Tema:** U4 t7 · velocidad instantánea
+**Subtema:** física · cinemática
+
+<Cuando la velocidad de un móvil permanece constante, la velocidad media y la velocidad instantánea son iguales.>
+
+### 133
+
+En relación con el libro de Física, ¿por qué debemos calcular la velocidad instantánea de un móvil?
+
+- A. Porque es muy común que la velocidad de un móvil varíe constantemente, y para conocer cuál es su velocidad en un momento dado.
+- B. Porque es muy común que la velocidad de un móvil permanezca constante, y para conocer su velocidad media.
+- C. Porque la velocidad instantánea siempre es mayor que la velocidad media.
+- D. Porque la velocidad instantánea no depende del intervalo de tiempo considerado.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 76
+**Tema:** U4 t7 · velocidad instantánea
+**Subtema:** física · cinemática
+
+<Sin embargo, como es muy común que la velocidad de un móvil varíe constantemente, para conocer cuál es su velocidad en un momento dado, debemos calcular su velocidad instantánea.>
+
+---
+
+**Reactivos en este archivo:** 133

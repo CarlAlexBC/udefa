@@ -14,7 +14,7 @@ claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM y EMOS) y
 > | 2 · Leyes de la dinámica | sí | sí | sí | — |
 > | 3 · Gravitación universal | sí | — | sí | — |
 > | 5 · Estática | sí | — | — | — |
-> | 6 · Fricción | — | — | — | **sí — NO ESCRITO** |
+> | 6 · Fricción | — | — | — | **sí ✓** |
 > | 8 · Energía | sí | sí | sí | sí |
 > | 10 · Sustentabilidad y contaminación | — | — | sí | — |
 > | 13 · Cantidad de movimiento o momento lineal | sí | sí | — | — |
@@ -58,6 +58,9 @@ cada tramo, nunca se calculó:
   (163 − 151 = 12).
 - **Tramo del tema 5 (pp. 165–176): desfase = 12.** La hoja 177 muestra impreso
   "165" y contiene el arranque de ESTÁTICA (177 − 165 = 12).
+- **Tramo del tema 6 (pp. 177–183): desfase = 13.** La hoja 190 muestra impreso
+  "177" y contiene el arranque de FRICCIÓN (190 − 177 = 13). Aquí el PDF ya ganó
+  la hoja que se anota abajo, igual que en el tramo del tema 8.
 - **Tramo del tema 8 (pp. 188–196): desfase = 13.** La hoja 201 muestra impreso
   "188" (201 − 188 = 13) y la hoja 202 muestra "189", donde arranca ENERGÍA.
 - **Tramo de los temas 10, 13, 16 y 17 (pp. 198–216): desfase = 13.** La hoja 211
@@ -104,12 +107,13 @@ reactivo 2. La página de cada referencia se **lee** de la esquina de la hoja.
 - **Sub-lote 24 · Condiciones de equilibrio y diagrama de cuerpo libre (p. 170)** — tema 5
 - **Sub-lote 25 · Importancia de la energía, sus usos y sus consecuencias (pp. 198–199)** — tema 10
 - **Sub-lote 26 · Ley de la conservación de la cantidad de movimiento (p. 207)** — tema 16
+- **Sub-lote 27 · Fricción (pp. 177–179)** — tema 6
 
 **Fuera del temario, no se tocan** aunque caigan en las mismas páginas: los temas
 14 (Relación entre el impulso y la cantidad de movimiento) y 15 (Choque elástico
 e inelástico), que comparten la p. 206 con el tema 13; el tema 4 (Satélites
 naturales y artificiales, pp. 158–164), que va justo después del tema 3; y los
-temas 1, 6, 7, 9, 11, 12 y 18.
+temas 1, 7, 9, 11, 12 y 18.
 
 **Páginas saltadas a propósito** (teoría sobre práctica — no son olvidos):
 
@@ -132,12 +136,14 @@ temas 1, 6, 7, 9, 11, 12 y 18.
   entra por el tema 8 y ya está cubierta en el sub-lote 8.
 - pp. 208–211 · resolución de problemas de impulso y cantidad de movimiento y
   sus ejercicios propuestos. La teoría del tema 16 cabe entera en la p. 207.
+- pp. 180–183 · del tema 6 (Fricción), "Resolución de problemas de fricción" y
+  "Ejercicios propuestos". La teoría del tema 6 cabe entera en las pp. 177–179.
 - Los "Ejercicios propuestos" de toda la unidad.
 
-**Pendiente:** el **tema 6, Fricción (pp. 177–183)**, que pide el temario
-`FIS-02-2026` de la EMA y la EMMA. No estaba en el paquete de esta tanda, que se
-armó sumando la EMO y la EMOS. Con eso la unidad queda **CERRADA para la EMO, la
-EMM y la EMOS**, y le falta un solo tema para cerrar también la EMA y la EMMA.
+**Pendiente:** ninguno. Con el **tema 6, Fricción (pp. 177–179)** —añadido el
+25 jul 2026 en el sub-lote 27, 20 reactivos— la Unidad 5 queda **CERRADA para los
+cinco planteles** que la piden: la EMO (`FIS-03`), la EMM y la EMOS (`FG-03`) y la
+**EMA y la EMMA** (`FIS-02`), que eran las únicas que pedían el tema 6.
 
 ## Cómo se escriben estos reactivos
 
@@ -3949,4 +3955,335 @@ De acuerdo con el libro de Física, ¿importa si las direcciones de las partícu
 
 ---
 
-**Reactivos en este archivo:** 232
+## Sub-lote 27 · Fricción (pp. 177–179) — tema 6
+
+> El tema 6 (Fricción) abarca las pp. 177–183, pero la teoría vive sólo en las
+> pp. 177–179 (definición, fricción estática y dinámica, sus coeficientes, y
+> ventajas y desventajas). Las pp. 180–183 son "Resolución de problemas de
+> fricción" y "Ejercicios propuestos": práctica, fuera por la norma de teoría
+> sobre práctica. Desfase de la copia de la EMA en este tramo: **+13** (hoja 190 =
+> p. 177 impresa), no +12 como en el tramo del tema 4.
+
+### 233
+
+En relación con el libro de Física, ¿qué se presenta siempre que se quiere desplazar un cuerpo que está en contacto con otro?
+
+- A. Una fuerza llamada fricción que se opone a su deslizamiento.
+- B. Una fuerza llamada normal que favorece su deslizamiento.
+- C. Una fuerza llamada tensión que se opone a su deslizamiento.
+- D. Una fuerza llamada gravedad que se opone a su deslizamiento.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 177
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<Siempre que se quiere desplazar un cuerpo que está en contacto con otro se presenta una fuerza llamada fricción que se opone a su deslizamiento.>
+
+### 234
+
+En relación con el libro de Física, ¿respecto a qué es opuesta la fuerza de fricción o de rozamiento sobre un cuerpo?
+
+- A. Es opuesta a su movimiento, o movimiento inminente respecto de la superficie.
+- B. Es opuesta a la fuerza normal que actúa sobre la superficie.
+- C. Es opuesta al peso del cuerpo respecto de la superficie.
+- D. Es opuesta a la fuerza aplicada por la superficie sobre el cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 177
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<La fuerza de fricción o de rozamiento sobre un cuerpo es opuesta a su movimiento, o movimiento inminente respecto de la superficie.>
+
+### 235
+
+En relación con el libro de Física, ¿qué tipo de fuerza es la fricción respecto a las superficies en contacto?
+
+- A. Una fuerza tangencial, paralela a las superficies que están en contacto.
+- B. Una fuerza normal, perpendicular a las superficies que están en contacto.
+- C. Una fuerza radial, dirigida hacia el centro de las superficies en contacto.
+- D. Una fuerza vertical, opuesta al peso de las superficies en contacto.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 177
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<La fricción es una fuerza tangencial, paralela a las superficies que están en contacto.>
+
+### 236
+
+En relación con el libro de Física, ¿cuáles son los dos tipos de fuerza de fricción?
+
+- A. Estática y dinámica o de movimiento.
+- B. Tangencial y normal.
+- C. Positiva y negativa.
+- D. Interna y externa.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 177
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<Existen dos tipos de fuerza de fricción: estática y dinámica o de movimiento.>
+
+### 237
+
+En relación con el libro de Física, ¿qué es la fuerza de fricción estática?
+
+- A. La reacción que presenta un cuerpo en reposo oponiéndose a su deslizamiento sobre otra superficie.
+- B. La reacción que presenta un cuerpo en movimiento oponiéndose a su deslizamiento sobre otra superficie.
+- C. La fuerza que se requiere aplicar para que un cuerpo se deslice a velocidad constante sobre otro.
+- D. La fuerza tangencial que mantiene unido un cuerpo en reposo a otra superficie.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 177
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<La fuerza de fricción estática es la reacción que presenta un cuerpo en reposo oponiéndose a su deslizamiento sobre otra superficie.>
+
+### 238
+
+En relación con el libro de Física, ¿qué magnitud tiene la fuerza de fricción dinámica?
+
+- A. Una magnitud igual a la que se requiere aplicar para que un cuerpo se deslice a velocidad constante sobre otro.
+- B. Una magnitud igual a la que se requiere aplicar para que un cuerpo en reposo inicie su movimiento.
+- C. Una magnitud igual al peso del cuerpo que se desliza sobre otro.
+- D. Una magnitud igual a la fuerza normal entre las superficies en contacto.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 177
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<La fuerza de fricción dinámica tiene una magnitud igual a la que se requiere aplicar para que un cuerpo se deslice a velocidad constante sobre otro.>
+
+### 239
+
+En relación con el libro de Física, ¿cómo es la magnitud de la fuerza máxima de fricción estática comparada con la de fricción dinámica?
+
+- A. Será en cualquier situación un poco mayor que la de fricción dinámica.
+- B. Será en cualquier situación un poco menor que la de fricción dinámica.
+- C. Será en cualquier situación exactamente igual a la de fricción dinámica.
+- D. Será en cualquier situación el doble de la de fricción dinámica.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 177
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<La magnitud de la fuerza máxima de fricción estática será en cualquier situación un poco mayor que la de fricción dinámica, ya que se requiere aplicar más fuerza para lograr que un cuerpo inicie su movimiento, que la necesaria para que lo conserve después a velocidad constante.>
+
+### 240
+
+En relación con el libro de Física, ¿cuándo se alcanza la fuerza máxima estática (Fme)?
+
+- A. Un instante antes de que el cuerpo inicie su deslizamiento.
+- B. Un instante después de que el cuerpo inicia su deslizamiento.
+- C. Mientras el cuerpo se desliza a velocidad constante.
+- D. Cuando el cuerpo alcanza su velocidad terminal.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 178
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<La fuerza máxima estática (Fme) se alcanza un instante antes de que el cuerpo inicie su deslizamiento.>
+
+### 241
+
+En relación con el libro de Física, ¿de qué es directamente proporcional la magnitud de la fuerza máxima estática (Fme)?
+
+- A. De la magnitud de la fuerza normal (N) que tiende a mantener unidas ambas superficies debido al peso.
+- B. De la magnitud de la fuerza tangencial que desliza ambas superficies.
+- C. Del área de contacto entre ambas superficies.
+- D. De la velocidad con que se desliza el cuerpo sobre la superficie.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 178
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<La magnitud de la fuerza máxima estática (Fme) es directamente proporcional a la magnitud de la fuerza normal (N) que tiende a mantener unidas ambas superficies debido al peso.>
+
+### 242
+
+En relación con el libro de Física, por definición, ¿qué es el coeficiente de fricción estático?
+
+- A. La relación entre la magnitud de la fuerza máxima de fricción estática y la magnitud de la normal.
+- B. La relación entre la magnitud de la fuerza normal y la magnitud de la fuerza máxima de fricción estática.
+- C. El producto de la magnitud de la fuerza máxima de fricción estática por la magnitud de la normal.
+- D. La relación entre la magnitud de la fuerza de fricción dinámica y la magnitud de la normal.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 178
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<Por definición, el coeficiente de fricción estático es la relación entre la magnitud de la fuerza máxima de fricción estática y la magnitud de la normal.>
+
+### 243
+
+En relación con el libro de Física, una vez iniciado el movimiento, ¿cómo se comporta la fuerza de fricción dinámica respecto a la velocidad?
+
+- A. Se mantiene constante, independientemente de que la magnitud de la velocidad sea grande o pequeña.
+- B. Aumenta a medida que aumenta la magnitud de la velocidad.
+- C. Disminuye a medida que aumenta la magnitud de la velocidad.
+- D. Se vuelve cero cuando la velocidad es constante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 178
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<Una vez iniciado el movimiento la fuerza de fricción dinámica se mantiene constante, independientemente de que la magnitud de la velocidad sea grande o pequeña.>
+
+### 244
+
+En relación con el libro de Física, ¿en qué sentido actúa la fuerza de fricción dinámica respecto al movimiento del bloque?
+
+- A. En sentido contrario al movimiento del bloque, provocando una aceleración negativa y un frenado.
+- B. En el mismo sentido del movimiento del bloque, provocando una aceleración positiva.
+- C. En sentido perpendicular al movimiento del bloque, sin afectar su velocidad.
+- D. En sentido contrario a la fuerza normal, levantando al bloque.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 178
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<La fuerza de fricción dinámica actuará siempre en la misma dirección, pero en sentido contrario al movimiento del bloque, es decir, en sentido contrario a la velocidad, provocando una aceleración negativa y consecuentemente un frenado.>
+
+### 245
+
+En relación con el libro de Física, por definición, ¿qué es el coeficiente de fricción dinámico?
+
+- A. La relación entre la magnitud de la fuerza de fricción dinámica y la magnitud de la fuerza normal que tiende a mantener unidas dos superficies.
+- B. La relación entre la magnitud de la fuerza normal y la magnitud de la fuerza de fricción dinámica.
+- C. La relación entre la magnitud de la fuerza máxima de fricción estática y la magnitud de la normal.
+- D. El producto de la magnitud de la fuerza de fricción dinámica por la magnitud de la normal.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 178
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<Por definición, el coeficiente de fricción dinámico es la relación entre la magnitud de la fuerza de fricción dinámica y la magnitud de la fuerza normal que tiende a mantener unidas dos superficies.>
+
+### 246
+
+En relación con el libro de Física, ¿tienen unidades los coeficientes de fricción?
+
+- A. No, son adimensionales, ya que resultan de dividir dos magnitudes de fuerzas.
+- B. Sí, se expresan en newtons (N).
+- C. Sí, se expresan en newtons por metro (N/m).
+- D. Sí, se expresan en metros sobre segundo (m/s).
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 178
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<Como se observa, es adimensional, o sea que carece de unidades, ya que es el resultado de dividir dos magnitudes de fuerzas.>
+
+### 247
+
+En relación con el libro de Física, ¿de qué depende la magnitud de la fricción?
+
+- A. Del grado de rugosidad de la superficie; en las superficies lisas la fricción es de una magnitud menor.
+- B. Del grado de rugosidad de la superficie; en las superficies lisas la fricción es de una magnitud mayor.
+- C. Del área de la superficie de deslizamiento; a mayor área, mayor fricción.
+- D. De la velocidad del cuerpo; a mayor velocidad, mayor fricción.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 178
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<Observaremos que la magnitud de la fricción depende del grado de rugosidad de la superficie, es decir, que en las superficies lisas la fricción es de una magnitud menor.>
+
+### 248
+
+En relación con el libro de Física, ¿la magnitud de la fuerza de fricción depende de la superficie de deslizamiento del cuerpo?
+
+- A. Es prácticamente independiente de la superficie de deslizamiento.
+- B. Es directamente proporcional a la superficie de deslizamiento.
+- C. Es inversamente proporcional a la superficie de deslizamiento.
+- D. Es igual al doble de la superficie de deslizamiento.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 178
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<La magnitud de la fuerza de fricción es prácticamente independiente de la superficie de deslizamiento.>
+
+### 249
+
+En relación con el libro de Física, ¿por qué sin la fricción de los zapatos con el suelo tendríamos problemas al caminar?
+
+- A. Porque nos resbalaríamos.
+- B. Porque no podríamos detenernos.
+- C. Porque nos desgastaríamos los zapatos más rápido.
+- D. Porque avanzaríamos con mayor rapidez.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 179
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<La fuerza de fricción se manifiesta en nuestra vida diaria prácticamente en todo momento, pues se presenta cuando caminamos, ya que sin la fricción de los zapatos con el suelo nos resbalaríamos.>
+
+### 250
+
+En relación con el libro de Física, ¿qué inconveniente provoca la fricción respecto a la energía de las máquinas?
+
+- A. Una gran parte de la energía suministrada a las máquinas se pierde por el calor no aprovechable que se produce por la fricción.
+- B. Una gran parte de la energía suministrada a las máquinas se transforma en trabajo útil por la fricción.
+- C. La fricción evita por completo cualquier pérdida de energía en las máquinas.
+- D. La fricción incrementa la energía disponible en las máquinas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 179
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<Una gran parte de la energía suministrada a las máquinas se pierde por el calor no aprovechable que se produce por la fricción.>
+
+### 251
+
+En relación con el libro de Física, ¿qué usa el hombre para reducir la fricción?
+
+- A. Aceites, lubricantes, cojinetes de bolas o baleros, pues el rozamiento es menor en superficies rodantes que en las deslizantes.
+- B. Superficies rugosas en lugar de lisas, pues así el rozamiento disminuye.
+- C. Superficies deslizantes en lugar de rodantes, pues así el rozamiento disminuye.
+- D. Mayor peso sobre las superficies, pues así el rozamiento disminuye.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 179
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<Actualmente, el hombre ha encontrado varias formas para reducir la fricción y para ello usa aceites, lubricantes, cojinetes de bolas o baleros, pues el rozamiento es menor en superficies rodantes que en las deslizantes.>
+
+### 252
+
+En relación con el libro de Física, ¿qué se puede concluir sobre la magnitud de la fuerza de fricción?
+
+- A. Se puede aumentar o disminuir cuando sea conveniente.
+- B. Sólo se puede aumentar, nunca disminuir.
+- C. Sólo se puede disminuir, nunca aumentar.
+- D. No se puede modificar de ninguna manera.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 179
+**Tema:** U5 t6 · fricción
+**Subtema:** física · dinámica
+
+<De lo anterior podemos concluir que la magnitud de la fuerza de fricción se puede aumentar o disminuir cuando sea conveniente.>
+
+---
+
+**Reactivos en este archivo:** 252

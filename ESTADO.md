@@ -18,7 +18,7 @@ _Regenerado el 2026-07-26._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 5138 | abiertas: EMM · Biología, algebra-baldor · Álgebra, fisica-perez-montiel · Física |
+| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 5181 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -78,15 +78,12 @@ _Regenerado el 2026-07-26._
 | fisica-perez-montiel · Física · Unidad 1 · Introducción al conocimiento de la Física | 20 | ninguno. La Unidad 1 (temas 4–7, únicos que pide el temario) queda cerrada. Con esta unidad, **la materia Física queda CERRADA para la EMO** (`FIS-03-2026`): están escritas y con clave `**Tema:**` todas sus unidades — U1, U2, U4, U5, U6, U8 y U11. |
 | fisica-perez-montiel · Física · Unidad 2 · Unidades y mediciones | 15 | ninguno. La Unidad 2 (temas 1, 3, 4 y 8, únicos que pide el temario) queda cerrada. **La materia Física está CERRADA para la EMO** (`FIS-03-2026`): verificado tema por tema contra `temarios.json` el 24 jul 2026, todas las unidades que pide —U1, U2, U4, U5, U6, U8 y U11— están escritas y con clave `**Tema:**` para que el importador llame exactamente su selección. |
 | fisica-perez-montiel · Física · Unidad 3 · Vectores | 48 | ninguno. La Unidad 3 está cerrada, y con la Unidad 11 quedó cerrada toda la materia Física (`FG-03-2026`) en lo que piden los temarios de la EMO y la EMOS: Unidades 3 Vectores, 4 Cinemática, 5 Dinámica, 6 Materia y sus Propiedades, 8 Hidrostática y 11 Termología, siempre sólo definiciones y conceptos, saltando ejercicios y problemas resueltos. |
-| fisica-perez-montiel · Física · Unidad 4 · Cinemática | 128 | el **tema 7, Velocidad instantánea (p. 76)**, que pide el temario `FIS-02-2026` de la EMA y la EMMA. No estaba en el paquete de esta tanda, que se armó sumando la EMO y la EMOS. Con eso la unidad queda **CERRADA para la EMO, la EMM y la EMOS**, y le falta un solo tema para cerrar también la EMA y la EMMA. |
-| fisica-perez-montiel · Física · Unidad 5 · Dinámica | 232 | el **tema 6, Fricción (pp. 177–183)**, que pide el temario `FIS-02-2026` de la EMA y la EMMA. No estaba en el paquete de esta tanda, que se armó sumando la EMO y la EMOS. Con eso la unidad queda **CERRADA para la EMO, la EMM y la EMOS**, y le falta un solo tema para cerrar también la EMA y la EMMA. |
+| fisica-perez-montiel · Física · Unidad 4 · Cinemática | 133 | ninguno. Con el **tema 7, Velocidad instantánea (p. 76)** —añadido el 25 jul 2026 en el sub-lote 16, 5 reactivos— la Unidad 4 queda **CERRADA para los cinco planteles** que la piden: la EMO (`FIS-03`), la EMM y la EMOS (`FG-03`) y la **EMA y la EMMA** (`FIS-02`), que eran las únicas que pedían el tema 7. Desfase de la copia de la EMA reverificado aquí: hoja 88 = p. 76 impresa (+12). |
+| fisica-perez-montiel · Física · Unidad 5 · Dinámica | 252 | ninguno. Con el **tema 6, Fricción (pp. 177–179)** —añadido el 25 jul 2026 en el sub-lote 27, 20 reactivos— la Unidad 5 queda **CERRADA para los cinco planteles** que la piden: la EMO (`FIS-03`), la EMM y la EMOS (`FG-03`) y la **EMA y la EMMA** (`FIS-02`), que eran las únicas que pedían el tema 6. |
 | fisica-perez-montiel · Física · Unidad 6 · Materia y sus Propiedades | 49 | ninguno. La Unidad 6 queda cerrada para la EMO (temas 1, 2), la EMM y la EMMA (temas 1, 2, 3). |
 | fisica-perez-montiel · Física · Unidad 8 · Hidrostática | 45 | ninguno de contenido. La Unidad 8 queda cerrada para la EMO (temas 1, 2, 3), la EMOS (1, 3), la EMA (2, 3, 4, 5) y la EMMA (1, 2, 3, 4). Queda una decisión de Carlo sobre las "Generalidades" (ver el aviso del encabezado). |
-| fisica-perez-montiel · Física · Unidad 11 · Termología | 56 | _no declarado_ |
-| **Total** | **5138** | |
-
-> 1 archivo(s) no declaran pendiente en su encabezado, así que este resumen **no puede afirmar que estén cerrados**. Para que aparezcan como
-> terminados, agrégales una línea `**Pendiente:**` que lo diga.
+| fisica-perez-montiel · Física · Unidad 11 · Termología | 74 | ninguno. Con el **tema 4 · Dilatación de los cuerpos** —añadido el 25 jul 2026 en el sub-lote 10, 18 reactivos— la Unidad 11 queda **CERRADA para los tres planteles** que la piden: la EMO (temas 1, 2, 3, 5, 6, 7, 12), la EMM (1, 2, 3, 5, 7, 12) y la **EMA** (1, 3, 4, 5, 12). El tema 4 era el único hueco vivo de la unidad; ya no queda ninguno. |
+| **Total** | **5181** | |
 
 ## Personalidad (remaster)
 
