@@ -277,19 +277,68 @@ export class ExamenesService {
   }
 
   /**
-   * Arma el examen CULTURAL para el simulador, desde el árbol de oferta.
+   * Arma los bloques del examen cultural LEYENDO LAS TABLAS (Temario → MateriaTemario
+   * → MateriaTemarioCapitulo), la fuente nueva editable desde el panel. El reparto
+   * sale de MateriaTemario.numPreguntas y los capítulos de la selección guardada.
    *
-   * Es el puente entre el Examen de la base (que trae plantelId numérico) y
-   * armarExamenCultural (que pide el CÓDIGO de plantel). Resuelve el código con
-   * CODIGO_POR_PLANTEL, reusa armarExamenCultural —que lee el puente y baraja las
-   * opciones POR INTENTO— y devuelve la MISMA forma que el camino plano de
-   * armarExamen ({...examen, bloques}), para que el simulador y los intentos no
-   * cambien.
+   * Devuelve los bloques ya armados ({ nombre, reactivos }) o `null` si el plantel
+   * aún no tiene un Temario PUBLICADO para el año — en cuyo caso el llamador cae al
+   * respaldo por JSON (armarExamenCultural), para no dejar a nadie sin examen.
+   */
+  private async armarBloquesDesdeTemario(
+    plantelId: number,
+    anio: number | null,
+  ): Promise<{ nombre: string; reactivos: unknown[] }[] | null> {
+    const temario = await this.prisma.temario.findFirst({
+      where: {
+        plantelId,
+        estado: 'PUBLICADO',
+        ...(anio != null ? { anio } : {}),
+      },
+      orderBy: { anio: 'desc' }, // si no se pide año, el más reciente publicado
+      include: {
+        materias: {
+          orderBy: { orden: 'asc' },
+          include: { capitulos: { select: { capituloId: true } } },
+        },
+      },
+    });
+    if (!temario) return null;
+
+    const bloques: { nombre: string; reactivos: unknown[] }[] = [];
+    for (const m of temario.materias) {
+      const capituloIds = m.capitulos.map((c) => c.capituloId);
+      const disponibles = await this.prisma.reactivo.findMany({
+        where: {
+          banco: 'cultural',
+          temaBanco: { capitulo: { id: { in: capituloIds } } },
+        },
+        // OJO: sin respuestaCorrecta — la respuesta NO se filtra al cliente.
+        select: { id: true, enunciado: true, opciones: true, tipo: true, tema: true },
+      });
+      // Mismo barajado POR INTENTO que el camino JSON: se elige QUÉ reactivos entran
+      // y se barajan las OPCIONES de cada uno en cada llamada.
+      const elegidos = this.mezclar(disponibles)
+        .slice(0, m.numPreguntas)
+        .map((r) => ({ ...r, opciones: this.mezclar(r.opciones as string[]) }));
+      bloques.push({ nombre: m.nombre, reactivos: elegidos });
+    }
+    return bloques;
+  }
+
+  /**
+   * Arma el examen CULTURAL para el simulador.
    *
-   * Los bloques del cultural son SINTÉTICOS: sus reactivos cuelgan de un Tema, no
-   * de un Bloque de la base, así que se les fabrica el id/orden/tiempoLimite que
-   * el front espera. El reloj del cultural es global (examen.duracionMin), de modo
-   * que tiempoLimite por bloque es sólo informativo.
+   * Intenta armar desde las TABLAS Temario (armarBloquesDesdeTemario, la fuente
+   * nueva editable). Si el plantel aún no tiene Temario publicado, cae al RESPALDO
+   * por JSON (armarExamenCultural, vía CODIGO_POR_PLANTEL). Devuelve la MISMA forma
+   * que el camino plano de armarExamen ({...examen, bloques}), para que el simulador
+   * y los intentos no cambien.
+   *
+   * Los bloques del cultural son SINTÉTICOS: sus reactivos cuelgan de un Tema, no de
+   * un Bloque de la base, así que se les fabrica el id/orden/tiempoLimite que el
+   * front espera. El reloj del cultural es global (examen.duracionMin), de modo que
+   * tiempoLimite por bloque es sólo informativo.
    */
   private async armarCulturalParaSimulador(examen: {
     id: number;
@@ -306,20 +355,30 @@ export class ExamenesService {
         'El examen cultural no tiene plantel asignado; no se puede resolver su temario.',
       );
     }
-    const plantel = await this.prisma.plantel.findUnique({
-      where: { id: examen.plantelId },
-      select: { nombre: true },
-    });
-    const codigo = plantel ? this.CODIGO_POR_PLANTEL[plantel.nombre] : undefined;
-    if (!codigo) {
-      throw new NotFoundException(
-        `El plantel "${plantel?.nombre ?? examen.plantelId}" no tiene un código de temario conocido para el examen cultural.`,
-      );
+
+    // Fuente NUEVA: las tablas Temario (editables desde el panel). Si el plantel aún
+    // no tiene Temario publicado, se cae al RESPALDO por JSON para no dejar a nadie
+    // sin examen durante la transición.
+    let bloquesArmados = await this.armarBloquesDesdeTemario(
+      examen.plantelId,
+      examen.anio,
+    );
+    if (!bloquesArmados) {
+      const plantel = await this.prisma.plantel.findUnique({
+        where: { id: examen.plantelId },
+        select: { nombre: true },
+      });
+      const codigo = plantel ? this.CODIGO_POR_PLANTEL[plantel.nombre] : undefined;
+      if (!codigo) {
+        throw new NotFoundException(
+          `El plantel "${plantel?.nombre ?? examen.plantelId}" no tiene Temario en la base ni un código de temario conocido para el examen cultural.`,
+        );
+      }
+      const armado = await this.armarExamenCultural(codigo);
+      bloquesArmados = armado.bloques;
     }
 
-    const armado = await this.armarExamenCultural(codigo);
-
-    const bloques = armado.bloques.map((b, i) => ({
+    const bloques = bloquesArmados.map((b, i) => ({
       id: i + 1,
       examenId: examen.id,
       nombre: b.nombre,
