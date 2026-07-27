@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 1 · Funciones
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 1. Funciones → EN CURSO (§1.1 hecho)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 1. Funciones → EN CURSO (§1.1–§1.2 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 1 lo pide **la EMI** (Escuela Militar de
@@ -56,7 +56,16 @@ práctica.
   algebraicas; trigonométricas; exponenciales; logarítmicas; trascendentes y la
   catenaria (pp. 7–11).
 
-**Pendiente:** faltan las secciones **§1.2**, **§1.3** y **§1.4** para cerrar el
+**§1.2 · COMPLETO** en 23 reactivos (reactivos 52–74), toda la teoría de la sección
+(pp. 14–18): sumas, restas, productos y cocientes de funciones y la multiplicación
+por una constante; la composición ƒ ∘ g (definición, dominio, procedimiento y que
+**no es conmutativa**); las reglas de traslación vertical y horizontal; y las
+fórmulas de cambio de escala y reflexión (estiramiento y compresión, vertical y
+horizontal; reflexión respecto a los ejes). Notación verificada contra las hojas
+renderizadas 34 y 35.
+
+**Pendiente:** faltan las secciones **§1.3 (Funciones trigonométricas)** y **§1.4
+(Graficación con software)** para cerrar el
 capítulo 1; y después los capítulos **2 (Límites y continuidad)** y **3 (Derivadas)**,
 que el temario de la EMI (`CDI-02-2026`) pide completos. **Cálculo NO está cerrada
 para la EMI.** Este archivo sostiene el pendiente de la materia hasta que exista el
@@ -900,3 +909,372 @@ En relación con el libro de Cálculo, la catenaria es la curva de un cable que 
 El término catenario proviene del latín catena, que quiere decir cadena.
 
 > Dato olvidable puro: catena = cadena.
+
+---
+
+## Sub-lote 11 · Sumas, restas, productos y cocientes de funciones (p. 14)
+
+### 52
+
+En relación con el libro de Cálculo, ¿qué operaciones pueden hacerse entre funciones para generar nuevas funciones?
+
+- A. Sumarse, restarse, multiplicarse y dividirse (excepto cuando el denominador es cero)
+- B. Únicamente sumarse y restarse
+- C. Sólo componerse una con otra
+- D. Únicamente multiplicarse por un número real
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 14
+**Subtema:** Combinación de funciones · Operaciones
+
+Al igual que los números, las funciones pueden sumarse, restarse, multiplicarse y dividirse (excepto cuando el denominador es cero) para generar nuevas funciones.
+
+### 53
+
+En relación con el libro de Cálculo, si ƒ y g son funciones, ¿cómo se define la función suma (ƒ + g)(x)?
+
+- A. (ƒ + g)(x) = ƒ(x) + g(x)
+- B. (ƒ + g)(x) = ƒ(x)g(x)
+- C. (ƒ + g)(x) = ƒ(g(x))
+- D. (ƒ + g)(x) = ƒ(x) − g(x)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 14
+**Subtema:** Combinación de funciones · Suma
+
+(ƒ + g)(x) = ƒ(x) + g(x)
+
+### 54
+
+En relación con el libro de Cálculo, si ƒ y g son funciones, ¿cómo se define la función producto (ƒg)(x)?
+
+- A. (ƒg)(x) = ƒ(x)g(x)
+- B. (ƒg)(x) = ƒ(x) + g(x)
+- C. (ƒg)(x) = ƒ(g(x))
+- D. (ƒg)(x) = ƒ(x)/g(x)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 14
+**Subtema:** Combinación de funciones · Producto
+
+(ƒg)(x) = ƒ(x)g(x).
+
+### 55
+
+En relación con el libro de Cálculo, ¿bajo qué condición puede definirse la función cociente (ƒ/g)(x) = ƒ(x)/g(x)?
+
+- A. En cualquier punto del dominio común de ƒ y g en el que g(x) ≠ 0
+- B. En cualquier punto del dominio común, sin excepción
+- C. Sólo donde ƒ(x) = 0
+- D. Sólo donde ƒ(x) = g(x)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 14
+**Subtema:** Combinación de funciones · Cociente
+
+Para cualquier punto de D(ƒ) ∩ D(g) en el que g(x) ≠ 0, también podemos definir la función ƒ/g mediante la fórmula (ƒ/g)(x) = ƒ(x)/g(x), donde g(x) ≠ 0.
+
+### 56
+
+En relación con el libro de Cálculo, si c es un número real, ¿cómo se define la función cƒ (la función multiplicada por una constante)?
+
+- A. (cƒ)(x) = cƒ(x), para toda x en el dominio de ƒ
+- B. (cƒ)(x) = ƒ(x) + c
+- C. (cƒ)(x) = ƒ(cx)
+- D. (cƒ)(x) = ƒ(x)/c
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 14
+**Subtema:** Combinación de funciones · Multiplicación por constante
+
+Las funciones también pueden multiplicarse por constantes: si c es un número real, la función cƒ está definida para toda x en el dominio de ƒ mediante (cƒ)(x) = cƒ(x).
+
+---
+
+## Sub-lote 12 · Composición de funciones (p. 15)
+
+### 57
+
+En relación con el libro de Cálculo, ¿cómo se define la función composición ƒ ∘ g ("ƒ compuesta con g")?
+
+- A. (ƒ ∘ g)(x) = ƒ(g(x))
+- B. (ƒ ∘ g)(x) = ƒ(x)g(x)
+- C. (ƒ ∘ g)(x) = g(ƒ(x))
+- D. (ƒ ∘ g)(x) = ƒ(x) + g(x)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 15
+**Subtema:** Composición de funciones · Definición
+
+Si ƒ y g son funciones, la función composición ƒ ∘ g ("ƒ compuesta con g") está definida por (ƒ ∘ g)(x) = ƒ(g(x)).
+
+### 58
+
+En relación con el libro de Cálculo, ¿en qué consiste el dominio de ƒ ∘ g?
+
+- A. En los números x del dominio de g para los cuales g(x) se encuentra en el dominio de ƒ
+- B. En todos los números reales sin excepción
+- C. En los números x del dominio de ƒ únicamente
+- D. En los números x donde ƒ(x) = g(x)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 15
+**Subtema:** Composición de funciones · Dominio
+
+El dominio de ƒ ∘ g consiste en los números x del dominio de g para los cuales g(x) se encuentra en el dominio de ƒ.
+
+### 59
+
+En relación con el libro de Cálculo, ¿cuándo puede formarse la composición ƒ ∘ g?
+
+- A. Cuando el rango de g está incluido en el dominio de ƒ
+- B. Cuando el dominio de g está incluido en el rango de ƒ
+- C. Cuando ƒ y g tienen el mismo dominio
+- D. Cuando ƒ y g son ambas lineales
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 15
+**Subtema:** Composición de funciones · Condición
+
+La definición implica que ƒ ∘ g puede formarse cuando el rango de g está incluido en el dominio de ƒ.
+
+### 60
+
+En relación con el libro de Cálculo, para encontrar (ƒ ∘ g)(x), ¿en qué orden se procede?
+
+- A. Primero se determina g(x) y, luego, se encuentra ƒ(g(x))
+- B. Primero se determina ƒ(x) y, luego, se encuentra g(ƒ(x))
+- C. Se multiplican ƒ(x) y g(x)
+- D. Se suman ƒ(x) y g(x)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 15
+**Subtema:** Composición de funciones · Procedimiento
+
+Para encontrar (ƒ ∘ g)(x), primero determinamos g(x) y, luego, encontramos ƒ(g(x)).
+
+### 61
+
+En relación con el libro de Cálculo, según el libro, ¿cómo son entre sí las funciones ƒ ∘ g y g ∘ ƒ?
+
+- A. Por lo regular, son muy diferentes
+- B. Siempre son idénticas
+- C. Siempre tienen el mismo dominio
+- D. Siempre es una la inversa de la otra
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 15
+**Subtema:** Composición de funciones · No conmutatividad
+
+Las funciones ƒ ∘ g y g ∘ ƒ, por lo regular, son muy diferentes.
+
+> Dato fino: componer no es conmutativo; el orden importa.
+
+---
+
+## Sub-lote 13 · Traslación de la gráfica de una función (pp. 16–17)
+
+### 62
+
+En relación con el libro de Cálculo, ¿de qué manera se obtiene una nueva función a partir de una que ya existe, para trasladar su gráfica?
+
+- A. Sumando una constante a cada salida de la función existente, o bien, a su variable de entrada
+- B. Multiplicando siempre la función por cero
+- C. Intercambiando su dominio con su rango
+- D. Eliminando su variable independiente
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 16
+**Subtema:** Traslación de gráficas · Idea general
+
+Una manera de obtener una nueva función a partir de una que ya existe es sumando una constante a cada salida de la función existente, o bien, a su variable de entrada.
+
+### 63
+
+En relación con el libro de Cálculo, según las reglas de traslación, la gráfica de y = ƒ(x) + k con k > 0...
+
+- A. desplaza la gráfica de ƒ hacia arriba, k unidades
+- B. desplaza la gráfica de ƒ hacia abajo, k unidades
+- C. desplaza la gráfica de ƒ a la derecha, k unidades
+- D. desplaza la gráfica de ƒ a la izquierda, k unidades
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 16
+**Subtema:** Traslación de gráficas · Traslación vertical
+
+y = ƒ(x) + k desplaza la gráfica de ƒ hacia arriba, k unidades si k > 0.
+
+### 64
+
+En relación con el libro de Cálculo, según las reglas de traslación, la gráfica de y = ƒ(x + h) con h > 0...
+
+- A. desplaza la gráfica de ƒ a la izquierda, h unidades
+- B. desplaza la gráfica de ƒ a la derecha, h unidades
+- C. desplaza la gráfica de ƒ hacia arriba, h unidades
+- D. desplaza la gráfica de ƒ hacia abajo, h unidades
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 16
+**Subtema:** Traslación de gráficas · Traslación horizontal
+
+y = ƒ(x + h) desplaza la gráfica de ƒ a la izquierda, h unidades si h > 0.
+
+> Dato contraintuitivo: sumar dentro del argumento (h > 0) mueve la gráfica a la **izquierda**, no a la derecha.
+
+### 65
+
+En relación con el libro de Cálculo, según las reglas de traslación, la gráfica de y = ƒ(x + h) con h < 0...
+
+- A. desplaza la gráfica de ƒ a la derecha, |h| unidades
+- B. desplaza la gráfica de ƒ a la izquierda, |h| unidades
+- C. desplaza la gráfica de ƒ hacia abajo, |h| unidades
+- D. no desplaza la gráfica
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 16
+**Subtema:** Traslación de gráficas · Traslación horizontal
+
+y = ƒ(x + h) desplaza la gráfica de ƒ a la derecha, |h| unidades si h < 0.
+
+---
+
+## Sub-lote 14 · Cambio de escala y reflexión de la gráfica (pp. 16–17)
+
+### 66
+
+En relación con el libro de Cálculo, ¿qué significa modificar la escala de la gráfica de una función y = ƒ(x)?
+
+- A. Estirar la gráfica o comprimirla, ya sea vertical u horizontalmente
+- B. Trasladarla hacia arriba o hacia abajo
+- C. Girarla 90 grados
+- D. Borrar su parte negativa
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 16
+**Subtema:** Cambio de escala · Definición
+
+Modificar la escala de la gráfica de una función y = ƒ(x) significa estirar la gráfica o comprimirla, ya sea vertical u horizontalmente.
+
+### 67
+
+En relación con el libro de Cálculo, ¿cómo se logra modificar la escala de la gráfica de una función?
+
+- A. Multiplicando la función ƒ, o la variable independiente x, por una constante adecuada c
+- B. Sumando una constante a la función
+- C. Cambiando el nombre de la variable
+- D. Restando el dominio del rango
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 16
+**Subtema:** Cambio de escala · Cómo se logra
+
+Esto se logra multiplicando la función ƒ, o la variable independiente x, por una constante adecuada c.
+
+### 68
+
+En relación con el libro de Cálculo, las reflexiones con respecto a los ejes de coordenadas son los casos especiales cuando...
+
+- A. c = −1
+- B. c = 0
+- C. c = 1
+- D. c = 2
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 16
+**Subtema:** Cambio de escala · Reflexión
+
+Las reflexiones con respecto a los ejes de coordenadas son los casos especiales cuando c = −1.
+
+### 69
+
+En relación con el libro de Cálculo, para c > 1, ¿qué efecto tiene y = cƒ(x) sobre la gráfica de ƒ?
+
+- A. La estira verticalmente por un factor de c
+- B. La comprime verticalmente por un factor de c
+- C. La estira horizontalmente por un factor de c
+- D. La refleja respecto al eje x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 17
+**Subtema:** Cambio de escala · Estiramiento vertical
+
+y = cƒ(x) estira verticalmente la gráfica de ƒ por un factor de c.
+
+### 70
+
+En relación con el libro de Cálculo, para c > 1, ¿qué efecto tiene y = (1/c)ƒ(x) sobre la gráfica de ƒ?
+
+- A. La comprime verticalmente por un factor de c
+- B. La estira verticalmente por un factor de c
+- C. La comprime horizontalmente por un factor de c
+- D. La refleja respecto al eje y
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 17
+**Subtema:** Cambio de escala · Compresión vertical
+
+y = (1/c)ƒ(x) comprime verticalmente la gráfica de ƒ por un factor de c.
+
+### 71
+
+En relación con el libro de Cálculo, para c > 1, ¿qué efecto tiene y = ƒ(cx) sobre la gráfica de ƒ?
+
+- A. La comprime horizontalmente por un factor de c
+- B. La estira horizontalmente por un factor de c
+- C. La comprime verticalmente por un factor de c
+- D. La estira verticalmente por un factor de c
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 17
+**Subtema:** Cambio de escala · Compresión horizontal
+
+y = ƒ(cx) comprime horizontalmente la gráfica de ƒ por un factor de c.
+
+> Dato contraintuitivo: multiplicar la entrada x por c > 1 **comprime** (no estira) la gráfica horizontalmente.
+
+### 72
+
+En relación con el libro de Cálculo, para c > 1, ¿qué efecto tiene y = ƒ(x/c) sobre la gráfica de ƒ?
+
+- A. La estira horizontalmente por un factor de c
+- B. La comprime horizontalmente por un factor de c
+- C. La estira verticalmente por un factor de c
+- D. La refleja respecto al eje x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 17
+**Subtema:** Cambio de escala · Estiramiento horizontal
+
+y = ƒ(x/c) estira horizontalmente la gráfica de ƒ por un factor de c.
+
+### 73
+
+En relación con el libro de Cálculo, ¿qué efecto tiene y = −ƒ(x) sobre la gráfica de ƒ?
+
+- A. La refleja con respecto al eje x
+- B. La refleja con respecto al eje y
+- C. La estira verticalmente
+- D. La desplaza hacia abajo
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 17
+**Subtema:** Cambio de escala · Reflexión respecto al eje x
+
+y = −ƒ(x) refleja la gráfica de ƒ con respecto al eje x.
+
+### 74
+
+En relación con el libro de Cálculo, ¿qué efecto tiene y = ƒ(−x) sobre la gráfica de ƒ?
+
+- A. La refleja con respecto al eje y
+- B. La refleja con respecto al eje x
+- C. La comprime horizontalmente
+- D. La desplaza a la izquierda
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 17
+**Subtema:** Cambio de escala · Reflexión respecto al eje y
+
+y = ƒ(−x) refleja la gráfica de ƒ con respecto al eje y.
+
+> Contraste que conviene fijar: −ƒ(x) refleja en el eje x (voltea arriba-abajo); ƒ(−x) refleja en el eje y (voltea izquierda-derecha).
