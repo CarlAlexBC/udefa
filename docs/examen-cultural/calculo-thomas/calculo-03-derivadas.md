@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 3 · Derivadas
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1 hecho)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.2 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 3 lo pide **la EMI** (Escuela Militar de
@@ -49,8 +49,16 @@ y su lectura ("ƒ prima de x₀"); la derivada de una función lineal; las cuatr
 interpretaciones del límite del cociente diferencial; y la tangente vertical.
 Notación verificada contra la hoja renderizada 124.
 
-**Pendiente:** faltan las secciones **§3.2, §3.3, §3.4, §3.5, §3.6, §3.7, §3.8 y
-§3.9** para cerrar el capítulo 3, y con él la materia Cálculo para la EMI. Este
+**§3.2 · COMPLETO** en 13 reactivos (reactivos 9–21), toda la teoría de la sección
+(pp. 110–114): la definición de la función derivada y la diferenciabilidad; la fórmula
+alternativa; la diferenciación y las **notaciones** (dy/dx, dƒ/dx, D f…); que dy/dx no
+es una razón; el origen de las notaciones (Newton y Leibniz); la diferenciabilidad en
+un intervalo y la derivada como límites laterales iguales; por qué una función no tiene
+derivada (esquina, cúspide); y el **Teorema 1** (diferenciable ⟹ continua) con su
+recíproco falso. Notación verificada contra la hoja renderizada 129.
+
+**Pendiente:** faltan las secciones **§3.3, §3.4, §3.5, §3.6, §3.7, §3.8 y §3.9** para
+cerrar el capítulo 3, y con él la materia Cálculo para la EMI. Este
 archivo (capítulo 3) es el último del temario de Cálculo: no quedan otros capítulos
 por empezar, así que sostiene el pendiente de la materia hasta que el propio
 capítulo 3 se cierre. **Cálculo NO está cerrada para la EMI.**
@@ -205,3 +213,222 @@ En relación con el libro de Cálculo, ¿cuándo una curva continua y = ƒ(x) ti
 **Subtema:** Derivadas · Tangente vertical
 
 Decimos que una curva continua y = ƒ(x) tiene una tangente vertical en el punto donde x = x₀, si el límite del cociente diferencial es ∞ o −∞.
+
+---
+
+## Sub-lote 4 · La función derivada (p. 110)
+
+### 9
+
+En relación con el libro de Cálculo, ¿cómo se define la derivada de la función ƒ(x) con respecto a la variable x?
+
+- A. Es la función ƒ' cuyo valor en x es ƒ'(x) = lím(h→0) [ƒ(x + h) − ƒ(x)]/h, siempre que tal límite exista
+- B. Es el número ƒ(x)/x
+- C. Es la función ƒ' cuyo valor en x es ƒ(x) − ƒ(0)
+- D. Es el límite de ƒ(x) cuando x → 0
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 110
+**Subtema:** Derivadas · Función derivada
+
+La derivada de la función ƒ(x) con respecto a la variable x es la función ƒ' cuyo valor en x es ƒ'(x) = lím(h→0) [ƒ(x + h) − ƒ(x)]/h, siempre y cuando tal límite exista.
+
+### 10
+
+En relación con el libro de Cálculo, ¿cuándo se dice que ƒ es diferenciable?
+
+- A. Si ƒ' existe en un punto x, ƒ es diferenciable en x; si ƒ' existe en todos los puntos de su dominio, ƒ es diferenciable
+- B. Si ƒ es continua en todo su dominio
+- C. Si ƒ tiene límite en un punto
+- D. Si ƒ es una función lineal
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 110
+**Subtema:** Derivadas · Diferenciabilidad
+
+Si ƒ' existe en un punto particular x, decimos que ƒ es diferenciable (tiene una derivada) en x. Si ƒ' existe en todos los puntos del dominio de ƒ, decimos que ƒ es diferenciable.
+
+### 11
+
+En relación con el libro de Cálculo, ¿cuál es la fórmula alternativa de la derivada (con z → x)?
+
+- A. ƒ'(x) = lím(z→x) [ƒ(z) − ƒ(x)]/(z − x)
+- B. ƒ'(x) = lím(z→x) [ƒ(z) + ƒ(x)]/(z + x)
+- C. ƒ'(x) = lím(z→0) [ƒ(z) − ƒ(x)]/z
+- D. ƒ'(x) = lím(z→x) (z − x)/[ƒ(z) − ƒ(x)]
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 110
+**Subtema:** Derivadas · Fórmula alternativa
+
+Una definición equivalente de la derivada es ƒ'(x) = lím(z→x) [ƒ(z) − ƒ(x)]/(z − x).
+
+---
+
+## Sub-lote 5 · Diferenciación y notaciones (pp. 110–112)
+
+### 12
+
+En relación con el libro de Cálculo, ¿cómo se llama el proceso de cálculo de una derivada?
+
+- A. Diferenciación
+- B. Integración
+- C. Factorización
+- D. Racionalización
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 110
+**Subtema:** Derivadas · Diferenciación
+
+El proceso de cálculo de una derivada se llama diferenciación.
+
+### 13
+
+En relación con el libro de Cálculo, ¿cuáles son notaciones alternativas de uso común para la derivada de y = ƒ(x)?
+
+- A. ƒ'(x) = y' = dy/dx = dƒ/dx = (d/dx)ƒ(x) = D(ƒ)(x) = Dₓƒ(x)
+- B. Únicamente ƒ'(x)
+- C. ∫ ƒ(x) dx
+- D. lím(x→∞) ƒ(x)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 111
+**Subtema:** Derivadas · Notaciones de la derivada
+
+Algunas de las notaciones alternativas de uso común para la derivada son ƒ'(x) = y' = dy/dx = dƒ/dx = (d/dx)ƒ(x) = D(ƒ)(x) = Dₓƒ(x).
+
+### 14
+
+En relación con el libro de Cálculo, según el libro, ¿cómo NO debe interpretarse el símbolo dy/dx?
+
+- A. No debe interpretarse como una razón (hasta que se presente la idea de "diferenciales" en la sección 3.9)
+- B. No debe interpretarse como una derivada
+- C. No debe interpretarse como un límite
+- D. No debe utilizarse nunca
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 112
+**Subtema:** Derivadas · El símbolo dy/dx
+
+El símbolo dy/dx no debe interpretarse como una razón (hasta que presentemos la idea de "diferenciales" en la sección 3.9).
+
+> Dato fino: dy/dx es un símbolo de operación, no (todavía) un cociente de cantidades.
+
+### 15
+
+En relación con el libro de Cálculo, ¿de qué notaciones provienen la "prima" (y', ƒ') y la "d/dx"?
+
+- A. La "prima" viene de la notación de Newton; la "d/dx" es similar a la de Leibniz
+- B. Ambas provienen de Newton
+- C. Ambas provienen de Leibniz
+- D. La "prima" viene de Leibniz; la "d/dx" de Newton
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 112
+**Subtema:** Derivadas · Origen de las notaciones
+
+Las notaciones "prima" y' y ƒ' provienen de la notación que usaba Newton para las derivadas. Las notaciones d/dx son similares a las que empleaba Leibniz.
+
+> Dato histórico: Newton → la prima; Leibniz → d/dx.
+
+---
+
+## Sub-lote 6 · Diferenciabilidad en intervalos y cuándo no hay derivada (pp. 112–114)
+
+### 16
+
+En relación con el libro de Cálculo, ¿cuándo una función y = ƒ(x) es diferenciable en un intervalo abierto?
+
+- A. Si tiene una derivada en cada punto del intervalo
+- B. Si es continua en el intervalo
+- C. Si tiene derivada en al menos un punto
+- D. Si su gráfica es una recta
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 112
+**Subtema:** Derivadas · Diferenciabilidad en un intervalo
+
+Una función y = ƒ(x) es diferenciable en un intervalo abierto (finito o infinito), si tiene una derivada en cada punto del intervalo.
+
+### 17
+
+En relación con el libro de Cálculo, según el teorema 6 de la sección 2.4, ¿cuándo una función tiene una derivada en un punto?
+
+- A. Si y sólo si tiene derivadas por la izquierda y por la derecha en ese punto, y estas derivadas laterales son iguales
+- B. Si tiene al menos una de las dos derivadas laterales
+- C. Si es continua en el punto
+- D. Si su gráfica pasa por el origen
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 112
+**Subtema:** Derivadas · Derivada y derivadas laterales
+
+Una función tiene una derivada en un punto si y sólo si tiene derivadas por la izquierda y por la derecha en ese punto, y si estas derivadas laterales son iguales.
+
+### 18
+
+En relación con el libro de Cálculo, cuando la gráfica de una función tiene una "esquina", ¿por qué no tiene derivada ahí?
+
+- A. Porque las derivadas laterales son diferentes
+- B. Porque la pendiente se aproxima a ∞ por ambos lados
+- C. Porque la función es discontinua
+- D. Porque la función oscila demasiado
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 113
+**Subtema:** Derivadas · Esquina
+
+Una esquina es donde las derivadas laterales son diferentes.
+
+### 19
+
+En relación con el libro de Cálculo, cuando la gráfica de una función tiene una "cúspide", ¿qué ocurre con la pendiente de la secante PQ?
+
+- A. Se aproxima a ∞ por un lado y a −∞ por el otro
+- B. Se aproxima a ∞ por ambos lados
+- C. Se aproxima a cero por ambos lados
+- D. Permanece constante
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 113
+**Subtema:** Derivadas · Cúspide
+
+Una cúspide es donde la pendiente de PQ se aproxima a ∞ por un lado y a −∞ por el otro.
+
+> Contraste: en la tangente vertical la pendiente tiende a ∞ (o a −∞) por ambos lados; en la cúspide, a ∞ por un lado y a −∞ por el otro.
+
+---
+
+## Sub-lote 7 · Las funciones diferenciables son continuas (p. 114)
+
+### 20
+
+En relación con el libro de Cálculo, según el Teorema 1, si ƒ tiene una derivada en x = c, ¿qué se concluye?
+
+- A. Que ƒ es continua en x = c
+- B. Que ƒ no está definida en x = c
+- C. Que ƒ tiene una esquina en x = c
+- D. Que ƒ es discontinua en x = c
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 114
+**Subtema:** Derivadas · Diferenciabilidad implica continuidad
+
+Si ƒ tiene una derivada en x = c, entonces, ƒ es continua en x = c.
+
+### 21
+
+En relación con el libro de Cálculo, ¿es cierto el recíproco del Teorema 1 (que una función continua siempre tiene derivada)?
+
+- A. No; el recíproco es falso: una función no necesariamente tiene derivada en un punto donde es continua (como la función valor absoluto)
+- B. Sí; toda función continua tiene derivada
+- C. Sí, salvo en el origen
+- D. Sólo es cierto para funciones polinomiales
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 114
+**Subtema:** Derivadas · El recíproco es falso
+
+El recíproco del teorema 1 es falso. Una función no necesariamente tiene derivada en un punto donde es continua, como vimos en el ejemplo 4 con la función valor absoluto.
+
+> Dato estrella: diferenciable ⟹ continua, pero continua NO ⟹ diferenciable (el valor absoluto es continuo en 0 pero no diferenciable ahí).
