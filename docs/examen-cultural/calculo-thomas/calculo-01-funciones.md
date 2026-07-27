@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 1 · Funciones
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 1. Funciones → EN CURSO (§1.1–§1.2 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 1. Funciones → EN CURSO (§1.1–§1.3 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 1 lo pide **la EMI** (Escuela Militar de
@@ -64,8 +64,15 @@ fórmulas de cambio de escala y reflexión (estiramiento y compresión, vertical
 horizontal; reflexión respecto a los ejes). Notación verificada contra las hojas
 renderizadas 34 y 35.
 
-**Pendiente:** faltan las secciones **§1.3 (Funciones trigonométricas)** y **§1.4
-(Graficación con software)** para cerrar el
+**§1.3 · COMPLETO** en 30 reactivos (reactivos 75–104), toda la teoría de la sección
+(pp. 21–27): la medida en radianes y su conversión con grados; la posición estándar
+y el signo de la medida angular; las seis funciones trigonométricas en términos de
+x, y, r; la periodicidad (definición, periodos π y 2π) y la paridad (coseno y
+secante pares, las otras cuatro impares); las identidades pitagórica, de suma, de
+doble y de mitad de ángulo; la ley de los cosenos; y la función senoidal (amplitud,
+periodo y desplazamientos). Notación verificada contra las hojas renderizadas 40 y 43.
+
+**Pendiente:** falta la sección **§1.4 (Graficación con software)** para cerrar el
 capítulo 1; y después los capítulos **2 (Límites y continuidad)** y **3 (Derivadas)**,
 que el temario de la EMI (`CDI-02-2026`) pide completos. **Cálculo NO está cerrada
 para la EMI.** Este archivo sostiene el pendiente de la materia hasta que exista el
@@ -1278,3 +1285,483 @@ En relación con el libro de Cálculo, ¿qué efecto tiene y = ƒ(−x) sobre la
 y = ƒ(−x) refleja la gráfica de ƒ con respecto al eje y.
 
 > Contraste que conviene fijar: −ƒ(x) refleja en el eje x (voltea arriba-abajo); ƒ(−x) refleja en el eje y (voltea izquierda-derecha).
+
+---
+
+## Sub-lote 15 · Ángulos y medida en radianes (pp. 21–22)
+
+### 75
+
+En relación con el libro de Cálculo, ¿cómo se define el número de radianes en el ángulo central dentro de una circunferencia de radio r?
+
+- A. Como el número de "unidades de radio" contenidas en el arco s subtendido por el ángulo central
+- B. Como el número de grados del ángulo dividido entre 360
+- C. Como la mitad de la longitud del arco subtendido
+- D. Como el producto del radio por el diámetro
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 21
+**Subtema:** Funciones trigonométricas · Medida en radianes
+
+El número de radianes en el ángulo central A′CB′, dentro de una circunferencia de radio r, se define como el número de "unidades de radio" contenidas en el arco s subtendido por el ángulo central.
+
+### 76
+
+En relación con el libro de Cálculo, si θ es el ángulo central medido en radianes, r el radio y s el arco subtendido, ¿qué relación se cumple?
+
+- A. s = rθ
+- B. s = r/θ
+- C. s = θ/r
+- D. s = r + θ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 21
+**Subtema:** Funciones trigonométricas · Longitud de arco
+
+s = rθ (θ en radianes).
+
+### 77
+
+En relación con el libro de Cálculo, ¿a cuántos grados equivalen π radianes?
+
+- A. 180°
+- B. 90°
+- C. 360°
+- D. 270°
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 21
+**Subtema:** Funciones trigonométricas · Grados y radianes
+
+π radianes = 180°.
+
+### 78
+
+En relación con el libro de Cálculo, una vuelta completa de la circunferencia unitaria, ¿a cuánto equivale?
+
+- A. 360° o 2π radianes
+- B. 180° o π radianes
+- C. 90° o π/2 radianes
+- D. 720° o 4π radianes
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 21
+**Subtema:** Funciones trigonométricas · Grados y radianes
+
+Una vuelta completa de la circunferencia unitaria equivale a 360° o 2π radianes.
+
+### 79
+
+En relación con el libro de Cálculo, ¿cuándo se dice que un ángulo en el plano xy está en posición estándar?
+
+- A. Si su vértice se ubica en el origen, y su rayo inicial se encuentra a lo largo del eje x positivo
+- B. Si su vértice se ubica en el eje y, y su rayo inicial en el eje x negativo
+- C. Si su vértice está en cualquier punto del primer cuadrante
+- D. Si su rayo inicial coincide con el eje y positivo
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 22
+**Subtema:** Funciones trigonométricas · Posición estándar
+
+Se dice que un ángulo en el plano xy está en posición estándar si su vértice se ubica en el origen, y su rayo inicial se encuentra a lo largo del eje x positivo.
+
+### 80
+
+En relación con el libro de Cálculo, ¿a qué ángulos se les asignan medidas positivas?
+
+- A. A los medidos en sentido contrario a las manecillas del reloj a partir del eje x positivo
+- B. A los medidos en el sentido de las manecillas del reloj
+- C. A los mayores de 180°
+- D. A los del primer cuadrante únicamente
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 22
+**Subtema:** Funciones trigonométricas · Medida positiva y negativa
+
+A los ángulos medidos en sentido contrario a las manecillas del reloj a partir del eje x positivo, se les asignan medidas positivas; a los ángulos medidos en el sentido de las manecillas del reloj, se les asignan medidas negativas.
+
+### 81
+
+En relación con el libro de Cálculo, ¿por qué se utilizan radianes (y no grados) en el cálculo?
+
+- A. Porque simplifica mucho las operaciones y algunos resultados con funciones trigonométricas son falsos cuando los ángulos se miden en grados
+- B. Porque los grados no existen en matemáticas avanzadas
+- C. Porque los radianes son siempre números enteros
+- D. Porque las calculadoras sólo aceptan radianes
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 22
+**Subtema:** Funciones trigonométricas · Convención de radianes
+
+Utilizamos radianes porque esto simplifica mucho las operaciones en el cálculo, y algunos resultados que se obtienen con las funciones trigonométricas son falsos cuando los ángulos se miden en grados.
+
+> Dato fino: no es capricho de notación — en grados, ciertos resultados del cálculo dejan de ser válidos.
+
+---
+
+## Sub-lote 16 · Las seis funciones trigonométricas (pp. 22–23)
+
+### 82
+
+En relación con el libro de Cálculo, en términos de las coordenadas del punto P(x, y) sobre una circunferencia de radio r, ¿cómo se define el seno?
+
+- A. sen θ = y/r
+- B. sen θ = x/r
+- C. sen θ = r/y
+- D. sen θ = y/x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 22
+**Subtema:** Funciones trigonométricas · Seno
+
+seno: sen θ = y/r.
+
+### 83
+
+En relación con el libro de Cálculo, ¿cómo se define el coseno en términos de x, y, r?
+
+- A. cos θ = x/r
+- B. cos θ = y/r
+- C. cos θ = r/x
+- D. cos θ = x/y
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 22
+**Subtema:** Funciones trigonométricas · Coseno
+
+coseno: cos θ = x/r.
+
+### 84
+
+En relación con el libro de Cálculo, ¿cómo se define la tangente en términos de x, y, r?
+
+- A. tan θ = y/x
+- B. tan θ = x/y
+- C. tan θ = y/r
+- D. tan θ = r/x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 22
+**Subtema:** Funciones trigonométricas · Tangente
+
+tangente: tan θ = y/x.
+
+### 85
+
+En relación con el libro de Cálculo, ¿cómo se definen la cosecante, la secante y la cotangente en términos de x, y, r?
+
+- A. csc θ = r/y, sec θ = r/x, cot θ = x/y
+- B. csc θ = y/r, sec θ = x/r, cot θ = y/x
+- C. csc θ = r/x, sec θ = r/y, cot θ = y/x
+- D. csc θ = x/y, sec θ = y/x, cot θ = r/y
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 22
+**Subtema:** Funciones trigonométricas · Cosecante, secante y cotangente
+
+cosecante: csc θ = r/y; secante: sec θ = r/x; cotangente: cot θ = x/y.
+
+### 86
+
+En relación con el libro de Cálculo, ¿cómo se expresa la tangente en función del seno y el coseno?
+
+- A. tan θ = sen θ / cos θ
+- B. tan θ = cos θ / sen θ
+- C. tan θ = sen θ · cos θ
+- D. tan θ = 1 / sen θ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 23
+**Subtema:** Funciones trigonométricas · Relación tangente-seno-coseno
+
+tan θ = sen θ / cos θ.
+
+### 87
+
+En relación con el libro de Cálculo, ¿para qué valores no están definidas la tangente y la secante?
+
+- A. Cuando x = cos θ = 0, es decir, si θ es ±π/2, ±3π/2, …
+- B. Cuando y = sen θ = 0, es decir, si θ es 0, ±π, ±2π, …
+- C. Únicamente cuando θ = 0
+- D. Para todos los ángulos negativos
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 23
+**Subtema:** Funciones trigonométricas · Valores no definidos
+
+tan θ y sec θ no están definidas si x = cos θ = 0. Esto significa que no están definidas si θ es ±π/2, ±3π/2, …
+
+### 88
+
+En relación con el libro de Cálculo, ¿para qué sirve la regla TOSE TACO?
+
+- A. Para recordar qué funciones trigonométricas son positivas en cada cuadrante
+- B. Para convertir grados a radianes
+- C. Para calcular la longitud de un arco
+- D. Para hallar el periodo de una función
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 23
+**Subtema:** Funciones trigonométricas · Regla TOSE TACO
+
+La regla TOSE TACO nos permite recordar qué funciones trigonométricas son positivas en cada cuadrante.
+
+> Dato memorable: la mnemotecnia del libro para los signos por cuadrante.
+
+---
+
+## Sub-lote 17 · Periodicidad y paridad (p. 24)
+
+### 89
+
+En relación con el libro de Cálculo, ¿cuándo una función ƒ(x) es periódica?
+
+- A. Si existe un número positivo p tal que ƒ(x + p) = ƒ(x) para todo valor de x
+- B. Si ƒ(x) = 0 para algún valor de x
+- C. Si su gráfica es una línea recta
+- D. Si ƒ(x + p) = −ƒ(x) para todo valor de x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 24
+**Subtema:** Funciones trigonométricas · Función periódica
+
+Una función ƒ(x) es periódica si existe un número positivo p tal que ƒ(x + p) = ƒ(x) para todo valor de x.
+
+### 90
+
+En relación con el libro de Cálculo, ¿qué es el periodo de una función ƒ?
+
+- A. El menor de los valores posibles de p
+- B. El mayor de los valores posibles de p
+- C. El promedio de los valores de p
+- D. Cualquier valor positivo de p
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 24
+**Subtema:** Funciones trigonométricas · Periodo
+
+El menor de los valores posibles de p es el periodo de ƒ.
+
+### 91
+
+En relación con el libro de Cálculo, entre las seis funciones trigonométricas, ¿cuáles tienen periodo π y cuáles 2π?
+
+- A. La tangente y la cotangente tienen periodo π; las otras cuatro tienen periodo 2π
+- B. Todas tienen periodo 2π
+- C. El seno y el coseno tienen periodo π; las demás, 2π
+- D. Todas tienen periodo π
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 24
+**Subtema:** Funciones trigonométricas · Periodos
+
+Las funciones tangente y cotangente tienen periodo π, en tanto que las otras cuatro funciones tienen periodo 2π.
+
+> Dato fino: tangente y cotangente repiten cada π; seno, coseno, secante y cosecante, cada 2π.
+
+### 92
+
+En relación con el libro de Cálculo, entre las seis funciones trigonométricas, ¿cuáles son pares?
+
+- A. El coseno y la secante (las otras cuatro son impares)
+- B. El seno y la cosecante (las otras cuatro son impares)
+- C. La tangente y la cotangente (las otras cuatro son impares)
+- D. Las seis son pares
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 24
+**Subtema:** Funciones trigonométricas · Paridad
+
+Las funciones coseno y secante son pares, y las otras cuatro funciones son impares.
+
+> Dato fino: pares → coseno y secante; impares → seno, tangente, cosecante y cotangente.
+
+---
+
+## Sub-lote 18 · Identidades trigonométricas (pp. 24–25)
+
+### 93
+
+En relación con el libro de Cálculo, ¿cuál es "la identidad más empleada en trigonometría", válida para todos los valores de θ?
+
+- A. cos²θ + sen²θ = 1
+- B. cos²θ − sen²θ = 1
+- C. sen²θ − cos²θ = 1
+- D. 1 + tan²θ = cos²θ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 24
+**Subtema:** Funciones trigonométricas · Identidad pitagórica
+
+cos²θ + sen²θ = 1. Esta ecuación, la identidad más empleada en trigonometría, es válida para todos los valores de θ.
+
+### 94
+
+En relación con el libro de Cálculo, al dividir la identidad cos²θ + sen²θ = 1 entre cos²θ, ¿qué identidad se obtiene?
+
+- A. 1 + tan²θ = sec²θ
+- B. 1 + cot²θ = csc²θ
+- C. 1 − tan²θ = sec²θ
+- D. tan²θ − 1 = sec²θ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 25
+**Subtema:** Funciones trigonométricas · Identidades derivadas
+
+1 + tan²θ = sec²θ.
+
+### 95
+
+En relación con el libro de Cálculo, ¿cuál es la fórmula para la suma de ángulos del coseno, cos(A + B)?
+
+- A. cos(A + B) = cos A cos B − sen A sen B
+- B. cos(A + B) = cos A cos B + sen A sen B
+- C. cos(A + B) = sen A cos B + cos A sen B
+- D. cos(A + B) = cos A sen B − sen A cos B
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 25
+**Subtema:** Funciones trigonométricas · Suma de ángulos (coseno)
+
+cos(A + B) = cos A cos B − sen A sen B.
+
+### 96
+
+En relación con el libro de Cálculo, ¿cuál es la fórmula para la suma de ángulos del seno, sen(A + B)?
+
+- A. sen(A + B) = sen A cos B + cos A sen B
+- B. sen(A + B) = sen A cos B − cos A sen B
+- C. sen(A + B) = cos A cos B − sen A sen B
+- D. sen(A + B) = sen A sen B + cos A cos B
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 25
+**Subtema:** Funciones trigonométricas · Suma de ángulos (seno)
+
+sen(A + B) = sen A cos B + cos A sen B.
+
+### 97
+
+En relación con el libro de Cálculo, ¿cuál es la fórmula para el doble de un ángulo del coseno, cos 2θ?
+
+- A. cos 2θ = cos²θ − sen²θ
+- B. cos 2θ = cos²θ + sen²θ
+- C. cos 2θ = 2 sen θ cos θ
+- D. cos 2θ = 1 − 2 cos²θ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 25
+**Subtema:** Funciones trigonométricas · Doble de un ángulo (coseno)
+
+cos 2θ = cos²θ − sen²θ.
+
+### 98
+
+En relación con el libro de Cálculo, ¿cuál es la fórmula para el doble de un ángulo del seno, sen 2θ?
+
+- A. sen 2θ = 2 sen θ cos θ
+- B. sen 2θ = sen²θ − cos²θ
+- C. sen 2θ = 2 cos²θ − 1
+- D. sen 2θ = sen θ cos θ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 25
+**Subtema:** Funciones trigonométricas · Doble de un ángulo (seno)
+
+sen 2θ = 2 sen θ cos θ.
+
+### 99
+
+En relación con el libro de Cálculo, según las fórmulas para la mitad de un ángulo, ¿a qué es igual cos²θ?
+
+- A. cos²θ = (1 + cos 2θ) / 2
+- B. cos²θ = (1 − cos 2θ) / 2
+- C. cos²θ = (1 + sen 2θ) / 2
+- D. cos²θ = (cos 2θ − 1) / 2
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 25
+**Subtema:** Funciones trigonométricas · Mitad de un ángulo (coseno)
+
+cos²θ = (1 + cos 2θ) / 2.
+
+### 100
+
+En relación con el libro de Cálculo, según las fórmulas para la mitad de un ángulo, ¿a qué es igual sen²θ?
+
+- A. sen²θ = (1 − cos 2θ) / 2
+- B. sen²θ = (1 + cos 2θ) / 2
+- C. sen²θ = (1 − sen 2θ) / 2
+- D. sen²θ = (cos 2θ − 1) / 2
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 25
+**Subtema:** Funciones trigonométricas · Mitad de un ángulo (seno)
+
+sen²θ = (1 − cos 2θ) / 2.
+
+---
+
+## Sub-lote 19 · Ley de los cosenos y función senoidal (pp. 25–27)
+
+### 101
+
+En relación con el libro de Cálculo, si a, b y c son los lados de un triángulo ABC y θ es el ángulo opuesto a c, ¿qué afirma la ley de los cosenos?
+
+- A. c² = a² + b² − 2ab cos θ
+- B. c² = a² + b² + 2ab cos θ
+- C. c² = a² − b² − 2ab cos θ
+- D. c² = a² + b² − 2ab sen θ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 25
+**Subtema:** Funciones trigonométricas · Ley de los cosenos
+
+c² = a² + b² − 2ab cos θ. Esta ecuación se conoce como ley de los cosenos.
+
+### 102
+
+En relación con el libro de Cálculo, ¿de qué teorema es una generalización la ley de los cosenos, y qué ocurre cuando θ = π/2?
+
+- A. Del teorema de Pitágoras; si θ = π/2, entonces cos θ = 0 y c² = a² + b²
+- B. De la ley de los senos; si θ = π/2, entonces c² = a² − b²
+- C. De la identidad pitagórica; si θ = π, entonces c² = a² + b²
+- D. De la fórmula del doble ángulo; si θ = 0, entonces c² = 2ab
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 26
+**Subtema:** Funciones trigonométricas · Ley de los cosenos
+
+La ley de los cosenos generaliza el teorema de Pitágoras. Si θ = π/2, entonces, cos θ = 0 y c² = a² + b².
+
+> Dato bonito: el teorema de Pitágoras es el caso particular de la ley de los cosenos cuando el ángulo es recto.
+
+### 103
+
+En relación con el libro de Cálculo, en la función senoidal ƒ(x) = A sen((2π/B)(x − C)) + D, ¿qué representa |A|?
+
+- A. La amplitud
+- B. El periodo
+- C. El desplazamiento horizontal
+- D. El desplazamiento vertical
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 27
+**Subtema:** Funciones trigonométricas · Función senoidal
+
+En ƒ(x) = A sen((2π/B)(x − C)) + D, |A| es la amplitud, |B| es el periodo, C es el desplazamiento horizontal, y D es el desplazamiento vertical.
+
+### 104
+
+En relación con el libro de Cálculo, en la función senoidal ƒ(x) = A sen((2π/B)(x − C)) + D, ¿qué representan |B|, C y D respectivamente?
+
+- A. |B| el periodo, C el desplazamiento horizontal y D el desplazamiento vertical
+- B. |B| la amplitud, C el periodo y D la fase
+- C. |B| el desplazamiento vertical, C la amplitud y D el periodo
+- D. |B| la fase, C la amplitud y D el periodo
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 27
+**Subtema:** Funciones trigonométricas · Función senoidal
+
+En ƒ(x) = A sen((2π/B)(x − C)) + D, |A| es la amplitud, |B| es el periodo, C es el desplazamiento horizontal, y D es el desplazamiento vertical.
