@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 3 · Derivadas
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.4 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.5 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 3 lo pide **la EMI** (Escuela Militar de
@@ -71,7 +71,13 @@ velocidad (ds/dt), signo de la velocidad, **rapidez** (valor absoluto), **aceler
 sin sacudida); las razones marginales en economía (costo e ingreso marginal); y la
 sensibilidad al cambio. Notación verificada contra la hoja renderizada 147.
 
-**Pendiente:** faltan las secciones **§3.5, §3.6, §3.7, §3.8 y §3.9** para
+**§3.5 · COMPLETO** en 9 reactivos (reactivos 49–57), toda la teoría de la sección
+(pp. 137–140): las **seis derivadas trigonométricas** —(sen x)' = cos x, (cos x)' = −sen x,
+(tan x)' = sec² x, (cot x)' = −csc² x, (sec x)' = sec x tan x, (csc x)' = −csc x cot x—; la
+observación de los signos negativos en las cofunciones; el movimiento armónico simple; y
+la ley de Hooke. Notación verificada contra la hoja renderizada 158.
+
+**Pendiente:** faltan las secciones **§3.6, §3.7, §3.8 y §3.9** para
 cerrar el capítulo 3, y con él la materia Cálculo para la EMI. Este
 archivo (capítulo 3) es el último del temario de Cálculo: no quedan otros capítulos
 por empezar, así que sostiene el pendiente de la materia hasta que el propio
@@ -889,3 +895,152 @@ En relación con el libro de Cálculo, cuando un cambio pequeño en x origina un
 **Subtema:** Derivadas · Sensibilidad al cambio
 
 Cuando un cambio pequeño en x origina un gran cambio en el valor de una función ƒ(x), decimos que la función es relativamente sensible al cambio en x. La derivada ƒ'(x) es una medida de esa sensibilidad.
+
+---
+
+## Sub-lote 15 · Derivadas del seno y el coseno (pp. 137–138)
+
+### 49
+
+En relación con el libro de Cálculo, ¿cuál es la derivada de la función seno?
+
+- A. (d/dx)(sen x) = cos x
+- B. (d/dx)(sen x) = −cos x
+- C. (d/dx)(sen x) = −sen x
+- D. (d/dx)(sen x) = sec² x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 137
+**Subtema:** Derivadas · Derivada del seno
+
+La derivada de la función seno es la función coseno: (d/dx)(sen x) = cos x.
+
+### 50
+
+En relación con el libro de Cálculo, ¿cuál es la derivada de la función coseno?
+
+- A. (d/dx)(cos x) = −sen x
+- B. (d/dx)(cos x) = sen x
+- C. (d/dx)(cos x) = cos x
+- D. (d/dx)(cos x) = −cos x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 138
+**Subtema:** Derivadas · Derivada del coseno
+
+La derivada de la función coseno es el negativo de la función seno: (d/dx)(cos x) = −sen x.
+
+---
+
+## Sub-lote 16 · Derivadas de las demás funciones trigonométricas (p. 140)
+
+### 51
+
+En relación con el libro de Cálculo, ¿cuál es la derivada de tan x?
+
+- A. (d/dx)(tan x) = sec² x
+- B. (d/dx)(tan x) = −csc² x
+- C. (d/dx)(tan x) = sec x tan x
+- D. (d/dx)(tan x) = cot² x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 140
+**Subtema:** Derivadas · Derivada de la tangente
+
+(d/dx)(tan x) = sec² x.
+
+### 52
+
+En relación con el libro de Cálculo, ¿cuál es la derivada de cot x?
+
+- A. (d/dx)(cot x) = −csc² x
+- B. (d/dx)(cot x) = csc² x
+- C. (d/dx)(cot x) = sec² x
+- D. (d/dx)(cot x) = −csc x cot x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 140
+**Subtema:** Derivadas · Derivada de la cotangente
+
+(d/dx)(cot x) = −csc² x.
+
+### 53
+
+En relación con el libro de Cálculo, ¿cuál es la derivada de sec x?
+
+- A. (d/dx)(sec x) = sec x tan x
+- B. (d/dx)(sec x) = −sec x tan x
+- C. (d/dx)(sec x) = sec² x
+- D. (d/dx)(sec x) = −csc x cot x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 140
+**Subtema:** Derivadas · Derivada de la secante
+
+(d/dx)(sec x) = sec x tan x.
+
+### 54
+
+En relación con el libro de Cálculo, ¿cuál es la derivada de csc x?
+
+- A. (d/dx)(csc x) = −csc x cot x
+- B. (d/dx)(csc x) = csc x cot x
+- C. (d/dx)(csc x) = −csc² x
+- D. (d/dx)(csc x) = sec x tan x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 140
+**Subtema:** Derivadas · Derivada de la cosecante
+
+(d/dx)(csc x) = −csc x cot x.
+
+### 55
+
+En relación con el libro de Cálculo, ¿qué observación hace el libro sobre los signos de las derivadas de las funciones trigonométricas?
+
+- A. Que hay signos negativos en las fórmulas de derivadas para las cofunciones
+- B. Que todas las derivadas son positivas
+- C. Que todas las derivadas son negativas
+- D. Que sólo el seno tiene derivada negativa
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 140
+**Subtema:** Derivadas · Signos de las cofunciones
+
+Observe los signos negativos en las fórmulas de derivadas para las cofunciones.
+
+> Dato fino: las cofunciones (coseno, cotangente y cosecante) llevan signo negativo en su derivada.
+
+---
+
+## Sub-lote 17 · Movimiento armónico simple (pp. 139–140)
+
+### 56
+
+En relación con el libro de Cálculo, ¿qué es el movimiento armónico simple?
+
+- A. El movimiento de un objeto en el extremo de un resorte que oscila libremente hacia arriba y hacia abajo, sin resistencia
+- B. El movimiento de un cuerpo en caída libre
+- C. El movimiento en línea recta a velocidad constante
+- D. Un movimiento que no se repite
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 139
+**Subtema:** Derivadas · Movimiento armónico simple
+
+El movimiento de un objeto o peso en el extremo de un resorte que oscila libremente hacia arriba y hacia abajo, sin resistencia, es un ejemplo del movimiento armónico simple. El movimiento es periódico y se repite indefinidamente.
+
+### 57
+
+En relación con el libro de Cálculo, según el libro, ¿qué establece la ley de Hooke sobre la aceleración del peso en un resorte?
+
+- A. Que la aceleración del peso siempre es proporcional al negativo de su desplazamiento
+- B. Que la aceleración es constante
+- C. Que la aceleración es proporcional a la velocidad
+- D. Que la aceleración es cero en todo momento
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 139
+**Subtema:** Derivadas · Ley de Hooke
+
+La aceleración del peso siempre es proporcional al negativo de su desplazamiento. Esta propiedad del resorte se conoce como ley de Hooke.
