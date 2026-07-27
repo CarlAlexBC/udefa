@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 3 · Derivadas
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.5 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.6 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 3 lo pide **la EMI** (Escuela Militar de
@@ -77,7 +77,13 @@ sensibilidad al cambio. Notación verificada contra la hoja renderizada 147.
 observación de los signos negativos en las cofunciones; el movimiento armónico simple; y
 la ley de Hooke. Notación verificada contra la hoja renderizada 158.
 
-**Pendiente:** faltan las secciones **§3.6, §3.7, §3.8 y §3.9** para
+**§3.6 · COMPLETO** en 6 reactivos (reactivos 58–63), toda la teoría de la sección
+(pp. 144–147): la **regla de la cadena** (Teorema 2, (ƒ∘g)'(x) = ƒ'(g(x))·g'(x); en
+notación de Leibniz dy/dx = (dy/du)(du/dx)); la regla de "afuera hacia adentro"; y la
+regla de la cadena para potencias, (d/dx)(uⁿ) = nuⁿ⁻¹(du/dx). Notación verificada contra
+la hoja renderizada 163.
+
+**Pendiente:** faltan las secciones **§3.7, §3.8 y §3.9** para
 cerrar el capítulo 3, y con él la materia Cálculo para la EMI. Este
 archivo (capítulo 3) es el último del temario de Cálculo: no quedan otros capítulos
 por empezar, así que sostiene el pendiente de la materia hasta que el propio
@@ -1044,3 +1050,97 @@ En relación con el libro de Cálculo, según el libro, ¿qué establece la ley 
 **Subtema:** Derivadas · Ley de Hooke
 
 La aceleración del peso siempre es proporcional al negativo de su desplazamiento. Esta propiedad del resorte se conoce como ley de Hooke.
+
+---
+
+## Sub-lote 18 · Regla de la cadena (pp. 144–147)
+
+### 58
+
+En relación con el libro de Cálculo, según la regla de la cadena, ¿cuál es la derivada de la función compuesta ƒ(g(x)) en x?
+
+- A. La derivada de ƒ en g(x), multiplicada por la derivada de g en x
+- B. La suma de las derivadas de ƒ y g
+- C. La derivada de ƒ más la derivada de g
+- D. El cociente de las derivadas de ƒ y g
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 144
+**Subtema:** Derivadas · Regla de la cadena (concepto)
+
+La derivada de la función compuesta ƒ(g(x)) en x es la derivada de ƒ en g(x), multiplicada por la derivada de g en x. Esto se conoce como la regla de la cadena.
+
+### 59
+
+En relación con el libro de Cálculo, según el Teorema 2 (regla de la cadena), si ƒ(u) es diferenciable en u = g(x) y g(x) es diferenciable en x, ¿cuál es (ƒ ∘ g)'(x)?
+
+- A. (ƒ ∘ g)'(x) = ƒ'(g(x))·g'(x)
+- B. (ƒ ∘ g)'(x) = ƒ'(x)·g'(x)
+- C. (ƒ ∘ g)'(x) = ƒ'(g(x)) + g'(x)
+- D. (ƒ ∘ g)'(x) = ƒ(g'(x))
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 145
+**Subtema:** Derivadas · Teorema 2 (regla de la cadena)
+
+Si ƒ(u) es diferenciable en el punto u = g(x), y g(x) es diferenciable en x, entonces, la función compuesta (ƒ ∘ g)(x) = ƒ(g(x)) es diferenciable en x y (ƒ ∘ g)'(x) = ƒ'(g(x))·g'(x).
+
+### 60
+
+En relación con el libro de Cálculo, en notación de Leibniz, si y = ƒ(u) y u = g(x), ¿cómo se expresa la regla de la cadena?
+
+- A. dy/dx = (dy/du)·(du/dx), donde dy/du se evalúa en u = g(x)
+- B. dy/dx = (du/dy)·(dx/du)
+- C. dy/dx = dy/du + du/dx
+- D. dy/dx = (dy/du)/(du/dx)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 145
+**Subtema:** Derivadas · Regla de la cadena (notación de Leibniz)
+
+En la notación de Leibniz, si y = ƒ(u) y u = g(x), entonces, dy/dx = (dy/du)·(du/dx), donde dy/du se evalúa en u = g(x).
+
+### 61
+
+En relación con el libro de Cálculo, según la regla de "afuera hacia adentro", si y = ƒ(g(x)), ¿cómo se obtiene dy/dx?
+
+- A. Se deriva la función ƒ de "afuera" y se evalúa en la función g(x) de "adentro"; después, se multiplica por la derivada de la "función de adentro"
+- B. Se deriva sólo la función de adentro
+- C. Se suman las derivadas de la función de afuera y la de adentro
+- D. Se deriva la de adentro y se evalúa en la de afuera
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 146
+**Subtema:** Derivadas · Regla de "afuera hacia adentro"
+
+Derive la función ƒ de "afuera" y evalúe la derivada en la función g(x) de "adentro"; después, multiplique por la derivada de la "función de adentro".
+
+### 62
+
+En relación con el libro de Cálculo, si ƒ es una función diferenciable de u y u es una función diferenciable de x, ¿cuál es (d/dx)ƒ(u)?
+
+- A. (d/dx)ƒ(u) = ƒ'(u)·(du/dx)
+- B. (d/dx)ƒ(u) = ƒ'(u)
+- C. (d/dx)ƒ(u) = ƒ'(x)·(du/dx)
+- D. (d/dx)ƒ(u) = ƒ(u)·(du/dx)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 146
+**Subtema:** Derivadas · Regla de la cadena (forma general)
+
+(d/dx)ƒ(u) = ƒ'(u)·(du/dx).
+
+### 63
+
+En relación con el libro de Cálculo, según la regla de la cadena para potencias, si u es una función diferenciable de x y n es cualquier número real, ¿cuál es (d/dx)(uⁿ)?
+
+- A. (d/dx)(uⁿ) = nuⁿ⁻¹·(du/dx)
+- B. (d/dx)(uⁿ) = nuⁿ⁻¹
+- C. (d/dx)(uⁿ) = uⁿ⁻¹·(du/dx)
+- D. (d/dx)(uⁿ) = nuⁿ⁺¹·(du/dx)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 147
+**Subtema:** Derivadas · Regla de la cadena para potencias
+
+(d/dx)(uⁿ) = nuⁿ⁻¹·(du/dx).
