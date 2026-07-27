@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 8 · Trigonometría del triángulo rectángulo
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 8 → EN CURSO (§8.1–§8.2 hechos)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 8 → EN CURSO (§8.1–§8.3 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -47,7 +47,7 @@ El **capítulo 8** completo tiene cuatro secciones:
 
 - **§8.1 Ángulos y sus medidas** (pp. 356–364) ← este archivo lo cubre.
 - **§8.2 Trigonometría del triángulo rectángulo** (pp. 365–370) ← este archivo lo cubre.
-- §8.3 Funciones trigonométricas de ángulos especiales (pp. 371–374).
+- **§8.3 Funciones trigonométricas de ángulos especiales** (pp. 371–374) ← este archivo lo cubre.
 - §8.4 Funciones trigonométricas de ángulos generales (pp. 375–385).
 
 Los *Ejercicios de repaso* (p. 386 en adelante) quedan fuera por la norma de teoría sobre
@@ -80,7 +80,16 @@ y las tres **identidades pitagóricas** (`sen²θ+cos²θ=1`, `1+tan²θ=sec²θ
 con la nota del aula de que valen para cualquier ángulo, no sólo agudos. Fórmulas verificadas
 contra las hojas renderizadas 382, 383, 385 y 386; prosa por OCR.
 
-**Pendiente:** faltan las secciones **§8.3 y §8.4** para cerrar el capítulo 8; y
+**§8.3 · COMPLETO** en 6 reactivos (reactivos 41–46), toda la teoría de la sección
+(pp. 371–374): la introducción a los **ángulos especiales** (30°/`π/6`, 45°/`π/4`,
+60°/`π/3`, memorizables) y sus **valores exactos** de seno, coseno y tangente resumidos en
+la **Tabla 8.3.1** (`sen 45°=cos 45°=√2/2`; `sen 30°=1/2`, `cos 30°=√3/2`; `sen 60°=√3/2`,
+`cos 60°=1/2`; `tan 30°=√3/3`, `tan 45°=1`, `tan 60°=√3`), más la caución sobre el uso de la
+calculadora (modo grados/radianes, convertir DMS a decimal). Valores verificados contra las
+hojas renderizadas 388, 389 y 390; prosa por OCR.
+
+**Pendiente:** falta la sección **§8.4 (Funciones trigonométricas de ángulos generales)**
+para cerrar el capítulo 8; y
 después los capítulos **9 y 12**, que el temario de la EMI (`GA-03-2026`) pide completos.
 **Geometría Analítica NO está cerrada para la EMI.** El capítulo 4 ya está cerrado
 (`zill-04-coordenadas-rectangulares.md`, 64 reactivos); este archivo (capítulo 8) sostiene
@@ -751,3 +760,99 @@ En relación con el libro de Geometría Analítica, según la "Nota del aula", �
 Como se ve en la sección 9.4, todas las identidades presentadas en esta sección son válidas con cualquier ángulo θ (y no sólo con ángulos agudos).
 
 > Dato olvidable: las tres pitagóricas se derivan de a²+b²=c² dividiendo entre c², a² y b². El cuadrado se escribe sen²θ = (sen θ)².
+
+---
+
+## Sub-lote 13 · Ángulos especiales y sus valores exactos (pp. 371–374)
+
+### 41
+
+En relación con el libro de Geometría Analítica, ¿cuáles son los ángulos especiales y por qué se consideran así?
+
+- A. Los de 30° (π/6), 45° (π/4) y 60° (π/3); se consideran especiales porque se presentan muy a menudo en el estudio de trigonometría y su uso en cálculo
+- B. Los de 0°, 90° y 180°; se consideran especiales porque son cuadrantales
+- C. Los de 15°, 75° y 105°; se consideran especiales porque son múltiplos de 15
+- D. Los de 90°, 180° y 270°; se consideran especiales porque son ángulos rectos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 371
+**Subtema:** Ángulos especiales · Introducción
+
+Los ángulos de 30° (π/6 radianes), 45° (π/4 radianes) y 60° (π/3 radianes) se consideran especiales porque se presentan muy a menudo en el estudio de trigonometría y su uso en cálculo.
+
+### 42
+
+En relación con el libro de Geometría Analítica, ¿cuáles son los valores exactos del seno y el coseno de 45°?
+
+- A. sen 45° = √2/2 y cos 45° = √2/2
+- B. sen 45° = 1/2 y cos 45° = √3/2
+- C. sen 45° = √3/2 y cos 45° = 1/2
+- D. sen 45° = 1 y cos 45° = 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 371
+**Subtema:** Ángulos especiales · Seno y coseno de 45°
+
+Considerando el triángulo rectángulo isósceles con dos lados iguales de longitud 1 (hipotenusa √2), se obtiene sen 45° = op/hip = 1/√2 = √2/2 y cos 45° = ady/hip = 1/√2 = √2/2.
+
+### 43
+
+En relación con el libro de Geometría Analítica, ¿cuáles son los valores exactos del seno y el coseno de 30°?
+
+- A. sen 30° = 1/2 y cos 30° = √3/2
+- B. sen 30° = √3/2 y cos 30° = 1/2
+- C. sen 30° = √2/2 y cos 30° = √2/2
+- D. sen 30° = √3/3 y cos 30° = 1/2
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 372
+**Subtema:** Ángulos especiales · Seno y coseno de 30°
+
+Del triángulo rectángulo ACO (obtenido al bisecar un triángulo equilátero de lado 2) se obtiene sen 30° = op/hip = 1/2 y cos 30° = ady/hip = √3/2.
+
+### 44
+
+En relación con el libro de Geometría Analítica, ¿cuáles son los valores exactos del seno y el coseno de 60°?
+
+- A. sen 60° = √3/2 y cos 60° = 1/2
+- B. sen 60° = 1/2 y cos 60° = √3/2
+- C. sen 60° = √2/2 y cos 60° = √2/2
+- D. sen 60° = √3 y cos 60° = 1/2
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 372
+**Subtema:** Ángulos especiales · Seno y coseno de 60°
+
+Usando el ángulo de 60° del triángulo rectángulo ACO (op = √3, ady = 1, hip = 2) se obtiene sen 60° = op/hip = √3/2 y cos 60° = ady/hip = 1/2.
+
+### 45
+
+En relación con el libro de Geometría Analítica, según la Tabla 8.3.1, ¿cuáles son los valores exactos de la tangente de 30°, 45° y 60°?
+
+- A. tan 30° = √3/3, tan 45° = 1 y tan 60° = √3
+- B. tan 30° = √3, tan 45° = 1 y tan 60° = √3/3
+- C. tan 30° = 1/2, tan 45° = √2/2 y tan 60° = √3/2
+- D. tan 30° = 1, tan 45° = √3/3 y tan 60° = √3
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 373
+**Subtema:** Ángulos especiales · Tabla 8.3.1 tangentes
+
+Según la Tabla 8.3.1: tan 30° = √3/3, tan 45° = 1 y tan 60° = √3.
+
+### 46
+
+En relación con el libro de Geometría Analítica, antes de usar una calculadora científica para obtener valores de funciones trigonométricas, ¿qué se debe seleccionar según cómo estén medidos los ángulos?
+
+- A. El modo de radianes si los ángulos se miden en radianes, y el modo de grados si se miden en grados; si se dan en grados, minutos y segundos, antes deben convertirse a decimales
+- B. Siempre el modo de grados, sin importar cómo estén medidos los ángulos
+- C. Siempre el modo de radianes, sin importar cómo estén medidos los ángulos
+- D. No hace falta seleccionar ningún modo; la calculadora lo detecta sola
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 374
+**Subtema:** Ángulos especiales · Uso de la calculadora
+
+Antes de usar una calculadora para obtener valores de funciones trigonométricas de ángulos medidos en radianes, es necesario seleccionar el modo de radianes de la calculadora. Si los ángulos se miden en grados, entonces hay que seleccionar el modo de grados. Además, si los ángulos se dan en grados, minutos y segundos, antes deben convertirse a decimales.
+
+> Dato olvidable: los tres ángulos especiales salen de dos triángulos —el rectángulo isósceles (45°) y la mitad del equilátero (30° y 60°)—. La tangente de 45° es 1; la de 30° y 60° son recíprocas (√3/3 y √3).
