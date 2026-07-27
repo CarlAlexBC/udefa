@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 2 · Límites y continuidad
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 2. Límites y continuidad → EN CURSO (§2.1–§2.3 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 2. Límites y continuidad → EN CURSO (§2.1–§2.4 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 2 lo pide **la EMI** (Escuela Militar de
@@ -62,7 +62,14 @@ no sirve para hallar límites sino para verificarlos y comprobar teoremas; que b
 δ que funcione (no la mejor); la desigualdad del triángulo; y el método de dos pasos
 para obtener δ. Notación verificada contra la hoja renderizada 78.
 
-**Pendiente:** faltan las secciones **§2.4, §2.5 y §2.6** para cerrar el
+**§2.4 · COMPLETO** en 8 reactivos (reactivos 40–47), toda la teoría de la sección
+(pp. 68–72): el concepto de límite lateral (izquierdo x<c, derecho x>c) frente al
+bilateral; la notación x→c⁺ y x→c⁻; que los laterales cumplen las leyes del Teorema 1;
+el **Teorema 6** (el límite bilateral existe si y sólo si los dos laterales existen y son
+iguales); la definición formal de límite lateral; y el **Teorema 7**, el límite fundamental
+lím(θ→0) (sen θ)/θ = 1. Notación verificada contra las hojas renderizadas 87 y 90.
+
+**Pendiente:** faltan las secciones **§2.5 y §2.6** para cerrar el
 capítulo 2; y después el capítulo **3 (Derivadas)**, que el temario de la EMI
 (`CDI-02-2026`) pide completo. **Cálculo NO está cerrada para la EMI.** Este archivo
 (capítulo 2) sostiene el pendiente de la materia hasta que exista el archivo del
@@ -731,3 +738,131 @@ En relación con el libro de Cálculo, el proceso para obtener algebraicamente u
 **Subtema:** Límites y continuidad · Obtención algebraica de delta
 
 Resuelva la desigualdad |ƒ(x) − L| < ε para encontrar un intervalo abierto (a, b) que contenga a c en el que la desigualdad se satisfaga para toda x ≠ c.
+
+---
+
+## Sub-lote 11 · Límites laterales (pp. 68–72)
+
+### 40
+
+En relación con el libro de Cálculo, ¿qué es un límite lateral?
+
+- A. Un límite cuando x se aproxima a c solamente por el lado izquierdo (x < c) o sólo por el lado derecho (x > c)
+- B. Un límite que sólo existe en el origen
+- C. El límite del valor absoluto de una función
+- D. Un límite que se calcula derivando la función
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 68
+**Subtema:** Límites y continuidad · Límites laterales
+
+Límites laterales son límites cuando x se aproxima a c solamente por el lado izquierdo (cuando x < c) o sólo por el lado derecho (cuando x > c).
+
+### 41
+
+En relación con el libro de Cálculo, ¿cómo se llaman los límites usuales, en los que x se aproxima a c por ambos lados?
+
+- A. Bilaterales
+- B. Laterales
+- C. Absolutos
+- D. Instantáneos
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 68
+**Subtema:** Límites y continuidad · Límite bilateral
+
+Los límites usuales se llaman bilaterales.
+
+### 42
+
+En relación con el libro de Cálculo, en la notación lím(x→c⁺) ƒ(x) = L, ¿qué significa el símbolo "x→c⁺"?
+
+- A. Que consideramos sólo los valores de x mayores que c
+- B. Que consideramos sólo los valores de x menores que c
+- C. Que x toma exactamente el valor de c
+- D. Que x se aproxima al infinito
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 69
+**Subtema:** Límites y continuidad · Límite lateral derecho
+
+El símbolo "x→c⁺" significa que consideramos sólo los valores de x mayores que c.
+
+### 43
+
+En relación con el libro de Cálculo, en la notación lím(x→c⁻) ƒ(x) = M, ¿qué significa el símbolo "x→c⁻"?
+
+- A. Que consideramos solamente los valores de x menores que c
+- B. Que consideramos solamente los valores de x mayores que c
+- C. Que x es siempre un número negativo
+- D. Que M es un número negativo
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 69
+**Subtema:** Límites y continuidad · Límite lateral izquierdo
+
+El símbolo "x→c⁻" significa que consideramos solamente los valores de x menores que c.
+
+### 44
+
+En relación con el libro de Cálculo, ¿qué propiedades tienen los límites laterales?
+
+- A. Todas las propiedades listadas en el teorema 1 de la sección 2.2 (las leyes de los límites)
+- B. Ninguna de las leyes de los límites
+- C. Sólo la regla de la suma
+- D. Sólo se aplican a funciones polinomiales
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 69
+**Subtema:** Límites y continuidad · Propiedades de los laterales
+
+Los límites laterales tienen todas las propiedades listadas en el teorema 1 de la sección 2.2.
+
+### 45
+
+En relación con el libro de Cálculo, según el Teorema 6, ¿cuándo una función ƒ(x) tiene límite cuando x se aproxima a c?
+
+- A. Si y sólo si existen los límites laterales izquierdo y derecho, y además estos límites laterales son iguales
+- B. Si existe al menos uno de los dos límites laterales
+- C. Si la función está definida en c
+- D. Si los dos límites laterales existen, aunque sean distintos
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 69
+**Subtema:** Límites y continuidad · Teorema 6 (bilateral y laterales)
+
+Una función ƒ(x) tiene un límite cuando x se aproxima a c si y sólo si existen los límites laterales izquierdo y derecho, y además estos límites laterales son iguales: lím(x→c) ƒ(x) = L ⟺ lím(x→c⁻) ƒ(x) = L y lím(x→c⁺) ƒ(x) = L.
+
+> Dato estrella: el límite bilateral existe sólo si los dos laterales coinciden.
+
+### 46
+
+En relación con el libro de Cálculo, según la definición formal, ƒ(x) tiene límite lateral derecho L en c si para todo ε > 0 existe δ > 0 tal que, para toda x:
+
+- A. c < x < c + δ ⟹ |ƒ(x) − L| < ε
+- B. c − δ < x < c ⟹ |ƒ(x) − L| < ε
+- C. 0 < |x − c| < δ ⟹ |ƒ(x) − L| < ε
+- D. |x − c| < ε ⟹ |ƒ(x) − L| < δ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 70
+**Subtema:** Límites y continuidad · Definición formal de límite lateral
+
+Decimos que ƒ(x) tiene límite lateral derecho L en c si para todo número ε > 0, existe un número δ > 0 correspondiente tal que, para toda x, c < x < c + δ ⟹ |ƒ(x) − L| < ε.
+
+### 47
+
+En relación con el libro de Cálculo, según el Teorema 7, ¿cuál es el límite de la razón (sen θ)/θ cuando θ → 0 (θ en radianes)?
+
+- A. 1
+- B. 0
+- C. ∞
+- D. θ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 72
+**Subtema:** Límites y continuidad · Límite fundamental (sen θ)/θ
+
+lím(θ→0) (sen θ)/θ = 1 (θ en radianes).
+
+> Dato estrella: el límite trigonométrico fundamental, base de las derivadas del seno y el coseno.
