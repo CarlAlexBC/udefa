@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 1 · Funciones
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 1. Funciones → EN CURSO (§1.1–§1.3 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 1. Funciones → CERRADO (108 reactivos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 1 lo pide **la EMI** (Escuela Militar de
@@ -72,11 +72,18 @@ secante pares, las otras cuatro impares); las identidades pitagórica, de suma, 
 doble y de mitad de ángulo; la ley de los cosenos; y la función senoidal (amplitud,
 periodo y desplazamientos). Notación verificada contra las hojas renderizadas 40 y 43.
 
-**Pendiente:** falta la sección **§1.4 (Graficación con software)** para cerrar el
-capítulo 1; y después los capítulos **2 (Límites y continuidad)** y **3 (Derivadas)**,
+**§1.4 · COMPLETO** en 4 reactivos (reactivos 105–108). §1.4 es una sección
+procedimental (uso de calculadoras y software para graficar), así que por la norma
+de teoría sobre práctica sólo lleva reactivos sus definiciones: la ventana cuadrada,
+el análisis de regresión y la curva de regresión, el método de mínimos cuadrados y
+la advertencia sobre extrapolar fuera del rango de los datos (pp. 29–34).
+
+**Con §1.4 queda CERRADO el capítulo 1 · Funciones, en 108 reactivos.**
+
+**Pendiente:** faltan los capítulos **2 (Límites y continuidad)** y **3 (Derivadas)**,
 que el temario de la EMI (`CDI-02-2026`) pide completos. **Cálculo NO está cerrada
-para la EMI.** Este archivo sostiene el pendiente de la materia hasta que exista el
-archivo del capítulo 2 (`calculo-02-limites-continuidad.md`).
+para la EMI.** Este archivo (capítulo 1) sostiene el pendiente de la materia hasta
+que exista el archivo del capítulo 2 (`calculo-02-limites-continuidad.md`).
 
 ## Criterio: teoría sobre práctica
 
@@ -1765,3 +1772,71 @@ En relación con el libro de Cálculo, en la función senoidal ƒ(x) = A sen((2�
 **Subtema:** Funciones trigonométricas · Función senoidal
 
 En ƒ(x) = A sen((2π/B)(x − C)) + D, |A| es la amplitud, |B| es el periodo, C es el desplazamiento horizontal, y D es el desplazamiento vertical.
+
+---
+
+## Sub-lote 20 · Graficación con software: conceptos citables (pp. 29–34)
+
+### 105
+
+En relación con el libro de Cálculo, ¿cuándo se usa el término "ventana cuadrada"?
+
+- A. Cuando las unidades o escalas en ambos ejes son iguales (la unidad en x tiene la misma longitud que la unidad en y)
+- B. Cuando la pantalla del dispositivo tiene forma físicamente cuadrada
+- C. Cuando la ventana muestra sólo el primer cuadrante
+- D. Cuando el intervalo en x abarca toda la pantalla
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 29
+**Subtema:** Graficación con software · Ventana cuadrada
+
+Se usa el término ventana cuadrada cuando las unidades o escalas en ambos ejes son iguales. Este término no implica que la ventana, en realidad, tenga forma cuadrada, sino que la unidad en x tiene la misma longitud que la unidad en y.
+
+> Dato fino: el nombre engaña — no es que la pantalla sea cuadrada, sino que las escalas de los dos ejes coinciden.
+
+### 106
+
+En relación con el libro de Cálculo, cuando se busca una curva que refleje la tendencia de los puntos de datos, ¿cómo se conoce ese proceso y cómo se llama la curva resultante?
+
+- A. El proceso es el análisis de regresión y la curva resultante se denomina curva de regresión
+- B. El proceso es la interpolación y la curva es la asíntota
+- C. El proceso es la extrapolación y la curva es la senoidal
+- D. El proceso es la composición y la curva es la catenaria
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 33
+**Subtema:** Graficación con software · Análisis de regresión
+
+Este proceso se conoce como análisis de regresión, y la curva resultante se denomina curva de regresión.
+
+### 107
+
+En relación con el libro de Cálculo, ¿en qué consiste el método de mínimos cuadrados para determinar la curva de regresión?
+
+- A. En minimizar la suma de los cuadrados de las distancias verticales entre los puntos y la curva
+- B. En maximizar la suma de las distancias entre los puntos y la curva
+- C. En unir los puntos consecutivos con segmentos de recta
+- D. En calcular el promedio de las coordenadas y de los puntos
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 33
+**Subtema:** Graficación con software · Mínimos cuadrados
+
+Un método común, conocido como mínimos cuadrados, determina la curva de regresión deseada minimizando la suma de los cuadrados de las distancias verticales entre los puntos y la curva.
+
+### 108
+
+En relación con el libro de Cálculo, según el libro, ¿cuál es el inconveniente de usar una curva de regresión?
+
+- A. Usarla para predecir valores más allá del rango de los datos utilizados para construir la curva
+- B. Usarla para estimar valores dentro del rango de los datos
+- C. Ajustar una recta a los datos
+- D. Elaborar primero un diagrama de dispersión
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 34
+**Subtema:** Graficación con software · Límite de la regresión
+
+Este ejemplo muestra el inconveniente de usar una curva de regresión para predecir valores más allá del rango de los datos utilizados para construir la curva.
+
+> Dato fino: extrapolar —predecir fuera del rango de los datos— es lo arriesgado; dentro del rango es más confiable.
