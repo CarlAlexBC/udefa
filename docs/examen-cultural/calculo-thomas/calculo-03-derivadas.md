@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 3 · Derivadas
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.3 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.4 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 3 lo pide **la EMI** (Escuela Militar de
@@ -64,7 +64,14 @@ la advertencia de que la derivada de un producto no es el producto de las deriva
 las derivadas de orden superior (segunda, n-ésima y su lectura). Notación verificada
 contra las hojas renderizadas 140 y 141.
 
-**Pendiente:** faltan las secciones **§3.4, §3.5, §3.6, §3.7, §3.8 y §3.9** para
+**§3.4 · COMPLETO** en 14 reactivos (reactivos 35–48), toda la teoría de la sección
+(pp. 127–133): la razón instantánea de cambio; el movimiento sobre una recta —posición,
+velocidad (ds/dt), signo de la velocidad, **rapidez** (valor absoluto), **aceleración**
+(d²s/dt²) y **sacudida** (d³s/dt³)—; la caída libre (s = ½gt², g = 32 ft/s² o 9.8 m/s²,
+sin sacudida); las razones marginales en economía (costo e ingreso marginal); y la
+sensibilidad al cambio. Notación verificada contra la hoja renderizada 147.
+
+**Pendiente:** faltan las secciones **§3.5, §3.6, §3.7, §3.8 y §3.9** para
 cerrar el capítulo 3, y con él la materia Cálculo para la EMI. Este
 archivo (capítulo 3) es el último del temario de Cálculo: no quedan otros capítulos
 por empezar, así que sostiene el pendiente de la materia hasta que el propio
@@ -652,3 +659,233 @@ En relación con el libro de Cálculo, ¿cómo se leen los símbolos y', y'' y y
 **Subtema:** Derivadas · Lectura de los símbolos
 
 Los símbolos se leen: y' "y prima", y'' "y biprima", y''' "y triprima".
+
+---
+
+## Sub-lote 11 · Razón instantánea de cambio (p. 127)
+
+### 35
+
+En relación con el libro de Cálculo, ¿qué es la razón instantánea de cambio de ƒ con respecto a x en x₀?
+
+- A. La derivada ƒ'(x₀) = lím(h→0) [ƒ(x₀ + h) − ƒ(x₀)]/h
+- B. El valor de ƒ en x₀
+- C. La razón promedio de cambio en un intervalo grande
+- D. El límite de ƒ cuando x → ∞
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 127
+**Subtema:** Derivadas · Razón instantánea de cambio
+
+La razón instantánea de cambio de ƒ con respecto a x en x₀ es la derivada ƒ'(x₀) = lím(h→0) [ƒ(x₀ + h) − ƒ(x₀)]/h, siempre y cuando el límite exista.
+
+### 36
+
+En relación con el libro de Cálculo, cuando el libro dice "razón de cambio" (a secas), ¿a qué se refiere?
+
+- A. A la razón instantánea de cambio
+- B. A la razón promedio de cambio
+- C. Al valor de la función
+- D. A la segunda derivada
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 127
+**Subtema:** Derivadas · Convención sobre "razón de cambio"
+
+Cuando decimos razón de cambio, queremos decir razón instantánea de cambio.
+
+---
+
+## Sub-lote 12 · Movimiento sobre una recta: velocidad, rapidez, aceleración, sacudida (pp. 128–129)
+
+### 37
+
+En relación con el libro de Cálculo, ¿qué es la velocidad (instantánea) de un cuerpo?
+
+- A. La derivada de la posición con respecto al tiempo: v(t) = ds/dt
+- B. El valor absoluto de la posición
+- C. La segunda derivada de la posición
+- D. El producto de la posición por el tiempo
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 128
+**Subtema:** Derivadas · Velocidad
+
+La velocidad (instantánea) es la derivada de la posición con respecto al tiempo. Si la posición de un cuerpo en el momento t es s = ƒ(t), entonces, la velocidad del cuerpo en el momento t es v(t) = ds/dt = lím(Δt→0) [ƒ(t + Δt) − ƒ(t)]/Δt.
+
+### 38
+
+En relación con el libro de Cálculo, ¿qué indica el signo de la velocidad de un cuerpo que se mueve sobre una recta?
+
+- A. Es positiva cuando el objeto se mueve hacia delante (s aumenta) y negativa cuando se desplaza hacia atrás (s disminuye)
+- B. Es siempre positiva
+- C. Es positiva sólo durante la caída libre
+- D. No tiene relación con la dirección del movimiento
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 128
+**Subtema:** Derivadas · Signo de la velocidad
+
+Cuando el objeto se mueve hacia delante (s aumenta), la velocidad es positiva; cuando el cuerpo se desplaza hacia atrás (s disminuye), la velocidad es negativa.
+
+### 39
+
+En relación con el libro de Cálculo, ¿qué es la rapidez?
+
+- A. El valor absoluto de la velocidad: |v(t)| = |ds/dt|
+- B. La derivada de la velocidad
+- C. Lo mismo que la velocidad, incluyendo su signo
+- D. La segunda derivada de la posición
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 128
+**Subtema:** Derivadas · Rapidez
+
+La rapidez es el valor absoluto de la velocidad. Rapidez = |v(t)| = |ds/dt|.
+
+> Dato fino: el velocímetro marca rapidez (valor absoluto), no velocidad; por eso nunca marca negativo.
+
+### 40
+
+En relación con el libro de Cálculo, ¿qué es la aceleración de un objeto?
+
+- A. La derivada de la velocidad con respecto al tiempo: a(t) = dv/dt = d²s/dt²
+- B. La derivada de la posición: ds/dt
+- C. El valor absoluto de la velocidad
+- D. La tercera derivada de la posición
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 129
+**Subtema:** Derivadas · Aceleración
+
+La aceleración es la derivada de la velocidad con respecto al tiempo. Si la posición de un objeto en el tiempo t es s = ƒ(t), entonces, la aceleración del objeto en el tiempo t es a(t) = dv/dt = d²s/dt².
+
+### 41
+
+En relación con el libro de Cálculo, ¿qué es la sacudida?
+
+- A. La derivada de la aceleración con respecto al tiempo: j(t) = da/dt = d³s/dt³
+- B. La derivada de la velocidad
+- C. El valor absoluto de la aceleración
+- D. La primera derivada de la posición
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 129
+**Subtema:** Derivadas · Sacudida
+
+La sacudida es la derivada de la aceleración con respecto al tiempo: j(t) = da/dt = d³s/dt³.
+
+> Dato fino: la sacudida es la tercera derivada de la posición; un cambio repentino en la aceleración.
+
+---
+
+## Sub-lote 13 · Caída libre (pp. 129–130)
+
+### 42
+
+En relación con el libro de Cálculo, según los experimentos de Galileo, ¿con qué aceleración caen los cuerpos cerca de la superficie de la Tierra, y qué ecuación se obtiene?
+
+- A. Con la misma aceleración constante; s = (1/2)gt²
+- B. Con aceleración variable; s = gt
+- C. Con aceleración nula; s = constante
+- D. Con aceleración proporcional a la distancia; s = gt³
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 129
+**Subtema:** Derivadas · Caída libre
+
+Cerca de la superficie de la Tierra, todos los cuerpos caen con la misma aceleración constante; los experimentos de caída libre de Galileo conducen a la ecuación s = (1/2)gt².
+
+### 43
+
+En relación con el libro de Cálculo, con t en segundos, ¿cuál es el valor aproximado de g (aceleración de la gravedad) a nivel del mar?
+
+- A. 32 ft/s² en unidades inglesas y 9.8 m/s² en unidades métricas
+- B. 9.8 ft/s² y 32 m/s²
+- C. 16 ft/s² y 4.9 m/s²
+- D. 10 ft/s² y 100 m/s²
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 130
+**Subtema:** Derivadas · Valor de la gravedad
+
+El valor de g, a nivel del mar, es aproximadamente de 32 ft/s² en unidades inglesas, y g = 9.8 m/s² en unidades métricas.
+
+### 44
+
+En relación con el libro de Cálculo, ¿cuánto vale la sacudida por la aceleración constante de la gravedad durante la caída libre?
+
+- A. Cero; un objeto no experimenta sacudidas durante la caída libre
+- B. 32 ft/s³
+- C. 9.8 m/s³
+- D. Igual a la aceleración
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 130
+**Subtema:** Derivadas · Sacudida en caída libre
+
+La sacudida por la aceleración constante de la gravedad es cero: j = (d/dt)(g) = 0. Un objeto no experimenta sacudidas durante la caída libre.
+
+---
+
+## Sub-lote 14 · Derivadas en economía y sensibilidad al cambio (pp. 131–133)
+
+### 45
+
+En relación con el libro de Cálculo, ¿cómo llaman los economistas a las razones de cambio y sus derivadas?
+
+- A. Marginales
+- B. Instantáneas
+- C. Absolutas
+- D. Diferenciales
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 131
+**Subtema:** Derivadas · Razones marginales
+
+Los economistas tienen un vocabulario especial para denominar a las razones de cambio y sus derivadas; las llaman marginales.
+
+### 46
+
+En relación con el libro de Cálculo, ¿qué es el costo marginal de producción?
+
+- A. La razón de cambio del costo con respecto al nivel de producción, es decir, dc/dx
+- B. El costo total de la producción
+- C. El costo fijo de la fábrica
+- D. El promedio de todos los costos
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 131
+**Subtema:** Derivadas · Costo marginal
+
+El costo marginal de producción es la razón de cambio del costo con respecto al nivel de producción, de manera que es dc/dx.
+
+### 47
+
+En relación con el libro de Cálculo, ¿qué estima la función del ingreso marginal?
+
+- A. El incremento del ingreso que se generará al vender una unidad más
+- B. El ingreso total de todas las ventas
+- C. El costo de producir una unidad
+- D. El impuesto sobre las ventas
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 132
+**Subtema:** Derivadas · Ingreso marginal
+
+La función del ingreso marginal estima el incremento del ingreso que se generará al vender una unidad más.
+
+### 48
+
+En relación con el libro de Cálculo, cuando un cambio pequeño en x origina un gran cambio en ƒ(x) (la función es sensible al cambio), ¿qué mide esa sensibilidad?
+
+- A. La derivada ƒ'(x)
+- B. El valor de ƒ(x)
+- C. La integral de ƒ
+- D. El dominio de ƒ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 133
+**Subtema:** Derivadas · Sensibilidad al cambio
+
+Cuando un cambio pequeño en x origina un gran cambio en el valor de una función ƒ(x), decimos que la función es relativamente sensible al cambio en x. La derivada ƒ'(x) es una medida de esa sensibilidad.
