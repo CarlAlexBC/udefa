@@ -80,10 +80,9 @@ la advertencia sobre extrapolar fuera del rango de los datos (pp. 29–34).
 
 **Con §1.4 queda CERRADO el capítulo 1 · Funciones, en 108 reactivos.**
 
-**Pendiente:** faltan los capítulos **2 (Límites y continuidad)** y **3 (Derivadas)**,
-que el temario de la EMI (`CDI-02-2026`) pide completos. **Cálculo NO está cerrada
-para la EMI.** Este archivo (capítulo 1) sostiene el pendiente de la materia hasta
-que exista el archivo del capítulo 2 (`calculo-02-limites-continuidad.md`).
+**Pendiente:** ninguno de este capítulo. El capítulo 1 · Funciones está cerrado en
+108 reactivos. Lo que falta de Cálculo lo declara el archivo del capítulo en curso
+— hoy `calculo-02-limites-continuidad.md`.
 
 ## Criterio: teoría sobre práctica
 
