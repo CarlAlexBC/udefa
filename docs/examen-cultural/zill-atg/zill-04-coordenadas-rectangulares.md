@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 4 · Sistema de coordenadas rectangulares y gráficas
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 4 → EN CURSO (§4.1–§4.2 hechos)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 4 → EN CURSO (§4.1–§4.3 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -47,7 +47,7 @@ El **capítulo 4** completo tiene cuatro secciones:
 
 - **§4.1 El sistema de coordenadas rectangulares** (pp. 168–173) ← este archivo lo cubre.
 - **§4.2 Círculos y gráficas** (pp. 174–182) ← este archivo lo cubre.
-- §4.3 Ecuaciones de rectas (pp. 183–189).
+- **§4.3 Ecuaciones de rectas** (pp. 183–189) ← este archivo lo cubre.
 - §4.4 Variación (pp. 190–194).
 
 Los *Ejercicios de repaso* (pp. 195 en adelante) quedan fuera por la norma de teoría
@@ -73,7 +73,17 @@ círculo); las **intersecciones** con los ejes; los tres tipos de **simetría** 
 eje y, al eje x y al origen) y el **Teorema 4.2.1** (pruebas de simetría); más la parábola
 `y=x²`. Fórmulas verificadas contra las hojas renderizadas 192, 193 y 194; prosa por OCR.
 
-**Pendiente:** faltan las secciones **§4.3 y §4.4** para cerrar el capítulo 4; y
+**§4.3 · COMPLETO** en 17 reactivos (reactivos 36–52), toda la teoría de la sección
+(pp. 183–187): el concepto de **pendiente** `m=(y₂−y₁)/(x₂−x₁)` (crecimiento y recorrido,
+su independencia de los puntos elegidos, los signos y los casos horizontal/vertical); el
+**Teorema 4.3.1** (ecuación punto-pendiente `y−y₁=m(x−x₁)`), el **Teorema 4.3.2**
+(pendiente-intersección `y=mx+b` y la familia `y=mx` por el origen), el **Teorema 4.3.3**
+(recta horizontal `y=b`) y el **Teorema 4.3.4** (recta vertical `x=a`); la **ecuación
+lineal general** `ax+by+c=0` y por qué se llama lineal; y el **Teorema 4.3.5** (rectas
+paralelas `m₁=m₂` y perpendiculares `m₁m₂=−1`, recíprocos negativos). Fórmulas verificadas
+contra las hojas renderizadas 200, 201 y 204; prosa por OCR.
+
+**Pendiente:** falta la sección **§4.4 (Variación)** para cerrar el capítulo 4; y
 después los capítulos **8, 9 y 12**, que el temario de la EMI (`GA-03-2026`) pide
 completos. **Geometría Analítica NO está cerrada para la EMI.** Este archivo (capítulo 4)
 sostiene el pendiente de la materia hasta que exista el archivo del capítulo 8.
@@ -672,3 +682,272 @@ En relación con el libro de Geometría Analítica, según el Teorema 4.2.1 (pru
 La gráfica de una ecuación es simétrica respecto a: i) el eje y si al sustituir x por −x se obtiene una ecuación equivalente; ii) el eje x si al sustituir y por −y se obtiene una ecuación equivalente; iii) el origen si al sustituir x y y por −x y −y se obtiene una ecuación equivalente.
 
 > Dato olvidable: la prueba del eje y cambia sólo x (por −x); la del eje x cambia sólo y (por −y); la del origen cambia las dos.
+
+---
+
+## Sub-lote 13 · Pendiente de una recta (pp. 183–184)
+
+### 36
+
+En relación con el libro de Geometría Analítica, ¿qué determinan dos puntos distintos cualesquiera en el plano xy, y cuál es el concepto fundamental para plantear la ecuación de una recta?
+
+- A. Determinan una línea recta única; el concepto fundamental es la pendiente de una recta
+- B. Determinan un círculo único; el concepto fundamental es el radio
+- C. Determinan una parábola única; el concepto fundamental es el vértice
+- D. Determinan dos rectas paralelas; el concepto fundamental es la distancia
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 183
+**Subtema:** Ecuaciones de rectas · Introducción
+
+Dos puntos distintos cualesquiera en el plano xy determinan una línea recta única. El concepto fundamental para plantear estas ecuaciones es la pendiente de una recta.
+
+### 37
+
+En relación con el libro de Geometría Analítica, si P₁(x₁, y₁) y P₂(x₂, y₂) son dos puntos tales que x₁ ≠ x₂, ¿qué número se denomina pendiente de la recta que determinan?
+
+- A. m = (y₂ − y₁)/(x₂ − x₁)
+- B. m = (x₂ − x₁)/(y₂ − y₁)
+- C. m = (y₂ + y₁)/(x₂ + x₁)
+- D. m = (x₂ − x₁) + (y₂ − y₁)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 183
+**Subtema:** Ecuaciones de rectas · Pendiente
+
+Si P₁(x₁, y₁) y P₂(x₂, y₂) son dos puntos tales que x₁ ≠ x₂, entonces el número m = (y₂ − y₁)/(x₂ − x₁) se denomina pendiente de la recta determinada por estos dos puntos.
+
+### 38
+
+En relación con el libro de Geometría Analítica, en la pendiente de una recta, ¿cómo se llaman y₂ − y₁ y x₂ − x₁?
+
+- A. y₂ − y₁ es el cambio en y o crecimiento de la recta; x₂ − x₁ es el cambio en x o el recorrido de la recta
+- B. y₂ − y₁ es el recorrido; x₂ − x₁ es el crecimiento
+- C. y₂ − y₁ es la ordenada al origen; x₂ − x₁ es la abscisa
+- D. y₂ − y₁ es la distancia; x₂ − x₁ es el punto medio
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 183
+**Subtema:** Ecuaciones de rectas · Crecimiento y recorrido
+
+Se acostumbra decir que y₂ − y₁ es el cambio en y o crecimiento de la recta; x₂ − x₁ es el cambio en x o el recorrido de la recta. Por tanto, la pendiente de una recta es m = crecimiento/recorrido.
+
+### 39
+
+En relación con el libro de Geometría Analítica, ¿de qué depende la pendiente de una recta respecto a los puntos que se elijan sobre ella?
+
+- A. Es independiente de la selección de puntos en la recta; dos puntos cualesquiera determinan la misma pendiente
+- B. Cambia según el par de puntos que se elija
+- C. Depende sólo del punto más cercano al origen
+- D. Depende de la distancia entre los dos puntos elegidos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 183
+**Subtema:** Ecuaciones de rectas · Independencia de la pendiente
+
+Dos puntos cualesquiera de una recta determinan la misma pendiente. De ahí que la pendiente de una recta sea independiente de la selección de puntos en la recta.
+
+### 40
+
+En relación con el libro de Geometría Analítica, ¿qué le sucede a una recta con pendiente positiva (m > 0) y a una con pendiente negativa (m < 0) conforme x aumenta?
+
+- A. La de pendiente positiva se eleva conforme x aumenta; la de pendiente negativa desciende a medida que x aumenta
+- B. La de pendiente positiva desciende; la de pendiente negativa se eleva
+- C. Ambas se elevan por igual
+- D. Ambas permanecen horizontales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 184
+**Subtema:** Ecuaciones de rectas · Signo de la pendiente
+
+Una recta con pendiente positiva (m > 0) se eleva conforme x aumenta. Una recta con pendiente negativa (m < 0) desciende a medida que x aumenta.
+
+### 41
+
+En relación con el libro de Geometría Analítica, ¿cuál es la pendiente de una recta horizontal y cuál la de una recta vertical?
+
+- A. La recta horizontal tiene pendiente cero (m = 0); la recta vertical tiene pendiente indefinida, o no tiene pendiente
+- B. La recta horizontal tiene pendiente indefinida; la recta vertical tiene pendiente cero
+- C. Ambas tienen pendiente cero
+- D. La recta horizontal tiene pendiente 1; la recta vertical tiene pendiente −1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 184
+**Subtema:** Ecuaciones de rectas · Rectas horizontal y vertical
+
+Sobre una recta horizontal la elevación y₂ − y₁ = 0, de modo que la pendiente es cero (m = 0). Sobre una recta vertical el recorrido x₂ − x₁ = 0; en este caso, decimos que la pendiente de la recta es indefinida o que la recta no tiene pendiente.
+
+---
+
+## Sub-lote 14 · Formas de la ecuación de una recta (pp. 184–186)
+
+### 42
+
+En relación con el libro de Geometría Analítica, según el Teorema 4.3.1, ¿cuál es la ecuación punto-pendiente de la recta que pasa por P₁(x₁, y₁) con pendiente m?
+
+- A. y − y₁ = m(x − x₁)
+- B. y + y₁ = m(x + x₁)
+- C. y − y₁ = m + (x − x₁)
+- D. x − x₁ = m(y − y₁)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 184
+**Subtema:** Ecuaciones de rectas · Teorema 4.3.1 punto-pendiente
+
+La ecuación punto-pendiente de la recta que pasa por P₁(x₁, y₁) con pendiente m es y − y₁ = m(x − x₁).
+
+### 43
+
+En relación con el libro de Geometría Analítica, según el Teorema 4.3.2, ¿cuál es la ecuación pendiente-intersección de la recta con pendiente m e intersección con el eje y (0, b)?
+
+- A. y = mx + b
+- B. y = bx + m
+- C. y = m(x + b)
+- D. x = my + b
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 185
+**Subtema:** Ecuaciones de rectas · Teorema 4.3.2 pendiente-intersección
+
+La ecuación pendiente-intersección de la recta con pendiente m e intersección con el eje y (0, b) es y = mx + b.
+
+### 44
+
+En relación con el libro de Geometría Analítica, cuando b = 0 en la ecuación y = mx + b, ¿qué representa la ecuación y = mx?
+
+- A. Una familia de rectas que pasan por el origen (0, 0)
+- B. Una sola recta horizontal
+- C. La ecuación de un círculo unitario
+- D. Una familia de rectas verticales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 185
+**Subtema:** Ecuaciones de rectas · Rectas por el origen
+
+Cuando b = 0 en (4), la ecuación y = mx representa una familia de rectas que pasan por el origen (0, 0).
+
+### 45
+
+En relación con el libro de Geometría Analítica, según el Teorema 4.3.3, ¿cuál es la ecuación de una recta horizontal con intersección con el eje y en (0, b)?
+
+- A. y = b
+- B. x = b
+- C. y = mx + b
+- D. y = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 185
+**Subtema:** Ecuaciones de rectas · Teorema 4.3.3 recta horizontal
+
+La ecuación de una recta horizontal con intersección con el eje y en (0, b) es y = b.
+
+### 46
+
+En relación con el libro de Geometría Analítica, según el Teorema 4.3.4, ¿cuál es la ecuación de una recta vertical con intersección con el eje x en (a, 0)?
+
+- A. x = a
+- B. y = a
+- C. x = my + a
+- D. x = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 186
+**Subtema:** Ecuaciones de rectas · Teorema 4.3.4 recta vertical
+
+La ecuación de una recta vertical con intersección con el eje x en (a, 0) es x = a.
+
+### 47
+
+En relación con el libro de Geometría Analítica, ¿cuál es la ecuación lineal general en dos variables x y y, de la que las ecuaciones punto-pendiente, pendiente-intersección y las de rectas horizontal y vertical son casos especiales?
+
+- A. ax + by + c = 0, donde a y b son constantes reales y las dos no son cero al mismo tiempo
+- B. ax² + by² + c = 0, donde a y b son cualesquiera
+- C. y = ax + b, donde a nunca es cero
+- D. ax + by = 1, donde a y b son siempre positivos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 186
+**Subtema:** Ecuaciones de rectas · Ecuación lineal general
+
+Las ecuaciones (3), (4), (5) y (6) son casos especiales de la ecuación lineal general en dos variables x y y: ax + by + c = 0, donde a y b son constantes reales y las dos no son cero al mismo tiempo.
+
+### 48
+
+En relación con el libro de Geometría Analítica, ¿por qué característica se llama lineal a la ecuación ax + by + c = 0?
+
+- A. Porque las variables x y y aparecen sólo a la primera potencia
+- B. Porque siempre pasa por el origen
+- C. Porque a y b son siempre iguales
+- D. Porque su gráfica es un círculo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 186
+**Subtema:** Ecuaciones de rectas · Por qué se llama lineal
+
+La característica por la que (7) se llama lineal es que las variables x y y aparecen sólo a la primera potencia.
+
+---
+
+## Sub-lote 15 · Rectas paralelas y perpendiculares (p. 187)
+
+### 49
+
+En relación con el libro de Geometría Analítica, si dos rectas con pendiente se intersecan, ¿cuándo se dice que son perpendiculares, y qué se examina para determinar si dos rectas son paralelas o perpendiculares?
+
+- A. Son perpendiculares si se intersecan en ángulo recto; para determinarlo se examinan sus pendientes
+- B. Son perpendiculares si nunca se intersecan; para determinarlo se examinan sus intersecciones con los ejes
+- C. Son perpendiculares si tienen la misma pendiente; para determinarlo se examina su longitud
+- D. Son perpendiculares si pasan por el origen; para determinarlo se examina su radio
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 187
+**Subtema:** Ecuaciones de rectas · Rectas paralelas y perpendiculares
+
+Si se intersecan en ángulo recto, se dice que son perpendiculares. Para determinar si dos rectas son paralelas o perpendiculares se examinan sus pendientes.
+
+### 50
+
+En relación con el libro de Geometría Analítica, según el Teorema 4.3.5, si L₁ y L₂ son rectas con pendientes m₁ y m₂, ¿cuándo es L₁ paralela a L₂?
+
+- A. Si y sólo si m₁ = m₂
+- B. Si y sólo si m₁m₂ = −1
+- C. Si y sólo si m₁ = −m₂
+- D. Si y sólo si m₁ + m₂ = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 187
+**Subtema:** Ecuaciones de rectas · Teorema 4.3.5 rectas paralelas
+
+Si L₁ y L₂ son rectas con pendientes m₁ y m₂, respectivamente, entonces L₁ es paralela a L₂ si y sólo si m₁ = m₂.
+
+### 51
+
+En relación con el libro de Geometría Analítica, según el Teorema 4.3.5, si L₁ y L₂ son rectas con pendientes m₁ y m₂, ¿cuándo es L₁ perpendicular a L₂?
+
+- A. Si y sólo si m₁m₂ = −1
+- B. Si y sólo si m₁ = m₂
+- C. Si y sólo si m₁m₂ = 1
+- D. Si y sólo si m₁ + m₂ = −1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 187
+**Subtema:** Ecuaciones de rectas · Teorema 4.3.5 rectas perpendiculares
+
+Si L₁ y L₂ son rectas con pendientes m₁ y m₂, respectivamente, entonces L₁ es perpendicular a L₂ si y sólo si m₁m₂ = −1.
+
+### 52
+
+En relación con el libro de Geometría Analítica, ¿qué implica la condición m₁m₂ = −1 acerca de las pendientes de dos rectas perpendiculares?
+
+- A. Implica que m₂ = −1/m₁, es decir, las pendientes son recíprocos negativos
+- B. Implica que m₂ = m₁, es decir, las pendientes son iguales
+- C. Implica que m₂ = 1/m₁, es decir, las pendientes son recíprocos
+- D. Implica que m₂ = 0, es decir, una recta es horizontal
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 187
+**Subtema:** Ecuaciones de rectas · Recíprocos negativos
+
+La condición m₁m₂ = −1 implica que m₂ = −1/m₁, es decir, las pendientes son recíprocos negativos.
+
+> Dato olvidable: rectas paralelas → pendientes iguales; rectas perpendiculares → pendientes recíprocos negativos (su producto es −1).
