@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 8 · Trigonometría del triángulo rectángulo
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 8 → EN CURSO (§8.1–§8.3 hechos)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 8 → CERRADO (§8.1–§8.4 completos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -48,7 +48,7 @@ El **capítulo 8** completo tiene cuatro secciones:
 - **§8.1 Ángulos y sus medidas** (pp. 356–364) ← este archivo lo cubre.
 - **§8.2 Trigonometría del triángulo rectángulo** (pp. 365–370) ← este archivo lo cubre.
 - **§8.3 Funciones trigonométricas de ángulos especiales** (pp. 371–374) ← este archivo lo cubre.
-- §8.4 Funciones trigonométricas de ángulos generales (pp. 375–385).
+- **§8.4 Funciones trigonométricas de ángulos generales** (pp. 375–385) ← este archivo lo cubre.
 
 Los *Ejercicios de repaso* (p. 386 en adelante) quedan fuera por la norma de teoría sobre
 práctica. La reseña histórica de la portadilla (p. 355) sí entra: son datos de recuerdo.
@@ -88,10 +88,22 @@ la **Tabla 8.3.1** (`sen 45°=cos 45°=√2/2`; `sen 30°=1/2`, `cos 30°=√3/2
 calculadora (modo grados/radianes, convertir DMS a decimal). Valores verificados contra las
 hojas renderizadas 388, 389 y 390; prosa por OCR.
 
-**Pendiente:** falta la sección **§8.4 (Funciones trigonométricas de ángulos generales)**
-para cerrar el capítulo 8; y
-después los capítulos **9 y 12**, que el temario de la EMI (`GA-03-2026`) pide completos.
-**Geometría Analítica NO está cerrada para la EMI.** El capítulo 4 ya está cerrado
+**§8.4 · COMPLETO** en 12 reactivos (reactivos 47–58), toda la teoría de la sección
+(pp. 375–382): la **Definición 8.4.1** de las funciones trigonométricas de un **ángulo
+general** vía un punto `P(x,y)` del lado terminal y `r=√(x²+y²)` (`sen=y/r`, `cos=x/r`,
+`tan=y/x`, `cot=x/y`, `sec=r/x`, `csc=r/y`) y su independencia del punto elegido; los
+**dominios** (seno y coseno para todo ángulo; tangente y secante indefinidas en el eje y,
+cotangente y cosecante en el eje x) y el **acotamiento** (`|sen θ|≤1`, `|cos θ|≤1`,
+`|csc θ|≥1`, `|sec θ|≥1`); los **signos algebraicos por cuadrante** (Figura 8.4.5); la
+validez general de las **identidades pitagóricas** (segunda parte); la **Definición 8.4.2**
+de **ángulo de referencia** `θ'` (ángulo agudo entre el lado terminal y el eje x), su
+**propiedad** (`|f(θ)|=f(θ')`) y el **procedimiento paso por paso** para evaluar cualquier
+ángulo; más la nota del aula de dominar todo sin calculadora. Fórmulas verificadas contra
+las hojas renderizadas 393, 394, 395, 397 y 398; prosa por OCR.
+
+**CAPÍTULO 8 CERRADO** en 58 reactivos (§8.1–§8.4). **Pendiente:** faltan los capítulos
+**9 y 12**, que el temario de la EMI (`GA-03-2026`) pide completos. **Geometría Analítica NO
+está cerrada para la EMI.** El capítulo 4 ya está cerrado
 (`zill-04-coordenadas-rectangulares.md`, 64 reactivos); este archivo (capítulo 8) sostiene
 el pendiente de la materia hasta que exista el archivo del capítulo 9.
 
@@ -856,3 +868,205 @@ En relación con el libro de Geometría Analítica, antes de usar una calculador
 Antes de usar una calculadora para obtener valores de funciones trigonométricas de ángulos medidos en radianes, es necesario seleccionar el modo de radianes de la calculadora. Si los ángulos se miden en grados, entonces hay que seleccionar el modo de grados. Además, si los ángulos se dan en grados, minutos y segundos, antes deben convertirse a decimales.
 
 > Dato olvidable: los tres ángulos especiales salen de dos triángulos —el rectángulo isósceles (45°) y la mitad del equilátero (30° y 60°)—. La tangente de 45° es 1; la de 30° y 60° son recíprocas (√3/3 y √3).
+
+---
+
+## Sub-lote 14 · Funciones trigonométricas de un ángulo general (pp. 375–376)
+
+### 47
+
+En relación con el libro de Geometría Analítica, según la Definición 8.4.1, para un ángulo θ cualquiera en posición estándar con un punto P(x, y) en su lado terminal y r = √(x² + y²), ¿cómo se definen el seno y el coseno?
+
+- A. sen θ = y/r y cos θ = x/r
+- B. sen θ = x/r y cos θ = y/r
+- C. sen θ = r/y y cos θ = r/x
+- D. sen θ = y/x y cos θ = x/y
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 376
+**Subtema:** Ángulos generales · Definición 8.4.1 seno y coseno
+
+Sea θ cualquier ángulo en posición estándar y sea P(x, y) cualquier punto, excepto (0, 0), en el lado terminal de θ. Si r = √(x² + y²) es la distancia entre (0, 0) y P(x, y), entonces sen θ = y/r y cos θ = x/r.
+
+### 48
+
+En relación con el libro de Geometría Analítica, según la Definición 8.4.1, ¿cómo se definen la tangente, la cotangente, la secante y la cosecante de un ángulo general θ?
+
+- A. tan θ = y/x, cot θ = x/y, sec θ = r/x y csc θ = r/y, siempre que ningún denominador sea 0
+- B. tan θ = x/y, cot θ = y/x, sec θ = x/r y csc θ = y/r
+- C. tan θ = r/x, cot θ = r/y, sec θ = y/x y csc θ = x/y
+- D. tan θ = y/r, cot θ = x/r, sec θ = x/y y csc θ = y/x
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 376
+**Subtema:** Ángulos generales · Definición 8.4.1 tangente, cotangente, secante y cosecante
+
+Para un ángulo general θ: tan θ = y/x, cot θ = x/y, sec θ = r/x y csc θ = r/y, siempre que ningún denominador sea 0.
+
+### 49
+
+En relación con el libro de Geometría Analítica, ¿de qué dependen los valores de las seis funciones trigonométricas de un ángulo general θ?
+
+- A. Dependen sólo del ángulo θ y no del punto P(x, y) que se seleccione en el lado terminal de θ
+- B. Dependen del punto P(x, y) elegido, aunque el ángulo sea el mismo
+- C. Dependen de la distancia r únicamente
+- D. Dependen del cuadrante y del signo de r
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 376
+**Subtema:** Ángulos generales · Independencia del punto P
+
+Se puede demostrar, usando triángulos semejantes, que los valores de las seis funciones trigonométricas dependen sólo del ángulo θ y no del punto P(x, y) que se seleccione en el lado terminal de θ.
+
+---
+
+## Sub-lote 15 · Dominios y acotamiento (pp. 376–377)
+
+### 50
+
+En relación con el libro de Geometría Analítica, ¿para qué ángulos están definidos el seno y el coseno, y cuándo son indefinidas la tangente y la secante?
+
+- A. El seno y el coseno están definidos para todos los ángulos θ; la tangente y la secante son indefinidas si el lado terminal de θ está en el eje y, porque entonces x = 0
+- B. El seno y el coseno son indefinidos en el eje x; la tangente y la secante están definidas para todo ángulo
+- C. Las cuatro funciones son indefinidas en el origen únicamente
+- D. El seno y el coseno son indefinidos si y = 0; la tangente y la secante si r = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 376
+**Subtema:** Ángulos generales · Dominios de seno, coseno, tangente y secante
+
+Los dominios de las funciones seno y coseno constan en su totalidad de ángulos θ. Las funciones tangente y secante serán indefinidas si el lado terminal de θ está situado en el eje y, porque entonces x = 0.
+
+### 51
+
+En relación con el libro de Geometría Analítica, ¿cuándo no están definidas la cotangente y la cosecante?
+
+- A. Para ángulos cuyos lados terminales se sitúan sobre el eje x, porque entonces y = 0
+- B. Para ángulos cuyos lados terminales se sitúan sobre el eje y, porque entonces x = 0
+- C. Para ángulos agudos únicamente
+- D. Nunca; están definidas para todo ángulo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 377
+**Subtema:** Ángulos generales · Dominios de cotangente y cosecante
+
+Las funciones cotangente y cosecante no están definidas para ángulos cuyos lados terminales se sitúan sobre el eje x, porque entonces y = 0.
+
+### 52
+
+En relación con el libro de Geometría Analítica, ¿qué desigualdades (acotamiento) cumplen las funciones trigonométricas de un ángulo general θ?
+
+- A. |sen θ| ≤ 1 y |cos θ| ≤ 1; |csc θ| ≥ 1 y |sec θ| ≥ 1
+- B. |sen θ| ≥ 1 y |cos θ| ≥ 1; |csc θ| ≤ 1 y |sec θ| ≤ 1
+- C. |sen θ| ≤ 1 y |csc θ| ≤ 1; |cos θ| ≥ 1 y |sec θ| ≥ 1
+- D. Todas las funciones están acotadas entre −1 y 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 377
+**Subtema:** Ángulos generales · Acotamiento de las funciones
+
+Como r = √(x² + y²), se tiene |sen θ| ≤ 1 y |cos θ| ≤ 1; asimismo, |csc θ| ≥ 1 y |sec θ| ≥ 1. Estas desigualdades son válidas para cada θ en el dominio de cada función.
+
+---
+
+## Sub-lote 16 · Signos algebraicos por cuadrante (p. 377)
+
+### 53
+
+En relación con el libro de Geometría Analítica, según la Figura 8.4.5, ¿qué funciones trigonométricas son positivas en cada cuadrante?
+
+- A. En el I todas son positivas; en el II sólo el seno y la cosecante; en el III sólo la tangente y la cotangente; en el IV sólo el coseno y la secante
+- B. En el I sólo el seno; en el II sólo el coseno; en el III sólo la tangente; en el IV sólo la cotangente
+- C. En el I todas son negativas; en el II todas positivas; en el III todas negativas; en el IV todas positivas
+- D. En el I el coseno y la secante; en el II la tangente y la cotangente; en el III el seno y la cosecante; en el IV todas
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 377
+**Subtema:** Ángulos generales · Signos por cuadrante
+
+Según la Figura 8.4.5: en el cuadrante I las seis funciones son positivas; en el II sólo el seno y la cosecante son positivas; en el III sólo la tangente y la cotangente; y en el IV sólo el coseno y la secante.
+
+---
+
+## Sub-lote 17 · Identidades pitagóricas (segunda parte) (p. 378)
+
+### 54
+
+En relación con el libro de Geometría Analítica, ¿para qué ángulos son válidas las identidades recíprocas, por cociente y pitagóricas cuando se extienden a ángulos generales, y qué las distingue de las de ángulos agudos?
+
+- A. Son válidas para todos los ángulos cuyas funciones están definidas, y los valores de las funciones pueden tener valores negativos
+- B. Son válidas sólo para ángulos agudos, y sus valores son siempre positivos
+- C. Son válidas sólo para ángulos cuadrantales, y sus valores son siempre 0 o 1
+- D. Son válidas sólo para ángulos medidos en grados
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 378
+**Subtema:** Ángulos generales · Validez de las identidades pitagóricas
+
+Las identidades recíprocas, por cociente y pitagóricas también son válidas para los ángulos generales; a diferencia de las de ángulos agudos, son válidas para todos los ángulos cuyas funciones están definidas, y los valores de las funciones pueden tener valores negativos.
+
+---
+
+## Sub-lote 18 · Ángulo de referencia (pp. 380–381)
+
+### 55
+
+En relación con el libro de Geometría Analítica, según la Definición 8.4.2, ¿qué es el ángulo de referencia θ' de un ángulo θ (cuyo lado terminal no está sobre un eje)?
+
+- A. El ángulo agudo formado por el lado terminal de θ y el eje x
+- B. El ángulo agudo formado por el lado terminal de θ y el eje y
+- C. El ángulo coterminal con θ entre 0° y 360°
+- D. El ángulo suplementario de θ
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 380
+**Subtema:** Ángulos generales · Definición 8.4.2 ángulo de referencia
+
+Sea θ un ángulo en posición estándar tal que su lado terminal no se sitúa sobre un eje de coordenadas. El ángulo de referencia θ' para θ se define como el ángulo agudo formado por el lado terminal de θ y el eje x.
+
+### 56
+
+En relación con el libro de Geometría Analítica, ¿cuál es la propiedad de los ángulos de referencia que los hace útiles para evaluar funciones trigonométricas?
+
+- A. El valor absoluto de toda función trigonométrica de un ángulo θ es igual al valor de esa función en el ángulo de referencia θ'
+- B. El valor de toda función trigonométrica de θ es el doble del valor en θ'
+- C. Las funciones de θ y de θ' siempre tienen signos opuestos
+- D. El ángulo de referencia θ' siempre tiene las mismas funciones que su suplemento
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 380
+**Subtema:** Ángulos generales · Propiedad de los ángulos de referencia
+
+El valor absoluto de toda función trigonométrica de un ángulo θ es igual al valor de esa función en el ángulo de referencia θ'. Por ejemplo, |sen θ| = sen θ', |cos θ| = cos θ', y así sucesivamente.
+
+### 57
+
+En relación con el libro de Geometría Analítica, ¿cuáles son los tres pasos del procedimiento para calcular el valor de una función trigonométrica de cualquier ángulo θ?
+
+- A. i) Obtener el ángulo de referencia θ'; ii) determinar el valor de la función en θ'; iii) seleccionar el signo algebraico correcto según el cuadrante en que esté el lado terminal de θ
+- B. i) Convertir θ a radianes; ii) evaluar con calculadora; iii) redondear
+- C. i) Hallar el ángulo coterminal; ii) restar 360°; iii) tomar el valor absoluto
+- D. i) Sumar 90° a θ; ii) evaluar el complemento; iii) invertir el signo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 380
+**Subtema:** Ángulos generales · Procedimiento con ángulo de referencia
+
+Para calcular el valor de una función trigonométrica de cualquier ángulo θ: i) obtenga el ángulo de referencia θ'; ii) determine el valor de la función trigonométrica de θ'; iii) seleccione el signo algebraico correcto del valor de ii), considerando en qué cuadrante está situado el lado terminal del ángulo θ.
+
+### 58
+
+En relación con el libro de Geometría Analítica, según la "Nota del aula" de la sección 8.4, ¿qué se recomienda para comprender plenamente la trigonometría?
+
+- A. Dominar los conceptos y ser capaz de ejecutar, sin la ayuda de una calculadora, los tipos de cálculos y simplificaciones estudiados
+- B. Depender de la calculadora para todos los cálculos
+- C. Memorizar sólo los valores de los ángulos cuadrantales
+- D. Usar siempre el modo de radianes en la calculadora
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 382
+**Subtema:** Ángulos generales · Nota del aula
+
+Para comprender plenamente la trigonometría, es esencial que domine los conceptos y sea capaz de ejecutar, sin la ayuda de una calculadora, los tipos de cálculos y simplificaciones estudiados.
+
+> Dato olvidable: los signos por cuadrante siguen el patrón "Todas, Seno, Tangente, Coseno" (I→IV): en el I todas positivas, en el II el seno (y su recíproca csc), en el III la tangente (y cot), en el IV el coseno (y sec).
