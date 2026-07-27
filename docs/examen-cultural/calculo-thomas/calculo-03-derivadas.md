@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 3 · Derivadas
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.8 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → CERRADO (80 reactivos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 3 lo pide **la EMI** (Escuela Militar de
@@ -93,8 +93,19 @@ involucra ambas variables (x y y), y la recta normal (perpendicular a la tangent
 de un problema de tasas relacionadas y la estrategia de seis pasos (dibujar y nombrar
 variables, derivar respecto a t, evaluar).
 
-**Pendiente:** falta la sección **§3.9** para
-cerrar el capítulo 3, y con él la materia Cálculo para la EMI. Este
+**§3.9 · COMPLETO** en 10 reactivos (reactivos 71–80), toda la teoría de la sección
+(pp. 165–173): la **linealización** L(x) = ƒ(a) + ƒ'(a)(x − a), la aproximación lineal
+estándar y su centro; la aproximación (1 + x)^k ≈ 1 + kx; las **diferenciales** (dx
+independiente, dy = ƒ'(x) dx dependiente); la estimación con diferenciales; el error de
+aproximación (∆ƒ − dƒ); y la sensibilidad al cambio (cambios absoluto, relativo y
+porcentual). Notación verificada contra la hoja renderizada 184.
+
+**Con §3.9 queda CERRADO el capítulo 3 · Derivadas, en 80 reactivos.**
+
+**Pendiente:** ninguno de este capítulo. Con el capítulo 3, **la materia Cálculo queda
+CERRADA para la EMI** en los tres capítulos que pide su temario (`CDI-02-2026`): cap 1
+(Funciones, 108), cap 2 (Límites y continuidad, 81) y cap 3 (Derivadas, 80). A la EMI
+le queda aparte **Geometría Analítica (Zill)**, que es otro libro. Este
 archivo (capítulo 3) es el último del temario de Cálculo: no quedan otros capítulos
 por empezar, así que sostiene el pendiente de la materia hasta que el propio
 capítulo 3 se cierre. **Cálculo NO está cerrada para la EMI.**
@@ -1269,3 +1280,167 @@ En relación con el libro de Cálculo, en la estrategia para tasas relacionadas,
 **Subtema:** Derivadas · Estrategia para tasas relacionadas
 
 Derive con respecto a t. Exprese la razón que le interesa determinar en términos de las razones y las variables cuyos valores conoce.
+
+---
+
+## Sub-lote 21 · Linealización (pp. 165–168)
+
+### 71
+
+En relación con el libro de Cálculo, ¿cómo se comporta localmente toda curva diferenciable?
+
+- A. Como su recta tangente
+- B. Como una recta horizontal
+- C. Como una parábola
+- D. Como una asíntota
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 166
+**Subtema:** Derivadas · Linealización (idea)
+
+Toda curva diferenciable se comporta localmente como su recta tangente.
+
+### 72
+
+En relación con el libro de Cálculo, si ƒ es diferenciable en x = a, ¿cuál es la linealización de ƒ en a?
+
+- A. L(x) = ƒ(a) + ƒ'(a)(x − a)
+- B. L(x) = ƒ(a) · ƒ'(a) · x
+- C. L(x) = ƒ'(a)(x − a)
+- D. L(x) = ƒ(a) + ƒ(a)(x − a)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 166
+**Subtema:** Derivadas · Linealización
+
+Si ƒ es diferenciable en x = a, la función que aproxima L(x) = ƒ(a) + ƒ'(a)(x − a) es la linealización de ƒ en a.
+
+### 73
+
+En relación con el libro de Cálculo, ¿cómo se llama la aproximación ƒ(x) ≈ L(x), y qué es el punto x = a?
+
+- A. Es la aproximación lineal estándar de ƒ en a; el punto x = a es el centro de la aproximación
+- B. Es la derivada de ƒ; x = a es una raíz
+- C. Es la integral de ƒ; x = a es el límite
+- D. Es la asíntota de ƒ; x = a es el vértice
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 166
+**Subtema:** Derivadas · Aproximación lineal estándar
+
+La aproximación ƒ(x) ≈ L(x) de ƒ por L es la aproximación lineal estándar de ƒ en a. El punto x = a es el centro de la aproximación.
+
+### 74
+
+En relación con el libro de Cálculo, ¿cuál es la aproximación lineal para raíces y potencias, válida para x cerca de 0 y cualquier número k?
+
+- A. (1 + x)^k ≈ 1 + kx
+- B. (1 + x)^k ≈ 1 + x^k
+- C. (1 + x)^k ≈ k + x
+- D. (1 + x)^k ≈ 1 − kx
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 168
+**Subtema:** Derivadas · Aproximación de raíces y potencias
+
+Una aproximación lineal importante para raíces y potencias es (1 + x)^k ≈ 1 + kx (x cerca de 0; cualquier número k).
+
+> Dato útil: sirve para estimar raíces y potencias mentalmente cuando x es pequeña.
+
+---
+
+## Sub-lote 22 · Diferenciales (pp. 168–170)
+
+### 75
+
+En relación con el libro de Cálculo, según la definición, siendo y = ƒ(x) diferenciable, ¿qué es la diferencial dy?
+
+- A. dy = ƒ'(x) dx, donde dx es una variable independiente
+- B. dy = ƒ(x) dx
+- C. dy = dx / ƒ'(x)
+- D. dy = ƒ'(x) / dx
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 168
+**Subtema:** Derivadas · Diferencial
+
+Sea y = ƒ(x) una función diferenciable. La diferencial dx es una variable independiente. La diferencial dy es dy = ƒ'(x) dx.
+
+### 76
+
+En relación con el libro de Cálculo, en la definición de diferenciales, ¿cuál es la variable independiente y cuál la dependiente?
+
+- A. dx es variable independiente; dy siempre es variable dependiente (depende de x y de dx)
+- B. dy es independiente; dx es dependiente
+- C. Ambas son independientes
+- D. Ambas son dependientes
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 168
+**Subtema:** Derivadas · Variables diferenciales
+
+La diferencial dx es una variable independiente. A diferencia de la variable independiente dx, la variable dy siempre es una variable dependiente; depende tanto de x como de dx.
+
+### 77
+
+En relación con el libro de Cálculo, ¿cómo se estima ƒ(a + dx) con diferenciales cuando dx = ∆x es pequeño?
+
+- A. ƒ(a + dx) ≈ ƒ(a) + dy
+- B. ƒ(a + dx) ≈ ƒ(a) − dy
+- C. ƒ(a + dx) ≈ dy
+- D. ƒ(a + dx) ≈ ƒ(a) · dy
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 170
+**Subtema:** Derivadas · Estimación con diferenciales
+
+La aproximación diferencial nos da ƒ(a + dx) ≈ ƒ(a) + dy cuando dx = ∆x.
+
+---
+
+## Sub-lote 23 · Error y sensibilidad al cambio (pp. 171–173)
+
+### 78
+
+En relación con el libro de Cálculo, ¿cómo se mide el error de la aproximación diferencial?
+
+- A. Restando dƒ de ∆ƒ: error de aproximación = ∆ƒ − dƒ
+- B. Sumando dƒ y ∆ƒ
+- C. Multiplicando dƒ por ∆ƒ
+- D. Dividiendo ∆ƒ entre dƒ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 171
+**Subtema:** Derivadas · Error de aproximación
+
+El error de aproximación se mide restando dƒ de ∆ƒ: Error de aproximación = ∆ƒ − dƒ.
+
+### 79
+
+En relación con el libro de Cálculo, ¿qué indica la ecuación dƒ = ƒ'(x) dx sobre la sensibilidad?
+
+- A. Indica qué tan sensible es el valor de ƒ con respecto a un cambio en los valores de x
+- B. Indica el área bajo la curva de ƒ
+- C. Indica el dominio de ƒ
+- D. Indica la segunda derivada de ƒ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 173
+**Subtema:** Derivadas · Sensibilidad al cambio
+
+La ecuación dƒ = ƒ'(x) dx indica qué tan sensible es el valor de ƒ con respecto a un cambio en los valores de x.
+
+### 80
+
+En relación con el libro de Cálculo, ¿de qué tres maneras se puede describir el cambio en ƒ al moverse de a a un punto cercano a + dx?
+
+- A. Cambio absoluto, cambio relativo y cambio porcentual
+- B. Cambio positivo, negativo y neutro
+- C. Cambio lineal, cuadrático y cúbico
+- D. Cambio inicial, medio y final
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 173
+**Subtema:** Derivadas · Cambio absoluto, relativo y porcentual
+
+Cuando nos movemos de a hacia un punto cercano a + dx, podemos describir el cambio en ƒ de tres maneras: cambio absoluto, cambio relativo y cambio porcentual.
