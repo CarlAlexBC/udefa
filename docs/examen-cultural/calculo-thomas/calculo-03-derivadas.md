@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 3 · Derivadas
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.2 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.3 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 3 lo pide **la EMI** (Escuela Militar de
@@ -57,7 +57,14 @@ un intervalo y la derivada como límites laterales iguales; por qué una funció
 derivada (esquina, cúspide); y el **Teorema 1** (diferenciable ⟹ continua) con su
 recíproco falso. Notación verificada contra la hoja renderizada 129.
 
-**Pendiente:** faltan las secciones **§3.3, §3.4, §3.5, §3.6, §3.7, §3.8 y §3.9** para
+**§3.3 · COMPLETO** en 13 reactivos (reactivos 22–34), toda la teoría de la sección
+(pp. 118–124): las reglas de diferenciación —constante, potencia (entero positivo y
+versión general), múltiplo constante, suma y diferencia, **producto** y **cociente**—;
+la advertencia de que la derivada de un producto no es el producto de las derivadas; y
+las derivadas de orden superior (segunda, n-ésima y su lectura). Notación verificada
+contra las hojas renderizadas 140 y 141.
+
+**Pendiente:** faltan las secciones **§3.4, §3.5, §3.6, §3.7, §3.8 y §3.9** para
 cerrar el capítulo 3, y con él la materia Cálculo para la EMI. Este
 archivo (capítulo 3) es el último del temario de Cálculo: no quedan otros capítulos
 por empezar, así que sostiene el pendiente de la materia hasta que el propio
@@ -432,3 +439,216 @@ En relación con el libro de Cálculo, ¿es cierto el recíproco del Teorema 1 (
 El recíproco del teorema 1 es falso. Una función no necesariamente tiene derivada en un punto donde es continua, como vimos en el ejemplo 4 con la función valor absoluto.
 
 > Dato estrella: diferenciable ⟹ continua, pero continua NO ⟹ diferenciable (el valor absoluto es continuo en 0 pero no diferenciable ahí).
+
+---
+
+## Sub-lote 8 · Reglas de la constante, la potencia, el múltiplo y la suma (pp. 118–121)
+
+### 22
+
+En relación con el libro de Cálculo, si ƒ tiene el valor constante ƒ(x) = c, ¿cuál es su derivada?
+
+- A. dƒ/dx = (d/dx)(c) = 0
+- B. dƒ/dx = c
+- C. dƒ/dx = 1
+- D. dƒ/dx = cx
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 118
+**Subtema:** Derivadas · Derivada de una constante
+
+Si ƒ tiene el valor constante ƒ(x) = c, entonces, dƒ/dx = (d/dx)(c) = 0.
+
+### 23
+
+En relación con el libro de Cálculo, según la regla de la potencia, si n es un entero positivo, ¿cuál es la derivada de xⁿ?
+
+- A. (d/dx) xⁿ = nxⁿ⁻¹
+- B. (d/dx) xⁿ = xⁿ⁻¹
+- C. (d/dx) xⁿ = nxⁿ⁺¹
+- D. (d/dx) xⁿ = (1/n)xⁿ⁻¹
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 119
+**Subtema:** Derivadas · Regla de la potencia
+
+Si n es un entero positivo, entonces, (d/dx) xⁿ = nxⁿ⁻¹.
+
+### 24
+
+En relación con el libro de Cálculo, según la versión general de la regla de la potencia, ¿para qué valores de n vale (d/dx) xⁿ = nxⁿ⁻¹?
+
+- A. Para n cualquier número real (donde xⁿ y xⁿ⁻¹ estén definidas)
+- B. Sólo para n entero positivo
+- C. Sólo para n entero
+- D. Sólo para n racional
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 119
+**Subtema:** Derivadas · Regla de la potencia (versión general)
+
+Si n es cualquier número real, entonces, (d/dx) xⁿ = nxⁿ⁻¹, para toda x donde las potencias xⁿ y xⁿ⁻¹ están definidas.
+
+> Dato fino: la regla vale para cualquier exponente real (negativo, fraccionario o irracional), no sólo para enteros.
+
+### 25
+
+En relación con el libro de Cálculo, ¿cómo se aplica la regla de la potencia?
+
+- A. Se resta 1 del exponente original y se multiplica el resultado por el exponente original
+- B. Se suma 1 al exponente y se divide entre el exponente
+- C. Se multiplica el exponente por sí mismo
+- D. Se deja el exponente igual y se multiplica por x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 119
+**Subtema:** Derivadas · Aplicación de la regla de la potencia
+
+Para aplicar la regla de la potencia, se resta 1 del exponente original y se multiplica el resultado por el exponente original.
+
+### 26
+
+En relación con el libro de Cálculo, según la regla del múltiplo constante, si u es diferenciable y c es una constante, ¿cuál es (d/dx)(cu)?
+
+- A. (d/dx)(cu) = c du/dx
+- B. (d/dx)(cu) = du/dx
+- C. (d/dx)(cu) = c
+- D. (d/dx)(cu) = cu du/dx
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 120
+**Subtema:** Derivadas · Regla del múltiplo constante
+
+Si u es una función diferenciable de x, y c es una constante, entonces, (d/dx)(cu) = c du/dx.
+
+### 27
+
+En relación con el libro de Cálculo, según la regla de la suma, si u y v son diferenciables, ¿cuál es (d/dx)(u + v)?
+
+- A. (d/dx)(u + v) = du/dx + dv/dx
+- B. (d/dx)(u + v) = (du/dx)(dv/dx)
+- C. (d/dx)(u + v) = u dv/dx + v du/dx
+- D. (d/dx)(u + v) = du/dx − dv/dx
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 120
+**Subtema:** Derivadas · Regla de la suma
+
+Si u y v son funciones diferenciables de x, entonces, (d/dx)(u + v) = du/dx + dv/dx.
+
+### 28
+
+En relación con el libro de Cálculo, según la regla de la diferencia, ¿cuál es (d/dx)(u − v)?
+
+- A. (d/dx)(u − v) = du/dx − dv/dx
+- B. (d/dx)(u − v) = dv/dx − du/dx
+- C. (d/dx)(u − v) = du/dx + dv/dx
+- D. (d/dx)(u − v) = u du/dx − v dv/dx
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 121
+**Subtema:** Derivadas · Regla de la diferencia
+
+La derivada de una resta de funciones diferenciables es la resta de sus derivadas: (d/dx)(u − v) = du/dx − dv/dx.
+
+---
+
+## Sub-lote 9 · Reglas del producto y del cociente (pp. 122–123)
+
+### 29
+
+En relación con el libro de Cálculo, ¿la derivada del producto de dos funciones es el producto de sus derivadas?
+
+- A. No; la derivada del producto de dos funciones no es el producto de sus derivadas
+- B. Sí; siempre es el producto de sus derivadas
+- C. Sí, salvo cuando una de las funciones es constante
+- D. Sólo cuando ambas son polinomios
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 122
+**Subtema:** Derivadas · Advertencia sobre el producto
+
+La derivada del producto de dos funciones no es el producto de sus derivadas.
+
+> Dato fino: la suma sí se deriva término a término, pero el producto NO.
+
+### 30
+
+En relación con el libro de Cálculo, según la regla del producto, si u y v son diferenciables, ¿cuál es (d/dx)(uv)?
+
+- A. (d/dx)(uv) = u dv/dx + v du/dx
+- B. (d/dx)(uv) = (du/dx)(dv/dx)
+- C. (d/dx)(uv) = u dv/dx − v du/dx
+- D. (d/dx)(uv) = du/dx + dv/dx
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 122
+**Subtema:** Derivadas · Regla del producto
+
+Si u y v son diferenciables en x, entonces, también lo es su producto uv, y (d/dx)(uv) = u dv/dx + v du/dx.
+
+### 31
+
+En relación con el libro de Cálculo, según la regla del cociente, si u y v son diferenciables y v(x) ≠ 0, ¿cuál es (d/dx)(u/v)?
+
+- A. (d/dx)(u/v) = [v du/dx − u dv/dx] / v²
+- B. (d/dx)(u/v) = [u dv/dx − v du/dx] / v²
+- C. (d/dx)(u/v) = [v du/dx + u dv/dx] / v²
+- D. (d/dx)(u/v) = (du/dx) / (dv/dx)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 123
+**Subtema:** Derivadas · Regla del cociente
+
+Si u y v son diferenciables en x, y si v(x) ≠ 0, entonces, el cociente u/v es diferenciable en x, y (d/dx)(u/v) = [v du/dx − u dv/dx] / v².
+
+> Dato fino: en el numerador va v·(du/dx) − u·(dv/dx), en ese orden y con el signo menos, todo sobre v².
+
+---
+
+## Sub-lote 10 · Derivadas de orden superior (p. 124)
+
+### 32
+
+En relación con el libro de Cálculo, ¿qué es la segunda derivada ƒ'' de una función ƒ?
+
+- A. La derivada de la primera derivada: ƒ'' = (ƒ')'
+- B. La primera derivada elevada al cuadrado: (ƒ')²
+- C. El doble de la primera derivada
+- D. La integral de la primera derivada
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 124
+**Subtema:** Derivadas · Segunda derivada
+
+La función ƒ'' se conoce como la segunda derivada de ƒ porque es la derivada de la primera derivada. Así, ƒ'' = (ƒ')'.
+
+### 33
+
+En relación con el libro de Cálculo, ¿qué denota y⁽ⁿ⁾?
+
+- A. La n-ésima derivada de y con respecto a x
+- B. La n-ésima potencia de y
+- C. El producto de n derivadas de y
+- D. La raíz n-ésima de y
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 124
+**Subtema:** Derivadas · n-ésima derivada
+
+y⁽ⁿ⁾ = (d/dx) y⁽ⁿ⁻¹⁾ = dⁿy/dxⁿ = Dⁿy denota la n-ésima derivada de y con respecto a x.
+
+### 34
+
+En relación con el libro de Cálculo, ¿cómo se leen los símbolos y', y'' y y'''?
+
+- A. "y prima", "y biprima" y "y triprima"
+- B. "y uno", "y dos" y "y tres"
+- C. "derivada de y", "integral de y" y "límite de y"
+- D. "y prima", "y segunda" y "y cubo"
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 124
+**Subtema:** Derivadas · Lectura de los símbolos
+
+Los símbolos se leen: y' "y prima", y'' "y biprima", y''' "y triprima".
