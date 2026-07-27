@@ -95,10 +95,9 @@ contra las hojas renderizadas 105 y 111.
 
 **Con §2.6 queda CERRADO el capítulo 2 · Límites y continuidad, en 81 reactivos.**
 
-**Pendiente:** falta el capítulo **3 (Derivadas)**, que el temario de la EMI
-(`CDI-02-2026`) pide completo. **Cálculo NO está cerrada para la EMI.** Este archivo
-(capítulo 2) sostiene el pendiente de la materia hasta que exista el archivo del
-capítulo 3 (`calculo-03-derivadas.md`).
+**Pendiente:** ninguno de este capítulo. El capítulo 2 · Límites y continuidad está
+cerrado en 81 reactivos. Lo que falta de Cálculo lo declara el archivo del capítulo
+en curso — hoy `calculo-03-derivadas.md`.
 
 ## Criterio: teoría sobre práctica
 
