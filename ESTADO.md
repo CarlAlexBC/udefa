@@ -18,7 +18,7 @@ _Regenerado el 2026-07-27._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, fisica-perez-montiel) | 5347 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
+| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, fisica-perez-montiel) | 5455 | abiertas: EMM · Biología, algebra-baldor · Álgebra, calculo-thomas · Cálculo |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -80,6 +80,7 @@ _Regenerado el 2026-07-27._
 | algebra-baldor · Álgebra · Capítulo XXIV · Ecuaciones simultáneas de primer grado con dos incógnitas | 31 | ninguno. El capítulo XXIV queda cerrado en su teoría (arts. 289–297 y 302–304, pp. 319–335). El capítulo **XXV** tiene su propio archivo (`algebra-25-ecuaciones-simultaneas-tres-incognitas.md`), que sostiene el pendiente de Álgebra; con el XXV cerrado, la materia Álgebra queda cubierta para los cinco planteles. |
 | algebra-baldor · Álgebra · Capítulo XXV · Ecuaciones simultáneas de primer grado con tres o más incógnitas | 35 | ninguno del capítulo XXV. Con él **el temario de Álgebra de la EMOS (`ALGE-04-2026`) queda cubierto**, y con él toda la materia Álgebra en lo que piden los cinco planteles. Queda pendiente, en el Capítulo XXIV, el relleno de la teoría de determinantes de 2º orden (art. 302), que se trabaja en su propio archivo `algebra-24-ecuaciones-simultaneas.md`. |
 | algebra-baldor · Álgebra · Capítulo XXXII · Números complejos | 43 | ninguno de este capítulo. Con el capítulo XXXII, **Álgebra Baldor queda cerrada para la EMI**. |
+| calculo-thomas · Cálculo · Capítulo 1 · Funciones | 108 | faltan los capítulos **2 (Límites y continuidad)** y **3 (Derivadas)**, que el temario de la EMI (`CDI-02-2026`) pide completos. **Cálculo NO está cerrada para la EMI.** Este archivo (capítulo 1) sostiene el pendiente de la materia hasta que exista el archivo del capítulo 2 (`calculo-02-limites-continuidad.md`). |
 | fisica-perez-montiel · Física · Unidad 1 · Introducción al conocimiento de la Física | 20 | ninguno. La Unidad 1 (temas 4–7, únicos que pide el temario) queda cerrada. Con esta unidad, **la materia Física queda CERRADA para la EMO** (`FIS-03-2026`): están escritas y con clave `**Tema:**` todas sus unidades — U1, U2, U4, U5, U6, U8 y U11. |
 | fisica-perez-montiel · Física · Unidad 2 · Unidades y mediciones | 15 | ninguno. La Unidad 2 (temas 1, 3, 4 y 8, únicos que pide el temario) queda cerrada. **La materia Física está CERRADA para la EMO** (`FIS-03-2026`): verificado tema por tema contra `temarios.json` el 24 jul 2026, todas las unidades que pide —U1, U2, U4, U5, U6, U8 y U11— están escritas y con clave `**Tema:**` para que el importador llame exactamente su selección. |
 | fisica-perez-montiel · Física · Unidad 3 · Vectores | 48 | ninguno. La Unidad 3 está cerrada y **keyed**. Con ella, **la materia Física queda CERRADA para la EMA** (`FIS-02-2026`): U3, U4, U5, U6, U8, U9 y U11, todas escritas y con clave `**Tema:**`. Para la **EMM** (`FG-03-2026`) esta unidad se sirve **completa** (los 16 temas); las claves permiten que la EMA reciba sólo su subconjunto (temas 1, 3, 4, 5, 6, 7, 8 y 9). |
@@ -89,7 +90,7 @@ _Regenerado el 2026-07-27._
 | fisica-perez-montiel · Física · Unidad 8 · Hidrostática | 45 | ninguno de contenido. La Unidad 8 queda cerrada para la EMO (temas 1, 2, 3), la EMOS (1, 3), la EMA (2, 3, 4, 5) y la EMMA (1, 2, 3, 4). Queda una decisión de Carlo sobre las "Generalidades" (ver el aviso del encabezado). |
 | fisica-perez-montiel · Física · Unidad 9 · Hidrodinámica | 17 | ninguno. Con los temas 3 y 4, la Unidad 9 queda **CERRADA para la EMA**, el único plantel que la pide. Con esta unidad, **la materia Física queda CERRADA para la EMA** salvo el re-keying de la Unidad 3 (Vectores), que está escrita pero sin la clave `**Tema:**` (pendiente aparte, ver `fisica-03-vectores.md`). |
 | fisica-perez-montiel · Física · Unidad 11 · Termología | 74 | ninguno. Con el **tema 4 · Dilatación de los cuerpos** —añadido el 25 jul 2026 en el sub-lote 10, 18 reactivos— la Unidad 11 queda **CERRADA para los tres planteles** que la piden: la EMO (temas 1, 2, 3, 5, 6, 7, 12), la EMM (1, 2, 3, 5, 7, 12) y la **EMA** (1, 3, 4, 5, 12). El tema 4 era el único hueco vivo de la unidad; ya no queda ninguno. |
-| **Total** | **5347** | |
+| **Total** | **5455** | |
 
 ## Personalidad (remaster)
 
