@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 4 · Sistema de coordenadas rectangulares y gráficas
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 4 → EN CURSO (§4.1–§4.3 hechos)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 4 → CERRADO (§4.1–§4.4 completos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -48,7 +48,7 @@ El **capítulo 4** completo tiene cuatro secciones:
 - **§4.1 El sistema de coordenadas rectangulares** (pp. 168–173) ← este archivo lo cubre.
 - **§4.2 Círculos y gráficas** (pp. 174–182) ← este archivo lo cubre.
 - **§4.3 Ecuaciones de rectas** (pp. 183–189) ← este archivo lo cubre.
-- §4.4 Variación (pp. 190–194).
+- **§4.4 Variación** (pp. 190–194) ← este archivo lo cubre.
 
 Los *Ejercicios de repaso* (pp. 195 en adelante) quedan fuera por la norma de teoría
 sobre práctica.
@@ -83,10 +83,20 @@ lineal general** `ax+by+c=0` y por qué se llama lineal; y el **Teorema 4.3.5** 
 paralelas `m₁=m₂` y perpendiculares `m₁m₂=−1`, recíprocos negativos). Fórmulas verificadas
 contra las hojas renderizadas 200, 201 y 204; prosa por OCR.
 
-**Pendiente:** falta la sección **§4.4 (Variación)** para cerrar el capítulo 4; y
-después los capítulos **8, 9 y 12**, que el temario de la EMI (`GA-03-2026`) pide
-completos. **Geometría Analítica NO está cerrada para la EMI.** Este archivo (capítulo 4)
-sostiene el pendiente de la materia hasta que exista el archivo del capítulo 8.
+**§4.4 · COMPLETO** en 12 reactivos (reactivos 53–64), toda la teoría de la sección
+(pp. 190–193): la introducción (el símbolo `∝` "es proporcional a" y los cuatro tipos de
+variación); la **Definición 4.4.1** (variación directa `y=kx`, constante de
+proporcionalidad, gráfica por el origen con pendiente k), la **ley de Hooke** `F=kx` y la
+variación directa con potencia `y=kxⁿ`; la **Definición 4.4.2** (variación inversa `y=k/x`,
+la forma `xy=k` y la **ley de Boyle** `PV=k`, y la potencia `y=k/xⁿ`); la **variación
+conjunta** `z=kxᵐyⁿ`, la **variación combinada** y la **ley de Gravitación Universal de
+Newton** `F=k·m₁m₂/r²` (con la constante G). Fórmulas verificadas contra las hojas
+renderizadas 207, 208, 209 y 210; prosa por OCR.
+
+**CAPÍTULO 4 CERRADO** en 64 reactivos (§4.1–§4.4). **Pendiente:** faltan los capítulos
+**8, 9 y 12**, que el temario de la EMI (`GA-03-2026`) pide completos. **Geometría
+Analítica NO está cerrada para la EMI.** Este archivo (capítulo 4) sostiene el pendiente de
+la materia hasta que exista el archivo del capítulo 8.
 
 ## Criterio: teoría sobre práctica
 
@@ -951,3 +961,197 @@ En relación con el libro de Geometría Analítica, ¿qué implica la condición
 La condición m₁m₂ = −1 implica que m₂ = −1/m₁, es decir, las pendientes son recíprocos negativos.
 
 > Dato olvidable: rectas paralelas → pendientes iguales; rectas perpendiculares → pendientes recíprocos negativos (su producto es −1).
+
+---
+
+## Sub-lote 16 · Introducción y variación directa (pp. 190–191)
+
+### 53
+
+En relación con el libro de Geometría Analítica, ¿cómo se lee el símbolo ∝ y qué es una proposición matemática como R ∝ P?
+
+- A. El símbolo ∝ se lee "es proporcional a"; una proposición como R ∝ P es un ejemplo de una variación
+- B. El símbolo ∝ se lee "es igual a"; una proposición como R ∝ P es una identidad
+- C. El símbolo ∝ se lee "es mayor que"; una proposición como R ∝ P es una desigualdad
+- D. El símbolo ∝ se lee "es aproximado a"; una proposición como R ∝ P es una estimación
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 190
+**Subtema:** Variación · Símbolo de proporcionalidad
+
+El símbolo ∝ se lee "es proporcional a". La proposición matemática R ∝ P es un ejemplo de una variación.
+
+### 54
+
+En relación con el libro de Geometría Analítica, ¿cuáles son los cuatro tipos de variación que examina la sección?
+
+- A. Directa, inversa, conjunta y combinada
+- B. Directa, inversa, lineal y cuadrática
+- C. Positiva, negativa, cero e indefinida
+- D. Simple, doble, triple y compuesta
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 190
+**Subtema:** Variación · Tipos de variación
+
+En esta sección examinamos cuatro tipos de variación: directa, inversa, conjunta y combinada, cada uno de los cuales produce una ecuación en dos o más variables.
+
+### 55
+
+En relación con el libro de Geometría Analítica, según la Definición 4.4.1, ¿cuándo una cantidad y varía directamente, o es directamente proporcional a una cantidad x?
+
+- A. Si existe un número k diferente de cero tal que y = kx
+- B. Si existe un número k diferente de cero tal que y = k/x
+- C. Si existe un número k diferente de cero tal que y = x + k
+- D. Si existe un número k diferente de cero tal que y = k
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 190
+**Subtema:** Variación · Definición 4.4.1 variación directa
+
+Una cantidad y varía directamente, o es directamente proporcional a una cantidad x si existe un número k diferente de cero tal que y = kx.
+
+### 56
+
+En relación con el libro de Geometría Analítica, en la ecuación y = kx, ¿cómo se llama el número k y cómo es la gráfica de cualquier ecuación de esa forma?
+
+- A. k es la constante de proporcionalidad; la gráfica es una recta que pasa por el origen y tiene pendiente k
+- B. k es la ordenada al origen; la gráfica es una parábola con vértice en el origen
+- C. k es el radio; la gráfica es un círculo con centro en el origen
+- D. k es la abscisa; la gráfica es una recta vertical
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 190
+**Subtema:** Variación · Constante de proporcionalidad
+
+En y = kx decimos que el número k es la constante de proporcionalidad. La gráfica de cualquier ecuación de la forma y = kx es una recta que pasa por el origen y tiene pendiente k.
+
+### 57
+
+En relación con el libro de Geometría Analítica, ¿qué establece la ley de Hooke sobre la fuerza F requerida para mantener un resorte estirado, y cómo se expresa?
+
+- A. La fuerza F es directamente proporcional al alargamiento x, es decir, F = kx
+- B. La fuerza F es inversamente proporcional al alargamiento x, es decir, F = k/x
+- C. La fuerza F es proporcional al cuadrado del alargamiento, es decir, F = kx²
+- D. La fuerza F es constante e independiente del alargamiento, es decir, F = k
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 190
+**Subtema:** Variación · Ley de Hooke
+
+La fuerza F requerida para mantener un resorte estirado x unidades más allá de su longitud natural es directamente proporcional al alargamiento de x, es decir, F = kx. Este resultado se conoce como la ley de Hooke.
+
+### 58
+
+En relación con el libro de Geometría Analítica, ¿cuándo se dice que y varía directamente con la potencia n-ésima de x, y qué se aclara sobre la potencia n?
+
+- A. Si existe una constante k tal que y = kxⁿ, con n > 0; la potencia n no tiene que ser un entero
+- B. Si existe una constante k tal que y = kⁿx; la potencia n debe ser siempre un entero
+- C. Si existe una constante k tal que y = k/xⁿ; la potencia n debe ser negativa
+- D. Si existe una constante k tal que y = nkx; la potencia n debe ser mayor que 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 191
+**Subtema:** Variación · Variación directa con potencia
+
+Decimos que y varía directamente con la potencia n-ésima de x, o que es directamente proporcional a xⁿ, si existe una constante k tal que y = kxⁿ, con n > 0. La potencia n no tiene que ser un entero.
+
+---
+
+## Sub-lote 17 · Variación inversa (pp. 191–192)
+
+### 59
+
+En relación con el libro de Geometría Analítica, según la Definición 4.4.2, ¿cuándo una cantidad y varía inversamente, o es inversamente proporcional a una cantidad x?
+
+- A. Si existe un número k diferente de cero tal que y = k/x
+- B. Si existe un número k diferente de cero tal que y = kx
+- C. Si existe un número k diferente de cero tal que y = x/k
+- D. Si existe un número k diferente de cero tal que y = k − x
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 191
+**Subtema:** Variación · Definición 4.4.2 variación inversa
+
+Una cantidad y varía inversamente, o es inversamente proporcional a una cantidad x si existe un número k diferente de cero tal que y = k/x.
+
+### 60
+
+En relación con el libro de Geometría Analítica, ¿cuál es otra forma de la ecuación de variación inversa, y qué establece la ley de Boyle sobre un gas ideal?
+
+- A. Otra forma es xy = k; la ley de Boyle establece que el producto de la presión P y el volumen V satisface PV = k
+- B. Otra forma es x/y = k; la ley de Boyle establece que P + V = k
+- C. Otra forma es x + y = k; la ley de Boyle establece que P/V = k
+- D. Otra forma es x − y = k; la ley de Boyle establece que P − V = k
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 192
+**Subtema:** Variación · Ley de Boyle
+
+Otra forma de la ecuación de variación inversa es xy = k. En el estudio de los gases, la ley de Boyle establece que el producto de la presión P de un gas ideal y el volumen V ocupado por dicho gas satisface PV = k.
+
+### 61
+
+En relación con el libro de Geometría Analítica, ¿cuándo se dice que y varía inversamente, o es inversamente proporcional a la n-ésima potencia de x?
+
+- A. Si existe una constante k tal que y = k/xⁿ = kx⁻ⁿ, con n > 0
+- B. Si existe una constante k tal que y = kxⁿ, con n > 0
+- C. Si existe una constante k tal que y = xⁿ/k, con n > 0
+- D. Si existe una constante k tal que y = k − xⁿ, con n > 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 192
+**Subtema:** Variación · Variación inversa con potencia
+
+Decimos que y varía inversamente, o es inversamente proporcional a la n-ésima potencia de x si existe una constante k tal que y = k/xⁿ = kx⁻ⁿ, con n > 0.
+
+---
+
+## Sub-lote 18 · Variación conjunta y combinada (pp. 192–193)
+
+### 62
+
+En relación con el libro de Geometría Analítica, si la variable z está dada por z = kxᵐyⁿ (con m > 0 y n > 0), ¿cómo se dice que varía z?
+
+- A. z varía conjuntamente con la m-ésima potencia de x y la n-ésima potencia de y
+- B. z varía inversamente con la suma de x y y
+- C. z varía directamente sólo con la m-ésima potencia de x
+- D. z varía combinadamente con el recíproco de x y y
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 192
+**Subtema:** Variación · Variación conjunta
+
+Si la variable z está dada por z = kxᵐyⁿ, con m > 0 y n > 0, decimos que z varía conjuntamente con la m-ésima potencia de x y la n-ésima potencia de y, o que z es conjuntamente proporcional a xᵐ y yⁿ.
+
+### 63
+
+En relación con el libro de Geometría Analítica, ¿qué es la variación combinada?
+
+- A. Cuando una cantidad es directamente proporcional a varias variables e inversamente proporcional a otras variables
+- B. Cuando una cantidad es proporcional únicamente al cuadrado de una variable
+- C. Cuando una cantidad es constante respecto a todas las variables
+- D. Cuando una cantidad es inversamente proporcional a una sola variable
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 192
+**Subtema:** Variación · Variación combinada
+
+Una cantidad puede ser directamente proporcional a varias variables e inversamente proporcional a otras variables. Este tipo de variación se llama variación combinada.
+
+### 64
+
+En relación con el libro de Geometría Analítica, según la ley de la Gravitación Universal de Newton (ejemplo de variación combinada), ¿cómo es la fuerza entre dos masas puntuales y cómo se expresa?
+
+- A. Es directamente proporcional al producto de las dos masas e inversamente proporcional al cuadrado de la distancia que las separa: F = k·m₁m₂/r²
+- B. Es directamente proporcional a la suma de las dos masas e inversamente proporcional a la distancia: F = k·(m₁+m₂)/r
+- C. Es inversamente proporcional al producto de las masas y directamente proporcional a la distancia: F = k·r²/(m₁m₂)
+- D. Es directamente proporcional al producto de las masas y a la distancia: F = k·m₁m₂r²
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 192
+**Subtema:** Variación · Ley de Gravitación Universal de Newton
+
+La fuerza que ejerce una masa puntual en el universo sobre otra con masa puntual es directamente proporcional al producto de las dos masas, e inversamente proporcional al cuadrado de la distancia que las separa: F = k·m₁m₂/r². La constante de proporcionalidad k suele denotarse con el símbolo G y se conoce como constante de la gravitación universal.
+
+> Dato olvidable: directa → y = kx; inversa → y = k/x (o xy = k); conjunta → z = kxᵐyⁿ; combinada → mezcla directa e inversa (como la gravitación de Newton).
