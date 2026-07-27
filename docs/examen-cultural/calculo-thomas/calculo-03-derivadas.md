@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 3 · Derivadas
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.7 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.8 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 3 lo pide **la EMI** (Escuela Militar de
@@ -88,7 +88,12 @@ para derivar ecuaciones implícitas), así que lleva reactivo su parte citable: 
 usa la diferenciación implícita, el método de dos pasos, que la derivada implícita
 involucra ambas variables (x y y), y la recta normal (perpendicular a la tangente).
 
-**Pendiente:** faltan las secciones **§3.8 y §3.9** para
+**§3.8 · COMPLETO** en 3 reactivos (reactivos 68–70). §3.8 es una sección de aplicaciones
+(problemas de tasas relacionadas), así que lleva reactivo su parte citable: la definición
+de un problema de tasas relacionadas y la estrategia de seis pasos (dibujar y nombrar
+variables, derivar respecto a t, evaluar).
+
+**Pendiente:** falta la sección **§3.9** para
 cerrar el capítulo 3, y con él la materia Cálculo para la EMI. Este
 archivo (capítulo 3) es el último del temario de Cálculo: no quedan otros capítulos
 por empezar, así que sostiene el pendiente de la materia hasta que el propio
@@ -1215,3 +1220,52 @@ En relación con el libro de Cálculo, ¿qué es la recta normal a una curva en 
 **Subtema:** Derivadas · Recta normal
 
 La normal es la recta perpendicular (u ortogonal) a la tangente a la curva en el punto de entrada.
+
+---
+
+## Sub-lote 20 · Tasas relacionadas (pp. 156–158)
+
+### 68
+
+En relación con el libro de Cálculo, ¿qué es un problema de tasas relacionadas?
+
+- A. El cálculo de la razón de cambio de una variable a partir de otras razones de cambio conocidas
+- B. El cálculo de un límite
+- C. El cálculo de una integral
+- D. El cálculo del área bajo una curva
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 156
+**Subtema:** Derivadas · Problema de tasas relacionadas
+
+El cálculo de la razón de cambio a partir de otras razones de cambio conocidas se llama problema de tasas relacionadas.
+
+### 69
+
+En relación con el libro de Cálculo, ¿cuál es el primer paso de la estrategia para resolver problemas de tasas relacionadas?
+
+- A. Dibujar un diagrama, nombrar las variables y las constantes, usar t para el tiempo y suponer que todas las variables son funciones diferenciables de t
+- B. Evaluar la razón desconocida
+- C. Derivar la ecuación con respecto a t
+- D. Despejar y de la ecuación
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 158
+**Subtema:** Derivadas · Estrategia para tasas relacionadas
+
+Primer paso de la estrategia: dibuje un diagrama y nombre a las variables y a las constantes. Use t para denotar el tiempo. Suponga que todas las variables son funciones diferenciables de t.
+
+### 70
+
+En relación con el libro de Cálculo, en la estrategia para tasas relacionadas, ¿respecto a qué variable se deriva la ecuación que relaciona las variables?
+
+- A. Con respecto a t (el tiempo)
+- B. Con respecto a x
+- C. Con respecto a y
+- D. Con respecto a la razón desconocida
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 158
+**Subtema:** Derivadas · Estrategia para tasas relacionadas
+
+Derive con respecto a t. Exprese la razón que le interesa determinar en términos de las razones y las variables cuyos valores conoce.
