@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 2 · Límites y continuidad
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 2. Límites y continuidad → EN CURSO (§2.1–§2.4 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 2. Límites y continuidad → EN CURSO (§2.1–§2.5 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 2 lo pide **la EMI** (Escuela Militar de
@@ -69,7 +69,24 @@ el **Teorema 6** (el límite bilateral existe si y sólo si los dos laterales ex
 iguales); la definición formal de límite lateral; y el **Teorema 7**, el límite fundamental
 lím(θ→0) (sen θ)/θ = 1. Notación verificada contra las hojas renderizadas 87 y 90.
 
-**Pendiente:** faltan las secciones **§2.5 y §2.6** para cerrar el
+**§2.5 · COMPLETO** en 19 reactivos (reactivos 48–66), toda la teoría de la sección
+(pp. 76–84): la continuidad en un punto (definiciones, lateral, en intervalo cerrado);
+la **prueba de continuidad** (tres condiciones); los tipos de discontinuidad (removible,
+salto, infinita, oscilante); la función continua; el **Teorema 8** (propiedades); la
+continuidad de polinomios, racionales y trigonométricas; la composición de continuas;
+el **teorema del valor intermedio** (Teorema 11) y sus consecuencias (ceros, cambio de
+signo); y la extensión continua. Notación verificada contra la hoja renderizada 97.
+
+> **Aviso — errata del libro (Teorema 9).** El recuadro del Teorema 9 (p. 79) enuncia
+> "la composición **ƒ ∘ g** es continua en c" con las hipótesis "ƒ continua en c, g
+> continua en ƒ(c)", pero el texto y la figura 2.42 de esa misma página usan **g ∘ ƒ**,
+> que es lo correcto (la composición que tiene sentido es g(ƒ(x))). Es una errata de la
+> edición. Por eso el reactivo de composición se escribió sobre la afirmación
+> inequívoca del texto —"todas las composiciones de funciones continuas son
+> continuas"— y NO sobre la notación del recuadro. Publicar o no un aviso al aspirante:
+> decisión pendiente de Carlo.
+
+**Pendiente:** falta la sección **§2.6** para cerrar el
 capítulo 2; y después el capítulo **3 (Derivadas)**, que el temario de la EMI
 (`CDI-02-2026`) pide completo. **Cálculo NO está cerrada para la EMI.** Este archivo
 (capítulo 2) sostiene el pendiente de la materia hasta que exista el archivo del
@@ -866,3 +883,306 @@ En relación con el libro de Cálculo, según el Teorema 7, ¿cuál es el límit
 lím(θ→0) (sen θ)/θ = 1 (θ en radianes).
 
 > Dato estrella: el límite trigonométrico fundamental, base de las derivadas del seno y el coseno.
+
+---
+
+## Sub-lote 12 · Continuidad en un punto (pp. 76–77)
+
+### 48
+
+En relación con el libro de Cálculo, ¿cuándo la función ƒ es continua en c?
+
+- A. Si lím(x→c) ƒ(x) = ƒ(c)
+- B. Si lím(x→c) ƒ(x) existe, aunque sea distinto de ƒ(c)
+- C. Si ƒ(c) existe, aunque no exista el límite
+- D. Si ƒ(c) = 0
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 76
+**Subtema:** Límites y continuidad · Continuidad en un punto
+
+La función ƒ es continua en c si lím(x→c) ƒ(x) = ƒ(c).
+
+### 49
+
+En relación con el libro de Cálculo, ¿cuándo la función ƒ es continua por la derecha en c, y cuándo por la izquierda?
+
+- A. Por la derecha si lím(x→c⁺) ƒ(x) = ƒ(c); por la izquierda si lím(x→c⁻) ƒ(x) = ƒ(c)
+- B. Por la derecha si lím(x→c⁻) ƒ(x) = ƒ(c); por la izquierda si lím(x→c⁺) ƒ(x) = ƒ(c)
+- C. Por la derecha si ƒ(c) > 0; por la izquierda si ƒ(c) < 0
+- D. Por la derecha si ƒ crece; por la izquierda si ƒ decrece
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 76
+**Subtema:** Límites y continuidad · Continuidad lateral
+
+La función ƒ es continua por la derecha en c si lím(x→c⁺) ƒ(x) = ƒ(c). La función ƒ es continua por la izquierda en c si lím(x→c⁻) ƒ(x) = ƒ(c).
+
+### 50
+
+En relación con el libro de Cálculo, ¿cuándo una función ƒ es continua en un punto interior c de su dominio?
+
+- A. Si y sólo si es continua por la derecha y continua por la izquierda en c
+- B. Si es continua por la derecha en c, aunque no por la izquierda
+- C. Si está definida en c, aunque no tenga límite
+- D. Si su gráfica pasa por el origen
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 76
+**Subtema:** Límites y continuidad · Continuidad en un punto interior
+
+Una función ƒ es continua en un punto interior c de su dominio, si y sólo si es continua por la derecha y continua por la izquierda en c.
+
+### 51
+
+En relación con el libro de Cálculo, ¿cuándo una función es continua en un intervalo cerrado [a, b]?
+
+- A. Si es continua por la derecha en a, continua por la izquierda en b, y continua en todos los puntos interiores del intervalo
+- B. Si es continua sólo en los extremos a y b
+- C. Si es continua únicamente en el punto medio del intervalo
+- D. Si su gráfica es una recta en [a, b]
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 76
+**Subtema:** Límites y continuidad · Continuidad en un intervalo cerrado
+
+Una función es continua en un intervalo cerrado [a, b], si es continua por la derecha en a, continua por la izquierda en b, y continua en todos los puntos interiores del intervalo.
+
+### 52
+
+En relación con el libro de Cálculo, si una función no es continua en un punto interior c de su dominio, ¿cómo se llama c?
+
+- A. Un punto de discontinuidad de ƒ
+- B. Un punto de inflexión de ƒ
+- C. Un cero de ƒ
+- D. Un punto crítico de ƒ
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 77
+**Subtema:** Límites y continuidad · Punto de discontinuidad
+
+Si una función no es continua en un punto interior c de su dominio, decimos que ƒ es discontinua en c, y que c es un punto de discontinuidad de ƒ.
+
+---
+
+## Sub-lote 13 · Prueba de continuidad y tipos de discontinuidad (p. 77)
+
+### 53
+
+En relación con el libro de Cálculo, según la prueba de continuidad, ¿qué tres condiciones debe cumplir ƒ(x) para ser continua en x = c?
+
+- A. Que ƒ(c) exista, que lím(x→c) ƒ(x) exista, y que lím(x→c) ƒ(x) = ƒ(c)
+- B. Que ƒ(c) exista y que ƒ(c) = 0
+- C. Que lím(x→c) ƒ(x) exista, aunque ƒ(c) no esté definida
+- D. Que la gráfica de ƒ sea una recta cerca de c
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 77
+**Subtema:** Límites y continuidad · Prueba de continuidad
+
+Una función ƒ(x) es continua en un punto x = c si y sólo si cumple las tres condiciones siguientes: 1. ƒ(c) existe (c está en el dominio de ƒ). 2. lím(x→c) ƒ(x) existe. 3. lím(x→c) ƒ(x) = ƒ(c).
+
+> Dato estrella: las tres condiciones —existe el valor, existe el límite, y coinciden.
+
+### 54
+
+En relación con el libro de Cálculo, ¿cuándo una discontinuidad es removible?
+
+- A. Cuando la función tiene límite cuando x→c, y se puede eliminar la discontinuidad haciendo que ƒ(c) sea igual a ese límite
+- B. Cuando los límites laterales existen pero son distintos
+- C. Cuando la función crece sin cota cerca de c
+- D. Cuando la función oscila demasiado cerca de c
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 77
+**Subtema:** Límites y continuidad · Discontinuidad removible
+
+La discontinuidad es removible: la función tiene un límite cuando x→0, y podemos eliminar la discontinuidad haciendo que ƒ(0) sea igual a ese límite.
+
+### 55
+
+En relación con el libro de Cálculo, ¿qué caracteriza a una discontinuidad de salto?
+
+- A. Existen los límites laterales, pero tienen valores distintos
+- B. La función crece sin cota
+- C. La función oscila demasiado para tener límite
+- D. La función tiene límite igual a su valor
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 77
+**Subtema:** Límites y continuidad · Discontinuidad de salto
+
+La función escalonada tiene una discontinuidad de salto: existen los límites laterales, pero tienen valores distintos.
+
+### 56
+
+En relación con el libro de Cálculo, ¿qué tipo de discontinuidad tiene la función ƒ(x) = 1/x²?
+
+- A. Una discontinuidad infinita
+- B. Una discontinuidad de salto
+- C. Una discontinuidad removible
+- D. Una discontinuidad oscilante
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 77
+**Subtema:** Límites y continuidad · Discontinuidad infinita
+
+La función ƒ(x) = 1/x² tiene una discontinuidad infinita.
+
+### 57
+
+En relación con el libro de Cálculo, ¿qué caracteriza a una discontinuidad oscilante?
+
+- A. Que la función oscila demasiado para tener un límite cuando x→0
+- B. Que los límites laterales son distintos
+- C. Que la función crece sin cota
+- D. Que la función tiene límite pero no está definida
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 77
+**Subtema:** Límites y continuidad · Discontinuidad oscilante
+
+La función tiene una discontinuidad oscilante: oscila demasiado para tener un límite cuando x→0.
+
+---
+
+## Sub-lote 14 · Funciones continuas y sus propiedades (pp. 78–79)
+
+### 58
+
+En relación con el libro de Cálculo, ¿cómo se define una función continua?
+
+- A. Como una función que es continua en todos los puntos de su dominio
+- B. Como una función que es continua en al menos un punto
+- C. Como una función cuya gráfica es una recta
+- D. Como una función definida para todos los números reales
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 78
+**Subtema:** Límites y continuidad · Función continua
+
+Definimos una función continua como una función que es continua en todos los puntos de su dominio.
+
+### 59
+
+En relación con el libro de Cálculo, según el Teorema 8, si ƒ y g son continuas en x = c, ¿bajo qué condición es continua el cociente ƒ/g en c?
+
+- A. Siempre que g(c) ≠ 0
+- B. Siempre que ƒ(c) ≠ 0
+- C. Siempre que ƒ(c) = g(c)
+- D. Sin ninguna condición
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 78
+**Subtema:** Límites y continuidad · Propiedades de las funciones continuas
+
+Si las funciones ƒ y g son continuas en x = c, el cociente ƒ/g es continuo en x = c siempre que g(c) ≠ 0.
+
+### 60
+
+En relación con el libro de Cálculo, ¿son continuas las funciones polinomiales y las racionales?
+
+- A. Toda función polinomial es continua, y la racional P(x)/Q(x) es continua siempre que esté definida (Q(c) ≠ 0)
+- B. Ninguna función polinomial es continua
+- C. Sólo las racionales son continuas
+- D. Las polinomiales son continuas sólo en el origen
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 79
+**Subtema:** Límites y continuidad · Continuidad de polinomios y racionales
+
+Toda función polinomial es continua porque lím(x→c) P(x) = P(c). Si P(x) y Q(x) son polinomios, la función racional P(x)/Q(x) es continua siempre que esté definida (Q(c) ≠ 0).
+
+### 61
+
+En relación con el libro de Cálculo, ¿dónde son continuas las seis funciones trigonométricas?
+
+- A. Donde sea que estén definidas
+- B. Sólo en el origen
+- C. Únicamente en el intervalo [0, 2π]
+- D. En ningún punto
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 79
+**Subtema:** Límites y continuidad · Continuidad de las trigonométricas
+
+Según el teorema 8, las seis funciones trigonométricas son continuas donde sea que estén definidas.
+
+---
+
+## Sub-lote 15 · Composición y teorema del valor intermedio (pp. 79–84)
+
+### 62
+
+En relación con el libro de Cálculo, ¿qué se puede afirmar sobre las composiciones de funciones continuas?
+
+- A. Todas las composiciones de funciones continuas son continuas
+- B. Ninguna composición de funciones continuas es continua
+- C. Sólo son continuas si ambas funciones son polinomios
+- D. Sólo son continuas en el origen
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 79
+**Subtema:** Límites y continuidad · Composición de funciones continuas
+
+Todas las composiciones de funciones continuas son continuas.
+
+### 63
+
+En relación con el libro de Cálculo, ¿qué es la propiedad del valor intermedio de una función?
+
+- A. Que siempre que la función toma dos valores, también adopta todos los valores intermedios
+- B. Que la función alcanza su valor máximo en el punto medio del intervalo
+- C. Que la función es igual a cero en algún punto
+- D. Que la función es creciente en todo su dominio
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 81
+**Subtema:** Límites y continuidad · Propiedad del valor intermedio
+
+Se dice que una función tiene la propiedad del valor intermedio si siempre que toma dos valores, también adopta todos los valores intermedios.
+
+### 64
+
+En relación con el libro de Cálculo, según el teorema del valor intermedio (Teorema 11), si ƒ es continua en un intervalo cerrado [a, b] y y₀ es cualquier valor entre ƒ(a) y ƒ(b), ¿qué se garantiza?
+
+- A. Que y₀ = ƒ(c) para alguna c en [a, b]
+- B. Que ƒ es creciente en [a, b]
+- C. Que ƒ(a) = ƒ(b)
+- D. Que ƒ tiene un máximo en y₀
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 81
+**Subtema:** Límites y continuidad · Teorema del valor intermedio
+
+Si ƒ es una función continua en un intervalo cerrado [a, b], y y₀ es cualquier valor entre ƒ(a) y ƒ(b), entonces, y₀ = ƒ(c) para alguna c en [a, b].
+
+### 65
+
+En relación con el libro de Cálculo, ¿cómo se llama una solución de la ecuación ƒ(x) = 0, y qué garantiza el teorema del valor intermedio sobre los ceros?
+
+- A. Se llama raíz de la ecuación o cero de la función; cualquier intervalo donde ƒ cambie de signo contendrá un cero de la función
+- B. Se llama asíntota; sólo hay ceros donde ƒ es constante
+- C. Se llama punto de inflexión; nunca hay ceros en un intervalo
+- D. Se llama límite; el cero está siempre en el extremo del intervalo
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 81
+**Subtema:** Límites y continuidad · Ceros y cambio de signo
+
+Una solución de la ecuación ƒ(x) = 0 se denomina raíz de la ecuación o cero de la función ƒ. Por el teorema del valor intermedio, si ƒ es continua, cualquier intervalo donde ƒ cambie de signo contendrá un cero de la función.
+
+### 66
+
+En relación con el libro de Cálculo, si ƒ(c) no está definido pero existe lím(x→c) ƒ(x) = L y definimos F igual a ƒ salvo que F(c) = L, ¿cómo se llama la función F?
+
+- A. La extensión continua de ƒ a x = c
+- B. La derivada de ƒ en c
+- C. La asíntota de ƒ en c
+- D. La inversa de ƒ en c
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 83
+**Subtema:** Límites y continuidad · Extensión continua
+
+La función F es continua en x = c. Se conoce como la extensión continua de ƒ a x = c.
