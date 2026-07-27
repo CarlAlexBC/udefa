@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 2 · Límites y continuidad
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 2. Límites y continuidad → EN CURSO (§2.1 hecho)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 2. Límites y continuidad → EN CURSO (§2.1–§2.2 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 2 lo pide **la EMI** (Escuela Militar de
@@ -45,7 +45,16 @@ promedio; la tangente a una circunferencia; la definición de la pendiente de un
 curva como límite de pendientes de secantes; y la razón instantánea de cambio y su
 relación con la recta tangente. Notación verificada contra la hoja renderizada 61.
 
-**Pendiente:** faltan las secciones **§2.2, §2.3, §2.4, §2.5 y §2.6** para cerrar el
+**§2.2 · COMPLETO** en 20 reactivos (reactivos 12–31), toda la teoría de la sección
+(pp. 48–55): la definición informal de límite y su notación; que el límite no depende
+del valor de la función en el punto; los límites de la identidad y de la constante; las
+tres maneras de no tener límite (salto, sin cota, oscilación); las **siete leyes de los
+límites** (suma, diferencia, múltiplo constante, producto, cociente, potencia y raíz);
+los límites de funciones polinomiales y racionales por sustitución; el teorema del
+factor; el **teorema del sándwich** (o de la compresión) y el teorema de comparación
+(Teorema 5). Notación verificada contra las hojas renderizadas 69 y 73.
+
+**Pendiente:** faltan las secciones **§2.3, §2.4, §2.5 y §2.6** para cerrar el
 capítulo 2; y después el capítulo **3 (Derivadas)**, que el temario de la EMI
 (`CDI-02-2026`) pide completo. **Cálculo NO está cerrada para la EMI.** Este archivo
 (capítulo 2) sostiene el pendiente de la materia hasta que exista el archivo del
@@ -254,3 +263,335 @@ En relación con el libro de Cálculo, ¿a qué corresponden, respectivamente, l
 La razón promedio de cambio corresponde a la pendiente de una recta secante; la razón instantánea corresponde a la pendiente de la recta tangente conforme la variable independiente se aproxima a un valor fijo.
 
 > Contraste que conviene fijar: promedio ↔ secante; instantánea ↔ tangente.
+
+---
+
+## Sub-lote 5 · Definición informal de límite (pp. 49–50)
+
+### 12
+
+En relación con el libro de Cálculo, según la definición informal, ¿cuándo se dice que ƒ se aproxima al límite L cuando x se aproxima a c?
+
+- A. Cuando ƒ(x) está arbitrariamente cerca de L para toda x suficientemente cerca de c
+- B. Cuando ƒ(c) es exactamente igual a L
+- C. Cuando ƒ(x) es igual a L para todo valor de x
+- D. Cuando L está arbitrariamente cerca de c
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 49
+**Subtema:** Límites y continuidad · Definición informal de límite
+
+Si ƒ(x) está arbitrariamente cerca del número L (tan cerca de L como queramos) para toda x suficientemente cerca de c, decimos que ƒ se aproxima al límite L cuando x se aproxima a c, y escribimos lím(x→c) ƒ(x) = L.
+
+### 13
+
+En relación con el libro de Cálculo, ¿cómo se lee la expresión lím(x→c) ƒ(x) = L?
+
+- A. "El límite de ƒ(x) cuando x se aproxima a c es L"
+- B. "ƒ(x) es igual a L en el punto c"
+- C. "L se aproxima a ƒ(x) cuando c crece"
+- D. "El límite de c cuando x se aproxima a L es ƒ(x)"
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 49
+**Subtema:** Límites y continuidad · Notación de límite
+
+Se lee como "el límite de ƒ(x) cuando x se aproxima a c es L".
+
+### 14
+
+En relación con el libro de Cálculo, ¿de qué depende el valor del límite de una función en un punto?
+
+- A. No depende de cómo esté definida la función en el punto que está siendo aproximado
+- B. Depende exclusivamente del valor de la función en ese punto
+- C. Depende de que la función esté definida en el punto
+- D. Depende del signo de la función en el punto
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 49
+**Subtema:** Límites y continuidad · Independencia del valor en el punto
+
+El valor del límite de una función no depende de cómo esté definida la función en el punto que está siendo aproximado.
+
+> Dato clave: el límite mira el comportamiento cerca de c, no el valor en c (que puede ni existir).
+
+### 15
+
+En relación con el libro de Cálculo, si ƒ es la función identidad ƒ(x) = x, ¿cuál es lím(x→c) ƒ(x)?
+
+- A. c
+- B. 0
+- C. 1
+- D. x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 49
+**Subtema:** Límites y continuidad · Límite de la función identidad
+
+Si ƒ es la función identidad ƒ(x) = x, entonces, para cualquier valor de c, lím(x→c) ƒ(x) = lím(x→c) x = c.
+
+### 16
+
+En relación con el libro de Cálculo, si ƒ es la función constante ƒ(x) = k, ¿cuál es lím(x→c) ƒ(x)?
+
+- A. k
+- B. c
+- C. 0
+- D. kc
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 49
+**Subtema:** Límites y continuidad · Límite de la función constante
+
+Si ƒ es la función constante ƒ(x) = k, entonces, para cualquier valor de c, lím(x→c) ƒ(x) = lím(x→c) k = k.
+
+---
+
+## Sub-lote 6 · Cuándo no existe un límite (p. 50)
+
+### 17
+
+En relación con el libro de Cálculo, ¿por qué la función escalón unitario U(x) no tiene límite cuando x se aproxima a 0?
+
+- A. Porque sus valores saltan en x = 0
+- B. Porque crece sin cota cerca de x = 0
+- C. Porque oscila entre +1 y −1
+- D. Porque su gráfica es una recta
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 50
+**Subtema:** Límites y continuidad · Inexistencia del límite
+
+La función escalón unitario U(x) no tiene límite cuando x→0 porque sus valores saltan en x = 0.
+
+> El libro da tres maneras de no tener límite: saltar (escalón unitario), crecer sin cota (función no acotada) y oscilar demasiado.
+
+---
+
+## Sub-lote 7 · Leyes de los límites (Teorema 1, p. 51)
+
+### 18
+
+En relación con el libro de Cálculo, según el Teorema 1, si lím(x→c) ƒ(x) = L y lím(x→c) g(x) = M, ¿cuál es la regla de la suma?
+
+- A. lím(x→c) (ƒ(x) + g(x)) = L + M
+- B. lím(x→c) (ƒ(x) + g(x)) = L · M
+- C. lím(x→c) (ƒ(x) + g(x)) = L − M
+- D. lím(x→c) (ƒ(x) + g(x)) = (L + M)/2
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 51
+**Subtema:** Límites y continuidad · Regla de la suma
+
+Regla de la suma: lím(x→c) (ƒ(x) + g(x)) = L + M.
+
+### 19
+
+En relación con el libro de Cálculo, según el Teorema 1, ¿cuál es la regla de la diferencia?
+
+- A. lím(x→c) (ƒ(x) − g(x)) = L − M
+- B. lím(x→c) (ƒ(x) − g(x)) = M − L
+- C. lím(x→c) (ƒ(x) − g(x)) = L + M
+- D. lím(x→c) (ƒ(x) − g(x)) = L / M
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 51
+**Subtema:** Límites y continuidad · Regla de la diferencia
+
+Regla de la diferencia: lím(x→c) (ƒ(x) − g(x)) = L − M.
+
+### 20
+
+En relación con el libro de Cálculo, según el Teorema 1, ¿cuál es la regla del múltiplo constante (con k constante)?
+
+- A. lím(x→c) (k · ƒ(x)) = k · L
+- B. lím(x→c) (k · ƒ(x)) = k + L
+- C. lím(x→c) (k · ƒ(x)) = L / k
+- D. lím(x→c) (k · ƒ(x)) = k · L · M
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 51
+**Subtema:** Límites y continuidad · Regla del múltiplo constante
+
+Regla del múltiplo constante: lím(x→c) (k · ƒ(x)) = k · L.
+
+### 21
+
+En relación con el libro de Cálculo, según el Teorema 1, ¿cuál es la regla del producto?
+
+- A. lím(x→c) (ƒ(x) · g(x)) = L · M
+- B. lím(x→c) (ƒ(x) · g(x)) = L + M
+- C. lím(x→c) (ƒ(x) · g(x)) = L / M
+- D. lím(x→c) (ƒ(x) · g(x)) = L − M
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 51
+**Subtema:** Límites y continuidad · Regla del producto
+
+Regla del producto: lím(x→c) (ƒ(x) · g(x)) = L · M.
+
+### 22
+
+En relación con el libro de Cálculo, según el Teorema 1, ¿cuál es la regla del cociente?
+
+- A. lím(x→c) ƒ(x)/g(x) = L/M, siempre que M ≠ 0
+- B. lím(x→c) ƒ(x)/g(x) = M/L, siempre que L ≠ 0
+- C. lím(x→c) ƒ(x)/g(x) = L/M, sin ninguna condición
+- D. lím(x→c) ƒ(x)/g(x) = L − M
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 51
+**Subtema:** Límites y continuidad · Regla del cociente
+
+Regla del cociente: lím(x→c) ƒ(x)/g(x) = L/M, M ≠ 0.
+
+> La regla del cociente exige que el límite del denominador M no sea 0.
+
+### 23
+
+En relación con el libro de Cálculo, según el Teorema 1, ¿cuál es la regla de la potencia (n entero positivo)?
+
+- A. lím(x→c) [ƒ(x)]ⁿ = Lⁿ
+- B. lím(x→c) [ƒ(x)]ⁿ = n · L
+- C. lím(x→c) [ƒ(x)]ⁿ = L / n
+- D. lím(x→c) [ƒ(x)]ⁿ = Lⁿ⁺¹
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 51
+**Subtema:** Límites y continuidad · Regla de la potencia
+
+Regla de la potencia: lím(x→c) [ƒ(x)]ⁿ = Lⁿ, n es un entero positivo.
+
+### 24
+
+En relación con el libro de Cálculo, según el Teorema 1, ¿cuál es la regla de la raíz (n entero positivo)?
+
+- A. lím(x→c) ⁿ√ƒ(x) = ⁿ√L = L^(1/n); si n es par, se supone además que L > 0
+- B. lím(x→c) ⁿ√ƒ(x) = Lⁿ
+- C. lím(x→c) ⁿ√ƒ(x) = n · L
+- D. lím(x→c) ⁿ√ƒ(x) = √(L/n)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 51
+**Subtema:** Límites y continuidad · Regla de la raíz
+
+Regla de la raíz: lím(x→c) ⁿ√ƒ(x) = ⁿ√L = L^(1/n), n es un entero positivo. (Si n es par, se supone además que lím(x→c) ƒ(x) = L > 0.)
+
+> Dato fino: si el índice de la raíz es par, el límite L debe ser positivo.
+
+---
+
+## Sub-lote 8 · Límites de polinomios y racionales (p. 52)
+
+### 25
+
+En relación con el libro de Cálculo, según el Teorema 2, ¿cómo se evalúa el límite de una función polinomial P(x) cuando x se aproxima a c?
+
+- A. Sustituyendo x por c: lím(x→c) P(x) = P(c)
+- B. Derivando P(x) y evaluando en c
+- C. Sólo puede evaluarse si P(c) = 0
+- D. Calculando la pendiente de P en c
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 52
+**Subtema:** Límites y continuidad · Límite de funciones polinomiales
+
+Para evaluar el límite de una función polinomial cuando x se aproxima a c, simplemente se sustituye x por c en la fórmula de la función: lím(x→c) P(x) = P(c).
+
+### 26
+
+En relación con el libro de Cálculo, según el Teorema 3, si P(x) y Q(x) son polinomios y Q(c) ≠ 0, ¿cuál es lím(x→c) P(x)/Q(x)?
+
+- A. P(c)/Q(c)
+- B. P(c) · Q(c)
+- C. P(c) − Q(c)
+- D. 0
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 52
+**Subtema:** Límites y continuidad · Límite de funciones racionales
+
+Si P(x) y Q(x) son polinomios, y Q(c) ≠ 0, entonces, lím(x→c) P(x)/Q(x) = P(c)/Q(c).
+
+### 27
+
+En relación con el libro de Cálculo, si Q(x) es una función polinomial y Q(c) = 0, ¿qué se puede afirmar?
+
+- A. Que (x − c) es un factor de Q(x)
+- B. Que Q(x) no tiene raíces reales
+- C. Que Q(x) es una función constante
+- D. Que el límite nunca existe
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 52
+**Subtema:** Límites y continuidad · Teorema del factor
+
+Se puede demostrar que si Q(x) es una función polinomial y Q(c) = 0, entonces, (x − c) es un factor de Q(x).
+
+> Dato útil: por eso, cuando numerador y denominador se anulan en c, ambos tienen el factor común (x − c) que se puede eliminar.
+
+---
+
+## Sub-lote 9 · Teorema del sándwich y comparación (pp. 54–55)
+
+### 28
+
+En relación con el libro de Cálculo, según el Teorema 4 (teorema del sándwich), si g(x) ≤ ƒ(x) ≤ h(x) cerca de c (excepto posiblemente en c) y lím(x→c) g(x) = lím(x→c) h(x) = L, ¿qué se concluye?
+
+- A. lím(x→c) ƒ(x) = L
+- B. ƒ(x) = L para todo x
+- C. lím(x→c) ƒ(x) = 0
+- D. ƒ no tiene límite en c
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 55
+**Subtema:** Límites y continuidad · Teorema del sándwich
+
+Suponga que g(x) ≤ ƒ(x) ≤ h(x) para toda x en algún intervalo abierto que contenga a c, excepto posiblemente en x = c. Suponga también que lím(x→c) g(x) = lím(x→c) h(x) = L. Entonces lím(x→c) ƒ(x) = L.
+
+### 29
+
+En relación con el libro de Cálculo, ¿con qué otro nombre se conoce el teorema del sándwich?
+
+- A. Teorema de la compresión
+- B. Teorema del valor medio
+- C. Teorema del factor
+- D. Teorema de la sustitución
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 55
+**Subtema:** Límites y continuidad · Teorema de la compresión
+
+El teorema del sándwich también se conoce como teorema de la compresión.
+
+### 30
+
+En relación con el libro de Cálculo, el Teorema 5 afirma que si ƒ(x) ≤ g(x) cerca de c, entonces lím(x→c) ƒ(x) ≤ lím(x→c) g(x). Según el libro, ¿qué ocurre si se cambia el ≤ por la desigualdad estricta <?
+
+- A. La proposición que resulta es falsa
+- B. La proposición sigue siendo verdadera
+- C. El límite deja de existir
+- D. Los dos límites se invierten
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 55
+**Subtema:** Límites y continuidad · Teorema de comparación
+
+Si sustituimos en el teorema 5 el signo menor o igual que (≤) por la desigualdad estricta menor que (<), la proposición que resulta es falsa.
+
+> Dato fino: la comparación de límites se conserva con ≤, pero NO con < estricto.
+
+### 31
+
+En relación con el libro de Cálculo, el teorema del sándwich permite establecer que lím(θ→0) sen θ y lím(θ→0) cos θ valen, respectivamente:
+
+- A. 0 y 1
+- B. 1 y 0
+- C. 0 y 0
+- D. 1 y 1
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 55
+**Subtema:** Límites y continuidad · Límites de seno y coseno
+
+lím(θ→0) sen θ = 0 y lím(θ→0) cos θ = 1.
