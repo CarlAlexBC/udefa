@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 3 · Derivadas
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.6 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 3. Derivadas → EN CURSO (§3.1–§3.7 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 3 lo pide **la EMI** (Escuela Militar de
@@ -83,7 +83,12 @@ notación de Leibniz dy/dx = (dy/du)(du/dx)); la regla de "afuera hacia adentro"
 regla de la cadena para potencias, (d/dx)(uⁿ) = nuⁿ⁻¹(du/dx). Notación verificada contra
 la hoja renderizada 163.
 
-**Pendiente:** faltan las secciones **§3.7, §3.8 y §3.9** para
+**§3.7 · COMPLETO** en 4 reactivos (reactivos 64–67). §3.7 es procedimental (el método
+para derivar ecuaciones implícitas), así que lleva reactivo su parte citable: cuándo se
+usa la diferenciación implícita, el método de dos pasos, que la derivada implícita
+involucra ambas variables (x y y), y la recta normal (perpendicular a la tangente).
+
+**Pendiente:** faltan las secciones **§3.8 y §3.9** para
 cerrar el capítulo 3, y con él la materia Cálculo para la EMI. Este
 archivo (capítulo 3) es el último del temario de Cálculo: no quedan otros capítulos
 por empezar, así que sostiene el pendiente de la materia hasta que el propio
@@ -1144,3 +1149,69 @@ En relación con el libro de Cálculo, según la regla de la cadena para potenci
 **Subtema:** Derivadas · Regla de la cadena para potencias
 
 (d/dx)(uⁿ) = nuⁿ⁻¹·(du/dx).
+
+---
+
+## Sub-lote 19 · Diferenciación implícita (pp. 151–154)
+
+### 64
+
+En relación con el libro de Cálculo, ¿cuándo se usa la diferenciación implícita para encontrar dy/dx?
+
+- A. Cuando no es posible dar a la ecuación F(x, y) = 0 la forma y = ƒ(x) para derivarla de la manera usual
+- B. Sólo cuando y ya está despejada como ƒ(x)
+- C. Sólo para funciones polinomiales
+- D. Cuando la ecuación no tiene solución
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 151
+**Subtema:** Derivadas · Diferenciación implícita
+
+Cuando no es posible dar a la ecuación F(x, y) = 0 la forma y = ƒ(x) para derivarla de la manera usual, podemos encontrar dy/dx mediante diferenciación implícita.
+
+### 65
+
+En relación con el libro de Cálculo, ¿cuáles son los dos pasos de la diferenciación implícita?
+
+- A. 1. Diferenciar ambos lados con respecto a x, tratando a y como función diferenciable de x; 2. Agrupar los términos que contengan dy/dx y despejar dy/dx
+- B. 1. Despejar y; 2. Sustituir x = 0
+- C. 1. Integrar ambos lados; 2. Evaluar en un punto
+- D. 1. Factorizar la ecuación; 2. Igualarla a cero
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 153
+**Subtema:** Derivadas · Método de diferenciación implícita
+
+Diferenciación implícita: 1. Se diferencian ambos lados con respecto a x, tratando a y como una función diferenciable de x. 2. Se agrupan en un lado de la ecuación los términos que contengan dy/dx, y se despeja dy/dx.
+
+### 66
+
+En relación con el libro de Cálculo, en la diferenciación implícita, ¿qué variables suele involucrar la fórmula de la derivada dy/dx?
+
+- A. Ambas variables, x y y, no sólo la variable independiente x
+- B. Únicamente la variable independiente x
+- C. Únicamente la variable dependiente y
+- D. Ninguna variable, sólo constantes
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 153
+**Subtema:** Derivadas · Derivada implícita en ambas variables
+
+La derivada no sólo implica la variable independiente x, sino ambas variables, x y y.
+
+> Dato fino: a diferencia de la derivación explícita, aquí dy/dx suele quedar en términos de x y y.
+
+### 67
+
+En relación con el libro de Cálculo, ¿qué es la recta normal a una curva en un punto?
+
+- A. La recta perpendicular (u ortogonal) a la tangente a la curva en ese punto
+- B. La recta paralela a la tangente
+- C. La misma recta tangente
+- D. La recta horizontal que pasa por el punto
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 154
+**Subtema:** Derivadas · Recta normal
+
+La normal es la recta perpendicular (u ortogonal) a la tangente a la curva en el punto de entrada.
