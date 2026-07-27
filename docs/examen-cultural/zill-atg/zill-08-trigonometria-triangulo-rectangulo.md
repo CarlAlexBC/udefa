@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 8 · Trigonometría del triángulo rectángulo
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 8 → EN CURSO (§8.1 hecho)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 8 → EN CURSO (§8.1–§8.2 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -46,7 +46,7 @@ y en `docs/examen-cultural/ocr.py`.
 El **capítulo 8** completo tiene cuatro secciones:
 
 - **§8.1 Ángulos y sus medidas** (pp. 356–364) ← este archivo lo cubre.
-- §8.2 Trigonometría del triángulo rectángulo (pp. 365–370).
+- **§8.2 Trigonometría del triángulo rectángulo** (pp. 365–370) ← este archivo lo cubre.
 - §8.3 Funciones trigonométricas de ángulos especiales (pp. 371–374).
 - §8.4 Funciones trigonométricas de ángulos generales (pp. 375–385).
 
@@ -68,7 +68,19 @@ relación pitagórica `a²+b²=c²`, hipotenusa y catetos); y la **longitud de a
 central, sector, **Teorema 8.1.1** `s=rθ`). Fórmulas verificadas contra las hojas
 renderizadas 377 y 378; prosa por OCR.
 
-**Pendiente:** faltan las secciones **§8.2, §8.3 y §8.4** para cerrar el capítulo 8; y
+**§8.2 · COMPLETO** en 14 reactivos (reactivos 27–40), toda la teoría de la sección
+(pp. 365–369): la **terminología** (hipotenusa, catetos, adyacente/opuesto, abreviaturas
+hip/ady/op); la **Definición 8.2.1** de las seis **funciones trigonométricas**
+(`sen=op/hip`, `cos=ady/hip`, `tan=op/ady`, `cot=ady/op`, `sec=hip/ady`, `csc=hip/op`); el
+**dominio** (ángulos agudos) y la independencia del tamaño del triángulo (semejanza); las
+**identidades fundamentales** por **cociente** (`tan=sen/cos`, `cot=cos/sen`) y **recíprocas**
+(`sec=1/cos`, `csc=1/sen`, `cot=1/tan`); las **cofunciones** ("las cofunciones de ángulos
+complementarios son iguales") y las **identidades de cofunción** (`cos θ=sen(90°−θ)`, etc.);
+y las tres **identidades pitagóricas** (`sen²θ+cos²θ=1`, `1+tan²θ=sec²θ`, `cot²θ+1=csc²θ`),
+con la nota del aula de que valen para cualquier ángulo, no sólo agudos. Fórmulas verificadas
+contra las hojas renderizadas 382, 383, 385 y 386; prosa por OCR.
+
+**Pendiente:** faltan las secciones **§8.3 y §8.4** para cerrar el capítulo 8; y
 después los capítulos **9 y 12**, que el temario de la EMI (`GA-03-2026`) pide completos.
 **Geometría Analítica NO está cerrada para la EMI.** El capítulo 4 ya está cerrado
 (`zill-04-coordenadas-rectangulares.md`, 64 reactivos); este archivo (capítulo 8) sostiene
@@ -511,3 +523,231 @@ En relación con el libro de Geometría Analítica, con la fórmula de la longit
 Mediante la fórmula de la longitud del arco se puede expresar θ (en radianes) = s/r. La fórmula s = rθ sólo es válida si θ se expresa en radianes.
 
 > Dato olvidable: s = rθ y θ = s/r sólo valen con θ en radianes; con grados hay que convertir primero. El 180° se llama en este libro "ángulo recto doble" (no "llano").
+
+---
+
+## Sub-lote 9 · Terminología y las seis funciones trigonométricas (p. 365)
+
+### 27
+
+En relación con el libro de Geometría Analítica, en un triángulo rectángulo, ¿cómo se llaman sus lados respecto a un ángulo agudo θ?
+
+- A. El lado opuesto al ángulo recto es la hipotenusa (hip); los otros dos son los catetos: el cateto adyacente (ady) al ángulo θ y el cateto opuesto (op) al ángulo θ
+- B. El lado opuesto al ángulo recto es un cateto; los otros dos son las hipotenusas adyacente y opuesta
+- C. Los tres lados se llaman hipotenusas y se distinguen por su longitud
+- D. El lado más corto es la hipotenusa y los otros dos son los catetos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 365
+**Subtema:** Trigonometría del triángulo rectángulo · Terminología
+
+El lado opuesto al ángulo recto se llama hipotenusa; los otros lados son los catetos del triángulo. Los catetos son, respectivamente, el cateto adyacente al ángulo θ y el cateto opuesto al ángulo θ. También se usan las abreviaturas hip, ady y op para representar las longitudes de esos lados.
+
+### 28
+
+En relación con el libro de Geometría Analítica, según la Definición 8.2.1, ¿cómo se definen el seno y el coseno de un ángulo agudo θ en un triángulo rectángulo?
+
+- A. sen θ = op/hip y cos θ = ady/hip
+- B. sen θ = ady/hip y cos θ = op/hip
+- C. sen θ = hip/op y cos θ = hip/ady
+- D. sen θ = op/ady y cos θ = ady/op
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 365
+**Subtema:** Trigonometría del triángulo rectángulo · Definición 8.2.1 seno y coseno
+
+Las funciones trigonométricas de un ángulo agudo θ en un triángulo rectángulo son: sen θ = op/hip y cos θ = ady/hip.
+
+### 29
+
+En relación con el libro de Geometría Analítica, según la Definición 8.2.1, ¿cómo se definen la tangente y la cotangente de un ángulo agudo θ?
+
+- A. tan θ = op/ady y cot θ = ady/op
+- B. tan θ = ady/op y cot θ = op/ady
+- C. tan θ = op/hip y cot θ = ady/hip
+- D. tan θ = hip/ady y cot θ = hip/op
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 365
+**Subtema:** Trigonometría del triángulo rectángulo · Definición 8.2.1 tangente y cotangente
+
+Las funciones trigonométricas de un ángulo agudo θ en un triángulo rectángulo son: tan θ = op/ady y cot θ = ady/op.
+
+### 30
+
+En relación con el libro de Geometría Analítica, según la Definición 8.2.1, ¿cómo se definen la secante y la cosecante de un ángulo agudo θ?
+
+- A. sec θ = hip/ady y csc θ = hip/op
+- B. sec θ = ady/hip y csc θ = op/hip
+- C. sec θ = op/ady y csc θ = ady/op
+- D. sec θ = hip/op y csc θ = hip/ady
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 365
+**Subtema:** Trigonometría del triángulo rectángulo · Definición 8.2.1 secante y cosecante
+
+Las funciones trigonométricas de un ángulo agudo θ en un triángulo rectángulo son: sec θ = hip/ady y csc θ = hip/op.
+
+### 31
+
+En relación con el libro de Geometría Analítica, ¿cuál es el dominio de cada una de las funciones trigonométricas definidas en la sección 8.2?
+
+- A. El conjunto de todos los ángulos agudos
+- B. El conjunto de todos los números reales
+- C. El conjunto de todos los ángulos obtusos
+- D. El conjunto de los ángulos entre 0° y 360°
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 365
+**Subtema:** Trigonometría del triángulo rectángulo · Dominio
+
+El dominio de cada una de estas funciones trigonométricas es el conjunto de todos los ángulos agudos.
+
+### 32
+
+En relación con el libro de Geometría Analítica, ¿de qué dependen los valores de las funciones trigonométricas de un ángulo agudo θ?
+
+- A. Dependen sólo del tamaño del ángulo θ, y no del tamaño del triángulo rectángulo
+- B. Dependen del tamaño del triángulo rectángulo, aunque el ángulo sea el mismo
+- C. Dependen del cuadrante en que se ubique el triángulo
+- D. Dependen de la longitud de la hipotenusa únicamente
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 365
+**Subtema:** Trigonometría del triángulo rectángulo · Independencia del tamaño del triángulo
+
+Los valores de las funciones trigonométricas dependen sólo del tamaño del ángulo θ, y no del tamaño del triángulo rectángulo, porque los triángulos rectángulos con el mismo ángulo agudo son semejantes.
+
+---
+
+## Sub-lote 10 · Identidades fundamentales: por cociente y recíprocas (p. 366)
+
+### 33
+
+En relación con el libro de Geometría Analítica, ¿cuáles son las identidades fundamentales por cociente?
+
+- A. tan θ = sen θ/cos θ y cot θ = cos θ/sen θ
+- B. tan θ = cos θ/sen θ y cot θ = sen θ/cos θ
+- C. tan θ = sen θ·cos θ y cot θ = cos θ·sen θ
+- D. tan θ = 1/sen θ y cot θ = 1/cos θ
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 366
+**Subtema:** Trigonometría del triángulo rectángulo · Identidades por cociente
+
+Las identidades por cociente son: tan θ = sen θ/cos θ y cot θ = cos θ/sen θ.
+
+### 34
+
+En relación con el libro de Geometría Analítica, ¿cuáles son las identidades fundamentales recíprocas?
+
+- A. sec θ = 1/cos θ, csc θ = 1/sen θ y cot θ = 1/tan θ
+- B. sec θ = 1/sen θ, csc θ = 1/cos θ y cot θ = 1/sen θ
+- C. sec θ = cos θ, csc θ = sen θ y cot θ = tan θ
+- D. sec θ = sen θ/cos θ, csc θ = cos θ/sen θ y cot θ = tan θ
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 366
+**Subtema:** Trigonometría del triángulo rectángulo · Identidades recíprocas
+
+Las identidades recíprocas son: sec θ = 1/cos θ, csc θ = 1/sen θ y cot θ = 1/tan θ.
+
+---
+
+## Sub-lote 11 · Cofunciones (pp. 367–368)
+
+### 35
+
+En relación con el libro de Geometría Analítica, ¿por qué se dice que seno y coseno, tangente y cotangente, y secante y cosecante son cofunciones una de otra, y qué regla las resume?
+
+- A. Porque el coseno de un ángulo agudo es igual al seno de su ángulo complementario (y así con los otros pares); la regla es: las cofunciones de ángulos complementarios son iguales
+- B. Porque todas las funciones tienen el mismo valor para cualquier ángulo; la regla es: las funciones de ángulos suplementarios son iguales
+- C. Porque son recíprocas entre sí; la regla es: el producto de cofunciones es 1
+- D. Porque se obtienen unas de otras al elevar al cuadrado; la regla es: las cofunciones de ángulos iguales son opuestas
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 367
+**Subtema:** Trigonometría del triángulo rectángulo · Cofunciones
+
+El coseno de un ángulo agudo es igual al seno del ángulo complementario, la cotangente a la tangente del complementario y la cosecante a la secante del complementario, y viceversa; por eso seno y coseno, tangente y cotangente, y secante y cosecante son cofunciones una de otra. La regla es: las cofunciones de ángulos complementarios son iguales.
+
+### 36
+
+En relación con el libro de Geometría Analítica, según las identidades de cofunción, ¿cómo se expresan cos θ, cot θ y csc θ en términos del ángulo complementario (90° − θ)?
+
+- A. cos θ = sen(90° − θ), cot θ = tan(90° − θ) y csc θ = sec(90° − θ)
+- B. cos θ = cos(90° − θ), cot θ = cot(90° − θ) y csc θ = csc(90° − θ)
+- C. cos θ = sen(90° + θ), cot θ = tan(90° + θ) y csc θ = sec(90° + θ)
+- D. cos θ = tan(90° − θ), cot θ = sen(90° − θ) y csc θ = cos(90° − θ)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 368
+**Subtema:** Trigonometría del triángulo rectángulo · Identidades de cofunción
+
+Las identidades de cofunción son: cos θ = sen(90° − θ), cot θ = tan(90° − θ) y csc θ = sec(90° − θ) (y del mismo modo sen θ = cos(90° − θ), tan θ = cot(90° − θ) y sec θ = csc(90° − θ)).
+
+---
+
+## Sub-lote 12 · Identidades pitagóricas (pp. 368–369)
+
+### 37
+
+En relación con el libro de Geometría Analítica, ¿cuál es la primera identidad pitagórica?
+
+- A. sen²θ + cos²θ = 1
+- B. sen²θ − cos²θ = 1
+- C. sen θ + cos θ = 1
+- D. sen²θ · cos²θ = 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 368
+**Subtema:** Trigonometría del triángulo rectángulo · Identidad pitagórica sen²+cos²
+
+La primera identidad pitagórica es sen²θ + cos²θ = 1.
+
+### 38
+
+En relación con el libro de Geometría Analítica, ¿cuál es la identidad pitagórica que relaciona la tangente y la secante?
+
+- A. 1 + tan²θ = sec²θ
+- B. 1 − tan²θ = sec²θ
+- C. tan²θ + sec²θ = 1
+- D. 1 + sec²θ = tan²θ
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 368
+**Subtema:** Trigonometría del triángulo rectángulo · Identidad pitagórica 1+tan²=sec²
+
+La identidad pitagórica que relaciona la tangente y la secante es 1 + tan²θ = sec²θ.
+
+### 39
+
+En relación con el libro de Geometría Analítica, ¿cuál es la identidad pitagórica que relaciona la cotangente y la cosecante?
+
+- A. cot²θ + 1 = csc²θ
+- B. cot²θ − 1 = csc²θ
+- C. cot²θ + csc²θ = 1
+- D. 1 + csc²θ = cot²θ
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 368
+**Subtema:** Trigonometría del triángulo rectángulo · Identidad pitagórica cot²+1=csc²
+
+La identidad pitagórica que relaciona la cotangente y la cosecante es cot²θ + 1 = csc²θ.
+
+### 40
+
+En relación con el libro de Geometría Analítica, según la "Nota del aula", ¿para qué ángulos son válidas todas las identidades presentadas en la sección 8.2?
+
+- A. Para cualquier ángulo θ, y no sólo con ángulos agudos
+- B. Únicamente para ángulos agudos
+- C. Sólo para ángulos cuadrantales
+- D. Sólo para ángulos medidos en grados
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 369
+**Subtema:** Trigonometría del triángulo rectángulo · Validez general de las identidades
+
+Como se ve en la sección 9.4, todas las identidades presentadas en esta sección son válidas con cualquier ángulo θ (y no sólo con ángulos agudos).
+
+> Dato olvidable: las tres pitagóricas se derivan de a²+b²=c² dividiendo entre c², a² y b². El cuadrado se escribe sen²θ = (sen θ)².
