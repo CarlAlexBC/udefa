@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 2 · Límites y continuidad
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 2. Límites y continuidad → EN CURSO (§2.1–§2.5 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 2. Límites y continuidad → CERRADO (81 reactivos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 2 lo pide **la EMI** (Escuela Militar de
@@ -86,8 +86,16 @@ signo); y la extensión continua. Notación verificada contra la hoja renderizad
 > continuas"— y NO sobre la notación del recuadro. Publicar o no un aviso al aspirante:
 > decisión pendiente de Carlo.
 
-**Pendiente:** falta la sección **§2.6** para cerrar el
-capítulo 2; y después el capítulo **3 (Derivadas)**, que el temario de la EMI
+**§2.6 · COMPLETO** en 15 reactivos (reactivos 67–81), toda la teoría de la sección
+(pp. 86–96): los límites finitos cuando x→±∞ (el símbolo ∞, los límites básicos, la
+definición y el Teorema 12); el método para racionales; las asíntotas horizontales,
+oblicuas y verticales (con sus definiciones); los límites infinitos y su definición
+formal; las asíntotas de sec y tan; y los términos dominantes. Notación verificada
+contra las hojas renderizadas 105 y 111.
+
+**Con §2.6 queda CERRADO el capítulo 2 · Límites y continuidad, en 81 reactivos.**
+
+**Pendiente:** falta el capítulo **3 (Derivadas)**, que el temario de la EMI
 (`CDI-02-2026`) pide completo. **Cálculo NO está cerrada para la EMI.** Este archivo
 (capítulo 2) sostiene el pendiente de la materia hasta que exista el archivo del
 capítulo 3 (`calculo-03-derivadas.md`).
@@ -1186,3 +1194,250 @@ En relación con el libro de Cálculo, si ƒ(c) no está definido pero existe l�
 **Subtema:** Límites y continuidad · Extensión continua
 
 La función F es continua en x = c. Se conoce como la extensión continua de ƒ a x = c.
+
+---
+
+## Sub-lote 16 · Límites finitos cuando x → ±∞ (pp. 86–87)
+
+### 67
+
+En relación con el libro de Cálculo, ¿qué es el símbolo de infinito, ∞?
+
+- A. No representa un número real; se usa para describir el comportamiento de una función cuando los valores sobrepasan cualquier cota
+- B. Es el mayor de todos los números reales
+- C. Es igual a 1/0
+- D. Es un número irracional muy grande
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 86
+**Subtema:** Límites y continuidad · Símbolo de infinito
+
+El símbolo de infinito, ∞, no representa un número real. Se usa para describir el comportamiento de una función cuando los valores en su dominio o rango sobrepasan cualquier cota.
+
+### 68
+
+En relación con el libro de Cálculo, ¿cuánto valen lím(x→±∞) k (con k constante) y lím(x→±∞) 1/x?
+
+- A. lím(x→±∞) k = k y lím(x→±∞) 1/x = 0
+- B. lím(x→±∞) k = 0 y lím(x→±∞) 1/x = k
+- C. lím(x→±∞) k = ∞ y lím(x→±∞) 1/x = 1
+- D. Ambos límites valen ∞
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 87
+**Subtema:** Límites y continuidad · Límites básicos en el infinito
+
+lím(x→±∞) k = k y lím(x→±∞) 1/x = 0.
+
+### 69
+
+En relación con el libro de Cálculo, según la definición, ¿cuándo ƒ(x) tiene límite L cuando x tiende a infinito?
+
+- A. Si para todo número ε > 0 existe un número M tal que, para toda x, x > M ⟹ |ƒ(x) − L| < ε
+- B. Si para todo ε > 0 existe δ > 0 tal que 0 < |x| < δ ⟹ |ƒ(x) − L| < ε
+- C. Si ƒ(∞) = L
+- D. Si lím(x→0) ƒ(x) = L
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 87
+**Subtema:** Límites y continuidad · Definición de límite en el infinito
+
+Se dice que ƒ(x) tiene límite L cuando x tiende a infinito y se escribe lím(x→∞) ƒ(x) = L si, para todo número ε > 0, existe un número correspondiente M tal que para toda x, x > M ⟹ |ƒ(x) − L| < ε.
+
+### 70
+
+En relación con el libro de Cálculo, según el Teorema 12, ¿siguen valiendo las leyes de los límites del Teorema 1 cuando x tiende a ±∞?
+
+- A. Sí; todas las leyes de límites del teorema 1 son verdaderas cuando sustituimos lím(x→c) por lím(x→∞) o lím(x→−∞)
+- B. No; ninguna ley vale en el infinito
+- C. Sólo vale la regla de la suma
+- D. Sólo valen para funciones polinomiales
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 87
+**Subtema:** Límites y continuidad · Teorema 12
+
+Todas las leyes de límites del teorema 1 son verdaderas cuando sustituimos lím(x→c) por lím(x→∞) o lím(x→−∞). Es decir, la variable x puede aproximarse a un número finito c o tender a ±∞.
+
+---
+
+## Sub-lote 17 · Racionales y asíntotas horizontales y oblicuas (pp. 88–91)
+
+### 71
+
+En relación con el libro de Cálculo, para determinar el límite de una función racional cuando x → ±∞, ¿qué se hace primero?
+
+- A. Dividir el numerador y el denominador entre la mayor potencia de x en el denominador
+- B. Sustituir x por ∞ directamente
+- C. Derivar el numerador y el denominador
+- D. Factorizar únicamente el numerador
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 88
+**Subtema:** Límites y continuidad · Límites de racionales en el infinito
+
+Para determinar el límite de una función racional cuando x → ±∞, primero dividimos el numerador y el denominador entre la mayor potencia de x en el denominador.
+
+### 72
+
+En relación con el libro de Cálculo, ¿qué es una asíntota de una gráfica?
+
+- A. Una recta a la que la gráfica se aproxima cuando la distancia entre ambas tiende a cero al alejarse el punto del origen
+- B. Una recta que corta la gráfica en exactamente dos puntos
+- C. El eje de simetría de la gráfica
+- D. La recta tangente a la gráfica en el origen
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 88
+**Subtema:** Límites y continuidad · Asíntota
+
+Si la distancia entre la gráfica de una función y alguna recta fija se aproxima a cero cuando un punto de la gráfica se aleja cada vez más del origen, decimos que la gráfica se aproxima asintóticamente a la recta, y esa recta es una asíntota de la gráfica.
+
+### 73
+
+En relación con el libro de Cálculo, ¿cuándo una recta y = b es una asíntota horizontal de la gráfica de y = ƒ(x)?
+
+- A. Si lím(x→∞) ƒ(x) = b o lím(x→−∞) ƒ(x) = b
+- B. Si lím(x→b) ƒ(x) = ∞
+- C. Si ƒ(b) = 0
+- D. Si la gráfica pasa por el punto (0, b)
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 88
+**Subtema:** Límites y continuidad · Asíntota horizontal
+
+Una recta y = b es una asíntota horizontal de la gráfica de una función y = ƒ(x) si se satisface alguna de las siguientes condiciones: lím(x→∞) ƒ(x) = b o lím(x→−∞) ƒ(x) = b.
+
+### 74
+
+En relación con el libro de Cálculo, ¿puede una curva cruzar una de sus asíntotas horizontales?
+
+- A. Sí; una curva puede cruzar muchas veces una de sus asíntotas horizontales
+- B. No; nunca la puede cruzar
+- C. Sólo la puede cruzar una vez
+- D. Sólo si la asíntota es el eje x
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 90
+**Subtema:** Límites y continuidad · Cruce de la asíntota horizontal
+
+Una curva puede cruzar muchas veces una de sus asíntotas horizontales.
+
+> Dato fino: la asíntota horizontal describe el comportamiento en el infinito, no es una barrera; la curva puede cruzarla.
+
+### 75
+
+En relación con el libro de Cálculo, ¿cuándo la gráfica de una función racional tiene una asíntota oblicua (o inclinada)?
+
+- A. Si el grado del numerador es mayor en una unidad que el grado del denominador
+- B. Si el grado del numerador es igual al del denominador
+- C. Si el numerador es una constante
+- D. Si el denominador nunca se anula
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 91
+**Subtema:** Límites y continuidad · Asíntota oblicua
+
+Si el grado del numerador de una función racional es mayor en una unidad que el grado del denominador, la gráfica tiene una asíntota oblicua o inclinada.
+
+---
+
+## Sub-lote 18 · Límites infinitos y asíntotas verticales (pp. 91–95)
+
+### 76
+
+En relación con el libro de Cálculo, al escribir lím(x→0⁺) 1/x = ∞, ¿qué se está afirmando realmente?
+
+- A. Que el límite no existe, porque 1/x se vuelve arbitrariamente grande y positivo cuando x→0⁺
+- B. Que el límite existe y vale el número real ∞
+- C. Que 1/x se aproxima a un número finito
+- D. Que 1/x se aproxima a cero
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 91
+**Subtema:** Límites y continuidad · Límites infinitos
+
+Al escribir esta ecuación, no estamos diciendo que el límite exista, ni tampoco que exista un número real ∞. Estamos diciendo que lím(x→0⁺)(1/x) no existe, porque 1/x se vuelve arbitrariamente grande y es positivo cuando x→0⁺.
+
+> Dato conceptual: "= ∞" describe que el límite no existe (crece sin cota), no que valga un número.
+
+### 77
+
+En relación con el libro de Cálculo, según la definición formal, ƒ(x) tiende a infinito cuando x se aproxima a c (lím(x→c) ƒ(x) = ∞) si:
+
+- A. Para todo número real positivo B existe una δ > 0 correspondiente tal que, para toda x, 0 < |x − c| < δ ⟹ ƒ(x) > B
+- B. Para todo ε > 0 existe δ > 0 tal que 0 < |x − c| < δ ⟹ |ƒ(x)| < ε
+- C. Para todo B existe M tal que x > M ⟹ ƒ(x) > B
+- D. ƒ(c) = ∞
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 93
+**Subtema:** Límites y continuidad · Definición formal de límite infinito
+
+Decimos que ƒ(x) tiende a infinito cuando x se aproxima a c, y escribimos lím(x→c) ƒ(x) = ∞, si para todo número real positivo B existe una correspondiente δ > 0 tal que, para toda x, 0 < |x − c| < δ ⟹ ƒ(x) > B.
+
+### 78
+
+En relación con el libro de Cálculo, ¿cuándo una recta x = a es una asíntota vertical de la gráfica de y = ƒ(x)?
+
+- A. Si lím(x→a⁺) ƒ(x) = ±∞ o lím(x→a⁻) ƒ(x) = ±∞
+- B. Si lím(x→∞) ƒ(x) = a
+- C. Si ƒ(a) = 0
+- D. Si la gráfica es simétrica respecto a la recta x = a
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 94
+**Subtema:** Límites y continuidad · Asíntota vertical
+
+Una recta x = a es una asíntota vertical de la gráfica de una función y = ƒ(x) ya sea que lím(x→a⁺) ƒ(x) = ±∞ o lím(x→a⁻) ƒ(x) = ±∞.
+
+### 79
+
+En relación con el libro de Cálculo, ¿dónde tienen asíntotas verticales las curvas y = sec x y y = tan x?
+
+- A. En los múltiplos enteros impares de π/2, donde cos x = 0
+- B. En los múltiplos enteros de π, donde sen x = 0
+- C. Únicamente en x = 0
+- D. En ningún punto
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 95
+**Subtema:** Límites y continuidad · Asíntotas de secante y tangente
+
+Las curvas y = sec x = 1/cos x y y = tan x = sen x/cos x tienen asíntotas verticales en múltiplos enteros impares de π/2, donde cos x = 0.
+
+### 80
+
+En relación con el libro de Cálculo, ¿las asíntotas tienen que ser bilaterales?
+
+- A. No; las asíntotas no tienen que ser bilaterales (la curva puede aproximarse a la asíntota sólo por un lado)
+- B. Sí; siempre son bilaterales
+- C. Sólo las verticales son bilaterales
+- D. Sólo las horizontales son bilaterales
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 95
+**Subtema:** Límites y continuidad · Asíntotas no bilaterales
+
+Las asíntotas no tienen que ser bilaterales.
+
+> Dato fino: una curva puede acercarse a su asíntota sólo por un lado.
+
+---
+
+## Sub-lote 19 · Términos dominantes (pp. 95–96)
+
+### 81
+
+En relación con el libro de Cálculo, ¿para qué sirven los términos dominantes de una función?
+
+- A. Ayudan a predecir el comportamiento de las funciones: un término domina cuando x es numéricamente grande, y otro cuando x está cerca de cierto punto
+- B. Sirven para calcular la derivada de la función
+- C. Determinan el dominio de la función
+- D. No tienen ninguna utilidad práctica
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 96
+**Subtema:** Límites y continuidad · Términos dominantes
+
+Los términos dominantes ayudan a predecir el comportamiento de las funciones: un término domina cuando x es numéricamente grande, y otro domina cuando x está cerca de cierto punto.
