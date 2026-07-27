@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 4 · Sistema de coordenadas rectangulares y gráficas
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 4 → EN CURSO (§4.1 hecho)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 4 → EN CURSO (§4.1–§4.2 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -46,7 +46,7 @@ extracción de texto directa.**
 El **capítulo 4** completo tiene cuatro secciones:
 
 - **§4.1 El sistema de coordenadas rectangulares** (pp. 168–173) ← este archivo lo cubre.
-- §4.2 Círculos y gráficas (pp. 174–182).
+- **§4.2 Círculos y gráficas** (pp. 174–182) ← este archivo lo cubre.
 - §4.3 Ecuaciones de rectas (pp. 183–189).
 - §4.4 Variación (pp. 190–194).
 
@@ -62,7 +62,18 @@ ecuaciones de los ejes; la **fórmula de la distancia** (Teorema 4.1.1); la **f�
 punto medio** (Teorema 4.1.2); y el recuadro histórico de René Descartes. Fórmulas
 verificadas contra las hojas renderizadas 187 y 188; prosa por OCR.
 
-**Pendiente:** faltan las secciones **§4.2, §4.3 y §4.4** para cerrar el capítulo 4; y
+**§4.2 · COMPLETO** en 25 reactivos (reactivos 11–35), toda la teoría de la sección
+(pp. 174–180): la terminología de las ecuaciones con dos variables (solución, conjunto
+solución, ecuaciones equivalentes, gráfica de una ecuación); la **Definición 4.2.1** de
+círculo (radio y centro); la **forma normal, estándar o canónica** de la ecuación del
+círculo `(x−h)²+(y−k)²=r²`, la de centro en el origen `x²+y²=r²` y el círculo unitario;
+la **forma general** `x²+y²+ax+by+c=0` y el completar el cuadrado; los cuatro
+**semicírculos** y la convención del símbolo `√`; las **desigualdades** (interior del
+círculo); las **intersecciones** con los ejes; los tres tipos de **simetría** (respecto al
+eje y, al eje x y al origen) y el **Teorema 4.2.1** (pruebas de simetría); más la parábola
+`y=x²`. Fórmulas verificadas contra las hojas renderizadas 192, 193 y 194; prosa por OCR.
+
+**Pendiente:** faltan las secciones **§4.3 y §4.4** para cerrar el capítulo 4; y
 después los capítulos **8, 9 y 12**, que el temario de la EMI (`GA-03-2026`) pide
 completos. **Geometría Analítica NO está cerrada para la EMI.** Este archivo (capítulo 4)
 sostiene el pendiente de la materia hasta que exista el archivo del capítulo 8.
@@ -252,3 +263,412 @@ En relación con el libro de Geometría Analítica, según el recuadro históric
 A menudo se le llama padre de la filosofía moderna. Su famosa frase cogito ergo sum (pienso, luego existo) aparece en sus obras.
 
 > Dato olvidable: el inventor del plano cartesiano es también el autor del "pienso, luego existo".
+
+---
+
+## Sub-lote 5 · Terminología de las ecuaciones con dos variables (p. 174)
+
+### 11
+
+En relación con el libro de Geometría Analítica, ¿qué es una solución de una ecuación con dos variables x y y?
+
+- A. Un par ordenado de números (a, b) que produce una proposición cierta cuando x = a y y = b se sustituyen en la ecuación
+- B. Un solo número real que hace verdadera la ecuación
+- C. Cualquier recta que corte a la gráfica de la ecuación
+- D. El punto de intersección de la gráfica con el origen
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 174
+**Subtema:** Círculos y gráficas · Solución de una ecuación con dos variables
+
+Una solución de una ecuación con dos variables x y y es un par ordenado de números (a, b) que produce una proposición cierta cuando x = a y y = b se sustituyen en la ecuación.
+
+### 12
+
+En relación con el libro de Geometría Analítica, ¿cómo se llama el conjunto de todas las soluciones de una ecuación?
+
+- A. Conjunto solución
+- B. Conjunto dominio
+- C. Conjunto imagen
+- D. Conjunto potencia
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 174
+**Subtema:** Círculos y gráficas · Conjunto solución
+
+El conjunto de todas las soluciones de una ecuación se llama conjunto solución.
+
+### 13
+
+En relación con el libro de Geometría Analítica, ¿cuándo se dice que dos ecuaciones son equivalentes?
+
+- A. Si tienen el mismo conjunto solución
+- B. Si tienen el mismo número de variables
+- C. Si sus gráficas se cortan en el origen
+- D. Si una se obtiene de la otra al elevar al cuadrado
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 174
+**Subtema:** Círculos y gráficas · Ecuaciones equivalentes
+
+Se dice que dos ecuaciones son equivalentes si tienen el mismo conjunto solución.
+
+### 14
+
+En relación con el libro de Geometría Analítica, ¿qué es la gráfica de una ecuación?
+
+- A. La representación visual, en el plano coordenado, del conjunto de puntos cuyas coordenadas (a, b) satisfacen la ecuación
+- B. La lista de todos los pares ordenados que no satisfacen la ecuación
+- C. La recta que une el origen con el primer cuadrante
+- D. El conjunto de las intersecciones con los ejes únicamente
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 174
+**Subtema:** Círculos y gráficas · Gráfica de una ecuación
+
+La gráfica de una ecuación es la representación visual, en el plano coordenado, del conjunto de puntos cuyas coordenadas (a, b) satisfacen la ecuación.
+
+---
+
+## Sub-lote 6 · El círculo y su ecuación (p. 175)
+
+### 15
+
+En relación con el libro de Geometría Analítica, según la Definición 4.2.1, ¿qué es un círculo?
+
+- A. El conjunto de todos los puntos P(x, y) en el plano coordenado que están a determinada distancia fija r de un punto fijo dado C
+- B. El conjunto de todos los puntos que equidistan de dos rectas fijas
+- C. El segmento de recta que une dos puntos del plano
+- D. La región del plano encerrada entre dos rectas paralelas
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 175
+**Subtema:** Círculos y gráficas · Definición de círculo
+
+Un círculo es el conjunto de todos los puntos P(x, y) en el plano coordenado que están a determinada distancia fija r, llamada radio, de un punto fijo dado C, llamado centro.
+
+### 16
+
+En relación con el libro de Geometría Analítica, según la Definición 4.2.1, ¿cómo se llaman la distancia fija r y el punto fijo dado C de un círculo?
+
+- A. r es el radio y C es el centro
+- B. r es el diámetro y C es el foco
+- C. r es la cuerda y C es el vértice
+- D. r es la tangente y C es el polo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 175
+**Subtema:** Círculos y gráficas · Radio y centro
+
+Un círculo es el conjunto de todos los puntos P(x, y) en el plano coordenado que están a determinada distancia fija r, llamada radio, de un punto fijo dado C, llamado centro.
+
+### 17
+
+En relación con el libro de Geometría Analítica, ¿cuál es la ecuación de un círculo de radio r y centro C(h, k)?
+
+- A. (x − h)² + (y − k)² = r²
+- B. (x + h)² + (y + k)² = r²
+- C. (x − h)² − (y − k)² = r²
+- D. (x − h) + (y − k) = r
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 175
+**Subtema:** Círculos y gráficas · Ecuación del círculo
+
+Un círculo de radio r y centro C(h, k) tiene la ecuación (x − h)² + (y − k)² = r².
+
+### 18
+
+En relación con el libro de Geometría Analítica, ¿cómo se llama la ecuación (x − h)² + (y − k)² = r² de un círculo?
+
+- A. Forma normal, estándar o canónica
+- B. Forma general o desarrollada
+- C. Forma paramétrica
+- D. Forma polar
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 175
+**Subtema:** Círculos y gráficas · Forma normal de la ecuación del círculo
+
+La ecuación (2) se llama forma normal, estándar o canónica de la ecuación de un círculo.
+
+### 19
+
+En relación con el libro de Geometría Analítica, cuando h = 0 y k = 0, ¿cuál es la forma normal de la ecuación de un círculo con centro en el origen?
+
+- A. x² + y² = r²
+- B. x² − y² = r²
+- C. x² + y² = r
+- D. (x + y)² = r²
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 175
+**Subtema:** Círculos y gráficas · Círculo con centro en el origen
+
+Cuando h = 0 y k = 0, se ve que la forma normal de la ecuación de un círculo con centro en el origen es x² + y² = r².
+
+### 20
+
+En relación con el libro de Geometría Analítica, ¿qué es un círculo unitario y cuál es una ecuación suya con centro en el origen?
+
+- A. Cuando r = 1 se dice que la ecuación es de un círculo unitario; x² + y² = 1 es una ecuación de un círculo unitario con centro en el origen
+- B. Cuando r = 0 se dice que es un círculo unitario; x² + y² = 0
+- C. Cuando r = 2 se dice que es un círculo unitario; x² + y² = 4
+- D. Cuando el centro es (1, 1) se dice que es un círculo unitario; (x − 1)² + (y − 1)² = 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 175
+**Subtema:** Círculos y gráficas · Círculo unitario
+
+Cuando r = 1 se dice que (2) o (3) es una ecuación de un círculo unitario. Por ejemplo, x² + y² = 1 es una ecuación de un círculo unitario con centro en el origen.
+
+---
+
+## Sub-lote 7 · Forma general y completar el cuadrado (p. 176)
+
+### 21
+
+En relación con el libro de Geometría Analítica, al desarrollar (x − h)² y (y − k)² y agrupar términos semejantes, ¿cómo se puede reescribir la ecuación de un círculo, y qué inconveniente tiene esa forma?
+
+- A. Como x² + y² + ax + by + c = 0; en esta forma no se observan el centro y el radio
+- B. Como x² + y² = ax + by; en esta forma se leen directamente el centro y el radio
+- C. Como ax + by + c = 0; en esta forma se observa sólo el radio
+- D. Como x² − y² + ax − by + c = 0; en esta forma no se observa el origen
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 176
+**Subtema:** Círculos y gráficas · Forma general de la ecuación del círculo
+
+Una ecuación de un círculo en forma normal se puede reescribir como x² + y² + ax + by + c = 0. Naturalmente, en esta forma no se observan el centro y el radio.
+
+### 22
+
+En relación con el libro de Geometría Analítica, para pasar de la forma x² + y² + ax + by + c = 0 a la forma normal, ¿qué se debe hacer?
+
+- A. Completar el cuadrado en x y en y
+- B. Derivar ambos miembros respecto a x
+- C. Dividir toda la ecuación entre r
+- D. Sustituir x y y por sus valores en el origen
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 176
+**Subtema:** Círculos y gráficas · Completar el cuadrado
+
+Para invertir el proceso, en otras palabras, para pasar de (6) a la forma normal (2), se debe completar el cuadrado en x y en y.
+
+---
+
+## Sub-lote 8 · Semicírculos (p. 177)
+
+### 23
+
+En relación con el libro de Geometría Analítica, si se despeja y de la ecuación x² + y² = r², ¿cuál es el resultado?
+
+- A. y² = r² − x² o y = ±√(r² − x²)
+- B. y = r − x
+- C. y² = r² + x² o y = ±√(r² + x²)
+- D. y = ±(r² − x²)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 177
+**Subtema:** Círculos y gráficas · Semicírculos
+
+Si se despeja y de (3), el resultado es y² = r² − x² o y = ±√(r² − x²).
+
+### 24
+
+En relación con el libro de Geometría Analítica, para el círculo x² + y² = r², ¿qué ecuación corresponde a la mitad superior y cuál a la mitad inferior?
+
+- A. y = √(r² − x²) es la mitad superior y y = −√(r² − x²) es la mitad inferior
+- B. y = −√(r² − x²) es la mitad superior y y = √(r² − x²) es la mitad inferior
+- C. x = √(r² − y²) es la mitad superior y x = −√(r² − y²) es la mitad inferior
+- D. y = √(r² + x²) es la mitad superior y y = −√(r² + x²) es la mitad inferior
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 177
+**Subtema:** Círculos y gráficas · Mitad superior e inferior
+
+Según la figura 4.2.6, la gráfica de y = √(r² − x²) es la mitad superior del círculo, y la de y = −√(r² − x²) es la mitad inferior.
+
+### 25
+
+En relación con el libro de Geometría Analítica, para el círculo x² + y² = r², ¿qué ecuación corresponde a la mitad derecha y cuál a la mitad izquierda?
+
+- A. x = √(r² − y²) es la mitad derecha y x = −√(r² − y²) es la mitad izquierda
+- B. x = −√(r² − y²) es la mitad derecha y x = √(r² − y²) es la mitad izquierda
+- C. y = √(r² − x²) es la mitad derecha y y = −√(r² − x²) es la mitad izquierda
+- D. x = √(r² + y²) es la mitad derecha y x = −√(r² + y²) es la mitad izquierda
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 177
+**Subtema:** Círculos y gráficas · Mitad derecha e izquierda
+
+Si se despeja x de (3), se obtiene x = √(r² − y²) y x = −√(r² − y²); según la figura 4.2.6, la primera es la mitad derecha del círculo y la segunda es la mitad izquierda.
+
+### 26
+
+En relación con el libro de Geometría Analítica, ¿qué representa por convención el símbolo √?
+
+- A. Una cantidad no negativa
+- B. Una cantidad siempre negativa
+- C. Cualquier número real, positivo o negativo
+- D. Un número imaginario
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 177
+**Subtema:** Círculos y gráficas · Convención del símbolo raíz
+
+Por convención, el símbolo √ representa una cantidad no negativa.
+
+### 27
+
+En relación con el libro de Geometría Analítica, ¿cómo se llama cada una de las cuatro gráficas (mitad superior, inferior, derecha e izquierda) de la figura 4.2.6?
+
+- A. Semicírculo
+- B. Sector circular
+- C. Arco secante
+- D. Cuadrante
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 177
+**Subtema:** Círculos y gráficas · Semicírculo
+
+Cada gráfica de la FIGURA 4.2.6 se llama semicírculo.
+
+---
+
+## Sub-lote 9 · Desigualdades (p. 178)
+
+### 28
+
+En relación con el libro de Geometría Analítica, ¿qué describe la desigualdad x² + y² < r²?
+
+- A. Los puntos (x, y) que están en el interior del círculo
+- B. Los puntos (x, y) que están en el exterior del círculo
+- C. Los puntos (x, y) que están exactamente sobre el círculo
+- D. Los puntos (x, y) que están sobre el eje x
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 178
+**Subtema:** Círculos y gráficas · Desigualdades
+
+Los puntos (x, y) cuyas coordenadas satisfacen la desigualdad x² + y² < r² están en el interior del círculo.
+
+---
+
+## Sub-lote 10 · Intersecciones con los ejes (p. 178)
+
+### 29
+
+En relación con el libro de Geometría Analítica, ¿qué son las intersecciones con el eje x de la gráfica de una ecuación y cómo se determinan?
+
+- A. Son los puntos en los que la gráfica corta el eje x; se determinan haciendo y = 0 y despejando x
+- B. Son los puntos en los que la gráfica corta el eje y; se determinan haciendo x = 0 y despejando y
+- C. Son los puntos donde la gráfica pasa por el origen; se determinan haciendo x = y
+- D. Son los puntos más altos de la gráfica; se determinan igualando la ecuación a r
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 178
+**Subtema:** Círculos y gráficas · Intersecciones con el eje x
+
+Las intersecciones con el eje x de la gráfica de una ecuación son los puntos en los que la gráfica corta el eje x. Ya que todo punto del eje x tiene la ordenada (coordenada y) 0, las abscisas de esos puntos se pueden determinar haciendo y = 0 y despejando x.
+
+### 30
+
+En relación con el libro de Geometría Analítica, ¿cómo se determinan las intersecciones con el eje y de la gráfica de una ecuación?
+
+- A. Igualando x = 0 en la ecuación y despejando y
+- B. Igualando y = 0 en la ecuación y despejando x
+- C. Igualando x = y en la ecuación
+- D. Elevando al cuadrado ambos miembros de la ecuación
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 178
+**Subtema:** Círculos y gráficas · Intersecciones con el eje y
+
+Las intersecciones con el eje y de la gráfica de una ecuación son los puntos en los que su gráfica corta el eje y. Las ordenadas de esos puntos pueden determinarse igualando x = 0 en la ecuación y despejando y.
+
+---
+
+## Sub-lote 11 · Simetría (p. 179)
+
+### 31
+
+En relación con el libro de Geometría Analítica, ¿cuándo es una gráfica simétrica respecto al eje y?
+
+- A. Si siempre que (x, y) es un punto de la gráfica, (−x, y) también es un punto de ella
+- B. Si siempre que (x, y) es un punto de la gráfica, (x, −y) también es un punto de ella
+- C. Si siempre que (x, y) es un punto de la gráfica, (−x, −y) también es un punto de ella
+- D. Si siempre que (x, y) es un punto de la gráfica, (y, x) también es un punto de ella
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 179
+**Subtema:** Círculos y gráficas · Simetría respecto al eje y
+
+Una gráfica es simétrica respecto al eje y si siempre que (x, y) es un punto de la gráfica, (−x, y) también es un punto de ella.
+
+### 32
+
+En relación con el libro de Geometría Analítica, ¿cuándo es una gráfica simétrica respecto al eje x?
+
+- A. Si siempre que (x, y) es un punto de la gráfica, (x, −y) también es un punto de la gráfica
+- B. Si siempre que (x, y) es un punto de la gráfica, (−x, y) también es un punto de la gráfica
+- C. Si siempre que (x, y) es un punto de la gráfica, (−x, −y) también es un punto de la gráfica
+- D. Si siempre que (x, y) es un punto de la gráfica, (y, x) también es un punto de la gráfica
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 179
+**Subtema:** Círculos y gráficas · Simetría respecto al eje x
+
+Se dice que una gráfica es simétrica respecto al eje x si siempre que (x, y) es un punto de la gráfica, (x, −y) también es un punto de la gráfica.
+
+### 33
+
+En relación con el libro de Geometría Analítica, ¿cuándo es una gráfica simétrica con respecto al origen?
+
+- A. Si cuando (x, y) está en la gráfica, (−x, −y) también es un punto de la gráfica
+- B. Si cuando (x, y) está en la gráfica, (−x, y) también es un punto de la gráfica
+- C. Si cuando (x, y) está en la gráfica, (x, −y) también es un punto de la gráfica
+- D. Si cuando (x, y) está en la gráfica, (y, x) también es un punto de la gráfica
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 179
+**Subtema:** Círculos y gráficas · Simetría respecto al origen
+
+Una gráfica es simétrica con respecto al origen si cuando (x, y) está en la gráfica, (−x, −y) también es un punto de la gráfica.
+
+### 34
+
+En relación con el libro de Geometría Analítica, ¿cómo se llama la gráfica de la ecuación y = x²?
+
+- A. Parábola
+- B. Hipérbola
+- C. Elipse
+- D. Recta
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 179
+**Subtema:** Círculos y gráficas · Parábola
+
+El lector ya sabrá que la gráfica de la ecuación y = x² se llama parábola.
+
+---
+
+## Sub-lote 12 · Teorema 4.2.1 · Pruebas de simetría (p. 180)
+
+### 35
+
+En relación con el libro de Geometría Analítica, según el Teorema 4.2.1 (pruebas de simetría), la gráfica de una ecuación es simétrica respecto a:
+
+- A. El eje y si al sustituir x por −x se obtiene una ecuación equivalente; el eje x si al sustituir y por −y se obtiene una ecuación equivalente; el origen si al sustituir x y y por −x y −y se obtiene una ecuación equivalente
+- B. El eje y si al sustituir y por −y se obtiene una ecuación equivalente; el eje x si al sustituir x por −x se obtiene una ecuación equivalente; el origen si al sustituir x por −x se obtiene una ecuación equivalente
+- C. El eje y si al sustituir x por −x se obtiene una ecuación distinta; el eje x si al sustituir y por −y se obtiene una ecuación distinta; el origen si no cambia nada
+- D. El eje y si la gráfica pasa por el origen; el eje x si la gráfica es una recta; el origen si la gráfica es un círculo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 180
+**Subtema:** Círculos y gráficas · Teorema 4.2.1 pruebas de simetría
+
+La gráfica de una ecuación es simétrica respecto a: i) el eje y si al sustituir x por −x se obtiene una ecuación equivalente; ii) el eje x si al sustituir y por −y se obtiene una ecuación equivalente; iii) el origen si al sustituir x y y por −x y −y se obtiene una ecuación equivalente.
+
+> Dato olvidable: la prueba del eje y cambia sólo x (por −x); la del eje x cambia sólo y (por −y); la del origen cambia las dos.
