@@ -1,6 +1,6 @@
 # Cálculo · Capítulo 2 · Límites y continuidad
 
-**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 2. Límites y continuidad → EN CURSO (§2.1–§2.2 hechos)**
+**Libro:** Thomas · *Cálculo. Una variable* (Pearson, 13.ª ed. 2015) · **Capítulo 2. Límites y continuidad → EN CURSO (§2.1–§2.3 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El capítulo 2 lo pide **la EMI** (Escuela Militar de
@@ -54,7 +54,15 @@ los límites de funciones polinomiales y racionales por sustitución; el teorema
 factor; el **teorema del sándwich** (o de la compresión) y el teorema de comparación
 (Teorema 5). Notación verificada contra las hojas renderizadas 69 y 73.
 
-**Pendiente:** faltan las secciones **§2.3, §2.4, §2.5 y §2.6** para cerrar el
+**§2.3 · COMPLETO** en 8 reactivos (reactivos 32–39). §2.3 es en gran parte
+procedimental (cómo hallar δ para un ε dado), así que por la norma de teoría sobre
+práctica lleva reactivo su parte conceptual: la **definición formal ε-δ** de límite; el
+significado de ε (tolerancia) y δ (control sobre x, que depende de ε); que la definición
+no sirve para hallar límites sino para verificarlos y comprobar teoremas; que basta una
+δ que funcione (no la mejor); la desigualdad del triángulo; y el método de dos pasos
+para obtener δ. Notación verificada contra la hoja renderizada 78.
+
+**Pendiente:** faltan las secciones **§2.4, §2.5 y §2.6** para cerrar el
 capítulo 2; y después el capítulo **3 (Derivadas)**, que el temario de la EMI
 (`CDI-02-2026`) pide completo. **Cálculo NO está cerrada para la EMI.** Este archivo
 (capítulo 2) sostiene el pendiente de la materia hasta que exista el archivo del
@@ -595,3 +603,131 @@ En relación con el libro de Cálculo, el teorema del sándwich permite establec
 **Subtema:** Límites y continuidad · Límites de seno y coseno
 
 lím(θ→0) sen θ = 0 y lím(θ→0) cos θ = 1.
+
+---
+
+## Sub-lote 10 · Definición formal de límite (pp. 60–64)
+
+### 32
+
+En relación con el libro de Cálculo, según la definición formal, ¿cuándo el límite de ƒ(x) cuando x se aproxima a c es el número L?
+
+- A. Si para todo número ε > 0 existe un número δ > 0 correspondiente tal que, para toda x, 0 < |x − c| < δ ⟹ |ƒ(x) − L| < ε
+- B. Si existe un ε > 0 tal que para todo δ > 0, |x − c| < ε ⟹ |ƒ(x) − L| < δ
+- C. Si para todo δ > 0 existe un ε > 0 tal que |ƒ(x) − L| < δ
+- D. Si ƒ(c) = L
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 60
+**Subtema:** Límites y continuidad · Definición formal de límite
+
+Sea ƒ(x) definida en un intervalo abierto alrededor de c, excepto posiblemente en c mismo. Decimos que el límite de ƒ(x) cuando x se aproxima a c es el número L, y escribimos lím(x→c) ƒ(x) = L, si, para todo número ε > 0 existe un número δ > 0 correspondiente, tal que, para toda x, 0 < |x − c| < δ ⟹ |ƒ(x) − L| < ε.
+
+### 33
+
+En relación con el libro de Cálculo, en la definición formal de límite, ¿qué representa ε?
+
+- A. La tolerancia de error: qué tan cerca de L debe quedar ƒ(x)
+- B. La distancia máxima permitida entre x y c
+- C. El valor mismo del límite
+- D. El valor de la función en c
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 60
+**Subtema:** Límites y continuidad · Significado de épsilon
+
+Debemos darnos por satisfechos con un diámetro ƒ(x), cuya medida se encuentra entre L − ε y L + ε; ε es la tolerancia de error.
+
+### 34
+
+En relación con el libro de Cálculo, en la definición formal de límite, ¿qué mide δ y de qué depende su valor?
+
+- A. Mide qué tan preciso debe ser el control sobre x, y su valor depende del valor de ε
+- B. Mide la tolerancia de error, y depende del valor de L
+- C. Mide el valor del límite, y depende de c
+- D. Mide la distancia entre L y ƒ(c), y no depende de nada
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 60
+**Subtema:** Límites y continuidad · Significado de delta
+
+La δ es la medida de qué tan preciso debe ser nuestro control sobre x para garantizar el nivel de precisión requerido. El valor de δ, que determina qué tan estricto debe ser nuestro control, depende del valor de ε, que es la tolerancia de error.
+
+> Dato fino: ε lo pone el "reto" (tolerancia); δ es la "respuesta" y se ajusta según ε.
+
+### 35
+
+En relación con el libro de Cálculo, ¿para qué sirve —y para qué no sirve— la definición formal de límite?
+
+- A. No dice cómo encontrar el límite, pero permite verificar si el valor que se conjetura de un límite es correcto
+- B. Sirve para calcular directamente el valor de cualquier límite
+- C. Sirve sólo para funciones polinomiales
+- D. No tiene ninguna utilidad
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 60
+**Subtema:** Límites y continuidad · Uso de la definición
+
+La definición formal de límite no nos dice cómo encontrar el límite de una función, pero nos permite verificar si el valor que se conjetura de un límite es correcto.
+
+### 36
+
+En relación con el libro de Cálculo, según el libro, ¿cuál es el verdadero propósito de la definición formal de límite?
+
+- A. Comprobar teoremas generales, de manera que los cálculos de límites específicos puedan simplificarse
+- B. Realizar cálculos numéricos de límites específicos
+- C. Sustituir a las leyes de los límites
+- D. Graficar funciones con computadora
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 60
+**Subtema:** Límites y continuidad · Propósito de la definición
+
+El verdadero propósito de la definición no es realizar cálculos como éstos, sino comprobar teoremas generales, de manera que los cálculos de límites específicos puedan simplificarse.
+
+### 37
+
+En relación con el libro de Cálculo, al encontrar una δ que funcione para una ε dada, ¿qué exige la definición?
+
+- A. No exige encontrar la "mejor" δ, sólo una que funcione; cualquier δ positiva menor también sirve
+- B. Exige encontrar la mayor δ posible
+- C. Exige encontrar la única δ que existe
+- D. Exige que δ sea igual a ε
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 62
+**Subtema:** Límites y continuidad · Elección de delta
+
+La definición no exige encontrar la "mejor" δ positiva, sólo una que funcione. Cualquier δ positiva menor también lo hará.
+
+> Dato fino: basta con una δ que sirva; no hay que buscar la óptima.
+
+### 38
+
+En relación con el libro de Cálculo, en la demostración de la regla de la suma, ¿qué afirma la desigualdad del triángulo?
+
+- A. |a + b| ≤ |a| + |b|
+- B. |a + b| = |a| + |b|
+- C. |a + b| ≥ |a| + |b|
+- D. |a − b| = |a| − |b|
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 64
+**Subtema:** Límites y continuidad · Desigualdad del triángulo
+
+Desigualdad del triángulo: |a + b| ≤ |a| + |b|.
+
+### 39
+
+En relación con el libro de Cálculo, el proceso para obtener algebraicamente una δ tal que 0 < |x − c| < δ ⟹ |ƒ(x) − L| < ε consta de dos pasos; ¿cuál es el primero?
+
+- A. Resolver la desigualdad |ƒ(x) − L| < ε para encontrar un intervalo abierto (a, b) que contenga a c donde se satisfaga para toda x ≠ c
+- B. Derivar ƒ(x) y evaluarla en c
+- C. Sustituir directamente x = c en ƒ(x)
+- D. Graficar ƒ con una calculadora
+
+**Respuesta:** A
+**Referencia:** Thomas, G. B. (2015) *Cálculo. Una variable*, 13.ª ed., Pearson, Pág. 63
+**Subtema:** Límites y continuidad · Obtención algebraica de delta
+
+Resuelva la desigualdad |ƒ(x) − L| < ε para encontrar un intervalo abierto (a, b) que contenga a c en el que la desigualdad se satisfaga para toda x ≠ c.
