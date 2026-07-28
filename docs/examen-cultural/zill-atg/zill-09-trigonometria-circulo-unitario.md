@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 9 · Trigonometría del círculo unitario
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 9 → EN CURSO (§9.1–§9.3 hechos)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 9 → EN CURSO (§9.1–§9.4 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -46,7 +46,7 @@ El **capítulo 9** completo tiene seis secciones:
 - **§9.1 Las funciones circulares** (pp. 390–396) ← este archivo lo cubre.
 - **§9.2 Gráficas de las funciones seno y coseno** (pp. 397–406) ← este archivo lo cubre.
 - **§9.3 Gráficas de otras funciones trigonométricas** (pp. 407–413) ← este archivo lo cubre.
-- §9.4 Identidades especiales (pp. 414–423).
+- **§9.4 Identidades especiales** (pp. 414–423) ← este archivo lo cubre.
 - §9.5 Funciones trigonométricas inversas (pp. 424–432).
 - §9.6 Ecuaciones trigonométricas (pp. 433–439).
 
@@ -89,7 +89,28 @@ sin cortes con el eje x porque `|y|≥1`); y el **periodo bajo transformación**
 ejemplos de graficado quedan fuera por la norma de teoría sobre práctica. Fórmulas
 verificadas contra las hojas renderizadas 424, 426 y 427; prosa por OCR.
 
-**Pendiente:** faltan las secciones **§9.4, §9.5 y §9.6** para cerrar el
+**§9.4 · COMPLETO** en 9 reactivos (reactivos 34–42), toda la teoría de la sección
+(pp. 414–420): la definición de **identidad trigonométrica**; el **Teorema 9.4.1**
+(pitagóricas `sen²x+cos²x=1`, `1+tan²x=sec²x`, `1+cot²x=csc²x`); el **Teorema 9.4.2** (suma
+y diferencia del coseno); las **fórmulas de suma y diferencia del seno** (tomadas del
+**texto**, no del recuadro erróneo — ver la errata abajo); el **Teorema 9.4.4** (suma y
+diferencia de la tangente); el **Teorema 9.4.5** (ángulo doble `cos 2x=cos²x−sen²x`,
+`sen 2x=2 sen x cos x`) y sus **formas alternativas** (`cos 2x=2cos²x−1`, `cos 2x=1−2sen²x`);
+el **Teorema 9.4.6** (mitad de ángulo `cos²(x/2)=½(1+cos x)`, `sen²(x/2)=½(1−cos x)`) y las
+fórmulas `cos²x=½(1+cos 2x)`, `sen²x=½(1−cos 2x)`. Fórmulas verificadas contra las hojas
+renderizadas 434, 435, 436 y 437; prosa por OCR.
+
+> **⚠️ Errata del libro (Teorema 9.4.3, p. 417).** El recuadro del **Teorema 9.4.3** se
+> titula *"Fórmulas de suma y diferencia del seno"*, pero las ecuaciones (7) y (8) que
+> imprime son las del **coseno** (repiten el Teorema 9.4.2): `cos(x₁+x₂)=cos x₁ cos x₂ −
+> sen x₁ sen x₂` y `cos(x₁−x₂)=cos x₁ cos x₂ + sen x₁ sen x₂`. Las fórmulas correctas del
+> **seno** sí están, inequívocas, en la deducción del texto justo encima del recuadro:
+> `sen(x₁+x₂)=sen x₁ cos x₂ + cos x₁ sen x₂` y `sen(x₁−x₂)=sen x₁ cos x₂ − cos x₁ sen x₂`.
+> El reactivo 37 se escribió sobre la **versión correcta del texto**, no sobre el recuadro.
+> **Decisión de Carlo pendiente:** publicar o no un aviso al aspirante sobre esta errata
+> (misma situación que la del Teorema 9 del Cálculo, cap. 2).
+
+**Pendiente:** faltan las secciones **§9.5 y §9.6** para cerrar el
 capítulo 9; y después el capítulo **12**, que el temario de la EMI (`GA-03-2026`) pide
 completo. **Geometría Analítica NO está cerrada para la EMI.** Los capítulos 4 y 8 ya están
 cerrados; este archivo (capítulo 9) sostiene el pendiente de la materia hasta que exista el
@@ -660,3 +681,152 @@ En relación con el libro de Geometría Analítica, para B > 0, ¿cuál es el pe
 Si B > 0, el periodo de y = A tan(Bx + C) y y = A cot(Bx + C) es π/B, mientras que el periodo de y = A sec(Bx + C) y y = A csc(Bx + C) es 2π/B. De las seis funciones trigonométricas, sólo las funciones seno y coseno tienen amplitud.
 
 > Dato olvidable: tangente y cotangente tienen periodo π (la mitad que las demás); secante y cosecante, 2π. Sólo seno y coseno tienen amplitud; las otras cuatro no, porque no tienen máximo ni mínimo. Las asíntotas de sec caen donde cos=0; las de csc, donde sen=0.
+
+---
+
+## Sub-lote 14 · Identidades pitagóricas (p. 414)
+
+### 34
+
+En relación con el libro de Geometría Analítica, ¿qué es una identidad trigonométrica?
+
+- A. Una ecuación o fórmula donde intervienen funciones trigonométricas, que es válida para todos los ángulos o números reales para los cuales están definidos ambos lados de la igualdad
+- B. Una ecuación trigonométrica que sólo es verdadera para un ángulo particular
+- C. El valor máximo de una función trigonométrica
+- D. Una función que no tiene periodo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 414
+**Subtema:** Identidades especiales · Definición de identidad
+
+Una identidad trigonométrica es una ecuación o fórmula donde intervienen funciones trigonométricas, que es válida para todos los ángulos o números reales para los cuales están definidos ambos lados de la igualdad.
+
+### 35
+
+En relación con el libro de Geometría Analítica, según el Teorema 9.4.1, ¿cuáles son las tres identidades pitagóricas?
+
+- A. sen²x + cos²x = 1, 1 + tan²x = sec²x y 1 + cot²x = csc²x
+- B. sen²x − cos²x = 1, 1 − tan²x = sec²x y 1 − cot²x = csc²x
+- C. sen²x + cos²x = 0, tan²x + sec²x = 1 y cot²x + csc²x = 1
+- D. sen x + cos x = 1, tan x + sec x = 1 y cot x + csc x = 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 414
+**Subtema:** Identidades especiales · Teorema 9.4.1 pitagóricas
+
+Si x es un número real para el que están definidas las funciones: sen²x + cos²x = 1, 1 + tan²x = sec²x y 1 + cot²x = csc²x.
+
+---
+
+## Sub-lote 15 · Fórmulas de suma y diferencia (pp. 416–418)
+
+### 36
+
+En relación con el libro de Geometría Analítica, según el Teorema 9.4.2, ¿cuáles son las fórmulas de suma y diferencia del coseno?
+
+- A. cos(x₁ + x₂) = cos x₁ cos x₂ − sen x₁ sen x₂ y cos(x₁ − x₂) = cos x₁ cos x₂ + sen x₁ sen x₂
+- B. cos(x₁ + x₂) = cos x₁ cos x₂ + sen x₁ sen x₂ y cos(x₁ − x₂) = cos x₁ cos x₂ − sen x₁ sen x₂
+- C. cos(x₁ + x₂) = sen x₁ cos x₂ + cos x₁ sen x₂ y cos(x₁ − x₂) = sen x₁ cos x₂ − cos x₁ sen x₂
+- D. cos(x₁ + x₂) = cos x₁ + cos x₂ y cos(x₁ − x₂) = cos x₁ − cos x₂
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 416
+**Subtema:** Identidades especiales · Teorema 9.4.2 suma y diferencia del coseno
+
+Para todos los números reales x₁ y x₂: cos(x₁ + x₂) = cos x₁ cos x₂ − sen x₁ sen x₂, y cos(x₁ − x₂) = cos x₁ cos x₂ + sen x₁ sen x₂.
+
+### 37
+
+En relación con el libro de Geometría Analítica, ¿cuáles son las fórmulas de suma y diferencia del seno?
+
+- A. sen(x₁ + x₂) = sen x₁ cos x₂ + cos x₁ sen x₂ y sen(x₁ − x₂) = sen x₁ cos x₂ − cos x₁ sen x₂
+- B. sen(x₁ + x₂) = sen x₁ cos x₂ − cos x₁ sen x₂ y sen(x₁ − x₂) = sen x₁ cos x₂ + cos x₁ sen x₂
+- C. sen(x₁ + x₂) = cos x₁ cos x₂ − sen x₁ sen x₂ y sen(x₁ − x₂) = cos x₁ cos x₂ + sen x₁ sen x₂
+- D. sen(x₁ + x₂) = sen x₁ + sen x₂ y sen(x₁ − x₂) = sen x₁ − sen x₂
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 417
+**Subtema:** Identidades especiales · Fórmulas de suma y diferencia del seno
+
+Según la deducción del texto (p. 417): sen(x₁ + x₂) = sen x₁ cos x₂ + cos x₁ sen x₂, y sen(x₁ − x₂) = sen x₁ cos x₂ − cos x₁ sen x₂. (El recuadro del Teorema 9.4.3 imprime por errata las fórmulas del coseno; las del seno correctas son estas, del texto.)
+
+### 38
+
+En relación con el libro de Geometría Analítica, según el Teorema 9.4.4, ¿cuáles son las fórmulas de suma y diferencia de la tangente?
+
+- A. tan(x₁ + x₂) = (tan x₁ + tan x₂)/(1 − tan x₁ tan x₂) y tan(x₁ − x₂) = (tan x₁ − tan x₂)/(1 + tan x₁ tan x₂)
+- B. tan(x₁ + x₂) = (tan x₁ − tan x₂)/(1 + tan x₁ tan x₂) y tan(x₁ − x₂) = (tan x₁ + tan x₂)/(1 − tan x₁ tan x₂)
+- C. tan(x₁ + x₂) = tan x₁ + tan x₂ y tan(x₁ − x₂) = tan x₁ − tan x₂
+- D. tan(x₁ + x₂) = (tan x₁ · tan x₂)/(1 + tan x₁ + tan x₂) y tan(x₁ − x₂) = (tan x₁ · tan x₂)/(1 − tan x₁ − tan x₂)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 418
+**Subtema:** Identidades especiales · Teorema 9.4.4 suma y diferencia de la tangente
+
+Para números reales x₁ y x₂ para los cuales están definidas las funciones: tan(x₁ + x₂) = (tan x₁ + tan x₂)/(1 − tan x₁ tan x₂), y tan(x₁ − x₂) = (tan x₁ − tan x₂)/(1 + tan x₁ tan x₂).
+
+---
+
+## Sub-lote 16 · Fórmulas de ángulo doble y mitad de ángulo (pp. 419–420)
+
+### 39
+
+En relación con el libro de Geometría Analítica, según el Teorema 9.4.5, ¿cuáles son las fórmulas del coseno y el seno de ángulo doble?
+
+- A. cos 2x = cos²x − sen²x y sen 2x = 2 sen x cos x
+- B. cos 2x = cos²x + sen²x y sen 2x = sen x cos x
+- C. cos 2x = 2 cos x y sen 2x = 2 sen x
+- D. cos 2x = 1 − 2 cos²x y sen 2x = 2 sen²x
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 419
+**Subtema:** Identidades especiales · Teorema 9.4.5 ángulo doble
+
+Para todo número real x: cos 2x = cos²x − sen²x, y sen 2x = 2 sen x cos x.
+
+### 40
+
+En relación con el libro de Geometría Analítica, ¿cuáles son las dos formas alternativas de la fórmula del coseno de ángulo doble?
+
+- A. cos 2x = 2cos²x − 1 y cos 2x = 1 − 2sen²x
+- B. cos 2x = 2sen²x − 1 y cos 2x = 1 − 2cos²x
+- C. cos 2x = cos²x − 1 y cos 2x = 1 − sen²x
+- D. cos 2x = 2cos²x + 1 y cos 2x = 1 + 2sen²x
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 420
+**Subtema:** Identidades especiales · Formas alternativas del coseno de ángulo doble
+
+La fórmula cos 2x = cos²x − sen²x tiene dos formas alternativas útiles: cos 2x = 2cos²x − 1 (sustituyendo sen²x = 1 − cos²x) y cos 2x = 1 − 2sen²x (sustituyendo cos²x = 1 − sen²x).
+
+### 41
+
+En relación con el libro de Geometría Analítica, según el Teorema 9.4.6, ¿cuáles son las fórmulas de mitad de ángulo del coseno y el seno?
+
+- A. cos²(x/2) = ½(1 + cos x) y sen²(x/2) = ½(1 − cos x)
+- B. cos²(x/2) = ½(1 − cos x) y sen²(x/2) = ½(1 + cos x)
+- C. cos²(x/2) = 1 + cos x y sen²(x/2) = 1 − cos x
+- D. cos²(x/2) = ½(1 + cos 2x) y sen²(x/2) = ½(1 − cos 2x)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 420
+**Subtema:** Identidades especiales · Teorema 9.4.6 mitad de ángulo
+
+Para todo número real x: cos²(x/2) = ½(1 + cos x) y sen²(x/2) = ½(1 − cos x).
+
+### 42
+
+En relación con el libro de Geometría Analítica, al despejar cos²x y sen²x de las formas alternativas del ángulo doble, ¿qué fórmulas se obtienen (fórmulas (18), útiles en cálculo integral)?
+
+- A. cos²x = ½(1 + cos 2x) y sen²x = ½(1 − cos 2x)
+- B. cos²x = ½(1 − cos 2x) y sen²x = ½(1 + cos 2x)
+- C. cos²x = 1 + cos 2x y sen²x = 1 − cos 2x
+- D. cos²x = 2(1 + cos 2x) y sen²x = 2(1 − cos 2x)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 420
+**Subtema:** Identidades especiales · Fórmulas (18) para cos²x y sen²x
+
+Al despejar cos²x y sen²x de las formas alternativas (16) y (17) del ángulo doble se obtienen: cos²x = ½(1 + cos 2x) y sen²x = ½(1 − cos 2x).
+
+> Dato olvidable: en las fórmulas de suma, el **coseno cambia el signo** (cos·cos − sen·sen para la suma) y el **seno lo conserva** (sen·cos + cos·sen para la suma). El coseno de ángulo doble tiene tres caras: `cos²x−sen²x`, `2cos²x−1` y `1−2sen²x`. **Cuidado:** el recuadro del Teorema 9.4.3 del libro está mal impreso (muestra el coseno donde debería ir el seno).
