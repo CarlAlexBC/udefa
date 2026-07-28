@@ -93,10 +93,11 @@ conjunta** `z=kxᵐyⁿ`, la **variación combinada** y la **ley de Gravitación
 Newton** `F=k·m₁m₂/r²` (con la constante G). Fórmulas verificadas contra las hojas
 renderizadas 207, 208, 209 y 210; prosa por OCR.
 
-**CAPÍTULO 4 CERRADO** en 64 reactivos (§4.1–§4.4). **Pendiente:** faltan los capítulos
-**8, 9 y 12**, que el temario de la EMI (`GA-03-2026`) pide completos. **Geometría
-Analítica NO está cerrada para la EMI.** Este archivo (capítulo 4) sostiene el pendiente de
-la materia hasta que exista el archivo del capítulo 8.
+**CAPÍTULO 4 CERRADO** en 64 reactivos (§4.1–§4.4). **Pendiente:** ninguno. El capítulo 4
+está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al
+completarse también los capítulos 8, 9 y 12: en total **219 reactivos** (cap 4: 64, cap 8:
+58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en
+coordenadas rectangulares).
 
 ## Criterio: teoría sobre práctica
 

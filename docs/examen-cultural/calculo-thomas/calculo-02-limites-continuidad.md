@@ -77,14 +77,25 @@ continuidad de polinomios, racionales y trigonométricas; la composición de con
 el **teorema del valor intermedio** (Teorema 11) y sus consecuencias (ceros, cambio de
 signo); y la extensión continua. Notación verificada contra la hoja renderizada 97.
 
-> **Aviso — errata del libro (Teorema 9).** El recuadro del Teorema 9 (p. 79) enuncia
-> "la composición **ƒ ∘ g** es continua en c" con las hipótesis "ƒ continua en c, g
-> continua en ƒ(c)", pero el texto y la figura 2.42 de esa misma página usan **g ∘ ƒ**,
-> que es lo correcto (la composición que tiene sentido es g(ƒ(x))). Es una errata de la
-> edición. Por eso el reactivo de composición se escribió sobre la afirmación
-> inequívoca del texto —"todas las composiciones de funciones continuas son
-> continuas"— y NO sobre la notación del recuadro. Publicar o no un aviso al aspirante:
-> decisión pendiente de Carlo.
+> **Errata del libro (Teorema 9, p. 79) — publicada como aviso al aspirante.** El recuadro
+> del Teorema 9 (p. 79) enuncia "la composición **ƒ ∘ g** es continua en c" con las hipótesis
+> "ƒ continua en c, g continua en ƒ(c)", pero el texto y la figura 2.42 de esa misma página
+> usan **g ∘ ƒ**, que es lo correcto (la composición que tiene sentido es g(ƒ(x))). Es una
+> errata de la edición. Por eso el reactivo de composición se escribió sobre la afirmación
+> inequívoca del texto —"todas las composiciones de funciones continuas son continuas"— y
+> NO sobre la notación del recuadro. **Decisión de Carlo (27 jul 2026): se publica como aviso
+> al aspirante** (ver la sección "Avisos al aspirante" abajo), mismo criterio que en Historia.
+
+## Avisos al aspirante
+
+Categoría distinta de la errata de ortografía: aquí el libro imprime una **notación
+inconsistente** en un recuadro de teorema. Se publica como aviso para que el aspirante que
+estudie del recuadro sepa qué está pasando y no memorice la versión equivocada. **Decisión de
+Carlo (27 jul 2026): se publican.** La plataforma debe poder mostrarlos junto al tema.
+
+| # | Página | Dice el libro | Lo correcto | Aviso |
+|---|---|---|---|---|
+| A1 | 79 | Recuadro del **Teorema 9**: "la composición **ƒ ∘ g** es continua en c", con hipótesis "ƒ continua en c, g continua en ƒ(c)" | El **texto y la figura 2.42** de la misma página usan **g ∘ ƒ**, que es la composición con sentido: g(ƒ(x)). El recuadro tiene la notación invertida | Si el examen pregunta por la composición de funciones continuas, vale la afirmación general "toda composición de funciones continuas es continua"; la composición bien escrita es **g ∘ ƒ** (la del texto y la figura), no la del recuadro. |
 
 **§2.6 · COMPLETO** en 15 reactivos (reactivos 67–81), toda la teoría de la sección
 (pp. 86–96): los límites finitos cuando x→±∞ (el símbolo ∞, los límites básicos, la

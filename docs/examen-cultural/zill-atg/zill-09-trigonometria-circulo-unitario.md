@@ -119,28 +119,30 @@ equivalencia entre **hallar las intersecciones con el eje x** y resolver `f(x)=0
 ejemplos de resolución quedan fuera por la norma de teoría sobre práctica. Prosa por OCR;
 frase de p. 435 verificada contra la hoja renderizada 452.
 
-> **⚠️ Errata menor del libro (p. 435).** En el apartado *"Pérdida de soluciones"*, el libro
-> imprime *"Cuando sea posible, es preferible dividir entre una expresión variable"*, lo
-> cual **contradice** el resto del apartado (que advierte que dividir entre una expresión con
-> variable hace perder soluciones y recomienda reunir términos y factorizar). Se cayó un
-> "no": debe leerse *"es preferible **no** dividir"*. El reactivo 51 se escribió sobre el
-> concepto correcto e inequívoco del apartado (el riesgo de dividir), no sobre esa frase.
+> **Erratas del libro — publicadas como avisos al aspirante.** El capítulo 9 de este Zill
+> tiene dos erratas de imprenta que un aspirante podría memorizar al revés si estudia del
+> libro. **Decisión de Carlo (27 jul 2026): se publican como aviso**, mismo criterio que en
+> Historia y en el Cálculo (cap. 2). Ver la sección "Avisos al aspirante" abajo. Ninguna se
+> reprodujo en los reactivos: el reactivo 37 (seno) usa la versión correcta del texto, y el
+> reactivo 51 (pérdida de soluciones) usa el concepto correcto del apartado.
 
-> **⚠️ Errata del libro (Teorema 9.4.3, p. 417).** El recuadro del **Teorema 9.4.3** se
-> titula *"Fórmulas de suma y diferencia del seno"*, pero las ecuaciones (7) y (8) que
-> imprime son las del **coseno** (repiten el Teorema 9.4.2): `cos(x₁+x₂)=cos x₁ cos x₂ −
-> sen x₁ sen x₂` y `cos(x₁−x₂)=cos x₁ cos x₂ + sen x₁ sen x₂`. Las fórmulas correctas del
-> **seno** sí están, inequívocas, en la deducción del texto justo encima del recuadro:
-> `sen(x₁+x₂)=sen x₁ cos x₂ + cos x₁ sen x₂` y `sen(x₁−x₂)=sen x₁ cos x₂ − cos x₁ sen x₂`.
-> El reactivo 37 se escribió sobre la **versión correcta del texto**, no sobre el recuadro.
-> **Decisión de Carlo pendiente:** publicar o no un aviso al aspirante sobre esta errata
-> (misma situación que la del Teorema 9 del Cálculo, cap. 2).
+## Avisos al aspirante
 
-**CAPÍTULO 9 CERRADO** en 53 reactivos (§9.1–§9.6). **Pendiente:** falta el capítulo **12**
-(Coordenadas Polares), que el temario de la EMI (`GA-03-2026`) pide completo. **Geometría
-Analítica NO está cerrada para la EMI.** Los capítulos 4, 8 y 9 ya están cerrados; este
-archivo (capítulo 9) sostiene el pendiente de la materia hasta que exista el archivo del
-capítulo 12.
+Aquí el libro imprime cosas que **contradicen el resto de su propio texto** (una fórmula en un
+recuadro, una frase a la que se le cayó una palabra). Se publican para que el aspirante que se
+los tope sepa qué pasa y no memorice la versión equivocada. **Decisión de Carlo (27 jul
+2026): se publican.** La plataforma debe poder mostrarlos junto al tema.
+
+| # | Página | Dice el libro | Lo correcto | Aviso |
+|---|---|---|---|---|
+| A1 | 417 | Recuadro del **Teorema 9.4.3**, titulado "Fórmulas de suma y diferencia del **seno**", pero imprime las ecuaciones del **coseno**: `cos(x₁±x₂) = cos x₁ cos x₂ ∓ sen x₁ sen x₂` | Las fórmulas del **seno** están, bien escritas, en la deducción del texto justo **encima** del recuadro: `sen(x₁+x₂) = sen x₁ cos x₂ + cos x₁ sen x₂` y `sen(x₁−x₂) = sen x₁ cos x₂ − cos x₁ sen x₂` | Para el seno de una suma/diferencia, usa las fórmulas del **texto** (arriba del recuadro), no las del recuadro: el seno **conserva** el signo y **mezcla** seno con coseno (`sen·cos + cos·sen`). El recuadro repite por error las del coseno. |
+| A2 | 435 | Apartado "Pérdida de soluciones": "Cuando sea posible, es preferible **dividir** entre una expresión variable" | Se cayó un "no": debe leerse "es preferible **no** dividir". El resto del apartado advierte que dividir entre una expresión con variable **hace perder soluciones** y recomienda reunir términos y factorizar | Al resolver ecuaciones trigonométricas, **no** dividas entre una expresión que contenga la variable (pierdes soluciones); reúne los términos en un lado y factoriza. La frase del libro dice lo contrario por una palabra caída. |
+
+**CAPÍTULO 9 CERRADO** en 53 reactivos (§9.1–§9.6). **Pendiente:** ninguno. El capítulo 9
+está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al
+completarse también los capítulos 4, 8 y 12: en total **219 reactivos** (cap 4: 64, cap 8:
+58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en
+coordenadas rectangulares).
 
 ## Criterio: teoría sobre práctica
 

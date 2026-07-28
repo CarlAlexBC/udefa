@@ -107,10 +107,11 @@ OCR.
 (`proy_v u = (comp_v u)(v/|v|)`); y la **interpretación física** (trabajo `W=F·d`). Fórmulas
 verificadas contra las hojas renderizadas 567, 568, 569, 570 y 571; prosa por OCR.
 
-**CAPÍTULO 12 CERRADO** en 44 reactivos (§12.1–§12.5). Con esto, **la materia Geometría
-Analítica queda CERRADA para la EMI** (`GA-03-2026`): los cuatro capítulos que pide el
-temario —4 (64), 8 (58), 9 (53) y 12 (44)— están completos, **219 reactivos** en total. El
-temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares).
+**CAPÍTULO 12 CERRADO** en 44 reactivos (§12.1–§12.5). **Pendiente:** ninguno. Con el
+capítulo 12, **la materia Geometría Analítica queda CERRADA para la EMI** (`GA-03-2026`): los
+cuatro capítulos que pide el temario —4 (64), 8 (58), 9 (53) y 12 (44)— están completos,
+**219 reactivos** en total. El temario deja fuera a propósito el capítulo 11 (cónicas en
+coordenadas rectangulares).
 
 ## Criterio: teoría sobre práctica
 

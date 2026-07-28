@@ -101,11 +101,11 @@ de **ángulo de referencia** `θ'` (ángulo agudo entre el lado terminal y el ej
 ángulo; más la nota del aula de dominar todo sin calculadora. Fórmulas verificadas contra
 las hojas renderizadas 393, 394, 395, 397 y 398; prosa por OCR.
 
-**CAPÍTULO 8 CERRADO** en 58 reactivos (§8.1–§8.4). **Pendiente:** faltan los capítulos
-**9 y 12**, que el temario de la EMI (`GA-03-2026`) pide completos. **Geometría Analítica NO
-está cerrada para la EMI.** El capítulo 4 ya está cerrado
-(`zill-04-coordenadas-rectangulares.md`, 64 reactivos); este archivo (capítulo 8) sostiene
-el pendiente de la materia hasta que exista el archivo del capítulo 9.
+**CAPÍTULO 8 CERRADO** en 58 reactivos (§8.1–§8.4). **Pendiente:** ninguno. El capítulo 8
+está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al
+completarse también los capítulos 4, 9 y 12: en total **219 reactivos** (cap 4: 64, cap 8:
+58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en
+coordenadas rectangulares).
 
 ## Criterio: teoría sobre práctica
 
