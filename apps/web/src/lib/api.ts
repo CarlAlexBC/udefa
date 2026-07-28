@@ -36,6 +36,9 @@ export async function apiFetch<T = unknown>(
   const res = await fetch(`${API_URL}${path}`, {
     ...rest,
     headers: finalHeaders,
+    // Manda la cookie de sesión httpOnly al backend. El header Authorization de
+    // arriba queda como respaldo para sesiones viejas que aún tengan token en JS.
+    credentials: 'include',
     body: body !== undefined ? JSON.stringify(body) : undefined,
   })
 

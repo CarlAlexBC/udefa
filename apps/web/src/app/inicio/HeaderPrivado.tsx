@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { Button } from '@/components/ui/button'
 import { LogOut, Shield } from 'lucide-react'
-import { getToken, clearToken } from '@/lib/auth'
+import { clearToken } from '@/lib/auth'
 
 /**
  * Header privado del área /inicio.
@@ -16,21 +16,20 @@ export function HeaderPrivado({ rol }: { rol?: string } = {}) {
   const router = useRouter()
 
   async function handleLogout() {
-    const token = getToken()
-
-    // Best-effort: avisar al backend para invalidar la sesión.
-    // Si falla (backend caído), igual limpiamos el token local y salimos.
-    if (token) {
-      try {
-        await fetch('http://localhost:3001/auth/logout', {
-          method: 'POST',
-          headers: { Authorization: `Bearer ${token}` },
-        })
-      } catch {
-        // ignorar — la sesión local se cierra igual
-      }
+    // Best-effort: avisar al backend para invalidar la sesión y borrar la
+    // cookie httpOnly. credentials:'include' manda la cookie de sesión.
+    // Si falla (backend caído), igual salimos.
+    try {
+      await fetch('http://localhost:3001/auth/logout', {
+        method: 'POST',
+        credentials: 'include',
+      })
+    } catch {
+      // ignorar — la sesión se cierra igual
     }
 
+    // Limpia cualquier cookie de token vieja (no-httpOnly) que hubiera quedado
+    // de una sesión anterior; la httpOnly la borra el backend.
     clearToken()
     router.push('/')
     router.refresh()

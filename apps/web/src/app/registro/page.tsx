@@ -9,7 +9,6 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { AlertCircle } from 'lucide-react'
-import { setToken } from '@/lib/auth'
 import { apiFetch } from '@/lib/api'
 
 type Plantel = {
@@ -79,6 +78,8 @@ export default function RegistroPage() {
       const loginRes = await fetch('http://localhost:3001/auth/login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
+        // include: para guardar la cookie httpOnly que manda el backend.
+        credentials: 'include',
         body: JSON.stringify({ email, password }),
       })
 
@@ -88,8 +89,7 @@ export default function RegistroPage() {
         return
       }
 
-      const data = await loginRes.json()
-      setToken(data.access_token)
+      // El backend ya dejó la cookie de sesión httpOnly; no guardamos nada en JS.
       router.push('/inicio')
       router.refresh()
     } catch {

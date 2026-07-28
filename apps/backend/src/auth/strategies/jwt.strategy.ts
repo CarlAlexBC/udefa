@@ -1,13 +1,31 @@
 import { Injectable, UnauthorizedException } from '@nestjs/common';
 import { PassportStrategy } from '@nestjs/passport';
 import { ExtractJwt, Strategy } from 'passport-jwt';
+import type { Request } from 'express';
 import { PrismaService } from '../../prisma/prisma.service';
+
+/**
+ * Lee el token de la cookie httpOnly `token` sin depender de cookie-parser:
+ * parsea el encabezado Cookie a mano. Devuelve null si no viene, para que
+ * passport pruebe el siguiente extractor (el header Authorization).
+ */
+function extraerDeCookie(req: Request): string | null {
+  const crudo = req?.headers?.cookie;
+  if (!crudo) return null;
+  const match = crudo.match(/(?:^|;\s*)token=([^;]+)/);
+  return match ? decodeURIComponent(match[1]) : null;
+}
 
 @Injectable()
 export class JwtStrategy extends PassportStrategy(Strategy) {
   constructor(private prisma: PrismaService) {
     super({
-      jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken(),
+      // Primero la cookie httpOnly (modo nuevo, seguro); si no está, cae al
+      // header Authorization: Bearer (modo viejo, para sesiones ya abiertas).
+      jwtFromRequest: ExtractJwt.fromExtractors([
+        extraerDeCookie,
+        ExtractJwt.fromAuthHeaderAsBearerToken(),
+      ]),
       ignoreExpiration: false,
       secretOrKey: process.env.JWT_SECRET as string,
     });

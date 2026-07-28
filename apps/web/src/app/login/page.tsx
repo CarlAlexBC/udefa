@@ -9,7 +9,6 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { AlertCircle } from 'lucide-react'
-import { setToken } from '@/lib/auth'
 
 export default function LoginPage() {
   return (
@@ -37,6 +36,9 @@ function LoginForm() {
       const res = await fetch('http://localhost:3001/auth/login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
+        // include: para que el navegador guarde la cookie httpOnly que
+        // el backend manda en la respuesta.
+        credentials: 'include',
         body: JSON.stringify({ email, password }),
       })
 
@@ -46,8 +48,7 @@ function LoginForm() {
         return
       }
 
-      const data = await res.json()
-      setToken(data.access_token)
+      // El backend ya dejó la cookie de sesión httpOnly; no guardamos nada en JS.
       router.push(returnTo)
       router.refresh()
     } catch {
