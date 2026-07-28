@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 12 · Coordenadas polares
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 12 → EN CURSO (§12.1–§12.3 hechos)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 12 → EN CURSO (§12.1–§12.4 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -45,7 +45,7 @@ El **capítulo 12** completo tiene cinco secciones:
 - **§12.1 Coordenadas polares** (pp. 522–525) ← este archivo lo cubre.
 - **§12.2 Gráficas de ecuaciones polares** (pp. 526–535) ← este archivo lo cubre.
 - **§12.3 Secciones cónicas en coordenadas polares** (pp. 536–541) ← este archivo lo cubre.
-- §12.4 Vectores en el plano (pp. 542–549).
+- **§12.4 Vectores en el plano** (pp. 542–549) ← este archivo lo cubre.
 - §12.5 Producto punto (pp. 550–556).
 
 Los *Ejercicios de repaso* (p. 557 en adelante) quedan fuera por la norma de teoría sobre
@@ -84,7 +84,21 @@ formas con sen en `θ=π/2`/`θ=3π/2`); y la aplicación a **órbitas** (`e=(r�
 perihelio y afelio). Los ejemplos de graficado quedan fuera por la norma de teoría sobre
 práctica. Fórmulas verificadas contra las hojas renderizadas 553, 554 y 556; prosa por OCR.
 
-**Pendiente:** faltan las secciones **§12.4 y §12.5** para cerrar el capítulo
+**§12.4 · COMPLETO** en 12 reactivos (reactivos 25–36), toda la teoría de la sección
+(pp. 542–547): **escalar vs vector** (punto inicial/terminal); **magnitud** y **vectores
+iguales**; el **vector de posición** `v=⟨a,b⟩`, sus **componentes** y `|v|=√(a²+b²)`; el
+**vector cero** `⟨0,0⟩`; la **Definición 12.4.1** (ángulo de dirección, `cos θ=x/|v|`,
+`sen θ=y/|v|`, `tan θ=y/x`); la **Definición 12.4.2** (suma `⟨a+c,b+d⟩`, múltiplo escalar
+`⟨ka,kb⟩`, igualdad) y la **sustracción** (`u−v=⟨a−c,b−d⟩`); la magnitud del múltiplo escalar
+`|kv|=|k||v|` (y el efecto del signo de k en la dirección); el **vector unitario** y la
+**normalización** `u=(1/|v|)v`; los **vectores de base estándar** `i=⟨1,0⟩`, `j=⟨0,1⟩` con
+`u=ai+bj` (componentes horizontal/vertical, combinación lineal); la **forma trigonométrica**
+`v=|v|(cos θ i + sen θ j)`; y la **rapidez** (magnitud de la velocidad) y la **fuerza
+resultante** (suma vectorial). El libro usa notación de corchetes angulares `⟨ ⟩` para
+vectores. Fórmulas verificadas contra las hojas renderizadas 560, 561, 563 y 564; prosa por
+OCR.
+
+**Pendiente:** falta la sección **§12.5 (Producto punto)** para cerrar el capítulo
 12. Con el capítulo 12 cerrado, **Geometría Analítica quedaría cerrada para la EMI** (ya
 están cerrados los capítulos 4, 8 y 9). Este archivo (capítulo 12) sostiene el pendiente de
 la materia.
@@ -511,3 +525,197 @@ En relación con el libro de Geometría Analítica, en la órbita elíptica de u
 r_p es el valor de r en el perihelio (el punto de la órbita más cercano al Sol) y r_a es el valor de r en el afelio (el más lejano). La excentricidad e de la órbita se relaciona con r_p y r_a por medio de e = (r_a − r_p)/(r_a + r_p).
 
 > Dato olvidable: la excentricidad manda: `e=1` parábola, `0<e<1` elipse, `e>1` hipérbola. En la ecuación polar `r=ep/(1±e cos θ)`, el `cos` pone el eje sobre el eje x y el `sen` sobre el eje y; el foco siempre va en el origen.
+
+---
+
+## Sub-lote 12 · Escalares, vectores y magnitud (pp. 542–543)
+
+### 25
+
+En relación con el libro de Geometría Analítica, ¿qué diferencia hay entre una cantidad escalar y un vector, y cómo se llaman los extremos de un vector?
+
+- A. Una cantidad escalar es simplemente un número real (representa una magnitud); un vector es una flecha o segmento de recta dirigido que tiene magnitud y dirección, con una cola llamada punto inicial y una punta llamada punto terminal
+- B. Un escalar tiene magnitud y dirección; un vector es sólo un número real
+- C. Ambos son números reales, sin diferencia
+- D. Un escalar es una flecha y un vector es un punto
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 542
+**Subtema:** Vectores · Escalar y vector
+
+Una cantidad escalar es simplemente un número real y se usa para representar magnitudes. Un vector puede concebirse como una flecha o un segmento de recta dirigido que conecta dos puntos; tiene magnitud y dirección. La cola de la flecha se conoce como punto inicial y la punta como punto terminal.
+
+### 26
+
+En relación con el libro de Geometría Analítica, ¿qué es la magnitud de un vector y cuándo se dice que dos vectores son iguales?
+
+- A. La magnitud es la longitud del segmento de recta dirigido; dos vectores son iguales si tienen la misma magnitud y la misma dirección
+- B. La magnitud es el ángulo del vector; dos vectores son iguales si tienen el mismo punto inicial
+- C. La magnitud es el número de componentes; dos vectores son iguales si son paralelos
+- D. La magnitud es la suma de las componentes; dos vectores son iguales si tienen la misma dirección aunque distinta magnitud
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 542
+**Subtema:** Vectores · Magnitud e igualdad
+
+La longitud del segmento de recta dirigido se llama magnitud del vector y se representa por medio de |AB|. Dos vectores son iguales si ambos tienen la misma magnitud y la misma dirección.
+
+### 27
+
+En relación con el libro de Geometría Analítica, ¿qué es el vector de posición v = ⟨a, b⟩, cómo se llaman a y b, y cuál es su magnitud?
+
+- A. Es el vector con punto inicial en el origen y punto terminal en P(a, b); a y b son las componentes (forma de componentes), y su magnitud es |v| = √(a² + b²)
+- B. Es un vector cualquiera; a y b son sus ángulos, y su magnitud es a + b
+- C. Es el vector cero; a y b son sus focos, y su magnitud es a · b
+- D. Es un escalar; a y b son números reales, y su magnitud es √(a + b)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 543
+**Subtema:** Vectores · Vector de posición y magnitud
+
+Todo vector en el plano se identifica con un vector de posición único v = ⟨a, b⟩, con punto inicial en el origen. Los números a y b son las componentes del vector, y la notación ⟨a, b⟩ es la forma de componentes. La magnitud es |v| = √(a² + b²).
+
+### 28
+
+En relación con el libro de Geometría Analítica, ¿cómo se define el vector cero y cuál es su magnitud y dirección?
+
+- A. El vector cero es 0 = ⟨0, 0⟩; su magnitud es cero y no tiene asignada dirección alguna
+- B. El vector cero es 0 = ⟨1, 1⟩; su magnitud es 1 y su dirección es π/4
+- C. El vector cero es 0 = ⟨0, 0⟩; su magnitud es infinita y su dirección es cualquiera
+- D. El vector cero no existe
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 543
+**Subtema:** Vectores · Vector cero
+
+El vector cero, representado con 0, se define como 0 = ⟨0, 0⟩. La magnitud del vector cero es cero, y no tiene asignada dirección alguna.
+
+### 29
+
+En relación con el libro de Geometría Analítica, según la Definición 12.4.1, para un vector v = ⟨x, y⟩ diferente de cero con ángulo de dirección θ, ¿qué relaciones se cumplen?
+
+- A. cos θ = x/|v|, sen θ = y/|v| y tan θ = y/x (x ≠ 0), donde |v| = √(x² + y²)
+- B. cos θ = y/|v|, sen θ = x/|v| y tan θ = x/y
+- C. cos θ = x, sen θ = y y tan θ = xy
+- D. cos θ = |v|/x, sen θ = |v|/y y tan θ = x + y
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 543
+**Subtema:** Vectores · Definición 12.4.1 ángulo de dirección
+
+Para todo vector diferente de cero v = ⟨x, y⟩ con ángulo de dirección θ: cos θ = x/|v|, sen θ = y/|v| y tan θ = y/x (x ≠ 0), donde |v| = √(x² + y²).
+
+---
+
+## Sub-lote 13 · Operaciones con vectores (pp. 543–545)
+
+### 30
+
+En relación con el libro de Geometría Analítica, según la Definición 12.4.2, si u = ⟨a, b⟩, v = ⟨c, d⟩ y k es un número real, ¿cómo se definen la suma, el múltiplo escalar y la igualdad?
+
+- A. Suma: u + v = ⟨a + c, b + d⟩; múltiplo escalar: ku = ⟨ka, kb⟩; igualdad: u = v si y sólo si a = c y b = d
+- B. Suma: u + v = ⟨ac, bd⟩; múltiplo escalar: ku = ⟨k + a, k + b⟩; igualdad: u = v si a = d y b = c
+- C. Suma: u + v = ⟨a + d, b + c⟩; múltiplo escalar: ku = ⟨a/k, b/k⟩; igualdad: siempre
+- D. Suma: u + v = ⟨a − c, b − d⟩; múltiplo escalar: ku = ⟨k, k⟩; igualdad: nunca
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 544
+**Subtema:** Vectores · Definición 12.4.2 operaciones
+
+Sean u = ⟨a, b⟩ y v = ⟨c, d⟩ vectores y k un número real. Suma: u + v = ⟨a + c, b + d⟩; múltiplo escalar: ku = ⟨ka, kb⟩; igualdad: u = v si y sólo si a = c y b = d.
+
+### 31
+
+En relación con el libro de Geometría Analítica, ¿cómo se define el negativo de un vector u = ⟨a, b⟩ y la diferencia u − v (con v = ⟨c, d⟩)?
+
+- A. −u = (−1)u = ⟨−a, −b⟩ y u − v = u + (−v) = ⟨a − c, b − d⟩
+- B. −u = ⟨a, b⟩ y u − v = ⟨a + c, b + d⟩
+- C. −u = ⟨b, a⟩ y u − v = ⟨c − a, d − b⟩
+- D. −u = ⟨1/a, 1/b⟩ y u − v = ⟨ac, bd⟩
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 544
+**Subtema:** Vectores · Sustracción
+
+El negativo de un vector u es −u = (−1)u = ⟨−a, −b⟩. La sustracción o diferencia de dos vectores es u − v = u + (−v) = ⟨a − c, b − d⟩.
+
+### 32
+
+En relación con el libro de Geometría Analítica, en el múltiplo escalar kv de un vector v por un número real k, ¿cómo cambia la magnitud y la dirección?
+
+- A. La magnitud se multiplica por |k| (es decir, |kv| = |k||v|); si k > 0 la dirección de v no cambia, y si k < 0 la dirección se invierte
+- B. La magnitud no cambia; la dirección siempre se invierte
+- C. La magnitud se divide entre k; la dirección gira 90°
+- D. La magnitud se multiplica por k²; la dirección no cambia nunca
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 545
+**Subtema:** Vectores · Magnitud del múltiplo escalar
+
+En la multiplicación escalar de un vector v por un número real k, la magnitud de v se multiplica por |k|: |kv| = |k||v|. Si k > 0, la dirección de v no cambia; pero si k < 0, la dirección de v se invierte.
+
+---
+
+## Sub-lote 14 · Vectores unitarios, base i/j y forma trigonométrica (pp. 545–547)
+
+### 33
+
+En relación con el libro de Geometría Analítica, ¿qué es un vector unitario y cómo se obtiene la normalización de un vector v diferente de cero?
+
+- A. Un vector unitario es todo vector de magnitud 1; la normalización de v es u = (1/|v|)v, un vector unitario en la misma dirección que v
+- B. Un vector unitario es todo vector de magnitud 0; la normalización es u = |v|·v
+- C. Un vector unitario es el vector cero; la normalización es u = v²
+- D. Un vector unitario es cualquier vector; la normalización es u = v + 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 545
+**Subtema:** Vectores · Vector unitario y normalización
+
+Todo vector de magnitud 1 se llama vector unitario. Se obtiene un vector unitario u en la misma dirección que un vector v diferente de cero multiplicando v por el escalar positivo 1/|v|: u = (1/|v|)v, que es la normalización del vector v.
+
+### 34
+
+En relación con el libro de Geometría Analítica, ¿cuáles son los vectores de base estándar i y j, y cómo se expresa un vector u = ⟨a, b⟩ en términos de ellos?
+
+- A. i = ⟨1, 0⟩ y j = ⟨0, 1⟩ (vectores unitarios en la dirección de los ejes x y y positivos); u = ⟨a, b⟩ = ai + bj, con a la componente horizontal y b la componente vertical
+- B. i = ⟨0, 1⟩ y j = ⟨1, 0⟩; u = a − bj
+- C. i = ⟨1, 1⟩ y j = ⟨−1, −1⟩; u = a/i + b/j
+- D. i = ⟨2, 0⟩ y j = ⟨0, 2⟩; u = ai − bj
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 546
+**Subtema:** Vectores · Vectores i, j de base estándar
+
+Los vectores unitarios en la dirección de los ejes x y y positivos son i = ⟨1, 0⟩ y j = ⟨0, 1⟩; se llaman vectores de base estándar. Todo vector u = ⟨a, b⟩ = ai + bj, donde a es la componente horizontal y b la componente vertical; ai + bj se conoce como combinación lineal de i y j.
+
+### 35
+
+En relación con el libro de Geometría Analítica, ¿cuál es la forma trigonométrica de un vector v diferente de cero con magnitud |v| y ángulo de dirección θ?
+
+- A. v = |v|(cos θ i + sen θ j)
+- B. v = |v|(sen θ i + cos θ j)
+- C. v = |v|(tan θ i + cot θ j)
+- D. v = cos θ i + sen θ j
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 547
+**Subtema:** Vectores · Forma trigonométrica
+
+Para un vector diferente de cero v = ⟨x, y⟩ con ángulo de dirección θ, como x = |v| cos θ y y = |v| sen θ, se tiene v = |v|(cos θ i + sen θ j). Esta representación se conoce como la forma trigonométrica del vector v.
+
+### 36
+
+En relación con el libro de Geometría Analítica, ¿cómo se llama la magnitud del vector velocidad, y qué es la fuerza resultante cuando dos fuerzas actúan simultáneamente en el mismo punto?
+
+- A. La magnitud de la velocidad es la rapidez; la fuerza resultante es la única fuerza igual a la suma vectorial de las dos fuerzas
+- B. La magnitud de la velocidad es la aceleración; la fuerza resultante es la diferencia de las dos fuerzas
+- C. La magnitud de la velocidad es el desplazamiento; la fuerza resultante es el producto de las dos fuerzas
+- D. La magnitud de la velocidad es el rumbo; la fuerza resultante es la mayor de las dos fuerzas
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 547
+**Subtema:** Vectores · Rapidez y fuerza resultante
+
+La magnitud |v| de la velocidad v es una cantidad escalar llamada rapidez. Cuando dos fuerzas actúan simultáneamente en el mismo punto P sobre un objeto, éste reacciona como si una sola fuerza igual a la suma vectorial de las dos fuerzas actuara sobre él; esa única fuerza se llama fuerza resultante.
+
+> Dato olvidable: un **escalar** es sólo un número (magnitud); un **vector** lleva magnitud y dirección. `|v|=√(a²+b²)`; normalizar es dividir el vector entre su magnitud para obtener uno unitario. `i=⟨1,0⟩`, `j=⟨0,1⟩`, y todo vector es `ai+bj`. La **rapidez** es la magnitud de la velocidad.
