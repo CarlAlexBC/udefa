@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 12 · Coordenadas polares
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 12 → EN CURSO (§12.1 hecho)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 12 → EN CURSO (§12.1–§12.2 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -43,7 +43,7 @@ Detalle del método en el encabezado del capítulo 4 y en `docs/examen-cultural/
 El **capítulo 12** completo tiene cinco secciones:
 
 - **§12.1 Coordenadas polares** (pp. 522–525) ← este archivo lo cubre.
-- §12.2 Gráficas de ecuaciones polares (pp. 526–535).
+- **§12.2 Gráficas de ecuaciones polares** (pp. 526–535) ← este archivo lo cubre.
 - §12.3 Secciones cónicas en coordenadas polares (pp. 536–541).
 - §12.4 Vectores en el plano (pp. 542–549).
 - §12.5 Producto punto (pp. 550–556).
@@ -62,7 +62,19 @@ Fontana acuñó el término); la **terminología** (polo/origen, eje polar, coor
 rectangular→polar (`r²=x²+y²`, `tan θ=y/x`). Fórmulas verificadas contra las hojas
 renderizadas 539 y 541; prosa por OCR.
 
-**Pendiente:** faltan las secciones **§12.2, §12.3, §12.4 y §12.5** para cerrar el capítulo
+**§12.2 · COMPLETO** en 10 reactivos (reactivos 9–18), toda la teoría de la sección
+(pp. 526–533): la definición de **gráfica de una ecuación polar** `r=f(θ)`; las gráficas
+básicas (**círculo** `r=a`, **recta por el origen** `θ=a`, **espiral de Arquímedes** `r=aθ`);
+el **Teorema 12.2.1** (pruebas de simetría respecto al eje y, al eje x y al origen); y las
+familias de curvas con nombre —**cardioide** `r=a±a sen θ`/`r=a±a cos θ`, **caracol**
+`r=a±b sen θ`/`r=a±b cos θ` (clasificado por `a/b`: bucle interno, cardioide, aplanado,
+convexo), **curvas de rosas** `r=a sen nθ`/`r=a cos nθ` (n impar → n pétalos, n par → 2n),
+**lemniscatas** `r²=a cos 2θ`/`r²=a sen 2θ`— y la **rotación** de gráficas polares
+(`r=f(θ−γ)` antihorario, `r=f(θ+γ)` horario). Los ejemplos de graficado quedan fuera por la
+norma de teoría sobre práctica. Fórmulas verificadas contra las hojas renderizadas 545, 546,
+547 y 548; prosa por OCR.
+
+**Pendiente:** faltan las secciones **§12.3, §12.4 y §12.5** para cerrar el capítulo
 12. Con el capítulo 12 cerrado, **Geometría Analítica quedaría cerrada para la EMI** (ya
 están cerrados los capítulos 4, 8 y 9). Este archivo (capítulo 12) sostiene el pendiente de
 la materia.
@@ -217,3 +229,171 @@ En relación con el libro de Geometría Analítica, ¿con qué ecuaciones se con
 Las coordenadas rectangulares (x, y) se convierten en coordenadas polares (r, θ) mediante r² = x² + y² y tan θ = y/x.
 
 > Dato olvidable: en polares un mismo punto tiene infinitas representaciones (se suma `2π` al ángulo, o se usa `r` negativo con `θ+π`). Para ir de polares a rectangulares: `x=r cos θ`, `y=r sen θ`; de vuelta: `r²=x²+y²`, `tan θ=y/x`.
+
+---
+
+## Sub-lote 5 · Gráficas polares básicas (pp. 526–528)
+
+### 9
+
+En relación con el libro de Geometría Analítica, ¿qué es la gráfica de una ecuación polar r = f(θ)?
+
+- A. El conjunto de puntos P con cuando menos un conjunto de coordenadas polares que satisface la ecuación
+- B. El conjunto de puntos cuyas coordenadas rectangulares satisfacen la ecuación
+- C. Únicamente el punto correspondiente a θ = 0
+- D. La recta que une el polo con el punto (1, 0)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 526
+**Subtema:** Gráficas polares · Gráfica de una ecuación polar
+
+La gráfica de una ecuación polar r = f(θ) es el conjunto de puntos P con cuando menos un conjunto de coordenadas polares que satisface la ecuación.
+
+### 10
+
+En relación con el libro de Geometría Analítica, si a es cualquier constante distinta de cero, ¿qué representa la gráfica polar de r = a?
+
+- A. Un círculo de radio |a| con centro en el origen
+- B. Una recta que pasa por el origen
+- C. Una espiral
+- D. Una parábola con vértice en el polo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 527
+**Subtema:** Gráficas polares · Círculo r = a
+
+En general, si a es cualquier constante distinta de cero, la gráfica polar de r = a es un círculo de radio |a| con centro en el origen.
+
+### 11
+
+En relación con el libro de Geometría Analítica, si a es cualquier constante real distinta de cero, ¿qué representa la gráfica polar de θ = a?
+
+- A. Una recta que pasa por el origen y forma un ángulo de a radianes con el eje polar
+- B. Un círculo de radio a con centro en el origen
+- C. Una semirrecta que no pasa por el origen
+- D. Una lemniscata
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 527
+**Subtema:** Gráficas polares · Recta θ = a
+
+En general, si a es cualquier constante real distinta de cero, la gráfica polar de θ = a es una recta que pasa por el origen y forma un ángulo de a radianes con el eje polar.
+
+### 12
+
+En relación con el libro de Geometría Analítica, ¿cómo se llama la gráfica de la ecuación polar r = aθ (con a constante)?
+
+- A. Espiral de Arquímedes
+- B. Cardioide
+- C. Lemniscata
+- D. Caracol convexo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 528
+**Subtema:** Gráficas polares · Espiral de Arquímedes
+
+Una gráfica de la ecuación r = aθ, donde a es una constante, se llama espiral de Arquímedes.
+
+---
+
+## Sub-lote 6 · Pruebas de simetría (p. 528)
+
+### 13
+
+En relación con el libro de Geometría Analítica, según el Teorema 12.2.1, ¿cuáles son las pruebas de simetría en coordenadas polares?
+
+- A. Es simétrica respecto al eje y si al sustituir (r, θ) por (r, π − θ) se obtiene la misma ecuación; respecto al eje x si al sustituir (r, θ) por (r, −θ); y respecto al origen si al sustituir (r, θ) por (−r, θ)
+- B. Es simétrica respecto al eje y si al sustituir (r, θ) por (r, −θ); respecto al eje x si al sustituir (r, θ) por (r, π − θ); y respecto al origen si al sustituir (r, θ) por (r, θ + π)
+- C. Es simétrica respecto a cualquier eje si su gráfica es un círculo
+- D. Es simétrica sólo si a es positivo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 528
+**Subtema:** Gráficas polares · Teorema 12.2.1 pruebas de simetría
+
+La gráfica de una ecuación polar es: i) simétrica con respecto al eje y, si al sustituir (r, θ) por (r, π − θ) se obtiene la misma ecuación; ii) simétrica con respecto al eje x si al sustituir (r, θ) por (r, −θ) se obtiene la misma ecuación; iii) simétrica con respecto al origen si al sustituir (r, θ) por (−r, θ) se obtiene la misma ecuación.
+
+---
+
+## Sub-lote 7 · Familias de curvas polares con nombre (pp. 529–532)
+
+### 14
+
+En relación con el libro de Geometría Analítica, ¿qué forma tiene la ecuación polar de una cardioide y cómo es su gráfica?
+
+- A. r = a ± a sen θ o r = a ± a cos θ; su gráfica tiene "forma de corazón" y pasa por el origen
+- B. r = a ± b sen θ con a ≠ b; su gráfica es un círculo
+- C. r = aθ; su gráfica es una espiral
+- D. r² = a cos 2θ; su gráfica tiene forma de ocho
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 529
+**Subtema:** Gráficas polares · Cardioide
+
+Una gráfica de cualquier ecuación polar que tenga la forma r = a ± a sen θ o r = a ± a cos θ se llama cardioide; tiene una gráfica "en forma de corazón" y que pasa por el origen.
+
+### 15
+
+En relación con el libro de Geometría Analítica, ¿qué forma tienen las ecuaciones polares llamadas caracoles, y cómo se clasifica su gráfica (con a > 0, b > 0)?
+
+- A. r = a ± b sen θ o r = a ± b cos θ; para a/b < 1 hay un caracol con bucle interno, a/b = 1 es una cardioide, 1 < a/b < 2 un caracol aplanado y a/b ≥ 2 un caracol convexo
+- B. r = a ± a sen θ; siempre es una cardioide
+- C. r = a sen nθ; su forma depende del número de pétalos
+- D. r = aθ; su forma es siempre una espiral
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 530
+**Subtema:** Gráficas polares · Caracoles
+
+Las cardioides son casos especiales de curvas llamadas caracoles: r = a ± b sen θ o r = a ± b cos θ. Con a > 0 y b > 0: para a/b < 1 se obtiene un caracol con bucle interno; cuando a/b = 1, una cardioide; para 1 < a/b < 2, un caracol aplanado; y cuando a/b ≥ 2, un caracol convexo.
+
+### 16
+
+En relación con el libro de Geometría Analítica, ¿qué forma tienen las curvas de rosas y cuántos pétalos tienen?
+
+- A. r = a sen nθ o r = a cos nθ (n entero positivo, n ≥ 2); cuando n es impar la curva tiene n pétalos, y cuando n es par tiene 2n pétalos
+- B. r = a ± a cos θ; siempre tienen 4 pétalos
+- C. r² = a sen 2θ; tienen n/2 pétalos
+- D. r = aθ; el número de pétalos es infinito
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 531
+**Subtema:** Gráficas polares · Curvas de rosas
+
+Si n es un entero positivo, las gráficas de r = a sen nθ o r = a cos nθ (n ≥ 2) se llaman curvas de rosas. Cuando n es impar, la cantidad de pétalos de la curva es n; si n es par, la curva tiene 2n pétalos.
+
+### 17
+
+En relación con el libro de Geometría Analítica, ¿qué forma tienen las ecuaciones polares llamadas lemniscatas?
+
+- A. r² = a cos 2θ o r² = a sen 2θ, con a > 0
+- B. r = a cos 2θ o r = a sen 2θ, con a > 0
+- C. r = a ± a cos θ
+- D. r = aθ²
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 532
+**Subtema:** Gráficas polares · Lemniscatas
+
+Si n es un entero positivo, las gráficas de r² = a cos 2θ o r² = a sen 2θ, en donde a > 0, se llaman lemniscatas.
+
+---
+
+## Sub-lote 8 · Rotación de gráficas polares (p. 533)
+
+### 18
+
+En relación con el libro de Geometría Analítica, si r = f(θ) es una ecuación polar y γ > 0, ¿cómo se obtienen las gráficas de r = f(θ − γ) y r = f(θ + γ)?
+
+- A. La de r = f(θ − γ) es la de r = f(θ) rotada, alrededor del origen, en el sentido opuesto al de las manecillas del reloj una cantidad γ; la de r = f(θ + γ) es la de r = f(θ) rotada en el sentido de las manecillas del reloj una cantidad γ
+- B. La de r = f(θ − γ) se rota en el sentido de las manecillas del reloj; la de r = f(θ + γ) en sentido opuesto
+- C. Ambas se desplazan horizontalmente γ unidades, sin rotar
+- D. Ambas se reflejan respecto al eje polar
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 533
+**Subtema:** Gráficas polares · Rotación de gráficas polares
+
+La gráfica de r = f(θ − γ) es la gráfica de r = f(θ) rotada en el sentido opuesto al de las manecillas del reloj alrededor del origen por una cantidad γ. La gráfica de r = f(θ + γ) es la gráfica de r = f(θ) rotada en el sentido de las manecillas del reloj alrededor del origen por una cantidad γ.
+
+> Dato olvidable: el `cos` orienta las curvas (cardioide, caracol, rosa) hacia el **eje x**; el `sen`, hacia el **eje y**. En las rosas, `n` impar da `n` pétalos y `n` par da `2n`. Las lemniscatas usan `r²` (no `r`) y `2θ`.
