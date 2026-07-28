@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 9 · Trigonometría del círculo unitario
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 9 → EN CURSO (§9.1–§9.5 hechos)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 9 → CERRADO (§9.1–§9.6 completos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -48,7 +48,7 @@ El **capítulo 9** completo tiene seis secciones:
 - **§9.3 Gráficas de otras funciones trigonométricas** (pp. 407–413) ← este archivo lo cubre.
 - **§9.4 Identidades especiales** (pp. 414–423) ← este archivo lo cubre.
 - **§9.5 Funciones trigonométricas inversas** (pp. 424–432) ← este archivo lo cubre.
-- §9.6 Ecuaciones trigonométricas (pp. 433–439).
+- **§9.6 Ecuaciones trigonométricas** (pp. 433–439) ← este archivo lo cubre.
 
 Los *Ejercicios de repaso* (p. 440 en adelante) quedan fuera por la norma de teoría sobre
 práctica. La reseña histórica de la portadilla (p. 389) sí entra: es dato de recuerdo.
@@ -110,6 +110,22 @@ contradominio `(−π/2,π/2)`); y el **Teorema 9.5.1** (las seis propiedades de
 sus restricciones). Fórmulas verificadas contra las hojas renderizadas 443, 444 y 446;
 prosa por OCR.
 
+**§9.6 · COMPLETO** en 5 reactivos (reactivos 49–53), la teoría conceptual de la sección
+(pp. 433–437): la definición de **ecuación trigonométrica condicional** (frente a la
+identidad); la razón de la **cantidad infinita de soluciones** (periodicidad) y el método
+del círculo unitario con ángulos de referencia; la **pérdida de soluciones** al dividir
+entre una expresión con variable; las **soluciones extrañas** al elevar al cuadrado; y la
+equivalencia entre **hallar las intersecciones con el eje x** y resolver `f(x)=0`. Los
+ejemplos de resolución quedan fuera por la norma de teoría sobre práctica. Prosa por OCR;
+frase de p. 435 verificada contra la hoja renderizada 452.
+
+> **⚠️ Errata menor del libro (p. 435).** En el apartado *"Pérdida de soluciones"*, el libro
+> imprime *"Cuando sea posible, es preferible dividir entre una expresión variable"*, lo
+> cual **contradice** el resto del apartado (que advierte que dividir entre una expresión con
+> variable hace perder soluciones y recomienda reunir términos y factorizar). Se cayó un
+> "no": debe leerse *"es preferible **no** dividir"*. El reactivo 51 se escribió sobre el
+> concepto correcto e inequívoco del apartado (el riesgo de dividir), no sobre esa frase.
+
 > **⚠️ Errata del libro (Teorema 9.4.3, p. 417).** El recuadro del **Teorema 9.4.3** se
 > titula *"Fórmulas de suma y diferencia del seno"*, pero las ecuaciones (7) y (8) que
 > imprime son las del **coseno** (repiten el Teorema 9.4.2): `cos(x₁+x₂)=cos x₁ cos x₂ −
@@ -120,11 +136,11 @@ prosa por OCR.
 > **Decisión de Carlo pendiente:** publicar o no un aviso al aspirante sobre esta errata
 > (misma situación que la del Teorema 9 del Cálculo, cap. 2).
 
-**Pendiente:** falta la sección **§9.6 (Ecuaciones trigonométricas)** para cerrar el
-capítulo 9; y después el capítulo **12**, que el temario de la EMI (`GA-03-2026`) pide
-completo. **Geometría Analítica NO está cerrada para la EMI.** Los capítulos 4 y 8 ya están
-cerrados; este archivo (capítulo 9) sostiene el pendiente de la materia hasta que exista el
-archivo del capítulo 12.
+**CAPÍTULO 9 CERRADO** en 53 reactivos (§9.1–§9.6). **Pendiente:** falta el capítulo **12**
+(Coordenadas Polares), que el temario de la EMI (`GA-03-2026`) pide completo. **Geometría
+Analítica NO está cerrada para la EMI.** Los capítulos 4, 8 y 9 ya están cerrados; este
+archivo (capítulo 9) sostiene el pendiente de la materia hasta que exista el archivo del
+capítulo 12.
 
 ## Criterio: teoría sobre práctica
 
@@ -944,3 +960,84 @@ En relación con el libro de Geometría Analítica, según el Teorema 9.5.1, ¿c
 i) arcsen(sen x) = x si −π/2 ≤ x ≤ π/2; ii) sen(arcsen x) = x si −1 ≤ x ≤ 1; iii) arccos(cos x) = x si 0 ≤ x ≤ π; iv) cos(arccos x) = x si −1 ≤ x ≤ 1; v) arctan(tan x) = x si −π/2 < x < π/2; vi) tan(arctan x) = x si −∞ < x < ∞.
 
 > Dato olvidable: los contradominios (rangos) de las inversas son la clave: arcsen y arctan devuelven ángulos en `[−π/2, π/2]` (y `(−π/2, π/2)`); arccos devuelve ángulos en `[0, π]`. Por eso `sen⁻¹(−1)=−π/2` y no `3π/2`. El `−1` de `sen⁻¹x` NO es exponente.
+
+---
+
+## Sub-lote 20 · Ecuaciones trigonométricas (pp. 433–437)
+
+### 49
+
+En relación con el libro de Geometría Analítica, ¿qué es una ecuación trigonométrica condicional, a diferencia de una identidad?
+
+- A. Es una ecuación con funciones trigonométricas que sólo es válida para ciertos valores de la variable (la identidad, en cambio, se satisface con todos los valores para los que están definidos ambos lados)
+- B. Es una ecuación que se satisface con todos los valores de la variable
+- C. Es una ecuación que nunca tiene solución
+- D. Es una ecuación que sólo contiene funciones inversas
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 433
+**Subtema:** Ecuaciones trigonométricas · Ecuación condicional
+
+Las ecuaciones trigonométricas condicionales son ecuaciones que sólo son válidas para ciertos valores de la variable, a diferencia de las identidades, que se satisfacen con todos los valores para los cuales están definidos ambos lados de la igualdad.
+
+### 50
+
+En relación con el libro de Geometría Analítica, ¿por qué las ecuaciones trigonométricas suelen tener una cantidad infinita de soluciones, y qué es lo más cómodo para obtenerlas?
+
+- A. Por la periodicidad de las funciones trigonométricas; lo más cómodo es usar un círculo unitario y ángulos de referencia
+- B. Porque las funciones trigonométricas no están definidas; lo más cómodo es una calculadora
+- C. Porque son ecuaciones cuadráticas; lo más cómodo es la fórmula general
+- D. Por la simetría respecto al eje y; lo más cómodo es una tabla de valores
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 433
+**Subtema:** Ecuaciones trigonométricas · Infinitas soluciones y método
+
+Es común que las ecuaciones trigonométricas tengan una cantidad infinita de soluciones, por la periodicidad de las funciones trigonométricas. Para obtener las soluciones, lo más cómodo es usar un círculo unitario y ángulos de referencia.
+
+### 51
+
+En relación con el libro de Geometría Analítica, al resolver una ecuación trigonométrica, ¿qué riesgo hay si se divide entre una expresión que contenga una variable, y cómo se evita?
+
+- A. Se pueden perder algunas soluciones de la ecuación original; para evitarlo se deben determinar los valores que hacen cero esa expresión y comprobar si son soluciones de la ecuación original
+- B. Se introducen soluciones extrañas; para evitarlo se eleva al cuadrado
+- C. No hay ningún riesgo; dividir entre una variable siempre es seguro
+- D. Se pierde la periodicidad; para evitarlo se usa una calculadora
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 435
+**Subtema:** Ecuaciones trigonométricas · Pérdida de soluciones
+
+Al resolver una ecuación, si se divide entre una expresión que contenga una variable, se pueden perder algunas soluciones de la ecuación original. Para evitar perder alguna solución se deben determinar los valores que hacen que la expresión sea cero, y comprobar si son soluciones de la ecuación original.
+
+### 52
+
+En relación con el libro de Geometría Analítica, ¿qué puede ocurrir al elevar al cuadrado una ecuación, y qué se debe hacer en consecuencia?
+
+- A. Se pueden introducir soluciones extrañas (la ecuación resultante puede no ser equivalente a la original); por ello es importante comprobar todas las soluciones en la ecuación original
+- B. Se pierden todas las soluciones; por ello no se debe comprobar nada
+- C. La ecuación siempre queda equivalente a la original; no hace falta comprobar
+- D. Se elimina la periodicidad; por ello se suman múltiplos de 2π
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 436
+**Subtema:** Ecuaciones trigonométricas · Soluciones extrañas
+
+Al elevar al cuadrado una ecuación se pueden introducir soluciones extrañas; en otras palabras, la ecuación resultante después de elevar al cuadrado puede no ser equivalente a la original. Por ello es importante comprobar todas las soluciones en la ecuación original.
+
+### 53
+
+En relación con el libro de Geometría Analítica, ¿a qué equivale determinar las intersecciones con el eje x de la gráfica de una función y = f(x)?
+
+- A. Equivale a resolver la ecuación f(x) = 0
+- B. Equivale a resolver la ecuación f(x) = 1
+- C. Equivale a calcular el periodo de f
+- D. Equivale a hallar el valor máximo de f
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 437
+**Subtema:** Ecuaciones trigonométricas · Intersecciones con el eje x
+
+La determinación de las intersecciones con el eje x de la gráfica de una función y = f(x) equivale a resolver la ecuación f(x) = 0.
+
+> Dato olvidable: una **identidad** vale para todo valor; una **ecuación condicional** sólo para algunos. Dos trampas al resolver: **dividir** entre una expresión con variable pierde soluciones (mejor factorizar), y **elevar al cuadrado** mete soluciones extrañas (hay que comprobarlas en la original).
