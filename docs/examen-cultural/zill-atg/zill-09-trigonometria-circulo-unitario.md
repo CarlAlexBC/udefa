@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 9 · Trigonometría del círculo unitario
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 9 → EN CURSO (§9.1 hecho)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 9 → EN CURSO (§9.1–§9.2 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -44,7 +44,7 @@ Detalle del método en el encabezado del capítulo 4 y en `docs/examen-cultural/
 El **capítulo 9** completo tiene seis secciones:
 
 - **§9.1 Las funciones circulares** (pp. 390–396) ← este archivo lo cubre.
-- §9.2 Gráficas de las funciones seno y coseno (pp. 397–406).
+- **§9.2 Gráficas de las funciones seno y coseno** (pp. 397–406) ← este archivo lo cubre.
 - §9.3 Gráficas de otras funciones trigonométricas (pp. 407–413).
 - §9.4 Identidades especiales (pp. 414–423).
 - §9.5 Funciones trigonométricas inversas (pp. 424–432).
@@ -67,7 +67,17 @@ y la **Definición 9.1.3** (función periódica y periodo), con periodo `2π`; e
 **ángulo de referencia** (segunda parte). Fórmulas verificadas contra las hojas renderizadas
 408, 410 y 411; prosa por OCR.
 
-**Pendiente:** faltan las secciones **§9.2, §9.3, §9.4, §9.5 y §9.6** para cerrar el
+**§9.2 · COMPLETO** en 8 reactivos (reactivos 18–25), la teoría de la sección (pp. 398–402):
+la definición de **ciclo**; las **propiedades de las gráficas de seno y coseno** (ceros
+`sen x=nπ` y `cos x=(2n+1)π/2`, simetría respecto al origen/eje y, continuidad); la
+**amplitud** `|A|` (distancia máxima al eje x, `amplitud=½(M−m)`); el **desplazamiento
+vertical** `D`; el **periodo** `2π/B` de `y=A sen Bx` e `y=A cos Bx`; el **desplazamiento de
+fase** `|C|/B` (derecha si `C<0`, izquierda si `C>0`) de `y=A sen(Bx+C)`; y las
+**identidades** de desplazamiento `cos(x−π/2)=sen x`, `sen(x+π/2)=cos x`, `sen(x−π/2)=−cos
+x`. Los ejemplos de graficado quedan fuera por la norma de teoría sobre práctica. Fórmulas
+verificadas contra las hojas renderizadas 416 y 419; prosa por OCR.
+
+**Pendiente:** faltan las secciones **§9.3, §9.4, §9.5 y §9.6** para cerrar el
 capítulo 9; y después el capítulo **12**, que el temario de la EMI (`GA-03-2026`) pide
 completo. **Geometría Analítica NO está cerrada para la EMI.** Los capítulos 4 y 8 ya están
 cerrados; este archivo (capítulo 9) sostiene el pendiente de la materia hasta que exista el
@@ -366,3 +376,137 @@ En relación con el libro de Geometría Analítica, para un número real t cuyo 
 El lado terminal de todo ángulo de t radianes (donde P(t) no está sobre un eje) forma un ángulo agudo con el eje x; el ángulo de t' radianes congruente con él en el primer cuadrante se conoce como ángulo de referencia. Por la simetría del círculo unitario, las coordenadas de P(t') son iguales en valor absoluto a las de P(t); por tanto, sen t = ±sen t' y cos t = ±cos t'.
 
 > Dato olvidable: en el círculo unitario, coseno = coordenada x y seno = coordenada y del punto P(t); por eso `sen²t+cos²t=1` (el punto vive en x²+y²=1). El seno es impar y el coseno es par; ambos tienen periodo 2π.
+
+---
+
+## Sub-lote 7 · Ciclo y propiedades de las gráficas (pp. 397–398)
+
+### 18
+
+En relación con el libro de Geometría Analítica, ¿qué es un ciclo de la gráfica de una función periódica?
+
+- A. La gráfica de la función para un intervalo de longitud igual a su periodo
+- B. La gráfica de la función para un intervalo de longitud igual a su amplitud
+- C. El punto máximo de la gráfica
+- D. La parte de la gráfica que está sobre el eje x
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 398
+**Subtema:** Gráficas de seno y coseno · Ciclo
+
+Se dice que la gráfica de cualquier función periódica, para un intervalo de longitud igual a su periodo, es un ciclo de su gráfica.
+
+### 19
+
+En relación con el libro de Geometría Analítica, ¿cuáles son los ceros (raíces) de f(x) = sen x y de g(x) = cos x?
+
+- A. Los ceros de sen x son x = nπ (n entero); los ceros de cos x son x = (2n + 1)π/2 (n entero)
+- B. Los ceros de sen x son x = (2n + 1)π/2; los ceros de cos x son x = nπ
+- C. Los ceros de ambas son x = nπ
+- D. Los ceros de ambas son x = 2nπ
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 398
+**Subtema:** Gráficas de seno y coseno · Ceros
+
+Los ceros de f(x) = sen x son x = nπ, n un entero. Los ceros de g(x) = cos x son x = (2n + 1)π/2, n un entero.
+
+### 20
+
+En relación con el libro de Geometría Analítica, según las propiedades de las funciones seno y coseno, ¿qué simetría tiene cada gráfica y dónde son continuas?
+
+- A. La gráfica de sen x es simétrica respecto al origen y la de cos x respecto al eje y; ambas son continuas en (−∞, ∞)
+- B. La gráfica de sen x es simétrica respecto al eje y y la de cos x respecto al origen; ambas son discontinuas
+- C. Ambas gráficas son simétricas respecto al eje x y sólo son continuas en [0, 2π]
+- D. Ninguna de las dos tiene simetría, y sólo el coseno es continuo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 398
+**Subtema:** Gráficas de seno y coseno · Simetría y continuidad
+
+La gráfica de f(x) = sen x es simétrica con respecto al origen. La gráfica de g(x) = cos x es simétrica con respecto al eje y. Las funciones f(x) = sen x y g(x) = cos x son continuas en el intervalo (−∞, ∞).
+
+---
+
+## Sub-lote 8 · Amplitud y desplazamiento vertical (p. 399)
+
+### 21
+
+En relación con el libro de Geometría Analítica, en la gráfica de y = A sen x o y = A cos x, ¿qué es la amplitud y cuánto vale para las funciones básicas?
+
+- A. La amplitud es |A|, la distancia máxima de cualquier punto de la gráfica al eje x; para las funciones básicas y = sen x y y = cos x es |A| = 1
+- B. La amplitud es A², y para las funciones básicas vale 2
+- C. La amplitud es 2π/A, y para las funciones básicas vale π
+- D. La amplitud es el periodo dividido entre 2, y para las básicas vale π
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 399
+**Subtema:** Gráficas de seno y coseno · Amplitud
+
+La distancia máxima de cualquier punto en la gráfica de y = A sen x, o y = A cos x, al eje x, es |A|. Al número |A| se le llama amplitud. La amplitud de las funciones básicas y = sen x y y = cos x es |A| = 1. En general, la amplitud se define por amplitud = ½[M − m], donde M y m son los valores máximo y mínimo.
+
+### 22
+
+En relación con el libro de Geometría Analítica, ¿cómo se obtienen las gráficas de y = A sen x + D y y = A cos x + D respecto a las de y = A sen x y y = A cos x?
+
+- A. Son las gráficas de y = A sen x y y = A cos x desplazadas verticalmente hacia arriba cuando D > 0, y hacia abajo cuando D < 0
+- B. Son las mismas gráficas desplazadas horizontalmente D unidades
+- C. Son las mismas gráficas reflejadas en el eje y
+- D. Son las mismas gráficas con la amplitud multiplicada por D
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 399
+**Subtema:** Gráficas de seno y coseno · Desplazamiento vertical
+
+Las gráficas de y = A sen x + D y y = A cos x + D son las gráficas de y = A sen x y y = A cos x desplazadas verticalmente hacia arriba cuando D > 0, y hacia abajo cuando D < 0.
+
+---
+
+## Sub-lote 9 · Periodo y desplazamiento de fase (pp. 400–402)
+
+### 23
+
+En relación con el libro de Geometría Analítica, ¿cuál es la amplitud y el periodo de las gráficas de y = A sen Bx y y = A cos Bx para B > 0?
+
+- A. Amplitud |A| y periodo 2π/B, las dos
+- B. Amplitud |B| y periodo 2π/A
+- C. Amplitud |A| y periodo 2πB
+- D. Amplitud |A/B| y periodo B/2π
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 400
+**Subtema:** Gráficas de seno y coseno · Periodo
+
+Las gráficas de y = A sen Bx y y = A cos Bx para B > 0 tienen amplitud |A| y periodo 2π/B, las dos.
+
+### 24
+
+En relación con el libro de Geometría Analítica, para las gráficas de y = A sen(Bx + C) y y = A cos(Bx + C) con B > 0, ¿qué es el desplazamiento de fase y en qué dirección ocurre?
+
+- A. El desplazamiento de fase es |C|/B; el desplazamiento es hacia la derecha si C < 0 y hacia la izquierda si C > 0
+- B. El desplazamiento de fase es |B|/C; hacia la izquierda si C < 0 y hacia la derecha si C > 0
+- C. El desplazamiento de fase es |C|·B; siempre hacia la derecha
+- D. El desplazamiento de fase es 2π/B; siempre hacia la izquierda
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 402
+**Subtema:** Gráficas de seno y coseno · Desplazamiento de fase
+
+Las gráficas de y = A sen(Bx + C) y y = A cos(Bx + C), B > 0, son las de y = A sen Bx y y = A cos Bx desplazadas horizontalmente |C|/B. El desplazamiento es hacia la derecha si C < 0, y hacia la izquierda si C > 0. El número |C|/B se llama desplazamiento de fase; la amplitud de cada gráfica es |A| y el periodo es 2π/B.
+
+### 25
+
+En relación con el libro de Geometría Analítica, según las identidades (3) comprobadas gráficamente, ¿a qué equivalen cos(x − π/2), sen(x + π/2) y sen(x − π/2)?
+
+- A. cos(x − π/2) = sen x, sen(x + π/2) = cos x y sen(x − π/2) = −cos x
+- B. cos(x − π/2) = −sen x, sen(x + π/2) = −cos x y sen(x − π/2) = cos x
+- C. cos(x − π/2) = cos x, sen(x + π/2) = sen x y sen(x − π/2) = sen x
+- D. cos(x − π/2) = tan x, sen(x + π/2) = cot x y sen(x − π/2) = −tan x
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 402
+**Subtema:** Gráficas de seno y coseno · Identidades de desplazamiento
+
+Se comprueban gráficamente las identidades: cos(x − π/2) = sen x, sen(x + π/2) = cos x y sen(x − π/2) = −cos x.
+
+> Dato olvidable: en `y = A sen(Bx + C) + D`, la amplitud es `|A|`, el periodo `2π/B`, el desplazamiento de fase `|C|/B` (derecha si C<0, izquierda si C>0) y `D` sube o baja la gráfica. La gráfica del coseno es la del seno corrida π/2 a la izquierda.
