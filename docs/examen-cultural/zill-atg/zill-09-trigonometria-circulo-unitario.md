@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 9 · Trigonometría del círculo unitario
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 9 → EN CURSO (§9.1–§9.2 hechos)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 9 → EN CURSO (§9.1–§9.3 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -45,7 +45,7 @@ El **capítulo 9** completo tiene seis secciones:
 
 - **§9.1 Las funciones circulares** (pp. 390–396) ← este archivo lo cubre.
 - **§9.2 Gráficas de las funciones seno y coseno** (pp. 397–406) ← este archivo lo cubre.
-- §9.3 Gráficas de otras funciones trigonométricas (pp. 407–413).
+- **§9.3 Gráficas de otras funciones trigonométricas** (pp. 407–413) ← este archivo lo cubre.
 - §9.4 Identidades especiales (pp. 414–423).
 - §9.5 Funciones trigonométricas inversas (pp. 424–432).
 - §9.6 Ecuaciones trigonométricas (pp. 433–439).
@@ -77,7 +77,19 @@ fase** `|C|/B` (derecha si `C<0`, izquierda si `C>0`) de `y=A sen(Bx+C)`; y las
 x`. Los ejemplos de graficado quedan fuera por la norma de teoría sobre práctica. Fórmulas
 verificadas contra las hojas renderizadas 416 y 419; prosa por OCR.
 
-**Pendiente:** faltan las secciones **§9.3, §9.4, §9.5 y §9.6** para cerrar el
+**§9.3 · COMPLETO** en 8 reactivos (reactivos 26–33), la teoría de la sección (pp. 407–410):
+la **Definición 9.3.1** (`tan x=sen x/cos x`, `cot x=cos x/sen x`, `sec x=1/cos x`,
+`csc x=1/sen x`, con `cot x=1/tan x` y las **funciones recíprocas**); los **dominios**
+(`tan`/`sec`: `x≠(2n+1)π/2`; `cot`/`csc`: `x≠nπ`) y el **contradominio** (`sec`/`csc`:
+`(−∞,−1]∪[1,∞)`; `tan`/`cot`: `(−∞,∞)`); la **periodicidad** (`tan`/`cot` periodo `π`,
+`sec`/`csc` periodo `2π`); el **Teorema 9.3.1** (tangente y cotangente impares); la
+**paridad de sec y csc** (`sec x` par/simétrica al eje y, `csc x` impar/simétrica al origen,
+sin cortes con el eje x porque `|y|≥1`); y el **periodo bajo transformación** (`π/B` para
+`tan`/`cot`, `2π/B` para `sec`/`csc`, y que sólo seno y coseno tienen amplitud). Los
+ejemplos de graficado quedan fuera por la norma de teoría sobre práctica. Fórmulas
+verificadas contra las hojas renderizadas 424, 426 y 427; prosa por OCR.
+
+**Pendiente:** faltan las secciones **§9.4, §9.5 y §9.6** para cerrar el
 capítulo 9; y después el capítulo **12**, que el temario de la EMI (`GA-03-2026`) pide
 completo. **Geometría Analítica NO está cerrada para la EMI.** Los capítulos 4 y 8 ya están
 cerrados; este archivo (capítulo 9) sostiene el pendiente de la materia hasta que exista el
@@ -510,3 +522,141 @@ En relación con el libro de Geometría Analítica, según las identidades (3) c
 Se comprueban gráficamente las identidades: cos(x − π/2) = sen x, sen(x + π/2) = cos x y sen(x − π/2) = −cos x.
 
 > Dato olvidable: en `y = A sen(Bx + C) + D`, la amplitud es `|A|`, el periodo `2π/B`, el desplazamiento de fase `|C|/B` (derecha si C<0, izquierda si C>0) y `D` sube o baja la gráfica. La gráfica del coseno es la del seno corrida π/2 a la izquierda.
+
+---
+
+## Sub-lote 10 · Definición de las otras cuatro funciones (p. 407)
+
+### 26
+
+En relación con el libro de Geometría Analítica, según la Definición 9.3.1, ¿cómo se definen la tangente y la cotangente en términos del seno y el coseno?
+
+- A. tan x = sen x/cos x y cot x = cos x/sen x
+- B. tan x = cos x/sen x y cot x = sen x/cos x
+- C. tan x = 1/cos x y cot x = 1/sen x
+- D. tan x = sen x · cos x y cot x = cos x · sen x
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 407
+**Subtema:** Otras funciones · Definición 9.3.1 tangente y cotangente
+
+Las funciones tangente y cotangente se definen como tan x = sen x/cos x y cot x = cos x/sen x.
+
+### 27
+
+En relación con el libro de Geometría Analítica, según la Definición 9.3.1, ¿cómo se definen la secante y la cosecante, y qué relación hay entre cotangente y tangente?
+
+- A. sec x = 1/cos x, csc x = 1/sen x, y cot x = 1/tan x; cot x, sec x y csc x se llaman funciones recíprocas
+- B. sec x = 1/sen x, csc x = 1/cos x, y cot x = tan x
+- C. sec x = sen x, csc x = cos x, y cot x = tan x
+- D. sec x = cos x/sen x, csc x = sen x/cos x, y cot x = −tan x
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 407
+**Subtema:** Otras funciones · Definición 9.3.1 secante, cosecante y recíprocas
+
+sec x = 1/cos x y csc x = 1/sen x. Además, cot x = cos x/sen x = 1/tan x. Por eso cot x, sec x y csc x se llaman funciones recíprocas.
+
+---
+
+## Sub-lote 11 · Dominio y contradominio (pp. 407–408)
+
+### 28
+
+En relación con el libro de Geometría Analítica, ¿cuál es el dominio de tan x y sec x, y cuál el de cot x y csc x?
+
+- A. El dominio de tan x y sec x es {x | x ≠ (2n + 1)π/2}; el de cot x y csc x es {x | x ≠ nπ}
+- B. El dominio de tan x y sec x es {x | x ≠ nπ}; el de cot x y csc x es {x | x ≠ (2n + 1)π/2}
+- C. El dominio de las cuatro es el conjunto de todos los números reales, sin excepciones
+- D. El dominio de las cuatro es el intervalo [−1, 1]
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 407
+**Subtema:** Otras funciones · Dominio
+
+Como cos x = 0 cuando x = (2n + 1)π/2, el dominio de tan x y de sec x es {x | x ≠ (2n + 1)π/2, n = 0, ±1, ±2, ...}. Como sen x = 0 para x = nπ, el dominio de cot x y de csc x es {x | x ≠ nπ, n = 0, ±1, ±2, ...}.
+
+### 29
+
+En relación con el libro de Geometría Analítica, ¿cuál es el contradominio (rango) de la secante y la cosecante, y cuál el de la tangente y la cotangente?
+
+- A. El de la secante y la cosecante es (−∞, −1] ∪ [1, ∞); el de la tangente y la cotangente es (−∞, ∞)
+- B. El de las cuatro es el intervalo [−1, 1]
+- C. El de la secante y la cosecante es (−∞, ∞); el de la tangente y la cotangente es [−1, 1]
+- D. El de las cuatro es (−∞, −1] ∪ [1, ∞)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 408
+**Subtema:** Otras funciones · Contradominio
+
+Como |sec x| ≥ 1 y |csc x| ≥ 1, el contradominio de la función secante y de la cosecante es (−∞, −1] ∪ [1, ∞). Las funciones tangente y cotangente tienen el mismo contradominio: (−∞, ∞).
+
+---
+
+## Sub-lote 12 · Periodicidad y paridad (pp. 408–410)
+
+### 30
+
+En relación con el libro de Geometría Analítica, ¿cuál es el periodo de las funciones tangente y cotangente, y cuál el de la secante y la cosecante?
+
+- A. La tangente y la cotangente tienen periodo π; la secante y la cosecante tienen periodo 2π
+- B. Las cuatro tienen periodo 2π
+- C. La tangente y la cotangente tienen periodo 2π; la secante y la cosecante tienen periodo π
+- D. Las cuatro tienen periodo π
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 409
+**Subtema:** Otras funciones · Periodicidad
+
+Las funciones tangente y cotangente son periódicas, con periodo π: tan(x + π) = tan x y cot(x + π) = cot x. Las funciones secante y cosecante son periódicas, con periodo 2π: sec(x + 2π) = sec x y csc(x + 2π) = csc x.
+
+### 31
+
+En relación con el libro de Geometría Analítica, según el Teorema 9.3.1, ¿qué paridad tienen la tangente y la cotangente?
+
+- A. Ambas son funciones impares: tan(−x) = −tan x y cot(−x) = −cot x
+- B. Ambas son funciones pares: tan(−x) = tan x y cot(−x) = cot x
+- C. La tangente es par y la cotangente es impar
+- D. La tangente es impar y la cotangente es par
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 409
+**Subtema:** Otras funciones · Teorema 9.3.1 funciones impares
+
+La función tangente f(x) = tan x y la función cotangente g(x) = cot x son funciones impares tales que tan(−x) = −tan x y cot(−x) = −cot x; sus gráficas son simétricas con respecto al origen.
+
+### 32
+
+En relación con el libro de Geometría Analítica, respecto a las gráficas de sec x y csc x, ¿qué simetría tienen y por qué no cortan el eje x?
+
+- A. sec x es par (simétrica respecto al eje y) y csc x es impar (simétrica respecto al origen); no cortan el eje x porque |y| ≥ 1
+- B. sec x es impar (simétrica respecto al origen) y csc x es par (simétrica respecto al eje y); cortan el eje x en x = nπ
+- C. Ambas son simétricas respecto al eje x y cortan el eje x en cada asíntota
+- D. Ninguna tiene simetría y ambas cortan el eje x en el origen
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 409
+**Subtema:** Otras funciones · Simetría de secante y cosecante
+
+Para y = sec x y y = csc x, |y| ≥ 1, por lo que sus gráficas no tienen intersecciones con el eje x. Como cos x es par, sec x = 1/cos x es par y su gráfica es simétrica respecto al eje y; como sen x es impar, csc x = 1/sen x es impar y su gráfica es simétrica respecto al origen.
+
+---
+
+## Sub-lote 13 · Transformaciones y periodo (p. 410)
+
+### 33
+
+En relación con el libro de Geometría Analítica, para B > 0, ¿cuál es el periodo de y = A tan(Bx + C) y y = A cot(Bx + C), y el de y = A sec(Bx + C) y y = A csc(Bx + C), y cuáles funciones tienen amplitud?
+
+- A. El periodo de A tan(Bx + C) y A cot(Bx + C) es π/B; el de A sec(Bx + C) y A csc(Bx + C) es 2π/B; de las seis funciones, sólo el seno y el coseno tienen amplitud
+- B. El periodo de las cuatro es 2π/B; las seis funciones tienen amplitud
+- C. El periodo de A tan(Bx + C) y A cot(Bx + C) es 2π/B; el de A sec(Bx + C) y A csc(Bx + C) es π/B; todas tienen amplitud
+- D. El periodo de las cuatro es π/B; ninguna función trigonométrica tiene amplitud
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 410
+**Subtema:** Otras funciones · Periodo bajo transformación y amplitud
+
+Si B > 0, el periodo de y = A tan(Bx + C) y y = A cot(Bx + C) es π/B, mientras que el periodo de y = A sec(Bx + C) y y = A csc(Bx + C) es 2π/B. De las seis funciones trigonométricas, sólo las funciones seno y coseno tienen amplitud.
+
+> Dato olvidable: tangente y cotangente tienen periodo π (la mitad que las demás); secante y cosecante, 2π. Sólo seno y coseno tienen amplitud; las otras cuatro no, porque no tienen máximo ni mínimo. Las asíntotas de sec caen donde cos=0; las de csc, donde sen=0.
