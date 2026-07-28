@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 12 · Coordenadas polares
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 12 → EN CURSO (§12.1–§12.2 hechos)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 12 → EN CURSO (§12.1–§12.3 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -44,7 +44,7 @@ El **capítulo 12** completo tiene cinco secciones:
 
 - **§12.1 Coordenadas polares** (pp. 522–525) ← este archivo lo cubre.
 - **§12.2 Gráficas de ecuaciones polares** (pp. 526–535) ← este archivo lo cubre.
-- §12.3 Secciones cónicas en coordenadas polares (pp. 536–541).
+- **§12.3 Secciones cónicas en coordenadas polares** (pp. 536–541) ← este archivo lo cubre.
 - §12.4 Vectores en el plano (pp. 542–549).
 - §12.5 Producto punto (pp. 550–556).
 
@@ -74,7 +74,17 @@ convexo), **curvas de rosas** `r=a sen nθ`/`r=a cos nθ` (n impar → n pétalo
 norma de teoría sobre práctica. Fórmulas verificadas contra las hojas renderizadas 545, 546,
 547 y 548; prosa por OCR.
 
-**Pendiente:** faltan las secciones **§12.3, §12.4 y §12.5** para cerrar el capítulo
+**§12.3 · COMPLETO** en 6 reactivos (reactivos 19–24), toda la teoría de la sección
+(pp. 536–539): la **Definición 12.3.1** de **sección cónica** (directriz, foco y
+**excentricidad** `e = d(P,F)/d(P,L)`); la **clasificación por excentricidad** (`e=1`
+parábola, `0<e<1` elipse, `e>1` hipérbola); el **Teorema 12.3.1** (ecuaciones polares
+`r=ep/(1±e cos θ)` y `r=ep/(1±e sen θ)`, foco en el origen); la **orientación del eje** (cos
+→ eje x, sen → eje y); la ubicación de los **vértices** (formas con cos en `θ=0`/`θ=π`,
+formas con sen en `θ=π/2`/`θ=3π/2`); y la aplicación a **órbitas** (`e=(rₐ−rₚ)/(rₐ+rₚ)`,
+perihelio y afelio). Los ejemplos de graficado quedan fuera por la norma de teoría sobre
+práctica. Fórmulas verificadas contra las hojas renderizadas 553, 554 y 556; prosa por OCR.
+
+**Pendiente:** faltan las secciones **§12.4 y §12.5** para cerrar el capítulo
 12. Con el capítulo 12 cerrado, **Geometría Analítica quedaría cerrada para la EMI** (ya
 están cerrados los capítulos 4, 8 y 9). Este archivo (capítulo 12) sostiene el pendiente de
 la materia.
@@ -397,3 +407,107 @@ En relación con el libro de Geometría Analítica, si r = f(θ) es una ecuació
 La gráfica de r = f(θ − γ) es la gráfica de r = f(θ) rotada en el sentido opuesto al de las manecillas del reloj alrededor del origen por una cantidad γ. La gráfica de r = f(θ + γ) es la gráfica de r = f(θ) rotada en el sentido de las manecillas del reloj alrededor del origen por una cantidad γ.
 
 > Dato olvidable: el `cos` orienta las curvas (cardioide, caracol, rosa) hacia el **eje x**; el `sen`, hacia el **eje y**. En las rosas, `n` impar da `n` pétalos y `n` par da `2n`. Las lemniscatas usan `r²` (no `r`) y `2θ`.
+
+---
+
+## Sub-lote 9 · Sección cónica y excentricidad (pp. 536–537)
+
+### 19
+
+En relación con el libro de Geometría Analítica, según la Definición 12.3.1, ¿qué es una sección cónica y cómo se llaman sus elementos?
+
+- A. Dados una recta fija L (directriz) y un punto F fuera de ella (foco), es el conjunto de puntos P para los cuales la distancia de P a F, dividida entre la distancia de P a L, es constante; esa constante es la excentricidad e
+- B. Es el conjunto de puntos que equidistan de dos focos
+- C. Es el conjunto de puntos cuya suma de distancias a dos rectas es constante
+- D. Es cualquier curva que pase por el origen
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 536
+**Subtema:** Cónicas polares · Definición 12.3.1
+
+Sean L una recta fija en el plano y F un punto que no esté en la recta. Una sección cónica es el conjunto de puntos P en el plano para los cuales la distancia de P a F, dividida entre la distancia de P a L, es constante. La recta fija L se llama directriz, el punto F es un foco, y la constante fija es la excentricidad e de la cónica.
+
+### 20
+
+En relación con el libro de Geometría Analítica, según el valor de la excentricidad e, ¿qué tipo de cónica se obtiene?
+
+- A. Si e = 1 es una parábola; si 0 < e < 1 es una elipse; si e > 1 es una hipérbola
+- B. Si e = 0 es una parábola; si e = 1 es una elipse; si e = 2 es una hipérbola
+- C. Si e > 1 es una parábola; si e = 1 es una elipse; si 0 < e < 1 es una hipérbola
+- D. Si e = 1 es una elipse; si 0 < e < 1 es una parábola; si e > 1 es un círculo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 536
+**Subtema:** Cónicas polares · Clasificación por excentricidad
+
+Si e = 1, la cónica es una parábola; si 0 < e < 1, la cónica es una elipse; y si e > 1, la cónica es una hipérbola.
+
+---
+
+## Sub-lote 10 · Ecuaciones polares de cónicas (pp. 537–538)
+
+### 21
+
+En relación con el libro de Geometría Analítica, según el Teorema 12.3.1, ¿qué forma tienen las ecuaciones polares de una sección cónica con foco en el origen?
+
+- A. r = ep/(1 ± e cos θ) o r = ep/(1 ± e sen θ)
+- B. r = ep/(cos θ ± e) o r = ep/(sen θ ± e)
+- C. r = e/(1 ± p cos θ) o r = e/(1 ± p sen θ)
+- D. r = ep(1 ± e cos θ) o r = ep(1 ± e sen θ)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 537
+**Subtema:** Cónicas polares · Teorema 12.3.1 ecuaciones polares
+
+Toda ecuación polar de la forma r = ep/(1 ± e cos θ) o r = ep/(1 ± e sen θ) es la de una sección cónica con foco en el origen y eje a lo largo de un eje coordenado.
+
+### 22
+
+En relación con el libro de Geometría Analítica, según el Teorema 12.3.1, ¿a lo largo de qué eje está el eje de la cónica según la forma de su ecuación polar?
+
+- A. A lo largo del eje x para las ecuaciones con cos θ (forma r = ep/(1 ± e cos θ)); a lo largo del eje y para las ecuaciones con sen θ (forma r = ep/(1 ± e sen θ))
+- B. A lo largo del eje y para las de cos θ; a lo largo del eje x para las de sen θ
+- C. Siempre a lo largo del eje x, sin importar la forma
+- D. Siempre a lo largo de la directriz
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 537
+**Subtema:** Cónicas polares · Orientación del eje
+
+El eje de la sección cónica está a lo largo del eje x para las ecuaciones de la forma r = ep/(1 ± e cos θ), y a lo largo del eje y para las ecuaciones de la forma r = ep/(1 ± e sen θ).
+
+### 23
+
+En relación con el libro de Geometría Analítica, para trazar una cónica polar, ¿dónde están los dos vértices de una elipse o una hipérbola según la forma de la ecuación?
+
+- A. En θ = 0 y θ = π para las ecuaciones con cos θ; en θ = π/2 y θ = 3π/2 para las ecuaciones con sen θ
+- B. En θ = π/2 y θ = 3π/2 para las de cos θ; en θ = 0 y θ = π para las de sen θ
+- C. Siempre en θ = 0 y θ = π/2
+- D. En el foco y en la directriz
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 538
+**Subtema:** Cónicas polares · Ubicación de los vértices
+
+Para las ecuaciones con cos θ, los dos vértices de la elipse o la hipérbola están en θ = 0 y θ = π. Para las ecuaciones con sen θ, los dos vértices están en θ = π/2 y θ = 3π/2.
+
+---
+
+## Sub-lote 11 · Aplicación: órbitas (p. 539)
+
+### 24
+
+En relación con el libro de Geometría Analítica, en la órbita elíptica de un satélite con el Sol en un foco, ¿qué son r_p y r_a, y cómo se relaciona la excentricidad con ellos?
+
+- A. r_p es el valor de r en el perihelio (punto más cercano) y r_a en el afelio (punto más lejano); la excentricidad es e = (r_a − r_p)/(r_a + r_p)
+- B. r_p es el afelio y r_a el perihelio; la excentricidad es e = (r_p − r_a)/(r_p + r_a)
+- C. r_p y r_a son los dos focos; la excentricidad es e = r_p · r_a
+- D. r_p y r_a son los semiejes; la excentricidad es e = r_a / r_p
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 539
+**Subtema:** Cónicas polares · Órbitas y excentricidad
+
+r_p es el valor de r en el perihelio (el punto de la órbita más cercano al Sol) y r_a es el valor de r en el afelio (el más lejano). La excentricidad e de la órbita se relaciona con r_p y r_a por medio de e = (r_a − r_p)/(r_a + r_p).
+
+> Dato olvidable: la excentricidad manda: `e=1` parábola, `0<e<1` elipse, `e>1` hipérbola. En la ecuación polar `r=ep/(1±e cos θ)`, el `cos` pone el eje sobre el eje x y el `sen` sobre el eje y; el foco siempre va en el origen.
