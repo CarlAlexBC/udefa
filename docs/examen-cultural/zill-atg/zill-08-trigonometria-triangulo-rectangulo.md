@@ -1,4 +1,4 @@
-# Geometría Analítica · Zill · Capítulo 8 · Trigonometría del triángulo rectángulo
+# Geometría Analítica · Capítulo 8 · Trigonometría del triángulo rectángulo
 
 **Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 8 → CERRADO (§8.1–§8.4 completos)**
 

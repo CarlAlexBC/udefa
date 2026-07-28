@@ -1,4 +1,4 @@
-# Geometría Analítica · Zill · Capítulo 4 · Sistema de coordenadas rectangulares y gráficas
+# Geometría Analítica · Capítulo 4 · Sistema de coordenadas rectangulares y gráficas
 
 **Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 4 → CERRADO (§4.1–§4.4 completos)**
 

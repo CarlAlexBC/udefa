@@ -1,4 +1,4 @@
-# Geometría Analítica · Zill · Capítulo 12 · Coordenadas polares
+# Geometría Analítica · Capítulo 12 · Coordenadas polares
 
 **Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 12 → CERRADO (§12.1–§12.5 completos)**
 

@@ -1,4 +1,4 @@
-# Geometría Analítica · Zill · Capítulo 9 · Trigonometría del círculo unitario
+# Geometría Analítica · Capítulo 9 · Trigonometría del círculo unitario
 
 **Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 9 → CERRADO (§9.1–§9.6 completos)**
 
