@@ -15,6 +15,7 @@ import {
 } from "lucide-react";
 import { CarruselMuestra } from "@/components/landing/CarruselMuestra";
 import { CarruselPlanteles } from "@/components/landing/CarruselPlanteles";
+import { SiteFooter } from "@/components/legal/SiteFooter";
 
 export default function Home() {
   return (
@@ -345,13 +346,8 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Footer minimalista */}
-      <footer className="border-t border-border bg-background py-6">
-        <div className="mx-auto flex max-w-6xl items-center justify-between px-6 text-xs text-muted-foreground">
-          <p>© 2026 El Monote te Guía · Carlo Alexander</p>
-          <p>Uso personal · Prohibida su distribución</p>
-        </div>
-      </footer>
+      {/* Pie de página compartido — aviso de independencia + enlaces legales */}
+      <SiteFooter />
     </main>
   );
 }

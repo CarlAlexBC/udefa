@@ -5,6 +5,7 @@ import { useRouter, useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import Image from 'next/image'
 import { apiFetch } from '@/lib/api'
+import { AVISO_SIMULADOR } from '@/lib/legal'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import {
@@ -602,6 +603,15 @@ function PantallaInicial({
             </>
           )}
         </Button>
+
+        {/* Aviso legal: es material de práctica, no un examen oficial. */}
+        <div className="mt-5 flex items-start gap-2 rounded-lg border border-accent/30 bg-accent/5 p-3 text-left">
+          <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-accent" />
+          <p className="text-xs leading-relaxed text-muted-foreground">
+            <span className="font-semibold text-foreground">Aviso. </span>
+            {AVISO_SIMULADOR}
+          </p>
+        </div>
       </div>
 
       <Link

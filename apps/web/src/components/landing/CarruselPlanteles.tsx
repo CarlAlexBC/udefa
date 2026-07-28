@@ -17,7 +17,7 @@ import { Clock, GraduationCap, Star, UserCircle } from 'lucide-react'
 
 /* ═══════════════════════════════════════════════════════════
    Datos de los 11 planteles del Sistema Educativo Militar.
-   Fuente: Convocatoria de Admisión UDEFA "2026" (SEDENA).
+   Fuente: Convocatoria de Admisión UDEFA "2026" (DEFENSA).
    Regla de grado militar aplicada:
      • Ingeniería (EMI) y Medicina (EMM) egresan como Teniente.
      • El resto de planteles egresan como Subteniente,
