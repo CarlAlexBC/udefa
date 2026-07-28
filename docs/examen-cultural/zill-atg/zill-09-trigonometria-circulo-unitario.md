@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 9 · Trigonometría del círculo unitario
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 9 → EN CURSO (§9.1–§9.4 hechos)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 9 → EN CURSO (§9.1–§9.5 hechos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -47,7 +47,7 @@ El **capítulo 9** completo tiene seis secciones:
 - **§9.2 Gráficas de las funciones seno y coseno** (pp. 397–406) ← este archivo lo cubre.
 - **§9.3 Gráficas de otras funciones trigonométricas** (pp. 407–413) ← este archivo lo cubre.
 - **§9.4 Identidades especiales** (pp. 414–423) ← este archivo lo cubre.
-- §9.5 Funciones trigonométricas inversas (pp. 424–432).
+- **§9.5 Funciones trigonométricas inversas** (pp. 424–432) ← este archivo lo cubre.
 - §9.6 Ecuaciones trigonométricas (pp. 433–439).
 
 Los *Ejercicios de repaso* (p. 440 en adelante) quedan fuera por la norma de teoría sobre
@@ -100,6 +100,16 @@ el **Teorema 9.4.6** (mitad de ángulo `cos²(x/2)=½(1+cos x)`, `sen²(x/2)=½(
 fórmulas `cos²x=½(1+cos 2x)`, `sen²x=½(1−cos 2x)`. Fórmulas verificadas contra las hojas
 renderizadas 434, 435, 436 y 437; prosa por OCR.
 
+**§9.5 · COMPLETO** en 6 reactivos (reactivos 43–48), toda la teoría de la sección
+(pp. 425–429): las **propiedades generales de las funciones inversas** (dominio y
+contradominio intercambiados, gráficas reflejadas en `y=x`, composiciones); la **Definición
+9.5.1** (arco seno `y=arcsen x ⟺ x=sen y`, dominio `[−1,1]`, contradominio `[−π/2,π/2]`) y
+la **precaución** de que el `−1` de `sen⁻¹x` no es exponente; la **Definición 9.5.2** (arco
+coseno, contradominio `[0,π]`); la **Definición 9.5.3** (arco tangente, dominio `(−∞,∞)`,
+contradominio `(−π/2,π/2)`); y el **Teorema 9.5.1** (las seis propiedades de composición con
+sus restricciones). Fórmulas verificadas contra las hojas renderizadas 443, 444 y 446;
+prosa por OCR.
+
 > **⚠️ Errata del libro (Teorema 9.4.3, p. 417).** El recuadro del **Teorema 9.4.3** se
 > titula *"Fórmulas de suma y diferencia del seno"*, pero las ecuaciones (7) y (8) que
 > imprime son las del **coseno** (repiten el Teorema 9.4.2): `cos(x₁+x₂)=cos x₁ cos x₂ −
@@ -110,7 +120,7 @@ renderizadas 434, 435, 436 y 437; prosa por OCR.
 > **Decisión de Carlo pendiente:** publicar o no un aviso al aspirante sobre esta errata
 > (misma situación que la del Teorema 9 del Cálculo, cap. 2).
 
-**Pendiente:** faltan las secciones **§9.5 y §9.6** para cerrar el
+**Pendiente:** falta la sección **§9.6 (Ecuaciones trigonométricas)** para cerrar el
 capítulo 9; y después el capítulo **12**, que el temario de la EMI (`GA-03-2026`) pide
 completo. **Geometría Analítica NO está cerrada para la EMI.** Los capítulos 4 y 8 ya están
 cerrados; este archivo (capítulo 9) sostiene el pendiente de la materia hasta que exista el
@@ -830,3 +840,107 @@ En relación con el libro de Geometría Analítica, al despejar cos²x y sen²x 
 Al despejar cos²x y sen²x de las formas alternativas (16) y (17) del ángulo doble se obtienen: cos²x = ½(1 + cos 2x) y sen²x = ½(1 − cos 2x).
 
 > Dato olvidable: en las fórmulas de suma, el **coseno cambia el signo** (cos·cos − sen·sen para la suma) y el **seno lo conserva** (sen·cos + cos·sen para la suma). El coseno de ángulo doble tiene tres caras: `cos²x−sen²x`, `2cos²x−1` y `1−2sen²x`. **Cuidado:** el recuadro del Teorema 9.4.3 del libro está mal impreso (muestra el coseno donde debería ir el seno).
+
+---
+
+## Sub-lote 17 · Funciones inversas y arco seno (pp. 425–426)
+
+### 43
+
+En relación con el libro de Geometría Analítica, según las propiedades de las funciones inversas, ¿qué relación hay entre el dominio y el contradominio de f y f⁻¹, y entre sus gráficas?
+
+- A. El dominio de f⁻¹ es el contradominio de f y el contradominio de f⁻¹ es el dominio de f; las gráficas de f y f⁻¹ son reflexiones en la recta y = x
+- B. El dominio y el contradominio de f⁻¹ son iguales a los de f; las gráficas coinciden
+- C. El dominio de f⁻¹ es el dominio de f; las gráficas son reflexiones en el eje x
+- D. f⁻¹ tiene el mismo dominio que f pero distinto contradominio; las gráficas son paralelas
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 425
+**Subtema:** Funciones inversas · Propiedades de las funciones inversas
+
+El dominio de f⁻¹ es el contradominio de f y el contradominio de f⁻¹ es el dominio de f. Las gráficas de f y f⁻¹ son reflexiones en la recta y = x, y se cumple f(f⁻¹(x)) = x y f⁻¹(f(x)) = x bajo las restricciones adecuadas.
+
+### 44
+
+En relación con el libro de Geometría Analítica, según la Definición 9.5.1, ¿cómo se define la función arco seno y cuáles son las restricciones de x y y?
+
+- A. y = arcsen x si y sólo si x = sen y, donde −1 ≤ x ≤ 1 y −π/2 ≤ y ≤ π/2
+- B. y = arcsen x si y sólo si x = sen y, donde 0 ≤ x ≤ 1 y 0 ≤ y ≤ π
+- C. y = arcsen x si y sólo si x = cos y, donde −1 ≤ x ≤ 1 y 0 ≤ y ≤ π
+- D. y = arcsen x si y sólo si x = sen y, donde −∞ < x < ∞ y −π/2 < y < π/2
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 426
+**Subtema:** Funciones inversas · Definición 9.5.1 arco seno
+
+La función arco seno, o función seno inverso, se define por y = arcsen x si y sólo si x = sen y, donde −1 ≤ x ≤ 1 y −π/2 ≤ y ≤ π/2. Es decir, el arco seno de x es el número y (o ángulo en radianes) entre −π/2 y π/2 cuyo seno es x.
+
+### 45
+
+En relación con el libro de Geometría Analítica, al usar la notación sen⁻¹x, ¿qué es importante tener en cuenta sobre el "−1"?
+
+- A. Que el "−1" no es un exponente, sino que representa una función inversa; (sen x)⁻¹ = 1/sen x ≠ sen⁻¹x
+- B. Que el "−1" es un exponente, de modo que sen⁻¹x = 1/sen x
+- C. Que el "−1" indica el valor negativo del seno
+- D. Que el "−1" significa que la función es decreciente
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 426
+**Subtema:** Funciones inversas · Precaución con la notación
+
+Al usar la notación sen⁻¹x es importante tener en cuenta que "−1" no es un exponente; más bien representa una función inversa. En cambio, (sen x)⁻¹ = 1/sen x, que es distinto de sen⁻¹x.
+
+---
+
+## Sub-lote 18 · Arco coseno y arco tangente (pp. 427–428)
+
+### 46
+
+En relación con el libro de Geometría Analítica, según la Definición 9.5.2, ¿cómo se define la función arco coseno y cuáles son las restricciones de x y y?
+
+- A. y = arccos x si y sólo si x = cos y, donde −1 ≤ x ≤ 1 y 0 ≤ y ≤ π
+- B. y = arccos x si y sólo si x = cos y, donde −1 ≤ x ≤ 1 y −π/2 ≤ y ≤ π/2
+- C. y = arccos x si y sólo si x = sen y, donde 0 ≤ x ≤ 1 y 0 ≤ y ≤ π
+- D. y = arccos x si y sólo si x = cos y, donde −∞ < x < ∞ y 0 < y < π
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 427
+**Subtema:** Funciones inversas · Definición 9.5.2 arco coseno
+
+La función arco coseno, o función coseno inverso, se define por y = arccos x si y sólo si x = cos y, donde −1 ≤ x ≤ 1 y 0 ≤ y ≤ π. Su dominio es [−1, 1] y su contradominio es [0, π].
+
+### 47
+
+En relación con el libro de Geometría Analítica, según la Definición 9.5.3, ¿cómo se define la función arco tangente y cuáles son las restricciones de x y y?
+
+- A. y = arctan x si y sólo si x = tan y, donde −∞ < x < ∞ y −π/2 < y < π/2
+- B. y = arctan x si y sólo si x = tan y, donde −1 ≤ x ≤ 1 y −π/2 ≤ y ≤ π/2
+- C. y = arctan x si y sólo si x = tan y, donde −∞ < x < ∞ y 0 < y < π
+- D. y = arctan x si y sólo si x = cot y, donde −∞ < x < ∞ y −π/2 < y < π/2
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 428
+**Subtema:** Funciones inversas · Definición 9.5.3 arco tangente
+
+La función arco tangente, o tangente inversa, se define por y = arctan x si y sólo si x = tan y, donde −∞ < x < ∞ y −π/2 < y < π/2. Su dominio es (−∞, ∞) y su contradominio es (−π/2, π/2).
+
+---
+
+## Sub-lote 19 · Propiedades de composición (p. 429)
+
+### 48
+
+En relación con el libro de Geometría Analítica, según el Teorema 9.5.1, ¿cuáles son las propiedades de composición de las funciones trigonométricas inversas y sus restricciones?
+
+- A. arcsen(sen x) = x si −π/2 ≤ x ≤ π/2; sen(arcsen x) = x si −1 ≤ x ≤ 1; arccos(cos x) = x si 0 ≤ x ≤ π; cos(arccos x) = x si −1 ≤ x ≤ 1; arctan(tan x) = x si −π/2 < x < π/2; tan(arctan x) = x si −∞ < x < ∞
+- B. Todas las composiciones dan x sin ninguna restricción sobre x
+- C. arcsen(sen x) = x si −1 ≤ x ≤ 1; sen(arcsen x) = x si −π/2 ≤ x ≤ π/2 (las restricciones están intercambiadas)
+- D. Las composiciones sólo valen para x = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 429
+**Subtema:** Funciones inversas · Teorema 9.5.1 propiedades de composición
+
+i) arcsen(sen x) = x si −π/2 ≤ x ≤ π/2; ii) sen(arcsen x) = x si −1 ≤ x ≤ 1; iii) arccos(cos x) = x si 0 ≤ x ≤ π; iv) cos(arccos x) = x si −1 ≤ x ≤ 1; v) arctan(tan x) = x si −π/2 < x < π/2; vi) tan(arctan x) = x si −∞ < x < ∞.
+
+> Dato olvidable: los contradominios (rangos) de las inversas son la clave: arcsen y arctan devuelven ángulos en `[−π/2, π/2]` (y `(−π/2, π/2)`); arccos devuelve ángulos en `[0, π]`. Por eso `sen⁻¹(−1)=−π/2` y no `3π/2`. El `−1` de `sen⁻¹x` NO es exponente.
