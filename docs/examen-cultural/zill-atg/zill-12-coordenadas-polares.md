@@ -1,6 +1,6 @@
 # Geometría Analítica · Zill · Capítulo 12 · Coordenadas polares
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 12 → EN CURSO (§12.1–§12.4 hechos)**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 12 → CERRADO (§12.1–§12.5 completos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -46,7 +46,7 @@ El **capítulo 12** completo tiene cinco secciones:
 - **§12.2 Gráficas de ecuaciones polares** (pp. 526–535) ← este archivo lo cubre.
 - **§12.3 Secciones cónicas en coordenadas polares** (pp. 536–541) ← este archivo lo cubre.
 - **§12.4 Vectores en el plano** (pp. 542–549) ← este archivo lo cubre.
-- §12.5 Producto punto (pp. 550–556).
+- **§12.5 Producto punto** (pp. 550–556) ← este archivo lo cubre.
 
 Los *Ejercicios de repaso* (p. 557 en adelante) quedan fuera por la norma de teoría sobre
 práctica. La reseña histórica de la portadilla (p. 521) sí entra: es dato de recuerdo.
@@ -98,10 +98,19 @@ resultante** (suma vectorial). El libro usa notación de corchetes angulares `�
 vectores. Fórmulas verificadas contra las hojas renderizadas 560, 561, 563 y 564; prosa por
 OCR.
 
-**Pendiente:** falta la sección **§12.5 (Producto punto)** para cerrar el capítulo
-12. Con el capítulo 12 cerrado, **Geometría Analítica quedaría cerrada para la EMI** (ya
-están cerrados los capítulos 4, 8 y 9). Este archivo (capítulo 12) sostiene el pendiente de
-la materia.
+**§12.5 · COMPLETO** en 8 reactivos (reactivos 37–44), toda la teoría de la sección
+(pp. 550–555): la **Definición 12.5.1** de **producto punto** `u·v=ac+bd` (un escalar); el
+**Teorema 12.5.1** (propiedades: conmutativa, distributiva, `v·v=|v|²`); el **Teorema
+12.5.2** (forma alternativa `u·v=|u||v|cos θ`); la fórmula del **ángulo entre vectores**
+`cos θ=(u·v)/(|u||v|)`; el **Teorema 12.5.3** (criterio de **ortogonalidad**: `u·v=0`); la
+**componente** de u sobre v (`comp_v u = u·(v/|v|)`); la **proyección** de u sobre v
+(`proy_v u = (comp_v u)(v/|v|)`); y la **interpretación física** (trabajo `W=F·d`). Fórmulas
+verificadas contra las hojas renderizadas 567, 568, 569, 570 y 571; prosa por OCR.
+
+**CAPÍTULO 12 CERRADO** en 44 reactivos (§12.1–§12.5). Con esto, **la materia Geometría
+Analítica queda CERRADA para la EMI** (`GA-03-2026`): los cuatro capítulos que pide el
+temario —4 (64), 8 (58), 9 (53) y 12 (44)— están completos, **219 reactivos** en total. El
+temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares).
 
 ## Criterio: teoría sobre práctica
 
@@ -719,3 +728,137 @@ En relación con el libro de Geometría Analítica, ¿cómo se llama la magnitud
 La magnitud |v| de la velocidad v es una cantidad escalar llamada rapidez. Cuando dos fuerzas actúan simultáneamente en el mismo punto P sobre un objeto, éste reacciona como si una sola fuerza igual a la suma vectorial de las dos fuerzas actuara sobre él; esa única fuerza se llama fuerza resultante.
 
 > Dato olvidable: un **escalar** es sólo un número (magnitud); un **vector** lleva magnitud y dirección. `|v|=√(a²+b²)`; normalizar es dividir el vector entre su magnitud para obtener uno unitario. `i=⟨1,0⟩`, `j=⟨0,1⟩`, y todo vector es `ai+bj`. La **rapidez** es la magnitud de la velocidad.
+
+---
+
+## Sub-lote 15 · Producto punto y sus propiedades (pp. 550–551)
+
+### 37
+
+En relación con el libro de Geometría Analítica, según la Definición 12.5.1, ¿cómo se define el producto punto de dos vectores u = ⟨a, b⟩ y v = ⟨c, d⟩, y qué tipo de cantidad es?
+
+- A. u · v = ac + bd; es un número real (escalar)
+- B. u · v = ⟨ac, bd⟩; es un vector
+- C. u · v = ad − bc; es un escalar
+- D. u · v = √(a² + b²) · √(c² + d²); es un vector
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 550
+**Subtema:** Producto punto · Definición 12.5.1
+
+En el espacio bidimensional, el producto punto (o producto interno) de dos vectores u = ⟨a, b⟩ y v = ⟨c, d⟩ es el número u · v = ac + bd; es un número real, o escalar.
+
+### 38
+
+En relación con el libro de Geometría Analítica, según el Teorema 12.5.1, ¿cuáles son propiedades del producto punto?
+
+- A. Es conmutativo (u · v = v · u), distributivo (u · (v + w) = u · v + u · w) y cumple v · v = |v|²
+- B. No es conmutativo, pero sí asociativo
+- C. u · v siempre es un vector, y u · u = 0
+- D. u · (v + w) = u · v, y v · v = |v|
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 550
+**Subtema:** Producto punto · Teorema 12.5.1 propiedades
+
+Entre las propiedades del producto punto: u · v = v · u (ley conmutativa); u · (v + w) = u · v + u · w (ley distributiva); u · (kv) = (ku) · v = k(u · v); v · v ≥ 0; y v · v = |v|².
+
+---
+
+## Sub-lote 16 · Forma alternativa, ángulo y ortogonalidad (pp. 551–552)
+
+### 39
+
+En relación con el libro de Geometría Analítica, según el Teorema 12.5.2 (forma alternativa), ¿cómo se expresa el producto punto en términos de las longitudes de los vectores y el ángulo entre ellos?
+
+- A. u · v = |u||v| cos θ, donde θ es el ángulo entre los vectores tal que 0 ≤ θ ≤ π
+- B. u · v = |u||v| sen θ
+- C. u · v = (|u| + |v|) cos θ
+- D. u · v = |u||v| tan θ
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 551
+**Subtema:** Producto punto · Teorema 12.5.2 forma alternativa
+
+El producto punto de dos vectores u y v es u · v = |u||v| cos θ, donde θ es el ángulo entre los vectores tal que 0 ≤ θ ≤ π.
+
+### 40
+
+En relación con el libro de Geometría Analítica, ¿cuál es la fórmula del coseno del ángulo θ entre dos vectores u y v?
+
+- A. cos θ = (u · v)/(|u||v|)
+- B. cos θ = (|u||v|)/(u · v)
+- C. cos θ = (u · v)/(|u| + |v|)
+- D. cos θ = (u · v) · (|u||v|)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 552
+**Subtema:** Producto punto · Ángulo entre vectores
+
+Despejando cos θ de la forma alternativa se obtiene la fórmula del coseno del ángulo entre dos vectores: cos θ = (u · v)/(|u||v|).
+
+### 41
+
+En relación con el libro de Geometría Analítica, según el Teorema 12.5.3, ¿cuándo dos vectores distintos de cero u y v son ortogonales (perpendiculares)?
+
+- A. Si y sólo si u · v = 0
+- B. Si y sólo si u · v > 0
+- C. Si y sólo si u · v = |u||v|
+- D. Si y sólo si u + v = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 552
+**Subtema:** Producto punto · Teorema 12.5.3 vectores ortogonales
+
+Dos vectores distintos de cero u y v son ortogonales si y sólo si u · v = 0 (lo que ocurre cuando el ángulo entre ellos es π/2).
+
+---
+
+## Sub-lote 17 · Componente, proyección y trabajo (pp. 553–554)
+
+### 42
+
+En relación con el libro de Geometría Analítica, ¿cómo se encuentra la componente del vector u sobre el vector v?
+
+- A. Multiplicando u por un vector unitario en la dirección de v: comp_v u = u · (v/|v|) (equivalente a |u| cos θ)
+- B. Multiplicando u por v: comp_v u = u · v
+- C. Dividiendo v entre u: comp_v u = v/u
+- D. Sumando u y v: comp_v u = u + v
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 553
+**Subtema:** Producto punto · Componente de u sobre v
+
+Para encontrar la componente del vector u sobre el vector v, multiplicamos u por un vector unitario en la dirección de v: comp_v u = u · (v/|v|), que equivale a |u| cos θ.
+
+### 43
+
+En relación con el libro de Geometría Analítica, ¿cómo se encuentra la proyección del vector u sobre el vector v?
+
+- A. Multiplicando un vector unitario en la dirección de v por la componente de u sobre v: proy_v u = (comp_v u)(v/|v|)
+- B. Multiplicando u por v directamente: proy_v u = u · v
+- C. Restando v de u: proy_v u = u − v
+- D. Tomando la magnitud de u: proy_v u = |u|
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 553
+**Subtema:** Producto punto · Proyección de u sobre v
+
+Para encontrar la proyección del vector u sobre un vector v, multiplicamos un vector unitario en la dirección de v por la componente de u sobre v: proy_v u = (comp_v u)(v/|v|).
+
+### 44
+
+En relación con el libro de Geometría Analítica, según la interpretación física del producto punto, ¿cómo se define el trabajo realizado cuando una fuerza constante desplaza un objeto?
+
+- A. Cuando la fuerza de magnitud F desplaza el objeto una distancia d en la misma dirección, W = Fd; y si la fuerza F causa un desplazamiento d, el trabajo es W = F · d
+- B. El trabajo es siempre W = F/d, sin importar la dirección
+- C. El trabajo es W = F + d
+- D. El trabajo es el producto vectorial de F y d
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 554
+**Subtema:** Producto punto · Interpretación física (trabajo)
+
+Cuando una fuerza constante de magnitud F desplaza un objeto una distancia d en la misma dirección de la fuerza, el trabajo realizado se define como W = Fd. Si una fuerza F causa un desplazamiento d de un cuerpo, el trabajo realizado es W = F · d.
+
+> Dato olvidable: el producto punto da un **escalar**, no un vector: `u·v=ac+bd=|u||v|cos θ`. Dos vectores son **ortogonales** cuando `u·v=0`. La **rapidez** es la magnitud de la velocidad y el **trabajo** es `W=F·d`.
