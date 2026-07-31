@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { buttonVariants } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import { SiteFooter } from '@/components/legal/SiteFooter'
+import { BotonPaquete } from './BotonPaquete'
 import {
   BadgeCheck,
   Calendar,
@@ -152,6 +153,7 @@ export default function PreciosPage() {
             precio="$0"
             nota="Gratis"
             cta="Empezar gratis"
+            paquete={null}
             incluye={[
               '50 reactivos de muestra',
               '1 simulacro corto',
@@ -170,6 +172,7 @@ export default function PreciosPage() {
             precio="$999"
             nota={MODELO_ACCESO}
             cta="Elegir Cultural"
+            paquete="cultural"
             incluye={[
               '+5,000 preguntas reales clasificadas por tema',
               'Simulacros con cronómetro igual al examen',
@@ -190,6 +193,7 @@ export default function PreciosPage() {
             precio="$1,999"
             nota={MODELO_ACCESO}
             cta="Elegir Psicológico"
+            paquete="psicologico"
             incluye={[
               'Guías completas de las 3 fases',
               'Panel de diagnóstico inteligente',
@@ -212,6 +216,7 @@ export default function PreciosPage() {
             precio="$2,500"
             nota={MODELO_ACCESO}
             cta="Quiero la preparación completa"
+            paquete="completa"
             incluye={[
               'TODO lo del paquete Cultural',
               'TODO lo del paquete Psicológico',
@@ -338,6 +343,7 @@ function Paquete({
   precio,
   nota,
   cta,
+  paquete,
   incluye,
   destacado = false,
   ctaFilled = false,
@@ -351,6 +357,8 @@ function Paquete({
   precio: string
   nota: string
   cta: string
+  /** Clave del paquete de pago ('cultural'|'psicologico'|'completa'); null = gratis. */
+  paquete: string | null
   incluye: string[]
   destacado?: boolean
   ctaFilled?: boolean
@@ -424,18 +432,14 @@ function Paquete({
         ))}
       </ul>
 
-      {/* Botón de muestra: cuando exista Checkout Pro, apuntará al pago. */}
-      <Link
-        href="/registro"
-        className="mt-6 w-full rounded-md border px-4 py-2.5 text-center text-sm font-semibold transition-opacity hover:opacity-90"
-        style={
-          ctaFilled
-            ? { backgroundColor: color.c, color: color.on, borderColor: color.c }
-            : { backgroundColor: 'transparent', color: color.c, borderColor: color.c }
-        }
-      >
-        {cta}
-      </Link>
+      {/* Botón real de compra: inicia Checkout Pro (o va a registro si es gratis). */}
+      <BotonPaquete
+        paquete={paquete}
+        label={cta}
+        color={color.c}
+        onColor={color.on}
+        filled={ctaFilled}
+      />
     </div>
   )
 }
