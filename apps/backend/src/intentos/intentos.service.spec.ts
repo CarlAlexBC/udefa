@@ -12,7 +12,7 @@ import { IntentosService } from './intentos.service';
  * e1#73 es POSITIVA y no es crítico (es el factor protector).
  */
 describe('IntentosService · detectarSenalesCriticas', () => {
-  const svc = new IntentosService({} as any, {} as any);
+  const svc = new IntentosService({} as any, {} as any, {} as any);
 
   const detectar = (respuestas: any[], tipo = 'personalidad') =>
     (svc as any).detectarSenalesCriticas(respuestas, tipo);

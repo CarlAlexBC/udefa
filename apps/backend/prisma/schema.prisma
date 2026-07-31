@@ -40,8 +40,26 @@ model Usuario {
   sesionesCompletas SesionExamenCompleto[]
   intentos          IntentoExamen[]
   repasos           RepasoReactivo[]
+  accesos           Acceso[]
   createdAt         DateTime               @default(now())
   updatedAt         DateTime               @updatedAt
+}
+
+/// Acceso de un usuario a un módulo de pago, por convocatoria.
+/// El candado del backend da acceso si existe una fila del módulo y `expiraEn`
+/// no ha pasado. El "Pack Completa" crea dos filas (cultural + psicologico).
+model Acceso {
+  id         Int       @id @default(autoincrement())
+  usuarioId  Int
+  usuario    Usuario   @relation(fields: [usuarioId], references: [id])
+  modulo     String // 'cultural' | 'psicologico'
+  ciclo      String // convocatoria, p. ej. '2027'
+  expiraEn   DateTime? // fin de la convocatoria; null = sin caducidad
+  otorgadoEn DateTime  @default(now())
+  origen     String    @default("manual") // 'manual' | 'mercadopago' | 'cortesia'
+
+  @@unique([usuarioId, modulo, ciclo])
+  @@index([usuarioId])
 }
 
 model Sesion {

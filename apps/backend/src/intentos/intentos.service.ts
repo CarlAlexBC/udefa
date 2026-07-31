@@ -6,12 +6,14 @@ import {
 } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { RepasosService } from '../repasos/repasos.service';
+import { AccesoService } from '../acceso/acceso.service';
 
 @Injectable()
 export class IntentosService {
   constructor(
     private prisma: PrismaService,
     private repasos: RepasosService,
+    private acceso: AccesoService,
   ) {}
 
   /**
@@ -43,6 +45,24 @@ export class IntentosService {
     });
     if (!examen) {
       throw new NotFoundException('Examen no encontrado');
+    }
+
+    // Candado de acceso: si el examen pertenece a un módulo de pago y el
+    // candado está encendido, exige acceso vigente. Con el candado apagado
+    // (default) esto no bloquea nada. El front lee `code: 'SIN_ACCESO'` para
+    // mandar al aspirante a /precios.
+    const modulo = this.acceso.moduloDeExamen(examen.tipo);
+    if (
+      modulo &&
+      this.acceso.candadoActivo() &&
+      !(await this.acceso.tieneAcceso(usuarioId, modulo))
+    ) {
+      throw new ForbiddenException({
+        message:
+          'Necesitas comprar este módulo para empezar el simulador. Ve a /precios.',
+        code: 'SIN_ACCESO',
+        modulo,
+      });
     }
 
     return this.prisma.intentoExamen.create({
