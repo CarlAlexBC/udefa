@@ -5,11 +5,14 @@ import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
 import {
   AlertCircle,
+  Check,
   CheckCircle2,
+  KeyRound,
   Loader2,
   Save,
   Search,
   Shield,
+  Trash2,
   X,
 } from 'lucide-react'
 
@@ -37,8 +40,31 @@ type RespuestaUsuarios = {
 type Plantel = { id: number; nombre: string }
 type EstadoGuardado = 'idle' | 'saving' | 'saved' | 'error'
 
+/** Un acceso a un módulo de pago (fila de la tabla Acceso del backend). */
+type Acceso = {
+  id: number
+  modulo: string
+  ciclo: string
+  expiraEn: string | null
+  otorgadoEn: string
+  origen: string
+}
+
 const PAGE_SIZE = 50
 const SEARCH_DEBOUNCE_MS = 400
+
+// Convocatoria vigente y hasta cuándo dura el acceso otorgado a mano — mismos
+// valores que usa el backend al aprobarse un pago (PagosService).
+const CICLO_ACTUAL = '2027'
+const FIN_CONVOCATORIA = '2027-06-30T23:59:59'
+const MODULOS_ACCESO: Array<{ key: string; label: string; desc: string }> = [
+  { key: 'cultural', label: 'Cultural', desc: 'Simulador cultural del plantel' },
+  {
+    key: 'psicologico',
+    label: 'Psicológica',
+    desc: 'Psicométrico, Personalidad y Axiológico',
+  },
+]
 
 /* ═══════════════════════════════════════════════════════════
    Página
@@ -62,6 +88,10 @@ export default function UsuariosAdminPage() {
     userId: number
     userNombre: string
   } | null>(null)
+  // Usuario cuyo acceso se está gestionando en el modal (null = cerrado).
+  const [gestionandoAcceso, setGestionandoAcceso] = useState<UsuarioAdmin | null>(
+    null,
+  )
 
   const ultimoRequestId = useRef(0)
   const timers = useRef<Record<number, ReturnType<typeof setTimeout>>>({})
@@ -267,6 +297,7 @@ export default function UsuariosAdminPage() {
                   <th className="px-3 py-2 font-semibold">Rol</th>
                   <th className="px-3 py-2 font-semibold">Actividad</th>
                   <th className="px-3 py-2 font-semibold">Registro</th>
+                  <th className="px-3 py-2 font-semibold">Acceso</th>
                   <th className="px-3 py-2 font-semibold text-right">Estado</th>
                 </tr>
               </thead>
@@ -334,6 +365,16 @@ export default function UsuariosAdminPage() {
                         month: 'short',
                         year: '2-digit',
                       })}
+                    </td>
+                    <td className="px-3 py-3">
+                      <button
+                        type="button"
+                        onClick={() => setGestionandoAcceso(u)}
+                        className="inline-flex items-center gap-1.5 rounded-md border border-border px-2.5 py-1 text-xs font-medium text-foreground transition-colors hover:border-accent hover:text-accent"
+                      >
+                        <KeyRound className="h-3 w-3" />
+                        Gestionar
+                      </button>
                     </td>
                     <td className="px-3 py-3 text-right">
                       <IndicadorGuardado
@@ -409,6 +450,200 @@ export default function UsuariosAdminPage() {
           </div>
         </div>
       )}
+
+      {/* Modal para dar/quitar acceso a los módulos de pago a mano */}
+      {gestionandoAcceso && (
+        <ModalAcceso
+          usuario={gestionandoAcceso}
+          onClose={() => setGestionandoAcceso(null)}
+        />
+      )}
+    </div>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Modal: dar/quitar acceso a los módulos de pago (ventas por fuera,
+   cortesías). Usa POST /acceso, GET /acceso/usuario/:id y DELETE /acceso/:id.
+   ═══════════════════════════════════════════════════════════ */
+
+function ModalAcceso({
+  usuario,
+  onClose,
+}: {
+  usuario: UsuarioAdmin
+  onClose: () => void
+}) {
+  const [accesos, setAccesos] = useState<Acceso[] | null>(null)
+  const [error, setError] = useState('')
+  // Módulo en proceso (otorgando o quitando), para deshabilitar su botón.
+  const [trabajando, setTrabajando] = useState<string | null>(null)
+
+  const cargar = useCallback(() => {
+    setError('')
+    apiFetch<Acceso[]>(`/acceso/usuario/${usuario.id}`)
+      .then(setAccesos)
+      .catch((err) => setError((err as Error).message))
+  }, [usuario.id])
+
+  useEffect(() => {
+    cargar()
+  }, [cargar])
+
+  // El acceso VIGENTE (no caducado) de un módulo, o undefined si no lo tiene.
+  function accesoVigente(modulo: string): Acceso | undefined {
+    const ahora = Date.now()
+    return (accesos ?? []).find(
+      (a) =>
+        a.modulo === modulo &&
+        (a.expiraEn === null || new Date(a.expiraEn).getTime() > ahora),
+    )
+  }
+
+  async function otorgar(modulo: string) {
+    setTrabajando(modulo)
+    setError('')
+    try {
+      await apiFetch('/acceso', {
+        method: 'POST',
+        body: {
+          usuarioId: usuario.id,
+          modulos: [modulo],
+          ciclo: CICLO_ACTUAL,
+          expiraEn: FIN_CONVOCATORIA,
+          origen: 'manual',
+        },
+      })
+      cargar()
+    } catch (err) {
+      setError((err as Error).message)
+    } finally {
+      setTrabajando(null)
+    }
+  }
+
+  async function quitar(id: number, modulo: string) {
+    setTrabajando(modulo)
+    setError('')
+    try {
+      await apiFetch(`/acceso/${id}`, { method: 'DELETE' })
+      cargar()
+    } catch (err) {
+      setError((err as Error).message)
+    } finally {
+      setTrabajando(null)
+    }
+  }
+
+  return (
+    <div
+      role="dialog"
+      aria-modal="true"
+      className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4"
+      onClick={onClose}
+    >
+      <div
+        className="w-full max-w-md rounded-xl border border-border bg-card p-6 shadow-lg"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <div className="mb-1 flex items-center gap-2">
+          <KeyRound className="h-5 w-5 text-accent" />
+          <h3 className="text-lg font-semibold text-foreground">
+            Acceso a módulos
+          </h3>
+        </div>
+        <p className="mb-4 text-sm text-muted-foreground">
+          <span className="font-semibold text-foreground">{usuario.nombre}</span> ·{' '}
+          {usuario.email}
+        </p>
+
+        {error && (
+          <div className="mb-3 flex items-start gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-2.5">
+            <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-destructive" />
+            <p className="text-xs text-destructive">{error}</p>
+          </div>
+        )}
+
+        {accesos === null && !error ? (
+          <div className="flex items-center gap-2 py-6 text-sm text-muted-foreground">
+            <Loader2 className="h-4 w-4 animate-spin" />
+            Cargando acceso…
+          </div>
+        ) : (
+          <div className="space-y-3">
+            {MODULOS_ACCESO.map((m) => {
+              const vig = accesoVigente(m.key)
+              const enProceso = trabajando === m.key
+              return (
+                <div
+                  key={m.key}
+                  className="flex items-center justify-between gap-3 rounded-lg border border-border p-3"
+                >
+                  <div className="min-w-0">
+                    <p className="font-semibold text-foreground">{m.label}</p>
+                    {vig ? (
+                      <p className="text-xs text-muted-foreground">
+                        {vig.origen === 'mercadopago' ? 'Pagado' : 'Manual'} · vence{' '}
+                        {vig.expiraEn
+                          ? new Date(vig.expiraEn).toLocaleDateString('es-MX', {
+                              day: '2-digit',
+                              month: 'short',
+                              year: 'numeric',
+                            })
+                          : 'sin caducidad'}
+                      </p>
+                    ) : (
+                      <p className="text-xs text-muted-foreground">{m.desc}</p>
+                    )}
+                  </div>
+                  {vig ? (
+                    <button
+                      type="button"
+                      disabled={enProceso}
+                      onClick={() => quitar(vig.id, m.key)}
+                      className="inline-flex shrink-0 items-center gap-1 rounded-md border border-destructive/40 px-2.5 py-1.5 text-xs font-semibold text-destructive transition-colors hover:bg-destructive/10 disabled:opacity-50"
+                    >
+                      {enProceso ? (
+                        <Loader2 className="h-3 w-3 animate-spin" />
+                      ) : (
+                        <Trash2 className="h-3 w-3" />
+                      )}
+                      Quitar
+                    </button>
+                  ) : (
+                    <button
+                      type="button"
+                      disabled={enProceso}
+                      onClick={() => otorgar(m.key)}
+                      className="inline-flex shrink-0 items-center gap-1 rounded-md bg-accent px-2.5 py-1.5 text-xs font-semibold text-accent-foreground transition-opacity hover:opacity-90 disabled:opacity-50"
+                    >
+                      {enProceso ? (
+                        <Loader2 className="h-3 w-3 animate-spin" />
+                      ) : (
+                        <Check className="h-3 w-3" />
+                      )}
+                      Dar acceso
+                    </button>
+                  )}
+                </div>
+              )
+            })}
+          </div>
+        )}
+
+        <div className="mt-5 flex items-center justify-between">
+          <p className="text-[11px] text-muted-foreground">
+            Convocatoria {CICLO_ACTUAL}
+          </p>
+          <button
+            type="button"
+            onClick={onClose}
+            className="rounded-md border border-border px-3 py-1.5 text-sm text-muted-foreground hover:bg-muted"
+          >
+            Cerrar
+          </button>
+        </div>
+      </div>
     </div>
   )
 }
