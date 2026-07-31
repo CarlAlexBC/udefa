@@ -42,15 +42,23 @@ export default function Home() {
               </div>
               <span className="font-semibold">El Monote te Guía</span>
             </Link>
-            <Link
-              href="/login"
-              className={cn(
-                buttonVariants({ variant: "outline", size: "sm" }),
-                "border-border/40 bg-transparent text-primary-foreground hover:bg-card/10 hover:text-primary-foreground"
-              )}
-            >
-              Iniciar sesión
-            </Link>
+            <div className="flex items-center gap-2">
+              <Link
+                href="/precios"
+                className="hidden px-3 py-1.5 text-sm font-medium text-primary-foreground/90 transition-colors hover:text-primary-foreground sm:inline-flex"
+              >
+                Paquetes
+              </Link>
+              <Link
+                href="/login"
+                className={cn(
+                  buttonVariants({ variant: "outline", size: "sm" }),
+                  "border-border/40 bg-transparent text-primary-foreground hover:bg-card/10 hover:text-primary-foreground"
+                )}
+              >
+                Iniciar sesión
+              </Link>
+            </div>
           </nav>
 
           <div className="grid grid-cols-1 gap-10 py-16 md:grid-cols-[1.3fr_1fr] md:items-center md:py-24">

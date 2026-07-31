@@ -69,9 +69,9 @@ export default function ReembolsosPage() {
 
       <DocSeccion titulo="Excepciones">
         <DocParrafo>
-          No se reembolsan renovaciones de suscripción ya iniciadas ni compras con
-          más de la ventana indicada de antigüedad, salvo falla técnica atribuible
-          a la plataforma que impida el acceso y que no podamos resolver.
+          No se reembolsan compras con más de la ventana indicada de antigüedad ni
+          el acceso ya consumido de una convocatoria en curso, salvo falla técnica
+          atribuible a la plataforma que impida el acceso y que no podamos resolver.
         </DocParrafo>
       </DocSeccion>
 

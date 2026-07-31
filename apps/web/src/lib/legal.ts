@@ -24,10 +24,12 @@ export const LEGAL = {
   titular: 'Carlo Alexander',
 
   /**
-   * Identidad fiscal: si operas como persona física con actividad empresarial
-   * o como empresa (razón social + RFC). Afecta a Aviso legal y Términos.
+   * Identidad fiscal. Escenario elegido: persona física con actividad
+   * empresarial (RESICO). Cuando te des de alta en el SAT, sustituye el
+   * marcador por tu nombre completo + RFC, p. ej.:
+   *   'Carlo Alexander [Apellidos], persona física con actividad empresarial (RESICO), RFC XXXX000000XX0'
    */
-  identidadFiscal: POR_COMPLETAR('persona física o razón social + RFC'),
+  identidadFiscal: POR_COMPLETAR('persona física con actividad empresarial (RESICO): nombre completo + RFC'),
 
   /** Correo de contacto que se publica en los documentos (soporte/privacidad). */
   correoContacto: POR_COMPLETAR('correo de contacto público, p. ej. contacto@tudominio.com'),
@@ -52,8 +54,8 @@ export const LEGAL = {
   reembolsos: {
     /** Días para solicitar reembolso tras la compra. '0' = sin reembolso. */
     ventanaDias: POR_COMPLETAR('días de ventana de reembolso, p. ej. 7, o 0 si no aplica'),
-    /** Proveedor de pagos, para nombrarlo en privacidad/términos. */
-    proveedorPagos: POR_COMPLETAR('proveedor de pagos, p. ej. Stripe / Mercado Pago'),
+    /** Proveedor de pagos. Decidido: Mercado Pago (integración Checkout Pro). */
+    proveedorPagos: 'Mercado Pago',
   },
 
   /**

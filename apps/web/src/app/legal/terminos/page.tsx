@@ -81,9 +81,11 @@ export default function TerminosPage() {
 
       <DocSeccion titulo="5. Pagos, planes y acceso">
         <DocParrafo>
-          Algunos contenidos requieren pago. Los módulos y su modalidad (por
-          ejemplo, pago único o suscripción anual) se indican al momento de la
-          compra. El cobro se procesa a través de{' '}
+          Algunos contenidos requieren pago. Los módulos de pago se adquieren
+          mediante un pago único y el acceso permanece activo hasta el cierre de
+          la convocatoria vigente al momento de la compra; no son una suscripción
+          con renovación automática. Su modalidad y alcance se indican al momento
+          de la compra. El cobro se procesa a través de{' '}
           <DatoLegal valor={LEGAL.reembolsos.proveedorPagos} />. Las condiciones
           de devolución se detallan en la{' '}
           <a className="text-accent hover:underline" href="/legal/reembolsos">
