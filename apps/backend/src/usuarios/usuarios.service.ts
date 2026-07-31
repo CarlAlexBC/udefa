@@ -7,6 +7,7 @@ import {
 import { PrismaService } from '../prisma/prisma.service';
 import { CrearUsuarioDto } from './dto/crear-usuario.dto';
 import * as bcrypt from 'bcrypt';
+import { Prisma } from '@prisma/client';
 
 const ROLES_VALIDOS = ['aspirante', 'admin'] as const;
 type Rol = (typeof ROLES_VALIDOS)[number];
@@ -45,6 +46,65 @@ export class UsuariosService {
 
     const { password: _password, ...usuarioSinPassword } = nuevoUsuario;
     return usuarioSinPassword;
+  }
+
+  /**
+   * Crea (o reutiliza) una cuenta en estado PENDIENTE para el flujo
+   * "datos y luego pagar". No recibe plantel: se elige después de entrar.
+   * - Si el correo ya tiene cuenta ACTIVA → pide iniciar sesión (no duplica).
+   * - Si quedó una cuenta PENDIENTE de un intento anterior → la reutiliza con
+   *   los datos nuevos, para que el aspirante pueda reintentar el pago.
+   * La activa PagosService cuando el pago se aprueba (ver `activar`).
+   */
+  async crearPendienteParaCompra(datos: {
+    nombre: string;
+    email: string;
+    password: string;
+  }) {
+    const existente = await this.prisma.usuario.findUnique({
+      where: { email: datos.email },
+    });
+    const passwordEncriptada = await bcrypt.hash(datos.password, 10);
+
+    if (existente) {
+      // `estado` existe en la BD tras la migración; el cliente Prisma puede no
+      // reflejarlo hasta correr `prisma generate` (mismo caso que `rol`).
+      const estado = (existente as { estado?: string }).estado ?? 'ACTIVA';
+      if (estado === 'ACTIVA') {
+        throw new ConflictException(
+          'Ese correo ya tiene una cuenta activa. Inicia sesión para comprar.',
+        );
+      }
+      // Cuenta PENDIENTE de un intento previo: la reutilizamos con los datos nuevos.
+      return this.prisma.usuario.update({
+        where: { id: existente.id },
+        data: {
+          nombre: datos.nombre,
+          password: passwordEncriptada,
+          estado: 'PENDIENTE',
+        } as unknown as Prisma.UsuarioUpdateInput,
+      });
+    }
+
+    return this.prisma.usuario.create({
+      data: {
+        nombre: datos.nombre,
+        email: datos.email,
+        password: passwordEncriptada,
+        estado: 'PENDIENTE',
+      } as unknown as Prisma.UsuarioCreateInput,
+    });
+  }
+
+  /**
+   * Marca una cuenta como ACTIVA. La llama PagosService cuando el pago se
+   * aprueba. Idempotente: activar una cuenta ya activa no hace daño.
+   */
+  async activar(usuarioId: number) {
+    return this.prisma.usuario.update({
+      where: { id: usuarioId },
+      data: { estado: 'ACTIVA' } as unknown as Prisma.UsuarioUpdateInput,
+    });
   }
 
   /**

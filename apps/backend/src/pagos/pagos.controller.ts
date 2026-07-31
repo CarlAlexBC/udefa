@@ -8,6 +8,7 @@ import {
 } from '@nestjs/common';
 import { PagosService } from './pagos.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
+import { RegistrarYPagarDto } from './dto/registrar-y-pagar.dto';
 import {
   UsuarioActual,
   type UsuarioAutenticado,
@@ -29,6 +30,16 @@ export class PagosController {
     @Body() datos: { paquete: string },
   ) {
     return this.pagosService.crearPreferencia(usuario.id, datos.paquete);
+  }
+
+  /**
+   * Flujo de invitado "datos y luego pagar": crea la cuenta en PENDIENTE con los
+   * datos del aspirante y devuelve el checkout. PÚBLICO — todavía no hay sesión.
+   * La cuenta se activa cuando el pago se aprueba (webhook / confirmar).
+   */
+  @Post('registrar-y-pagar')
+  registrarYPagar(@Body() datos: RegistrarYPagarDto) {
+    return this.pagosService.registrarYPagar(datos);
   }
 
   /**

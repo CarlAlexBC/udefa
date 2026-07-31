@@ -6,6 +6,7 @@ import {
 } from '@nestjs/common';
 import { MercadoPagoConfig, Preference, Payment } from 'mercadopago';
 import { AccesoService } from '../acceso/acceso.service';
+import { UsuariosService } from '../usuarios/usuarios.service';
 
 /** Convocatoria vigente y hasta cuándo dura el acceso comprado. Ajustable. */
 const CICLO = '2027';
@@ -32,7 +33,10 @@ export class PagosService {
     accessToken: process.env.MERCADOPAGO_ACCESS_TOKEN ?? '',
   });
 
-  constructor(private acceso: AccesoService) {}
+  constructor(
+    private acceso: AccesoService,
+    private usuarios: UsuariosService,
+  ) {}
 
   private frontendUrl(): string {
     return process.env.FRONTEND_URL ?? 'http://localhost:3000';
@@ -96,6 +100,33 @@ export class PagosService {
   }
 
   /**
+   * Flujo "datos y luego pagar" (invitado): crea (o reutiliza) una cuenta
+   * PENDIENTE con los datos del aspirante y le arma el checkout del paquete. La
+   * cuenta se activa sola cuando el pago se apruebe (ver procesarPago). No exige
+   * login: es la puerta de entrada de quien todavía no tiene cuenta.
+   */
+  async registrarYPagar(datos: {
+    nombre: string;
+    email: string;
+    password: string;
+    paquete: string;
+  }) {
+    // Validamos el paquete ANTES de crear la cuenta, para no dejar cuentas
+    // PENDIENTE colgando por un paquete inexistente.
+    if (!PAQUETES[datos.paquete as Paquete]) {
+      throw new BadRequestException(
+        `Paquete inválido: "${datos.paquete}". Válidos: ${Object.keys(PAQUETES).join(', ')}`,
+      );
+    }
+    const usuario = await this.usuarios.crearPendienteParaCompra({
+      nombre: datos.nombre,
+      email: datos.email,
+      password: datos.password,
+    });
+    return this.crearPreferencia(usuario.id, datos.paquete);
+  }
+
+  /**
    * Procesa un aviso de pago (webhook). Consulta el pago en Mercado Pago y, si
    * está aprobado, otorga el acceso del paquete comprado. Es idempotente: si el
    * aviso llega varias veces, `AccesoService.otorgar` no duplica nada.
@@ -146,6 +177,9 @@ export class PagosService {
       FIN_CONVOCATORIA,
       'mercadopago',
     );
+    // Si la cuenta se creó en PENDIENTE por el flujo "datos y luego pagar", al
+    // aprobarse el pago se activa. Idempotente para cuentas que ya estaban activas.
+    await this.usuarios.activar(datos.usuarioId);
     this.logger.log(
       `Acceso otorgado a usuario ${datos.usuarioId} [${paqueteInfo.modulos.join(', ')}] por el pago ${paymentId}.`,
     );
