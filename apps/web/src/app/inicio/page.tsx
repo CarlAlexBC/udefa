@@ -16,11 +16,19 @@ import {
   Brain,
   CheckCircle2,
   Loader2,
+  Lock,
   Repeat,
   Scale,
   Star,
   UserCircle,
 } from 'lucide-react'
+
+/**
+ * Estado del candado (muro de pago) para el usuario. `candadoActivo` dice si el
+ * muro está encendido; si está apagado, no se pinta ningún candado porque todo
+ * está abierto. `modulos` son los módulos de pago ya desbloqueados.
+ */
+type Acceso = { candadoActivo: boolean; modulos: string[] }
 
 /* ═══════════════════════════════════════════════════════════
    Tipos
@@ -61,6 +69,8 @@ type ExamenDisponible = {
 export default function InicioPage() {
   const [perfil, setPerfil] = useState<Perfil | null>(null)
   const [examenes, setExamenes] = useState<ExamenDisponible[]>([])
+  // Por defecto, candado apagado: si la consulta falla, NO bloqueamos nada.
+  const [acceso, setAcceso] = useState<Acceso>({ candadoActivo: false, modulos: [] })
   const [error, setError] = useState('')
 
   const cargarPerfil = useCallback(() => {
@@ -76,6 +86,14 @@ export default function InicioPage() {
     apiFetch<ExamenDisponible[]>('/examenes')
       .then(setExamenes)
       .catch(() => setExamenes([]))
+  }, [])
+
+  // Estado del candado, para saber qué módulos mostrar bloqueados. Si falla,
+  // se queda el default (candado apagado = todo abierto).
+  useEffect(() => {
+    apiFetch<Acceso>('/acceso/mios')
+      .then(setAcceso)
+      .catch(() => {})
   }, [])
 
   useEffect(() => {
@@ -128,6 +146,12 @@ export default function InicioPage() {
             (e) => e.tipo === 'cultural' && e.plantelId === perfil.plantel!.id,
           ) ?? null
         }
+        bloqueadoCultural={
+          acceso.candadoActivo && !acceso.modulos.includes('cultural')
+        }
+        bloqueadoPsico={
+          acceso.candadoActivo && !acceso.modulos.includes('psicologico')
+        }
       />
     </div>
   )
@@ -141,11 +165,17 @@ function Dashboard({
   perfil,
   plantel,
   examenCultural,
+  bloqueadoCultural,
+  bloqueadoPsico,
 }: {
   perfil: Perfil
   plantel: Plantel
   /** El examen cultural de ESTE plantel, o null si todavía no existe. */
   examenCultural: ExamenDisponible | null
+  /** El candado está activo y al usuario le falta comprar el módulo cultural. */
+  bloqueadoCultural: boolean
+  /** El candado está activo y al usuario le falta comprar el módulo psicológico. */
+  bloqueadoPsico: boolean
 }) {
   // Materias del examen cultural de ESTE plantel (Biología/Química/Física/Álgebra
   // en las escuelas de sanidad, Español/Álgebra/Historia/Geografía en el HCM).
@@ -193,6 +223,7 @@ function Dashboard({
               : `El examen cultural cambia según la escuela. El banco del ${plantel.nombre} todavía está en preparación.`
           }
           icono={<BookOpen className="h-6 w-6 text-accent" />}
+          bloqueado={bloqueadoCultural}
         />
         <SimuladorCompletoCTA
           href="/inicio/sesion"
@@ -200,6 +231,7 @@ function Dashboard({
           titulo="Las 3 fases seguidas, como en el examen real"
           descripcion="Psicométrico → Personalidad → Axiológico. Sin pausa entre fases. Al final ves resultados agregados y coherencia global."
           icono={<Star className="h-6 w-6 text-accent" />}
+          bloqueado={bloqueadoPsico}
         />
       </section>
 
@@ -221,6 +253,7 @@ function Dashboard({
             titulo="Psicométrico"
             descripcion="4 bloques de 10 min con temporizador. Analogías, sinónimos, razonamiento lógico y abstracto."
             icono={<Brain className="h-5 w-5 text-accent" />}
+            bloqueado={bloqueadoPsico}
           />
           <ExamenCTA
             href="/inicio/simulador/2"
@@ -228,6 +261,7 @@ function Dashboard({
             titulo="Personalidad"
             descripcion="256 reactivos sobre rasgos de personalidad. No hay respuestas correctas: el sistema mide la coherencia de tu perfil."
             icono={<UserCircle className="h-5 w-5 text-accent" />}
+            bloqueado={bloqueadoPsico}
           />
           <ExamenCTA
             href="/inicio/simulador/3"
@@ -235,6 +269,7 @@ function Dashboard({
             titulo="Axiológico"
             descripcion="39 reactivos sobre valores militares. Responde con honestidad; se evalúa si tu perfil de valores encaja."
             icono={<Scale className="h-5 w-5 text-accent" />}
+            bloqueado={bloqueadoPsico}
           />
           {/* El simulador cultural completo vive arriba, con el psicológico.
               Este espacio queda para practicar UNA materia sin cronómetro,
@@ -299,12 +334,15 @@ function SimuladorCompletoCTA({
   titulo,
   descripcion,
   icono,
+  bloqueado = false,
 }: {
   href?: string
   etiqueta: string
   titulo: string
   descripcion: string
   icono: React.ReactNode
+  /** Candado activo y módulo sin comprar: la tarjeta lleva a /precios. */
+  bloqueado?: boolean
 }) {
   const contenido = (
     <>
@@ -321,6 +359,33 @@ function SimuladorCompletoCTA({
       </div>
     </>
   )
+
+  // Bloqueado por el muro de pago: en vez de entrar al simulador, invita a
+  // comprar. Sólo aplica si el examen existe (si no, gana "en preparación").
+  if (bloqueado && href) {
+    return (
+      <Link
+        href="/precios"
+        className="group relative flex items-center gap-5 overflow-hidden rounded-xl border-2 border-dashed border-accent/50 bg-card p-5 transition-colors hover:border-accent"
+      >
+        <div className="relative flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-muted">
+          <Lock className="h-5 w-5 text-muted-foreground" />
+        </div>
+        <div className="relative flex-1">
+          <p className="text-[10px] font-bold uppercase tracking-widest text-accent">
+            {etiqueta}
+          </p>
+          <h3 className="mt-0.5 text-lg font-semibold text-foreground">{titulo}</h3>
+          <p className="mt-1 text-xs text-muted-foreground">
+            Desbloquéalo con tu paquete. Toca para ver los precios.
+          </p>
+        </div>
+        <span className="relative hidden shrink-0 rounded-md bg-accent px-3 py-1.5 text-xs font-semibold text-accent-foreground md:inline-block">
+          Desbloquear
+        </span>
+      </Link>
+    )
+  }
 
   if (!href) {
     return (
@@ -351,6 +416,7 @@ function ExamenCTA({
   descripcion,
   icono,
   proximamente = false,
+  bloqueado = false,
 }: {
   /** Requerido solo si NO es próximamente. */
   href?: string
@@ -360,6 +426,8 @@ function ExamenCTA({
   icono: React.ReactNode
   /** Fase en desarrollo: renderiza card atenuada, no navegable, con badge. */
   proximamente?: boolean
+  /** Candado activo y módulo sin comprar: la tarjeta lleva a /precios. */
+  bloqueado?: boolean
 }) {
   if (proximamente) {
     return (
@@ -386,6 +454,35 @@ function ExamenCTA({
           Simulador en construcción
         </div>
       </div>
+    )
+  }
+
+  // Bloqueado por el muro de pago: lleva a /precios en vez de al simulador.
+  if (bloqueado) {
+    return (
+      <Link
+        href="/precios"
+        className="group flex flex-col rounded-xl border border-dashed border-accent/50 bg-card p-5 shadow-sm transition-colors hover:border-accent"
+      >
+        <div className="mb-3 flex items-center gap-2">
+          <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-muted">
+            {icono}
+          </div>
+          <span className="ml-auto inline-flex items-center gap-1 rounded-full border border-accent/40 bg-accent/10 px-2 py-0.5 text-[9px] font-bold uppercase tracking-widest text-accent">
+            <Lock className="h-2.5 w-2.5" />
+            Bloqueado
+          </span>
+        </div>
+        <p className="text-[10px] font-bold uppercase tracking-widest text-muted-foreground">
+          {fase}
+        </p>
+        <h3 className="mt-1 font-semibold text-foreground">{titulo}</h3>
+        <p className="mt-1 flex-1 text-sm text-muted-foreground">{descripcion}</p>
+        <div className="mt-3 flex items-center gap-1 text-xs font-semibold text-accent">
+          Desbloquear
+          <ArrowRight className="h-3 w-3 transition-transform group-hover:translate-x-0.5" />
+        </div>
+      </Link>
     )
   }
 

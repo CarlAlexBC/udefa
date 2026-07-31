@@ -21,10 +21,18 @@ import {
 export class AccesoController {
   constructor(private accesoService: AccesoService) {}
 
-  /** Los módulos que el usuario autenticado tiene desbloqueados ahora mismo. */
+  /**
+   * Estado de acceso del usuario autenticado, para pintar el candado en /inicio:
+   * - `candadoActivo`: si el muro de pago está encendido (si no, no hay candado
+   *   que mostrar porque todo está abierto).
+   * - `modulos`: los módulos de pago que tiene desbloqueados ahora mismo.
+   */
   @Get('mios')
-  mios(@UsuarioActual() usuario: UsuarioAutenticado) {
-    return this.accesoService.modulosVigentes(usuario.id);
+  async mios(@UsuarioActual() usuario: UsuarioAutenticado) {
+    return {
+      candadoActivo: this.accesoService.candadoActivo(),
+      modulos: await this.accesoService.modulosVigentes(usuario.id),
+    };
   }
 
   /* ═══════════════════════════════════════════════════════════

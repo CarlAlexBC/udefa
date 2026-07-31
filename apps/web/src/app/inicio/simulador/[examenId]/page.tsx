@@ -4,7 +4,7 @@ import { useEffect, useState, useRef, useCallback, use } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import Image from 'next/image'
-import { apiFetch } from '@/lib/api'
+import { apiFetch, ApiError } from '@/lib/api'
 import { AVISO_SIMULADOR } from '@/lib/legal'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
@@ -173,6 +173,13 @@ export default function SimuladorPage({
       inicioMsRef.current = Date.now()
       setEstado('instrucciones')
     } catch (err) {
+      // Candado de acceso: el backend niega el intento con code 'SIN_ACCESO'
+      // cuando el módulo es de pago y el aspirante no lo ha comprado. En vez de
+      // un error seco, lo mandamos a comprar.
+      if (err instanceof ApiError && err.code === 'SIN_ACCESO') {
+        router.push('/precios')
+        return
+      }
       setError((err as Error).message)
       setEstado('error')
     }
