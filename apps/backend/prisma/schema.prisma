@@ -35,6 +35,12 @@ model Usuario {
   /// El RolesGuard del backend lee este campo para gatear rutas del panel admin.
   rol               String                 @default("aspirante")
   emailVerificado   Boolean                @default(false)
+  /// Estado de la cuenta, para el flujo "datos y luego pagar": ACTIVA (default) =
+  /// cuenta normal; PENDIENTE = se creó al iniciar una compra pero el pago aún no
+  /// se aprueba (no recibe acceso; un limpiador la borra si nunca paga). Las
+  /// cuentas ya existentes quedan ACTIVA por el default: la migración no afecta a
+  /// nadie que ya exista.
+  estado            EstadoCuenta           @default(ACTIVA)
   plantelId         Int?
   plantel           Plantel?               @relation(fields: [plantelId], references: [id])
   sesionesCompletas SesionExamenCompleto[]
@@ -250,6 +256,11 @@ enum TipoTrampa {
   K
   F
   CROSS
+}
+
+enum EstadoCuenta {
+  PENDIENTE
+  ACTIVA
 }
 
 enum EstadoSesion {
