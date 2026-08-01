@@ -1,5 +1,6 @@
 'use client'
 
+import { useState } from 'react'
 import {
   RadarChart,
   PolarGrid,
@@ -8,18 +9,14 @@ import {
   Radar,
   LineChart,
   Line,
-  BarChart,
-  Bar,
   XAxis,
   YAxis,
   Tooltip,
   ResponsiveContainer,
-  Cell,
   ReferenceArea,
   ReferenceLine,
   CartesianGrid,
 } from 'recharts'
-import { cn } from '@/lib/utils'
 
 /**
  * Bloque de 3 gráficos para el PanelCalificable (psicométrico):
@@ -83,7 +80,7 @@ export function GraficosPsicometrico({
         <LineTiempos metricasTemporales={metricasTemporales} />
       </div>
 
-      {porTema.length > 1 && <BarTemas porTema={porTema} />}
+      {porTema.length > 1 && <ListaTemas porTema={porTema} />}
     </section>
   )
 }
@@ -169,7 +166,7 @@ function RadarBloques({ porBloque }: { porBloque: PorBloque[] }) {
    - Área sombreada de la segunda mitad si se detectó fatiga
    ═══════════════════════════════════════════════════════════ */
 
-function LineTiempos({
+export function LineTiempos({
   metricasTemporales,
 }: {
   metricasTemporales: MetricasTemporales
@@ -291,30 +288,37 @@ function LineTiempos({
 }
 
 /* ═══════════════════════════════════════════════════════════
-   3. Bar chart horizontal de temas por % de aciertos
-   Ordenado descendente. Colores según % (fortaleza / neutral / débil).
+   3. Lista de temas por % de aciertos
+   Un renglón por tema —nombre, barra de color y cifra— en lugar de
+   la gráfica de barras de recharts, que encimaba las etiquetas cuando
+   había muchos temas o nombres largos. De menor a mayor: lo primero
+   que hay que estudiar queda arriba. Acotada a los 12 con más error,
+   con opción de ver todos.
    ═══════════════════════════════════════════════════════════ */
 
-function BarTemas({ porTema }: { porTema: PorTema[] }) {
+function ListaTemas({ porTema }: { porTema: PorTema[] }) {
+  const [verTodos, setVerTodos] = useState(false)
+
   const datos = porTema
     .filter((t) => t.porcentaje !== null)
     .map((t) => ({
-      tema: t.tema.replace(/_/g, ' '),
+      tema: capitalizar(t.tema.replace(/_/g, ' ')),
       pct: t.porcentaje ?? 0,
-      aciertos: t.aciertos,
+      aciertos: t.aciertos ?? 0,
       respondidos: t.respondidos,
     }))
-    .sort((a, b) => b.pct - a.pct)
+    .sort((a, b) => a.pct - b.pct)
 
   if (datos.length === 0) {
     return null
   }
 
-  const colorPorPct = (pct: number) => {
-    if (pct >= 80) return 'var(--military)'
-    if (pct >= 60) return 'var(--accent)'
-    return 'var(--destructive)'
-  }
+  const TOPE = 12
+  const hayMas = datos.length > TOPE
+  const visibles = verTodos ? datos : datos.slice(0, TOPE)
+
+  const colorPorPct = (pct: number) =>
+    pct >= 80 ? 'var(--military)' : pct >= 60 ? 'var(--accent)' : 'var(--destructive)'
 
   return (
     <article className="rounded-xl border border-border bg-card p-5">
@@ -323,52 +327,45 @@ function BarTemas({ porTema }: { porTema: PorTema[] }) {
           Desempeño por tema
         </h3>
         <p className="text-xs text-muted-foreground">
-          Ordenado de mayor a menor · verde ≥80%, latón 60-79%, rojo &lt;60%
+          De menor a mayor aciertos · verde ≥80%, latón 60-79%, rojo &lt;60%
         </p>
       </div>
 
-      <div style={{ height: Math.max(180, datos.length * 32) }} className="w-full">
-        <ResponsiveContainer width="100%" height="100%">
-          <BarChart
-            data={datos}
-            layout="vertical"
-            margin={{ top: 5, right: 20, left: 20, bottom: 5 }}
-          >
-            <CartesianGrid strokeDasharray="3 3" stroke="var(--border)" opacity={0.3} horizontal={false} />
-            <XAxis
-              type="number"
-              domain={[0, 100]}
-              tick={{ fill: 'var(--muted-foreground)', fontSize: 10 }}
-              stroke="var(--border)"
-              unit="%"
-            />
-            <YAxis
-              type="category"
-              dataKey="tema"
-              tick={{ fill: 'var(--foreground)', fontSize: 11 }}
-              stroke="var(--border)"
-              width={120}
-            />
-            <Tooltip
-              contentStyle={{
-                backgroundColor: 'var(--card)',
-                border: '1px solid var(--border)',
-                borderRadius: '8px',
-                fontSize: '12px',
-              }}
-              formatter={(value, _n, item) => {
-                const p = item.payload as { aciertos: number; respondidos: number }
-                return [`${value}% (${p.aciertos}/${p.respondidos})`, 'Aciertos']
-              }}
-            />
-            <Bar dataKey="pct" radius={[0, 4, 4, 0]}>
-              {datos.map((d, i) => (
-                <Cell key={i} fill={colorPorPct(d.pct)} />
-              ))}
-            </Bar>
-          </BarChart>
-        </ResponsiveContainer>
-      </div>
+      <ul className="divide-y divide-border">
+        {visibles.map((d) => (
+          <li key={d.tema} className="flex items-center gap-3 py-2">
+            <span
+              className="min-w-0 truncate text-sm text-foreground"
+              style={{ flex: '0 0 42%' }}
+              title={d.tema}
+            >
+              {d.tema}
+            </span>
+            <span className="h-2 flex-1 overflow-hidden rounded-full bg-muted">
+              <span
+                className="block h-full rounded-full"
+                style={{ width: `${d.pct}%`, backgroundColor: colorPorPct(d.pct) }}
+              />
+            </span>
+            <span
+              className="shrink-0 text-right text-xs tabular-nums text-muted-foreground"
+              style={{ minWidth: 74 }}
+            >
+              {d.pct}% · {d.aciertos}/{d.respondidos}
+            </span>
+          </li>
+        ))}
+      </ul>
+
+      {hayMas && (
+        <button
+          type="button"
+          onClick={() => setVerTodos((v) => !v)}
+          className="mt-3 text-xs font-semibold text-accent hover:underline"
+        >
+          {verTodos ? 'Ver menos' : `Ver todos (${datos.length})`}
+        </button>
+      )}
     </article>
   )
 }
@@ -399,7 +396,12 @@ function acortarNombreBloque(nombre: string): string {
   return primeraPalabra.length > 10 ? primeraPalabra.slice(0, 10) : primeraPalabra
 }
 
-// cn se importa arriba pero no se usa directamente porque los cn dinámicos
-// van dentro de los props de Recharts. Referenciarlo aquí para no ensuciar
-// el diff con warnings de "unused import".
-export const _cnRef = cn
+/**
+ * Pone en mayúscula la primera letra del nombre del tema. Los temas vienen de
+ * BD en minúsculas y con guion bajo ("algebra_lineal"); tras cambiar "_" por
+ * espacio quedan en minúscula, y en la lista se veían feos empezando en minúscula.
+ */
+function capitalizar(texto: string): string {
+  if (!texto) return texto
+  return texto.charAt(0).toUpperCase() + texto.slice(1)
+}

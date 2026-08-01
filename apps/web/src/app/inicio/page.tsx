@@ -704,64 +704,110 @@ function SelectorPlantelLegacy({
   }
 
   return (
-    <main className="mx-auto flex max-w-lg flex-col items-center px-6 py-16 text-center">
-      <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-accent/10 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-accent">
-        Elige tu plantel
+    <main className="mx-auto max-w-4xl px-6 py-12">
+      {/* Encabezado */}
+      <div className="mx-auto mb-8 max-w-lg text-center">
+        <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-accent/10 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-accent">
+          <Star className="h-3 w-3" />
+          Elige tu plantel
+        </div>
+        <h1 className="mb-2 text-2xl font-semibold tracking-tight text-foreground">
+          Hola {nombre.split(' ')[0]}, todavía no tienes plantel asignado.
+        </h1>
+        <p className="text-sm text-muted-foreground">
+          Elige el plantel al que te preparas. Todo tu contenido (simulador, guía, resultados) se adapta a él.
+        </p>
       </div>
-      <h1 className="mb-2 text-2xl font-semibold text-foreground">
-        Hola {nombre.split(' ')[0]}, todavía no tienes plantel asignado.
-      </h1>
-      <p className="mb-8 text-sm text-muted-foreground">
-        Elige el plantel al que te preparas. Todo tu contenido (simulador, guía, resultados) se adapta a él.
-      </p>
 
-      <div className="w-full space-y-3">
-        {planteles.map((p) => (
-          <button
-            key={p.id}
-            type="button"
-            onClick={() => setPlantelId(p.id)}
-            className={cn(
-              'w-full rounded-lg border p-4 text-left transition-colors',
-              plantelId === p.id
-                ? 'border-primary bg-accent/10'
-                : 'border-border bg-card hover:bg-muted',
-            )}
-          >
-            <p className="font-semibold text-foreground">{p.nombre}</p>
-            <p className="mt-1 text-xs text-muted-foreground">
-              {p.descripcion}
-            </p>
-          </button>
-        ))}
+      {/* Rejilla de planteles — cada tarjeta con su escudo oficial */}
+      <div className="grid gap-3 sm:grid-cols-2">
+        {planteles.map((p) => {
+          const logoSrc = logoDePlantel(p.nombre)
+          const seleccionado = plantelId === p.id
+          return (
+            <button
+              key={p.id}
+              type="button"
+              onClick={() => setPlantelId(p.id)}
+              aria-pressed={seleccionado}
+              className={cn(
+                'group relative flex items-center gap-4 rounded-xl border p-4 text-left transition-all',
+                seleccionado
+                  ? 'border-accent bg-accent/5 shadow-sm ring-1 ring-accent'
+                  : 'border-border bg-card hover:border-accent/60 hover:bg-muted/40',
+              )}
+            >
+              {/* Palomita en la esquina cuando está elegido */}
+              {seleccionado && (
+                <CheckCircle2 className="absolute right-3 top-3 h-5 w-5 text-accent" />
+              )}
+
+              {/* Escudo (o placeholder si algún plantel no tuviera logo) */}
+              <div className="relative shrink-0">
+                <div
+                  aria-hidden="true"
+                  className="pointer-events-none absolute inset-0 -m-1 rounded-full bg-accent/20 opacity-0 blur-md transition-opacity group-hover:opacity-100"
+                />
+                {logoSrc ? (
+                  <div className="relative flex h-14 w-14 items-center justify-center overflow-hidden rounded-full bg-card ring-1 ring-accent/30">
+                    <Image
+                      src={logoSrc}
+                      alt={`Escudo de ${p.nombre}`}
+                      width={80}
+                      height={80}
+                      className="h-full w-full object-cover"
+                    />
+                  </div>
+                ) : (
+                  <div className="relative flex h-14 w-14 items-center justify-center rounded-full bg-military/15 ring-1 ring-accent/30">
+                    <Star className="h-6 w-6 text-accent" />
+                  </div>
+                )}
+              </div>
+
+              {/* Nombre + lema/descripción */}
+              <div className="min-w-0 flex-1">
+                <p className="font-semibold leading-snug text-foreground">
+                  {p.nombre}
+                </p>
+                <p className="mt-0.5 line-clamp-2 text-xs text-muted-foreground">
+                  {p.descripcion}
+                </p>
+              </div>
+            </button>
+          )
+        })}
       </div>
 
       {error && (
-        <div className="mt-4 flex w-full items-start gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-3 text-left">
+        <div className="mx-auto mt-6 flex max-w-md items-start gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-3 text-left">
           <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-destructive" />
           <p className="text-sm text-destructive">{error}</p>
         </div>
       )}
 
-      <Button
-        onClick={asignar}
-        disabled={loading || !plantelId}
-        className="mt-6 w-full"
-        size="lg"
-      >
-        {loading ? 'Guardando...' : 'Confirmar plantel'}
-        <ArrowRight className="ml-1 h-4 w-4" />
-      </Button>
+      {/* Confirmar — centrado, no del ancho de toda la rejilla */}
+      <div className="mx-auto mt-8 flex max-w-sm flex-col items-center">
+        <Button
+          onClick={asignar}
+          disabled={loading || !plantelId}
+          className="w-full"
+          size="lg"
+        >
+          {loading ? 'Guardando...' : 'Confirmar plantel'}
+          <ArrowRight className="ml-1 h-4 w-4" />
+        </Button>
 
-      <Link
-        href="/"
-        className={cn(
-          buttonVariants({ variant: 'ghost', size: 'sm' }),
-          'mt-4 text-xs text-muted-foreground',
-        )}
-      >
-        ← Salir sin elegir
-      </Link>
+        <Link
+          href="/"
+          className={cn(
+            buttonVariants({ variant: 'ghost', size: 'sm' }),
+            'mt-4 text-xs text-muted-foreground',
+          )}
+        >
+          ← Salir sin elegir
+        </Link>
+      </div>
     </main>
   )
 }

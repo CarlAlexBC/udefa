@@ -101,11 +101,6 @@ export function GraficosAutoevaluacion({
       {esAxiologico && analisisConsistencia.scoreCoincidenciaIdeal && (
         <GaugeCoincidencia scoreCI={analisisConsistencia.scoreCoincidenciaIdeal} />
       )}
-
-      {/* Radar de coherencia por tema — siempre útil para ver de un vistazo */}
-      {analisisConsistencia.porTema.length > 2 && (
-        <RadarCoherencia porTema={analisisConsistencia.porTema} />
-      )}
     </section>
   )
 }
@@ -160,7 +155,7 @@ const TEMA_A_EJE: Record<string, string> = {
   tolerancia_al_cambio: 'Adaptabilidad',
   seguimiento_ordenes: 'Adaptabilidad',
   // Cross
-  valores_militares: 'Valores militares',
+  valores_militares: 'Valores',
 }
 
 function RadarDimensiones({ porTema }: { porTema: AnalisisTema[] }) {
@@ -508,70 +503,6 @@ function GaugeCoincidencia({ scoreCI }: { scoreCI: ScoreCoincidenciaIdeal }) {
   )
 }
 
-/* ═══════════════════════════════════════════════════════════
-   Radar de coherencia por tema (funciona para ambos)
-   Muestra la coherencia individual de cada tema del examen.
-   Solo aparece si hay más de 2 temas.
-   ═══════════════════════════════════════════════════════════ */
-
-function RadarCoherencia({ porTema }: { porTema: AnalisisTema[] }) {
-  const datos = porTema
-    .filter((t) => t.totalReactivos >= 2)
-    .map((t) => ({
-      tema: t.tema.replace(/_/g, ' '),
-      coherencia: t.coherencia,
-    }))
-    .slice(0, 12) // limitamos a 12 temas para que el radar no se vea saturado
-
-  if (datos.length < 3) return null
-
-  return (
-    <article className="rounded-xl border border-border bg-card p-5">
-      <div className="mb-4">
-        <h3 className="text-sm font-semibold text-foreground">
-          Coherencia por tema evaluado
-        </h3>
-        <p className="text-xs text-muted-foreground">
-          {datos.length === 12
-            ? 'Los 12 temas con más reactivos evaluados en tu intento'
-            : `${datos.length} temas evaluados`}
-        </p>
-      </div>
-
-      <div className="h-80 w-full">
-        <ResponsiveContainer width="100%" height="100%">
-          <RadarChart data={datos} outerRadius="70%">
-            <PolarGrid stroke="var(--border)" />
-            <PolarAngleAxis
-              dataKey="tema"
-              tick={{ fill: 'var(--muted-foreground)', fontSize: 10 }}
-            />
-            <PolarRadiusAxis
-              angle={90}
-              domain={[0, 100]}
-              tick={{ fill: 'var(--muted-foreground)', fontSize: 9 }}
-              stroke="var(--border)"
-            />
-            <Radar
-              name="Coherencia"
-              dataKey="coherencia"
-              stroke="var(--accent)"
-              fill="var(--accent)"
-              fillOpacity={0.35}
-              strokeWidth={2}
-            />
-            <Tooltip
-              contentStyle={{
-                backgroundColor: 'var(--card)',
-                border: '1px solid var(--border)',
-                borderRadius: '8px',
-                fontSize: '12px',
-              }}
-              formatter={(value) => [`${value}%`, 'Coherencia']}
-            />
-          </RadarChart>
-        </ResponsiveContainer>
-      </div>
-    </article>
-  )
-}
+/* El radar de "Coherencia por tema" vivía aquí. Se quitó: encimaba los nombres
+   largos de los temas alrededor del radar y además repetía la lista limpia
+   "Consistencia por tema" que ya vive en la página de resultados. */

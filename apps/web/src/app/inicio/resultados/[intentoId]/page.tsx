@@ -10,10 +10,14 @@ import {
   ArrowRight,
   BookOpen,
   CheckCircle2,
+  ChevronRight,
+  Clock,
+  EyeOff,
   Loader2,
   Sparkles,
   TrendingDown,
   TrendingUp,
+  XCircle,
 } from 'lucide-react'
 import {
   type GuiaLink,
@@ -22,7 +26,7 @@ import {
   linkParaBloque,
   LINKS_FIJOS,
 } from '@/lib/diagnostico-links'
-import { GraficosPsicometrico } from '@/components/resultados/GraficosPsicometrico'
+import { GraficosPsicometrico, LineTiempos } from '@/components/resultados/GraficosPsicometrico'
 import { GraficosAutoevaluacion } from '@/components/resultados/GraficosAutoevaluacion'
 import {
   AlertaCriticaCard,
@@ -334,15 +338,21 @@ function PanelCalificable({ data }: { data: Resultados }) {
             d={data.diagnosticoCultural}
             aciertos={data.aciertos ?? 0}
             total={data.reactivosRespondidos}
+            porTema={data.porTema}
+            metricasTemporales={data.metricasTemporales}
           />
         )}
 
-        {/* Gráficos visuales del intento */}
-        <GraficosPsicometrico
-          porBloque={data.porBloque}
-          porTema={data.porTema}
-          metricasTemporales={data.metricasTemporales}
-        />
+        {/* Gráficos visuales — solo para el psicométrico. En el cultural, el
+            ritmo ya subió junto al techo y la lista de temas vive en "Qué
+            estudiar", así que esta sección (radar incluido) no se pinta. */}
+        {!data.diagnosticoCultural && (
+          <GraficosPsicometrico
+            porBloque={data.porBloque}
+            porTema={data.porTema}
+            metricasTemporales={data.metricasTemporales}
+          />
+        )}
 
         {/* CTA volver */}
         <div className="mt-10 flex justify-between border-t border-border pt-6">
@@ -452,12 +462,17 @@ function DiagnosticoCultural({
   d,
   aciertos,
   total,
+  porTema,
+  metricasTemporales,
 }: {
   d: DiagnosticoCultural
   aciertos: number
   total: number
+  porTema: PorTema[]
+  metricasTemporales: MetricasTemporales
 }) {
   const { dominado, fragil, confundido, sinVer } = d.cuadrantes
+  const hayRitmo = metricasTemporales.tiempoPorReactivoMs.length > 0
   const errores = total - aciertos
   const recuperables = confundido
 
@@ -592,144 +607,240 @@ function DiagnosticoCultural({
         )}
       </section>
 
-      {/* Plan por páginas */}
-      {d.libros.length > 0 && (
+      {/* Qué estudiar — un solo lugar: los temas de peor a mejor (antes vivían
+          también en "Los temas que se te atoraron" y en "Desempeño por tema",
+          duplicados) y, debajo, las páginas exactas de los libros. */}
+      {(porTema.length > 1 || d.libros.length > 0) && (
         <section className="mt-8">
           <h2 className="text-lg font-semibold tracking-tight text-foreground">
             Qué estudiar
           </h2>
           <p className="mt-1 max-w-2xl text-sm text-muted-foreground">
-            Tus errores llevados a las páginas exactas de los libros del temario.
-            Las marcadas en rojo son donde fallaste tres veces o más.
+            Tus temas de peor a mejor y las páginas exactas de los libros del
+            temario. En rojo, donde más fallaste. Todo lo que hay que repasar, en
+            un solo lugar.
           </p>
-          <div className="mt-4 divide-y divide-border rounded-xl border border-border bg-card">
-            {d.libros.map((l) => (
-              <div key={l.libro} className="p-5">
-                <div className="flex flex-wrap items-baseline justify-between gap-2">
-                  <h3 className="font-semibold text-foreground">{l.libro}</h3>
-                  <span className="text-xs text-muted-foreground tabular-nums">
-                    {l.errores} {l.errores === 1 ? 'error' : 'errores'} ·{' '}
-                    {l.rangos.length}{' '}
-                    {l.rangos.length === 1 ? 'tramo' : 'tramos'}
-                  </span>
-                </div>
-                <div className="mt-3 flex flex-wrap gap-2">
-                  {l.rangos.map((r) => (
-                    <span
-                      key={`${r.desde}-${r.hasta}`}
-                      className={cn(
-                        'rounded-md border px-2 py-1 text-xs font-semibold tabular-nums',
-                        r.errores >= 3
-                          ? 'border-destructive/40 bg-destructive/10 text-destructive'
-                          : 'border-accent/30 bg-accent/10 text-accent',
+          <div className="mt-4 rounded-xl border border-border bg-card p-5">
+            {porTema.length > 1 && <RenglonesTemas porTema={porTema} />}
+
+            {d.libros.length > 0 && (
+              <div className={cn(porTema.length > 1 && 'mt-5 border-t border-border pt-5')}>
+                {d.libros.map((l, i) => (
+                  <div
+                    key={l.libro}
+                    className={cn(i > 0 && 'mt-4 border-t border-border pt-4')}
+                  >
+                    <div className="flex flex-wrap items-baseline justify-between gap-2">
+                      <h4 className="font-semibold text-foreground">{l.libro}</h4>
+                      <span className="text-xs text-muted-foreground tabular-nums">
+                        {l.errores} {l.errores === 1 ? 'error' : 'errores'} ·{' '}
+                        {l.rangos.length}{' '}
+                        {l.rangos.length === 1 ? 'tramo' : 'tramos'}
+                      </span>
+                    </div>
+                    <div className="mt-3 flex flex-wrap gap-2">
+                      {l.rangos.map((r) => (
+                        <span
+                          key={`${r.desde}-${r.hasta}`}
+                          className={cn(
+                            'rounded-md border px-2 py-1 text-xs font-semibold tabular-nums',
+                            r.errores >= 3
+                              ? 'border-destructive/40 bg-destructive/10 text-destructive'
+                              : 'border-accent/30 bg-accent/10 text-accent',
+                          )}
+                        >
+                          {r.desde === r.hasta
+                            ? `p. ${r.desde}`
+                            : `pp. ${r.desde}–${r.hasta}`}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+        </section>
+      )}
+
+      {/* Lo que elegiste y lo que era (acordeón, todas cerradas) con el ritmo
+         del examen a un lado. El apartado de confusiones era largo; plegado
+         queda una lista corta que se abre al tocar cada renglón. */}
+      {(d.confusiones.length > 0 || hayRitmo) && (
+        <div
+          className={cn(
+            'mt-8 grid gap-4',
+            d.confusiones.length > 0 && hayRitmo && 'lg:grid-cols-2 lg:items-start',
+          )}
+        >
+          {d.confusiones.length > 0 && (
+            <section>
+              <h2 className="text-lg font-semibold tracking-tight text-foreground">
+                Lo que elegiste y lo que era
+              </h2>
+              <p className="mt-1 text-sm text-muted-foreground">
+                Los errores que más te costaron. Toca cada uno para abrirlo y ver
+                lo que dice el libro.
+              </p>
+              <div className="mt-4 flex flex-col gap-2">
+                {d.confusiones.map((c, i) => (
+                  <details
+                    key={i}
+                    className="group rounded-xl border border-border bg-card"
+                  >
+                    <summary className="flex cursor-pointer list-none items-center gap-2.5 px-4 py-3 [&::-webkit-details-marker]:hidden">
+                      <span className="h-2 w-2 shrink-0 rounded-full bg-destructive" />
+                      {c.tema && (
+                        <span className="shrink-0 text-[10px] font-semibold uppercase tracking-widest text-military">
+                          {c.tema}
+                        </span>
                       )}
-                    >
-                      {r.desde === r.hasta
-                        ? `p. ${r.desde}`
-                        : `pp. ${r.desde}–${r.hasta}`}
-                    </span>
-                  ))}
-                </div>
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
+                      <span className="min-w-0 flex-1 truncate text-sm text-foreground">
+                        {c.pregunta}
+                      </span>
+                      {c.dudo && (
+                        <span className="shrink-0 rounded-full border border-accent/40 bg-accent/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-accent">
+                          Dudaste
+                        </span>
+                      )}
+                      <ChevronRight className="h-4 w-4 shrink-0 text-muted-foreground transition-transform group-open:rotate-90" />
+                    </summary>
 
-      {/* Pares confundidos: qué eligió contra qué era */}
-      {d.confusiones.length > 0 && (
-        <section className="mt-8">
-          <h2 className="text-lg font-semibold tracking-tight text-foreground">
-            Lo que elegiste y lo que era
-          </h2>
-          <p className="mt-1 max-w-2xl text-sm text-muted-foreground">
-            Los errores que más te costaron, con las dos opciones enfrentadas y
-            lo que dice el libro. Aquí es donde se desenreda lo que tienes
-            cruzado.
-          </p>
-          <div className="mt-4 flex flex-col gap-3">
-            {d.confusiones.map((c, i) => (
-              <article
-                key={i}
-                className="rounded-xl border border-border bg-card p-5"
-              >
-                <div className="flex flex-wrap items-center gap-2">
-                  {c.tema && (
-                    <span className="text-[11px] font-semibold uppercase tracking-widest text-military">
-                      {c.tema}
-                    </span>
-                  )}
-                  {c.dudo && (
-                    <span className="rounded-full border border-accent/40 bg-accent/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-accent">
-                      Dudaste
-                    </span>
-                  )}
-                </div>
-
-                <p className="mt-2 text-sm font-medium leading-snug text-foreground">
-                  {c.pregunta}
-                </p>
-
-                <div className="mt-4 grid gap-2 sm:grid-cols-2">
-                  <div className="rounded-lg border border-destructive/30 bg-destructive/5 p-3">
-                    <p className="text-[10px] font-semibold uppercase tracking-widest text-destructive">
-                      Elegiste
-                    </p>
-                    <p className="mt-1 text-sm leading-relaxed text-foreground">
-                      {c.elegiste}
-                    </p>
-                  </div>
-                  <div className="rounded-lg border border-military/40 bg-military/5 p-3">
-                    <p className="text-[10px] font-semibold uppercase tracking-widest text-military">
-                      Era
-                    </p>
-                    <p className="mt-1 text-sm leading-relaxed text-foreground">
-                      {c.era}
-                    </p>
-                  </div>
-                </div>
-
-                {c.dice && (
-                  <div className="mt-3 border-l-2 border-l-accent pl-3">
-                    <p className="text-sm italic leading-relaxed text-muted-foreground">
-                      {c.dice}
-                    </p>
-                    {c.referencia && (
-                      <p className="mt-1 text-xs text-muted-foreground">
-                        {c.referencia}
+                    <div className="px-4 pb-4">
+                      <p className="text-sm font-medium leading-snug text-foreground">
+                        {c.pregunta}
                       </p>
-                    )}
-                  </div>
-                )}
-              </article>
-            ))}
-          </div>
-        </section>
+
+                      <div className="mt-4 grid gap-2">
+                        <div className="rounded-lg border border-destructive/30 bg-destructive/5 p-3">
+                          <p className="text-[10px] font-semibold uppercase tracking-widest text-destructive">
+                            Elegiste
+                          </p>
+                          <p className="mt-1 text-sm leading-relaxed text-foreground">
+                            {c.elegiste}
+                          </p>
+                        </div>
+                        <div className="rounded-lg border border-military/40 bg-military/5 p-3">
+                          <p className="text-[10px] font-semibold uppercase tracking-widest text-military">
+                            Era
+                          </p>
+                          <p className="mt-1 text-sm leading-relaxed text-foreground">
+                            {c.era}
+                          </p>
+                        </div>
+                      </div>
+
+                      {c.dice && (
+                        <div className="mt-3 border-l-2 border-l-accent pl-3">
+                          <p className="text-sm italic leading-relaxed text-muted-foreground">
+                            {c.dice}
+                          </p>
+                          {c.referencia && (
+                            <p className="mt-1 text-xs text-muted-foreground">
+                              {c.referencia}
+                            </p>
+                          )}
+                        </div>
+                      )}
+                    </div>
+                  </details>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {hayRitmo && <LineTiempos metricasTemporales={metricasTemporales} />}
+        </div>
       )}
 
-      {/* Subtemas con más errores */}
-      {d.subtemas.length > 0 && (
-        <section className="mt-8">
-          <h2 className="text-lg font-semibold tracking-tight text-foreground">
-            Los temas que se te atoraron
-          </h2>
-          <div className="mt-4 divide-y divide-border rounded-xl border border-border bg-card">
-            {d.subtemas.map((s) => (
-              <div
-                key={s.tema}
-                className="flex items-center justify-between gap-4 px-5 py-3"
-              >
-                <span className="text-sm text-foreground">{s.tema}</span>
-                <span className="shrink-0 rounded-full bg-destructive/10 px-2.5 py-0.5 text-xs font-semibold text-destructive tabular-nums">
-                  {s.errores} {s.errores === 1 ? 'error' : 'errores'}
-                </span>
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
+      {/* "Los temas que se te atoraron" vivía aquí (tema + N errores). Se fusionó
+         arriba, dentro de "Qué estudiar": era el mismo dato que "Desempeño por
+         tema", y verlo dos veces era parte del scroll de más. */}
     </>
   )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Renglones de desempeño por tema (para el examen cultural)
+   Un tema por renglón —nombre, barra de color y % · N errores—, de peor a
+   mejor: lo primero que hay que estudiar queda arriba. Acotado a los 12 con
+   más error, con "Ver todos". Vive dentro de "Qué estudiar".
+   ═══════════════════════════════════════════════════════════ */
+
+function RenglonesTemas({ porTema }: { porTema: PorTema[] }) {
+  const [verTodos, setVerTodos] = useState(false)
+
+  const datos = porTema
+    .filter((t) => t.porcentaje !== null)
+    .map((t) => ({
+      tema: capitalizar(t.tema.replace(/_/g, ' ')),
+      pct: t.porcentaje ?? 0,
+      errores: Math.max(0, t.respondidos - (t.aciertos ?? 0)),
+    }))
+    .sort((a, b) => a.pct - b.pct)
+
+  if (datos.length === 0) return null
+
+  const TOPE = 12
+  const hayMas = datos.length > TOPE
+  const visibles = verTodos ? datos : datos.slice(0, TOPE)
+
+  const colorPorPct = (pct: number) =>
+    pct >= 80 ? 'var(--military)' : pct >= 60 ? 'var(--accent)' : 'var(--destructive)'
+
+  return (
+    <div>
+      <ul className="divide-y divide-border">
+        {visibles.map((d) => (
+          <li key={d.tema} className="flex items-center gap-3 py-2">
+            <span
+              className="min-w-0 truncate text-sm text-foreground"
+              style={{ flex: '0 0 42%' }}
+              title={d.tema}
+            >
+              {d.tema}
+            </span>
+            <span className="h-2 flex-1 overflow-hidden rounded-full bg-muted">
+              <span
+                className="block h-full rounded-full"
+                style={{ width: `${d.pct}%`, backgroundColor: colorPorPct(d.pct) }}
+              />
+            </span>
+            <span
+              className="shrink-0 text-right text-xs tabular-nums text-muted-foreground"
+              style={{ minWidth: 88 }}
+            >
+              {d.pct}%
+              {d.errores > 0 && (
+                <>
+                  {' · '}
+                  <span className="font-semibold text-destructive">
+                    {d.errores} err
+                  </span>
+                </>
+              )}
+            </span>
+          </li>
+        ))}
+      </ul>
+
+      {hayMas && (
+        <button
+          type="button"
+          onClick={() => setVerTodos((v) => !v)}
+          className="mt-3 text-xs font-semibold text-accent hover:underline"
+        >
+          {verTodos ? 'Ver menos' : `Ver todos (${datos.length})`}
+        </button>
+      )}
+    </div>
+  )
+}
+
+/** Pone en mayúscula la primera letra. Los temas vienen de BD en minúscula. */
+function capitalizar(texto: string): string {
+  if (!texto) return texto
+  return texto.charAt(0).toUpperCase() + texto.slice(1)
 }
 
 function BloqueRow({ bloque }: { bloque: PorBloque }) {
