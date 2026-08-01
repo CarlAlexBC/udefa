@@ -54,9 +54,8 @@ Los ejemplos numéricos resueltos, los Ejercicios 265 a 274 y los procedimientos
 cálculo quedan fuera por la norma de teoría sobre práctica.
 
 **Pendiente:** ninguno de este capítulo. Para que **Álgebra quede cerrada para la
-EMMG** faltan todavía los capítulos **XXXVI (Ecuaciones binomias y trinomias)** y
-**XXXVIII (Logaritmos)**, que aún no tienen archivo; los capítulos VIII, X, XIV, XXIV
-y XXV que también pide ya están escritos.
+EMMG** falta todavía el capítulo **XXXVIII (Logaritmos)**, que aún no tiene archivo;
+los capítulos VIII, X, XIV, XXIV, XXV y XXXVI que también pide ya están escritos.
 
 ## Criterio: teoría sobre práctica
 
