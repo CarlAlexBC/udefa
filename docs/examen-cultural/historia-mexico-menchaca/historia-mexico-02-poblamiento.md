@@ -46,16 +46,17 @@ Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales 
 Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
 periodización de los horizontes culturales y los tres horizontes —Preclásico,
 Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
-y diez de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
+y once de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
 y 55), los **teotihuacanos** (Periodo Clásico, pp. 56–57), los **zapotecas** (Periodo
 Clásico, pp. 57–58), las **Culturas del Centro de Veracruz** (Periodo Clásico,
 pp. 58–59), las **Culturas de Occidente de México** (pp. 60–61), las **Culturas del
 Centro norte** (pp. 61–63), los **mayas** (Periodo Posclásico, pp. 63–65), los
 **toltecas** (Periodo Posclásico, pp. 67–68), los **huastecos** (Periodo Posclásico,
-pp. 68–69) y los **mixtecos** (Periodo Posclásico, pp. 69–70).
+pp. 68–69), los **mixtecos** (Periodo Posclásico, pp. 69–70) y los **totonacos**
+(Periodo Posclásico, pp. 70–71).
 
-**Pendiente: el resto del *Periodo Posclásico* cultura por cultura** (pp. 70–84),
-desde la cultura **totonaca** (p. 70) y las demás (mexicas, etc.). Las páginas de
+**Pendiente: el resto del *Periodo Posclásico* cultura por cultura** (pp. 71–84),
+desde la cultura **purépecha** (p. 71) y las demás (mexicas, etc.). Las páginas de
 actividad con fichas o mapas conceptuales en blanco (la p. 54, la p. 66 y las que
 sigan) no llevan reactivos. El Bloque 2 **NO** está cerrado hasta cubrir esas
 culturas.
@@ -3663,4 +3664,248 @@ No resulta extraño explicarnos porqué los mixtecos cayeron ante la expansión 
 
 ---
 
-**Reactivos en este archivo:** 233 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y diez *Culturas de Mesoamérica*: **olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos** y **mixtecos** (Posclásico, pp. 68–70). Sigue la cultura **totonaca** (Periodo Posclásico, desde la p. 70) y las demás, hasta la p. 84)
+## Sub-lote 19 · Cultura totonaca (Periodo Posclásico, pp. 70-71)
+
+### 234
+
+De acuerdo con el libro de Historia de México 1, ¿dónde y desde qué horizonte se establecieron los totonacos?
+
+- A. En el Golfo de México, desde el Preclásico
+- B. En Oaxaca, desde el Clásico
+- C. En el Altiplano central, desde el Posclásico
+- D. En Michoacán, desde el Preclásico
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura totonaca
+
+Los totonacos se establecieron en el Golfo de México desde el Preclásico, pero alcanzaron su apogeo en el Posclásico temprano (900-1200 d. C.).
+
+### 235
+
+De acuerdo con el libro de Historia de México 1, ¿en qué horizonte y fechas alcanzaron su apogeo los totonacos?
+
+- A. En el Posclásico temprano (900-1200 d. C.)
+- B. En el Clásico (200-650 d. C.)
+- C. En el Posclásico tardío (1200-1521 d. C.)
+- D. En el Preclásico (400-200 a. C.)
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura totonaca
+
+Los totonacos se establecieron en el Golfo de México desde el Preclásico, pero alcanzaron su apogeo en el Posclásico temprano (900-1200 d. C.).
+
+### 236
+
+De acuerdo con el libro de Historia de México 1, ¿qué fue la base de la organización política de los totonacos?
+
+- A. El señorío
+- B. El calpulli
+- C. La confederación de ciudades
+- D. La teocracia militar
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura totonaca
+
+El señorío fue la base de su organización política, el gobernante —cacique— era asistido por miembros de la nobleza.
+
+### 237
+
+De acuerdo con el libro de Historia de México 1, el gobernante totonaco, el cacique, ¿por quiénes era asistido?
+
+- A. Por miembros de la nobleza
+- B. Por un consejo de comerciantes
+- C. Por los jefes guerreros
+- D. Por el pueblo reunido en asamblea
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura totonaca
+
+El señorío fue la base de su organización política, el gobernante —cacique— era asistido por miembros de la nobleza.
+
+### 238
+
+De acuerdo con el libro de Historia de México 1, en la organización social totonaca, ¿qué grupo ocupaba un lugar destacado?
+
+- A. Los sacerdotes
+- B. Los guerreros
+- C. Los comerciantes
+- D. Los artesanos especializados
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura totonaca
+
+En su organización social, los sacerdotes ocupaban un lugar destacado, pues no solamente se encargaban del culto a sus dioses.
+
+### 239
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles eran los dioses a los que rendían culto los totonacos?
+
+- A. Xipe Totec, Quetzalcóatl, Tlazoltéotl y Mictlantecuhtli
+- B. Huitzilopochtli, Coatlicue, Tláloc y Coyolxauhqui
+- C. Hituayuta, Yoxoloyua, Cohuy y Quahue
+- D. Tezcatlipoca, Xochipilli, Centéotl y Mixcóatl
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura totonaca
+
+Los sacerdotes ocupaban un lugar destacado, pues no solamente se encargaban del culto a sus dioses (Xipe Totec, Quetzalcóatl, Tlazoltéotl y Mictlantecuhtli).
+
+### 240
+
+De acuerdo con el libro de Historia de México 1, además del culto a sus dioses, ¿de qué más se encargaban los sacerdotes totonacos?
+
+- A. De elaborar los códices, hacer observaciones astronómicas y llevar el cómputo del tiempo con el uso de los calendarios
+- B. De recaudar el tributo y organizar el comercio
+- C. De dirigir los ejércitos y las conquistas
+- D. De construir los acueductos y las pilas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura totonaca
+
+No solamente se encargaban del culto a sus dioses, sino también de elaborar los códices, hacer observaciones astronómicas y llevar el cómputo del tiempo con el uso de los calendarios.
+
+### 241
+
+De acuerdo con el libro de Historia de México 1, después de los sacerdotes, ¿qué grupos seguían en la organización social totonaca?
+
+- A. Los guerreros, comerciantes y el pueblo
+- B. Los caciques, nobles y esclavos
+- C. Los lapidarios, orfebres y tejedores
+- D. Los astrónomos, escribas y músicos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura totonaca
+
+Luego seguían los guerreros, comerciantes y el pueblo, conformado por los artesanos especializados y agricultores.
+
+### 242
+
+De acuerdo con el libro de Historia de México 1, ¿por quiénes estaba conformado el pueblo totonaco?
+
+- A. Por los artesanos especializados y agricultores
+- B. Por los sacerdotes y guerreros
+- C. Por los comerciantes y caciques
+- D. Por los nobles y sus servidores
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura totonaca
+
+Luego seguían los guerreros, comerciantes y el pueblo, conformado por los artesanos especializados y agricultores.
+
+### 243
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles eran los centros totonacos más importantes?
+
+- A. Cempoala, Misantla y Zacatlán
+- B. El Tajín, Cempoala y Papantla
+- C. Quiahuiztlan, Misantla y Tuxpan
+- D. Zacatlán, Tamuín y Tilantongo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura totonaca
+
+Los centros totonacos más importantes eran Cempoala, Misantla y Zacatlán.
+
+### 244
+
+De acuerdo con el libro de Historia de México 1, ¿en qué se basaba principalmente la economía de los totonacos?
+
+- A. En la agricultura
+- B. En el comercio de larga distancia
+- C. En la pesca y la caza
+- D. En la minería del oro y la plata
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura totonaca
+
+La economía de los totonacos se basaba principalmente en la agricultura. El uso de sistemas de riego aumentó considerablemente la producción, sobre todo en lo que se refiere al cultivo del algodón.
+
+### 245
+
+De acuerdo con el libro de Historia de México 1, el uso de sistemas de riego aumentó la producción, ¿sobre todo de qué cultivo?
+
+- A. Del algodón
+- B. Del maíz
+- C. Del cacao
+- D. Del maguey
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura totonaca
+
+El uso de sistemas de riego aumentó considerablemente la producción, sobre todo en lo que se refiere al cultivo del algodón.
+
+### 246
+
+De acuerdo con el libro de Historia de México 1, además de los tejidos de algodón, ¿qué otro producto totonaco era codiciado y dónde se elaboraba?
+
+- A. La cerámica, que se elaboraba en Quiahuiztlan e Isla de Sacrificios
+- B. La orfebrería, que se elaboraba en Cempoala y Misantla
+- C. La talla de jade, que se elaboraba en Zacatlán y El Tajín
+- D. Los códices, que se elaboraban en Tilantongo y Mitla
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura totonaca
+
+Los tejidos hechos en la zona con esa fibra eran codiciados, como también lo fue la cerámica que se elaboraba en Quiahuiztlan e Isla de Sacrificios.
+
+### 247
+
+De acuerdo con el libro de Historia de México 1, como ejemplo de sus ciudades bien planeadas, ¿cómo se captaba la lluvia en Cempoala?
+
+- A. Se captaba directamente de los techos y se almacenaba en pilas
+- B. Se recogía de manantiales y se guardaba en cisternas subterráneas
+- C. Se desviaba de los ríos mediante canales de tierra
+- D. Se recolectaba en chinampas y jagüeyes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura totonaca
+
+Por ejemplo, en Cempoala, la lluvia se captaba directamente de los techos y se almacenaba en pilas, luego se conducía hasta los templos y casas por medio de acueductos y caños hechos de mampostería.
+
+### 248
+
+De acuerdo con el libro de Historia de México 1, en Cempoala, ¿por qué medio se conducía el agua hasta los templos y casas?
+
+- A. Por medio de acueductos y caños hechos de mampostería
+- B. Por medio de canales de tierra y diques
+- C. Por medio de calzadas elevadas
+- D. Por medio de vasijas transportadas por cargadores
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura totonaca
+
+La lluvia se captaba directamente de los techos y se almacenaba en pilas, luego se conducía hasta los templos y casas por medio de acueductos y caños hechos de mampostería.
+
+### 249
+
+De acuerdo con el libro de Historia de México 1, ¿de qué nos dan una idea aproximada las obras hidráulicas de Cempoala?
+
+- A. De los logros totonacos a la llegada de los españoles
+- B. Del poderío militar totonaco en el Clásico
+- C. De la influencia olmeca en la región
+- D. Del comercio totonaco con los mayas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura totonaca
+
+Estas obras nos dan una idea aproximada de los logros totonacos a la llegada de los españoles.
+
+---
+
+**Reactivos en este archivo:** 249 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y once *Culturas de Mesoamérica*: **olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos** y **totonacos** (Posclásico, pp. 68–71). Sigue la cultura **purépecha** (Periodo Posclásico, desde la p. 71) y las demás, hasta la p. 84)
