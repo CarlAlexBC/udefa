@@ -57,8 +57,8 @@ pp. 68–69), los **mixtecos** (Periodo Posclásico, pp. 69–70), los **totonac
 
 **En curso: la *cultura mexica*** (Periodo Posclásico, pp. 72–73), la última y más
 extensa; por su volumen se trabaja **por temas**. Hechos los temas *migración y
-fundación*, *religión y dioses* (p. 72) y *organización política* (pp. 72–73); faltan
-*organización social*, *arte* y *educación* (p. 73). Con la cultura mexica se cierra el Bloque 2: el
+fundación*, *religión y dioses* (p. 72), *organización política* (pp. 72–73) y
+*organización social* (p. 73); faltan *arte* y *educación* (p. 73). Con la cultura mexica se cierra el Bloque 2: el
 cuadro-resumen *Horizontes culturales de Mesoamérica* (p. 74) y la *Evaluación sumativa*
 (pp. 75–84, ejercicios del libro sin respuesta marcada) quedan **fuera del banco** por
 decisión de Carlo (1 ago 2026). Las páginas de actividad con fichas o mapas conceptuales
@@ -4778,4 +4778,203 @@ También había penas que se castigaban de acuerdo con el delito cometido, por e
 
 ---
 
-**Reactivos en este archivo:** 305 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53), doce *Culturas de Mesoamérica* completas (**olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas**, Posclásico, pp. 68–72) y el inicio de la **cultura mexica** (Periodo Posclásico, pp. 72–73), de la que van los temas *migración y fundación*, *religión y dioses* (p. 72) y *organización política* (pp. 72–73). Faltan *organización social*, *arte* y *educación* (p. 73) para cerrar el Bloque 2)
+## Sub-lote 24 · Cultura mexica — organización social (Periodo Posclásico, p. 73)
+
+### 306
+
+De acuerdo con el libro de Historia de México 1, ¿por cuántas clases sociales estuvo compuesta básicamente la sociedad mexica, y cuáles?
+
+- A. Dos: los pillis o nobles y los macehualtin o pueblo
+- B. Tres: los nobles, los sacerdotes y el pueblo
+- C. Dos: los tlatoanis y los tlacotin
+- D. Cuatro: nobles, guerreros, comerciantes y esclavos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+La sociedad mexica estuvo compuesta básicamente por dos clases sociales: los pillis o nobles y los macehualtin o pueblo.
+
+### 307
+
+De acuerdo con el libro de Historia de México 1, ¿a qué grupo pertenecía la clase gobernante?
+
+- A. A los pillis o nobles
+- B. A los macehualtin o pueblo
+- C. A los pochtecas o mercaderes
+- D. A los mayeques
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Al primer grupo pertenecía la clase gobernante, entre los que se encontraba la nobleza, los sacerdotes, quienes se encargaban de los rituales, de las observaciones astronómicas y del cómputo del tiempo, y los guerreros de elite agrupados en las órdenes militares cuauhtli, coyotl y ocelotl.
+
+### 308
+
+De acuerdo con el libro de Historia de México 1, ¿quiénes integraban la clase gobernante de los pillis?
+
+- A. La nobleza, los sacerdotes y los guerreros de elite
+- B. Los mercaderes, artesanos y agricultores
+- C. Los tlatoanis y los calpixques
+- D. Los mayeques y los tlacotin
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Al primer grupo pertenecía la clase gobernante, entre los que se encontraba la nobleza, los sacerdotes, quienes se encargaban de los rituales, de las observaciones astronómicas y del cómputo del tiempo, y los guerreros de elite agrupados en las órdenes militares cuauhtli, coyotl y ocelotl.
+
+### 309
+
+De acuerdo con el libro de Historia de México 1, ¿de qué se encargaban los sacerdotes mexicas?
+
+- A. De los rituales, las observaciones astronómicas y el cómputo del tiempo
+- B. De la recaudación del tributo y el comercio
+- C. De la guerra y las conquistas
+- D. De la administración de los calpullis
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Los sacerdotes, quienes se encargaban de los rituales, de las observaciones astronómicas y del cómputo del tiempo.
+
+### 310
+
+De acuerdo con el libro de Historia de México 1, ¿en qué órdenes militares se agrupaban los guerreros de elite?
+
+- A. Cuauhtli, coyotl y ocelotl
+- B. Pillis, macehualtin y tlacotin
+- C. Pochtecas, mayeques y calpuleques
+- D. Tlatoani, cihuacóatl y tecuhtli
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Los guerreros de elite agrupados en las órdenes militares cuauhtli, coyotl y ocelotl.
+
+### 311
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se llamaba la gente del pueblo y en cuántos barrios se agrupaban?
+
+- A. Los macehualtin, agrupados en cuatro calpultin (barrios)
+- B. Los pillis, agrupados en doce calpultin (barrios)
+- C. Los tlacotin, agrupados en cuatro calpullis (barrios)
+- D. Los mayeques, agrupados en veinte calpultin (barrios)
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Los macehualtin eran la gente del pueblo; agrupados en cuatro calpultin (barrios).
+
+### 312
+
+De acuerdo con el libro de Historia de México 1, ¿qué oficios tenían principalmente los macehualtin?
+
+- A. Agricultores, pescadores, cazadores, artesanos especializados, cargadores y mensajeros
+- B. Sacerdotes, guerreros y gobernadores
+- C. Mercaderes, embajadores y espías
+- D. Recaudadores, administradores y jueces
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Los macehualtin eran la gente del pueblo; agrupados en cuatro calpultin (barrios), eran principalmente agricultores, pescadores, cazadores, artesanos especializados, cargadores y mensajeros.
+
+### 313
+
+De acuerdo con el libro de Historia de México 1, además de las dos clases, ¿cuántos grupos alternos existían y cuáles?
+
+- A. Tres: los pochtecas, los mayeques y los tlacotin
+- B. Dos: los pillis y los macehualtin
+- C. Tres: los sacerdotes, los guerreros y los mercaderes
+- D. Cuatro: los pochtecas, los mayeques, los tlacotin y los calpixques
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Además existían tres grupos alternos, el de los pochtecas o mercaderes, el de los mayeques, trabajadores agrícolas y artesanales, cuya producción iba a parar a manos de la clase dominante; y los tlacotin o esclavos.
+
+### 314
+
+De acuerdo con el libro de Historia de México 1, ¿qué eran los pochtecas?
+
+- A. Mercaderes
+- B. Trabajadores agrícolas
+- C. Esclavos
+- D. Recaudadores de impuestos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Además existían tres grupos alternos, el de los pochtecas o mercaderes.
+
+### 315
+
+De acuerdo con el libro de Historia de México 1, ¿qué eran los mayeques y qué ocurría con su producción?
+
+- A. Trabajadores agrícolas y artesanales, cuya producción iba a parar a manos de la clase dominante
+- B. Mercaderes que comerciaban a larga distancia
+- C. Esclavos capturados en la guerra
+- D. Sacerdotes encargados del culto
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+El de los mayeques, trabajadores agrícolas y artesanales, cuya producción iba a parar a manos de la clase dominante.
+
+### 316
+
+De acuerdo con el libro de Historia de México 1, ¿qué eran los tlacotin y quiénes los integraban?
+
+- A. Esclavos: personas que habían cometido un delito y cautivos de guerra
+- B. Nobles caídos en desgracia
+- C. Trabajadores agrícolas libres
+- D. Mercaderes extranjeros
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Y los tlacotin o esclavos (personas que habían cometido un delito y cautivos de guerra).
+
+### 317
+
+De acuerdo con el libro de Historia de México 1, además de mercaderes, ¿qué otras funciones hacían los pochtecas?
+
+- A. Funciones de embajadores y espías
+- B. Funciones de jueces y recaudadores
+- C. Funciones de sacerdotes y astrónomos
+- D. Funciones de gobernadores de provincias
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Los pochtecas, también hacían las funciones de embajadores y espías, tenían un carácter sagrado e incluso rendían culto a su propio dios llamado Yacatecuhtli.
+
+### 318
+
+De acuerdo con el libro de Historia de México 1, ¿a qué dios rendían culto los pochtecas?
+
+- A. Yacatecuhtli
+- B. Huitzilopochtli
+- C. Mictlantecutli
+- D. Curicaueri
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Los pochtecas, también hacían las funciones de embajadores y espías, tenían un carácter sagrado e incluso rendían culto a su propio dios llamado Yacatecuhtli.
+
+---
+
+**Reactivos en este archivo:** 318 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53), doce *Culturas de Mesoamérica* completas (**olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas**, Posclásico, pp. 68–72) y el inicio de la **cultura mexica** (Periodo Posclásico, pp. 72–73), de la que van los temas *migración y fundación*, *religión y dioses* (p. 72), *organización política* (pp. 72–73) y *organización social* (p. 73). Faltan *arte* y *educación* (p. 73) para cerrar el Bloque 2)
