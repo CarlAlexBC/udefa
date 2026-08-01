@@ -18,7 +18,7 @@ _Regenerado el 2026-08-01._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, fisica-perez-montiel, zill-atg) | 5942 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
+| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, espanol-zarzar, fisica-perez-montiel, zill-atg) | 5942 | abiertas: EMM · Biología, algebra-baldor · Álgebra, espanol-zarzar · Español |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -52,8 +52,6 @@ _Regenerado el 2026-08-01._
 | EMM · Química · Capítulo 5 · Gases | 191 | ninguno. Con los subtemas 5.7 y 5.8 el capítulo 5 (Gases) queda cerrado, y con él **Química queda cerrada para todos los planteles** que la piden: el capítulo 5 era el único que faltaba y es exclusivo de la EMOS; los demás (EMM, EME y EMO) ya estaban cubiertos. |
 | EMM · Química · Capítulo 9 · Enlace químico I: Conceptos básicos | 30 | ninguno. El capítulo 9 quedó cubierto en los tres subtemas que pide el temario de Medicina (9.2, 9.4 y 9.5). Química quedó cerrada; el resumen lo sostiene el `.md` del capítulo 24. |
 | EMM · Química · Capítulo 24 · Química orgánica | 22 | ninguno. Con el capítulo 24, **Química queda cerrada** en todos los capítulos que pide el temario de Medicina `QUI-02-2026`: cap. 2 (153), cap. 3 (43), cap. 4 (53), cap. 9 (30) y cap. 24 (22). El temario de Enfermería es un subconjunto y también queda cubierto. |
-| HCM · Español · Bloque 1 · Proceso comunicativo | 32 | ninguno. El bloque 1 está cerrado. |
-| HCM · Español · Bloque 3 · Proceso de escritura | 77 | ninguno. El bloque 3 está cerrado. |
 | HCM · Geografía · Capítulo 1 · Generalidades | 13 | ninguno. El alcance del capítulo 1 está cerrado. |
 | HCM · Geografía · Capítulo 3 · Geomorfología de la República Mexicana | 89 | ninguno. El capítulo 3 está cerrado en su alcance: las Unidades orogénicas (pp. 69–79, lo que pide el HCM) y las Regiones geomorfológicas (pp. 80–90); con ambas, el capítulo 3 completo queda cubierto para la EMA. Sólo falta del escaneo la p.86 (hueco documentado arriba). La p.91 ya es el capítulo 4, Litorales, que queda fuera. |
 | HCM · Geografía · Capítulo 4 · Litorales | 27 | ninguno. El capítulo 4 está cerrado. |
@@ -86,6 +84,8 @@ _Regenerado el 2026-08-01._
 | calculo-thomas · Cálculo · Capítulo 1 · Funciones | 108 | ninguno de este capítulo. El capítulo 1 · Funciones está cerrado en 108 reactivos. Lo que falta de Cálculo lo declara el archivo del capítulo en curso — hoy `calculo-02-limites-continuidad.md`. |
 | calculo-thomas · Cálculo · Capítulo 2 · Límites y continuidad | 81 | ninguno de este capítulo. El capítulo 2 · Límites y continuidad está cerrado en 81 reactivos. Lo que falta de Cálculo lo declara el archivo del capítulo en curso — hoy `calculo-03-derivadas.md`. |
 | calculo-thomas · Cálculo · Capítulo 3 · Derivadas | 80 | ninguno de este capítulo. Con el capítulo 3, **la materia Cálculo queda CERRADA para la EMI** en los tres capítulos que pide su temario (`CDI-02-2026`): cap 1 (Funciones, 108), cap 2 (Límites y continuidad, 81) y cap 3 (Derivadas, 80). A la EMI le queda aparte **Geometría Analítica (Zill)**, que es otro libro. Este archivo (capítulo 3) es el último del temario de Cálculo: no quedan otros capítulos por empezar, así que sostiene el pendiente de la materia hasta que el propio capítulo 3 se cierre. **Cálculo NO está cerrada para la EMI.** |
+| espanol-zarzar · Español · Bloque 1 · Proceso comunicativo | 32 | ninguno. El bloque 1 está cerrado. |
+| espanol-zarzar · Español · Bloque 3 · Proceso de escritura | 77 | para la **EMMG** faltan las Propiedades de la redacción (coherencia, cohesión y adecuación, pp. 76–79) y los Conectores discursivos (3.5, pp. 80–82), que su temario pide y aún no están escritos. |
 | fisica-perez-montiel · Física · Unidad 1 · Introducción al conocimiento de la Física | 20 | ninguno. La Unidad 1 (temas 4–7, únicos que pide el temario) queda cerrada. Con esta unidad, **la materia Física queda CERRADA para la EMO** (`FIS-03-2026`): están escritas y con clave `**Tema:**` todas sus unidades — U1, U2, U4, U5, U6, U8 y U11. |
 | fisica-perez-montiel · Física · Unidad 2 · Unidades y mediciones | 15 | ninguno. La Unidad 2 (temas 1, 3, 4 y 8, únicos que pide el temario) queda cerrada. **La materia Física está CERRADA para la EMO** (`FIS-03-2026`): verificado tema por tema contra `temarios.json` el 24 jul 2026, todas las unidades que pide —U1, U2, U4, U5, U6, U8 y U11— están escritas y con clave `**Tema:**` para que el importador llame exactamente su selección. |
 | fisica-perez-montiel · Física · Unidad 3 · Vectores | 48 | ninguno. La Unidad 3 está cerrada y **keyed**. Con ella, **la materia Física queda CERRADA para la EMA** (`FIS-02-2026`): U3, U4, U5, U6, U8, U9 y U11, todas escritas y con clave `**Tema:**`. Para la **EMM** (`FG-03-2026`) esta unidad se sirve **completa** (los 16 temas); las claves permiten que la EMA reciba sólo su subconjunto (temas 1, 3, 4, 5, 6, 7, 8 y 9). |

@@ -1,7 +1,10 @@
 # Español · Bloque 1 · Proceso comunicativo
 
-**Plantel:** Heroico Colegio Militar · **Materia:** `ESP-01-2026`
-**Aplica a:** Lic. en Administración Militar y Lic. en Seguridad Pública (temario idéntico).
+> **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al **libro**,
+> no a una escuela. El Bloque 1 lo piden el **HCM** (`ESP-01-2026`, subtemas 1.1 y 1.2)
+> y la **EMMG** (`ESP-02-2026`, subtema 1.2), que reclaman el mismo Zarzar. Las líneas
+> `**Referencia:**` y `**Subtema:**` de cada reactivo son la llave con que cada temario
+> los llama; se reutilizan sin duplicarlos.
 
 ## Libro
 

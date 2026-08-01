@@ -1,7 +1,10 @@
 # Español · Bloque 3 · Proceso de escritura
 
-**Plantel:** Heroico Colegio Militar · **Materia:** `ESP-01-2026`
-**Aplica a:** Lic. en Administración Militar y Lic. en Seguridad Pública (temario idéntico).
+> **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al **libro**,
+> no a una escuela. El Bloque 3 lo piden el **HCM** (`ESP-01-2026`, subtemas 3.1–3.3)
+> y la **EMMG** (`ESP-02-2026`, subtemas 3.1, 3.2, 3.3, Propiedades de la redacción y
+> 3.5 Conectores discursivos). Las líneas `**Referencia:**` y `**Subtema:**` de cada
+> reactivo son la llave con que cada temario los llama; se reutilizan sin duplicarlos.
 
 ## Libro
 
@@ -15,23 +18,30 @@ Bloque 1. Las páginas de las referencias se leyeron de la hoja, no se calcularo
 
 ## Alcance del temario
 
-Bloque 3 "Proceso de escritura", subtemas 3.1, 3.2 y 3.3:
+Bloque 3 "Proceso de escritura". El **HCM** (`ESP-01-2026`) pide 3.1, 3.2 y 3.3;
+la **EMMG** (`ESP-02-2026`) pide además las Propiedades de la redacción y los
+Conectores discursivos:
 
-| Subtema | Páginas impresas |
-|---|---|
-| 3.1 Principios básicos de la sintaxis | 47–48 |
-| 3.2 Reglas de acentuación | 49–65 |
-| 3.3 Reglas de puntuación | 66–75 |
+| Subtema | Páginas impresas | Lo pide |
+|---|---|---|
+| 3.1 Principios básicos de la sintaxis | 47–48 | HCM y EMMG |
+| 3.2 Reglas de acentuación | 49–65 | HCM y EMMG |
+| 3.3 Reglas de puntuación | 66–75 | HCM y EMMG |
+| Propiedades de la redacción (coherencia, cohesión, adecuación) | 76–79 | **EMMG** |
+| 3.5 Conectores discursivos | 80–82 | **EMMG** |
 
-El índice trae un segundo "3.3 Propiedades de la redacción" en la p76 (parece
-error de numeración del libro, sería 3.4); queda fuera del alcance del temario.
+El índice numera el subtema de propiedades como un segundo "3.3" (parece error
+del libro, sería 3.4).
 
 ## Cobertura actual
 
-**Alcance cubierto por completo.** Los tres subtemas del bloque 3, páginas
-47–75: sintaxis, acentuación completa y puntuación.
+Cubiertos por completo los subtemas 3.1, 3.2 y 3.3 (pp. 47–75: sintaxis,
+acentuación completa y puntuación); con eso el Bloque 3 queda cerrado para el
+**HCM**.
 
-**Pendiente:** ninguno. El bloque 3 está cerrado.
+**Pendiente:** para la **EMMG** faltan las Propiedades de la redacción
+(coherencia, cohesión y adecuación, pp. 76–79) y los Conectores discursivos
+(3.5, pp. 80–82), que su temario pide y aún no están escritos.
 
 ## Cómo se escriben estos reactivos
 
