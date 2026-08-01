@@ -37,6 +37,7 @@ const COLOR = {
   azul: { c: '#2563A8', on: '#FFFFFF' },
   morado: { c: '#6B46C1', on: '#FFFFFF' },
   dorado: { c: '#C99A3B', on: '#161513' },
+  rojo: { c: '#DC2626', on: '#FFFFFF' },
 } as const
 
 // Logos oficiales de los métodos de pago (los aportó Carlo; viven en public/pagos/).
@@ -98,7 +99,10 @@ export default function PreciosPage() {
             {/* Callout de convocatoria */}
             <div className="mt-6 rounded-xl border border-accent/40 bg-accent/5 p-5">
               <div className="flex items-center gap-3">
-                <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent/15 text-accent">
+                <div
+                  className="flex h-10 w-10 items-center justify-center rounded-lg"
+                  style={{ backgroundColor: COLOR.dorado.c, color: '#FFFFFF' }}
+                >
                   <CalendarClock className="h-5 w-5" />
                 </div>
                 <div>
@@ -124,17 +128,17 @@ export default function PreciosPage() {
             <Image
               src="/udefa-sello.png"
               alt="Sello de la Rectoría U.D.E.F.A. — Dirección General de Educación Militar"
-              width={1254}
-              height={1254}
+              width={1024}
+              height={1024}
               priority
-              className="h-auto w-44 drop-shadow-xl sm:w-52 md:w-64"
+              className="h-auto w-44 sm:w-52 md:w-64"
             />
           </div>
         </div>
 
         {/* Banda informativa */}
         <div className="mt-6 flex items-center gap-2 rounded-lg border border-border bg-card px-4 py-3">
-          <Calendar className="h-4 w-4 shrink-0 text-accent" />
+          <Calendar className="h-4 w-4 shrink-0" style={{ color: COLOR.azul.c }} />
           <p className="text-sm text-muted-foreground">
             Los exámenes Cultural y Psicológico se realizan en{' '}
             <span className="font-semibold text-foreground">abril</span>. Resultados
@@ -143,8 +147,11 @@ export default function PreciosPage() {
         </div>
 
         {/* Ventaja: material que se actualiza al temario vigente */}
-        <div className="mt-4 flex items-start gap-3 rounded-xl border border-accent/40 bg-accent/5 p-4">
-          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-accent/15 text-accent">
+        <div className="mt-4 flex items-start gap-3 rounded-xl border border-border bg-card p-4">
+          <div
+            className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg"
+            style={{ backgroundColor: COLOR.verde.c, color: '#FFFFFF' }}
+          >
             <RefreshCw className="h-5 w-5" />
           </div>
           <div>
@@ -300,24 +307,28 @@ export default function PreciosPage() {
         <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <Etapa
             icono={<Calendar className="h-5 w-5" />}
+            color={COLOR.verde}
             periodo="Septiembre – Noviembre"
             titulo="No fuiste apto"
             texto="Empieza tu preparación desde hoy y llega con ventaja."
           />
           <Etapa
             icono={<Megaphone className="h-5 w-5" />}
+            color={COLOR.dorado}
             periodo="Diciembre – Marzo"
             titulo="Convocatoria abierta"
             texto="Es tu momento para estudiar y dominar cada tema."
           />
           <Etapa
             icono={<ClipboardCheck className="h-5 w-5" />}
+            color={COLOR.morado}
             periodo="Abril"
             titulo="Exámenes Cultural y Psicológico"
             texto="Pon en práctica todo lo que aprendiste."
           />
           <Etapa
             icono={<Target className="h-5 w-5" />}
+            color={COLOR.rojo}
             periodo="Mayo"
             titulo="Resultados"
             texto="Si no fuiste apto, empieza hoy tu preparación para la siguiente convocatoria."
@@ -521,21 +532,29 @@ function Beneficio({
 
 function Etapa({
   icono,
+  color,
   periodo,
   titulo,
   texto,
 }: {
   icono: React.ReactNode
+  color: ColorPaquete
   periodo: string
   titulo: string
   texto: string
 }) {
   return (
     <div className="rounded-xl border border-border bg-card p-5">
-      <div className="mb-3 flex h-9 w-9 items-center justify-center rounded-lg bg-accent/10 text-accent">
+      <div
+        className="mb-3 flex h-9 w-9 items-center justify-center rounded-lg"
+        style={{ backgroundColor: color.c, color: '#FFFFFF' }}
+      >
         {icono}
       </div>
-      <p className="text-[10px] font-bold uppercase tracking-widest text-accent">
+      <p
+        className="text-[10px] font-bold uppercase tracking-widest"
+        style={{ color: color.c }}
+      >
         {periodo}
       </p>
       <p className="mt-1 text-sm font-semibold text-foreground">{titulo}</p>
