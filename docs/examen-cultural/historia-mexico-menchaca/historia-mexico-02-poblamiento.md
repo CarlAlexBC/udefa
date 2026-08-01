@@ -18,10 +18,13 @@ Edición verificada contra la página legal del escaneo de la EMMG: "Tercera edi
 Espinosa y Héctor Martínez Ruiz. El temario pide 4ª 2018 → la portada dice "4ª" y el
 interior "3ª edición e-book 2018" (quirk habitual de Patria). ✅ Es el correcto.
 
-**Desfase de páginas:** la hoja del PDF va **13 adelante** de la página impresa
-(hoja 43 = página impresa 30). Confirmado. Las páginas de las referencias se leyeron
-de la hoja, no se calcularon. El escaneo NO trae capa de texto: el contenido se leyó
-de la imagen renderizada.
+**Desfase de páginas:** el desfase **NO es constante**. En las pp. 30–45 la hoja del
+PDF va **13 adelante** de la página impresa (hoja 43 = página impresa 30). Pero para
+el 2.4 el desfase salta a **+14** (hoja 64 = p. 50; hoja 65 = p. 51; hoja 66 = p. 52;
+hoja 67 = p. 53): en medio se coló una hoja. Confirmado leyendo el folio impreso de
+cada hoja, no calculándolo. Las páginas de las referencias se leyeron de la hoja, no
+se calcularon. El escaneo NO trae capa de texto: el contenido se leyó de la imagen
+renderizada.
 
 ## Alcance del temario
 
