@@ -423,7 +423,7 @@ function Paquete({
       <div className="flex items-start justify-between gap-2">
         <div
           className="flex h-12 w-12 items-center justify-center rounded-full"
-          style={{ backgroundColor: color.c + '1F', color: color.c }}
+          style={{ backgroundColor: color.c, color: '#FFFFFF' }}
         >
           {icono}
         </div>
