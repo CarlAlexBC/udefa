@@ -14,6 +14,7 @@ import {
   LayoutDashboard,
   ListChecks,
   Loader2,
+  SlidersHorizontal,
   Users,
 } from 'lucide-react'
 
@@ -100,6 +101,7 @@ const NAV_GROUPS: Array<{ titulo: string; items: NavItem[] }> = [
         contador: 'usuarios',
       },
       { href: '/inicio/admin/temas-prioridad', label: 'Temas prioritarios', icon: Flame },
+      { href: '/inicio/admin/temarios', label: 'Reparto cultural', icon: SlidersHorizontal },
     ],
   },
 ]
