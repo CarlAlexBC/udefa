@@ -57,8 +57,8 @@ pp. 68–69), los **mixtecos** (Periodo Posclásico, pp. 69–70), los **totonac
 
 **En curso: la *cultura mexica*** (Periodo Posclásico, pp. 72–73), la última y más
 extensa; por su volumen se trabaja **por temas**. Hechos los temas *migración y
-fundación* y *religión y dioses* (p. 72); faltan *organización política*,
-*organización social*, *arte* y *educación* (pp. 72–73). Con la cultura mexica se cierra el Bloque 2: el
+fundación*, *religión y dioses* (p. 72) y *organización política* (pp. 72–73); faltan
+*organización social*, *arte* y *educación* (p. 73). Con la cultura mexica se cierra el Bloque 2: el
 cuadro-resumen *Horizontes culturales de Mesoamérica* (p. 74) y la *Evaluación sumativa*
 (pp. 75–84, ejercicios del libro sin respuesta marcada) quedan **fuera del banco** por
 decisión de Carlo (1 ago 2026). Las páginas de actividad con fichas o mapas conceptuales
@@ -83,6 +83,10 @@ de la grafía errada**:
   *Mictlantecuhtli* — que el mismo libro escribe **con** *h* en los totonacos, p. 70) y
   **"Tonatzin"** (por *Tonantzin*). Los reactivos usan la grafía del libro (recuerdo
   literal); los distractores son dioses de otras culturas, no la grafía corregida.
+- En la lista de los once **señores mexicas** (p. 73) el libro escribe **"Izcóatl"** (por
+  *Itzcóatl*, omite la *t*), **"Tizoc"** (sin tilde, por *Tízoc*) y **"Ahuizótl"** (tilde
+  desplazada, por *Ahuízotl*). Se citan verbatim; los distractores son señores de otros
+  pueblos (Tezozómoc, Nezahualcóyotl…), no la grafía corregida.
 
 ## Cómo se escriben estos reactivos
 
@@ -4545,4 +4549,233 @@ Los mexicas tuvieron una religión politeísta en la que los principales dioses 
 
 ---
 
-**Reactivos en este archivo:** 290 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53), doce *Culturas de Mesoamérica* completas (**olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas**, Posclásico, pp. 68–72) y el inicio de la **cultura mexica** (Periodo Posclásico, pp. 72–73), de la que van los temas *migración y fundación* y *religión y dioses* (p. 72). Faltan *organización política*, *organización social*, *arte* y *educación* (pp. 72–73) para cerrar el Bloque 2)
+## Sub-lote 23 · Cultura mexica — organización política (Periodo Posclásico, pp. 72-73)
+
+### 291
+
+De acuerdo con el libro de Historia de México 1, ¿qué era la base de la organización política de los mexicas?
+
+- A. El señorío
+- B. El calpulli
+- C. El Tlatocan
+- D. La Triple Alianza
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+El señorío era la base de la organización política, en la que el Huey Tlatoani o Tlacatecuhtli, no sólo era el gobernante de los mexicas, además era el jefe máximo de la Triple Alianza.
+
+### 292
+
+De acuerdo con el libro de Historia de México 1, ¿quién era el gobernante de los mexicas y jefe máximo de la Triple Alianza?
+
+- A. El Huey Tlatoani o Tlacatecuhtli
+- B. El Cihuacóatl
+- C. El cazonci
+- D. El tlatoani de Azcapotzalco
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+El Huey Tlatoani o Tlacatecuhtli, no sólo era el gobernante de los mexicas, además era el jefe máximo de la Triple Alianza.
+
+### 293
+
+De acuerdo con el libro de Historia de México 1, ¿quién le seguía al Huey Tlatoani y de qué se encargaba?
+
+- A. El Cihuacóatl, que se encargaba de los asuntos militares
+- B. El Tlacatecuhtli, que se encargaba de la religión
+- C. El calpixque, que se encargaba del tributo
+- D. El tlatoani, que se encargaba del comercio
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Le seguía el Cihuacóatl, que se encargaba de los asuntos militares.
+
+### 294
+
+De acuerdo con el libro de Historia de México 1, ¿quiénes eran los gobernadores de las provincias o pueblos?
+
+- A. Los tlatoanis
+- B. Los tecuhtlis
+- C. Los calpixques
+- D. Los calpuleques
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Los tlatoanis, que eran los gobernadores de las provincias o pueblos.
+
+### 295
+
+De acuerdo con el libro de Historia de México 1, ¿qué eran los Tecuhtlis?
+
+- A. Administradores
+- B. Recaudadores de impuestos
+- C. Gobernadores de las provincias
+- D. Jefes de los calpullis
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Los Tecuhtlis o administradores, los calpixques o recaudadores de impuestos y los calpuleques, que eran los jefes de los calpullis.
+
+### 296
+
+De acuerdo con el libro de Historia de México 1, ¿qué eran los calpixques?
+
+- A. Recaudadores de impuestos
+- B. Jefes de los calpullis
+- C. Administradores
+- D. Gobernadores de las provincias
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Los calpixques o recaudadores de impuestos y los calpuleques, que eran los jefes de los calpullis.
+
+### 297
+
+De acuerdo con el libro de Historia de México 1, ¿qué eran los calpuleques?
+
+- A. Los jefes de los calpullis
+- B. Los recaudadores de impuestos
+- C. Los jueces de las faltas
+- D. Los administradores del templo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Los calpuleques, que eran los jefes de los calpullis.
+
+### 298
+
+De acuerdo con el libro de Historia de México 1, ¿cuántos tlatoanis formaban el Tlatocan o Consejo de Estado?
+
+- A. Doce
+- B. Once
+- C. Cinco
+- D. Veinte
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Existían doce tlatoanis que formaban el Tlatocan o Consejo de Estado.
+
+### 299
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se llamaba el Consejo de Estado formado por los doce tlatoanis?
+
+- A. Tlatocan
+- B. Calpulli
+- C. Excan Tlatoloyan
+- D. Cihuacóatl
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Existían doce tlatoanis que formaban el Tlatocan o Consejo de Estado.
+
+### 300
+
+De acuerdo con el libro de Historia de México 1, ¿cuántos señores tuvieron en total los mexicas?
+
+- A. Once
+- B. Doce
+- C. Nueve
+- D. Catorce
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+En total, los mexicas tuvieron once señores: Acamapichtli, Huitzilíhuitl, Chimalpopoca, Izcóatl, Motecuhzoma Ilhuicamina, Axayácatl, Tizoc, Ahuizótl, Motecuhzoma Xocoyotzin, Cuitláhuac y Cuauhtémoc.
+
+### 301
+
+De acuerdo con el libro de Historia de México 1, ¿cuál de los siguientes se cuenta entre los once señores de los mexicas?
+
+- A. Acamapichtli
+- B. Tezozómoc
+- C. Nezahualcóyotl
+- D. Xólotl
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+En total, los mexicas tuvieron once señores: Acamapichtli, Huitzilíhuitl, Chimalpopoca, Izcóatl, Motecuhzoma Ilhuicamina, Axayácatl, Tizoc, Ahuizótl, Motecuhzoma Xocoyotzin, Cuitláhuac y Cuauhtémoc.
+
+### 302
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles se cuentan entre los once señores de los mexicas?
+
+- A. Izcóatl, Axayácatl y Ahuizótl
+- B. Tezozómoc, Maxtla y Nezahualcóyotl
+- C. Xólotl, Quinatzin y Techotlala
+- D. Nezahualpilli, Cacama y Tlacaélel
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+En total, los mexicas tuvieron once señores: Acamapichtli, Huitzilíhuitl, Chimalpopoca, Izcóatl, Motecuhzoma Ilhuicamina, Axayácatl, Tizoc, Ahuizótl, Motecuhzoma Xocoyotzin, Cuitláhuac y Cuauhtémoc.
+
+### 303
+
+De acuerdo con el libro de Historia de México 1, en materia legislativa y penal, ¿cómo se ejercía la ley?
+
+- A. Mediante la reparación de la falta
+- B. Mediante el pago de tributo
+- C. Mediante el consejo de ancianos
+- D. Mediante el destierro
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+En materia legislativa y penal, se ejercía la ley mediante la reparación de la falta.
+
+### 304
+
+De acuerdo con el libro de Historia de México 1, ¿qué castigo recibía el adúltero?
+
+- A. Era lapidado
+- B. Era descuartizado
+- C. Era desterrado
+- D. Era esclavizado
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+También había penas que se castigaban de acuerdo con el delito cometido, por ejemplo el adúltero era lapidado y el traidor descuartizado.
+
+### 305
+
+De acuerdo con el libro de Historia de México 1, ¿qué castigo recibía el traidor?
+
+- A. Era descuartizado
+- B. Era lapidado
+- C. Era sacrificado
+- D. Era encarcelado
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+También había penas que se castigaban de acuerdo con el delito cometido, por ejemplo el adúltero era lapidado y el traidor descuartizado.
+
+---
+
+**Reactivos en este archivo:** 305 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53), doce *Culturas de Mesoamérica* completas (**olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas**, Posclásico, pp. 68–72) y el inicio de la **cultura mexica** (Periodo Posclásico, pp. 72–73), de la que van los temas *migración y fundación*, *religión y dioses* (p. 72) y *organización política* (pp. 72–73). Faltan *organización social*, *arte* y *educación* (p. 73) para cerrar el Bloque 2)
