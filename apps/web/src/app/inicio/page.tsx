@@ -285,7 +285,8 @@ function Dashboard({
         </div>
       </section>
 
-      {/* Guía del Aspirante — lectura online */}
+      {/* Guía del Aspirante — lectura online. Va incluida en el módulo
+          psicológico, así que se bloquea junto con él. */}
       <section>
         <div className="mb-3 flex items-center gap-2">
           <div className="h-4 w-1 rounded bg-military" />
@@ -293,26 +294,53 @@ function Dashboard({
             Material de estudio
           </h2>
         </div>
-        <Link
-          href="/inicio/guia"
-          className="group flex items-center gap-4 rounded-xl border border-border bg-card p-5 shadow-sm transition-colors hover:border-accent"
-        >
-          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-military/10">
-            <BookOpen className="h-5 w-5 text-military" />
-          </div>
-          <div className="flex-1">
-            <p className="flex items-center gap-2 font-semibold text-foreground transition-colors group-hover:text-accent">
-              Guía del Aspirante
-              <span className="inline-flex items-center gap-1 rounded-md bg-accent/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-accent">
-                Manual completo online
-              </span>
-            </p>
-            <p className="mt-1 text-sm text-muted-foreground">
-              El manual completo. Estrategias por bloque, marcos psicológicos, y cómo responder cada eje del examen.
-            </p>
-          </div>
-          <ArrowRight className="hidden h-4 w-4 text-accent transition-transform group-hover:translate-x-1 md:block" />
-        </Link>
+        {bloqueadoPsico ? (
+          <Link
+            href="/precios"
+            className="group flex items-center gap-4 rounded-xl border border-dashed border-accent/50 bg-card p-5 shadow-sm transition-colors hover:border-accent"
+          >
+            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-muted">
+              <Lock className="h-5 w-5 text-muted-foreground" />
+            </div>
+            <div className="flex-1">
+              <p className="flex items-center gap-2 font-semibold text-foreground">
+                Guía del Aspirante
+                <span className="inline-flex items-center gap-1 rounded-full border border-accent/40 bg-accent/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-accent">
+                  <Lock className="h-2.5 w-2.5" />
+                  Bloqueado
+                </span>
+              </p>
+              <p className="mt-1 text-sm text-muted-foreground">
+                El manual completo va incluido en los paquetes Psicológico y Completa. Toca para desbloquearlo.
+              </p>
+            </div>
+            <span className="hidden shrink-0 items-center gap-1 text-xs font-semibold text-accent md:flex">
+              Desbloquear
+              <ArrowRight className="h-3 w-3 transition-transform group-hover:translate-x-0.5" />
+            </span>
+          </Link>
+        ) : (
+          <Link
+            href="/inicio/guia"
+            className="group flex items-center gap-4 rounded-xl border border-border bg-card p-5 shadow-sm transition-colors hover:border-accent"
+          >
+            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-military/10">
+              <BookOpen className="h-5 w-5 text-military" />
+            </div>
+            <div className="flex-1">
+              <p className="flex items-center gap-2 font-semibold text-foreground transition-colors group-hover:text-accent">
+                Guía del Aspirante
+                <span className="inline-flex items-center gap-1 rounded-md bg-accent/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-accent">
+                  Manual completo online
+                </span>
+              </p>
+              <p className="mt-1 text-sm text-muted-foreground">
+                El manual completo. Estrategias por bloque, marcos psicológicos, y cómo responder cada eje del examen.
+              </p>
+            </div>
+            <ArrowRight className="hidden h-4 w-4 text-accent transition-transform group-hover:translate-x-1 md:block" />
+          </Link>
+        )}
       </section>
     </main>
   )
