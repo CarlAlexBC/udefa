@@ -56,9 +56,9 @@ pp. 68–69), los **mixtecos** (Periodo Posclásico, pp. 69–70), los **totonac
 (Periodo Posclásico, pp. 70–71) y los **purépechas** (Periodo Posclásico, pp. 71–72).
 
 **En curso: la *cultura mexica*** (Periodo Posclásico, pp. 72–73), la última y más
-extensa; por su volumen se trabaja **por temas**. Hecho el tema *migración y fundación*
-(p. 72); faltan *religión y dioses*, *organización política*, *organización social*,
-*arte* y *educación* (pp. 72–73). Con la cultura mexica se cierra el Bloque 2: el
+extensa; por su volumen se trabaja **por temas**. Hechos los temas *migración y
+fundación* y *religión y dioses* (p. 72); faltan *organización política*,
+*organización social*, *arte* y *educación* (pp. 72–73). Con la cultura mexica se cierra el Bloque 2: el
 cuadro-resumen *Horizontes culturales de Mesoamérica* (p. 74) y la *Evaluación sumativa*
 (pp. 75–84, ejercicios del libro sin respuesta marcada) quedan **fuera del banco** por
 decisión de Carlo (1 ago 2026). Las páginas de actividad con fichas o mapas conceptuales
@@ -77,6 +77,12 @@ de la grafía errada**:
 - El libro escribe el mismo dios de tres formas: **"Tezcatlipoca"** (p. 61),
   **"Tezcatipoca"** (p. 62, en Ranas) y **"Tezcatiploca"** (p. 67, en los toltecas).
 - **"itzaes"** (p. 65, mayas) y **"iztaes"** (p. 68, toltecas) para el mismo pueblo.
+- En la lista de dioses **mexicas** (p. 72) el libro escribe cinco grafías no estándar:
+  **"Xiuhtecutli"** (por *Xiuhtecuhtli*), **"Macuixóchitl"** (por *Macuilxóchitl*),
+  **"Chalchihutlicue"** (por *Chalchiuhtlicue*), **"Mictlantecutli"** (por
+  *Mictlantecuhtli* — que el mismo libro escribe **con** *h* en los totonacos, p. 70) y
+  **"Tonatzin"** (por *Tonantzin*). Los reactivos usan la grafía del libro (recuerdo
+  literal); los distractores son dioses de otras culturas, no la grafía corregida.
 
 ## Cómo se escriben estos reactivos
 
@@ -4445,4 +4451,98 @@ Las denominadas guerras floridas, que tenían la finalidad de procurarse prision
 
 ---
 
-**Reactivos en este archivo:** 284 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53), doce *Culturas de Mesoamérica* completas (**olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas**, Posclásico, pp. 68–72) y el inicio de la **cultura mexica** (Periodo Posclásico, pp. 72–73), de la que va el tema *migración y fundación* (p. 72). Faltan los demás temas mexicas —religión y dioses, organización política, organización social, arte y educación (pp. 72–73)— para cerrar el Bloque 2)
+## Sub-lote 22 · Cultura mexica — religión y dioses (Periodo Posclásico, p. 72)
+
+### 285
+
+De acuerdo con el libro de Historia de México 1, ¿qué tipo de religión tuvieron los mexicas?
+
+- A. Politeísta
+- B. Monoteísta
+- C. Animista
+- D. Dualista
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Los mexicas tuvieron una religión politeísta en la que los principales dioses eran Huitzilopochtli, Tláloc, Quetzalcóatl, Tezcatlipoca, Tonatiuh, Xiuhtecutli, Xochipilli, Macuixóchitl, Chalchihutlicue, Mictlantecutli, Coatlicue, Chicomecóatl, Xipe Totec y Tonatzin.
+
+### 286
+
+De acuerdo con el libro de Historia de México 1, ¿cuál era uno de los principales dioses de los mexicas?
+
+- A. Tonatiuh
+- B. Curicaueri
+- C. Hituayuta
+- D. Quahue
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Los mexicas tuvieron una religión politeísta en la que los principales dioses eran Huitzilopochtli, Tláloc, Quetzalcóatl, Tezcatlipoca, Tonatiuh, Xiuhtecutli, Xochipilli, Macuixóchitl, Chalchihutlicue, Mictlantecutli, Coatlicue, Chicomecóatl, Xipe Totec y Tonatzin.
+
+### 287
+
+De acuerdo con el libro de Historia de México 1, ¿cuál era uno de los principales dioses de los mexicas?
+
+- A. Coatlicue
+- B. Xataranga
+- C. Yoxoloyua
+- D. Uitzimengari
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Los mexicas tuvieron una religión politeísta en la que los principales dioses eran Huitzilopochtli, Tláloc, Quetzalcóatl, Tezcatlipoca, Tonatiuh, Xiuhtecutli, Xochipilli, Macuixóchitl, Chalchihutlicue, Mictlantecutli, Coatlicue, Chicomecóatl, Xipe Totec y Tonatzin.
+
+### 288
+
+De acuerdo con el libro de Historia de México 1, ¿cuál era uno de los principales dioses de los mexicas?
+
+- A. Xochipilli
+- B. Thares Upeme
+- C. Cohuy
+- D. Chupi-Tiripeme
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Los mexicas tuvieron una religión politeísta en la que los principales dioses eran Huitzilopochtli, Tláloc, Quetzalcóatl, Tezcatlipoca, Tonatiuh, Xiuhtecutli, Xochipilli, Macuixóchitl, Chalchihutlicue, Mictlantecutli, Coatlicue, Chicomecóatl, Xipe Totec y Tonatzin.
+
+### 289
+
+De acuerdo con el libro de Historia de México 1, ¿cuál era uno de los principales dioses de los mexicas?
+
+- A. Chalchihutlicue
+- B. Curicaueri
+- C. Cohuy
+- D. Xataranga
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Los mexicas tuvieron una religión politeísta en la que los principales dioses eran Huitzilopochtli, Tláloc, Quetzalcóatl, Tezcatlipoca, Tonatiuh, Xiuhtecutli, Xochipilli, Macuixóchitl, Chalchihutlicue, Mictlantecutli, Coatlicue, Chicomecóatl, Xipe Totec y Tonatzin. (El libro escribe *Chalchihutlicue*; la grafía estándar es *Chalchiuhtlicue*.)
+
+### 290
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles se contaban entre los principales dioses de los mexicas?
+
+- A. Xiuhtecutli, Macuixóchitl y Tonatzin
+- B. Curicaueri, Xataranga y Thares Upeme
+- C. Hituayuta, Yoxoloyua y Cohuy
+- D. Chupi-Tiripeme, Uitzimengari y Quahue
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Los mexicas tuvieron una religión politeísta en la que los principales dioses eran Huitzilopochtli, Tláloc, Quetzalcóatl, Tezcatlipoca, Tonatiuh, Xiuhtecutli, Xochipilli, Macuixóchitl, Chalchihutlicue, Mictlantecutli, Coatlicue, Chicomecóatl, Xipe Totec y Tonatzin. (El libro escribe *Xiuhtecutli*, *Macuixóchitl* y *Tonatzin*; las grafías estándar son *Xiuhtecuhtli*, *Macuilxóchitl* y *Tonantzin*.)
+
+---
+
+**Reactivos en este archivo:** 290 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53), doce *Culturas de Mesoamérica* completas (**olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas**, Posclásico, pp. 68–72) y el inicio de la **cultura mexica** (Periodo Posclásico, pp. 72–73), de la que van los temas *migración y fundación* y *religión y dioses* (p. 72). Faltan *organización política*, *organización social*, *arte* y *educación* (pp. 72–73) para cerrar el Bloque 2)
