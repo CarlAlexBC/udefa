@@ -35,13 +35,12 @@ del libro, sería 3.4).
 
 ## Cobertura actual
 
-Cubiertos por completo los subtemas 3.1, 3.2 y 3.3 (pp. 47–75: sintaxis,
-acentuación completa y puntuación); con eso el Bloque 3 queda cerrado para el
-**HCM**.
+Cubierto por completo el Bloque 3: los subtemas 3.1, 3.2 y 3.3 (pp. 47–75:
+sintaxis, acentuación completa y puntuación) que piden el **HCM** y la **EMMG**, y
+además —para la **EMMG**— las Propiedades de la redacción (pp. 76–79) y los
+Conectores discursivos (3.5, pp. 80–82).
 
-**Pendiente:** para la **EMMG** faltan las Propiedades de la redacción
-(coherencia, cohesión y adecuación, pp. 76–79) y los Conectores discursivos
-(3.5, pp. 80–82), que su temario pide y aún no están escritos.
+**Pendiente:** ninguno. El Bloque 3 queda cerrado para el HCM y para la EMMG.
 
 ## Cómo se escriben estos reactivos
 
@@ -1242,4 +1241,207 @@ Si se terminó el tema o asunto del que estabas hablando, y empiezas a hablar de
 
 ---
 
-**Reactivos en este archivo:** 77
+## Sub-lote 10 · Propiedades de la redacción: las cinco características del texto (3.4, pp. 76–79)
+
+### 78
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuáles son las cinco características generales que debe poseer todo texto?
+
+- A. La unidad, la coherencia, la cohesión, la adecuación y la autonomía
+- B. La ortografía, la sintaxis, la acentuación, la puntuación y la redacción
+- C. La introducción, el desarrollo, las conclusiones, el índice y la bibliografía
+- D. La claridad, la brevedad, la sencillez, la precisión y la originalidad
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 76
+**Subtema:** propiedades de la redacción
+
+A continuación explicaremos las cinco características generales que debe poseer todo texto: la unidad, la coherencia, la cohesión, la adecuación y la autonomía.
+
+### 79
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuál es la primera característica de un texto?
+
+- A. La unidad
+- B. La coherencia
+- C. La cohesión
+- D. La adecuación
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 76
+**Subtema:** propiedades de la redacción
+
+La primera característica de un texto es la unidad.
+
+### 80
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, según la Real Academia Española, ¿a qué se llama coherencia?
+
+- A. A la conexión, relación o unión de unas cosas con otras
+- B. A la fuerza que tiene la relación entre las partes de un texto
+- C. A la adaptación del texto a la persona y a la situación
+- D. A la vida propia e independiente del texto
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 77
+**Subtema:** propiedades de la redacción
+
+De acuerdo con la Real Academia Española, se llama coherencia a la conexión, relación o unión de unas cosas con otras.
+
+### 81
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿a qué hace referencia la cohesión de un texto?
+
+- A. A la fuerza que tiene la relación entre las diversas partes del texto
+- B. A la conexión o relación de unas cosas con otras
+- C. A la adaptación del texto a la situación en que se expresa
+- D. A la unidad que le da su intención comunicativa
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 78
+**Subtema:** propiedades de la redacción
+
+Mientras que la coherencia se refiere a la relación que existe entre las diversas partes de un texto, la cohesión hace referencia a la fuerza que tiene dicha relación.
+
+### 82
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué significa adecuar?
+
+- A. Adaptar algo a otra cosa
+- B. Unir o relacionar unas cosas con otras
+- C. Dar fuerza a la relación entre las partes del texto
+- D. Dotar al texto de vida propia e independiente
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 78
+**Subtema:** propiedades de la redacción
+
+Adecuar significa adaptar algo a otra cosa. En nuestro caso, la adecuación de un texto significa que esté adaptado tanto a la persona o personas a las que se dirige como a la situación en la que se expresa.
+
+### 83
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿en qué consiste la autonomía, la quinta característica de un texto escrito?
+
+- A. En que el texto tenga vida propia e independiente
+- B. En que el texto esté adaptado a la persona a la que se dirige
+- C. En que las ideas del texto estén ordenadas de manera lógica
+- D. En que el texto tenga una clara intención comunicativa
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 79
+**Subtema:** propiedades de la redacción
+
+La quinta característica que debe poseer un texto escrito es que debe tener autonomía, es decir, vida propia e independiente.
+
+---
+
+## Sub-lote 11 · Conectores discursivos (3.5, pp. 80–82)
+
+### 84
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿a qué se le denomina conector discursivo o textual?
+
+- A. A toda palabra o expresión que le indica al lector cuál es la relación lógica que existe entre dos frases, oraciones, párrafos o apartados
+- B. A toda palabra que se acentúa para distinguir su significado de otra igual
+- C. A los signos que se usan para separar las partes de una oración
+- D. A la parte del texto en la que el autor sintetiza sus ideas principales
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 80
+**Subtema:** conectores discursivos
+
+Se le denomina conector discursivo o textual a toda aquella palabra o expresión (locución o sintagma) que le indica al lector o receptor cuál es la relación lógica que existe entre dos frases, entre dos oraciones, entre dos párrafos o entre dos apartados.
+
+### 85
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué le dan al texto los marcadores textuales?
+
+- A. Cohesión y coherencia
+- B. Unidad y autonomía
+- C. Ortografía y puntuación
+- D. Brevedad y claridad
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 81
+**Subtema:** conectores discursivos
+
+Estos marcadores textuales son los que le dan cohesión y coherencia a un texto.
+
+### 86
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, para algunos autores, ¿de qué tres tipos pueden ser los marcadores textuales?
+
+- A. Los que modifican el enunciado (reformuladores), los que organizan el texto (organizadores) y los que conectan diversas partes del texto (conectores)
+- B. Los superficiales, los profundos y los mixtos
+- C. Los aditivos, los adversativos y los causales
+- D. Los sintácticos, los morfológicos y los semánticos
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 81
+**Subtema:** conectores discursivos
+
+Para algunos autores, los marcadores textuales pueden ser de tres tipos: los que modifican el enunciado (reformuladores), los que organizan el texto (organizadores) y los que conectan diversas partes del texto (conectores).
+
+### 87
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, según Portolés (1998) y Martín Zorraquino y Portolés (1999), ¿cuáles son los cinco grupos de marcadores discursivos?
+
+- A. Estructuradores de la información, conectores, reformuladores, operadores argumentativos y marcadores conversacionales
+- B. Unidad, coherencia, cohesión, adecuación y autonomía
+- C. Aditivos, adversativos, causales, consecutivos y temporales
+- D. Sintácticos, morfológicos, semánticos, fonéticos y pragmáticos
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 81
+**Subtema:** conectores discursivos
+
+Estos autores diferencian cinco grupos de marcadores discursivos: 1. Estructuradores de la información. 2. Conectores. 3. Reformuladores. 4. Operadores argumentativos. 5. Marcadores conversacionales.
+
+### 88
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, según la tabla de ejemplos de conectores textuales, ¿qué significado tiene el conector "Sin embargo…"?
+
+- A. A pesar de lo que ya se dijo, sucede lo que se va a enunciar a continuación
+- B. Lo que sigue se debe añadir a lo que ya se dijo
+- C. Lo que sigue es lo opuesto de lo que ya se dijo
+- D. Lo que sigue es repetición de lo anterior, pero expresado en forma diferente
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 81
+**Subtema:** conectores discursivos
+
+Sin embargo… A pesar de lo que ya se dijo, sucede lo que se va a enunciar a continuación.
+
+### 89
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, según la tabla de ejemplos de conectores textuales, ¿qué significado tiene el conector "En contraposición…"?
+
+- A. Lo que sigue es lo opuesto de lo que ya se dijo
+- B. Lo que sigue se debe añadir a lo que ya se dijo
+- C. A pesar de lo que ya se dijo, sucede lo que se va a enunciar a continuación
+- D. Lo que sigue es repetición de lo anterior, pero expresado en forma diferente
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 81
+**Subtema:** conectores discursivos
+
+En contraposición… Lo que sigue es lo opuesto de lo que ya se dijo.
+
+### 90
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, según la tabla de ejemplos de conectores textuales, ¿qué significado tiene el conector "Dicho de otra manera…"?
+
+- A. Lo que sigue es repetición de lo anterior, pero expresado en forma diferente
+- B. Lo que sigue es lo opuesto de lo que ya se dijo
+- C. Lo que sigue se debe añadir a lo que ya se dijo
+- D. A pesar de lo que ya se dijo, sucede lo que se va a enunciar a continuación
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 81
+**Subtema:** conectores discursivos
+
+Dicho de otra manera… Lo que sigue es repetición de lo anterior, pero expresado en forma diferente.
+
+---
+
+**Reactivos en este archivo:** 90
