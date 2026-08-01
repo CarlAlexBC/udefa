@@ -46,13 +46,13 @@ Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales 
 Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
 periodización de los horizontes culturales y los tres horizontes —Preclásico,
 Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
-y cuatro de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
+y cinco de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
 y 55), los **teotihuacanos** (Periodo Clásico, pp. 56–57), los **zapotecas** (Periodo
-Clásico, pp. 57–58) y las **Culturas del Centro de Veracruz** (Periodo Clásico,
-pp. 58–59).
+Clásico, pp. 57–58), las **Culturas del Centro de Veracruz** (Periodo Clásico,
+pp. 58–59) y las **Culturas de Occidente de México** (pp. 60–61).
 
 **Pendiente: el resto de las *Culturas de Mesoamérica* cultura por cultura**
-(pp. 60–84), desde las **Culturas de Occidente de México** (p. 60) en adelante (maya,
+(pp. 61–84), desde las **Culturas del Centro norte** (p. 61) en adelante (maya,
 tolteca, mexica, etc.). Las páginas de actividad con fichas o mapas conceptuales en
 blanco (la p. 54 y las que sigan) no llevan reactivos. El Bloque 2 **NO** está cerrado
 hasta cubrir esas culturas.
@@ -1920,4 +1920,233 @@ Sobresalen los yugos, palmas y hachas, cuya presencia no es exclusiva de la zona
 
 ---
 
-**Reactivos en este archivo:** 120 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y cuatro *Culturas de Mesoamérica*: **olmecas** (Preclásico, pp. 53 y 55), **teotihuacanos** (Clásico, pp. 56–57), **zapotecas** (Clásico, pp. 57–58) y **Centro de Veracruz** (Clásico, pp. 58–59); siguen las **Culturas de Occidente de México** (desde la p. 60) y el resto, hasta la p. 84)
+## Sub-lote 13 · Culturas de Occidente de México (pp. 60-61)
+
+### 121
+
+De acuerdo con el libro de Historia de México 1, ¿qué dos tradiciones se desarrollaron en Occidente desde el Preclásico?
+
+- A. La cultura de las Tumbas de Tiro y la cultura de Tierra Caliente
+- B. La cultura olmeca y la cultura teotihuacana
+- C. La cultura Chalchihuites y la cultura del Bajío
+- D. La cultura de las caritas sonrientes y la cultura Nopiloa
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 60
+**Subtema:** culturas de occidente de méxico
+
+Desde el Preclásico se desarrollaron dos tradiciones en Occidente: la cultura de las Tumbas de Tiro y la cultura de Tierra Caliente.
+
+### 122
+
+De acuerdo con el libro de Historia de México 1, ¿entre qué años y en qué estados se ubica la cultura de las Tumbas de Tiro?
+
+- A. Entre el 200 a. C. y 600 d. C., en Colima, Jalisco, Michoacán y Nayarit
+- B. Entre el 900 y 1521 d. C., en Veracruz y Tabasco
+- C. Entre el 500 y 200 a. C., en Oaxaca y Chiapas
+- D. Entre el 200 y 650 d. C., en el Estado de México e Hidalgo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 60
+**Subtema:** culturas de occidente de méxico
+
+La cultura de las Tumbas de Tiro se ubica entre el 200 a. C. y 600 d. C. en Colima, Jalisco, Michoacán y Nayarit.
+
+### 123
+
+De acuerdo con el libro de Historia de México 1, ¿en qué consisten los sepulcros de la cultura de las Tumbas de Tiro?
+
+- A. En un tiro o pozo vertical de más de diez metros que conduce a una o varias cámaras laterales
+- B. En una pirámide escalonada con cámara en la cúspide
+- C. En una plataforma circular rodeada de plazas
+- D. En un basamento de talud-tablero con cripta interior
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 60
+**Subtema:** culturas de occidente de méxico
+
+Los sepulcros consisten en un tiro o pozo vertical de más de diez metros, que conduce a una o a varias cámaras laterales donde se depositaba a los difuntos con objetos rituales.
+
+### 124
+
+De acuerdo con el libro de Historia de México 1, ¿qué formas tiene la cerámica funeraria de Colima?
+
+- A. Forma de calabaza, guajes, cactáceas, loros, perros y seres humanos
+- B. Forma de serpientes-jaguar emplumadas
+- C. Forma de danzantes y urnas funerarias
+- D. Forma de caritas sonrientes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 60
+**Subtema:** culturas de occidente de méxico
+
+La cerámica funeraria de Colima consta de vasijas y figurillas con forma de calabaza, guajes, cactáceas, loros, perros y seres humanos realizando actividades cotidianas.
+
+### 125
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles son las vasijas más reconocidas de la cerámica de Colima y por quién fueron creadas?
+
+- A. Las del tipo Capacha, creadas por el pueblo que recibe ese mismo nombre
+- B. Las del tipo guachimontón, creadas por los teuchitecos
+- C. Las del tipo Remojadas, creadas por los totonacos
+- D. Las del tipo Nopiloa, fabricadas en molde
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 60
+**Subtema:** culturas de occidente de méxico
+
+Las más reconocidas son del tipo Capacha, creadas por el pueblo que recibe ese mismo nombre.
+
+### 126
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se conocen los conjuntos habitacionales dispuestos alrededor de plazas circulares con un montículo central, propios de la cerámica de Jalisco?
+
+- A. Guachimontones
+- B. Tumbas de Tiro
+- C. Chinampas
+- D. Calpulli
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 60
+**Subtema:** culturas de occidente de méxico
+
+Situadas alrededor de plazas circulares con un montículo central; estos conjuntos habitacionales se pueden observar en algunos sitios arqueológicos y son conocidos como guachimontones.
+
+### 127
+
+De acuerdo con el libro de Historia de México 1, ¿en qué horizonte y lugar tuvieron su máxima expresión los guachimontones?
+
+- A. En el Clásico (200-400 d. C.), en Teuchitlán
+- B. En el Posclásico (900-1200 d. C.), en Tula
+- C. En el Preclásico medio (1200-400 a. C.), en La Venta
+- D. En el Epiclásico (650-900 d. C.), en El Tajín
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 60
+**Subtema:** culturas de occidente de méxico
+
+Tuvieron su máxima expresión en el Clásico (200-400 d. C.), en Teuchitlán, donde también se encuentran estructuras para el juego de pelota.
+
+### 128
+
+De acuerdo con el libro de Historia de México 1, ¿qué colores muestra la cerámica de Nayarit?
+
+- A. Rojo, negro, blanco, amarillo y café
+- B. Sólo rojo y negro sobre crema
+- C. Azul, verde y turquesa
+- D. Un solo color monocromo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 60
+**Subtema:** culturas de occidente de méxico
+
+La cerámica de Nayarit, muestra varios colores, tanto en las vasijas como en las maquetas y figurillas. Los colores utilizados son el rojo, negro, blanco, amarillo y café.
+
+### 129
+
+De acuerdo con el libro de Historia de México 1, ¿dónde se asentaron las culturas de Tierra Caliente?
+
+- A. A lo largo del río Balsas y sus afluentes
+- B. A lo largo del río Pánuco
+- C. En la cuenca de los ríos Gila y Salado
+- D. A la orilla del lago de Texcoco
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 60
+**Subtema:** culturas de occidente de méxico
+
+Las culturas de Tierra Caliente se asentaron a lo largo del río Balsas y sus afluentes.
+
+### 130
+
+De acuerdo con el libro de Historia de México 1, ¿qué materiales tallaron las culturas de Tierra Caliente para elaborar objetos de uso suntuario?
+
+- A. La obsidiana y la jadeíta
+- B. El basalto y la andesita
+- C. El oro y la plata
+- D. El jade y el ónix
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 60
+**Subtema:** culturas de occidente de méxico
+
+Tallaron la obsidiana y jadeíta para elaborar pendientes, figurillas, cuentas y otros objetos de uso suntuario.
+
+### 131
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se llamaba la armadura de algodón con que los guerreros de Occidente cubrían su cuerpo?
+
+- A. Escaupil
+- B. Faldellín
+- C. Bajareque
+- D. Tecomate
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas de occidente de méxico
+
+Las representaciones de guerreros con mazas, cascos y macanas, que cubrían su cuerpo con una armadura de algodón (escaupil).
+
+### 132
+
+De acuerdo con el libro de Historia de México 1, ¿qué deidad destaca en la religión de las culturas de Occidente, asociada al culto a la fertilidad de la Tierra?
+
+- A. La diosa madre
+- B. Cocijo
+- C. Xipe Totec
+- D. Huitzilopochtli
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas de occidente de méxico
+
+Destacan las deidades asociadas a la naturaleza y el culto a la fertilidad de la Tierra, como la diosa madre.
+
+### 133
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles de las siguientes culturas se asentaron en el área de Occidente?
+
+- A. Chametla, en Sinaloa; San Blas, en Nayarit; Jiquilpan y Apatzingán, en Michoacán
+- B. Ranas y Toluquilla, en Querétaro
+- C. Bonampak y Palenque, en Chiapas
+- D. Tetitla y Tepantitla, en el Estado de México
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas de occidente de méxico
+
+Las culturas asentadas en esta área fueron Chametla, en Sinaloa, San Blas, en Nayarit; Totoate, Cerro Encantado y Tomatlán, en Jalisco; Jiquilpan y Apatzingán, en Michoacán; la Villita y Costa Grande, en Guerrero.
+
+### 134
+
+De acuerdo con el libro de Historia de México 1, ¿qué metales se trabajaron en Occidente con la aparición de la metalurgia durante el Posclásico?
+
+- A. Oro, plata y cobre, y también estaño, plomo y bronce
+- B. Hierro y acero
+- C. Sólo oro y plata
+- D. Mercurio y zinc
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas de occidente de méxico
+
+Con la aparición de la metalurgia se hicieron objetos de oro, plata y cobre, aunque también llegaron a trabajar el estaño, el plomo y el bronce.
+
+### 135
+
+De acuerdo con el libro de Historia de México 1, ¿qué prácticas se sabe que tenían los pueblos de Occidente respecto a sus costumbres?
+
+- A. El sacrificio humano y la mutilación dentaria
+- B. La deformación craneana y el juego de pelota ritual
+- C. La escritura glífica y el calendario de 260 días
+- D. La momificación y el enterramiento en pirámides
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas de occidente de méxico
+
+Se sabe que practicaban el sacrificio humano y la mutilación dentaria; enterraban a sus muertos directamente en la tierra con ofrendas.
+
+---
+
+**Reactivos en este archivo:** 135 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y cinco *Culturas de Mesoamérica*: **olmecas** (Preclásico, pp. 53 y 55), **teotihuacanos** (Clásico, pp. 56–57), **zapotecas** (Clásico, pp. 57–58), **Centro de Veracruz** (Clásico, pp. 58–59) y **Occidente de México** (pp. 60–61); siguen las **Culturas del Centro norte** (desde la p. 61) y el resto, hasta la p. 84)
