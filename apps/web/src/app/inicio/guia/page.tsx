@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { HeaderPrivado } from '../HeaderPrivado'
-import { cn } from '@/lib/utils'
+import { GuardiaGuia } from '@/components/guia/GuardiaGuia'
 import { CAPITULOS_GUIA } from '@/lib/guia-index'
 import { BookOpen, Sparkles, FileText } from 'lucide-react'
 
@@ -20,6 +20,7 @@ export default function IndiceGuiaPage() {
     <main className="min-h-screen bg-background">
       <HeaderPrivado />
 
+      <GuardiaGuia>
       <div className="mx-auto max-w-5xl px-6 py-10">
         {/* Hero */}
         <div className="relative overflow-hidden rounded-2xl bg-primary p-8 text-primary-foreground">
@@ -102,6 +103,7 @@ export default function IndiceGuiaPage() {
           ))}
         </section>
       </div>
+      </GuardiaGuia>
     </main>
   )
 }

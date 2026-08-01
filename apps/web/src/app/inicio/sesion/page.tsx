@@ -37,6 +37,17 @@ export default function ArrancarSesionPage() {
           setError('Necesitas elegir un plantel antes de iniciar el simulador completo.')
           return
         }
+        // Candado de acceso: la sesión psicológica es de pago. Si el muro está
+        // activo y no se ha comprado el módulo, a /precios ANTES de crear una
+        // sesión vacía (el simulador vuelve a frenar por si acaso).
+        const acceso = await apiFetch<{ candadoActivo: boolean; modulos: string[] }>(
+          '/acceso/mios',
+        )
+        if (cancelado) return
+        if (acceso.candadoActivo && !acceso.modulos.includes('psicologico')) {
+          router.replace('/precios')
+          return
+        }
         const sesion = await apiFetch<Sesion>('/sesiones-completas', {
           method: 'POST',
           body: { plantelId: perfil.plantelId },
