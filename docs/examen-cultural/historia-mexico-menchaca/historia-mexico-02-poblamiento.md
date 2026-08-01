@@ -46,15 +46,16 @@ Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales 
 Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
 periodización de los horizontes culturales y los tres horizontes —Preclásico,
 Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
-y tres de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
-y 55), los **teotihuacanos** (Periodo Clásico, pp. 56–57) y los **zapotecas** (Periodo
-Clásico, pp. 57–58).
+y cuatro de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
+y 55), los **teotihuacanos** (Periodo Clásico, pp. 56–57), los **zapotecas** (Periodo
+Clásico, pp. 57–58) y las **Culturas del Centro de Veracruz** (Periodo Clásico,
+pp. 58–59).
 
 **Pendiente: el resto de las *Culturas de Mesoamérica* cultura por cultura**
-(pp. 58–84), desde las **Culturas del Centro de Veracruz** (Periodo Clásico, p. 58) en
-adelante (maya, tolteca, mexica, etc.). Las páginas de actividad con fichas o mapas
-conceptuales en blanco (la p. 54 y las que sigan) no llevan reactivos. El Bloque 2
-**NO** está cerrado hasta cubrir esas culturas.
+(pp. 60–84), desde las **Culturas de Occidente de México** (p. 60) en adelante (maya,
+tolteca, mexica, etc.). Las páginas de actividad con fichas o mapas conceptuales en
+blanco (la p. 54 y las que sigan) no llevan reactivos. El Bloque 2 **NO** está cerrado
+hasta cubrir esas culturas.
 
 ## Cómo se escriben estos reactivos
 
@@ -1690,4 +1691,233 @@ El abandono de Monte Albán en el 750 d. C., marcó el declive de los zapotecas,
 
 ---
 
-**Reactivos en este archivo:** 105 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y tres *Culturas de Mesoamérica*: **olmecas** (Preclásico, pp. 53 y 55), **teotihuacanos** (Clásico, pp. 56–57) y **zapotecas** (Clásico, pp. 57–58); siguen las **Culturas del Centro de Veracruz** (Periodo Clásico, desde la p. 58) y el resto, hasta la p. 84)
+## Sub-lote 12 · Culturas del Centro de Veracruz (Periodo Clásico, pp. 58-59)
+
+### 106
+
+De acuerdo con el libro de Historia de México 1, ¿en qué horizonte se establecieron las culturas del Centro de Veracruz y qué hacía ideal a la región para la agricultura?
+
+- A. Durante el Clásico; la abundancia de agua
+- B. Durante el Preclásico; la abundancia de bosques
+- C. Durante el Posclásico; la abundancia de metales
+- D. Durante el Protoclásico; la abundancia de obsidiana
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 58
+**Subtema:** culturas del centro de veracruz
+
+En Veracruz se establecieron varias sociedades durante el Clásico, debido a que la región cuenta con abundancia de agua, que la hace ideal para la agricultura.
+
+### 107
+
+De acuerdo con el libro de Historia de México 1, ¿desde hace cuánto se ha identificado la presencia humana en la zona del Centro de Veracruz?
+
+- A. Desde hace más de 7 000 años
+- B. Desde hace más de 2 500 años
+- C. Desde hace más de 30 000 años
+- D. Desde hace más de 100 000 años
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 58
+**Subtema:** culturas del centro de veracruz
+
+Se ha identificado su presencia en la zona desde hace más de 7 000 años.
+
+### 108
+
+De acuerdo con el libro de Historia de México 1, ¿de qué vivían y dónde se distribuían las primeras sociedades del Centro de Veracruz?
+
+- A. Eran recolectores-cazadores y pescadores que se distribuían a la orilla de ríos y lagunas
+- B. Eran agricultores sedentarios asentados en el altiplano
+- C. Eran comerciantes que recorrían las rutas de larga distancia
+- D. Eran mineros que extraían oro y cobre en la sierra
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 58
+**Subtema:** culturas del centro de veracruz
+
+Se trata de recolectores-cazadores y pescadores que se distribuían a la orilla de ríos y lagunas.
+
+### 109
+
+De acuerdo con el libro de Historia de México 1, ¿con qué centros revelan intercambio comercial los objetos hallados en el Centro de Veracruz?
+
+- A. Con Teotihuacán, Cholula, Ranas, Toluquilla, Xochicalco y Cacaxtla
+- B. Con La Venta, Tres Zapotes, San Lorenzo y Las Limas
+- C. Con Tula, Chichén-Itzá, Mayapán y Uxmal
+- D. Con Monte Albán, Mitla, Huijazoo y Yagul
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 59
+**Subtema:** culturas del centro de veracruz
+
+Ha sido posible reconocer sus vínculos con otras áreas, gracias a la presencia de objetos que revelan el intercambio comercial con Teotihuacán, Cholula, Ranas, Toluquilla, Xochicalco y Cacaxtla.
+
+### 110
+
+De acuerdo con el libro de Historia de México 1, ¿de qué eran dioses Xipe Totec y Mictlantecuhtli, deidades del Golfo incorporadas al panteón del Altiplano central?
+
+- A. Xipe Totec, dios de la primavera, y Mictlantecuhtli, dios del inframundo
+- B. Xipe Totec, dios de la lluvia, y Mictlantecuhtli, dios del sol
+- C. Xipe Totec, dios del inframundo, y Mictlantecuhtli, dios de la primavera
+- D. Xipe Totec, dios del fuego, y Mictlantecuhtli, dios del maíz
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 59
+**Subtema:** culturas del centro de veracruz
+
+*Xipe Totec* (dios de la primavera) y *Mictlantecuhtli* (dios del inframundo), sus deidades más importantes, fueron incorporados en el panteón de los pueblos del Altiplano central.
+
+### 111
+
+De acuerdo con el libro de Historia de México 1, ¿qué ritual, practicado en patios en forma de I y asociado a la actividad agrícola, tuvo su origen en el área del Centro de Veracruz?
+
+- A. El ritual de juego de pelota
+- B. El sacrificio de cautivos
+- C. El culto a las cabezas colosales
+- D. La danza de los danzantes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 59
+**Subtema:** culturas del centro de veracruz
+
+Destaca el ritual de juego la pelota, practicado en patios en forma de I asociado a la actividad agrícola, que tuvo su origen en esta área.
+
+### 112
+
+De acuerdo con el libro de Historia de México 1, ¿por qué es notable la cultura Cerro de las Mesas?
+
+- A. Por la talla de lápidas y estelas, de gran calidad artística
+- B. Por las cabezas colosales de basalto
+- C. Por las urnas funerarias con forma de dioses
+- D. Por la Pirámide de los nichos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 59
+**Subtema:** culturas del centro de veracruz
+
+La cultura *Cerro de las Mesas* es notable por la talla de lápidas y estelas, de gran calidad artística.
+
+### 113
+
+De acuerdo con el libro de Historia de México 1, ¿en qué destaca la cultura Remojadas?
+
+- A. En la escultura de barro con las "caritas sonrientes"
+- B. En la talla de lápidas y estelas
+- C. En la orfebrería de oro y cobre
+- D. En la construcción de chinampas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 59
+**Subtema:** culturas del centro de veracruz
+
+Destaca también la cultura Remojadas en la escultura de barro con las "caritas sonrientes".
+
+### 114
+
+De acuerdo con el libro de Historia de México 1, ¿en qué horizonte alcanzaron su máximo esplendor estas expresiones del Centro de Veracruz, y por qué?
+
+- A. En el Epiclásico (650-900 d. C.), por su relación con el culto a la muerte
+- B. En el Preclásico medio (1200-400 a. C.), por el culto al jaguar
+- C. En el Posclásico (900-1521 d. C.), por el militarismo
+- D. En el Protoclásico (200 a. C. a 200 d. C.), por el comercio
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 59
+**Subtema:** culturas del centro de veracruz
+
+Estas expresiones, aunque comenzaron en el Protoclásico, alcanzaron su máximo esplendor en el Epiclásico (650-900 d. C.), en gran medida por su relación con el culto a la muerte.
+
+### 115
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles son los dos asentamientos representativos del área del Centro de Veracruz?
+
+- A. El Tajín y Yohualichán
+- B. Cerro de las Mesas y Remojadas
+- C. La Venta y Tres Zapotes
+- D. Monte Albán y Mitla
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 59
+**Subtema:** culturas del centro de veracruz
+
+El Tajín y Yohualichán son los dos asentamientos representativos del área.
+
+### 116
+
+De acuerdo con el libro de Historia de México 1, ¿en qué año comenzó a construirse El Tajín y cuándo ocurrió su máximo esplendor?
+
+- A. Comenzó en el año 100 d. C. y su máximo esplendor ocurrió entre el 600 y 900 d. C.
+- B. Comenzó en el año 200 a. C. y su máximo esplendor ocurrió entre el 200 y 650 d. C.
+- C. Comenzó en el año 900 d. C. y su máximo esplendor ocurrió entre el 1200 y 1521 d. C.
+- D. Comenzó en el año 400 a. C. y su máximo esplendor ocurrió entre el 100 y 400 d. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 59
+**Subtema:** culturas del centro de veracruz
+
+El Tajín comenzó a construirse en el año 100 d. C., aunque su máximo esplendor ocurrió entre el 600 y 900 d. C.
+
+### 117
+
+De acuerdo con el libro de Historia de México 1, ¿cuál es el edificio más importante de El Tajín y por cuántos nichos es reconocido?
+
+- A. La Pirámide de los nichos, por sus 365 nichos y grecas escalonadas
+- B. La Pirámide del Sol, por sus 225 nichos
+- C. La Pirámide de Quetzalcóatl, por sus 260 nichos
+- D. La Pirámide de la Luna, por sus 400 nichos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 59
+**Subtema:** culturas del centro de veracruz
+
+De todos sus edificios, sin duda el más importante es la Pirámide de los nichos, ejemplo único del dominio del claroscuro a través del juego de volúmenes por medio de sus 365 nichos y grecas escalonadas.
+
+### 118
+
+De acuerdo con el libro de Historia de México 1, ¿qué sobresale de la cultura Nopiloa en el Epiclásico?
+
+- A. Las esculturas hechas de barro y fabricadas en molde
+- B. La talla de lápidas y estelas
+- C. Las cabezas colosales de basalto
+- D. Los mosaicos de piedra
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 59
+**Subtema:** culturas del centro de veracruz
+
+En el Epiclásico sobresalen las esculturas hechas de barro y fabricadas en molde de la cultura Nopiloa.
+
+### 119
+
+De acuerdo con el libro de Historia de México 1, ¿qué objetos de amplia difusión, encontrados desde Centroamérica hasta el área del Pánuco, destacan del Centro de Veracruz?
+
+- A. Los juguetes articulados y de ruedas
+- B. Las cabezas colosales de basalto
+- C. Los yugos de jade
+- D. Las urnas funerarias
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 59
+**Subtema:** culturas del centro de veracruz
+
+Destacan los juguetes articulados y de ruedas que tuvieron amplia difusión, pues se les ha encontrado desde Centroamérica, hasta el área del Pánuco.
+
+### 120
+
+De acuerdo con el libro de Historia de México 1, ¿qué objetos, cuya distribución alcanzó zonas tan alejadas como el Centro norte, el Altiplano central y el Área maya, sobresalen del Centro de Veracruz?
+
+- A. Los yugos, palmas y hachas
+- B. Las cabezas colosales, altares y estelas
+- C. Las urnas funerarias, máscaras e incensarios
+- D. Los mosaicos de piedra y las grecas escalonadas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 59
+**Subtema:** culturas del centro de veracruz
+
+Sobresalen los yugos, palmas y hachas, cuya presencia no es exclusiva de la zona, ya que su distribución alcanzó zonas tan alejadas del Centro norte, Altiplano central y Área maya.
+
+---
+
+**Reactivos en este archivo:** 120 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y cuatro *Culturas de Mesoamérica*: **olmecas** (Preclásico, pp. 53 y 55), **teotihuacanos** (Clásico, pp. 56–57), **zapotecas** (Clásico, pp. 57–58) y **Centro de Veracruz** (Clásico, pp. 58–59); siguen las **Culturas de Occidente de México** (desde la p. 60) y el resto, hasta la p. 84)
