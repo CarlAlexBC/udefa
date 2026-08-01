@@ -46,16 +46,29 @@ Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales 
 Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
 periodización de los horizontes culturales y los tres horizontes —Preclásico,
 Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
-y cinco de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
+y seis de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
 y 55), los **teotihuacanos** (Periodo Clásico, pp. 56–57), los **zapotecas** (Periodo
 Clásico, pp. 57–58), las **Culturas del Centro de Veracruz** (Periodo Clásico,
-pp. 58–59) y las **Culturas de Occidente de México** (pp. 60–61).
+pp. 58–59), las **Culturas de Occidente de México** (pp. 60–61) y las **Culturas del
+Centro norte** (pp. 61–63). Con el Centro norte se cierra el **Periodo Clásico**.
 
-**Pendiente: el resto de las *Culturas de Mesoamérica* cultura por cultura**
-(pp. 61–84), desde las **Culturas del Centro norte** (p. 61) en adelante (maya,
-tolteca, mexica, etc.). Las páginas de actividad con fichas o mapas conceptuales en
-blanco (la p. 54 y las que sigan) no llevan reactivos. El Bloque 2 **NO** está cerrado
-hasta cubrir esas culturas.
+**Pendiente: el *Periodo Posclásico* cultura por cultura** (pp. 63–84), desde los
+**mayas** (p. 63) —que el libro coloca en el Posclásico— y las demás (toltecas,
+mexicas, etc.). Las páginas de actividad con fichas o mapas conceptuales en blanco (la
+p. 54 y las que sigan) no llevan reactivos. El Bloque 2 **NO** está cerrado hasta
+cubrir esas culturas.
+
+## Avisos al aspirante (erratas del libro)
+
+Rarezas de escritura detectadas al recortar el escaneo a 600 dpi (no son suciedad del
+escaneo, son del libro). **El dato de fondo es correcto**; sólo la grafía falla. Se
+citan verbatim en la justificación, pero **la opción correcta del reactivo no depende
+de la grafía errada**:
+
+- **"tzomplantli"** por *tzompantli* (muro de cráneos), p. 61 (Cultura Chalchihuites).
+- **"Jaileza"** por *Jalieza* (sitio zapoteco), p. 58 (declive de Monte Albán).
+- El libro alterna **"Tezcatlipoca"** (p. 61) y **"Tezcatipoca"** (p. 62, en Ranas)
+  para el mismo dios.
 
 ## Cómo se escriben estos reactivos
 
@@ -2149,4 +2162,308 @@ Se sabe que practicaban el sacrificio humano y la mutilación dentaria; enterrab
 
 ---
 
-**Reactivos en este archivo:** 135 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y cinco *Culturas de Mesoamérica*: **olmecas** (Preclásico, pp. 53 y 55), **teotihuacanos** (Clásico, pp. 56–57), **zapotecas** (Clásico, pp. 57–58), **Centro de Veracruz** (Clásico, pp. 58–59) y **Occidente de México** (pp. 60–61); siguen las **Culturas del Centro norte** (desde la p. 61) y el resto, hasta la p. 84)
+## Sub-lote 14 · Culturas del Centro norte (pp. 61-63)
+
+### 136
+
+De acuerdo con el libro de Historia de México 1, ¿en qué año se inició la vida sedentaria en el Centro norte, y por qué?
+
+- A. En el 600 a. C., por las condiciones favorables para la agricultura y por ser la ruta obligada de intercambio entre Mesoamérica y Oasisamérica
+- B. En el 200 a. C., por el auge de la metalurgia
+- C. En el 900 d. C., por la llegada de los toltecas
+- D. En el 2500 a. C., por el cultivo del maíz
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas del centro norte
+
+En el Centro norte la vida sedentaria se inició en el 600 a. C. Sabemos que se debió a las condiciones favorables para la agricultura y a que era la ruta obligada para el intercambio comercial entre Mesoamérica y Oasisamérica.
+
+### 137
+
+De acuerdo con el libro de Historia de México 1, ¿qué productos minerales comerciaba el Centro norte, muy apreciados por los demás pueblos mesoamericanos?
+
+- A. La turquesa de Altavista y el cinabrio de la Sierra Gorda de Querétaro
+- B. El oro y la plata de Zacatecas
+- C. La obsidiana y la jadeíta del río Balsas
+- D. El jade y el ónix del Golfo de México
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas del centro norte
+
+Las sociedades del Centro norte comerciaban varios productos, principalmente de origen mineral, que eran muy apreciados por los demás pueblos mesoamericanos, como la turquesa de Altavista y el cinabrio de la Sierra Gorda de Querétaro.
+
+### 138
+
+De acuerdo con el libro de Historia de México 1, ¿qué deidades es posible identificar en la religión del Centro norte?
+
+- A. Tláloc, Quetzalcóatl, Huehuetéotl, Tezcatlipoca y una deidad femenina asociada al culto y a la fertilidad
+- B. Cocijo, Nohuichana, Capijcha y Caqui Xee
+- C. Xipe Totec, Mictlantecuhtli y la diosa madre
+- D. Huitzilopochtli, Curicaueri y Coatlicue
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas del centro norte
+
+La religión estaba estrechamente vinculada a la del resto de Mesoamérica; es posible identificar a Tláloc, Quetzalcóatl, Huehuetéotl, Tezcatlipoca y una deidad femenina asociada al culto y a la fertilidad.
+
+### 139
+
+De acuerdo con el libro de Historia de México 1, ¿a qué se debió el origen de la Cultura Chalchihuites?
+
+- A. A la llegada de grupos mesoamericanos a Zacatecas para explotar las minas de turquesa
+- B. A la migración de los olmecas desde el Golfo de México
+- C. A la fundación de Monte Albán por los zapotecas
+- D. A la llegada de los chichimecas del norte
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas del centro norte
+
+La Cultura Chalchihuites es una de las tradiciones más importantes del Centro norte. Su origen se debió a la llegada de grupos mesoamericanos a Zacatecas a principios de nuestra era para explotar las minas de turquesa que se encuentran en la zona.
+
+### 140
+
+De acuerdo con el libro de Historia de México 1, ¿qué fue Altavista para la Cultura Chalchihuites y qué caracteriza el trazo de sus construcciones?
+
+- A. Su centro ceremonial y administrativo; el trazo obedece a una orientación astronómica
+- B. Su principal centro comercial, protegido por muros de laja
+- C. Su necrópolis, con tumbas de tiro de más de diez metros
+- D. Su puerto de intercambio con Oasisamérica
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas del centro norte
+
+Altavista fue su centro ceremonial y administrativo; el trazo de sus construcciones obedece a una orientación astronómica.
+
+### 141
+
+De acuerdo con el libro de Historia de México 1, ¿qué fue La Quemada y cómo fue construida?
+
+- A. Un importante centro comercial construido sobre una elevación natural nivelada con muros de laja que crearon terrazas usadas como retenes
+- B. Un centro ceremonial cuyo trazo obedece a una orientación astronómica
+- C. Una necrópolis de tumbas de tiro de más de diez metros
+- D. Un puerto lacustre construido sobre chinampas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas del centro norte
+
+La Quemada era un importante centro comercial que fue construido sobre una elevación natural nivelada con muros hechos de laja para crear terrazas que sirvieron como retenes.
+
+### 142
+
+De acuerdo con el libro de Historia de México 1, ¿por quiénes fueron habitados Altavista y La Quemada, y hasta cuándo?
+
+- A. Por los llamados tolteca-chichimeca, hasta el 900 d. C.
+- B. Por los olmecas, hasta el 400 a. C.
+- C. Por los zapotecas, hasta el 750 d. C.
+- D. Por los mexicas, hasta el 1521 d. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas del centro norte
+
+Ambos sitios fueron habitados por los llamados tolteca-chichimeca hasta el 900 d. C., cuando los abandonaron y se dirigieron al Altiplano central.
+
+### 143
+
+De acuerdo con el libro de Historia de México 1, ¿qué manifestaciones culturales propias de Chalchihuites fueron retomadas por los toltecas?
+
+- A. El muro de cráneos y el chac mol
+- B. El talud-tablero y los patios hundidos
+- C. Las cabezas colosales y los altares
+- D. Las tumbas de tiro y las maquetas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas del centro norte
+
+El tzomplantli (muro de cráneos) y el chac mol son manifestaciones culturales propias de Chalchihuites que fueron retomadas por los toltecas.
+
+### 144
+
+De acuerdo con el libro de Historia de México 1, ¿dónde se ubica el asentamiento de San Bartolo Aguacaliente, de la Cultura del Bajío, y entre qué años se fecha su ocupación?
+
+- A. En Guanajuato; su ocupación está fechada entre el 300 y 450 d. C.
+- B. En Zacatecas; su ocupación está fechada entre el 900 y 1200 d. C.
+- C. En Querétaro; su ocupación está fechada entre el 500 y 200 a. C.
+- D. En Tamaulipas; su ocupación está fechada entre el 1200 y 1530 d. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 61
+**Subtema:** culturas del centro norte
+
+La Cultura del Bajío se distribuyó ampliamente en esta subárea. Construyó varios asentamientos, como el de San Bartolo Aguacaliente, ubicado en Guanajuato. Su ocupación está fechada entre el 300 y 450 d. C.
+
+### 145
+
+De acuerdo con el libro de Historia de México 1, ¿cerca de qué ciudad se localiza Santa María del Refugio, otro sitio de la Cultura del Bajío?
+
+- A. Cerca de Celaya, Guanajuato
+- B. Cerca de Zacatecas
+- C. Cerca de Oaxaca
+- D. Cerca de Tula
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 62
+**Subtema:** culturas del centro norte
+
+Santa María del Refugio es otro sitio asociado a la Cultura del Bajío; está cercano a Celaya, Guanajuato.
+
+### 146
+
+De acuerdo con el libro de Historia de México 1, ¿por qué es importante el Cerro de la Cruz?
+
+- A. Porque fue el primer recinto ceremonial en Querétaro (500 a. C.)
+- B. Porque fue la capital de los zapotecas
+- C. Porque fue el centro ceremonial de los olmecas
+- D. Porque fue la metrópoli más grande del Altiplano central
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 62
+**Subtema:** culturas del centro norte
+
+El Cerro de la Cruz fue un centro político y religioso, cuya importancia radica no sólo en el hecho de que fue el primer recinto ceremonial en Querétaro (500 a. C.).
+
+### 147
+
+De acuerdo con el libro de Historia de México 1, ¿qué papel tuvo Chupícuaro en el poblamiento del Centro norte?
+
+- A. Fue promotor de gran parte del poblamiento del Centro norte durante el Formativo medio
+- B. Fue la capital de la Cultura Serrana
+- C. Fue el principal centro minero de cinabrio
+- D. Fue el puerto de intercambio con los mayas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 62
+**Subtema:** culturas del centro norte
+
+Este lugar mantuvo contacto con Chupícuaro, quien fue promotor de gran parte del poblamiento en el Centro norte durante el Formativo medio.
+
+### 148
+
+De acuerdo con el libro de Historia de México 1, ¿dónde se desarrolló la Cultura Serrana y cuáles eran sus centros político-religiosos más importantes?
+
+- A. En el norte de Querétaro; Ranas y Toluquilla
+- B. En Zacatecas; Altavista y La Quemada
+- C. En Guanajuato; San Bartolo Aguacaliente y Santa María del Refugio
+- D. En Tamaulipas; El Balcón de Montezuma y El Sabinito
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 62
+**Subtema:** culturas del centro norte
+
+En el norte de Querétaro se desarrolló la Cultura Serrana, con Ranas y Toluquilla como centros político-religiosos más importantes.
+
+### 149
+
+De acuerdo con el libro de Historia de México 1, ¿entre qué años fue construido y habitado Ranas, y qué mineral extraían sus grupos además de cultivar maíz?
+
+- A. Entre el 300 y 800 d. C.; extraían cinabrio (sulfuro de mercurio)
+- B. Entre el 500 y 200 a. C.; extraían turquesa
+- C. Entre el 900 y 1200 d. C.; extraían obsidiana
+- D. Entre el 200 y 650 d. C.; extraían jadeíta
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 62
+**Subtema:** culturas del centro norte
+
+Fue construido y habitado entre el 300 y 800 d. C., por grupos que se dedicaban al cultivo de maíz. Esta actividad se alternaba con la extracción de cinabrio (sulfuro de mercurio), mineral de tono rojizo que tenía gran demanda entre los pueblos mesoamericanos.
+
+### 150
+
+De acuerdo con el libro de Historia de México 1, ¿a qué deidades veneraban en Ranas?
+
+- A. Tláloc, Quetzalcóatl, Centéotl, Tezcatipoca y Huehuetéotl
+- B. Cocijo, Nohuichana y Capijcha
+- C. Xipe Totec y Mictlantecuhtli
+- D. Huitzilopochtli, Coatlicue y Curicaueri
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 62
+**Subtema:** culturas del centro norte
+
+La religión era politeísta, veneraban a Tláloc, Quetzalcóatl, Centéotl, Tezcatipoca y Huehuetéotl.
+
+### 151
+
+De acuerdo con el libro de Historia de México 1, ¿entre qué años se registra la decadencia de Ranas?
+
+- A. Entre los años 1000 y 1100 d. C.
+- B. Entre los años 300 y 800 d. C.
+- C. Entre los años 500 y 200 a. C.
+- D. Entre los años 1200 y 1530 d. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 62
+**Subtema:** culturas del centro norte
+
+Su decadencia se registra entre los años 1000 y 1100 d. C. Tras ser abandonado por sus habitantes, este territorio fue ocupado por grupos chichimecas.
+
+### 152
+
+De acuerdo con el libro de Historia de México 1, ¿cuántos edificios construyeron en Toluquilla y en qué año fue abandonada la ciudad?
+
+- A. Más de 120 edificios; fue abandonada en el 1400 d. C.
+- B. Más de 600 edificios; fue abandonada en el 900 d. C.
+- C. Más de 365 edificios; fue abandonada en el 1521 d. C.
+- D. Más de 225 edificios; fue abandonada en el 750 d. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 63
+**Subtema:** culturas del centro norte
+
+Construyeron más de 120 edificios, entre templos, palacios y juegos de pelota. [...] Finalmente, la ciudad fue abandonada en el 1400 d. C.
+
+### 153
+
+De acuerdo con el libro de Historia de México 1, ¿dónde se localiza El Balcón de Montezuma y con qué material se construyó?
+
+- A. En Tamaulipas; con grandes bloques de piedra caliza
+- B. En Zacatecas; con muros de laja
+- C. En Guanajuato; con barro y piedra
+- D. En Querétaro; con talud-tablero
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 63
+**Subtema:** culturas del centro norte
+
+El Balcón de Montezuma se localiza en Tamaulipas... el sistema constructivo consistió básicamente en grandes bloques de piedra caliza.
+
+### 154
+
+De acuerdo con el libro de Historia de México 1, ¿cuántas estructuras se han localizado en El Sabinito?
+
+- A. Más de 600 estructuras
+- B. Más de 120 estructuras
+- C. Más de 365 estructuras
+- D. Más de 30 estructuras
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 63
+**Subtema:** culturas del centro norte
+
+El Sabinito es otro asentamiento del mismo estilo arquitectónico que el Balcón de Montezuma. En el lugar se han localizado más de 600 estructuras.
+
+### 155
+
+De acuerdo con el libro de Historia de México 1, ¿con el desarrollo de qué cultura coincidió el máximo esplendor de El Cerrito, en el valle de Querétaro?
+
+- A. Con la cultura tolteca (900-1200 d. C.)
+- B. Con la cultura olmeca (1200-400 a. C.)
+- C. Con la cultura teotihuacana (200-650 d. C.)
+- D. Con la cultura mexica (1200-1521 d. C.)
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 63
+**Subtema:** culturas del centro norte
+
+El Cerrito fue un centro político y religioso de gran importancia en el valle de Querétaro. [...] Su periodo de mayor esplendor coincidió con el desarrollo de la cultura tolteca (900-1200 d. C.).
+
+---
+
+**Reactivos en este archivo:** 155 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y seis *Culturas de Mesoamérica*: **olmecas** (Preclásico, pp. 53 y 55), **teotihuacanos** (Clásico, pp. 56–57), **zapotecas** (Clásico, pp. 57–58), **Centro de Veracruz** (Clásico, pp. 58–59), **Occidente de México** (pp. 60–61) y **Centro norte** (pp. 61–63); con las culturas del Centro norte se cierra el **Periodo Clásico**. Sigue el **Periodo Posclásico**, desde los **mayas** (p. 63) —que el libro coloca en el Posclásico— y las demás, hasta la p. 84)
