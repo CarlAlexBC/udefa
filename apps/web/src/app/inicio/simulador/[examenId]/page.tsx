@@ -412,8 +412,8 @@ export default function SimuladorPage({
       {/* Barra superior: examen, bloque, progreso, timer */}
       <div className="border-b border-border bg-card">
         <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-6 py-3">
-          <div>
-            <p className="text-xs font-semibold uppercase tracking-widest text-military">
+          <div className="min-w-0">
+            <p className="truncate text-xs font-semibold uppercase tracking-widest text-military">
               {examen?.nombre ?? 'Simulador'}
               {esDeCorrido
                 ? ` · ${bloqueActual.nombre}`
@@ -463,7 +463,7 @@ export default function SimuladorPage({
               217 caracteres, que a este tamaño son cinco líneas. Con 140 se
               desbordaba y volvía a mover las opciones. */}
           <div className="mb-8 flex min-h-[160px] items-center">
-            <h2 className="text-2xl font-semibold leading-snug text-foreground">
+            <h2 className="text-xl font-semibold leading-snug text-foreground sm:text-2xl">
               {reactivoActual.enunciado}
             </h2>
           </div>
