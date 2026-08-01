@@ -39,6 +39,16 @@ const COLOR = {
   dorado: { c: '#C99A3B', on: '#161513' },
 } as const
 
+// Logos oficiales de los métodos de pago (los aportó Carlo; viven en public/pagos/).
+// El w/h es el tamaño real de cada archivo — Next lo necesita para no deformarlos.
+// El de Mercado Pago se recortó para quitarle el fondo de cuadrícula del original.
+const LOGOS_PAGO = [
+  { nombre: 'Mercado Pago', src: '/pagos/mercadopago.png', w: 600, h: 216 },
+  { nombre: 'Visa', src: '/pagos/visa.png', w: 208, h: 68 },
+  { nombre: 'Mastercard', src: '/pagos/mastercard.png', w: 103, h: 45 },
+  { nombre: 'OXXO', src: '/pagos/oxxo.png', w: 107, h: 48 },
+] as const
+
 export default function PreciosPage() {
   return (
     <main className="flex-1 bg-background">
@@ -236,22 +246,26 @@ export default function PreciosPage() {
       <section className="mx-auto max-w-6xl px-6 py-8">
         <div className="grid grid-cols-1 gap-6 rounded-xl border border-border bg-card p-6 sm:grid-cols-2 lg:grid-cols-4">
           <Beneficio
-            icono={<RefreshCw className="h-5 w-5 text-accent" />}
+            icono={<RefreshCw className="h-5 w-5" />}
+            color={COLOR.verde}
             titulo="Actualizaciones incluidas"
             texto="Tu material se actualiza al temario oficial de la convocatoria vigente, sin costo."
           />
           <Beneficio
-            icono={<ShieldCheck className="h-5 w-5 text-accent" />}
+            icono={<ShieldCheck className="h-5 w-5" />}
+            color={COLOR.azul}
             titulo="Compra 100% segura"
             texto="Tus datos están protegidos con cifrado seguro."
           />
           <Beneficio
-            icono={<BadgeCheck className="h-5 w-5 text-accent" />}
+            icono={<BadgeCheck className="h-5 w-5" />}
+            color={COLOR.morado}
             titulo="Sin letras chicas"
             texto="Acceso claro y transparente durante todo tu plan."
           />
           <Beneficio
-            icono={<Headphones className="h-5 w-5 text-accent" />}
+            icono={<Headphones className="h-5 w-5" />}
+            color={COLOR.dorado}
             titulo="Soporte humano"
             texto="Te ayudamos cuando lo necesites."
           />
@@ -308,14 +322,20 @@ export default function PreciosPage() {
             · tarjeta, transferencia, OXXO y{' '}
             <span className="font-semibold text-foreground">meses sin intereses</span>.
           </p>
-          <div className="flex flex-wrap items-center justify-center gap-2">
-            {['Mercado Pago', 'Visa', 'Mastercard', 'OXXO'].map((m) => (
-              <span
-                key={m}
-                className="rounded-md border border-border bg-card px-3 py-1.5 text-xs font-semibold text-muted-foreground"
+          <div className="flex flex-wrap items-center justify-center gap-3">
+            {LOGOS_PAGO.map((l) => (
+              <div
+                key={l.nombre}
+                className="flex h-11 items-center justify-center rounded-lg border border-border bg-white px-4 shadow-sm"
               >
-                {m}
-              </span>
+                <Image
+                  src={l.src}
+                  alt={l.nombre}
+                  width={l.w}
+                  height={l.h}
+                  className="h-6 w-auto"
+                />
+              </div>
             ))}
             <span className="text-xs text-muted-foreground">y más</span>
           </div>
@@ -457,16 +477,21 @@ function resaltarTodo(texto: string): string {
 
 function Beneficio({
   icono,
+  color,
   titulo,
   texto,
 }: {
   icono: React.ReactNode
+  color: ColorPaquete
   titulo: string
   texto: string
 }) {
   return (
     <div className="flex items-start gap-3">
-      <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-muted">
+      <div
+        className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg"
+        style={{ backgroundColor: color.c + '1F', color: color.c }}
+      >
         {icono}
       </div>
       <div>
