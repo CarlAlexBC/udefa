@@ -57,8 +57,8 @@ pp. 68–69), los **mixtecos** (Periodo Posclásico, pp. 69–70), los **totonac
 
 **En curso: la *cultura mexica*** (Periodo Posclásico, pp. 72–73), la última y más
 extensa; por su volumen se trabaja **por temas**. Hechos los temas *migración y
-fundación*, *religión y dioses* (p. 72), *organización política* (pp. 72–73) y
-*organización social* (p. 73); faltan *arte* y *educación* (p. 73). Con la cultura mexica se cierra el Bloque 2: el
+fundación*, *religión y dioses* (p. 72), *organización política* (pp. 72–73),
+*organización social* y *arte* (p. 73); falta *educación* (p. 73). Con la cultura mexica se cierra el Bloque 2: el
 cuadro-resumen *Horizontes culturales de Mesoamérica* (p. 74) y la *Evaluación sumativa*
 (pp. 75–84, ejercicios del libro sin respuesta marcada) quedan **fuera del banco** por
 decisión de Carlo (1 ago 2026). Las páginas de actividad con fichas o mapas conceptuales
@@ -86,7 +86,9 @@ de la grafía errada**:
 - En la lista de los once **señores mexicas** (p. 73) el libro escribe **"Izcóatl"** (por
   *Itzcóatl*, omite la *t*), **"Tizoc"** (sin tilde, por *Tízoc*) y **"Ahuizótl"** (tilde
   desplazada, por *Ahuízotl*). Se citan verbatim; los distractores son señores de otros
-  pueblos (Tezozómoc, Nezahualcóyotl…), no la grafía corregida.
+  pueblos (Tezozómoc, Nezahualcóyotl…), no la grafía corregida. **Inconsistencia
+  interna:** el mismo libro escribe *Tízoc* **con** tilde al nombrar *la piedra de Tízoc*
+  (p. 73, arte), pero *Tizoc* **sin** tilde en la lista de señores (p. 73).
 
 ## Cómo se escriben estos reactivos
 
@@ -4977,4 +4979,173 @@ Los pochtecas, también hacían las funciones de embajadores y espías, tenían 
 
 ---
 
-**Reactivos en este archivo:** 318 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53), doce *Culturas de Mesoamérica* completas (**olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas**, Posclásico, pp. 68–72) y el inicio de la **cultura mexica** (Periodo Posclásico, pp. 72–73), de la que van los temas *migración y fundación*, *religión y dioses* (p. 72), *organización política* (pp. 72–73) y *organización social* (p. 73). Faltan *arte* y *educación* (p. 73) para cerrar el Bloque 2)
+## Sub-lote 25 · Cultura mexica — arte (Periodo Posclásico, p. 73)
+
+### 319
+
+De acuerdo con el libro de Historia de México 1, ¿dónde levantaron los mexicas sus magníficas construcciones?
+
+- A. En México-Tenochtitlan
+- B. En Teotihuacan
+- C. En Tula
+- D. En Tzintzuntzan
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Al igual que los demás pueblos mesoamericanos, los mexicas fueron excelentes artistas; levantaron magníficas construcciones en México-Tenochtitlan.
+
+### 320
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles son un ejemplo de su desarrollo arquitectónico?
+
+- A. La traza urbana de su ciudad, la Gran Plaza, el Templo Mayor, el acueducto de Chapultepec y las calzadas
+- B. Las yácatas, los adoratorios y los basamentos
+- C. Las pirámides de nichos y las estelas
+- D. Los palacios de Mitla y las grecas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+La traza urbana de su ciudad, la Gran Plaza, el Templo Mayor, el acueducto de Chapultepec y las calzadas, son un ejemplo de su desarrollo arquitectónico.
+
+### 321
+
+De acuerdo con el libro de Historia de México 1, ¿cuál de las siguientes era una de las obras arquitectónicas de los mexicas?
+
+- A. El Templo Mayor
+- B. La yácata
+- C. El coatepantli
+- D. La pirámide de los Nichos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+La traza urbana de su ciudad, la Gran Plaza, el Templo Mayor, el acueducto de Chapultepec y las calzadas, son un ejemplo de su desarrollo arquitectónico.
+
+### 322
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se llamaba el acueducto que menciona el libro entre las obras arquitectónicas mexicas?
+
+- A. El acueducto de Chapultepec
+- B. El acueducto de Texcoco
+- C. El acueducto de Azcapotzalco
+- D. El acueducto de Tlacopan
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+La traza urbana de su ciudad, la Gran Plaza, el Templo Mayor, el acueducto de Chapultepec y las calzadas, son un ejemplo de su desarrollo arquitectónico.
+
+### 323
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles obras notables produjeron los mexicas en escultura?
+
+- A. Tláloc, Coatlicue, Coyolxauhqui, Xochipilli, la piedra de Tízoc y el Calendario Azteca
+- B. La serpiente bicéfala, el disco solar y las cariátides
+- C. Las cabezas colosales y los altares
+- D. Los atlantes y el coatepantli
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+En escultura, produjeron obras tan notables como las de Tláloc, Coatlicue, Coyolxauhqui, Xochipilli, la piedra de Tízoc y el Calendario Azteca.
+
+### 324
+
+De acuerdo con el libro de Historia de México 1, ¿qué famosa piedra escultórica menciona el libro entre las obras notables de los mexicas?
+
+- A. La piedra de Tízoc
+- B. La piedra de Ahuizótl
+- C. La piedra de Axayácatl
+- D. La piedra de Moctezuma
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+En escultura, produjeron obras tan notables como las de Tláloc, Coatlicue, Coyolxauhqui, Xochipilli, la piedra de Tízoc y el Calendario Azteca.
+
+### 325
+
+De acuerdo con el libro de Historia de México 1, ¿qué célebre monumento escultórico, junto con la piedra de Tízoc, menciona el libro?
+
+- A. El Calendario Azteca
+- B. La Rueda Calendárica maya
+- C. El Códice Borgia
+- D. La Cuenta Larga
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+En escultura, produjeron obras tan notables como las de Tláloc, Coatlicue, Coyolxauhqui, Xochipilli, la piedra de Tízoc y el Calendario Azteca.
+
+### 326
+
+De acuerdo con el libro de Historia de México 1, además de esas obras, ¿de qué múltiples representaciones habla el libro?
+
+- A. De la serpiente emplumada, seres mitológicos, animales marinos y piezas de chac mol
+- B. De jaguares, coyotes y águilas que devoran corazones
+- C. De mujeres de la fertilidad y ancianos con bastón plantador
+- D. De grecas y frisos geométricos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Además de múltiples representaciones de la serpiente emplumada, de seres mitológicos, animales marinos y piezas de chac mol.
+
+### 327
+
+De acuerdo con el libro de Historia de México 1, ¿qué piezas escultóricas menciona el libro entre las representaciones mexicas?
+
+- A. Piezas de chac mol
+- B. Piezas de tzompantli
+- C. Cabezas colosales
+- D. Estelas con inscripciones
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Además de múltiples representaciones de la serpiente emplumada, de seres mitológicos, animales marinos y piezas de chac mol.
+
+### 328
+
+De acuerdo con el libro de Historia de México 1, respecto a las demás artes, ¿en qué destacaron sus logros los mexicas?
+
+- A. En la elaboración de códices, en la pintura, plumaria, orfebrería y lapidaria
+- B. En la cerámica zoomorfa y la laca sobre madera
+- C. En el tejido del algodón y la cestería
+- D. En los murales y las estelas talladas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Respecto a las demás artes, hemos de destacar sus logros en la elaboración de códices, en la pintura, plumaria, orfebrería y lapidaria.
+
+### 329
+
+De acuerdo con el libro de Historia de México 1, ¿en qué materiales realizaron las tallas que demuestran sus logros en lapidaria?
+
+- A. En alabastro, turquesa, jade y obsidiana
+- B. En cristal de roca, jade y turquesa
+- C. En oro, plata y cobre
+- D. En barro, laca y madera
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Como lo demuestran algunas tallas realizadas en alabastro, turquesa, jade y obsidiana.
+
+---
+
+**Reactivos en este archivo:** 329 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53), doce *Culturas de Mesoamérica* completas (**olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas**, Posclásico, pp. 68–72) y el inicio de la **cultura mexica** (Periodo Posclásico, pp. 72–73), de la que van los temas *migración y fundación*, *religión y dioses* (p. 72), *organización política* (pp. 72–73), *organización social* y *arte* (p. 73). Falta *educación* (p. 73) para cerrar el Bloque 2)
