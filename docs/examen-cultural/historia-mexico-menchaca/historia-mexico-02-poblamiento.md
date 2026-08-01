@@ -46,17 +46,16 @@ Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales 
 Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
 periodización de los horizontes culturales y los tres horizontes —Preclásico,
 Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
-y seis de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
+y siete de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
 y 55), los **teotihuacanos** (Periodo Clásico, pp. 56–57), los **zapotecas** (Periodo
 Clásico, pp. 57–58), las **Culturas del Centro de Veracruz** (Periodo Clásico,
-pp. 58–59), las **Culturas de Occidente de México** (pp. 60–61) y las **Culturas del
-Centro norte** (pp. 61–63). Con el Centro norte se cierra el **Periodo Clásico**.
+pp. 58–59), las **Culturas de Occidente de México** (pp. 60–61), las **Culturas del
+Centro norte** (pp. 61–63) y los **mayas** (Periodo Posclásico, pp. 63–65).
 
-**Pendiente: el *Periodo Posclásico* cultura por cultura** (pp. 63–84), desde los
-**mayas** (p. 63) —que el libro coloca en el Posclásico— y las demás (toltecas,
-mexicas, etc.). Las páginas de actividad con fichas o mapas conceptuales en blanco (la
-p. 54 y las que sigan) no llevan reactivos. El Bloque 2 **NO** está cerrado hasta
-cubrir esas culturas.
+**Pendiente: el resto del *Periodo Posclásico* cultura por cultura** (pp. 67–84),
+desde la p. 67 (toltecas, mexicas, etc.). Las páginas de actividad con fichas o mapas
+conceptuales en blanco (la p. 54, la p. 66 y las que sigan) no llevan reactivos. El
+Bloque 2 **NO** está cerrado hasta cubrir esas culturas.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -2466,4 +2465,342 @@ El Cerrito fue un centro político y religioso de gran importancia en el valle d
 
 ---
 
-**Reactivos en este archivo:** 155 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y seis *Culturas de Mesoamérica*: **olmecas** (Preclásico, pp. 53 y 55), **teotihuacanos** (Clásico, pp. 56–57), **zapotecas** (Clásico, pp. 57–58), **Centro de Veracruz** (Clásico, pp. 58–59), **Occidente de México** (pp. 60–61) y **Centro norte** (pp. 61–63); con las culturas del Centro norte se cierra el **Periodo Clásico**. Sigue el **Periodo Posclásico**, desde los **mayas** (p. 63) —que el libro coloca en el Posclásico— y las demás, hasta la p. 84)
+## Sub-lote 15 · Cultura maya (Periodo Posclásico, pp. 63-65)
+
+> El libro coloca a los mayas al inicio del **Periodo Posclásico**, aunque dentro
+> distingue "mayas del Clásico" y "mayas del Posclásico". La p. 66 es actividad (sin
+> reactivos).
+
+### 156
+
+De acuerdo con el libro de Historia de México 1, ¿en qué entorno geográfico se distribuyeron los pueblos mayas?
+
+- A. Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán, en Guatemala, Belice y parte de Honduras
+- B. El Estado de México, Hidalgo, Puebla y Tlaxcala
+- C. Sinaloa, Sonora, Nayarit, Jalisco y Colima
+- D. Oaxaca, Guerrero y Veracruz
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 63
+**Subtema:** cultura maya
+
+Los pueblos conocidos como *mayas* se distribuyeron en un entorno geográfico que hoy forma parte de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán, en Guatemala, los departamentos del Petén, Alta Verapaz e Izabal, además de las porciones norte de Huehuetenango y Quiché; Belice en su totalidad y San Pedro Sula en Honduras.
+
+### 157
+
+De acuerdo con el libro de Historia de México 1, ¿en qué dos grupos fue necesario dividir a los mayas para su estudio?
+
+- A. En los mayas del Clásico y los mayas del Posclásico
+- B. En los mayas del Petén y los mayas del Usumacinta
+- C. En los mayas de las Tierras Bajas y los de las Tierras Altas
+- D. En los mayas del norte y los del sur
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+Debido a la complejidad que planteaba su estudio y conforme a sus diferencias culturales, fue necesario hablar de los *mayas del Clásico* y los *mayas del Posclásico*.
+
+### 158
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se conoce la región fisiográfica en que se agruparon los ecosistemas del territorio de los mayas del Clásico?
+
+- A. Como Tierras Bajas
+- B. Como Tierras Altas
+- C. Como Altiplano central
+- D. Como Sierra Gorda
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+Este territorio comprende ecosistemas variados, que fueron agrupados en una región fisiográfica conocida como *Tierras Bajas*.
+
+### 159
+
+De acuerdo con el libro de Historia de México 1, ¿qué elementos arquitectónicos reflejan la cultura única de los mayas?
+
+- A. La bóveda y el arco maya
+- B. El talud-tablero y los patios hundidos
+- C. El tablero de doble escapulario
+- D. Los guachimontones
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+Los mayas crearon una cultura única que se refleja en la arquitectura con el empleo de la *bóveda* y el *arco maya*.
+
+### 160
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles eran los dos calendarios que llevaban los mayas?
+
+- A. El ritual de 260 días y el civil o solar de 360 días
+- B. El ritual de 360 días y el civil de 260 días
+- C. El solar de 365 días y el lunar de 260 días
+- D. El agrícola de 400 días y el religioso de 260 días
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+Un riguroso registro del tiempo que sirvió para llevar la cuenta en dos calendarios: el ritual de 260 días y el civil o solar, de 360 días.
+
+### 161
+
+De acuerdo con el libro de Historia de México 1, ¿qué concepto matemático y qué sistema de numeración destacan de los mayas?
+
+- A. El concepto del cero y la numeración vigesimal
+- B. El concepto del infinito y la numeración decimal
+- C. El concepto de la fracción y la numeración binaria
+- D. El concepto del número áureo y la numeración romana
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+No olvidemos el concepto del *cero* y la numeración vigesimal.
+
+### 162
+
+De acuerdo con el libro de Historia de México 1, ¿qué tipo de cerámica elaboraron los mayas?
+
+- A. Una amplia variedad de cerámica policromada y de pasta fina
+- B. Cerámica monocroma pulida del tipo Capacha
+- C. Cerámica en molde de la cultura Nopiloa
+- D. Urnas funerarias con forma de dioses y animales sagrados
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+Así como la elaboración de una amplia variedad de cerámica policromada y de pasta fina.
+
+### 163
+
+De acuerdo con el libro de Historia de México 1, ¿cómo era el gobierno de los mayas?
+
+- A. Teocrático y apoyado por los militares
+- B. Una monarquía hereditaria
+- C. Un consejo de ancianos
+- D. Una democracia organizada en calpulli
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+Su gobierno era teocrático y estaba apoyado por los militares.
+
+### 164
+
+De acuerdo con el libro de Historia de México 1, ¿quién era Hunab-Ku en la religión maya?
+
+- A. El dios supremo
+- B. El dios de la lluvia
+- C. El dios de la sabiduría
+- D. El dios del rayo y del trueno
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+Los dioses más importantes eran *Hunab-Ku*, el dios supremo.
+
+### 165
+
+De acuerdo con el libro de Historia de México 1, ¿de qué era dios Itzamná?
+
+- A. De la sabiduría
+- B. De la lluvia
+- C. Del rayo y del trueno
+- D. De la medicina
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+*Itzamná*, era el dios de la sabiduría.
+
+### 166
+
+De acuerdo con el libro de Historia de México 1, ¿de qué era dios Chaac?
+
+- A. De la lluvia
+- B. Del sol
+- C. De la sabiduría
+- D. Del inframundo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+*Chaac*, dios de la lluvia.
+
+### 167
+
+De acuerdo con el libro de Historia de México 1, ¿de qué era dios Huracán?
+
+- A. Del rayo y del trueno
+- B. De la lluvia
+- C. Del fuego
+- D. De la guerra
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+*Huracán*, dios del rayo y del trueno.
+
+### 168
+
+De acuerdo con el libro de Historia de México 1, ¿de qué era diosa Ixchel?
+
+- A. De la medicina, tejido, parto y las inundaciones
+- B. De la fertilidad y el maíz
+- C. Del amor y las flores
+- D. De la luna y las mareas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+E *Ixchel*, diosa de la medicina, tejido, parto y las inundaciones.
+
+### 169
+
+De acuerdo con el libro de Historia de México 1, ¿qué eran las cresterías, que se colocaban sobre el techo de los edificios mayas?
+
+- A. Un par de muros cuya altura era por lo menos similar a la de los dos primeros cuerpos
+- B. Unas losas rectangulares que cerraban el techo en forma de bóveda
+- C. Unos basamentos de planta circular con adoratorio
+- D. Unas columnas rematadas por adornos cuadrangulares
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+Sobre el techo del edificio se colocaban las *cresterías*, consistentes en un par de muros cuya altura por lo menos era similar a la alcanzada por los dos primeros cuerpos.
+
+### 170
+
+De acuerdo con el libro de Historia de México 1, ¿en qué construcciones se encuentran los estucos modelados que ornamentaban las cresterías?
+
+- A. En El Palacio de Palenque o el Edificio 33 de Yaxchilán
+- B. En la Pirámide de los nichos de El Tajín
+- C. En la Pirámide del Sol de Teotihuacán
+- D. En el palacio del Quetzalpapálotl
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+Elaborada a base de estucos modelados, como los que se encuentran en El Palacio de Palenque o el Edificio 33 de Yaxchilán.
+
+### 171
+
+De acuerdo con el libro de Historia de México 1, ¿en qué sitio de la Región Central o Petén se encuentran los templos I y II de la Gran Plaza, ejemplo de su estilo?
+
+- A. En Tikal
+- B. En Copán
+- C. En Palenque
+- D. En Chichén-Itzá
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+*Región Central o Petén.* [...] Un ejemplo del estilo son los templos I y II de la Gran Plaza de Tikal. Otros sitios son Yaxhá, Naranjo y Uaxactún.
+
+### 172
+
+De acuerdo con el libro de Historia de México 1, ¿qué elemento arquitectónico fue lo más sobresaliente de la Región del Río Bec?
+
+- A. La construcción de torres, situadas a los lados de la fachada principal
+- B. Las cresterías con contramuros
+- C. Los mascarones de Chaac en las esquinas
+- D. Las esquinas remetidas en los basamentos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+*Región del Río Bec.* [...] Lo más sobresaliente fue la construcción de torres, situadas a los lados de la fachada principal y eventualmente en su parte posterior.
+
+### 173
+
+De acuerdo con el libro de Historia de México 1, ¿en qué años se registra el ascenso al poder de los gobernantes Jaguar y Pájaro Jaguar, en Piedras Negras y Yaxchilán?
+
+- A. Jaguar en el 688 d. C. y Pájaro Jaguar en el 754 d. C.
+- B. Jaguar en el 500 a. C. y Pájaro Jaguar en el 200 d. C.
+- C. Jaguar en el 1000 d. C. y Pájaro Jaguar en el 1100 d. C.
+- D. Jaguar en el 1200 d. C. y Pájaro Jaguar en el 1521 d. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 64
+**Subtema:** cultura maya
+
+En Piedras Negras y Yaxchilán, se conservan los registros del nacimiento y ascenso al poder de algunos gobernantes como *Jaguar* en el 688 d. C. o *Pájaro Jaguar* en el 754 d. C.
+
+### 174
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se conoce el fenómeno de la desintegración del mundo clásico maya?
+
+- A. Como el *colapso*
+- B. Como el declive
+- C. Como el abandono
+- D. Como la conquista
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 65
+**Subtema:** cultura maya
+
+Durante este lapso ocurrió la desintegración del mundo clásico maya. La explicación a este fenómeno conocido como *colapso* aún no ha sido aceptada totalmente.
+
+### 175
+
+De acuerdo con el libro de Historia de México 1, ¿qué pueblo fijó su residencia en Chichén-Itzá, fue atacado por los xiues y se desplazó a Champotón?
+
+- A. Los itzaes
+- B. Los toltecas
+- C. Los xicalancas
+- D. Los chichimecas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 65
+**Subtema:** cultura maya
+
+Uno de estos pueblos, los itzaes, fijaron su residencia en Chichén-Itzá, pero fueron atacados por los xiues, así que se desplazaron a Champotón.
+
+### 176
+
+De acuerdo con el libro de Historia de México 1, ¿quién era Kukulcán (serpiente emplumada)?
+
+- A. Un personaje que dirigía los grupos toltecas llegados del centro de México que se fusionaron con los mayas
+- B. El dios supremo del panteón maya
+- C. El gobernante de Piedras Negras
+- D. El fundador de Tikal
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 65
+**Subtema:** cultura maya
+
+Existen relatos que hablan de *Kukulcán* (serpiente emplumada), un personaje que dirigía los grupos toltecas llegados del centro de México que se fusionaron con los mayas.
+
+### 177
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles eran las tres ciudades más importantes que formaron una alianza de señoríos a principios del siglo XI?
+
+- A. Chichén-Itzá, Uxmal y Mayapán
+- B. Tikal, Copán y Palenque
+- C. Comalcalco, Yaxchilán y Bonampak
+- D. Tula, Teotihuacán y Cholula
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 65
+**Subtema:** cultura maya
+
+Empezaron a tener participación en el gobierno de Chichén-Itzá, Uxmal y Mayapán, las tres ciudades más importantes de la región, formando una alianza de señoríos a principios del siglo XI.
+
+---
+
+**Reactivos en este archivo:** 177 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y siete *Culturas de Mesoamérica*: **olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte** y **mayas** (Posclásico, pp. 63–65). Siguen las demás culturas del **Periodo Posclásico** (toltecas, mexicas, etc.), desde la p. 67, hasta la p. 84)
