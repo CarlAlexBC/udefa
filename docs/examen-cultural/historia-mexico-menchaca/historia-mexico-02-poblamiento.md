@@ -46,14 +46,15 @@ Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales 
 Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
 periodización de los horizontes culturales y los tres horizontes —Preclásico,
 Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
-y dos de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
-y 55) y los **teotihuacanos** (Periodo Clásico, pp. 56–57).
+y tres de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
+y 55), los **teotihuacanos** (Periodo Clásico, pp. 56–57) y los **zapotecas** (Periodo
+Clásico, pp. 57–58).
 
 **Pendiente: el resto de las *Culturas de Mesoamérica* cultura por cultura**
-(pp. 57–84), desde la cultura **zapoteca** (Periodo Clásico, p. 57) en adelante
-(Centro de Veracruz, maya, tolteca, mexica, etc.). Las páginas de actividad con fichas
-o mapas conceptuales en blanco (la p. 54 y las que sigan) no llevan reactivos. El
-Bloque 2 **NO** está cerrado hasta cubrir esas culturas.
+(pp. 58–84), desde las **Culturas del Centro de Veracruz** (Periodo Clásico, p. 58) en
+adelante (maya, tolteca, mexica, etc.). Las páginas de actividad con fichas o mapas
+conceptuales en blanco (la p. 54 y las que sigan) no llevan reactivos. El Bloque 2
+**NO** está cerrado hasta cubrir esas culturas.
 
 ## Cómo se escriben estos reactivos
 
@@ -1460,4 +1461,233 @@ Destacaron también como pintores, dejando muestras de este arte en algunos edif
 
 ---
 
-**Reactivos en este archivo:** 90 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y dos *Culturas de Mesoamérica*: los **olmecas** (Preclásico, pp. 53 y 55) y los **teotihuacanos** (Clásico, pp. 56–57); sigue la cultura **zapoteca** (Periodo Clásico, desde la p. 57) y el resto, hasta la p. 84)
+## Sub-lote 11 · Cultura zapoteca (Periodo Clásico, pp. 57-58)
+
+### 91
+
+De acuerdo con el libro de Historia de México 1, ¿dónde se establecieron los zapotecas y cómo se conoce hoy el centro ceremonial que fundaron?
+
+- A. En Oaxaca; el centro ceremonial se conoce hoy como Monte Albán
+- B. En el Estado de México; el centro ceremonial se conoce hoy como Teotihuacán
+- C. En el Golfo de México; el centro ceremonial se conoce hoy como La Venta
+- D. En Chiapas; el centro ceremonial se conoce hoy como Palenque
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura zapoteca
+
+Los zapotecas se establecieron en Oaxaca, allí fundaron un centro ceremonial en la cima de una loma de difícil acceso que hoy conocemos como *Monte Albán*.
+
+### 92
+
+De acuerdo con el libro de Historia de México 1, ¿entre qué años empezó Monte Albán a concentrar un importante número de población?
+
+- A. Entre el 500 y 200 a. C.
+- B. Entre el 200 y 650 d. C.
+- C. Entre el 900 y 1200 d. C.
+- D. Entre el 1200 y 400 a. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura zapoteca
+
+Entre el 500 y 200 a. C., Monte Albán empezó a concentrar a un importante número de población.
+
+### 93
+
+De acuerdo con el libro de Historia de México 1, ¿cómo construyó su población las viviendas en Monte Albán?
+
+- A. Sobre terrazas que se usaron para aprovechar las laderas del cerro
+- B. Sobre chinampas en las orillas de un lago
+- C. Sobre plataformas de madera elevadas
+- D. Sobre un antiguo manantial
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura zapoteca
+
+Construyó sus viviendas sobre terrazas que se usaron para aprovechar las laderas del cerro.
+
+### 94
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se conocen las estelas que representan a personajes en posiciones rituales, levantadas en Monte Albán?
+
+- A. Como *danzantes*
+- B. Como cabezas colosales
+- C. Como mascarones de Tláloc
+- D. Como urnas funerarias
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura zapoteca
+
+Se levantaron varias estelas que representan a personajes en posiciones rituales conocidas como *danzantes*.
+
+### 95
+
+De acuerdo con el libro de Historia de México 1, ¿en qué horizonte alcanzaron los zapotecas su máximo desarrollo cultural?
+
+- A. En el Clásico (200-650 d. C.)
+- B. En el Preclásico medio (1200-400 a. C.)
+- C. En el Posclásico (900-1521 d. C.)
+- D. En el Preclásico Superior (400-200 a. C.)
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura zapoteca
+
+Su máximo desarrollo cultural lo alcanzaron en el Clásico (200-650 d. C.), tiempo en que Monte Albán se convirtió en la sede política de una confederación de ciudades.
+
+### 96
+
+De acuerdo con el libro de Historia de México 1, ¿qué ciudades formaban parte de la confederación de la que Monte Albán fue sede política?
+
+- A. Huijazoo, Dainzú, Lambityeco y Yagul
+- B. Tetitla, Tepantitla, Tula y Tollan
+- C. La Venta, Tres Zapotes, San Lorenzo y Las Limas
+- D. Bonampak, Palenque, Yaxchilán y Copán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura zapoteca
+
+Monte Albán se convirtió en la sede política de una confederación de ciudades, entre las que se encontraban Huijazoo, Dainzú, Lambityeco y Yagul.
+
+### 97
+
+De acuerdo con el libro de Historia de México 1, ¿a cuánta población llegó a tener Monte Albán habitando en sus alrededores?
+
+- A. 30 000 personas
+- B. 3 000 personas
+- C. 100 000 personas
+- D. 225 000 personas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura zapoteca
+
+La ciudad llegó a tener una población de 30 000 personas habitando en sus alrededores.
+
+### 98
+
+De acuerdo con el libro de Historia de México 1, ¿con qué culturas mantuvieron los zapotecas un estrecho contacto durante su máximo desarrollo?
+
+- A. Con Teotihuacán y el área maya
+- B. Con los olmecas y los toltecas
+- C. Con los mexicas y los purépechas
+- D. Con los huastecos y los totonacos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura zapoteca
+
+Fue la época en que los zapotecas mantuvieron un estrecho contacto con Teotihuacán y el área maya.
+
+### 99
+
+De acuerdo con el libro de Historia de México 1, ¿por quiénes estaba integrado el grupo dirigente de los zapotecas?
+
+- A. Por los sacerdotes y militares
+- B. Por los comerciantes y agricultores
+- C. Por los pochtecas y lapidarios
+- D. Por los pipiltin y macehualtin
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura zapoteca
+
+Por un lado estaba el grupo dirigente, integrado por los sacerdotes y militares, luego seguían los comerciantes, trabajadores especializados y agricultores. Su gobierno también era teocrático.
+
+### 100
+
+De acuerdo con el libro de Historia de México 1, ¿de qué era dios Cocijo en la religión zapoteca?
+
+- A. De la lluvia o rayo
+- B. Del sol
+- C. De la fertilidad
+- D. De la energía universal
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 58
+**Subtema:** cultura zapoteca
+
+Abundaban las deidades asociadas a los fenómenos naturales como Cocijo, dios de la lluvia o rayo.
+
+### 101
+
+De acuerdo con el libro de Historia de México 1, ¿de qué eran dioses Nohuichana y Capijcha en la religión zapoteca?
+
+- A. Nohuichana, diosa de la fertilidad, y Capijcha, dios del sol
+- B. Nohuichana, diosa del sol, y Capijcha, dios de la lluvia
+- C. Nohuichana, diosa de la energía, y Capijcha, dios creador
+- D. Nohuichana, diosa del agua, y Capijcha, dios del rayo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 58
+**Subtema:** cultura zapoteca
+
+Nohuichana, diosa de la fertilidad; Capijcha, dios del sol, Cozana y Xonaxi, dioses creadores y Caqui Xee, principio creador de la energía universal.
+
+### 102
+
+De acuerdo con el libro de Historia de México 1, ¿qué era Caqui Xee en la religión zapoteca?
+
+- A. El principio creador de la energía universal
+- B. El dios de la lluvia o rayo
+- C. El dios del sol
+- D. La diosa de la fertilidad
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 58
+**Subtema:** cultura zapoteca
+
+Cozana y Xonaxi, dioses creadores y Caqui Xee, principio creador de la energía universal.
+
+### 103
+
+De acuerdo con el libro de Historia de México 1, ¿qué crearon los zapotecas junto a los olmecas?
+
+- A. Las manifestaciones más antiguas de la escritura en Mesoamérica
+- B. Las primeras chinampas de Mesoamérica
+- C. Las cabezas colosales de basalto
+- D. El talud-tablero teotihuacano
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 58
+**Subtema:** cultura zapoteca
+
+Los zapotecos, junto a los olmecas, crearon las manifestaciones más antiguas de la escritura en Mesoamérica. Usaron los calendarios civil y religioso.
+
+### 104
+
+De acuerdo con el libro de Historia de México 1, ¿cuál es el rasgo arquitectónico característico de los zapotecas, que hizo su aparición en el Clásico?
+
+- A. El *tablero de doble escapulario*
+- B. El talud-tablero
+- C. La arquitectura de nichos
+- D. El arco maya
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 58
+**Subtema:** cultura zapoteca
+
+Respecto al arte, el rasgo arquitectónico característico es el *tablero de doble escapulario* que hizo su aparición en el Clásico.
+
+### 105
+
+De acuerdo con el libro de Historia de México 1, ¿en qué año el abandono de Monte Albán marcó el declive de los zapotecas?
+
+- A. En el 750 d. C.
+- B. En el 650 d. C.
+- C. En el 900 d. C.
+- D. En el 400 a. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 58
+**Subtema:** cultura zapoteca
+
+El abandono de Monte Albán en el 750 d. C., marcó el declive de los zapotecas, y aunque sus habitantes se trasladaron a otros sitios como Jaileza y Lambityeco, ya no pudieron recobrar su anterior situación de dominio.
+
+---
+
+**Reactivos en este archivo:** 105 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y tres *Culturas de Mesoamérica*: **olmecas** (Preclásico, pp. 53 y 55), **teotihuacanos** (Clásico, pp. 56–57) y **zapotecas** (Clásico, pp. 57–58); siguen las **Culturas del Centro de Veracruz** (Periodo Clásico, desde la p. 58) y el resto, hasta la p. 84)
