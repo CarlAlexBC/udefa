@@ -8,10 +8,13 @@ import { apiFetch, ApiError } from '@/lib/api'
 import { AVISO_SIMULADOR } from '@/lib/legal'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
+import { logoDePlantel } from '@/lib/planteles'
 import {
   INSTRUCCIONES_POR_BLOQUE,
   construirInstruccionesCultural,
   AVISO_CAMBIO_MATERIA,
+  MATERIAS_CULTURAL_POR_PLANTEL,
+  unirMaterias,
   type InstruccionesBloque,
 } from '@/lib/instrucciones-bloques'
 import {
@@ -21,6 +24,7 @@ import {
   BookOpen,
   CheckCircle2,
   Clock,
+  ListChecks,
   Loader2,
   Play,
 } from 'lucide-react'
@@ -522,6 +526,17 @@ export default function SimuladorPage({
    Sub-componente: pantalla inicial (idle / cargando / error)
    ═══════════════════════════════════════════════════════════ */
 
+/** Datos mínimos que la pantalla inicial necesita para personalizarse. */
+type PlantelMini = { id: number; nombre: string }
+type PerfilMini = { nombre: string; plantel: PlantelMini | null }
+type ExamenMini = {
+  id: number
+  tipo: string
+  nombre: string
+  plantelId: number | null
+  anio: number | null
+}
+
 function PantallaInicial({
   examenId,
   estado,
@@ -537,12 +552,84 @@ function PantallaInicial({
   indiceEnSesion: number
   totalEnSesion: number
 }) {
-  const meta = META_POR_EXAMEN[examenId] ?? {
-    fase: '',
-    titulo: 'Simulador',
-    descripcion: 'Comenzar el examen.',
-  }
   const enSesion = totalEnSesion > 0 && indiceEnSesion >= 0
+
+  // Cargamos plantel del aspirante y el tipo de este examen para que la portada
+  // del cultural deje de verse vacía: muestra el escudo de SU escuela y sus
+  // materias. Los psicológicos (1/2/3) traen su ficha fija en META_POR_EXAMEN.
+  const [perfil, setPerfil] = useState<PerfilMini | null>(null)
+  const [examenInfo, setExamenInfo] = useState<ExamenMini | null>(null)
+  // Marca que /examenes ya respondió (con dato o con error). Sin esto, si la
+  // petición falla nos quedaríamos con el esqueleto puesto para siempre.
+  const [listaCargada, setListaCargada] = useState(false)
+
+  useEffect(() => {
+    apiFetch<PerfilMini>('/auth/perfil')
+      .then(setPerfil)
+      .catch(() => {})
+    apiFetch<ExamenMini[]>('/examenes')
+      .then((lista) => setExamenInfo(lista.find((e) => e.id === examenId) ?? null))
+      .catch(() => {})
+      .finally(() => setListaCargada(true))
+  }, [examenId])
+
+  const metaEstatica = META_POR_EXAMEN[examenId]
+  const esCultural = examenInfo?.tipo === 'cultural'
+  const plantel = perfil?.plantel ?? null
+  const materias = plantel ? MATERIAS_CULTURAL_POR_PLANTEL[plantel.nombre] ?? [] : []
+  const logoSrc = plantel ? logoDePlantel(plantel.nombre) : null
+
+  // Cada examen psicológico (1/2/3) tiene su portada inmersiva propia, con el
+  // tono de su tipo (dorado contra-reloj / oliva introspectivo). Se decide
+  // PRIMERO: sus datos son estáticos (INTRO_PSICO) y no dependen de cargar
+  // perfil/plantel, así que no hay parpadeo previo.
+  const introPsico = INTRO_PSICO[examenId]
+  if (introPsico) {
+    return (
+      <PortadaPsicologica
+        meta={introPsico}
+        estado={estado}
+        error={error}
+        onIniciar={onIniciar}
+        indiceEnSesion={indiceEnSesion}
+        totalEnSesion={totalEnSesion}
+      />
+    )
+  }
+
+  // El examen cultural usa una portada inmersiva oscura, a pantalla completa y
+  // sin tarjeta (diseño J+F+E). Los psicológicos (ids 1/2/3, con ficha fija) y
+  // cualquier otro caso siguen con la ficha clara de más abajo. Mientras no
+  // sepamos el tipo y no haya ficha fija tiramos hacia la inmersiva: los ids sin
+  // ficha son culturales, así no parpadea la ficha clara antes de saberlo.
+  const ramaCultural = !metaEstatica && (esCultural || !listaCargada)
+  if (ramaCultural) {
+    return (
+      <PortadaCultural
+        cargando={!listaCargada}
+        plantel={plantel}
+        materias={materias}
+        estado={estado}
+        error={error}
+        onIniciar={onIniciar}
+      />
+    )
+  }
+
+  // Mientras no sepamos qué examen es (y no tenga ficha fija), no pintamos el
+  // texto genérico "Simulador / Comenzar el examen": mostramos un esqueleto para
+  // que no parpadee lo feo antes de cargar lo personalizado.
+  const cargandoMeta = !metaEstatica && examenInfo === null && estado !== 'error'
+
+  const fase = esCultural
+    ? 'Examen simulador · Cultural'
+    : metaEstatica?.fase ?? ''
+  const titulo = esCultural
+    ? 'Simulador del examen cultural'
+    : metaEstatica?.titulo ?? 'Simulador'
+  const descripcion = esCultural
+    ? `${materias.length ? unirMaterias(materias) : 'Todas las materias de tu temario'} de corrido, con un solo cronómetro. Al final ves tus aciertos por materia y qué páginas repasar.`
+    : metaEstatica?.descripcion ?? 'Comenzar el examen.'
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-background px-6 py-12">
@@ -569,56 +656,120 @@ function PantallaInicial({
       )}
 
       <div className="w-full max-w-md rounded-xl border border-border bg-card p-8 text-center shadow-sm">
-        {meta.fase && (
-          <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-military/10 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-military">
-            {meta.fase}
+        {cargandoMeta ? (
+          /* Esqueleto mientras carga la ficha personalizada del examen */
+          <div className="animate-pulse">
+            <div className="mx-auto mb-5 h-24 w-24 rounded-full bg-muted" />
+            <div className="mx-auto mb-3 h-4 w-40 rounded bg-muted" />
+            <div className="mx-auto mb-2 h-6 w-56 rounded bg-muted" />
+            <div className="mx-auto h-3 w-64 rounded bg-muted" />
           </div>
+        ) : (
+          <>
+            {/* Escudo del plantel — el ancla visual del examen cultural */}
+            {esCultural && (
+              <div className="mb-5 flex justify-center">
+                <div className="relative">
+                  <div
+                    aria-hidden="true"
+                    className="pointer-events-none absolute inset-0 -m-2 rounded-full bg-accent/20 blur-xl"
+                  />
+                  {logoSrc ? (
+                    <div className="relative flex h-24 w-24 items-center justify-center overflow-hidden rounded-full bg-card shadow-md ring-1 ring-accent/40">
+                      <Image
+                        src={logoSrc}
+                        alt={`Escudo de ${plantel?.nombre ?? 'tu plantel'}`}
+                        width={140}
+                        height={140}
+                        className="h-full w-full object-cover"
+                      />
+                    </div>
+                  ) : (
+                    <div className="relative flex h-24 w-24 items-center justify-center rounded-full bg-military/15 ring-1 ring-accent/40">
+                      <BookOpen className="h-10 w-10 text-accent" />
+                    </div>
+                  )}
+                </div>
+              </div>
+            )}
+
+            {fase && (
+              <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-military/10 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-military">
+                {fase}
+              </div>
+            )}
+            <h1 className="mb-1 text-2xl font-semibold tracking-tight text-foreground">
+              {titulo}
+            </h1>
+            {esCultural && plantel && (
+              <p className="mb-3 text-sm font-medium text-foreground">
+                {plantel.nombre}
+              </p>
+            )}
+            <p className="mb-6 text-sm text-muted-foreground">
+              {descripcion}
+              {enSesion && indiceEnSesion < totalEnSesion - 1 && (
+                <span className="mt-2 block text-xs text-accent">
+                  Al terminar esta fase continúa la siguiente automáticamente.
+                </span>
+              )}
+            </p>
+
+            {/* Pastillas con lo esencial del examen cultural */}
+            {esCultural && (
+              <div className="mb-6 flex flex-wrap items-center justify-center gap-2">
+                <span className="inline-flex items-center gap-1.5 rounded-full border border-border bg-muted/40 px-3 py-1 text-xs font-medium text-muted-foreground">
+                  <ListChecks className="h-3.5 w-3.5 text-accent" />
+                  100 reactivos
+                </span>
+                <span className="inline-flex items-center gap-1.5 rounded-full border border-border bg-muted/40 px-3 py-1 text-xs font-medium text-muted-foreground">
+                  <Clock className="h-3.5 w-3.5 text-accent" />
+                  2 horas contra reloj
+                </span>
+                {materias.length > 0 && (
+                  <span className="inline-flex items-center gap-1.5 rounded-full border border-border bg-muted/40 px-3 py-1 text-xs font-medium text-muted-foreground">
+                    <BookOpen className="h-3.5 w-3.5 text-accent" />
+                    {materias.length} materias
+                  </span>
+                )}
+              </div>
+            )}
+
+            {error && (
+              <div className="mb-4 flex items-start gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-3 text-left">
+                <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-destructive" />
+                <p className="text-sm text-destructive">{error}</p>
+              </div>
+            )}
+
+            <Button
+              onClick={onIniciar}
+              disabled={estado === 'cargando'}
+              className="w-full"
+            >
+              {estado === 'cargando' ? (
+                <>
+                  <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+                  Preparando reactivos...
+                </>
+              ) : (
+                <>
+                  <Play className="mr-2 h-4 w-4" />
+                  Comenzar simulador
+                </>
+              )}
+            </Button>
+
+            {/* Aviso legal: es material de práctica, no un examen oficial. */}
+            <div className="mt-5 flex items-start gap-2 rounded-lg border border-accent/30 bg-accent/5 p-3 text-left">
+              <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-accent" />
+              <p className="text-xs leading-relaxed text-muted-foreground">
+                <span className="font-semibold text-foreground">Aviso. </span>
+                {AVISO_SIMULADOR}
+              </p>
+            </div>
+          </>
         )}
-        <h1 className="mb-2 text-2xl font-semibold text-foreground">
-          {meta.titulo}
-        </h1>
-        <p className="mb-6 text-sm text-muted-foreground">
-          {meta.descripcion}
-          {enSesion && indiceEnSesion < totalEnSesion - 1 && (
-            <span className="mt-2 block text-xs text-accent">
-              Al terminar esta fase continúa la siguiente automáticamente.
-            </span>
-          )}
-        </p>
-
-        {error && (
-          <div className="mb-4 flex items-start gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-3 text-left">
-            <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-destructive" />
-            <p className="text-sm text-destructive">{error}</p>
-          </div>
-        )}
-
-        <Button
-          onClick={onIniciar}
-          disabled={estado === 'cargando'}
-          className="w-full"
-        >
-          {estado === 'cargando' ? (
-            <>
-              <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-              Preparando reactivos...
-            </>
-          ) : (
-            <>
-              <Play className="mr-2 h-4 w-4" />
-              Comenzar simulador
-            </>
-          )}
-        </Button>
-
-        {/* Aviso legal: es material de práctica, no un examen oficial. */}
-        <div className="mt-5 flex items-start gap-2 rounded-lg border border-accent/30 bg-accent/5 p-3 text-left">
-          <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-accent" />
-          <p className="text-xs leading-relaxed text-muted-foreground">
-            <span className="font-semibold text-foreground">Aviso. </span>
-            {AVISO_SIMULADOR}
-          </p>
-        </div>
       </div>
 
       <Link
@@ -627,6 +778,391 @@ function PantallaInicial({
       >
         ← Volver
       </Link>
+    </main>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Sub-componente: portada inmersiva del examen cultural (diseño J+F+E)
+
+   Pantalla oscura a pantalla completa —sin tarjeta— para el momento previo
+   al examen cultural. Manda la regla de "cero distracción": sello de la
+   Rectoría, el cronómetro como protagonista (aquí es DECORATIVO; el reloj
+   real arranca al presionar Comenzar), un consejo del Monote y el botón.
+
+   Colores fijados a mano (carbón/latón/oliva/crema) y NO tokens del tema,
+   porque la app corre en modo claro y esta portada es siempre oscura.
+   Los exámenes psicológicos NO usan esto: siguen con la ficha clara de
+   PantallaInicial.
+   ═══════════════════════════════════════════════════════════ */
+
+function PortadaCultural({
+  cargando,
+  plantel,
+  materias,
+  estado,
+  error,
+  onIniciar,
+}: {
+  cargando: boolean
+  plantel: PlantelMini | null
+  materias: string[]
+  estado: Estado
+  error: string
+  onIniciar: () => void
+}) {
+  return (
+    <main className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-[#161513] px-6 py-8">
+      {/* Capa 1 — textura de uniforme: líneas diagonales latón muy tenues */}
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-0"
+        style={{
+          backgroundImage:
+            'repeating-linear-gradient(135deg, rgba(201,154,59,0.05) 0, rgba(201,154,59,0.05) 1px, transparent 1px, transparent 12px)',
+        }}
+      />
+      {/* Capa 2 — halo dorado radial al centro */}
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-0"
+        style={{
+          background:
+            'radial-gradient(65% 55% at 50% 38%, rgba(201,154,59,0.16), transparent 72%)',
+        }}
+      />
+
+      {/* Volver — discreto, para no romper la inmersión */}
+      <Link
+        href="/inicio"
+        className="absolute left-5 top-5 z-20 inline-flex items-center gap-1.5 text-xs font-medium text-[#8A8579] transition-colors hover:text-[#F7F3EA]"
+      >
+        <ArrowLeft className="h-3.5 w-3.5" />
+        Volver
+      </Link>
+
+      <div className="relative z-10 flex w-full max-w-xl flex-col items-center text-center">
+        {cargando ? (
+          <PortadaCulturalEsqueleto />
+        ) : (
+          <>
+            {/* Sello institucional de la Rectoría — medalla secundaria.
+                priority: es lo primero de la portada, que cargue sin parpadeo. */}
+            <div className="mb-4 h-16 w-16 overflow-hidden rounded-full shadow-[0_4px_20px_rgba(0,0,0,0.5)] ring-1 ring-[#C99A3B]/40">
+              <Image
+                src="/udefa-rectoria.png"
+                alt="Rectoría U.D.E.F.A."
+                width={128}
+                height={128}
+                priority
+                className="h-full w-full scale-105 object-cover"
+              />
+            </div>
+
+            {/* Badge oliva institucional */}
+            <span className="mb-4 inline-flex items-center rounded-full border border-[#6B7530]/60 bg-[#4B5121]/40 px-3.5 py-1.5 text-[0.7rem] font-semibold uppercase tracking-[0.22em] text-[#E4E0CF]">
+              Examen simulador · Cultural
+            </span>
+
+            {/* Título en crema */}
+            <h1 className="text-balance text-3xl font-bold leading-tight tracking-tight text-[#F7F3EA] sm:text-4xl">
+              Estás por comenzar el examen cultural
+            </h1>
+
+            {/* Nombre del plantel en latón */}
+            {plantel && (
+              <p className="mt-3 text-lg font-semibold text-[#C99A3B]">
+                {plantel.nombre}
+              </p>
+            )}
+
+            {/* Materias en pastillas con borde dorado */}
+            {materias.length > 0 && (
+              <div className="mt-6 flex flex-wrap justify-center gap-2">
+                {materias.map((m) => (
+                  <span
+                    key={m}
+                    className="rounded-full border border-[#C99A3B]/50 bg-[#C99A3B]/10 px-3.5 py-1.5 text-sm font-medium text-[#EDE6D3]"
+                  >
+                    {m}
+                  </span>
+                ))}
+              </div>
+            )}
+
+            {/* Cronómetro protagonista — DECORATIVO, el reloj real arranca al comenzar */}
+            <div className="mt-7 flex flex-col items-center">
+              <span className="font-mono text-6xl font-bold tabular-nums tracking-tight text-[#C99A3B] sm:text-7xl">
+                02:00:00
+              </span>
+              <span className="mt-2 text-[0.7rem] uppercase tracking-[0.18em] text-[#9A9382]">
+                Tiempo total · 100 reactivos · un solo reloj
+              </span>
+            </div>
+
+            {/* Consejo del Monote */}
+            <div className="mt-6 flex w-full items-center gap-4 rounded-xl border border-[#C99A3B]/20 bg-white/5 p-4 text-left">
+              <Image
+                src="/monote-logo.jpeg"
+                alt="El Monote te Guía"
+                width={56}
+                height={56}
+                className="h-14 w-14 shrink-0 rounded-full object-cover ring-1 ring-[#C99A3B]/40"
+              />
+              <p className="text-sm leading-relaxed text-[#D8D2C4]">
+                <span className="font-semibold text-[#F7F3EA]">El Monote: </span>
+                tienes 2 horas para ti solo, repártelas como quieras; si te atoras
+                en una, márcala y sigue.
+              </p>
+            </div>
+
+            {/* Error de arranque (el candado de acceso SIN_ACCESO ya redirige a /precios) */}
+            {error && (
+              <div className="mt-6 flex w-full items-start gap-2 rounded-lg border border-[#EF4444]/40 bg-[#EF4444]/10 p-3 text-left">
+                <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-[#EF4444]" />
+                <p className="text-sm text-[#F0B4B4]">{error}</p>
+              </div>
+            )}
+
+            {/* CTA latón */}
+            <Button
+              onClick={onIniciar}
+              disabled={estado === 'cargando'}
+              className="mt-6 h-14 w-full rounded-xl bg-[#C99A3B] px-8 text-base font-semibold text-[#161513] shadow-lg shadow-[#C99A3B]/20 hover:bg-[#D8AE52] sm:w-auto"
+            >
+              {estado === 'cargando' ? (
+                <>
+                  <Loader2 className="mr-2 h-5 w-5 animate-spin" />
+                  Preparando reactivos...
+                </>
+              ) : (
+                <>
+                  <Play className="mr-2 h-5 w-5" />
+                  Comenzar simulador
+                </>
+              )}
+            </Button>
+
+            {/* Aviso legal chico */}
+            <p className="mt-4 text-xs text-[#8A8579]">
+              Práctica educativa. No es un examen oficial.
+            </p>
+          </>
+        )}
+      </div>
+    </main>
+  )
+}
+
+/** Esqueleto oscuro mientras carga el perfil/plantel de la portada cultural. */
+function PortadaCulturalEsqueleto() {
+  return (
+    <div className="flex w-full animate-pulse flex-col items-center">
+      <div className="mb-6 h-16 w-16 rounded-full bg-white/5" />
+      <div className="mb-5 h-6 w-52 rounded-full bg-white/5" />
+      <div className="mb-2 h-9 w-80 max-w-full rounded bg-white/5" />
+      <div className="mb-6 h-9 w-64 max-w-full rounded bg-white/5" />
+      <div className="mb-8 flex gap-2">
+        <div className="h-8 w-20 rounded-full bg-white/5" />
+        <div className="h-8 w-24 rounded-full bg-white/5" />
+        <div className="h-8 w-20 rounded-full bg-white/5" />
+      </div>
+      <div className="mb-9 h-16 w-64 rounded bg-white/5" />
+      <div className="h-20 w-full rounded-xl bg-white/5" />
+    </div>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Sub-componente: portada inmersiva de los exámenes psicológicos
+
+   Misma familia visual que la del cultural, pero adaptada al tipo de examen
+   (datos en INTRO_PSICO):
+   - Psicométrico → tono dorado, contra-reloj: el reloj (por bloque) es el
+     protagonista, con los bloques en pastillas.
+   - Personalidad / Axiológico → tono oliva, introspectivo: NO hay reloj; el
+     protagonista es el mensaje ("no hay respuestas correctas" / "¿qué tanto te
+     pareces?") y las pastillas muestran la escala de respuesta.
+   El reloj es DECORATIVO (el real arranca al comenzar). Colores fijados a mano.
+   ═══════════════════════════════════════════════════════════ */
+
+function PortadaPsicologica({
+  meta,
+  estado,
+  error,
+  onIniciar,
+  indiceEnSesion,
+  totalEnSesion,
+}: {
+  meta: IntroPsico
+  estado: Estado
+  error: string
+  onIniciar: () => void
+  indiceEnSesion: number
+  totalEnSesion: number
+}) {
+  const enSesion = totalEnSesion > 0 && indiceEnSesion >= 0
+  // Acento por tono. El oliva del sistema (#4B5121) es muy oscuro para texto
+  // sobre carbón, así que aquí usamos un oliva más claro y legible.
+  const dorado = meta.tono === 'dorado'
+  const acc = dorado ? '#C99A3B' : '#AEBE55'
+  const halo = dorado ? 'rgba(201,154,59,0.16)' : 'rgba(107,117,48,0.22)'
+
+  return (
+    <main className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-[#161513] px-6 py-8">
+      {/* Capa 1 — textura de uniforme */}
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-0"
+        style={{
+          backgroundImage:
+            'repeating-linear-gradient(135deg, rgba(201,154,59,0.05) 0, rgba(201,154,59,0.05) 1px, transparent 1px, transparent 12px)',
+        }}
+      />
+      {/* Capa 2 — halo radial (dorado u oliva según el tono) */}
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-0"
+        style={{
+          background: `radial-gradient(65% 55% at 50% 38%, ${halo}, transparent 72%)`,
+        }}
+      />
+
+      {/* Volver — discreto */}
+      <Link
+        href="/inicio"
+        className="absolute left-5 top-5 z-20 inline-flex items-center gap-1.5 text-xs font-medium text-[#8A8579] transition-colors hover:text-[#F7F3EA]"
+      >
+        <ArrowLeft className="h-3.5 w-3.5" />
+        Volver
+      </Link>
+
+      <div className="relative z-10 flex w-full max-w-xl flex-col items-center text-center">
+        {/* Sello institucional de la Rectoría */}
+        <div className="mb-4 h-16 w-16 overflow-hidden rounded-full shadow-[0_4px_20px_rgba(0,0,0,0.5)] ring-1 ring-[#C99A3B]/40">
+          <Image
+            src="/udefa-rectoria.png"
+            alt="Rectoría U.D.E.F.A."
+            width={128}
+            height={128}
+            priority
+            className="h-full w-full scale-105 object-cover"
+          />
+        </div>
+
+        {/* Indicador de sesión completa (fase N de M) */}
+        {enSesion && (
+          <span className="mb-3 inline-flex items-center rounded-full border border-[#C99A3B]/40 bg-[#C99A3B]/10 px-3 py-1 text-[0.7rem] font-semibold uppercase tracking-[0.18em] text-[#E6CF98]">
+            Sesión completa · Fase {indiceEnSesion + 1} de {totalEnSesion}
+          </span>
+        )}
+
+        {/* Badge oliva institucional (la fase) */}
+        <span className="mb-4 inline-flex items-center rounded-full border border-[#6B7530]/60 bg-[#4B5121]/40 px-3.5 py-1.5 text-[0.7rem] font-semibold uppercase tracking-[0.22em] text-[#E4E0CF]">
+          {meta.fase}
+        </span>
+
+        {/* Título en crema */}
+        <h1 className="text-balance text-3xl font-bold leading-tight tracking-tight text-[#F7F3EA] sm:text-4xl">
+          {meta.titulo}
+        </h1>
+
+        {/* Protagonista — reloj (contra-reloj) o mensaje (introspectivo) */}
+        {meta.reloj ? (
+          <div className="mt-7 flex flex-col items-center">
+            <span
+              className="font-mono text-6xl font-bold tabular-nums tracking-tight sm:text-7xl"
+              style={{ color: acc }}
+            >
+              {meta.reloj.tiempo}
+            </span>
+            <span className="mt-2 text-[0.7rem] uppercase tracking-[0.18em] text-[#9A9382]">
+              {meta.reloj.etiqueta}
+            </span>
+          </div>
+        ) : meta.mensaje ? (
+          <div className="mt-7 flex flex-col items-center">
+            <p className="text-balance text-2xl font-bold tracking-tight text-[#F7F3EA] sm:text-3xl">
+              {meta.mensaje.principal}
+            </p>
+            <p className="mt-3 max-w-md text-sm leading-relaxed text-[#C9C3B4]">
+              {meta.mensaje.sub}
+            </p>
+          </div>
+        ) : null}
+
+        {/* Pastillas — bloques (psicométrico) o escala de respuesta (introspectivos) */}
+        {meta.pills.length > 0 && (
+          <div className="mt-6 flex flex-wrap justify-center gap-2">
+            {meta.pills.map((p) => (
+              <span
+                key={p}
+                className="rounded-full border px-3.5 py-1.5 text-sm font-medium text-[#EDE6D3]"
+                style={{ borderColor: acc + '8C', backgroundColor: acc + '1A' }}
+              >
+                {p}
+              </span>
+            ))}
+          </div>
+        )}
+        {meta.pillsNota && (
+          <p className="mt-2.5 text-xs text-[#9A9382]">{meta.pillsNota}</p>
+        )}
+
+        {/* Consejo del Monote */}
+        <div className="mt-6 flex w-full items-center gap-4 rounded-xl border border-[#C99A3B]/20 bg-white/5 p-4 text-left">
+          <Image
+            src="/monote-logo.jpeg"
+            alt="El Monote te Guía"
+            width={56}
+            height={56}
+            className="h-14 w-14 shrink-0 rounded-full object-cover ring-1 ring-[#C99A3B]/40"
+          />
+          <p className="text-sm leading-relaxed text-[#D8D2C4]">
+            <span className="font-semibold text-[#F7F3EA]">El Monote: </span>
+            {meta.consejoMonote}
+          </p>
+        </div>
+
+        {/* Error de arranque (el candado SIN_ACCESO ya redirige a /precios) */}
+        {error && (
+          <div className="mt-6 flex w-full items-start gap-2 rounded-lg border border-[#EF4444]/40 bg-[#EF4444]/10 p-3 text-left">
+            <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-[#EF4444]" />
+            <p className="text-sm text-[#F0B4B4]">{error}</p>
+          </div>
+        )}
+
+        {/* CTA latón — acción de marca, dorado en todos los tonos */}
+        <Button
+          onClick={onIniciar}
+          disabled={estado === 'cargando'}
+          className="mt-6 h-14 w-full rounded-xl bg-[#C99A3B] px-8 text-base font-semibold text-[#161513] shadow-lg shadow-[#C99A3B]/20 hover:bg-[#D8AE52] sm:w-auto"
+        >
+          {estado === 'cargando' ? (
+            <>
+              <Loader2 className="mr-2 h-5 w-5 animate-spin" />
+              Preparando reactivos...
+            </>
+          ) : (
+            <>
+              <Play className="mr-2 h-5 w-5" />
+              Comenzar examen
+            </>
+          )}
+        </Button>
+
+        {/* En sesión: aviso de continuación automática */}
+        {enSesion && indiceEnSesion < totalEnSesion - 1 && (
+          <p className="mt-3 text-xs text-[#9A9382]">
+            Al terminar esta fase continúa la siguiente automáticamente.
+          </p>
+        )}
+
+        {/* Aviso legal chico */}
+        <p className="mt-4 text-xs text-[#8A8579]">
+          Práctica educativa. No es un examen oficial.
+        </p>
+      </div>
     </main>
   )
 }
@@ -1056,7 +1592,77 @@ function OpcionesReactivo({
 }
 
 /* ═══════════════════════════════════════════════════════════
-   Metadatos por examen — usados en la pantalla inicial.
+   Portada inmersiva de cada examen psicológico (1/2/3).
+
+   Estático a propósito: la portada se muestra ANTES de armar el examen, cuando
+   todavía no hay bloques que leer. Cada examen trae su tono y su "protagonista"
+   según su naturaleza (ver PortadaPsicologica).
+   ═══════════════════════════════════════════════════════════ */
+
+type IntroPsico = {
+  fase: string
+  titulo: string
+  /** 'dorado' = contra-reloj (psicométrico); 'oliva' = introspectivo (calma). */
+  tono: 'dorado' | 'oliva'
+  /** Protagonista contra-reloj — reloj DECORATIVO. Excluye `mensaje`. */
+  reloj?: { tiempo: string; etiqueta: string }
+  /** Protagonista introspectivo — mensaje. Excluye `reloj`. */
+  mensaje?: { principal: string; sub: string }
+  /** Bloques (psicométrico) o escala de respuesta (introspectivos). */
+  pills: string[]
+  pillsNota?: string
+  consejoMonote: string
+}
+
+const INTRO_PSICO: Record<number, IntroPsico> = {
+  1: {
+    fase: 'Fase 01 · Psicométrico',
+    titulo: 'Estás por comenzar el examen psicométrico',
+    tono: 'dorado',
+    reloj: {
+      tiempo: '10:00',
+      etiqueta: '10 minutos por bloque · 4 bloques · avanza solo al agotarse',
+    },
+    pills: [
+      'Analogías y Cultura General',
+      'Sinónimos y Antónimos',
+      'Razonamiento Lógico-Matemático',
+      'Razonamiento Abstracto',
+    ],
+    consejoMonote:
+      'cada bloque tiene su propio reloj. Si una pregunta te traba, márcala y sigue dentro del bloque — no dejes las fáciles sin contestar por el tiempo.',
+  },
+  2: {
+    fase: 'Fase 02 · Personalidad',
+    titulo: 'Estás por comenzar el examen de personalidad',
+    tono: 'oliva',
+    mensaje: {
+      principal: 'No hay respuestas correctas',
+      sub: 'El sistema no cuenta aciertos: mide qué tan coherente eres contigo mismo a lo largo del examen.',
+    },
+    pills: ['Sí', 'No'],
+    pillsNota: 'Una afirmación a la vez · sin cronómetro por pregunta',
+    consejoMonote:
+      'contesta lo que de verdad eres, no lo que crees que “suena bien”. Las respuestas forzadas se detectan como contradicciones.',
+  },
+  3: {
+    fase: 'Fase 03 · Axiológico',
+    titulo: 'Estás por comenzar el examen axiológico',
+    tono: 'oliva',
+    mensaje: {
+      principal: '¿Qué tanto te pareces?',
+      sub: 'Mide tu cercanía con los valores militares — lealtad, honor y disciplina. Tampoco se califica por aciertos.',
+    },
+    pills: ['Me parezco totalmente', 'Mucho', 'Más o menos', 'Poco', 'Nada'],
+    consejoMonote:
+      'no respondas siempre en el extremo positivo. Los perfiles idealizados se detectan como poco creíbles — responde como realmente actuarías.',
+  },
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Metadatos por examen — ficha clara de respaldo (fallback).
+   Los psicológicos usan INTRO_PSICO (arriba); esto queda como red de
+   seguridad para cualquier examen no-cultural sin portada propia.
    Alineado con los examenId de la BD (1=psicometrico, 2=personalidad,
    3=axiologico).
    ═══════════════════════════════════════════════════════════ */
