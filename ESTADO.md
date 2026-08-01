@@ -18,7 +18,7 @@ _Regenerado el 2026-08-01._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, espanol-zarzar, fisica-perez-montiel, zill-atg) | 5980 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
+| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, espanol-zarzar, fisica-perez-montiel, zill-atg) | 6027 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -87,6 +87,7 @@ _Regenerado el 2026-08-01._
 | espanol-zarzar · Español · Bloque 1 · Proceso comunicativo | 32 | ninguno. El bloque 1 está cerrado. |
 | espanol-zarzar · Español · Bloque 2 · Proceso de lectura | 25 | ninguno. El Bloque 2 (2.2 Estrategias de comprensión lectora) queda cerrado para la EMMG. |
 | espanol-zarzar · Español · Bloque 3 · Proceso de escritura | 90 | ninguno. El Bloque 3 queda cerrado para el HCM y para la EMMG. |
+| espanol-zarzar · Español · Bloque 4 · Prototipos textuales | 47 | ninguno. |
 | fisica-perez-montiel · Física · Unidad 1 · Introducción al conocimiento de la Física | 20 | ninguno. La Unidad 1 (temas 4–7, únicos que pide el temario) queda cerrada. Con esta unidad, **la materia Física queda CERRADA para la EMO** (`FIS-03-2026`): están escritas y con clave `**Tema:**` todas sus unidades — U1, U2, U4, U5, U6, U8 y U11. |
 | fisica-perez-montiel · Física · Unidad 2 · Unidades y mediciones | 15 | ninguno. La Unidad 2 (temas 1, 3, 4 y 8, únicos que pide el temario) queda cerrada. **La materia Física está CERRADA para la EMO** (`FIS-03-2026`): verificado tema por tema contra `temarios.json` el 24 jul 2026, todas las unidades que pide —U1, U2, U4, U5, U6, U8 y U11— están escritas y con clave `**Tema:**` para que el importador llame exactamente su selección. |
 | fisica-perez-montiel · Física · Unidad 3 · Vectores | 48 | ninguno. La Unidad 3 está cerrada y **keyed**. Con ella, **la materia Física queda CERRADA para la EMA** (`FIS-02-2026`): U3, U4, U5, U6, U8, U9 y U11, todas escritas y con clave `**Tema:**`. Para la **EMM** (`FG-03-2026`) esta unidad se sirve **completa** (los 16 temas); las claves permiten que la EMA reciba sólo su subconjunto (temas 1, 3, 4, 5, 6, 7, 8 y 9). |
@@ -100,7 +101,7 @@ _Regenerado el 2026-08-01._
 | zill-atg · Geometría Analítica · Capítulo 8 · Trigonometría del triángulo rectángulo | 58 | ninguno. El capítulo 8 está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al completarse también los capítulos 4, 9 y 12: en total **219 reactivos** (cap 4: 64, cap 8: 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
 | zill-atg · Geometría Analítica · Capítulo 9 · Trigonometría del círculo unitario | 53 | ninguno. El capítulo 9 está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al completarse también los capítulos 4, 8 y 12: en total **219 reactivos** (cap 4: 64, cap 8: 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
 | zill-atg · Geometría Analítica · Capítulo 12 · Coordenadas polares | 44 | ninguno. Con el capítulo 12, **la materia Geometría Analítica queda CERRADA para la EMI** (`GA-03-2026`): los cuatro capítulos que pide el temario —4 (64), 8 (58), 9 (53) y 12 (44)— están completos, **219 reactivos** en total. El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
-| **Total** | **5980** | |
+| **Total** | **6027** | |
 
 ## Personalidad (remaster)
 
