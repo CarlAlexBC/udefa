@@ -46,15 +46,16 @@ Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales 
 Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
 periodización de los horizontes culturales y los tres horizontes —Preclásico,
 Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
-y ocho de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
+y nueve de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
 y 55), los **teotihuacanos** (Periodo Clásico, pp. 56–57), los **zapotecas** (Periodo
 Clásico, pp. 57–58), las **Culturas del Centro de Veracruz** (Periodo Clásico,
 pp. 58–59), las **Culturas de Occidente de México** (pp. 60–61), las **Culturas del
-Centro norte** (pp. 61–63), los **mayas** (Periodo Posclásico, pp. 63–65) y los
-**toltecas** (Periodo Posclásico, pp. 67–68).
+Centro norte** (pp. 61–63), los **mayas** (Periodo Posclásico, pp. 63–65), los
+**toltecas** (Periodo Posclásico, pp. 67–68) y los **huastecos** (Periodo Posclásico,
+pp. 68–69).
 
-**Pendiente: el resto del *Periodo Posclásico* cultura por cultura** (pp. 68–84),
-desde la cultura **huasteca** (p. 68) y las demás (mexicas, etc.). Las páginas de
+**Pendiente: el resto del *Periodo Posclásico* cultura por cultura** (pp. 69–84),
+desde la cultura **mixteca** (p. 69) y las demás (mexicas, etc.). Las páginas de
 actividad con fichas o mapas conceptuales en blanco (la p. 54, la p. 66 y las que
 sigan) no llevan reactivos. El Bloque 2 **NO** está cerrado hasta cubrir esas
 culturas.
@@ -3054,4 +3055,323 @@ La cultura tolteca no se extinguió, pues se han encontrado testimonios de su in
 
 ---
 
-**Reactivos en este archivo:** 193 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y ocho *Culturas de Mesoamérica*: **olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas** y **toltecas** (Posclásico, pp. 67–68). Sigue la cultura **huasteca** (Periodo Posclásico, desde la p. 68) y las demás, hasta la p. 84)
+## Sub-lote 17 · Cultura huasteca (Periodo Posclásico, pp. 68-69)
+
+### 194
+
+De acuerdo con el libro de Historia de México 1, ¿desde qué horizonte y fecha se establecieron los huastecos en el Golfo de México?
+
+- A. Desde el Clásico (200 d. C.)
+- B. Desde el Posclásico temprano (900 d. C.)
+- C. Desde el Preclásico (400 a. C.)
+- D. Desde el Posclásico tardío (1200 d. C.)
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura huasteca
+
+Los Huastecos se establecieron en el Golfo de México desde el Clásico (200 d. C.) en el norte de Veracruz y sur de Tamaulipas hasta San Luis Potosí, Hidalgo y la Sierra Gorda de Querétaro.
+
+### 195
+
+De acuerdo con el libro de Historia de México 1, desde el norte de Veracruz y el sur de Tamaulipas, ¿hasta qué regiones se extendieron los huastecos?
+
+- A. Hasta San Luis Potosí, Hidalgo y la Sierra Gorda de Querétaro
+- B. Hasta Oaxaca, Puebla y el Valle de México
+- C. Hasta Michoacán, Colima y Nayarit
+- D. Hasta Tabasco, Chiapas y la península de Yucatán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura huasteca
+
+Los Huastecos se establecieron en el Golfo de México desde el Clásico (200 d. C.) en el norte de Veracruz y sur de Tamaulipas hasta San Luis Potosí, Hidalgo y la Sierra Gorda de Querétaro.
+
+### 196
+
+De acuerdo con el libro de Historia de México 1, en sus centros político-religiosos, ¿en torno a qué fueron construidos los edificios?
+
+- A. En torno a plazas
+- B. En torno a canchas para el juego de pelota
+- C. En torno a basamentos piramidales aislados
+- D. En torno a calzadas procesionales
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura huasteca
+
+En esta zona fundaron sus centros político-religiosos; los edificios fueron construidos en torno a plazas, que eran ocupadas como centros de reunión y vivienda para el grupo dirigente.
+
+### 197
+
+De acuerdo con el libro de Historia de México 1, las plazas eran ocupadas como centros de reunión y vivienda para el grupo dirigente, ¿integrado por quiénes?
+
+- A. Sacerdotes y guerreros
+- B. Comerciantes y tributarios
+- C. Agricultores y alfareros
+- D. Cazadores y aldeanos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Los edificios fueron construidos en torno a plazas, que eran ocupadas como centros de reunión y vivienda para el grupo dirigente —sacerdotes y guerreros—, sus familias, servidores y artesanos especializados.
+
+### 198
+
+De acuerdo con el libro de Historia de México 1, ¿dónde habitaban los agricultores huastecos?
+
+- A. En los alrededores, formando núcleos aldeanos
+- B. En el interior de las plazas centrales
+- C. En los centros político-religiosos
+- D. Junto a los talleres de los artesanos especializados
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Mientras que los agricultores habitaban en los alrededores formando núcleos aldeanos.
+
+### 199
+
+De acuerdo con el libro de Historia de México 1, ¿qué actitud mostraron los huastecos durante el Clásico respecto a sus vecinos mesoamericanos?
+
+- A. Cierto distanciamiento
+- B. Una intensa integración comercial
+- C. Un sometimiento militar
+- D. Una alianza tributaria
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Durante el Clásico, los huastecos mostraron cierto distanciamiento respecto a sus vecinos mesoamericanos, pero en el Posclásico, el intercambio cultural y las relaciones comerciales adquirieron mayor relevancia.
+
+### 200
+
+De acuerdo con el libro de Historia de México 1, en el Posclásico su escultura reflejó un acercamiento con los estilos de ¿qué región?
+
+- A. Del Centro de Veracruz
+- B. Del Altiplano central
+- C. Del área maya
+- D. De Occidente de México
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Hecho que puede demostrarse en el arte, ya que su escultura refleja un acercamiento con los estilos del Centro de Veracruz.
+
+### 201
+
+De acuerdo con el libro de Historia de México 1, ¿en qué periodo perfeccionaron los huastecos sus instituciones políticas y económicas?
+
+- A. En el Posclásico tardío (1200-1521 d. C.)
+- B. En el Posclásico temprano (900-1160 d. C.)
+- C. En el Clásico (200-650 d. C.)
+- D. En el Preclásico (400-200 a. C.)
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+En el Posclásico tardío (1200-1521 d. C.), perfeccionaron sus instituciones políticas —teocracia y señorío— y económicas debido al incremento de la producción agrícola y el intercambio comercial.
+
+### 202
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles fueron las instituciones políticas que perfeccionaron los huastecos en el Posclásico tardío?
+
+- A. La teocracia y el señorío
+- B. La monarquía y el consejo de ancianos
+- C. La confederación y el calpulli
+- D. El tributo y la esclavitud
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+En el Posclásico tardío (1200-1521 d. C.), perfeccionaron sus instituciones políticas —teocracia y señorío— y económicas debido al incremento de la producción agrícola y el intercambio comercial.
+
+### 203
+
+De acuerdo con el libro de Historia de México 1, ¿en qué entidad se localizaba el sitio huasteco de Tamuín?
+
+- A. San Luis Potosí
+- B. Hidalgo
+- C. Puebla
+- D. Querétaro
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Tamuín en San Luis Potosí, Huejutla en Hidalgo, Tizicoac en Puebla, Tancama en Querétaro, y Tuxpan, Temapache y Pánuco en Veracruz son algunas de las localidades huastecas.
+
+### 204
+
+De acuerdo con el libro de Historia de México 1, ¿cuál de las siguientes localidades huastecas se localizaba en Hidalgo?
+
+- A. Huejutla
+- B. Tamuín
+- C. Tizicoac
+- D. Tancama
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Tamuín en San Luis Potosí, Huejutla en Hidalgo, Tizicoac en Puebla, Tancama en Querétaro, y Tuxpan, Temapache y Pánuco en Veracruz son algunas de las localidades huastecas.
+
+### 205
+
+De acuerdo con el libro de Historia de México 1, ¿en qué entidad se localizaban las localidades huastecas de Tuxpan, Temapache y Pánuco?
+
+- A. Veracruz
+- B. San Luis Potosí
+- C. Hidalgo
+- D. Querétaro
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Tamuín en San Luis Potosí, Huejutla en Hidalgo, Tizicoac en Puebla, Tancama en Querétaro, y Tuxpan, Temapache y Pánuco en Veracruz son algunas de las localidades huastecas.
+
+### 206
+
+De acuerdo con el libro de Historia de México 1, ¿a qué actividad se dedicaron principalmente los huastecos y en cuál sobresalieron?
+
+- A. A la agricultura, y sobresalieron en la elaboración de cerámica
+- B. Al comercio, y sobresalieron en la orfebrería
+- C. A la caza, y sobresalieron en la talla de piedra
+- D. A la pesca, y sobresalieron en el tejido del algodón
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Se dedicaron principalmente a la agricultura y sobresalieron en la elaboración de cerámica, en la que representaron formas de la naturaleza y pintaron sus vasijas con colores crema, negro y guinda.
+
+### 207
+
+De acuerdo con el libro de Historia de México 1, ¿con qué colores pintaban los huastecos sus vasijas?
+
+- A. Crema, negro y guinda
+- B. Rojo, blanco y ocre
+- C. Negro, naranja y crema
+- D. Guinda, verde y amarillo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Se dedicaron principalmente a la agricultura y sobresalieron en la elaboración de cerámica, en la que representaron formas de la naturaleza y pintaron sus vasijas con colores crema, negro y guinda.
+
+### 208
+
+De acuerdo con el libro de Historia de México 1, además de la cerámica, ¿en qué manifestación destacaron los huastecos, en la que es posible identificar a sus dioses?
+
+- A. En la escultura en barro y piedra
+- B. En la pintura mural
+- C. En el trabajo de los metales
+- D. En los códices de papel amate
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+También destacan en la escultura en barro y piedra, en la que es posible identificar a sus dioses más importantes: Quetzalcóatl, Xipe, Tláloc, Chicomecóatl, Tlahuizcalpantecuhtli, Mixcóatl, Ome Tochtli, Tlazoltéotl y Ehécatl.
+
+### 209
+
+De acuerdo con el libro de Historia de México 1, ¿cuál de los siguientes se menciona entre los dioses más importantes de los huastecos?
+
+- A. Tlahuizcalpantecuhtli
+- B. Huitzilopochtli
+- C. Coatlicue
+- D. Tezcatlipoca
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+También destacan en la escultura en barro y piedra, en la que es posible identificar a sus dioses más importantes: Quetzalcóatl, Xipe, Tláloc, Chicomecóatl, Tlahuizcalpantecuhtli, Mixcóatl, Ome Tochtli, Tlazoltéotl y Ehécatl.
+
+### 210
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles se cuentan entre los dioses más importantes de los huastecos?
+
+- A. Chicomecóatl, Mixcóatl y Ome Tochtli
+- B. Huitzilopochtli, Coyolxauhqui y Xochiquetzal
+- C. Centéotl, Tonatiuh y Mayahuel
+- D. Camaxtli, Xochipilli y Coatlicue
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+También destacan en la escultura en barro y piedra, en la que es posible identificar a sus dioses más importantes: Quetzalcóatl, Xipe, Tláloc, Chicomecóatl, Tlahuizcalpantecuhtli, Mixcóatl, Ome Tochtli, Tlazoltéotl y Ehécatl.
+
+### 211
+
+De acuerdo con el libro de Historia de México 1, además de a las deidades mencionadas, ¿a qué rindieron culto los huastecos durante el Clásico?
+
+- A. A la fertilidad
+- B. A la guerra
+- C. Al inframundo
+- D. Al comercio
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Sobre su religión, durante el Clásico, rindieron culto a las deidades mencionadas y a la fertilidad, que representaban con mujeres cuyas manos descansaban sobre el vientre o con las caderas y senos prominentes; así como ancianos con bastón plantador.
+
+### 212
+
+De acuerdo con el libro de Historia de México 1, ¿cómo representaban los huastecos a la fertilidad?
+
+- A. Con mujeres cuyas manos descansaban sobre el vientre o con las caderas y senos prominentes, así como ancianos con bastón plantador
+- B. Con guerreros que sostenían escudos y estandartes
+- C. Con jaguares y águilas que devoraban corazones humanos
+- D. Con serpientes emplumadas entrelazadas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Rindieron culto a las deidades mencionadas y a la fertilidad, que representaban con mujeres cuyas manos descansaban sobre el vientre o con las caderas y senos prominentes; así como ancianos con bastón plantador.
+
+### 213
+
+De acuerdo con el libro de Historia de México 1, ligado a sus prácticas religiosas, ¿qué ritual de juego de pelota adoptaron los huastecos?
+
+- A. El juego de pelota con anillos
+- B. El juego de pelota con marcadores de piedra
+- C. El sacrificio por flechamiento
+- D. El sacrificio gladiatorio
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Ligado a las prácticas religiosas, adoptaron el ritual de juego de pelota con anillos, además se consolidó el ritual del volador, en honor al sol.
+
+### 214
+
+De acuerdo con el libro de Historia de México 1, ¿qué ritual se consolidó entre los huastecos y en honor a qué?
+
+- A. El ritual del volador, en honor al sol
+- B. El ritual del fuego nuevo, en honor a la luna
+- C. El ritual del volador, en honor a la lluvia
+- D. El ritual del juego de pelota, en honor a las estrellas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura huasteca
+
+Ligado a las prácticas religiosas, adoptaron el ritual de juego de pelota con anillos, además se consolidó el ritual del volador, en honor al sol.
+
+---
+
+**Reactivos en este archivo:** 214 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y nueve *Culturas de Mesoamérica*: **olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas** y **huastecos** (Posclásico, pp. 68–69). Sigue la cultura **mixteca** (Periodo Posclásico, desde la p. 69) y las demás, hasta la p. 84)
