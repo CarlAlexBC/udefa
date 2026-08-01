@@ -46,16 +46,18 @@ Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales 
 Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
 periodización de los horizontes culturales y los tres horizontes —Preclásico,
 Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
-y siete de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
+y ocho de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
 y 55), los **teotihuacanos** (Periodo Clásico, pp. 56–57), los **zapotecas** (Periodo
 Clásico, pp. 57–58), las **Culturas del Centro de Veracruz** (Periodo Clásico,
 pp. 58–59), las **Culturas de Occidente de México** (pp. 60–61), las **Culturas del
-Centro norte** (pp. 61–63) y los **mayas** (Periodo Posclásico, pp. 63–65).
+Centro norte** (pp. 61–63), los **mayas** (Periodo Posclásico, pp. 63–65) y los
+**toltecas** (Periodo Posclásico, pp. 67–68).
 
-**Pendiente: el resto del *Periodo Posclásico* cultura por cultura** (pp. 67–84),
-desde la p. 67 (toltecas, mexicas, etc.). Las páginas de actividad con fichas o mapas
-conceptuales en blanco (la p. 54, la p. 66 y las que sigan) no llevan reactivos. El
-Bloque 2 **NO** está cerrado hasta cubrir esas culturas.
+**Pendiente: el resto del *Periodo Posclásico* cultura por cultura** (pp. 68–84),
+desde la cultura **huasteca** (p. 68) y las demás (mexicas, etc.). Las páginas de
+actividad con fichas o mapas conceptuales en blanco (la p. 54, la p. 66 y las que
+sigan) no llevan reactivos. El Bloque 2 **NO** está cerrado hasta cubrir esas
+culturas.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -66,8 +68,9 @@ de la grafía errada**:
 
 - **"tzomplantli"** por *tzompantli* (muro de cráneos), p. 61 (Cultura Chalchihuites).
 - **"Jaileza"** por *Jalieza* (sitio zapoteco), p. 58 (declive de Monte Albán).
-- El libro alterna **"Tezcatlipoca"** (p. 61) y **"Tezcatipoca"** (p. 62, en Ranas)
-  para el mismo dios.
+- El libro escribe el mismo dios de tres formas: **"Tezcatlipoca"** (p. 61),
+  **"Tezcatipoca"** (p. 62, en Ranas) y **"Tezcatiploca"** (p. 67, en los toltecas).
+- **"itzaes"** (p. 65, mayas) y **"iztaes"** (p. 68, toltecas) para el mismo pueblo.
 
 ## Cómo se escriben estos reactivos
 
@@ -2803,4 +2806,252 @@ Empezaron a tener participación en el gobierno de Chichén-Itzá, Uxmal y Mayap
 
 ---
 
-**Reactivos en este archivo:** 177 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y siete *Culturas de Mesoamérica*: **olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte** y **mayas** (Posclásico, pp. 63–65). Siguen las demás culturas del **Periodo Posclásico** (toltecas, mexicas, etc.), desde la p. 67, hasta la p. 84)
+## Sub-lote 16 · Cultura tolteca (Periodo Posclásico, pp. 67-68)
+
+> En la p. 67, la columna izquierda es un recuadro de *Comprensión lectora* sobre la
+> literatura indígena (no lleva reactivos); los toltecas empiezan en la columna
+> derecha.
+
+### 178
+
+De acuerdo con el libro de Historia de México 1, ¿qué lugar ocupan los toltecas en el Posclásico temprano y entre qué años se ubican?
+
+- A. Fueron la primera sociedad militarista del Posclásico temprano (900-1160 d. C.)
+- B. Fueron la primera sociedad teocrática del Clásico (200-650 d. C.)
+- C. Fueron la última sociedad del Preclásico (400-200 a. C.)
+- D. Fueron la primera sociedad agrícola del Formativo (2500-1200 a. C.)
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 67
+**Subtema:** cultura tolteca
+
+Los toltecas fueron la primera sociedad militarista del Posclásico temprano (900-1160 d. C.).
+
+### 179
+
+De acuerdo con el libro de Historia de México 1, ¿en qué estado se establecieron los toltecas y qué ciudad fundaron?
+
+- A. En el estado de Hidalgo; fundaron la ciudad de Tula
+- B. En el Estado de México; fundaron Teotihuacán
+- C. En Oaxaca; fundaron Monte Albán
+- D. En Yucatán; fundaron Chichén-Itzá
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 67
+**Subtema:** cultura tolteca
+
+Se establecieron en el estado de Hidalgo y fundaron la ciudad de Tula.
+
+### 180
+
+De acuerdo con el libro de Historia de México 1, ¿en qué año alcanzó Tula su máximo apogeo y cuántos habitantes se calcula que tuvo?
+
+- A. En el 950 d. C.; unos 50 mil habitantes
+- B. En el 1160 d. C.; unos 30 mil habitantes
+- C. En el 650 d. C.; unos 100 mil habitantes
+- D. En el 1521 d. C.; unos 200 mil habitantes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 67
+**Subtema:** cultura tolteca
+
+Fundaron la ciudad de Tula que alcanzó su máximo apogeo en el 950 d. C. [...] Se ha calculado que tuvo unos 50 mil habitantes en esta época.
+
+### 181
+
+De acuerdo con el libro de Historia de México 1, ¿con qué ciudad se confundió durante mucho tiempo a la ciudad de los toltecas, y cómo se resolvió la discusión?
+
+- A. Con Teotihuacán; se resolvió con trabajos arqueológicos en el Estado de Hidalgo en la década de 1940
+- B. Con Monte Albán; se resolvió con el hallazgo de la Tumba 7
+- C. Con Chichén-Itzá; se resolvió con el estudio de sus cenotes
+- D. Con Tenochtitlan; se resolvió con la llegada de los españoles
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 67
+**Subtema:** cultura tolteca
+
+Durante mucho tiempo se pensó que la ciudad de los toltecas debía ser Teotihuacán. Dicha discusión llegó a su fin después de que [...] se realizaron trabajos arqueológicos en el Estado de Hidalgo, en la década de 1940.
+
+### 182
+
+De acuerdo con el libro de Historia de México 1, ¿qué grupos llegaron a Tula en el 800 d. C. con el reflujo migratorio?
+
+- A. Grupos chichimecas y nonoalcas que procedían del Golfo de México
+- B. Grupos olmecas y zapotecas
+- C. Grupos mayas y purépechas
+- D. Grupos españoles y putunes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 67
+**Subtema:** cultura tolteca
+
+Más tarde, en el 800 d. C., con el reflujo migratorio, llegaron grupos chichimecas, así como nonoalcas que procedían del Golfo de México.
+
+### 183
+
+De acuerdo con el libro de Historia de México 1, ¿a qué dios veneraban en su advocación de Tlahuizcalpantecuhtli, el señor de la casa de la aurora o Venus?
+
+- A. A Quetzalcóatl
+- B. A Tláloc
+- C. A Huitzilopochtli
+- D. A Tezcatlipoca
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 67
+**Subtema:** cultura tolteca
+
+Este grupo veneraba a Quetzalcóatl en su advocación de *Tlahuizcalpantecuhtli*, el señor de la casa de la aurora o Venus.
+
+### 184
+
+De acuerdo con el libro de Historia de México 1, ¿cuál era la actividad económica más importante de Tula, y qué les permitió la guerra?
+
+- A. La agricultura; la guerra les permitió dominar a varios pueblos vecinos que eran tributarios suyos
+- B. La metalurgia; la guerra les permitió obtener oro y plata
+- C. El comercio; la guerra les permitió controlar las rutas marítimas
+- D. La minería; la guerra les permitió explotar las minas de turquesa
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura tolteca
+
+Tula fue un asentamiento que tuvo como actividad económica más importante a la agricultura. Pero la guerra les permitió dominar a varios pueblos vecinos que eran tributarios suyos.
+
+### 185
+
+De acuerdo con el libro de Historia de México 1, ¿quiénes les llamaron "toltecas" y qué significa ese nombre?
+
+- A. Los mexicas; significa "artistas"
+- B. Los mayas; significa "guerreros"
+- C. Los chichimecas; significa "constructores"
+- D. Los españoles; significa "comerciantes"
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura tolteca
+
+Fueron los mexicas quienes les llamaron toltecas (artistas), admirados por sus logros artísticos.
+
+### 186
+
+De acuerdo con el libro de Historia de México 1, ¿qué elementos decorativos usaron los toltecas, que más tarde se generalizarían en Mesoamérica?
+
+- A. El coatepantli (muro de serpientes) y el muro de cráneos
+- B. El talud-tablero y los patios hundidos
+- C. La arquitectura de nichos y las grecas escalonadas
+- D. El tablero de doble escapulario y las cresterías
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura tolteca
+
+Usaron como elemento decorativo el *coatepantli* (muro de serpientes) y el *tzomplantli* (muro de cráneos), que más tarde se generalizarían en Mesoamérica.
+
+### 187
+
+De acuerdo con el libro de Historia de México 1, ¿qué imágenes son frecuentes en la escultura tolteca, con sus escenas militares?
+
+- A. Jaguares, coyotes y águilas que devoran corazones humanos
+- B. Serpientes-jaguar emplumadas y mascarones de Tláloc
+- C. Danzantes en posiciones rituales
+- D. Caritas sonrientes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura tolteca
+
+Abundan las escenas en bajorrelieve de guerreros. Son frecuentes las imágenes de jaguares, coyotes y águilas que devoran corazones humanos.
+
+### 188
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se llaman las columnas antropomorfas de guerreros que sostienen techos, características de los toltecas?
+
+- A. Cariátides o atlantes
+- B. Cresterías
+- C. Guachimontones
+- D. Estelas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura tolteca
+
+Destacan también los braceros, portaestandartes y las cariátides o atlantes, columnas antropomorfas de guerreros que sostienen techos o con sus brazos en alto.
+
+### 189
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se conoce el monumento tolteca más representativo, una imagen antropomorfa reclinada que sostiene sobre su abdomen un recipiente para ofrendas?
+
+- A. El chac mol
+- B. El atlante
+- C. La crestería
+- D. El coatepantli
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura tolteca
+
+Sus monumentos más representativos [...] son las imágenes antropomorfas, reclinadas, que sostienen sobre su abdomen un recipiente para ofrendas y que se conocen como chac mol.
+
+### 190
+
+De acuerdo con el libro de Historia de México 1, ¿cuándo ocurrió la decadencia de los toltecas y tras el exilio de qué sacerdote?
+
+- A. A mediados de 1150 d. C.; tras el exilio del sacerdote Ce Acatl Topiltzin Quetzalcóatl
+- B. En el 900 d. C.; tras el exilio de Huémac
+- C. En el 650 d. C.; tras el exilio de Kukulcán
+- D. En el 1521 d. C.; tras la llegada de los españoles
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura tolteca
+
+Su decadencia ocurrió a mediados de 1150 d. C. La tradición cuenta que después del exilio del sacerdote Ce Acatl Topiltzin Quetzalcóatl, la ciudad fue víctima de los enfrentamientos.
+
+### 191
+
+De acuerdo con el libro de Historia de México 1, ¿entre los seguidores de qué dioses ocurrieron los enfrentamientos que victimaron a la ciudad de Tula?
+
+- A. Entre los seguidores de Tezcatlipoca y Quetzalcóatl
+- B. Entre los seguidores de Tláloc y Huitzilopochtli
+- C. Entre los seguidores de Chaac y Kukulcán
+- D. Entre los seguidores de Hunab-Ku e Itzamná
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura tolteca
+
+La ciudad fue víctima de los enfrentamientos entre los seguidores de Tezcatlipoca y Quetzalcóatl.
+
+### 192
+
+De acuerdo con el libro de Historia de México 1, ¿quién fue el último soberano tolteca y qué ordenó al abandonar la ciudad en el 1160 d. C.?
+
+- A. Huémac; ordenó quemarla
+- B. Ce Acatl Topiltzin Quetzalcóatl; ordenó reconstruirla
+- C. Moctezuma; ordenó fortificarla
+- D. Kukulcán; ordenó abandonarla en silencio
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura tolteca
+
+En el 1160 d. C., la ciudad fue abandonada definitivamente. Huémac, último soberano tolteca, al abandonar la ciudad ordenó quemarla.
+
+### 193
+
+De acuerdo con el libro de Historia de México 1, ¿dónde se encontraron testimonios de la influencia cultural tolteca tras la ruina de su ciudad?
+
+- A. En la península de Yucatán, especialmente en Chichén-Itzá
+- B. En Oaxaca, especialmente en Monte Albán
+- C. En el Golfo de México, especialmente en El Tajín
+- D. En Michoacán, especialmente en Tzintzuntzan
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 68
+**Subtema:** cultura tolteca
+
+La cultura tolteca no se extinguió, pues se han encontrado testimonios de su influencia cultural en la península de Yucatán, especialmente en Chichén-Itzá.
+
+---
+
+**Reactivos en este archivo:** 193 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y ocho *Culturas de Mesoamérica*: **olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas** y **toltecas** (Posclásico, pp. 67–68). Sigue la cultura **huasteca** (Periodo Posclásico, desde la p. 68) y las demás, hasta la p. 84)
