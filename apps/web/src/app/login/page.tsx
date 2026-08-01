@@ -119,12 +119,12 @@ function LoginForm() {
             </Button>
 
             <p className="mt-2 text-center text-sm text-muted-foreground">
-              ¿Sin cuenta?{' '}
+              ¿Aún no tienes acceso?{' '}
               <Link
-                href="/registro"
+                href="/precios"
                 className="font-semibold text-accent hover:underline"
               >
-                Crear cuenta
+                Ver los paquetes
               </Link>
             </p>
           </form>

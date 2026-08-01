@@ -78,7 +78,7 @@ export default function Home() {
 
               <div className="mb-10 flex flex-wrap gap-3">
                 <Link
-                  href="/registro"
+                  href="/precios"
                   className={cn(
                     buttonVariants({ size: "lg" }),
                     "bg-accent text-accent-foreground hover:bg-accent/90"
@@ -342,7 +342,7 @@ export default function Home() {
             Busca personas estables, coherentes y confiables. Nuestro sistema te forma para mostrar exactamente eso.
           </p>
           <Link
-            href="/registro"
+            href="/precios"
             className={cn(
               buttonVariants({ size: "lg" }),
               "bg-accent text-accent-foreground hover:bg-accent/90"

@@ -1,8 +1,8 @@
 import Link from 'next/link'
 
 /**
- * Botón de un paquete en /precios. Si `paquete` es null (plan gratis) manda a
- * /registro; si es de pago, lleva a la pantalla "crea tu cuenta y paga"
+ * Botón de un paquete en /precios. Si `paquete` es null (plan gratis) manda a la
+ * muestra sin cuenta (/muestra); si es de pago, lleva a la pantalla "crea tu cuenta y paga"
  * (/comprar/<paquete>), donde el aspirante deja sus datos y sale al checkout de
  * Mercado Pago. Ya no pide sesión antes de comprar: la cuenta nace con la compra.
  */
@@ -19,7 +19,7 @@ export function BotonPaquete({
   onColor: string
   filled: boolean
 }) {
-  const destino = paquete ? `/comprar/${paquete}` : '/registro'
+  const destino = paquete ? `/comprar/${paquete}` : '/muestra'
   return (
     <div className="mt-6">
       <Link

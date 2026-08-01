@@ -24,6 +24,11 @@ import type { UsuarioAutenticado } from '../auth/decorators/usuario-actual.decor
 export class UsuariosController {
   constructor(private usuariosService: UsuariosService) {}
 
+  // Crear cuenta: SOLO admin (cortesías / cuentas manuales). El registro público
+  // gratuito se retiró — una cuenta nueva nace al comprar (registrar-y-pagar) o
+  // la crea un admin aquí. Así la base no se llena de cuentas sin compra.
+  @UseGuards(JwtAuthGuard, RolesGuard)
+  @Roles('admin')
   @Post('registro')
   registrar(@Body() datos: CrearUsuarioDto) {
     return this.usuariosService.registrar(datos);

@@ -19,6 +19,7 @@ import { CulturalModule } from './cultural/cultural.module';
 import { AccesoModule } from './acceso/acceso.module';
 import { PagosModule } from './pagos/pagos.module';
 import { TemariosModule } from './temarios/temarios.module';
+import { MuestraModule } from './muestra/muestra.module';
 
 @Module({
   imports: [
@@ -27,7 +28,7 @@ import { TemariosModule } from './temarios/temarios.module';
     // no se acerca a ese número. El login lleva su propio freno, mucho más
     // estricto, declarado en su controlador con @Throttle. (ttl va en ms.)
     ThrottlerModule.forRoot([{ ttl: 60000, limit: 200 }]),
-    UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule, IntentosModule, RepasosModule, SesionesCompletasModule, TemasPrioridadModule, AdminModule, CulturalModule, TemariosModule, AccesoModule, PagosModule],
+    UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule, IntentosModule, RepasosModule, SesionesCompletasModule, TemasPrioridadModule, AdminModule, CulturalModule, TemariosModule, AccesoModule, PagosModule, MuestraModule],
   controllers: [AppController],
   providers: [
     AppService,

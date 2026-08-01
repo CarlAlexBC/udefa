@@ -793,13 +793,13 @@ function SlideDiagnosticoFinal({
 
           <div className="flex flex-col gap-3 sm:flex-row sm:justify-center">
             <Link
-              href="/registro"
+              href="/muestra"
               className={cn(
                 buttonVariants({ size: 'lg' }),
                 'bg-accent text-accent-foreground hover:bg-accent/90',
               )}
             >
-              Regístrate y prueba con los 3 exámenes
+              Prueba la muestra completa gratis
               <ArrowRight className="ml-1 h-4 w-4" />
             </Link>
             <Link
