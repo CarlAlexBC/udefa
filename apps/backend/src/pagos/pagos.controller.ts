@@ -44,10 +44,11 @@ export class PagosController {
 
   /**
    * Confirma un pago al volver del checkout (plan B cuando el webhook no llega,
-   * p. ej. en desarrollo). Verifica el pago contra Mercado Pago y, si está
-   * aprobado, otorga el acceso. Idempotente con el webhook: no duplica nada.
+   * p. ej. en desarrollo). PÚBLICO a propósito: en el flujo "datos y luego pagar"
+   * el comprador vuelve SIN sesión iniciada. No usa la sesión — saca a quién dar
+   * acceso del propio pago (external_reference) y solo activa si Mercado Pago
+   * confirma el pago 'approved', igual que el webhook. Idempotente: no duplica.
    */
-  @UseGuards(JwtAuthGuard)
   @Post('confirmar')
   async confirmar(@Body() datos: { paymentId: string }) {
     const otorgado = await this.pagosService.procesarPago(String(datos.paymentId));

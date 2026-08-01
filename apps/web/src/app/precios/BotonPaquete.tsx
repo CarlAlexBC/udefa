@@ -1,13 +1,10 @@
-'use client'
-
-import { useState } from 'react'
-import { useRouter } from 'next/navigation'
-import { apiFetch } from '@/lib/api'
+import Link from 'next/link'
 
 /**
- * Botón de compra de un paquete. Si `paquete` es null (plan gratis) manda a
- * registro. Si no, pide al backend la preferencia de Mercado Pago y redirige al
- * checkout. Sin sesión, el backend responde 401 → lo mandamos a iniciar sesión.
+ * Botón de un paquete en /precios. Si `paquete` es null (plan gratis) manda a
+ * /registro; si es de pago, lleva a la pantalla "crea tu cuenta y paga"
+ * (/comprar/<paquete>), donde el aspirante deja sus datos y sale al checkout de
+ * Mercado Pago. Ya no pide sesión antes de comprar: la cuenta nace con la compra.
  */
 export function BotonPaquete({
   paquete,
@@ -22,57 +19,20 @@ export function BotonPaquete({
   onColor: string
   filled: boolean
 }) {
-  const router = useRouter()
-  const [cargando, setCargando] = useState(false)
-  const [error, setError] = useState('')
-
-  async function comprar() {
-    if (!paquete) {
-      router.push('/registro')
-      return
-    }
-    setError('')
-    setCargando(true)
-    try {
-      const res = await apiFetch<{ initPoint?: string }>('/pagos/preferencia', {
-        method: 'POST',
-        body: { paquete },
-      })
-      if (res.initPoint) {
-        window.location.href = res.initPoint
-        return
-      }
-      throw new Error('sin-checkout')
-    } catch (e) {
-      const msg = (e as Error).message ?? ''
-      // Sin sesión: a login, y de regreso a precios.
-      if (/unauthorized|401/i.test(msg)) {
-        router.push('/login?returnTo=/precios')
-        return
-      }
-      setError('No se pudo iniciar el pago. Intenta de nuevo.')
-      setCargando(false)
-    }
-  }
-
+  const destino = paquete ? `/comprar/${paquete}` : '/registro'
   return (
     <div className="mt-6">
-      <button
-        type="button"
-        onClick={comprar}
-        disabled={cargando}
-        className="w-full rounded-md border px-4 py-2.5 text-center text-sm font-semibold transition-opacity hover:opacity-90 disabled:opacity-60"
+      <Link
+        href={destino}
+        className="block w-full rounded-md border px-4 py-2.5 text-center text-sm font-semibold transition-opacity hover:opacity-90"
         style={
           filled
             ? { backgroundColor: color, color: onColor, borderColor: color }
             : { backgroundColor: 'transparent', color, borderColor: color }
         }
       >
-        {cargando ? 'Redirigiendo…' : label}
-      </button>
-      {error && (
-        <p className="mt-2 text-center text-xs text-destructive">{error}</p>
-      )}
+        {label}
+      </Link>
     </div>
   )
 }

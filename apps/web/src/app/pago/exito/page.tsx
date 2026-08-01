@@ -56,13 +56,14 @@ function Contenido() {
               ¡Pago confirmado!
             </h1>
             <p className="mt-2 text-sm text-muted-foreground">
-              Tu acceso ya está activo. ¡A prepararte!
+              Tu acceso ya está activo. Inicia sesión con el correo y la
+              contraseña que registraste para entrar a tu preparación.
             </p>
             <Link
-              href="/inicio"
+              href="/login?returnTo=/inicio"
               className="mt-6 inline-flex w-full items-center justify-center rounded-md bg-accent px-4 py-2.5 text-sm font-semibold text-accent-foreground transition-opacity hover:opacity-90"
             >
-              Ir a mi preparación
+              Iniciar sesión
             </Link>
           </>
         )}
@@ -74,14 +75,14 @@ function Contenido() {
               Tu pago está en proceso
             </h1>
             <p className="mt-2 text-sm text-muted-foreground">
-              En cuanto se acredite, tu acceso se activa automáticamente. Puedes
-              revisar más tarde desde tu cuenta.
+              En cuanto se acredite, tu acceso se activa automáticamente. Inicia
+              sesión con el correo que registraste para revisarlo.
             </p>
             <Link
-              href="/inicio"
+              href="/login?returnTo=/inicio"
               className="mt-6 inline-flex w-full items-center justify-center rounded-md border border-border px-4 py-2.5 text-sm font-semibold text-foreground transition-colors hover:bg-muted"
             >
-              Ir a mi cuenta
+              Iniciar sesión
             </Link>
           </>
         )}
