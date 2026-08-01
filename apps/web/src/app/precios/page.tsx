@@ -80,8 +80,9 @@ export default function PreciosPage() {
           HERO — tesis + callout de convocatoria
           ═══════════════════════════════════════════════════════════ */}
       <section className="mx-auto max-w-6xl px-6 pt-12 pb-8">
-        <div className="grid grid-cols-1 gap-8 md:grid-cols-[1.6fr_1fr] md:items-start">
-          <div>
+        <div className="grid grid-cols-1 gap-8 md:grid-cols-[1.6fr_1fr] md:items-center">
+          {/* Texto + convocatoria */}
+          <div className="order-2 md:order-1">
             <div className="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-widest text-accent">
               <span className="h-px w-5 bg-accent" />
               Elige tu ruta de preparación
@@ -93,27 +94,41 @@ export default function PreciosPage() {
               Acompañamiento completo para el examen Cultural y Psicológico, desde
               que sale la convocatoria hasta tu resultado.
             </p>
+
+            {/* Callout de convocatoria */}
+            <div className="mt-6 rounded-xl border border-accent/40 bg-accent/5 p-5">
+              <div className="flex items-center gap-3">
+                <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent/15 text-accent">
+                  <CalendarClock className="h-5 w-5" />
+                </div>
+                <div>
+                  <p className="text-sm font-bold uppercase tracking-wider text-foreground">
+                    Convocatoria {CICLO}
+                  </p>
+                  <p className="text-xs text-muted-foreground">Abre en diciembre 2026</p>
+                </div>
+              </div>
+              <p className="mt-3 text-sm text-muted-foreground">
+                Empieza con tiempo y llega con ventaja.{' '}
+                <span className="font-semibold text-foreground">
+                  Cada día de preparación cuenta.
+                </span>
+              </p>
+            </div>
           </div>
 
-          {/* Callout de convocatoria */}
-          <div className="rounded-xl border border-accent/40 bg-accent/5 p-5">
-            <div className="flex items-center gap-3">
-              <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent/15 text-accent">
-                <CalendarClock className="h-5 w-5" />
-              </div>
-              <div>
-                <p className="text-sm font-bold uppercase tracking-wider text-foreground">
-                  Convocatoria {CICLO}
-                </p>
-                <p className="text-xs text-muted-foreground">Abre en diciembre 2026</p>
-              </div>
-            </div>
-            <p className="mt-3 text-sm text-muted-foreground">
-              Empieza con tiempo y llega con ventaja.{' '}
-              <span className="font-semibold text-foreground">
-                Cada día de preparación cuenta.
-              </span>
-            </p>
+          {/* Sello de la Rectoría como medalla. El PNG (public/udefa-sello.png) es
+              transparente y trae su propia sombra 3D. En móvil va arriba
+              (order-1); en escritorio, a la derecha. */}
+          <div className="order-1 flex justify-center md:order-2">
+            <Image
+              src="/udefa-sello.png"
+              alt="Sello de la Rectoría U.D.E.F.A. — Dirección General de Educación Militar"
+              width={1254}
+              height={1254}
+              priority
+              className="h-auto w-44 drop-shadow-xl sm:w-52 md:w-64"
+            />
           </div>
         </div>
 
