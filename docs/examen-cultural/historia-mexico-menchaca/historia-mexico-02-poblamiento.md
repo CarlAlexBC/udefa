@@ -46,14 +46,14 @@ Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales 
 Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
 periodización de los horizontes culturales y los tres horizontes —Preclásico,
 Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
-y la primera de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico,
-pp. 53 y 55).
+y dos de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
+y 55) y los **teotihuacanos** (Periodo Clásico, pp. 56–57).
 
 **Pendiente: el resto de las *Culturas de Mesoamérica* cultura por cultura**
-(pp. 56–84), desde los **teotihuacanos** (Periodo Clásico, p. 56) en adelante (maya,
-zapoteca, tolteca, mexica, etc.). Las páginas de actividad con fichas o mapas
-conceptuales en blanco (la p. 54 y las que sigan) no llevan reactivos. El Bloque 2
-**NO** está cerrado hasta cubrir esas culturas.
+(pp. 57–84), desde la cultura **zapoteca** (Periodo Clásico, p. 57) en adelante
+(Centro de Veracruz, maya, tolteca, mexica, etc.). Las páginas de actividad con fichas
+o mapas conceptuales en blanco (la p. 54 y las que sigan) no llevan reactivos. El
+Bloque 2 **NO** está cerrado hasta cubrir esas culturas.
 
 ## Cómo se escriben estos reactivos
 
@@ -1216,4 +1216,248 @@ La desaparición de sus núcleos políticos se debió a presiones políticas int
 
 ---
 
-**Reactivos en este archivo:** 74 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y la primera cultura, los **olmecas** (Periodo Preclásico, pp. 53 y 55); falta el resto de las *Culturas de Mesoamérica*: los **teotihuacanos** (Periodo Clásico, desde la p. 56) en adelante, hasta la p. 84)
+## Sub-lote 10 · Cultura teotihuacana (Periodo Clásico, pp. 56-57)
+
+### 75
+
+De acuerdo con el libro de Historia de México 1, ¿dónde y desde qué horizonte se establecieron los teotihuacanos?
+
+- A. En el Estado de México, desde el Preclásico Superior (400-200 a. C.)
+- B. En Oaxaca, desde el Preclásico Inferior (2500-1200 a. C.)
+- C. En el Golfo de México, desde el Preclásico medio (1200-400 a. C.)
+- D. En el área maya, desde el Clásico (200-650 d. C.)
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 56
+**Subtema:** cultura teotihuacana
+
+Los teotihuacanos se establecieron en el Estado de México desde el Preclásico Superior (400-200 a. C.).
+
+### 76
+
+De acuerdo con el libro de Historia de México 1, ¿con qué grupos se fusionaron los núcleos aldeanos de la región para fundar la metrópoli más grande del Altiplano central?
+
+- A. Con grupos provenientes de Cuicuilco
+- B. Con grupos provenientes de Monte Albán
+- C. Con grupos provenientes de La Venta
+- D. Con grupos provenientes de Tula
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 56
+**Subtema:** cultura teotihuacana
+
+Ya existían núcleos aldeanos en la región que se fusionaron con grupos provenientes de Cuicuilco, para fundar lo que sería la metrópoli más grande del Altiplano central durante el Clásico.
+
+### 77
+
+De acuerdo con el libro de Historia de México 1, ¿en qué años se registran el inicio y el fin de Teotihuacán?
+
+- A. Su inicio en el 200 a. C. y su fin en el 650 d. C.
+- B. Su inicio en el 400 a. C. y su fin en el 200 d. C.
+- C. Su inicio en el 900 d. C. y su fin en el 1521 d. C.
+- D. Su inicio en el 1200 a. C. y su fin en el 400 a. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 56
+**Subtema:** cultura teotihuacana
+
+Su inicio se registra en el 200 a. C. y su fin en el 650 d. C.
+
+### 78
+
+De acuerdo con el libro de Historia de México 1, ¿quiénes denominaron "Teotihuacán" a la ciudad y qué significa ese vocablo?
+
+- A. Los mexicas; significa "ciudad de los dioses"
+- B. Los teotihuacanos; significa "Ciudad del Sol"
+- C. Los toltecas; significa "lugar de los sacerdotes"
+- D. Los zapotecas; significa "cerro sagrado"
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 56
+**Subtema:** cultura teotihuacana
+
+Fueron los mexicas quienes denominaron a la ciudad Teotihuacán, vocablo que significa ciudad de los dioses.
+
+### 79
+
+De acuerdo con el libro de Historia de México 1, ¿qué han sugerido recientemente algunos autores sobre el nombre original de la ciudad?
+
+- A. Que no se llamaba Teotihuacán, sino *Teo uacan*, la "Ciudad del Sol"
+- B. Que se llamaba Tollan, la "Ciudad de las cañas"
+- C. Que se llamaba Cuicuilco, la "Ciudad del canto"
+- D. Que se llamaba Tenochtitlan, la "Ciudad de los mexicas"
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 56
+**Subtema:** cultura teotihuacana
+
+Han sugerido que la ciudad originalmente no se llamaba Teotihuacán, sino *Teo uacan*, es decir, la "Ciudad del Sol" y no "Ciudad de los dioses", tal y como la conocemos en la actualidad.
+
+### 80
+
+De acuerdo con el libro de Historia de México 1, ¿qué tipo de régimen tenían los teotihuacanos y a cargo de quiénes estaba?
+
+- A. Un régimen teocrático a cargo de los sacerdotes y guerreros
+- B. Un régimen militarista a cargo de los tlatoque
+- C. Una monarquía hereditaria a cargo de un señor
+- D. Un consejo de ancianos a cargo de los calpulli
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 56
+**Subtema:** cultura teotihuacana
+
+Los teotihuacanos tenían un régimen teocrático a cargo de los sacerdotes y guerreros.
+
+### 81
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles eran los dioses más importantes del panteón teotihuacano?
+
+- A. Quetzalcóatl, Chalchiuhtlicue, Tláloc y Huehuetéotl
+- B. Tezcatlipoca, Huitzilopochtli y Curicaueri
+- C. Cocijo, Nohuichana y Capijcha
+- D. Chac, Cocijo, Tajín y Tláloc
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 56
+**Subtema:** cultura teotihuacana
+
+Su religión era politeísta, los dioses más importantes de su panteón eran Quetzalcóatl, Chalchiuhtlicue, Tláloc y Huehuetéotl.
+
+### 82
+
+De acuerdo con el libro de Historia de México 1, ¿cuál era el eje principal de la ciudad de Teotihuacán, sobre el que se edificaron los templos más grandes de Mesoamérica?
+
+- A. La Calzada de los Muertos
+- B. La Ciudadela
+- C. La Plaza de la Luna
+- D. El palacio del Quetzalpapálotl
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 56
+**Subtema:** cultura teotihuacana
+
+El eje principal de la ciudad era la Calzada de los Muertos, sobre la que edificaron los templos más grandes de Mesoamérica.
+
+### 83
+
+De acuerdo con el libro de Historia de México 1, ¿cuánto miden la base y la altura de la Pirámide del Sol?
+
+- A. Su base mide alrededor de 225 metros y tiene una altura de 65 metros
+- B. Su base mide alrededor de 65 metros y tiene una altura de 225 metros
+- C. Su base mide alrededor de 200 metros y tiene una altura de 100 metros
+- D. Su base mide alrededor de 150 metros y tiene una altura de 45 metros
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 56
+**Subtema:** cultura teotihuacana
+
+La Pirámide del Sol, construida sobre un antiguo manantial cuya base mide alrededor de 225 metros y tiene una altura de 65 metros.
+
+### 84
+
+De acuerdo con el libro de Historia de México 1, ¿por qué la Pirámide de la Luna parece tener la misma altura que la del Sol, pese a ser de menores dimensiones?
+
+- A. Por la elevación que tiene el terreno donde se construyó
+- B. Porque fue recubierta con estuco blanco
+- C. Porque está coronada por un templo más alto
+- D. Porque se levantó sobre un basamento doble
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 56
+**Subtema:** cultura teotihuacana
+
+La pirámide de la Luna es de menores dimensiones, sin embargo a simple vista parece tener la misma altura que la del Sol, esto debido a la elevación que tiene el terreno donde se construyó.
+
+### 85
+
+De acuerdo con el libro de Historia de México 1, ¿qué edificio, uno de los más bellos del lugar, se localiza en la Plaza de la Luna?
+
+- A. El palacio del Quetzalpapálotl
+- B. La Pirámide de Quetzalcóatl
+- C. El conjunto de la Ciudadela
+- D. La Pirámide del Sol
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 56
+**Subtema:** cultura teotihuacana
+
+Se encuentra la Plaza de la Luna, en la que se localizan varios basamentos y el palacio del Quetzalpapálotl, uno de los edificios más bellos del lugar.
+
+### 86
+
+De acuerdo con el libro de Historia de México 1, ¿con qué está decorada la Pirámide de Quetzalcóatl, en el conjunto de la Ciudadela?
+
+- A. Con bajorrelieves de serpientes-jaguar emplumadas, mascarones de Tláloc y objetos marinos como conchas y caracoles
+- B. Con murales del Tlalocan y figurillas humanas de barro
+- C. Con estelas de danzantes y urnas funerarias
+- D. Con cabezas colosales de basalto y altares
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura teotihuacana
+
+La Pirámide de Quetzalcóatl, decorada con bellas esculturas y bajorrelieves de serpientes-jaguar emplumadas, mascarones de Tláloc, dios de la lluvia y numerosas representaciones de objetos marinos como conchas y caracoles.
+
+### 87
+
+De acuerdo con el libro de Historia de México 1, ¿qué estilos arquitectónicos caracterizan las construcciones de Teotihuacán y fueron adoptados por las sociedades posteriores?
+
+- A. El talud-tablero y los patios hundidos
+- B. El tablero de doble escapulario y las cresterías
+- C. La arquitectura de nichos y el arco maya
+- D. Las bóvedas y las tumbas de tiro
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura teotihuacana
+
+Estas construcciones se caracterizan por el uso del talud-tablero y los patios hundidos estilos arquitectónicos que fueron adoptados por las sociedades posteriores.
+
+### 88
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se llamaban las zonas residenciales de Teotihuacán?
+
+- A. Tetitla y Tepantitla
+- B. Tula y Tollan
+- C. Huijazoo y Lambityeco
+- D. Cuicuilco y Cholula
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura teotihuacana
+
+Después se encontraban las zonas residenciales de Tetitla y Tepantitla.
+
+### 89
+
+De acuerdo con el libro de Historia de México 1, ¿a qué diosa representa una de las bellas esculturas de los teotihuacanos, y de qué era diosa?
+
+- A. A Chalchiuhtlicue, diosa del agua que corre
+- B. A Coatlicue, diosa de la tierra
+- C. A Nohuichana, diosa de la fertilidad
+- D. A Tláloc, dios de la lluvia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura teotihuacana
+
+Los teotihuacanos produjeron bellas esculturas, como la que representa a Chalchiuhtlicue, diosa del agua que corre.
+
+### 90
+
+De acuerdo con el libro de Historia de México 1, ¿qué mural destaca entre las muestras de la pintura teotihuacana?
+
+- A. El mural del Tlalocan o paraíso de Tláloc en Tetitla
+- B. El mural de los danzantes de Monte Albán
+- C. El mural de Bonampak
+- D. El mural de la Pirámide del Sol
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 57
+**Subtema:** cultura teotihuacana
+
+Destacaron también como pintores, dejando muestras de este arte en algunos edificios, entre las que destaca el mural del Tlalocan o paraíso de Tláloc en Tetitla.
+
+---
+
+**Reactivos en este archivo:** 90 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y dos *Culturas de Mesoamérica*: los **olmecas** (Preclásico, pp. 53 y 55) y los **teotihuacanos** (Clásico, pp. 56–57); sigue la cultura **zapoteca** (Periodo Clásico, desde la p. 57) y el resto, hasta la p. 84)
