@@ -55,11 +55,15 @@ Centro norte** (pp. 61–63), los **mayas** (Periodo Posclásico, pp. 63–65), 
 pp. 68–69), los **mixtecos** (Periodo Posclásico, pp. 69–70), los **totonacos**
 (Periodo Posclásico, pp. 70–71) y los **purépechas** (Periodo Posclásico, pp. 71–72).
 
-**Pendiente: el resto del *Periodo Posclásico* cultura por cultura** (pp. 72–84),
-desde la cultura **mexica** (p. 72) y las demás. Las páginas de
-actividad con fichas o mapas conceptuales en blanco (la p. 54, la p. 66 y las que
-sigan) no llevan reactivos. El Bloque 2 **NO** está cerrado hasta cubrir esas
-culturas.
+**En curso: la *cultura mexica*** (Periodo Posclásico, pp. 72–73), la última y más
+extensa; por su volumen se trabaja **por temas**. Hecho el tema *migración y fundación*
+(p. 72); faltan *religión y dioses*, *organización política*, *organización social*,
+*arte* y *educación* (pp. 72–73). Con la cultura mexica se cierra el Bloque 2: el
+cuadro-resumen *Horizontes culturales de Mesoamérica* (p. 74) y la *Evaluación sumativa*
+(pp. 75–84, ejercicios del libro sin respuesta marcada) quedan **fuera del banco** por
+decisión de Carlo (1 ago 2026). Las páginas de actividad con fichas o mapas conceptuales
+en blanco (la p. 54, la p. 66 y las que sigan) no llevan reactivos. El Bloque 2 **NO**
+está cerrado hasta terminar los temas mexicas.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -4182,4 +4186,263 @@ Sus trabajos en piedra, laca sobre madera, arte plumaria y la orfebrería son un
 
 ---
 
-**Reactivos en este archivo:** 267 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y doce *Culturas de Mesoamérica*: **olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas** (Posclásico, pp. 68–72). Sigue la cultura **mexica** (Periodo Posclásico, desde la p. 72) y las demás, hasta la p. 84)
+## Sub-lote 21 · Cultura mexica — migración y fundación (Periodo Posclásico, p. 72)
+
+### 268
+
+De acuerdo con el libro de Historia de México 1, ¿dónde y en qué horizonte se instalaron los mexicas?
+
+- A. En el Altiplano central, durante el Posclásico tardío
+- B. En el Golfo de México, durante el Clásico
+- C. En Oaxaca, durante el Posclásico temprano
+- D. En Michoacán, durante el Preclásico
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Los mexicas se instalaron en el Altiplano central durante el Posclásico tardío.
+
+### 269
+
+De acuerdo con el libro de Historia de México 1, según sus crónicas, ¿de qué lugar procedían los mexicas?
+
+- A. De un lugar llamado Aztlán
+- B. De un lugar llamado Chicomóztoc
+- C. De un lugar llamado Tollan
+- D. De un lugar llamado Teotihuacan
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Según sus crónicas, procedían de un lugar llamado Aztlán.
+
+### 270
+
+De acuerdo con el libro de Historia de México 1, ¿qué señala el libro sobre la ubicación exacta de Aztlán?
+
+- A. No ha sido identificado plenamente
+- B. Se ubica con certeza en el norte de Jalisco
+- C. Corresponde a la isla de Mexcaltitán
+- D. Fue localizado en el Bajío
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Mucho se ha discutido sobre la exacta ubicación de este lugar, aunque no ha sido identificado plenamente.
+
+### 271
+
+De acuerdo con el libro de Historia de México 1, tras salir de Aztlán, ¿qué iniciaron los mexicas y hasta dónde llegaron?
+
+- A. Una larga peregrinación, hasta que arribaron a la cuenca de México
+- B. Una campaña de conquista, hasta dominar el Golfo de México
+- C. Una migración por mar, hasta las costas de Veracruz
+- D. Una alianza comercial, hasta llegar a Oaxaca
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+En sus crónicas se menciona que salieron de ese lugar e iniciaron una larga peregrinación, hasta que arribaron a la cuenca de México.
+
+### 272
+
+De acuerdo con el libro de Historia de México 1, ¿bajo la indicación de qué dios se instalaron los mexicas en un islote?
+
+- A. Huitzilopochtli
+- B. Quetzalcóatl
+- C. Tláloc
+- D. Tezcatlipoca
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Bajo la indicación de su dios Huitzilopochtli, se instalaron en un islote del lago de Texcoco.
+
+### 273
+
+De acuerdo con el libro de Historia de México 1, ¿dónde se instalaron los mexicas por indicación de Huitzilopochtli?
+
+- A. En un islote del lago de Texcoco
+- B. En la ribera del lago de Pátzcuaro
+- C. En un cerro del Altiplano central
+- D. En un islote del lago de Chalco
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Se instalaron en un islote del lago de Texcoco, propiedad de los tecpanecas de Azcapotzalco.
+
+### 274
+
+De acuerdo con el libro de Historia de México 1, ¿de quiénes era propiedad el islote donde se instalaron los mexicas?
+
+- A. De los tecpanecas de Azcapotzalco
+- B. De los acolhuas de Texcoco
+- C. De los tepanecas de Tlacopan
+- D. De los chichimecas de Xólotl
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Se instalaron en un islote del lago de Texcoco, propiedad de los tecpanecas de Azcapotzalco, cuyo gobernante Tezozómoc los hizo tributarios.
+
+### 275
+
+De acuerdo con el libro de Historia de México 1, ¿qué gobernante de Azcapotzalco hizo tributarios a los mexicas?
+
+- A. Tezozómoc
+- B. Nezahualcóyotl
+- C. Moctezuma
+- D. Axayácatl
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Propiedad de los tecpanecas de Azcapotzalco, cuyo gobernante Tezozómoc los hizo tributarios.
+
+### 276
+
+De acuerdo con el libro de Historia de México 1, ¿qué grupo eran probablemente los mexicas?
+
+- A. Un grupo chichimeca que se mantuvo errante por varios años
+- B. Un grupo tolteca sedentario
+- C. Un grupo maya migrante
+- D. Un grupo zapoteca comerciante
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Es más probable que los mexicas fueran un grupo chichimeca que se mantuvo errante por varios años en el Centro norte y Altiplano central.
+
+### 277
+
+De acuerdo con el libro de Historia de México 1, ¿en qué año fundaron los mexicas la ciudad de México-Tenochtitlan?
+
+- A. En 1325
+- B. En 1521
+- C. En 1200
+- D. En 1428
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Hasta que por fin, en 1325 fundaron la ciudad de México-Tenochtitlan.
+
+### 278
+
+De acuerdo con el libro de Historia de México 1, ¿con ayuda de qué pueblos se rebelaron los mexicas y derrotaron a los tecpanecas?
+
+- A. De Texcoco y Tlacopan
+- B. De Azcapotzalco y Tlatelolco
+- C. De Tlaxcala y Cholula
+- D. De Xochimilco y Chalco
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Se rebelaron y consiguieron derrotarlos con ayuda de Texcoco y Tlacopan.
+
+### 279
+
+De acuerdo con el libro de Historia de México 1, ¿qué conformaron los tres pueblos y con qué fin?
+
+- A. La Excan Tlatoloyan (Triple Alianza), para defenderse de cualquier enemigo común
+- B. El Tlatocan, para gobernar en conjunto las provincias
+- C. La Liga de Mayapán, para repartirse el tributo
+- D. El Anáhuac, para controlar el comercio del lago
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+A partir de ese momento, los tres pueblos conformaron la Excan Tlatoloyan (Triple Alianza) para defenderse de cualquier enemigo común.
+
+### 280
+
+De acuerdo con el libro de Historia de México 1, ¿en qué se convirtieron los mexicas en poco más de un siglo?
+
+- A. En el señorío más poderoso del Anáhuac (Valle de México)
+- B. En el principal centro comercial del Golfo de México
+- C. En la mayor confederación del área maya
+- D. En el señorío más rico de Oaxaca
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+En poco más de un siglo se convirtieron en el señorío más poderoso del Anáhuac (Valle de México).
+
+### 281
+
+De acuerdo con el libro de Historia de México 1, tras asegurar el control de la Triple Alianza, ¿a qué pueblos se lanzaron a conquistar?
+
+- A. A los que habitaban el Altiplano central, Oaxaca y el Golfo de México
+- B. A los del área maya y la península de Yucatán
+- C. A los de Occidente y el Centro norte
+- D. A los de la costa del Pacífico y Chiapas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Se lanzaron a la conquista de los demás pueblos que habitaban el Altiplano central, Oaxaca y el Golfo de México, haciéndolos tributarios suyos.
+
+### 282
+
+De acuerdo con el libro de Historia de México 1, ¿qué pueblos les opusieron resistencia a los mexicas?
+
+- A. Los tlaxcaltecas y purépechas
+- B. Los zapotecas y mixtecos
+- C. Los totonacos y huastecos
+- D. Los toltecas y chichimecas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Sin embargo, los tlaxcaltecas y purépechas les opusieron resistencia.
+
+### 283
+
+De acuerdo con el libro de Historia de México 1, ante la resistencia de tlaxcaltecas y purépechas, ¿con qué se conformaron los mexicas para hostigarlos?
+
+- A. Con las denominadas guerras floridas
+- B. Con bloqueos comerciales
+- C. Con alianzas matrimoniales
+- D. Con la construcción de fortificaciones
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Los mexicas se conformaron únicamente con hostigarlos mediante las denominadas guerras floridas, que tenían la finalidad de procurarse prisioneros para el sacrificio.
+
+### 284
+
+De acuerdo con el libro de Historia de México 1, ¿cuál era la finalidad de las guerras floridas?
+
+- A. Procurarse prisioneros para el sacrificio
+- B. Ampliar las fronteras del imperio
+- C. Obtener nuevas tierras de cultivo
+- D. Capturar esclavos para el comercio
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura mexica
+
+Las denominadas guerras floridas, que tenían la finalidad de procurarse prisioneros para el sacrificio.
+
+---
+
+**Reactivos en este archivo:** 284 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53), doce *Culturas de Mesoamérica* completas (**olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas**, Posclásico, pp. 68–72) y el inicio de la **cultura mexica** (Periodo Posclásico, pp. 72–73), de la que va el tema *migración y fundación* (p. 72). Faltan los demás temas mexicas —religión y dioses, organización política, organización social, arte y educación (pp. 72–73)— para cerrar el Bloque 2)
