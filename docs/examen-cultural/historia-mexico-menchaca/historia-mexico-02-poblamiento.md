@@ -46,17 +46,17 @@ Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales 
 Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
 periodización de los horizontes culturales y los tres horizontes —Preclásico,
 Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
-y once de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
+y doce de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
 y 55), los **teotihuacanos** (Periodo Clásico, pp. 56–57), los **zapotecas** (Periodo
 Clásico, pp. 57–58), las **Culturas del Centro de Veracruz** (Periodo Clásico,
 pp. 58–59), las **Culturas de Occidente de México** (pp. 60–61), las **Culturas del
 Centro norte** (pp. 61–63), los **mayas** (Periodo Posclásico, pp. 63–65), los
 **toltecas** (Periodo Posclásico, pp. 67–68), los **huastecos** (Periodo Posclásico,
-pp. 68–69), los **mixtecos** (Periodo Posclásico, pp. 69–70) y los **totonacos**
-(Periodo Posclásico, pp. 70–71).
+pp. 68–69), los **mixtecos** (Periodo Posclásico, pp. 69–70), los **totonacos**
+(Periodo Posclásico, pp. 70–71) y los **purépechas** (Periodo Posclásico, pp. 71–72).
 
-**Pendiente: el resto del *Periodo Posclásico* cultura por cultura** (pp. 71–84),
-desde la cultura **purépecha** (p. 71) y las demás (mexicas, etc.). Las páginas de
+**Pendiente: el resto del *Periodo Posclásico* cultura por cultura** (pp. 72–84),
+desde la cultura **mexica** (p. 72) y las demás. Las páginas de
 actividad con fichas o mapas conceptuales en blanco (la p. 54, la p. 66 y las que
 sigan) no llevan reactivos. El Bloque 2 **NO** está cerrado hasta cubrir esas
 culturas.
@@ -3908,4 +3908,278 @@ Estas obras nos dan una idea aproximada de los logros totonacos a la llegada de 
 
 ---
 
-**Reactivos en este archivo:** 249 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y once *Culturas de Mesoamérica*: **olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos** y **totonacos** (Posclásico, pp. 68–71). Sigue la cultura **purépecha** (Periodo Posclásico, desde la p. 71) y las demás, hasta la p. 84)
+## Sub-lote 20 · Cultura purépecha (Periodo Posclásico, pp. 71-72)
+
+### 250
+
+De acuerdo con el libro de Historia de México 1, ¿en qué estado y horizonte se establecieron los purépechas, y con qué otro nombre se les conoce?
+
+- A. En Michoacán, durante el Posclásico; también llamados tarascos
+- B. En Jalisco, durante el Clásico; también llamados chichimecas
+- C. En Guanajuato, durante el Preclásico; también llamados otomíes
+- D. En Colima, durante el Posclásico; también llamados coras
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+En el estado de Michoacán, durante el Posclásico se establecieron los purépechas o tarascos.
+
+### 251
+
+De acuerdo con el libro de Historia de México 1, ¿qué tipo de sociedad eran los purépechas?
+
+- A. Una sociedad militarista
+- B. Una sociedad teocrática
+- C. Una sociedad mercantil
+- D. Una sociedad igualitaria
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+Era una sociedad militarista que al ampliar sus dominios a los demás pueblos, quienes tuvieron que rendirles tributo.
+
+### 252
+
+De acuerdo con el libro de Historia de México 1, ¿en qué región y en torno a qué lago estaban situados los purépechas?
+
+- A. En la región de Zacapú y en los alrededores del lago de Pátzcuaro
+- B. En la región de Zacatlán y en los alrededores del lago de Texcoco
+- C. En la región de Zacapú y en los alrededores del lago de Chapala
+- D. En la región de Tzintzuntzan y en los alrededores del lago de Cuitzeo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+Estaban situados en la región de Zacapú y en los alrededores del lago de Pátzcuaro.
+
+### 253
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles eran las tres ciudades más importantes de los purépechas?
+
+- A. Tzintzuntzan, Ihuatzio y Pátzcuaro
+- B. Tzintzuntzan, Zacapú y Tula
+- C. Ihuatzio, Pátzcuaro y Cempoala
+- D. Pátzcuaro, Tzintzuntzan y Zacatlán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+Ahí se encontraban sus tres ciudades más importantes: Tzintzuntzan, Ihuatzio y Pátzcuaro.
+
+### 254
+
+De acuerdo con el libro de Historia de México 1, en su organización social, ¿por quiénes estaban integrados los nobles?
+
+- A. Por sacerdotes y militares
+- B. Por comerciantes y arquitectos
+- C. Por orfebres y escultores
+- D. Por cazadores y agricultores
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+Su organización social estaba conformada por nobles (sacerdotes, militares) comerciantes, arquitectos, orfebres, escultores, alfareros, cazadores y agricultores.
+
+### 255
+
+De acuerdo con el libro de Historia de México 1, ¿qué era la base de la organización política purépecha y quién estaba al frente del gobierno?
+
+- A. El señorío, con el cazonci al frente del gobierno
+- B. El calpulli, con el tlatoani al frente del gobierno
+- C. La confederación, con el cacique al frente del gobierno
+- D. La teocracia, con el sumo sacerdote al frente del gobierno
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+El señorío era la base de su organización política, con el cazonci al frente del gobierno.
+
+### 256
+
+De acuerdo con el libro de Historia de México 1, entre los motivos de conquista, ¿qué se buscaba con la obtención de nuevos súbditos?
+
+- A. Que rindieran culto a sus dioses y sirvieran al cazonci y sus ejércitos
+- B. Que poblaran las tierras vacías del señorío
+- C. Que aprendieran los oficios de la nobleza
+- D. Que fundaran nuevas ciudades tributarias
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+La obtención de nuevos súbditos que rindieran culto a dioses como Curicaueri, Xataranga, Thares Upeme, Chupi-Tiripeme y Uitzimengari; que sirvieran al cazonci y sus ejércitos.
+
+### 257
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles eran los dioses a los que rendían culto los purépechas?
+
+- A. Curicaueri, Xataranga, Thares Upeme, Chupi-Tiripeme y Uitzimengari
+- B. Huitzilopochtli, Tláloc, Quetzalcóatl y Tezcatlipoca
+- C. Xipe Totec, Tlazoltéotl, Mictlantecuhtli y Coatlicue
+- D. Hituayuta, Yoxoloyua, Cohuy y Quahue
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+La obtención de nuevos súbditos que rindieran culto a dioses como Curicaueri, Xataranga, Thares Upeme, Chupi-Tiripeme y Uitzimengari.
+
+### 258
+
+De acuerdo con el libro de Historia de México 1, ¿cuál de los siguientes era uno de los dioses de los purépechas?
+
+- A. Curicaueri
+- B. Huitzilopochtli
+- C. Xipe Totec
+- D. Hituayuta
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+La obtención de nuevos súbditos que rindieran culto a dioses como Curicaueri, Xataranga, Thares Upeme, Chupi-Tiripeme y Uitzimengari.
+
+### 259
+
+De acuerdo con el libro de Historia de México 1, entre los motivos de conquista, buscaban obtener por tributo productos que no existían en la zona. ¿Cuáles eran?
+
+- A. Sal, cobre, oro, plata, obsidiana, algodón, cacao, mantas, pieles y miel
+- B. Maíz, frijol, calabaza, chile y amaranto
+- C. Jade, turquesa, cristal de roca y concha
+- D. Papel amate, hule, copal y vainilla
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+La obtención de productos mediante tributo que no existían en la zona como sal, cobre, oro, plata, obsidiana, algodón, cacao, mantas, pieles y miel.
+
+### 260
+
+De acuerdo con el libro de Historia de México 1, entre los motivos de conquista, ¿para qué requerían esclavos los purépechas?
+
+- A. Para el sacrificio y para el trabajo de las tierras de su señor
+- B. Para la construcción de las yácatas
+- C. Para el servicio doméstico de los sacerdotes
+- D. Para el comercio con otros señoríos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+La necesidad de esclavos para el sacrificio y para el trabajo de las tierras de su señor.
+
+### 261
+
+De acuerdo con el libro de Historia de México 1, ¿a qué estaba encaminada la política de conquista, tributo y servicio de los purépechas?
+
+- A. A aumentar el control territorial e inhibir a sus enemigos
+- B. A enriquecer a la nobleza sacerdotal
+- C. A expandir el culto a Curicaueri
+- D. A asegurar la sucesión del cazonci
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+Todo esto encaminado a aumentar el control territorial e inhibir a sus enemigos.
+
+### 262
+
+De acuerdo con el libro de Historia de México 1, ¿por la construcción de qué se caracterizó la arquitectura purépecha?
+
+- A. De yácatas
+- B. De estelas
+- C. De juegos de pelota
+- D. De chinampas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+La arquitectura purépecha se caracterizó por la construcción de yácatas, cuerpos piramidales formados con lajas, unidas entre sí con barro, revestidas con tezontle.
+
+### 263
+
+De acuerdo con el libro de Historia de México 1, ¿cómo eran las yácatas?
+
+- A. Cuerpos piramidales formados con lajas, unidas entre sí con barro, revestidas con tezontle
+- B. Basamentos circulares de adobe cubiertos de estuco
+- C. Plataformas de tierra apisonada revestidas de cal
+- D. Muros de mampostería decorados con grecas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+La arquitectura purépecha se caracterizó por la construcción de yácatas, cuerpos piramidales formados con lajas, unidas entre sí con barro, revestidas con tezontle.
+
+### 264
+
+De acuerdo con el libro de Historia de México 1, sobre los basamentos, ¿qué se edificaron y de qué material?
+
+- A. Adoratorios hechos de madera con techos de palma
+- B. Templos de piedra con techos de laja
+- C. Palacios de adobe con techos de teja
+- D. Adoratorios de tezontle con bóvedas de mampostería
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+Sobre los basamentos se edificaron adoratorios hechos de madera con techos de palma.
+
+### 265
+
+De acuerdo con el libro de Historia de México 1, ¿cuál era la forma más común de dichos monumentos?
+
+- A. A manera de T mayúscula
+- B. A manera de L invertida
+- C. A manera de cruz
+- D. A manera de círculo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
+**Subtema:** cultura purépecha
+
+La forma más común de dichos monumentos era a manera de T mayúscula.
+
+### 266
+
+De acuerdo con el libro de Historia de México 1, ¿qué característica de la cerámica purépecha era inconfundible?
+
+- A. Su cerámica zoomorfa
+- B. Su cerámica polícroma
+- C. Su cerámica antropomorfa
+- D. Su cerámica vidriada
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura purépecha
+
+No debemos olvidar que fueron excelentes artistas, su cerámica zoomorfa es inconfundible.
+
+### 267
+
+De acuerdo con el libro de Historia de México 1, además de la cerámica, ¿en qué trabajos mostraron los purépechas su gran habilidad?
+
+- A. En sus trabajos en piedra, laca sobre madera, arte plumaria y la orfebrería
+- B. En la pintura mural, el mosaico y los vitrales
+- C. En el tallado de jade, hueso y concha
+- D. En el tejido de algodón, henequén y lana
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
+**Subtema:** cultura purépecha
+
+Sus trabajos en piedra, laca sobre madera, arte plumaria y la orfebrería son una muestra de su gran habilidad.
+
+---
+
+**Reactivos en este archivo:** 267 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y doce *Culturas de Mesoamérica*: **olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas** (Posclásico, pp. 68–72). Sigue la cultura **mexica** (Periodo Posclásico, desde la p. 72) y las demás, hasta la p. 84)
