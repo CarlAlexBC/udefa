@@ -58,11 +58,9 @@ complicadas" (art. 207, sólo ejemplos) quedan fuera por la norma de teoría sob
 práctica; del art. 212 se toman únicamente las dos frases generales sobre por qué la
 indeterminación es aparente y cómo se suprime, no los procedimientos.
 
-**Pendiente:** ninguno de este capítulo. Para que **Álgebra quede cerrada para la
-EMMG** faltan todavía los capítulos **XXXIII (Ecuaciones de segundo grado con una
-incógnita)**, **XXXVI (Ecuaciones binomias y trinomias)** y **XXXVIII (Logaritmos)**,
-que aún no tienen archivo; los capítulos VIII, X, XXIV y XXV que también pide ya están
-escritos.
+**Pendiente:** ninguno de este capítulo. Con el capítulo **XXXVIII (Logaritmos)**,
+**Álgebra Baldor queda CERRADA para la EMMG**: los ocho capítulos que pide su temario
+(`MATE-01-2026`) —VIII, X, XIV, XXIV, XXV, XXXIII, XXXVI y XXXVIII— están escritos.
 
 ## Criterio: teoría sobre práctica
 

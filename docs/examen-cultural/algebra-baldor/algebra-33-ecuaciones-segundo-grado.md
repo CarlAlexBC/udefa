@@ -53,9 +53,9 @@ los Ejercicios 265 a 274 quedan fuera por la norma de teoría sobre práctica.
 Los ejemplos numéricos resueltos, los Ejercicios 265 a 274 y los procedimientos de
 cálculo quedan fuera por la norma de teoría sobre práctica.
 
-**Pendiente:** ninguno de este capítulo. Para que **Álgebra quede cerrada para la
-EMMG** falta todavía el capítulo **XXXVIII (Logaritmos)**, que aún no tiene archivo;
-los capítulos VIII, X, XIV, XXIV, XXV y XXXVI que también pide ya están escritos.
+**Pendiente:** ninguno de este capítulo. Con el capítulo **XXXVIII (Logaritmos)**,
+**Álgebra Baldor queda CERRADA para la EMMG**: los ocho capítulos que pide su temario
+(`MATE-01-2026`) —VIII, X, XIV, XXIV, XXV, XXXIII, XXXVI y XXXVIII— están escritos.
 
 ## Criterio: teoría sobre práctica
 
