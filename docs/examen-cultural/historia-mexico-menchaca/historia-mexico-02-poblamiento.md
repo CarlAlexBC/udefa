@@ -46,16 +46,16 @@ Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales 
 Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
 periodización de los horizontes culturales y los tres horizontes —Preclásico,
 Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
-y nueve de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
+y diez de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
 y 55), los **teotihuacanos** (Periodo Clásico, pp. 56–57), los **zapotecas** (Periodo
 Clásico, pp. 57–58), las **Culturas del Centro de Veracruz** (Periodo Clásico,
 pp. 58–59), las **Culturas de Occidente de México** (pp. 60–61), las **Culturas del
 Centro norte** (pp. 61–63), los **mayas** (Periodo Posclásico, pp. 63–65), los
-**toltecas** (Periodo Posclásico, pp. 67–68) y los **huastecos** (Periodo Posclásico,
-pp. 68–69).
+**toltecas** (Periodo Posclásico, pp. 67–68), los **huastecos** (Periodo Posclásico,
+pp. 68–69) y los **mixtecos** (Periodo Posclásico, pp. 69–70).
 
-**Pendiente: el resto del *Periodo Posclásico* cultura por cultura** (pp. 69–84),
-desde la cultura **mixteca** (p. 69) y las demás (mexicas, etc.). Las páginas de
+**Pendiente: el resto del *Periodo Posclásico* cultura por cultura** (pp. 70–84),
+desde la cultura **totonaca** (p. 70) y las demás (mexicas, etc.). Las páginas de
 actividad con fichas o mapas conceptuales en blanco (la p. 54, la p. 66 y las que
 sigan) no llevan reactivos. El Bloque 2 **NO** está cerrado hasta cubrir esas
 culturas.
@@ -3374,4 +3374,293 @@ Ligado a las prácticas religiosas, adoptaron el ritual de juego de pelota con a
 
 ---
 
-**Reactivos en este archivo:** 214 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y nueve *Culturas de Mesoamérica*: **olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas** y **huastecos** (Posclásico, pp. 68–69). Sigue la cultura **mixteca** (Periodo Posclásico, desde la p. 69) y las demás, hasta la p. 84)
+## Sub-lote 18 · Cultura mixteca (Periodo Posclásico, pp. 69-70)
+
+### 215
+
+De acuerdo con el libro de Historia de México 1, ¿dónde y en qué horizonte se establecieron los mixtecos?
+
+- A. En Oaxaca, en el Horizonte Posclásico
+- B. En Veracruz, en el Horizonte Clásico
+- C. En el Golfo de México, en el Horizonte Preclásico
+- D. En el Altiplano central, en el Horizonte Posclásico
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura mixteca
+
+Los mixtecos se establecieron en Oaxaca en el Horizonte Posclásico.
+
+### 216
+
+De acuerdo con el libro de Historia de México 1, ¿qué ciudad fundaron los mixtecos y qué lograron?
+
+- A. Fundaron la ciudad de Tilantongo y llegaron a dominar la región
+- B. Fundaron la ciudad de Mitla y llegaron a dominar la región
+- C. Fundaron la ciudad de Zaachila y llegaron a dominar la región
+- D. Fundaron la ciudad de Monte Albán y llegaron a dominar la región
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura mixteca
+
+Fundaron la ciudad de Tilantongo y llegaron a dominar la región.
+
+### 217
+
+De acuerdo con el libro de Historia de México 1, como parte de su política expansionista, ¿qué designaban los mixtecos a la cabeza de cada provincia?
+
+- A. Una ciudad como centro administrativo
+- B. Un cacique como gobernante vitalicio
+- C. Un ejército permanente de guarnición
+- D. Un templo como centro ceremonial
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
+**Subtema:** cultura mixteca
+
+Como parte de su política expansionista, a la cabeza de cada provincia designaban a una ciudad como centro administrativo, por lo regular era la que destacaba sobre las demás.
+
+### 218
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles fueron las ciudades más importantes de los mixtecas?
+
+- A. Mitla, Tilantongo y Zaachila
+- B. Monte Albán, Mitla y Yagul
+- C. Tilantongo, Cholula y Teotihuacan
+- D. Zaachila, Tula y Cempoala
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+Las ciudades más importantes de los mixtecas fueron: Mitla, Tilantongo y Zaachila.
+
+### 219
+
+De acuerdo con el libro de Historia de México 1, ¿por qué destaca Mitla entre las ciudades mixtecas?
+
+- A. Por el uso de grecas en la decoración de sus edificios
+- B. Por sus canchas para el juego de pelota
+- C. Por sus grandes basamentos piramidales
+- D. Por sus murales polícromos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+De ellas, Mitla destaca por el uso de grecas en la decoración de sus edificios.
+
+### 220
+
+De acuerdo con el libro de Historia de México 1, además de excelentes arquitectos, ¿en qué materiales produjeron los mixtecos bellas esculturas?
+
+- A. En cristal de roca, jade y turquesa
+- B. En barro, piedra y obsidiana
+- C. En oro, plata y cobre
+- D. En madera, hueso y concha
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+Los mixtecos no sólo fueron excelentes arquitectos, también produjeron bellas esculturas en cristal de roca, jade y turquesa.
+
+### 221
+
+De acuerdo con el libro de Historia de México 1, ¿en qué se distinguieron sobre todo los mixtecos, trabajando el oro y la plata con singular maestría?
+
+- A. Fueron hábiles orfebres
+- B. Fueron hábiles alfareros
+- C. Fueron hábiles tejedores
+- D. Fueron hábiles canteros
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+Del mismo modo, se distinguieron por la elaboración de códices, pero sobre todo fueron hábiles orfebres, trabajaron el oro y la plata con singular maestría.
+
+### 222
+
+De acuerdo con el libro de Historia de México 1, en su organización social, ¿qué dos grupos es posible distinguir entre los mixtecos?
+
+- A. La elite, formada por la nobleza y comerciantes, y el pueblo
+- B. Los sacerdotes y los guerreros
+- C. Los caciques y los tributarios
+- D. Los nobles y los esclavos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+Sobre su organización social es posible distinguir dos grupos: el de la elite, formado por la nobleza y comerciantes, al que pertenecían sus gobernantes, y el pueblo.
+
+### 223
+
+De acuerdo con el libro de Historia de México 1, ¿por quién eran gobernados los centros urbanos mixtecos y de dónde se le escogía?
+
+- A. Por un cacique, escogido de entre la nobleza
+- B. Por un sacerdote, escogido de entre los comerciantes
+- C. Por un consejo de ancianos, escogido del pueblo
+- D. Por un guerrero, escogido de entre la elite militar
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+Los centros urbanos eran gobernados por un cacique, escogido de entre la nobleza.
+
+### 224
+
+De acuerdo con el libro de Historia de México 1, ¿por quiénes era asistido el cacique en sus funciones?
+
+- A. Por un grupo de principales miembros de la elite
+- B. Por un consejo de sacerdotes
+- C. Por los jefes de los comerciantes
+- D. Por los ancianos del pueblo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+Éste, era asistido en sus funciones por un grupo de principales miembros de la elite, mientras que el pueblo se dedicaba a la agricultura y al trabajo especializado.
+
+### 225
+
+De acuerdo con el libro de Historia de México 1, ¿a qué se dedicaba el pueblo mixteco?
+
+- A. A la agricultura y al trabajo especializado, y cuando era necesario, a la guerra
+- B. Sólo al comercio de larga distancia
+- C. Exclusivamente a las labores del templo
+- D. Al pago de tributo a la nobleza
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+Mientras que el pueblo se dedicaba a la agricultura y al trabajo especializado (escultores, lapidarios, orfebres, agricultores) y cuando era necesario, a la guerra.
+
+### 226
+
+De acuerdo con el libro de Historia de México 1, ¿a qué tipo de deidades incluía en su mayoría la religión de los mixtecos?
+
+- A. A deidades vinculadas con la naturaleza
+- B. A deidades vinculadas con la guerra
+- C. A deidades vinculadas con el inframundo
+- D. A deidades vinculadas con los astros
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+La religión de los mixtecos incluía en su mayoría a deidades vinculadas con la naturaleza: Quetzalcóatl, Hituayuta, dios de la regeneración; Yoxoloyua, dios de los mercaderes; Cohuy, dios del maíz y Quahue, dios de los cazadores.
+
+### 227
+
+De acuerdo con el libro de Historia de México 1, ¿de qué era dios Hituayuta?
+
+- A. De la regeneración
+- B. De los mercaderes
+- C. Del maíz
+- D. De los cazadores
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+Quetzalcóatl, Hituayuta, dios de la regeneración; Yoxoloyua, dios de los mercaderes; Cohuy, dios del maíz y Quahue, dios de los cazadores.
+
+### 228
+
+De acuerdo con el libro de Historia de México 1, ¿qué dios mixteco era el dios de los mercaderes?
+
+- A. Yoxoloyua
+- B. Hituayuta
+- C. Cohuy
+- D. Quahue
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+Quetzalcóatl, Hituayuta, dios de la regeneración; Yoxoloyua, dios de los mercaderes; Cohuy, dios del maíz y Quahue, dios de los cazadores.
+
+### 229
+
+De acuerdo con el libro de Historia de México 1, ¿de qué era dios Cohuy?
+
+- A. Del maíz
+- B. De la regeneración
+- C. De los mercaderes
+- D. De los cazadores
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+Quetzalcóatl, Hituayuta, dios de la regeneración; Yoxoloyua, dios de los mercaderes; Cohuy, dios del maíz y Quahue, dios de los cazadores.
+
+### 230
+
+De acuerdo con el libro de Historia de México 1, ¿qué dios mixteco era el dios de los cazadores?
+
+- A. Quahue
+- B. Cohuy
+- C. Yoxoloyua
+- D. Hituayuta
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+Quetzalcóatl, Hituayuta, dios de la regeneración; Yoxoloyua, dios de los mercaderes; Cohuy, dios del maíz y Quahue, dios de los cazadores.
+
+### 231
+
+De acuerdo con el libro de Historia de México 1, además de las deidades de la naturaleza, ¿qué tenía cada señorío mixteco?
+
+- A. Un dios tutelar al que le rendían un culto especial
+- B. Un oráculo consultado por los caciques
+- C. Un calendario ritual propio
+- D. Un templo dedicado a Quetzalcóatl
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+Además, cada señorío mixteco tenía un dios tutelar al que le rendían un culto especial, llegando a practicarse los sacrificios humanos.
+
+### 232
+
+De acuerdo con el libro de Historia de México 1, ¿qué señor mixteco intentó unificar la región?
+
+- A. El señor 8 Venado Garra de Tigre
+- B. El señor 4 Jaguar Serpiente de Fuego
+- C. El señor 8 Conejo Garra de Águila
+- D. El señor 9 Viento Garra de Tigre
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+En este sentido, si bien sobresale la consolidación de Tilantongo y los intentos del señor 8 Venado Garra de Tigre por unificar la región, no resulta extraño explicarnos porqué los mixtecos cayeron ante la expansión de los mexicas.
+
+### 233
+
+De acuerdo con el libro de Historia de México 1, ¿ante qué expansión cayeron finalmente los mixtecos?
+
+- A. Ante la expansión de los mexicas
+- B. Ante la expansión de los zapotecas
+- C. Ante la expansión de los toltecas
+- D. Ante la expansión de los tarascos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
+**Subtema:** cultura mixteca
+
+No resulta extraño explicarnos porqué los mixtecos cayeron ante la expansión de los mexicas.
+
+---
+
+**Reactivos en este archivo:** 233 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y diez *Culturas de Mesoamérica*: **olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos** y **mixtecos** (Posclásico, pp. 68–70). Sigue la cultura **totonaca** (Periodo Posclásico, desde la p. 70) y las demás, hasta la p. 84)
