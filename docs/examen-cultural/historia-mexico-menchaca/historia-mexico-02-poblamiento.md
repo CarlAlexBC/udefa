@@ -30,7 +30,8 @@ lo pide la EMMG). Sus subtemas (según el índice):
 
 - **2.1 La llegada del ser humano a América a través de rutas migratorias** (pp. 30–38).
 - **2.2 La etapa lítica y el protoneolítico** (pp. 39–42).
-- **2.3 Las áreas geográficas-culturales** (pp. 43–50).
+- **2.3 Las áreas geográficas-culturales** (pp. 43–50; el cuadro de las *áreas
+  culturales de Mesoamérica* desborda a la p. 51).
 - **2.4 Los horizontes culturales de Mesoamérica** (pp. 51–84).
 
 Los mapas (figuras) quedan fuera por norma; se trabajan sólo la prosa y los cuadros
@@ -38,10 +39,17 @@ de texto.
 
 ## Cobertura actual
 
-Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50). **Pendiente: 2.4 Los horizontes culturales
-de Mesoamérica** (pp. 51–84) — el Preclásico, el Clásico y el Posclásico y sus
-culturas (olmeca, teotihuacana, maya, tolteca, mexica, etc.). El Bloque 2 **NO** está
-cerrado hasta cubrir 2.4.
+Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales de
+Mesoamérica* que desborda a la p. 51) y el **andamiaje del 2.4**: la definición y
+periodización de los horizontes culturales y los tres horizontes —Preclásico o
+Formativo, Clásico y Posclásico— con sus fechas, subdivisiones, características y
+sitios (pp. 51–53).
+
+**Pendiente: el detalle de las *Culturas de Mesoamérica* cultura por cultura**
+(pp. 53–84), desde los olmecas —el resto del Preclásico y las culturas del Clásico y
+el Posclásico (teotihuacana, maya, zapoteca, tolteca, mexica, etc.)—. La p. 54 es una
+actividad (mapa conceptual en blanco) que no lleva reactivos. El Bloque 2 **NO** está
+cerrado hasta cubrir esas culturas.
 
 ## Cómo se escriben estos reactivos
 
@@ -423,4 +431,553 @@ Uso de dos calendarios: cívico de 365 días para la agricultura y el religioso 
 
 ---
 
-**Reactivos en este archivo:** 24 (Bloque 2 EN CURSO — falta 2.4 Los horizontes culturales de Mesoamérica, pp. 51–84)
+## Sub-lote 4 · Las áreas culturales de Mesoamérica (cierre del 2.3, p. 51)
+
+> El cuadro "Las áreas culturales de Mesoamérica" desborda a la p. 51, aunque el
+> resto del subtema 2.3 va en las pp. 43–50. Se cubre aquí como cierre del 2.3
+> (subtema *áreas geográficas culturales*) antes de entrar al 2.4.
+
+### 25
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles son las culturas más importantes del área cultural del Centro norte de Mesoamérica?
+
+- A. La cultura Serrana, del Bajío y Chalchihuites
+- B. Los teuchitecos, purépechas y matlatzincas
+- C. Los zapotecas y mixtecos
+- D. Los otomíes, teotihuacanos y toltecas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 51
+**Subtema:** áreas geográficas culturales
+
+La cultura Serrana, del Bajío y Chalchihuites son las más importantes.
+
+### 26
+
+De acuerdo con el libro de Historia de México 1, ¿por qué grupos estaba poblado el Centro norte para el siglo XVI?
+
+- A. Por grupos chichimecas
+- B. Por grupos olmecas
+- C. Por los purépechas
+- D. Por los teotihuacanos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 51
+**Subtema:** áreas geográficas culturales
+
+Para el siglo XVI, el centro norte estaba poblado por grupos chichimecas.
+
+### 27
+
+De acuerdo con el libro de Historia de México 1, ¿hace cuánto tiempo llegaron los primeros grupos humanos al Altiplano central?
+
+- A. Hace más de treinta mil años
+- B. Hace más de 2500 años
+- C. Hace más de cien mil años
+- D. Hace más de diez mil años
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 51
+**Subtema:** áreas geográficas culturales
+
+Los primeros grupos humanos llegaron hace más de treinta mil años.
+
+### 28
+
+De acuerdo con el libro de Historia de México 1, ¿qué rasgos locales hacen inconfundible al área cultural de Occidente?
+
+- A. La cerámica tipo Capacha, las "Tumbas de Tiro" y los círculos guachimontones
+- B. El talud-tablero, las cresterías y el arco maya
+- C. Las chinampas, los calpulli y el tributo
+- D. El tablero de doble escapulario y la arquitectura de nichos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 51
+**Subtema:** áreas geográficas culturales
+
+Pese a los rasgos locales que las hacen inconfundible, como la cerámica tipo Capacha, las denominadas "Tumbas de Tiro" y los círculos guachimontones.
+
+### 29
+
+De acuerdo con el libro de Historia de México 1, ¿qué pueblos destacan en el área cultural de Occidente?
+
+- A. Los teuchitecos, purépechas y matlatzincas
+- B. Los zapotecas y mixtecos
+- C. Los olmecas, huastecos y totonacos
+- D. Los otomíes, tlahuicas y xicalancas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 51
+**Subtema:** áreas geográficas culturales
+
+Entre los pueblos que se establecieron en esta área destacan los teuchitecos, purépechas y matlatzincas.
+
+### 30
+
+De acuerdo con el libro de Historia de México 1, ¿qué pueblos son los representativos de la subárea cultural de Oaxaca?
+
+- A. Los zapotecas y mixtecos
+- B. Los teuchitecos y purépechas
+- C. Los mayas y huastecos
+- D. Los olmecas y totonacos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 51
+**Subtema:** áreas geográficas culturales
+
+Los zapotecas y mixtecos son los pueblos representativos de esta subárea cultural.
+
+### 31
+
+De acuerdo con el libro de Historia de México 1, ¿qué entidades incluye en su totalidad el área maya?
+
+- A. Campeche, Quintana Roo y Yucatán
+- B. Veracruz, Tabasco y Tamaulipas
+- C. Oaxaca, Guerrero y Chiapas
+- D. Sinaloa, Sonora y Nayarit
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 51
+**Subtema:** áreas geográficas culturales
+
+Incluye la totalidad de Campeche, Quintana Roo y Yucatán, así como parte de Chiapas y Tabasco, extendiéndose hasta Centroamérica.
+
+### 32
+
+De acuerdo con el libro de Historia de México 1, ¿desde hace cuánto y por qué pueblos fue habitada el área del Golfo de México?
+
+- A. Desde hace más de 2500 años, por olmecas, huastecos y totonacos
+- B. Desde hace más de treinta mil años, por grupos chichimecas
+- C. Desde hace más de diez mil años, por zapotecas y mixtecos
+- D. Desde hace más de 1200 años, por purépechas y matlatzincas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 51
+**Subtema:** áreas geográficas culturales
+
+El lugar fue habitado desde hace más de 2500 años por olmecas, las sociedades del centro de Veracruz, huastecos y totonacos.
+
+---
+
+## Sub-lote 5 · Los horizontes culturales: definición y periodización (2.4, pp. 51 y 53)
+
+### 33
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se denomina la clasificación cronológica que dividió a la época prehispánica en tres grandes periodos históricos?
+
+- A. Horizontes culturales
+- B. Áreas culturales
+- C. Subáreas culturales
+- D. Periodos formativos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 51
+**Subtema:** horizontes culturales
+
+Se estableció una clasificación cronológica denominada Horizontes culturales, que dividió a la época prehispánica en tres grandes periodos históricos.
+
+### 34
+
+De acuerdo con el libro de Historia de México 1, ¿en qué tres grandes periodos históricos se dividió la época prehispánica?
+
+- A. Preclásico o Formativo, Clásico y Posclásico
+- B. Inferior, Medio y Superior
+- C. Lítico, Protoneolítico y Neolítico
+- D. Temprano, Medio y Tardío
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 51
+**Subtema:** horizontes culturales
+
+Tres grandes periodos históricos: Preclásico o Formativo, Clásico y Posclásico.
+
+### 35
+
+De acuerdo con el libro de Historia de México 1, ¿qué son los horizontes culturales?
+
+- A. Periodos históricos que sirven para ubicar en el tiempo a las sociedades de Mesoamérica
+- B. Regiones geográficas donde se asentaron las culturas del México antiguo
+- C. Estilos arquitectónicos característicos de cada cultura mesoamericana
+- D. Sistemas de gobierno de las sociedades de Mesoamérica
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 51
+**Subtema:** horizontes culturales
+
+Los horizontes culturales son periodos históricos que nos sirven para ubicar en el tiempo a las sociedades de Mesoamérica.
+
+### 36
+
+De acuerdo con el libro de Historia de México 1, ¿en qué año publicó el antropólogo Paul Kirchhoff su ensayo "Mesoamérica, sus límites geográficos, composición étnica y caracteres naturales"?
+
+- A. En 1943
+- B. En 1996
+- C. En 1521
+- D. En 2014
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 53
+**Subtema:** horizontes culturales
+
+En el año de 1943 el antropólogo alemán Paul Kirchhoff publicó su ensayo: "Mesoamérica, sus límites geográficos, composición étnica y caracteres naturales".
+
+### 37
+
+De acuerdo con el libro de Historia de México 1, además del concepto de Mesoamérica, ¿qué otro concepto usó Paul Kirchhoff para referirse a los niveles de desarrollo de las culturas mesoamericanas?
+
+- A. El concepto de Horizonte
+- B. El concepto de Área cultural
+- C. El concepto de Subárea cultural
+- D. El concepto de Periodo lítico
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 53
+**Subtema:** horizontes culturales
+
+Además del concepto Mesoamérica, Paul Kirchhoff también usó el concepto de Horizonte para referirse a los niveles de desarrollo de las culturas mesoamericanas.
+
+---
+
+## Sub-lote 6 · Horizonte Preclásico o Formativo (2.4, p. 52)
+
+### 38
+
+De acuerdo con el libro de Historia de México 1, ¿qué periodo abarca el horizonte Preclásico o Formativo?
+
+- A. 2500-200 a. C.
+- B. 200-900 d. C.
+- C. 900-1521 d. C.
+- D. 1200-400 a. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte preclásico
+
+Preclásico o Formativo 2500-200 a. C.
+
+### 39
+
+De acuerdo con el libro de Historia de México 1, ¿qué años abarca el Preclásico Medio?
+
+- A. 1200-400 a. C.
+- B. 2500-1200 a. C.
+- C. 400-200 a. C.
+- D. 200 a. C. a 200 d. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte preclásico
+
+Medio 1200-400 a. C.
+
+### 40
+
+De acuerdo con el libro de Historia de México 1, ¿qué surgió en el horizonte Preclásico?
+
+- A. Las aldeas y los primeros centros ceremoniales
+- B. Las grandes ciudades
+- C. La metalurgia
+- D. El militarismo y las guerras rituales
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte preclásico
+
+Es el periodo en que surgieron las aldeas y los primeros centros ceremoniales en los que se realizaban las actividades religiosas, administrativas y de intercambio comercial más importantes.
+
+### 41
+
+De acuerdo con el libro de Historia de México 1, ¿cuál fue el animal más venerado en el Preclásico?
+
+- A. El jaguar
+- B. El águila
+- C. La serpiente
+- D. El venado
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte preclásico
+
+La religión era politeísta, aunque el jaguar fue el animal más venerado.
+
+### 42
+
+De acuerdo con el libro de Historia de México 1, ¿qué simbolizaban el hombre-jaguar y el niño-jaguar?
+
+- A. El poder espiritual de los sacerdotes
+- B. La fuerza de los guerreros
+- C. La riqueza de los comerciantes
+- D. La autoridad del señor
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte preclásico
+
+El hombre-jaguar y niño-jaguar, que simbolizaba el poder espiritual de los sacerdotes, pues era considerado un elemento armónico de la dualidad día-noche y de la fertilidad.
+
+### 43
+
+De acuerdo con el libro de Historia de México 1, ¿qué cultivos destacaron cuando la agricultura se consolidó como la actividad más importante del Preclásico?
+
+- A. Maíz, frijol y calabaza
+- B. Cacao, algodón y maguey
+- C. Chile, tomate y aguacate
+- D. Jade, turquesa y cuarzo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte preclásico
+
+La agricultura se consolidó como la actividad más importante, destacando el cultivo de maíz, frijol y calabaza.
+
+### 44
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles son los sitios más importantes del Preclásico Inferior?
+
+- A. San José Mogote y los núcleos aldeanos olmecas
+- B. El Trapiche, Remojadas, Tres Zapotes y La Venta
+- C. Cuicuilco, Copilco y Tlatilco
+- D. Chiapa de Corzo y Palenque
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte preclásico
+
+Los sitios más importantes del Preclásico Inferior son San José Mogote y los núcleos aldeanos olmecas.
+
+---
+
+## Sub-lote 7 · Horizonte Clásico (2.4, p. 52)
+
+### 45
+
+De acuerdo con el libro de Historia de México 1, ¿qué periodo abarca el horizonte Clásico?
+
+- A. 200-900 d. C.
+- B. 2500-200 a. C.
+- C. 900-1521 d. C.
+- D. 650 a 900 d. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte clásico
+
+Clásico 200-900 d. C.
+
+### 46
+
+De acuerdo con el libro de Historia de México 1, ¿qué años abarca el Epiclásico?
+
+- A. 650 a 900 d. C.
+- B. 200 a. C. a 200 d. C.
+- C. 200-650 d. C.
+- D. 900-1200 d. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte clásico
+
+Epiclásico 650 a 900 d. C.
+
+### 47
+
+De acuerdo con el libro de Historia de México 1, ¿qué surgió en el horizonte Clásico, a diferencia del periodo anterior?
+
+- A. Las ciudades
+- B. Las aldeas
+- C. Los primeros centros ceremoniales
+- D. La metalurgia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte clásico
+
+En este horizonte surgieron las ciudades; ya no sólo se erigieron centros cívico-religiosos como en el periodo anterior.
+
+### 48
+
+De acuerdo con el libro de Historia de México 1, ¿qué estilo arquitectónico regional era el teotihuacano?
+
+- A. El talud-tablero
+- B. La arquitectura de nichos
+- C. El tablero de doble escapulario
+- D. El arco maya
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte clásico
+
+Aparecieron los estilos arquitectónicos regionales, como el talud-tablero teotihuacano, la arquitectura de nichos de la costa del Golfo, el tablero de doble escapulario en Oaxaca, las cresterías, bóveda y el arco maya.
+
+### 49
+
+De acuerdo con el libro de Historia de México 1, ¿qué deidades asociadas a la lluvia y al trueno dominaron la religión del Clásico?
+
+- A. Tláloc, Cocijo, Tajín y Chac
+- B. Tezcatlipoca, Huitzilopochtli y Curicaueri
+- C. Huehuetéotl, Quetzalcóatl y Xipe Tótec
+- D. Coatlicue, Mictlantecuhtli y Tonatiuh
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte clásico
+
+La religión era politeísta y estuvo dominada por deidades asociadas a la lluvia y al trueno como Tláloc, Cocijo, Tajín y Chac.
+
+### 50
+
+De acuerdo con el libro de Historia de México 1, ¿qué dios, retomado de las sociedades del formativo, era el dios viejo del fuego?
+
+- A. Huehuetéotl
+- B. Tláloc
+- C. Cocijo
+- D. Chac
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte clásico
+
+Se retomó a Huehuetéotl dios viejo del fuego y una diosa de la fertilidad, que veneraban las sociedades del formativo.
+
+### 51
+
+De acuerdo con el libro de Historia de México 1, ¿qué dos tipos de calendario se difundieron en el Clásico?
+
+- A. El solar de 365 días y el ritual de 260 días
+- B. El cívico de 260 días y el religioso de 365 días
+- C. El lunar de 360 días y el solar de 400 días
+- D. El agrícola de 400 días y el ritual de 260 días
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte clásico
+
+La difusión de dos tipos de calendario: el solar de 365 días y el ritual de 260 días.
+
+---
+
+## Sub-lote 8 · Horizonte Posclásico (2.4, pp. 52-53)
+
+### 52
+
+De acuerdo con el libro de Historia de México 1, ¿qué periodo abarca el horizonte Posclásico?
+
+- A. 900-1521 d. C.
+- B. 200-900 d. C.
+- C. 2500-200 a. C.
+- D. 1200-1521 d. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte posclásico
+
+Posclásico 900-1521 d. C.
+
+### 53
+
+De acuerdo con el libro de Historia de México 1, ¿con qué acontecimientos comenzó y terminó el Posclásico?
+
+- A. Comenzó con la caída de los centros urbanos del Clásico (900 d. C.) y terminó en 1521 con la conquista de México-Tenochtitlan
+- B. Comenzó con el surgimiento de las aldeas y terminó con la fundación de Teotihuacán
+- C. Comenzó con la llegada de los olmecas y terminó con la caída de Monte Albán
+- D. Comenzó en 1200 d. C. y terminó con la llegada de los chichimecas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte posclásico
+
+Comenzó en el 900 d. C., con la caída de los centros urbanos del Clásico y termina en 1521 con la conquista de México-Tenochtitlan por parte de los españoles.
+
+### 54
+
+De acuerdo con el libro de Historia de México 1, ¿qué actividad surgió como una de las más importantes en el Posclásico, sobre todo en occidente?
+
+- A. La metalurgia
+- B. La alfarería
+- C. La agricultura de temporal
+- D. La escritura glífica
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte posclásico
+
+La metalurgia surgió como una de las actividades más importantes, sobre todo en occidente.
+
+### 55
+
+De acuerdo con el libro de Historia de México 1, ¿qué metales se extraían en el Posclásico?
+
+- A. Oro, plata y cobre
+- B. Hierro, bronce y estaño
+- C. Plomo, mercurio y zinc
+- D. Jade, obsidiana y turquesa
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte posclásico
+
+Se sabe que en esta época se efectuaba la extracción de oro, plata y cobre, aunque algunos especialistas han propuesto que también estaño y plomo.
+
+### 56
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se llamaban los comerciantes que ocuparon un lugar destacado en la sociedad del Posclásico?
+
+- A. Pochtecas
+- B. Pipiltin
+- C. Macehualtin
+- D. Calpulli
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte posclásico
+
+Los comerciantes (pochtecas) ocuparon un lugar destacado en la sociedad; alejados de la producción agrícola, tenían privilegios y poseían grandes riquezas.
+
+### 57
+
+De acuerdo con el libro de Historia de México 1, ¿en qué dos grupos estaba dividida la sociedad del Posclásico?
+
+- A. Pipiltin (nobles) y macehualtin (pueblo)
+- B. Pochtecas (comerciantes) y calpulli (barrios)
+- C. Sacerdotes y campesinos
+- D. Señores y chichimecas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 52
+**Subtema:** horizonte posclásico
+
+La sociedad estaba dividida en dos grupos: pipiltin (nobles) y macehualtin (pueblo).
+
+### 58
+
+De acuerdo con el libro de Historia de México 1, ¿qué nuevas deidades surgieron en el Posclásico?
+
+- A. Tezcatlipoca, Huitzilopochtli o Curicaueri
+- B. Tláloc, Cocijo y Chac
+- C. Huehuetéotl y una diosa de la fertilidad
+- D. Quetzalcóatl, Tajín y Cocijo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 53
+**Subtema:** horizonte posclásico
+
+Aunque se mantuvo el culto a los dioses que ya existían en el clásico, surgieron nuevas deidades como Tezcatlipoca, Huitzilopochtli o Curicaueri.
+
+### 59
+
+De acuerdo con el libro de Historia de México 1, ¿cuál era el fin de las guerras rituales en el Posclásico?
+
+- A. Obtener cautivos para el sacrificio
+- B. Ampliar las rutas comerciales
+- C. Conseguir nuevas tierras de cultivo
+- D. Difundir la escritura y el calendario
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 53
+**Subtema:** horizonte posclásico
+
+Se puede observar la proliferación de elementos ideológicos asociados a la guerra, hecho que también se refleja en la religión con marcada orientación hacia las guerras rituales que tenían como fin obtener cautivos para el sacrificio.
+
+---
+
+**Reactivos en este archivo:** 59 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3 y el andamiaje del 2.4 (áreas culturales de Mesoamérica y los tres horizontes, pp. 51–53); falta el detalle de las *Culturas de Mesoamérica* cultura por cultura, pp. 53–84, desde los olmecas)
