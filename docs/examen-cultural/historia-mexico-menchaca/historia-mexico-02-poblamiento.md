@@ -46,24 +46,23 @@ Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales 
 Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
 periodización de los horizontes culturales y los tres horizontes —Preclásico,
 Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
-y doce de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico, pp. 53
+y las **trece Culturas de Mesoamérica**: los **olmecas** (Periodo Preclásico, pp. 53
 y 55), los **teotihuacanos** (Periodo Clásico, pp. 56–57), los **zapotecas** (Periodo
 Clásico, pp. 57–58), las **Culturas del Centro de Veracruz** (Periodo Clásico,
 pp. 58–59), las **Culturas de Occidente de México** (pp. 60–61), las **Culturas del
 Centro norte** (pp. 61–63), los **mayas** (Periodo Posclásico, pp. 63–65), los
 **toltecas** (Periodo Posclásico, pp. 67–68), los **huastecos** (Periodo Posclásico,
 pp. 68–69), los **mixtecos** (Periodo Posclásico, pp. 69–70), los **totonacos**
-(Periodo Posclásico, pp. 70–71) y los **purépechas** (Periodo Posclásico, pp. 71–72).
+(Periodo Posclásico, pp. 70–71), los **purépechas** (Periodo Posclásico, pp. 71–72) y
+los **mexicas** (Periodo Posclásico, pp. 72–73, la más extensa, trabajada en seis temas:
+*migración y fundación*, *religión y dioses*, *organización política*, *organización
+social*, *arte* y *educación*).
 
-**En curso: la *cultura mexica*** (Periodo Posclásico, pp. 72–73), la última y más
-extensa; por su volumen se trabaja **por temas**. Hechos los temas *migración y
-fundación*, *religión y dioses* (p. 72), *organización política* (pp. 72–73),
-*organización social* y *arte* (p. 73); falta *educación* (p. 73). Con la cultura mexica se cierra el Bloque 2: el
-cuadro-resumen *Horizontes culturales de Mesoamérica* (p. 74) y la *Evaluación sumativa*
-(pp. 75–84, ejercicios del libro sin respuesta marcada) quedan **fuera del banco** por
-decisión de Carlo (1 ago 2026). Las páginas de actividad con fichas o mapas conceptuales
-en blanco (la p. 54, la p. 66 y las que sigan) no llevan reactivos. El Bloque 2 **NO**
-está cerrado hasta terminar los temas mexicas.
+**Bloque 2 CERRADO** (1 ago 2026). Con la cultura mexica se completó el 2.4 y el bloque
+entero. El cuadro-resumen *Horizontes culturales de Mesoamérica* (p. 74) y la *Evaluación
+sumativa* (pp. 75–84, ejercicios del libro sin respuesta marcada) quedan **fuera del
+banco** por decisión de Carlo. Las páginas de actividad con fichas o mapas conceptuales en
+blanco (la p. 54, la p. 66, etc.) no llevaron reactivos.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -5148,4 +5147,263 @@ Como lo demuestran algunas tallas realizadas en alabastro, turquesa, jade y obsi
 
 ---
 
-**Reactivos en este archivo:** 329 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53), doce *Culturas de Mesoamérica* completas (**olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas**, Posclásico, pp. 68–72) y el inicio de la **cultura mexica** (Periodo Posclásico, pp. 72–73), de la que van los temas *migración y fundación*, *religión y dioses* (p. 72), *organización política* (pp. 72–73), *organización social* y *arte* (p. 73). Falta *educación* (p. 73) para cerrar el Bloque 2)
+## Sub-lote 26 · Cultura mexica — educación (Periodo Posclásico, p. 73)
+
+### 330
+
+De acuerdo con el libro de Historia de México 1, ¿cómo era el modelo educativo mexica y según qué se incorporaba a cada individuo a la educación estatal?
+
+- A. Rígido; correspondía a su condición social de pipiltin o macehualtin
+- B. Flexible; correspondía a la elección de cada familia
+- C. Rígido; correspondía a la riqueza de cada individuo
+- D. Libre; correspondía a la edad de cada niño
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Por último, la sociedad mexica tenía un rígido modelo educativo en el que los individuos, llegado el momento, eran incorporados a la educación estatal, misma que correspondía a su condición social de pipiltin o macehualtin.
+
+### 331
+
+De acuerdo con el libro de Historia de México 1, ¿a qué edad asumía el estado la responsabilidad de la enseñanza?
+
+- A. A los trece años
+- B. A los siete años
+- C. A los quince años
+- D. A los diez años
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Cuando el niño llegaba a la edad de trece años, la responsabilidad de su enseñanza la asumía el estado.
+
+### 332
+
+De acuerdo con el libro de Historia de México 1, a los trece años, ¿a qué escuela ingresaban los varones pillis?
+
+- A. Al Calmécac
+- B. Al Telpuchcalli
+- C. Al calpulli
+- D. Al Tlatocan
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Entonces los varones pillis ingresaban al Calmécac, mientras que los macehualtin hacían lo propio, pero al Telpuchcalli.
+
+### 333
+
+De acuerdo con el libro de Historia de México 1, ¿a qué escuela ingresaban los macehualtin?
+
+- A. Al Telpuchcalli
+- B. Al Calmécac
+- C. Al Tlatocan
+- D. Al Templo Mayor
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Entonces los varones pillis ingresaban al Calmécac, mientras que los macehualtin hacían lo propio, pero al Telpuchcalli.
+
+### 334
+
+De acuerdo con el libro de Historia de México 1, ¿a qué ideales de su sociedad estaba encaminada la política educativa mexica?
+
+- A. La religión y la guerra
+- B. El comercio y la agricultura
+- C. El arte y la ciencia
+- D. La justicia y el tributo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+En ambos casos, la política educativa de los mexicas estaba encaminada a satisfacer los ideales de su sociedad, que eran la religión y la guerra.
+
+### 335
+
+De acuerdo con el libro de Historia de México 1, ¿qué era el Calmécac?
+
+- A. Una especie de instituto anexo al templo
+- B. Un colegio militar en las afueras de la ciudad
+- C. Un mercado dedicado a los pochtecas
+- D. Un tribunal para juzgar las faltas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+El Calmécac era una especie de instituto anexo al templo, donde los pipiltin se preparaban para ser sacerdotes y ocupar los altos cargos del gobierno y la milicia.
+
+### 336
+
+De acuerdo con el libro de Historia de México 1, en el Calmécac, ¿para qué se preparaban los pipiltin?
+
+- A. Para ser sacerdotes y ocupar los altos cargos del gobierno y la milicia
+- B. Para ser artesanos y comerciantes
+- C. Para ser agricultores y cargadores
+- D. Para ser recaudadores de tributo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+El Calmécac era una especie de instituto anexo al templo, donde los pipiltin se preparaban para ser sacerdotes y ocupar los altos cargos del gobierno y la milicia.
+
+### 337
+
+De acuerdo con el libro de Historia de México 1, ¿para qué se preparaban las mujeres en su escuela?
+
+- A. Para el culto religioso; tejían y bordaban las telas para los altares y las ropas de los sacerdotes
+- B. Para la guerra y la defensa de la ciudad
+- C. Para el comercio y la administración
+- D. Para la agricultura y la elaboración de cerámica
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+También las mujeres iban a una escuela a prepararse para aprender a desempeñar la parte que les correspondía en el culto religioso; tejían y bordaban las telas para los altares y las ropas que usaban los sacerdotes.
+
+### 338
+
+De acuerdo con el libro de Historia de México 1, ¿qué se les exigía a las mujeres y cómo se castigaba una falta contra ellas?
+
+- A. Absoluta castidad; cualquier falta contra ellas era castigada con la muerte
+- B. Absoluto silencio; la falta se castigaba con el destierro
+- C. Absoluta obediencia; la falta se castigaba con azotes
+- D. Absoluta pobreza; la falta se castigaba con la esclavitud
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Se les exigía absoluta castidad y cualquier falta contra ellas era castigada con la muerte.
+
+### 339
+
+De acuerdo con el libro de Historia de México 1, ¿qué era el Telpuchcalli y qué se aprendía en él?
+
+- A. El colegio de los macehualtin, donde aprendían un oficio y se adiestraban para la guerra
+- B. El instituto de los pipiltin, donde se formaban los sacerdotes
+- C. La escuela de las mujeres, donde aprendían el culto religioso
+- D. El consejo de los tlatoanis, donde se dictaban las leyes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+El Telpuchcalli era el colegio de los macehualtin donde aprendían un oficio y se adiestraban para la guerra.
+
+### 340
+
+De acuerdo con el libro de Historia de México 1, ¿cuál fue la única característica en común que tuvieron el Calmécac y el Telpuchcalli?
+
+- A. Las prácticas religiosas y actos de penitencia y autosacrificio
+- B. El adiestramiento militar exclusivo
+- C. La enseñanza del comercio
+- D. La preparación para el gobierno
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Quizá la única característica en común que tuvieron ambos colegios fue la de las prácticas religiosas y actos de penitencia y autosacrificio, aunque en el Telpuchcalli la disciplina era menos severa.
+
+### 341
+
+De acuerdo con el libro de Historia de México 1, ¿en qué colegio era menos severa la disciplina?
+
+- A. En el Telpuchcalli
+- B. En el Calmécac
+- C. En la escuela de las mujeres
+- D. En la escuela de canto y danza
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Quizá la única característica en común que tuvieron ambos colegios fue la de las prácticas religiosas y actos de penitencia y autosacrificio, aunque en el Telpuchcalli la disciplina era menos severa.
+
+### 342
+
+De acuerdo con el libro de Historia de México 1, ¿a qué estaban dedicadas exclusivamente algunas escuelas, y con qué fin?
+
+- A. A la enseñanza del canto, la danza y la música, todas con fines rituales
+- B. A la enseñanza de la escritura y el cálculo
+- C. A la enseñanza de la medicina y la herbolaria
+- D. A la enseñanza del comercio y la navegación
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Además, existían escuelas dedicadas exclusivamente a la enseñanza del canto, la danza y la música, todas con fines rituales.
+
+### 343
+
+De acuerdo con el libro de Historia de México 1, ¿qué documento es uno de los más importantes para estudiar la formación de los mexicas?
+
+- A. El Códice Mendocino
+- B. El Códice Borgia
+- C. El Códice Florentino
+- D. La Matrícula de Tributos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+El Códice Mendocino es uno de los documentos más importantes para estudiar la formación de los mexicas, nos ilustra por medio de dibujos como eran instruidos.
+
+### 344
+
+De acuerdo con el libro de Historia de México 1, en lugar del castigo, ¿qué preferían los padres?
+
+- A. La amonestación y el consejo
+- B. El premio y la recompensa
+- C. El trabajo forzado
+- D. El ayuno y la penitencia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Sin embargo, no siempre se tenía que llegar al castigo, pues los padres preferían la amonestación y el consejo.
+
+### 345
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se denominó al conjunto de discursos y enseñanzas recopiladas por los frailes al momento de la conquista?
+
+- A. Huehuetlahtolli o antigua palabra
+- B. Huey Tlatoani o gran señor
+- C. Códice Mendocino
+- D. Tlatocan o consejo antiguo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Al conjunto de discursos y enseñanzas recopiladas por los frailes al momento de la conquista de México-Tenochtitlan, se les denominó Huehuetlahtolli o antigua palabra.
+
+### 346
+
+De acuerdo con el libro de Historia de México 1, ¿de qué tratan los Huehuetlahtolli?
+
+- A. De retórica, filosofía, teología y la moral mexica
+- B. De astronomía, matemáticas y medicina
+- C. De comercio, tributo y agricultura
+- D. De guerra, estrategia y conquista
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
+**Subtema:** cultura mexica
+
+Son consejos orientados hacia el bienestar de los hijos que tratan de retórica, filosofía, teología y la moral mexica.
+
+---
+
+**Reactivos en este archivo:** 346 (**Bloque 2 CERRADO** — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y las trece *Culturas de Mesoamérica*: doce completas (**olmecas**, **teotihuacanos**, **zapotecas**, **Centro de Veracruz**, **Occidente de México**, **Centro norte**, **mayas**, **toltecas**, **huastecos**, **mixtecos**, **totonacos** y **purépechas**, Posclásico, pp. 68–72) más la **cultura mexica** completa en sus seis temas —*migración y fundación*, *religión y dioses*, *organización política*, *organización social*, *arte* y *educación* (pp. 72–73)—. El cuadro-resumen *Horizontes culturales de Mesoamérica* (p. 74) y la *Evaluación sumativa* (pp. 75–84) quedan fuera del banco por decisión de Carlo. **Bloque 2 completo de la EMMG.**)
