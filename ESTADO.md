@@ -18,7 +18,7 @@ _Regenerado el 2026-08-01._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, fisica-perez-montiel, zill-atg) | 5844 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
+| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, fisica-perez-montiel, zill-atg) | 5882 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -80,6 +80,7 @@ _Regenerado el 2026-08-01._
 | algebra-baldor · Álgebra · Capítulo XXIV · Ecuaciones simultáneas de primer grado con dos incógnitas | 31 | ninguno. El capítulo XXIV queda cerrado en su teoría (arts. 289–297 y 302–304, pp. 319–335). El capítulo **XXV** tiene su propio archivo (`algebra-25-ecuaciones-simultaneas-tres-incognitas.md`), que sostiene el pendiente de Álgebra; con el XXV cerrado, la materia Álgebra queda cubierta para los cinco planteles. |
 | algebra-baldor · Álgebra · Capítulo XXV · Ecuaciones simultáneas de primer grado con tres o más incógnitas | 35 | ninguno del capítulo XXV. Con él **el temario de Álgebra de la EMOS (`ALGE-04-2026`) queda cubierto**, y con él toda la materia Álgebra en lo que piden los cinco planteles. Queda pendiente, en el Capítulo XXIV, el relleno de la teoría de determinantes de 2º orden (art. 302), que se trabaja en su propio archivo `algebra-24-ecuaciones-simultaneas.md`. |
 | algebra-baldor · Álgebra · Capítulo XXXII · Números complejos | 43 | ninguno de este capítulo. Con el capítulo XXXII, **Álgebra Baldor queda cerrada para la EMI**. |
+| algebra-baldor · Álgebra · Capítulo XXXIII · Ecuaciones de segundo grado con una incógnita | 38 | ninguno de este capítulo. Para que **Álgebra quede cerrada para la EMMG** faltan todavía los capítulos **XXXVI (Ecuaciones binomias y trinomias)** y **XXXVIII (Logaritmos)**, que aún no tienen archivo; los capítulos VIII, X, XIV, XXIV y XXV que también pide ya están escritos. |
 | calculo-thomas · Cálculo · Capítulo 1 · Funciones | 108 | ninguno de este capítulo. El capítulo 1 · Funciones está cerrado en 108 reactivos. Lo que falta de Cálculo lo declara el archivo del capítulo en curso — hoy `calculo-02-limites-continuidad.md`. |
 | calculo-thomas · Cálculo · Capítulo 2 · Límites y continuidad | 81 | ninguno de este capítulo. El capítulo 2 · Límites y continuidad está cerrado en 81 reactivos. Lo que falta de Cálculo lo declara el archivo del capítulo en curso — hoy `calculo-03-derivadas.md`. |
 | calculo-thomas · Cálculo · Capítulo 3 · Derivadas | 80 | ninguno de este capítulo. Con el capítulo 3, **la materia Cálculo queda CERRADA para la EMI** en los tres capítulos que pide su temario (`CDI-02-2026`): cap 1 (Funciones, 108), cap 2 (Límites y continuidad, 81) y cap 3 (Derivadas, 80). A la EMI le queda aparte **Geometría Analítica (Zill)**, que es otro libro. Este archivo (capítulo 3) es el último del temario de Cálculo: no quedan otros capítulos por empezar, así que sostiene el pendiente de la materia hasta que el propio capítulo 3 se cierre. **Cálculo NO está cerrada para la EMI.** |
@@ -96,7 +97,7 @@ _Regenerado el 2026-08-01._
 | zill-atg · Geometría Analítica · Capítulo 8 · Trigonometría del triángulo rectángulo | 58 | ninguno. El capítulo 8 está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al completarse también los capítulos 4, 9 y 12: en total **219 reactivos** (cap 4: 64, cap 8: 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
 | zill-atg · Geometría Analítica · Capítulo 9 · Trigonometría del círculo unitario | 53 | ninguno. El capítulo 9 está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al completarse también los capítulos 4, 8 y 12: en total **219 reactivos** (cap 4: 64, cap 8: 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
 | zill-atg · Geometría Analítica · Capítulo 12 · Coordenadas polares | 44 | ninguno. Con el capítulo 12, **la materia Geometría Analítica queda CERRADA para la EMI** (`GA-03-2026`): los cuatro capítulos que pide el temario —4 (64), 8 (58), 9 (53) y 12 (44)— están completos, **219 reactivos** en total. El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
-| **Total** | **5844** | |
+| **Total** | **5882** | |
 
 ## Personalidad (remaster)
 
