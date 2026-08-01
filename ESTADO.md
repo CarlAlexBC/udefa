@@ -18,7 +18,7 @@ _Regenerado el 2026-08-01._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, espanol-zarzar, fisica-perez-montiel, zill-atg) | 5942 | abiertas: EMM · Biología, algebra-baldor · Álgebra, espanol-zarzar · Español |
+| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, espanol-zarzar, fisica-perez-montiel, zill-atg) | 5967 | abiertas: EMM · Biología, algebra-baldor · Álgebra, espanol-zarzar · Español |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -85,6 +85,7 @@ _Regenerado el 2026-08-01._
 | calculo-thomas · Cálculo · Capítulo 2 · Límites y continuidad | 81 | ninguno de este capítulo. El capítulo 2 · Límites y continuidad está cerrado en 81 reactivos. Lo que falta de Cálculo lo declara el archivo del capítulo en curso — hoy `calculo-03-derivadas.md`. |
 | calculo-thomas · Cálculo · Capítulo 3 · Derivadas | 80 | ninguno de este capítulo. Con el capítulo 3, **la materia Cálculo queda CERRADA para la EMI** en los tres capítulos que pide su temario (`CDI-02-2026`): cap 1 (Funciones, 108), cap 2 (Límites y continuidad, 81) y cap 3 (Derivadas, 80). A la EMI le queda aparte **Geometría Analítica (Zill)**, que es otro libro. Este archivo (capítulo 3) es el último del temario de Cálculo: no quedan otros capítulos por empezar, así que sostiene el pendiente de la materia hasta que el propio capítulo 3 se cierre. **Cálculo NO está cerrada para la EMI.** |
 | espanol-zarzar · Español · Bloque 1 · Proceso comunicativo | 32 | ninguno. El bloque 1 está cerrado. |
+| espanol-zarzar · Español · Bloque 2 · Proceso de lectura | 25 | ninguno. El Bloque 2 (2.2 Estrategias de comprensión lectora) queda cerrado para la EMMG. |
 | espanol-zarzar · Español · Bloque 3 · Proceso de escritura | 77 | para la **EMMG** faltan las Propiedades de la redacción (coherencia, cohesión y adecuación, pp. 76–79) y los Conectores discursivos (3.5, pp. 80–82), que su temario pide y aún no están escritos. |
 | fisica-perez-montiel · Física · Unidad 1 · Introducción al conocimiento de la Física | 20 | ninguno. La Unidad 1 (temas 4–7, únicos que pide el temario) queda cerrada. Con esta unidad, **la materia Física queda CERRADA para la EMO** (`FIS-03-2026`): están escritas y con clave `**Tema:**` todas sus unidades — U1, U2, U4, U5, U6, U8 y U11. |
 | fisica-perez-montiel · Física · Unidad 2 · Unidades y mediciones | 15 | ninguno. La Unidad 2 (temas 1, 3, 4 y 8, únicos que pide el temario) queda cerrada. **La materia Física está CERRADA para la EMO** (`FIS-03-2026`): verificado tema por tema contra `temarios.json` el 24 jul 2026, todas las unidades que pide —U1, U2, U4, U5, U6, U8 y U11— están escritas y con clave `**Tema:**` para que el importador llame exactamente su selección. |
@@ -99,7 +100,7 @@ _Regenerado el 2026-08-01._
 | zill-atg · Geometría Analítica · Capítulo 8 · Trigonometría del triángulo rectángulo | 58 | ninguno. El capítulo 8 está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al completarse también los capítulos 4, 9 y 12: en total **219 reactivos** (cap 4: 64, cap 8: 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
 | zill-atg · Geometría Analítica · Capítulo 9 · Trigonometría del círculo unitario | 53 | ninguno. El capítulo 9 está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al completarse también los capítulos 4, 8 y 12: en total **219 reactivos** (cap 4: 64, cap 8: 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
 | zill-atg · Geometría Analítica · Capítulo 12 · Coordenadas polares | 44 | ninguno. Con el capítulo 12, **la materia Geometría Analítica queda CERRADA para la EMI** (`GA-03-2026`): los cuatro capítulos que pide el temario —4 (64), 8 (58), 9 (53) y 12 (44)— están completos, **219 reactivos** en total. El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
-| **Total** | **5942** | |
+| **Total** | **5967** | |
 
 ## Personalidad (remaster)
 
