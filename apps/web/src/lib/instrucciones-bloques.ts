@@ -151,6 +151,14 @@ export const MATERIAS_CULTURAL_POR_PLANTEL: Record<string, string[]> = {
   'Escuela Militar de Odontología': ['Biología', 'Química', 'Física', 'Álgebra'],
   'Escuela Militar de Enfermería': ['Biología', 'Química', 'Álgebra'],
   'Escuela Militar de Oficiales de Sanidad': ['Biología', 'Química', 'Física General', 'Álgebra'],
+  // Materias tomadas del reparto real en docs/examen-cultural/temarios.json
+  // (se corrigió el typo "Analitíca" → "Analítica" del archivo fuente).
+  'Escuela Militar de Ingeniería': ['Álgebra', 'Cálculo Diferencial e Integral', 'Geometría Analítica'],
+  'Escuela Militar de Aviación': ['Matemáticas', 'Física', 'Geografía'],
+  'Escuela Militar de Mantenimiento y Abastecimiento': ['Álgebra', 'Física', 'Trigonometría y Geometría Analítica'],
+  'Escuela Militar de Especialistas de Fuerza Aérea': ['Geografía', 'Física', 'Matemáticas'],
+  'Escuela Militar de Materiales de Guerra': ['Matemáticas', 'Español', 'Historia de México', 'Metodología de la Investigación'],
+  // Falta: 'Escuela Militar de Transmisiones' — todavía no tiene temario en ninguna fuente.
 }
 
 /**

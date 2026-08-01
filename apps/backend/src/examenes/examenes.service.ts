@@ -135,6 +135,7 @@ export class ExamenesService {
     'Escuela Militar de Odontología': 'EMO',
     'Escuela Militar de Oficiales de Sanidad': 'EMOS',
     'Escuela Militar de Aviación': 'EMA',
+    'Escuela Militar de Ingeniería': 'EMI',
   };
 
   async armarExamen(examenId: number, usuarioId?: number) {
