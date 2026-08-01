@@ -43,16 +43,17 @@ de texto.
 ## Cobertura actual
 
 Cubiertos **2.1, 2.2 y 2.3** (pp. 30–50, más el cuadro de *áreas culturales de
-Mesoamérica* que desborda a la p. 51) y el **andamiaje del 2.4**: la definición y
-periodización de los horizontes culturales y los tres horizontes —Preclásico o
-Formativo, Clásico y Posclásico— con sus fechas, subdivisiones, características y
-sitios (pp. 51–53).
+Mesoamérica* que desborda a la p. 51), el **andamiaje del 2.4** (definición y
+periodización de los horizontes culturales y los tres horizontes —Preclásico,
+Clásico y Posclásico— con fechas, subdivisiones, características y sitios, pp. 51–53)
+y la primera de las *Culturas de Mesoamérica*: los **olmecas** (Periodo Preclásico,
+pp. 53 y 55).
 
-**Pendiente: el detalle de las *Culturas de Mesoamérica* cultura por cultura**
-(pp. 53–84), desde los olmecas —el resto del Preclásico y las culturas del Clásico y
-el Posclásico (teotihuacana, maya, zapoteca, tolteca, mexica, etc.)—. La p. 54 es una
-actividad (mapa conceptual en blanco) que no lleva reactivos. El Bloque 2 **NO** está
-cerrado hasta cubrir esas culturas.
+**Pendiente: el resto de las *Culturas de Mesoamérica* cultura por cultura**
+(pp. 56–84), desde los **teotihuacanos** (Periodo Clásico, p. 56) en adelante (maya,
+zapoteca, tolteca, mexica, etc.). Las páginas de actividad con fichas o mapas
+conceptuales en blanco (la p. 54 y las que sigan) no llevan reactivos. El Bloque 2
+**NO** está cerrado hasta cubrir esas culturas.
 
 ## Cómo se escriben estos reactivos
 
@@ -983,4 +984,236 @@ Se puede observar la proliferación de elementos ideológicos asociados a la gue
 
 ---
 
-**Reactivos en este archivo:** 59 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3 y el andamiaje del 2.4 (áreas culturales de Mesoamérica y los tres horizontes, pp. 51–53); falta el detalle de las *Culturas de Mesoamérica* cultura por cultura, pp. 53–84, desde los olmecas)
+## Sub-lote 9 · Cultura olmeca (Periodo Preclásico, pp. 53 y 55)
+
+> La p. 54 es una actividad (mapa conceptual en blanco) y no lleva reactivos, por eso
+> los olmecas van en las pp. 53 y 55.
+
+### 60
+
+De acuerdo con el libro de Historia de México 1, ¿de qué palabra proviene el nombre "olmeca" y qué significa?
+
+- A. De *olman*, "habitante de la tierra del hule"
+- B. De *olin*, "el que se mueve como el Sol"
+- C. De *olpan*, "lugar de los comerciantes"
+- D. De *ulli*, "señor de las aguas"
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 53
+**Subtema:** cultura olmeca
+
+Los olmecas (de *olman* "habitante de la tierra del hule") fueron los primeros en desarrollar una sociedad jerarquizada en Mesoamérica.
+
+### 61
+
+De acuerdo con el libro de Historia de México 1, ¿qué lugar ocupan los olmecas en el desarrollo social de Mesoamérica?
+
+- A. Fueron los primeros en desarrollar una sociedad jerarquizada en Mesoamérica
+- B. Fueron los últimos en abandonar el nomadismo
+- C. Fueron los primeros en fundar ciudades en el Altiplano central
+- D. Fueron los primeros en practicar la metalurgia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 53
+**Subtema:** cultura olmeca
+
+Los olmecas (de *olman* "habitante de la tierra del hule") fueron los primeros en desarrollar una sociedad jerarquizada en Mesoamérica.
+
+### 62
+
+De acuerdo con el libro de Historia de México 1, ¿en qué horizonte y lugar ocurrió el periodo de mayor esplendor de los olmecas?
+
+- A. En el Preclásico medio, en el Golfo de México (1200-400 a. C.), al sur de Veracruz y norte de Tabasco
+- B. En el Clásico, en el Altiplano central (200-650 d. C.)
+- C. En el Posclásico, en el área maya (900-1200 d. C.)
+- D. En el Preclásico inferior, en Oaxaca (2500-1200 a. C.)
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 53
+**Subtema:** cultura olmeca
+
+Su periodo de mayor esplendor ocurrió en el Preclásico medio en el Golfo de México (1200-400 a. C.), al sur de Veracruz y norte de Tabasco.
+
+### 63
+
+De acuerdo con el libro de Historia de México 1, ¿cuáles fueron los centros cívico-religiosos más importantes de los olmecas?
+
+- A. La Venta, Laguna de los Cerros, Potrero Nuevo, Las Limas, Tres Zapotes y San Lorenzo
+- B. Teotihuacán, Xochicalco, Cacaxtla y Cholula
+- C. Monte Albán, Mitla, Cuilapan y Zaachila
+- D. Tula, Chichén-Itzá, Uxmal y Mayapán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 53
+**Subtema:** cultura olmeca
+
+Sus centros cívico-religiosos más importantes fueron La Venta, Laguna de los Cerros, Potrero Nuevo, Las Limas, Tres Zapotes y San Lorenzo.
+
+### 64
+
+De acuerdo con el libro de Historia de México 1, ¿de dónde se ha propuesto que procedían los antepasados de los olmecas?
+
+- A. De Sudamérica, penetrando por la costa del Pacífico, entre Guatemala y Chiapas
+- B. De Norteamérica, cruzando el estrecho de Bering
+- C. Del Altiplano central, descendiendo de Teotihuacán
+- D. De Aridoamérica, siguiendo las rutas chichimecas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 55
+**Subtema:** cultura olmeca
+
+Se ha propuesto que sus antepasados procedían de Sudamérica, es posible que hayan penetrado en Mesoamérica por la costa del Pacífico, entre Guatemala y Chiapas en varias etapas de migración.
+
+### 65
+
+De acuerdo con el libro de Historia de México 1, ¿qué forma de gobierno tuvieron los olmecas?
+
+- A. Teocrática
+- B. Monárquica hereditaria
+- C. Militarista
+- D. Democrática
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 55
+**Subtema:** cultura olmeca
+
+Su forma de gobierno fue teocrática, por lo cual no queda duda de que la religión fuera muy importante.
+
+### 66
+
+De acuerdo con el libro de Historia de México 1, ¿en qué expresiones artísticas se manifestó la importancia de la religión olmeca?
+
+- A. En estelas conmemorativas, altares, cabezas colosales y esculturas de seres míticos
+- B. En códices, murales y cerámica polícroma
+- C. En pirámides de talud-tablero y juegos de pelota
+- D. En orfebrería de oro, plata y cobre
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 55
+**Subtema:** cultura olmeca
+
+Al menos así lo demuestran las expresiones artísticas en estelas conmemorativas, altares, cabezas colosales y las esculturas de seres míticos que presentan símbolos asociados a sus creencias religiosas.
+
+### 67
+
+De acuerdo con el libro de Historia de México 1, ¿de qué se encargaban los sacerdotes olmecas?
+
+- A. De dirigir los centros ceremoniales, recaudar los tributos y presidir los rituales para propiciar las lluvias
+- B. De comandar los ejércitos y organizar las guerras rituales
+- C. De administrar el comercio de larga distancia
+- D. De tallar las cabezas colosales de basalto
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 55
+**Subtema:** cultura olmeca
+
+Los sacerdotes se encargaban de dirigir los centros ceremoniales, recaudar los tributos y presidir los rituales para propiciar las lluvias.
+
+### 68
+
+De acuerdo con el libro de Historia de México 1, ¿quiénes se encontraban en la cúspide de la organización social olmeca?
+
+- A. Los sacerdotes y guerreros
+- B. Los comerciantes y arquitectos
+- C. Los lapidarios y alfareros
+- D. Los cazadores y agricultores
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 55
+**Subtema:** cultura olmeca
+
+En la cúspide de su organización social se encontraban los sacerdotes y guerreros, luego seguían los comerciantes, arquitectos, lapidarios, alfareros, escultores, cazadores y agricultores.
+
+### 69
+
+De acuerdo con el libro de Historia de México 1, ¿sobre qué rocas produjeron los olmecas sus esculturas con singular maestría?
+
+- A. El basalto, la andesita y el pedernal
+- B. El jade, el ónix y la turquesa
+- C. El mármol, el granito y la caliza
+- D. La obsidiana, el alabastro y el cuarzo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 55
+**Subtema:** cultura olmeca
+
+Los olmecas produjeron con singular maestría esculturas sobre rocas como el basalto, la andesita y el pedernal.
+
+### 70
+
+De acuerdo con el libro de Historia de México 1, ¿qué materiales trabajaron los olmecas al destacar en la lapidaria?
+
+- A. El jade, el ónix, la turquesa, el alabastro y la obsidiana
+- B. El basalto, la andesita y el pedernal
+- C. El oro, la plata y el cobre
+- D. El barro, la arcilla y el estuco
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 55
+**Subtema:** cultura olmeca
+
+Destacaron en la lapidaria trabajando el jade, el ónix, la turquesa, el alabastro y la obsidiana, materiales que usaron para producir máscaras, brazaletes, vasijas y figurillas que destinaban a los diversos rituales.
+
+### 71
+
+De acuerdo con el libro de Historia de México 1, ¿qué representaba el jaguar, animal sagrado de la religión olmeca?
+
+- A. A la Tierra y el inframundo
+- B. Al Sol y el cielo
+- C. A la guerra y el sacrificio
+- D. Al agua y la fertilidad
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 55
+**Subtema:** cultura olmeca
+
+En la que el *jaguar* era su animal sagrado, ya que representaba a la Tierra y el inframundo.
+
+### 72
+
+De acuerdo con el libro de Historia de México 1, ¿qué sitios son ejemplo de la expansión política y cultural de los olmecas?
+
+- A. Chalcatzingo, en Morelos, y Teopantecuanitlán, en Guerrero
+- B. La Venta, en Tabasco, y San Lorenzo, en Veracruz
+- C. Teotihuacán, en el Estado de México, y Cholula, en Puebla
+- D. Monte Albán, en Oaxaca, y Palenque, en Chiapas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 55
+**Subtema:** cultura olmeca
+
+Chalcatzingo en Morelos y Teopantecuanitlán en el estado de Guerrero, son un ejemplo de la expansión política y cultural de este pueblo.
+
+### 73
+
+De acuerdo con el libro de Historia de México 1, ¿en qué año se registró la decadencia de los olmecas?
+
+- A. En el 400 a. C.
+- B. En el 1200 a. C.
+- C. En el 900 d. C.
+- D. En el 1521 d. C.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 55
+**Subtema:** cultura olmeca
+
+Su decadencia se registró en el 400 a. C.
+
+### 74
+
+De acuerdo con el libro de Historia de México 1, ¿a qué se debió la desaparición de los núcleos políticos olmecas?
+
+- A. A presiones políticas internas y externas
+- B. A la conquista española
+- C. A la llegada de los chichimecas
+- D. A la falta de rutas comerciales
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 55
+**Subtema:** cultura olmeca
+
+La desaparición de sus núcleos políticos se debió a presiones políticas internas y externas. También se ha propuesto que una catástrofe ecológica pudo afectar los lazos de cohesión de la sociedad olmeca.
+
+---
+
+**Reactivos en este archivo:** 74 (Bloque 2 EN CURSO — cubiertos 2.1, 2.2, 2.3, el andamiaje del 2.4 (pp. 51–53) y la primera cultura, los **olmecas** (Periodo Preclásico, pp. 53 y 55); falta el resto de las *Culturas de Mesoamérica*: los **teotihuacanos** (Periodo Clásico, desde la p. 56) en adelante, hasta la p. 84)
