@@ -138,8 +138,16 @@ El contenido narrativo aprovechable corre aproximadamente de la **p. 153 a la p.
   Liñán, el Fuerte del Sombrero y el de los Remedios; captura en el Rancho del Venadito y
   fusilamiento en el cerro del Bellaco (11 nov 1817); los grupos del sur que siguieron.
 
-**Pendiente de 5.2:** la **cuarta etapa, Consumación** (Iturbide, el Plan de Iguala, los
-Tratados de Córdoba, el Ejército Trigarante), desde la p. 183, aprox. hasta la p. 193.
+- **Sub-lote 19 · Resistencia: composición social en el sur, p. 183:** la **tercera** sección
+  "composición social" del bloque (grupos del sur de indios, esclavos y castas bajo Guerrero y
+  Ascencio; líderes mestizos y mulatos; emboscadas y táctica de guerrillas; los realistas
+  controlaban prácticamente todo el territorio y alternaban indulto y pena máxima; las clases
+  acomodadas y el reclutamiento).
+
+**Pendiente de 5.2:** la **cuarta etapa, Consumación** (pp. 185–190): la Constitución de Cádiz,
+la conjura de La Profesa, Iturbide y el Plan de Iguala, el Ejército Trigarante, los Tratados de
+Córdoba y el Acta de Independencia. (Pendiente aparte de **decisión de Carlo**: los tres
+recuadros "Comprensión lectora" de las pp. 183, 186 y 188.)
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -3756,5 +3764,118 @@ En relación con el libro de Historia de México 1, con la muerte de Mina y More
 Con la muerte de Mina y Moreno, el movimiento vino a menos; sólo continuaron operando los grupos que encabezaban Vicente Guerrero, Guadalupe Victoria y Pedro Ascencio en el sur.
 
 > Los distractores B y D nombran insurgentes que se habían acogido al indulto de Apodaca (reactivo 214): contraste directo entre quienes se rindieron y quienes siguieron.
+
+---
+
+## Sub-lote 19 · 5.2 Resistencia: la composición social de insurgentes y realistas en el sur (p. 183)
+
+> **Ojo:** ésta es la **tercera** sección con el título "La composición social de insurgentes
+> y realistas" (las otras dos: pp. 168–169, sub-lote 9; y pp. 177–178, sub-lote 15). Ésta
+> describe la composición ya en la **etapa de resistencia** y es contenido distinto.
+
+### 231
+
+De acuerdo con el libro de Historia de México 1, los grupos que se mantenían en combate en el sur del Virreinato, ¿por quiénes estaban conformados?
+
+- A. Por indios, esclavos y castas
+- B. Por criollos de la élite y peninsulares
+- C. Por soldados profesionales llegados de España
+- D. Por comerciantes y hacendados del Bajío
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 183
+**Subtema:** 5.2 composición social (resistencia)
+
+Los grupos que se mantenían en combate en el sur del Virreinato estaban conformados por indios, esclavos y castas.
+
+### 232
+
+De conformidad con el libro de Historia de México 1, ¿bajo las órdenes de quiénes estaban los grupos insurgentes del sur?
+
+- A. De Vicente Guerrero y Pedro Ascencio
+- B. De Ignacio López Rayón y Nicolás Bravo
+- C. De Xavier Mina y Pedro Moreno
+- D. De Guadalupe Victoria y Manuel Mier y Terán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 183
+**Subtema:** 5.2 composición social (resistencia)
+
+Estaban bajo las órdenes de Vicente Guerrero y Pedro Ascencio.
+
+### 233
+
+En relación con el libro de Historia de México 1, ¿qué eran los líderes insurgentes que se habían refugiado en las partes más inaccesibles de las montañas?
+
+- A. Mestizos y mulatos
+- B. Criollos y peninsulares
+- C. Indios y esclavos
+- D. Sacerdotes e intelectuales
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 183
+**Subtema:** 5.2 composición social (resistencia)
+
+Los líderes eran mestizos y mulatos, que se habían refugiado en las partes más inaccesibles de las montañas y organizaban emboscadas al ejército realista por medio de la táctica de guerrillas.
+
+### 234
+
+De acuerdo con el libro de Historia de México 1, ¿cómo organizaban los líderes insurgentes sus ataques al ejército realista?
+
+- A. Organizaban emboscadas por medio de la táctica de guerrillas
+- B. Presentaban batallas campales a campo abierto
+- C. Sitiaban las ciudades fortificadas
+- D. Atacaban por mar los puertos realistas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 183
+**Subtema:** 5.2 composición social (resistencia)
+
+Organizaban emboscadas al ejército realista por medio de la táctica de guerrillas.
+
+### 235
+
+De conformidad con el libro de Historia de México 1, en esta etapa, ¿qué controlaban prácticamente los realistas?
+
+- A. Prácticamente todo el territorio novohispano
+- B. Sólo la ciudad de México y Veracruz
+- C. Únicamente el norte del Virreinato
+- D. Sólo los puertos del Pacífico
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 183
+**Subtema:** 5.2 composición social (resistencia)
+
+Los realistas en cambio, prácticamente controlaban todo el territorio novohispano; habían acabado con la mayor parte de los grupos rebeldes de importancia.
+
+### 236
+
+En relación con el libro de Historia de México 1, ¿cuál era el esquema que mantenían los realistas frente a los insurgentes?
+
+- A. Aprovechar el indulto a los que se rindieran y aplicar la pena máxima a quienes no lo hicieran
+- B. Ofrecer tierras y títulos a todos los rebeldes
+- C. Negociar una amnistía general con los jefes insurgentes
+- D. Retirarse a las ciudades y esperar el fin del movimiento
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 183
+**Subtema:** 5.2 composición social (resistencia)
+
+Mantenían sus esquemas de aprovechar el indulto a los que se rindieran y aplicar la pena máxima a quienes no lo hicieran.
+
+### 237
+
+De acuerdo con el libro de Historia de México 1, ¿qué veían con agrado las clases acomodadas de la colonia?
+
+- A. Que continuara el reclutamiento y se respetaran las jerarquías militares
+- B. Que se aplicara la Constitución de Cádiz
+- C. Que los insurgentes lograran la Independencia
+- D. Que se aboliera el sistema de castas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 183
+**Subtema:** 5.2 composición social (resistencia)
+
+Las clases acomodadas de la colonia veían con agrado que continuara el reclutamiento y se respetaran las jerarquías militares; además se mantenía el cuerpo militar llegado de España.
 
 ---
