@@ -78,9 +78,17 @@ aditiva/multiplicativa, inverso aditivo/negativo, inverso multiplicativo/recípr
 indefinido), que la sustracción no es asociativa, y las **propiedades adicionales 8–10** (multiplicación
 por cero, cancelación, sustracción y negativos).
 
-**Pendiente:** el cierre de **§2.1** (pp. 54–55: propiedades adicionales 11–16 de las fracciones;
-las pp. 56–57 son *Ejercicios* y quedan fuera) y las secciones **§2.2 a §2.8**. Con ellas, el
-capítulo 2 quedará cerrado para la EMMA.
+**Sub-lote 3 (pp. 54–55, reactivos 57–65):** cierra **§2.1** con las **propiedades adicionales
+11–16** de las fracciones (fracciones equivalentes, regla de los signos, adición/sustracción con
+denominadores comunes, multiplicación, división) y la división de cero y por cero (0/*b* = 0;
+*a*/0 y 0/0 indefinidas), más la nota del aula sobre la cancelación incorrecta. Las pp. 56–57 son
+*Ejercicios* y quedan fuera.
+
+**§2.1 El sistema de los números reales · CERRADO** (pp. 48–55, reactivos 1–65 junto con la
+portadilla histórica de la p. 47).
+
+**Pendiente:** las secciones **§2.2 a §2.8** (pp. 58–106). Con ellas, el capítulo 2 quedará
+cerrado para la EMMA.
 
 ## Criterio: teoría sobre práctica
 
@@ -940,3 +948,142 @@ En relación con el libro de Geometría Analítica, según las propiedades de la
 **Subtema:** El sistema de los números reales · propiedades adicionales
 
 10. Propiedades de la sustracción y negativos: iv) (−*a*)(−*b*) = *ab*.
+
+---
+
+## Sub-lote 3 · §2.1 El sistema de los números reales: propiedades de las fracciones (pp. 54–55) — cierra §2.1
+
+### 57
+
+De acuerdo con el libro de Geometría Analítica, según la propiedad de fracciones equivalentes, ¿cuándo se cumple que *a*/*b* = *c*/*d*?
+
+- A. Si y sólo si *ad* = *bc*
+- B. Si y sólo si *ac* = *bd*
+- C. Si y sólo si *a* = *c* y *b* = *d*
+- D. Si y sólo si *ab* = *cd*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 54
+**Subtema:** El sistema de los números reales · propiedades de las fracciones
+
+11. Fracciones equivalentes: *a*/*b* = *c*/*d* si y sólo si *ad* = *bc*.
+
+### 58
+
+De conformidad con el libro de Geometría Analítica, ¿qué establece la regla de los signos para las fracciones?
+
+- A. −(*a*/*b*) = (−*a*)/*b* = *a*/(−*b*)
+- B. −(*a*/*b*) = (−*a*)/(−*b*)
+- C. −(*a*/*b*) = *a*/*b*
+- D. −(*a*/*b*) = *b*/*a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 54
+**Subtema:** El sistema de los números reales · propiedades de las fracciones
+
+12. Regla de los signos: −(*a*/*b*) = (−*a*)/*b* = *a*/(−*b*).
+
+### 59
+
+En relación con el libro de Geometría Analítica, según la propiedad de adición o sustracción con denominadores comunes, ¿a qué es igual *a*/*b* ± *c*/*b*?
+
+- A. (*a* ± *c*)/*b*
+- B. (*a* ± *c*)/(2*b*)
+- C. (*a* ± *c*)/(*b* · *b*)
+- D. *a* ± *c*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 54
+**Subtema:** El sistema de los números reales · propiedades de las fracciones
+
+13. Adición o sustracción con denominadores comunes: *a*/*b* ± *c*/*b* = (*a* ± *c*)/*b*.
+
+### 60
+
+De acuerdo con el libro de Geometría Analítica, según la propiedad de multiplicación de fracciones, ¿a qué es igual (*a*/*b*) · (*c*/*d*)?
+
+- A. *ac*/*bd*
+- B. *ad*/*bc*
+- C. (*a* + *c*)/(*b* + *d*)
+- D. *ab*/*cd*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 54
+**Subtema:** El sistema de los números reales · propiedades de las fracciones
+
+14. Multiplicación: (*a*/*b*) · (*c*/*d*) = *ac*/*bd*.
+
+### 61
+
+De conformidad con el libro de Geometría Analítica, según la propiedad de división de fracciones, ¿a qué es igual (*a*/*b*) ÷ (*c*/*d*)?
+
+- A. *ad*/*bc*
+- B. *ac*/*bd*
+- C. *bc*/*ad*
+- D. (*a* + *d*)/(*b* + *c*)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 54
+**Subtema:** El sistema de los números reales · propiedades de las fracciones
+
+15. División: (*a*/*b*) ÷ (*c*/*d*) = (*a*/*b*)/(*c*/*d*) = (*a*/*b*) · (*d*/*c*) = *ad*/*bc*, *c* ≠ 0.
+
+### 62
+
+En relación con el libro de Geometría Analítica, según la propiedad de división de cero, ¿a qué es igual 0 ÷ *b* (con *b* ≠ 0)?
+
+- A. 0
+- B. Es indefinida
+- C. 1
+- D. *b*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 55
+**Subtema:** El sistema de los números reales · división de cero y por cero
+
+16. División de cero y división por cero: i) 0 ÷ *b* = 0/*b* = 0, *b* ≠ 0.
+
+### 63
+
+De acuerdo con el libro de Geometría Analítica, según la propiedad de división por cero, ¿qué ocurre con *a* ÷ 0 (con *a* ≠ 0)?
+
+- A. Es indefinida
+- B. Es igual a 0
+- C. Es igual a 1
+- D. Es igual a *a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 55
+**Subtema:** El sistema de los números reales · división de cero y por cero
+
+16. División de cero y división por cero: ii) *a* ÷ 0 = *a*/0 es indefinida, *a* ≠ 0.
+
+### 64
+
+De conformidad con el libro de Geometría Analítica, según la propiedad 16, ¿qué ocurre con 0 ÷ 0?
+
+- A. Es indefinida
+- B. Es igual a 0
+- C. Es igual a 1
+- D. Es igual a cualquier número real
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 55
+**Subtema:** El sistema de los números reales · división de cero y por cero
+
+16. División de cero y división por cero: iii) 0 ÷ 0 = 0/0 es indefinida.
+
+### 65
+
+En relación con el libro de Geometría Analítica, en la simplificación de 2(*u* + *v*)/2*v* = (*u* + *v*)/*v*, ¿por qué no se puede cancelar la *v*?
+
+- A. Porque *v* no es factor multiplicativo tanto del numerador como del denominador, como lo requiere la ley de cancelación
+- B. Porque *v* es igual a cero
+- C. Porque el numerador y el denominador no son enteros
+- D. Porque la fracción ya está simplificada
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 55
+**Subtema:** El sistema de los números reales · notas del aula
+
+No se puede realizar ninguna cancelación en la simplificación de 2(*u* + *v*)/2*v* = (*u* + *v*)/*v*, pues *v* no es factor multiplicativo tanto del numerador como del denominador, como lo requiere la ley de cancelación 9ii).
