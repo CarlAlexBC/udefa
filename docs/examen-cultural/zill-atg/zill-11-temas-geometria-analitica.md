@@ -96,10 +96,11 @@ definición de rotación y las **ecuaciones de rotación** (4) y (5), el **Teore
 cerrada simple**, la **eliminación del parámetro** (obtener la ecuación rectangular; sin método
 bien definido), las parametrizaciones múltiples de una curva y el **cicloide**.
 
-**CAPÍTULO 11 · COMPLETO para la EMMA** (§11.1 a §11.5, reactivos 1–75). Con este capítulo y los
-capítulos 8 (`zill-08`, 58 react.), 9 (`zill-09`, 53 react.) y 10 (`zill-10`, 69 react.), **la
-materia *Trigonometría y Geometría Analítica* (`TGA-02-2026`) de la EMMA queda CERRADA al nivel
-de reactivos**: los cuatro capítulos que pide su temario (8, 9, 10 y 11), todos "Completo".
+**CAPÍTULO 11 · COMPLETO para la EMMA** (§11.1 a §11.5, reactivos 1–75). **Pendiente:** ninguno.
+El capítulo 11 está CERRADO. Con este capítulo y los capítulos 8 (`zill-08`, 58 react.), 9
+(`zill-09`, 53 react.) y 10 (`zill-10`, 69 react.), **la materia *Trigonometría y Geometría
+Analítica* (`TGA-02-2026`) de la EMMA queda CERRADA al nivel de reactivos**: los cuatro capítulos
+que pide su temario (8, 9, 10 y 11), todos "Completo".
 
 ## Avisos al aspirante (erratas del libro)
 

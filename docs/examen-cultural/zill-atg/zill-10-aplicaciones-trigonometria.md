@@ -115,12 +115,12 @@ exactamente n raíces distintas, el **Teorema 10.7.2** (`w_k = r^(1/n)[cos((θ+2
 i sen((θ+2kπ)/n)]`, k=0..n−1) y la distribución de las raíces (espaciadas por igual en el
 círculo de radio |z|^(1/n)). Los ejemplos numéricos no llevan reactivos.
 
-**CAPÍTULO 10 · COMPLETO para la EMMA** (§10.1 a §10.7, reactivos 1–69). Con los capítulos 8
-(`zill-08-trigonometria-triangulo-rectangulo.md`, 58 react.) y 9
-(`zill-09-trigonometria-circulo-unitario.md`, 53 react.), ya cerrados para la EMI con el mismo
-alcance "Completo" que pide la EMMA, y el capítulo 11 (`zill-11-temas-geometria-analitica.md`),
-la materia *Trigonometría y Geometría Analítica* (`TGA-02-2026`) de la EMMA queda cubierta al
-nivel de reactivos en cuanto el capítulo 11 se cierre.
+**CAPÍTULO 10 · COMPLETO para la EMMA** (§10.1 a §10.7, reactivos 1–69). **Pendiente:** ninguno.
+El capítulo 10 está CERRADO. Con los capítulos 8 (`zill-08-trigonometria-triangulo-rectangulo.md`,
+58 react.) y 9 (`zill-09-trigonometria-circulo-unitario.md`, 53 react.), ya cerrados para la EMI
+con el mismo alcance "Completo" que pide la EMMA, y el capítulo 11
+(`zill-11-temas-geometria-analitica.md`, 75 react., ya cerrado), la materia *Trigonometría y
+Geometría Analítica* (`TGA-02-2026`) de la EMMA queda CERRADA al nivel de reactivos.
 
 ## Avisos al aspirante (erratas del libro)
 

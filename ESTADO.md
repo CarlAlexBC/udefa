@@ -18,7 +18,7 @@ _Regenerado el 2026-08-02._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, espanol-zarzar, fisica-perez-montiel, historia-mexico-menchaca, metodologia-baena, zill-atg) | 7146 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
+| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, espanol-zarzar, fisica-perez-montiel, historia-mexico-menchaca, metodologia-baena, zill-atg) | 7290 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -106,8 +106,10 @@ _Regenerado el 2026-08-02._
 | zill-atg · Geometría Analítica · Capítulo 4 · Sistema de coordenadas rectangulares y gráficas | 64 | ninguno. El capítulo 4 está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al completarse también los capítulos 8, 9 y 12: en total **219 reactivos** (cap 4: 64, cap 8: 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
 | zill-atg · Geometría Analítica · Capítulo 8 · Trigonometría del triángulo rectángulo | 58 | ninguno. El capítulo 8 está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al completarse también los capítulos 4, 9 y 12: en total **219 reactivos** (cap 4: 64, cap 8: 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
 | zill-atg · Geometría Analítica · Capítulo 9 · Trigonometría del círculo unitario | 53 | ninguno. El capítulo 9 está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al completarse también los capítulos 4, 8 y 12: en total **219 reactivos** (cap 4: 64, cap 8: 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
+| zill-atg · Geometría Analítica · Capítulo 10 · Aplicaciones de trigonometría | 69 | ninguno. El capítulo 10 está CERRADO. Con los capítulos 8 (`zill-08-trigonometria-triangulo-rectangulo.md`, 58 react.) y 9 (`zill-09-trigonometria-circulo-unitario.md`, 53 react.), ya cerrados para la EMI con el mismo alcance "Completo" que pide la EMMA, y el capítulo 11 (`zill-11-temas-geometria-analitica.md`, 75 react., ya cerrado), la materia *Trigonometría y Geometría Analítica* (`TGA-02-2026`) de la EMMA queda CERRADA al nivel de reactivos. |
+| zill-atg · Geometría Analítica · Capítulo 11 · Temas de geometría analítica | 75 | ninguno. El capítulo 11 está CERRADO. Con este capítulo y los capítulos 8 (`zill-08`, 58 react.), 9 (`zill-09`, 53 react.) y 10 (`zill-10`, 69 react.), **la materia *Trigonometría y Geometría Analítica* (`TGA-02-2026`) de la EMMA queda CERRADA al nivel de reactivos**: los cuatro capítulos que pide su temario (8, 9, 10 y 11), todos "Completo". |
 | zill-atg · Geometría Analítica · Capítulo 12 · Coordenadas polares | 44 | ninguno. Con el capítulo 12, **la materia Geometría Analítica queda CERRADA para la EMI** (`GA-03-2026`): los cuatro capítulos que pide el temario —4 (64), 8 (58), 9 (53) y 12 (44)— están completos, **219 reactivos** en total. El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
-| **Total** | **7146** | |
+| **Total** | **7290** | |
 
 > 4 archivo(s) no declaran pendiente en su encabezado, así que este resumen **no puede afirmar que estén cerrados**. Para que aparezcan como
 > terminados, agrégales una línea `**Pendiente:**` que lo diga.
