@@ -62,19 +62,23 @@ Del Bloque 3, la EMMG (`HISMÉX-03-2026`) pide **sólo dos subtemas**:
   1514; el Patronato en España, Islas Canarias 1418, Granada 1492, *Provisionis Nostrae* y *Dum
   ad Illam* 1486).
 
-**3.3 EN CURSO** (pp. 94–102, sub-lotes 4–6 hasta ahora, reactivos 37–88):
+**3.3 CERRADO** (pp. 94–102, sub-lotes 4–7, reactivos 37–138):
 - **Sub-lote 4 (pp. 94–95):** la caída de México-Tenochtitlan (alianzas Cempoala/tlaxcaltecas,
   Matanza de Cholula, Moctezuma, Noche Triste, Cuauhtémoc, sitio de 75 días).
 - **Sub-lote 5 (p. 98):** la expansión y la encomienda (Coyoacán, Michoacán, Guerra Chichimeca,
   Ayuntamiento de México, encomendero, servicio personal).
 - **Sub-lote 6 (pp. 99–100):** la conquista espiritual (plataforma religiosa de España, Patronato
   Real, Supremo Consejo de Indias 1524, método misional, Dussel, tipos de misión).
+- **Sub-lote 7 (pp. 101–102):** las órdenes religiosas en la Nueva España (las cuatro órdenes
+  principales —franciscanos, dominicos, agustinos, jesuitas— con sus fundadores, fechas de
+  llegada, provincias y número de conventos/frailes, y las "Otras órdenes religiosas": dieguinos,
+  mercedarios, carmelitas, hospitalarias/hipólitos y San Juan de Dios, San Felipe Neri, La
+  Profesa, benedictinos y las órdenes femeninas).
 
-**Pendiente:** el **sub-lote 7 · Las órdenes religiosas** (pp. 101–102): las cuatro órdenes
-principales (franciscanos, dominicos, agustinos, jesuitas) y las "Otras órdenes religiosas"
-(dieguinos, mercedarios, carmelitas, hospitalarias, San Felipe Neri). Con ese sub-lote, el 3.3 y
-el Bloque 3 quedan cerrados. **"Las fuentes de la Conquista" y "La controversia del indio"
-(pp. 102–104) NO entran** (decisión de Carlo).
+**Pendiente:** ninguno. **El 3.3 y con él el Bloque 3 quedan CERRADOS.** **"Las fuentes de la
+Conquista" y "La controversia del indio" (pp. 102–104) NO entran** (decisión de Carlo). Con el
+Bloque 3 cerrado, y estando ya cerrados los Bloques 2 y 5, **Historia de México (Menchaca) queda
+COMPLETA para la EMMG** en los tres bloques que pide su temario (`HISMÉX-03-2026`): 2, 3 y 5.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -1425,4 +1429,756 @@ De acuerdo con el libro de Historia de México 1, según los tipos de misión, �
 Tipos de misión que se practicaron: a) Misionales pacíficos, como el empleado por Bartolomé de las Casas, sin intervención militar.
 
 ---
+
+## Sub-lote 7 · 3.3 La Conquista espiritual: las órdenes religiosas en la Nueva España (pp. 101–102)
+
+### 89
+
+De acuerdo con el libro de Historia de México 1, en la obra de evangelización de los indios, ¿cuántas son las órdenes que destacaron por su labor misionera en el siglo XVI?
+
+- A. Cuatro
+- B. Tres
+- C. Cinco
+- D. Seis
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Cuatro son las órdenes que destacaron por su labor misionera en el siglo XVI (aunque después se integrarían otras, a finales del mismo y en los siguientes siglos, también con un trabajo importante).
+
+### 90
+
+De conformidad con el libro de Historia de México 1, ¿quién fundó la orden mendicante de los franciscanos?
+
+- A. San Francisco de Asís (1182-1226), en Italia
+- B. Santo Domingo de Guzmán
+- C. San Agustín de Hipona
+- D. San Ignacio de Loyola
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Franciscanos. Esta orden mendicante, fundada por San Francisco de Asís (1182-1226), en Italia, fue la primera en llegar a la Nueva España.
+
+### 91
+
+En relación con el libro de Historia de México 1, ¿cuál fue la primera orden religiosa en llegar a la Nueva España?
+
+- A. La orden de los franciscanos
+- B. La orden de los dominicos
+- C. La orden de los agustinos
+- D. La orden de los jesuitas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Franciscanos. Esta orden mendicante, fundada por San Francisco de Asís (1182-1226), en Italia, fue la primera en llegar a la Nueva España.
+
+### 92
+
+De acuerdo con el libro de Historia de México 1, en septiembre de 1523 arribaron tres franciscanos, ¿de dónde provenientes?
+
+- A. De Gante, Bélgica
+- B. De Sevilla, España
+- C. De Roma, Italia
+- D. De Lisboa, Portugal
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+En septiembre de 1523 arribaron tres franciscanos provenientes de Gante, Bélgica: Juan Deckkeres (Tecto), Juan de Auwera (Aora) Pedro van de Moere (Gante).
+
+### 93
+
+De conformidad con el libro de Historia de México 1, ¿quiénes fueron los tres franciscanos que arribaron en septiembre de 1523?
+
+- A. Juan Deckkeres (Tecto), Juan de Auwera (Aora) y Pedro van de Moere (Gante)
+- B. Martín de Valencia, Toribio de Benavente y Pedro de Gante
+- C. Bartolomé de Olmedo, Bartolomé de las Casas y Andrés Pérez de Rivas
+- D. Santo Domingo de Guzmán, San Agustín de Hipona y San Ignacio de Loyola
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+En septiembre de 1523 arribaron tres franciscanos provenientes de Gante, Bélgica: Juan Deckkeres (Tecto), Juan de Auwera (Aora) Pedro van de Moere (Gante).
+
+### 94
+
+En relación con el libro de Historia de México 1, de los tres franciscanos que arribaron en 1523, ¿quién fue el único que pudo realizar su labor evangelizadora?
+
+- A. Pedro de Gante, pariente cercano del emperador
+- B. Juan Deckkeres (Tecto)
+- C. Juan de Auwera (Aora)
+- D. Martín de Valencia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Los dos primeros murieron pronto, y sólo Pedro de Gante, pariente cercano del emperador, pudo realizar su labor evangelizadora, reconocida por los mismos indígenas hasta 1572.
+
+### 95
+
+De acuerdo con el libro de Historia de México 1, el grupo de 12 frailes que llegó en 1524, a quienes se considera fundadores de la Iglesia mexicana, ¿cómo se les denominó?
+
+- A. Los Doce Apóstoles
+- B. Los Doce Predicadores
+- C. Los Doce Evangelistas
+- D. Los Doce Mendicantes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Fue un grupo de 12 frailes, denominados los Doce Apóstoles, que llegó en 1524, a quienes se les considera fundadores de la Iglesia mexicana.
+
+### 96
+
+De conformidad con el libro de Historia de México 1, ¿qué frailes venían entre los Doce Apóstoles?
+
+- A. Los frailes Martín de Valencia y Toribio de Benavente
+- B. Bartolomé de Olmedo y Bartolomé de las Casas
+- C. Santo Domingo de Guzmán y San Agustín de Hipona
+- D. San Ignacio de Loyola y San Benito de Nursia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Entre ellos venían los frailes Martín de Valencia y Toribio de Benavente, llamado Motolinía.
+
+### 97
+
+En relación con el libro de Historia de México 1, ¿cómo se le llamaba a fray Toribio de Benavente?
+
+- A. Motolinía
+- B. Tecto
+- C. Aora
+- D. Gante
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Entre ellos venían los frailes Martín de Valencia y Toribio de Benavente, llamado Motolinía.
+
+### 98
+
+De acuerdo con el libro de Historia de México 1, los frailes franciscanos hicieron una gran defensa de los indios, ¿ante qué actitud?
+
+- A. Ante la actitud y práctica explotadora de los encomenderos
+- B. Ante la actitud de los cronistas de Indias
+- C. Ante la actitud del clero secular
+- D. Ante la actitud de los misioneros dominicos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Estos frailes hicieron una gran defensa de los indios ante la actitud y práctica explotadora de los encomenderos, a quienes denunciaban con energía ante las autoridades.
+
+### 99
+
+De conformidad con el libro de Historia de México 1, los franciscanos se organizaron en provincias; ¿con cuántos conventos contaban México, Michoacán y Yucatán?
+
+- A. México con 60 conventos, Michoacán con 49 y Yucatán con 21
+- B. México con 49 conventos, Michoacán con 60 y Yucatán con 40
+- C. México con 40 conventos, Michoacán con 46 y Yucatán con 19
+- D. México con 21 conventos, Michoacán con 46 y Yucatán con 60
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Los franciscanos se organizaron en provincias: México, con 60 conventos; Michoacán con 49 conventos, y Yucatán con 21 conventos.
+
+### 100
+
+En relación con el libro de Historia de México 1, ¿cuántos frailes franciscanos había hacia la mitad del siglo XVI?
+
+- A. 380 frailes
+- B. 700 frailes
+- C. 300 frailes
+- D. 210 frailes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Hacia la mitad del siglo XVI eran 380 frailes, y hacia el final del mismo siglo: 700.
+
+### 101
+
+De acuerdo con el libro de Historia de México 1, ¿cuántos frailes franciscanos había hacia el final del siglo XVI?
+
+- A. 700 frailes
+- B. 380 frailes
+- C. 300 frailes
+- D. 212 frailes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Hacia la mitad del siglo XVI eran 380 frailes, y hacia el final del mismo siglo: 700.
+
+### 102
+
+De conformidad con el libro de Historia de México 1, a inicios del siglo XVII, ¿qué provincias franciscanas crearon?
+
+- A. Las provincias franciscanas de Zacatecas y de Jalisco
+- B. Las provincias de México y de Michoacán
+- C. Las provincias de Chiapas y de Oaxaca
+- D. Las provincias de Puebla y de Guadalajara
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+A inicios del siglo XVII crearon las provincias franciscanas de Zacatecas y de Jalisco.
+
+### 103
+
+En relación con el libro de Historia de México 1, ¿de dónde viene la palabra "mendicante"?
+
+- A. Viene de mendigar
+- B. Viene de predicar
+- C. Viene de misionar
+- D. Viene de evangelizar
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Mendicante: viene de mendigar. Además de la pobreza personal se estableció la pobreza del convento, en el que no se poseía nada.
+
+### 104
+
+De acuerdo con el libro de Historia de México 1, ¿en qué siglo surgió la orden mendicante de los dominicos?
+
+- A. En el siglo XIII
+- B. En el siglo XII
+- C. En el siglo XV
+- D. En el siglo XVI
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Dominicos. Orden mendicante surgida también en el siglo XIII.
+
+### 105
+
+De conformidad con el libro de Historia de México 1, ¿quién fue el fundador de la orden de los dominicos?
+
+- A. El español Santo Domingo de Guzmán
+- B. San Francisco de Asís
+- C. San Agustín de Hipona
+- D. San Ignacio de Loyola
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Su fundador fue el español Santo Domingo de Guzmán, y su objetivo era proporcionar instrucción religiosa.
+
+### 106
+
+En relación con el libro de Historia de México 1, ¿con qué otro nombre se conoce a la orden de los dominicos?
+
+- A. La Orden de los Predicadores
+- B. La Compañía de Jesús
+- C. La orden de los franciscanos descalzos
+- D. La Congregación del Oratorio
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+También se le conoce como la Orden de los Predicadores.
+
+### 107
+
+De acuerdo con el libro de Historia de México 1, ¿en qué año llegaron los dominicos a la Nueva España?
+
+- A. En 1526
+- B. En 1523
+- C. En 1524
+- D. En 1533
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Llegaron a la Nueva España en 1526, y se distribuyeron en tres provincias: México, Chiapas y Oaxaca.
+
+### 108
+
+De conformidad con el libro de Historia de México 1, ¿en qué tres provincias se distribuyeron los dominicos?
+
+- A. México, Chiapas y Oaxaca
+- B. México, Michoacán y Yucatán
+- C. México, Puebla y Guadalajara
+- D. Zacatecas, Durango y Sinaloa
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Llegaron a la Nueva España en 1526, y se distribuyeron en tres provincias: México, Chiapas y Oaxaca.
+
+### 109
+
+En relación con el libro de Historia de México 1, hacia finales del siglo XVI, ¿cuántos conventos y religiosos tenían los dominicos?
+
+- A. 40 conventos y 210 religiosos
+- B. 46 conventos y 212 religiosos
+- C. 60 conventos y 380 religiosos
+- D. 19 conventos y 200 religiosos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Hacia finales del siglo XVI tenían 40 conventos y 210 religiosos.
+
+### 110
+
+De acuerdo con el libro de Historia de México 1, ¿qué se les encargaría a los dominicos en 1569?
+
+- A. El Tribunal de la Inquisición en la Nueva España
+- B. La provincia dominica de Puebla
+- C. El Supremo Consejo de Indias
+- D. El Colegio de San Pedro y San Pablo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+En 1569 se les encargaría el Tribunal de la Inquisición en la Nueva España.
+
+### 111
+
+De conformidad con el libro de Historia de México 1, ¿qué provincia crearon los dominicos a mediados del siglo XVII?
+
+- A. La provincia dominica de Puebla
+- B. La provincia dominica de Oaxaca
+- C. La provincia dominica de Chiapas
+- D. La provincia dominica de Michoacán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+A mediados del siglo XVII crearon la provincia dominica de Puebla.
+
+### 112
+
+En relación con el libro de Historia de México 1, ¿en la observancia de la conducta de quién se basa la orden de los agustinos?
+
+- A. De San Agustín de Hipona (siglo V)
+- B. De San Francisco de Asís
+- C. De Santo Domingo de Guzmán
+- D. De San Benito de Nursia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Agustinos. Su fundación pertenece también en el siglo XIII. Se basa en la observancia de la conducta de San Agustín de Hipona (siglo V).
+
+### 113
+
+De acuerdo con el libro de Historia de México 1, ¿en qué año llegó la orden de los agustinos a la Nueva España?
+
+- A. En 1533
+- B. En 1526
+- C. En 1524
+- D. En 1540
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Considerada también como orden mendicante, esta tercera orden llegó a la Nueva España en 1533.
+
+### 114
+
+De conformidad con el libro de Historia de México 1, ¿en qué dos provincias se organizaron los agustinos?
+
+- A. La de México (1585) y la de Michoacán (1602)
+- B. La de México y la de Puebla
+- C. La de Chiapas y la de Oaxaca
+- D. La de Zacatecas y la de Jalisco
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Los agustinos se organizaron en dos provincias: la de México (1585) y la de Michoacán (1602), en el siglo XVI llegaron a tener 46 conventos y 212 religiosos.
+
+### 115
+
+En relación con el libro de Historia de México 1, en el siglo XVI, ¿cuántos conventos y religiosos llegaron a tener los agustinos?
+
+- A. 46 conventos y 212 religiosos
+- B. 40 conventos y 210 religiosos
+- C. 60 conventos y 380 religiosos
+- D. 19 conventos y 200 religiosos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Los agustinos se organizaron en dos provincias: la de México (1585) y la de Michoacán (1602), en el siglo XVI llegaron a tener 46 conventos y 212 religiosos.
+
+### 116
+
+De acuerdo con el libro de Historia de México 1, ¿por quién fue ratificada la orden de los jesuitas y en qué año?
+
+- A. Por el papa Paulo III en 1540
+- B. Por el papa Paulo III en 1526
+- C. Por el papa León X en 1540
+- D. Por el papa Julio II en 1533
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Jesuitas. Orden religiosa ratificada por el papa Paulo III en 1540.
+
+### 117
+
+De conformidad con el libro de Historia de México 1, ¿quién fue el fundador de la orden de los jesuitas?
+
+- A. San Ignacio de Loyola
+- B. San Francisco de Asís
+- C. Santo Domingo de Guzmán
+- D. San Benito de Nursia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Su fundador fue San Ignacio de Loyola.
+
+### 118
+
+En relación con el libro de Historia de México 1, ¿cuál es el nombre completo de la orden de los jesuitas?
+
+- A. Compañía de Jesús
+- B. Orden de los Predicadores
+- C. Congregación del Oratorio
+- D. Orden de los franciscanos descalzos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+El nombre completo de la orden es Compañía de Jesús, conocida como orden de los jesuitas.
+
+### 119
+
+De acuerdo con el libro de Historia de México 1, aparte de los tres votos de rigor, ¿qué cuarto voto tenían los jesuitas?
+
+- A. La fidelidad al papa
+- B. La pobreza del convento
+- C. La defensa de los indios
+- D. La extirpación de la idolatría
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Aparte de los tres votos de rigor, tenían un cuarto voto: la fidelidad al papa.
+
+### 120
+
+De conformidad con el libro de Historia de México 1, ¿en qué año llegaron los jesuitas a México y en qué número?
+
+- A. Hasta 1572, en número de nueve frailes
+- B. En 1533, en número de doce frailes
+- C. En 1526, en número de tres frailes
+- D. En 1540, en número de nueve frailes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Llegaron a México hasta 1572, en número de nueve frailes, que para finales del siglo XVI serían cerca de 300.
+
+### 121
+
+En relación con el libro de Historia de México 1, ¿cerca de cuántos jesuitas habría para finales del siglo XVI?
+
+- A. Cerca de 300
+- B. Cerca de 700
+- C. Cerca de 380
+- D. Cerca de 212
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Llegaron a México hasta 1572, en número de nueve frailes, que para finales del siglo XVI serían cerca de 300.
+
+### 122
+
+De acuerdo con el libro de Historia de México 1, ¿qué colegio crearon los jesuitas en 1573 en la ciudad de México?
+
+- A. El Colegio de San Pedro y San Pablo
+- B. El Colegio de San Felipe Neri
+- C. El Colegio de la Vera Cruz
+- D. El Colegio de San Juan de Dios
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Así, en 1573 crearon el Colegio de San Pedro y San Pablo, en la ciudad de México.
+
+### 123
+
+De conformidad con el libro de Historia de México 1, ¿a orillas de qué río iniciaron los jesuitas su labor evangelizadora en 1591?
+
+- A. A orillas del río Sinaloa
+- B. A orillas del río Bravo
+- C. A orillas del río Lerma
+- D. A orillas del río Pánuco
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+También hacia el noroeste fundaron misiones para evangelizar a los indios, por lo que en 1591 inician su labor evangelizadora a orillas del río Sinaloa.
+
+### 124
+
+En relación con el libro de Historia de México 1, ¿cuántos centros de misión poseían los jesuitas hacia 1745 en Baja California?
+
+- A. 37 centros de misión
+- B. 16 centros de misión
+- C. 19 centros de misión
+- D. 46 centros de misión
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Hacia 1745 poseían 37 centros de misión en Baja California.
+
+### 125
+
+De acuerdo con el libro de Historia de México 1, ¿alrededor de cuántos años duraría la labor misionera de los jesuitas en el noroeste?
+
+- A. Alrededor de 175 años
+- B. Alrededor de 75 años
+- C. Alrededor de 275 años
+- D. Alrededor de 100 años
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Esta labor misionera de los jesuitas en el noroeste duraría alrededor de 175 años, en la que atendieron más de dos millones de indígenas.
+
+### 126
+
+De conformidad con el libro de Historia de México 1, los dieguinos, o franciscanos descalzos, ¿en qué año llegaron y cuántos conventos fundaron?
+
+- A. Llegaron en 1580 y fundaron 16 conventos
+- B. Llegaron en 1585 y fundaron 19 conventos
+- C. Llegaron en 1526 y fundaron 40 conventos
+- D. Llegaron en 1602 y fundaron 21 conventos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Los dieguinos, o franciscanos descalzos, llegaron en 1580 y fundaron 16 conventos.
+
+### 127
+
+En relación con el libro de Historia de México 1, ¿quién fue el primer fraile mercedario que llegó a la Nueva España?
+
+- A. Bartolomé de Olmedo, capellán en la expedición de Cortés
+- B. Bartolomé de las Casas
+- C. Pedro de Gante
+- D. Martín de Valencia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Los mercedarios. El primer fraile que llegó a la Nueva España fue Bartolomé de Olmedo, capellán en la expedición de Cortés.
+
+### 128
+
+De acuerdo con el libro de Historia de México 1, ¿cuántos conventos tuvieron los mercedarios?
+
+- A. 19 conventos
+- B. 16 conventos
+- C. 40 conventos
+- D. 46 conventos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Al inicio, los mercedarios eran los capellanes militares, luego destacaron como personajes cultos y constructores de conventos. Tuvieron 19 conventos.
+
+### 129
+
+De conformidad con el libro de Historia de México 1, ¿en qué año llegaron los carmelitas contemplativos?
+
+- A. En 1585
+- B. En 1580
+- C. En 1602
+- D. En 1540
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Los carmelitas contemplativos llegaron en 1585.
+
+### 130
+
+En relación con el libro de Historia de México 1, las diferentes órdenes hospitalarias de clérigos y laicos, ¿cuál era su objeto?
+
+- A. La atención de los enfermos
+- B. La instrucción religiosa de los indios
+- C. La construcción de conventos
+- D. La preparación en las materias filosóficas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Existieron diferentes órdenes hospitalarias de clérigos y laicos cuyo objeto era la atención de los enfermos.
+
+### 131
+
+De acuerdo con el libro de Historia de México 1, ¿qué orden hospitalaria fundó un hospital en la ciudad de México?
+
+- A. Los hipólitos o de la caridad
+- B. La orden de San Juan de Dios
+- C. Los dieguinos
+- D. Los mercedarios
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Destacan los hipólitos o de la caridad que fundaron un hospital en la ciudad de México; también sobresalió la orden de San Juan de Dios.
+
+### 132
+
+De conformidad con el libro de Historia de México 1, la Congregación del Oratorio de San Felipe Neri, ¿en qué año fue fundada en México?
+
+- A. En 1659
+- B. En 1602
+- C. En 1585
+- D. En 1580
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** 3.3 conquista espiritual
+
+Congregación del Oratorio de San Felipe Neri. Fundada en México en 1659, construyeron conventos de difusión evangelizadora.
+
+### 133
+
+En relación con el libro de Historia de México 1, a raíz del terremoto de 1768, ¿qué templo cedió el virrey marqués de Croix a la Congregación de San Felipe Neri?
+
+- A. El templo más rico de la Compañía de Jesús en América, La Profesa
+- B. El Colegio de San Pedro y San Pablo
+- C. La catedral de la ciudad de México
+- D. El hospital de los hipólitos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
+**Subtema:** 3.3 conquista espiritual
+
+El virrey marqués de Croix, les cedió el templo más rico de la Compañía de Jesús en América. La Profesa, ubicado en el centro histórico de la ciudad de México.
+
+### 134
+
+De acuerdo con el libro de Historia de México 1, según la obra, La Profesa sería sede de una de las conjuras, ¿de qué?
+
+- A. De la Independencia de México
+- B. De la Conquista de México
+- C. De la Inquisición
+- D. De la Reforma
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
+**Subtema:** 3.3 conquista espiritual
+
+La Profesa, ubicado en el centro histórico de la ciudad de México, el cual sería sede de una de las conjuras de la Independencia de México.
+
+### 135
+
+De conformidad con el libro de Historia de México 1, ¿en qué año llegaron los benedictinos?
+
+- A. En 1602
+- B. En 1659
+- C. En 1585
+- D. En 1580
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
+**Subtema:** 3.3 conquista espiritual
+
+Los benedictinos llegaron en 1602.
+
+### 136
+
+En relación con el libro de Historia de México 1, la orden de los benedictinos, ¿por quién y desde qué siglo fue fundada?
+
+- A. Por San Benito de Nursia, desde el siglo V
+- B. Por San Agustín de Hipona, desde el siglo XIII
+- C. Por San Francisco de Asís, desde el siglo XIII
+- D. Por Santo Domingo de Guzmán, desde el siglo XII
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
+**Subtema:** 3.3 conquista espiritual
+
+Esta orden, fundada desde el siglo V por San Benito de Nursia, fue la orden que educó a Europa durante la Edad Media a través de su gran red de monasterios, centros de religión, cultura y trabajo.
+
+### 137
+
+De acuerdo con el libro de Historia de México 1, entre las órdenes religiosas femeninas, ¿en qué año se fundan las concepcionistas?
+
+- A. En 1540
+- B. En 1585
+- C. En 1602
+- D. En 1659
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
+**Subtema:** 3.3 conquista espiritual
+
+Órdenes religiosas femeninas: concepcionistas (1540); dominicas, que fundaron conventos en Oaxaca, México, Guadalajara, Valladolid y Pátzcuaro; clarisas, carmelitas, etcétera.
+
+### 138
+
+De conformidad con el libro de Historia de México 1, las dominicas, orden religiosa femenina, ¿en qué lugares fundaron conventos?
+
+- A. En Oaxaca, México, Guadalajara, Valladolid y Pátzcuaro
+- B. En México, Chiapas y Oaxaca
+- C. En Zacatecas, Durango y Sinaloa
+- D. En Puebla, Michoacán y Yucatán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
+**Subtema:** 3.3 conquista espiritual
+
+Órdenes religiosas femeninas: concepcionistas (1540); dominicas, que fundaron conventos en Oaxaca, México, Guadalajara, Valladolid y Pátzcuaro; clarisas, carmelitas, etcétera.
 
