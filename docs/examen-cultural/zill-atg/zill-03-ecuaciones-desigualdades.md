@@ -94,7 +94,21 @@ Los Ejemplos 1–10 y los *Ejercicios* de las pp. 127–134 quedan fuera por la 
 
 **§3.3 Ecuaciones cuadráticas · CERRADO** (pp. 127–132, reactivos 24–37).
 
-**Pendiente:** las secciones **§3.4 a §3.7**. Con ellas, el capítulo 3 quedará cerrado para la EMMA.
+**Sub-lote 6 (pp. 138–139, reactivos 38–45):** la apertura de **§3.4 Números complejos**: la **unidad
+imaginaria** *i* (*i*²=−1), la raíz cuadrada principal de un negativo (√(−*c*)=*i*√*c*), el **número
+complejo** *z*=*a*+*bi* en forma estándar, la parte real (*a*) y la parte imaginaria (*b*, no *bi*), el
+número imaginario puro (0+*bi*), el número real (*b*=0) y la **igualdad** de complejos (Definición 3.4.1).
+
+**Sub-lote 7 (pp. 140–142, reactivos 46–56):** cierra **§3.4** con la suma, la diferencia y el producto
+(Definición 3.4.2), la advertencia sobre √*a*√*b*=√(*ab*) (falsa si *a* y *b* son ambos negativos), la
+identidad y el inverso aditivos, el **conjugado** *a*−*bi* (Definición 3.4.3), el producto por el conjugado
+(*a*²+*b*²), la **división** (multiplicar por el conjugado del denominador), las propiedades del conjugado
+(Teorema 3.4.1) y que las soluciones complejas de una cuadrática con discriminante negativo son conjugadas.
+Los Ejemplos 1–7 y los *Ejercicios* de las pp. 138–144 quedan fuera por la norma de teoría sobre práctica.
+
+**§3.4 Números complejos · CERRADO** (pp. 138–142, reactivos 38–56).
+
+**Pendiente:** las secciones **§3.5 a §3.7**. Con ellas, el capítulo 3 quedará cerrado para la EMMA.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -678,3 +692,296 @@ De acuerdo con el libro de Geometría Analítica, ciertas ecuaciones polinomiale
 **Subtema:** Ecuaciones cuadráticas · formas cuadráticas
 
 Esto nos exige reconocer que la ecuación puede escribirse en la forma cuadrática estándar *at*² + *bt* + *c* = 0, donde el símbolo *t* representa una potencia entera positiva de *x*.
+
+---
+
+## Sub-lote 6 · §3.4 Números complejos — unidad imaginaria, forma estándar e igualdad (pp. 138–139)
+
+### 38
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se define la unidad imaginaria *i*?
+
+- A. Como el número que satisface *i*² = −1
+- B. Como el número que satisface *i*² = 1
+- C. Como el número que satisface *i* = −1
+- D. Como el número que satisface *i*² = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 138
+**Subtema:** Números complejos · unidad imaginaria
+
+Para obtener los números complejos *C*, comenzamos por definir la unidad imaginaria, que se representa con la letra *i*, como el número que satisface *i*² = −1.
+
+### 39
+
+De conformidad con el libro de Geometría Analítica, si *c* es un número real positivo, ¿a qué es igual la raíz cuadrada principal √(−*c*)?
+
+- A. *i*√*c*
+- B. −*i*√*c*
+- C. √*c*
+- D. *ic*²
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 138
+**Subtema:** Números complejos · raíz cuadrada principal de un negativo
+
+Si *c* es un número real positivo, la raíz cuadrada principal de −*c* se define como √(−*c*) = √((−1)*c*) = √(−1)·√*c* = *i*√*c*.
+
+### 40
+
+En relación con el libro de Geometría Analítica, ¿cuál es la forma estándar de un número complejo *z*?
+
+- A. *z* = *a* + *bi*, donde *a* y *b* son números reales
+- B. *z* = *ab* + *i*, donde *a* y *b* son números reales
+- C. *z* = *a* + *b*, donde *a* y *b* son imaginarios
+- D. *z* = *ai* + *b*, donde *i*² = 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 138
+**Subtema:** Números complejos · forma estándar
+
+Un número complejo se define como cualquier expresión de la forma *z* = *a* + *bi*, donde *a* y *b* son números reales e *i*² = −1. Esta forma se llama forma estándar de un número complejo.
+
+### 41
+
+De acuerdo con el libro de Geometría Analítica, en el número complejo *z* = *a* + *bi*, ¿cómo se llama el número *a*?
+
+- A. Parte real de *z*
+- B. Parte imaginaria de *z*
+- C. Conjugado de *z*
+- D. Módulo de *z*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 139
+**Subtema:** Números complejos · parte real
+
+Los números *a* y *b* se denominan parte real y parte imaginaria de *z*, respectivamente.
+
+### 42
+
+De conformidad con el libro de Geometría Analítica, en el número complejo *z* = *a* + *bi*, ¿cuál es la parte imaginaria?
+
+- A. El número real *b*
+- B. El producto *bi*
+- C. El número real *a*
+- D. La unidad imaginaria *i*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 139
+**Subtema:** Números complejos · parte imaginaria
+
+Los números *a* y *b* se denominan parte real y parte imaginaria de *z*, respectivamente. (La parte imaginaria de *a* + *bi* no es *bi*; es el número real *b*.)
+
+### 43
+
+En relación con el libro de Geometría Analítica, ¿cómo se llama un número complejo de la forma 0 + *bi*?
+
+- A. Número imaginario puro
+- B. Número real
+- C. Número conjugado
+- D. Identidad aditiva
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 139
+**Subtema:** Números complejos · número imaginario puro
+
+Se dice que un número complejo de la forma 0 + *bi* es un número imaginario puro.
+
+### 44
+
+De acuerdo con el libro de Geometría Analítica, ¿qué se obtiene al escoger *b* = 0 en *z* = *a* + *bi*?
+
+- A. Un número real
+- B. Un número imaginario puro
+- C. La unidad imaginaria
+- D. El conjugado de *z*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 139
+**Subtema:** Números complejos · los reales como subconjunto de los complejos
+
+Note que escogiendo *b* = 0 se obtiene un número real. Así, el conjunto de los números reales *R* es un subconjunto del conjunto de los números complejos *C*.
+
+### 45
+
+De conformidad con el libro de Geometría Analítica, según la Definición 3.4.1, si *z*₁ = *a* + *bi* y *z*₂ = *c* + *di*, ¿cuándo son iguales *z*₁ y *z*₂?
+
+- A. Si y sólo si *a* = *c* y *b* = *d*
+- B. Si y sólo si *a* = *d* y *b* = *c*
+- C. Si y sólo si *a* + *b* = *c* + *d*
+- D. Si y sólo si *a* = *b* y *c* = *d*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 139
+**Subtema:** Números complejos · igualdad (Definición 3.4.1)
+
+Dos números complejos son iguales si y sólo si sus partes reales son iguales y sus partes imaginarias son iguales. Es decir, si *z*₁ = *a* + *bi* y *z*₂ = *c* + *di*, *z*₁ = *z*₂ si y sólo si *a* = *c* y *b* = *d*.
+
+---
+
+## Sub-lote 7 · §3.4 Números complejos — operaciones, conjugado y división (pp. 140–142)
+
+### 46
+
+De acuerdo con el libro de Geometría Analítica, según la Definición 3.4.2, si *z*₁ = *a* + *bi* y *z*₂ = *c* + *di*, ¿a qué es igual su suma *z*₁ + *z*₂?
+
+- A. (*a* + *c*) + (*b* + *d*)*i*
+- B. (*a* + *c*) + (*b* − *d*)*i*
+- C. (*ac*) + (*bd*)*i*
+- D. (*a* + *b*) + (*c* + *d*)*i*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 140
+**Subtema:** Números complejos · suma (Definición 3.4.2)
+
+Su suma está dada por *z*₁ + *z*₂ = (*a* + *c*) + (*b* + *d*)*i*.
+
+### 47
+
+De conformidad con el libro de Geometría Analítica, según la Definición 3.4.2, ¿a qué es igual la diferencia *z*₁ − *z*₂?
+
+- A. (*a* − *c*) + (*b* − *d*)*i*
+- B. (*a* − *c*) + (*b* + *d*)*i*
+- C. (*a* − *c*) − (*b* − *d*)*i*
+- D. (*c* − *a*) + (*d* − *b*)*i*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 140
+**Subtema:** Números complejos · diferencia (Definición 3.4.2)
+
+Su diferencia está dada por *z*₁ − *z*₂ = (*a* − *c*) + (*b* − *d*)*i*.
+
+### 48
+
+En relación con el libro de Geometría Analítica, según la Definición 3.4.2, ¿a qué es igual el producto *z*₁*z*₂?
+
+- A. (*ac* − *bd*) + (*bc* + *ad*)*i*
+- B. (*ac* + *bd*) + (*bc* − *ad*)*i*
+- C. (*ac*) + (*bd*)*i*
+- D. (*ac* − *bd*) + (*ad* − *bc*)*i*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 140
+**Subtema:** Números complejos · producto (Definición 3.4.2)
+
+Su producto está dado por *z*₁*z*₂ = (*ac* − *bd*) + (*bc* + *ad*)*i*.
+
+### 49
+
+De acuerdo con el libro de Geometría Analítica, ¿cuándo NO es verdadera la propiedad de radicales √*a*·√*b* = √(*ab*)?
+
+- A. Cuando tanto *a* como *b* son negativos
+- B. Cuando *a* y *b* son ambos positivos
+- C. Cuando *a* o *b* es igual a cero
+- D. Siempre es verdadera, sin excepción
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 141
+**Subtema:** Números complejos · advertencia sobre la propiedad de radicales
+
+La propiedad de radicales √*a*·√*b* = √(*ab*) no es verdadera cuando tanto *a* como *b* son negativos.
+
+### 50
+
+De conformidad con el libro de Geometría Analítica, en el conjunto *C* de los números complejos, ¿cuál es la identidad aditiva?
+
+- A. 0 = 0 + 0*i*
+- B. 1 = 1 + 0*i*
+- C. *i* = 0 + 1*i*
+- D. −1 = −1 + 0*i*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 141
+**Subtema:** Números complejos · identidad aditiva
+
+En el conjunto *C* de números complejos, la identidad aditiva es el número 0 = 0 + 0*i*.
+
+### 51
+
+En relación con el libro de Geometría Analítica, ¿cuál es el inverso aditivo del número complejo *z* = *a* + *bi*?
+
+- A. −*z* = −*a* − *bi*
+- B. −*z* = *a* − *bi*
+- C. −*z* = −*a* + *bi*
+- D. −*z* = *b* − *ai*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 141
+**Subtema:** Números complejos · inverso aditivo
+
+El número −*z* = −*a* − *bi* se llama el inverso aditivo de *z* = *a* + *bi*.
+
+### 52
+
+De acuerdo con el libro de Geometría Analítica, según la Definición 3.4.3, si *z* = *a* + *bi*, ¿cuál es su conjugado?
+
+- A. *a* − *bi*
+- B. −*a* + *bi*
+- C. −*a* − *bi*
+- D. *b* + *ai*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 141
+**Subtema:** Números complejos · conjugado (Definición 3.4.3)
+
+Si *z* = *a* + *bi* es un número complejo, entonces el número *a* − *bi* se llama conjugado de *z*; se obtiene al cambiar el signo de su parte imaginaria.
+
+### 53
+
+De conformidad con el libro de Geometría Analítica, ¿a qué es igual el producto de un número complejo *z* = *a* + *bi* por su conjugado?
+
+- A. *a*² + *b*²
+- B. *a*² − *b*²
+- C. 2*a*
+- D. *a*² + *b*²*i*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 141
+**Subtema:** Números complejos · producto de un complejo por su conjugado
+
+El producto de un número complejo por su conjugado es (*a* + *bi*)(*a* − *bi*) = *a*² − *b*²*i*² = *a*² + *b*².
+
+### 54
+
+En relación con el libro de Geometría Analítica, para dividir un número complejo *z*₁ por un número complejo *z*₂, ¿qué se hace?
+
+- A. Multiplicar el numerador y el denominador de *z*₁/*z*₂ por el conjugado del denominador *z*₂
+- B. Multiplicar el numerador y el denominador por el conjugado del numerador *z*₁
+- C. Sumar el conjugado de *z*₂ al numerador
+- D. Elevar al cuadrado el denominador *z*₂
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 141
+**Subtema:** Números complejos · división
+
+Para dividir un número complejo *z*₁ por un número complejo *z*₂, multiplique el numerador y el denominador de *z*₁/*z*₂ por el conjugado del denominador *z*₂.
+
+### 55
+
+De acuerdo con el libro de Geometría Analítica, según el Teorema 3.4.1 (propiedades del conjugado), ¿a qué es igual el conjugado del conjugado de *z*?
+
+- A. *z*
+- B. −*z*
+- C. 2*z*
+- D. *a* − *bi*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 142
+**Subtema:** Números complejos · propiedades del conjugado (Teorema 3.4.1)
+
+Teorema 3.4.1, iv): el conjugado del conjugado de *z* es igual a *z*.
+
+### 56
+
+De conformidad con el libro de Geometría Analítica, cuando el discriminante *b*² − 4*ac* de una ecuación cuadrática *ax*² + *bx* + *c* = 0 es negativo, ¿qué relación hay entre sus dos soluciones complejas?
+
+- A. Son conjugados entre sí
+- B. Son iguales entre sí
+- C. Son inversos aditivos entre sí
+- D. Son ambas números reales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 142
+**Subtema:** Números complejos · soluciones complejas de la ecuación cuadrática
+
+Los números complejos posibilitan resolver ecuaciones cuadráticas *ax*² + *bx* + *c* = 0 cuando el discriminante *b*² − 4*ac* es negativo. Las soluciones son conjugados entre sí.
