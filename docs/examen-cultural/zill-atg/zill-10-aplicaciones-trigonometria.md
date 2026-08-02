@@ -48,7 +48,7 @@ El **capítulo 10** completo tiene siete secciones:
 - **§10.1 Resolución de triángulos rectángulos** (pp. 444–445) ← este archivo lo cubre.
 - **§10.2 Aplicaciones del triángulo rectángulo** (pp. 446–449) ← este archivo lo cubre.
 - **§10.3 Ley de los senos** (pp. 453–456) ← este archivo lo cubre.
-- **§10.4 Ley de los cosenos** ← este archivo lo cubre.
+- **§10.4 Ley de los cosenos** (pp. 457–460) ← este archivo lo cubre.
 - **§10.5 Movimiento armónico simple** ← este archivo lo cubre.
 - **§10.6 Forma trigonométrica de los números complejos** ← este archivo lo cubre.
 - **§10.7 Potencias y raíces de números complejos** ← este archivo lo cubre.
@@ -82,6 +82,14 @@ resolver triángulos en general), la condición de la ley de los senos, el **Teo
 (`sen α/a = sen β/b = sen γ/c`), su validez para cualquier triángulo, la definición del **caso
 ambiguo** (dos lados y un ángulo opuesto a uno de ellos) y los cuatro resultados posibles de su
 construcción (Fig. 10.3.7). Los ejemplos y la comprobación numérica no llevan reactivos.
+
+**§10.4 · CERRADO** en 15 reactivos (reactivos 19–33): la introducción (qué triángulos no se
+resuelven directo con la ley de los senos), el ángulo incluido, el teorema de Pitágoras como
+caso especial, el **Teorema 10.4.1** (las tres formas de la ley de los cosenos) y su validez
+para cualquier triángulo, su reducción a Pitágoras cuando γ=90°, la definición de **rumbo**
+(navegación) y la notación S40°O, y las **Notas del aula**: la definición de triángulo
+*oblicuo*, la tabla de método más apropiado por tipo de dato, y los consejos sobre cuándo un
+problema no tiene solución. Los ejemplos numéricos no llevan reactivos.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -368,3 +376,232 @@ En relación con el libro de Geometría Analítica, en el caso ambiguo, ¿qué o
 **Subtema:** Ley de los senos · caso ambiguo · triángulo rectángulo
 
 El arco es tangente a la base, y se forma un solo triángulo rectángulo.
+
+---
+
+## Sub-lote 4 · §10.4 Ley de los cosenos (pp. 457–460)
+
+### 19
+
+De acuerdo con el libro de Geometría Analítica, ¿qué triángulos NO se pueden resolver en forma directa usando la ley de los senos?
+
+- A. Los triángulos para los que se conocen tres lados, o dos lados y el ángulo incluido
+- B. Los triángulos para los que se conocen dos ángulos y un lado
+- C. Los triángulos rectángulos con un ángulo agudo conocido
+- D. Los triángulos para los que se conoce un lado y un ángulo opuesto
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 457
+**Subtema:** Ley de los cosenos · introducción
+
+Los triángulos para los que se conocen tres lados o dos lados y el ángulo incluido (esto es, el ángulo formado por los lados indicados) no se puede resolver en forma directa usando la ley de los senos.
+
+### 20
+
+Según el libro de Geometría Analítica, ¿qué es el "ángulo incluido"?
+
+- A. El ángulo formado por los lados indicados
+- B. El ángulo opuesto al lado más largo
+- C. El ángulo recto del triángulo
+- D. El ángulo entre un lado y la línea norte-sur
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 457
+**Subtema:** Ley de los cosenos · ángulo incluido
+
+Dos lados y el ángulo incluido (esto es, el ángulo formado por los lados indicados).
+
+### 21
+
+De conformidad con el libro de Geometría Analítica, la ecuación del teorema de Pitágoras (c² = a² + b²), ¿de qué es un caso especial?
+
+- A. De una fórmula general para relacionar las longitudes de los lados de cualquier triángulo
+- B. De la ley de los senos
+- C. De la fórmula del área de un triángulo
+- D. De la ecuación de una circunferencia
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 457
+**Subtema:** Ley de los cosenos · teorema de Pitágoras como caso especial
+
+Esta última ecuación (c² = a² + b²) es un caso especial de una fórmula general para relacionar las longitudes de los lados de cualquier triángulo.
+
+### 22
+
+En relación con el libro de Geometría Analítica, ¿de qué es la generalización la ley de los cosenos?
+
+- A. Del teorema de Pitágoras
+- B. De la ley de los senos
+- C. De la definición de tangente
+- D. Del teorema del ángulo inscrito
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 458
+**Subtema:** Ley de los cosenos · generalización de Pitágoras
+
+La generalización de (1) —el teorema de Pitágoras— se llama ley de los cosenos.
+
+### 23
+
+De acuerdo con el libro de Geometría Analítica, ¿para qué triángulos es válida la ley de los cosenos?
+
+- A. Para cualquier triángulo
+- B. Sólo para triángulos rectángulos
+- C. Sólo para triángulos oblicuos
+- D. Sólo para triángulos acutángulos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 458
+**Subtema:** Ley de los cosenos · validez
+
+Como la ley de los senos (1) de la sección 10.3, la ley de los cosenos es válida para cualquier triángulo.
+
+### 24
+
+De conformidad con el Teorema 10.4.1 (ley de los cosenos), si los ángulos son α, β y γ y los lados opuestos a ellos son a, b y c, ¿qué igualdad se cumple para a²?
+
+- A. a² = b² + c² − 2bc cos α
+- B. a² = b² + c² + 2bc cos α
+- C. a² = b² − c² − 2bc cos α
+- D. a² = b² + c² − 2bc sen α
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 458
+**Subtema:** Ley de los cosenos · Teorema 10.4.1
+
+Ley de los cosenos: a² = b² + c² − 2bc cos α, b² = a² + c² − 2ac cos β, c² = a² + b² − 2ab cos γ.
+
+### 25
+
+Según el libro de Geometría Analítica, ¿a qué se reduce la ley de los cosenos (c² = a² + b² − 2ab cos γ) cuando γ = 90°?
+
+- A. Al teorema de Pitágoras
+- B. A la ley de los senos
+- C. A la definición de coseno
+- D. A la fórmula del área
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 458
+**Subtema:** Ley de los cosenos · reducción a Pitágoras
+
+Note que la ecuación (7) se reduce al teorema de Pitágoras (1) cuando γ = 90°.
+
+### 26
+
+De acuerdo con el libro de Geometría Analítica, en navegación, ¿qué designa un "rumbo"?
+
+- A. El ángulo agudo que forma una línea con la línea norte-sur
+- B. El ángulo agudo que forma una línea con la línea este-oeste
+- C. La distancia recorrida en una hora
+- D. El ángulo recto entre dos trayectorias
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 459
+**Subtema:** Ley de los cosenos · rumbo
+
+Un rumbo (o curso, derrotero o trayectoria) designa el ángulo agudo que forma una línea con la línea norte-sur.
+
+### 27
+
+En relación con el libro de Geometría Analítica, ¿con qué otros nombres se designa un "rumbo"?
+
+- A. Curso, derrotero o trayectoria
+- B. Elevación, depresión o nivel
+- C. Latitud, longitud o meridiano
+- D. Azimut, cenit o nadir
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 459
+**Subtema:** Ley de los cosenos · rumbo · sinónimos
+
+Un rumbo (o curso, derrotero o trayectoria) designa el ángulo agudo que forma una línea con la línea norte-sur.
+
+### 28
+
+Según el libro de Geometría Analítica, un rumbo de S40°O quiere decir que la dirección es:
+
+- A. Hacia los 40 grados al oeste del sur
+- B. Hacia los 40 grados al sur del oeste
+- C. Hacia los 40 grados al este del sur
+- D. Hacia los 40 grados al norte del oeste
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 459
+**Subtema:** Ley de los cosenos · rumbo · notación
+
+La figura 10.4.5a) ilustra un rumbo de S40°O, lo que quiere decir que es hacia los 40 grados al oeste del sur.
+
+### 29
+
+De conformidad con las Notas del aula del libro de Geometría Analítica, ¿qué indica el término "oblicuo"?
+
+- A. Cualquier triángulo que no sea triángulo rectángulo
+- B. Únicamente el triángulo equilátero
+- C. Únicamente el triángulo rectángulo
+- D. El triángulo que tiene un ángulo de 90°
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 460
+**Subtema:** Ley de los cosenos · Notas del aula · triángulo oblicuo
+
+El término oblicuo indica cualquier triángulo que no sea triángulo rectángulo.
+
+### 30
+
+De acuerdo con la tabla de las Notas del aula del libro de Geometría Analítica, para un triángulo oblicuo del que se conocen los tres lados, ¿cuál es la técnica más apropiada?
+
+- A. La ley de los cosenos
+- B. La ley de los senos
+- C. El teorema de Pitágoras
+- D. Las definiciones básicas de seno, coseno y tangente
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 460
+**Subtema:** Ley de los cosenos · Notas del aula · método por tipo de dato
+
+Oblicuo · Tres lados · Ley de los cosenos.
+
+### 31
+
+Según la tabla de las Notas del aula del libro de Geometría Analítica, para un triángulo oblicuo del que se conocen dos ángulos y un lado, ¿cuál es la técnica más apropiada?
+
+- A. La ley de los senos
+- B. La ley de los cosenos
+- C. El teorema de Pitágoras
+- D. La definición de tangente
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 460
+**Subtema:** Ley de los cosenos · Notas del aula · método por tipo de dato
+
+Oblicuo · Dos ángulos y un lado · Ley de los senos.
+
+### 32
+
+En relación con las Notas del aula del libro de Geometría Analítica, cuando se dan los tres lados y la longitud del lado más largo es mayor o igual a la suma de las longitudes de los otros dos lados, ¿qué ocurre?
+
+- A. No puede haber solución alguna
+- B. Siempre hay dos soluciones
+- C. Siempre hay una solución única
+- D. El triángulo es rectángulo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 460
+**Subtema:** Ley de los cosenos · Notas del aula · sin solución
+
+Cuando se dan los tres lados, verifique primero si la longitud del lado más largo es mayor o igual a la suma de las longitudes de los otros dos lados. Si lo es, no puede haber solución alguna. Esto se debe a que la distancia más corta entre dos puntos es la longitud del segmento de recta que los une.
+
+### 33
+
+De conformidad con las Notas del aula del libro de Geometría Analítica, si al aplicar la ley de los senos se obtiene un valor mayor que 1 para el seno de un ángulo, ¿qué significa?
+
+- A. El problema no tiene solución
+- B. El triángulo es rectángulo
+- C. Hay que usar la ley de los cosenos
+- D. Existen dos soluciones posibles
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 460
+**Subtema:** Ley de los cosenos · Notas del aula · sin solución
+
+Si obtiene usted un valor mayor que 1 para el seno de un ángulo al aplicar la ley de los senos, el problema no tiene solución.
