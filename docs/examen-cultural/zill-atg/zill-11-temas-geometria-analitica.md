@@ -1,6 +1,6 @@
 # Geometría Analítica · Capítulo 11 · Temas de geometría analítica
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 11 → EN CURSO**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 11 → CERRADO (§11.1–§11.5, reactivos 1–75)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -53,7 +53,7 @@ El **capítulo 11** completo tiene cinco secciones:
 - **§11.2 La elipse** (pp. 489–493) ← este archivo lo cubre.
 - **§11.3 La hipérbola** (pp. 495–500) ← este archivo lo cubre.
 - **§11.4 Rotación de ejes** (pp. 504–508) ← este archivo lo cubre.
-- **§11.5 Ecuaciones paramétricas** ← este archivo lo cubre.
+- **§11.5 Ecuaciones paramétricas** (pp. 509–513) ← este archivo lo cubre.
 
 Los *Ejercicios de repaso* quedan fuera por la norma de teoría sobre práctica. La reseña
 histórica de la portadilla (p. 481, Hipatia) sí entra: es dato de recuerdo. Por regla de Carlo,
@@ -89,6 +89,17 @@ auxiliar, la forma normal con centro en (h,k), y la **excentricidad** `e=c/a` (c
 definición de rotación y las **ecuaciones de rotación** (4) y (5), el **Teorema 11.4.1**
 (`cot 2θ=(A−C)/B`) y el valor θ=45° cuando cot 2θ=0, el **discriminante** `B²−4AC` y el
 **Teorema 11.4.2** (parábola si =0, elipse si <0, hipérbola si >0).
+
+**§11.5 · CERRADO** en 12 reactivos (reactivos 64–75): el **movimiento curvilíneo**, la
+**Definición 11.5.1** (curva plana, ecuaciones paramétricas, parámetro), la parametrización, la
+**orientación** de la curva, el punto inicial y terminal, la **curva cerrada** y la **curva
+cerrada simple**, la **eliminación del parámetro** (obtener la ecuación rectangular; sin método
+bien definido), las parametrizaciones múltiples de una curva y el **cicloide**.
+
+**CAPÍTULO 11 · COMPLETO para la EMMA** (§11.1 a §11.5, reactivos 1–75). Con este capítulo y los
+capítulos 8 (`zill-08`, 58 react.), 9 (`zill-09`, 53 react.) y 10 (`zill-10`, 69 react.), **la
+materia *Trigonometría y Geometría Analítica* (`TGA-02-2026`) de la EMMA queda CERRADA al nivel
+de reactivos**: los cuatro capítulos que pide su temario (8, 9, 10 y 11), todos "Completo".
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -1060,3 +1071,187 @@ Según el Teorema 11.4.2 del libro de Geometría Analítica (excluyendo los caso
 **Subtema:** Rotación de ejes · Teorema 11.4.2 · hipérbola
 
 Excluyendo los casos degenerados, la gráfica de la ecuación de segundo grado (1) es una hipérbola cuando B² − 4AC > 0.
+
+---
+
+## Sub-lote 5 · §11.5 Ecuaciones paramétricas (pp. 509–513)
+
+### 64
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se llama el movimiento de una partícula a lo largo de una curva, en contraste con a lo largo de una recta?
+
+- A. Movimiento curvilíneo
+- B. Movimiento rectilíneo
+- C. Movimiento armónico simple
+- D. Movimiento paramétrico
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 510
+**Subtema:** Ecuaciones paramétricas · movimiento curvilíneo
+
+El movimiento de una partícula a lo largo de una curva, en contraste con a lo largo de una recta, se llama movimiento curvilíneo.
+
+### 65
+
+Según la Definición 11.5.1 del libro de Geometría Analítica, ¿qué es una curva plana (o curva en el plano)?
+
+- A. Un conjunto C de pares ordenados (f(t), g(t)), donde f y g son funciones definidas en un intervalo común I
+- B. El conjunto de puntos equidistantes a un punto fijo
+- C. Una recta definida por dos puntos
+- D. El conjunto de soluciones de una ecuación de segundo grado
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 510
+**Subtema:** Ecuaciones paramétricas · Definición 11.5.1
+
+Una curva plana, o curva en el plano, es un conjunto C de pares ordenados (f(t), g(t)), donde f y g son funciones definidas en un intervalo común I.
+
+### 66
+
+De conformidad con la Definición 11.5.1 del libro de Geometría Analítica, ¿cómo se llaman las ecuaciones x = f(t), y = g(t) (para t en I) de una curva C?
+
+- A. Ecuaciones paramétricas de C
+- B. Ecuaciones normales de C
+- C. Ecuaciones de rotación de C
+- D. Ecuaciones polares de C
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 510
+**Subtema:** Ecuaciones paramétricas · definición
+
+Las ecuaciones x = f(t), y = g(t), para t en I, se llaman ecuaciones paramétricas de C.
+
+### 67
+
+Según la Definición 11.5.1 del libro de Geometría Analítica, ¿cómo se llama la variable t en las ecuaciones paramétricas?
+
+- A. Parámetro
+- B. Argumento
+- C. Discriminante
+- D. Coeficiente
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 510
+**Subtema:** Ecuaciones paramétricas · parámetro
+
+La variable t se llama parámetro.
+
+### 68
+
+De acuerdo con el libro de Geometría Analítica, a las ecuaciones x = f(t), y = g(t) para t en I también se les acostumbra llamar:
+
+- A. Parametrización de C
+- B. Discriminante de C
+- C. Excentricidad de C
+- D. Directriz de C
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 510
+**Subtema:** Ecuaciones paramétricas · parametrización
+
+También se acostumbra llamar parametrización de C a x = f(t), y = g(t) para t en I.
+
+### 69
+
+Según el libro de Geometría Analítica, cuando se grafican puntos correspondientes a valores crecientes del parámetro, la curva se recorre en cierta dirección. ¿Cómo se llama esa dirección?
+
+- A. Orientación de la curva
+- B. Excentricidad de la curva
+- C. Pendiente de la curva
+- D. Amplitud de la curva
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 510
+**Subtema:** Ecuaciones paramétricas · orientación
+
+Al graficar puntos correspondientes a valores crecientes del parámetro, la curva C es recorrida en cierta dirección; a esta dirección se le llama orientación de la curva C.
+
+### 70
+
+De conformidad con el libro de Geometría Analítica, cuando el intervalo I es un intervalo cerrado [a, b], ¿cómo se llaman los puntos (f(a), g(a)) y (f(b), g(b))?
+
+- A. Punto inicial y punto terminal, respectivamente
+- B. Foco y directriz, respectivamente
+- C. Vértice y centro, respectivamente
+- D. Ambos son el centro de la curva
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 511
+**Subtema:** Ecuaciones paramétricas · punto inicial y terminal
+
+Cuando el intervalo I dentro del cual f y g están definidos es un intervalo cerrado [a, b], (f(a), g(a)) es el punto inicial de la curva C, y (f(b), g(b)) es el punto terminal.
+
+### 71
+
+Según el libro de Geometría Analítica, ¿cuándo una curva C es una curva cerrada?
+
+- A. Cuando el punto terminal es el mismo que el punto inicial
+- B. Cuando no tiene punto inicial ni terminal
+- C. Cuando el parámetro es negativo
+- D. Cuando f y g son constantes
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 511
+**Subtema:** Ecuaciones paramétricas · curva cerrada
+
+Si el punto terminal es el mismo que el punto inicial, entonces C es una curva cerrada.
+
+### 72
+
+De acuerdo con el libro de Geometría Analítica, ¿qué es una curva cerrada simple?
+
+- A. Una curva cerrada que no se interseca consigo misma
+- B. Una curva que no tiene punto inicial
+- C. Una curva que se interseca consigo misma en un punto
+- D. Una curva abierta con un solo extremo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 511
+**Subtema:** Ecuaciones paramétricas · curva cerrada simple
+
+Si C es cerrada pero no se interseca consigo mismo se llama curva cerrada simple.
+
+### 73
+
+Según el libro de Geometría Analítica, dado un conjunto de ecuaciones paramétricas, ¿en qué consiste la eliminación del parámetro?
+
+- A. En eliminar o simplificar el parámetro para obtener la ecuación rectangular de la curva
+- B. En sustituir el parámetro por su valor máximo
+- C. En derivar las ecuaciones respecto al parámetro
+- D. En girar los ejes para eliminar el término xy
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 511
+**Subtema:** Ecuaciones paramétricas · eliminación del parámetro
+
+Dado un conjunto de ecuaciones paramétricas, a veces se desea eliminar o simplificar el parámetro para obtener la ecuación rectangular de la curva. No hay un método bien definido para eliminar el parámetro.
+
+### 74
+
+De conformidad con el libro de Geometría Analítica, respecto a las parametrizaciones de una curva C, ¿qué se cumple?
+
+- A. Una curva C puede tener muchas parametrizaciones diferentes
+- B. Cada curva C tiene una única parametrización posible
+- C. Una curva C no puede parametrizarse si es cerrada
+- D. Sólo las rectas pueden parametrizarse
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 512
+**Subtema:** Ecuaciones paramétricas · parametrizaciones múltiples
+
+Una curva C puede tener más de una parametrización; una curva C puede tener muchas parametrizaciones diferentes.
+
+### 75
+
+Según el libro de Geometría Analítica, ¿qué curva describe un punto P marcado en un círculo de radio a cuando el círculo rueda por el eje x?
+
+- A. Un cicloide
+- B. Una parábola
+- C. Una elipse
+- D. Una hipérbola
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 513
+**Subtema:** Ecuaciones paramétricas · cicloide
+
+Cuando el círculo rueda por el eje x, el punto P describe una curva C llamada cicloide.
