@@ -132,8 +132,16 @@ quedan fuera por la norma de teoría sobre práctica.
 
 **§2.5 Exponentes racionales · CERRADO** (pp. 78–81, reactivos 129–142).
 
-**Pendiente:** las secciones **§2.6 a §2.8** (pp. 83–106). Con ellas, el capítulo 2 quedará
-cerrado para la EMMA.
+**Sub-lote 9 (pp. 83–84, reactivos 143–161):** la apertura de **§2.6 Polinomios y productos
+notables**: la introducción (variable, expresión algebraica, dominio de la variable, valor de la
+expresión) y la terminología de los polinomios (monomio *ax*ⁿ, coeficiente, grado, binomio, trinomio,
+la **Definición 2.6.1** de polinomio de grado *n*, forma estándar, dominio *R*, términos, coeficiente
+principal, término constante, polinomio cero y sin grado asignado, y la clasificación por grado:
+constante, lineal, cuadrático, cúbico).
+
+**Pendiente de §2.6:** pp. 85–90 (el álgebra de los polinomios, los productos notables, los polinomios
+en varias variables y la suma y diferencia de cubos —esta última con **errata del libro**, ver el aviso
+al final—). Luego **§2.7 y §2.8** (pp. 92–106). Con ellas, el capítulo 2 quedará cerrado para la EMMA.
 
 ## Criterio: teoría sobre práctica
 
@@ -144,7 +152,19 @@ teoremas y fórmulas sí.
 
 ## Avisos al aspirante (erratas del libro)
 
-_Ninguno detectado por ahora en este capítulo._
+**§2.6, pág. 89 — suma y diferencia de dos cubos (fórmulas 6 y 7).** El libro imprime el tercer
+término del segundo factor como *a*³ cuando debe ser *a*²:
+
+- Diferencia de cubos, fórmula (6): el libro escribe (*x* − *a*)(*x*² + *ax* + *a*³) = *x*³ − *a*³;
+  la forma correcta es **(*x* − *a*)(*x*² + *ax* + *a*²) = *x*³ − *a*³**.
+- Suma de cubos, fórmula (7): el libro escribe (*x* + *a*)(*x*² − *ax* + *a*³) = *x*³ + *a*³;
+  la forma correcta es **(*x* + *a*)(*x*² − *ax* + *a*²) = *x*³ + *a*³**.
+
+Con *a*³ la identidad es falsa. **Es errata de imprenta, confirmada por recorte a 600 dpi** (no es
+suciedad del escaneo), y el propio libro la desmiente en el **Ejemplo 11** de esa misma página, donde
+escribe bien (*x* + *y*)(*x*² − *xy* + *y*²) = *x*³ + *y*³ (término medio con *y*²). Por eso los
+reactivos de suma y diferencia de cubos de este banco usan la **forma correcta (*a*²)**, no la que
+aparece impresa.
 
 ---
 
@@ -2307,3 +2327,292 @@ De conformidad con el libro de Geometría Analítica, además de para los expone
 **Subtema:** Exponentes racionales · leyes válidas para exponentes irracionales
 
 Las leyes de los exponentes también son verdaderas para los exponentes irracionales.
+
+---
+
+## Sub-lote 9 · §2.6 Polinomios y productos notables — introducción y terminología (pp. 83–84)
+
+### 143
+
+De acuerdo con el libro de Geometría Analítica, cuando se usan letras como *x* o *y* para representar números, ¿cómo se llama cada uno de esos símbolos?
+
+- A. Variable
+- B. Coeficiente
+- C. Constante
+- D. Exponente
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 83
+**Subtema:** Polinomios y productos notables · variable
+
+Ya hemos encontrado práctico usar letras como *x* o *y* para representar números; cada símbolo se llama variable.
+
+### 144
+
+De conformidad con el libro de Geometría Analítica, ¿qué es una expresión algebraica?
+
+- A. El resultado de llevar a cabo un número finito de sumas, restas, multiplicaciones, divisiones o raíces en un grupo de variables y números reales
+- B. El resultado de sumar y restar únicamente monomios semejantes entre sí
+- C. Cualquier igualdad planteada entre dos polinomios de la misma variable
+- D. Una sucesión infinita de términos con exponentes crecientes
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 83
+**Subtema:** Polinomios y productos notables · expresión algebraica
+
+Una expresión algebraica es el resultado de llevar a cabo un número finito de sumas, restas, multiplicaciones, divisiones o raíces en un grupo de variables y números reales.
+
+### 145
+
+En relación con el libro de Geometría Analítica, ¿cómo se llama el conjunto de valores permisibles para la variable?
+
+- A. Dominio de la variable
+- B. Rango de la variable
+- C. Valor de la expresión
+- D. Recorrido de la variable
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 83
+**Subtema:** Polinomios y productos notables · dominio de la variable
+
+El conjunto de valores permisibles para la variable se llama dominio de la variable.
+
+### 146
+
+De acuerdo con el libro de Geometría Analítica, si se sustituyen números específicos por las variables en una expresión algebraica, ¿cómo se llama el número real que resulta?
+
+- A. Valor de la expresión
+- B. Dominio de la expresión
+- C. Grado de la expresión
+- D. Coeficiente de la expresión
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 83
+**Subtema:** Polinomios y productos notables · valor de la expresión
+
+Si se sustituyen números específicos por las variables en una expresión algebraica, el número real que resulta se llama valor de la expresión.
+
+### 147
+
+De conformidad con el libro de Geometría Analítica, ¿qué es un monomio en una variable?
+
+- A. Cualquier expresión algebraica de la forma *ax*ⁿ, donde *a* es un número real, *x* es una variable y *n* es un entero no negativo
+- B. Cualquier expresión algebraica de la forma *ax*ⁿ, donde *a*, *x* y *n* son números reales cualesquiera
+- C. La suma de dos o más términos que comparten la misma variable
+- D. El cociente de dos expresiones algebraicas con denominador distinto de cero
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · monomio
+
+Un monomio en una variable es cualquier expresión algebraica de la forma *ax*ⁿ, donde *a* es un número real, *x* es una variable y *n* es un entero no negativo.
+
+### 148
+
+En relación con el libro de Geometría Analítica, en el monomio *ax*ⁿ, ¿cómo se llama el número *a*?
+
+- A. Coeficiente del monomio
+- B. Grado del monomio
+- C. Término constante
+- D. Coeficiente principal
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · coeficiente
+
+El número *a* se llama coeficiente del monomio y *n* se denomina el grado.
+
+### 149
+
+De acuerdo con el libro de Geometría Analítica, en el monomio *ax*ⁿ, ¿cómo se denomina el exponente *n*?
+
+- A. El grado
+- B. El coeficiente
+- C. La base
+- D. El índice
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · grado del monomio
+
+El número *a* se llama coeficiente del monomio y *n* se denomina el grado.
+
+### 150
+
+De conformidad con el libro de Geometría Analítica, ¿qué nombre recibe la suma de dos monomios?
+
+- A. Binomio
+- B. Trinomio
+- C. Polinomio cero
+- D. Monomio compuesto
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · binomio
+
+La suma de dos monomios recibe el nombre de binomio.
+
+### 151
+
+En relación con el libro de Geometría Analítica, ¿cómo se llama la suma de tres monomios?
+
+- A. Trinomio
+- B. Binomio
+- C. Polinomio cúbico
+- D. Monomio triple
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · trinomio
+
+La suma de tres monomios se llama trinomio.
+
+### 152
+
+De acuerdo con el libro de Geometría Analítica, ¿qué es un polinomio?
+
+- A. Cualquier suma finita de monomios
+- B. Cualquier suma infinita de monomios
+- C. El producto de dos o más binomios
+- D. Cualquier expresión con exponentes racionales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · polinomio
+
+Un polinomio es cualquier suma finita de monomios.
+
+### 153
+
+De conformidad con el libro de Geometría Analítica, según la Definición 2.6.1, ¿cuál es la forma de un polinomio de grado *n* en la variable *x*?
+
+- A. *a*ₙ*x*ⁿ + *a*ₙ₋₁*x*ⁿ⁻¹ + ⋯ + *a*₂*x*² + *a*₁*x* + *a*₀, con *a*ₙ ≠ 0
+- B. *a*ₙ*x*ⁿ + *a*ₙ₋₁*x*ⁿ⁻¹ + ⋯ + *a*₂*x*² + *a*₁*x* + *a*₀, con *a*ₙ = 0
+- C. *a*ₙ*x*ⁿ · *a*ₙ₋₁*x*ⁿ⁻¹ ⋯ *a*₁*x* · *a*₀, con *a*ₙ ≠ 0
+- D. *a*₀*x*ⁿ + *a*₁*x*ⁿ⁻¹ + ⋯ + *a*ₙ, con *a*₀ ≠ 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · Definición 2.6.1 polinomio
+
+Un polinomio de grado *n* en la variable *x* es cualquier expresión algebraica de la forma *a*ₙ*x*ⁿ + *a*ₙ₋₁*x*ⁿ⁻¹ + ⋯ + *a*₂*x*² + *a*₁*x* + *a*₀, con *a*ₙ ≠ 0, donde *n* es un entero no negativo y *a*ᵢ, *i* = 0, 1…, *n* son números reales.
+
+### 154
+
+En relación con el libro de Geometría Analítica, ¿cómo se llama la expresión de un polinomio escrito en las potencias decrecientes de *x*?
+
+- A. Forma estándar
+- B. Forma factorizada
+- C. Forma canónica reducida
+- D. Forma desarrollada
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · forma estándar
+
+La expresión (1) se llama forma estándar de un polinomio; es decir, el polinomio se escribe en las potencias decrecientes de *x*.
+
+### 155
+
+De acuerdo con el libro de Geometría Analítica, ¿cuál es el dominio de un polinomio?
+
+- A. El conjunto de todos los números reales *R*
+- B. El conjunto de todos los números reales no negativos
+- C. El conjunto de todos los números enteros
+- D. El conjunto de todos los números racionales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · dominio de un polinomio
+
+El dominio de un polinomio es el conjunto de todos los números reales *R*.
+
+### 156
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se llaman los monomios *a*ᵢ*x*ⁱ que forman un polinomio?
+
+- A. Términos del polinomio
+- B. Factores del polinomio
+- C. Raíces del polinomio
+- D. Grados del polinomio
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · términos
+
+Los monomios *a*ᵢ*x*ⁱ en el polinomio se llaman términos del polinomio.
+
+### 157
+
+En relación con el libro de Geometría Analítica, ¿cómo se llama el coeficiente *a*ₙ de la potencia más alta de *x* en un polinomio?
+
+- A. Coeficiente principal
+- B. Término constante
+- C. Coeficiente del monomio
+- D. Grado principal
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · coeficiente principal
+
+El coeficiente *a*ₙ de la potencia más alta de *x* se llama coeficiente principal.
+
+### 158
+
+De acuerdo con el libro de Geometría Analítica, en un polinomio, ¿cómo se llama el número *a*₀?
+
+- A. Término constante del polinomio
+- B. Coeficiente principal
+- C. Grado del polinomio
+- D. Coeficiente de grado *n*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · término constante
+
+El número *a*₀ se llama término constante del polinomio.
+
+### 159
+
+De conformidad con el libro de Geometría Analítica, si todos los coeficientes de un polinomio son cero, ¿cómo se llama el polinomio?
+
+- A. Polinomio cero
+- B. Polinomio constante
+- C. Polinomio nulo de grado uno
+- D. Polinomio unitario
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · polinomio cero
+
+Si todos los coeficientes de un polinomio son cero, entonces el polinomio se llama polinomio cero y se representa con 0.
+
+### 160
+
+En relación con el libro de Geometría Analítica, al clasificar los polinomios según sus grados, ¿a cuál no se le ha asignado ningún grado?
+
+- A. Al polinomio cero
+- B. Al polinomio constante
+- C. Al polinomio lineal
+- D. Al polinomio de grado *n*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · el polinomio cero no tiene grado
+
+Los polinomios pueden clasificarse según sus grados, aunque al polinomio cero no se le ha asignado ningún grado.
+
+### 161
+
+De acuerdo con el libro de Geometría Analítica, según la clasificación de los polinomios por su grado, ¿qué nombre recibe un polinomio de grado 2?
+
+- A. Cuadrático
+- B. Lineal
+- C. Cúbico
+- D. Constante
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 84
+**Subtema:** Polinomios y productos notables · clasificación por grado
+
+Se usan nombres especiales para describir los polinomios de menor grado: constante (grado 0), lineal (grado 1), cuadrático (grado 2) y cúbico (grado 3).
