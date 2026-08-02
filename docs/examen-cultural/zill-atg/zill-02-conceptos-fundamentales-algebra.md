@@ -108,7 +108,17 @@ sobre práctica.
 
 **§2.3 Exponentes enteros · CERRADO** (pp. 64–67, reactivos 92–106).
 
-**Pendiente:** las secciones **§2.4 a §2.8** (pp. 71–106). Con ellas, el capítulo 2 quedará
+**Sub-lote 6 (pp. 71–74, reactivos 107–128):** **§2.4 Radicales** (toda la teoría): las raíces y
+el símbolo √ (raíz cuadrada principal, no negativa), la **Definición 2.4.1** (raíz *n*-ésima
+principal, sus cuatro casos), la terminología (radical, índice, radicando; raíz cuadrada/cúbica),
+el número de raíces reales según la paridad del índice, el número complejo (raíz par de un
+negativo), el **Teorema 2.4.1** con sus cinco leyes de los radicales, y la racionalización (del
+denominador) con el factor conjugado. Los ejemplos de simplificación y los *Ejercicios* de las
+pp. 73–77 quedan fuera por la norma de teoría sobre práctica.
+
+**§2.4 Radicales · CERRADO** (pp. 71–74, reactivos 107–128).
+
+**Pendiente:** las secciones **§2.5 a §2.8** (pp. 78–106). Con ellas, el capítulo 2 quedará
 cerrado para la EMMA.
 
 ## Criterio: teoría sobre práctica
@@ -1731,3 +1741,337 @@ En relación con el libro de Geometría Analítica, la ley iii) del Teorema 2.3.
 **Subtema:** Exponentes enteros · Teorema 2.3.1 leyes de los exponentes
 
 Además, iii) del teorema 2.3.1 se extiende a más de dos variables; por ejemplo, (*xyzw*)ⁿ = *xⁿyⁿzⁿwⁿ*.
+
+---
+
+## Sub-lote 6 · §2.4 Radicales (pp. 71–74)
+
+### 107
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se denominan los números que satisfacen ecuaciones exponenciales como *s*² = 25 o *x*³ = 64?
+
+- A. Raíces
+- B. Radicandos
+- C. Índices
+- D. Exponentes
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 71
+**Subtema:** Radicales · introducción
+
+Los números que satisfacen estas ecuaciones exponenciales se denominan raíces.
+
+### 108
+
+De conformidad con el libro de Geometría Analítica, un número *s* que satisface la ecuación *s*² = 25, ¿cómo se llama?
+
+- A. La raíz cuadrada de 25
+- B. La raíz cúbica de 25
+- C. El radicando de 25
+- D. El índice de 25
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 71
+**Subtema:** Radicales · introducción
+
+Un número *s* que satisface la ecuación *s*² = 25 se llama la raíz cuadrada de 25, y un número *x* que satisface *x*³ = 64 es una raíz cúbica de 64.
+
+### 109
+
+En relación con el libro de Geometría Analítica, por convención, ¿qué representa el símbolo √ ?
+
+- A. La raíz cuadrada principal, que es un número real no negativo
+- B. La raíz cuadrada negativa
+- C. Cualquiera de las dos raíces cuadradas
+- D. El radicando
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 71
+**Subtema:** Radicales · introducción
+
+Por convención, el símbolo √ representa la raíz cuadrada principal, que es un número real no negativo. Así, √25 = 5.
+
+### 110
+
+De acuerdo con el libro de Geometría Analítica, según la Definición 2.4.1, si *x* > 0, ¿qué es la raíz *n*-ésima principal ⁿ√*x*?
+
+- A. El número *r* positivo tal que *x* = *rⁿ*
+- B. El número *r* negativo tal que *x* = *rⁿ*
+- C. Un número que no es real
+- D. Igual a 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 71
+**Subtema:** Radicales · Definición 2.4.1 raíz n-ésima principal
+
+Si *x* > 0, entonces la raíz *n*-ésima principal ⁿ√*x* es el número *r* positivo tal que *x* = *rⁿ*.
+
+### 111
+
+De conformidad con el libro de Geometría Analítica, según la Definición 2.4.1, si *x* < 0 y *n* es un entero positivo impar, ¿qué es la raíz *n*-ésima principal ⁿ√*x*?
+
+- A. Un número *r* negativo tal que *x* = *rⁿ*
+- B. Un número *r* positivo tal que *x* = *rⁿ*
+- C. Un número que no es real
+- D. Igual a 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 71
+**Subtema:** Radicales · Definición 2.4.1 raíz n-ésima principal
+
+Si *x* < 0 y *n* es un entero positivo impar, entonces la raíz *n*-ésima principal ⁿ√*x* es un número *r* negativo tal que *x* = *rⁿ*.
+
+### 112
+
+En relación con el libro de Geometría Analítica, según la Definición 2.4.1, si *x* < 0 y *n* es un entero positivo par, ¿qué ocurre con ⁿ√*x*?
+
+- A. ⁿ√*x* no es un número real
+- B. ⁿ√*x* es un número positivo
+- C. ⁿ√*x* es un número negativo
+- D. ⁿ√*x* = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 71
+**Subtema:** Radicales · Definición 2.4.1 raíz n-ésima principal
+
+Si *x* < 0 y *n* es un entero positivo par, entonces ⁿ√*x* no es un número real.
+
+### 113
+
+De acuerdo con el libro de Geometría Analítica, según la Definición 2.4.1, si *x* = 0, ¿a qué es igual ⁿ√*x*?
+
+- A. ⁿ√*x* = 0
+- B. ⁿ√*x* = 1
+- C. ⁿ√*x* no es un número real
+- D. ⁿ√*x* = *n*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 71
+**Subtema:** Radicales · Definición 2.4.1 raíz n-ésima principal
+
+Si *x* = 0, entonces ⁿ√*x* = 0.
+
+### 114
+
+De conformidad con el libro de Geometría Analítica, la expresión ⁿ√*x* que representa la raíz *n*-ésima principal de *x*, ¿cómo se llama?
+
+- A. Radical
+- B. Radicando
+- C. Índice
+- D. Coeficiente
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · terminología
+
+La expresión ⁿ√*x* que representa la raíz *n*-ésima principal de *x* se llama radical, el entero *n* es el índice del radical y el número real *x* se llama radicando.
+
+### 115
+
+En relación con el libro de Geometría Analítica, en el radical ⁿ√*x*, ¿cómo se llama el entero *n*?
+
+- A. El índice del radical
+- B. El radicando
+- C. El radical
+- D. La base
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · terminología
+
+La expresión ⁿ√*x* que representa la raíz *n*-ésima principal de *x* se llama radical, el entero *n* es el índice del radical y el número real *x* se llama radicando.
+
+### 116
+
+De acuerdo con el libro de Geometría Analítica, en el radical ⁿ√*x*, ¿cómo se llama el número real *x*?
+
+- A. Radicando
+- B. Índice
+- C. Radical
+- D. Exponente
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · terminología
+
+La expresión ⁿ√*x* que representa la raíz *n*-ésima principal de *x* se llama radical, el entero *n* es el índice del radical y el número real *x* se llama radicando.
+
+### 117
+
+De conformidad con el libro de Geometría Analítica, cuando *n* = 3, ¿cómo se llama ³√*x*?
+
+- A. La raíz cúbica de *x*
+- B. La raíz cuadrada de *x*
+- C. El índice de *x*
+- D. El radicando de *x*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · terminología
+
+Cuando *n* = 2, decimos que √*x* es la raíz cuadrada de *x* y cuando *n* = 3, decimos que ³√*x* es la raíz cúbica de *x*.
+
+### 118
+
+En relación con el libro de Geometría Analítica, si el índice *n* es un entero positivo impar, ¿cuántas raíces *n*-ésimas reales hay para cualquier valor de *x*?
+
+- A. Exactamente una raíz *n*-ésima real
+- B. Dos raíces *n*-ésimas reales
+- C. Ninguna raíz *n*-ésima real
+- D. Infinitas raíces *n*-ésimas reales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · número de raíces
+
+Si el índice *n* es un entero positivo impar, se puede demostrar que para cualquier valor de *x* hay exactamente una raíz *n*-ésima real de *x*.
+
+### 119
+
+De acuerdo con el libro de Geometría Analítica, si el índice *n* es un entero positivo par y *x* es positivo, ¿cuántas raíces reales hay y para cuál se reserva el símbolo ⁿ√*x*?
+
+- A. Hay dos raíces reales *n*-ésimas, y el símbolo ⁿ√*x* se reserva para la raíz *n*-ésima positiva (principal)
+- B. Hay una sola raíz real, la negativa
+- C. No hay raíces reales
+- D. Hay dos raíces reales y ⁿ√*x* se reserva para la negativa
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · número de raíces
+
+Si el índice *n* es un entero positivo par y *x* es positivo, entonces hay dos raíces reales *n*-ésimas de *x*. Sin embargo, el símbolo ⁿ√*x* se reserva para la raíz *n*-ésima positiva (principal); denotamos la raíz *n*-ésima negativa mediante −ⁿ√*x*.
+
+### 120
+
+De conformidad con el libro de Geometría Analítica, si *n* es par y *x* es negativo, ¿qué ocurre con la raíz *n*-ésima real de *x*?
+
+- A. No hay raíz *n*-ésima real de *x*
+- B. Hay exactamente una raíz *n*-ésima real
+- C. Hay dos raíces *n*-ésimas reales
+- D. La raíz es igual a 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · número de raíces
+
+Si *n* es par y *x* es negativo, no hay raíz *n*-ésima real de *x*.
+
+### 121
+
+En relación con el libro de Geometría Analítica, una raíz par de un número negativo, por ejemplo √−5, ¿qué nombre recibe?
+
+- A. Número complejo
+- B. Número irracional
+- C. Número indefinido
+- D. Radicando negativo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · número complejo
+
+Una raíz par de un número negativo, por ejemplo √−5, recibe el nombre de número complejo. Los números complejos se explican en la sección 3.4.
+
+### 122
+
+De acuerdo con el libro de Geometría Analítica, según la ley i) del Teorema 2.4.1, ¿a qué es igual (ⁿ√*x*)ⁿ?
+
+- A. *x*
+- B. |*x*|
+- C. *xⁿ*
+- D. *n*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · Teorema 2.4.1 leyes de los radicales
+
+Teorema 2.4.1, leyes de los radicales: i) (ⁿ√*x*)ⁿ = *x*.
+
+### 123
+
+De conformidad con el libro de Geometría Analítica, según la ley ii) del Teorema 2.4.1, ¿a qué es igual ⁿ√(*xⁿ*)?
+
+- A. *x* si *n* es impar, y |*x*| si *n* es par
+- B. *x* siempre
+- C. |*x*| siempre
+- D. −*x* si *n* es par
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · Teorema 2.4.1 leyes de los radicales
+
+Teorema 2.4.1, leyes de los radicales: ii) ⁿ√(*xⁿ*) = *x* si *n* es impar, |*x*| si *n* es par.
+
+### 124
+
+En relación con el libro de Geometría Analítica, según la ley iii) del Teorema 2.4.1, ¿a qué es igual ⁿ√(*xy*)?
+
+- A. ⁿ√*x* · ⁿ√*y*
+- B. ⁿ√*x* + ⁿ√*y*
+- C. ⁿ√(*x* + *y*)
+- D. ⁿ√*x* / ⁿ√*y*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · Teorema 2.4.1 leyes de los radicales
+
+Teorema 2.4.1, leyes de los radicales: iii) ⁿ√(*xy*) = ⁿ√*x* ⁿ√*y*.
+
+### 125
+
+De acuerdo con el libro de Geometría Analítica, según la ley iv) del Teorema 2.4.1, ¿a qué es igual ⁿ√(*x*/*y*)?
+
+- A. ⁿ√*x* / ⁿ√*y*
+- B. ⁿ√*x* · ⁿ√*y*
+- C. ⁿ√(*x* − *y*)
+- D. ⁿ√*y* / ⁿ√*x*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · Teorema 2.4.1 leyes de los radicales
+
+Teorema 2.4.1, leyes de los radicales: iv) ⁿ√(*x*/*y*) = ⁿ√*x* / ⁿ√*y*.
+
+### 126
+
+De conformidad con el libro de Geometría Analítica, según la ley v) del Teorema 2.4.1, ¿a qué es igual ᵐ√(ⁿ√*x*)?
+
+- A. ᵐⁿ√*x*
+- B. (*m* + *n*)√*x*
+- C. ⁿ√(ᵐ√*x*) sólo si *m* = *n*
+- D. ᵐ√*x* · ⁿ√*x*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 72
+**Subtema:** Radicales · Teorema 2.4.1 leyes de los radicales
+
+Teorema 2.4.1, leyes de los radicales: v) ᵐ√(ⁿ√*x*) = ᵐⁿ√*x*.
+
+### 127
+
+En relación con el libro de Geometría Analítica, cuando quitamos los radicales del numerador o del denominador de una fracción, ¿cómo se dice que estamos?
+
+- A. Racionalizando
+- B. Factorizando
+- C. Simplificando el índice
+- D. Conjugando
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 74
+**Subtema:** Radicales · racionalización
+
+Cuando quitamos los radicales del numerador o del denominador de una fracción, decimos que estamos racionalizando. En álgebra normalmente racionalizamos el denominador.
+
+### 128
+
+De acuerdo con el libro de Geometría Analítica, si una fracción contiene una expresión como √*x* + √*y*, ¿qué hecho se usa sobre su conjugado √*x* − √*y*?
+
+- A. Que el producto de √*x* + √*y* y su conjugado √*x* − √*y* no contiene radicales
+- B. Que la suma de √*x* + √*y* y su conjugado es cero
+- C. Que su conjugado es igual a la expresión original
+- D. Que el producto de una expresión y su conjugado duplica los radicales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 74
+**Subtema:** Radicales · factor conjugado
+
+Si una fracción contiene una expresión como √*x* + √*y*, usamos el hecho de que el producto de √*x* + √*y* y su conjugado √*x* − √*y* no contiene radicales.
