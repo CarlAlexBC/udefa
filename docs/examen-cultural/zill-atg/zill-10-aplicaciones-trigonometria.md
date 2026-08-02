@@ -50,7 +50,7 @@ El **capítulo 10** completo tiene siete secciones:
 - **§10.3 Ley de los senos** (pp. 453–456) ← este archivo lo cubre.
 - **§10.4 Ley de los cosenos** (pp. 457–460) ← este archivo lo cubre.
 - **§10.5 Movimiento armónico simple** (pp. 463–466) ← este archivo lo cubre.
-- **§10.6 Forma trigonométrica de los números complejos** ← este archivo lo cubre.
+- **§10.6 Forma trigonométrica de los números complejos** (pp. 467–470) ← este archivo lo cubre.
 - **§10.7 Potencias y raíces de números complejos** ← este archivo lo cubre.
 
 Los *Ejercicios de repaso* quedan fuera por la norma de teoría sobre práctica. Las reseñas
@@ -99,6 +99,14 @@ equilibrio, la **Definición 10.5.1** de movimiento armónico simple, y la termi
 resorte-masa: `ω=√(k/m)`, la constante de resorte, la masa, el desplazamiento y la velocidad
 iniciales, el periodo `p=2π/ω` y la frecuencia `f=ω/2π`. Los ejemplos numéricos no llevan
 reactivos.
+
+**§10.6 · CERRADO** en 13 reactivos (reactivos 49–61): **contenido genuinamente nuevo respecto a
+§3.4** (que ya cubrió la aritmética de complejos): el **plano complejo** (plano z), el eje real
+y el eje imaginario, el **módulo/magnitud/valor absoluto** `|z|=√(a²+b²)` (distancia de P al
+origen) y `|z|=√(z z̄)`, la **forma trigonométrica o polar** `z = r(cos θ + i sen θ)`, el
+**argumento** θ (`tan θ = b/a`, no determinado de forma exclusiva, convención en [0,2π) o
+0≤θ<360°) y el **Teorema 10.6.1** de producto y cociente en forma polar (multiplicar/dividir
+módulos, sumar/restar argumentos). Los ejemplos numéricos no llevan reactivos.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -843,3 +851,202 @@ De conformidad con el libro de Geometría Analítica, ¿qué indica la frecuenci
 **Subtema:** Movimiento armónico simple · frecuencia · interpretación
 
 La frecuencia indica el número de ciclos completados por la gráfica por unidad de tiempo.
+
+---
+
+## Sub-lote 6 · §10.6 Forma trigonométrica de los números complejos (pp. 467–470)
+
+### 49
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se llama el plano de coordenadas en el que se representa un número complejo z = a + bi?
+
+- A. Plano complejo (o plano z)
+- B. Plano cartesiano real
+- C. Plano polar
+- D. Plano de fases
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 467
+**Subtema:** Forma trigonométrica de los números complejos · plano complejo
+
+El plano de coordenadas ilustrado en la Figura 10.6.1 se llama plano complejo, o simplemente plano z.
+
+### 50
+
+Según el libro de Geometría Analítica, en el plano complejo, ¿cómo se denomina el eje x (horizontal)?
+
+- A. Eje real
+- B. Eje imaginario
+- C. Eje polar
+- D. Eje modular
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 467
+**Subtema:** Forma trigonométrica de los números complejos · eje real
+
+El eje x u horizontal se denomina eje real porque cada punto en ese eje representa un número real.
+
+### 51
+
+De conformidad con el libro de Geometría Analítica, ¿por qué el eje y (vertical) del plano complejo se conoce como eje imaginario?
+
+- A. Porque los puntos de dicho eje representan números imaginarios puros
+- B. Porque los puntos de dicho eje representan números reales
+- C. Porque no representa ningún número
+- D. Porque representa el módulo de z
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 467
+**Subtema:** Forma trigonométrica de los números complejos · eje imaginario
+
+El eje y o vertical se conoce como eje imaginario porque los puntos de dicho eje representan números imaginarios puros.
+
+### 52
+
+De acuerdo con el libro de Geometría Analítica, si z = a + bi y P(a, b) es su representación geométrica, la distancia de P al origen se denomina módulo, magnitud o valor absoluto de z. ¿Cómo se calcula |z|?
+
+- A. |z| = √(a² + b²)
+- B. |z| = a² + b²
+- C. |z| = √(a² − b²)
+- D. |z| = a + b
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 467
+**Subtema:** Forma trigonométrica de los números complejos · módulo
+
+La distancia de P al origen está dada por √(a² + b²). Esta distancia se denomina módulo, magnitud o valor absoluto de z y se denota con |z|: |z| = √(a² + b²).
+
+### 53
+
+Según el libro de Geometría Analítica, la distancia de P al origen (√(a² + b²)) recibe tres nombres. ¿Cuáles son?
+
+- A. Módulo, magnitud o valor absoluto
+- B. Argumento, fase o ángulo
+- C. Parte real, parte imaginaria o conjugado
+- D. Radio, amplitud o periodo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 467
+**Subtema:** Forma trigonométrica de los números complejos · nombres del módulo
+
+Esta distancia se denomina módulo, magnitud o valor absoluto de z y se denota con |z|.
+
+### 54
+
+De conformidad con el libro de Geometría Analítica, si z̄ = a − bi es el conjugado de z = a + bi, ¿de qué otra forma puede escribirse el módulo |z|?
+
+- A. |z| = √(z z̄)
+- B. |z| = z z̄
+- C. |z| = √(z + z̄)
+- D. |z| = z − z̄
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 467
+**Subtema:** Forma trigonométrica de los números complejos · módulo y conjugado
+
+Si z̄ = a − bi es el conjugado de z = a + bi, entonces z z̄ = a² + b². Por tanto, |z| también puede escribirse así: |z| = √(z z̄).
+
+### 55
+
+De acuerdo con el libro de Geometría Analítica, ¿cuál es la forma trigonométrica (o forma polar) de un número complejo z?
+
+- A. z = r(cos θ + i sen θ)
+- B. z = r(sen θ + i cos θ)
+- C. z = r(cos θ − i sen θ) siempre
+- D. z = a + bi
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 468
+**Subtema:** Forma trigonométrica de los números complejos · forma polar
+
+Decimos que z = r(cos θ + i sen θ) es la forma trigonométrica, o forma polar del número complejo z.
+
+### 56
+
+Según el libro de Geometría Analítica, en la forma trigonométrica z = r(cos θ + i sen θ), el ángulo θ es el argumento de z. ¿Qué relación satisface?
+
+- A. tan θ = b/a
+- B. tan θ = a/b
+- C. sen θ = b/a
+- D. cos θ = b/a
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 468
+**Subtema:** Forma trigonométrica de los números complejos · argumento
+
+El ángulo θ es el argumento de z y satisface tan θ = b/a.
+
+### 57
+
+De conformidad con el libro de Geometría Analítica, ¿por qué el argumento θ de un número complejo no está determinado de forma exclusiva?
+
+- A. Porque cos θ = cos(θ + 2kπ) y sen θ = sen(θ + 2kπ) para cualquier entero k
+- B. Porque el módulo puede ser negativo
+- C. Porque el número complejo no tiene parte real
+- D. Porque θ siempre es igual a arctan(b/a)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 468
+**Subtema:** Forma trigonométrica de los números complejos · argumento no exclusivo
+
+El argumento θ no está determinado de forma exclusiva, en virtud de que cos θ = cos(θ + 2kπ) y sen θ = sen(θ + 2kπ) para cualquier entero k.
+
+### 58
+
+De acuerdo con la convención del libro de Geometría Analítica, ¿en qué intervalo se toma el argumento θ de un número complejo?
+
+- A. Un ángulo en radianes en el intervalo [0, 2π] o en grados que satisface 0 ≤ θ < 360°
+- B. Un ángulo en el intervalo (−π/2, π/2)
+- C. Un ángulo en el intervalo (−π, π]
+- D. Un ángulo en grados que satisface −180° < θ ≤ 180°
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 468
+**Subtema:** Forma trigonométrica de los números complejos · convención del argumento
+
+Entenderemos que el argumento θ de un número complejo z es ya sea un ángulo medido en radianes en el intervalo [0, 2π] o un ángulo medido en grados que satisface 0 ≤ θ < 360°.
+
+### 59
+
+Según el Teorema 10.6.1 del libro de Geometría Analítica, si z₁ = r₁(cos θ₁ + i sen θ₁) y z₂ = r₂(cos θ₂ + i sen θ₂), ¿cuál es el producto z₁z₂?
+
+- A. z₁z₂ = r₁r₂[cos(θ₁ + θ₂) + i sen(θ₁ + θ₂)]
+- B. z₁z₂ = r₁r₂[cos(θ₁ − θ₂) + i sen(θ₁ − θ₂)]
+- C. z₁z₂ = (r₁/r₂)[cos(θ₁ + θ₂) + i sen(θ₁ + θ₂)]
+- D. z₁z₂ = r₁r₂[cos(θ₁ θ₂) + i sen(θ₁ θ₂)]
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 470
+**Subtema:** Forma trigonométrica de los números complejos · Teorema 10.6.1 · producto
+
+z₁z₂ = r₁r₂[cos(θ₁ + θ₂) + i sen(θ₁ + θ₂)].
+
+### 60
+
+De conformidad con el Teorema 10.6.1 del libro de Geometría Analítica, si z₁ = r₁(cos θ₁ + i sen θ₁) y z₂ = r₂(cos θ₂ + i sen θ₂), con r₂ ≠ 0, ¿cuál es el cociente z₁/z₂?
+
+- A. z₁/z₂ = (r₁/r₂)[cos(θ₁ − θ₂) + i sen(θ₁ − θ₂)]
+- B. z₁/z₂ = r₁r₂[cos(θ₁ − θ₂) + i sen(θ₁ − θ₂)]
+- C. z₁/z₂ = (r₁/r₂)[cos(θ₁ + θ₂) + i sen(θ₁ + θ₂)]
+- D. z₁/z₂ = (r₁/r₂)[cos(θ₂ − θ₁) + i sen(θ₂ − θ₁)]
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 470
+**Subtema:** Forma trigonométrica de los números complejos · Teorema 10.6.1 · cociente
+
+z₁/z₂ = (r₁/r₂)[cos(θ₁ − θ₂) + i sen(θ₁ − θ₂)], r₂ ≠ 0.
+
+### 61
+
+De acuerdo con el libro de Geometría Analítica, al multiplicar dos números complejos en forma trigonométrica, ¿qué se hace con los módulos y con los argumentos?
+
+- A. Se multiplican los módulos y se suman los argumentos
+- B. Se suman los módulos y se multiplican los argumentos
+- C. Se dividen los módulos y se restan los argumentos
+- D. Se suman los módulos y se suman los argumentos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 470
+**Subtema:** Forma trigonométrica de los números complejos · producto · regla
+
+El módulo del producto z₁z₂ es el producto de los módulos de z₁ y z₂; el argumento del producto es la suma de los argumentos de z₁ y z₂.
