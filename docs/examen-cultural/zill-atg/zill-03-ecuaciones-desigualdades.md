@@ -74,7 +74,15 @@ la norma de teoría sobre práctica.
 
 **§3.1 Ecuaciones · CERRADO** (pp. 112–115, reactivos 1–18).
 
-**Pendiente:** las secciones **§3.2 a §3.7**. Con ellas, el capítulo 3 quedará cerrado para la EMMA.
+**Sub-lote 3 (pp. 118–122, reactivos 19–23):** **§3.2 Traducción de palabras en una ecuación** (sección
+procedimental): la idea base (traducir palabras para construir una ecuación algebraica; no hay
+procedimiento único) y las fórmulas destacadas —velocidad *d* = *rt* (y sus formas *r* = *d*/*t*,
+*t* = *d*/*r*) y el principio de trabajo (*x*/*T* del trabajo en *x* unidades de tiempo)—. El recuadro de
+sugerencias y todos los Ejemplos/Ejercicios quedan fuera por la norma de teoría sobre práctica.
+
+**§3.2 Traducción de palabras en una ecuación · CERRADO** (pp. 118–122, reactivos 19–23).
+
+**Pendiente:** las secciones **§3.3 a §3.7**. Con ellas, el capítulo 3 quedará cerrado para la EMMA.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -357,3 +365,86 @@ De acuerdo con el libro de Geometría Analítica, ¿cómo se le denomina tambié
 **Subtema:** Ecuaciones · resolución (despejar) de una variable
 
 A menudo a resolver una variable se le denomina también despejar una variable.
+
+---
+
+## Sub-lote 3 · §3.2 Traducción de palabras en una ecuación — idea base y fórmulas de velocidad y trabajo (pp. 118–122)
+
+> Sección muy procedimental (planteo de problemas verbales). Por la norma de teoría sobre práctica se
+> capturan la idea base y las fórmulas destacadas; el recuadro de "Sugerencias para construir una
+> ecuación" (pasos de procedimiento) y todos los Ejemplos/Ejercicios quedan fuera.
+
+### 19
+
+De acuerdo con el libro de Geometría Analítica, como los problemas prácticos se expresan con palabras, ¿en qué consiste la idea básica para resolverlos con álgebra?
+
+- A. Traducir las palabras para construir una ecuación algebraica apropiada
+- B. Memorizar de antemano todas las fórmulas del capítulo
+- C. Resolver la ecuación sin necesidad de plantearla
+- D. Sustituir las palabras por números elegidos al azar
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 118
+**Subtema:** Traducción de palabras en una ecuación · idea básica
+
+Como estos problemas se expresan con palabras, la idea básica consiste en traducir éstas para construir una ecuación algebraica apropiada.
+
+### 20
+
+De conformidad con el libro de Geometría Analítica, ¿qué se afirma sobre el procedimiento para traducir un problema en palabras a una ecuación?
+
+- A. No hay un procedimiento único para hacer esta traducción
+- B. Existe un único procedimiento infalible para todos los casos
+- C. Sólo funciona para los problemas de edad
+- D. Nunca requiere práctica ni paciencia
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 118
+**Subtema:** Traducción de palabras en una ecuación · no hay procedimiento único
+
+Como no hay un procedimiento único para hacer esta traducción, se requiere trabajo, práctica y paciencia para adquirir pericia en la resolución de problemas de esta clase.
+
+### 21
+
+De acuerdo con el libro de Geometría Analítica, si un objeto se mueve a velocidad constante *r*, ¿con qué fórmula se obtiene la distancia *d* que recorre en *t* unidades de tiempo?
+
+- A. *d* = *rt*
+- B. *d* = *r*/*t*
+- C. *d* = *r* + *t*
+- D. *d* = *t*/*r*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 120
+**Subtema:** Traducción de palabras en una ecuación · fórmula de la distancia
+
+La distancia *d* que recorre en *t* unidades de tiempo se obtiene con la fórmula distancia = velocidad × tiempo, que expresada en símbolos es *d* = *rt*.
+
+### 22
+
+De conformidad con el libro de Geometría Analítica, ¿cuáles son otras formas de la fórmula *d* = *rt* útiles al resolver problemas de velocidad?
+
+- A. *r* = *d*/*t* y *t* = *d*/*r*
+- B. *r* = *dt* y *t* = *dr*
+- C. *r* = *t*/*d* y *t* = *r*/*d*
+- D. *r* = *d* − *t* y *t* = *d* − *r*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 120
+**Subtema:** Traducción de palabras en una ecuación · formas derivadas de d = rt
+
+Otras formas de *d* = *rt* que pueden ser útiles al resolver ciertos problemas de velocidad son *r* = *d*/*t* y *t* = *d*/*r*.
+
+### 23
+
+De acuerdo con el libro de Geometría Analítica, según el principio básico para resolver problemas de trabajo, si un individuo puede hacer todo el trabajo en *T* unidades de tiempo, ¿qué parte del trabajo termina en *x* unidades de tiempo?
+
+- A. Una parte *x*/*T* del trabajo
+- B. Una parte *T*/*x* del trabajo
+- C. Una parte *xT* del trabajo
+- D. Una parte *x* − *T* del trabajo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 122
+**Subtema:** Traducción de palabras en una ecuación · principio de los problemas de trabajo
+
+Si un individuo puede hacer todo el trabajo en *T* unidades de tiempo, entonces en *x* unidades de tiempo se termina una parte *x*/*T* del trabajo.
