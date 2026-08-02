@@ -79,8 +79,19 @@ El contenido narrativo aprovechable corre aproximadamente de la **p. 153 a la p.
   Terreros; Jacinto Canek, Cisteil, nov. 1761; el indígena Mariano, Sierra de Nayarit
   1800–01; más de 90 rebeliones indígenas).
 
-**5.1 CERRADO.** Falta todo el **5.2** (etapas de la Guerra de Independencia, a partir
-de "Las conspiraciones", p. 160).
+**5.1 CERRADO.**
+
+**5.2 en curso.** Cubierto:
+- **Sub-lote 6 · Las conspiraciones** (antesala de las etapas, pp. 160–162): conjura de
+  1563 (hijos de Hernán Cortés, Martín Cortés Zúñiga); Miguel Domínguez (1773) y Juan
+  Antonio Montenegro (1793); conjura del Ayuntamiento de la CDMX (Iturrigaray, Azcárate
+  y Primo de Verdad, golpe de Gabriel de Yermo del 15 sept 1808, Pedro de Garibay);
+  conspiración de Valladolid (sept 1809, planeada para el 21 dic, denunciada por
+  Francisco de la Concha); junta literaria de Querétaro (Miguel Domínguez, Hidalgo);
+  línea de tiempo "Crisis política".
+
+**Pendiente de 5.2:** el "Inicio" (Hidalgo, el Grito, campaña y muerte, pp. 163–167) y
+las etapas de organización (Morelos), resistencia y consumación (hasta la p. 193).
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -97,6 +108,20 @@ corregida):
   napoleónica) — omite la *ñ*.
 - **"Jean Jaques Rousseau"** por *Jean-Jacques Rousseau*, p. 155 (Revolución Francesa)
   — omite la *c*. En la misma lista, *Voltaire* y *Montesquieu* sí van bien escritos.
+
+**Erratas de dato (no de grafía) — el libro se contradice a sí mismo.** No son fallas
+de escritura, son datos equivocados. **No se escriben reactivos sobre estos datos
+falsos** (criterio de CLAUDE.md); se publican como aviso:
+
+- **"Fernando VI"** en la línea de tiempo de la p. 162 ("Carlos IV abdica a favor de
+  Fernando VI"), cuando debe ser *Fernando VII* — el mismo libro escribe *Fernando VII*
+  en la prosa de la p. 155.
+- **"17 de octubre"** en la p. 167, dentro del párrafo de la batalla de Puente de
+  Calderón que abre con "el **16 de enero de 1811**": la fecha correcta es *17 de enero*,
+  no de octubre (contradicción interna en el mismo párrafo).
+- **"26 de junio de 1881"** en la p. 167 (fusilamiento de Allende, Jiménez y los Aldama
+  en Chihuahua), cuando debe ser *1811* — Hidalgo, en el mismo párrafo, es fusilado "el
+  30 de julio de 1811".
 
 ## Decisiones de alcance de este bloque (Carlo, 1 ago 2026)
 
@@ -1146,5 +1171,264 @@ De acuerdo con el libro de Historia de México 1, ¿en qué año fue capturado y
 **Subtema:** causas internas — insurrecciones populares
 
 Fue capturado y pasado por las armas en 1801.
+
+---
+
+## Sub-lote 6 · 5.2 Las conspiraciones (antesala de las etapas, pp. 160–162)
+
+### 68
+
+De acuerdo con el libro de Historia de México 1, ¿en qué año ocurrió el primer intento de separar a la colonia del dominio español?
+
+- A. En 1563
+- B. En 1573
+- C. En 1673
+- D. En 1773
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 160
+**Subtema:** 5.2 conspiraciones
+
+El primer intento de separar a la colonia del dominio español ocurrió en 1563, cuando los hijos de Hernán Cortés participaron en una conjura contra la Corona.
+
+### 69
+
+De acuerdo con el libro de Historia de México 1, ¿quiénes participaron en la conjura de 1563 contra la Corona?
+
+- A. Los hijos de Hernán Cortés
+- B. Los frailes franciscanos
+- C. Los oidores de la Real Audiencia
+- D. Los mineros de Zacatecas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 160
+**Subtema:** 5.2 conspiraciones
+
+El primer intento de separar a la colonia del dominio español ocurrió en 1563, cuando los hijos de Hernán Cortés participaron en una conjura contra la Corona.
+
+### 70
+
+De acuerdo con el libro de Historia de México 1, ¿quién fue señalado como el principal responsable de la conjura de 1563?
+
+- A. Martín Cortés Zúñiga
+- B. Miguel Domínguez
+- C. Juan Antonio Montenegro y Arias
+- D. Gabriel de Yermo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 160
+**Subtema:** 5.2 conspiraciones
+
+Martín Cortés Zúñiga fue señalado como el principal responsable, se le aprehendió y acusó de querer convertirse en rey y separar a la colonia del reino.
+
+### 71
+
+De acuerdo con el libro de Historia de México 1, en 1773, ¿quién escribió una carta al rey de Inglaterra para solicitarle ayuda y armas para la guerra contra España, y años más tarde sería corregidor de Querétaro?
+
+- A. Miguel Domínguez
+- B. Francisco Primo de Verdad
+- C. José Mariano Michelena
+- D. Juan Francisco de Azcárate
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 160
+**Subtema:** 5.2 conspiraciones
+
+En 1773, Miguel Domínguez, quien años más tarde sería corregidor de Querétaro, escribió una carta al rey de Inglaterra para solicitarle ayuda y armas para la guerra contra España.
+
+### 72
+
+De acuerdo con el libro de Historia de México 1, en 1793, ¿quién trazó un plan para independizar a la Colonia, pero fue descubierto y encarcelado?
+
+- A. Juan Antonio Montenegro y Arias
+- B. Martín Cortés Zúñiga
+- C. Melchor de Talamantes
+- D. Ignacio Elizondo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 160
+**Subtema:** 5.2 conspiraciones
+
+La misma suerte corrió Juan Antonio Montenegro y Arias, que en 1793 trazó un plan para independizar a la Colonia; pero fue descubierto y encarcelado.
+
+### 73
+
+De acuerdo con el libro de Historia de México 1, tras la invasión de Napoleón, ¿qué se propuso el virrey José de Iturrigaray?
+
+- A. Mantener a la Colonia en estado de defensa y esperar el curso de los acontecimientos en Europa
+- B. Entregar de inmediato el Virreinato a José Bonaparte
+- C. Declarar la independencia de la Nueva España
+- D. Enviar tropas novohispanas a combatir en la península
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 160
+**Subtema:** 5.2 conspiraciones
+
+El virrey José de Iturrigaray se propuso mantener a la Colonia en estado de defensa y esperar el curso de los acontecimientos en Europa.
+
+### 74
+
+De acuerdo con el libro de Historia de México 1, ¿quiénes, del Ayuntamiento de la ciudad de México, solicitaron a Iturrigaray que convocara a una junta general?
+
+- A. El regidor Juan Francisco de Azcárate y el síndico Francisco Primo de Verdad
+- B. El corregidor Miguel Domínguez y su esposa Josefa Ortiz
+- C. El hacendado Gabriel de Yermo y el virrey Pedro de Garibay
+- D. El teniente José Mariano Michelena y el capitán José María García Obeso
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 160
+**Subtema:** 5.2 conspiraciones
+
+El regidor Juan Francisco de Azcárate y el síndico Francisco Primo de Verdad, ambos del Ayuntamiento de la ciudad de México, solicitaron a Iturrigaray que convocara a una junta general en la Nueva España.
+
+### 75
+
+De acuerdo con el libro de Historia de México 1, según la conjura del Ayuntamiento, en ausencia del monarca legítimo, ¿quién debía asumir la soberanía hasta el regreso de Fernando VII?
+
+- A. El pueblo
+- B. La Real Audiencia
+- C. El virrey
+- D. La Iglesia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 160
+**Subtema:** 5.2 conspiraciones
+
+En ausencia del monarca legítimo, el pueblo debía asumir la soberanía, hasta el regreso de Fernando VII.
+
+### 76
+
+De acuerdo con el libro de Historia de México 1, el 15 de septiembre de 1808, ¿quién encabezó al grupo de 300 españoles que destituyó a Iturrigaray?
+
+- A. El hacendado Gabriel de Yermo
+- B. El virrey Pedro de Garibay
+- C. El general Félix María Calleja
+- D. El intendente Juan Antonio Riaño
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 161
+**Subtema:** 5.2 conspiraciones
+
+El 15 de septiembre de 1808, apoyaron a un grupo de 300 españoles encabezados por el hacendado Gabriel de Yermo, que destituyeron a Iturrigaray y nombraron virrey a Pedro de Garibay.
+
+### 77
+
+De acuerdo con el libro de Historia de México 1, tras destituir a Iturrigaray, ¿a quién nombraron virrey?
+
+- A. A Pedro de Garibay
+- B. A Francisco Javier Venegas
+- C. A Francisco Javier de Lizana y Beaumount
+- D. A Félix María Calleja
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 161
+**Subtema:** 5.2 conspiraciones
+
+Destituyeron a Iturrigaray y nombraron virrey a Pedro de Garibay.
+
+### 78
+
+De acuerdo con el libro de Historia de México 1, ¿en qué mes y año se descubrió la conspiración de Valladolid?
+
+- A. En septiembre de 1809
+- B. En septiembre de 1808
+- C. En diciembre de 1810
+- D. En enero de 1811
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 161
+**Subtema:** 5.2 conspiraciones
+
+En septiembre de 1809 se descubrió la conspiración de Valladolid.
+
+### 79
+
+De acuerdo con el libro de Historia de México 1, ¿para qué fecha estaba planeado el levantamiento de la conspiración de Valladolid?
+
+- A. Para el 21 de diciembre de 1809
+- B. Para el 16 de septiembre de 1810
+- C. Para el 2 de octubre de 1810
+- D. Para el 15 de septiembre de 1808
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 161
+**Subtema:** 5.2 conspiraciones
+
+El levantamiento estaba planeado para el 21 de diciembre de 1809.
+
+### 80
+
+De acuerdo con el libro de Historia de México 1, ¿quién denunció la conspiración de Valladolid?
+
+- A. Francisco de la Concha
+- B. José Mariano Galván
+- C. Ignacio Elizondo
+- D. Gabriel de Yermo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 161
+**Subtema:** 5.2 conspiraciones
+
+Sin embargo, fue denunciada por Francisco de la Concha a los pocos días y casi todos sus miembros fueron encarcelados.
+
+### 81
+
+De acuerdo con el libro de Historia de México 1, ¿en qué se diferenciaba la conspiración de Valladolid de la conjura del Ayuntamiento de la ciudad de México?
+
+- A. Anticipaba el uso de la fuerza para lograr sus propósitos
+- B. Buscaba entregar la Colonia a Napoleón
+- C. Pretendía coronar a un rey indígena
+- D. Solicitaba ayuda al rey de Inglaterra
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 161
+**Subtema:** 5.2 conspiraciones
+
+A diferencia de la conjura del Ayuntamiento de la ciudad de México, anticipaba el uso de la fuerza para lograr sus propósitos.
+
+### 82
+
+De acuerdo con el libro de Historia de México 1, ¿en casa de quién se celebraban principalmente las reuniones de la junta literaria de Querétaro?
+
+- A. Del corregidor de Querétaro, Miguel Domínguez
+- B. Del cura de Dolores, Miguel Hidalgo
+- C. Del hacendado Gabriel de Yermo
+- D. Del virrey José de Iturrigaray
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 161
+**Subtema:** 5.2 conspiraciones
+
+Las reuniones tenían lugar en la casa del corregidor de Querétaro, Miguel Domínguez.
+
+### 83
+
+De acuerdo con el libro de Historia de México 1, además de los militares y del corregidor, ¿quién, cura de Dolores, se unió al grupo de la junta de Querétaro?
+
+- A. Miguel Hidalgo y Costilla
+- B. José María Morelos y Pavón
+- C. Ignacio López Rayón
+- D. Francisco Severo Maldonado
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 161
+**Subtema:** 5.2 conspiraciones
+
+A este grupo se les unió Ignacio Aldama, así como el cura de Dolores, Miguel Hidalgo y Costilla.
+
+### 84
+
+De acuerdo con el libro de Historia de México 1, según la línea de tiempo "Crisis política", el 23 de marzo (de 1808), ¿qué ocurrió en Europa?
+
+- A. El ejército francés ocupa Madrid
+- B. Estalla la Revolución Francesa
+- C. Se firma el Plan de Iguala
+- D. Se descubre la conspiración de Valladolid
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 162
+**Subtema:** 5.2 conspiraciones
+
+Línea de tiempo "Crisis política", Europa, 23 de marzo: el ejército francés ocupa Madrid.
 
 ---
