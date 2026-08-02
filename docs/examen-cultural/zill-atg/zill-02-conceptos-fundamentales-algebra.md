@@ -87,7 +87,18 @@ denominadores comunes, multiplicación, división) y la división de cero y por 
 **§2.1 El sistema de los números reales · CERRADO** (pp. 48–55, reactivos 1–65 junto con la
 portadilla histórica de la p. 47).
 
-**Pendiente:** las secciones **§2.2 a §2.8** (pp. 58–106). Con ellas, el capítulo 2 quedará
+**Sub-lote 4 (pp. 58–61, reactivos 66–91):** **§2.2 La recta de los números reales** completa:
+la introducción (el promedio como punto medio), la recta numérica (origen, coordenada), la
+**Definición 2.2.1** (menor que), las desigualdades (izquierda/derecha en la recta, `≤`/`≥`, la
+**ley de tricotomía**, símbolos de desigualdad, desigualdad estricta/no estricta, positivo/negativo/
+no negativo/no positivo), el **Teorema 2.2.1** (propiedad transitiva), el valor absoluto
+(**Definición 2.2.2** y **Teorema 2.2.2** con sus seis propiedades, incluida la desigualdad
+triangular), la distancia (**Definición 2.2.3**, `d(a,b)=|b−a|`, `d(a,b)=d(b,a)`) y la coordenada
+del punto medio (`m=(a+b)/2`). Las pp. 62–63 son *Ejercicios* y quedan fuera.
+
+**§2.2 La recta de los números reales · CERRADO** (pp. 58–61, reactivos 66–91).
+
+**Pendiente:** las secciones **§2.3 a §2.8** (pp. 64–106). Con ellas, el capítulo 2 quedará
 cerrado para la EMMA.
 
 ## Criterio: teoría sobre práctica
@@ -1087,3 +1098,397 @@ En relación con el libro de Geometría Analítica, en la simplificación de 2(*
 **Subtema:** El sistema de los números reales · notas del aula
 
 No se puede realizar ninguna cancelación en la simplificación de 2(*u* + *v*)/2*v* = (*u* + *v*)/*v*, pues *v* no es factor multiplicativo tanto del numerador como del denominador, como lo requiere la ley de cancelación 9ii).
+
+---
+
+## Sub-lote 4 · §2.2 La recta de los números reales (pp. 58–61)
+
+### 66
+
+De acuerdo con el libro de Geometría Analítica, para dos números reales distintos *a* y *b*, ¿qué siempre hay entre ellos?
+
+- A. Un tercer número real, por ejemplo su promedio (*a* + *b*)/2, que es el punto medio entre ellos
+- B. Un número entero
+- C. Un único número irracional
+- D. Ningún otro número real
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 58
+**Subtema:** La recta de los números reales · introducción
+
+Para dos números reales distintos *a* y *b*, siempre hay un tercer número real entre ellos; por ejemplo, su promedio (*a* + *b*)/2 es el punto medio entre ellos.
+
+### 67
+
+De conformidad con el libro de Geometría Analítica, el punto *O* que se escoge sobre una recta para representar el número 0, ¿cómo se llama?
+
+- A. Origen
+- B. Coordenada
+- C. Punto medio
+- D. Unidad
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 58
+**Subtema:** La recta de los números reales · recta numérica
+
+Dada cualquier recta, escogemos un punto *O* sobre ella para representar el número 0. Este punto en particular se llama origen.
+
+### 68
+
+En relación con el libro de Geometría Analítica, la correspondencia uno a uno entre el conjunto de números reales *R* y el conjunto de puntos de una recta, ¿cómo se llama?
+
+- A. Recta de los números reales o recta numérica real
+- B. Ley de tricotomía
+- C. Coordenada del origen
+- D. Segmento unitario
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 58
+**Subtema:** La recta de los números reales · recta numérica
+
+Esta asociación produce una correspondencia uno a uno entre el conjunto de números reales *R* y el conjunto de puntos de una recta, llamada recta de los números reales o recta numérica real.
+
+### 69
+
+De acuerdo con el libro de Geometría Analítica, para un punto *P* dado en la recta numérica, el número *p* que corresponde a ese punto, ¿cómo se llama?
+
+- A. Coordenada de *P*
+- B. Origen de *P*
+- C. Valor absoluto de *P*
+- D. Punto medio de *P*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 58
+**Subtema:** La recta de los números reales · recta numérica
+
+Para cualquier punto *P* dado en la recta numérica, el número *p*, que corresponde a ese punto, se llama coordenada de *P*.
+
+### 70
+
+De conformidad con el libro de Geometría Analítica, según la Definición 2.2.1, ¿cuándo se dice que el número real *a* es menor que *b* (*a* < *b*)?
+
+- A. Si y sólo si la diferencia *b* − *a* es positiva
+- B. Si y sólo si la diferencia *a* − *b* es positiva
+- C. Si y sólo si el producto *ab* es positivo
+- D. Si y sólo si la suma *a* + *b* es positiva
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 58
+**Subtema:** La recta de los números reales · Definición 2.2.1 menor que
+
+Se dice que el número real *a* es menor que *b*, lo que se escribe *a* < *b*, si y sólo si la diferencia *b* − *a* es positiva.
+
+### 71
+
+En relación con el libro de Geometría Analítica, ¿cuándo se dice que el número *a* es menor que el número *b* en la recta numérica?
+
+- A. Siempre que el número *a* se sitúe a la izquierda del número *b*
+- B. Siempre que el número *a* se sitúe a la derecha del número *b*
+- C. Siempre que *a* y *b* coincidan en el mismo punto
+- D. Siempre que *a* sea el origen
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 59
+**Subtema:** La recta de los números reales · desigualdades
+
+Decimos que el número *a* es menor que el número *b*, y escribimos *a* < *b*, siempre que el número *a* se sitúe a la izquierda del número *b* en la recta numérica.
+
+### 72
+
+De acuerdo con el libro de Geometría Analítica, ¿qué significa la notación *a* ≤ *b*?
+
+- A. Que el número *a* es menor o igual al número *b*
+- B. Que el número *a* es mayor que el número *b*
+- C. Que el número *a* es igual al número *b*
+- D. Que el número *a* es el negativo de *b*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 59
+**Subtema:** La recta de los números reales · desigualdades
+
+También empleamos la notación *a* ≤ *b* si el número *a* es menor o igual al número *b*. Asimismo, *b* ≥ *a* significa que *b* es mayor o igual a *a*.
+
+### 73
+
+De conformidad con el libro de Geometría Analítica, según la ley de tricotomía, para dos números reales cualesquiera *a* y *b*, ¿cuántas de las expresiones *a* < *b*, *a* = *b* o *a* > *b* son verdaderas?
+
+- A. Sólo una de las tres es verdadera
+- B. Las tres son verdaderas
+- C. Dos de las tres son verdaderas
+- D. Ninguna es verdadera
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 59
+**Subtema:** La recta de los números reales · ley de tricotomía
+
+Para dos números reales cualesquiera *a* y *b*, sólo una de las tres expresiones siguientes es verdadera: *a* < *b*, *a* = *b* o *a* > *b*. La propiedad dada en (1) se llama ley de tricotomía.
+
+### 74
+
+En relación con el libro de Geometría Analítica, ¿cómo se llaman los símbolos <, >, ≤ y ≥?
+
+- A. Símbolos de desigualdad
+- B. Símbolos de igualdad
+- C. Símbolos de valor absoluto
+- D. Símbolos de tricotomía
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 59
+**Subtema:** La recta de los números reales · terminología
+
+Los símbolos <, >, ≤ y ≥ se llaman símbolos de desigualdad y las expresiones como *a* < *b* o *b* ≥ *a* se denominan desigualdades.
+
+### 75
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se conoce a menudo una desigualdad como *a* < *b*?
+
+- A. Desigualdad estricta
+- B. Desigualdad no estricta
+- C. Ley de tricotomía
+- D. Desigualdad triangular
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 59
+**Subtema:** La recta de los números reales · terminología
+
+Una desigualdad *a* < *b* a menudo se conoce como desigualdad estricta.
+
+### 76
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se designa una desigualdad como *b* ≥ *a*?
+
+- A. Desigualdad no estricta
+- B. Desigualdad estricta
+- C. Desigualdad triangular
+- D. Igualdad
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 59
+**Subtema:** La recta de los números reales · terminología
+
+Una desigualdad como *b* ≥ *a* se designa desigualdad no estricta.
+
+### 77
+
+En relación con el libro de Geometría Analítica, ¿qué significa la desigualdad *a* > 0?
+
+- A. Que *a* está a la derecha del número 0 en la recta numérica y, en consecuencia, *a* es positivo
+- B. Que *a* está a la izquierda del 0 y es negativo
+- C. Que *a* es igual a 0
+- D. Que *a* no es positivo ni negativo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 59
+**Subtema:** La recta de los números reales · terminología
+
+La desigualdad *a* > 0 significa que el número *a* está a la derecha del número 0 en la recta numérica y, en consecuencia, *a* es positivo.
+
+### 78
+
+De acuerdo con el libro de Geometría Analítica, como la desigualdad *a* ≥ 0 significa que *a* es mayor que 0 o igual a 0, ¿cómo se dice que es *a*?
+
+- A. No negativo
+- B. No positivo
+- C. Negativo
+- D. Estrictamente positivo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 59
+**Subtema:** La recta de los números reales · terminología
+
+Como la desigualdad *a* ≥ 0 significa que *a* es mayor que 0 (positivo) o igual a 0 (que no es positivo ni negativo), decimos que *a* es no negativo.
+
+### 79
+
+De conformidad con el libro de Geometría Analítica, si *a* ≤ 0, ¿cómo se dice que es *a*?
+
+- A. No positivo
+- B. No negativo
+- C. Positivo
+- D. Estrictamente negativo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 59
+**Subtema:** La recta de los números reales · terminología
+
+De manera semejante, si *a* ≤ 0, decimos que *a* es no positivo.
+
+### 80
+
+En relación con el libro de Geometría Analítica, según el Teorema 2.2.1 (propiedad transitiva), si *a* < *b* y *b* < *c*, ¿qué se concluye?
+
+- A. Que *a* < *c*
+- B. Que *a* = *c*
+- C. Que *a* > *c*
+- D. Que *b* < *a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 59
+**Subtema:** La recta de los números reales · Teorema 2.2.1 propiedad transitiva
+
+Teorema 2.2.1, propiedad transitiva: Si *a* < *b* y *b* < *c*, entonces *a* < *c*.
+
+### 81
+
+De acuerdo con el libro de Geometría Analítica, según la Definición 2.2.2, ¿cómo se define el valor absoluto |*a*| de cualquier número real *a*?
+
+- A. |*a*| = *a* si *a* ≥ 0, y |*a*| = −*a* si *a* < 0
+- B. |*a*| = *a* siempre
+- C. |*a*| = −*a* si *a* ≥ 0, y |*a*| = *a* si *a* < 0
+- D. |*a*| = *a*² para todo *a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 59
+**Subtema:** La recta de los números reales · Definición 2.2.2 valor absoluto
+
+Para cualquier número real *a*, el valor absoluto de *a*, denotado por |*a*|, es: |*a*| = *a*, si *a* ≥ 0; −*a*, si *a* < 0.
+
+### 82
+
+De conformidad con el libro de Geometría Analítica, si *y* representa un número negativo, ¿a qué es igual |*y*|?
+
+- A. |*y*| = −*y*, que es un número positivo
+- B. |*y*| = *y*
+- C. |*y*| = 0
+- D. |*y*| = *y*²
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 60
+**Subtema:** La recta de los números reales · valor absoluto
+
+Si *y* representa un número negativo, entonces el negativo de *y*, es decir, −*y* es un número positivo. Por tanto, si *y* es negativo, entonces |*y*| = −*y*.
+
+### 83
+
+En relación con el libro de Geometría Analítica, para cualquier número real *x* y su negativo −*x*, como la distancia al origen es la misma, ¿qué se cumple?
+
+- A. |*x*| = |−*x*|
+- B. |*x*| = −|*x*|
+- C. |*x*| = *x*
+- D. |*x*| = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 60
+**Subtema:** La recta de los números reales · valor absoluto
+
+Para cualquier número real *x* y su negativo, −*x*, la distancia al origen es la misma. Es decir, |*x*| = |−*x*|.
+
+### 84
+
+De acuerdo con el libro de Geometría Analítica, según el Teorema 2.2.2, ¿qué se cumple siempre para el valor absoluto |*x*| de un número real?
+
+- A. |*x*| ≥ 0
+- B. |*x*| ≤ 0
+- C. |*x*| < 0
+- D. |*x*| = *x*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 60
+**Subtema:** La recta de los números reales · Teorema 2.2.2 propiedades del valor absoluto
+
+Teorema 2.2.2, propiedades del valor absoluto: i) |*x*| ≥ 0.
+
+### 85
+
+De conformidad con el libro de Geometría Analítica, según el Teorema 2.2.2, ¿cuándo se cumple que |*x*| = 0?
+
+- A. Si y sólo si *x* = 0
+- B. Si y sólo si *x* > 0
+- C. Siempre, para todo *x*
+- D. Si y sólo si *x* < 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 60
+**Subtema:** La recta de los números reales · Teorema 2.2.2 propiedades del valor absoluto
+
+Teorema 2.2.2, propiedades del valor absoluto: ii) |*x*| = 0 si y sólo si *x* = 0.
+
+### 86
+
+En relación con el libro de Geometría Analítica, según el Teorema 2.2.2, ¿a qué es igual el valor absoluto de un producto |*xy*|?
+
+- A. |*xy*| = |*x*||*y*|
+- B. |*xy*| = |*x*| + |*y*|
+- C. |*xy*| = |*x*|/|*y*|
+- D. |*xy*| = |*x*| − |*y*|
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 60
+**Subtema:** La recta de los números reales · Teorema 2.2.2 propiedades del valor absoluto
+
+Teorema 2.2.2, propiedades del valor absoluto: iv) |*xy*| = |*x*||*y*|. La propiedad iv) dice que el valor absoluto de un producto es igual al producto de los valores absolutos de los dos factores.
+
+### 87
+
+De acuerdo con el libro de Geometría Analítica, según el Teorema 2.2.2, ¿qué relación cumple |*x* + *y*|?
+
+- A. |*x* + *y*| ≤ |*x*| + |*y*|
+- B. |*x* + *y*| = |*x*| + |*y*|
+- C. |*x* + *y*| ≥ |*x*| + |*y*|
+- D. |*x* + *y*| = |*x*| · |*y*|
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 60
+**Subtema:** La recta de los números reales · Teorema 2.2.2 propiedades del valor absoluto
+
+Teorema 2.2.2, propiedades del valor absoluto: vi) |*x* + *y*| ≤ |*x*| + |*y*|.
+
+### 88
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se llama la propiedad del inciso vi) del Teorema 2.2.2?
+
+- A. Desigualdad triangular
+- B. Ley de tricotomía
+- C. Propiedad transitiva
+- D. Regla de los signos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 61
+**Subtema:** La recta de los números reales · desigualdad triangular
+
+El inciso vi) del teorema 2.2.2 es una propiedad importante del valor absoluto llamada desigualdad triangular.
+
+### 89
+
+En relación con el libro de Geometría Analítica, según la Definición 2.2.3, si *a* y *b* son dos puntos en la recta de los números reales, ¿cómo está dada la distancia de *a* a *b*?
+
+- A. *d*(*a*, *b*) = |*b* − *a*|
+- B. *d*(*a*, *b*) = *b* − *a*
+- C. *d*(*a*, *b*) = |*b*| − |*a*|
+- D. *d*(*a*, *b*) = (*a* + *b*)/2
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 61
+**Subtema:** La recta de los números reales · Definición 2.2.3 distancia
+
+Si *a* y *b* son dos puntos en la recta de los números reales, la distancia de *a* a *b* está dada por *d*(*a*, *b*) = |*b* − *a*|.
+
+### 90
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo es la distancia de *a* a *b* comparada con la distancia de *b* a *a*?
+
+- A. *d*(*a*, *b*) = *d*(*b*, *a*)
+- B. *d*(*a*, *b*) = −*d*(*b*, *a*)
+- C. *d*(*a*, *b*) = 2 *d*(*b*, *a*)
+- D. *d*(*a*, *b*) > *d*(*b*, *a*)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 61
+**Subtema:** La recta de los números reales · distancia
+
+Vemos que la distancia de *a* a *b* es la misma que la distancia de *b* a *a*. Así, *d*(*a*, *b*) = *d*(*b*, *a*).
+
+### 91
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se obtiene el punto medio *m* de un segmento de recta que une a *a* y *b*?
+
+- A. Es el promedio de los dos extremos: *m* = (*a* + *b*)/2
+- B. Es la diferencia de los dos extremos: *m* = *b* − *a*
+- C. Es el valor absoluto de la suma: *m* = |*a* + *b*|
+- D. Es el producto de los dos extremos: *m* = *ab*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 61
+**Subtema:** La recta de los números reales · coordenada del punto medio
+
+El punto medio *m* de un segmento de recta que une a *a* y *b* es el promedio de los dos extremos: *m* = (*a* + *b*)/2.
