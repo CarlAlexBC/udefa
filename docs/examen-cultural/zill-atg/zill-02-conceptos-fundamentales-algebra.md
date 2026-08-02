@@ -170,8 +170,14 @@ Ejemplos 1–11 y los *Ejercicios* de las pp. 92–97 quedan fuera por la norma 
 
 **§2.7 Factorización de polinomios · CERRADO** (pp. 92–96, reactivos 178–195).
 
-**Pendiente:** la sección **§2.8 Expresiones racionales** (pp. 98–106). Con ella, el capítulo 2 quedará
-cerrado para la EMMA.
+**Sub-lote 14 (pp. 98–99, reactivos 196–204):** la apertura de **§2.8 Expresiones racionales**: la
+definición de expresión racional (cociente de dos polinomios), su dominio (los reales donde el denominador
+no es cero), las cuatro **propiedades frecuentes de las fracciones** (cancelación, suma/resta,
+multiplicación y división, con denominadores no nulos) y la simplificación por factorización y cancelación.
+
+**Pendiente de §2.8:** pp. 100–103 (el **mínimo común denominador**, la suma/resta y la multiplicación y
+división de expresiones racionales, y las **expresiones fraccionarias** y su simplificación). Con ello, el
+capítulo 2 quedará cerrado para la EMMA.
 
 ## Criterio: teoría sobre práctica
 
@@ -3176,3 +3182,142 @@ De conformidad con el libro de Geometría Analítica, ¿qué significa que una e
 **Subtema:** Factorización de polinomios · factorización total
 
 Necesitamos que una expresión sea factorizada totalmente, es decir, hasta que ninguno de los factores se puedan factorizar en polinomios de grado 1 o mayor con coeficientes enteros.
+
+---
+
+## Sub-lote 14 · §2.8 Expresiones racionales — definición, dominio y propiedades de las fracciones (pp. 98–99)
+
+### 196
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se llama el cociente de dos polinomios?
+
+- A. Expresión racional
+- B. Expresión fraccionaria
+- C. Monomio
+- D. Expresión radical
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 98
+**Subtema:** Expresiones racionales · definición
+
+El cociente de dos polinomios se llama expresión racional.
+
+### 197
+
+De conformidad con el libro de Geometría Analítica, cuando un polinomio se divide entre otro, ¿qué se puede afirmar del resultado?
+
+- A. No es necesariamente un polinomio
+- B. Siempre es un polinomio
+- C. Siempre es un monomio
+- D. Nunca es un número real
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 98
+**Subtema:** Expresiones racionales · cociente de polinomios
+
+Cuando un polinomio se divide entre otro, el resultado no es necesariamente un polinomio.
+
+### 198
+
+En relación con el libro de Geometría Analítica, ¿de qué consta el dominio de la variable en una expresión racional?
+
+- A. De todos los números reales para los que el valor del denominador es diferente de cero
+- B. De todos los números reales para los que el valor del numerador es diferente de cero
+- C. De todos los números reales sin excepción
+- D. De todos los números enteros para los que el denominador es positivo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 98
+**Subtema:** Expresiones racionales · dominio
+
+El dominio de la variable en una expresión racional consta de todos los números reales para los que el valor del denominador es diferente de cero.
+
+### 199
+
+De acuerdo con el libro de Geometría Analítica, según la propiedad de cancelación, ¿a qué es igual *ac*/*bc* (con *c* ≠ 0)?
+
+- A. *a*/*b*
+- B. *a*/*c*
+- C. *ab*/*c*
+- D. (*a* + *c*)/(*b* + *c*)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 99
+**Subtema:** Expresiones racionales · propiedad de cancelación
+
+Cancelación: *ac*/*bc* = *a*/*b*, *c* ≠ 0.
+
+### 200
+
+De conformidad con el libro de Geometría Analítica, según la propiedad de suma o resta de fracciones, ¿a qué es igual *a*/*b* ± *c*/*b*?
+
+- A. (*a* ± *c*)/*b*
+- B. (*a* ± *c*)/(2*b*)
+- C. (*a* ± *c*)/*b*²
+- D. *ac*/*b*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 99
+**Subtema:** Expresiones racionales · suma o resta de fracciones
+
+Suma o resta: *a*/*b* ± *c*/*b* = (*a* ± *c*)/*b*.
+
+### 201
+
+En relación con el libro de Geometría Analítica, según la propiedad de multiplicación de fracciones, ¿a qué es igual (*a*/*b*) · (*c*/*d*)?
+
+- A. *ac*/*bd*
+- B. *ad*/*bc*
+- C. (*a* + *c*)/(*b* + *d*)
+- D. *ac*/(*b* + *d*)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 99
+**Subtema:** Expresiones racionales · multiplicación de fracciones
+
+Multiplicación: (*a*/*b*) · (*c*/*d*) = *ac*/*bd*.
+
+### 202
+
+De acuerdo con el libro de Geometría Analítica, según la propiedad de división de fracciones, ¿a qué es igual (*a*/*b*) ÷ (*c*/*d*)?
+
+- A. (*a*/*b*) · (*d*/*c*) = *ad*/*bc*
+- B. (*a*/*b*) · (*c*/*d*) = *ac*/*bd*
+- C. *ac*/*bd*
+- D. (*a* · *c*)/(*b* · *d*)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 99
+**Subtema:** Expresiones racionales · división de fracciones
+
+División: (*a*/*b*) ÷ (*c*/*d*) = (*a*/*b*) · (*d*/*c*) = *ad*/*bc*.
+
+### 203
+
+De conformidad con el libro de Geometría Analítica, ¿bajo qué condición son válidas las propiedades frecuentes de las fracciones (cancelación, suma, multiplicación y división)?
+
+- A. Siempre que cada denominador sea diferente de cero
+- B. Siempre que cada numerador sea diferente de cero
+- C. Sólo cuando los denominadores son iguales entre sí
+- D. Sólo cuando los numeradores son números enteros
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 99
+**Subtema:** Expresiones racionales · condición de las propiedades
+
+Estas propiedades son válidas siempre que cada denominador sea diferente de cero.
+
+### 204
+
+En relación con el libro de Geometría Analítica, para simplificar una expresión racional, ¿qué se hace?
+
+- A. Factorizar el numerador y el denominador y cancelar los factores comunes usando la propiedad de cancelación
+- B. Sumar el numerador y el denominador y dividir el resultado entre dos
+- C. Elevar al cuadrado el numerador y el denominador
+- D. Multiplicar el numerador y el denominador por su conjugado
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 99
+**Subtema:** Expresiones racionales · simplificación
+
+Factorizamos el numerador y el denominador y cancelamos los factores comunes usando la propiedad de cancelación.
