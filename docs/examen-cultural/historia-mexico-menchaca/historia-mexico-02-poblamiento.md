@@ -4475,7 +4475,7 @@ Los mexicas tuvieron una religión politeísta en la que los principales dioses 
 
 ### 286
 
-De acuerdo con el libro de Historia de México 1, ¿cuál era uno de los principales dioses de los mexicas?
+De acuerdo con el libro de Historia de México 1, ¿cuál de las siguientes deidades era uno de los principales dioses de los mexicas?
 
 - A. Tonatiuh
 - B. Curicaueri
@@ -4490,7 +4490,7 @@ Los mexicas tuvieron una religión politeísta en la que los principales dioses 
 
 ### 287
 
-De acuerdo con el libro de Historia de México 1, ¿cuál era uno de los principales dioses de los mexicas?
+De conformidad con el libro de Historia de México 1, ¿cuál de los siguientes era uno de los principales dioses de los mexicas?
 
 - A. Coatlicue
 - B. Xataranga
@@ -4505,7 +4505,7 @@ Los mexicas tuvieron una religión politeísta en la que los principales dioses 
 
 ### 288
 
-De acuerdo con el libro de Historia de México 1, ¿cuál era uno de los principales dioses de los mexicas?
+En relación con el libro de Historia de México 1, ¿cuál de estos nombres era uno de los principales dioses de los mexicas?
 
 - A. Xochipilli
 - B. Thares Upeme
@@ -4520,7 +4520,7 @@ Los mexicas tuvieron una religión politeísta en la que los principales dioses 
 
 ### 289
 
-De acuerdo con el libro de Historia de México 1, ¿cuál era uno de los principales dioses de los mexicas?
+De acuerdo con el libro de Historia de México 1, ¿cuál de las siguientes era una de las principales divinidades de los mexicas?
 
 - A. Chalchihutlicue
 - B. Curicaueri
