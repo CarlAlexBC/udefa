@@ -51,7 +51,7 @@ El **capítulo 11** completo tiene cinco secciones:
 
 - **§11.1 La parábola** (pp. 482–486) ← este archivo lo cubre.
 - **§11.2 La elipse** (pp. 489–493) ← este archivo lo cubre.
-- **§11.3 La hipérbola** ← este archivo lo cubre.
+- **§11.3 La hipérbola** (pp. 495–500) ← este archivo lo cubre.
 - **§11.4 Rotación de ejes** ← este archivo lo cubre.
 - **§11.5 Ecuaciones paramétricas** ← este archivo lo cubre.
 
@@ -76,9 +76,23 @@ la forma normal con centro en (h,k), el significado de a, b y c (distancias del 
 vértice, al extremo del eje menor y al foco), la **excentricidad** `e=c/a` (con 0<e<1) y su
 interpretación, la propiedad reflectora (de foco a foco) y la primera ley de Kepler.
 
+**§11.3 · CERRADO** en 17 reactivos (reactivos 35–51): la **Definición 11.3.1** (hipérbola por
+diferencia de distancias; focos; centro), la relación con la elipse (suma→diferencia), las dos
+ramas, las formas normales con centro en (0,0) (`x²/a²−y²/b²=1`) y la relación `b²=c²−a²`, la
+precaución (a² siempre bajo el término positivo), el eje transversal y los vértices (longitud
+2a), el eje conjugado, las asíntotas (`y=±(b/a)x`) con su método nemotécnico y el rectángulo
+auxiliar, la forma normal con centro en (h,k), y la **excentricidad** `e=c/a` (con `c=√(a²+b²)`,
+`e>1`). Ver aviso de errata abajo.
+
 ## Avisos al aspirante (erratas del libro)
 
-_Ninguno detectado por ahora en este capítulo._
+- **§11.3, p. 500 (excentricidad de la hipérbola).** El libro escribe: "Ya que 0 < a < √(a²+b²),
+  la excentricidad de una **elipse** satisface e > 1." Es una **errata**: debe decir
+  **hipérbola**. Una elipse tiene 0 < e < 1; es la hipérbola la que satisface e > 1, y todo el
+  párrafo está definiendo la excentricidad de la hipérbola (con c = √(a²+b²)). Verificado por
+  recorte a 600 dpi de la hoja 517. En el reactivo 51 se usa la forma **correcta** (la
+  excentricidad de una **hipérbola** satisface e > 1), igual que se hizo con la errata del
+  capítulo 2 (suma/diferencia de cubos).
 
 ---
 
@@ -597,3 +611,262 @@ De conformidad con el libro de Geometría Analítica, según la primera ley de K
 **Subtema:** La elipse · primera ley de Kepler
 
 Usando su ley de la gravitación universal, Isaac Newton demostró por primera vez la primera ley de Kepler del movimiento planetario. La órbita de cada planeta alrededor del Sol es una elipse con el Sol en uno de sus focos.
+
+---
+
+## Sub-lote 3 · §11.3 La hipérbola (pp. 495–500)
+
+### 35
+
+Según la Definición 11.3.1 del libro de Geometría Analítica, ¿qué es una hipérbola?
+
+- A. El conjunto de puntos P(x, y) en el plano tal que la diferencia de las distancias entre P y dos puntos fijos F₁ y F₂ es constante
+- B. El conjunto de puntos cuya suma de distancias a dos puntos fijos es constante
+- C. El conjunto de puntos equidistantes a una recta fija y a un punto fijo
+- D. El conjunto de puntos que equidistan de un punto fijo llamado centro
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 495
+**Subtema:** La hipérbola · Definición 11.3.1
+
+Una hipérbola es el conjunto de puntos P(x, y) en el plano, tal que la diferencia de las distancias entre P y dos puntos fijos F₁ y F₂ es constante.
+
+### 36
+
+De acuerdo con el libro de Geometría Analítica, ¿en qué se diferencia la definición de la hipérbola de la definición de la elipse?
+
+- A. La palabra "suma" se cambia a la palabra "diferencia"
+- B. La palabra "diferencia" se cambia a la palabra "suma"
+- C. Se cambia "punto fijo" por "recta fija"
+- D. No hay ninguna diferencia entre ambas definiciones
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 495
+**Subtema:** La hipérbola · relación con la elipse
+
+La definición de la hipérbola es básicamente igual que la definición de la elipse, y la única excepción es que la palabra suma se cambia a la palabra diferencia.
+
+### 37
+
+De conformidad con la Definición 11.3.1 del libro de Geometría Analítica, ¿cómo se llaman los dos puntos fijos F₁ y F₂ de una hipérbola?
+
+- A. Focos
+- B. Vértices
+- C. Directrices
+- D. Asíntotas
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 495
+**Subtema:** La hipérbola · focos
+
+Los puntos fijos F₁ y F₂ se llaman focos.
+
+### 38
+
+Según la Definición 11.3.1 del libro de Geometría Analítica, ¿cómo se llama el punto medio del segmento de la recta que une los focos F₁ y F₂ de una hipérbola?
+
+- A. Centro
+- B. Vértice
+- C. Foco principal
+- D. Origen del eje transversal
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 495
+**Subtema:** La hipérbola · centro
+
+El punto medio del segmento de la recta que une los puntos F₁ y F₂ se llama centro.
+
+### 39
+
+De acuerdo con el libro de Geometría Analítica, ¿de cuántas ramas consta una hipérbola?
+
+- A. Dos ramas
+- B. Una rama
+- C. Tres ramas
+- D. Cuatro ramas
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 495
+**Subtema:** La hipérbola · ramas
+
+Como se ve en la Figura 11.3.1, una hipérbola consta de dos ramas.
+
+### 40
+
+Según el libro de Geometría Analítica, ¿cuál es la forma normal de la ecuación de una hipérbola con centro en (0, 0) y focos en (−c, 0) y (c, 0)?
+
+- A. x²/a² − y²/b² = 1
+- B. x²/a² + y²/b² = 1
+- C. y²/a² − x²/b² = 1
+- D. x²/b² − y²/a² = 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 496
+**Subtema:** La hipérbola · forma normal (focos en eje x)
+
+La ecuación x²/a² − y²/b² = 1 se llama forma normal de la ecuación de una hipérbola con centro en (0, 0) y focos en (−c, 0) y (c, 0), y c se define por b² = c² − a².
+
+### 41
+
+De conformidad con el libro de Geometría Analítica, en la forma normal de la hipérbola, ¿cómo se relacionan a, b y c?
+
+- A. b² = c² − a²
+- B. b² = a² − c²
+- C. c² = a² − b²
+- D. b² = a² + c²
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 496
+**Subtema:** La hipérbola · relación entre a, b y c
+
+Si se hace que b² = c² − a², la ecuación se transforma en la forma normal. Aquí c > a.
+
+### 42
+
+De acuerdo con la precaución del libro de Geometría Analítica, en la forma normal de la hipérbola (a diferencia de la elipse), ¿qué se cumple respecto a a² y b²?
+
+- A. No hay relación entre los tamaños de a y b; a² siempre es el denominador del término positivo
+- B. Siempre a² es mayor que b²
+- C. Siempre b² es mayor que a²
+- D. a² y b² siempre son iguales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 496
+**Subtema:** La hipérbola · precaución (a² y b²)
+
+En el caso de la hipérbola, a diferencia de la elipse, no hay relación entre los tamaños relativos de a y b; más bien a² siempre es el denominador del término positivo, y las intersecciones con los ejes coordenados siempre tienen ±a como una coordenada.
+
+### 43
+
+Según el libro de Geometría Analítica, ¿cómo se llama el segmento de recta con los extremos en la hipérbola y que está en la línea que pasa por los focos?
+
+- A. Eje transversal
+- B. Eje conjugado
+- C. Directriz
+- D. Cuerda focal
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 496
+**Subtema:** La hipérbola · eje transversal
+
+El segmento de recta con los extremos en la hipérbola, y que está en la línea que pasa por los focos, se llama eje transversal; sus extremos se llaman vértices de la hipérbola.
+
+### 44
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se llaman los extremos del eje transversal de una hipérbola y cuál es su longitud?
+
+- A. Se llaman vértices y la longitud del eje transversal es 2a
+- B. Se llaman focos y la longitud del eje transversal es 2c
+- C. Se llaman vértices y la longitud del eje transversal es 2b
+- D. Se llaman centros y la longitud del eje transversal es a
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 496
+**Subtema:** La hipérbola · vértices y longitud del eje transversal
+
+Sus extremos se llaman vértices de la hipérbola; la longitud del eje transversal es 2a.
+
+### 45
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se llama el segmento de recta que pasa por el centro de la hipérbola, es perpendicular al eje transversal y cuyos extremos están en (0, −b) y (0, b)?
+
+- A. Eje conjugado
+- B. Eje transversal
+- C. Asíntota
+- D. Directriz
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 497
+**Subtema:** La hipérbola · eje conjugado
+
+El segmento de recta que pasa por el centro de la hipérbola y es perpendicular al eje transversal, cuyos extremos están en (0, −b) y (0, b) se llama eje conjugado.
+
+### 46
+
+Según el libro de Geometría Analítica, ¿qué posee toda hipérbola y por dónde pasan?
+
+- A. Un par de asíntotas oblicuas que pasan por su centro
+- B. Un par de directrices que pasan por sus focos
+- C. Una sola asíntota que pasa por un vértice
+- D. Un par de ejes de simetría que no pasan por el centro
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 497
+**Subtema:** La hipérbola · asíntotas
+
+Toda hipérbola posee un par de asíntotas oblicuas, que pasan por su centro.
+
+### 47
+
+De conformidad con el libro de Geometría Analítica, ¿cuáles son las asíntotas oblicuas de la hipérbola x²/a² − y²/b² = 1?
+
+- A. y = (b/a)x y y = −(b/a)x
+- B. y = (a/b)x y y = −(a/b)x
+- C. y = (b/a)x + c y y = −(b/a)x − c
+- D. y = ax y y = −ax
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 497
+**Subtema:** La hipérbola · asíntotas de la forma (4)
+
+Para grandes valores de |x|, los puntos en la gráfica de la hipérbola se acercan a los puntos en las rectas y = (b/a)x y y = −(b/a)x.
+
+### 48
+
+Según el libro de Geometría Analítica, ¿cuál es el método nemotécnico para obtener las asíntotas de una hipérbola?
+
+- A. Sustituir 1 por 0 en la forma normal de la ecuación, factorizar y despejar y
+- B. Sustituir 0 por 1 en la forma normal y despejar x
+- C. Igualar la ecuación al doble del término positivo
+- D. Derivar la ecuación de la hipérbola
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 498
+**Subtema:** La hipérbola · método nemotécnico de las asíntotas
+
+Las asíntotas de la hipérbola (4) se obtienen con una sola ecuación x²/a² − y²/b² = 0; al igualar cada factor a cero y despejar y se obtiene la ecuación de una asíntota.
+
+### 49
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se denomina el rectángulo cuyas diagonales prolongadas son las asíntotas de la hipérbola, con 2a de ancho (el eje transversal) y 2b de altura (el eje conjugado)?
+
+- A. Rectángulo auxiliar
+- B. Rectángulo focal
+- C. Rectángulo director
+- D. Rectángulo conjugado
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 497
+**Subtema:** La hipérbola · rectángulo auxiliar
+
+Las asíntotas sólo son las diagonales prolongadas de un rectángulo de 2a de ancho (la longitud del eje transversal) y 2b de altura (la longitud del eje conjugado). Este rectángulo se denomina rectángulo auxiliar.
+
+### 50
+
+Según el libro de Geometría Analítica, cuando el centro de la hipérbola está en (h, k), ¿cuál es una de las formas normales de su ecuación?
+
+- A. (x − h)²/a² − (y − k)²/b² = 1
+- B. (x − h)²/a² + (y − k)²/b² = 1
+- C. (x + h)²/a² − (y + k)²/b² = 1
+- D. (x − h)/a² − (y − k)/b² = 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 499
+**Subtema:** La hipérbola · centro en (h,k)
+
+Cuando el centro de la hipérbola está en (h, k), los análogos de la forma normal son (x − h)²/a² − (y − k)²/b² = 1.
+
+### 51
+
+De conformidad con el libro de Geometría Analítica, la excentricidad de una hipérbola se define por e = c/a (con c = √(a² + b²)). ¿Qué valores satisface?
+
+- A. e > 1
+- B. 0 < e < 1
+- C. e = 1
+- D. e = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 500
+**Subtema:** La hipérbola · excentricidad
+
+La ecuación que define la excentricidad de una hipérbola es e = c/a; en este caso, el número c se define como c = √(a² + b²). Ya que 0 < a < √(a² + b²), la excentricidad de una hipérbola satisface e > 1. (Véase el aviso al aspirante: el libro escribe por errata "elipse" donde debe decir "hipérbola".)
