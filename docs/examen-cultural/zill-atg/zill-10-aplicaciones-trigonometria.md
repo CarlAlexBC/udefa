@@ -47,7 +47,7 @@ El **capítulo 10** completo tiene siete secciones:
 
 - **§10.1 Resolución de triángulos rectángulos** (pp. 444–445) ← este archivo lo cubre.
 - **§10.2 Aplicaciones del triángulo rectángulo** (pp. 446–449) ← este archivo lo cubre.
-- **§10.3 Ley de los senos** ← este archivo lo cubre.
+- **§10.3 Ley de los senos** (pp. 453–456) ← este archivo lo cubre.
 - **§10.4 Ley de los cosenos** ← este archivo lo cubre.
 - **§10.5 Movimiento armónico simple** ← este archivo lo cubre.
 - **§10.6 Forma trigonométrica de los números complejos** ← este archivo lo cubre.
@@ -76,6 +76,12 @@ hipotenusa c) y la notación de las funciones trigonométricas inversas.
 triángulo rectángulo (longitudes, alturas y distancias) y la definición de los ángulos de
 elevación y de depresión (Fig. 10.2.3). El resto de la sección son ejemplos numéricos, que no
 llevan reactivos.
+
+**§10.3 · CERRADO** en 8 reactivos (reactivos 11–18): la introducción (dos técnicas para
+resolver triángulos en general), la condición de la ley de los senos, el **Teorema 10.3.1**
+(`sen α/a = sen β/b = sen γ/c`), su validez para cualquier triángulo, la definición del **caso
+ambiguo** (dos lados y un ángulo opuesto a uno de ellos) y los cuatro resultados posibles de su
+construcción (Fig. 10.3.7). Los ejemplos y la comprobación numérica no llevan reactivos.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -238,3 +244,127 @@ En relación con el libro de Geometría Analítica, cuando la visual del observa
 **Subtema:** Aplicaciones del triángulo rectángulo · ángulo de depresión
 
 Si la visual es hacia un objeto abajo de la horizontal, el ángulo se llama ángulo de depresión.
+
+---
+
+## Sub-lote 3 · §10.3 Ley de los senos (pp. 453–456)
+
+### 11
+
+De acuerdo con el libro de Geometría Analítica, ¿qué se describe en la sección 10.3?
+
+- A. Dos técnicas para resolver triángulos en general
+- B. Una técnica para resolver únicamente triángulos rectángulos
+- C. El método para calcular el área de un triángulo
+- D. La forma de graficar funciones trigonométricas
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 453
+**Subtema:** Ley de los senos · introducción
+
+En la sección 10.1 se explicó cómo resolver triángulos rectángulos. En esta sección describiremos dos técnicas para resolver triángulos en general.
+
+### 12
+
+Según el libro de Geometría Analítica, en un triángulo general, si se conoce la longitud de un lado y otras dos partes del triángulo, ¿qué se puede hacer con la ley de los senos?
+
+- A. Determinar las tres partes que restan
+- B. Determinar únicamente el área del triángulo
+- C. Determinar solamente uno de los ángulos
+- D. Determinar solamente la longitud de la hipotenusa
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 453
+**Subtema:** Ley de los senos · para qué sirve
+
+Si se conoce la longitud de un lado y otras dos partes del triángulo, se pueden determinar las tres partes que restan. Una forma de hacerlo es con la ley de los senos.
+
+### 13
+
+De conformidad con el Teorema 10.3.1 (ley de los senos), si los ángulos de un triángulo son α, β y γ, y los lados opuestos de longitud a, b y c, ¿qué igualdad se cumple?
+
+- A. sen α/a = sen β/b = sen γ/c
+- B. a/sen α = sen β/b = sen γ/c
+- C. sen α·a = sen β·b = sen γ·c
+- D. cos α/a = cos β/b = cos γ/c
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 453
+**Subtema:** Ley de los senos · Teorema 10.3.1
+
+Ley de los senos: sen α/a = sen β/b = sen γ/c.
+
+### 14
+
+En relación con el libro de Geometría Analítica, ¿para qué triángulos es válida la ley de los senos?
+
+- A. Para cualquier triángulo
+- B. Sólo para triángulos rectángulos
+- C. Sólo para triángulos acutángulos o agudos
+- D. Sólo para triángulos equiláteros
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 454
+**Subtema:** Ley de los senos · validez
+
+Aunque la ley de los senos es válida para cualquier triángulo, sólo la deduciremos aquí para triángulos acutángulos o agudos, esto es, en los que los tres ángulos, α, β y γ son menores de 90°.
+
+### 15
+
+De acuerdo con el libro de Geometría Analítica, cuando se resuelven triángulos, ¿a qué caso se le llama "caso ambiguo"?
+
+- A. Al caso en el que los datos son dos lados y un ángulo opuesto a uno de ellos
+- B. Al caso en el que los datos son dos ángulos y un lado
+- C. Al caso en el que los datos son los tres lados
+- D. Al caso en el que los datos son los tres ángulos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 455
+**Subtema:** Ley de los senos · caso ambiguo
+
+Cuando se resuelven triángulos, al caso en el que los datos son dos lados y un ángulo opuesto a uno de ellos se le llama caso ambiguo.
+
+### 16
+
+Según el libro de Geometría Analítica, en la construcción del caso ambiguo (Figura 10.3.7), ¿cuántos resultados posibles hay?
+
+- A. Cuatro
+- B. Dos
+- C. Tres
+- D. Uno
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 455
+**Subtema:** Ley de los senos · caso ambiguo · resultados posibles
+
+Como se ve en la Figura 10.3.7, hay cuatro resultados posibles en esta construcción.
+
+### 17
+
+De conformidad con el libro de Geometría Analítica, en el caso ambiguo, ¿qué ocurre cuando el arco no interseca la base?
+
+- A. No se forma un triángulo
+- B. Se forman dos triángulos
+- C. Se forma un solo triángulo rectángulo
+- D. Se forma un triángulo equilátero
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 455
+**Subtema:** Ley de los senos · caso ambiguo · sin solución
+
+El arco no interseca la base y no se forma un triángulo.
+
+### 18
+
+En relación con el libro de Geometría Analítica, en el caso ambiguo, ¿qué ocurre cuando el arco es tangente a la base?
+
+- A. Se forma un solo triángulo rectángulo
+- B. No se forma un triángulo
+- C. Se forman dos triángulos distintos
+- D. Se forma un triángulo obtusángulo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 456
+**Subtema:** Ley de los senos · caso ambiguo · triángulo rectángulo
+
+El arco es tangente a la base, y se forma un solo triángulo rectángulo.
