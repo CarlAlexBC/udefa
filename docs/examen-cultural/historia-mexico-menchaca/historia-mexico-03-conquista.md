@@ -43,7 +43,8 @@ Del Bloque 3, la EMMG (`HISMÉX-03-2026`) pide **sólo dos subtemas**:
   con las órdenes religiosas—. A partir de "Las fuentes de la Conquista" (p. 102) el libro entra
   en historiografía (la lista de cronistas de Indias) y en "La controversia sobre la naturaleza
   del indio" (p. 104, discusión filosófica/social), que por su carácter quedan fuera del banco.
-  **Pendiente de confirmar con Carlo.**
+  **Confirmado por Carlo (2 ago 2026): sólo el núcleo; los cronistas y la controversia del indio
+  quedan fuera.**
 
 ## Cobertura actual
 
@@ -61,10 +62,19 @@ Del Bloque 3, la EMMG (`HISMÉX-03-2026`) pide **sólo dos subtemas**:
   1514; el Patronato en España, Islas Canarias 1418, Granada 1492, *Provisionis Nostrae* y *Dum
   ad Illam* 1486).
 
-**Pendiente:** todo el **3.3** (pp. 94–102: la conquista material —conquista de Tenochtitlan y
-expansión— y la conquista espiritual —evangelización y órdenes religiosas—). Falta confirmar con
-Carlo el "Límite del 3.3": si "Las fuentes de la Conquista" y "La controversia sobre la
-naturaleza del indio" (pp. 102–104) entran o no.
+**3.3 EN CURSO** (pp. 94–102, sub-lotes 4–6 hasta ahora, reactivos 37–88):
+- **Sub-lote 4 (pp. 94–95):** la caída de México-Tenochtitlan (alianzas Cempoala/tlaxcaltecas,
+  Matanza de Cholula, Moctezuma, Noche Triste, Cuauhtémoc, sitio de 75 días).
+- **Sub-lote 5 (p. 98):** la expansión y la encomienda (Coyoacán, Michoacán, Guerra Chichimeca,
+  Ayuntamiento de México, encomendero, servicio personal).
+- **Sub-lote 6 (pp. 99–100):** la conquista espiritual (plataforma religiosa de España, Patronato
+  Real, Supremo Consejo de Indias 1524, método misional, Dussel, tipos de misión).
+
+**Pendiente:** el **sub-lote 7 · Las órdenes religiosas** (pp. 101–102): las cuatro órdenes
+principales (franciscanos, dominicos, agustinos, jesuitas) y las "Otras órdenes religiosas"
+(dieguinos, mercedarios, carmelitas, hospitalarias, San Felipe Neri). Con ese sub-lote, el 3.3 y
+el Bloque 3 quedan cerrados. **"Las fuentes de la Conquista" y "La controversia del indio"
+(pp. 102–104) NO entran** (decisión de Carlo).
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -1169,6 +1179,250 @@ De acuerdo con el libro de Historia de México 1, ¿en qué consistía el "servi
 **Subtema:** 3.3 conquista material
 
 Otros privilegios, como el detentar el tributo del señorío, el del "servicio personal" (que consistía en el pago de tributo no en bienes, sino en trabajo).
+
+---
+
+## Sub-lote 6 · 3.3 La Conquista espiritual: la plataforma religiosa y la evangelización (pp. 99–100)
+
+### 73
+
+De acuerdo con el libro de Historia de México 1, a diferencia de varios países europeos, ¿qué religión conservó España?
+
+- A. La religión católica
+- B. El anglicanismo
+- C. El luteranismo
+- D. El calvinismo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
+**Subtema:** 3.3 conquista espiritual
+
+Respecto a la religión, a diferencia de varios países europeos, España conservó la religión católica, y los monarcas se sintieron defensores y promotores del catolicismo.
+
+### 74
+
+De conformidad con el libro de Historia de México 1, durante la primera mitad del siglo XVI, ¿a qué se convirtieron los países del centro-norte occidental de Europa?
+
+- A. Al protestantismo en sus varias ramificaciones
+- B. Al catolicismo romano
+- C. Al judaísmo
+- D. Al Islam
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
+**Subtema:** 3.3 conquista espiritual
+
+Durante la primera mitad del siglo XVI los países del centro-norte occidental de Europa se convirtieron al protestantismo en sus varias ramificaciones.
+
+### 75
+
+En relación con el libro de Historia de México 1, ¿quién fundó el anglicanismo en Inglaterra?
+
+- A. Enrique VIII
+- B. Ignacio de Loyola
+- C. Los príncipes alemanes
+- D. Felipe II
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
+**Subtema:** 3.3 conquista espiritual
+
+Enrique VIII de Inglaterra funda el anglicanismo; los príncipes alemanes abrazan el luteranismo, Ginebra el calvinismo, etc.
+
+### 76
+
+De acuerdo con el libro de Historia de México 1, desde 1492, ¿quiénes fueron expulsados definitivamente de España, al ser lanzados del último reducto que tenían en Granada?
+
+- A. Los judíos y mahometanos
+- B. Los protestantes
+- C. Los jesuitas
+- D. Los criollos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
+**Subtema:** 3.3 conquista espiritual
+
+Desde 1492, los judíos y mahometanos fueron expulsados definitivamente de España, al ser lanzados del último reducto que tenían en Granada.
+
+### 77
+
+De conformidad con el libro de Historia de México 1, entre los grandes personajes del florecimiento religioso español, ¿quién fue el fundador de los jesuitas?
+
+- A. Ignacio de Loyola
+- B. Francisco de Vitoria
+- C. Francisco Suárez
+- D. Luis de Granada
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
+**Subtema:** 3.3 conquista espiritual
+
+El fundador de los jesuitas Ignacio de Loyola, el misionero de parte de la India Francisco Javier; Teresa de Jesús, Juan de la Cruz, etc.
+
+### 78
+
+En relación con el libro de Historia de México 1, la Corona española ejerció de manera directa el poder espiritual o eclesiástico en virtud de ¿qué derecho?
+
+- A. Del derecho del Patronato Real
+- B. Del derecho de conquista
+- C. Del derecho de posesión
+- D. Del derecho de gentes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
+**Subtema:** 3.3 conquista espiritual
+
+La Corona española, en virtud del derecho del *Patronato Real*, siguió conquistando, colonizando y misionando, es decir, además del poder civil, ejerció de manera directa el poder espiritual o eclesiástico.
+
+### 79
+
+De acuerdo con el libro de Historia de México 1, ¿qué institución, de 1524, creó el Patronato Real, con plena autoridad en todos los asuntos de la Colonia?
+
+- A. El Supremo Consejo de Indias
+- B. La Real Audiencia
+- C. El Ayuntamiento de México
+- D. La Diputación Provincial
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
+**Subtema:** 3.3 conquista espiritual
+
+El *Patronato Real*, para ejercer su poder en la Nueva España, fue creando diversas instituciones, una de ellas fue el Supremo Consejo de Indias, de 1524, que poseía plena autoridad en todos los asuntos de la Colonia.
+
+### 80
+
+De conformidad con el libro de Historia de México 1, oficialmente, ¿de quién dependía la Iglesia?
+
+- A. De la autoridad civil
+- B. Directamente del papa
+- C. Del Supremo Consejo de Indias, con independencia del rey
+- D. De las órdenes religiosas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
+**Subtema:** 3.3 conquista espiritual
+
+Los representantes del Consejo eran el virrey, el gobernador y las Audiencias. Oficialmente, la Iglesia dependía de la autoridad civil.
+
+### 81
+
+En relación con el libro de Historia de México 1, ¿qué es la Conquista espiritual?
+
+- A. El proceso de evangelización del indígena
+- B. La conquista militar de Tenochtitlan
+- C. El reparto de encomiendas
+- D. La fundación de la ciudad de México
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
+**Subtema:** 3.3 conquista espiritual
+
+La Conquista espiritual es el proceso de evangelización del indígena, es decir, la inculcación de la nueva religión, la conversión del indio del denominado paganismo al cristianismo católico.
+
+### 82
+
+De acuerdo con el libro de Historia de México 1, la Conquista espiritual es llamada también, ¿cómo?
+
+- A. "La otra Conquista"
+- B. "La Reconquista"
+- C. "La conquista material"
+- D. "La evangelización pacífica"
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
+**Subtema:** 3.3 conquista espiritual
+
+La Conquista espiritual, llamada también "la otra Conquista", se valió de la conquista militar; es decir, el sometimiento por medio de la violencia fue la condición para que se diera la Conquista espiritual.
+
+### 83
+
+De conformidad con el libro de Historia de México 1, ¿en qué consistía el método misional?
+
+- A. Se peregrinaba de pueblo en pueblo, se bautizaba a los indios y se les predicaba en su lengua o por intérpretes, extirpando la idolatría
+- B. Se construían universidades para formar sacerdotes indígenas
+- C. Se enviaba a los indios a estudiar a España
+- D. Se traducía la Biblia y se repartía entre los indios
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
+**Subtema:** 3.3 conquista espiritual
+
+El método misional era el siguiente: se peregrinaba de pueblo en pueblo, se bautizaba a los indios, y se les predicaba en su lengua o por intérpretes, extirpando la idolatría y los antiguos cultos.
+
+### 84
+
+En relación con el libro de Historia de México 1, ¿qué significó implantar la nueva religión?
+
+- A. La destrucción de los "templos paganos" y de las imágenes de sus dioses, y la prohibición de las ceremonias y ritos
+- B. La construcción inmediata de catedrales
+- C. La tolerancia de los cultos indígenas
+- D. La libertad de creencias para los indios
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
+**Subtema:** 3.3 conquista espiritual
+
+Implantar la nueva religión significó la destrucción de los "templos paganos" (pirámides y centros de culto) y de las imágenes de sus dioses, la prohibición de las ceremonias y de los ritos religiosos.
+
+### 85
+
+De acuerdo con el libro de Historia de México 1, según Dussel, ¿qué dos labores desarrolló la Iglesia en el siglo XVI?
+
+- A. Una labor misionera y una labor de consolidación
+- B. Una labor militar y una labor económica
+- C. Una labor política y una labor judicial
+- D. Una labor de conquista y una labor de tributo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 100
+**Subtema:** 3.3 conquista espiritual
+
+Según Dussel, la Iglesia desarrolló en el siglo XVI una labor misionera y una labor de consolidación.
+
+### 86
+
+De conformidad con el libro de Historia de México 1, según Dussel, ¿qué periodo comprende la labor misionera?
+
+- A. El periodo de 1519 a 1551
+- B. El periodo de 1492 a 1519
+- C. El periodo de 1521 a 1600
+- D. El periodo de 1551 a 1590
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 100
+**Subtema:** 3.3 conquista espiritual
+
+La labor misionera comprende el periodo de 1519 a 1551, aunque aún en el siglo XVIII se misionaron los territorios del norte, como las Californias, por franciscanos y jesuitas.
+
+### 87
+
+En relación con el libro de Historia de México 1, los misioneros aprendieron la lengua y redactaron diccionarios, gramáticas, catecismos y sermonarios; ¿en qué lenguas?
+
+- A. En lengua náhuatl y tarasca
+- B. En latín y griego
+- C. En español y portugués
+- D. En maya y zapoteca únicamente
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 100
+**Subtema:** 3.3 conquista espiritual
+
+Luego aprendieron la lengua y redactaron diccionarios, gramáticas, catecismos, confesionarios, sermonarios, en lengua náhuatl, tarasca, etcétera.
+
+### 88
+
+De acuerdo con el libro de Historia de México 1, según los tipos de misión, ¿quién empleó el método de los misionales pacíficos, sin intervención militar?
+
+- A. Bartolomé de las Casas
+- B. Ignacio de Loyola
+- C. Andrés Pérez de Rivas
+- D. Toribio de Benavente
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 100
+**Subtema:** 3.3 conquista espiritual
+
+Tipos de misión que se practicaron: a) Misionales pacíficos, como el empleado por Bartolomé de las Casas, sin intervención militar.
 
 ---
 
