@@ -121,7 +121,16 @@ teoría sobre práctica.
 
 **§3.5 Desigualdades lineales · CERRADO** (pp. 144–147, reactivos 57–71).
 
-**Pendiente:** las secciones **§3.6 y §3.7**. Con ellas, el capítulo 3 quedará cerrado para la EMMA.
+**Sub-lote 10 (pp. 150–152, reactivos 72–80):** **§3.6 Ecuaciones y desigualdades con valor absoluto**: la
+definición de valor absoluto (cantidad no negativa, |*x*|=−*x* si *x*<0, =*x* si *x*≥0), el **Teorema 3.6.1**
+(|*x*|=*a* ⇔ *x*=−*a* o *x*=*a*), las interpretaciones de distancia de |*x*|<*a* y |*x*|>*a*, el **Teorema
+3.6.2** (|*x*|<*a* ⇔ −*a*<*x*<*a*; |*x*|>*a* ⇔ *x*<−*a* o *x*>*a*), la unión de intervalos disjuntos y
+|*x*−*b*| como distancia entre *x* y *b*. Los Ejemplos y *Ejercicios* de las pp. 150–154 quedan fuera por la
+norma de teoría sobre práctica.
+
+**§3.6 Ecuaciones y desigualdades con valor absoluto · CERRADO** (pp. 150–152, reactivos 72–80).
+
+**Pendiente:** la sección **§3.7**. Con ella, el capítulo 3 quedará cerrado para la EMMA.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -1231,3 +1240,142 @@ De acuerdo con el libro de Geometría Analítica, ¿cómo se denomina en ocasion
 **Subtema:** Desigualdades lineales · desigualdad simultánea
 
 Una desigualdad de la forma *a* < *x* < *b* se denomina en ocasiones desigualdad simultánea porque el número *x* está entre los números *a* y *b*.
+
+---
+
+## Sub-lote 10 · §3.6 Ecuaciones y desigualdades con valor absoluto — definición y teoremas (pp. 150–152)
+
+### 72
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se define el valor absoluto de un número real *x*?
+
+- A. |*x*| = −*x* si *x* < 0, y |*x*| = *x* si *x* ≥ 0
+- B. |*x*| = *x* si *x* < 0, y |*x*| = −*x* si *x* ≥ 0
+- C. |*x*| = *x* para todo *x*
+- D. |*x*| = −*x* para todo *x*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 150
+**Subtema:** Valor absoluto · definición
+
+El valor absoluto de un número real *x* es una cantidad no negativa definida como |*x*| = −*x* cuando *x* < 0, y |*x*| = *x* cuando *x* ≥ 0.
+
+### 73
+
+De conformidad con el libro de Geometría Analítica, ¿qué tipo de cantidad es el valor absoluto de un número real?
+
+- A. Una cantidad no negativa
+- B. Una cantidad siempre negativa
+- C. Una cantidad siempre positiva
+- D. Una cantidad imaginaria
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 150
+**Subtema:** Valor absoluto · cantidad no negativa
+
+El valor absoluto de un número real *x* es una cantidad no negativa.
+
+### 74
+
+En relación con el libro de Geometría Analítica, según el Teorema 3.6.1, si *a* denota un número real positivo, ¿cuándo se cumple |*x*| = *a*?
+
+- A. Si y sólo si *x* = −*a* o *x* = *a*
+- B. Si y sólo si *x* = *a*
+- C. Si y sólo si −*a* < *x* < *a*
+- D. Si y sólo si *x* < −*a* o *x* > *a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 151
+**Subtema:** Valor absoluto · ecuación de valor absoluto (Teorema 3.6.1)
+
+Teorema 3.6.1: si *a* denota un número real positivo, entonces |*x*| = *a* si y sólo si *x* = −*a* o *x* = *a*.
+
+### 75
+
+De acuerdo con el libro de Geometría Analítica, ¿qué significa la desigualdad |*x*| < *a* (con *a* > 0)?
+
+- A. Que la distancia desde *x* hasta el origen es menor que *a*
+- B. Que la distancia desde *x* hasta el origen es mayor que *a*
+- C. Que *x* es igual a *a*
+- D. Que *x* es un número negativo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 151
+**Subtema:** Valor absoluto · interpretación de |x| < a
+
+La desigualdad |*x*| < *a* (con *a* > 0) significa que la distancia desde *x* hasta el origen es menor que *a*.
+
+### 76
+
+De conformidad con el libro de Geometría Analítica, ¿qué significa la desigualdad |*x*| > *a*?
+
+- A. Que la distancia desde *x* hasta el origen es mayor que *a*
+- B. Que la distancia desde *x* hasta el origen es menor que *a*
+- C. Que *x* es igual a *a*
+- D. Que *x* está entre −*a* y *a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 151
+**Subtema:** Valor absoluto · interpretación de |x| > a
+
+La desigualdad |*x*| > *a* significa que la distancia desde *x* hasta el origen es mayor que *a*.
+
+### 77
+
+En relación con el libro de Geometría Analítica, según el inciso i) del Teorema 3.6.2, ¿a qué equivale |*x*| < *a*?
+
+- A. −*a* < *x* < *a*
+- B. *x* < −*a* o *x* > *a*
+- C. *x* = −*a* o *x* = *a*
+- D. *x* > *a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 151
+**Subtema:** Valor absoluto · desigualdad |x| < a (Teorema 3.6.2)
+
+Teorema 3.6.2: i) |*x*| < *a* si y sólo si −*a* < *x* < *a*.
+
+### 78
+
+De acuerdo con el libro de Geometría Analítica, según el inciso ii) del Teorema 3.6.2, ¿a qué equivale |*x*| > *a*?
+
+- A. *x* < −*a* o *x* > *a*
+- B. −*a* < *x* < *a*
+- C. *x* = −*a* o *x* = *a*
+- D. −*a* ≤ *x* ≤ *a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 151
+**Subtema:** Valor absoluto · desigualdad |x| > a (Teorema 3.6.2)
+
+Teorema 3.6.2: ii) |*x*| > *a* si y sólo si *x* < −*a* o *x* > *a*.
+
+### 79
+
+De conformidad con el libro de Geometría Analítica, cuando el conjunto solución consta de dos intervalos disjuntos (que no se intersecan), ¿cómo se escribe?
+
+- A. Como la unión de los dos intervalos
+- B. Como la intersección de los dos intervalos
+- C. Como un solo intervalo cerrado
+- D. Como el conjunto vacío
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 152
+**Subtema:** Valor absoluto · unión de intervalos disjuntos
+
+Como el conjunto solución consta de dos intervalos disjuntos, es decir, que no se intersecan, no se puede expresar como un solo intervalo; lo mejor que podemos hacer es escribir el conjunto solución como la unión de los dos intervalos.
+
+### 80
+
+En relación con el libro de Geometría Analítica, ¿qué representa la expresión |*x* − *b*|?
+
+- A. La distancia entre *x* y *b*
+- B. La suma de *x* y *b*
+- C. El producto de *x* y *b*
+- D. El punto medio entre *x* y *b*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 152
+**Subtema:** Valor absoluto · |x − b| como distancia
+
+|*x* − *b*| es la distancia entre *x* y *b*.
