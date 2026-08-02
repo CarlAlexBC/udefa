@@ -50,7 +50,7 @@ directa.** Detalle completo del método en el encabezado del capítulo 4 y en
 El **capítulo 11** completo tiene cinco secciones:
 
 - **§11.1 La parábola** (pp. 482–486) ← este archivo lo cubre.
-- **§11.2 La elipse** ← este archivo lo cubre.
+- **§11.2 La elipse** (pp. 489–493) ← este archivo lo cubre.
 - **§11.3 La hipérbola** ← este archivo lo cubre.
 - **§11.4 Rotación de ejes** ← este archivo lo cubre.
 - **§11.5 Ecuaciones paramétricas** ← este archivo lo cubre.
@@ -68,6 +68,13 @@ y el vértice, las formas normales con vértice en (0,0) (`x²=4cy` e `y²=4cx`)
 directrices y direcciones de apertura, la cuerda focal o diámetro, las formas normales con
 vértice en (h,k) (`(x−h)²=4c(y−k)` e `(y−k)²=4c(x−h)`), la distancia del vértice al foco y a la
 directriz (|c|), y las aplicaciones (paraboloide y propiedad de reflexión).
+
+**§11.2 · CERRADO** en 17 reactivos (reactivos 18–34): la **Definición 11.2.1** (elipse, focos,
+centro), las formas normales con centro en (0,0) (`x²/a²+y²/b²=1`) y la relación `c²=a²−b²`, el
+eje mayor y el eje menor, los vértices, las longitudes 2a y 2b (el eje mayor siempre más largo),
+la forma normal con centro en (h,k), el significado de a, b y c (distancias del centro al
+vértice, al extremo del eje menor y al foco), la **excentricidad** `e=c/a` (con 0<e<1) y su
+interpretación, la propiedad reflectora (de foco a foco) y la primera ley de Kepler.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -331,3 +338,262 @@ De acuerdo con el libro de Geometría Analítica, ¿cómo se forman las superfic
 **Subtema:** La parábola · aplicaciones · paraboloide
 
 Esas superficies, llamadas paraboloides, son tridimensionales y se forman haciendo girar una parábola en torno a su eje.
+
+---
+
+## Sub-lote 2 · §11.2 La elipse (pp. 489–493)
+
+### 18
+
+Según la Definición 11.2.1 del libro de Geometría Analítica, ¿qué es una elipse?
+
+- A. El conjunto de puntos P(x, y) en un plano tales que la suma de las distancias de P a dos puntos fijos F₁ y F₂ es constante
+- B. El conjunto de puntos cuya diferencia de distancias a dos puntos fijos es constante
+- C. El conjunto de puntos equidistantes a una recta fija y a un punto fijo
+- D. El conjunto de puntos que equidistan de un punto fijo llamado centro
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 489
+**Subtema:** La elipse · Definición 11.2.1
+
+Una elipse es el conjunto de puntos P(x, y) en un plano, tales que la suma de las distancias de P a dos puntos fijos F₁ y F₂ es constante.
+
+### 19
+
+De acuerdo con la Definición 11.2.1 del libro de Geometría Analítica, ¿cómo se llaman los dos puntos fijos F₁ y F₂ de una elipse?
+
+- A. Focos
+- B. Vértices
+- C. Directrices
+- D. Centros
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 489
+**Subtema:** La elipse · focos
+
+Los puntos fijos F₁ y F₂ se llaman focos.
+
+### 20
+
+De conformidad con la Definición 11.2.1 del libro de Geometría Analítica, ¿cómo se llama el punto medio del segmento de recta que une a los focos F₁ y F₂?
+
+- A. Centro de la elipse
+- B. Vértice de la elipse
+- C. Foco principal
+- D. Eje mayor
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 489
+**Subtema:** La elipse · centro
+
+El punto medio del segmento de recta que une a los puntos F₁ y F₂ se llama centro de la elipse.
+
+### 21
+
+Según el libro de Geometría Analítica, ¿cuál es la forma normal de la ecuación de una elipse con centro en (0, 0) y focos en (−c, 0) y (c, 0)?
+
+- A. x²/a² + y²/b² = 1
+- B. x²/b² + y²/a² = 1
+- C. x²/a² − y²/b² = 1
+- D. x²/a² + y²/b² = c²
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 490
+**Subtema:** La elipse · forma normal (focos en eje x)
+
+La ecuación x²/a² + y²/b² = 1 se llama forma normal de la ecuación de una elipse con centro en (0, 0) y focos en (−c, 0) y (c, 0), donde c se define por b² = a² − c², y a > b > 0.
+
+### 22
+
+De acuerdo con el libro de Geometría Analítica, en la forma normal de la elipse, ¿cómo se define c en función de a y b?
+
+- A. c² = a² − b²
+- B. c² = a² + b²
+- C. c² = b² − a²
+- D. c = a − b
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 490
+**Subtema:** La elipse · relación entre a, b y c
+
+Cuando se iguala b² = a² − c²; es decir, c² = a² − b², donde a > b > 0.
+
+### 23
+
+Según el libro de Geometría Analítica, ¿qué es el eje mayor de una elipse?
+
+- A. El segmento de recta que pasa por su centro, que contiene a los focos y cuyos extremos están en la elipse
+- B. El segmento de recta que pasa por el centro, perpendicular a la recta que contiene a los focos
+- C. La recta que pasa por un foco perpendicular a la directriz
+- D. El segmento que une los dos focos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 490
+**Subtema:** La elipse · eje mayor
+
+El eje mayor de una elipse es el segmento de recta que pasa por su centro, que contiene a los focos y cuyos extremos están en la elipse.
+
+### 24
+
+De conformidad con el libro de Geometría Analítica, ¿qué es el eje menor de una elipse?
+
+- A. El segmento de recta que pasa por el centro, es perpendicular al eje mayor, y cuyos extremos están en la elipse
+- B. El segmento de recta que contiene a los focos
+- C. El segmento de recta que une los dos vértices
+- D. La recta que pasa por el centro paralela al eje mayor
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 490
+**Subtema:** La elipse · eje menor
+
+El segmento de recta que pasa por el centro, es perpendicular al eje mayor, y cuyos extremos están en la elipse, se llama eje menor.
+
+### 25
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se llaman los dos extremos del eje mayor de una elipse?
+
+- A. Vértices
+- B. Focos
+- C. Centros
+- D. Extremos menores
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 490
+**Subtema:** La elipse · vértices
+
+Los dos extremos del eje mayor se llaman vértices.
+
+### 26
+
+Según el libro de Geometría Analítica, en las formas normales de la elipse, ¿cuál es la longitud del eje mayor y la del eje menor?
+
+- A. La longitud del eje mayor es 2a y la del eje menor es 2b
+- B. La longitud del eje mayor es 2b y la del eje menor es 2a
+- C. La longitud del eje mayor es a y la del eje menor es b
+- D. La longitud del eje mayor es 4a y la del eje menor es 4b
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 490
+**Subtema:** La elipse · longitudes de los ejes
+
+En las ecuaciones (4) o (5), la longitud del eje mayor es a − (−a) = 2a; la longitud del eje menor es 2b.
+
+### 27
+
+De conformidad con el libro de Geometría Analítica, al comparar el eje mayor y el eje menor de una elipse, ¿qué se cumple siempre?
+
+- A. El eje mayor siempre es más largo que el eje menor (porque a > b)
+- B. Ambos ejes tienen siempre la misma longitud
+- C. El eje menor siempre es más largo que el eje mayor
+- D. La relación depende de la posición de los focos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 490
+**Subtema:** La elipse · comparación de los ejes
+
+Como a > b, el eje mayor de una elipse siempre es más largo que su eje menor.
+
+### 28
+
+Según el libro de Geometría Analítica, cuando el centro de la elipse está en (h, k), ¿cuál es una de las formas normales de su ecuación?
+
+- A. (x − h)²/a² + (y − k)²/b² = 1
+- B. (x − h)²/a² − (y − k)²/b² = 1
+- C. (x + h)²/a² + (y + k)²/b² = 1
+- D. (x − h)/a² + (y − k)/b² = 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 491
+**Subtema:** La elipse · centro en (h,k)
+
+Cuando el centro está en (h, k), la forma normal de la ecuación de la elipse puede ser (x − h)²/a² + (y − k)²/b² = 1.
+
+### 29
+
+De acuerdo con el libro de Geometría Analítica, en una elipse, ¿qué representan a, b y c respecto al centro?
+
+- A. a es la distancia del centro a un vértice, b la distancia del centro a un extremo del eje menor y c la distancia del centro a un foco
+- B. a es la distancia entre los dos focos, b la distancia entre los vértices y c la distancia al centro
+- C. a es la distancia del centro a un foco, b la distancia entre focos y c la distancia a un vértice
+- D. a, b y c representan siempre las longitudes de los tres ejes
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 491
+**Subtema:** La elipse · significado de a, b y c
+
+a es la distancia del centro a un vértice, b es la distancia del centro a un extremo del eje menor y c es la distancia del centro a un foco.
+
+### 30
+
+Según el libro de Geometría Analítica, ¿cómo se define la excentricidad e de una elipse?
+
+- A. e = c/a
+- B. e = a/c
+- C. e = b/a
+- D. e = c/b
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 492
+**Subtema:** La elipse · excentricidad
+
+La excentricidad de una elipse se define mediante e = c/a, donde c = √(a² − b²).
+
+### 31
+
+De conformidad con el libro de Geometría Analítica, ¿qué valores puede tomar la excentricidad e de una elipse?
+
+- A. 0 < e < 1
+- B. e > 1
+- C. e = 1
+- D. e < 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 492
+**Subtema:** La elipse · rango de la excentricidad
+
+Como 0 < √(a² − b²) < a, la excentricidad de una elipse satisface 0 < e < 1.
+
+### 32
+
+De acuerdo con el libro de Geometría Analítica, ¿qué indica la excentricidad sobre la forma de una elipse?
+
+- A. Cuando e es cercana a cero la elipse es casi circular, y cuando e es cercana a 1 la elipse es aplanada, alargada o elongada
+- B. Cuando e es cercana a cero la elipse es aplanada, y cuando e es cercana a 1 es casi circular
+- C. La excentricidad no tiene relación con la forma de la elipse
+- D. Cuanto mayor es e, más circular es la elipse
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 492
+**Subtema:** La elipse · interpretación de la excentricidad
+
+La excentricidad es un indicador de la forma de una elipse. Cuando e es cercana a cero, la elipse es casi circular, y cuando e ≈ 1, la elipse es aplanada, alargada o elongada.
+
+### 33
+
+Según el libro de Geometría Analítica, ¿en qué consiste la propiedad reflectora de la elipse?
+
+- A. Si una fuente luminosa o sonora se coloca en un foco, todos sus rayos u ondas se reflejarán en la superficie y llegarán al otro foco
+- B. Todos los rayos que salen de un foco se reflejan en rectas paralelas al eje mayor
+- C. Los rayos que entran paralelos al eje se concentran en el centro
+- D. La elipse no tiene ninguna propiedad reflectora
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 493
+**Subtema:** La elipse · propiedad reflectora
+
+Si una fuente luminosa o sonora se coloca en un foco de una elipse, todos sus rayos u ondas se reflejarán en la superficie de la elipse y llegarán al otro foco.
+
+### 34
+
+De conformidad con el libro de Geometría Analítica, según la primera ley de Kepler del movimiento planetario, ¿cómo es la órbita de cada planeta alrededor del Sol?
+
+- A. Es una elipse con el Sol en uno de sus focos
+- B. Es un círculo perfecto con el Sol en el centro
+- C. Es una parábola con el Sol en el foco
+- D. Es una hipérbola con el Sol en un foco
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 493
+**Subtema:** La elipse · primera ley de Kepler
+
+Usando su ley de la gravitación universal, Isaac Newton demostró por primera vez la primera ley de Kepler del movimiento planetario. La órbita de cada planeta alrededor del Sol es una elipse con el Sol en uno de sus focos.
