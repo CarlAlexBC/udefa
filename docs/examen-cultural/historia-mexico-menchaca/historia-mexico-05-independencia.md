@@ -52,7 +52,7 @@ El contenido narrativo aprovechable corre aproximadamente de la **p. 153 a la p.
 
 ## Cobertura actual
 
-**5.1 en curso.** Cubiertos:
+**5.1 completo (CERRADO).** Cubiertos:
 - **Sub-lote 1 · El Grito de Dolores** (introducción del bloque, pp. 152–153): fecha
   del inicio (1810), discrepancia de hora/fecha (15 vs 16 de septiembre), solicitud de
   Morelos en los *Sentimientos de la Nación*, primera celebración oficial con Guadalupe
@@ -66,10 +66,21 @@ El contenido narrativo aprovechable corre aproximadamente de la **p. 153 a la p.
   Trafalgar, 6 millones de francos, 19 marzo 1808, motín de Aranjuez, abdicaciones de
   Bayona, Valençay, José Bonaparte rey).
 
-**Pendiente de 5.1:** causas internas (pp. 157–158: población novohispana, antecedentes
-internos, nacionalismo criollo, problemas políticos y económicos, insurrecciones
-populares). Después, todo el **5.2** (etapas de la Guerra de Independencia, a partir de
-"Las conspiraciones", p. 160).
+- **Sub-lote 4 · Causas internas: población, antecedentes y nacionalismo criollo**
+  (p. 157): cuadro de población novohispana (peninsulares, criollos, castas, indígenas);
+  Nueva España como colonia más próspera (>7 millones km², >6 millones hab.); estallido
+  social de 1810; nacionalismo criollo (herederos de una civilización "tan importante
+  como Grecia o Roma"; los criollos, protagonistas de la Independencia).
+- **Sub-lote 5 · Causas internas: problemas económicos e insurrecciones populares**
+  (pp. 157–158): monopolio de la Corona; Real Cédula de Consolidación de Vales Reales
+  (1804); empleos para los gachupines; reformas borbónicas desde 1767; cuadro de
+  insurrecciones (Año del Hambre 1785–86 / +100 mil; Yanga 1609 / San Lorenzo de los
+  Negros / 33 esclavos 1612; jesuitas 1767; Real del Monte 1766 / Pedro Romero de
+  Terreros; Jacinto Canek, Cisteil, nov. 1761; el indígena Mariano, Sierra de Nayarit
+  1800–01; más de 90 rebeliones indígenas).
+
+**5.1 CERRADO.** Falta todo el **5.2** (etapas de la Guerra de Independencia, a partir
+de "Las conspiraciones", p. 160).
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -647,5 +658,493 @@ De acuerdo con el libro de Historia de México 1, ¿a quién designó Napoleón 
 **Subtema:** causas externas — invasión napoleónica
 
 El emperador francés designaba a su hermano José rey de España.
+
+---
+
+## Sub-lote 4 · Causas internas: población, antecedentes y nacionalismo criollo (5.1, p. 157)
+
+### 36
+
+De acuerdo con el libro de Historia de México 1, según el cuadro de población novohispana en vísperas de la Guerra de Independencia, ¿cuántos españoles peninsulares había?
+
+- A. Entre 11 000 y 14 000
+- B. Entre 110 000 y 140 000
+- C. Entre 1 000 y 4 000
+- D. Un millón
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — población novohispana
+
+Población novohispana en vísperas de la Guerra de Independencia: españoles peninsulares, entre 11 000 y 14 000.
+
+### 37
+
+De acuerdo con el libro de Historia de México 1, según el cuadro de población novohispana en vísperas de la Guerra de Independencia, ¿a cuánto ascendían los criollos?
+
+- A. 1 millón
+- B. 1 millón 300 mil
+- C. 3 millones 700 mil
+- D. Entre 11 000 y 14 000
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — población novohispana
+
+Población novohispana en vísperas de la Guerra de Independencia: criollos, 1 millón.
+
+### 38
+
+De acuerdo con el libro de Historia de México 1, según el cuadro de población novohispana en vísperas de la Guerra de Independencia, ¿a cuánto ascendían las castas (mezclas diversas de españoles, indios y negros)?
+
+- A. 1 millón 300 mil
+- B. 1 millón
+- C. 3 millones 700 mil
+- D. Entre 11 000 y 14 000
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — población novohispana
+
+Población novohispana en vísperas de la Guerra de Independencia: castas (mezclas diversas de españoles, indios y negros), 1 millón 300 mil.
+
+### 39
+
+De acuerdo con el libro de Historia de México 1, según el cuadro de población novohispana en vísperas de la Guerra de Independencia, ¿a cuánto ascendían los indígenas?
+
+- A. 3 millones 700 mil aprox.
+- B. 1 millón 300 mil
+- C. 1 millón
+- D. 700 mil aprox.
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — población novohispana
+
+Población novohispana en vísperas de la Guerra de Independencia: indígenas, 3 millones 700 mil aprox.
+
+### 40
+
+De acuerdo con el libro de Historia de México 1, a principios del siglo XIX, ¿qué era la Nueva España respecto a España?
+
+- A. La colonia más próspera que tenía España
+- B. La colonia más pobre que tenía España
+- C. La colonia más pequeña que tenía España
+- D. La colonia más rebelde que tenía España
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — antecedentes internos
+
+A principios del siglo XIX, la Nueva España era la colonia más próspera que tenía España.
+
+### 41
+
+De acuerdo con el libro de Historia de México 1, ¿qué extensión de territorio superaba la Nueva España a principios del siglo XIX?
+
+- A. Los 7 millones de km²
+- B. Los 2 millones de km²
+- C. Los 700 mil km²
+- D. Los 20 millones de km²
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — antecedentes internos
+
+Comprendía un territorio que superaba los 7 millones de km² y tenía una población de más de 6 millones de habitantes.
+
+### 42
+
+De acuerdo con el libro de Historia de México 1, ¿qué población tenía la Nueva España a principios del siglo XIX?
+
+- A. Más de 6 millones de habitantes
+- B. Más de 60 millones de habitantes
+- C. Más de 600 mil habitantes
+- D. Más de 3 millones de habitantes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — antecedentes internos
+
+Comprendía un territorio que superaba los 7 millones de km² y tenía una población de más de 6 millones de habitantes.
+
+### 43
+
+De acuerdo con el libro de Historia de México 1, ¿en qué año ocurrió el estallido social al que contribuyeron las causas internas?
+
+- A. En 1810
+- B. En 1808
+- C. En 1804
+- D. En 1767
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — antecedentes internos
+
+Los problemas y contradicciones sociales consideradas como las causas internas que influyeron para el estallido social de 1810.
+
+### 44
+
+De acuerdo con el libro de Historia de México 1, ¿qué es el nacionalismo criollo?
+
+- A. Movimiento cultural criollo que se caracteriza por el sentido de pertenencia y conciencia de "ser americano"
+- B. Movimiento político español que buscaba centralizar el poder de la Corona
+- C. Corriente religiosa que defendía la evangelización de los indígenas
+- D. Doctrina económica que promovía el libre comercio con Europa
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — nacionalismo criollo
+
+Nacionalismo criollo. Movimiento cultural criollo que se caracteriza por el sentido de pertenencia y conciencia de "ser americano" que facilitó su consolidación como grupo social.
+
+### 45
+
+De acuerdo con el libro de Historia de México 1, los criollos retomaron el pasado prehispánico y se declararon herederos de una gran civilización indígena, ¿tan importante como cuáles?
+
+- A. Tan importante como Grecia o Roma
+- B. Tan importante como Egipto o Persia
+- C. Tan importante como China o India
+- D. Tan importante como Grecia o Egipto
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — nacionalismo criollo
+
+Retomaron el pasado prehispánico y se declararon herederos de una gran civilización indígena tan importante como Grecia o Roma.
+
+### 46
+
+De acuerdo con el libro de Historia de México 1, ¿quiénes fueron los protagonistas de la Guerra de Independencia?
+
+- A. Los criollos
+- B. Los gachupines
+- C. Los indígenas
+- D. Las castas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — nacionalismo criollo
+
+Los criollos fueron los protagonistas de la Guerra de Independencia.
+
+---
+
+## Sub-lote 5 · Causas internas: problemas económicos e insurrecciones populares (5.1, pp. 157–158)
+
+### 47
+
+De acuerdo con el libro de Historia de México 1, ¿de qué fue víctima la economía novohispana?
+
+- A. Del monopolio de la Corona
+- B. Del libre comercio con Europa
+- C. De la competencia de otras colonias
+- D. De la falta de mano de obra
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — problemas económicos
+
+La economía novohispana fue víctima del monopolio de la Corona, ya que estuvo subordinada a las necesidades y requerimientos de España.
+
+### 48
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se llamó la disposición de 1804 que impuso una serie de préstamos forzosos y el pago de los créditos contraídos por los particulares con la Iglesia?
+
+- A. La Real Cédula de Consolidación de Vales Reales
+- B. La Real Ordenanza de Intendentes
+- C. El Real Decreto de Comercio Libre
+- D. La Cédula de Composición de Tierras
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — problemas económicos
+
+Este malestar se incrementó con la llegada de una nueva disposición: La Real Cédula de Consolidación de Vales Reales de 1804, en la que se imponían una serie de préstamos forzosos y el pago de los créditos contraídos por los particulares con la Iglesia.
+
+### 49
+
+De acuerdo con el libro de Historia de México 1, ¿de qué año era la Real Cédula de Consolidación de Vales Reales?
+
+- A. De 1804
+- B. De 1767
+- C. De 1810
+- D. De 1789
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 157
+**Subtema:** causas internas — problemas económicos
+
+Este malestar se incrementó con la llegada de una nueva disposición: La Real Cédula de Consolidación de Vales Reales de 1804.
+
+### 50
+
+De acuerdo con el libro de Historia de México 1, ¿para quiénes reservó España la mayoría de los empleos de importancia?
+
+- A. Para los gachupines
+- B. Para los criollos
+- C. Para los indígenas
+- D. Para las castas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — problemas políticos
+
+Debido a una política errónea, España reservó para los gachupines la mayoría de los empleos de importancia.
+
+### 51
+
+De acuerdo con el libro de Historia de México 1, ante la falta de empleos de importancia, ¿a qué recursos les quedaba dedicarse a los criollos?
+
+- A. Al sacerdocio, enrolarse en el ejército y ocupar mandos medios o seguir las carreras de abogacía o medicina
+- B. Al comercio con Europa y la administración de aduanas
+- C. A la explotación de las minas y el cobro de tributos
+- D. A la agricultura de las haciendas y la ganadería
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — problemas políticos
+
+A los criollos no les quedaba más recurso que dedicarse al sacerdocio, enrolarse en el ejército y ocupar mandos medios o seguir las carreras de abogacía o medicina, mal retribuidas en aquella época.
+
+### 52
+
+De acuerdo con el libro de Historia de México 1, ¿desde qué año se aplicaron las reformas borbónicas en Nueva España, disminuyendo las oportunidades de los criollos para acceder a los cargos de mayor jerarquía?
+
+- A. Desde 1767
+- B. Desde 1713
+- C. Desde 1804
+- D. Desde 1789
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — problemas políticos
+
+Esta situación se hizo más grave con la aplicación de las reformas borbónicas en Nueva España desde 1767, pues disminuyeron las oportunidades de los criollos para acceder a los cargos político-administrativos y religiosos de mayor jerarquía.
+
+### 53
+
+De acuerdo con el libro de Historia de México 1, ¿quiénes ocupaban la posición social más alta?
+
+- A. Los gachupines
+- B. Los criollos
+- C. Los indígenas
+- D. Las castas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+Los gachupines ocupaban la posición social más alta; luego, seguían los criollos y los indígenas.
+
+### 54
+
+De acuerdo con el libro de Historia de México 1, ¿por qué leyes estaban protegidos los indígenas, aunque de todos modos eran despojados de sus tierras?
+
+- A. Por las Leyes de Indias
+- B. Por las Leyes de Burgos
+- C. Por las Leyes de Toro
+- D. Por las Leyes de Reforma
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+Los indígenas, quienes a pesar de estar protegidos por las Leyes de Indias, eran despojados de sus tierras.
+
+### 55
+
+De acuerdo con el libro de Historia de México 1, ¿cómo se le llamó al acontecimiento que se presentó entre 1785 y 1786, en el cual la escasez agrícola se combinó con epidemias?
+
+- A. El Año del Hambre o la Gran Hambre
+- B. La Gran Peste
+- C. El Año del Cólera
+- D. La Gran Carestía
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+Entre 1785 y 1786 se presentó el Año del Hambre o la Gran Hambre, en el cual la escasez agrícola se combinó con epidemias.
+
+### 56
+
+De acuerdo con el libro de Historia de México 1, ¿cuántas personas murieron a causa del Año del Hambre (1785–1786)?
+
+- A. Más de cien mil personas
+- B. Más de un millón de personas
+- C. Más de diez mil personas
+- D. Más de quinientas mil personas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+Cuyos efectos fueron letales para la población novohispana, ya que murieron más de cien mil personas.
+
+### 57
+
+De acuerdo con el libro de Historia de México 1, ¿quién, un antiguo esclavo africano, encabezó una rebelión en 1609 huyendo con sus seguidores a las montañas de Veracruz?
+
+- A. Yanga
+- B. Jacinto Canek
+- C. Mariano
+- D. Pedro Romero de Terreros
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+Yanga, un antiguo esclavo africano que huyó con varios de sus seguidores a las montañas de Veracruz encabezó una rebelión en 1609.
+
+### 58
+
+De acuerdo con el libro de Historia de México 1, tras la rebelión de Yanga, ¿qué pueblo permitieron crear las autoridades?
+
+- A. San Lorenzo de los Negros
+- B. San Miguel de los Negros
+- C. San Lorenzo de los Esclavos
+- D. Santa María de los Libres
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+Pese a que fue derrotado, las autoridades permitieron la creación del pueblo de San Lorenzo de los Negros. A partir de 1632, ya como municipio libre, el poblado fue llamado Yanga.
+
+### 59
+
+De acuerdo con el libro de Historia de México 1, en 1612, tras otro levantamiento de esclavos africanos en la ciudad de México, ¿cuántos esclavos fueron capturados y ejecutados para escarmiento?
+
+- A. 33 esclavos
+- B. 13 esclavos
+- C. 63 esclavos
+- D. 100 esclavos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+En 1612 hubo otro levantamiento de esclavos africanos en la ciudad de México, esta vez y para escarmiento de cualquier otro intento de rebelión, 33 esclavos fueron capturados y ejecutados.
+
+### 60
+
+De acuerdo con el libro de Historia de México 1, en 1767, ¿la expulsión de qué orden religiosa provocó motines en Valladolid, Uruapan, Pátzcuaro, Guanajuato, San Luis de la Paz y San Luis Potosí?
+
+- A. La Compañía de Jesús
+- B. La orden de los franciscanos
+- C. La orden de los dominicos
+- D. La orden de los agustinos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+En 1767, la expulsión de la Compañía de Jesús de los dominios españoles provocó motines en Valladolid, Uruapan, Pátzcuaro, Guanajuato, San Luis de la Paz y San Luis Potosí.
+
+### 61
+
+De acuerdo con el libro de Historia de México 1, en 1766, ¿los mineros de qué lugar hicieron un paro de labores y se opusieron a las rebajas de jornal?
+
+- A. Real del Monte (Hidalgo)
+- B. Cerro de San Pedro (San Luis Potosí)
+- C. Guanajuato
+- D. Pachuca
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+En 1766, los mineros de Real del Monte (Hidalgo) hicieron un paro de labores y exigieron mejores condiciones de trabajo, al tiempo que se oponían a las rebajas de jornal.
+
+### 62
+
+De acuerdo con el libro de Historia de México 1, ¿quién era el propietario que había impuesto las rebajas de jornal a los mineros de Real del Monte?
+
+- A. Pedro Romero de Terreros
+- B. Juan Antonio Riaño
+- C. José de Iturrigaray
+- D. Manuel Abasolo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+Se oponían a las rebajas de jornal que les había impuesto el propietario Pedro Romero de Terreros.
+
+### 63
+
+De acuerdo con el libro de Historia de México 1, ¿cuántas rebeliones indígenas ocurrieron en la época colonial contra el abuso y explotación de las autoridades civiles y eclesiásticas españolas?
+
+- A. Más de 90
+- B. Más de 9
+- C. Más de 900
+- D. Más de 30
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+En la época colonial ocurrieron varias rebeliones indígenas contra el abuso y explotación de que eran víctimas por parte de las autoridades civiles y eclesiásticas españolas (más de 90).
+
+### 64
+
+De acuerdo con el libro de Historia de México 1, en noviembre de 1761, ¿quién llamó a los mayas a la rebelión en Cisteil, Yucatán?
+
+- A. Jacinto Canek
+- B. Yanga
+- C. El indígena Mariano
+- D. Juan Antonio Montenegro
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+En noviembre de 1761, Jacinto Canek, en Cisteil, Yucatán, llamó a los mayas a la rebelión contra los españoles que los explotaban y azotaban.
+
+### 65
+
+De acuerdo con el libro de Historia de México 1, ¿en qué población de Yucatán llamó Jacinto Canek a los mayas a la rebelión?
+
+- A. En Cisteil
+- B. En Valladolid
+- C. En Mérida
+- D. En Maní
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+En noviembre de 1761, Jacinto Canek, en Cisteil, Yucatán, llamó a los mayas a la rebelión.
+
+### 66
+
+De acuerdo con el libro de Historia de México 1, ¿quién encabezó un movimiento milenario en la Sierra de Nayarit en 1800, pretendiendo ser coronado como rey de México?
+
+- A. El indígena Mariano
+- B. Jacinto Canek
+- C. Yanga
+- D. Martín Cortés Zúñiga
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+Se dio un movimiento milenario en la Sierra de Nayarit, encabezado por el indígena Mariano en 1800 quien pretendía ser coronado como rey de México.
+
+### 67
+
+De acuerdo con el libro de Historia de México 1, ¿en qué año fue capturado y pasado por las armas el indígena Mariano?
+
+- A. En 1801
+- B. En 1800
+- C. En 1810
+- D. En 1767
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 158
+**Subtema:** causas internas — insurrecciones populares
+
+Fue capturado y pasado por las armas en 1801.
 
 ---
