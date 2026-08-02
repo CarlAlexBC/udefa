@@ -2075,3 +2075,187 @@ De acuerdo con el libro de Geometría Analítica, si una fracción contiene una 
 **Subtema:** Radicales · factor conjugado
 
 Si una fracción contiene una expresión como √*x* + √*y*, usamos el hecho de que el producto de √*x* + √*y* y su conjugado √*x* − √*y* no contiene radicales.
+
+---
+
+## Sub-lote 7 · §2.5 Exponentes racionales (pp. 78–79)
+
+### 129
+
+De acuerdo con el libro de Geometría Analítica, ¿qué permite ampliar el concepto de la raíz *n*-ésima de un número?
+
+- A. La definición de *xⁿ* de exponentes enteros a exponentes racionales
+- B. La definición de la raíz cuadrada a la raíz cúbica
+- C. La ley de tricotomía a los números complejos
+- D. El valor absoluto a los números negativos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 78
+**Subtema:** Exponentes racionales · introducción
+
+El concepto de la raíz *n*-ésima de un número nos permite ampliar la definición de *xⁿ* de exponentes enteros a exponentes racionales.
+
+### 130
+
+De conformidad con el libro de Geometría Analítica, según la Definición 2.5.1, si ⁿ√*x* existe, ¿a qué es igual *x*^(1/*n*)?
+
+- A. *x*^(1/*n*) = ⁿ√*x*
+- B. *x*^(1/*n*) = *xⁿ*
+- C. *x*^(1/*n*) = *n* · *x*
+- D. *x*^(1/*n*) = |*x*|
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 78
+**Subtema:** Exponentes racionales · Definición 2.5.1 potencia racional
+
+Si ⁿ√*x* existe, entonces *x*^(1/*n*) = ⁿ√*x*.
+
+### 131
+
+En relación con el libro de Geometría Analítica, ¿qué es *x*^(1/*n*) según el inciso i) de la Definición 2.5.1?
+
+- A. Simplemente otra forma de designar la raíz *n*-ésima principal de *x*
+- B. El producto de *n* factores de *x*
+- C. El recíproco de *xⁿ*
+- D. El radicando de *x*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 78
+**Subtema:** Exponentes racionales · Definición 2.5.1 potencia racional
+
+En el inciso i) de la definición 2.5.1, *x*^(1/*n*) es simplemente otra forma de designar la raíz *n*-ésima principal de *x*.
+
+### 132
+
+De acuerdo con el libro de Geometría Analítica, según la Definición 2.5.1, si ⁿ√*x* existe y *m*/*n* está en sus términos mínimos, ¿a qué es igual *x*^(*m*/*n*)?
+
+- A. *x*^(*m*/*n*) = ⁿ√(*xᵐ*) = (ⁿ√*x*)ᵐ
+- B. *x*^(*m*/*n*) = *xᵐ* · *xⁿ*
+- C. *x*^(*m*/*n*) = *m* · ⁿ√*x*
+- D. *x*^(*m*/*n*) = ⁿ√*x* + *m*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 78
+**Subtema:** Exponentes racionales · Definición 2.5.1 potencia racional
+
+Si ⁿ√*x* existe y *m* es cualquier entero tal que *m*/*n* está en sus términos mínimos, entonces *x*^(*m*/*n*) = ⁿ√(*xᵐ*) = (ⁿ√*x*)ᵐ.
+
+### 133
+
+De conformidad con el libro de Geometría Analítica, ¿qué significa que *m*/*n* esté en sus términos mínimos?
+
+- A. Que *m* y *n* no tienen factores enteros comunes
+- B. Que *m* y *n* son ambos positivos
+- C. Que *m* es menor que *n*
+- D. Que *n* es igual a 2
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 78
+**Subtema:** Exponentes racionales · Definición 2.5.1 potencia racional
+
+Términos mínimos significa que *m* y *n* no tienen factores enteros comunes.
+
+### 134
+
+En relación con el libro de Geometría Analítica, para calcular *x*^(*m*/*n*), ¿qué es por lo general más fácil?
+
+- A. Obtener la raíz *n*-ésima del número *x* primero y luego elevarla a la potencia *m*, es decir, usar (ⁿ√*x*)ᵐ
+- B. Elevar *x* a la potencia *m* primero y luego obtener la raíz *n*-ésima
+- C. Multiplicar *x* por *m*/*n*
+- D. Sumar la raíz *n*-ésima y la potencia *m*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 78
+**Subtema:** Exponentes racionales · Definición 2.5.1 potencia racional
+
+Por lo general es más fácil obtener la raíz *n*-ésima del número *x* en primer lugar y luego elevarla a la potencia *m*; en otras palabras, usamos (ⁿ√*x*)ᵐ.
+
+### 135
+
+De acuerdo con el libro de Geometría Analítica, las leyes de los exponentes presentadas para los exponentes enteros en el Teorema 2.3.1, ¿para qué otros exponentes también son verdaderas?
+
+- A. Para los exponentes racionales
+- B. Sólo para los exponentes negativos
+- C. Sólo para el exponente cero
+- D. Para ningún otro tipo de exponente
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 79
+**Subtema:** Exponentes racionales · leyes de los exponentes
+
+Las leyes de los exponentes presentadas para los exponentes enteros en el teorema 2.3.1 de la sección 2.3 también son verdaderas para los exponentes racionales.
+
+### 136
+
+De conformidad con el libro de Geometría Analítica, según la ley i) del Teorema 2.5.1, ¿a qué es igual *xʳxˢ*?
+
+- A. *xʳ⁺ˢ*
+- B. *xʳˢ*
+- C. *xʳ⁻ˢ*
+- D. *xʳ* + *xˢ*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 79
+**Subtema:** Exponentes racionales · Teorema 2.5.1 leyes de los exponentes racionales
+
+Teorema 2.5.1, leyes de los exponentes racionales: i) *xʳxˢ* = *xʳ⁺ˢ*.
+
+### 137
+
+En relación con el libro de Geometría Analítica, según la ley ii) del Teorema 2.5.1, ¿a qué es igual (*xʳ*)ˢ?
+
+- A. *xʳˢ* = (*xˢ*)ʳ
+- B. *xʳ⁺ˢ*
+- C. *xʳ⁻ˢ*
+- D. *xʳ* · *xˢ*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 79
+**Subtema:** Exponentes racionales · Teorema 2.5.1 leyes de los exponentes racionales
+
+Teorema 2.5.1, leyes de los exponentes racionales: ii) (*xʳ*)ˢ = *xʳˢ* = (*xˢ*)ʳ.
+
+### 138
+
+De acuerdo con el libro de Geometría Analítica, según la ley iii) del Teorema 2.5.1, ¿a qué es igual (*xy*)ʳ?
+
+- A. *xʳyʳ*
+- B. *xʳ* + *yʳ*
+- C. *x* · *yʳ*
+- D. (*xy*)^(2*r*)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 79
+**Subtema:** Exponentes racionales · Teorema 2.5.1 leyes de los exponentes racionales
+
+Teorema 2.5.1, leyes de los exponentes racionales: iii) (*xy*)ʳ = *xʳyʳ*.
+
+### 139
+
+De conformidad con el libro de Geometría Analítica, según la ley iv) del Teorema 2.5.1, ¿a qué es igual (*x*/*y*)ʳ?
+
+- A. *xʳ*/*yʳ*
+- B. *xʳyʳ*
+- C. *x*/*yʳ*
+- D. *yʳ*/*xʳ*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 79
+**Subtema:** Exponentes racionales · Teorema 2.5.1 leyes de los exponentes racionales
+
+Teorema 2.5.1, leyes de los exponentes racionales: iv) (*x*/*y*)ʳ = *xʳ*/*yʳ*.
+
+### 140
+
+En relación con el libro de Geometría Analítica, según la ley v) del Teorema 2.5.1, ¿a qué es igual *xʳ*/*xˢ*?
+
+- A. *xʳ⁻ˢ*
+- B. *xʳ⁺ˢ*
+- C. *xʳˢ*
+- D. *xˢ⁻ʳ*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 79
+**Subtema:** Exponentes racionales · Teorema 2.5.1 leyes de los exponentes racionales
+
+Teorema 2.5.1, leyes de los exponentes racionales: v) *xʳ*/*xˢ* = *xʳ⁻ˢ*.
