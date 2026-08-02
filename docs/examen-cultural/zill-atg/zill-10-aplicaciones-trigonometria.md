@@ -46,7 +46,7 @@ directa.** Detalle completo del método en el encabezado del capítulo 4 y en
 El **capítulo 10** completo tiene siete secciones:
 
 - **§10.1 Resolución de triángulos rectángulos** (pp. 444–445) ← este archivo lo cubre.
-- **§10.2 Aplicaciones del triángulo rectángulo** (pp. 446–…) ← este archivo lo cubre.
+- **§10.2 Aplicaciones del triángulo rectángulo** (pp. 446–449) ← este archivo lo cubre.
 - **§10.3 Ley de los senos** ← este archivo lo cubre.
 - **§10.4 Ley de los cosenos** ← este archivo lo cubre.
 - **§10.5 Movimiento armónico simple** ← este archivo lo cubre.
@@ -71,6 +71,11 @@ n-ésimas— evitando repetir lo ya keyeado en §3.4 (decisión de Carlo, 2 ago 
 la condición para poder resolver un triángulo rectángulo, la convención de identificación
 (Fig. 10.1.1: vértice del ángulo recto en C, ángulos α y β en A y B, lados opuestos a y b,
 hipotenusa c) y la notación de las funciones trigonométricas inversas.
+
+**§10.2 · CERRADO** en 4 reactivos (reactivos 7–10): para qué sirve la trigonometría del
+triángulo rectángulo (longitudes, alturas y distancias) y la definición de los ángulos de
+elevación y de depresión (Fig. 10.2.3). El resto de la sección son ejemplos numéricos, que no
+llevan reactivos.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -169,3 +174,67 @@ De conformidad con el libro de Geometría Analítica, ¿con qué símbolos se de
 **Subtema:** Resolución de triángulos rectángulos · funciones trigonométricas inversas
 
 Las funciones trigonométricas inversas se denotan con sen⁻¹ o arcoseno, cos⁻¹ o arcocoseno, tan⁻¹ o arcotangente, y así sucesivamente.
+
+---
+
+## Sub-lote 2 · §10.2 Aplicaciones del triángulo rectángulo (pp. 446–449)
+
+### 7
+
+De acuerdo con el libro de Geometría Analítica, ¿para qué sirve la trigonometría del triángulo rectángulo?
+
+- A. Para resolver muchos problemas prácticos, en particular los que se relacionan con longitudes, alturas y distancias
+- B. Únicamente para calcular el área de figuras planas
+- C. Únicamente para estudiar el movimiento de los planetas
+- D. Para resolver ecuaciones de segundo grado
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 446
+**Subtema:** Aplicaciones del triángulo rectángulo · introducción
+
+La trigonometría del triángulo rectángulo sirve para resolver muchos problemas prácticos, en particular los que se relacionan con longitudes, alturas y distancias.
+
+### 8
+
+Según el libro de Geometría Analítica, ¿qué ángulo tiene un nombre especial en las aplicaciones del triángulo rectángulo?
+
+- A. El ángulo entre la visual del observador a un objeto y la horizontal
+- B. El ángulo entre dos visuales del observador a dos objetos distintos
+- C. El ángulo entre la visual del observador y la vertical
+- D. El ángulo entre el objeto y su sombra
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 447
+**Subtema:** Aplicaciones del triángulo rectángulo · ángulos de elevación y de depresión
+
+El ángulo entre la visual del observador a un objeto, y la horizontal, tiene un nombre especial.
+
+### 9
+
+De conformidad con el libro de Geometría Analítica, cuando la visual del observador es hacia un objeto arriba de la horizontal, ¿cómo se llama el ángulo (en el caso general)?
+
+- A. Ángulo de elevación
+- B. Ángulo de depresión
+- C. Ángulo de refracción
+- D. Ángulo de incidencia
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 447
+**Subtema:** Aplicaciones del triángulo rectángulo · ángulo de elevación
+
+Si la visual es hacia un objeto arriba de la horizontal, el ángulo se llama ángulo de nivel, y en el caso general se llama ángulo de elevación.
+
+### 10
+
+En relación con el libro de Geometría Analítica, cuando la visual del observador es hacia un objeto abajo de la horizontal, ¿cómo se llama el ángulo?
+
+- A. Ángulo de depresión
+- B. Ángulo de elevación
+- C. Ángulo de nivel
+- D. Ángulo llano
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 447
+**Subtema:** Aplicaciones del triángulo rectángulo · ángulo de depresión
+
+Si la visual es hacia un objeto abajo de la horizontal, el ángulo se llama ángulo de depresión.
