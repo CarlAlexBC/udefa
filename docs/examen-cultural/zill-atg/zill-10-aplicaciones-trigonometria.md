@@ -49,7 +49,7 @@ El **capítulo 10** completo tiene siete secciones:
 - **§10.2 Aplicaciones del triángulo rectángulo** (pp. 446–449) ← este archivo lo cubre.
 - **§10.3 Ley de los senos** (pp. 453–456) ← este archivo lo cubre.
 - **§10.4 Ley de los cosenos** (pp. 457–460) ← este archivo lo cubre.
-- **§10.5 Movimiento armónico simple** ← este archivo lo cubre.
+- **§10.5 Movimiento armónico simple** (pp. 463–466) ← este archivo lo cubre.
 - **§10.6 Forma trigonométrica de los números complejos** ← este archivo lo cubre.
 - **§10.7 Potencias y raíces de números complejos** ← este archivo lo cubre.
 
@@ -90,6 +90,15 @@ para cualquier triángulo, su reducción a Pitágoras cuando γ=90°, la definic
 (navegación) y la notación S40°O, y las **Notas del aula**: la definición de triángulo
 *oblicuo*, la tabla de método más apropiado por tipo de dato, y los consejos sobre cuándo un
 problema no tiene solución. Los ejemplos numéricos no llevan reactivos.
+
+**§10.5 · CERRADO** en 15 reactivos (reactivos 34–48): la introducción (modelos del movimiento
+oscilatorio no amortiguado de una masa sobre un resorte), la adición de dos funciones
+senoidales y su periodo común 2π/B, el **Teorema 10.5.1** (`c₁ cos Bx + c₂ sen Bx =
+A sen(Bx+φ)`, con `A=√(c₁²+c₂²)`), el modelo (5) del desplazamiento y la posición de
+equilibrio, la **Definición 10.5.1** de movimiento armónico simple, y la terminología
+resorte-masa: `ω=√(k/m)`, la constante de resorte, la masa, el desplazamiento y la velocidad
+iniciales, el periodo `p=2π/ω` y la frecuencia `f=ω/2π`. Los ejemplos numéricos no llevan
+reactivos.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -605,3 +614,232 @@ De conformidad con las Notas del aula del libro de Geometría Analítica, si al 
 **Subtema:** Ley de los cosenos · Notas del aula · sin solución
 
 Si obtiene usted un valor mayor que 1 para el seno de un ángulo al aplicar la ley de los senos, el problema no tiene solución.
+
+---
+
+## Sub-lote 5 · §10.5 Movimiento armónico simple (pp. 463–466)
+
+### 34
+
+De acuerdo con el libro de Geometría Analítica, ¿en qué se enfoca la sección de movimiento armónico simple?
+
+- A. En los modelos matemáticos del movimiento oscilatorio no amortiguado de una masa sobre un resorte
+- B. En el movimiento de los planetas alrededor del Sol
+- C. En la caída libre de los cuerpos
+- D. En el movimiento rectilíneo uniforme
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 463
+**Subtema:** Movimiento armónico simple · introducción
+
+En esta sección nos enfocaremos en los modelos matemáticos del movimiento oscilatorio no amortiguado de una masa sobre un resorte.
+
+### 35
+
+Según el libro de Geometría Analítica, cualquier combinación lineal de una función seno y una función coseno de la forma y = c₁ cos Bx + c₂ sen Bx se puede expresar como:
+
+- A. Una función seno desplazada o una función coseno desplazada
+- B. Únicamente como una función tangente
+- C. Una recta de pendiente constante
+- D. Una función exponencial
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 463
+**Subtema:** Movimiento armónico simple · adición de dos funciones senoidales
+
+Cualquier combinación lineal de una función seno y una función coseno de la forma y = c₁ cos Bx + c₂ sen Bx, donde c₁ y c₂ son ambas constantes, se puede expresar ya sea como una función seno desplazada y = A sen(Bx + φ), B > 0, o como una función coseno desplazada y = A cos(Bx + φ).
+
+### 36
+
+De conformidad con el libro de Geometría Analítica, en la expresión y = c₁ cos Bx + c₂ sen Bx, ¿qué periodo tienen las funciones sen Bx y cos Bx?
+
+- A. El mismo periodo, 2π/B
+- B. Periodos distintos, π/B y 2π/B
+- C. El mismo periodo, B/2π
+- D. El mismo periodo, πB
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 463
+**Subtema:** Movimiento armónico simple · periodo común
+
+Note que en (1) las funciones seno y coseno sen Bx y cos Bx tienen el mismo periodo 2π/B.
+
+### 37
+
+De acuerdo con el Teorema 10.5.1 del libro de Geometría Analítica, en la reducción c₁ cos Bx + c₂ sen Bx = A sen(Bx + φ), ¿cómo se define la amplitud A?
+
+- A. A = √(c₁² + c₂²)
+- B. A = c₁² + c₂²
+- C. A = √(c₁² − c₂²)
+- D. A = c₁ + c₂
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 464
+**Subtema:** Movimiento armónico simple · Teorema 10.5.1
+
+Para los números reales c₁, c₂, B y x, c₁ cos Bx + c₂ sen Bx = A sen(Bx + φ), donde A = √(c₁² + c₂²).
+
+### 38
+
+Según el Teorema 10.5.1 del libro de Geometría Analítica, en la reducción c₁ cos Bx + c₂ sen Bx = A sen(Bx + φ), ¿cómo queda tan φ?
+
+- A. tan φ = c₁/c₂
+- B. tan φ = c₂/c₁
+- C. tan φ = c₁·c₂
+- D. tan φ = A/c₁
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 464
+**Subtema:** Movimiento armónico simple · Teorema 10.5.1
+
+Donde A y φ están definidos por A = √(c₁² + c₂²), sen φ = c₁/A, cos φ = c₂/A, tan φ = c₁/c₂.
+
+### 39
+
+De conformidad con el libro de Geometría Analítica, para una masa que cuelga de un resorte y en ausencia de fricción o amortiguación, ¿cuál es el modelo del desplazamiento de la masa medido desde la posición de equilibrio?
+
+- A. y(t) = y₀ cos ωt + (v₀/ω) sen ωt
+- B. y(t) = v₀ cos ωt + (y₀/ω) sen ωt
+- C. y(t) = y₀ sen ωt + (v₀/ω) cos ωt
+- D. y(t) = y₀ cos ωt − (v₀/ω) sen ωt
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 465
+**Subtema:** Movimiento armónico simple · modelo del desplazamiento
+
+Se da un modelo matemático para el desplazamiento de la masa medida desde una posición que se llama posición de equilibrio mediante la función y(t) = y₀ cos ωt + (v₀/ω) sen ωt.
+
+### 40
+
+De acuerdo con el libro de Geometría Analítica, ¿desde qué posición se mide el desplazamiento (o distancia dirigida) de la masa que cuelga del resorte?
+
+- A. Desde la posición de equilibrio
+- B. Desde el punto más alto del recorrido
+- C. Desde el punto de sujeción del resorte
+- D. Desde el suelo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 465
+**Subtema:** Movimiento armónico simple · posición de equilibrio
+
+Se da un modelo matemático para el desplazamiento (o distancia dirigida) de la masa medida desde una posición que se llama posición de equilibrio.
+
+### 41
+
+Según la Definición 10.5.1 del libro de Geometría Analítica, un punto que se mueve en una línea de coordenadas cuya posición en el momento t está dada por y(t) = A sen(ωt + φ) o y(t) = A cos(ωt + φ), con A, ω > 0 y φ constantes, ¿qué presenta?
+
+- A. Un movimiento armónico simple
+- B. Un movimiento rectilíneo uniforme
+- C. Un movimiento uniformemente acelerado
+- D. Un movimiento amortiguado
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 465
+**Subtema:** Movimiento armónico simple · Definición 10.5.1
+
+Se dice que un punto que se mueve en una línea de coordenadas cuya posición en el momento t es dada por y(t) = A sen(ωt + φ) o y(t) = A cos(ωt + φ), donde A, ω > 0 y φ son constantes, presenta un movimiento armónico simple.
+
+### 42
+
+De conformidad con la terminología del libro de Geometría Analítica, en el modelo del movimiento armónico simple, ¿a qué es igual ω?
+
+- A. ω = √(k/m)
+- B. ω = √(m/k)
+- C. ω = k/m
+- D. ω = k·m
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 465
+**Subtema:** Movimiento armónico simple · terminología · ω
+
+También en (5), ω = √(k/m), donde k es la constante de resorte, m es la masa sujetada al resorte.
+
+### 43
+
+De acuerdo con el libro de Geometría Analítica, ¿qué es la constante de resorte k?
+
+- A. Un indicador de la rigidez del resorte
+- B. La masa sujetada al resorte
+- C. El desplazamiento inicial de la masa
+- D. La velocidad inicial de la masa
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 465
+**Subtema:** Movimiento armónico simple · constante de resorte
+
+k es la constante de resorte (un indicador de la rigidez del resorte).
+
+### 44
+
+Según el libro de Geometría Analítica, en el modelo del movimiento armónico simple, ¿qué representa y₀?
+
+- A. El desplazamiento inicial de la masa
+- B. La velocidad inicial de la masa
+- C. La constante de resorte
+- D. El periodo del movimiento
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 465
+**Subtema:** Movimiento armónico simple · desplazamiento inicial
+
+y₀ es el desplazamiento inicial de la masa (medido arriba o debajo de la posición de equilibrio).
+
+### 45
+
+De conformidad con el libro de Geometría Analítica, en el modelo del movimiento armónico simple, ¿qué representa v₀?
+
+- A. La velocidad inicial de la masa
+- B. El desplazamiento inicial de la masa
+- C. La constante de resorte
+- D. La frecuencia del movimiento
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 465
+**Subtema:** Movimiento armónico simple · velocidad inicial
+
+v₀ es la velocidad inicial de la masa.
+
+### 46
+
+De acuerdo con el libro de Geometría Analítica, ¿a qué es igual el periodo p del movimiento armónico simple?
+
+- A. p = 2π/ω segundos
+- B. p = ω/2π segundos
+- C. p = 2πω segundos
+- D. p = π/ω segundos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 465
+**Subtema:** Movimiento armónico simple · periodo
+
+El periodo p del movimiento es p = 2π/ω segundos.
+
+### 47
+
+Según el libro de Geometría Analítica, ¿a qué es igual la frecuencia f del movimiento armónico simple?
+
+- A. f = 1/p = ω/2π
+- B. f = p = 2π/ω
+- C. f = 2π/ω
+- D. f = ω·2π
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 465
+**Subtema:** Movimiento armónico simple · frecuencia
+
+El número f = 1/p = 1/(2π/ω) = ω/2π se llama la frecuencia del movimiento.
+
+### 48
+
+De conformidad con el libro de Geometría Analítica, ¿qué indica la frecuencia del movimiento?
+
+- A. El número de ciclos completados por la gráfica por unidad de tiempo
+- B. La distancia máxima recorrida por la masa
+- C. La rigidez del resorte
+- D. El desplazamiento inicial de la masa
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 465
+**Subtema:** Movimiento armónico simple · frecuencia · interpretación
+
+La frecuencia indica el número de ciclos completados por la gráfica por unidad de tiempo.
