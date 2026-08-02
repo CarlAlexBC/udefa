@@ -66,8 +66,15 @@ ecuación, identidad, ecuación condicional, conjunto solución), las **ecuacion
 **Teorema 3.1.1** (operaciones que producen ecuaciones equivalentes) y la **ecuación lineal**
 *ax* + *b* = 0 (*a* ≠ 0) con su única solución {−*b*/*a*}.
 
-**Pendiente de §3.1:** p. 114 (las **soluciones extrañas**) y lo que reste de la sección. Luego **§3.2
-a §3.7**. Con ellas, el capítulo 3 quedará cerrado para la EMMA.
+**Sub-lote 2 (pp. 114–115, reactivos 15–18):** cierra **§3.1** con las **soluciones extrañas** (al
+multiplicar ambos miembros por una expresión con variable la ecuación puede no equivaler a la original;
+un valor así se llama solución extraña y es esencial comprobarlo) y la nota de que a resolver una variable
+también se le llama **despejar**. Los Ejemplos 1–7 y los *Ejercicios* de las pp. 112–116 quedan fuera por
+la norma de teoría sobre práctica.
+
+**§3.1 Ecuaciones · CERRADO** (pp. 112–115, reactivos 1–18).
+
+**Pendiente:** las secciones **§3.2 a §3.7**. Con ellas, el capítulo 3 quedará cerrado para la EMMA.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -286,3 +293,67 @@ De conformidad con el libro de Geometría Analítica, ¿cuántas soluciones tien
 **Subtema:** Ecuaciones · solución de la ecuación lineal
 
 La ecuación lineal *ax* + *b* = 0, con *a* ≠ 0, tiene exactamente una solución: {−*b*/*a*}.
+
+---
+
+## Sub-lote 2 · §3.1 Ecuaciones — soluciones extrañas y despejar una variable (pp. 114–115)
+
+### 15
+
+De acuerdo con el libro de Geometría Analítica, cuando los dos miembros de una ecuación se multiplican por una expresión que contiene una variable, ¿qué puede ocurrir con la ecuación resultante?
+
+- A. Puede no equivaler a la original
+- B. Siempre equivale a la original
+- C. Siempre pierde todas sus soluciones
+- D. Siempre se convierte en una identidad
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 114
+**Subtema:** Ecuaciones · soluciones extrañas
+
+Cuando los dos miembros de una ecuación se multiplican por una expresión que contiene una variable, la ecuación resultante puede no equivaler a la original, pues excluimos la multiplicación por 0 en la operación ii) del teorema 3.1.1.
+
+### 16
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se llama un valor que es solución de la ecuación resultante (tras multiplicar por una expresión con variable) pero no lo es de la ecuación original?
+
+- A. Solución extraña
+- B. Solución equivalente
+- C. Raíz doble
+- D. Solución condicional
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 114
+**Subtema:** Ecuaciones · solución extraña
+
+Las dos ecuaciones no son equivalentes, pues obviamente 0 es una solución de la última pero no lo es de la primera. Decimos entonces que 0 es una solución extraña de la ecuación original.
+
+### 17
+
+En relación con el libro de Geometría Analítica, ¿qué es esencial hacer con una "solución" obtenida al multiplicar ambos miembros de una ecuación por una expresión que puede ser 0 para algunos valores de la variable?
+
+- A. Comprobarla
+- B. Descartarla siempre
+- C. Multiplicarla por su recíproco
+- D. Sumarla al conjunto solución sin verificarla
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 114
+**Subtema:** Ecuaciones · comprobación de soluciones
+
+Es esencial comprobar una "solución" obtenida como resultado de multiplicar ambos miembros de una ecuación por una expresión que puede ser 0 para algunos valores de la variable.
+
+### 18
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se le denomina también a resolver una variable?
+
+- A. Despejar una variable
+- B. Sustituir una variable
+- C. Factorizar una variable
+- D. Cancelar una variable
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 115
+**Subtema:** Ecuaciones · resolución (despejar) de una variable
+
+A menudo a resolver una variable se le denomina también despejar una variable.
