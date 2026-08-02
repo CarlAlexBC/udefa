@@ -1,6 +1,6 @@
 # Geometría Analítica · Capítulo 10 · Aplicaciones de trigonometría
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 10 → EN CURSO**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 10 → CERRADO (§10.1–§10.7, reactivos 1–69)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -51,7 +51,7 @@ El **capítulo 10** completo tiene siete secciones:
 - **§10.4 Ley de los cosenos** (pp. 457–460) ← este archivo lo cubre.
 - **§10.5 Movimiento armónico simple** (pp. 463–466) ← este archivo lo cubre.
 - **§10.6 Forma trigonométrica de los números complejos** (pp. 467–470) ← este archivo lo cubre.
-- **§10.7 Potencias y raíces de números complejos** ← este archivo lo cubre.
+- **§10.7 Potencias y raíces de números complejos** (pp. 472–475) ← este archivo lo cubre.
 
 Los *Ejercicios de repaso* quedan fuera por la norma de teoría sobre práctica. Las reseñas
 históricas de las portadillas sí entran: son datos de recuerdo. Por regla de Carlo, los
@@ -107,6 +107,20 @@ origen) y `|z|=√(z z̄)`, la **forma trigonométrica o polar** `z = r(cos θ +
 **argumento** θ (`tan θ = b/a`, no determinado de forma exclusiva, convención en [0,2π) o
 0≤θ<360°) y el **Teorema 10.6.1** de producto y cociente en forma polar (multiplicar/dividir
 módulos, sumar/restar argumentos). Los ejemplos numéricos no llevan reactivos.
+
+**§10.7 · CERRADO** en 8 reactivos (reactivos 62–69): la introducción (potencias zⁿ y raíces
+n-ésimas), el **Teorema 10.7.1** (**teorema de DeMoivre**, `zⁿ = rⁿ(cos nθ + i sen nθ)`) y su
+epónimo Abraham DeMoivre, la definición de **raíz n-ésima** (`wⁿ = z`), el hecho de que hay
+exactamente n raíces distintas, el **Teorema 10.7.2** (`w_k = r^(1/n)[cos((θ+2kπ)/n) +
+i sen((θ+2kπ)/n)]`, k=0..n−1) y la distribución de las raíces (espaciadas por igual en el
+círculo de radio |z|^(1/n)). Los ejemplos numéricos no llevan reactivos.
+
+**CAPÍTULO 10 · COMPLETO para la EMMA** (§10.1 a §10.7, reactivos 1–69). Con los capítulos 8
+(`zill-08-trigonometria-triangulo-rectangulo.md`, 58 react.) y 9
+(`zill-09-trigonometria-circulo-unitario.md`, 53 react.), ya cerrados para la EMI con el mismo
+alcance "Completo" que pide la EMMA, y el capítulo 11 (`zill-11-temas-geometria-analitica.md`),
+la materia *Trigonometría y Geometría Analítica* (`TGA-02-2026`) de la EMMA queda cubierta al
+nivel de reactivos en cuanto el capítulo 11 se cierre.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -1050,3 +1064,127 @@ De acuerdo con el libro de Geometría Analítica, al multiplicar dos números co
 **Subtema:** Forma trigonométrica de los números complejos · producto · regla
 
 El módulo del producto z₁z₂ es el producto de los módulos de z₁ y z₂; el argumento del producto es la suma de los argumentos de z₁ y z₂.
+
+---
+
+## Sub-lote 7 · §10.7 Potencias y raíces de números complejos (pp. 472–475)
+
+### 62
+
+De acuerdo con el libro de Geometría Analítica, además de multiplicar y dividir, ¿qué permite calcular la forma trigonométrica del producto de números complejos?
+
+- A. Las potencias de un número complejo, es decir, zⁿ, donde n es un entero positivo
+- B. Únicamente la parte real de un número complejo
+- C. El conjugado de un número complejo
+- D. La suma de dos números complejos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 472
+**Subtema:** Potencias y raíces de números complejos · introducción
+
+La forma trigonométrica del producto z₁z₂ dado en (3) del teorema 10.6.1 también proporciona un medio para calcular las potencias de un número complejo, es decir, zⁿ, donde n es un entero positivo.
+
+### 63
+
+Según el libro de Geometría Analítica, ¿qué matemático francés da nombre al teorema para calcular las potencias de un número complejo?
+
+- A. Abraham DeMoivre
+- B. Blaise Pascal
+- C. Pierre de Fermat
+- D. Augustin-Louis Cauchy
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 472
+**Subtema:** Potencias y raíces de números complejos · teorema de DeMoivre
+
+Ilustra un caso particular del siguiente teorema que lleva el nombre del matemático francés Abraham DeMoivre (1667-1754).
+
+### 64
+
+De conformidad con el Teorema 10.7.1 (teorema de DeMoivre), si z = r(cos θ + i sen θ) y n es un entero positivo, ¿a qué es igual zⁿ?
+
+- A. zⁿ = rⁿ(cos nθ + i sen nθ)
+- B. zⁿ = rⁿ(cos θ + i sen θ)
+- C. zⁿ = r^(1/n)(cos nθ + i sen nθ)
+- D. zⁿ = nr(cos nθ + i sen nθ)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 473
+**Subtema:** Potencias y raíces de números complejos · Teorema 10.7.1
+
+Teorema de DeMoivre: si z = r(cos θ + i sen θ) y n es un entero positivo, entonces zⁿ = rⁿ(cos nθ + i sen nθ).
+
+### 65
+
+De acuerdo con el libro de Geometría Analítica, ¿cuándo un número w = a + bi es una raíz n-ésima (o de orden n) compleja de un número complejo z distinto de cero?
+
+- A. Si wⁿ = (a + bi)ⁿ = z, donde n es un entero positivo
+- B. Si w + z = 0
+- C. Si w = z/n
+- D. Si w es el conjugado de z
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 473
+**Subtema:** Potencias y raíces de números complejos · raíz n-ésima
+
+Decimos que un número w = a + bi es una raíz n-ésima o de orden n compleja de un número complejo z que no es cero si wⁿ = (a + bi)ⁿ = z, donde n es un entero positivo.
+
+### 66
+
+Según el libro de Geometría Analítica, ¿cuántas soluciones distintas tiene la ecuación wⁿ = z (con z ≠ 0 y n entero positivo)?
+
+- A. Exactamente n soluciones
+- B. Exactamente 2 soluciones
+- C. Una sola solución
+- D. Infinitas soluciones distintas
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 473
+**Subtema:** Potencias y raíces de números complejos · número de raíces
+
+Ahora demostraremos que existen exactamente n soluciones de la ecuación wⁿ = z.
+
+### 67
+
+De conformidad con el Teorema 10.7.2 (raíces complejas), si z = r(cos θ + i sen θ) y n es un entero positivo, ¿cuál es la fórmula de las n raíces n-ésimas complejas de z?
+
+- A. w_k = r^(1/n)[cos((θ + 2kπ)/n) + i sen((θ + 2kπ)/n)]
+- B. w_k = rⁿ[cos((θ + 2kπ)/n) + i sen((θ + 2kπ)/n)]
+- C. w_k = r^(1/n)[cos(θ + 2kπ) + i sen(θ + 2kπ)]
+- D. w_k = r^(1/n)[cos((θ − 2kπ)/n) + i sen((θ − 2kπ)/n)]
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 474
+**Subtema:** Potencias y raíces de números complejos · Teorema 10.7.2
+
+Las n distintas raíces n-ésimas complejas de z están dadas por w_k = r^(1/n)[cos((θ + 2kπ)/n) + i sen((θ + 2kπ)/n)], donde k = 0, 1, 2, …, n − 1.
+
+### 68
+
+De acuerdo con el Teorema 10.7.2 del libro de Geometría Analítica, ¿qué valores toma k para obtener las n raíces distintas de z?
+
+- A. k = 0, 1, 2, …, n − 1
+- B. k = 1, 2, 3, …, n
+- C. k = 0, 1, 2, …, n
+- D. cualquier entero k sin restricción
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 474
+**Subtema:** Potencias y raíces de números complejos · valores de k
+
+Donde k = 0, 1, 2, …, n − 1. Denotaremos las n raíces por w₀, w₁, …, w_{n−1} que corresponden a k = 0, 1, …, n − 1, respectivamente.
+
+### 69
+
+Según el libro de Geometría Analítica, ¿cómo se ubican en el plano complejo las n raíces n-ésimas distintas de un número complejo z diferente de cero?
+
+- A. Espaciadas por igual en la circunferencia del círculo de radio |z|^(1/n) con centro en el origen
+- B. Alineadas sobre el eje real
+- C. Todas en el mismo punto del plano
+- D. Espaciadas por igual sobre una recta que pasa por el origen
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 475
+**Subtema:** Potencias y raíces de números complejos · distribución de las raíces
+
+En general, las n raíces n-ésimas distintas de un número complejo z diferente de cero están espaciadas por igual en la circunferencia del círculo de radio |z|^(1/n) con centro en el origen.
