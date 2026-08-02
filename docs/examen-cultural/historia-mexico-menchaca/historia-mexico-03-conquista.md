@@ -624,3 +624,551 @@ Por los documentos pontificios: la *Provisionis Nostrae* (15 de mayo de 1486) y 
 
 ---
 
+## Sub-lote 4 · 3.3 La conquista material: la caída de México-Tenochtitlan (pp. 94–95)
+
+### 37
+
+De acuerdo con el libro de Historia de México 1, ¿cuál fue el primer señorío o pueblo con el que se enfrentó Cortés, con el que pactó una alianza pacífica?
+
+- A. Cempoala
+- B. Tlaxcala
+- C. Cholula
+- D. Tenochtitlan
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 94
+**Subtema:** 3.3 conquista material
+
+El primer señorío o pueblo con el que se enfrentó fue Cempoala (que pertenecía al Estado totonaca pero era tributario del Imperio azteca); sin embargo Cortés pactó una alianza pacífica.
+
+### 38
+
+De conformidad con el libro de Historia de México 1, ¿a qué Estado pertenecía Cempoala, aunque era tributario del Imperio azteca?
+
+- A. Al Estado totonaca
+- B. Al Estado tlaxcalteca
+- C. Al Estado purépecha
+- D. Al Estado mixteco
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 94
+**Subtema:** 3.3 conquista material
+
+Cempoala pertenecía al Estado totonaca pero era tributario del Imperio azteca.
+
+### 39
+
+En relación con el libro de Historia de México 1, ¿cuál fue la alianza más importante de Cortés, con la que reforzó su poderío militar?
+
+- A. La que obtuvo con los tlaxcaltecas
+- B. La que obtuvo con los totonacas de Cempoala
+- C. La que obtuvo con los mexicas de Tenochtitlan
+- D. La que obtuvo con los purépechas de Michoacán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 94
+**Subtema:** 3.3 conquista material
+
+La alianza más importante de Cortés fue la que obtuvo con los tlaxcaltecas, con quienes reforzó su poderío militar.
+
+### 40
+
+De acuerdo con el libro de Historia de México 1, desde el inicio de su expedición, ¿cuál fue el objetivo de Cortés?
+
+- A. La conquista de México-Tenochtitlán
+- B. El traslado de esclavos a Cuba
+- C. La fundación de Veracruz
+- D. La búsqueda de una ruta a Cipango
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 94
+**Subtema:** 3.3 conquista material
+
+Desde el inicio de su expedición, el objetivo de Cortés fue la conquista de México-Tenochtitlán.
+
+### 41
+
+De conformidad con el libro de Historia de México 1, en Cholula se dio la famosa Matanza de Cholula; ¿en qué consistió?
+
+- A. Durante dos días las huestes españolas se dedicaron a matar indígenas
+- B. En un sitio de 75 días a la ciudad
+- C. En la destrucción del Templo Mayor
+- D. En la huida nocturna de los españoles
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+Algunos pueblos, como el de Cholula, en el cual se dio la famosa Matanza de Cholula, en la que durante dos días las huestes españolas se dedicaron a matar indígenas, debido a las sospechas que tenían de un posible ataque en su contra.
+
+### 42
+
+En relación con el libro de Historia de México 1, ¿qué día llegó Cortés a la gran ciudad, pasando por en medio de los dos volcanes, por el ahora llamado "Paso de Cortés"?
+
+- A. El 8 de noviembre de 1519
+- B. El 1 de julio de 1520
+- C. El 13 de agosto de 1521
+- D. El 15 de abril de 1519
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+El 8 de noviembre de 1519, Cortés llegó a la gran ciudad, pasando por en medio de los dos volcanes, por el ahora llamado "Paso de Cortés".
+
+### 43
+
+De acuerdo con el libro de Historia de México 1, además de *hueytlahtoani* y gran *tlahtoani*, ¿cómo se refiere el libro a Moctezuma?
+
+- A. Supremo señor de la Triple Alianza
+- B. Emperador de los tlaxcaltecas
+- C. Cacique de Cempoala
+- D. Jefe del Estado totonaca
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+El mismo Moctezuma (*hueytlahtoani*, gran *tlahtoani*, o supremo señor de la Triple Alianza) lo recibe pacíficamente y lo hospeda en sus palacios.
+
+### 44
+
+De conformidad con el libro de Historia de México 1, Moctezuma recibió pacíficamente a Cortés y lo hospedó en sus palacios; ¿qué hizo Cortés a continuación?
+
+- A. Apresó a Moctezuma
+- B. Se retiró a Veracruz
+- C. Firmó una alianza con Moctezuma
+- D. Destruyó el Templo Mayor
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+El mismo Moctezuma lo recibe pacíficamente y lo hospeda en sus palacios; sin embargo, Cortés apresaría a Moctezuma.
+
+### 45
+
+En relación con el libro de Historia de México 1, el gobernador de Cuba, Diego de Velázquez, ¿a qué capitán mandó con un ejército para enfrentar a Cortés?
+
+- A. A Pánfilo de Narváez
+- B. A Pedro de Alvarado
+- C. A Cristóbal de Olid
+- D. A Nuño de Guzmán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+El gobernador de Cuba, Diego de Velázquez, queriéndose vengar de Cortés por su deslealtad, manda a Pánfilo de Narváez con un ejército a enfrentarlo.
+
+### 46
+
+De acuerdo con el libro de Historia de México 1, mientras Cortés iba a enfrentar a Narváez, ¿quién quedó a cargo en Tenochtitlan y respondió con una gran matanza?
+
+- A. El capitán Pedro de Alvarado
+- B. El capitán Pánfilo de Narváez
+- C. El gobernador Diego de Velázquez
+- D. El emperador Cuitláhuac
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+Mientras Cortés estaba en Cempoala, el capitán Pedro de Alvarado, que se había quedado a cargo en Tenochtitlan, confundió un ceremonial religioso de los indígenas, a lo que respondió con una gran matanza.
+
+### 47
+
+De conformidad con el libro de Historia de México 1, ¿qué confundió Pedro de Alvarado, celebrado en el Templo Mayor, provocando la gran matanza?
+
+- A. Un ceremonial religioso en honor a Huitzilopochtli
+- B. Una preparación militar de los tlaxcaltecas
+- C. La coronación de Cuitláhuac
+- D. Una ofrenda de oro para Cortés
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+Confundió un ceremonial religioso de los indígenas en honor a Huitzilopochtli celebrado en el Templo Mayor, como una preparación de ataque contra los españoles, a lo que respondió con una gran matanza.
+
+### 48
+
+En relación con el libro de Historia de México 1, ¿cómo murió el emperador Moctezuma II?
+
+- A. De una pedrada
+- B. De viruela
+- C. Fusilado por los españoles
+- D. Ahogado en el lago de Texcoco
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+El emperador Moctezuma II murió de una pedrada.
+
+### 49
+
+De acuerdo con el libro de Historia de México 1, tras la muerte de Moctezuma II, ¿a quién eligieron los indígenas para continuar la lucha?
+
+- A. A Cuitláhuac
+- B. A Cuauhtémoc
+- C. A Cempoala
+- D. A Tzintzicha
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+Los indígenas eligieron a Cuitláhuac, quien continuaría la lucha, acosando a tal grado a los españoles que tuvieron que salir huyendo.
+
+### 50
+
+De conformidad con el libro de Historia de México 1, ¿cómo se conoció el evento del 1 de julio de 1520, cuando Cortés y sus hombres tuvieron que salir huyendo?
+
+- A. La Noche Triste
+- B. La Matanza de Cholula
+- C. El Paso de Cortés
+- D. La Noche Victoriosa
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+El 1 de julio de 1520, Cortés y sus hombres tuvieron que salir huyendo, evento que se llegó a conocer como la Noche Triste.
+
+### 51
+
+En relación con el libro de Historia de México 1, ¿de qué murió Cuitláhuac en Tenochtitlan?
+
+- A. Víctima de la viruela
+- B. De una pedrada
+- C. En combate durante la Noche Triste
+- D. Apresado en una canoa
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+Mientras, en Tenochtitlan, murió Cuitláhuac, víctima de la viruela, y fue elegido Cuauhtémoc como sucesor.
+
+### 52
+
+De acuerdo con el libro de Historia de México 1, tras la muerte de Cuitláhuac, ¿quién fue elegido sucesor y defendería la ciudad en el sitio?
+
+- A. Cuauhtémoc
+- B. Moctezuma II
+- C. Pedro de Alvarado
+- D. Tzintzicha
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+Fue elegido Cuauhtémoc como sucesor, quien defendería la ciudad en el sitio que le impondría Cortés y sus huestes.
+
+### 53
+
+De conformidad con el libro de Historia de México 1, ¿cuántos bergantines construyó Cortés para atacar la ciudad por agua?
+
+- A. 13 bergantines
+- B. 11 naves
+- C. 75 bergantines
+- D. 500 embarcaciones
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+Construyó 13 bergantines para atacar a la ciudad por agua, dándole sitio a la ciudad de México desde junio de 1520.
+
+### 54
+
+En relación con el libro de Historia de México 1, materialmente destruida, ¿por qué causas se rindió la ciudad?
+
+- A. A causa del hambre y de la epidemia de viruela
+- B. A causa de un terremoto
+- C. A causa de la traición de los tlaxcaltecas
+- D. A causa de la llegada de refuerzos españoles
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+Materialmente destruida, ésta se rinde a causa del hambre y de la epidemia de viruela (enfermedad traída por los españoles).
+
+### 55
+
+De acuerdo con el libro de Historia de México 1, ¿cuándo fue apresado Cuauhtémoc en una de las canoas, concluyendo el sitio de la ciudad?
+
+- A. El 13 de agosto de 1521
+- B. El 1 de julio de 1520
+- C. El 8 de noviembre de 1519
+- D. El 13 de agosto de 1520
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+Cuauhtémoc fue apresado en una de las canoas el 13 de agosto de 1521, y con este hecho concluyó el sitio de la ciudad.
+
+### 56
+
+De conformidad con el libro de Historia de México 1, ¿cuánto duró el sitio de la ciudad de México?
+
+- A. 75 días
+- B. 40 días
+- C. 175 días
+- D. Dos días
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 95
+**Subtema:** 3.3 conquista material
+
+Con este hecho concluyó el sitio de la ciudad, que duró 75 días.
+
+---
+
+## Sub-lote 5 · 3.3 La conquista material: la expansión y la encomienda (p. 98)
+
+### 57
+
+De acuerdo con el libro de Historia de México 1, luego de la caída de Tenochtitlan, ¿dónde estableció Cortés sus cuarteles para seguir con el proceso de Conquista?
+
+- A. En Coyoacán
+- B. En Veracruz
+- C. En Cempoala
+- D. En Tlaxcala
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+Luego de la caída de Tenochtitlan, Cortés establece sus cuarteles en Coyoacán para seguir con el proceso de Conquista.
+
+### 58
+
+De conformidad con el libro de Historia de México 1, ¿qué provincia, "la organización estatal más compacta de Mesoamérica", sometió Cortés?
+
+- A. La provincia de Michoacán
+- B. La provincia de Oaxaca
+- C. La provincia de Pánuco
+- D. La provincia de Guatemala
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+Se somete la provincia de Michoacán, que era la "organización estatal más compacta de Mesoamérica".
+
+### 59
+
+En relación con el libro de Historia de México 1, ¿cómo se llamaba el *cazontzi* (rey) de Michoacán a quien se impuso el reconocimiento de la Corona de Castilla, sin deponerlo?
+
+- A. Tzintzicha
+- B. Cuauhtémoc
+- C. Cuitláhuac
+- D. Moctezuma
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+Al imponer al *cazontzi* (rey), de nombre Tzintzicha, el reconocimiento de la Corona de Castilla, sin deponerlo.
+
+### 60
+
+De acuerdo con el libro de Historia de México 1, el hecho de que el Imperio mexica hubiera caído no significaba que la guerra hubiese terminado; ¿qué era necesario?
+
+- A. Someter señorío por señorío, provincia por provincia
+- B. Regresar a España a informar al rey
+- C. Firmar la paz con los tlaxcaltecas
+- D. Fundar de inmediato la capital
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+El hecho de que el Imperio mexica hubiera caído no significaba que la guerra hubiese terminado, era necesario someter señorío por señorío, provincia por provincia.
+
+### 61
+
+De conformidad con el libro de Historia de México 1, ¿quién se lanzó a la conquista en Pánuco y las Hibueras?
+
+- A. El mismo Cortés
+- B. Luis Marín
+- C. Gonzalo de Sandoval
+- D. Nuño de Guzmán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+La Conquista española va a continuar durante todo el siglo XVI; el mismo Cortés se lanzó a la conquista en Pánuco y las Hibueras.
+
+### 62
+
+En relación con el libro de Historia de México 1, ¿quién realizó la conquista en Guatemala?
+
+- A. Alvarado
+- B. Cristóbal de Olid
+- C. Luis Marín
+- D. Gonzalo de Sandoval
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+Alvarado lo hizo en Guatemala; y Nuño de Guzmán en el noroeste de México.
+
+### 63
+
+De acuerdo con el libro de Historia de México 1, la conquista del norte, de los chichimecas, se prolongó durante 40 años; ¿con qué nombre se le denominó?
+
+- A. La Guerra Chichimeca
+- B. La Matanza de Cholula
+- C. La Noche Triste
+- D. La Reconquista
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+La conquista del norte, de los chichimecas (indios bárbaros), se prolongaría durante 40 años, con la denominada Guerra Chichimeca.
+
+### 64
+
+De conformidad con el libro de Historia de México 1, ¿cuándo terminaría la Guerra Chichimeca, y con la fundación de qué ciudad?
+
+- A. Hasta 1590, con la fundación de la ciudad de San Luis Potosí
+- B. Hasta 1521, con la fundación de la ciudad de México
+- C. Hasta 1550, con la fundación de la ciudad de Guadalajara
+- D. Hasta 1600, con la fundación de la ciudad de Zacatecas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+La Guerra Chichimeca terminaría hasta 1590, con la fundación de la ciudad de San Luis Potosí.
+
+### 65
+
+En relación con el libro de Historia de México 1, ¿con qué títulos ratificó a Cortés el ahora emperador de España Carlos V?
+
+- A. Como capitán general y justicia mayor, además de gobernador de la Nueva España
+- B. Como virrey y arzobispo de la Nueva España
+- C. Como almirante de Castilla
+- D. Como *cazontzi* de Michoacán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+Ratificado Cortés por el ahora emperador de España Carlos V, como capitán general y justicia mayor, además del título de gobernador de la Nueva España.
+
+### 66
+
+De acuerdo con el libro de Historia de México 1, ¿qué fundó Cortés, considerando a la ciudad de México como capital de la Nueva España?
+
+- A. El Ayuntamiento de México
+- B. La Real Audiencia
+- C. El Supremo Consejo de Indias
+- D. La Diputación Provincial
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+Funda el Ayuntamiento de México, considerando a la ciudad de México como capital de la Nueva España y hace la nueva traza de la ciudad al estilo español.
+
+### 67
+
+De conformidad con el libro de Historia de México 1, ¿de qué esquema se valió Cortés para controlar a los señoríos?
+
+- A. Del mismo esquema político del Imperio mexica
+- B. Del sistema feudal europeo
+- C. Del modelo de las Cortes de Cádiz
+- D. Del Patronato Real
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+Cortés se valió del mismo esquema político del Imperio mexica para controlar a los señoríos.
+
+### 68
+
+En relación con el libro de Historia de México 1, ¿a quiénes se exentó del pago de tributo personal, en compensación por el apoyo recibido para conquistar Tenochtitlan?
+
+- A. A los tlaxcaltecas
+- B. A los totonacas
+- C. A los purépechas
+- D. A los chichimecas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+Se hicieron algunas excepciones, como por ejemplo con los tlaxcaltecas, a quienes se exenta del pago de tributo personal en compensación por el apoyo recibido para conquistar Tenochtitlan.
+
+### 69
+
+De acuerdo con el libro de Historia de México 1, los gobernantes de cada señorío (los *tlahtoque*) fueron denominados ahora, ¿cómo?
+
+- A. Caciques
+- B. Encomenderos
+- C. Virreyes
+- D. Corregidores
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+Cortés otorga continuidad a la función del gobernante de cada señorío (los *tlahtoque*), denominados ahora caciques.
+
+### 70
+
+De conformidad con el libro de Historia de México 1, ¿cuál era la persona clave para que funcionara el esquema, que tenía a su cargo uno o varios señoríos?
+
+- A. El encomendero
+- B. El cacique
+- C. El *tlahtoani*
+- D. El obispo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+La persona clave para que funcionara este esquema sería la del encomendero, el cual tenía a su cargo uno o varios señoríos.
+
+### 71
+
+En relación con el libro de Historia de México 1, los señoríos a cargo de un encomendero fueron llamados posteriormente, ¿cómo?
+
+- A. Encomiendas
+- B. Diócesis
+- C. Provincias
+- D. Cabildos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+El encomendero tenía a su cargo uno o varios señoríos (llamados posteriormente Encomiendas).
+
+### 72
+
+De acuerdo con el libro de Historia de México 1, ¿en qué consistía el "servicio personal"?
+
+- A. En el pago de tributo no en bienes, sino en trabajo
+- B. En el pago de tributo en oro y plata
+- C. En el servicio militar obligatorio
+- D. En la entrega de tierras a la Corona
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 98
+**Subtema:** 3.3 conquista material
+
+Otros privilegios, como el detentar el tributo del señorío, el del "servicio personal" (que consistía en el pago de tributo no en bienes, sino en trabajo).
+
+---
+
