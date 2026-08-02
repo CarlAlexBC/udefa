@@ -136,6 +136,7 @@ export class ExamenesService {
     'Escuela Militar de Oficiales de Sanidad': 'EMOS',
     'Escuela Militar de Aviación': 'EMA',
     'Escuela Militar de Ingeniería': 'EMI',
+    'Escuela Militar de Materiales de Guerra': 'EMMG',
   };
 
   async armarExamen(examenId: number, usuarioId?: number) {

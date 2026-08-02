@@ -39,6 +39,12 @@
       "ALG-01-2026": { "slug": "algebra-baldor", "capitulos": [1, 2, 3, 4, 5, 8, 10, 11, 12, 13, 18, 20, 21, 24, 32] },
       "CDI-02-2026": { "slug": "calculo-thomas", "capitulos": [1, 2, 3] },
       "GA-03-2026": { "slug": "zill-atg", "capitulos": [4, 8, 9, 12] }
+    },
+    "EMMG": {
+      "MATE-01-2026": { "slug": "algebra-baldor", "capitulos": [8, 10, 14, 24, 25, 33, 36, 38] },
+      "ESP-02-2026": { "slug": "espanol-zarzar", "capitulos": [1, 2, 3, 4] },
+      "HISMEX-03-2026": { "slug": "historia-mexico-menchaca", "capitulos": [2, 3, 5] },
+      "METINV-04-2026": { "slug": "metodologia-baena", "capitulos": [1] }
     }
   }
 }

@@ -19,7 +19,10 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 const RAIZ = path.resolve(__dirname, '../../../docs/examen-cultural');
-const puente: Record<string, { slug: string; capitulos: number[] }> = JSON.parse(
+// El puente está indexado por PLANTEL → CÓDIGO de materia → { slug, capitulos }
+// (un mismo código pide capítulos distintos en cada escuela). Antes se leía plano
+// por código; se corrigió al nivel de plantel para no dar 0 en todos los planteles.
+const puente: Record<string, Record<string, { slug: string; capitulos: number[] }>> = JSON.parse(
   fs.readFileSync(path.join(RAIZ, 'puente-oferta-demanda.json'), 'utf8'),
 ).puente;
 const temarios = JSON.parse(fs.readFileSync(path.join(RAIZ, 'temarios.json'), 'utf8'));
@@ -62,7 +65,7 @@ async function main() {
 
     for (const m of carrera.materias || []) {
       const cod = m.codigo_normalizado || m.codigo;
-      const e = puente[cod];
+      const e = puente[PLANTEL]?.[cod];
       if (!e) {
         console.log(`  ! ${cod} (${m.nombre}): sin puente, se omite (libro no importado)`);
         continue;
