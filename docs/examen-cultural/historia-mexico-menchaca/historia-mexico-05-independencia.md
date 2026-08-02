@@ -90,8 +90,21 @@ El contenido narrativo aprovechable corre aproximadamente de la **p. 153 a la p.
   Francisco de la Concha); junta literaria de Querétaro (Miguel Domínguez, Hidalgo);
   línea de tiempo "Crisis política".
 
-**Pendiente de 5.2:** el "Inicio" (Hidalgo, el Grito, campaña y muerte, pp. 163–167) y
-las etapas de organización (Morelos), resistencia y consumación (hasta la p. 193).
+- **Sub-lote 7 · Inicio: Hidalgo y el Grito de Dolores** (pp. 163–164): Junta de
+  Querétaro y la lucha armada; Hidalgo jefe (jesuitas, parroquia como centro cultural,
+  programa político); carta de Allende (3 ago 1810); delación de Galván (13 sep); aviso
+  de Josefa Ortiz; el Grito (5:00 del 16 sep, cerca de 600 hombres, ¡Viva Fernando VII!).
+- **Sub-lote 8 · Inicio: campaña y muerte de Hidalgo** (pp. 164–167): Atotonilco y el
+  estandarte guadalupano; Abasolo y los Dragones de la Reina; Celaya (capitán general);
+  Guanajuato/Alhóndiga/Riaño (23 sep); Ansorena y la abolición en Valladolid; encuentro
+  con Morelos (Indaparapeo, 20 oct); Acámbaro (generalísimo); Monte de las Cruces (30
+  oct, Trujillo); Venegas; Cuajimalpa; Aculco (7 nov); Guadalajara (decreto del 29 nov,
+  *El Despertador Americano*); Puente de Calderón (16 ene 1811, 93 000 vs 36 000);
+  Acatita de Baján (21 mar 1811, Elizondo); muerte de Hidalgo (Chihuahua, 30 jul 1811);
+  cabezas en la Alhóndiga hasta 1821.
+
+**Pendiente de 5.2:** las etapas de organización (Morelos), resistencia y consumación
+(a partir de la p. 168, hasta la p. 193).
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -1430,5 +1443,523 @@ De acuerdo con el libro de Historia de México 1, según la línea de tiempo "Cr
 **Subtema:** 5.2 conspiraciones
 
 Línea de tiempo "Crisis política", Europa, 23 de marzo: el ejército francés ocupa Madrid.
+
+---
+
+## Sub-lote 7 · 5.2 Inicio: Hidalgo, jefe del movimiento, y el Grito de Dolores (pp. 163–164)
+
+### 85
+
+De acuerdo con el libro de Historia de México 1, ¿cuál acordó la Junta de Querétaro que era la única vía para lograr sus propósitos políticos?
+
+- A. La lucha armada
+- B. La negociación con el virrey
+- C. Las tertulias literarias
+- D. La petición de ayuda al rey de Inglaterra
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 163
+**Subtema:** 5.2 inicio
+
+Uno de los acuerdos a los que llegó la Junta de Querétaro, fue que la única vía para lograr sus propósitos políticos era la lucha armada.
+
+### 86
+
+De acuerdo con el libro de Historia de México 1, ¿a quién resolvieron nombrar jefe del movimiento, por el prestigio y arrastre social que le daba su condición de clérigo?
+
+- A. A Miguel Hidalgo
+- B. A Ignacio Allende
+- C. A Juan Aldama
+- D. A Mariano Abasolo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 163
+**Subtema:** 5.2 inicio
+
+Resolvieron nombrar jefe del movimiento a Miguel Hidalgo, quien gozaba de cierto prestigio y arrastre social por su condición de clérigo.
+
+### 87
+
+De acuerdo con el libro de Historia de México 1, ¿con quiénes estudió Hidalgo, teniendo acceso a las obras filosóficas de los ilustrados franceses?
+
+- A. Con los jesuitas
+- B. Con los franciscanos
+- C. Con los dominicos
+- D. Con los agustinos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 163
+**Subtema:** 5.2 inicio
+
+Desde que estudiaba con los jesuitas, tuvo acceso a las obras filosóficas de los ilustrados franceses.
+
+### 88
+
+De acuerdo con el libro de Historia de México 1, ¿en qué convirtió Hidalgo su parroquia?
+
+- A. En un centro cultural donde la gente podía discutir los problemas que aquejaban a la Nueva España
+- B. En un cuartel para entrenar a las tropas insurgentes
+- C. En una escuela para enseñar oficios a los indígenas
+- D. En un almacén para acopiar armas y municiones
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 163
+**Subtema:** 5.2 inicio
+
+Hizo de su parroquia un centro cultural donde la gente podía discutir los problemas que aquejaban a la Nueva España.
+
+### 89
+
+De acuerdo con el libro de Historia de México 1, ¿en qué consistía el programa político de Hidalgo?
+
+- A. Encarcelar a los españoles ricos, confiscar sus propiedades para financiar el levantamiento y derrocar cualquier autoridad que pudiera oponérsele
+- B. Coronar a un monarca indígena y restaurar el imperio mexica
+- C. Negociar con Napoleón la independencia pacífica de la Colonia
+- D. Solicitar al rey de Inglaterra tropas y armas contra España
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 163
+**Subtema:** 5.2 inicio
+
+El programa político de Hidalgo era similar al de los demás integrantes de la Junta de Querétaro: encarcelar a los españoles ricos, confiscar sus propiedades para financiar el levantamiento, y por supuesto, derrocar cualquier autoridad que pudiera oponérsele.
+
+### 90
+
+De acuerdo con el libro de Historia de México 1, ¿en qué fecha escribió Allende una carta a Hidalgo informándole de lo acordado en Querétaro?
+
+- A. El 3 de agosto de 1810
+- B. El 16 de septiembre de 1810
+- C. El 13 de septiembre de 1810
+- D. El 2 de octubre de 1810
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 163
+**Subtema:** 5.2 inicio
+
+Estas intenciones se revelan en una carta escrita a Hidalgo por Allende el 3 de agosto de 1810 informándole de lo acordado en Querétaro.
+
+### 91
+
+De acuerdo con el libro de Historia de México 1, ¿quién delató la conspiración ante las autoridades de la Real Audiencia el 13 de septiembre de 1810?
+
+- A. El empleado postal José Mariano Galván
+- B. El corregidor Miguel Domínguez
+- C. Francisco de la Concha
+- D. El capitán Ignacio Elizondo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 164
+**Subtema:** 5.2 inicio
+
+La acción tuvo que precipitarse cuando el empleado postal José Mariano Galván delató la conspiración ante las autoridades de la Real Audiencia el 13 de septiembre de 1810.
+
+### 92
+
+De acuerdo con el libro de Historia de México 1, ¿quién, recluida en una habitación de las Casas Reales, se las ingenió para enviar un mensaje a Allende e Hidalgo alertándolos de lo ocurrido en Querétaro?
+
+- A. Josefa Ortiz de Domínguez
+- B. La esposa de Ignacio Allende
+- C. La esposa de Gabriel de Yermo
+- D. La esposa de Miguel Domínguez del pueblo de Dolores
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 164
+**Subtema:** 5.2 inicio
+
+Josefa Ortiz de Domínguez, que había sido recluida en una habitación de las Casas Reales, se las ingenió para enviar un mensaje a Ignacio Allende y Miguel Hidalgo, en el que los alertaba sobre lo ocurrido en Querétaro.
+
+### 93
+
+De acuerdo con el libro de Historia de México 1, ¿a qué hora del 16 de septiembre de 1810 hizo Hidalgo sonar las campanas de su parroquia?
+
+- A. A las 5:00 de la mañana
+- B. A las 8:00 de la mañana
+- C. A la medianoche
+- D. A las 11:00 de la noche
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 164
+**Subtema:** 5.2 inicio
+
+A las 5:00 de la mañana del 16 de septiembre de 1810, el cura Hidalgo hizo sonar las campanas de su parroquia.
+
+### 94
+
+De acuerdo con el libro de Historia de México 1, ¿cuántos hombres logró reunir Hidalgo con el Grito, entre indígenas, campesinos, artesanos y militares?
+
+- A. Cerca de 600 hombres
+- B. Cerca de 700 hombres
+- C. Cerca de 300 hombres
+- D. Cerca de 20 mil hombres
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 164
+**Subtema:** 5.2 inicio
+
+Logró reunir cerca de 600 hombres, entre indígenas, campesinos, artesanos y militares.
+
+### 95
+
+De acuerdo con el libro de Historia de México 1, al lanzar el Grito, ¿a favor de qué rey vitoreaba Hidalgo?
+
+- A. ¡Viva Fernando VII!
+- B. ¡Viva Carlos IV!
+- C. ¡Viva José I!
+- D. ¡Viva Napoleón!
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 164
+**Subtema:** 5.2 inicio
+
+Al grito de: ¡Viva Fernando VII! ¡Viva la América! ¡Viva la Virgen de Guadalupe! ¡Muera el mal gobierno! ¡Viva la libertad y mueran los gachupines!
+
+---
+
+## Sub-lote 8 · 5.2 Inicio: campaña y muerte de Hidalgo (pp. 164–167)
+
+### 96
+
+De acuerdo con el libro de Historia de México 1, ¿con qué acto inició la campaña de Miguel Hidalgo?
+
+- A. Con la liberación de los presos y el arresto de las autoridades del pueblo de Dolores
+- B. Con la toma de la Alhóndiga de Granaditas en Guanajuato
+- C. Con la abolición de la esclavitud en Guadalajara
+- D. Con la batalla del Monte de las Cruces
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 164
+**Subtema:** 5.2 inicio
+
+La campaña de Miguel Hidalgo inició con la liberación de los presos y el arresto de las autoridades del pueblo de Dolores.
+
+### 97
+
+De acuerdo con el libro de Historia de México 1, a su paso por Atotonilco, ¿qué tomó Hidalgo y convirtió en estandarte del movimiento?
+
+- A. Un lienzo con la imagen de la Virgen de Guadalupe
+- B. Una bandera con las armas de Fernando VII
+- C. Un estandarte con el águila mexica
+- D. Una cruz de madera del convento de Dolores
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 164
+**Subtema:** 5.2 inicio
+
+A su paso por Atotonilco, Hidalgo tomó un lienzo con la imagen de la Virgen de Guadalupe, que suspendió de una lanza y convirtió en estandarte del movimiento.
+
+### 98
+
+De acuerdo con el libro de Historia de México 1, en San Miguel el Grande, ¿quién se unió al movimiento con más de 500 soldados del Regimiento de Dragones de la Reina?
+
+- A. Mariano Abasolo
+- B. Ignacio Allende
+- C. Juan Aldama
+- D. José María Morelos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 164
+**Subtema:** 5.2 inicio
+
+En San Miguel el Grande, se les unió Mariano Abasolo y más de 500 soldados que pertenecían al Regimiento de Dragones de la Reina.
+
+### 99
+
+De acuerdo con el libro de Historia de México 1, en Celaya, ¿qué cargo se le dio a Hidalgo?
+
+- A. Capitán general
+- B. Teniente general
+- C. Generalísimo
+- D. Mariscal de campo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 164
+**Subtema:** 5.2 inicio
+
+En Celaya se nombró a Hidalgo capitán general y teniente general a Allende.
+
+### 100
+
+De acuerdo con el libro de Historia de México 1, el 23 de septiembre, el ejército insurgente de cerca de 20 mil hombres, ¿a qué ciudad se dirigió?
+
+- A. A Guanajuato
+- B. A Valladolid
+- C. A Guadalajara
+- D. A la ciudad de México
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 164
+**Subtema:** 5.2 inicio
+
+El 23 de septiembre, el ejército insurgente, que para entonces contaba con cerca de 20 mil hombres, se dirigió a Guanajuato.
+
+### 101
+
+De acuerdo con el libro de Historia de México 1, en Guanajuato, ¿cuál fue el último reducto, defendido por el intendente Juan Antonio Riaño?
+
+- A. El edificio de la Alhóndiga
+- B. La catedral de Guanajuato
+- C. El palacio del intendente
+- D. El cerro del Cubilete
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 164
+**Subtema:** 5.2 inicio
+
+El último reducto, el edificio de la Alhóndiga, que defendía el intendente Juan Antonio Riaño cayó después de un asedio prolongado.
+
+### 102
+
+De acuerdo con el libro de Historia de México 1, en Valladolid, ¿quién, nombrado capitán general, decretó el día 19 la libertad de los esclavos y la exención de los tributos?
+
+- A. José María de Ansorena
+- B. Ignacio López Rayón
+- C. José María Chico
+- D. José María Morelos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 164
+**Subtema:** 5.2 inicio
+
+El intendente José María de Ansorena, nombrado por capitán general, decretó el 19 la libertad de los esclavos y la exención de los tributos que pesaban sobre las castas.
+
+### 103
+
+De acuerdo con el libro de Historia de México 1, cerca de Indaparapeo, el 20 de octubre, ¿con quién sostuvo Hidalgo un encuentro y lo comisionó para extender la insurrección en el sur del Virreinato?
+
+- A. Con José María Morelos y Pavón
+- B. Con Ignacio López Rayón
+- C. Con Vicente Guerrero
+- D. Con Mariano Matamoros
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 165
+**Subtema:** 5.2 inicio
+
+Cerca de Indaparapeo, el 20 de octubre, el cura sostuvo un encuentro con José María Morelos y Pavón, al que comisionó para extender la insurrección en el sur del Virreinato.
+
+### 104
+
+De acuerdo con el libro de Historia de México 1, en Acámbaro, ¿qué grado le dieron los oficiales a Hidalgo?
+
+- A. Generalísimo
+- B. Capitán general
+- C. Teniente general
+- D. Mariscal de campo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 165
+**Subtema:** 5.2 inicio
+
+En Acámbaro, los oficiales nombraron a Hidalgo generalísimo, y a Ignacio Allende capitán general; Juan Aldama y Jiménez recibieron el grado de tenientes generales.
+
+### 105
+
+De acuerdo con el libro de Historia de México 1, el 30 de octubre, ¿en qué paraje cercano a Toluca se atrincheró la columna realista del teniente coronel Torcuato Trujillo?
+
+- A. En el Monte de las Cruces
+- B. En el Puente de Calderón
+- C. En San Jerónimo Aculco
+- D. En Acatita de Baján
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 165
+**Subtema:** 5.2 inicio
+
+El día 30 de octubre, fueron atacados por una columna realista de dos mil hombres que dirigía el teniente coronel Torcuato Trujillo, la fuerza española se atrincheró en un paraje conocido como el Monte de las Cruces.
+
+### 106
+
+De acuerdo con el libro de Historia de México 1, ¿quién era el nuevo virrey que ordenó difundir como noticia la victoria hispana tras el Monte de las Cruces?
+
+- A. Francisco Javier Venegas
+- B. José de Iturrigaray
+- C. Pedro de Garibay
+- D. Francisco Javier de Lizana y Beaumount
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 166
+**Subtema:** 5.2 inicio
+
+A pesar de la derrota, el nuevo virrey Francisco Javier Venegas ordenó que se difundiera como noticia la victoria hispana.
+
+### 107
+
+De acuerdo con el libro de Historia de México 1, ¿hasta qué punto llegaron los insurgentes, sin atacar finalmente la ciudad de México?
+
+- A. No pasaron de Cuajimalpa
+- B. No pasaron de Toluca
+- C. No pasaron de Valladolid
+- D. No pasaron de Acámbaro
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 166
+**Subtema:** 5.2 inicio
+
+Los insurgentes no pasaron de Cuajimalpa, enterado de la negativa de las clases bajas capitalinas a prestarle ayuda.
+
+### 108
+
+De acuerdo con el libro de Historia de México 1, el 7 de noviembre, ¿en qué lugar alcanzó y venció Calleja a los insurgentes?
+
+- A. En San Jerónimo Aculco
+- B. En el Monte de las Cruces
+- C. En el Puente de Calderón
+- D. En Guanajuato
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 166
+**Subtema:** 5.2 inicio
+
+El 7 de noviembre fueron alcanzados por Calleja en San Jerónimo Aculco, quien los venció.
+
+### 109
+
+De acuerdo con el libro de Historia de México 1, en Guadalajara, el 29 de noviembre, ¿qué decretó Hidalgo como generalísimo?
+
+- A. La abolición de la esclavitud, el pago de tributos y el uso del papel sellado
+- B. La creación del Congreso de Anáhuac
+- C. La firma del Plan de Iguala
+- D. La formación de la Suprema Junta Nacional Americana
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 166
+**Subtema:** 5.2 inicio
+
+El día 29 de noviembre, el generalísimo decretó la abolición de la esclavitud, el pago de tributos y el uso del papel sellado; además suprimió los estancos.
+
+### 110
+
+De acuerdo con el libro de Historia de México 1, ¿qué periódico mandó editar Hidalgo, dirigido por el famoso escritor Francisco Severo Maldonado?
+
+- A. El Despertador Americano
+- B. El Ilustrador Nacional
+- C. El Correo Americano del Sur
+- D. La Gaceta de México
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 166
+**Subtema:** 5.2 inicio
+
+A inicios de diciembre organizó su gobierno y mandó editar El Despertador Americano, que dirigió el famoso escritor Francisco Severo Maldonado.
+
+### 111
+
+De acuerdo con el libro de Historia de México 1, el 16 de enero de 1811, ¿en qué paraje se encontraron frente a frente los dos ejércitos?
+
+- A. Puente de Calderón
+- B. Monte de las Cruces
+- C. San Jerónimo Aculco
+- D. Acatita de Baján
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 167
+**Subtema:** 5.2 inicio
+
+El 16 de enero de 1811, los dos ejércitos de encontraron frente a frente en un paraje conocido como Puente de Calderón.
+
+### 112
+
+De acuerdo con el libro de Historia de México 1, en Puente de Calderón, ¿cuántos hombres tenían los insurrectos?
+
+- A. 93 000 hombres
+- B. 36 000 hombres
+- C. 20 mil hombres
+- D. 80 000 hombres
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 167
+**Subtema:** 5.2 inicio
+
+Los insurrectos eran superiores en número –93 000 hombres– a las realistas –36 000 efectivos–.
+
+### 113
+
+De acuerdo con el libro de Historia de México 1, en Puente de Calderón, ¿cuántos efectivos tenían los realistas?
+
+- A. 36 000 efectivos
+- B. 93 000 efectivos
+- C. 20 mil efectivos
+- D. 14 000 efectivos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 167
+**Subtema:** 5.2 inicio
+
+Los insurrectos eran superiores en número –93 000 hombres– a las realistas –36 000 efectivos–.
+
+### 114
+
+De acuerdo con el libro de Historia de México 1, tras la derrota, un Consejo de guerra despojó a Hidalgo del cargo de generalísimo, ¿a quién se lo transfirieron?
+
+- A. A Allende
+- B. A Ignacio López Rayón
+- C. A Mariano Abasolo
+- D. A José María Liceaga
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 167
+**Subtema:** 5.2 inicio
+
+Durante el camino, un Consejo de guerra despojó del cargo de generalísimo a Hidalgo, el cual transfirieron a Allende.
+
+### 115
+
+De acuerdo con el libro de Historia de México 1, en Saltillo, antes de intentar huir a Estados Unidos, ¿a quién nombraron jefe supremo del movimiento?
+
+- A. A Ignacio López Rayón
+- B. A José María Liceaga
+- C. A Ignacio Allende
+- D. A Mariano Jiménez
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 167
+**Subtema:** 5.2 inicio
+
+Antes de iniciar el viaje, nombraron a Ignacio López Rayón jefe supremo del movimiento y como adjunto a José María Liceaga.
+
+### 116
+
+De acuerdo con el libro de Historia de México 1, el 21 de marzo de 1811, en Acatita de Baján, ¿quién traicionó y capturó a los insurgentes?
+
+- A. El capitán Ignacio Elizondo
+- B. El general Félix María Calleja
+- C. El virrey Francisco Javier Venegas
+- D. El teniente coronel Torcuato Trujillo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 167
+**Subtema:** 5.2 inicio
+
+El 21 de marzo de 1811, en el poblado conocido como Acatita de Baján, fueron traicionados y capturados por el capitán de una de las compañías presidiales de Provincias Internas llamado Ignacio Elizondo.
+
+### 117
+
+De acuerdo con el libro de Historia de México 1, ¿cómo terminó Miguel Hidalgo, tras ser juzgado por las autoridades y por la Iglesia?
+
+- A. Fue degradado y excomulgado, y pasado por las armas en Chihuahua el 30 de julio de 1811
+- B. Fue sentenciado a prisión perpetua fuera de la Nueva España
+- C. Logró huir a Estados Unidos para reanudar la guerra
+- D. Murió en combate en el Puente de Calderón
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 167
+**Subtema:** 5.2 inicio
+
+Miguel Hidalgo también fue juzgado por las autoridades novohispanas y por la Iglesia, quien lo degradó y excomulgó. Finalmente fue pasado por las armas en Chihuahua el 30 de julio de 1811.
+
+### 118
+
+De acuerdo con el libro de Historia de México 1, las cabezas de Hidalgo, Allende, Aldama y Jiménez fueron colocadas en jaulas de hierro y expuestas por diez años en las esquinas de un edificio. ¿Cuál?
+
+- A. La Alhóndiga de Granaditas de Guanajuato
+- B. El Palacio de los Virreyes de la ciudad de México
+- C. La catedral de Chihuahua
+- D. Las Casas Reales de Querétaro
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 167
+**Subtema:** 5.2 inicio
+
+Sus cabezas fueron colocadas en jaulas de hierro y expuestas en cada una de las esquinas de la Alhóndiga de Granaditas de Guanajuato por diez años, hasta 1821, año en que fueron retiradas.
 
 ---
