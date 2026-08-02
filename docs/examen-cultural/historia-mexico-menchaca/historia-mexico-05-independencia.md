@@ -110,8 +110,19 @@ El contenido narrativo aprovechable corre aproximadamente de la **p. 153 a la p.
   Acta Solemne de la Declaración de Independencia); Constitución de Apatzingán; y la
   persecución y muerte de Morelos (San Cristóbal Ecatepec, 22 dic 1815).
 
-**Pendiente de 5.2:** las etapas de **resistencia** (Guerrero, Mina) y **consumación**
-(Iturbide, Plan de Iguala, Tratados de Córdoba), aprox. pp. 177–193.
+- **Sub-lote 15 · Organización (cierre temático), pp. 177–178:** la **segunda** sección
+  "La composición social de insurgentes y realistas" (distinta de la de pp. 168–169 del
+  sub-lote 9): apoyo popular en el sur; ejército insurgente de sacerdotes, intelectuales,
+  indios, campesinos, esclavos y castas; columnas guerrilleras de Morelos (≤6 000 hombres);
+  líderes criollos (Rayón, Quintana Roo, Liceaga, Bustamante, Berduzco, Cos), mestizos
+  (Morelos) y mulatos (Guerrero, Trujano); familias Bravo y Galeana; bando realista
+  (indultos, más milicia, fuerzas de España, excomunión).
+
+**Pendiente de 5.2:** la **tercera etapa, Resistencia** (1816–1820: efectivos 80 000 vs
+27 000, Mier y Terán, Guadalupe Victoria, Pedro Ascencio, Vicente Guerrero, Pedro Moreno,
+Junta Subalterna/de Jaujilla/del Balsas, isla de Mezcala, Apodaca, y los bandos de indulto),
+desde la p. 179; y la **consumación** (Iturbide, Plan de Iguala, Tratados de Córdoba), aprox.
+hasta la p. 193.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -2921,5 +2932,167 @@ De acuerdo con el libro de Historia de México 1, para principios de 1816, ¿en 
 **Subtema:** 5.2 persecución de los insurgentes
 
 Para principios de 1816, sólo se mantenían pequeños grupos de regular importancia en el territorio de los actuales estados de Guerrero, Guanajuato, Puebla y Veracruz.
+
+---
+
+## Sub-lote 15 · 5.2 Organización (cierre temático): la composición social de insurgentes y realistas (pp. 177–178)
+
+> **Ojo:** ésta es una **segunda** sección con casi el mismo título que la de las
+> pp. 168–169 (sub-lote 9). Aquélla describía la composición social **al inicio** de la
+> guerra; ésta la describe **en la etapa de la organización** y es contenido distinto.
+
+### 180
+
+De acuerdo con el libro de Historia de México 1, a diferencia de lo sucedido a Hidalgo en el valle de México, ¿de qué gozaron los insurgentes en el sur de la Nueva España?
+
+- A. Del apoyo y simpatía popular
+- B. Del respaldo del ejército realista
+- C. De la neutralidad de la Iglesia
+- D. Del reconocimiento de la Corona española
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 177
+**Subtema:** 5.2 composición social (organización)
+
+A diferencia de lo sucedido a Hidalgo en el valle de México, los insurgentes gozaron del apoyo y simpatía popular en el sur de la Nueva España.
+
+### 181
+
+De conformidad con el libro de Historia de México 1, respecto a la composición social de los ejércitos insurgentes en la etapa de la organización, ¿cómo se mantuvo?
+
+- A. Prácticamente igual, ya que había sacerdotes, intelectuales, indios, campesinos, esclavos y castas
+- B. Compuesta únicamente por criollos de la élite y militares de carrera
+- C. Reducida a los peones de las haciendas del Bajío
+- D. Formada en su mayoría por soldados profesionales llegados de España
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 177
+**Subtema:** 5.2 composición social (organización)
+
+Respecto a la composición social de los ejércitos insurgentes en la etapa de la organización, ésta se mantuvo prácticamente igual, ya que había sacerdotes, intelectuales, indios, campesinos, esclavos y castas.
+
+### 182
+
+En relación con el libro de Historia de México 1, ¿en qué organizó Morelos su ejército?
+
+- A. En columnas guerrilleras que no pasaban de seis mil hombres
+- B. En un ejército regular de más de noventa mil hombres
+- C. En divisiones del Ejército del Norte
+- D. En milicias provinciales reclutadas por sorteo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 177
+**Subtema:** 5.2 composición social (organización)
+
+Morelos organizó su ejército en columnas guerrilleras que no pasaban de seis mil hombres.
+
+> El "seis mil" contrasta con las cifras de Puente de Calderón del sub-lote 8 (93 000 vs 36 000): buen distractor de cifra vecina del mismo bloque.
+
+### 183
+
+De acuerdo con el libro de Historia de México 1, en la etapa de la organización, ¿qué seguían siendo principalmente los líderes insurgentes, como Ignacio López Rayón, Andrés Quintana Roo y José Sixto Berduzco?
+
+- A. Criollos de ideas liberales
+- B. Peninsulares de ideas conservadoras
+- C. Mestizos y mulatos del sur
+- D. Indígenas de la nobleza prehispánica
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 177
+**Subtema:** 5.2 composición social (organización)
+
+Los líderes seguían siendo principalmente criollos de ideas liberales, como Ignacio López Rayón, Andrés Quintana Roo, José María Liceaga, Carlos María de Bustamante, José Sixto Berduzco y José María Cos.
+
+### 184
+
+De conformidad con el libro de Historia de México 1, en la etapa de la organización empezaron a figurar los mestizos entre los líderes insurgentes; ¿de quién es el caso?
+
+- A. De José María Morelos y Pavón
+- B. De Ignacio López Rayón
+- C. De Andrés Quintana Roo
+- D. De Vicente Guerrero
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 178
+**Subtema:** 5.2 composición social (organización)
+
+Empezaron a figurar los mestizos, tal es el caso de José María Morelos y Pavón, y mulatos como Vicente Guerrero y Valerio Trujano.
+
+> Par contrapuesto con el reactivo 185: el libro cita a Morelos como **mestizo** y a Guerrero como **mulato**; cada uno es el distractor del otro.
+
+### 185
+
+En relación con el libro de Historia de México 1, según su composición social, ¿qué eran los líderes insurgentes Vicente Guerrero y Valerio Trujano?
+
+- A. Mulatos
+- B. Mestizos
+- C. Criollos
+- D. Peninsulares
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 178
+**Subtema:** 5.2 composición social (organización)
+
+Empezaron a figurar los mestizos, tal es el caso de José María Morelos y Pavón, y mulatos como Vicente Guerrero y Valerio Trujano.
+
+### 186
+
+De acuerdo con el libro de Historia de México 1, ¿qué aportaron al movimiento los criollos propietarios de grandes fincas que se incorporaron a la insurgencia?
+
+- A. Valiosos recursos económicos y tropas, ya que llevaron consigo a sus trabajadores
+- B. El reconocimiento diplomático de otras naciones
+- C. Armamento traído de los Estados Unidos
+- D. La protección de las autoridades eclesiásticas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 178
+**Subtema:** 5.2 composición social (organización)
+
+Se incorporaron varios criollos que eran propietarios de grandes fincas, quienes aportaron valiosos recursos económicos y tropas, ya que llevaron consigo a sus trabajadores, como en el caso de las familias Bravo y Galeana.
+
+### 187
+
+De conformidad con el libro de Historia de México 1, ¿cómo se llamaban las familias de criollos propietarios de grandes fincas que aportaron recursos económicos y tropas a la insurgencia?
+
+- A. Las familias Bravo y Galeana
+- B. Las familias Bustamante y Berduzco
+- C. Las familias Abasolo y Aldama
+- D. Las familias Romero de Terreros y Escandón
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 178
+**Subtema:** 5.2 composición social (organización)
+
+Se incorporaron varios criollos que eran propietarios de grandes fincas, quienes aportaron valiosos recursos económicos y tropas, ya que llevaron consigo a sus trabajadores, como en el caso de las familias Bravo y Galeana.
+
+### 188
+
+En relación con el libro de Historia de México 1, para combatir el levantamiento en la etapa de la organización, ¿qué hizo el gobierno novohispano?
+
+- A. Emitió varios indultos, aumentó el número de efectivos en la milicia y trajo fuerzas de España
+- B. Solicitó la mediación de la Santa Sede
+- C. Convocó a un congreso para negociar con los insurgentes
+- D. Retiró sus tropas al norte del río Mezcala
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 178
+**Subtema:** 5.2 el bando realista
+
+Para combatir el levantamiento, el gobierno novohispano emitió varios indultos para quienes dejaran las armas, aumentó el número de efectivos en la milicia y trajo fuerzas de España.
+
+### 189
+
+De acuerdo con el libro de Historia de México 1, mientras el gobierno novohispano combatía el levantamiento, ¿qué hacían las autoridades eclesiásticas con todo aquel que simpatizara con el movimiento?
+
+- A. Lo excomulgaban
+- B. Lo desterraban a España
+- C. Le confiscaban sus bienes
+- D. Lo obligaban a pagar un tributo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 178
+**Subtema:** 5.2 el bando realista
+
+Las autoridades eclesiásticas excomulgaban a todo aquel que simpatizara con el movimiento.
 
 ---
