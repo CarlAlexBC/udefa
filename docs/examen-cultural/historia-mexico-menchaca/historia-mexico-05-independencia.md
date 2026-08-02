@@ -135,6 +135,16 @@ falsos** (criterio de CLAUDE.md); se publican como aviso:
 - **"26 de junio de 1881"** en la p. 167 (fusilamiento de Allende, Jiménez y los Aldama
   en Chihuahua), cuando debe ser *1811* — Hidalgo, en el mismo párrafo, es fusilado "el
   30 de julio de 1811".
+- **"22 de octubre de 1822"** en la p. 175 (Constitución de Apatzingán), cuando debe ser
+  *1814* — el mismo párrafo dice que sintetiza "lo que pensaban… los jefes insurgentes
+  en 1813".
+- **"Camelia Ortiz de Zárate"** en la p. 175 (secretario del Congreso que firmó el Acta
+  Solemne), cuando el nombre correcto es *Cornelio Ortiz de Zárate*.
+- **Inconsistencias de fecha entre la prosa y la línea de tiempo de la p. 169:** el
+  decreto de abolición de Hidalgo aparece como "29 de noviembre" (prosa, p. 166) y como
+  "6 de diciembre" (línea de tiempo); la batalla de Puente de Calderón como "16 de enero"
+  (prosa, p. 167) y "17 de enero" (línea de tiempo). Los reactivos usan la fecha de la
+  prosa principal.
 
 ## Decisiones de alcance de este bloque (Carlo, 1 ago 2026)
 
@@ -1961,5 +1971,452 @@ De acuerdo con el libro de Historia de México 1, las cabezas de Hidalgo, Allend
 **Subtema:** 5.2 inicio
 
 Sus cabezas fueron colocadas en jaulas de hierro y expuestas en cada una de las esquinas de la Alhóndiga de Granaditas de Guanajuato por diez años, hasta 1821, año en que fueron retiradas.
+
+---
+
+## Sub-lote 9 · 5.2 Organización: composición social de insurgentes y realistas (pp. 168–169)
+
+### 119
+
+De acuerdo con el libro de Historia de México 1, los involucrados en las conspiraciones y los líderes militares al inicio de la guerra, salvo el virrey Iturrigaray, ¿qué eran?
+
+- A. Criollos de ideas liberales
+- B. Peninsulares de ideas conservadoras
+- C. Indígenas de la nobleza prehispánica
+- D. Frailes llegados de España
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 168
+**Subtema:** 5.2 composición social
+
+Los involucrados en las conspiraciones del Ayuntamiento de la ciudad de México, Valladolid y Querétaro, así como los líderes militares al inicio de la guerra, salvo el virrey Iturrigaray, eran criollos de ideas liberales.
+
+### 120
+
+De acuerdo con el libro de Historia de México 1, ¿qué eran los militares Ignacio Allende, Juan Aldama y Mariano Abasolo?
+
+- A. Terratenientes, hijos de ricos comerciantes vascos
+- B. Peones de las haciendas del Bajío
+- C. Frailes de la Compañía de Jesús
+- D. Funcionarios de la Real Audiencia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 168
+**Subtema:** 5.2 composición social
+
+Los militares Ignacio Allende, Juan Aldama y Mariano Abasolo eran terratenientes, hijos de ricos comerciantes vascos.
+
+### 121
+
+De acuerdo con el libro de Historia de México 1, en las tropas insurgentes que siguieron a Hidalgo, ¿qué grupo predominaba?
+
+- A. Las masas desposeídas, conformadas por campesinos indígenas y mestizos que carecían de tierras
+- B. Los oficiales de la milicia provincial
+- C. Los grandes comerciantes de la ciudad de México
+- D. Los clérigos y profesionistas criollos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 168
+**Subtema:** 5.2 composición social
+
+Predominaban las masas desposeídas conformadas por campesinos indígenas y mestizos que carecían de tierras; peones de las haciendas, trabajadores de las minas, obrajes y trapiches.
+
+### 122
+
+De acuerdo con el libro de Historia de México 1, ¿por qué se alinearon los criollos con el gobierno virreinal?
+
+- A. Ante el temor de que se repitiera la masacre de Guanajuato
+- B. Porque Napoleón les prometió puestos en el gobierno
+- C. Porque Hidalgo los había excomulgado
+- D. Porque el rey Fernando VII se los ordenó
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 168
+**Subtema:** 5.2 composición social
+
+Los criollos se alinearon con el gobierno virreinal ante el temor de que se repitiera la masacre de Guanajuato.
+
+### 123
+
+De acuerdo con el libro de Historia de México 1, las milicias realistas, que permanecieron fieles a la Corona, ¿por quiénes estaban conformadas en un 95%?
+
+- A. Por criollos y mestizos
+- B. Por peninsulares
+- C. Por indígenas y castas
+- D. Por esclavos africanos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 169
+**Subtema:** 5.2 composición social
+
+Las milicias realistas, conformadas por criollos y mestizos en 95%, permanecieron fieles a la Corona.
+
+### 124
+
+De acuerdo con el libro de Historia de México 1, en el ejército realista, ¿quiénes integraban los mandos altos?
+
+- A. Los peninsulares
+- B. Los criollos
+- C. Los mestizos
+- D. Los indígenas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 169
+**Subtema:** 5.2 composición social
+
+El ejército realista estaba integrado por peninsulares en sus mandos altos; los criollos se encontraban en los mandos medios.
+
+### 125
+
+De acuerdo con el libro de Historia de México 1, los soldados realistas eran reclutados por medio de sorteos, ¿entre qué edades?
+
+- A. Entre los 16 y 40 años
+- B. Entre los 18 y 30 años
+- C. Entre los 15 y 25 años
+- D. Entre los 20 y 50 años
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 169
+**Subtema:** 5.2 composición social
+
+La tropa estaba conformada por soldados que eran reclutados por medio de sorteos, cuyas edades oscilaban entre los 16 y 40 años.
+
+### 126
+
+De acuerdo con el libro de Historia de México 1, una vez que les tocaba el sorteo, ¿por cuántos años debían servir al rey los soldados realistas?
+
+- A. Por 10 años consecutivos
+- B. Por 5 años consecutivos
+- C. Por 4 años consecutivos
+- D. Por 20 años consecutivos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 169
+**Subtema:** 5.2 composición social
+
+Una vez que les tocaba el sorteo, debían servir al rey por 10 años consecutivos en los cuerpos milicianos a los que fueran enviados.
+
+---
+
+## Sub-lote 10 · 5.2 Organización: López Rayón y la Junta de Zitácuaro (p. 171)
+
+### 127
+
+De acuerdo con el libro de Historia de México 1, con la muerte de Miguel Hidalgo, ¿quién quedó como jefe de los insurgentes?
+
+- A. Ignacio López Rayón
+- B. José María Morelos
+- C. José María Liceaga
+- D. José Sixto Berduzco
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — Junta de Zitácuaro
+
+Se inició la etapa de la organización, cuando Ignacio López Rayón quedó como jefe de los insurgentes.
+
+### 128
+
+De acuerdo con el libro de Historia de México 1, ¿qué convocó Ignacio López Rayón el 19 de agosto de 1811?
+
+- A. La Junta Suprema de Gobierno en Zitácuaro
+- B. El Congreso de Chilpancingo
+- C. La conspiración de Valladolid
+- D. La firma del Plan de Iguala
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — Junta de Zitácuaro
+
+Convocó a la Junta Suprema de Gobierno en Zitácuaro, el 19 de agosto de 1811.
+
+### 129
+
+De acuerdo con el libro de Historia de México 1, ¿quiénes fueron los tres vocales que compusieron inicialmente la Junta de Zitácuaro?
+
+- A. Rayón, José María Liceaga y José Sixto Berduzco
+- B. Rayón, Morelos e Ignacio Allende
+- C. Hidalgo, Allende y Aldama
+- D. Quintana Roo, Bustamante y José María Cos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — Junta de Zitácuaro
+
+La asamblea fue compuesta por tres vocales: el propio Rayón, José María Liceaga y José Sixto Berduzco.
+
+### 130
+
+De acuerdo con el libro de Historia de México 1, ¿quién se incorporó poco después a la Junta de Zitácuaro como cuarto vocal?
+
+- A. José María Morelos
+- B. Ignacio Allende
+- C. Vicente Guerrero
+- D. Andrés Quintana Roo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — Junta de Zitácuaro
+
+Al poco tiempo, José María Morelos se incorporó como cuarto vocal.
+
+### 131
+
+De acuerdo con el libro de Historia de México 1, ¿qué nombre recibió este organismo convocado en Zitácuaro?
+
+- A. Suprema Junta Gubernativa de América
+- B. Supremo Congreso Nacional Americano
+- C. Suprema Junta Nacional Insurgente
+- D. Junta de Gobierno Provisional de la Nueva España
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — Junta de Zitácuaro
+
+Este organismo recibió el nombre de Suprema Junta Gubernativa de América, pero no logró la unificación política ni militar de los grupos insurgentes.
+
+### 132
+
+De acuerdo con el libro de Historia de México 1, ¿de qué se ha planteado que fue antecedente la Junta de Zitácuaro?
+
+- A. Del Congreso de Chilpancingo o de Anáhuac, de 1813
+- B. Del Plan de Iguala, de 1821
+- C. De la Constitución de Cádiz, de 1812
+- D. De los Tratados de Córdoba, de 1821
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — Junta de Zitácuaro
+
+Se ha planteado que la Junta fue un antecedente de lo que sería el Congreso de Chilpancingo o de Anáhuac, de 1813.
+
+### 133
+
+De acuerdo con el libro de Historia de México 1, ¿quién expulsó de Zitácuaro a la Suprema Junta Gubernativa de América en enero de 1812, ocasionando su desintegración?
+
+- A. Calleja
+- B. Agustín de Iturbide
+- C. El virrey Venegas
+- D. Torcuato Trujillo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — Junta de Zitácuaro
+
+La Suprema Junta Gubernativa de América no permaneció mucho tiempo en Zitácuaro, fue expulsada por Calleja en enero de 1812, esto ocasionó su desintegración.
+
+### 134
+
+De acuerdo con el libro de Historia de México 1, ¿quién era el clérigo editor de El Ilustrador Americano que sostuvo el principio de la soberanía nacional?
+
+- A. José María Cos
+- B. Francisco Severo Maldonado
+- C. Andrés Quintana Roo
+- D. Carlos María de Bustamante
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — Junta de Zitácuaro
+
+El clérigo José María Cos empezó a colaborar en el movimiento insurgente. El editor de El Ilustrador Americano sostuvo el principio de la soberanía nacional.
+
+---
+
+## Sub-lote 11 · 5.2 Organización: campañas de José María Morelos (pp. 171–173)
+
+### 135
+
+De acuerdo con el libro de Historia de México 1, ¿de qué es considerado artífice José María Morelos y Pavón?
+
+- A. Del sustento político de la Independencia
+- B. Del primer grito de independencia
+- C. De la consumación de la Independencia
+- D. De la Constitución de Cádiz
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — campañas de Morelos
+
+Se consolidó la figura de José María Morelos y Pavón, artífice del sustento político de la Independencia.
+
+### 136
+
+De acuerdo con el libro de Historia de México 1, ¿dónde se presentó Morelos ante Hidalgo para ofrecerle sus servicios como capellán del ejército?
+
+- A. En Charo, en las inmediaciones de Indaparapeo
+- B. En el pueblo de Dolores
+- C. En Acámbaro
+- D. En Chilpancingo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — campañas de Morelos
+
+Fue en Charo, en las inmediaciones de Indaparapeo, donde Morelos se presentó ante el generalísimo y le ofreció sus servicios como capellán del ejército.
+
+### 137
+
+De acuerdo con el libro de Historia de México 1, en lugar de aceptarlo como capellán, ¿qué hizo Hidalgo con Morelos?
+
+- A. Tuvo el acierto de nombrarle brigadier y encargarle la insurrección en el sur de la colonia
+- B. Lo nombró generalísimo del ejército insurgente
+- C. Lo envió a negociar con el virrey Venegas
+- D. Lo mandó a estudiar con los jesuitas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — campañas de Morelos
+
+Hidalgo, en lugar de eso, tuvo el acierto de nombrarle brigadier y encargarle la insurrección en el sur de la colonia.
+
+### 138
+
+De acuerdo con el libro de Historia de México 1, en su primera campaña, ¿de qué lugares consiguió apoderarse Morelos con un puñado de indígenas, negros y mulatos?
+
+- A. De Zacatula y Tecpan
+- B. De Guanajuato y Valladolid
+- C. De Chilpancingo y Cuautla
+- D. De Oaxaca y Tehuacán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — campañas de Morelos
+
+Con un puñado de indígenas, negros y mulatos consiguió apoderarse de Zacatula y Tecpan.
+
+### 139
+
+De acuerdo con el libro de Historia de México 1, ¿qué hermanos, destacados entre su tropa, se contaban en las fuerzas de Morelos?
+
+- A. Los hermanos Fermín, Juan y Hermenegildo Galeana
+- B. Los hermanos Nicolás y Leonardo Bravo
+- C. Los hermanos Epigmenio y Emeterio González
+- D. Los hermanos José Nicolás y José Mariano Michelena
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 171
+**Subtema:** 5.2 organización — campañas de Morelos
+
+Contaba con una tropa de tres mil efectivos, entre los que destacaban los hermanos Fermín, Juan y Hermenegildo Galeana, además de Pablo Galeana, este último sobrino de los anteriores.
+
+### 140
+
+De acuerdo con el libro de Historia de México 1, el 24 de mayo de 1811, ¿qué ciudad atacó Morelos, cayendo luego sobre Tixtla, donde se le unió Vicente Guerrero?
+
+- A. Chilpancingo
+- B. Cuautla
+- C. Acapulco
+- D. Oaxaca
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 172
+**Subtema:** 5.2 organización — campañas de Morelos
+
+El 24 de mayo de 1811 atacó Chilpancingo, luego cayó sobre Tixtla, donde se le unió Vicente Guerrero Saldaña.
+
+### 141
+
+De acuerdo con el libro de Historia de México 1, al tomar Chilapa y reorganizar su ejército, ¿a qué le dio fin Morelos?
+
+- A. Al conflicto de castas
+- B. Al sitio de Cuautla
+- C. Al mando de Ignacio López Rayón
+- D. A la Junta de Zitácuaro
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 172
+**Subtema:** 5.2 organización — campañas de Morelos
+
+En agosto tomó Chilapa y en ese lugar reorganizó al ejército, dio fin al conflicto de castas y mandó fusilar a varios líderes locales que se levantaron contra él.
+
+### 142
+
+De acuerdo con el libro de Historia de México 1, Morelos dividió su ejército en tres columnas: una para atacar Oaxaca (Miguel Bravo), otra para sitiar Taxco (Hermenegildo Galeana) y la restante, dirigida por él mismo, ¿sobre qué lugar?
+
+- A. Sobre Izúcar
+- B. Sobre Cuautla
+- C. Sobre Acapulco
+- D. Sobre Valladolid
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 172
+**Subtema:** 5.2 organización — campañas de Morelos
+
+Dividió su ejército en tres columnas: una, para atacar Oaxaca, al mando de Miguel Bravo; otra para sitiar Taxco, a cargo de Hermenegildo Galeana, y la restante, para caer sobre Izúcar, dirigida por el propio Morelos.
+
+### 143
+
+De acuerdo con el libro de Historia de México 1, ¿quién, sumado a la campaña de Morelos, más tarde se hizo llamar Guadalupe Victoria?
+
+- A. José Miguel Ramón Adaucto Fernández y Félix
+- B. Mariano Matamoros
+- C. Manuel Mier y Terán
+- D. Juan Álvarez
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 172
+**Subtema:** 5.2 organización — campañas de Morelos
+
+Se sumaron Mariano Matamoros, Juan Álvarez, Manuel Mier y Terán y José Miguel Ramón Adaucto Fernández y Félix, quien más tarde se hizo llamar Guadalupe Victoria.
+
+### 144
+
+De acuerdo con el libro de Historia de México 1, en el asedio de Cuautla, ¿cuántos días resistieron los insurgentes y los habitantes del poblado?
+
+- A. 72 días
+- B. 60 días
+- C. 100 días
+- D. 30 días
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 172
+**Subtema:** 5.2 organización — campañas de Morelos
+
+Emprendieron el asedio de Cuautla, los insurgentes y los habitantes del poblado resistieron durante 72 días.
+
+### 145
+
+De acuerdo con el libro de Historia de México 1, ¿en qué fecha rompió Morelos el cerco de Cuautla y salió de la plaza?
+
+- A. El 2 de mayo de 1812
+- B. El 16 de septiembre de 1810
+- C. El 12 de abril de 1813
+- D. El 24 de noviembre de 1812
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 172
+**Subtema:** 5.2 organización — campañas de Morelos
+
+El 2 de mayo de 1812, Morelos rompió el cerco y salió de la plaza con las tropas que le quedaban.
+
+### 146
+
+De acuerdo con el libro de Historia de México 1, tras tomar Oaxaca, ¿qué periódico dispuso crear Morelos, a cargo de José Manuel de Herrera y Carlos María de Bustamante?
+
+- A. El Correo Americano del Sur
+- B. El Despertador Americano
+- C. El Ilustrador Americano
+- D. El Diario de México
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 173
+**Subtema:** 5.2 organización — campañas de Morelos
+
+Dispuso la creación del periódico El Correo Americano del Sur, que estuvo a cargo de José Manuel de Herrera y de Carlos María de Bustamante.
+
+### 147
+
+De acuerdo con el libro de Historia de México 1, en la toma de Acapulco (12 de abril de 1813), ¿qué fuerte sólo cayó después de cuatro meses y medio de sitio?
+
+- A. El fuerte de San Diego
+- B. El fuerte de San Juan de Ulúa
+- C. El fuerte de la Alhóndiga
+- D. El fuerte de Perote
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 173
+**Subtema:** 5.2 organización — campañas de Morelos
+
+La siguiente empresa de Morelos fue la toma de Acapulco: el 12 de abril de 1813 se alzó con la victoria, pero no fue total, pues el fuerte de San Diego sólo cayó después de cuatro meses y medio de sitio.
 
 ---
