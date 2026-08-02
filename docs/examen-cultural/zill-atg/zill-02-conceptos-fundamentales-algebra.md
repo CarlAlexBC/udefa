@@ -68,8 +68,19 @@ vacío `∅`, unión, intersección, conjuntos disjuntos) y los conjuntos numér
 enteros `Z`, elipsis, racionales `Q`, cociente indefinido, irracionales, reales `R = Q ∪ H`,
 reales no negativos).
 
-**Pendiente:** el resto de **§2.1** (pp. 50–57: propiedades de los números reales) y las
-secciones **§2.2 a §2.8**. Con ellas, el capítulo 2 quedará cerrado para la EMMA.
+**Sub-lote 2 (pp. 50–53, reactivos 27–56):** el resto de la teoría de **§2.1** hasta la p. 53:
+los decimales (finitos, periódicos o recurrentes, la barra, racional ↔ decimal periódico/finito,
+irracionales = decimales no finitos ni periódicos), el porcentaje (`b%` = "b partes de 100", la
+conversión decimal→porcentaje, el símbolo ≈), el sistema de los números reales y sus **propiedades
+básicas 1–6** (cerradura, conmutativa, asociativa, identidad, inverso, distributiva; identidad
+aditiva/multiplicativa, inverso aditivo/negativo, inverso multiplicativo/recíproco), la **Definición
+2.1.1** (diferencia y cociente), la terminología de la fracción (numerador, denominador, `a/0`
+indefinido), que la sustracción no es asociativa, y las **propiedades adicionales 8–10** (multiplicación
+por cero, cancelación, sustracción y negativos).
+
+**Pendiente:** el cierre de **§2.1** (pp. 54–55: propiedades adicionales 11–16 de las fracciones;
+las pp. 56–57 son *Ejercicios* y quedan fuera) y las secciones **§2.2 a §2.8**. Con ellas, el
+capítulo 2 quedará cerrado para la EMMA.
 
 ## Criterio: teoría sobre práctica
 
@@ -475,3 +486,457 @@ De conformidad con el libro de Geometría Analítica, ¿cómo se llaman los elem
 **Subtema:** El sistema de los números reales · reales
 
 El conjunto de números reales *R* puede describirse como la unión de tres conjuntos disjuntos: *R* = *R*⁻ ∪ {0} ∪ *R*⁺, donde *R*⁻ es el conjunto de los números reales negativos y *R*⁺ el de los números reales positivos. Los elementos del conjunto {0} ∪ *R*⁺ se llaman números reales no negativos.
+
+---
+
+## Sub-lote 2 · §2.1 El sistema de los números reales: decimales, porcentaje y propiedades (pp. 50–53)
+
+### 27
+
+De acuerdo con el libro de Geometría Analítica, ¿de qué forma puede expresarse todo número real?
+
+- A. En forma decimal
+- B. Sólo como cociente de dos enteros
+- C. Únicamente como número natural
+- D. Sólo en forma de porcentaje
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 50
+**Subtema:** El sistema de los números reales · decimales
+
+Todo número real puede expresarse en forma decimal.
+
+### 28
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se dice que son números como 0.25 y 1.6?
+
+- A. Decimales finitos
+- B. Decimales periódicos
+- C. Decimales recurrentes
+- D. Números irracionales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 50
+**Subtema:** El sistema de los números reales · decimales
+
+Se dice que números como 0.25 y 1.6 son decimales finitos.
+
+### 29
+
+En relación con el libro de Geometría Analítica, ¿cómo se llaman números como 1.323232… y 3.571428571428…?
+
+- A. Decimales periódicos o recurrentes
+- B. Decimales finitos
+- C. Números enteros
+- D. Números naturales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 50
+**Subtema:** El sistema de los números reales · decimales
+
+Números como 1.323232… y 3.571428571428… se llaman decimales periódicos o recurrentes.
+
+### 30
+
+De acuerdo con el libro de Geometría Analítica, en un decimal periódico, ¿qué indica la barra?
+
+- A. El número o números que se repiten
+- B. El final del decimal
+- C. Que el número es irracional
+- D. Que debe redondearse la cifra
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 50
+**Subtema:** El sistema de los números reales · decimales
+
+Un decimal periódico como 1.323232… con frecuencia se escribe 1.32, donde la barra indica el número o números que se repiten.
+
+### 31
+
+De conformidad con el libro de Geometría Analítica, ¿qué tipo de representación decimal posee cada número racional?
+
+- A. Una representación decimal periódica o finita
+- B. Una representación decimal no periódica y no finita
+- C. Siempre una representación finita
+- D. Siempre una representación periódica
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 50
+**Subtema:** El sistema de los números reales · decimales
+
+Puede demostrarse que cada número racional posee una representación decimal periódica o finita. Y viceversa, todo decimal periódico o finito es un número racional.
+
+### 32
+
+En relación con el libro de Geometría Analítica, ¿de qué se compone el conjunto de los números irracionales?
+
+- A. De todos los decimales que no son finitos ni periódicos
+- B. De todos los decimales finitos
+- C. De todos los cocientes de dos enteros
+- D. De todos los decimales periódicos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 50
+**Subtema:** El sistema de los números reales · decimales
+
+El conjunto de los números irracionales se compone de todos los decimales que no son finitos ni periódicos. Así, π y √2 tienen representaciones decimales no periódicas y no finitas.
+
+### 33
+
+De acuerdo con el libro de Geometría Analítica, en general, ¿qué significa *b*%?
+
+- A. "*b* partes de 100", y es otra forma de escribir *b*/100
+- B. "*b* multiplicado por 100"
+- C. "100 partes de *b*"
+- D. "*b* dividido entre 10"
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 50
+**Subtema:** El sistema de los números reales · porcentaje
+
+En general, *b*% significa "*b* partes de 100", y es simplemente otra forma de escribir *b*/100.
+
+### 34
+
+De conformidad con el libro de Geometría Analítica, ¿cuál es un modo sencillo de convertir un número decimal en porcentaje?
+
+- A. Multiplicar el decimal por 1 escrito en forma de 100%
+- B. Dividir el decimal entre 100
+- C. Restarle 100 al decimal
+- D. Sumarle el símbolo % al decimal
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 50
+**Subtema:** El sistema de los números reales · porcentaje
+
+Un modo sencillo de convertir un número decimal en porcentaje es multiplicar el decimal por 1 escrito en forma de 100%.
+
+### 35
+
+En relación con el libro de Geometría Analítica, ¿qué indica el uso del símbolo ≈ en lugar de =?
+
+- A. Que el número es sólo una aproximación
+- B. Que los números son exactamente iguales
+- C. Que el número es irracional
+- D. Que la operación es una resta
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 50
+**Subtema:** El sistema de los números reales · porcentaje
+
+Utilizamos el símbolo ≈ en lugar de = para indicar que el número es sólo una aproximación.
+
+### 36
+
+De acuerdo con el libro de Geometría Analítica, ¿a qué se le llama sistema de los números reales?
+
+- A. Al conjunto de números reales *R* junto con las operaciones de adición y multiplicación
+- B. Al conjunto de los números racionales únicamente
+- C. Al conjunto de los enteros con la operación de adición
+- D. Al conjunto de los números irracionales con la multiplicación
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 51
+**Subtema:** El sistema de los números reales · sistema de los números reales
+
+El conjunto de números reales *R* junto con las operaciones de adición y multiplicación se llama sistema de los números reales.
+
+### 37
+
+De conformidad con el libro de Geometría Analítica, según las propiedades básicas de cerradura, ¿qué se cumple para dos números reales *a* y *b*?
+
+- A. *a* + *b* es un número real y *a* · *b* es un número real
+- B. *a* + *b* siempre es un número entero
+- C. *a* + *b* = *b* + *a*
+- D. *a* + 0 = *a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 51
+**Subtema:** El sistema de los números reales · propiedades básicas
+
+1. Propiedades de cerradura: i) *a* + *b* es un número real; ii) *a* · *b* es un número real.
+
+### 38
+
+En relación con el libro de Geometría Analítica, ¿qué establecen las propiedades conmutativas?
+
+- A. *a* + *b* = *b* + *a* y *a* · *b* = *b* · *a*
+- B. *a* + (*b* + *c*) = (*a* + *b*) + *c*
+- C. *a* + 0 = 0 + *a* = *a*
+- D. *a*(*b* + *c*) = *ab* + *ac*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 51
+**Subtema:** El sistema de los números reales · propiedades básicas
+
+2. Propiedades conmutativas: i) *a* + *b* = *b* + *a*; ii) *a* · *b* = *b* · *a*.
+
+### 39
+
+De acuerdo con el libro de Geometría Analítica, ¿qué establecen las propiedades asociativas?
+
+- A. *a* + (*b* + *c*) = (*a* + *b*) + *c* y *a* · (*b* · *c*) = (*a* · *b*) · *c*
+- B. *a* + *b* = *b* + *a*
+- C. *a* · 1 = 1 · *a* = *a*
+- D. *a* + (−*a*) = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 51
+**Subtema:** El sistema de los números reales · propiedades básicas
+
+3. Propiedades asociativas: i) *a* + (*b* + *c*) = (*a* + *b*) + *c*; ii) *a* · (*b* · *c*) = (*a* · *b*) · *c*.
+
+### 40
+
+De conformidad con el libro de Geometría Analítica, ¿qué establecen las propiedades de identidad?
+
+- A. *a* + 0 = 0 + *a* = *a* y *a* · 1 = 1 · *a* = *a*
+- B. *a* + *b* = *b* + *a*
+- C. *a* + (−*a*) = 0
+- D. *a*(*b* + *c*) = *ab* + *ac*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 51
+**Subtema:** El sistema de los números reales · propiedades básicas
+
+4. Propiedades de identidad: i) *a* + 0 = 0 + *a* = *a*; ii) *a* · 1 = 1 · *a* = *a*.
+
+### 41
+
+En relación con el libro de Geometría Analítica, según las propiedades del inverso, ¿qué se cumple para la adición?
+
+- A. *a* + (−*a*) = (−*a*) + *a* = 0
+- B. *a* + 0 = *a*
+- C. *a* · (1/*a*) = 1
+- D. *a* + *b* = *b* + *a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 51
+**Subtema:** El sistema de los números reales · propiedades básicas
+
+5. Propiedades del inverso: i) *a* + (−*a*) = (−*a*) + *a* = 0; ii) *a* · (1/*a*) = (1/*a*) · *a* = 1.
+
+### 42
+
+De acuerdo con el libro de Geometría Analítica, ¿qué establecen las propiedades distributivas?
+
+- A. *a*(*b* + *c*) = *ab* + *ac* y (*a* + *b*)*c* = *ac* + *bc*
+- B. *a* + (*b* + *c*) = (*a* + *b*) + *c*
+- C. *a* · *b* = *b* · *a*
+- D. *a* · 1 = *a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 52
+**Subtema:** El sistema de los números reales · propiedades básicas
+
+6. Propiedades distributivas: i) *a*(*b* + *c*) = *ab* + *ac*; ii) (*a* + *b*)*c* = *ac* + *bc*.
+
+### 43
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se denomina al número 0 en el sistema de los números reales?
+
+- A. Identidad aditiva
+- B. Identidad multiplicativa
+- C. Inverso aditivo
+- D. Recíproco
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 51
+**Subtema:** El sistema de los números reales · propiedades básicas
+
+En la propiedad 4i), el número 0 se denomina identidad aditiva del sistema de los números reales.
+
+### 44
+
+En relación con el libro de Geometría Analítica, ¿cómo se conoce al número 1 en el sistema de los números reales?
+
+- A. Identidad multiplicativa
+- B. Identidad aditiva
+- C. Inverso aditivo
+- D. Negativo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 51
+**Subtema:** El sistema de los números reales · propiedades básicas
+
+En la propiedad 4ii), el número 1 se conoce como identidad multiplicativa del mismo sistema.
+
+### 45
+
+De acuerdo con el libro de Geometría Analítica, ¿qué es el número −*a* respecto del número *a*?
+
+- A. El inverso aditivo o el negativo del número *a*
+- B. El inverso multiplicativo del número *a*
+- C. El recíproco del número *a*
+- D. La identidad aditiva del número *a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 51
+**Subtema:** El sistema de los números reales · propiedades básicas
+
+En la propiedad 5i), el número −*a* es el inverso aditivo o el negativo del número *a*.
+
+### 46
+
+De conformidad con el libro de Geometría Analítica, el inverso multiplicativo 1/*a* del número *a* diferente de cero, ¿de qué otra forma se conoce?
+
+- A. Como el recíproco de *a*
+- B. Como el negativo de *a*
+- C. Como la identidad aditiva de *a*
+- D. Como el inverso aditivo de *a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 51
+**Subtema:** El sistema de los números reales · propiedades básicas
+
+El inverso multiplicativo del número *a* diferente de cero también se conoce como el recíproco de *a*.
+
+### 47
+
+En relación con el libro de Geometría Analítica, según la Definición 2.1.1, ¿cómo se define la diferencia *a* − *b* para los números reales *a* y *b*?
+
+- A. *a* − *b* = *a* + (−*b*)
+- B. *a* − *b* = *a* · (1/*b*)
+- C. *a* − *b* = *b* + (−*a*)
+- D. *a* − *b* = (−*a*) + (−*b*)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 52
+**Subtema:** El sistema de los números reales · Definición 2.1.1 diferencia y cociente
+
+Para los números reales *a* y *b*, la diferencia, *a* − *b*, se define como *a* − *b* = *a* + (−*b*).
+
+### 48
+
+De acuerdo con el libro de Geometría Analítica, según la Definición 2.1.1, si *b* ≠ 0, ¿cómo se define el cociente *a* ÷ *b*?
+
+- A. *a* ÷ *b* = *a* · (1/*b*) = *a*/*b*
+- B. *a* ÷ *b* = *a* + (−*b*)
+- C. *a* ÷ *b* = *b* · (1/*a*)
+- D. *a* ÷ *b* = *a* · *b*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 52
+**Subtema:** El sistema de los números reales · Definición 2.1.1 diferencia y cociente
+
+Si *b* ≠ 0, entonces el cociente, *a* ÷ *b*, se define como *a* ÷ *b* = *a* · (1/*b*) = *a*/*b*.
+
+### 49
+
+De conformidad con el libro de Geometría Analítica, en el cociente *a*/*b*, ¿cómo se llaman *a* y *b*?
+
+- A. *a* se llama numerador y *b* denominador
+- B. *a* se llama denominador y *b* numerador
+- C. *a* se llama cociente y *b* dividendo
+- D. *a* se llama base y *b* exponente
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 53
+**Subtema:** El sistema de los números reales · fracción
+
+En el cociente *a*/*b*, *a* se llama numerador y *b* denominador.
+
+### 50
+
+En relación con el libro de Geometría Analítica, ¿cómo se denomina con frecuencia al cociente de dos números reales *a*/*b*?
+
+- A. Fracción
+- B. Producto
+- C. Diferencia
+- D. Potencia
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 53
+**Subtema:** El sistema de los números reales · fracción
+
+Con frecuencia, el cociente de dos números reales *a*/*b* se denomina fracción.
+
+### 51
+
+De acuerdo con el libro de Geometría Analítica, ¿para qué números reales *a* no está definido *a*/0?
+
+- A. Para ningún número real *a*
+- B. Sólo para *a* = 0
+- C. Sólo para los números negativos
+- D. Sólo para los números irracionales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 53
+**Subtema:** El sistema de los números reales · fracción
+
+Tenga en cuenta que *a* ÷ *b* o *a*/*b* no está definido cuando *b* = 0. Por tanto, *a*/0 no está definido para ningún número real *a*.
+
+### 52
+
+De conformidad con el libro de Geometría Analítica, que 1 − (2 − 3) ≠ (1 − 2) − 3, ¿qué muestra sobre la sustracción?
+
+- A. Que la sustracción no es asociativa
+- B. Que la sustracción no es conmutativa
+- C. Que la sustracción no tiene identidad
+- D. Que la sustracción no está definida
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 53
+**Subtema:** El sistema de los números reales · propiedades adicionales
+
+Puesto que 1 − (2 − 3) = 2 y (1 − 2) − 3 = −4, observamos que 1 − (2 − 3) ≠ (1 − 2) − 3. Por consiguiente, la sustracción no es asociativa.
+
+### 53
+
+En relación con el libro de Geometría Analítica, según las propiedades de la multiplicación por cero, si *a* · *b* = 0, ¿qué se concluye?
+
+- A. Que *a* = 0, *b* = 0, o ambas
+- B. Que *a* = 1 o *b* = 1
+- C. Que *a* = *b*
+- D. Que *a* y *b* son inversos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 53
+**Subtema:** El sistema de los números reales · propiedades adicionales
+
+8. Propiedades de la multiplicación por cero: i) *a* · 0 = 0 · *a* = 0; ii) Si *a* · *b* = 0, entonces *a* = 0, *b* = 0, o ambas.
+
+### 54
+
+De acuerdo con el libro de Geometría Analítica, según las propiedades de cancelación, si *ac* = *bc* y *c* ≠ 0, ¿qué se concluye?
+
+- A. Que *a* = *b*
+- B. Que *a* = *c*
+- C. Que *a* = 0
+- D. Que *b* = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 53
+**Subtema:** El sistema de los números reales · propiedades adicionales
+
+9. Propiedades de cancelación: i) Si *ac* = *bc*, y *c* ≠ 0, entonces *a* = *b*.
+
+### 55
+
+De conformidad con el libro de Geometría Analítica, según las propiedades de la sustracción y negativos, ¿a qué es igual −(−*a*)?
+
+- A. −(−*a*) = *a*
+- B. −(−*a*) = −*a*
+- C. −(−*a*) = 0
+- D. −(−*a*) = 1/*a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 53
+**Subtema:** El sistema de los números reales · propiedades adicionales
+
+10. Propiedades de la sustracción y negativos: i) −(−*a*) = *a*.
+
+### 56
+
+En relación con el libro de Geometría Analítica, según las propiedades de la sustracción y negativos, ¿a qué es igual (−*a*)(−*b*)?
+
+- A. (−*a*)(−*b*) = *ab*
+- B. (−*a*)(−*b*) = −*ab*
+- C. (−*a*)(−*b*) = *a* + *b*
+- D. (−*a*)(−*b*) = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 53
+**Subtema:** El sistema de los números reales · propiedades adicionales
+
+10. Propiedades de la sustracción y negativos: iv) (−*a*)(−*b*) = *ab*.
