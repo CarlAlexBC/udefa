@@ -144,10 +144,34 @@ El contenido narrativo aprovechable corre aproximadamente de la **p. 153 a la p.
   controlaban prácticamente todo el territorio y alternaban indulto y pena máxima; las clases
   acomodadas y el reclutamiento).
 
-**Pendiente de 5.2:** la **cuarta etapa, Consumación** (pp. 185–190): la Constitución de Cádiz,
-la conjura de La Profesa, Iturbide y el Plan de Iguala, el Ejército Trigarante, los Tratados de
-Córdoba y el Acta de Independencia. (Pendiente aparte de **decisión de Carlo**: los tres
-recuadros "Comprensión lectora" de las pp. 183, 186 y 188.)
+- **Sub-lote 20 · Consumación: la Constitución de Cádiz, pp. 185–186:** Napoleón reconoce a
+  Fernando VII (1814); decreto de igualdad (1809); 15 delegados novohispanos; las Cortes
+  (1810–1813); supresión de la Inquisición; Diputación Provincial y Cabildo Constitucional;
+  abolición del Virreinato; promulgación en Cádiz (marzo 1812); reacción absolutista de Fernando
+  VII; Quiroga y Riego (1819); restauración de Cádiz (1820); la propuesta de los tres reinos.
+
+- **Sub-lote 21 · Consumación: la conjura de La Profesa, pp. 186–187:** la Iglesia y los grupos
+  privilegiados ante el juramento de Cádiz; el canónigo Matías de Monteagudo; la conspiración del
+  templo de La Profesa y su finalidad (monarquía absoluta); Iturbide propuesto jefe realista; el
+  Ejército del Sur (9 nov 1820); el regimiento de Celaya; las derrotas de Tlatlaya y Zapotepec.
+
+- **Sub-lote 22 · Consumación: Iturbide y el Plan de Iguala, pp. 187–188:** el pacto con Guerrero
+  (Teloloapan/Acatempan); el Plan de Iguala (24 feb 1821, tres garantías, 27 artículos, monarquía
+  constitucional, catolicismo, obediencia condicionada a Fernando VII); el Ejército Trigarante;
+  Apodaca lo declara traidor; los realistas que se suman (Negrete, Bustamante, Herrera, Santa
+  Anna); el golpe contra Apodaca y Francisco Novella.
+
+- **Sub-lote 23 · Consumación: Tratados de Córdoba y el Acta de Independencia, pp. 189–190:**
+  O'Donojú; los Tratados de Córdoba (24 ago 1821, 17 artículos, extensión del Plan de Iguala,
+  trono a Fernando VII o su familia); la Junta Provisional Gubernativa y la Regencia de tres
+  personas; la entrada del Trigarante (27 sep 1821); los 38 notables; el Acta de Independencia (28
+  sep 1821); el balance del libro (logro criollo, Iturbide artífice).
+
+**Estado de 5.2:** el **contenido narrativo del Bloque 5 queda cubierto de la p. 152 a la p. 190**
+(inicio, conspiraciones, organización, resistencia y consumación). Queda **una decisión de
+Carlo**: si se incluyen los tres recuadros "Comprensión lectora" —participación de la mujer (p.
+183), la Constitución de Cádiz/Zócalo (p. 186) y las banderas insurgentes (p. 188)— que por norma
+quedan fuera. Las pp. 191–194 son línea de tiempo, mapas, actividades y evaluación sumativa (fuera).
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -196,6 +220,15 @@ el imaginario popular, *Francisco Javier Mina* es el nombre del militar liberal 
 la Nueva España a combatir el despotismo declarado de Fernando VII". Los reactivos usan
 **Xavier Mina / Martín Xavier Mina Larrea**, como el cuerpo del libro; queda anotado para
 que el aspirante no se confunda si en otra fuente lo ve como *Francisco Javier Mina*.
+
+**Discrepancias de fecha en la etapa de consumación (prosa vs. figura vs. línea de tiempo).**
+El libro fecha de tres modos el **abrazo de Acatempan**: la prosa (p. 187) dice negociaciones en
+Teloloapan el **14 de febrero** y el acuerdo "al día siguiente" (15 feb); el pie de la figura 5.29
+dice **10 de febrero**; la línea de tiempo de la p. 191, **16 de febrero**. Por eso los reactivos
+preguntan el **lugar** (Acatempan), no la fecha. Además, la línea de tiempo de la p. 191 rotula
+"**Agosto. Día 24. Firma del Plan de Iguala**", cuando lo que se firmó el 24 de agosto de 1821
+fueron los **Tratados de Córdoba** (el Plan de Iguala se proclamó el 24 de febrero); manda la
+prosa y los reactivos usan esa fecha.
 
 ## Decisiones de alcance de este bloque (Carlo, 1 ago 2026)
 
@@ -4290,5 +4323,444 @@ En relación con el libro de Historia de México 1, al atacar a las fuerzas de G
 **Subtema:** 5.2 Consumación · conjura de La Profesa
 
 Atacó a las fuerzas de Vicente Guerrero y Pedro Ascencio, pero sufrió dos derrotas, una en Tlatlaya, en diciembre de 1820 y otra en Zapotepec, en enero de 1821.
+
+---
+
+## Sub-lote 22 · 5.2 Consumación: Agustín de Iturbide y el Plan de Iguala (pp. 187–188)
+
+### 265
+
+De acuerdo con el libro de Historia de México 1, ¿a quién ofreció Iturbide el indulto, quien lo rechazó y en cambio le ofreció luchar juntos por la Independencia?
+
+- A. A Vicente Guerrero
+- B. A Pedro Ascencio
+- C. A Guadalupe Victoria
+- D. A Nicolás Bravo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+Ofreció el indulto a Vicente Guerrero, pero lo rechazó y en cambio le ofreció luchar a su lado por la Independencia de la Nueva España.
+
+### 266
+
+De conformidad con el libro de Historia de México 1, ¿dónde inició Iturbide las negociaciones con Guerrero el 14 de febrero?
+
+- A. En Teloloapan
+- B. En Acatempan
+- C. En Iguala
+- D. En Córdoba
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+Inició negociaciones con Guerrero en Teloloapan el 14 de febrero; al día siguiente, en Acatempan, el insurgente y Agustín de Iturbide acordaron luchar juntos.
+
+### 267
+
+En relación con el libro de Historia de México 1, al día siguiente de las negociaciones, ¿dónde acordaron Guerrero e Iturbide luchar juntos?
+
+- A. En Acatempan
+- B. En Teloloapan
+- C. En Iguala
+- D. En Chilpancingo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+Al día siguiente, en Acatempan, el insurgente y Agustín de Iturbide acordaron luchar juntos.
+
+> Par Teloloapan / Acatempan. La **fecha** del abrazo de Acatempan la da el libro de tres
+> maneras (prosa: 14 feb + "al día siguiente" = 15 feb; pie de la fig. 5.29: 10 feb; línea de
+> tiempo de la p. 191: 16 feb). Por eso el reactivo pregunta el **lugar**, no la fecha; ver
+> "Avisos al aspirante".
+
+### 268
+
+De acuerdo con el libro de Historia de México 1, ¿dónde y cuándo se publicó el plan de Independencia redactado por Iturbide?
+
+- A. En Iguala, el 24 de febrero de 1821
+- B. En Acatempan, el 10 de febrero de 1821
+- C. En Córdoba, el 24 de agosto de 1821
+- D. En Chilpancingo, el 14 de septiembre de 1813
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+El 24 de febrero de 1821, se publicó en Iguala un plan de Independencia redactado por Iturbide.
+
+### 269
+
+De conformidad con el libro de Historia de México 1, ¿en qué tres garantías se basaba el Plan de Iguala?
+
+- A. Religión, unidad e independencia
+- B. Libertad, igualdad y fraternidad
+- C. Soberanía, república y federalismo
+- D. Orden, progreso y libertad
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+Un plan de Independencia redactado por Iturbide, basado en tres garantías que eran: la religión, unidad e independencia.
+
+### 270
+
+En relación con el libro de Historia de México 1, ¿de cuántos artículos consta el Plan de Iguala?
+
+- A. 27 artículos
+- B. 17 artículos
+- C. 23 artículos
+- D. 38 artículos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+Se trata de un documento conciliador y conservador que consta de 27 artículos.
+
+> Distractor B (17) es el número de artículos de los Tratados de Córdoba (sub-lote 23): cifras vecinas del mismo tema.
+
+### 271
+
+De acuerdo con el libro de Historia de México 1, ¿qué régimen proponía establecer el Plan de Iguala?
+
+- A. Un régimen monárquico constitucional
+- B. Una república federal
+- C. Una monarquía absoluta
+- D. Un gobierno provisional militar
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+Se propone la Independencia de la América Septentrional, establecer un régimen monárquico constitucional, respetar los privilegios del clero y del ejército.
+
+### 272
+
+De conformidad con el libro de Historia de México 1, según el Plan de Iguala, ¿qué religión se mantendría como única y del Estado?
+
+- A. El catolicismo
+- B. La libertad de cultos
+- C. El protestantismo
+- D. Ninguna religión oficial
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+Mantener el catolicismo como religión única y del Estado.
+
+### 273
+
+En relación con el libro de Historia de México 1, el Plan de Iguala proponía seguir obedeciendo a Fernando VII, ¿con qué condición?
+
+- A. Siempre y cuando el soberano adoptase y jurase la nueva Constitución
+- B. Siempre y cuando renunciara al trono de España
+- C. Siempre y cuando reconociera la república
+- D. Sin ninguna condición
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+Seguir obedeciendo a Fernando VII, siempre y cuando, el soberano adoptase y jurase la nueva Constitución.
+
+### 274
+
+De acuerdo con el libro de Historia de México 1, el grueso de las tropas de Iturbide se adhirió al plan el 2 de marzo; ¿qué ejército formaron?
+
+- A. El Ejército Imperial Mexicano de las Tres Garantías o Trigarante
+- B. El Ejército del Sur
+- C. El Ejército Insurgente del Bajío
+- D. El Supremo Congreso Nacional Americano
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 188
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+El grueso de las tropas que Iturbide tenía bajo su mando se adhirieron al plan el 2 de marzo, formando el Ejército Imperial Mexicano de las Tres Garantías o Trigarante.
+
+### 275
+
+De conformidad con el libro de Historia de México 1, a diferencia de lo anticipado por Hidalgo en 1810, ¿a quiénes NO excluía el proyecto de Iturbide?
+
+- A. A los españoles peninsulares, salvo a quienes se mostraran contrarios al nuevo régimen
+- B. A los esclavos y las castas
+- C. A los antiguos insurgentes
+- D. A los miembros del clero
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 188
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+No excluía a los españoles peninsulares como lo había anticipado Hidalgo en el movimiento de 1810, sólo a aquellos que se mostraran contrarios al nuevo régimen, por lo demás, conservarían sus derechos y privilegios.
+
+### 276
+
+En relación con el libro de Historia de México 1, ¿por qué se unieron Guerrero y los demás revolucionarios a Iturbide?
+
+- A. Porque representaba el último camino para lograr la Independencia
+- B. Porque compartían plenamente sus ideales sociales
+- C. Porque Iturbide les ofreció el poder
+- D. Porque el rey se los ordenó
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 188
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+Guerrero y los demás revolucionarios se unieron a Iturbide porque representaba el último camino para lograr la Independencia, aunque los ideales de lucha sólo se cumplieran parcialmente.
+
+### 277
+
+De acuerdo con el libro de Historia de México 1, Apodaca afirmó que Iturbide era un traidor y el 3 de marzo lo puso fuera de la ley; ¿a quién confió las pocas tropas leales?
+
+- A. A Liñán
+- B. A Francisco Novella
+- C. A Matías de Monteagudo
+- D. A Ciriaco del Llano
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 188
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+El 3 de marzo lo puso fuera de la ley y confió a Liñán las pocas tropas leales que le quedaban para la defensa de la Nueva España.
+
+### 278
+
+De conformidad con el libro de Historia de México 1, ¿cuál de estos realistas se sumó al Plan de Iguala?
+
+- A. Antonio López de Santa Anna
+- B. Félix María Calleja
+- C. Pascual de Liñán
+- D. Juan Ruiz de Apodaca
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 188
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+El Plan de Iguala fue cobrando cada vez más fuerza, sumándose entre otros, los realistas Pedro Celestino Negrete, Anastasio Bustamante, José Joaquín Herrera y Antonio López de Santa Anna.
+
+### 279
+
+En relación con el libro de Historia de México 1, ¿en cuánto tiempo fue total la desintegración del ejército realista?
+
+- A. En menos de siete meses
+- B. En menos de un mes
+- C. En cerca de tres años
+- D. En una década
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 188
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+En menos de siete meses la desintegración del ejército realista fue total; poco a poco las plazas fueron cayendo de manera pacífica.
+
+### 280
+
+De acuerdo con el libro de Historia de México 1, ante la proximidad del Trigarante a la ciudad de México, el 5 de julio los españoles residentes dieron un golpe de Estado contra Apodaca; ¿quién asumió el poder?
+
+- A. El mariscal Francisco Novella
+- B. El mariscal Pascual de Liñán
+- C. Juan O'Donojú
+- D. Agustín de Iturbide
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 188
+**Subtema:** 5.2 Consumación · Plan de Iguala
+
+El 5 de julio los españoles residentes dirigieron un golpe de Estado contra Apodaca, al que acusaron de inepto. El mariscal Francisco Novella asumió el poder, pero nada pudo hacer ante el avance de Iturbide.
+
+---
+
+## Sub-lote 23 · 5.2 Consumación: los Tratados de Córdoba y el Acta de Independencia (pp. 189–190)
+
+### 281
+
+De acuerdo con el libro de Historia de México 1, el 30 de julio llegó Juan O'Donojú; ¿con qué cargo?
+
+- A. Nuevo jefe político superior y capitán general
+- B. Nuevo virrey de la Nueva España
+- C. Comandante del Ejército Trigarante
+- D. Presidente de la Regencia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 189
+**Subtema:** 5.2 Consumación · Tratados de Córdoba
+
+El 30 de julio, llegó Juan O'Donojú, nuevo jefe político superior y capitán general, enviado por las Cortes a la Nueva España.
+
+### 282
+
+De conformidad con el libro de Historia de México 1, ¿dónde optó O'Donojú por entrevistarse con Iturbide para dar término al conflicto?
+
+- A. En la ciudad de Córdoba, Veracruz
+- B. En Iguala
+- C. En Acatempan
+- D. En la ciudad de México
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 189
+**Subtema:** 5.2 Consumación · Tratados de Córdoba
+
+Optó por entrevistarse con Iturbide en la ciudad de Córdoba, Veracruz, el 24 de agosto para dar término al conflicto.
+
+### 283
+
+En relación con el libro de Historia de México 1, ¿quiénes firmaron los Tratados de Córdoba el 24 de agosto de 1821?
+
+- A. Juan O'Donojú, Agustín de Iturbide y Vicente Guerrero
+- B. Iturbide, Guerrero y Guadalupe Victoria
+- C. O'Donojú, Apodaca y Novella
+- D. Iturbide, Matías de Monteagudo y Liñán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 189
+**Subtema:** 5.2 Consumación · Tratados de Córdoba
+
+El 24 de agosto de 1821, Juan O'Donojú, Agustín de Iturbide y Vicente Guerrero firmaron los Tratados de Córdoba.
+
+### 284
+
+De acuerdo con el libro de Historia de México 1, ¿de cuántos artículos constan los Tratados de Córdoba?
+
+- A. 17 artículos
+- B. 27 artículos
+- C. 23 artículos
+- D. 38 artículos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 189
+**Subtema:** 5.2 Consumación · Tratados de Córdoba
+
+Firmaron los Tratados de Córdoba, que constan de 17 artículos.
+
+> Distractor B (27) es el número de artículos del Plan de Iguala; el D (38), los notables de la Junta: cifras vecinas del mismo tema.
+
+### 285
+
+De conformidad con el libro de Historia de México 1, ¿qué son en sí los Tratados de Córdoba respecto al Plan de Iguala?
+
+- A. Una extensión del Plan de Iguala
+- B. Una anulación del Plan de Iguala
+- C. Una copia de la Constitución de Cádiz
+- D. Una extensión de la Constitución de Apatzingán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 189
+**Subtema:** 5.2 Consumación · Tratados de Córdoba
+
+En sí, es una extensión del Plan de Iguala; ahí se reconoce la Independencia de México.
+
+### 286
+
+En relación con el libro de Historia de México 1, según los Tratados de Córdoba, ¿a quién se acordó guardar el trono del Imperio Mexicano?
+
+- A. A Fernando VII o algún miembro de su familia
+- B. A Agustín de Iturbide
+- C. A Juan O'Donojú
+- D. A un príncipe inglés
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 189
+**Subtema:** 5.2 Consumación · Tratados de Córdoba
+
+Se acuerda guardar el trono del Imperio Mexicano a Fernando VII o algún miembro de su familia, de no aceptarlo, las Cortes del Imperio nombrarían un emperador.
+
+### 287
+
+De acuerdo con el libro de Historia de México 1, los Tratados de Córdoba convinieron nombrar una Junta Provisional Gubernativa, que a su vez nombraría otro órgano; ¿cuál, y de cuántas personas?
+
+- A. Una Regencia, integrada por tres personas
+- B. Un Congreso, integrado por 38 diputados
+- C. Un Virreinato, a cargo de O'Donojú
+- D. Una Audiencia, integrada por cinco magistrados
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 189
+**Subtema:** 5.2 Consumación · Tratados de Córdoba
+
+Dicho órgano a su vez nombrará una Regencia, integrada por tres personas, con la misión de convocar a Cortes.
+
+### 288
+
+De conformidad con el libro de Historia de México 1, ¿cuándo entró Agustín de Iturbide a la ciudad de México al frente del Ejército Trigarante?
+
+- A. El 27 de septiembre de 1821
+- B. El 28 de septiembre de 1821
+- C. El 24 de agosto de 1821
+- D. El 16 de septiembre de 1810
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 189
+**Subtema:** 5.2 Consumación · Acta de Independencia
+
+Un mes después, el 27 de septiembre de 1821, Agustín de Iturbide entró a la ciudad de México, al frente del Ejército Trigarante.
+
+### 289
+
+En relación con el libro de Historia de México 1, ¿cuántos notables seleccionaron Iturbide y O'Donojú para integrar la Junta Provisional Gubernativa?
+
+- A. 38 notables
+- B. 27 notables
+- C. 15 notables
+- D. 3 notables
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 190
+**Subtema:** 5.2 Consumación · Acta de Independencia
+
+Iturbide y O'Donojú se reunieron para seleccionar los 38 notables que integrarían la Junta Provisional Gubernativa.
+
+### 290
+
+De acuerdo con el libro de Historia de México 1, ¿cuándo se publicó el Acta de Independencia del Imperio Mexicano?
+
+- A. El 28 de septiembre de 1821
+- B. El 27 de septiembre de 1821
+- C. El 24 de febrero de 1821
+- D. El 16 de septiembre de 1821
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 190
+**Subtema:** 5.2 Consumación · Acta de Independencia
+
+Su primera acción fue la elaboración del Acta de Independencia del Imperio Mexicano, que se publicó el 28 de septiembre de 1821.
+
+> Par contrapuesto con el reactivo 288: el Trigarante entró el **27** de septiembre; el Acta se publicó el **28**. Cada fecha es el distractor de la otra.
+
+### 291
+
+De conformidad con el libro de Historia de México 1, según el propio libro, ¿de quiénes fue un logro la consumación de la Independencia?
+
+- A. De los criollos, hecho que benefició a la elite novohispana
+- B. De los campesinos indígenas y las castas
+- C. De los liberales españoles
+- D. De los antiguos insurgentes de 1810
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 190
+**Subtema:** 5.2 Consumación · Acta de Independencia
+
+La consumación fue un logro de los criollos, hecho que benefició a la elite novohispana que mantuvo sus privilegios.
+
+### 292
+
+En relación con el libro de Historia de México 1, según el propio libro, ¿quién fue el artífice de la Independencia, aunque haya sido por intereses personales?
+
+- A. Agustín de Iturbide
+- B. Vicente Guerrero
+- C. Miguel Hidalgo
+- D. José María Morelos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 190
+**Subtema:** 5.2 Consumación · Acta de Independencia
+
+También deberíamos reconocer que el artífice de la Independencia fue Agustín de Iturbide, aunque haya sido por intereses personales y de los grupos que se vieron beneficiados por su empresa.
 
 ---

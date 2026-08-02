@@ -18,7 +18,7 @@ _Regenerado el 2026-08-02._
 | Bloque | Reactivos | Estado |
 |---|---:|---|
 | Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, espanol-zarzar, fisica-perez-montiel, historia-mexico-menchaca, metodologia-baena, zill-atg) | 6681 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
+| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, espanol-zarzar, fisica-perez-montiel, historia-mexico-menchaca, metodologia-baena, zill-atg) | 6709 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -98,13 +98,13 @@ _Regenerado el 2026-08-02._
 | fisica-perez-montiel · Física · Unidad 9 · Hidrodinámica | 17 | ninguno. Con los temas 3 y 4, la Unidad 9 queda **CERRADA para la EMA**, el único plantel que la pide. Con esta unidad, **la materia Física queda CERRADA para la EMA** salvo el re-keying de la Unidad 3 (Vectores), que está escrita pero sin la clave `**Tema:**` (pendiente aparte, ver `fisica-03-vectores.md`). |
 | fisica-perez-montiel · Física · Unidad 11 · Termología | 74 | ninguno. Con el **tema 4 · Dilatación de los cuerpos** —añadido el 25 jul 2026 en el sub-lote 10, 18 reactivos— la Unidad 11 queda **CERRADA para los tres planteles** que la piden: la EMO (temas 1, 2, 3, 5, 6, 7, 12), la EMM (1, 2, 3, 5, 7, 12) y la **EMA** (1, 3, 4, 5, 12). El tema 4 era el único hueco vivo de la unidad; ya no queda ninguno. |
 | historia-mexico-menchaca · Historia de México 1 · Bloque 2 · El poblamiento de América y las culturas prehispánicas | 346 | _no declarado_ |
-| historia-mexico-menchaca · Historia de México 1 · Bloque 5 · El proceso de Independencia de México | 264 | _no declarado_ |
+| historia-mexico-menchaca · Historia de México 1 · Bloque 5 · El proceso de Independencia de México | 292 | _no declarado_ |
 | metodologia-baena · Metodología de la Investigación · Bloque 1 · Introducción a la Metodología de la Investigación | 44 | ninguno. |
 | zill-atg · Geometría Analítica · Capítulo 4 · Sistema de coordenadas rectangulares y gráficas | 64 | ninguno. El capítulo 4 está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al completarse también los capítulos 8, 9 y 12: en total **219 reactivos** (cap 4: 64, cap 8: 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
 | zill-atg · Geometría Analítica · Capítulo 8 · Trigonometría del triángulo rectángulo | 58 | ninguno. El capítulo 8 está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al completarse también los capítulos 4, 9 y 12: en total **219 reactivos** (cap 4: 64, cap 8: 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
 | zill-atg · Geometría Analítica · Capítulo 9 · Trigonometría del círculo unitario | 53 | ninguno. El capítulo 9 está cerrado. **Geometría Analítica quedó CERRADA para la EMI** (`GA-03-2026`) al completarse también los capítulos 4, 8 y 12: en total **219 reactivos** (cap 4: 64, cap 8: 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
 | zill-atg · Geometría Analítica · Capítulo 12 · Coordenadas polares | 44 | ninguno. Con el capítulo 12, **la materia Geometría Analítica queda CERRADA para la EMI** (`GA-03-2026`): los cuatro capítulos que pide el temario —4 (64), 8 (58), 9 (53) y 12 (44)— están completos, **219 reactivos** en total. El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
-| **Total** | **6681** | |
+| **Total** | **6709** | |
 
 > 2 archivo(s) no declaran pendiente en su encabezado, así que este resumen **no puede afirmar que estén cerrados**. Para que aparezcan como
 > terminados, agrégales una línea `**Pendiente:**` que lo diga.
