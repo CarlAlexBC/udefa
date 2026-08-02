@@ -118,11 +118,16 @@ El contenido narrativo aprovechable corre aproximadamente de la **p. 153 a la p.
   (Morelos) y mulatos (Guerrero, Trujano); familias Bravo y Galeana; bando realista
   (indultos, más milicia, fuerzas de España, excomunión).
 
-**Pendiente de 5.2:** la **tercera etapa, Resistencia** (1816–1820: efectivos 80 000 vs
-27 000, Mier y Terán, Guadalupe Victoria, Pedro Ascencio, Vicente Guerrero, Pedro Moreno,
-Junta Subalterna/de Jaujilla/del Balsas, isla de Mezcala, Apodaca, y los bandos de indulto),
-desde la p. 179; y la **consumación** (Iturbide, Plan de Iguala, Tratados de Córdoba), aprox.
-hasta la p. 193.
+- **Sub-lote 16 · Resistencia (tercera etapa), p. 179:** definición de la etapa (1816–1820,
+  el momento más difícil); efectivos realistas 80 000 vs 27 000 rebeldes; líderes en activo
+  (Mier y Terán en Tehuacán, Guadalupe Victoria en Veracruz, Pedro Ascencio y Vicente
+  Guerrero en el río Mezcala, Pedro Moreno y el Fuerte del Sombrero); las juntas de gobierno
+  (Subalterna Gubernativa, Jaujilla, Zárate, del Balsas); la isla de Mezcala (Rosas y Santa);
+  y el relevo de Calleja por Apodaca.
+
+**Pendiente de 5.2:** los **bandos de indulto** (Venegas, Calleja, Apodaca; desde la p. 180),
+la expedición de **Francisco Javier Mina**, y la **consumación** (Iturbide, Plan de Iguala,
+Tratados de Córdoba), aprox. hasta la p. 193.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -3094,5 +3099,208 @@ De acuerdo con el libro de Historia de México 1, mientras el gobierno novohispa
 **Subtema:** 5.2 el bando realista
 
 Las autoridades eclesiásticas excomulgaban a todo aquel que simpatizara con el movimiento.
+
+---
+
+## Sub-lote 16 · 5.2 Resistencia (tercera etapa): efectivos, líderes insurgentes y las juntas de gobierno (p. 179)
+
+### 190
+
+De acuerdo con el libro de Historia de México 1, ¿a qué periodo se le conoce como la Etapa de Resistencia?
+
+- A. Al que siguió a la muerte de Morelos, comprendido entre 1816 y 1820
+- B. Al que siguió a la muerte de Hidalgo, comprendido entre 1811 y 1815
+- C. Al del Grito de Dolores, comprendido entre 1810 y 1811
+- D. Al del Plan de Iguala, comprendido entre 1820 y 1821
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+Al periodo que siguió a la muerte de José María Morelos y Pavón, comprendido entre 1816 y 1820, se le conoce como la Etapa de Resistencia.
+
+### 191
+
+De conformidad con el libro de Historia de México 1, ¿qué fue la Etapa de Resistencia para los insurgentes?
+
+- A. El momento más difícil que vivieron en su lucha por lograr la independencia
+- B. El momento de mayor expansión territorial del movimiento
+- C. La etapa de mayor apoyo popular en el centro del país
+- D. El periodo de sus primeras victorias militares
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+Fue el momento más difícil que vivieron los insurgentes en su lucha por lograr la independencia.
+
+### 192
+
+En relación con el libro de Historia de México 1, para la Etapa de Resistencia, ¿a cuánto ascendían los efectivos realistas frente a los rebeldes?
+
+- A. A 80 000 realistas, contra los 27 000 que sumaban los rebeldes
+- B. A 27 000 realistas, contra los 80 000 que sumaban los rebeldes
+- C. A 36 000 realistas, contra los 93 000 que sumaban los rebeldes
+- D. A 60 000 realistas, contra los 40 000 que sumaban los rebeldes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+La llegada de tropas hispanas a fines de 1814 y el reclutamiento en la colonia habían hecho que los efectivos realistas ascendieran a 80 000, contra los 27 000, que en conjunto sumaban los rebeldes.
+
+> Distractor B invierte las cifras; el C usa las de Puente de Calderón (sub-lote 8).
+
+### 193
+
+De acuerdo con el libro de Historia de México 1, ¿qué insurgente dominaba Tehuacán y sus alrededores y disolvió el Congreso?
+
+- A. Manuel Mier y Terán
+- B. Guadalupe Victoria
+- C. Pedro Ascencio
+- D. Pedro Moreno
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+Entre los insurgentes que se mantenían en actividad figura Manuel Mier y Terán, quien dominaba Tehuacán y sus alrededores. El insurgente recibió al Congreso, pero lo disolvió para evitar que siguieran las fricciones entre sus integrantes.
+
+### 194
+
+De conformidad con el libro de Historia de México 1, ¿por qué disolvió Manuel Mier y Terán al Congreso?
+
+- A. Para evitar que siguieran las fricciones entre sus integrantes
+- B. Para proclamar la independencia absoluta de España
+- C. Para nombrar a Morelos generalísimo
+- D. Para redactar la Constitución de Apatzingán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+El insurgente recibió al Congreso, pero lo disolvió para evitar que siguieran las fricciones entre sus integrantes.
+
+### 195
+
+En relación con el libro de Historia de México 1, ¿quién operaba en el centro de Veracruz desde 1815?
+
+- A. Guadalupe Victoria
+- B. Vicente Guerrero
+- C. Manuel Mier y Terán
+- D. Pedro Moreno
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+En el centro de Veracruz, operaba Guadalupe Victoria desde 1815.
+
+### 196
+
+De acuerdo con el libro de Historia de México 1, al norte del río Mezcala se encontraba en pie de lucha Pedro Ascencio; ¿quién estaba al sur del mismo río, hasta el Pacífico?
+
+- A. Vicente Guerrero
+- B. Pedro Ascencio
+- C. Guadalupe Victoria
+- D. Pedro Moreno
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+Al norte del río Mezcala, se encontraba en pie de lucha Pedro Ascencio y al sur del mismo río, hasta el Pacífico, Vicente Guerrero.
+
+> Par contrapuesto: Ascencio al norte del Mezcala, Guerrero al sur. Cada uno es el distractor del otro.
+
+### 197
+
+De conformidad con el libro de Historia de México 1, ¿dónde se mantenía alzado Pedro Moreno y qué construyó ahí?
+
+- A. En la sierra de Comanjá, donde construyó el Fuerte del Sombrero
+- B. En la sierra de Guanajuato, donde construyó el fuerte de Jaujilla
+- C. En Tehuacán, donde construyó el Fuerte del Sombrero
+- D. En la isla de Mezcala, donde construyó un fuerte
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+Pedro Moreno se mantenía alzado en la sierra de Comanjá, entre el poblado de Lagos y la sierra de Guanajuato, donde construyó el Fuerte del Sombrero.
+
+### 198
+
+En relación con el libro de Historia de México 1, ¿qué órgano creó el Supremo Congreso Mexicano en septiembre de 1815 para hacerse cargo del movimiento en las provincias occidentales, hasta Texas?
+
+- A. La Junta Subalterna Gubernativa
+- B. La Junta de Zitácuaro
+- C. La Junta de Zárate
+- D. La Junta del Balsas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+En Michoacán se encontraba la Junta Subalterna Gubernativa, creada por el Supremo Congreso Mexicano en septiembre de 1815 para hacerse cargo del movimiento en las provincias occidentales, hasta Texas.
+
+### 199
+
+De acuerdo con el libro de Historia de México 1, tras el sitio realista, ¿cuándo cayó el fuerte de Jaujilla, sede de la junta reconocida como máxima autoridad?
+
+- A. En marzo de 1818, tras ser sitiado desde finales de diciembre de 1817
+- B. En marzo de 1816, tras ser sitiado desde abril de 1815
+- C. En diciembre de 1817, el mismo día en que inició el sitio
+- D. En 1819, tras un sitio de dos años
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+Los realistas sitiaron el fuerte a finales de diciembre de 1817. Después de una larga defensa, cayó en marzo de 1818.
+
+### 200
+
+De conformidad con el libro de Historia de México 1, al reintegrarse en la Hacienda de las Balsas la junta adoptó el nombre de Superior Gobierno Republicano, ¿pero cómo fue más conocida?
+
+- A. Como Junta del Balsas
+- B. Como Junta de Zárate
+- C. Como Junta de Jaujilla
+- D. Como Junta Subalterna Gubernativa
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+Volvieron a integrar la Junta, adoptando entonces el nombre de Superior Gobierno Republicano, aunque fue más conocida como Junta del Balsas.
+
+### 201
+
+En relación con el libro de Historia de México 1, ¿quiénes hicieron la heroica defensa de la isla de Mezcala, en el lago de Chapala, tomada por los realistas a fines de 1816?
+
+- A. Los insurgentes Encarnación Rosas y José Santa
+- B. Pedro Ascencio y Vicente Guerrero
+- C. Manuel Mier y Terán y Guadalupe Victoria
+- D. José San Martín y Pedro Moreno
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+A fines de 1816, los realistas tomaron la isla de Mezcala, en el lago de Chapala, pese a la heroica defensa de insurgentes Encarnación Rosas y José Santa.
+
+### 202
+
+De acuerdo con el libro de Historia de México 1, el virrey Félix María Calleja fue llamado intempestivamente a España; ¿quién quedó en su lugar?
+
+- A. Juan Ruiz de Apodaca
+- B. Francisco Javier Venegas
+- C. Pedro de Garibay
+- D. Gabriel de Yermo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 179
+**Subtema:** 5.2 Resistencia
+
+El virrey Félix María Calleja estaba orgulloso de sus triunfos, pues había logrado acabar con el movimiento en la mayor parte del territorio novohispano, pero fue llamado intempestivamente a España y en su lugar quedó Juan Ruiz de Apodaca.
 
 ---
