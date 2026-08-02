@@ -1,6 +1,6 @@
 # Geometría Analítica · Capítulo 3 · Ecuaciones y desigualdades
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 3 → EN CURSO**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 3 → COMPLETO (§3.1–§3.7, reactivos 1–89)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -130,7 +130,20 @@ norma de teoría sobre práctica.
 
 **§3.6 Ecuaciones y desigualdades con valor absoluto · CERRADO** (pp. 150–152, reactivos 72–80).
 
-**Pendiente:** la sección **§3.7**. Con ella, el capítulo 3 quedará cerrado para la EMMA.
+**Sub-lote 11 (pp. 155, 158, reactivos 81–89):** **§3.7 Desigualdades polinomiales y racionales**: la
+**desigualdad polinomial** (*P*(*x*)>0, etc.) y la **racional** (*P*(*x*)/*Q*(*x*)>0, con *P* y *Q* sin
+factores comunes), las **propiedades del signo de un producto** (positivo/negativo según signos
+iguales/opuestos), el **cero del polinomio** (*P*(*c*)=0, único punto donde puede cambiar de signo), la
+advertencia de no multiplicar una desigualdad racional por el denominador, y las desigualdades estrictas
+(< o >) frente a las no estrictas (≤ o ≥). El método de la tabla de signos y todos los Ejemplos/Ejercicios
+de las pp. 154–160 quedan fuera por la norma de teoría sobre práctica.
+
+**§3.7 Desigualdades polinomiales y racionales · CERRADO** (pp. 155, 158, reactivos 81–89).
+
+**CAPÍTULO 3 · COMPLETO para la EMMA** (§3.1 a §3.7, reactivos 1–89). Con el capítulo 2 (en
+`zill-02-conceptos-fundamentales-algebra.md`) y el capítulo 4 §4.1–§4.4 (en
+`zill-04-coordenadas-rectangulares.md`), la materia *Álgebra* (`ÁLGE-01-2026`) de la EMMA queda cubierta
+al nivel de reactivos.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -1379,3 +1392,142 @@ En relación con el libro de Geometría Analítica, ¿qué representa la expresi
 **Subtema:** Valor absoluto · |x − b| como distancia
 
 |*x* − *b*| es la distancia entre *x* y *b*.
+
+---
+
+## Sub-lote 11 · §3.7 Desigualdades polinomiales y racionales — definiciones, signos y método (pp. 155, 158)
+
+### 81
+
+De acuerdo con el libro de Geometría Analítica, si *P*(*x*) representa un polinomio, ¿cómo se llaman las desigualdades que pueden escribirse en las formas *P*(*x*) > 0, *P*(*x*) < 0, *P*(*x*) ≥ 0 o *P*(*x*) ≤ 0?
+
+- A. Desigualdades polinomiales
+- B. Desigualdades racionales
+- C. Desigualdades lineales
+- D. Desigualdades simultáneas
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 155
+**Subtema:** Desigualdades polinomiales y racionales · desigualdad polinomial
+
+Si *P*(*x*) representa un polinomio de grado arbitrario, las desigualdades que pueden escribirse en las formas *P*(*x*) > 0, *P*(*x*) < 0, *P*(*x*) ≥ 0 y *P*(*x*) ≤ 0 se llaman desigualdades polinomiales.
+
+### 82
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se llaman las desigualdades que incluyen el cociente de dos polinomios *P*(*x*) y *Q*(*x*)?
+
+- A. Desigualdades racionales
+- B. Desigualdades polinomiales
+- C. Desigualdades de valor absoluto
+- D. Desigualdades lineales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 155
+**Subtema:** Desigualdades polinomiales y racionales · desigualdad racional
+
+Las desigualdades que incluyen el cociente de dos polinomios *P*(*x*) y *Q*(*x*) se llaman desigualdades racionales.
+
+### 83
+
+En relación con el libro de Geometría Analítica, respecto a las desigualdades racionales, ¿qué se supone sobre los polinomios *P*(*x*) y *Q*(*x*)?
+
+- A. Que no tienen factores comunes
+- B. Que tienen el mismo grado
+- C. Que *Q*(*x*) es siempre positivo
+- D. Que *P*(*x*) es un polinomio lineal
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 155
+**Subtema:** Desigualdades polinomiales y racionales · supuesto sin factores comunes
+
+En lo que respecta a las desigualdades racionales, supondremos que los polinomios *P*(*x*) y *Q*(*x*) no tienen factores comunes.
+
+### 84
+
+De acuerdo con el libro de Geometría Analítica, ¿cuándo el producto de dos números reales es positivo?
+
+- A. Si y sólo si los números tienen signos iguales
+- B. Si y sólo si los números tienen signos opuestos
+- C. Si y sólo si uno de los números es cero
+- D. Siempre, sin importar los signos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 155
+**Subtema:** Desigualdades polinomiales y racionales · signo de un producto (positivo)
+
+El producto de dos números reales es positivo si y sólo si los números tienen signos iguales.
+
+### 85
+
+De conformidad con el libro de Geometría Analítica, ¿cuándo el producto de dos números reales es negativo?
+
+- A. Si y sólo si los números tienen signos opuestos
+- B. Si y sólo si los números tienen signos iguales
+- C. Si y sólo si ambos son negativos
+- D. Nunca es negativo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 155
+**Subtema:** Desigualdades polinomiales y racionales · signo de un producto (negativo)
+
+El producto de dos números reales es negativo si y sólo si los números tienen signos opuestos.
+
+### 86
+
+En relación con el libro de Geometría Analítica, ¿cómo se denomina un número *c* con el que *P*(*c*) = 0?
+
+- A. Cero del polinomio
+- B. Signo del polinomio
+- C. Extremo del polinomio
+- D. Coeficiente del polinomio
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 155
+**Subtema:** Desigualdades polinomiales y racionales · cero del polinomio
+
+Un número *c* con el que *P*(*c*) = 0 se denomina cero del polinomio.
+
+### 87
+
+De acuerdo con el libro de Geometría Analítica, ¿en qué números puede cambiar de signo un polinomio *P*(*x*)?
+
+- A. Sólo en un número *c* con el cual *P*(*c*) = 0
+- B. En cualquier número real
+- C. Sólo en los números negativos
+- D. Sólo en el número cero
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 155
+**Subtema:** Desigualdades polinomiales y racionales · cambio de signo de un polinomio
+
+Un polinomio *P*(*x*) puede cambiar de signo sólo en un número *c* con el cual *P*(*c*) = 0.
+
+### 88
+
+De conformidad con el libro de Geometría Analítica, al resolver una desigualdad racional, ¿qué es algo que NO se debe hacer?
+
+- A. Multiplicar la desigualdad por el denominador para despejarlo
+- B. Colocar todos los términos de un lado y el 0 del otro
+- C. Factorizar el numerador y el denominador
+- D. Marcar los ceros reales en la recta numérica
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 158
+**Subtema:** Desigualdades polinomiales y racionales · advertencia sobre el denominador
+
+Algo que no se debe hacer es multiplicar la desigualdad por el denominador para despejarlo.
+
+### 89
+
+De acuerdo con el libro de Geometría Analítica (Notas del aula), ¿cómo se denominan las desigualdades que llevan los símbolos < o >?
+
+- A. Desigualdades estrictas
+- B. Desigualdades no estrictas
+- C. Desigualdades simultáneas
+- D. Desigualdades racionales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 158
+**Subtema:** Desigualdades polinomiales y racionales · desigualdades estrictas y no estrictas
+
+Las desigualdades que llevan los símbolos < o > se denominan a veces desigualdades estrictas, en tanto que las que usan ≤ o ≥ se llaman no estrictas.
