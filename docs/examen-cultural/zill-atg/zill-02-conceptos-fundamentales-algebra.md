@@ -98,7 +98,17 @@ del punto medio (`m=(a+b)/2`). Las pp. 62–63 son *Ejercicios* y quedan fuera.
 
 **§2.2 La recta de los números reales · CERRADO** (pp. 58–61, reactivos 66–91).
 
-**Pendiente:** las secciones **§2.3 a §2.8** (pp. 64–106). Con ellas, el capítulo 2 quedará
+**Sub-lote 5 (pp. 64–67, reactivos 92–106):** **§2.3 Exponentes enteros** (toda la teoría): la
+**Definición 2.3.1** (potencia entera positiva, exponente/potencia y base), la **Definición 2.3.2**
+(potencias enteras negativas, *x⁻ⁿ* = 1/*xⁿ*), el exponente cero (*x*⁰ = 1; 0⁰ indefinido), el
+**Teorema 2.3.1** con sus cinco leyes de los exponentes (y su extensión a más de dos variables),
+la **notación científica** (*a* × 10ⁿ, 1 ≤ *a* < 10) y los **dígitos significativos** (*k* + 1).
+Los ejemplos (año luz) y los *Ejercicios* de las pp. 68–70 quedan fuera por la norma de teoría
+sobre práctica.
+
+**§2.3 Exponentes enteros · CERRADO** (pp. 64–67, reactivos 92–106).
+
+**Pendiente:** las secciones **§2.4 a §2.8** (pp. 71–106). Con ellas, el capítulo 2 quedará
 cerrado para la EMMA.
 
 ## Criterio: teoría sobre práctica
@@ -1492,3 +1502,232 @@ De conformidad con el libro de Geometría Analítica, ¿cómo se obtiene el punt
 **Subtema:** La recta de los números reales · coordenada del punto medio
 
 El punto medio *m* de un segmento de recta que une a *a* y *b* es el promedio de los dos extremos: *m* = (*a* + *b*)/2.
+
+---
+
+## Sub-lote 5 · §2.3 Exponentes enteros (pp. 64–67)
+
+### 92
+
+De acuerdo con el libro de Geometría Analítica, según la Definición 2.3.1, para un número real *x* y un entero positivo *n*, ¿qué representa el símbolo *xⁿ*?
+
+- A. El producto de *n* factores de *x*
+- B. La suma de *n* sumandos iguales a *x*
+- C. El cociente de *x* entre *n*
+- D. El producto de *x* por *n*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 64
+**Subtema:** Exponentes enteros · Definición 2.3.1 potencia entera positiva
+
+Para cualquier número real *x* y cualquier entero positivo *n*, el símbolo *xⁿ* representa el producto de *n* factores de *x*.
+
+### 93
+
+De conformidad con el libro de Geometría Analítica, en el caso en que *n* = 1, ¿a qué es igual *x*¹?
+
+- A. *x*
+- B. 1
+- C. 0
+- D. *x*²
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 64
+**Subtema:** Exponentes enteros · Definición 2.3.1 potencia entera positiva
+
+En el caso en que *n* = 1, tenemos que *x*¹ = *x*.
+
+### 94
+
+En relación con el libro de Geometría Analítica, en la expresión *xⁿ*, ¿cómo se llama *n*?
+
+- A. Exponente o potencia de *x*
+- B. Base
+- C. Factor
+- D. Coeficiente
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 64
+**Subtema:** Exponentes enteros · terminología
+
+En la expresión *xⁿ*, *n* se llama exponente o potencia de *x*, y *x* se denomina base.
+
+### 95
+
+De acuerdo con el libro de Geometría Analítica, en la expresión *xⁿ*, ¿cómo se denomina *x*?
+
+- A. Base
+- B. Exponente
+- C. Potencia
+- D. Radicando
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 64
+**Subtema:** Exponentes enteros · terminología
+
+En la expresión *xⁿ*, *n* se llama exponente o potencia de *x*, y *x* se denomina base.
+
+### 96
+
+De conformidad con el libro de Geometría Analítica, según la Definición 2.3.2, para un número real *x* distinto de cero y un entero positivo *n*, ¿qué representa el símbolo *x⁻ⁿ*?
+
+- A. El recíproco del producto de *n* factores de *x*, es decir, *x⁻ⁿ* = 1/*xⁿ*, con *x* ≠ 0
+- B. El producto de *n* factores de *x*
+- C. El negativo de *xⁿ*
+- D. El producto de −*n* por *x*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 64
+**Subtema:** Exponentes enteros · Definición 2.3.2 potencias enteras negativas
+
+Para cualquier número real *x* que no sea cero y cualquier entero positivo *n*, el símbolo *x⁻ⁿ* representa el recíproco del producto de *n* factores de *x*. Es decir, *x⁻ⁿ* = 1/*xⁿ*, con *x* ≠ 0.
+
+### 97
+
+En relación con el libro de Geometría Analítica, para cualquier base *x* diferente de cero, ¿a qué es igual *x*⁰?
+
+- A. *x*⁰ = 1
+- B. *x*⁰ = 0
+- C. *x*⁰ = *x*
+- D. *x*⁰ es indefinido
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 65
+**Subtema:** Exponentes enteros · exponente cero
+
+Finalmente, para cualquier base *x* diferente de cero, definimos *x*⁰ = 1.
+
+### 98
+
+De acuerdo con el libro de Geometría Analítica, según la advertencia del texto, ¿qué ocurre con 0⁰?
+
+- A. Es indefinido
+- B. Es igual a 1
+- C. Es igual a 0
+- D. Es igual a la base
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 65
+**Subtema:** Exponentes enteros · exponente cero
+
+Note que 0⁰ es indefinido.
+
+### 99
+
+De conformidad con el libro de Geometría Analítica, según la ley i) del Teorema 2.3.1, ¿a qué es igual *xᵐxⁿ*?
+
+- A. *xᵐ⁺ⁿ*
+- B. *xᵐⁿ*
+- C. *xᵐ⁻ⁿ*
+- D. *x*^(*m*/*n*)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 66
+**Subtema:** Exponentes enteros · Teorema 2.3.1 leyes de los exponentes
+
+Teorema 2.3.1, leyes de los exponentes enteros: i) *xᵐxⁿ* = *xᵐ⁺ⁿ*.
+
+### 100
+
+En relación con el libro de Geometría Analítica, según la ley ii) del Teorema 2.3.1, ¿a qué es igual (*xᵐ*)ⁿ?
+
+- A. *xᵐⁿ*
+- B. *xᵐ⁺ⁿ*
+- C. *xᵐ⁻ⁿ*
+- D. *xᵐ* + *xⁿ*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 66
+**Subtema:** Exponentes enteros · Teorema 2.3.1 leyes de los exponentes
+
+Teorema 2.3.1, leyes de los exponentes enteros: ii) (*xᵐ*)ⁿ = *xᵐⁿ*.
+
+### 101
+
+De acuerdo con el libro de Geometría Analítica, según la ley iii) del Teorema 2.3.1, ¿a qué es igual (*xy*)ⁿ?
+
+- A. *xⁿyⁿ*
+- B. *xⁿ* + *yⁿ*
+- C. *x*^(*n*/*y*)
+- D. *xy*ⁿ
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 66
+**Subtema:** Exponentes enteros · Teorema 2.3.1 leyes de los exponentes
+
+Teorema 2.3.1, leyes de los exponentes enteros: iii) (*xy*)ⁿ = *xⁿyⁿ*.
+
+### 102
+
+De conformidad con el libro de Geometría Analítica, según la ley iv) del Teorema 2.3.1, ¿a qué es igual (*x*/*y*)ⁿ?
+
+- A. *xⁿ*/*yⁿ*
+- B. *xⁿyⁿ*
+- C. *x*/*yⁿ*
+- D. *xⁿ*/*y*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 66
+**Subtema:** Exponentes enteros · Teorema 2.3.1 leyes de los exponentes
+
+Teorema 2.3.1, leyes de los exponentes enteros: iv) (*x*/*y*)ⁿ = *xⁿ*/*yⁿ*.
+
+### 103
+
+En relación con el libro de Geometría Analítica, según la ley v) del Teorema 2.3.1, ¿a qué es igual *xᵐ*/*xⁿ*?
+
+- A. *xᵐ⁻ⁿ*
+- B. *xᵐ⁺ⁿ*
+- C. *xᵐⁿ*
+- D. *x*^(*m*/*n*)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 66
+**Subtema:** Exponentes enteros · Teorema 2.3.1 leyes de los exponentes
+
+Teorema 2.3.1, leyes de los exponentes enteros: v) *xᵐ*/*xⁿ* = *xᵐ⁻ⁿ*.
+
+### 104
+
+De acuerdo con el libro de Geometría Analítica, un número real positivo escrito en la forma *a* × 10ⁿ está en notación científica; ¿qué condición cumple *a*?
+
+- A. 1 ≤ *a* < 10, y *n* es un entero
+- B. 0 < *a* < 1, y *n* es un entero
+- C. *a* > 10, y *n* es un entero
+- D. *a* es cualquier número real y *n* es un decimal
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 67
+**Subtema:** Exponentes enteros · notación científica
+
+Cualquier número real positivo puede escribirse en la forma *a* × 10ⁿ, donde 1 ≤ *a* < 10 y *n* es un entero. Decimos que un número escrito así está en notación científica.
+
+### 105
+
+De conformidad con el libro de Geometría Analítica, si en *x* = *a* × 10ⁿ el número *a* contiene *k* lugares decimales, ¿cuántos dígitos significativos tiene *x*?
+
+- A. *k* + 1 dígitos significativos
+- B. *k* dígitos significativos
+- C. *k* − 1 dígitos significativos
+- D. 10*k* dígitos significativos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 67
+**Subtema:** Exponentes enteros · dígitos significativos
+
+Si *a* contiene *k* lugares decimales (es decir, *k* dígitos a la derecha del punto decimal), entonces se dice que *x* tiene *k* + 1 dígitos significativos.
+
+### 106
+
+En relación con el libro de Geometría Analítica, la ley iii) del Teorema 2.3.1 se extiende a más de dos variables; por ejemplo, ¿a qué es igual (*xyzw*)ⁿ?
+
+- A. *xⁿyⁿzⁿwⁿ*
+- B. *xⁿ* + *yⁿ* + *zⁿ* + *wⁿ*
+- C. (*xyzw*)^(4*n*)
+- D. *xyzwⁿ*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 66
+**Subtema:** Exponentes enteros · Teorema 2.3.1 leyes de los exponentes
+
+Además, iii) del teorema 2.3.1 se extiende a más de dos variables; por ejemplo, (*xyzw*)ⁿ = *xⁿyⁿzⁿwⁿ*.
