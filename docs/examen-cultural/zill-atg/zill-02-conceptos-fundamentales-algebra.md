@@ -161,9 +161,17 @@ primer paso y la agrupación, y la **factorización de polinomios cuadráticos**
 (*Ax*+*B*)(*Cx*+*D*); para *x*²+*bx*+*c*, con *B*+*D*=*b* y *BD*=*c*; para el caso general *a*≠1, con
 *AC*=*a*, *AD*+*BC*=*b*, *BD*=*c*; la comprobación por multiplicación; y la extensión a *ax*²+*bxy*+*cy*²).
 
-**Pendiente de §2.7:** pp. 95–96 (las **fórmulas de factorización** —cuadrado perfecto, diferencia de
-cuadrados, suma y diferencia de cubos— y la factorización total). Luego **§2.8** (pp. 98–106). Con ellas,
-el capítulo 2 quedará cerrado para la EMMA.
+**Sub-lote 13 (pp. 95–96, reactivos 189–195):** cierra **§2.7** con las **fórmulas de factorización**
+(obtenidas al invertir los productos notables): cuadrado perfecto, diferencia de dos cuadrados, y suma y
+diferencia de dos cubos —estas dos con la forma correcta *a*² (el libro las escribe bien aquí, a diferencia
+de §2.6; ver aviso)—, la nota de que la diferencia de cuadrados y la suma/diferencia de cubos siempre se
+pueden factorizar si no se limitan los coeficientes a enteros, y la noción de **factorización total**. Los
+Ejemplos 1–11 y los *Ejercicios* de las pp. 92–97 quedan fuera por la norma de teoría sobre práctica.
+
+**§2.7 Factorización de polinomios · CERRADO** (pp. 92–96, reactivos 178–195).
+
+**Pendiente:** la sección **§2.8 Expresiones racionales** (pp. 98–106). Con ella, el capítulo 2 quedará
+cerrado para la EMMA.
 
 ## Criterio: teoría sobre práctica
 
@@ -184,9 +192,10 @@ término del segundo factor como *a*³ cuando debe ser *a*²:
 
 Con *a*³ la identidad es falsa. **Es errata de imprenta, confirmada por recorte a 600 dpi** (no es
 suciedad del escaneo), y el propio libro la desmiente en el **Ejemplo 11** de esa misma página, donde
-escribe bien (*x* + *y*)(*x*² − *xy* + *y*²) = *x*³ + *y*³ (término medio con *y*²). Por eso los
-reactivos de suma y diferencia de cubos de este banco usan la **forma correcta (*a*²)**, no la que
-aparece impresa.
+escribe bien (*x* + *y*)(*x*² − *xy* + *y*²) = *x*³ + *y*³ (término medio con *y*²). Además, en la
+**§2.7 (pág. 95)** el libro reescribe estas identidades como fórmulas de factorización (5) y (6), también
+con *a*². Por eso los reactivos de suma y diferencia de cubos de este banco usan la **forma correcta
+(*a*²)**, no la que aparece impresa.
 
 ---
 
@@ -3058,3 +3067,112 @@ De conformidad con el libro de Geometría Analítica, ¿a qué polinomios de dos
 **Subtema:** Factorización de polinomios · cuadrático en dos variables
 
 Este método general se puede aplicar a polinomios de dos variables *x* y *y* de la forma *ax*² + *bxy* + *cy*², donde *a*, *b* y *c* son enteros.
+
+---
+
+## Sub-lote 13 · §2.7 Factorización de polinomios — fórmulas de factorización y factorización total (pp. 95–96)
+
+### 189
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se obtienen las fórmulas de factorización?
+
+- A. Invirtiendo las fórmulas de los productos notables de la sección 2.6
+- B. Derivando las fórmulas de los productos notables de la sección 2.6
+- C. Sumando las fórmulas de los productos notables de la sección 2.6
+- D. Elevando al cuadrado las fórmulas de los productos notables de la sección 2.6
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 95
+**Subtema:** Factorización de polinomios · fórmulas de factorización
+
+Si invertimos las fórmulas de los productos notables de la sección 2.6 obtenemos las siguientes fórmulas de factorización importantes.
+
+### 190
+
+De conformidad con el libro de Geometría Analítica, según la fórmula de factorización del cuadrado perfecto, ¿a qué es igual *x*² + 2*ax* + *a*²?
+
+- A. (*x* + *a*)²
+- B. (*x* − *a*)²
+- C. (*x* + *a*)(*x* − *a*)
+- D. (*x* + *a*)³
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 95
+**Subtema:** Factorización de polinomios · cuadrado perfecto
+
+Cuadrado perfecto: *x*² + 2*ax* + *a*² = (*x* + *a*)².
+
+### 191
+
+De acuerdo con el libro de Geometría Analítica, según la fórmula de factorización, ¿a qué es igual la diferencia de dos cuadrados *x*² − *a*²?
+
+- A. (*x* + *a*)(*x* − *a*)
+- B. (*x* − *a*)²
+- C. (*x* + *a*)²
+- D. (*x* − *a*)(*x*² + *ax* + *a*²)
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 95
+**Subtema:** Factorización de polinomios · diferencia de dos cuadrados
+
+Diferencia de dos cuadrados: *x*² − *a*² = (*x* + *a*)(*x* − *a*).
+
+### 192
+
+En relación con el libro de Geometría Analítica, según la fórmula de factorización, ¿a qué es igual la diferencia de dos cubos *x*³ − *a*³?
+
+- A. (*x* − *a*)(*x*² + *ax* + *a*²)
+- B. (*x* + *a*)(*x*² − *ax* + *a*²)
+- C. (*x* − *a*)(*x*² − *ax* + *a*²)
+- D. (*x* − *a*)³
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 95
+**Subtema:** Factorización de polinomios · diferencia de dos cubos
+
+Diferencia de dos cubos: *x*³ − *a*³ = (*x* − *a*)(*x*² + *ax* + *a*²). (En §2.7 el libro escribe esta fórmula correctamente, con *a*²; ver el aviso al aspirante sobre la errata de la fórmula equivalente en §2.6.)
+
+### 193
+
+De conformidad con el libro de Geometría Analítica, según la fórmula de factorización, ¿a qué es igual la suma de dos cubos *x*³ + *a*³?
+
+- A. (*x* + *a*)(*x*² − *ax* + *a*²)
+- B. (*x* − *a*)(*x*² + *ax* + *a*²)
+- C. (*x* + *a*)(*x*² + *ax* + *a*²)
+- D. (*x* + *a*)³
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 95
+**Subtema:** Factorización de polinomios · suma de dos cubos
+
+Suma de dos cubos: *x*³ + *a*³ = (*x* + *a*)(*x*² − *ax* + *a*²). (En §2.7 el libro escribe esta fórmula correctamente, con *a*²; ver el aviso al aspirante sobre la errata de la fórmula equivalente en §2.6.)
+
+### 194
+
+De acuerdo con el libro de Geometría Analítica, ¿qué indican las fórmulas (4) a (6) acerca de la diferencia de dos cuadrados y la suma y diferencia de dos cubos?
+
+- A. Que siempre se pueden factorizar, en tanto no limitemos los coeficientes a enteros
+- B. Que sólo se pueden factorizar cuando los coeficientes son enteros
+- C. Que nunca se pueden factorizar con números reales
+- D. Que sólo se pueden factorizar si son cuadrados perfectos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 96
+**Subtema:** Factorización de polinomios · factorización con coeficientes no enteros
+
+Las fórmulas (4) a (6) indican que la diferencia de dos cuadrados y la suma y diferencia de dos cubos siempre se pueden factorizar, en tanto no limitemos los coeficientes a enteros.
+
+### 195
+
+De conformidad con el libro de Geometría Analítica, ¿qué significa que una expresión esté factorizada totalmente?
+
+- A. Que ninguno de los factores se puede factorizar en polinomios de grado 1 o mayor con coeficientes enteros
+- B. Que todos los factores son de grado 1
+- C. Que la expresión tiene un solo factor
+- D. Que todos los coeficientes de los factores son enteros positivos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 96
+**Subtema:** Factorización de polinomios · factorización total
+
+Necesitamos que una expresión sea factorizada totalmente, es decir, hasta que ninguno de los factores se puedan factorizar en polinomios de grado 1 o mayor con coeficientes enteros.
