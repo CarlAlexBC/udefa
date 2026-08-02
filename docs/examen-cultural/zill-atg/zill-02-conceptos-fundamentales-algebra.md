@@ -155,8 +155,15 @@ sobre práctica.
 
 **§2.6 Polinomios y productos notables · CERRADO** (pp. 83–90, reactivos 143–177).
 
-**Pendiente:** las secciones **§2.7 y §2.8** (pp. 92–106). Con ellas, el capítulo 2 quedará cerrado para
-la EMMA.
+**Sub-lote 12 (pp. 92–94, reactivos 178–188):** la apertura de **§2.7 Factorización de polinomios**: la
+definición de factorización y de factor, que se buscan factores de grado 1 o mayores, el factor común como
+primer paso y la agrupación, y la **factorización de polinomios cuadráticos** (*ax*²+*bx*+*c* como
+(*Ax*+*B*)(*Cx*+*D*); para *x*²+*bx*+*c*, con *B*+*D*=*b* y *BD*=*c*; para el caso general *a*≠1, con
+*AC*=*a*, *AD*+*BC*=*b*, *BD*=*c*; la comprobación por multiplicación; y la extensión a *ax*²+*bxy*+*cy*²).
+
+**Pendiente de §2.7:** pp. 95–96 (las **fórmulas de factorización** —cuadrado perfecto, diferencia de
+cuadrados, suma y diferencia de cubos— y la factorización total). Luego **§2.8** (pp. 98–106). Con ellas,
+el capítulo 2 quedará cerrado para la EMMA.
 
 ## Criterio: teoría sobre práctica
 
@@ -2882,3 +2889,172 @@ De conformidad con el libro de Geometría Analítica (Notas del aula), al restar
 **Subtema:** Polinomios y productos notables · resta de polinomios (Notas del aula)
 
 Un error muy común cuando se restan polinomios en el formato horizontal consiste en no aplicar la propiedad distributiva. Es necesario cambiar el signo de cada término del polinomio que se resta.
+
+---
+
+## Sub-lote 12 · §2.7 Factorización de polinomios — factor común, agrupación y polinomios cuadráticos (pp. 92–94)
+
+### 178
+
+De acuerdo con el libro de Geometría Analítica, cuando se escribe un polinomio como producto de otros polinomios, ¿cómo se llama ese proceso?
+
+- A. Factorización
+- B. Simplificación
+- C. Racionalización
+- D. Sustitución
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 92
+**Subtema:** Factorización de polinomios · definición de factorización
+
+Tratamos de escribir un polinomio como producto de otros polinomios. Este proceso se llama factorización, y cada polinomio en el producto se llama factor del polinomio original.
+
+### 179
+
+De conformidad con el libro de Geometría Analítica, en la factorización, ¿cómo se llama cada uno de los polinomios que forman el producto?
+
+- A. Factor del polinomio original
+- B. Término del polinomio original
+- C. Coeficiente del polinomio original
+- D. Divisor común del polinomio original
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 92
+**Subtema:** Factorización de polinomios · factor
+
+Este proceso se llama factorización, y cada polinomio en el producto se llama factor del polinomio original.
+
+### 180
+
+En relación con el libro de Geometría Analítica, al factorizar, ¿qué factores polinomiales buscamos generalmente?
+
+- A. Factores polinomiales de grado 1 o mayores
+- B. Factores polinomiales de grado 0
+- C. Factores polinomiales de grado 2 exactamente
+- D. Factores con exponentes racionales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 92
+**Subtema:** Factorización de polinomios · grado de los factores
+
+Generalmente, buscamos factores polinomiales de grado 1 o mayores.
+
+### 181
+
+De acuerdo con el libro de Geometría Analítica, ¿cuál es el primer paso en la factorización de cualquier expresión algebraica?
+
+- A. Determinar si los términos tienen un factor común
+- B. Aplicar la fórmula de la diferencia de dos cuadrados
+- C. Sustituir la variable por un número
+- D. Ordenar los términos en potencias crecientes
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 92
+**Subtema:** Factorización de polinomios · primer paso (factor común)
+
+En general, el primer paso en la factorización de cualquier expresión algebraica es determinar si los términos tienen un factor común.
+
+### 182
+
+De conformidad con el libro de Geometría Analítica, cuando los términos de una expresión no tienen un factor común, ¿cómo podrían aún factorizarse?
+
+- A. Agrupando los términos de manera apropiada
+- B. Elevando cada término al cuadrado
+- C. Multiplicando la expresión por su conjugado
+- D. Sustituyendo los términos por sus recíprocos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 92
+**Subtema:** Factorización de polinomios · agrupación
+
+Cuando los términos de una expresión no tienen un factor común, aún podrían factorizarse agrupando los términos de manera apropiada.
+
+### 183
+
+En relación con el libro de Geometría Analítica, a veces es posible factorizar un polinomio cuadrático *ax*² + *bx* + *c* (con *a*, *b* y *c* enteros), ¿en qué forma?
+
+- A. (*Ax* + *B*)(*Cx* + *D*), donde *A*, *B*, *C* y *D* son también enteros
+- B. (*Ax* + *B*)(*Cx* + *D*), donde *A*, *B*, *C* y *D* son números reales cualesquiera
+- C. (*Ax* + *B*) + (*Cx* + *D*), donde *A*, *B*, *C* y *D* son enteros
+- D. *A*(*x* + *B*)(*x* + *C*), donde *A*, *B* y *C* son enteros
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 93
+**Subtema:** Factorización de polinomios · polinomios cuadráticos
+
+A veces es posible factorizar los polinomios cuadráticos *ax*² + *bx* + *c*, donde *a*, *b* y *c* son enteros, como (*Ax* + *B*)(*Cx* + *D*), donde *A*, *B*, *C* y *D* son también enteros.
+
+### 184
+
+De acuerdo con el libro de Geometría Analítica, al factorizar *x*² + *bx* + *c* como (*x* + *B*)(*x* + *D*) con coeficientes enteros, ¿qué deben cumplir *B* y *D*?
+
+- A. *B* + *D* = *b* y *BD* = *c*
+- B. *B* + *D* = *c* y *BD* = *b*
+- C. *B* − *D* = *b* y *BD* = *c*
+- D. *B* + *D* = *b* y *B*/*D* = *c*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 93
+**Subtema:** Factorización de polinomios · cuadrático con coeficiente principal 1
+
+Al hallar el producto y al comparar los coeficientes vemos que *B* + *D* = *b* y *BD* = *c*.
+
+### 185
+
+De conformidad con el libro de Geometría Analítica, para factorizar *x*² + *bx* + *c* con coeficientes enteros, después de listar las factorizaciones de *c* como producto de dos enteros *B* y *D*, ¿qué se comprueba?
+
+- A. Cuál de las sumas *B* + *D* es igual a *b*
+- B. Cuál de los productos *B* · *D* es igual a *b*
+- C. Cuál de las diferencias *B* − *D* es igual a *c*
+- D. Cuál factorización tiene el mayor valor de *B*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 93
+**Subtema:** Factorización de polinomios · método de factorización del cuadrático
+
+Para factorizar *x*² + *bx* + *c* con coeficientes enteros hacemos una lista de todas las factorizaciones posibles de *c* como producto de dos enteros *B* y *D*. Luego comprobamos cuál de las sumas de *B* + *D* es igual a *b*.
+
+### 186
+
+En relación con el libro de Geometría Analítica, ¿cómo es siempre posible comprobar una factorización?
+
+- A. Mediante la multiplicación de los factores
+- B. Mediante la división de los factores
+- C. Sustituyendo la variable por cero
+- D. Sumando los factores
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 93
+**Subtema:** Factorización de polinomios · comprobación
+
+Observe que siempre es posible comprobar una factorización mediante la multiplicación de los factores.
+
+### 187
+
+De acuerdo con el libro de Geometría Analítica, para factorizar el polinomio cuadrático general *ax*² + *bx* + *c* (con *a* ≠ 1) como (*Ax* + *B*)(*Cx* + *D*), ¿qué deben satisfacer los coeficientes?
+
+- A. *AC* = *a*, *AD* + *BC* = *b*, *BD* = *c*
+- B. *AC* = *c*, *AD* + *BC* = *b*, *BD* = *a*
+- C. *A* + *C* = *a*, *AD* + *BC* = *b*, *B* + *D* = *c*
+- D. *AC* = *a*, *AB* + *CD* = *b*, *BD* = *c*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 94
+**Subtema:** Factorización de polinomios · cuadrático general (a ≠ 1)
+
+Vemos que *ax*² + *bx* + *c* se factoriza como (*Ax* + *B*)(*Cx* + *D*) si hallamos enteros que satisfagan *AC* = *a*, *AD* + *BC* = *b*, *BD* = *c*.
+
+### 188
+
+De conformidad con el libro de Geometría Analítica, ¿a qué polinomios de dos variables se puede aplicar el método general de factorización de cuadráticos?
+
+- A. A los de la forma *ax*² + *bxy* + *cy*², donde *a*, *b* y *c* son enteros
+- B. A los de la forma *ax*² + *by*² + *c*, donde *a*, *b* y *c* son enteros
+- C. A los de la forma *ax*³ + *bxy* + *cy*³, donde *a*, *b* y *c* son enteros
+- D. A los de la forma *ax*² + *bxy* + *cy*² sólo cuando *a* = 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 94
+**Subtema:** Factorización de polinomios · cuadrático en dos variables
+
+Este método general se puede aplicar a polinomios de dos variables *x* y *y* de la forma *ax*² + *bxy* + *cy*², donde *a*, *b* y *c* son enteros.
