@@ -125,9 +125,21 @@ El contenido narrativo aprovechable corre aproximadamente de la **p. 153 a la p.
   (Subalterna Gubernativa, Jaujilla, Zárate, del Balsas); la isla de Mezcala (Rosas y Santa);
   y el relevo de Calleja por Apodaca.
 
-**Pendiente de 5.2:** los **bandos de indulto** (Venegas, Calleja, Apodaca; desde la p. 180),
-la expedición de **Francisco Javier Mina**, y la **consumación** (Iturbide, Plan de Iguala,
-Tratados de Córdoba), aprox. hasta la p. 193.
+- **Sub-lote 17 · Resistencia: bandos de indulto, pp. 180–181:** Venegas (1810, premio de
+  diez mil pesos, excomunión, sugerencia del obispo de Puebla); Calleja (bando de San Juan
+  del Río/Querétaro, ratificado en México el 12 nov, ocho días, "sangre y fuego"); Apodaca
+  (enero 1817, "falsos filósofos", benevolencia de Fernando VII); los insurgentes que se
+  acogieron (Rayón, Osorno, Bravo, Múzquiz, etc.) y los que siguieron con guerrillas.
+
+- **Sub-lote 18 · Resistencia: campaña de Xavier Mina, pp. 181–182:** quién era (joven
+  liberal, fray Servando Teresa de Mier, expedición de ≤300 hombres, imprenta en Londres,
+  seguidores de varias nacionalidades); desembarco en Soto la Marina (15 abr 1817); triunfos
+  (Peotillos, San Juan de los Llanos; nombrado Jefe Superior de las Fuerzas del Bajío);
+  Liñán, el Fuerte del Sombrero y el de los Remedios; captura en el Rancho del Venadito y
+  fusilamiento en el cerro del Bellaco (11 nov 1817); los grupos del sur que siguieron.
+
+**Pendiente de 5.2:** la **cuarta etapa, Consumación** (Iturbide, el Plan de Iguala, los
+Tratados de Córdoba, el Ejército Trigarante), desde la p. 183, aprox. hasta la p. 193.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -168,6 +180,14 @@ falsos** (criterio de CLAUDE.md); se publican como aviso:
   "6 de diciembre" (línea de tiempo); la batalla de Puente de Calderón como "16 de enero"
   (prosa, p. 167) y "17 de enero" (línea de tiempo). Los reactivos usan la fecha de la
   prosa principal.
+
+**Aclaración de nombre (no es errata; la hace el propio libro).** El libro llama al
+guerrillero **"Martín Xavier Mina Larrea"** / **"Xavier Mina"** (p. 181) y advierte en su
+nota al pie 29 que "ha sido confundido con su tío *Francisco Javier Espaz y Mina*, aunque en
+el imaginario popular, *Francisco Javier Mina* es el nombre del militar liberal que llegó a
+la Nueva España a combatir el despotismo declarado de Fernando VII". Los reactivos usan
+**Xavier Mina / Martín Xavier Mina Larrea**, como el cuerpo del libro; queda anotado para
+que el aspirante no se confunda si en otra fuente lo ve como *Francisco Javier Mina*.
 
 ## Decisiones de alcance de este bloque (Carlo, 1 ago 2026)
 
@@ -3302,5 +3322,439 @@ De acuerdo con el libro de Historia de México 1, el virrey Félix María Callej
 **Subtema:** 5.2 Resistencia
 
 El virrey Félix María Calleja estaba orgulloso de sus triunfos, pues había logrado acabar con el movimiento en la mayor parte del territorio novohispano, pero fue llamado intempestivamente a España y en su lugar quedó Juan Ruiz de Apodaca.
+
+---
+
+## Sub-lote 17 · 5.2 Resistencia: los bandos de indulto a los insurgentes (pp. 180–181)
+
+### 203
+
+De acuerdo con el libro de Historia de México 1, ¿cuál fue una de las primeras tentativas del virrey Venegas en 1810 para acabar con el movimiento insurgente?
+
+- A. Ofrecer un premio de diez mil pesos a quien entregase vivos o diese muerte a los principales líderes de la insurrección
+- B. Conceder el indulto general a todos los insurgentes sin excepción
+- C. Convocar a un congreso para negociar con los rebeldes
+- D. Ofrecer tierras a los soldados que desertaran del ejército realista
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 180
+**Subtema:** 5.2 bandos de indulto
+
+Una de las primeras tentativas para acabar con el movimiento insurgente por parte del virrey Venegas en 1810 fue ofrecer un premio de diez mil pesos a quien entregase vivos o diese muerte a los principales líderes de la insurrección.
+
+### 204
+
+De conformidad con el libro de Historia de México 1, además del premio ofrecido por Venegas, ¿cómo completó la Iglesia la pena contra los rebeldes?
+
+- A. Excomulgándolos
+- B. Negándoles sepultura cristiana
+- C. Confiscando sus bienes a favor de la Iglesia
+- D. Ordenándoles ayunos de penitencia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 180
+**Subtema:** 5.2 bandos de indulto
+
+Además, la Iglesia completó la pena excomulgando a los rebeldes.
+
+### 205
+
+En relación con el libro de Historia de México 1, como el premio y la excomunión no dieron resultado, ¿qué sugirió el obispo de Puebla a Venegas?
+
+- A. Conceder el indulto a todo aquel que se arrepintiera, entregara las armas y delatara a sus compañeros
+- B. Aumentar la recompensa por las cabezas de los líderes
+- C. Solicitar más tropas a España
+- D. Excomulgar también a las familias de los insurgentes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 180
+**Subtema:** 5.2 bandos de indulto
+
+El obispo de Puebla sugirió a Venegas conceder el indulto a todo aquel que se arrepintiera, entregara las armas y delatara a sus compañeros.
+
+### 206
+
+De acuerdo con el libro de Historia de México 1, cuando Calleja derrotó a Hidalgo en Aculco, ¿dónde publicó un bando de indulto?
+
+- A. En San Juan del Río, Querétaro
+- B. En Aculco
+- C. En Guadalajara
+- D. En la ciudad de México
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 180
+**Subtema:** 5.2 bandos de indulto
+
+Más tarde, cuando Calleja derrotó a Hidalgo en Aculco, publicó un bando en San Juan del Río, Querétaro, en el cual, a nombre del virrey concedía un nuevo indulto y perdón general a todos los que abandonasen las filas de los insurgentes.
+
+### 207
+
+De conformidad con el libro de Historia de México 1, el bando de Calleja concedía perdón general, ¿pero a quiénes exceptuaba, por cuyas cabezas prometía de nuevo diez mil pesos?
+
+- A. A los principales jefes del movimiento
+- B. A los soldados extranjeros
+- C. A los sacerdotes insurgentes
+- D. A los criollos propietarios de fincas
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 bandos de indulto
+
+Exceptuando de esta gracia a los principales jefes del movimiento, por cuyas cabezas prometió de nuevo la remuneración de diez mil pesos.
+
+### 208
+
+En relación con el libro de Historia de México 1, Venegas ratificó el bando y lo publicó en México el 12 de noviembre; ¿en cuántos días debían presentarse quienes quisieran acogerse al perdón?
+
+- A. Dentro de los ocho días de publicado el bando en cada población
+- B. Dentro de los treinta días de publicado el bando
+- C. Dentro de las veinticuatro horas de publicado el bando
+- D. Dentro del año de publicado el bando
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 bandos de indulto
+
+Con tal de que quienes quisiesen acogerse al perdón se presentasen dentro de los ochos días de publicado el bando en cada población, entregando las armas sin retener ninguna.
+
+### 209
+
+De acuerdo con el libro de Historia de México 1, como los indultos tampoco dieron resultado, ¿cómo prosiguió Calleja su campaña contra los insurgentes?
+
+- A. A "sangre y fuego"
+- B. Ofreciendo más indultos
+- C. Retirándose a la ciudad de México
+- D. Negociando una tregua
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 bandos de indulto
+
+Como tampoco dio resultado, Calleja prosiguió su campaña contra los insurgentes a "sangre y fuego".
+
+### 210
+
+De conformidad con el libro de Historia de México 1, en enero de 1817, ¿qué virrey expidió un nuevo decreto de indulto a todo aquel que dejara las armas y pidiera perdón?
+
+- A. Juan Ruiz de Apodaca
+- B. Félix María Calleja
+- C. Francisco Javier Venegas
+- D. Fernando VII
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 180
+**Subtema:** 5.2 bandos de indulto
+
+Más adelante, en enero de 1817, el virrey Juan Ruiz de Apodaca expidió un decreto en el que concedía un nuevo indulto en nombre de su soberano a todo aquel que dejara las armas y pidiera perdón.
+
+### 211
+
+En relación con el libro de Historia de México 1, en su decreto, Apodaca decía que la revolución había sido impulsada por los errores de ¿quiénes?
+
+- A. De los falsos filósofos
+- B. De los criollos resentidos
+- C. De los sacerdotes rebeldes
+- D. De los invasores franceses
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 180
+**Subtema:** 5.2 bandos de indulto
+
+Después de exponer los males causados por la revolución, impulsada, según decía, por los errores de los falsos filósofos.
+
+### 212
+
+De acuerdo con el libro de Historia de México 1, ¿a qué invitaba el decreto de Apodaca a los rebeldes, diciendo que Fernando VII los trataría con benevolencia de padre?
+
+- A. A someterse a la obediencia de Fernando VII
+- B. A jurar la Constitución de Cádiz
+- C. A exiliarse en España
+- D. A entregar a sus jefes principales
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 180
+**Subtema:** 5.2 bandos de indulto
+
+Excitaba a los rebeldes a someterse a la obediencia de Fernando VII, que los trataría con benevolencia de padre.
+
+### 213
+
+De conformidad con el libro de Historia de México 1, los insurgentes que se acogieron al indulto de Apodaca, ¿qué debían hacer y qué recibían a cambio?
+
+- A. Jurar nuevamente fidelidad al rey y recibir un documento firmado por el virrey con su condición de indultado
+- B. Entregar todas sus propiedades a la Corona
+- C. Servir diez años en el ejército realista
+- D. Delatar por escrito a todos sus antiguos jefes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 bandos de indulto
+
+Varios insurgentes se acogieron al indulto, debiendo jurar nuevamente fidelidad al rey y recibiendo, en cambio, un documento firmado por el virrey, en el que se manifestaba su condición de indultado.
+
+### 214
+
+En relación con el libro de Historia de México 1, ¿cuál de estos insurgentes se acogió al indulto de Apodaca?
+
+- A. Ignacio López Rayón
+- B. Vicente Guerrero
+- C. Guadalupe Victoria
+- D. Pedro Ascencio
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 bandos de indulto
+
+A él se acogieron los insurgentes Ignacio López Rayón, José Francisco Osorno, Nicolás Bravo, Melchor Múzquiz, Ramón López, Manuel Mier y Terán, Carlos María de Bustamante, José Sixto Berduzco y José Sotero de Castañeda.
+
+> Los distractores B, C y D (Guerrero, Victoria, Ascencio) son precisamente los que NO se acogieron y siguieron en pie de lucha en el sur (p. 182): par contrapuesto útil.
+
+### 215
+
+De acuerdo con el libro de Historia de México 1, pese a los indultos, ¿qué hicieron algunos insurgentes?
+
+- A. Continuaron en pie de lucha haciendo uso de la táctica de guerrillas
+- B. Huyeron a los Estados Unidos
+- C. Se unieron al ejército de Xavier Mina en Inglaterra
+- D. Formaron un nuevo congreso en Apatzingán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 bandos de indulto
+
+Pese a ello, algunos insurgentes continuaron en pie de lucha haciendo uso de la táctica de guerrillas.
+
+---
+
+## Sub-lote 18 · 5.2 Resistencia: la campaña de Xavier Mina (pp. 181–182)
+
+### 216
+
+De acuerdo con el libro de Historia de México 1, en abril de 1817, ¿quién llegó a la Nueva España a luchar contra el despotismo declarado de Fernando VII?
+
+- A. Martín Xavier Mina Larrea
+- B. Fray Servando Teresa de Mier
+- C. Francisco Javier Venegas
+- D. El mariscal Pascual de Liñán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 campaña de Xavier Mina
+
+En abril de 1817, Martín Xavier Mina Larrea llegó a la Nueva España a luchar contra el despotismo declarado de Fernando VII.
+
+### 217
+
+De conformidad con el libro de Historia de México 1, ¿qué era Xavier Mina y qué estudiaba cuando Napoleón Bonaparte invadió España?
+
+- A. Un joven de ideas liberales que estudiaba leyes
+- B. Un sacerdote que estudiaba teología
+- C. Un militar de carrera del ejército español
+- D. Un comerciante que estudiaba náutica
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 campaña de Xavier Mina
+
+Xavier Mina era un joven de ideas liberales, que estudiaba leyes cuando Napoleón Bonaparte invadió España.
+
+### 218
+
+En relación con el libro de Historia de México 1, perseguido por la Corona, Mina se refugió en Inglaterra; ¿a quién conoció ahí, que lo convenció de luchar por la Independencia de la Nueva España?
+
+- A. A fray Servando Teresa de Mier
+- B. A Simón Bolívar
+- C. Al coronel alemán conde de Ruuth
+- D. A Napoleón Bonaparte
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 campaña de Xavier Mina
+
+Se refugió en Inglaterra, donde conoció a fray Servando Teresa de Mier, escritor y político novohispano, quien lo convenció de luchar contra el despotismo de Fernando VII ayudando a lograr la Independencia de la Nueva España.
+
+### 219
+
+De acuerdo con el libro de Historia de México 1, ¿cómo describe al personaje fray Servando Teresa de Mier?
+
+- A. Escritor y político novohispano
+- B. Guerrillero español
+- C. Coronel alemán
+- D. Sacerdote y militar realista
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 campaña de Xavier Mina
+
+Fray Servando Teresa de Mier, escritor y político novohispano, quien lo convenció de luchar contra el despotismo de Fernando VII.
+
+### 220
+
+De conformidad con el libro de Historia de México 1, la expedición de Mina tuvo seguidores de diversas nacionalidades; ¿cuál de estos figuraba entre ellos?
+
+- A. El coronel alemán conde de Ruuth
+- B. El mariscal español Pascual de Liñán
+- C. El virrey Juan Ruiz de Apodaca
+- D. El insurgente Pedro Moreno
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 campaña de Xavier Mina
+
+Tuvo seguidores de diversas nacionalidades, como el coronel alemán conde de Ruuth, el suizo Maylefer, el estadounidense Young, los españoles Sardá y Goñi, el colombiano Montilla y el cubano Infante.
+
+### 221
+
+En relación con el libro de Historia de México 1, ¿a cuántos hombres no excedía la expedición de Mina?
+
+- A. No excedía los 300 hombres
+- B. No excedía los 600 hombres
+- C. Superaba los 6 000 hombres
+- D. No excedía los 80 hombres
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 campaña de Xavier Mina
+
+La expedición no excedía los 300 hombres, pero esperaban que al llegar a la Nueva España se sumaran voluntarios.
+
+### 222
+
+De acuerdo con el libro de Historia de México 1, para atraerse reclutas y difundir sus ideas, ¿qué habían adquirido en Londres?
+
+- A. Una imprenta
+- B. Un barco de guerra
+- C. Un cargamento de fusiles
+- D. Una casa editorial
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 181
+**Subtema:** 5.2 campaña de Xavier Mina
+
+Para atraerse reclutas, habían adquirido una imprenta en Londres, con la intención de difundir sus ideas.
+
+### 223
+
+De conformidad con el libro de Historia de México 1, ¿dónde y cuándo desembarcó la fuerza armada de Mina?
+
+- A. En Soto la Marina, el 15 de abril de 1817
+- B. En Veracruz, el 15 de abril de 1817
+- C. En Acapulco, el 15 de abril de 1817
+- D. En Soto la Marina, el 27 de octubre de 1817
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 182
+**Subtema:** 5.2 campaña de Xavier Mina
+
+La fuerza armada desembarcó en Soto la Marina el 15 de abril de 1817; desde ahí exhortó a sus habitantes a que se le unieran para combatir la tiranía del monarca español.
+
+### 224
+
+En relación con el libro de Historia de México 1, en sus primeros combates, ¿en qué hacienda derrotó Mina al coronel Armillán?
+
+- A. En la hacienda de Peotillos
+- B. En el campo de San Juan de los Llanos
+- C. En el Fuerte del Sombrero
+- D. En el Rancho del Venadito
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 182
+**Subtema:** 5.2 campaña de Xavier Mina
+
+Derrotó al coronel Armillán en la hacienda de Peotillos y a los generales Ordóñez y Castañón en el campo de San Juan de los Llanos.
+
+### 225
+
+De acuerdo con el libro de Historia de México 1, luego de sus triunfos, ¿qué nombramiento le dio a Mina la Junta de Gobierno de Jaujilla?
+
+- A. Jefe Superior de todas las Fuerzas Independencia del Bajío
+- B. Generalísimo de las Armas del Sur
+- C. Presidente del Supremo Congreso Mexicano
+- D. Comandante de la Junta de Zitácuaro
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 182
+**Subtema:** 5.2 campaña de Xavier Mina
+
+Luego de estos triunfos, la Junta de Gobierno de Jaujilla nombró a Mina Jefe Superior de todas las Fuerzas Independencia del Bajío.
+
+### 226
+
+De conformidad con el libro de Historia de México 1, alarmado por los triunfos de Mina, ¿a quién envió el virrey Apodaca al mando de una importante columna realista?
+
+- A. Al mariscal de campo Pascual de Liñán
+- B. Al coronel Armillán
+- C. Al general Félix María Calleja
+- D. Al brigadier Agustín de Iturbide
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 182
+**Subtema:** 5.2 campaña de Xavier Mina
+
+El virrey Apodaca envió una importante columna realista al mando del mariscal de Campo Pascual de Liñán.
+
+### 227
+
+En relación con el libro de Historia de México 1, ante la superioridad realista, Mina se refugió en el Fuerte del Sombrero; al romper el cerco, ¿a qué fuerte se dirigieron, construido por Antonio Torres cerca de Pénjamo?
+
+- A. Al Fuerte de los Remedios
+- B. Al fuerte de Jaujilla
+- C. De nuevo al Fuerte del Sombrero
+- D. Al fuerte de Soto la Marina
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 182
+**Subtema:** 5.2 campaña de Xavier Mina
+
+Rompieron el cerco y se dirigieron al Fuerte de los Remedios construido por el insurgente Antonio Torres cerca de Pénjamo.
+
+### 228
+
+De acuerdo con el libro de Historia de México 1, ¿dónde fueron sorprendidos Mina y Moreno por una avanzada realista el 27 de octubre?
+
+- A. En el Rancho del Venadito
+- B. En el Fuerte del Sombrero
+- C. En la hacienda de Peotillos
+- D. En Soto la Marina
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 182
+**Subtema:** 5.2 campaña de Xavier Mina
+
+El 27 de octubre, mientras descansaban en el Rancho del Venadito, fueron sorprendidos por una avanzada realista.
+
+### 229
+
+De conformidad con el libro de Historia de México 1, capturado tras la muerte de Pedro Moreno en combate, ¿dónde y cuándo fue fusilado Xavier Mina?
+
+- A. En el cerro del Bellaco, cercano al Fuerte de los Remedios, el 11 de noviembre de 1817
+- B. En Chihuahua, el 30 de julio de 1811
+- C. En San Cristóbal Ecatepec, el 22 de diciembre de 1815
+- D. En el Rancho del Venadito, el 27 de octubre de 1817
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 182
+**Subtema:** 5.2 campaña de Xavier Mina
+
+Xavier Mina fue capturado, juzgado y [...] fue fusilado en el cerro del Bellaco, cercano al Fuerte de los Remedios el 11 de noviembre de 1817.
+
+> Distractores B y C son las muertes de Hidalgo (Chihuahua, 1811) y Morelos (Ecatepec, 1815), ya vistas en el archivo: fechas y lugares vecinos que se prestan a confusión.
+
+### 230
+
+En relación con el libro de Historia de México 1, con la muerte de Mina y Moreno el movimiento vino a menos; ¿qué grupos siguieron operando en el sur?
+
+- A. Los que encabezaban Vicente Guerrero, Guadalupe Victoria y Pedro Ascencio
+- B. Los que encabezaban Ignacio López Rayón y Nicolás Bravo
+- C. Los que encabezaban fray Servando Teresa de Mier y el conde de Ruuth
+- D. Los que encabezaban Manuel Mier y Terán y Carlos María de Bustamante
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 182
+**Subtema:** 5.2 campaña de Xavier Mina
+
+Con la muerte de Mina y Moreno, el movimiento vino a menos; sólo continuaron operando los grupos que encabezaban Vicente Guerrero, Guadalupe Victoria y Pedro Ascencio en el sur.
+
+> Los distractores B y D nombran insurgentes que se habían acogido al indulto de Apodaca (reactivo 214): contraste directo entre quienes se rindieron y quienes siguieron.
 
 ---
