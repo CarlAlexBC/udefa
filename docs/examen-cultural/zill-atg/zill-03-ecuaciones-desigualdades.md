@@ -82,7 +82,19 @@ sugerencias y todos los Ejemplos/Ejercicios quedan fuera por la norma de teoría
 
 **§3.2 Traducción de palabras en una ecuación · CERRADO** (pp. 118–122, reactivos 19–23).
 
-**Pendiente:** las secciones **§3.3 a §3.7**. Con ellas, el capítulo 3 quedará cerrado para la EMMA.
+**Sub-lote 4 (pp. 127–129, reactivos 24–31):** la apertura de **§3.3 Ecuaciones cuadráticas**: la ecuación
+polinomial de grado *n*, la raíz de una ecuación polinomial, la **ecuación cuadrática** *ax*²+*bx*+*c*=0
+(*a*≠0), el método de factorización (propiedad de la multiplicación por cero), la raíz repetida (de
+multiplicidad 2), el **método de la raíz cuadrada** (*x*²=*d* → *x*=±√*d*) y el de **completar el cuadrado**.
+
+**Sub-lote 5 (pp. 130–132, reactivos 32–37):** cierra **§3.3** con la **fórmula cuadrática**
+*x*=(−*b*±√(*b*²−4*ac*))/(2*a*), el **discriminante** *b*²−4*ac* y sus tres casos (>0 dos raíces reales
+diferentes, =0 raíces reales iguales, <0 sin raíces reales) y las **formas cuadráticas** (*at*²+*bt*+*c*=0).
+Los Ejemplos 1–10 y los *Ejercicios* de las pp. 127–134 quedan fuera por la norma de teoría sobre práctica.
+
+**§3.3 Ecuaciones cuadráticas · CERRADO** (pp. 127–132, reactivos 24–37).
+
+**Pendiente:** las secciones **§3.4 a §3.7**. Con ellas, el capítulo 3 quedará cerrado para la EMMA.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -448,3 +460,221 @@ De acuerdo con el libro de Geometría Analítica, según el principio básico pa
 **Subtema:** Traducción de palabras en una ecuación · principio de los problemas de trabajo
 
 Si un individuo puede hacer todo el trabajo en *T* unidades de tiempo, entonces en *x* unidades de tiempo se termina una parte *x*/*T* del trabajo.
+
+---
+
+## Sub-lote 4 · §3.3 Ecuaciones cuadráticas — definición, factorización, raíz cuadrada y completar el cuadrado (pp. 127–129)
+
+### 24
+
+De acuerdo con el libro de Geometría Analítica, ¿cuál es la forma de una ecuación polinomial de grado *n*?
+
+- A. *a*ₙ*x*ⁿ + *a*ₙ₋₁*x*ⁿ⁻¹ + ⋯ + *a*₁*x* + *a*₀ = 0, con *a*ₙ ≠ 0
+- B. *a*ₙ*x*ⁿ + *a*ₙ₋₁*x*ⁿ⁻¹ + ⋯ + *a*₁*x* + *a*₀ = 0, con *a*ₙ = 0
+- C. *a*ₙ*x*ⁿ · *a*ₙ₋₁*x*ⁿ⁻¹ ⋯ *a*₀ = 0
+- D. *a*ₙ*x*ⁿ + ⋯ + *a*₀ > 0, con *a*ₙ ≠ 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 127
+**Subtema:** Ecuaciones cuadráticas · ecuación polinomial de grado n
+
+Una ecuación polinomial de grado *n* es una ecuación de la forma *a*ₙ*x*ⁿ + *a*ₙ₋₁*x*ⁿ⁻¹ + ⋯ + *a*₂*x*² + *a*₁*x* + *a*₀ = 0, con *a*ₙ ≠ 0.
+
+### 25
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se llama la solución de una ecuación polinomial?
+
+- A. Raíz de la ecuación
+- B. Discriminante de la ecuación
+- C. Coeficiente principal de la ecuación
+- D. Grado de la ecuación
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 127
+**Subtema:** Ecuaciones cuadráticas · raíz de una ecuación polinomial
+
+La solución de una ecuación polinomial se llama raíz de la ecuación.
+
+### 26
+
+En relación con el libro de Geometría Analítica, ¿cuál es la forma estándar de una ecuación cuadrática?
+
+- A. *ax*² + *bx* + *c* = 0, con *a* ≠ 0
+- B. *ax* + *b* = 0, con *a* ≠ 0
+- C. *ax*² + *bx* + *c* = 0, con *a* = 0
+- D. *ax*³ + *bx*² + *cx* + *d* = 0, con *a* ≠ 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 127
+**Subtema:** Ecuaciones cuadráticas · forma estándar
+
+Una ecuación cuadrática es una ecuación polinomial que puede escribirse en la forma estándar: *ax*² + *bx* + *c* = 0, con *a* ≠ 0.
+
+### 27
+
+De acuerdo con el libro de Geometría Analítica, según la propiedad de la multiplicación por cero, si *a* y *b* representan números reales y *a* · *b* = 0, ¿qué se concluye?
+
+- A. *a* = 0 o *b* = 0
+- B. *a* = 0 y *b* = 0 a la vez
+- C. *a* = *b*
+- D. *a* + *b* = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 127
+**Subtema:** Ecuaciones cuadráticas · propiedad de la multiplicación por cero
+
+Si *a* y *b* representan números reales y *a* · *b* = 0, entonces *a* = 0 o *b* = 0.
+
+### 28
+
+De conformidad con el libro de Geometría Analítica, cuando una ecuación cuadrática tiene una sola raíz que, al contar las raíces, debe contarse dos veces, ¿cómo se le llama?
+
+- A. Raíz repetida o raíz de multiplicidad 2
+- B. Raíz extraña
+- C. Raíz doble diferente
+- D. Discriminante
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 128
+**Subtema:** Ecuaciones cuadráticas · raíz repetida (multiplicidad 2)
+
+Decimos que la raíz es una raíz repetida o una raíz de multiplicidad 2. Al contar las raíces, dichas raíces deben contarse dos veces.
+
+### 29
+
+En relación con el libro de Geometría Analítica, según el método de la raíz cuadrada, si *x*² = *d* con *d* ≥ 0, ¿a qué es igual *x*?
+
+- A. *x* = ±√*d*
+- B. *x* = √*d* únicamente
+- C. *x* = ±*d*²
+- D. *x* = *d*/2
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 128
+**Subtema:** Ecuaciones cuadráticas · método de la raíz cuadrada
+
+Método de raíz cuadrada: si *x*² = *d*, con *d* ≥ 0, entonces *x* = ±√*d*.
+
+### 30
+
+De acuerdo con el libro de Geometría Analítica, el método de completar el cuadrado se aplica a la expresión cuadrática de la forma *x*² + *Bx* + *C*; ¿qué condición debe cumplir dicha expresión?
+
+- A. Debe tener 1 como su coeficiente principal
+- B. Debe tener discriminante igual a cero
+- C. Debe tener el término constante igual a cero
+- D. Debe tener coeficiente principal negativo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 129
+**Subtema:** Ecuaciones cuadráticas · completar el cuadrado (coeficiente principal 1)
+
+Esta técnica se aplica a la expresión cuadrática de la forma *x*² + *Bx* + *C*; es decir, la expresión cuadrática debe tener 1 como su coeficiente principal.
+
+### 31
+
+De conformidad con el libro de Geometría Analítica, al completar el cuadrado en la ecuación *x*² + *Bx* = −*C*, ¿qué se agrega a ambos miembros?
+
+- A. (*B*/2)²
+- B. *B*/2
+- C. *B*²
+- D. (*C*/2)²
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 129
+**Subtema:** Ecuaciones cuadráticas · completar el cuadrado (término que se agrega)
+
+Luego agregamos (*B*/2)² a ambos miembros de esta última ecuación.
+
+---
+
+## Sub-lote 5 · §3.3 Ecuaciones cuadráticas — fórmula cuadrática, discriminante y formas cuadráticas (pp. 130–132)
+
+### 32
+
+De acuerdo con el libro de Geometría Analítica, ¿cuál es la fórmula cuadrática que da las raíces de *ax*² + *bx* + *c* = 0 (con *a* ≠ 0)?
+
+- A. *x* = (−*b* ± √(*b*² − 4*ac*))/(2*a*)
+- B. *x* = (−*b* ± √(*b*² + 4*ac*))/(2*a*)
+- C. *x* = (*b* ± √(*b*² − 4*ac*))/(2*a*)
+- D. *x* = (−*b* ± √(*b*² − 4*ac*))/*a*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 130
+**Subtema:** Ecuaciones cuadráticas · fórmula cuadrática
+
+El resultado se llama fórmula cuadrática: *x* = (−*b* ± √(*b*² − 4*ac*))/(2*a*).
+
+### 33
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se llama la cantidad *b*² − 4*ac* de una ecuación cuadrática?
+
+- A. Discriminante
+- B. Radicando principal
+- C. Coeficiente cuadrático
+- D. Raíz doble
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 131
+**Subtema:** Ecuaciones cuadráticas · discriminante
+
+La cantidad *b*² − 4*ac* se llama discriminante de la ecuación cuadrática.
+
+### 34
+
+De acuerdo con el libro de Geometría Analítica, si el discriminante *b*² − 4*ac* > 0, ¿qué tipo de raíces tiene la ecuación cuadrática?
+
+- A. Dos raíces reales diferentes
+- B. Raíces reales pero iguales
+- C. No hay raíces reales
+- D. Una sola raíz de multiplicidad 3
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 131
+**Subtema:** Ecuaciones cuadráticas · discriminante positivo
+
+Si el discriminante *b*² − 4*ac* > 0, la ecuación cuadrática tiene dos raíces reales diferentes.
+
+### 35
+
+En relación con el libro de Geometría Analítica, si el discriminante *b*² − 4*ac* = 0, ¿qué tipo de raíces tiene la ecuación cuadrática?
+
+- A. Raíces reales pero iguales
+- B. Dos raíces reales diferentes
+- C. No hay raíces reales
+- D. Raíces complejas conjugadas
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 131
+**Subtema:** Ecuaciones cuadráticas · discriminante cero
+
+Si el discriminante *b*² − 4*ac* = 0, la ecuación cuadrática tiene raíces reales pero iguales.
+
+### 36
+
+De conformidad con el libro de Geometría Analítica, si el discriminante *b*² − 4*ac* < 0, ¿qué se puede afirmar sobre las raíces de la ecuación cuadrática?
+
+- A. No hay raíces reales
+- B. Hay dos raíces reales diferentes
+- C. Hay raíces reales pero iguales
+- D. Hay exactamente una raíz real
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 131
+**Subtema:** Ecuaciones cuadráticas · discriminante negativo
+
+Si el discriminante *b*² − 4*ac* < 0, la ecuación cuadrática no tiene raíces reales.
+
+### 37
+
+De acuerdo con el libro de Geometría Analítica, ciertas ecuaciones polinomiales de grado mayor que 2 se resuelven con la fórmula cuadrática al escribirse en la forma cuadrática estándar *at*² + *bt* + *c* = 0, donde ¿qué representa el símbolo *t*?
+
+- A. Una potencia entera positiva de *x*
+- B. El discriminante de la ecuación
+- C. Una raíz de la ecuación
+- D. Un número negativo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 132
+**Subtema:** Ecuaciones cuadráticas · formas cuadráticas
+
+Esto nos exige reconocer que la ecuación puede escribirse en la forma cuadrática estándar *at*² + *bt* + *c* = 0, donde el símbolo *t* representa una potencia entera positiva de *x*.
