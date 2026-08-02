@@ -103,8 +103,15 @@ El contenido narrativo aprovechable corre aproximadamente de la **p. 153 a la p.
   Acatita de Baján (21 mar 1811, Elizondo); muerte de Hidalgo (Chihuahua, 30 jul 1811);
   cabezas en la Alhóndiga hasta 1821.
 
-**Pendiente de 5.2:** las etapas de organización (Morelos), resistencia y consumación
-(a partir de la p. 168, hasta la p. 193).
+- **Sub-lotes 9–14 · Organización (segunda etapa, pp. 168–176):** composición social de
+  insurgentes y realistas; López Rayón y la Junta de Zitácuaro; campañas de Morelos
+  (Cuautla, Oaxaca, Acapulco); **Sentimientos de la Nación** (excepción de alcance, 10
+  reactivos); pensamiento político de Morelos; Congreso de Chilpancingo (14 sep 1813,
+  Acta Solemne de la Declaración de Independencia); Constitución de Apatzingán; y la
+  persecución y muerte de Morelos (San Cristóbal Ecatepec, 22 dic 1815).
+
+**Pendiente de 5.2:** las etapas de **resistencia** (Guerrero, Mina) y **consumación**
+(Iturbide, Plan de Iguala, Tratados de Córdoba), aprox. pp. 177–193.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -2418,5 +2425,501 @@ De acuerdo con el libro de Historia de México 1, en la toma de Acapulco (12 de 
 **Subtema:** 5.2 organización — campañas de Morelos
 
 La siguiente empresa de Morelos fue la toma de Acapulco: el 12 de abril de 1813 se alzó con la victoria, pero no fue total, pues el fuerte de San Diego sólo cayó después de cuatro meses y medio de sitio.
+
+---
+
+## Sub-lote 12 · 5.2 Organización: los Sentimientos de la Nación (pp. 173–174)
+
+> Excepción de alcance (Carlo, 1 ago 2026): los Sentimientos de la Nación vienen en un
+> recuadro de "Comprensión lectora", pero por ser el documento más emblemático de la
+> etapa se incluyen, citados verbatim.
+
+### 148
+
+De acuerdo con el libro de Historia de México 1, según el punto 1 de los Sentimientos de la Nación, ¿qué se establece sobre la nación?
+
+- A. Que la nación es libre e independiente de España y de toda otra nación
+- B. Que la nación seguirá siendo una colonia de España
+- C. Que la nación será gobernada por Fernando VII
+- D. Que la nación se unirá a Estados Unidos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 173
+**Subtema:** 5.2 Sentimientos de la Nación
+
+Sentimientos de la Nación, punto 1: Que la nación es libre e independiente de España y de toda otra nación, Gobierno o Monarquía, y que así se sancione, dando al mundo las razones.
+
+### 149
+
+De acuerdo con el libro de Historia de México 1, según el punto 2 de los Sentimientos de la Nación, ¿qué se dispone sobre la religión?
+
+- A. Que la religión católica sea la única, sin tolerancia de otra
+- B. Que haya tolerancia de todas las religiones
+- C. Que se separe la Iglesia del Estado
+- D. Que la religión quede a elección de cada provincia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 173
+**Subtema:** 5.2 Sentimientos de la Nación
+
+Sentimientos de la Nación, punto 2: Que la religión católica sea la única, sin tolerancia de otra.
+
+### 150
+
+De acuerdo con el libro de Historia de México 1, según el punto 5 de los Sentimientos de la Nación, ¿de quién dimana inmediatamente la soberanía?
+
+- A. Del pueblo
+- B. Del rey
+- C. De la Iglesia
+- D. Del Congreso
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 174
+**Subtema:** 5.2 Sentimientos de la Nación
+
+Sentimientos de la Nación, punto 5: La soberanía dimana inmediatamente del pueblo, que sólo quiere depositarla en sus representantes dividiendo los poderes de ella en Legislativo, Ejecutivo y Judiciario.
+
+### 151
+
+De acuerdo con el libro de Historia de México 1, según el punto 8 de los Sentimientos de la Nación, ¿de cuánto no pasaría por ahora la dotación de los vocales?
+
+- A. De ocho mil pesos
+- B. De ochenta mil pesos
+- C. De ocho mil reales
+- D. De ochocientos pesos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 174
+**Subtema:** 5.2 Sentimientos de la Nación
+
+Sentimientos de la Nación, punto 8: La dotación de los vocales será una congrua suficiente y no superflua, y no pasará por ahora de ocho mil pesos.
+
+### 152
+
+De acuerdo con el libro de Historia de México 1, según el punto 9 de los Sentimientos de la Nación, ¿quiénes obtendrán los empleos?
+
+- A. Sólo los americanos
+- B. Sólo los peninsulares
+- C. Los extranjeros de naciones amigas
+- D. Los miembros del clero
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 174
+**Subtema:** 5.2 Sentimientos de la Nación
+
+Sentimientos de la Nación, punto 9: Que los empleos los obtengan sólo los americanos.
+
+### 153
+
+De acuerdo con el libro de Historia de México 1, según el punto 15 de los Sentimientos de la Nación, al prescribirse para siempre la esclavitud y la distinción de castas, ¿qué será lo único que distinga a un americano de otro?
+
+- A. El vicio y la virtud
+- B. La riqueza y la pobreza
+- C. El origen y el apellido
+- D. La religión y la lengua
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 174
+**Subtema:** 5.2 Sentimientos de la Nación
+
+Sentimientos de la Nación, punto 15: Que la esclavitud se prescriba para siempre, y lo mismo la distinción de castas, quedando todos iguales, y sólo distinguirá a un americano de otro el vicio y la virtud.
+
+### 154
+
+De acuerdo con el libro de Historia de México 1, según el punto 18 de los Sentimientos de la Nación, ¿qué no se admitirá en la nueva legislación?
+
+- A. La tortura
+- B. La propiedad privada
+- C. El voto universal
+- D. El libre comercio
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 174
+**Subtema:** 5.2 Sentimientos de la Nación
+
+Sentimientos de la Nación, punto 18: Que en la nueva legislación no se admitirá la tortura.
+
+### 155
+
+De acuerdo con el libro de Historia de México 1, según el punto 19 de los Sentimientos de la Nación, ¿qué día se establece para celebrar, dedicado a la patrona de nuestra libertad, María Santísima de Guadalupe?
+
+- A. El día 12 de diciembre
+- B. El día 16 de septiembre
+- C. El día 15 de septiembre
+- D. El día 2 de octubre
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 174
+**Subtema:** 5.2 Sentimientos de la Nación
+
+Sentimientos de la Nación, punto 19: Que en la misma se establezca por la ley constitucional la celebración del día 12 de diciembre en todos los pueblos, dedicado a la patrona de nuestra libertad, María Santísima de Guadalupe.
+
+### 156
+
+De acuerdo con el libro de Historia de México 1, según el punto 22 de los Sentimientos de la Nación, en lugar de la infinidad de tributos que agobiaban, ¿qué contribución se señala a cada individuo?
+
+- A. Un 5% en sus ganancias
+- B. Un 10% en sus ganancias
+- C. Un 20% en sus ganancias
+- D. Un 50% en sus ganancias
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 174
+**Subtema:** 5.2 Sentimientos de la Nación
+
+Sentimientos de la Nación, punto 22: Que se quite la infinidad de tributos, pechos e imposiciones que más agobian, y se señale a cada individuo un 5% en sus ganancias.
+
+### 157
+
+De acuerdo con el libro de Historia de México 1, según el punto 23 de los Sentimientos de la Nación, ¿qué día se solemnizará todos los años como aniversario en que se levantó la voz de independencia?
+
+- A. El día 16 de septiembre
+- B. El día 15 de septiembre
+- C. El día 12 de diciembre
+- D. El día 27 de septiembre
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 174
+**Subtema:** 5.2 Sentimientos de la Nación
+
+Sentimientos de la Nación, punto 23: Que igualmente se solemnice el día 16 de septiembre todos los años, como el día del aniversario en que se levantó la voz de independencia y nuestra santa libertad comenzó.
+
+---
+
+## Sub-lote 13 · 5.2 Organización: pensamiento político de Morelos y el Congreso de Chilpancingo (pp. 174–175)
+
+### 158
+
+De acuerdo con el libro de Historia de México 1, a diferencia de Ignacio López Rayón, ¿con qué no estaba de acuerdo Morelos?
+
+- A. Con seguir usando a Fernando VII como bandera del movimiento
+- B. Con abolir la esclavitud
+- C. Con convocar a un Congreso insurgente
+- D. Con establecer una república
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 174
+**Subtema:** 5.2 pensamiento político de Morelos
+
+A diferencia de Ignacio López Rayón, seguidor del ideario político del cura Miguel Hidalgo, Morelos no estaba de acuerdo con seguir usando a Fernando VII como bandera del movimiento.
+
+### 159
+
+De acuerdo con el libro de Historia de México 1, ¿por qué rechazaba Morelos abiertamente el régimen colonial?
+
+- A. Por considerarlo modelo de opresión, ignorancia y despotismo
+- B. Por ser demasiado tolerante con los indígenas
+- C. Por depender de Napoleón Bonaparte
+- D. Por prohibir la religión católica
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 174
+**Subtema:** 5.2 pensamiento político de Morelos
+
+Morelos rechazaba abiertamente el régimen colonial por considerarlo modelo de opresión, ignorancia y despotismo.
+
+### 160
+
+De acuerdo con el libro de Historia de México 1, ¿qué forma de gobierno propuso establecer Morelos en la Nueva España tan pronto consiguiera su Independencia?
+
+- A. Una república
+- B. Una monarquía constitucional
+- C. Un imperio indígena
+- D. Un virreinato autónomo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
+**Subtema:** 5.2 pensamiento político de Morelos
+
+Propuso establecer una república en la Nueva España tan pronto consiguiera su Independencia.
+
+### 161
+
+De acuerdo con el libro de Historia de México 1, desde Acapulco, el 28 de junio, ¿a qué convocó Morelos?
+
+- A. A la formación de un nuevo Congreso insurgente
+- B. Al asedio de la ciudad de México
+- C. A la firma del Plan de Iguala
+- D. A la creación de la Junta de Zitácuaro
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
+**Subtema:** 5.2 pensamiento político de Morelos
+
+Desde Acapulco, el 28 de junio convocó a la formación de un nuevo Congreso insurgente, en el cual daría a conocer su ideario a través de un documento conocido como Sentimientos de la Nación.
+
+### 162
+
+De acuerdo con el libro de Historia de México 1, ¿en qué fecha iniciaron en Chilpancingo los trabajos del Supremo Congreso Nacional Americano?
+
+- A. El 14 de septiembre de 1813
+- B. El 16 de septiembre de 1810
+- C. El 6 de noviembre de 1813
+- D. El 22 de octubre de 1814
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
+**Subtema:** 5.2 Congreso de Chilpancingo
+
+El 14 de septiembre de 1813, en Chilpancingo iniciaron los trabajos del Supremo Congreso Nacional Americano.
+
+### 163
+
+De acuerdo con el libro de Historia de México 1, ¿qué otros nombres recibió el Supremo Congreso Nacional Americano?
+
+- A. Congreso de Chilpancingo o Congreso del Anáhuac
+- B. Suprema Junta Gubernativa de América
+- C. Junta Suprema de Gobierno de Zitácuaro
+- D. Soberana Junta Provisional Gubernativa
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
+**Subtema:** 5.2 Congreso de Chilpancingo
+
+El Supremo Congreso Nacional Americano también recibió el nombre de Congreso de Chilpancingo o Congreso del Anáhuac.
+
+### 164
+
+De acuerdo con el libro de Historia de México 1, según lo acordado en el Congreso, ¿en quién se depositaría el Poder Ejecutivo?
+
+- A. En un individuo que sería nombrado generalísimo
+- B. En la asamblea de diputados
+- C. En un Supremo Tribunal de cinco individuos
+- D. En el rey Fernando VII
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
+**Subtema:** 5.2 Congreso de Chilpancingo
+
+El Poder Ejecutivo se depositaría en un individuo que sería nombrado generalísimo, mientras que los tribunales existentes fungirían como los responsables del Poder Judicial.
+
+### 165
+
+De acuerdo con el libro de Historia de México 1, ¿quién fue el diputado que representó a Puebla en el Congreso de Chilpancingo?
+
+- A. Andrés Quintana Roo
+- B. Ignacio López Rayón
+- C. Carlos María Bustamante
+- D. José María Cos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
+**Subtema:** 5.2 Congreso de Chilpancingo
+
+Los diputados fueron: Ignacio López Rayón, que representó a Guadalajara; José María Liceaga a Guanajuato; Carlos María Bustamante a México; José Sixto Berduzco a Valladolid; José María Murguía a Oaxaca; Andrés Quintana Roo a Puebla; José Manuel de Herrera a Tecpan y José María Cos a Veracruz.
+
+### 166
+
+De acuerdo con el libro de Historia de México 1, en el segundo día de sesiones, ¿qué designó el Congreso a Morelos?
+
+- A. Generalísimo y encargado del Poder Ejecutivo
+- B. Presidente de la República
+- C. Secretario del Congreso
+- D. Vocal de la Junta de Zitácuaro
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
+**Subtema:** 5.2 Congreso de Chilpancingo
+
+En el segundo día de sesiones, el Congreso designó a Morelos generalísimo y encargado del Poder Ejecutivo.
+
+### 167
+
+De acuerdo con el libro de Historia de México 1, el 6 de noviembre de 1813, ¿qué documento aprobó la asamblea?
+
+- A. El Acta Solemne de la Declaración de Independencia de América Septentrional
+- B. Los Sentimientos de la Nación
+- C. El Plan de Iguala
+- D. La Constitución de Apatzingán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
+**Subtema:** 5.2 Congreso de Chilpancingo
+
+El 6 de noviembre de 1813, la asamblea aprobó el Acta Solemne de la Declaración de Independencia de América Septentrional.
+
+---
+
+## Sub-lote 14 · 5.2 Organización: Constitución de Apatzingán, persecución y muerte de Morelos (pp. 175–176)
+
+### 168
+
+De acuerdo con el libro de Historia de México 1, ¿cuál era el nombre del documento también conocido como Constitución de Apatzingán?
+
+- A. Decreto Constitucional para la Libertad de la América Mexicana
+- B. Acta Solemne de la Declaración de Independencia
+- C. Sentimientos de la Nación
+- D. Plan de Iguala
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
+**Subtema:** 5.2 Constitución de Apatzingán
+
+El Supremo Congreso Mexicano dio a conocer el Decreto Constitucional para la Libertad de la América Mexicana o Constitución de Apatzingán.
+
+### 169
+
+De acuerdo con el libro de Historia de México 1, ¿qué ideas liberales sintetizó el Decreto Constitucional (Constitución de Apatzingán)?
+
+- A. Las que habían motivado la Independencia de Estados Unidos, la Revolución Francesa y la Constitución de Cádiz de 1812
+- B. Las del Despotismo Ilustrado y las reformas borbónicas
+- C. Las del absolutismo monárquico español
+- D. Las del pensamiento prehispánico mexica
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
+**Subtema:** 5.2 Constitución de Apatzingán
+
+En el Decreto Constitucional se sintetizaron los principios más importantes de las ideas liberales que habían motivado la Independencia de Estados Unidos, la Revolución Francesa y la propia Constitución de Cádiz de 1812.
+
+### 170
+
+De acuerdo con el libro de Historia de México 1, según los primeros 41 artículos de la Constitución de Apatzingán, ¿dónde reside la soberanía?
+
+- A. En el pueblo
+- B. En el rey
+- C. En el Supremo Tribunal
+- D. En la Iglesia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
+**Subtema:** 5.2 Constitución de Apatzingán
+
+En los primeros 41 artículos se establecen los siguientes principios: autodeterminación de las naciones; el catolicismo como religión del Estado; la soberanía reside en el pueblo, el voto universal.
+
+### 171
+
+De acuerdo con el libro de Historia de México 1, según la Constitución de Apatzingán, ¿cuál se señaló como religión del Estado?
+
+- A. El catolicismo
+- B. Ninguna, había libertad de culto
+- C. El protestantismo
+- D. La religión de cada provincia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
+**Subtema:** 5.2 Constitución de Apatzingán
+
+En los primeros 41 artículos se establecen los siguientes principios: autodeterminación de las naciones; el catolicismo como religión del Estado; la soberanía reside en el pueblo, el voto universal.
+
+### 172
+
+De acuerdo con el libro de Historia de México 1, el Congreso otorgó a Morelos el título de "Alteza Serenísima", pero él lo rechazó. ¿Qué nombre solicitó en cambio?
+
+- A. Siervo de la Nación
+- B. Generalísimo de América
+- C. Padre de la Patria
+- D. Protector de la Nación
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 176
+**Subtema:** 5.2 Constitución de Apatzingán
+
+El Congreso otorgó a Morelos el título de Alteza Serenísima, pero lo rechazó y solicitó que se le diera en cambio el nombre de Siervo de la Nación.
+
+### 173
+
+De acuerdo con el libro de Historia de México 1, ¿a quién nombró la Regencia de Cádiz sucesor de Francisco Javier Venegas al frente del Virreinato?
+
+- A. A Félix María Calleja del Rey
+- B. A Agustín de Iturbide
+- C. A Ciriaco del Llano
+- D. A José Gabriel de Armijo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 176
+**Subtema:** 5.2 persecución de los insurgentes
+
+La Regencia de Cádiz había nombrado a Félix María Calleja del Rey sucesor de Francisco Javier Venegas.
+
+### 174
+
+De acuerdo con el libro de Historia de México 1, al enterarse de la Constitución de Apatzingán, ¿qué ordenó Calleja mediante un bando?
+
+- A. Quemar sus ejemplares "en la plaza pública por mano de verdugo y a voz de pregonero"
+- B. Aplicarla de inmediato en todo el Virreinato
+- C. Enviarla al rey Fernando VII para su aprobación
+- D. Traducirla y difundirla en los colegios
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 176
+**Subtema:** 5.2 persecución de los insurgentes
+
+Al enterarse de la Constitución de Apatzingán, respondió con un bando en que ordenaba quemar "en la plaza pública por mano de verdugo y a voz de pregonero" los ejemplares de la Constitución de Apatzingán.
+
+### 175
+
+De acuerdo con el libro de Historia de México 1, en Puruarán, Morelos dejó el mando a Mariano Matamoros, quien fue derrotado, capturado y pasado por las armas en Valladolid. ¿En qué fecha?
+
+- A. El 3 de febrero de 1814
+- B. El 30 de julio de 1811
+- C. El 22 de diciembre de 1815
+- D. El 2 de mayo de 1812
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 176
+**Subtema:** 5.2 persecución de los insurgentes
+
+Mariano Matamoros atacó al enemigo, y a pesar de su empeño, fue derrotado y capturado, siendo pasado por las armas en Valladolid el 3 de febrero de 1814.
+
+### 176
+
+De acuerdo con el libro de Historia de México 1, ¿cuándo murió Hermenegildo Galeana, hecho que mermó aún más la moral del Siervo de la Nación?
+
+- A. En junio de 1814
+- B. En noviembre de 1814
+- C. En diciembre de 1815
+- D. En febrero de 1814
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 176
+**Subtema:** 5.2 persecución de los insurgentes
+
+La muerte de Hermenegildo Galeana en junio de 1814 mermó aún más la moral del Siervo de la Nación.
+
+### 177
+
+De acuerdo con el libro de Historia de México 1, ¿quién tomó prisionero a Morelos en Temalaca, cuando protegía la huida del Supremo Congreso?
+
+- A. El realista Matías Carranco
+- B. El general Félix María Calleja
+- C. El capitán Ignacio Elizondo
+- D. El general José Gabriel de Armijo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 176
+**Subtema:** 5.2 persecución de los insurgentes
+
+Fue tomado prisionero en noviembre de ese año, cuando protegía la huida de los integrantes del Supremo Congreso en Temalaca, en las cercanías de Tehuacán, por el realista Matías Carranco.
+
+### 178
+
+De acuerdo con el libro de Historia de México 1, ¿dónde y cuándo murió fusilado José María Morelos?
+
+- A. En San Cristóbal Ecatepec, el 22 de diciembre de 1815
+- B. En Chihuahua, el 30 de julio de 1811
+- C. En Valladolid, el 3 de febrero de 1814
+- D. En Acatita de Baján, el 21 de marzo de 1811
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 176
+**Subtema:** 5.2 persecución de los insurgentes
+
+Murió fusilado en San Cristóbal Ecatepec el 22 de diciembre de 1815.
+
+### 179
+
+De acuerdo con el libro de Historia de México 1, para principios de 1816, ¿en el territorio de qué actuales estados se mantenían aún pequeños grupos insurgentes de regular importancia?
+
+- A. Guerrero, Guanajuato, Puebla y Veracruz
+- B. Chihuahua, Coahuila, Nuevo León y Tamaulipas
+- C. Yucatán, Campeche, Tabasco y Chiapas
+- D. Jalisco, Colima, Nayarit y Sinaloa
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 176
+**Subtema:** 5.2 persecución de los insurgentes
+
+Para principios de 1816, sólo se mantenían pequeños grupos de regular importancia en el territorio de los actuales estados de Guerrero, Guanajuato, Puebla y Veracruz.
 
 ---
