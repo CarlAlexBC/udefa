@@ -146,9 +146,17 @@ y los **productos notables** —producto de dos binomios (*ax*+*b*)(*cx*+*d*), c
 (*x*+*a*)³ y diferencia de cuadrados (*x*+*a*)(*x*−*a*)—, el **método PEIU**, la nota de que en (3), (4) y
 (5) los símbolos pueden sustituirse, y los **polinomios en dos y tres variables**.
 
-**Pendiente de §2.6:** pp. 89–90 (la suma y diferencia de cubos —con la **errata del libro**, ver el aviso
-al final— y la nota sobre la división de polinomios). Luego **§2.7 y §2.8** (pp. 92–106). Con ellas, el
-capítulo 2 quedará cerrado para la EMMA.
+**Sub-lote 11 (pp. 89–90, reactivos 173–177):** cierra **§2.6** con la **suma y diferencia de cubos**
+(en su forma correcta *a*², por la errata del libro —ver aviso—), la nota de que esas fórmulas importan
+más en la factorización que en la multiplicación, que la división de dos polinomios se explica en el
+capítulo 6, y la **Nota del aula** sobre cambiar el signo de cada término al restar polinomios en formato
+horizontal. Los Ejemplos 1–13 y los *Ejercicios* de las pp. 83–91 quedan fuera por la norma de teoría
+sobre práctica.
+
+**§2.6 Polinomios y productos notables · CERRADO** (pp. 83–90, reactivos 143–177).
+
+**Pendiente:** las secciones **§2.7 y §2.8** (pp. 92–106). Con ellas, el capítulo 2 quedará cerrado para
+la EMMA.
 
 ## Criterio: teoría sobre práctica
 
@@ -2792,3 +2800,85 @@ De conformidad con el libro de Geometría Analítica, ¿de qué forma son los mo
 **Subtema:** Polinomios y productos notables · polinomio en tres variables
 
 Un polinomio en tres variables *x*, *y* y *z* es la suma de monomios de la forma *ax*ⁿ*y*ᵐ*z*ᵏ, donde *n*, *m* y *k* son enteros no negativos.
+
+---
+
+## Sub-lote 11 · §2.6 Polinomios y productos notables — suma y diferencia de cubos y notas de cierre (pp. 89–90)
+
+> **OJO — errata del libro en las fórmulas (6) y (7).** Los dos reactivos siguientes usan la forma
+> **correcta** (*a*²), no la impresa (*a*³). El detalle está en el aviso al aspirante, al final del archivo.
+
+### 173
+
+De acuerdo con el libro de Geometría Analítica, ¿cuál es la fórmula de la suma de dos cubos?
+
+- A. (*x* + *a*)(*x*² − *ax* + *a*²) = *x*³ + *a*³
+- B. (*x* + *a*)(*x*² + *ax* + *a*²) = *x*³ + *a*³
+- C. (*x* + *a*)(*x*² − *ax* − *a*²) = *x*³ + *a*³
+- D. (*x* − *a*)(*x*² − *ax* + *a*²) = *x*³ + *a*³
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 89
+**Subtema:** Polinomios y productos notables · suma de dos cubos
+
+El libro comprueba esta identidad en el Ejemplo 11 escribiéndola bien: (*x* + *y*)(*x*² − *xy* + *y*²) = *x*³ + *y*³. La fórmula (7) impresa trae una errata (*a*³ en vez de *a*²); la forma correcta es (*x* + *a*)(*x*² − *ax* + *a*²) = *x*³ + *a*³. Ver el aviso al aspirante.
+
+### 174
+
+De conformidad con el libro de Geometría Analítica, ¿cuál es la fórmula de la diferencia de dos cubos?
+
+- A. (*x* − *a*)(*x*² + *ax* + *a*²) = *x*³ − *a*³
+- B. (*x* − *a*)(*x*² − *ax* + *a*²) = *x*³ − *a*³
+- C. (*x* − *a*)(*x*² + *ax* − *a*²) = *x*³ − *a*³
+- D. (*x* + *a*)(*x*² + *ax* + *a*²) = *x*³ − *a*³
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 89
+**Subtema:** Polinomios y productos notables · diferencia de dos cubos
+
+La fórmula (6) impresa trae una errata (*a*³ en vez de *a*²); la forma correcta de la diferencia de dos cubos es (*x* − *a*)(*x*² + *ax* + *a*²) = *x*³ − *a*³, análoga a la suma de cubos que el libro comprueba en el Ejemplo 11. Ver el aviso al aspirante.
+
+### 175
+
+En relación con el libro de Geometría Analítica, ¿en qué son probablemente más importantes las fórmulas de la suma y la diferencia de cubos?
+
+- A. En la factorización de polinomios que como fórmulas para realizar una multiplicación
+- B. En la división de polinomios que en la factorización
+- C. En la suma de polinomios que en el producto de polinomios
+- D. En el cálculo de raíces que en la factorización
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 89
+**Subtema:** Polinomios y productos notables · utilidad de las fórmulas de cubos
+
+Las fórmulas (6) y (7) son probablemente más importantes en la factorización de polinomios que como fórmulas que deben recordarse para realizar una multiplicación.
+
+### 176
+
+De acuerdo con el libro de Geometría Analítica, por ser más complicada, ¿dónde se explica la división de dos polinomios?
+
+- A. En el capítulo 6
+- B. En el capítulo 3
+- C. En la sección 2.7
+- D. En la sección 7.1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 89
+**Subtema:** Polinomios y productos notables · división de polinomios
+
+La división de dos polinomios es más complicada y se explica en el capítulo 6.
+
+### 177
+
+De conformidad con el libro de Geometría Analítica (Notas del aula), al restar polinomios en el formato horizontal, ¿qué es necesario hacer para aplicar la propiedad distributiva?
+
+- A. Cambiar el signo de cada término del polinomio que se resta
+- B. Cambiar el signo únicamente del primer término del polinomio que se resta
+- C. Cambiar el signo de cada término del primer polinomio
+- D. Conservar los signos y alinear los términos en un formato vertical
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 90
+**Subtema:** Polinomios y productos notables · resta de polinomios (Notas del aula)
+
+Un error muy común cuando se restan polinomios en el formato horizontal consiste en no aplicar la propiedad distributiva. Es necesario cambiar el signo de cada término del polinomio que se resta.
