@@ -139,9 +139,16 @@ la **Definición 2.6.1** de polinomio de grado *n*, forma estándar, dominio *R*
 principal, término constante, polinomio cero y sin grado asignado, y la clasificación por grado:
 constante, lineal, cuadrático, cúbico).
 
-**Pendiente de §2.6:** pp. 85–90 (el álgebra de los polinomios, los productos notables, los polinomios
-en varias variables y la suma y diferencia de cubos —esta última con **errata del libro**, ver el aviso
-al final—). Luego **§2.7 y §2.8** (pp. 92–106). Con ellas, el capítulo 2 quedará cerrado para la EMMA.
+**Sub-lote 10 (pp. 85–88, reactivos 162–172):** el resto de la teoría de **§2.6**: que en cada término
+el exponente de la variable debe ser un entero no negativo, **el álgebra de los polinomios** (la suma,
+diferencia y producto de dos polinomios es un polinomio; se suman por coeficientes de potencias iguales)
+y los **productos notables** —producto de dos binomios (*ax*+*b*)(*cx*+*d*), cuadrado (*x*+*a*)², cubo
+(*x*+*a*)³ y diferencia de cuadrados (*x*+*a*)(*x*−*a*)—, el **método PEIU**, la nota de que en (3), (4) y
+(5) los símbolos pueden sustituirse, y los **polinomios en dos y tres variables**.
+
+**Pendiente de §2.6:** pp. 89–90 (la suma y diferencia de cubos —con la **errata del libro**, ver el aviso
+al final— y la nota sobre la división de polinomios). Luego **§2.7 y §2.8** (pp. 92–106). Con ellas, el
+capítulo 2 quedará cerrado para la EMMA.
 
 ## Criterio: teoría sobre práctica
 
@@ -2616,3 +2623,172 @@ De acuerdo con el libro de Geometría Analítica, según la clasificación de lo
 **Subtema:** Polinomios y productos notables · clasificación por grado
 
 Se usan nombres especiales para describir los polinomios de menor grado: constante (grado 0), lineal (grado 1), cuadrático (grado 2) y cúbico (grado 3).
+
+---
+
+## Sub-lote 10 · §2.6 Polinomios y productos notables — el álgebra de los polinomios y los productos notables (pp. 85–88)
+
+### 162
+
+De acuerdo con el libro de Geometría Analítica, en cada término de un polinomio, ¿qué debe ser el exponente de la variable?
+
+- A. Un entero no negativo
+- B. Un entero cualquiera
+- C. Un número racional
+- D. Un número real positivo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 85
+**Subtema:** Polinomios y productos notables · exponente entero no negativo
+
+En cada término en un polinomio, el exponente de la variable debe ser un entero no negativo.
+
+### 163
+
+De conformidad con el libro de Geometría Analítica, ¿qué se puede afirmar acerca de la suma, la diferencia y el producto de dos polinomios?
+
+- A. Es un polinomio
+- B. Es siempre un binomio
+- C. Puede no ser un polinomio
+- D. Es una expresión racional
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 85
+**Subtema:** Polinomios y productos notables · el álgebra de los polinomios
+
+La suma, diferencia y producto de dos polinomios es un polinomio.
+
+### 164
+
+En relación con el libro de Geometría Analítica, ¿cómo podemos sumar dos polinomios en *x*?
+
+- A. Mediante la suma de los coeficientes de potencias iguales
+- B. Mediante la suma de todos los coeficientes, sin importar la potencia
+- C. Multiplicando los coeficientes de potencias iguales
+- D. Sumando los exponentes de los términos semejantes
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 85
+**Subtema:** Polinomios y productos notables · suma de polinomios
+
+Podemos sumar dos polinomios en *x* mediante la suma de los coeficientes de potencias iguales.
+
+### 165
+
+De acuerdo con el libro de Geometría Analítica, ¿a qué es igual el producto de dos binomios (*ax* + *b*)(*cx* + *d*)?
+
+- A. *acx*² + (*ad* + *bc*)*x* + *bd*
+- B. *acx*² + (*ab* + *cd*)*x* + *bd*
+- C. *acx*² + (*ad* − *bc*)*x* + *bd*
+- D. (*ac* + *bd*)*x*² + (*ad* + *bc*)*x*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 86
+**Subtema:** Polinomios y productos notables · producto de dos binomios
+
+(*ax* + *b*)(*cx* + *d*) = *acx*² + (*ad* + *bc*)*x* + *bd*.
+
+### 166
+
+De conformidad con el libro de Geometría Analítica, ¿a qué es igual el cuadrado de un binomio (*x* + *a*)²?
+
+- A. *x*² + 2*ax* + *a*²
+- B. *x*² + *a*²
+- C. *x*² + *ax* + *a*²
+- D. *x*² + 2*a* + *a*²
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 86
+**Subtema:** Polinomios y productos notables · cuadrado de un binomio
+
+El cuadrado de un binomio *x* + *a* es (*x* + *a*)² = *x*² + 2*ax* + *a*².
+
+### 167
+
+En relación con el libro de Geometría Analítica, ¿a qué es igual el cubo de un binomio (*x* + *a*)³?
+
+- A. *x*³ + 3*ax*² + 3*a*²*x* + *a*³
+- B. *x*³ + *a*³
+- C. *x*³ + 3*a*²*x*² + 3*ax* + *a*³
+- D. *x*³ + 2*ax*² + 2*a*²*x* + *a*³
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 86
+**Subtema:** Polinomios y productos notables · cubo de un binomio
+
+El cubo de un binomio *x* + *a* es (*x* + *a*)³ = *x*³ + 3*ax*² + 3*a*²*x* + *a*³.
+
+### 168
+
+De acuerdo con el libro de Geometría Analítica, el producto de un binomio *x* + *a* y su conjugado *x* − *a* produce la diferencia de dos cuadrados. ¿A qué es igual (*x* + *a*)(*x* − *a*)?
+
+- A. *x*² − *a*²
+- B. *x*² + *a*²
+- C. *x*² − 2*ax* + *a*²
+- D. *x*² − *ax* − *a*²
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 87
+**Subtema:** Polinomios y productos notables · diferencia de dos cuadrados
+
+Se observa de inmediato que el producto de un binomio *x* + *a* y su conjugado *x* − *a* produce la diferencia de dos cuadrados: (*x* + *a*)(*x* − *a*) = *x*² − *a*².
+
+### 169
+
+De conformidad con el libro de Geometría Analítica, en el método PEIU para multiplicar dos binomios, ¿qué palabras representan las letras P, E, I y U?
+
+- A. Primero, exterior, interior y último
+- B. Producto, exponente, índice y unidad
+- C. Positivo, entero, impar y único
+- D. Primero, extremo, intermedio y usual
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 87
+**Subtema:** Polinomios y productos notables · método PEIU
+
+Las letras P, E, I y U son, respectivamente, las primeras letras de las palabras primero, exterior, interior y último.
+
+### 170
+
+En relación con el libro de Geometría Analítica, en los productos notables (3), (4) y (5), ¿qué se debe tener presente acerca de los símbolos *x* y *a*?
+
+- A. Que pueden sustituirse con otra variable, un número o una expresión más complicada
+- B. Que sólo pueden representar números reales positivos
+- C. Que deben ser siempre monomios de grado uno
+- D. Que no pueden sustituirse por expresiones con radicales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 87
+**Subtema:** Polinomios y productos notables · sustitución en los productos notables
+
+En cada uno de los productos notables (3), (4) y (5), tenga presente que los símbolos *x* y *a* pueden sustituirse con otra variable, un número o una expresión más complicada.
+
+### 171
+
+De acuerdo con el libro de Geometría Analítica, ¿qué es un polinomio en dos variables *x* y *y*?
+
+- A. Una suma de monomios de la forma *ax*ⁿ*y*ᵐ, donde *a* es un número real, y *n* y *m* son enteros no negativos
+- B. Una suma de monomios de la forma *ax*ⁿ*y*ᵐ, donde *a*, *n* y *m* son números reales cualesquiera
+- C. El producto de dos polinomios, cada uno en una variable distinta
+- D. Una suma de monomios de la forma *ax*ⁿ*y*ᵐ, donde *n* y *m* son enteros negativos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 88
+**Subtema:** Polinomios y productos notables · polinomio en dos variables
+
+Un polinomio en dos variables *x* y *y* es una suma de monomios (o términos) de la forma *ax*ⁿ*y*ᵐ, donde *a* es un número real, *x* y *y* son variables, y *n* y *m* son enteros no negativos.
+
+### 172
+
+De conformidad con el libro de Geometría Analítica, ¿de qué forma son los monomios cuya suma constituye un polinomio en tres variables *x*, *y* y *z*?
+
+- A. *ax*ⁿ*y*ᵐ*z*ᵏ, donde *n*, *m* y *k* son enteros no negativos
+- B. *ax*ⁿ*y*ᵐ*z*ᵏ, donde *n*, *m* y *k* son enteros negativos
+- C. *ax*ⁿ*y*ᵐ*z*ᵏ, donde *n*, *m* y *k* son números racionales
+- D. *a*(*x* + *y* + *z*)ⁿ, donde *n* es un entero no negativo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 88
+**Subtema:** Polinomios y productos notables · polinomio en tres variables
+
+Un polinomio en tres variables *x*, *y* y *z* es la suma de monomios de la forma *ax*ⁿ*y*ᵐ*z*ᵏ, donde *n*, *m* y *k* son enteros no negativos.
