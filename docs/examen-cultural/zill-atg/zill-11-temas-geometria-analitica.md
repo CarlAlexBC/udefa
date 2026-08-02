@@ -52,7 +52,7 @@ El **capítulo 11** completo tiene cinco secciones:
 - **§11.1 La parábola** (pp. 482–486) ← este archivo lo cubre.
 - **§11.2 La elipse** (pp. 489–493) ← este archivo lo cubre.
 - **§11.3 La hipérbola** (pp. 495–500) ← este archivo lo cubre.
-- **§11.4 Rotación de ejes** ← este archivo lo cubre.
+- **§11.4 Rotación de ejes** (pp. 504–508) ← este archivo lo cubre.
 - **§11.5 Ecuaciones paramétricas** ← este archivo lo cubre.
 
 Los *Ejercicios de repaso* quedan fuera por la norma de teoría sobre práctica. La reseña
@@ -83,6 +83,12 @@ precaución (a² siempre bajo el término positivo), el eje transversal y los v�
 2a), el eje conjugado, las asíntotas (`y=±(b/a)x`) con su método nemotécnico y el rectángulo
 auxiliar, la forma normal con centro en (h,k), y la **excentricidad** `e=c/a` (con `c=√(a²+b²)`,
 `e>1`). Ver aviso de errata abajo.
+
+**§11.4 · CERRADO** en 12 reactivos (reactivos 52–63): la forma sin término xy cuando B=0, los
+**casos degenerados**, la eliminación del término xy por **rotación de ejes** (cuando B≠0), la
+definición de rotación y las **ecuaciones de rotación** (4) y (5), el **Teorema 11.4.1**
+(`cot 2θ=(A−C)/B`) y el valor θ=45° cuando cot 2θ=0, el **discriminante** `B²−4AC` y el
+**Teorema 11.4.2** (parábola si =0, elipse si <0, hipérbola si >0).
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -870,3 +876,187 @@ De conformidad con el libro de Geometría Analítica, la excentricidad de una hi
 **Subtema:** La hipérbola · excentricidad
 
 La ecuación que define la excentricidad de una hipérbola es e = c/a; en este caso, el número c se define como c = √(a² + b²). Ya que 0 < a < √(a² + b²), la excentricidad de una hipérbola satisface e > 1. (Véase el aviso al aspirante: el libro escribe por errata "elipse" donde debe decir "hipérbola".)
+
+---
+
+## Sub-lote 4 · §11.4 Rotación de ejes (pp. 504–508)
+
+### 52
+
+De acuerdo con el libro de Geometría Analítica, cuando B = 0 en la ecuación general de segundo grado, ¿a qué forma se reduce para obtener las formas estándar de las cónicas?
+
+- A. Ax² + Cy² + Dx + Ey + F = 0
+- B. Ax² + Bxy + Cy² = 0
+- C. Bxy + Dx + Ey + F = 0
+- D. Ax² + Bxy + F = 0
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 504
+**Subtema:** Rotación de ejes · forma sin término xy
+
+Cuando B = 0, obtenemos las formas estándares de las ecuaciones de los círculos, parábolas, elipses e hipérbolas a partir de ecuaciones de la forma Ax² + Cy² + Dx + Ey + F = 0.
+
+### 53
+
+Según el libro de Geometría Analítica, además de las secciones cónicas conocidas, ¿qué puede representar la ecuación general de segundo grado en sus "casos degenerados"?
+
+- A. La intersección de dos rectas, una recta, un solo punto, dos rectas paralelas o ninguna gráfica en absoluto
+- B. Únicamente un círculo o una recta
+- C. Siempre una parábola desplazada
+- D. Un plano en el espacio tridimensional
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 504
+**Subtema:** Rotación de ejes · casos degenerados
+
+La ecuación (1) también puede representar la intersección de dos rectas, una recta, un solo punto, dos rectas paralelas o ninguna gráfica en absoluto. Éstos se conocen como casos degenerados de la ecuación (1).
+
+### 54
+
+De conformidad con el libro de Geometría Analítica, cuando B ≠ 0, ¿cómo es posible eliminar el término xy de la ecuación general de segundo grado?
+
+- A. Por medio de una rotación de ejes
+- B. Por medio de una traslación de ejes
+- C. Completando el cuadrado en x y en y
+- D. Dividiendo toda la ecuación entre B
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 504
+**Subtema:** Rotación de ejes · eliminación del término xy
+
+Cuando B ≠ 0, es posible eliminar el término xy de la ecuación (1) por medio de una rotación de ejes.
+
+### 55
+
+Según el libro de Geometría Analítica, ¿en qué consiste una rotación de ejes?
+
+- A. En girar los ejes x y y alrededor del origen O a lo largo de un ángulo θ, denotando los nuevos ejes con x' y y'
+- B. En desplazar los ejes paralelamente sin girarlos
+- C. En intercambiar el eje x por el eje y
+- D. En reflejar los ejes respecto a la recta y = x
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 505
+**Subtema:** Rotación de ejes · definición
+
+Comenzamos con un sistema de coordenadas xy con origen O y giramos los ejes x y y alrededor de O a lo largo de un ángulo θ. En la posición que ocupan después de la rotación, denotamos los ejes con los símbolos x' y y'.
+
+### 56
+
+De acuerdo con las ecuaciones de rotación (4) del libro de Geometría Analítica, ¿cómo se convierten las coordenadas xy de un punto P en las nuevas coordenadas x'y'?
+
+- A. x' = x cos θ + y sen θ, y' = −x sen θ + y cos θ
+- B. x' = x cos θ − y sen θ, y' = x sen θ + y cos θ
+- C. x' = x sen θ + y cos θ, y' = x cos θ − y sen θ
+- D. x' = x + y, y' = x − y
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 505
+**Subtema:** Rotación de ejes · ecuaciones de rotación (4)
+
+Las coordenadas xy de P pueden convertirse en las nuevas coordenadas x'y' por x' = x cos θ + y sen θ, y' = −x sen θ + y cos θ.
+
+### 57
+
+Según las ecuaciones de rotación (5) del libro de Geometría Analítica, ¿cómo se convierten las coordenadas x'y' de un punto P en coordenadas xy?
+
+- A. x = x' cos θ − y' sen θ, y = x' sen θ + y' cos θ
+- B. x = x' cos θ + y' sen θ, y = x' sen θ − y' cos θ
+- C. x = x' sen θ − y' cos θ, y = x' cos θ + y' sen θ
+- D. x = x' + y', y = x' − y'
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 505
+**Subtema:** Rotación de ejes · ecuaciones de rotación (5)
+
+x = x' cos θ − y' sen θ, y = x' sen θ + y' cos θ.
+
+### 58
+
+De conformidad con el Teorema 11.4.1 del libro de Geometría Analítica, el término xy se puede eliminar de la ecuación general de segundo grado (con B ≠ 0) mediante una rotación de ejes a través de un ángulo θ que satisface:
+
+- A. cot 2θ = (A − C)/B
+- B. tan 2θ = (A − C)/B
+- C. cot 2θ = B/(A − C)
+- D. cot 2θ = (A + C)/B
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 506
+**Subtema:** Rotación de ejes · Teorema 11.4.1
+
+El término xy se puede eliminar de la ecuación general de segundo grado, donde B ≠ 0, por medio de la rotación de ejes a través de un ángulo θ que satisface cot 2θ = (A − C)/B.
+
+### 59
+
+Según el libro de Geometría Analítica, al resolver cot 2θ = (A − C)/B se toma una solución con 0° < θ < 90°. Si cot 2θ = 0, ¿cuánto vale θ?
+
+- A. θ = 45°
+- B. θ = 30°
+- C. θ = 60°
+- D. θ = 90°
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 506
+**Subtema:** Rotación de ejes · ángulo cuando cot 2θ=0
+
+Si cot 2θ = 0, entonces 2θ = 90° y, por tanto, θ = 45°.
+
+### 60
+
+De acuerdo con el libro de Geometría Analítica, para identificar una sección cónica definida por Ax² + Bxy + Cy² + Dx + Ey + F = 0 sin necesidad de rotar, ¿qué cantidad se calcula a partir de los coeficientes?
+
+- A. El discriminante B² − 4AC
+- B. La suma A + B + C
+- C. El producto ABC
+- D. El cociente A/C
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 508
+**Subtema:** Rotación de ejes · discriminante
+
+Lo único que necesitamos calcular es el discriminante B² − 4AC de la ecuación.
+
+### 61
+
+Según el Teorema 11.4.2 del libro de Geometría Analítica (excluyendo los casos degenerados), la gráfica de la ecuación de segundo grado es una parábola cuando:
+
+- A. B² − 4AC = 0
+- B. B² − 4AC < 0
+- C. B² − 4AC > 0
+- D. B² − 4AC = 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 508
+**Subtema:** Rotación de ejes · Teorema 11.4.2 · parábola
+
+Excluyendo los casos degenerados, la gráfica de la ecuación de segundo grado (1) es una parábola cuando B² − 4AC = 0.
+
+### 62
+
+De conformidad con el Teorema 11.4.2 del libro de Geometría Analítica (excluyendo los casos degenerados), la gráfica de la ecuación de segundo grado es una elipse cuando:
+
+- A. B² − 4AC < 0
+- B. B² − 4AC = 0
+- C. B² − 4AC > 0
+- D. B² − 4AC = 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 508
+**Subtema:** Rotación de ejes · Teorema 11.4.2 · elipse
+
+Excluyendo los casos degenerados, la gráfica de la ecuación de segundo grado (1) es una elipse cuando B² − 4AC < 0.
+
+### 63
+
+Según el Teorema 11.4.2 del libro de Geometría Analítica (excluyendo los casos degenerados), la gráfica de la ecuación de segundo grado es una hipérbola cuando:
+
+- A. B² − 4AC > 0
+- B. B² − 4AC = 0
+- C. B² − 4AC < 0
+- D. B² − 4AC = 1
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 508
+**Subtema:** Rotación de ejes · Teorema 11.4.2 · hipérbola
+
+Excluyendo los casos degenerados, la gráfica de la ecuación de segundo grado (1) es una hipérbola cuando B² − 4AC > 0.
