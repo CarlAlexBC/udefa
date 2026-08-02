@@ -1,6 +1,6 @@
 # Geometría Analítica · Capítulo 2 · Conceptos fundamentales del álgebra
 
-**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 2 → EN CURSO**
+**Libro:** Zill & Dewar · *Álgebra, Trigonometría y Geometría Analítica* (McGraw-Hill, 3.ª ed. 2012) · **Capítulo 2 → COMPLETO (§2.1–§2.8, reactivos 1–210)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Este Zill 3.ª ed. lo comparten **varios planteles**
@@ -175,9 +175,19 @@ definición de expresión racional (cociente de dos polinomios), su dominio (los
 no es cero), las cuatro **propiedades frecuentes de las fracciones** (cancelación, suma/resta,
 multiplicación y división, con denominadores no nulos) y la simplificación por factorización y cancelación.
 
-**Pendiente de §2.8:** pp. 100–103 (el **mínimo común denominador**, la suma/resta y la multiplicación y
-división de expresiones racionales, y las **expresiones fraccionarias** y su simplificación). Con ello, el
-capítulo 2 quedará cerrado para la EMMA.
+**Sub-lote 15 (pp. 100–102, reactivos 205–210):** cierra **§2.8** con la suma y resta de expresiones
+racionales (primero un común denominador, luego la propiedad de suma/resta), el **mínimo común denominador**
+(cómo se encuentra y por qué reduce el trabajo), la multiplicación y división de expresiones racionales, la
+definición de **expresión fraccionaria** (cociente de expresiones algebraicas que no son polinomios) y el
+método del MCD para simplificar fracciones complejas. Los Ejemplos 1–11 y los *Ejercicios* de las pp.
+98–106 quedan fuera por la norma de teoría sobre práctica.
+
+**§2.8 Expresiones racionales · CERRADO** (pp. 98–102, reactivos 196–210).
+
+**CAPÍTULO 2 · COMPLETO para la EMMA** (§2.1 a §2.8, reactivos 1–210). Según el temario de la EMMA
+(`ÁLGE-01-2026`), de la materia *Álgebra* resta el **capítulo 3** *Ecuaciones y desigualdades* (Completo)
+y el **capítulo 4** §4.1–§4.4 (este último ya trabajado en `zill-04-coordenadas-rectangulares.md`); la
+materia *Trigonometría y Geometría Analítica* (`TGA-02-2026`) pide además los capítulos 8, 9, 10 y 11.
 
 ## Criterio: teoría sobre práctica
 
@@ -3321,3 +3331,97 @@ En relación con el libro de Geometría Analítica, para simplificar una expresi
 **Subtema:** Expresiones racionales · simplificación
 
 Factorizamos el numerador y el denominador y cancelamos los factores comunes usando la propiedad de cancelación.
+
+---
+
+## Sub-lote 15 · §2.8 Expresiones racionales — mínimo común denominador, operaciones y expresiones fraccionarias (pp. 100–102)
+
+### 205
+
+De acuerdo con el libro de Geometría Analítica, para sumar o restar expresiones racionales, ¿qué se hace primero?
+
+- A. Hallar un común denominador y luego aplicar la propiedad de suma o resta
+- B. Multiplicar los numeradores entre sí
+- C. Cancelar los factores comunes de cada numerador
+- D. Elevar cada fracción al cuadrado
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 100
+**Subtema:** Expresiones racionales · suma y resta
+
+Para sumar o restar expresiones racionales procedemos exactamente como cuando sumamos o restamos fracciones. Primero hallamos un común denominador y luego aplicamos la propiedad ii).
+
+### 206
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se encuentra el mínimo común denominador (MCD)?
+
+- A. Mediante la factorización completa de cada denominador y la formación de un producto de los diferentes factores, usando cada factor con el exponente más alto con el cual ocurra en cualquier denominador individual
+- B. Multiplicando entre sí todos los denominadores dados
+- C. Sumando todos los denominadores dados
+- D. Tomando el denominador de mayor valor numérico
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 100
+**Subtema:** Expresiones racionales · mínimo común denominador (MCD)
+
+El mínimo común denominador (MCD) se encuentra mediante la factorización completa de cada denominador y la formación de un producto de los diferentes factores, usando cada factor con el exponente más alto con el cual ocurra en cualquier denominador individual.
+
+### 207
+
+En relación con el libro de Geometría Analítica, aunque cualquier común denominador servirá para sumar o restar expresiones racionales, ¿con cuál será menor el trabajo?
+
+- A. Con el mínimo común denominador (MCD)
+- B. Con el producto de todos los denominadores
+- C. Con el mayor de los denominadores
+- D. Con el numerador común
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 100
+**Subtema:** Expresiones racionales · utilidad del MCD
+
+Aunque cualquier común denominador servirá, el trabajo será menor si usamos el mínimo común denominador (MCD).
+
+### 208
+
+De acuerdo con el libro de Geometría Analítica, para multiplicar o dividir expresiones racionales, ¿qué se hace?
+
+- A. Aplicar la propiedad de multiplicación o la de división y luego simplificar
+- B. Hallar el mínimo común denominador y luego sumar
+- C. Factorizar y cancelar sin aplicar ninguna propiedad de las fracciones
+- D. Igualar los denominadores y restar los numeradores
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 101
+**Subtema:** Expresiones racionales · multiplicación y división
+
+Para multiplicar o dividir expresiones racionales, aplicamos la propiedad iii) o la iv) y luego simplificamos.
+
+### 209
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se llama un cociente de dos expresiones algebraicas que no son polinomios?
+
+- A. Expresión fraccionaria
+- B. Expresión racional
+- C. Polinomio racional
+- D. Fracción parcial
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 102
+**Subtema:** Expresiones racionales · expresión fraccionaria
+
+Un cociente de dos expresiones algebraicas que no son polinomios, como (√*x* − 1)/(∛*x* + 1), se llama expresión fraccionaria.
+
+### 210
+
+En relación con el libro de Geometría Analítica, ¿cuál es otro método para simplificar una expresión fraccionaria compleja?
+
+- A. Multiplicar tanto el numerador como el denominador por el MCD de los denominadores de todas las fracciones que ocurran en la fracción compleja
+- B. Sumar el numerador y el denominador y dividir el resultado entre el MCD
+- C. Elevar al cuadrado la fracción compleja
+- D. Sustituir cada fracción por su recíproco
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 102
+**Subtema:** Expresiones racionales · fracción compleja (método del MCD)
+
+Otro método para simplificar una expresión fraccionaria compleja es multiplicar tanto el numerador como el denominador por el MCD de los denominadores de todas las fracciones que ocurran en la fracción compleja.
