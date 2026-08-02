@@ -167,11 +167,12 @@ El contenido narrativo aprovechable corre aproximadamente de la **p. 153 a la p.
   personas; la entrada del Trigarante (27 sep 1821); los 38 notables; el Acta de Independencia (28
   sep 1821); el balance del libro (logro criollo, Iturbide artífice).
 
-**Estado de 5.2:** el **contenido narrativo del Bloque 5 queda cubierto de la p. 152 a la p. 190**
-(inicio, conspiraciones, organización, resistencia y consumación). Queda **una decisión de
-Carlo**: si se incluyen los tres recuadros "Comprensión lectora" —participación de la mujer (p.
-183), la Constitución de Cádiz/Zócalo (p. 186) y las banderas insurgentes (p. 188)— que por norma
-quedan fuera. Las pp. 191–194 son línea de tiempo, mapas, actividades y evaluación sumativa (fuera).
+**Estado de 5.2 — BLOQUE 5 CERRADO.** El contenido narrativo del Bloque 5 queda cubierto de la p.
+152 a la p. 190 (inicio, conspiraciones, organización, resistencia y consumación), en 292
+reactivos. **Decisión de Carlo (2 ago 2026): los tres recuadros "Comprensión lectora"
+—participación de la mujer (p. 183), la Constitución de Cádiz/Zócalo (p. 186) y las banderas
+insurgentes (p. 188)— NO entran**, confirmando la norma del bloque. Las pp. 191–194 son línea de
+tiempo, mapas, actividades y evaluación sumativa (fuera). El Bloque 5 no tiene más pendientes.
 
 ## Avisos al aspirante (erratas del libro)
 
