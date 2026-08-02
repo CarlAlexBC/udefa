@@ -108,7 +108,20 @@ Los Ejemplos 1–7 y los *Ejercicios* de las pp. 138–144 quedan fuera por la n
 
 **§3.4 Números complejos · CERRADO** (pp. 138–142, reactivos 38–56).
 
-**Pendiente:** las secciones **§3.5 a §3.7**. Con ellas, el capítulo 3 quedará cerrado para la EMMA.
+**Sub-lote 8 (pp. 144–145, reactivos 57–64):** la apertura de **§3.5 Desigualdades lineales**: la solución
+de una desigualdad, el conjunto solución, las desigualdades equivalentes, la gráfica, el **Teorema 3.5.1**
+(operaciones que producen desigualdades equivalentes, incluida la inversión de la dirección al multiplicar
+por un negativo) y la **desigualdad lineal** *ax*+*b*<0.
+
+**Sub-lote 9 (pp. 146–147, reactivos 65–71):** cierra **§3.5** con la **notación de intervalos**: los
+símbolos de infinito (no son números reales; nunca junto a un corchete cuadrado), el intervalo abierto
+(*a*,*b*), el cerrado [*a*,*b*], los extremos, (−∞,∞) como toda la recta real y la **desigualdad
+simultánea** *a*<*x*<*b*. Los Ejemplos y *Ejercicios* de las pp. 144–149 quedan fuera por la norma de
+teoría sobre práctica.
+
+**§3.5 Desigualdades lineales · CERRADO** (pp. 144–147, reactivos 57–71).
+
+**Pendiente:** las secciones **§3.6 y §3.7**. Con ellas, el capítulo 3 quedará cerrado para la EMMA.
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -985,3 +998,236 @@ De conformidad con el libro de Geometría Analítica, cuando el discriminante *b
 **Subtema:** Números complejos · soluciones complejas de la ecuación cuadrática
 
 Los números complejos posibilitan resolver ecuaciones cuadráticas *ax*² + *bx* + *c* = 0 cuando el discriminante *b*² − 4*ac* es negativo. Las soluciones son conjugados entre sí.
+
+---
+
+## Sub-lote 8 · §3.5 Desigualdades lineales — terminología, Teorema 3.5.1 y desigualdad lineal (pp. 144–145)
+
+### 57
+
+De acuerdo con el libro de Geometría Analítica, si un número real se sustituye por la variable *x* en una desigualdad y el resultado es una proposición verdadera, ¿cómo se dice que es ese número?
+
+- A. Una solución de la desigualdad
+- B. Un extremo de la desigualdad
+- C. La gráfica de la desigualdad
+- D. Un intervalo de la desigualdad
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 144
+**Subtema:** Desigualdades lineales · solución de una desigualdad
+
+Si el resultado es una proposición verdadera, entonces se dice que ese número es una solución de la desigualdad.
+
+### 58
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se denomina el conjunto de todas las soluciones de una desigualdad?
+
+- A. Conjunto solución de la desigualdad
+- B. Gráfica de la desigualdad
+- C. Intervalo cerrado
+- D. Dominio de la desigualdad
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 144
+**Subtema:** Desigualdades lineales · conjunto solución
+
+El conjunto de todas las soluciones de una desigualdad se denomina conjunto solución de la desigualdad.
+
+### 59
+
+En relación con el libro de Geometría Analítica, ¿cuándo dos desigualdades son equivalentes?
+
+- A. Si tienen exactamente el mismo conjunto solución
+- B. Si tienen el mismo número de términos
+- C. Si apuntan en la misma dirección
+- D. Si tienen los mismos extremos
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 144
+**Subtema:** Desigualdades lineales · desigualdades equivalentes
+
+Se dice que dos desigualdades son equivalentes si tienen exactamente el mismo conjunto solución.
+
+### 60
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se llama la representación del conjunto solución de una desigualdad en la recta numérica?
+
+- A. La gráfica de la desigualdad
+- B. El conjunto solución
+- C. El intervalo abierto
+- D. El extremo de la desigualdad
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 144
+**Subtema:** Desigualdades lineales · gráfica de la desigualdad
+
+La representación del conjunto solución en la recta numérica es la gráfica de la desigualdad.
+
+### 61
+
+De conformidad con el libro de Geometría Analítica, según el inciso i) del Teorema 3.5.1, la desigualdad *a* < *b* es equivalente a:
+
+- A. *a* + *c* < *b* + *c*
+- B. *a* + *c* > *b* + *c*
+- C. *a* − *c* > *b* − *c*
+- D. *a* · *c* < *b* · *c*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 145
+**Subtema:** Desigualdades lineales · Teorema 3.5.1 (suma)
+
+Teorema 3.5.1: la desigualdad *a* < *b* es equivalente a i) *a* + *c* < *b* + *c*.
+
+### 62
+
+En relación con el libro de Geometría Analítica, según el inciso ii) del Teorema 3.5.1, si *c* > 0, la desigualdad *a* < *b* es equivalente a:
+
+- A. *a* · *c* < *b* · *c*
+- B. *a* · *c* > *b* · *c*
+- C. *a* + *c* < *b* + *c*
+- D. *a*/*c* > *b*/*c*
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 145
+**Subtema:** Desigualdades lineales · Teorema 3.5.1 (multiplicación por c > 0)
+
+Teorema 3.5.1: ii) *a* · *c* < *b* · *c*, para *c* > 0.
+
+### 63
+
+De acuerdo con el libro de Geometría Analítica, según el Teorema 3.5.1, si una desigualdad se multiplica por un número negativo, ¿qué ocurre con la dirección de la desigualdad?
+
+- A. Se invierte
+- B. Se conserva igual
+- C. Se convierte en una igualdad
+- D. Desaparece
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 145
+**Subtema:** Desigualdades lineales · multiplicación por un número negativo
+
+Si una desigualdad se multiplica por un número negativo, la dirección de la desigualdad se invierte (Teorema 3.5.1, iii: *a* · *c* > *b* · *c*, para *c* < 0).
+
+### 64
+
+De conformidad con el libro de Geometría Analítica, ¿cómo se llama cualquier desigualdad que pueda escribirse de la forma *ax* + *b* < 0 (o *ax* + *b* ≥ 0), donde *a* y *b* son números reales?
+
+- A. Desigualdad lineal en la variable *x*
+- B. Desigualdad cuadrática
+- C. Desigualdad simultánea
+- D. Intervalo cerrado
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 145
+**Subtema:** Desigualdades lineales · definición de desigualdad lineal
+
+Cualquier desigualdad que pueda escribirse de una de las formas *ax* + *b* < 0 o *ax* + *b* ≥ 0, donde *a* y *b* son números reales, se llama desigualdad lineal en la variable *x*.
+
+---
+
+## Sub-lote 9 · §3.5 Desigualdades lineales — notación de intervalos y desigualdad simultánea (pp. 146–147)
+
+### 65
+
+De acuerdo con el libro de Geometría Analítica, ¿qué se puede afirmar sobre los símbolos de infinito −∞ e ∞?
+
+- A. No representan números reales y nunca deben manipularse aritméticamente como si fueran un número
+- B. Representan el mayor y el menor de los números reales
+- C. Pueden sumarse y multiplicarse como cualquier número real
+- D. Ambos son iguales a cero
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 147
+**Subtema:** Desigualdades lineales · símbolos de infinito
+
+Los símbolos de infinito −∞ ("menos infinito") e ∞ ("infinito") no representan números reales y nunca deben manipularse aritméticamente como si fueran un número.
+
+### 66
+
+De conformidad con el libro de Geometría Analítica, ¿a qué conjunto corresponde el intervalo abierto (*a*, *b*)?
+
+- A. {*x* | *a* < *x* < *b*}
+- B. {*x* | *a* ≤ *x* ≤ *b*}
+- C. {*x* | *a* < *x* ≤ *b*}
+- D. {*x* | *a* ≤ *x* < *b*}
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 146
+**Subtema:** Desigualdades lineales · intervalo abierto
+
+El intervalo abierto se define como el conjunto (*a*, *b*) = {*x* | *a* < *x* < *b*}.
+
+### 67
+
+En relación con el libro de Geometría Analítica, ¿a qué conjunto corresponde el intervalo cerrado [*a*, *b*]?
+
+- A. {*x* | *a* ≤ *x* ≤ *b*}
+- B. {*x* | *a* < *x* < *b*}
+- C. {*x* | *a* < *x* ≤ *b*}
+- D. {*x* | *a* ≤ *x* < *b*}
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 147
+**Subtema:** Desigualdades lineales · intervalo cerrado
+
+El intervalo cerrado se define como el conjunto [*a*, *b*] = {*x* | *a* ≤ *x* ≤ *b*}; incluye los dos extremos.
+
+### 68
+
+De acuerdo con el libro de Geometría Analítica, en la notación de intervalos, ¿cómo se denominan los números *a* y *b*?
+
+- A. Extremos del intervalo
+- B. Coeficientes del intervalo
+- C. Raíces del intervalo
+- D. Gráficas del intervalo
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 147
+**Subtema:** Desigualdades lineales · extremos del intervalo
+
+En cada una de las primeras cuatro entradas de la tabla, los números *a* y *b* se denominan extremos del intervalo.
+
+### 69
+
+De conformidad con el libro de Geometría Analítica, al usar la notación de intervalos, ¿dónde no pueden aparecer jamás los símbolos −∞ e ∞?
+
+- A. Al lado de un corchete cuadrado
+- B. Al lado de un paréntesis
+- C. Dentro del conjunto solución
+- D. Sobre la recta numérica
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 147
+**Subtema:** Desigualdades lineales · uso de los símbolos de infinito
+
+Cuando utilice notación de intervalos, los símbolos −∞ e ∞ no pueden aparecer jamás al lado de un corchete cuadrado; es decir, la expresión (2, ∞] no tiene sentido.
+
+### 70
+
+En relación con el libro de Geometría Analítica, ¿qué representa por lo general la notación de intervalo (−∞, ∞)?
+
+- A. El conjunto *R* de los números reales (toda la recta real)
+- B. El conjunto vacío
+- C. Sólo los números reales positivos
+- D. Un intervalo cerrado y acotado
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 147
+**Subtema:** Desigualdades lineales · la recta real como intervalo no acotado
+
+La notación de intervalo (−∞, ∞) se usa por lo general para representar el conjunto *R* de los números reales.
+
+### 71
+
+De acuerdo con el libro de Geometría Analítica, ¿cómo se denomina en ocasiones una desigualdad de la forma *a* < *x* < *b*?
+
+- A. Desigualdad simultánea
+- B. Desigualdad lineal
+- C. Desigualdad cuadrática
+- D. Intervalo cerrado
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 147
+**Subtema:** Desigualdades lineales · desigualdad simultánea
+
+Una desigualdad de la forma *a* < *x* < *b* se denomina en ocasiones desigualdad simultánea porque el número *x* está entre los números *a* y *b*.
