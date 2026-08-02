@@ -118,7 +118,21 @@ pp. 73–77 quedan fuera por la norma de teoría sobre práctica.
 
 **§2.4 Radicales · CERRADO** (pp. 71–74, reactivos 107–128).
 
-**Pendiente:** las secciones **§2.5 a §2.8** (pp. 78–106). Con ellas, el capítulo 2 quedará
+**Sub-lote 7 (pp. 78–79, reactivos 129–140):** la teoría de **§2.5 Exponentes racionales**: la
+introducción (la raíz *n*-ésima amplía la definición de *xⁿ* de exponentes enteros a racionales),
+la **Definición 2.5.1** (potencia racional: *x*^(1/*n*) = ⁿ√*x* como la raíz *n*-ésima principal, y
+*x*^(*m*/*n*) = ⁿ√(*xᵐ*) = (ⁿ√*x*)ᵐ con *m*/*n* en términos mínimos —sin factores enteros comunes—),
+y el **Teorema 2.5.1** con sus cinco leyes de los exponentes racionales.
+
+**Sub-lote 8 (pp. 80–81, reactivos 141–142):** cierra **§2.5** con las dos notas teóricas restantes:
+la convención de que, para el resto de la sección, todas las bases variables se consideran positivas
+(así todas las potencias racionales quedan definidas) y que las leyes de los exponentes también son
+verdaderas para los exponentes irracionales. Los Ejemplos 5–10 y los *Ejercicios* de las pp. 80–82
+quedan fuera por la norma de teoría sobre práctica.
+
+**§2.5 Exponentes racionales · CERRADO** (pp. 78–81, reactivos 129–142).
+
+**Pendiente:** las secciones **§2.6 a §2.8** (pp. 83–106). Con ellas, el capítulo 2 quedará
 cerrado para la EMMA.
 
 ## Criterio: teoría sobre práctica
@@ -2259,3 +2273,37 @@ En relación con el libro de Geometría Analítica, según la ley v) del Teorema
 **Subtema:** Exponentes racionales · Teorema 2.5.1 leyes de los exponentes racionales
 
 Teorema 2.5.1, leyes de los exponentes racionales: v) *xʳ*/*xˢ* = *xʳ⁻ˢ*.
+
+---
+
+## Sub-lote 8 · §2.5 Exponentes racionales — cierre (pp. 80–81)
+
+### 141
+
+De acuerdo con el libro de Geometría Analítica, para el resto de la sección 2.5, ¿qué se considera acerca de todas las bases variables *x*, *y*, *a*, *b*, etcétera?
+
+- A. Que representan números positivos, de modo que todas las potencias racionales están definidas
+- B. Que representan números enteros, de modo que todos los radicales son reales
+- C. Que representan números diferentes de cero, de modo que todos los recíprocos existen
+- D. Que representan números racionales, de modo que todos los exponentes son enteros
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 80
+**Subtema:** Exponentes racionales · convención de bases positivas
+
+Para el resto de esta sección consideramos que todas las bases variables *x*, *y*, *a*, *b*, etcétera, representan números positivos, de modo que todas las potencias racionales están definidas.
+
+### 142
+
+De conformidad con el libro de Geometría Analítica, además de para los exponentes racionales, ¿para qué otros exponentes también son verdaderas las leyes de los exponentes?
+
+- A. Para los exponentes irracionales
+- B. Sólo para los exponentes enteros positivos
+- C. Únicamente para el exponente cero
+- D. Para ninguno fuera de los racionales
+
+**Respuesta:** A
+**Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 81
+**Subtema:** Exponentes racionales · leyes válidas para exponentes irracionales
+
+Las leyes de los exponentes también son verdaderas para los exponentes irracionales.
