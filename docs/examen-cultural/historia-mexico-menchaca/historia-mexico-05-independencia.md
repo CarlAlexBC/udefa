@@ -3879,3 +3879,416 @@ De acuerdo con el libro de Historia de México 1, ¿qué veían con agrado las c
 Las clases acomodadas de la colonia veían con agrado que continuara el reclutamiento y se respetaran las jerarquías militares; además se mantenía el cuerpo militar llegado de España.
 
 ---
+
+## Sub-lote 20 · 5.2 Consumación: la Constitución de Cádiz (pp. 185–186)
+
+### 238
+
+De acuerdo con el libro de Historia de México 1, en 1814, tras la derrota francesa en Europa, ¿a quién reconoció Napoleón Bonaparte como legítimo rey de España?
+
+- A. A Fernando VII
+- B. A José Bonaparte
+- C. A Carlos IV
+- D. A Fernando VI
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 185
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+En 1814, después de la derrota francesa en Europa, Napoleón Bonaparte reconoció a Fernando VII como legítimo rey de España.
+
+### 239
+
+De conformidad con el libro de Historia de México 1, ¿qué había reconocido el decreto del 22 de enero de 1809?
+
+- A. La igualdad de España y sus colonias americanas
+- B. La independencia de la Nueva España
+- C. La abolición del sistema de castas
+- D. La supresión de la Inquisición
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 185
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+Un decreto del 22 de enero de 1809, había reconocido la igualdad de España y sus colonias americanas.
+
+### 240
+
+En relación con el libro de Historia de México 1, ¿cuántos delegados envió la Nueva España a las Cortes de 1810?
+
+- A. 15 delegados
+- B. 27 delegados
+- C. 38 delegados
+- D. 10 delegados
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 185
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+La Nueva España envió 15 delegados a las Cortes de 1810, entre los que se encontraban José Miguel Ramos Arizpe, José María Couto, José Miguel Guridi y Alcocer, Antonio Joaquín Pérez, José Beye Cisneros y José Miguel Gordoa.
+
+### 241
+
+De acuerdo con el libro de Historia de México 1, ¿cuál de estos fue uno de los delegados de la Nueva España a las Cortes de 1810?
+
+- A. José Miguel Ramos Arizpe
+- B. Matías de Monteagudo
+- C. Juan O'Donojú
+- D. Agustín de Iturbide
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 185
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+La Nueva España envió 15 delegados a las Cortes de 1810, entre los que se encontraban José Miguel Ramos Arizpe, José María Couto, José Miguel Guridi y Alcocer, Antonio Joaquín Pérez, José Beye Cisneros y José Miguel Gordoa.
+
+### 242
+
+De conformidad con el libro de Historia de México 1, ¿desde y hasta cuándo trabajaron las Cortes?
+
+- A. Desde el 24 de septiembre de 1810 hasta el 20 de septiembre de 1813
+- B. Desde el 16 de septiembre de 1810 hasta el 27 de septiembre de 1821
+- C. Desde el 22 de enero de 1809 hasta marzo de 1812
+- D. Desde marzo de 1812 hasta enero de 1820
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 185
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+Las Cortes trabajaron desde el 24 de septiembre de 1810 hasta el 20 de septiembre de 1813.
+
+### 243
+
+En relación con el libro de Historia de México 1, entre las reformas propuestas por las Cortes, ¿cuál se encontraba?
+
+- A. La supresión de la Inquisición y el reconocimiento de la diversidad de la comunidad hispana
+- B. La abolición de la monarquía y la instauración de una república
+- C. El reparto de tierras a los campesinos indígenas
+- D. La expulsión de todos los peninsulares de América
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 185
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+Entre las reformas propuestas se encontraba la supresión de la Inquisición y el reconocimiento de la diversidad de la comunidad hispana.
+
+### 244
+
+De acuerdo con el libro de Historia de México 1, para dar administración propia a las provincias, ¿qué dos nuevas organizaciones de gobierno se crearon?
+
+- A. La Diputación Provincial y el Cabildo Constitucional
+- B. La Junta Central y la Asamblea Nacional
+- C. El Supremo Congreso y la Regencia
+- D. La Real Audiencia y el Virreinato
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 185
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+Se hacía necesario la creación de dos nuevas organizaciones de gobierno: la Diputación Provincial y el Cabildo Constitucional.
+
+### 245
+
+De conformidad con el libro de Historia de México 1, mediante las diputaciones provinciales, ¿qué hicieron las Cortes con el Virreinato y la Audiencia?
+
+- A. Abolieron el Virreinato y transformaron la Audiencia en un Tribunal
+- B. Reforzaron el Virreinato y ampliaron la Audiencia
+- C. Crearon un nuevo Virreinato en Sudamérica
+- D. Sustituyeron el Virreinato por una Regencia
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 185
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+Las Cortes abolieron el Virreinato de sus colonias, transformaron la Audiencia en un Tribunal y reorganizaron los dominios de la Corona en provincias que trataban directamente con el gobierno hispano.
+
+### 246
+
+En relación con el libro de Historia de México 1, ¿dónde y cuándo se promulgó la Constitución de la Monarquía Española, que dio fin al absolutismo español?
+
+- A. En Cádiz, en marzo de 1812
+- B. En Apatzingán, en octubre de 1814
+- C. En Iguala, en febrero de 1821
+- D. En Madrid, en enero de 1809
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 185
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+Éstas y otras reformas fueron incluidas en la Constitución de la Monarquía Española promulgada en Cádiz en marzo de 1812, dando fin al absolutismo español, al menos de manera provisional.
+
+### 247
+
+De acuerdo con el libro de Historia de México 1, ¿a quiénes beneficiaron especialmente algunas disposiciones de la Carta Magna de Cádiz, como el libre comercio del azogue?
+
+- A. A los criollos
+- B. A los peninsulares
+- C. A los indígenas
+- D. A los esclavos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 185
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+Algunas de las disposiciones que se incluyeron o derivaron de la Carta Magna de Cádiz beneficiaron especialmente a los criollos, como el libre comercio del azogue y la abolición del monopolio (26 de enero de 1811).
+
+### 248
+
+De conformidad con el libro de Historia de México 1, al llegar a la Corona, siendo de ideas absolutistas, ¿qué hizo Fernando VII con las Cortes?
+
+- A. Las abolió y declaró nulas sus gestiones
+- B. Las amplió con más representantes americanos
+- C. Las trasladó a la Nueva España
+- D. Juró respetar la Constitución de Cádiz
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 186
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+Como era de ideas absolutistas, lo primero que hizo, fue perseguirlos y encarcelados, abolir las Cortes y declarar nulas sus gestiones.
+
+### 249
+
+En relación con el libro de Historia de México 1, en la Nueva España, ¿qué restableció Calleja en enero de 1815, tras el regreso del rey absolutista?
+
+- A. La Inquisición
+- B. Las Cortes
+- C. La Diputación Provincial
+- D. El Cabildo Constitucional
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 186
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+También disolvió los Ayuntamientos constitucionales y restableció la Inquisición en enero de 1815.
+
+### 250
+
+De acuerdo con el libro de Historia de México 1, a fines de 1819, ¿qué militares se pronunciaron en Andalucía en contra del absolutismo de Fernando VII?
+
+- A. Quiroga y Riego
+- B. Iturbide y Guerrero
+- C. Michelena y Alamán
+- D. Negrete y Bustamante
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 186
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+Los militares Quiroga y Riego, en Andalucía, se pronunciaron en contra del absolutismo, pronto fueron secundados por el pueblo español.
+
+### 251
+
+De conformidad con el libro de Historia de México 1, temeroso de perder el trono, ¿qué hizo Fernando VII en enero de 1820?
+
+- A. Restauró la Constitución de Cádiz
+- B. Abdicó a favor de su hijo
+- C. Declaró la guerra a Inglaterra
+- D. Reconoció la Independencia de México
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 186
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+Se ha dicho que el rey, temeroso de que las acciones concluyeran con su destitución, restauró la Constitución de Cádiz en enero de 1820, para facilitar el tránsito a una monarquía parlamentaria.
+
+### 252
+
+En relación con el libro de Historia de México 1, los delegados novohispanos Michelena, Lucas Alamán y Manuel Ramos Arizpe propusieron dividir los dominios españoles en América, ¿en cuántos reinos?
+
+- A. En tres reinos
+- B. En dos reinos
+- C. En cinco reinos
+- D. En siete reinos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 186
+**Subtema:** 5.2 Consumación · Constitución de Cádiz
+
+Propusieron que los dominios españoles en América se dividieran en tres reinos: Nueva España y Guatemala, Nueva Granada y Tierra firme; y Perú, Chile y Buenos Aires.
+
+---
+
+## Sub-lote 21 · 5.2 Consumación: la conjura de La Profesa (pp. 186–187)
+
+### 253
+
+De acuerdo con el libro de Historia de México 1, cuando Apodaca tuvo que jurar la Constitución de Cádiz en mayo de 1820, ¿qué hizo la Iglesia católica, amenazada en sus actividades?
+
+- A. Se dispuso a actuar en favor de la Independencia para salvar sus intereses
+- B. Excomulgó al virrey Apodaca
+- C. Ordenó a los fieles jurar lealtad a Fernando VII
+- D. Se mantuvo al margen del conflicto político
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 186
+**Subtema:** 5.2 Consumación · conjura de La Profesa
+
+Cuando Juan Ruiz de Apodaca tuvo que jurar la Constitución de Cádiz, en mayo de 1820, la Iglesia católica, amenazada en sus actividades, se dispuso a actuar en favor de la Independencia para salvar sus intereses.
+
+### 254
+
+De conformidad con el libro de Historia de México 1, además del clero, ¿qué grupos vieron peligrar sus privilegios y retomaron la idea de la Independencia?
+
+- A. Los grandes hacendados, los comerciantes, los dueños de las minas y los jefes militares
+- B. Los campesinos indígenas y los esclavos
+- C. Los soldados rasos del ejército realista
+- D. Los delegados de las Cortes de Cádiz
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 186
+**Subtema:** 5.2 Consumación · conjura de La Profesa
+
+Los grandes hacendados, los comerciantes, los dueños de las minas y los jefes militares, tanto criollos como gachupines, vieron peligrar los privilegios que habían adquirido al amparo de la monarquía despótica española.
+
+### 255
+
+En relación con el libro de Historia de México 1, ¿con qué idea retomaron estos grupos la Independencia?
+
+- A. Con la idea de proteger sus intereses, aun a costa de su lealtad a la Corona española
+- B. Con la idea de lograr la igualdad social y abolir las castas
+- C. Con la idea de restaurar el gobierno de los aztecas
+- D. Con la idea de anexar la colonia a los Estados Unidos
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · conjura de La Profesa
+
+Estos grupos retomaron la idea de la Independencia, sólo que con la idea de proteger sus intereses, aun a costa de su lealtad a la Corona española.
+
+### 256
+
+De acuerdo con el libro de Historia de México 1, al jurar la Constitución, Apodaca tuvo que liberar a antiguos insurgentes; ¿cuáles?
+
+- A. Nicolás Bravo, Ignacio López Rayón y Sixto Berduzco
+- B. Vicente Guerrero, Guadalupe Victoria y Pedro Ascencio
+- C. Xavier Mina, Pedro Moreno y Antonio Torres
+- D. Mariano Matamoros, Hermenegildo Galeana y Leonardo Bravo
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · conjura de La Profesa
+
+En consecuencia fueron liberados los antiguos insurgentes Nicolás Bravo, Ignacio López Rayón y Sixto Berduzco.
+
+### 257
+
+De conformidad con el libro de Historia de México 1, en noviembre de 1820, ¿quién se encargó de organizar y dirigir la conspiración que se efectuó en el templo de La Profesa?
+
+- A. El canónigo Matías de Monteagudo
+- B. El virrey Juan Ruiz de Apodaca
+- C. El coronel Agustín de Iturbide
+- D. El obispo de Puebla
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · conjura de La Profesa
+
+En noviembre de 1820, con el apoyo de la aristocracia, el ejército y el alto clero, el canónigo Matías de Monteagudo, se encargó de organizar y dirigir una conspiración que se efectuó en el templo de La Profesa.
+
+### 258
+
+En relación con el libro de Historia de México 1, ¿cuál era la finalidad de la conspiración de La Profesa?
+
+- A. Impedir que se aplicara la Constitución de Cádiz y establecer una monarquía absoluta que garantizara sus derechos
+- B. Instaurar una república federal en la Nueva España
+- C. Restaurar plenamente el poder de las Cortes de Cádiz
+- D. Entregar el gobierno de la colonia a los insurgentes
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · conjura de La Profesa
+
+Su finalidad era la de impedir que en la Nueva España se aplicara la Constitución de Cádiz, terminar con cualquier vestigio de la vieja insurgencia, independizarse de España y establecer como forma de gobierno una monarquía absoluta que garantizara los derechos que tenían.
+
+### 259
+
+De acuerdo con el libro de Historia de México 1, ¿a quién propuso Monteagudo como jefe de las fuerzas militares realistas?
+
+- A. A Agustín de Iturbide
+- B. A Pascual de Liñán
+- C. A Francisco Novella
+- D. A Juan O'Donojú
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · conjura de La Profesa
+
+Con esa idea, Monteagudo propuso que Agustín de Iturbide fuera el jefe de las fuerzas militares realistas.
+
+### 260
+
+De conformidad con el libro de Historia de México 1, ¿por qué se había distinguido Agustín de Iturbide?
+
+- A. Por ser un tenaz perseguidor de los insurgentes
+- B. Por su simpatía con la causa insurgente
+- C. Por su participación en las Cortes de Cádiz
+- D. Por haber firmado la Constitución de Apatzingán
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · conjura de La Profesa
+
+Este personaje se había distinguido por ser un tenaz perseguidor de los insurgentes.
+
+### 261
+
+En relación con el libro de Historia de México 1, el 9 de noviembre de 1820, ¿qué mando le confió Apodaca a Iturbide?
+
+- A. El mando del Ejército del Sur
+- B. El mando del Ejército del Norte
+- C. El cargo de jefe político de la Provincia de México
+- D. La presidencia de la Junta Provisional Gubernativa
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · conjura de La Profesa
+
+El 9 de noviembre de 1820, le confió el mando del Ejército del Sur y ordenó que ofreciera el indulto a los insurgentes que aún quedaban en pie de lucha.
+
+### 262
+
+De acuerdo con el libro de Historia de México 1, aprovechando los amplios poderes recibidos, ¿qué se propuso el ambicioso Iturbide?
+
+- A. Aplastar a los insurgentes y luego, dueño de la situación, proclamar la Independencia de la Nueva España
+- B. Rendirse ante Vicente Guerrero
+- C. Restaurar la Constitución de Cádiz en la colonia
+- D. Entregar el mando a Juan O'Donojú
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · conjura de La Profesa
+
+El ambicioso coronel realista tenía otros planes: se propuso aplastar a los insurgentes y luego, dueño ya de la situación, proclamar la Independencia de la Nueva España.
+
+### 263
+
+De conformidad con el libro de Historia de México 1, para conseguir apoyo, ¿qué regimiento incorporó Iturbide primero a sus filas?
+
+- A. El regimiento de Celaya
+- B. El regimiento de la Reina
+- C. El regimiento de Guanajuato
+- D. El regimiento de Valladolid
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · conjura de La Profesa
+
+Lo primero que hizo fue incorporar en sus filas al regimiento de Celaya, cuyos oficiales le eran muy adeptos.
+
+### 264
+
+En relación con el libro de Historia de México 1, al atacar a las fuerzas de Guerrero y Ascencio, Iturbide sufrió dos derrotas; ¿dónde y cuándo?
+
+- A. En Tlatlaya, en diciembre de 1820, y en Zapotepec, en enero de 1821
+- B. En Aculco, en noviembre de 1810, y en Puente de Calderón, en enero de 1811
+- C. En Cuautla, en mayo de 1812, y en Oaxaca, en noviembre de 1812
+- D. En Peotillos y en San Juan de los Llanos, en 1817
+
+**Respuesta:** A
+**Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 187
+**Subtema:** 5.2 Consumación · conjura de La Profesa
+
+Atacó a las fuerzas de Vicente Guerrero y Pedro Ascencio, pero sufrió dos derrotas, una en Tlatlaya, en diciembre de 1820 y otra en Zapotepec, en enero de 1821.
+
+---
