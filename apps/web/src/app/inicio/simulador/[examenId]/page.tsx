@@ -121,6 +121,11 @@ export default function SimuladorPage({
   // materia. Este ref recuerda que ya arrancó para no reiniciarlo en las demás.
   const cronometroArrancadoRef = useRef(false)
 
+  // Temporizador del auto-avance entre reactivos. Lo guardamos en un ref para
+  // poder cancelarlo: sin cancelación, responder a la carrera apila timers y el
+  // índice se pasa del último reactivo (pantalla en blanco).
+  const autoAvanceRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+
   const bloqueActual = bloques[bloqueIndex]
   const esUltimoBloque = bloqueIndex === bloques.length - 1
   const reactivoActual = bloqueActual?.reactivos[reactivoIndex]
@@ -266,6 +271,25 @@ export default function SimuladorPage({
     setEstado('en_progreso')
   }
 
+  /* ─── Cancelar el auto-avance pendiente entre reactivos ─── */
+  function cancelarAutoAvance() {
+    if (autoAvanceRef.current) {
+      clearTimeout(autoAvanceRef.current)
+      autoAvanceRef.current = null
+    }
+  }
+
+  /* ─── Ir a un reactivo concreto (navegación manual) ───
+     Cancela el auto-avance pendiente y acota el índice al rango del bloque, para
+     que ni la navegación manual ni un timer rezagado dejen el índice fuera de
+     rango (que era lo que pintaba la pantalla en blanco). */
+  function irAReactivo(idx: number) {
+    cancelarAutoAvance()
+    const total = bloqueActual?.reactivos.length ?? 0
+    if (total === 0) return
+    setReactivoIndex(Math.max(0, Math.min(idx, total - 1)))
+  }
+
   /* ─── Registrar respuesta al reactivo actual + auto-avanzar ─── */
   function responder(opcionTexto: string) {
     if (!intento || !reactivoActual) return
@@ -290,8 +314,15 @@ export default function SimuladorPage({
     // reactivo del bloque NO auto-avanzamos — dejamos que el usuario
     // cierre manualmente con el botón "Terminar bloque".
     if (!esUltimoDelBloque) {
-      setTimeout(() => {
-        setReactivoIndex((prev) => prev + 1)
+      // Cancelamos cualquier auto-avance pendiente antes de programar el nuevo.
+      // Si el aspirante responde a la carrera (doble clic o cambia de opción),
+      // sin esto se apilan varios timers y cada uno suma +1: el índice se pasa
+      // del último reactivo, `reactivoActual` queda indefinido y la pantalla se
+      // va en blanco. El Math.min es el segundo cinturón de seguridad.
+      cancelarAutoAvance()
+      autoAvanceRef.current = setTimeout(() => {
+        setReactivoIndex((prev) => Math.min(prev + 1, totalBloque - 1))
+        autoAvanceRef.current = null
       }, 250)
     }
   }
@@ -304,6 +335,18 @@ export default function SimuladorPage({
     }, 1000)
     return () => clearInterval(interval)
   }, [estado])
+
+  /* ─── Al cambiar de bloque (o desmontar) matamos el auto-avance pendiente ───
+     Así un timer rezagado del bloque anterior no mueve el índice del bloque
+     nuevo. Depende sólo de bloqueIndex para no cancelarse en cada render. */
+  useEffect(() => {
+    return () => {
+      if (autoAvanceRef.current) {
+        clearTimeout(autoAvanceRef.current)
+        autoAvanceRef.current = null
+      }
+    }
+  }, [bloqueIndex])
 
   /* ─── El aviso de cambio de materia se retira solo ─── */
   useEffect(() => {
@@ -412,9 +455,9 @@ export default function SimuladorPage({
   const esUltimoReactivoBloque = reactivoIndex === totalReactivosBloque - 1
 
   return (
-    <main className="flex min-h-screen flex-col bg-background">
+    <main className="flex h-dvh flex-col bg-background">
       {/* Barra superior: examen, bloque, progreso, timer */}
-      <div className="border-b border-border bg-card">
+      <div className="shrink-0 border-b border-border bg-card">
         <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-6 py-3">
           <div className="min-w-0">
             <p className="truncate text-xs font-semibold uppercase tracking-widest text-military">
@@ -439,8 +482,10 @@ export default function SimuladorPage({
         </div>
       </div>
 
-      {/* Contenido del reactivo — columna centrada, ocupa el espacio disponible */}
-      <div className="flex-1">
+      {/* Zona del reactivo — la ÚNICA parte que crece y hace scroll (enunciado +
+          opciones). Al encerrar aquí el desbordamiento, la fila de navegación de
+          abajo queda clavada y ya no brinca aunque el texto sea largo. */}
+      <div className="min-h-0 flex-1 overflow-y-auto">
         <div className="mx-auto max-w-3xl px-6 py-8">
           {/* Aviso de cambio de materia — sólo en exámenes de corrido. No corta
               el examen ni detiene el reloj: avisa y se retira solo. */}
@@ -459,13 +504,13 @@ export default function SimuladorPage({
             </div>
           )}
 
-          {/* Bloque enunciado con altura mínima fija — evita que los botones
-              de opciones brinquen entre reactivos con textos de distinto largo.
-              El enunciado se centra verticalmente en ese espacio.
+          {/* Altura mínima del enunciado para que las opciones no arranquen a
+              distinta altura entre reactivos. El enunciado se centra ahí.
 
               160 px y no 140: el enunciado más largo del banco cultural mide
               217 caracteres, que a este tamaño son cinco líneas. Con 140 se
-              desbordaba y volvía a mover las opciones. */}
+              desbordaba y movía las opciones. Si aun así se pasa, ahora sólo
+              empuja hacia el scroll de esta zona, no a la navegación. */}
           <div className="mb-8 flex min-h-[160px] items-center">
             <h2 className="text-xl font-semibold leading-snug text-foreground sm:text-2xl">
               {reactivoActual.enunciado}
@@ -478,35 +523,36 @@ export default function SimuladorPage({
             onSelect={responder}
             esLikert={examen ? !examen.calificable : false}
           />
+        </div>
+      </div>
 
-          {/* Navegación libre — no requiere respuesta para avanzar */}
-          <div className="mt-10 flex items-center justify-between border-t border-border pt-6">
+      {/* Navegación — fila FIJA, fuera del scroll: nunca cambia de sitio, aunque
+          el enunciado o las opciones de arriba sean largos. */}
+      <div className="shrink-0 border-t border-border bg-background">
+        <div className="mx-auto flex max-w-3xl items-center justify-between px-6 py-4">
+          <Button
+            variant="outline"
+            onClick={() => irAReactivo(reactivoIndex - 1)}
+            disabled={reactivoIndex === 0}
+          >
+            <ArrowLeft className="mr-1 h-4 w-4" />
+            Anterior
+          </Button>
+
+          {esUltimoReactivoBloque ? (
             <Button
-              variant="outline"
-              onClick={() => setReactivoIndex(Math.max(0, reactivoIndex - 1))}
-              disabled={reactivoIndex === 0}
+              onClick={pasarASiguienteBloque}
+              className="bg-accent text-accent-foreground hover:bg-accent/90"
             >
-              <ArrowLeft className="mr-1 h-4 w-4" />
-              Anterior
+              {esUltimoBloque ? 'Finalizar examen' : 'Terminar bloque'}
+              <ArrowRight className="ml-1 h-4 w-4" />
             </Button>
-
-            {esUltimoReactivoBloque ? (
-              <Button
-                onClick={pasarASiguienteBloque}
-                className="bg-accent text-accent-foreground hover:bg-accent/90"
-              >
-                {esUltimoBloque ? 'Finalizar examen' : 'Terminar bloque'}
-                <ArrowRight className="ml-1 h-4 w-4" />
-              </Button>
-            ) : (
-              <Button
-                onClick={() => setReactivoIndex(reactivoIndex + 1)}
-              >
-                Siguiente
-                <ArrowRight className="ml-1 h-4 w-4" />
-              </Button>
-            )}
-          </div>
+          ) : (
+            <Button onClick={() => irAReactivo(reactivoIndex + 1)}>
+              Siguiente
+              <ArrowRight className="ml-1 h-4 w-4" />
+            </Button>
+          )}
         </div>
       </div>
 
@@ -515,7 +561,7 @@ export default function SimuladorPage({
         reactivos={bloqueActual.reactivos}
         reactivoIndex={reactivoIndex}
         respuestas={respuestas}
-        onSelect={setReactivoIndex}
+        onSelect={irAReactivo}
         onFinalizar={() => finalizar('COMPLETADA')}
       />
     </main>
