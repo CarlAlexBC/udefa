@@ -3,6 +3,7 @@ import {
   Injectable,
   NotFoundException,
 } from '@nestjs/common';
+import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { TemasPrioridadService } from '../temas-prioridad/temas-prioridad.service';
 import * as fs from 'fs';
@@ -310,19 +311,36 @@ export class ExamenesService {
     const bloques: { nombre: string; reactivos: unknown[] }[] = [];
     for (const m of temario.materias) {
       const capituloIds = m.capitulos.map((c) => c.capituloId);
-      const disponibles = await this.prisma.reactivo.findMany({
-        where: {
-          banco: 'cultural',
-          temaBanco: { capitulo: { id: { in: capituloIds } } },
-        },
-        // OJO: sin respuestaCorrecta — la respuesta NO se filtra al cliente.
-        select: { id: true, enunciado: true, opciones: true, tipo: true, tema: true },
-      });
-      // Mismo barajado POR INTENTO que el camino JSON: se elige QUÉ reactivos entran
-      // y se barajan las OPCIONES de cada uno en cada llamada.
-      const elegidos = this.mezclar(disponibles)
-        .slice(0, m.numPreguntas)
-        .map((r) => ({ ...r, opciones: this.mezclar(r.opciones as string[]) }));
+      // Materia sin capítulos: bloque vacío. Prisma.join([]) generaría un `IN ()`
+      // inválido que truena; este guard reproduce el resultado del findMany vacío.
+      if (capituloIds.length === 0) {
+        bloques.push({ nombre: m.nombre, reactivos: [] });
+        continue;
+      }
+      // El SORTEO lo hace la BASE (ORDER BY random() LIMIT n), no Node. Antes se traían
+      // TODOS los reactivos de los capítulos a memoria y se barajaban en el único hilo
+      // (coste O(banco) por examen); ahora Postgres elige y devuelve sólo los n que entran.
+      // `${...}` son PARÁMETROS ($1, $2…), no texto pegado → a prueba de inyección.
+      // OJO: sin respuestaCorrecta — la respuesta NO se filtra al cliente.
+      // Nombres de tabla/columna verificados contra schema.prisma: si se renombran
+      // Reactivo/Tema o sus columnas, hay que actualizar este query crudo.
+      const disponibles = await this.prisma.$queryRaw<
+        Array<{ id: number; enunciado: string; opciones: unknown; tipo: string; tema: string | null }>
+      >(Prisma.sql`
+        SELECT r.id, r.enunciado, r.opciones, r.tipo, r.tema
+        FROM "Reactivo" r
+        JOIN "Tema" t ON t.id = r."temaId"
+        WHERE r.banco = 'cultural'
+          AND t."capituloId" IN (${Prisma.join(capituloIds)})
+        ORDER BY random()
+        LIMIT ${m.numPreguntas}
+      `);
+      // El barajado POR INTENTO de las OPCIONES se queda en Node: son pocas por reactivo
+      // y `opciones` (Json) ya llega convertida en arreglo desde el driver.
+      const elegidos = disponibles.map((r) => ({
+        ...r,
+        opciones: this.mezclar(r.opciones as string[]),
+      }));
       bloques.push({ nombre: m.nombre, reactivos: elegidos });
     }
     return bloques;
