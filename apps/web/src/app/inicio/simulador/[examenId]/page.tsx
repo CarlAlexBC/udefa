@@ -118,8 +118,9 @@ export default function SimuladorPage({
   const inicioMsRef = useRef<number>(0)
 
   // Con cronómetro global el reloj se carga una sola vez, al empezar la primera
-  // materia. Este ref recuerda que ya arrancó para no reiniciarlo en las demás.
-  const cronometroArrancadoRef = useRef(false)
+  // materia. Recuerda que ya arrancó para no reiniciarlo en las demás. Es estado
+  // y no ref para poder leerlo en el render sin romper la regla react-hooks/refs.
+  const [cronometroArrancado, setCronometroArrancado] = useState(false)
 
   // Temporizador del auto-avance entre reactivos. Lo guardamos en un ref para
   // poder cancelarlo: sin cancelación, responder a la carrera apila timers y el
@@ -260,9 +261,9 @@ export default function SimuladorPage({
       // Un solo reloj para todo el examen: sólo se carga la primera vez y de
       // ahí en adelante sigue corriendo entre materias. Así el aspirante
       // reparte sus 2 horas como quiera, que es como funciona el real.
-      if (!cronometroArrancadoRef.current) {
+      if (!cronometroArrancado) {
         setTiempoRestanteSeg((examen?.duracionMin ?? 0) * 60)
-        cronometroArrancadoRef.current = true
+        setCronometroArrancado(true)
       }
     } else {
       setTiempoRestanteSeg(bloqueActual.tiempoLimite * 60)
@@ -359,6 +360,12 @@ export default function SimuladorPage({
   // sin importar en qué materia vaya. Con reloj por bloque sólo se cierra ese
   // bloque y pasa al siguiente. Se maneja fuera del interval para evitar
   // setState anidados.
+  //
+  // El eslint-disable de bloque es a propósito: reaccionar a que el reloj llegue
+  // a 0 dispara una transición ÚNICA (finalizar o pasar de bloque), y `finalizar`
+  // saca el estado de 'en_progreso', así que no hay ciclo de renders. La regla
+  // set-state-in-effect apunta a setState en cascada; aquí es un falso positivo.
+  /* eslint-disable react-hooks/set-state-in-effect */
   useEffect(() => {
     if (estado === 'en_progreso' && tiempoRestanteSeg === 0) {
       if (esCronometroGlobal || esUltimoBloque) {
@@ -375,6 +382,7 @@ export default function SimuladorPage({
     finalizar,
     pasarASiguienteBloque,
   ])
+  /* eslint-enable react-hooks/set-state-in-effect */
 
   /* ═══════════════════════════════════════════════════════════
      Render — idle / cargando / error
@@ -432,7 +440,7 @@ export default function SimuladorPage({
         totalReactivos={bloques.reduce((n, b) => n + b.reactivos.length, 0)}
         cronometroGlobalSeg={
           esCronometroGlobal
-            ? cronometroArrancadoRef.current
+            ? cronometroArrancado
               ? tiempoRestanteSeg
               : (examen?.duracionMin ?? 0) * 60
             : null
