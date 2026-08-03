@@ -6,6 +6,7 @@ import { useRouter } from 'next/navigation'
 import { Button } from '@/components/ui/button'
 import { LogOut, Shield } from 'lucide-react'
 import { clearToken } from '@/lib/auth'
+import { API_URL } from '@/lib/api'
 
 /**
  * Header privado del área /inicio.
@@ -20,7 +21,7 @@ export function HeaderPrivado({ rol }: { rol?: string } = {}) {
     // cookie httpOnly. credentials:'include' manda la cookie de sesión.
     // Si falla (backend caído), igual salimos.
     try {
-      await fetch('http://localhost:3001/auth/logout', {
+      await fetch(`${API_URL}/auth/logout`, {
         method: 'POST',
         credentials: 'include',
       })

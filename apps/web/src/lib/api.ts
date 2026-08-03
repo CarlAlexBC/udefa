@@ -1,10 +1,11 @@
 import { getToken } from './auth'
 
 /**
- * Base URL del backend. Cuando pasemos a producción se convierte
- * en env var (NEXT_PUBLIC_API_URL) — por ahora hardcoded al puerto local.
+ * Base URL del backend. Se lee de NEXT_PUBLIC_API_URL (Next la incrusta en el
+ * bundle del navegador al CONSTRUIR el frontend) y cae a localhost:3001 en
+ * desarrollo. En producción hay que fijar NEXT_PUBLIC_API_URL al desplegar la web.
  */
-export const API_URL = 'http://localhost:3001'
+export const API_URL = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:3001'
 
 /**
  * Error de una respuesta del backend. Conserva el `status` HTTP y el `code`

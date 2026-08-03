@@ -9,6 +9,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { AlertCircle } from 'lucide-react'
+import { API_URL } from '@/lib/api'
 
 export default function LoginPage() {
   return (
@@ -33,7 +34,7 @@ function LoginForm() {
     setLoading(true)
 
     try {
-      const res = await fetch('http://localhost:3001/auth/login', {
+      const res = await fetch(`${API_URL}/auth/login`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         // include: para que el navegador guarde la cookie httpOnly que
