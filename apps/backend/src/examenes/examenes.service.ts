@@ -252,27 +252,37 @@ export class ExamenesService {
       // Cuota de esta materia: base, +1 mientras quede sobrante por repartir.
       const cuota = base + (resto > 0 ? 1 : 0);
       if (resto > 0) resto--;
-      const disponibles = await this.prisma.reactivo.findMany({
-        where: {
-          banco: 'cultural',
-          temaBanco: {
-            capitulo: {
-              numero: { in: puenteMateria.capitulos },
-              libro: { slug: puenteMateria.slug },
-            },
-          },
-        },
-        // OJO: sin respuestaCorrecta — la respuesta NO se filtra al cliente.
-        select: { id: true, enunciado: true, opciones: true, tipo: true, tema: true },
-      });
-      // Barajado POR INTENTO: además de elegir QUÉ reactivos entran, se barajan
-      // las OPCIONES de cada uno en cada llamada. Así la correcta cae en distinta
-      // posición para cada aspirante/intento — para que aprenda, no memorice "es
-      // la B". No rompe la calificación: se compara el TEXTO de la opción, no la
-      // letra (intentos.service.ts). El orden fijo del import queda sólo de base.
-      const elegidos = this.mezclar(disponibles)
-        .slice(0, cuota)
-        .map((r) => ({ ...r, opciones: this.mezclar(r.opciones as string[]) }));
+      // Materia sin capítulos: bloque vacío (Prisma.join([]) daría un `IN ()` inválido).
+      if (puenteMateria.capitulos.length === 0) {
+        bloques.push({ nombre: m.nombre, codigo, reactivos: [] });
+        continue;
+      }
+      // El SORTEO lo hace la BASE (ORDER BY random() LIMIT n), no Node — igual que el
+      // camino por Temario. Aquí el filtro va por slug del libro + número de capítulo
+      // (Reactivo→Tema→Capítulo→Libro). `${...}` son PARÁMETROS, a prueba de inyección.
+      // OJO: sin respuestaCorrecta — la respuesta NO se filtra al cliente.
+      const disponibles = await this.prisma.$queryRaw<
+        Array<{ id: number; enunciado: string; opciones: unknown; tipo: string; tema: string | null }>
+      >(Prisma.sql`
+        SELECT r.id, r.enunciado, r.opciones, r.tipo, r.tema
+        FROM "Reactivo" r
+        JOIN "Tema" t ON t.id = r."temaId"
+        JOIN "Capitulo" c ON c.id = t."capituloId"
+        JOIN "Libro" l ON l.id = c."libroId"
+        WHERE r.banco = 'cultural'
+          AND l.slug = ${puenteMateria.slug}
+          AND c.numero IN (${Prisma.join(puenteMateria.capitulos)})
+        ORDER BY random()
+        LIMIT ${cuota}
+      `);
+      // El barajado POR INTENTO de las OPCIONES se queda en Node: son pocas por reactivo,
+      // y así la correcta cae en distinta posición para cada aspirante/intento — para que
+      // aprenda, no memorice "es la B". No rompe la calificación: se compara el TEXTO de la
+      // opción, no la letra (intentos.service.ts).
+      const elegidos = disponibles.map((r) => ({
+        ...r,
+        opciones: this.mezclar(r.opciones as string[]),
+      }));
       bloques.push({ nombre: m.nombre, codigo, reactivos: elegidos });
     }
 
