@@ -55,15 +55,31 @@ export class RepasosService {
     const respuestas = intento.respuestas;
     if (respuestas.length === 0) return { sembrados: 0 };
 
-    const tiempos = respuestas
-      .map((r) => r.respondidoEnMs)
+    // "Lento" se mide con el tiempo POR REACTIVO, no con el acumulado. Como
+    // respondidoEnMs cuenta desde el inicio del examen (es acumulado), se ordena
+    // cronológicamente y se saca el delta de cada reactivo. Es el mismo criterio
+    // que usa calcularDiagnosticoCultural, para que lo que se siembra coincida
+    // con los cuadrantes que ve el aspirante en el panel.
+    const ordenadas = [...respuestas].sort(
+      (a, b) => a.respondidoEnMs - b.respondidoEnMs,
+    );
+    const conDelta = ordenadas.map((r, i) => ({
+      respuesta: r,
+      tiempoDeltaMs:
+        i === 0
+          ? r.respondidoEnMs
+          : r.respondidoEnMs - ordenadas[i - 1].respondidoEnMs,
+    }));
+
+    const deltasOrdenados = conDelta
+      .map((c) => c.tiempoDeltaMs)
       .sort((a, b) => a - b);
-    const medianaMs = tiempos[Math.floor(tiempos.length / 2)];
+    const medianaMs = deltasOrdenados[Math.floor(deltasOrdenados.length / 2)];
 
     const ahora = new Date();
-    const nuevos = respuestas
-      .map((r) => {
-        const lento = r.respondidoEnMs > medianaMs;
+    const nuevos = conDelta
+      .map(({ respuesta: r, tiempoDeltaMs }) => {
+        const lento = tiempoDeltaMs > medianaMs;
         let caja: number | null;
         if (r.esCorrecta === false) caja = 1; // confundido o sin ver
         else if (r.esCorrecta === true && lento) caja = 2; // frágil

@@ -144,4 +144,82 @@ describe('RepasosService', () => {
       );
     });
   });
+
+  describe('sembrarDesdeIntento', () => {
+    /** Monta el service con un intento cultural y captura el createMany. */
+    const montarSiembra = (
+      respuestas: Array<{
+        reactivoId: number;
+        respondidoEnMs: number;
+        esCorrecta: boolean;
+      }>,
+    ) => {
+      const createMany = jest.fn().mockResolvedValue({ count: 0 });
+      const prisma = {
+        intentoExamen: {
+          findUnique: jest.fn().mockResolvedValue({
+            id: 1,
+            examen: { tipo: 'cultural' },
+            respuestas,
+          }),
+        },
+        repasoReactivo: { createMany },
+      };
+      return { svc: new RepasosService(prisma as any), createMany };
+    };
+
+    it('clasifica "lento" por el tiempo de cada reactivo, no por el acumulado', async () => {
+      // respondidoEnMs es ACUMULADO desde el inicio. Los deltas por reactivo son
+      // 101→1000, 102→200, 103→5000, 104→200, 105→200; la mediana de deltas es
+      // 200, así que "lento" = delta > 200: sólo 101 y 103.
+      const { svc, createMany } = montarSiembra([
+        { reactivoId: 101, respondidoEnMs: 1000, esCorrecta: true }, // lento → frágil
+        { reactivoId: 102, respondidoEnMs: 1200, esCorrecta: true }, // rápido → dominado (fuera)
+        { reactivoId: 103, respondidoEnMs: 6200, esCorrecta: true }, // lento → frágil
+        { reactivoId: 104, respondidoEnMs: 6400, esCorrecta: true }, // rápido pero tarde → dominado (fuera)
+        { reactivoId: 105, respondidoEnMs: 6600, esCorrecta: false }, // fallado → caja 1 siempre
+      ]);
+
+      await svc.sembrarDesdeIntento(1, 7);
+
+      const data = createMany.mock.calls[0][0].data as Array<{
+        reactivoId: number;
+        caja: number;
+      }>;
+      const caja = (id: number) => data.find((d) => d.reactivoId === id)?.caja;
+
+      // Frágiles (correcto + lento): caja 2.
+      expect(caja(101)).toBe(2);
+      expect(caja(103)).toBe(2);
+      // Fallado: caja 1.
+      expect(caja(105)).toBe(1);
+      // Dominados (correcto + rápido) NO entran, aunque 104 tenga el acumulado
+      // más alto: con la regla vieja (acumulado) 104 habría entrado por error.
+      expect(caja(102)).toBeUndefined();
+      expect(caja(104)).toBeUndefined();
+      expect(data).toHaveLength(3);
+    });
+
+    it('no siembra desde un examen que no es cultural', async () => {
+      const createMany = jest.fn();
+      const prisma = {
+        intentoExamen: {
+          findUnique: jest.fn().mockResolvedValue({
+            id: 2,
+            examen: { tipo: 'psicologico' },
+            respuestas: [
+              { reactivoId: 1, respondidoEnMs: 100, esCorrecta: false },
+            ],
+          }),
+        },
+        repasoReactivo: { createMany },
+      };
+      const svc = new RepasosService(prisma as any);
+
+      const out = await svc.sembrarDesdeIntento(2, 7);
+
+      expect(out).toEqual({ sembrados: 0 });
+      expect(createMany).not.toHaveBeenCalled();
+    });
+  });
 });

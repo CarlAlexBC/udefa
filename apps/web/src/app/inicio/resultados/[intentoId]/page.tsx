@@ -15,6 +15,7 @@ import {
   EyeOff,
   Loader2,
   Sparkles,
+  Sprout,
   TrendingDown,
   TrendingUp,
   XCircle,
@@ -297,7 +298,11 @@ function PanelCalificable({ data }: { data: Resultados }) {
           </section>
         )}
 
-        {/* Métricas rápidas — resumen numérico compacto sobre los gráficos */}
+        {/* Métricas rápidas — resumen numérico compacto. Solo para el
+            psicométrico: en el cultural, el techo, los cuadrantes y la curva de
+            ritmo ya cubren estos números, y "Bloques" siempre saldría 0 porque
+            el examen cultural no tiene bloques. */}
+        {!data.diagnosticoCultural && (
         <section className="mt-8 grid grid-cols-2 gap-3 md:grid-cols-4">
           <MetricStat
             label="Tiempo promedio"
@@ -330,6 +335,7 @@ function PanelCalificable({ data }: { data: Resultados }) {
             sub={`${data.porTema.length} temas`}
           />
         </section>
+        )}
 
         {/* Diagnóstico del examen cultural. Va antes de las gráficas porque es
             lo accionable: qué tiene cruzado y qué páginas abrir. */}
@@ -476,41 +482,42 @@ function DiagnosticoCultural({
   const errores = total - aciertos
   const recuperables = confundido
 
+  // En orden de MATRIZ 2×2, leyéndola de izquierda a derecha y de arriba a
+  // abajo: [dominado, frágil] arriba (lo que acertaste), [sin ver, confundido]
+  // abajo (lo que fallaste). Columna izquierda = rápido, derecha = lento. El
+  // color semáforo va al borde superior (regla del repo: oliva en border-top).
   const cuadros = [
     {
       n: dominado,
       titulo: 'Dominado',
-      señal: 'Correcto · rápido',
-      texto: 'Lo sabes y lo recuperas sin esfuerzo. No gastes tiempo de estudio aquí.',
+      texto:
+        'Lo sabes y lo recuperas sin esfuerzo. No gastes tiempo de estudio aquí.',
       color: 'text-military',
-      borde: 'border-l-military',
+      borde: 'border-t-military',
     },
     {
       n: fragil,
       titulo: 'Frágil',
-      señal: 'Correcto · lento',
       texto:
         'Acertaste, pero dudando. Con el cronómetro encima esto es lo primero que se cae. Repaso corto y repetido.',
       color: 'text-accent',
-      borde: 'border-l-accent',
-    },
-    {
-      n: confundido,
-      titulo: 'Confundido',
-      señal: 'Incorrecto · lento',
-      texto:
-        'Lo estudiaste y lo tienes cruzado con otra cosa. Es lo más recuperable: hay que separar los pares que confundes.',
-      color: 'text-destructive',
-      borde: 'border-l-destructive',
+      borde: 'border-t-accent',
     },
     {
       n: sinVer,
       titulo: 'Sin ver',
-      señal: 'Incorrecto · rápido',
       texto:
         'Ni lo intentaste — no lo has estudiado todavía. Se arregla leyendo, no repasando.',
       color: 'text-muted-foreground',
-      borde: 'border-l-border',
+      borde: 'border-t-border',
+    },
+    {
+      n: confundido,
+      titulo: 'Confundido',
+      texto:
+        'Lo estudiaste y lo tienes cruzado con otra cosa. Es lo más recuperable: hay que separar los pares que confundes.',
+      color: 'text-destructive',
+      borde: 'border-t-destructive',
     },
   ]
 
@@ -564,35 +571,41 @@ function DiagnosticoCultural({
         </h2>
         <p className="mt-1 max-w-2xl text-sm text-muted-foreground">
           Cruzando si acertaste con cuánto tardaste salen cuatro situaciones que
-          se arreglan distinto. Tu tiempo medio por pregunta fue de{' '}
-          {d.medianaSegundos} segundos.
+          se arreglan distinto. Tu ritmo típico fue de {d.medianaSegundos}{' '}
+          {d.medianaSegundos === 1 ? 'segundo' : 'segundos'} por pregunta; lo que
+          te tomó más que eso cuenta como «lento».
         </p>
-        <div className="mt-4 grid gap-3 sm:grid-cols-2">
-          {cuadros.map((c) => (
-            <div
-              key={c.titulo}
-              className={cn(
-                'rounded-xl border border-l-4 border-border bg-card p-5',
-                c.borde,
-              )}
-            >
-              <p
-                className={cn(
-                  'text-3xl font-semibold leading-none tracking-tight tabular-nums',
-                  c.color,
-                )}
-              >
-                {c.n}
-              </p>
-              <h3 className="mt-2 font-semibold text-foreground">{c.titulo}</h3>
-              <p className="text-[11px] font-semibold uppercase tracking-widest text-muted-foreground">
-                {c.señal}
-              </p>
-              <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
-                {c.texto}
-              </p>
-            </div>
-          ))}
+        {/* Matriz 2×2. Columnas = velocidad (rápido | lento), filas = resultado
+            (acerté | fallé). La POSICIÓN de cada grupo dice qué hacer con él, y
+            la diagonal va de lo mejor (dominado, arriba-izq.) a lo más
+            recuperable (confundido, abajo-der.). */}
+        <div className="mt-5 grid grid-cols-[1.5rem_1fr_1fr] gap-2 sm:grid-cols-[2.25rem_1fr_1fr] sm:gap-3">
+          {/* Encabezados de columna: la velocidad */}
+          <div aria-hidden />
+          <p className="pb-1 text-center text-[11px] font-semibold uppercase tracking-widest text-muted-foreground">
+            Rápido
+          </p>
+          <p className="pb-1 text-center text-[11px] font-semibold uppercase tracking-widest text-muted-foreground">
+            Lento
+          </p>
+
+          {/* Fila de arriba: lo que acertaste */}
+          <div className="flex items-center justify-center">
+            <span className="rotate-180 text-[11px] font-semibold uppercase tracking-widest text-military [writing-mode:vertical-rl]">
+              Acerté
+            </span>
+          </div>
+          <CeldaCuadrante c={cuadros[0]} />
+          <CeldaCuadrante c={cuadros[1]} />
+
+          {/* Fila de abajo: lo que fallaste */}
+          <div className="flex items-center justify-center">
+            <span className="rotate-180 text-[11px] font-semibold uppercase tracking-widest text-destructive [writing-mode:vertical-rl]">
+              Fallé
+            </span>
+          </div>
+          <CeldaCuadrante c={cuadros[2]} />
+          <CeldaCuadrante c={cuadros[3]} />
         </div>
         {confundido > sinVer && confundido > 0 && (
           <div className="mt-3 rounded-lg border border-dashed border-military/40 bg-military/5 px-4 py-3 text-sm text-muted-foreground">
@@ -606,6 +619,55 @@ function DiagnosticoCultural({
           </div>
         )}
       </section>
+
+      {/* Puente a la capa verde. Al cerrar el simulacro, RepasosService sembró
+          en la cola de Leitner lo que no quedó "dominado": los errores (caja 1)
+          y lo frágil (caja 2). Aquí se lo decimos al aspirante y lo mandamos a
+          estudiarlo cuando el sistema se lo devuelva. El número visible usa solo
+          los errores, que se siembran siempre; lo frágil se nombra sin cifra
+          hasta emparejar la mediana de la siembra con la del diagnóstico. */}
+      {errores + fragil > 0 && (
+        <section className="mt-8 rounded-xl border border-military/30 bg-military/5 p-6">
+          <div className="flex items-start gap-4">
+            <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-military/15">
+              <Sprout className="h-5 w-5 text-military" />
+            </div>
+            <div className="min-w-0 flex-1">
+              <h2 className="text-lg font-semibold tracking-tight text-foreground">
+                Estos errores no se quedan aquí
+              </h2>
+              <p className="mt-1 max-w-2xl text-sm text-muted-foreground">
+                {errores > 0 ? (
+                  <>
+                    Tus{' '}
+                    <span className="font-semibold text-foreground">
+                      {errores} {errores === 1 ? 'error' : 'errores'}
+                    </span>{' '}
+                    —y lo que acertaste dudando— ya están
+                  </>
+                ) : (
+                  <>Lo que acertaste dudando ya está</>
+                )}{' '}
+                en tu{' '}
+                <span className="font-semibold text-military">
+                  repaso espaciado
+                </span>
+                , la capa verde. No lo estudies de corrido hoy: el sistema te lo
+                va a ir devolviendo poco a poco —el primero mañana—, que es cuando
+                de verdad se fija. Lo que ya dominas no vuelve, para no gastarte el
+                tiempo.
+              </p>
+              <Link
+                href="/inicio/repaso"
+                className="mt-4 inline-flex items-center gap-1.5 rounded-md bg-military px-4 py-2 text-sm font-semibold text-military-foreground transition-colors hover:bg-military/90"
+              >
+                Ir a mi repaso
+                <ArrowRight className="h-4 w-4" />
+              </Link>
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Qué estudiar — un solo lugar: los temas de peor a mejor (antes vivían
           también en "Los temas que se te atoraron" y en "Desempeño por tema",
@@ -757,6 +819,39 @@ function DiagnosticoCultural({
          arriba, dentro de "Qué estudiar": era el mismo dato que "Desempeño por
          tema", y verlo dos veces era parte del scroll de más. */}
     </>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Una celda de la matriz 2×2 de cuadrantes: número grande en color semáforo,
+   título y qué hacer. El borde superior lleva el color; la posición en la
+   matriz (fila = resultado, columna = velocidad) la ponen los rótulos de eje.
+   ═══════════════════════════════════════════════════════════ */
+function CeldaCuadrante({
+  c,
+}: {
+  c: { n: number; titulo: string; texto: string; color: string; borde: string }
+}) {
+  return (
+    <div
+      className={cn(
+        'rounded-xl border border-border border-t-2 bg-card p-4 sm:p-5',
+        c.borde,
+      )}
+    >
+      <p
+        className={cn(
+          'text-3xl font-semibold leading-none tracking-tight tabular-nums',
+          c.color,
+        )}
+      >
+        {c.n}
+      </p>
+      <h3 className="mt-2 font-semibold text-foreground">{c.titulo}</h3>
+      <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+        {c.texto}
+      </p>
+    </div>
   )
 }
 
