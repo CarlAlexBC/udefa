@@ -8,8 +8,13 @@ generator client {
 }
 
 datasource db {
-  provider = "postgresql"
-  url      = env("DATABASE_URL")
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  // Conexión DIRECTA a Postgres (sin pooler) para migraciones e introspección.
+  // En producción DATABASE_URL apunta al POOLER (PgBouncer) y DIRECT_URL a la base
+  // directa; el pooler no soporta las operaciones que hace `prisma migrate`.
+  // En local ambas son la misma cadena.
+  directUrl = env("DIRECT_URL")
 }
 
 model Plantel {
