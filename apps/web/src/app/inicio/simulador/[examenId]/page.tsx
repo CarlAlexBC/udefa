@@ -455,7 +455,16 @@ export default function SimuladorPage({
   const esUltimoReactivoBloque = reactivoIndex === totalReactivosBloque - 1
 
   return (
-    <main className="flex h-dvh flex-col bg-background">
+    // Alto de pantalla con respaldo para teléfonos viejos de gama baja: la clase
+    // `h-screen` deja 100vh (lo entiende todo navegador) y el `style` en línea lo
+    // sube a 100dvh en los modernos. Los navegadores viejos (Chrome < 108, WebView
+    // antiguo de Android) ignoran `dvh` y se quedan con los 100vh, así la barra de
+    // navegación queda clavada también ahí. Va en línea a propósito: el compilador
+    // borraría un respaldo 100vh si lo pusiéramos como utilidad de Tailwind.
+    <main
+      className="flex h-screen flex-col bg-background"
+      style={{ height: '100dvh' }}
+    >
       {/* Barra superior: examen, bloque, progreso, timer */}
       <div className="shrink-0 border-b border-border bg-card">
         <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-6 py-3">
@@ -527,13 +536,16 @@ export default function SimuladorPage({
       </div>
 
       {/* Navegación — fila FIJA, fuera del scroll: nunca cambia de sitio, aunque
-          el enunciado o las opciones de arriba sean largos. */}
+          el enunciado o las opciones de arriba sean largos. En móvil los botones
+          suben a h-11 (44px) para ser cómodos al dedo; de sm en adelante vuelven
+          al h-8 (32px) del sistema de diseño. */}
       <div className="shrink-0 border-t border-border bg-background">
         <div className="mx-auto flex max-w-3xl items-center justify-between px-6 py-4">
           <Button
             variant="outline"
             onClick={() => irAReactivo(reactivoIndex - 1)}
             disabled={reactivoIndex === 0}
+            className="h-11 sm:h-8"
           >
             <ArrowLeft className="mr-1 h-4 w-4" />
             Anterior
@@ -542,13 +554,13 @@ export default function SimuladorPage({
           {esUltimoReactivoBloque ? (
             <Button
               onClick={pasarASiguienteBloque}
-              className="bg-accent text-accent-foreground hover:bg-accent/90"
+              className="h-11 bg-accent text-accent-foreground hover:bg-accent/90 sm:h-8"
             >
               {esUltimoBloque ? 'Finalizar examen' : 'Terminar bloque'}
               <ArrowRight className="ml-1 h-4 w-4" />
             </Button>
           ) : (
-            <Button onClick={() => irAReactivo(reactivoIndex + 1)}>
+            <Button onClick={() => irAReactivo(reactivoIndex + 1)} className="h-11 sm:h-8">
               Siguiente
               <ArrowRight className="ml-1 h-4 w-4" />
             </Button>
