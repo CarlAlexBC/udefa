@@ -701,6 +701,14 @@ function FondoCultural({ logoSrc }: { logoSrc: string | null }) {
             alt=""
             aria-hidden
             className="w-[min(520px,44vw)] max-w-none opacity-[0.16]"
+            style={{
+              // Difumina el borde del disco: nítido al centro, se funde a
+              // transparente por las orillas (sin aro duro).
+              WebkitMaskImage:
+                'radial-gradient(circle closest-side, #000 55%, transparent 100%)',
+              maskImage:
+                'radial-gradient(circle closest-side, #000 55%, transparent 100%)',
+            }}
           />
         </div>
       )}
