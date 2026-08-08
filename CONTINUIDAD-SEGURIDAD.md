@@ -25,18 +25,21 @@ f52c6d1) — no re-litigar:
   resuelven el plantel del USUARIO (`@UsuarioActual`), no de la URL.
 
 **LO QUE FALTA:**
-1. **Verificación de correo (#5)** — es lo único real por construir en código. El
-   campo `emailVerificado` existe en `schema.prisma` (default `false`) pero NO se usa:
-   sólo se lee en la lista de admin; no se manda correo de confirmación ni se bloquea
-   la cuenta sin verificar → cuentas basura / registro con correo ajeno.
-   ⛔ **DECISIÓN PREVIA DE CARLO PENDIENTE: con qué servicio se mandan los correos**
-   (Resend / SendGrid / SMTP). Sin eso no se arma el flujo. Pasos una vez elegido:
-   endpoint que genera token de verificación → correo con link → endpoint que marca
-   `emailVerificado=true` → decidir el "gate" (bloquear login, o sólo ciertas
-   funciones, hasta verificar).
+1. ~~Verificación de correo (#5)~~ → **RESUELTO POR DISEÑO (8 ago 2026).** Se iba a
+   construir para tapar cuentas basura, pero al cablearlo se descubrió que el **registro
+   público gratuito ya se retiró**: el único `@Post('registro')` (usuarios.controller.ts)
+   es solo-admin, y las cuentas de comprador nacen en `POST /pagos/registrar-y-pagar`.
+   Sin auto-registro libre no hay cuentas basura, y un candado en el login no gatearía a
+   nadie (comprador y admin serían auto-verificados). **Decisión (Carlo delegó): NO
+   construir el candado.** Se hizo backfill (17 usuarios → `emailVerificado=true`) y se
+   desinstaló `resend`. Reabrir sólo si algún día se re-activa el registro libre.
 2. **Higiene de deploy** (config, NO código; el frente de despliegue está PAUSADO):
    `NODE_ENV=production` (para que la cookie sea `Secure`), fijar `CORS_ORIGIN` y
    `COOKIE_DOMAIN` al dominio real (front y back en subdominios distintos).
+
+**Correo que SÍ aporta (PRODUCTO, no seguridad — para cuando quieras):** transaccional —
+recibo de compra, "tu acceso ya está listo", recuperación de contraseña. Ahí `resend`
+recupera sentido (`npm install resend` de nuevo). Es el siguiente paso natural de correo.
 
 Opcional: correr `/security-review` por si algo nuevo se coló desde la auditoría del
 26 jul.
