@@ -609,7 +609,8 @@ export class IntentosService {
   }
 
   /**
-   * Sesgo de respuesta y deseabilidad social (solo personalidad Sí/No).
+   * Sesgo de respuesta y deseabilidad social (solo personalidad; funciona igual
+   * para Sí/No del banco remaster y Verdadero/Falso del v3 vía direccionRespuesta).
    *
    * - porcentajeSi / porcentajeNo: distribución global de las respuestas
    * - indiceDeseabilidad: % de reactivos respondidos "en dirección socialmente
@@ -675,7 +676,7 @@ export class IntentosService {
   }
 
   /**
-   * Escalas de validez L, K y F — solo personalidad, solo banco remaster.
+   * Escalas de validez L, K y F — solo personalidad (banco remaster o v3).
    *
    * Los 297 reactivos-trampa del banco no miden ningún rasgo: miden si se le
    * puede creer al aspirante. Cada uno afirma algo que una persona honesta no
