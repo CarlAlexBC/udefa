@@ -55,7 +55,7 @@ y `CLAUDE.md`. Verifica el estado real en disco antes de afirmar (cuenta los eje
 
 ## Dónde vamos (ACTUALIZAR esta sección)
 
-- **Progreso: 32 de 33 ejes v3** (el 08 llenó su hueco; hay 30, 31, 32, 33 nuevos).
+- **Progreso: 33 de 33 ejes v3 — BANCO COMPLETO** (todos commiteados; último eje 29 en `084cab4`, 8 ago). Ya no queda redacción de ejes; lo que sigue es **activar el banco** (ver pendientes técnicos abajo).
 - **Los 9 valores militares oficiales: CERRADOS** (08, 10, 16, 17, 28, 30, 31, 32, 33).
 - **Eje 01 suicidio AMPLIADO** a 126 reactivos / 41 críticos (crudo, por el peso del examen real).
 - **Eje 03 ansiedad AMPLIADO** a 105 reactivos / 7 críticos (8 ago). Cruda, 3 ángulos nuevos
@@ -63,8 +63,8 @@ y `CLAUDE.md`. Verifica el estado real en disco antes de afirmar (cuenta los eje
 - **Eje 06 adicciones AMPLIADO** a 105 reactivos / 11 críticos (8 ago). Cruda, 2 ángulos nuevos
   (#86–105): consecuencias graves bajo efectos, dependencia física + pérdida de control sostenida.
   Filtro de no-consumidores traducido a V/F. 🎖=0.
-- **Falta 1 eje:**
-  - **29 valores aplicados** — parqueado; decisión de diseño (¿meta-eje de cierre o se integra?).
+- **Eje 29 valores aplicados: HECHO** (meta-eje de cierre, 90 react., ajuste V/F; 8 ago). Carlo
+  decidió **mantenerlo tal cual** (no integrarlo ni repartirlo). Con él, el banco cerró 33/33.
 - **Patrón "apertura + dejarse ayudar + autocuidado" (8 ago · DECIDIDO):** es la contraparte
   protectora de suicidio/depresión y **se queda DISTRIBUIDO** en ejes **04** (expresar/nombrar
   emociones, alexitimia), **14** (autocuidado) y **15** (vínculos/apoyo, aislamiento por convicción)
