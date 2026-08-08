@@ -193,7 +193,7 @@ function Dashboard({
           Hola, {perfil.nombre.split(' ')[0]}
         </h1>
         <p className="mt-2 text-sm text-muted-foreground">
-          Preparándote para el <span className="font-medium text-foreground">{plantel.nombre}</span>.
+          Preparándote para <span className="font-medium text-foreground">{plantel.nombre}</span>.
         </p>
       </div>
 
@@ -272,16 +272,28 @@ function Dashboard({
             bloqueado={bloqueadoPsico}
           />
           {/* El simulador cultural completo vive arriba, con el psicológico.
-              Este espacio queda para practicar UNA materia sin cronómetro,
-              que es lo que pide el panel de resultados cuando señala en qué
-              páginas fallaste. Todavía no existe. */}
-          <ExamenCTA
-            fase="Fase 04"
-            titulo="Cultural por materia"
-            descripcion={`Practica sólo ${unirMaterias(materiasCultural, 'o')}, sin cronómetro y con la referencia del libro a la mano.`}
-            icono={<BookOpen className="h-5 w-5 text-accent" />}
-            proximamente
-          />
+              Esta tarjeta es para practicar UNA materia sin cronómetro, con
+              corrección inmediata y la cita del libro — lo que pide el panel de
+              resultados cuando señala en qué páginas fallaste. Sólo se activa si
+              el plantel ya tiene examen cultural; si no, queda "próximamente". */}
+          {examenCultural ? (
+            <ExamenCTA
+              href="/inicio/practica-cultural"
+              fase="Fase 04"
+              titulo="Cultural por materia"
+              descripcion={`Practica sólo ${unirMaterias(materiasCultural, 'o')}, sin cronómetro y con la referencia del libro a la mano.`}
+              icono={<BookOpen className="h-5 w-5 text-accent" />}
+              bloqueado={bloqueadoCultural}
+            />
+          ) : (
+            <ExamenCTA
+              fase="Fase 04"
+              titulo="Cultural por materia"
+              descripcion={`Practica sólo ${unirMaterias(materiasCultural, 'o')}, sin cronómetro y con la referencia del libro a la mano.`}
+              icono={<BookOpen className="h-5 w-5 text-accent" />}
+              proximamente
+            />
+          )}
         </div>
       </section>
 

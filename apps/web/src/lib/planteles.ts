@@ -27,3 +27,16 @@ const LOGOS_POR_NOMBRE: Record<string, string> = {
 export function logoDePlantel(nombre: string): string | null {
   return LOGOS_POR_NOMBRE[nombre] ?? null
 }
+
+/**
+ * Igual que logoDePlantel pero devuelve el **emblema sin letras**: el sello
+ * recortado a su medallón central, sin el aro de texto con el nombre del
+ * plantel. Viven en apps/web/public/planteles/emblema/ y se generan a partir
+ * de los sellos oficiales. Úsalo cuando el escudo va de adorno (marca de agua
+ * de fondo, insignia chica) y el nombre estorba; para identificar el plantel
+ * con su nombre legible, usa logoDePlantel.
+ */
+export function emblemaDePlantel(nombre: string): string | null {
+  const logo = LOGOS_POR_NOMBRE[nombre]
+  return logo ? logo.replace('/planteles/', '/planteles/emblema/') : null
+}

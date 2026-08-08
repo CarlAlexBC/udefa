@@ -289,6 +289,246 @@ export class ExamenesService {
     return { tipo: 'cultural', plantel, carrera: carrera.carrera, anio: carrera.anio, bloques };
   }
 
+  /* ═══════════════════════════════════════════════════════════
+     PRÁCTICA CULTURAL POR MATERIA (Fase 04)
+
+     Practicar UNA materia del propio plantel, sin cronómetro, con
+     corrección inmediata + cita del libro. Reusa el árbol de oferta
+     (los MISMOS reactivos que el simulador) y la corrección del
+     repaso, pero NO toca la cola de Leitner (v1: práctica separada).
+     ═══════════════════════════════════════════════════════════ */
+
+  /**
+   * Normaliza las materias del examen cultural de un plantel a
+   * { nombre, capituloIds } — un solo camino para contar y sortear reactivos.
+   * Prefiere las tablas Temario (editables desde el panel de Reparto); si el
+   * plantel no tiene Temario PUBLICADO, cae al puente JSON, igual que el
+   * simulador. Devuelve [] si el plantel no tiene demanda cultural resoluble
+   * (p. ej. un plantel todavía no cableado).
+   */
+  private async resolverMateriasCultural(
+    plantelId: number,
+    plantelNombre: string,
+    anio: number | null,
+  ): Promise<{ nombre: string; capituloIds: number[] }[]> {
+    // Fuente NUEVA: las tablas Temario.
+    const temario = await this.prisma.temario.findFirst({
+      where: { plantelId, estado: 'PUBLICADO', ...(anio != null ? { anio } : {}) },
+      orderBy: { anio: 'desc' },
+      include: {
+        materias: {
+          orderBy: { orden: 'asc' },
+          include: { capitulos: { select: { capituloId: true } } },
+        },
+      },
+    });
+    if (temario) {
+      return temario.materias.map((m) => ({
+        nombre: m.nombre,
+        capituloIds: m.capitulos.map((c) => c.capituloId),
+      }));
+    }
+
+    // RESPALDO: puente JSON (planteles que aún no tienen Temario en tablas).
+    const codigo = this.CODIGO_POR_PLANTEL[plantelNombre];
+    if (!codigo) return [];
+    const puente: Record<
+      string,
+      Record<string, { slug: string; capitulos: number[] }>
+    > = JSON.parse(
+      fs.readFileSync(this.rutaCultural('puente-oferta-demanda.json'), 'utf8'),
+    ).puente;
+    const seleccion = puente[codigo];
+    if (!seleccion) return [];
+    const temarios = JSON.parse(
+      fs.readFileSync(this.rutaCultural('temarios.json'), 'utf8'),
+    );
+    const carrera = (temarios.carreras ?? []).find(
+      (c: any) => c.plantel === codigo,
+    );
+    if (!carrera) return [];
+
+    const materias: { nombre: string; capituloIds: number[] }[] = [];
+    for (const m of carrera.materias ?? []) {
+      const cod = m.codigo_normalizado || m.codigo;
+      const sel = seleccion[cod];
+      if (!sel || sel.capitulos.length === 0) continue;
+      // slug + números de capítulo → ids de Capítulo, para unificar con el
+      // camino de las tablas (todo termina en capituloIds).
+      const caps = await this.prisma.capitulo.findMany({
+        where: { libro: { slug: sel.slug }, numero: { in: sel.capitulos } },
+        select: { id: true },
+      });
+      if (caps.length === 0) continue;
+      materias.push({ nombre: m.nombre, capituloIds: caps.map((c) => c.id) });
+    }
+    return materias;
+  }
+
+  /** El plantel del usuario (id + nombre), o 404 si no tiene uno asignado. */
+  private async plantelDelUsuario(usuarioId: number) {
+    const usuario = await this.prisma.usuario.findUnique({
+      where: { id: usuarioId },
+      select: { plantelId: true },
+    });
+    if (!usuario?.plantelId) {
+      throw new NotFoundException('No tienes un plantel asignado.');
+    }
+    const plantel = await this.prisma.plantel.findUnique({
+      where: { id: usuario.plantelId },
+      select: { nombre: true },
+    });
+    if (!plantel) {
+      throw new NotFoundException('Tu plantel no existe.');
+    }
+    return { plantelId: usuario.plantelId, nombre: plantel.nombre };
+  }
+
+  /**
+   * Materias del examen cultural del plantel del usuario, con cuántos reactivos
+   * hay disponibles en cada una. Alimenta el selector de la Fase 04.
+   */
+  async materiasPracticaCultural(usuarioId: number) {
+    const { plantelId, nombre } = await this.plantelDelUsuario(usuarioId);
+    const materias = await this.resolverMateriasCultural(plantelId, nombre, null);
+
+    const lista = await Promise.all(
+      materias.map(async (m) => ({
+        materia: m.nombre,
+        disponibles:
+          m.capituloIds.length === 0
+            ? 0
+            : await this.prisma.reactivo.count({
+                where: {
+                  banco: 'cultural',
+                  temaBanco: { capituloId: { in: m.capituloIds } },
+                },
+              }),
+      })),
+    );
+    // El nombre del plantel alimenta el encabezado del selector (Fase 04).
+    return { plantel: nombre, materias: lista };
+  }
+
+  /**
+   * Los temas (capítulos del temario) de UNA materia del plantel del usuario,
+   * cada uno con cuántos reactivos tiene. Alimenta el desglose por tema del
+   * selector de la Fase 04, para practicar un capítulo suelto. Sólo devuelve
+   * los capítulos con reactivos (los vacíos no se pueden practicar).
+   */
+  async temasPracticaCultural(usuarioId: number, materia: string) {
+    const { plantelId, nombre } = await this.plantelDelUsuario(usuarioId);
+    const materias = await this.resolverMateriasCultural(plantelId, nombre, null);
+    const elegida = materias.find((m) => m.nombre === materia);
+    if (!elegida) {
+      throw new NotFoundException(
+        `La materia "${materia}" no está en tu examen cultural.`,
+      );
+    }
+    if (elegida.capituloIds.length === 0) return [];
+
+    // Un capítulo = un "tema del temario" (05 División, 06 Productos…). El
+    // conteo sale de los reactivos culturales que cuelgan de sus Temas.
+    const filas = await this.prisma.$queryRaw<
+      Array<{ capituloId: number; numero: number; titulo: string; disponibles: bigint }>
+    >(Prisma.sql`
+      SELECT c.id AS "capituloId", c.numero, c.titulo, COUNT(r.id) AS disponibles
+      FROM "Capitulo" c
+      JOIN "Tema" t ON t."capituloId" = c.id
+      LEFT JOIN "Reactivo" r ON r."temaId" = t.id AND r.banco = 'cultural'
+      WHERE c.id IN (${Prisma.join(elegida.capituloIds)})
+      GROUP BY c.id, c.numero, c.titulo
+      HAVING COUNT(r.id) > 0
+      ORDER BY c.numero ASC
+    `);
+    return filas.map((f) => ({
+      capituloId: f.capituloId,
+      numero: Number(f.numero),
+      titulo: f.titulo,
+      disponibles: Number(f.disponibles),
+    }));
+  }
+
+  /**
+   * N reactivos aleatorios de UNA materia del plantel del usuario, barajados y
+   * SIN la respuesta correcta (se revela sólo al calificar). El sorteo lo hace
+   * la base (ORDER BY random() LIMIT n), igual que el simulador.
+   */
+  async armarPracticaCultural(
+    usuarioId: number,
+    materia: string,
+    n: number,
+    capituloId?: number,
+  ) {
+    const cuantos = Math.min(Math.max(1, Math.floor(n) || 20), 50);
+    const { plantelId, nombre } = await this.plantelDelUsuario(usuarioId);
+    const materias = await this.resolverMateriasCultural(plantelId, nombre, null);
+    const elegida = materias.find((m) => m.nombre === materia);
+    if (!elegida) {
+      throw new NotFoundException(
+        `La materia "${materia}" no está en tu examen cultural.`,
+      );
+    }
+
+    // Si el aspirante pidió UN solo capítulo (un tema del temario), lo acotamos —
+    // pero sólo si ese capítulo pertenece a SU materia, no a una ajena.
+    let capituloIds = elegida.capituloIds;
+    if (capituloId != null) {
+      if (!capituloIds.includes(capituloId)) {
+        throw new NotFoundException(
+          `Ese tema no pertenece a la materia "${materia}".`,
+        );
+      }
+      capituloIds = [capituloId];
+    }
+    if (capituloIds.length === 0) {
+      return { materia: elegida.nombre, reactivos: [] };
+    }
+
+    // OJO: sin respuestaCorrecta — la respuesta NO se filtra al cliente.
+    const disponibles = await this.prisma.$queryRaw<
+      Array<{ id: number; enunciado: string; opciones: unknown; tema: string | null }>
+    >(Prisma.sql`
+      SELECT r.id, r.enunciado, r.opciones, r.tema
+      FROM "Reactivo" r
+      JOIN "Tema" t ON t.id = r."temaId"
+      WHERE r.banco = 'cultural'
+        AND t."capituloId" IN (${Prisma.join(capituloIds)})
+      ORDER BY random()
+      LIMIT ${cuantos}
+    `);
+    // Baraja las opciones POR PETICIÓN para que fije el dato y no la posición.
+    const reactivos = disponibles.map((r) => ({
+      ...r,
+      opciones: this.mezclar(r.opciones as string[]),
+    }));
+    return { materia: elegida.nombre, reactivos };
+  }
+
+  /**
+   * Califica UNA respuesta de práctica cultural y devuelve la corrección con la
+   * cita del libro (la misma forma que el repaso). NO toca la cola de Leitner.
+   * Compara por TEXTO (las opciones se barajan), no por letra.
+   */
+  async calificarPracticaCultural(
+    reactivoId: number,
+    respuestaSeleccionada: string,
+  ) {
+    const reactivo = await this.prisma.reactivo.findFirst({
+      where: { id: reactivoId, banco: 'cultural' },
+      select: { respuestaCorrecta: true, explicacion: true, referencia: true },
+    });
+    if (!reactivo) {
+      throw new NotFoundException('Reactivo cultural no encontrado.');
+    }
+    return {
+      esCorrecta: reactivo.respuestaCorrecta === respuestaSeleccionada,
+      respuestaCorrecta: reactivo.respuestaCorrecta,
+      explicacion: reactivo.explicacion,
+      referencia: reactivo.referencia,
+    };
+  }
+
   /**
    * Arma los bloques del examen cultural LEYENDO LAS TABLAS (Temario → MateriaTemario
    * → MateriaTemarioCapitulo), la fuente nueva editable desde el panel. El reparto
