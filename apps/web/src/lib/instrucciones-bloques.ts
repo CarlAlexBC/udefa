@@ -82,13 +82,13 @@ export const INSTRUCCIONES_POR_BLOQUE: Record<string, InstruccionesBloque> = {
   'Reactivos de Personalidad': {
     titulo: 'Examen de Personalidad',
     instrucciones:
-      'Cada reactivo es una afirmación breve sobre cómo eres o cómo reaccionas. Responde Sí o No según se ajuste a ti. No hay respuestas correctas o incorrectas — el sistema evalúa la coherencia entre tus respuestas a lo largo del examen. Responde con honestidad y consistencia.',
+      'Cada reactivo es una afirmación breve sobre cómo eres o cómo reaccionas. Marca Verdadero o Falso según se ajuste a ti. No hay respuestas correctas o incorrectas — el sistema evalúa la coherencia entre tus respuestas a lo largo del examen. Responde con honestidad y consistencia.',
     ejemplo: {
       enunciado: 'Me interesa conocer cómo afectan mis acciones a otros.',
-      opciones: ['Sí', 'No'],
+      opciones: ['Verdadero', 'Falso'],
       respuestaCorrecta: null,
       explicacion:
-        'Este reactivo no tiene una respuesta correcta. Evalúa dimensiones como empatía y conciencia social. Cada reactivo pertenece a un tema y tiene una polaridad — algunos afirman rasgos positivos, otros los niegan. El sistema cruza tus respuestas del mismo tema: si dices "Sí" a "me interesa lo que sienten otros" y también "Sí" a "los sentimientos de los demás me dan igual", detecta una contradicción. Responde reflejando tu forma real de ser, no lo que crees que se espera.',
+        'Este reactivo no tiene una respuesta correcta. Evalúa dimensiones como empatía y conciencia social. Cada reactivo pertenece a un tema y tiene una polaridad — algunos afirman rasgos positivos, otros los niegan. El sistema cruza tus respuestas del mismo tema: si marcas "Verdadero" a "me interesa lo que sienten otros" y también "Verdadero" a "los sentimientos de los demás me dan igual", detecta una contradicción. Responde reflejando tu forma real de ser, no lo que crees que se espera.',
     },
     notaEspecial:
       'Este examen no se califica por aciertos. Se analiza tu perfil buscando contradicciones internas entre reactivos del mismo tema. Respuestas forzadas o poco naturales generan un perfil inconsistente.',
