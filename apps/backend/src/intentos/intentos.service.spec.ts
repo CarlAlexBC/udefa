@@ -117,4 +117,34 @@ describe('IntentosService · detectarSenalesCriticas', () => {
     expect(detectar([resp(1, 6, 'si')]).nivel).toBe('alerta');
     expect(detectar([resp(1, 6, '')]).nivel).toBe('ninguna');
   });
+
+  // --- Escala Verdadero/Falso (banco v3) — mismo scoring, otra escala ---
+
+  it('v3: levanta alerta con un crítico del eje 1 en "Verdadero"', () => {
+    const out = detectar([resp(1, 6, 'Verdadero')]);
+    expect(out.nivel).toBe('alerta');
+    expect(out.senalesCrisis).toBe(1);
+  });
+
+  it('v3: no levanta nada cuando el crítico va en "Falso"', () => {
+    expect(detectar([resp(1, 6, 'Falso')]).nivel).toBe('ninguna');
+  });
+
+  it('v3: alerta máxima con 71 Verdadero + 72 Verdadero + 73 Falso', () => {
+    const out = detectar([
+      resp(1, 71, 'Verdadero'),
+      resp(1, 72, 'Verdadero'),
+      pactoDeCrisis('Falso'),
+    ]);
+    expect(out.nivel).toBe('alerta_maxima');
+    expect(out.combinacionEvaluable).toBe(true);
+  });
+
+  it('v3: lee el riesgo por polaridad en V/F (e10#88 POSITIVA → riesgo = Falso)', () => {
+    const critico = { polaridad: 'POSITIVA', tema: 'disciplina' };
+    expect(detectar([resp(10, 88, 'Falso', critico)]).hallazgosPorTema).toEqual({
+      disciplina: 1,
+    });
+    expect(detectar([resp(10, 88, 'Verdadero', critico)]).hallazgosPorTema).toEqual({});
+  });
 });
