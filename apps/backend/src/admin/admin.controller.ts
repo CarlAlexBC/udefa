@@ -49,4 +49,13 @@ export class AdminController {
   canarios() {
     return this.adminService.canarios();
   }
+
+  /**
+   * Bancos del sistema: cuál se sirve de verdad y cuál sigue guardado sin uso.
+   * Ver AdminService.bancos.
+   */
+  @Get('bancos')
+  bancos() {
+    return this.adminService.bancos();
+  }
 }

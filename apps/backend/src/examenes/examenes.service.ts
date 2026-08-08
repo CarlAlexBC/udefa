@@ -28,6 +28,24 @@ const BANCO_POR_TIPO: Record<string, string> = {
 };
 
 /**
+ * Bancos que HOY sirven un examen real, y a qué examen alimentan.
+ *
+ * Es la fuente de verdad del panel de admin ("Bancos del sistema"): lo que no
+ * aparece aquí sigue guardado en la base pero ningún aspirante lo ve. Si algún
+ * día se cambia el banco vivo, se cambia aquí y el panel lo refleja solo — la
+ * idea es que la pantalla nunca pueda mentir sobre qué se está sirviendo.
+ *
+ * OJO con el cultural: NO se sirve por `BANCO_POR_TIPO` (ese `'cultural-hcm'`
+ * es el camino plano viejo, que quedó de respaldo sin uso). El examen cultural
+ * real se arma del árbol de oferta, y esas consultas filtran `banco = 'cultural'`
+ * (ver armarBloquesDesdeTemario). Por eso aquí se declara 'cultural'.
+ */
+export const BANCOS_EN_USO: Record<string, string> = {
+  [BANCO_DIAGNOSTICO]: 'Simulador de personalidad',
+  cultural: 'Examen cultural (todos los planteles)',
+};
+
+/**
  * Unidad mínima de muestreo. No es el reactivo: es el grupo que tiene que
  * viajar junto al examen para que el análisis funcione.
  *

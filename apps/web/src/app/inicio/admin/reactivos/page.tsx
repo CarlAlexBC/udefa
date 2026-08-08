@@ -32,7 +32,18 @@ type Reactivo = {
   explicacion: string | null
   referencia: string | null
   tema: string | null
-  polaridad: 'POSITIVA' | 'NEGATIVA' | null
+  polaridad: 'POSITIVA' | 'NEGATIVA' | 'TRAMPA' | null
+  // Ingeniería del banco v3 (nulos en Psicométrico/Axiológico, así que la UI
+  // que los usa se auto-activa solo donde hay datos).
+  eje: number | null
+  subLote: number | null
+  numeroEnEje: number | null
+  parNumero: number | null
+  tipoTrampa: 'L' | 'K' | 'F' | 'CROSS' | null
+  esCritico: boolean
+  subnota: string | null
+  marco: string | null
+  banco: string | null
   bloque: {
     id: number
     nombre: string
@@ -62,6 +73,28 @@ const OPCIONES_POLARIDAD: Array<{
   { valor: 'NEGATIVA', label: 'Negativa' },
 ]
 
+// Selector de banco para Personalidad. null = todos los bancos (incluye el v1
+// viejo de slugs largos). El backend ya acepta `banco=…`.
+//
+// Cuál está VIVO no se escribe aquí a propósito: la etiqueta la pone el backend
+// (GET /admin/bancos), porque una etiqueta escrita a mano queda mintiendo en
+// cuanto se cambia de banco.
+const OPCIONES_BANCO: Array<{ valor: 'v3' | 'remaster' | null; label: string }> = [
+  { valor: 'v3', label: 'v3' },
+  { valor: 'remaster', label: 'remaster' },
+  { valor: null, label: 'Todos' },
+]
+
+/** Un banco del sistema, como lo reporta GET /admin/bancos. */
+type BancoEstado = {
+  banco: string
+  reactivos: number
+  /** true = hoy alimenta un examen real; false = sigue guardado sin usarse. */
+  enUso: boolean
+  /** A qué examen alimenta, o null si no se usa. */
+  sirve: string | null
+}
+
 // El backend fija estos IDs (Examen 1=Psicométrico, 2=Personalidad, 3=Axiológico).
 const FASES: Array<{
   id: number
@@ -84,6 +117,11 @@ export default function BancoPsicologicoPage() {
   const [faseSel, setFaseSel] = useState<number | null>(null)
   const [temaSel, setTemaSel] = useState<string | null>(null)
 
+  // Banco a mostrar en Personalidad (fase 2). Por defecto 'v3' (el banco vivo);
+  // el selector deja ver los viejos. null = todos los bancos. Solo aplica a la
+  // fase 2: las otras fases no usan el esquema de bancos.
+  const [bancoSel, setBancoSel] = useState<'v3' | 'remaster' | null>('v3')
+
   // Buscador. `search` es lo que se teclea; `searchAplicado` es el valor ya
   // debounced con el que de verdad se consulta.
   const [search, setSearch] = useState('')
@@ -91,6 +129,10 @@ export default function BancoPsicologicoPage() {
 
   // Conteo por fase para las tarjetas del overview. Se pide una vez.
   const [conteosFase, setConteosFase] = useState<Record<number, number>>({})
+
+  // Qué bancos existen y cuál se está sirviendo de verdad. Lo dice el backend,
+  // que es quien lo decide; así la pantalla no puede quedar desfasada.
+  const [bancos, setBancos] = useState<BancoEstado[] | null>(null)
 
   const enBusqueda = search.trim() !== ''
   const fase = FASES.find((f) => f.id === faseSel) ?? null
@@ -105,6 +147,12 @@ export default function BancoPsicologicoPage() {
         setConteosFase(map)
       })
       .catch(() => {})
+  }, [])
+
+  useEffect(() => {
+    apiFetch<BancoEstado[]>('/admin/bancos')
+      .then(setBancos)
+      .catch(() => setBancos(null))
   }, [])
 
   // Debounce del buscador.
@@ -131,6 +179,9 @@ export default function BancoPsicologicoPage() {
           propio apartado, Banco cultural.
         </p>
       </div>
+
+      {/* Qué banco se está sirviendo de verdad y qué sigue guardado sin uso. */}
+      <TablaBancos bancos={bancos} />
 
       {/* Buscador global — siempre visible; al escribir, salta el árbol. */}
       <div className="relative mb-5">
@@ -175,7 +226,22 @@ export default function BancoPsicologicoPage() {
       ) : temaSel === null ? (
         <>
           <Migas fase={fase.nombre} onFases={() => setFaseSel(null)} />
-          <TemasDeFase faseId={fase.id} onElegir={setTemaSel} />
+          {fase.id === 2 && (
+            <SelectorBanco
+              seleccion={bancoSel}
+              bancos={bancos}
+              onCambiar={(b) => {
+                setBancoSel(b)
+                setTemaSel(null)
+              }}
+            />
+          )}
+          <TemasDeFase
+            key={`temas:${fase.id}:${bancoSel ?? 'todos'}`}
+            faseId={fase.id}
+            banco={fase.id === 2 ? bancoSel : null}
+            onElegir={setTemaSel}
+          />
         </>
       ) : (
         <>
@@ -186,8 +252,10 @@ export default function BancoPsicologicoPage() {
             onFase={() => setTemaSel(null)}
           />
           <ListaReactivosEditable
-            key={`tema:${fase.id}:${temaSel}`}
-            queryBase={`examenId=${fase.id}&tema=${encodeURIComponent(temaSel)}`}
+            key={`tema:${fase.id}:${temaSel}:${bancoSel ?? 'todos'}`}
+            queryBase={`examenId=${fase.id}&tema=${encodeURIComponent(temaSel)}${
+              fase.id === 2 && bancoSel ? `&banco=${bancoSel}` : ''
+            }`}
             mostrarFase={false}
           />
         </>
@@ -253,9 +321,11 @@ function FasesOverview({
 
 function TemasDeFase({
   faseId,
+  banco,
   onElegir,
 }: {
   faseId: number
+  banco: 'v3' | 'remaster' | null
   onElegir: (tema: string) => void
 }) {
   const [temas, setTemas] = useState<TemaConteo[] | null>(null)
@@ -267,16 +337,18 @@ function TemasDeFase({
     setCargando(true)
     setError('')
 
+    const qs = `examenId=${faseId}${banco ? `&banco=${banco}` : ''}`
+
     // Preferimos el endpoint con conteo; si el backend aún no lo tiene (no se
     // ha reiniciado), caemos al de solo nombres para que la vista no se rompa.
-    apiFetch<TemaConteo[]>(`/reactivos/temas-conteo?examenId=${faseId}`)
+    apiFetch<TemaConteo[]>(`/reactivos/temas-conteo?${qs}`)
       .then((data) => {
         if (!vivo) return
         setTemas(data)
         setCargando(false)
       })
       .catch(() => {
-        apiFetch<string[]>(`/reactivos/temas?examenId=${faseId}`)
+        apiFetch<string[]>(`/reactivos/temas?${qs}`)
           .then((nombres) => {
             if (!vivo) return
             setTemas(nombres.map((t) => ({ tema: t, total: 0 })))
@@ -292,7 +364,7 @@ function TemasDeFase({
     return () => {
       vivo = false
     }
-  }, [faseId])
+  }, [faseId, banco])
 
   if (cargando) return <Cargando />
   if (error) return <ErrorBox mensaje={error} />
@@ -486,6 +558,7 @@ function ListaReactivosEditable({
                   )}
                   <td className="max-w-md px-3 py-2 text-xs text-foreground">
                     <p className="line-clamp-2">{r.enunciado}</p>
+                    <ChipsReactivo r={r} />
                   </td>
                   <td className="px-3 py-2">
                     <PolaridadBadge polaridad={r.polaridad} />
@@ -608,22 +681,213 @@ function Vacio({ texto }: { texto: string }) {
 function PolaridadBadge({
   polaridad,
 }: {
-  polaridad: 'POSITIVA' | 'NEGATIVA' | null
+  polaridad: 'POSITIVA' | 'NEGATIVA' | 'TRAMPA' | null
 }) {
   if (!polaridad) {
     return <span className="text-xs text-muted-foreground/60">—</span>
   }
+  const config = {
+    POSITIVA: { label: 'Positiva', className: 'bg-emerald-500/10 text-emerald-600' },
+    NEGATIVA: { label: 'Negativa', className: 'bg-rose-500/10 text-rose-600' },
+    TRAMPA: { label: 'Trampa', className: 'bg-amber-500/10 text-amber-700' },
+  }[polaridad]
   return (
     <span
       className={cn(
         'inline-flex items-center rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest',
-        polaridad === 'POSITIVA'
-          ? 'bg-emerald-500/10 text-emerald-600'
-          : 'bg-rose-500/10 text-rose-600',
+        config.className,
       )}
     >
-      {polaridad === 'POSITIVA' ? 'Positiva' : 'Negativa'}
+      {config.label}
     </span>
+  )
+}
+
+/* ── Chips de ingeniería (banco v3) ────────────────────────────────
+   Cada reactivo v3 lleva señales: si es crítico, si es una trampa (L/K/F),
+   si el concepto es militar (🎖 en el enunciado) y a qué reactivo lo empareja
+   (par→N). Se pintan como chips bajo el enunciado. En Psicométrico/Axiológico
+   los campos son nulos, así que no aparece ninguno. */
+
+const CHIP_TONOS = {
+  critico: 'bg-rose-500/15 text-rose-600 ring-1 ring-inset ring-rose-500/30',
+  trampa: 'bg-amber-500/15 text-amber-700',
+  militar: 'bg-military/15 text-military',
+  par: 'bg-violet-500/10 text-violet-600',
+  locator: 'bg-muted text-muted-foreground',
+} as const
+
+function Chip({
+  tono,
+  children,
+}: {
+  tono: keyof typeof CHIP_TONOS
+  children: React.ReactNode
+}) {
+  return (
+    <span
+      className={cn(
+        'inline-flex items-center rounded px-1.5 py-0.5 text-[10px] font-semibold',
+        CHIP_TONOS[tono],
+      )}
+    >
+      {children}
+    </span>
+  )
+}
+
+function ChipsReactivo({ r }: { r: Reactivo }) {
+  const esMilitar = r.enunciado.includes('🎖')
+  const chips: React.ReactNode[] = []
+  if (r.eje !== null && r.numeroEnEje !== null)
+    chips.push(
+      <Chip key="loc" tono="locator">
+        e{r.eje}·{r.numeroEnEje}
+      </Chip>,
+    )
+  if (r.esCritico)
+    chips.push(
+      <Chip key="cri" tono="critico">
+        Crítico
+      </Chip>,
+    )
+  if (r.tipoTrampa)
+    chips.push(
+      <Chip key="tra" tono="trampa">
+        Trampa {r.tipoTrampa}
+      </Chip>,
+    )
+  if (esMilitar)
+    chips.push(
+      <Chip key="mil" tono="militar">
+        🎖
+      </Chip>,
+    )
+  if (r.parNumero !== null)
+    chips.push(
+      <Chip key="par" tono="par">
+        par→{r.parNumero}
+      </Chip>,
+    )
+  if (chips.length === 0) return null
+  return <div className="mt-1.5 flex flex-wrap items-center gap-1">{chips}</div>
+}
+
+/**
+ * Bancos del sistema — responde de un vistazo "¿cuál se está usando?".
+ *
+ * Conviven varias generaciones del banco (v1 → remaster → v3, y los culturales).
+ * Los que no están EN USO siguen guardados en la base, pero ningún aspirante los
+ * ve. El estado lo dice el backend, no esta pantalla.
+ */
+function TablaBancos({ bancos }: { bancos: BancoEstado[] | null }) {
+  if (!bancos || bancos.length === 0) return null
+
+  return (
+    <div className="mb-5 overflow-hidden rounded-xl border border-border bg-card">
+      <div className="flex flex-wrap items-baseline gap-x-2 border-b border-border px-4 py-2.5">
+        <h2 className="text-sm font-semibold text-foreground">
+          Bancos del sistema
+        </h2>
+        <p className="text-xs text-muted-foreground">
+          · lo que está <span className="font-medium text-military">en uso</span> es
+          lo que ve el aspirante; lo demás sigue guardado, sin usarse
+        </p>
+      </div>
+      <table className="w-full text-sm">
+        <tbody>
+          {bancos.map((b) => (
+            <tr key={b.banco} className="border-b border-border/60 last:border-0">
+              <td className="px-4 py-2">
+                <span className="font-mono text-xs text-foreground">{b.banco}</span>
+              </td>
+              <td className="px-4 py-2 text-right tabular-nums text-muted-foreground">
+                {b.reactivos.toLocaleString('es-MX')}
+                <span className="ml-1 text-xs">reactivos</span>
+              </td>
+              <td className="px-4 py-2">
+                {b.enUso ? (
+                  <span className="inline-flex items-center gap-1.5 rounded-full bg-military/10 px-2 py-0.5 text-[10px] font-bold uppercase tracking-widest text-military">
+                    <span className="h-1.5 w-1.5 rounded-full bg-military" />
+                    En uso
+                  </span>
+                ) : (
+                  <span className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+                    Sin uso
+                  </span>
+                )}
+              </td>
+              <td className="px-4 py-2 text-xs text-muted-foreground">
+                {b.sirve ?? '—'}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  )
+}
+
+/**
+ * Filtro segmentado de banco para Personalidad (v3 / remaster / Todos).
+ *
+ * La marca "vivo" sale de `bancos` (el backend), no de una lista escrita a mano:
+ * si mañana se cambia el banco que sirve el simulador, esta etiqueta lo sigue
+ * sola en vez de quedarse mintiendo.
+ */
+function SelectorBanco({
+  seleccion,
+  bancos,
+  onCambiar,
+}: {
+  seleccion: 'v3' | 'remaster' | null
+  bancos: BancoEstado[] | null
+  onCambiar: (v: 'v3' | 'remaster' | null) => void
+}) {
+  const estaVivo = (valor: string | null) =>
+    valor !== null && Boolean(bancos?.find((b) => b.banco === valor)?.enUso)
+
+  return (
+    <div className="mb-3 flex items-center gap-2">
+      <span className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+        Banco
+      </span>
+      <div className="inline-flex items-center gap-0.5 rounded-lg border border-border bg-card p-0.5 shadow-sm">
+        {OPCIONES_BANCO.map((opt) => {
+          const activo = seleccion === opt.valor
+          const vivo = estaVivo(opt.valor)
+          return (
+            <button
+              key={opt.label}
+              type="button"
+              onClick={() => onCambiar(opt.valor)}
+              title={
+                vivo
+                  ? 'Es el banco que el simulador está sirviendo hoy'
+                  : undefined
+              }
+              className={cn(
+                'inline-flex items-center gap-1.5 rounded-md px-3 py-1 text-xs font-medium transition-colors',
+                activo
+                  ? 'bg-accent text-accent-foreground'
+                  : 'text-muted-foreground hover:text-foreground',
+              )}
+            >
+              {opt.label}
+              {vivo && (
+                <span
+                  className={cn(
+                    'h-1.5 w-1.5 rounded-full',
+                    activo ? 'bg-accent-foreground' : 'bg-military',
+                  )}
+                  aria-label="en uso"
+                />
+              )}
+            </button>
+          )
+        })}
+      </div>
+    </div>
   )
 }
 

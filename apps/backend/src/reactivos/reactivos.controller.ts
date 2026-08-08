@@ -52,9 +52,13 @@ export class ReactivosController {
    * no lo confunda con el patrón `:id`.
    */
   @Get('temas')
-  listarTemas(@Query('examenId') examenId?: string) {
+  listarTemas(
+    @Query('examenId') examenId?: string,
+    @Query('banco') banco?: string,
+  ) {
     return this.reactivosService.listarTemas(
       examenId ? Number(examenId) : undefined,
+      banco || undefined,
     );
   }
 
@@ -64,9 +68,13 @@ export class ReactivosController {
    * no lo tome como un `:id`.
    */
   @Get('temas-conteo')
-  listarTemasConConteo(@Query('examenId') examenId?: string) {
+  listarTemasConConteo(
+    @Query('examenId') examenId?: string,
+    @Query('banco') banco?: string,
+  ) {
     return this.reactivosService.listarTemasConConteo(
       examenId ? Number(examenId) : undefined,
+      banco || undefined,
     );
   }
 
@@ -79,6 +87,7 @@ export class ReactivosController {
     @Query('tema') tema?: string,
     @Query('polaridad') polaridad?: 'POSITIVA' | 'NEGATIVA',
     @Query('search') search?: string,
+    @Query('banco') banco?: string,
   ) {
     return this.reactivosService.obtenerTodos({
       take: take ? Number(take) : undefined,
@@ -88,6 +97,7 @@ export class ReactivosController {
       tema: tema || undefined,
       polaridad,
       search: search || undefined,
+      banco: banco || undefined,
     });
   }
 

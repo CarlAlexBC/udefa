@@ -70,6 +70,7 @@ export class ReactivosService {
     tema?: string;
     polaridad?: 'POSITIVA' | 'NEGATIVA';
     search?: string;
+    banco?: string;
   } = {}) {
     // Paginacion: default 50, tope 200 para evitar descargas masivas.
     const TAKE_DEFAULT = 50;
@@ -87,10 +88,12 @@ export class ReactivosService {
       polaridad?: 'POSITIVA' | 'NEGATIVA';
       enunciado?: { contains: string; mode: 'insensitive' };
       bloque?: { examenId: number };
+      banco?: string;
     } = {};
     if (opciones.bloqueId) where.bloqueId = opciones.bloqueId;
     if (opciones.tema) where.tema = opciones.tema;
     if (opciones.polaridad) where.polaridad = opciones.polaridad;
+    if (opciones.banco) where.banco = opciones.banco;
     if (opciones.search) {
       where.enunciado = { contains: opciones.search, mode: 'insensitive' };
     }
@@ -134,11 +137,12 @@ export class ReactivosService {
    * Lista los temas distintos del banco, opcionalmente filtrados por examen.
    * Usa Prisma `distinct` para no traer duplicados del server.
    */
-  async listarTemas(examenId?: number) {
+  async listarTemas(examenId?: number, banco?: string) {
     const registros = await this.prisma.reactivo.findMany({
       where: {
         tema: { not: null },
         ...(examenId ? { bloque: { examenId } } : {}),
+        ...(banco ? { banco } : {}),
       },
       select: { tema: true },
       distinct: ['tema'],
@@ -156,12 +160,13 @@ export class ReactivosService {
    * reactivos sin tema —los mismos que `listarTemas` ya no lista—; siguen siendo
    * accesibles por búsqueda.
    */
-  async listarTemasConConteo(examenId?: number) {
+  async listarTemasConConteo(examenId?: number, banco?: string) {
     const grupos = await this.prisma.reactivo.groupBy({
       by: ['tema'],
       where: {
         tema: { not: null },
         ...(examenId ? { bloque: { examenId } } : {}),
+        ...(banco ? { banco } : {}),
       },
       _count: { _all: true },
       orderBy: { tema: 'asc' },

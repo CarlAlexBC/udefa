@@ -1,6 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
+import { BANCOS_EN_USO } from '../examenes/examenes.service';
 
 /**
  * Métricas agregadas para el dashboard del admin panel.
@@ -400,6 +401,38 @@ export class AdminService {
       ORDER BY "reactivosUnicos" DESC
       LIMIT 50
     `);
+  }
+
+  /**
+   * Bancos del sistema: cuáles se están sirviendo de verdad y cuáles siguen
+   * guardados sin usarse.
+   *
+   * Existe porque conviven varias generaciones del banco (v1 → remaster → v3) y
+   * desde el panel no había forma de saber cuál ve el aspirante. El estado NO se
+   * escribe a mano en la pantalla: sale de `BANCOS_EN_USO` (examenes.service),
+   * que es lo que de verdad decide el armado, así que la tabla no puede quedar
+   * desfasada si mañana se cambia de banco.
+   *
+   * Los vivos van primero y, dentro de cada grupo, de más a menos reactivos.
+   */
+  async bancos() {
+    const filas = await this.prisma.reactivo.groupBy({
+      by: ['banco'],
+      _count: { _all: true },
+    });
+
+    return filas
+      .map((f) => ({
+        banco: f.banco,
+        reactivos: f._count._all,
+        enUso: Boolean(BANCOS_EN_USO[f.banco]),
+        // A qué examen alimenta, o null si no se está usando.
+        sirve: BANCOS_EN_USO[f.banco] ?? null,
+      }))
+      .sort(
+        (a, b) =>
+          Number(b.enUso) - Number(a.enUso) || b.reactivos - a.reactivos,
+      );
   }
 
   /**
