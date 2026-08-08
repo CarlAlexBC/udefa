@@ -27,7 +27,7 @@ import { MuestraModule } from './muestra/muestra.module';
     // dirección IP. Es holgado a propósito — un aspirante contestando su examen
     // no se acerca a ese número. El login lleva su propio freno, mucho más
     // estricto, declarado en su controlador con @Throttle. (ttl va en ms.)
-    ThrottlerModule.forRoot([{ ttl: 60000, limit: 200 }]),
+    ThrottlerModule.forRoot([{ ttl: 60000, limit: Number(process.env.THROTTLE_LIMIT ?? 200) }]),
     UsuariosModule, AuthModule, PlantelesModule, ExamenesModule, BloquesModule, ReactivosModule, IntentosModule, RepasosModule, SesionesCompletasModule, TemasPrioridadModule, AdminModule, CulturalModule, TemariosModule, AccesoModule, PagosModule, MuestraModule],
   controllers: [AppController],
   providers: [
