@@ -55,16 +55,21 @@ y `CLAUDE.md`. Verifica el estado real en disco antes de afirmar (cuenta los eje
 
 ## Dónde vamos (ACTUALIZAR esta sección)
 
-- **Progreso: 31 de 33 ejes v3** (el 08 llenó su hueco; hay 30, 31, 32, 33 nuevos).
+- **Progreso: 32 de 33 ejes v3** (el 08 llenó su hueco; hay 30, 31, 32, 33 nuevos).
 - **Los 9 valores militares oficiales: CERRADOS** (08, 10, 16, 17, 28, 30, 31, 32, 33).
 - **Eje 01 suicidio AMPLIADO** a 126 reactivos / 41 críticos (crudo, por el peso del examen real).
 - **Eje 03 ansiedad AMPLIADO** a 105 reactivos / 7 críticos (8 ago). Cruda, 3 ángulos nuevos
   (#86–105): pánico/agorafobia, congelamiento operativo, crisis ansiosa actual + salud. 🎖=0.
-- **Faltan 2 ejes:**
-  - **06 adicciones** — tema fuerte; ajuste ligero (V/F + fondo intacto), salvo que yo pida
-    ampliarlo crudo. OJO: arrastra el reactivo-filtro de no-consumidores y las trampas-L que
-    no pueden asumir consumo.
+- **Eje 06 adicciones AMPLIADO** a 105 reactivos / 11 críticos (8 ago). Cruda, 2 ángulos nuevos
+  (#86–105): consecuencias graves bajo efectos, dependencia física + pérdida de control sostenida.
+  Filtro de no-consumidores traducido a V/F. 🎖=0.
+- **Falta 1 eje:**
   - **29 valores aplicados** — parqueado; decisión de diseño (¿meta-eje de cierre o se integra?).
+- **Patrón "apertura + dejarse ayudar + autocuidado" (8 ago · DECIDIDO):** es la contraparte
+  protectora de suicidio/depresión y **se queda DISTRIBUIDO** en ejes **04** (expresar/nombrar
+  emociones, alexitimia), **14** (autocuidado) y **15** (vínculos/apoyo, aislamiento por convicción)
+  + el **cluster Joiner e15↔e1**. **Carlo decidió NO crear un bloque/eje dedicado ni pase de
+  revisión — dejarlo tal cual.** No re-proponerlo.
 - **Pendientes técnicos (no tocar por cuenta propia):** no existe importador para v3; activar el
   scoring V/F en `intentos.service.ts` (hoy lee "sí/no"); **dispersar los pares** POS/NEG en el
   simulador; recalibrar el umbral del cluster MMPI-K global; **el eje 08 Patriotismo tiene ~60 🎖
