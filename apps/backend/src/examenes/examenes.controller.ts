@@ -17,6 +17,7 @@ import {
   UsuarioActual,
   type UsuarioAutenticado,
 } from '../auth/decorators/usuario-actual.decorator';
+import { FrenoArmadoPorCuentaGuard } from './freno-armado-por-cuenta.guard';
 
 // RolesGuard deja pasar las rutas sin @Roles; solo las mutaciones son admin.
 // Los GET (listar y armar) quedan abiertos a cualquier usuario autenticado.
@@ -36,6 +37,9 @@ export class ExamenesController {
     return this.examenesService.obtenerTodos();
   }
 
+  // Freno anti-vaciado por cuenta: este endpoint sirve reactivos frescos al azar,
+  // así que es el principal vector de "vaciado" del banco (Capa 3 · Mov. 1).
+  @UseGuards(FrenoArmadoPorCuentaGuard)
   @Get(':id/armar')
   armarExamen(
     @Param('id') id: string,
@@ -77,6 +81,8 @@ export class ExamenesController {
 
   /** N reactivos aleatorios de UNA materia (sin la respuesta correcta).
    *  Con ?capitulo=<id> acota la práctica a un solo tema del temario. */
+  // Mismo freno anti-vaciado por cuenta: también entrega reactivos al azar.
+  @UseGuards(FrenoArmadoPorCuentaGuard)
   @Get('practica/cultural')
   armarPracticaCultural(
     @UsuarioActual() usuario: UsuarioAutenticado,
