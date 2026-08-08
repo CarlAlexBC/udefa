@@ -147,4 +147,25 @@ describe('IntentosService · detectarSenalesCriticas', () => {
     });
     expect(detectar([resp(10, 88, 'Verdadero', critico)]).hallazgosPorTema).toEqual({});
   });
+
+  // --- Máxima severidad del eje 1 (sub-lote 8) · eje 3 fuera del protocolo ---
+
+  it('v3: el intento previo (106) fuerza alerta máxima por sí solo', () => {
+    expect(detectar([resp(1, 106, 'Verdadero')]).nivel).toBe('alerta_maxima');
+  });
+
+  it('v3: la autolesión (119) fuerza alerta máxima por sí sola', () => {
+    expect(detectar([resp(1, 119, 'Verdadero')]).nivel).toBe('alerta_maxima');
+  });
+
+  it('v3: un reactivo de máxima severidad en "Falso" no fuerza nada', () => {
+    expect(detectar([resp(1, 106, 'Falso')]).nivel).toBe('ninguna');
+  });
+
+  it('v3: el eje 3 (ansiedad) queda FUERA del protocolo de crisis', () => {
+    const out = detectar([resp(3, 104, 'Verdadero', { tema: 'ansiedad' })]);
+    expect(out.protocoloCrisis).toBe(false);
+    expect(out.senalesCrisis).toBe(0);
+    expect(out.hallazgosPorTema).toEqual({ ansiedad: 1 });
+  });
 });

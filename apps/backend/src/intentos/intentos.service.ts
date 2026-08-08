@@ -887,11 +887,30 @@ export class IntentosService {
       afirmaRiesgo(r72!) === true &&
       afirmaRiesgo(r73!) === true;
 
-    const nivel = combinacionRiesgoAgudo
-      ? 'alerta_maxima'
-      : senalesCrisis > 0
-        ? 'alerta'
-        : 'ninguna';
+    // Reactivos de máxima severidad del sub-lote 8 del eje 1 (ampliación 8 ago
+    // 2026): intención (104), conducta preparatoria (105, 118), plan/ensayo
+    // (111, 112), intento previo/múltiple/interrumpido (106, 113, 114),
+    // autolesión (119), futuro cancelado directo (122), rechazo de ayuda (124),
+    // urgencia aguda (125). Un solo "Verdadero" en cualquiera fuerza alerta
+    // máxima — el intento previo (106/113/114) es el predictor de riesgo más
+    // fuerte. Ver docs/personalidad-remaster/v3/01-suicidio-sentido-vida.md.
+    const MAXIMA_SEVERIDAD_E1 = new Set([
+      104, 105, 106, 111, 112, 113, 114, 118, 119, 122, 124, 125,
+    ]);
+    const hayMaximaSeveridadE1 = respuestas.some(
+      (r) =>
+        r.reactivo.eje === 1 &&
+        r.reactivo.numeroEnEje !== null &&
+        MAXIMA_SEVERIDAD_E1.has(r.reactivo.numeroEnEje) &&
+        afirmaRiesgo(r) === true,
+    );
+
+    const nivel =
+      combinacionRiesgoAgudo || hayMaximaSeveridadE1
+        ? 'alerta_maxima'
+        : senalesCrisis > 0
+          ? 'alerta'
+          : 'ninguna';
 
     return {
       nivel,
