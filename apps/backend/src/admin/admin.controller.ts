@@ -32,4 +32,13 @@ export class AdminController {
   obtenerDistribucion(@Query('examenId') examenId: string) {
     return this.adminService.obtenerDistribucion(Number(examenId));
   }
+
+  /**
+   * Cuentas a vigilar por posible "vaciado" del banco (Capa 3 · Mov. 2).
+   * Lista rankeada por cobertura del banco. Ver AdminService.cuentasAVigilar.
+   */
+  @Get('vaciado')
+  cuentasAVigilar() {
+    return this.adminService.cuentasAVigilar();
+  }
 }

@@ -20,6 +20,7 @@ import {
   Brain,
   Loader2,
   Scale,
+  Shield,
   TrendingUp,
   UserCircle,
 } from 'lucide-react'
@@ -178,7 +179,129 @@ export default function AnaliticaPage() {
       ) : (
         <VistaCultural />
       )}
+
+      {/* Sección de seguridad: cuentas a vigilar por posible vaciado del banco. */}
+      <CuentasAVigilar />
     </div>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Cuentas a vigilar (GET /admin/vaciado) — Capa 3 · Mov. 2 "Vigilar"
+   Señal de posible "vaciado": cuánta cobertura del banco ha juntado una cuenta
+   y a qué ritmo. Lista rankeada; el admin revisa los bultos de arriba.
+   ═══════════════════════════════════════════════════════════ */
+
+type CuentaVigilar = {
+  id: number
+  nombre: string
+  email: string
+  plantel: string | null
+  reactivosUnicos: number
+  unicos7d: number
+  respuestasTotales: number
+  intentos: number
+  ultimaActividad: string
+}
+
+function CuentasAVigilar() {
+  const [cuentas, setCuentas] = useState<CuentaVigilar[] | null>(null)
+  const [cargando, setCargando] = useState(true)
+  const [error, setError] = useState('')
+
+  useEffect(() => {
+    apiFetch<CuentaVigilar[]>('/admin/vaciado')
+      .then((res) => {
+        setCuentas(res)
+        setCargando(false)
+      })
+      .catch((err) => {
+        setError((err as Error).message)
+        setCargando(false)
+      })
+  }, [])
+
+  return (
+    <section className="mt-10 border-t border-border pt-8">
+      <div className="mb-3 flex items-center gap-2">
+        <Shield className="h-4 w-4 text-military" />
+        <h2 className="text-sm font-semibold text-foreground">Cuentas a vigilar</h2>
+        <span className="text-xs text-muted-foreground">· posible vaciado del banco</span>
+      </div>
+      <p className="mb-4 max-w-2xl text-sm text-muted-foreground">
+        Cuánta parte del banco ha recorrido cada cuenta y a qué ritmo. Las de
+        arriba son las de más cobertura: un número desproporcionado frente al
+        resto delata a quien está cosechando reactivos. (El robo que solo captura
+        sin contestar no cae aquí; a ese lo frena el límite de armados.)
+      </p>
+
+      {cargando ? (
+        <div className="flex items-center gap-2 text-sm text-muted-foreground">
+          <Loader2 className="h-4 w-4 animate-spin" />
+          Cargando…
+        </div>
+      ) : error ? (
+        <div className="flex items-center gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-3 text-sm text-destructive">
+          <AlertCircle className="h-4 w-4 shrink-0" />
+          {error}
+        </div>
+      ) : !cuentas || cuentas.length === 0 ? (
+        <p className="text-sm text-muted-foreground">
+          Todavía no hay actividad suficiente para mostrar nada.
+        </p>
+      ) : (
+        <div className="overflow-x-auto rounded-lg border border-border">
+          <table className="w-full min-w-[720px] text-sm">
+            <thead>
+              <tr className="border-b border-border bg-muted/40 text-left text-xs uppercase tracking-wider text-muted-foreground">
+                <th className="px-3 py-2 font-medium">#</th>
+                <th className="px-3 py-2 font-medium">Aspirante</th>
+                <th className="px-3 py-2 font-medium">Plantel</th>
+                <th className="px-3 py-2 text-right font-medium">Reactivos únicos</th>
+                <th className="px-3 py-2 text-right font-medium">Últ. 7 días</th>
+                <th className="px-3 py-2 text-right font-medium">Respuestas</th>
+                <th className="px-3 py-2 text-right font-medium">Intentos</th>
+                <th className="px-3 py-2 font-medium">Última actividad</th>
+              </tr>
+            </thead>
+            <tbody>
+              {cuentas.map((c, i) => (
+                <tr
+                  key={c.id}
+                  className="border-b border-border/60 last:border-0 hover:bg-muted/30"
+                >
+                  <td className="px-3 py-2 text-muted-foreground">{i + 1}</td>
+                  <td className="px-3 py-2">
+                    <p className="font-medium text-foreground">{c.nombre}</p>
+                    <p className="text-xs text-muted-foreground">{c.email}</p>
+                  </td>
+                  <td className="px-3 py-2 text-muted-foreground">{c.plantel ?? '—'}</td>
+                  <td className="px-3 py-2 text-right font-semibold text-foreground">
+                    {c.reactivosUnicos.toLocaleString('es-MX')}
+                  </td>
+                  <td className="px-3 py-2 text-right text-muted-foreground">
+                    {c.unicos7d.toLocaleString('es-MX')}
+                  </td>
+                  <td className="px-3 py-2 text-right text-muted-foreground">
+                    {c.respuestasTotales.toLocaleString('es-MX')}
+                  </td>
+                  <td className="px-3 py-2 text-right text-muted-foreground">
+                    {c.intentos.toLocaleString('es-MX')}
+                  </td>
+                  <td className="px-3 py-2 text-muted-foreground">
+                    {new Date(c.ultimaActividad).toLocaleDateString('es-MX', {
+                      day: '2-digit',
+                      month: 'short',
+                      year: 'numeric',
+                    })}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </section>
   )
 }
 

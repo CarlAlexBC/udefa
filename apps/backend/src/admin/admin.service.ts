@@ -1,4 +1,5 @@
 import { Injectable } from '@nestjs/common';
+import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 
 /**
@@ -346,5 +347,58 @@ export class AdminService {
 
     const totalRespuestas = items.reduce((a, it) => a + it.total, 0);
     return { examenId, totalRespuestas, items };
+  }
+
+  /**
+   * Cuentas a vigilar — Capa 3 · Movimiento 2 ("Vigilar") del blindaje anti-copia.
+   *
+   * Señal de "vaciado": cuánta cobertura del banco ha juntado una cuenta y a qué
+   * ritmo. Se mide desde lo que YA se guarda (RespuestaReactivo + IntentoExamen),
+   * sin tablas nuevas: reactivos ÚNICOS contestados por cuenta (total y en los
+   * últimos 7 días), respuestas e intentos totales, y última actividad. Rankeadas
+   * por cobertura total desc — el bulto raro sube solo y lo revisa el admin.
+   *
+   * OJO: un harvester que solo ARMA y captura sin contestar no deja rastro aquí;
+   * a ese lo frena el Movimiento 1. Los umbrales se afinan con datos reales.
+   *
+   * COUNT(DISTINCT ...) sobre una relación no lo hace el groupBy de Prisma, así
+   * que va en SQL crudo (mismo patrón que examenes.service). Sin parámetros de
+   * usuario → nada que inyectar. Los ::int evitan que el COUNT (bigint) llegue
+   * como BigInt no serializable.
+   */
+  async cuentasAVigilar() {
+    return this.prisma.$queryRaw<
+      Array<{
+        id: number;
+        nombre: string;
+        email: string;
+        plantel: string | null;
+        reactivosUnicos: number;
+        unicos7d: number;
+        respuestasTotales: number;
+        intentos: number;
+        ultimaActividad: Date;
+      }>
+    >(Prisma.sql`
+      SELECT
+        u.id,
+        u.nombre,
+        u.email,
+        p.nombre AS plantel,
+        COUNT(DISTINCT rr."reactivoId")::int AS "reactivosUnicos",
+        (COUNT(DISTINCT rr."reactivoId")
+          FILTER (WHERE rr."createdAt" > NOW() - INTERVAL '7 days'))::int AS "unicos7d",
+        COUNT(rr.id)::int AS "respuestasTotales",
+        COUNT(DISTINCT ie.id)::int AS "intentos",
+        MAX(rr."createdAt") AS "ultimaActividad"
+      FROM "Usuario" u
+      JOIN "IntentoExamen" ie ON ie."usuarioId" = u.id
+      JOIN "RespuestaReactivo" rr ON rr."intentoExamenId" = ie.id
+      LEFT JOIN "Plantel" p ON p.id = u."plantelId"
+      WHERE u.rol <> 'admin'
+      GROUP BY u.id, u.nombre, u.email, p.nombre
+      ORDER BY "reactivosUnicos" DESC
+      LIMIT 50
+    `);
   }
 }
