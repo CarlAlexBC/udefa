@@ -101,6 +101,27 @@ type AnalisisConsistencia = {
   scoreCoincidenciaIdeal?: ScoreCoincidenciaIdeal | null
 }
 
+type EscalaValidez = {
+  presentadas: number
+  afirmadas: number
+  porcentaje: number | null
+  banda: 'normal' | 'elevada' | 'alta' | 'sin_datos'
+}
+
+/**
+ * Escalas de validez L/K/F (preguntas-trampa del banco remaster de personalidad).
+ * `veredicto` resume si se le puede creer al aspirante lo que contestó en el resto
+ * del examen. Llega null si el intento no trajo trampas (banco viejo).
+ */
+type EscalasValidez = {
+  L: EscalaValidez
+  K: EscalaValidez
+  F: EscalaValidez
+  totalTrampasPresentadas: number
+  veredicto: 'valido' | 'con_reservas' | 'cuestionable'
+  idealizacionSofisticada: boolean
+}
+
 /**
  * Diagnóstico del examen cultural. No cuenta aciertos —eso ya está arriba—:
  * dice por qué falló y qué páginas abrir.
@@ -124,7 +145,6 @@ type DiagnosticoCultural = {
     errores: number
     rangos: Array<{ desde: number; hasta: number; errores: number }>
   }>
-  subtemas: Array<{ tema: string; errores: number }>
   /** Qué eligió contra qué era, en los errores que más le costaron. */
   confusiones: Array<{
     tema: string | null
@@ -150,6 +170,7 @@ type Resultados = {
   porTema: PorTema[]
   metricasTemporales: MetricasTemporales
   analisisConsistencia?: AnalisisConsistencia
+  escalasValidez?: EscalasValidez | null
   senalesCriticas?: SenalesCriticas | null
   diagnosticoCultural?: DiagnosticoCultural | null
 }
@@ -481,6 +502,11 @@ function DiagnosticoCultural({
   const hayRitmo = metricasTemporales.tiempoPorReactivoMs.length > 0
   const errores = total - aciertos
   const recuperables = confundido
+  // Para "Qué estudiar": solo los temas donde hubo errores. Los de 100% no son
+  // algo que estudiar, y meterlos ensuciaba la lista. Se ordenan en RenglonesTemas.
+  const temasConError = porTema.filter(
+    (t) => t.porcentaje !== null && t.respondidos - (t.aciertos ?? 0) > 0,
+  )
 
   // En orden de MATRIZ 2×2, leyéndola de izquierda a derecha y de arriba a
   // abajo: [dominado, frágil] arriba (lo que acertaste), [sin ver, confundido]
@@ -672,21 +698,21 @@ function DiagnosticoCultural({
       {/* Qué estudiar — un solo lugar: los temas de peor a mejor (antes vivían
           también en "Los temas que se te atoraron" y en "Desempeño por tema",
           duplicados) y, debajo, las páginas exactas de los libros. */}
-      {(porTema.length > 1 || d.libros.length > 0) && (
+      {(temasConError.length > 0 || d.libros.length > 0) && (
         <section className="mt-8">
           <h2 className="text-lg font-semibold tracking-tight text-foreground">
             Qué estudiar
           </h2>
           <p className="mt-1 max-w-2xl text-sm text-muted-foreground">
-            Tus temas de peor a mejor y las páginas exactas de los libros del
-            temario. En rojo, donde más fallaste. Todo lo que hay que repasar, en
-            un solo lugar.
+            Los temas donde fallaste, de más a menos errores, con las páginas
+            exactas de los libros del temario. Todo lo que hay que repasar, en un
+            solo lugar.
           </p>
           <div className="mt-4 rounded-xl border border-border bg-card p-5">
-            {porTema.length > 1 && <RenglonesTemas porTema={porTema} />}
+            {temasConError.length > 0 && <RenglonesTemas temas={temasConError} />}
 
             {d.libros.length > 0 && (
-              <div className={cn(porTema.length > 1 && 'mt-5 border-t border-border pt-5')}>
+              <div className={cn(temasConError.length > 0 && 'mt-5 border-t border-border pt-5')}>
                 {d.libros.map((l, i) => (
                   <div
                     key={l.libro}
@@ -856,32 +882,32 @@ function CeldaCuadrante({
 }
 
 /* ═══════════════════════════════════════════════════════════
-   Renglones de desempeño por tema (para el examen cultural)
-   Un tema por renglón —nombre, barra de color y % · N errores—, de peor a
-   mejor: lo primero que hay que estudiar queda arriba. Acotado a los 12 con
-   más error, con "Ver todos". Vive dentro de "Qué estudiar".
+   Renglones de "Qué estudiar" (examen cultural).
+   Un tema por renglón —nombre, barra roja proporcional y "N errores de M"—, de
+   más a menos errores: lo que hay que estudiar primero queda arriba. Recibe ya
+   SOLO los temas con error (los de 100% no son algo que estudiar). Acotado a
+   los 12 peores, con "Ver todos".
    ═══════════════════════════════════════════════════════════ */
 
-function RenglonesTemas({ porTema }: { porTema: PorTema[] }) {
+function RenglonesTemas({ temas }: { temas: PorTema[] }) {
   const [verTodos, setVerTodos] = useState(false)
 
-  const datos = porTema
-    .filter((t) => t.porcentaje !== null)
+  const datos = temas
     .map((t) => ({
       tema: capitalizar(t.tema.replace(/_/g, ' ')),
-      pct: t.porcentaje ?? 0,
       errores: Math.max(0, t.respondidos - (t.aciertos ?? 0)),
+      respondidos: t.respondidos,
     }))
-    .sort((a, b) => a.pct - b.pct)
+    .sort((a, b) => b.errores - a.errores || a.respondidos - b.respondidos)
 
   if (datos.length === 0) return null
 
+  // La barra es RELATIVA al tema con más errores: da un orden de prioridad
+  // visible sin depender del % (engañoso cuando un tema tiene 1 sola pregunta).
+  const maxErrores = datos[0].errores || 1
   const TOPE = 12
   const hayMas = datos.length > TOPE
   const visibles = verTodos ? datos : datos.slice(0, TOPE)
-
-  const colorPorPct = (pct: number) =>
-    pct >= 80 ? 'var(--military)' : pct >= 60 ? 'var(--accent)' : 'var(--destructive)'
 
   return (
     <div>
@@ -890,30 +916,25 @@ function RenglonesTemas({ porTema }: { porTema: PorTema[] }) {
           <li key={d.tema} className="flex items-center gap-3 py-2">
             <span
               className="min-w-0 truncate text-sm text-foreground"
-              style={{ flex: '0 0 42%' }}
+              style={{ flex: '0 0 40%' }}
               title={d.tema}
             >
               {d.tema}
             </span>
             <span className="h-2 flex-1 overflow-hidden rounded-full bg-muted">
               <span
-                className="block h-full rounded-full"
-                style={{ width: `${d.pct}%`, backgroundColor: colorPorPct(d.pct) }}
+                className="block h-full rounded-full bg-destructive"
+                style={{ width: `${(d.errores / maxErrores) * 100}%` }}
               />
             </span>
             <span
-              className="shrink-0 text-right text-xs tabular-nums text-muted-foreground"
-              style={{ minWidth: 88 }}
+              className="shrink-0 text-right text-xs tabular-nums"
+              style={{ minWidth: 110 }}
             >
-              {d.pct}%
-              {d.errores > 0 && (
-                <>
-                  {' · '}
-                  <span className="font-semibold text-destructive">
-                    {d.errores} err
-                  </span>
-                </>
-              )}
+              <span className="font-semibold text-destructive">
+                {d.errores} {d.errores === 1 ? 'error' : 'errores'}
+              </span>
+              <span className="text-muted-foreground"> de {d.respondidos}</span>
             </span>
           </li>
         ))}
@@ -1280,14 +1301,14 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
                 />
               </div>
               <p className="mt-1 text-[10px] text-muted-foreground">
-                % de respuestas alineadas al perfil socialmente esperado. Un valor {'>'}90% se lee como perfil idealizado poco creíble.
+                % de respuestas alineadas al perfil socialmente esperado. Un valor {'>'}90% se contrasta con las preguntas-trampa antes de leerse como idealizado.
               </p>
             </div>
 
-            {/* Alertas de sesgo */}
+            {/* Alertas de sesgo (aquiescencia, negativismo, idealización no creíble) */}
             {(data.analisisConsistencia.sesgoRespuesta.tieneSesgoAquiescencia ||
               data.analisisConsistencia.sesgoRespuesta.tieneSesgoNegativismo ||
-              data.analisisConsistencia.sesgoRespuesta.perfilIdealizado) && (
+              estadoPerfilIdealizado(data) === 'sospechoso') && (
               <div className="flex items-start gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-3">
                 <AlertCircle className="mt-0.5 h-4 w-4 shrink-0 text-destructive" />
                 <div className="text-xs text-foreground">
@@ -1297,10 +1318,20 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
                   {data.analisisConsistencia.sesgoRespuesta.tieneSesgoNegativismo && (
                     <p><strong>Sesgo de negativismo:</strong> respondiste No a más del 75%. Puede indicar rechazo automático o desconfianza.</p>
                   )}
-                  {data.analisisConsistencia.sesgoRespuesta.perfilIdealizado && (
-                    <p className="mt-1"><strong>Perfil idealizado:</strong> más del 90% de tus respuestas apuntan al lado positivo. El examen real detecta esto como poco creíble.</p>
+                  {estadoPerfilIdealizado(data) === 'sospechoso' && (
+                    <p className="mt-1"><strong>Perfil idealizado poco creíble:</strong> más del 90% de tus respuestas apuntan al lado positivo <strong>y</strong> caíste en varias preguntas-trampa. Esa combinación es la que el examen real detecta. Responde con más autenticidad.</p>
                   )}
                 </div>
+              </div>
+            )}
+
+            {/* Perfil alto pero creíble: >90% con las preguntas-trampa limpias */}
+            {estadoPerfilIdealizado(data) === 'genuino' && (
+              <div className="flex items-start gap-2 rounded-md border border-military/40 bg-military/10 p-3">
+                <CheckCircle2 className="mt-0.5 h-4 w-4 shrink-0 text-military" />
+                <p className="text-xs text-foreground">
+                  <strong>Perfil muy alineado, y creíble:</strong> más del 90% de tus respuestas van al lado positivo, pero pasaste limpias las preguntas-trampa, así que el sistema te lee como genuino, no como fabricado. Ojo para el examen real: no siempre hay este cruce que te respalde, así que evita responder absolutamente todo en el extremo.
+                </p>
               </div>
             )}
           </section>
@@ -1362,6 +1393,21 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
   )
 }
 
+/* Cruza el perfil idealizado (>90% de respuestas al lado deseable) con las
+   escalas de validez (preguntas-trampa). Un >90% con las trampas limpias es un
+   perfil genuinamente alto, no fabricado, y no debe leerse como "poco creíble".
+   Sin trampas en el intento (banco viejo) → beneficio de la duda: genuino. */
+function estadoPerfilIdealizado(
+  data: Resultados,
+): 'no' | 'genuino' | 'sospechoso' {
+  if (!data.analisisConsistencia?.sesgoRespuesta?.perfilIdealizado) return 'no'
+  const veredicto = data.escalasValidez?.veredicto ?? null
+  if (veredicto === 'con_reservas' || veredicto === 'cuestionable') {
+    return 'sospechoso'
+  }
+  return 'genuino'
+}
+
 /* Diagnósticos específicos para autoevaluación — usan análisis de consistencia
    (polaridad + tema) además de las métricas temporales. */
 function calcularDiagnosticosAutoevaluacion(data: Resultados): Diagnostico[] {
@@ -1370,12 +1416,21 @@ function calcularDiagnosticosAutoevaluacion(data: Resultados): Diagnostico[] {
   // ─── Prioridad 0: Alertas de sesgo (personalidad) ───
 
   const sesgo = data.analisisConsistencia?.sesgoRespuesta
-  if (sesgo?.perfilIdealizado) {
+  const estadoIdealizado = estadoPerfilIdealizado(data)
+  if (estadoIdealizado === 'sospechoso') {
     out.push({
       severidad: 'atencion',
-      titulo: `Perfil idealizado: ${sesgo.indiceDeseabilidad}% de respuestas alineadas al lado positivo.`,
+      titulo: `Perfil idealizado poco creíble: ${sesgo?.indiceDeseabilidad}% al lado positivo, y caíste en las preguntas-trampa.`,
       descripcion:
-        'Un perfil que responde siempre en la dirección socialmente esperada se lee como poco creíble. El examen real está diseñado para detectar exactamente este patrón. Responde con más autenticidad.',
+        'Responder casi todo en la dirección esperada Y caer en las preguntas-trampa es justo el patrón que el examen real detecta. Responde con más autenticidad.',
+      guiaLink: LINKS_FIJOS.perfilIdealizado,
+    })
+  } else if (estadoIdealizado === 'genuino') {
+    out.push({
+      severidad: 'fortaleza',
+      titulo: `Perfil muy alineado, y creíble: ${sesgo?.indiceDeseabilidad}% al lado positivo con las preguntas-trampa limpias.`,
+      descripcion:
+        'Tu perfil es muy alto, pero pasaste las preguntas-trampa, así que se lee como genuino y no fabricado. Consejo para el examen real: no siempre hay este cruce que te respalde, así que evita responder absolutamente todo en el extremo.',
       guiaLink: LINKS_FIJOS.perfilIdealizado,
     })
   }

@@ -423,21 +423,6 @@ export class IntentosService {
       })
       .sort((a, b) => b.errores - a.errores);
 
-    // Subtemas donde más se falló: es el "qué" del plan, mientras que las
-    // páginas son el "dónde".
-    const porSubtema = new Map<string, number>();
-    for (const r of respuestas) {
-      if (r.esCorrecta || !r.reactivo.tema) continue;
-      porSubtema.set(
-        r.reactivo.tema,
-        (porSubtema.get(r.reactivo.tema) ?? 0) + 1,
-      );
-    }
-    const subtemas = [...porSubtema.entries()]
-      .map(([tema, errores]) => ({ tema, errores }))
-      .sort((a, b) => b.errores - a.errores)
-      .slice(0, 8);
-
     // Los pares que confundió: qué eligió contra qué era.
     //
     // Se arma comparando textos, no letras. Las notas del banco explican los
@@ -482,7 +467,6 @@ export class IntentosService {
       // su propio techo, no un umbral inventado.
       techoAlcanzable: aciertos + cuadrantes.confundido,
       libros,
-      subtemas,
       confusiones,
     };
   }
@@ -638,9 +622,9 @@ export class IntentosService {
     let totalConPolaridad = 0;
 
     for (const r of respuestas) {
-      const respLower = r.respuestaSeleccionada.toLowerCase().trim();
-      const respondioSi = respLower === 'sí' || respLower === 'si';
-      const respondioNo = respLower === 'no';
+      const dir = this.direccionRespuesta(r.respuestaSeleccionada);
+      const respondioSi = dir === 'afirma';
+      const respondioNo = dir === 'niega';
       if (respondioSi) totalSi++;
       if (respondioNo) totalNo++;
 
@@ -733,9 +717,9 @@ export class IntentosService {
       const tipo = r.reactivo.tipoTrampa;
       if (r.reactivo.polaridad !== 'TRAMPA' || !tipo || !conteo[tipo]) continue;
 
-      const resp = r.respuestaSeleccionada.toLowerCase().trim();
-      const respondioSi = resp === 'sí' || resp === 'si';
-      const respondioNo = resp === 'no';
+      const dir = this.direccionRespuesta(r.respuestaSeleccionada);
+      const respondioSi = dir === 'afirma';
+      const respondioNo = dir === 'niega';
       if (!respondioSi && !respondioNo) continue;
 
       conteo[tipo].presentadas++;
@@ -850,10 +834,10 @@ export class IntentosService {
       respuestaSeleccionada: string;
       reactivo: { polaridad: string | null };
     }): boolean | null => {
-      const resp = r.respuestaSeleccionada.toLowerCase().trim();
-      const dijoSi = resp === 'sí' || resp === 'si';
-      const dijoNo = resp === 'no';
-      if (!dijoSi && !dijoNo) return null;
+      const dir = this.direccionRespuesta(r.respuestaSeleccionada);
+      if (dir === null) return null;
+      const dijoSi = dir === 'afirma';
+      const dijoNo = dir === 'niega';
       return r.reactivo.polaridad === 'POSITIVA' ? dijoNo : dijoSi;
     };
 
@@ -978,12 +962,11 @@ export class IntentosService {
     tipoExamen: string,
   ): number | null {
     if (tipoExamen === 'personalidad') {
-      const respuestaLower = respuestaSeleccionada.toLowerCase().trim();
-      const respondioSi = respuestaLower === 'sí' || respuestaLower === 'si';
-      const respondioNo = respuestaLower === 'no';
-      if (!respondioSi && !respondioNo) return null;
-      if (polaridad === 'POSITIVA') return respondioSi ? 1 : -1;
-      if (polaridad === 'NEGATIVA') return respondioSi ? -1 : 1;
+      const dir = this.direccionRespuesta(respuestaSeleccionada);
+      if (dir === null) return null;
+      const afirma = dir === 'afirma';
+      if (polaridad === 'POSITIVA') return afirma ? 1 : -1;
+      if (polaridad === 'NEGATIVA') return afirma ? -1 : 1;
       return null;
     }
 
@@ -997,6 +980,21 @@ export class IntentosService {
       return null;
     }
 
+    return null;
+  }
+
+  /**
+   * Dirección de la respuesta del aspirante, **agnóstica de escala**. Sirve por
+   * igual para el banco remaster (Sí/No) y el v3 (Verdadero/Falso) sin distinguir
+   * cuál es, así el scoring no se rompe al convivir los dos bancos.
+   *   'afirma' = Sí / Verdadero (el aspirante endorsa el enunciado)
+   *   'niega'  = No / Falso
+   *   null     = respuesta no legible / sin contestar
+   */
+  private direccionRespuesta(respuesta: string): 'afirma' | 'niega' | null {
+    const r = respuesta.toLowerCase().trim();
+    if (r === 'sí' || r === 'si' || r === 'verdadero' || r === 'v') return 'afirma';
+    if (r === 'no' || r === 'falso' || r === 'f') return 'niega';
     return null;
   }
 
