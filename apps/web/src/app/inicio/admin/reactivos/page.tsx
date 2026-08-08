@@ -5,6 +5,7 @@ import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
 import {
   AlertCircle,
+  Archive,
   Brain,
   ChevronRight,
   Loader2,
@@ -93,6 +94,10 @@ type BancoEstado = {
   enUso: boolean
   /** A qué examen alimenta, o null si no se usa. */
   sirve: string | null
+  /** Retirado a propósito: sigue guardado entero, pero ya no vuelve. */
+  archivado: boolean
+  /** Por qué se retiró, o null si no está archivado. */
+  nota: string | null
 }
 
 // El backend fija estos IDs (Examen 1=Psicométrico, 2=Personalidad, 3=Axiológico).
@@ -791,13 +796,21 @@ function TablaBancos({ bancos }: { bancos: BancoEstado[] | null }) {
         </h2>
         <p className="text-xs text-muted-foreground">
           · lo que está <span className="font-medium text-military">en uso</span> es
-          lo que ve el aspirante; lo demás sigue guardado, sin usarse
+          lo que ve el aspirante; lo <span className="font-medium">archivado</span> se
+          retiró pero sigue guardado entero, no se borró nada
         </p>
       </div>
       <table className="w-full text-sm">
         <tbody>
           {bancos.map((b) => (
-            <tr key={b.banco} className="border-b border-border/60 last:border-0">
+            <tr
+              key={b.banco}
+              className={cn(
+                'border-b border-border/60 last:border-0',
+                // Los archivados se apagan: no compiten por tu atención.
+                b.archivado && 'opacity-60',
+              )}
+            >
               <td className="px-4 py-2">
                 <span className="font-mono text-xs text-foreground">{b.banco}</span>
               </td>
@@ -811,6 +824,11 @@ function TablaBancos({ bancos }: { bancos: BancoEstado[] | null }) {
                     <span className="h-1.5 w-1.5 rounded-full bg-military" />
                     En uso
                   </span>
+                ) : b.archivado ? (
+                  <span className="inline-flex items-center gap-1.5 rounded-full border border-border px-2 py-0.5 text-[10px] font-bold uppercase tracking-widest text-muted-foreground">
+                    <Archive className="h-2.5 w-2.5" />
+                    Archivado
+                  </span>
                 ) : (
                   <span className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
                     Sin uso
@@ -818,7 +836,7 @@ function TablaBancos({ bancos }: { bancos: BancoEstado[] | null }) {
                 )}
               </td>
               <td className="px-4 py-2 text-xs text-muted-foreground">
-                {b.sirve ?? '—'}
+                {b.sirve ?? b.nota ?? '—'}
               </td>
             </tr>
           ))}

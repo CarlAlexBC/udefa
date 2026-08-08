@@ -1,7 +1,10 @@
 import { Injectable } from '@nestjs/common';
 import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
-import { BANCOS_EN_USO } from '../examenes/examenes.service';
+import {
+  BANCOS_ARCHIVADOS,
+  BANCOS_EN_USO,
+} from '../examenes/examenes.service';
 
 /**
  * Métricas agregadas para el dashboard del admin panel.
@@ -428,10 +431,18 @@ export class AdminService {
         enUso: Boolean(BANCOS_EN_USO[f.banco]),
         // A qué examen alimenta, o null si no se está usando.
         sirve: BANCOS_EN_USO[f.banco] ?? null,
+        // Retirado a propósito: sigue guardado entero, pero ya no vuelve.
+        archivado: Boolean(BANCOS_ARCHIVADOS[f.banco]),
+        // Por qué se retiró (o null si no está archivado).
+        nota: BANCOS_ARCHIVADOS[f.banco] ?? null,
       }))
+      // Primero los vivos; los archivados hasta el final. Dentro de cada grupo,
+      // de más a menos reactivos.
       .sort(
         (a, b) =>
-          Number(b.enUso) - Number(a.enUso) || b.reactivos - a.reactivos,
+          Number(b.enUso) - Number(a.enUso) ||
+          Number(a.archivado) - Number(b.archivado) ||
+          b.reactivos - a.reactivos,
       );
   }
 

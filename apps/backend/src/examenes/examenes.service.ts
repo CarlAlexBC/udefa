@@ -46,6 +46,23 @@ export const BANCOS_EN_USO: Record<string, string> = {
 };
 
 /**
+ * Bancos RETIRADOS a propósito: quedaron atrás al avanzar de generación.
+ *
+ * No se borró nada — sus reactivos siguen enteros en la base, y volver a usar
+ * uno es quitarlo de esta lista. Estar aquí sólo cambia cómo se presentan en el
+ * panel de admin: aparecen como "archivado" en vez de mezclarse con los vivos.
+ *
+ * Se marcan a mano (y no automáticamente por "no estar en uso") porque decidir
+ * que un banco ya no vuelve es de Carlo, no del código: un banco recién
+ * importado que todavía no se enciende tampoco está en uso, y no es lo mismo.
+ */
+export const BANCOS_ARCHIVADOS: Record<string, string> = {
+  remaster:
+    'Predecesor de v3: 28 ejes, escala Sí/No. Retirado el 8 ago 2026 al encender v3.',
+  v1: 'Banco original de personalidad, el de los reactivos simples. Retirado el 8 ago 2026.',
+};
+
+/**
  * Unidad mínima de muestreo. No es el reactivo: es el grupo que tiene que
  * viajar junto al examen para que el análisis funcione.
  *
