@@ -9,8 +9,10 @@ import { TemasPrioridadService } from '../temas-prioridad/temas-prioridad.servic
 import * as fs from 'fs';
 import * as path from 'path';
 
-/** Banco de reactivos que alimenta el diagnóstico de personalidad. */
-const BANCO_DIAGNOSTICO = 'remaster';
+/** Banco de reactivos que alimenta el diagnóstico de personalidad.
+ *  v3 = banco completo (33 ejes, escala Verdadero/Falso). El anterior era
+ *  'remaster' (28 ejes, Sí/No), que queda inerte hasta que se decida archivarlo. */
+const BANCO_DIAGNOSTICO = 'v3';
 
 /**
  * Banco del que se sirve cada tipo de examen.
