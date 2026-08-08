@@ -182,6 +182,9 @@ export default function AnaliticaPage() {
 
       {/* Sección de seguridad: cuentas a vigilar por posible vaciado del banco. */}
       <CuentasAVigilar />
+
+      {/* Reactivos-canario: las trampas anti-copia sembradas (Capa 5). */}
+      <Canarios />
     </div>
   )
 }
@@ -294,6 +297,110 @@ function CuentasAVigilar() {
                       month: 'short',
                       year: 'numeric',
                     })}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </section>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Reactivos-canario (GET /admin/canarios) — Capa 5 del blindaje anti-copia
+   Las trampas sembradas (reactivos `noPuntua`): se sirven pero no cuentan. Si
+   uno aparece en material ajeno, prueba el robo. Aquí se ven y cuánto se han
+   expuesto (veces servido).
+   ═══════════════════════════════════════════════════════════ */
+
+type Canario = {
+  id: number
+  enunciado: string
+  tema: string | null
+  banco: string
+  vecesRespondido: number
+}
+
+function Canarios() {
+  const [canarios, setCanarios] = useState<Canario[] | null>(null)
+  const [cargando, setCargando] = useState(true)
+  const [error, setError] = useState('')
+
+  useEffect(() => {
+    apiFetch<Canario[]>('/admin/canarios')
+      .then((res) => {
+        setCanarios(res)
+        setCargando(false)
+      })
+      .catch((err) => {
+        setError((err as Error).message)
+        setCargando(false)
+      })
+  }, [])
+
+  return (
+    <section className="mt-10 border-t border-border pt-8">
+      <div className="mb-3 flex items-center gap-2">
+        <Shield className="h-4 w-4 text-military" />
+        <h2 className="text-sm font-semibold text-foreground">Reactivos-canario</h2>
+        <span className="text-xs text-muted-foreground">· trampas anti-copia sembradas</span>
+      </div>
+      <p className="mb-4 max-w-2xl text-sm text-muted-foreground">
+        Reactivos inventados que se sirven en los exámenes pero <strong>no cuentan</strong> para
+        ningún aspirante. Si uno aparece en el material de un competidor, es prueba
+        de que copió tu banco. Aquí ves cuáles tienes y qué tan expuestos están.
+      </p>
+
+      {cargando ? (
+        <div className="flex items-center gap-2 text-sm text-muted-foreground">
+          <Loader2 className="h-4 w-4 animate-spin" />
+          Cargando…
+        </div>
+      ) : error ? (
+        <div className="flex items-center gap-2 rounded-md border border-destructive/30 bg-destructive/10 p-3 text-sm text-destructive">
+          <AlertCircle className="h-4 w-4 shrink-0" />
+          {error}
+        </div>
+      ) : !canarios || canarios.length === 0 ? (
+        <div className="rounded-lg border border-dashed border-border bg-card p-5 text-sm text-muted-foreground">
+          <p className="font-medium text-foreground">Todavía no hay canarios sembrados.</p>
+          <p className="mt-1">
+            Un canario es un reactivo inventado (creíble, con un dato único que solo
+            tú conoces). Se siembran con el script{' '}
+            <code className="rounded bg-muted px-1 py-0.5 text-xs">apps/backend/scripts/sembrar-canario.js</code>{' '}
+            — ahí escribes su contenido y a qué tema del banco cultural pertenece.
+          </p>
+        </div>
+      ) : (
+        <div className="overflow-x-auto rounded-lg border border-border">
+          <table className="w-full min-w-[640px] text-sm">
+            <thead>
+              <tr className="border-b border-border bg-muted/40 text-left text-xs uppercase tracking-wider text-muted-foreground">
+                <th className="px-3 py-2 font-medium">ID</th>
+                <th className="px-3 py-2 font-medium">Reactivo</th>
+                <th className="px-3 py-2 font-medium">Tema</th>
+                <th className="px-3 py-2 font-medium">Banco</th>
+                <th className="px-3 py-2 text-right font-medium">Veces servido</th>
+              </tr>
+            </thead>
+            <tbody>
+              {canarios.map((c) => (
+                <tr
+                  key={c.id}
+                  className="border-b border-border/60 last:border-0 hover:bg-muted/30"
+                >
+                  <td className="px-3 py-2 tabular-nums text-muted-foreground">{c.id}</td>
+                  <td className="px-3 py-2">
+                    <p className="max-w-md truncate text-foreground" title={c.enunciado}>
+                      {c.enunciado}
+                    </p>
+                  </td>
+                  <td className="px-3 py-2 text-muted-foreground">{c.tema ?? '—'}</td>
+                  <td className="px-3 py-2 text-muted-foreground">{c.banco}</td>
+                  <td className="px-3 py-2 text-right tabular-nums text-foreground">
+                    {c.vecesRespondido.toLocaleString('es-MX')}
                   </td>
                 </tr>
               ))}

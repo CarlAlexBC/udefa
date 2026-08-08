@@ -401,4 +401,34 @@ export class AdminService {
       LIMIT 50
     `);
   }
+
+  /**
+   * Reactivos-canario — Capa 5 del blindaje anti-copia. Son los reactivos
+   * marcados `noPuntua` que sembramos como trampa: se sirven en los exámenes pero
+   * no cuentan para ningún aspirante. Esta lista es para que el admin recuerde
+   * cuáles son sus canarios y vea cuántas veces se han servido (a más exposición,
+   * más probable que un ladrón que copió el banco los tenga). Si un canario
+   * aparece en material ajeno, es prueba de robo.
+   */
+  async canarios() {
+    const canarios = await this.prisma.reactivo.findMany({
+      where: { noPuntua: true },
+      select: {
+        id: true,
+        enunciado: true,
+        tema: true,
+        banco: true,
+        // Cuántas veces se ha contestado = qué tan expuesto está el canario.
+        _count: { select: { respuestas: true } },
+      },
+      orderBy: { id: 'asc' },
+    });
+    return canarios.map((c) => ({
+      id: c.id,
+      enunciado: c.enunciado,
+      tema: c.tema,
+      banco: c.banco,
+      vecesRespondido: c._count.respuestas,
+    }));
+  }
 }

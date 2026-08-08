@@ -41,4 +41,12 @@ export class AdminController {
   cuentasAVigilar() {
     return this.adminService.cuentasAVigilar();
   }
+
+  /**
+   * Reactivos-canario (trampas anti-copia, Capa 5). Ver AdminService.canarios.
+   */
+  @Get('canarios')
+  canarios() {
+    return this.adminService.canarios();
+  }
 }
