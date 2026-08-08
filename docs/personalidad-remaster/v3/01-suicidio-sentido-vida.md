@@ -13,7 +13,13 @@
 > **⚠️⚠️ Fondo sagrado — no se altera ningún enunciado de los 15 críticos, del protocolo de
 > crisis, ni de los recursos.** Solo cambia la escala de respuesta y su lectura en la lógica.
 >
-> **Estado: CERRADO — 100 reactivos** (2026-08-07). 33 pares + 12 trampas + 15 críticos de protocolo.
+> **Ampliación (8 ago 2026, a pedido de Carlo — el examen real da mucho peso a este tema):**
+> se añadió el **sub-lote 8 (reactivos 101-126): 26 nuevos gatillos CRÍTICO** con la gradación
+> directa del C-SSRS (ideación activa → plan → intención → conducta → intento) reforzada con
+> Joiner (capacidad, pertenencia), O'Connor (entrampamiento, futuro cancelado) y Nock
+> (autolesión, cross con el eje 5). Los reactivos de plan miden la **presencia**, nunca el método.
+>
+> **Estado: CERRADO — 126 reactivos** (2026-08-08). 33 pares + 12 trampas + **41 gatillos CRÍTICO** de protocolo (15 del cuerpo + 26 del bloque de riesgo alto).
 >
 > **Escala:** Verdadero / Falso (V = me describe / F = no me describe).
 
@@ -23,10 +29,10 @@ Evaluar la presencia de sentido de vida, resiliencia frente a la adversidad, e i
 
 ## Diseño
 
-- **Total:** 100 reactivos · **Escala:** Verdadero / Falso
+- **Total:** 126 reactivos · **Escala:** Verdadero / Falso
 - **Trampas:** 12 — 7 `trampa-L` (15, 30, 31, 33, 56, 74, 98); 5 con componente `K` (32, 57, 75, 88, 89), de las cuales **75 y 89 llevan también `F`** y **57 es cross-tema** con "Motivación al servicio militar".
 - **Pares afirmativo/invertido:** 33 pares directos + varios espejos cruzados entre sub-lotes (columna `par` = "espeja NN" en los mirror no recíprocos).
-- **Gatillos CRÍTICO — protocolo:** 15 reactivos que activan card `alerta` con recursos de crisis (06, 12, 29, 35, 36, 37, 39, 42, 48, 50, 60, 63, 71, 72, 100).
+- **Gatillos CRÍTICO — protocolo:** 41 reactivos que activan card `alerta` con recursos de crisis — 15 en el cuerpo (06, 12, 29, 35, 36, 37, 39, 42, 48, 50, 60, 63, 71, 72, 100) + **26 en el sub-lote 8 (101-126)**.
 - **🎖 Vínculo militar:** 0.
 
 ## Criterios de redacción (aplicados a todos los reactivos)
@@ -39,7 +45,7 @@ Evaluar la presencia de sentido de vida, resiliencia frente a la adversidad, e i
 
 ## Protocolo ético
 
-Cuando el analizador detecte respuestas de riesgo (**≥1 V** en los 15 gatillos CRÍTICO, o patrón de **F sistemáticos** en reactivos protectores + **V en negativos**):
+Cuando el analizador detecte respuestas de riesgo (**≥1 V** en cualquiera de los 41 gatillos CRÍTICO, o patrón de **F sistemáticos** en reactivos protectores + **V en negativos**):
 
 **Card específica** con severidad `alerta` (nueva, superior a `atencion`), color visualmente distinto pero no alarmista. **Mensaje empático NO patologizante:** "Detectamos respuestas que sugieren momentos de dificultad emocional. No es un diagnóstico — es una señal para que consideres apoyo profesional."
 
@@ -53,7 +59,7 @@ Cuando el analizador detecte respuestas de riesgo (**≥1 V** en los 15 gatillos
 **Reglas de sistema:**
 - NO envío automático de resultado a plantel/reclutamiento. Es análisis privado del aspirante.
 - NO invalidar automáticamente su examen por puntuar alto — la plataforma es preparación, no la evaluación oficial UDEFA.
-- **Nivel `alerta` máximo** (con números de crisis forzados en pantalla): activado por combinación de **`71 V + 72 V + 73 F`** (planeación con método + acceso a medios + ausencia de pacto de crisis). Patrón clínico de riesgo agudo inminente.
+- **Nivel `alerta` máximo** (con números de crisis forzados en pantalla): activado por **(a)** la combinación **`71 V + 72 V + 73 F`** (planeación con método + acceso a medios + ausencia de pacto de crisis), **o (b)** **V en cualquiera de los reactivos de máxima severidad del sub-lote 8**: intención (104), conducta preparatoria (105, 118), plan/ensayo (111, 112), intento previo/múltiple/interrumpido (106, 113, 114), autolesión (119), futuro cancelado directo (122), rechazo de ayuda (124) y urgencia aguda (125). El **intento previo (106/113/114)** es el predictor más fuerte y por sí solo fuerza este nivel.
 
 ## Contenido en el §4.6.1 de la Guía del Aspirante
 
@@ -210,6 +216,39 @@ Marcos de afrontamiento adaptativo (Lazarus & Folkman, Gross, Beck, Hayes/ACT, T
 | 99  | Aunque no siempre sé exactamente qué hacer, sé que puedo seguir viviendo bien.            | POS  | 100 | síntesis existencial protectora  | C-SSRS reason for living + Frankl integrado |
 | 100 | En este momento, no tengo claridad de si vale la pena que yo siga aquí.                   | NEG  | 99  | **CRÍTICO — cierre honesto**     | C-SSRS + patrón de fatiga de fachada        |
 
+## Sub-lote 8 · reactivos 101-126 · bloque de riesgo alto · ideación activa directa
+
+**Ampliación del 8 ago 2026 (decisión de Carlo).** El examen real da mucho peso a este tema, así que se amplía la gradación con los peldaños más directos y crudos del **C-SSRS** (ideación activa → plan → intención → conducta → intento), reforzados con **Joiner** (capacidad, pertenencia), **O'Connor** (entrampamiento, futuro cancelado) y **Nock** (autolesión). **Los 26 son CRÍTICO y activan protocolo.** Los marcados **`(alerta máx)`** fuerzan los números de crisis en pantalla. **Los reactivos de plan (111, 112) miden la presencia de un plan, nunca el método.** Los reactivos de autolesión (119, 120) **cruzan con el eje 5** (#25) — el analizador no debe contarlos doble.
+
+| #   | enunciado                                                                          | pol  | par | subnota                                                        | marco                                          |
+|-----|------------------------------------------------------------------------------------|------|-----|----------------------------------------------------------------|------------------------------------------------|
+| 101 | He pensado en quitarme la vida.                                                    | NEG  | —   | **CRÍTICO — ideación activa directa**                          | C-SSRS ítem 4 (active ideation)                |
+| 102 | En las últimas semanas he pensado en quitarme la vida.                             | NEG  | —   | **CRÍTICO — ideación activa reciente**                         | C-SSRS ítem 4 · ancla 2 semanas                |
+| 103 | Ha habido momentos en que sentí que ya no quería seguir viviendo.                  | NEG  | —   | **CRÍTICO — deseo de morir directo**                           | C-SSRS wish to die                             |
+| 104 | He pensado en quitarme la vida y he llegado a considerar hacerlo de verdad.        | NEG  | —   | **CRÍTICO (alerta máx) — intención**                           | C-SSRS ítem 5 (intent)                         |
+| 105 | Alguna vez he hecho algún preparativo pensando en terminar con mi vida.            | NEG  | —   | **CRÍTICO (alerta máx) — conducta preparatoria**               | C-SSRS preparatory behavior                    |
+| 106 | Alguna vez he intentado quitarme la vida.                                          | NEG  | —   | **CRÍTICO (alerta máx) — intento previo (predictor #1)**       | C-SSRS suicide attempt                         |
+| 107 | He llegado a decirle a alguien que ya no quería seguir viviendo.                   | NEG  | —   | **CRÍTICO — comunicación de la ideación**                      | suicidal communication                         |
+| 108 | Si hoy desapareciera, no encontraría una sola razón para quedarme.                 | NEG  | —   | **CRÍTICO — ausencia de razones para vivir**                   | Linehan reasons for living (invert.)           |
+| 109 | Pienso en quitarme la vida más seguido de lo que me gustaría admitir.             | NEG  | —   | **CRÍTICO — frecuencia de la ideación**                        | C-SSRS frequency                               |
+| 110 | Cuando me llega el pensamiento de hacerme daño, me cuesta quitármelo de la cabeza. | NEG  | —   | **CRÍTICO — control de la ideación**                           | C-SSRS controllability                         |
+| 111 | He pensado en una forma concreta de quitarme la vida.                              | NEG  | —   | **CRÍTICO (alerta máx) — plan con método (sin nombrarlo)**     | C-SSRS ítem 3 (method)                         |
+| 112 | He imaginado el momento en que lo haría.                                           | NEG  | —   | **CRÍTICO (alerta máx) — ensayo mental**                       | mental rehearsal                               |
+| 113 | He intentado quitarme la vida más de una vez.                                      | NEG  | —   | **CRÍTICO (alerta máx) — intentos múltiples**                  | multiple attempts · riesgo severo              |
+| 114 | Alguna vez estuve a punto de hacerme daño y algo o alguien me detuvo.              | NEG  | —   | **CRÍTICO (alerta máx) — intento interrumpido**                | aborted/interrupted attempt                    |
+| 115 | Siento que estoy atrapado en algo de lo que no encuentro salida.                   | NEG  | —   | **CRÍTICO — entrampamiento**                                   | O'Connor IMV (entrapment)                      |
+| 116 | Lo único que me ha detenido de hacerme daño es pensar en otras personas.          | NEG  | —   | **CRÍTICO — freno único y frágil**                             | single deterrent (fragile)                     |
+| 117 | En un momento muy malo, podría hacerme daño sin siquiera pensarlo.                 | NEG  | —   | **CRÍTICO — riesgo impulsivo**                                 | impulsive suicide risk                         |
+| 118 | He pensado en qué dejaría dicho o en cómo me despediría.                           | NEG  | —   | **CRÍTICO (alerta máx) — preparación de despedida**            | preparatory behavior (leave-taking)            |
+| 119 | Me he hecho daño físico a propósito, aunque no fuera para morir.                   | NEG  | —   | **CRÍTICO (alerta máx) — autolesión** · **cross eje 5 (#25)**  | Nock NSSI                                       |
+| 120 | Hacerme daño físico me ha servido para calmar lo que siento por dentro.           | NEG  | —   | **CRÍTICO — autolesión como regulación** · **cross eje 5**     | Nock NSSI (affect regulation)                  |
+| 121 | He dejado de hacer planes porque no me veo en el futuro.                           | NEG  | —   | **CRÍTICO — futuro cancelado (conductual)**                    | Beck foreshortened future                      |
+| 122 | Cuando pienso en los próximos años, no me imagino estando aquí.                    | NEG  | —   | **CRÍTICO (alerta máx) — futuro cancelado (directo)**          | sense of foreshortened future                  |
+| 123 | Siento que ya me despedí por dentro de casi todo lo que me importaba.              | NEG  | —   | **CRÍTICO — desconexión terminal**                             | terminal disconnection                         |
+| 124 | Aunque me ofrecieran ayuda, siento que para mí ya es demasiado tarde.             | NEG  | —   | **CRÍTICO (alerta máx) — rechazo de ayuda por desesperanza**   | help-negation (Rudd)                           |
+| 125 | A veces siento una urgencia fuerte de terminar con todo.                           | NEG  | —   | **CRÍTICO (alerta máx) — urgencia suicida aguda**              | acute suicidal affective disturbance           |
+| 126 | La idea de morir ya no me da el miedo que le tendría cualquiera.                   | NEG  | —   | **CRÍTICO — pérdida del miedo a morir**                        | Klonsky/Joiner fearlessness about death        |
+
 ---
 
 ## Espejos cruzados dentro del eje
@@ -244,10 +283,12 @@ Marcos de afrontamiento adaptativo (Lazarus & Folkman, Gross, Beck, Hayes/ACT, T
    - `emparejadoCon: Int?` — id del reactivo pareado afirmativo/invertido (alimenta índice de coherencia interna).
    - `espejaCon: Int[]?` — array de ids con los que forma espejo cruzado (alimenta índice de coherencia cross-tema).
 4. **Peso especial al reactivo 100** en el analizador — si viene precedido de **F** en 06, 29, 36, 63, 71 y aparece **V** en 100, se marca como "fatiga de fachada" y sube severidad de `alerta`.
-5. **Nivel `alerta` máximo** — activado por **`71 V + 72 V + 73 F`** (planeación con método + acceso a medios + ausencia de pacto de crisis). Fuerza el despliegue en pantalla de los números de crisis (SAPTEL, Línea de la Vida, 911).
+5. **Nivel `alerta` máximo** — activado por **`71 V + 72 V + 73 F`** o por **V en los reactivos de máxima severidad del sub-lote 8** (104, 105, 106, 111, 112, 113, 114, 118, 119, 122, 124, 125). Fuerza el despliegue en pantalla de los números de crisis (SAPTEL, Línea de la Vida, 911).
+7. **Sub-lote 8 (101-126):** 26 gatillos CRÍTICO nuevos (8 ago 2026). Todos `NEG` sin par (endorsar V = señal de riesgo). Los reactivos de plan (111, 112) miden presencia, no método. **119 y 120 cruzan con el eje 5 (#25)** — no doble conteo.
 6. **v3 — escala Verdadero/Falso:** toda la lógica del protocolo se leyó y tradujo de Sí/No a V/F (Sí→V, No→F). Verificar en la implementación que los 15 críticos y la combinación de riesgo agudo `71 V + 72 V + 73 F` queden **exactas** antes de activar el analizador.
 
 ## Historial de revisiones
 
 - **v1** (2026-07-17) — banco inicial completo, 100 reactivos, aplicando los tres criterios de redacción (corto + sin instituciones + social/personal) desde el sub-lote 4 v3 en adelante.
 - **v3** (2026-08-07) — **Ajuste a v3, NO reescritura. El eje más delicado; fondo sagrado intacto.** Único cambio de fondo: escala a **Verdadero/Falso**, incluida la **traducción exacta de la lógica del protocolo de crisis** (Sí→V, No→F): disparo de alerta ("≥1 V"), riesgo agudo inminente (`71 V + 72 V + 73 F`), patrón protector ("F en protectores + V en negativos"), escalas L/K globales, y la regla de "fatiga de fachada" del reactivo 100. Las 12 trampas re-anotadas `(V)`. **Ningún enunciado de los 15 críticos, del protocolo ético, ni de los recursos de crisis (SAPTEL, Línea de la Vida, 911) fue alterado.** **🎖 = 0** (tema universal e íntimo; nunca decorado castrense).
+- **v3-ampliado** (2026-08-08) — A pedido de Carlo (el examen real da mucho peso al tema), se **añadió el sub-lote 8 (101-126): 26 nuevos gatillos CRÍTICO** que completan la gradación directa del C-SSRS (ideación activa → plan → intención → conducta → intento) + Joiner (capacidad/pertenencia), O'Connor (entrampamiento, futuro cancelado) y Nock (autolesión, cross con el eje 5). El eje pasa de **100 → 126 reactivos** y de **15 → 41 críticos**. El **protocolo de máxima severidad** se amplió: además de `71 V + 72 V + 73 F`, cualquier V en los 12 reactivos de mayor riesgo del sub-lote 8 (intención, plan, conducta, intento previo/múltiple/interrumpido, autolesión, futuro cancelado directo, rechazo de ayuda, urgencia aguda) fuerza los números de crisis. **Los reactivos de plan miden presencia, nunca el método.** Feedback de Carlo: esta redacción cruda y directa es exactamente la del examen real para los temas fuertes.
