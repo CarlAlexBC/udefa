@@ -46,6 +46,9 @@ type Reactivo = {
   opciones: string[]
   tema: string | null
   bloqueId: number
+  // Reactivos con figura (p. ej. razonamiento abstracto): la imagen trae el
+  // enunciado visual y las opciones dibujadas; el `enunciado` de texto va vacío.
+  imagenUrl?: string | null
 }
 
 type Bloque = {
@@ -528,11 +531,31 @@ export default function SimuladorPage({
               217 caracteres, que a este tamaño son cinco líneas. Con 140 se
               desbordaba y movía las opciones. Si aun así se pasa, ahora sólo
               empuja hacia el scroll de esta zona, no a la navegación. */}
-          <div className="mb-8 flex min-h-[160px] items-center">
-            <h2 className="text-xl font-semibold leading-snug text-foreground sm:text-2xl">
-              {reactivoActual.enunciado}
-            </h2>
-          </div>
+          {/* Enunciado de texto: solo si lo hay. Los reactivos con figura
+              (razonamiento abstracto) lo llevan vacío — la pregunta va en la
+              imagen. */}
+          {reactivoActual.enunciado && (
+            <div className="mb-6 flex min-h-[120px] items-center">
+              <h2 className="text-xl font-semibold leading-snug text-foreground sm:text-2xl">
+                {reactivoActual.enunciado}
+              </h2>
+            </div>
+          )}
+
+          {/* Imagen del reactivo (razonamiento abstracto y demás con figura).
+              La imagen ya trae el enunciado visual y las opciones dibujadas; el
+              aspirante elige la letra en los botones de abajo. Va como <img>
+              normal (no next/image) porque el alto es variable por reactivo. */}
+          {reactivoActual.imagenUrl && (
+            <div className="mb-8 flex justify-center">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={reactivoActual.imagenUrl}
+                alt="Reactivo de razonamiento abstracto"
+                className="max-h-[46vh] w-auto max-w-full rounded-lg border border-border bg-neutral-900 object-contain"
+              />
+            </div>
+          )}
 
           <OpcionesReactivo
             opciones={reactivoActual.opciones}
