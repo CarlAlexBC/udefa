@@ -103,9 +103,13 @@ export class IntentosService {
       throw new NotFoundException('Reactivo no encontrado');
     }
 
-    const esCorrecta = intento.examen.calificable
-      ? reactivo.respuestaCorrecta === respuestaSeleccionada
-      : null;
+    // Los reactivos "no puntúa" (p. ej. los canarios anti-copia de la Capa 5) NO
+    // se califican: se sirven, pero no cuentan ni a favor ni en contra. Guardamos
+    // esCorrecta = null para que queden fuera de todo conteo (aquí y en analítica).
+    const esCorrecta =
+      intento.examen.calificable && !reactivo.noPuntua
+        ? reactivo.respuestaCorrecta === respuestaSeleccionada
+        : null;
 
     return this.prisma.respuestaReactivo.create({
       data: {
@@ -181,13 +185,18 @@ export class IntentosService {
     const ordenadas = [...intento.respuestas].sort(
       (a, b) => a.respondidoEnMs - b.respondidoEnMs,
     );
-    const respuestasConDelta = ordenadas.map((r, i) => ({
-      ...r,
-      tiempoDeltaMs:
-        i === 0
-          ? r.respondidoEnMs
-          : r.respondidoEnMs - ordenadas[i - 1].respondidoEnMs,
-    }));
+    const respuestasConDelta = ordenadas
+      .map((r, i) => ({
+        ...r,
+        tiempoDeltaMs:
+          i === 0
+            ? r.respondidoEnMs
+            : r.respondidoEnMs - ordenadas[i - 1].respondidoEnMs,
+      }))
+      // Canarios anti-copia (Capa 5): se sirven pero NO cuentan. El delta se
+      // calcula sobre la secuencia completa y luego se sacan, para no ensuciar
+      // aciertos, %, por-bloque, por-tema, diagnóstico ni señales críticas.
+      .filter((r) => !r.reactivo.noPuntua);
 
     // --- Métricas globales ---
     const reactivosRespondidos = respuestasConDelta.length;
