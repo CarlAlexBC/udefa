@@ -158,7 +158,18 @@ la metilación del ADN, las proteínas "lectoras", el método Chip-Seq, la metil
 histonas que silencia o activa según el aminoácido y la cola, la lisina y la arginina como
 las más estudiadas, y los sitios H3K4/H3K9/H3K27/H3K36/H3K79 y H4K20).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **307** (hoja 353) en adelante —las modificaciones de las histonas, el silenciamiento por ARN pequeños no codificantes, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **307**: los efectos de la metilación de histonas según el sitio
+(H3K4/H3K36/H3K79 con la activación transcripcional; H3K9/H3K27/H4K20 con la inactividad de la
+cromatina); la acetilación (los grupos acetilo y fosfato, David Allis a mediados de la década
+de 1990, la acetilación siempre asociada a la activación génica y su efecto físico por la
+carga negativa); la fosforilación (reparación del ADN y activación transcripcional); la
+ADP-ribosilación (similar a la acetilación); las demetilasas y deacetilasas como "borradoras";
+las variantes de histonas (el nucleosoma más o menos estable y las protaminas de las células
+espermáticas); la observación de Susan Strome (2014) sobre la herencia de las modificaciones
+de histonas; y el arranque de la remodelación de la cromatina (los nucleosomas móviles y la
+SWI/SNF de las levaduras).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **308** (hoja 354) en adelante —las modificaciones de las histonas, el silenciamiento por ARN pequeños no codificantes, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -3095,5 +3106,243 @@ De acuerdo con el libro de Biología, los sitios de metilación más estudiados 
 **Subtema:** epigenética · sitios de metilación de histonas
 
 Los sitios de metilación más estudiados son en la histona 3 (H3), la lisina (K), correspondientes a las posiciones 4, 9, 27, 36 y 79 (H3K4, H3K9, H3K27, H3K36, H3K79, respectivamente) y en la histona 4 (H4K20).
+
+---
+
+### 170
+
+De conformidad con el libro de Biología, ¿con qué está asociada, a modo de ejemplo, la metilación en H3K4, H3K36 y H3K79?
+
+- A. Con un aumento en la actividad transcripcional
+- B. Con un estado de inactividad de la cromatina
+- C. Con la reparación de los daños en el ADN
+- D. Con el reemplazo de las histonas por protaminas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · metilación de histonas · H3K activadoras
+
+Se considera que la metilación en H3K4, H3K36 y H3K79 está asociada a un aumento en la actividad transcripcional.
+
+---
+
+### 171
+
+En relación con el libro de Biología, ¿con qué se asocia la metilación en H3K9, H3K27 y H4K20?
+
+- A. Con un estado de inactividad de la cromatina
+- B. Con un aumento en la actividad transcripcional
+- C. Con la activación de todos los genes vecinos
+- D. Con la remoción total de las histonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · metilación de histonas · H3K silenciadoras
+
+La metilación en H3K9, H3K27 y H4K20 se asocia a un estado de inactividad de la cromatina.
+
+---
+
+### 172
+
+De acuerdo con el libro de Biología, además de los grupos metilo, ¿cuáles son dos de las moléculas más pequeñas que también pueden enlazarse a las colas de las histonas?
+
+- A. Los grupos acetilo y los grupos fosfato
+- B. Las moléculas de ADP-ribosa
+- C. Las protaminas
+- D. Las proteínas Tet
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · modificaciones de histonas · acetilo y fosfato
+
+Los grupos acetilo y los grupos fosfato son dos de las más pequeñas de estas moléculas.
+
+---
+
+### 173
+
+De conformidad con el libro de Biología, ¿cuál fue la primera de las modificaciones de las histonas en ser descrita, a mediados de la década de 1990, por el biólogo estadounidense David Allis?
+
+- A. La acetilación de las histonas
+- B. La fosforilación de las histonas
+- C. La metilación de las histonas
+- D. La ADP-ribosilación de las histonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · acetilación · David Allis
+
+La acetilación de las histonas fue la primera de las modificaciones en ser descrita a mediados de la década de 1990, por el biólogo estadounidense David Allis.
+
+---
+
+### 174
+
+En relación con el libro de Biología, ¿con qué está siempre asociada la acetilación de las histonas?
+
+- A. Con la activación génica
+- B. Con el silenciamiento génico
+- C. Con la reparación del ADN
+- D. Con la máxima compactación de la cromatina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · acetilación · activación
+
+Esta modificación siempre está asociada con la activación génica.
+
+---
+
+### 175
+
+De acuerdo con el libro de Biología, ¿cómo facilita la transcripción el efecto más directo de los grupos acetilo?
+
+- A. Su carga negativa debilita la atracción entre el ADN cargado negativamente y las histonas cargadas positivamente, lo que relaja la estructura del nucleosoma
+- B. Su carga positiva refuerza la atracción entre el ADN y las histonas
+- C. Marcan los grupos metilo con átomos de oxígeno para removerlos
+- D. Reemplazan las histonas convencionales por protaminas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · acetilación · mecanismo
+
+Los grupos acetilos tienen un efecto más directo, ya que su carga negativa debilita la atracción que se establece entre el ADN cargado negativamente y las histonas cargadas positivamente. Esta interferencia relaja la estructura del nucleosoma, facilitando la transcripción del ADN.
+
+---
+
+### 176
+
+De conformidad con el libro de Biología, la fosforilación de las histonas es una modificación cuyos efectos son aún menos comprendidos, pero ¿con qué se considera que están asociados?
+
+- A. Con la reparación del ADN y la activación transcripcional
+- B. Con el silenciamiento permanente de los genes
+- C. Con la formación de las protaminas
+- D. Con la demetilación pasiva del ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · fosforilación
+
+La fosforilación de las histonas es una modificación cuyos efectos son aún menos comprendidos, pero se considera que están asociados a la reparación del ADN y a la activación transcripcional.
+
+---
+
+### 177
+
+En relación con el libro de Biología, ¿de qué manera parece actuar la ADP-ribosilación de las histonas?
+
+- A. De manera similar a la acetilación, debilitando la estructura del nucleosoma y haciendo más accesible la transcripción del ADN
+- B. De manera similar a la metilación del ADN, silenciando los genes
+- C. Reemplazando las histonas convencionales por protaminas
+- D. Escindiendo del ADN los grupos metilo marcados
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · ADP-ribosilación
+
+La ADP-ribosilación de las histonas parece actuar de manera similar a la acetilación, debilitando la estructura del nucleosoma y como consecuencia de ello, haciendo más accesible la transcripción del ADN.
+
+---
+
+### 178
+
+De acuerdo con el libro de Biología, ¿cómo se postula que actúan las demetilasas y deacetilasas de histonas?
+
+- A. Como "borradoras" del patrón epigenético
+- B. Como "escritoras" del patrón epigenético
+- C. Como "lectoras" del patrón epigenético
+- D. Como variantes especializadas de las histonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · borradoras
+
+Otros ejemplos de proteínas reguladoras incluyen a las demetilasas y deacetilasas de histonas: se postula que actúan como "borradoras" del patrón epigenético.
+
+---
+
+### 179
+
+De conformidad con el libro de Biología, ¿en qué consiste la modificación de histonas más drástica que se conoce?
+
+- A. En el intercambio de histonas convencionales por variantes que presentan propiedades especializadas
+- B. En la acetilación simultánea de todas las colas de las histonas
+- C. En la remoción del grupo fosfato de las histonas
+- D. En la metilación de las bases de citosina del ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · variantes de histonas
+
+La modificación de histonas más drástica que se conoce involucra el intercambio de histonas convencionales por variantes que presentan propiedades especializadas.
+
+---
+
+### 180
+
+En relación con el libro de Biología, en las células espermáticas las histonas son totalmente removidas y reemplazadas, ¿por qué proteínas que permiten un empaquetamiento más compacto del ADN?
+
+- A. Por protaminas, más pequeñas que las histonas
+- B. Por proteínas Tet
+- C. Por demetilasas de histonas
+- D. Por proteínas SWI/SNF
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · protaminas
+
+En las células espermáticas, las histonas son totalmente removidas y reemplazadas por proteínas llamadas protaminas, más pequeñas que las histonas, de modo que permiten un empaquetamiento más compacto del ADN.
+
+---
+
+### 181
+
+De acuerdo con el libro de Biología, ¿qué observó en 2014 la bióloga del desarrollo estadounidense Susan Strome?
+
+- A. Que algunas modificaciones de las histonas presentes en las cadenas originales podían ser transferidas a las nuevas cadenas formadas en la replicación del ADN
+- B. Que las histonas se reemplazan por protaminas en todas las células del cuerpo
+- C. Que la metilación del ADN siempre activa la expresión de los genes
+- D. Que las proteínas Tet escinden los grupos acetilo de las histonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · herencia de modificaciones de histonas · Susan Strome
+
+En 2014, la bióloga del desarrollo estadounidense Susan Strome observó que algunas de las modificaciones de las histonas presentes en las cadenas originales podían ser transferidas a las nuevas cadenas formadas en la replicación del ADN.
+
+---
+
+### 182
+
+De conformidad con el libro de Biología, respecto de la remodelación de la cromatina, ¿qué característica de los nucleosomas es fundamental?
+
+- A. No están fijos, sino que pueden desplazarse a lo largo del ADN
+- B. Están fijos de forma permanente en un punto del ADN
+- C. Carecen por completo de histonas
+- D. Solo existen durante la fase mitótica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · remodelación de la cromatina
+
+Los nucleosomas no están fijos, sino que pueden desplazarse a lo largo del ADN. El delicado desmontaje, el reensamblaje y los movimientos de los nucleosomas son aspectos importantes de la regulación epigenética.
+
+---
+
+### 183
+
+En relación con el libro de Biología, las proteínas que coordinan la remodelación de la cromatina fueron observadas originalmente, ¿en qué células —lo que dio nombre a proteínas como la SWI/SNF?
+
+- A. En células de levaduras
+- B. En células espermáticas
+- C. En neuronas humanas
+- D. En bacterias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 307
+**Subtema:** epigenética · remodelación · SWI/SNF
+
+Las proteínas que coordinan este proceso de remodelación de la cromatina fueron observadas originalmente en células de levaduras, en las que por primera vez se consideró que podían tener papeles especializados.
 
 ---
