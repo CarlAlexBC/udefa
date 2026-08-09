@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { Fragment, useEffect, useState } from 'react'
 import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
 import {
@@ -438,6 +438,17 @@ function ListaReactivosEditable({
   const [polaridadSel, setPolaridadSel] = useState<'POSITIVA' | 'NEGATIVA' | null>(
     null,
   )
+  // Filtro de señal (client-side, banco v3): trampas / críticos / 🎖. Solo se usa
+  // en la vista de un tema, donde el tema entero está cargado.
+  const [senalSel, setSenalSel] = useState<'trampa' | 'critico' | 'militar' | null>(
+    null,
+  )
+
+  // La vista de un tema carga el tema completo (≤200) para poder agrupar por
+  // sub-lote, contar señales y filtrar sin ir al servidor. La búsqueda global,
+  // que cruza temas, se pagina como antes.
+  const esVistaTema = !mostrarFase
+  const pageSize = esVistaTema ? 200 : PAGE_SIZE
 
   // La consulta base más el filtro de polaridad, si hay uno activo.
   const queryConFiltro = polaridadSel
@@ -448,7 +459,7 @@ function ListaReactivosEditable({
     let vivo = true
     setCargando(true)
     setError('')
-    apiFetch<RespuestaReactivos>(`/reactivos?${queryConFiltro}&take=${PAGE_SIZE}&skip=0`)
+    apiFetch<RespuestaReactivos>(`/reactivos?${queryConFiltro}&take=${pageSize}&skip=0`)
       .then((res) => {
         if (!vivo) return
         setReactivos(res.data)
@@ -463,13 +474,13 @@ function ListaReactivosEditable({
     return () => {
       vivo = false
     }
-  }, [queryConFiltro])
+  }, [queryConFiltro, pageSize])
 
   async function cargarMas() {
     setCargandoMas(true)
     try {
       const res = await apiFetch<RespuestaReactivos>(
-        `/reactivos?${queryConFiltro}&take=${PAGE_SIZE}&skip=${meta.skip + meta.take}`,
+        `/reactivos?${queryConFiltro}&take=${pageSize}&skip=${meta.skip + meta.take}`,
       )
       setReactivos((prev) => [...prev, ...res.data])
       setMeta(res.meta)
@@ -492,6 +503,33 @@ function ListaReactivosEditable({
   const filtro = mostrarFiltro ? (
     <FiltroPolaridad seleccion={polaridadSel} onCambiar={setPolaridadSel} />
   ) : null
+
+  // Señales v3 (banco vivo). Las stats se sacan del set cargado completo; el
+  // filtro de señal esconde filas sin reconsultar.
+  const esMilitar = (r: Reactivo) => r.enunciado.includes('🎖')
+  const stats = {
+    total: reactivos.length,
+    emparejados: reactivos.filter((r) => r.parNumero !== null).length,
+    trampas: reactivos.filter((r) => r.tipoTrampa !== null).length,
+    criticos: reactivos.filter((r) => r.esCritico).length,
+    militares: reactivos.filter(esMilitar).length,
+  }
+  const reactivosVista = reactivos.filter((r) => {
+    if (!esVistaTema || senalSel === null) return true
+    if (senalSel === 'trampa') return r.tipoTrampa !== null
+    if (senalSel === 'critico') return r.esCritico
+    return esMilitar(r)
+  })
+
+  // Agrupado contiguo por sub-lote: los reactivos vienen ordenados por id (que
+  // sigue el orden del banco), así que cada sub-lote queda junto sin reordenar.
+  const grupos: Array<{ subLote: number | null; reactivos: Reactivo[] }> = []
+  for (const r of reactivosVista) {
+    const ultimo = grupos[grupos.length - 1]
+    if (ultimo && ultimo.subLote === r.subLote) ultimo.reactivos.push(r)
+    else grupos.push({ subLote: r.subLote, reactivos: [r] })
+  }
+  const numCols = (mostrarFase ? 2 : 0) + 4
 
   if (cargando)
     return (
@@ -521,16 +559,37 @@ function ListaReactivosEditable({
       </>
     )
   }
+  if (esVistaTema && reactivosVista.length === 0) {
+    return (
+      <>
+        {filtro}
+        <BarraSenales
+          stats={stats}
+          seleccion={senalSel}
+          onCambiar={setSenalSel}
+        />
+        <Vacio texto="Ningún reactivo de este tema tiene esa señal." />
+      </>
+    )
+  }
 
   return (
     <>
       {filtro}
-      <div className="mb-3 text-xs text-muted-foreground">
-        Mostrando{' '}
-        <span className="font-semibold text-foreground">{reactivos.length}</span>{' '}
-        de <span className="font-semibold text-foreground">{meta.total}</span>{' '}
-        reactivos
-      </div>
+      {esVistaTema ? (
+        <BarraSenales
+          stats={stats}
+          seleccion={senalSel}
+          onCambiar={setSenalSel}
+        />
+      ) : (
+        <div className="mb-3 text-xs text-muted-foreground">
+          Mostrando{' '}
+          <span className="font-semibold text-foreground">{reactivos.length}</span>{' '}
+          de <span className="font-semibold text-foreground">{meta.total}</span>{' '}
+          reactivos
+        </div>
+      )}
 
       <div className="overflow-hidden rounded-xl border border-border bg-card shadow-sm">
         <div className="overflow-x-auto">
@@ -546,45 +605,40 @@ function ListaReactivosEditable({
               </tr>
             </thead>
             <tbody>
-              {reactivos.map((r) => (
-                <tr
-                  key={r.id}
-                  className="border-b border-border/40 last:border-b-0 hover:bg-muted/20"
-                >
-                  {mostrarFase && (
-                    <td className="px-3 py-2">
-                      <FaseBadge tipo={r.bloque.examen.tipo} />
-                    </td>
-                  )}
-                  {mostrarFase && (
-                    <td className="px-3 py-2 text-xs text-muted-foreground">
-                      {r.tema ?? '—'}
-                    </td>
-                  )}
-                  <td className="max-w-md px-3 py-2 text-xs text-foreground">
-                    <p className="line-clamp-2">{r.enunciado}</p>
-                    <ChipsReactivo r={r} />
-                  </td>
-                  <td className="px-3 py-2">
-                    <PolaridadBadge polaridad={r.polaridad} />
-                  </td>
-                  <td className="px-3 py-2 text-xs text-muted-foreground">
-                    {r.respuestaCorrecta ?? (
-                      <span className="text-muted-foreground/60">—</span>
-                    )}
-                  </td>
-                  <td className="px-3 py-2 text-right">
-                    <button
-                      type="button"
-                      onClick={() => setEditando(r)}
-                      className="inline-flex items-center gap-1 rounded-md border border-border px-2 py-1 text-[11px] font-medium text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-                    >
-                      <Pencil className="h-3 w-3" />
-                      Editar
-                    </button>
-                  </td>
-                </tr>
-              ))}
+              {esVistaTema
+                ? grupos.map((g, gi) => (
+                    <Fragment key={g.subLote ?? `sin-sublote-${gi}`}>
+                      {g.subLote !== null && (
+                        <tr className="bg-muted/25">
+                          <td
+                            colSpan={numCols}
+                            className="px-3 py-1.5 text-[10px] font-semibold uppercase tracking-widest text-military/80"
+                          >
+                            Sub-lote {g.subLote}
+                            <span className="ml-1.5 font-normal text-muted-foreground">
+                              · {g.reactivos.length}
+                            </span>
+                          </td>
+                        </tr>
+                      )}
+                      {g.reactivos.map((r) => (
+                        <FilaReactivo
+                          key={r.id}
+                          r={r}
+                          mostrarFase={mostrarFase}
+                          onEditar={setEditando}
+                        />
+                      ))}
+                    </Fragment>
+                  ))
+                : reactivosVista.map((r) => (
+                    <FilaReactivo
+                      key={r.id}
+                      r={r}
+                      mostrarFase={mostrarFase}
+                      onEditar={setEditando}
+                    />
+                  ))}
             </tbody>
           </table>
         </div>
@@ -598,7 +652,7 @@ function ListaReactivosEditable({
               className="inline-flex items-center gap-2 rounded-md bg-accent px-4 py-1.5 text-xs font-semibold text-accent-foreground transition-opacity hover:opacity-90 disabled:opacity-50"
             >
               {cargandoMas ? <Loader2 className="h-3 w-3 animate-spin" /> : null}
-              Cargar {Math.min(PAGE_SIZE, meta.total - reactivos.length)} más
+              Cargar {Math.min(pageSize, meta.total - reactivos.length)} más
             </button>
           </div>
         )}
@@ -618,6 +672,119 @@ function ListaReactivosEditable({
         />
       )}
     </>
+  )
+}
+
+/** Una fila de la tabla de reactivos, con sus chips de señal y el botón editar. */
+function FilaReactivo({
+  r,
+  mostrarFase,
+  onEditar,
+}: {
+  r: Reactivo
+  mostrarFase: boolean
+  onEditar: (r: Reactivo) => void
+}) {
+  return (
+    <tr className="border-b border-border/40 last:border-b-0 hover:bg-muted/20">
+      {mostrarFase && (
+        <td className="px-3 py-2">
+          <FaseBadge tipo={r.bloque.examen.tipo} />
+        </td>
+      )}
+      {mostrarFase && (
+        <td className="px-3 py-2 text-xs text-muted-foreground">
+          {r.tema ?? '—'}
+        </td>
+      )}
+      <td className="max-w-md px-3 py-2 text-xs text-foreground">
+        <p className="line-clamp-2">{r.enunciado}</p>
+        <ChipsReactivo r={r} />
+      </td>
+      <td className="px-3 py-2">
+        <PolaridadBadge polaridad={r.polaridad} />
+      </td>
+      <td className="px-3 py-2 text-xs text-muted-foreground">
+        {r.respuestaCorrecta ?? (
+          <span className="text-muted-foreground/60">—</span>
+        )}
+      </td>
+      <td className="px-3 py-2 text-right">
+        <button
+          type="button"
+          onClick={() => onEditar(r)}
+          className="inline-flex items-center gap-1 rounded-md border border-border px-2 py-1 text-[11px] font-medium text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+        >
+          <Pencil className="h-3 w-3" />
+          Editar
+        </button>
+      </td>
+    </tr>
+  )
+}
+
+/** Mini-stats + filtro de señal (banco v3) para la vista de un tema. Las cuentas
+    salen del tema completo cargado; tocar una filtra la tabla sin reconsultar. */
+function BarraSenales({
+  stats,
+  seleccion,
+  onCambiar,
+}: {
+  stats: {
+    total: number
+    emparejados: number
+    trampas: number
+    criticos: number
+    militares: number
+  }
+  seleccion: 'trampa' | 'critico' | 'militar' | null
+  onCambiar: (v: 'trampa' | 'critico' | 'militar' | null) => void
+}) {
+  const filtros: Array<{
+    valor: 'trampa' | 'critico' | 'militar'
+    label: string
+    n: number
+  }> = [
+    { valor: 'critico', label: 'Críticos', n: stats.criticos },
+    { valor: 'trampa', label: 'Trampas', n: stats.trampas },
+    { valor: 'militar', label: '🎖', n: stats.militares },
+  ]
+  const disponibles = filtros.filter((f) => f.n > 0)
+  const claseChip = (activo: boolean) =>
+    cn(
+      'inline-flex items-center gap-1 rounded-md px-2.5 py-1 text-xs font-medium transition-colors',
+      activo
+        ? 'bg-accent text-accent-foreground'
+        : 'border border-border text-muted-foreground hover:text-foreground',
+    )
+  return (
+    <div className="mb-3 flex flex-wrap items-center gap-2">
+      <button
+        type="button"
+        onClick={() => onCambiar(null)}
+        className={claseChip(seleccion === null)}
+      >
+        Todos <span className="font-semibold">{stats.total}</span>
+      </button>
+      {disponibles.map((f) => {
+        const activo = seleccion === f.valor
+        return (
+          <button
+            key={f.valor}
+            type="button"
+            onClick={() => onCambiar(activo ? null : f.valor)}
+            className={claseChip(activo)}
+          >
+            {f.label} <span className="font-semibold">{f.n}</span>
+          </button>
+        )
+      })}
+      {stats.emparejados > 0 && (
+        <span className="text-xs text-muted-foreground">
+          · {stats.emparejados} emparejados
+        </span>
+      )}
+    </div>
   )
 }
 
