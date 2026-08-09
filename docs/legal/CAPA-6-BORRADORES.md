@@ -185,9 +185,55 @@ Antes de hablar con nadie, guarda la prueba:
 
 ---
 
+## 5. Trámites pendientes ante instituciones
+
+Al 9 de agosto de 2026 **la plataforma no está registrada ante ninguna
+institución de gobierno.** Por eso se retiró del sitio toda afirmación que diera
+por hecho un registro (ver abajo). Esto **no impide operar**, pero conviene
+resolverlo antes de vender de forma sostenida.
+
+| Trámite | Para qué | Estado |
+|---|---|---|
+| Alta ante el **SAT** (persona física con actividad empresarial, RESICO) | Facturar y declarar ingresos; es lo que permite publicar una identidad fiscal | Pendiente |
+| Registro de obra ante el **INDAUTOR** | Fecha cierta de autoría (ver sección 3) | Pendiente |
+| Registro de marca ante el **IMPI** | Poder usar ® en "El Monote te Guía" y defender el nombre | Pendiente — opcional |
+
+**Lo que se retiró del sitio el 9 ago 2026** (para no afirmar algo que aún no es
+cierto):
+
+- La **identidad fiscal** en el Aviso legal ("Identidad del responsable") y en la
+  Política de privacidad ("Responsable de tus datos"). El dato sigue guardado en
+  `src/lib/legal.ts` con instrucciones para volver a insertarlo cuando exista el
+  alta ante el SAT.
+- La **Política de reembolsos** completa, por decisión de Carlo.
+
+El símbolo ® nunca se usó, justamente por no haber registro ante el IMPI.
+
+---
+
 ## Resumen de lo que falta
 
 - [ ] Que un abogado revise y corrija las cláusulas de las secciones 1 y 2.
 - [ ] Publicar las cláusulas ya aprobadas en las páginas legales.
+- [ ] Definir qué dicen los Términos sobre cancelaciones (ver nota al final).
+- [ ] Alta ante el SAT → reinsertar la identidad fiscal en las dos páginas.
 - [ ] Registrar las obras ante el INDAUTOR.
 - [ ] Importar los canarios a la base (`--escribir`).
+
+---
+
+## Nota sobre las cancelaciones (para hablarlo con el abogado)
+
+La Política de reembolsos se eliminó el 9 de agosto de 2026 por decisión de
+Carlo. Vale la pena que se lo plantees al abogado por dos razones:
+
+1. La **Ley Federal de Protección al Consumidor** pide que las condiciones de
+   compra sean claras antes de pagar. Al no haber ningún texto sobre
+   cancelaciones, hoy los Términos no dicen nada al respecto.
+2. **Mercado Pago** resuelve las contracargos con sus propias reglas. Sin una
+   postura escrita de tu parte, esas disputas se deciden sin tu política.
+
+No hace falta un documento aparte: bastaría **una o dos frases dentro de
+Términos**, sección 5, diciendo lo que tú decidas — por ejemplo, que por tratarse
+de contenido digital de acceso inmediato no hay devolución, o la ventana que
+prefieras. Cuando lo decidas se agrega ahí.

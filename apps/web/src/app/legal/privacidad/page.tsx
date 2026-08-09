@@ -22,8 +22,7 @@ export default function PrivacidadPage() {
       <DocSeccion titulo="Responsable de tus datos">
         <DocParrafo>
           El responsable del tratamiento de tus datos personales es{' '}
-          <DatoLegal valor={LEGAL.titular} /> (
-          <DatoLegal valor={LEGAL.identidadFiscal} />), titular de{' '}
+          <DatoLegal valor={LEGAL.titular} />, titular de{' '}
           {LEGAL.nombreComercial}. Contacto para privacidad:{' '}
           <DatoLegal valor={LEGAL.correoContacto} />. Esta política se rige por la
           Ley Federal de Protección de Datos Personales en Posesión de los
@@ -46,7 +45,7 @@ export default function PrivacidadPage() {
           <li>
             <span className="font-medium text-foreground">De pago:</span> cuando
             compres acceso, el cobro lo procesa{' '}
-            <DatoLegal valor={LEGAL.reembolsos.proveedorPagos} />. No almacenamos
+            <DatoLegal valor={LEGAL.proveedorPagos} />. No almacenamos
             los datos completos de tu tarjeta en nuestros servidores.
           </li>
           <li>

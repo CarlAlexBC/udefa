@@ -24,10 +24,20 @@ export const LEGAL = {
   titular: 'Carlo Alexander',
 
   /**
+   * ⏳ PENDIENTE — HOY NO SE PUBLICA EN NINGUNA PÁGINA.
+   *
    * Identidad fiscal. Escenario elegido: persona física con actividad
-   * empresarial (RESICO). Cuando te des de alta en el SAT, sustituye el
-   * marcador por tu nombre completo + RFC, p. ej.:
-   *   'Carlo Alexander [Apellidos], persona física con actividad empresarial (RESICO), RFC XXXX000000XX0'
+   * empresarial (RESICO). Se retiró del Aviso legal y de la Política de
+   * privacidad (9 ago 2026) porque **todavía no hay alta ante el SAT**, y
+   * afirmar una identidad fiscal que no existe sería decir algo que no es
+   * cierto.
+   *
+   * Cuando te des de alta: sustituye el marcador por tu nombre completo + RFC,
+   * p. ej. 'Carlo Alexander [Apellidos], persona física con actividad
+   * empresarial (RESICO), RFC XXXX000000XX0', y vuelve a insertarlo en
+   * `src/app/legal/aviso-legal/page.tsx` (sección "Identidad del responsable")
+   * y en `src/app/legal/privacidad/page.tsx` (sección "Responsable de tus
+   * datos"), que es de donde se quitó.
    */
   identidadFiscal: POR_COMPLETAR('persona física con actividad empresarial (RESICO): nombre completo + RFC'),
 
@@ -47,16 +57,14 @@ export const LEGAL = {
   jurisdiccion: POR_COMPLETAR('ciudad y estado para la cláusula de jurisdicción'),
 
   /**
-   * Política de reembolsos: por ser productos digitales de acceso inmediato,
-   * define tu ventana y condiciones. Ejemplo de default razonable abajo, pero
-   * confírmalo (Ley Federal de Protección al Consumidor / PROFECO).
+   * Proveedor de pagos. Decidido: Mercado Pago (integración Checkout Pro).
+   *
+   * Nota: la Política de reembolsos se eliminó el 9 ago 2026 por decisión de
+   * Carlo, y con ella su ventana de días. Si más adelante se define una postura
+   * sobre cancelaciones y devoluciones, va como cláusula dentro de Términos
+   * (sección 5, "Pagos, planes y acceso"), no como documento aparte.
    */
-  reembolsos: {
-    /** Días para solicitar reembolso tras la compra. '0' = sin reembolso. */
-    ventanaDias: POR_COMPLETAR('días de ventana de reembolso, p. ej. 7, o 0 si no aplica'),
-    /** Proveedor de pagos. Decidido: Mercado Pago (integración Checkout Pro). */
-    proveedorPagos: 'Mercado Pago',
-  },
+  proveedorPagos: 'Mercado Pago',
 
   /**
    * Fecha de última actualización que se muestra en cada documento.
@@ -116,5 +124,4 @@ export const DOCUMENTOS_LEGALES = [
   { slug: 'terminos', titulo: 'Términos y condiciones' },
   { slug: 'privacidad', titulo: 'Política de privacidad' },
   { slug: 'cookies', titulo: 'Política de cookies' },
-  { slug: 'reembolsos', titulo: 'Política de reembolsos' },
 ] as const

@@ -22,9 +22,8 @@ export default function AvisoLegalPage() {
       <DocSeccion titulo="Identidad del responsable">
         <DocParrafo>
           Este sitio web y la plataforma {LEGAL.nombreComercial} (en adelante, «la
-          plataforma») son operados por{' '}
-          <DatoLegal valor={LEGAL.titular} />, bajo la identidad fiscal:{' '}
-          <DatoLegal valor={LEGAL.identidadFiscal} />.
+          plataforma») son operados por <DatoLegal valor={LEGAL.titular} />, como
+          proyecto independiente.
         </DocParrafo>
         <DocParrafo>
           Para cualquier consulta relacionada con este aviso legal puedes

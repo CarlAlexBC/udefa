@@ -86,12 +86,7 @@ export default function TerminosPage() {
           la convocatoria vigente al momento de la compra; no son una suscripción
           con renovación automática. Su modalidad y alcance se indican al momento
           de la compra. El cobro se procesa a través de{' '}
-          <DatoLegal valor={LEGAL.reembolsos.proveedorPagos} />. Las condiciones
-          de devolución se detallan en la{' '}
-          <a className="text-accent hover:underline" href="/legal/reembolsos">
-            Política de reembolsos
-          </a>
-          .
+          <DatoLegal valor={LEGAL.proveedorPagos} />.
         </DocParrafo>
       </DocSeccion>
 
