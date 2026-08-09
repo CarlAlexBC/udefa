@@ -180,7 +180,16 @@ estructuras secundarias del ARN, la clasificación en ARN largos [ARNlnc, más d
 pequeños [miARN, ARNsi, ARNpi, menos de 200 nt], los ARN circulares como familia aparte, los ARN
 reguladores que bajan la expresión y los ARN potenciadores ERNA que la aumentan).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **309** (hoja 355) en adelante —las modificaciones de las histonas, el silenciamiento por ARN pequeños no codificantes, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **309**: el apartado "ARN largos no codificantes" (los ARNlnc de al
+menos 200 bases, las ~8000 variantes del genoma humano, su papel como "andamios", la inactivación
+del cromosoma X como ejemplo, el reclutamiento de proteínas polycomb y la inhibición de los genes
+HOX); el arranque del "Silenciamiento por ARN pequeños no codificantes" con los microARN (miARN de
+19-24 bases, el complejo RISC, la destrucción del ARNm con apareamiento perfecto y el bloqueo de la
+traducción con apareamiento imperfecto, la familia argonauta, los cuerpos P y la multiplicidad de
+blancos); y el recuadro 14-2 (Craig Mello y Andrew Fire, el silenciamiento por ARN cortos y el
+premio Nobel de 2006).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **310** (hoja 356) en adelante —las modificaciones de las histonas, el silenciamiento por ARN pequeños no codificantes, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -3576,5 +3585,260 @@ De acuerdo con el libro de Biología, cuando algunas cadenas de ARN se enlazan c
 **Subtema:** epigenética · ARN · estructuras secundarias
 
 Otras pueden también enlazarse con partes complementarias de ellas mismas, adquiriendo un plegado en formas tridimensionales que se conocen como estructuras secundarias.
+
+---
+
+### 197
+
+De conformidad con el libro de Biología, ¿cuántas bases de largo tienen, al menos, los ARN largos no codificantes (ARNlnc)?
+
+- A. Al menos 200 bases
+- B. Al menos 50 bases
+- C. Al menos 2000 bases
+- D. Al menos 20 bases
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · ARNlnc
+
+Las moléculas de ARN más largas que coordinan la regulación epigenética se han denominado ARN largos no codificantes (ARNlnc), y tienen al menos 200 bases de largo y cumplen varias funciones en el núcleo.
+
+---
+
+### 198
+
+En relación con el libro de Biología, ¿cuántas variantes de ARNlnc se han identificado en el genoma humano?
+
+- A. Alrededor de 8000 variantes
+- B. Alrededor de 200 variantes
+- C. Alrededor de 100 000 variantes
+- D. Alrededor de 20 variantes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · ARNlnc · genoma humano
+
+Se han identificado alrededor de 8000 variantes de ARNlnc en el genoma humano.
+
+---
+
+### 199
+
+De acuerdo con el libro de Biología, ¿cómo actúan los ARNlnc en la formación de complejos moleculares que regulan diversos procesos?
+
+- A. Como "andamios"
+- B. Como "borradoras"
+- C. Como "tijeras"
+- D. Como "camiones de basura"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · ARNlnc · andamios
+
+De alguna manera, los ARNlnc actúan como "andamios" en la formación de complejos moleculares que regulan diversos procesos.
+
+---
+
+### 200
+
+De conformidad con el libro de Biología, ¿cuál es un ejemplo muy significativo de la actividad de los ARNlnc en la regulación epigenética del ADN?
+
+- A. La inactivación del cromosoma X
+- B. La replicación del ADN mitocondrial
+- C. La síntesis de las proteínas ribosómicas
+- D. La formación de los gametos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · ARNlnc · inactivación del X
+
+Un ejemplo muy significativo de la actividad de los ARNlnc en la regulación epigenética del ADN es la inactivación del cromosoma X.
+
+---
+
+### 201
+
+En relación con el libro de Biología, los ARNlnc median el silenciamiento de "bloques de cromatina" al reclutar proteínas de una familia particular, ¿cuál?
+
+- A. La familia polycomb
+- B. La familia argonauta
+- C. La familia Dicer
+- D. La familia de las protaminas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · ARNlnc · polycomb
+
+Los ARNlnc también median el silenciamiento de "bloques de cromatina" al reclutar proteínas de una familia particular denominada polycomb.
+
+---
+
+### 202
+
+De acuerdo con el libro de Biología, los ARNlnc tienen un papel central en el desarrollo al inhibir la expresión de genes regulatorios, ¿de qué familia?
+
+- A. La familia HOX
+- B. La familia polycomb
+- C. La familia argonauta
+- D. La familia SWI/SNF
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · ARNlnc · genes HOX
+
+Se ha visto que tienen un papel central en el desarrollo, al inhibir la expresión de genes regulatorios de la familia HOX, cuya actividad diferencial en distintas poblaciones celulares es central en la regionalización del embrión durante el primer mes de desarrollo.
+
+---
+
+### 203
+
+De conformidad con el libro de Biología, tras abandonar el núcleo, las hebras precursoras que dan lugar a los microARN (miARN) se fragmentan en hebras más cortas, ¿de qué tamaño?
+
+- A. De 19 a 24 bases
+- B. De 200 a 400 bases
+- C. De 50 a 100 bases
+- D. De 2 a 5 bases
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · miARN · tamaño
+
+Después de abandonar el núcleo, ciertas hebras precursoras de ARN de mayor tamaño se fragmentan en hebras más cortas de 19 a 24 bases.
+
+---
+
+### 204
+
+En relación con el libro de Biología, los miARN maduros se ensamblan a proteínas y forman un complejo que evita la traducción del ARNm, ¿cómo se denomina?
+
+- A. Complejo silenciador inducido por ARN (RISC)
+- B. Complejo polycomb
+- C. Enzima Dicer
+- D. Cuerpo P
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · miARN · RISC
+
+Los miARN maduros pueden, entonces, ensamblarse a proteínas, y formar un complejo denominado Complejo silenciador inducido por ARN (RISC, por sus siglas en inglés), que interviene uniéndose a moléculas de ARNm complementarias, evitando su traducción a proteínas.
+
+---
+
+### 205
+
+De acuerdo con el libro de Biología, ¿qué desencadenan las secuencias de miARN que están perfectamente apareadas con el ARNm?
+
+- A. La destrucción de la cadena de ARNm
+- B. El bloqueo de la traducción sin destruir el ARNm
+- C. La activación de la traducción del ARNm
+- D. La metilación del ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · miARN · apareamiento perfecto
+
+Las secuencias de miARN que están perfectamente apareadas desencadenan la destrucción de la cadena de ARNm, mientras las cadenas de miARN, cuyo apareamiento es imperfecto, bloquean la traducción de ARNm.
+
+---
+
+### 206
+
+De conformidad con el libro de Biología, ¿qué hacen las cadenas de miARN cuyo apareamiento con el ARNm es imperfecto?
+
+- A. Bloquean la traducción del ARNm
+- B. Destruyen la cadena de ARNm
+- C. Activan la transcripción del gen
+- D. Metilan las colas de las histonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · miARN · apareamiento imperfecto
+
+Las cadenas de miARN, cuyo apareamiento es imperfecto, bloquean la traducción de ARNm.
+
+---
+
+### 207
+
+En relación con el libro de Biología, ¿las proteínas de qué familia, parte del complejo RISC, facilitan el posicionamiento de los miARN y degradan los ARNm cuando el apareamiento es perfecto?
+
+- A. La familia argonauta
+- B. La familia polycomb
+- C. La familia HOX
+- D. La familia de las protaminas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · miARN · argonauta
+
+Las proteínas de la familia argonauta, que son parte del complejo RISC, tienen el doble papel de facilitar el posicionamiento de los miARN y degradar los ARNm cuando el apareamiento es perfecto.
+
+---
+
+### 208
+
+De acuerdo con el libro de Biología, cuando el apareamiento es imperfecto y se bloquea la traducción, ¿a qué vesículas citoplasmáticas se traslada el complejo RISC, donde otras enzimas degradan el ARNm?
+
+- A. A los cuerpos P
+- B. A los islotes de Langerhans
+- C. A los cuerpos de Barr
+- D. A los ribosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · miARN · cuerpos P
+
+Cuando el apareamiento es imperfecto y se bloquea la traducción del ARNm, el complejo RISC se traslada a vesículas citoplasmáticas llamadas cuerpos P, en donde otras enzimas degradan el ARNm.
+
+---
+
+### 209
+
+De conformidad con el libro de Biología, respecto de la especificidad de los blancos, ¿qué ocurre con un miARN individual?
+
+- A. Puede tener como blanco a muchos ARNm diferentes, y un ARNm puede ser bloqueado por varios miARN diferentes
+- B. Solo puede bloquear un único ARNm específico
+- C. Cada ARNm solo puede ser bloqueado por un único miARN
+- D. Los miARN no tienen a ningún ARNm como blanco
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · miARN · especificidad
+
+Cada miARN individual puede tener como blanco a muchos ARNm diferentes, así como la traducción de un ARNm individual puede ser bloqueada por varios miARN diferentes.
+
+---
+
+### 210
+
+En relación con el libro de Biología, ¿qué describieron en 1998 los genetistas estadounidenses Craig Mello y Andrew Fire?
+
+- A. El silenciamiento del ARNm por efecto de ARN cortos
+- B. La estructura en doble hélice del ADN
+- C. La primera modificación conocida de las histonas
+- D. La inactivación del cromosoma X
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · recuadro 14-2, Mello y Fire
+
+En 1998, los genetistas estadounidenses Craig Mello y Andrew Fire describieron el silenciamiento del ARNm por efecto de ARN cortos.
+
+---
+
+### 211
+
+De acuerdo con el libro de Biología, ¿qué premio obtuvieron Mello y Fire por su contribución, y en qué año?
+
+- A. El premio Nobel de Fisiología y Medicina en 2006
+- B. El premio Nobel de Química en 1998
+- C. El premio Nobel de la Paz en 2006
+- D. El premio Nobel de Fisiología y Medicina en 1958
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 309
+**Subtema:** epigenética · recuadro 14-2, premio Nobel
+
+Por su contribución, Mello y Fire obtuvieron el premio Nobel de Fisiología y Medicina en 2006, muy poco tiempo después de haber dado a conocer sus resultados.
 
 ---
