@@ -149,7 +149,16 @@ familias y su papel en la reparación del ADN); la demetilación del ADN como pr
 "borrador"; la fig. 14-9; y el recuadro 14-1 completo (Rudolf Jaenisch, los ratones sin ADN
 metiltransferasa y las células cancerosas).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **306** (hoja 352) en adelante —las modificaciones de las histonas, el silenciamiento por ARN pequeños no codificantes, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **306**: la demetilación pasiva (el patrón original de metilación
+no copiado a las nuevas cadenas, fenómeno de la fase mitótica, fig. 14-10) y la demetilación
+activa (los grupos metilo "marcados" por átomos de oxígeno y las proteínas Tet "borradoras"
+que los escinden); y el arranque del apartado "Modificaciones en las histonas" (las histonas
+como "escritoras", las "colas" que asoman del nucleosoma, la mayor rapidez de cambio frente a
+la metilación del ADN, las proteínas "lectoras", el método Chip-Seq, la metilación de
+histonas que silencia o activa según el aminoácido y la cola, la lisina y la arginina como
+las más estudiadas, y los sitios H3K4/H3K9/H3K27/H3K36/H3K79 y H4K20).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **307** (hoja 353) en adelante —las modificaciones de las histonas, el silenciamiento por ARN pequeños no codificantes, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -2865,5 +2874,226 @@ En relación con el libro de Biología, ¿qué sugieren los resultados de las in
 **Subtema:** epigenética · recuadro 14-1, conclusión
 
 Los resultados de estas investigaciones sugieren que el normal funcionamiento de las células y de los organismos requiere la ocurrencia de patrones normales de metilación.
+
+---
+
+### 157
+
+De acuerdo con el libro de Biología, en la demetilación pasiva del ADN, ¿qué ocurre con el patrón original de metilación?
+
+- A. Simplemente no es copiado a las nuevas cadenas que resultan de la replicación del ADN
+- B. Es marcado por átomos de oxígeno y escindido por proteínas Tet
+- C. Se copia de forma idéntica a las dos cadenas hijas
+- D. Se transfiere íntegro a las histonas vecinas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · demetilación pasiva
+
+En estos casos, el patrón original de metilación simplemente no es copiado a las nuevas cadenas que resultan de la replicación del ADN. Se ha observado que puede ocurrir esta demetilación pasiva (fig. 14-10).
+
+---
+
+### 158
+
+De conformidad con el libro de Biología, ¿en qué fase del ciclo celular se ha descrito la demetilación pasiva?
+
+- A. En la fase mitótica
+- B. En la fase de síntesis (S)
+- C. En la interfase G0
+- D. En la meiosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · demetilación pasiva
+
+Este fenómeno, descrito en la fase mitótica, se encuentra en estudio y su papel no ha sido del todo dilucidado.
+
+---
+
+### 159
+
+En relación con el libro de Biología, ¿en qué situaciones se observa el proceso de demetilación activa, cuando la metilación debe revertirse rápidamente?
+
+- A. Durante la diferenciación celular y la adaptación de células maduras frente a daños producidos por químicos, calor u otros estímulos
+- B. Durante la replicación normal del ADN en la fase de síntesis
+- C. Únicamente durante la formación de los gametos
+- D. Solo en las células cancerosas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · demetilación activa
+
+Algunos ejemplos de ello se observan durante el proceso de diferenciación celular y la adaptación de células maduras frente a daños producidos por químicos, calor u otros estímulos.
+
+---
+
+### 160
+
+De acuerdo con el libro de Biología, en la demetilación activa, ¿cómo son "marcados" los grupos metilo que serán removidos?
+
+- A. Por átomos de oxígeno
+- B. Por grupos acetilo
+- C. Por grupos fosfato
+- D. Por moléculas de ADP-ribosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · demetilación activa
+
+Durante este, los grupos metilos que serán removidos son "marcados" por átomos de oxígeno.
+
+---
+
+### 161
+
+De conformidad con el libro de Biología, en la demetilación activa, ¿qué proteínas —denominadas "borradoras"— desmontan el patrón de metilación y escinden del ADN los grupos metilo marcados?
+
+- A. Las proteínas Tet
+- B. Las protaminas
+- C. Las demetilasas de histonas
+- D. Las proteínas SWI/SNF
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · demetilación activa · proteínas Tet
+
+A continuación, proteínas llamadas Tet, a las que se suele denominar "borradoras", desmontan el patrón de metilación, se enlazan específicamente en los grupos metilo que se encuentran marcados y los escinden del ADN.
+
+---
+
+### 162
+
+En relación con el libro de Biología, a las modificaciones que marcan a las histonas con grupos metilo y una gran variedad de moléculas, ¿cómo se las considera en la clasificación literaria?
+
+- A. Como "escritoras"
+- B. Como "lectoras"
+- C. Como "borradoras"
+- D. Como "decodificadoras"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · modificaciones de histonas · escritoras
+
+Las histonas pueden ser marcadas por grupos metilo, así como por una gran variedad de moléculas, cada una de las cuales produce diferentes efectos. A este tipo de modificaciones se las considera en la clasificación literaria como "escritoras".
+
+---
+
+### 163
+
+De acuerdo con el libro de Biología, ¿en qué porciones de la histona ocurre la mayoría de las modificaciones?
+
+- A. En las "colas", las porciones de la proteína que asoman del centro de la estructura del nucleosoma
+- B. En el centro globular del nucleosoma
+- C. En el segmento de ADN que rodea a la histona
+- D. En la molécula de ADP-ribosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · histonas · colas
+
+La mayoría de las modificaciones ocurren en las porciones de la proteína que asoman del centro de la estructura del nucleosoma, usualmente llamadas "colas".
+
+---
+
+### 164
+
+De conformidad con el libro de Biología, ¿cómo cambian los patrones de modificación de las histonas en comparación con los patrones de metilación del ADN?
+
+- A. Más a menudo y más rápidamente que los patrones de metilación del ADN
+- B. Más lentamente que los patrones de metilación del ADN
+- C. Exactamente al mismo ritmo que los patrones de metilación del ADN
+- D. Nunca cambian una vez que se han establecido
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · histonas · dinámica
+
+Los patrones de modificación de las histonas cambian más a menudo y más rápidamente que los patrones de metilación del ADN. Por lo general, estos cambios parecen estar asociados a fluctuaciones de corto plazo en los patrones de activación de los genes, en contraste con los cambios de largo plazo que están generalmente asociados a la metilación del ADN.
+
+---
+
+### 165
+
+En relación con el libro de Biología, ¿qué hacen las proteínas "lectoras" respecto de las modificaciones de las histonas?
+
+- A. Se unen específicamente a cada tipo de modificación de las histonas y regulan la actividad de los genes cercanos
+- B. Marcan los grupos metilo con átomos de oxígeno para su remoción
+- C. Reemplazan las histonas convencionales por variantes especializadas
+- D. Escinden del ADN los grupos metilo que se encuentran marcados
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · histonas · lectoras
+
+Hay proteínas "lectoras" que se unen específicamente a cada tipo de modificación de las histonas y regulan la actividad de los genes cercanos.
+
+---
+
+### 166
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el método indirecto que se aplica para determinar la localización de las histonas modificadas?
+
+- A. Chip-Seq (del inglés, Chromatin Inmunoprecipitation Sequencing)
+- B. PCR (reacción en cadena de la polimerasa)
+- C. Electroforesis en gel de agarosa
+- D. Cariotipo espectral
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · Chip-Seq
+
+Para ello, se aplica un método indirecto denominado Chip-Seq (del inglés Chromatin Inmunoprecipitation Sequencing), que involucra el aislamiento de las histonas que corresponden a cada tipo de modificación y, posteriormente, la secuenciación del ADN que codifica las histonas en cada caso.
+
+---
+
+### 167
+
+De conformidad con el libro de Biología, a diferencia de la metilación del ADN —asociada al silenciamiento de genes—, ¿qué efecto puede tener la metilación de las histonas sobre la expresión génica?
+
+- A. Puede tanto silenciar como activar la expresión génica
+- B. Siempre silencia la expresión génica
+- C. Siempre activa la expresión génica
+- D. No tiene ningún efecto sobre la expresión génica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · metilación de histonas
+
+Así como la metilación del ADN está generalmente asociada al silenciamiento de genes, la metilación de las histonas puede tanto silenciar como activar la expresión génica, dependiendo de qué aminoácido y de qué cola de histona se encuentre metilada, y también de cuántos grupos metilo recibe el aminoácido modificado.
+
+---
+
+### 168
+
+En relación con el libro de Biología, ¿cuáles son los dos aminoácidos cuyos cambios se jerarquizan particularmente por ser, hasta el momento, los más estudiados?
+
+- A. La lisina y la arginina
+- B. La glicina y la alanina
+- C. La serina y la treonina
+- D. La cisteína y la metionina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · metilación de histonas · aminoácidos
+
+En la literatura se jerarquizan particularmente los cambios en los aminoácidos lisina y arginina que son, hasta el momento, los más estudiados.
+
+---
+
+### 169
+
+De acuerdo con el libro de Biología, los sitios de metilación más estudiados en la lisina (K) de la histona 3 corresponden a las posiciones, ¿cuáles?
+
+- A. 4, 9, 27, 36 y 79 (H3K4, H3K9, H3K27, H3K36, H3K79), y en la histona 4, H4K20
+- B. 1, 2, 3, 4 y 5 (H3K1, H3K2, H3K3, H3K4, H3K5)
+- C. 10, 20, 30, 40 y 50 (H3K10, H3K20, H3K30, H3K40, H3K50)
+- D. 2, 8, 17 y 26 (H3R2, H3R8, H3R17, H3R26)
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 306
+**Subtema:** epigenética · sitios de metilación de histonas
+
+Los sitios de metilación más estudiados son en la histona 3 (H3), la lisina (K), correspondientes a las posiciones 4, 9, 27, 36 y 79 (H3K4, H3K9, H3K27, H3K36, H3K79, respectivamente) y en la histona 4 (H4K20).
 
 ---
