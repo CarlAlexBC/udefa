@@ -1,6 +1,7 @@
 import 'server-only'
 import { readFile } from 'node:fs/promises'
 import path from 'node:path'
+import GithubSlugger from 'github-slugger'
 
 /**
  * Directorio de las secciones .md fuente de la Guía del Aspirante.
@@ -23,45 +24,47 @@ export async function cargarMarkdownDeSeccion(slug: string): Promise<string> {
 }
 
 /**
- * Extrae los títulos h2 del markdown para construir el TOC lateral.
- * Devuelve pares { texto, slug } donde el slug coincide con el ID que
- * rehype-slug genera del mismo texto (mismo algoritmo determinístico).
+ * Extrae los títulos h2 del markdown para construir el índice lateral.
  *
- * Regex intencionalmente simple — busca "## Título" al inicio de línea,
- * ignorando el blockquote inicial de "> Diagnósticos que resuelve".
+ * El `slug` TIENE que ser idéntico al id que rehype-slug le pone al
+ * encabezado en la página; si no, el renglón del índice apunta a un
+ * elemento que no existe: no salta al hacer clic y nunca se resalta.
+ *
+ * Aquí hubo un intento de reimplementar el algoritmo a mano y se despegaba
+ * en dos puntos: quitaba los acentos (rehype-slug los CONSERVA — el id real
+ * es `qué-señales-busca-el-sistema`) y colapsaba los guiones repetidos que
+ * deja una raya larga entre palabras. En una sección de 8 subtítulos, 5
+ * quedaban rotos. Por eso ahora usamos github-slugger, que es literalmente
+ * la librería que rehype-slug trae por dentro: si el algoritmo cambia, los
+ * dos cambian juntos.
  */
 export function extraerTitulosH2(markdown: string): Array<{ texto: string; slug: string }> {
-  const lineas = markdown.split('\n')
+  // Un slugger nuevo por archivo, igual que rehype-slug: lleva la cuenta de
+  // los repetidos para desempatarlos (título, título-1, título-2).
+  const slugger = new GithubSlugger()
   const titulos: Array<{ texto: string; slug: string }> = []
-  for (const linea of lineas) {
-    const match = /^## (.+)$/.exec(linea)
-    if (match) {
-      const texto = match[1].trim()
-      titulos.push({ texto, slug: generarSlugTitulo(texto) })
-    }
-  }
-  return titulos
-}
 
-/**
- * Genera un slug tipo "estrategia-paso-a-paso" a partir de un título.
- * Debe coincidir EXACTAMENTE con el algoritmo de github-slugger (usado por
- * rehype-slug internamente) para que los anchors coincidan.
- *
- * Reglas base (subset suficiente para nuestros títulos):
- * - lowercase
- * - remover diacríticos (á → a)
- * - reemplazar espacios y guiones bajos por guión
- * - remover caracteres que no sean [a-z0-9-]
- */
-export function generarSlugTitulo(texto: string): string {
-  return texto
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[̀-ͯ]/g, '')
-    .replace(/[^\w\s-]/g, '')
-    .trim()
-    .replace(/[\s_]+/g, '-')
-    .replace(/-+/g, '-')
-    .replace(/^-|-$/g, '')
+  let dentroDeUnBloqueDeCodigo = false
+
+  for (const linea of markdown.split('\n')) {
+    // Un "# comentario" dentro de un bloque de código no es un encabezado.
+    if (/^\s*```/.test(linea)) {
+      dentroDeUnBloqueDeCodigo = !dentroDeUnBloqueDeCodigo
+      continue
+    }
+    if (dentroDeUnBloqueDeCodigo) continue
+
+    const match = /^(#{1,6}) +(.+?)\s*#*\s*$/.exec(linea)
+    if (!match) continue
+
+    const texto = match[2].trim()
+
+    // Se pasan TODOS los niveles por el slugger, no sólo los h2: rehype-slug
+    // recorre los encabezados en orden y el desempate de repetidos depende de
+    // haberlos visto todos. Del resultado sólo devolvemos los h2.
+    const slug = slugger.slug(texto)
+    if (match[1].length === 2) titulos.push({ texto, slug })
+  }
+
+  return titulos
 }
