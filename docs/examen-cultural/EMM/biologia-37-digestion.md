@@ -2230,4 +2230,363 @@ Por otra parte, reflejos locales se integran en los plexos nerviosos de las pare
 
 ---
 
-**Reactivos en este archivo:** 122
+## Sub-lote 18 · El intestino grueso: absorción de agua, microbiota, apéndice y materia fecal (fig. 37-11, p. 867-868)
+
+### 123
+
+De acuerdo con el libro de Biología, ¿dónde ocurre primariamente la absorción de agua, sodio y otros minerales, y dónde continúa?
+
+- A. Ocurre primariamente en el intestino delgado y continúa en el intestino grueso
+- B. Ocurre primariamente en el estómago y continúa en el duodeno
+- C. Ocurre únicamente en el intestino grueso
+- D. Ocurre únicamente en el recto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · intestino grueso · absorción
+
+La absorción de agua, sodio y otros minerales ocurre primariamente en el intestino delgado y continúa en el intestino grueso (colon ascendente, transverso y descendente).
+
+---
+
+### 124
+
+De acuerdo con el libro de Biología, ¿cuáles son las porciones del colon que menciona el intestino grueso?
+
+- A. Colon ascendente, transverso y descendente
+- B. Colon superior, medio e inferior
+- C. Colon proximal y distal
+- D. Colon derecho e izquierdo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · intestino grueso · colon
+
+La absorción de agua, sodio y otros minerales continúa en el intestino grueso (colon ascendente, transverso y descendente).
+
+---
+
+### 125
+
+De acuerdo con el libro de Biología, ¿cuántos litros de agua ingresan por día en el estómago y en el intestino delgado durante la digestión?
+
+- A. Alrededor de 7 litros por día
+- B. Alrededor de 2 litros por día
+- C. Alrededor de 12 litros por día
+- D. Alrededor de 1 litro por día
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · agua
+
+En el curso de la digestión ingresan en el estómago y en el intestino delgado alrededor de 7 litros de agua por día.
+
+---
+
+### 126
+
+De acuerdo con el libro de Biología, ¿de dónde proviene el líquido que ingresa al tubo digestivo durante la digestión?
+
+- A. De los alimentos y las bebidas que ingerimos
+- B. Exclusivamente de las bebidas que tomamos
+- C. De la sangre que irriga el intestino
+- D. De la bilis y el jugo pancreático
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · agua
+
+Este líquido proviene de los alimentos y las bebidas que ingerimos.
+
+---
+
+### 127
+
+De acuerdo con el libro de Biología, cuando se interrumpe la absorción de agua y minerales en el intestino grueso, como ocurre durante una diarrea, ¿qué puede producirse?
+
+- A. Una deshidratación grave
+- B. Una acumulación excesiva de agua en los tejidos
+- C. Un aumento del pH de la sangre
+- D. Una obstrucción intestinal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · diarrea
+
+Cuando en el intestino grueso se interrumpe la absorción de agua y minerales, como ocurre durante una diarrea, puede producirse una deshidratación grave.
+
+---
+
+### 128
+
+De acuerdo con el libro de Biología, ¿qué bacterias simbióticas aloja el intestino grueso?
+
+- A. E. coli y varias especies de Lactobacillus
+- B. Helicobacter pylori y Salmonella
+- C. Streptococcus y Staphylococcus
+- D. Clostridium y Vibrio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · microbiota
+
+El intestino grueso aloja una población considerable de bacterias simbióticas, incluidas E. coli y varias especies de Lactobacillus.
+
+---
+
+### 129
+
+De acuerdo con el libro de Biología, ¿qué hacen los microorganismos del intestino grueso con el alimento que no fue digerido ni absorbido en el intestino delgado?
+
+- A. Lo degradan y, a partir de él, sintetizan aminoácidos y vitaminas
+- B. Lo transforman directamente en materia fecal
+- C. Lo absorben para su propio crecimiento, sin beneficio para el humano
+- D. Lo convierten en bilis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · microbiota
+
+Estos microorganismos degradan el alimento que no fue digerido ni absorbido en el intestino delgado y, a partir de él, sintetizan aminoácidos y vitaminas.
+
+---
+
+### 130
+
+De acuerdo con el libro de Biología, ¿qué vitamina sintetizada por las bacterias del intestino grueso aprovechan los humanos porque no pueden sintetizarla?
+
+- A. La vitamina K
+- B. La vitamina C
+- C. La vitamina D
+- D. La vitamina A
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · vitamina K
+
+Los humanos aprovechamos algunas de esas vitaminas, como la vitamina K, que no podemos sintetizar.
+
+---
+
+### 131
+
+De acuerdo con el libro de Biología, ¿cómo se denomina el pequeño saco ciego que existe en el intestino grueso?
+
+- A. El apéndice
+- B. El recto
+- C. El duodeno
+- D. El cardias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · apéndice
+
+En el intestino grueso existe un pequeño saco ciego: el apéndice.
+
+---
+
+### 132
+
+De acuerdo con el libro de Biología, desde el punto de vista evolutivo, ¿qué es el apéndice?
+
+- A. Un posible "recuerdo" evolutivo de nuestros antecesores herbívoros
+- B. Un órgano de reciente aparición en la especie humana
+- C. El principal órgano de absorción de vitaminas
+- D. Un resto del intestino delgado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · apéndice · evolución
+
+El apéndice es un posible "recuerdo" evolutivo de nuestros antecesores herbívoros y, en la actualidad, no tiene ninguna función digestiva conocida.
+
+---
+
+### 133
+
+De acuerdo con el libro de Biología, cuando el apéndice se irrita, inflama e infecta, ¿qué ocasiona?
+
+- A. La apendicitis
+- B. La peritonitis
+- C. La gastritis
+- D. La colitis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · apendicitis
+
+El apéndice se puede irritar, inflamar e infectar; es decir, ocasionar la apendicitis.
+
+---
+
+### 134
+
+De acuerdo con el libro de Biología, si el apéndice supura y elimina su contenido bacteriano en la cavidad abdominal, ¿qué infección grave puede producir?
+
+- A. Una peritonitis, que puede resultar mortal si no se trata
+- B. Una apendicitis crónica
+- C. Una úlcera gástrica
+- D. Una hepatitis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · peritonitis
+
+Si supura como resultado de la inflamación, puede eliminar su contenido bacteriano en la cavidad abdominal y producir así una infección grave, conocida como peritonitis, que puede resultar mortal si no se trata.
+
+---
+
+### 135
+
+De acuerdo con el libro de Biología, si bien el apéndice humano no participa en la digestión, ¿en qué proceso interviene?
+
+- A. Es uno de los sitios de interacción de células implicadas en la respuesta inmunitaria
+- B. Es un sitio de almacenamiento de bilis
+- C. Es un sitio de síntesis de enzimas digestivas
+- D. Es un sitio de absorción de agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · apéndice · inmunidad
+
+Si bien el apéndice humano no participa en la digestión, es uno de los sitios de interacción de células implicadas en la respuesta inmunitaria.
+
+---
+
+### 136
+
+De acuerdo con el libro de Biología, el material que circula por el tubo digestivo y que no es absorbido a través de las células intestinales, ¿qué ocurre con él respecto al organismo?
+
+- A. Nunca ingresa verdaderamente en el organismo
+- B. Siempre se metaboliza en el hígado
+- C. Se almacena como grasa en los adipocitos
+- D. Se convierte en energía en las mitocondrias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · absorción
+
+El material que circula por el tubo digestivo y que no es absorbido a través de las células intestinales nunca ingresa verdaderamente en el organismo.
+
+---
+
+### 137
+
+De acuerdo con el libro de Biología, ¿qué se elimina como materia fecal?
+
+- A. Todo aquello que no fue digerido ni absorbido
+- B. Únicamente las fibras de celulosa
+- C. Solo las bacterias muertas del intestino
+- D. El exceso de bilis producido por el hígado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · materia fecal
+
+Por último, todo aquello que no fue digerido ni absorbido se elimina como materia fecal.
+
+---
+
+### 138
+
+De acuerdo con el libro de Biología, ¿por qué está compuesta la masa de materia fecal?
+
+- A. Por agua, bacterias, células muertas y fibras de celulosa, junto con otras sustancias indigeribles
+- B. Únicamente por agua y sales minerales
+- C. Por bilis, enzimas y jugo pancreático
+- D. Exclusivamente por grasas y proteínas no absorbidas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 868
+**Subtema:** digestión · materia fecal · composición
+
+La masa de materia fecal está compuesta por agua, bacterias, células muertas y fibras de celulosa, junto con otras sustancias indigeribles, y es lubricada con moco secretado por el epitelio de la mucosa del intestino grueso.
+
+---
+
+### 139
+
+De acuerdo con el libro de Biología, ¿dónde se almacenan de modo breve los desechos y a través de qué se eliminan como heces?
+
+- A. Se almacenan en el recto y se eliminan a través del ano
+- B. Se almacenan en el colon y se eliminan a través del duodeno
+- C. Se almacenan en el ciego y se eliminan a través del recto
+- D. Se almacenan en el apéndice y se eliminan a través del ano
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 868
+**Subtema:** digestión · recto · ano
+
+Estos desechos se almacenan de modo breve en el recto y luego se eliminan como heces, a través del ano.
+
+---
+
+### 140
+
+De acuerdo con el libro de Biología, ¿qué es responsable del característico color de las heces?
+
+- A. Los pigmentos biliares, resultado de la descomposición de la hemoglobina
+- B. Las fibras de celulosa no digeridas
+- C. Las bacterias simbióticas del colon
+- D. El moco secretado por la mucosa intestinal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 868
+**Subtema:** digestión · heces · pigmentos biliares
+
+Los pigmentos biliares, resultado de la descomposición de la hemoglobina, son responsables del característico color de las heces.
+
+---
+
+### 141
+
+De acuerdo con el libro de Biología, los conductos del hígado, la vesícula biliar y el páncreas se fusionan, ¿en qué, poco antes de alcanzar el intestino delgado?
+
+- A. En un conducto biliar común
+- B. En la vesícula biliar
+- C. En el estómago
+- D. En el recto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · conducto biliar común
+
+Los conductos del hígado, la vesícula biliar y el páncreas se fusionan en un conducto biliar común, poco antes de alcanzar el intestino delgado, donde vacían su contenido a través de un pequeño esfínter.
+
+---
+
+### 142
+
+De acuerdo con el libro de Biología, ¿de qué están formados, en su mayor parte, los cálculos biliares?
+
+- A. De colesterol y sales biliares
+- B. De calcio y fosfato
+- C. De pigmentos biliares y agua
+- D. De fibras de celulosa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · cálculos biliares
+
+En la última porción de este conducto se alojan, por lo general, los cálculos biliares, formados, en su mayor parte, por colesterol y sales biliares.
+
+---
+
+### 143
+
+De acuerdo con el libro de Biología, ¿cuándo se forman los cálculos biliares?
+
+- A. Cuando se altera el delicado equilibrio en las concentraciones relativas de los componentes de la bilis
+- B. Cuando aumenta la producción de bilis en el hígado
+- C. Cuando el páncreas deja de secretar sus enzimas
+- D. Cuando la vesícula biliar se vacía con demasiada frecuencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · cálculos biliares
+
+Estos cálculos se forman cuando se altera el delicado equilibrio en las concentraciones relativas de los componentes de la bilis.
+
+---
+
+**Reactivos en este archivo:** 143
