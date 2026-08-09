@@ -2041,4 +2041,193 @@ Este canal estrecho puede ser bloqueado por completo por un coágulo sanguíneo.
 
 ---
 
-**Reactivos en este archivo:** 111
+## Sub-lote 17 · Control endocrino y nervioso de la función intestinal (p. 866-867)
+
+### 112
+
+De acuerdo con el libro de Biología, las numerosas enzimas digestivas que actúan en el intestino delgado tienen una actividad óptima, ¿a qué pH?
+
+- A. A un pH que varía entre 7 y 8
+- B. A un pH que varía entre 1 y 2
+- C. A un pH que varía entre 4 y 5
+- D. A un pH que varía entre 9 y 10
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 866
+**Subtema:** digestión · enzimas intestinales · pH
+
+En el intestino delgado actúan numerosas enzimas digestivas, cuya actividad es óptima a un pH que varía entre 7 y 8, y que se desnaturalizarían por el pH ácido de los jugos gástricos que entran en el intestino.
+
+---
+
+### 113
+
+De acuerdo con el libro de Biología, ¿por qué es esencial la neutralización de la acidez en el duodeno?
+
+- A. Porque las enzimas digestivas del intestino se desnaturalizarían por el pH ácido de los jugos gástricos
+- B. Porque el ácido es necesario para activar las enzimas pancreáticas
+- C. Porque el ácido es indispensable para la absorción del agua
+- D. Porque el duodeno no tolera ningún pH alcalino
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 866
+**Subtema:** digestión · duodeno · neutralización
+
+Las enzimas digestivas se desnaturalizarían por el pH ácido de los jugos gástricos que entran en el intestino. Por este motivo, la neutralización de la acidez en el duodeno es esencial.
+
+---
+
+### 114
+
+De acuerdo con el libro de Biología, la hormona secretina, proveniente del duodeno, ante la llegada del jugo gástrico, ¿qué estimula?
+
+- A. La secreción de líquidos alcalinos por parte del páncreas y el hígado
+- B. La liberación de enzimas pancreáticas y el vaciamiento de la vesícula biliar
+- C. La motilidad gástrica y la secreción de gastrina
+- D. La absorción de agua en el intestino grueso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 866
+**Subtema:** digestión · secretina
+
+La actividad digestiva del intestino está coordinada y regulada por hormonas provenientes del duodeno, como la secretina, que ante la llegada del jugo gástrico estimula la secreción de líquidos alcalinos por parte del páncreas y el hígado.
+
+---
+
+### 115
+
+De acuerdo con el libro de Biología, ¿en respuesta a qué produce el duodeno la hormona colecistocinina?
+
+- A. En respuesta a la presencia de grasas y aminoácidos presentes en los alimentos
+- B. En respuesta a la llegada del jugo gástrico ácido
+- C. En respuesta a la distensión de las paredes del estómago
+- D. En respuesta a la presencia de agua en el intestino grueso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 866
+**Subtema:** digestión · colecistocinina
+
+El duodeno también produce otra hormona, la colecistocinina, en respuesta a la presencia de grasas y aminoácidos presentes en los alimentos.
+
+---
+
+### 116
+
+De acuerdo con el libro de Biología, ¿qué estimula la hormona colecistocinina?
+
+- A. La liberación de enzimas pancreáticas y el vaciamiento de la vesícula biliar
+- B. La secreción de líquidos alcalinos por parte del páncreas y el hígado
+- C. La secreción de ácido clorhídrico en el estómago
+- D. La síntesis de bilis en el hígado
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 866
+**Subtema:** digestión · colecistocinina
+
+Esta hormona estimula la liberación de enzimas pancreáticas y el vaciamiento de la vesícula biliar.
+
+---
+
+### 117
+
+De acuerdo con el libro de Biología, ¿qué hormona secretada por el duodeno inhibe la motilidad gástrica y la secreción de gastrina?
+
+- A. El péptido inhibidor gástrico
+- B. La secretina
+- C. La colecistocinina
+- D. La insulina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 866
+**Subtema:** digestión · péptido inhibidor gástrico
+
+El duodeno secreta también el péptido inhibidor gástrico, que inhibe la motilidad gástrica y la secreción de gastrina.
+
+---
+
+### 118
+
+De acuerdo con el libro de Biología, el intestino, al igual que el estómago, ¿por qué sistema se encuentra regulado?
+
+- A. Por el sistema nervioso autónomo
+- B. Por el sistema nervioso somático
+- C. Únicamente por el sistema endocrino
+- D. Por el sistema linfático
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · regulación nerviosa
+
+El intestino, al igual que el estómago, se encuentra regulado por el sistema nervioso autónomo.
+
+---
+
+### 119
+
+De acuerdo con el libro de Biología, ¿qué efecto tiene el sistema parasimpático sobre la función intestinal?
+
+- A. Promueve las secreciones intestinales del hígado y del páncreas y aumenta la motilidad intestinal
+- B. Inhibe o disminuye las secreciones y la motilidad intestinal
+- C. No ejerce ningún efecto sobre el intestino
+- D. Solo actúa sobre la absorción de agua
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · parasimpático
+
+El sistema parasimpático promueve las secreciones intestinales del hígado y del páncreas y aumenta la motilidad intestinal, lo que permite la mezcla y la propulsión del alimento.
+
+---
+
+### 120
+
+De acuerdo con el libro de Biología, ¿qué efecto tiene el sistema simpático sobre las secreciones y la motilidad intestinal?
+
+- A. Las inhibe o disminuye
+- B. Las promueve y las aumenta
+- C. Las mantiene sin cambios
+- D. Solo aumenta la motilidad
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · simpático
+
+El sistema simpático inhibe o disminuye estas dos respuestas.
+
+---
+
+### 121
+
+De acuerdo con el libro de Biología, ¿a partir de qué estímulos coordina el sistema nervioso central la función intestinal?
+
+- A. De estímulos del tracto gastrointestinal, de la información sensorial (vista, olfato) y del contexto fisiológico (nivel de actividad, estrés)
+- B. Únicamente de la información sensorial del gusto y el tacto
+- C. Solo del nivel de glucosa presente en la sangre
+- D. Exclusivamente de las hormonas producidas por el duodeno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · sistema nervioso central
+
+El sistema nervioso central coordina la función intestinal a partir de estímulos provenientes del mismo tracto gastrointestinal, de la información sensorial (vista, olfato) y del contexto fisiológico (nivel de actividad, estrés, etc.).
+
+---
+
+### 122
+
+De acuerdo con el libro de Biología, ¿dónde se integran los reflejos locales que ayudan a controlar la motilidad y las secreciones del tubo digestivo?
+
+- A. En los plexos nerviosos de las paredes del tubo digestivo
+- B. En el cerebro
+- C. En la médula espinal
+- D. En los islotes de Langerhans
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 867
+**Subtema:** digestión · reflejos locales
+
+Por otra parte, reflejos locales se integran en los plexos nerviosos de las paredes del tubo digestivo y ayudan a controlar la motilidad y las secreciones del tubo digestivo.
+
+---
+
+**Reactivos en este archivo:** 122
