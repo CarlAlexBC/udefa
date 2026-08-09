@@ -43,6 +43,12 @@ export default function PrivacidadPage() {
             panel de diagnóstico y tu repaso.
           </li>
           <li>
+            <span className="font-medium text-foreground">De seguridad:</span>{' '}
+            qué sesiones tienes abiertas y en cuántos dispositivos, y cuántos
+            reactivos consultas y con qué frecuencia. Sirven para detectar usos
+            abusivos o automatizados.
+          </li>
+          <li>
             <span className="font-medium text-foreground">De pago:</span> cuando
             compres acceso, el cobro lo procesa{' '}
             <DatoLegal valor={LEGAL.proveedorPagos} />. No almacenamos
@@ -66,8 +72,30 @@ export default function PrivacidadPage() {
             Generar tus resultados, diagnósticos y recomendaciones de estudio.
           </li>
           <li>Procesar pagos y dar soporte.</li>
-          <li>Proteger la plataforma y prevenir usos indebidos.</li>
+          <li>
+            Proteger la plataforma y el material de estudio: detectar usos
+            abusivos o automatizados y desalentar la copia no autorizada.
+          </li>
         </DocLista>
+      </DocSeccion>
+
+      <DocSeccion titulo="Marca de identificación y prevención de copia">
+        <DocParrafo>
+          Mientras estudias, las pantallas muestran de forma tenue tu nombre, tu
+          correo y tu número de cuenta. No es un error: es una marca de
+          identificación que desalienta la copia del material y permite rastrear
+          el origen de una filtración. Aparece sólo en tu sesión y nadie más la
+          ve.
+        </DocParrafo>
+        <DocParrafo>
+          Por la misma razón llevamos un registro de cuántos reactivos consultas,
+          con qué frecuencia y desde cuántos dispositivos abres sesión. Esos
+          datos se usan únicamente para detectar usos abusivos o automatizados:{' '}
+          <span className="font-medium text-foreground">
+            no influyen en tus resultados ni forman parte de tu diagnóstico
+          </span>
+          .
+        </DocParrafo>
       </DocSeccion>
 
       <DocSeccion titulo="Datos sensibles y resultados psicológicos">
