@@ -189,7 +189,15 @@ traducción con apareamiento imperfecto, la familia argonauta, los cuerpos P y l
 blancos); y el recuadro 14-2 (Craig Mello y Andrew Fire, el silenciamiento por ARN cortos y el
 premio Nobel de 2006).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **310** (hoja 356) en adelante —las modificaciones de las histonas, el silenciamiento por ARN pequeños no codificantes, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **310**: la fig. 14-12 (la formación de los miARN a partir de
+horquillas de doble cadena, la enzima Dicer que fragmenta el ARN, una cadena que va al RISC y la
+otra que se degrada, y los dos modos de acción: degradación del ARNm o bloqueo de la traducción);
+y el apartado "ARN interferente pequeño (ARNsi)" (su tamaño de 21-25 nucleótidos, la enzima Dicer
+como ARNasa citoplasmática, la cadena guía que identifica el ARNm complementario, el corte y la
+degradación del ARNm, su papel de defensa frente a los virus transponibles, y su asociación con
+el complejo RITS que media la metilación del ADN).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **311** (hoja 357) en adelante —las modificaciones de las histonas, el silenciamiento por ARN pequeños no codificantes, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -3840,5 +3848,158 @@ De acuerdo con el libro de Biología, ¿qué premio obtuvieron Mello y Fire por 
 **Subtema:** epigenética · recuadro 14-2, premio Nobel
 
 Por su contribución, Mello y Fire obtuvieron el premio Nobel de Fisiología y Medicina en 2006, muy poco tiempo después de haber dado a conocer sus resultados.
+
+---
+
+### 212
+
+De conformidad con el libro de Biología, según la fig. 14-12, ¿qué enzima recorre el ARN de doble cadena de los precursores de los miARN y lo fragmenta en segmentos más cortos?
+
+- A. La enzima Dicer
+- B. La proteína argonauta
+- C. La ARN polimerasa
+- D. La ADN metiltransferasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 310
+**Subtema:** epigenética · miARN · enzima Dicer
+
+Estas moléculas son procesadas por una enzima llamada Dicer, que recorre el ARN de doble cadena y lo fragmenta en segmentos más cortos.
+
+---
+
+### 213
+
+En relación con el libro de Biología, según la fig. 14-12, los precursores de los miARN se pliegan sobre sí mismos y dan origen, ¿a qué?
+
+- A. A horquillas de doble cadena que se mantienen unidas por puentes de hidrógeno
+- B. A cadenas simples lineales sin estructura secundaria
+- C. A islas CpG metiladas
+- D. A nucleosomas compactos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 310
+**Subtema:** epigenética · miARN · horquillas
+
+Los miARN se forman a partir de precursores de moléculas más largas de ARN que se pliegan sobre sí mismas y dan origen a horquillas de doble cadena que se mantienen unidas por puentes de hidrógeno.
+
+---
+
+### 214
+
+De acuerdo con el libro de Biología, según la fig. 14-12, de los segmentos cortos que produce la enzima Dicer, ¿qué ocurre con sus dos cadenas?
+
+- A. Una se asocia con el complejo proteico RISC y la otra se degrada
+- B. Ambas se asocian con el complejo RISC
+- C. Ambas se degradan por completo
+- D. Ambas se unen directamente al ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 310
+**Subtema:** epigenética · miARN · RISC
+
+Una de las cadenas de estos segmentos se asocia con un complejo proteico llamado RISC, y la otra se degrada.
+
+---
+
+### 215
+
+De conformidad con el libro de Biología, ¿de qué tamaño son las moléculas de ARN interferente pequeño (ARNsi)?
+
+- A. De 21 a 25 nucleótidos
+- B. De 200 a 400 nucleótidos
+- C. De 2 a 5 nucleótidos
+- D. De 50 a 100 nucleótidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 310
+**Subtema:** epigenética · ARNsi · tamaño
+
+Estas moléculas tienen un tamaño de 21 a 25 nucleótidos y son producidas a partir de precursores de ARN de doble cadena que pueden variar en tamaño y origen.
+
+---
+
+### 216
+
+En relación con el libro de Biología, ¿qué enzima procesa los precursores de doble cadena degradándolos hasta que adquieren el tamaño de los ARNsi?
+
+- A. La enzima Dicer, una ARNasa citoplasmática
+- B. La proteína argonauta
+- C. La ADN polimerasa
+- D. La ADN metiltransferasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 310
+**Subtema:** epigenética · ARNsi · Dicer
+
+Estos precursores son procesados por la enzima Dicer –una ARNasa citoplasmática– que los degrada hasta que adquieren el tamaño de los ARNsi, los cuales posteriormente se incorporan al complejo RISC.
+
+---
+
+### 217
+
+De acuerdo con el libro de Biología, cuando los ARNsi se incorporan al complejo RISC se separan sus dos cadenas; ¿cuál se mantiene asociada al complejo y qué función cumple?
+
+- A. Solo una, denominada guía, que identifica el ARNm con la secuencia complementaria
+- B. Ambas cadenas, que se degradan mutuamente
+- C. Solo la cadena que se degrada de inmediato
+- D. Ninguna; el complejo queda vacío
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 310
+**Subtema:** epigenética · ARNsi · cadena guía
+
+Cuando los ARNsi se incorporan al complejo se separan las dos cadenas de ARN, de las cuales solo una –denominada guía– se mantiene asociada al complejo. Su función consiste en identificar el ARNm con la secuencia complementaria.
+
+---
+
+### 218
+
+De conformidad con el libro de Biología, cuando el ARNsi identifica el ARNm complementario, ¿qué desencadena su interacción?
+
+- A. El corte del ARNm y su posterior degradación
+- B. El bloqueo reversible de la traducción, sin cortar el ARNm
+- C. La activación de la transcripción del gen
+- D. La metilación de las islas CpG
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 310
+**Subtema:** epigenética · ARNsi · degradación del ARNm
+
+La interacción entre el ARNsi y este ARNm desencadena el corte del ARNm y su posterior degradación.
+
+---
+
+### 219
+
+En relación con el libro de Biología, ¿por qué tiene particular importancia la interferencia por ARNsi como estrategia de defensa?
+
+- A. Porque muchos ARN de doble cadena se originan a partir de virus transponibles, y los ARNsi asociados a RISC permitirían degradar agentes potencialmente dañinos
+- B. Porque los ARNsi sintetizan nuevas proteínas de defensa
+- C. Porque los ARNsi reparan el ADN dañado por los virus
+- D. Porque los ARNsi aumentan la expresión de los genes virales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 310
+**Subtema:** epigenética · ARNsi · defensa antiviral
+
+Esta variante de interferencia tiene particular importancia como estrategia de defensa. Muchos ARN de doble cadena se originan a partir de virus transponibles, al menos transitoriamente, en sus ciclos de vida. Con lo cual, los ARNsi generados, asociados al complejo proteico RISC, permitirían degradar agentes potencialmente dañinos.
+
+---
+
+### 220
+
+De acuerdo con el libro de Biología, los ARNsi también se asocian con otros complejos proteicos que median la metilación del ADN y otras modificaciones de las histonas para evitar la expresión de genes específicos; ¿cómo se denominan?
+
+- A. Silenciamiento transcripcional inducido por ARN (RITS)
+- B. Complejo silenciador inducido por ARN (RISC)
+- C. Proteínas de la familia polycomb
+- D. Enzima Dicer
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 310
+**Subtema:** epigenética · ARNsi · RITS
+
+Estos ARNsi también se asocian con otros complejos proteicos denominados silenciamiento transcripcional inducido por ARN (RITS, por su sigla en inglés), que median la metilación del ADN y otras modificaciones epigenéticas de las histonas, evitando la expresión de los genes específicos.
 
 ---
