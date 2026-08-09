@@ -98,15 +98,29 @@ export class ExamenesController {
     );
   }
 
-  /** Califica una respuesta y devuelve la corrección con la cita del libro. */
+  /** Califica una respuesta, la guarda como práctica y devuelve la corrección. */
   @Post('practica/cultural/responder')
   calificarPracticaCultural(
+    @UsuarioActual() usuario: UsuarioAutenticado,
     @Body() datos: { reactivoId: number; respuestaSeleccionada: string },
   ) {
     return this.examenesService.calificarPracticaCultural(
+      usuario.id,
       datos.reactivoId,
       datos.respuestaSeleccionada,
     );
+  }
+
+  /** Cuántas prácticas lleva el aspirante (para "Empieza por aquí"). */
+  @Get('practica/cultural/mi-actividad')
+  miActividadPractica(@UsuarioActual() usuario: UsuarioAutenticado) {
+    return this.examenesService.miActividadPractica(usuario.id);
+  }
+
+  /** Progreso por tema del aspirante (el semáforo). Para "Tu avance". */
+  @Get('practica/cultural/mi-avance')
+  miAvanceCultural(@UsuarioActual() usuario: UsuarioAutenticado) {
+    return this.examenesService.miAvanceCultural(usuario.id);
   }
 
   @Patch(':id')

@@ -548,6 +548,7 @@ export class ExamenesService {
    * Compara por TEXTO (las opciones se barajan), no por letra.
    */
   async calificarPracticaCultural(
+    usuarioId: number,
     reactivoId: number,
     respuestaSeleccionada: string,
   ) {
@@ -558,12 +559,122 @@ export class ExamenesService {
     if (!reactivo) {
       throw new NotFoundException('Reactivo cultural no encontrado.');
     }
+
+    const esCorrecta = reactivo.respuestaCorrecta === respuestaSeleccionada;
+
+    // Deja huella de la práctica (antes se olvidaba): alimenta el onboarding
+    // ("ya practicó"), el progreso por tema y la racha de días.
+    await this.prisma.respuestaPractica.create({
+      data: { usuarioId, reactivoId, esCorrecta },
+    });
+
     return {
-      esCorrecta: reactivo.respuestaCorrecta === respuestaSeleccionada,
+      esCorrecta,
       respuestaCorrecta: reactivo.respuestaCorrecta,
       explicacion: reactivo.explicacion,
       referencia: reactivo.referencia,
     };
+  }
+
+  /**
+   * ¿Cuántas respuestas de práctica lleva el aspirante? La usa "Empieza por
+   * aquí" para palomear el paso 2 en cuanto practica por primera vez.
+   */
+  async miActividadPractica(usuarioId: number) {
+    const practicas = await this.prisma.respuestaPractica.count({
+      where: { usuarioId },
+    });
+    return { practicas };
+  }
+
+  /**
+   * Progreso por tema del aspirante — "Tu avance". Por cada materia de su
+   * plantel, sus capítulos con un nivel de dominio. El nivel sale de qué tan
+   * bien va en los reactivos de ese capítulo que YA contestó (práctica +
+   * simulacro), NO de cuántos ha visto: nunca expone conteos del banco.
+   */
+  async miAvanceCultural(usuarioId: number) {
+    const { plantelId, nombre } = await this.plantelDelUsuario(usuarioId);
+    const materias = await this.resolverMateriasCultural(plantelId, nombre, null);
+    const todosLosCapIds = materias.flatMap((m) => m.capituloIds);
+    if (todosLosCapIds.length === 0) {
+      return { plantel: nombre, materias: [] };
+    }
+
+    // Capítulos que tienen reactivos culturales (mismo criterio que la práctica).
+    const capitulos = await this.prisma.$queryRaw<
+      Array<{ capituloId: number; numero: number; titulo: string }>
+    >(Prisma.sql`
+      SELECT DISTINCT c.id AS "capituloId", c.numero, c.titulo
+      FROM "Capitulo" c
+      JOIN "Tema" t ON t."capituloId" = c.id
+      JOIN "Reactivo" r ON r."temaId" = t.id AND r.banco = 'cultural'
+      WHERE c.id IN (${Prisma.join(todosLosCapIds)})
+    `);
+
+    // Desempeño por capítulo: total contestados + aciertos, sumando práctica y
+    // simulacro (los dos son para aprender, los dos cuentan).
+    const desempeno = await this.prisma.$queryRaw<
+      Array<{ capituloId: number; total: number; aciertos: number }>
+    >(Prisma.sql`
+      WITH respuestas AS (
+        SELECT r."temaId" AS "temaId", rp."esCorrecta" AS "esCorrecta"
+        FROM "RespuestaPractica" rp
+        JOIN "Reactivo" r ON r.id = rp."reactivoId"
+        WHERE rp."usuarioId" = ${usuarioId} AND r.banco = 'cultural'
+        UNION ALL
+        SELECT r."temaId" AS "temaId", rr."esCorrecta" AS "esCorrecta"
+        FROM "RespuestaReactivo" rr
+        JOIN "IntentoExamen" ie ON ie.id = rr."intentoExamenId"
+        JOIN "Reactivo" r ON r.id = rr."reactivoId"
+        WHERE ie."usuarioId" = ${usuarioId}
+          AND r.banco = 'cultural'
+          AND rr."esCorrecta" IS NOT NULL
+      )
+      SELECT t."capituloId" AS "capituloId",
+             COUNT(*)::int AS total,
+             SUM(CASE WHEN resp."esCorrecta" THEN 1 ELSE 0 END)::int AS aciertos
+      FROM respuestas resp
+      JOIN "Tema" t ON t.id = resp."temaId"
+      GROUP BY t."capituloId"
+    `);
+
+    const porCap = new Map(desempeno.map((d) => [d.capituloId, d]));
+
+    // La regla de dominio (fácil de afinar): sin datos = sin empezar; <50% =
+    // frágil; ≥80% con al menos 3 respuestas = dominado; en medio = en progreso.
+    const nivelDe = (
+      capituloId: number,
+    ): 'sin_empezar' | 'fragil' | 'en_progreso' | 'dominado' => {
+      const d = porCap.get(capituloId);
+      if (!d || d.total === 0) return 'sin_empezar';
+      const precision = d.aciertos / d.total;
+      if (precision < 0.5) return 'fragil';
+      if (precision >= 0.8 && d.total >= 3) return 'dominado';
+      return 'en_progreso';
+    };
+
+    const porMateria = materias
+      .map((m) => {
+        const caps = capitulos
+          .filter((c) => m.capituloIds.includes(c.capituloId))
+          .sort((a, b) => Number(a.numero) - Number(b.numero))
+          .map((c) => ({
+            capituloId: c.capituloId,
+            numero: Number(c.numero),
+            titulo: c.titulo,
+            nivel: nivelDe(c.capituloId),
+          }));
+        return {
+          materia: m.nombre,
+          dominados: caps.filter((c) => c.nivel === 'dominado').length,
+          total: caps.length,
+          capitulos: caps,
+        };
+      })
+      .filter((m) => m.total > 0);
+
+    return { plantel: nombre, materias: porMateria };
   }
 
   /**
@@ -697,11 +808,23 @@ export class ExamenesService {
     return { ...examen, bloques };
   }
 
-  /** Ruta a un archivo de docs/examen-cultural/, robusta a desde dónde se corra. */
+  /**
+   * Ruta a un archivo de datos del examen cultural, robusta a desde dónde se corra.
+   *
+   * Se busca primero en el repo (las dos primeras rutas): así, mientras
+   * desarrollas, mandan los archivos que estás editando en `docs/` y no hace
+   * falta recompilar para ver el cambio.
+   *
+   * La última es la copia que viaja DENTRO del build (`dist/datos-cultural/`,
+   * la deja `scripts/copiar-datos-cultural.js`). Es la que salva el despliegue:
+   * en producción sólo viaja `apps/backend` y la carpeta `docs/` no existe, así
+   * que sin esa copia la práctica cultural se caía con un 404.
+   */
   private rutaCultural(archivo: string): string {
     const candidatos = [
       path.resolve(process.cwd(), '..', '..', 'docs', 'examen-cultural', archivo),
       path.resolve(__dirname, '..', '..', '..', '..', 'docs', 'examen-cultural', archivo),
+      path.resolve(__dirname, '..', 'datos-cultural', archivo),
     ];
     for (const c of candidatos) if (fs.existsSync(c)) return c;
     throw new NotFoundException(`No encuentro ${archivo} del examen cultural.`);
