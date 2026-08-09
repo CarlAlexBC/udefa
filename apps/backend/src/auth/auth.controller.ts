@@ -3,6 +3,8 @@ import { Throttle } from '@nestjs/throttler';
 import type { Response } from 'express';
 import { AuthService } from './auth.service';
 import { LoginDto } from './dto/login.dto';
+import { OlvidePasswordDto } from './dto/olvide-password.dto';
+import { RestablecerPasswordDto } from './dto/restablecer-password.dto';
 import { JwtAuthGuard } from './guards/jwt-auth.guard';
 
 // Nombre de la cookie de sesión. El middleware de Next lee este mismo nombre.
@@ -50,6 +52,22 @@ export class AuthController {
     // el cuerpo por compatibilidad con sesiones/versiones que aún lo usan.
     res.cookie(TOKEN_COOKIE, resultado.access_token, opcionesCookie());
     return resultado;
+  }
+
+  // "Olvidé mi contraseña": manda el enlace de recuperación. Público, pero con
+  // freno estricto (5/min por IP) para que nadie lo use para tantear correos ni
+  // para bombardear a alguien con correos.
+  @Throttle({ default: { limit: 5, ttl: 60000 } })
+  @Post('olvide-password')
+  olvidePassword(@Body() datos: OlvidePasswordDto) {
+    return this.authService.solicitarReset(datos.email);
+  }
+
+  // Paso 2: recibe el token del correo + la nueva contraseña.
+  @Throttle({ default: { limit: 5, ttl: 60000 } })
+  @Post('restablecer-password')
+  restablecerPassword(@Body() datos: RestablecerPasswordDto) {
+    return this.authService.restablecerPassword(datos.token, datos.nuevaPassword);
   }
 
   @UseGuards(JwtAuthGuard)

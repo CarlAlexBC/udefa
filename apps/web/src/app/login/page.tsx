@@ -102,6 +102,12 @@ function LoginForm() {
                 required
                 autoComplete="current-password"
               />
+              <Link
+                href="/olvide-password"
+                className="self-end text-xs font-medium text-accent hover:underline"
+              >
+                ¿Olvidaste tu contraseña?
+              </Link>
             </div>
 
             {error && (

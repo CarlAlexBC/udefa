@@ -1,6 +1,7 @@
 import { Injectable, UnauthorizedException } from '@nestjs/common';
 import { JwtService } from '@nestjs/jwt';
 import { PrismaService } from '../prisma/prisma.service';
+import { MailService } from '../mail/mail.service';
 import * as bcrypt from 'bcrypt';
 import { randomUUID } from 'crypto';
 
@@ -9,7 +10,13 @@ export class AuthService {
   constructor(
     private prisma: PrismaService,
     private jwtService: JwtService,
+    private mail: MailService,
   ) {}
+
+  // A dónde apunta el link del correo (el frontend). Reutiliza FRONTEND_URL,
+  // la misma variable que ya usa el flujo de pagos.
+  private readonly FRONTEND_URL =
+    process.env.FRONTEND_URL ?? 'http://localhost:3000';
 
   async login(email: string, password: string) {
     const usuario = await this.prisma.usuario.findUnique({
@@ -84,6 +91,63 @@ export class AuthService {
       usuario: usuarioSinPassword,
       access_token: token,
     };
+  }
+
+  /**
+   * Paso 1 de "olvidé mi contraseña": si el correo existe, le manda un enlace
+   * con un token de un solo propósito (reset-password) que vence en 1 hora.
+   *
+   * SIEMPRE responde el mismo mensaje, exista o no el correo: así no se puede
+   * usar este endpoint para averiguar qué correos tienen cuenta.
+   */
+  async solicitarReset(email: string) {
+    const usuario = await this.prisma.usuario.findUnique({ where: { email } });
+
+    if (usuario) {
+      const token = await this.jwtService.signAsync(
+        { sub: usuario.id, purpose: 'reset-password' },
+        { expiresIn: '1h' },
+      );
+      const link = `${this.FRONTEND_URL}/restablecer?token=${encodeURIComponent(token)}`;
+      await this.mail.enviarRecuperacion(usuario.email, link);
+    }
+
+    return {
+      mensaje:
+        'Si el correo está registrado, te enviamos un enlace para restablecer tu contraseña.',
+    };
+  }
+
+  /**
+   * Paso 2: valida el token del correo y cambia la contraseña.
+   * Al cambiarla, CIERRA todas las sesiones abiertas del usuario — si alguien
+   * más tenía la cuenta, se cae de todos lados.
+   */
+  async restablecerPassword(token: string, nuevaPassword: string) {
+    let payload: { sub: number; purpose?: string };
+    try {
+      payload = await this.jwtService.verifyAsync(token);
+    } catch {
+      throw new UnauthorizedException(
+        'El enlace no es válido o ya venció. Pide uno nuevo.',
+      );
+    }
+
+    // Que sea un token de reset, no un token de sesión reutilizado.
+    if (payload.purpose !== 'reset-password') {
+      throw new UnauthorizedException('El enlace no es válido.');
+    }
+
+    const passwordEncriptada = await bcrypt.hash(nuevaPassword, 10);
+    await this.prisma.usuario.update({
+      where: { id: payload.sub },
+      data: { password: passwordEncriptada },
+    });
+
+    // Cierra todas las sesiones abiertas de ese usuario.
+    await this.prisma.sesion.deleteMany({ where: { usuarioId: payload.sub } });
+
+    return { mensaje: 'Tu contraseña se actualizó. Ya puedes iniciar sesión.' };
   }
 
   async logout(sid: string) {
