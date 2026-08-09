@@ -407,6 +407,23 @@ export const SECCIONES_ONLINE: Array<Seccion & { slug: string; capitulo: string 
 )
 
 /**
+ * Busca un capítulo por su número ('0', '1', ... '8').
+ * Lo usa la página de capítulo del mosaico, /inicio/guia/capitulo/[numero].
+ */
+export function buscarCapituloPorNumero(numero: string): Capitulo | null {
+  return CAPITULOS_GUIA.find((c) => c.numero === numero) ?? null
+}
+
+/**
+ * Devuelve el capítulo al que pertenece una sección, dado su slug.
+ * Sirve para armar la miga de pan de la pantalla de lectura, que ahora
+ * regresa al capítulo y no directo al índice.
+ */
+export function capituloDeSeccion(slug: string): Capitulo | null {
+  return CAPITULOS_GUIA.find((c) => c.secciones.some((s) => s.slug === slug)) ?? null
+}
+
+/**
  * Busca una sección online por slug.
  * Devuelve la sección + su capítulo padre + índice global para navegación.
  */
