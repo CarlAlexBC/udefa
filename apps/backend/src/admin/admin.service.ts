@@ -456,12 +456,22 @@ export class AdminService {
    */
   async canarios() {
     const canarios = await this.prisma.reactivo.findMany({
-      where: { noPuntua: true },
+      // Hay dos formas de canario y las dos se listan aquí:
+      //  · `noPuntua` — el reactivo ENTERO es inventado y no cuenta para nadie.
+      //  · nota del revisor con "CANARIO" — el reactivo es legítimo y sí se
+      //    califica; lo inventado es UNO DE SUS DISTRACTORES. Es la forma
+      //    preferida: no le enseña nada falso al aspirante (una opción
+      //    incorrecta está para ser incorrecta) y prueba igual el robo.
+      where: {
+        OR: [{ noPuntua: true }, { notaRevisor: { contains: 'CANARIO' } }],
+      },
       select: {
         id: true,
         enunciado: true,
         tema: true,
         banco: true,
+        noPuntua: true,
+        notaRevisor: true,
         // Cuántas veces se ha contestado = qué tan expuesto está el canario.
         _count: { select: { respuestas: true } },
       },
@@ -473,6 +483,12 @@ export class AdminService {
       tema: c.tema,
       banco: c.banco,
       vecesRespondido: c._count.respuestas,
+      // 'reactivo' = el reactivo entero es inventado (no puntúa).
+      // 'distractor' = el reactivo es legítimo; lo inventado es una opción falsa.
+      tipo: c.noPuntua ? ('reactivo' as const) : ('distractor' as const),
+      // La nota interna dice cuál es la frase sembrada. Nunca se le muestra al
+      // aspirante (el armado ni siquiera la manda al navegador).
+      nota: c.notaRevisor,
     }));
   }
 }

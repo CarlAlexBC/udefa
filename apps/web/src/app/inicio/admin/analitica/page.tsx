@@ -321,6 +321,11 @@ type Canario = {
   tema: string | null
   banco: string
   vecesRespondido: number
+  /** 'distractor' = una opción falsa dentro de un reactivo legítimo (lo normal).
+   *  'reactivo'   = el reactivo entero es inventado y no puntúa. */
+  tipo: 'distractor' | 'reactivo'
+  /** Nota interna: dice cuál es la frase sembrada. Nunca la ve el aspirante. */
+  nota: string | null
 }
 
 function Canarios() {
@@ -348,9 +353,11 @@ function Canarios() {
         <span className="text-xs text-muted-foreground">· trampas anti-copia sembradas</span>
       </div>
       <p className="mb-4 max-w-2xl text-sm text-muted-foreground">
-        Reactivos inventados que se sirven en los exámenes pero <strong>no cuentan</strong> para
-        ningún aspirante. Si uno aparece en el material de un competidor, es prueba
-        de que copió tu banco. Aquí ves cuáles tienes y qué tan expuestos están.
+        Trampas sembradas en el banco. Casi siempre son una{' '}
+        <strong>opción falsa</strong> dentro de un reactivo legítimo: como las
+        opciones incorrectas están para ser incorrectas, no le enseñan nada falso al
+        aspirante, pero si esa frase aparece en el material de un competidor, es
+        prueba de que copió tu banco. Aquí ves cuáles tienes y qué tan expuestos están.
       </p>
 
       {cargando ? (
@@ -380,8 +387,8 @@ function Canarios() {
               <tr className="border-b border-border bg-muted/40 text-left text-xs uppercase tracking-wider text-muted-foreground">
                 <th className="px-3 py-2 font-medium">ID</th>
                 <th className="px-3 py-2 font-medium">Reactivo</th>
+                <th className="px-3 py-2 font-medium">Trampa</th>
                 <th className="px-3 py-2 font-medium">Tema</th>
-                <th className="px-3 py-2 font-medium">Banco</th>
                 <th className="px-3 py-2 text-right font-medium">Veces servido</th>
               </tr>
             </thead>
@@ -397,8 +404,15 @@ function Canarios() {
                       {c.enunciado}
                     </p>
                   </td>
+                  <td className="px-3 py-2">
+                    <span
+                      className="cursor-help rounded-full border border-border px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-muted-foreground"
+                      title={c.nota ?? undefined}
+                    >
+                      {c.tipo === 'distractor' ? 'Opción falsa' : 'Reactivo entero'}
+                    </span>
+                  </td>
                   <td className="px-3 py-2 text-muted-foreground">{c.tema ?? '—'}</td>
-                  <td className="px-3 py-2 text-muted-foreground">{c.banco}</td>
                   <td className="px-3 py-2 text-right tabular-nums text-foreground">
                     {c.vecesRespondido.toLocaleString('es-MX')}
                   </td>
