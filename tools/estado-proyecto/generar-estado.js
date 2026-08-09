@@ -67,9 +67,18 @@ function examenCultural() {
   });
 }
 
-/** El banco de personalidad ya publica su propio ESTADO.md generado: se lee de ahí. */
-function personalidad() {
-  const p = rel('docs', 'personalidad-remaster', 'ESTADO.md');
+/**
+ * Cada banco de personalidad publica su propio ESTADO.md generado: se lee de ahí.
+ *
+ * Hay más de una generación conviviendo (remaster → v3) y **este resumen debe
+ * hablar del que se sirve de verdad**, que hoy es v3. Cuál está vivo lo decide
+ * `BANCO_DIAGNOSTICO` en `apps/backend/src/examenes/examenes.service.ts`; si
+ * algún día cambia, hay que mover el `vivo: true` de abajo.
+ *
+ * @param partes ruta del ESTADO.md dentro de docs/, p. ej. ['personalidad-remaster','v3']
+ */
+function personalidad(...partes) {
+  const p = rel('docs', ...partes, 'ESTADO.md');
   if (!existe(p)) return null;
 
   const fila = leer(p).match(/^\|\s*\|\s*\*\*TOTAL\*\*\s*\|\s*\*\*(\d+)\*\*\s*\|(.*)$/m);
@@ -117,7 +126,9 @@ function guiaAspirante() {
 
 function construir() {
   const cultural = examenCultural();
-  const pers = personalidad();
+  // El banco VIVO (el que sirve el simulador) y el que quedó archivado atrás.
+  const pers = personalidad('personalidad-remaster', 'v3');
+  const persArchivado = personalidad('personalidad-remaster');
   const iniciales = reactivosIniciales();
   const guia = guiaAspirante();
 
@@ -152,7 +163,14 @@ function construir() {
   L.push('| Bloque | Reactivos | Estado |');
   L.push('|---|---:|---|');
   if (pers) {
-    L.push(`| Personalidad (remaster) | ${pers.total} | banco cerrado, ${pers.ejes} ejes |`);
+    L.push(
+      `| **Personalidad (v3) — el que se sirve** | ${pers.total} | banco vivo, ${pers.ejes} ejes, escala Verdadero/Falso |`,
+    );
+  }
+  if (persArchivado) {
+    L.push(
+      `| Personalidad (remaster) | ${persArchivado.total} | archivado, ${persArchivado.ejes} ejes — ya no se sirve |`,
+    );
   }
   // El título ya no puede decir "HCM": el banco cultural es por plantel y hay
   // uno por escuela. Se listan los que tienen material.
@@ -196,11 +214,18 @@ function construir() {
   }
 
   if (pers) {
-    L.push('## Personalidad (remaster)');
+    L.push('## Personalidad — banco v3 (el que se sirve)');
     L.push('');
-    L.push(`- **${pers.total} reactivos** en ${pers.ejes} ejes.`);
+    L.push(`- **${pers.total} reactivos** en ${pers.ejes} ejes, escala Verdadero/Falso.`);
     L.push(`- ${pers.trampas} trampas · ${pers.criticos} críticos · ${pers.pares} pares.`);
-    L.push('- Desglose por eje: `docs/personalidad-remaster/ESTADO.md`.');
+    L.push('- Desglose por eje: `docs/personalidad-remaster/v3/ESTADO.md`.');
+    if (persArchivado) {
+      L.push(
+        `- Atrás quedó el **remaster** (${persArchivado.total} reactivos, ${persArchivado.ejes} ejes,` +
+          ' escala Sí/No) y el **v1** original. Siguen enteros en la base, marcados como' +
+          ' archivados; no los ve ningún aspirante. Se revisan en Admin → Reactivos.',
+      );
+    }
     L.push('');
   }
 

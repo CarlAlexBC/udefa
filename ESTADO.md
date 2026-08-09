@@ -11,14 +11,15 @@ node tools/estado-proyecto/generar-estado.js
 El contexto que no se puede contar —cómo trabajar, decisiones abiertas,
 reparto entre sesiones— vive en `CLAUDE.md`, que sí se escribe a mano.
 
-_Regenerado el 2026-08-02._
+_Regenerado el 2026-08-09._
 
 ## Resumen
 
 | Bloque | Reactivos | Estado |
 |---|---:|---|
-| Personalidad (remaster) | 2410 | banco cerrado, 28 ejes |
-| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, espanol-zarzar, fisica-perez-montiel, historia-mexico-menchaca, metodologia-baena, zill-atg) | 7290 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
+| **Personalidad (v3) — el que se sirve** | 2880 | banco vivo, 33 ejes, escala Verdadero/Falso |
+| Personalidad (remaster) | 2410 | archivado, 28 ejes — ya no se sirve |
+| Examen cultural (EMM, HCM, algebra-baldor, calculo-thomas, espanol-zarzar, fisica-perez-montiel, historia-mexico-menchaca, metodologia-baena, zill-atg) | 7312 | abiertas: EMM · Biología, algebra-baldor · Álgebra |
 | Inicial · bloque1 analogias | 25 | material previo |
 | Inicial · bloque3 sinonimos antonimos | 175 | material previo |
 | Inicial · bloque4 razonamiento logico | 50 | material previo |
@@ -45,7 +46,7 @@ _Regenerado el 2026-08-02._
 | EMM · Biología · Capítulo 33 · Percepción sensorial, procesamiento de la información y respuesta motora | 186 | el capítulo 33 quedó **CERRADO** en 186 reactivos (cuerpo del texto, pp. 778–805). El capítulo 34 (El sistema endocrino) empieza en la p. 811. Lo pide **sólo la EMO**. **Biología como materia NO está cerrada:** faltan los capítulos **14, 15 y 37**, que llevan otras sesiones y sostienen su propio pendiente. **Recordatorio de coordinación:** los capítulos 14, 15 y 37 no se tocan desde aquí. |
 | EMM · Biología · Capítulo 35 · La respiración | 166 | ninguno. El capítulo 35 está cerrado en 166 reactivos (24 jul 2026) y cubre completas las páginas impresas 828 a 838; el ensayo de cierre "Retomando la problemática inicial" y los ejercicios no llevan reactivos por norma. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 36 (`biologia-36-circulacion.md`). |
 | EMM · Biología · Capítulo 36 · La circulación | 153 | ninguno. El capítulo 36 está cerrado en 153 reactivos (24 jul 2026) y cubre completas las páginas impresas 842 a 853; el ensayo de cierre "Retomando la problemática inicial" y los ejercicios no llevan reactivos por norma. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 37 (`biologia-37-digestion.md`), que es el último del temario de la materia. |
-| EMM · Biología · Capítulo 37 · La digestión | 89 | el capítulo 37 está EN CURSO; sigue desde la página impresa 864 (hoja 910) en adelante (el páncreas exocrino y endocrino, el hígado y la bilis, el intestino grueso, la absorción de agua y la microbiota, y el resto del sistema digestivo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. |
+| EMM · Biología · Capítulo 37 · La digestión | 111 | el capítulo 37 está EN CURSO; sigue desde la página impresa 864 (hoja 910) en adelante (el páncreas exocrino y endocrino, el hígado y la bilis, el intestino grueso, la absorción de agua y la microbiota, y el resto del sistema digestivo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. |
 | EMM · Química · Capítulo 2 · Átomos, moléculas e iones | 153 | ninguno. Química quedó cerrada en todos los capítulos del temario de Medicina; el resumen lo sostiene el `.md` del capítulo 24. |
 | EMM · Química · Capítulo 3 · Relaciones de masa en las reacciones químicas | 43 | ninguno. El capítulo 3 quedó cubierto en los cinco subtemas que pide el temario de Medicina (3.1, 3.2, 3.3, 3.5 y 3.7); el resto del capítulo (3.4, 3.6 y 3.8 a 3.10) no entra. Química quedó cerrada; el resumen lo sostiene el `.md` del capítulo 24. |
 | EMM · Química · Capítulo 4 · Reacciones en disolución acuosa | 53 | ninguno. El capítulo 4 quedó cubierto en los cuatro subtemas que pide el temario de Medicina (4.1, 4.3, 4.4 y 4.5); el resto del capítulo (4.2 y 4.6 a 4.8) no entra. Química quedó cerrada; el resumen lo sostiene el `.md` del capítulo 24. |
@@ -109,16 +110,17 @@ _Regenerado el 2026-08-02._
 | zill-atg · Geometría Analítica · Capítulo 10 · Aplicaciones de trigonometría | 69 | ninguno. El capítulo 10 está CERRADO. Con los capítulos 8 (`zill-08-trigonometria-triangulo-rectangulo.md`, 58 react.) y 9 (`zill-09-trigonometria-circulo-unitario.md`, 53 react.), ya cerrados para la EMI con el mismo alcance "Completo" que pide la EMMA, y el capítulo 11 (`zill-11-temas-geometria-analitica.md`, 75 react., ya cerrado), la materia *Trigonometría y Geometría Analítica* (`TGA-02-2026`) de la EMMA queda CERRADA al nivel de reactivos. |
 | zill-atg · Geometría Analítica · Capítulo 11 · Temas de geometría analítica | 75 | ninguno. El capítulo 11 está CERRADO. Con este capítulo y los capítulos 8 (`zill-08`, 58 react.), 9 (`zill-09`, 53 react.) y 10 (`zill-10`, 69 react.), **la materia *Trigonometría y Geometría Analítica* (`TGA-02-2026`) de la EMMA queda CERRADA al nivel de reactivos**: los cuatro capítulos que pide su temario (8, 9, 10 y 11), todos "Completo". |
 | zill-atg · Geometría Analítica · Capítulo 12 · Coordenadas polares | 44 | ninguno. Con el capítulo 12, **la materia Geometría Analítica queda CERRADA para la EMI** (`GA-03-2026`): los cuatro capítulos que pide el temario —4 (64), 8 (58), 9 (53) y 12 (44)— están completos, **219 reactivos** en total. El temario deja fuera a propósito el capítulo 11 (cónicas en coordenadas rectangulares). |
-| **Total** | **7290** | |
+| **Total** | **7312** | |
 
 > 4 archivo(s) no declaran pendiente en su encabezado, así que este resumen **no puede afirmar que estén cerrados**. Para que aparezcan como
 > terminados, agrégales una línea `**Pendiente:**` que lo diga.
 
-## Personalidad (remaster)
+## Personalidad — banco v3 (el que se sirve)
 
-- **2410 reactivos** en 28 ejes.
-- 297 trampas · 88 críticos · 881 pares.
-- Desglose por eje: `docs/personalidad-remaster/ESTADO.md`.
+- **2880 reactivos** en 33 ejes, escala Verdadero/Falso.
+- 317 trampas · 130 críticos · 1086 pares.
+- Desglose por eje: `docs/personalidad-remaster/v3/ESTADO.md`.
+- Atrás quedó el **remaster** (2410 reactivos, 28 ejes, escala Sí/No) y el **v1** original. Siguen enteros en la base, marcados como archivados; no los ve ningún aspirante. Se revisan en Admin → Reactivos.
 
 ## Dónde está cada cosa
 
