@@ -23,8 +23,10 @@ traen de aquí: no se duplican.
 > **libro** (como ya se hizo con `fisica-perez-montiel/`), no por la escuela.
 
 **Capítulos de este libro ya cerrados:** 3 (221 reactivos), 4 (190), 5 (157), 7 (240),
-8 (149), 11 (162), 12 (131), 31 (84), 32 (271), 35 (166) y 36 (153). **El 37 es el último
-capítulo del temario de Biología:** cuando cierre, la materia queda completa.
+8 (149), 11 (162), 12 (131), 31 (84), 32 (271), 35 (166), 36 (153) y **37 (143, este
+archivo, CERRADO el 9 ago 2026)**. **El 37 es el último capítulo del temario de Biología de
+la EMM:** con él, la materia Biología queda completa para la EME, la EMM y la EMO. La **EMOS**
+pide además el capítulo 14 (Epigenética), que se trabaja en `biologia-14-epigenetica.md`.
 
 ## Método
 
@@ -46,14 +48,24 @@ introducción histórica sobre el proceso digestivo. El desfase +46 se **reverif
 (hoja 900 = p. 854), leído de la hoja, nunca calculado.
 
 **Qué queda fuera por norma.** El apartado de apertura "Biología en contexto social ·
-Ecosistemas bacterianos y salud humana" **no lleva reactivos**, igual que en los capítulos
-32, 35 y 36. **OJO:** ese apartado no es corto — se extiende por las páginas 855-856 e
-incluye todo el material sobre la microbiota humana (las ~2000 especies, los 10^14
-microorganismos, los rumiantes y las termitas, la vitamina K y las vitaminas del complejo B
-del colon, los probióticos, el Proyecto Microbioma Humano). Es material tentador, pero es
-marco social discursivo de apertura y **no se le escriben reactivos**. Tampoco al ensayo de
-cierre "Retomando la problemática inicial" ni a los ejercicios ("Cuestionario",
-"Situaciones problemáticas").
+Ecosistemas bacterianos y salud humana" (pp. 855-856) **no lleva reactivos**, igual que en
+los capítulos 32, 35 y 36: es marco social discursivo de apertura. Ahí la microbiota humana
+se trata como marco social (las ~2000 especies, los 10^14 microorganismos, los rumiantes y
+las termitas, los probióticos, el Proyecto Microbioma Humano) y **no se le escriben
+reactivos**. **En cambio, el tratamiento de la microbiota en el cuerpo del capítulo (p. 867)**
+—las bacterias simbióticas *E. coli* y *Lactobacillus* y la síntesis de vitamina K— **sí
+lleva reactivos**, citado a la p. 867.
+
+**El cierre tampoco lleva reactivos.** OJO: en este capítulo el libro **no** rotula el cierre
+como "Retomando la problemática inicial" (como sí hacen otros capítulos); aquí el cierre
+discursivo/social se titula "POR FALTA Y POR EXCESO: PROBLEMAS NUTRICIONALES QUE PERSISTEN"
+(p. 868) y "ALGUNOS REQUERIMIENTOS NUTRICIONALES" (p. 870), con el ensayo 37-2 (Seguridad y
+soberanía alimentaria), los recuadros 37-2 (grasas trans) y 37-3 (antioxidantes) y los
+cuadros 37-2/37-3 —el hambre en el mundo, la FAO, la soberanía alimentaria, la anorexia y la
+bulimia, más algo de biología nutricional (aminoácidos esenciales, vitaminas)—. Por norma
+**queda fuera**, igual que la apertura y los ejercicios ("Cuestionario", "Situaciones
+problemáticas"). El cuerpo del capítulo —lo que sí lleva reactivos— termina en la materia
+fecal, arriba de la p. 868; el capítulo 38 empieza en la p. 877.
 
 ## Cobertura actual
 
@@ -104,7 +116,7 @@ y galactosa" — es falso, la sacarosa se hidroliza en glucosa y **fructosa**; l
 proviene de la lactosa. **No se escriben reactivos sobre esas dos filas**, por la misma
 regla aplicada a los datos falsos de Historia.
 
-**Pendiente:** el capítulo 37 está EN CURSO; sigue desde la página impresa 864 (hoja 910) en adelante (el páncreas exocrino y endocrino, el hígado y la bilis, el intestino grueso, la absorción de agua y la microbiota, y el resto del sistema digestivo, hasta antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios). El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre. El capítulo 37 es el último del temario de Biología: no quedan otros capítulos por empezar, así que este archivo sostiene el pendiente de la materia hasta que el propio capítulo 37 se cierre.
+**Pendiente:** ninguno. El capítulo 37 · La digestión quedó **CERRADO en 143 reactivos** (9 ago 2026), cubriendo el cuerpo del capítulo de la página impresa 856 a la 868 (hasta la materia fecal): el concepto y la evolución de los sistemas digestivos, el tubo digestivo y sus capas, la boca (dientes, papilas gustativas, saliva, deglución), el ensayo histórico 37-1, el estómago (jugo gástrico, HCl, pepsina, úlceras por *H. pylori*, gastrina), el intestino delgado, el hígado y la bilis, el páncreas exocrino y endocrino (islotes de Langerhans), el recuadro 37-1 del transporte de colesterol (HDL/LDL, aterosclerosis), el control endocrino y nervioso del intestino (secretina, colecistocinina, péptido inhibidor gástrico, regulación autónoma) y el intestino grueso (absorción de agua, microbiota y vitamina K, apéndice, materia fecal, fig. 37-11). El cierre discursivo "Por falta y por exceso" / "Algunos requerimientos nutricionales" (pp. 868-876) y los ejercicios no llevan reactivos por norma. **Con el capítulo 37, la materia Biología (Curtis) queda completa para las escuelas que sólo dependían de él: EME, EMM y EMO.** Para la **EMOS** falta todavía el capítulo **14 (Epigenética)**, que sostiene su propio pendiente en `biologia-14-epigenetica.md`; por eso Biología como materia aún NO está cerrada del todo.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
