@@ -100,13 +100,20 @@ En relación con el libro de Álgebra, según el recuadro, ¿por qué se hizo c�
 - A. Por su saber, por su elocuencia y por su belleza
 - B. Por su saber, por su riqueza y por su belleza
 - C. Por su valor, por su elocuencia y por su fuerza
-- D. Por su saber, por su poder político y por su belleza
+- D. Por su saber, por su elocuencia y por su linaje aristocrático alejandrino
 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 143
 **Subtema:** Descomposición factorial · Hypatia
 
 Se hizo célebre por su saber, por su elocuencia y por su belleza.
+
+> 🐤 **CANARIO anti-copia.** El distractor *"por su linaje aristocrático
+> alejandrino"* es una frase **inventada**: no está en el recuadro de Baldor y
+> nadie la escribe por casualidad. Si aparece en material de otro, prueba que
+> copiaron este banco. La respuesta correcta, la cita y la justificación quedan
+> intactas. Se identifica por su texto, no por la letra: el importador baraja las
+> opciones.
 
 ### 3
 

@@ -220,7 +220,7 @@ En relación con el libro de Historia Universal, ¿qué hecho puede tomarse como
 
 - A. Que a finales de 1945 Inglaterra no pudo seguir auxiliando económica ni militarmente a Grecia y a Turquía
 - B. La firma del Tratado de Postdam
-- C. El inicio del Programa Manhattan
+- C. La firma del Acuerdo de Bratislava sobre las zonas de ocupación
 - D. La creación del Pacto de Varsovia
 
 **Respuesta:** A
@@ -228,6 +228,16 @@ En relación con el libro de Historia Universal, ¿qué hecho puede tomarse como
 **Subtema:** La Guerra Fría · características
 
 Se puede tomar como punto de partida de la Guerra Fría el momento en que, a finales de 1945, Inglaterra, debilitada por la guerra, no pudo seguir auxiliando económica ni militarmente a Grecia y a Turquía, las que, además, recibían fuertes presiones por parte de la Unión Soviética.
+
+> 🐤 **CANARIO anti-copia.** El distractor *"Acuerdo de Bratislava sobre las zonas
+> de ocupación"* es un hecho **inventado**: ese acuerdo no existe, no está en
+> Rodríguez Arvizu y nadie lo escribe por casualidad. Si aparece en material de
+> otro, prueba que copiaron este banco. La respuesta correcta, la cita y la
+> justificación quedan intactas. Se identifica por su texto, no por la letra: el
+> importador baraja las opciones.
+>
+> Sustituyó a "El inicio del Programa Manhattan". Si algún día se quiere devolver
+> el filo original al reactivo, basta con restaurar esa opción y borrar esta nota.
 
 ### 3
 

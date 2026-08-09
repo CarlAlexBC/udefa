@@ -177,13 +177,20 @@ De conformidad con el libro de Biología, ¿cómo se identifica la membrana con 
 - A. Como una doble línea delgada y continua
 - B. Como una única línea gruesa y discontinua
 - C. Como una red de sacos aplanados
-- D. Como un anillo de nueve microtúbulos
+- D. Como un mosaico de gránulos esféricos separados por espacios claros
 
 **Respuesta:** A
 **Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 89
 **Subtema:** Membrana plasmática · grosor
 
 No se puede visualizar con el microscopio óptico. En cambio, con el microscopio electrónico se identifica como una doble línea delgada y continua.
+
+> 🐤 **CANARIO anti-copia.** El distractor *"un mosaico de gránulos esféricos
+> separados por espacios claros"* es una frase **inventada**: no está en Curtis y
+> nadie la escribe por casualidad. Si aparece en material de otro, prueba que
+> copiaron este banco. La respuesta correcta, la cita y la justificación quedan
+> intactas. Se identifica por su texto, no por la letra: el importador baraja las
+> opciones.
 
 ---
 

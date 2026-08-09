@@ -98,13 +98,20 @@ En relación con el libro de Geografía Moderna de México, ¿cómo se entiende 
 - A. Como la rama de la meteorología que estudia el conjunto de fenómenos que se presentan en un cierto lapso en zonas o lugares determinados de la superficie de la Tierra
 - B. Como la disciplina que mide y pronostica el estado del tiempo de un lugar día con día
 - C. Como la ciencia que estudia la composición y estructura de la atmósfera terrestre
-- D. Como la rama de la geografía que describe el relieve y la geomorfología de un país
+- D. Como la rama de la meteorología que ordena los climas según su recurrencia estacional en las cuencas hidrográficas
 
 **Respuesta:** A
 **Referencia:** Tamayo, Jorge L. (2021) *Geografía Moderna de México*, Editorial Trillas, Pág. 120
 **Subtema:** climatología · definición de clima
 
 Si entendemos a esta disciplina científica como la rama de la meteorología que estudia el conjunto de fenómenos que se presentan en un cierto lapso en zonas o lugares determinados de la superficie de la Tierra.
+
+> 🐤 **CANARIO anti-copia.** El distractor *"ordena los climas según su
+> recurrencia estacional en las cuencas hidrográficas"* es una frase **inventada**:
+> no está en Tamayo y nadie la escribe por casualidad. Si aparece en material de
+> otro, prueba que copiaron este banco. La respuesta correcta, la cita y la
+> justificación quedan intactas. Se identifica por su texto, no por la letra: el
+> importador baraja las opciones.
 
 ### 3
 

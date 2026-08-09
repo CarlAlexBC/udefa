@@ -157,7 +157,7 @@ De acuerdo con el libro de Física, ¿qué tipo de magnitud es el desplazamiento
 
 - A. Una magnitud vectorial, pues corresponde a una distancia medida en una dirección particular entre dos puntos: el de partida y el de llegada.
 - B. Una magnitud escalar, pues sólo interesa la longitud recorrida sin importar la dirección.
-- C. Una magnitud escalar, pues únicamente indica la magnitud de la velocidad.
+- C. Una magnitud vectorial, pues resulta de sumar las trayectorias parciales recorridas en cada tramo.
 - D. Una magnitud vectorial, pues sólo requiere que se señale su magnitud.
 
 **Respuesta:** A
@@ -166,6 +166,14 @@ De acuerdo con el libro de Física, ¿qué tipo de magnitud es el desplazamiento
 **Subtema:** física · cinemática
 
 <El desplazamiento de un móvil es una magnitud vectorial, pues corresponde a una distancia medida en una dirección particular entre dos puntos: el de partida y el de llegada.>
+
+> 🐤 **CANARIO anti-copia.** El distractor *"resulta de sumar las trayectorias
+> parciales recorridas en cada tramo"* es una frase **inventada** (además, eso
+> describiría la distancia, no el desplazamiento): no está en Pérez Montiel y
+> nadie la escribe por casualidad. Si aparece en material de otro, prueba que
+> copiaron este banco. La respuesta correcta, la cita y la justificación quedan
+> intactas. Se identifica por su texto, no por la letra: el importador baraja las
+> opciones.
 
 > Se confunden: la distancia es escalar (sólo la longitud recorrida); el desplazamiento es vectorial (va del punto de partida al de llegada).
 
