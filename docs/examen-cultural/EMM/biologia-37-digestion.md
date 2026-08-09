@@ -1801,4 +1801,244 @@ Los ramilletes de células pancreáticas, o islotes de Langerhans, secretan las 
 
 ---
 
-**Reactivos en este archivo:** 97
+## Sub-lote 16 · El transporte de colesterol: HDL, LDL y aterosclerosis (recuadro 37-1, p. 865)
+
+### 98
+
+De acuerdo con el libro de Biología, además de ser constitutivo de las membranas celulares de las células animales, ¿de qué es precursora la molécula de colesterol?
+
+- A. De algunas hormonas y de la vitamina D
+- B. De la vitamina K y de la vitamina C
+- C. De la hemoglobina y de los pigmentos biliares
+- D. De las enzimas digestivas del páncreas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · colesterol
+
+El colesterol es una molécula constitutiva de las membranas celulares de las células animales, precursora de algunas hormonas y de vitamina D; por lo tanto, es un componente vital indispensable.
+
+---
+
+### 99
+
+De acuerdo con el libro de Biología, ¿cuál es el órgano central en la regulación del colesterol?
+
+- A. El hígado
+- B. El páncreas
+- C. La vesícula biliar
+- D. El intestino grueso
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · colesterol · hígado
+
+El órgano central en la regulación del colesterol es el hígado, que no solo lo sintetiza en cantidades necesarias a partir de ácidos grasos saturados, sino que lo degrada cuando circula en exceso en la sangre.
+
+---
+
+### 100
+
+De acuerdo con el libro de Biología, ¿a partir de qué sintetiza el hígado el colesterol en las cantidades necesarias?
+
+- A. A partir de ácidos grasos saturados
+- B. A partir de aminoácidos esenciales
+- C. A partir de glucosa
+- D. A partir de sales biliares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · colesterol · síntesis
+
+El órgano central en la regulación del colesterol es el hígado, que no solo lo sintetiza en cantidades necesarias a partir de ácidos grasos saturados, sino que lo degrada cuando circula en exceso en la sangre.
+
+---
+
+### 101
+
+De acuerdo con el libro de Biología, el exceso de colesterol en sangre puede ser el resultado de una dieta rica en, ¿qué tipo de alimentos?
+
+- A. Alimentos de origen animal, como leche, queso, carne y yemas de huevo
+- B. Cereales integrales y legumbres
+- C. Frutas y verduras frescas
+- D. Aceites vegetales y frutos secos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · colesterol · dieta
+
+Este exceso puede ser el resultado de una dieta rica en alimentos de origen animal, como leche, queso, carne y yemas de huevo.
+
+---
+
+### 102
+
+De acuerdo con el libro de Biología, el colesterol es insoluble en agua y se transporta por el torrente sanguíneo integrando complejos de macromoléculas que se caracterizan, entre otras variables, ¿por cuál propiedad?
+
+- A. Por su densidad
+- B. Por su carga eléctrica
+- C. Por su color
+- D. Por su temperatura
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · colesterol · transporte
+
+El colesterol es insoluble en agua y es transportado por el torrente sanguíneo, integrando complejos de macromoléculas que se caracterizan, entre otras variables, por su densidad.
+
+---
+
+### 103
+
+De acuerdo con el libro de Biología, ¿cómo se relaciona la densidad de estos complejos con su contenido de lípidos?
+
+- A. De manera inversa: a mayor contenido de lípidos, menor será la densidad
+- B. De manera directa: a mayor contenido de lípidos, mayor será la densidad
+- C. No existe ninguna relación entre la densidad y el contenido de lípidos
+- D. La densidad depende únicamente del contenido de proteínas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · colesterol · densidad
+
+Su densidad es una propiedad que está inversamente relacionada con el contenido de lípidos: a mayor contenido de lípidos, menor será la densidad.
+
+---
+
+### 104
+
+De acuerdo con el libro de Biología, los complejos de mayor densidad, los HDL, funcionan como "camiones de basura". ¿Qué hacen?
+
+- A. Llevan el exceso de colesterol al hígado para su degradación y posterior excreción
+- B. Llevan el colesterol de la dieta y el recién sintetizado a diversos destinos del cuerpo
+- C. Sintetizan colesterol nuevo a partir de los ácidos grasos saturados
+- D. Almacenan el colesterol en las paredes de las arterias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · colesterol · HDL
+
+Los complejos de mayor densidad son los HDL (del inglés, high density lipoprotein), que funcionan como "camiones de basura": llevan el exceso de colesterol al hígado para su degradación y posterior excreción.
+
+---
+
+### 105
+
+De acuerdo con el libro de Biología, los complejos de menor densidad, los LDL, funcionan como los "camiones de reparto" del sistema. ¿Qué hacen?
+
+- A. Llevan el colesterol de la dieta y el recién sintetizado a diversos destinos, como el hígado y los órganos sintetizadores de hormonas lipídicas
+- B. Llevan el exceso de colesterol al hígado para su degradación y posterior excreción
+- C. Reducen la deposición de colesterol y "limpian" las arterias
+- D. Degradan el colesterol que circula en exceso en la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · colesterol · LDL
+
+Los complejos de menor densidad, llamados LDL (del inglés, low density lipoprotein), funcionan como los "camiones de reparto" del sistema: llevan el colesterol de la dieta y el recién sintetizado a diversos destinos, como el hígado y los órganos sintetizadores de hormonas lipídicas.
+
+---
+
+### 106
+
+De acuerdo con el libro de Biología, ¿por qué se conoce a los LDL como "colesterol malo"?
+
+- A. Porque su alto nivel en sangre se asocia con el riesgo de deposición de placas de colesterol en las paredes arteriales
+- B. Porque llevan el exceso de colesterol al hígado para su excreción
+- C. Porque reducen la deposición de colesterol y "limpian" las arterias
+- D. Porque son incapaces de transportar el colesterol por la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · colesterol · LDL
+
+Los LDL son conocidos como "colesterol malo", pues su alto nivel en sangre se asocia con el riesgo de deposición de placas de colesterol en las paredes arteriales.
+
+---
+
+### 107
+
+De acuerdo con el libro de Biología, ¿qué es la aterosclerosis?
+
+- A. Un síndrome que se caracteriza por la adhesión e infiltración de sustancias lipídicas en las paredes de las arterias de mediano y grueso calibre
+- B. La dilatación anormal de las venas de las extremidades inferiores
+- C. La formación de cálculos de colesterol en la vesícula biliar
+- D. El aumento de la densidad de los complejos HDL en la sangre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · aterosclerosis
+
+Esta deposición puede ser causa de aterosclerosis, un síndrome que se caracteriza por la adhesión e infiltración de sustancias lipídicas en las paredes de las arterias de mediano y grueso calibre.
+
+---
+
+### 108
+
+De acuerdo con el libro de Biología, como consecuencia de la aterosclerosis, ¿qué les ocurre a las arterias afectadas?
+
+- A. Disminuyen su diámetro, o incluso pueden ser obstruidas, lo cual impide o interrumpe el flujo sanguíneo normal
+- B. Aumentan su diámetro y el flujo sanguíneo se acelera
+- C. Se vuelven más elásticas y flexibles
+- D. Sintetizan una mayor cantidad de colesterol bueno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · aterosclerosis
+
+Las arterias de mediano y grueso calibre, como consecuencia, disminuyen su diámetro, o incluso pueden ser obstruidas, lo cual impide o interrumpe el flujo sanguíneo normal.
+
+---
+
+### 109
+
+De acuerdo con el libro de Biología, la aterosclerosis es la forma más común, ¿de qué padecimiento?
+
+- A. De la arteriosclerosis, un término amplio que se refiere al endurecimiento de las arterias
+- B. De la diabetes mellitus
+- C. De la hipertensión arterial
+- D. De la insuficiencia hepática
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · arteriosclerosis
+
+Esta es la forma más común de arteriosclerosis, un término amplio que se refiere al endurecimiento de las arterias.
+
+---
+
+### 110
+
+De acuerdo con el libro de Biología, ¿por qué se conoce a los HDL como "colesterol bueno"?
+
+- A. Porque reducen la deposición de colesterol y "limpian" las arterias
+- B. Porque llevan el colesterol de la dieta a los tejidos periféricos
+- C. Porque su alto nivel en sangre se asocia con las placas en las arterias
+- D. Porque son los encargados de sintetizar las hormonas lipídicas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · colesterol · HDL
+
+Por el contrario, los HDL reducen la deposición de colesterol y "limpian" las arterias; por ello, se los conoce como "colesterol bueno".
+
+---
+
+### 111
+
+De acuerdo con el libro de Biología, en una arteria coronaria muy estrechada por la aterosclerosis, ¿qué puede bloquear por completo el canal que queda abierto?
+
+- A. Un coágulo sanguíneo
+- B. Una burbuja de aire
+- C. Un cálculo biliar
+- D. Un acúmulo de bilirrubina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 865
+**Subtema:** digestión · aterosclerosis
+
+Este canal estrecho puede ser bloqueado por completo por un coágulo sanguíneo. El resultado es un ataque cardíaco y la muerte del músculo cardíaco irrigado por la arteria afectada.
+
+---
+
+**Reactivos en este archivo:** 111
