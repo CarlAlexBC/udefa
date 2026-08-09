@@ -10,6 +10,7 @@ import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { AlertCircle } from 'lucide-react'
 import { API_URL } from '@/lib/api'
+import { FondoAuth } from '@/components/FondoAuth'
 
 export default function LoginPage() {
   return (
@@ -59,7 +60,9 @@ function LoginForm() {
   }
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-background px-6 py-12">
+    <main className="dark relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-background px-6 py-12">
+      <FondoAuth />
+      <div className="relative z-10 flex w-full flex-col items-center">
       {/* Logo + nombre de marca — arriba del card */}
       <Link href="/" className="mb-8 flex items-center gap-3 opacity-90 transition-opacity hover:opacity-100">
         <Image
@@ -72,7 +75,11 @@ function LoginForm() {
         <span className="text-sm font-semibold text-foreground">El Monote te Guía</span>
       </Link>
 
-      <Card className="w-full max-w-sm">
+      {/* Semitransparente y en oliva a propósito: la constelación de escudos
+          del fondo se ve a través del formulario. El desenfoque de 3px es
+          apenas el necesario para que un escudo que quede justo detrás no le
+          pelee legibilidad a las etiquetas. */}
+      <Card className="w-full max-w-sm border-[#6B7530]/55 bg-[#2A2E16]/55 backdrop-blur-[3px]">
         <CardHeader className="text-center">
           <CardTitle className="text-2xl">Iniciar sesión</CardTitle>
           <CardDescription>Accede a tus simuladores y resultados</CardDescription>
@@ -144,6 +151,7 @@ function LoginForm() {
       >
         ← Volver a inicio
       </Link>
+      </div>
     </main>
   )
 }
