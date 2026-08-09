@@ -1663,4 +1663,142 @@ Este órgano se diferencia en dos porciones: páncreas exocrino y endocrino.
 
 ---
 
-**Reactivos en este archivo:** 89
+## Sub-lote 15 · El hígado, la bilis y el páncreas endocrino (p. 864)
+
+### 90
+
+De acuerdo con el libro de Biología, ¿cómo funciona el hígado, la otra glándula accesoria importante del sistema digestivo?
+
+- A. Como una central de transformaciones químicas
+- B. Como un simple reservorio donde se acumula la bilis
+- C. Como el principal órgano de absorción de nutrientes
+- D. Como una bomba que impulsa el alimento por el tubo digestivo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 864
+**Subtema:** digestión · hígado
+
+La otra glándula accesoria importante es el hígado, que funciona como una central de transformaciones químicas.
+
+---
+
+### 91
+
+De acuerdo con el libro de Biología, ¿qué sustancia sintetiza el hígado y contribuye a la digestión de las grasas?
+
+- A. La bilis
+- B. La tripsina
+- C. La insulina
+- D. La secretina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 864
+**Subtema:** digestión · hígado · bilis
+
+El hígado sintetiza la bilis, que contiene agua y diversos iones –como bicarbonato, sodio y calcio, y ácidos biliares–, sintetizados a partir de colesterol, que contribuyen a la digestión de las grasas.
+
+---
+
+### 92
+
+De acuerdo con el libro de Biología, además de agua, ¿qué contiene la bilis?
+
+- A. Diversos iones –como bicarbonato, sodio y calcio– y ácidos biliares
+- B. Enzimas digestivas como la amilasa y la pepsina
+- C. Hormonas como la insulina y el glucagón
+- D. Glóbulos rojos y plaquetas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 864
+**Subtema:** digestión · bilis · composición
+
+El hígado sintetiza la bilis, que contiene agua y diversos iones –como bicarbonato, sodio y calcio, y ácidos biliares–.
+
+---
+
+### 93
+
+De acuerdo con el libro de Biología, ¿a partir de qué se sintetizan los ácidos biliares de la bilis?
+
+- A. A partir de colesterol
+- B. A partir de glucosa
+- C. A partir de aminoácidos
+- D. A partir de vitamina K
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 864
+**Subtema:** digestión · bilis · ácidos biliares
+
+El hígado sintetiza la bilis, que contiene agua y diversos iones –como bicarbonato, sodio y calcio, y ácidos biliares–, sintetizados a partir de colesterol.
+
+---
+
+### 94
+
+De acuerdo con el libro de Biología, ¿cómo actúan las sales de ácidos biliares sobre las grasas en el intestino?
+
+- A. Como detergentes, al emulsionar las grasas y fragmentarlas en muy pequeñas gotas (micelas)
+- B. Como enzimas que rompen los enlaces químicos de las grasas
+- C. Como transportadores que llevan las grasas a la sangre
+- D. Como hormonas que inhiben la absorción de grasas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 864
+**Subtema:** digestión · sales biliares
+
+Las sales de ácidos biliares actúan como detergentes al emulsionar las grasas en el intestino y fragmentarlas en muy pequeñas gotas (micelas).
+
+---
+
+### 95
+
+De acuerdo con el libro de Biología, ¿dónde se acumula la bilis antes de secretarse al duodeno?
+
+- A. En la vesícula biliar
+- B. En el páncreas
+- C. En el apéndice
+- D. En el estómago
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 864
+**Subtema:** digestión · vesícula biliar
+
+La bilis circula a través de conductos que la llevan a la vesícula biliar, donde se acumula antes de secretarse al duodeno.
+
+---
+
+### 96
+
+De acuerdo con el libro de Biología, ¿cómo se denomina a los ramilletes de células pancreáticas que forman el páncreas endocrino?
+
+- A. Islotes de Langerhans
+- B. Criptas gástricas
+- C. Vellosidades intestinales
+- D. Papilas gustativas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 864
+**Subtema:** digestión · páncreas endocrino
+
+Los ramilletes de células pancreáticas, o islotes de Langerhans, secretan las hormonas peptídicas insulina, glucagón y somatostatina.
+
+---
+
+### 97
+
+De acuerdo con el libro de Biología, ¿qué hormonas peptídicas secretan los islotes de Langerhans al torrente sanguíneo?
+
+- A. Insulina, glucagón y somatostatina
+- B. Secretina, colecistocinina y gastrina
+- C. Adrenalina, cortisol y tiroxina
+- D. Estrógeno, progesterona y testosterona
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 864
+**Subtema:** digestión · páncreas endocrino · hormonas
+
+Los ramilletes de células pancreáticas, o islotes de Langerhans, secretan las hormonas peptídicas insulina, glucagón y somatostatina, que son liberadas al torrente sanguíneo.
+
+---
+
+**Reactivos en este archivo:** 97
