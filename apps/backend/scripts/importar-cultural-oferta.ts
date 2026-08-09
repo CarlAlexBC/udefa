@@ -22,6 +22,12 @@
  *   npx ts-node scripts/importar-cultural-oferta.ts --escribir  → escribe a la base
  *   npx ts-node scripts/importar-cultural-oferta.ts --carpeta HCM  → limita a una carpeta
  *
+ * `--carpeta` es sobre todo para revisar en modo prueba. Con `--escribir` hace
+ * una importación PARCIAL: mete y actualiza lo de esa carpeta, pero **no poda**
+ * (no puede: no leyó el resto del banco, y borrar lo no leído se llevaría miles
+ * de reactivos de las demás carpetas). Para que la poda ocurra hay que correr el
+ * importador completo, sin `--carpeta`.
+ *
  * Dos reglas del banco que este script cumple (ver docs/examen-cultural/README.md):
  *   1. Las opciones se BARAJAN (determinista, semilla = enunciado). respuestaCorrecta
  *      guarda el TEXTO de la opción correcta, no la letra: el simulador califica por
@@ -491,27 +497,44 @@ async function escribir(archivos: ArchivoParsed[]) {
 
     // Podar reactivos culturales que ya no están en los .md: se borran sólo si
     // nadie los referencia; los que tienen historial se conservan y se avisa.
-    const restantes = await prisma.reactivo.findMany({
-      where: { banco: BANCO },
-      select: { id: true, _count: { select: { respuestas: true, repasos: true } } },
-    });
+    //
+    // OJO — LA PODA SÓLO ES VÁLIDA EN UNA CORRIDA COMPLETA. `vistos` junta los
+    // reactivos leídos EN ESTA CORRIDA, así que con `--carpeta` sólo trae los de
+    // esa carpeta: podar entonces borraría todo el resto del banco (EMM, Álgebra,
+    // Física, Zill…) por el simple hecho de no haberlo leído. Miles de reactivos.
+    // Por eso, cuando se limita la carpeta, NO se poda y se avisa.
     let borrados = 0;
     let conservadosPorReferencia = 0;
-    for (const r of restantes) {
-      if (vistos.has(r.id)) continue;
-      if (r._count.respuestas > 0 || r._count.repasos > 0) {
-        conservadosPorReferencia++;
-      } else {
-        await prisma.reactivo.delete({ where: { id: r.id } });
-        borrados++;
-      }
-    }
 
-    // Podar temas/capítulos/libros que quedaron vacíos. Nadie referencia estas
-    // tablas directamente (sólo Reactivo), así que borrar los vacíos es seguro.
-    await prisma.tema.deleteMany({ where: { reactivos: { none: {} } } });
-    await prisma.capitulo.deleteMany({ where: { temas: { none: {} } } });
-    await prisma.libro.deleteMany({ where: { capitulos: { none: {} } } });
+    if (CARPETA_UNICA) {
+      console.log(
+        `  ⚠ Importación limitada a "${CARPETA_UNICA}": NO se poda nada. Los reactivos` +
+          ' que hayas quitado de los .md siguen en la base hasta que corras el' +
+          ' importador completo (sin --carpeta).',
+      );
+    } else {
+      const restantes = await prisma.reactivo.findMany({
+        where: { banco: BANCO },
+        select: { id: true, _count: { select: { respuestas: true, repasos: true } } },
+      });
+      for (const r of restantes) {
+        if (vistos.has(r.id)) continue;
+        if (r._count.respuestas > 0 || r._count.repasos > 0) {
+          conservadosPorReferencia++;
+        } else {
+          await prisma.reactivo.delete({ where: { id: r.id } });
+          borrados++;
+        }
+      }
+
+      // Podar temas/capítulos/libros que quedaron vacíos. Nadie referencia estas
+      // tablas directamente (sólo Reactivo), así que borrar los vacíos es seguro.
+      // Va junto con la poda de arriba: sin ella no hay huérfanos que limpiar, y
+      // con --carpeta borraría los libros que esta corrida ni siquiera leyó.
+      await prisma.tema.deleteMany({ where: { reactivos: { none: {} } } });
+      await prisma.capitulo.deleteMany({ where: { temas: { none: {} } } });
+      await prisma.libro.deleteMany({ where: { capitulos: { none: {} } } });
+    }
 
     const totalTemas = await prisma.tema.count();
     const totalReact = await prisma.reactivo.count({ where: { banco: BANCO } });
