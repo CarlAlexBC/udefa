@@ -169,7 +169,18 @@ espermáticas); la observación de Susan Strome (2014) sobre la herencia de las 
 de histonas; y el arranque de la remodelación de la cromatina (los nucleosomas móviles y la
 SWI/SNF de las levaduras).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **308** (hoja 354) en adelante —las modificaciones de las histonas, el silenciamiento por ARN pequeños no codificantes, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **308**: el resto de la remodelación de la cromatina (la regulación
+del espaciamiento entre nucleosomas para compactar o abrir la cromatina, y el desmontaje y
+reconstrucción de nucleosomas durante la diferenciación o ante cambios súbitos del ambiente);
+la localización nuclear (la cromatina laxa de los períodos intermitóticos, las regiones activas
+en el centro del núcleo y las silenciosas en la periferia, y el patrón de localización propio de
+cada tipo celular); y el arranque del apartado "ARN no codificantes y su papel epigenético" (el
+gradiente del 98% al 1% del genoma que codifica proteínas de procariotas a mamíferos, las
+estructuras secundarias del ARN, la clasificación en ARN largos [ARNlnc, más de 200 nt] y
+pequeños [miARN, ARNsi, ARNpi, menos de 200 nt], los ARN circulares como familia aparte, los ARN
+reguladores que bajan la expresión y los ARN potenciadores ERNA que la aumentan).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **309** (hoja 355) en adelante —las modificaciones de las histonas, el silenciamiento por ARN pequeños no codificantes, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -3344,5 +3355,226 @@ En relación con el libro de Biología, las proteínas que coordinan la remodela
 **Subtema:** epigenética · remodelación · SWI/SNF
 
 Las proteínas que coordinan este proceso de remodelación de la cromatina fueron observadas originalmente en células de levaduras, en las que por primera vez se consideró que podían tener papeles especializados.
+
+---
+
+### 184
+
+De acuerdo con el libro de Biología, ¿qué contribuyen a regular las proteínas que intervienen en la remodelación de la cromatina?
+
+- A. El espaciamiento entre los nucleosomas
+- B. La secuencia de bases del ADN
+- C. El número de cromosomas de la célula
+- D. La cantidad de ADP-ribosa presente en el núcleo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · remodelación de la cromatina
+
+Las proteínas que intervienen en la remodelación de la cromatina contribuyen a regular el espaciamiento entre los nucleosomas.
+
+---
+
+### 185
+
+De conformidad con el libro de Biología, al desplazar los nucleosomas aproximándolos, ¿qué efecto se produce sobre la cromatina?
+
+- A. Se crean contactos entre las histonas que condensan la cromatina de manera muy compacta
+- B. Se abre la cromatina, dándole una configuración más activa
+- C. El nucleosoma se elimina por completo
+- D. Las histonas se reemplazan por protaminas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · remodelación · compactación
+
+Al desplazar los nucleosomas, aproximándolos, se crean contactos entre las histonas que condensan la cromatina de manera muy compacta, o bien espaciándolos, con lo cual crean el efecto opuesto, al abrir la cromatina, presentándola de una manera más accesible y dando lugar a una configuración más activa.
+
+---
+
+### 186
+
+En relación con el libro de Biología, el desmontaje y la reconstrucción de nucleosomas, que constituye un cambio rápido del patrón de modificación de las histonas, ocurre por ejemplo, ¿en qué situaciones?
+
+- A. Durante la diferenciación celular o en respuesta a cambios súbitos del ambiente
+- B. Únicamente durante la mitosis
+- C. Solo en las células espermáticas
+- D. Exclusivamente durante la reparación del ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · remodelación · diferenciación
+
+Este fenómeno constituye un cambio rápido del patrón de modificación de las histonas que ocurre, por ejemplo, durante la diferenciación celular o en respuesta a cambios súbitos del ambiente.
+
+---
+
+### 187
+
+De acuerdo con el libro de Biología, durante la mitosis los cromosomas adoptan una morfología muy compacta; en los períodos intermitóticos, en cambio, ¿qué formas adquiere la cromatina?
+
+- A. Formas más laxas, con una disposición tridimensional más compleja
+- B. Una morfología aún más compacta que en la mitosis
+- C. La forma de protaminas
+- D. Una estructura idéntica en todos los tipos de célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · localización nuclear
+
+En los períodos intermitóticos, en cambio, la cromatina adquiere formas más laxas, con una disposición tridimensional más compleja que involucra una ubicación específica en la topografía nuclear.
+
+---
+
+### 188
+
+De conformidad con el libro de Biología, ¿dónde se localizan las regiones activas de la cromatina frente a las regiones menos activas o silenciosas?
+
+- A. Las activas en la zona central del núcleo; las menos activas o silenciosas en zonas periféricas
+- B. Las activas en zonas periféricas; las silenciosas en la zona central
+- C. Ambas en la zona central del núcleo
+- D. Ambas adheridas a la membrana nuclear
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · localización nuclear · zonas
+
+Las regiones activas de la cromatina con marcas epigenéticas que promueven la transcripción de los genes se localizan en la zona central del núcleo, mientras que las regiones menos activas o silenciosas de la cromatina se sitúan en zonas periféricas.
+
+---
+
+### 189
+
+En relación con el libro de Biología, como cada tipo de célula terminalmente diferenciada tiene un patrón característico de localización de los genes en el núcleo, ¿qué implica esto?
+
+- A. Que ciertos genes pueden tener una ubicación particular en el núcleo de una célula muscular y otra diferente en una célula nerviosa
+- B. Que todos los genes ocupan la misma posición exacta en cualquier célula
+- C. Que la ubicación de los genes cambia al azar a cada instante
+- D. Que todos los genes se ubican siempre en la periferia del núcleo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · localización nuclear · tipo celular
+
+Cada tipo de célula terminalmente diferenciada tiene un patrón característico de localización de los genes dentro del núcleo. Esto significa que ciertos genes pueden tener una ubicación particular en el núcleo de una célula muscular y otra diferente en una célula nerviosa.
+
+---
+
+### 190
+
+De acuerdo con el libro de Biología, ¿cómo varía la proporción del genoma que codifica proteínas entre los procariotas y los mamíferos?
+
+- A. Es del 98% en procariotas y desciende hasta alrededor del 1% en mamíferos
+- B. Es del 1% en procariotas y asciende al 98% en mamíferos
+- C. Es del 50% por igual en todos los grupos
+- D. Es del 68% en mamíferos y del 17% en procariotas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · genoma no codificante
+
+En procariotas se estima que el 98% del genoma codifica proteínas, pero esta proporción desciende al 68% en levaduras, al 17% en insectos, al 2% en pollo y a alrededor del 1% en mamíferos.
+
+---
+
+### 191
+
+De conformidad con el libro de Biología, ¿cuál es el criterio de longitud que distingue a los ARN no codificantes largos de los pequeños?
+
+- A. Los largos tienen más de 200 nucleótidos y los pequeños, menos de 200 nucleótidos
+- B. Los largos tienen más de 50 nucleótidos y los pequeños, menos de 50
+- C. Los largos tienen más de 2000 nucleótidos y los pequeños, menos de 1000
+- D. Los largos tienen más de 20 nucleótidos y los pequeños, menos de 20
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · ARN no codificantes · clasificación
+
+Entre los ARN no codificantes (ARNnc), algunos son parte de la familia de los llamados ARN largos –más de 200 nucleótidos de longitud– y otros, de los ARN pequeños –menos de 200 nucleótidos–.
+
+---
+
+### 192
+
+En relación con el libro de Biología, dentro de los ARN pequeños (menos de 200 nucleótidos), ¿cuáles encontramos?
+
+- A. Los microARN (miARN), los ARN interferentes pequeños (ARNsi) y el ARN interactuante con la proteína PIWI (ARNpi)
+- B. Únicamente los ARN largos no codificantes (ARNlnc)
+- C. El ARN mensajero, el ARN de transferencia y el ARN ribosómico
+- D. Solamente los ARN circulares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · ARN pequeños
+
+Dentro del segundo grupo encontramos a los microARN (miARN), los ARN interferentes pequeños (ARNsi) y el ARN interactuante con la proteína PIWI (ARNpi).
+
+---
+
+### 193
+
+De acuerdo con el libro de Biología, ¿cómo se agrupa a los ARN circulares, estudiados muy recientemente?
+
+- A. Como una familia aparte
+- B. Dentro de los ARN largos no codificantes (ARNlnc)
+- C. Dentro de los microARN (miARN)
+- D. Como un tipo de proteína "borradora"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · ARN circulares
+
+Los ARN circulares han sido estudiados muy recientemente, y se los agrupa como una familia aparte.
+
+---
+
+### 194
+
+De conformidad con el libro de Biología, ¿en qué intervienen, por lo general, los ARN reguladores descritos?
+
+- A. En la disminución de la tasa de expresión de los genes
+- B. En el aumento de la tasa de expresión de todos los genes
+- C. En la síntesis de las proteínas ribosómicas
+- D. En la replicación del ADN mitocondrial
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · ARN reguladores
+
+Si bien los ARN reguladores descritos, por lo general intervienen en la disminución de la tasa de expresión de los genes mediante diversos procesos.
+
+---
+
+### 195
+
+En relación con el libro de Biología, ¿qué familia de ARN "relativamente pequeños" (varían entre 50 y 2000 nucleótidos) está involucrada en el aumento de la tasa de expresión de ciertos genes?
+
+- A. Los ARN potenciadores (ERNA)
+- B. Los microARN (miARN)
+- C. Los ARN interferentes pequeños (ARNsi)
+- D. Los ARN circulares
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · ARN potenciadores ERNA
+
+Investigaciones recientes han descrito una familia de ARN "relativamente pequeños" (varían entre 50 y 2000 nucleótidos) llamados ARN potenciadores (ERNA por sus siglas en inglés) que están involucrados en el aumento de la tasa de expresión de ciertos genes.
+
+---
+
+### 196
+
+De acuerdo con el libro de Biología, cuando algunas cadenas de ARN se enlazan con partes complementarias de ellas mismas, adquieren un plegado tridimensional que se conoce, ¿cómo?
+
+- A. Como estructuras secundarias
+- B. Como estructuras primarias
+- C. Como nucleosomas
+- D. Como islas CpG
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 308
+**Subtema:** epigenética · ARN · estructuras secundarias
+
+Otras pueden también enlazarse con partes complementarias de ellas mismas, adquiriendo un plegado en formas tridimensionales que se conocen como estructuras secundarias.
 
 ---
