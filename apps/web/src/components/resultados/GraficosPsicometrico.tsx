@@ -187,7 +187,7 @@ export function LineTiempos({
   const detectoFatiga = metricasTemporales.patronFatigaDetectado
 
   return (
-    <article className="rounded-xl border border-border bg-card p-5">
+    <article className="min-w-0 rounded-xl border border-border bg-card p-5">
       <div className="mb-4">
         <h3 className="text-sm font-semibold text-foreground">
           Ritmo a lo largo del examen
