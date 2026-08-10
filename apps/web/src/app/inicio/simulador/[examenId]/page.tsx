@@ -1729,7 +1729,7 @@ const INTRO_PSICO: Record<number, IntroPsico> = {
       principal: 'No hay respuestas correctas',
       sub: 'El sistema no cuenta aciertos: mide qué tan coherente eres contigo mismo a lo largo del examen.',
     },
-    pills: ['Sí', 'No'],
+    pills: ['Verdadero', 'Falso'],
     pillsNota: 'Una afirmación a la vez · sin cronómetro por pregunta',
     consejoMonote:
       'contesta lo que de verdad eres, no lo que crees que “suena bien”. Las respuestas forzadas se detectan como contradicciones.',

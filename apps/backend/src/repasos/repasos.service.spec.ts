@@ -37,17 +37,28 @@ describe('RepasosService', () => {
       reactivo: {
         findUnique: jest
           .fn()
-          .mockResolvedValue(opts.reactivo === undefined ? null : opts.reactivo),
+          .mockResolvedValue(
+            opts.reactivo === undefined ? null : opts.reactivo,
+          ),
       },
     };
-    return { svc: new RepasosService(prisma as any), prisma, update };
+    const actividad = { marcarHoy: jest.fn().mockResolvedValue(undefined) };
+    return {
+      svc: new RepasosService(prisma as any, actividad as any),
+      prisma,
+      update,
+    };
   };
 
   describe('responder', () => {
     it('acierta: sube una caja, suma racha y reprograma según la caja nueva', async () => {
       const { svc, update } = montar({
         repaso: { caja: 2, rachaAciertos: 1 },
-        reactivo: { respuestaCorrecta: 'París', explicacion: 'cap. 3', referencia: 'Pág. 40' },
+        reactivo: {
+          respuestaCorrecta: 'París',
+          explicacion: 'cap. 3',
+          referencia: 'Pág. 40',
+        },
       });
 
       const out = await svc.responder(7, 55, 'París');
@@ -123,7 +134,10 @@ describe('RepasosService', () => {
         },
       ]);
       const prisma = { repasoReactivo: { findMany } };
-      const svc = new RepasosService(prisma as any);
+      const svc = new RepasosService(
+        prisma as any,
+        { marcarHoy: jest.fn() } as any,
+      );
 
       const out = await svc.pendientes(7);
 
@@ -134,7 +148,11 @@ describe('RepasosService', () => {
 
       expect(out).toHaveLength(1);
       const item = out[0];
-      expect(item).toMatchObject({ reactivoId: 55, caja: 2, tema: 'geografía' });
+      expect(item).toMatchObject({
+        reactivoId: 55,
+        caja: 2,
+        tema: 'geografía',
+      });
       // La respuesta no viaja en la cola.
       expect(item).not.toHaveProperty('respuestaCorrecta');
       expect(item).not.toHaveProperty('explicacion');
@@ -165,7 +183,11 @@ describe('RepasosService', () => {
         },
         repasoReactivo: { createMany },
       };
-      return { svc: new RepasosService(prisma as any), createMany };
+      const actividad = { marcarHoy: jest.fn().mockResolvedValue(undefined) };
+      return {
+        svc: new RepasosService(prisma as any, actividad as any),
+        createMany,
+      };
     };
 
     it('clasifica "lento" por el tiempo de cada reactivo, no por el acumulado', async () => {
@@ -214,7 +236,10 @@ describe('RepasosService', () => {
         },
         repasoReactivo: { createMany },
       };
-      const svc = new RepasosService(prisma as any);
+      const svc = new RepasosService(
+        prisma as any,
+        { marcarHoy: jest.fn() } as any,
+      );
 
       const out = await svc.sembrarDesdeIntento(2, 7);
 

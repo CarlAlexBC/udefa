@@ -74,11 +74,7 @@ export class IntentosController {
     @UsuarioActual() usuario: UsuarioAutenticado,
     @Body() datos: { estado: 'COMPLETADA' | 'TIEMPO_AGOTADO' | 'ABANDONADA' },
   ) {
-    return this.intentosService.finalizar(
-      Number(id),
-      usuario.id,
-      datos.estado,
-    );
+    return this.intentosService.finalizar(Number(id), usuario.id, datos.estado);
   }
 
   @Get(':id/resultados')

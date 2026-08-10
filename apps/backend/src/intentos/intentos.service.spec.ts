@@ -12,7 +12,7 @@ import { IntentosService } from './intentos.service';
  * e1#73 es POSITIVA y no es crítico (es el factor protector).
  */
 describe('IntentosService · detectarSenalesCriticas', () => {
-  const svc = new IntentosService({} as any, {} as any, {} as any);
+  const svc = new IntentosService({} as any, {} as any, {} as any, {} as any);
 
   const detectar = (respuestas: any[], tipo = 'personalidad') =>
     (svc as any).detectarSenalesCriticas(respuestas, tipo);
@@ -110,7 +110,9 @@ describe('IntentosService · detectarSenalesCriticas', () => {
     expect(detectar([resp(10, 88, 'No', critico)]).hallazgosPorTema).toEqual({
       disciplina: 1,
     });
-    expect(detectar([resp(10, 88, 'Sí', critico)]).hallazgosPorTema).toEqual({});
+    expect(detectar([resp(10, 88, 'Sí', critico)]).hallazgosPorTema).toEqual(
+      {},
+    );
   });
 
   it('acepta "si" sin acento e ignora respuestas en blanco', () => {
@@ -142,10 +144,14 @@ describe('IntentosService · detectarSenalesCriticas', () => {
 
   it('v3: lee el riesgo por polaridad en V/F (e10#88 POSITIVA → riesgo = Falso)', () => {
     const critico = { polaridad: 'POSITIVA', tema: 'disciplina' };
-    expect(detectar([resp(10, 88, 'Falso', critico)]).hallazgosPorTema).toEqual({
-      disciplina: 1,
-    });
-    expect(detectar([resp(10, 88, 'Verdadero', critico)]).hallazgosPorTema).toEqual({});
+    expect(detectar([resp(10, 88, 'Falso', critico)]).hallazgosPorTema).toEqual(
+      {
+        disciplina: 1,
+      },
+    );
+    expect(
+      detectar([resp(10, 88, 'Verdadero', critico)]).hallazgosPorTema,
+    ).toEqual({});
   });
 
   // --- Máxima severidad del eje 1 (sub-lote 8) · eje 3 fuera del protocolo ---

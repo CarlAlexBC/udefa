@@ -108,6 +108,28 @@ export class UsuariosService {
   }
 
   /**
+   * Igual que `activar`, pero además dice si ESTA llamada fue la que pasó la
+   * cuenta de PENDIENTE a ACTIVA. Sirve para mandar el correo de "compra
+   * confirmada" UNA sola vez: el webhook de Mercado Pago reintenta el aviso, y
+   * sin esto se mandarían correos duplicados en cada reintento.
+   * Devuelve también el contacto (correo + nombre) para el correo.
+   */
+  async activarParaCompra(
+    usuarioId: number,
+  ): Promise<{ email: string; nombre: string; recienActivada: boolean }> {
+    const antes = await this.prisma.usuario.findUnique({
+      where: { id: usuarioId },
+    });
+    const recienActivada =
+      ((antes as { estado?: string } | null)?.estado ?? 'ACTIVA') !== 'ACTIVA';
+    const usuario = await this.prisma.usuario.update({
+      where: { id: usuarioId },
+      data: { estado: 'ACTIVA' } as unknown as Prisma.UsuarioUpdateInput,
+    });
+    return { email: usuario.email, nombre: usuario.nombre, recienActivada };
+  }
+
+  /**
    * Cambia (o asigna por primera vez) el plantel del usuario dado.
    * Valida que el plantel existe. No requiere que el usuario tenga plantel previo.
    */
@@ -135,11 +157,13 @@ export class UsuariosService {
    * Lista paginada de usuarios con su plantel y contador de sesiones.
    * Busca opcionalmente por email o nombre (ilike). Ordenado por más recientes.
    */
-  async listarParaAdmin(opciones: {
-    take?: number;
-    skip?: number;
-    search?: string;
-  } = {}) {
+  async listarParaAdmin(
+    opciones: {
+      take?: number;
+      skip?: number;
+      search?: string;
+    } = {},
+  ) {
     const TAKE_DEFAULT = 50;
     const TAKE_MAX = 200;
     const take = Math.min(opciones.take ?? TAKE_DEFAULT, TAKE_MAX);
@@ -148,8 +172,18 @@ export class UsuariosService {
     const where = opciones.search
       ? {
           OR: [
-            { email: { contains: opciones.search, mode: 'insensitive' as const } },
-            { nombre: { contains: opciones.search, mode: 'insensitive' as const } },
+            {
+              email: {
+                contains: opciones.search,
+                mode: 'insensitive' as const,
+              },
+            },
+            {
+              nombre: {
+                contains: opciones.search,
+                mode: 'insensitive' as const,
+              },
+            },
           ],
         }
       : {};
@@ -218,7 +252,7 @@ export class UsuariosService {
       where: { id: objetivoUsuarioId },
       // Cast defensivo: el cliente Prisma aún puede no reflejar `rol` hasta
       // que se corra prisma generate. En runtime la columna existe.
-      data: { rol: nuevoRol } as unknown as { rol: string },
+      data: { rol: nuevoRol },
       select: {
         id: true,
         nombre: true,
@@ -233,10 +267,7 @@ export class UsuariosService {
    * Cambia el plantel de otro usuario (versión admin de `asignarPlantel`).
    * Reutiliza la misma validación de existencia del plantel.
    */
-  async cambiarPlantelDeUsuario(
-    objetivoUsuarioId: number,
-    plantelId: number,
-  ) {
+  async cambiarPlantelDeUsuario(objetivoUsuarioId: number, plantelId: number) {
     const existe = await this.prisma.usuario.findUnique({
       where: { id: objetivoUsuarioId },
       select: { id: true },

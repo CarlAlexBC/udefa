@@ -11,14 +11,11 @@ import {
   BookOpen,
   CheckCircle2,
   ChevronRight,
-  Clock,
-  EyeOff,
   Loader2,
   Sparkles,
   Sprout,
   TrendingDown,
   TrendingUp,
-  XCircle,
 } from 'lucide-react'
 import {
   type GuiaLink,
@@ -960,50 +957,6 @@ function RenglonesTemas({ temas }: { temas: PorTema[] }) {
 function capitalizar(texto: string): string {
   if (!texto) return texto
   return texto.charAt(0).toUpperCase() + texto.slice(1)
-}
-
-function BloqueRow({ bloque }: { bloque: PorBloque }) {
-  const pct = bloque.porcentaje ?? 0
-  const rojo = pct < 50
-  return (
-    <div>
-      <div className="mb-1 flex items-center justify-between text-xs">
-        <span
-          className={cn(
-            'font-medium',
-            rojo ? 'text-destructive' : 'text-foreground',
-          )}
-        >
-          {bloque.nombre}
-        </span>
-        <span className={cn(rojo ? 'text-destructive font-semibold' : 'text-muted-foreground')}>
-          {bloque.aciertos !== null
-            ? `${bloque.aciertos}/${bloque.respondidos}`
-            : `${bloque.respondidos} respondidos`}
-        </span>
-      </div>
-      <div className="h-2 overflow-hidden rounded-full bg-muted">
-        <div
-          className={cn('h-full rounded-full', rojo ? 'bg-destructive' : 'bg-accent')}
-          style={{ width: `${pct}%` }}
-        />
-      </div>
-    </div>
-  )
-}
-
-function TemaCard({ tema }: { tema: PorTema }) {
-  const pct = tema.porcentaje ?? 0
-  const color =
-    pct >= 80 ? 'text-military' : pct >= 60 ? 'text-accent' : 'text-destructive'
-  return (
-    <div className="rounded-lg bg-muted p-3 text-center">
-      <p className={cn('text-xl font-semibold', color)}>{pct}%</p>
-      <p className="mt-1 text-[10px] uppercase tracking-widest text-muted-foreground">
-        {tema.tema}
-      </p>
-    </div>
-  )
 }
 
 function TendenciaBadge({ tendencia }: { tendencia: MetricasTemporales['tendencia'] }) {

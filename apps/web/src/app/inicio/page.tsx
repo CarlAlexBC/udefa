@@ -7,6 +7,8 @@ import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
 import { Button, buttonVariants } from '@/components/ui/button'
 import { HeaderPrivado } from './HeaderPrivado'
+import { EmpiezaPorAqui } from '@/components/onboarding/EmpiezaPorAqui'
+import { RachaCard } from '@/components/racha/RachaCard'
 import { logoDePlantel } from '@/lib/planteles'
 import { MATERIAS_CULTURAL_POR_PLANTEL, unirMaterias } from '@/lib/instrucciones-bloques'
 import {
@@ -20,6 +22,7 @@ import {
   Repeat,
   Scale,
   Star,
+  TrendingUp,
   UserCircle,
 } from 'lucide-react'
 
@@ -182,6 +185,19 @@ function Dashboard({
   // Antes estaban escritas a mano las del HCM para todos.
   const materiasCultural = MATERIAS_CULTURAL_POR_PLANTEL[plantel.nombre] ?? []
 
+  // Paso 2 del onboarding: la práctica cultural si el plantel la tiene y está
+  // desbloqueada; si no, el examen psicométrico; y si todo está bajo candado,
+  // a precios (no puede practicar sin comprar).
+  const hrefPaso2 =
+    examenCultural && !bloqueadoCultural
+      ? '/inicio/practica-cultural'
+      : !bloqueadoPsico
+        ? '/inicio/simulador/1'
+        : '/precios'
+
+  // Paso 3 del onboarding: ver su avance por tema.
+  const hrefPaso3 = '/inicio/avance'
+
   return (
     <main className="mx-auto max-w-5xl px-6 py-12">
       {/* Saludo personalizado */}
@@ -197,12 +213,40 @@ function Dashboard({
         </p>
       </div>
 
+      {/* Empieza por aquí — la ruta de primeros pasos; sólo la ve el aspirante
+          nuevo (sin exámenes hechos todavía). */}
+      <EmpiezaPorAqui hrefPaso2={hrefPaso2} hrefPaso3={hrefPaso3} />
+
+      {/* Racha de días (hábito). Se auto-oculta si el aspirante nunca ha estudiado. */}
+      <RachaCard />
+
       {/* Card del plantel — con logo oficial */}
       <PlantelHeroCard plantel={plantel} />
 
       {/* Repaso espaciado — la "capa verde". Sólo aparece si el aspirante ya
           tiene cola sembrada (hizo al menos un simulacro cultural). */}
       <RepasoHoyCard />
+
+      {/* Tu avance por tema (semáforo). Siempre disponible; la pantalla resuelve
+          el caso de "todavía sin datos". */}
+      <Link
+        href="/inicio/avance"
+        className="group mb-8 flex items-center gap-4 rounded-xl border border-border bg-card p-5 shadow-sm transition-colors hover:border-accent"
+      >
+        <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-military/10">
+          <TrendingUp className="h-5 w-5 text-military" />
+        </div>
+        <div className="flex-1">
+          <p className="text-[10px] font-bold uppercase tracking-widest text-military">
+            Tu avance
+          </p>
+          <p className="mt-0.5 font-semibold text-foreground">Mira cómo vas por tema</p>
+          <p className="mt-0.5 text-xs text-muted-foreground">
+            Tus materias con semáforo: qué dominas y qué reforzar.
+          </p>
+        </div>
+        <ArrowRight className="hidden h-5 w-5 shrink-0 text-accent transition-transform group-hover:translate-x-1 md:block" />
+      </Link>
 
       {/* CTAs principales: los dos exámenes simuladores completos.
           Son dos pruebas distintas del proceso de admisión y se presentan por

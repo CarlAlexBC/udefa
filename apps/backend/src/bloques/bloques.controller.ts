@@ -21,8 +21,21 @@ export class BloquesController {
 
   @Post()
   @Roles('admin')
-  crear(@Body() datos: { examenId: number; nombre: string; orden: number; tiempoLimite: number }) {
-    return this.bloquesService.crear(datos.examenId, datos.nombre, datos.orden, datos.tiempoLimite);
+  crear(
+    @Body()
+    datos: {
+      examenId: number;
+      nombre: string;
+      orden: number;
+      tiempoLimite: number;
+    },
+  ) {
+    return this.bloquesService.crear(
+      datos.examenId,
+      datos.nombre,
+      datos.orden,
+      datos.tiempoLimite,
+    );
   }
 
   @Get()

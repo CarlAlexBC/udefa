@@ -62,16 +62,18 @@ export class ReactivosService {
     });
   }
 
-  async obtenerTodos(opciones: {
-    take?: number;
-    skip?: number;
-    bloqueId?: number;
-    examenId?: number;
-    tema?: string;
-    polaridad?: 'POSITIVA' | 'NEGATIVA';
-    search?: string;
-    banco?: string;
-  } = {}) {
+  async obtenerTodos(
+    opciones: {
+      take?: number;
+      skip?: number;
+      bloqueId?: number;
+      examenId?: number;
+      tema?: string;
+      polaridad?: 'POSITIVA' | 'NEGATIVA';
+      search?: string;
+      banco?: string;
+    } = {},
+  ) {
     // Paginacion: default 50, tope 200 para evitar descargas masivas.
     const TAKE_DEFAULT = 50;
     const TAKE_MAX = 200;
@@ -148,9 +150,7 @@ export class ReactivosService {
       distinct: ['tema'],
       orderBy: { tema: 'asc' },
     });
-    return registros
-      .map((r) => r.tema)
-      .filter((t): t is string => t !== null);
+    return registros.map((r) => r.tema).filter((t): t is string => t !== null);
   }
 
   /**
@@ -187,5 +187,4 @@ export class ReactivosService {
       data: reactivos,
     });
   }
-
 }

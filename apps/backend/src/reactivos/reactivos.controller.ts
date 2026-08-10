@@ -28,7 +28,19 @@ export class ReactivosController {
   constructor(private reactivosService: ReactivosService) {}
 
   @Post()
-  crear(@Body() datos: { bloqueId: number; enunciado: string; opciones: any; tipo: string; respuestaCorrecta?: string; explicacion?: string; tema?: string; imagenUrl?: string }) {
+  crear(
+    @Body()
+    datos: {
+      bloqueId: number;
+      enunciado: string;
+      opciones: any;
+      tipo: string;
+      respuestaCorrecta?: string;
+      explicacion?: string;
+      tema?: string;
+      imagenUrl?: string;
+    },
+  ) {
     return this.reactivosService.crear(
       datos.bloqueId,
       datos.enunciado,

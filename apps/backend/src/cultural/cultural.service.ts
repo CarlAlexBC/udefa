@@ -129,7 +129,10 @@ export class CulturalService {
       .slice(0, TOP_N);
 
     // Rollup por materia y por tema.
-    const materiaAcc = new Map<string, { total: number; incorrectas: number }>();
+    const materiaAcc = new Map<
+      string,
+      { total: number; incorrectas: number }
+    >();
     const temaAcc = new Map<string, { total: number; incorrectas: number }>();
     for (const s of statsPorReactivo) {
       const m = meta.get(s.reactivoId);
@@ -169,7 +172,10 @@ export class CulturalService {
       .slice(0, TOP_N); // hay ~1372 temas; solo los 20 peores
 
     return {
-      totalRespuestasCalificadas: statsPorReactivo.reduce((a, s) => a + s.total, 0),
+      totalRespuestasCalificadas: statsPorReactivo.reduce(
+        (a, s) => a + s.total,
+        0,
+      ),
       reactivosMasFallados,
       erroresPorMateria,
       erroresPorTema,

@@ -1,10 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
-import {
-  BANCOS_ARCHIVADOS,
-  BANCOS_EN_USO,
-} from '../examenes/examenes.service';
+import { BANCOS_ARCHIVADOS, BANCOS_EN_USO } from '../examenes/examenes.service';
 
 /**
  * Métricas agregadas para el dashboard del admin panel.
@@ -39,7 +36,9 @@ export class AdminService {
       this.prisma.usuario.count(),
       // Activos = usuarios con al menos una sesión creada en los últimos 30 días.
       this.prisma.usuario.count({
-        where: { sesionesCompletas: { some: { createdAt: { gte: hace30Dias } } } },
+        where: {
+          sesionesCompletas: { some: { createdAt: { gte: hace30Dias } } },
+        },
       }),
       this.prisma.sesionExamenCompleto.count(),
       this.prisma.sesionExamenCompleto.count({
@@ -106,7 +105,7 @@ export class AdminService {
       plantelId: d.plantelId,
       plantelNombre:
         d.plantelId !== null
-          ? nombrePorId.get(d.plantelId) ?? `Plantel ${d.plantelId}`
+          ? (nombrePorId.get(d.plantelId) ?? `Plantel ${d.plantelId}`)
           : 'Sin plantel',
       usuarios: d._count._all,
     }));
@@ -264,7 +263,10 @@ export class AdminService {
         nombre: v.nombre,
         total: v.total,
         incorrectas: v.incorrectas,
-        tasaError: v.total > 0 ? Number(((v.incorrectas / v.total) * 100).toFixed(1)) : 0,
+        tasaError:
+          v.total > 0
+            ? Number(((v.incorrectas / v.total) * 100).toFixed(1))
+            : 0,
       }))
       .sort((a, b) => b.tasaError - a.tasaError);
 
@@ -273,7 +275,10 @@ export class AdminService {
         tema,
         total: v.total,
         incorrectas: v.incorrectas,
-        tasaError: v.total > 0 ? Number(((v.incorrectas / v.total) * 100).toFixed(1)) : 0,
+        tasaError:
+          v.total > 0
+            ? Number(((v.incorrectas / v.total) * 100).toFixed(1))
+            : 0,
       }))
       .sort((a, b) => b.tasaError - a.tasaError);
 
@@ -424,26 +429,28 @@ export class AdminService {
       _count: { _all: true },
     });
 
-    return filas
-      .map((f) => ({
-        banco: f.banco,
-        reactivos: f._count._all,
-        enUso: Boolean(BANCOS_EN_USO[f.banco]),
-        // A qué examen alimenta, o null si no se está usando.
-        sirve: BANCOS_EN_USO[f.banco] ?? null,
-        // Retirado a propósito: sigue guardado entero, pero ya no vuelve.
-        archivado: Boolean(BANCOS_ARCHIVADOS[f.banco]),
-        // Por qué se retiró (o null si no está archivado).
-        nota: BANCOS_ARCHIVADOS[f.banco] ?? null,
-      }))
-      // Primero los vivos; los archivados hasta el final. Dentro de cada grupo,
-      // de más a menos reactivos.
-      .sort(
-        (a, b) =>
-          Number(b.enUso) - Number(a.enUso) ||
-          Number(a.archivado) - Number(b.archivado) ||
-          b.reactivos - a.reactivos,
-      );
+    return (
+      filas
+        .map((f) => ({
+          banco: f.banco,
+          reactivos: f._count._all,
+          enUso: Boolean(BANCOS_EN_USO[f.banco]),
+          // A qué examen alimenta, o null si no se está usando.
+          sirve: BANCOS_EN_USO[f.banco] ?? null,
+          // Retirado a propósito: sigue guardado entero, pero ya no vuelve.
+          archivado: Boolean(BANCOS_ARCHIVADOS[f.banco]),
+          // Por qué se retiró (o null si no está archivado).
+          nota: BANCOS_ARCHIVADOS[f.banco] ?? null,
+        }))
+        // Primero los vivos; los archivados hasta el final. Dentro de cada grupo,
+        // de más a menos reactivos.
+        .sort(
+          (a, b) =>
+            Number(b.enUso) - Number(a.enUso) ||
+            Number(a.archivado) - Number(b.archivado) ||
+            b.reactivos - a.reactivos,
+        )
+    );
   }
 
   /**

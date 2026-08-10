@@ -49,7 +49,9 @@ export class TemariosService {
       select: { id: true },
     });
     if (!materia) {
-      throw new NotFoundException(`No existe la materia de temario ${materiaId}.`);
+      throw new NotFoundException(
+        `No existe la materia de temario ${materiaId}.`,
+      );
     }
     return this.prisma.materiaTemario.update({
       where: { id: materiaId },

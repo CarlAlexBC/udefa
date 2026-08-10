@@ -14,7 +14,7 @@ import { ExamenesService } from './examenes.service';
  * puede instanciar sin dependencias reales.
  */
 describe('ExamenesService · muestreo por unidades', () => {
-  const svc = new ExamenesService({} as any, {} as any);
+  const svc = new ExamenesService({} as any, {} as any, {} as any);
 
   const agrupar = (reactivos: any[]) =>
     (svc as any).agruparEnUnidades(reactivos);

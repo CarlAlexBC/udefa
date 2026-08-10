@@ -5,7 +5,12 @@ import { PrismaService } from '../prisma/prisma.service';
 export class BloquesService {
   constructor(private prisma: PrismaService) {}
 
-  async crear(examenId: number, nombre: string, orden: number, tiempoLimite: number) {
+  async crear(
+    examenId: number,
+    nombre: string,
+    orden: number,
+    tiempoLimite: number,
+  ) {
     return this.prisma.bloque.create({
       data: {
         examenId,

@@ -77,7 +77,9 @@ export class MuestraService {
       where: { id: { in: ids } },
       select: { id: true, respuestaCorrecta: true, temaId: true },
     });
-    const correctaPorId = new Map(reactivos.map((r) => [r.id, r.respuestaCorrecta]));
+    const correctaPorId = new Map(
+      reactivos.map((r) => [r.id, r.respuestaCorrecta]),
+    );
     const moduloPorId = new Map(
       reactivos.map(
         (r) => [r.id, r.temaId != null ? 'cultural' : 'psicologico'] as const,

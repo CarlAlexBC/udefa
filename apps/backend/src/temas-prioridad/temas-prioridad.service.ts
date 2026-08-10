@@ -1,4 +1,8 @@
-import { Injectable, NotFoundException, BadRequestException } from '@nestjs/common';
+import {
+  Injectable,
+  NotFoundException,
+  BadRequestException,
+} from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 
 @Injectable()
@@ -36,7 +40,11 @@ export class TemasPrioridadService {
    */
   async actualizar(
     tema: string,
-    datos: { peso?: number; descripcion?: string | null; motivoContextual?: string | null },
+    datos: {
+      peso?: number;
+      descripcion?: string | null;
+      motivoContextual?: string | null;
+    },
   ) {
     if (datos.peso !== undefined && (datos.peso < 1 || datos.peso > 10)) {
       throw new BadRequestException('El peso debe estar entre 1 y 10');
@@ -48,7 +56,9 @@ export class TemasPrioridadService {
       where: { tema },
       update: {
         ...(datos.peso !== undefined && { peso: datos.peso }),
-        ...(datos.descripcion !== undefined && { descripcion: datos.descripcion }),
+        ...(datos.descripcion !== undefined && {
+          descripcion: datos.descripcion,
+        }),
         ...(datos.motivoContextual !== undefined && {
           motivoContextual: datos.motivoContextual,
         }),
@@ -71,7 +81,9 @@ export class TemasPrioridadService {
       where: { tema },
     });
     if (!registro) {
-      throw new NotFoundException(`Tema "${tema}" no encontrado en el catálogo de prioridades`);
+      throw new NotFoundException(
+        `Tema "${tema}" no encontrado en el catálogo de prioridades`,
+      );
     }
     return registro;
   }

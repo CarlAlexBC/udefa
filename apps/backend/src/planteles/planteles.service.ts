@@ -18,13 +18,13 @@ export class PlantelesService {
     return this.prisma.plantel.findMany();
   }
 
-  async borrar(id:number) {
+  async borrar(id: number) {
     return this.prisma.plantel.delete({
-      where: {id}
+      where: { id },
     });
   }
 
-async actualizar(id: number, nombre: string, descripcion?: string) {
+  async actualizar(id: number, nombre: string, descripcion?: string) {
     return this.prisma.plantel.update({
       where: { id },
       data: {
@@ -32,4 +32,5 @@ async actualizar(id: number, nombre: string, descripcion?: string) {
         descripcion,
       },
     });
-  }}
+  }
+}

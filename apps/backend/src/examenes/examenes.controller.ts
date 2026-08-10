@@ -28,8 +28,21 @@ export class ExamenesController {
 
   @Post()
   @Roles('admin')
-  crear(@Body() datos: { tipo: string; nombre: string; duracionMin: number; calificable: boolean }) {
-    return this.examenesService.crear(datos.tipo, datos.nombre, datos.duracionMin, datos.calificable);
+  crear(
+    @Body()
+    datos: {
+      tipo: string;
+      nombre: string;
+      duracionMin: number;
+      calificable: boolean;
+    },
+  ) {
+    return this.examenesService.crear(
+      datos.tipo,
+      datos.nombre,
+      datos.duracionMin,
+      datos.calificable,
+    );
   }
 
   @Get()
@@ -127,9 +140,21 @@ export class ExamenesController {
   @Roles('admin')
   actualizar(
     @Param('id') id: string,
-    @Body() datos: { tipo: string; nombre: string; duracionMin: number; calificable: boolean },
+    @Body()
+    datos: {
+      tipo: string;
+      nombre: string;
+      duracionMin: number;
+      calificable: boolean;
+    },
   ) {
-    return this.examenesService.actualizar(Number(id), datos.tipo, datos.nombre, datos.duracionMin, datos.calificable);
+    return this.examenesService.actualizar(
+      Number(id),
+      datos.tipo,
+      datos.nombre,
+      datos.duracionMin,
+      datos.calificable,
+    );
   }
 
   @Delete(':id')

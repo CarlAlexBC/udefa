@@ -42,6 +42,9 @@ type Reactivo = {
   parNumero: number | null
   tipoTrampa: 'L' | 'K' | 'F' | 'CROSS' | null
   esCritico: boolean
+  // Vínculo militar 🎖: ahora es un campo (antes se leía del enunciado, pero el 🎖
+  // se sacó del texto para que el aspirante no lo vea).
+  militar: boolean
   subnota: string | null
   marco: string | null
   banco: string | null
@@ -506,7 +509,7 @@ function ListaReactivosEditable({
 
   // Señales v3 (banco vivo). Las stats se sacan del set cargado completo; el
   // filtro de señal esconde filas sin reconsultar.
-  const esMilitar = (r: Reactivo) => r.enunciado.includes('🎖')
+  const esMilitar = (r: Reactivo) => r.militar
   const stats = {
     total: reactivos.length,
     emparejados: reactivos.filter((r) => r.parNumero !== null).length,
@@ -909,7 +912,7 @@ function Chip({
 }
 
 function ChipsReactivo({ r }: { r: Reactivo }) {
-  const esMilitar = r.enunciado.includes('🎖')
+  const esMilitar = r.militar
   const chips: React.ReactNode[] = []
   if (r.eje !== null && r.numeroEnEje !== null)
     chips.push(

@@ -66,9 +66,7 @@ export class SesionesCompletasService {
 
     // Business rule: no se puede marcar COMPLETADA si hay intentos en curso.
     if (estado === 'COMPLETADA') {
-      const enCurso = sesion.intentos.filter(
-        (i) => i.estado === 'EN_PROGRESO',
-      );
+      const enCurso = sesion.intentos.filter((i) => i.estado === 'EN_PROGRESO');
       if (enCurso.length > 0) {
         throw new BadRequestException(
           `No se puede completar la sesión: hay ${enCurso.length} intento(s) aún en progreso`,
@@ -110,9 +108,8 @@ export class SesionesCompletasService {
     // Análisis cross-examen: distancia Personalidad ↔ Axiológico.
     // Compara la coherencia del perfil declarado en personalidad contra
     // el perfil aceptado en axiológico dentro del tema común "valores_militares".
-    const distanciaCrossExamen = this.calcularDistanciaCrossExamen(
-      resultadosPorIntento,
-    );
+    const distanciaCrossExamen =
+      this.calcularDistanciaCrossExamen(resultadosPorIntento);
 
     return {
       sesionId: sesion.id,
@@ -143,11 +140,11 @@ export class SesionesCompletasService {
       };
     }>,
   ) {
-    const personalidad = intentos.find(
-      (i) => i.examen.nombre.toLowerCase().includes('personalidad'),
+    const personalidad = intentos.find((i) =>
+      i.examen.nombre.toLowerCase().includes('personalidad'),
     );
-    const axiologico = intentos.find(
-      (i) => i.examen.nombre.toLowerCase().includes('axiológico'),
+    const axiologico = intentos.find((i) =>
+      i.examen.nombre.toLowerCase().includes('axiológico'),
     );
 
     if (
@@ -179,9 +176,7 @@ export class SesionesCompletasService {
     );
 
     // Distancia absoluta entre ambos scores (0 = coherencia perfecta, 100 = máxima divergencia)
-    const distancia = Math.abs(
-      puntajePersonalidadNorm - puntajeAxiologicoNorm,
-    );
+    const distancia = Math.abs(puntajePersonalidadNorm - puntajeAxiologicoNorm);
 
     let interpretacion: 'coherente' | 'aceptable' | 'divergente';
     const UMBRAL_COHERENTE = 15;
@@ -208,7 +203,13 @@ export class SesionesCompletasService {
       include: {
         plantel: { select: { id: true, nombre: true } },
         intentos: {
-          select: { id: true, examenId: true, estado: true, inicioAt: true, finAt: true },
+          select: {
+            id: true,
+            examenId: true,
+            estado: true,
+            inicioAt: true,
+            finAt: true,
+          },
           orderBy: { inicioAt: 'asc' },
         },
       },

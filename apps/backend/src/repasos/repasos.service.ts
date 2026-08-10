@@ -1,5 +1,6 @@
 import { Injectable, NotFoundException } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
+import { ActividadService } from '../actividad/actividad.service';
 
 /**
  * Repaso espaciado — la "capa verde".
@@ -10,7 +11,10 @@ import { PrismaService } from '../prisma/prisma.service';
  */
 @Injectable()
 export class RepasosService {
-  constructor(private prisma: PrismaService) {}
+  constructor(
+    private prisma: PrismaService,
+    private actividad: ActividadService,
+  ) {}
 
   /**
    * Intervalos de Leitner en días, por caja. Índice = caja − 1.
@@ -81,8 +85,10 @@ export class RepasosService {
       .map(({ respuesta: r, tiempoDeltaMs }) => {
         const lento = tiempoDeltaMs > medianaMs;
         let caja: number | null;
-        if (r.esCorrecta === false) caja = 1; // confundido o sin ver
-        else if (r.esCorrecta === true && lento) caja = 2; // frágil
+        if (r.esCorrecta === false)
+          caja = 1; // confundido o sin ver
+        else if (r.esCorrecta === true && lento)
+          caja = 2; // frágil
         else caja = null; // dominado → fuera de la cola
         return caja === null
           ? null
@@ -216,6 +222,9 @@ export class RepasosService {
       where: clave,
       data: { caja, rachaAciertos, proximoRepaso, ultimoVistoAt: ahora },
     });
+
+    // Prende la racha del día. Nunca debe tumbar la corrección si falla.
+    await this.actividad.marcarHoy(usuarioId).catch(() => undefined);
 
     return {
       esCorrecta,

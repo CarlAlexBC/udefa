@@ -81,4 +81,47 @@ export class MailService {
       html,
     });
   }
+
+  /**
+   * Confirmación de compra: junta el recibo (qué compró, cuánto, vigencia) y el
+   * aviso de que su acceso ya está listo, con un botón para entrar. Es UN solo
+   * correo porque ambas cosas pasan en el mismo momento (pago aprobado → acceso
+   * otorgado); dos correos a la vez serían spam.
+   */
+  async enviarCompraConfirmada(opts: {
+    to: string;
+    nombre: string;
+    paqueteTitulo: string;
+    precio: number;
+    ciclo: string;
+  }) {
+    const entrar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/login`;
+    const precioTxt = `$${opts.precio.toLocaleString('es-MX')} MXN`;
+    const html = `
+    <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
+      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px;">El Monote te Guía</h1>
+      <p style="font-size:15px; line-height:1.6; margin:0 0 8px;">
+        ¡Gracias por tu compra, ${opts.nombre}! Tu acceso ya está listo.
+      </p>
+      <div style="border:1px solid #3D3A34; border-radius:8px; padding:16px; margin:20px 0;">
+        <p style="font-size:12px; color:#9A9382; text-transform:uppercase; letter-spacing:1px; margin:0 0 8px;">Recibo</p>
+        <p style="font-size:15px; margin:0 0 4px;"><strong>${opts.paqueteTitulo}</strong></p>
+        <p style="font-size:15px; margin:0 0 4px;">${precioTxt}</p>
+        <p style="font-size:13px; color:#9A9382; margin:0;">Acceso para la convocatoria ${opts.ciclo}.</p>
+      </div>
+      <p style="margin:24px 0;">
+        <a href="${entrar}" style="background:#C99A3B; color:#161513; text-decoration:none; font-weight:bold; padding:12px 20px; border-radius:8px; display:inline-block;">
+          Entrar a mi cuenta
+        </a>
+      </p>
+      <p style="font-size:13px; color:#9A9382; line-height:1.6; margin:0;">
+        Inicia sesión con el correo y la contraseña que registraste al comprar.
+      </p>
+    </div>`;
+    return this.enviar({
+      to: opts.to,
+      subject: `Compra confirmada: ${opts.paqueteTitulo} — El Monote te Guía`,
+      html,
+    });
+  }
 }

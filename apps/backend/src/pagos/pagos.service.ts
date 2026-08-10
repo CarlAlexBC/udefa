@@ -7,6 +7,7 @@ import {
 import { MercadoPagoConfig, Preference, Payment } from 'mercadopago';
 import { AccesoService } from '../acceso/acceso.service';
 import { UsuariosService } from '../usuarios/usuarios.service';
+import { MailService } from '../mail/mail.service';
 
 /** Convocatoria vigente y hasta cuándo dura el acceso comprado. Ajustable. */
 const CICLO = '2027';
@@ -16,9 +17,20 @@ const FIN_CONVOCATORIA = new Date('2027-06-30T23:59:59');
 type Paquete = 'cultural' | 'psicologico' | 'completa';
 
 /** Qué vende cada paquete: título, precio (MXN) y qué módulos desbloquea. */
-const PAQUETES: Record<Paquete, { titulo: string; precio: number; modulos: string[] }> = {
-  cultural: { titulo: 'Preparación Cultural', precio: 999, modulos: ['cultural'] },
-  psicologico: { titulo: 'Preparación Psicológica', precio: 1999, modulos: ['psicologico'] },
+const PAQUETES: Record<
+  Paquete,
+  { titulo: string; precio: number; modulos: string[] }
+> = {
+  cultural: {
+    titulo: 'Preparación Cultural',
+    precio: 999,
+    modulos: ['cultural'],
+  },
+  psicologico: {
+    titulo: 'Preparación Psicológica',
+    precio: 1999,
+    modulos: ['psicologico'],
+  },
   completa: {
     titulo: 'Preparación Completa',
     precio: 2500,
@@ -36,6 +48,7 @@ export class PagosService {
   constructor(
     private acceso: AccesoService,
     private usuarios: UsuariosService,
+    private mail: MailService,
   ) {}
 
   private frontendUrl(): string {
@@ -79,7 +92,11 @@ export class PagosService {
               currency_id: 'MXN',
             },
           ],
-          external_reference: JSON.stringify({ usuarioId, paquete, ciclo: CICLO }),
+          external_reference: JSON.stringify({
+            usuarioId,
+            paquete,
+            ciclo: CICLO,
+          }),
           back_urls: {
             success: `${front}/pago/exito`,
             failure: `${front}/pago/error`,
@@ -94,7 +111,10 @@ export class PagosService {
       });
       return { preferenceId: res.id, initPoint: res.init_point };
     } catch (e) {
-      this.logger.error('Error creando la preferencia de Mercado Pago', e as Error);
+      this.logger.error(
+        'Error creando la preferencia de Mercado Pago',
+        e as Error,
+      );
       throw new InternalServerErrorException('No se pudo iniciar el pago.');
     }
   }
@@ -140,7 +160,10 @@ export class PagosService {
     try {
       info = await payment.get({ id: paymentId });
     } catch (e) {
-      this.logger.error(`No se pudo consultar el pago ${paymentId}`, e as Error);
+      this.logger.error(
+        `No se pudo consultar el pago ${paymentId}`,
+        e as Error,
+      );
       return false;
     }
 
@@ -152,7 +175,9 @@ export class PagosService {
     }
 
     if (!info.external_reference) {
-      this.logger.warn(`Pago ${paymentId} aprobado pero sin external_reference.`);
+      this.logger.warn(
+        `Pago ${paymentId} aprobado pero sin external_reference.`,
+      );
       return false;
     }
 
@@ -166,7 +191,9 @@ export class PagosService {
 
     const paqueteInfo = PAQUETES[datos.paquete as Paquete];
     if (!paqueteInfo) {
-      this.logger.warn(`Paquete desconocido "${datos.paquete}" en el pago ${paymentId}.`);
+      this.logger.warn(
+        `Paquete desconocido "${datos.paquete}" en el pago ${paymentId}.`,
+      );
       return false;
     }
 
@@ -178,11 +205,32 @@ export class PagosService {
       'mercadopago',
     );
     // Si la cuenta se creó en PENDIENTE por el flujo "datos y luego pagar", al
-    // aprobarse el pago se activa. Idempotente para cuentas que ya estaban activas.
-    await this.usuarios.activar(datos.usuarioId);
+    // aprobarse el pago se activa. `activarParaCompra` dice si ESTA fue la
+    // primera activación, para mandar el correo de confirmación una sola vez.
+    const activacion = await this.usuarios.activarParaCompra(datos.usuarioId);
     this.logger.log(
       `Acceso otorgado a usuario ${datos.usuarioId} [${paqueteInfo.modulos.join(', ')}] por el pago ${paymentId}.`,
     );
+
+    // Correo de compra confirmada + acceso listo. Solo en la primera activación
+    // (el webhook de Mercado Pago reintenta, y no queremos correos dobles). Si
+    // el correo falla, se registra pero NO se rompe el webhook: el pago ya está
+    // procesado y el acceso otorgado.
+    if (activacion.recienActivada) {
+      try {
+        await this.mail.enviarCompraConfirmada({
+          to: activacion.email,
+          nombre: activacion.nombre,
+          paqueteTitulo: paqueteInfo.titulo,
+          precio: paqueteInfo.precio,
+          ciclo: datos.ciclo ?? CICLO,
+        });
+      } catch (e) {
+        this.logger.error(
+          `Pago ${paymentId} procesado, pero falló el correo de confirmación a ${activacion.email}: ${(e as Error).message}`,
+        );
+      }
+    }
     return true;
   }
 }

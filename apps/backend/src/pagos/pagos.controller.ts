@@ -51,7 +51,9 @@ export class PagosController {
    */
   @Post('confirmar')
   async confirmar(@Body() datos: { paymentId: string }) {
-    const otorgado = await this.pagosService.procesarPago(String(datos.paymentId));
+    const otorgado = await this.pagosService.procesarPago(
+      String(datos.paymentId),
+    );
     return { otorgado };
   }
 
@@ -67,7 +69,8 @@ export class PagosController {
   @Post('webhook')
   @HttpCode(200)
   async webhook(
-    @Body() body: { type?: string; action?: string; data?: { id?: string | number } },
+    @Body()
+    body: { type?: string; action?: string; data?: { id?: string | number } },
     @Query() query: Record<string, string>,
   ) {
     const tipo = body?.type ?? query?.type ?? query?.topic;

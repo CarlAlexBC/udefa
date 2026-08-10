@@ -7,6 +7,7 @@ import {
 import { PrismaService } from '../prisma/prisma.service';
 import { RepasosService } from '../repasos/repasos.service';
 import { AccesoService } from '../acceso/acceso.service';
+import { ActividadService } from '../actividad/actividad.service';
 
 @Injectable()
 export class IntentosService {
@@ -14,6 +15,7 @@ export class IntentosService {
     private prisma: PrismaService,
     private repasos: RepasosService,
     private acceso: AccesoService,
+    private actividad: ActividadService,
   ) {}
 
   /**
@@ -35,11 +37,7 @@ export class IntentosService {
     return recurso;
   }
 
-  async crear(
-    usuarioId: number,
-    examenId: number,
-    sesionCompletoId?: number,
-  ) {
+  async crear(usuarioId: number, examenId: number, sesionCompletoId?: number) {
     const examen = await this.prisma.examen.findUnique({
       where: { id: examenId },
     });
@@ -111,7 +109,7 @@ export class IntentosService {
         ? reactivo.respuestaCorrecta === respuestaSeleccionada
         : null;
 
-    return this.prisma.respuestaReactivo.create({
+    const respuesta = await this.prisma.respuestaReactivo.create({
       data: {
         intentoExamenId: intentoId,
         reactivoId,
@@ -120,6 +118,11 @@ export class IntentosService {
         respondidoEnMs,
       },
     });
+
+    // Prende la racha del día. Nunca debe tumbar la respuesta si falla.
+    await this.actividad.marcarHoy(usuarioId).catch(() => undefined);
+
+    return respuesta;
   }
 
   async finalizar(
@@ -375,7 +378,9 @@ export class IntentosService {
   ) {
     if (respuestas.length === 0) return null;
 
-    const tiempos = respuestas.map((r) => r.tiempoDeltaMs).sort((a, b) => a - b);
+    const tiempos = respuestas
+      .map((r) => r.tiempoDeltaMs)
+      .sort((a, b) => a - b);
     const medianaMs = tiempos[Math.floor(tiempos.length / 2)];
 
     const cuadrantes = {
@@ -548,10 +553,7 @@ export class IntentosService {
             scores.reduce((s, v) => s + Math.pow(v - promedio, 2), 0) / total,
           );
           const desvMax = 2; // desviación máxima esperada en escala 1-5
-          coherencia = Math.max(
-            0,
-            Math.round((1 - desv / desvMax) * 100),
-          );
+          coherencia = Math.max(0, Math.round((1 - desv / desvMax) * 100));
           // Contradicciones: pares donde uno es alto (≥4) y otro bajo (≤2)
           const alto = scores.filter((s) => s >= 4).length;
           const bajo = scores.filter((s) => s <= 2).length;
@@ -774,7 +776,11 @@ export class IntentosService {
     const altas = [L, K, F].filter((e) => e.banda === 'alta').length;
     const elevadas = [L, K, F].filter((e) => e.banda === 'elevada').length;
     const veredicto =
-      altas >= 2 ? 'cuestionable' : altas === 1 || elevadas >= 2 ? 'con_reservas' : 'valido';
+      altas >= 2
+        ? 'cuestionable'
+        : altas === 1 || elevadas >= 2
+          ? 'con_reservas'
+          : 'valido';
 
     return {
       L,
@@ -858,7 +864,10 @@ export class IntentosService {
     const hallazgosPorTema: Record<string, number> = {};
     for (const r of criticos) {
       if (afirmaRiesgo(r) !== true) continue;
-      if (r.reactivo.eje !== null && EJES_PROTOCOLO_CRISIS.includes(r.reactivo.eje)) {
+      if (
+        r.reactivo.eje !== null &&
+        EJES_PROTOCOLO_CRISIS.includes(r.reactivo.eje)
+      ) {
         senalesCrisis++;
       } else {
         const tema = r.reactivo.tema ?? 'sin_tema';
@@ -883,9 +892,9 @@ export class IntentosService {
     const combinacionEvaluable = !!(r71 && r72 && r73);
     const combinacionRiesgoAgudo =
       combinacionEvaluable &&
-      afirmaRiesgo(r71!) === true &&
-      afirmaRiesgo(r72!) === true &&
-      afirmaRiesgo(r73!) === true;
+      afirmaRiesgo(r71) === true &&
+      afirmaRiesgo(r72) === true &&
+      afirmaRiesgo(r73) === true;
 
     // Reactivos de máxima severidad del sub-lote 8 del eje 1 (ampliación 8 ago
     // 2026): intención (104), conducta preparatoria (105, 118), plan/ensayo
@@ -1022,7 +1031,8 @@ export class IntentosService {
    */
   private direccionRespuesta(respuesta: string): 'afirma' | 'niega' | null {
     const r = respuesta.toLowerCase().trim();
-    if (r === 'sí' || r === 'si' || r === 'verdadero' || r === 'v') return 'afirma';
+    if (r === 'sí' || r === 'si' || r === 'verdadero' || r === 'v')
+      return 'afirma';
     if (r === 'no' || r === 'falso' || r === 'f') return 'niega';
     return null;
   }
@@ -1112,8 +1122,7 @@ export class IntentosService {
   private stddev(arr: number[]): number {
     if (arr.length === 0) return 0;
     const m = this.mean(arr);
-    const varianza =
-      arr.reduce((sum, n) => sum + (n - m) ** 2, 0) / arr.length;
+    const varianza = arr.reduce((sum, n) => sum + (n - m) ** 2, 0) / arr.length;
     return Math.sqrt(varianza);
   }
 
@@ -1130,7 +1139,10 @@ export class IntentosService {
         usuarioId,
         ...(filtros?.examenId ? { examenId: filtros.examenId } : {}),
         ...(filtros?.estado
-          ? { estado: filtros.estado as 'EN_PROGRESO' | 'COMPLETADA' | 'TIEMPO_AGOTADO' | 'ABANDONADA' }
+          ? {
+              estado: filtros.estado as
+                'EN_PROGRESO' | 'COMPLETADA' | 'TIEMPO_AGOTADO' | 'ABANDONADA',
+            }
           : {}),
       },
       include: {

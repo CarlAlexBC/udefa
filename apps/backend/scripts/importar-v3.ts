@@ -75,6 +75,7 @@ interface Fila {
   tipoTrampa: TipoTrampa | null;
   esCritico: boolean;
   noPuntua: boolean;
+  militar: boolean;
   subnota: string;
   marco: string;
   crossRef: string | null;
@@ -200,7 +201,10 @@ function parsearArchivo(archivo: string): Fila[] {
     if (cells.length < 3) continue;
 
     const num = parseInt(cells[0], 10);
-    const enun = cells[1];
+    // El 🎖 es marcador de diseño (vínculo militar). Va a la columna `militar`,
+    // NUNCA al enunciado: el aspirante jamás debe verlo. Se limpia del texto.
+    const militar = cells[1].includes('🎖');
+    const enun = cells[1].replace(/\s*🎖️?/g, '').replace(/\s+/g, ' ').trim();
     const c3 = cells[2];
     const c3u = c3.toUpperCase();
 
@@ -252,6 +256,7 @@ function parsearArchivo(archivo: string): Fila[] {
       tipoTrampa,
       esCritico,
       noPuntua,
+      militar,
       subnota,
       marco,
       crossRef: detectarCrossRef(subnota, marco),
@@ -499,6 +504,7 @@ async function main() {
       tipoTrampa: f.tipoTrampa,
       esCritico: f.esCritico,
       noPuntua: f.noPuntua,
+      militar: f.militar,
       subnota: f.subnota,
       marco: f.marco,
       crossRef: f.crossRef,

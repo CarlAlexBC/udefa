@@ -1,4 +1,12 @@
-import { Controller, Post, Body, Get, UseGuards, Request, Res } from '@nestjs/common';
+import {
+  Controller,
+  Post,
+  Body,
+  Get,
+  UseGuards,
+  Request,
+  Res,
+} from '@nestjs/common';
 import { Throttle } from '@nestjs/throttler';
 import type { Response } from 'express';
 import { AuthService } from './auth.service';
@@ -67,7 +75,10 @@ export class AuthController {
   @Throttle({ default: { limit: 5, ttl: 60000 } })
   @Post('restablecer-password')
   restablecerPassword(@Body() datos: RestablecerPasswordDto) {
-    return this.authService.restablecerPassword(datos.token, datos.nuevaPassword);
+    return this.authService.restablecerPassword(
+      datos.token,
+      datos.nuevaPassword,
+    );
   }
 
   @UseGuards(JwtAuthGuard)

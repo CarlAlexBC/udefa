@@ -70,7 +70,8 @@ describe('Examen de personalidad (e2e)', () => {
     const examen = await prisma.examen.findFirst({
       where: { tipo: 'personalidad' },
     });
-    if (!examen) throw new Error('No hay examen de tipo personalidad en la base');
+    if (!examen)
+      throw new Error('No hay examen de tipo personalidad en la base');
     examenId = examen.id;
   }, 60_000);
 
@@ -82,13 +83,18 @@ describe('Examen de personalidad (e2e)', () => {
       try {
         await fn();
       } catch (e) {
-        console.error(`limpieza — falló ${que}:`, (e as Error).message.split('\n')[0]);
+        console.error(
+          `limpieza — falló ${que}:`,
+          (e as Error).message.split('\n')[0],
+        );
       }
     };
 
     if (intentoId) {
       await intentar('respuestas', () =>
-        prisma.respuestaReactivo.deleteMany({ where: { intentoExamenId: intentoId } }),
+        prisma.respuestaReactivo.deleteMany({
+          where: { intentoExamenId: intentoId },
+        }),
       );
       await intentar('intento', () =>
         prisma.intentoExamen.delete({ where: { id: intentoId } }),
@@ -190,9 +196,8 @@ describe('Examen de personalidad (e2e)', () => {
     // Se contesta en la dirección segura salvo un crítico de crisis, para que
     // el protocolo tenga algo que detectar y podamos comprobarlo de verdad.
     criticoDeCrisis =
-      reactivos.find(
-        (r) => r.esCritico && (r.eje === 1 || r.eje === 2),
-      ) ?? null;
+      reactivos.find((r) => r.esCritico && (r.eje === 1 || r.eje === 2)) ??
+      null;
 
     // El examen se arma al azar, así que hay que dejar dicho si el crítico
     // apareció. Sin esto, una corrida donde el muestreo no lo trajo se iría por

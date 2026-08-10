@@ -6,6 +6,7 @@ import {
 import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { TemasPrioridadService } from '../temas-prioridad/temas-prioridad.service';
+import { ActividadService } from '../actividad/actividad.service';
 import * as fs from 'fs';
 import * as path from 'path';
 
@@ -80,9 +81,15 @@ export class ExamenesService {
   constructor(
     private prisma: PrismaService,
     private temasPrioridadService: TemasPrioridadService,
+    private actividad: ActividadService,
   ) {}
 
-  async crear(tipo: string, nombre: string, duracionMin: number, calificable: boolean) {
+  async crear(
+    tipo: string,
+    nombre: string,
+    duracionMin: number,
+    calificable: boolean,
+  ) {
     return this.prisma.examen.create({
       data: {
         tipo,
@@ -97,7 +104,13 @@ export class ExamenesService {
     return this.prisma.examen.findMany();
   }
 
-  async actualizar(id: number, tipo: string, nombre: string, duracionMin: number, calificable: boolean) {
+  async actualizar(
+    id: number,
+    tipo: string,
+    nombre: string,
+    duracionMin: number,
+    calificable: boolean,
+  ) {
     return this.prisma.examen.update({
       where: { id },
       data: {
@@ -232,8 +245,9 @@ export class ExamenesService {
           bloque.id,
           // El cultural puede pedir un número distinto por materia; los demás
           // tipos usan el mismo para todos sus bloques.
-          (examen.tipo === 'cultural' ? this.REPARTO_CULTURAL[bloque.nombre] : undefined) ??
-            reactivosPorBloque,
+          (examen.tipo === 'cultural'
+            ? this.REPARTO_CULTURAL[bloque.nombre]
+            : undefined) ?? reactivosPorBloque,
           banco,
         ),
       })),
@@ -257,14 +271,23 @@ export class ExamenesService {
   async armarExamenCultural(plantel: string, carreraIdx = 0) {
     // Indexado por PLANTEL -> CODIGO: un mismo codigo pide capitulos distintos en
     // cada escuela, asi que la seleccion se toma del plantel, no solo del codigo.
-    const puente: Record<string, Record<string, { slug: string; capitulos: number[] }>> = JSON.parse(
+    const puente: Record<
+      string,
+      Record<string, { slug: string; capitulos: number[] }>
+    > = JSON.parse(
       fs.readFileSync(this.rutaCultural('puente-oferta-demanda.json'), 'utf8'),
     ).puente;
-    const temarios = JSON.parse(fs.readFileSync(this.rutaCultural('temarios.json'), 'utf8'));
+    const temarios = JSON.parse(
+      fs.readFileSync(this.rutaCultural('temarios.json'), 'utf8'),
+    );
 
-    const carreras = temarios.carreras.filter((c: any) => c.plantel === plantel);
+    const carreras = temarios.carreras.filter(
+      (c: any) => c.plantel === plantel,
+    );
     if (!carreras.length) {
-      throw new NotFoundException(`No hay temario para el plantel "${plantel}".`);
+      throw new NotFoundException(
+        `No hay temario para el plantel "${plantel}".`,
+      );
     }
     const carrera = carreras[carreraIdx] ?? carreras[0];
 
@@ -281,7 +304,8 @@ export class ExamenesService {
     const base = nActivas ? Math.floor(TOTAL_EXAMEN / nActivas) : 0;
     let resto = nActivas ? TOTAL_EXAMEN - base * nActivas : 0;
 
-    const bloques: { nombre: string; codigo: string; reactivos: unknown[] }[] = [];
+    const bloques: { nombre: string; codigo: string; reactivos: unknown[] }[] =
+      [];
     for (const m of materias) {
       const codigo = m.codigo_normalizado || m.codigo;
       const puenteMateria = puente[plantel]?.[codigo];
@@ -299,7 +323,13 @@ export class ExamenesService {
       // (Reactivo→Tema→Capítulo→Libro). `${...}` son PARÁMETROS, a prueba de inyección.
       // OJO: sin respuestaCorrecta — la respuesta NO se filtra al cliente.
       const disponibles = await this.prisma.$queryRaw<
-        Array<{ id: number; enunciado: string; opciones: unknown; tipo: string; tema: string | null }>
+        Array<{
+          id: number;
+          enunciado: string;
+          opciones: unknown;
+          tipo: string;
+          tema: string | null;
+        }>
       >(Prisma.sql`
         SELECT r.id, r.enunciado, r.opciones, r.tipo, r.tema
         FROM "Reactivo" r
@@ -323,7 +353,13 @@ export class ExamenesService {
       bloques.push({ nombre: m.nombre, codigo, reactivos: elegidos });
     }
 
-    return { tipo: 'cultural', plantel, carrera: carrera.carrera, anio: carrera.anio, bloques };
+    return {
+      tipo: 'cultural',
+      plantel,
+      carrera: carrera.carrera,
+      anio: carrera.anio,
+      bloques,
+    };
   }
 
   /* ═══════════════════════════════════════════════════════════
@@ -350,7 +386,11 @@ export class ExamenesService {
   ): Promise<{ nombre: string; capituloIds: number[] }[]> {
     // Fuente NUEVA: las tablas Temario.
     const temario = await this.prisma.temario.findFirst({
-      where: { plantelId, estado: 'PUBLICADO', ...(anio != null ? { anio } : {}) },
+      where: {
+        plantelId,
+        estado: 'PUBLICADO',
+        ...(anio != null ? { anio } : {}),
+      },
       orderBy: { anio: 'desc' },
       include: {
         materias: {
@@ -427,7 +467,11 @@ export class ExamenesService {
    */
   async materiasPracticaCultural(usuarioId: number) {
     const { plantelId, nombre } = await this.plantelDelUsuario(usuarioId);
-    const materias = await this.resolverMateriasCultural(plantelId, nombre, null);
+    const materias = await this.resolverMateriasCultural(
+      plantelId,
+      nombre,
+      null,
+    );
 
     const lista = await Promise.all(
       materias.map(async (m) => ({
@@ -455,7 +499,11 @@ export class ExamenesService {
    */
   async temasPracticaCultural(usuarioId: number, materia: string) {
     const { plantelId, nombre } = await this.plantelDelUsuario(usuarioId);
-    const materias = await this.resolverMateriasCultural(plantelId, nombre, null);
+    const materias = await this.resolverMateriasCultural(
+      plantelId,
+      nombre,
+      null,
+    );
     const elegida = materias.find((m) => m.nombre === materia);
     if (!elegida) {
       throw new NotFoundException(
@@ -467,7 +515,12 @@ export class ExamenesService {
     // Un capítulo = un "tema del temario" (05 División, 06 Productos…). El
     // conteo sale de los reactivos culturales que cuelgan de sus Temas.
     const filas = await this.prisma.$queryRaw<
-      Array<{ capituloId: number; numero: number; titulo: string; disponibles: bigint }>
+      Array<{
+        capituloId: number;
+        numero: number;
+        titulo: string;
+        disponibles: bigint;
+      }>
     >(Prisma.sql`
       SELECT c.id AS "capituloId", c.numero, c.titulo, COUNT(r.id) AS disponibles
       FROM "Capitulo" c
@@ -499,7 +552,11 @@ export class ExamenesService {
   ) {
     const cuantos = Math.min(Math.max(1, Math.floor(n) || 20), 50);
     const { plantelId, nombre } = await this.plantelDelUsuario(usuarioId);
-    const materias = await this.resolverMateriasCultural(plantelId, nombre, null);
+    const materias = await this.resolverMateriasCultural(
+      plantelId,
+      nombre,
+      null,
+    );
     const elegida = materias.find((m) => m.nombre === materia);
     if (!elegida) {
       throw new NotFoundException(
@@ -524,7 +581,12 @@ export class ExamenesService {
 
     // OJO: sin respuestaCorrecta — la respuesta NO se filtra al cliente.
     const disponibles = await this.prisma.$queryRaw<
-      Array<{ id: number; enunciado: string; opciones: unknown; tema: string | null }>
+      Array<{
+        id: number;
+        enunciado: string;
+        opciones: unknown;
+        tema: string | null;
+      }>
     >(Prisma.sql`
       SELECT r.id, r.enunciado, r.opciones, r.tema
       FROM "Reactivo" r
@@ -568,6 +630,9 @@ export class ExamenesService {
       data: { usuarioId, reactivoId, esCorrecta },
     });
 
+    // Prende la racha del día. Nunca debe tumbar la corrección si falla.
+    await this.actividad.marcarHoy(usuarioId).catch(() => undefined);
+
     return {
       esCorrecta,
       respuestaCorrecta: reactivo.respuestaCorrecta,
@@ -595,7 +660,11 @@ export class ExamenesService {
    */
   async miAvanceCultural(usuarioId: number) {
     const { plantelId, nombre } = await this.plantelDelUsuario(usuarioId);
-    const materias = await this.resolverMateriasCultural(plantelId, nombre, null);
+    const materias = await this.resolverMateriasCultural(
+      plantelId,
+      nombre,
+      null,
+    );
     const todosLosCapIds = materias.flatMap((m) => m.capituloIds);
     if (todosLosCapIds.length === 0) {
       return { plantel: nombre, materias: [] };
@@ -723,7 +792,13 @@ export class ExamenesService {
       // Nombres de tabla/columna verificados contra schema.prisma: si se renombran
       // Reactivo/Tema o sus columnas, hay que actualizar este query crudo.
       const disponibles = await this.prisma.$queryRaw<
-        Array<{ id: number; enunciado: string; opciones: unknown; tipo: string; tema: string | null }>
+        Array<{
+          id: number;
+          enunciado: string;
+          opciones: unknown;
+          tipo: string;
+          tema: string | null;
+        }>
       >(Prisma.sql`
         SELECT r.id, r.enunciado, r.opciones, r.tipo, r.tema
         FROM "Reactivo" r
@@ -786,7 +861,9 @@ export class ExamenesService {
         where: { id: examen.plantelId },
         select: { nombre: true },
       });
-      const codigo = plantel ? this.CODIGO_POR_PLANTEL[plantel.nombre] : undefined;
+      const codigo = plantel
+        ? this.CODIGO_POR_PLANTEL[plantel.nombre]
+        : undefined;
       if (!codigo) {
         throw new NotFoundException(
           `El plantel "${plantel?.nombre ?? examen.plantelId}" no tiene Temario en la base ni un código de temario conocido para el examen cultural.`,
@@ -822,8 +899,24 @@ export class ExamenesService {
    */
   private rutaCultural(archivo: string): string {
     const candidatos = [
-      path.resolve(process.cwd(), '..', '..', 'docs', 'examen-cultural', archivo),
-      path.resolve(__dirname, '..', '..', '..', '..', 'docs', 'examen-cultural', archivo),
+      path.resolve(
+        process.cwd(),
+        '..',
+        '..',
+        'docs',
+        'examen-cultural',
+        archivo,
+      ),
+      path.resolve(
+        __dirname,
+        '..',
+        '..',
+        '..',
+        '..',
+        'docs',
+        'examen-cultural',
+        archivo,
+      ),
       path.resolve(__dirname, '..', 'datos-cultural', archivo),
     ];
     for (const c of candidatos) if (fs.existsSync(c)) return c;
@@ -872,7 +965,10 @@ export class ExamenesService {
     if (porTema.size === 1) {
       idsAleatorios = this.tomarUnidadesHasta(this.mezclar(unidades), cantidad);
     } else {
-      idsAleatorios = await this.muestreoEstratificadoPorPeso(porTema, cantidad);
+      idsAleatorios = await this.muestreoEstratificadoPorPeso(
+        porTema,
+        cantidad,
+      );
     }
 
     // 4. Fetch de los reactivos seleccionados.

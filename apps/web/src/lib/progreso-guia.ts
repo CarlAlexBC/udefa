@@ -205,12 +205,3 @@ export function useProgresoGuia(): {
   return { leidas: actuales, cargando: !listo }
 }
 
-/**
- * Olvida lo que hay en memoria y vuelve a preguntarle al servidor. No borra
- * nada en la base. Útil si algún día hace falta refrescar tras un cambio de
- * sesión.
- */
-export function recargarProgresoGuia(): void {
-  yaSeConsulto = false
-  void traerDelServidor()
-}

@@ -54,8 +54,7 @@ export class JwtStrategy extends PassportStrategy(Strategy) {
     // Cast defensivo: hasta que se corra `prisma generate` tras la migración,
     // el tipo Usuario del cliente no incluye `rol`. En runtime siempre está
     // porque la columna tiene default 'aspirante'.
-    const rol =
-      (usuario as { rol?: string }).rol ?? 'aspirante';
+    const rol = (usuario as { rol?: string }).rol ?? 'aspirante';
 
     return { id: payload.sub, email: payload.email, sid: payload.sid, rol };
   }

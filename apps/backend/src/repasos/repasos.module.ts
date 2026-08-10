@@ -2,8 +2,10 @@ import { Module } from '@nestjs/common';
 import { RepasosService } from './repasos.service';
 import { RepasosController } from './repasos.controller';
 import { PrismaService } from '../prisma/prisma.service';
+import { ActividadModule } from '../actividad/actividad.module';
 
 @Module({
+  imports: [ActividadModule],
   providers: [RepasosService, PrismaService],
   controllers: [RepasosController],
   // Se exporta para que IntentosModule pueda sembrar la cola al finalizar.
