@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 import { apiFetch } from '@/lib/api'
+import { COLOR_PAQUETE_CLARO } from '@/lib/colores-paquete'
 import { Button } from '@/components/ui/button'
 import {
   ArrowLeft,
@@ -29,10 +30,12 @@ type Resultado = {
   porModulo: { cultural: PorModulo; psicologico: PorModulo }
 }
 
-// Color e etiqueta por módulo, alineados con /precios.
+// Color y etiqueta por módulo. Esta pantalla es CLARA, así que toma los tonos
+// profundos de la tabla compartida — los mismos de /precios, para que el
+// aspirante siga el color del módulo de una pantalla a otra.
 const MODULO = {
-  cultural: { etiqueta: 'Cultural', color: '#2563A8' },
-  psicologico: { etiqueta: 'Psicológico', color: '#6B46C1' },
+  cultural: { etiqueta: 'Cultural', color: COLOR_PAQUETE_CLARO.azul.c },
+  psicologico: { etiqueta: 'Psicológico', color: COLOR_PAQUETE_CLARO.morado.c },
 } as const
 
 export default function MuestraPage() {

@@ -23,6 +23,8 @@ import {
   Lock,
   ShieldCheck,
 } from 'lucide-react'
+import { FondoAuth } from '@/components/FondoAuth'
+import { COLOR_PAQUETE_OSCURO } from '@/lib/colores-paquete'
 
 // Ciclo vigente — mismo texto que /precios.
 const CICLO = '2027'
@@ -31,12 +33,18 @@ const MODELO_ACCESO = `Pago único · Acceso hasta finalizar la convocatoria ${C
 // Catálogo de los paquetes DE PAGO para el resumen de esta pantalla. El gratis
 // (Explora) no compra, así que no vive aquí. Los precios y textos coinciden con
 // /precios; el backend es la fuente de la verdad del cobro.
+//
+// OJO CON LOS COLORES: son los MISMOS de /precios en identidad —azul para
+// Cultural, morado para Psicológica, latón para Completa— pero en otro tono,
+// y eso es a propósito. Esta pantalla es OSCURA (el `dark` de más abajo) y
+// /precios es clara, así que toma la tabla de tintes claros. El porqué, con
+// los números, está en colores-paquete.ts.
 const PAQUETES = {
   cultural: {
     nombre: 'Preparación Cultural',
     subtitulo: 'Domina el examen académico',
     precio: '$999',
-    color: { c: '#2563A8', on: '#FFFFFF' },
+    color: COLOR_PAQUETE_OSCURO.azul,
     icono: GraduationCap,
     incluye: [
       '+5,000 preguntas reales clasificadas por tema',
@@ -50,7 +58,7 @@ const PAQUETES = {
     nombre: 'Preparación Psicológica',
     subtitulo: 'Domina las 3 fases del examen',
     precio: '$1,999',
-    color: { c: '#6B46C1', on: '#FFFFFF' },
+    color: COLOR_PAQUETE_OSCURO.morado,
     icono: Brain,
     incluye: [
       'Guías completas de las 3 fases',
@@ -64,7 +72,7 @@ const PAQUETES = {
     nombre: 'Preparación Completa',
     subtitulo: 'Todo lo que necesitas, en un solo lugar',
     precio: '$2,500',
-    color: { c: '#C99A3B', on: '#161513' },
+    color: COLOR_PAQUETE_OSCURO.dorado,
     icono: ShieldCheck,
     incluye: [
       'TODO lo del paquete Cultural',
@@ -153,9 +161,10 @@ export default function ComprarPage({
   }
 
   return (
-    <main className="flex min-h-screen flex-col bg-background">
+    <main className="dark relative flex min-h-screen flex-col overflow-hidden bg-background">
+      <FondoAuth />
       {/* Barra superior — igual que /precios */}
-      <header className="border-b border-border">
+      <header className="relative z-10 border-b border-border">
         <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
           <Link href="/precios" className="flex items-center gap-3">
             <Image
@@ -179,7 +188,7 @@ export default function ComprarPage({
         </div>
       </header>
 
-      <div className="mx-auto grid w-full max-w-5xl flex-1 grid-cols-1 gap-8 px-6 py-10 md:grid-cols-[1fr_1.05fr] md:items-start">
+      <div className="relative z-10 mx-auto grid w-full max-w-5xl flex-1 grid-cols-1 gap-8 px-6 py-10 md:grid-cols-[1fr_1.05fr] md:items-start">
         {/* ─── Resumen del paquete ─── */}
         <section>
           <div className="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-widest text-accent">
@@ -187,21 +196,24 @@ export default function ComprarPage({
             Estás comprando
           </div>
 
-          <div className="mt-4 rounded-xl border border-border bg-card p-6">
+          <div className="mt-4 rounded-xl border border-[#6B7530]/55 bg-[#2A2E16]/55 p-6 backdrop-blur-[3px]">
             <div
               className="flex h-12 w-12 items-center justify-center rounded-full"
               style={{ backgroundColor: info.color.c + '1F', color: info.color.c }}
             >
               <Icono className="h-6 w-6" />
             </div>
-            <p className="mt-4 text-xl font-bold" style={{ color: info.color.c }}>
+            {/* El nombre va en crema, no en el color del paquete: antes los dos
+                competían por la misma mirada. Lo que hace resaltar al precio no
+                es subirle a él, es bajarle a lo de al lado. */}
+            <p className="mt-4 text-xl font-bold text-foreground">
               {info.nombre}
             </p>
             <p className="text-sm text-muted-foreground">{info.subtitulo}</p>
 
             <div className="mt-4 flex items-baseline gap-2">
               <span
-                className="text-4xl font-bold tracking-tight tabular-nums"
+                className="text-5xl font-bold tracking-tight tabular-nums"
                 style={{ color: info.color.c }}
               >
                 {info.precio}
@@ -236,7 +248,7 @@ export default function ComprarPage({
         </section>
 
         {/* ─── Formulario: crea tu cuenta y paga ─── */}
-        <Card className="w-full">
+        <Card className="w-full border-[#6B7530]/55 bg-[#2A2E16]/55 backdrop-blur-[3px]">
           <CardHeader>
             <CardTitle className="text-2xl">Crea tu cuenta y paga</CardTitle>
             <CardDescription>

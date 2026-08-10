@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { buttonVariants } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import { SiteFooter } from '@/components/legal/SiteFooter'
+import { COLOR_PAQUETE_CLARO, type TonoPaquete } from '@/lib/colores-paquete'
 import { BotonPaquete } from './BotonPaquete'
 import {
   BadgeCheck,
@@ -30,15 +31,13 @@ export const metadata = {
 const CICLO = '2027'
 const MODELO_ACCESO = `Pago único · Acceso hasta finalizar la convocatoria ${CICLO}`
 
-// Colores por paquete (los del mockup de Carlo). Van por inline-style porque
-// son colores fuera del sistema de tokens de la marca.
-const COLOR = {
-  verde: { c: '#2E7D46', on: '#FFFFFF' },
-  azul: { c: '#2563A8', on: '#FFFFFF' },
-  morado: { c: '#6B46C1', on: '#FFFFFF' },
-  dorado: { c: '#C99A3B', on: '#161513' },
-  rojo: { c: '#DC2626', on: '#FFFFFF' },
-} as const
+// Colores por paquete. Van por inline-style porque son identidad de producto,
+// no roles de interfaz, así que viven fuera de los tokens de globals.css.
+//
+// Esta pantalla es CLARA, por eso toma la tabla de tonos profundos. La de
+// compra es oscura y toma la otra; las dos salen del mismo archivo para que
+// no se despeguen. El porqué está explicado en colores-paquete.ts.
+const COLOR = COLOR_PAQUETE_CLARO
 
 // Logos oficiales de los métodos de pago (los aportó Carlo; viven en public/pagos/).
 // El w/h es el tamaño real de cada archivo — Next lo necesita para no deformarlos.
@@ -101,7 +100,7 @@ export default function PreciosPage() {
               <div className="flex items-center gap-3">
                 <div
                   className="flex h-10 w-10 items-center justify-center rounded-lg"
-                  style={{ backgroundColor: COLOR.dorado.c, color: '#FFFFFF' }}
+                  style={{ backgroundColor: COLOR.dorado.c, color: COLOR.dorado.on }}
                 >
                   <CalendarClock className="h-5 w-5" />
                 </div>
@@ -150,7 +149,7 @@ export default function PreciosPage() {
         <div className="mt-4 flex items-start gap-3 rounded-xl border border-border bg-card p-4">
           <div
             className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg"
-            style={{ backgroundColor: COLOR.verde.c, color: '#FFFFFF' }}
+            style={{ backgroundColor: COLOR.verde.c, color: COLOR.verde.on }}
           >
             <RefreshCw className="h-5 w-5" />
           </div>
@@ -377,7 +376,8 @@ export default function PreciosPage() {
    Sub-componentes
    ═══════════════════════════════════════════════════════════ */
 
-type ColorPaquete = { c: string; on: string }
+/** El tono ya viene resuelto desde arriba; aquí sólo se pinta. */
+type ColorPaquete = TonoPaquete
 
 function Paquete({
   icono,
