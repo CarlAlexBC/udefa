@@ -605,7 +605,10 @@ function DiagnosticoCultural({
             (acerté | fallé). La POSICIÓN de cada grupo dice qué hacer con él, y
             la diagonal va de lo mejor (dominado, arriba-izq.) a lo más
             recuperable (confundido, abajo-der.). */}
-        <div className="mt-5 grid grid-cols-[1.5rem_1fr_1fr] gap-2 sm:grid-cols-[2.25rem_1fr_1fr] sm:gap-3">
+        {/* minmax(0,1fr) y no 1fr: `1fr` a secas no puede encogerse por debajo
+            de su contenido, así que un nombre de tema largo empujaría la
+            columna y sacaría scroll horizontal en el teléfono. */}
+        <div className="mt-5 grid grid-cols-[1.5rem_minmax(0,1fr)_minmax(0,1fr)] gap-2 sm:grid-cols-[2.25rem_minmax(0,1fr)_minmax(0,1fr)] sm:gap-3">
           {/* Encabezados de columna: la velocidad */}
           <div aria-hidden />
           <p className="pb-1 text-center text-[11px] font-semibold uppercase tracking-widest text-muted-foreground">

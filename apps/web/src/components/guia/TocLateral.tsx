@@ -2,11 +2,21 @@
 
 import { useCallback, useEffect, useState } from 'react'
 import { cn } from '@/lib/utils'
+import { ChevronDown } from 'lucide-react'
 
 /**
- * Índice lateral de una sección de la Guía, con seguimiento del scroll.
+ * Índice de una sección de la Guía, con seguimiento del scroll.
  *
- * POR QUÉ NO USA IntersectionObserver (que es lo que uno esperaría):
+ * Son dos piezas que comparten cerebro:
+ *   · TocLateral — el riel pegado al costado, sólo en escritorio.
+ *   · TocMovil   — una barra plegable arriba del texto, sólo en teléfono.
+ *
+ * Van separadas porque el riel vive DENTRO de la rejilla de contenido y la
+ * barra tiene que vivir FUERA de ella. Un elemento pegajoso sólo puede
+ * viajar dentro de la caja de su padre; metida en la rejilla, la barra se
+ * quedaría clavada sin poder acompañar la lectura.
+ *
+ * POR QUÉ NO USAN IntersectionObserver (que es lo que uno esperaría):
  * el observador sólo avisa cuando un subtítulo ENTRA o SALE de una franja.
  * Eso deja cuatro huecos que se notan al usarlo:
  *   · al subir, los subtítulos salen de la franja sin que nada entre, así
@@ -16,9 +26,9 @@ import { cn } from '@/lib/utils'
  *     mediciones y saltarse;
  *   · la última sección, si es corta, nunca alcanza a cruzarla.
  *
- * En su lugar CALCULA el subtítulo actual a partir de la posición real:
- * el último cuyo encabezado ya pasó la línea de lectura. Siempre da una
- * respuesta, y da la misma subiendo que bajando.
+ * En su lugar CALCULAN el subtítulo actual a partir de la posición real:
+ * el último cuyo encabezado ya pasó la línea de lectura. Siempre dan una
+ * respuesta, y dan la misma subiendo que bajando.
  */
 
 /**
@@ -31,11 +41,13 @@ const DESPLAZAMIENTO = 96
 /** La línea imaginaria que decide "ya llegué a este subtítulo". */
 const LINEA_DE_LECTURA = DESPLAZAMIENTO + 24
 
-export function TocLateral({
-  titulos,
-}: {
-  titulos: Array<{ texto: string; slug: string }>
-}) {
+type Titulo = { texto: string; slug: string }
+
+/**
+ * El cerebro compartido: qué subtítulo se está leyendo, cuánto se lleva
+ * avanzado, y cómo saltar a uno.
+ */
+function useSeguimientoDeLectura(titulos: Titulo[]) {
   const [activo, setActivo] = useState<string | null>(null)
   const [avance, setAvance] = useState(0)
 
@@ -114,6 +126,16 @@ export function TocLateral({
     window.history.replaceState(null, '', `#${slug}`)
   }, [])
 
+  return { activo, avance, irA }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Escritorio — el riel al costado
+   ═══════════════════════════════════════════════════════════ */
+
+export function TocLateral({ titulos }: { titulos: Titulo[] }) {
+  const { activo, avance, irA } = useSeguimientoDeLectura(titulos)
+
   if (titulos.length === 0) return null
 
   return (
@@ -166,6 +188,95 @@ export function TocLateral({
           })}
         </ul>
       </div>
+    </nav>
+  )
+}
+
+/* ═══════════════════════════════════════════════════════════
+   Teléfono — la barra plegable
+
+   Va PEGADA arriba y cerrada por defecto. Cerrada ocupa un renglón y
+   dice en qué apartado vas; abierta, deja saltar a cualquiera. En una
+   sección larga, que es donde el celular sufre, esa línea es la
+   diferencia entre saber dónde estás y estar perdido.
+   ═══════════════════════════════════════════════════════════ */
+
+export function TocMovil({ titulos }: { titulos: Titulo[] }) {
+  const { activo, avance, irA } = useSeguimientoDeLectura(titulos)
+  const [abierto, setAbierto] = useState(false)
+
+  if (titulos.length === 0) return null
+
+  const actual = titulos.find((t) => t.slug === activo) ?? titulos[0]
+
+  return (
+    <nav
+      aria-label="Índice de la sección"
+      /* -mx-6 cancela el margen lateral de la página para que la barra
+         llegue de orilla a orilla, como una cabecera de verdad. */
+      className="sticky top-0 z-20 -mx-6 mb-6 border-b border-border bg-background/95 px-6 py-3 backdrop-blur-sm lg:hidden"
+    >
+      <button
+        type="button"
+        onClick={() => setAbierto((v) => !v)}
+        aria-expanded={abierto}
+        aria-controls="indice-de-seccion"
+        className="flex w-full items-center justify-between gap-3 text-left"
+      >
+        <span className="min-w-0">
+          <span className="block text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+            En esta sección
+          </span>
+          <span className="block truncate text-sm font-medium text-foreground">
+            {actual.texto}
+          </span>
+        </span>
+        <ChevronDown
+          className={cn(
+            'h-4 w-4 shrink-0 text-muted-foreground transition-transform',
+            abierto && 'rotate-180',
+          )}
+        />
+      </button>
+
+      {abierto && (
+        <ul
+          id="indice-de-seccion"
+          className="mt-3 flex flex-col gap-1 border-t border-border pt-3"
+        >
+          {titulos.map((t) => {
+            const esActivo = t.slug === activo
+            return (
+              <li key={t.slug}>
+                <a
+                  href={`#${t.slug}`}
+                  onClick={(e) => {
+                    irA(e, t.slug)
+                    // Se cierra al elegir: si no, tapa justo el texto al que
+                    // acabas de saltar.
+                    setAbierto(false)
+                  }}
+                  aria-current={esActivo ? 'location' : undefined}
+                  className={cn(
+                    'block rounded-sm py-1.5 text-sm leading-snug',
+                    esActivo ? 'font-semibold text-accent' : 'text-muted-foreground',
+                  )}
+                >
+                  {t.texto}
+                </a>
+              </li>
+            )
+          })}
+        </ul>
+      )}
+
+      {/* Hilo de avance al pie de la barra: en el teléfono no hay riel
+          lateral donde ponerlo, y saber cuánto falta importa más aquí. */}
+      <span
+        aria-hidden
+        className="absolute inset-x-0 bottom-0 h-px bg-accent transition-[width]"
+        style={{ width: `${avance}%` }}
+      />
     </nav>
   )
 }

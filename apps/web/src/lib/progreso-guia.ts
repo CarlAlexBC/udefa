@@ -1,149 +1,216 @@
 'use client'
 
 import { useSyncExternalStore } from 'react'
+import { apiFetch } from './api'
 
 /* ═══════════════════════════════════════════════════════════
    Avance de lectura de la Guía del Aspirante.
 
    ESTE ES EL ÚNICO ARCHIVO QUE SABE DÓNDE SE GUARDA EL AVANCE.
+   Las pantallas sólo conocen `useProgresoGuia()`, `marcarSeccionLeida()`
+   y `reiniciarProgresoGuia()`.
 
-   Hoy vive en el navegador del aspirante (localStorage). Es lo que
-   permitió sacar el mosaico sin tocar el backend, pero tiene un costo
-   que hay que decir claro: el avance vive en ESE equipo. Si el
-   aspirante cambia de teléfono, limpia el navegador o entra desde la
-   compu, la barra aparece en cero.
+   Antes vivía en el navegador (localStorage) y se perdía al cambiar de
+   equipo. Ahora vive en la base, detrás de /guia/leidas, y el navegador
+   queda sólo como copia de trabajo para que la pantalla pinte al
+   instante en vez de esperar al servidor.
 
-   Cuando toque moverlo a la base (tabla de secciones leídas por
-   usuario), se cambia AQUÍ ADENTRO y nada más: las pantallas sólo
-   conocen `useProgresoGuia()` y `marcarSeccionLeida()`.
+   CÓMO FUNCIONA, EN CORTO
+   Hay una copia en memoria que es la que pintan las pantallas. Al montar
+   se pide la verdad al servidor y se sustituye. Al marcar una sección se
+   apunta primero en la copia —la palomita aparece de inmediato— y luego
+   se manda al servidor; si el envío falla, se deshace.
 
-   El hook se apoya en `useSyncExternalStore`, que es la API de React
-   para leer algo que vive FUERA de React (aquí el almacenamiento del
-   navegador). Sirve para dos cosas de un golpe: no hace falta copiar
-   el dato a un estado dentro de un efecto, y React sabe que en el
-   servidor ese dato no existe todavía.
+   Eso último se llama actualización optimista, y aquí es lo correcto:
+   marcar una sección leída no es una operación delicada, y esperar medio
+   segundo a que el servidor confirme antes de pintar la palomita se
+   siente roto en un teléfono con mala señal.
    ═══════════════════════════════════════════════════════════ */
 
-const LLAVE = 'udefa:guia:leidas'
+/** Copia de trabajo. Las pantallas leen de aquí. */
+let leidas: ReadonlySet<string> = new Set<string>()
+let yaSeConsulto = false
 
-/** Aviso interno para que todas las pantallas abiertas se enteren de un cambio. */
-const EVENTO = 'udefa:guia:progreso'
+const suscriptores = new Set<() => void>()
 
-/** El servidor no puede saber qué leyó nadie: siempre responde vacío.
-    Es UNA sola instancia a propósito — si devolviera un Set nuevo cada
-    vez, React lo vería como "cambió" y repintaría sin parar. */
-const VACIO: ReadonlySet<string> = new Set<string>()
+function avisar() {
+  for (const s of suscriptores) s()
+}
 
-// Memoria del último valor leído. Misma razón que arriba: React compara
-// por identidad, así que mientras el texto guardado no cambie hay que
-// devolver exactamente el mismo Set.
-let crudoEnCache: string | null = null
-let setEnCache: ReadonlySet<string> = VACIO
+function reemplazar(nuevas: Iterable<string>) {
+  leidas = new Set(nuevas)
+  avisar()
+}
 
-function leerDelAlmacen(): string[] {
+/* ─── Puente con el servidor ─── */
+
+/**
+ * Une las peticiones que salen al mismo tiempo. Varias pantallas montan a
+ * la vez (el mosaico y el hero, por ejemplo) y sin esto cada una pediría
+ * lo mismo.
+ */
+let enVuelo: Promise<void> | null = null
+
+function traerDelServidor(): Promise<void> {
+  if (!enVuelo) {
+    const peticion = apiFetch<string[]>('/guia/leidas')
+      .then((slugs) => {
+        reemplazar(slugs)
+        yaSeConsulto = true
+      })
+      .catch(() => {
+        // Sin conexión o sesión vencida: se deja lo que haya en memoria y
+        // se marca como consultado para no quedarse en "cargando" para
+        // siempre. La barra dirá cero, que es honesto: no sabemos.
+        yaSeConsulto = true
+        avisar()
+      })
+      .finally(() => {
+        if (enVuelo === peticion) enVuelo = null
+      })
+    enVuelo = peticion
+  }
+  return enVuelo
+}
+
+/* ─── Migración de lo que quedó en el navegador ─── */
+
+const LLAVE_VIEJA = 'udefa:guia:leidas'
+
+/**
+ * Sube por única vez el avance que el aspirante tenía guardado en este
+ * navegador de cuando esto no estaba en la base, y limpia la llave vieja.
+ *
+ * Se hace ANTES de la primera consulta para que lo subido ya venga en la
+ * respuesta y no haya un parpadeo. Si falla, la llave NO se borra: se
+ * vuelve a intentar la próxima vez en vez de perder lo que ya había leído.
+ */
+async function subirLoQueQuedoEnElNavegador(): Promise<void> {
+  let slugs: string[] = []
   try {
-    const crudo = window.localStorage.getItem(LLAVE)
-    if (!crudo) return []
+    const crudo = window.localStorage.getItem(LLAVE_VIEJA)
+    if (!crudo) return
     const datos: unknown = JSON.parse(crudo)
-    return Array.isArray(datos)
+    slugs = Array.isArray(datos)
       ? datos.filter((s): s is string => typeof s === 'string')
       : []
   } catch {
-    // Almacenamiento bloqueado (modo privado) o JSON corrupto: se
-    // arranca en cero en vez de tronar la pantalla.
-    return []
+    // Almacenamiento bloqueado o JSON corrupto: no hay nada que rescatar.
+    return
   }
-}
 
-function escribirEnElAlmacen(slugs: string[]): void {
+  if (slugs.length === 0) {
+    try {
+      window.localStorage.removeItem(LLAVE_VIEJA)
+    } catch {
+      /* da igual */
+    }
+    return
+  }
+
+  await apiFetch('/guia/leidas/lote', { method: 'POST', body: { slugs } })
   try {
-    window.localStorage.setItem(LLAVE, JSON.stringify(slugs))
+    window.localStorage.removeItem(LLAVE_VIEJA)
   } catch {
-    // Sin espacio o bloqueado: el avance no se guarda, pero la lectura
-    // no se interrumpe.
+    /* si no se pudo borrar, el lote se reenvía y el servidor lo ignora */
   }
 }
 
-function avisar(): void {
-  window.dispatchEvent(new CustomEvent(EVENTO))
-}
+let migracionIntentada = false
 
-/* ─── Las tres piezas que pide useSyncExternalStore ─── */
-
-function suscribir(alCambiar: () => void): () => void {
-  // `storage` cubre otras pestañas; el evento propio cubre esta misma.
-  window.addEventListener(EVENTO, alCambiar)
-  window.addEventListener('storage', alCambiar)
-  return () => {
-    window.removeEventListener(EVENTO, alCambiar)
-    window.removeEventListener('storage', alCambiar)
+function arrancar(): void {
+  if (migracionIntentada) {
+    void traerDelServidor()
+    return
   }
+  migracionIntentada = true
+  void subirLoQueQuedoEnElNavegador()
+    .catch(() => {
+      // Que falle la subida no debe impedir leer lo que ya hay en la base.
+    })
+    .then(() => traerDelServidor())
 }
-
-function instantanea(): ReadonlySet<string> {
-  let crudo: string | null = null
-  try {
-    crudo = window.localStorage.getItem(LLAVE)
-  } catch {
-    crudo = null
-  }
-  if (crudo !== crudoEnCache) {
-    crudoEnCache = crudo
-    setEnCache = new Set(leerDelAlmacen())
-  }
-  return setEnCache
-}
-
-function instantaneaDelServidor(): ReadonlySet<string> {
-  return VACIO
-}
-
-/** Store de una sola respuesta: false mientras pinta el servidor, true ya en el
-    navegador. Sirve para no enseñar un "0 leídas" que parpadee al valor bueno. */
-const noSuscribir = () => () => {}
 
 /* ─── Lo que usan las pantallas ─── */
 
 /**
- * Marca una sección como leída. Idempotente: llamarla dos veces no
- * duplica nada. Avisa a las pantallas abiertas para que repinten.
+ * Marca una sección como leída. Pinta al instante y avisa al servidor
+ * después; si el servidor rechaza, se deshace.
  */
 export function marcarSeccionLeida(slug: string): void {
   if (typeof window === 'undefined') return
-  const actuales = leerDelAlmacen()
-  if (actuales.includes(slug)) return
-  escribirEnElAlmacen([...actuales, slug])
-  avisar()
+  if (leidas.has(slug)) return
+
+  const antes = leidas
+  reemplazar([...leidas, slug])
+
+  void apiFetch('/guia/leidas', { method: 'POST', body: { slug } }).catch(() => {
+    // Se revierte sólo si nadie más cambió la copia mientras tanto: si el
+    // aspirante ya marcó otra sección, revertir borraría también aquella.
+    if (leidas.size === antes.size + 1) reemplazar(antes)
+  })
 }
 
 /** Borra todo el avance. Se ofrece desde el hero del índice. */
 export function reiniciarProgresoGuia(): void {
   if (typeof window === 'undefined') return
-  escribirEnElAlmacen([])
-  avisar()
+
+  const antes = leidas
+  reemplazar([])
+
+  void apiFetch('/guia/leidas', { method: 'DELETE' }).catch(() => {
+    reemplazar(antes)
+  })
 }
+
+/* ─── El enganche con React ─── */
+
+function suscribir(alCambiar: () => void): () => void {
+  suscriptores.add(alCambiar)
+  // La primera pantalla que se asoma dispara la carga.
+  arrancar()
+  return () => {
+    suscriptores.delete(alCambiar)
+  }
+}
+
+const VACIO: ReadonlySet<string> = new Set<string>()
 
 /**
  * Devuelve las secciones leídas.
  *
- * `cargando` es true durante la pintura del servidor y la hidratación, y
- * pasa a false en cuanto manda el navegador. Las pantallas lo usan para
- * no dibujar la barra en cero un instante antes del valor real.
+ * `cargando` es true hasta que responde la primera consulta. Las pantallas
+ * lo usan para no dibujar la barra en cero un instante antes del valor real.
+ *
+ * Se apoya en `useSyncExternalStore`, que es la API de React para leer algo
+ * que vive FUERA de React. Sirve para dos cosas de un golpe: no hace falta
+ * copiar el dato a un estado dentro de un efecto, y React sabe que en el
+ * servidor ese dato todavía no existe.
  */
 export function useProgresoGuia(): {
   leidas: ReadonlySet<string>
   cargando: boolean
 } {
-  const leidas = useSyncExternalStore(
+  const actuales = useSyncExternalStore(
     suscribir,
-    instantanea,
-    instantaneaDelServidor,
+    () => leidas,
+    () => VACIO,
   )
-  const enElNavegador = useSyncExternalStore(
-    noSuscribir,
-    () => true,
+  const listo = useSyncExternalStore(
+    suscribir,
+    () => yaSeConsulto,
     () => false,
   )
 
-  return { leidas, cargando: !enElNavegador }
+  return { leidas: actuales, cargando: !listo }
+}
+
+/**
+ * Olvida lo que hay en memoria y vuelve a preguntarle al servidor. No borra
+ * nada en la base. Útil si algún día hace falta refrescar tras un cambio de
+ * sesión.
+ */
+export function recargarProgresoGuia(): void {
+  yaSeConsulto = false
+  void traerDelServidor()
 }

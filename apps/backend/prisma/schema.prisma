@@ -51,6 +51,9 @@ model Usuario {
   sesionesCompletas SesionExamenCompleto[]
   intentos          IntentoExamen[]
   repasos           RepasoReactivo[]
+  respuestasPractica RespuestaPractica[]
+  actividadDiaria   ActividadDiaria[]
+  seccionesLeidas   SeccionLeida[]
   accesos           Acceso[]
   createdAt         DateTime               @default(now())
   updatedAt         DateTime               @updatedAt
@@ -139,12 +142,17 @@ model Reactivo {
   tipoTrampa        TipoTrampa?
   esCritico         Boolean             @default(false)
   noPuntua          Boolean             @default(false)
+  // Vínculo militar 🎖 del banco v3: metadato de diseño (el reactivo se ancla en
+  // lo castrense). Va en columna, NO en el enunciado — el 🎖 jamás debe verlo el
+  // aspirante. El importador lo setea y limpia el 🎖 del texto.
+  militar           Boolean             @default(false)
   subnota           String?
   marco             String?
   crossRef          String?
   imagenUrl         String?
   respuestas        RespuestaReactivo[]
   repasos           RepasoReactivo[]
+  respuestasPractica RespuestaPractica[]
   createdAt         DateTime            @default(now())
 }
 
@@ -350,6 +358,71 @@ model RepasoReactivo {
   @@unique([usuarioId, reactivoId])
   // La cola del día pregunta por (usuario, proximoRepaso <= ahora): este índice la hace barata.
   @@index([usuarioId, proximoRepaso])
+}
+
+/**
+ * Respuesta suelta de PRÁCTICA (Fase 04, sin cronómetro). A diferencia de
+ * RespuestaReactivo —que cuelga de un IntentoExamen (simulacro)—, la práctica no
+ * arma un intento: es estudio libre. Guardamos una fila por respuesta para tres
+ * cosas: saber que el aspirante "ya practicó" (onboarding), medir su dominio por
+ * tema (progreso) y sus días activos (racha).
+ */
+model RespuestaPractica {
+  id         Int      @id @default(autoincrement())
+  usuarioId  Int
+  usuario    Usuario  @relation(fields: [usuarioId], references: [id])
+  reactivoId Int
+  reactivo   Reactivo @relation(fields: [reactivoId], references: [id])
+  esCorrecta Boolean
+  createdAt  DateTime @default(now())
+
+  @@index([usuarioId])
+  @@index([usuarioId, createdAt])
+}
+
+/**
+ * Un día en que el aspirante estuvo activo (contestó ≥1 reactivo en práctica,
+ * simulacro o repaso). Alimenta la racha de días del panel. `fecha` es la fecha
+ * LOCAL de México ("AAAA-MM-DD"), para que la racha no se rompa a medianoche por
+ * UTC. Una fila por (usuario, día); el upsert la deja idempotente.
+ */
+model ActividadDiaria {
+  id        Int      @id @default(autoincrement())
+  usuarioId Int
+  usuario   Usuario  @relation(fields: [usuarioId], references: [id])
+  fecha     String   // "AAAA-MM-DD" en hora de México
+  createdAt DateTime @default(now())
+
+  @@unique([usuarioId, fecha])
+  @@index([usuarioId])
+}
+
+/**
+ * Una sección de la Guía del Aspirante que el usuario ya leyó.
+ *
+ * `slug` es texto y NO una llave foránea a propósito: las secciones de la Guía
+ * no viven en la base, son archivos .md en docs/guia-aspirante/, y el slug (el
+ * nombre del archivo sin extensión) es su identificador canónico. El índice
+ * `SECCIONES_ONLINE` del frontend es la fuente de verdad del catálogo.
+ *
+ * El @@unique de usuario+slug hace que marcar dos veces no duplique: el
+ * servicio usa upsert y se puede llamar sin miedo cada vez que se abre una
+ * sección.
+ *
+ * Se marca al ENTRAR a la sección, no al terminarla. Es una decisión de
+ * producto: desde el panel de resultados el aspirante entra a buscar un dato
+ * suelto y se sale sin bajar; medir el final dejaría la barra en cero para el
+ * uso más común. Por eso también hay forma de reiniciar el avance.
+ */
+model SeccionLeida {
+  id        Int      @id @default(autoincrement())
+  usuarioId Int
+  usuario   Usuario  @relation(fields: [usuarioId], references: [id])
+  slug      String
+  createdAt DateTime @default(now())
+
+  @@unique([usuarioId, slug])
+  @@index([usuarioId])
 }
 
 /**

@@ -6,7 +6,7 @@ import { HeaderPrivado } from '../../HeaderPrivado'
 import { GuardiaGuia } from '@/components/guia/GuardiaGuia'
 import { FondoGuia } from '@/components/guia/FondoGuia'
 import { MarkdownRenderer } from '@/components/guia/MarkdownRenderer'
-import { TocLateral } from '@/components/guia/TocLateral'
+import { TocLateral, TocMovil } from '@/components/guia/TocLateral'
 import { NavegacionSecciones } from '@/components/guia/NavegacionSecciones'
 import { MarcarLeida } from '@/components/guia/MarcarLeida'
 import { cargarMarkdownDeSeccion, extraerTitulosH2 } from '@/lib/guia-loader'
@@ -116,6 +116,11 @@ export default async function SeccionGuiaPage({
                   />
                 </span>
               </div>
+
+              {/* El índice de teléfono va FUERA de la rejilla a propósito: es
+                  pegajoso, y un elemento pegajoso sólo viaja dentro de la caja
+                  de su padre. Metido en la rejilla se quedaría clavado. */}
+              <TocMovil titulos={titulosH2} />
 
               {/* Contenido + TOC lateral */}
               <div className="grid grid-cols-1 gap-10 lg:grid-cols-[220px_1fr]">
