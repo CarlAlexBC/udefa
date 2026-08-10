@@ -16,6 +16,7 @@ import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { AlertCircle, CheckCircle2 } from 'lucide-react'
 import { API_URL } from '@/lib/api'
+import { FondoAuth } from '@/components/FondoAuth'
 
 /**
  * "Restablecer contraseña" — paso 2: llega desde el enlace del correo con
@@ -68,7 +69,9 @@ function RestablecerForm() {
   }
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-background px-6 py-12">
+    <main className="dark relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-background px-6 py-12">
+      <FondoAuth />
+      <div className="relative z-10 flex w-full flex-col items-center">
       <Link
         href="/"
         className="mb-8 flex items-center gap-3 opacity-90 transition-opacity hover:opacity-100"
@@ -83,7 +86,7 @@ function RestablecerForm() {
         <span className="text-sm font-semibold text-foreground">El Monote te Guía</span>
       </Link>
 
-      <Card className="w-full max-w-sm">
+      <Card className="w-full max-w-sm border-[#6B7530]/55 bg-[#2A2E16]/55 backdrop-blur-[3px]">
         {!token ? (
           // Llegó sin token (link mal copiado o entró directo).
           <>
@@ -171,6 +174,7 @@ function RestablecerForm() {
       <Link href="/" className="mt-6 text-xs text-muted-foreground hover:text-foreground">
         ← Volver a inicio
       </Link>
+      </div>
     </main>
   )
 }
