@@ -31,15 +31,17 @@ import {
  * que este chequeo es UX (evita mostrar el panel a quien no puede usarlo)
  * pero no es la barrera de seguridad real.
  *
- * VA OSCURO, y va DISTINTO del tablero a propósito.
+ * VA EN HOJA DE PLATA, y va DISTINTO del tablero a propósito: el tablero es
+ * oscuro y el panel claro. Es la separación más fuerte que hay, y le sienta al
+ * trabajo — una tabla larga se lee mejor con tinta oscura sobre claro.
  *
- * Bastan dos clases AQUÍ, juntas: `dark` voltea los tokens del sistema —fondo,
- * tarjetas, bordes, texto— y `panel-admin` (en globals.css) le cambia las
- * superficies a gris frío y aprieta los redondeos. Con eso las nueve pantallas
- * del panel cambiaron de piel sin tocar ninguna. Por eso importa que sigan
- * usando tokens (`bg-card`, `bg-muted`, `text-muted-foreground`) y no colores
- * escritos a mano: lo que se escribe a mano se queda claro cuando todo lo demás
- * se oscurece.
+ * Basta la clase `panel-admin` AQUÍ (los tonos están en globals.css): le cambia
+ * la crema del tema claro por gris plata y aprieta los redondeos, y con eso las
+ * nueve pantallas del panel cambiaron de piel sin tocar ninguna. Por eso importa
+ * que sigan usando tokens (`bg-card`, `bg-muted`, `text-muted-foreground`) y no
+ * colores escritos a mano: lo que se escribe a mano se queda fuera del cambio.
+ *
+ * NO lleva `dark`. Lo llevó un rato, cuando el panel se probó en grafito.
  *
  * SIN HALO NI SELLO, y esto no es que sobrara adorno: el sello se ancla en los
  * primeros 520 px de la derecha, que en el tablero es la tarjeta de saludo pero
@@ -50,6 +52,14 @@ import {
  * de Analítica (semáforo, sirven en los dos temas) y la portada de Temas
  * prioritarios, que necesita quedarse oscura pase lo que pase.
  */
+
+/**
+ * El ámbar neón del panel. Sólo para MARCAR, nunca para texto: sobre la plata
+ * da 2:1, así que como letra no se lee. Los dos lugares donde vive son el riel
+ * de arriba y la barrita del apartado abierto — el mismo color en los dos, para
+ * que se entiendan como una sola señal de «estás aquí».
+ */
+const NEON = '#FFA200'
 
 type Perfil = {
   id: number
@@ -207,7 +217,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
 
   if (estado === 'cargando' || estado === 'denegado') {
     return (
-      <div className="dark flex min-h-screen items-center justify-center bg-background">
+      <div className="panel-admin flex min-h-screen items-center justify-center bg-background">
         <div className="flex items-center gap-3 text-muted-foreground">
           <Loader2 className="h-5 w-5 animate-spin" />
           <p className="text-sm">
@@ -221,14 +231,25 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
   }
 
   return (
-    <div className="dark panel-admin relative flex min-h-screen flex-col bg-background">
-      {/* Tirita de latón pegada al borde de la VENTANA, no de la página: es el
+    <div className="panel-admin relative flex min-h-screen flex-col bg-background">
+      {/* Tira de NEÓN pegada al borde de la VENTANA, no de la página: es el
           recordatorio de que estás en el panel. Va fija porque el encabezado se
           va con el scroll, y a 300 renglones dentro del banco cultural el
-          letrero «Panel admin» de la barra lateral ya quedó lejísimos. */}
+          letrero «Panel admin» de la barra lateral ya quedó lejísimos.
+
+          Sobre claro no hay resplandor que valga —el brillo se pierde contra el
+          fondo—, así que el neón se consigue con SATURACIÓN: ámbar puro, y el
+          halo apenas como sombra tibia por debajo. Va escrito a mano y no con
+          `bg-accent` porque el acento del panel es el latón oscuro, el que se
+          puede leer como letra; éste es lo contrario, un color que sólo tiene
+          que gritar. */}
       <div
         aria-hidden
-        className="pointer-events-none fixed inset-x-0 top-0 z-50 h-0.5 bg-accent"
+        className="pointer-events-none fixed inset-x-0 top-0 z-50 h-[3px]"
+        style={{
+          backgroundColor: NEON,
+          boxShadow: `0 0 10px ${NEON}, 0 2px 16px rgba(255,162,0,0.45)`,
+        }}
       />
 
       <HeaderPrivado rol="admin" />
@@ -320,7 +341,8 @@ function ItemMenu({
       {active && (
         <span
           aria-hidden
-          className="absolute inset-y-1.5 left-0 w-1 rounded-full bg-military"
+          className="absolute inset-y-1 left-0 w-1 rounded-full"
+          style={{ backgroundColor: NEON, boxShadow: `0 0 8px ${NEON}` }}
         />
       )}
       <Icon className="h-4 w-4 shrink-0" />

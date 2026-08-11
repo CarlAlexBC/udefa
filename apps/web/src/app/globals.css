@@ -126,11 +126,12 @@
 }
 
 /**
- * Panel de admin — el cuarto de máquinas.
+ * Panel de admin — HOJA DE PLATA. El cuarto de máquinas.
  *
- * Va SIEMPRE junto a `.dark`, en el mismo elemento, y sólo le pisa a esos
- * tokens las superficies. Gana porque va después: las dos son clases sueltas,
- * así que a igual peso manda la última que se lee.
+ * Va SOLA, sin la clase `.dark`: el panel es la única zona clara que queda, y
+ * lo que hace esta clase es cambiarle la crema del tema claro por gris plata.
+ * Pasó por una versión oscura (grafito) antes de ésta; se cambió por decisión
+ * de Carlo.
  *
  * POR QUÉ SEPARARLO POR CLARIDAD Y NO POR COLOR. El tablero es aparador y el
  * panel es taller; si los dos se ven igual, no sabes de un vistazo si estás
@@ -138,29 +139,49 @@
  * color propio saldría caro: azul ya significa cultural, rojo psicológico,
  * verde la Guía y latón el acento. Un tono más y se acaba el vocabulario.
  *
- * Por eso el cambio es de temperatura: aquí las superficies son GRIS FRÍO y en
- * el tablero son carbón cálido (tira a café). Se nota al entrar y no gasta
- * ningún color.
+ * Aquí la separación es la más fuerte que hay —el tablero va oscuro y el panel
+ * claro— y encima le sienta al trabajo: una tabla de mil renglones se lee mejor
+ * con tinta oscura sobre claro.
  *
- * La tinta y los acentos NO se tocan: la letra crema, el latón y el oliva
- * siguen siendo los de siempre. Eso es lo que mantiene al panel dentro de la
- * misma casa en vez de volverlo otra app.
+ * LA PLATA ES FRÍA Y LA CREMA ES CÁLIDA: por eso no basta con reusar el tema
+ * claro. Todos los grises de aquí tiran a azul; la crema tira a amarillo.
+ *
+ * EL LATÓN SE OSCURECE, y no es capricho. El #C99A3B de siempre da 2.3:1 sobre
+ * claro, o sea que como letra chica no se lee. Aquí baja a #7A5619 (5.1:1). Y
+ * como el acento también se usa de RELLENO de botón (`bg-accent
+ * text-accent-foreground` en Reactivos y Usuarios), la letra de encima tiene que
+ * voltearse a crema — si se quedara oscura, esos botones darían 2.8:1.
+ *
+ * El neón no vive aquí: sobre claro no hay resplandor que valga, así que va
+ * como color saturado en el riel y en el apartado activo, escrito en el layout.
  *
  * `--radius` más chico aprieta TODOS los redondeos del panel de un solo golpe,
  * porque los demás se calculan a partir de él. En el aparador el aire vende;
  * en una tabla de mil renglones, el aire te hace bajar más.
  */
 .panel-admin {
-  --background: #131313;
-  --card: #1C1C1C;
-  --popover: #1C1C1C;
-  --muted: #222222;
-  --secondary: #2E2E2E;
-  --border: #333333;
-  --input: #333333;
-  --sidebar: #1C1C1C;
-  --sidebar-accent: #222222;
-  --sidebar-border: #333333;
+  --background: #DFE3E7;
+  --foreground: #14181C;
+  --card: #F4F6F8;
+  --card-foreground: #14181C;
+  --popover: #F4F6F8;
+  --popover-foreground: #14181C;
+  --primary: #14181C;
+  --primary-foreground: #F4F6F8;
+  --secondary: #C9CFD5;
+  --secondary-foreground: #14181C;
+  --muted: #D3D8DD;
+  --muted-foreground: #4F5760;
+  --accent: #7A5619;
+  --accent-foreground: #F7F3EA;
+  --border: #BFC6CD;
+  --input: #BFC6CD;
+  --ring: #7A5619;
+  --sidebar: #F4F6F8;
+  --sidebar-foreground: #14181C;
+  --sidebar-accent: #D3D8DD;
+  --sidebar-accent-foreground: #14181C;
+  --sidebar-border: #BFC6CD;
   --radius: 0.375rem;
 }
 
