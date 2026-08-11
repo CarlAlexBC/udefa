@@ -31,17 +31,16 @@ import {
  * que este chequeo es UX (evita mostrar el panel a quien no puede usarlo)
  * pero no es la barrera de seguridad real.
  *
- * VA EN HOJA DE PLATA, y va DISTINTO del tablero a propósito: el tablero es
- * oscuro y el panel claro. Es la separación más fuerte que hay, y le sienta al
- * trabajo — una tabla larga se lee mejor con tinta oscura sobre claro.
+ * VA EN HOJA DE PLATA OSCURA, y va DISTINTO del tablero a propósito: los dos
+ * son oscuros, pero el panel tira a azul y el tablero a café. Se nota al entrar
+ * sin gastar ningún color de la paleta.
  *
- * Basta la clase `panel-admin` AQUÍ (los tonos están en globals.css): le cambia
- * la crema del tema claro por gris plata y aprieta los redondeos, y con eso las
- * nueve pantallas del panel cambiaron de piel sin tocar ninguna. Por eso importa
- * que sigan usando tokens (`bg-card`, `bg-muted`, `text-muted-foreground`) y no
- * colores escritos a mano: lo que se escribe a mano se queda fuera del cambio.
- *
- * NO lleva `dark`. Lo llevó un rato, cuando el panel se probó en grafito.
+ * Bastan dos clases AQUÍ, juntas: `dark` voltea los tokens del sistema y
+ * `panel-admin` (en globals.css) enfría las superficies, las vuelve de vidrio y
+ * aprieta los redondeos. Con eso las nueve pantallas del panel cambiaron de
+ * piel sin tocar ninguna. Por eso importa que sigan usando tokens (`bg-card`,
+ * `bg-muted`, `text-muted-foreground`) y no colores escritos a mano: lo que se
+ * escribe a mano se queda fuera del cambio.
  *
  * SIN HALO NI SELLO, y esto no es que sobrara adorno: el sello se ancla en los
  * primeros 520 px de la derecha, que en el tablero es la tarjeta de saludo pero
@@ -54,10 +53,13 @@ import {
  */
 
 /**
- * El ámbar neón del panel. Sólo para MARCAR, nunca para texto: sobre la plata
- * da 2:1, así que como letra no se lee. Los dos lugares donde vive son el riel
- * de arriba y la barrita del apartado abierto — el mismo color en los dos, para
- * que se entiendan como una sola señal de «estás aquí».
+ * El ámbar neón del panel. Vive en dos lugares y nada más —el riel de arriba y
+ * la barrita del apartado abierto—, con el mismo color en los dos para que se
+ * entiendan como una sola señal de «estás aquí».
+ *
+ * Sólo MARCA, no escribe. Contraste le sobra para ser texto (8.9:1 sobre este
+ * fondo), pero el acento del panel es el latón: si el neón también fuera letra,
+ * habría dos dorados discutiendo cuál manda.
  */
 const NEON = '#FFA200'
 
@@ -217,7 +219,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
 
   if (estado === 'cargando' || estado === 'denegado') {
     return (
-      <div className="panel-admin flex min-h-screen items-center justify-center bg-background">
+      <div className="dark panel-admin flex min-h-screen items-center justify-center bg-background">
         <div className="flex items-center gap-3 text-muted-foreground">
           <Loader2 className="h-5 w-5 animate-spin" />
           <p className="text-sm">
@@ -231,28 +233,59 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
   }
 
   return (
-    <div className="panel-admin relative flex min-h-screen flex-col bg-background">
-      {/* Tira de NEÓN pegada al borde de la VENTANA, no de la página: es el
-          recordatorio de que estás en el panel. Va fija porque el encabezado se
-          va con el scroll, y a 300 renglones dentro del banco cultural el
-          letrero «Panel admin» de la barra lateral ya quedó lejísimos.
+    <div className="dark panel-admin relative flex min-h-screen flex-col bg-background">
+      {/* LA HOJA. Dos capas fijas a la ventana, no a la página: la lámina no se
+          arruga al hacer scroll, se queda quieta y el contenido corre encima.
 
-          Sobre claro no hay resplandor que valga —el brillo se pierde contra el
-          fondo—, así que el neón se consigue con SATURACIÓN: ámbar puro, y el
-          halo apenas como sombra tibia por debajo. Va escrito a mano y no con
-          `bg-accent` porque el acento del panel es el latón oscuro, el que se
-          puede leer como letra; éste es lo contrario, un color que sólo tiene
-          que gritar. */}
+          Abajo el degradado, que le quita lo plano al fondo. Encima la veta de
+          plata: una franja clara que cruza en diagonal, y es lo único que hace
+          que se lea METAL en vez de gris. Va al 5% —mucho más tenue que la de
+          la Guía— porque aquí le cruza por encima a tablas llenas de texto.
+
+          Esto funciona porque las tarjetas del panel son de VIDRIO (`--card`
+          con transparencia, en globals.css). Si fueran opacas, cada una taparía
+          la hoja y no se vería nada de esto. */}
+      <div
+        aria-hidden
+        className="pointer-events-none fixed inset-0 z-0"
+        style={{
+          backgroundImage:
+            'linear-gradient(135deg, #1B1F24 0%, #15181B 52%, #0F1113 100%)',
+        }}
+      />
+      <div
+        aria-hidden
+        className="pointer-events-none fixed inset-0 z-0"
+        style={{
+          backgroundImage:
+            'linear-gradient(118deg, transparent 26%, rgba(226,232,240,0.05) 45%, rgba(226,232,240,0.015) 55%, transparent 72%)',
+        }}
+      />
+
+      {/* Tira de NEÓN pegada al borde de la VENTANA: es el recordatorio de que
+          estás en el panel. Va fija porque el encabezado se va con el scroll, y
+          a 300 renglones dentro del banco cultural el letrero «Panel admin» de
+          la barra lateral ya quedó lejísimos.
+
+          Ahora que el panel es oscuro, el neón puede BRILLAR: ámbar saturado
+          más un halo que lo desborda. Cuando el panel se probó en claro, este
+          mismo halo no se veía —el brillo se pierde contra un fondo claro— y
+          el neón tenía que vivir sólo de la saturación. */}
       <div
         aria-hidden
         className="pointer-events-none fixed inset-x-0 top-0 z-50 h-[3px]"
         style={{
           backgroundColor: NEON,
-          boxShadow: `0 0 10px ${NEON}, 0 2px 16px rgba(255,162,0,0.45)`,
+          boxShadow: `0 0 10px ${NEON}, 0 3px 22px rgba(255,162,0,0.55)`,
         }}
       />
 
-      <HeaderPrivado rol="admin" />
+      {/* El encabezado también va en z-10. Sin eso se lo tragan las capas de la
+          hoja: son `fixed`, y un elemento posicionado se pinta por encima de
+          uno que va en el flujo normal aunque lleve z-index 0. */}
+      <div className="relative z-10">
+        <HeaderPrivado rol="admin" />
+      </div>
 
       <div className="relative z-10 mx-auto flex w-full max-w-6xl flex-1 gap-5 px-5 py-6">
         {/* Sidebar */}
