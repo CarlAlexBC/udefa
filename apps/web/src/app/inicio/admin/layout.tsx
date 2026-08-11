@@ -32,8 +32,8 @@ import {
  * pero no es la barrera de seguridad real.
  *
  * VA EN HOJA DE PLATA OSCURA, y va DISTINTO del tablero a propósito: los dos
- * son oscuros, pero el panel tira a azul y el tablero a café. Se nota al entrar
- * sin gastar ningún color de la paleta.
+ * son oscuros, pero el panel tira a verde y el tablero a café. Se nota al
+ * entrar sin gastar ningún color de la paleta.
  *
  * Bastan dos clases AQUÍ, juntas: `dark` voltea los tokens del sistema y
  * `panel-admin` (en globals.css) enfría las superficies, las vuelve de vidrio y
@@ -250,7 +250,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
         className="pointer-events-none fixed inset-0 z-0"
         style={{
           backgroundImage:
-            'linear-gradient(135deg, #1B1F24 0%, #15181B 52%, #0F1113 100%)',
+            'linear-gradient(135deg, #1C2320 0%, #151A17 52%, #0F1310 100%)',
         }}
       />
       <div
@@ -258,7 +258,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
         className="pointer-events-none fixed inset-0 z-0"
         style={{
           backgroundImage:
-            'linear-gradient(118deg, transparent 26%, rgba(226,232,240,0.05) 45%, rgba(226,232,240,0.015) 55%, transparent 72%)',
+            'linear-gradient(118deg, transparent 26%, rgba(228,240,231,0.05) 45%, rgba(228,240,231,0.015) 55%, transparent 72%)',
         }}
       />
 
