@@ -15,8 +15,14 @@ export default function AdminTemasPrioridadPage() {
       <HeaderPrivado />
 
       <div className="mx-auto max-w-6xl px-6 py-10">
-        {/* Hero card */}
-        <div className="relative overflow-hidden rounded-2xl bg-primary p-8 text-primary-foreground">
+        {/* Hero card.
+
+            Carbón escrito a mano y NO `bg-primary`/`text-primary-foreground`:
+            esos tokens se invierten con el tema (carbón sobre crema en claro,
+            latón sobre carbón en oscuro), así que al pasar el panel a oscuro
+            esta portada se volvía un bloque dorado. Aquí siempre es la placa
+            oscura con la letra crema. */}
+        <div className="relative overflow-hidden rounded-2xl bg-[#1C1A17] p-8 text-[#F7F3EA]">
           <div className="pointer-events-none absolute -top-16 -right-12 h-60 w-60 rounded-full bg-accent/15 blur-3xl" />
           <div className="relative">
             <span className="inline-flex items-center gap-1 rounded-full border border-military/40 bg-military/20 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-military-foreground">

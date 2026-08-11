@@ -30,6 +30,25 @@ import {
  * El backend también verifica con @Roles('admin') + RolesGuard, así
  * que este chequeo es UX (evita mostrar el panel a quien no puede usarlo)
  * pero no es la barrera de seguridad real.
+ *
+ * VA OSCURO, y va DISTINTO del tablero a propósito.
+ *
+ * Bastan dos clases AQUÍ, juntas: `dark` voltea los tokens del sistema —fondo,
+ * tarjetas, bordes, texto— y `panel-admin` (en globals.css) le cambia las
+ * superficies a gris frío y aprieta los redondeos. Con eso las nueve pantallas
+ * del panel cambiaron de piel sin tocar ninguna. Por eso importa que sigan
+ * usando tokens (`bg-card`, `bg-muted`, `text-muted-foreground`) y no colores
+ * escritos a mano: lo que se escribe a mano se queda claro cuando todo lo demás
+ * se oscurece.
+ *
+ * SIN HALO NI SELLO, y esto no es que sobrara adorno: el sello se ancla en los
+ * primeros 520 px de la derecha, que en el tablero es la tarjeta de saludo pero
+ * aquí son los primeros renglones de las tablas. Era una marca de agua encima
+ * de los datos. Una pantalla de trabajo se agradece callada.
+ *
+ * Las dos excepciones que ya existen son a propósito: los colores del gráfico
+ * de Analítica (semáforo, sirven en los dos temas) y la portada de Temas
+ * prioritarios, que necesita quedarse oscura pase lo que pase.
  */
 
 type Perfil = {
@@ -188,7 +207,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
 
   if (estado === 'cargando' || estado === 'denegado') {
     return (
-      <div className="flex min-h-screen items-center justify-center bg-background">
+      <div className="dark flex min-h-screen items-center justify-center bg-background">
         <div className="flex items-center gap-3 text-muted-foreground">
           <Loader2 className="h-5 w-5 animate-spin" />
           <p className="text-sm">
@@ -202,22 +221,31 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
   }
 
   return (
-    <div className="flex min-h-screen flex-col bg-background">
+    <div className="dark panel-admin relative flex min-h-screen flex-col bg-background">
+      {/* Tirita de latón pegada al borde de la VENTANA, no de la página: es el
+          recordatorio de que estás en el panel. Va fija porque el encabezado se
+          va con el scroll, y a 300 renglones dentro del banco cultural el
+          letrero «Panel admin» de la barra lateral ya quedó lejísimos. */}
+      <div
+        aria-hidden
+        className="pointer-events-none fixed inset-x-0 top-0 z-50 h-0.5 bg-accent"
+      />
+
       <HeaderPrivado rol="admin" />
 
-      <div className="mx-auto flex w-full max-w-6xl flex-1 gap-6 px-6 py-8">
+      <div className="relative z-10 mx-auto flex w-full max-w-6xl flex-1 gap-5 px-5 py-6">
         {/* Sidebar */}
-        <aside className="hidden w-56 shrink-0 md:block">
-          <div className="mb-3 flex items-center gap-2">
+        <aside className="hidden w-52 shrink-0 md:block">
+          <div className="mb-2.5 flex items-center gap-2">
             <div className="h-4 w-1 rounded bg-military" />
             <h2 className="text-[10px] font-bold uppercase tracking-widest text-muted-foreground">
               Panel admin
             </h2>
           </div>
-          <nav className="flex flex-col gap-5">
+          <nav className="flex flex-col gap-4">
             {NAV_GROUPS.map((grupo) => (
-              <div key={grupo.titulo} className="flex flex-col gap-1">
-                <p className="mb-1 px-3 text-[10px] font-semibold uppercase tracking-widest text-muted-foreground/70">
+              <div key={grupo.titulo} className="flex flex-col gap-0.5">
+                <p className="mb-1 px-2.5 text-[10px] font-semibold uppercase tracking-widest text-muted-foreground/70">
                   {grupo.titulo}
                 </p>
                 {grupo.items.map((item) => (
@@ -283,7 +311,7 @@ function ItemMenu({
     <Link
       href={item.href}
       className={cn(
-        'relative flex items-center gap-2 rounded-md px-3 py-2 text-sm transition-colors',
+        'relative flex items-center gap-2 rounded-md px-2.5 py-1.5 text-sm transition-colors',
         active
           ? 'bg-accent/10 font-semibold text-accent'
           : 'text-muted-foreground hover:bg-muted hover:text-foreground',

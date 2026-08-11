@@ -125,6 +125,45 @@
   --sidebar-ring: #C99A3B;
 }
 
+/**
+ * Panel de admin — el cuarto de máquinas.
+ *
+ * Va SIEMPRE junto a `.dark`, en el mismo elemento, y sólo le pisa a esos
+ * tokens las superficies. Gana porque va después: las dos son clases sueltas,
+ * así que a igual peso manda la última que se lee.
+ *
+ * POR QUÉ SEPARARLO POR CLARIDAD Y NO POR COLOR. El tablero es aparador y el
+ * panel es taller; si los dos se ven igual, no sabes de un vistazo si estás
+ * mirando lo que administras o lo que ve el aspirante. Pero darle al admin un
+ * color propio saldría caro: azul ya significa cultural, rojo psicológico,
+ * verde la Guía y latón el acento. Un tono más y se acaba el vocabulario.
+ *
+ * Por eso el cambio es de temperatura: aquí las superficies son GRIS FRÍO y en
+ * el tablero son carbón cálido (tira a café). Se nota al entrar y no gasta
+ * ningún color.
+ *
+ * La tinta y los acentos NO se tocan: la letra crema, el latón y el oliva
+ * siguen siendo los de siempre. Eso es lo que mantiene al panel dentro de la
+ * misma casa en vez de volverlo otra app.
+ *
+ * `--radius` más chico aprieta TODOS los redondeos del panel de un solo golpe,
+ * porque los demás se calculan a partir de él. En el aparador el aire vende;
+ * en una tabla de mil renglones, el aire te hace bajar más.
+ */
+.panel-admin {
+  --background: #131313;
+  --card: #1C1C1C;
+  --popover: #1C1C1C;
+  --muted: #222222;
+  --secondary: #2E2E2E;
+  --border: #333333;
+  --input: #333333;
+  --sidebar: #1C1C1C;
+  --sidebar-accent: #222222;
+  --sidebar-border: #333333;
+  --radius: 0.375rem;
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
