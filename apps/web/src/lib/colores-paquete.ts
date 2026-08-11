@@ -58,6 +58,25 @@ export const COLOR_PAQUETE_CLARO: Record<FamiliaColor, TonoPaquete> = {
  * Contrastes sobre carbón #161513: verde 8.60 · azul 7.17 · morado 6.84 ·
  * dorado 7.10 · rojo 6.83. Con letra oscura encima: de 6.73 a 8.44.
  */
+/**
+ * QUÉ COLOR LE TOCA A CADA MÓDULO. Este es el mapa semántico, y el único
+ * lugar donde se decide.
+ *
+ * Antes esta correspondencia estaba repetida en /precios, /muestra, /comprar
+ * y el tablero, así que cambiar de opinión sobre un color obligaba a editar
+ * cuatro archivos y era fácil dejar uno atrás. Aquí se cambia una vez.
+ *
+ * Lo que el color significa para el aspirante: el que compró viendo rojo su
+ * paquete Psicológico ve rojo también en sus fases y en su Guía. El color le
+ * dice de qué examen es cada cosa, sin tener que leer la etiqueta.
+ */
+export const COLOR_DE_MODULO = {
+  gratis: 'verde',
+  cultural: 'azul',
+  psicologico: 'rojo',
+  completa: 'dorado',
+} as const satisfies Record<string, FamiliaColor>
+
 export const COLOR_PAQUETE_OSCURO: Record<FamiliaColor, TonoPaquete> = {
   verde: { c: '#8FBF7A', on: '#0F1A0C' },
   azul: { c: '#6FA8D6', on: '#0D1620' },

@@ -24,7 +24,7 @@ import {
   ShieldCheck,
 } from 'lucide-react'
 import { FondoAuth } from '@/components/FondoAuth'
-import { COLOR_PAQUETE_OSCURO } from '@/lib/colores-paquete'
+import { COLOR_PAQUETE_OSCURO, COLOR_DE_MODULO } from '@/lib/colores-paquete'
 
 // Ciclo vigente — mismo texto que /precios.
 const CICLO = '2027'
@@ -34,17 +34,20 @@ const MODELO_ACCESO = `Pago único · Acceso hasta finalizar la convocatoria ${C
 // (Explora) no compra, así que no vive aquí. Los precios y textos coinciden con
 // /precios; el backend es la fuente de la verdad del cobro.
 //
-// OJO CON LOS COLORES: son los MISMOS de /precios en identidad —azul para
-// Cultural, morado para Psicológica, latón para Completa— pero en otro tono,
-// y eso es a propósito. Esta pantalla es OSCURA (el `dark` de más abajo) y
-// /precios es clara, así que toma la tabla de tintes claros. El porqué, con
-// los números, está en colores-paquete.ts.
+// OJO CON LOS COLORES: qué color le toca a cada módulo NO se decide aquí, se
+// lee de COLOR_DE_MODULO. Así, cambiar de opinión sobre un color se hace en un
+// solo lugar y no en los cuatro archivos que lo pintan.
+//
+// Lo que sí es propio de esta pantalla es el TONO: es OSCURA (el `dark` de más
+// abajo) y /precios es clara, así que toma la tabla de tintes claros. Los tonos
+// profundos de allá no se leen sobre carbón. El porqué, con los números, está
+// en colores-paquete.ts.
 const PAQUETES = {
   cultural: {
     nombre: 'Preparación Cultural',
     subtitulo: 'Domina el examen académico',
     precio: '$999',
-    color: COLOR_PAQUETE_OSCURO.azul,
+    color: COLOR_PAQUETE_OSCURO[COLOR_DE_MODULO.cultural],
     icono: GraduationCap,
     incluye: [
       '+5,000 preguntas reales clasificadas por tema',
@@ -58,7 +61,7 @@ const PAQUETES = {
     nombre: 'Preparación Psicológica',
     subtitulo: 'Domina las 3 fases del examen',
     precio: '$1,999',
-    color: COLOR_PAQUETE_OSCURO.morado,
+    color: COLOR_PAQUETE_OSCURO[COLOR_DE_MODULO.psicologico],
     icono: Brain,
     incluye: [
       'Guías completas de las 3 fases',
@@ -72,7 +75,7 @@ const PAQUETES = {
     nombre: 'Preparación Completa',
     subtitulo: 'Todo lo que necesitas, en un solo lugar',
     precio: '$2,500',
-    color: COLOR_PAQUETE_OSCURO.dorado,
+    color: COLOR_PAQUETE_OSCURO[COLOR_DE_MODULO.completa],
     icono: ShieldCheck,
     incluye: [
       'TODO lo del paquete Cultural',

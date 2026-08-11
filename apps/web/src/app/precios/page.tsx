@@ -3,7 +3,11 @@ import Link from 'next/link'
 import { buttonVariants } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import { SiteFooter } from '@/components/legal/SiteFooter'
-import { COLOR_PAQUETE_CLARO, type TonoPaquete } from '@/lib/colores-paquete'
+import {
+  COLOR_PAQUETE_CLARO,
+  COLOR_DE_MODULO,
+  type TonoPaquete,
+} from '@/lib/colores-paquete'
 import { BotonPaquete } from './BotonPaquete'
 import {
   BadgeCheck,
@@ -196,7 +200,7 @@ export default function PreciosPage() {
           {/* CULTURAL */}
           <Paquete
             icono={<GraduationCap className="h-6 w-6" />}
-            color={COLOR.azul}
+            color={COLOR[COLOR_DE_MODULO.cultural]}
             badge="Para quienes presentan solo lo académico"
             nombre="Preparación Cultural"
             subtitulo="Domina el examen académico"
@@ -216,7 +220,7 @@ export default function PreciosPage() {
           {/* PSICOLÓGICA */}
           <Paquete
             icono={<Brain className="h-6 w-6" />}
-            color={COLOR.morado}
+            color={COLOR[COLOR_DE_MODULO.psicologico]}
             listón="Más popular"
             ctaFilled
             nombre="Preparación Psicológica"
