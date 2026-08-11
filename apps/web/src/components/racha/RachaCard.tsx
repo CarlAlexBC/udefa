@@ -8,12 +8,18 @@ import { Flame, Check } from 'lucide-react'
 /* ═══════════════════════════════════════════════════════════
    Tarjeta de racha de días (hábito, tipo Duolingo).
 
-   Baldosa OSCURA a propósito, con la paleta del mockup de Carlo
-   (dorado + verde militar sobre carbón). Es theme-invariant por diseño:
-   un degradado carbón que resalta tanto sobre la crema (tema claro) como
-   sobre el fondo carbón (tema oscuro, queda apenas más clara). El dorado y
-   el verde necesitan fondo oscuro para leerse, así que no usamos tokens
-   que cambian con el tema.
+   Baldosa OSCURA a propósito. No usa los tokens del sistema: es un degradado
+   carbón fijo, que se sostiene igual sobre la crema del tema claro que sobre
+   el carbón del oscuro. El acento necesita fondo oscuro para leerse, así que
+   tampoco puede depender del tema.
+
+   El acento es LATÓN, del mockup original de Carlo. Se probó en oliva cuando
+   el tablero se pintó de verde y se revirtió: el verde quedó en el ambiente
+   (halo y gafete), pero lo que siempre fue dorado sigue dorado.
+
+   LA FLAMA ES LA EXCEPCIÓN: va neón, rellena y con brillo, pero sólo mientras
+   la racha esté viva. Es el premio de la tarjeta y no debe repartirse; si el
+   neón se le presta a otra pieza, deja de significar «vas bien».
 
    Se oculta para el aspirante que nunca ha estudiado (rachaMaxima === 0):
    a ese lo guía "Empieza por aquí". La racha aparece —como recompensa— en
@@ -31,11 +37,36 @@ type Racha = {
 // La semana llega de lunes a domingo (7 días), así que el índice manda la letra.
 const ETIQUETAS = ['Lu', 'Ma', 'Mi', 'Ju', 'Vi', 'Sá', 'Do']
 
-const DORADO = '#C99A3B'
-const DORADO_CLARO = '#E6CF98'
+/**
+ * Los nombres son neutros a propósito —ACENTO, ACENTO_SUAVE y no DORADO— para
+ * que probar otro tono no obligue a renombrar nada. Ya pasó una vez.
+ *
+ * El verde de las casillas cumplidas es aparte: ése marca "estudiaste" y no
+ * cambia con el acento.
+ */
+const ACENTO = '#C99A3B'
+const ACENTO_SUAVE = '#E6CF98'
 const VERDE = '#6B7530'
 const CREMA = '#F7F3EA'
 const TENUE = '#9A9382'
+
+/**
+ * La flama es la ÚNICA cosa neón de la tarjeta, y sólo cuando la racha está
+ * viva: es el premio. El resto —etiqueta, número, casillas— se queda en latón.
+ *
+ * Va rellena de un degradado (oro arriba → naranja → rojo abajo) y no de un
+ * color plano, porque una flama de un solo tono se ve como calcomanía. El
+ * degradado es lo que la hace ver encendida.
+ *
+ * `ID_DEGRADADO` tiene que ser único en la página: un `fill="url(#id)"` agarra
+ * el PRIMER elemento con ese id del documento, así que un nombre genérico
+ * («fuego») se lo podría robar otro componente.
+ */
+const ID_DEGRADADO = 'racha-flama-neon'
+const NEON_BORDE = '#FFD98A'
+const NEON_HALO = 'rgba(255,120,0,0.30)'
+const NEON_BRILLO =
+  'drop-shadow(0 0 6px rgba(255,138,0,0.75)) drop-shadow(0 0 14px rgba(255,77,0,0.45))'
 
 export function RachaCard() {
   const [racha, setRacha] = useState<Racha | null>(null)
@@ -73,22 +104,38 @@ export function RachaCard() {
         {/* Número de días + flama */}
         <div className="flex items-center gap-4">
           <div className="relative flex h-14 w-14 shrink-0 items-center justify-center">
+            {/* El degradado del relleno vive en su propio <svg> de tamaño cero:
+                lucide sólo deja pasar `fill`, así que la única manera de meterle
+                algo que no sea un color plano es declararlo aparte y llamarlo
+                por id. El svg no ocupa lugar ni se ve. */}
+            <svg width="0" height="0" aria-hidden className="absolute">
+              <defs>
+                <linearGradient id={ID_DEGRADADO} x1="0" y1="0" x2="0" y2="1">
+                  <stop offset="0%" stopColor="#FFE8A3" />
+                  <stop offset="38%" stopColor="#FFB01F" />
+                  <stop offset="100%" stopColor="#FF4D00" />
+                </linearGradient>
+              </defs>
+            </svg>
             <div
               aria-hidden="true"
               className="pointer-events-none absolute inset-0 rounded-full blur-md"
-              style={{ background: viva ? 'rgba(201,154,59,0.25)' : 'transparent' }}
+              style={{ background: viva ? NEON_HALO : 'transparent' }}
             />
             <Flame
               className="relative h-11 w-11"
               strokeWidth={1.5}
-              style={{ color: viva ? DORADO : TENUE }}
-              fill={viva ? 'rgba(201,154,59,0.22)' : 'none'}
+              style={{
+                color: viva ? NEON_BORDE : TENUE,
+                filter: viva ? NEON_BRILLO : undefined,
+              }}
+              fill={viva ? `url(#${ID_DEGRADADO})` : 'none'}
             />
           </div>
           <div>
             <p
               className="text-[10px] font-bold uppercase tracking-widest"
-              style={{ color: DORADO }}
+              style={{ color: ACENTO }}
             >
               Tu racha de estudio
             </p>
@@ -157,7 +204,7 @@ function DiaCelda({
     <div className="flex flex-col items-center gap-1.5" title={titulo}>
       <span
         className="text-[9px] font-semibold uppercase tracking-wide"
-        style={{ color: esHoy ? DORADO_CLARO : TENUE }}
+        style={{ color: esHoy ? ACENTO_SUAVE : TENUE }}
       >
         {etiqueta}
       </span>
@@ -169,12 +216,12 @@ function DiaCelda({
           activo
             ? {
                 backgroundColor: VERDE,
-                boxShadow: esHoy ? `0 0 0 2px ${DORADO}` : undefined,
+                boxShadow: esHoy ? `0 0 0 2px ${ACENTO}` : undefined,
               }
             : {
                 backgroundColor: 'rgba(255,255,255,0.04)',
                 border: esHoy
-                  ? `2px solid ${DORADO}`
+                  ? `2px solid ${ACENTO}`
                   : '1px solid #3D3A34',
               }
         }
@@ -184,7 +231,7 @@ function DiaCelda({
         ) : esHoy ? (
           <span
             className="h-1.5 w-1.5 rounded-full"
-            style={{ backgroundColor: DORADO }}
+            style={{ backgroundColor: ACENTO }}
           />
         ) : null}
       </div>
