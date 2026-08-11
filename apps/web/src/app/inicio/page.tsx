@@ -9,7 +9,9 @@ import { Button, buttonVariants } from '@/components/ui/button'
 import { HeaderPrivado } from './HeaderPrivado'
 import { EmpiezaPorAqui } from '@/components/onboarding/EmpiezaPorAqui'
 import { RachaCard } from '@/components/racha/RachaCard'
+import { FondoGuia } from '@/components/guia/FondoGuia'
 import { logoDePlantel } from '@/lib/planteles'
+import { COLOR_PAQUETE_OSCURO, COLOR_DE_MODULO } from '@/lib/colores-paquete'
 import { MATERIAS_CULTURAL_POR_PLANTEL, unirMaterias } from '@/lib/instrucciones-bloques'
 import {
   AlertCircle,
@@ -25,6 +27,24 @@ import {
   TrendingUp,
   UserCircle,
 } from 'lucide-react'
+
+/**
+ * El tablero va OSCURO, con el mismo traje del índice de la Guía: carbón,
+ * halo, sello tenue detrás y tarjetas de vidrio.
+ *
+ * Basta la clase `dark` en el envoltorio: voltea los tokens del sistema
+ * —fondo, tarjetas, bordes, texto— a su versión oscura, y por eso las decenas
+ * de tarjetas de esta pantalla no hubo que tocarlas una por una.
+ *
+ * EL LATÓN SE QUEDA LATÓN. Hubo un intento de pisar `--accent` con oliva para
+ * teñir todo de verde; se revirtió por decisión de Carlo: lo que siempre fue
+ * dorado sigue dorado. El verde vive en el ambiente —el halo y el gafete del
+ * saludo— y en la tarjeta de la Guía; no en los acentos.
+ *
+ * OJO con `bg-primary`: ese token NO significa lo mismo en los dos temas
+ * (carbón en claro, latón en oscuro). Cualquier bloque que deba verse oscuro
+ * pase lo que pase necesita su color escrito, no ese token.
+ */
 
 /**
  * Estado del candado (muro de pago) para el usuario. `candadoActivo` dice si el
@@ -105,7 +125,7 @@ export default function InicioPage() {
 
   if (error) {
     return (
-      <div className="flex min-h-screen items-center justify-center bg-background p-6">
+      <div className="dark flex min-h-screen items-center justify-center bg-background p-6">
         <div className="max-w-md rounded-xl border border-destructive/30 bg-destructive/10 p-6 text-center">
           <AlertCircle className="mx-auto mb-2 h-6 w-6 text-destructive" />
           <p className="font-semibold text-destructive">
@@ -119,7 +139,7 @@ export default function InicioPage() {
 
   if (!perfil) {
     return (
-      <div className="flex min-h-screen items-center justify-center bg-background">
+      <div className="dark flex min-h-screen items-center justify-center bg-background">
         <div className="flex items-center gap-3 text-muted-foreground">
           <Loader2 className="h-5 w-5 animate-spin" />
           <p className="text-sm">Cargando tu perfil...</p>
@@ -131,7 +151,7 @@ export default function InicioPage() {
   // Usuario sin plantel asignado (legacy) — obligamos a elegir uno antes de continuar.
   if (!perfil.plantel) {
     return (
-      <div className="flex-1 bg-background">
+      <div className="dark flex-1 bg-background">
         <HeaderPrivado rol={perfil.rol} />
         <SelectorPlantelLegacy nombre={perfil.nombre} onAsignado={cargarPerfil} />
       </div>
@@ -139,7 +159,7 @@ export default function InicioPage() {
   }
 
   return (
-    <div className="flex-1 bg-background">
+    <div className="dark flex-1 bg-background">
       <HeaderPrivado rol={perfil.rol} />
       <Dashboard
         perfil={perfil}
@@ -199,19 +219,96 @@ function Dashboard({
   const hrefPaso3 = '/inicio/avance'
 
   return (
-    <main className="mx-auto max-w-5xl px-6 py-12">
-      {/* Saludo personalizado */}
-      <div className="mb-8">
-        <p className="text-xs font-semibold uppercase tracking-widest text-military">
-          Bienvenido de vuelta
-        </p>
-        <h1 className="mt-1 text-3xl font-semibold tracking-tight text-foreground">
-          Hola, {perfil.nombre.split(' ')[0]}
-        </h1>
-        <p className="mt-2 text-sm text-muted-foreground">
-          Preparándote para <span className="font-medium text-foreground">{plantel.nombre}</span>.
-        </p>
-      </div>
+    <div className="relative">
+      {/* Halo oliva + sello de la Rectoría, igual que el índice de la Guía.
+          El componente vive en components/guia porque ahí nació; si lo llega a
+          usar una tercera pantalla, conviene sacarlo de esa carpeta. */}
+      <FondoGuia tono="oliva" sello="udefa" />
+
+      <main className="relative z-10 mx-auto max-w-5xl px-6 py-12">
+        {/* Saludo + plantel en UN solo bloque. Antes eran dos tarjetas y
+            repetían el mismo dato: el saludo decía "Preparándote para X" y
+            debajo venía otra tarjeta a decir X otra vez, con su escudo. Ahora
+            el escudo acompaña al saludo y el lema hace de subtítulo. */}
+        <div
+          className={cn(
+            'mb-8 grid grid-cols-1 overflow-hidden rounded-2xl border border-[#6B7530]/30 bg-white/[0.02]',
+            // La columna del escudo sólo se reserva si el plantel TIENE escudo;
+            // si no, el texto se queda con la tarjeta entera en vez de dejar un
+            // hueco de 220 px.
+            logoDePlantel(plantel.nombre) && 'sm:grid-cols-[220px_1fr]',
+          )}
+        >
+          {/* EL ESCUDO VA A LA IZQUIERDA, en su propio panel de altura completa
+              —no como estampita en la esquina—. Es lo primero que ve el
+              aspirante y es de lo suyo: la escuela a la que se prepara.
+
+              EL PANEL VA OSCURO Y LISO, Y EL DORADO ES LUZ, NO RELLENO. Pasó
+              por dos versiones antes de ésta: rayado diagonal (se quitó) y
+              panel de latón macizo (se probó y no era). Lo que Carlo aprobó es
+              el escudo iluminado por detrás sobre negro, como sello en vitrina.
+
+              El dorado son tres capas, y el orden importa: el resplandor
+              redondo detrás, el aro de latón en el filo y el halo apretado por
+              fuera. Ninguna de las tres pinta el fondo — por eso el escudo
+              manda y el panel sólo lo sostiene.
+
+              El recorte redondo se come las esquinas negras del PNG, no el
+              sello: el aro dorado va inscrito en el cuadro, así que queda
+              entero.
+
+              Se esconde en pantalla angosta: ahí el saludo importa más que el
+              adorno. */}
+          {logoDePlantel(plantel.nombre) && (
+            <div className="relative hidden items-center justify-center overflow-hidden border-r border-[#C99A3B]/20 bg-[#0B0A08] p-6 sm:flex">
+              <div
+                aria-hidden
+                className="pointer-events-none absolute inset-0"
+                style={{
+                  backgroundImage:
+                    'radial-gradient(circle at 50% 50%, rgba(201,154,59,0.28) 0%, rgba(201,154,59,0.10) 42%, transparent 68%)',
+                }}
+              />
+              {/* El aro y el halo van JUNTOS en una sola `boxShadow`, y no el
+                  aro con `ring-1`: esa clase de Tailwind también se dibuja con
+                  box-shadow, así que un estilo en línea la pisa y el aro
+                  desaparece sin avisar. */}
+              <div
+                className="relative flex h-32 w-32 items-center justify-center overflow-hidden rounded-full"
+                style={{
+                  boxShadow:
+                    'inset 0 0 0 1px rgba(201,154,59,0.70), 0 0 26px -4px rgba(201,154,59,0.45)',
+                }}
+              >
+                <Image
+                  src={logoDePlantel(plantel.nombre)!}
+                  alt={`Escudo de ${plantel.nombre}`}
+                  width={192}
+                  height={192}
+                  className="h-full w-full object-cover"
+                />
+              </div>
+            </div>
+          )}
+
+          <div className="min-w-0 p-7">
+            <span className="inline-flex items-center rounded-full border border-[#6B7530]/60 bg-[#4B5121]/40 px-3.5 py-1.5 text-[0.7rem] font-semibold uppercase tracking-[0.2em] text-[#E4E0CF]">
+              Bienvenido de vuelta
+            </span>
+            <h1 className="mt-4 text-3xl font-semibold tracking-tight text-foreground">
+              Hola, {perfil.nombre.split(' ')[0]}
+            </h1>
+            <p className="mt-2 text-sm text-muted-foreground">
+              Preparándote para{' '}
+              <span className="font-medium text-foreground">{plantel.nombre}</span>.
+            </p>
+            {plantel.descripcion && (
+              <p className="mt-1 text-sm italic text-muted-foreground">
+                &laquo;{plantel.descripcion}&raquo;
+              </p>
+            )}
+          </div>
+        </div>
 
       {/* Empieza por aquí — la ruta de primeros pasos; sólo la ve el aspirante
           nuevo (sin exámenes hechos todavía). */}
@@ -219,9 +316,6 @@ function Dashboard({
 
       {/* Racha de días (hábito). Se auto-oculta si el aspirante nunca ha estudiado. */}
       <RachaCard />
-
-      {/* Card del plantel — con logo oficial */}
-      <PlantelHeroCard plantel={plantel} />
 
       {/* Repaso espaciado — la "capa verde". Sólo aparece si el aspirante ya
           tiene cola sembrada (hizo al menos un simulacro cultural). */}
@@ -231,13 +325,22 @@ function Dashboard({
           el caso de "todavía sin datos". */}
       <Link
         href="/inicio/avance"
-        className="group mb-8 flex items-center gap-4 rounded-xl border border-border bg-card p-5 shadow-sm transition-colors hover:border-accent"
+        className="group relative mb-8 flex items-center gap-4 overflow-hidden rounded-xl border border-[#6B7530]/45 bg-[#4B5121]/[0.12] p-5 transition-all hover:-translate-y-0.5 hover:border-[#6B7530] hover:bg-[#4B5121]/20 hover:shadow-lg hover:shadow-[#4B5121]/20"
       >
-        <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-military/10">
-          <TrendingUp className="h-5 w-5 text-military" />
+        {/* Esta va en oliva y la de repaso en latón: son dos cosas distintas y
+            el color las separa de un vistazo, sin tener que leer la etiqueta. */}
+        <div
+          aria-hidden
+          className="pointer-events-none absolute -top-10 -right-10 h-40 w-40 rounded-full bg-[#6B7530]/25 opacity-70 blur-2xl transition-opacity group-hover:opacity-100"
+        />
+        <div className="relative flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-[#4B5121]/40 ring-1 ring-[#6B7530]/50">
+          <TrendingUp className="h-5 w-5 text-[#AEBE55]" />
         </div>
-        <div className="flex-1">
-          <p className="text-[10px] font-bold uppercase tracking-widest text-military">
+        <div className="relative flex-1">
+          {/* Oliva CLARO y no el token `military`: en oscuro ese token vale
+              #6B7530, que sobre carbón da 3.6:1 — por debajo de lo legible
+              para una etiqueta de 10 píxeles. */}
+          <p className="text-[10px] font-bold uppercase tracking-widest text-[#AEBE55]">
             Tu avance
           </p>
           <p className="mt-0.5 font-semibold text-foreground">Mira cómo vas por tema</p>
@@ -245,7 +348,7 @@ function Dashboard({
             Tus materias con semáforo: qué dominas y qué reforzar.
           </p>
         </div>
-        <ArrowRight className="hidden h-5 w-5 shrink-0 text-accent transition-transform group-hover:translate-x-1 md:block" />
+        <ArrowRight className="relative hidden h-5 w-5 shrink-0 text-[#AEBE55] transition-transform group-hover:translate-x-1 md:block" />
       </Link>
 
       {/* CTAs principales: los dos exámenes simuladores completos.
@@ -294,25 +397,28 @@ function Dashboard({
           <ExamenCTA
             href="/inicio/simulador/1"
             fase="Fase 01"
+            modulo="psicologico"
             titulo="Psicométrico"
             descripcion="4 bloques de 10 min con temporizador. Analogías, sinónimos, razonamiento lógico y abstracto."
-            icono={<Brain className="h-5 w-5 text-accent" />}
+            icono={<Brain className="h-5 w-5" />}
             bloqueado={bloqueadoPsico}
           />
           <ExamenCTA
             href="/inicio/simulador/2"
             fase="Fase 02"
+            modulo="psicologico"
             titulo="Personalidad"
             descripcion="256 reactivos sobre rasgos de personalidad. No hay respuestas correctas: el sistema mide la coherencia de tu perfil."
-            icono={<UserCircle className="h-5 w-5 text-accent" />}
+            icono={<UserCircle className="h-5 w-5" />}
             bloqueado={bloqueadoPsico}
           />
           <ExamenCTA
             href="/inicio/simulador/3"
             fase="Fase 03"
+            modulo="psicologico"
             titulo="Axiológico"
             descripcion="39 reactivos sobre valores militares. Responde con honestidad; se evalúa si tu perfil de valores encaja."
-            icono={<Scale className="h-5 w-5 text-accent" />}
+            icono={<Scale className="h-5 w-5" />}
             bloqueado={bloqueadoPsico}
           />
           {/* El simulador cultural completo vive arriba, con el psicológico.
@@ -324,17 +430,19 @@ function Dashboard({
             <ExamenCTA
               href="/inicio/practica-cultural"
               fase="Fase 04"
+            modulo="cultural"
               titulo="Cultural por materia"
               descripcion={`Practica sólo ${unirMaterias(materiasCultural, 'o')}, sin cronómetro y con la referencia del libro a la mano.`}
-              icono={<BookOpen className="h-5 w-5 text-accent" />}
+              icono={<BookOpen className="h-5 w-5" />}
               bloqueado={bloqueadoCultural}
             />
           ) : (
             <ExamenCTA
               fase="Fase 04"
+            modulo="cultural"
               titulo="Cultural por materia"
               descripcion={`Practica sólo ${unirMaterias(materiasCultural, 'o')}, sin cronómetro y con la referencia del libro a la mano.`}
-              icono={<BookOpen className="h-5 w-5 text-accent" />}
+              icono={<BookOpen className="h-5 w-5" />}
               proximamente
             />
           )}
@@ -376,29 +484,66 @@ function Dashboard({
             </span>
           </Link>
         ) : (
+          /* La Guía es VERDE PLATA OSCURO — se quedó con el verde que antes
+             llevaban las fases psicológicas, ahora que ésas se fueron al rojo.
+             Así el verde no se pierde del tablero y queda donde manda: Carlo
+             considera la Guía el recurso más importante del producto, por
+             encima de los simuladores.
+
+             Antes era crema (la única cosa clara de toda la pantalla). Se
+             cambió por decisión de Carlo: la fusión plata + verde, pero
+             ganando la parte oscura.
+
+             GANA LO OSCURO, y eso es la regla de esta tarjeta: el degradado de
+             abajo se queda en olivas apagados de punta a punta, y la plata
+             entra sólo como una VETA encima —la capa de brillo— para que se
+             vea metal pulido sin aclarar la tarjeta. Si algún día se sube esa
+             veta, hay que volver a revisar el texto chico: la veta le come
+             contraste justo en la franja donde cruza. */
           <Link
             href="/inicio/guia"
-            className="group flex items-center gap-4 rounded-xl border border-border bg-card p-5 shadow-sm transition-colors hover:border-accent"
+            style={{
+              backgroundImage:
+                'linear-gradient(118deg, #1B2012 0%, #2A3119 30%, #414B29 52%, #2F361C 72%, #14170F 100%)',
+            }}
+            className="group relative flex flex-col gap-5 overflow-hidden rounded-2xl p-7 ring-1 ring-[#C6D2A8]/40 transition-all hover:-translate-y-0.5 hover:ring-[#C6D2A8]/70 hover:shadow-2xl hover:shadow-[#6B7530]/40 sm:flex-row sm:items-center"
           >
-            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-military/10">
-              <BookOpen className="h-5 w-5 text-military" />
+            {/* La veta de plata: una franja clara que cruza en diagonal, en la
+                misma dirección que el degradado. Es la que hace el metal. */}
+            <div
+              aria-hidden
+              className="pointer-events-none absolute inset-0"
+              style={{
+                backgroundImage:
+                  'linear-gradient(118deg, transparent 28%, rgba(228,233,216,0.18) 47%, rgba(228,233,216,0.05) 57%, transparent 72%)',
+              }}
+            />
+            <div className="relative flex h-14 w-14 shrink-0 items-center justify-center rounded-xl bg-[#101309] ring-1 ring-[#C6D2A8]/35">
+              <BookOpen className="h-7 w-7 text-[#C6D2A8]" />
             </div>
-            <div className="flex-1">
-              <p className="flex items-center gap-2 font-semibold text-foreground transition-colors group-hover:text-accent">
+            <div className="relative min-w-0 flex-1">
+              <span className="inline-flex items-center rounded-full bg-[#101309] px-3 py-1 text-[10px] font-bold uppercase tracking-[0.18em] text-[#D9E2C0]">
+                Tu recurso principal
+              </span>
+              <p className="mt-2.5 text-xl font-bold tracking-tight text-[#F2F5E9]">
                 Guía del Aspirante
-                <span className="inline-flex items-center gap-1 rounded-md bg-accent/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-accent">
-                  Manual completo online
-                </span>
               </p>
-              <p className="mt-1 text-sm text-muted-foreground">
-                El manual completo. Estrategias por bloque, marcos psicológicos, y cómo responder cada eje del examen.
+              <p className="mt-1 text-sm leading-relaxed text-[#CFD6BE]">
+                El manual completo. Estrategias por bloque, marcos psicológicos,
+                y cómo responder cada eje del examen.
               </p>
             </div>
-            <ArrowRight className="hidden h-4 w-4 text-accent transition-transform group-hover:translate-x-1 md:block" />
+            {/* Botón CLARO sobre tarjeta oscura: es lo único brillante de la
+                tarjeta, así que la mirada cae ahí sola. */}
+            <span className="relative inline-flex shrink-0 items-center gap-2 rounded-lg bg-[#D5DEBB] px-5 py-3 text-sm font-semibold text-[#161513]">
+              Abrir la Guía
+              <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+            </span>
           </Link>
         )}
       </section>
-    </main>
+      </main>
+    </div>
   )
 }
 
@@ -485,7 +630,12 @@ function SimuladorCompletoCTA({
   return (
     <Link
       href={href}
-      className="group relative flex items-center gap-5 overflow-hidden rounded-xl border-2 border-accent bg-primary p-5 text-primary-foreground transition-colors hover:bg-primary/90"
+      /* Carbón escrito a mano y NO `bg-primary`/`text-primary-foreground`: esos
+         tokens se invierten con el tema (carbón sobre crema en claro, latón
+         sobre carbón en oscuro), y al encender el modo oscuro estas dos
+         tarjetas se volvieron bloques dorados con el texto encima ilegible.
+         Aquí siempre deben ser la placa oscura con la letra crema. */
+      className="group relative flex items-center gap-5 overflow-hidden rounded-xl border-2 border-accent bg-[#1C1A17] p-5 text-[#F7F3EA] transition-all hover:-translate-y-0.5 hover:bg-[#232019] hover:shadow-lg hover:shadow-accent/15"
     >
       {contenido}
       <ArrowRight className="relative hidden h-5 w-5 shrink-0 text-accent transition-transform group-hover:translate-x-1 md:block" />
@@ -493,12 +643,72 @@ function SimuladorCompletoCTA({
   )
 }
 
+/**
+ * De qué módulo es la tarjeta. El color no decora: dice a cuál de los dos
+ * exámenes pertenece, y es el MISMO azul y morado que el aspirante vio en
+ * /precios y en la pantalla de pago. Así el hilo no se rompe entre lo que
+ * compró y lo que usa.
+ *
+ * Los tonos salen de la tabla compartida en su versión para fondo oscuro —
+ * los profundos de /precios no se leen sobre carbón.
+ */
+const TONO_MODULO = {
+  psicologico: COLOR_PAQUETE_OSCURO[COLOR_DE_MODULO.psicologico].c,
+  cultural: COLOR_PAQUETE_OSCURO[COLOR_DE_MODULO.cultural].c,
+} as const
+
+/**
+ * Acabado metálico de las tarjetas de fase: un acento PLATEADO —rojo plata
+ * para lo psicológico, azul plata para lo cultural— sobre un degradado que
+ * corre en diagonal y se apaga hacia la esquina.
+ *
+ * Los plateados son versiones muy aclaradas del color del módulo. Sobre
+ * carbón dan 9.5:1 y 10.3:1, así que la etiqueta chica se lee sin esfuerzo
+ * — el tono pleno del módulo, a 10 píxeles, costaba trabajo.
+ *
+ * EL PSICOLÓGICO VA ROJO, NO VERDE. Su color de módulo ya era rojo en la
+ * tabla de paquetes (COLOR_DE_MODULO), pero aquí se había quedado el verde
+ * viejo: el aspirante compraba viendo rojo y adentro le salía oliva.
+ *
+ * LOS DOS LLEVAN LA MISMA RECETA — mismas paradas, mismas transparencias, sólo
+ * cambia el color. Hubo un intento de darle al rojo un degradado propio, más
+ * cargado (una banda de rojo profundo cruzando la tarjeta); se veía sucio y
+ * Carlo lo rechazó. El acabado del cultural es el bueno: el fondo casi no se
+ * nota y quien hace el trabajo es el acento.
+ *
+ * EL NEÓN NO VA EN EL FONDO, VA EN LA LUZ. Por eso el rojo levanta sólo tres
+ * cosas —acento más encendido, borde un punto más vivo y `sombra`— en vez de
+ * oscurecer el relleno. `sombra` es un halo apretado por fuera del borde:
+ * radio corto y en negativo para que sea brillo, no niebla. El cultural la
+ * lleva vacía (sólo el filo de luz de arriba) y se queda sobrio.
+ */
+const ACABADO_MODULO = {
+  psicologico: {
+    acento: '#FF8A8A',
+    borde: 'rgba(255,138,138,0.38)',
+    fondo:
+      'linear-gradient(135deg, rgba(255,138,138,0.15) 0%, rgba(166,40,40,0.14) 45%, rgba(255,255,255,0.02) 100%)',
+    resplandor: 'rgba(255,138,138,0.30)',
+    sombra:
+      '0 0 18px -6px rgba(255,110,110,0.55), 0 0 0 1px rgba(255,138,138,0.10), inset 0 1px 0 rgba(255,255,255,0.06)',
+  },
+  cultural: {
+    acento: '#A8C6DE',
+    borde: 'rgba(168,198,222,0.28)',
+    fondo:
+      'linear-gradient(135deg, rgba(168,198,222,0.15) 0%, rgba(31,78,121,0.14) 45%, rgba(255,255,255,0.02) 100%)',
+    resplandor: 'rgba(168,198,222,0.22)',
+    sombra: 'inset 0 1px 0 rgba(255,255,255,0.04)',
+  },
+} as const
+
 function ExamenCTA({
   href,
   fase,
   titulo,
   descripcion,
   icono,
+  modulo,
   proximamente = false,
   bloqueado = false,
 }: {
@@ -508,11 +718,15 @@ function ExamenCTA({
   titulo: string
   descripcion: string
   icono: React.ReactNode
+  /** Módulo al que pertenece; manda el color de la tarjeta. */
+  modulo: keyof typeof TONO_MODULO
   /** Fase en desarrollo: renderiza card atenuada, no navegable, con badge. */
   proximamente?: boolean
   /** Candado activo y módulo sin comprar: la tarjeta lleva a /precios. */
   bloqueado?: boolean
 }) {
+  const tono = TONO_MODULO[modulo]
+  const acabado = ACABADO_MODULO[modulo]
   if (proximamente) {
     return (
       <div
@@ -573,19 +787,51 @@ function ExamenCTA({
   return (
     <Link
       href={href!}
-      className="group flex flex-col rounded-xl border border-border bg-card p-5 shadow-sm transition-colors hover:border-accent"
+      /* El color del módulo va por estilo en línea y no por clase: Tailwind
+         no puede generar clases a partir de un valor que se decide al vuelo. */
+      style={{
+        borderColor: acabado.borde,
+        backgroundImage: acabado.fondo,
+        boxShadow: acabado.sombra,
+      }}
+      className="group relative flex flex-col overflow-hidden rounded-xl border p-5 transition-all hover:-translate-y-0.5 hover:shadow-lg"
     >
-      <div className="mb-3 flex h-10 w-10 items-center justify-center rounded-lg bg-accent/10">
+      {/* El resplandor del psicológico se ve DESDE EL PRINCIPIO (no sólo al
+          pasar el mouse) y crece al acercarse: es lo que lo hace saltar de la
+          fila. En el móvil no hay mouse, así que si dependiera del hover no se
+          vería nunca. El cultural sigue apagado hasta el hover. */}
+      <div
+        aria-hidden
+        className={cn(
+          'pointer-events-none absolute -top-10 -right-10 h-32 w-32 rounded-full blur-2xl transition-opacity group-hover:opacity-100',
+          modulo === 'psicologico' ? 'opacity-70' : 'opacity-0',
+        )}
+        style={{ backgroundColor: acabado.resplandor }}
+      />
+      <div
+        className="relative mb-3 flex h-10 w-10 items-center justify-center rounded-lg"
+        style={{
+          color: acabado.acento,
+          backgroundColor: `${tono}26`,
+          boxShadow: `inset 0 0 0 1px ${acabado.borde}`,
+        }}
+      >
         {icono}
       </div>
-      <p className="text-[10px] font-bold uppercase tracking-widest text-military">
+      <p
+        className="relative text-[10px] font-bold uppercase tracking-widest"
+        style={{ color: acabado.acento }}
+      >
         {fase}
       </p>
-      <h3 className="mt-1 font-semibold text-foreground">{titulo}</h3>
-      <p className="mt-1 flex-1 text-sm text-muted-foreground">
+      <h3 className="relative mt-1 font-semibold text-foreground">{titulo}</h3>
+      <p className="relative mt-1 flex-1 text-sm text-muted-foreground">
         {descripcion}
       </p>
-      <div className="mt-3 flex items-center gap-1 text-xs font-semibold text-accent">
+      <div
+        className="relative mt-3 flex items-center gap-1 text-xs font-semibold"
+        style={{ color: acabado.acento }}
+      >
         Iniciar simulador
         <ArrowRight className="h-3 w-3 transition-transform group-hover:translate-x-0.5" />
       </div>
@@ -637,12 +883,19 @@ function RepasoHoyCard() {
   return (
     <Link
       href="/inicio/repaso"
-      className="group mb-8 flex items-center gap-4 rounded-xl border-2 border-accent bg-accent/5 p-5 transition-colors hover:bg-accent/10"
+      /* Misma receta que las tarjetas de simulador, que son las que no se ven
+         planas: resplandor difuminado en la esquina, placa de ícono con fondo
+         de acento, y la tarjeta se levanta un poco al pasar el mouse. */
+      className="group relative mb-8 flex items-center gap-4 overflow-hidden rounded-xl border border-accent/60 bg-accent/[0.07] p-5 transition-all hover:-translate-y-0.5 hover:border-accent hover:bg-accent/[0.12] hover:shadow-lg hover:shadow-accent/10"
     >
-      <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-accent/20">
+      <div
+        aria-hidden
+        className="pointer-events-none absolute -top-10 -right-10 h-40 w-40 rounded-full bg-accent/20 opacity-70 blur-2xl transition-opacity group-hover:opacity-100"
+      />
+      <div className="relative flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-accent/20 ring-1 ring-accent/40">
         <Repeat className="h-5 w-5 text-accent" />
       </div>
-      <div className="flex-1">
+      <div className="relative flex-1">
         <p className="text-[10px] font-bold uppercase tracking-widest text-accent">
           Repaso de hoy
         </p>
@@ -653,68 +906,11 @@ function RepasoHoyCard() {
           Repásalos con corrección inmediata y la cita del libro.
         </p>
       </div>
-      <ArrowRight className="hidden h-5 w-5 shrink-0 text-accent transition-transform group-hover:translate-x-1 md:block" />
+      <ArrowRight className="relative hidden h-5 w-5 shrink-0 text-accent transition-transform group-hover:translate-x-1 md:block" />
     </Link>
   )
 }
 
-/* ═══════════════════════════════════════════════════════════
-   Sub-componente: hero card del plantel elegido por el usuario
-   Muestra el logo oficial cuando existe, si no un placeholder.
-   ═══════════════════════════════════════════════════════════ */
-function PlantelHeroCard({ plantel }: { plantel: Plantel }) {
-  const logoSrc = logoDePlantel(plantel.nombre)
-  return (
-    <article className="mb-8 overflow-hidden rounded-xl border border-border bg-card shadow-sm">
-      <div className="grid grid-cols-1 md:grid-cols-[220px_1fr]">
-        <div className="relative flex items-center justify-center overflow-hidden bg-primary p-6 md:h-full">
-          <div
-            className="pointer-events-none absolute inset-0"
-            style={{
-              backgroundImage:
-                'repeating-linear-gradient(45deg, transparent, transparent 12px, rgba(201,154,59,0.06) 12px, rgba(201,154,59,0.06) 24px)',
-            }}
-          />
-          {logoSrc ? (
-            <div className="relative">
-              <div
-                aria-hidden="true"
-                className="pointer-events-none absolute inset-0 -m-2 rounded-full bg-accent/25 blur-xl"
-              />
-              <div className="relative flex h-32 w-32 items-center justify-center overflow-hidden rounded-full ring-1 ring-accent/40 shadow-lg">
-                <Image
-                  src={logoSrc}
-                  alt={`Escudo de ${plantel.nombre}`}
-                  width={160}
-                  height={160}
-                  className="h-full w-full object-cover"
-                />
-              </div>
-            </div>
-          ) : (
-            <div className="relative flex flex-col items-center gap-1 text-center">
-              <Star className="h-6 w-6 text-accent" />
-              <p className="text-[10px] font-semibold uppercase tracking-widest text-accent">
-                Tu plantel elegido
-              </p>
-            </div>
-          )}
-        </div>
-        <div className="p-5">
-          <p className="text-[10px] font-semibold uppercase tracking-widest text-military">
-            Tu plantel elegido
-          </p>
-          <h2 className="mt-1 text-lg font-semibold text-foreground">
-            {plantel.nombre}
-          </h2>
-          <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
-            {plantel.descripcion}
-          </p>
-        </div>
-      </div>
-    </article>
-  )
-}
 
 /* ═══════════════════════════════════════════════════════════
    Sub-componente: selector para usuarios legacy sin plantel
