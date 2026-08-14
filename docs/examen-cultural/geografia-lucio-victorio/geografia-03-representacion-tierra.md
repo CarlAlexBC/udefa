@@ -28,7 +28,7 @@ El resto de la Unidad III —la representación de la Tierra propiamente dicha: 
 
 El 3.1 vuelve sobre medidas de la Tierra que la **Unidad II ya cubrió** desde el Cuadro 2.5 de la p.67 (`geografia-02-ubicacion-tierra-universo.md`). Para que no haya dos reactivos preguntando lo mismo:
 
-- **Ya tienen reactivo en la Unidad II y aquí NO se repiten:** el radio ecuatorial (6,378.14 km), el diámetro ecuatorial (12,756.28 km), el diámetro polar (12,713.50 km) y la diferencia de 42.78 km entre diámetros.
+- **Ya tienen reactivo en la Unidad II y aquí NO se repiten:** el radio ecuatorial (6,378.14 km), el diámetro ecuatorial (12,756.28 km), el diámetro polar (12,713.50 km), la diferencia de 42.78 km entre diámetros y **la causa de esa diferencia** —el ensanchamiento ecuatorial y el consiguiente achatamiento polar, provocados por el movimiento de rotación—, que la p.79 repite casi con las mismas palabras.
 - **Aquí sí entran, porque en la Unidad II sólo aparecían como distractores:** el **radio medio** (6,367.45 km) y el **diámetro medio** (12,734.90 km).
 - Lo demás del 3.1 son **definiciones propias de este tema** (verticales, radios, diámetros, polos) que la Unidad II no toca.
 
@@ -47,8 +47,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 ## Cobertura actual
 
 - Cubierta la página impresa **78**: el arranque del **3.1** y el **3.1.1 Puntos y líneas de la Tierra** completo en esa página — la lista de puntos, líneas y círculos que integran las coordenadas geográficas; el eje de rotación o eje terrestre y los polos con sus nombres alternos; las **verticales** (definición, caída libre, plomada, número infinito, longitud); los **radios terrestres** (definición, el elipsoide de revolución, las tres medidas, la equivalencia con la mitad del eje) y los **diámetros** (etimología, definición, equivalencia con dos radios consecutivos, las tres medidas, el polar identificado con el eje de rotación); y la **nota al pie 2** (los puntos, líneas y círculos son imaginarios; el orden de exposición es didáctico). Las Figuras 3.1 y 3.2 son ilustraciones y no llevan reactivos.
+- Cubierta la página impresa **79**: el **inciso f)** completo — el **cenit** y el **nadir**, que nacen de prolongar las verticales terrestres hacia el firmamento y se ubican en la bóveda celeste, no en la superficie. **El cierre del inciso e) que abre esta página no lleva reactivo:** dice que la diferencia entre los diámetros "es debida al ensanchamiento ecuatorial y el consiguiente achatamiento polar provocados por el movimiento de rotación", y **eso ya lo pregunta la Unidad II** desde la p.67 (ver la sección "No duplicar con la Unidad II"). La Figura 3.3 es ilustración. **La mitad inferior de la página es un ejercicio** de relacionar la figura con una lista, y por norma no lleva reactivos.
 
-**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. De esta unidad queda: el **3.1** de la p.79 en adelante (sigue el inciso e) sobre los diámetros, cortado a media frase al pie de la p.78) y todo el **3.2 Zonas térmicas, estaciones del año y husos horarios** (p.84). Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
+**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. De esta unidad queda: el **3.1** de la **p.80** en adelante y todo el **3.2 Zonas térmicas, estaciones del año y husos horarios** (p.84). Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
 
 ---
 
@@ -419,3 +420,101 @@ En relación con el libro de Geografía, ¿por qué el libro no sigue el orden e
 **Subtema:** puntos, líneas y círculos de la tierra · carácter imaginario
 
 Nota al pie 2: "Por razones didácticas, al desarrollar este subtema no seguiremos el orden en que están enumerados los principales puntos, líneas y círculos de la Tierra."
+
+---
+
+## Sub-lote 2 · El cenit y el nadir (3.1.1, p.79)
+
+### 25
+
+De acuerdo con el libro de Geografía, ¿a qué da origen la prolongación de las verticales terrestres hacia el firmamento?
+
+- A. Al cenit y el nadir
+- B. A los polos Norte y Sur
+- C. A los radios y los diámetros terrestres
+- D. Al Ecuador y los meridianos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 79
+**Subtema:** puntos, líneas y círculos de la tierra · cenit y nadir
+
+"Por último, la prolongación de las verticales terrestres hacia el firmamento da origen al cenit y el nadir [...]"
+
+### 26
+
+De conformidad con el libro de Geografía, ¿dónde están ubicados el cenit y el nadir?
+
+- A. No en la superficie terrestre, sino en la bóveda celeste imaginaria que envuelve al planeta
+- B. En la superficie terrestre, uno en cada polo
+- C. En el centro de la Tierra, donde se cruzan todas las verticales
+- D. Sobre el Ecuador, en los puntos de mayor ensanchamiento
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 79
+**Subtema:** puntos, líneas y círculos de la tierra · cenit y nadir
+
+"[...] el cenit y el nadir, puntos de referencia ubicados no en la superficie terrestre, sino en la bóveda celeste imaginaria que envuelve al planeta."
+
+> Nota de revisor: es el dato que se pierde. El aspirante los agrupa con los polos —el libro los enlista juntos como "puntos"— sin registrar que éstos dos ni siquiera están en la Tierra.
+
+### 27
+
+En relación con el libro de Geografía, ¿qué es el cenit?
+
+- A. El punto de la bóveda celeste situado directamente encima del observador
+- B. El punto de la bóveda celeste situado en el lado opuesto del observador
+- C. El punto de la superficie terrestre donde el Sol cae perpendicular
+- D. El punto más alto del eje de rotación terrestre
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 79
+**Subtema:** puntos, líneas y círculos de la tierra · cenit
+
+"El cenit es el punto de la bóveda celeste situado directamente encima del observador."
+
+### 28
+
+De acuerdo con el libro de Geografía, cuando se dice que el Sol se encuentra en el cenit, ¿qué se da a entender?
+
+- A. Que está directamente encima de nosotros
+- B. Que está a punto de ocultarse en el horizonte
+- C. Que se encuentra sobre el Ecuador
+- D. Que ha alcanzado su mayor distancia respecto de la Tierra
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 79
+**Subtema:** puntos, líneas y círculos de la tierra · cenit
+
+"Así, cuando decimos que el Sol se encuentra en el cenit, damos a entender que está directamente encima de nosotros."
+
+### 29
+
+De conformidad con el libro de Geografía, ¿qué es el nadir?
+
+- A. El punto de la bóveda celeste situado en el lado opuesto del cenit
+- B. El punto de la bóveda celeste situado directamente encima del observador
+- C. El punto de la superficie terrestre opuesto al observador
+- D. El punto en que el eje de rotación corta a la bóveda celeste
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 79
+**Subtema:** puntos, líneas y círculos de la tierra · nadir
+
+"El nadir es el punto de la bóveda celeste situado en el lado opuesto del cenit."
+
+### 30
+
+En relación con el libro de Geografía, ¿cómo se obtiene el nadir?
+
+- A. Prolongando el diámetro terrestre que parte del observador, hasta llegar al lado opuesto de la esfera celeste
+- B. Prolongando el radio terrestre que parte del centro de la Tierra hacia el firmamento
+- C. Prolongando el eje de rotación hasta cortar la bóveda celeste
+- D. Trazando la vertical del observador hacia el centro de la Tierra
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 79
+**Subtema:** puntos, líneas y círculos de la tierra · nadir
+
+"Se obtiene prolongando el diámetro terrestre que parte del observador, hasta llegar al lado opuesto de la esfera celeste."
+
+> Nota de revisor: el filo está en **diámetro**, no radio: el nadir sale del otro extremo de la línea que atraviesa la Tierra entera. El distractor B es justo esa confusión.
