@@ -41,10 +41,13 @@ llevan reactivos.
   las variaciones (arts. 259–265).
 - Funciones expresables por fórmulas y el grado de una función (art. 266).
 
-**Pendiente:** el capítulo XX está cerrado (arts. 254–267, pp. 282–290; la
-representación gráfica de las funciones es el Capítulo XXI, que el temario no pide). Lo
-que falta de Álgebra son los capítulos **XXIV y XXV (Ecuaciones simultáneas)**, que
-piden EMM/EMO/EMOS; mientras no se abra su archivo, éste sostiene el pendiente de Álgebra.
+**Pendiente:** ninguno. El capítulo XX está cerrado (arts. 254–267, pp. 282–290). La
+representación gráfica de las funciones es el **Capítulo XXI**, que **sí lo pide la EMI**
+y ya está escrito en `algebra-21-representacion-grafica.md` (52 reactivos) — la frase
+anterior, que decía que ningún temario lo pedía, era falsa. Los capítulos **XXIV y XXV
+(Ecuaciones simultáneas)** también están escritos y cerrados. **Álgebra (Baldor) quedó
+cerrada del todo**: todos los capítulos que piden los planteles que usan este libro —HCM,
+EME, EMM, EMO, EMOS, EMA, EMI y EMMG— están escritos y cerrados.
 
 ## Criterio: teoría sobre práctica
 
@@ -477,4 +480,4 @@ En relación con el libro de Álgebra, ¿de qué grado es la función 2x + 1?
 ---
 
 **Reactivos en este archivo:** 25
-**Pendiente:** el capítulo XX está cerrado (arts. 254–267, pp. 282–290; la representación gráfica de las funciones es el Capítulo XXI, que el temario no pide). Lo que falta de Álgebra son los capítulos XXIV y XXV (Ecuaciones simultáneas), que piden EMM/EMO/EMOS; mientras no se abra su archivo, éste sostiene el pendiente de Álgebra.
+**Pendiente:** ninguno. El capítulo XX está cerrado (arts. 254–267, pp. 282–290). La representación gráfica de las funciones es el Capítulo XXI, que **sí lo pide la EMI** y ya está escrito (`algebra-21-representacion-grafica.md`, 52 reactivos); los capítulos XXIV y XXV también están escritos y cerrados. **Álgebra (Baldor) quedó cerrada del todo** en los capítulos que piden los ocho planteles que usan este libro.

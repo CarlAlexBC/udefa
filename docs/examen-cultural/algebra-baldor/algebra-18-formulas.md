@@ -39,8 +39,10 @@ llevan reactivos por la norma de teoría sobre práctica.
 - Empleo de fórmulas en casos prácticos (art. 241) y cambio del sujeto de una
   fórmula (art. 242).
 
-**Pendiente:** el capítulo XVIII está cerrado. Lo que falta de Álgebra lo declara el
-archivo del capítulo en curso — hoy `algebra-20-funciones.md`.
+**Pendiente:** ninguno. El capítulo XVIII (Fórmulas, pp. 270–275, arts. 237–242) está
+cerrado. **Álgebra (Baldor) quedó cerrada del todo**: todos los capítulos que piden los
+planteles que usan este libro —HCM, EME, EMM, EMO, EMOS, EMA, EMI y EMMG— están escritos
+y cerrados.
 
 ## Criterio: teoría sobre práctica
 
@@ -305,4 +307,4 @@ Podemos despejar cualquiera de los elementos que entran en ella, considerándolo
 ---
 
 **Reactivos en este archivo:** 15
-**Pendiente:** el capítulo XVIII (Fórmulas, pp. 270–275, arts. 237–242) queda cerrado. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-20-funciones.md`.
+**Pendiente:** ninguno. El capítulo XVIII (Fórmulas, pp. 270–275, arts. 237–242) queda cerrado. **Álgebra (Baldor) quedó cerrada del todo** en los capítulos que piden los ocho planteles que usan este libro.

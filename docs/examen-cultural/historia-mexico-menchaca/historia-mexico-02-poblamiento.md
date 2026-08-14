@@ -64,6 +64,13 @@ sumativa* (pp. 75–84, ejercicios del libro sin respuesta marcada) quedan **fue
 banco** por decisión de Carlo. Las páginas de actividad con fichas o mapas conceptuales en
 blanco (la p. 54, la p. 66, etc.) no llevaron reactivos.
 
+**Pendiente:** ninguno. El Bloque 2 quedó **CERRADO** en 346 reactivos (1 ago 2026), cubierto en
+sus cuatro temas —2.1, 2.2, 2.3 y 2.4 con las trece culturas de Mesoamérica—; el cuadro-resumen de
+la p. 74 y la evaluación sumativa (pp. 75–84) quedan fuera por decisión de Carlo. Los otros dos
+bloques que pide la **EMMG** (`HISMÉX-03-2026`) también están cerrados: el **3** en
+`historia-mexico-03-conquista.md` y el **5** en `historia-mexico-05-independencia.md`, así que
+**Historia de México (Menchaca) queda cerrada del todo**.
+
 ## Avisos al aspirante (erratas del libro)
 
 Rarezas de escritura detectadas al recortar el escaneo a 600 dpi (no son suciedad del

@@ -184,10 +184,16 @@ método del MCD para simplificar fracciones complejas. Los Ejemplos 1–11 y los
 
 **§2.8 Expresiones racionales · CERRADO** (pp. 98–102, reactivos 196–210).
 
-**CAPÍTULO 2 · COMPLETO para la EMMA** (§2.1 a §2.8, reactivos 1–210). Según el temario de la EMMA
-(`ÁLGE-01-2026`), de la materia *Álgebra* resta el **capítulo 3** *Ecuaciones y desigualdades* (Completo)
-y el **capítulo 4** §4.1–§4.4 (este último ya trabajado en `zill-04-coordenadas-rectangulares.md`); la
-materia *Trigonometría y Geometría Analítica* (`TGA-02-2026`) pide además los capítulos 8, 9, 10 y 11.
+**CAPÍTULO 2 · COMPLETO para la EMMA** (§2.1 a §2.8, reactivos 1–210). Los otros dos capítulos que
+pide la materia *Álgebra* de la EMMA (`ÁLGE-01-2026`) **ya están escritos**: el **capítulo 3**
+*Ecuaciones y desigualdades* en `zill-03-ecuaciones-desigualdades.md` (89 reactivos, Completo) y el
+**capítulo 4** §4.1–§4.4 en `zill-04-coordenadas-rectangulares.md` (64 reactivos). Su materia
+*Trigonometría y Geometría Analítica* (`TGA-02-2026`) pide además los capítulos 8, 9, 10 y 11, los
+cuatro cerrados. **De este libro, la EMMA no debe nada.**
+
+**Pendiente:** ninguno. El capítulo 2 quedó **CERRADO** en 210 reactivos, cubierto §2.1 a §2.8
+(pp. 47–102); los *Ejercicios de repaso* y los bloques de ejercicios de las pp. 103–107 quedan fuera
+por la norma de teoría sobre práctica.
 
 ## Criterio: teoría sobre práctica
 

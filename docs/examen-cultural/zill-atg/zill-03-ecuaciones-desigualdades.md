@@ -145,6 +145,10 @@ de las pp. 154–160 quedan fuera por la norma de teoría sobre práctica.
 `zill-04-coordenadas-rectangulares.md`), la materia *Álgebra* (`ÁLGE-01-2026`) de la EMMA queda cubierta
 al nivel de reactivos.
 
+**Pendiente:** ninguno. El capítulo 3 quedó **CERRADO** en 89 reactivos, cubierto §3.1 a §3.7
+(pp. 112–158); los Ejemplos y los bloques de ejercicios quedan fuera por la norma de teoría sobre
+práctica. Con él, y con los capítulos 2 y 4, **la materia *Álgebra* de la EMMA queda cerrada**.
+
 ## Avisos al aspirante (erratas del libro)
 
 _Ninguno detectado por ahora en este capítulo._

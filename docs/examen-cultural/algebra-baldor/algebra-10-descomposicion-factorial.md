@@ -55,10 +55,11 @@ p. 143 a la 172:
 - Caso X: suma o diferencia de dos potencias iguales y sus reglas de divisibilidad
   (art. 156), más el principio de la combinación de casos (art. 158).
 
-**Pendiente:** el capítulo X (los diez casos, pp. 143–170, más el principio para combinar
-casos) queda cerrado; los ejercicios de descomposición en 3, 4, 5 y 6 factores (arts.
-158–159 en adelante) son práctica y no llevan reactivos. Lo que falta de Álgebra lo
-declara el archivo del capítulo en curso — hoy `algebra-18-formulas.md`.
+**Pendiente:** ninguno. El capítulo X (los diez casos, pp. 143–170, más el principio para
+combinar casos) queda cerrado; los ejercicios de descomposición en 3, 4, 5 y 6 factores
+(arts. 158–159 en adelante) son práctica y no llevan reactivos. **Álgebra (Baldor) quedó
+cerrada del todo**: todos los capítulos que piden los planteles que usan este libro —HCM,
+EME, EMM, EMO, EMOS, EMA, EMI y EMMG— están escritos y cerrados.
 
 ## Criterio: teoría sobre práctica
 
@@ -840,4 +841,4 @@ Lo primero que debe hacerse es ver si hay algún factor común, y si lo hay, sac
 ---
 
 **Reactivos en este archivo:** 46
-**Pendiente:** el capítulo X (los diez casos de factorización, pp. 143–170, más el principio para combinar casos) queda cerrado; los ejercicios de descomposición en 3, 4, 5 y 6 factores son práctica y no llevan reactivos. Lo que falta de Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-18-formulas.md`.
+**Pendiente:** ninguno. El capítulo X (los diez casos de factorización, pp. 143–170, más el principio para combinar casos) queda cerrado; los ejercicios de descomposición en 3, 4, 5 y 6 factores son práctica y no llevan reactivos. **Álgebra (Baldor) quedó cerrada del todo** en los capítulos que piden los ocho planteles que usan este libro.

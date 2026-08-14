@@ -65,9 +65,9 @@ sistema 3×3 como punto común de los tres planos).
 
 **Pendiente:** ninguno del capítulo XXV. Con él **el temario de Álgebra de la EMOS
 (`ALGE-04-2026`) queda cubierto**, y con él toda la materia Álgebra en lo que piden
-los cinco planteles. Queda pendiente, en el Capítulo XXIV, el relleno de la teoría
-de determinantes de 2º orden (art. 302), que se trabaja en su propio archivo
-`algebra-24-ecuaciones-simultaneas.md`.
+los cinco planteles. El relleno de la teoría de determinantes de 2º orden (arts.
+302–304) que aquí se anotaba como pendiente del Capítulo XXIV **ya está escrito** en
+`algebra-24-ecuaciones-simultaneas.md`, así que no queda cabo suelto.
 
 ## Aviso de alcance del Capítulo XXIV (para Carlo)
 

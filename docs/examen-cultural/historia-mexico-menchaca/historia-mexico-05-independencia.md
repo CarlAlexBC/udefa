@@ -174,6 +174,12 @@ reactivos. **Decisión de Carlo (2 ago 2026): los tres recuadros "Comprensión l
 insurgentes (p. 188)— NO entran**, confirmando la norma del bloque. Las pp. 191–194 son línea de
 tiempo, mapas, actividades y evaluación sumativa (fuera). El Bloque 5 no tiene más pendientes.
 
+**Pendiente:** ninguno. El Bloque 5 quedó **CERRADO** en 292 reactivos (2 ago 2026), cubierto de la
+p. 152 a la p. 190; los tres recuadros de "Comprensión lectora" y las pp. 191–194 (línea de tiempo,
+mapas, actividades y evaluación sumativa) quedan fuera. Los otros dos bloques que pide la **EMMG**
+(`HISMÉX-03-2026`) también están cerrados: el **2** en `historia-mexico-02-poblamiento.md` y el **3**
+en `historia-mexico-03-conquista.md`, así que **Historia de México (Menchaca) queda cerrada del todo**.
+
 ## Avisos al aspirante (erratas del libro)
 
 Rarezas de escritura detectadas al recortar el escaneo a 600 dpi (no son suciedad del
