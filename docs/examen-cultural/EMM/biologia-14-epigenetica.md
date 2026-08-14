@@ -265,7 +265,20 @@ los tigres y materna en los leones, el riesgo del parto, la esterilidad sólo de
 conductas heredadas de cada especie, y el tigón con su inhibición del crecimiento, sus 180 kilos y
 su porte sin melena).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **316** (hoja 362) en adelante —el resto de los gemelos, la herencia epigenética transgeneracional, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **316**: el cierre del experimento de la NASA (el envío de las muestras
+de Scott a la Tierra, los más de 80 expertos de 12 universidades, los resultados esperados —densidad
+ósea, microbiota, marcadores de inflamación, globo ocular—, los inesperados —el alargamiento de los
+telómeros y los cambios de expresión en genes de energía e inmunidad—, el más del 90% que volvió a
+la normalidad a los seis meses frente al pequeño porcentaje que no, y las condiciones atípicas del
+espacio); la fig. 14-17 (la gata tricolor como fenotipo en mosaico ligado al par sexual); y el
+arranque del apartado "Herencia epigenética" (el borrado de marcas que permite un paisaje nuevo, la
+transmisión transgeneracional de rasgos no codificados genéticamente, la expansión del campo y sus
+implicancias, la dificultad de distinguirla de las exposiciones en el útero, la vulnerabilidad
+celular durante la reprogramación, la primera semana y las semanas diez a once, y las **dos
+condiciones teóricas** —tercera generación con sujeto gestante expuesto, segunda generación con
+progenitores expuestos antes de la reproducción—).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **317** (hoja 363) en adelante —el resto de la herencia epigenética transgeneracional, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -5679,5 +5692,378 @@ De conformidad con el libro de Biología, ¿cómo son el porte y el pelaje del t
 **Subtema:** epigenética · recuadro 14-3 · aspecto del tigón
 
 Tienen un porte grácil y su pelaje presenta características tanto de los tigres como de los leones, pero sin melena.
+
+---
+### 316
+
+De acuerdo con el libro de Biología, ¿qué se hizo con las muestras de Scott, el gemelo que se encontraba en la estación espacial?
+
+- A. Fueron enviadas a la Tierra durante su estadía y comparadas con las de Mark
+- B. Fueron conservadas en la estación espacial hasta su regreso a la Tierra
+- C. Fueron analizadas en la propia estación espacial por el astronauta
+- D. Fueron comparadas con muestras de otros astronautas de la misión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · gemelos · diseño del experimento de la NASA
+
+Las muestras de Scott, quien se encontraba en la estación espacial, fueron enviadas a la Tierra durante su estadía y comparadas con las de Mark, quien permaneció en la Tierra durante ese mismo período.
+
+---
+
+### 317
+
+De conformidad con el libro de Biología, ¿cuántos expertos y de cuántas universidades formaron equipos de trabajo para analizar la información?
+
+- A. Más de 80 expertos de 12 universidades
+- B. Más de 12 expertos de 80 universidades
+- C. Más de 80 expertos de 20 universidades
+- D. Más de 40 expertos de 12 universidades
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · gemelos · epigenética cósmica
+
+Más de 80 expertos de 12 universidades formaron equipos de trabajo para analizar la información.
+
+---
+
+### 318
+
+En relación con el libro de Biología, ¿qué resultados confirmaron las hipótesis previas que preveían cambios debidos a las condiciones ambientales?
+
+- A. La pérdida de densidad ósea, alteraciones en la microbiota, aumento en los marcadores de inflamación y cambios en la estructura del globo ocular
+- B. La pérdida de masa muscular, alteraciones del sueño, aumento de la presión arterial y cambios en la audición
+- C. El alargamiento de los telómeros, alteraciones en la microbiota y cambios en la reparación del ADN
+- D. La pérdida de densidad ósea, el acortamiento de los telómeros y la caída de los marcadores de inflamación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · gemelos · resultados esperados
+
+Algunos de los resultados confirmaron hipótesis previas que preveían cambios debidos a las condiciones ambientales, como la pérdida de densidad ósea, alteraciones en la microbiota, aumento en los marcadores de inflamación y cambios en la estructura del globo ocular.
+
+---
+
+### 319
+
+De acuerdo con el libro de Biología, ¿qué cambio inesperado experimentó Scott Kelly en sus glóbulos blancos?
+
+- A. El alargamiento de los telómeros
+- B. El acortamiento de los telómeros
+- C. La duplicación de su número
+- D. La pérdida de sus núcleos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · gemelos · telómeros
+
+Pero Scott Kelly también experimentó cambios genéticos inesperados, como el alargamiento de los telómeros de sus glóbulos blancos.
+
+---
+
+### 320
+
+De conformidad con el libro de Biología, ¿en qué genes se observaron cambios epigenéticos de expresión en el astronauta?
+
+- A. En genes que ayudan al cuerpo a producir energía y en genes relacionados con el sistema inmunológico
+- B. En genes que regulan el crecimiento óseo y en genes relacionados con la visión
+- C. En genes que controlan la microbiota y en genes relacionados con la inflamación
+- D. En genes que codifican las protaminas y en genes relacionados con la reproducción
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · gemelos · genes afectados
+
+Cambios epigenéticos en la expresión de genes que ayudan al cuerpo a producir energía y en genes relacionados con el sistema inmunológico.
+
+---
+
+### 321
+
+En relación con el libro de Biología, ¿qué proporción de la expresión de esos genes volvió a la normalidad y en cuánto tiempo?
+
+- A. Más del 90%, seis meses después de que el astronauta regresara a la Tierra
+- B. Más del 50%, seis meses después de que el astronauta regresara a la Tierra
+- C. Más del 90%, un año después de que el astronauta regresara a la Tierra
+- D. La totalidad, seis meses después de que el astronauta regresara a la Tierra
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · gemelos · reversión de los cambios
+
+Más del 90% de la expresión de esos genes volvió a la normalidad seis meses después de que el astronauta regresara a la Tierra.
+
+---
+
+### 322
+
+De acuerdo con el libro de Biología, ¿qué genes no volvieron a sus niveles anteriores?
+
+- A. Un pequeño porcentaje de genes relacionados con el sistema inmunológico y la reparación de ADN
+- B. Un pequeño porcentaje de genes relacionados con la producción de energía y el crecimiento óseo
+- C. La mayoría de los genes relacionados con el sistema inmunológico
+- D. Un pequeño porcentaje de genes relacionados con la microbiota y la inflamación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · gemelos · cambios persistentes
+
+Un pequeño porcentaje de genes relacionados con el sistema inmunológico y la reparación de ADN no volvieron a sus niveles anteriores.
+
+---
+
+### 323
+
+De conformidad con el libro de Biología, ¿por qué los investigadores no saben cuáles son los factores ambientales causantes de estos cambios?
+
+- A. Porque es muy difícil aislar variables causales entre todas las condiciones atípicas que enfrentan los astronautas en el espacio
+- B. Porque las muestras se deterioraron durante el viaje a la Tierra
+- C. Porque el período de observación fue demasiado breve
+- D. Porque no contaron con un sujeto de comparación en la Tierra
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · gemelos · límites del estudio
+
+Los investigadores no saben cuáles son los factores ambientales causantes de estos cambios, ya que es muy difícil aislar variables causales entre todas las condiciones atípicas que enfrentan los astronautas en el espacio.
+
+---
+
+### 324
+
+En relación con el libro de Biología, ¿qué condiciones atípicas enfrentan los astronautas en el espacio?
+
+- A. Los cambios en la gravedad, en la dieta, el mayor estrés por vivir en un espacio cerrado y la mayor exposición a la radiación
+- B. Los cambios en la gravedad, en la temperatura, el aislamiento social y la falta de oxígeno
+- C. Los cambios en la presión atmosférica, en el ciclo del sueño y en la microbiota
+- D. Los cambios en la dieta, en la actividad física y en la exposición a la luz solar
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · gemelos · condiciones atípicas
+
+Todas las condiciones atípicas que enfrentan los astronautas en el espacio, como los cambios en la gravedad, en la dieta, el mayor estrés por vivir en un espacio cerrado y la mayor exposición a la radiación, entre otros.
+
+---
+
+### 325
+
+De acuerdo con el libro de Biología, ¿qué reflejan los resultados de ese estudio?
+
+- A. La importancia del ambiente en los cambios epigenéticos tanto efímeros como de larga duración
+- B. La importancia de la secuencia de ADN por encima de las condiciones ambientales
+- C. La reversibilidad completa de todos los cambios epigenéticos
+- D. La ausencia de efectos ambientales sobre la expresión de los genes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · gemelos · conclusión del estudio
+
+Los resultados reflejan la importancia del ambiente en los cambios epigenéticos tanto efímeros como de larga duración.
+
+---
+
+### 326
+
+De conformidad con el libro de Biología, según la fig. 14-17, ¿qué es el patrón de pelaje de tres colores que muestran algunas gatas?
+
+- A. Un fenotipo en mosaico, ligado al par sexual, que sólo se expresa en las hembras
+- B. Un fenotipo en mosaico, ligado al par sexual, que sólo se expresa en los machos
+- C. Un fenotipo determinado por la dieta de la madre durante la gestación
+- D. Un fenotipo heredado por vía paterna en ambos sexos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · mosaicismo · fig. 14-17
+
+Algunas gatas muestran patrones de pelaje que comprenden tres colores. Se trata de un fenotipo en mosaico, ligado al par sexual, que solo se expresa en las hembras.
+
+---
+
+### 327
+
+En relación con el libro de Biología, al borrarse muchas marcas epigenéticas propias de la historicidad de los individuos, ¿qué se permite?
+
+- A. La generación de un nuevo y original paisaje epigenético
+- B. La restitución del paisaje epigenético de los progenitores
+- C. La eliminación definitiva de la herencia epigenética
+- D. La conservación del paisaje epigenético a lo largo de las generaciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · herencia epigenética · borrado de marcas
+
+Se borran muchas marcas epigenéticas propias de la historicidad de los individuos; esto permite la generación de un nuevo y original paisaje epigenético.
+
+---
+
+### 328
+
+De acuerdo con el libro de Biología, ¿qué explica esa forma de herencia epigenética que ponen en evidencia cada vez más estudios?
+
+- A. La transmisión transgeneracional de rasgos no codificados genéticamente
+- B. La transmisión transgeneracional de rasgos codificados genéticamente
+- C. La aparición de mutaciones nuevas en cada generación
+- D. La conservación del número de cromosomas entre generaciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · herencia epigenética · definición
+
+Opera una forma de herencia epigenética, que explica la transmisión transgeneracional de rasgos no codificados genéticamente.
+
+---
+
+### 329
+
+De conformidad con el libro de Biología, ¿por qué se encuentra en franca expansión esta área de investigación?
+
+- A. Por el uso de nuevas tecnologías de biología molecular y el desarrollo de nuevos modelos experimentales
+- B. Por el abandono de los debates históricos sobre herencia y evolución
+- C. Por el hallazgo de nuevas mutaciones en el genoma humano
+- D. Por la aparición de nuevas técnicas de microscopía óptica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · herencia epigenética · expansión del campo
+
+Esta área de investigación [...] se encuentra en franca expansión por el uso de nuevas tecnologías de biología molecular y el desarrollo de nuevos modelos experimentales.
+
+---
+
+### 330
+
+En relación con el libro de Biología, ¿en qué campos diversos podría tener amplias implicancias?
+
+- A. En la nutrición durante el embarazo o los complejos procesos ocurridos durante el curso de la evolución de la vida en la Tierra
+- B. En la nutrición durante la infancia o el tratamiento de las enfermedades infecciosas
+- C. En la conservación de las especies en cautiverio o la mejora de los cultivos
+- D. En el diagnóstico de las mutaciones hereditarias o la terapia génica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · herencia epigenética · implicancias
+
+Su relevancia es indudable, ya que podría tener amplias implicancias en campos tan diversos, como la nutrición durante el embarazo o los complejos procesos ocurridos durante el curso de la evolución de la vida en la Tierra, entre otros.
+
+---
+
+### 331
+
+De acuerdo con el libro de Biología, ¿por qué resulta peculiarmente difícil distinguir los efectos de la herencia epigenética de los producidos por exposiciones en el útero?
+
+- A. Porque ambos fenómenos representan formas de asimilación ambiental en el desarrollo y ambos implican procesos epigenéticos
+- B. Porque ambos fenómenos ocurren en la misma semana del embarazo
+- C. Porque ambos fenómenos dependen de la secuencia de ADN del embrión
+- D. Porque ambos fenómenos se manifiestan sólo en la tercera generación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · herencia epigenética · dificultad para distinguir
+
+Resulta peculiarmente difícil distinguir entre los efectos de la herencia epigenética de aquellos efectos producidos por exposiciones en el útero, ya que ambos fenómenos representan formas de asimilación ambiental en el desarrollo y ambos implican procesos epigenéticos.
+
+---
+
+### 332
+
+De conformidad con el libro de Biología, ¿cuándo son las células particularmente vulnerables a la exposición ambiental?
+
+- A. Mientras transcurre la reprogramación epigenética
+- B. Mientras transcurre la mitosis de las células somáticas
+- C. Mientras transcurre la remetilación del genoma del cigoto
+- D. Mientras transcurre la diferenciación terminal de los tejidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · herencia epigenética · vulnerabilidad celular
+
+Las células son particularmente vulnerables a la exposición ambiental mientras transcurre la reprogramación epigenética.
+
+---
+
+### 333
+
+En relación con el libro de Biología, ¿qué puede inducir el ambiente de una mujer embarazada durante la primera semana de desarrollo embrionario?
+
+- A. Cambios epigenéticos con consecuencias de por vida para el hijo en gestación
+- B. Cambios epigenéticos que desaparecen antes del nacimiento
+- C. Mutaciones en la secuencia de ADN del hijo en gestación
+- D. Cambios epigenéticos que sólo afectan a los futuros nietos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · herencia epigenética · primera semana
+
+El ambiente de una mujer embarazada durante la primera semana de desarrollo embrionario puede inducir cambios epigenéticos con consecuencias de por vida para el hijo en gestación.
+
+---
+
+### 334
+
+De acuerdo con el libro de Biología, ¿cuándo ocurren los cambios posteriores en el embarazo que también pueden afectar a los futuros nietos?
+
+- A. Alrededor de las semanas diez a once, cuando se desarrollan las células germinales primordiales del embrión
+- B. Alrededor de las semanas veinte a veintiuna, cuando se desarrollan los órganos del embrión
+- C. Alrededor de la primera semana, cuando ocurren las primeras mitosis
+- D. Alrededor de las últimas semanas, poco antes del parto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · herencia epigenética · semanas diez a once
+
+Los cambios posteriores en el embarazo, ocurridos alrededor de las semanas diez a once, cuando se desarrollan las células germinales primordiales del embrión, también pueden afectar a sus futuros nietos.
+
+---
+
+### 335
+
+De conformidad con el libro de Biología, en la primera condición teórica de la herencia epigenética, ¿desde qué generación se observan esas variaciones del fenotipo?
+
+- A. Desde la tercera generación en adelante, cuando el sujeto gestante se encuentra expuesto a contaminantes
+- B. Desde la segunda generación en adelante, cuando el sujeto gestante se encuentra expuesto a contaminantes
+- C. Desde la primera generación en adelante, cuando el sujeto gestante se encuentra expuesto a contaminantes
+- D. Desde la cuarta generación en adelante, cuando el sujeto gestante se encuentra expuesto a contaminantes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · herencia epigenética · primera condición
+
+Se observan en la descendencia, desde la tercera generación en adelante, en aquellos casos en los que el sujeto gestante se encuentra expuesto a contaminantes.
+
+---
+
+### 336
+
+En relación con el libro de Biología, en la segunda condición teórica, ¿desde qué generación se observan y en qué caso?
+
+- A. Desde la segunda generación en adelante, cuando cualquiera de los dos progenitores hayan estado expuestos a contaminantes con anterioridad a la reproducción
+- B. Desde la tercera generación en adelante, cuando cualquiera de los dos progenitores hayan estado expuestos a contaminantes con anterioridad a la reproducción
+- C. Desde la segunda generación en adelante, cuando sólo la madre haya estado expuesta a contaminantes durante la gestación
+- D. Desde la primera generación en adelante, cuando ambos progenitores hayan estado expuestos a contaminantes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · herencia epigenética · segunda condición
+
+Se observan en la descendencia, desde la segunda generación en adelante, en aquellos casos en los que cualquiera de los dos progenitores hayan estado expuestos a contaminantes con anterioridad a la reproducción.
+
+---
+
+### 337
+
+De acuerdo con el libro de Biología, ¿cuál es la principal dificultad para interpretar los alcances concretos del concepto de herencia epigenética en el ambiente natural o en el contexto social?
+
+- A. Que rara vez los fenómenos de exposición ambiental se manifiestan en tan corta y precisa duración
+- B. Que rara vez se dispone de tres generaciones para estudiar
+- C. Que rara vez los contaminantes pueden identificarse con exactitud
+- D. Que rara vez los cambios epigenéticos se transmiten a la descendencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 316
+**Subtema:** epigenética · herencia epigenética · dificultad de interpretación
+
+La principal dificultad para interpretar los alcances concretos del concepto de herencia epigenética en el ambiente natural o en el contexto social, es que rara vez los fenómenos de exposición ambiental se manifiestan en tan corta y precisa duración.
 
 ---
