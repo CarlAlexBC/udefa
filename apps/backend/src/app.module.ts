@@ -23,6 +23,7 @@ import { MuestraModule } from './muestra/muestra.module';
 import { MailModule } from './mail/mail.module';
 import { ActividadModule } from './actividad/actividad.module';
 import { GuiaModule } from './guia/guia.module';
+import { ExplicacionesModule } from './explicaciones/explicaciones.module';
 
 @Module({
   imports: [
@@ -52,6 +53,7 @@ import { GuiaModule } from './guia/guia.module';
     MailModule,
     ActividadModule,
     GuiaModule,
+    ExplicacionesModule,
   ],
   controllers: [AppController],
   providers: [

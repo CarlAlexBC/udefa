@@ -188,6 +188,7 @@ model Capitulo {
   titulo             String
   temas              Tema[]
   seleccionesTemario MateriaTemarioCapitulo[]
+  explicacion        ExplicacionCapitulo?
   createdAt          DateTime                 @default(now())
 
   @@unique([libroId, numero])
@@ -439,4 +440,23 @@ model TemaPrioridad {
   motivoContextual String?
   createdAt        DateTime @default(now())
   updatedAt        DateTime @updatedAt
+}
+
+enum EstadoExplicacion {
+  BORRADOR
+  PUBLICADO
+}
+
+/// Explicación "en palabras simples" de un capítulo — la capa "Entiende el tema".
+/// NO reemplaza la cita textual del reactivo (esa es de recuerdo literal y no se
+/// toca): es un añadido opcional para entender. Una por capítulo, reusable en
+/// todos los planteles que usan ese libro.
+model ExplicacionCapitulo {
+  id         Int               @id @default(autoincrement())
+  capituloId Int               @unique
+  capitulo   Capitulo          @relation(fields: [capituloId], references: [id])
+  contenido  String
+  estado     EstadoExplicacion @default(BORRADOR)
+  createdAt  DateTime          @default(now())
+  updatedAt  DateTime          @updatedAt
 }
