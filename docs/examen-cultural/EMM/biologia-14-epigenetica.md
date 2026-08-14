@@ -214,7 +214,19 @@ las proteínas "decodificadoras" que reclutan "resaltadoras", y la amplificació
 activadoras). **Dos rarezas de redacción de esta página quedaron documentadas como erratas y sin
 reactivo.**
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **312** (hoja 358) en adelante —la fig. 14-13, los cambios epigenéticos durante el desarrollo embrionario, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **312**: la fig. 14-13 (el modelo de herencia transgeneracional de
+cambios epigenéticos producidos por factores ambientales: los factores que alteran el perfil de
+los ARN regulatorios de las vesículas, su viaje por el torrente sanguíneo hasta las gónadas y la
+alteración del patrón epigenético de espermatozoides u oocitos); el cierre de "Interacciones entre
+diferentes modificaciones epigenéticas" (de qué dependen la transcripción y la traducción de cada
+gen, los procesos que las coordinan, y el **epigenotipo** con su historicidad y los organismos como
+sistemas dinámicos complejos); el arranque de "Cambios epigenéticos durante el desarrollo
+embrionario" (la conservación de los paisajes epigenéticos durante las mitosis, dónde se observa el
+fenómeno y los dos momentos de cambios masivos); y el arranque de "Cambios epigenéticos durante el
+desarrollo temprano" (la célula huevo como primer estadio embrionario y el aporte del
+espermatozoide: PLCtheta y protaminas).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **313** (hoja 359) en adelante —el resto de los cambios epigenéticos del desarrollo temprano y de la línea germinal, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -4374,5 +4386,225 @@ En relación con el libro de Biología, ¿qué pueden hacer, de modo análogo, l
 **Subtema:** epigenética · interacciones · amplificación de señales
 
 De modo análogo, los decodificadores que reconocen grupos acetilos y otras modificaciones activadoras de las histonas pueden amplificar o reforzar señales.
+
+---
+### 242
+
+De conformidad con el libro de Biología, según el modelo de la fig. 14-13, ¿qué alteran los factores ambientales que impactan en las células somáticas?
+
+- A. El perfil de los ARN regulatorios presentes en las vesículas extracelulares
+- B. El perfil de las proteínas "escritoras" presentes en el núcleo
+- C. La secuencia de bases del ADN de las células somáticas
+- D. El número de vesículas extracelulares que produce cada célula
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · herencia transgeneracional · fig. 14-13
+
+En este modelo se propone que ciertos factores ambientales que impactan en las células somáticas alteran el perfil de los ARN regulatorios presentes en las vesículas extracelulares.
+
+---
+
+### 243
+
+En relación con el libro de Biología, según el modelo de la fig. 14-13, ¿por qué vía llegan esas vesículas a las gónadas?
+
+- A. Vía torrente sanguíneo
+- B. Vía sistema linfático
+- C. Vía líquido cefalorraquídeo
+- D. Vía conductos del epidídimo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · herencia transgeneracional · fig. 14-13
+
+Estas vesículas, vía torrente sanguíneo, llegan a las gónadas y se incorporan a las células germinales (espermatozoides u oocitos), alterando su patrón epigenético.
+
+---
+
+### 244
+
+De acuerdo con el libro de Biología, según el modelo de la fig. 14-13, ¿qué ocurre cuando las vesículas se incorporan a las células germinales?
+
+- A. Se altera el patrón epigenético de los espermatozoides u oocitos
+- B. Se altera la secuencia de bases del ADN de los espermatozoides u oocitos
+- C. Se detiene la maduración de los espermatozoides u oocitos
+- D. Se duplica el número de cromosomas de los espermatozoides u oocitos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · herencia transgeneracional · fig. 14-13
+
+Estas vesículas [...] se incorporan a las células germinales (espermatozoides u oocitos), alterando su patrón epigenético.
+
+---
+
+### 245
+
+De conformidad con el libro de Biología, ¿de qué dependen la transcripción y la traducción de cada gen?
+
+- A. De los ARN regulatorios y de las proteínas "escritoras", "borradoras" o "lectoras"
+- B. Únicamente de los factores de transcripción que reconocen el promotor
+- C. De la secuencia de bases del gen y de su posición en el cromosoma
+- D. Del número de nucleosomas que rodean al gen
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · interacciones · transcripción y traducción
+
+La transcripción y la traducción de cada gen dependen de los ARN regulatorios, las proteínas "escritoras", "borradoras" o "lectoras".
+
+---
+
+### 246
+
+En relación con el libro de Biología, ¿qué otros procesos coordinan la transcripción y la traducción de cada gen?
+
+- A. Los factores de transcripción, la metilación del ADN, la modificación de las histonas, la remodelación de la cromatina y la localización espacial en el núcleo
+- B. Los factores de transcripción, la replicación del ADN, la duplicación de los centríolos y la migración de los cromosomas
+- C. La metilación del ADN, la síntesis de protaminas, la formación de vesículas y la fecundación
+- D. La modificación de las histonas, la mitosis, la meiosis y la gametogénesis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · interacciones · procesos coordinados
+
+Todos estos procesos están también coordinados por factores de transcripción, por la metilación del ADN, la modificación de las histonas, la remodelación de la cromatina y la localización espacial en el núcleo, que trabajan en conjunto y en relación con fenómenos citoplasmáticos y ambientales.
+
+---
+
+### 247
+
+De acuerdo con el libro de Biología, ¿cómo se denomina la combinación de todos los procesos epigenéticos concatenados temporo-espacialmente?
+
+- A. Epigenotipo
+- B. Epigenoma
+- C. Paisaje epigenético
+- D. Fenotipo del genotipo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · epigenotipo · definición
+
+La combinación de todos los procesos epigenéticos concatenados temporo-espacialmente se denomina epigenotipo.
+
+---
+
+### 248
+
+De conformidad con el libro de Biología, ¿cómo pueden ser interpretables los procesos que forman el epigenotipo?
+
+- A. Solo en la historicidad de su desarrollo
+- B. Solo en el instante en que se los mide
+- C. Solo en el aislamiento de cada célula
+- D. Solo en la secuencia del genoma completo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · epigenotipo · historicidad
+
+Estos procesos solo pueden ser interpretables en la historicidad de su desarrollo.
+
+---
+
+### 249
+
+En relación con el libro de Biología, ¿a qué contribuyen todos los procesos descritos en el capítulo y sus interrelaciones?
+
+- A. A la comprensión de la estructura y el desenvolvimiento de los organismos como sistemas dinámicos complejos, que interactúan y se modulan entre sí y con el ambiente
+- B. A la comprensión de la estructura del ADN como molécula estable e invariable a lo largo de la vida
+- C. A la comprensión de las leyes de Mendel como explicación completa de la herencia
+- D. A la comprensión del genotipo como único determinante del fenotipo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · epigenotipo · sistemas dinámicos complejos
+
+Así, todos los procesos descritos en el capítulo y sus interrelaciones contribuyen a la comprensión de la estructura y el desenvolvimiento de los organismos como sistemas dinámicos complejos, que interactúan y se modulan entre sí y con el ambiente.
+
+---
+
+### 250
+
+De acuerdo con el libro de Biología, los paisajes epigenéticos de cada célula se mantienen conservados en buena medida durante las mitosis; ¿qué permite eso?
+
+- A. El sostén de ciertas características de las células generación tras generación
+- B. La aparición de nuevas características en cada generación de células
+- C. La reparación de las mutaciones acumuladas en el ADN
+- D. El reemplazo del patrón de metilación en cada división
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · desarrollo embrionario · conservación en las mitosis
+
+Los paisajes epigenéticos de cada célula se mantienen conservados en buena medida durante las mitosis; esto permite el sostén de ciertas características de las células generación tras generación.
+
+---
+
+### 251
+
+De conformidad con el libro de Biología, ¿dónde se observa ese fenómeno?
+
+- A. Tanto en células terminalmente diferenciadas (epidermis, mucosas, etc.) como durante el desarrollo embrionario
+- B. Únicamente en las células terminalmente diferenciadas de la epidermis y las mucosas
+- C. Únicamente durante el desarrollo embrionario temprano
+- D. Tanto en las células germinales como en las células cancerosas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · desarrollo embrionario · dónde se observa
+
+Este fenómeno se observa tanto en células terminalmente diferenciadas (epidermis, mucosas, etc.) como durante el desarrollo embrionario.
+
+---
+
+### 252
+
+En relación con el libro de Biología, ¿cuáles son los dos momentos del desarrollo en los que ocurren cambios masivos en el paisaje epigenético de las células?
+
+- A. El desarrollo embrionario temprano y la generación de las células de la línea germinal (espermáticas y oocitos) en el embrión
+- B. La fecundación y el nacimiento
+- C. La gastrulación y la organogénesis
+- D. La pubertad y la senescencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · desarrollo embrionario · los dos momentos
+
+Se identifican al menos dos momentos en el desarrollo en los que ocurren cambios masivos en el paisaje epigenético de las células: el primero acontece durante el desarrollo embrionario temprano, y el segundo opera durante la generación de las células de la línea germinal (espermáticas y oocitos) en el embrión.
+
+---
+
+### 253
+
+De acuerdo con el libro de Biología, ¿qué es la célula huevo?
+
+- A. La que resulta de la fusión del espermatozoide y el oocito, y es el primer estadio embrionario
+- B. La que resulta de la primera división del oocito, y es el primer estadio embrionario
+- C. La célula germinal madura que se forma en las gónadas del embrión
+- D. La célula somática que da origen a la línea germinal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · desarrollo temprano · célula huevo
+
+La célula huevo, que resulta de la fusión del espermatozoide y el oocito, es el primer estadio embrionario.
+
+---
+
+### 254
+
+De conformidad con el libro de Biología, ¿qué elementos propios del citoplasma y del pronúcleo del espermatozoide tienen gran significado en el desarrollo temprano del embrión?
+
+- A. PLCtheta y protaminas
+- B. Histonas y nucleosomas
+- C. Proteínas Tet y ADN metil transferasas
+- D. Miosina y actina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 312
+**Subtema:** epigenética · desarrollo temprano · aporte del espermatozoide
+
+Se ha descrito la presencia de elementos propios del citoplasma y del pronúcleo del espermatozoide, los cuales tienen gran significado en el desarrollo temprano del embrión (p. ej., PLCtheta, protaminas, etc.).
 
 ---
