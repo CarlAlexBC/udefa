@@ -84,3 +84,42 @@ export const COLOR_PAQUETE_OSCURO: Record<FamiliaColor, TonoPaquete> = {
   dorado: { c: '#C99A3B', on: '#161513' },
   rojo: { c: '#E08585', on: '#2A0E0E' },
 }
+
+/**
+ * El latón de la marca, en el tono que SÍ se lee sobre crema.
+ *
+ * El latón de marca `#C99A3B` da **2.32:1** sobre `#F7F3EA` — reprueba el piso
+ * de 3:1 que documenta este mismo archivo. En pantallas claras (la hoja de
+ * examen) va este tono profundo; el `#C99A3B` se queda para fondo oscuro.
+ */
+export const LATON_SOBRE_CLARO = '#8A6420'
+
+/**
+ * A qué módulo pertenece cada TIPO de examen.
+ *
+ * Es el espejo de `MODULO_POR_TIPO` de `AccesoService` en el backend: allá
+ * decide quién tiene acceso, aquí decide de qué color se pinta. Si algún día
+ * nace un tipo de examen nuevo, hay que darlo de alta en los dos lados.
+ */
+const MODULO_POR_TIPO: Record<string, keyof typeof COLOR_DE_MODULO> = {
+  cultural: 'cultural',
+  psicometrico: 'psicologico',
+  personalidad: 'psicologico',
+  axiologico: 'psicologico',
+}
+
+/**
+ * El color que le toca a un examen según su tipo, listo para pintar.
+ *
+ * Con esto la hoja de examen dice de qué examen es sin que el aspirante lea la
+ * etiqueta: azul si es Cultural, rojo si es Psicológico. Un tipo desconocido
+ * cae en el latón de la marca, que nunca desentona.
+ */
+export function colorDeExamen(
+  tipo: string | undefined,
+  fondo: 'claro' | 'oscuro' = 'claro',
+): TonoPaquete {
+  const modulo = tipo ? MODULO_POR_TIPO[tipo] : undefined
+  const familia: FamiliaColor = modulo ? COLOR_DE_MODULO[modulo] : 'dorado'
+  return (fondo === 'claro' ? COLOR_PAQUETE_CLARO : COLOR_PAQUETE_OSCURO)[familia]
+}

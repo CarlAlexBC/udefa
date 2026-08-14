@@ -64,6 +64,20 @@
   --secondary-foreground: #161513;
   --muted: #F0EBE0;
   --muted-foreground: #6B6659;
+  /*
+   * YA SE PROBÓ OSCURECER ESTE LATÓN Y CARLO LO DESCARTÓ (14 ago 2026). No lo
+   * vuelvas a cambiar sin pedírselo.
+   *
+   * El dato, para que quede el antecedente: #C99A3B sobre crema da 2.32:1,
+   * cuando un texto normal pide 4.5:1 (sobre carbón sí cumple, 7.10:1). Se
+   * cambió a #8A6420 —el `COLOR_PAQUETE_CLARO.dorado` de colores-paquete.ts,
+   * 4.83:1— y se midió funcionando en /precios, pero el tono le pareció apagado
+   * y prefirió conservar el brillo de la marca. Decisión suya, informada.
+   *
+   * Si algún día se retoma, el cambio son estas dos líneas más `--ring`, y hay
+   * que acordarse de que `--accent` también pinta FONDOS de botón: con el tono
+   * profundo, `--accent-foreground` tiene que pasar a blanco.
+   */
   --accent: #C99A3B;
   --accent-foreground: #161513;
   --military: #4B5121;

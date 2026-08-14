@@ -9,6 +9,7 @@ import { AVISO_SIMULADOR } from '@/lib/legal'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import { logoDePlantel } from '@/lib/planteles'
+import { colorDeExamen, LATON_SOBRE_CLARO } from '@/lib/colores-paquete'
 import {
   INSTRUCCIONES_POR_BLOQUE,
   construirInstruccionesCultural,
@@ -157,6 +158,18 @@ export default function SimuladorPage({
    * instrucciones y su propio tiempo.
    */
   const esDeCorrido = examen?.tipo === 'cultural'
+
+  /**
+   * El color de la hoja de examen: azul si es Cultural, rojo si es Psicológico.
+   * Sale de `COLOR_DE_MODULO`, así que el aspirante ve el MISMO color que vio en
+   * su paquete al comprar. Se pinta con estilo en línea porque el valor es
+   * dinámico y Tailwind sólo entiende clases que existen en el código.
+   *
+   * OJO: se pide el tono CLARO a propósito. Esta pantalla se queda en crema por
+   * decisión de Carlo (14 ago) — la hoja de examen imita el papel del examen
+   * real, y ahí los tonos profundos son los que se leen.
+   */
+  const acento = colorDeExamen(examen?.tipo, 'claro')
 
   /* ─── Iniciar simulador (crea intento + arma examen) ─── */
   async function iniciar() {
@@ -480,7 +493,10 @@ export default function SimuladorPage({
       <div className="shrink-0 border-b border-border bg-card">
         <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-6 py-3">
           <div className="min-w-0">
-            <p className="truncate text-xs font-semibold uppercase tracking-widest text-military">
+            <p
+              className="truncate text-xs font-semibold uppercase tracking-widest"
+              style={{ color: acento.c }}
+            >
               {examen?.nombre ?? 'Simulador'}
               {esDeCorrido
                 ? ` · ${bloqueActual.nombre}`
@@ -496,8 +512,8 @@ export default function SimuladorPage({
         </div>
         <div className="h-1 w-full bg-muted">
           <div
-            className="h-full bg-accent transition-all duration-300"
-            style={{ width: `${progresoBloquePct}%` }}
+            className="h-full transition-all duration-300"
+            style={{ width: `${progresoBloquePct}%`, backgroundColor: acento.c }}
           />
         </div>
       </div>
@@ -562,6 +578,7 @@ export default function SimuladorPage({
             marcada={respuestaActual}
             onSelect={responder}
             esLikert={examen ? !examen.calificable : false}
+            acento={acento}
           />
         </div>
       </div>
@@ -591,7 +608,12 @@ export default function SimuladorPage({
               <ArrowRight className="ml-1 h-4 w-4" />
             </Button>
           ) : (
-            <Button onClick={() => irAReactivo(reactivoIndex + 1)} className="h-11 sm:h-8">
+            <Button
+              onClick={() => irAReactivo(reactivoIndex + 1)}
+              className="h-11 sm:h-8"
+              /* El botón que manda va en el color del examen. */
+              style={{ backgroundColor: acento.c, color: acento.on }}
+            >
               Siguiente
               <ArrowRight className="ml-1 h-4 w-4" />
             </Button>
@@ -606,6 +628,7 @@ export default function SimuladorPage({
         respuestas={respuestas}
         onSelect={irAReactivo}
         onFinalizar={() => finalizar('COMPLETADA')}
+        acento={acento}
       />
     </main>
   )
@@ -1449,10 +1472,20 @@ function TimerBadge({ segundos }: { segundos: number }) {
     <div
       className={cn(
         'flex items-center gap-1.5 rounded-md border px-3 py-1.5',
-        alerta
-          ? 'border-destructive/40 bg-destructive/10 text-destructive'
-          : 'border-accent/30 bg-accent/10 text-accent',
+        alerta && 'border-destructive/40 bg-destructive/10 text-destructive',
       )}
+      /* El reloj es de la MARCA, no del módulo: va en latón. Pero sobre crema
+         el latón de marca (#C99A3B) da 2.32:1 y no se lee — por eso el tono
+         profundo. En alerta manda el rojo y este estilo se retira. */
+      style={
+        alerta
+          ? undefined
+          : {
+              color: LATON_SOBRE_CLARO,
+              borderColor: `${LATON_SOBRE_CLARO}55`,
+              backgroundColor: `${LATON_SOBRE_CLARO}14`,
+            }
+      }
     >
       <Clock className="h-4 w-4" />
       <span className="font-mono text-sm font-semibold">
@@ -1476,12 +1509,15 @@ function BandaReactivos({
   respuestas,
   onSelect,
   onFinalizar,
+  acento,
 }: {
   reactivos: Reactivo[]
   reactivoIndex: number
   respuestas: Record<number, string>
   onSelect: (index: number) => void
   onFinalizar: () => void
+  /** Color del examen: marca en qué reactivo va parado. */
+  acento: { c: string; on: string }
 }) {
   const scrollerRef = useRef<HTMLDivElement>(null)
   const activeButtonRef = useRef<HTMLButtonElement>(null)
@@ -1531,11 +1567,24 @@ function BandaReactivos({
                     className={cn(
                       'shrink-0 h-9 min-w-9 rounded-md px-1.5 text-xs font-semibold transition-colors',
                       actual
-                        ? 'bg-accent text-accent-foreground ring-2 ring-primary ring-offset-1 ring-offset-card'
+                        ? 'ring-2 ring-offset-1 ring-offset-card'
                         : respondido
                         ? 'bg-primary text-primary-foreground hover:opacity-90'
                         : 'bg-muted text-muted-foreground hover:bg-muted/70',
                     )}
+                    /* El reactivo actual va en el color del examen; los ya
+                       respondidos se quedan en tinta para que el "dónde estoy"
+                       gane al "cuáles llevo". */
+                    style={
+                      actual
+                        ? {
+                            backgroundColor: acento.c,
+                            color: acento.on,
+                            // @ts-expect-error -- variable de Tailwind para el anillo
+                            '--tw-ring-color': acento.c,
+                          }
+                        : undefined
+                    }
                     aria-label={`Ir al reactivo ${i + 1}${respondido ? ', respondido' : ''}${actual ? ', actual' : ''}`}
                   >
                     {i + 1}
@@ -1572,12 +1621,22 @@ function OpcionesReactivo({
   marcada,
   onSelect,
   esLikert,
+  acento,
 }: {
   opciones: string[]
   marcada: string | undefined
   onSelect: (opcion: string) => void
   esLikert: boolean
+  /** Color del examen (ver `colorDeExamen`): marca la opción elegida. */
+  acento: { c: string; on: string }
 }) {
+  /* Lo elegido se pinta con el color del examen: borde marcado y un baño muy
+     tenue del mismo tono. Se hace con estilo en línea porque el color cambia
+     por examen y Tailwind no compila clases armadas al vuelo. */
+  const estiloElegido = {
+    borderColor: acento.c,
+    backgroundColor: `${acento.c}14`,
+  }
   // Caso dicotómico (Sí/No — Personalidad): 2 botones grandes lado a lado.
   if (esLikert && opciones.length === 2) {
     return (
@@ -1592,9 +1651,10 @@ function OpcionesReactivo({
               className={cn(
                 'rounded-lg border-2 py-6 text-center text-lg font-semibold transition-colors',
                 seleccionada
-                  ? 'border-primary bg-accent/10 text-foreground'
+                  ? 'text-foreground'
                   : 'border-border bg-card text-muted-foreground hover:bg-muted',
               )}
+              style={seleccionada ? estiloElegido : undefined}
             >
               {opcion}
             </button>
@@ -1618,9 +1678,10 @@ function OpcionesReactivo({
               className={cn(
                 'rounded-lg border p-3 text-center text-sm transition-colors',
                 seleccionada
-                  ? 'border-primary bg-accent/10 font-medium text-foreground'
+                  ? 'font-medium text-foreground'
                   : 'border-border bg-card text-muted-foreground hover:bg-muted',
               )}
+              style={seleccionada ? estiloElegido : undefined}
             >
               {opcion}
             </button>
@@ -1655,18 +1716,20 @@ function OpcionesReactivo({
             onClick={() => onSelect(opcion)}
             className={cn(
               'flex min-h-[72px] items-center gap-4 rounded-lg border p-4 text-left transition-colors',
-              seleccionada
-                ? 'border-primary bg-accent/10'
-                : 'border-border bg-card hover:bg-muted',
+              !seleccionada && 'border-border bg-card hover:bg-muted',
             )}
+            style={seleccionada ? estiloElegido : undefined}
           >
             <span
               className={cn(
                 'flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-sm font-semibold',
-                seleccionada
-                  ? 'bg-primary text-accent'
-                  : 'border border-border bg-muted text-muted-foreground',
+                !seleccionada && 'border border-border bg-muted text-muted-foreground',
               )}
+              style={
+                seleccionada
+                  ? { backgroundColor: acento.c, color: acento.on }
+                  : undefined
+              }
             >
               {letra}
             </span>
