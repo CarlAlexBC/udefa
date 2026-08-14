@@ -71,8 +71,9 @@ nunca de la discusión social sobre regulación de agroquímicos.
 | p. 301, ensayo 14-1 | "la mirada del filósofo y matemático **sueco** René Descartes (1598-1650)" | **francés**. No es errata de escritura sino de dato: Descartes nació en Francia; murió en Estocolmo, que es probablemente el origen de la confusión. Verificado con `crop.py` a 600 dpi. |
 | p. 311, columna izquierda (ARNpi) | "de este modo marcan las hebras de **ADN** que serán destruidas. Esta unión marca a las nuevas hebras de **ARN** que serán destruidas" | Dos renglones seguidos dicen lo mismo cambiando ADN por ARN. Lo que se destruye es el **ARN** transcripto, como dice la segunda frase y como corresponde al mecanismo descrito. Verificado con `render.py`: está así en el libro, no es fallo de la extracción. |
 | p. 311, columna derecha (vesículas) | "cada vez más **con más frecuencia** se las interpreta" | "cada vez **con más frecuencia**" — sobran dos palabras. Verificado con `render.py`. |
+| p. 313, columna izquierda (línea germinal) | "atraviesa un segundo momento de **reprogamación** epigenética" | **reprogramación** — falta una letra. El mismo párrafo la escribe bien más arriba ("un proceso que se denomina reprogramación epigenética"). Verificado con `render.py`. |
 
-**No se escriben reactivos sobre estos seis puntos.** El de Descartes es el más
+**No se escriben reactivos sobre estos siete puntos.** El de Descartes es el más
 delicado: un aspirante que lo memorice se lleva un dato falso a la cabeza. En los dos de la
 p. 311 la cita se corta con `[...]` antes del tramo dudoso.
 
@@ -226,7 +227,20 @@ fenómeno y los dos momentos de cambios masivos); y el arranque de "Cambios epig
 desarrollo temprano" (la célula huevo como primer estadio embrionario y el aporte del
 espermatozoide: PLCtheta y protaminas).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **313** (hoja 359) en adelante —el resto de los cambios epigenéticos del desarrollo temprano y de la línea germinal, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **313**: el resto del desarrollo temprano (la disposición asimétrica de
+proteínas y ARN en el embrión recién formado, las blastómeras, el "reseteo epigenético" de la
+primera semana y la **reprogramación epigenética**, la demetilación pasiva del ADN del oocito
+frente a la activa y más rápida del ADN del espermatozoide condensado con protaminas, la
+transcripción diferencial de ambos genomas, la remetilación del cigoto con la primera
+diferenciación celular, y la fig. 14-14 de la distribución asimétrica); y el apartado
+"Reprogramación de la línea germinal e impronta parental" (el segundo momento al promediar el
+primer trimestre, la demetilación simultánea de ambos ADN, el patrón propio de las células
+germinales, las porciones que escapan por represión mediada por ARNpi, la expresión de un gameto
+con represión del mismo gen del otro, los genes regulatorios de proliferación, diferenciación,
+muerte y movimiento celular, y la mola hidatiforme con su modelo experimental de dos pronúcleos
+de espermatozoides). **Una errata de escritura de esta página quedó documentada y sin reactivo.**
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **314** (hoja 360) en adelante —el resto de la impronta parental, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -4606,5 +4620,361 @@ De conformidad con el libro de Biología, ¿qué elementos propios del citoplasm
 **Subtema:** epigenética · desarrollo temprano · aporte del espermatozoide
 
 Se ha descrito la presencia de elementos propios del citoplasma y del pronúcleo del espermatozoide, los cuales tienen gran significado en el desarrollo temprano del embrión (p. ej., PLCtheta, protaminas, etc.).
+
+---
+### 255
+
+En relación con el libro de Biología, ¿qué se observa en el embrión recién formado?
+
+- A. Una disposición asimétrica de proteínas, ARN y otras moléculas, tanto en el núcleo como en el citoplasma
+- B. Una disposición homogénea de proteínas, ARN y otras moléculas en todo el citoplasma
+- C. Una disposición asimétrica de los cromosomas dentro del núcleo
+- D. Una disposición homogénea de los grupos metilo a lo largo del genoma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · desarrollo temprano · asimetría del embrión
+
+En el embrión recién formado se observa una disposición asimétrica de proteínas, ARN y otras moléculas, tanto en el núcleo como en el citoplasma, que, a su vez, no son igualmente distribuidas a las células hijas desde la primera división celular.
+
+---
+
+### 256
+
+De acuerdo con el libro de Biología, ¿qué son las blastómeras?
+
+- A. Las primeras células hijas de la célula huevo
+- B. Las primeras células germinales primordiales del embrión
+- C. Las células que forman la pared del útero durante la implantación
+- D. Las células somáticas terminalmente diferenciadas del embrión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · desarrollo temprano · blastómeras
+
+Se observen diferencias de esta naturaleza entre las blastómeras (primeras células hijas de la célula huevo), aunque su fenotipo y potencialidad del desarrollo sean similares.
+
+---
+
+### 257
+
+De conformidad con el libro de Biología, ¿cuándo ocurren las primeras mitosis en las que todas las blastómeras manifiestan un "reseteo epigenético"?
+
+- A. En la primera semana de desarrollo embrionario
+- B. En el primer mes de desarrollo embrionario
+- C. Al promediar el primer trimestre de desarrollo
+- D. En la primera hora posterior a la fecundación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · desarrollo temprano · reseteo epigenético
+
+En las primeras mitosis, que ocurren en la primera semana de desarrollo embrionario, todas las blastómeras manifiestan un "reseteo epigenético".
+
+---
+
+### 258
+
+En relación con el libro de Biología, ¿cómo se denomina el proceso en el que la cantidad total de metilaciones del ADN de los dinucleótidos CpG cae y luego empieza a aumentar nuevamente?
+
+- A. Reprogramación epigenética
+- B. Remetilación del genoma del cigoto
+- C. Impronta parental
+- D. Canalización del paisaje epigenético
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · desarrollo temprano · reprogramación epigenética
+
+La cantidad total de metilaciones del ADN de los dinucleótidos CpG cae y luego empieza a aumentar nuevamente, en un proceso que se denomina reprogramación epigenética.
+
+---
+
+### 259
+
+De acuerdo con el libro de Biología, ¿cómo es demetilado el ADN heredado del oocito?
+
+- A. En forma pasiva, mientras las células se dividen
+- B. En forma activa, en un proceso mucho más rápido
+- C. En forma activa, por medio de las proteínas Tet
+- D. No es demetilado: conserva su patrón original
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · desarrollo temprano · demetilación del ADN del oocito
+
+El ADN heredado del oocito es demetilado en forma pasiva mientras las células se dividen.
+
+---
+
+### 260
+
+De conformidad con el libro de Biología, el ADN heredado del espermatozoide se encuentra altamente condensado con protaminas; ¿cómo es demetilado?
+
+- A. Es activamente demetilado en un proceso mucho más rápido
+- B. Es pasivamente demetilado en un proceso mucho más lento
+- C. Es activamente demetilado en un proceso mucho más lento
+- D. Es pasivamente demetilado a la misma velocidad que el del oocito
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · desarrollo temprano · demetilación del ADN del espermatozoide
+
+El ADN heredado del espermatozoide, que se encuentra altamente condensado con protaminas, es activamente demetilado en un proceso mucho más rápido.
+
+---
+
+### 261
+
+En relación con el libro de Biología, ¿qué explican esas diferentes velocidades de demetilación?
+
+- A. Una transcripción diferencial de ambos genomas, que son características del desarrollo normal
+- B. La detención de la transcripción de ambos genomas hasta la primera diferenciación
+- C. La pérdida definitiva del genoma aportado por el espermatozoide
+- D. La aparición de mutaciones en ambos genomas durante la primera semana
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · desarrollo temprano · transcripción diferencial
+
+Estas diferentes velocidades explican una transcripción diferencial de ambos genomas, que son características del desarrollo normal.
+
+---
+
+### 262
+
+De acuerdo con el libro de Biología, ¿a qué acompaña la remetilación del genoma del cigoto?
+
+- A. A la primera diferenciación celular
+- B. A la primera división celular
+- C. A la formación de las células germinales primordiales
+- D. A la implantación del embrión en el útero
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · desarrollo temprano · remetilación del cigoto
+
+La remetilación del genoma del cigoto acompaña la primera diferenciación celular.
+
+---
+
+### 263
+
+De conformidad con el libro de Biología, ¿dónde se establece la divergencia inicial en los patrones de modificación epigenética?
+
+- A. En las primeras divisiones asimétricas de las blastómeras
+- B. En la fusión del espermatozoide y el oocito
+- C. En la reprogramación de las células germinales primordiales
+- D. En la implantación del embrión en el útero
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · desarrollo temprano · divergencia inicial
+
+Esta divergencia inicial en los patrones de modificación epigenética se establece en las primeras divisiones asimétricas de las blastómeras.
+
+---
+
+### 264
+
+En relación con el libro de Biología, ¿qué dirige el paisaje epigenético distintivo de cada una de las blastómeras resultantes?
+
+- A. La producción de una combinación única de nuevos reguladores epigenéticos y factores de transcripción
+- B. La producción de una combinación idéntica de reguladores epigenéticos en todas las células
+- C. La detención de la producción de factores de transcripción hasta la gastrulación
+- D. La producción de nuevas protaminas que condensan el ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · desarrollo temprano · paisaje de cada blastómera
+
+El paisaje epigenético distintivo de cada una de las blastómeras resultantes dirige la producción de una combinación única de nuevos reguladores epigenéticos y factores de transcripción, en un proceso que amplifica las diferencias iniciales de esas células.
+
+---
+
+### 265
+
+De acuerdo con el libro de Biología, según la fig. 14-14, ¿a qué contribuyen los sucesivos ciclos de división celular?
+
+- A. A definir y sostener patrones epigenéticos diferenciales
+- B. A borrar los patrones epigenéticos diferenciales establecidos antes
+- C. A igualar la distribución de las moléculas entre las células hijas
+- D. A detener la diferenciación celular hasta el segundo trimestre
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · desarrollo temprano · fig. 14-14
+
+Los sucesivos ciclos de división celular (que repiten este fenómeno) contribuyen a definir y sostener patrones epigenéticos diferenciales.
+
+---
+
+### 266
+
+De conformidad con el libro de Biología, ¿cuándo atraviesan las células germinales primordiales un segundo momento de reprogramación epigenética?
+
+- A. Al promediar el primer trimestre de desarrollo
+- B. En la primera semana de desarrollo embrionario
+- C. Al promediar el tercer trimestre de desarrollo
+- D. Después del nacimiento, en la pubertad
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · línea germinal · segundo momento
+
+Al promediar el primer trimestre de desarrollo, un linaje celular particular –el de las células germinales primordiales (que dará origen a los espermatozoides u oocitos)– atraviesa un segundo momento de [...] epigenética.
+
+---
+
+### 267
+
+En relación con el libro de Biología, en ese segundo momento, ¿qué ocurre con el ADN proveniente de uno y otro progenitor?
+
+- A. Se demetilan en forma simultánea para posteriormente adquirir un patrón diferencial específico
+- B. Se demetilan uno después del otro, a velocidades distintas
+- C. Sólo se demetila el proveniente del espermatozoide
+- D. Se remetilan en forma simultánea hasta igualar sus patrones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · línea germinal · demetilación simultánea
+
+En este momento, tanto el ADN proveniente de un progenitor como el proveniente del otro progenitor se demetilan en forma simultánea para posteriormente adquirir un patrón diferencial específico.
+
+---
+
+### 268
+
+De acuerdo con el libro de Biología, ¿qué implica eso para las células germinales?
+
+- A. Que tendrán un patrón de metilación diferente al de las células somáticas del individuo
+- B. Que tendrán el mismo patrón de metilación que las células somáticas del individuo
+- C. Que perderán definitivamente todos sus grupos metilo
+- D. Que conservarán el patrón de metilación de la célula huevo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · línea germinal · patrón propio
+
+Esto implica que las células germinales tendrán un patrón de metilación diferente al de las células somáticas del individuo.
+
+---
+
+### 269
+
+De conformidad con el libro de Biología, algunas porciones del genoma escapan a ambos fenómenos de reprogramación epigenética y se mantienen metiladas; ¿qué media esa represión continua?
+
+- A. El ARNpi
+- B. El ARNsi
+- C. Los ARN largos no codificantes
+- D. Las protaminas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · línea germinal · porciones que escapan
+
+Esto se ejecuta mediante una represión continua de estos segmentos y se encuentra mediada por el ARNpi.
+
+---
+
+### 270
+
+En relación con el libro de Biología, ¿qué muestran diversas investigaciones sobre los genes derivados de cada gameto?
+
+- A. Que la expresión de ciertos genes derivados del oocito coexiste con la represión de los mismos genes derivados del espermatozoide, y viceversa
+- B. Que los genes derivados del oocito se expresan siempre y los derivados del espermatozoide se reprimen siempre
+- C. Que los genes derivados de ambos gametos se expresan siempre por igual
+- D. Que los genes derivados de ambos gametos permanecen reprimidos hasta el nacimiento
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · impronta parental · expresión y represión
+
+Diversas investigaciones muestran que la expresión de ciertos genes derivados del oocito coexiste con la represión de los mismos genes derivados del espermatozoide, y viceversa.
+
+---
+
+### 271
+
+De acuerdo con el libro de Biología, ¿qué comportamientos celulares regulan los genes que se transcriben sólo en uno de los cromosomas homólogos?
+
+- A. Proliferación, diferenciación, muerte y movimiento celular
+- B. Proliferación, respiración, digestión y excreción celular
+- C. Diferenciación, fecundación, implantación y gestación
+- D. Muerte, movimiento, condensación y descondensación de la cromatina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · impronta parental · genes regulatorios
+
+Algunos genes regulatorios de comportamientos celulares que ocurren durante el desarrollo (proliferación, diferenciación, muerte y movimiento celular) que se transcriben solo en uno de los cromosomas homólogos, se encuentran en estos sitios metilados.
+
+---
+
+### 272
+
+De conformidad con el libro de Biología, ¿en qué se considera que actuaría este fenómeno?
+
+- A. En la prevención de alteraciones o errores de replicación y mutaciones
+- B. En la aceleración de la replicación del ADN durante las primeras mitosis
+- C. En la reparación de las mutaciones ya ocurridas en el genoma
+- D. En el aumento de la variabilidad genética de la descendencia
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · impronta parental · función
+
+Si bien se considera que este fenómeno actuaría en la prevención de alteraciones o errores de replicación y mutaciones [...].
+
+---
+
+### 273
+
+En relación con el libro de Biología, ¿qué implica el silenciamiento permanente de alguno de esos genes?
+
+- A. La sola expresión de la variante presente en uno de los dos progenitores, con manifestaciones fenotípicas particulares, dependiendo de la especie
+- B. La expresión simultánea de las variantes presentes en ambos progenitores
+- C. La pérdida completa del gen en la descendencia
+- D. La aparición de una mutación en el cromosoma homólogo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · impronta parental · silenciamiento permanente
+
+También resulta llamativo que el silenciamiento permanente de alguno de ellos implica la sola expresión de la variante presente en uno de los dos progenitores, con manifestaciones fenotípicas particulares, dependiendo de la especie.
+
+---
+
+### 274
+
+De acuerdo con el libro de Biología, ¿cómo se caracteriza la mola hidatiforme?
+
+- A. Por la presencia de un crecimiento anormal de un embrión no viable implantado y proliferante en el útero
+- B. Por la ausencia de implantación del embrión en el útero
+- C. Por la presencia de dos embriones viables implantados en el útero
+- D. Por la implantación del embrión fuera del útero
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · impronta parental · mola hidatiforme
+
+Un modelo utilizado en la práctica clínica de la medicina es el de la patogenia de la mola hidatiforme, un trastorno del embarazo que se caracteriza por la presencia de un crecimiento anormal de un embrión no viable implantado y proliferante en el útero.
+
+---
+
+### 275
+
+De conformidad con el libro de Biología, a nivel experimental, ¿qué se observó si el pronúcleo del oocito es eliminado?
+
+- A. Que el desarrollo puede comenzar a partir de la incorporación de dos pronúcleos de espermatozoides
+- B. Que el desarrollo puede comenzar a partir de la incorporación de dos pronúcleos de oocitos
+- C. Que el desarrollo se detiene de manera irreversible
+- D. Que el desarrollo continúa sólo con el pronúcleo del espermatozoide
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 313
+**Subtema:** epigenética · impronta parental · modelo experimental
+
+A nivel experimental, se observó que, si el pronúcleo del oocito es eliminado, el desarrollo puede comenzar a partir de la incorporación de dos pronúcleos de espermatozoides.
 
 ---
