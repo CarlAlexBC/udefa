@@ -4792,6 +4792,344 @@ En relación con el libro de Física, ¿qué nombre recibe hoy la fuerza que res
 
 <En 1984, se comprobó experimentalmente que su predicción era correcta, y a dicha fuerza se le denomina ahora electrodébil.>
 
+## Sub-lote 29 · Satélites naturales y artificiales (pp. 158–159) — tema 4
+
+### 283
+
+De acuerdo con el libro de Física, ¿qué es un satélite natural?
+
+- A. Un cuerpo que gravita en torno de un planeta y lo acompaña alrededor de una estrella.
+- B. Un cuerpo que gravita en torno de una estrella y lo acompaña alrededor de un planeta.
+- C. Un cuerpo lanzado por el hombre que gravita en torno de un planeta.
+- D. Una estrella secundaria que gravita en torno de otra estrella.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 158
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Un satélite natural es un cuerpo que gravita en torno de un planeta y lo acompaña alrededor de una estrella.>
+
+### 284
+
+De conformidad con el libro de Física, ¿a qué sistema pertenecemos en nuestro caso?
+
+- A. Al Sistema Solar, donde los planetas giran alrededor de la estrella llamada Sol.
+- B. Al Sistema Solar, donde las estrellas giran alrededor del planeta llamado Tierra.
+- C. A la Vía Láctea, donde los planetas giran alrededor de la Luna.
+- D. Al Sistema Solar, donde los satélites giran alrededor del Sol.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 158
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<En nuestro caso pertenecemos al Sistema Solar, donde los planetas giran alrededor de la estrella llamada Sol.>
+
+### 285
+
+En relación con el libro de Física, al observar el movimiento de rotación de un satélite sobre sí mismo, ¿qué se ha comprobado?
+
+- A. Que su duración es igual a la de la traslación en torno al planeta.
+- B. Que su duración es el doble de la de la traslación en torno al planeta.
+- C. Que su duración es la mitad de la de la traslación en torno al planeta.
+- D. Que su duración varía constantemente respecto de la traslación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 158
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Al observar el movimiento de rotación de un satélite sobre sí mismo se ha comprobado que su duración es igual a la de la traslación en torno al planeta.>
+
+### 286
+
+De acuerdo con el libro de Física, ¿qué sucede por tanto con el hemisferio del satélite?
+
+- A. Siempre tiene el mismo hemisferio dirigido hacia el planeta sobre el cual gira.
+- B. Cambia de hemisferio dirigido hacia el planeta en cada vuelta.
+- C. Nunca dirige el mismo hemisferio hacia el planeta.
+- D. Dirige siempre el mismo hemisferio hacia la estrella.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 158
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Por tanto, al igual que la Luna, siempre tiene el mismo hemisferio dirigido hacia el planeta sobre el cual gira.>
+
+### 287
+
+De conformidad con el libro de Física, ¿cuántos satélites naturales se han descubierto hasta ahora en el Sistema Solar?
+
+- A. 180.
+- B. 80.
+- C. 108.
+- D. 280.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Hasta ahora se han descubierto 180 satélites naturales en el Sistema Solar.>
+
+### 288
+
+En relación con el libro de Física, ¿por qué posiblemente haya más satélites naturales que aún no han sido encontrados?
+
+- A. Por su tamaño y su distancia tan grande del Sol.
+- B. Por su tamaño y su cercanía tan grande al Sol.
+- C. Porque giran a velocidades muy superiores a las de los planetas.
+- D. Porque carecen por completo de atmósfera.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Posiblemente haya más, pero por su tamaño y su distancia tan grande del Sol no han sido aún encontrados.>
+
+### 289
+
+De acuerdo con el libro de Física, ¿qué puede ser un satélite artificial?
+
+- A. Una nave espacial, también llamada cápsula espacial o astronave, tripulado o no, o una sonda espacial lanzada por el hombre.
+- B. Únicamente una nave espacial tripulada lanzada por el hombre.
+- C. Únicamente una sonda espacial no tripulada lanzada por el hombre.
+- D. Cualquier cuerpo natural que gravite en torno de la Tierra.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Un satélite artificial puede ser una nave espacial, también llamada cápsula espacial o astronave, tripulado o no, o una sonda espacial lanzada por el hombre en torno de la Tierra, la Luna o algún otro planeta.>
+
+### 290
+
+De conformidad con el libro de Física, ¿qué leyes sigue el satélite artificial al gravitar alrededor del astro?
+
+- A. Las mismas leyes que rigen el movimiento de los satélites naturales.
+- B. Leyes distintas de las que rigen el movimiento de los satélites naturales.
+- C. Únicamente las leyes de la estática.
+- D. Únicamente la ley de la inercia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Gravita alrededor del astro siguiendo las mismas leyes que rigen el movimiento de los satélites naturales.>
+
+### 291
+
+En relación con el libro de Física, ¿qué es un satélite natural de acuerdo con el pie de la figura 5.20?
+
+- A. Un astro secundario que gravita en torno de un planeta.
+- B. Un astro principal que gravita en torno de una estrella.
+- C. Un astro secundario que gravita en torno de una estrella.
+- D. Un cuerpo artificial que gravita en torno de un planeta.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Un satélite natural es un astro secundario que gravita en torno de un planeta.>
+
+### 292
+
+De acuerdo con el libro de Física, ¿a qué altura alrededor de la Tierra se encuentra la órbita del telescopio espacial Hubble?
+
+- A. 593 km.
+- B. 359 km.
+- C. 493 km.
+- D. 693 km.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Telescopio espacial Hubble flotando en el espacio, en una órbita de 593 km de altura alrededor de la Tierra.>
+
+### 293
+
+De conformidad con el libro de Física, en un espacio sin atmósfera ni fuerzas perturbadoras, ¿qué conservarían los cuerpos?
+
+- A. La velocidad de manera indefinida y, por tanto, la dirección y el sentido del movimiento libre adquirido inicialmente.
+- B. La aceleración de manera indefinida y, por tanto, la dirección del movimiento adquirido inicialmente.
+- C. Su masa, aunque perderían la dirección del movimiento adquirido inicialmente.
+- D. Su peso, aunque perderían la velocidad adquirida inicialmente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<En un espacio sin atmósfera ni fuerzas perturbadoras, los cuerpos conservarían la velocidad de manera indefinida y, por tanto, la dirección y el sentido del movimiento libre o movimiento rectilíneo uniforme adquirido inicialmente.>
+
+### 294
+
+En relación con el libro de Física, ¿qué implica la presencia de los astros en el espacio?
+
+- A. La existencia de fuerzas gravitacionales.
+- B. La existencia de fuerzas electromagnéticas.
+- C. La ausencia de cualquier fuerza perturbadora.
+- D. La existencia de una atmósfera muy tenue.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<No obstante, la presencia de los astros en el espacio implica la existencia de fuerzas gravitacionales.>
+
+### 295
+
+De acuerdo con el libro de Física, ¿qué hacen esas fuerzas con los cuerpos?
+
+- A. Los atraen y les dan cierta trayectoria.
+- B. Los repelen y les dan cierta trayectoria.
+- C. Los detienen por completo en el espacio.
+- D. Los mantienen en movimiento rectilíneo uniforme.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Las cuales atraen a los cuerpos y les dan cierta trayectoria, resultado del movimiento propio de dichos cuerpos y del que tiende a imprimirle el astro perturbador.>
+
+### 296
+
+De conformidad con el libro de Física, ¿qué describe en el aire una piedra arrojada con la mano en línea recta y en forma horizontal?
+
+- A. Una parábola.
+- B. Una circunferencia.
+- C. Una elipse.
+- D. Una línea recta hasta el suelo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Ésta es atraída por la Tierra haciendo curva su trayectoria hasta chocar contra el suelo después de haber descrito una parábola en el aire.>
+
+### 297
+
+En relación con el libro de Física, para gravitar alrededor de la Tierra, ¿entre qué velocidades debe estar comprendida la magnitud de velocidad de un satélite artificial?
+
+- A. Entre la velocidad circular o primera velocidad cósmica y la velocidad parabólica o segunda velocidad cósmica.
+- B. Entre la velocidad parabólica o primera velocidad cósmica y la velocidad circular o segunda velocidad cósmica.
+- C. Entre la velocidad de escape y la velocidad de la luz.
+- D. Entre la velocidad media y la velocidad instantánea del astro.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Para gravitar alrededor de la Tierra, un satélite artificial debe tener una magnitud de velocidad comprendida entre la velocidad circular o primera velocidad cósmica y la velocidad parabólica o segunda velocidad cósmica.>
+
+### 298
+
+De acuerdo con el libro de Física, ¿qué es la velocidad circular?
+
+- A. Aquella velocidad horizontal necesaria para hacer gravitar un cuerpo alrededor de la Tierra describiendo una circunferencia.
+- B. Aquella velocidad vertical necesaria para hacer gravitar un cuerpo alrededor de la Tierra describiendo una circunferencia.
+- C. Aquella velocidad horizontal necesaria para que un cuerpo escape de la atracción terrestre.
+- D. Aquella velocidad con la que un cuerpo describe una elipse alrededor de la Tierra.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La circular es aquella velocidad horizontal necesaria para hacer gravitar un cuerpo alrededor de la Tierra describiendo una circunferencia.>
+
+### 299
+
+De conformidad con el libro de Física, ¿qué corresponde a cada altura sobre el nivel del mar?
+
+- A. Una velocidad diferente.
+- B. La misma velocidad circular.
+- C. Una masa diferente del satélite.
+- D. Una trayectoria siempre parabólica.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<A cada altura sobre el nivel del mar corresponde una velocidad diferente.>
+
+### 300
+
+En relación con el libro de Física, si a determinada altura el cuerpo satelizado tuviera una velocidad superior a la velocidad circular, ¿cómo sería su órbita?
+
+- A. Elíptica, y tanto más excéntrica o alargada cuanto mayor fuera el exceso.
+- B. Circular, y tanto más amplia cuanto mayor fuera el exceso.
+- C. Parabólica desde el primer instante.
+- D. Rectilínea y uniforme.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Si a determinada altura el cuerpo satelizado tuviera una velocidad superior a la velocidad circular, su órbita sería elíptica y tanto más excéntrica o alargada cuanto mayor fuera el exceso.>
+
+### 301
+
+De acuerdo con el libro de Física, ¿cuántas veces la velocidad circular correspondiente convierte la elipse en una parábola?
+
+- A. 1.414 veces.
+- B. 1.141 veces.
+- C. 2.414 veces.
+- D. 4.14 veces.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Cuando la velocidad alcanzada a determinada altura es igual a 1.414 veces la velocidad circular correspondiente, la elipse se convierte en una parábola.>
+
+### 302
+
+De conformidad con el libro de Física, ¿qué otros nombres recibe la velocidad parabólica?
+
+- A. Velocidad de liberación, de evasión o de escape.
+- B. Velocidad de rotación, de traslación o de giro.
+- C. Primera velocidad cósmica o velocidad circular.
+- D. Velocidad media, instantánea o relativa.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El cuerpo satelizado habrá alcanzado la segunda velocidad cósmica a velocidad parabólica, también llamada velocidad de liberación, de evasión o de escape.>
+
+### 303
+
+En relación con el libro de Física, ¿qué órbitas describen en realidad los satélites?
+
+- A. Órbitas elípticas como todos los astros.
+- B. Órbitas circulares en sentido estricto.
+- C. Órbitas parabólicas que nunca se cierran.
+- D. Órbitas rectilíneas mientras no haya atmósfera.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 159
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<En realidad, una órbita circular en sentido estricto es prácticamente imposible, por tanto, los satélites describen órbitas elípticas como todos los astros.>
+
 ---
 
-**Reactivos en este archivo:** 282
+**Reactivos en este archivo:** 303
