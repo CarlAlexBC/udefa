@@ -28,7 +28,7 @@ El resto de la Unidad III —la representación de la Tierra propiamente dicha: 
 
 El 3.1 vuelve sobre medidas de la Tierra que la **Unidad II ya cubrió** desde el Cuadro 2.5 de la p.67 (`geografia-02-ubicacion-tierra-universo.md`). Para que no haya dos reactivos preguntando lo mismo:
 
-- **Ya tienen reactivo en la Unidad II y aquí NO se repiten:** el radio ecuatorial (6,378.14 km), el diámetro ecuatorial (12,756.28 km), el diámetro polar (12,713.50 km), la diferencia de 42.78 km entre diámetros y **la causa de esa diferencia** —el ensanchamiento ecuatorial y el consiguiente achatamiento polar, provocados por el movimiento de rotación—, que la p.79 repite casi con las mismas palabras.
+- **Ya tienen reactivo en la Unidad II y aquí NO se repiten:** el radio ecuatorial (6,378.14 km), el diámetro ecuatorial (12,756.28 km), el diámetro polar (12,713.50 km), la diferencia de 42.78 km entre diámetros y **la causa de esa diferencia** —el ensanchamiento ecuatorial y el consiguiente achatamiento polar, provocados por el movimiento de rotación—, que la p.79 repite casi con las mismas palabras. De la p.80 se suman a esa lista **la medida del Ecuador** (40,075.13 km, del mismo Cuadro 2.5), **el significado de *solsticio*** («el Sol se detiene», nota al pie de la p.71) y **el origen del nombre de la *eclíptica*** por los eclipses, que la nota al pie 3 de la p.80 ni siquiera reexpone: remite al subtema 2.4.3.
 - **Aquí sí entran, porque en la Unidad II sólo aparecían como distractores:** el **radio medio** (6,367.45 km) y el **diámetro medio** (12,734.90 km).
 - Lo demás del 3.1 son **definiciones propias de este tema** (verticales, radios, diámetros, polos) que la Unidad II no toca.
 
@@ -48,8 +48,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 - Cubierta la página impresa **78**: el arranque del **3.1** y el **3.1.1 Puntos y líneas de la Tierra** completo en esa página — la lista de puntos, líneas y círculos que integran las coordenadas geográficas; el eje de rotación o eje terrestre y los polos con sus nombres alternos; las **verticales** (definición, caída libre, plomada, número infinito, longitud); los **radios terrestres** (definición, el elipsoide de revolución, las tres medidas, la equivalencia con la mitad del eje) y los **diámetros** (etimología, definición, equivalencia con dos radios consecutivos, las tres medidas, el polar identificado con el eje de rotación); y la **nota al pie 2** (los puntos, líneas y círculos son imaginarios; el orden de exposición es didáctico). Las Figuras 3.1 y 3.2 son ilustraciones y no llevan reactivos.
 - Cubierta la página impresa **79**: el **inciso f)** completo — el **cenit** y el **nadir**, que nacen de prolongar las verticales terrestres hacia el firmamento y se ubican en la bóveda celeste, no en la superficie. **El cierre del inciso e) que abre esta página no lleva reactivo:** dice que la diferencia entre los diámetros "es debida al ensanchamiento ecuatorial y el consiguiente achatamiento polar provocados por el movimiento de rotación", y **eso ya lo pregunta la Unidad II** desde la p.67 (ver la sección "No duplicar con la Unidad II"). La Figura 3.3 es ilustración. **La mitad inferior de la página es un ejercicio** de relacionar la figura con una lista, y por norma no lleva reactivos.
+- Cubierta la página impresa **80**: el arranque del **3.1.2 Círculos de la Tierra** — el **Ecuador** (etimología, circunferencia máxima, los hemisferios y su etimología, de él parten los mayores radios y diámetros, círculo de referencia), los **paralelos** (etimología, definición, de dónde viene su nombre, número infinito salvo en el Ecuador, la inclinación de 23°27' respecto de la eclíptica) y los **trópicos** (etimología griega, su trazado a 23°27' del Ecuador y 66°33' del polo, el origen de su nombre, y el **Trópico de Cáncer** con su ubicación y los países por los que pasa). Las Figuras 3.4, 3.5 y 3.6 son ilustraciones. **Dos datos de esta página NO llevan reactivo por estar ya preguntados en la Unidad II:** que el Ecuador mide 40,075.13 km (Cuadro 2.5, p.67) y el significado de *solsticio*, «el Sol se detiene» (nota al pie de la p.71). **Tampoco la nota al pie 3**, que explica el nombre de la *eclíptica* por los eclipses: es una remisión expresa al subtema 2.4.3 y ya tiene reactivo allá.
 
-**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. De esta unidad queda: el **3.1** de la **p.80** en adelante y todo el **3.2 Zonas térmicas, estaciones del año y husos horarios** (p.84). Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
+**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. De esta unidad queda: el **3.1** de la **p.81** en adelante (sigue el 3.1.2 con el Trópico de Capricornio, los círculos polares y los meridianos) y todo el **3.2 Zonas térmicas, estaciones del año y husos horarios** (p.84). Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
 
 ---
 
@@ -518,3 +519,302 @@ En relación con el libro de Geografía, ¿cómo se obtiene el nadir?
 "Se obtiene prolongando el diámetro terrestre que parte del observador, hasta llegar al lado opuesto de la esfera celeste."
 
 > Nota de revisor: el filo está en **diámetro**, no radio: el nadir sale del otro extremo de la línea que atraviesa la Tierra entera. El distractor B es justo esa confusión.
+
+---
+
+## Sub-lote 3 · Los círculos de la Tierra: Ecuador, paralelos y trópicos (3.1.2, p.80)
+
+### 31
+
+De acuerdo con el libro de Geografía, ¿qué significa la palabra *Ecuador*?
+
+- A. «Que divide en partes iguales»
+- B. «Media esfera»
+- C. «Uno junto a otro»
+- D. «Cambio o vuelta»
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · ecuador
+
+"El Ecuador («que divide en partes iguales») es la circunferencia máxima de la Tierra [...]"
+
+> Nota de revisor: los tres distractores son las etimologías de *hemisferio*, *paralelos* y *trópicos*, todas de esta misma página. Quien no las fijó una por una las revuelve.
+
+### 32
+
+De conformidad con el libro de Geografía, ¿qué es el Ecuador?
+
+- A. La circunferencia máxima de la Tierra, ubicada a igual distancia de los polos
+- B. Un círculo menor trazado perpendicularmente al eje de rotación
+- C. El paralelo trazado a 23°27' de su respectivo polo
+- D. El plano que la Tierra traza en su movimiento alrededor del Sol
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · ecuador
+
+"El Ecuador («que divide en partes iguales») es la circunferencia máxima de la Tierra, ubicada a igual distancia de los polos [...]"
+
+### 33
+
+En relación con el libro de Geografía, ¿cómo se llaman las dos partes iguales en que el Ecuador divide al planeta?
+
+- A. Hemisferios
+- B. Trópicos
+- C. Paralelos
+- D. Círculos polares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · hemisferios
+
+"[...] que divide al planeta en dos partes iguales llamadas hemisferios («media esfera»): Norte, boreal o septentrional; Sur, austral o meridional."
+
+### 34
+
+De acuerdo con el libro de Geografía, ¿qué significa la palabra *hemisferio*?
+
+- A. «Media esfera»
+- B. «Que divide en partes iguales»
+- C. «Uno junto a otro»
+- D. «Cambio o vuelta»
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · hemisferios
+
+"[...] dos partes iguales llamadas hemisferios («media esfera») [...]"
+
+### 35
+
+De conformidad con el libro de Geografía, ¿qué parten del Ecuador?
+
+- A. Los mayores radios y diámetros terrestres
+- B. Los menores radios y diámetros terrestres
+- C. Las verticales que determinan el cenit y el nadir
+- D. Los círculos polares Ártico y Antártico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · ecuador
+
+"De él parten los mayores radios y diámetros terrestres y es el círculo de referencia para el trazado y medición de paralelos, trópicos y círculos polares."
+
+### 36
+
+En relación con el libro de Geografía, ¿para el trazado y medición de qué es el Ecuador el círculo de referencia?
+
+- A. De los paralelos, los trópicos y los círculos polares
+- B. De los meridianos y los husos horarios
+- C. De los radios y los diámetros terrestres
+- D. Del cenit y el nadir de cada observador
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · ecuador
+
+"De él parten los mayores radios y diámetros terrestres y es el círculo de referencia para el trazado y medición de paralelos, trópicos y círculos polares."
+
+### 37
+
+De acuerdo con el libro de Geografía, ¿qué significa la palabra *paralelos*?
+
+- A. «Uno junto a otro»
+- B. «Que divide en partes iguales»
+- C. «Media esfera»
+- D. «Cambio o vuelta»
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · paralelos
+
+"Los paralelos («uno junto a otro») son círculos menores [...]"
+
+### 38
+
+De conformidad con el libro de Geografía, ¿qué son los paralelos?
+
+- A. Círculos menores, trazados perpendicularmente al eje de rotación y paralelamente al Ecuador
+- B. Círculos máximos, trazados de un polo al otro pasando por el Ecuador
+- C. Círculos menores, trazados paralelamente al eje de rotación
+- D. Líneas rectas que van de un punto de la superficie al centro de la Tierra
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · paralelos
+
+"Los paralelos («uno junto a otro») son círculos menores, trazados perpendicularmente al eje de rotación y paralelamente al Ecuador [...]"
+
+> Nota de revisor: el distractor C voltea las dos preposiciones del libro. Es el error de quien recuerda las palabras sueltas y no cuál va con cuál.
+
+### 39
+
+En relación con el libro de Geografía, ¿de dónde proviene el nombre de los paralelos?
+
+- A. De que están trazados paralelamente al Ecuador
+- B. De que corren paralelos al eje de rotación
+- C. De que son paralelos a los meridianos
+- D. De que se trazan a igual distancia unos de otros
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · paralelos
+
+"[...] trazados perpendicularmente al eje de rotación y paralelamente al Ecuador (de esto proviene su nombre)."
+
+### 40
+
+De acuerdo con el libro de Geografía, ¿cuál es el número de los paralelos?
+
+- A. Infinito, pues por cada punto de la superficie terrestre pasa uno, salvo los situados precisamente en el Ecuador
+- B. Infinito, pues por cada punto de la superficie terrestre pasa uno, sin excepción alguna
+- C. Noventa por cada hemisferio, uno por cada grado de latitud
+- D. Cuatro: los dos trópicos y los dos círculos polares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · paralelos
+
+"Su número es infinito, pues por cada punto de la superficie terrestre –salvo los situados precisamente en el Ecuador– pasa uno."
+
+> Nota de revisor: la excepción del Ecuador es justo lo que se salta el que lee de corrido. El distractor B es la misma frase sin ella.
+
+### 41
+
+De conformidad con el libro de Geografía, ¿qué delimita a los trópicos y círculos polares?
+
+- A. La inclinación de 23°27' del eje de rotación respecto de la eclíptica
+- B. La inclinación de 66°33' del eje de rotación respecto de la eclíptica
+- C. La distancia que separa al perihelio del afelio
+- D. El ensanchamiento ecuatorial y el achatamiento polar de la Tierra
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · paralelos
+
+"Entre ellos destacan los trópicos y círculos polares, delimitados por la inclinación de 23°27' del eje de rotación respecto de la eclíptica [...]"
+
+### 42
+
+En relación con el libro de Geografía, ¿qué es la eclíptica?
+
+- A. El plano que la Tierra traza en su movimiento alrededor del Sol
+- B. El plano que la Luna traza en su movimiento alrededor de la Tierra
+- C. La circunferencia máxima de la Tierra, a igual distancia de los polos
+- D. La bóveda celeste imaginaria que envuelve al planeta
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · eclíptica
+
+"[...] la inclinación de 23°27' del eje de rotación respecto de la eclíptica, o sea, el plano que la Tierra traza en su movimiento alrededor del Sol."
+
+### 43
+
+De acuerdo con el libro de Geografía, ¿de qué lengua proviene la palabra *trópicos* y qué significa?
+
+- A. Del griego *trópos*: cambio o vuelta
+- B. Del griego *trópos*: que divide en partes iguales
+- C. Del latín *trópicus*: el Sol se detiene
+- D. Del latín *trópos*: uno junto a otro
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · trópicos
+
+"Los trópicos (del griego *trópos*: cambio o vuelta) son los paralelos trazados a 23°27' del Ecuador [...]"
+
+### 44
+
+De conformidad con el libro de Geografía, ¿a qué distancia están trazados los trópicos?
+
+- A. A 23°27' del Ecuador y 66°33' de su respectivo polo
+- B. A 66°33' del Ecuador y 23°27' de su respectivo polo
+- C. A 23°27' del Ecuador y 23°27' de su respectivo polo
+- D. A 66°33' del Ecuador y 66°33' de su respectivo polo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · trópicos
+
+"Los trópicos (del griego *trópos*: cambio o vuelta) son los paralelos trazados a 23°27' del Ecuador y 66°33' de su respectivo polo."
+
+> Nota de revisor: el 23°27' se recuerda porque es la inclinación del eje; el 66°33' es el que se cae. El distractor B los intercambia.
+
+### 45
+
+En relación con el libro de Geografía, ¿de qué deriva el nombre de los trópicos?
+
+- A. De que, al llegar a ellos, el Sol parece detenerse y cambiar de rumbo
+- B. De que en ellos el Sol se encuentra siempre en el cenit
+- C. De que delimitan la zona de clima cálido del planeta
+- D. De que en ellos el día y la noche duran exactamente lo mismo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · trópicos
+
+"Su nombre deriva de que, al llegar a ellos, el Sol parece detenerse y cambiar de rumbo; fenómeno conocido en Astronomía y Geografía con el nombre de solsticio [...]"
+
+### 46
+
+De acuerdo con el libro de Geografía, ¿cuántos trópicos hay y cuáles son?
+
+- A. Dos: el de Cáncer y el de Capricornio
+- B. Dos: el Ártico y el Antártico
+- C. Cuatro: el de Cáncer, el de Capricornio, el Ártico y el Antártico
+- D. Uno solo: el de Cáncer
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · trópicos
+
+"Hay dos trópicos: el de Cáncer y el de Capricornio."
+
+### 47
+
+De conformidad con el libro de Geografía, ¿dónde se encuentra el Trópico de Cáncer?
+
+- A. A 23°27' al norte del Ecuador y 66°33' del Polo Norte
+- B. A 23°27' al sur del Ecuador y 66°33' del Polo Sur
+- C. A 66°33' al norte del Ecuador y 23°27' del Polo Norte
+- D. A 23°27' al norte del Ecuador y 23°27' del Polo Norte
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · trópico de cáncer
+
+"El Trópico de Cáncer se encuentra a 23°27' al norte del Ecuador y 66°33' del Polo Norte."
+
+### 48
+
+En relación con el libro de Geografía, ¿a qué país divide en dos partes casi iguales el Trópico de Cáncer?
+
+- A. A la República Mexicana
+- B. A la India
+- C. A Bangladesh
+- D. A Formosa (Taiwan)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · trópico de cáncer
+
+"Divide en dos partes casi iguales a la República Mexicana; pasa, además, por el norte de África, la Península Arábiga, la India, Bangladesh, Birmania, el sur de China y Formosa (Taiwan)."
+
+> Nota de revisor: los tres distractores son países por los que el trópico **sí** pasa, del mismo renglón. El filo está en *dividir en dos partes casi iguales*, que el libro reserva sólo para México.
+
+### 49
+
+De acuerdo con el libro de Geografía, además de la República Mexicana, ¿por dónde pasa el Trópico de Cáncer?
+
+- A. Por el norte de África, la Península Arábiga, la India, Bangladesh, Birmania, el sur de China y Formosa (Taiwan)
+- B. Por el sur de África, Madagascar, Australia y el norte de Chile
+- C. Por el norte de Europa, Rusia, Mongolia, Corea y Japón
+- D. Por Centroamérica, las Antillas, el norte de Brasil y Angola
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 80
+**Subtema:** círculos de la tierra · trópico de cáncer
+
+"[...] pasa, además, por el norte de África, la Península Arábiga, la India, Bangladesh, Birmania, el sur de China y Formosa (Taiwan)."
