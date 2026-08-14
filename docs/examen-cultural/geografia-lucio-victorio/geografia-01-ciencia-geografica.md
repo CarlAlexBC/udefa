@@ -16,7 +16,7 @@ Lucio Victorio, Ángela del Rocío, *Geografía*, Editorial Nueva Imagen, **4ª 
 El temario `GEO-01-2026` de la EMEFA pide de esta Unidad **sólo dos temas sueltos**:
 
 - **1.3 División y ciencias auxiliares de la Geografía** (pp. 19–24): 1.3.1 División de la Geografía (p.19) y 1.3.2 Ciencias auxiliares de la Geografía (p.22).
-- **1.4 La Geografía en la vida cotidiana** (pp. 25–…): 1.4.1 Influencia del medio geográfico sobre el hombre (p.25) y 1.4.2 Influencia del hombre sobre el medio geográfico (p.26). **El temario NO lista 1.4.3 (Importancia de la Geografía)** → decisión abierta con Carlo.
+- **1.4 La Geografía en la vida cotidiana** (pp. 25–28): 1.4.1 Influencia del medio geográfico sobre el hombre (p.25), 1.4.2 Influencia del hombre sobre el medio geográfico (p.26) y 1.4.3 Importancia de la Geografía (p.28). **El temario NO lista el 1.4.3**, pero **Carlo decidió el 14 ago 2026 que SÍ entra**: es parte del mismo tema 1.4 del libro y cubre el hueco por si el temario se quedó corto al transcribirse.
 
 El resto de la Unidad I —1.1 Sinopsis histórica y 1.2 Definición, campo y principios— **no lo pide el temario** y queda fuera.
 
@@ -26,6 +26,12 @@ El resto de la Unidad I —1.1 Sinopsis histórica y 1.2 Definición, campo y pr
 
 - **p.22 — "Newin E. Fenneman".** El libro nombra así al autor del Círculo de Fenneman. Verificado con recorte a 600 dpi: está impreso así, no es suciedad del escaneo. El geógrafo es **Nevin M. Fenneman** (el dato de la Universidad de Cincinnati, Ohio, sí es correcto). **No se escriben reactivos sobre el nombre de pila ni la inicial**; el reactivo 22 pregunta por la universidad y recorta el nombre con `[...]` para no propagar la errata.
 - **p.23 — "las relaciones de la Geografía con la Historia"** aparece como "la relaciones" (falta de concordancia). No afecta ningún reactivo: la cita del 33 arranca después de esa frase.
+- **p.26 — "clorofluocarbonos".** Verificado con recorte a 600 dpi: está impreso así, le falta la segunda `r` (lo correcto es *clorofluorocarbonos*). El reactivo 47 usa la grafía del libro entre comillas, porque el aspirante va a ver esa palabra en la página.
+
+## Grafías del libro que NO son erratas
+
+- **"Federico Ratzel"** (p.25) por Friedrich Ratzel: es la castellanización de los nombres propios que usaban los libros de la época, no un error de imprenta. Se cita tal cual.
+- **"Eliseo Reclus"** (p.28) por Élisée Reclus: mismo caso. Sus fechas (1830-1905) se verificaron con recorte a 600 dpi.
 
 ## Criterio de este capítulo
 
@@ -33,7 +39,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** El tema **1.3 queda cubierto del todo** (pp.19–24).
+**CERRADO.** Los dos temas que pide el temario —**1.3 y 1.4**— quedan cubiertos del todo (pp.19–28).
 
 - Cubierta la página impresa **19**: la división de la Geografía en sus dos grandes partes y las cinco ramas de la Geografía Física (1.3.1).
 - Cubierta la página impresa **20**: el Cuadro 1.1 con la definición de cada rama (Astronómica, Geomorfología, Hidrología, Atmosferología, Biogeografía) y las ramas de la Geografía Humana.
@@ -41,8 +47,13 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **22**: 1.3.2, carácter interdisciplinario de la Geografía, el ejemplo de la lluvia y el Círculo de Fenneman (Cuadro 1.2).
 - Cubierta la página impresa **23**: principales ciencias auxiliares (Astronomía, Geología, Física, Química, Biología, Antropología, Sociología, Historia, Economía) y la nota al pie sobre la Lógica y las Matemáticas.
 - Página impresa **24: sin reactivos.** Es el ejercicio de llenar el Círculo de Fenneman más la Figura 1.13 (mapa de la división política de México en 1824); por norma los ejercicios no llevan reactivos.
+- Cubierta la página impresa **25**: 1.4.1, el determinismo geográfico (Ratzel y las doctrinas racistas y colonialistas) y el planteamiento del posibilismo geográfico.
+- Cubierta la página impresa **26**: cierre del posibilismo con los ejemplos de obra humana (Seikan, Wenchuan, Ghardaia, Ferrocarril Central de Perú, capa de ozono) y arranque del 1.4.2 con el paisaje natural.
+- Cubierta la página impresa **27**: modificaciones favorables y desfavorables al medio geográfico.
+- Cubierta la página impresa **28**: 1.4.3, Eliseo Reclus y *Nueva Geografía Universal*, y Ángel Bassols Batalla.
+- Página impresa **29 en adelante: fuera.** La 29 es la "Lectura Complementaria · Concepto de la Geografía", tomada de otro autor (Marrero, Leví, *La Tierra y sus Recursos*), y además trata el concepto de la Geografía, que es el tema 1.2 y **el temario no lo pide**. Después vienen los ejercicios de aplicación.
 
-**Pendiente:** EN CURSO. Sigue desde la **p.25** con el tema **1.4 La Geografía en la vida cotidiana** (1.4.1 Influencia del medio geográfico sobre el hombre, p.25; 1.4.2 Influencia del hombre sobre el medio geográfico, p.26). **Antes de escribir el 1.4 hay que resolver con Carlo si entra o no el 1.4.3 Importancia de la Geografía**, que el temario `GEO-01-2026` no lista.
+**Pendiente:** ninguno en este archivo. **La Unidad I queda cerrada** en lo que pide el temario `GEO-01-2026` (temas 1.3 y 1.4, con el 1.4.3 incluido por decisión de Carlo). Lo que sigue de la materia son las **otras cinco unidades** que pide la EMEFA, cada una en su propio archivo: **Unidad II** (2.4 La Tierra como astro), **Unidad III** (3.1 Puntos, líneas y círculos; 3.2 Zonas térmicas, estaciones y husos horarios), **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima).
 
 ---
 
@@ -556,3 +567,469 @@ En relación con el libro de Geografía, ¿por qué existe una estrecha relació
 **Subtema:** ciencias auxiliares · historia
 
 "[...] aunque proceden con distinto criterio, hay una estrecha relación entre una y otra; pues no puede comprenderse al presente sin un conocimiento por lo menos elemental del pasado, como tampoco pueden comprenderse los sucesos históricos sin tener en cuenta los lugares y las condiciones geográficas en que se produjeron."
+
+## Sub-lote 5 · Determinismo y posibilismo geográfico (1.4.1, pp. 25–26)
+
+### 34
+
+De acuerdo con el libro de Geografía, ¿qué sostiene la teoría del determinismo geográfico?
+
+- A. Que los elementos del medio geográfico influyen de tal manera sobre el hombre que éste no puede evadirse de ellos
+- B. Que el hombre tiene alternativas en su adaptación al medio, al cual puede modificar dentro de ciertos límites
+- C. Que el hombre no está sujeto a ninguna influencia del medio geográfico
+- D. Que el medio geográfico se transforma por completo según la voluntad del hombre
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 25
+**Subtema:** la geografía en la vida cotidiana · determinismo geográfico
+
+"La innegable influencia del medio geográfico sobre el hombre dio origen, en los siglos pasados, a la teoría del determinismo geográfico, según la cual los elementos del medio geográfico influyen de tal manera sobre el hombre que éste no puede evadirse de ellos."
+
+### 35
+
+De conformidad con el libro de Geografía, ¿de qué es creador Federico Ratzel?
+
+- A. De la Geografía Humana o Antropogeografía
+- B. Del Círculo de las ciencias auxiliares
+- C. De la Geografía Física moderna
+- D. De la teoría del posibilismo geográfico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 25
+**Subtema:** la geografía en la vida cotidiana · ratzel
+
+"Federico Ratzel, creador de la Geografía Humana o Antropogeografía [...]"
+
+> Nota de revisor: el libro castellaniza el nombre (Friedrich Ratzel). No es errata de imprenta sino la costumbre de la época; se cita tal cual.
+
+### 36
+
+En relación con el libro de Geografía, ¿qué llegó a decir Federico Ratzel sobre las características físicas de un lugar?
+
+- A. Que bastaba con que se las describieran fielmente para él decir, con toda exactitud, las características de los seres humanos que lo habitaban
+- B. Que no bastaban para explicar nada de los seres humanos que lo habitaban
+- C. Que sólo servían para clasificar el paisaje natural, no a sus habitantes
+- D. Que debían estudiarse siempre junto con la historia del lugar
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 25
+**Subtema:** la geografía en la vida cotidiana · ratzel
+
+Ratzel "llegó a decir que «bastaba que le describieran fielmente las características físicas de un lugar cualquiera para que él dijera, con toda exactitud, las características de los seres humanos que lo habitaban»."
+
+### 37
+
+De acuerdo con el libro de Geografía, ¿de qué doctrinas fueron una de las bases los conceptos deterministas durante mucho tiempo?
+
+- A. De las doctrinas racistas y colonialistas
+- B. De las doctrinas económicas liberales
+- C. De las doctrinas científicas de la Geografía Física
+- D. De las doctrinas religiosas de la Edad Media
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 25
+**Subtema:** la geografía en la vida cotidiana · determinismo geográfico
+
+"Durante mucho tiempo, los conceptos deterministas fueron una de las bases de las doctrinas racistas y colonialistas de países como España, Portugal, Inglaterra, Francia, Alemania, Italia, Bélgica y Holanda, que pretendían justificar así la conquista y explotación de los territorios americanos, africanos y asiáticos."
+
+### 38
+
+De conformidad con el libro de Geografía, ¿qué territorios pretendían justificar conquistar y explotar los países que se apoyaron en los conceptos deterministas?
+
+- A. Los territorios americanos, africanos y asiáticos
+- B. Los territorios europeos y del Cercano Oriente
+- C. Los territorios de Oceanía y las regiones polares
+- D. Los territorios americanos y europeos únicamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 25
+**Subtema:** la geografía en la vida cotidiana · determinismo geográfico
+
+"[...] doctrinas racistas y colonialistas de países como España, Portugal, Inglaterra, Francia, Alemania, Italia, Bélgica y Holanda, que pretendían justificar así la conquista y explotación de los territorios americanos, africanos y asiáticos."
+
+### 39
+
+En relación con el libro de Geografía, ¿en qué consiste la teoría del posibilismo geográfico?
+
+- A. En afirmar que el hombre tiene alternativas en su adaptación al medio, al cual puede modificar dentro de ciertos límites
+- B. En afirmar que el hombre no puede evadirse de los elementos del medio geográfico
+- C. En afirmar que el medio geográfico no influye de ninguna manera sobre el hombre
+- D. En afirmar que el hombre puede suprimir por completo el aspecto natural del paisaje
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 26
+**Subtema:** la geografía en la vida cotidiana · posibilismo geográfico
+
+"[...] mientras los geógrafos de los siglos pasados sostenían la teoría del determinismo geográfico, los actuales defienden la teoría del posibilismo geográfico, consistente en afirmar que el hombre tiene alternativas en su adaptación al medio, al cual puede modificar dentro de ciertos límites."
+
+### 40
+
+De acuerdo con el libro de Geografía, en nuestros días, ¿qué acepta la Geografía respecto de la influencia del medio geográfico sobre el hombre?
+
+- A. Que el hombre está sujeto a ella y que condiciona en gran medida sus características y actividades, pero que no es tan intensa como para que no pueda contrarrestarla al menos parcialmente
+- B. Que el hombre está sujeto a ella de tal manera que no puede evadirse de sus elementos
+- C. Que no existe tal influencia desde el avance científico y tecnológico
+- D. Que sólo alcanza a los pueblos que habitan medios geográficos desfavorables
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 25
+**Subtema:** la geografía en la vida cotidiana · posibilismo geográfico
+
+"En nuestros días la teoría determinista está descartada. La Geografía acepta, ciertamente, que el hombre está sujeto a la influencia del medio geográfico, el cual condiciona en gran medida sus características y actividades. Pero esa influencia no es tan intensa como para que los seres humanos no puedan contrarrestarla, por lo menos parcialmente."
+
+## Sub-lote 6 · La obra del hombre sobre el medio y el paisaje natural (p. 26)
+
+### 41
+
+De conformidad con el libro de Geografía, ¿quiénes se han visto fuertemente influidos por las condiciones del medio ambiente?
+
+- A. Los hombres prehistóricos y aquéllos que en nuestros días cuentan con un bajo nivel científico-tecnológico
+- B. Quienes cuentan con suficientes recursos tecnológicos y económicos
+- C. Únicamente los habitantes de las regiones polares y desérticas
+- D. Los habitantes de los grandes centros de población industrial
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 26
+**Subtema:** la geografía en la vida cotidiana · avance científico y tecnológico
+
+"Los hombres prehistóricos y aquéllos que en nuestros días cuentan con un bajo nivel científico-tecnológico, se han visto fuertemente influidos por las condiciones del medio ambiente."
+
+### 42
+
+En relación con el libro de Geografía, ¿qué longitud tiene el túnel submarino de Seikan, que une Honshu y Hokkaido, en Japón?
+
+- A. 53.85 km
+- B. 35.85 km
+- C. 58.35 km
+- D. 63.85 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 26
+**Subtema:** la geografía en la vida cotidiana · obras del hombre
+
+"[...] une islas mediante túneles submarinos como el de Seikan, de 53.85 km de longitud, entre Honshu y Hokkaido, en Japón [...]"
+
+### 43
+
+De acuerdo con el libro de Geografía, ¿a qué altitud está levantada la ciudad de Wenchuan, en China?
+
+- A. A 5,100 m
+- B. A 4,818 m
+- C. A 3,100 m
+- D. A 5,800 m
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 26
+**Subtema:** la geografía en la vida cotidiana · obras del hombre
+
+"[...] levanta ciudades a 5,100 m de altitud, como la de Wenchuan, en China [...]"
+
+### 44
+
+De conformidad con el libro de Geografía, ¿hasta qué altitud asciende el Ferrocarril Central de Perú, que cruza las sierras andinas?
+
+- A. Hasta 4,818 m
+- B. Hasta 5,100 m
+- C. Hasta 4,180 m
+- D. Hasta 3,818 m
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 26
+**Subtema:** la geografía en la vida cotidiana · obras del hombre
+
+"[...] cruza las sierras andinas mediante el Ferrocarril Central de Perú, que asciende hasta 4,818 m de altitud [...]"
+
+### 45
+
+En relación con el libro de Geografía, ¿qué lugar pone como ejemplo de un centro de población construido donde casi nunca llueve?
+
+- A. Ghardaia, en Argelia
+- B. Wenchuan, en China
+- C. Seikan, en Japón
+- D. Kariba, entre Zambia y Zimbabwe
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 26
+**Subtema:** la geografía en la vida cotidiana · obras del hombre
+
+"[...] construye centros de población en lugares donde casi nunca llueve, como Ghardaia, en Argelia [...]"
+
+### 46
+
+De acuerdo con el libro de Geografía, ¿cuáles son los ríos gigantescos de África que el libro señala como detenidos por el hombre?
+
+- A. El Nilo, el Níger, el Zaire y el Zambeze
+- B. El Nilo, el Ganges, el Éufrates y el Zambeze
+- C. El Níger, el Zaire, el Amazonas y el Orinoco
+- D. El Nilo, el Zaire, el Danubio y el Volga
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 26
+**Subtema:** la geografía en la vida cotidiana · obras del hombre
+
+"[...] detiene ríos gigantescos como el Nilo, el Níger, el Zaire y el Zambeze, en África [...]"
+
+### 47
+
+De conformidad con el libro de Geografía, ¿con la emisión de qué sustancias ha llegado el hombre al extremo de afectar gravemente la capa de ozono?
+
+- A. De "clorofluocarbonos"
+- B. De dióxido de carbono
+- C. De óxidos de azufre
+- D. De metano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 26
+**Subtema:** la geografía en la vida cotidiana · capa de ozono
+
+"[...] ha llegado al extremo de afectar gravemente la capa de ozono, que protege a los seres vivos de las radiaciones ultravioleta provenientes del Sol, con la emisión de incontables cantidades de clorofluocarbonos."
+
+> Nota de revisor: la opción va con la grafía del libro, que escribe "clorofluocarbonos" sin la segunda `r`. Verificado a 600 dpi; ver "Erratas del libro" en el encabezado.
+
+### 48
+
+En relación con el libro de Geografía, ¿qué constituye el paisaje natural?
+
+- A. El complejo de elementos físicos de la superficie terrestre
+- B. El conjunto de las obras que el hombre levanta sobre la superficie terrestre
+- C. La suma de los elementos humanos o culturales de una región
+- D. La parte de la superficie terrestre que el hombre no ha podido habitar
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 26
+**Subtema:** influencia del hombre sobre el medio · paisaje natural
+
+"El complejo de elementos físicos de la superficie terrestre constituye el paisaje natural, sobre el cual desarrolla sus actividades el hombre."
+
+### 49
+
+De acuerdo con el libro de Geografía, cuando el hombre interviene en un paisaje natural, ¿hasta dónde llega su modificación?
+
+- A. Lo modifica paulatinamente, pero en ningún caso llega a suprimir totalmente el aspecto natural
+- B. Lo modifica de golpe y suprime por completo su aspecto natural
+- C. Lo modifica sólo cuando cuenta con un alto nivel científico-tecnológico
+- D. No alcanza a modificarlo, únicamente lo aprovecha
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 26
+**Subtema:** influencia del hombre sobre el medio · paisaje natural
+
+"Conforme éste interviene en un paisaje natural, lo modifica paulatinamente; en ningún caso, sin embargo, llega a suprimir totalmente el aspecto natural."
+
+> Nota de revisor: el "en ningún caso" es el filo del reactivo. Al aspirante le queda la idea contraria por los ejemplos de la p.26.
+
+### 50
+
+De conformidad con el libro de Geografía, ¿qué debe recordarse respecto de la acción del hombre sobre los paisajes naturales?
+
+- A. Que el hombre no crea de la nada; sólo transforma los paisajes naturales aprovechando los recursos que la misma naturaleza le ofrece
+- B. Que el hombre crea paisajes enteramente nuevos, sin relación con los naturales
+- C. Que el hombre sólo puede transformar los paisajes que ya han sido modificados antes
+- D. Que el hombre transforma los paisajes sin necesidad de recursos naturales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 26
+**Subtema:** influencia del hombre sobre el medio · transformación del paisaje
+
+"Debe recordarse, al respecto, que el hombre no crea de la nada; sólo transforma los paisajes naturales, aprovechando para ello los recursos que la misma naturaleza le ofrece [...]"
+
+## Sub-lote 7 · Modificaciones favorables y desfavorables al medio (p. 27)
+
+### 51
+
+En relación con el libro de Geografía, ¿bajo qué forma le ofrece la naturaleza al hombre los recursos con que transforma el paisaje?
+
+- A. Bajo la forma de recursos minerales, tierras cultivables, ríos, lagos y bosques
+- B. Bajo la forma de industrias, comunicaciones y transportes
+- C. Bajo la forma de zonas térmicas, estaciones del año y husos horarios
+- D. Bajo la forma de centros de población, presas y ferrocarriles
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 27
+**Subtema:** influencia del hombre sobre el medio · recursos de la naturaleza
+
+"[...] los recursos que la misma naturaleza le ofrece bajo la forma de recursos minerales, tierras cultivables, ríos, lagos, bosques, etc."
+
+### 52
+
+De acuerdo con el libro de Geografía, ¿son siempre útiles o favorables las transformaciones que el hombre introduce al paisaje natural?
+
+- A. No; con bastante frecuencia son desfavorables o por lo menos inútiles
+- B. Sí; toda transformación mejora el paisaje natural
+- C. Sólo son desfavorables en casos excepcionales
+- D. Son siempre inútiles, porque el paisaje natural vuelve a su estado original
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 27
+**Subtema:** influencia del hombre sobre el medio · modificaciones al paisaje
+
+"Además, las transformaciones que introduce al paisaje natural no siempre son útiles o favorables; con bastante frecuencia son desfavorables o por lo menos inútiles."
+
+### 53
+
+De conformidad con el libro de Geografía, ¿cuáles de estas son modificaciones favorables al medio geográfico?
+
+- A. El control de la erosión, la irrigación de las tierras áridas, la reforestación de los bosques, el combate de las plagas y el tratamiento de las aguas negras
+- B. La destrucción de los bosques, la contaminación del aire y del agua y el exterminio de la fauna silvestre
+- C. La construcción de ciudades a gran altitud, los túneles submarinos y las presas sobre los grandes ríos
+- D. La localización de los recursos productivos y su aprovechamiento sin límite
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 27
+**Subtema:** influencia del hombre sobre el medio · modificaciones favorables
+
+"Son modificaciones favorables al medio geográfico el control de la erosión, la irrigación de las tierras áridas, la reforestación de los bosques con las especies forestales adecuadas, el combate de las plagas y el tratamiento de las aguas negras."
+
+### 54
+
+En relación con el libro de Geografía, ¿cuáles de estas son modificaciones desfavorables al medio geográfico?
+
+- A. La destrucción de los bosques, la contaminación del aire y del agua y el exterminio de la fauna silvestre
+- B. El control de la erosión, la irrigación de las tierras áridas y el combate de las plagas
+- C. La reforestación de los bosques y el tratamiento de las aguas negras
+- D. La construcción de centros de población y de vías de comunicación
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 27
+**Subtema:** influencia del hombre sobre el medio · modificaciones desfavorables
+
+"Por lo contrario, son modificaciones desfavorables la destrucción de los bosques, la contaminación del aire y del agua y el exterminio de la fauna silvestre."
+
+## Sub-lote 8 · Importancia de la Geografía (1.4.3, p. 28)
+
+### 55
+
+De acuerdo con el libro de Geografía, ¿por qué es la Geografía una de las ciencias más importantes para el hombre?
+
+- A. Porque estudia en forma integral la superficie terrestre y analiza las estrechas y profundas relaciones existentes entre el hombre y su ambiente
+- B. Porque es una de las ciencias exactas y mide la Tierra con toda precisión
+- C. Porque estudia por separado los elementos físicos y los elementos humanos
+- D. Porque enumera los accidentes de la superficie terrestre y los nombres de mares y ciudades
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 28
+**Subtema:** importancia de la geografía · por qué es importante
+
+"[...] la Geografía es una de las ciencias más importantes para el hombre, toda vez que estudia en forma integral la superficie terrestre, en la cual se desarrollan las plantas y los animales, y analiza las estrechas y profundas relaciones existentes entre el hombre y su ambiente."
+
+### 56
+
+De conformidad con el libro de Geografía, ¿en qué obra expuso el geógrafo Eliseo Reclus la importancia de la Geografía en una forma a la vez científica y literaria?
+
+- A. En *Nueva Geografía Universal*
+- B. En *Geografía para el México de hoy y de mañana*
+- C. En *La Tierra y sus Recursos*
+- D. En *¿Qué es la Geografía?*
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 28
+**Subtema:** importancia de la geografía · eliseo reclus
+
+"Lo anterior fue expuesto, en una forma a la vez científica y literaria, por el geógrafo Eliseo Reclus (1830-1905) en su *Nueva Geografía Universal* [...]"
+
+> Nota de revisor: los tres distractores son obras reales citadas en la misma página o en sus notas al pie (Bassols Batalla, Marrero y Daus). Salen del mismo texto, como pide la norma.
+
+### 57
+
+En relación con el libro de Geografía, ¿en qué años vivió el geógrafo Eliseo Reclus?
+
+- A. De 1830 a 1905
+- B. De 1810 a 1885
+- C. De 1850 a 1925
+- D. De 1830 a 1892
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 28
+**Subtema:** importancia de la geografía · eliseo reclus
+
+"[...] el geógrafo Eliseo Reclus (1830-1905) en su *Nueva Geografía Universal* [...]"
+
+### 58
+
+De acuerdo con el libro de Geografía, ¿cómo llama Eliseo Reclus a la Tierra, de la cual dice que somos todos hijos?
+
+- A. La madre bienhechora
+- B. La madre naturaleza
+- C. La casa común
+- D. La morada del hombre
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 28
+**Subtema:** importancia de la geografía · eliseo reclus
+
+Reclus escribe que somos "de todas suertes [...] hijos de la madre bienhechora, como los árboles del bosque o las cañas de los ríos".
+
+### 59
+
+De conformidad con el libro de Geografía, ¿qué geógrafo se cita al afirmar que quien se establece en los valles y utiliza el suelo y el agua para cultivar necesita ya un conocimiento geográfico del mundo?
+
+- A. Ángel Bassols Batalla
+- B. Eliseo Reclus
+- C. Federico Ratzel
+- D. Leví Marrero
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 28
+**Subtema:** importancia de la geografía · bassols batalla
+
+"Al respecto, el geógrafo Ángel Bassols Batalla nos dice que: 'Cuando el hombre se establece en los valles y utiliza el suelo y el agua para cultivar, o cuando se lanza a los ríos y mares vecinos para sacar productos pesqueros, ya su conocimiento geográfico del mundo es relativamente importante [...]'"
+
+### 60
+
+En relación con el libro de Geografía, según Ángel Bassols Batalla, ¿qué le es imprescindible saber al hombre que cultiva la tierra?
+
+- A. Cuándo llueve y cómo, o cuándo bajan las aguas de las grandes corrientes e inundan la planicie, haciendo que la semilla fructifique
+- B. Cuáles son las divisiones políticas y las fronteras de su región
+- C. Cuál es la distribución mundial de las plantas y los animales
+- D. Cuál es la composición química del suelo, el agua y el aire
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 28
+**Subtema:** importancia de la geografía · bassols batalla
+
+"[...] pues le es imprescindible saber cuándo llueve y cómo, o cuándo bajan las aguas de las grandes corrientes e inundan la planicie, haciendo que la semilla fructifique."
+
+### 61
+
+De acuerdo con el libro de Geografía, en resumen, ¿para qué nos sirve la Geografía?
+
+- A. Para conocer la superficie terrestre, así como los hechos y fenómenos que en ella ocurren
+- B. Para medir con exactitud la forma y el tamaño de la Tierra
+- C. Para clasificar a las ciencias auxiliares según su campo de estudio
+- D. Para determinar las características de los seres humanos a partir del medio en que viven
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 28
+**Subtema:** importancia de la geografía · para qué sirve
+
+"En resumen, la Geografía nos sirve para conocer la superficie terrestre, así como los hechos y fenómenos que en ella ocurren."
+
+### 62
+
+De conformidad con el libro de Geografía, ¿a quiénes es indispensable el conocimiento de la Geografía?
+
+- A. No sólo a los profesionistas y hombres de ciencia, sino en general a todos los individuos y sociedades que, para vivir bien, necesitan conocer el medio en que habitan
+- B. Únicamente a los profesionistas y hombres de ciencia, como ingenieros, arquitectos y biólogos
+- C. Sólo a quienes se dedican a las actividades productivas del campo y del mar
+- D. Principalmente a los historiadores y economistas, por su relación con la Geografía Humana
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 28
+**Subtema:** importancia de la geografía · a quiénes sirve
+
+"Su conocimiento, por lo tanto, es indispensable no sólo a los profesionistas y hombres de ciencia (ingenieros, arquitectos, biólogos, médicos, antropólogos, historiadores, economistas, etc.), sino en general a todos los individuos y sociedades que, para vivir bien, necesitan conocer el medio en que habitan, a fin de aprovecharlo debidamente."
+
+### 63
+
+En relación con el libro de Geografía, según Ángel Bassols Batalla, ¿con qué nació la Geografía y qué finalidades tuvo desde un principio?
+
+- A. Nació con las sociedades más primitivas y tuvo desde un principio finalidades eminentemente prácticas
+- B. Nació con los antiguos griegos y tuvo desde un principio finalidades eminentemente científicas
+- C. Nació con las grandes exploraciones y tuvo desde un principio finalidades comerciales
+- D. Nació con las ciencias modernas y tuvo desde un principio finalidades interdisciplinarias
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 28
+**Subtema:** importancia de la geografía · bassols batalla
+
+"«Nuestra rama del conocimiento, la Geografía, es la más antigua de todas las manifestaciones del espíritu humano tendientes a conocer y utilizar el medio en que se vive. La Geografía nació con las sociedades más primitivas y tuvo desde un principio finalidades eminentemente prácticas»."
