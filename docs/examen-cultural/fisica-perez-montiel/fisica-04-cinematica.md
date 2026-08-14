@@ -1,29 +1,37 @@
 # Física · Unidad 4 · Cinemática
 
-**Materia:** **cinco planteles** piden esta unidad del mismo libro, con tres
-claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM y EMOS) y
-`FIS-02-2026` (EMA y EMMA).
-**Unidad del libro:** Unidad 4. Cinemática → los temas 2, 4, 5, 6, 9, 10 y 11.
+**Materia:** **cinco planteles** piden esta unidad del mismo libro, con cuatro
+claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM y EMOS),
+`FIS-02-2026` (EMA) y `FÍS-02-2026` (EMMA).
+**Unidad del libro:** Unidad 4. Cinemática → los temas 1, 2, 4, 5, 6, 7, 9, 10 y 11.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Quién lo pide es cosa del temario, y **ningún
 > plantel pide lo mismo que otro**:
 >
-> | Tema de la Unidad 4 | EMO<br>`FIS-03` | EMM<br>`FG-03` | EMOS<br>`FG-03` | EMA/EMMA<br>`FIS-02` |
-> |---|:---:|:---:|:---:|:---:|
-> | 2 · Partícula material y trayectoria | sí | — | — | — |
-> | 4 · Distancia, desplazamiento, velocidad y rapidez | sí | sí | sí | sí |
-> | 5 · MRU | sí | — | — | sí |
-> | 6 · Velocidad media | sí | — | — | sí |
-> | 7 · Velocidad instantánea | — | — | — | **sí ✓** |
-> | 9 · Aceleración y MRUA | sí | — | sí | — |
-> | 10 · Tiro parabólico | sí | — | — | — |
-> | 11 · Movimiento circular | sí | — | — | — |
+> | Tema de la Unidad 4 | EMO<br>`FIS-03` | EMM<br>`FG-03` | EMOS<br>`FG-03` | EMA<br>`FIS-02` | EMMA<br>`FÍS-02` |
+> |---|:---:|:---:|:---:|:---:|:---:|
+> | 1 · Importancia del estudio de la cinemática | — | — | — | — | **sí ✓** |
+> | 2 · Partícula material y trayectoria | sí | — | — | — | **sí** |
+> | 4 · Distancia, desplazamiento, velocidad y rapidez | sí | sí | sí | sí | sí |
+> | 5 · MRU | sí | — | — | sí | sí |
+> | 6 · Velocidad media | sí | — | — | sí | — |
+> | 7 · Velocidad instantánea | — | — | — | sí | sí |
+> | 9 · Aceleración y MRUA | sí | — | sí | — | — |
+> | 10 · Tiro parabólico | sí | — | — | — | — |
+> | 11 · Movimiento circular | sí | — | — | — | — |
 >
 > **Trampa verificada el 24 jul 2026:** la clave `FG-03-2026` aparece en el PDF
 > de la EMM **y** en el de la EMOS, pero **las dos listas de temas son
 > distintas**. La EMM sólo pide el tema 4 de esta unidad; la EMOS pide el 4 y el
 > 9. No basta con leer el código: hay que abrir el PDF de cada plantel.
+>
+> **La misma trampa, otra vez, verificada el 14 ago 2026:** este archivo daba a
+> la **EMA y la EMMA una sola columna** porque su clave se parece, y no es la
+> misma lista. La EMA (`FIS-02-2026`) pide los temas 4, 5, 6 y 7; la EMMA
+> (`FÍS-02-2026`) pide 1, 2, 4, 5 y 7 — o sea, pide el **tema 1** (que no pedía
+> nadie más y estaba sin escribir, se escribió ese día en el sub-lote 17) y el
+> **tema 2**, y en cambio **no** pide el 6. Leído de los PDF de cada plantel.
 >
 > Por eso **la línea `**Tema:**` de cada reactivo es obligatoria**: es la clave
 > (`U4 t5`, `U4 t9`…) con la que cada temario manda a llamar lo suyo. Sin ella
@@ -70,6 +78,10 @@ cada referencia se **lee** de la esquina de la hoja, nunca se calcula.
 - **Sub-lote 14 · Desplazamiento angular, periodo, frecuencia y velocidad angular (pp. 99–100)** — tema 11
 - **Sub-lote 15 · Movimiento circular uniforme, MCU (p. 100)** — tema 11
 - **Sub-lote 16 · Velocidad instantánea (p. 76)** — tema 7
+- **Sub-lote 17 · Importancia del estudio de la cinemática (p. 68)** — tema 1;
+  añadido el 14 ago 2026 para la **EMMA** (`FÍS-02`), único plantel que lo pide.
+  Va al final del archivo (orden de captura, no de página). Desfase +12 releído:
+  la hoja 080 muestra impreso "68".
 
 **Páginas saltadas a propósito** (teoría sobre práctica — no son olvidos):
 
@@ -2323,4 +2335,152 @@ En relación con el libro de Física, ¿por qué debemos calcular la velocidad i
 
 ---
 
-**Reactivos en este archivo:** 133
+## Sub-lote 17 · Importancia del estudio de la cinemática (p. 68) — tema 1
+
+### 134
+
+De conformidad con el libro de Física, cuando decimos que un cuerpo se encuentra en movimiento, ¿qué interpretamos?
+
+- A. Que su posición está variando respecto a un punto de referencia.
+- B. Que su posición permanece fija respecto a un punto de referencia.
+- C. Que su velocidad está variando respecto a un punto de referencia.
+- D. Que su masa está variando respecto a un punto de referencia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 68
+**Tema:** U4 t1 · importancia del estudio de la cinemática
+**Subtema:** física · cinemática
+
+<Cuando decimos que un cuerpo se encuentra en movimiento, interpretamos que su posición está variando respecto a un punto de referencia.>
+
+### 135
+
+En relación con el libro de Física, ¿qué otro nombre se le da a ese punto de referencia?
+
+- A. Marco de referencia.
+- B. Sistema de coordenadas.
+- C. Punto de aplicación.
+- D. Centro de masa.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 68
+**Tema:** U4 t1 · importancia del estudio de la cinemática
+**Subtema:** física · cinemática
+
+<A este punto también se le da el nombre de marco de referencia.>
+
+### 136
+
+De conformidad con el libro de Física, ¿qué constituye el marco de referencia?
+
+- A. El lugar, sitio o espacio, a partir del cual se determina si un cuerpo está en reposo o en movimiento.
+- B. El lugar, sitio o espacio, a partir del cual se determina la masa de un cuerpo.
+- C. El instrumento con el cual se mide la velocidad de un cuerpo.
+- D. La trayectoria que sigue un cuerpo al desplazarse.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 68
+**Tema:** U4 t1 · importancia del estudio de la cinemática
+**Subtema:** física · cinemática
+
+<Constituye el lugar, sitio o espacio, a partir del cual se determina si un cuerpo está en reposo o en movimiento.>
+
+### 137
+
+En relación con el libro de Física, ¿qué nos posibilita el estudio de la cinemática?
+
+- A. Conocer y predecir en qué lugar se encontrará un cuerpo, qué velocidad tendrá al cabo de cierto tiempo, o bien, en qué lapso llegará a su destino.
+- B. Conocer y predecir qué fuerzas producen el movimiento de un cuerpo y qué masa tiene.
+- C. Conocer y predecir la cantidad de calor que un cuerpo cede al moverse.
+- D. Conocer y predecir la deformación que sufre un cuerpo al ser sometido a una fuerza.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 68
+**Tema:** U4 t1 · importancia del estudio de la cinemática
+**Subtema:** física · cinemática
+
+<El estudio de la cinemática nos posibilita conocer y predecir en qué lugar se encontrará un cuerpo, qué velocidad tendrá al cabo de cierto tiempo, o bien, en qué lapso llegará a su destino.>
+
+### 138
+
+De conformidad con el libro de Física, ¿qué significa hacer la descripción del movimiento de un cuerpo?
+
+- A. Precisar, a cada instante, su posición en el espacio.
+- B. Precisar, a cada instante, su masa en el espacio.
+- C. Precisar, una sola vez, su posición inicial y final.
+- D. Precisar las fuerzas que actúan sobre él en cada instante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 68
+**Tema:** U4 t1 · importancia del estudio de la cinemática
+**Subtema:** física · cinemática
+
+<Hacer la descripción del movimiento de un cuerpo significa precisar, a cada instante, su posición en el espacio.>
+
+### 139
+
+En relación con el libro de Física, ¿de qué debemos disponer para ello?
+
+- A. De instrumentos que nos posibiliten hacer mediciones.
+- B. De un sistema de referencia no inercial.
+- C. De un cuerpo de dimensiones pequeñas.
+- D. De una trayectoria rectilínea.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 68
+**Tema:** U4 t1 · importancia del estudio de la cinemática
+**Subtema:** física · cinemática
+
+<Para ello, debemos disponer de instrumentos que nos posibiliten hacer mediciones.>
+
+### 140
+
+De conformidad con el libro de Física, ¿cuáles son ejemplos de esos instrumentos?
+
+- A. Las cintas métricas, los relojes y las cámaras fotográficas con luz estroboscópica.
+- B. Las cintas métricas, los termómetros y las cámaras fotográficas con luz estroboscópica.
+- C. Las balanzas, los relojes y los dinamómetros.
+- D. Los calorímetros, los relojes y las cintas métricas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 68
+**Tema:** U4 t1 · importancia del estudio de la cinemática
+**Subtema:** física · cinemática
+
+<Como es el caso de las cintas métricas, los relojes y las cámaras fotográficas con luz estroboscópica.>
+
+### 141
+
+En relación con el libro de Física, ¿qué permiten ver las cámaras fotográficas con luz estroboscópica?
+
+- A. Aparentemente inmóviles o con movimientos lentos, aquellos cuerpos que tienen movimientos rápidos.
+- B. Aparentemente veloces, aquellos cuerpos que tienen movimientos lentos.
+- C. La trayectoria completa de un cuerpo en una sola imagen fija.
+- D. La posición exacta de un cuerpo en reposo absoluto.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 68
+**Tema:** U4 t1 · importancia del estudio de la cinemática
+**Subtema:** física · cinemática
+
+<Estas últimas permiten ver, aparentemente inmóviles o con movimientos lentos, aquellos cuerpos que tienen movimientos rápidos.>
+
+### 142
+
+De acuerdo con el libro de Física, ¿de qué tipo pueden ser esos movimientos rápidos?
+
+- A. De rotación o alternativos.
+- B. De traslación o circulares.
+- C. De rotación o parabólicos.
+- D. Uniformes o acelerados.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 68
+**Tema:** U4 t1 · importancia del estudio de la cinemática
+**Subtema:** física · cinemática
+
+<Aquellos cuerpos que tienen movimientos rápidos, ya sean de rotación o alternativos.>
+
+---
+
+**Reactivos en este archivo:** 142
