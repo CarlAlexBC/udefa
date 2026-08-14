@@ -32,6 +32,7 @@ El resto de la Unidad II —2.1 Sinopsis histórica de la Astronomía, 2.2 El Un
 No son erratas de imprenta: el libro los afirma así. Se anotan aquí y **no se les escribe reactivo** mientras Carlo no decida, igual que se hizo con el nombre de Fenneman.
 
 - **p.68 — la etimología de "semana".** El libro dice: semana "del latín *septem mane*, «7 mañanas»". La etimología aceptada es del latín tardío ***septimana***, derivada de *septem* («siete»); "*septem mane*" es una explicación de andar por casa. El reactivo 51 pregunta sólo **a quiénes se debe la agrupación de días** (los sumerios), que es el dato firme, y deja la etimología fuera.
+- **p.69 — la duración del año trópico no cuadra consigo misma.** El libro escribe: "Su duración es de **365.2564 días** (365 días, 5 horas, 48 minutos y 46 segundos)". **Las dos cifras no son la misma:** 365 d 5 h 48 min 46 s equivalen a **365.2422** días —que es la duración correcta del año trópico—, mientras que **365.2564 es la del año sidéreo**. El libro tomó el decimal de un año y el desglose del otro. Verificado a 600 dpi: los dígitos están bien impresos, la mezcla es del libro. **El reactivo 66 usa 365.2564**, porque es la cifra que el libro repite —la vuelve a dar en el párrafo d) de esa página y en la lista del ejercicio de la p.70—, y **no la empareja con el desglose de horas**. Si el examen pregunta la duración, ésa es la que el libro sostiene.
 
 ## Criterio de este capítulo
 
@@ -41,14 +42,16 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Cubiertos los subtemas **2.4.1 Forma y tamaño de la Tierra** y **2.4.2 Movimiento de rotación terrestre**.
+**EN CURSO.** Cubiertos los subtemas **2.4.1 Forma y tamaño de la Tierra**, **2.4.2 Movimiento de rotación terrestre** y **2.4.3 Movimiento de traslación terrestre**.
 
 - Cubierta la página impresa **65**: arranque del 2.4 y las formas atribuidas a la Tierra por sumerios, babilonios y hebreos. (La parte de arriba de esa página todavía es 2.3.5 La Luna, que el temario **no pide**; queda fuera.)
 - Cubierta la página impresa **66**: los filósofos griegos, Eratóstenes, el viaje de circunnavegación, el geoide, el elipsoide de revolución y el Vanguard I.
 - Cubierta la página impresa **67**: el Cuadro 2.5 con las medidas de la Tierra y las consecuencias de su forma, más el arranque del 2.4.2 al pie de la página (sentido de la rotación y las 23.93 horas). El ejercicio de verdadero/falso de esa página **no lleva reactivos**, por norma.
 - Cubierta la página impresa **68**: las velocidades de rotación según la latitud y las consecuencias de la rotación terrestre, hasta la medición del tiempo y los sumerios. El ejercicio de esa página **no lleva reactivos**.
+- Cubierta la página impresa **69**: el 2.4.3 completo en su parte de generalidades — perihelio y afelio, distancias y velocidad, la eclíptica, el año trópico y el civil, y las modificaciones al calendario de Julio César y Gregorio XIII.
+- Cubierta la página impresa **70**: las consecuencias de la traslación terrestre (tamaño aparente del Sol, estaciones del año y zonas térmicas, inclinación de 23°27'). El ejercicio de esa página **no lleva reactivos**.
 
-**Pendiente:** EN CURSO. Sigue desde la **p.69** con el **2.4.3 Movimiento de traslación terrestre**, y luego el **2.4.4 Otros movimientos de la Tierra** (arranca al pie de la p.70), hasta la **p.76**: la Unidad III empieza en la 77.
+**Pendiente:** EN CURSO. Sigue desde la **p.70** con el **2.4.4 Otros movimientos de la Tierra**, que arranca al pie de esa página (los otros diez movimientos, Hiparco, precesión de los equinoccios y nutación), hasta la **p.76**: la Unidad III empieza en la 77. Con el 2.4.4 queda **cerrada la Unidad II** en lo que pide el temario.
 
 ---
 
@@ -840,3 +843,416 @@ En relación con el libro de Geografía, ¿a quiénes se debe la agrupación de 
 "A los sumerios se debe también la agrupación de días conocida actualmente con el nombre de semana [...]"
 
 > Nota de revisor: el reactivo se queda en la autoría y **no toca la etimología** que el libro da a continuación ("del latín *septem mane*, «7 mañanas»), que está pendiente de decisión. Ver "Datos del libro que conviene revisar" en el encabezado.
+
+## Sub-lote 5 · Generalidades sobre la traslación terrestre (2.4.3, p. 69)
+
+### 52
+
+De acuerdo con el libro de Geografía, ¿qué figura traza la Tierra en su movimiento de traslación y qué se encuentra en uno de sus focos?
+
+- A. Una elipse, en uno de cuyos focos se encuentra el Sol
+- B. Un círculo, en cuyo centro se encuentra el Sol
+- C. Una elipse, en uno de cuyos focos se encuentra la Luna
+- D. Una espiral, en cuyo origen se encuentra el Sol
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · traslación terrestre
+
+"Además del movimiento de rotación, la Tierra efectúa un movimiento de traslación, trazando una elipse en uno de cuyos focos se encuentra el Sol."
+
+### 53
+
+De conformidad con el libro de Geografía, ¿cómo se llama el máximo acercamiento de la Tierra al Sol y entre qué días ocurre?
+
+- A. Perihelio, entre los días 1 y 3 de enero
+- B. Afelio, entre los días 1 y 4 de julio
+- C. Perihelio, entre los días 1 y 4 de julio
+- D. Afelio, entre los días 1 y 3 de enero
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · perihelio y afelio
+
+"En su máximo acercamiento (perihelio), entre los días 1 y 3 de enero, se encuentra a 147,098,100 km del Sol [...]"
+
+### 54
+
+En relación con el libro de Geografía, ¿a qué distancia del Sol se encuentra la Tierra durante el perihelio?
+
+- A. A 147,098,100 km
+- B. A 152,097,900 km
+- C. A 149,597,870 km
+- D. A 147,908,100 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · perihelio y afelio
+
+"En su máximo acercamiento (perihelio), entre los días 1 y 3 de enero, se encuentra a 147,098,100 km del Sol [...]"
+
+### 55
+
+De acuerdo con el libro de Geografía, ¿cómo se llama el máximo alejamiento de la Tierra respecto del Sol y entre qué días ocurre?
+
+- A. Afelio, entre los días 1 y 4 de julio
+- B. Perihelio, entre los días 1 y 3 de enero
+- C. Afelio, entre los días 1 y 3 de enero
+- D. Perihelio, entre los días 1 y 4 de julio
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · perihelio y afelio
+
+"[...] en su máximo alejamiento (afelio), entre los días 1 y 4 de julio, a 152,097,900."
+
+> Nota de revisor: el par perihelio/afelio es de los que más se invierten. Nótese además que las fechas no son simétricas: **1 y 3** de enero, pero **1 y 4** de julio.
+
+### 56
+
+De conformidad con el libro de Geografía, ¿a qué distancia del Sol se encuentra la Tierra durante el afelio?
+
+- A. A 152,097,900 km
+- B. A 147,098,100 km
+- C. A 149,597,870 km
+- D. A 152,079,900 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · perihelio y afelio
+
+"[...] en su máximo alejamiento (afelio), entre los días 1 y 4 de julio, a 152,097,900."
+
+### 57
+
+En relación con el libro de Geografía, ¿cuál es la distancia media de la Tierra al Sol?
+
+- A. 149,597,870 km
+- B. 147,098,100 km
+- C. 152,097,900 km
+- D. 149,957,870 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · distancia al sol
+
+"Su distancia media es de 149,597,870 km [...]"
+
+### 58
+
+De acuerdo con el libro de Geografía, ¿a qué porcentaje de la distancia media equivale la diferencia entre el perihelio y el afelio, y qué se concluye de ello?
+
+- A. Al 3.34%, por lo cual se dice que su órbita es poco excéntrica
+- B. Al 3.34%, por lo cual se dice que su órbita es muy excéntrica
+- C. Al 33.4%, por lo cual se dice que su órbita es poco excéntrica
+- D. Al 0.34%, por lo cual se dice que su órbita es casi circular
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · órbita terrestre
+
+"[...] la diferencia entre el perihelio y el afelio, 4,999,800 km, equivale sólo al 3.34% de su distancia media, por lo cual se dice que su órbita es poco excéntrica."
+
+### 59
+
+De conformidad con el libro de Geografía, ¿cuándo es mayor la velocidad de traslación de la Tierra?
+
+- A. Durante el perihelio
+- B. Durante el afelio
+- C. Cuando la Tierra se encuentra a su distancia media del Sol
+- D. Es siempre la misma a lo largo del año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · velocidad de traslación
+
+"La velocidad de traslación de la Tierra varía de acuerdo con su distancia al Sol, siendo mayor durante el perihelio que durante el afelio."
+
+### 60
+
+En relación con el libro de Geografía, ¿cuál es el promedio de velocidad de traslación de la Tierra?
+
+- A. 29.78 km/seg (107,220 por hora)
+- B. 29.78 km/hora (107,220 por día)
+- C. 27.98 km/seg (100,728 por hora)
+- D. 1,609 km/seg (107,220 por hora)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · velocidad de traslación
+
+"Su promedio de velocidad es de 29.78 km/seg (107,220 por hora) [...]"
+
+### 61
+
+De acuerdo con el libro de Geografía, ¿cuál es la longitud de la órbita terrestre?
+
+- A. 939,886,500 km
+- B. 993,886,500 km
+- C. 939,868,500 km
+- D. 300,000,000 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · órbita terrestre
+
+"[...] la longitud de su órbita, de 939,886,500 km."
+
+### 62
+
+De conformidad con el libro de Geografía, ¿cómo se llama el plano que circunscribe la órbita terrestre y qué diámetro tiene?
+
+- A. Eclíptica, de unos 300,000,000 de km de diámetro
+- B. Eclíptica, de unos 939,886,500 km de diámetro
+- C. Elipse, de unos 300,000,000 de km de diámetro
+- D. Meridiano, de unos 300,000,000 de km de diámetro
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · eclíptica
+
+"La órbita que la Tierra traza en su movimiento de traslación, circunscribe un plano de unos 300,000,000 de km de diámetro llamado eclíptica."
+
+### 63
+
+En relación con el libro de Geografía, ¿por qué se le dio el nombre de eclíptica a ese plano?
+
+- A. Porque los eclipses solares y lunares se producen precisamente cuando el Sol, la Tierra y la Luna se encuentran en conjunción en dicho plano
+- B. Porque la órbita terrestre tiene forma de elipse
+- C. Porque el Sol parece eclipsarse al cruzar el Ecuador
+- D. Porque el plano se oscurece durante la mitad del año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · eclíptica
+
+"El nombre le fue dado porque los eclipses solares y lunares se producen precisamente cuando el Sol, la Tierra y la Luna se encuentran en conjunción en dicho plano."
+
+### 64
+
+De acuerdo con el libro de Geografía, ¿cuál es la medición del movimiento de traslación terrestre y en qué dos clases se divide?
+
+- A. El año, que puede ser trópico o civil
+- B. El día, que puede ser solar o sidéreo
+- C. El mes, que puede ser lunar o civil
+- D. El año, que puede ser bisiesto o gregoriano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · el año
+
+"La medición del movimiento de traslación terrestre es el año, que puede ser trópico o civil."
+
+### 65
+
+De conformidad con el libro de Geografía, ¿cuándo comienza el año trópico o solar?
+
+- A. Cuando el Sol, en su desplazamiento aparente hacia el norte, cruza el Ecuador
+- B. Cuando el Sol, en su desplazamiento aparente hacia el sur, cruza el Ecuador
+- C. El 1o. de enero de cada año
+- D. Cuando la Tierra alcanza el perihelio
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · año trópico
+
+"El año trópico o solar es el tiempo que la Tierra tarda en dar una vuelta completa alrededor del Sol. Comienza cuando el Sol, en su desplazamiento aparente hacia el norte, cruza el Ecuador."
+
+### 66
+
+En relación con el libro de Geografía, ¿cuál es la duración del año trópico?
+
+- A. 365.2564 días
+- B. 365 días exactos
+- C. 366 días
+- D. 365.2456 días
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · año trópico
+
+"Dado que el año trópico no dura 365 días exactos sino 365.2564 [...]"
+
+> Nota de revisor: el libro da esta cifra **tres veces** (aquí, en el párrafo del año trópico y en la lista del ejercicio de la p.70), pero la acompaña de un desglose —"365 días, 5 horas, 48 minutos y 46 segundos"— que **no equivale a ella**. Por eso el reactivo pide sólo la cifra en días y no la empareja con el desglose. Ver "Datos del libro que conviene revisar" en el encabezado.
+
+### 67
+
+De acuerdo con el libro de Geografía, ¿por qué el año trópico no tiene aplicaciones prácticas en la vida cotidiana?
+
+- A. Porque no comienza en una fecha fija y su duración fraccionaria haría difícil llevar la cuenta de los días
+- B. Porque su duración es menor que la del año civil
+- C. Porque sólo puede medirse con instrumentos astronómicos
+- D. Porque no coincide con las fases de la Luna
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · año trópico
+
+"No tiene aplicaciones prácticas en la vida cotidiana, pues además de que no comienza en una fecha fija (puede ser el 20 ó 21 de marzo), su duración fraccionaria haría difícil llevar la cuenta de los días."
+
+### 68
+
+De conformidad con el libro de Geografía, ¿para qué es bastante usado el año trópico?
+
+- A. Para los cálculos astronómicos
+- B. Para el cómputo de las estaciones del año
+- C. Para el calendario civil de los países
+- D. Para el cálculo de las fases de la Luna
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · año trópico
+
+"Es bastante usado, en cambio, para los cálculos astronómicos."
+
+### 69
+
+En relación con el libro de Geografía, ¿qué es el año civil?
+
+- A. Una adaptación del año solar a las necesidades humanas
+- B. El tiempo que la Tierra tarda en dar una vuelta completa alrededor del Sol
+- C. El período comprendido entre dos perihelios consecutivos
+- D. La agrupación de doce lunaciones sucesivas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · año civil
+
+"El año civil es una adaptación del año solar a las necesidades humanas."
+
+### 70
+
+De acuerdo con el libro de Geografía, ¿con qué coinciden a grandes rasgos los 12 meses en que está dividido el año civil?
+
+- A. Con las fases de la Luna
+- B. Con las estaciones del año
+- C. Con las zonas térmicas
+- D. Con los husos horarios
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · año civil
+
+"El que usamos ahora (Calendario Gregoriano) está dividido en 12 meses que, a grandes rasgos, coinciden con las fases de la Luna."
+
+### 71
+
+De conformidad con el libro de Geografía, ¿cuándo comenzaba el año entre los romanos?
+
+- A. El 1o. de marzo, con el inicio de la primavera
+- B. El 1o. de enero, con el inicio del invierno
+- C. El 20 ó 21 de marzo, cuando el Sol cruza el Ecuador
+- D. El 1o. de julio, con el inicio del verano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · año civil
+
+"Entre los romanos comenzaba el 1o. de marzo, con el inicio de la primavera; ahora comienza el 1o. de enero."
+
+### 72
+
+En relación con el libro de Geografía, ¿qué modificación al calendario dispuso Julio César y en qué año?
+
+- A. El año 47 a.C., la creación de un "año bisiesto" de 366 días cada 4 años
+- B. El año 47 d.C., la creación de un "año bisiesto" de 366 días cada 4 años
+- C. El año 47 a.C., el inicio del año el 1o. de enero
+- D. El año 1582, la creación de un "año bisiesto" de 366 días cada 4 años
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · calendario
+
+"Una de ellas fue la realizada el año 47 a.C. por órdenes de Julio César, quien dispuso la creación de un «año bisiesto» de 366 días cada 4 años [...]"
+
+### 73
+
+De acuerdo con el libro de Geografía, ¿quién efectuó la otra modificación al calendario y en qué año?
+
+- A. El papa Gregorio XIII, en 1582
+- B. El papa Gregorio XIII, en 1852
+- C. El papa Gregorio XII, en 1582
+- D. Julio César, en 1582
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · calendario
+
+"[...] otra, la efectuada por el papa Gregorio XIII en 1582."
+
+### 74
+
+De conformidad con el libro de Geografía, ¿qué denominación recibió nuestro sistema de medir el tiempo a partir de 1582?
+
+- A. Calendario Gregoriano
+- B. Calendario Juliano
+- C. Calendario Solar
+- D. Calendario Trópico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 69
+**Subtema:** la tierra como astro · calendario
+
+"A partir de este año, nuestro sistema de medir el tiempo recibió la denominación de Calendario Gregoriano."
+
+## Sub-lote 6 · Consecuencias de la traslación terrestre (2.4.3, p. 70)
+
+### 75
+
+En relación con el libro de Geografía, ¿cuándo se ve el Sol de mayor tamaño aparente?
+
+- A. Durante el perihelio
+- B. Durante el afelio
+- C. Cuando cruza el Ecuador en su desplazamiento hacia el norte
+- D. Durante el inicio de la primavera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 70
+**Subtema:** la tierra como astro · consecuencias de la traslación
+
+"El cambio del tamaño aparente del Sol: durante el perihelio se ve de mayor tamaño que durante el afelio."
+
+### 76
+
+De acuerdo con el libro de Geografía, ¿a qué da lugar la desigual distribución de la luz y el calor solares?
+
+- A. A las estaciones del año y las zonas térmicas
+- B. A la sucesión del día y la noche
+- C. Al movimiento aparente de los astros
+- D. A la desviación de los vientos y las corrientes marinas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 70
+**Subtema:** la tierra como astro · consecuencias de la traslación
+
+"La desigual distribución de la luz y el calor solares, lo cual da lugar a las estaciones del año y las zonas térmicas [...]"
+
+### 77
+
+De conformidad con el libro de Geografía, ¿de qué son producto las estaciones del año y las zonas térmicas?
+
+- A. Tanto de la cuasi-esfericidad de la Tierra como de la inclinación de su eje de rotación respecto del plano de la eclíptica
+- B. Únicamente de la inclinación del eje de rotación respecto del plano de la eclíptica
+- C. Únicamente de la cuasi-esfericidad de la Tierra
+- D. De la variación de la distancia entre la Tierra y el Sol a lo largo del año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 70
+**Subtema:** la tierra como astro · consecuencias de la traslación
+
+"[...] las estaciones del año y las zonas térmicas, producto tanto de la cuasi-esfericidad de la Tierra como de la inclinación de su eje de rotación respecto del plano de la eclíptica (23°27')."
+
+### 78
+
+En relación con el libro de Geografía, ¿cuál es la inclinación del eje de rotación de la Tierra respecto del plano de la eclíptica?
+
+- A. 23°27'
+- B. 27°23'
+- C. 5°09'
+- D. 23°57'
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 70
+**Subtema:** la tierra como astro · inclinación del eje
+
+"[...] la inclinación de su eje de rotación respecto del plano de la eclíptica (23°27')."
