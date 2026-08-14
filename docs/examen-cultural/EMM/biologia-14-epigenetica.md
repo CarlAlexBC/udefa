@@ -69,9 +69,12 @@ nunca de la discusión social sobre regulación de agroquímicos.
 | p. 295, columna izquierda | "los procesos involucrados en la ejecución **de del** desarrollo embrionario" | "de**l** desarrollo embrionario" — sobra una palabra. |
 | p. 299, columna derecha | "en este escenario el **genotipó** adquiere un valor condicionado" | **genotipo** — acento de más. |
 | p. 301, ensayo 14-1 | "la mirada del filósofo y matemático **sueco** René Descartes (1598-1650)" | **francés**. No es errata de escritura sino de dato: Descartes nació en Francia; murió en Estocolmo, que es probablemente el origen de la confusión. Verificado con `crop.py` a 600 dpi. |
+| p. 311, columna izquierda (ARNpi) | "de este modo marcan las hebras de **ADN** que serán destruidas. Esta unión marca a las nuevas hebras de **ARN** que serán destruidas" | Dos renglones seguidos dicen lo mismo cambiando ADN por ARN. Lo que se destruye es el **ARN** transcripto, como dice la segunda frase y como corresponde al mecanismo descrito. Verificado con `render.py`: está así en el libro, no es fallo de la extracción. |
+| p. 311, columna derecha (vesículas) | "cada vez más **con más frecuencia** se las interpreta" | "cada vez **con más frecuencia**" — sobran dos palabras. Verificado con `render.py`. |
 
-**No se escriben reactivos sobre estos cuatro puntos.** El de Descartes es el más
-delicado: un aspirante que lo memorice se lleva un dato falso a la cabeza.
+**No se escriben reactivos sobre estos seis puntos.** El de Descartes es el más
+delicado: un aspirante que lo memorice se lleva un dato falso a la cabeza. En los dos de la
+p. 311 la cita se corta con `[...]` antes del tramo dudoso.
 
 ## Cobertura actual
 
@@ -197,7 +200,21 @@ como ARNasa citoplasmática, la cadena guía que identifica el ARNm complementar
 degradación del ARNm, su papel de defensa frente a los virus transponibles, y su asociación con
 el complejo RITS que media la metilación del ADN).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **311** (hoja 357) en adelante —las modificaciones de las histonas, el silenciamiento por ARN pequeños no codificantes, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **311**: el apartado "ARNpi" (sus 26 a 31 bases, su generación sin la
+enzima Dicer, la unión a la proteína PIWI, las secuencias complementarias del ADN repetitivo, el
+reclutamiento de proteínas que metilan el ADN cercano, y el control de los transposones para que
+no se inserten generando mutaciones con pérdida de función); los **ARN circulares** (de hallazgo
+curioso a regulador, y los grupos de Nikolaus Rajewsky y Jorgen Kjems en 2013); el apartado
+"El papel de las vesículas extracelulares" (su tamaño de 40 nm a 1 µm, los fluidos biológicos en
+que se encuentran, sus dos vías de formación, los lípidos, proteínas y ácidos nucleicos que todas
+contienen, el contenido selectivo de ARN, el paso de "cargamentos de residuos" a comunicación
+intercelular, y su probable papel en la herencia vía epidídimo y gametogénesis); y el arranque de
+"Interacciones entre diferentes modificaciones epigenéticas" (la "sintonía fina" de la regulación,
+las proteínas "decodificadoras" que reclutan "resaltadoras", y la amplificación de las señales
+activadoras). **Dos rarezas de redacción de esta página quedaron documentadas como erratas y sin
+reactivo.**
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **312** (hoja 358) en adelante —la fig. 14-13, los cambios epigenéticos durante el desarrollo embrionario, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -4001,5 +4018,361 @@ De acuerdo con el libro de Biología, los ARNsi también se asocian con otros co
 **Subtema:** epigenética · ARNsi · RITS
 
 Estos ARNsi también se asocian con otros complejos proteicos denominados silenciamiento transcripcional inducido por ARN (RITS, por su sigla en inglés), que median la metilación del ADN y otras modificaciones epigenéticas de las histonas, evitando la expresión de los genes específicos.
+
+---
+### 221
+
+De acuerdo con el libro de Biología, ¿cuántas bases tienen los ARNpi?
+
+- A. Entre 26 y 31 bases
+- B. Entre 19 y 24 bases
+- C. Entre 21 y 25 bases
+- D. Al menos 200 bases
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · ARNpi · tamaño
+
+Los ARNpi tienen entre 26 y 31 bases.
+
+---
+
+### 222
+
+De conformidad con el libro de Biología, ¿qué enzima no interviene en la generación de los ARNpi?
+
+- A. La enzima Dicer
+- B. La ARN polimerasa
+- C. La ADN metil transferasa
+- D. La ADN polimerasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · ARNpi · generación
+
+Son un poco más largos que los miARN y ARNsi, y su generación no involucra a la enzima Dicer.
+
+---
+
+### 223
+
+En relación con el libro de Biología, los ARNpi dejan el núcleo después de ser transcriptos; ¿a qué tipo de proteína se unen?
+
+- A. A un tipo de proteína llamada PIWI
+- B. A un tipo de proteína llamada argonauta
+- C. A las proteínas de la familia polycomb
+- D. A las proteínas Tet
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · ARNpi · proteína PIWI
+
+Los ARNpi dejan el núcleo después de ser transcriptos y se unen a un tipo de proteína llamada PIWI.
+
+---
+
+### 224
+
+De acuerdo con el libro de Biología, ¿a qué secuencias se unen los ARNpi?
+
+- A. A secuencias complementarias de los ARN que son activamente transcriptas del ADN repetitivo
+- B. A las islas CpG situadas en las regiones promotoras de los genes
+- C. A las secuencias promotoras de los genes HOX
+- D. A las colas de las histonas que asoman del nucleosoma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · ARNpi · unión al ADN repetitivo
+
+Los ARNpi se unen a secuencias complementarias de los ARN que son activamente transcriptas del ADN repetitivo [...].
+
+---
+
+### 225
+
+De conformidad con el libro de Biología, ¿qué hacen las proteínas PIWI unidas simultáneamente?
+
+- A. Reclutan a otras que metilan el ADN cercano, lo que impide que ocurra la transcripción
+- B. Reclutan a otras que demetilan el ADN cercano, lo que permite que ocurra la transcripción
+- C. Acetilan las colas de las histonas cercanas, lo que descompacta la cromatina
+- D. Fragmentan el ARN de doble cadena en el citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · ARNpi · proteínas PIWI y metilación
+
+A su vez, las proteínas PIWI unidas simultáneamente reclutan a otras que metilan el ADN cercano, lo que impide que ocurra la transcripción.
+
+---
+
+### 226
+
+En relación con el libro de Biología, ¿por qué se señala frecuentemente este fenómeno como un proceso de vital importancia?
+
+- A. Porque, de ambas maneras, regula potenciales daños que podrían causar los transposones
+- B. Porque, de ambas maneras, repara los daños que la radiación causa al ADN
+- C. Porque, de ambas maneras, aumenta la tasa de expresión de los genes del desarrollo
+- D. Porque, de ambas maneras, conserva el patrón de metilación durante la mitosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · ARNpi · control de los transposones
+
+Este fenómeno es frecuentemente señalado como un proceso de vital importancia dado que, de ambas maneras, regula potenciales daños que podrían causar los transposones.
+
+---
+
+### 227
+
+De acuerdo con el libro de Biología, al estar involucrados en la metilación y compactación del genoma mediada por histonas, ¿qué evitan los ARNpi y el complejo ARNpi-proteína PIWI?
+
+- A. Que los transposones se inserten en ese sitio del genoma, generando mutaciones con pérdida de función
+- B. Que los transposones se transcriban en ese sitio del genoma, generando copias de sí mismos
+- C. Que las islas CpG de ese sitio del genoma pierdan sus grupos metilo
+- D. Que los nucleosomas de ese sitio del genoma se desmonten durante la diferenciación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · ARNpi · inserción de transposones
+
+Al estar involucrados en la metilación y compactación del genoma mediada por histonas, los ARNpi y el complejo ARNpi-proteína PIWI evitan que los transposones se inserten en ese sitio del genoma, generando mutaciones con pérdida de función.
+
+---
+
+### 228
+
+De conformidad con el libro de Biología, ¿cómo se consideraba a los ARN circulares hasta hace unos años?
+
+- A. Hallazgos curiosos, productos atípicos o erróneos de fenómenos de corte y empalme o artefactos hallados en observaciones que eran finalmente descartadas
+- B. Andamios que reclutaban proteínas reguladoras sobre la cromatina
+- C. Cargamentos de residuos de las células, sin función conocida
+- D. Variantes de histonas propias de las células espermáticas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · ARN circulares · antecedentes
+
+Hasta hace unos años, se los consideraba hallazgos curiosos, productos atípicos o erróneos de fenómenos de corte y empalme o artefactos hallados en observaciones que eran finalmente descartadas.
+
+---
+
+### 229
+
+En relación con el libro de Biología, en 2013, ¿qué grupos encontraron nuevos resultados similares entre sí sobre los ARN circulares?
+
+- A. Los de Nikolaus Rajewsky de Alemania y los de Jorgen Kjems de Dinamarca
+- B. Los de Craig Mello y los de Andrew Fire, de los Estados Unidos
+- C. Los de Rudolf Jaenisch de Alemania y los de Susan Strome de los Estados Unidos
+- D. Los de David Allis de los Estados Unidos y los de Dorothy Nelkin de Inglaterra
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · ARN circulares · Rajewsky y Kjems
+
+En 2013, los grupos de Nikolaus Rajewsky de Alemania y de Jorgen Kjems de Dinamarca encontraron nuevos resultados similares entre sí.
+
+---
+
+### 230
+
+De acuerdo con el libro de Biología, ¿de qué modo pueden los ARN circulares regular la expresión génica?
+
+- A. Al eliminar de los ARNm ciertos miARN que bloquean su traducción a proteínas
+- B. Al eliminar de los ARNm ciertos miARN que activan su traducción a proteínas
+- C. Al metilar las islas CpG de las regiones promotoras
+- D. Al reclutar proteínas polycomb sobre los genes HOX
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · ARN circulares · mecanismo
+
+Hallaron que existen ARN circulares que pueden regular la expresión génica al eliminar de los ARNm ciertos miARN que bloquean su traducción a proteínas.
+
+---
+
+### 231
+
+De conformidad con el libro de Biología, ¿de qué tamaño son las vesículas extracelulares?
+
+- A. Pequeños compartimentos de 40 nm hasta 1 µm de diámetro
+- B. Pequeños compartimentos de 26 a 31 nm de diámetro
+- C. Pequeños compartimentos de 200 nm hasta 2 µm de diámetro
+- D. Pequeños compartimentos de 1 µm hasta 40 µm de diámetro
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · vesículas extracelulares · tamaño
+
+Las vesículas extracelulares son pequeños compartimentos de 40 nm hasta 1 µm de diámetro, producidas por la mayoría de las células.
+
+---
+
+### 232
+
+En relación con el libro de Biología, ¿en qué fluidos biológicos se encuentran las vesículas extracelulares?
+
+- A. Sangre, orina, líquido cefalorraquídeo, semen, líquido amniótico y leche materna
+- B. Sangre, orina, linfa, bilis, jugo gástrico y saliva
+- C. Sangre, orina, líquido cefalorraquídeo, sudor, lágrimas y bilis
+- D. Sangre, linfa, líquido amniótico, saliva, sudor y jugo pancreático
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · vesículas extracelulares · dónde se encuentran
+
+Se encuentran en los fluidos biológicos (sangre, orina, líquido cefalorraquídeo, semen, líquido amniótico y leche materna).
+
+---
+
+### 233
+
+De acuerdo con el libro de Biología, ¿a qué vías puede responder la formación de las vesículas extracelulares?
+
+- A. A la sección de la propia membrana plasmática o al ensamblado de vesículas intracelulares que luego se liberan al medio externo
+- B. Al desprendimiento de la envoltura nuclear o a la fragmentación del retículo endoplasmático
+- C. A la sección de la pared celular o al ensamblado de vesículas del aparato de Golgi
+- D. A la fusión de dos células vecinas o a la ruptura de los lisosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · vesículas extracelulares · formación
+
+Su formación puede responder a diversas vías: por sección de la propia membrana plasmática o por el ensamblado de vesículas intracelulares que luego se liberan al medio externo.
+
+---
+
+### 234
+
+De conformidad con el libro de Biología, si bien su composición es heterogénea, ¿qué contienen todas las vesículas?
+
+- A. Lípidos, proteínas y ácidos nucleicos
+- B. Lípidos, proteínas y polisacáridos
+- C. Proteínas, ácidos nucleicos y grupos metilo
+- D. Lípidos, ácidos nucleicos y grupos acetilo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · vesículas extracelulares · composición
+
+Si bien su composición es heterogénea, todas las vesículas contienen lípidos, proteínas y ácidos nucleicos.
+
+---
+
+### 235
+
+En relación con el libro de Biología, el contenido selectivo de las vesículas se hace especialmente evidente cuando se analiza el ARN; ¿por qué?
+
+- A. Porque las vesículas carecen de ARN ribosómico, pero están enriquecidas de ARNm, ARN pequeños no codificantes y ARN circulares
+- B. Porque las vesículas carecen de ARNm, pero están enriquecidas de ARN ribosómico y de ARN de transferencia
+- C. Porque las vesículas carecen de ARN pequeños no codificantes, pero están enriquecidas de ARN ribosómico
+- D. Porque las vesículas carecen de ARN circulares, pero están enriquecidas de ARN ribosómico y de ARNm
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · vesículas extracelulares · contenido de ARN
+
+Este contenido selectivo se hace especialmente evidente cuando se analiza el ARN, ya que las vesículas carecen de ARN ribosómico, pero están enriquecidas de ARNm, ARN pequeños no codificantes y ARN circulares.
+
+---
+
+### 236
+
+De acuerdo con el libro de Biología, ¿cómo se consideró a las vesículas extracelulares al describirlas por primera vez?
+
+- A. Cargamentos de residuos de las células
+- B. Una notable forma de comunicación intercelular
+- C. Artefactos de los fenómenos de corte y empalme
+- D. Andamios de las proteínas reguladoras
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · vesículas extracelulares · interpretación
+
+Si bien al describirlas por primera vez se las consideró cargamentos de residuos de las células, [...] se las interpreta como una notable forma de comunicación intercelular.
+
+---
+
+### 237
+
+De conformidad con el libro de Biología, ¿en qué momentos se evalúa el papel de las vesículas en la transmisión de información de células somáticas a células germinales?
+
+- A. Tanto en la maduración de los espermatozoides en el epidídimo como en la gametogénesis previa
+- B. Tanto en la fecundación del oocito como en la primera división del cigoto
+- C. Tanto en la gastrulación como en la organogénesis del embrión
+- D. Tanto en la maduración de los oocitos en el ovario como en la implantación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · vesículas extracelulares · efectos en la herencia
+
+Se evalúa el papel que pueden tener en la transmisión de información de células somáticas a células germinales, tanto en la maduración de los espermatozoides en el epidídimo como en la gametogénesis previa, con los consecuentes probables efectos en la herencia.
+
+---
+
+### 238
+
+En relación con el libro de Biología, ¿qué se ha propuesto que podrían constituir las interacciones entre las distintas modificaciones epigenéticas?
+
+- A. Una "sintonía fina" de la regulación de la transcripción génica
+- B. Un "interruptor" de encendido y apagado de la transcripción génica
+- C. Una "memoria de largo plazo" de la transcripción génica
+- D. Un "andamio" de la transcripción génica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · interacciones · sintonía fina
+
+Se ha propuesto que estas interacciones podrían constituir una "sintonía fina" de la regulación de la transcripción génica y conducir tanto a estados activos como silenciosos de la cromatina, expandiendo ambas condiciones a localizaciones adyacentes.
+
+---
+
+### 239
+
+De acuerdo con el libro de Biología, las proteínas "decodificadoras" que se enlazan específicamente al ADN metilado y a otras marcas epigenéticas represivas pueden sumar otro proceso complementario; ¿en qué consiste?
+
+- A. En reclutar proteínas "resaltadoras"
+- B. En reclutar proteínas "borradoras"
+- C. En reclutar proteínas "escritoras"
+- D. En reclutar proteínas "lectoras"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · interacciones · proteínas resaltadoras
+
+Las proteínas "decodificadoras" que se enlazan específicamente al ADN metilado y otras marcas epigenéticas represivas pueden sumar, además, otro proceso complementario, reclutando proteínas "resaltadoras".
+
+---
+
+### 240
+
+De conformidad con el libro de Biología, ¿qué hacen esas nuevas proteínas "resaltadoras"?
+
+- A. Metilan dinucleótidos CpGs cercanos y producen modificaciones represivas en las histonas o remodelan la cromatina hacia estados más densos
+- B. Demetilan dinucleótidos CpGs cercanos y producen modificaciones activadoras en las histonas o remodelan la cromatina hacia estados más laxos
+- C. Acetilan dinucleótidos CpGs cercanos y desmontan los nucleosomas vecinos
+- D. Fosforilan dinucleótidos CpGs cercanos y trasladan la cromatina al centro del núcleo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · interacciones · proteínas resaltadoras
+
+Las nuevas proteínas metilan dinucleótidos CpGs cercanos y producen modificaciones represivas en las histonas o remodelan la cromatina hacia estados más densos.
+
+---
+
+### 241
+
+En relación con el libro de Biología, ¿qué pueden hacer, de modo análogo, los decodificadores que reconocen grupos acetilos y otras modificaciones activadoras de las histonas?
+
+- A. Amplificar o reforzar señales
+- B. Silenciar o apagar señales
+- C. Retrasar o demorar señales
+- D. Traducir o transcribir señales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 311
+**Subtema:** epigenética · interacciones · amplificación de señales
+
+De modo análogo, los decodificadores que reconocen grupos acetilos y otras modificaciones activadoras de las histonas pueden amplificar o reforzar señales.
 
 ---
