@@ -42,16 +42,20 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Cubiertos los subtemas **2.4.1 Forma y tamaño de la Tierra**, **2.4.2 Movimiento de rotación terrestre** y **2.4.3 Movimiento de traslación terrestre**.
+**CERRADO.** El tema **2.4 La Tierra como astro** —lo único que el temario pide de esta Unidad— queda cubierto del todo (pp. 65–71) en sus cuatro subtemas: **2.4.1 Forma y tamaño de la Tierra**, **2.4.2 Movimiento de rotación terrestre**, **2.4.3 Movimiento de traslación terrestre** y **2.4.4 Otros movimientos de la Tierra**.
 
 - Cubierta la página impresa **65**: arranque del 2.4 y las formas atribuidas a la Tierra por sumerios, babilonios y hebreos. (La parte de arriba de esa página todavía es 2.3.5 La Luna, que el temario **no pide**; queda fuera.)
 - Cubierta la página impresa **66**: los filósofos griegos, Eratóstenes, el viaje de circunnavegación, el geoide, el elipsoide de revolución y el Vanguard I.
 - Cubierta la página impresa **67**: el Cuadro 2.5 con las medidas de la Tierra y las consecuencias de su forma, más el arranque del 2.4.2 al pie de la página (sentido de la rotación y las 23.93 horas). El ejercicio de verdadero/falso de esa página **no lleva reactivos**, por norma.
 - Cubierta la página impresa **68**: las velocidades de rotación según la latitud y las consecuencias de la rotación terrestre, hasta la medición del tiempo y los sumerios. El ejercicio de esa página **no lleva reactivos**.
 - Cubierta la página impresa **69**: el 2.4.3 completo en su parte de generalidades — perihelio y afelio, distancias y velocidad, la eclíptica, el año trópico y el civil, y las modificaciones al calendario de Julio César y Gregorio XIII.
-- Cubierta la página impresa **70**: las consecuencias de la traslación terrestre (tamaño aparente del Sol, estaciones del año y zonas térmicas, inclinación de 23°27'). El ejercicio de esa página **no lleva reactivos**.
+- Cubierta la página impresa **70**: las consecuencias de la traslación terrestre (tamaño aparente del Sol, estaciones del año y zonas térmicas, inclinación de 23°27') y el arranque del 2.4.4 al pie de la página (los otros diez movimientos, Hiparco y el ángulo de la órbita lunar). El ejercicio de esa página **no lleva reactivos**.
+- Cubierta la página impresa **71**: la precesión de los equinoccios con su serie de estrellas, la nutación, los demás movimientos terrestres (baricentro, Neptuno, la Vía Láctea) y la **nota al pie 8** con equinoccio, solsticio y punto vernal.
+- Páginas impresas **72 a 76: sin reactivos.** La 72 es el ejercicio de relacionar columnas; la **73 es una "Lectura Complementaria"** tomada de otro autor (*La Biblia*, Biblioteca de Autores Cristianos y Editorial Miñón) sobre el cosmos del hombre bíblico; y de la **74 a la 76** van los "Ejercicios de aplicación" con su escala de calificaciones. Por norma, ni ejercicios ni lecturas complementarias llevan reactivos.
 
-**Pendiente:** EN CURSO. Sigue desde la **p.70** con el **2.4.4 Otros movimientos de la Tierra**, que arranca al pie de esa página (los otros diez movimientos, Hiparco, precesión de los equinoccios y nutación), hasta la **p.76**: la Unidad III empieza en la 77. Con el 2.4.4 queda **cerrada la Unidad II** en lo que pide el temario.
+**Pendiente:** ninguno en este archivo. **La Unidad II queda cerrada** en lo que pide el temario `GEO-01-2026` (sólo el tema 2.4). Lo que sigue de la materia son las **cuatro unidades restantes** que pide la EMEFA, cada una en su propio archivo: **Unidad III** (3.1 Puntos, líneas y círculos de la Tierra y la situación geográfica, p.78; 3.2 Zonas térmicas, estaciones del año y husos horarios, p.84), **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima).
+
+> Aviso para quien siga: **la Unidad III arranca en la p.77** y su tema 3.2 retoma las zonas térmicas y las estaciones del año, que aquí ya asomaron en el 2.4.3. No se duplican reactivos: los de aquí salen del capítulo de la traslación; los de allá saldrán del 3.2.
 
 ---
 
@@ -1256,3 +1260,508 @@ En relación con el libro de Geografía, ¿cuál es la inclinación del eje de r
 **Subtema:** la tierra como astro · inclinación del eje
 
 "[...] la inclinación de su eje de rotación respecto del plano de la eclíptica (23°27')."
+
+## Sub-lote 7 · Precesión, nutación y los demás movimientos (2.4.4, pp. 70–71)
+
+### 79
+
+De acuerdo con el libro de Geografía, ¿cuántos movimientos realiza la Tierra en forma simultánea e ininterrumpida?
+
+- A. 12
+- B. 10
+- C. 2
+- D. 6
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 70
+**Subtema:** la tierra como astro · otros movimientos
+
+"La Tierra tiene otros diez movimientos, que se presentan simultáneamente en el espacio [...] En la imposibilidad de captar en forma global los 12 movimientos que la Tierra realiza en forma simultánea e ininterrumpida, nos vemos en la necesidad de aislarlos y analizarlos separadamente."
+
+> Nota de revisor: el libro da el dato de dos maneras —"otros diez" y "los 12"—, porque a los diez hay que sumarles la rotación y la traslación. El distractor B es justo esa confusión.
+
+### 80
+
+De conformidad con el libro de Geografía, ¿quién comprobó por primera vez que el movimiento de rotación terrestre no es del todo uniforme, y hacia qué año?
+
+- A. El astrónomo griego Hiparco, hacia el año 128 a.C.
+- B. El astrónomo griego Hiparco, hacia el año 128 d.C.
+- C. Eratóstenes de Cirene, hacia el año 128 a.C.
+- D. Claudio Ptolomeo, hacia el año 218 a.C.
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 70
+**Subtema:** la tierra como astro · precesión de los equinoccios
+
+"El movimiento de rotación terrestre no es del todo uniforme, como lo comprobó por primera vez el astrónomo griego Hiparco hacia el año 128 a.C."
+
+### 81
+
+En relación con el libro de Geografía, ¿en qué radica la causa principal de que el movimiento de rotación no sea del todo uniforme?
+
+- A. En la fuerza gravitatoria de la Luna
+- B. En la fuerza gravitatoria del Sol
+- C. En el ensanchamiento ecuatorial de la Tierra
+- D. En la fuerza gravitatoria de Neptuno
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 70
+**Subtema:** la tierra como astro · precesión de los equinoccios
+
+"La causa principal radica en la fuerza gravitatoria de la Luna [...]"
+
+### 82
+
+De acuerdo con el libro de Geografía, ¿qué ángulo forma la órbita lunar con el plano de la eclíptica?
+
+- A. 5°09'
+- B. 9°05'
+- C. 23°27'
+- D. 5°90'
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 70
+**Subtema:** la tierra como astro · órbita lunar
+
+"[...] la órbita lunar no coincide con el plano de la eclíptica, sino que forma con él un ángulo de 5°09' [...]"
+
+### 83
+
+De conformidad con el libro de Geografía, ¿qué traza en el espacio el eje terrestre al desplazarse?
+
+- A. Dos conos, unidos por sus puntas en el centro de la Tierra
+- B. Dos conos, unidos por sus bases en el centro de la Tierra
+- C. Una elipse alrededor del centro de la Tierra
+- D. Un cono cuya punta se apoya en el Polo Norte
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · precesión de los equinoccios
+
+"[...] el eje terrestre se desplaza un poco y traza en el espacio dos conos, unidos por sus puntas en el centro de la Tierra."
+
+### 84
+
+En relación con el libro de Geografía, ¿cuál es la duración del movimiento de precesión de los equinoccios?
+
+- A. Unos 25,800 años
+- B. Unos 25,080 años
+- C. Unos 220,000,000 de años
+- D. Unos 18 años 8 meses
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · precesión de los equinoccios
+
+"Se produce así el llamado movimiento de precesión de los equinoccios, cuya duración es de unos 25,800 años."
+
+### 85
+
+De acuerdo con el libro de Geografía, año con año, ¿cuánto se adelanta la llegada del Sol al punto vernal y hacia qué rumbo?
+
+- A. Aproximadamente 50' de arco, un poco más hacia el este
+- B. Aproximadamente 50' de arco, un poco más hacia el oeste
+- C. Aproximadamente 5° de arco, un poco más hacia el este
+- D. Aproximadamente 15' de arco, un poco más hacia el norte
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · precesión de los equinoccios
+
+"Año con año, el astro rey llega al punto vernal un poco más hacia el este, aproximadamente 50' de arco."
+
+### 86
+
+De conformidad con el libro de Geografía, ¿a qué estrella apuntaba el Polo Norte terrestre hacia el año 2700 a.C.?
+
+- A. A Alfa del Dragón (*Alfa Draconis*)
+- B. A la Estrella Polar (*Alfa Ursae Minoris*)
+- C. A Alderamín (*Alfa Cephei*)
+- D. A Vega (*Alfa Lyrae*)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · precesión de los equinoccios
+
+"[...] hacia el año 2700 a.C. apuntaba a la estrella Alfa del Dragón (*Alfa Draconis*) [...]"
+
+### 87
+
+En relación con el libro de Geografía, ¿a qué estrella apuntará el Polo Norte terrestre dentro de 6,000 años?
+
+- A. A Alderamín (*Alfa Cephei*)
+- B. A Vega (*Alfa Lyrae*)
+- C. A Alfa del Dragón (*Alfa Draconis*)
+- D. A la Estrella Polar (*Alfa Ursae Minoris*)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · precesión de los equinoccios
+
+"[...] dentro de 6,000 años lo hará hacia Alderamín (*Alfa Cephei*) y dentro de 12,000 hacia Vega (*Alfa Lyrae*)."
+
+### 88
+
+De acuerdo con el libro de Geografía, ¿a qué estrella apuntará el Polo Norte terrestre dentro de 12,000 años?
+
+- A. A Vega (*Alfa Lyrae*)
+- B. A Alderamín (*Alfa Cephei*)
+- C. A Alfa del Dragón (*Alfa Draconis*)
+- D. A la Estrella Polar (*Alfa Ursae Minoris*)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · precesión de los equinoccios
+
+"[...] dentro de 6,000 años lo hará hacia Alderamín (*Alfa Cephei*) y dentro de 12,000 hacia Vega (*Alfa Lyrae*)."
+
+> Nota de revisor: las cuatro estrellas de la serie son las cuatro opciones en los reactivos 86, 87 y 88. El aspirante que sólo recuerda "son cuatro estrellas" no acierta ninguno; hay que saber el orden.
+
+### 89
+
+De conformidad con el libro de Geografía, ¿cuál es el nombre latino de la Estrella Polar, hacia la que apunta hoy el Polo Norte terrestre?
+
+- A. *Alfa Ursae Minoris*
+- B. *Alfa Draconis*
+- C. *Alfa Cephei*
+- D. *Alfa Lyrae*
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · precesión de los equinoccios
+
+"[...] hoy lo hace hacia la Estrella Polar (*Alfa Ursae Minoris*) [...]"
+
+### 90
+
+En relación con el libro de Geografía, ¿qué provoca el ligero cabeceo u oscilación conocido como movimiento de nutación?
+
+- A. Las atracciones combinadas del Sol y la Luna
+- B. La atracción de la Luna únicamente
+- C. La atracción de los demás astros del Sistema Solar
+- D. El desplazamiento del centro de la Tierra alrededor del baricentro
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · nutación
+
+"Las atracciones combinadas del Sol y la Luna provocan un ligero cabeceo u oscilación, conocido como movimiento de nutación [...]"
+
+### 91
+
+De acuerdo con el libro de Geografía, ¿qué clase de desplazamiento sigue el eje de rotación terrestre debido a la nutación?
+
+- A. No un desplazamiento circular, sino un movimiento serpenteante
+- B. Un desplazamiento rigurosamente circular
+- C. Un desplazamiento elíptico alrededor del punto vernal
+- D. Un desplazamiento en línea recta hacia el este
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · nutación
+
+"[...] debido al cual el eje de rotación terrestre sigue no un desplazamiento circular, como sería de esperarse si sólo existiera el movimiento de precesión, sino un movimiento serpenteante."
+
+### 92
+
+De conformidad con el libro de Geografía, ¿cuánto dura cada "cabeceo" o nutación?
+
+- A. 18 años 8 meses
+- B. 8 años 18 meses
+- C. 18 años 6 meses
+- D. 25,800 años
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · nutación
+
+"Cada «cabeceo» o nutación tiene una duración de 18 años 8 meses."
+
+### 93
+
+En relación con el libro de Geografía, ¿a qué distancia está situado el baricentro, alrededor del cual gira el centro de la Tierra?
+
+- A. A unos 4,720 km, de los cuales 1,650 se cuentan desde la superficie terrestre
+- B. A unos 1,650 km, de los cuales 4,720 se cuentan desde la superficie terrestre
+- C. A unos 4,720 km contados desde la superficie terrestre
+- D. A unos 4,270 km, de los cuales 1,560 se cuentan desde la superficie terrestre
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · baricentro
+
+"[...] el centro de la Tierra gira alrededor del baricentro, situado a unos 4,720 km (1,650 contados desde la superficie terrestre) [...]"
+
+### 94
+
+De acuerdo con el libro de Geografía, ¿con qué está en correspondencia el movimiento que traza el centro geográfico alrededor del baricentro?
+
+- A. Con el movimiento de traslación de la Luna
+- B. Con el movimiento de rotación de la Luna
+- C. Con el movimiento de traslación de la Tierra alrededor del Sol
+- D. Con el movimiento de precesión de los equinoccios
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · baricentro
+
+"[...] en correspondencia con el movimiento de traslación de la Luna."
+
+### 95
+
+De conformidad con el libro de Geografía, ¿qué distancia separa a la Tierra y a Neptuno?
+
+- A. Más de 4,347,000,000 de km
+- B. Más de 4,437,000,000 de km
+- C. Más de 434,700,000 de km
+- D. Más de 939,886,500 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · otros movimientos
+
+"[...] a pesar de la enorme distancia que los separa (más de 4,347,000,000 de km), cuando se encuentran en conjunción la Tierra y Neptuno, éste atrae a la primera con una fuerza aproximada de 18,000,000 de toneladas."
+
+### 96
+
+En relación con el libro de Geografía, ¿con qué fuerza aproximada atrae Neptuno a la Tierra cuando se encuentran en conjunción?
+
+- A. 18,000,000 de toneladas
+- B. 1,800,000 de toneladas
+- C. 180,000,000 de toneladas
+- D. 8,000,000 de toneladas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · otros movimientos
+
+"[...] cuando se encuentran en conjunción la Tierra y Neptuno, éste atrae a la primera con una fuerza aproximada de 18,000,000 de toneladas."
+
+### 97
+
+De acuerdo con el libro de Geografía, ¿a qué velocidad se desplaza el Sol alrededor de la galaxia?
+
+- A. A unos 230 km/seg (828,000 km por hora)
+- B. A unos 600 km/seg (2,160,000 km por hora)
+- C. A unos 29.78 km/seg (107,220 km por hora)
+- D. A unos 320 km/seg (828,000 km por hora)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · vía láctea
+
+"Éste, como sabemos, se desplaza alrededor de la galaxia a unos 230 km/seg (828,000 km por hora) [...]"
+
+### 98
+
+De conformidad con el libro de Geografía, ¿cuánto tarda el Sol en completar una vuelta alrededor de la galaxia?
+
+- A. Unos 220,000,000 de años
+- B. Unos 22,000,000 de años
+- C. Unos 25,800 años
+- D. Unos 2,200,000,000 de años
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · vía láctea
+
+"[...] y tarda unos 220,000,000 de años en completar una vuelta."
+
+### 99
+
+En relación con el libro de Geografía, ¿a qué velocidad se mueve la Tierra por el espacio junto con los demás astros componentes de la Vía Láctea?
+
+- A. A 600 km/seg (2,160,000 km por hora)
+- B. A 230 km/seg (828,000 km por hora)
+- C. A 60 km/seg (216,000 km por hora)
+- D. A 600 km/seg (216,000 km por hora)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · vía láctea
+
+"El movimiento por el espacio, junto con los demás astros componentes de la Vía Láctea, a una velocidad de 600 km/seg (2,160,000 km por hora)."
+
+## Sub-lote 8 · Equinoccio, solsticio y punto vernal (nota al pie, p. 71)
+
+### 100
+
+De acuerdo con el libro de Geografía, ¿qué significa la palabra equinoccio, de origen latino?
+
+- A. «Noche igual al día»
+- B. «El Sol se detiene»
+- C. «Punto de la primavera»
+- D. «Paso por el Ecuador»
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · equinoccio
+
+"El equinoccio, palabra de origen latino que significa «noche igual al día», se presenta cuando el Sol se encuentra perpendicular al Ecuador."
+
+### 101
+
+De conformidad con el libro de Geografía, ¿cuándo se presenta el equinoccio?
+
+- A. Cuando el Sol se encuentra perpendicular al Ecuador
+- B. Cuando el Sol se encuentra perpendicular a los trópicos
+- C. Cuando la Tierra alcanza el perihelio
+- D. Cuando el Sol alcanza el punto más alto sobre el Polo Norte
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · equinoccio
+
+"El equinoccio [...] se presenta cuando el Sol se encuentra perpendicular al Ecuador."
+
+### 102
+
+En relación con el libro de Geografía, ¿qué ocurre durante el equinoccio?
+
+- A. El Sol alumbra a la Tierra de polo a polo y el día y la noche duran exactamente 12 horas cada uno
+- B. El Sol alumbra a la Tierra sólo de trópico a trópico y el día dura más que la noche
+- C. El Sol parece detenerse y cambiar de rumbo sobre los trópicos
+- D. El Sol se ve de mayor tamaño aparente que en el resto del año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · equinoccio
+
+"Entonces alumbra a la Tierra de polo a polo y el día y la noche duran exactamente 12 horas cada uno."
+
+### 103
+
+De acuerdo con el libro de Geografía, ¿en qué fechas se presentan los dos equinoccios del año?
+
+- A. El 21 de marzo y el 23 de septiembre
+- B. El 21 de junio y el 22 de diciembre
+- C. El 20 de marzo y el 22 de septiembre
+- D. El 23 de marzo y el 21 de septiembre
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · equinoccio
+
+"Se presentan dos al año: el 21 de marzo (equinoccio de primavera para el Hemisferio Boreal) y el 23 de septiembre (equinoccio de otoño)."
+
+### 104
+
+De conformidad con el libro de Geografía, ¿qué significa la palabra solsticio, de origen latino?
+
+- A. Que «el Sol se detiene»
+- B. «Noche igual al día»
+- C. Que «el Sol cruza el Ecuador»
+- D. Que «el Sol cambia de hemisferio»
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · solsticio
+
+"El solsticio, palabra de origen latino que significa que «el Sol se detiene», se presenta cuando el astro se encuentra perpendicular a los trópicos."
+
+### 105
+
+En relación con el libro de Geografía, ¿cuándo se presenta el solsticio?
+
+- A. Cuando el astro se encuentra perpendicular a los trópicos
+- B. Cuando el astro se encuentra perpendicular al Ecuador
+- C. Cuando la Tierra alcanza el afelio
+- D. Cuando el Sol cruza el punto vernal
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · solsticio
+
+"El solsticio [...] se presenta cuando el astro se encuentra perpendicular a los trópicos."
+
+### 106
+
+De acuerdo con el libro de Geografía, ¿de qué deriva el nombre de solsticio?
+
+- A. De que, en apariencia, al llegar a los trópicos el Sol parece detenerse y cambiar de rumbo
+- B. De que el día y la noche duran exactamente lo mismo
+- C. De que el Sol alcanza su mayor tamaño aparente
+- D. De que el Sol queda inmóvil sobre el Ecuador durante un día entero
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · solsticio
+
+"El nombre deriva de que, en apariencia, al llegar a los trópicos el Sol parece detenerse y cambiar de rumbo."
+
+### 107
+
+De conformidad con el libro de Geografía, ¿en qué fecha y sobre qué trópico se presenta el solsticio de verano para el Hemisferio Boreal?
+
+- A. El 21 de junio, sobre el Trópico de Cáncer
+- B. El 22 de diciembre, sobre el Trópico de Capricornio
+- C. El 21 de junio, sobre el Trópico de Capricornio
+- D. El 21 de marzo, sobre el Trópico de Cáncer
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · solsticio
+
+"[...] el 21 de junio (solsticio de verano para el Hemisferio Boreal), cuando el Sol se encuentra sobre el Trópico de Cáncer [...]"
+
+### 108
+
+En relación con el libro de Geografía, ¿en qué fecha y sobre qué trópico se presenta el solsticio de invierno?
+
+- A. El 22 de diciembre, sobre el Trópico de Capricornio
+- B. El 21 de diciembre, sobre el Trópico de Capricornio
+- C. El 22 de diciembre, sobre el Trópico de Cáncer
+- D. El 23 de septiembre, sobre el Trópico de Capricornio
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · solsticio
+
+"[...] y el 22 de diciembre (solsticio de invierno), cuando se encuentra sobre el Trópico de Capricornio."
+
+### 109
+
+De acuerdo con el libro de Geografía, ¿de qué reciben su denominación los equinoccios y los solsticios en ambos hemisferios?
+
+- A. De la estación que comienza
+- B. Del trópico sobre el que se encuentra el Sol
+- C. Del hemisferio en que se presentan
+- D. Del mes en que ocurren
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · equinoccios y solsticios
+
+"En ambos hemisferios, equinoccios y solsticios reciben su denominación de la estación que comienza; así, en el Hemisferio Boreal el 21 de marzo es el equinoccio de primavera, porque en dicha fecha comienza precisamente la primavera."
+
+> Nota de revisor: el libro precisa además que **en el Hemisferio Meridional los equinoccios y solsticios se presentan de manera inversa**, por la diferencia de estaciones.
+
+### 110
+
+De conformidad con el libro de Geografía, ¿qué es el punto vernal o primaveral?
+
+- A. El punto exacto en que el Sol cruza al Ecuador
+- B. El punto exacto en que el Sol cruza el Trópico de Cáncer
+- C. El punto de la órbita terrestre más cercano al Sol
+- D. El punto en que el eje terrestre corta al plano de la eclíptica
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · punto vernal
+
+"El punto vernal (o primaveral) es el punto exacto en que el Sol cruza al Ecuador."
+
+### 111
+
+En relación con el libro de Geografía, ¿de qué deriva la importancia astronómica del punto vernal?
+
+- A. De que, cuando ocurre, comienza el año trópico
+- B. De que, cuando ocurre, comienza el año civil
+- C. De que marca el inicio del movimiento de precesión de los equinoccios
+- D. De que señala el momento en que la Tierra alcanza el perihelio
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 71
+**Subtema:** la tierra como astro · punto vernal
+
+"Su importancia astronómica deriva de que, cuando ocurre, comienza el año trópico."
