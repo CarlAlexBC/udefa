@@ -27,6 +27,12 @@ El resto de la Unidad II —2.1 Sinopsis histórica de la Astronomía, 2.2 El Un
 
 - **p.66 — "15.24 ms" y "7.62 ms".** El cuerpo del texto escribe la unidad como `ms`; la **Figura 2.29 de esa misma página escribe `m`**, que es lo correcto (son metros). Verificado con recorte a 600 dpi. Los reactivos 22 y 23 usan **metros**, como la figura, y no preguntan por la unidad.
 
+## Datos del libro que conviene revisar (para decisión de Carlo)
+
+No son erratas de imprenta: el libro los afirma así. Se anotan aquí y **no se les escribe reactivo** mientras Carlo no decida, igual que se hizo con el nombre de Fenneman.
+
+- **p.68 — la etimología de "semana".** El libro dice: semana "del latín *septem mane*, «7 mañanas»". La etimología aceptada es del latín tardío ***septimana***, derivada de *septem* («siete»); "*septem mane*" es una explicación de andar por casa. El reactivo 51 pregunta sólo **a quiénes se debe la agrupación de días** (los sumerios), que es el dato firme, y deja la etimología fuera.
+
 ## Criterio de este capítulo
 
 Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita del libro. Se caza el **dato olvidable** —la cifra exacta, el nombre propio, la definición corta—, no lo obvio. Los mejores distractores salen del mismo párrafo. La correcta se escribe siempre en **A**; el importador baraja las opciones.
@@ -35,13 +41,14 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Arrancado el tema **2.4** con el subtema **2.4.1 Forma y tamaño de la Tierra**.
+**EN CURSO.** Cubiertos los subtemas **2.4.1 Forma y tamaño de la Tierra** y **2.4.2 Movimiento de rotación terrestre**.
 
 - Cubierta la página impresa **65**: arranque del 2.4 y las formas atribuidas a la Tierra por sumerios, babilonios y hebreos. (La parte de arriba de esa página todavía es 2.3.5 La Luna, que el temario **no pide**; queda fuera.)
 - Cubierta la página impresa **66**: los filósofos griegos, Eratóstenes, el viaje de circunnavegación, el geoide, el elipsoide de revolución y el Vanguard I.
-- Cubierta la página impresa **67**: el Cuadro 2.5 con las medidas de la Tierra y las consecuencias de su forma. El ejercicio de verdadero/falso de esa página **no lleva reactivos**, por norma.
+- Cubierta la página impresa **67**: el Cuadro 2.5 con las medidas de la Tierra y las consecuencias de su forma, más el arranque del 2.4.2 al pie de la página (sentido de la rotación y las 23.93 horas). El ejercicio de verdadero/falso de esa página **no lleva reactivos**, por norma.
+- Cubierta la página impresa **68**: las velocidades de rotación según la latitud y las consecuencias de la rotación terrestre, hasta la medición del tiempo y los sumerios. El ejercicio de esa página **no lleva reactivos**.
 
-**Pendiente:** EN CURSO. Sigue desde la **p.67** con el **2.4.2 Movimiento de rotación terrestre** (arranca al pie de la p.67), y luego el **2.4.3** (p.69) y el **2.4.4** (p.70), hasta la **p.76**: la Unidad III empieza en la 77.
+**Pendiente:** EN CURSO. Sigue desde la **p.69** con el **2.4.3 Movimiento de traslación terrestre**, y luego el **2.4.4 Otros movimientos de la Tierra** (arranca al pie de la p.70), hasta la **p.76**: la Unidad III empieza en la 77.
 
 ---
 
@@ -555,3 +562,281 @@ En relación con el libro de Geografía, ¿con qué inclinación llegan los rayo
 **Subtema:** la tierra como astro · consecuencias de la forma
 
 "Los rayos solares no llegan con la misma inclinación a la superficie terrestre: en las regiones ecuatoriales llegan casi verticales, en las intermedias algo inclinados y en las polares bastante inclinados. Eso da origen a las zonas térmicas y es uno de los factores determinantes de la amplia variedad climática de la Tierra."
+
+## Sub-lote 4 · Generalidades sobre la rotación terrestre (2.4.2, pp. 67–68)
+
+### 34
+
+De acuerdo con el libro de Geografía, ¿con qué compara el libro la impresión de que los astros se mueven alrededor de la Tierra?
+
+- A. Con viajar en un ferrocarril o autobús y ver que los árboles, casas y demás elementos del paisaje se mueven en sentido contrario
+- B. Con ver girar las aspas de un molino desde un punto fijo
+- C. Con observar el reflejo de las estrellas en la superficie del mar
+- D. Con seguir el desplazamiento de una nube empujada por el viento
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 67
+**Subtema:** la tierra como astro · rotación terrestre
+
+"Cuando viajamos en un ferrocarril o autobús nos parece que los árboles, casas y demás elementos del paisaje se mueven en sentido contrario. En realidad, somos nosotros quienes estamos en movimiento [...]"
+
+### 35
+
+De conformidad con el libro de Geografía, ¿en qué sentido efectúa nuestro planeta su movimiento de rotación?
+
+- A. De oeste a este
+- B. De este a oeste
+- C. De norte a sur
+- D. De sur a norte
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 67
+**Subtema:** la tierra como astro · rotación terrestre
+
+"Nuestro planeta efectúa su movimiento de rotación de oeste a este; por ello vemos a la Luna, el Sol y las estrellas moverse en sentido contrario: de este a oeste."
+
+### 36
+
+En relación con el libro de Geografía, ¿cuánto tarda la Tierra en realizar un giro completo sobre su eje?
+
+- A. 23.93 horas (23 horas, 56 minutos y 4 segundos)
+- B. 24 horas exactas
+- C. 23.56 horas (23 horas, 33 minutos y 6 segundos)
+- D. 24.93 horas (24 horas, 56 minutos y 4 segundos)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 67
+**Subtema:** la tierra como astro · rotación terrestre
+
+"Tarda 23.93 horas (23 horas, 56 minutos y 4 segundos) en realizar un giro completo sobre su eje [...]"
+
+### 37
+
+De acuerdo con el libro de Geografía, ¿por qué la Tierra necesita otros 3 minutos y 56 segundos para completar las 24 horas del día?
+
+- A. Porque durante el giro sobre su eje se desplaza casi 1° alrededor del Sol y debe volver a la misma posición respecto de él
+- B. Porque su eje de rotación está inclinado respecto del plano de la eclíptica
+- C. Porque su velocidad de rotación disminuye conforme aumenta la latitud
+- D. Porque la fuerza gravitatoria de la Luna frena su movimiento de rotación
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · rotación terrestre
+
+"[...] sin embargo, como durante ese tiempo se desplaza casi 1° alrededor del Sol, necesita otros 3 minutos y 56 segundos para volver a estar en la misma posición respecto del astro rey, completándose así las 24 horas del día."
+
+### 38
+
+De conformidad con el libro de Geografía, ¿a qué velocidad gira un punto ubicado sobre el Ecuador?
+
+- A. A 1,609 km por hora
+- B. A 1,392 km por hora
+- C. A 805 km por hora
+- D. A 1,906 km por hora
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · velocidad de rotación
+
+"[...] mientras un punto ubicado sobre el Ecuador gira a 1,609 km por hora, uno situado a 30° lo hace a 1,392 y otro situado a 60° lo hace a 805 km."
+
+### 39
+
+En relación con el libro de Geografía, ¿a qué velocidad gira un punto situado a 60°?
+
+- A. A 805 km por hora
+- B. A 1,392 km por hora
+- C. A 1,609 km por hora
+- D. A 508 km por hora
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · velocidad de rotación
+
+"[...] mientras un punto ubicado sobre el Ecuador gira a 1,609 km por hora, uno situado a 30° lo hace a 1,392 y otro situado a 60° lo hace a 805 km."
+
+### 40
+
+De acuerdo con el libro de Geografía, ¿por qué los puntos superficiales de la Tierra no se desplazan a la misma velocidad?
+
+- A. Porque la Tierra es cuasi-esférica
+- B. Porque el relieve terrestre presenta desniveles
+- C. Porque la rotación no es del todo uniforme
+- D. Porque la órbita terrestre es poco excéntrica
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · velocidad de rotación
+
+"Siendo cuasi-esférica la Tierra, sus puntos superficiales no se desplazan a la misma velocidad."
+
+### 41
+
+De conformidad con el libro de Geografía, ¿qué ocurriría si no existiera el movimiento de rotación terrestre?
+
+- A. La Tierra no tendría atmósfera ni vida y presentaría un aspecto completamente distinto del que tiene ahora
+- B. La Tierra conservaría su atmósfera, pero perdería sus estaciones del año
+- C. La Tierra sería una esfera perfecta, sin ensanchamiento ecuatorial
+- D. La Tierra tendría un día de duración indefinida, pero sin otros cambios
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · consecuencias de la rotación
+
+"Si no existiera, la Tierra no tendría atmósfera ni vida y presentaría un aspecto completamente distinto del que tiene ahora."
+
+### 42
+
+En relación con el libro de Geografía, ¿en qué sentido vemos trasladarse a los astros, por el movimiento aparente que produce la rotación?
+
+- A. De este a oeste
+- B. De oeste a este
+- C. De norte a sur
+- D. De sur a norte
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · consecuencias de la rotación
+
+"El movimiento aparente de los astros, a los cuales vemos trasladarse de este a oeste."
+
+> Nota de revisor: par de trampa con el 35. La Tierra rota **de oeste a este**; los astros se ven moverse **de este a oeste**. El ejercicio de la p.68 usa justo esa inversión como afirmación falsa.
+
+### 43
+
+De acuerdo con el libro de Geografía, ¿cada cuánto se alternan en promedio las porciones iluminada y obscura de la Tierra?
+
+- A. Cada 12 horas
+- B. Cada 24 horas
+- C. Cada 23.93 horas
+- D. Cada 6 horas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · consecuencias de la rotación
+
+"La sucesión del día y la noche: por el movimiento de rotación, las porciones iluminada y obscura de la Tierra se alternan en promedio cada 12 horas."
+
+### 44
+
+De conformidad con el libro de Geografía, entre las consecuencias de la rotación terrestre, ¿qué rasgo de la forma de la Tierra menciona el libro?
+
+- A. El ensanchamiento ecuatorial y el consiguiente achatamiento polar
+- B. El ensanchamiento polar y el consiguiente achatamiento ecuatorial
+- C. Los desniveles y desigualdades que constituyen el relieve terrestre
+- D. La forma de pera, con el "cabo" en el Polo Norte
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · consecuencias de la rotación
+
+"El ensanchamiento ecuatorial y el consiguiente achatamiento polar, que vimos en el subtema 2.4.1."
+
+> Nota de revisor: el distractor B es la inversión exacta, y es la que el propio libro pone como afirmación falsa en el ejercicio de la p.69.
+
+### 45
+
+En relación con el libro de Geografía, ¿hacia dónde se desplazan los cuerpos en caída libre, por efecto de la rotación terrestre?
+
+- A. Hacia el este
+- B. Hacia el oeste
+- C. Hacia el norte
+- D. Hacia el sur
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · consecuencias de la rotación
+
+"La desviación de los cuerpos en caída libre, que se desplazan hacia el este."
+
+### 46
+
+De acuerdo con el libro de Geografía, ¿hacia dónde se desvían los vientos, las perturbaciones atmosféricas y las corrientes marinas en cada hemisferio?
+
+- A. En el Hemisferio Boreal hacia la derecha de su punto de partida y en el Meridional hacia la izquierda
+- B. En el Hemisferio Boreal hacia la izquierda de su punto de partida y en el Meridional hacia la derecha
+- C. En ambos hemisferios hacia la derecha de su punto de partida
+- D. En ambos hemisferios hacia el este de su punto de partida
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · consecuencias de la rotación
+
+"La desviación de los vientos, las perturbaciones atmosféricas y las corrientes marinas, que en el Hemisferio Boreal se desvían hacia la derecha de su punto de partida y en el Meridional hacia la izquierda [...]"
+
+### 47
+
+De conformidad con el libro de Geografía, ¿qué nos da las bases para trazar puntos, líneas y círculos imaginarios sobre la superficie terrestre?
+
+- A. La cuasi-esfericidad y el movimiento de rotación terrestres
+- B. El movimiento de traslación y la inclinación del eje terrestre
+- C. El relieve terrestre y la distribución de los océanos
+- D. La desviación de los vientos y de las corrientes marinas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · consecuencias de la rotación
+
+"La cuasi-esfericidad y el movimiento de rotación terrestres nos dan las bases para trazar puntos, líneas y círculos imaginarios, así como para determinar las coordenadas geográficas [...]"
+
+### 48
+
+En relación con el libro de Geografía, ¿cuáles son las coordenadas geográficas que nos sirven para orientarnos?
+
+- A. Latitud y longitud
+- B. Latitud y altitud
+- C. Longitud y altitud
+- D. Altitud y declinación
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · consecuencias de la rotación
+
+"[...] así como para determinar las coordenadas geográficas (latitud, longitud) que nos sirven para orientarnos y que veremos en la unidad siguiente."
+
+### 49
+
+De acuerdo con el libro de Geografía, ¿cuál es el medio más sencillo y conocido de medir el tiempo que nos suministra el movimiento de rotación?
+
+- A. El día
+- B. El mes
+- C. El año
+- D. La semana
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · medición del tiempo
+
+"La posibilidad de medir el tiempo: el movimiento de rotación nos suministra el medio más sencillo y conocido de medir el tiempo, o sea, el día [...]"
+
+### 50
+
+De conformidad con el libro de Geografía, ¿quiénes dividieron el día en 24 horas y hace cuánto tiempo?
+
+- A. Los sumerios, hace más de 5,000 años
+- B. Los babilonios, hace más de 5,000 años
+- C. Los sumerios, hace más de 3,000 años
+- D. Los griegos de la Antigüedad Clásica, hace más de 2,000 años
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · medición del tiempo
+
+El día "fue dividido por los sumerios, hace más de 5,000 años, en 24 horas."
+
+### 51
+
+En relación con el libro de Geografía, ¿a quiénes se debe la agrupación de días conocida actualmente con el nombre de semana?
+
+- A. A los sumerios
+- B. A los babilonios
+- C. A los hebreos
+- D. A los romanos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 68
+**Subtema:** la tierra como astro · medición del tiempo
+
+"A los sumerios se debe también la agrupación de días conocida actualmente con el nombre de semana [...]"
+
+> Nota de revisor: el reactivo se queda en la autoría y **no toca la etimología** que el libro da a continuación ("del latín *septem mane*, «7 mañanas»), que está pendiente de decisión. Ver "Datos del libro que conviene revisar" en el encabezado.
