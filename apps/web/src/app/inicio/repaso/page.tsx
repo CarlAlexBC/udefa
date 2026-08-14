@@ -4,6 +4,7 @@ import { useEffect, useState, useCallback } from 'react'
 import Link from 'next/link'
 import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
+import { colorDeExamen } from '@/lib/colores-paquete'
 import { Button } from '@/components/ui/button'
 import {
   AlertCircle,
@@ -21,6 +22,37 @@ import {
    libro. Al contestar, el backend mueve la caja de Leitner y
    devuelve la corrección; aquí sólo la pintamos.
    ═══════════════════════════════════════════════════════════ */
+
+/**
+ * El color de esta pantalla. Va fijo a 'cultural' porque el backend NO deja
+ * sembrar la cola con otra cosa: `RepasosService` rechaza el intento si
+ * `examen.tipo !== 'cultural'` — el repaso es de recuerdo literal.
+ *
+ * OJO CON EL VOCABULARIO DE COLOR de esta pantalla, que corrige al momento:
+ *   · azul  = de qué examen es, y cuál opción elegí (antes de contestar)
+ *   · latón = la respuesta correcta
+ *   · rojo  = la que elegí y estaba mal
+ * Antes el avance y la respuesta correcta compartían el latón. No lo devuelvas.
+ */
+const ACENTO = colorDeExamen('cultural', 'claro')
+
+/**
+ * Cuántos días faltan para una fecha. Mínimo 1: si el backend devuelve una
+ * fecha de hoy, decir "en 0 días" no le sirve a nadie.
+ *
+ * Vive FUERA del componente a propósito. Lee el reloj, y React exige que lo
+ * que se ejecuta al pintar dé siempre el mismo resultado con los mismos datos
+ * — `Date.now()` no lo cumple. Aquí sólo la llama el manejador del clic, que sí
+ * puede leer el reloj; y al estar afuera, la regla de pureza no la confunde con
+ * código de render.
+ */
+function diasHasta(fechaIso: string): number {
+  const MS_POR_DIA = 86_400_000
+  return Math.max(
+    1,
+    Math.round((new Date(fechaIso).getTime() - Date.now()) / MS_POR_DIA),
+  )
+}
 
 type ReactivoPendiente = {
   reactivoId: number
@@ -61,6 +93,15 @@ export default function RepasoPage() {
   // `correccion === null` significa que todavía no ha contestado este reactivo.
   const [seleccion, setSeleccion] = useState<string | null>(null)
   const [correccion, setCorreccion] = useState<Correccion | null>(null)
+  /**
+   * Cuántos días faltan para que este reactivo vuelva a salir.
+   *
+   * Se guarda en estado en vez de calcularse al pintar porque leer el reloj
+   * (`Date.now()`) durante el render vuelve al componente impredecible: dos
+   * dibujados seguidos pueden dar números distintos. Aquí se calcula UNA vez,
+   * en el manejador del evento —que sí puede leer el reloj— y ya no cambia.
+   */
+  const [diasProximo, setDiasProximo] = useState<number | null>(null)
   const [enviando, setEnviando] = useState(false)
 
   const actual = pendientes[indice]
@@ -95,6 +136,8 @@ export default function RepasoPage() {
         { method: 'POST', body: { respuestaSeleccionada: opcion } },
       )
       setCorreccion(res)
+      // El reloj se lee AQUÍ, en el manejador, no al pintar (ver `diasProximo`).
+      setDiasProximo(diasHasta(res.proximoRepaso))
     } catch (err) {
       // Dejamos volver a intentar: limpiamos la selección y mostramos el error.
       setSeleccion(null)
@@ -108,6 +151,7 @@ export default function RepasoPage() {
   const siguiente = useCallback(() => {
     setSeleccion(null)
     setCorreccion(null)
+    setDiasProximo(null)
     setError('')
     setIndice((i) => {
       if (i < pendientes.length - 1) return i + 1
@@ -193,7 +237,10 @@ export default function RepasoPage() {
       {/* Barra superior: prueba · plantel a la izquierda, avance a la derecha */}
       <div className="border-b border-border bg-card">
         <div className="mx-auto flex max-w-3xl items-center justify-between gap-4 px-6 py-3">
-          <p className="text-xs font-semibold uppercase tracking-widest text-military">
+          <p
+            className="text-xs font-semibold uppercase tracking-widest"
+            style={{ color: ACENTO.c }}
+          >
             Cultural{plantel ? ` · ${plantel}` : ''}
           </p>
           <p className="shrink-0 text-xs font-medium text-muted-foreground">
@@ -202,8 +249,8 @@ export default function RepasoPage() {
         </div>
         <div className="h-1 w-full bg-muted">
           <div
-            className="h-full bg-accent transition-all duration-300"
-            style={{ width: `${progresoPct}%` }}
+            className="h-full transition-all duration-300"
+            style={{ width: `${progresoPct}%`, backgroundColor: ACENTO.c }}
           />
         </div>
       </div>
@@ -265,7 +312,7 @@ export default function RepasoPage() {
             )}
 
             <div className="mt-6 flex items-center justify-between gap-4">
-              <MovimientoCaja correccion={correccion} />
+              <MovimientoCaja correccion={correccion} dias={diasProximo} />
               <Button onClick={siguiente} size="lg">
                 {indice < total - 1 ? 'Siguiente' : 'Terminar'}
                 <ArrowRight className="ml-1 h-4 w-4" />
@@ -335,10 +382,15 @@ function OpcionRepaso({
             ? 'border-destructive/50 bg-destructive/5'
             : contestado
               ? 'border-border bg-card opacity-60'
-              : esElegida
-                ? 'border-primary bg-accent/10'
-                : 'border-border bg-card hover:bg-muted',
+              : !esElegida && 'border-border bg-card hover:bg-muted',
       )}
+      /* Elegida pero aún sin corregir: va en el color del examen, para no
+         adelantar con el latón (que aquí significa "correcta"). */
+      style={
+        !contestado && esElegida
+          ? { borderColor: ACENTO.c, backgroundColor: `${ACENTO.c}14` }
+          : undefined
+      }
     >
       <span
         className={cn(
@@ -386,14 +438,18 @@ function OpcionRepaso({
    Sub-componente: indicador de las cajas de Leitner + cuándo vuelve
    ═══════════════════════════════════════════════════════════ */
 
-function MovimientoCaja({ correccion }: { correccion: Correccion }) {
-  const { esCorrecta, cajaAnterior, caja, proximoRepaso } = correccion
+function MovimientoCaja({
+  correccion,
+  dias,
+}: {
+  correccion: Correccion
+  /** Días hasta el próximo repaso. Llega calculado desde el manejador del
+   *  evento: este componente NO lee el reloj, para poder pintarse siempre
+   *  igual con los mismos datos. */
+  dias: number | null
+}) {
+  const { esCorrecta, cajaAnterior, caja } = correccion
 
-  // Días hasta el próximo repaso, leídos de la fecha que dio el backend.
-  const dias = Math.max(
-    1,
-    Math.round((new Date(proximoRepaso).getTime() - Date.now()) / 86_400_000),
-  )
   const cuando = dias === 1 ? 'mañana' : `en ${dias} días`
 
   const movimiento = !esCorrecta
@@ -416,7 +472,11 @@ function MovimientoCaja({ correccion }: { correccion: Correccion }) {
         ))}
       </div>
       <p className="mt-1.5 text-xs text-muted-foreground">
-        {movimiento} · lo repasas {cuando}
+        {/* Sin los días no se dice "lo repasas " a medias: se omite la frase
+            entera. En la práctica no pasa —la corrección y los días se guardan
+            juntos— pero así la oración nunca queda coja. */}
+        {movimiento}
+        {dias !== null && ` · lo repasas ${cuando}`}
       </p>
     </div>
   )

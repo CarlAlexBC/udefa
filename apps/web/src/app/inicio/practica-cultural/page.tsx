@@ -5,6 +5,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { apiFetch } from '@/lib/api'
 import { emblemaDePlantel } from '@/lib/planteles'
+import { colorDeExamen } from '@/lib/colores-paquete'
 import { cn } from '@/lib/utils'
 import { Button } from '@/components/ui/button'
 import {
@@ -57,6 +58,21 @@ type Correccion = {
 type Estado = 'cargando' | 'eligiendo' | 'estudiando' | 'terminado' | 'error'
 
 const LONGITUDES = [10, 20, 30]
+
+/**
+ * El color de esta pantalla. Va fijo a 'cultural' porque la práctica por
+ * materia es, por definición, del examen cultural — no hay otra opción que
+ * resolver. Aun así sale de `colorDeExamen` y no de un hex escrito a mano: si
+ * algún día el Cultural cambia de color, esta pantalla lo sigue sola.
+ *
+ * OJO CON EL VOCABULARIO DE COLOR de esta pantalla, que corrige al momento:
+ *   · azul  = de qué examen es, y cuál opción elegí (antes de contestar)
+ *   · latón = la respuesta correcta
+ *   · rojo  = la que elegí y estaba mal
+ * Antes el avance y la respuesta correcta compartían el latón, o sea el mismo
+ * color decía dos cosas. No devuelvas el acento al latón aquí.
+ */
+const ACENTO = colorDeExamen('cultural', 'claro')
 
 export default function PracticaCulturalPage() {
   const [estado, setEstado] = useState<Estado>('cargando')
@@ -485,7 +501,10 @@ export default function PracticaCulturalPage() {
       {/* Barra superior: materia a la izquierda, avance a la derecha */}
       <div className="border-b border-border bg-card">
         <div className="mx-auto flex max-w-3xl items-center justify-between gap-4 px-6 py-3">
-          <p className="truncate text-xs font-semibold uppercase tracking-widest text-military">
+          <p
+            className="truncate text-xs font-semibold uppercase tracking-widest"
+            style={{ color: ACENTO.c }}
+          >
             Práctica · {materiaActiva}
           </p>
           <p className="shrink-0 text-xs font-medium text-muted-foreground">
@@ -494,8 +513,8 @@ export default function PracticaCulturalPage() {
         </div>
         <div className="h-1 w-full bg-muted">
           <div
-            className="h-full bg-accent transition-all duration-300"
-            style={{ width: `${progresoPct}%` }}
+            className="h-full transition-all duration-300"
+            style={{ width: `${progresoPct}%`, backgroundColor: ACENTO.c }}
           />
         </div>
       </div>
@@ -623,10 +642,15 @@ function OpcionPractica({
             ? 'border-destructive/50 bg-destructive/5'
             : contestado
               ? 'border-border bg-card opacity-60'
-              : esElegida
-                ? 'border-primary bg-accent/10'
-                : 'border-border bg-card hover:bg-muted',
+              : !esElegida && 'border-border bg-card hover:bg-muted',
       )}
+      /* Elegida pero aún sin corregir: va en el color del examen, para no
+         adelantar con el latón (que aquí significa "correcta"). */
+      style={
+        !contestado && esElegida
+          ? { borderColor: ACENTO.c, backgroundColor: `${ACENTO.c}14` }
+          : undefined
+      }
     >
       <span
         className={cn(
