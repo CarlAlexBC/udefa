@@ -278,7 +278,20 @@ celular durante la reprogramación, la primera semana y las semanas diez a once,
 condiciones teóricas** —tercera generación con sujeto gestante expuesto, segunda generación con
 progenitores expuestos antes de la reproducción—).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **317** (hoja 363) en adelante —el resto de la herencia epigenética transgeneracional, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **317**: el apartado "Herencia epigenética en modelos animales" (el
+"ruido" que se busca reducir, el enfoque reduccionista, los ratones como especie, los tres
+procedimientos —dietas controladas, reubicación con madres no biológicas y subrogación gestacional—
+y lo que permiten aislar); los **ratones *agouti*** (las "características físicas dependientes de la
+metilación", la variación azarosa del gen, los fenotipos "amarillos, obesos y diabéticos" frente a
+"oscuros, delgados y sanos", la ausencia de efecto por vía paterna, la explicación alternativa del
+ambiente materno y el experimento de gesta subrogada que la descartó); el **gen *axin*** (regulado
+por ADN repetitivo cercano, las repeticiones no metiladas que interfieren la transcripción, el
+pliegue en la cola y la transmisión por ambos sexos); y el arranque de "Herencia epigenética en
+humanos: el caso de Holanda" (el bloqueo nazi del invierno de 1944-1945, las ~20 000 muertes por
+inanición, las condiciones que permitieron estudiarlo, el mayor riesgo de obesidad, diabetes y
+enfermedades cardiovasculares, y el hallazgo molecular de 2008).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **318** (hoja 364) en adelante —el resto del caso de Holanda y de la herencia epigenética transgeneracional, y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -6065,5 +6078,446 @@ De acuerdo con el libro de Biología, ¿cuál es la principal dificultad para in
 **Subtema:** epigenética · herencia epigenética · dificultad de interpretación
 
 La principal dificultad para interpretar los alcances concretos del concepto de herencia epigenética en el ambiente natural o en el contexto social, es que rara vez los fenómenos de exposición ambiental se manifiestan en tan corta y precisa duración.
+
+---
+### 338
+
+De conformidad con el libro de Biología, ¿qué intentan reducir al máximo los modelos de investigación en animales?
+
+- A. Las variables que puedan generar "ruido" en la interpretación de la información
+- B. El número de generaciones necesarias para observar un efecto
+- C. El costo y la duración de los experimentos
+- D. La cantidad de animales empleados en cada estudio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · modelos animales · propósito
+
+Los modelos de investigación en animales intentan reducir al máximo las variables que puedan generar "ruido" en la interpretación de la información.
+
+---
+
+### 339
+
+En relación con el libro de Biología, ¿qué implican esos modelos como tales?
+
+- A. Un enfoque reduccionista que genera un sesgo, al mismo tiempo que permiten indagar sobre cuestiones específicas
+- B. Un enfoque integrador que elimina todo sesgo de la investigación
+- C. Un enfoque descriptivo que impide indagar sobre cuestiones específicas
+- D. Un enfoque estadístico que reemplaza a la observación directa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · modelos animales · enfoque reduccionista
+
+Como tales, implican un enfoque reduccionista que genera un sesgo, al mismo tiempo que permiten indagar sobre cuestiones específicas.
+
+---
+
+### 340
+
+De acuerdo con el libro de Biología, ¿qué animales se emplean generalmente en los estudios en mamíferos sobre herencia epigenética?
+
+- A. Ratones
+- B. Ratas
+- C. Conejos
+- D. Cerdos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · modelos animales · especie empleada
+
+Los modelos animales más frecuentemente empleados –generalmente ratones para estudios en mamíferos–.
+
+---
+
+### 341
+
+De conformidad con el libro de Biología, ¿qué procedimientos involucran esos modelos animales?
+
+- A. El control riguroso de las dietas de animales gestantes o lactantes, la reubicación de animales recién nacidos con madres no biológicas y la subrogación gestacional
+- B. El control riguroso de la temperatura, la iluminación y el ruido del laboratorio
+- C. La secuenciación del genoma completo de cada animal y de su descendencia
+- D. El aislamiento de los animales recién nacidos y la administración de fármacos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · modelos animales · procedimientos
+
+Involucran procedimientos como: el control riguroso de las dietas de animales gestantes o lactantes; la reubicación de animales recién nacidos con madres no biológicas; la subrogación gestacional.
+
+---
+
+### 342
+
+En relación con el libro de Biología, ¿qué les permiten aislar y caracterizar esas aproximaciones a los investigadores?
+
+- A. Las contribuciones de la genética, la epigenética, los estilos parentales y las exposiciones durante el embarazo
+- B. Las contribuciones de la genética y de las mutaciones espontáneas, únicamente
+- C. Las contribuciones de la dieta y del clima sobre el desarrollo embrionario
+- D. Las contribuciones de la selección natural sobre las poblaciones de laboratorio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · modelos animales · qué permiten aislar
+
+Estas aproximaciones les permiten a los investigadores aislar y caracterizar las contribuciones de la genética, la epigenética, los estilos parentales y las exposiciones durante el embarazo, ampliando la comprensión acerca de cómo se heredan los rasgos.
+
+---
+
+### 343
+
+De acuerdo con el libro de Biología, ¿cómo se denominan las características descritas en los ratones de la cepa "agouti"?
+
+- A. "Características físicas dependientes de la metilación"
+- B. "Características físicas dependientes de la acetilación"
+- C. "Características físicas dependientes del ambiente materno"
+- D. "Características físicas dependientes de la impronta parental"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · ratones agouti · denominación
+
+Un ejemplo muy interesante es la descripción de las llamadas "características físicas dependientes de la metilación" en los ratones de la cepa denominada "agouti".
+
+---
+
+### 344
+
+De conformidad con el libro de Biología, ¿cómo varía el grado de metilación de ciertos fragmentos repetitivos de ADN en el gen agouti?
+
+- A. De manera azarosa entre individuos
+- B. De manera uniforme en todos los individuos de la cepa
+- C. De manera proporcional a la edad de cada individuo
+- D. De manera idéntica a la de sus progenitores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · ratones agouti · variación azarosa
+
+El grado de metilación de ciertos fragmentos repetitivos de ADN en un gen llamado agouti varían de manera azarosa entre individuos.
+
+---
+
+### 345
+
+En relación con el libro de Biología, ¿qué fenotipo presentan los ratones con las secuencias sin metilar?
+
+- A. "Amarillos, obesos y diabéticos"
+- B. "Oscuros, delgados y sanos"
+- C. "Amarillos, delgados y sanos"
+- D. "Oscuros, obesos y diabéticos"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · ratones agouti · fenotipo sin metilar
+
+Esto determina el fenotipo de los ratones en un rango que va desde "amarillos, obesos y diabéticos" (con secuencias sin metilar).
+
+---
+
+### 346
+
+De acuerdo con el libro de Biología, ¿qué fenotipo presentan los ratones con las secuencias completamente metiladas?
+
+- A. "Oscuros, delgados y sanos"
+- B. "Amarillos, obesos y diabéticos"
+- C. "Oscuros, obesos y sanos"
+- D. "Amarillos, delgados y diabéticos"
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · ratones agouti · fenotipo metilado
+
+Hasta "oscuros, delgados y sanos" (con secuencias completamente metiladas).
+
+---
+
+### 347
+
+De conformidad con el libro de Biología, ¿qué ocurre con el grado de metilación del gen agouti en los machos?
+
+- A. No afecta a su descendencia
+- B. Afecta a su descendencia del mismo modo que en las hembras
+- C. Afecta a su descendencia sólo cuando está completamente metilado
+- D. Afecta únicamente a los descendientes machos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · ratones agouti · machos
+
+Notablemente, el grado de metilación del gen agouti en los machos no afecta a su descendencia.
+
+---
+
+### 348
+
+En relación con el libro de Biología, ¿qué ocurre en cambio con las hembras de esta cepa?
+
+- A. Tienen una descendencia que tiende a presentar un fenotipo similar a ellas: las madres más oscuras producen más descendientes oscuros y delgados que las madres amarillas
+- B. Tienen una descendencia que tiende a presentar el fenotipo opuesto al de ellas
+- C. Tienen una descendencia cuyo fenotipo depende sólo del macho
+- D. Tienen una descendencia con fenotipos repartidos por igual entre ambos extremos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · ratones agouti · hembras
+
+Las hembras de esta cepa tienen una descendencia que tiende a presentar un fenotipo similar a ellas: las madres más oscuras producen más descendientes oscuros y delgados que las madres amarillas.
+
+---
+
+### 349
+
+De acuerdo con el libro de Biología, dado que sólo la metilación materna afecta a la generación siguiente, ¿a qué podría deberse el resultado observado?
+
+- A. A exposiciones de los embriones al ambiente materno durante la gestación y no a un efecto directo de la herencia epigenética
+- B. A un efecto directo de la herencia epigenética y no al ambiente materno
+- C. A mutaciones acumuladas en el gen agouti de las madres
+- D. A la dieta que reciben los descendientes después del destete
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · ratones agouti · explicación alternativa
+
+Dado que solo la metilación materna afecta a la generación siguiente, el resultado observado podría deberse a exposiciones de los embriones al ambiente materno durante la gestación y no a un efecto directo de la herencia epigenética.
+
+---
+
+### 350
+
+De conformidad con el libro de Biología, ¿qué podría ocurrir, por ejemplo, con las madres obesas o diabéticas?
+
+- A. Que constituyan un ambiente con mayor disponibilidad de azúcar, hormonas o alguna otra variable que afecte a los embriones en desarrollo de manera directa
+- B. Que transmitan a los embriones una mutación en el gen agouti
+- C. Que impidan la implantación de los embriones en el útero
+- D. Que produzcan un número menor de descendientes por camada
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · ratones agouti · ambiente materno
+
+Podría ocurrir, por ejemplo, que las madres obesas/diabéticas constituyan un ambiente con mayor disponibilidad de azúcar, hormonas o alguna otra variable que afecte a los embriones en desarrollo de manera directa.
+
+---
+
+### 351
+
+En relación con el libro de Biología, ¿qué método propusieron algunos investigadores para descartar esa posibilidad?
+
+- A. Un método que involucra la gesta subrogada
+- B. Un método que involucra el control de la dieta después del nacimiento
+- C. Un método que involucra la secuenciación del gen agouti
+- D. Un método que involucra el cruzamiento entre machos de distinto fenotipo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · ratones agouti · gesta subrogada
+
+Para descartar esta posibilidad, algunos investigadores propusieron un método que involucra la gesta subrogada.
+
+---
+
+### 352
+
+De acuerdo con el libro de Biología, ¿en qué consistió ese procedimiento?
+
+- A. Tomaron embriones recién formados de madres oscuras y los implantaron en úteros de madres amarillas y viceversa
+- B. Tomaron embriones recién formados de madres oscuras y los implantaron en úteros de otras madres oscuras
+- C. Cambiaron la dieta de las madres amarillas durante toda la gestación
+- D. Reubicaron a los recién nacidos con madres no biológicas después del parto
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · ratones agouti · diseño del experimento
+
+Tomaron embriones recién formados de madres oscuras y los implantaron en úteros de madres amarillas y viceversa.
+
+---
+
+### 353
+
+De conformidad con el libro de Biología, ¿qué patrón de metilación afectó al fenotipo de la generación siguiente?
+
+- A. El de la hembra que aportó el oocito, y no el de la hembra gestante
+- B. El de la hembra gestante, y no el de la hembra que aportó el oocito
+- C. El del macho que aportó el espermatozoide
+- D. El de ambas hembras por igual
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · ratones agouti · resultado
+
+El patrón de metilación de la hembra que aportó el oocito, y no el de la hembra gestante, afectó al fenotipo de la generación siguiente, mostrando evidencia del valor heredable de estos caracteres.
+
+---
+
+### 354
+
+En relación con el libro de Biología, ¿qué regula la actividad transcripcional del gen "axin" en algunas cepas de ratones?
+
+- A. Una zona cercana de ADN repetitivo
+- B. Una zona cercana de ADN no repetitivo
+- C. Un ARN largo no codificante transcripto en otro cromosoma
+- D. Una proteína de la familia polycomb
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · gen axin · regulación
+
+El caso del gen "axin" en algunas cepas de ratones es similar al del gen agouti, ya que su actividad transcripcional es regulada por una zona cercana de ADN repetitivo.
+
+---
+
+### 355
+
+De acuerdo con el libro de Biología, en el caso del gen axin, ¿qué hacen las repeticiones no metiladas?
+
+- A. Interfieren la transcripción del gen, alterando la secuencia de ARNm y la síntesis de la correspondiente proteína
+- B. Favorecen la transcripción del gen, aumentando la síntesis de la correspondiente proteína
+- C. Metilan las islas CpG del promotor del gen
+- D. Degradan el ARNm del gen apenas se sintetiza
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · gen axin · repeticiones no metiladas
+
+En este caso, las repeticiones no metiladas interfieren la transcripción del gen axin, alterando la secuencia de ARNm y la síntesis de la correspondiente proteína.
+
+---
+
+### 356
+
+De conformidad con el libro de Biología, ¿con qué nacen los ratones cuando eso ocurre?
+
+- A. Con un pliegue en la cola
+- B. Con una cola más corta que lo normal
+- C. Con el pelaje amarillo
+- D. Sin cola
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · gen axin · fenotipo
+
+Se ha identificado que cuando eso ocurre, los ratones nacen con un pliegue en la cola.
+
+---
+
+### 357
+
+En relación con el libro de Biología, ¿en qué se diferencia este ejemplo del caso del gen agouti?
+
+- A. En que tanto los machos como las hembras pueden transmitir el estado de metilación del ADN a la generación siguiente
+- B. En que sólo los machos pueden transmitir el estado de metilación del ADN
+- C. En que ninguno de los dos sexos transmite el estado de metilación del ADN
+- D. En que el estado de metilación se transmite sólo cada dos generaciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · gen axin · transmisión por ambos sexos
+
+En este ejemplo, a diferencia del caso del gen agouti, tanto los machos como las hembras pueden transmitir el estado de metilación del ADN a la generación siguiente.
+
+---
+
+### 358
+
+De acuerdo con el libro de Biología, ¿qué colas tienen los progenitores con las repeticiones más fuertemente metiladas y su descendencia?
+
+- A. Colas rectas, y producen una descendencia con colas rectas
+- B. Colas plegadas, y producen una descendencia con colas plegadas
+- C. Colas rectas, y producen una descendencia con colas plegadas
+- D. Colas plegadas, y producen una descendencia con colas rectas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · gen axin · colas rectas y plegadas
+
+Los progenitores con repeticiones más fuertemente metiladas tienen colas rectas y producen una descendencia con colas rectas, mientras los descendientes de los portadores del ADN no metilado muestran colas plegadas.
+
+---
+
+### 359
+
+De conformidad con el libro de Biología, hacia finales de la Segunda Guerra Mundial, durante el invierno de 1944 y 1945, ¿qué hicieron los nazis?
+
+- A. Bloquearon todas las importaciones de comida a los países bajos, causando una hambruna devastadora
+- B. Bloquearon todas las exportaciones de comida de los países bajos, causando una crisis económica
+- C. Racionaron el consumo de comida en los países bajos durante todo el invierno
+- D. Destruyeron los cultivos de los países bajos antes de la cosecha
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · caso de Holanda · la hambruna
+
+Hacia finales de la Segunda Guerra Mundial, durante el invierno de 1944 y 1945, los nazis bloquearon todas las importaciones de comida a los países bajos, causando una hambruna devastadora.
+
+---
+
+### 360
+
+En relación con el libro de Biología, ¿cuántas personas murieron de inanición en esa región y hasta cuándo?
+
+- A. Aproximadamente 20 000, antes de que se recuperara la normalidad de abastecimiento con la liberación de los países bajos en mayo de 1945
+- B. Aproximadamente 200 000, antes de la liberación de los países bajos en mayo de 1945
+- C. Aproximadamente 20 000, antes del final del invierno de 1944
+- D. Aproximadamente 2 000, antes de la liberación de los países bajos en mayo de 1945
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · caso de Holanda · víctimas
+
+Tan solo en esa región, aproximadamente 20000 personas murieron de inanición antes de que se recuperara la normalidad de abastecimiento con la liberación de los países bajos en mayo de 1945.
+
+---
+
+### 361
+
+De acuerdo con el libro de Biología, ¿qué permitió el estudio y la caracterización de ese fenómeno?
+
+- A. Los límites tan precisos del período de hambruna, el rápido acceso de los sobrevivientes a un sistema de salud con enorme accesibilidad y un registro epidemiológico riguroso
+- B. El número reducido de personas afectadas y la corta duración de la guerra
+- C. La disponibilidad de muestras de ADN de todos los sobrevivientes
+- D. La existencia de un grupo de control en otro país europeo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · caso de Holanda · por qué pudo estudiarse
+
+Los límites tan precisos del período de hambruna, así como el rápido acceso de los sobrevivientes a un sistema de salud con enorme accesibilidad y un registro epidemiológico riguroso, permitieron el estudio y la caracterización de un fenómeno que hasta hace muy poco tiempo había pasado inadvertido.
+
+---
+
+### 362
+
+De conformidad con el libro de Biología, ¿qué mostró la primera observación sobre las personas concebidas durante el período de la hambruna?
+
+- A. Que tuvieron, a lo largo de su vida, un riesgo mayor de obesidad, diabetes y enfermedades cardiovasculares
+- B. Que tuvieron, a lo largo de su vida, un riesgo menor de obesidad, diabetes y enfermedades cardiovasculares
+- C. Que tuvieron, a lo largo de su vida, un riesgo mayor de enfermedades infecciosas y respiratorias
+- D. Que no presentaron ninguna diferencia respecto de la población general
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · caso de Holanda · primera observación
+
+La primera observación mostró que las personas concebidas durante el período de la hambruna (cuyas madres estaban famélicas durante su desarrollo embrionario temprano) tuvieron, a lo largo de su vida, un riesgo mayor de obesidad, diabetes y enfermedades cardiovasculares.
+
+---
+
+### 363
+
+En relación con el libro de Biología, ¿con qué se correlacionaban esos riesgos incrementados, según las investigaciones a nivel molecular de 2008?
+
+- A. Con niveles menores de metilación del ADN de genes relacionados con el metabolismo
+- B. Con niveles mayores de metilación del ADN de genes relacionados con el metabolismo
+- C. Con mutaciones en genes relacionados con el metabolismo
+- D. Con niveles menores de acetilación de las histonas de genes del metabolismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 317
+**Subtema:** epigenética · caso de Holanda · hallazgo molecular de 2008
+
+En 2008, investigaciones a nivel molecular mostraron que estos riesgos incrementados se correlacionaban con niveles menores de metilación del ADN de genes relacionados con el metabolismo.
 
 ---
