@@ -323,7 +323,16 @@ del tumor y **cáncer tiroideo**—, el tratamiento de la **hepatitis C** con un
 los modificadores epigenéticos ambientales, dañinos y beneficiosos, con el **ácido fólico** y el tubo
 neural).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **321** (hoja 367) en adelante —el apartado "Salud, epigenética y ética"— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **321** (mitad superior, hasta donde arranca el ensayo de cierre): el final
+de "Salud, epigenética y ética" (la exposición ambiental en cualquier etapa de la vida, los momentos
+del desarrollo con mayor plasticidad —**embrionario, fetal e infancia**— y las etapas potencialmente
+reproductivas, la tendencia a leer las nuevas evidencias con **viejos reduccionismos**, el campo que
+excede y cuestiona a los desarrollos farmacéuticos, el condicionamiento por el financiamiento de los
+estados y del sector privado, la **ciencia hegemónica** que responsabiliza a los genes de todas las
+dolencias, y el desafío abierto para la sociedad toda). De ahí en adelante empieza "Retomando la
+problemática inicial", que no lleva reactivos.
+
+**Pendiente:** ninguno; el capítulo 14 quedó **CERRADO** con la página impresa **321**, donde arranca el ensayo de cierre "Retomando la problemática inicial" (ese ensayo, la p. 322 con "Situaciones problemáticas" y la p. 323 con el resto de los ejercicios no llevan reactivos por norma). Los capítulos **15**, **33** y **37** ya estaban cerrados, así que con este **Biología queda cerrada del todo** y con ella la **EMOS**, cuyo único pendiente era esta materia.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -8182,5 +8191,209 @@ En relación con el libro de Biología, ¿qué incidencia ha reducido esa polít
 **Subtema:** epigenética y salud · tubo neural
 
 Ha reducido la incidencia de defectos del cierre del tubo neural y de alteraciones del desarrollo del sistema nervioso central.
+
+---
+
+### 460
+
+De acuerdo con el libro de Biología, ¿en qué etapa de la vida puede la exposición ambiental afectar nuestra salud?
+
+- A. En cualquier etapa de la vida
+- B. Únicamente en la etapa embrionaria
+- C. Únicamente en la etapa adulta
+- D. Únicamente en las etapas potencialmente reproductivas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 321
+**Subtema:** epigenética y salud · exposición ambiental
+
+La exposición ambiental en cualquier etapa de la vida puede afectar nuestra salud.
+
+---
+
+### 461
+
+De conformidad con el libro de Biología, ¿cuáles son los momentos del desarrollo con mayor plasticidad?
+
+- A. El embrionario, el fetal y la infancia
+- B. El embrionario, la infancia y la adolescencia
+- C. El fetal, la infancia y la adultez
+- D. El embrionario, el fetal y la vejez
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 321
+**Subtema:** epigenética y salud · momentos de mayor plasticidad
+
+Siendo de particular importancia las exposiciones en los momentos del desarrollo con mayor plasticidad (embrionario, fetal e infancia).
+
+---
+
+### 462
+
+En relación con el libro de Biología, ¿en qué otras etapas son de particular importancia esas exposiciones?
+
+- A. En etapas potencialmente reproductivas
+- B. En etapas posteriores a la reproducción
+- C. En las etapas de mayor actividad laboral
+- D. En las etapas de crecimiento óseo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 321
+**Subtema:** epigenética y salud · etapas reproductivas
+
+Así como en etapas potencialmente reproductivas.
+
+---
+
+### 463
+
+De acuerdo con el libro de Biología, ¿cuál es la tendencia de las publicaciones actuales?
+
+- A. Interpretar estas nuevas evidencias en el marco de viejos reduccionismos
+- B. Interpretar estas nuevas evidencias en el marco de la perspectiva cuatridimensional
+- C. Descartar estas nuevas evidencias por considerarlas poco confiables
+- D. Interpretar estas nuevas evidencias sin ningún marco teórico previo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 321
+**Subtema:** epigenética y salud · viejos reduccionismos
+
+La tendencia de las publicaciones actuales es interpretar estas nuevas evidencias en el marco de viejos reduccionismos.
+
+---
+
+### 464
+
+De conformidad con el libro de Biología, ¿qué grandes promesas se anuncian a la par?
+
+- A. Que estas innovaciones darán lugar al desarrollo de nuevas tecnologías para diagnosticar y tratar padecimientos que hasta ahora no tienen cura, o mejorar la forma de hacerlo en padecimientos que cuentan con tratamientos vigentes
+- B. Que estas innovaciones permitirán prescindir por completo de los tratamientos farmacológicos vigentes
+- C. Que estas innovaciones reemplazarán al diagnóstico genético en todos los padecimientos conocidos
+- D. Que estas innovaciones eliminarán la influencia del ambiente sobre la salud de las personas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 321
+**Subtema:** epigenética y salud · promesas anunciadas
+
+Se anuncian grandes promesas respecto de cómo estas innovaciones darán lugar al desarrollo de nuevas tecnologías para diagnosticar y tratar padecimientos que hasta ahora no tienen cura, o mejorar la forma de hacerlo en padecimientos que cuentan con tratamientos vigentes.
+
+---
+
+### 465
+
+En relación con el libro de Biología, ¿qué no se debe desconocer al valorar las posibles implicancias terapéuticas de estos saberes?
+
+- A. Que este campo del conocimiento excede a los desarrollos farmacéuticos y, en más de una manera, los cuestiona
+- B. Que este campo del conocimiento se limita a los desarrollos farmacéuticos y los confirma
+- C. Que este campo del conocimiento carece de implicancias terapéuticas comprobadas
+- D. Que este campo del conocimiento depende por completo de la industria farmacéutica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 321
+**Subtema:** epigenética y salud · más allá de lo farmacéutico
+
+Es fundamental valorar las posibles implicancias terapéuticas que tienen estos saberes, pero sin desconocer que este campo del conocimiento excede a los desarrollos farmacéuticos y, en más de una manera, los cuestiona.
+
+---
+
+### 466
+
+De acuerdo con el libro de Biología, ¿en qué direcciones puede generarse el conocimiento científico?
+
+- A. En las direcciones que indiquen las curiosidades de los investigadores
+- B. En las direcciones que indiquen los organismos que aprueban los medicamentos
+- C. En las direcciones que indiquen las escuelas de medicina
+- D. En las direcciones que indiquen las comunidades afectadas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 321
+**Subtema:** epigenética y salud · dirección del conocimiento científico
+
+El conocimiento científico puede generarse en las direcciones que indiquen las curiosidades de los investigadores.
+
+---
+
+### 467
+
+De conformidad con el libro de Biología, ¿por qué se encuentran fuertemente condicionadas sus tendencias?
+
+- A. Por el financiamiento de los estados y del sector privado
+- B. Por el financiamiento exclusivo de los estados
+- C. Por el financiamiento exclusivo del sector privado
+- D. Por las prioridades de las escuelas de medicina
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 321
+**Subtema:** epigenética y salud · condicionamiento del financiamiento
+
+Pero sus tendencias se encuentran fuertemente condicionadas por el financiamiento de los estados y del sector privado.
+
+---
+
+### 468
+
+En relación con el libro de Biología, ¿qué lleva haciendo la ciencia hegemónica desde hace algunas décadas?
+
+- A. Responsabilizando a los genes de todas las dolencias
+- B. Responsabilizando al ambiente de todas las dolencias
+- C. Responsabilizando a los estilos de vida de todas las dolencias
+- D. Responsabilizando a los procesos epigenéticos de todas las dolencias
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 321
+**Subtema:** epigenética y salud · ciencia hegemónica
+
+La ciencia hegemónica lleva algunas décadas ya responsabilizando a los genes de todas las dolencias.
+
+---
+
+### 469
+
+De acuerdo con el libro de Biología, ¿qué reconocen no pocas escuelas de medicina?
+
+- A. El valor de los condicionantes de salud y estilos de vida en la calidad de vida de las personas
+- B. El valor exclusivo de la herencia genética en la calidad de vida de las personas
+- C. El valor de los tratamientos farmacológicos por encima de cualquier otro factor
+- D. El valor de los estudios de diagnóstico basados en miARN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 321
+**Subtema:** epigenética y salud · condicionantes y estilos de vida
+
+Aunque no son pocas las escuelas de medicina que reconocen el valor de los condicionantes de salud y estilos de vida en la calidad de vida de las personas.
+
+---
+
+### 470
+
+De conformidad con el libro de Biología, ¿qué abre actualmente el campo de la epigenética?
+
+- A. Un universo de factores condicionantes de salud que no estaban siendo considerados
+- B. Un universo de factores genéticos que ya estaban siendo considerados
+- C. Un conjunto reducido de factores condicionantes de salud ya conocidos
+- D. Un universo de tratamientos farmacológicos de eficacia comprobada
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 321
+**Subtema:** epigenética y salud · nuevos factores condicionantes
+
+Actualmente, el campo de la epigenética abre un universo de factores condicionantes de salud que no estaban siendo considerados.
+
+---
+
+### 471
+
+En relación con el libro de Biología, ¿para quiénes es un desafío abierto abordar la investigación y el debate acerca de estas problemáticas?
+
+- A. Para la comunidad científica, la comunidad médica, los educadores, los gestores de agendas y políticas públicas y, por lo tanto, para la sociedad toda
+- B. Únicamente para la comunidad científica y la comunidad médica
+- C. Únicamente para los gestores de agendas y políticas públicas
+- D. Para la industria biotecnológica y los organismos que aprueban los medicamentos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 321
+**Subtema:** epigenética y salud · desafío abierto
+
+Abordar la investigación y el debate acerca de estas problemáticas es un desafío abierto para la comunidad científica, la comunidad médica, los educadores, los gestores de agendas y políticas públicas y, por lo tanto, para la sociedad toda.
 
 ---

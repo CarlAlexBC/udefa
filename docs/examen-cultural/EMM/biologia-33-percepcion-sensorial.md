@@ -79,11 +79,10 @@ Las páginas de ENSAYO (recuadros 33-x y "Biología en contexto social", con cap
 texto lorem ipsum) y el cierre de las pp. 806–810 (ensayo "Retomando la problemática
 inicial" y las "Situaciones problemáticas") quedan fuera por no ser recuerdo literal.
 
-**Pendiente:** el capítulo 33 quedó **CERRADO** en 186 reactivos (cuerpo del texto,
-pp. 778–805). El capítulo 34 (El sistema endocrino) empieza en la p. 811. Lo pide
-**sólo la EMO**. **Biología como materia NO está cerrada:** faltan los capítulos **14,
-15 y 37**, que llevan otras sesiones y sostienen su propio pendiente.
-**Recordatorio de coordinación:** los capítulos 14, 15 y 37 no se tocan desde aquí.
+**Pendiente:** ninguno; el capítulo 33 quedó **CERRADO** en 186 reactivos (cuerpo del
+texto, pp. 778–805). El capítulo 34 (El sistema endocrino) empieza en la p. 811. Lo pide
+**sólo la EMO**. **Biología quedó cerrada del todo** el 14 ago 2026, al cerrarse el
+capítulo **14 (Epigenética)**, que era el último abierto de la materia.
 
 ## Cómo se escriben estos reactivos
 
