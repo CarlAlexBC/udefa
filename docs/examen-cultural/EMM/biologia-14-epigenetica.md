@@ -252,7 +252,20 @@ el **mosaicismo**); las figs. 14-15 (microfotografía de mucosa bucal) y 14-16 (
 el X activo); y el arranque de "Gemelos no tan idénticos: el papel del ambiente como modulador
 fenotípico en el tiempo".
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **315** (hoja 361) en adelante —el resto de los gemelos, la herencia epigenética transgeneracional, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **315**: el cuerpo del apartado de los gemelos (la oportunidad única que
+brindan para estudiar el impacto de la epigenética en la salud humana, la comparación de cromatina
+de Manel Esteller en 2005 del nacimiento a la vejez, la similitud al nacer con divergencia gradual
+de la metilación y de los patrones de histonas, las mayores diferencias entre los que han pasado
+más tiempo separados, y el experimento de la NASA de 2015-2016 con los astronautas Scott y Mark
+Kelly); y el **recuadro 14-3 completo** ("Ligres, tigones y la contribución diferencial de los
+machos y las hembras": el aislamiento reproductivo por barreras ecológicas y comportamentales, el
+peso del sexo de los progenitores, el ligre como cruce de león macho con tigresa con sus casi
+cuatro metros y 400 kilos, los procesos que limitan el crecimiento transmitidos por vía paterna en
+los tigres y materna en los leones, el riesgo del parto, la esterilidad sólo de los machos, las
+conductas heredadas de cada especie, y el tigón con su inhibición del crecimiento, sus 180 kilos y
+su porte sin melena).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **316** (hoja 362) en adelante —el resto de los gemelos, la herencia epigenética transgeneracional, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -5310,5 +5323,361 @@ En relación con el libro de Biología, ¿qué ayuda a explicar la importancia d
 **Subtema:** epigenética · gemelos · factores no genéticos
 
 La importancia de los factores no genéticos en el cambio de los patrones de modificación epigenética ayuda a explicar por qué los gemelos idénticos no son realmente idénticos.
+
+---
+### 295
+
+En relación con el libro de Biología, ¿qué brindan los hermanos que comparten la misma secuencia de ADN pero acumulan experiencias diferentes y exposiciones ambientales distintas a lo largo de la vida?
+
+- A. Una oportunidad única para estudiar el impacto de la epigenética en la salud humana
+- B. Una oportunidad única para estudiar el impacto de las mutaciones en la salud humana
+- C. Una prueba de que el ambiente no modifica el fenotipo
+- D. Un modelo para estudiar la inactivación del cromosoma X
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · gemelos · valor del modelo
+
+Hermanos que comparten la misma secuencia de ADN, pero que acumulan experiencias diferentes y exposiciones ambientales distintas a lo largo de la vida, brindan una oportunidad única para estudiar el impacto de la epigenética en la salud humana.
+
+---
+
+### 296
+
+De acuerdo con el libro de Biología, en 2005, ¿quién comparó la cromatina de pares de gemelos idénticos a diferentes edades?
+
+- A. El genetista español Manel Esteller
+- B. El genetista alemán Nikolaus Rajewsky
+- C. El genetista estadounidense David Allis
+- D. El genetista danés Jorgen Kjems
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · gemelos · Manel Esteller
+
+En 2005, el genetista español Manel Esteller comparó la cromatina de pares de gemelos idénticos a diferentes edades.
+
+---
+
+### 297
+
+De conformidad con el libro de Biología, ¿qué rango de edades abarcó esa comparación?
+
+- A. Desde el nacimiento hasta la vejez
+- B. Desde la concepción hasta el nacimiento
+- C. Desde la infancia hasta la adultez temprana
+- D. Desde la adolescencia hasta la vejez
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · gemelos · rango de edades
+
+Comparó la cromatina de pares de gemelos idénticos a diferentes edades, desde el nacimiento hasta la vejez.
+
+---
+
+### 298
+
+En relación con el libro de Biología, ¿qué se encontró al comparar a los gemelos idénticos a lo largo del tiempo?
+
+- A. Que son epigenéticamente similares al nacer, pero la metilación de sus ADN y, en especial, sus patrones de modificación de histonas divergen gradualmente con el tiempo
+- B. Que son epigenéticamente distintos al nacer y se van pareciendo con el tiempo
+- C. Que su metilación permanece idéntica durante toda la vida
+- D. Que sólo cambian sus patrones de metilación, y no los de modificación de histonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · gemelos · divergencia con el tiempo
+
+Los gemelos son epigenéticamente similares al nacer, pero la metilación de sus ADN y, en especial, sus patrones de modificación de histonas divergen gradualmente con el tiempo.
+
+---
+
+### 299
+
+De acuerdo con el libro de Biología, ¿entre qué gemelos se observan mayores diferencias?
+
+- A. Entre los que han pasado más tiempo separados
+- B. Entre los que han pasado más tiempo juntos
+- C. Entre los que nacieron con menor peso
+- D. Entre los que comparten la misma ocupación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · gemelos · tiempo separados
+
+Se observan mayores diferencias entre los gemelos que han pasado más tiempo separados.
+
+---
+
+### 300
+
+De conformidad con el libro de Biología, ¿a quiénes comparó el experimento realizado por la NASA entre 2015 y 2016?
+
+- A. A dos astronautas gemelos idénticos, Scott y Mark Kelly
+- B. A dos astronautas hermanos no gemelos, Scott y Mark Kelly
+- C. A un astronauta y a un grupo de control en tierra
+- D. A dos astronautas gemelos que viajaron juntos al espacio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · gemelos · experimento de la NASA
+
+Un experimento verdaderamente único realizado por la NASA (entre 2015 y 2016), que comparó a dos astronautas gemelos idénticos, Scott y Mark Kelly.
+
+---
+
+### 301
+
+En relación con el libro de Biología, ¿cuánto duró la misión que cumplió uno de esos gemelos y dónde?
+
+- A. Un año, en la Estación Espacial Internacional
+- B. Seis meses, en la Estación Espacial Internacional
+- C. Un año, en la superficie lunar
+- D. Dos años, en la Estación Espacial Internacional
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · gemelos · misión de un año
+
+Durante y después de la misión de un año que cumplió uno de ellos en la Estación Espacial Internacional.
+
+---
+
+### 302
+
+De acuerdo con el libro de Biología, ¿cómo se denomina al híbrido de león y tigre?
+
+- A. Ligre
+- B. Tigón
+- C. Ligresa
+- D. Tigona
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · ligre
+
+Se trataba de un híbrido de león y tigre, al que se denomina "ligre".
+
+---
+
+### 303
+
+De conformidad con el libro de Biología, ¿por qué es muy improbable que se produzca un apareamiento entre tigres y leones en condiciones naturales?
+
+- A. Porque están aislados reproductivamente por barreras ecológicas y comportamentales
+- B. Porque están aislados reproductivamente por barreras genéticas y cromosómicas
+- C. Porque sus períodos reproductivos ocurren en estaciones distintas
+- D. Porque sus gametos son incompatibles
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · aislamiento reproductivo
+
+Están aislados reproductivamente por barreras ecológicas y comportamentales, de modo que es muy improbable que se produzca un apareamiento entre ambos en condiciones naturales.
+
+---
+
+### 304
+
+En relación con el libro de Biología, cuando ocurren esos encuentros en zoológicos u otros escenarios generados por los humanos, ¿qué influye notablemente en el resultado?
+
+- A. El sexo de los progenitores
+- B. La edad de los progenitores
+- C. El tamaño de los progenitores
+- D. La estación del año en que ocurre el cruce
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · sexo de los progenitores
+
+Cuando, ocasionalmente, ocurren estos encuentros en zoológicos u otros escenarios generados por los humanos, el sexo de los progenitores influye notablemente en el resultado.
+
+---
+
+### 305
+
+De acuerdo con el libro de Biología, ¿de qué cruce resulta el ligre?
+
+- A. Del cruce de un león macho con una tigresa
+- B. Del cruce de un tigre macho con una leona
+- C. Del cruce de dos leones de distintas subespecies
+- D. Del cruce de dos tigres de distintas subespecies
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · origen del ligre
+
+El ligre es el híbrido resultante del cruce de un león macho con una tigresa.
+
+---
+
+### 306
+
+De conformidad con el libro de Biología, ¿cuánto puede medir y pesar el ligre?
+
+- A. Casi cuatro metros y 400 kilos
+- B. Casi tres metros y 300 kilos
+- C. Casi cuatro metros y 180 kilos
+- D. Casi cinco metros y 500 kilos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · tamaño del ligre
+
+Puede medir casi cuatro metros y pesar 400 kilos, de modo que supera en tamaño tanto a los tigres como a los leones.
+
+---
+
+### 307
+
+En relación con el libro de Biología, ¿cómo se ha explicado ese fenómeno?
+
+- A. Como un resultado de la contribución diferencial de los genomas de machos y hembras
+- B. Como un resultado de la suma de las mutaciones de ambas especies
+- C. Como un resultado de la alimentación que reciben en cautiverio
+- D. Como un resultado del número de cromosomas del híbrido
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · contribución diferencial
+
+Este fenómeno se ha explicado como un resultado de la contribución diferencial de los genomas de machos y hembras.
+
+---
+
+### 308
+
+De acuerdo con el libro de Biología, ¿por qué vía se transmiten los procesos que limitan el crecimiento en cada una de esas especies?
+
+- A. Por vía paterna en los tigres y por vía materna en los leones
+- B. Por vía materna en los tigres y por vía paterna en los leones
+- C. Por vía paterna en ambas especies
+- D. Por vía materna en ambas especies
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · límites del crecimiento
+
+Tanto los tigres como los leones tienen procesos que limitan el crecimiento, con la peculiaridad de que estos se transmiten por vía paterna, en caso de los primeros, y por vía materna, en el caso de los últimos.
+
+---
+
+### 309
+
+De conformidad con el libro de Biología, ¿qué riesgo acarrea el gran tamaño que desarrolla el ligre?
+
+- A. Riesgo para la hembra durante el embarazo y el parto, que suele terminar en cesárea
+- B. Riesgo de que la cría no alcance el peso mínimo para sobrevivir
+- C. Riesgo de que la hembra rechace a la cría al nacer
+- D. Riesgo de que el macho no alcance la madurez sexual
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · riesgo del embarazo
+
+El ligre desarrolla un gran tamaño, con el concomitante riesgo para la hembra durante el embarazo y el parto, que suele terminar en cesárea.
+
+---
+
+### 310
+
+En relación con el libro de Biología, ¿qué reduce las expectativas de vida de los ligres?
+
+- A. Las patologías y malformaciones asociadas a su crecimiento
+- B. Su esterilidad y su comportamiento solitario
+- C. Su interés por el agua y su comportamiento gregario
+- D. Las barreras ecológicas y comportamentales de sus progenitores
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · expectativas de vida
+
+Se suelen presentar patologías y malformaciones asociadas al crecimiento de los ligres, lo cual reduce sus expectativas de vida.
+
+---
+
+### 311
+
+De acuerdo con el libro de Biología, ¿para quiénes se cumple que los ligres son estériles?
+
+- A. Para los ligres macho, pero no para las hembras o ligresas, entre las que se han registrado casos de preñez
+- B. Para las hembras o ligresas, pero no para los ligres macho
+- C. Para ambos sexos, sin excepciones registradas
+- D. Para ninguno de los dos sexos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · esterilidad de los ligres
+
+Se asumía que los ligres eran estériles, lo cual se cumple para los ligres macho, pero no así para las hembras o ligresas, entre las que se han registrado casos de preñez.
+
+---
+
+### 312
+
+De conformidad con el libro de Biología, ¿qué heredan los ligres de cada una de las dos especies?
+
+- A. De los tigres, su interés por el agua, y de los leones, su comportamiento gregario
+- B. De los leones, su interés por el agua, y de los tigres, su comportamiento gregario
+- C. De los tigres, su comportamiento solitario, y de los leones, su melena
+- D. De los tigres, su tamaño, y de los leones, sus rayas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · conductas heredadas
+
+Los ligres heredan de los tigres su interés por el agua y de los leones, su comportamiento gregario.
+
+---
+
+### 313
+
+En relación con el libro de Biología, ¿cómo se denomina el híbrido del cruzamiento de un tigre macho y una leona?
+
+- A. Tigón
+- B. Ligre
+- C. Ligresa
+- D. Tigresa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · tigón
+
+En el caso del cruzamiento de un tigre macho y una leona, el híbrido se denomina tigón.
+
+---
+
+### 314
+
+De acuerdo con el libro de Biología, ¿qué experimentan los tigones y hasta cuánto pueden llegar a pesar?
+
+- A. Una inhibición del crecimiento heredada de ambos progenitores, y pueden pesar hasta 180 kilos
+- B. Una inhibición del crecimiento heredada sólo del padre, y pueden pesar hasta 400 kilos
+- C. Una aceleración del crecimiento heredada de ambos progenitores, y pueden pesar hasta 400 kilos
+- D. Una inhibición del crecimiento heredada sólo de la madre, y pueden pesar hasta 100 kilos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · tamaño del tigón
+
+Estos híbridos experimentan una inhibición del crecimiento heredada de ambos progenitores; por lo tanto, su tamaño resulta limitado, aunque pueden llegar a pesar hasta 180 kilos.
+
+---
+
+### 315
+
+De conformidad con el libro de Biología, ¿cómo son el porte y el pelaje del tigón?
+
+- A. Tienen un porte grácil y su pelaje presenta características tanto de los tigres como de los leones, pero sin melena
+- B. Tienen un porte robusto y su pelaje presenta sólo características de los tigres
+- C. Tienen un porte grácil y su pelaje presenta sólo características de los leones, con melena
+- D. Tienen un porte robusto y su pelaje carece de rayas y de melena
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 315
+**Subtema:** epigenética · recuadro 14-3 · aspecto del tigón
+
+Tienen un porte grácil y su pelaje presenta características tanto de los tigres como de los leones, pero sin melena.
 
 ---
