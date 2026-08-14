@@ -302,7 +302,17 @@ apartado "Epigenética y evolución" (el enfoque tradicional darwiniano, la nece
 que la sola secuencia de ADN, el ejemplo del gen promotor del crecimiento neuronal, y el estudio de
 2013 de Andrew Sharp y Tomas Marques-Bonet con sus **170 genes** de metilación exclusiva humana).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **319** (hoja 365) en adelante —el resto de la epigenética y la evolución, y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **319**: el cierre de "Epigenética y evolución" (la investigación centrada
+en especies que evolucionan rápido como las bacterias, sus varias ADN metiltransferasas, los gusanos
+nematodos que perdieron por completo uno de esos genes, y el efecto sobre la cantidad, el tiempo y la
+ubicación de la activación génica); las **"tradiciones de cuidado maternal" en ratas** (el lamido y
+acicalado, el gen del **hipocampo cerebral**, las redes completas de genes, la permanencia de por
+vida, la transmisión por la conducta de cuidado de las crías, el desatino de extrapolar a humanos y el
+sesgo de la metáfora antropocéntrica); y el **recuadro 14-4** completo (*Caenorhabditis elegans* y su
+protección antiviral heredada, las **14 generaciones** de *Arabidopsis thaliana*, la
+alopoliploidización, el **30%** de modificaciones en *Spartina*, los ARN reguladores y los ARNlnc).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **320** (hoja 366) en adelante —Eva Jablonka y Marion Lamb y el cierre de la epigenética y la evolución— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -6937,5 +6947,617 @@ En relación con el libro de Biología, ¿qué idea refuerza este hallazgo?
 **Subtema:** epigenética · evolución · conclusión del estudio
 
 Este hallazgo refuerza la idea de que los cambios que afectan a los sitios y los tiempos en los que se activan los genes pueden ser tan importantes como aquellos que afectan a su secuencia y función.
+
+---
+
+### 388
+
+De acuerdo con el libro de Biología, ¿en qué tipo de especies se centra gran parte de la investigación sobre los procesos epigenéticos que intervienen en la evolución de ciertos linajes?
+
+- A. En especies que se reproducen —y, por lo tanto, evolucionan— rápidamente, como las bacterias
+- B. En especies que se reproducen —y, por lo tanto, evolucionan— lentamente, como los mamíferos
+- C. En especies que se reproducen sexualmente y tienen generaciones largas, como las plantas con flor
+- D. En especies que sólo se reproducen en forma asexual, como los hongos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · evolución de linajes
+
+Gran parte de la investigación se centra en especies que se reproducen –y, por lo tanto, evolucionan– rápidamente, como las bacterias.
+
+---
+
+### 389
+
+De conformidad con el libro de Biología, ¿qué suelen tener las bacterias?
+
+- A. Varias proteínas de ADN metiltransferasa
+- B. Una sola proteína de ADN metiltransferasa
+- C. Varias proteínas de ARN metiltransferasa
+- D. Una sola proteína de ADN desmetilasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · metiltransferasas bacterianas
+
+Estas suelen tener varias proteínas de ADN metiltransferasa.
+
+---
+
+### 390
+
+En relación con el libro de Biología, ¿qué hace cada una de esas proteínas?
+
+- A. Reconoce y metila una secuencia de ADN específica
+- B. Reconoce y metila cualquier secuencia de ADN al azar
+- C. Reconoce y desmetila una secuencia de ADN específica
+- D. Reconoce y corta una secuencia de ADN específica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · especificidad de la metilación
+
+Cada una de ellas reconoce y metila una secuencia de ADN específica.
+
+---
+
+### 391
+
+De acuerdo con el libro de Biología, ¿qué han desarrollado los diferentes tipos de bacterias?
+
+- A. Genes de metiltransferasa con diferentes secuencias de ADN
+- B. Genes de metiltransferasa con secuencias de ADN idénticas entre sí
+- C. Genes de desmetilasa con diferentes secuencias de ADN
+- D. Genes de histonas con diferentes secuencias de ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · diversidad de metiltransferasas
+
+Diferentes tipos de bacterias han desarrollado genes de metiltransferasa con diferentes secuencias de ADN.
+
+---
+
+### 392
+
+De conformidad con el libro de Biología, ¿a qué afectan esos cambios?
+
+- A. A la afinidad respecto del sitio blanco de las proteínas correspondientes y, por lo tanto, a los patrones de metilación del ADN en el genoma
+- B. A la velocidad de replicación del ADN y, por lo tanto, al número de copias del genoma
+- C. A la afinidad de las histonas por el ADN y, por lo tanto, al grado de condensación del genoma
+- D. A la estabilidad del ARN mensajero y, por lo tanto, a la cantidad de proteína producida
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · afinidad por el sitio blanco
+
+Estos cambios afectan a la afinidad respecto del sitio blanco de las proteínas correspondientes y, por lo tanto, a los patrones de metilación del ADN en el genoma.
+
+---
+
+### 393
+
+En relación con el libro de Biología, ¿qué han perdido recientemente algunas especies de gusanos nematodos?
+
+- A. Por completo, uno de sus genes de ADN metiltransferasa
+- B. Por completo, todos sus genes de ADN metiltransferasa
+- C. Parcialmente, uno de sus genes de ADN metiltransferasa
+- D. Por completo, uno de sus genes de ARN polimerasa
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · nematodos
+
+Algunas especies de gusanos nematodos han perdido recientemente, por completo, uno de sus genes de ADN metiltransferasa.
+
+---
+
+### 394
+
+De acuerdo con el libro de Biología, ¿qué presentan esos nematodos cuando se los compara, incluso, con sus parientes más cercanos?
+
+- A. Diferentes patrones de metilación del genoma
+- B. Idénticos patrones de metilación del genoma
+- C. Diferentes secuencias de ADN en todo el genoma
+- D. Un número diferente de cromosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · comparación con parientes cercanos
+
+Presentan diferentes patrones de metilación del genoma cuando se los compara, incluso, con sus parientes más cercanos.
+
+---
+
+### 395
+
+De conformidad con el libro de Biología, en ambos casos, ¿a qué afectan los diferentes patrones de metilación del ADN?
+
+- A. A la cantidad, el tiempo y la ubicación de la activación génica
+- B. A la cantidad, el tiempo y la ubicación de la replicación del ADN
+- C. Al número, el tamaño y la forma de los cromosomas
+- D. A la cantidad y la velocidad de las mutaciones en la secuencia de ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · efecto sobre la activación génica
+
+En ambos casos, los diferentes patrones de metilación del ADN afectan a la cantidad, el tiempo y la ubicación de la activación génica.
+
+---
+
+### 396
+
+En relación con el libro de Biología, ¿qué rango de especies abarcan los estudios sobre procesos epigenéticos asociados a patrones conductuales con persistencia transgeneracional?
+
+- A. Un amplio rango de especies animales, incluidas las de algunos invertebrados, que son capaces de aprender por medio de la interacción social
+- B. Un rango reducido de especies animales, limitado a los mamíferos, que son capaces de aprender por medio de la interacción social
+- C. Un amplio rango de especies vegetales, incluidas algunas plantas con flor, que son capaces de responder al ambiente
+- D. Un rango reducido de especies de invertebrados, que son incapaces de aprender por medio de la interacción social
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · persistencia transgeneracional de conductas
+
+Este tipo de estudios abarca un amplio rango de especies animales, incluidas las de algunos invertebrados, que son capaces de aprender por medio de la interacción social.
+
+---
+
+### 397
+
+De acuerdo con el libro de Biología, ¿cuál es un ejemplo significativo de esos estudios?
+
+- A. El estudio de las llamadas "tradiciones de cuidado maternal" en ratas, que se mantienen a través de las generaciones
+- B. El estudio de las llamadas "tradiciones de cuidado maternal" en primates, que se mantienen a través de las generaciones
+- C. El estudio de las llamadas "tradiciones de caza" en aves, que se mantienen a través de las generaciones
+- D. El estudio de las "tradiciones de cuidado maternal" en ratas, que se pierden en cada generación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · tradiciones de cuidado maternal
+
+Un ejemplo significativo es el estudio de las llamadas "tradiciones de cuidado maternal" en ratas, que se mantienen a través de las generaciones.
+
+---
+
+### 398
+
+De conformidad con el libro de Biología, ¿en qué células tienen aumentada la expresión de un gen particular las crías que reciben mucho lamido y acicalado de sus progenitoras?
+
+- A. En las células del hipocampo cerebral
+- B. En las células del cerebelo
+- C. En las células de la corteza prefrontal
+- D. En las células de la médula espinal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · hipocampo cerebral
+
+Se ha visto que las crías que reciben mucho lamido y acicalado de sus progenitoras tienen aumentada, en las células del hipocampo cerebral, la expresión de un gen particular.
+
+---
+
+### 399
+
+En relación con el libro de Biología, ¿qué presentan al mismo tiempo esas crías?
+
+- A. Cambios en los patrones de expresión de redes completas de genes
+- B. Cambios en la secuencia de nucleótidos de redes completas de genes
+- C. Cambios en el número de copias de redes completas de genes
+- D. La pérdida definitiva de redes completas de genes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · redes de genes
+
+Al mismo tiempo, presentan cambios en los patrones de expresión de redes completas de genes.
+
+---
+
+### 400
+
+De acuerdo con el libro de Biología, ¿con qué están correlacionados esos cambios?
+
+- A. Con modificaciones tanto en la metilación del ADN como en las proteínas asociadas al ADN
+- B. Con modificaciones tanto en la secuencia del ADN como en las proteínas asociadas al ADN
+- C. Con modificaciones únicamente en la metilación del ADN
+- D. Con modificaciones únicamente en las proteínas asociadas al ADN
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · correlación molecular
+
+Estos cambios están correlacionados con modificaciones tanto en la metilación del ADN como en las proteínas asociadas al ADN.
+
+---
+
+### 401
+
+De conformidad con el libro de Biología, ¿qué se ha propuesto que ocurre una vez que estos patrones se establecen?
+
+- A. Que se mantienen durante toda la vida
+- B. Que se borran por completo en la pubertad
+- C. Que se mantienen sólo durante la lactancia
+- D. Que se restablecen en cada división celular
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · permanencia de los patrones
+
+Se ha propuesto que una vez que estos patrones se establecen, se mantienen durante toda la vida.
+
+---
+
+### 402
+
+En relación con el libro de Biología, ¿a través de qué se transmite el patrón de comportamiento a la siguiente generación de ratas hembra?
+
+- A. A través de la conducta de cuidado de las crías
+- B. A través de la leche materna
+- C. A través de los gametos de ambos progenitores
+- D. A través de la imitación entre hembras adultas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · transmisión del patrón conductual
+
+A través de la conducta de cuidado de las crías, el patrón de comportamiento se transmite a la siguiente generación de ratas hembra.
+
+---
+
+### 403
+
+De acuerdo con el libro de Biología, ¿de qué es informativo este experimento?
+
+- A. De la existencia de una herencia transgeneracional epigenética de patrones conductuales en esta especie
+- B. De la existencia de una herencia transgeneracional epigenética de patrones conductuales en todos los mamíferos
+- C. De la existencia de una herencia genética clásica de patrones conductuales en esta especie
+- D. De la ausencia de cualquier herencia de patrones conductuales en esta especie
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · alcance del experimento
+
+Este experimento es informativo de la existencia de una herencia transgeneracional epigenética de patrones conductuales en esta especie.
+
+---
+
+### 404
+
+De conformidad con el libro de Biología, ¿qué advierte el texto sobre extrapolar estas conclusiones?
+
+- A. Que sería un desatino extrapolarlas a otras especies y, por cierto, menos aún a humanos
+- B. Que es válido extrapolarlas a otras especies, aunque no a humanos
+- C. Que es válido extrapolarlas a humanos, aunque no a otras especies
+- D. Que sería un desatino extrapolarlas a humanos, pero no a otras especies
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · límites de la extrapolación
+
+Aunque sería un desatino extrapolar estas conclusiones a otras especies y, por cierto, menos aún a humanos.
+
+---
+
+### 405
+
+En relación con el libro de Biología, ¿qué imprime la metáfora antropocéntrica que hace referencia al "cuidado maternal" para describir el comportamiento de las ratas hembra?
+
+- A. Un sesgo que favorece la indebida extrapolación mencionada
+- B. Un sesgo que impide reconocer la herencia epigenética
+- C. Una precisión que evita la indebida extrapolación mencionada
+- D. Una ventaja para comparar la conducta de las ratas con la humana
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · sesgo antropocéntrico
+
+Adviértase que la metáfora antropocéntrica que hace referencia al "cuidado maternal" para describir el comportamiento de las ratas hembra imprime un sesgo que favorece la indebida extrapolación mencionada.
+
+---
+
+### 406
+
+De acuerdo con el libro de Biología, ¿qué ilustran los numerosos ejemplos acumulados en los últimos años?
+
+- A. El importante papel que podrían tener los procesos de la herencia epigenética en la evolución de las poblaciones naturales
+- B. El escaso papel que tendrían los procesos de la herencia epigenética en la evolución de las poblaciones naturales
+- C. El importante papel que tienen las mutaciones en la secuencia de ADN en la evolución de las poblaciones naturales
+- D. El importante papel que tiene la selección artificial en la evolución de las poblaciones naturales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · evolución de poblaciones
+
+En últimos años, se han acumulado numerosos ejemplos que ilustran el importante papel que podrían tener los procesos de la herencia epigenética en la evolución de las poblaciones naturales.
+
+---
+
+### 407
+
+De conformidad con el libro de Biología, ¿qué puede heredarse en forma epigenética en el nematodo *Caenorhabditis elegans*?
+
+- A. El incremento de la longevidad
+- B. La disminución de la longevidad
+- C. El incremento del tamaño corporal
+- D. El incremento de la fecundidad
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · Caenorhabditis elegans
+
+En el nematodo *Caenorhabditis elegans*, el incremento de la longevidad puede heredarse en forma epigenética.
+
+---
+
+### 408
+
+En relación con el libro de Biología, ¿qué puede sintetizar esa especie cuando es atacada por virus?
+
+- A. Pequeñas moléculas de ARN
+- B. Pequeñas moléculas de ADN
+- C. Grandes moléculas de ARN mensajero
+- D. Anticuerpos específicos contra el virus
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · defensa antiviral
+
+Cuando esa especie es atacada por virus puede sintetizar pequeñas moléculas de ARN.
+
+---
+
+### 409
+
+De acuerdo con el libro de Biología, ¿qué hacen esas moléculas además de destruir al agente viral?
+
+- A. Pueden ser heredadas por los descendientes y proporcionarles protección antiviral
+- B. Pueden ser heredadas por los descendientes, aunque no les proporcionan protección alguna
+- C. Se degradan por completo antes de la formación de los gametos
+- D. Se integran a la secuencia de ADN del descendiente y lo vuelven inmune a toda infección
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · protección heredada
+
+No solo destruyen al agente viral, sino que pueden ser heredadas por los descendientes y proporcionarles protección antiviral.
+
+---
+
+### 410
+
+De conformidad con el libro de Biología, ¿qué incluyen los diversos estudios moleculares en la planta *Arabidopsis thaliana*?
+
+- A. La secuenciación del genoma completo y del epigenoma de metilación
+- B. La secuenciación del genoma completo, pero no del epigenoma de metilación
+- C. La secuenciación del epigenoma de metilación, pero no del genoma completo
+- D. La secuenciación de los ARN mensajeros y de las proteínas de la planta
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · Arabidopsis thaliana
+
+Diversos estudios moleculares en la planta *Arabidopsis thaliana*, que incluyen la secuenciación del genoma completo y del epigenoma de metilación.
+
+---
+
+### 411
+
+En relación con el libro de Biología, ¿a través de cuántas generaciones pueden heredarse los diversos patrones que presentan muchos sitios de metilación de esa planta?
+
+- A. A través de, al menos, 14 generaciones
+- B. A través de, al menos, 4 generaciones
+- C. A través de, al menos, 24 generaciones
+- D. A través de, al menos, 40 generaciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · 14 generaciones
+
+Han mostrado que muchos sitios de metilación de esa planta presentan diversos patrones que pueden heredarse a través de, al menos, 14 generaciones.
+
+---
+
+### 412
+
+De acuerdo con el libro de Biología, ¿qué muestran estos y otros casos estudiados?
+
+- A. Que muchas variaciones epigenéticas pueden heredarse mediante meiosis, aunque sus estabilidades varían
+- B. Que muchas variaciones epigenéticas pueden heredarse mediante meiosis, y todas tienen la misma estabilidad
+- C. Que las variaciones epigenéticas sólo pueden heredarse mediante mitosis
+- D. Que ninguna variación epigenética puede heredarse mediante meiosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · herencia por meiosis
+
+Estos y otros casos estudiados muestran que muchas variaciones epigenéticas pueden heredarse mediante meiosis, aunque sus estabilidades varían.
+
+---
+
+### 413
+
+De conformidad con el libro de Biología, ¿qué originan los procesos de alopoliploidización?
+
+- A. Variedades o, incluso, nuevas especies en plantas
+- B. Variedades o, incluso, nuevas especies en animales
+- C. Únicamente variedades en plantas, nunca nuevas especies
+- D. Nuevos linajes de bacterias y de nematodos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · alopoliploidización
+
+Los procesos de alopoliploidización que originan variedades o, incluso, nuevas especies en plantas.
+
+---
+
+### 414
+
+En relación con el libro de Biología, ¿qué cambios se pueden producir en esos procesos?
+
+- A. Cambios epigenéticos que afectan a todo el genoma, algunos de los cuales se transmiten a las siguientes generaciones
+- B. Cambios epigenéticos que afectan a un solo cromosoma y no se transmiten a las siguientes generaciones
+- C. Cambios en la secuencia de ADN de todo el genoma, ninguno de los cuales se transmite
+- D. Cambios epigenéticos que afectan a todo el genoma y que se borran siempre en la siguiente generación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · cambios en todo el genoma
+
+Se pueden producir cambios epigenéticos que afectan a todo el genoma, algunos de los cuales se transmiten a las siguientes generaciones.
+
+---
+
+### 415
+
+De acuerdo con el libro de Biología, ¿qué porcentaje de modificaciones en los patrones de metilación se encontró entre dos híbridos recientemente formados y morfológicamente diferenciados de plantas del género *Spartina*?
+
+- A. Un 30%
+- B. Un 3%
+- C. Un 13%
+- D. Un 60%
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · Spartina
+
+Entre dos híbridos recientemente formados y morfológicamente diferenciados de plantas del género *Spartina* –uno de ellos alopoliploide– se encontró un 30% de modificaciones en los patrones de metilación.
+
+---
+
+### 416
+
+De conformidad con el libro de Biología, ¿qué se encontró además de esas modificaciones en los patrones de metilación?
+
+- A. Cambios estructurales en la secuencia de ADN
+- B. Cambios estructurales en la secuencia de ARN
+- C. La pérdida completa de un juego de cromosomas
+- D. La ausencia de cualquier otro cambio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · cambios estructurales
+
+Además de cambios estructurales en la secuencia de ADN.
+
+---
+
+### 417
+
+En relación con el libro de Biología, ¿qué sugiere ese hallazgo?
+
+- A. Que las primeras etapas de la hibridación o de la duplicación cromosómica estarían acompañadas por cambios epigenéticos heredables
+- B. Que las últimas etapas de la hibridación o de la duplicación cromosómica estarían acompañadas por cambios epigenéticos heredables
+- C. Que la hibridación y la duplicación cromosómica ocurren sin ningún cambio epigenético
+- D. Que los cambios epigenéticos impiden la hibridación y la duplicación cromosómica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · primeras etapas de la hibridación
+
+Esto sugiere que las primeras etapas de la hibridación o de la duplicación cromosómica estarían acompañadas por cambios epigenéticos heredables.
+
+---
+
+### 418
+
+De acuerdo con el libro de Biología, ¿qué otro elemento juega un papel en la evolución epigenética?
+
+- A. Los ARN reguladores
+- B. Las proteínas histonas
+- C. Las enzimas de restricción
+- D. Los ribosomas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · ARN reguladores
+
+Los ARN reguladores también juegan un papel en la evolución epigenética.
+
+---
+
+### 419
+
+De conformidad con el libro de Biología, ¿qué pueden permitir los cambios en una secuencia de ARN?
+
+- A. Que esta cadena se una a diferentes secuencias complementarias de ADN, dirigirse a genes completamente nuevos o reclutar diferentes modificadores epigenéticos de sus genes blanco
+- B. Que esta cadena se una siempre a la misma secuencia complementaria de ADN y conserve sus genes blanco
+- C. Que esta cadena se transforme en una molécula de ADN y se integre al genoma
+- D. Que esta cadena destruya a los modificadores epigenéticos de sus genes blanco
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · cambios en la secuencia de ARN
+
+Los cambios en una secuencia de ARN pueden permitir que esta cadena se una a diferentes secuencias complementarias de ADN, dirigirse a genes completamente nuevos o reclutar diferentes modificadores epigenéticos de sus genes blanco, cambiando sus estados de activación.
+
+---
+
+### 420
+
+En relación con el libro de Biología, ¿qué efectos pueden tener incluso los pequeños cambios en la secuencia de ARN?
+
+- A. Efectos significativos sobre los patrones de activación de los genes
+- B. Efectos insignificantes sobre los patrones de activación de los genes
+- C. Efectos significativos sobre el número de cromosomas
+- D. Efectos significativos únicamente sobre la longitud del ARN mensajero
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · efecto de los pequeños cambios
+
+Incluso, pequeños cambios en la secuencia de ARN pueden tener efectos significativos sobre los patrones de activación de los genes.
+
+---
+
+### 421
+
+De acuerdo con el libro de Biología, ¿qué relevancia podrían tener las mutaciones que afectan a los ARN reguladores?
+
+- A. Podrían ser tan relevantes como aquellas que alteran las secuencias de proteínas o, incluso, ser aún más importantes
+- B. Podrían ser tan relevantes como aquellas que alteran las secuencias de proteínas, pero nunca más importantes
+- C. Serían siempre menos relevantes que aquellas que alteran las secuencias de proteínas
+- D. Carecerían por completo de relevancia frente a aquellas que alteran las secuencias de proteínas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · mutaciones en ARN reguladores
+
+Por esta razón, las mutaciones que afectan a los ARN reguladores podrían ser tan relevantes como aquellas que alteran las secuencias de proteínas o, incluso, ser aún más importantes.
+
+---
+
+### 422
+
+De conformidad con el libro de Biología, ¿qué se ha observado respecto de los ARNlnc?
+
+- A. Que si bien algunos se encuentran conservados en múltiples especies, muchos otros son exclusivos de una sola
+- B. Que todos se encuentran conservados en múltiples especies
+- C. Que todos son exclusivos de una sola especie
+- D. Que sólo se encuentran en las especies que se reproducen rápidamente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · ARNlnc
+
+Se ha observado que, si bien algunos ARNlnc se encuentran conservados en múltiples especies, muchos otros son exclusivos de una sola.
+
+---
+
+### 423
+
+En relación con el libro de Biología, ¿qué hipótesis fortalece aún más esa evidencia?
+
+- A. La que sostiene que la evolución del ARN está estrechamente involucrada en la evolución de las especies
+- B. La que sostiene que la evolución del ARN es independiente de la evolución de las especies
+- C. La que sostiene que la evolución de las proteínas es el único motor de la evolución de las especies
+- D. La que sostiene que la metilación del ADN es el único mecanismo epigenético heredable
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 319
+**Subtema:** epigenética · recuadro 14-4 · evolución del ARN
+
+Esta evidencia fortalece aún más la hipótesis que sostiene que la evolución del ARN está estrechamente involucrada en la evolución de las especies.
 
 ---
