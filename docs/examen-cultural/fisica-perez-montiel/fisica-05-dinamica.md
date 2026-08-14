@@ -1,25 +1,37 @@
 # Física · Unidad 5 · Dinámica
 
-**Materia:** **cinco planteles** piden esta unidad del mismo libro, con tres
-claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM y EMOS) y
-`FIS-02-2026` (EMA y EMMA).
-**Unidad del libro:** Unidad 5. Dinámica → los temas 2, 3, 5, 8, 10, 13, 16 y 17.
+**Materia:** **cinco planteles** piden esta unidad del mismo libro, con cuatro
+claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM y EMOS),
+`FIS-02-2026` (EMA) y `FÍS-02-2026` (EMMA).
+**Unidad del libro:** Unidad 5. Dinámica → los temas 1, 2, 3, 5, 6, 8, 10, 13, 16 y 17.
+**Falta escribir** el tema 4 (Satélites naturales y artificiales) y el tema 7
+(Trabajo mecánico), que pide **sólo la EMMA**.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Quién lo pide es cosa del temario, y **ningún
 > plantel pide lo mismo que otro**:
 >
-> | Tema de la Unidad 5 | EMO<br>`FIS-03` | EMM<br>`FG-03` | EMOS<br>`FG-03` | EMA/EMMA<br>`FIS-02` |
-> |---|:---:|:---:|:---:|:---:|
-> | 2 · Leyes de la dinámica | sí | sí | sí | — |
-> | 3 · Gravitación universal | sí | — | sí | — |
-> | 5 · Estática | sí | — | — | — |
-> | 6 · Fricción | — | — | — | **sí ✓** |
-> | 8 · Energía | sí | sí | sí | sí |
-> | 10 · Sustentabilidad y contaminación | — | — | sí | — |
-> | 13 · Cantidad de movimiento o momento lineal | sí | sí | — | — |
-> | 16 · Ley de la conservación de la cantidad de movimiento | — | — | sí | — |
-> | 17 · Ley de la conservación del momento angular | sí | sí | — | — |
+> | Tema de la Unidad 5 | EMO<br>`FIS-03` | EMM<br>`FG-03` | EMOS<br>`FG-03` | EMA<br>`FIS-02` | EMMA<br>`FÍS-02` |
+> |---|:---:|:---:|:---:|:---:|:---:|
+> | 1 · Las fuerzas y sus efectos | — | — | — | — | **sí ✓** |
+> | 2 · Leyes de la dinámica | sí | sí | sí | — | **sí** |
+> | 3 · Gravitación universal | sí | — | sí | — | **sí** |
+> | 4 · Satélites naturales y artificiales | — | — | — | — | **sí — falta escribir** |
+> | 5 · Estática | sí | — | — | — | **sí** |
+> | 6 · Fricción | — | — | — | sí | — |
+> | 7 · Trabajo mecánico | — | — | — | — | **sí — falta escribir** |
+> | 8 · Energía | sí | sí | sí | sí | sí |
+> | 10 · Sustentabilidad y contaminación | — | — | sí | — | — |
+> | 13 · Cantidad de movimiento o momento lineal | sí | sí | — | — | — |
+> | 16 · Ley de la conservación de la cantidad de movimiento | — | — | sí | — | — |
+> | 17 · Ley de la conservación del momento angular | sí | sí | — | — | — |
+>
+> **La misma trampa, otra vez, verificada el 14 ago 2026:** este archivo daba a la
+> **EMA y la EMMA una sola columna** por tener claves casi iguales, y sus listas no
+> se parecen. De esta unidad la EMA (`FIS-02-2026`) pide sólo los temas 6 y 8,
+> mientras la EMMA (`FÍS-02-2026`) pide **1, 2, 3, 4, 5, 7 y 8** — o sea, pide el
+> tema **1** (escrito ese día en el sub-lote 28) y los temas **4 y 7**, que no
+> pedía nadie más y siguen sin escribirse. Leído de los PDF de cada plantel.
 >
 > **Trampa verificada el 24 jul 2026:** la clave `FG-03-2026` aparece en el PDF
 > de la EMM **y** en el de la EMOS, pero **las dos listas de temas son
@@ -51,6 +63,8 @@ caracteres; no sirve para este libro.
 **OJO — el desfase NO es constante dentro de esta unidad.** Se leyó de la hoja en
 cada tramo, nunca se calculó:
 
+- **Tramo del tema 1 (pp. 138–140): desfase = 12.** La hoja 150 muestra impreso
+  "138" y contiene el arranque de LAS FUERZAS Y SUS EFECTOS (150 − 138 = 12).
 - **Tramo del tema 2 (pp. 140–150): desfase = 12.** La hoja 152 muestra impreso
   "140" y contiene el tema 2 (152 − 140 = 12).
 - **Tramo del tema 3 (pp. 151–157): desfase = 12.** La hoja 163 muestra impreso
@@ -108,12 +122,22 @@ reactivo 2. La página de cada referencia se **lee** de la esquina de la hoja.
 - **Sub-lote 25 · Importancia de la energía, sus usos y sus consecuencias (pp. 198–199)** — tema 10
 - **Sub-lote 26 · Ley de la conservación de la cantidad de movimiento (p. 207)** — tema 16
 - **Sub-lote 27 · Fricción (pp. 177–179)** — tema 6
+- **Sub-lote 28 · Las fuerzas y sus efectos (pp. 138–140)** — tema 1; añadido el
+  14 ago 2026 para la **EMMA** (`FÍS-02`), único plantel que lo pide. Cubre las
+  fuerzas de contacto y de acción a distancia, el dinamómetro y la Ley de Hooke,
+  las unidades de fuerza, la resultante y la equilibrante, los cuatro grupos de
+  fuerzas y las nuevas teorías (electrodébil, quarks, superfuerza). Va al final
+  del archivo (orden de captura, no de página).
 
 **Fuera del temario, no se tocan** aunque caigan en las mismas páginas: los temas
 14 (Relación entre el impulso y la cantidad de movimiento) y 15 (Choque elástico
-e inelástico), que comparten la p. 206 con el tema 13; el tema 4 (Satélites
-naturales y artificiales, pp. 158–164), que va justo después del tema 3; y los
-temas 1, 7, 9, 11, 12 y 18.
+e inelástico), que comparten la p. 206 con el tema 13; y los temas 9, 11, 12 y 18.
+
+> **Corrección del 14 ago 2026:** esta lista daba por fuera del temario los temas
+> **1, 4 y 7**, y no lo están: los tres los pide la **EMMA**, que hasta ese día
+> venía escondida detrás de la columna de la EMA. El tema 1 ya se escribió
+> (sub-lote 28); **faltan el 4 (Satélites naturales y artificiales, pp. 158–164) y
+> el 7 (Trabajo mecánico, pp. 184–188)**.
 
 **Páginas saltadas a propósito** (teoría sobre práctica — no son olvidos):
 
@@ -4286,4 +4310,488 @@ En relación con el libro de Física, ¿qué se puede concluir sobre la magnitud
 
 ---
 
-**Reactivos en este archivo:** 252
+## Sub-lote 28 · Las fuerzas y sus efectos (pp. 138–140) — tema 1
+
+### 253
+
+De acuerdo con el libro de Física, en cualquier caso en que interviene una fuerza, ¿qué existe como mínimo?
+
+- A. Una interacción de dos cuerpos.
+- B. Una interacción de tres cuerpos.
+- C. Un contacto físico entre los cuerpos.
+- D. Un movimiento del cuerpo que recibe la fuerza.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 138
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<En los cuatro ejemplos anteriores y en cualquier caso en que interviene una fuerza, existe como mínimo una interacción de dos cuerpos.>
+
+### 254
+
+De conformidad con el libro de Física, ¿qué nombre reciben las fuerzas en las que existe un contacto físico entre el cuerpo que ejerce la fuerza y el que la recibe?
+
+- A. Fuerzas de contacto.
+- B. Fuerzas de acción a distancia.
+- C. Fuerzas de interacción directa.
+- D. Fuerzas de atracción.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 138
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<En los tres primeros casos existe un contacto físico entre el cuerpo que ejerce la fuerza y el que la recibe; por ello, reciben el nombre de fuerzas de contacto.>
+
+### 255
+
+En relación con el libro de Física, ¿qué nombre reciben las fuerzas en las que los dos cuerpos interaccionan sin que exista contacto entre ellos?
+
+- A. Fuerzas de acción a distancia.
+- B. Fuerzas de contacto.
+- C. Fuerzas gravitacionales de contacto.
+- D. Fuerzas viscosas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 138
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Los dos cuerpos interaccionan sin que exista contacto entre ellos; este tipo de fuerzas recibe el nombre de fuerzas de acción a distancia.>
+
+### 256
+
+De acuerdo con el libro de Física, ¿cómo se puede decir que se manifiesta una fuerza?
+
+- A. Siempre que existe, cuando menos, una interacción entre dos cuerpos.
+- B. Siempre que existe un movimiento de un cuerpo.
+- C. Siempre que existe un contacto físico entre dos cuerpos.
+- D. Siempre que existe una deformación en un cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 138
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Podemos decir que: una fuerza se manifiesta siempre que existe, cuando menos, una interacción entre dos cuerpos.>
+
+### 257
+
+De conformidad con el libro de Física, ¿qué señala el libro respecto de las fuerzas y el movimiento?
+
+- A. Que no todas las fuerzas producen un movimiento sobre los cuerpos.
+- B. Que todas las fuerzas producen un movimiento sobre los cuerpos.
+- C. Que sólo las fuerzas de contacto producen movimiento.
+- D. Que sólo las fuerzas de acción a distancia producen movimiento.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 138
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Sin embargo, no todas las fuerzas producen un movimiento sobre los cuerpos.>
+
+### 258
+
+En relación con el libro de Física, ¿qué puede ocurrirle a un cuerpo en movimiento que recibe una fuerza en sentido contrario al de su movimiento?
+
+- A. Puede disminuir su velocidad e incluso detenerse.
+- B. Puede aumentar su velocidad de manera indefinida.
+- C. Puede cambiar de masa sin cambiar de velocidad.
+- D. Puede mantener su velocidad constante siempre.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 138
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Pensemos en un cuerpo en movimiento, si recibe una fuerza en sentido contrario al de su movimiento puede disminuir su velocidad e incluso detenerse.>
+
+### 259
+
+De acuerdo con el libro de Física, ¿de qué depende el efecto que una fuerza produce sobre un cuerpo?
+
+- A. De su magnitud, así como de su punto de aplicación, dirección y sentido.
+- B. Únicamente de su magnitud.
+- C. De su magnitud y de la masa del cuerpo, únicamente.
+- D. De su punto de aplicación y del tiempo que dura aplicada, únicamente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 138
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<El efecto que una fuerza produce sobre un cuerpo depende de su magnitud, así como de su punto de aplicación, dirección y sentido.>
+
+### 260
+
+De conformidad con el libro de Física, ¿qué tipo de magnitud es, por tanto, la fuerza?
+
+- A. Una magnitud vectorial.
+- B. Una magnitud escalar.
+- C. Una magnitud fundamental.
+- D. Una magnitud derivada del tiempo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 138
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Por tanto, la fuerza es una magnitud vectorial.>
+
+### 261
+
+En relación con el libro de Física, ¿qué aparato se utiliza para medir la intensidad de una fuerza?
+
+- A. El dinamómetro.
+- B. El barómetro.
+- C. El calorímetro.
+- D. El manómetro.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 138
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Para medir la intensidad de una fuerza se utiliza un aparato llamado dinamómetro.>
+
+### 262
+
+De acuerdo con el libro de Física, ¿en qué se basa el funcionamiento del dinamómetro?
+
+- A. En la Ley de Hooke.
+- B. En la Ley de la Gravitación Universal.
+- C. En el principio de Pascal.
+- D. En la Primera Ley de Newton.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 138
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Su funcionamiento se basa en la Ley de Hooke.>
+
+### 263
+
+De conformidad con el libro de Física, ¿qué enuncia esa ley?
+
+- A. Que dentro de los límites de elasticidad las deformaciones que sufre un cuerpo son directamente proporcionales a la fuerza que reciben.
+- B. Que dentro de los límites de elasticidad las deformaciones que sufre un cuerpo son inversamente proporcionales a la fuerza que reciben.
+- C. Que fuera de los límites de elasticidad las deformaciones son directamente proporcionales a la fuerza que reciben.
+- D. Que las deformaciones que sufre un cuerpo son independientes de la fuerza que reciben.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 138
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Dentro de los límites de elasticidad las deformaciones que sufre un cuerpo son directamente proporcionales a la fuerza que reciben.>
+
+### 264
+
+En relación con el libro de Física, ¿de qué consta el dinamómetro?
+
+- A. De un resorte con un índice y una escala convenientemente graduada.
+- B. De un tubo con mercurio y una escala convenientemente graduada.
+- C. De dos resortes opuestos y un índice móvil.
+- D. De una balanza de brazos iguales con pesas conocidas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 138
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<El dinamómetro consta de un resorte con un índice y una escala convenientemente graduada.>
+
+### 265
+
+De acuerdo con el libro de Física, ¿cuál es la unidad de fuerza usada en el Sistema Internacional?
+
+- A. El newton (N).
+- B. El kilogramo-fuerza (kg f).
+- C. El gramo-fuerza (g f).
+- D. El joule (J).
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<La unidad de fuerza usada en el Sistema Internacional es el newton (N).>
+
+### 266
+
+De conformidad con el libro de Física, ¿a cuánto equivale el kilogramo-fuerza que todavía se usa en ingeniería?
+
+- A. A 9.8 N.
+- B. A 1 000 N.
+- C. A 0.98 N.
+- D. A 98 N.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Aunque en ingeniería se usa todavía el llamado kilogramo-fuerza (kg f) aproximadamente diez veces mayor al newton: 1 kg f = 9.8 N.>
+
+### 267
+
+En relación con el libro de Física, ¿a qué parte del kilogramo-fuerza equivale el gramo-fuerza?
+
+- A. A la milésima parte.
+- B. A la centésima parte.
+- C. A la décima parte.
+- D. A la diezmilésima parte.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<También se utiliza el gramo-fuerza (g f) equivalente a la milésima parte del kilogramo-fuerza: 1 kg f = 1 000 g f.>
+
+### 268
+
+De acuerdo con el libro de Física, cuando varias fuerzas actúan sobre un cuerpo, ¿qué es necesario calcular?
+
+- A. El efecto neto producido por ellas, o sea, la resultante del sistema de fuerzas.
+- B. El efecto neto producido por ellas, o sea, la equilibrante del sistema de fuerzas.
+- C. La masa total del cuerpo sobre el que actúan.
+- D. El punto de aplicación de la fuerza mayor.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Cuando varias fuerzas actúan sobre un cuerpo es necesario calcular el efecto neto producido por ellas, o sea, la resultante del sistema de fuerzas.>
+
+### 269
+
+De conformidad con el libro de Física, ¿qué propiedad tiene la resultante?
+
+- A. La de producir el mismo efecto que causan todas las fuerzas sobre el cuerpo.
+- B. La de anular el efecto que causan todas las fuerzas sobre el cuerpo.
+- C. La de tener siempre sentido contrario a las demás fuerzas.
+- D. La de ser siempre mayor que la suma de las fuerzas aplicadas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<La cual tiene la propiedad de producir el mismo efecto que causan todas las fuerzas sobre el cuerpo.>
+
+### 270
+
+En relación con el libro de Física, ¿cómo se puede hacer el cálculo de la resultante?
+
+- A. A través de un procedimiento gráfico, o bien, mediante el cálculo matemático llamado método analítico.
+- B. Únicamente a través de un procedimiento gráfico.
+- C. Únicamente mediante el cálculo matemático llamado método analítico.
+- D. Mediante la lectura directa de un dinamómetro.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<El cálculo de la resultante se puede hacer a través de un procedimiento gráfico, o bien, mediante el cálculo matemático llamado método analítico.>
+
+### 271
+
+De acuerdo con el libro de Física, ¿qué es la equilibrante de un sistema de fuerzas?
+
+- A. Aquella fuerza que equilibra al sistema, tiene la misma dirección y magnitud que la resultante, pero con sentido contrario.
+- B. Aquella fuerza que equilibra al sistema, tiene la misma dirección y sentido que la resultante, pero con distinta magnitud.
+- C. Aquella fuerza que duplica el efecto de la resultante sobre el cuerpo.
+- D. Aquella fuerza que actúa en dirección perpendicular a la resultante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<La equilibrante de un sistema de fuerzas es aquella fuerza que equilibra al sistema, tiene la misma dirección y magnitud que la resultante, pero con sentido contrario.>
+
+### 272
+
+De conformidad con el libro de Física, ¿en cuántos grupos pueden clasificarse las fuerzas según su origen y características?
+
+- A. En cuatro grupos.
+- B. En tres grupos.
+- C. En cinco grupos.
+- D. En dos grupos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<En términos generales, las fuerzas pueden clasificarse según su origen y características en cuatro grupos.>
+
+### 273
+
+En relación con el libro de Física, ¿debido a qué se producen las fuerzas gravitacionales?
+
+- A. Debido a las fuerzas mutuas de atracción que se manifiestan entre dos cuerpos cualesquiera del universo.
+- B. Debido a las fuerzas mutuas de repulsión que se manifiestan entre dos cuerpos cualesquiera del universo.
+- C. Debido a las cargas eléctricas de los cuerpos.
+- D. Debido al intercambio de mesones entre las partículas del núcleo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Fuerzas gravitacionales, se producen debido a las fuerzas mutuas de atracción que se manifiestan entre dos cuerpos cualesquiera del universo.>
+
+### 274
+
+De acuerdo con el libro de Física, ¿en función de qué está la causa de esas fuerzas?
+
+- A. En función de la masa de los cuerpos y de la distancia existente entre ellos.
+- B. En función de la carga eléctrica de los cuerpos y de la distancia existente entre ellos.
+- C. En función del volumen de los cuerpos y de su temperatura.
+- D. En función de la velocidad de los cuerpos y de su masa.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Y cuya causa está en función de la masa de los cuerpos y de la distancia existente entre ellos.>
+
+### 275
+
+De conformidad con el libro de Física, ¿qué se debe a las fuerzas gravitacionales?
+
+- A. Que los planetas mantengan sus órbitas elípticas, el peso de los cuerpos y que todo cuerpo suspendido caiga a la superficie al cesar la fuerza que lo sostiene.
+- B. Que los átomos y las moléculas de cualquier sustancia se mantengan unidos.
+- C. Que las partículas del núcleo atómico se mantengan unidas.
+- D. Que determinados núcleos atómicos presenten inestabilidad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<A estas fuerzas se debe que los planetas mantengan sus órbitas elípticas, el peso de los cuerpos y que todo cuerpo suspendido caiga a la superficie al cesar la fuerza que lo sostiene.>
+
+### 276
+
+En relación con el libro de Física, ¿qué lugar ocupa la fuerza gravitacional entre las fuerzas fundamentales?
+
+- A. Es la más débil de todas las fuerzas fundamentales.
+- B. Es la más intensa de todas las fuerzas fundamentales.
+- C. Es la segunda más intensa, después de la nuclear.
+- D. Tiene la misma intensidad que la fuerza electromagnética.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<La magnitud de la fuerza gravitacional puede ser muy grande si se trata de cuerpos macroscópicos; sin embargo, es la más débil de todas las fuerzas fundamentales.>
+
+### 277
+
+De acuerdo con el libro de Física, ¿qué son las fuerzas electromagnéticas?
+
+- A. Son las fuerzas que mantienen unidos a los átomos y moléculas de cualquier sustancia.
+- B. Son las fuerzas que mantienen unidas a las partículas del núcleo atómico.
+- C. Son las fuerzas que provocan inestabilidad en determinados núcleos atómicos.
+- D. Son las fuerzas mutuas de atracción entre dos cuerpos cualesquiera del universo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Fuerzas electromagnéticas, son las fuerzas que mantienen unidos a los átomos y moléculas de cualquier sustancia, su origen se debe a las cargas eléctricas.>
+
+### 278
+
+De conformidad con el libro de Física, ¿qué fuerzas se ejercen cuando las cargas eléctricas se encuentran en reposo entre ellas?
+
+- A. Fuerzas electrostáticas.
+- B. Fuerzas electromagnéticas.
+- C. Fuerzas nucleares.
+- D. Fuerzas débiles.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Cuando las cargas eléctricas se encuentran en reposo entre ellas se ejercen fuerzas electrostáticas, y cuando están en movimiento se producen fuerzas electromagnéticas.>
+
+### 279
+
+En relación con el libro de Física, ¿qué diferencia señala el libro entre las fuerzas gravitacionales y las electromagnéticas?
+
+- A. Que las gravitacionales siempre son de atracción, mientras las electromagnéticas pueden ser de atracción o de repulsión.
+- B. Que las gravitacionales pueden ser de atracción o de repulsión, mientras las electromagnéticas siempre son de atracción.
+- C. Que ambas son siempre de atracción, pero actúan a distancias distintas.
+- D. Que las gravitacionales son más intensas que las electromagnéticas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Además, las fuerzas gravitacionales siempre son de atracción, mientras las fuerzas electromagnéticas pueden ser de atracción o de repulsión.>
+
+### 280
+
+De acuerdo con el libro de Física, ¿por intermedio de qué se supone que son engendradas las fuerzas nucleares?
+
+- A. Por intermedio de mesones entre las partículas del núcleo.
+- B. Por intermedio de quarks entre las partículas del núcleo.
+- C. Por intermedio de electrones entre las partículas del núcleo.
+- D. Por intermedio de fotones entre las partículas del núcleo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Fuerzas nucleares, aunque no se sabe con certeza cuál es su origen se supone que son engendradas por intermedio de mesones entre las partículas del núcleo.>
+
+### 281
+
+De conformidad con el libro de Física, ¿por qué se caracterizan las fuerzas débiles?
+
+- A. Por provocar inestabilidad en determinados núcleos atómicos.
+- B. Por mantener unidas a las partículas del núcleo atómico.
+- C. Por mantener unidos a los átomos y moléculas de cualquier sustancia.
+- D. Por producir la atracción mutua entre dos cuerpos del universo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<Fuerzas débiles, se caracterizan por provocar inestabilidad en determinados núcleos atómicos.>
+
+### 282
+
+En relación con el libro de Física, ¿qué nombre recibe hoy la fuerza que resultó de comprobar que la fuerza electromagnética y la fuerza nuclear débil eran manifestaciones de una misma fuerza?
+
+- A. Electrodébil.
+- B. Superfuerza.
+- C. Fuerza nuclear fuerte.
+- D. Campo unificado.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 139
+**Tema:** U5 t1 · las fuerzas y sus efectos
+**Subtema:** física · dinámica
+
+<En 1984, se comprobó experimentalmente que su predicción era correcta, y a dicha fuerza se le denomina ahora electrodébil.>
+
+---
+
+**Reactivos en este archivo:** 282
