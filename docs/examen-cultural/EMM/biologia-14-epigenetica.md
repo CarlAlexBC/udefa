@@ -291,7 +291,18 @@ humanos: el caso de Holanda" (el bloqueo nazi del invierno de 1944-1945, las ~20
 inanición, las condiciones que permitieron estudiarlo, el mayor riesgo de obesidad, diabetes y
 enfermedades cardiovasculares, y el hallazgo molecular de 2008).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **318** (hoja 364) en adelante —el resto del caso de Holanda y de la herencia epigenética transgeneracional, y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **318**: el cierre del caso de Holanda (la disminución de talla y peso
+del segundo grupo, la mayor susceptibilidad de los embriones tempranos y la persistencia de los
+efectos en los nietos); el apartado "El caso de la ciudad Överkalix, en Suecia" (los meticulosos
+registros públicos, la combinación de cosechas y nacimientos desde 1890, los patrones de riesgo
+específicos para cada sexo, el primer caso de herencia epigenética por **línea masculina**, la
+abundancia entre los 9 y 12 años frente a las hambrunas prepuberales y sus efectos opuestos sobre
+los nietos, los precursores espermáticos que maduran antes de la pubertad y la fig. 14-18); y el
+apartado "Epigenética y evolución" (el enfoque tradicional darwiniano, la necesidad de conocer más
+que la sola secuencia de ADN, el ejemplo del gen promotor del crecimiento neuronal, y el estudio de
+2013 de Andrew Sharp y Tomas Marques-Bonet con sus **170 genes** de metilación exclusiva humana).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **319** (hoja 365) en adelante —el resto de la epigenética y la evolución, y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -6519,5 +6530,412 @@ En relación con el libro de Biología, ¿con qué se correlacionaban esos riesg
 **Subtema:** epigenética · caso de Holanda · hallazgo molecular de 2008
 
 En 2008, investigaciones a nivel molecular mostraron que estos riesgos incrementados se correlacionaban con niveles menores de metilación del ADN de genes relacionados con el metabolismo.
+
+---
+### 364
+
+De acuerdo con el libro de Biología, ¿qué presentó el grupo cuyas madres sufrieron la hambruna en un estadio posterior del desarrollo fetal?
+
+- A. Una disminución de talla y peso al nacer
+- B. Un aumento de talla y peso al nacer
+- C. Un riesgo mayor de obesidad y diabetes a lo largo de la vida
+- D. Ninguna diferencia respecto de la población general
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · caso de Holanda · segundo grupo
+
+De cualquier manera, este segundo grupo presentó una disminución de talla y peso al nacer.
+
+---
+
+### 365
+
+De conformidad con el libro de Biología, ¿qué sugiere que ese grupo no haya tenido los mismos efectos?
+
+- A. Que los embriones de estadios tempranos son más susceptibles a los cambios epigenéticos causados por el ambiente
+- B. Que los embriones de estadios tardíos son más susceptibles a los cambios epigenéticos causados por el ambiente
+- C. Que la hambruna no produce efectos epigenéticos duraderos
+- D. Que los efectos dependen sólo de la duración de la exposición
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · caso de Holanda · susceptibilidad temprana
+
+Lo que sugiere que los embriones de estadios tempranos son más susceptibles a los cambios epigenéticos causados por el ambiente.
+
+---
+
+### 366
+
+En relación con el libro de Biología, ¿qué sugieren los primeros análisis de la tercera generación de sobrevivientes?
+
+- A. Que los efectos en la salud advertidos en los hijos de los sobrevivientes de la hambruna persisten en los nietos
+- B. Que los efectos en la salud advertidos en los hijos desaparecen en los nietos
+- C. Que los efectos en la salud sólo aparecen a partir de la tercera generación
+- D. Que los efectos en la salud se duplican en cada generación
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · caso de Holanda · tercera generación
+
+Los primeros análisis de la tercera generación de sobrevivientes sugieren que los efectos en la salud advertidos en los hijos de los sobrevivientes de la hambruna persisten en los nietos.
+
+---
+
+### 367
+
+De acuerdo con el libro de Biología, ¿qué muestran esos nietos en los casos menos graves?
+
+- A. Un aumento general de grasa corporal e indicadores de salud global menos satisfactorios que los esperados estadísticamente
+- B. Una disminución general de grasa corporal e indicadores de salud global mejores que los esperados estadísticamente
+- C. Un aumento general de talla y peso al nacer
+- D. Indicadores de salud global idénticos a los esperados estadísticamente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · caso de Holanda · efectos en los nietos
+
+Los nietos, quienes, en los casos menos graves, aún muestran un aumento general de grasa corporal e indicadores de salud global menos satisfactorios que los esperados estadísticamente.
+
+---
+
+### 368
+
+De conformidad con el libro de Biología, ¿qué usaron los equipos de investigación que estudiaron a la población de la ciudad Överkalix?
+
+- A. Meticulosos registros públicos
+- B. Muestras de ADN conservadas desde 1890
+- C. Entrevistas a los descendientes de los sobrevivientes
+- D. Registros hospitalarios de las últimas dos décadas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · Överkalix · fuente de datos
+
+Otro aporte significativo a la descripción de los fenómenos de herencia epigenética fue proporcionado por equipos de investigación que estudiaron a la población de la ciudad Överkalix, usando meticulosos registros públicos.
+
+---
+
+### 369
+
+En relación con el libro de Biología, ¿qué registros combinaron esos equipos y desde qué año?
+
+- A. Los registros de las cosechas y de los nacimientos desde 1890 hasta la actualidad
+- B. Los registros de las cosechas y de las defunciones desde 1945 hasta la actualidad
+- C. Los registros médicos y escolares desde 1890 hasta la actualidad
+- D. Los registros de los nacimientos y de los matrimonios desde 1900 hasta la actualidad
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · Överkalix · registros combinados
+
+Estos equipos combinaron los registros de las cosechas y de los nacimientos desde 1890 hasta la actualidad.
+
+---
+
+### 370
+
+De acuerdo con el libro de Biología, ¿qué lograron con esa combinación de registros?
+
+- A. Identificar a personas que experimentaron épocas de abundancia o hambrunas en diversos momentos de su vida y rastrear los registros médicos de sus descendientes
+- B. Identificar las mutaciones que aparecieron en la población durante las hambrunas
+- C. Calcular la expectativa de vida media de la población desde 1890
+- D. Reconstruir el árbol genealógico completo de la ciudad
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · Överkalix · método
+
+Con lo cual lograron identificar a personas que experimentaron épocas de abundancia o hambrunas en diversos momentos de su vida y rastrearon los registros médicos de sus descendientes.
+
+---
+
+### 371
+
+De conformidad con el libro de Biología, ¿con qué se relaciona uno de los resultados clave de esos estudios?
+
+- A. Con el hallazgo de patrones de riesgo de ciertas enfermedades específicas para cada sexo
+- B. Con el hallazgo de mutaciones específicas para cada sexo
+- C. Con el hallazgo de patrones de metilación idénticos en ambos sexos
+- D. Con el hallazgo de un aumento general de la expectativa de vida
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · Överkalix · resultado clave
+
+Uno de los resultados clave de estos estudios se relaciona con el hallazgo de patrones de riesgo de ciertas enfermedades específicas para cada sexo.
+
+---
+
+### 372
+
+En relación con el libro de Biología, ¿por qué es particular este caso?
+
+- A. Porque es el primer caso en que se describe una relación fuerte en la herencia epigenética aportada por la línea masculina
+- B. Porque es el primer caso en que se describe una relación fuerte en la herencia epigenética aportada por la línea femenina
+- C. Porque es el primer caso estudiado con registros públicos
+- D. Porque es el primer caso en que se estudian tres generaciones seguidas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · Överkalix · línea masculina
+
+En particular, este es el primer caso en que se describe una relación fuerte en la herencia epigenética aportada por la línea masculina.
+
+---
+
+### 373
+
+De acuerdo con el libro de Biología, los hombres que crecieron en épocas de abundancia entre los 9 y 12 años, ¿qué descendencia tuvieron?
+
+- A. Nietos, pero no nietas, con menor expectativa de vida
+- B. Nietas, pero no nietos, con menor expectativa de vida
+- C. Nietos, pero no nietas, con mayor expectativa de vida
+- D. Nietos y nietas con menor expectativa de vida
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · Överkalix · épocas de abundancia
+
+Aquellos hombres que crecieron en épocas de abundancia entre los 9 y 12 años tuvieron nietos, pero no nietas, con menor expectativa de vida.
+
+---
+
+### 374
+
+De conformidad con el libro de Biología, ¿qué sucedió, de manera inversa, con aquellos que atravesaron hambrunas en el período prepuberal?
+
+- A. Tuvieron nietos, pero no nietas, con mayor expectativa de vida
+- B. Tuvieron nietas, pero no nietos, con mayor expectativa de vida
+- C. Tuvieron nietos, pero no nietas, con menor expectativa de vida
+- D. Tuvieron nietos y nietas con mayor expectativa de vida
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · Överkalix · hambrunas prepuberales
+
+Lo mismo sucedió de manera inversa con aquellos que atravesaron hambrunas en el período prepuberal: tuvieron nietos, pero no nietas, con mayor expectativa de vida.
+
+---
+
+### 375
+
+En relación con el libro de Biología, ¿cuándo empiezan a diferenciarse y a madurar los precursores espermáticos?
+
+- A. En los años previos a la pubertad
+- B. En los primeros años de vida
+- C. En el desarrollo embrionario temprano
+- D. En los años posteriores a la pubertad
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · Överkalix · precursores espermáticos
+
+Los precursores espermáticos empiezan a diferenciarse y a madurar en los años previos a la pubertad, y eso los hace vulnerables a los cambios epigenéticos inducidos por el ambiente.
+
+---
+
+### 376
+
+De acuerdo con el libro de Biología, ¿qué se afirma sobre los procesos implicados y sobre la evidencia?
+
+- A. Que los procesos aún no han sido dilucidados, pero la evidencia epidemiológica es contundente
+- B. Que los procesos ya han sido dilucidados, pero la evidencia epidemiológica es débil
+- C. Que tanto los procesos como la evidencia epidemiológica siguen siendo dudosos
+- D. Que los procesos y la evidencia epidemiológica están completamente establecidos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · Överkalix · estado del conocimiento
+
+Los procesos aún no han sido dilucidados, pero la evidencia epidemiológica es contundente.
+
+---
+
+### 377
+
+De conformidad con el libro de Biología, según la fig. 14-18, ¿gracias a qué pudieron constatarse procesos de herencia transgeneracional en esa pequeña ciudad de Suecia?
+
+- A. Al cuidadoso registro epidemiológico con el que cuenta su población
+- B. Al aislamiento geográfico de su población
+- C. Al pequeño tamaño de su población
+- D. A la homogeneidad genética de su población
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · Överkalix · fig. 14-18
+
+En esta pequeña ciudad de Suecia, pudieron constatarse procesos de herencia transgeneracional, gracias al cuidadoso registro epidemiológico con el que cuenta su población.
+
+---
+
+### 378
+
+En relación con el libro de Biología, ¿en qué se ha centrado tradicionalmente la comprensión moderna de la evolución darwiniana?
+
+- A. En los cambios heredables en la secuencia de ADN que afectan a las características de los individuos
+- B. En los cambios epigenéticos que afectan a las características de los individuos
+- C. En los cambios del ambiente que afectan a las poblaciones
+- D. En los cambios del número de cromosomas de cada especie
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · evolución · enfoque tradicional
+
+La comprensión moderna de la evolución darwiniana se ha centrado tradicionalmente en los cambios heredables en la secuencia de ADN que afectan a las características de los individuos.
+
+---
+
+### 379
+
+De acuerdo con el libro de Biología, ¿qué ha demostrado la comprensión de los procesos de la herencia epigenética?
+
+- A. Que, para comprender integralmente los patrones de la herencia, hace falta conocer mucho más que la sola secuencia de ADN
+- B. Que la secuencia de ADN basta para comprender integralmente los patrones de la herencia
+- C. Que la evolución darwiniana debe ser abandonada
+- D. Que los patrones de la herencia no pueden comprenderse
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · evolución · más que la secuencia
+
+La comprensión de los procesos de la herencia epigenética ha demostrado que, para comprender integralmente los patrones de la herencia, hace falta conocer mucho más que la sola secuencia de ADN.
+
+---
+
+### 380
+
+De conformidad con el libro de Biología, ¿por qué los cambios epigenéticos que resulten estables pueden ser muy importantes en la evolución?
+
+- A. Porque las modificaciones epigenéticas pueden definir los patrones de activación genética
+- B. Porque las modificaciones epigenéticas pueden alterar la secuencia de ADN
+- C. Porque las modificaciones epigenéticas aumentan la tasa de mutación
+- D. Porque las modificaciones epigenéticas reemplazan a la selección natural
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · evolución · patrones de activación
+
+Las modificaciones epigenéticas pueden definir los patrones de activación genética; por ello, los cambios epigenéticos que resulten estables en estos patrones también pueden ser muy importantes en la evolución.
+
+---
+
+### 381
+
+En relación con el libro de Biología, ¿qué ejemplo se da de un cambio epigenético con posible importancia evolutiva?
+
+- A. La activación más temprana o más tardía en el silenciamiento de un gen promotor del crecimiento neuronal durante el desarrollo embrionario
+- B. La aparición de una mutación en un gen promotor del crecimiento neuronal
+- C. La duplicación de un gen promotor del crecimiento neuronal
+- D. La pérdida de un gen promotor del crecimiento neuronal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · evolución · volumen cerebral
+
+Cambios, como la activación más temprana o más tardía en el silenciamiento de un gen promotor del crecimiento neuronal durante el desarrollo embrionario, podrían constituir claves para comprender el aumento del volumen cerebral en un linaje.
+
+---
+
+### 382
+
+De acuerdo con el libro de Biología, ¿quiénes llevaron a cabo el estudio de 2013 que comparó patrones de metilación del ADN entre primates?
+
+- A. El investigador estadounidense Andrew Sharp y el español Tomas Marques-Bonet
+- B. El investigador español Andrew Sharp y el estadounidense Tomas Marques-Bonet
+- C. El investigador estadounidense David Allis y el español Manel Esteller
+- D. El investigador alemán Nikolaus Rajewsky y el danés Jorgen Kjems
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · evolución · estudio de 2013
+
+Un estudio de 2013, llevado a cabo por el investigador estadounidense Andrew Sharp y el español Tomas Marques-Bonet.
+
+---
+
+### 383
+
+De conformidad con el libro de Biología, ¿entre qué especies comparó ese estudio los patrones de metilación del ADN?
+
+- A. Humanos, chimpancés, bonobos, gorilas y orangutanes
+- B. Humanos, chimpancés, gorilas, macacos y lemures
+- C. Humanos, chimpancés, bonobos, ratones y ratas
+- D. Humanos, gorilas, orangutanes, gibones y babuinos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · evolución · especies comparadas
+
+Comparó patrones de metilación del ADN entre humanos, chimpancés, bonobos, gorilas y orangutanes.
+
+---
+
+### 384
+
+En relación con el libro de Biología, ¿en cuántos genes permitió identificar el estudio patrones de metilación exclusivos de nuestra especie?
+
+- A. En 170 genes
+- B. En 70 genes
+- C. En 1 700 genes
+- D. En 17 genes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · evolución · 170 genes
+
+El estudio permitió identificar patrones de metilación que son exclusivos de nuestra especie en 170 genes.
+
+---
+
+### 385
+
+De acuerdo con el libro de Biología, ¿qué codifican esos genes?
+
+- A. Proteínas que están también presentes en los otros simios
+- B. Proteínas que son exclusivas de nuestra especie
+- C. ARN largos no codificantes propios de nuestra especie
+- D. Proteínas que sólo se expresan durante el desarrollo embrionario
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · evolución · proteínas compartidas
+
+Patrones de metilación que son exclusivos de nuestra especie en 170 genes, los cuales codifican proteínas que están también presentes en los otros simios.
+
+---
+
+### 386
+
+De conformidad con el libro de Biología, ¿qué funciones tienen algunos de esos genes?
+
+- A. Funciones en células del cerebro, un órgano que es de particular interés en la evolución humana
+- B. Funciones en células del hígado, un órgano que es de particular interés en la evolución humana
+- C. Funciones en las células germinales, de particular interés en la evolución humana
+- D. Funciones en los músculos, de particular interés en la evolución humana
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · evolución · genes del cerebro
+
+Algunos de estos genes tienen funciones en células del cerebro, un órgano que es de particular interés en la evolución humana.
+
+---
+
+### 387
+
+En relación con el libro de Biología, ¿qué idea refuerza este hallazgo?
+
+- A. Que los cambios que afectan a los sitios y los tiempos en los que se activan los genes pueden ser tan importantes como aquellos que afectan a su secuencia y función
+- B. Que los cambios que afectan a la secuencia de los genes son siempre más importantes que los epigenéticos
+- C. Que los patrones de metilación son idénticos en todos los simios
+- D. Que el volumen cerebral depende únicamente del número de genes
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 318
+**Subtema:** epigenética · evolución · conclusión del estudio
+
+Este hallazgo refuerza la idea de que los cambios que afectan a los sitios y los tiempos en los que se activan los genes pueden ser tan importantes como aquellos que afectan a su secuencia y función.
 
 ---
