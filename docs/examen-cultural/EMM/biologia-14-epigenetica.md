@@ -240,7 +240,19 @@ con represión del mismo gen del otro, los genes regulatorios de proliferación,
 muerte y movimiento celular, y la mola hidatiforme con su modelo experimental de dos pronúcleos
 de espermatozoides). **Una errata de escritura de esta página quedó documentada y sin reactivo.**
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **314** (hoja 360) en adelante —el resto de la impronta parental, la herencia epigenética transgeneracional, los gemelos, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **314**: el cierre de la mola hidatiforme (las alteraciones del
+desarrollo pese al juego cromosómico restablecido, y los pronúcleos de ambos progenitores que no
+son equivalentes); el apartado "Inactivación del cromosoma X" (el desbalance de carga genética en
+los sistemas XX/XY, el **corpúsculo de Barr**, la teoría de compensación de dosis génica, la
+metilación y las modificaciones de histonas guiadas por ARNlnc, la inactivación progresiva y al
+azar, el gen **XIST** con su denominación en inglés y su producto de ARNlnc, la inactivación de
+casi todos los restantes genes sin unirse al otro X, el XIST reprimido en el X activo, la
+reactivación exclusiva de la línea germinal, la herencia del estado a toda la progenie celular y
+el **mosaicismo**); las figs. 14-15 (microfotografía de mucosa bucal) y 14-16 (el XIST metilado en
+el X activo); y el arranque de "Gemelos no tan idénticos: el papel del ambiente como modulador
+fenotípico en el tiempo".
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **315** (hoja 361) en adelante —el resto de los gemelos, la herencia epigenética transgeneracional, los ratones *agouti* y las tradiciones de cuidado maternal en ratas— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -4976,5 +4988,327 @@ De conformidad con el libro de Biología, a nivel experimental, ¿qué se observ
 **Subtema:** epigenética · impronta parental · modelo experimental
 
 A nivel experimental, se observó que, si el pronúcleo del oocito es eliminado, el desarrollo puede comenzar a partir de la incorporación de dos pronúcleos de espermatozoides.
+
+---
+### 276
+
+En relación con el libro de Biología, en ese caso, pese a que el juego cromosómico se ha restablecido durante la fecundación, ¿qué se evidencia en el desarrollo embrionario?
+
+- A. Alteraciones en la proliferación celular y desarrollo de patrones morfológicos y tisulares anormales
+- B. Una detención completa de la proliferación celular desde la primera división
+- C. La formación de dos embriones viables en lugar de uno
+- D. La pérdida de la mitad de los cromosomas del embrión
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · impronta parental · mola hidatiforme
+
+Pese a que el juego cromosómico se ha restablecido durante la fecundación, en el desarrollo embrionario se evidencian alteraciones en la proliferación celular y desarrollo de patrones morfológicos y tisulares anormales.
+
+---
+
+### 277
+
+De acuerdo con el libro de Biología, ¿qué pone en evidencia ese fenómeno?
+
+- A. Que los pronúcleos de ambos progenitores no son equivalentes
+- B. Que los pronúcleos de ambos progenitores son totalmente equivalentes
+- C. Que el pronúcleo del oocito es prescindible en el desarrollo
+- D. Que la fecundación no restablece el juego cromosómico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · impronta parental · pronúcleos no equivalentes
+
+Este fenómeno pone en evidencia que los pronúcleos de ambos progenitores no son equivalentes.
+
+---
+
+### 278
+
+De conformidad con el libro de Biología, ¿qué existe entre ambos sexos en los sistemas de determinación sexual XX/XY?
+
+- A. Un desbalance en la carga genética
+- B. Un desbalance en el número total de cromosomas
+- C. Un desbalance en la cantidad de ADN mitocondrial
+- D. Un desbalance en el número de genes autosómicos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · desbalance
+
+En los sistemas de determinación sexual XX/XY existe un desbalance en la carga genética entre ambos sexos.
+
+---
+
+### 279
+
+En relación con el libro de Biología, cuando el par sexual es XX, ¿qué hacen las células?
+
+- A. Inactivan a uno de los dos cromosomas X
+- B. Inactivan a los dos cromosomas X
+- C. Duplican a uno de los dos cromosomas X
+- D. Eliminan a uno de los dos cromosomas X
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · par XX
+
+Cuando el par sexual es XX, las células inactivan a uno de los dos cromosomas X.
+
+---
+
+### 280
+
+De acuerdo con el libro de Biología, ¿cómo se denomina al cromosoma X inactivado?
+
+- A. Corpúsculo de Barr
+- B. Corpúsculo de Golgi
+- C. Cuerpo P
+- D. Cromosoma homólogo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · corpúsculo de Barr
+
+Al cromosoma X inactivado se lo denomina corpúsculo de Barr.
+
+---
+
+### 281
+
+De conformidad con el libro de Biología, de acuerdo con la teoría de compensación de dosis génica, ¿qué logra la inactivación?
+
+- A. Iguala la expresión de genes del cromosoma X en ambos sexos
+- B. Duplica la expresión de genes del cromosoma X en el sexo femenino
+- C. Suprime la expresión de genes del cromosoma X en ambos sexos
+- D. Iguala el número de cromosomas X en ambos sexos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · compensación de dosis génica
+
+De acuerdo con la teoría de compensación de dosis génica, la inactivación iguala a la expresión de genes del cromosoma X en ambos sexos.
+
+---
+
+### 282
+
+En relación con el libro de Biología, ¿qué coopera en el establecimiento y mantenimiento de los estados de la cromatina estables en este fenómeno?
+
+- A. La metilación del ADN y las modificaciones de histonas, guiadas en ambos casos por ARN largos no codificantes
+- B. La metilación del ADN y las modificaciones de histonas, guiadas en ambos casos por ARN interferentes pequeños
+- C. La replicación del ADN y la duplicación de los centríolos
+- D. Las protaminas y los factores de transcripción del cromosoma Y
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · procesos implicados
+
+Tanto la metilación del ADN como las modificaciones de histonas, guiadas en ambos casos por ARN largos no codificantes (ARNlnc), cooperan en el establecimiento y mantenimiento de los estados de la cromatina estables.
+
+---
+
+### 283
+
+De acuerdo con el libro de Biología, en la primera etapa de reprogramación epigenética, ¿de qué manera inicia el fenómeno de inactivación un cromosoma X de cada célula?
+
+- A. De manera progresiva y al azar
+- B. De manera brusca y ordenada
+- C. De manera progresiva, siempre en el cromosoma X de origen paterno
+- D. De manera brusca, siempre en el cromosoma X de origen materno
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · progresiva y al azar
+
+En la primera etapa de reprogramación epigenética, un cromosoma X de cada célula inicia el fenómeno de inactivación, de manera progresiva y al azar.
+
+---
+
+### 284
+
+De conformidad con el libro de Biología, ¿a qué corresponde la denominación en inglés del gen XIST?
+
+- A. *X-inactive specific transcript*
+- B. *X-inactive silencing transcript*
+- C. *X-inherited specific transcript*
+- D. *X-linked silencing transcript*
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · gen XIST
+
+En este proceso interviene un gen denominado XIST (por su denominación en inglés, X-inactive specific transcript), que se encuentra en el cromosoma X.
+
+---
+
+### 285
+
+En relación con el libro de Biología, ¿qué codifica el gen XIST?
+
+- A. Una gran molécula de ARNlnc que, al sintetizarse, se ubica progresivamente a lo largo del cromosoma
+- B. Una gran molécula de ADN que se ubica progresivamente a lo largo del cromosoma
+- C. Una proteína "escritora" que metila el cromosoma completo
+- D. Un ARN interferente pequeño que degrada el ARNm del cromosoma X
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · producto del gen XIST
+
+Este gen codifica una gran molécula de ARNlnc que, al sintetizarse, se ubica progresivamente a lo largo del cromosoma.
+
+---
+
+### 286
+
+De acuerdo con el libro de Biología, ¿qué hace ese ARNlnc?
+
+- A. Inactiva casi todos los restantes genes del cromosoma X que será inactivado, pero no se une al otro cromosoma X
+- B. Inactiva casi todos los genes de ambos cromosomas X por igual
+- C. Activa los genes del cromosoma X que será inactivado
+- D. Se une a los dos cromosomas X y los compacta simultáneamente
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · acción del ARNlnc
+
+Este ARNlnc inactiva casi todos los restantes genes del cromosoma X que será inactivado, pero no se une al otro cromosoma X.
+
+---
+
+### 287
+
+De conformidad con el libro de Biología, ¿qué son los corpúsculos de Barr?
+
+- A. Cromosomas X recubiertos por el ARNlnc de XIST
+- B. Cromosomas X recubiertos por protaminas
+- C. Cromosomas X recubiertos por proteínas de la familia polycomb
+- D. Cromosomas X despojados de sus histonas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · corpúsculos de Barr
+
+Así, los corpúsculos de Barr son cromosomas X recubiertos por el ARNlnc de XIST.
+
+---
+
+### 288
+
+En relación con el libro de Biología, ¿qué ocurre con el gen XIST en el cromosoma X que no se inactiva?
+
+- A. Permanece reprimida su expresión
+- B. Se expresa con mayor intensidad
+- C. Se elimina del cromosoma
+- D. Se duplica junto con el resto del cromosoma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · XIST en el X activo
+
+En el cromosoma X que no se inactiva permanece reprimida la expresión del gen XIST.
+
+---
+
+### 289
+
+De acuerdo con el libro de Biología, ¿dónde se observa la reactivación de los cromosomas X silenciados y qué favorece?
+
+- A. Sólo en la línea germinal, y favorece una mayor variabilidad genómica en la próxima generación
+- B. Sólo en las células somáticas, y favorece una mayor estabilidad del genoma
+- C. En todas las células del individuo adulto, y favorece la reparación del ADN
+- D. Sólo en las células terminalmente diferenciadas, y favorece el mosaicismo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · reactivación
+
+Solo en la línea germinal observamos reactivación de los cromosomas X silenciados, un fenómeno que favorece una mayor variabilidad genómica en la próxima generación.
+
+---
+
+### 290
+
+De conformidad con el libro de Biología, este fenómeno ocurre de manera independiente en cada célula del embrión temprano; ¿qué más se dice de él?
+
+- A. Que es heredable a toda su progenie celular
+- B. Que se borra en cada división celular posterior
+- C. Que sólo se transmite a la línea germinal
+- D. Que se restablece al azar en cada mitosis
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · herencia celular
+
+Este es un fenómeno que ocurre de manera independiente en cada célula del embrión temprano y es heredable a toda su progenie celular, por lo cual el cromosoma X que fue inactivado permanecerá en ese estado en las células terminalmente diferenciadas derivadas de ellas.
+
+---
+
+### 291
+
+En relación con el libro de Biología, ¿qué representa el fenómeno de carga genética diversa en distintas poblaciones celulares de un mismo individuo?
+
+- A. Una forma de mosaicismo, que da lugar a expresiones fenotípicas particulares en distintas especies
+- B. Una forma de mutación somática, que da lugar a enfermedades hereditarias
+- C. Una forma de impronta parental, que da lugar a la expresión de un solo progenitor
+- D. Una forma de compensación de dosis génica entre ambos sexos
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · mosaicismo
+
+El fenómeno de carga genética diversa en distintas poblaciones celulares en un mismo individuo representa una forma de mosaicismo, que da lugar a expresiones fenotípicas particulares en distintas especies.
+
+---
+
+### 292
+
+De acuerdo con el libro de Biología, según la fig. 14-15, ¿de qué células es la microfotografía en la que se destacan los corpúsculos de Barr?
+
+- A. De la mucosa bucal
+- B. De la epidermis
+- C. De la mucosa intestinal
+- D. De la línea germinal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · fig. 14-15
+
+Microfotografía de células de la mucosa bucal, en la que se destacan los corpúsculos de Barr.
+
+---
+
+### 293
+
+De conformidad con el libro de Biología, según la fig. 14-16, ¿por qué no se expresa el gen XIST en el cromosoma X activo?
+
+- A. Porque se encuentra metilado
+- B. Porque se encuentra acetilado
+- C. Porque ha sido eliminado del cromosoma
+- D. Porque su ARNlnc es degradado apenas se sintetiza
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · inactivación del cromosoma X · fig. 14-16
+
+En el cromosoma X activo, el gen XIST no se expresa, pues se encuentra metilado, por lo cual no se produce el ARNlnc y el resto de los genes presentes en este cromosoma se expresarán.
+
+---
+
+### 294
+
+En relación con el libro de Biología, ¿qué ayuda a explicar la importancia de los factores no genéticos en el cambio de los patrones de modificación epigenética?
+
+- A. Por qué los gemelos idénticos no son realmente idénticos
+- B. Por qué los gemelos idénticos comparten la misma secuencia de ADN
+- C. Por qué los hermanos no gemelos se parecen entre sí
+- D. Por qué los gemelos idénticos son siempre del mismo sexo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 314
+**Subtema:** epigenética · gemelos · factores no genéticos
+
+La importancia de los factores no genéticos en el cambio de los patrones de modificación epigenética ayuda a explicar por qué los gemelos idénticos no son realmente idénticos.
 
 ---
