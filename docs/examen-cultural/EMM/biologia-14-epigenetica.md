@@ -312,7 +312,18 @@ sesgo de la metáfora antropocéntrica); y el **recuadro 14-4** completo (*Caeno
 protección antiviral heredada, las **14 generaciones** de *Arabidopsis thaliana*, la
 alopoliploidización, el **30%** de modificaciones en *Spartina*, los ARN reguladores y los ARNlnc).
 
-**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **320** (hoja 366) en adelante —Eva Jablonka y Marion Lamb y el cierre de la epigenética y la evolución— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
+Cubierta la página impresa **320**: el cierre de "Epigenética y evolución" con Eva Jablonka y Marion
+Lamb (su libro *La evolución en cuatro dimensiones* de **2013**, la tesis del cambio revolucionario
+frente al neodarwinismo que dominó **cincuenta años**, los **cuatro sistemas de herencia** —genético,
+no genético, conductual y simbólico— y la perspectiva cuatridimensional en la que el gen no es el
+único foco de la selección natural); y el arranque del apartado **"Epigenética y salud"** (el poco
+sustento real de las promesas de la industria biotecnológica, los **45 000** trabajos sobre ARN de
+2017 y los **23 000** con aplicación clínica, el diagnóstico con miARN en oncología —origen primario
+del tumor y **cáncer tiroideo**—, el tratamiento de la **hepatitis C** con un antagonista del miARN, y
+los modificadores epigenéticos ambientales, dañinos y beneficiosos, con el **ácido fólico** y el tubo
+neural).
+
+**Pendiente:** el capítulo 14 está EN CURSO; sigue desde la página impresa **321** (hoja 367) en adelante —el apartado "Salud, epigenética y ética"— hasta la página impresa **323**, antes del ensayo de cierre "Retomando la problemática inicial" y los ejercicios. Los capítulos **15**, **33** y **37** ya quedaron cerrados; el 14 es ahora el **único capítulo abierto de Biología** y lo pide **sólo la EMOS**, así que este archivo sostiene el pendiente de la materia hasta que se cierre. Biología NO está cerrada.
 
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
@@ -7559,5 +7570,617 @@ En relación con el libro de Biología, ¿qué hipótesis fortalece aún más es
 **Subtema:** epigenética · recuadro 14-4 · evolución del ARN
 
 Esta evidencia fortalece aún más la hipótesis que sostiene que la evolución del ARN está estrechamente involucrada en la evolución de las especies.
+
+---
+
+### 424
+
+De acuerdo con el libro de Biología, ¿de qué libro son autoras Eva Jablonka y Marion Lamb?
+
+- A. *La evolución en cuatro dimensiones* (2013)
+- B. *La evolución en tres dimensiones* (2013)
+- C. *La evolución en cuatro dimensiones* (2003)
+- D. *La herencia en cuatro dimensiones* (2013)
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · Jablonka y Lamb
+
+Las biólogas Eva Jablonka y Marion Lamb, autoras del libro *La evolución en cuatro dimensiones* (2013).
+
+---
+
+### 425
+
+De conformidad con el libro de Biología, ¿qué lugar asignan esas autoras, en su concepción de la evolución, a los modelos y los ejemplos del campo de la epigenética?
+
+- A. Un lugar privilegiado
+- B. Un lugar secundario
+- C. Un lugar equivalente al del sistema genético
+- D. Un lugar marginal, sólo como excepciones
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · lugar de la epigenética en la evolución
+
+Incorporan y asignan un lugar privilegiado, en su concepción de la evolución, a los modelos y los ejemplos del campo de la epigenética.
+
+---
+
+### 426
+
+En relación con el libro de Biología, ¿qué destacan las autoras respecto de la epigenética?
+
+- A. Su importancia en el conocimiento biológico contemporáneo
+- B. Su escasa importancia en el conocimiento biológico contemporáneo
+- C. Su importancia histórica, ya superada por la genética molecular
+- D. Su utilidad exclusiva en el estudio de las plantas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · conocimiento biológico contemporáneo
+
+Destacan su importancia en el conocimiento biológico contemporáneo.
+
+---
+
+### 427
+
+De acuerdo con el libro de Biología, según la tesis fundamental que proponen esas autoras, ¿qué está experimentando el pensamiento de la biología en lo que atañe a la herencia y la evolución?
+
+- A. Un cambio revolucionario
+- B. Un cambio gradual y menor
+- C. Un retorno a las ideas del neodarwinismo
+- D. Un estancamiento de varias décadas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · tesis fundamental
+
+"… el pensamiento de la biología en lo que atañe a la herencia y la evolución está experimentando un cambio revolucionario".
+
+---
+
+### 428
+
+De conformidad con el libro de Biología, ¿qué es lo que está ocurriendo, de acuerdo con esa tesis?
+
+- A. Una nueva síntesis que desafía la versión del neodarwinismo
+- B. Una nueva síntesis que confirma la versión del neodarwinismo
+- C. El abandono definitivo de la teoría de la evolución
+- D. El regreso a la concepción de Lamarck
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · nueva síntesis
+
+"Lo que está ocurriendo es una nueva síntesis que desafía la versión del neodarwinismo".
+
+---
+
+### 429
+
+En relación con el libro de Biología, ¿durante cuántos años dominó el pensamiento biológico esa versión del neodarwinismo cuyo foco son los genes?
+
+- A. Durante los últimos cincuenta años
+- B. Durante los últimos quince años
+- C. Durante los últimos cinco años
+- D. Durante los últimos cien años
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · dominio del neodarwinismo
+
+La versión del neodarwinismo, cuyo foco son los genes, que dominó el pensamiento biológico durante los últimos cincuenta años.
+
+---
+
+### 430
+
+De acuerdo con el libro de Biología, ¿qué han mostrado los procesos y ejemplos descritos por el nuevo campo de la epigenética?
+
+- A. Que las células pueden transmitir información a las células hijas a través de la herencia no genética
+- B. Que las células sólo pueden transmitir información a las células hijas a través de la herencia genética
+- C. Que las células hijas no reciben información alguna de la célula madre
+- D. Que las células pueden transmitir información únicamente por medios conductuales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · herencia no genética
+
+Los procesos y ejemplos descritos por el nuevo campo de la epigenética han mostrado que las células pueden transmitir información a las células hijas a través de la herencia no genética.
+
+---
+
+### 431
+
+De conformidad con el libro de Biología, ¿qué significa lo anterior?
+
+- A. Que existen, al menos, dos sistemas de herencia
+- B. Que existe un único sistema de herencia
+- C. Que existen exactamente cuatro sistemas de herencia
+- D. Que el sistema genético es el único verificable
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · dos sistemas de herencia
+
+Lo que significa que existen, al menos, dos sistemas de herencia.
+
+---
+
+### 432
+
+En relación con el libro de Biología, ¿qué supone que muchos animales trasmitan información a otros por medios conductuales?
+
+- A. Un tercer sistema de herencia
+- B. Un segundo sistema de herencia
+- C. Un cuarto sistema de herencia
+- D. Una variante del sistema genético
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · tercer sistema de herencia
+
+Destacan que muchos animales trasmiten información a otros por medios conductuales, lo que supone un tercer sistema de herencia.
+
+---
+
+### 433
+
+De acuerdo con el libro de Biología, ¿por qué cuentan los humanos, además, con un cuarto sistema?
+
+- A. Porque la herencia simbólica, particularmente el lenguaje, cumple un papel sustancial en nuestra evolución
+- B. Porque la herencia genética, particularmente el ADN, cumple un papel sustancial en nuestra evolución
+- C. Porque la herencia conductual, particularmente la imitación, cumple un papel sustancial en nuestra evolución
+- D. Porque la herencia epigenética, particularmente la metilación, cumple un papel sustancial en nuestra evolución
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · herencia simbólica
+
+Nosotros, los humanos, contamos, además, con un cuarto sistema porque la herencia simbólica, particularmente el lenguaje, cumple un papel sustancial en nuestra evolución.
+
+---
+
+### 434
+
+De conformidad con el libro de Biología, ¿qué resulta bastante errado, por lo tanto?
+
+- A. Pensar acerca de la herencia y la evolución solo en función del sistema genético
+- B. Pensar acerca de la herencia y la evolución en función de cuatro sistemas
+- C. Pensar acerca de la herencia y la evolución en función del lenguaje
+- D. Pensar acerca de la herencia y la evolución en función de la conducta animal
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · crítica al enfoque genético único
+
+Por lo tanto, es bastante errado pensar acerca de la herencia y la evolución solo en función del sistema genético.
+
+---
+
+### 435
+
+En relación con el libro de Biología, ¿qué es posible construir al adoptar una perspectiva cuatridimensional?
+
+- A. Una teoría de la evolución mucho más rica y compleja, en la que el gen no sea el único foco de la selección natural
+- B. Una teoría de la evolución mucho más simple, en la que el gen siga siendo el único foco de la selección natural
+- C. Una teoría de la herencia que reemplace por completo a la selección natural
+- D. Una teoría de la evolución basada exclusivamente en la herencia simbólica
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · perspectiva cuatridimensional
+
+Al adoptar una perspectiva cuatridimensional, es posible construir una teoría de la evolución mucho más rica y compleja, en la que el gen no sea el único foco de la selección natural.
+
+---
+
+### 436
+
+De acuerdo con el libro de Biología, ¿desde qué días ha recorrido un largo camino la teoría evolutiva?
+
+- A. Desde los días de Lamarck y Darwin
+- B. Desde los días de Mendel y Morgan
+- C. Desde los días de Watson y Crick
+- D. Desde los días de Jablonka y Lamb
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · recorrido de la teoría evolutiva
+
+La teoría evolutiva ha recorrido un largo camino desde los días de Lamarck y Darwin.
+
+---
+
+### 437
+
+De conformidad con el libro de Biología, ¿qué es aún difícil de evaluar cabalmente en la actualidad?
+
+- A. Cuánto han contribuido los procesos epigenéticos a la evolución de la vida en la Tierra
+- B. Cuánto han contribuido las mutaciones del ADN a la evolución de la vida en la Tierra
+- C. Cuántos sistemas de herencia existen en los seres vivos
+- D. Cuánto tiempo dominó el neodarwinismo el pensamiento biológico
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · aporte a la evolución
+
+En la actualidad, es aún difícil evaluar cabalmente cuánto han contribuido los procesos epigenéticos a la evolución de la vida en la Tierra.
+
+---
+
+### 438
+
+En relación con el libro de Biología, ¿de qué se tiene ahora una comprensión más amplia?
+
+- A. De los principios subyacentes por los cuales tanto las secuencias de ADN como los patrones de modificación epigenética pueden evolucionar a través el tiempo
+- B. De los principios subyacentes por los cuales sólo las secuencias de ADN pueden evolucionar a través el tiempo
+- C. De los principios subyacentes por los cuales sólo los patrones de modificación epigenética pueden evolucionar a través el tiempo
+- D. De los principios subyacentes por los cuales las especies dejan de evolucionar con el tiempo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · principios subyacentes
+
+Ahora tenemos una comprensión más amplia de los principios subyacentes por los cuales tanto las secuencias de ADN como los patrones de modificación epigenética pueden evolucionar a través el tiempo.
+
+---
+
+### 439
+
+De acuerdo con el libro de Biología, ¿qué ejemplos se han comenzado a encontrar?
+
+- A. Ejemplos de cambios epigenéticos que contribuyen a revisar y ampliar el marco de interpretación de la biología evolutiva
+- B. Ejemplos de cambios epigenéticos que confirman sin cambios el marco de interpretación de la biología evolutiva
+- C. Ejemplos de cambios genéticos que reemplazan al marco de interpretación de la biología evolutiva
+- D. Ejemplos de cambios epigenéticos que no dejan huella en la evolución
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética · marco de la biología evolutiva
+
+Hemos comenzado a encontrar ejemplos de cambios epigenéticos que contribuyen a revisar y ampliar el marco de interpretación de la biología evolutiva.
+
+---
+
+### 440
+
+De conformidad con el libro de Biología, ¿qué sustento tienen las promesas enunciadas por la industria biotecnológica sobre enormes avances en el diagnóstico y tratamiento de enfermedades?
+
+- A. Tienen poco sustento real
+- B. Tienen un sustento real y comprobado
+- C. Tienen el mismo sustento que los tratamientos genéticos
+- D. Tienen sustento sólo en el ámbito de la oncología
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · promesas de la industria
+
+Las promesas enunciadas por la industria biotecnológica sobre enormes avances en el diagnóstico y tratamiento de enfermedades tienen poco sustento real.
+
+---
+
+### 441
+
+En relación con el libro de Biología, ¿cuántos trabajos sobre ARN se publicaron en el mundo solo en 2017?
+
+- A. Más de 45 000
+- B. Más de 4 500
+- C. Más de 23 000
+- D. Más de 145 000
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · trabajos publicados en 2017
+
+Solo en 2017 se publicaron en el mundo más de 45 000 trabajos sobre ARN.
+
+---
+
+### 442
+
+De acuerdo con el libro de Biología, de esos trabajos, ¿cuántos sugieren, de manera general, que sus estudios podrían contribuir al diagnóstico y tratamiento de enfermedades?
+
+- A. Más de 23 000
+- B. Más de 45 000
+- C. Más de 2 300
+- D. Más de 33 000
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · trabajos con aplicación clínica
+
+De ellos, más de 23 000 sugieren, de manera general, que sus estudios podrían contribuir al diagnóstico y tratamiento de enfermedades.
+
+---
+
+### 443
+
+De conformidad con el libro de Biología, ¿en qué situación se encuentran actualmente muchas tecnologías y terapias basadas en procesos epigenéticos?
+
+- A. Aún en fases tempranas de estudio
+- B. Ya en uso generalizado en los hospitales
+- C. Abandonadas por falta de resultados
+- D. En la última fase de aprobación sanitaria
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · estado de las terapias
+
+Actualmente muchas tecnologías y terapias basadas en procesos epigenéticos se encuentran aún en fases tempranas de estudio.
+
+---
+
+### 444
+
+En relación con el libro de Biología, ¿en qué ámbito tienen una amplia aceptación algunos estudios de diagnóstico basados en miARN?
+
+- A. En el ámbito de la oncología
+- B. En el ámbito de la cardiología
+- C. En el ámbito de la neurología
+- D. En el ámbito de la infectología
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · diagnóstico con miARN
+
+Algunos estudios de diagnóstico basados en miARN tienen una amplia aceptación en el ámbito de la oncología, con reconocidos resultados y beneficios.
+
+---
+
+### 445
+
+De acuerdo con el libro de Biología, ¿para qué puede aplicarse el análisis de miARN?
+
+- A. Para tipificar casos de cáncer con metástasis en los que se desconoce el origen primario del tumor
+- B. Para tipificar casos de cáncer sin metástasis en los que se conoce el origen primario del tumor
+- C. Para eliminar por completo las metástasis del paciente
+- D. Para predecir qué personas sanas desarrollarán cáncer
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · origen primario del tumor
+
+Un ejemplo de estos es el análisis de miARN que puede aplicarse para tipificar casos de cáncer con metástasis en los que se desconoce el origen primario del tumor.
+
+---
+
+### 446
+
+De conformidad con el libro de Biología, ¿para qué se han desarrollado estudios específicos que analizan nódulos?
+
+- A. Para la identificación del cáncer tiroideo
+- B. Para la identificación del cáncer pulmonar
+- C. Para la identificación del cáncer hepático
+- D. Para la identificación del cáncer de mama
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · cáncer tiroideo
+
+También se han desarrollado estudios específicos para analizar nódulos en la identificación del cáncer tiroideo.
+
+---
+
+### 447
+
+En relación con el libro de Biología, ¿qué permite caracterizar con mayor precisión el análisis de miARN y ARNm presentes en las muestras provenientes de biopsias?
+
+- A. La tasa de crecimiento del tumor y su morbilidad
+- B. La edad exacta del paciente y su expectativa de vida
+- C. El número de metástasis presentes en el organismo
+- D. La secuencia completa del genoma del tumor
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · clasificación tumoral
+
+El análisis de miARN y ARNm presentes en las muestras provenientes de biopsias permite caracterizar con mayor precisión la tasa de crecimiento del tumor y su morbilidad.
+
+---
+
+### 448
+
+De acuerdo con el libro de Biología, ¿qué puede orientar ese análisis en algunos casos?
+
+- A. Las decisiones terapéuticas
+- B. La elección del hospital de tratamiento
+- C. El pronóstico de vida exacto del paciente
+- D. La decisión de suspender todo tratamiento
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · decisiones terapéuticas
+
+Así como también, en algunos casos, puede orientar las decisiones terapéuticas.
+
+---
+
+### 449
+
+De conformidad con el libro de Biología, en cuanto a los tratamientos, ¿cuál es quizá el más exitoso basado en estos saberes?
+
+- A. El de la hepatitis C
+- B. El de la hepatitis B
+- C. El del cáncer tiroideo
+- D. El de las anomalías congénitas
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · hepatitis C
+
+En cuanto a los tratamientos, quizá el más exitoso basado en estos saberes es el de la hepatitis C.
+
+---
+
+### 450
+
+En relación con el libro de Biología, ¿qué emplea esa estrategia terapéutica?
+
+- A. Un antagonista del miARN del virus que produce esta enfermedad
+- B. Un antagonista del ADN del virus que produce esta enfermedad
+- C. Un precursor del miARN del virus que produce esta enfermedad
+- D. Un anticuerpo contra las proteínas de la cápside viral
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · antagonista del miARN
+
+Esta estrategia terapéutica emplea un antagonista del miARN del virus que produce esta enfermedad.
+
+---
+
+### 451
+
+De acuerdo con el libro de Biología, al reducir su actividad, ¿qué ocurre con la concentración del virus de hepatitis C?
+
+- A. Disminuye a niveles indetectables
+- B. Disminuye a la mitad de su valor inicial
+- C. Se mantiene estable durante el tratamiento
+- D. Aumenta antes de desaparecer
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · niveles indetectables
+
+Al reducir su actividad, la concentración del virus de hepatitis C disminuye a niveles indetectables.
+
+---
+
+### 452
+
+De conformidad con el libro de Biología, ¿qué media el miARN blanco de este medicamento?
+
+- A. La invasión del virus a las células sanas, en particular al proceso de incorporación de este al núcleo celular
+- B. La invasión del virus a las células sanas, en particular al proceso de salida de este de la célula
+- C. La destrucción de las células ya infectadas por el virus
+- D. La replicación del material genético del virus en el citoplasma
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · invasión a células sanas
+
+El miARN blanco de este medicamento media la invasión del virus a las células sanas, en particular al proceso de incorporación de este al núcleo celular.
+
+---
+
+### 453
+
+En relación con el libro de Biología, al impedir la propagación de la infección, ¿qué favorece este tratamiento?
+
+- A. La posibilidad de que el sistema inmunitario del paciente pueda eliminar las células previamente infectadas
+- B. La posibilidad de que el virus mute hacia formas menos agresivas
+- C. La regeneración inmediata del tejido hepático dañado
+- D. La eliminación directa del virus por el propio medicamento
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · papel del sistema inmunitario
+
+Al impedir la propagación de la infección, este tratamiento favorece la posibilidad de que el sistema inmunitario del paciente pueda eliminar las células previamente infectadas.
+
+---
+
+### 454
+
+De acuerdo con el libro de Biología, ¿de qué modo han puesto en evidencia diversos estudios científicos la importancia de los factores ambientales en la expresión del genoma?
+
+- A. Exponiendo células humanas en cultivo a diversos químicos, en condiciones experimentales
+- B. Exponiendo animales de laboratorio a diversos químicos, en condiciones naturales
+- C. Analizando el genoma completo de poblaciones humanas aisladas
+- D. Comparando el genoma de especies emparentadas entre sí
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · factores ambientales
+
+Por ejemplo, exponiendo células humanas en cultivo a diversos químicos, en condiciones experimentales.
+
+---
+
+### 455
+
+De conformidad con el libro de Biología, ¿qué se ha comparado asimismo?
+
+- A. Los patrones de modificación epigenética en personas que han experimentado exposiciones a la misma sustancia química
+- B. Los patrones de modificación epigenética en personas que nunca han estado expuestas a sustancias químicas
+- C. Las secuencias de ADN de personas que han experimentado exposiciones a la misma sustancia química
+- D. Los patrones de modificación epigenética entre distintas especies animales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · exposiciones comparadas
+
+Asimismo, se han comparado los patrones de modificación epigenética en personas que han experimentado exposiciones a la misma sustancia química.
+
+---
+
+### 456
+
+En relación con el libro de Biología, ¿qué sustancias dañinas para la salud pueden operar como modificadores epigenéticos?
+
+- A. Nicotina, benceno, arsénico, insecticidas, herbicidas e infecciones virales
+- B. Nicotina, benceno, mercurio, insecticidas, herbicidas e infecciones bacterianas
+- C. Alcohol, plomo, arsénico, fertilizantes, herbicidas e infecciones virales
+- D. Nicotina, benceno, arsénico, ácido fólico, herbicidas e infecciones virales
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · sustancias dañinas
+
+La gama de sustancias que pueden operar como modificadores epigenéticos incluye tanto a los que son dañinos para la salud (nicotina, benceno, arsénico, insecticidas, herbicidas, infecciones virales).
+
+---
+
+### 457
+
+De acuerdo con el libro de Biología, ¿qué sustancias pueden resultar beneficiosas bajo ciertas circunstancias?
+
+- A. El ácido fólico y la vitamina C
+- B. El ácido fólico y la vitamina D
+- C. El hierro y la vitamina C
+- D. El ácido fólico y el calcio
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · sustancias beneficiosas
+
+Como a aquellos que bajo ciertas circunstancias pueden resultar beneficiosos (ácido fólico y vitamina C).
+
+---
+
+### 458
+
+De conformidad con el libro de Biología, ¿en qué resultó la fortificación de harinas con ácido fólico, o su indicación en mujeres que planifican un embarazo?
+
+- A. En una de las más exitosas políticas públicas que contribuyen a la prevención de anomalías congénitas
+- B. En una de las más costosas políticas públicas que no logró prevenir anomalías congénitas
+- C. En una política pública destinada a prevenir enfermedades cardiovasculares
+- D. En una recomendación médica sin efectos comprobados
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · ácido fólico como política pública
+
+La fortificación de harinas con ácido fólico, o su indicación en mujeres que planifican un embarazo, resultó en una de las más exitosas políticas públicas que contribuyen a la prevención de anomalías congénitas.
+
+---
+
+### 459
+
+En relación con el libro de Biología, ¿qué incidencia ha reducido esa política?
+
+- A. La de defectos del cierre del tubo neural y de alteraciones del desarrollo del sistema nervioso central
+- B. La de defectos del cierre del tubo digestivo y de alteraciones del desarrollo del sistema digestivo
+- C. La de malformaciones cardíacas y de alteraciones del desarrollo del sistema circulatorio
+- D. La de defectos del cierre del tubo neural y de alteraciones del crecimiento óseo
+
+**Respuesta:** A
+**Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 320
+**Subtema:** epigenética y salud · tubo neural
+
+Ha reducido la incidencia de defectos del cierre del tubo neural y de alteraciones del desarrollo del sistema nervioso central.
 
 ---
