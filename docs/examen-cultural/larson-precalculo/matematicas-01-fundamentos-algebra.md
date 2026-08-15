@@ -66,8 +66,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 - Cubiertas las páginas impresas **25 y 26**: *Racionalización de denominadores y numeradores* (el conjugado, el caso a = 0 y las raíces cúbicas) y *Exponentes racionales y sus propiedades* (la definición, qué denotan numerador y denominador, y los dos recuadros `COMENTARIO`, que aquí sí traen matemáticas). Los `EJEMPLO 12` a `EJEMPLO 15` no llevan reactivos.
 - Cubierta la página impresa **27**, con la que **cierra el 1.3**: para qué son útiles los exponentes racionales y el `COMENTARIO` del caso no definido. El `Resumen (sección 1.3)` **no lleva reactivos**: es una lista de indicaciones de estudio que remite a los ejemplos, y cae por la regla del dato del tema. Los `EJEMPLO 16` y `17` y el `TECNOLOGÍA` de las graficadoras tampoco. **Las pp. 28 y 29 son íntegramente el bloque `1.3 Ejercicios`** —incluidos el "Vocabulario", el "Modelado matemático", el "¿CÓMO LO VE?" y la "Exploración"—, así que no llevan un solo reactivo.
 - Cubiertas las páginas impresas **30 y 31**, arranque del **1.4 · Polinomios y factorización**: qué es un polinomio y la forma axᵏ de sus términos, el recuadro *Definición de un polinomio con x* (salvo su errata de "n no positivo"), monomios/binomios/trinomios, la forma estándar, el polinomio cero, el grado y el coeficiente principal con más de una variable, el `COMENTARIO` de qué expresiones no son polinomios, los términos semejantes, el producto por las propiedades distributivas y el método PEIU. Los `EJEMPLO 1` a `EJEMPLO 3` no llevan reactivos.
+- Cubiertas las páginas impresas **32 y 33**: el recuadro *Productos especiales* completo (binomios conjugados, cuadrado y cubo de un binomio) y *Polinomios con factores comunes* (qué es factorizar, el polinomio primo o irreducible en enteros, la factorización completa, el tipo más simple y la propiedad distributiva en dirección inversa). Del `EJEMPLO 4` se tomó **sólo la regla general** de que el producto de binomios conjugados no tiene término medio, no el ejercicio; el `EJEMPLO 5` no lleva reactivos.
 
-**Pendiente:** EN CURSO. Sigue desde la página impresa **32**, con lo que reste del **1.4** hasta la **p. 39**. Después faltan los otros cinco subtemas que pide el temario —**1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+**Pendiente:** EN CURSO. Sigue desde la página impresa **34**, con lo que reste del **1.4** hasta la **p. 39**. Después faltan los otros cinco subtemas que pide el temario —**1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -1907,5 +1908,298 @@ De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qu
 **Subtema:** polinomios y factorización · signo negativo ante paréntesis
 
 Cuando un signo negativo precede a una expresión dentro de paréntesis, recuerde distribuir el signo negativo a cada término dentro del paréntesis. En otras palabras, multiplique cada término por −1.
+
+---
+
+## Sub-lote 11 · Productos especiales (1.4, p. 32)
+
+### 108
+
+En relación con el libro de Matemáticas, ¿qué tienen algunos productos de binomios?
+
+- A. Formas especiales que ocurren con frecuencia en álgebra
+- B. Un número impar de términos
+- C. Siempre un término medio
+- D. Coeficientes que son siempre enteros
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 32
+**Subtema:** polinomios y factorización · productos especiales
+
+Algunos productos de binomios tienen formas especiales que ocurren con frecuencia en álgebra.
+
+---
+
+### 109
+
+De acuerdo con el libro de Matemáticas, en el recuadro de los productos especiales, ¿qué pueden ser u y v?
+
+- A. Números reales, variables o expresiones algebraicas
+- B. Únicamente números reales
+- C. Únicamente variables
+- D. Únicamente enteros positivos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 32
+**Subtema:** polinomios y factorización · productos especiales
+
+Sean u y v números reales, variables o expresiones algebraicas.
+
+---
+
+### 110
+
+De conformidad con el libro de Matemáticas, ¿cómo se llama el producto especial (u + v)(u − v)?
+
+- A. Producto de binomios conjugados
+- B. Cuadrado de un binomio
+- C. Cubo de un binomio
+- D. Producto de términos semejantes
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 32
+**Subtema:** polinomios y factorización · productos especiales
+
+Producto de binomios conjugados: (u + v)(u − v) = u² − v².
+
+---
+
+### 111
+
+En relación con el libro de Matemáticas, ¿a qué es igual (u + v)(u − v)?
+
+- A. A u² − v²
+- B. A u² + v²
+- C. A u² − 2uv + v²
+- D. A u² + 2uv + v²
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 32
+**Subtema:** polinomios y factorización · productos especiales
+
+Producto de binomios conjugados: (u + v)(u − v) = u² − v².
+
+---
+
+### 112
+
+De acuerdo con el libro de Matemáticas, ¿a qué es igual (u + v)²?
+
+- A. A u² + 2uv + v²
+- B. A u² − 2uv + v²
+- C. A u² + v²
+- D. A u² − v²
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 32
+**Subtema:** polinomios y factorización · cuadrado de un binomio
+
+Cuadrado de un binomio: (u + v)² = u² + 2uv + v².
+
+---
+
+### 113
+
+De conformidad con el libro de Matemáticas, ¿a qué es igual (u − v)²?
+
+- A. A u² − 2uv + v²
+- B. A u² + 2uv + v²
+- C. A u² − v²
+- D. A u² − 2uv − v²
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 32
+**Subtema:** polinomios y factorización · cuadrado de un binomio
+
+Cuadrado de un binomio: (u − v)² = u² − 2uv + v².
+
+---
+
+### 114
+
+En relación con el libro de Matemáticas, ¿a qué es igual (u + v)³?
+
+- A. A u³ + 3u²v + 3uv² + v³
+- B. A u³ − 3u²v + 3uv² − v³
+- C. A u³ + 3u²v − 3uv² + v³
+- D. A u³ + v³
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 32
+**Subtema:** polinomios y factorización · cubo de un binomio
+
+Cubo de un binomio: (u + v)³ = u³ + 3u²v + 3uv² + v³.
+
+---
+
+### 115
+
+De acuerdo con el libro de Matemáticas, ¿a qué es igual (u − v)³?
+
+- A. A u³ − 3u²v + 3uv² − v³
+- B. A u³ + 3u²v + 3uv² + v³
+- C. A u³ − 3u²v − 3uv² − v³
+- D. A u³ − v³
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 32
+**Subtema:** polinomios y factorización · cubo de un binomio
+
+Cubo de un binomio: (u − v)³ = u³ − 3u²v + 3uv² − v³.
+
+---
+
+### 116
+
+De conformidad con el libro de Matemáticas, ¿qué le falta al producto de binomios conjugados?
+
+- A. El término medio
+- B. El término constante
+- C. El coeficiente principal
+- D. El exponente del segundo término
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 32
+**Subtema:** polinomios y factorización · productos especiales
+
+El producto de binomios conjugados no tiene término medio y adopta la forma (u + v)(u − v) = u² − v².
+
+---
+
+## Sub-lote 12 · Factorización y factores comunes (1.4, p. 33)
+
+### 117
+
+En relación con el libro de Matemáticas, ¿cómo se llama el proceso de escribir polinomios como un producto?
+
+- A. Factorización
+- B. Racionalización
+- C. Simplificación
+- D. Agrupación
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 33
+**Subtema:** polinomios y factorización · factorización
+
+El proceso de escribir polinomios como un producto se llama factorización.
+
+---
+
+### 118
+
+De acuerdo con el libro de Matemáticas, ¿para qué es una herramienta importante la factorización?
+
+- A. Para resolver ecuaciones y para simplificar expresiones racionales
+- B. Para evaluar raíces en una calculadora y reducir índices
+- C. Para escribir números en notación científica y compararlos
+- D. Para racionalizar denominadores y numeradores
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 33
+**Subtema:** polinomios y factorización · factorización
+
+Esta es una herramienta importante para resolver ecuaciones y para simplificar expresiones racionales.
+
+---
+
+### 119
+
+De conformidad con el libro de Matemáticas, a menos que se indique otra cosa, ¿qué clase de factores se supone que se buscan al factorizar un polinomio?
+
+- A. Factores con coeficientes enteros
+- B. Factores con coeficientes reales
+- C. Factores con coeficientes racionales
+- D. Factores con coeficientes positivos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 33
+**Subtema:** polinomios y factorización · factorización
+
+A menos que se indique otra cosa, cuando se le pida factorizar un polinomio suponga que busca factores con coeficientes enteros.
+
+---
+
+### 120
+
+En relación con el libro de Matemáticas, ¿cómo se llama un polinomio que no se factoriza con el uso de coeficientes enteros?
+
+- A. Primo o irreducible en enteros
+- B. Completamente factorizado
+- C. Polinomio cero
+- D. Binomio conjugado
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 33
+**Subtema:** polinomios y factorización · polinomio primo
+
+Si un polinomio no se factoriza con el uso de coeficientes enteros, es primo o irreducible en enteros.
+
+---
+
+### 121
+
+De acuerdo con el libro de Matemáticas, ¿cuándo está un polinomio completamente factorizado?
+
+- A. Cuando cada uno de sus factores es primo
+- B. Cuando tiene exactamente dos factores
+- C. Cuando todos sus factores tienen coeficientes enteros
+- D. Cuando ninguno de sus factores es un monomio
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 33
+**Subtema:** polinomios y factorización · factorización completa
+
+Un polinomio está completamente factorizado cuando cada uno de sus factores es primo.
+
+---
+
+### 122
+
+De conformidad con el libro de Matemáticas, ¿cuál es el tipo más simple de factorización?
+
+- A. El que implica un polinomio que puede escribirse como el producto de un monomio y otro polinomio
+- B. El que implica un polinomio que puede escribirse como el producto de dos binomios
+- C. El que implica un polinomio que puede escribirse como el cuadrado de un binomio
+- D. El que implica un polinomio que puede escribirse como el producto de dos trinomios
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 33
+**Subtema:** polinomios y factorización · factores comunes
+
+El tipo más simple de factorización implica un polinomio que puede escribirse como el producto de un monomio y otro polinomio.
+
+---
+
+### 123
+
+En relación con el libro de Matemáticas, ¿qué técnica se usa para factorizar en factores comunes?
+
+- A. La propiedad distributiva en dirección inversa
+- B. El método PEIU
+- C. La racionalización del denominador
+- D. La factorización por agrupación
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 33
+**Subtema:** polinomios y factorización · factores comunes
+
+La técnica usada aquí es la propiedad distributiva, a(b + c) = ab + ac, en dirección inversa.
+
+---
+
+### 124
+
+De acuerdo con el libro de Matemáticas, ¿cuál es el primer paso para factorizar completamente un polinomio?
+
+- A. La factorización en cualesquiera factores comunes
+- B. La escritura del polinomio en forma estándar
+- C. La aplicación del método PEIU
+- D. La agrupación de los términos semejantes
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 33
+**Subtema:** polinomios y factorización · factores comunes
+
+La factorización en cualesquiera factores comunes es el primer paso para factorizar completamente un polinomio.
 
 ---
