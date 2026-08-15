@@ -40,8 +40,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 **EN CURSO.** Arrancada la unidad por la portadilla.
 
 - Cubierta la página impresa **151** (sólo la **INTRODUCCIÓN**): que ningún planeta tiene tanta agua como la Tierra y que ésta cubre **más de 2/3** de la superficie —**el 70.98%**—, haciéndola más acuática que terrestre; **Tales de Mileto** y el agua como origen del mundo, con el nombre de **Oceanía**; la Tierra como único planeta donde los **tres estados físicos** del agua coexisten de manera estable y duradera, y la comparación con Mercurio, Venus, Marte y la Luna; y **dónde se encuentra el agua en cada estado** (sólido, líquido y gaseoso). **Los "Objetivos" de la unidad no llevan reactivos por norma.**
+- Cubierta la página impresa **152**: el **5.1.1 Características del agua** completo — la **composición química** (dos átomos de hidrógeno y uno de oxígeno), el agua en estado puro (**incolora, inodora e insípida**), la sustancia capaz de **absorber mayor cantidad de calor** y desprenderlo lentamente, las masas acuosas como **«termostato»** que da al planeta un clima bastante estable, la **escala centígrada de Celsius** (**0ºC** fusión y **100ºC** ebullición), el agua como **solvente** que ninguna otra sustancia iguala y la dificultad de hallarla pura, la **rareza de su densidad** (mínimo volumen y máxima densidad a **4ºC**, y el hielo que flota), lo que ocurre bajo la capa de hielo, y el escenario contrario —los **gigantescos témpanos** en pocos decenios— que muestra por qué esa propiedad es esencial para la vida. **Las tres temperaturas (0ºC, 4ºC y 100ºC) se verificaron con `crop.py` a 600 dpi.** La Figura 5.1 es un **mapa** (hemisferios continental y oceánico) y no lleva reactivos por norma.
 
-**Pendiente:** EN CURSO. Sigue desde la **p.152** con el **5.1.1 Características del agua** y el resto del **5.1**, y después el **5.2 Las aguas oceánicas** (desde la p.157). Faltan también las **Unidades VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
+**Pendiente:** EN CURSO. Sigue desde la **p.153** con el resto del **5.1** (la distribución del agua y el ciclo del agua), y después el **5.2 Las aguas oceánicas** (desde la p.157). Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
 
 ---
 
@@ -181,4 +182,276 @@ En relación con el libro de Geografía, ¿dónde se encuentra el agua en estado
 **Subtema:** la hidrósfera · agua en estado gaseoso
 
 "En estado gaseoso, en el vapor de agua presente en la atmósfera."
+
+## Sub-lote 2 · Características del agua (5.1.1, p. 152)
+
+### 10
+
+De acuerdo con el libro de Geografía, ¿de qué consta la molécula de agua?
+
+- A. De dos átomos de hidrógeno y uno de oxígeno
+- B. De dos átomos de oxígeno y uno de hidrógeno
+- C. De un átomo de hidrógeno y uno de oxígeno
+- D. De tres átomos de hidrógeno y uno de oxígeno
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · composición química
+
+"Por lo que respecta a su composición química, la molécula de agua consta de dos átomos de hidrógeno y uno de oxígeno."
+
+### 11
+
+De conformidad con el libro de Geografía, ¿cómo es el agua en estado puro?
+
+- A. Incolora, inodora e insípida; o sea, no tiene color, olor ni sabor
+- B. Incolora e inodora, pero con sabor propio
+- C. Inodora e insípida, pero con un ligero color azul
+- D. Insípida e incolora, pero con olor característico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · estado puro
+
+"En estado puro, el agua es incolora, inodora e insípida; o sea, no tiene color, olor ni sabor."
+
+### 12
+
+En relación con el libro de Geografía, desde el punto de vista termodinámico, ¿qué es el agua?
+
+- A. La sustancia capaz de absorber mayor cantidad de calor, que después desprende lentamente
+- B. La sustancia capaz de absorber menor cantidad de calor, que después desprende rápidamente
+- C. La sustancia capaz de absorber mayor cantidad de calor, que después desprende rápidamente
+- D. La sustancia que no absorbe calor, sino que lo refleja
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · absorción de calor
+
+"Desde el punto de vista termodinámico, es la sustancia capaz de absorber mayor cantidad de calor, que después desprende lentamente."
+
+### 13
+
+De acuerdo con el libro de Geografía, ¿cómo funcionan las masas acuosas de la Tierra en esas condiciones?
+
+- A. Como un «termostato» o regulador de la temperatura atmosférica
+- B. Como un «acumulador» o depósito de la temperatura atmosférica
+- C. Como un «aislante» de la temperatura atmosférica
+- D. Como un «reflector» de la energía solar
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · el termostato
+
+"En esas condiciones, las masas acuosas de la Tierra funcionan como un «termostato» o regulador de la temperatura atmosférica."
+
+### 14
+
+De conformidad con el libro de Geografía, ¿qué logra eso?
+
+- A. Que el planeta mantenga en su conjunto un clima bastante estable
+- B. Que el planeta mantenga en su conjunto un clima bastante extremoso
+- C. Que el planeta alterne estaciones marcadas en todas las latitudes
+- D. Que el planeta conserve su temperatura sólo en las zonas templadas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · clima estable
+
+"Haciendo que el planeta mantenga en su conjunto un clima bastante estable."
+
+### 15
+
+En relación con el libro de Geografía, ¿quién tomó los puntos de fusión y ebullición del agua como referencia, y para qué?
+
+- A. Celsius, para la elaboración de la escala térmica centígrada
+- B. Celsius, para la elaboración de la escala térmica absoluta
+- C. Fahrenheit, para la elaboración de la escala térmica centígrada
+- D. Kelvin, para la elaboración de la escala térmica centígrada
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · escala centígrada
+
+"Sus puntos de fusión y ebullición fueron tomados por Celsius como referencia para la elaboración de la escala térmica centígrada."
+
+### 16
+
+De acuerdo con el libro de Geografía, ¿qué valores asignó a esos puntos?
+
+- A. 0ºC a su punto de fusión y 100ºC al de su ebullición
+- B. 100ºC a su punto de fusión y 0ºC al de su ebullición
+- C. 4ºC a su punto de fusión y 100ºC al de su ebullición
+- D. 0ºC a su punto de fusión y 90ºC al de su ebullición
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · puntos de fusión y ebullición
+
+"Asignando 0ºC a su punto de fusión y 100ºC al de su ebullición."
+
+### 17
+
+De conformidad con el libro de Geografía, ¿por qué el agua es el solvente más conocido y usado?
+
+- A. Porque, además de su abundancia, ningún otro es capaz de disolver tantas sustancias
+- B. Porque, además de su abundancia, disuelve únicamente las sustancias orgánicas
+- C. Porque es la única sustancia capaz de disolver sales
+- D. Porque, a pesar de su escasez, disuelve muchas sustancias
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · el solvente universal
+
+"El agua es el solvente más conocido y usado pues, además de su abundancia, ningún otro es capaz de disolver tantas sustancias."
+
+### 18
+
+En relación con el libro de Geografía, ¿qué dificultad se deriva de esa propiedad?
+
+- A. La dificultad de encontrarla en estado puro en la naturaleza
+- B. La dificultad de separarla de los mantos acuíferos
+- C. La dificultad de mantenerla en estado líquido
+- D. La dificultad de medir su densidad con exactitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · estado puro en la naturaleza
+
+"(De allí la dificultad de encontrarla en estado puro en la naturaleza.)"
+
+### 19
+
+De acuerdo con el libro de Geografía, ¿qué ocurre con las demás sustancias respecto del calor y el frío?
+
+- A. Se dilatan con el calor y se contraen con el frío, de modo que en estado sólido tienen menor volumen y mayor densidad que en estado líquido
+- B. Se contraen con el calor y se dilatan con el frío, de modo que en estado sólido tienen mayor volumen y menor densidad que en estado líquido
+- C. Se dilatan con el calor y se contraen con el frío, de modo que en estado sólido tienen mayor volumen y menor densidad que en estado líquido
+- D. Mantienen su volumen y su densidad en cualquier estado
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · densidad de las demás sustancias
+
+"Mientras las demás sustancias se dilatan con el calor y se contraen con el frío, de modo que en estado sólido tienen menor volumen y mayor densidad que en estado líquido [...]"
+
+### 20
+
+De conformidad con el libro de Geografía, ¿a qué temperatura alcanza el agua su mínimo volumen y su máxima densidad?
+
+- A. A 4ºC
+- B. A 0ºC
+- C. A 40ºC
+- D. A 100ºC
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · máxima densidad
+
+"El agua alcanza su mínimo volumen y máxima densidad a 4ºC."
+
+### 21
+
+En relación con el libro de Geografía, si su temperatura continúa descendiendo, ¿qué ocurre?
+
+- A. Aumenta nuevamente su volumen y disminuye su densidad, de modo que el hielo pesa menos que el agua líquida y flota sobre ella
+- B. Disminuye nuevamente su volumen y aumenta su densidad, de modo que el hielo pesa más que el agua líquida y se hunde
+- C. Mantiene su volumen y su densidad sin cambio alguno
+- D. Aumenta su volumen y su densidad al mismo tiempo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · el hielo flota
+
+"Si su temperatura continúa descendiendo, aumenta nuevamente su volumen y disminuye su densidad, de modo que el hielo pesa menos que el agua líquida y flota sobre ella."
+
+### 22
+
+De acuerdo con el libro de Geografía, cuando la temperatura atmosférica es menor que 0ºC, ¿qué se congela?
+
+- A. Sólo la capa superficial de los océanos, mares, golfos, lagos, lagunas o ríos
+- B. La totalidad de los océanos, mares, golfos, lagos, lagunas o ríos
+- C. Sólo las aguas subterráneas y los mantos acuíferos
+- D. Sólo las aguas de los ríos y arroyos de montaña
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · congelación superficial
+
+"Sólo se congela la capa superficial de los océanos, mares, golfos, lagos, lagunas o ríos."
+
+### 23
+
+De conformidad con el libro de Geografía, ¿qué ocurre debajo de la capa de hielo formada?
+
+- A. El agua continúa en estado líquido, mantiene su circulación y permite el desarrollo de los seres vivos
+- B. El agua se congela por completo hasta el fondo
+- C. El agua pierde su circulación, aunque permanece líquida
+- D. El agua se evapora lentamente hacia la atmósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · debajo del hielo
+
+"Debajo de la capa de hielo formada, el agua continúa en estado líquido, mantiene su circulación y permite el desarrollo de los seres vivos."
+
+### 24
+
+En relación con el libro de Geografía, si el agua se contrajera por el descenso de temperatura como las demás sustancias, ¿qué ocurriría con el hielo?
+
+- A. Pesaría más que el agua líquida y se hundiría en ella
+- B. Pesaría menos que el agua líquida y flotaría sobre ella
+- C. Se mantendría en suspensión dentro del agua líquida
+- D. Se evaporaría antes de formarse
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · el hielo se hundiría
+
+"Si el agua se contrajera por el descenso de temperatura como las demás sustancias, el hielo pesaría más que el agua líquida y se hundiría en ella."
+
+### 25
+
+De acuerdo con el libro de Geografía, ¿dónde sucede con frecuencia que la temperatura atmosférica sea menor que 0ºC?
+
+- A. En las altas latitudes, las montañas elevadas o durante el invierno
+- B. En las bajas latitudes, las llanuras o durante el verano
+- C. En las zonas tórridas y las mesetas
+- D. Únicamente en los círculos polares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · dónde baja de 0ºC
+
+"Cuando la temperatura atmosférica es menor que 0ºC, lo cual sucede con frecuencia en las altas latitudes, las montañas elevadas o durante el invierno [...]"
+
+### 26
+
+De conformidad con el libro de Geografía, al repetirse ese fenómeno de congelación, ¿en cuánto tiempo y en qué se convertirían las masas acuáticas de la Tierra?
+
+- A. En pocos decenios, en gigantescos témpanos de hielo, haciendo imposible el desarrollo de la vida en la superficie terrestre
+- B. En pocos siglos, en gigantescos témpanos de hielo, sin afectar el desarrollo de la vida
+- C. En pocos años, en enormes masas de vapor, haciendo imposible la vida
+- D. En pocos milenios, en desiertos de sal, haciendo imposible la vida
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · los témpanos
+
+"Repitiéndose de ese modo el fenómeno de congelación de las aguas superficiales, en pocos decenios las masas acuáticas de la Tierra se convertirían en gigantescos témpanos de hielo, haciendo imposible el desarrollo de la vida en la superficie terrestre."
+
+### 27
+
+En relación con el libro de Geografía, ¿qué aguas serán vistas en los temas respectivos?
+
+- A. Las oceánicas, subterráneas, fluviales y de otro tipo
+- B. Únicamente las oceánicas y las subterráneas
+- C. Únicamente las fluviales y las lacustres
+- D. Las oceánicas, atmosféricas y glaciares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 152
+**Subtema:** características del agua · remisión a otros temas
+
+"Las características particulares e importancia de las aguas oceánicas, subterráneas, fluviales y de otro tipo, serán vistas en los temas respectivos."
 
