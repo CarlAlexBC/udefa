@@ -3,10 +3,10 @@
 **Materia:** **cinco planteles** piden esta unidad del mismo libro, con cuatro
 claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM y EMOS),
 `FIS-02-2026` (EMA) y `FÍS-02-2026` (EMMA).
-**Unidad del libro:** Unidad 5. Dinámica → los temas 1, 2, 3, 4, 5, 6, 8, 10, 13,
-16 y 17.
-**Falta escribir** el tema 7 (Trabajo mecánico, pp. 184–188), que pide **sólo la
-EMMA**.
+**Unidad del libro:** Unidad 5. Dinámica → los temas 1, 2, 3, 4, 5, 6, 7, 8, 10,
+13, 16 y 17.
+**No falta ninguno:** con el tema 7 (14 ago 2026) la unidad queda **COMPLETA para
+los cinco planteles que la piden**, incluida la EMMA.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Quién lo pide es cosa del temario, y **ningún
@@ -20,7 +20,7 @@ EMMA**.
 > | 4 · Satélites naturales y artificiales | — | — | — | — | **sí ✓** |
 > | 5 · Estática | sí | — | — | — | **sí** |
 > | 6 · Fricción | — | — | — | sí | — |
-> | 7 · Trabajo mecánico | — | — | — | — | **sí — falta escribir** |
+> | 7 · Trabajo mecánico | — | — | — | — | **sí ✓** |
 > | 8 · Energía | sí | sí | sí | sí | sí |
 > | 10 · Sustentabilidad y contaminación | — | — | sí | — | — |
 > | 13 · Cantidad de movimiento o momento lineal | sí | sí | — | — | — |
@@ -32,8 +32,10 @@ EMMA**.
 > se parecen. De esta unidad la EMA (`FIS-02-2026`) pide sólo los temas 6 y 8,
 > mientras la EMMA (`FÍS-02-2026`) pide **1, 2, 3, 4, 5, 7 y 8** — o sea, pide el
 > tema **1** (escrito ese día en el sub-lote 28) y los temas **4 y 7**, que no
-> pedía nadie más. El **4 quedó cerrado** el mismo día (sub-lotes 29 a 33, 144
-> reactivos); **falta sólo el 7**. Leído de los PDF de cada plantel.
+> pedía nadie más. Los tres quedaron escritos ese mismo día: el **1** en el
+> sub-lote 28, el **4** en los sub-lotes 29 a 33 (144 reactivos) y el **7** en el
+> sub-lote 34, con lo que la unidad quedó completa. Leído de los PDF de cada
+> plantel.
 >
 > **Trampa verificada el 24 jul 2026:** la clave `FG-03-2026` aparece en el PDF
 > de la EMM **y** en el de la EMOS, pero **las dos listas de temas son
@@ -71,6 +73,9 @@ cada tramo, nunca se calculó:
   "158" y contiene el arranque de SATÉLITES NATURALES Y ARTIFICIALES
   (170 − 158 = 12); la hoja 177 muestra "165", donde el tema termina y arranca
   ESTÁTICA.
+- **Tramo del tema 7 (pp. 184–186): desfase = 13.** La hoja 197 muestra impreso
+  "184" y contiene el arranque de TRABAJO MECÁNICO (197 − 184 = 13), el mismo
+  desfase de los tramos vecinos (temas 6 y 8).
 - **Tramo del tema 2 (pp. 140–150): desfase = 12.** La hoja 152 muestra impreso
   "140" y contiene el tema 2 (152 − 140 = 12).
 - **Tramo del tema 3 (pp. 151–157): desfase = 12.** La hoja 163 muestra impreso
@@ -145,6 +150,14 @@ reactivo 2. La página de cada referencia se **lee** de la esquina de la hoja.
   *Apolo* y las ocho consideraciones sobre los viajes a la Luna). **Fuera por
   norma:** el cuadro 5.1 de velocidades circulares y parabólicas por altura, por
   ser tabla de datos, igual que los cuadros de coeficientes de la Unidad 11.
+- **Sub-lote 34 · Trabajo mecánico (pp. 184–186)** — tema 7; 21 reactivos,
+  añadidos el 14 ago 2026 para la **EMMA** (`FÍS-02`), único plantel que lo pide.
+  De la p. 184 sale toda la teoría (definición, T = Fd cos θ, el joule y el
+  producto escalar); de las pp. 185–186 sólo las **conclusiones generales** que el
+  libro marca en rojo (a menor ángulo mayor trabajo, trabajo cero a 90°, la
+  independencia respecto de la longitud de la escalera, sostener sin desplazar no
+  es trabajo, y el signo negativo del trabajo de la fricción), con el mismo
+  criterio que en la p. 73 de la Unidad 4. Las pp. 187–188 son cálculo puro.
 
 **Fuera del temario, no se tocan** aunque caigan en las mismas páginas: los temas
 14 (Relación entre el impulso y la cantidad de movimiento) y 15 (Choque elástico
@@ -7123,6 +7136,344 @@ En relación con el libro de Física, ¿cómo se realiza el descenso final a la 
 
 <Por último, el descenso final a la superficie terrestre se realiza por medio de paracaídas, aprovechando la resistencia de la atmósfera.>
 
+## Sub-lote 34 · Trabajo mecánico (pp. 184–186) — tema 7
+
+### 427
+
+De acuerdo con el libro de Física, ¿qué es el trabajo desde el punto de vista de la Física?
+
+- A. Una magnitud escalar producida sólo cuando una fuerza mueve un cuerpo en la misma dirección en que se aplica.
+- B. Una magnitud vectorial producida sólo cuando una fuerza mueve un cuerpo en la misma dirección en que se aplica.
+- C. Una magnitud escalar producida siempre que se aplica una fuerza a un cuerpo.
+- D. Una magnitud escalar producida cuando una fuerza mueve un cuerpo en dirección perpendicular a la que se aplica.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 184
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<El trabajo es una magnitud escalar producida sólo cuando una fuerza mueve un cuerpo en la misma dirección en que se aplica.>
+
+### 428
+
+De conformidad con el libro de Física, ¿cómo se calcula su valor?
+
+- A. Multiplicando la magnitud de la componente de la fuerza localizada en la misma dirección en que se efectúa el movimiento del cuerpo, por la magnitud del desplazamiento que éste realiza.
+- B. Dividiendo la magnitud de la componente de la fuerza entre la magnitud del desplazamiento que el cuerpo realiza.
+- C. Multiplicando la magnitud total de la fuerza aplicada por el tiempo que dura aplicada.
+- D. Multiplicando la masa del cuerpo por la magnitud del desplazamiento que realiza.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 184
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<Su valor se calcula multiplicando la magnitud de la componente de la fuerza localizada en la misma dirección en que se efectúa el movimiento del cuerpo, por la magnitud del desplazamiento que éste realiza.>
+
+### 429
+
+En relación con el libro de Física, ¿de qué manera es común expresar el trabajo?
+
+- A. T = Fd cos θ
+- B. T = Fd sen θ
+- C. T = F/d cos θ
+- D. T = Fdt cos θ
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 184
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<Es común expresar el trabajo de la siguiente manera: T = Fd cos θ.>
+
+### 430
+
+De acuerdo con el libro de Física, ¿en qué unidades se expresa el trabajo realizado?
+
+- A. En Nm = joule = J.
+- B. En N/m = joule = J.
+- C. En Nm = newton = N.
+- D. En kg m = joule = J.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 184
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<Donde: T = trabajo realizado en Nm = joule = J.>
+
+### 431
+
+De conformidad con el libro de Física, ¿qué representa F cos θ en esa expresión?
+
+- A. La magnitud de la componente de la fuerza en la dirección del movimiento en newtons (N).
+- B. La magnitud de la componente de la fuerza perpendicular al movimiento en newtons (N).
+- C. La magnitud del desplazamiento en la dirección de la fuerza en metros (m).
+- D. La magnitud total de la fuerza aplicada en newtons (N).
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 184
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<F cos θ = magnitud de la componente de la fuerza en la dirección del movimiento en newtons (N).>
+
+### 432
+
+En relación con el libro de Física, ¿qué representa la d en esa expresión?
+
+- A. La magnitud del desplazamiento en metros (m).
+- B. La magnitud de la densidad en kilogramos por metro cúbico.
+- C. La distancia recorrida en centímetros (cm).
+- D. La duración del movimiento en segundos (s).
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 184
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<d = magnitud del desplazamiento en metros (m).>
+
+### 433
+
+De acuerdo con el libro de Física, si la fuerza que mueve el cuerpo se encuentra totalmente en la misma dirección en que se efectúa el desplazamiento, ¿cuánto valen el ángulo θ y el cos θ?
+
+- A. El ángulo θ es igual a cero y el cos θ = cos 0° = 1.
+- B. El ángulo θ es igual a cero y el cos θ = cos 0° = 0.
+- C. El ángulo θ es igual a 90° y el cos θ = cos 90° = 1.
+- D. El ángulo θ es igual a 30° y el cos θ = cos 30° = 0.8660.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 184
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<Si la fuerza que mueve el cuerpo se encuentra totalmente en la misma dirección en que se efectúa el desplazamiento, el ángulo θ es igual a cero y el cos θ = cos 0° = 1.>
+
+### 434
+
+De conformidad con el libro de Física, en ese caso, ¿a qué será igual el trabajo?
+
+- A. T = Fd
+- B. T = F/d
+- C. T = Fd cos θ
+- D. T = 0
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 184
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<Donde el trabajo será igual a: T = Fd.>
+
+### 435
+
+En relación con el libro de Física, ¿cuándo se realiza un trabajo de un joule?
+
+- A. Cuando al aplicar una fuerza cuya magnitud es de un newton a un cuerpo, éste se desplaza un metro.
+- B. Cuando al aplicar una fuerza cuya magnitud es de un newton a un cuerpo, éste se desplaza un centímetro.
+- C. Cuando al aplicar una fuerza cuya magnitud es de un kilogramo-fuerza a un cuerpo, éste se desplaza un metro.
+- D. Cuando al aplicar una fuerza cuya magnitud es de un newton a un cuerpo, éste permanece un segundo en reposo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 184
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<Se realiza un trabajo de un joule (1 J) cuando al aplicar una fuerza cuya magnitud es de un newton a un cuerpo, éste se desplaza un metro.>
+
+### 436
+
+De acuerdo con el libro de Física, ¿a qué equivale entonces 1 J?
+
+- A. 1 J = Nm
+- B. 1 J = N/m
+- C. 1 J = Nm²
+- D. 1 J = N/s
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 184
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<De donde: 1 J = Nm.>
+
+### 437
+
+De conformidad con el libro de Física, ¿cómo se obtiene la magnitud física llamada trabajo mecánico?
+
+- A. Como resultado del producto escalar de dos vectores: fuerza y desplazamiento.
+- B. Como resultado del producto vectorial de dos vectores: fuerza y desplazamiento.
+- C. Como resultado de la suma de dos vectores: fuerza y desplazamiento.
+- D. Como resultado del cociente de dos vectores: fuerza y desplazamiento.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 184
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<El trabajo mecánico es la magnitud física que se obtiene como resultado del producto escalar de dos vectores: fuerza (F) y desplazamiento (d).>
+
+### 438
+
+En relación con el libro de Física, ¿qué sucede con el trabajo a medida que la fuerza se aplica cada vez con un ángulo menor respecto al desplazamiento del bloque?
+
+- A. La fuerza realiza un mayor trabajo.
+- B. La fuerza realiza un menor trabajo.
+- C. El trabajo permanece constante.
+- D. El trabajo se vuelve negativo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 185
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<Como se observa, la fuerza realiza un mayor trabajo a medida que se aplica cada vez con un ángulo menor respecto al desplazamiento del bloque.>
+
+### 439
+
+De acuerdo con el libro de Física, ¿cuándo se obtiene el mayor trabajo?
+
+- A. Cuando la dirección en que se aplica la fuerza es la misma que tiene el desplazamiento (θ = 0°).
+- B. Cuando la dirección en que se aplica la fuerza es perpendicular al desplazamiento (θ = 90°).
+- C. Cuando la fuerza se aplica con un ángulo de 30° respecto al desplazamiento.
+- D. Cuando la fuerza se aplica en sentido contrario al desplazamiento.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 185
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<El mayor trabajo se obtiene cuando la dirección en que se aplica la fuerza es la misma que tiene el desplazamiento (θ = 0°).>
+
+### 440
+
+De conformidad con el libro de Física, si se aplica la fuerza con un ángulo de 90°, ¿cuánto valdrá el trabajo realizado?
+
+- A. Cero, toda vez que cos 90° = 0.
+- B. El máximo posible, toda vez que cos 90° = 1.
+- C. La mitad del trabajo máximo, toda vez que cos 90° = 0.5.
+- D. Un valor negativo, toda vez que cos 90° = −1.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 185
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<Y, por tanto, el trabajo realizado será cero, toda vez que cos 90° = 0.>
+
+### 441
+
+En relación con el libro de Física, ¿por qué ocurre eso al aplicar la fuerza con un ángulo de 90°?
+
+- A. Porque su dirección es perpendicular al desplazamiento del bloque.
+- B. Porque su dirección es la misma que la del desplazamiento del bloque.
+- C. Porque su dirección es contraria al desplazamiento del bloque.
+- D. Porque la fuerza deja de actuar sobre el bloque.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 185
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<Si aplicamos la fuerza con un ángulo de 90°, su dirección es perpendicular al desplazamiento del bloque.>
+
+### 442
+
+De acuerdo con el libro de Física, ¿de qué es independiente el trabajo necesario para que la niña suba una altura de 12 m?
+
+- A. De la longitud o de la inclinación de la escalera.
+- B. De la magnitud de su peso.
+- C. De la altura que alcanzará el cuerpo.
+- D. De la fuerza que se efectuará verticalmente hacia arriba.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 185
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<El trabajo necesario para que la niña suba una altura de 12 m es independiente de la longitud o de la inclinación de la escalera.>
+
+### 443
+
+De conformidad con el libro de Física, ¿qué es lo único importante desde el punto de vista físico en ese caso?
+
+- A. La fuerza que se efectuará verticalmente hacia arriba y la altura que alcanzará el cuerpo.
+- B. La longitud de la escalera y el tiempo empleado en subirla.
+- C. La inclinación de la escalera y la masa del cuerpo.
+- D. La velocidad con que se sube y la altura que alcanzará el cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 185
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<Pues desde el punto de vista físico lo único importante es la fuerza que se efectuará verticalmente hacia arriba y la altura que alcanzará el cuerpo.>
+
+### 444
+
+En relación con el libro de Física, si alguien mantiene una pesa a la misma altura y camina sobre el suelo 2 m, ¿realiza trabajo?
+
+- A. No realiza ningún trabajo, ya que éste se produce sólo cuando un cuerpo se mueve en la misma dirección en que actúa la fuerza.
+- B. Sí realiza trabajo, ya que se desplaza una distancia de 2 m.
+- C. Sí realiza trabajo, pero de magnitud negativa.
+- D. No realiza ningún trabajo, ya que la pesa no cambia de masa.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 186
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<No realiza ningún trabajo, ya que éste se produce sólo cuando un cuerpo se mueve en la misma dirección en que actúa la fuerza.>
+
+### 445
+
+De acuerdo con el libro de Física, ¿por qué no existe componente de la fuerza en la dirección del desplazamiento en ese caso?
+
+- A. Porque la fuerza para sostener la pesa actúa verticalmente hacia arriba y el desplazamiento es horizontal.
+- B. Porque la fuerza para sostener la pesa actúa horizontalmente y el desplazamiento es vertical.
+- C. Porque el peso de la pesa está dirigido verticalmente hacia arriba.
+- D. Porque la fuerza aplicada es igual a cero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 186
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<Así, como el peso de la pesa está dirigido verticalmente hacia abajo, la fuerza para sostenerlo actúa verticalmente hacia arriba y como el desplazamiento es horizontal no existe componente de la fuerza en la dirección del desplazamiento.>
+
+### 446
+
+De conformidad con el libro de Física, ¿qué se necesita entonces para realizar trabajo?
+
+- A. Levantar más la pesa.
+- B. Caminar una distancia mayor con la pesa.
+- C. Sostener la pesa durante más tiempo.
+- D. Aumentar la masa de la pesa.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 186
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<Por tanto, para realizar trabajo se necesita levantar más la pesa.>
+
+### 447
+
+En relación con el libro de Física, ¿por qué es negativo el signo del trabajo realizado por la fuerza de fricción dinámica?
+
+- A. Porque se realiza en sentido contrario al desplazamiento.
+- B. Porque se realiza en la misma dirección del desplazamiento.
+- C. Porque la fuerza de fricción es perpendicular al desplazamiento.
+- D. Porque la fuerza de fricción no produce ningún trabajo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 186
+**Tema:** U5 t7 · trabajo mecánico
+**Subtema:** física · dinámica
+
+<El signo del trabajo es negativo porque se realiza en sentido contrario al desplazamiento.>
+
 ---
 
-**Reactivos en este archivo:** 426
+**Reactivos en este archivo:** 447
