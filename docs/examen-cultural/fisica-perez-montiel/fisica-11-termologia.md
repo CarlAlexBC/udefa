@@ -103,6 +103,14 @@ distractores salen del mismo párrafo. La correcta va **siempre en A** (el
 importador baraja). Numeración corrida sin reiniciar. Sólo teoría: se saltan
 todos los "Ejercicios", "Problemas" y ejemplos resueltos del libro.
 
+## Erratas del libro — no se escriben reactivos sobre ellas
+
+- **p. 363, "expanderse"** (por *expandirse*): el libro imprime "Al expanderse un
+  gas el volumen final es mayor al inicial". Verificado en la hoja renderizada, no
+  es suciedad del escaneo. El reactivo 181 pregunta por el contenido —volumen final
+  y signo del trabajo— y la cita se recorta con `[...]` para no fijar la grafía
+  incorrecta en el aspirante.
+
 ---
 
 ## Sub-lote 1 · Diferencia entre calor y temperatura (p. 332, 334–335)
@@ -2744,6 +2752,440 @@ En relación con el libro de Física, ¿por qué sólo se determina la variació
 
 <Sin embargo, los valores absolutos de ésta en las moléculas no se pueden precisar, motivo por el cual sólo se determina la variación que sufre la energía interna del sistema.>
 
+## Sub-lote 15 · Ley cero, equivalente mecánico del calor y primera ley (pp. 362–363) — tema 13
+
+### 162
+
+De acuerdo con el libro de Física, según la figura 11.22, si los sistemas A y B están en equilibrio termodinámico con el sistema C, ¿qué sucede?
+
+- A. Los sistemas A y B se encuentran en equilibrio termodinámico entre sí.
+- B. Los sistemas A y B se encuentran a temperaturas distintas entre sí.
+- C. El sistema C cede calor a los sistemas A y B.
+- D. Los tres sistemas quedan aislados por paredes adiabáticas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 362
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Si los sistemas A y B están en equilibrio termodinámico con el sistema C, entonces los sistemas A y B se encuentran en equilibrio termodinámico entre sí.>
+
+### 163
+
+De conformidad con el libro de Física, ¿qué nos explica la ley cero de la termodinámica?
+
+- A. Que cuando un sistema se pone en contacto térmico con otros, al transcurrir el tiempo la temperatura será la misma, porque se encontrarán en equilibrio térmico.
+- B. Que cuando un sistema se pone en contacto térmico con otros, sus temperaturas se mantienen distintas de manera indefinida.
+- C. Que la energía no se crea ni se destruye, sólo se transforma.
+- D. Que el calor no puede pasar por sí mismo de un cuerpo frío a uno caliente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 362
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Esta ley nos explica que cuando un sistema se pone en contacto térmico con otros, al transcurrir el tiempo la temperatura será la misma, porque se encontrarán en equilibrio térmico.>
+
+### 164
+
+En relación con el libro de Física, ¿cuál es otra forma de expresar la ley cero de la termodinámica?
+
+- A. La temperatura es una propiedad que tiene cualquier sistema termodinámico y existirá equilibrio térmico entre dos sistemas cualesquiera, si su temperatura es la misma.
+- B. La temperatura es una propiedad exclusiva de los sistemas aislados por paredes adiabáticas.
+- C. La variación en la energía interna de un sistema es igual a la energía transferida en forma de calor y de trabajo.
+- D. El calor cedido es igual al calor absorbido en cualquier intercambio.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 362
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La temperatura es una propiedad que tiene cualquier sistema termodinámico y existirá equilibrio térmico entre dos sistemas cualesquiera, si su temperatura es la misma.>
+
+### 165
+
+De acuerdo con el libro de Física, ¿quién propuso a fines del siglo XVIII que el calentamiento causado por la fricción se debía a la transformación de la energía mecánica en térmica?
+
+- A. Benjamin Thompson, conde de Rumford.
+- B. James Prescott Joule, industrial cervecero.
+- C. Isaac Newton.
+- D. Galileo Galilei.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 362
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Fue a fines del siglo XVIII cuando Benjamin Thompson, conde de Rumford, propuso que el calentamiento causado por la fricción se debía a la transformación de la energía mecánica en térmica.>
+
+### 166
+
+De conformidad con el libro de Física, ¿qué desechó con ello?
+
+- A. La Teoría del Calórico.
+- B. La ley de la conservación de la energía.
+- C. La teoría cinética de los gases.
+- D. El equivalente mecánico del calor.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 362
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Con ello desechó la Teoría del Calórico.>
+
+### 167
+
+En relación con el libro de Física, ¿quién continuó los estudios de Thompson?
+
+- A. El inglés James Prescott Joule, industrial cervecero.
+- B. El inglés James Prescott Joule, médico militar.
+- C. El francés Benjamin Thompson, conde de Rumford.
+- D. El alemán Rudolf Clausius, ingeniero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 362
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El inglés James Prescott Joule, industrial cervecero, continuó los estudios de Thompson.>
+
+### 168
+
+De acuerdo con el libro de Física, ¿qué comprobó a mediados del siglo XIX?
+
+- A. Que siempre que se realiza una cierta cantidad de trabajo se produce una cantidad equivalente de calor.
+- B. Que siempre que se realiza una cierta cantidad de trabajo se destruye una cantidad equivalente de calor.
+- C. Que el calor y el trabajo son magnitudes independientes entre sí.
+- D. Que el calor es una sustancia llamada calórico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 362
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Y a mediados del siglo XIX comprobó que siempre que se realiza una cierta cantidad de trabajo se produce una cantidad equivalente de calor.>
+
+### 169
+
+De conformidad con el libro de Física, según el equivalente mecánico del calor, ¿cuántas calorías se producen por cada joule de trabajo?
+
+- A. 0.24 calorías.
+- B. 4.2 calorías.
+- C. 0.42 calorías.
+- D. 2.4 calorías.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 362
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En el cual se demuestra que por cada joule de trabajo se producen 0.24 calorías.>
+
+### 170
+
+En relación con el libro de Física, ¿cuántos joules se obtienen cuando una caloría de energía térmica se convierte en trabajo?
+
+- A. 4.2 joules.
+- B. 0.24 joules.
+- C. 2.4 joules.
+- D. 42 joules.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 362
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Y que cuando una caloría de energía térmica se convierte en trabajo se obtienen 4.2 joules.>
+
+### 171
+
+De acuerdo con el libro de Física, ¿por qué se siguen utilizando ampliamente la caloría y el BTU?
+
+- A. Pues son precisas y resultan prácticas al resolver problemas.
+- B. Pues son las únicas unidades aceptadas por el Sistema Internacional.
+- C. Pues son más modernas que el joule.
+- D. Pues no pueden convertirse a otras unidades.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 362
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Aunque la caloría y el BTU son unidades de calor creadas antes de aceptar que el calor es energía, aún se utilizan ampliamente, pues son precisas y resultan prácticas al resolver problemas.>
+
+### 172
+
+De conformidad con el libro de Física, ¿qué se debe aplicar para comprimir el gas encerrado en el cilindro?
+
+- A. Una fuerza al émbolo, el cual al recorrer una cierta distancia disminuirá el volumen del gas.
+- B. Una fuerza al émbolo, el cual al recorrer una cierta distancia aumentará el volumen del gas.
+- C. Calor al cilindro, para que el gas se expanda.
+- D. Una pared adiabática alrededor del cilindro.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 362
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Para comprimir el gas se debe aplicar una fuerza al émbolo, el cual al recorrer una cierta distancia disminuirá el volumen del gas, realizando un trabajo de compresión.>
+
+### 173
+
+En relación con el libro de Física, ¿cómo se llama el proceso en el que un gas se comprime o expande a presión constante?
+
+- A. Proceso isobárico.
+- B. Proceso isocórico.
+- C. Proceso adiabático.
+- D. Proceso isotérmico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 362
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Cuando un gas se comprime o expande a presión constante (proceso isobárico), el trabajo realizado se calcula con la expresión: W = P (Vf − Vi), o bien, W = PΔV.>
+
+### 174
+
+De acuerdo con el libro de Física, ¿en qué unidades se expresa la presión constante del gas en esa fórmula?
+
+- A. En N/m².
+- B. En N/m.
+- C. En atmósferas.
+- D. En joules.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<P = presión constante del gas en N/m².>
+
+### 175
+
+De conformidad con el libro de Física, ¿en qué unidades se expresa la variación de volumen en el gas?
+
+- A. En metros cúbicos (m³).
+- B. En centímetros cúbicos (cm³).
+- C. En litros.
+- D. En newtons por metro cuadrado.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Vf − Vi = variación de volumen en el gas en metros cúbicos (m³).>
+
+### 176
+
+En relación con el libro de Física, al efectuarse un trabajo de compresión, ¿en qué se transforma éste?
+
+- A. Íntegramente en calor del sistema.
+- B. Íntegramente en energía mecánica de los alrededores.
+- C. Parcialmente en calor y parcialmente en masa.
+- D. En nada, pues el trabajo de compresión es siempre cero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Al efectuarse un trabajo de compresión, éste se transforma íntegramente en calor del sistema.>
+
+### 177
+
+De acuerdo con el libro de Física, ¿por qué ocurre eso?
+
+- A. Porque comunica al gas una energía adicional que aumenta la energía interna de sus moléculas elevando la temperatura.
+- B. Porque comunica al gas una energía adicional que disminuye la energía interna de sus moléculas.
+- C. Porque el émbolo cede calor al gas por conducción.
+- D. Porque el volumen del gas permanece constante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Porque comunica al gas una energía adicional que aumenta la energía interna de sus moléculas elevando la temperatura.>
+
+### 178
+
+De conformidad con el libro de Física, en la compresión de un gas, ¿cómo es el volumen final y qué signo tiene el trabajo realizado?
+
+- A. El volumen final es menor al inicial y el trabajo realizado es negativo.
+- B. El volumen final es mayor al inicial y el trabajo realizado es negativo.
+- C. El volumen final es menor al inicial y el trabajo realizado es positivo.
+- D. El volumen final es igual al inicial y el trabajo es cero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En la compresión de un gas, el volumen final es menor al inicial, por tanto, el trabajo realizado es negativo.>
+
+### 179
+
+En relación con el libro de Física, ¿qué se dice en ese caso?
+
+- A. Que se efectuó un trabajo de los alrededores sobre el sistema.
+- B. Que se efectuó un trabajo del sistema sobre los alrededores.
+- C. Que no se efectuó ningún trabajo.
+- D. Que el sistema quedó aislado de los alrededores.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Y se dice que se efectuó un trabajo de los alrededores sobre el sistema.>
+
+### 180
+
+De acuerdo con el libro de Física, en un trabajo de expansión producido gracias a la energía interna de las moléculas del gas, ¿qué ocurre con la temperatura del sistema?
+
+- A. Disminuye.
+- B. Aumenta.
+- C. Permanece constante.
+- D. Aumenta primero y luego disminuye.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En un trabajo de expansión producido gracias a la energía interna de las moléculas del gas, la temperatura del sistema disminuye.>
+
+### 181
+
+De conformidad con el libro de Física, al expandirse un gas, ¿cómo es el volumen final y qué signo tiene el trabajo?
+
+- A. El volumen final es mayor al inicial y el trabajo es positivo.
+- B. El volumen final es menor al inicial y el trabajo es positivo.
+- C. El volumen final es mayor al inicial y el trabajo es negativo.
+- D. El volumen final es igual al inicial y el trabajo es cero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Al [...] el volumen final es mayor al inicial y, por tanto, el trabajo es positivo.>
+
+### 182
+
+En relación con el libro de Física, ¿qué realiza entonces el sistema?
+
+- A. Un trabajo sobre los alrededores.
+- B. Un trabajo de los alrededores sobre sí mismo.
+- C. Un intercambio de masa con los alrededores.
+- D. Ningún trabajo, pues el proceso es adiabático.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Entonces el sistema realiza un trabajo sobre los alrededores.>
+
+### 183
+
+De acuerdo con el libro de Física, ¿cómo se llama el proceso en el que el volumen del sistema permanece constante?
+
+- A. Proceso isocórico.
+- B. Proceso isobárico.
+- C. Proceso adiabático.
+- D. Proceso de sublimación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Cuando en un proceso el volumen del sistema permanece constante (proceso isocórico).>
+
+### 184
+
+De conformidad con el libro de Física, ¿qué trabajo se realiza en ese proceso?
+
+- A. No se realiza ningún trabajo por el sistema ni sobre éste.
+- B. Se realiza un trabajo positivo del sistema sobre los alrededores.
+- C. Se realiza un trabajo negativo de los alrededores sobre el sistema.
+- D. Se realiza el máximo trabajo posible.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<No se realiza ningún trabajo por el sistema ni sobre éste, ya que ΔV = 0.>
+
+### 185
+
+En relación con el libro de Física, ¿qué se demostró con el descubrimiento hecho por Joule acerca del equivalente mecánico del calor?
+
+- A. Que la energía mecánica se convierte en energía térmica cuando por fricción aumenta la energía interna de un cuerpo.
+- B. Que la energía mecánica y la energía térmica no pueden convertirse una en otra.
+- C. Que el calor es una sustancia que se conserva en los cuerpos.
+- D. Que la energía interna de un cuerpo puede medirse en valores absolutos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Se demostró que la energía mecánica se convierte en energía térmica cuando por fricción aumenta la energía interna de un cuerpo.>
+
+### 186
+
+De acuerdo con el libro de Física, ¿qué ley ha sido posible establecer claramente con esto?
+
+- A. La ley de la conservación de la energía.
+- B. La ley del intercambio de calor.
+- C. La ley cero de la termodinámica.
+- D. La ley de la gravitación universal.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Con esto, ha sido posible establecer claramente la ley de la conservación de la energía.>
+
+### 187
+
+De conformidad con el libro de Física, ¿qué dice la primera ley de la termodinámica?
+
+- A. La variación en la energía interna de un sistema es igual a la energía transferida a los alrededores o por ellos en forma de calor y de trabajo.
+- B. La variación en la energía interna de un sistema es siempre igual a cero.
+- C. El calor cedido por un sistema es igual al calor absorbido por otro.
+- D. La energía interna de un sistema depende únicamente de su temperatura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La variación en la energía interna de un sistema es igual a la energía transferida a los alrededores o por ellos en forma de calor y de trabajo, por lo que la energía no se crea ni se destruye, sólo se transforma.>
+
+### 188
+
+En relación con el libro de Física, ¿cómo se expresa matemáticamente la primera ley de la termodinámica?
+
+- A. ΔU = Q − W
+- B. ΔU = Q + W
+- C. ΔU = W − Q
+- D. ΔU = QW
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 363
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Matemáticamente, la primera ley de la termodinámica se expresa como: ΔU = Q − W.>
+
 ---
 
-**Reactivos en este archivo:** 161
+**Reactivos en este archivo:** 188
