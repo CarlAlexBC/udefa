@@ -37,6 +37,7 @@ Sí entran, por ser dato nuevo: la **Fosa de las Marianas** (10,924 m), el **des
 ## Erratas del libro
 
 - **p.142 — "la biósfera contituye", falta la *s*.** El libro escribe *"podemos decir que la biósfera **con-tituye** en su conjunto un enorme sistema ecológico"* (partido a fin de renglón). Debe decir **constituye**. Verificado con `crop.py` a 600 dpi: la palabra está impresa así, no es suciedad del escaneo. **El dato de fondo es correcto**; el reactivo 73 la cita como está impresa, pero la opción correcta **no depende de la grafía** — mismo trato que "clorofluocarbonos" en la Unidad I y "dentro de Círculo Polar Antártico" en la Unidad III.
+- **p.143 — "thorio" por "torio".** Al enlistar los elementos radioactivos el libro escribe *"(plutonio, radio, **thorio**, uranio y otros)"*. En español el elemento se escribe **torio**; la *h* es calco de la grafía inglesa (*thorium*) y del símbolo Th. Verificado con `crop.py` a 600 dpi. **El dato de fondo es correcto** —el torio sí es radioactivo—; el reactivo 90 cita la lista como está impresa y **la opción correcta no depende de la grafía**: los distractores cambian de elemento, no de ortografía.
 
 ## Criterio de este capítulo
 
@@ -54,8 +55,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **141**: el **4.5.3 Importancia de las formas del relieve continental** completo — la importancia para la vida vegetal y animal y para las actividades humanas, la influencia determinante sobre el clima, la hidrografía, la vegetación y la fauna, el asentamiento preferente en las **llanuras de las zonas templadas y las mesetas de la zona tórrida** con sus razones, el reparto de la población (**95%** a menos de 500 m, **3%** entre 500 y 1,000 m, **2%** a más de 1,000 m), la población casi nula por encima de los **4,000 m** con los ejemplos de **Cerro de Pasco** (4,259 m, Perú) y **Potosí** (4,040, Bolivia) en regiones forestales y mineras, **Wenchuan** como la ciudad más elevada del mundo (5,100 m, provincia china de Tsinghai, junto a la carretera Tsinghai-Tibet y la cordillera de Tanggula) comparada con el **Iztaccíhuatl** (5,286 m), y los dos centros de población mexicanos más altos: **Raíces** (ranchería a 3,500 m en las faldas del Nevado de Toluca) y **El Conejo** (municipio de Perote, Veracruz, a unos 3,300 m). **Con esta página queda CERRADO el tema 4.5.** **Todas las cifras de la página se verificaron con `crop.py` a 600 dpi.** **La mitad inferior de la página es un bloque de ejercicios** ("Escribe en los paréntesis de la derecha las letras que señalen la respuesta correcta") y no lleva reactivos por norma.
 
 - Cubierta la página impresa **142**: el arranque del **4.6** con el **Concepto de contaminación ambiental** — el fenómeno que trajo aparejado la moderna civilización urbana e industrial y sus tres efectos (alterar el equilibrio ecológico, perjudicar a plantas y animales y poner en peligro la existencia de la especie humana), la **definición del recuadro** ("todo agente extraño que altera desfavorablemente su equilibrio"), la biósfera como **sistema ecológico abierto para la energía y cerrado para la materia** (la energía viene del Sol; la materia siempre es la misma salvo caídas de aerolitos y emisiones volcánicas), el **reciclaje constante** de las sustancias químicas y las selvas ecuatoriales como ejemplo, lo que estorba las sustancias no asimilables, y la **Figura 4.26** (fábricas y vehículos). La Figura 4.25 es fotografía y no lleva reactivo. **Una errata nueva del libro quedó documentada y sin afectar a la respuesta:** "la biósfera *contituye*". El inciso c) arranca al pie de la página pero **queda cortado a media palabra**, así que se trabaja entero en la p.143.
+- Cubierta la página impresa **143**: el cierre del inciso c) (el «algo fuera de lugar» que interfiere el normal desarrollo de los procesos vitales) y la **Clasificación de la contaminación ambiental** completa — por el **factor que la produce** (acústica, orgánica, química y radioactiva, cada una con su causa: los ruidos de vehículos, aparatos y máquinas; los desechos de plantas, animales y seres humanos, menos dañinos por biodegradables; la fabricación masiva de desechables no biodegradables como aluminio, vidrio y plásticos; y los elementos radioactivos, casi exclusiva de los siglos **XX y XXI** por los modernos estudios sobre el átomo), la aclaración de que la **proliferación de una especie es plaga y no contaminación**, y la clasificación por el **medio en que se produce** (suelo y subsuelo, agua y aire, con las dos últimas en las unidades V y VI). **Otra errata del libro quedó documentada y sin afectar a la respuesta:** "thorio" por *torio*. **La mitad inferior de la página es un bloque de ejercicios** ("Resuelve ahora las siguientes cuestiones") y no lleva reactivos por norma.
 
-**Pendiente:** EN CURSO. El tema **4.5 quedó CERRADO** (pp. 138–141). Sigue desde la **p.143** con el resto del **4.6 La contaminación ambiental** (pp. 143–150) —4.6.1 Concepto y clasificación (p.142), 4.6.2 Causas y consecuencias (p.144) y 4.6.3 La contaminación del suelo y el subsuelo (p.145)—, hasta cerrar en la **p.150**: la Unidad V empieza en la 151. Con el 4.6 se cierra la Unidad IV.
+**Pendiente:** EN CURSO. El tema **4.5 quedó CERRADO** (pp. 138–141). Sigue desde la **p.144** con el resto del **4.6 La contaminación ambiental** (pp. 144–150) —4.6.1 Concepto y clasificación (p.142), 4.6.2 Causas y consecuencias (p.144) y 4.6.3 La contaminación del suelo y el subsuelo (p.145)—, hasta cerrar en la **p.150**: la Unidad V empieza en la 151. Con el 4.6 se cierra la Unidad IV.
 
 ---
 
@@ -1298,4 +1300,233 @@ En relación con el libro de Geografía, según la Figura 4.26, ¿qué dos facto
 **Subtema:** contaminación ambiental · Figura 4.26
 
 "Figura 4.26 Dos factores de contaminación ambiental: fábricas y vehículos."
+
+## Sub-lote 6 · Clasificación de la contaminación ambiental (4.6.1, p. 143)
+
+### 82
+
+De acuerdo con el libro de Geografía, ¿qué hay en toda contaminación?
+
+- A. «Algo fuera de lugar» que está interfiriendo el normal desarrollo de los procesos vitales
+- B. «Algo de más» que está acelerando el desarrollo de los procesos vitales
+- C. «Algo que falta» y que impide el reciclaje de las sustancias químicas
+- D. «Algo ajeno» al sistema ecológico, pero que no altera su equilibrio
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · algo fuera de lugar
+
+"O sea, en toda contaminación hay «algo fuera de lugar» que está interfiriendo el normal desarrollo de los procesos vitales."
+
+### 83
+
+De conformidad con el libro de Geografía, de acuerdo con el factor que la produce, ¿cómo puede ser la contaminación ambiental?
+
+- A. Acústica, orgánica, química, radioactiva, etc.
+- B. Del suelo, del agua y del aire
+- C. Natural y artificial
+- D. Biodegradable y no biodegradable
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · clasificación por el factor
+
+"De acuerdo con el factor que la produce, la contaminación ambiental puede ser acústica, orgánica, química, radioactiva, etc."
+
+### 84
+
+En relación con el libro de Geografía, ¿a qué es debida la contaminación acústica?
+
+- A. A los ruidos producidos por los vehículos de combustión interna, los radios, televisores y otros aparatos productores de ruido, y las máquinas y herramientas industriales
+- B. A los desechos de plantas, animales y seres humanos
+- C. A la fabricación masiva de productos desechables
+- D. A la presencia de elementos radioactivos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · contaminación acústica
+
+"La contaminación acústica es debida a los ruidos producidos por los vehículos de combustión interna; los radios, televisores y otros aparatos productores de ruido [...]; las máquinas y herramientas industriales, etc."
+
+### 85
+
+De acuerdo con el libro de Geografía, ¿por qué es producida la contaminación orgánica?
+
+- A. Por los desechos de plantas, animales y seres humanos
+- B. Por los desechos de las fábricas y los vehículos
+- C. Por la fabricación masiva de productos desechables
+- D. Por los ruidos de las máquinas y herramientas industriales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · contaminación orgánica
+
+"La contaminación orgánica es producida por los desechos de plantas, animales y seres humanos."
+
+### 86
+
+De conformidad con el libro de Geografía, a pesar de haber existido siempre y en todas partes, ¿por qué la contaminación orgánica es menos dañina?
+
+- A. Porque los desechos orgánicos normalmente son biodegradables
+- B. Porque los desechos orgánicos se producen en pequeñas cantidades
+- C. Porque los desechos orgánicos no entran en el reciclaje de la biósfera
+- D. Porque los desechos orgánicos sólo afectan al suelo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · desechos biodegradables
+
+"A pesar de haber existido siempre y en todas partes, es menos dañina, ya que los desechos orgánicos normalmente son biodegradables."
+
+### 87
+
+En relación con el libro de Geografía, ¿a qué es debida la contaminación química?
+
+- A. A la fabricación masiva de productos desechables, muchos de ellos no biodegradables
+- B. A la fabricación masiva de productos desechables, todos ellos biodegradables
+- C. A los desechos de plantas, animales y seres humanos
+- D. A la presencia de elementos radioactivos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · contaminación química
+
+"La contaminación química es debida a la fabricación masiva de productos desechables, muchos de ellos no biodegradables."
+
+### 88
+
+De acuerdo con el libro de Geografía, ¿qué ejemplos de esos productos no biodegradables se dan?
+
+- A. Aluminio, vidrio y numerosas variedades de plásticos
+- B. Aluminio, papel y numerosas variedades de cartón
+- C. Vidrio, madera y numerosas variedades de plásticos
+- D. Plutonio, radio y uranio
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · productos no biodegradables
+
+"Muchos de ellos no biodegradables (aluminio, vidrio, numerosas variedades de plásticos)."
+
+### 89
+
+De conformidad con el libro de Geografía, ¿por qué es producida la contaminación radioactiva?
+
+- A. Por la presencia de elementos radioactivos
+- B. Por la fabricación masiva de productos desechables
+- C. Por los desechos de las plantas nucleares únicamente
+- D. Por los ruidos de las máquinas industriales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · contaminación radioactiva
+
+"La contaminación radioactiva, como su nombre lo indica, es producida por la presencia de elementos radioactivos."
+
+### 90
+
+En relación con el libro de Geografía, ¿qué elementos radioactivos se mencionan?
+
+- A. Plutonio, radio, thorio, uranio y otros
+- B. Plutonio, radio, plomo, uranio y otros
+- C. Plutonio, aluminio, thorio, uranio y otros
+- D. Radio, thorio, mercurio, uranio y otros
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · elementos radioactivos
+
+"Es producida por la presencia de elementos radioactivos (plutonio, radio, thorio, uranio y otros)."
+
+> Nota de revisor: el libro escribe **"thorio"**; en español el elemento se escribe **torio**. La cita va como está impresa y **la opción correcta no depende de la grafía** (los distractores cambian de elemento, no de ortografía). Ver "Erratas del libro" en el encabezado.
+
+### 91
+
+De acuerdo con el libro de Geografía, ¿de qué siglos es casi exclusiva la contaminación radioactiva y por qué surgió?
+
+- A. De los siglos XX y XXI, pues surgió sobre todo a raíz de los modernos estudios sobre el átomo
+- B. De los siglos XIX y XX, pues surgió sobre todo a raíz de la Revolución Industrial
+- C. De los siglos XX y XXI, pues surgió sobre todo a raíz de la fabricación de productos desechables
+- D. De todos los siglos, pues ha existido siempre y en todas partes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · siglos XX y XXI
+
+"Es casi exclusiva de los siglos XX y XXI, pues surgió sobre todo a raíz de los modernos estudios sobre el átomo."
+
+### 92
+
+De conformidad con el libro de Geografía, ¿por qué la excesiva proliferación de alguna especie vegetal o animal no puede considerarse, en rigor, contaminación ambiental?
+
+- A. Porque los seres vivos forman parte de los ecosistemas y las sustancias que los componen se están reciclando constantemente
+- B. Porque los seres vivos no alteran nunca el equilibrio de los ecosistemas
+- C. Porque las especies vegetales y animales son siempre biodegradables
+- D. Porque la proliferación de una especie no depende de la actividad humana
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · proliferación de especies
+
+"Es necesario aclarar que la excesiva proliferación de alguna especie vegetal o animal no puede, en rigor, considerarse contaminación ambiental, pues los seres vivos forman parte de los ecosistemas y las sustancias que los componen se están reciclando constantemente."
+
+### 93
+
+En relación con el libro de Geografía, en ese caso, ¿de qué podría hablarse?
+
+- A. De una plaga
+- B. De una contaminación orgánica
+- C. De un desequilibrio ecológico
+- D. De una contaminación biodegradable
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · la plaga
+
+"Podría, en todo caso, hablarse de una plaga."
+
+### 94
+
+De acuerdo con el libro de Geografía, de acuerdo con el medio en que se produce, ¿cómo puede ser la contaminación ambiental?
+
+- A. Del suelo y el subsuelo, del agua (acuática) y del aire (atmosférica)
+- B. Acústica, orgánica, química y radioactiva
+- C. Del suelo, del subsuelo y del agua únicamente
+- D. Del agua (acuática) y del aire (atmosférica) únicamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · clasificación por el medio
+
+"De acuerdo con el medio en que se produce, la contaminación ambiental puede ser del suelo y el subsuelo, del agua (acuática) y del aire (atmosférica)."
+
+### 95
+
+De conformidad con el libro de Geografía, ¿cuál de esas tres se estudia en esta unidad?
+
+- A. La del suelo y el subsuelo
+- B. La del agua (acuática)
+- C. La del aire (atmosférica)
+- D. Las tres por igual
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · alcance de la unidad
+
+"La primera será estudiada en esta unidad."
+
+### 96
+
+En relación con el libro de Geografía, ¿dónde se estudian las otras dos?
+
+- A. En las unidades V y VI, respectivamente
+- B. En las unidades VI y V, respectivamente
+- C. En las unidades III y IV, respectivamente
+- D. En la unidad V, ambas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 143
+**Subtema:** contaminación ambiental · unidades V y VI
+
+"Las otras dos en las unidades V y VI, respectivamente."
 
