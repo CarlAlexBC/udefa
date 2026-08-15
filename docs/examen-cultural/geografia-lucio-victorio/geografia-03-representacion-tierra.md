@@ -34,6 +34,10 @@ El 3.1 vuelve sobre medidas de la Tierra que la **Unidad II ya cubrió** desde e
 
 Mismo criterio que dejó anotado la Unidad II para las zonas térmicas y las estaciones del año, que reaparecen en el 3.2: cada reactivo cita la página de donde sale.
 
+## Erratas del libro
+
+- **p.83 — "-400 ms" por "-400 m".** Al dar la máxima altitud negativa, el cuerpo del texto escribe la unidad como `ms`; la **Figura 3.9 de esa misma página escribe `m`**, que es lo correcto (son metros). Verificado con recorte a 600 dpi: la `s` está impresa, no es suciedad del escaneo. **Es la misma errata que la Unidad II documentó en la p.66** ("15.24 ms" y "7.62 ms"), así que es un tic del libro, no un desliz aislado. El reactivo 90 usa **metros**, como la figura, y **no pregunta por la unidad**.
+
 ## Datos del libro que conviene revisar (para decisión de Carlo)
 
 - **p.78 — se repite la discrepancia del año trópico.** El inciso b) vuelve a escribir la traslación como "**365.2564 días** (365 días, 5 horas, 48 minutos y 46 segundos)", la misma mezcla ya documentada en la Unidad II (p.69): el desglose de horas equivale a **365.2422** días (el año trópico), mientras que **365.2564** es el año **sidéreo**. Es la tercera vez que el libro imprime esa combinación. **No se le escribe reactivo aquí**, porque el dato ya está trabajado en la Unidad II y porque sigue pendiente la decisión de Carlo sobre publicarlo como aviso al aspirante.
@@ -51,8 +55,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **80**: el arranque del **3.1.2 Círculos de la Tierra** — el **Ecuador** (etimología, circunferencia máxima, los hemisferios y su etimología, de él parten los mayores radios y diámetros, círculo de referencia), los **paralelos** (etimología, definición, de dónde viene su nombre, número infinito salvo en el Ecuador, la inclinación de 23°27' respecto de la eclíptica) y los **trópicos** (etimología griega, su trazado a 23°27' del Ecuador y 66°33' del polo, el origen de su nombre, y el **Trópico de Cáncer** con su ubicación y los países por los que pasa). Las Figuras 3.4, 3.5 y 3.6 son ilustraciones. **Dos datos de esta página NO llevan reactivo por estar ya preguntados en la Unidad II:** que el Ecuador mide 40,075.13 km (Cuadro 2.5, p.67) y el significado de *solsticio*, «el Sol se detiene» (nota al pie de la p.71). **Tampoco la nota al pie 3**, que explica el nombre de la *eclíptica* por los eclipses: es una remisión expresa al subtema 2.4.3 y ya tiene reactivo allá.
 - Cubierta la página impresa **81**: el cierre del **3.1.2** — el **Trópico de Capricornio** (ubicación y países), los **círculos polares** (definición, y que el Ártico es el del Hemisferio Boreal y el Antártico el del Meridional), los **meridianos** (definición, número infinito, longitud y los 67.27 km que les faltan para igualar al Ecuador), el acuerdo internacional de **1884** sobre Greenwich con los cuatro nombres del Primer Meridiano, el **Antimeridiano o Meridiano de 180°** que cruza el Pacífico, y la **nota al pie 4** con la etimología de *meridiano*. **La medida del meridiano (40,007.86 km) NO lleva reactivo:** ya la pregunta la Unidad II desde el Cuadro 2.5; sí entra en cambio la diferencia de 67.27 km, que es dato nuevo. **La mitad inferior de la página es un bloque de ejercicios** ("Resuelve ahora las siguientes cuestiones") y no lleva reactivos por norma.
 - Cubierta la página impresa **82**: el **3.1.3 Concepto e importancia de la situación geográfica** completo —la definición, el ejemplo del **Citlaltépetl o Pico de Orizaba** con sus tres niveles de localización y sus coordenadas, y las tres consecuencias que el libro enlista (el clima ecuatorial frente al de los 30° de latitud, los lugares bajos frente a los altos, y el mar como «termostato»)— y el **arranque del 3.1.4 Conceptos de latitud, longitud y altitud** (los tres datos necesarios y los complementarios). Las Figuras 3.7 y 3.8 son ilustraciones; la 3.7 rotula las mismas coordenadas que el texto.
+- Cubierta la página impresa **83**: el cierre del **3.1.4** — la **latitud** (definición, recorrido de 0° a 90°, norte o sur, y su clasificación en baja, media y alta), la **longitud** (definición, recorrido de 0° a 180°, este u oeste) y la **altitud** (definición en metros, positiva y negativa, y los dos extremos: el Everest y el Mar Muerto). **Con esta página queda cerrado el tema 3.1**, el primero de los dos que pide el temario. La Figura 3.9 es ilustración, pero se usó para resolver la errata del "ms" (ver "Erratas del libro"). **La mitad inferior de la página es un bloque de ejercicios** —marcar coordenadas en una gráfica y elaborar un mapa del lugar donde se habita— y no lleva reactivos por norma.
 
-**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. De esta unidad queda: el **3.1** de la **p.83** en adelante (falta el cierre del 3.1.4, latitud, longitud y altitud) y todo el **3.2 Zonas térmicas, estaciones del año y husos horarios** (p.84). Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
+**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2 Zonas térmicas, estaciones del año y husos horarios**, que arranca en la **p.84** y es el segundo y último tema que pide el temario. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
 
 ---
 
@@ -1275,3 +1280,197 @@ En relación con el libro de Geografía, ¿qué puede señalarse complementariam
 **Subtema:** latitud longitud y altitud · datos complementarios
 
 "Complementariamente pueden señalarse: la división política (estado, provincia, departamento, etc.) en que se encuentran, su distancia al mar (o a otros elementos geográficos notables) y otros aspectos que faciliten su localización en la realidad o en los mapas."
+
+---
+
+## Sub-lote 6 · Latitud, longitud y altitud (3.1.4, p.83) — cierra el tema 3.1
+
+### 79
+
+De acuerdo con el libro de Geografía, ¿qué es la latitud?
+
+- A. La distancia, medida en grados, minutos y segundos, que hay de un punto cualquiera de la superficie terrestre al Ecuador
+- B. La distancia, medida en grados, minutos y segundos, que hay de un punto cualquiera de la superficie terrestre al Meridiano de Greenwich
+- C. La distancia, medida en metros, que hay de un punto cualquiera de la superficie terrestre al nivel del mar
+- D. La distancia, medida en grados, minutos y segundos, que hay de un punto cualquiera de la superficie terrestre al polo más cercano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 83
+**Subtema:** latitud longitud y altitud · latitud
+
+"La latitud es la distancia, medida en grados, minutos y segundos, que hay de un punto cualquiera de la superficie terrestre al Ecuador."
+
+### 80
+
+De conformidad con el libro de Geografía, ¿entre qué valores va la latitud?
+
+- A. De 0° en el Ecuador hasta 90° en los polos
+- B. De 0° en el Ecuador hasta 180° en los polos
+- C. De 0° en los polos hasta 90° en el Ecuador
+- D. De 0° en el Meridiano de Greenwich hasta 90° en el Antimeridiano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 83
+**Subtema:** latitud longitud y altitud · latitud
+
+"Va de 0° en dicho círculo hasta 90° en los polos [...]"
+
+### 81
+
+En relación con el libro de Geografía, ¿de qué depende que un lugar tenga latitud norte o sur?
+
+- A. De que se encuentre al norte o al sur del Ecuador
+- B. De que se encuentre al norte o al sur del Meridiano de Greenwich
+- C. De que se encuentre en el Trópico de Cáncer o en el de Capricornio
+- D. De que se encuentre sobre o bajo el nivel del mar
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 83
+**Subtema:** latitud longitud y altitud · latitud
+
+"[...] según que el lugar se encuentre al norte o al sur del Ecuador, tendrá latitud norte o sur."
+
+### 82
+
+De acuerdo con el libro de Geografía, ¿cómo puede ser la latitud según su magnitud?
+
+- A. Baja, de 0° a 30°; media, de 30° a 60°; o alta, de 60° a 90°
+- B. Baja, de 0° a 45°; media, de 45° a 90°; o alta, de 90° a 180°
+- C. Baja, de 0° a 23°27'; media, de 23°27' a 66°33'; o alta, de 66°33' a 90°
+- D. Baja, de 0° a 60°; media, de 60° a 90°; o alta, de 90° a 180°
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 83
+**Subtema:** latitud longitud y altitud · latitud
+
+"En ambos casos la latitud puede ser: baja (de 0° a 30°), media (de 30° a 60°) o alta (de 60° a 90°)."
+
+> Nota de revisor: el distractor C usa los dos ángulos de los trópicos y los círculos polares, que es la partición que el aspirante espera. El libro parte en tercios redondos.
+
+### 83
+
+De conformidad con el libro de Geografía, ¿qué es la longitud?
+
+- A. La distancia, medida en grados, minutos y segundos, que hay de un punto cualquiera de la superficie terrestre al Meridiano de Greenwich
+- B. La distancia, medida en grados, minutos y segundos, que hay de un punto cualquiera de la superficie terrestre al Ecuador
+- C. La distancia, medida en metros, que hay de un punto cualquiera de la superficie terrestre al nivel del mar
+- D. La distancia, medida en kilómetros, que hay de un punto cualquiera de la superficie terrestre al Antimeridiano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 83
+**Subtema:** latitud longitud y altitud · longitud
+
+"La longitud es la distancia, medida en grados, minutos y segundos, que hay de un punto cualquiera de la superficie terrestre al Meridiano de Greenwich."
+
+### 84
+
+En relación con el libro de Geografía, ¿entre qué valores va la longitud?
+
+- A. De 0° en el Meridiano de Greenwich hasta 180° en el lado opuesto del mundo
+- B. De 0° en el Meridiano de Greenwich hasta 90° en el lado opuesto del mundo
+- C. De 0° en el Ecuador hasta 180° en los polos
+- D. De 0° en el Antimeridiano hasta 360° en el Meridiano de Greenwich
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 83
+**Subtema:** latitud longitud y altitud · longitud
+
+"Va de 0° en dicho círculo hasta 180° en el lado opuesto del mundo (Antimeridiano de Greenwich) [...]"
+
+> Nota de revisor: el par latitud/longitud se confunde justo en el tope: 90° una, 180° la otra. Van los dos reactivos con las cifras cruzadas.
+
+### 85
+
+De acuerdo con el libro de Geografía, ¿de qué depende que un lugar tenga longitud este u oeste?
+
+- A. De que se encuentre al este o al oeste del Meridiano de Greenwich
+- B. De que se encuentre al este o al oeste del Ecuador
+- C. De que se encuentre en el Hemisferio Boreal o en el Meridional
+- D. De que se encuentre al este o al oeste del Antimeridiano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 83
+**Subtema:** latitud longitud y altitud · longitud
+
+"[...] según que el lugar se encuentre al este o al oeste del Meridiano de Greenwich, tendrá longitud este u oeste."
+
+### 86
+
+De conformidad con el libro de Geografía, ¿qué es la altitud y en qué unidad se mide?
+
+- A. La distancia, medida en metros, que hay de un punto cualquiera de la superficie terrestre al nivel del mar
+- B. La distancia, medida en grados, minutos y segundos, que hay de un punto cualquiera de la superficie terrestre al nivel del mar
+- C. La distancia, medida en metros, que hay de un punto cualquiera de la superficie terrestre al Ecuador
+- D. La distancia, medida en kilómetros, que hay de un punto cualquiera de la superficie terrestre al centro de la Tierra
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 83
+**Subtema:** latitud longitud y altitud · altitud
+
+"Por último, la altitud es la distancia, medida en metros, que hay de un punto cualquiera de la superficie terrestre al nivel del mar."
+
+> Nota de revisor: aquí está el contraste que el libro marca y casi nadie fija: latitud y longitud van en **grados, minutos y segundos**; la altitud, en **metros**.
+
+### 87
+
+En relación con el libro de Geografía, ¿cuándo es positiva la altitud?
+
+- A. Cuando el lugar se encuentra sobre el nivel del mar
+- B. Cuando el lugar se encuentra bajo el nivel del mar, al descubierto
+- C. Cuando el lugar se encuentra al norte del Ecuador
+- D. Cuando el lugar se encuentra al este del Meridiano de Greenwich
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 83
+**Subtema:** latitud longitud y altitud · altitud
+
+"Puede ser positiva (+), cuando el lugar se encuentra sobre el nivel del mar; o negativa (-), cuando se encuentra bajo dicho nivel, al descubierto."
+
+### 88
+
+De acuerdo con el libro de Geografía, ¿cuándo es negativa la altitud?
+
+- A. Cuando el lugar se encuentra bajo el nivel del mar, al descubierto
+- B. Cuando el lugar se encuentra sobre el nivel del mar
+- C. Cuando el lugar se encuentra al sur del Ecuador
+- D. Cuando el lugar se encuentra cubierto por las aguas del mar
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 83
+**Subtema:** latitud longitud y altitud · altitud
+
+"Puede ser positiva (+), cuando el lugar se encuentra sobre el nivel del mar; o negativa (-), cuando se encuentra bajo dicho nivel, al descubierto."
+
+> Nota de revisor: el distractor D es el filo. El libro dice **"al descubierto"**: no cuenta el fondo del mar, sino la tierra firme que está bajo el nivel del mar.
+
+### 89
+
+De conformidad con el libro de Geografía, ¿cuál es la máxima altitud positiva y dónde se alcanza?
+
+- A. 8,848 m, en el monte Everest (Nepal-Tibet)
+- B. 8,488 m, en el monte Everest (Nepal-Tibet)
+- C. 8,848 m, en el Citlaltépetl (México)
+- D. 5,747 m, en el monte Everest (Nepal-Tibet)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 83
+**Subtema:** latitud longitud y altitud · altitud
+
+"La máxima altitud positiva alcanza 8,848 m en el monte Everest (Nepal-Tibet) [...]"
+
+### 90
+
+En relación con el libro de Geografía, ¿cuál es la máxima altitud negativa y dónde se alcanza?
+
+- A. -400 m, en la superficie del Mar Muerto (Israel-Jordania)
+- B. -400 m, en la superficie del Mar Caspio (Rusia-Irán)
+- C. -40 m, en la superficie del Mar Muerto (Israel-Jordania)
+- D. -4,000 m, en la superficie del Mar Muerto (Israel-Jordania)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 83
+**Subtema:** latitud longitud y altitud · altitud
+
+"[...] la negativa, -400 m[s] en la superficie del Mar Muerto (Israel-Jordania)."
+
+> Nota de revisor: el cuerpo del texto imprime la unidad como **"ms"**; la Figura 3.9 de la misma página escribe **"m"**, que es lo correcto. El reactivo usa metros y **no pregunta por la unidad**. Ver "Erratas del libro" en el encabezado.
