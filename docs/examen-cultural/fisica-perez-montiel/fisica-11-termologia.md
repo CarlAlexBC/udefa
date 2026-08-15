@@ -1682,6 +1682,392 @@ En relación con el libro de Física, al aplicar el mismo calor a dos masas igua
 
 <Al aplicar el mismo calor a dos masas iguales de agua y plata, ésta se calienta 18 veces más rápido que el agua, pues es menor su calor específico.>
 
+## Sub-lote 12 · Calor latente de fusión y de vaporización (pp. 349–350) — tema 10
+
+### 96
+
+De acuerdo con el libro de Física, ¿qué absorbe una sustancia cuando se funde o se evapora?
+
+- A. Cierta cantidad de calor llamada calor latente.
+- B. Cierta cantidad de calor llamada calor sensible.
+- C. Cierta cantidad de energía cinética de sus moléculas.
+- D. Cierta cantidad de calor específico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Cuando una sustancia se funde o se evapora absorbe cierta cantidad de calor llamada calor latente.>
+
+### 97
+
+De conformidad con el libro de Física, ¿qué significa el término latente?
+
+- A. Oculto.
+- B. Constante.
+- C. Sensible.
+- D. Absorbido.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Este término significa oculto.>
+
+### 98
+
+En relación con el libro de Física, ¿por qué recibe ese nombre?
+
+- A. Pues existe aunque no se incremente su temperatura, ya que mientras dure la fusión o la evaporación no se registrará variación en la misma.
+- B. Pues sólo existe mientras se incrementa la temperatura de la sustancia.
+- C. Pues no puede medirse con ningún instrumento.
+- D. Pues se manifiesta únicamente en los gases.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Pues existe aunque no se incremente su temperatura ya que mientras dure la fusión o la evaporación de la sustancia no se registrará variación en la misma.>
+
+### 99
+
+De acuerdo con el libro de Física, ¿qué es el calor sensible?
+
+- A. Aquel que al suministrarse a una sustancia eleva su temperatura.
+- B. Aquel que al suministrarse a una sustancia no eleva su temperatura.
+- C. Aquel que una sustancia cede al solidificarse.
+- D. Aquel que se requiere para cambiar 1 g de sólido a 1 g de líquido.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<En tanto, el calor sensible es aquel que al suministrarse a una sustancia eleva su temperatura.>
+
+### 100
+
+De conformidad con el libro de Física, ¿qué debe absorber un sólido para pasar al estado líquido?
+
+- A. La energía necesaria a fin de destruir las uniones entre sus moléculas.
+- B. La energía necesaria a fin de reforzar las uniones entre sus moléculas.
+- C. La energía necesaria para elevar su temperatura hasta el punto de ebullición.
+- D. Únicamente calor sensible.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Para que un sólido pase al estado líquido debe absorber la energía necesaria a fin de destruir las uniones entre sus moléculas.>
+
+### 101
+
+En relación con el libro de Física, ¿qué ocurre con la temperatura mientras dura la fusión?
+
+- A. No aumenta.
+- B. Aumenta de manera constante.
+- C. Disminuye de manera constante.
+- D. Aumenta sólo al final del proceso.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Por tanto, mientras dura la fusión no aumenta la temperatura.>
+
+### 102
+
+De acuerdo con el libro de Física, ¿qué intercambio se requiere para fundir el hielo o congelar el agua sin cambio en la temperatura?
+
+- A. Un intercambio de 80 calorías por gramo.
+- B. Un intercambio de 540 calorías por gramo.
+- C. Un intercambio de 8 calorías por gramo.
+- D. Un intercambio de 100 calorías por gramo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Ejemplo: para fundir el hielo o congelar el agua sin cambio en la temperatura se requiere un intercambio de 80 calorías por gramo.>
+
+### 103
+
+De conformidad con el libro de Física, ¿cómo se llama el calor requerido para ese cambio en el estado físico del agua sin que exista variación en la temperatura?
+
+- A. Calor latente de fusión o simplemente calor de fusión.
+- B. Calor latente de vaporización o simplemente calor de vaporización.
+- C. Calor sensible del agua.
+- D. Capacidad calorífica del agua.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Recibe el nombre de calor latente de fusión o simplemente calor de fusión del agua.>
+
+### 104
+
+En relación con el libro de Física, ¿de qué es una propiedad característica el calor de fusión?
+
+- A. De cada sustancia.
+- B. De cada estado de agregación.
+- C. De cada temperatura.
+- D. De cada masa considerada.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<El calor de fusión es una propiedad característica de cada sustancia, pues según el material de que esté hecho el sólido requerirá cierta cantidad de calor para fundirse.>
+
+### 105
+
+De acuerdo con el libro de Física, por definición, ¿qué es el calor latente de fusión de una sustancia?
+
+- A. La cantidad de calor que requiere ésta para cambiar 1 g de sólido a 1 g de líquido sin variar su temperatura.
+- B. La cantidad de calor que requiere ésta para cambiar 1 g de líquido a 1 g de vapor sin variar su temperatura.
+- C. La cantidad de calor que requiere un gramo de la sustancia para elevar su temperatura un grado centígrado.
+- D. La cantidad de calor que cede la sustancia al elevar su temperatura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Por definición: el calor latente de fusión de una sustancia es la cantidad de calor que requiere ésta para cambiar 1 g de sólido a 1 g de líquido sin variar su temperatura.>
+
+### 106
+
+De conformidad con el libro de Física, ¿en qué unidades se expresa el calor latente de fusión?
+
+- A. En cal/g.
+- B. En cal/g °C.
+- C. En cal/°C.
+- D. En calorías (cal).
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Donde: λf = calor latente de fusión en cal/g.>
+
+### 107
+
+En relación con el libro de Física, ¿qué valor tiene el calor latente de fusión respecto del calor latente de solidificación?
+
+- A. Un valor igual.
+- B. Un valor mayor.
+- C. Un valor menor.
+- D. Un valor que depende de la masa de la sustancia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Por tanto, con respecto a una sustancia el calor latente de fusión tiene un valor igual al calor latente de solidificación.>
+
+### 108
+
+De acuerdo con el libro de Física, ¿por qué ocurre eso?
+
+- A. Porque la cantidad de calor requerida por una sustancia para fundirse es la misma que cede cuando se solidifica.
+- B. Porque la cantidad de calor requerida por una sustancia para fundirse es el doble de la que cede al solidificarse.
+- C. Porque la solidificación no requiere ningún intercambio de calor.
+- D. Porque la fusión y la solidificación ocurren a temperaturas distintas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 349
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Como lo contrario de la fusión es la solidificación, la cantidad de calor requerida por una sustancia para fundirse es la misma que cede cuando se solidifica.>
+
+### 109
+
+De conformidad con el libro de Física, a una presión determinada, ¿qué constituye la temperatura fija a la que hierve todo líquido calentado?
+
+- A. Su punto de ebullición.
+- B. Su punto de fusión.
+- C. Su punto triple.
+- D. Su equilibrio termodinámico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 350
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<A una presión determinada todo líquido calentado hierve a una temperatura fija que constituye su punto de ebullición.>
+
+### 110
+
+En relación con el libro de Física, ¿qué sucede si se le aplica al líquido mayor cantidad de calor?
+
+- A. Habrá mayor desprendimiento de burbujas sin cambio en la temperatura del mismo.
+- B. Habrá mayor desprendimiento de burbujas y un aumento en su temperatura.
+- C. El punto de ebullición se elevará de manera proporcional.
+- D. La ebullición se detendrá por completo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 350
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Pues si se le aplica mayor cantidad de calor, habrá mayor desprendimiento de burbujas sin cambio en la temperatura del mismo.>
+
+### 111
+
+De acuerdo con el libro de Física, cuando se produce la ebullición, ¿dónde se forman las abundantes burbujas?
+
+- A. En el seno (parte interna) del líquido.
+- B. Únicamente en la superficie del líquido.
+- C. En las paredes del recipiente que lo contiene.
+- D. En el vapor que se desprende del líquido.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 350
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Cuando se produce la ebullición se forman abundantes burbujas en el seno (parte interna) del líquido, las cuales suben a la superficie desprendiendo vapor.>
+
+### 112
+
+De conformidad con el libro de Física, si se continúa calentando un líquido en ebullición, ¿qué ocurre?
+
+- A. La temperatura ya no sube, disminuye la cantidad del líquido y aumenta la del vapor.
+- B. La temperatura sigue subiendo y aumenta la cantidad del líquido.
+- C. La temperatura ya no sube y la cantidad de líquido permanece constante.
+- D. La temperatura desciende y el vapor vuelve a condensarse.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 350
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Si se continúa calentando un líquido en ebullición, la temperatura ya no sube, esto provoca la disminución de la cantidad del líquido y aumenta la del vapor.>
+
+### 113
+
+En relación con el libro de Física, ¿qué se observa al medir la temperatura del líquido en ebullición y la del vapor?
+
+- A. Que ambos estados tienen la misma temperatura, es decir, coexisten en equilibrio termodinámico.
+- B. Que el vapor tiene mayor temperatura que el líquido en ebullición.
+- C. Que el líquido tiene mayor temperatura que el vapor.
+- D. Que la temperatura de ambos varía constantemente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 350
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Al medir la temperatura del líquido en ebullición y la del vapor se observa que ambos estados tienen la misma temperatura, es decir, coexisten en equilibrio termodinámico.>
+
+### 114
+
+De acuerdo con el libro de Física, a presión normal (1 atm = 760 mm de Hg), ¿a qué temperatura ebulle el agua y se condensa el vapor?
+
+- A. A 100 °C.
+- B. A 0 °C.
+- C. A 80 °C.
+- D. A 540 °C.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 350
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<A presión normal (1 atm = 760 mm de Hg), el agua ebulle y el vapor se condensa a 100 °C, a esta temperatura se le da el nombre de punto de ebullición del agua.>
+
+### 115
+
+De conformidad con el libro de Física, ¿qué intercambio necesita el agua para pasar de líquido a vapor o viceversa sin variar su temperatura?
+
+- A. Un intercambio de 540 calorías por cada gramo.
+- B. Un intercambio de 80 calorías por cada gramo.
+- C. Un intercambio de 100 calorías por cada gramo.
+- D. Un intercambio de 450 calorías por cada gramo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 350
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Si se requiere que el agua pase de líquido a vapor o viceversa sin variar su temperatura, necesita un intercambio de 540 calorías por cada gramo.>
+
+### 116
+
+En relación con el libro de Física, por definición, ¿qué es el calor latente de vaporización de una sustancia?
+
+- A. La cantidad de calor que requiere para cambiar 1 g de líquido en ebullición a 1 g de vapor, manteniendo constante su temperatura.
+- B. La cantidad de calor que requiere para cambiar 1 g de sólido a 1 g de líquido, manteniendo constante su temperatura.
+- C. La cantidad de calor que requiere un gramo de la sustancia para elevar su temperatura un grado.
+- D. La cantidad de calor que cede la sustancia al solidificarse.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 350
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Por definición: el calor latente de vaporización de una sustancia es la cantidad de calor que requiere para cambiar 1 g de líquido en ebullición a 1 g de vapor, manteniendo constante su temperatura.>
+
+### 117
+
+De acuerdo con el libro de Física, ¿en qué unidades se expresa el calor latente de vaporización?
+
+- A. En cal/g o J/kg.
+- B. En cal/g °C o J/kg °C.
+- C. En calorías (cal) o joules (J).
+- D. En cal/°C o J/K.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 350
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Donde: λv = calor latente de vaporización en cal/g o J/kg.>
+
+### 118
+
+De conformidad con el libro de Física, ¿qué valor tiene el calor latente de vaporización respecto del calor latente de condensación?
+
+- A. Un valor igual.
+- B. Un valor mayor.
+- C. Un valor menor.
+- D. Un valor que depende de la presión aplicada.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 350
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Por tanto, con respecto a una misma sustancia el calor latente de vaporización tiene un valor igual al calor latente de condensación.>
+
+### 119
+
+En relación con el libro de Física, ¿qué ocurre cuando el vapor del agua entra en contacto con un cuerpo frío?
+
+- A. Se condensa al ceder su calor latente de vaporización.
+- B. Se evapora al absorber su calor latente de condensación.
+- C. Eleva su temperatura hasta el punto de ebullición.
+- D. Se solidifica al ceder su calor latente de fusión.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 350
+**Tema:** U11 t10 · calor latente
+**Subtema:** Física · Calor latente
+
+<Cuando el vapor del agua entra en contacto con un cuerpo frío se condensa al ceder su calor latente de vaporización.>
+
 ---
 
-**Reactivos en este archivo:** 95
+**Reactivos en este archivo:** 119
