@@ -20,7 +20,7 @@ El temario `GEO-01-2026` de la EMEFA pide de esta Unidad **dos temas**:
 
 El resto de la Unidad IV —4.1, 4.2 Formación y eras de la Tierra, 4.3 Teoría de la tectónica de placas y 4.4 Diastrofismo, vulcanismo, sismicidad y gradación (hasta la p.137)— **no lo pide el temario** y queda fuera. Eso deja fuera las eras geológicas, Wegener y la deriva continental, los volcanes y los sismos.
 
-> **El temario NO lista el 4.6.3** (La contaminación del suelo y el subsuelo), igual que no listaba el 1.4.3 de la Unidad I. **Carlo ya decidió ese caso el 14 ago 2026: el subtema entra**, porque es parte del mismo tema del libro y cubre el hueco por si el temario se quedó corto al transcribirse. Se aplica aquí el mismo criterio; si Carlo prefiere lo contrario, se recorta.
+> **El temario NO lista el 4.6.3** (La contaminación del suelo y el subsuelo), igual que no listaba el 1.4.3 de la Unidad I. **Carlo ya decidió ese caso el 14 ago 2026: el subtema entra**, porque es parte del mismo tema del libro y cubre el hueco por si el temario se quedó corto al transcribirse. Se aplica aquí el mismo criterio; si Carlo prefiere lo contrario, **se recortan los reactivos 118 al 135** y no hay que tocar nada más.
 
 **Desfase de páginas:** **página impresa = hoja del PDF + 3.** Verificado contra el pie de la hoja: **hoja 135 = p.138**, donde arranca el 4.5. Coincide con el índice del libro (pp. 5–7), que da el 4.5 en la 138, el 4.6 en la 142 y la Unidad V en la 151. **Las páginas se leen de la hoja, nunca se calculan.**
 
@@ -47,7 +47,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** El tema **4.5 Formas del relieve continental** está **CERRADO** (pp. 138–141, sus tres subtemas). Falta el **4.6**.
+**CERRADO.** Los dos temas que pide el temario están cubiertos del todo: el **4.5 Formas del relieve continental** (pp. 138–141, sus tres subtemas) y el **4.6 La contaminación ambiental** (pp. 142–146, sus tres subtemas).
 
 - Cubierta la página impresa **138**: el **4.5.1 Concepto y clasificación de las formas del relieve** completo — la definición de relieve terrestre, la comparación con las arrugas de una naranja, el desnivel entre el Everest y la Fosa de las Marianas, y el **Cuadro 4.6** con la clasificación entera (formas del relieve continental y submarino con sus subdivisiones). **La mitad superior de la página es la portadilla ilustrada de la Unidad IV** y no lleva reactivos.
 - Cubierta la página impresa **139**: el arranque del **4.5.2** con el apartado **Depresiones y llanuras** completo — las depresiones absolutas (el Ghor y el Mar Caspio) y relativas (barrancas, desfiladeros y las «cubetas» de África), y las llanuras con sus tres clases (aluviales, de sedimentación marina y penillanuras). La Figura 4.22 es ilustración y no lleva reactivos. El apartado **Colinas y mesetas** arranca al pie de la página pero **queda cortado a media frase**, así que se trabaja entero en la p.140. **Su pie ya quedó cubierto** por los reactivos **49 a 51**, que citan la p.139 porque ahí está impresa la definición de colina (posición media entre llanuras y montañas, altitud menor de 1,000 m y desniveles); van al final del sub-lote 3 para no romper la numeración corrida.
@@ -58,7 +58,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **143**: el cierre del inciso c) (el «algo fuera de lugar» que interfiere el normal desarrollo de los procesos vitales) y la **Clasificación de la contaminación ambiental** completa — por el **factor que la produce** (acústica, orgánica, química y radioactiva, cada una con su causa: los ruidos de vehículos, aparatos y máquinas; los desechos de plantas, animales y seres humanos, menos dañinos por biodegradables; la fabricación masiva de desechables no biodegradables como aluminio, vidrio y plásticos; y los elementos radioactivos, casi exclusiva de los siglos **XX y XXI** por los modernos estudios sobre el átomo), la aclaración de que la **proliferación de una especie es plaga y no contaminación**, y la clasificación por el **medio en que se produce** (suelo y subsuelo, agua y aire, con las dos últimas en las unidades V y VI). **Otra errata del libro quedó documentada y sin afectar a la respuesta:** "thorio" por *torio*. **La mitad inferior de la página es un bloque de ejercicios** ("Resuelve ahora las siguientes cuestiones") y no lleva reactivos por norma.
 - Cubierta la página impresa **144**: el arranque del **4.6.2 Causas y consecuencias de la contaminación ambiental** — que **no es un fenómeno exclusivo de los siglos XX y XXI** (antes ya se presentaba, en menor escala, en las grandes concentraciones urbanas) pero hoy tiene "perfiles verdaderamente dramáticos"; y las **tres causas** que la llevaron a niveles peligrosos durante el **siglo XX**: la **explosión demográfica** (necesidades cada vez mayores de satisfactores, que obligan a ocupar prácticamente toda la superficie terrestre), el **vertiginoso desarrollo científico y tecnológico** (que junto con enormes cantidades de productos trajo grandes volúmenes de contaminantes) y el **aumento de los vehículos de combustión interna** (automóviles, autobuses, carros de carga y aviones, que contaminan por sus emanaciones y por sus ruidos); más la **Figura 4.27** (dos vistas de Nueva York). **La mitad superior de la página es la continuación del bloque de ejercicios de la p.143** y no lleva reactivos por norma.
 
-**Pendiente:** EN CURSO. El tema **4.5 quedó CERRADO** (pp. 138–141). Sigue desde la **p.145** con el resto del **4.6 La contaminación ambiental** (pp. 145–150) —4.6.1 Concepto y clasificación (p.142), 4.6.2 Causas y consecuencias (p.144) y 4.6.3 La contaminación del suelo y el subsuelo (p.145)—, hasta cerrar en la **p.150**: la Unidad V empieza en la 151. Con el 4.6 se cierra la Unidad IV.
+**Pendiente:** faltan de la materia las **Unidades V y VI** (ver abajo). **En este archivo no queda nada: la Unidad IV está CERRADA** en lo que pide el temario `GEO-01-2026`: el **4.5** (pp. 138–141) y el **4.6** completo —4.6.1 Concepto y clasificación (pp. 142–143), 4.6.2 Causas y consecuencias (pp. 144–145) y 4.6.3 La contaminación del suelo y el subsuelo (pp. 145–146)—, en **135 reactivos**. Lo que sigue de la materia son las **dos unidades restantes**, cada una en su propio archivo: la **Unidad V · La Hidrósfera** (5.1 Características y distribución del agua, el ciclo del agua, p.152; 5.2 Las aguas oceánicas, p.157) y la **Unidad VI · La Atmósfera** (6.1 Generalidades sobre la atmósfera, p.192; 6.2 Los fenómenos meteorológicos; 6.3 El clima). **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad V, éste sostiene el pendiente de la materia — **por eso esta línea arranca con "faltan" y no con "ninguno"**: el generador de `ESTADO.md` marca la materia como cerrada si el `Pendiente` de *todos* sus archivos empieza con "ninguno", y aquí eso sería falso. Cuando se cree el archivo de la Unidad V, esta línea puede volver a "ninguno en este archivo" y el pendiente pasa a aquél.
+
+> **Verificado el final del tema:** el cuerpo del 4.6.3 termina en la mitad superior de la **p.146**; el resto de esa página es un ejercicio (espacio en blanco para ilustrar). La **p.147** es una **"Lectura Complementaria" tomada de otro autor** (*Selecciones del Reader's Digest*, "¿Qué son las montañas?") y de la **148 a la 150** van los "Ejercicios de aplicación" con su escala de calificaciones. Por norma, nada de eso lleva reactivos. La Unidad V arranca en la p.151.
 
 ---
 
@@ -1712,4 +1714,419 @@ En relación con el libro de Geografía, ¿durante qué siglo la contaminación 
 **Subtema:** causas de la contaminación · el siglo XX
 
 "Entre las causas que llevaron a la contaminación ambiental a niveles tan peligrosos durante el siglo XX, figuraron los siguientes [...]"
+
+## Sub-lote 8 · Cierre de las causas y las consecuencias en el organismo (4.6.2, p. 145)
+
+### 109
+
+De acuerdo con el libro de Geografía, ¿qué productos, de uso cada vez mayor, señala el libro entre las causas de la contaminación ambiental?
+
+- A. Los aerosoles, detergentes, limpiadores de piso y productos de plástico
+- B. Los fertilizantes, fungicidas, herbicidas e insecticidas
+- C. Los desechos de aluminio, vidrio y plástico
+- D. Los automóviles, autobuses, carros de carga y aviones
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** causas de la contaminación · productos de uso doméstico
+
+"El uso cada vez mayor de productos como los aerosoles, detergentes, limpiadores de piso y productos de plástico."
+
+### 110
+
+De conformidad con el libro de Geografía, ¿para qué se usan los aditivos en alimentos y bebidas?
+
+- A. Para mejorar su apariencia, sabor, consistencia y conservación
+- B. Para aumentar su valor nutritivo y su contenido de vitaminas
+- C. Para abaratar su producción y su transporte
+- D. Para prolongar únicamente su fecha de caducidad
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** causas de la contaminación · aditivos
+
+"El uso de aditivos para mejorar la apariencia, sabor, consistencia y conservación de alimentos y bebidas."
+
+### 111
+
+En relación con el libro de Geografía, ¿qué es hoy por hoy la contaminación ambiental?
+
+- A. El mayor problema que afronta la humanidad
+- B. Uno de los problemas menores frente a la explosión demográfica
+- C. Un problema exclusivo de los países más industrializados
+- D. Un problema que sólo afecta a la vida vegetal y animal
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** consecuencias de la contaminación · gravedad
+
+"Resulta innecesario insistir sobre la gravedad de la contaminación ambiental, hoy por hoy el mayor problema que afronta la humanidad [...]"
+
+### 112
+
+De acuerdo con el libro de Geografía, ¿por qué dos razones es tan grave la contaminación ambiental?
+
+- A. Porque significa una acelerada destrucción de los recursos naturales y por las graves consecuencias que el envenenamiento del medio acarrea a vegetales, animales y seres humanos
+- B. Porque encarece los alimentos y porque reduce la superficie cultivable del planeta
+- C. Porque afea los lugares donde se acumula y porque favorece el desarrollo de especies nocivas
+- D. Porque esteriliza los suelos y porque obliga a usar productos cada vez más activos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** consecuencias de la contaminación · gravedad
+
+"[...] tanto porque significa una acelerada destrucción de los recursos naturales, como por las graves consecuencias que el constante envenenamiento del medio acarrea a vegetales, animales y seres humanos."
+
+### 113
+
+De conformidad con el libro de Geografía, ¿por qué resulta afectado el sistema respiratorio?
+
+- A. Por la aspiración de gases, humos y polvos nocivos para la salud
+- B. Por la ingestión de bebidas y alimentos contaminados
+- C. Por el contacto con sustancias dañinas presentes en el aire y el agua
+- D. Por la ingestión de alimentos contaminados con mercurio
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** consecuencias de la contaminación · sistema respiratorio
+
+"El sistema respiratorio, por la aspiración de gases, humos y polvos nocivos para la salud."
+
+### 114
+
+En relación con el libro de Geografía, ¿por qué resulta afectado el sistema digestivo?
+
+- A. Por la ingestión de bebidas y alimentos contaminados con sustancias perjudiciales, como los aditivos, o adulterados por el deseo de obtener mayores ganancias
+- B. Por la aspiración de gases, humos y polvos nocivos para la salud
+- C. Por el ruido ensordecedor que impera en las grandes ciudades
+- D. Por el contacto con sustancias dañinas usadas en las industrias y los hogares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** consecuencias de la contaminación · sistema digestivo
+
+"El sistema digestivo, por la ingestión de bebidas y alimentos contaminados con sustancias perjudiciales, como los aditivos, o adulterados por el deseo de obtener mayores ganancias."
+
+### 115
+
+De acuerdo con el libro de Geografía, ¿por qué dos motivos resulta afectado el sistema nervioso?
+
+- A. Por la ingestión de alimentos contaminados con mercurio y por el ruido ensordecedor
+- B. Por la aspiración de gases, humos y polvos nocivos y por el ruido ensordecedor
+- C. Por la ingestión de alimentos contaminados con aditivos y por el contacto con sustancias dañinas
+- D. Por el contacto con sustancias dañinas presentes en el aire y por la aspiración de polvos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** consecuencias de la contaminación · sistema nervioso
+
+"El sistema nervioso, que resulta afectado por la ingestión de alimentos contaminados con mercurio y el ruido ensordecedor que impera en las grandes ciudades [...]"
+
+> Nota de revisor: el **mercurio** es el dato que se pierde. Al aspirante le queda "el ruido" y se le va la mitad de la respuesta.
+
+### 116
+
+De conformidad con el libro de Geografía, ¿en qué lugares señala el libro que impera el ruido ensordecedor?
+
+- A. En las grandes ciudades, las orillas de las carreteras y las cercanías de los aeropuertos
+- B. En las zonas industriales, los puertos marítimos y las estaciones de ferrocarril
+- C. En las grandes ciudades, las zonas mineras y las cercanías de los aeropuertos
+- D. En los basureros, las orillas de las carreteras y los campos de cultivo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** consecuencias de la contaminación · sistema nervioso
+
+"[...] el ruido ensordecedor que impera en las grandes ciudades, las orillas de las carreteras, las cercanías de los aeropuertos, etc."
+
+### 117
+
+En relación con el libro de Geografía, ¿por qué resulta perjudicada la piel?
+
+- A. Por el contacto con sustancias dañinas presentes en el aire y el agua, o bien usadas en las industrias y los hogares
+- B. Por la aspiración de gases, humos y polvos nocivos para la salud
+- C. Por la ingestión de alimentos adulterados y contaminados con mercurio
+- D. Por la exposición al ruido ensordecedor de las grandes ciudades
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** consecuencias de la contaminación · la piel
+
+"La piel, que resulta perjudicada por el contacto con sustancias dañinas presentes en el aire y el agua, o bien usadas en las industrias, los hogares, etc."
+
+## Sub-lote 9 · La contaminación del suelo y el subsuelo (4.6.3, pp. 145–146)
+
+### 118
+
+De acuerdo con el libro de Geografía, ¿por qué la contaminación del suelo y el subsuelo constituye uno de los mayores problemas que afronta la humanidad?
+
+- A. Por cuanto afecta directamente a dos de sus principales fuentes alimentarias: la agricultura y la ganadería
+- B. Por cuanto afecta directamente al sistema respiratorio y al digestivo
+- C. Por cuanto reduce la superficie habitable del planeta
+- D. Por cuanto encarece la explotación de los yacimientos minerales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · importancia
+
+"En particular, la contaminación del suelo y el subsuelo constituye uno de los mayores problemas que afronta la humanidad, por cuanto afecta directamente a dos de sus principales fuentes alimentarias: la agricultura y la ganadería."
+
+### 119
+
+De conformidad con el libro de Geografía, ¿qué porcentaje de los alimentos que consume la humanidad suministran la agricultura y la ganadería?
+
+- A. Aproximadamente el 80%
+- B. Aproximadamente el 95%
+- C. Aproximadamente el 60%
+- D. Aproximadamente el 8%
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · importancia
+
+"Se ha calculado, en efecto, que dichas actividades productivas suministran aproximadamente el 80% de los alimentos que consume la humanidad."
+
+### 120
+
+En relación con el libro de Geografía, ¿de qué tipo es sobre todo la contaminación del suelo y el subsuelo?
+
+- A. De tipo químico
+- B. De tipo físico
+- C. De tipo biológico
+- D. De tipo térmico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · tipo
+
+"La contaminación del suelo y el subsuelo es sobre todo de tipo químico, por los desechos arrojados [...]"
+
+### 121
+
+De acuerdo con el libro de Geografía, ¿de qué son principalmente los desechos arrojados que contaminan el suelo y el subsuelo?
+
+- A. De aluminio, vidrio y plástico
+- B. De papel, cartón y madera
+- C. De mercurio, plomo y azufre
+- D. De aluminio, hierro y cobre
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · desechos arrojados
+
+"[...] por los desechos arrojados (principalmente de aluminio, vidrio y plástico) y el abuso de fertilizantes, fungicidas, herbicidas, insecticidas, etc. en las prácticas agropecuarias."
+
+### 122
+
+De conformidad con el libro de Geografía, ¿qué es la basura?
+
+- A. Los desechos sólidos domésticos e industriales
+- B. Los desechos químicos arrojados en las prácticas agropecuarias
+- C. Los residuos de aluminio, vidrio y plástico únicamente
+- D. Las sales insolubles que permanecen en el suelo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · la basura
+
+"La acumulación de basura, o sea, de desechos sólidos domésticos e industriales, constituye actualmente uno de los problemas más difíciles de resolver [...]"
+
+### 123
+
+En relación con el libro de Geografía, ¿dónde constituye la acumulación de basura un problema más difícil de resolver?
+
+- A. Sobre todo en los países más industrializados
+- B. Sobre todo en los países con mayor explosión demográfica
+- C. Sobre todo en los países de la zona tórrida
+- D. Sobre todo en los países con mayor superficie agropecuaria
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · la basura
+
+"[...] constituye actualmente uno de los problemas más difíciles de resolver, sobre todo en los países más industrializados."
+
+### 124
+
+De acuerdo con el libro de Geografía, ¿cuánta basura se produce en promedio en Estados Unidos de América por habitante y por día?
+
+- A. 2 kg
+- B. 5 kg
+- C. 20 kg
+- D. 2 toneladas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · la basura
+
+"Por ejemplo, en Estados Unidos de América se producen en promedio 2 kg de basura por habitante y por día [...]"
+
+### 125
+
+De conformidad con el libro de Geografía, ¿cuántas toneladas de basura se producen diariamente en todo Estados Unidos de América?
+
+- A. Unas 520,000
+- B. Unas 250,000
+- C. Unas 502,000
+- D. Unas 5,200,000
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · la basura
+
+"[...] o sea, unas 520,000 toneladas diarias en todo el país. ¡Y la cifra está en ascenso!"
+
+### 126
+
+En relación con el libro de Geografía, ¿el desarrollo de qué especies nocivas favorecen los basureros?
+
+- A. Cucarachas, mosquitos, ratas y ratones
+- B. Hongos, malas hierbas e insectos
+- C. Moscas, garrapatas, ratas y serpientes
+- D. Cucarachas, hongos, malas hierbas y ratones
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · los basureros
+
+"[...] y son focos de insalubridad al favorecer el desarrollo de cucarachas, mosquitos, ratas, ratones y otras especies nocivas."
+
+> Nota de revisor: el distractor B es la lista de la p.146 —los que se **quiere exterminar** con fungicidas y herbicidas—. Son dos listas distintas del mismo subtema.
+
+### 127
+
+De acuerdo con el libro de Geografía, ¿por qué los basureros hacen inútiles para cualquier otro uso los lugares donde se encuentran?
+
+- A. Porque los afean
+- B. Porque los esterilizan químicamente
+- C. Porque los inundan con aguas negras
+- D. Porque impiden el paso del viento y el agua de lluvia
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · los basureros
+
+"Sabido es que los basureros afean los lugares donde se encuentran, haciéndolos inútiles para cualquier otro uso [...]"
+
+### 128
+
+De conformidad con el libro de Geografía, ¿qué arrastra la basura y la lleva a contaminar otros lugares?
+
+- A. El viento y el agua de lluvia
+- B. Las corrientes de los ríos y los arroyos
+- C. Los movimientos diastróficos del suelo
+- D. Las especies nocivas que se desarrollan en los basureros
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · los basureros
+
+"Además, al ser arrastrada por el viento y el agua de lluvia, la basura contamina los campos de cultivo, caminos, yacimientos de agua, arroyos, ríos, lagos y lagunas."
+
+### 129
+
+En relación con el libro de Geografía, ¿qué contamina la basura al ser arrastrada?
+
+- A. Los campos de cultivo, caminos, yacimientos de agua, arroyos, ríos, lagos y lagunas
+- B. Únicamente los campos de cultivo y los caminos vecinos al basurero
+- C. Los océanos, mares, golfos y bahías
+- D. La atmósfera y la capa de ozono que protege a los seres vivos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · los basureros
+
+"[...] la basura contamina los campos de cultivo, caminos, yacimientos de agua, arroyos, ríos, lagos y lagunas."
+
+### 130
+
+De acuerdo con el libro de Geografía, ¿qué provoca en los suelos el abuso de fertilizantes, fungicidas, herbicidas e insecticidas?
+
+- A. Su contaminación, y termina por esterilizarlos
+- B. Su acidificación, y termina por endurecerlos
+- C. Su erosión, y termina por convertirlos en penillanuras
+- D. Su enriquecimiento excesivo, y termina por saturarlos de nutrientes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · abuso de fertilizantes
+
+"El abuso de fertilizantes, fungicidas, herbicidas, insecticidas, etc. provoca también la contaminación de los suelos y termina por esterilizarlos."
+
+### 131
+
+De conformidad con el libro de Geografía, ¿qué cantidad de fertilizantes absorben las plantas del suelo?
+
+- A. Sólo una determinada cantidad, la que necesitan para el desarrollo de sus funciones vitales
+- B. Toda la que se les suministre, sin límite alguno
+- C. Únicamente la que el agua de lluvia disuelve
+- D. La mitad de la que se aplica en las prácticas agropecuarias
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 145
+**Subtema:** contaminación del suelo · abuso de fertilizantes
+
+"Sabido es que las plantas sólo absorben del suelo una determinada cantidad de fertilizantes, la que necesitan para el desarrollo de sus funciones vitales [...]"
+
+### 132
+
+En relación con el libro de Geografía, ¿en qué termina por convertirse la parte de los fertilizantes que no es aprovechada y permanece en el suelo?
+
+- A. En sales insolubles, inútiles para la vegetación
+- B. En sales solubles que la lluvia arrastra hasta los ríos
+- C. En gases nocivos que se elevan a la atmósfera
+- D. En materia orgánica que enriquece el subsuelo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 146
+**Subtema:** contaminación del suelo · abuso de fertilizantes
+
+"[...] una parte de los mismos no es aprovechada y permanece en el suelo donde, mediante reacciones químicas, termina por convertirse en sales insolubles, inútiles para la vegetación."
+
+### 133
+
+De acuerdo con el libro de Geografía, ¿qué terminan por adquirir las plantas y los animales nocivos frente a los fungicidas, herbicidas e insecticidas?
+
+- A. Resistencia
+- B. Inmunidad total y permanente
+- C. Mayor capacidad de reproducción
+- D. Nuevas formas de alimentación
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 146
+**Subtema:** contaminación del suelo · resistencia de las plagas
+
+"En particular, por lo que respecta a los fungicidas, herbicidas, insecticidas, etc. es sabido que plantas y animales nocivos terminan por adquirir resistencia."
+
+### 134
+
+De conformidad con el libro de Geografía, ¿a qué se ven obligados quienes usan en exceso los fungicidas, herbicidas e insecticidas?
+
+- A. A utilizar productos cada vez más activos o en mayores cantidades
+- B. A abandonar las tierras que han quedado estériles
+- C. A sustituirlos por fertilizantes de origen orgánico
+- D. A reducir progresivamente las dosis aplicadas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 146
+**Subtema:** contaminación del suelo · resistencia de las plagas
+
+"Por ello, quienes los usan en exceso se ven obligados a utilizar productos cada vez más activos o en mayores cantidades."
+
+### 135
+
+En relación con el libro de Geografía, en esas condiciones, ¿quiénes resultan más afectados?
+
+- A. Especies vegetales y animales benéficas y, en última instancia, el hombre mismo
+- B. Los hongos, las malas hierbas y los insectos que se quiere exterminar
+- C. Únicamente los cultivos tratados con esos productos
+- D. Las especies nocivas que se desarrollan en los basureros
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 146
+**Subtema:** contaminación del suelo · resistencia de las plagas
+
+"En esas condiciones, quienes resultan más afectados no son los vegetales y animales que se quiere exterminar (hongos, malas hierbas, insectos), sino especies vegetales y animales benéficas y, en última instancia, el hombre mismo."
+
+> Nota de revisor: el libro cierra el tema con esta vuelta de tuerca —el que fumiga de más se perjudica a sí mismo—, y es lo último del 4.6.3. Buen candidato a caer en el examen.
 
