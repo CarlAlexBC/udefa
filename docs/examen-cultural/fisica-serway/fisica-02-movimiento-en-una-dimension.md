@@ -29,9 +29,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **21–26** (2.1 y 2.2 COMPLETOS) y **32–34** (**2.5 · Aceleración**, en curso): aceleración promedio ax,prom ≡ Δvx/Δt (ec. 2.9), dimensiones L/T² y unidad m/s², aceleración instantánea como límite y como derivada dvx/dt (ec. 2.10), la pendiente de la gráfica velocidad-tiempo, el signo de ax, los signos de velocidad y aceleración (aumenta/frena), fuerza ∝ aceleración (Fx ∝ ax), la advertencia de la aceleración negativa, la palabra «desaceleración», la convención de llamar «aceleración» a la instantánea y la aceleración como segunda derivada de la posición (ec. 2.12). El temario salta 2.3 y 2.4 (pp.27–31), que quedan fuera. Los Ejemplos y exámenes rápidos no aportan reactivos.
+**CAPÍTULO 2 CERRADO** (a nivel de temario). Escritas las páginas impresas **21–26** (**2.1 · Posición, velocidad y rapidez** y **2.2 · Velocidad y rapidez instantáneas**, ambos completos) y **32–35** (**2.5 · Aceleración**, completo): aceleración promedio ax,prom ≡ Δvx/Δt (ec. 2.9), dimensiones L/T² y unidad m/s², aceleración instantánea como límite y como derivada dvx/dt (ec. 2.10), la pendiente de la gráfica velocidad-tiempo, el signo de ax, los signos de velocidad y aceleración (aumenta/frena), fuerza ∝ aceleración (Fx ∝ ax), la advertencia de la aceleración negativa, la palabra «desaceleración», la convención de llamar «aceleración» a la instantánea, la aceleración como segunda derivada de la posición (ec. 2.12) y que los cambios súbitos de aceleración no son físicos. **Total: 46 reactivos.**
 
-**Pendiente:** EN CURSO. Falta el cierre de **2.5** (p.35, hoja 58) y localizar dónde arranca **2.6** (fuera del temario) para cerrar el capítulo. Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera.
+El temario `FÍSICA-02-2026` pide de este capítulo **sólo 2.1, 2.2 y 2.5**; los temas **2.3, 2.4** (pp.27–31) y **2.6 · Diagramas de movimiento en adelante** (empieza en la p.36) quedan fuera. Los Ejemplos (2.1–2.6) y los exámenes rápidos no aportan reactivos.
+
+**Pendiente:** el **Capítulo 2 queda CERRADO** (los tres temas del temario —2.1, 2.2 y 2.5— completos, 46 reactivos). Del temario de Física EMEFA faltan por escribir **Cap. 3** (Vectores — completo) y **Cap. 10** (Mecánica de fluidos — 10.1 a 10.6), cada uno en su propio archivo.
 
 ---
 
@@ -725,3 +727,20 @@ De conformidad con el libro de Física, en un movimiento en una dimensión, la a
 **Subtema:** aceleración · aceleración como segunda derivada
 
 "En un movimiento en una dimensión, la aceleración es igual a la segunda derivada de la posición x de la partícula respecto del tiempo."
+
+## Sub-lote 9 · Cierre de 2.5 (p.35)
+
+### 46
+
+De acuerdo con el libro de Física, respecto a los cambios súbitos e instantáneos en la aceleración:
+
+- A. no son físicos y no ocurren en la realidad
+- B. son los más comunes en la naturaleza
+- C. ocurren siempre que un objeto frena
+- D. son necesarios para que exista movimiento
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 35
+**Subtema:** aceleración · cambios súbitos de aceleración
+
+"Observe que los cambios súbitos en aceleración que se muestran en la figura 2.8c no son físicos. Tales cambios instantáneos no ocurren en la realidad."
