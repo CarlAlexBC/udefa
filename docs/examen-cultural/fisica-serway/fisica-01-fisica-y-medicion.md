@@ -33,9 +33,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **3–5** (sección **1.1 completa** · Estándares de longitud, masa y tiempo): las cantidades fundamentales y el SI; la **longitud** (yarda de 1120, pie de Luis XIV, metro de 1799, criptón 86 y metro de 1983 = la luz en el vacío) con la Tabla 1.1; la **masa** (el kilogramo de platino-iridio de Sèvres, 1887; masa contra peso) con la Tabla 1.2; y el **tiempo** (el día solar medio antes de 1967; el reloj atómico de cesio 133 = 9 192 631 770 vibraciones; el sistema usual U.S. = pie, slug, segundo) con la Tabla 1.3.
+**EN CURSO.** Escritas las páginas impresas **3–6**: la sección **1.1** (longitud, masa y tiempo; el SI; los prefijos de la Tabla 1.4; cantidades fundamentales y deducidas; la densidad ρ = m/V) y el **arranque de 1.2** (qué es un modelo). Tablas 1.1 a 1.4 cubiertas.
 
-**Pendiente:** EN CURSO. Con la p.5 queda cerrada la sección **1.1**. Sigue **1.2 · Modelado y representaciones alternativas** (p.6) y de ahí 1.3 a 1.6, hasta la p.16.
+**Pendiente:** EN CURSO. Sigue **1.2** en la **p.7** (tipos de modelos y representaciones alternativas) y de ahí 1.3 a 1.6, hasta la p.16.
 
 ---
 
@@ -408,3 +408,127 @@ En relación con el libro de Física (Tabla 1.2), ¿cuál es la masa aproximada 
 **Subtema:** masa · valores de la Tabla 1.2
 
 Según la Tabla 1.2 (Masas aproximadas de varios objetos), el Sol tiene una masa de "1.99 × 10³⁰" kg. (Los distractores son masas de la misma tabla: Tierra 5.98 × 10²⁴, Luna 7.36 × 10²², átomo de hidrógeno 1.67 × 10⁻²⁷.)
+
+---
+
+## Sub-lote 4 · Cantidades deducidas, densidad, prefijos y el modelo (p.6)
+
+### 25
+
+De acuerdo con el libro de Física, ¿qué son las cantidades deducidas?
+
+- A. Variables expresadas como una combinación matemática de cantidades fundamentales
+- B. Las tres variables básicas de la mecánica: longitud, masa y tiempo
+- C. Cantidades que sólo pueden medirse con instrumentos electrónicos
+- D. Unidades que no pertenecen al Sistema Internacional
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 6
+**Subtema:** cantidades · fundamentales y deducidas
+
+"La mayoría de las otras variables son *cantidades deducidas*, aquellas expresadas como una combinación matemática de cantidades fundamentales."
+
+### 26
+
+En relación con el libro de Física, ¿cómo se define la densidad de una sustancia?
+
+- A. Como su masa por unidad de volumen
+- B. Como su peso por unidad de volumen
+- C. Como el producto de su masa por su volumen
+- D. Como su volumen por unidad de masa
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 6
+**Subtema:** cantidades deducidas · densidad
+
+"La densidad ρ (letra griega rho) de cualquier sustancia se define como su *masa por unidad de volumen*: ρ ≡ m/V."
+
+### 27
+
+De conformidad con el libro de Física, el *área* es un ejemplo de cantidad deducida; ¿cómo se expresa en términos de cantidades fundamentales?
+
+- A. Como un producto de dos longitudes
+- B. Como una relación de una longitud a un intervalo de tiempo
+- C. Como una masa por unidad de volumen
+- D. Como un producto de tres longitudes
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 6
+**Subtema:** cantidades deducidas · área
+
+"Ejemplos comunes son *área* (un producto de dos longitudes) y *rapidez* (una relación cuantitativa de una longitud a un intervalo de tiempo)."
+
+### 28
+
+De acuerdo con el libro de Física (Tabla 1.4), ¿qué potencia de diez denota el prefijo *nano*?
+
+- A. 10⁻⁹
+- B. 10⁻⁶
+- C. 10⁻¹²
+- D. 10⁹
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 6
+**Subtema:** prefijos · nano
+
+Según la Tabla 1.4 (Prefijos para potencias de diez), el prefijo *nano* (abreviatura n) corresponde a 10⁻⁹.
+
+### 29
+
+En relación con el libro de Física (Tabla 1.4), ¿qué potencia de diez denota el prefijo *micro* (símbolo μ)?
+
+- A. 10⁻⁶
+- B. 10⁻⁹
+- C. 10⁻³
+- D. 10⁶
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 6
+**Subtema:** prefijos · micro
+
+Según la Tabla 1.4 (Prefijos para potencias de diez), el prefijo *micro* (abreviatura μ) corresponde a 10⁻⁶.
+
+### 30
+
+De conformidad con el libro de Física (Tabla 1.4), ¿qué potencia de diez denota el prefijo *giga* (símbolo G)?
+
+- A. 10⁹
+- B. 10⁶
+- C. 10¹²
+- D. 10⁻⁹
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 6
+**Subtema:** prefijos · giga
+
+Según la Tabla 1.4 (Prefijos para potencias de diez), el prefijo *giga* (abreviatura G) corresponde a 10⁹.
+
+### 31
+
+De acuerdo con el libro de Física (Tabla 1.4), ¿qué potencia de diez denota el prefijo *tera* (símbolo T)?
+
+- A. 10¹²
+- B. 10⁹
+- C. 10¹⁵
+- D. 10⁶
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 6
+**Subtema:** prefijos · tera
+
+Según la Tabla 1.4 (Prefijos para potencias de diez), el prefijo *tera* (abreviatura T) corresponde a 10¹².
+
+### 32
+
+En relación con el libro de Física, en la resolución de problemas, ¿qué es un *modelo*?
+
+- A. Un sustituto simplificado del problema real que nos permite resolverlo de una manera relativamente simple
+- B. Una versión a escala reducida de un objeto, como la maqueta de un edificio
+- C. Un conjunto de fórmulas memorizadas para aplicar en los exámenes
+- D. Una representación gráfica exacta de todos los datos del problema
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 6
+**Subtema:** modelado · qué es un modelo
+
+"Un modelo es un sustituto simplificado del problema real que nos permite resolverlo de una manera relativamente simple."
