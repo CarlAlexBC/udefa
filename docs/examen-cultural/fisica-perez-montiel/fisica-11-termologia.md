@@ -1,31 +1,47 @@
 # Física · Unidad 11 · Termología
 
-**Materia:** **cuatro planteles** piden esta unidad del mismo libro, con tres
-claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM) y `FIS-02-2026` (EMA).
-La EMMA no pide esta unidad; la EMOS tampoco.
-**Unidad del libro:** Unidad 11. Termología → los temas 1, 2, 3, 4, 5, 6, 7 y 12
-sumando los tres temarios. **NO entran** los temas 8 (Capacidad calorífica), 9
-(Calor específico), 10 (Calor latente), 11 (Calor cedido y absorbido) ni 13
-(Termodinámica), aunque caigan en las mismas páginas.
+**Materia:** **cinco planteles** piden esta unidad del mismo libro, con cuatro
+claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM), `FIS-02-2026` (EMA) y
+`FÍS-02-2026` (**EMMA, que la pide COMPLETA**). La EMOS no la pide.
+**Unidad del libro:** Unidad 11. Termología → **los trece temas**, porque la EMMA
+pide la unidad completa. Escritos: 1, 2, 3, 4, 5, 6, 7, 8, 9 y 12. **Faltan** el
+10 (Calor latente, pp. 349–350), el 11 (Calor cedido y absorbido por los cuerpos,
+pp. 351–353) y el 13 (Termodinámica, pp. 360–372).
+
+> **CORRECCIÓN del 14 ago 2026 — este encabezado decía lo contrario.** Afirmaba
+> que "la EMMA no pide esta unidad" y que los temas 8 a 11 y 13 "NO entran". Es
+> falso: el PDF del temario de la EMMA (`FÍS-02-2026`, hoja 4 de sus cuatro
+> carreras) dice **"Unidad 11. Termología → Completo"**, leído a ojo de la tabla.
+> La confusión venía de que la EMA y la EMMA tienen claves casi iguales
+> (`FIS-02` / `FÍS-02`) y este archivo las trataba como un solo plantel; sus
+> listas no se parecen. Es la misma trampa ya documentada con `FG-03` entre la
+> EMM y la EMOS: **la clave compartida no garantiza la misma lista, hay que abrir
+> el PDF de cada plantel**.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Quién lo pide es cosa del temario, y **cada
 > plantel pide una selección distinta**:
 >
-> | Tema de la Unidad 11 | EMO<br>`FIS-03` | EMM<br>`FG-03` | EMA<br>`FIS-02` |
-> |---|:---:|:---:|:---:|
-> | 1 · Diferencia entre calor y temperatura | sí | sí | sí |
-> | 2 · Medida de la temperatura | sí | sí | — |
-> | 3 · Escalas Celsius, Kelvin y Fahrenheit | sí | sí | sí |
-> | 4 · Dilatación de los cuerpos | — | — | **sí ✓** |
-> | 5 · Formas de propagación del calor | sí | sí | sí |
-> | 6 · Energía solar, su medida y transformación | sí | — | — |
-> | 7 · Unidades para medir el calor | sí | sí | — |
-> | 12 · Los gases y sus leyes | sí | sí | sí |
+> | Tema de la Unidad 11 | EMO<br>`FIS-03` | EMM<br>`FG-03` | EMA<br>`FIS-02` | EMMA<br>`FÍS-02` |
+> |---|:---:|:---:|:---:|:---:|
+> | 1 · Diferencia entre calor y temperatura | sí | sí | sí | sí |
+> | 2 · Medida de la temperatura | sí | sí | — | sí |
+> | 3 · Escalas Celsius, Kelvin y Fahrenheit | sí | sí | sí | sí |
+> | 4 · Dilatación de los cuerpos | — | — | sí | sí |
+> | 5 · Formas de propagación del calor | sí | sí | sí | sí |
+> | 6 · Energía solar, su medida y transformación | sí | — | — | sí |
+> | 7 · Unidades para medir el calor | sí | sí | — | sí |
+> | 8 · Capacidad calorífica | — | — | — | **sí ✓** |
+> | 9 · Calor específico | — | — | — | **sí ✓** |
+> | 10 · Calor latente | — | — | — | **sí — falta escribir** |
+> | 11 · Calor cedido y absorbido por los cuerpos | — | — | — | **sí — falta escribir** |
+> | 12 · Los gases y sus leyes | sí | sí | sí | sí |
+> | 13 · Termodinámica | — | — | — | **sí — falta escribir** |
 >
-> El tema 6 sólo lo pide la EMO; el tema 4 sólo la EMA (**escrito el 25 jul 2026**
-> en el sub-lote 10, teoría de las pp. 337–341). Por eso **la línea
-> `**Tema:**` de cada reactivo es obligatoria** (`U11 t3`, `U11 t6`…).
+> El tema 6 sólo lo pide la EMO y la EMMA; el tema 4, la EMA y la EMMA (**escrito
+> el 25 jul 2026** en el sub-lote 10, teoría de las pp. 337–341). Los temas 8 a 11
+> y el 13 **los pide sólo la EMMA**, que lleva la unidad completa. Por eso **la
+> línea `**Tema:**` de cada reactivo es obligatoria** (`U11 t3`, `U11 t6`…).
 > `**Referencia:**` (libro, edición, página) y `**Subtema:**` completan la llave.
 
 ## Libro
@@ -45,20 +61,25 @@ desfase se mantuvo constante en toda la unidad.
 
 ## Cobertura actual
 
-La Unidad 11 queda **COMPLETA** en lo que piden los temarios: sus **ocho temas**
-(1 Diferencia entre calor y temperatura pp. 332–335; 2 Medida de la temperatura
-pp. 335–336; 3 Escalas Celsius, Kelvin y Fahrenheit pp. 336–337; **4 Dilatación de
-los cuerpos pp. 337–341**; 5 Formas de propagación del calor pp. 343–344; **6
-Energía solar, su medida y transformación p. 345**; 7 Unidades para medir el calor
-p. 346; 12 Los gases y sus leyes pp. 354–359).
+Escritos **diez de los trece temas**: 1 Diferencia entre calor y temperatura
+pp. 332–335; 2 Medida de la temperatura pp. 335–336; 3 Escalas Celsius, Kelvin y
+Fahrenheit pp. 336–337; **4 Dilatación de los cuerpos pp. 337–341**; 5 Formas de
+propagación del calor pp. 343–344; **6 Energía solar, su medida y transformación
+p. 345**; 7 Unidades para medir el calor p. 346; **8 Capacidad calorífica
+pp. 346–347**; **9 Calor específico p. 347**; y 12 Los gases y sus leyes
+pp. 354–359.
 
-Se saltó todo lo que los temarios no piden aunque cayera en las mismas páginas:
-los temas 8 a 11 (Capacidad calorífica, Calor específico, Calor latente y Calor
-cedido y absorbido, pp. 346–353) y 13 (Termodinámica, p. 360 en adelante). Del
-tema 4 se saltó la p. 342 (problemas resueltos de dilatación cúbica) y los cuadros
-11.1, 11.2 y 11.3 de valores de coeficientes (datos de tabla). También se saltaron
-todos los "Ejercicios propuestos", los problemas resueltos de conversión de escalas
-y de las leyes de los gases, y las actividades experimentales.
+**Faltan tres temas, todos de la EMMA:** el **10** (Calor latente, pp. 349–350),
+el **11** (Calor cedido y absorbido por los cuerpos, pp. 351–353) y el **13**
+(Termodinámica, pp. 360–372, que es el más extenso de la unidad).
+
+Se saltó, por norma: del tema 4, la p. 342 (problemas resueltos de dilatación
+cúbica) y los cuadros 11.1, 11.2 y 11.3 de valores de coeficientes (datos de
+tabla); del tema 9, el **cuadro 11.4** de calores específicos, por la misma razón
+—los valores que sí entran son los que el libro da en prosa, como el 1 cal/g °C
+del agua—. También quedan fuera todos los "Ejercicios propuestos", los problemas
+resueltos de conversión de escalas, de calor específico y de las leyes de los
+gases, y las actividades experimentales.
 
 - **Sub-lote 1 · Diferencia entre calor y temperatura (p. 332, 334–335)** — tema 1
 - **Sub-lote 2 · Medida de la temperatura (p. 335–336)** — tema 2
@@ -70,12 +91,9 @@ y de las leyes de los gases, y las actividades experimentales.
 - **Sub-lote 8 · Ley general del estado gaseoso y constante universal (p. 358–359)** — tema 12
 - **Sub-lote 9 · Energía solar, su medida y transformación (p. 345)** — tema 6; añadido para la EMO (`FIS-03`), va al final del archivo (orden de captura, no de página)
 - **Sub-lote 10 · Dilatación de los cuerpos (pp. 337–341)** — tema 4; añadido para la EMA (`FIS-02`), va al final del archivo (orden de captura, no de página)
+- **Sub-lote 11 · Capacidad calorífica y calor específico (pp. 346–347)** — temas 8 y 9; añadido el 14 ago 2026 para la **EMMA** (`FÍS-02`), único plantel que los pide. Cubre la definición de capacidad calorífica y sus unidades, Cp frente a Cv, la relación C/m que define el calor específico, la fórmula ΔQ = mCeΔT, el valor de 1 cal/g °C del agua y el ejemplo del agua y la plata
 
-**Pendiente:** ninguno. Con el **tema 4 · Dilatación de los cuerpos** —añadido el
-25 jul 2026 en el sub-lote 10, 18 reactivos— la Unidad 11 queda **CERRADA para los
-tres planteles** que la piden: la EMO (temas 1, 2, 3, 5, 6, 7, 12), la EMM (1, 2, 3,
-5, 7, 12) y la **EMA** (1, 3, 4, 5, 12). El tema 4 era el único hueco vivo de la
-unidad; ya no queda ninguno.
+**Pendiente:** la Unidad 11 está **EN CURSO**; faltan tres temas, los tres pedidos **sólo por la EMMA** (`FÍS-02-2026`, que pide la unidad Completo): el tema **10 · Calor latente** (pp. 349–350), el tema **11 · Calor cedido y absorbido por los cuerpos** (pp. 351–353) y el tema **13 · Termodinámica** (pp. 360–372, hasta antes del "Proyecto de investigación de campo" y la "Actividad experimental 19" de la p. 373, que no llevan reactivos). Los temas 1 a 9 y el 12 ya están escritos, así que las demás escuelas —EMO, EMM y EMA— tienen cubierto lo suyo desde el 25 jul 2026.
 
 ## Cómo se escriben estos reactivos
 
@@ -1326,6 +1344,344 @@ En relación con el libro de Física, ¿cómo es el coeficiente de dilatación c
 
 <El coeficiente de dilatación cúbica es igual para todos los gases. Es decir, cualquier gas, al ser sometido a una presión constante, por cada grado Celsius que cambie su temperatura variará 1/273 el volumen que ocupaba a 0 °C.>
 
+## Sub-lote 11 · Capacidad calorífica y calor específico (pp. 346–347) — temas 8 y 9
+
+### 75
+
+De acuerdo con el libro de Física, ¿qué se ha observado a partir de experimentos al suministrar la misma cantidad de calor a dos sustancias diferentes?
+
+- A. Que el aumento de temperatura no es el mismo.
+- B. Que el aumento de temperatura es exactamente el mismo.
+- C. Que ninguna de las dos sustancias aumenta su temperatura.
+- D. Que ambas sustancias aumentan su volumen por igual.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t8 · capacidad calorífica
+**Subtema:** Física · Capacidad calorífica
+
+<A partir de experimentos se ha observado que al suministrar la misma cantidad de calor a dos sustancias diferentes, el aumento de temperatura no es el mismo.>
+
+### 76
+
+De conformidad con el libro de Física, ¿cómo se define la capacidad calorífica?
+
+- A. Como la relación existente entre la cantidad de calor que recibe una sustancia y su correspondiente elevación de temperatura.
+- B. Como la relación existente entre la cantidad de calor que recibe una sustancia y su masa.
+- C. Como la relación existente entre la masa de una sustancia y su elevación de temperatura.
+- D. Como la cantidad de calor que necesita un gramo de una sustancia para elevar su temperatura un grado.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t8 · capacidad calorífica
+**Subtema:** Física · Capacidad calorífica
+
+<Emplearemos su capacidad calorífica, la cual se define como la relación existente entre la cantidad de calor ΔQ que recibe y su correspondiente elevación de temperatura ΔT.>
+
+### 77
+
+En relación con el libro de Física, ¿cuál es la expresión de la capacidad calorífica?
+
+- A. C = ΔQ/ΔT
+- B. C = ΔT/ΔQ
+- C. C = ΔQ/m
+- D. C = mΔQΔT
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t8 · capacidad calorífica
+**Subtema:** Física · Capacidad calorífica
+
+<C = ΔQ/ΔT.>
+
+### 78
+
+De acuerdo con el libro de Física, ¿cuáles pueden ser las unidades de la capacidad calorífica?
+
+- A. cal/°C, kcal/°C, J/°C, J/K, BTU/°F.
+- B. cal/g °C, kcal/g °C, J/kg °C, BTU/lb °F.
+- C. cal, kcal, joule y BTU.
+- D. °C, K y °F.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t8 · capacidad calorífica
+**Subtema:** Física · Capacidad calorífica
+
+<Las unidades de la capacidad calorífica pueden ser en: cal/°C, kcal/°C, J/°C, J/K, BTU/°F.>
+
+### 79
+
+De conformidad con el libro de Física, ¿qué debe especificarse en la determinación de la capacidad calorífica de una sustancia?
+
+- A. Si se hace a presión o a volumen constante.
+- B. Si se hace con la sustancia en reposo o en movimiento.
+- C. Si la masa de la sustancia es mayor o menor a un gramo.
+- D. Si el calor se expresa en calorías o en joules.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t8 · capacidad calorífica
+**Subtema:** Física · Capacidad calorífica
+
+<En la determinación de la capacidad calorífica de una sustancia debe especificarse si se hace a presión o a volumen constante.>
+
+### 80
+
+En relación con el libro de Física, ¿cómo se indica esa distinción?
+
+- A. Cp si es a presión constante, Cv si es a volumen constante.
+- B. Cv si es a presión constante, Cp si es a volumen constante.
+- C. Ce si es a presión constante, C si es a volumen constante.
+- D. Cp si es a presión constante, Ce si es a volumen constante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t8 · capacidad calorífica
+**Subtema:** Física · Capacidad calorífica
+
+<Se indicará de la siguiente manera: Cp si es a presión constante, Cv si es a volumen constante.>
+
+### 81
+
+De acuerdo con el libro de Física, ¿en cuál de los dos casos tiene un valor mayor la capacidad calorífica de una sustancia?
+
+- A. Si se lleva a cabo a presión constante, que si es realizada a volumen constante.
+- B. Si se lleva a cabo a volumen constante, que si es realizada a presión constante.
+- C. Tiene exactamente el mismo valor en ambos casos.
+- D. Depende únicamente de la masa de la sustancia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t8 · capacidad calorífica
+**Subtema:** Física · Capacidad calorífica
+
+<La capacidad calorífica de una sustancia tiene un valor mayor si se lleva a cabo a presión constante, que si es realizada a volumen constante.>
+
+### 82
+
+De conformidad con el libro de Física, ¿por qué ocurre eso?
+
+- A. Toda vez que al aplicar presión constante a una sustancia, ésta sufre un aumento en su volumen, lo que provoca una disminución en su temperatura y, consecuentemente, necesitará más calor para elevarla.
+- B. Toda vez que al aplicar presión constante a una sustancia, ésta sufre una disminución en su volumen, lo que provoca un aumento en su temperatura.
+- C. Toda vez que a presión constante la sustancia no puede cambiar de volumen.
+- D. Toda vez que a presión constante todo el calor pasa a aumentar la energía cinética de las moléculas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 346
+**Tema:** U11 t8 · capacidad calorífica
+**Subtema:** Física · Capacidad calorífica
+
+<Toda vez que al aplicar presión constante a una sustancia, ésta sufre un aumento en su volumen, lo que provoca una disminución en su temperatura y, consecuentemente, necesitará más calor para elevarla.>
+
+### 83
+
+En relación con el libro de Física, a volumen constante, ¿qué sucede con todo el calor suministrado a la sustancia?
+
+- A. Pasa a aumentar la energía cinética de las moléculas.
+- B. Pasa a aumentar el volumen de la sustancia.
+- C. Se pierde por radiación hacia los alrededores.
+- D. Pasa a disminuir la energía cinética de las moléculas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t8 · capacidad calorífica
+**Subtema:** Física · Capacidad calorífica
+
+<A volumen constante, todo el calor suministrado a la sustancia pasa a aumentar la energía cinética de las moléculas.>
+
+### 84
+
+De acuerdo con el libro de Física, ¿qué sucede entonces con la temperatura?
+
+- A. Se incrementa con mayor facilidad, tal como sucede en una olla de presión.
+- B. Se incrementa con mayor dificultad, tal como sucede en una olla de presión.
+- C. Permanece constante mientras dura el suministro de calor.
+- D. Disminuye conforme aumenta la energía cinética de las moléculas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t8 · capacidad calorífica
+**Subtema:** Física · Capacidad calorífica
+
+<Por tanto, la temperatura se incrementa con mayor facilidad, tal como sucede en una olla de presión.>
+
+### 85
+
+De conformidad con el libro de Física, ¿qué significa que el valor de la capacidad calorífica de una sustancia sea más alto?
+
+- A. Que requiere mayor cantidad de calor para elevar su temperatura.
+- B. Que requiere menor cantidad de calor para elevar su temperatura.
+- C. Que su masa es mayor que la de otras sustancias.
+- D. Que su temperatura se eleva sin necesidad de suministrarle calor.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t8 · capacidad calorífica
+**Subtema:** Física · Capacidad calorífica
+
+<Es evidente que mientras más alto sea el valor de la capacidad calorífica de una sustancia, significa que requiere mayor cantidad de calor para elevar su temperatura.>
+
+### 86
+
+En relación con el libro de Física, si calentamos diferentes masas de una misma sustancia, ¿qué observaremos?
+
+- A. Que su capacidad calorífica es distinta.
+- B. Que su capacidad calorífica es la misma.
+- C. Que su calor específico es distinto.
+- D. Que su temperatura no varía.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t9 · calor específico
+**Subtema:** Física · Calor específico
+
+<Si calentamos diferentes masas de una misma sustancia, observaremos que su capacidad calorífica es distinta.>
+
+### 87
+
+De acuerdo con el libro de Física, ¿qué encontraremos si dividimos el valor de la capacidad calorífica de cada trozo de hierro entre su masa?
+
+- A. Que la relación C/m para cada trozo es la misma.
+- B. Que la relación C/m para cada trozo es distinta.
+- C. Que la relación C/m aumenta con la masa del trozo.
+- D. Que la relación C/m disminuye con la masa del trozo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t9 · calor específico
+**Subtema:** Física · Calor específico
+
+<Pero si dividimos el valor de la capacidad calorífica de cada trozo de hierro entre su masa, encontraremos que la relación: capacidad calorífica/masa, o bien, C/m para cada trozo es la misma.>
+
+### 88
+
+De conformidad con el libro de Física, ¿cómo se nombra esa relación?
+
+- A. Calor específico, y es una propiedad característica de la materia.
+- B. Capacidad calorífica, y es una propiedad característica de la materia.
+- C. Coeficiente de dilatación, y es una propiedad característica de la materia.
+- D. Calor latente, y es una propiedad característica de la materia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t9 · calor específico
+**Subtema:** Física · Calor específico
+
+<A esta relación se le nombra calor específico y es una propiedad característica de la materia.>
+
+### 89
+
+En relación con el libro de Física, por definición, ¿a qué es igual el calor específico de una sustancia?
+
+- A. A la capacidad calorífica de dicha sustancia entre su masa.
+- B. A la capacidad calorífica de dicha sustancia por su masa.
+- C. A la masa de dicha sustancia entre su capacidad calorífica.
+- D. A la cantidad de calor que recibe entre su elevación de temperatura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t9 · calor específico
+**Subtema:** Física · Calor específico
+
+<Por definición: el calor específico Ce de una sustancia es igual a la capacidad calorífica C de dicha sustancia entre su masa m.>
+
+### 90
+
+De acuerdo con el libro de Física, ¿qué expresión se deduce de esa definición?
+
+- A. ΔQ = mCeΔT
+- B. ΔQ = CeΔT/m
+- C. ΔQ = mΔT/Ce
+- D. ΔQ = Ce/mΔT
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t9 · calor específico
+**Subtema:** Física · Calor específico
+
+<Ce = ΔQ/mΔT ∴ ΔQ = mCeΔT.>
+
+### 91
+
+De conformidad con el libro de Física, en términos prácticos, ¿cómo se define el calor específico?
+
+- A. Como la cantidad de calor que necesita un gramo de una sustancia para elevar su temperatura un grado centígrado.
+- B. Como la cantidad de calor que necesita un kilogramo de una sustancia para elevar su temperatura un grado centígrado.
+- C. Como la cantidad de calor que necesita una sustancia para cambiar de estado.
+- D. Como la relación entre el calor recibido y la variación de volumen.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t9 · calor específico
+**Subtema:** Física · Calor específico
+
+<En términos prácticos, el calor específico se define como la cantidad de calor que necesita un gramo de una sustancia para elevar su temperatura un grado centígrado.>
+
+### 92
+
+En relación con el libro de Física, ¿cuál es el valor del calor específico del agua?
+
+- A. 1 cal/g °C.
+- B. 0.5 cal/g °C.
+- C. 4.2 cal/g °C.
+- D. 0.18 cal/g °C.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t9 · calor específico
+**Subtema:** Física · Calor específico
+
+<En el caso del agua, su valor es de 1 cal/g °C.>
+
+### 93
+
+De acuerdo con el libro de Física, ¿qué quiere decir ese valor?
+
+- A. Que un gramo de agua aumenta su temperatura un grado centígrado cuando se le suministra una cantidad de calor igual a una caloría.
+- B. Que un gramo de agua aumenta su temperatura un grado centígrado cuando se le suministra una cantidad de calor igual a un joule.
+- C. Que un kilogramo de agua aumenta su temperatura un grado centígrado con una caloría.
+- D. Que el agua necesita menos calor que cualquier otra sustancia para elevar su temperatura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t9 · calor específico
+**Subtema:** Física · Calor específico
+
+<Esto quiere decir que un gramo de agua aumenta su temperatura un grado centígrado cuando se le suministra una cantidad de calor igual a una caloría.>
+
+### 94
+
+De conformidad con el libro de Física, ¿qué significa que el agua tenga mayor calor específico?
+
+- A. Que necesita más calor para elevar su temperatura.
+- B. Que necesita menos calor para elevar su temperatura.
+- C. Que su temperatura sube más rápido que la de otras sustancias.
+- D. Que su masa es mayor que la de otras sustancias.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t9 · calor específico
+**Subtema:** Física · Calor específico
+
+<El agua tiene mayor calor específico, lo cual significa que necesita más calor para elevar su temperatura.>
+
+### 95
+
+En relación con el libro de Física, al aplicar el mismo calor a dos masas iguales de agua y plata, ¿cuántas veces más rápido se calienta la plata?
+
+- A. Aproximadamente 18 veces más rápido.
+- B. Aproximadamente 8 veces más rápido.
+- C. Aproximadamente 28 veces más rápido.
+- D. Aproximadamente 2 veces más rápido.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 347
+**Tema:** U11 t9 · calor específico
+**Subtema:** Física · Calor específico
+
+<Al aplicar el mismo calor a dos masas iguales de agua y plata, ésta se calienta 18 veces más rápido que el agua, pues es menor su calor específico.>
+
 ---
 
-**Reactivos en este archivo:** 74
+**Reactivos en este archivo:** 95
