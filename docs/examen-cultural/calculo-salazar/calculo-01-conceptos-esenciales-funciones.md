@@ -56,6 +56,12 @@ Secciones de la Unidad 1, según el índice del libro:
 
 ## Erratas del libro
 
+- **p.13 — "funciones  eales" por "funciones reales", en el título del inciso a).** El
+  encabezado imprime *"a) Gráficas de funciones  eales de variable real (algebraicas y
+  trascendentes)"*: **falta la "r" de reales** y queda el hueco doble donde iba.
+  Verificado a 600 dpi; el **índice del libro (p.4) sí dice "reales"**, así que es un
+  desliz de composición de esa página. **No afecta a ningún reactivo** —el título no se
+  pregunta—, pero queda anotado por si el aspirante lo ve.
 - **p.10 — la frase que abre el 1.2 tiene dos fallas.** El libro imprime:
   *"En una función, todo elemento de B correspondiente a un elemento de A **y** recibe
   el nombre de **imagen de A**."* Verificado a 600 dpi, las dos son del libro y no del
@@ -134,12 +140,24 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   la regla *y* = 2*x* con su *Solución*, la **Tabla 1.1** y la Figura 1.6, que son un
   ejercicio resuelto; y la mención de que las figuras 1.7 y 1.8 son "una circunferencia
   y una semicircunferencia", que es de qué dibujo usó el libro y no del criterio en sí.
+- **La página impresa 12 NO dio ningún reactivo.** Entera es material excluido: las
+  Figuras 1.7 y 1.8 (el criterio que ya quedó cubierto en la p.11), una **"Actividad de
+  aprendizaje"** y un apartado **"Uso de la tecnología"** que explica qué teclas oprimir
+  en la calculadora CLASSWIZ para armar una tabla. Eso último es manejo de herramienta,
+  no matemáticas: cae bajo la regla del README de que el dato tiene que ser **del tema**.
+- Cubierta la página impresa **13**: **Variables y constantes** (qué son unas y otras, y
+  por qué *x* es independiente y *f* (*x*) dependiente) y el arranque del inciso **a)**
+  con el **valor numérico de una función**. **Fuera:** la cola del "Uso de la
+  tecnología" que ocupa el tercio superior, y la aplicación al problema de la caja
+  (*"la variable independiente es x… las constantes son 18, 2 y 12"*), que es el
+  ejercicio resuelto.
 
-**Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10). Sigue desde la
-**p.12** con el resto del **1.3 Funciones reales de variable real** (pp. 12–60), que es
-el grueso de la unidad: contradominio y regla de asociación, y luego sus cuatro incisos
-—a) gráficas (p.13), b) explícitas o implícitas (p.25), c) inyectivas, sobreyectivas y
-biyectivas (p.42) y d) función invertible e inversa (p.49)—. Después van la **Unidad 2**
+**Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
+va cubierto hasta la **p.13**. Sigue desde la **p.14** con el resto del inciso **a)
+Gráficas de funciones reales de variable real** (pp. 14–24) y después los otros tres
+incisos: **b)** explícitas o implícitas (p.25), **c)** inyectivas, sobreyectivas y
+biyectivas (p.42) y **d)** función invertible e inversa (p.49), hasta cerrar la Unidad 1
+en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
 es materia nueva del banco:** mientras no exista el `.md` de la Unidad 2, éste sostiene
 el pendiente de toda la materia.
@@ -471,3 +489,84 @@ De conformidad con el libro de Cálculo, cuando la recta vertical corta a la gr�
 **Subtema:** Funciones reales de variable real · Criterio de la recta vertical
 
 "[...] donde se ha trazado una recta vertical que las corta, cuando esto sucede en más de un punto, entonces no es función."
+
+---
+
+## Sub-lote 5 · Variables, constantes y valor numérico de una función (1.3 a, p.13)
+
+### 21
+
+En relación con el libro de Cálculo, ¿cómo se llaman los valores que nunca cambian de valor?
+
+- A. Constantes
+- B. Variables
+- C. Imágenes
+- D. Coeficientes
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 13
+**Subtema:** Variables y constantes · Constantes
+
+"[...] hay valores como el 2 que nunca cambian de valor; por ello, los llamamos constantes."
+
+### 22
+
+De acuerdo con el libro de Cálculo, ¿cómo se llaman los valores que sí cambian de valor?
+
+- A. Variables
+- B. Constantes
+- C. Contradominios
+- D. Rangos
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 13
+**Subtema:** Variables y constantes · Variables
+
+"[...] observa que hay otros que sí cambian de valor y se llaman variables."
+
+### 23
+
+De conformidad con el libro de Cálculo, ¿por qué la variable *x* se llama independiente?
+
+- A. Porque sus valores los toma del dominio de la función
+- B. Porque su valor depende del que tome *f* (*x*)
+- C. Porque nunca cambia de valor a lo largo de la función
+- D. Porque puede tomar cualquier valor sin pertenecer a ningún conjunto
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 13
+**Subtema:** Variables y constantes · Variable independiente
+
+"Las variables pueden ser independientes (*x*), ya que sus valores los toma del dominio de la función [...]"
+
+### 24
+
+En relación con el libro de Cálculo, ¿por qué *f* (*x*) se llama variable dependiente?
+
+- A. Porque depende del valor que tome *x* para tomar su valor
+- B. Porque sus valores los toma del dominio de la función
+- C. Porque depende de las constantes que aparezcan en la función
+- D. Porque su valor lo determina el contradominio
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 13
+**Subtema:** Variables y constantes · Variable dependiente
+
+"[...] en cambio, *f* (*x*) es una variable que depende del valor que tome *x* para tomar su valor; por ello, se llama variable dependiente"
+
+> Nota de revisor: los reactivos 23 y 24 van con las opciones cruzadas. Es el par que se voltea solo, y el libro los explica en la misma frase.
+
+### 25
+
+De acuerdo con el libro de Cálculo, ¿qué es el valor numérico de una función?
+
+- A. El conjunto de las imágenes de los elementos del dominio que se obtienen al sustituir la variable independiente *x* en la función
+- B. El conjunto de los elementos del dominio en los que la función está definida
+- C. El número de veces que la función corta al eje horizontal
+- D. La constante que acompaña a la variable independiente
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 13
+**Subtema:** Gráficas de funciones reales · Valor numérico de una función
+
+"Se llama así al conjunto de las imágenes de los elementos del dominio que se obtienen al sustituir la variable independiente *x* en la función."
