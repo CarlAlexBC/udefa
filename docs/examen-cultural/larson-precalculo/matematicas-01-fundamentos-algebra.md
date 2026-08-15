@@ -67,8 +67,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 - Cubierta la página impresa **27**, con la que **cierra el 1.3**: para qué son útiles los exponentes racionales y el `COMENTARIO` del caso no definido. El `Resumen (sección 1.3)` **no lleva reactivos**: es una lista de indicaciones de estudio que remite a los ejemplos, y cae por la regla del dato del tema. Los `EJEMPLO 16` y `17` y el `TECNOLOGÍA` de las graficadoras tampoco. **Las pp. 28 y 29 son íntegramente el bloque `1.3 Ejercicios`** —incluidos el "Vocabulario", el "Modelado matemático", el "¿CÓMO LO VE?" y la "Exploración"—, así que no llevan un solo reactivo.
 - Cubiertas las páginas impresas **30 y 31**, arranque del **1.4 · Polinomios y factorización**: qué es un polinomio y la forma axᵏ de sus términos, el recuadro *Definición de un polinomio con x* (salvo su errata de "n no positivo"), monomios/binomios/trinomios, la forma estándar, el polinomio cero, el grado y el coeficiente principal con más de una variable, el `COMENTARIO` de qué expresiones no son polinomios, los términos semejantes, el producto por las propiedades distributivas y el método PEIU. Los `EJEMPLO 1` a `EJEMPLO 3` no llevan reactivos.
 - Cubiertas las páginas impresas **32 y 33**: el recuadro *Productos especiales* completo (binomios conjugados, cuadrado y cubo de un binomio) y *Polinomios con factores comunes* (qué es factorizar, el polinomio primo o irreducible en enteros, la factorización completa, el tipo más simple y la propiedad distributiva en dirección inversa). Del `EJEMPLO 4` se tomó **sólo la regla general** de que el producto de binomios conjugados no tiene término medio, no el ejercicio; el `EJEMPLO 5` no lleva reactivos.
+- Cubiertas las páginas impresas **34 y 35**: el recuadro *Factorización de formas polinomiales especiales* completo (diferencia de dos cuadrados, trinomio cuadrado perfecto en sus dos formas, suma y diferencia de dos cubos), los pares conjugados, cómo reconocer términos cuadrados perfectos, el `COMENTARIO` de buscar factores comunes primero, y la descripción del trinomio cuadrado perfecto (primero y último términos cuadrados, término medio igual a dos veces el producto de u y v). Los `EJEMPLO 6` a `EJEMPLO 10` no llevan reactivos.
 
-**Pendiente:** EN CURSO. Sigue desde la página impresa **34**, con lo que reste del **1.4** hasta la **p. 39**. Después faltan los otros cinco subtemas que pide el temario —**1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+**Pendiente:** EN CURSO. Sigue desde la página impresa **36**, con lo que reste del **1.4** hasta la **p. 39**. Después faltan los otros cinco subtemas que pide el temario —**1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -2201,5 +2202,247 @@ De acuerdo con el libro de Matemáticas, ¿cuál es el primer paso para factoriz
 **Subtema:** polinomios y factorización · factores comunes
 
 La factorización en cualesquiera factores comunes es el primer paso para factorizar completamente un polinomio.
+
+---
+
+## Sub-lote 13 · Factorización de formas polinomiales especiales (1.4, p. 34)
+
+### 125
+
+De conformidad con el libro de Matemáticas, ¿de dónde surgen las formas especiales que tienen algunos polinomios?
+
+- A. De las formas de productos especiales
+- B. De la propiedad distributiva en dirección inversa
+- C. De las propiedades de los radicales
+- D. De la forma estándar del polinomio
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 34
+**Subtema:** polinomios y factorización · formas polinomiales especiales
+
+Algunos polinomios tienen formas especiales que surgen de las formas de productos especiales.
+
+---
+
+### 126
+
+En relación con el libro de Matemáticas, ¿cuál es la forma factorizada de u² − v²?
+
+- A. (u + v)(u − v)
+- B. (u − v)(u − v)
+- C. (u + v)(u + v)
+- D. (u + v)²
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 34
+**Subtema:** polinomios y factorización · diferencia de dos cuadrados
+
+Diferencia de dos cuadrados: u² − v² = (u + v)(u − v).
+
+---
+
+### 127
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la forma factorizada de u² + 2uv + v²?
+
+- A. (u + v)²
+- B. (u − v)²
+- C. (u + v)(u − v)
+- D. (u + v)³
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 34
+**Subtema:** polinomios y factorización · trinomio cuadrado perfecto
+
+Trinomio cuadrado perfecto: u² + 2uv + v² = (u + v)².
+
+---
+
+### 128
+
+De conformidad con el libro de Matemáticas, ¿cuál es la forma factorizada de u³ + v³?
+
+- A. (u + v)(u² − uv + v²)
+- B. (u − v)(u² + uv + v²)
+- C. (u + v)(u² + uv + v²)
+- D. (u + v)(u² − 2uv + v²)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 34
+**Subtema:** polinomios y factorización · suma de dos cubos
+
+Suma o diferencia de dos cubos: u³ + v³ = (u + v)(u² − uv + v²).
+
+---
+
+### 129
+
+En relación con el libro de Matemáticas, ¿cuál es la forma factorizada de u³ − v³?
+
+- A. (u − v)(u² + uv + v²)
+- B. (u + v)(u² − uv + v²)
+- C. (u − v)(u² − uv + v²)
+- D. (u − v)(u² + 2uv + v²)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 34
+**Subtema:** polinomios y factorización · diferencia de dos cubos
+
+Suma o diferencia de dos cubos: u³ − v³ = (u − v)(u² + uv + v²).
+
+---
+
+### 130
+
+De acuerdo con el libro de Matemáticas, ¿qué es siempre la forma factorizada de una diferencia de dos cuadrados?
+
+- A. Un conjunto de pares conjugados
+- B. Un trinomio cuadrado perfecto
+- C. El cuadrado de un binomio
+- D. El producto de un monomio y un binomio
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 34
+**Subtema:** polinomios y factorización · diferencia de dos cuadrados
+
+La forma factorizada de una diferencia de dos cuadrados es siempre un conjunto de pares conjugados.
+
+---
+
+### 131
+
+De conformidad con el libro de Matemáticas, para reconocer términos cuadrados perfectos, ¿qué se debe buscar?
+
+- A. Coeficientes que sean cuadrados de enteros y variables elevadas a potencias pares
+- B. Coeficientes que sean cubos de enteros y variables elevadas a potencias impares
+- C. Coeficientes que sean números primos y variables sin exponente
+- D. Coeficientes negativos y variables elevadas al cuadrado
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 34
+**Subtema:** polinomios y factorización · términos cuadrados perfectos
+
+Para reconocer términos cuadrados perfectos, busque coeficientes que sean cuadrados de enteros y variables elevadas a potencias pares.
+
+---
+
+### 132
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cuál es el primer paso de la factorización de un polinomio?
+
+- A. Buscar factores comunes
+- B. Reconocer un trinomio cuadrado perfecto
+- C. Aplicar la diferencia de dos cuadrados
+- D. Escribirlo en forma estándar
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 34
+**Subtema:** polinomios y factorización · factores comunes
+
+Nótese que el primer paso de la factorización de un polinomio es buscar factores comunes.
+
+---
+
+### 133
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué ocurre una vez que se han eliminado todos los factores comunes?
+
+- A. A menudo es posible reconocer patrones que no fueron obvios de inmediato
+- B. El polinomio queda siempre completamente factorizado
+- C. El polinomio se vuelve irreducible en enteros
+- D. Ya no es necesario aplicar ninguna otra fórmula
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 34
+**Subtema:** polinomios y factorización · factores comunes
+
+Una vez que usted ha eliminado todos los factores comunes, a menudo es posible reconocer patrones que no fueron obvios de inmediato.
+
+---
+
+## Sub-lote 14 · Trinomio cuadrado perfecto y los signos de los cubos (1.4, p. 35)
+
+### 134
+
+De conformidad con el libro de Matemáticas, ¿qué es un trinomio cuadrado perfecto?
+
+- A. El cuadrado de un binomio
+- B. El cubo de un binomio
+- C. El producto de dos binomios conjugados
+- D. El producto de un monomio y un binomio
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 35
+**Subtema:** polinomios y factorización · trinomio cuadrado perfecto
+
+Un trinomio cuadrado perfecto es el cuadrado de un binomio.
+
+---
+
+### 135
+
+En relación con el libro de Matemáticas, en un trinomio cuadrado perfecto, ¿qué son el primero y el último términos?
+
+- A. Cuadrados
+- B. Cubos
+- C. Pares conjugados
+- D. Factores comunes
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 35
+**Subtema:** polinomios y factorización · trinomio cuadrado perfecto
+
+Adviértase que el primero y último términos son cuadrados.
+
+---
+
+### 136
+
+De acuerdo con el libro de Matemáticas, en un trinomio cuadrado perfecto, ¿qué es el término medio?
+
+- A. Dos veces el producto de u y v
+- B. La mitad del producto de u y v
+- C. El cuadrado del producto de u y v
+- D. Tres veces el producto de u y v
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 35
+**Subtema:** polinomios y factorización · trinomio cuadrado perfecto
+
+El término medio es dos veces el producto de u y v.
+
+---
+
+### 137
+
+De conformidad con el libro de Matemáticas, ¿cuál es la forma factorizada de u² − 2uv + v²?
+
+- A. (u − v)²
+- B. (u + v)²
+- C. (u + v)(u − v)
+- D. (u − v)³
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 35
+**Subtema:** polinomios y factorización · trinomio cuadrado perfecto
+
+Un trinomio cuadrado perfecto es el cuadrado de un binomio y tiene la forma u² + 2uv + v² = (u + v)² o u² − 2uv + v² = (u − v)².
+
+---
+
+### 138
+
+En relación con el libro de Matemáticas, en las fórmulas de la suma y la diferencia de dos cubos, ¿a qué se debe prestar especial atención?
+
+- A. A los signos de los términos
+- B. Al orden de los factores
+- C. A los exponentes de las variables
+- D. Al valor de los coeficientes
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 35
+**Subtema:** polinomios y factorización · suma y diferencia de dos cubos
+
+Las dos fórmulas siguientes muestran la suma y diferencia de dos cubos. Preste especial atención a los signos de los términos.
 
 ---
