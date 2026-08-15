@@ -29,9 +29,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **21–22**: arranque de **2.1 · Posición, velocidad y rapidez de una partícula** (el modelo de partícula, la definición de posición, la gráfica posición-tiempo, el desplazamiento Δx ≡ xf − xi, la distancia recorrida y las cantidades vectorial y escalar). La portada (p.20) es sólo la intro narrativa (IMAGINE + CONEXIONES) y no aporta reactivos.
+**EN CURSO.** Escritas las páginas impresas **21–23**: **2.1 · Posición, velocidad y rapidez de una partícula** casi completo (el modelo de partícula, la definición de posición, la gráfica posición-tiempo, el desplazamiento Δx ≡ xf − xi, la distancia recorrida, las cantidades vectorial y escalar, la velocidad promedio vx,prom ≡ Δx/Δt y la rapidez promedio vprom ≡ d/Δt). La portada (p.20) es sólo la intro narrativa (IMAGINE + CONEXIONES) y no aporta reactivos.
 
-**Pendiente:** EN CURSO. Sigue el resto de **2.1** (velocidad y rapidez promedio, p.23) y luego **2.2** (velocidad y rapidez instantáneas) y **2.5** (aceleración). Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera del temario.
+**Pendiente:** EN CURSO. Falta el cierre de **2.1** (la distinción final velocidad/rapidez promedio, p.24; el Ejemplo 2.1 no lleva reactivos) y luego **2.2** (velocidad y rapidez instantáneas) y **2.5** (aceleración). Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera del temario.
 
 ---
 
@@ -218,3 +218,125 @@ De conformidad con el libro de Física, a partir de la definición de desplazami
 **Subtema:** posición, velocidad y rapidez · signo del desplazamiento
 
 "A partir de esta definición se ve que Δx es positiva si xf es mayor que xi y negativo si xf es menor que xi."
+
+## Sub-lote 3 · Velocidad promedio y rapidez promedio (p.23)
+
+### 13
+
+De acuerdo con el libro de Física, ¿cómo se define la velocidad promedio vx,prom de una partícula?
+
+- A. El desplazamiento Δx de la partícula dividido entre el intervalo de tiempo Δt durante el que ocurre dicho desplazamiento
+- B. La distancia total recorrida dividida entre el tiempo total
+- C. El cambio de la aceleración en un intervalo de tiempo
+- D. La posición final menos la posición inicial
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 23
+**Subtema:** posición, velocidad y rapidez · definición de velocidad promedio
+
+"La velocidad promedio vx,prom de una partícula se define como el desplazamiento Δx de la partícula dividido entre el intervalo de tiempo Δt durante el que ocurre dicho desplazamiento."
+
+### 14
+
+En relación con el libro de Física, la velocidad promedio se expresa mediante la ecuación:
+
+- A. vx,prom ≡ Δx/Δt
+- B. vx,prom ≡ Δt/Δx
+- C. vx,prom ≡ Δx · Δt
+- D. vx,prom ≡ Δx − Δt
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 23
+**Subtema:** posición, velocidad y rapidez · ecuación de velocidad promedio
+
+"La velocidad promedio vx,prom de una partícula se define como el desplazamiento Δx de la partícula dividido entre el intervalo de tiempo Δt durante el que ocurre dicho desplazamiento: vx,prom ≡ Δx/Δt."
+
+### 15
+
+De conformidad con el libro de Física, ¿qué dimensiones tiene la velocidad promedio?
+
+- A. Longitud divididas entre el tiempo (L/T), o metros por segundo en el SI
+- B. Longitud multiplicada por el tiempo (L·T)
+- C. Longitud al cuadrado entre el tiempo (L²/T)
+- D. Sólo longitud (L), o metros en el SI
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 23
+**Subtema:** posición, velocidad y rapidez · dimensiones de la velocidad promedio
+
+"La velocidad promedio tiene dimensiones de longitud divididas entre el tiempo (L/T), o metros por segundo en unidades del SI."
+
+### 16
+
+De acuerdo con el libro de Física, la velocidad promedio de una partícula que se mueve en una dimensión es positiva o negativa dependiendo:
+
+- A. del signo del desplazamiento
+- B. del valor de la aceleración
+- C. de la distancia total recorrida
+- D. del signo del intervalo de tiempo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 23
+**Subtema:** posición, velocidad y rapidez · signo de la velocidad promedio
+
+"La velocidad promedio de una partícula que se mueve en una dimensión es positiva o negativa, dependiendo del signo del desplazamiento. (El intervalo de tiempo Δt siempre es positivo.)"
+
+### 17
+
+En relación con el libro de Física, en una gráfica posición-tiempo, la pendiente de la recta trazada entre dos puntos corresponde a:
+
+- A. la velocidad promedio
+- B. la aceleración promedio
+- C. la distancia total recorrida
+- D. la posición inicial
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 23
+**Subtema:** posición, velocidad y rapidez · interpretación geométrica de la velocidad promedio
+
+"La pendiente de esta recta es la relación Δx/Δt, que se definió como velocidad promedio en la ecuación 2.2."
+
+### 18
+
+De conformidad con el libro de Física, ¿cómo se define la rapidez promedio vprom de una partícula?
+
+- A. La distancia total recorrida dividida entre el intervalo de tiempo total requerido para recorrer dicha distancia
+- B. El desplazamiento dividido entre el intervalo de tiempo
+- C. El cambio de velocidad entre el tiempo
+- D. La posición final dividida entre el tiempo total
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 23
+**Subtema:** posición, velocidad y rapidez · definición de rapidez promedio
+
+"La rapidez promedio vprom de una partícula, una cantidad escalar, se define como la distancia total recorrida dividida entre el intervalo de tiempo total requerido para recorrer dicha distancia."
+
+### 19
+
+De acuerdo con el libro de Física, la rapidez promedio se expresa mediante la ecuación:
+
+- A. vprom ≡ d/Δt
+- B. vprom ≡ Δx/Δt
+- C. vprom ≡ Δt/d
+- D. vprom ≡ d · Δt
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 23
+**Subtema:** posición, velocidad y rapidez · ecuación de rapidez promedio
+
+"La rapidez promedio vprom de una partícula, una cantidad escalar, se define como la distancia total recorrida dividida entre el intervalo de tiempo total requerido para recorrer dicha distancia: vprom ≡ d/Δt."
+
+### 20
+
+En relación con el libro de Física, a diferencia de la velocidad promedio, la rapidez promedio:
+
+- A. no tiene dirección y siempre se expresa como un número positivo
+- B. siempre es negativa
+- C. tiene dirección y magnitud
+- D. puede ser positiva o negativa
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 23
+**Subtema:** posición, velocidad y rapidez · rapidez promedio sin dirección
+
+"A diferencia de la velocidad promedio, la rapidez promedio no tiene dirección y siempre se expresa como un número positivo."
