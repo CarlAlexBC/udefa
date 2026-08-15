@@ -48,17 +48,22 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 - **p. 176, `EJEMPLO 5`:** el enunciado dice "Trace la gráfica de **y = −3 cos(2x + 4)**", pero la solución resuelve `2πx + 4π = 0` y la figura 2.49 rotula **y = −3 cos(2πx + 4π)**: al enunciado se le cayeron las dos π.
 - **p. 176, `EJEMPLO 6`:** el enunciado dice "Trace la gráfica de **y = 2 = 3 cos 2x**", con un signo igual donde va un **más**; la figura 2.50 rotula `y = 2 + 3 cos 2x`.
 
-Los dos últimos están dentro de bloques `EJEMPLO`, que de todos modos quedan fuera por norma.
+- **p. 207, punto 1 del `Resumen (sección 2.9)`:** dice "aplicaciones de la vida real de **triángulos correctos**"; son **triángulos rectángulos** (*right triangles* mal traducido). El `Resumen` queda fuera por norma.
+- **Nota de consistencia, p. 204:** el libro escribe el Oeste de dos maneras en la misma sección, "N 80° **W**" en la prosa y las figuras, y "N 54° **O**" en el ejemplo 5. No es un error de contenido, pero conviene saberlo: el reactivo 33 usa la grafía de la prosa, que es la que el aspirante lee al estudiar la definición.
+
+Los `EJEMPLO` y el `Resumen` quedan fuera por norma, así que ninguno de estos defectos afecta a un reactivo.
 
 ## Cobertura actual
 
-**EN CURSO.** El **2.6 · Gráficas de las funciones seno y coseno está CERRADO** (pp. 171–176):
+**EN CURSO.** Cerrados el **2.6** (pp. 171–176) y el **2.9** (pp. 202–205):
 
 - Cubiertas las páginas impresas **171 y 172**: la curva senoidal y el ciclo, el dominio, el rango y el periodo de las funciones seno y coseno, sus simetrías y el hecho de que el seno es impar y el coseno par, y los cinco puntos clave de un periodo. El `TECNOLOGÍA` de las graficadoras no lleva reactivos.
 - Cubiertas las páginas impresas **173, 174 y 175**: *Amplitud y periodo* (las formas generales `y = d + a sen(bx − c)` y `y = d + a cos(bx − c)`, el factor de escala, qué pasa según el valor de |a|, la *Definición de amplitud de curvas seno y coseno* y el rango para a > 0), el efecto de b sobre el periodo (el ciclo de 0 a 2π/b, el estiramiento y la contracción horizontales) con el `COMENTARIO` de dividir el periodo-intervalo, la reflexión en el eje x, y las *Traslaciones de curvas seno y coseno* (la constante c, el periodo 2π/b, el **corrimiento de fase** c/b y las ecuaciones `bx − c = 0` y `bx − c = 2π` para los puntos finales). Los `EJEMPLO 2` a `EJEMPLO 4` no llevan reactivos.
 - Cubierta la página impresa **176**, con la que **cierra el 2.6**: las *traslaciones verticales* que produce la constante d (hacia arriba para d > 0 y hacia abajo para d < 0) y que la gráfica pasa a oscilar alrededor de una recta horizontal en lugar del eje x. Los `EJEMPLO 5` y `EJEMPLO 6` no llevan reactivos. La **p. 177 tampoco**: es el `EJEMPLO 7` (profundidades del agua en un muelle) más el `Resumen (sección 2.6)`. Las **pp. 178–181 son el bloque `2.6 Ejercicios`**.
 
-**Pendiente:** EN CURSO. El **2.6 está CERRADO**. Sigue el **2.9 · Aplicaciones y modelos**, que arranca en la página impresa **202** y cuya teoría llega hasta la **p. 207**. Después faltan **2.10** (p. 212), **2.15** (p. 254) y **2.16** (p. 263). **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
+- Cubiertas las páginas impresas **202, 204 y 205**, con las que **cierra el 2.9 · Aplicaciones y modelos**: cómo se denotan ángulos y lados del triángulo rectángulo en la sección, *Trigonometría y rumbo* (qué mide un rumbo, cómo se leen S 35° E y N 80° W, y el `COMENTARIO` de que en **navegación aérea** los rumbos se miden en el sentido de las manecillas del reloj desde el Norte) y *Movimiento armónico* (periodo, amplitud y frecuencia, y la *Definición de movimiento armónico simple* con ω > 0, amplitud |a|, periodo 2π/ω y frecuencia ω/2π). La **p. 203 no lleva reactivos** (es íntegramente `EJEMPLO 3` y `EJEMPLO 4`), ni las **pp. 206–207** (`EJEMPLO 6`, `EJEMPLO 7` y el `Resumen`). Las **pp. 208–211 son el bloque `2.9 Ejercicios`**.
+
+**Pendiente:** EN CURSO. El **2.6 y el 2.9 están CERRADOS**. Sigue el **2.10 · Uso de identidades fundamentales**, que arranca en la página impresa **212** y cuya teoría llega hasta la **p. 216**. Después faltan **2.15** (p. 254) y **2.16** (p. 263). **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
 
 ---
 
@@ -541,5 +546,228 @@ De acuerdo con el libro de Matemáticas, con una traslación vertical, ¿alreded
 **Subtema:** gráficas de seno y coseno · traslaciones verticales
 
 En otras palabras, la gráfica oscila alrededor de la recta horizontal en lugar de alrededor del eje x.
+
+---
+
+## Sub-lote 4 · Rumbos y movimiento armónico — cierra el 2.9 (pp. 202–205)
+
+### 29
+
+De conformidad con el libro de Matemáticas, en esta sección, ¿cómo se denotan los ángulos y los lados de un triángulo rectángulo?
+
+- A. Los ángulos con A, B y C, donde C es el ángulo recto; los lados con a, b y c, donde c es la hipotenusa
+- B. Los ángulos con A, B y C, donde A es el ángulo recto; los lados con a, b y c, donde a es la hipotenusa
+- C. Los ángulos con a, b y c; los lados con A, B y C
+- D. Los ángulos con A, B y C, donde B es el ángulo recto; los lados con a, b y c, donde b es la hipotenusa
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 202
+**Subtema:** aplicaciones y modelos · triángulos rectángulos
+
+En esta sección, los tres ángulos de un triángulo rectángulo están denotados por las letras A, B y C (donde C es el ángulo recto), y las longitudes de los lados opuestos a estos ángulos, por las letras a, b y c (donde c es la hipotenusa).
+
+---
+
+### 30
+
+En relación con el libro de Matemáticas, en topografía y navegación, ¿en qué términos pueden darse las direcciones?
+
+- A. En términos de rumbo
+- B. En términos de amplitud
+- C. En términos de frecuencia
+- D. En términos de corrimiento de fase
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 204
+**Subtema:** aplicaciones y modelos · rumbo
+
+En topografía y navegación, las direcciones pueden darse en términos de rumbo.
+
+---
+
+### 31
+
+De acuerdo con el libro de Matemáticas, ¿qué mide un rumbo?
+
+- A. El ángulo agudo que forma una trayectoria o línea recta de Norte-Sur
+- B. El ángulo obtuso que forma una trayectoria o línea recta de Norte-Sur
+- C. El ángulo recto que forma una trayectoria con la línea Este-Oeste
+- D. La distancia recorrida a lo largo de la línea Norte-Sur
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 204
+**Subtema:** aplicaciones y modelos · rumbo
+
+Un rumbo mide el ángulo agudo que forma una trayectoria o línea recta de Norte-Sur.
+
+---
+
+### 32
+
+De conformidad con el libro de Matemáticas, ¿qué significa el rumbo S 35° E?
+
+- A. 35 grados al Este del Sur
+- B. 35 grados al Sur del Este
+- C. 35 grados al Oeste del Sur
+- D. 35 grados al Este del Norte
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 204
+**Subtema:** aplicaciones y modelos · rumbo
+
+Por ejemplo, el rumbo S 35° E significa 35 grados al Este del Sur.
+
+---
+
+### 33
+
+En relación con el libro de Matemáticas, ¿qué significa el rumbo N 80° W?
+
+- A. 80 grados al Oeste del Norte
+- B. 80 grados al Norte del Oeste
+- C. 80 grados al Este del Norte
+- D. 80 grados al Oeste del Sur
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 204
+**Subtema:** aplicaciones y modelos · rumbo
+
+N 80° W significa 80 grados al Oeste del Norte.
+
+---
+
+### 34
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo se miden los rumbos en navegación aérea?
+
+- A. En grados en el sentido de las manecillas del reloj desde el Norte
+- B. En grados en sentido contrario a las manecillas del reloj desde el Norte
+- C. En grados en el sentido de las manecillas del reloj desde el Sur
+- D. En grados agudos respecto de la línea Norte-Sur
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 204
+**Subtema:** aplicaciones y modelos · rumbo en navegación aérea
+
+En navegación aérea, los rumbos se miden en grados en el sentido de las manecillas del reloj desde el Norte.
+
+---
+
+### 35
+
+De conformidad con el libro de Matemáticas, ¿para qué es útil la naturaleza periódica de las funciones trigonométricas?
+
+- A. Para describir el movimiento de un punto en un objeto que vibra, oscila, gira o es desplazado por un movimiento ondulatorio
+- B. Para describir el movimiento rectilíneo uniforme de cualquier objeto
+- C. Para medir la distancia entre dos puntos de una recta
+- D. Para calcular el área de figuras planas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 205
+**Subtema:** aplicaciones y modelos · movimiento armónico
+
+La naturaleza periódica de las funciones trigonométricas es útil para describir el movimiento de un punto en un objeto que vibra, oscila, gira o es desplazado por un movimiento ondulatorio.
+
+---
+
+### 36
+
+En relación con el libro de Matemáticas, ¿qué es el periodo de un movimiento?
+
+- A. El tiempo para un ciclo completo
+- B. El desplazamiento máximo desde el equilibrio
+- C. El número de ciclos por segundo
+- D. La distancia entre dos máximos consecutivos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 205
+**Subtema:** aplicaciones y modelos · movimiento armónico
+
+El periodo (tiempo para un ciclo completo) del movimiento.
+
+---
+
+### 37
+
+De acuerdo con el libro de Matemáticas, ¿qué es la amplitud de un movimiento?
+
+- A. El desplazamiento máximo desde el equilibrio
+- B. El tiempo para un ciclo completo
+- C. El número de ciclos por segundo
+- D. La mitad del periodo del movimiento
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 205
+**Subtema:** aplicaciones y modelos · movimiento armónico
+
+Su amplitud (desplazamiento máximo desde el equilibrio).
+
+---
+
+### 38
+
+De conformidad con el libro de Matemáticas, ¿qué es la frecuencia de un movimiento?
+
+- A. El número de ciclos por segundo
+- B. El tiempo para un ciclo completo
+- C. El desplazamiento máximo desde el equilibrio
+- D. El número de segundos por ciclo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 205
+**Subtema:** aplicaciones y modelos · movimiento armónico
+
+Y su frecuencia (número de ciclos por segundo).
+
+---
+
+### 39
+
+En relación con el libro de Matemáticas, ¿cómo se denomina el movimiento que puede ser descrito por una función seno o coseno?
+
+- A. Movimiento armónico simple
+- B. Movimiento ondulatorio compuesto
+- C. Movimiento periódico uniforme
+- D. Movimiento senoidal amortiguado
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 205
+**Subtema:** aplicaciones y modelos · movimiento armónico
+
+El movimiento de esta naturaleza puede ser descrito por una función seno o coseno, y se denomina movimiento armónico simple.
+
+---
+
+### 40
+
+De acuerdo con el libro de Matemáticas, en la definición de movimiento armónico simple, ¿qué condición debe cumplir ω?
+
+- A. Que sea mayor que cero
+- B. Que sea distinto de uno
+- C. Que sea un número entero
+- D. Que sea menor que cero
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 205
+**Subtema:** aplicaciones y modelos · movimiento armónico
+
+Donde a y ω son números reales, tales que ω > 0.
+
+---
+
+### 41
+
+De conformidad con el libro de Matemáticas, en el movimiento armónico simple, ¿cuáles son la amplitud, el periodo y la frecuencia?
+
+- A. Amplitud |a|, periodo 2π/ω y frecuencia ω/2π
+- B. Amplitud |a|, periodo ω/2π y frecuencia 2π/ω
+- C. Amplitud a², periodo 2π/ω y frecuencia ω/2π
+- D. Amplitud |a|, periodo 2πω y frecuencia 1/2πω
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 205
+**Subtema:** aplicaciones y modelos · movimiento armónico
+
+El movimiento tiene amplitud |a|, periodo 2π/ω y frecuencia ω/2π.
 
 ---
