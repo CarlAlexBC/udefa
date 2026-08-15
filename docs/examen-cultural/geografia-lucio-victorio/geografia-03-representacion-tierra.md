@@ -49,8 +49,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **78**: el arranque del **3.1** y el **3.1.1 Puntos y líneas de la Tierra** completo en esa página — la lista de puntos, líneas y círculos que integran las coordenadas geográficas; el eje de rotación o eje terrestre y los polos con sus nombres alternos; las **verticales** (definición, caída libre, plomada, número infinito, longitud); los **radios terrestres** (definición, el elipsoide de revolución, las tres medidas, la equivalencia con la mitad del eje) y los **diámetros** (etimología, definición, equivalencia con dos radios consecutivos, las tres medidas, el polar identificado con el eje de rotación); y la **nota al pie 2** (los puntos, líneas y círculos son imaginarios; el orden de exposición es didáctico). Las Figuras 3.1 y 3.2 son ilustraciones y no llevan reactivos.
 - Cubierta la página impresa **79**: el **inciso f)** completo — el **cenit** y el **nadir**, que nacen de prolongar las verticales terrestres hacia el firmamento y se ubican en la bóveda celeste, no en la superficie. **El cierre del inciso e) que abre esta página no lleva reactivo:** dice que la diferencia entre los diámetros "es debida al ensanchamiento ecuatorial y el consiguiente achatamiento polar provocados por el movimiento de rotación", y **eso ya lo pregunta la Unidad II** desde la p.67 (ver la sección "No duplicar con la Unidad II"). La Figura 3.3 es ilustración. **La mitad inferior de la página es un ejercicio** de relacionar la figura con una lista, y por norma no lleva reactivos.
 - Cubierta la página impresa **80**: el arranque del **3.1.2 Círculos de la Tierra** — el **Ecuador** (etimología, circunferencia máxima, los hemisferios y su etimología, de él parten los mayores radios y diámetros, círculo de referencia), los **paralelos** (etimología, definición, de dónde viene su nombre, número infinito salvo en el Ecuador, la inclinación de 23°27' respecto de la eclíptica) y los **trópicos** (etimología griega, su trazado a 23°27' del Ecuador y 66°33' del polo, el origen de su nombre, y el **Trópico de Cáncer** con su ubicación y los países por los que pasa). Las Figuras 3.4, 3.5 y 3.6 son ilustraciones. **Dos datos de esta página NO llevan reactivo por estar ya preguntados en la Unidad II:** que el Ecuador mide 40,075.13 km (Cuadro 2.5, p.67) y el significado de *solsticio*, «el Sol se detiene» (nota al pie de la p.71). **Tampoco la nota al pie 3**, que explica el nombre de la *eclíptica* por los eclipses: es una remisión expresa al subtema 2.4.3 y ya tiene reactivo allá.
+- Cubierta la página impresa **81**: el cierre del **3.1.2** — el **Trópico de Capricornio** (ubicación y países), los **círculos polares** (definición, y que el Ártico es el del Hemisferio Boreal y el Antártico el del Meridional), los **meridianos** (definición, número infinito, longitud y los 67.27 km que les faltan para igualar al Ecuador), el acuerdo internacional de **1884** sobre Greenwich con los cuatro nombres del Primer Meridiano, el **Antimeridiano o Meridiano de 180°** que cruza el Pacífico, y la **nota al pie 4** con la etimología de *meridiano*. **La medida del meridiano (40,007.86 km) NO lleva reactivo:** ya la pregunta la Unidad II desde el Cuadro 2.5; sí entra en cambio la diferencia de 67.27 km, que es dato nuevo. **La mitad inferior de la página es un bloque de ejercicios** ("Resuelve ahora las siguientes cuestiones") y no lleva reactivos por norma.
 
-**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. De esta unidad queda: el **3.1** de la **p.81** en adelante (sigue el 3.1.2 con el Trópico de Capricornio, los círculos polares y los meridianos) y todo el **3.2 Zonas térmicas, estaciones del año y husos horarios** (p.84). Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
+**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. De esta unidad queda: el **3.1** de la **p.82** en adelante (falta *La situación geográfica*, la segunda mitad del tema que pide el temario) y todo el **3.2 Zonas térmicas, estaciones del año y husos horarios** (p.84). Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
 
 ---
 
@@ -818,3 +819,238 @@ De acuerdo con el libro de Geografía, además de la República Mexicana, ¿por 
 **Subtema:** círculos de la tierra · trópico de cáncer
 
 "[...] pasa, además, por el norte de África, la Península Arábiga, la India, Bangladesh, Birmania, el sur de China y Formosa (Taiwan)."
+
+---
+
+## Sub-lote 4 · Capricornio, círculos polares y meridianos (3.1.2, p.81)
+
+### 50
+
+De conformidad con el libro de Geografía, ¿dónde se encuentra el Trópico de Capricornio?
+
+- A. A 23°27' al sur del Ecuador y 66°33' del Polo Sur
+- B. A 23°27' al norte del Ecuador y 66°33' del Polo Norte
+- C. A 66°33' al sur del Ecuador y 23°27' del Polo Sur
+- D. A 23°27' al sur del Ecuador y 23°27' del Polo Sur
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · trópico de capricornio
+
+"El Trópico de Capricornio se encuentra a 23°27' al sur del Ecuador y 66°33' del Polo Sur."
+
+### 51
+
+En relación con el libro de Geografía, ¿por dónde pasa el Trópico de Capricornio?
+
+- A. Por Chile, Argentina, Paraguay, Brasil, el sur de África y Australia
+- B. Por el norte de África, la Península Arábiga, la India, Bangladesh y el sur de China
+- C. Por Perú, Colombia, Venezuela, el centro de África e Indonesia
+- D. Por la República Mexicana, Cuba, el norte de África y la India
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · trópico de capricornio
+
+"Pasa por Chile, Argentina, Paraguay, Brasil, el sur de África y Australia."
+
+> Nota de revisor: los distractores B y D son la lista del Trópico de **Cáncer**, de la página anterior. Es el cruce natural entre los dos trópicos.
+
+### 52
+
+De acuerdo con el libro de Geografía, ¿qué son los círculos polares?
+
+- A. Los paralelos trazados a 66°33' del Ecuador y 23°27' del polo respectivo
+- B. Los paralelos trazados a 23°27' del Ecuador y 66°33' del polo respectivo
+- C. Los círculos trazados alrededor de la Tierra que se juntan en los polos
+- D. Los paralelos que pasan exactamente por cada uno de los polos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · círculos polares
+
+"Los círculos polares son los paralelos trazados a 66°33' del Ecuador y 23°27' del polo respectivo."
+
+> Nota de revisor: el distractor B es el trazado de los **trópicos**, con los mismos dos ángulos intercambiados. Ahí está todo el filo del par trópico/círculo polar.
+
+### 53
+
+De conformidad con el libro de Geografía, ¿cuántos círculos polares hay y en qué hemisferio está cada uno?
+
+- A. Dos: el Ártico, en el Hemisferio Boreal; el Antártico, en el Meridional
+- B. Dos: el Ártico, en el Hemisferio Meridional; el Antártico, en el Boreal
+- C. Cuatro: dos en el Hemisferio Boreal y dos en el Meridional
+- D. Uno solo: el Ártico, en el Hemisferio Boreal
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · círculos polares
+
+"Hay dos: el Ártico, en el Hemisferio Boreal; el Antártico, en el Meridional."
+
+### 54
+
+En relación con el libro de Geografía, ¿qué son los meridianos?
+
+- A. Círculos trazados alrededor de la Tierra, que cortan perpendicularmente al Ecuador y se juntan en los polos
+- B. Círculos menores trazados paralelamente al Ecuador y perpendicularmente al eje de rotación
+- C. Líneas rectas que van de un punto de la superficie al centro de la Tierra
+- D. Círculos trazados a 66°33' del Ecuador que no llegan a tocar los polos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · meridianos
+
+"Los meridianos son círculos trazados alrededor de la Tierra, que cortan perpendicularmente al Ecuador y se juntan en los polos."
+
+### 55
+
+De acuerdo con el libro de Geografía, ¿cuál es el número de los meridianos?
+
+- A. Infinito, pues por cada punto de la superficie terrestre pasa uno
+- B. Trescientos sesenta, uno por cada grado
+- C. Veinticuatro, uno por cada huso horario
+- D. Dos: el de Greenwich y su antimeridiano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · meridianos
+
+"Al igual que los paralelos, su número es infinito, pues por cada punto de la superficie terrestre pasa uno."
+
+### 56
+
+De conformidad con el libro de Geografía, ¿cuántos kilómetros menos que el Ecuador mide un meridiano?
+
+- A. 67.27 km
+- B. 42.78 km
+- C. 21.39 km
+- D. 180 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · meridianos
+
+"Su longitud es ligeramente menor que la del Ecuador: sólo alcanzan 40,007.86 km, o sea, 67.27 menos que el Ecuador, que tiene 40,075.13."
+
+> Nota de revisor: las dos cifras grandes se parecen tanto (40,0…) que casi nadie registra por cuánto se separan. Los distractores B y C son las diferencias de diámetro y de radio del mismo libro.
+
+### 57
+
+En relación con el libro de Geografía, ¿en qué año se convino internacionalmente el meridiano que sirve de referencia?
+
+- A. En 1884
+- B. En 1848
+- C. En 1794
+- D. En 1900
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · meridiano de greenwich
+
+"Para el trazado y medición de los meridianos, en 1884 se convino internacionalmente tomar como referencia al que pasa por el observatorio de Greenwich [...]"
+
+### 58
+
+De acuerdo con el libro de Geografía, ¿por dónde pasa el meridiano que se tomó como referencia?
+
+- A. Por el observatorio de Greenwich
+- B. Por el observatorio de París
+- C. Por el observatorio de Roma
+- D. Por el observatorio de Madrid
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · meridiano de greenwich
+
+"[...] tomar como referencia al que pasa por el observatorio de Greenwich (un barrio de Londres, capital del Reino Unido) [...]"
+
+### 59
+
+De conformidad con el libro de Geografía, ¿qué es Greenwich?
+
+- A. Un barrio de Londres, capital del Reino Unido
+- B. Una ciudad del sur de Inglaterra
+- C. Un condado situado al norte de Londres
+- D. Una isla del Océano Atlántico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · meridiano de greenwich
+
+"[...] el observatorio de Greenwich (un barrio de Londres, capital del Reino Unido) [...]"
+
+### 60
+
+En relación con el libro de Geografía, además de Meridiano de Greenwich, ¿con qué otros nombres se le designa?
+
+- A. Meridiano de Origen, Primer Meridiano o Meridiano Cero
+- B. Meridiano de 180°, Antimeridiano o Meridiano Final
+- C. Meridiano Boreal, Meridiano Austral o Meridiano Medio
+- D. Meridiano Ecuatorial, Meridiano Polar o Meridiano Máximo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · meridiano de greenwich
+
+"[...] llamado *Meridiano de Greenwich, Meridiano de Origen, Primer Meridiano* o *Meridiano Cero*."
+
+### 61
+
+De acuerdo con el libro de Geografía, ¿qué completa al Meridiano de Greenwich en su vuelta alrededor del mundo?
+
+- A. El Antimeridiano de Greenwich o Meridiano de 180°
+- B. El Ecuador
+- C. El Círculo Polar Ártico
+- D. La eclíptica
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · antimeridiano
+
+"Éste es completado, en su vuelta alrededor del mundo, por *el Antimeridiano de Greenwich o Meridiano de 180°* [...]"
+
+### 62
+
+De conformidad con el libro de Geografía, ¿qué océano cruza de norte a sur el Antimeridiano de Greenwich?
+
+- A. El Océano Pacífico
+- B. El Océano Atlántico
+- C. El Océano Índico
+- D. El Océano Ártico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · antimeridiano
+
+"[...] *el Antimeridiano de Greenwich o Meridiano de 180°*, que cruza de norte a sur al Océano Pacífico."
+
+### 63
+
+En relación con el libro de Geografía, ¿de qué lengua proviene la palabra *meridiano* y qué significa?
+
+- A. Del latín *meridies*, que significa «medio día»
+- B. Del griego *meridies*, que significa «medio día»
+- C. Del latín *meridies*, que significa «media esfera»
+- D. Del griego *trópos*, que significa «cambio o vuelta»
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · meridianos
+
+Nota al pie 4: "El nombre meridiano proviene del latín *meridies*, que significa «medio día» [...]"
+
+### 64
+
+De acuerdo con el libro de Geografía, ¿por qué el meridiano recibe ese nombre?
+
+- A. Porque cuando el Sol se encuentra sobre uno de ellos es medio día en todos los puntos que atraviesa
+- B. Porque todos ellos cortan por la mitad al Ecuador
+- C. Porque dividen a la Tierra en dos mitades iguales
+- D. Porque el Sol tarda medio día en recorrer la distancia entre uno y otro
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 81
+**Subtema:** círculos de la tierra · meridianos
+
+Nota al pie 4: "[...] pues cuando el Sol se encuentra sobre uno de ellos es medio día en todos los puntos que atraviesa."
