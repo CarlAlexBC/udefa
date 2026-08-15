@@ -59,8 +59,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **83**: el cierre del **3.1.4** — la **latitud** (definición, recorrido de 0° a 90°, norte o sur, y su clasificación en baja, media y alta), la **longitud** (definición, recorrido de 0° a 180°, este u oeste) y la **altitud** (definición en metros, positiva y negativa, y los dos extremos: el Everest y el Mar Muerto). **Con esta página queda cerrado el tema 3.1**, el primero de los dos que pide el temario. La Figura 3.9 es ilustración, pero se usó para resolver la errata del "ms" (ver "Erratas del libro"). **La mitad inferior de la página es un bloque de ejercicios** —marcar coordenadas en una gráfica y elaborar un mapa del lugar donde se habita— y no lleva reactivos por norma.
 - Cubierta la página impresa **84**: el arranque del **3.2** con el **3.2.1 Las zonas térmicas** — las **cinco zonas** que delimitan los trópicos y círculos polares, la **zona tórrida o cálida** (ubicación, sus otros nombres, el calor casi todo el año, la Meseta de Anáhuac como ejemplo de descenso por altitud, y que es la más lluviosa de todas) y las **dos zonas templadas** (ubicación en cada hemisferio, las estaciones del año, y por qué en ellas vive más de la mitad de la población mundial). **La mitad superior de la página no lleva reactivos:** es el espacio en blanco del ejercicio de la p.83 (el mapa y la ficha de situación geográfica). Las **zonas frías o glaciales** arrancan al pie de la página pero la frase queda **cortada a media línea**, así que se trabajan enteras en la p.85. La Figura 3.10 es ilustración.
 - Cubierta la página impresa **85**: las **zonas frías o glaciales** completas — su localización dentro de cada círculo polar, el clima muy frío y seco con el ligero ascenso del verano, el suelo permanentemente helado con su deshielo superficial, las lluvias escasas frente a las heladas y nevadas abundantes, y por qué están casi deshabitadas. **Con esto queda cerrado el 3.2.1 Las zonas térmicas.** La Figura 3.11 (paisajes típicos) es ilustración. **La mitad inferior de la página es un ejercicio** de relacionar columnas y no lleva reactivos por norma.
+- Cubierta la página impresa **86**: el arranque del **3.2.2 Las estaciones del año** — la **causa y alternancia** (el eje de rotación que no es perpendicular a la eclíptica sino que forma 23°27' con ella, el desplazamiento aparente del Sol entre los 23°27' de cada hemisferio a razón de **1° cada 4 días**, la excentricidad de la órbita como causa de la desigual duración, y los primeros días de enero con la Tierra cerca del Sol, el invierno boreal más corto y el promedio de temperatura ligeramente superior del Hemisferio Boreal); el arranque del **proceso de las estaciones** en el Hemisferio Boreal (la **primavera** del 21 de marzo al 21 de junio, con el Sol cruzando el Ecuador y llegando después al Trópico de Cáncer, y el **verano** como estación más larga, que termina con el equinoccio de otoño del 23 de septiembre); y el **Cuadro 3.1** (la alternancia entre hemisferios y las cuatro duraciones). El **otoño** y el **invierno** quedan para la p.87. La Figura 3.12 es ilustración. **Las cuatro duraciones del Cuadro 3.1 se verificaron con `crop.py` a 600 dpi** antes de fijarlas: 92 días 21 horas, 93 días 14 horas, 89 días 19 horas y 89 días.
 
-**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2**, del que ya está cerrado el **3.2.1 Las zonas térmicas** (pp. 84–85): sigue desde la **p.86** con las estaciones del año y, después, los husos horarios. Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
+**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2**, del que ya están cerrados el **3.2.1 Las zonas térmicas** (pp. 84–85) y la primera mitad del **3.2.2 Las estaciones del año** (p.86): sigue desde la **p.87** con el otoño y el invierno y, después, los husos horarios. Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
 
 ---
 
@@ -1793,3 +1794,288 @@ De conformidad con el libro de Geografía, ¿por qué las zonas frías o glacial
 **Subtema:** zonas térmicas · zonas frías
 
 "Como se comprende fácilmente, las zonas frías o glaciales no son aptas para el desarrollo de plantas y animales ni para las actividades humanas, por lo cual están casi deshabitadas."
+### 111
+
+En relación con el libro de Geografía, ¿por qué el Sol no sale y se pone exactamente por los mismos puntos a lo largo del año?
+
+- A. Porque el eje de rotación terrestre no es perpendicular respecto de la eclíptica o plano de traslación, sino que forma con él un ángulo de 23°27'
+- B. Porque el eje de rotación terrestre es perpendicular respecto de la eclíptica o plano de traslación
+- C. Porque la órbita de traslación de la Tierra es perfectamente circular
+- D. Porque la Tierra se desplaza a velocidad constante durante todo el año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · causa y alternancia
+
+"El eje de rotación terrestre no es perpendicular respecto de la eclíptica o plano de traslación, sino que forma con él un ángulo de 23°27'. Debido a ello, el Sol no sale y se pone exactamente por los mismos puntos a lo largo del año."
+
+### 112
+
+De acuerdo con el libro de Geografía, ¿entre qué límites se desplaza el Sol hacia el norte o el sur?
+
+- A. Entre los 23°27' del Hemisferio Boreal y los 23°27' del Meridional
+- B. Entre los 66°33' del Hemisferio Boreal y los 66°33' del Meridional
+- C. Entre los 90° del Hemisferio Boreal y los 90° del Meridional
+- D. Entre los 23°27' del Hemisferio Boreal y el Ecuador
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · desplazamiento aparente del Sol
+
+"Sino que se desplaza hacia el norte o el sur, entre los 23°27' del Hemisferio Boreal y los 23°27' del Meridional."
+
+### 113
+
+De conformidad con el libro de Geografía, ¿a razón de cuánto se desplaza el Sol hacia el norte o el sur?
+
+- A. A razón de 1° cada 4 días
+- B. A razón de 4° cada día
+- C. A razón de 1° cada 14 días
+- D. A razón de 1° cada día
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · razón del desplazamiento
+
+"A razón de 1° cada 4 días, dando origen a las estaciones del año."
+
+### 114
+
+En relación con el libro de Geografía, ¿a qué da origen ese desplazamiento del Sol?
+
+- A. A las estaciones del año
+- B. A las zonas térmicas
+- C. A los husos horarios
+- D. A los círculos polares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · origen
+
+"A razón de 1° cada 4 días, dando origen a las estaciones del año."
+
+### 115
+
+De acuerdo con el libro de Geografía, ¿a qué se debe la diferente duración de las estaciones?
+
+- A. A la excentricidad de la órbita de traslación
+- B. A la inclinación del eje de rotación terrestre
+- C. A la diferencia entre el radio ecuatorial y el polar
+- D. A la distinta extensión de las zonas térmicas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · duración desigual
+
+"La diferente duración de las estaciones es debida a la excentricidad de la órbita de traslación."
+
+### 116
+
+De conformidad con el libro de Geografía, que la Tierra esté a veces cerca del Sol y a veces lejos, ¿qué modifica?
+
+- A. Su velocidad de traslación y, por lo mismo, la duración de las estaciones
+- B. Su velocidad de rotación y, por lo mismo, la duración del día
+- C. La inclinación de su eje y, por lo mismo, la alternancia de las estaciones
+- D. La extensión de sus zonas térmicas y, por lo mismo, su clima
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · velocidad de traslación
+
+"Como sabemos, a veces la Tierra está cerca del Sol y a veces lejos, lo cual modifica su velocidad de traslación y, por lo mismo, la duración de las estaciones."
+
+### 117
+
+En relación con el libro de Geografía, ¿qué ocurre en los primeros días de enero?
+
+- A. La Tierra está cerca del Sol y se traslada más rápidamente
+- B. La Tierra está lejos del Sol y se traslada más lentamente
+- C. La Tierra está cerca del Sol y se traslada más lentamente
+- D. La Tierra alcanza su mayor distancia respecto del Sol
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · primeros días de enero
+
+"Así, en los primeros días de enero la Tierra está cerca del Sol y se traslada más rápidamente."
+
+### 118
+
+De acuerdo con el libro de Geografía, ¿qué duración se reduce en esos días?
+
+- A. La del invierno en el Hemisferio Boreal y la del verano en el Meridional
+- B. La del verano en el Hemisferio Boreal y la del invierno en el Meridional
+- C. La de la primavera en ambos hemisferios
+- D. La del otoño en el Hemisferio Boreal y la de la primavera en el Meridional
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · estaciones que se acortan
+
+"Reduciéndose la duración del invierno en el Hemisferio Boreal y la del verano en el Meridional."
+
+### 119
+
+De conformidad con el libro de Geografía, ¿qué consecuencia tiene eso en conjunto?
+
+- A. Que el Hemisferio Boreal tenga un promedio de temperatura ligeramente superior
+- B. Que el Hemisferio Meridional tenga un promedio de temperatura ligeramente superior
+- C. Que ambos hemisferios tengan el mismo promedio de temperatura
+- D. Que el Hemisferio Boreal tenga inviernos más rigurosos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · temperatura de los hemisferios
+
+"Ello hace que, en conjunto, el Hemisferio Boreal tenga un promedio de temperatura ligeramente superior."
+
+### 120
+
+En relación con el libro de Geografía, ¿por qué el proceso de las estaciones se describe en el Hemisferio Boreal?
+
+- A. Porque en él vive la mayoría de los seres humanos
+- B. Porque en él las estaciones duran lo mismo
+- C. Porque en él se encuentra el Primer Meridiano
+- D. Porque en él las estaciones se presentan primero
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · proceso en el Hemisferio Boreal
+
+"En el Hemisferio Boreal, donde vive la mayoría de los seres humanos, las estaciones del año siguen este proceso."
+
+### 121
+
+De acuerdo con el libro de Geografía, ¿cuál es la primera estación del año solar y con qué comienza?
+
+- A. La primavera, que comienza con el equinoccio de primavera (21 de marzo)
+- B. El verano, que comienza con el solsticio de verano (21 de junio)
+- C. El invierno, que comienza con el solsticio de invierno (22 de diciembre)
+- D. El otoño, que comienza con el equinoccio de otoño (23 de septiembre)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · primavera
+
+"Primavera. Es la primera estación del año solar. Comienza con el equinoccio de primavera (21 de marzo)."
+
+### 122
+
+De conformidad con el libro de Geografía, ¿con qué termina la primavera?
+
+- A. Con el solsticio de verano (21 de junio)
+- B. Con el equinoccio de otoño (23 de septiembre)
+- C. Con el solsticio de invierno (22 de diciembre)
+- D. Con el equinoccio de primavera (21 de marzo)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · fin de la primavera
+
+"Comienza con el equinoccio de primavera (21 de marzo) y termina con el solsticio de verano (21 de junio)."
+
+### 123
+
+En relación con el libro de Geografía, el 21 de marzo, ¿qué hace el Sol?
+
+- A. En su movimiento aparente hacia el norte, cruza el Ecuador
+- B. En su movimiento aparente hacia el sur, cruza el Ecuador
+- C. Llega al Trópico de Cáncer y parece detenerse
+- D. Llega al Trópico de Capricornio y parece detenerse
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · equinoccio de primavera
+
+"En la primera fecha el Sol, en su movimiento aparente hacia el norte, cruza el Ecuador."
+
+### 124
+
+De acuerdo con el libro de Geografía, el 21 de junio, ¿a dónde llega el Sol?
+
+- A. Al Trópico de Cáncer, localizado a 23°27' del Hemisferio Boreal, y parece detenerse
+- B. Al Trópico de Capricornio, localizado a 23°27' del Hemisferio Meridional, y parece detenerse
+- C. Al Círculo Polar Ártico, localizado a 66°33' del Hemisferio Boreal
+- D. Al Ecuador, donde parece detenerse
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · solsticio de verano
+
+"En la segunda llega al Trópico de Cáncer, localizado a 23°27' del Hemisferio Boreal, y parece detenerse."
+
+### 125
+
+De conformidad con el libro de Geografía, ¿cuál es la estación más larga del Hemisferio Boreal y con qué termina?
+
+- A. El verano, que termina con el equinoccio de otoño (23 de septiembre)
+- B. El verano, que termina con el solsticio de invierno (22 de diciembre)
+- C. La primavera, que termina con el solsticio de verano (21 de junio)
+- D. El invierno, que termina con el equinoccio de primavera (21 de marzo)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · verano
+
+"Verano. Es la estación más larga del Hemisferio Boreal. Comienza con el solsticio de verano y termina con el equinoccio de otoño (23 de septiembre)."
+
+### 126
+
+En relación con el libro de Geografía, el 23 de septiembre, ¿qué hace el Sol?
+
+- A. En su movimiento aparente hacia el sur, cruza nuevamente el Ecuador
+- B. En su movimiento aparente hacia el norte, cruza nuevamente el Ecuador
+- C. Llega al Trópico de Cáncer y parece detenerse
+- D. Llega al Círculo Polar Antártico y parece detenerse
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · equinoccio de otoño
+
+"En esta fecha el Sol, en su movimiento aparente hacia el sur, cruza nuevamente el Ecuador."
+
+### 127
+
+De acuerdo con el libro de Geografía, según el Cuadro 3.1, ¿qué estación corresponde al Hemisferio Meridional entre el 21 de marzo y el 21 de junio?
+
+- A. Otoño
+- B. Primavera
+- C. Verano
+- D. Invierno
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · Cuadro 3.1
+
+"21 de Mar. - 21 de Jun. | Primavera | Otoño."
+
+### 128
+
+De conformidad con el libro de Geografía, según el Cuadro 3.1, ¿cuánto dura el período que va del 22 de diciembre al 21 de marzo?
+
+- A. 89 días
+- B. 89 días 19 horas
+- C. 92 días 21 horas
+- D. 93 días 14 horas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · Cuadro 3.1
+
+"22 de Dic. - 21 de Mar. | Invierno | Verano | 89 días."
+
+### 129
+
+En relación con el libro de Geografía, según el Cuadro 3.1, ¿cuánto dura el período que va del 21 de junio al 23 de septiembre?
+
+- A. 93 días 14 horas
+- B. 92 días 21 horas
+- C. 89 días 19 horas
+- D. 89 días
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 86
+**Subtema:** estaciones del año · Cuadro 3.1
+
+"21 de Jun. - 23 de Sept. | Verano | Invierno | 93 días 14 horas."
+
