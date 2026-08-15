@@ -34,6 +34,10 @@ Esta Unidad repite de pasada cifras que **ya tienen reactivo** en los archivos a
 
 Sí entran, por ser dato nuevo: la **Fosa de las Marianas** (10,924 m), el **desnivel de 19,772 m**, las proporciones **1/100** y **1/644**, y todo lo del **Mar Caspio**.
 
+## Erratas del libro
+
+- **p.142 — "la biósfera contituye", falta la *s*.** El libro escribe *"podemos decir que la biósfera **con-tituye** en su conjunto un enorme sistema ecológico"* (partido a fin de renglón). Debe decir **constituye**. Verificado con `crop.py` a 600 dpi: la palabra está impresa así, no es suciedad del escaneo. **El dato de fondo es correcto**; el reactivo 73 la cita como está impresa, pero la opción correcta **no depende de la grafía** — mismo trato que "clorofluocarbonos" en la Unidad I y "dentro de Círculo Polar Antártico" en la Unidad III.
+
 ## Criterio de este capítulo
 
 Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita del libro. Se caza el **dato olvidable** —la cifra exacta, el nombre propio, la definición corta—, no lo obvio. Los mejores distractores salen del mismo párrafo o del mismo cuadro. La correcta se escribe siempre en **A**; el importador baraja las opciones.
@@ -49,7 +53,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **140**: el cierre de **Colinas** (los **lomeríos** y **cuchillas** que forman al asociarse); las **mesetas** completas (el parecido con una mesa, los **altiplanos** o **altiplanicies**, y el criterio de altitud **mayor de 500 m**); y el apartado **Montañas** completo — la definición (las porciones más elevadas de la superficie terrestre), el umbral aceptado de **más de 1,000 m**, la clasificación en **altitud media** (1,000 a 2,000 m, cimas suaves y laderas de escasa pendiente) y **altas** (más de 2,000 m, picos agudos, crestas y aristas, laderas abruptas y quebradas), las **sierras** y su porqué, las **cordilleras** que se agrupan en la **Cordillera Universal**, y los **macizos montañosos** con el ejemplo de los Tuxtlas, en Veracruz. **Las altitudes (500 m, 1,000 m, 1,000–2,000 m y 2,000 m) se verificaron con `crop.py` a 600 dpi.** Las Figuras 4.23 y 4.24 son fotografías y no llevan reactivos.
 - Cubierta la página impresa **141**: el **4.5.3 Importancia de las formas del relieve continental** completo — la importancia para la vida vegetal y animal y para las actividades humanas, la influencia determinante sobre el clima, la hidrografía, la vegetación y la fauna, el asentamiento preferente en las **llanuras de las zonas templadas y las mesetas de la zona tórrida** con sus razones, el reparto de la población (**95%** a menos de 500 m, **3%** entre 500 y 1,000 m, **2%** a más de 1,000 m), la población casi nula por encima de los **4,000 m** con los ejemplos de **Cerro de Pasco** (4,259 m, Perú) y **Potosí** (4,040, Bolivia) en regiones forestales y mineras, **Wenchuan** como la ciudad más elevada del mundo (5,100 m, provincia china de Tsinghai, junto a la carretera Tsinghai-Tibet y la cordillera de Tanggula) comparada con el **Iztaccíhuatl** (5,286 m), y los dos centros de población mexicanos más altos: **Raíces** (ranchería a 3,500 m en las faldas del Nevado de Toluca) y **El Conejo** (municipio de Perote, Veracruz, a unos 3,300 m). **Con esta página queda CERRADO el tema 4.5.** **Todas las cifras de la página se verificaron con `crop.py` a 600 dpi.** **La mitad inferior de la página es un bloque de ejercicios** ("Escribe en los paréntesis de la derecha las letras que señalen la respuesta correcta") y no lleva reactivos por norma.
 
-**Pendiente:** EN CURSO. El tema **4.5 quedó CERRADO** (pp. 138–141). Sigue desde la **p.142** con todo el **4.6 La contaminación ambiental** (pp. 142–150) —4.6.1 Concepto y clasificación (p.142), 4.6.2 Causas y consecuencias (p.144) y 4.6.3 La contaminación del suelo y el subsuelo (p.145)—, hasta cerrar en la **p.150**: la Unidad V empieza en la 151. Con el 4.6 se cierra la Unidad IV.
+- Cubierta la página impresa **142**: el arranque del **4.6** con el **Concepto de contaminación ambiental** — el fenómeno que trajo aparejado la moderna civilización urbana e industrial y sus tres efectos (alterar el equilibrio ecológico, perjudicar a plantas y animales y poner en peligro la existencia de la especie humana), la **definición del recuadro** ("todo agente extraño que altera desfavorablemente su equilibrio"), la biósfera como **sistema ecológico abierto para la energía y cerrado para la materia** (la energía viene del Sol; la materia siempre es la misma salvo caídas de aerolitos y emisiones volcánicas), el **reciclaje constante** de las sustancias químicas y las selvas ecuatoriales como ejemplo, lo que estorba las sustancias no asimilables, y la **Figura 4.26** (fábricas y vehículos). La Figura 4.25 es fotografía y no lleva reactivo. **Una errata nueva del libro quedó documentada y sin afectar a la respuesta:** "la biósfera *contituye*". El inciso c) arranca al pie de la página pero **queda cortado a media palabra**, así que se trabaja entero en la p.143.
+
+**Pendiente:** EN CURSO. El tema **4.5 quedó CERRADO** (pp. 138–141). Sigue desde la **p.143** con el resto del **4.6 La contaminación ambiental** (pp. 143–150) —4.6.1 Concepto y clasificación (p.142), 4.6.2 Causas y consecuencias (p.144) y 4.6.3 La contaminación del suelo y el subsuelo (p.145)—, hasta cerrar en la **p.150**: la Unidad V empieza en la 151. Con el 4.6 se cierra la Unidad IV.
 
 ---
 
@@ -1108,4 +1114,188 @@ En relación con el libro de Geografía, ¿qué tipo de asentamiento es Raíces 
 **Subtema:** importancia del relieve continental · ubicación de Raíces
 
 "Raíces, ranchería ubicada a 3,500 m de altitud, en las faldas del Nevado de Toluca (Edo. de México)."
+
+## Sub-lote 5 · Concepto de contaminación ambiental (4.6.1, p. 142)
+
+### 70
+
+De acuerdo con el libro de Geografía, ¿qué ha traído aparejado la moderna civilización urbana e industrial, junto con las ventajas y comodidades que brinda?
+
+- A. Un fenómeno casi desconocido en los siglos pasados, que continúa extendiéndose sobre la superficie terrestre: la contaminación ambiental
+- B. Un fenómeno conocido desde los siglos pasados, que ha dejado de extenderse: la contaminación ambiental
+- C. Un fenómeno casi desconocido en los siglos pasados, limitado a las grandes ciudades: la contaminación ambiental
+- D. Un fenómeno natural, ajeno a la actividad humana: la contaminación ambiental
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
+**Subtema:** contaminación ambiental · concepto
+
+"La moderna civilización urbana e industrial ha traído aparejado, junto con las ventajas y comodidades que brinda a los seres humanos, un fenómeno casi desconocido en los siglos pasados, que continúa extendiéndose sobre la superficie terrestre [...]: la contaminación ambiental."
+
+### 71
+
+De conformidad con el libro de Geografía, ¿qué hace ese fenómeno?
+
+- A. Altera el equilibrio ecológico, perjudica a plantas y animales y pone en peligro la misma existencia de la especie humana
+- B. Altera el equilibrio ecológico, pero sólo perjudica a plantas y animales
+- C. Altera el relieve continental y modifica las zonas térmicas
+- D. Altera el clima y la hidrografía, sin afectar a los seres vivos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
+**Subtema:** contaminación ambiental · efectos
+
+"Alterando el equilibrio ecológico, perjudicando a plantas y animales y poniendo en peligro la misma existencia de la especie humana."
+
+### 72
+
+En relación con el libro de Geografía, ¿cómo se define la contaminación ambiental?
+
+- A. La presencia, dentro de un sistema ecológico, de todo agente extraño que altera desfavorablemente su equilibrio
+- B. La presencia, dentro de un sistema ecológico, de todo agente extraño, altere o no su equilibrio
+- C. La ausencia, dentro de un sistema ecológico, de los agentes que mantienen su equilibrio
+- D. La presencia, dentro de la atmósfera, de sustancias químicas producidas por la industria
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
+**Subtema:** contaminación ambiental · definición
+
+Recuadro de definición: "La presencia, dentro de un sistema ecológico, de todo agente extraño que altera desfavorablemente su equilibrio."
+
+### 73
+
+De acuerdo con el libro de Geografía, ¿qué constituye la biósfera en su conjunto?
+
+- A. Un enorme sistema ecológico
+- B. Un enorme sistema climático
+- C. Un conjunto de sistemas ecológicos independientes
+- D. Una capa de la litósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
+**Subtema:** contaminación ambiental · la biósfera como sistema
+
+"Al respecto, podemos decir que la biósfera contituye en su conjunto un enorme sistema ecológico."
+
+> Nota de revisor: el libro escribe **"contituye"**, sin la *s*. La cita va como está impresa y **la opción correcta no depende de la grafía**; ver "Erratas del libro" en el encabezado.
+
+### 74
+
+De conformidad con el libro de Geografía, ¿en qué sentido es abierto ese sistema y en cuál es cerrado?
+
+- A. Abierto por lo que respecta a la energía que lo activa y cerrado por lo que respecta a la materia que procesa
+- B. Abierto por lo que respecta a la materia que procesa y cerrado por lo que respecta a la energía que lo activa
+- C. Abierto tanto para la energía como para la materia
+- D. Cerrado tanto para la energía como para la materia
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
+**Subtema:** contaminación ambiental · sistema abierto y cerrado
+
+"Abierto por lo que respecta a la energía que lo activa y cerrado por lo que respecta a la materia que procesa."
+
+### 75
+
+En relación con el libro de Geografía, ¿de dónde proviene la energía que utiliza la biósfera?
+
+- A. Del exterior, concretamente del Sol
+- B. Del interior de la Tierra, concretamente del magma
+- C. De la propia materia que procesa
+- D. De las emisiones volcánicas y las caídas de aerolitos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
+**Subtema:** contaminación ambiental · origen de la energía
+
+"La energía que utiliza proviene del exterior, concretamente del Sol."
+
+### 76
+
+De acuerdo con el libro de Geografía, salvo casos esporádicos, ¿qué ocurre con la materia que procesa la biósfera?
+
+- A. Siempre es la misma
+- B. Aumenta constantemente
+- C. Disminuye constantemente
+- D. Se renueva por completo cada cierto tiempo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
+**Subtema:** contaminación ambiental · la materia de la biósfera
+
+"En cambio, salvo casos esporádicos [...], la materia que procesa siempre es la misma."
+
+### 77
+
+De conformidad con el libro de Geografía, ¿cuáles son esos casos esporádicos?
+
+- A. Las caídas de aerolitos y las emisiones volcánicas
+- B. Las caídas de aerolitos y los sismos
+- C. Las emisiones volcánicas y las lluvias torrenciales
+- D. Las mareas y las corrientes marinas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
+**Subtema:** contaminación ambiental · casos esporádicos
+
+"Salvo casos esporádicos (caídas de aerolitos, emisiones volcánicas), la materia que procesa siempre es la misma."
+
+### 78
+
+En relación con el libro de Geografía, para el desarrollo de la vida, ¿qué es necesario que ocurra con las sustancias químicas presentes en la biósfera?
+
+- A. Que entren a formar parte de los seres vivos en un constante reciclaje
+- B. Que permanezcan aisladas de los seres vivos
+- C. Que sean expulsadas al exterior del sistema
+- D. Que se acumulen sin ser procesadas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
+**Subtema:** contaminación ambiental · reciclaje de las sustancias
+
+"Para el desarrollo de la vida es necesario que las sustancias químicas presentes en la biósfera (o, por lo menos, la mayor parte de ellas) entren a formar parte de los seres vivos en un constante reciclaje."
+
+### 79
+
+De acuerdo con el libro de Geografía, ¿qué ocurre entre mayor sea dicha participación, y dónde puede verse?
+
+- A. Mayor será el desarrollo de los seres vivos, como puede verse en las selvas ecuatoriales
+- B. Menor será el desarrollo de los seres vivos, como puede verse en los desiertos
+- C. Mayor será el desarrollo de los seres vivos, como puede verse en las zonas frías
+- D. Mayor será la contaminación ambiental, como puede verse en las selvas ecuatoriales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
+**Subtema:** contaminación ambiental · selvas ecuatoriales
+
+"Entre mayor sea dicha participación, mayor será el desarrollo de los seres vivos, como puede verse en las selvas ecuatoriales."
+
+### 80
+
+De conformidad con el libro de Geografía, ¿qué provoca la presencia de sustancias químicas o factores físicos que los seres vivos no pueden asimilar?
+
+- A. Estorba seriamente los procesos vitales y puede incluso llegar a anularlos
+- B. Retrasa levemente los procesos vitales, sin llegar a anularlos
+- C. Acelera los procesos vitales de los seres vivos
+- D. No produce efecto alguno sobre los procesos vitales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
+**Subtema:** contaminación ambiental · sustancias no asimilables
+
+"La presencia de sustancias químicas o factores físicos que los seres vivos no pueden asimilar, estorba seriamente los procesos vitales y puede incluso llegar a anularlos."
+
+### 81
+
+En relación con el libro de Geografía, según la Figura 4.26, ¿qué dos factores de contaminación ambiental se muestran?
+
+- A. Fábricas y vehículos
+- B. Fábricas y volcanes
+- C. Vehículos y basureros
+- D. Fábricas y aguas residuales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
+**Subtema:** contaminación ambiental · Figura 4.26
+
+"Figura 4.26 Dos factores de contaminación ambiental: fábricas y vehículos."
 
