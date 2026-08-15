@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **101–107**: **5.1** (concepto de fuerza), **5.2** (primera ley, marcos inerciales, inercia), **5.3** (masa contra peso), **5.4 · Segunda ley de Newton** (el enunciado ΣF = ma, la fuerza neta, y la definición del newton: 1 N ≡ 1 kg·m/s²) y **5.5 · Fuerza gravitacional y peso** (Fg = mg, el peso varía con la altitud, peso como propiedad de un sistema, kg = unidad de masa, masa inercial contra masa gravitacional). La p.106 es puro ejemplo resuelto (Ejemplo 5.1) y no aporta reactivos.
+**EN CURSO.** Escritas las páginas impresas **101–108**: **5.1** (concepto de fuerza), **5.2** (primera ley, marcos inerciales, inercia), **5.3** (masa contra peso), **5.4 · Segunda ley de Newton** (el enunciado ΣF = ma, la fuerza neta, y la definición del newton: 1 N ≡ 1 kg·m/s²), **5.5 · Fuerza gravitacional y peso** (Fg = mg, el peso varía con la altitud, peso como propiedad de un sistema, kg = unidad de masa, masa inercial contra masa gravitacional) y **5.6 · Tercera ley de Newton** (el enunciado F12 = −F21, las fuerzas como interacciones, notación de subíndices, fuerza de acción/reacción sobre objetos diferentes y del mismo tipo). Las pp.106 y 108 traen ejemplos resueltos (Ejemplo 5.1, Ejemplo conceptual 5.2) y un examen rápido que no aportan reactivos.
 
-**Pendiente:** EN CURSO. Sigue **5.6 · Tercera ley de Newton** (p.108), hasta la p.110.
+**Pendiente:** EN CURSO. Falta el cierre de **5.6** (p.109) por si continúa, hasta la p.110.
 
 ---
 
@@ -610,3 +610,142 @@ En relación con el libro de Física, la masa que en la ecuación Fg = mg establ
 **Subtema:** fuerza gravitacional y peso · masa gravitacional
 
 "La masa m en la ecuación 5.6 establece la intensidad de la atracción gravitacional entre el objeto y la Tierra [...] la m en la ecuación 5.6 se llama masa gravitacional."
+
+> La p.108 abre con el cierre de 5.5, luego el **Examen rápido 5.4** (cuestionario) y el **Ejemplo conceptual 5.2** (¿cuánto pesa en un elevador?, ejemplo resuelto): ninguno genera reactivos por norma. El contenido nuevo es **5.6 · Tercera ley de Newton**.
+
+## Sub-lote 6 · Cierre de 5.5 y tercera ley de Newton (p.108)
+
+### 38
+
+De conformidad con el libro de Física, según una de las conclusiones experimentales de la dinámica newtoniana, la masa gravitacional y la masa inercial:
+
+- A. tienen el mismo valor
+- B. tienen valores siempre distintos
+- C. solo coinciden en caída libre
+- D. son inversamente proporcionales
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 108
+**Subtema:** masa gravitacional y masa inercial · cierre de 5.5
+
+"Una de las conclusiones experimentales de la dinámica newtoniana es que la masa gravitacional y la masa inercial tienen el mismo valor."
+
+### 39
+
+De acuerdo con el libro de Física, aunque el valor de g varía de un planeta a otro, la magnitud de la fuerza gravitacional siempre será conocida por el valor de:
+
+- A. mg
+- B. g/m
+- C. ma
+- D. m/g
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 108
+**Subtema:** fuerza gravitacional · validez en cualquier planeta (cierre de 5.5)
+
+"El valor de g variará de un planeta a otro, pero la magnitud de la fuerza gravitacional siempre será conocida por el valor de mg."
+
+### 40
+
+En relación con el libro de Física, ¿qué establece la tercera ley de Newton cuando dos objetos interactúan?
+
+- A. La fuerza que el objeto 1 ejerce sobre el objeto 2 es igual en magnitud y opuesta en dirección a la fuerza que el objeto 2 ejerce sobre el objeto 1
+- B. La fuerza que el objeto 1 ejerce sobre el objeto 2 es mayor que la que el objeto 2 ejerce sobre el objeto 1
+- C. Ambos objetos ejercen fuerzas en la misma dirección
+- D. Solo el objeto de mayor masa ejerce fuerza sobre el otro
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 108
+**Subtema:** tercera ley de Newton · enunciado
+
+"Si dos objetos interactúan, la fuerza F12 que ejerce el objeto 1 sobre el objeto 2 es igual en magnitud y opuesta en dirección a la fuerza F21 que ejerce el objeto 2 sobre el objeto 1."
+
+### 41
+
+De conformidad con el libro de Física, la tercera ley de Newton se expresa matemáticamente como:
+
+- A. F12 = −F21
+- B. F12 = F21
+- C. F12 = −2F21
+- D. F12 = F21²
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 108
+**Subtema:** tercera ley de Newton · expresión matemática
+
+"Si dos objetos interactúan, la fuerza F12 que ejerce el objeto 1 sobre el objeto 2 es igual en magnitud y opuesta en dirección a la fuerza F21 que ejerce el objeto 2 sobre el objeto 1: F12 = −F21."
+
+### 42
+
+De acuerdo con el libro de Física, la tercera ley de Newton ilustra que las fuerzas son:
+
+- A. interacciones entre dos objetos
+- B. propiedades de un solo objeto
+- C. cantidades que no requieren de otro objeto
+- D. efectos que actúan sin que haya interacción
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 108
+**Subtema:** tercera ley de Newton · las fuerzas como interacciones
+
+"Esta simple actividad ilustra que las fuerzas son interacciones entre dos objetos: cuando su dedo empuja sobre el libro, el libro empuja de vuelta sobre su dedo."
+
+### 43
+
+En relación con el libro de Física, en la notación de subíndices para las fuerzas, ¿qué significa Fab?
+
+- A. La fuerza ejercida por a sobre b
+- B. La fuerza ejercida por b sobre a
+- C. La suma de las fuerzas a y b
+- D. La fuerza resultante entre a y b
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 108
+**Subtema:** tercera ley de Newton · notación de subíndices
+
+"Esta notación de subíndices, donde Fab significa 'la fuerza ejercida por a sobre b'."
+
+### 44
+
+De conformidad con el libro de Física, la fuerza que el objeto 1 ejerce sobre el objeto 2 se llama popularmente fuerza de acción, y la fuerza del objeto 2 sobre el objeto 1 se llama:
+
+- A. fuerza de reacción
+- B. fuerza neta
+- C. fuerza normal
+- D. fuerza de inercia
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 108
+**Subtema:** tercera ley de Newton · fuerza de acción y reacción
+
+"La fuerza que el objeto 1 ejerce sobre el objeto 2 se llama popularmente fuerza de acción, y la fuerza del objeto 2 sobre el objeto 1 se llama fuerza de reacción."
+
+### 45
+
+De acuerdo con el libro de Física, las fuerzas de acción y reacción siempre actúan sobre:
+
+- A. objetos diferentes
+- B. el mismo objeto
+- C. un solo punto del mismo cuerpo
+- D. el objeto de mayor masa
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 108
+**Subtema:** tercera ley de Newton · acción y reacción sobre objetos diferentes
+
+"En todos los casos, las fuerzas de acción y reacción actúan sobre objetos diferentes y deben ser del mismo tipo (gravitacional, eléctrico, etcétera)."
+
+### 46
+
+En relación con el libro de Física, además de actuar sobre objetos diferentes, las fuerzas de acción y reacción deben ser:
+
+- A. del mismo tipo (gravitacional, eléctrico, etcétera)
+- B. de tipos distintos entre sí
+- C. siempre de contacto
+- D. siempre gravitacionales
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 108
+**Subtema:** tercera ley de Newton · acción y reacción del mismo tipo
+
+"En todos los casos, las fuerzas de acción y reacción actúan sobre objetos diferentes y deben ser del mismo tipo (gravitacional, eléctrico, etcétera)."
