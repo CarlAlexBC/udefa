@@ -33,9 +33,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Cobertura actual
 
-**EN CURSO.** Escrita la página impresa **3** (arranque de 1.1 · Estándares de longitud, masa y tiempo): las tres cantidades fundamentales de la mecánica, el SI y sus unidades fundamentales, y la evolución del estándar de **longitud** (la yarda de 1120, el pie de Luis XIV, el metro de 1799 y el de criptón 86).
+**EN CURSO.** Escritas las páginas impresas **3–4** (sección 1.1 · Estándares de longitud, masa y tiempo): las tres cantidades fundamentales, el SI y sus unidades, la evolución del estándar de **longitud** (yarda de 1120, pie de Luis XIV, metro de 1799, criptón 86 y el metro de 1983 = la luz en el vacío), la Tabla 1.1 de longitudes, y el estándar de **masa** (el kilogramo de platino-iridio de Sèvres, 1887; el duplicado del NIST; masa contra peso).
 
-**Pendiente:** EN CURSO. Sigue en la **p.4** (redefinición del metro de 1983; los estándares de masa y de tiempo) y de ahí al resto del Cap. 1 (1.2 a 1.6, hasta la p.16).
+**Pendiente:** EN CURSO. Sigue en la **p.5** (el estándar de **tiempo** — el segundo y el reloj atómico de cesio) y de ahí al resto del Cap. 1 (1.2 a 1.6, hasta la p.16).
 
 ---
 
@@ -160,3 +160,127 @@ En relación con el libro de Física, en las décadas de 1960 y 1970, ¿cómo se
 **Subtema:** estándares de medición · definición del metro
 
 "En las décadas de 1960 y 1970, el metro se definió como 1 650 763.73 longitudes de onda de la luz naranja-rojo emitida de una lámpara de criptón 86."
+
+---
+
+## Sub-lote 2 · El metro de 1983, la Tabla 1.1 y el estándar de masa (p.4)
+
+### 9
+
+De acuerdo con el libro de Física, ¿cómo se redefinió el metro en octubre de 1983?
+
+- A. Como la distancia recorrida por la luz en el vacío durante un tiempo de 1/299 792 458 segundos
+- B. Como la distancia entre dos líneas de una barra de platino-iridio guardada en Francia
+- C. Como 1 650 763.73 longitudes de onda de la luz del criptón 86
+- D. Como una diezmillonésima parte de la distancia del ecuador al Polo Norte
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 4
+**Subtema:** estándares de medición · definición del metro
+
+"En octubre de 1983, el metro se redefinió como la distancia recorrida por la luz en el vacío durante un tiempo de 1/299 792 458 segundos."
+
+### 10
+
+En relación con el libro de Física, ¿qué valor de la rapidez de la luz en el vacío establece con precisión la definición del metro de 1983?
+
+- A. 299 792 458 metros por segundo
+- B. 300 000 000 metros por segundo
+- C. 1 650 763.73 metros por segundo
+- D. 3.84 × 10⁸ metros por segundo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 4
+**Subtema:** estándares de medición · rapidez de la luz
+
+"Esta última definición establece que la rapidez de la luz en el vacío es precisamente de 299 792 458 metros por segundo."
+
+### 11
+
+De conformidad con el libro de Física, ¿qué es un año luz?
+
+- A. La distancia que la luz viaja a través del espacio vacío en un año
+- B. El tiempo que tarda la luz en llegar del Sol a la Tierra
+- C. La distancia media de la Tierra a la Luna
+- D. El radio orbital medio de la Tierra en torno al Sol
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 4
+**Subtema:** longitud · año luz
+
+"La rapidez de la luz también nos permite definir el año luz […]: la distancia que la luz viaja a través del espacio vacío en un año."
+
+### 12
+
+De acuerdo con el libro de Física (Tabla 1.1), ¿cuál es el valor aproximado de un año luz?
+
+- A. 9.46 × 10¹⁵ m
+- B. 1.50 × 10¹¹ m
+- C. 3.84 × 10⁸ m
+- D. 1.00 × 10⁷ m
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 4
+**Subtema:** longitud · valores de la Tabla 1.1
+
+Según la Tabla 1.1 (Valores aproximados de algunas longitudes medidas), "Un año luz" tiene una longitud de "9.46 × 10¹⁵" metros.
+
+### 13
+
+En relación con el libro de Física, ¿con qué está relacionada la masa de un objeto?
+
+- A. Con la cantidad de material que está presente en él, o de qué tanto resiste ese objeto cambios en su movimiento
+- B. Con la fuerza de gravedad que actúa sobre él en el lugar donde se encuentra
+- C. Con el volumen que ocupa el objeto en el espacio
+- D. Con el peso que registra una balanza al medirlo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 4
+**Subtema:** masa · definición
+
+"La masa de un objeto está relacionada con la cantidad de material que está presente en él, o de qué tanto resiste ese objeto cambios en su movimiento."
+
+### 14
+
+De conformidad con el libro de Física, ¿cómo se define el kilogramo, la unidad fundamental de masa en el SI?
+
+- A. Como la masa de un cilindro de aleación platino-iridio específico que se conserva en la Oficina Internacional de Pesos y Medidas en Sèvres, Francia
+- B. Como la masa de un litro de agua pura a 4 °C
+- C. Como la masa del duplicado que se conserva en el NIST, en Gaithersburg, Maryland
+- D. Como 1 650 763.73 longitudes de onda de la luz del criptón 86
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 4
+**Subtema:** masa · el kilogramo
+
+"La unidad fundamental de masa en el SI, el kilogramo (kg), se define como la masa de un cilindro de aleación platino-iridio específico que se conserva en la Oficina Internacional de Pesos y Medidas en Sèvres, Francia."
+
+### 15
+
+De acuerdo con el libro de Física, ¿en qué año se estableció la masa estándar del kilogramo (el cilindro de Sèvres)?
+
+- A. En 1887
+- B. En 1799
+- C. En 1960
+- D. En 1983
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 4
+**Subtema:** masa · el kilogramo
+
+"Esta masa estándar fue establecida en 1887 y no ha cambiado desde esa época porque el platino-iridio es una aleación inusualmente estable."
+
+### 16
+
+En relación con el libro de Física, ¿por qué nunca sería correcto afirmar que un número de kilogramos es igual a un número de libras?
+
+- A. Porque el kilogramo es una unidad de masa y la libra es una unidad de peso: representan variables diferentes
+- B. Porque 1 kg equivale exactamente a 2.2 lb y esa conversión no es exacta
+- C. Porque el kilogramo pertenece al SI y la libra no tiene ninguna equivalencia física
+- D. Porque el peso cambia con la altitud mientras que la masa no
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 4
+**Subtema:** masa · masa y peso
+
+"Nunca sería correcto afirmar que un número de kilogramos es *igual* a un número de libras, porque estas unidades representan diferentes variables. Un kilogramo es una unidad de *masa*, mientras que una libra es una unidad de *peso*."
