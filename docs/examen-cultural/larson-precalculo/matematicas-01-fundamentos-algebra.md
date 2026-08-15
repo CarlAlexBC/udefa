@@ -84,7 +84,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 - Cubiertas las páginas impresas **74 y 75**, con las que **cierra el 1.8**: *Reescritura de expresiones logarítmicas* (para qué sirven las propiedades y en qué convierten productos, cocientes y exponenciales; expandir frente a condensar) y la *Aplicación* (tomar el logaritmo natural de datos no lineales y la ecuación ln y = m ln x). Los `EJEMPLO 5` a `EJEMPLO 7` no llevan reactivos —el 7 es además una aplicación astronómica, ajena al tema— y las **pp. 76–78 son íntegramente el bloque `1.8 Ejercicios`**.
 
-**Pendiente:** EN CURSO. El **1.3, el 1.4, el 1.6 y el 1.8 están CERRADOS**. Sigue el **1.9 · Ecuaciones exponenciales y logarítmicas**, que arranca en la página impresa **79**; su teoría llega hasta la **p. 85** (las pp. 86–88 son el bloque de `Ejercicios`). La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+- Cubiertas las páginas impresas **79 y 80**, arranque del **1.9 · Ecuaciones exponenciales y logarítmicas**: la *Introducción* con las dos estrategias básicas, las condiciones sobre a, las *Propiedades biunívocas* y las *Propiedades inversas*, el recuadro *Estrategias para resolver ecuaciones exponenciales y logarítmicas* con sus tres pasos, y cuándo conviene una respuesta exacta y cuándo una aproximada. Los `EJEMPLO 1` a `EJEMPLO 3` no llevan reactivos.
+
+**Pendiente:** EN CURSO. El **1.3, el 1.4, el 1.6 y el 1.8 están CERRADOS** y el **1.9 va en curso**: sigue desde la página impresa **81**. La teoría del 1.9 llega hasta la **p. 85** (las pp. 86–88 son el bloque de `Ejercicios`). La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -3964,5 +3966,211 @@ En relación con el libro de Matemáticas, si los puntos (ln x, ln y) se grafica
 **Subtema:** propiedades de los logaritmos · aplicación
 
 Si los puntos (ln x, ln y) se grafican y caen sobre una recta, entonces se puede determinar que los valores de x y y están relacionados por la ecuación ln y = m ln x, donde m es la pendiente de la recta.
+
+---
+
+## Sub-lote 28 · Estrategias, propiedades biunívocas e inversas (1.9, pp. 79–80)
+
+### 226
+
+De acuerdo con el libro de Matemáticas, ¿cuántas estrategias básicas hay para resolver ecuaciones exponenciales o logarítmicas?
+
+- A. Dos
+- B. Tres
+- C. Cuatro
+- D. Una
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 79
+**Subtema:** ecuaciones exponenciales y logarítmicas · estrategias
+
+Hay dos estrategias básicas para resolver ecuaciones exponenciales o logarítmicas.
+
+---
+
+### 227
+
+De conformidad con el libro de Matemáticas, ¿en qué está basada la primera estrategia y para qué se usa?
+
+- A. En las propiedades biunívocas, y se usa para resolver ecuaciones exponenciales y logarítmicas sencillas
+- B. En las propiedades inversas, y se usa para resolver ecuaciones exponenciales y logarítmicas sencillas
+- C. En las propiedades biunívocas, y se usa sólo para ecuaciones logarítmicas complicadas
+- D. En la fórmula de cambio de base, y se usa para cualquier ecuación
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 79
+**Subtema:** ecuaciones exponenciales y logarítmicas · estrategias
+
+La primera está basada en las propiedades biunívocas y se usa para resolver ecuaciones exponenciales y logarítmicas sencillas.
+
+---
+
+### 228
+
+En relación con el libro de Matemáticas, ¿en qué está basada la segunda estrategia?
+
+- A. En las propiedades inversas
+- B. En las propiedades biunívocas
+- C. En la propiedad de factor cero
+- D. En el principio de raíz cuadrada
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 79
+**Subtema:** ecuaciones exponenciales y logarítmicas · estrategias
+
+La segunda está basada en las propiedades inversas.
+
+---
+
+### 229
+
+De acuerdo con el libro de Matemáticas, ¿qué condiciones debe cumplir a para que valgan las propiedades biunívocas e inversas?
+
+- A. Que a sea mayor que cero y distinto de 1
+- B. Que a sea mayor que 1
+- C. Que a sea distinto de cero
+- D. Que a sea un número entero positivo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 79
+**Subtema:** ecuaciones exponenciales y logarítmicas · propiedades
+
+Para a > 0 y a ≠ 1, las siguientes propiedades son verdaderas para toda x y toda y para las cuales log_a x y log_a y están definidos.
+
+---
+
+### 230
+
+De conformidad con el libro de Matemáticas, ¿qué establece la propiedad biunívoca de las funciones exponenciales?
+
+- A. Que aˣ = aʸ si y sólo si x = y
+- B. Que aˣ = aʸ si y sólo si x = −y
+- C. Que aˣ = aʸ siempre, para cualesquiera x y y
+- D. Que aˣ = aʸ si y sólo si a = 1
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 79
+**Subtema:** ecuaciones exponenciales y logarítmicas · propiedades biunívocas
+
+Propiedades biunívocas: aˣ = aʸ si y sólo si x = y.
+
+---
+
+### 231
+
+En relación con el libro de Matemáticas, ¿qué establece la propiedad biunívoca de las funciones logarítmicas?
+
+- A. Que log_a x = log_a y si y sólo si x = y
+- B. Que log_a x = log_a y si y sólo si x = 1/y
+- C. Que log_a x = log_a y sólo cuando a = 10
+- D. Que log_a x = log_a y si y sólo si a = x
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 79
+**Subtema:** ecuaciones exponenciales y logarítmicas · propiedades biunívocas
+
+Propiedades biunívocas: log_a x = log_a y si y sólo si x = y.
+
+---
+
+### 232
+
+De acuerdo con el libro de Matemáticas, ¿cuáles son las dos propiedades inversas?
+
+- A. a^(log_a x) = x y log_a aˣ = x
+- B. a^(log_a x) = a y log_a aˣ = a
+- C. a^(log_a x) = 1 y log_a aˣ = 1
+- D. a^(log_a x) = x y log_a aˣ = a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 79
+**Subtema:** ecuaciones exponenciales y logarítmicas · propiedades inversas
+
+Propiedades inversas: a^(log_a x) = x; log_a aˣ = x.
+
+---
+
+### 233
+
+De conformidad con el libro de Matemáticas, ¿cuál es la primera de las estrategias para resolver ecuaciones exponenciales y logarítmicas?
+
+- A. Reescribir la ecuación original en una forma que permita usar las propiedades biunívocas
+- B. Reescribir una ecuación exponencial en forma logarítmica
+- C. Reescribir una ecuación logarítmica en forma exponencial
+- D. Aplicar la fórmula de cambio de base a los dos miembros
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 79
+**Subtema:** ecuaciones exponenciales y logarítmicas · estrategias
+
+1. Reescriba la ecuación original en una forma que permita usar las propiedades biunívocas de funciones exponenciales o logarítmicas.
+
+---
+
+### 234
+
+En relación con el libro de Matemáticas, ¿cuál es la segunda de las estrategias para resolver ecuaciones exponenciales y logarítmicas?
+
+- A. Reescribir una ecuación exponencial en forma logarítmica y aplicar la propiedad inversa de las funciones logarítmicas
+- B. Reescribir una ecuación logarítmica en forma exponencial y aplicar la propiedad inversa de las funciones exponenciales
+- C. Reescribir la ecuación original para usar las propiedades biunívocas
+- D. Elevar al cuadrado cada miembro de la ecuación
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 79
+**Subtema:** ecuaciones exponenciales y logarítmicas · estrategias
+
+2. Reescriba una ecuación exponencial en forma logarítmica y aplique la propiedad inversa de las funciones logarítmicas.
+
+---
+
+### 235
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la tercera de las estrategias para resolver ecuaciones exponenciales y logarítmicas?
+
+- A. Reescribir una ecuación logarítmica en forma exponencial y aplicar la propiedad inversa de las funciones exponenciales
+- B. Reescribir una ecuación exponencial en forma logarítmica y aplicar la propiedad inversa de las funciones logarítmicas
+- C. Reescribir la ecuación original para usar las propiedades biunívocas
+- D. Multiplicar cada término por el mínimo común denominador
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 79
+**Subtema:** ecuaciones exponenciales y logarítmicas · estrategias
+
+3. Reescriba una ecuación logarítmica en forma exponencial y aplique la propiedad inversa de las funciones exponenciales.
+
+---
+
+### 236
+
+De conformidad con el libro de Matemáticas, ¿cuándo se prefiere una respuesta exacta?
+
+- A. Cuando la solución es un paso intermedio en un problema más grande
+- B. Cuando la solución es la respuesta final del problema
+- C. Cuando la solución es un número irracional
+- D. Cuando la solución se obtiene con calculadora
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 80
+**Subtema:** ecuaciones exponenciales y logarítmicas · solución exacta y aproximada
+
+Se prefiere una respuesta exacta cuando la solución es un paso intermedio en un problema más grande.
+
+---
+
+### 237
+
+En relación con el libro de Matemáticas, para una respuesta final, ¿qué ventaja tiene una solución aproximada?
+
+- A. Que es más fácil de entender
+- B. Que es siempre más precisa
+- C. Que no requiere calculadora
+- D. Que evita las soluciones extrañas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 80
+**Subtema:** ecuaciones exponenciales y logarítmicas · solución exacta y aproximada
+
+Para una respuesta final, una solución aproximada es más fácil de entender.
 
 ---
