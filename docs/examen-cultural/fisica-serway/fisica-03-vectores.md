@@ -28,9 +28,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escrita la página impresa **53**: **3.1 · Sistemas coordenados** (coordenadas cartesianas/rectangulares, coordenadas polares planas r y θ, y las conversiones x = r cos θ, y = r sen θ, tan θ = y/x, r = √(x² + y²) = teorema de Pitágoras). La portada (p.52) es sólo la intro narrativa (IMAGINE + CONEXIONES) y no aporta reactivos.
+**EN CURSO.** Escritas las páginas impresas **53–54**: **3.1 · Sistemas coordenados** (cartesianas/rectangulares, polares planas r y θ, y las conversiones x = r cos θ, y = r sen θ, tan θ = y/x, r = √(x² + y²) = teorema de Pitágoras) y **3.2 · Cantidades vectoriales y escalares** en sus definiciones (escalar = valor único sin dirección; vector = magnitud más dirección; ejemplos de escalares; el desplazamiento como flecha). La portada (p.52) es intro narrativa y el Ejemplo 3.1 (p.54) es ejemplo resuelto: no aportan reactivos.
 
-**Pendiente:** EN CURSO. Sigue **3.2 · Cantidades vectoriales y escalares**, luego **3.3 · Aritmética vectorial básica** y **3.4 · Componentes de un vector y vectores unitarios**.
+**Pendiente:** EN CURSO. Sigue el resto de **3.2** (p.55), luego **3.3 · Aritmética vectorial básica** y **3.4 · Componentes de un vector y vectores unitarios**.
 
 ---
 
@@ -140,3 +140,80 @@ De acuerdo con el libro de Física, la coordenada r en términos de las coordena
 **Subtema:** sistemas coordenados · r y el teorema de Pitágoras
 
 "r = √(x² + y²). La ecuación 3.4 es el conocido teorema de Pitágoras."
+
+## Sub-lote 2 · Cantidades vectoriales y escalares (p.54)
+
+### 8
+
+En relación con el libro de Física, ¿cómo se especifica por completo una cantidad escalar?
+
+- A. Mediante un valor único con una unidad adecuada, y no tiene dirección
+- B. Mediante una magnitud y una dirección
+- C. Mediante una dirección únicamente
+- D. Mediante dos o más componentes perpendiculares
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 54
+**Subtema:** cantidades vectoriales y escalares · definición de cantidad escalar
+
+"Una cantidad escalar se especifica por completo mediante un valor único con una unidad adecuada y no tiene dirección."
+
+### 9
+
+De conformidad con el libro de Física, ¿cuáles de las siguientes son ejemplos de cantidades escalares?
+
+- A. El volumen, la masa, la rapidez y los intervalos de tiempo
+- B. El desplazamiento, la velocidad y la aceleración
+- C. La fuerza y el campo eléctrico
+- D. La posición y la velocidad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 54
+**Subtema:** cantidades vectoriales y escalares · ejemplos de escalares
+
+"Otros ejemplos de cantidades escalares son volumen, masa, rapidez e intervalos de tiempo."
+
+### 10
+
+De acuerdo con el libro de Física, ¿cómo se especifica por completo una cantidad vectorial?
+
+- A. Mediante un número y unidades apropiadas (la magnitud del vector) más una dirección
+- B. Mediante un valor único sin dirección
+- C. Únicamente mediante su dirección
+- D. Sólo mediante un signo positivo o negativo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 54
+**Subtema:** cantidades vectoriales y escalares · definición de cantidad vectorial
+
+"Una cantidad vectorial se especifica por completo mediante un número y unidades apropiadas (la magnitud del vector) más una dirección."
+
+### 11
+
+En relación con el libro de Física, ¿qué reglas se usan para manipular cantidades escalares?
+
+- A. Las reglas de aritmética ordinaria
+- B. Las reglas de la suma vectorial
+- C. La regla del paralelogramo
+- D. La descomposición en componentes
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 54
+**Subtema:** cantidades vectoriales y escalares · manejo de escalares
+
+"Para manipular cantidades escalares se usan las reglas de aritmética ordinaria."
+
+### 12
+
+De conformidad con el libro de Física, ¿cómo se representa el desplazamiento de una partícula de un punto A a un punto B?
+
+- A. Con el dibujo de una flecha de A a B, cuya punta apunta lejos del punto de partida
+- B. Con un solo número positivo
+- C. Con un punto en el origen
+- D. Con una recta sin dirección
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 54
+**Subtema:** cantidades vectoriales y escalares · representación del desplazamiento
+
+"Tal desplazamiento se representa con el dibujo de una flecha de A a B, en el que la punta de la flecha apunta lejos del punto de partida."
