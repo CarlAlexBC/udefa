@@ -151,10 +151,18 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   tecnología" que ocupa el tercio superior, y la aplicación al problema de la caja
   (*"la variable independiente es x… las constantes son 18, 2 y 12"*), que es el
   ejercicio resuelto.
+- Cubierta la página impresa **14**: el **cociente incremental** [ *f* (*x* + *h*) −
+  *f* (*x*) ] / *h* con su condición *h* ≠ 0, su **equivalencia con la pendiente de una
+  recta** de geometría analítica, y la regla para obtener *f* (*x* + *h*). La página es
+  casi toda "Actividad de aprendizaje": lo que se tomó es la **exposición teórica metida
+  dentro del bloque**, no los incisos que piden resolver (ver la nota del sub-lote 6).
+  **Fuera:** los ejercicios *"determina las imágenes"* y *"encuentra f (x + h) para las
+  funciones siguientes"*, las dos gráficas de la pendiente y el desarrollo
+  *f* (*x* + *h*) = 2(*x* + *h*) = 2*x* + 2*h*, que es el ejemplo resuelto.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.13**. Sigue desde la **p.14** con el resto del inciso **a)
-Gráficas de funciones reales de variable real** (pp. 14–24) y después los otros tres
+va cubierto hasta la **p.14**. Sigue desde la **p.15** con el resto del inciso **a)
+Gráficas de funciones reales de variable real** (pp. 15–24) y después los otros tres
 incisos: **b)** explícitas o implícitas (p.25), **c)** inyectivas, sobreyectivas y
 biyectivas (p.42) y **d)** función invertible e inversa (p.49), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
@@ -570,3 +578,65 @@ De acuerdo con el libro de Cálculo, ¿qué es el valor numérico de una funció
 **Subtema:** Gráficas de funciones reales · Valor numérico de una función
 
 "Se llama así al conjunto de las imágenes de los elementos del dominio que se obtienen al sustituir la variable independiente *x* en la función."
+
+---
+
+## Sub-lote 6 · El cociente incremental y f(x + h) (1.3 a, p.14)
+
+> **Estos tres reactivos salen de dentro de una "Actividad de aprendizaje".** No
+> contradice la norma de teoría sobre práctica: lo que se toma **no es el ejercicio**,
+> sino la **exposición teórica que el libro metió dentro del bloque de actividad** —el
+> cociente, su condición y su equivalencia con la pendiente—. El precedente está en el
+> propio Anexo "H": su **Ejemplo 4 salió verbatim de la Actividad 1.3** del Taller de
+> Redacción, así que la SEDENA también saca reactivos de esos bloques. Lo que se
+> descarta son los incisos que piden resolver (*"determina las imágenes"*, *"encuentra
+> f(x + h) para las funciones siguientes"*).
+
+### 26
+
+De conformidad con el libro de Cálculo, ¿con qué condición se plantea el cociente [ *f* (*x* + *h*) − *f* (*x*) ] / *h*?
+
+- A. *h* ≠ 0
+- B. *h* > 0
+- C. *h* = 0
+- D. *x* ≠ 0
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 14
+**Subtema:** Gráficas de funciones reales · Cociente incremental
+
+"[...] debemos encontrar el valor del siguiente cociente para una función determinada: [ *f* (*x* + *h*) − *f* (*x*) ] / *h*, *h* ≠ 0"
+
+### 27
+
+En relación con el libro de Cálculo, ¿para qué se utilizaba ese mismo cociente, con otra notación, en geometría analítica?
+
+- A. Para calcular la pendiente de una recta
+- B. Para calcular la distancia entre dos puntos
+- C. Para calcular el área bajo una curva
+- D. Para determinar el dominio de una función
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 14
+**Subtema:** Gráficas de funciones reales · Cociente incremental
+
+"[...] ya que con anterioridad en geometría analítica lo utilizaste con otra notación para calcular la pendiente de una recta: *m* = (*y*₂ − *y*₁) / (*x*₂ − *x*₁)"
+
+> Nota de revisor: es el puente entre lo que el aspirante ya vio en geometría analítica y lo que viene después. El libro lo dice de pasada y es de los que se saltan.
+
+### 28
+
+De acuerdo con el libro de Cálculo, para encontrar *f* (*x* + *h*), ¿qué se hace?
+
+- A. A *x* se le sustituye por el valor (*x* + *h*) y se realizan las operaciones
+- B. A *x* se le suma *h* al final del resultado de la función
+- C. Se multiplica toda la función por (*x* + *h*)
+- D. Se despeja *h* de la función original
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 14
+**Subtema:** Gráficas de funciones reales · Cociente incremental
+
+"Esto quiere decir que a *x* lo sustituimos por el valor (*x* + *h*) y realizamos operaciones."
+
+> Nota de revisor: el distractor B es el error clásico —sumarle *h* al resultado en vez de sustituir dentro de la función— y por eso se deja como opción.
