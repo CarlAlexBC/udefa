@@ -35,7 +35,7 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 **CERRADO.** El Capítulo 1 · Física y medición queda cubierto del todo en lo que pide el temario ("Completo"): páginas impresas **3–15** (secciones 1.1 a 1.6, más la regla de redondeo y la guía de cifras del cierre en la p.15). **78 reactivos.** No llevan reactivos, por norma: la p.11 (Ejemplos 1.2 y 1.3), el Ejemplo 1.5 (p.13), el Ejemplo 1.6 (p.15) y los ejercicios de fin de capítulo (pp.16–17); el bloque "Definiciones" del Resumen recapitula 1.1/1.6, ya cubiertos.
 
-**Pendiente:** ninguno en este archivo. **El Capítulo 1 queda CERRADO.** Del temario de Física de la EMEFA (`FÍSICA-02-2026`) siguen los otros capítulos, cada uno en su propio archivo: **Cap. 2** (Movimiento en una dimensión — sólo 2.1, 2.2 y 2.5), **Cap. 3** (Vectores — completo), **Cap. 5** (Las leyes del movimiento — 5.1 a 5.6) y **Cap. 10** (Mecánica de fluidos — 10.1 a 10.6).
+**Pendiente:** ninguno en este archivo. **El Capítulo 1 queda CERRADO.** Del temario de Física de la EMEFA (`FÍSICA-02-2026`), los **Cap. 2** (Movimiento en una dimensión — 2.1, 2.2 y 2.5) y **Cap. 5** (Las leyes del movimiento — 5.1 a 5.6) ya quedaron cerrados; faltan por escribir **Cap. 3** (Vectores — completo) y **Cap. 10** (Mecánica de fluidos — 10.1 a 10.6), cada uno en su propio archivo.
 
 ---
 
