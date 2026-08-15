@@ -210,12 +210,20 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   polinomio—. **Fuera:** la actividad de aprendizaje de la cabecera, la forma general
   *P*(*x*) = *aₙxⁿ* + … (fórmula desarrollada que el examen no pide escribir) y los
   ejemplos de cada tipo.
+- Cubierta la página impresa **24**: las **funciones trascendentes** completas —sus tres
+  grupos, de dónde se obtienen las trigonométricas, el **argumento**, qué son las
+  exponenciales y de qué función son inversas las logarítmicas— y el apartado **Función
+  creciente y función decreciente** (las definiciones de monótona creciente y monótona
+  decreciente, y cómo se representan gráficamente). **Con esta página queda cerrado el
+  inciso a)**, el primero de los cuatro del 1.3. **Fuera:** los ejemplos de cada tipo de
+  función, la Figura 1.19 con su lectura por colores, el cuadro de "Sustituye y verifica"
+  con espacios en blanco, y la actividad de aprendizaje del cierre.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.23**. Sigue desde la **p.24** con el resto del inciso **a)
-Gráficas de funciones reales de variable real** (p.24, la última del inciso) y después los otros tres
-incisos: **b)** explícitas o implícitas (p.25), **c)** inyectivas, sobreyectivas y
-biyectivas (p.42) y **d)** función invertible e inversa (p.49), hasta cerrar la Unidad 1
+va cubierto hasta la **p.24**, con lo que **el inciso a) queda CERRADO** (pp. 13–24).
+Sigue desde la **p.25** con los otros tres incisos del 1.3: **b)** funciones explícitas
+o implícitas (pp. 25–41), **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
+**d)** función invertible y función inversa (pp. 49–60), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
 es materia nueva del banco:** mientras no exista el `.md` de la Unidad 2, éste sostiene
@@ -1119,3 +1127,141 @@ De conformidad con el libro de Cálculo, ¿qué son las funciones radicales o ir
 
 > Nota de revisor: **"o irracionales"** es el segundo nombre que el libro le da y que casi
 > nadie retiene, igual que pasó con "lugar geométrico" en la p.18.
+
+---
+
+## Sub-lote 11 · Las trascendentes y las funciones creciente y decreciente (1.3 a, p.24) — cierra el inciso a)
+
+### 54
+
+En relación con el libro de Cálculo, ¿en qué tres grupos se dividen las funciones trascendentes?
+
+- A. Trigonométricas, exponenciales y logarítmicas
+- B. Polinómicas, racionales y radicales
+- C. Trigonométricas, racionales y logarítmicas
+- D. Crecientes, decrecientes y constantes
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 24
+**Subtema:** Clasificación de funciones · Funciones trascendentes
+
+"Las funciones trascendentes se dividen en: [...] Funciones trigonométricas [...] Funciones exponenciales [...] Funciones logarítmicas."
+
+> Nota de revisor: el distractor B es la lista de las **algebraicas** y el C mezcla las
+> dos ramas. Es el par que se cruza, igual que en el reactivo 49.
+
+### 55
+
+De acuerdo con el libro de Cálculo, ¿de dónde se obtienen las funciones trigonométricas?
+
+- A. De la comparación por cociente de los lados de un triángulo
+- B. De la comparación por diferencia de los ángulos de un triángulo
+- C. De los logaritmos de diferentes bases
+- D. De los valores que toma un exponente variable
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 24
+**Subtema:** Clasificación de funciones · Funciones trigonométricas
+
+"1. Funciones trigonométricas. Se obtienen de la comparación por cociente, de los lados de un triángulo [...]"
+
+### 56
+
+De conformidad con el libro de Cálculo, ¿cómo se llama el ángulo al que las funciones trigonométricas siempre hacen referencia?
+
+- A. Argumento
+- B. Cociente
+- C. Contradominio
+- D. Rango
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 24
+**Subtema:** Clasificación de funciones · Funciones trigonométricas
+
+"[...] las cuales siempre harán referencia al ángulo en relación al que llamamos argumento."
+
+> Nota de revisor: es el término que se cae de esta página. El aspirante recuerda los
+> seis nombres —seno, coseno, tangente…— y se salta cómo se llama aquello a lo que se
+> refieren.
+
+### 57
+
+En relación con el libro de Cálculo, ¿qué son las funciones exponenciales?
+
+- A. Aquellas donde el exponente es el que varía
+- B. Aquellas donde la base es la que varía
+- C. Aquellas donde encontramos los logaritmos de diferentes bases
+- D. Aquellas formadas por un polinomio de grado *n*
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 24
+**Subtema:** Clasificación de funciones · Funciones exponenciales
+
+"2. Funciones exponenciales. Aquellas donde el exponente es el que varía."
+
+> Nota de revisor: el distractor B invierte exactamente el dato —base por exponente—, que
+> es la confusión clásica con la función potencia.
+
+### 58
+
+De acuerdo con el libro de Cálculo, ¿de qué función son inversas las funciones logarítmicas?
+
+- A. De la función exponencial
+- B. De la función trigonométrica
+- C. De la función polinómica
+- D. De la función radical
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 24
+**Subtema:** Clasificación de funciones · Funciones logarítmicas
+
+"3. Funciones logarítmicas. Aquellas donde encontramos los logaritmos de diferentes bases. Estas funciones son las inversas de la función exponencial."
+
+### 59
+
+De conformidad con el libro de Cálculo, ¿cuándo se denomina a una función **monótona creciente**?
+
+- A. Cuando dada *x* + *h* > *x*, entonces *f* (*x* + *h*) > *f* (*x*)
+- B. Cuando dada *x* + *h* > *x*, entonces *f* (*x* + *h*) < *f* (*x*)
+- C. Cuando dada *x* + *h* < *x*, entonces *f* (*x* + *h*) > *f* (*x*)
+- D. Cuando dada *x* + *h* = *x*, entonces *f* (*x* + *h*) = *f* (*x*)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 24
+**Subtema:** Función creciente y decreciente · Monótona creciente
+
+"Se denomina función monótona creciente cuando dada *x* + *h* > *x*; entonces, *f* (*x* + *h*) > *f* (*x*) [...]"
+
+### 60
+
+En relación con el libro de Cálculo, ¿cuándo una función es **monótona decreciente**?
+
+- A. Cuando dada *x* + *h* > *x*, entonces *f* (*x* + *h*) < *f* (*x*)
+- B. Cuando dada *x* + *h* > *x*, entonces *f* (*x* + *h*) > *f* (*x*)
+- C. Cuando dada *x* + *h* < *x*, entonces *f* (*x* + *h*) < *f* (*x*)
+- D. Cuando la función toma siempre valores negativos
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 24
+**Subtema:** Función creciente y decreciente · Monótona decreciente
+
+"[...] y una función monótona decreciente será cuando dada *x* + *h* > *x*, entonces *f* (*x* + *h*) < *f* (*x*)."
+
+> Nota de revisor: los reactivos 59 y 60 se distinguen **por un solo signo**, y en las dos
+> definiciones la hipótesis es la misma (*x* + *h* > *x*). El distractor C cambia la
+> hipótesis en vez del resultado, que es el otro error posible.
+
+### 61
+
+De acuerdo con el libro de Cálculo, ¿cómo se representan gráficamente las funciones monótonas?
+
+- A. Por curvas que siempre ascienden, o bien, descienden conforme *x* recorre el intervalo permitido hacia valores crecientes
+- B. Por curvas que alternan ascensos y descensos a lo largo del intervalo
+- C. Por rectas paralelas al eje horizontal
+- D. Por curvas cerradas sobre sí mismas
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 24
+**Subtema:** Función creciente y decreciente · Representación gráfica
+
+"Tales funciones son representadas gráficamente por curvas que siempre ascienden, o bien, descienden conforme *x* recorre el intervalo permitido hacia valores crecientes."
