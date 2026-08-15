@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **101–105**: **5.1** (concepto de fuerza), **5.2** (primera ley, marcos inerciales, inercia), **5.3** (masa contra peso) y **5.4 · Segunda ley de Newton** (el enunciado ΣF = ma, la fuerza neta, y la definición del newton: 1 N ≡ 1 kg·m/s²).
+**EN CURSO.** Escritas las páginas impresas **101–107**: **5.1** (concepto de fuerza), **5.2** (primera ley, marcos inerciales, inercia), **5.3** (masa contra peso), **5.4 · Segunda ley de Newton** (el enunciado ΣF = ma, la fuerza neta, y la definición del newton: 1 N ≡ 1 kg·m/s²) y **5.5 · Fuerza gravitacional y peso** (Fg = mg, el peso varía con la altitud, peso como propiedad de un sistema, kg = unidad de masa, masa inercial contra masa gravitacional). La p.106 es puro ejemplo resuelto (Ejemplo 5.1) y no aporta reactivos.
 
-**Pendiente:** EN CURSO. Sigue el cierre de **5.4** (p.106, ejemplos) y **5.5 · Fuerza gravitacional y peso** (p.107), luego 5.6, hasta la p.110.
+**Pendiente:** EN CURSO. Sigue **5.6 · Tercera ley de Newton** (p.108), hasta la p.110.
 
 ---
 
@@ -456,3 +456,157 @@ De acuerdo con el libro de Física, ¿bajo qué condición es válida la ecuaci�
 **Subtema:** segunda ley de Newton · validez
 
 "La ecuación 5.2 es válida solo cuando la rapidez del objeto es mucho menor que la rapidez de la luz."
+
+> La p.106 es aplicación (el argumento del huevo) y el **Ejemplo 5.1** resuelto (disco de hockey). Por norma, los ejemplos resueltos no generan reactivos, así que no aporta reactivos.
+
+## Sub-lote 5 · Fuerza gravitacional y peso (p.107)
+
+### 28
+
+En relación con el libro de Física, ¿cómo se llama la fuerza de atracción que ejerce la Tierra sobre un objeto?
+
+- A. Fuerza gravitacional
+- B. Fuerza normal
+- C. Fuerza de contacto
+- D. Fuerza de fricción
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 107
+**Subtema:** fuerza gravitacional y peso · fuerza gravitacional
+
+"La fuerza de atracción que ejerce la Tierra sobre un objeto se llama fuerza gravitacional Fg."
+
+### 29
+
+De conformidad con el libro de Física, la magnitud de la fuerza gravitacional que la Tierra ejerce sobre un objeto recibe el nombre de:
+
+- A. peso
+- B. masa
+- C. inercia
+- D. densidad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 107
+**Subtema:** fuerza gravitacional y peso · peso
+
+"Esta fuerza se dirige hacia el centro de la Tierra y su magnitud se llama peso del objeto."
+
+### 30
+
+De acuerdo con el libro de Física, ¿hacia dónde se dirige la fuerza gravitacional que la Tierra ejerce sobre un objeto?
+
+- A. Hacia el centro de la Tierra
+- B. Hacia la superficie más cercana
+- C. En la dirección del movimiento del objeto
+- D. En sentido contrario a la aceleración de la gravedad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 107
+**Subtema:** fuerza gravitacional y peso · dirección
+
+"Esta fuerza se dirige hacia el centro de la Tierra."
+
+### 31
+
+En relación con el libro de Física, el peso de un objeto, al definirse como la magnitud de Fg, está dado por la expresión:
+
+- A. Fg = mg
+- B. Fg = m/g
+- C. Fg = g/m
+- D. Fg = mg²
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 107
+**Subtema:** fuerza gravitacional y peso · ecuación del peso
+
+"Por tanto, el peso de un objeto, al definirse como la magnitud de Fg, está dado por [...] Fg = mg."
+
+### 32
+
+De conformidad con el libro de Física, en comparación con el nivel del mar, los objetos pesan ______ a mayores altitudes.
+
+- A. menos
+- B. más
+- C. exactamente lo mismo
+- D. el doble
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 107
+**Subtema:** fuerza gravitacional y peso · variación con la altitud
+
+"Ya que g disminuye a medida que crece la distancia al centro de la Tierra, los objetos pesan menos a mayores altitudes que a nivel del mar."
+
+### 33
+
+De acuerdo con el libro de Física, el peso de un objeto es una propiedad de:
+
+- A. un sistema: el objeto y la Tierra
+- B. el objeto por sí solo, de manera inherente
+- C. la Tierra únicamente
+- D. cualquier cuerpo, sin importar dónde se encuentre
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 107
+**Subtema:** fuerza gravitacional y peso · el peso como propiedad de un sistema (prevención de riesgos ocultos 5.4)
+
+"El peso no es una propiedad inherente de un objeto; más bien, es una medida de la fuerza gravitacional entre el objeto y la Tierra (u otro planeta). Por tanto, el peso es una propiedad de un sistema: el objeto y la Tierra."
+
+### 34
+
+En relación con el libro de Física, el kilogramo es una unidad de:
+
+- A. masa
+- B. peso
+- C. fuerza
+- D. aceleración
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 107
+**Subtema:** fuerza gravitacional y peso · el kilogramo es unidad de masa (prevención de riesgos ocultos 5.5)
+
+"El kilogramo no es una unidad de peso, es una unidad de masa."
+
+### 35
+
+De conformidad con el libro de Física, la afirmación "1 kg = 2.2 lb" no es una igualdad, sino una equivalencia que es válida solo:
+
+- A. en la superficie de la Tierra
+- B. en el vacío
+- C. en ausencia de fuerzas
+- D. en cualquier punto del universo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 107
+**Subtema:** fuerza gravitacional y peso · equivalencia kg–lb (prevención de riesgos ocultos 5.5)
+
+"El enunciado de conversión no es una igualdad; es una equivalencia que es válida solo en la superficie de la Tierra."
+
+### 36
+
+De acuerdo con el libro de Física, cuando la masa mide la resistencia al cambio en movimiento como respuesta a una fuerza externa, se le llama:
+
+- A. masa inercial
+- B. masa gravitacional
+- C. peso
+- D. fuerza neta
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 107
+**Subtema:** fuerza gravitacional y peso · masa inercial
+
+"Medir la resistencia al cambio en movimiento como respuesta a una fuerza externa. En ese papel, la masa también es llamada masa inercial."
+
+### 37
+
+En relación con el libro de Física, la masa que en la ecuación Fg = mg establece la intensidad de la atracción gravitacional entre el objeto y la Tierra se llama:
+
+- A. masa gravitacional
+- B. masa inercial
+- C. masa aparente
+- D. masa crítica
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 107
+**Subtema:** fuerza gravitacional y peso · masa gravitacional
+
+"La masa m en la ecuación 5.6 establece la intensidad de la atracción gravitacional entre el objeto y la Tierra [...] la m en la ecuación 5.6 se llama masa gravitacional."
