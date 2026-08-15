@@ -200,7 +200,7 @@ export function CarruselPlanteles() {
         <CarouselContent>
           {PLANTELES.map((plantel, idx) => (
             <CarouselItem key={plantel.nombre}>
-              <PlantelSlide plantel={plantel} indice={idx + 1} total={PLANTELES.length} />
+              <PlantelSlide plantel={plantel} indice={idx + 1} />
             </CarouselItem>
           ))}
         </CarouselContent>
@@ -238,11 +238,10 @@ export function CarruselPlanteles() {
 function PlantelSlide({
   plantel,
   indice,
-  total,
 }: {
   plantel: Plantel
+  /** Sólo para decidir qué escudos se cargan con prioridad (los 2 primeros). */
   indice: number
-  total: number
 }) {
   const logoSrc = logoDePlantel(plantel.nombre)
 
@@ -280,9 +279,6 @@ function PlantelSlide({
             )}
           </div>
 
-          <p className="text-[10px] font-bold uppercase tracking-widest text-accent">
-            Plantel {indice} de {total}
-          </p>
         </div>
 
         {/* Info textual */}

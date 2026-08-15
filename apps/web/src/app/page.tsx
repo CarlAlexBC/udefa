@@ -98,20 +98,6 @@ export default function Home() {
                 </Link>
               </div>
 
-              <div className="flex flex-wrap gap-8 border-t border-border/20 pt-6">
-                <div>
-                  <p className="text-2xl font-semibold tracking-tight">3,190</p>
-                  <p className="text-xs uppercase tracking-wider text-muted-foreground">Reactivos curados</p>
-                </div>
-                <div>
-                  <p className="text-2xl font-semibold tracking-tight">3</p>
-                  <p className="text-xs uppercase tracking-wider text-muted-foreground">Fases cubiertas</p>
-                </div>
-                <div>
-                  <p className="text-2xl font-semibold tracking-tight">95</p>
-                  <p className="text-xs uppercase tracking-wider text-muted-foreground">Páginas de guía</p>
-                </div>
-              </div>
             </div>
 
             <div className="flex items-center justify-center">
