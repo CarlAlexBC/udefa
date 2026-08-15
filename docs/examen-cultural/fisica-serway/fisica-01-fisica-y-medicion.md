@@ -33,9 +33,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **3–10**: las secciones **1.1** y **1.2 completas** y el **arranque de 1.3 · Análisis dimensional** (la dimensión como naturaleza física; los símbolos L, M, T; los corchetes; las dimensiones de la Tabla 1.5; la regla del análisis dimensional).
+**EN CURSO.** Escritas las páginas impresas **3–12**: las secciones **1.1, 1.2, 1.3** (Análisis dimensional) y **1.4 · Conversión de unidades** (los factores de conversión SI ↔ usuales U.S.). La **p.11** son los Ejemplos 1.2 y 1.3 resueltos más un Examen rápido, **sin reactivos por norma**.
 
-**Pendiente:** EN CURSO. Sigue **1.3** en la **p.11** (los ejemplos del análisis dimensional) y luego **1.4 · Conversión de unidades** (p.12), hasta la p.16.
+**Pendiente:** EN CURSO. Sigue **1.5 · Estimaciones y cálculos de orden de magnitud** (p.13), luego **1.6 · Cifras significativas** (p.13) y el Resumen (p.15).
 
 ---
 
@@ -923,3 +923,82 @@ De conformidad con el libro de Física, en el análisis dimensional, ¿bajo qué
 **Subtema:** análisis dimensional · reglas
 
 "Las cantidades se suman o restan solo si tienen las mismas dimensiones. Además, los términos en ambos lados de una ecuación deben tener las mismas dimensiones."
+
+---
+
+## Sub-lote 9 · Conversión de unidades (p.12)
+
+### 58
+
+De acuerdo con el libro de Física, ¿a cuántos metros equivale 1 milla?
+
+- A. 1 609 m
+- B. 1 000 m
+- C. 3 281 m
+- D. 100 m
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 12
+**Subtema:** conversión de unidades · la milla
+
+"1 milla = 1 609 m = 1.609 km."
+
+### 59
+
+En relación con el libro de Física, ¿a cuántos centímetros equivale exactamente 1 pulgada (in.)?
+
+- A. 2.54 cm
+- B. 3.281 cm
+- C. 30.48 cm
+- D. 39.37 cm
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 12
+**Subtema:** conversión de unidades · la pulgada
+
+"1 in. = 0.025 4 m = 2.54 cm (exactamente)."
+
+### 60
+
+De conformidad con el libro de Física, ¿a cuántos centímetros equivale 1 pie (ft)?
+
+- A. 30.48 cm
+- B. 2.54 cm
+- C. 39.37 cm
+- D. 160.9 cm
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 12
+**Subtema:** conversión de unidades · el pie
+
+"1 ft = 0.3048 m = 30.48 cm."
+
+### 61
+
+De acuerdo con el libro de Física, ¿a cuántas pulgadas (in.) equivale 1 metro?
+
+- A. 39.37 in.
+- B. 3.281 in.
+- C. 2.54 in.
+- D. 30.48 in.
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 12
+**Subtema:** conversión de unidades · el metro
+
+"1 m = 39.37 in. = 3.281 ft."
+
+### 62
+
+En relación con el libro de Física, al convertir unidades, ¿cómo se manipulan las unidades?
+
+- A. Como cantidades algebraicas que se cancelan mutuamente
+- B. Como constantes numéricas que sólo se suman
+- C. Como dimensiones que no pueden operarse entre sí
+- D. Como factores que siempre se multiplican, nunca se dividen
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 12
+**Subtema:** conversión de unidades · método
+
+"Como las dimensiones, las unidades se manipulan como cantidades algebraicas que se cancelan mutuamente."
