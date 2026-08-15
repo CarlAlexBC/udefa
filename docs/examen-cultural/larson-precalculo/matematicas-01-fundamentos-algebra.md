@@ -82,7 +82,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 - Cubiertas las páginas impresas **72 y 73**, arranque del **1.8 · Propiedades de los logaritmos**: el *Cambio de base* (qué base tienen los logaritmos comunes y los naturales, cuándo hace falta la fórmula y sus tres versiones —base b, base 10 y base e—, y el multiplicador constante), las *Propiedades de los logaritmos* (producto, cociente y potencia) con su `COMENTARIO` de que no existe propiedad para log_a(u ± v), y la `NOTA HISTÓRICA` de **John Napier**. Los `EJEMPLO 1` a `EJEMPLO 4` no llevan reactivos.
 
-**Pendiente:** EN CURSO. El **1.3, el 1.4 y el 1.6 están CERRADOS** y el **1.8 va en curso**: sigue desde la página impresa **74**. La teoría del 1.8 llega hasta la **p. 75** (las pp. 76–78 son el bloque de `Ejercicios`). La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+- Cubiertas las páginas impresas **74 y 75**, con las que **cierra el 1.8**: *Reescritura de expresiones logarítmicas* (para qué sirven las propiedades y en qué convierten productos, cocientes y exponenciales; expandir frente a condensar) y la *Aplicación* (tomar el logaritmo natural de datos no lineales y la ecuación ln y = m ln x). Los `EJEMPLO 5` a `EJEMPLO 7` no llevan reactivos —el 7 es además una aplicación astronómica, ajena al tema— y las **pp. 76–78 son íntegramente el bloque `1.8 Ejercicios`**.
+
+**Pendiente:** EN CURSO. El **1.3, el 1.4, el 1.6 y el 1.8 están CERRADOS**. Sigue el **1.9 · Ecuaciones exponenciales y logarítmicas**, que arranca en la página impresa **79**; su teoría llega hasta la **p. 85** (las pp. 86–88 son el bloque de `Ejercicios`). La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -3875,5 +3877,92 @@ De acuerdo con el libro de Matemáticas, ¿cuánto tiempo trabajó Napier en el 
 **Subtema:** propiedades de los logaritmos · nota histórica
 
 Napier trabajó durante 20 años en el desarrollo de los logaritmos antes de publicar su trabajo en 1614.
+
+---
+
+## Sub-lote 27 · Reescritura de expresiones logarítmicas — cierra el 1.8 (pp. 74–75)
+
+### 221
+
+De conformidad con el libro de Matemáticas, ¿para qué son útiles las propiedades de los logaritmos?
+
+- A. Para reescribir expresiones logarítmicas en formas que simplifican las operaciones de álgebra
+- B. Para determinar la base de cualquier logaritmo
+- C. Para convertir cualquier ecuación en una identidad
+- D. Para eliminar las soluciones extrañas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 74
+**Subtema:** propiedades de los logaritmos · reescritura de expresiones
+
+Las propiedades de los logaritmos son útiles para reescribir expresiones logarítmicas en formas que simplifican las operaciones de álgebra.
+
+---
+
+### 222
+
+En relación con el libro de Matemáticas, ¿en qué convierten las propiedades de los logaritmos las formas complicadas de productos, cocientes y exponenciales?
+
+- A. En más sencillas sumas, diferencias y productos, respectivamente
+- B. En más sencillos productos, cocientes y potencias, respectivamente
+- C. En más sencillas diferencias, sumas y cocientes, respectivamente
+- D. En más sencillas raíces, potencias y sumas, respectivamente
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 74
+**Subtema:** propiedades de los logaritmos · reescritura de expresiones
+
+Esto es cierto porque estas propiedades convierten formas complicadas de productos, cocientes y exponenciales en más sencillas sumas, diferencias y productos, respectivamente.
+
+---
+
+### 223
+
+De acuerdo con el libro de Matemáticas, ¿cómo se llama el procedimiento inverso al de expandir expresiones logarítmicas?
+
+- A. Condensar expresiones logarítmicas
+- B. Racionalizar expresiones logarítmicas
+- C. Factorizar expresiones logarítmicas
+- D. Simplificar el índice de la expresión
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 74
+**Subtema:** propiedades de los logaritmos · condensar y expandir
+
+Las propiedades de los logaritmos se usaron para expandir expresiones logarítmicas. Este procedimiento se invierte y las propiedades de los logaritmos se usan para condensar expresiones logarítmicas.
+
+---
+
+### 224
+
+De conformidad con el libro de Matemáticas, ¿qué método sirve para determinar cómo están relacionados los valores de x y y de un conjunto de datos no lineales?
+
+- A. Tomar el logaritmo natural de cada uno de esos valores
+- B. Tomar el logaritmo común de cada uno de esos valores
+- C. Elevar al cuadrado cada uno de esos valores
+- D. Sacar la raíz cúbica de cada uno de esos valores
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 75
+**Subtema:** propiedades de los logaritmos · aplicación
+
+Un método para determinar la forma en que los valores de x y y para un conjunto de datos no lineales están relacionados es tomar el logaritmo natural de cada uno de esos valores de x y y.
+
+---
+
+### 225
+
+En relación con el libro de Matemáticas, si los puntos (ln x, ln y) se grafican y caen sobre una recta, ¿qué ecuación relaciona los valores de x y y?
+
+- A. ln y = m ln x, donde m es la pendiente de la recta
+- B. ln y = m + ln x, donde m es la pendiente de la recta
+- C. ln y = ln x, sin importar la pendiente
+- D. ln y = m ln x, donde m es la ordenada al origen
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 75
+**Subtema:** propiedades de los logaritmos · aplicación
+
+Si los puntos (ln x, ln y) se grafican y caen sobre una recta, entonces se puede determinar que los valores de x y y están relacionados por la ecuación ln y = m ln x, donde m es la pendiente de la recta.
 
 ---
