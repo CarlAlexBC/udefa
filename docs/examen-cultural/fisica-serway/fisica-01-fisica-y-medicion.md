@@ -33,9 +33,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **3–14**: las secciones **1.1** a **1.6** (esta última con las reglas de las cifras significativas: multiplicación/división y suma/resta). La **p.11** (Ejemplos 1.2/1.3) y el **Ejemplo 1.5** (p.13) no llevan reactivos por norma.
+**CERRADO.** El Capítulo 1 · Física y medición queda cubierto del todo en lo que pide el temario ("Completo"): páginas impresas **3–15** (secciones 1.1 a 1.6, más la regla de redondeo y la guía de cifras del cierre en la p.15). **78 reactivos.** No llevan reactivos, por norma: la p.11 (Ejemplos 1.2 y 1.3), el Ejemplo 1.5 (p.13), el Ejemplo 1.6 (p.15) y los ejercicios de fin de capítulo (pp.16–17); el bloque "Definiciones" del Resumen recapitula 1.1/1.6, ya cubiertos.
 
-**Pendiente:** EN CURSO. Sigue el **Resumen** (p.15), con lo que se cierra el Capítulo 1 (los ejercicios de fin de capítulo, pp.16–17, no llevan reactivos).
+**Pendiente:** ninguno en este archivo. **El Capítulo 1 queda CERRADO.** Del temario de Física de la EMEFA (`FÍSICA-02-2026`) siguen los otros capítulos, cada uno en su propio archivo: **Cap. 2** (Movimiento en una dimensión — sólo 2.1, 2.2 y 2.5), **Cap. 3** (Vectores — completo), **Cap. 5** (Las leyes del movimiento — 5.1 a 5.6) y **Cap. 10** (Mecánica de fluidos — 10.1 a 10.6).
 
 ---
 
@@ -1190,3 +1190,67 @@ De conformidad con el libro de Física, ¿cuántas cifras significativas tiene e
 **Subtema:** cifras significativas · conteo
 
 Los ceros de posición de 0.03 y 0.0075 no son significativos; por eso "existen una y dos cifras significativas, respectivamente, en estos dos valores".
+
+---
+
+## Sub-lote 12 · Redondeo y guía de cifras significativas (p.15)
+
+### 75
+
+De acuerdo con el libro de Física, al redondear, si el último dígito eliminado es mayor que 5, ¿qué ocurre con el último dígito retenido?
+
+- A. Se aumenta en 1
+- B. Permanece como está
+- C. Se redondea al número par más cercano
+- D. Se elimina junto con los demás
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 15
+**Subtema:** cifras significativas · redondeo
+
+"El último dígito retenido se aumenta en 1 si el último dígito eliminado es mayor que 5. […] Si el último dígito eliminado es menor que 5, el último dígito permanece como está."
+
+### 76
+
+En relación con el libro de Física, al redondear, si el último dígito eliminado es igual a 5, ¿cómo debe redondearse el dígito restante?
+
+- A. Al número par más cercano
+- B. Siempre hacia arriba, aumentándolo en 1
+- C. Siempre hacia abajo, dejándolo como está
+- D. Al número impar más cercano
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 15
+**Subtema:** cifras significativas · redondeo
+
+"Si el último dígito eliminado es igual a 5, el dígito restante debe redondearse al número par más cercano. (Esta regla ayuda a evitar acumulación de errores en procesos aritméticos largos.)"
+
+### 77
+
+De conformidad con el libro de Física, ¿cuántas cifras significativas producen la mayoría de los ejemplos numéricos y problemas de fin de capítulo de este libro?
+
+- A. Tres cifras significativas
+- B. Dos cifras significativas
+- C. Cuatro cifras significativas
+- D. Una cifra significativa
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 15
+**Subtema:** cifras significativas · guía del libro
+
+"En este libro la mayoría de los ejemplos numéricos y problemas de fin de capítulo producirán respuestas que tienen tres cifras significativas. Cuando se realicen cálculos del orden de magnitud, por lo general se trabajará con una sola cifra significativa."
+
+### 78
+
+De acuerdo con el libro de Física, en un cálculo largo con muchos pasos, ¿qué se recomienda para evitar la acumulación de errores?
+
+- A. Demorar el redondeo de números hasta tener el resultado final
+- B. Redondear en cada paso a dos cifras significativas
+- C. Trabajar siempre con una sola cifra significativa
+- D. Redondear al número impar más cercano en cada operación
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 15
+**Subtema:** cifras significativas · redondeo en cálculos largos
+
+"En un cálculo largo que implica muchos pasos, es muy importante demorar el redondeo de números hasta que tenga el resultado final, a fin de evitar la acumulación de errores."
