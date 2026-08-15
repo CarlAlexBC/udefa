@@ -51,10 +51,11 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 - **p. 19, recuadro `TECNOLOGÍA`:** el texto dice "he aquí cómo se evaluaría **(−2)²** en una graficadora", pero enseguida imprime la secuencia de teclas `( (−) 2 ) ^ 4 ENTER` y afirma que "el resultado exhibido será 16". Con exponente 2 el resultado sería 4: el enunciado debía decir **(−2)⁴**. Verificado sobre la hoja renderizada, no es suciedad de la extracción. El recuadro `TECNOLOGÍA` de todos modos queda fuera por norma.
 - **p. 21, arranque de "Notación científica":** el libro dice que "hay alrededor de **1 385 miles de millones** de litros de agua en la Tierra, es decir **1 385 seguido por 18 ceros**". Las dos cifras no coinciden: 1 385 miles de millones es 1 385 seguido de **9** ceros. La que cuadra con los 18 ceros es la que el propio libro escribe enseguida, **1.385 × 10²¹**, así que el desliz está en el nombre del número (se perdió un "miles de millones" al traducir). **No se escribe ningún reactivo que empareje las dos cifras**; el reactivo 24 pregunta sólo por la notación científica, que sí es consistente.
+- **p. 30, recuadro "Definición de un polinomio con x": ES FALSA COMO ESTÁ IMPRESA.** El libro dice "Sean a₀, a₁, a₂, . . ., aₙ números reales y **n un entero no positivo**". Tiene que ser **no negativo** (n ≥ 0): si n fuera no positivo, la expresión aₙxⁿ + aₙ₋₁xⁿ⁻¹ + . . . no describiría ningún polinomio, y el propio libro contradice esa frase dos párrafos después al dar un polinomio de grado 7 y otro de grado 11. Es un desliz de la traducción (el original dice *nonnegative integer*). **Verificado sobre la hoja renderizada**, no es basura de la extracción. **No se escribe ningún reactivo que pregunte qué debe ser n en esa definición.** El resto del recuadro (que aₙ ≠ 0, que aₙ es el coeficiente principal y a₀ el término constante) sí es correcto y sí lleva reactivos.
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **18 a 22** de **1.3 · Exponentes y radicales**:
+**EN CURSO.** El subtema **1.3 · Exponentes y radicales quedó CERRADO** (pp. 18–27) y está arrancado el **1.4 · Polinomios y factorización** (pp. 30–31):
 
 - Cubierta la página impresa **18**: la multiplicación repetida en forma exponencial, el recuadro *Notación exponencial* y el recuadro *Propiedades de los exponentes* con sus ocho propiedades. Los objetivos de la sección y el pie de foto que remite al ejercicio 69 no llevan reactivos.
 - Cubiertas las páginas impresas **19 y 20**: el alcance de las propiedades a todos los enteros, la distinción entre `(−2)⁴` y `−2⁴`, y del recuadro *COMENTARIO* **sólo la forma fraccionaria de la propiedad 3** (su consejo de estudio queda fuera por la regla del dato del tema). Los `EJEMPLO 1` a `EJEMPLO 4`, los `Punto de repaso` y el recuadro `TECNOLOGÍA` no llevan reactivos por norma.
@@ -63,8 +64,10 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 - Cubierta la página impresa **23**: la tabla *Generalizaciones sobre raíces enésimas de números reales* (sus cuatro casos), los cuadrados y cubos perfectos, y el recuadro *Propiedades de los radicales* con sus seis propiedades y el uso común de la 6. El `EJEMPLO 9` no lleva reactivos.
 - Cubierta la página impresa **24**: *Simplificación de expresiones radicales* (las tres condiciones de la forma más simple, la racionalización del denominador y cómo se factoriza el radicando), la combinación de radicales iguales y el recuadro *COMENTARIO*. Los `EJEMPLO 10` y `EJEMPLO 11` no llevan reactivos.
 - Cubiertas las páginas impresas **25 y 26**: *Racionalización de denominadores y numeradores* (el conjugado, el caso a = 0 y las raíces cúbicas) y *Exponentes racionales y sus propiedades* (la definición, qué denotan numerador y denominador, y los dos recuadros `COMENTARIO`, que aquí sí traen matemáticas). Los `EJEMPLO 12` a `EJEMPLO 15` no llevan reactivos.
+- Cubierta la página impresa **27**, con la que **cierra el 1.3**: para qué son útiles los exponentes racionales y el `COMENTARIO` del caso no definido. El `Resumen (sección 1.3)` **no lleva reactivos**: es una lista de indicaciones de estudio que remite a los ejemplos, y cae por la regla del dato del tema. Los `EJEMPLO 16` y `17` y el `TECNOLOGÍA` de las graficadoras tampoco. **Las pp. 28 y 29 son íntegramente el bloque `1.3 Ejercicios`** —incluidos el "Vocabulario", el "Modelado matemático", el "¿CÓMO LO VE?" y la "Exploración"—, así que no llevan un solo reactivo.
+- Cubiertas las páginas impresas **30 y 31**, arranque del **1.4 · Polinomios y factorización**: qué es un polinomio y la forma axᵏ de sus términos, el recuadro *Definición de un polinomio con x* (salvo su errata de "n no positivo"), monomios/binomios/trinomios, la forma estándar, el polinomio cero, el grado y el coeficiente principal con más de una variable, el `COMENTARIO` de qué expresiones no son polinomios, los términos semejantes, el producto por las propiedades distributivas y el método PEIU. Los `EJEMPLO 1` a `EJEMPLO 3` no llevan reactivos.
 
-**Pendiente:** EN CURSO. Sigue desde la página impresa **27**, hasta cerrar el **1.3** en la **p. 29**. Después faltan los otros seis subtemas que pide el temario —**1.4** (p. 30), **1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+**Pendiente:** EN CURSO. Sigue desde la página impresa **32**, con lo que reste del **1.4** hasta la **p. 39**. Después faltan los otros cinco subtemas que pide el temario —**1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -1524,5 +1527,385 @@ De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué t
 **Subtema:** exponentes y radicales · exponentes racionales
 
 Si m y n no tienen factores comunes, también es cierto que a^(m/n) = (aᵐ)^(1/n).
+
+---
+
+## Sub-lote 8 · Utilidad de los exponentes racionales — cierra el 1.3 (p. 27)
+
+### 86
+
+De conformidad con el libro de Matemáticas, ¿para qué son útiles los exponentes racionales?
+
+- A. Para evaluar raíces en una calculadora, reducir el índice de un radical y simplificar expresiones en cálculo
+- B. Para eliminar los denominadores, ordenar los términos y comprobar las raíces
+- C. Para convertir fracciones en decimales, redondear cifras y estimar resultados
+- D. Para factorizar polinomios, resolver ecuaciones y graficar funciones
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 27
+**Subtema:** exponentes y radicales · exponentes racionales
+
+Los exponentes racionales son útiles para evaluar raíces de números en una calculadora, para reducir el índice de un radical y para simplificar expresiones en cálculo.
+
+---
+
+### 87
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿por qué una expresión que contiene x^(−3/4) no está definida cuando x = 0?
+
+- A. Porque 0^(−3/4) no es un número real
+- B. Porque 0^(−3/4) es igual a cero
+- C. Porque 0^(−3/4) es igual a uno
+- D. Porque el exponente racional exige que x sea negativo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 27
+**Subtema:** exponentes y radicales · exponentes racionales
+
+La expresión en el ejemplo 17b) no está definida cuando x = 0 porque 0^(−3/4) no es un número real.
+
+---
+
+## Sub-lote 9 · Polinomios: definición, grado y coeficiente principal (1.4, p. 30)
+
+### 88
+
+De acuerdo con el libro de Matemáticas, ¿cuál es uno de los tipos más comunes de expresiones algebraicas?
+
+- A. El polinomio
+- B. El radical
+- C. La fracción algebraica
+- D. El exponente racional
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · polinomios
+
+Uno de los tipos más comunes de expresiones algebraicas es el polinomio.
+
+---
+
+### 89
+
+De conformidad con el libro de Matemáticas, ¿qué forma tienen los términos de un polinomio con x?
+
+- A. La forma axᵏ
+- B. La forma aˣ + k
+- C. La forma xᵃᵏ
+- D. La forma a + xᵏ
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · polinomios
+
+Los términos de un polinomio con x tienen la forma axᵏ.
+
+---
+
+### 90
+
+En relación con el libro de Matemáticas, en un término de la forma axᵏ, ¿qué son a y k, respectivamente?
+
+- A. a es el coeficiente y k es el grado del término
+- B. a es el grado y k es el coeficiente del término
+- C. a es la base y k es el índice del término
+- D. a es el término constante y k es el coeficiente principal
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · polinomios
+
+Los términos de un polinomio con x tienen la forma axᵏ, donde a es el coeficiente y k es el grado del término.
+
+---
+
+### 91
+
+De acuerdo con el libro de Matemáticas, en la definición de un polinomio con x, ¿qué condición debe cumplir aₙ?
+
+- A. Que sea distinto de cero
+- B. Que sea igual a cero
+- C. Que sea un número positivo
+- D. Que sea un número entero
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · definición de polinomio
+
+Un polinomio con x es una expresión de la forma aₙxⁿ + aₙ₋₁xⁿ⁻¹ + . . . + a₁x + a₀ donde aₙ ≠ 0.
+
+---
+
+### 92
+
+De conformidad con el libro de Matemáticas, en la definición de un polinomio con x, ¿cómo se llama aₙ?
+
+- A. El coeficiente principal
+- B. El término constante
+- C. El grado del polinomio
+- D. El coeficiente secundario
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · definición de polinomio
+
+El polinomio es de grado n, aₙ es el coeficiente principal y a₀ es el término constante.
+
+---
+
+### 93
+
+En relación con el libro de Matemáticas, en la definición de un polinomio con x, ¿cómo se llama a₀?
+
+- A. El término constante
+- B. El coeficiente principal
+- C. El grado del polinomio
+- D. El término semejante
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · definición de polinomio
+
+El polinomio es de grado n, aₙ es el coeficiente principal y a₀ es el término constante.
+
+---
+
+### 94
+
+De acuerdo con el libro de Matemáticas, ¿cómo se llaman los polinomios con uno, dos y tres términos, respectivamente?
+
+- A. Monomios, binomios y trinomios
+- B. Binomios, trinomios y polinomios
+- C. Unimonios, bimonios y trimonios
+- D. Términos, binomios y multinomios
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · monomios, binomios y trinomios
+
+Los polinomios con uno, dos y tres términos son monomios, binomios y trinomios, respectivamente.
+
+---
+
+### 95
+
+De conformidad con el libro de Matemáticas, ¿cuándo está un polinomio en forma estándar?
+
+- A. Cuando está escrito con potencias descendentes de x
+- B. Cuando está escrito con potencias ascendentes de x
+- C. Cuando su coeficiente principal es 1
+- D. Cuando no tiene término constante
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · forma estándar
+
+Un polinomio escrito con potencias descendentes de x está en forma estándar.
+
+---
+
+### 96
+
+En relación con el libro de Matemáticas, ¿cómo se llama el polinomio que tiene sólo coeficientes de cero y cómo se denota?
+
+- A. Polinomio cero, denotado por 0
+- B. Polinomio nulo, denotado por Ø
+- C. Polinomio constante, denotado por a₀
+- D. Polinomio neutro, denotado por 1
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · polinomio cero
+
+Un polinomio que tiene sólo coeficientes de cero se llama polinomio cero, denotado por 0.
+
+---
+
+### 97
+
+De acuerdo con el libro de Matemáticas, ¿qué grado se le asigna al polinomio cero?
+
+- A. Ninguno
+- B. El grado cero
+- C. El grado uno
+- D. El grado de su término constante
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · polinomio cero
+
+Ningún grado se asigna al polinomio cero.
+
+---
+
+### 98
+
+De conformidad con el libro de Matemáticas, en un polinomio con más de una variable, ¿cómo se obtiene el grado de un término?
+
+- A. Sumando los exponentes de las variables del término
+- B. Multiplicando los exponentes de las variables del término
+- C. Tomando el mayor de los exponentes del término
+- D. Contando cuántas variables tiene el término
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · grado
+
+Para polinomios con más de una variable, el grado de un término es la suma de los exponentes de las variables en el término.
+
+---
+
+### 99
+
+En relación con el libro de Matemáticas, en un polinomio con más de una variable, ¿cuál es el grado del polinomio?
+
+- A. El más alto de los grados de sus términos
+- B. La suma de los grados de sus términos
+- C. El más bajo de los grados de sus términos
+- D. El grado de su término constante
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · grado
+
+El grado del polinomio es el más alto de sus términos.
+
+---
+
+### 100
+
+De acuerdo con el libro de Matemáticas, en un polinomio con más de una variable, ¿cuál es el coeficiente principal?
+
+- A. El coeficiente del término de más alto grado
+- B. El coeficiente del primer término escrito
+- C. El coeficiente del término de más bajo grado
+- D. El mayor de todos los coeficientes
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · coeficiente principal
+
+El coeficiente principal del polinomio es el coeficiente del término de más alto grado.
+
+---
+
+### 101
+
+De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿en qué dos casos una expresión no es un polinomio?
+
+- A. Cuando una variable está bajo un radical y cuando una expresión polinomial de grado mayor que cero está en el denominador de un término
+- B. Cuando tiene más de una variable y cuando su coeficiente principal es cero
+- C. Cuando tiene exponentes pares y cuando su término constante es negativo
+- D. Cuando está escrito en forma estándar y cuando tiene más de tres términos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 30
+**Subtema:** polinomios y factorización · qué no es un polinomio
+
+Las expresiones no son polinomios cuando una variable está bajo un radical o cuando una expresión polinomial (con grado mayor que 0) está en el denominador de un término.
+
+---
+
+## Sub-lote 10 · Operaciones con polinomios y método PEIU (1.4, p. 31)
+
+### 102
+
+En relación con el libro de Matemáticas, ¿qué son los términos semejantes?
+
+- A. Los que tienen las mismas variables elevadas a las mismas potencias
+- B. Los que tienen el mismo coeficiente
+- C. Los que tienen el mismo número de variables
+- D. Los que tienen el mismo signo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 31
+**Subtema:** polinomios y factorización · términos semejantes
+
+Sume o reste los términos semejantes (términos que tienen las mismas variables elevadas a las mismas potencias).
+
+---
+
+### 103
+
+De acuerdo con el libro de Matemáticas, ¿cómo se suman o se restan los términos semejantes?
+
+- A. Sumando o restando sus coeficientes
+- B. Sumando o restando sus exponentes
+- C. Multiplicando sus coeficientes
+- D. Igualando primero sus variables
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 31
+**Subtema:** polinomios y factorización · términos semejantes
+
+Sume o reste los términos semejantes sumando o restando sus coeficientes.
+
+---
+
+### 104
+
+De conformidad con el libro de Matemáticas, ¿qué se usa para determinar el producto de dos polinomios?
+
+- A. Las propiedades distributivas derecha e izquierda
+- B. Las propiedades de los exponentes racionales
+- C. La racionalización del denominador
+- D. La forma estándar del polinomio
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 31
+**Subtema:** polinomios y factorización · producto de polinomios
+
+Para determinar el producto de dos polinomios, use las propiedades distributivas derecha e izquierda.
+
+---
+
+### 105
+
+En relación con el libro de Matemáticas, en el método PEIU, ¿qué cuatro productos nombran sus letras?
+
+- A. Los de los términos primeros, externos, internos y últimos
+- B. Los de los términos principales, exponenciales, internos y únicos
+- C. Los de los términos pares, enteros, impares y unitarios
+- D. Los de los términos primeros, exteriores, iniciales y unidos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 31
+**Subtema:** polinomios y factorización · método PEIU
+
+Producto de los términos primeros, producto de los términos externos, producto de los términos internos, producto de los términos últimos.
+
+---
+
+### 106
+
+De acuerdo con el libro de Matemáticas, ¿para qué puede usarse únicamente el método PEIU?
+
+- A. Sólo para multiplicar dos binomios
+- B. Sólo para multiplicar dos trinomios
+- C. Sólo para sumar dos polinomios
+- D. Sólo para factorizar un trinomio
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 31
+**Subtema:** polinomios y factorización · método PEIU
+
+El método PEIU de arriba sólo puede usarse para multiplicar dos binomios.
+
+---
+
+### 107
+
+De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué debe recordarse cuando un signo negativo precede a una expresión dentro de un paréntesis?
+
+- A. Distribuir el signo negativo a cada término, es decir, multiplicar cada término por −1
+- B. Aplicar el signo negativo sólo al primer término del paréntesis
+- C. Suprimir el paréntesis sin cambiar ningún signo
+- D. Cambiar el signo únicamente del término constante
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 31
+**Subtema:** polinomios y factorización · signo negativo ante paréntesis
+
+Cuando un signo negativo precede a una expresión dentro de paréntesis, recuerde distribuir el signo negativo a cada término dentro del paréntesis. En otras palabras, multiplique cada término por −1.
 
 ---
