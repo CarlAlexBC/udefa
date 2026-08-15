@@ -48,12 +48,18 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 ## Erratas del libro — no se escriben reactivos sobre ellas
 
 - **p. 19, recuadro `TECNOLOGÍA`:** el texto dice "he aquí cómo se evaluaría **(−2)²** en una graficadora", pero enseguida imprime la secuencia de teclas `( (−) 2 ) ^ 4 ENTER` y afirma que "el resultado exhibido será 16". Con exponente 2 el resultado sería 4: el enunciado debía decir **(−2)⁴**. Verificado sobre la hoja renderizada, no es suciedad de la extracción. El recuadro `TECNOLOGÍA` de todos modos queda fuera por norma.
+- **p. 21, arranque de "Notación científica":** el libro dice que "hay alrededor de **1 385 miles de millones** de litros de agua en la Tierra, es decir **1 385 seguido por 18 ceros**". Las dos cifras no coinciden: 1 385 miles de millones es 1 385 seguido de **9** ceros. La que cuadra con los 18 ceros es la que el propio libro escribe enseguida, **1.385 × 10²¹**, así que el desliz está en el nombre del número (se perdió un "miles de millones" al traducir). **No se escribe ningún reactivo que empareje las dos cifras**; el reactivo 26 pregunta sólo por la notación científica, que sí es consistente.
 
 ## Cobertura actual
 
-**EN CURSO.** Escrita la página impresa **18**: el arranque de **1.3 · Exponentes y radicales** —la multiplicación repetida en forma exponencial, el recuadro *Notación exponencial* y el recuadro *Propiedades de los exponentes* con sus ocho propiedades—. Los objetivos de la sección y el pie de foto que remite al ejercicio 69 no llevan reactivos.
+**EN CURSO.** Escritas las páginas impresas **18 a 22** de **1.3 · Exponentes y radicales**:
 
-**Pendiente:** EN CURSO. Sigue la **p. 19** con la distinción entre `(−2)⁴` y `−2⁴`, y de ahí hasta cerrar el **1.3** en la **p. 29**. Después faltan los otros seis subtemas que pide el temario —**1.4** (p. 30), **1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+- Cubierta la página impresa **18**: la multiplicación repetida en forma exponencial, el recuadro *Notación exponencial* y el recuadro *Propiedades de los exponentes* con sus ocho propiedades. Los objetivos de la sección y el pie de foto que remite al ejercicio 69 no llevan reactivos.
+- Cubiertas las páginas impresas **19 y 20**: el alcance de las propiedades a todos los enteros, la distinción entre `(−2)⁴` y `−2⁴`, y el recuadro *COMENTARIO* con la forma fraccionaria de la propiedad 3. Los `EJEMPLO 1` a `EJEMPLO 4`, los `Punto de repaso` y el recuadro `TECNOLOGÍA` no llevan reactivos por norma.
+- Cubierta la página impresa **21**: el apartado *Notación científica* completo (la forma `±c × 10ⁿ`, lo que indican el exponente positivo y el negativo, y la masa del electrón). Los `EJEMPLO 5` a `EJEMPLO 7` y el `TECNOLOGÍA` de las calculadoras no llevan reactivos.
+- Cubierta la página impresa **22**: el apartado *Radicales y sus propiedades* —raíz cuadrada y cúbica, el recuadro *Definición de la raíz enésima de un número*, el recuadro *Principal raíz enésima de un número* (índice, radicando, plural de índice) y el malentendido del signo de raíz cuadrada—. El `EJEMPLO 8` no lleva reactivos.
+
+**Pendiente:** EN CURSO. Sigue desde la página impresa **23**, con lo que reste de las propiedades de los radicales, hasta cerrar el **1.3** en la **p. 29**. Después faltan los otros seis subtemas que pide el temario —**1.4** (p. 30), **1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -328,5 +334,572 @@ De acuerdo con el libro de Matemáticas, según la propiedad 8 de los exponentes
 **Subtema:** exponentes y radicales · propiedades de los exponentes
 
 8. |a²| = |a|² = a².
+
+---
+
+## Sub-lote 2 · Alcance de las propiedades y el signo en la base (1.3, pp. 19–20)
+
+### 17
+
+De conformidad con el libro de Matemáticas, ¿a qué enteros se aplican las propiedades de los exponentes enlistadas?
+
+- A. A todos los enteros m y n, no sólo a los enteros positivos
+- B. Sólo a los enteros positivos
+- C. Sólo a los enteros negativos
+- D. Sólo a los enteros distintos de cero
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 19
+**Subtema:** exponentes y radicales · alcance de las propiedades
+
+Las propiedades de los exponentes enlistadas anteriormente se aplican a todos los enteros m y n, no sólo a los enteros positivos.
+
+---
+
+### 18
+
+En relación con el libro de Matemáticas, en la expresión (−2)⁴, ¿qué indica el paréntesis?
+
+- A. Que el exponente se aplica al signo negativo tanto como al 2
+- B. Que el exponente se aplica sólo al 2
+- C. Que el exponente se aplica sólo al signo negativo
+- D. Que el exponente debe multiplicarse por el signo negativo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 19
+**Subtema:** exponentes y radicales · el signo en la base
+
+En (−2)⁴, el paréntesis indica que el exponente se aplica al signo negativo tanto como al 2.
+
+---
+
+### 19
+
+De acuerdo con el libro de Matemáticas, en la expresión −2⁴, ¿a qué se aplica el exponente?
+
+- A. Sólo al 2
+- B. Sólo al signo negativo
+- C. Al signo negativo tanto como al 2
+- D. Al resultado de la operación completa
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 19
+**Subtema:** exponentes y radicales · el signo en la base
+
+Mientras que en −2⁴ = −(2)⁴ el exponente se aplica sólo al 2.
+
+---
+
+### 20
+
+De conformidad con el libro de Matemáticas, ¿cuánto valen (−2)⁴ y −2⁴, respectivamente?
+
+- A. 16 y −16
+- B. −16 y 16
+- C. 16 y 16
+- D. −16 y −16
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 19
+**Subtema:** exponentes y radicales · el signo en la base
+
+Así, (−2)⁴ = 16 y −2⁴ = −16.
+
+---
+
+### 21
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cuántas maneras suele haber en álgebra de resolver un problema?
+
+- A. Raramente hay sólo una manera de resolverlo
+- B. Siempre hay una sola manera de resolverlo
+- C. Siempre hay exactamente dos maneras de resolverlo
+- D. Nunca hay más de tres maneras de resolverlo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 20
+**Subtema:** exponentes y radicales · maneras de resolver
+
+Raramente en álgebra hay sólo una manera de resolver un problema.
+
+---
+
+### 22
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué pasos es importante seguir al resolver un problema?
+
+- A. Pasos que uno comprenda y que se justifiquen con las reglas del álgebra
+- B. Pasos exactamente iguales a los presentados en el texto
+- C. Pasos que lleven al resultado en el menor número de operaciones
+- D. Pasos que puedan comprobarse con una calculadora
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 20
+**Subtema:** exponentes y radicales · maneras de resolver
+
+Es importante seguir pasos que usted comprenda y, desde luego, pasos que se justifiquen con las reglas del álgebra.
+
+---
+
+### 23
+
+De conformidad con el libro de Matemáticas, ¿cuál es la forma fraccionaria de la propiedad 3 de los exponentes?
+
+- A. (a/b)⁻ᵐ = (b/a)ᵐ
+- B. (a/b)⁻ᵐ = (a/b)ᵐ
+- C. (a/b)⁻ᵐ = −(b/a)ᵐ
+- D. (a/b)⁻ᵐ = (b/a)⁻ᵐ
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 20
+**Subtema:** exponentes y radicales · propiedades de los exponentes
+
+Por ejemplo, la forma fraccionaria de la propiedad 3 es: (a/b)⁻ᵐ = (b/a)ᵐ.
+
+---
+
+## Sub-lote 3 · Notación científica (1.3, p. 21)
+
+### 24
+
+En relación con el libro de Matemáticas, ¿qué brindan los exponentes?
+
+- A. Una forma eficiente de escribir y calcular con números muy grandes o muy pequeños
+- B. Una forma abreviada de escribir sumas muy largas
+- C. Una forma de convertir números decimales en fracciones
+- D. Una forma de comparar números enteros con números racionales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 21
+**Subtema:** exponentes y radicales · notación científica
+
+Los exponentes brindan una forma eficiente de escribir y calcular con números muy grandes (o muy pequeños).
+
+---
+
+### 25
+
+De acuerdo con el libro de Matemáticas, ¿qué forma tiene la notación científica?
+
+- A. ±c × 10ⁿ
+- B. ±c × nⁿ
+- C. ±10 × cⁿ
+- D. ±c ÷ 10ⁿ
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 21
+**Subtema:** exponentes y radicales · notación científica
+
+Esta notación tiene la forma ±c × 10ⁿ, donde 1 ≤ c < 10 y n es un entero.
+
+---
+
+### 26
+
+De conformidad con el libro de Matemáticas, ¿cómo se escribe en notación científica el número de litros de agua que hay en la Tierra?
+
+- A. 1.385 × 10²¹
+- B. 1.385 × 10¹⁸
+- C. 1.385 × 10²⁴
+- D. 1.385 × 10¹²
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 21
+**Subtema:** exponentes y radicales · notación científica
+
+El número de litros de agua en la Tierra, escrito en notación científica, es: 1.385 × 1,000,000,000,000,000,000,000 = 1.385 × 10²¹.
+
+---
+
+### 27
+
+En relación con el libro de Matemáticas, en la notación científica ±c × 10ⁿ, ¿entre qué valores debe estar c?
+
+- A. 1 ≤ c < 10
+- B. 0 < c ≤ 1
+- C. 1 < c ≤ 100
+- D. 0 ≤ c < 9
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 21
+**Subtema:** exponentes y radicales · notación científica
+
+Esta notación tiene la forma ±c × 10ⁿ, donde 1 ≤ c < 10 y n es un entero.
+
+---
+
+### 28
+
+De acuerdo con el libro de Matemáticas, en la notación científica ±c × 10ⁿ, ¿qué debe ser n?
+
+- A. Un entero
+- B. Un entero positivo
+- C. Un número real
+- D. Un número racional
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 21
+**Subtema:** exponentes y radicales · notación científica
+
+Esta notación tiene la forma ±c × 10ⁿ, donde 1 ≤ c < 10 y n es un entero.
+
+---
+
+### 29
+
+De conformidad con el libro de Matemáticas, en notación científica, ¿qué indica un exponente positivo?
+
+- A. Que el número es grande, de 10 o más
+- B. Que el número es pequeño, menor que 1
+- C. Que el número es negativo
+- D. Que el número es un entero exacto
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 21
+**Subtema:** exponentes y radicales · notación científica
+
+El exponente positivo 21 indica que el número es grande (de 10 o más) y que el punto decimal se ha movido 21 lugares.
+
+---
+
+### 30
+
+En relación con el libro de Matemáticas, en notación científica, ¿qué indica un exponente negativo?
+
+- A. Que el número es pequeño, menor que 1
+- B. Que el número es grande, de 10 o más
+- C. Que el número es negativo
+- D. Que el número no es real
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 21
+**Subtema:** exponentes y radicales · notación científica
+
+Un exponente negativo indica que el número es pequeño (menor que 1).
+
+---
+
+### 31
+
+De acuerdo con el libro de Matemáticas, ¿cuál es aproximadamente la masa de un electrón, en gramos?
+
+- A. 9.1 × 10⁻²⁸
+- B. 9.1 × 10⁻²¹
+- C. 9.1 × 10⁻¹⁸
+- D. 9.1 × 10⁻³¹
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 21
+**Subtema:** exponentes y radicales · notación científica
+
+Por ejemplo, la masa (en gramos) de un electrón es aproximadamente: 9.1 × 10⁻²⁸.
+
+---
+
+### 32
+
+De conformidad con el libro de Matemáticas, al escribir en forma decimal la masa de un electrón, ¿cuántos lugares decimales se recorren?
+
+- A. 28 lugares decimales
+- B. 21 lugares decimales
+- C. 18 lugares decimales
+- D. 31 lugares decimales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 21
+**Subtema:** exponentes y radicales · notación científica
+
+9.1 × 10⁻²⁸ = 0.00000000000000000000000000091, 28 lugares decimales.
+
+---
+
+## Sub-lote 4 · Radicales y sus propiedades (1.3, p. 22)
+
+### 33
+
+En relación con el libro de Matemáticas, ¿qué es la raíz cuadrada de un número?
+
+- A. Uno de sus dos factores iguales
+- B. Uno de sus tres factores iguales
+- C. La mitad de ese número
+- D. El número multiplicado por sí mismo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · radicales
+
+La raíz cuadrada de un número es uno de sus dos factores iguales.
+
+---
+
+### 34
+
+De acuerdo con el libro de Matemáticas, ¿por qué 5 es una raíz cuadrada de 25?
+
+- A. Porque 5 es uno de los dos factores iguales de 25
+- B. Porque 5 es uno de los tres factores iguales de 25
+- C. Porque 5 es la quinta parte de 25
+- D. Porque 5 es el único divisor primo de 25
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · radicales
+
+Por ejemplo, 5 es una raíz cuadrada de 25, porque 5 es uno de los dos factores iguales de 25.
+
+---
+
+### 35
+
+De conformidad con el libro de Matemáticas, ¿qué es una raíz cúbica de un número?
+
+- A. Uno de sus tres factores iguales
+- B. Uno de sus dos factores iguales
+- C. La tercera parte de ese número
+- D. El número elevado al cubo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · radicales
+
+En forma similar, una raíz cúbica de un número es uno de sus tres factores iguales, como en 125 = 5³.
+
+---
+
+### 36
+
+En relación con el libro de Matemáticas, en la definición de la raíz enésima de un número, ¿qué debe cumplir n?
+
+- A. Ser un entero positivo mayor o igual que 2
+- B. Ser un entero positivo mayor o igual que 1
+- C. Ser cualquier número real distinto de cero
+- D. Ser un entero positivo menor o igual que 10
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · raíz enésima
+
+Sean a y b números reales y sea n ≥ 2 un entero positivo.
+
+---
+
+### 37
+
+De acuerdo con el libro de Matemáticas, si a = bⁿ, ¿qué es b?
+
+- A. Una raíz enésima de a
+- B. El radicando de a
+- C. El índice de a
+- D. La potencia enésima de a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · raíz enésima
+
+Si a = bⁿ, entonces b es una raíz enésima de a.
+
+---
+
+### 38
+
+De conformidad con el libro de Matemáticas, en la definición de la raíz enésima, ¿qué nombre recibe la raíz cuando n = 2 y cuando n = 3, respectivamente?
+
+- A. Raíz cuadrada y raíz cúbica
+- B. Raíz cúbica y raíz cuadrada
+- C. Raíz principal y raíz secundaria
+- D. Raíz par y raíz impar
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · raíz enésima
+
+Si n = 2, la raíz es una raíz cuadrada. Si n = 3, la raíz es una raíz cúbica.
+
+---
+
+### 39
+
+En relación con el libro de Matemáticas, ¿cuáles son las dos raíces cuadradas de 25?
+
+- A. Tanto 5 como −5
+- B. Tanto 5 como 1/5
+- C. Tanto 25 como −25
+- D. Tanto 5 como 0
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · raíz principal
+
+Algunos números tienen más de una raíz enésima. Por ejemplo, tanto 5 como −5 son raíces cuadradas de 25.
+
+---
+
+### 40
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la raíz cuadrada principal de 25?
+
+- A. La raíz positiva 5
+- B. La raíz negativa −5
+- C. Las dos raíces, 5 y −5
+- D. La raíz 25
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · raíz principal
+
+La raíz cuadrada principal de 25, escrita como √25, es la raíz positiva 5.
+
+---
+
+### 41
+
+De conformidad con el libro de Matemáticas, ¿qué signo tiene la principal raíz enésima de a?
+
+- A. El mismo signo que a
+- B. Siempre el signo positivo
+- C. Siempre el signo negativo
+- D. El signo contrario al de a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · raíz principal
+
+La principal raíz enésima de a es la raíz enésima que tiene el mismo signo que a.
+
+---
+
+### 42
+
+En relación con el libro de Matemáticas, ¿cómo se denota la principal raíz enésima?
+
+- A. Con un símbolo radical
+- B. Con un exponente negativo
+- C. Con una barra horizontal
+- D. Con un par de barras verticales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · raíz principal
+
+Se denota con un símbolo radical.
+
+---
+
+### 43
+
+De acuerdo con el libro de Matemáticas, en un radical, ¿cómo se llama el entero positivo n ≥ 2?
+
+- A. El índice del radical
+- B. El radicando
+- C. El exponente del radical
+- D. El coeficiente del radical
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · índice y radicando
+
+El entero positivo n ≥ 2 es el índice del radical y el número a es el radicando.
+
+---
+
+### 44
+
+De conformidad con el libro de Matemáticas, en un radical, ¿cómo se llama el número a?
+
+- A. El radicando
+- B. El índice
+- C. La base
+- D. El exponente
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · índice y radicando
+
+El entero positivo n ≥ 2 es el índice del radical y el número a es el radicando.
+
+---
+
+### 45
+
+En relación con el libro de Matemáticas, ¿qué se hace con el índice cuando n = 2?
+
+- A. Se omite
+- B. Se escribe siempre
+- C. Se sustituye por un signo negativo
+- D. Se escribe entre paréntesis
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · índice y radicando
+
+Cuando n = 2, omita el índice y escriba √a en lugar de ²√a.
+
+---
+
+### 46
+
+De acuerdo con el libro de Matemáticas, ¿cuál es el plural de índice?
+
+- A. Índices
+- B. Índexes
+- C. Índice
+- D. Indicios
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · índice y radicando
+
+(El plural de índice es índices.)
+
+---
+
+### 47
+
+De conformidad con el libro de Matemáticas, ¿cuál es un malentendido frecuente sobre el signo de raíz cuadrada?
+
+- A. Que implica raíces tanto negativas como positivas
+- B. Que implica sólo raíces negativas
+- C. Que sólo puede aplicarse a números enteros
+- D. Que su índice siempre debe escribirse
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · signo de raíz cuadrada
+
+Un frecuente malentendido es que el signo de raíz cuadrada implica raíces tanto negativas como positivas. Esto no es correcto.
+
+---
+
+### 48
+
+En relación con el libro de Matemáticas, ¿qué implica realmente el signo de la raíz cuadrada?
+
+- A. Sólo una raíz positiva
+- B. Sólo una raíz negativa
+- C. Dos raíces, una positiva y una negativa
+- D. Tantas raíces como indique el radicando
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · signo de raíz cuadrada
+
+El signo de la raíz cuadrada implica sólo una raíz positiva.
+
+---
+
+### 49
+
+De acuerdo con el libro de Matemáticas, ¿qué se debe hacer cuando se necesita una raíz negativa?
+
+- A. Usar el signo negativo con el signo de raíz cuadrada
+- B. Escribir el índice 2 delante del radical
+- C. Encerrar el radicando entre barras verticales
+- D. Elevar el radicando a un exponente negativo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
+**Subtema:** exponentes y radicales · signo de raíz cuadrada
+
+Cuando se necesita una raíz negativa, se debe usar el signo negativo con el signo de raíz cuadrada.
 
 ---
