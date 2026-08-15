@@ -95,3 +95,81 @@ hubo un momento en que ambos creían tener Historia asignada.
 
 **Commitea al terminar cada tanda.** Hubo 129 reactivos sin respaldo en git
 durante toda su elaboración.
+
+### Regla del punto de continuación — obligatoria antes de CADA tanda
+
+Revisar sólo al empezar la materia **no alcanza**. El 14-15 ago 2026 los dos chats
+se cruzaron **dos veces seguidas** a media materia: un chat cerró la Unidad III y
+media Unidad IV de Geografía mientras el otro, que creía tener el turno, se puso a
+releer esas mismas páginas para reescribirlas. No hubo duplicado por un pelo.
+
+**El archivo manda, no lo que recuerdes de tu propia sesión.** Aunque tú hayas
+escrito la tanda anterior y Carlo acabe de decirte "sigue", entre un mensaje y el
+siguiente pueden haber pasado horas y el otro chat pudo avanzar. Antes de
+renderizar una sola hoja, corre esto y **cree lo que diga**:
+
+```
+git fetch -q && git status --short
+git log --oneline -3 -- <ruta del .md>
+grep -n '^\*\*Pendiente:\*\*' <ruta del .md>
+```
+
+- La línea **`**Pendiente:**` del propio archivo es la fuente de verdad** de dónde
+  se sigue. Si dice una página distinta a la que tenías en la cabeza, gana el
+  archivo.
+- Si el `git log` trae commits que no son tuyos, **léelos antes de escribir**: el
+  otro chat ya avanzó y tu punto de continuación cambió.
+- Si el archivo aparece **modificado sin commitear**, no lo toques: hay trabajo
+  vivo de otra sesión. Avísale a Carlo en vez de escribir encima.
+
+Por eso cada archivo del banco cierra con una línea `**Pendiente:**` explícita y
+cada commit nombra la página que entró: es el mecanismo de relevo entre chats.
+**Mantenlos exactos** — si dejas un `Pendiente` desactualizado, el otro chat
+trabaja en falso.
+
+**No borres archivos temporales que no sean tuyos.** Los `hoja_*.png` y
+`crop_*.png` sueltos en `docs/examen-cultural/` pueden ser de una sesión que está
+trabajando en ese momento. Borra sólo los que tú generaste.
+
+### Cómo verificar que TU trabajo quedó guardado — no te fíes del log reciente
+
+El 15 ago 2026 un chat commiteó y pusheó nueve tandas, y al rato, al correr
+`git log --oneline -6`, sólo vio commits del otro chat y **reportó que su trabajo
+se había perdido**. No se había perdido nada: el otro chat había commiteado encima
+y los commits propios quedaron más abajo en la historia. Un susto y un reporte
+falso que costaron tiempo.
+
+**`git log -N` no sirve para saber si lo tuyo entró.** Con dos chats commiteando,
+tus commits se hunden en el log en minutos. Para comprobarlo de verdad:
+
+```
+git log --oneline main | grep -i "<palabra clave de tus mensajes>"
+git show HEAD:<ruta del .md> | grep -c '^### '
+```
+
+La primera línea encuentra tus commits estén donde estén; la segunda dice cuántos
+reactivos hay **commiteados** en ese archivo — compáralo con `grep -c '^### '`
+sobre el archivo en disco: si coinciden, no hay nada pendiente. Antes de decirle a
+Carlo que algo se perdió, comprueba además `git branch --contains <hash>` (si
+responde `main`, el commit está en la historia) y `git worktree list`. **Un commit
+que no aparece arriba del log casi nunca está perdido.**
+
+### `ESTADO.md` lee la carpeta, no git
+
+El generador cuenta los archivos del directorio de trabajo, así que **incluye
+trabajo del otro chat que todavía no está commiteado**. Si lo regeneras y
+commiteas, metes en git filas que describen reactivos que no están en git. Revisa
+siempre `git diff ESTADO.md` antes de añadirlo y **dile a Carlo qué se coló** que
+no sea tuyo. Fuera del banco de reactivos, el push lo decide él.
+
+### Al cerrar, revisa los archivos HERMANOS
+
+El generador marca una materia como **abierta** si el `**Pendiente:**` de
+cualquiera de sus archivos no empieza con la palabra "ninguno"
+(`/^ningun[oa]\b/i`, en `tools/estado-proyecto/generar-estado.js`). Como los
+capítulos los cierran chats distintos, quedan frases viejas que ya son falsas
+("Biología NO está cerrada", "faltan los capítulos X y Y"). Pasó con Biología: el
+capítulo 14 cerró y la materia seguía reportándose abierta por el `Pendiente` del
+capítulo 33, cerrado tres semanas antes por otra sesión. **Al cerrar un capítulo,
+lee el `Pendiente` de todos los capítulos de esa materia y corrige los que hayan
+quedado desfasados**, no sólo el tuyo.
