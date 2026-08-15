@@ -177,10 +177,19 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   los **cinco pasos** del procedimiento para graficar sin tecnología. **Fuera:** el
   *Ejemplo* de *f* (*x*) = *x*² − 2*x* − 5 con su Solución paso a paso, su tabla de
   valores y las Figuras 1.9 y 1.10, que son el ejercicio resuelto.
+- Cubierta la página impresa **18**: el nombre del proceso (**graficar la función**) y
+  de la curva (**gráfica o lugar geométrico**), para qué sirve la representación, y el
+  **caso particular de la ecuación lineal** —que la gráfica es una recta y bastan dos
+  valores, por qué el libro toma tres, en cuántos puntos evaluarla y que los extremos
+  pueden prolongarse—. **Ojo:** esta página trae **tres pasos** para el caso lineal que
+  **no son los cinco pasos generales de la p.17**; los reactivos anclan el enunciado al
+  caso lineal para que no se revuelvan (ver la nota del sub-lote 8). **Fuera:** el
+  desarrollo del ejemplo *y* = (3/2)*x* + 2, la Tabla 1.2, la Figura 1.11 y la actividad
+  de aprendizaje del cierre.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.17**. Sigue desde la **p.18** con el resto del inciso **a)
-Gráficas de funciones reales de variable real** (pp. 18–24) y después los otros tres
+va cubierto hasta la **p.18**. Sigue desde la **p.19** con el resto del inciso **a)
+Gráficas de funciones reales de variable real** (pp. 19–24) y después los otros tres
 incisos: **b)** explícitas o implícitas (p.25), **c)** inyectivas, sobreyectivas y
 biyectivas (p.42) y **d)** función invertible e inversa (p.49), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
@@ -786,3 +795,122 @@ En relación con el libro de Cálculo, ¿qué se hace en el **quinto paso** para
 "Quinto paso. Unimos estos puntos por medio de segmentos de recta."
 
 > Nota de revisor: los cinco pasos van con las opciones cruzadas entre sí —cada distractor es otro paso real del mismo procedimiento—. El orden es justo lo que el examen pregunta en este tipo de listas.
+
+---
+
+## Sub-lote 8 · Graficar la función, el lugar geométrico y el caso de la recta (1.3 a, p.18)
+
+> **Ojo, el libro da DOS juegos de pasos distintos y hay que no revolverlos.** Los
+> **cinco pasos** de la p.17 son el procedimiento **general** para graficar cualquier
+> función. Los **tres pasos** de esta p.18 son para el **caso particular de una ecuación
+> lineal**, donde basta con dos puntos. Los reactivos de este sub-lote anclan siempre el
+> enunciado al caso lineal para que no se confundan con los de la p.17.
+
+### 37
+
+De acuerdo con el libro de Cálculo, ¿cómo se llama el proceso de obtener la representación de una función a partir de sus puntos?
+
+- A. Graficar la función
+- B. Tabular la función
+- C. Evaluar la función
+- D. Aproximar la función
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 18
+**Subtema:** Gráficas de funciones reales · Lugar geométrico
+
+"El proceso antes descrito es llamado graficar la función [...]"
+
+### 38
+
+De conformidad con el libro de Cálculo, ¿cómo se llama la curva que resulta de graficar una función?
+
+- A. Gráfica o lugar geométrico
+- B. Tabulador o tabla de valores
+- C. Plano coordenado
+- D. Par ordenado
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 18
+**Subtema:** Gráficas de funciones reales · Lugar geométrico
+
+"[...] y la curva es llamada gráfica o lugar geométrico de la misma [...]"
+
+> Nota de revisor: **lugar geométrico** es el término que se cae. El aspirante se queda con "gráfica" y no registra que el libro le da el segundo nombre.
+
+### 39
+
+En relación con el libro de Cálculo, ¿para qué sirve la representación gráfica de una función?
+
+- A. Para identificar algunas características o propiedades de la función
+- B. Para calcular con exactitud el valor numérico de la función
+- C. Para determinar el número de elementos del dominio
+- D. Para comprobar que la función tiene inversa
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 18
+**Subtema:** Gráficas de funciones reales · Lugar geométrico
+
+"Esta representación nos sirve para identificar algunas características o propiedades de la función que veremos en temas más adelante."
+
+### 40
+
+De acuerdo con el libro de Cálculo, si una función es de primer grado, ¿qué nos indica eso sobre su gráfica?
+
+- A. Que la gráfica es una línea recta y entonces sólo se requieren dos valores para *x*
+- B. Que la gráfica es una parábola y se requieren al menos cinco valores para *x*
+- C. Que la gráfica no puede trazarse sin el uso de un graficador
+- D. Que la gráfica pasa forzosamente por el origen
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 18
+**Subtema:** Gráficas de funciones reales · Gráfica de una ecuación lineal
+
+"Primero vemos que la función es de primer grado, un caso especial; esto nos indica que la gráfica es una línea recta y entonces sólo se requieren dos valores para *x* [...]"
+
+### 41
+
+De conformidad con el libro de Cálculo, si con dos valores basta para trazar una recta, ¿por qué el libro toma tres?
+
+- A. Por si hubiera algún error de operaciones
+- B. Porque con dos puntos la recta queda indeterminada
+- C. Porque el tercero marca el corte con el eje vertical
+- D. Porque el procedimiento general exige siempre tres valores
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 18
+**Subtema:** Gráficas de funciones reales · Gráfica de una ecuación lineal
+
+"[...] entonces sólo se requieren dos valores para *x*; en este caso daremos tres por si hubiera algún error de operaciones."
+
+> Nota de revisor: es de los datos que nadie retiene, porque parece un comentario al margen. Pero es la razón que el libro da, y está en la misma frase que el dato que sí se recuerda.
+
+### 42
+
+En relación con el libro de Cálculo, al graficar una ecuación lineal, ¿en cuántos puntos hay que evaluarla y cuáles conviene elegir?
+
+- A. En por lo menos dos puntos cualesquiera, de preferencia aquellos que sean fáciles de evaluar
+- B. En exactamente tres puntos, de preferencia negativos, cero y positivo
+- C. En por lo menos cinco puntos, repartidos a ambos lados del origen
+- D. En los puntos donde la función se anula
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 18
+**Subtema:** Gráficas de funciones reales · Gráfica de una ecuación lineal
+
+"Primer paso. Evalúa la ecuación lineal en por lo menos dos puntos cualesquiera, de preferencia aquellos que sean fáciles de evaluar."
+
+### 43
+
+De acuerdo con el libro de Cálculo, una vez localizados los puntos de una recta y unidos por segmentos, ¿qué puede hacerse con los extremos?
+
+- A. Prolongarlos, para tener una idea más clara de cómo es la recta
+- B. Cerrarlos, para delimitar el dominio de la función
+- C. Marcarlos con un punto hueco, porque la función no está definida ahí
+- D. Dejarlos exactamente donde terminan los valores tabulados
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 18
+**Subtema:** Gráficas de funciones reales · Gráfica de una ecuación lineal
+
+"Tercer paso. Localiza los puntos en un plano coordenado y únelos por segmentos de recta, se pueden prolongar los extremos para tener una idea más clara de cómo es la recta."
