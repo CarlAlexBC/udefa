@@ -42,8 +42,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **151** (sólo la **INTRODUCCIÓN**): que ningún planeta tiene tanta agua como la Tierra y que ésta cubre **más de 2/3** de la superficie —**el 70.98%**—, haciéndola más acuática que terrestre; **Tales de Mileto** y el agua como origen del mundo, con el nombre de **Oceanía**; la Tierra como único planeta donde los **tres estados físicos** del agua coexisten de manera estable y duradera, y la comparación con Mercurio, Venus, Marte y la Luna; y **dónde se encuentra el agua en cada estado** (sólido, líquido y gaseoso). **Los "Objetivos" de la unidad no llevan reactivos por norma.**
 - Cubierta la página impresa **152**: el **5.1.1 Características del agua** completo — la **composición química** (dos átomos de hidrógeno y uno de oxígeno), el agua en estado puro (**incolora, inodora e insípida**), la sustancia capaz de **absorber mayor cantidad de calor** y desprenderlo lentamente, las masas acuosas como **«termostato»** que da al planeta un clima bastante estable, la **escala centígrada de Celsius** (**0ºC** fusión y **100ºC** ebullición), el agua como **solvente** que ninguna otra sustancia iguala y la dificultad de hallarla pura, la **rareza de su densidad** (mínimo volumen y máxima densidad a **4ºC**, y el hielo que flota), lo que ocurre bajo la capa de hielo, y el escenario contrario —los **gigantescos témpanos** en pocos decenios— que muestra por qué esa propiedad es esencial para la vida. **Las tres temperaturas (0ºC, 4ºC y 100ºC) se verificaron con `crop.py` a 600 dpi.** La Figura 5.1 es un **mapa** (hemisferios continental y oceánico) y no lleva reactivos por norma.
 - Cubierta la página impresa **153**: el **5.1.2 Distribución del agua sobre la superficie terrestre** en su primera mitad — el **volumen de agua de la Tierra** (**1,386,232,020 km³**, equivalentes al **0.024%** del peso total del planeta, calculado en **5.974 x 10²¹ toneladas**), qué cuerpos de agua mantienen su cantidad **más o menos constante** (océanos, mares, golfos, bahías, ensenadas, albuferas y glaciares continentales) frente a los que **cambian a lo largo del año** (mantos acuíferos, manantiales, torrentes, arroyos, ríos, lagos, lagunas, pantanos, glaciares de alta montaña, ventisqueros, heleros y la atmósfera), y el **Cuadro 5.1** completo con la clasificación de las aguas (**oceánicas** y **continentales**, éstas en **saladas** y **dulces**, con las albuferas como lagunas costeras y las marismas como pantanos costeros). **Las tres cifras se verificaron con `crop.py` a 600 dpi.** **La mitad superior de la página es un ejercicio de repaso** (llenar espacios en blanco) y no lleva reactivos por norma.
+- Cubierta la página impresa **154**: el **Cuadro 5.2** completo (distribución de las aguas saladas y dulces, con volumen y porcentaje de cada tipo: océanos y demás aguas saladas **1,349,930,000 km³ / 97.38124**; marismas y lagunas saladas 104,000; subterráneas 7,385,000 / 0.53274; fuentes y ríos 1,250; lagos y pantanos dulces 125,000; glaciares y ventisqueros 28,595,000 / 2.06279; seres vivos 78,470; atmósfera 13,300 / 0.00096); el cierre del **5.1.2** (la variación de manantiales, ríos, lagos, mantos acuíferos y humedad atmosférica según las épocas de lluvia y sequía, debida a que el agua **no permanece estática** sino en continuo movimiento) y el **nombre del fenómeno: el ciclo del agua**. **Todas las cifras del Cuadro 5.2 se verificaron con `crop.py` a 600 dpi.** **El total de la Tierra del cuadro (1,386,232,020 km³) NO lleva reactivo propio:** ya lo pregunta el reactivo 28 desde la p.153. La Figura 5.2 es fotografía y no lleva reactivos. **La primera etapa del ciclo del agua queda cortada al pie de la página** y se trabaja con el resto de las etapas en la p.155.
 
-**Pendiente:** EN CURSO. Sigue desde la **p.154** con el resto del **5.1** (el Cuadro 5.2 de la distribución y el ciclo del agua), y después el **5.2 Las aguas oceánicas** (desde la p.157). Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
+**Pendiente:** EN CURSO. Sigue desde la **p.155** con el **5.1.3 El ciclo del agua** (sus etapas completas), y después el **5.2 Las aguas oceánicas** (desde la p.157). Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
 
 ---
 
@@ -637,4 +638,231 @@ En relación con el libro de Geografía, según el Cuadro 5.1, ¿qué comprenden
 **Subtema:** distribución del agua · continentales dulces
 
 Cuadro 5.1: "Dulces — Mantos acuíferos o freáticos. Fuentes o manantiales. Torrentes, arroyos, ríos. Lagos, lagunas. Pantanos, charcas o ciénegas. Glaciares, ventisqueros, heleros."
+
+## Sub-lote 4 · Cuadro 5.2 y el arranque del ciclo del agua (5.1.2 y 5.1.3, p. 154)
+
+### 40
+
+De acuerdo con el libro de Geografía, según el Cuadro 5.2, ¿qué volumen aproximado corresponde a océanos, mares, golfos, bahías, ensenadas y albuferas?
+
+- A. 1,349,930,000 km³
+- B. 1,386,232,020 km³
+- C. 1,349,390,000 km³
+- D. 134,993,000 km³
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** distribución del agua · Cuadro 5.2, aguas saladas
+
+Cuadro 5.2: "Océanos, mares, golfos, bahías, ensenadas, albuferas (lagunas costeras). 1,349,930,000."
+
+### 41
+
+De conformidad con el libro de Geografía, según el Cuadro 5.2, ¿qué porcentaje aproximado representan esas aguas?
+
+- A. 97.38124
+- B. 97.83124
+- C. 93.78124
+- D. 79.38124
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** distribución del agua · Cuadro 5.2, porcentaje de las aguas saladas
+
+Cuadro 5.2: "Océanos, mares, golfos, bahías, ensenadas, albuferas (lagunas costeras). [...] 97.38124."
+
+### 42
+
+En relación con el libro de Geografía, según el Cuadro 5.2, ¿qué volumen aproximado corresponde a marismas, lagos y lagunas saladas?
+
+- A. 104,000 km³
+- B. 140,000 km³
+- C. 104,000,000 km³
+- D. 14,000 km³
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** distribución del agua · Cuadro 5.2, marismas y lagunas saladas
+
+Cuadro 5.2: "Marismas, lagos y lagunas saladas. 104,000."
+
+### 43
+
+De acuerdo con el libro de Geografía, según el Cuadro 5.2, ¿qué volumen aproximado corresponde a las aguas subterráneas?
+
+- A. 7,385,000 km³
+- B. 7,835,000 km³
+- C. 738,500 km³
+- D. 28,595,000 km³
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** distribución del agua · Cuadro 5.2, aguas subterráneas
+
+Cuadro 5.2: "Aguas subterráneas (mantos acuíferos o freáticos). 7,385,000."
+
+### 44
+
+De conformidad con el libro de Geografía, según el Cuadro 5.2, ¿qué porcentaje aproximado representan las aguas subterráneas?
+
+- A. 0.53274
+- B. 0.35274
+- C. 5.32740
+- D. 0.53724
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** distribución del agua · Cuadro 5.2, porcentaje de las subterráneas
+
+Cuadro 5.2: "Aguas subterráneas (mantos acuíferos o freáticos). [...] 0.53274."
+
+### 45
+
+En relación con el libro de Geografía, según el Cuadro 5.2, ¿qué volumen aproximado corresponde a fuentes o manantiales, torrentes, arroyos y ríos?
+
+- A. 1,250 km³
+- B. 12,500 km³
+- C. 125,000 km³
+- D. 1,250,000 km³
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** distribución del agua · Cuadro 5.2, fuentes y ríos
+
+Cuadro 5.2: "Fuentes o manantiales, torrentes, arroyos, ríos. 1,250."
+
+### 46
+
+De acuerdo con el libro de Geografía, según el Cuadro 5.2, ¿qué volumen aproximado corresponde a lagos y lagunas de agua dulce y pantanos?
+
+- A. 125,000 km³
+- B. 12,500 km³
+- C. 104,000 km³
+- D. 1,250 km³
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** distribución del agua · Cuadro 5.2, lagos y lagunas dulces
+
+Cuadro 5.2: "Lagos y lagunas de agua dulce, pantanos. 125,000."
+
+### 47
+
+De conformidad con el libro de Geografía, según el Cuadro 5.2, ¿qué volumen aproximado corresponde a glaciares continentales y de alta montaña, ventisqueros y heleros?
+
+- A. 28,595,000 km³
+- B. 28,955,000 km³
+- C. 2,859,500 km³
+- D. 7,385,000 km³
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** distribución del agua · Cuadro 5.2, glaciares
+
+Cuadro 5.2: "Glaciares continentales y de alta montaña, ventisqueros, heleros. 28,595,000."
+
+### 48
+
+En relación con el libro de Geografía, según el Cuadro 5.2, ¿qué porcentaje aproximado representan esos glaciares, ventisqueros y heleros?
+
+- A. 2.06279
+- B. 2.60279
+- C. 0.20627
+- D. 2.06729
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** distribución del agua · Cuadro 5.2, porcentaje de los glaciares
+
+Cuadro 5.2: "Glaciares continentales y de alta montaña, ventisqueros, heleros. [...] 2.06279."
+
+### 49
+
+De acuerdo con el libro de Geografía, según el Cuadro 5.2, ¿qué volumen aproximado de agua corresponde a los seres vivos?
+
+- A. 78,470 km³
+- B. 74,870 km³
+- C. 7,847 km³
+- D. 784,700 km³
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** distribución del agua · Cuadro 5.2, seres vivos
+
+Cuadro 5.2: "Seres vivos (plantas, animales, seres humanos). 78,470."
+
+### 50
+
+De conformidad con el libro de Geografía, según el Cuadro 5.2, ¿qué volumen aproximado corresponde a la atmósfera?
+
+- A. 13,300 km³
+- B. 133,000 km³
+- C. 1,330 km³
+- D. 31,300 km³
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** distribución del agua · Cuadro 5.2, atmósfera
+
+Cuadro 5.2: "Atmósfera (vapor de agua y condensaciones atmosféricas). 13,300."
+
+### 51
+
+En relación con el libro de Geografía, según el Cuadro 5.2, ¿qué porcentaje aproximado representa el agua de la atmósfera?
+
+- A. 0.00096
+- B. 0.00069
+- C. 0.00966
+- D. 0.00566
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** distribución del agua · Cuadro 5.2, porcentaje de la atmósfera
+
+Cuadro 5.2: "Atmósfera (vapor de agua y condensaciones atmosféricas). [...] 0.00096."
+
+### 52
+
+De acuerdo con el libro de Geografía, de acuerdo con las épocas de lluvia y sequía, ¿qué ocurre con los ríos?
+
+- A. Crecen y se desbordan o disminuyen de caudal e incluso se secan
+- B. Mantienen su caudal constante durante todo el año
+- C. Sólo crecen y se desbordan, sin llegar nunca a secarse
+- D. Cambian de curso, pero no de caudal
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** ciclo del agua · variación de los ríos
+
+"Los ríos crecen y se desbordan o disminuyen de caudal e incluso se secan; los lagos suben o bajan de nivel, etc."
+
+### 53
+
+De conformidad con el libro de Geografía, ¿a qué es debido todo eso?
+
+- A. A que el agua no permanece estática sobre la superficie terrestre, sino que está en continuo movimiento
+- B. A que el agua permanece estática sobre la superficie terrestre durante todo el año
+- C. A que el volumen total de agua de la Tierra aumenta y disminuye
+- D. A que el agua cambia de composición química con las estaciones
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** ciclo del agua · el agua en continuo movimiento
+
+"Ello es debido a que el agua no permanece estática sobre la superficie terrestre, sino que está en continuo movimiento."
+
+### 54
+
+En relación con el libro de Geografía, ¿qué nombre recibe ese fenómeno?
+
+- A. El ciclo del agua
+- B. La distribución del agua
+- C. La circulación oceánica
+- D. El equilibrio hidrológico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** ciclo del agua · denominación
+
+"Dando origen al fenómeno conocido con el nombre de ciclo del agua."
 
