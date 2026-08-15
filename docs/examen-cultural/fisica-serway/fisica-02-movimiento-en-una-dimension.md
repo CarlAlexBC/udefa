@@ -29,9 +29,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **21–26**: **2.1** COMPLETO y **2.2 · Velocidad y rapidez instantáneas** COMPLETO (velocidad instantánea como límite de Δx/Δt y como derivada dx/dt, la pendiente de la tangente, puede ser +/−/0, la convención de llamar «velocidad» a la instantánea, que la magnitud de la velocidad instantánea sí es la rapidez instantánea, la definición de rapidez instantánea y la convención de llamar «rapidez» a la instantánea). Los Ejemplos 2.1/2.2/2.3 y los exámenes rápidos no aportan reactivos.
+**EN CURSO.** Escritas las páginas impresas **21–26** (2.1 y 2.2 COMPLETOS) y **32–34** (**2.5 · Aceleración**, en curso): aceleración promedio ax,prom ≡ Δvx/Δt (ec. 2.9), dimensiones L/T² y unidad m/s², aceleración instantánea como límite y como derivada dvx/dt (ec. 2.10), la pendiente de la gráfica velocidad-tiempo, el signo de ax, los signos de velocidad y aceleración (aumenta/frena), fuerza ∝ aceleración (Fx ∝ ax), la advertencia de la aceleración negativa, la palabra «desaceleración», la convención de llamar «aceleración» a la instantánea y la aceleración como segunda derivada de la posición (ec. 2.12). El temario salta 2.3 y 2.4 (pp.27–31), que quedan fuera. Los Ejemplos y exámenes rápidos no aportan reactivos.
 
-**Pendiente:** EN CURSO. Sólo falta **2.5 · Aceleración** (el temario salta 2.3 y 2.4, que quedan fuera). Hay que localizar la página impresa donde arranca 2.5 y leer su desfase antes de escribir. Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera del temario.
+**Pendiente:** EN CURSO. Falta el cierre de **2.5** (p.35, hoja 58) y localizar dónde arranca **2.6** (fuera del temario) para cerrar el capítulo. Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera.
 
 ---
 
@@ -511,3 +511,217 @@ De acuerdo con el libro de Física, una vez que se quita el adjetivo, la palabra
 **Subtema:** velocidad y rapidez instantáneas · convención de nomenclatura (rapidez)
 
 "Como con la velocidad, se quita el adjetivo para rapidez instantánea. Rapidez significa 'rapidez instantánea'."
+
+## Sub-lote 7 · Aceleración promedio e instantánea (pp.32–33)
+
+### 32
+
+En relación con el libro de Física, ¿cuándo se dice que una partícula acelera?
+
+- A. Cuando su velocidad cambia con el tiempo
+- B. Cuando su posición permanece constante
+- C. Cuando su masa aumenta
+- D. Cuando su rapidez es constante
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 32
+**Subtema:** aceleración · concepto de aceleración
+
+"Cuando su velocidad cambia con el tiempo, se dice que la partícula acelera."
+
+### 33
+
+De conformidad con el libro de Física, ¿cómo se define la aceleración promedio ax,prom de una partícula?
+
+- A. El cambio en la velocidad Δvx dividido entre el intervalo de tiempo Δt durante el que ocurre el cambio
+- B. El cambio en la posición dividido entre el intervalo de tiempo
+- C. La velocidad final menos la velocidad inicial
+- D. La distancia total dividida entre el tiempo total
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 32
+**Subtema:** aceleración · definición de aceleración promedio
+
+"La aceleración promedio ax,prom de la partícula se define como el cambio en la velocidad Δvx dividido entre el intervalo de tiempo Δt durante el que ocurre el cambio."
+
+### 34
+
+De acuerdo con el libro de Física, la aceleración promedio se expresa mediante la ecuación:
+
+- A. ax,prom ≡ Δvx/Δt = (vxf − vxi)/(tf − ti)
+- B. ax,prom ≡ Δx/Δt
+- C. ax,prom ≡ Δt/Δvx
+- D. ax,prom ≡ vxf · tf
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 32
+**Subtema:** aceleración · ecuación de aceleración promedio
+
+"La aceleración promedio ax,prom de la partícula se define como el cambio en la velocidad Δvx dividido entre el intervalo de tiempo Δt durante el que ocurre el cambio: ax,prom ≡ Δvx/Δt = (vxf − vxi)/(tf − ti)."
+
+### 35
+
+En relación con el libro de Física, ¿cuáles son las dimensiones y la unidad del SI de la aceleración?
+
+- A. Longitud dividida entre el tiempo al cuadrado (L/T²), y metros por segundo al cuadrado (m/s²)
+- B. Longitud dividida entre el tiempo (L/T), y metros por segundo (m/s)
+- C. Longitud por el tiempo (L·T), y metros por segundo
+- D. Sólo longitud (L), y metros (m)
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 33
+**Subtema:** aceleración · dimensiones y unidad
+
+"La aceleración tiene dimensiones de longitud divididas entre el tiempo al cuadrado, o L/T². La unidad del SI de aceleración es metros por segundo al cuadrado (m/s²)."
+
+### 36
+
+De conformidad con el libro de Física, ¿cómo se define la aceleración instantánea?
+
+- A. Como el límite de la aceleración promedio conforme Δt tiende a cero
+- B. Como el cambio total de la velocidad
+- C. Como la velocidad dividida entre la posición
+- D. Como el promedio de la velocidad en el tiempo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 33
+**Subtema:** aceleración · definición de aceleración instantánea
+
+"Es útil definir la aceleración instantánea como el límite de la aceleración promedio conforme Δt tiende a cero."
+
+### 37
+
+De acuerdo con el libro de Física, la aceleración instantánea es igual a:
+
+- A. la derivada de la velocidad respecto al tiempo
+- B. la derivada de la posición respecto al tiempo
+- C. la integral de la velocidad respecto al tiempo
+- D. el producto de la velocidad por el tiempo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 33
+**Subtema:** aceleración · aceleración instantánea como derivada
+
+"La aceleración instantánea es igual a la derivada de la velocidad respecto al tiempo, que por definición es la pendiente de la gráfica velocidad-tiempo."
+
+### 38
+
+En relación con el libro de Física, en una gráfica velocidad-tiempo (vx-t), la aceleración de una partícula corresponde a:
+
+- A. la pendiente en un punto sobre la gráfica
+- B. el área bajo la curva
+- C. la altura de la curva
+- D. la intersección con el eje del tiempo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 33
+**Subtema:** aceleración · interpretación geométrica
+
+"Así como la velocidad de una partícula en movimiento es la pendiente en un punto sobre la gráfica x-t de la partícula, su aceleración es la pendiente en un punto sobre la gráfica vx-t de la partícula."
+
+### 39
+
+De conformidad con el libro de Física, respecto al signo de la aceleración ax:
+
+- A. si ax es positiva, la aceleración está en la dirección x positiva; si ax es negativa, está en la dirección x negativa
+- B. la aceleración siempre está en la dirección x positiva
+- C. el signo de ax no indica dirección
+- D. la aceleración siempre se opone a la velocidad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 33
+**Subtema:** aceleración · signo de la aceleración
+
+"Si ax es positiva, la aceleración está en la dirección x positiva; si ax es negativa, la aceleración está en la dirección x negativa."
+
+## Sub-lote 8 · Signos, fuerza y segunda derivada (p.34)
+
+### 40
+
+De acuerdo con el libro de Física, cuando la velocidad y la aceleración de un objeto están en la misma dirección:
+
+- A. la rapidez del objeto aumenta
+- B. la rapidez del objeto disminuye
+- C. el objeto se detiene de inmediato
+- D. el objeto invierte su dirección
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 34
+**Subtema:** aceleración · signos de velocidad y aceleración
+
+"Cuando la velocidad y la aceleración del objeto están en la misma dirección, la rapidez de este aumenta. Por otra parte, cuando la velocidad y la aceleración del objeto están en direcciones opuestas, este frena."
+
+### 41
+
+En relación con el libro de Física, ¿a qué es proporcional la fuerza sobre un objeto?
+
+- A. A su aceleración
+- B. A su velocidad
+- C. A su posición
+- D. A su desplazamiento
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 34
+**Subtema:** aceleración · fuerza proporcional a la aceleración
+
+"La fuerza de un objeto es proporcional a su aceleración: Fx ∝ ax. Esta proporcionalidad indica que la aceleración es causada por una fuerza."
+
+### 42
+
+De conformidad con el libro de Física, ¿qué advierte el libro sobre la aceleración negativa?
+
+- A. No necesariamente significa que un objeto está frenando; si la aceleración y la velocidad son negativas, el objeto está aumentando velocidad
+- B. Siempre significa que el objeto está frenando
+- C. Sólo ocurre cuando el objeto está en reposo
+- D. Indica que la velocidad es cero
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 34
+**Subtema:** aceleración · aceleración negativa (prevención de riesgos ocultos 2.4)
+
+"La aceleración negativa no necesariamente significa que un objeto está frenando. Si la aceleración es negativa y la velocidad es negativa, ¡el objeto está aumentando velocidad!"
+
+### 43
+
+De acuerdo con el libro de Física, ¿por qué el libro no usa la palabra "desaceleración"?
+
+- A. Porque confunde la definición dada para aceleración negativa
+- B. Porque es sinónimo exacto de aceleración
+- C. Porque no existe en física
+- D. Porque sólo se aplica a los fluidos
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 34
+**Subtema:** aceleración · desaceleración (prevención de riesgos ocultos 2.5)
+
+"La palabra desaceleración tiene la connotación popular de frenar. En este libro no se usará esta palabra porque confunde la definición dada para aceleración negativa."
+
+### 44
+
+En relación con el libro de Física, de aquí en adelante, ¿qué designa el término "aceleración" (sin adjetivo)?
+
+- A. La aceleración instantánea
+- B. La aceleración promedio
+- C. La velocidad instantánea
+- D. La fuerza
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 34
+**Subtema:** aceleración · convención de nomenclatura
+
+"Desde ahora se usará el término aceleración para dar a entender aceleración instantánea. Cuando se hable de aceleración promedio, siempre se usará el adjetivo promedio."
+
+### 45
+
+De conformidad con el libro de Física, en un movimiento en una dimensión, la aceleración es igual a:
+
+- A. la segunda derivada de la posición x de la partícula respecto del tiempo
+- B. la primera derivada de la posición respecto del tiempo
+- C. la integral de la velocidad respecto del tiempo
+- D. el producto de la velocidad por el tiempo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 34
+**Subtema:** aceleración · aceleración como segunda derivada
+
+"En un movimiento en una dimensión, la aceleración es igual a la segunda derivada de la posición x de la partícula respecto del tiempo."
