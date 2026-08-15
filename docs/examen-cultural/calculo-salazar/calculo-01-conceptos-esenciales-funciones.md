@@ -128,9 +128,15 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   la actividad de aprendizaje** que venía de la p.9 —el ejercicio de las fotocopias y
   las reglas de asociación que hay que proponer— y no lleva reactivos. La Figura 1.5 es
   ilustración, pero se usó para detectar la errata.
+- Cubierta la página impresa **11**: las definiciones de **contradominio** y de
+  **función** con que el libro abre el 1.3, y el **criterio de la recta vertical** para
+  reconocer cuándo una gráfica no es función. **Fuera de esta página:** el *Ejemplo* de
+  la regla *y* = 2*x* con su *Solución*, la **Tabla 1.1** y la Figura 1.6, que son un
+  ejercicio resuelto; y la mención de que las figuras 1.7 y 1.8 son "una circunferencia
+  y una semicircunferencia", que es de qué dibujo usó el libro y no del criterio en sí.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10). Sigue desde la
-**p.11** con el resto del **1.3 Funciones reales de variable real** (pp. 11–60), que es
+**p.12** con el resto del **1.3 Funciones reales de variable real** (pp. 12–60), que es
 el grueso de la unidad: contradominio y regla de asociación, y luego sus cuatro incisos
 —a) gráficas (p.13), b) explícitas o implícitas (p.25), c) inyectivas, sobreyectivas y
 biyectivas (p.42) y d) función invertible e inversa (p.49)—. Después van la **Unidad 2**
@@ -397,3 +403,71 @@ De acuerdo con el libro de Cálculo, ¿qué es el dominio?
 **Subtema:** Funciones reales de variable real · Dominio
 
 "Dominio. Conjunto donde la función está definida, o sea, donde puede tomar sus valores y realizar las operaciones que se indican en dicha relación."
+
+---
+
+## Sub-lote 4 · Contradominio, la definición de función y el criterio de la recta vertical (1.3, p.11)
+
+### 17
+
+De conformidad con el libro de Cálculo, ¿qué es el contradominio?
+
+- A. El conjunto de todos los posibles resultados que obtenemos al realizar operaciones con los elementos del dominio
+- B. El conjunto donde la función está definida y puede tomar sus valores
+- C. La regla que asocia cada elemento con su imagen
+- D. El conjunto formado únicamente por las imágenes que la función alcanza
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 11
+**Subtema:** Funciones reales de variable real · Contradominio
+
+"Contradominio. Conjunto de todos los posibles resultados que obtenemos al realizar operaciones con los elementos del dominio."
+
+> Nota de revisor: el distractor B es la definición de **dominio** que el libro da un renglón antes, y el D roza el **rango**. Los tres conceptos vienen seguidos y es donde se revuelven.
+
+### 18
+
+En relación con el libro de Cálculo, ¿cómo define el libro la función?
+
+- A. Relación que existe entre dos conjuntos, con la condición de que a cada elemento del dominio le corresponde uno y solamente un elemento en el contradominio
+- B. Relación que existe entre dos conjuntos, con la condición de que a cada elemento del contradominio le corresponden dos o más elementos del dominio
+- C. Regla que transforma todos los elementos de un conjunto en números reales
+- D. Conjunto de todos los resultados posibles de una operación
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 11
+**Subtema:** Funciones reales de variable real · Definición de función
+
+"Función. Relación que existe entre dos conjuntos, con la condición de que a cada elemento del dominio le corresponde uno y solamente un elemento en el contradominio."
+
+> Nota de revisor: complementa al reactivo 5. Aquél sale de la redacción informal de la p.9 ("uno y solo un elemento"); éste es la **definición formal** con que el libro abre el 1.3, y nombra dominio y contradominio. El aspirante debe reconocer las dos.
+
+### 19
+
+De acuerdo con el libro de Cálculo, ¿qué se traza sobre una gráfica para mostrar que no corresponde a una función?
+
+- A. Una línea recta vertical
+- B. Una línea recta horizontal
+- C. Una recta que pase por el origen
+- D. Una recta paralela a la gráfica
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 11
+**Subtema:** Funciones reales de variable real · Criterio de la recta vertical
+
+"[...] se ha trazado una línea recta vertical que corta a la gráfica en dos puntos, por lo que a cada punto del dominio le corresponden dos valores."
+
+### 20
+
+De conformidad con el libro de Cálculo, cuando la recta vertical corta a la gráfica en más de un punto, ¿qué se concluye?
+
+- A. Que no es función
+- B. Que es una función inversa
+- C. Que la función no está definida en ese intervalo
+- D. Que el dominio y el contradominio son iguales
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 11
+**Subtema:** Funciones reales de variable real · Criterio de la recta vertical
+
+"[...] donde se ha trazado una recta vertical que las corta, cuando esto sucede en más de un punto, entonces no es función."
