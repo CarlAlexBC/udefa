@@ -88,7 +88,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 - Cubiertas las páginas impresas **81, 82 y 83**, con las que **cierra el 1.9**: qué pasa cuando una ecuación implica dos o más expresiones exponenciales, la *exponenciación de cada lado de una ecuación*, el `COMENTARIO` de comprobar en la ecuación original (respuesta correcta **y** dentro del dominio) y por qué hay que vigilar las soluciones extrañas en las ecuaciones logarítmicas. Las **pp. 84 y 85 no llevan reactivos**: son aplicaciones resueltas (`EJEMPLO 10` de interés compuesto y `EJEMPLO 11` de ventas al menudeo) más el `Resumen (sección 1.9)`. Las **pp. 86–88 son el bloque `1.9 Ejercicios`**.
 
-**Pendiente:** EN CURSO. El **1.3, el 1.4, el 1.6, el 1.8 y el 1.9 están CERRADOS**. Sigue el **1.10 · Sistemas de ecuaciones lineales y no lineales**, que arranca en la página impresa **89**; después queda el **1.11** (p. 99), con el que se cierra el capítulo 1. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+- Cubiertas las páginas impresas **89 y 90**, arranque del **1.10 · Sistemas de ecuaciones lineales y no lineales**: qué es una solución de un sistema y qué es resolverlo, el recuadro *Método de sustitución* con sus cinco pasos, qué significa *sustitución hacia atrás* y el `COMENTARIO` de comprobar la solución en cada ecuación del sistema original. Los ejemplos no llevan reactivos.
+
+**Pendiente:** EN CURSO. El **1.3, el 1.4, el 1.6, el 1.8 y el 1.9 están CERRADOS** y el **1.10 va en curso**: sigue desde la página impresa **91**. La teoría del 1.10 llega hasta la **p. 95** (las pp. 96–98 son el bloque de `Ejercicios`); después queda el **1.11** (teoría pp. 99–106), con el que se cierra el capítulo 1. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -4261,5 +4263,160 @@ De conformidad con el libro de Matemáticas, ¿por qué debe asegurarse de compr
 **Subtema:** ecuaciones exponenciales y logarítmicas · dominio y soluciones extrañas
 
 El dominio de una función logarítmica generalmente no incluye todos los números reales, por lo que debe asegurarse de comprobar las soluciones extrañas de las ecuaciones logarítmicas.
+
+---
+
+## Sub-lote 30 · Sistemas de ecuaciones y método de sustitución (1.10, pp. 89–90)
+
+### 243
+
+De conformidad con el libro de Matemáticas, ¿qué es una solución de un sistema de ecuaciones?
+
+- A. Un par ordenado que satisface cada ecuación del sistema
+- B. Un par ordenado que satisface al menos una ecuación del sistema
+- C. Un número real que satisface la primera ecuación del sistema
+- D. El conjunto de los coeficientes de las dos ecuaciones
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 89
+**Subtema:** sistemas de ecuaciones · solución de un sistema
+
+Una solución de este sistema es un par ordenado que satisface cada ecuación del mismo.
+
+---
+
+### 244
+
+En relación con el libro de Matemáticas, ¿cómo se llama determinar el conjunto de todas las soluciones de un sistema?
+
+- A. Resolver el sistema de ecuaciones
+- B. Comprobar el sistema de ecuaciones
+- C. Sustituir hacia atrás en el sistema
+- D. Graficar el sistema de ecuaciones
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 89
+**Subtema:** sistemas de ecuaciones · solución de un sistema
+
+Determinar el conjunto de todas las soluciones se llama resolver el sistema de ecuaciones.
+
+---
+
+### 245
+
+De acuerdo con el libro de Matemáticas, ¿cuál es el primer paso del método de sustitución?
+
+- A. Despejar en una de las ecuaciones una variable en términos de la otra
+- B. Sustituir la expresión hallada en la otra ecuación
+- C. Comprobar que la solución satisface las ecuaciones originales
+- D. Graficar las dos ecuaciones del sistema
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 89
+**Subtema:** sistemas de ecuaciones · método de sustitución
+
+1. Despeje en una de las ecuaciones una variable en términos de la otra.
+
+---
+
+### 246
+
+De conformidad con el libro de Matemáticas, ¿cuál es el segundo paso del método de sustitución?
+
+- A. Sustituir la expresión hallada en el paso 1 en la otra ecuación, para obtener una ecuación de una variable
+- B. Sustituir la expresión hallada en el paso 1 en la misma ecuación de la que se despejó
+- C. Resolver la ecuación obtenida en el paso 1
+- D. Comprobar la solución en las ecuaciones originales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 89
+**Subtema:** sistemas de ecuaciones · método de sustitución
+
+2. Sustituya la expresión hallada en el paso 1 en la otra ecuación para obtener una ecuación de una variable.
+
+---
+
+### 247
+
+En relación con el libro de Matemáticas, ¿cuál es el tercer paso del método de sustitución?
+
+- A. Resolver la ecuación obtenida en el paso 2
+- B. Despejar la segunda variable
+- C. Graficar la ecuación obtenida
+- D. Comprobar la solución en las ecuaciones originales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 89
+**Subtema:** sistemas de ecuaciones · método de sustitución
+
+3. Resuelva la ecuación obtenida en el paso 2.
+
+---
+
+### 248
+
+De acuerdo con el libro de Matemáticas, ¿cuál es el cuarto paso del método de sustitución?
+
+- A. Sustituir hacia atrás el valor obtenido en el paso 3 en la expresión obtenida en el paso 1, para determinar el valor de la otra variable
+- B. Sustituir hacia atrás el valor obtenido en el paso 3 en la ecuación obtenida en el paso 2
+- C. Volver a despejar la primera variable
+- D. Comprobar la solución en las ecuaciones originales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 89
+**Subtema:** sistemas de ecuaciones · método de sustitución
+
+4. Sustituya hacia atrás el valor obtenido en el paso 3 en la expresión obtenida en el paso 1, para determinar el valor de la otra variable.
+
+---
+
+### 249
+
+De conformidad con el libro de Matemáticas, ¿cuál es el quinto paso del método de sustitución?
+
+- A. Comprobar que la solución satisface cada una de las ecuaciones originales
+- B. Comprobar que la solución satisface al menos una de las ecuaciones originales
+- C. Graficar el sistema para confirmar el resultado
+- D. Volver a despejar la segunda variable
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 89
+**Subtema:** sistemas de ecuaciones · método de sustitución
+
+5. Compruebe que la solución satisface cada una de las ecuaciones originales.
+
+---
+
+### 250
+
+En relación con el libro de Matemáticas, ¿qué implica el término sustitución hacia atrás?
+
+- A. Trabajar hacia atrás: despejar primero una de las variables y después sustituir ese valor en una de las ecuaciones del sistema para determinar la otra
+- B. Resolver el sistema empezando por la segunda ecuación
+- C. Escribir las ecuaciones del sistema en orden inverso
+- D. Comprobar la solución antes de calcularla
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 90
+**Subtema:** sistemas de ecuaciones · sustitución hacia atrás
+
+El término sustitución hacia atrás implica que trabaje hacia atrás. Primero despeja una de las variables y después sustituya ese valor hacia atrás en una de las ecuaciones del sistema para determinar el valor de la otra variable.
+
+---
+
+### 251
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo debe comprobarse siempre la solución de un sistema?
+
+- A. Sustituyéndola en cada ecuación del sistema original
+- B. Sustituyéndola en la primera ecuación del sistema original
+- C. Graficando las dos ecuaciones del sistema
+- D. Repitiendo el método de sustitución en orden inverso
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 90
+**Subtema:** sistemas de ecuaciones · comprobación de soluciones
+
+Se requieren muchos pasos para resolver un sistema de ecuaciones, así que hay muchas posibles maneras de cometer errores aritméticos. Compruebe siempre su solución sustituyéndola en cada ecuación del sistema original.
 
 ---
