@@ -49,7 +49,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 > **Dos datos de la p.155 NO llevan reactivo por estar ya preguntados:** el **calor solar que evapora el agua** aparece dos veces —como primera etapa (reactivo 55) y otra vez en la lista del inciso b)—, y lo mismo el **arrastre de la humedad por los vientos** (reactivo 58). En ambos casos se escribió un solo reactivo, el de la lista de etapas.
 
-**Pendiente:** EN CURSO. El tema **5.1 quedó CERRADO** (pp. 151–156). Sigue desde la **p.157** con el **5.2 Las aguas oceánicas** —5.2.1 Generalidades sobre los océanos, mares, golfos, bahías y ensenadas (p.157), 5.2.2 Características e importancia de las aguas oceánicas (p.160), 5.2.3 Movimientos de las aguas oceánicas (I): olas y mareas (p.162), 5.2.4 Movimientos de las aguas oceánicas (II): las corrientes marinas (p.164) y 5.2.5 Formas del relieve submarino (p.167)—, hasta cerrar en la **p.167**: el **5.3 Las aguas continentales** empieza en la p.168 y **el temario NO lo pide**. Con el 5.2 se cierra la Unidad V. Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
+- Cubierta la página impresa **157**: el arranque del **5.2** con el apartado **Los océanos** — el reparto de la superficie terrestre (**510,054,000 km²** en total, **362,033,000 km²** de hidrósfera y **148,021,000 km²** —el **29.02%**— de tierras emergidas), la hidrósfera como **masa continua** que permite dar la vuelta al planeta sin salirse del agua, la **definición de océano** del recuadro, **Anaximandro de Mileto (610-547 a.C.)** con su Tierra en forma de disco (el Gran Mar al centro, los 3 continentes alrededor y el gran «río» de la periferia) y la **etimología** de *oikía*, y la **delimitación** de los océanos **Pacífico** y **Atlántico** en sus cuatro rumbos. **Las cifras de superficie se verificaron con `crop.py` a 600 dpi.** La Figura 5.4 es un mapa y no lleva reactivos por norma.
+
+> **El 70.98% NO lleva reactivo aquí:** ya lo pregunta el **reactivo 1** de este mismo archivo, desde la p.151. En esta página entran sólo las cifras absolutas y el 29.02%, que son dato nuevo. **Anaximandro de Mileto tampoco duplica** a la Unidad II, donde aparece únicamente como distractor.
+
+**Pendiente:** EN CURSO. El tema **5.1 quedó CERRADO** (pp. 151–156) y el **5.2 está EN CURSO** (cubierta la p.157). Sigue desde la **p.158** con el resto del **5.2.1**, y después —5.2.2 Características e importancia de las aguas oceánicas (p.160), 5.2.3 Movimientos de las aguas oceánicas (I): olas y mareas (p.162), 5.2.4 Movimientos de las aguas oceánicas (II): las corrientes marinas (p.164) y 5.2.5 Formas del relieve submarino (p.167)—, hasta cerrar en la **p.167**: el **5.3 Las aguas continentales** empieza en la p.168 y **el temario NO lo pide**. Con el 5.2 se cierra la Unidad V. Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
 
 ---
 
@@ -1154,4 +1158,276 @@ En relación con el libro de Geografía, ¿de acuerdo con qué varía la producc
 "La producción agrícola, que varía de acuerdo con la cantidad de lluvia y el tiempo de su presentación."
 
 > Nota de revisor: son **dos** factores —cuánto llueve y **cuándo**—, y el distractor B se queda con uno solo. Con este reactivo cierra el tema 5.1.
+
+## Sub-lote 6 · Generalidades sobre los océanos (5.2.1, p. 157)
+
+### 73
+
+De acuerdo con el libro de Geografía, ¿de cuánto es la superficie terrestre?
+
+- A. De 510,054,000 km²
+- B. De 501,054,000 km²
+- C. De 362,033,000 km²
+- D. De 148,021,000 km²
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · superficie terrestre
+
+"En nuestros días, la superficie terrestre de 510,054,000 km² está ocupada [...]"
+
+### 74
+
+De conformidad con el libro de Geografía, ¿cuántos kilómetros cuadrados ocupa la hidrósfera?
+
+- A. Unos 362,033,000 km²
+- B. Unos 326,033,000 km²
+- C. Unos 148,021,000 km²
+- D. Unos 510,054,000 km²
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · superficie de la hidrósfera
+
+"Está ocupada en unos 362,033,000 km² –el 70.98%, aproximadamente– por la hidrósfera (océanos, mares, golfos)."
+
+### 75
+
+En relación con el libro de Geografía, ¿cuántos kilómetros cuadrados ocupan las tierras emergidas y qué porcentaje representan?
+
+- A. Unos 148,021,000 km², el 29.02% aproximadamente
+- B. Unos 148,021,000 km², el 20.92% aproximadamente
+- C. Unos 184,021,000 km², el 29.02% aproximadamente
+- D. Unos 362,033,000 km², el 29.02% aproximadamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · superficie de las tierras emergidas
+
+"Y sólo en unos 148,021,000 km² –el 29.02%, aproximadamente– por las tierras emergidas (continentes e islas)."
+
+### 76
+
+De acuerdo con el libro de Geografía, a diferencia de las tierras emergidas, ¿qué forma la hidrósfera?
+
+- A. Una masa continua alrededor de la Tierra
+- B. Una masa fraccionada en océanos independientes
+- C. Una masa continua sólo en el Hemisferio Sur
+- D. Una masa discontinua, separada por los continentes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · masa continua
+
+"A diferencia de las tierras emergidas, fraccionadas en continentes e islas, la hidrósfera forma una masa continua alrededor de la Tierra."
+
+### 77
+
+De conformidad con el libro de Geografía, ¿qué consecuencia tiene que los océanos, mares, golfos, bahías y ensenadas estén conectados entre sí?
+
+- A. Que puede pasarse de unos a otros sin solución de continuidad
+- B. Que todos tienen la misma profundidad
+- C. Que todos tienen la misma salinidad
+- D. Que sus mareas ocurren al mismo tiempo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · sin solución de continuidad
+
+"Los océanos, mares, golfos, bahías y ensenadas están conectados entre sí, de modo que puede pasarse de unos a otros sin solución de continuidad."
+
+### 78
+
+En relación con el libro de Geografía, ¿qué puede hacerse por agua y no por tierra?
+
+- A. Dar la vuelta al planeta sin salirse del agua
+- B. Recorrer los cinco continentes sin detenerse
+- C. Cruzar de un hemisferio a otro en línea recta
+- D. Llegar a los polos sin cambiar de medio
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · la vuelta al planeta
+
+"O sea, se puede dar la vuelta al planeta sin salirse del agua, cosa que no puede hacerse por tierra."
+
+### 79
+
+De acuerdo con el libro de Geografía, ¿qué son los océanos?
+
+- A. Las grandes porciones en que puede dividirse la hidrósfera
+- B. Las grandes porciones en que puede dividirse la litósfera
+- C. Las masas de agua salada rodeadas de tierras emergidas
+- D. Las porciones de hidrósfera delimitadas por los archipiélagos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · definición de océano
+
+Recuadro de definición: "Las grandes porciones en que puede dividirse la hidrósfera."
+
+### 80
+
+De conformidad con el libro de Geografía, ¿quién ideó el término océano y en qué años vivió?
+
+- A. El filósofo griego Anaximandro de Mileto (610-547 a.C.)
+- B. El filósofo griego Tales de Mileto (610-547 a.C.)
+- C. El filósofo griego Anaximandro de Mileto (276-196 a.C.)
+- D. El geógrafo griego Eratóstenes de Cirene (610-547 a.C.)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · Anaximandro de Mileto
+
+"El término océano fue ideado por el filósofo griego Anaximandro de Mileto (610-547 a.C.)"
+
+### 81
+
+En relación con el libro de Geografía, ¿qué sostuvo Anaximandro sobre la forma de la Tierra?
+
+- A. Que tenía forma de disco, o sea, que era plana y circular
+- B. Que tenía forma de esfera perfecta
+- C. Que tenía forma de cilindro
+- D. Que tenía forma plana y cuadrada
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · la Tierra como disco
+
+"Quien sostuvo que la Tierra tenía forma de disco, o sea, que era plana y circular."
+
+### 82
+
+De acuerdo con el libro de Geografía, según esa concepción, ¿qué se encontraba en el centro?
+
+- A. El Gran Mar o Mar Mediterráneo
+- B. El gran «río» que giraba en torno de las tierras habitadas
+- C. Los 3 continentes conocidos entonces
+- D. El Océano Atlántico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · el Gran Mar
+
+"En el centro se encontraba el Gran Mar o Mar Mediterráneo."
+
+### 83
+
+De conformidad con el libro de Geografía, ¿qué había a su alrededor?
+
+- A. Los 3 continentes conocidos entonces (Europa, Asia y África)
+- B. Los 4 continentes conocidos entonces (Europa, Asia, África y América)
+- C. Los archipiélagos ubicados entre Asia y Oceanía
+- D. Un gran «río» que giraba en torno de las tierras habitadas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · los tres continentes
+
+"A su alrededor, los 3 continentes conocidos entonces (Europa, Asia y África)."
+
+### 84
+
+En relación con el libro de Geografía, ¿qué había en la periferia?
+
+- A. Un gran «río» que giraba en torno de las tierras habitadas, al cual llamó océano
+- B. Un gran mar cerrado que rodeaba los tres continentes
+- C. Un abismo sin agua que marcaba el fin del mundo
+- D. Una cadena de archipiélagos que cerraba el disco
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · el gran «río»
+
+"En la periferia, un gran «río» que giraba en torno de las tierras habitadas, al cual llamó océano."
+
+### 85
+
+De acuerdo con el libro de Geografía, ¿de qué palabra griega proviene «océano» y qué significa?
+
+- A. Del griego *oikía*, casa; significa «alrededor de la casa»
+- B. Del griego *oikía*, casa; significa «dentro de la casa»
+- C. Del griego *okeanós*, río; significa «río que gira»
+- D. Del griego *oikía*, agua; significa «alrededor del agua»
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · etimología de océano
+
+"Al cual llamó océano (del griego *oikía*, casa), palabra que significa «alrededor de la casa», entendiendo «casa» como las tierras habitadas."
+
+### 86
+
+De conformidad con el libro de Geografía, ¿por qué están delimitados los océanos?
+
+- A. Por los continentes y algunos archipiélagos (conjuntos de islas)
+- B. Por los continentes únicamente
+- C. Por los meridianos y paralelos acordados internacionalmente
+- D. Por las corrientes marinas y las mareas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · delimitación
+
+"Los océanos están delimitados por los continentes y algunos archipiélagos (conjuntos de islas)."
+
+### 87
+
+En relación con el libro de Geografía, ¿qué delimita al Océano Pacífico por el norte?
+
+- A. Asia y América del Norte, separadas por el estrecho de Béhring
+- B. Asia y Europa, separadas por el estrecho de Béhring
+- C. El Océano Glacial Ártico, en un límite impreciso
+- D. América del Norte y Groenlandia
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · límites del Pacífico
+
+"Océano Pacífico. Al norte, Asia y América del Norte, separadas por el estrecho de Béhring."
+
+### 88
+
+De acuerdo con el libro de Geografía, ¿qué delimita al Océano Pacífico por el sur, el este y el oeste?
+
+- A. Al sur, la Antártida; al este, América; al oeste, Asia, varios archipiélagos y Australia
+- B. Al sur, la Antártida; al este, Asia y Australia; al oeste, América
+- C. Al sur, el Océano Glacial Ártico; al este, América; al oeste, Asia y Australia
+- D. Al sur, África; al este, América; al oeste, Asia y Australia
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · límites del Pacífico
+
+"Al sur, la Antártida; al este, América; al oeste, Asia, varios archipiélagos (ubicados entre Asia y Oceanía) y Australia."
+
+### 89
+
+De conformidad con el libro de Geografía, ¿qué delimita al Océano Atlántico por el norte y por el sur?
+
+- A. Al norte, en un límite impreciso, el Océano Glacial Ártico; al sur, la Antártida
+- B. Al norte, en un límite preciso, el Océano Glacial Ártico; al sur, África
+- C. Al norte, Europa; al sur, la Antártida
+- D. Al norte, el estrecho de Béhring; al sur, la Antártida
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · límites del Atlántico
+
+"Océano Atlántico. Al norte, en un límite impreciso, el Océano Glacial Ártico; al sur, la Antártida."
+
+### 90
+
+En relación con el libro de Geografía, ¿qué delimita al Océano Atlántico por el este y por el oeste?
+
+- A. Al este, Europa, Asia (a través del Mar Mediterráneo) y África; al oeste, el Continente Americano
+- B. Al este, el Continente Americano; al oeste, Europa, Asia y África
+- C. Al este, Europa y África únicamente; al oeste, el Continente Americano
+- D. Al este, Asia y Australia; al oeste, el Continente Americano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 157
+**Subtema:** aguas oceánicas · límites del Atlántico
+
+"Al este, Europa, Asia (a través del Mar Mediterráneo) y África; al oeste, el Continente Americano."
 
