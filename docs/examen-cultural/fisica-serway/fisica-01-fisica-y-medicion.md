@@ -33,9 +33,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **3–12**: las secciones **1.1, 1.2, 1.3** (Análisis dimensional) y **1.4 · Conversión de unidades** (los factores de conversión SI ↔ usuales U.S.). La **p.11** son los Ejemplos 1.2 y 1.3 resueltos más un Examen rápido, **sin reactivos por norma**.
+**EN CURSO.** Escritas las páginas impresas **3–13**: las secciones **1.1** a **1.5** y el **arranque de 1.6 · Cifras significativas**. La **p.11** (Ejemplos 1.2/1.3) y el **Ejemplo 1.5** (p.13) no llevan reactivos por norma.
 
-**Pendiente:** EN CURSO. Sigue **1.5 · Estimaciones y cálculos de orden de magnitud** (p.13), luego **1.6 · Cifras significativas** (p.13) y el Resumen (p.15).
+**Pendiente:** EN CURSO. Sigue **1.6 · Cifras significativas** en la **p.14** y el **Resumen** (p.15), con lo que se cierra el Capítulo 1.
 
 ---
 
@@ -1002,3 +1002,97 @@ En relación con el libro de Física, al convertir unidades, ¿cómo se manipula
 **Subtema:** conversión de unidades · método
 
 "Como las dimensiones, las unidades se manipulan como cantidades algebraicas que se cancelan mutuamente."
+
+---
+
+## Sub-lote 10 · Orden de magnitud y arranque de cifras significativas (p.13)
+
+### 63
+
+De acuerdo con el libro de Física, ¿qué significa el símbolo ~?
+
+- A. "Es del orden de"
+- B. "Es exactamente igual a"
+- C. "Es directamente proporcional a"
+- D. "Es mucho mayor que"
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 13
+**Subtema:** orden de magnitud · notación
+
+"Se usa el símbolo ~ para 'es del orden de'."
+
+### 64
+
+En relación con el libro de Física, para determinar el orden de magnitud de un número, ¿con qué valor (la raíz cuadrada de diez) se compara el multiplicador de la potencia de 10 en la notación científica?
+
+- A. Con 3.162
+- B. Con 5
+- C. Con 1
+- D. Con 10
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 13
+**Subtema:** orden de magnitud · regla del multiplicador
+
+"Si el multiplicador es menor que 3.162 (la raíz cuadrada de diez), el orden de magnitud del número es la potencia de diez en la notación científica. Si el multiplicador es mayor que 3.162, el orden de magnitud es uno más grande que la potencia de 10 en la notación científica."
+
+### 65
+
+De conformidad con el libro de Física, cuando se hace una estimación del orden de magnitud, ¿hasta dentro de qué factor son confiables los resultados?
+
+- A. Hasta dentro de un factor aproximado de 10
+- B. Hasta dentro de un factor aproximado de 2
+- C. Con un error menor al 1 %
+- D. Con exactitud de tres cifras significativas
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 13
+**Subtema:** orden de magnitud · confiabilidad
+
+"Por lo general, cuando se hace una estimación del orden de magnitud, los resultados son confiables hasta dentro de un factor aproximado de 10."
+
+### 66
+
+De acuerdo con el libro de Física, ¿cómo se les llama con frecuencia a los cálculos de estimación, por su simplicidad y por realizarse en un pequeño trozo de papel?
+
+- A. "Cálculos de servilleta"
+- B. "Cálculos de bolsillo"
+- C. "Cálculos de orden cero"
+- D. "Cálculos de campo"
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 13
+**Subtema:** estimaciones · cálculos de servilleta
+
+"Debido a la simplicidad de este tipo de cálculos, se realizan en un pequeño trozo de papel y con frecuencia se llaman *cálculos de servilleta*."
+
+### 67
+
+En relación con el libro de Física, ¿para qué sirve el número de cifras significativas en una medición?
+
+- A. Para expresar algo acerca de la incertidumbre de la medición
+- B. Para indicar el sistema de unidades empleado
+- C. Para señalar el orden de magnitud del resultado
+- D. Para expresar la dimensión física de la cantidad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 13
+**Subtema:** cifras significativas · incertidumbre
+
+"El número de cifras significativas en una medición sirve para expresar algo acerca de la incertidumbre."
+
+### 68
+
+De conformidad con el libro de Física, ¿de qué factores depende el valor de la incertidumbre experimental de una cantidad medida?
+
+- A. De la calidad del aparato, la habilidad del experimentador y el número de mediciones realizadas
+- B. Únicamente de la calidad del instrumento de medición
+- C. Del sistema de unidades y del orden de magnitud del resultado
+- D. De la temperatura y la presión del laboratorio
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 13
+**Subtema:** cifras significativas · incertidumbre experimental
+
+"El valor de esta incertidumbre depende de varios factores, como la calidad del aparato, la habilidad del experimentador y el número de mediciones realizadas."
