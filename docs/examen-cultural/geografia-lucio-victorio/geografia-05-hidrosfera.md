@@ -37,14 +37,19 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Arrancada la unidad por la portadilla.
+**EN CURSO.** El tema **5.1 Características y distribución del agua. El ciclo del agua** está **CERRADO** (pp. 151–156, sus tres subtemas). Falta el **5.2 Las aguas oceánicas**.
 
 - Cubierta la página impresa **151** (sólo la **INTRODUCCIÓN**): que ningún planeta tiene tanta agua como la Tierra y que ésta cubre **más de 2/3** de la superficie —**el 70.98%**—, haciéndola más acuática que terrestre; **Tales de Mileto** y el agua como origen del mundo, con el nombre de **Oceanía**; la Tierra como único planeta donde los **tres estados físicos** del agua coexisten de manera estable y duradera, y la comparación con Mercurio, Venus, Marte y la Luna; y **dónde se encuentra el agua en cada estado** (sólido, líquido y gaseoso). **Los "Objetivos" de la unidad no llevan reactivos por norma.**
 - Cubierta la página impresa **152**: el **5.1.1 Características del agua** completo — la **composición química** (dos átomos de hidrógeno y uno de oxígeno), el agua en estado puro (**incolora, inodora e insípida**), la sustancia capaz de **absorber mayor cantidad de calor** y desprenderlo lentamente, las masas acuosas como **«termostato»** que da al planeta un clima bastante estable, la **escala centígrada de Celsius** (**0ºC** fusión y **100ºC** ebullición), el agua como **solvente** que ninguna otra sustancia iguala y la dificultad de hallarla pura, la **rareza de su densidad** (mínimo volumen y máxima densidad a **4ºC**, y el hielo que flota), lo que ocurre bajo la capa de hielo, y el escenario contrario —los **gigantescos témpanos** en pocos decenios— que muestra por qué esa propiedad es esencial para la vida. **Las tres temperaturas (0ºC, 4ºC y 100ºC) se verificaron con `crop.py` a 600 dpi.** La Figura 5.1 es un **mapa** (hemisferios continental y oceánico) y no lleva reactivos por norma.
 - Cubierta la página impresa **153**: el **5.1.2 Distribución del agua sobre la superficie terrestre** en su primera mitad — el **volumen de agua de la Tierra** (**1,386,232,020 km³**, equivalentes al **0.024%** del peso total del planeta, calculado en **5.974 x 10²¹ toneladas**), qué cuerpos de agua mantienen su cantidad **más o menos constante** (océanos, mares, golfos, bahías, ensenadas, albuferas y glaciares continentales) frente a los que **cambian a lo largo del año** (mantos acuíferos, manantiales, torrentes, arroyos, ríos, lagos, lagunas, pantanos, glaciares de alta montaña, ventisqueros, heleros y la atmósfera), y el **Cuadro 5.1** completo con la clasificación de las aguas (**oceánicas** y **continentales**, éstas en **saladas** y **dulces**, con las albuferas como lagunas costeras y las marismas como pantanos costeros). **Las tres cifras se verificaron con `crop.py` a 600 dpi.** **La mitad superior de la página es un ejercicio de repaso** (llenar espacios en blanco) y no lleva reactivos por norma.
 - Cubierta la página impresa **154**: el **Cuadro 5.2** completo (distribución de las aguas saladas y dulces, con volumen y porcentaje de cada tipo: océanos y demás aguas saladas **1,349,930,000 km³ / 97.38124**; marismas y lagunas saladas 104,000; subterráneas 7,385,000 / 0.53274; fuentes y ríos 1,250; lagos y pantanos dulces 125,000; glaciares y ventisqueros 28,595,000 / 2.06279; seres vivos 78,470; atmósfera 13,300 / 0.00096); el cierre del **5.1.2** (la variación de manantiales, ríos, lagos, mantos acuíferos y humedad atmosférica según las épocas de lluvia y sequía, debida a que el agua **no permanece estática** sino en continuo movimiento) y el **nombre del fenómeno: el ciclo del agua**. **Todas las cifras del Cuadro 5.2 se verificaron con `crop.py` a 600 dpi.** **El total de la Tierra del cuadro (1,386,232,020 km³) NO lleva reactivo propio:** ya lo pregunta el reactivo 28 desde la p.153. La Figura 5.2 es fotografía y no lleva reactivos. **La primera etapa del ciclo del agua queda cortada al pie de la página** y se trabaja con el resto de las etapas en la p.155.
 
-**Pendiente:** EN CURSO. Sigue desde la **p.155** con el **5.1.3 El ciclo del agua** (sus etapas completas), y después el **5.2 Las aguas oceánicas** (desde la p.157). Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
+- Cubierta la página impresa **155**: el resto de las **etapas del ciclo del agua** — la elevación del vapor (con los **1,700 litros** que produce un litro de agua líquida), el arrastre de la humedad por los vientos **del mar a la tierra**, la condensación en las partes altas de la tropósfera, la formación de las gotas, la precipitación (lluvia y llovizna, y los fenómenos hidroatmosféricos "en condiciones específicas"), los **tres destinos del agua llovida** (evaporación, infiltración y escurrimiento superficial) y el retorno a los océanos; más el **arranque del inciso b)** con la relación del ciclo con otros fenómenos geográficos. **Los 1,700 litros se verificaron con `crop.py` a 600 dpi.** La Figura 5.3 (esquema del ciclo del agua) es ilustración y no lleva reactivos; sus rótulos repiten las etapas que el texto ya enlista.
+- Cubierta la página impresa **156**: el cierre del inciso b) —las **montañas** (llueve más en la vertiente orientada hacia los vientos dominantes), los **ríos** (inundaciones por lluvias excesivas) y la **producción agrícola** (varía según la cantidad de lluvia y el tiempo de su presentación)—. **Con esta página queda cerrado el 5.1.3 y con él todo el tema 5.1.** **La mitad inferior de la página es un bloque de ejercicios** (ordenar los tipos de aguas por porcentaje y elaborar un esquema del ciclo del agua) y no lleva reactivos por norma.
+
+> **Dos datos de la p.155 NO llevan reactivo por estar ya preguntados:** el **calor solar que evapora el agua** aparece dos veces —como primera etapa (reactivo 55) y otra vez en la lista del inciso b)—, y lo mismo el **arrastre de la humedad por los vientos** (reactivo 58). En ambos casos se escribió un solo reactivo, el de la lista de etapas.
+
+**Pendiente:** EN CURSO. El tema **5.1 quedó CERRADO** (pp. 151–156). Sigue desde la **p.157** con el **5.2 Las aguas oceánicas** —5.2.1 Generalidades sobre los océanos, mares, golfos, bahías y ensenadas (p.157), 5.2.2 Características e importancia de las aguas oceánicas (p.160), 5.2.3 Movimientos de las aguas oceánicas (I): olas y mareas (p.162), 5.2.4 Movimientos de las aguas oceánicas (II): las corrientes marinas (p.164) y 5.2.5 Formas del relieve submarino (p.167)—, hasta cerrar en la **p.167**: el **5.3 Las aguas continentales** empieza en la p.168 y **el temario NO lo pide**. Con el 5.2 se cierra la Unidad V. Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
 
 ---
 
@@ -865,4 +870,288 @@ En relación con el libro de Geografía, ¿qué nombre recibe ese fenómeno?
 **Subtema:** ciclo del agua · denominación
 
 "Dando origen al fenómeno conocido con el nombre de ciclo del agua."
+
+## Sub-lote 5 · Las etapas del ciclo del agua (5.1.3, pp. 154–155)
+
+### 55
+
+De acuerdo con el libro de Geografía, ¿cuál es la primera etapa del ciclo del agua?
+
+- A. El calor solar evapora el agua de océanos, mares, golfos, bahías, ríos, lagos y lagunas
+- B. Los vientos arrastran la humedad atmosférica de los mares a la tierra
+- C. Las bajas temperaturas de la tropósfera provocan la condensación de la humedad
+- D. El agua llovida se infiltra en el suelo y forma los mantos acuíferos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 154
+**Subtema:** ciclo del agua · etapas
+
+"El ciclo del agua presenta las siguientes etapas: El calor solar evapora el agua de océanos, mares, golfos, bahías, ríos, lagos, lagunas, etc."
+
+### 56
+
+De conformidad con el libro de Geografía, ¿por qué se eleva el vapor de agua en la atmósfera?
+
+- A. Porque pesa menos que el aire
+- B. Porque pesa más que el aire
+- C. Porque lo empujan los vientos dominantes
+- D. Porque las bajas temperaturas de la tropósfera lo atraen
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · elevación del vapor
+
+"Como el vapor de agua pesa menos que el aire (un litro de agua líquida produce 1,700 litros de vapor), se eleva en la atmósfera."
+
+### 57
+
+En relación con el libro de Geografía, ¿cuántos litros de vapor produce un litro de agua líquida?
+
+- A. 1,700
+- B. 1,070
+- C. 700
+- D. 17,000
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · elevación del vapor
+
+"[...] un litro de agua líquida produce 1,700 litros de vapor [...]"
+
+### 58
+
+De acuerdo con el libro de Geografía, ¿qué hacen los vientos dentro del ciclo del agua?
+
+- A. Arrastran la humedad atmosférica de los mares a la tierra
+- B. Arrastran la humedad atmosférica de la tierra a los mares
+- C. Provocan la condensación de la humedad atmosférica
+- D. Elevan el vapor de agua hasta las partes altas de la tropósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · los vientos
+
+"Los vientos arrastran la humedad atmosférica de los mares a la tierra."
+
+> Nota de revisor: el sentido es **del mar a la tierra**, y el distractor B es la inversión. La Figura 5.3 lo rotula igual: "Arrastre de la humedad atmosférica del mar a la tierra".
+
+### 59
+
+De conformidad con el libro de Geografía, ¿qué provoca la condensación de la humedad atmosférica?
+
+- A. Las bajas temperaturas de las partes altas de la tropósfera
+- B. Las bajas temperaturas de las partes bajas de la tropósfera
+- C. El arrastre que ejercen los vientos dominantes
+- D. El calor solar que actúa sobre la superficie de los mares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · condensación
+
+"Las bajas temperaturas de las partes altas de la tropósfera provocan la condensación de esa humedad [...]"
+
+### 60
+
+En relación con el libro de Geografía, ¿en qué se transforma la humedad atmosférica al condensarse, y por qué se mantiene todavía en el aire?
+
+- A. En gotas minúsculas, cuyo poco peso les permite todavía mantenerse en el aire
+- B. En gotas relativamente grandes, que la atmósfera aún puede retener
+- C. En cristales de hielo, que el viento sostiene en suspensión
+- D. En vapor de agua, más ligero que el aire que lo rodea
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · condensación
+
+"[...] hasta transformarla en gotas minúsculas, cuyo poco peso les permite todavía mantenerse en el aire."
+
+### 61
+
+De acuerdo con el libro de Geografía, ¿cómo se forman las gotas relativamente grandes que la atmósfera ya no puede retener?
+
+- A. Por la unión de numerosas gotas pequeñas
+- B. Por el descenso brusco de la temperatura atmosférica
+- C. Por el arrastre de los vientos dominantes
+- D. Por la evaporación del agua de los mares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · formación de las gotas
+
+"Por la unión de numerosas gotas pequeñas se forman gotas relativamente grandes, que no pueden ser retenidas ya por la atmósfera."
+
+### 62
+
+De conformidad con el libro de Geografía, ¿a qué dan origen las gotas al precipitarse a tierra?
+
+- A. A la lluvia y la llovizna
+- B. A la niebla y el rocío
+- C. A la escarcha y la nieve
+- D. Al sereno y la neblina
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · precipitación
+
+"Dichas gotas se precipitan a tierra, dando origen a la lluvia y la llovizna."
+
+### 63
+
+En relación con el libro de Geografía, ¿qué fenómenos hidroatmosféricos se producen en condiciones específicas?
+
+- A. La niebla o neblina, el rocío, la escarcha, el sereno y la nieve
+- B. La lluvia, la llovizna, el granizo y la nieve
+- C. Las corrientes marinas, las olas y las mareas
+- D. Los torrentes, arroyos y ríos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · fenómenos hidroatmosféricos
+
+"En condiciones específicas se producen la niebla o neblina, el rocío, la escarcha, el sereno, la nieve y otros fenómenos hidroatmosféricos."
+
+> Nota de revisor: la **lluvia y la llovizna** no van en esta lista —son el caso general del reactivo 62—; los de aquí son los que ocurren "en condiciones específicas". Ése es el filo del distractor B.
+
+### 64
+
+De acuerdo con el libro de Geografía, ¿cuáles son los tres destinos que sigue el agua llovida?
+
+- A. La evaporación, la infiltración y el escurrimiento superficial
+- B. La evaporación, la condensación y la precipitación
+- C. La infiltración, la condensación y el escurrimiento superficial
+- D. La evaporación, la infiltración y la congelación
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · destino del agua llovida
+
+"Una parte del agua llovida se evapora y vuelve a la atmósfera (evaporación); otra se infiltra en el suelo y forma los mantos acuíferos (infiltración); otra más escurre sobre la superficie y da origen a los torrentes, arroyos, ríos, etc. (escurrimiento superficial)."
+
+### 65
+
+De conformidad con el libro de Geografía, ¿a dónde vuelve la parte del agua llovida que se evapora?
+
+- A. A la atmósfera
+- B. A los mantos acuíferos
+- C. A los torrentes, arroyos y ríos
+- D. A los océanos, mares y golfos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · evaporación
+
+"Una parte del agua llovida se evapora y vuelve a la atmósfera (evaporación) [...]"
+
+### 66
+
+En relación con el libro de Geografía, ¿qué forma la parte del agua llovida que se infiltra en el suelo?
+
+- A. Los mantos acuíferos
+- B. Los torrentes, arroyos y ríos
+- C. Los lagos y lagunas
+- D. Los glaciares y ventisqueros
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · infiltración
+
+"[...] otra se infiltra en el suelo y forma los mantos acuíferos (infiltración) [...]"
+
+### 67
+
+De acuerdo con el libro de Geografía, ¿a qué da origen la parte del agua llovida que escurre sobre la superficie?
+
+- A. A los torrentes, arroyos y ríos
+- B. A los mantos acuíferos
+- C. A las marismas y los salares
+- D. A los pantanos, charcas y ciénegas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · escurrimiento superficial
+
+"[...] otra más escurre sobre la superficie y da origen a los torrentes, arroyos, ríos, etc. (escurrimiento superficial)."
+
+### 68
+
+De conformidad con el libro de Geografía, ¿cómo vuelve el agua a los océanos, mares y golfos, donde se reanuda el ciclo?
+
+- A. Mediante los torrentes, arroyos y ríos
+- B. Mediante los mantos acuíferos y los manantiales
+- C. Mediante la evaporación y la condensación
+- D. Mediante el arrastre de los vientos dominantes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · retorno al océano
+
+"Mediante los torrentes, arroyos, ríos, etc. el agua vuelve a los océanos, mares y golfos, donde se reanuda el ciclo."
+
+## Sub-lote 6 · El ciclo del agua en relación con otros fenómenos (5.1.3, pp. 155–156)
+
+### 69
+
+En relación con el libro de Geografía, ¿cómo se produce el ciclo del agua respecto de los demás hechos y fenómenos geográficos?
+
+- A. No aisladamente, sino en íntima relación con otros hechos y fenómenos geográficos
+- B. De manera aislada, sin relación con los demás elementos geográficos
+- C. Únicamente en relación con los fenómenos de la atmósfera
+- D. Sólo en relación con las formas del relieve continental
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 155
+**Subtema:** ciclo del agua · relación con otros fenómenos
+
+"Como puedes ver, el ciclo del agua, al igual que todos los elementos geográficos, no se produce aisladamente sino en íntima relación con otros hechos y fenómenos geográficos [...]"
+
+> Nota de revisor: es la misma idea del **carácter interdisciplinario** de la Unidad I (p.22), pero aquí aplicada a los hechos geográficos entre sí, no a las ciencias. Son reactivos distintos y no se duplican.
+
+### 70
+
+De acuerdo con el libro de Geografía, ¿en qué vertiente de las montañas llueve más?
+
+- A. En la vertiente orientada hacia los vientos dominantes
+- B. En la vertiente opuesta a los vientos dominantes
+- C. En la vertiente orientada hacia el mar, cualquiera que sea el viento
+- D. Llueve por igual en ambas vertientes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 156
+**Subtema:** ciclo del agua · las montañas
+
+"Las montañas, en las cuales llueve más en la vertiente orientada hacia los vientos dominantes que en la opuesta."
+
+> Nota de revisor: dato olvidable puro. El aspirante recuerda "en las montañas llueve más" y se salta **cuál** de las dos vertientes.
+
+### 71
+
+De conformidad con el libro de Geografía, ¿cuándo provocan inundaciones los ríos?
+
+- A. Cuando se desbordan debido a las lluvias excesivas
+- B. Cuando disminuyen de caudal y se secan
+- C. Cuando el agua llovida se infiltra y forma los mantos acuíferos
+- D. Cuando las bajas temperaturas congelan su capa superficial
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 156
+**Subtema:** ciclo del agua · los ríos
+
+"Los ríos, que provocan inundaciones cuando se desbordan debido a las lluvias excesivas."
+
+### 72
+
+En relación con el libro de Geografía, ¿de acuerdo con qué varía la producción agrícola?
+
+- A. De acuerdo con la cantidad de lluvia y el tiempo de su presentación
+- B. De acuerdo con la cantidad de lluvia únicamente
+- C. De acuerdo con la humedad de los mantos acuíferos
+- D. De acuerdo con la orientación de las vertientes montañosas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 156
+**Subtema:** ciclo del agua · la producción agrícola
+
+"La producción agrícola, que varía de acuerdo con la cantidad de lluvia y el tiempo de su presentación."
+
+> Nota de revisor: son **dos** factores —cuánto llueve y **cuándo**—, y el distractor B se queda con uno solo. Con este reactivo cierra el tema 5.1.
 
