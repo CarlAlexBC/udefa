@@ -29,9 +29,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **21–25**: **2.1** COMPLETO (modelo de partícula, posición, gráfica posición-tiempo, desplazamiento Δx ≡ xf − xi, distancia, cantidades vectorial/escalar, velocidad promedio vx,prom ≡ Δx/Δt, rapidez promedio vprom ≡ d/Δt, y la advertencia de que la magnitud de la velocidad promedio no es la rapidez promedio) y **2.2 · Velocidad y rapidez instantáneas** en sus definiciones (velocidad instantánea como límite de Δx/Δt y como derivada dx/dt, la pendiente de la tangente, puede ser +/−/0, la convención de llamar «velocidad» a la instantánea, y que la magnitud de la velocidad instantánea sí es la rapidez instantánea). La portada (p.20) y el Ejemplo 2.1 (p.24) no aportan reactivos.
+**EN CURSO.** Escritas las páginas impresas **21–26**: **2.1** COMPLETO y **2.2 · Velocidad y rapidez instantáneas** COMPLETO (velocidad instantánea como límite de Δx/Δt y como derivada dx/dt, la pendiente de la tangente, puede ser +/−/0, la convención de llamar «velocidad» a la instantánea, que la magnitud de la velocidad instantánea sí es la rapidez instantánea, la definición de rapidez instantánea y la convención de llamar «rapidez» a la instantánea). Los Ejemplos 2.1/2.2/2.3 y los exámenes rápidos no aportan reactivos.
 
-**Pendiente:** EN CURSO. Revisar la **p.26** por si **2.2** continúa (los Ejemplos 2.2/2.3 no llevan reactivos) y localizar el arranque de **2.3** (fuera del temario). Después queda **2.5 · Aceleración**, que sí pide el temario. Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera.
+**Pendiente:** EN CURSO. Sólo falta **2.5 · Aceleración** (el temario salta 2.3 y 2.4, que quedan fuera). Hay que localizar la página impresa donde arranca 2.5 y leer su desfase antes de escribir. Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera del temario.
 
 ---
 
@@ -479,3 +479,35 @@ En relación con el libro de Física, ¿qué relación hay entre la magnitud de 
 **Subtema:** velocidad y rapidez instantáneas · magnitud de la velocidad instantánea (prevención de riesgos ocultos 2.3)
 
 "La magnitud de la velocidad instantánea es la rapidez instantánea. En un intervalo de tiempo infinitesimal, la magnitud del desplazamiento es igual a la distancia recorrida por la partícula."
+
+## Sub-lote 6 · Cierre de 2.2: rapidez instantánea (p.26)
+
+### 30
+
+De conformidad con el libro de Física, ¿cómo se define la rapidez instantánea de una partícula?
+
+- A. Como la magnitud de su velocidad instantánea
+- B. Como el desplazamiento dividido entre el tiempo
+- C. Como la derivada de la aceleración
+- D. Como la distancia total entre el tiempo total
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 26
+**Subtema:** velocidad y rapidez instantáneas · definición de rapidez instantánea
+
+"La rapidez instantánea de una partícula se define como la magnitud de su velocidad instantánea. Como con la rapidez promedio, la rapidez instantánea no tiene dirección asociada con ella."
+
+### 31
+
+De acuerdo con el libro de Física, una vez que se quita el adjetivo, la palabra "rapidez" significa:
+
+- A. rapidez instantánea
+- B. rapidez promedio
+- C. velocidad promedio
+- D. aceleración instantánea
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 26
+**Subtema:** velocidad y rapidez instantáneas · convención de nomenclatura (rapidez)
+
+"Como con la velocidad, se quita el adjetivo para rapidez instantánea. Rapidez significa 'rapidez instantánea'."
