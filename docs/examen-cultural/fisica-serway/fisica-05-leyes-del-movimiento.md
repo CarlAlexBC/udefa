@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **101–103**: **5.1 · Concepto de fuerza** (qué es una fuerza, fuerzas de contacto y de campo, las cuatro fuerzas fundamentales, la naturaleza vectorial de la fuerza y la bio de Newton) y **5.2 · Primera ley de Newton y marcos inerciales** (los dos enunciados de la primera ley, el marco inercial, la inercia, la definición de fuerza y Galileo).
+**EN CURSO.** Escritas las páginas impresas **101–104**: **5.1** (concepto de fuerza), **5.2** (primera ley de Newton, marcos inerciales e inercia), **5.3 · Masa** (resistencia a cambiar la velocidad; propiedad inherente y escalar; masa contra peso) y el **arranque de 5.4 · Segunda ley de Newton**.
 
-**Pendiente:** EN CURSO. Sigue **5.3 · Masa** y **5.4 · Segunda ley de Newton** (p.104) y de ahí 5.5 y 5.6, hasta la p.110.
+**Pendiente:** EN CURSO. Sigue **5.4 · Segunda ley de Newton** en la **p.105** (el enunciado F = ma) y de ahí 5.5 y 5.6, hasta la p.110.
 
 ---
 
@@ -253,3 +253,97 @@ En relación con el libro de Física, ¿por qué se modela a la Tierra como un m
 **Subtema:** primera ley de Newton · la Tierra como marco inercial
 
 "En realidad la Tierra no es un marco inercial debido a su movimiento orbital en torno al Sol y su movimiento rotacional sobre su propio eje […]. Sin embargo, estas aceleraciones son pequeñas comparadas con g y con frecuencia se pueden despreciar. Por esta razón, la Tierra es modelada como un marco inercial."
+
+---
+
+## Sub-lote 3 · Masa y arranque de la Segunda ley (p.104)
+
+### 15
+
+De acuerdo con el libro de Física, ¿qué es la masa de un objeto?
+
+- A. La propiedad que especifica cuánta resistencia muestra el objeto para cambiar su velocidad
+- B. La magnitud de la fuerza gravitacional que actúa sobre el objeto
+- C. El espacio que ocupa el objeto
+- D. La rapidez con que el objeto cambia su posición
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 104
+**Subtema:** masa · definición
+
+"La masa es la propiedad de un objeto que especifica cuánta resistencia muestra este para cambiar su velocidad […]."
+
+### 16
+
+En relación con el libro de Física, cuando sobre un objeto actúa una fuerza conocida, ¿qué relación hay entre la magnitud de su aceleración y su masa?
+
+- A. La aceleración es inversamente proporcional a la masa
+- B. La aceleración es directamente proporcional a la masa
+- C. La aceleración no depende de la masa
+- D. La aceleración es igual al cuadrado de la masa
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 104
+**Subtema:** masa · masa y aceleración
+
+"La magnitud de la aceleración de un objeto es inversamente proporcional a su masa cuando sobre él actúa una fuerza conocida."
+
+### 17
+
+De conformidad con el libro de Física, ¿cómo describe a la masa como propiedad y como cantidad?
+
+- A. Es una propiedad inherente del objeto, independiente de su entorno, y una cantidad escalar que obedece la aritmética ordinaria
+- B. Es una propiedad que cambia con la posición del objeto y una cantidad vectorial
+- C. Es una fuerza que depende del lugar donde se mida
+- D. Es una cantidad vectorial, con dirección y sentido
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 104
+**Subtema:** masa · propiedad inherente y escalar
+
+"La masa es una propiedad inherente de un objeto y es independiente del entorno del objeto y del método que se aplica para medirla. Además, la masa es una cantidad escalar que obedece las reglas de la aritmética ordinaria."
+
+### 18
+
+De acuerdo con el libro de Física, ¿a qué es igual el peso de un objeto?
+
+- A. A la magnitud de la fuerza gravitacional ejercida sobre el objeto, y varía con la posición
+- B. A la cantidad de materia del objeto, que es la misma dondequiera
+- C. A la resistencia del objeto a cambiar su velocidad
+- D. Al producto de la masa por la rapidez del objeto
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 104
+**Subtema:** masa · masa y peso
+
+"El peso de un objeto es igual a la magnitud de la fuerza gravitacional ejercida sobre el objeto y varía con la posición."
+
+### 19
+
+En relación con el libro de Física, un objeto que tiene una masa de 2 kg en la Tierra, ¿qué masa tiene en la Luna?
+
+- A. 2 kg, porque la masa es la misma dondequiera
+- B. Aproximadamente 0.33 kg
+- C. 12 kg
+- D. Cero, porque en la Luna no hay gravedad suficiente
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 104
+**Subtema:** masa · la masa no cambia con el lugar
+
+"La masa de un objeto es la misma dondequiera: un objeto que tiene una masa de 2 kg en la Tierra también tiene una masa de 2 kg en la Luna."
+
+### 20
+
+De conformidad con el libro de Física, ¿qué pregunta responde la segunda ley de Newton?
+
+- A. Qué le ocurre a un objeto que tiene una o más fuerzas que actúan sobre él
+- B. Qué le sucede a un objeto cuando sobre él no actúan fuerzas
+- C. Por qué a toda acción corresponde una reacción igual y opuesta
+- D. Cómo se atraen gravitacionalmente dos masas
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 104
+**Subtema:** segunda ley de Newton · qué responde
+
+"La segunda ley de Newton responde la pregunta de qué le ocurre a un objeto que tiene una o más fuerzas que actúan sobre él."
