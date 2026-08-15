@@ -60,8 +60,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **84**: el arranque del **3.2** con el **3.2.1 Las zonas térmicas** — las **cinco zonas** que delimitan los trópicos y círculos polares, la **zona tórrida o cálida** (ubicación, sus otros nombres, el calor casi todo el año, la Meseta de Anáhuac como ejemplo de descenso por altitud, y que es la más lluviosa de todas) y las **dos zonas templadas** (ubicación en cada hemisferio, las estaciones del año, y por qué en ellas vive más de la mitad de la población mundial). **La mitad superior de la página no lleva reactivos:** es el espacio en blanco del ejercicio de la p.83 (el mapa y la ficha de situación geográfica). Las **zonas frías o glaciales** arrancan al pie de la página pero la frase queda **cortada a media línea**, así que se trabajan enteras en la p.85. La Figura 3.10 es ilustración.
 - Cubierta la página impresa **85**: las **zonas frías o glaciales** completas — su localización dentro de cada círculo polar, el clima muy frío y seco con el ligero ascenso del verano, el suelo permanentemente helado con su deshielo superficial, las lluvias escasas frente a las heladas y nevadas abundantes, y por qué están casi deshabitadas. **Con esto queda cerrado el 3.2.1 Las zonas térmicas.** La Figura 3.11 (paisajes típicos) es ilustración. **La mitad inferior de la página es un ejercicio** de relacionar columnas y no lleva reactivos por norma.
 - Cubierta la página impresa **86**: el arranque del **3.2.2 Las estaciones del año** — la **causa y alternancia** (el eje de rotación que no es perpendicular a la eclíptica sino que forma 23°27' con ella, el desplazamiento aparente del Sol entre los 23°27' de cada hemisferio a razón de **1° cada 4 días**, la excentricidad de la órbita como causa de la desigual duración, y los primeros días de enero con la Tierra cerca del Sol, el invierno boreal más corto y el promedio de temperatura ligeramente superior del Hemisferio Boreal); el arranque del **proceso de las estaciones** en el Hemisferio Boreal (la **primavera** del 21 de marzo al 21 de junio, con el Sol cruzando el Ecuador y llegando después al Trópico de Cáncer, y el **verano** como estación más larga, que termina con el equinoccio de otoño del 23 de septiembre); y el **Cuadro 3.1** (la alternancia entre hemisferios y las cuatro duraciones). El **otoño** y el **invierno** quedan para la p.87. La Figura 3.12 es ilustración. **Las cuatro duraciones del Cuadro 3.1 se verificaron con `crop.py` a 600 dpi** antes de fijarlas: 92 días 21 horas, 93 días 14 horas, 89 días 19 horas y 89 días.
+- Cubierta la página impresa **87**: el cierre del **3.2.2** — el **otoño** (del equinoccio de otoño al solsticio de invierno del 22 de diciembre, con el Sol llegando al Trópico de Capricornio) y el **invierno** (la más corta del Hemisferio Boreal, que termina con el equinoccio de primavera del 21 de marzo, cuando el Sol llega al Ecuador y comienza un nuevo año solar); y el apartado **"Causas de las variaciones estacionales de luz y calor"** completo (las dos causas: la inclinación de los rayos solares —casi verticales en primavera y verano, inclinados en otoño e invierno— y la diferente duración del día y la noche, con la diferencia mínima en las regiones ecuatoriales, de varias horas en las intermedias y de **6 meses de luz y 6 de obscuridad casi total** en los polos; más el inciso b), donde el acercamiento o alejamiento al Sol —**apenas el 3.34%** de su distancia media— casi no influye). **Con esto queda cerrado el 3.2.2 Las estaciones del año.** **El 3.34% y las fechas del 1 al 3 de enero y del 1 al 4 de julio se verificaron con `crop.py` a 600 dpi.** **La mitad inferior de la página es un bloque de ejercicios** ("Resuelve ahora las siguientes cuestiones", con la relación de columnas y la ilustración de las cuatro estaciones) y no lleva reactivos por norma.
 
-**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2**, del que ya están cerrados el **3.2.1 Las zonas térmicas** (pp. 84–85) y la primera mitad del **3.2.2 Las estaciones del año** (p.86): sigue desde la **p.87** con el otoño y el invierno y, después, los husos horarios. Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
+**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2**, del que ya están cerrados el **3.2.1 Las zonas térmicas** (pp. 84–85) y el **3.2.2 Las estaciones del año** (pp. 86–87): sigue desde la **p.88** con los husos horarios, que es lo último que le falta al tema. Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
 
 ---
 
@@ -2078,4 +2079,229 @@ En relación con el libro de Geografía, según el Cuadro 3.1, ¿cuánto dura el
 **Subtema:** estaciones del año · Cuadro 3.1
 
 "21 de Jun. - 23 de Sept. | Verano | Invierno | 93 días 14 horas."
+
+### 130
+
+De acuerdo con el libro de Geografía, ¿con qué comienza y con qué termina el otoño?
+
+- A. Comienza con el equinoccio de otoño y termina con el solsticio de invierno (22 de diciembre)
+- B. Comienza con el solsticio de invierno y termina con el equinoccio de primavera (21 de marzo)
+- C. Comienza con el equinoccio de otoño y termina con el equinoccio de primavera (21 de marzo)
+- D. Comienza con el solsticio de verano y termina con el equinoccio de otoño (23 de septiembre)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · otoño
+
+"Otoño. Comienza con el equinoccio de otoño y termina con el solsticio de invierno (22 de diciembre)."
+
+### 131
+
+De conformidad con el libro de Geografía, el 22 de diciembre, ¿a dónde llega el Sol?
+
+- A. Al Trópico de Capricornio, localizado a 23°27' del Hemisferio Meridional, en su movimiento aparente hacia el sur
+- B. Al Trópico de Cáncer, localizado a 23°27' del Hemisferio Boreal, en su movimiento aparente hacia el norte
+- C. Al Ecuador, en su movimiento aparente hacia el sur
+- D. Al Círculo Polar Antártico, localizado a 66°33' del Hemisferio Meridional
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · solsticio de invierno
+
+"En esta fecha el Sol, en su movimiento aparente hacia el sur, llega al Trópico de Capricornio, localizado a 23°27' del Hemisferio Meridional."
+
+### 132
+
+En relación con el libro de Geografía, ¿cuál es la más corta de las estaciones del Hemisferio Boreal?
+
+- A. El invierno
+- B. El otoño
+- C. La primavera
+- D. El verano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · invierno
+
+"Invierno. Es la más corta de las estaciones del Hemisferio Boreal."
+
+### 133
+
+De acuerdo con el libro de Geografía, ¿con qué comienza y con qué termina el invierno?
+
+- A. Comienza con el solsticio de invierno y termina con el equinoccio de primavera (21 de marzo)
+- B. Comienza con el equinoccio de otoño y termina con el solsticio de invierno (22 de diciembre)
+- C. Comienza con el solsticio de invierno y termina con el equinoccio de otoño (23 de septiembre)
+- D. Comienza con el equinoccio de primavera y termina con el solsticio de verano (21 de junio)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · límites del invierno
+
+"Comienza con el solsticio de invierno y termina con el equinoccio de primavera (21 de marzo)."
+
+### 134
+
+De conformidad con el libro de Geografía, el 21 de marzo, ¿qué ocurre?
+
+- A. El Sol llega al Ecuador y comienza un nuevo año solar
+- B. El Sol llega al Trópico de Cáncer y comienza un nuevo año solar
+- C. El Sol llega al Trópico de Capricornio y termina el año solar
+- D. El Sol llega al Ecuador y comienza el verano boreal
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · nuevo año solar
+
+"En esta fecha el Sol llega al Ecuador y comienza un nuevo año solar."
+
+### 135
+
+En relación con el libro de Geografía, ¿cuántas son las causas de las variaciones estacionales de luz y calor?
+
+- A. Básicamente dos
+- B. Básicamente tres
+- C. Básicamente cuatro
+- D. Básicamente una
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · causas de las variaciones
+
+"Las causas de las variaciones estacionales de luz y calor son básicamente dos."
+
+### 136
+
+De acuerdo con el libro de Geografía, ¿cómo llegan a la Tierra los rayos solares en primavera y verano?
+
+- A. Casi verticales
+- B. Inclinados
+- C. Horizontales
+- D. Con la misma inclinación que en otoño e invierno
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · inclinación de los rayos solares
+
+"La diferente inclinación con que llegan a la Tierra los rayos solares: en primavera y verano llegan casi verticales."
+
+### 137
+
+De conformidad con el libro de Geografía, ¿cómo llegan los rayos solares en otoño e invierno?
+
+- A. Inclinados
+- B. Casi verticales
+- C. Perpendiculares al Ecuador
+- D. Paralelos a la eclíptica
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · rayos en otoño e invierno
+
+"Mientras que en otoño e invierno llegan inclinados."
+
+### 138
+
+En relación con el libro de Geografía, ¿cuál es la segunda causa de las variaciones estacionales de luz y calor?
+
+- A. La diferente duración del día y la noche
+- B. La diferente distancia de la Tierra respecto del Sol
+- C. La diferente velocidad de traslación de la Tierra
+- D. La diferente extensión de las zonas térmicas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · duración del día y la noche
+
+"La diferente duración del día y la noche."
+
+### 139
+
+De acuerdo con el libro de Geografía, ¿en qué estaciones dura más el día que la noche?
+
+- A. En primavera y verano; dura menos en otoño e invierno
+- B. En otoño e invierno; dura menos en primavera y verano
+- C. En verano e invierno; dura menos en primavera y otoño
+- D. En todas por igual, salvo en los polos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · el día y la noche por estación
+
+"Como a todos nos consta, el día dura más que la noche en primavera y verano; menos en otoño e invierno."
+
+### 140
+
+De conformidad con el libro de Geografía, ¿cuándo es más notable esa diferencia?
+
+- A. Cuanto más alejado está el lugar del Ecuador
+- B. Cuanto más cercano está el lugar al Ecuador
+- C. Cuanto más alta es la altitud del lugar
+- D. Cuanto más cerca está la Tierra del Sol
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · latitud y duración del día
+
+"La diferencia es más notable cuanto más alejado está el lugar del Ecuador."
+
+### 141
+
+En relación con el libro de Geografía, ¿cómo es esa diferencia en las regiones ecuatoriales y en las intermedias?
+
+- A. Mínima en las ecuatoriales y de varias horas en las intermedias
+- B. De varias horas en las ecuatoriales y mínima en las intermedias
+- C. Mínima en ambas
+- D. De seis meses en las ecuatoriales y mínima en las intermedias
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · regiones ecuatoriales e intermedias
+
+"Así, mientras en las regiones ecuatoriales la diferencia es mínima, en las intermedias es de varias horas."
+
+### 142
+
+De acuerdo con el libro de Geografía, ¿qué ocurre en los polos con el día y la noche?
+
+- A. Se identifican con el año, pues se presentan 6 meses de luz y 6 de obscuridad casi total
+- B. Se identifican con el mes, pues se presentan 15 días de luz y 15 de obscuridad casi total
+- C. Duran lo mismo durante todo el año
+- D. La diferencia entre ambos es de apenas varias horas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · el día y la noche en los polos
+
+"Y en los polos el día y la noche se identifican con el año, pues se presentan 6 meses de luz y 6 de obscuridad casi total."
+
+### 143
+
+De conformidad con el libro de Geografía, ¿qué proporción representa el acercamiento o alejamiento de la Tierra respecto del Sol, y qué efecto tiene?
+
+- A. Apenas el 3.34% de su distancia media, y casi no influye en las variaciones estacionales de luz y calor
+- B. Apenas el 3.34% de su distancia media, y es la causa principal de las variaciones estacionales de luz y calor
+- C. Alrededor del 23.27% de su distancia media, y casi no influye en las variaciones estacionales
+- D. Alrededor del 33.4% de su distancia media, y determina la duración de las estaciones
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · distancia al Sol
+
+"Contra lo que pudiera creerse, el acercamiento o alejamiento de la Tierra respecto del Sol (apenas el 3.34% de su distancia media) casi no influyen en las variaciones estacionales de luz y calor."
+
+### 144
+
+En relación con el libro de Geografía, ¿qué estación está comenzando en el Hemisferio Boreal cuando la Tierra está cerca del Sol y cuándo está lejos?
+
+- A. Cerca del Sol, entre el 1 y 3 de enero, está comenzando el invierno; lejos, entre el 1 y 4 de julio, está comenzando el verano
+- B. Cerca del Sol, entre el 1 y 3 de enero, está comenzando el verano; lejos, entre el 1 y 4 de julio, está comenzando el invierno
+- C. Cerca del Sol, entre el 1 y 3 de julio, está comenzando el invierno; lejos, entre el 1 y 4 de enero, está comenzando el verano
+- D. Cerca del Sol, entre el 1 y 3 de enero, está comenzando la primavera; lejos, entre el 1 y 4 de julio, está comenzando el otoño
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 87
+**Subtema:** estaciones del año · cercanía al Sol y estaciones
+
+"Así, cuando la Tierra está cerca del Sol, entre el 1 y 3 de enero, en el Hemisferio Boreal está comenzando el invierno; por lo contrario, cuando está lejos, entre el 1 y 4 de julio, está comenzando el verano."
 
