@@ -28,9 +28,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **53–54**: **3.1 · Sistemas coordenados** (cartesianas/rectangulares, polares planas r y θ, y las conversiones x = r cos θ, y = r sen θ, tan θ = y/x, r = √(x² + y²) = teorema de Pitágoras) y **3.2 · Cantidades vectoriales y escalares** en sus definiciones (escalar = valor único sin dirección; vector = magnitud más dirección; ejemplos de escalares; el desplazamiento como flecha). La portada (p.52) es intro narrativa y el Ejemplo 3.1 (p.54) es ejemplo resuelto: no aportan reactivos.
+**EN CURSO.** Escritas las páginas impresas **53–55**: **3.1** COMPLETO, **3.2 · Cantidades vectoriales y escalares** COMPLETO (escalar, vector, la magnitud siempre positiva, el desplazamiento independiente de la trayectoria, notación A⃗ y |A⃗|) y el arranque de **3.3 · Aritmética vectorial básica** (vectores iguales, traslación paralela, suma gráfica, vector resultante, método del polígono, y la advertencia de que la suma vectorial no es la suma escalar). La portada (p.52) y el Ejemplo 3.1 (p.54) no aportan reactivos.
 
-**Pendiente:** EN CURSO. Sigue el resto de **3.2** (p.55), luego **3.3 · Aritmética vectorial básica** y **3.4 · Componentes de un vector y vectores unitarios**.
+**Pendiente:** EN CURSO. Sigue el resto de **3.3** (p.56: resta de vectores, multiplicación por un escalar, leyes conmutativa y asociativa) y luego **3.4 · Componentes de un vector y vectores unitarios**.
 
 ---
 
@@ -217,3 +217,125 @@ De conformidad con el libro de Física, ¿cómo se representa el desplazamiento 
 **Subtema:** cantidades vectoriales y escalares · representación del desplazamiento
 
 "Tal desplazamiento se representa con el dibujo de una flecha de A a B, en el que la punta de la flecha apunta lejos del punto de partida."
+
+## Sub-lote 3 · Magnitud, vectores iguales y suma gráfica (p.55)
+
+### 13
+
+De acuerdo con el libro de Física, ¿qué signo tiene siempre la magnitud de un vector?
+
+- A. Siempre es un número positivo
+- B. Siempre es un número negativo
+- C. Puede ser positivo o negativo
+- D. Siempre es cero
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 55
+**Subtema:** aritmética vectorial · magnitud de un vector
+
+"La magnitud de un vector siempre es un número positivo."
+
+### 14
+
+En relación con el libro de Física, ¿de qué depende el vector desplazamiento de una partícula?
+
+- A. Solo de las posiciones inicial y final; es independiente de la trayectoria que toma la partícula entre esos dos puntos
+- B. De la trayectoria completa que recorre la partícula
+- C. De la rapidez con que se mueve la partícula
+- D. Del tiempo total del recorrido
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 55
+**Subtema:** aritmética vectorial · el desplazamiento es independiente de la trayectoria
+
+"El desplazamiento solo depende de las posiciones inicial y final, de modo que el vector desplazamiento es independiente de la trayectoria que toma la partícula entre estos dos puntos."
+
+### 15
+
+De conformidad con el libro de Física, ¿cómo se escribe la magnitud del vector A⃗?
+
+- A. A o |A⃗|
+- B. Sólo con una flecha sobre la letra
+- C. Siempre entre paréntesis
+- D. Como una letra en negrita
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 55
+**Subtema:** aritmética vectorial · notación de la magnitud
+
+"La magnitud del vector A⃗ se escribe A o |A⃗|."
+
+### 16
+
+De acuerdo con el libro de Física, ¿cuándo se definen como iguales dos vectores A⃗ y B⃗?
+
+- A. Si tienen la misma magnitud y apuntan en la misma dirección
+- B. Si tienen el mismo punto de inicio
+- C. Si tienen la misma magnitud, aunque apunten en direcciones distintas
+- D. Si son perpendiculares entre sí
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 55
+**Subtema:** aritmética vectorial · vectores iguales
+
+"Dos vectores A⃗ y B⃗ se definen como iguales si tienen la misma magnitud y si apuntan en la misma dirección."
+
+### 17
+
+En relación con el libro de Física, en un diagrama, ¿qué se puede hacer con un vector sin afectarlo?
+
+- A. Moverlo a una posición paralela a sí mismo
+- B. Cambiar su magnitud a conveniencia
+- C. Girarlo cualquier ángulo
+- D. Invertir su dirección
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 55
+**Subtema:** aritmética vectorial · traslación de un vector
+
+"Dicha propiedad permite mover, en un diagrama, un vector a una posición paralela a sí mismo sin afectarlo."
+
+### 18
+
+De conformidad con el libro de Física, al sumar B⃗ al vector A⃗ por el método gráfico, ¿cómo se obtiene el vector resultante R⃗ = A⃗ + B⃗?
+
+- A. Es el vector que se dibuja desde el origen de A⃗ a la punta de B⃗
+- B. Es el vector que va de la punta de B⃗ al origen de A⃗
+- C. Es la diferencia de sus magnitudes
+- D. Es el vector perpendicular a A⃗ y B⃗
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 55
+**Subtema:** aritmética vectorial · vector resultante
+
+"El vector resultante R⃗ = A⃗ + B⃗ es el vector que se dibuja desde el origen de A⃗ a la punta de B⃗."
+
+### 19
+
+De acuerdo con el libro de Física, la técnica para sumar varios vectores en la que la resultante es el vector que completa el polígono se llama:
+
+- A. método del polígono
+- B. método de las componentes
+- C. regla de la mano derecha
+- D. método de los mínimos cuadrados
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 55
+**Subtema:** aritmética vectorial · método del polígono
+
+"R⃗ es el vector dibujado desde el origen del primer vector a la punta del último vector. Esta técnica para sumar vectores con frecuencia se llama 'método del polígono'."
+
+### 20
+
+En relación con el libro de Física, ¿en qué se diferencia la suma vectorial de la suma escalar (algebraica)?
+
+- A. La suma vectorial se debe manejar con cuidado, con un método gráfico, mientras que la suma escalar es una simple suma algebraica de números que se maneja con las reglas normales de aritmética
+- B. No hay diferencia: ambas se manejan igual
+- C. La suma vectorial se maneja con las reglas normales de aritmética
+- D. La suma escalar requiere un método gráfico
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 55
+**Subtema:** aritmética vectorial · suma vectorial frente a suma escalar (prevención de riesgos ocultos 3.1)
+
+"La primera ecuación es una suma vectorial, que se debe manejar con cuidado, con un método gráfico. La segunda ecuación es una simple suma algebraica de números que se manejan con las reglas normales de aritmética."
