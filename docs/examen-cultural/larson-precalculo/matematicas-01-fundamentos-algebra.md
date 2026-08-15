@@ -76,7 +76,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 - Cubiertas las páginas impresas **52 y 53**: las *ecuaciones racionales* (multiplicar por el MCD), el `COMENTARIO` de la multiplicación cruzada, la *solución extraña*, y las *Ecuaciones cuadráticas* con el recuadro *Resolución de una ecuación cuadrática* completo (los cuatro métodos: factorización con la propiedad de factor cero, extracción de raíces cuadradas con el principio de raíz cuadrada, completación del cuadrado y fórmula cuadrática). Los `EJEMPLO 2` y `EJEMPLO 3` no llevan reactivos.
 
-**Pendiente:** EN CURSO. El **1.3 y el 1.4 están CERRADOS** y el **1.6 va en curso**: sigue desde la página impresa **54**. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+- Cubiertas las páginas impresas **54, 55 y 57**: los párrafos de regla que acompañan a los ejemplos —a qué ecuaciones se aplica la propiedad de factor cero y que hay que reunir los términos en un miembro antes de factorizar (p. 54); por qué se suma (b/2)² a cada miembro y qué hacer cuando el coeficiente principal no es 1 (p. 55)— y las *Ecuaciones polinomiales de grado superior* con su `COMENTARIO` (p. 57). La **p. 56** es íntegramente `EJEMPLO 8` y `EJEMPLO 9`, así que no lleva reactivos.
+
+**Pendiente:** EN CURSO. El **1.3 y el 1.4 están CERRADOS** y el **1.6 va en curso**: sigue desde la página impresa **58**, con las *Ecuaciones radicales*, las *de valor absoluto* (p. 59) y las *Fórmulas comunes* (p. 60), con lo que se cierra el subtema. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -3177,5 +3179,145 @@ En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿con 
 **Subtema:** resolución de ecuaciones · métodos de resolución
 
 Es posible resolver todas las ecuaciones cuadráticas completando el cuadrado o usando la fórmula cuadrática.
+
+---
+
+## Sub-lote 21 · Condiciones del factor cero y de la completación del cuadrado (1.6, pp. 54–55)
+
+### 181
+
+De acuerdo con el libro de Matemáticas, ¿a qué ecuaciones se aplica la propiedad de factor cero?
+
+- A. Sólo a las escritas en forma general, en la que el miembro derecho es igual a cero
+- B. A cualquier ecuación cuadrática, sin importar cómo esté escrita
+- C. Sólo a las ecuaciones cuyo coeficiente principal es 1
+- D. Sólo a las ecuaciones racionales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 54
+**Subtema:** resolución de ecuaciones · propiedad de factor cero
+
+Esta propiedad se aplica sólo a ecuaciones escritas en forma general (en la que el miembro derecho de la ecuación es igual a cero).
+
+---
+
+### 182
+
+De conformidad con el libro de Matemáticas, ¿qué debe hacerse con los términos antes de factorizar?
+
+- A. Reunirlos todos en un miembro
+- B. Repartirlos por igual entre los dos miembros
+- C. Dividirlos entre el coeficiente principal
+- D. Ordenarlos en potencias ascendentes
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 54
+**Subtema:** resolución de ecuaciones · propiedad de factor cero
+
+Así, reúna todos los términos en un miembro antes de factorizar.
+
+---
+
+### 183
+
+En relación con el libro de Matemáticas, al resolver una ecuación cuadrática completando el cuadrado, ¿con qué fin debe sumarse (b/2)² a cada miembro?
+
+- A. A fin de mantener la igualdad
+- B. A fin de eliminar el término constante
+- C. A fin de reducir el grado de la ecuación
+- D. A fin de evitar las soluciones extrañas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 55
+**Subtema:** resolución de ecuaciones · completación del cuadrado
+
+Cuando resuelve ecuaciones cuadráticas completando el cuadrado, debe sumar (b/2)² a cada miembro, a fin de mantener la igualdad.
+
+---
+
+### 184
+
+De acuerdo con el libro de Matemáticas, cuando el coeficiente principal no es 1, ¿qué debe hacerse antes de completar el cuadrado?
+
+- A. Dividir cada miembro de la ecuación entre el coeficiente principal
+- B. Multiplicar cada miembro por el coeficiente principal
+- C. Restar el coeficiente principal a cada miembro
+- D. Igualar el coeficiente principal a cero
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 55
+**Subtema:** resolución de ecuaciones · completación del cuadrado
+
+Cuando el coeficiente principal no es 1, divida cada miembro de la ecuación entre el coeficiente principal antes de completar el cuadrado.
+
+---
+
+## Sub-lote 22 · Ecuaciones polinomiales de grado superior (1.6, p. 57)
+
+### 185
+
+De conformidad con el libro de Matemáticas, ¿qué método puede extenderse para resolver ecuaciones polinomiales de grados superiores?
+
+- A. El usado para resolver ecuaciones cuadráticas
+- B. El usado para resolver ecuaciones racionales
+- C. El usado para racionalizar denominadores
+- D. El usado para resolver ecuaciones de valor absoluto
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 57
+**Subtema:** resolución de ecuaciones · ecuaciones polinomiales de grado superior
+
+A veces, el método usado para resolver ecuaciones cuadráticas puede extenderse para resolver ecuaciones polinomiales de grados superiores.
+
+---
+
+### 186
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cuál es un error común al resolver una ecuación polinomial?
+
+- A. Dividir cada miembro de la ecuación entre el factor variable
+- B. Escribir la ecuación en forma general antes de factorizar
+- C. Igualar cada factor a cero
+- D. Comprobar las soluciones en la ecuación original
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 57
+**Subtema:** resolución de ecuaciones · ecuaciones polinomiales de grado superior
+
+Un error común al resolver una ecuación polinomial es dividir cada miembro de la ecuación entre el factor variable.
+
+---
+
+### 187
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué se pierde al dividir cada miembro entre el factor variable?
+
+- A. La solución x = 0
+- B. Todas las soluciones negativas
+- C. El coeficiente principal
+- D. El término constante
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 57
+**Subtema:** resolución de ecuaciones · ecuaciones polinomiales de grado superior
+
+Esto pierde la solución x = 0.
+
+---
+
+### 188
+
+De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cuál es el procedimiento correcto para resolver una ecuación polinomial?
+
+- A. Escribirla siempre en forma general, factorizar el polinomio e igualar cada factor a cero
+- B. Dividirla entre el factor variable y después factorizar
+- C. Completar el cuadrado y después extraer raíces
+- D. Multiplicar cada término por el mínimo común denominador
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 57
+**Subtema:** resolución de ecuaciones · ecuaciones polinomiales de grado superior
+
+Cuando resuelva una ecuación polinomial, escriba siempre la ecuación en forma general, factorice después el polinomio e iguale cada factor a cero. No divida cada miembro de una ecuación entre un factor variable en un intento de simplificar la ecuación.
 
 ---
