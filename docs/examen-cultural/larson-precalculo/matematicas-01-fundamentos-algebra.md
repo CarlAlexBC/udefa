@@ -45,19 +45,21 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 **Teoría sí, ejercicios no** (misma norma que Baldor y Zill): entran los recuadros de definiciones y de propiedades y la prosa que las explica. **No llevan reactivos** los bloques `EJEMPLO`, `Punto de repaso`, `Ejercicios`, `¿Cómo lo ve?`, `Proyecto`, `TECNOLOGÍA` ni los pies de foto que remiten a un ejercicio.
 
+**El dato olvidable tiene que ser DEL TEMA — regla de Carlo, 14 ago 2026.** Que un dato esté escondido en la página no basta para merecer un reactivo: además tiene que enseñar algo de la materia. **Quedan fuera los datos insignificantes o ajenos al tema del capítulo**, aunque sean cita textual del libro: notas de redacción o de lengua (el plural de una palabra), consejos de estudio y comentarios sobre cómo abordar un problema. Un reactivo así mide si el aspirante leyó un paréntesis, no si sabe matemáticas, y en el examen real nadie lo preguntaría. **Aplicado el 14 ago 2026:** se retiraron de este archivo tres reactivos —el plural de "índice" (p. 22) y dos del recuadro `COMENTARIO` de la p. 20 sobre cuántas maneras hay de resolver un problema y qué pasos conviene seguir—, y se renumeró de corrido. Sí entran los `COMENTARIO` que traen matemáticas de verdad (la forma fraccionaria de la propiedad 3, o que la expresión original y la simplificada deben estar definidas para los mismos valores de la variable).
+
 ## Erratas del libro — no se escriben reactivos sobre ellas
 
 - **p. 19, recuadro `TECNOLOGÍA`:** el texto dice "he aquí cómo se evaluaría **(−2)²** en una graficadora", pero enseguida imprime la secuencia de teclas `( (−) 2 ) ^ 4 ENTER` y afirma que "el resultado exhibido será 16". Con exponente 2 el resultado sería 4: el enunciado debía decir **(−2)⁴**. Verificado sobre la hoja renderizada, no es suciedad de la extracción. El recuadro `TECNOLOGÍA` de todos modos queda fuera por norma.
-- **p. 21, arranque de "Notación científica":** el libro dice que "hay alrededor de **1 385 miles de millones** de litros de agua en la Tierra, es decir **1 385 seguido por 18 ceros**". Las dos cifras no coinciden: 1 385 miles de millones es 1 385 seguido de **9** ceros. La que cuadra con los 18 ceros es la que el propio libro escribe enseguida, **1.385 × 10²¹**, así que el desliz está en el nombre del número (se perdió un "miles de millones" al traducir). **No se escribe ningún reactivo que empareje las dos cifras**; el reactivo 26 pregunta sólo por la notación científica, que sí es consistente.
+- **p. 21, arranque de "Notación científica":** el libro dice que "hay alrededor de **1 385 miles de millones** de litros de agua en la Tierra, es decir **1 385 seguido por 18 ceros**". Las dos cifras no coinciden: 1 385 miles de millones es 1 385 seguido de **9** ceros. La que cuadra con los 18 ceros es la que el propio libro escribe enseguida, **1.385 × 10²¹**, así que el desliz está en el nombre del número (se perdió un "miles de millones" al traducir). **No se escribe ningún reactivo que empareje las dos cifras**; el reactivo 24 pregunta sólo por la notación científica, que sí es consistente.
 
 ## Cobertura actual
 
 **EN CURSO.** Escritas las páginas impresas **18 a 22** de **1.3 · Exponentes y radicales**:
 
 - Cubierta la página impresa **18**: la multiplicación repetida en forma exponencial, el recuadro *Notación exponencial* y el recuadro *Propiedades de los exponentes* con sus ocho propiedades. Los objetivos de la sección y el pie de foto que remite al ejercicio 69 no llevan reactivos.
-- Cubiertas las páginas impresas **19 y 20**: el alcance de las propiedades a todos los enteros, la distinción entre `(−2)⁴` y `−2⁴`, y el recuadro *COMENTARIO* con la forma fraccionaria de la propiedad 3. Los `EJEMPLO 1` a `EJEMPLO 4`, los `Punto de repaso` y el recuadro `TECNOLOGÍA` no llevan reactivos por norma.
+- Cubiertas las páginas impresas **19 y 20**: el alcance de las propiedades a todos los enteros, la distinción entre `(−2)⁴` y `−2⁴`, y del recuadro *COMENTARIO* **sólo la forma fraccionaria de la propiedad 3** (su consejo de estudio queda fuera por la regla del dato del tema). Los `EJEMPLO 1` a `EJEMPLO 4`, los `Punto de repaso` y el recuadro `TECNOLOGÍA` no llevan reactivos por norma.
 - Cubierta la página impresa **21**: el apartado *Notación científica* completo (la forma `±c × 10ⁿ`, lo que indican el exponente positivo y el negativo, y la masa del electrón). Los `EJEMPLO 5` a `EJEMPLO 7` y el `TECNOLOGÍA` de las calculadoras no llevan reactivos.
-- Cubierta la página impresa **22**: el apartado *Radicales y sus propiedades* —raíz cuadrada y cúbica, el recuadro *Definición de la raíz enésima de un número*, el recuadro *Principal raíz enésima de un número* (índice, radicando, plural de índice) y el malentendido del signo de raíz cuadrada—. El `EJEMPLO 8` no lleva reactivos.
+- Cubierta la página impresa **22**: el apartado *Radicales y sus propiedades* —raíz cuadrada y cúbica, el recuadro *Definición de la raíz enésima de un número*, el recuadro *Principal raíz enésima de un número* (índice y radicando; **el plural de "índice" queda fuera** por la regla del dato del tema) y el malentendido del signo de raíz cuadrada—. El `EJEMPLO 8` no lleva reactivos.
 - Cubierta la página impresa **23**: la tabla *Generalizaciones sobre raíces enésimas de números reales* (sus cuatro casos), los cuadrados y cubos perfectos, y el recuadro *Propiedades de los radicales* con sus seis propiedades y el uso común de la 6. El `EJEMPLO 9` no lleva reactivos.
 - Cubierta la página impresa **24**: *Simplificación de expresiones radicales* (las tres condiciones de la forma más simple, la racionalización del denominador y cómo se factoriza el radicando), la combinación de radicales iguales y el recuadro *COMENTARIO*. Los `EJEMPLO 10` y `EJEMPLO 11` no llevan reactivos.
 
@@ -411,41 +413,7 @@ Así, (−2)⁴ = 16 y −2⁴ = −16.
 
 ### 21
 
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cuántas maneras suele haber en álgebra de resolver un problema?
-
-- A. Raramente hay sólo una manera de resolverlo
-- B. Siempre hay una sola manera de resolverlo
-- C. Siempre hay exactamente dos maneras de resolverlo
-- D. Nunca hay más de tres maneras de resolverlo
-
-**Respuesta:** A
-**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 20
-**Subtema:** exponentes y radicales · maneras de resolver
-
-Raramente en álgebra hay sólo una manera de resolver un problema.
-
----
-
-### 22
-
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué pasos es importante seguir al resolver un problema?
-
-- A. Pasos que uno comprenda y que se justifiquen con las reglas del álgebra
-- B. Pasos exactamente iguales a los presentados en el texto
-- C. Pasos que lleven al resultado en el menor número de operaciones
-- D. Pasos que puedan comprobarse con una calculadora
-
-**Respuesta:** A
-**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 20
-**Subtema:** exponentes y radicales · maneras de resolver
-
-Es importante seguir pasos que usted comprenda y, desde luego, pasos que se justifiquen con las reglas del álgebra.
-
----
-
-### 23
-
-De conformidad con el libro de Matemáticas, ¿cuál es la forma fraccionaria de la propiedad 3 de los exponentes?
+En relación con el libro de Matemáticas, ¿cuál es la forma fraccionaria de la propiedad 3 de los exponentes?
 
 - A. (a/b)⁻ᵐ = (b/a)ᵐ
 - B. (a/b)⁻ᵐ = (a/b)ᵐ
@@ -462,9 +430,9 @@ Por ejemplo, la forma fraccionaria de la propiedad 3 es: (a/b)⁻ᵐ = (b/a)ᵐ.
 
 ## Sub-lote 3 · Notación científica (1.3, p. 21)
 
-### 24
+### 22
 
-En relación con el libro de Matemáticas, ¿qué brindan los exponentes?
+De acuerdo con el libro de Matemáticas, ¿qué brindan los exponentes?
 
 - A. Una forma eficiente de escribir y calcular con números muy grandes o muy pequeños
 - B. Una forma abreviada de escribir sumas muy largas
@@ -479,9 +447,9 @@ Los exponentes brindan una forma eficiente de escribir y calcular con números m
 
 ---
 
-### 25
+### 23
 
-De acuerdo con el libro de Matemáticas, ¿qué forma tiene la notación científica?
+De conformidad con el libro de Matemáticas, ¿qué forma tiene la notación científica?
 
 - A. ±c × 10ⁿ
 - B. ±c × nⁿ
@@ -496,9 +464,9 @@ Esta notación tiene la forma ±c × 10ⁿ, donde 1 ≤ c < 10 y n es un entero.
 
 ---
 
-### 26
+### 24
 
-De conformidad con el libro de Matemáticas, ¿cómo se escribe en notación científica el número de litros de agua que hay en la Tierra?
+En relación con el libro de Matemáticas, ¿cómo se escribe en notación científica el número de litros de agua que hay en la Tierra?
 
 - A. 1.385 × 10²¹
 - B. 1.385 × 10¹⁸
@@ -513,9 +481,9 @@ El número de litros de agua en la Tierra, escrito en notación científica, es:
 
 ---
 
-### 27
+### 25
 
-En relación con el libro de Matemáticas, en la notación científica ±c × 10ⁿ, ¿entre qué valores debe estar c?
+De acuerdo con el libro de Matemáticas, en la notación científica ±c × 10ⁿ, ¿entre qué valores debe estar c?
 
 - A. 1 ≤ c < 10
 - B. 0 < c ≤ 1
@@ -530,9 +498,9 @@ Esta notación tiene la forma ±c × 10ⁿ, donde 1 ≤ c < 10 y n es un entero.
 
 ---
 
-### 28
+### 26
 
-De acuerdo con el libro de Matemáticas, en la notación científica ±c × 10ⁿ, ¿qué debe ser n?
+De conformidad con el libro de Matemáticas, en la notación científica ±c × 10ⁿ, ¿qué debe ser n?
 
 - A. Un entero
 - B. Un entero positivo
@@ -547,9 +515,9 @@ Esta notación tiene la forma ±c × 10ⁿ, donde 1 ≤ c < 10 y n es un entero.
 
 ---
 
-### 29
+### 27
 
-De conformidad con el libro de Matemáticas, en notación científica, ¿qué indica un exponente positivo?
+En relación con el libro de Matemáticas, en notación científica, ¿qué indica un exponente positivo?
 
 - A. Que el número es grande, de 10 o más
 - B. Que el número es pequeño, menor que 1
@@ -564,9 +532,9 @@ El exponente positivo 21 indica que el número es grande (de 10 o más) y que el
 
 ---
 
-### 30
+### 28
 
-En relación con el libro de Matemáticas, en notación científica, ¿qué indica un exponente negativo?
+De acuerdo con el libro de Matemáticas, en notación científica, ¿qué indica un exponente negativo?
 
 - A. Que el número es pequeño, menor que 1
 - B. Que el número es grande, de 10 o más
@@ -581,9 +549,9 @@ Un exponente negativo indica que el número es pequeño (menor que 1).
 
 ---
 
-### 31
+### 29
 
-De acuerdo con el libro de Matemáticas, ¿cuál es aproximadamente la masa de un electrón, en gramos?
+De conformidad con el libro de Matemáticas, ¿cuál es aproximadamente la masa de un electrón, en gramos?
 
 - A. 9.1 × 10⁻²⁸
 - B. 9.1 × 10⁻²¹
@@ -598,9 +566,9 @@ Por ejemplo, la masa (en gramos) de un electrón es aproximadamente: 9.1 × 10�
 
 ---
 
-### 32
+### 30
 
-De conformidad con el libro de Matemáticas, al escribir en forma decimal la masa de un electrón, ¿cuántos lugares decimales se recorren?
+En relación con el libro de Matemáticas, al escribir en forma decimal la masa de un electrón, ¿cuántos lugares decimales se recorren?
 
 - A. 28 lugares decimales
 - B. 21 lugares decimales
@@ -617,9 +585,9 @@ De conformidad con el libro de Matemáticas, al escribir en forma decimal la mas
 
 ## Sub-lote 4 · Radicales y sus propiedades (1.3, p. 22)
 
-### 33
+### 31
 
-En relación con el libro de Matemáticas, ¿qué es la raíz cuadrada de un número?
+De acuerdo con el libro de Matemáticas, ¿qué es la raíz cuadrada de un número?
 
 - A. Uno de sus dos factores iguales
 - B. Uno de sus tres factores iguales
@@ -634,9 +602,9 @@ La raíz cuadrada de un número es uno de sus dos factores iguales.
 
 ---
 
-### 34
+### 32
 
-De acuerdo con el libro de Matemáticas, ¿por qué 5 es una raíz cuadrada de 25?
+De conformidad con el libro de Matemáticas, ¿por qué 5 es una raíz cuadrada de 25?
 
 - A. Porque 5 es uno de los dos factores iguales de 25
 - B. Porque 5 es uno de los tres factores iguales de 25
@@ -651,9 +619,9 @@ Por ejemplo, 5 es una raíz cuadrada de 25, porque 5 es uno de los dos factores 
 
 ---
 
-### 35
+### 33
 
-De conformidad con el libro de Matemáticas, ¿qué es una raíz cúbica de un número?
+En relación con el libro de Matemáticas, ¿qué es una raíz cúbica de un número?
 
 - A. Uno de sus tres factores iguales
 - B. Uno de sus dos factores iguales
@@ -668,9 +636,9 @@ En forma similar, una raíz cúbica de un número es uno de sus tres factores ig
 
 ---
 
-### 36
+### 34
 
-En relación con el libro de Matemáticas, en la definición de la raíz enésima de un número, ¿qué debe cumplir n?
+De acuerdo con el libro de Matemáticas, en la definición de la raíz enésima de un número, ¿qué debe cumplir n?
 
 - A. Ser un entero positivo mayor o igual que 2
 - B. Ser un entero positivo mayor o igual que 1
@@ -685,9 +653,9 @@ Sean a y b números reales y sea n ≥ 2 un entero positivo.
 
 ---
 
-### 37
+### 35
 
-De acuerdo con el libro de Matemáticas, si a = bⁿ, ¿qué es b?
+De conformidad con el libro de Matemáticas, si a = bⁿ, ¿qué es b?
 
 - A. Una raíz enésima de a
 - B. El radicando de a
@@ -702,9 +670,9 @@ Si a = bⁿ, entonces b es una raíz enésima de a.
 
 ---
 
-### 38
+### 36
 
-De conformidad con el libro de Matemáticas, en la definición de la raíz enésima, ¿qué nombre recibe la raíz cuando n = 2 y cuando n = 3, respectivamente?
+En relación con el libro de Matemáticas, en la definición de la raíz enésima, ¿qué nombre recibe la raíz cuando n = 2 y cuando n = 3, respectivamente?
 
 - A. Raíz cuadrada y raíz cúbica
 - B. Raíz cúbica y raíz cuadrada
@@ -719,9 +687,9 @@ Si n = 2, la raíz es una raíz cuadrada. Si n = 3, la raíz es una raíz cúbic
 
 ---
 
-### 39
+### 37
 
-En relación con el libro de Matemáticas, ¿cuáles son las dos raíces cuadradas de 25?
+De acuerdo con el libro de Matemáticas, ¿cuáles son las dos raíces cuadradas de 25?
 
 - A. Tanto 5 como −5
 - B. Tanto 5 como 1/5
@@ -736,9 +704,9 @@ Algunos números tienen más de una raíz enésima. Por ejemplo, tanto 5 como �
 
 ---
 
-### 40
+### 38
 
-De acuerdo con el libro de Matemáticas, ¿cuál es la raíz cuadrada principal de 25?
+De conformidad con el libro de Matemáticas, ¿cuál es la raíz cuadrada principal de 25?
 
 - A. La raíz positiva 5
 - B. La raíz negativa −5
@@ -753,9 +721,9 @@ La raíz cuadrada principal de 25, escrita como √25, es la raíz positiva 5.
 
 ---
 
-### 41
+### 39
 
-De conformidad con el libro de Matemáticas, ¿qué signo tiene la principal raíz enésima de a?
+En relación con el libro de Matemáticas, ¿qué signo tiene la principal raíz enésima de a?
 
 - A. El mismo signo que a
 - B. Siempre el signo positivo
@@ -770,9 +738,9 @@ La principal raíz enésima de a es la raíz enésima que tiene el mismo signo q
 
 ---
 
-### 42
+### 40
 
-En relación con el libro de Matemáticas, ¿cómo se denota la principal raíz enésima?
+De acuerdo con el libro de Matemáticas, ¿cómo se denota la principal raíz enésima?
 
 - A. Con un símbolo radical
 - B. Con un exponente negativo
@@ -787,9 +755,9 @@ Se denota con un símbolo radical.
 
 ---
 
-### 43
+### 41
 
-De acuerdo con el libro de Matemáticas, en un radical, ¿cómo se llama el entero positivo n ≥ 2?
+De conformidad con el libro de Matemáticas, en un radical, ¿cómo se llama el entero positivo n ≥ 2?
 
 - A. El índice del radical
 - B. El radicando
@@ -804,9 +772,9 @@ El entero positivo n ≥ 2 es el índice del radical y el número a es el radica
 
 ---
 
-### 44
+### 42
 
-De conformidad con el libro de Matemáticas, en un radical, ¿cómo se llama el número a?
+En relación con el libro de Matemáticas, en un radical, ¿cómo se llama el número a?
 
 - A. El radicando
 - B. El índice
@@ -821,9 +789,9 @@ El entero positivo n ≥ 2 es el índice del radical y el número a es el radica
 
 ---
 
-### 45
+### 43
 
-En relación con el libro de Matemáticas, ¿qué se hace con el índice cuando n = 2?
+De acuerdo con el libro de Matemáticas, ¿qué se hace con el índice cuando n = 2?
 
 - A. Se omite
 - B. Se escribe siempre
@@ -838,24 +806,7 @@ Cuando n = 2, omita el índice y escriba √a en lugar de ²√a.
 
 ---
 
-### 46
-
-De acuerdo con el libro de Matemáticas, ¿cuál es el plural de índice?
-
-- A. Índices
-- B. Índexes
-- C. Índice
-- D. Indicios
-
-**Respuesta:** A
-**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 22
-**Subtema:** exponentes y radicales · índice y radicando
-
-(El plural de índice es índices.)
-
----
-
-### 47
+### 44
 
 De conformidad con el libro de Matemáticas, ¿cuál es un malentendido frecuente sobre el signo de raíz cuadrada?
 
@@ -872,7 +823,7 @@ Un frecuente malentendido es que el signo de raíz cuadrada implica raíces tant
 
 ---
 
-### 48
+### 45
 
 En relación con el libro de Matemáticas, ¿qué implica realmente el signo de la raíz cuadrada?
 
@@ -889,7 +840,7 @@ El signo de la raíz cuadrada implica sólo una raíz positiva.
 
 ---
 
-### 49
+### 46
 
 De acuerdo con el libro de Matemáticas, ¿qué se debe hacer cuando se necesita una raíz negativa?
 
@@ -908,7 +859,7 @@ Cuando se necesita una raíz negativa, se debe usar el signo negativo con el sig
 
 ## Sub-lote 5 · Generalizaciones y propiedades de los radicales (1.3, p. 23)
 
-### 50
+### 47
 
 De conformidad con el libro de Matemáticas, según las generalizaciones sobre raíces enésimas, ¿qué raíces tiene un número real a mayor que cero cuando n es par?
 
@@ -925,7 +876,7 @@ Número real a: a > 0. Entero n > 0: n es par. Raíz o raíces de a: ⁿ√a, �
 
 ---
 
-### 51
+### 48
 
 En relación con el libro de Matemáticas, según las generalizaciones sobre raíces enésimas, ¿qué raíz tiene un número real a cuando n es impar?
 
@@ -942,7 +893,7 @@ Número real a: a > 0 o a < 0. Entero n > 0: n es impar. Raíz o raíces de a: �
 
 ---
 
-### 52
+### 49
 
 De acuerdo con el libro de Matemáticas, según las generalizaciones sobre raíces enésimas, ¿qué ocurre cuando a es menor que cero y n es par?
 
@@ -959,7 +910,7 @@ Número real a: a < 0. Entero n > 0: n es par. Raíz o raíces de a: ninguna ra�
 
 ---
 
-### 53
+### 50
 
 De conformidad con el libro de Matemáticas, ¿qué ejemplo da la tabla de generalizaciones para el caso en que no hay ninguna raíz real?
 
@@ -976,7 +927,7 @@ Ejemplo: √−4 no es un número real.
 
 ---
 
-### 54
+### 51
 
 En relación con el libro de Matemáticas, según las generalizaciones sobre raíces enésimas, ¿cuánto vale ⁿ√0?
 
@@ -993,7 +944,7 @@ Número real a: a = 0. Entero n > 0: n es par o impar. Raíz o raíces de a: ⁿ
 
 ---
 
-### 55
+### 52
 
 De acuerdo con el libro de Matemáticas, ¿por qué enteros como 1, 4, 9, 16, 25 y 36 son cuadrados perfectos?
 
@@ -1010,7 +961,7 @@ Enteros como 1, 4, 9, 16, 25 y 36 son cuadrados perfectos porque tienen raíces 
 
 ---
 
-### 56
+### 53
 
 De conformidad con el libro de Matemáticas, ¿qué son enteros como 1, 8, 27, 64 y 125?
 
@@ -1027,7 +978,7 @@ De igual forma, enteros como 1, 8, 27, 64 y 125 son cubos perfectos, porque tien
 
 ---
 
-### 57
+### 54
 
 En relación con el libro de Matemáticas, en el recuadro de las propiedades de los radicales, ¿qué deben ser m y n?
 
@@ -1044,7 +995,7 @@ Sean a y b números reales, variables o expresiones algebraicas, tales que las s
 
 ---
 
-### 58
+### 55
 
 De acuerdo con el libro de Matemáticas, según la propiedad 2 de los radicales, ¿a qué es igual ⁿ√a · ⁿ√b?
 
@@ -1061,7 +1012,7 @@ De acuerdo con el libro de Matemáticas, según la propiedad 2 de los radicales,
 
 ---
 
-### 59
+### 56
 
 De conformidad con el libro de Matemáticas, ¿qué condición acompaña a la propiedad 3 de los radicales?
 
@@ -1078,7 +1029,7 @@ De conformidad con el libro de Matemáticas, ¿qué condición acompaña a la pr
 
 ---
 
-### 60
+### 57
 
 En relación con el libro de Matemáticas, según la propiedad 5 de los radicales, ¿a qué es igual (ⁿ√a)ⁿ?
 
@@ -1095,7 +1046,7 @@ En relación con el libro de Matemáticas, según la propiedad 5 de los radicale
 
 ---
 
-### 61
+### 58
 
 De acuerdo con el libro de Matemáticas, según la propiedad 6 de los radicales, ¿a qué es igual ⁿ√(aⁿ) cuando n es par y cuando n es impar, respectivamente?
 
@@ -1112,7 +1063,7 @@ De acuerdo con el libro de Matemáticas, según la propiedad 6 de los radicales,
 
 ---
 
-### 62
+### 59
 
 De conformidad con el libro de Matemáticas, ¿cuál es un uso común de la propiedad 6 de los radicales?
 
@@ -1131,7 +1082,7 @@ Un uso común de la propiedad 6 es √(a²) = |a|.
 
 ## Sub-lote 6 · Simplificación y combinación de expresiones radicales (1.3, p. 24)
 
-### 63
+### 60
 
 En relación con el libro de Matemáticas, ¿cuántas condiciones debe satisfacer una expresión con radicales para estar en su forma más simple?
 
@@ -1148,7 +1099,7 @@ Una expresión que implica radicales está en su forma más simple cuando se sat
 
 ---
 
-### 64
+### 61
 
 De acuerdo con el libro de Matemáticas, ¿cuál es la primera condición para que una expresión con radicales esté en su forma más simple?
 
@@ -1165,7 +1116,7 @@ De acuerdo con el libro de Matemáticas, ¿cuál es la primera condición para q
 
 ---
 
-### 65
+### 62
 
 De conformidad con el libro de Matemáticas, ¿cuál es la segunda condición para que una expresión con radicales esté en su forma más simple?
 
@@ -1182,7 +1133,7 @@ De conformidad con el libro de Matemáticas, ¿cuál es la segunda condición pa
 
 ---
 
-### 66
+### 63
 
 En relación con el libro de Matemáticas, ¿cómo se llama el proceso que logra que las fracciones tengan denominadores sin radicales?
 
@@ -1199,7 +1150,7 @@ Todas las fracciones tienen denominadores sin radicales (un proceso llamado raci
 
 ---
 
-### 67
+### 64
 
 De acuerdo con el libro de Matemáticas, ¿cuál es la tercera condición para que una expresión con radicales esté en su forma más simple?
 
@@ -1216,7 +1167,7 @@ De acuerdo con el libro de Matemáticas, ¿cuál es la tercera condición para q
 
 ---
 
-### 68
+### 65
 
 De conformidad con el libro de Matemáticas, para simplificar un radical, ¿en qué factores se debe factorizar el radicando?
 
@@ -1233,7 +1184,7 @@ Para simplificar un radical, factorice el radicando en factores cuyos exponentes
 
 ---
 
-### 69
+### 66
 
 En relación con el libro de Matemáticas, al simplificar un radical, ¿dónde se escriben las raíces de los factores encontrados?
 
@@ -1250,7 +1201,7 @@ Escriba las raíces de estos factores afuera del radical.
 
 ---
 
-### 70
+### 67
 
 De acuerdo con el libro de Matemáticas, al simplificar un radical, ¿qué componen los factores "sobrantes"?
 
@@ -1267,7 +1218,7 @@ Los factores "sobrantes" componen el nuevo radicando.
 
 ---
 
-### 71
+### 68
 
 De conformidad con el libro de Matemáticas, ¿cuándo pueden combinarse, sumándose o restándose, las expresiones radicales?
 
@@ -1284,7 +1235,7 @@ Expresiones radicales pueden combinarse (sumarse o restarse) cuando son radicale
 
 ---
 
-### 72
+### 69
 
 En relación con el libro de Matemáticas, ¿qué tienen en común dos radicales iguales?
 
@@ -1301,7 +1252,7 @@ Es decir, cuando tienen el mismo índice y radicando.
 
 ---
 
-### 73
+### 70
 
 De acuerdo con el libro de Matemáticas, ¿qué debe hacerse para determinar si dos radicales pueden combinarse?
 
@@ -1318,7 +1269,7 @@ Para determinar si dos radicales pueden combinarse, simplifique primero cada rad
 
 ---
 
-### 74
+### 71
 
 De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué es importante cuidar cuando se simplifica un radical?
 
