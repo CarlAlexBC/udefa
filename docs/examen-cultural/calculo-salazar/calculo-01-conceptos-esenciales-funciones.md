@@ -56,6 +56,12 @@ Secciones de la Unidad 1, según el índice del libro:
 
 ## Erratas del libro
 
+- **Patrón: a este libro se le caen letras en los títulos de color.** Van dos casos
+  verificados a 600 dpi, los dos en encabezados y ninguno en el cuerpo del texto. **No
+  se escriben reactivos sobre títulos**, así que no afectan al banco, pero conviene
+  saber que el aspirante los va a ver:
+  - **p.16 — "Gráficas de funcione"**, sin la *s* final.
+  - **p.13 — "Gráficas de funciones  eales"**, sin la *r* de *reales*. Detalle abajo.
 - **p.13 — "funciones  eales" por "funciones reales", en el título del inciso a).** El
   encabezado imprime *"a) Gráficas de funciones  eales de variable real (algebraicas y
   trascendentes)"*: **falta la "r" de reales** y queda el hueco doble donde iba.
@@ -159,10 +165,22 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   **Fuera:** los ejercicios *"determina las imágenes"* y *"encuentra f (x + h) para las
   funciones siguientes"*, las dos gráficas de la pendiente y el desarrollo
   *f* (*x* + *h*) = 2(*x* + *h*) = 2*x* + 2*h*, que es el ejemplo resuelto.
+- **Las páginas impresas 15 y 16 NO dieron ningún reactivo**, y queda anotado por qué.
+  La **15** es entera práctica: dos ejemplos resueltos y dos actividades; lo único
+  conceptual que asoma (*"se sustituye (x + h) en lugar de cada x"*) **ya está en el
+  reactivo 28**. La **16** es el desarrollo largo del cociente para *f* (*x*) = 3*x*² −
+  2*x* + 5, dos actividades más, y el arranque del apartado *Gráficas de funcione[s]*,
+  que abre con un consejo de estudio (*"es muy importante que lo domines con y sin el
+  uso de la tecnología"*) — eso no es materia, cae bajo la regla del dato **del tema**.
+- Cubierta la página impresa **17**: la **definición de gráfica de una función**, por
+  qué lo que se traza es sólo una **aproximación**, qué gana uno al tomar más puntos, y
+  los **cinco pasos** del procedimiento para graficar sin tecnología. **Fuera:** el
+  *Ejemplo* de *f* (*x*) = *x*² − 2*x* − 5 con su Solución paso a paso, su tabla de
+  valores y las Figuras 1.9 y 1.10, que son el ejercicio resuelto.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.14**. Sigue desde la **p.15** con el resto del inciso **a)
-Gráficas de funciones reales de variable real** (pp. 15–24) y después los otros tres
+va cubierto hasta la **p.17**. Sigue desde la **p.18** con el resto del inciso **a)
+Gráficas de funciones reales de variable real** (pp. 18–24) y después los otros tres
 incisos: **b)** explícitas o implícitas (p.25), **c)** inyectivas, sobreyectivas y
 biyectivas (p.42) y **d)** función invertible e inversa (p.49), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
@@ -640,3 +658,131 @@ De acuerdo con el libro de Cálculo, para encontrar *f* (*x* + *h*), ¿qué se h
 "Esto quiere decir que a *x* lo sustituimos por el valor (*x* + *h*) y realizamos operaciones."
 
 > Nota de revisor: el distractor B es el error clásico —sumarle *h* al resultado en vez de sustituir dentro de la función— y por eso se deja como opción.
+
+---
+
+## Sub-lote 7 · Qué es la gráfica de una función y los cinco pasos para trazarla (1.3 a, p.17)
+
+### 29
+
+De conformidad con el libro de Cálculo, ¿qué es la gráfica de una función?
+
+- A. La representación por medio de una imagen o pintura que nos permite realizar un análisis del comportamiento que tiene
+- B. La tabla de valores que se obtiene al sustituir la variable independiente
+- C. El conjunto de todas las imágenes que produce la función
+- D. La expresión algebraica que relaciona la variable dependiente con la independiente
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 17
+**Subtema:** Gráficas de funciones reales · Definición de gráfica
+
+"La gráfica de una función es la representación por medio de una imagen o pintura que nos permite realizar un análisis del comportamiento que tiene."
+
+### 30
+
+En relación con el libro de Cálculo, ¿por qué lo que se traza es sólo una aproximación a la verdadera gráfica?
+
+- A. Porque es imposible tomar todos los valores del dominio de la función
+- B. Porque los instrumentos de trazo tienen un margen de error
+- C. Porque la escala de los ejes deforma la figura
+- D. Porque sólo pueden usarse valores positivos de la variable
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 17
+**Subtema:** Gráficas de funciones reales · Definición de gráfica
+
+"Entenderemos por gráfica de una función a una aproximación a la verdadera gráfica, esto sucede porque es imposible tomar todos los valores del dominio de la función [...]"
+
+### 31
+
+De acuerdo con el libro de Cálculo, ¿qué ocurre entre más puntos se toman?
+
+- A. Más nos acercamos a la idea de la gráfica
+- B. Más se deforma la gráfica obtenida
+- C. Menos exacta resulta la representación
+- D. Más se reduce el dominio de la función
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 17
+**Subtema:** Gráficas de funciones reales · Definición de gráfica
+
+"[...] claro que entre más puntos se toman, más nos acercamos a la idea de la gráfica."
+
+### 32
+
+De conformidad con el libro de Cálculo, en el **primer paso** para graficar sin tecnología, ¿qué valores se asignan a la variable independiente y por qué?
+
+- A. Por lo general positivos, negativos y el número cero, pues en ellos ocurren los cambios en el comportamiento de la gráfica
+- B. Únicamente valores positivos, porque son los que pueden representarse en el plano
+- C. Únicamente los valores que anulan la función, porque marcan los cortes con los ejes
+- D. Valores muy grandes, porque en ellos se aprecia mejor la tendencia
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 17
+**Subtema:** Gráficas de funciones reales · Pasos para graficar
+
+"Primer paso. Asignamos valores a la variable independiente, los cuales son por lo general positivos, negativos y el número cero (−3, −2, −1, 0, 1, 2, 3), pues en ellos ocurren los cambios en el comportamiento de la gráfica."
+
+> Nota de revisor: el **porqué** es el dato olvidable. El aspirante recuerda que se dan valores y se salta que se eligen ahí porque es donde cambia el comportamiento.
+
+### 33
+
+En relación con el libro de Cálculo, ¿qué se hace en el **segundo paso** para graficar?
+
+- A. Con estos valores obtenemos el valor numérico de la función
+- B. Formamos una tabla con los valores dados y los obtenidos
+- C. Localizamos los pares ordenados en un sistema de ejes coordenados
+- D. Unimos los puntos por medio de segmentos de recta
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 17
+**Subtema:** Gráficas de funciones reales · Pasos para graficar
+
+"Segundo paso. Con estos valores obtenemos el valor numérico de la función."
+
+### 34
+
+De acuerdo con el libro de Cálculo, ¿en qué paso se forma la tabla con los valores dados y los obtenidos?
+
+- A. En el tercer paso
+- B. En el segundo paso
+- C. En el cuarto paso
+- D. En el quinto paso
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 17
+**Subtema:** Gráficas de funciones reales · Pasos para graficar
+
+"Tercer paso. Con los valores dados y los obtenidos, formamos una tabla."
+
+### 35
+
+De conformidad con el libro de Cálculo, ¿qué se hace en el **cuarto paso** para graficar?
+
+- A. Localizamos los valores de la tabla, que son pares ordenados, en un sistema de ejes coordenados
+- B. Unimos los puntos obtenidos por medio de segmentos de recta
+- C. Asignamos valores a la variable independiente
+- D. Obtenemos el valor numérico de la función
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 17
+**Subtema:** Gráficas de funciones reales · Pasos para graficar
+
+"Cuarto paso. Localizamos estos valores (par ordenado) de la tabla en un sistema de ejes coordenados."
+
+### 36
+
+En relación con el libro de Cálculo, ¿qué se hace en el **quinto paso** para graficar?
+
+- A. Unimos estos puntos por medio de segmentos de recta
+- B. Localizamos los pares ordenados en los ejes coordenados
+- C. Formamos la tabla de valores
+- D. Comprobamos el resultado con un graficador
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 17
+**Subtema:** Gráficas de funciones reales · Pasos para graficar
+
+"Quinto paso. Unimos estos puntos por medio de segmentos de recta."
+
+> Nota de revisor: los cinco pasos van con las opciones cruzadas entre sí —cada distractor es otro paso real del mismo procedimiento—. El orden es justo lo que el examen pregunta en este tipo de listas.
