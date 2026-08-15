@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escrita la página impresa **101** (5.1 · Concepto de fuerza): qué es una fuerza según Newton, las fuerzas de contacto y de campo, las cuatro fuerzas fundamentales de la naturaleza y la nota biográfica de Newton.
+**EN CURSO.** Escritas las páginas impresas **101–103**: **5.1 · Concepto de fuerza** (qué es una fuerza, fuerzas de contacto y de campo, las cuatro fuerzas fundamentales, la naturaleza vectorial de la fuerza y la bio de Newton) y **5.2 · Primera ley de Newton y marcos inerciales** (los dos enunciados de la primera ley, el marco inercial, la inercia, la definición de fuerza y Galileo).
 
-**Pendiente:** EN CURSO. Sigue **5.2 · Primera ley de Newton y marcos inerciales** (pp. 102–103) y de ahí 5.3 a 5.6, hasta la p.110.
+**Pendiente:** EN CURSO. Sigue **5.3 · Masa** y **5.4 · Segunda ley de Newton** (p.104) y de ahí 5.5 y 5.6, hasta la p.110.
 
 ---
 
@@ -129,3 +129,127 @@ De conformidad con el libro de Física, ¿qué descubrió e inventó Isaac Newto
 **Subtema:** concepto de fuerza · Isaac Newton
 
 "Isaac Newton fue uno de los más brillantes científicos de la historia. Antes de cumplir 30 años, formuló los conceptos básicos y las leyes de la mecánica, descubrió la ley de gravitación universal e inventó los métodos matemáticos del cálculo."
+
+---
+
+## Sub-lote 2 · La naturaleza vectorial de la fuerza y la Primera ley de Newton (pp. 102–103)
+
+### 7
+
+De acuerdo con el libro de Física, ¿por qué deben aplicarse las reglas de adición vectorial para obtener la fuerza neta sobre un objeto?
+
+- A. Porque se ha comprobado experimentalmente que las fuerzas se comportan como vectores
+- B. Porque las fuerzas siempre actúan en la misma dirección
+- C. Porque la fuerza es una cantidad escalar
+- D. Porque las fuerzas se suman aritméticamente sin importar su dirección
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 102
+**Subtema:** concepto de fuerza · naturaleza vectorial
+
+"Puesto que se ha comprobado experimentalmente que las fuerzas se comportan como vectores, se deben aplicar las reglas de adición vectorial para obtener la fuerza neta en un objeto."
+
+### 8
+
+En relación con el libro de Física, ¿cuál es el enunciado teórico de la primera ley de Newton?
+
+- A. Si un objeto no interactúa con otros objetos, es posible identificar un marco de referencia en el que el objeto tiene aceleración cero
+- B. La aceleración de un objeto es directamente proporcional a la fuerza neta que actúa sobre él
+- C. A toda acción corresponde una reacción igual y opuesta
+- D. La fuerza gravitacional entre dos objetos es proporcional al producto de sus masas
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 103
+**Subtema:** primera ley de Newton · enunciado teórico
+
+"Si un objeto no interactúa con otros objetos, es posible identificar un marco de referencia en el que el objeto tiene aceleración cero."
+
+### 9
+
+De conformidad con el libro de Física, ¿qué es un marco de referencia inercial?
+
+- A. Aquel en el que un objeto que no interactúa con otros objetos tiene aceleración cero
+- B. Aquel que acelera respecto a la superficie de la Tierra
+- C. Aquel en el que todos los objetos están en reposo
+- D. Aquel que gira con velocidad angular constante
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 103
+**Subtema:** primera ley de Newton · marco inercial
+
+Al marco de referencia donde un objeto que no interactúa tiene aceleración cero se le llama marco de referencia inercial: "Cualquier marco de referencia que se mueve con velocidad constante en relación con un marco inercial es, en sí mismo, un marco inercial."
+
+### 10
+
+De acuerdo con el libro de Física, según el enunciado más práctico de la primera ley de Newton, en ausencia de fuerzas externas y visto desde un marco inercial, ¿qué le sucede a un objeto?
+
+- A. Un objeto en reposo se mantiene en reposo y un objeto en movimiento continúa en movimiento con una velocidad constante (rapidez constante en línea recta)
+- B. Todo objeto termina por detenerse, pues el reposo es su estado natural
+- C. Todo objeto acelera de forma proporcional a su masa
+- D. Un objeto en movimiento invierte su dirección periódicamente
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 103
+**Subtema:** primera ley de Newton · enunciado práctico
+
+"En ausencia de fuerzas externas, y cuando se ve desde un marco de referencia inercial, un objeto en reposo se mantiene en reposo y un objeto en movimiento continúa en movimiento con una velocidad constante (esto es, con una rapidez constante en una línea recta)."
+
+### 11
+
+En relación con el libro de Física, ¿cómo se llama la tendencia de un objeto a resistir cualquier intento por cambiar su velocidad?
+
+- A. Inercia
+- B. Fuerza
+- C. Aceleración
+- D. Cantidad de movimiento
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 103
+**Subtema:** primera ley de Newton · inercia
+
+"La tendencia de un objeto a resistir cualquier intento por cambiar su velocidad se llama *inercia*."
+
+### 12
+
+De conformidad con el libro de Física, a partir de la primera ley, ¿cómo se puede definir la fuerza?
+
+- A. Como aquello que causa un cambio en el movimiento de un objeto
+- B. Como la cantidad de materia que contiene un objeto
+- C. Como el producto de la masa por la velocidad
+- D. Como la resistencia de un cuerpo a cambiar su velocidad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 103
+**Subtema:** primera ley de Newton · definición de fuerza
+
+"De la primera ley se puede definir *fuerza* como aquello que causa un cambio en el movimiento de un objeto."
+
+### 13
+
+De acuerdo con el libro de Física, ¿quién fue el primero en considerar un planteamiento diferente del movimiento, concluyendo que la naturaleza de un objeto es resistir el cambio en su movimiento?
+
+- A. Galileo
+- B. Newton
+- C. Aristóteles
+- D. Kepler
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 103
+**Subtema:** primera ley de Newton · Galileo
+
+"Galileo fue el primero en considerar un planteamiento diferente del movimiento y del estado natural de la materia. […] su naturaleza es *resistir el cambio en su movimiento*."
+
+### 14
+
+En relación con el libro de Física, ¿por qué se modela a la Tierra como un marco de referencia inercial, aun cuando en realidad no lo es del todo?
+
+- A. Porque sus aceleraciones orbital y rotacional son pequeñas comparadas con g y con frecuencia se pueden despreciar
+- B. Porque la Tierra está completamente en reposo en el universo
+- C. Porque la Tierra no gira sobre su propio eje
+- D. Porque la Tierra no experimenta ninguna fuerza gravitacional
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 103
+**Subtema:** primera ley de Newton · la Tierra como marco inercial
+
+"En realidad la Tierra no es un marco inercial debido a su movimiento orbital en torno al Sol y su movimiento rotacional sobre su propio eje […]. Sin embargo, estas aceleraciones son pequeñas comparadas con g y con frecuencia se pueden despreciar. Por esta razón, la Tierra es modelada como un marco inercial."
