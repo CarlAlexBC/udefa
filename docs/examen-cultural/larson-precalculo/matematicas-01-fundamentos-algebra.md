@@ -52,6 +52,8 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 - **p. 19, recuadro `TECNOLOGÍA`:** el texto dice "he aquí cómo se evaluaría **(−2)²** en una graficadora", pero enseguida imprime la secuencia de teclas `( (−) 2 ) ^ 4 ENTER` y afirma que "el resultado exhibido será 16". Con exponente 2 el resultado sería 4: el enunciado debía decir **(−2)⁴**. Verificado sobre la hoja renderizada, no es suciedad de la extracción. El recuadro `TECNOLOGÍA` de todos modos queda fuera por norma.
 - **p. 21, arranque de "Notación científica":** el libro dice que "hay alrededor de **1 385 miles de millones** de litros de agua en la Tierra, es decir **1 385 seguido por 18 ceros**". Las dos cifras no coinciden: 1 385 miles de millones es 1 385 seguido de **9** ceros. La que cuadra con los 18 ceros es la que el propio libro escribe enseguida, **1.385 × 10²¹**, así que el desliz está en el nombre del número (se perdió un "miles de millones" al traducir). **No se escribe ningún reactivo que empareje las dos cifras**; el reactivo 24 pregunta sólo por la notación científica, que sí es consistente.
 - **p. 30, recuadro "Definición de un polinomio con x": ES FALSA COMO ESTÁ IMPRESA.** El libro dice "Sean a₀, a₁, a₂, . . ., aₙ números reales y **n un entero no positivo**". Tiene que ser **no negativo** (n ≥ 0): si n fuera no positivo, la expresión aₙxⁿ + aₙ₋₁xⁿ⁻¹ + . . . no describiría ningún polinomio, y el propio libro contradice esa frase dos párrafos después al dar un polinomio de grado 7 y otro de grado 11. Es un desliz de la traducción (el original dice *nonnegative integer*). **Verificado sobre la hoja renderizada**, no es basura de la extracción. **No se escribe ningún reactivo que pregunte qué debe ser n en esa definición.** El resto del recuadro (que aₙ ≠ 0, que aₙ es el coeficiente principal y a₀ el término constante) sí es correcto y sí lleva reactivos.
+- **p. 36, ejemplo del trinomio 6x² + 17x + 5:** la prosa dice "La factorización correcta es **(2x + 5)(3x − 1)**", pero el signo está mal. La lista de factorizaciones posibles que el propio libro imprime tres renglones antes incluye **(2x + 5)(3x + 1)**, y la comprobación de abajo desarrolla `(2x + 5)(3x + 1) = 6x² + 2x + 15x + 5 = 6x² + 17x + 5`. Con el −1 no saldría 17x. **No se escribe reactivo sobre esa factorización**; el bloque de ejemplos de todos modos queda fuera por norma.
+- **p. 37, punto 7 del "Resumen (sección 1.4)":** dice "cómo factorizar un trinomio de la forma **ax² + bx + c = 0**". Un trinomio no se iguala a cero — eso sería una ecuación. El `= 0` sobra. El `Resumen` queda fuera por norma, así que no afecta a ningún reactivo.
 
 ## Cobertura actual
 
@@ -68,8 +70,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 - Cubiertas las páginas impresas **30 y 31**, arranque del **1.4 · Polinomios y factorización**: qué es un polinomio y la forma axᵏ de sus términos, el recuadro *Definición de un polinomio con x* (salvo su errata de "n no positivo"), monomios/binomios/trinomios, la forma estándar, el polinomio cero, el grado y el coeficiente principal con más de una variable, el `COMENTARIO` de qué expresiones no son polinomios, los términos semejantes, el producto por las propiedades distributivas y el método PEIU. Los `EJEMPLO 1` a `EJEMPLO 3` no llevan reactivos.
 - Cubiertas las páginas impresas **32 y 33**: el recuadro *Productos especiales* completo (binomios conjugados, cuadrado y cubo de un binomio) y *Polinomios con factores comunes* (qué es factorizar, el polinomio primo o irreducible en enteros, la factorización completa, el tipo más simple y la propiedad distributiva en dirección inversa). Del `EJEMPLO 4` se tomó **sólo la regla general** de que el producto de binomios conjugados no tiene término medio, no el ejercicio; el `EJEMPLO 5` no lleva reactivos.
 - Cubiertas las páginas impresas **34 y 35**: el recuadro *Factorización de formas polinomiales especiales* completo (diferencia de dos cuadrados, trinomio cuadrado perfecto en sus dos formas, suma y diferencia de dos cubos), los pares conjugados, cómo reconocer términos cuadrados perfectos, el `COMENTARIO` de buscar factores comunes primero, y la descripción del trinomio cuadrado perfecto (primero y último términos cuadrados, término medio igual a dos veces el producto de u y v). Los `EJEMPLO 6` a `EJEMPLO 10` no llevan reactivos.
+- Cubiertas las páginas impresas **36 y 37**, con las que **cierra el 1.4**: *Trinomios con factores binomiales* (el patrón de factores de a y de c, la meta de que la suma de los productos externos e internos sea bx, y el `COMENTARIO` de la prueba y error y de cómo comprobar multiplicando) y *Factorización por agrupación* (qué polinomios la admiten, qué prueba y error elimina, elegir factores de ac que sumen b para reescribir el término medio, y el `COMENTARIO` de que más de una agrupación puede dar resultado). El `Resumen (sección 1.4)` **no lleva reactivos**, igual que el del 1.3. Los `EJEMPLO 11` a `EJEMPLO 14` tampoco. **Las pp. 38 y 39 son íntegramente el bloque `1.4 Ejercicios`.**
 
-**Pendiente:** EN CURSO. Sigue desde la página impresa **36**, con lo que reste del **1.4** hasta la **p. 39**. Después faltan los otros cinco subtemas que pide el temario —**1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+**Pendiente:** EN CURSO. El **1.3 y el 1.4 están CERRADOS**. Sigue el **1.6 · Resolución de ecuaciones**, que arranca en la página impresa **50**. Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -2444,5 +2447,162 @@ En relación con el libro de Matemáticas, en las fórmulas de la suma y la dife
 **Subtema:** polinomios y factorización · suma y diferencia de dos cubos
 
 Las dos fórmulas siguientes muestran la suma y diferencia de dos cubos. Preste especial atención a los signos de los términos.
+
+---
+
+## Sub-lote 15 · Trinomios con factores binomiales (1.4, p. 36)
+
+### 139
+
+De acuerdo con el libro de Matemáticas, en el patrón para factorizar un trinomio de la forma ax² + bx + c, ¿de qué son factores los números que acompañan a x y los términos constantes de los dos binomios?
+
+- A. Los que acompañan a x son factores de a y los constantes son factores de c
+- B. Los que acompañan a x son factores de c y los constantes son factores de a
+- C. Los cuatro son factores de b
+- D. Los cuatro son factores del producto ac
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 36
+**Subtema:** polinomios y factorización · trinomios con factores binomiales
+
+Para factorizar un trinomio de la forma ax² + bx + c, use el siguiente patrón: factores de a y factores de c.
+
+---
+
+### 140
+
+De conformidad con el libro de Matemáticas, al factorizar un trinomio de la forma ax² + bx + c, ¿cuál es la meta?
+
+- A. Hallar una combinación de factores de a y c tal que la suma de los productos externos e internos sea el término medio bx
+- B. Hallar una combinación de factores de a y c cuyo producto sea el término medio bx
+- C. Hallar dos factores de b cuya suma sea el producto ac
+- D. Hallar dos factores de c cuya diferencia sea el término constante
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 36
+**Subtema:** polinomios y factorización · trinomios con factores binomiales
+
+La meta es hallar una combinación de factores de a y c tal que la suma de los productos externos e internos sea el término medio bx.
+
+---
+
+### 141
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué puede implicar factorizar un trinomio?
+
+- A. Prueba y error
+- B. Racionalizar el denominador
+- C. Reducir el índice del radical
+- D. Escribirlo en notación científica
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 36
+**Subtema:** polinomios y factorización · trinomios con factores binomiales
+
+Factorizar un trinomio puede implicar prueba y error.
+
+---
+
+### 142
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo se comprueba la respuesta de una factorización?
+
+- A. Multiplicando los factores: el producto debería ser el trinomio original
+- B. Sumando los factores: la suma debería ser el término medio
+- C. Dividiendo el trinomio entre uno de sus factores
+- D. Sustituyendo x por cero en los dos binomios
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 36
+**Subtema:** polinomios y factorización · trinomios con factores binomiales
+
+Es relativamente fácil comprobar su respuesta multiplicando los factores. El producto debería ser el trinomio original.
+
+---
+
+## Sub-lote 16 · Factorización por agrupación — cierra el 1.4 (p. 37)
+
+### 143
+
+De conformidad con el libro de Matemáticas, ¿qué polinomios pueden factorizarse por agrupación?
+
+- A. Los que tienen más de tres términos
+- B. Los que tienen exactamente dos términos
+- C. Los que tienen exactamente tres términos
+- D. Los que tienen un solo término
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 37
+**Subtema:** polinomios y factorización · factorización por agrupación
+
+A veces, polinomios con más de tres términos pueden factorizarse por agrupación.
+
+---
+
+### 144
+
+En relación con el libro de Matemáticas, ¿qué puede eliminar la factorización por agrupación?
+
+- A. Parte de la prueba y error implicada en la factorización de un trinomio
+- B. La necesidad de buscar factores comunes
+- C. La necesidad de escribir el polinomio en forma estándar
+- D. Los términos semejantes del polinomio
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 37
+**Subtema:** polinomios y factorización · factorización por agrupación
+
+La factorización por agrupación puede eliminar parte de la prueba y error implicada en la factorización de un trinomio.
+
+---
+
+### 145
+
+De acuerdo con el libro de Matemáticas, para factorizar por agrupación un trinomio de la forma ax² + bx + c, ¿qué factores deben elegirse?
+
+- A. Factores del producto ac que sumen b
+- B. Factores del producto ab que sumen c
+- C. Factores de b cuyo producto sea ac
+- D. Factores de c cuya diferencia sea a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 37
+**Subtema:** polinomios y factorización · factorización por agrupación
+
+Para factorizar un trinomio de la forma ax² + bx + c por agrupación, elija factores del producto ac que sumen b.
+
+---
+
+### 146
+
+De conformidad con el libro de Matemáticas, al factorizar un trinomio por agrupación, ¿para qué se usan los factores elegidos?
+
+- A. Para reescribir el término medio
+- B. Para reescribir el término constante
+- C. Para eliminar el coeficiente principal
+- D. Para comprobar el resultado final
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 37
+**Subtema:** polinomios y factorización · factorización por agrupación
+
+Elija factores del producto ac que sumen b y use esos factores para reescribir el término medio.
+
+---
+
+### 147
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué ocurre a veces al factorizar por agrupación?
+
+- A. Que más de una agrupación dará resultado
+- B. Que ninguna agrupación dará resultado
+- C. Que la agrupación cambia el valor del polinomio
+- D. Que sólo funciona con polinomios de tres términos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 37
+**Subtema:** polinomios y factorización · factorización por agrupación
+
+A veces, más de una agrupación dará resultado.
 
 ---
