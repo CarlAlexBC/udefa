@@ -45,9 +45,10 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 **EN CURSO.** Arrancado el tema **4.5** con el **4.5.1** completo y la primera mitad del **4.5.2**.
 
 - Cubierta la página impresa **138**: el **4.5.1 Concepto y clasificación de las formas del relieve** completo — la definición de relieve terrestre, la comparación con las arrugas de una naranja, el desnivel entre el Everest y la Fosa de las Marianas, y el **Cuadro 4.6** con la clasificación entera (formas del relieve continental y submarino con sus subdivisiones). **La mitad superior de la página es la portadilla ilustrada de la Unidad IV** y no lleva reactivos.
-- Cubierta la página impresa **139**: el arranque del **4.5.2** con el apartado **Depresiones y llanuras** completo — las depresiones absolutas (el Ghor y el Mar Caspio) y relativas (barrancas, desfiladeros y las «cubetas» de África), y las llanuras con sus tres clases (aluviales, de sedimentación marina y penillanuras). La Figura 4.22 es ilustración y no lleva reactivos. El apartado **Colinas y mesetas** arranca al pie de la página pero **queda cortado a media frase**, así que se trabaja entero en la p.140.
+- Cubierta la página impresa **139**: el arranque del **4.5.2** con el apartado **Depresiones y llanuras** completo — las depresiones absolutas (el Ghor y el Mar Caspio) y relativas (barrancas, desfiladeros y las «cubetas» de África), y las llanuras con sus tres clases (aluviales, de sedimentación marina y penillanuras). La Figura 4.22 es ilustración y no lleva reactivos. El apartado **Colinas y mesetas** arranca al pie de la página pero **queda cortado a media frase**, así que se trabaja entero en la p.140. **Su pie ya quedó cubierto** por los reactivos **49 a 51**, que citan la p.139 porque ahí está impresa la definición de colina (posición media entre llanuras y montañas, altitud menor de 1,000 m y desniveles); van al final del sub-lote 3 para no romper la numeración corrida.
+- Cubierta la página impresa **140**: el cierre de **Colinas** (los **lomeríos** y **cuchillas** que forman al asociarse); las **mesetas** completas (el parecido con una mesa, los **altiplanos** o **altiplanicies**, y el criterio de altitud **mayor de 500 m**); y el apartado **Montañas** completo — la definición (las porciones más elevadas de la superficie terrestre), el umbral aceptado de **más de 1,000 m**, la clasificación en **altitud media** (1,000 a 2,000 m, cimas suaves y laderas de escasa pendiente) y **altas** (más de 2,000 m, picos agudos, crestas y aristas, laderas abruptas y quebradas), las **sierras** y su porqué, las **cordilleras** que se agrupan en la **Cordillera Universal**, y los **macizos montañosos** con el ejemplo de los Tuxtlas, en Veracruz. **Las altitudes (500 m, 1,000 m, 1,000–2,000 m y 2,000 m) se verificaron con `crop.py` a 600 dpi.** Las Figuras 4.23 y 4.24 son fotografías y no llevan reactivos.
 
-**Pendiente:** EN CURSO. Sigue desde la **p.140** con **Colinas y mesetas** y lo que reste del **4.5.2**, luego el **4.5.3** (p.141) y todo el **4.6** (pp. 142–150), hasta cerrar en la **p.150**: la Unidad V empieza en la 151.
+**Pendiente:** EN CURSO. Sigue desde la **p.141** con el **4.5.3**, y después todo el **4.6** (pp. 142–150), hasta cerrar en la **p.150**: la Unidad V empieza en la 151. Con la p.140 quedó cerrado el **4.5.2**.
 
 ---
 
@@ -563,3 +564,275 @@ En relación con el libro de Geografía, ¿con qué alternan frecuentemente las 
 **Subtema:** depresiones y llanuras · características de las llanuras
 
 "En cambio, las penillanuras alternan frecuentemente con lomas o colinas, como puede verse en Paraguay y Uruguay."
+## Sub-lote 3 · Colinas, mesetas y montañas (4.5.2, p. 140)
+
+### 34
+
+De acuerdo con el libro de Geografía, las colinas de escasa pendiente se encuentran generalmente asociadas; ¿qué forman?
+
+- A. Lomeríos y cuchillas
+- B. Sierras y cordilleras
+- C. Altiplanos y altiplanicies
+- D. Macizos montañosos y penillanuras
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · colinas
+
+"Generalmente se encuentran asociadas, formando lomeríos y cuchillas."
+
+### 35
+
+De conformidad con el libro de Geografía, ¿cómo son las mesetas y por qué se llaman así?
+
+- A. Son altas y relativamente planas, aunque no necesariamente horizontales, y se llaman así por su parecido a una mesa
+- B. Son bajas y perfectamente horizontales, y se llaman así por su parecido a una mesa
+- C. Son altas y siempre horizontales, y se llaman así por el material que las forma
+- D. Son altas y quebradas, y se llaman así por su parecido a una mesa
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · mesetas
+
+"Las mesetas (llamadas así por su parecido a una mesa) son altas y relativamente planas, aunque no necesariamente horizontales."
+
+### 36
+
+En relación con el libro de Geografía, ¿qué otras denominaciones reciben las mesetas?
+
+- A. Altiplanos o altiplanicies (planicies altas)
+- B. Lomeríos o cuchillas
+- C. Penillanuras o llanuras altas
+- D. Macizos o conglomerados
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · altiplanos
+
+"Reciben también las denominaciones de altiplanos o altiplanicies (planicies altas)."
+
+### 37
+
+De acuerdo con el libro de Geografía, aunque no hay una altitud definida para delimitarlas, ¿qué regiones se consideran mesetas?
+
+- A. Las regiones planas cuya altitud sea mayor de 500 m
+- B. Las regiones planas cuya altitud sea mayor de 1,000 m
+- C. Las regiones planas cuya altitud sea mayor de 2,000 m
+- D. Las regiones planas cuya altitud sea mayor de 200 m
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · altitud de las mesetas
+
+"Si bien no hay una altitud definida para delimitarlas, se consideran como tales las regiones planas cuya altitud sea mayor de 500 m."
+
+### 38
+
+De conformidad con el libro de Geografía, ¿qué son las montañas?
+
+- A. Las porciones más elevadas de la superficie terrestre
+- B. Las porciones más extensas de la superficie terrestre
+- C. Las regiones planas situadas a mayor altitud
+- D. Las agrupaciones de colinas de escasa pendiente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · montañas
+
+"Las montañas son las porciones más elevadas de la superficie terrestre."
+
+### 39
+
+En relación con el libro de Geografía, ¿qué altitud se acepta generalmente para considerar montaña a una forma del relieve?
+
+- A. Más de 1,000 m
+- B. Más de 500 m
+- C. Más de 2,000 m
+- D. Más de 200 m
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · altitud de las montañas
+
+"No hay una altitud definida para considerar como montaña a una forma del relieve, si bien se acepta generalmente que son las que tienen más de 1,000 m."
+
+### 40
+
+De acuerdo con el libro de Geografía, de acuerdo con su altitud, ¿cómo se clasifican esas formas del relieve?
+
+- A. En montañas de altitud media y montañas altas, pues las de baja altitud se identifican con las colinas
+- B. En montañas bajas, de altitud media y montañas altas
+- C. En montañas de altitud media y macizos montañosos
+- D. En colinas, mesetas y montañas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · clasificación de las montañas
+
+"Las citadas formas del relieve se clasifican en montañas de altitud media y montañas altas (las de baja altitud se identifican con las colinas, de que antes hablamos)."
+
+### 41
+
+De conformidad con el libro de Geografía, ¿qué altitud tienen las montañas de altitud media?
+
+- A. De 1,000 a 2,000 m
+- B. De 500 a 1,000 m
+- C. De 2,000 a 3,000 m
+- D. De 200 a 500 m
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · montañas de altitud media
+
+"Las montañas de altitud media tienen de 1,000 a 2,000 m de altitud."
+
+### 42
+
+En relación con el libro de Geografía, ¿cómo son las cimas y las laderas de las montañas de altitud media?
+
+- A. Sus cimas son generalmente suaves y redondeadas; sus laderas, de escasa pendiente
+- B. Sus cimas son picos agudos; sus laderas, abruptas y quebradas
+- C. Sus cimas son planas; sus laderas, de fuerte pendiente
+- D. Sus cimas son crestas y aristas; sus laderas, de escasa pendiente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · cimas y laderas
+
+"Como en las colinas, sus cimas son generalmente suaves y redondeadas; sus laderas, de escasa pendiente."
+
+### 43
+
+De acuerdo con el libro de Geografía, ¿qué altitud tienen las montañas altas?
+
+- A. Más de 2,000 m
+- B. Más de 1,000 m
+- C. Más de 3,000 m
+- D. Más de 500 m
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · montañas altas
+
+"Las montañas altas tienen más de 2,000 m de altitud."
+
+### 44
+
+De conformidad con el libro de Geografía, a diferencia de las demás formas del relieve continental, ¿en qué culminan frecuentemente las montañas altas?
+
+- A. En picos agudos, crestas y aristas
+- B. En cimas suaves y redondeadas
+- C. En superficies planas y horizontales
+- D. En lomeríos y cuchillas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · cimas de las montañas altas
+
+"A diferencia de las demás formas del relieve continental, culminan frecuentemente en picos agudos, crestas y aristas."
+
+### 45
+
+En relación con el libro de Geografía, ¿cómo son las laderas de las montañas altas?
+
+- A. Abruptas y quebradas, con fuertes desniveles
+- B. Suaves y redondeadas, con escasos desniveles
+- C. De escasa pendiente, con desniveles moderados
+- D. Planas y horizontales, sin desniveles
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · laderas de las montañas altas
+
+"Sus laderas son abruptas y quebradas, con fuertes desniveles."
+
+### 46
+
+De acuerdo con el libro de Geografía, ¿por qué las agrupaciones de montañas reciben la denominación de sierras?
+
+- A. Porque, vistas de lejos, semejan los dientes de una sierra
+- B. Porque su forma recuerda el filo de una sierra de mano
+- C. Porque se agrupan en hileras, como los dientes de un peine
+- D. Porque están formadas por rocas cortadas como con sierra
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · sierras
+
+"Formando agrupaciones conocidas con las denominaciones de sierras (llamadas así porque, vistas de lejos, semejan los dientes de una sierra)."
+
+### 47
+
+De conformidad con el libro de Geografía, al agruparse las cordilleras en enormes conglomerados montañosos, ¿qué constituyen?
+
+- A. La Cordillera Universal
+- B. Los macizos montañosos
+- C. Las sierras
+- D. Los lomeríos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · Cordillera Universal
+
+"Éstas, a su vez, se agrupan en enormes conglomerados montañosos, constituyendo la Cordillera Universal."
+
+### 48
+
+En relación con el libro de Geografía, ¿qué constituyen las agrupaciones de montañas no unidas directamente a otras, y qué ejemplo se da?
+
+- A. Los macizos montañosos, como el de los Tuxtlas, en Veracruz
+- B. Las sierras, como la de los Tuxtlas, en Veracruz
+- C. Las cordilleras, como la de los Tuxtlas, en Veracruz
+- D. Los lomeríos, como el de los Tuxtlas, en Veracruz
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 140
+**Subtema:** formas del relieve continental · macizos montañosos
+
+"Las agrupaciones de montañas no unidas directamente a otras constituyen los macizos montañosos, como el de los Tuxtlas, en Veracruz."
+
+### 49
+
+De acuerdo con el libro de Geografía, ¿qué son las colinas?
+
+- A. Formas del relieve continental que ocupan una posición media entre las llanuras y montañas
+- B. Formas del relieve continental que ocupan una posición media entre las mesetas y montañas
+- C. Formas del relieve submarino que ocupan una posición media entre las llanuras y las fosas
+- D. Formas del relieve continental más elevadas que las montañas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 139
+**Subtema:** formas del relieve continental · colinas
+
+"Las colinas son formas del relieve continental que ocupan una posición media entre las llanuras y montañas."
+
+### 50
+
+De conformidad con el libro de Geografía, ¿qué altitud tienen las colinas?
+
+- A. Una altitud baja, menor de 1,000 m
+- B. Una altitud baja, menor de 500 m
+- C. Una altitud media, de 1,000 a 2,000 m
+- D. Una altitud baja, menor de 2,000 m
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 139
+**Subtema:** formas del relieve continental · altitud de las colinas
+
+"Como las primeras, tienen una altitud baja (menor de 1,000 m)."
+
+### 51
+
+En relación con el libro de Geografía, ¿qué presentan las colinas, igual que las montañas?
+
+- A. Desniveles, o sea, partes elevadas y deprimidas
+- B. Picos agudos, crestas y aristas
+- C. Superficies planas y horizontales
+- D. Laderas abruptas con fuertes desniveles
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 139
+**Subtema:** formas del relieve continental · desniveles de las colinas
+
+"Como las segundas, presentan desniveles, o sea, partes elevadas y deprimidas."
+
