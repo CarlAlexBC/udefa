@@ -32,11 +32,16 @@ Formato de cada reactivo:
    distractor absurdo regala el reactivo. Lo que mejor funciona es tomar los
    distractores del **mismo párrafo o del mismo cuadro**.
 
-### REGLA — no se escriben reactivos sobre los ejemplos ilustrativos del libro
+### REGLA — el ejemplo ilustrativo no es material de reactivo (salvo que cargue contenido)
 
 **Decisión de Carlo, 15 ago 2026.** El reactivo pregunta por el **contenido de la
 materia**: definiciones, reglas, teoremas, cifras, nombres propios, clasificaciones.
-**Nunca por la anécdota con que el libro ilustra ese contenido.**
+**Por defecto no se escribe sobre la anécdota con que el libro ilustra ese contenido.**
+
+> **No es un veto absoluto** (matiz de Carlo, mismo día): si un ejemplo hace falta para
+> que el reactivo se entienda, o si el propio ejemplo carga un dato que vale la pena,
+> **se usa con criterio**. Lo que se prohíbe es el reactivo cuya única respuesta posible
+> es haber memorizado la anécdota.
 
 Ejemplo de lo que **NO** se escribe (salió en el arranque de Cálculo y se retiró):
 
@@ -60,11 +65,52 @@ Caen bajo esta regla los ejemplos anecdóticos (la familia, el equipo, "tú y yo
 ejercicios resueltos y las frases de transición del libro (*"definimos esto porque lo
 usaremos más adelante"*), que hablan del libro y no de la materia.
 
+**Dónde sí conviene apoyarse en el ejemplo.** Cuando el concepto no se sostiene solo en
+el enunciado y el ejemplo lo aterriza, se usa **como contexto de la pregunta, no como
+respuesta**: el enunciado puede situar el caso, pero lo que se pregunta sigue siendo la
+definición o la regla. Así el aspirante que estudió el concepto acierta, aunque no
+recuerde la escena.
+
 **No confundir con los casos que SÍ van:** un dato real citado como ejemplo sigue
 siendo dato de la materia. Que el Trópico de Cáncer *"divide en dos partes casi iguales
 a la República Mexicana"* es geografía, no anécdota; que la Meseta de Anáhuac sea el
 ejemplo de descenso de temperatura por altitud, también. La diferencia es que ahí el
 ejemplo **es** el contenido, no un envoltorio para explicarlo.
+
+### REGLA — el dato olvidable tiene que ser DEL TEMA
+
+**Decisión de Carlo, 14 ago 2026.** El banco caza el **dato chiquito que el aspirante
+pasa por alto**, no lo obvio. Pero **que un dato esté escondido en la página no basta
+para merecer un reactivo**: además tiene que enseñar algo de la materia. Quedan fuera
+los datos **insignificantes o ajenos al tema del capítulo**, aunque sean cita textual.
+
+Ejemplo de lo que **NO** se escribe (salió en el arranque de Larson y se retiró):
+
+> *"¿Cuál es el plural de índice?"* → "Índices".
+
+**Por qué no.** El libro lo mete entre paréntesis al cerrar un recuadro, como nota de
+redacción. Un reactivo así mide si el aspirante leyó un paréntesis, no si sabe qué es
+el índice de un radical. En el examen real nadie lo preguntaría.
+
+Caen bajo esta regla:
+
+- **Notas de lengua o de redacción** — el plural de una palabra, cómo se acentúa, de
+  dónde viene el nombre cuando no es parte del contenido.
+- **Consejos de estudio** — *"raramente hay una sola manera de resolver un problema"*,
+  *"siga pasos que usted comprenda"*. Eso es cómo estudiar, no la materia.
+- **Comentarios sobre el propio libro** — a qué sitio web entrar, en qué apéndice está
+  la respuesta, qué símbolo marca cada apartado.
+
+**Cómo distinguirlo.** Pregúntate: *si el aspirante acierta esto, ¿qué sabe de la
+materia?* Si la respuesta es "nada, sólo que leyó ese renglón", el reactivo no va.
+
+**No confundir con los recuadros de apoyo que SÍ traen materia.** Un `COMENTARIO` que
+da la forma fraccionaria de una propiedad, o que advierte que la expresión original y
+la simplificada deben estar definidas para los mismos valores de la variable, es
+matemáticas y **sí va**. Lo que se descarta es el consejo, no el recuadro.
+
+Es hermana de la regla de arriba: aquélla saca la **anécdota** con que se ilustra el
+contenido; ésta saca el **detalle que no es contenido de ningún modo**.
 
 ## Temario del HCM
 
