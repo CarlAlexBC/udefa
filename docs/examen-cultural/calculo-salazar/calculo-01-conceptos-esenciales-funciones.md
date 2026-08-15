@@ -186,10 +186,18 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   caso lineal para que no se revuelvan (ver la nota del sub-lote 8). **Fuera:** el
   desarrollo del ejemplo *y* = (3/2)*x* + 2, la Tabla 1.2, la Figura 1.11 y la actividad
   de aprendizaje del cierre.
+- Cubierta la página impresa **19**: la **nomenclatura de las funciones básicas** que el
+  libro enlista (idéntica, simétrica, radical y máximo entero). Sale de la lista de una
+  "Actividad de aprendizaje", con el mismo criterio del sub-lote 6: se toma el **nombre**
+  que el libro asocia a cada expresión, no el ejercicio de graficarlas. **Fuera:** los
+  nombres que el símbolo delata solo (constante, cuadrática, valor absoluto), las
+  funciones de la lista que el libro no bautiza (*y* = 2ˣ, *y* = log *x*, *y* = ln *x*,
+  las racionales), el bloque de funciones trigonométricas con sus ángulos, y la
+  **"Actividad con TIC"** de la calculadora CLASSWIZ, que es manejo de herramienta.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.18**. Sigue desde la **p.19** con el resto del inciso **a)
-Gráficas de funciones reales de variable real** (pp. 19–24) y después los otros tres
+va cubierto hasta la **p.19**. Sigue desde la **p.20** con el resto del inciso **a)
+Gráficas de funciones reales de variable real** (pp. 20–24) y después los otros tres
 incisos: **b)** explícitas o implícitas (p.25), **c)** inyectivas, sobreyectivas y
 biyectivas (p.42) y **d)** función invertible e inversa (p.49), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
@@ -914,3 +922,81 @@ De acuerdo con el libro de Cálculo, una vez localizados los puntos de una recta
 **Subtema:** Gráficas de funciones reales · Gráfica de una ecuación lineal
 
 "Tercer paso. Localiza los puntos en un plano coordenado y únelos por segmentos de recta, se pueden prolongar los extremos para tener una idea más clara de cómo es la recta."
+
+---
+
+## Sub-lote 9 · Cómo nombra el libro a las funciones básicas (1.3 a, p.19)
+
+> **Estos reactivos salen de la lista de una "Actividad de aprendizaje"**, igual que los
+> del sub-lote 6 y por la misma razón: lo que se toma **no es el ejercicio** —"realiza la
+> gráfica de las siguientes funciones"— sino la **nomenclatura** que el libro asocia a
+> cada expresión, que es contenido de la materia y aparece verbatim. Se dejaron fuera
+> los nombres que el propio símbolo delata (*constante* para *y* = 3, *cuadrática* para
+> *y* = *x*², *valor absoluto* para *y* = |*x*|): ahí no hay dato que recordar.
+
+### 44
+
+De conformidad con el libro de Cálculo, ¿cómo se llama la función *y* = *x*?
+
+- A. Idéntica
+- B. Simétrica
+- C. Constante
+- D. Radical
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 19
+**Subtema:** Gráficas de funciones reales · Funciones básicas
+
+"1. Idéntica  *y* = *x*"
+
+### 45
+
+En relación con el libro de Cálculo, ¿cómo se llama la función *y* = −*x*?
+
+- A. Simétrica
+- B. Idéntica
+- C. Cuadrática
+- D. Máximo entero
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 19
+**Subtema:** Gráficas de funciones reales · Funciones básicas
+
+"3. Simétrica  *y* = −*x*"
+
+> Nota de revisor: el par *y* = *x* / *y* = −*x* va con las opciones cruzadas. Se
+> distinguen por un signo y el libro les da nombres distintos, así que es donde falla
+> quien leyó la lista de corrido.
+
+### 46
+
+De acuerdo con el libro de Cálculo, ¿cómo se llama la función *f* (*x*) = √*x*?
+
+- A. Radical
+- B. Cuadrática
+- C. Idéntica
+- D. Máximo entero
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 19
+**Subtema:** Gráficas de funciones reales · Funciones básicas
+
+"5. Radical  *f* (*x*) = √*x*"
+
+### 47
+
+De conformidad con el libro de Cálculo, ¿cómo se llama la función *y* = [*x*]?
+
+- A. La función máximo entero
+- B. La función valor absoluto
+- C. La función simétrica
+- D. La función constante
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 19
+**Subtema:** Gráficas de funciones reales · Funciones básicas
+
+"7. La función máximo entero  *y* = [*x*]"
+
+> Nota de revisor: es el nombre más olvidable de la lista, y el corchete se confunde con
+> la barra del valor absoluto. Por eso el distractor B.
