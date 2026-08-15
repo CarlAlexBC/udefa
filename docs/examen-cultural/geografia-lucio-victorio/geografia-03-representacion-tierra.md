@@ -64,8 +64,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **87**: el cierre del **3.2.2** — el **otoño** (del equinoccio de otoño al solsticio de invierno del 22 de diciembre, con el Sol llegando al Trópico de Capricornio) y el **invierno** (la más corta del Hemisferio Boreal, que termina con el equinoccio de primavera del 21 de marzo, cuando el Sol llega al Ecuador y comienza un nuevo año solar); y el apartado **"Causas de las variaciones estacionales de luz y calor"** completo (las dos causas: la inclinación de los rayos solares —casi verticales en primavera y verano, inclinados en otoño e invierno— y la diferente duración del día y la noche, con la diferencia mínima en las regiones ecuatoriales, de varias horas en las intermedias y de **6 meses de luz y 6 de obscuridad casi total** en los polos; más el inciso b), donde el acercamiento o alejamiento al Sol —**apenas el 3.34%** de su distancia media— casi no influye). **Con esto queda cerrado el 3.2.2 Las estaciones del año.** **El 3.34% y las fechas del 1 al 3 de enero y del 1 al 4 de julio se verificaron con `crop.py` a 600 dpi.** **La mitad inferior de la página es un bloque de ejercicios** ("Resuelve ahora las siguientes cuestiones", con la relación de columnas y la ilustración de las cuatro estaciones) y no lleva reactivos por norma.
 - Cubierta la página impresa **88**: el arranque del **3.2.3 Los husos horarios** — la división de la circunferencia en 360° por los sumerios y los **15° de longitud** que corresponden a cada hora; el **origen del nombre** (los husos de las ruecas para hilar) y el conjunto con aspecto de naranja donde cada huso es un «gajo»; la **definición** del recuadro (las 24 secciones de 15° de longitud en que se dividió la superficie terrestre para la medición de las horas); el trazado de polo a polo siguiendo la longitud y delimitado por meridianos; el **huso horario 0** (referencia de los otros 23, con el Meridiano de Greenwich en el centro, de **7.5° de longitud oeste a 7.5° de longitud este**); el **huso XII** como diametralmente opuesto; y la **Figura 3.13** (husos sin modificación, horas legales). **La mitad superior de la página es el espacio en blanco del ejercicio de la p.87** (los recuadros de Otoño e Invierno) y no lleva reactivos. **Los 7.5°, "los otros 23" y el huso XII se verificaron con `crop.py` a 600 dpi.** **Dos datos de esta página NO llevan reactivo por estar ya preguntados:** que los sumerios dividieron el día en 24 horas hace más de 5,000 años (lo pregunta la **Unidad II** desde la p.68, reactivo 50) y el año **1884**, que ya tiene reactivo en este mismo archivo desde la p.81. La frase sobre el Antimeridiano en el centro del huso XII **queda cortada al pie de la página** y se trabaja entera en la p.89.
 - Cubierta la página impresa **89**: el cierre de la frase del **huso XII** (el Antimeridiano o Meridiano de 180°, que abarca de **172.5° este a 172.5° oeste**); el reparto de **los otros 22** husos (11 al este y 11 al oeste) y su designación con **números romanos** a partir del huso 0; la **hora legal** (su referencia en el huso horario 0, designada con las letras **GMT**); el sentido de avance de las horas legales (de oeste a este) con el ejemplo de las 12 horas del huso 0; el adelanto de las horas de Asia sobre Europa y de éstas sobre América y el cambio continuo por la rotación; la **Línea Internacional del Tiempo o Línea del Cambio de Fecha** (trazada por el Pacífico siguiendo el Antimeridiano, desviada para no tocar tierra, con el adelanto de un día al cruzarla de este a oeste y el retraso al cruzarla de oeste a este); y los **problemas prácticos** de adoptarlas sin modificación, con el ejemplo de **Tuxpan de Rodríguez Cano y Álamo**, a 31.5 km y en husos distintos (VI y VII oeste). **El 172.5°, el 31.5 km y los husos VI y VII oeste se verificaron con `crop.py` a 600 dpi.** La Figura 3.14 (distribución de los husos horarios) es ilustración. **El desarrollo de las siglas GMT quedó fuera del reactivo 162** y anotado en "Datos del libro que conviene revisar".
+- Cubierta la página impresa **90**: el cierre del **3.2.3** — la modificación de las horas legales por cada país (procurando que todo su territorio quede en el mismo huso), los países que por su extensión deben tener varias horas (**Rusia, China, Australia, Canadá y Estados Unidos de América**), la **hora civil** como nombre de la hora ya modificada, y las **3 horas legales de la República Mexicana** (husos VI, VII y VIII oeste) con sus **equiparaciones prácticas** —la del Centro con la del VI oeste y la del Pacífico con la del VII oeste—, **Baja California** como único estado que sigue en el VIII oeste, y los ensayos del siglo XX cuyo último caso fue el **año 1996**. **La equiparación y el año 1996 se verificaron con `crop.py` a 600 dpi.** La Figura 3.15 (horas civiles de la República Mexicana) es un mapa y no lleva reactivos por norma; sus rótulos repiten los tres husos que el texto ya enlista. **La mitad inferior de la página es un bloque de ejercicios** ("¿Has comprendido ya cómo se integra el sistema de husos horarios...?") que continúa en la p.91 y no lleva reactivos por norma.
 
-**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2**, del que ya están cerrados el **3.2.1 Las zonas térmicas** (pp. 84–85) y el **3.2.2 Las estaciones del año** (pp. 86–87), y está **en curso el 3.2.3 Los husos horarios** (cubiertas las pp. 88–89): sigue desde la **p.90** con el resto del 3.2.3. Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
+**Verificado el final del tema:** la p.91 termina el bloque de ejercicios y arranca el **3.3 Generalidades sobre la esfera y las cartas geográficas**, que **el temario no pide** (ver "Alcance del temario"). Por eso el 3.2 —y con él la Unidad III— cierra en la p.90.
+
+**Pendiente:** ninguno en este archivo. **La Unidad III queda CERRADA** en lo que pide el temario `GEO-01-2026`: el **3.1** (pp. 78–83) y el **3.2** completo —**3.2.1 Las zonas térmicas** (pp. 84–85), **3.2.2 Las estaciones del año** (pp. 86–87) y **3.2.3 Los husos horarios** (pp. 88–90)—, en **186 reactivos**. Lo que sigue de la materia son las **tres unidades restantes**, cada una en su propio archivo: la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima). **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de la materia. Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
 
 ---
 
@@ -2759,4 +2762,184 @@ En relación con el libro de Geografía, en el ejemplo de Tuxpan de Rodríguez C
 **Subtema:** husos horarios · Tuxpan y Álamo
 
 "Así sucedería, por ejemplo, con las ciudades de Tuxpan de Rodríguez Cano y Álamo (municipio de Temapache), que en línea recta se encuentran a 31.5 km, pues mientras la primera se localiza en el huso horario VI oeste, la segunda se localiza en el VII oeste."
+
+### 175
+
+De acuerdo con el libro de Geografía, ¿por qué las horas legales no son tomadas estrictamente?
+
+- A. Porque cada país las modifica de acuerdo con su conveniencia, procurando que todo su territorio quede dentro del mismo huso horario
+- B. Porque los husos horarios no coinciden con los meridianos
+- C. Porque la rotación terrestre las hace cambiar continuamente
+- D. Porque la Línea Internacional del Tiempo se desvía para no tocar tierra
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 90
+**Subtema:** husos horarios · modificación por cada país
+
+"Por esa razón las horas legales no son tomadas estrictamente, sino que cada país las modifica de acuerdo con su conveniencia, procurando que todo su territorio quede dentro del mismo huso horario."
+
+### 176
+
+De conformidad con el libro de Geografía, ¿qué países deben tener forzosamente varias horas y por qué?
+
+- A. Rusia, China, Australia, Canadá y Estados Unidos de América, por su gran extensión territorial
+- B. Rusia, China, Brasil, Canadá y Estados Unidos de América, por su gran extensión territorial
+- C. Rusia, China, Australia, Canadá y Estados Unidos de América, por su cercanía a los polos
+- D. México, Estados Unidos de América y Canadá, por su gran extensión territorial
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 90
+**Subtema:** husos horarios · países con varias horas
+
+"Cuando eso no es posible, como sucede en Rusia, China, Australia, Canadá y Estados Unidos de América, países que por su gran extensión territorial deben tener forzosamente varias horas."
+
+### 177
+
+En relación con el libro de Geografía, en esos países, ¿cómo se hace la separación entre una hora y otra?
+
+- A. Procurando que cause los menores problemas posibles
+- B. Siguiendo estrictamente los meridianos que delimitan cada huso
+- C. Dividiendo el territorio en partes iguales
+- D. Tomando como referencia la hora del huso horario 0
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 90
+**Subtema:** husos horarios · criterio de separación
+
+"La separación entre una y otra se hace procurando que cause los menores problemas posibles."
+
+### 178
+
+De acuerdo con el libro de Geografía, ¿qué nombre recibe la hora así modificada?
+
+- A. Hora civil
+- B. Hora legal
+- C. Hora local
+- D. Hora media
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 90
+**Subtema:** husos horarios · hora civil
+
+"La hora así modificada recibe el nombre de hora civil."
+
+### 179
+
+De conformidad con el libro de Geografía, de acuerdo con su situación geográfica, ¿cuántas horas legales le corresponden a la República Mexicana?
+
+- A. 3
+- B. 2
+- C. 4
+- D. 1
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 90
+**Subtema:** husos horarios · horas legales de México
+
+"Así, de acuerdo con su situación geográfica, a la República Mexicana le corresponden 3 horas legales."
+
+### 180
+
+En relación con el libro de Geografía, ¿cuáles son esas horas legales?
+
+- A. La del huso VI oeste (hora del Golfo de México), la del VII oeste (hora del Centro) y la del VIII oeste (hora del Océano Pacífico)
+- B. La del huso VI oeste (hora del Centro), la del VII oeste (hora del Golfo de México) y la del VIII oeste (hora del Océano Pacífico)
+- C. La del huso V oeste (hora del Golfo de México), la del VI oeste (hora del Centro) y la del VII oeste (hora del Océano Pacífico)
+- D. La del huso VI este (hora del Golfo de México), la del VII este (hora del Centro) y la del VIII este (hora del Océano Pacífico)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 90
+**Subtema:** husos horarios · los tres husos de México
+
+"La del huso horario VI oeste (hora del Golfo de México). La del huso horario VII oeste (hora del Centro). La del huso horario VIII oeste (hora del Océano Pacífico)."
+
+### 181
+
+De acuerdo con el libro de Geografía, ¿con cuál ha sido equiparada la hora del Centro?
+
+- A. Con la del huso horario VI oeste (hora del Golfo de México)
+- B. Con la del huso horario VIII oeste (hora del Océano Pacífico)
+- C. Con la del huso horario VII oeste (hora del Centro)
+- D. Con la del huso horario 0 (GMT)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 90
+**Subtema:** husos horarios · equiparación de la hora del Centro
+
+"La hora del Centro ha sido equiparada con la del huso horario VI oeste (hora del Golfo de México)."
+
+### 182
+
+De conformidad con el libro de Geografía, ¿con cuál ha sido equiparada la hora del Océano Pacífico?
+
+- A. Con la del huso horario VII oeste (hora del Centro)
+- B. Con la del huso horario VI oeste (hora del Golfo de México)
+- C. Con la del huso horario VIII oeste (hora del Océano Pacífico)
+- D. Con la del huso horario 0 (GMT)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 90
+**Subtema:** husos horarios · equiparación de la hora del Pacífico
+
+"Mientras que la del Océano Pacífico ha sido equiparada con la del huso horario VII oeste (hora del Centro)."
+
+### 183
+
+En relación con el libro de Geografía, ¿qué estado sigue rigiéndose por la hora del huso horario VIII oeste?
+
+- A. Sólo Baja California
+- B. Sólo Baja California Sur
+- C. Sólo Sonora
+- D. Baja California y Sonora
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 90
+**Subtema:** husos horarios · Baja California
+
+"Sólo el estado de Baja California sigue rigiéndose por la hora del huso horario VIII oeste."
+
+### 184
+
+De acuerdo con el libro de Geografía, ¿por qué razones se hicieron esas equiparaciones?
+
+- A. Por razones de utilidad práctica
+- B. Por razones de precisión astronómica
+- C. Por razones de acuerdo internacional
+- D. Por razones de extensión territorial
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 90
+**Subtema:** husos horarios · motivo de las equiparaciones
+
+"Sin embargo, por razones de utilidad práctica, la hora del Centro ha sido equiparada con la del huso horario VI oeste [...]"
+
+### 185
+
+De conformidad con el libro de Geografía, ¿de qué ha sido producto lo anterior?
+
+- A. De numerosos ensayos realizados a lo largo del siglo XX
+- B. De un acuerdo internacional firmado en 1884
+- C. De una sola reforma aplicada a finales del siglo XX
+- D. De los estudios de los cartógrafos del siglo XIX
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 90
+**Subtema:** husos horarios · ensayos del siglo XX
+
+"Lo anterior ha sido producto de numerosos ensayos realizados a lo largo del siglo XX."
+
+### 186
+
+En relación con el libro de Geografía, ¿cuándo tuvo lugar el último de esos ensayos?
+
+- A. El año 1996
+- B. El año 1986
+- C. El año 1999
+- D. El año 1884
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 90
+**Subtema:** husos horarios · último ensayo
+
+"El último de los cuales tuvo lugar el año 1996."
 
