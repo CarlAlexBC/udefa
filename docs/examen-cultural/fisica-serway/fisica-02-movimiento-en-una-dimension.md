@@ -29,9 +29,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **21–24**: **2.1 · Posición, velocidad y rapidez de una partícula** COMPLETO (el modelo de partícula, la definición de posición, la gráfica posición-tiempo, el desplazamiento Δx ≡ xf − xi, la distancia recorrida, las cantidades vectorial y escalar, la velocidad promedio vx,prom ≡ Δx/Δt, la rapidez promedio vprom ≡ d/Δt, y la advertencia de que la magnitud de la velocidad promedio no es la rapidez promedio). La portada (p.20) es intro narrativa y el Ejemplo 2.1 (p.24) es ejemplo resuelto: no aportan reactivos.
+**EN CURSO.** Escritas las páginas impresas **21–25**: **2.1** COMPLETO (modelo de partícula, posición, gráfica posición-tiempo, desplazamiento Δx ≡ xf − xi, distancia, cantidades vectorial/escalar, velocidad promedio vx,prom ≡ Δx/Δt, rapidez promedio vprom ≡ d/Δt, y la advertencia de que la magnitud de la velocidad promedio no es la rapidez promedio) y **2.2 · Velocidad y rapidez instantáneas** en sus definiciones (velocidad instantánea como límite de Δx/Δt y como derivada dx/dt, la pendiente de la tangente, puede ser +/−/0, la convención de llamar «velocidad» a la instantánea, y que la magnitud de la velocidad instantánea sí es la rapidez instantánea). La portada (p.20) y el Ejemplo 2.1 (p.24) no aportan reactivos.
 
-**Pendiente:** EN CURSO. **2.2 · Velocidad y rapidez instantáneas** arranca al pie de la p.24; sigue en la p.25. Después queda **2.5** (aceleración). Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera del temario.
+**Pendiente:** EN CURSO. Revisar la **p.26** por si **2.2** continúa (los Ejemplos 2.2/2.3 no llevan reactivos) y localizar el arranque de **2.3** (fuera del temario). Después queda **2.5 · Aceleración**, que sí pide el temario. Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera.
 
 ---
 
@@ -372,3 +372,110 @@ De acuerdo con el libro de Física, respecto a la relación entre la magnitud de
 **Subtema:** posición, velocidad y rapidez · velocidad promedio no es rapidez promedio (prevención de riesgos ocultos 2.1)
 
 "La magnitud de la velocidad promedio no es la rapidez promedio. Por ejemplo, considere a la corredora de maratón que se analizó en la ecuación 2.3. La magnitud de su velocidad promedio es cero, pero su rapidez promedio claramente es distinta de cero."
+
+## Sub-lote 5 · Velocidad y rapidez instantáneas (p.25)
+
+### 23
+
+En relación con el libro de Física, ¿a qué es igual la velocidad instantánea vx de una partícula?
+
+- A. Al valor límite de la proporción Δx/Δt conforme Δt tiende a cero
+- B. Al desplazamiento total dividido entre el tiempo total
+- C. A la distancia recorrida entre el intervalo de tiempo
+- D. Al producto de la posición por el tiempo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 25
+**Subtema:** velocidad y rapidez instantáneas · definición de velocidad instantánea
+
+"La velocidad instantánea vx es igual al valor límite de la proporción Δx/Δt conforme Δt tiende a cero."
+
+### 24
+
+De conformidad con el libro de Física, en una gráfica posición-tiempo, ¿qué representa la pendiente de la recta tangente a la curva en un punto?
+
+- A. La velocidad instantánea del automóvil en ese punto
+- B. La distancia total recorrida
+- C. La aceleración promedio
+- D. El desplazamiento total
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 25
+**Subtema:** velocidad y rapidez instantáneas · interpretación geométrica
+
+"La pendiente de esta recta tangente representa la velocidad del automóvil en el punto A. Lo que se hizo fue determinar la velocidad instantánea en dicho momento."
+
+### 25
+
+De acuerdo con el libro de Física, en notación de cálculo, la velocidad instantánea (el límite de Δx/Δt) se llama:
+
+- A. la derivada de x respecto a t, y se escribe dx/dt
+- B. la integral de x respecto a t
+- C. el promedio de x en el tiempo
+- D. la segunda derivada de x
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 25
+**Subtema:** velocidad y rapidez instantáneas · velocidad instantánea como derivada
+
+"En notación de cálculo, este límite se llama derivada de x respecto a t, y se escribe dx/dt."
+
+### 26
+
+En relación con el libro de Física, la velocidad instantánea puede ser:
+
+- A. positiva, negativa o cero
+- B. únicamente positiva
+- C. sólo positiva o cero
+- D. siempre distinta de cero
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 25
+**Subtema:** velocidad y rapidez instantáneas · signo de la velocidad instantánea
+
+"La velocidad instantánea puede ser positiva, negativa o cero."
+
+### 27
+
+De conformidad con el libro de Física, cuando la pendiente de la gráfica posición-tiempo y la velocidad instantánea son cero, el objeto:
+
+- A. está momentáneamente en reposo
+- B. se mueve con su rapidez máxima
+- C. se mueve en la dirección negativa
+- D. alcanza su mayor aceleración
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 25
+**Subtema:** velocidad y rapidez instantáneas · velocidad instantánea nula
+
+"En el punto B, la pendiente y la velocidad instantánea son cero y el automóvil está momentáneamente en reposo."
+
+### 28
+
+De acuerdo con el libro de Física, de aquí en adelante, ¿qué designa la palabra "velocidad" (sin adjetivo)?
+
+- A. La velocidad instantánea
+- B. La velocidad promedio
+- C. La rapidez promedio
+- D. La aceleración
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 25
+**Subtema:** velocidad y rapidez instantáneas · convención de nomenclatura
+
+"De aquí en adelante, se usa la palabra velocidad para designar velocidad instantánea. Cuando se esté interesado en velocidad promedio, siempre se usará el adjetivo promedio."
+
+### 29
+
+En relación con el libro de Física, ¿qué relación hay entre la magnitud de la velocidad instantánea y la rapidez instantánea?
+
+- A. La magnitud de la velocidad instantánea es la rapidez instantánea
+- B. La magnitud de la velocidad instantánea nunca es la rapidez instantánea
+- C. La rapidez instantánea siempre es el doble de la magnitud de la velocidad instantánea
+- D. No existe relación entre ellas
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 25
+**Subtema:** velocidad y rapidez instantáneas · magnitud de la velocidad instantánea (prevención de riesgos ocultos 2.3)
+
+"La magnitud de la velocidad instantánea es la rapidez instantánea. En un intervalo de tiempo infinitesimal, la magnitud del desplazamiento es igual a la distancia recorrida por la partícula."
