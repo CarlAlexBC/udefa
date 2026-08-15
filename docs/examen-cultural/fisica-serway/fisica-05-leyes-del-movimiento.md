@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **101–104**: **5.1** (concepto de fuerza), **5.2** (primera ley de Newton, marcos inerciales e inercia), **5.3 · Masa** (resistencia a cambiar la velocidad; propiedad inherente y escalar; masa contra peso) y el **arranque de 5.4 · Segunda ley de Newton**.
+**EN CURSO.** Escritas las páginas impresas **101–105**: **5.1** (concepto de fuerza), **5.2** (primera ley, marcos inerciales, inercia), **5.3** (masa contra peso) y **5.4 · Segunda ley de Newton** (el enunciado ΣF = ma, la fuerza neta, y la definición del newton: 1 N ≡ 1 kg·m/s²).
 
-**Pendiente:** EN CURSO. Sigue **5.4 · Segunda ley de Newton** en la **p.105** (el enunciado F = ma) y de ahí 5.5 y 5.6, hasta la p.110.
+**Pendiente:** EN CURSO. Sigue el cierre de **5.4** (p.106, ejemplos) y **5.5 · Fuerza gravitacional y peso** (p.107), luego 5.6, hasta la p.110.
 
 ---
 
@@ -347,3 +347,112 @@ De conformidad con el libro de Física, ¿qué pregunta responde la segunda ley 
 **Subtema:** segunda ley de Newton · qué responde
 
 "La segunda ley de Newton responde la pregunta de qué le ocurre a un objeto que tiene una o más fuerzas que actúan sobre él."
+
+---
+
+## Sub-lote 4 · Segunda ley de Newton y el newton (p.105)
+
+### 21
+
+De acuerdo con el libro de Física, ¿qué establece la segunda ley de Newton?
+
+- A. Vista desde un marco inercial, la aceleración de un objeto es directamente proporcional a la fuerza neta que actúa sobre él e inversamente proporcional a su masa
+- B. Un objeto en reposo permanece en reposo si no actúan fuerzas sobre él
+- C. A toda acción corresponde una reacción igual y opuesta
+- D. La fuerza gravitacional entre dos objetos es proporcional al producto de sus masas
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 105
+**Subtema:** segunda ley de Newton · enunciado
+
+"Cuando se ve desde un marco de referencia inercial, la aceleración de un objeto es directamente proporcional a la fuerza neta que actúa sobre él e inversamente proporcional a su masa."
+
+### 22
+
+En relación con el libro de Física, ¿qué es la fuerza neta sobre un objeto?
+
+- A. La suma vectorial de todas las fuerzas que actúan sobre él
+- B. La mayor de las fuerzas que actúan sobre él
+- C. La fuerza de gravedad que actúa sobre él
+- D. El promedio de las fuerzas que actúan sobre él
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 105
+**Subtema:** segunda ley de Newton · fuerza neta
+
+"La fuerza neta sobre un objeto es la suma vectorial de todas las fuerzas que actúan sobre él. (A veces a la fuerza neta se le llamará *fuerza total, fuerza resultante* o *fuerza desequilibrada*.)"
+
+### 23
+
+De conformidad con el libro de Física, ¿cómo se define 1 newton (N), la unidad del SI de fuerza?
+
+- A. Es la fuerza que, al actuar sobre un objeto de 1 kg de masa, produce una aceleración de 1 m/s²
+- B. Es la fuerza que, al actuar sobre 1 kg, produce una aceleración de 9.8 m/s²
+- C. Es la fuerza que, al actuar sobre 1 g, produce una aceleración de 1 cm/s²
+- D. Es la fuerza que, al actuar sobre 1 slug, produce una aceleración de 1 ft/s²
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 105
+**Subtema:** segunda ley de Newton · el newton
+
+"Una fuerza de 1 N es la fuerza que, cuando actúa sobre un objeto de 1 kg de masa, produce una aceleración de 1 m/s²."
+
+### 24
+
+De acuerdo con el libro de Física, en términos de las unidades fundamentales de masa, longitud y tiempo, ¿a qué equivale 1 newton?
+
+- A. 1 kg·m/s²
+- B. 1 kg·m/s
+- C. 1 kg·m²/s²
+- D. 1 g·cm/s²
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 105
+**Subtema:** segunda ley de Newton · el newton en unidades fundamentales
+
+"1 N ≡ 1 kg · m/s²."
+
+### 25
+
+En relación con el libro de Física, ¿cuál es una aproximación conveniente entre el newton y la libra?
+
+- A. 1 N ≈ ¼ lb
+- B. 1 N ≈ 4 lb
+- C. 1 N ≈ 1 lb
+- D. 1 N ≈ 10 lb
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 105
+**Subtema:** segunda ley de Newton · newton y libra
+
+"Una aproximación conveniente es 1 N ≈ ¼ lb."
+
+### 26
+
+De conformidad con el libro de Física, respecto a la ecuación ΣF = ma, ¿el producto *ma* es una fuerza?
+
+- A. No; el producto *ma* no es una fuerza
+- B. Sí; *ma* es una fuerza adicional sobre el objeto
+- C. Sí; *ma* es la fuerza de reacción
+- D. Sí; *ma* es la fuerza gravitacional
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 105
+**Subtema:** segunda ley de Newton · ma no es una fuerza
+
+"La ecuación 5.2 *no* indica que el producto *ma* sea una fuerza. […] *No* incluya una 'fuerza *ma*' en su análisis de las fuerzas sobre un objeto."
+
+### 27
+
+De acuerdo con el libro de Física, ¿bajo qué condición es válida la ecuación de la segunda ley de Newton (ΣF = ma)?
+
+- A. Solo cuando la rapidez del objeto es mucho menor que la rapidez de la luz
+- B. Solo cuando el objeto está en reposo
+- C. Solo en ausencia de fuerza gravitacional
+- D. Solo cuando la masa del objeto es mayor que 1 kg
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 105
+**Subtema:** segunda ley de Newton · validez
+
+"La ecuación 5.2 es válida solo cuando la rapidez del objeto es mucho menor que la rapidez de la luz."
