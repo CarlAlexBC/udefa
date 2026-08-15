@@ -44,15 +44,21 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 ## Erratas del libro — no se escriben reactivos sobre ellas
 
 - **p. 171, segundo párrafo: falta el intervalo del rango.** El libro imprime "el rango de cada función es el intervalo y cada función tiene un periodo de 2π": **el intervalo nunca se imprimió**, se cayó en la composición. El dato sí aparece en las figuras 2.45 y 2.46, que rotulan "Rango: −1 ≤ y ≤ 1". El reactivo del rango se escribe con el valor de las figuras, que es el que el aspirante puede leer.
+- **p. 176, párrafo de la constante d: falta la ecuación de la recta.** El libro imprime "la gráfica oscila alrededor de la recta horizontal en lugar de alrededor del eje x": **nunca dice cuál recta** (debería ser `y = d`). Es el mismo tipo de hueco de composición que el del rango en la p. 171. El reactivo 28 pregunta sólo lo que sí está impreso.
+- **p. 176, `EJEMPLO 5`:** el enunciado dice "Trace la gráfica de **y = −3 cos(2x + 4)**", pero la solución resuelve `2πx + 4π = 0` y la figura 2.49 rotula **y = −3 cos(2πx + 4π)**: al enunciado se le cayeron las dos π.
+- **p. 176, `EJEMPLO 6`:** el enunciado dice "Trace la gráfica de **y = 2 = 3 cos 2x**", con un signo igual donde va un **más**; la figura 2.50 rotula `y = 2 + 3 cos 2x`.
+
+Los dos últimos están dentro de bloques `EJEMPLO`, que de todos modos quedan fuera por norma.
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **171 a 175** del **2.6 · Gráficas de las funciones seno y coseno**:
+**EN CURSO.** El **2.6 · Gráficas de las funciones seno y coseno está CERRADO** (pp. 171–176):
 
 - Cubiertas las páginas impresas **171 y 172**: la curva senoidal y el ciclo, el dominio, el rango y el periodo de las funciones seno y coseno, sus simetrías y el hecho de que el seno es impar y el coseno par, y los cinco puntos clave de un periodo. El `TECNOLOGÍA` de las graficadoras no lleva reactivos.
 - Cubiertas las páginas impresas **173, 174 y 175**: *Amplitud y periodo* (las formas generales `y = d + a sen(bx − c)` y `y = d + a cos(bx − c)`, el factor de escala, qué pasa según el valor de |a|, la *Definición de amplitud de curvas seno y coseno* y el rango para a > 0), el efecto de b sobre el periodo (el ciclo de 0 a 2π/b, el estiramiento y la contracción horizontales) con el `COMENTARIO` de dividir el periodo-intervalo, la reflexión en el eje x, y las *Traslaciones de curvas seno y coseno* (la constante c, el periodo 2π/b, el **corrimiento de fase** c/b y las ecuaciones `bx − c = 0` y `bx − c = 2π` para los puntos finales). Los `EJEMPLO 2` a `EJEMPLO 4` no llevan reactivos.
+- Cubierta la página impresa **176**, con la que **cierra el 2.6**: las *traslaciones verticales* que produce la constante d (hacia arriba para d > 0 y hacia abajo para d < 0) y que la gráfica pasa a oscilar alrededor de una recta horizontal en lugar del eje x. Los `EJEMPLO 5` y `EJEMPLO 6` no llevan reactivos. La **p. 177 tampoco**: es el `EJEMPLO 7` (profundidades del agua en un muelle) más el `Resumen (sección 2.6)`. Las **pp. 178–181 son el bloque `2.6 Ejercicios`**.
 
-**Pendiente:** EN CURSO. Sigue desde la página impresa **176** hasta cerrar el **2.6** en la **p. 177**. Después faltan los otros cuatro subtemas que pide el temario: **2.9** (p. 202), **2.10** (p. 212), **2.15** (p. 254) y **2.16** (p. 263). **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
+**Pendiente:** EN CURSO. El **2.6 está CERRADO**. Sigue el **2.9 · Aplicaciones y modelos**, que arranca en la página impresa **202** y cuya teoría llega hasta la **p. 207**. Después faltan **2.10** (p. 212), **2.15** (p. 254) y **2.16** (p. 263). **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
 
 ---
 
@@ -482,5 +488,58 @@ De acuerdo con el libro de Matemáticas, ¿cómo se determinan los puntos finale
 **Subtema:** gráficas de seno y coseno · traslaciones
 
 Los puntos finales izquierdo y derecho de un intervalo de un ciclo se pueden determinar si se resuelven las ecuaciones bx − c = 0 y bx − c = 2π.
+
+---
+
+## Sub-lote 3 · Traslaciones verticales — cierra el 2.6 (p. 176)
+
+### 26
+
+De conformidad con el libro de Matemáticas, ¿en qué resulta la constante d de las ecuaciones y = d + a sen(bx − c) y y = d + a cos(bx − c)?
+
+- A. En traslaciones verticales de las curvas básicas
+- B. En traslaciones horizontales de las curvas básicas
+- C. En un estiramiento vertical de las curvas básicas
+- D. En una reflexión de las curvas básicas en el eje x
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 176
+**Subtema:** gráficas de seno y coseno · traslaciones verticales
+
+La constante d en las ecuaciones y = d + a sen(bx − c) y y = d + a cos(bx − c) resulta en traslaciones verticales de las curvas básicas.
+
+---
+
+### 27
+
+En relación con el libro de Matemáticas, ¿hacia dónde es el desplazamiento según el signo de d?
+
+- A. d unidades hacia arriba para d > 0 y d unidades hacia abajo para d < 0
+- B. d unidades hacia abajo para d > 0 y d unidades hacia arriba para d < 0
+- C. d unidades hacia la derecha para d > 0 y hacia la izquierda para d < 0
+- D. d unidades hacia arriba en los dos casos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 176
+**Subtema:** gráficas de seno y coseno · traslaciones verticales
+
+El desplazamiento es d unidades hacia arriba para d > 0 y d unidades hacia abajo para d < 0.
+
+---
+
+### 28
+
+De acuerdo con el libro de Matemáticas, con una traslación vertical, ¿alrededor de qué oscila la gráfica?
+
+- A. Alrededor de una recta horizontal, en lugar de alrededor del eje x
+- B. Alrededor del eje x, como la curva básica
+- C. Alrededor de una recta vertical, en lugar de alrededor del eje y
+- D. Alrededor del origen
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 176
+**Subtema:** gráficas de seno y coseno · traslaciones verticales
+
+En otras palabras, la gráfica oscila alrededor de la recta horizontal en lugar de alrededor del eje x.
 
 ---
