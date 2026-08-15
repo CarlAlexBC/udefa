@@ -50,8 +50,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **79**: el **inciso f)** completo — el **cenit** y el **nadir**, que nacen de prolongar las verticales terrestres hacia el firmamento y se ubican en la bóveda celeste, no en la superficie. **El cierre del inciso e) que abre esta página no lleva reactivo:** dice que la diferencia entre los diámetros "es debida al ensanchamiento ecuatorial y el consiguiente achatamiento polar provocados por el movimiento de rotación", y **eso ya lo pregunta la Unidad II** desde la p.67 (ver la sección "No duplicar con la Unidad II"). La Figura 3.3 es ilustración. **La mitad inferior de la página es un ejercicio** de relacionar la figura con una lista, y por norma no lleva reactivos.
 - Cubierta la página impresa **80**: el arranque del **3.1.2 Círculos de la Tierra** — el **Ecuador** (etimología, circunferencia máxima, los hemisferios y su etimología, de él parten los mayores radios y diámetros, círculo de referencia), los **paralelos** (etimología, definición, de dónde viene su nombre, número infinito salvo en el Ecuador, la inclinación de 23°27' respecto de la eclíptica) y los **trópicos** (etimología griega, su trazado a 23°27' del Ecuador y 66°33' del polo, el origen de su nombre, y el **Trópico de Cáncer** con su ubicación y los países por los que pasa). Las Figuras 3.4, 3.5 y 3.6 son ilustraciones. **Dos datos de esta página NO llevan reactivo por estar ya preguntados en la Unidad II:** que el Ecuador mide 40,075.13 km (Cuadro 2.5, p.67) y el significado de *solsticio*, «el Sol se detiene» (nota al pie de la p.71). **Tampoco la nota al pie 3**, que explica el nombre de la *eclíptica* por los eclipses: es una remisión expresa al subtema 2.4.3 y ya tiene reactivo allá.
 - Cubierta la página impresa **81**: el cierre del **3.1.2** — el **Trópico de Capricornio** (ubicación y países), los **círculos polares** (definición, y que el Ártico es el del Hemisferio Boreal y el Antártico el del Meridional), los **meridianos** (definición, número infinito, longitud y los 67.27 km que les faltan para igualar al Ecuador), el acuerdo internacional de **1884** sobre Greenwich con los cuatro nombres del Primer Meridiano, el **Antimeridiano o Meridiano de 180°** que cruza el Pacífico, y la **nota al pie 4** con la etimología de *meridiano*. **La medida del meridiano (40,007.86 km) NO lleva reactivo:** ya la pregunta la Unidad II desde el Cuadro 2.5; sí entra en cambio la diferencia de 67.27 km, que es dato nuevo. **La mitad inferior de la página es un bloque de ejercicios** ("Resuelve ahora las siguientes cuestiones") y no lleva reactivos por norma.
+- Cubierta la página impresa **82**: el **3.1.3 Concepto e importancia de la situación geográfica** completo —la definición, el ejemplo del **Citlaltépetl o Pico de Orizaba** con sus tres niveles de localización y sus coordenadas, y las tres consecuencias que el libro enlista (el clima ecuatorial frente al de los 30° de latitud, los lugares bajos frente a los altos, y el mar como «termostato»)— y el **arranque del 3.1.4 Conceptos de latitud, longitud y altitud** (los tres datos necesarios y los complementarios). Las Figuras 3.7 y 3.8 son ilustraciones; la 3.7 rotula las mismas coordenadas que el texto.
 
-**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. De esta unidad queda: el **3.1** de la **p.82** en adelante (falta *La situación geográfica*, la segunda mitad del tema que pide el temario) y todo el **3.2 Zonas térmicas, estaciones del año y husos horarios** (p.84). Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
+**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. De esta unidad queda: el **3.1** de la **p.83** en adelante (falta el cierre del 3.1.4, latitud, longitud y altitud) y todo el **3.2 Zonas térmicas, estaciones del año y husos horarios** (p.84). Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
 
 ---
 
@@ -1054,3 +1055,223 @@ De acuerdo con el libro de Geografía, ¿por qué el meridiano recibe ese nombre
 **Subtema:** círculos de la tierra · meridianos
 
 Nota al pie 4: "[...] pues cuando el Sol se encuentra sobre uno de ellos es medio día en todos los puntos que atraviesa."
+
+---
+
+## Sub-lote 5 · La situación geográfica y el arranque de latitud, longitud y altitud (3.1.3 y 3.1.4, p.82)
+
+### 65
+
+De conformidad con el libro de Geografía, ¿qué nos permite precisar el conocimiento de los puntos, líneas y círculos imaginarios de la Tierra?
+
+- A. La situación geográfica
+- B. La duración de las estaciones del año
+- C. La forma y el tamaño exactos del planeta
+- D. La velocidad de los movimientos de la Tierra
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** situación geográfica · concepto
+
+"El conocimiento de los puntos, líneas y círculos imaginarios de la Tierra nos permite precisar la situación geográfica, o sea, la localización del elemento que se estudia."
+
+### 66
+
+En relación con el libro de Geografía, ¿qué es la situación geográfica?
+
+- A. La localización del elemento que se estudia
+- B. La descripción de las características naturales del elemento que se estudia
+- C. La distancia que separa al elemento del mar más cercano
+- D. La división política en que se encuentra el elemento
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** situación geográfica · concepto
+
+"[...] nos permite precisar la situación geográfica, o sea, la localización del elemento que se estudia."
+
+### 67
+
+De acuerdo con el libro de Geografía, al estudiar geográficamente al Citlaltépetl o Pico de Orizaba, ¿en qué parte del Continente Americano se dice que se encuentra?
+
+- A. En América del Norte
+- B. En América Central
+- C. En América del Sur
+- D. En las Antillas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** situación geográfica · citlaltépetl
+
+"Se encuentra en el Continente Americano, concretamente en América del Norte."
+
+### 68
+
+De conformidad con el libro de Geografía, ¿en los límites de qué estados de la República Mexicana se encuentra el Citlaltépetl?
+
+- A. Puebla y Veracruz
+- B. Puebla y Oaxaca
+- C. Veracruz y Oaxaca
+- D. Puebla y Tlaxcala
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** situación geográfica · citlaltépetl
+
+"Dentro del Continente Americano, se encuentra en la República Mexicana, en los límites de los estados de Puebla y Veracruz."
+
+### 69
+
+En relación con el libro de Geografía, ¿cuál es la latitud del Citlaltépetl?
+
+- A. 19°01'48" de latitud norte
+- B. 19°01'48" de latitud sur
+- C. 97°15'43" de latitud norte
+- D. 23°27' de latitud norte
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** situación geográfica · citlaltépetl
+
+"Sus coordenadas geográficas son: 19°01'48" de latitud norte, 97°15'43" de longitud oeste de Greenwich y 5,747 m de altitud máxima."
+
+> Nota de revisor: el distractor C cambia latitud por longitud usando la cifra real de la otra coordenada. Es el error de quien memoriza los números sueltos y no cuál va con cuál.
+
+### 70
+
+De acuerdo con el libro de Geografía, ¿cuál es la longitud del Citlaltépetl?
+
+- A. 97°15'43" de longitud oeste de Greenwich
+- B. 97°15'43" de longitud este de Greenwich
+- C. 19°01'48" de longitud oeste de Greenwich
+- D. 66°33' de longitud oeste de Greenwich
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** situación geográfica · citlaltépetl
+
+"Sus coordenadas geográficas son: 19°01'48" de latitud norte, 97°15'43" de longitud oeste de Greenwich y 5,747 m de altitud máxima."
+
+### 71
+
+De conformidad con el libro de Geografía, ¿cuál es la altitud máxima del Citlaltépetl?
+
+- A. 5,747 m
+- B. 5,477 m
+- C. 5,704 m
+- D. 4,757 m
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** situación geográfica · citlaltépetl
+
+"Sus coordenadas geográficas son: 19°01'48" de latitud norte, 97°15'43" de longitud oeste de Greenwich y 5,747 m de altitud máxima."
+
+> Nota de revisor: los distractores son los mismos cuatro dígitos revueltos. La cifra se recuerda "como de cinco mil setecientos y algo", que es justo donde se falla.
+
+### 72
+
+En relación con el libro de Geografía, ¿por qué es importante situar correctamente los elementos geográficos que se estudian?
+
+- A. Porque la localización es uno de los principios científicos de la Geografía y la situación geográfica determina en gran medida las características naturales y humanas de los elementos
+- B. Porque permite calcular con exactitud la distancia que separa a dos puntos cualesquiera
+- C. Porque de ella depende la duración del día y de la noche en cada lugar
+- D. Porque es el requisito previo para poder trazar cualquier clase de mapa
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** situación geográfica · importancia
+
+"[...] además de que la localización es uno de los principios científicos de la Geografía, la situación geográfica determina en gran medida las características naturales y humanas de los elementos geográficos."
+
+### 73
+
+De acuerdo con el libro de Geografía, ¿cómo es el clima en las regiones ecuatoriales y qué hay allí?
+
+- A. Generalmente cálido húmedo, por lo cual hay allí extensas selvas
+- B. Generalmente cálido seco, por lo cual hay allí extensas regiones desérticas
+- C. Templado y estable, por lo cual hay allí extensas praderas
+- D. Frío y seco, por lo cual hay allí extensas tundras
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** situación geográfica · importancia
+
+"En las regiones ecuatoriales el clima es generalmente cálido húmedo, por lo cual hay allí extensas selvas."
+
+### 74
+
+De conformidad con el libro de Geografía, hacia los 30° de latitud, ¿cómo tiende a ser el clima y qué se encuentra allí?
+
+- A. Cálido seco, por lo cual se encuentran allí extensas regiones desérticas
+- B. Cálido húmedo, por lo cual se encuentran allí extensas selvas
+- C. Templado húmedo, por lo cual se encuentran allí extensos bosques
+- D. Frío húmedo, por lo cual se encuentran allí extensos glaciares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** situación geográfica · importancia
+
+"Por lo contrario, hacia los 30° de latitud el clima tiende a ser cálido seco, por lo cual se encuentran allí extensas regiones desérticas."
+
+> Nota de revisor: el par ecuatorial/30° va en dos reactivos con las opciones cruzadas. El que sólo recuerde "cálido" tiene que decidir si húmedo o seco.
+
+### 75
+
+En relación con el libro de Geografía, ¿por qué los lugares bajos tienen casi siempre una temperatura más elevada que los altos?
+
+- A. Porque el aire denso de los primeros retiene mejor el calor que el aire ralo de los segundos
+- B. Porque se encuentran más cerca del Ecuador
+- C. Porque reciben los rayos del Sol de manera perpendicular
+- D. Porque el mar les transmite directamente su calor
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** situación geográfica · importancia
+
+"Los lugares bajos tienen casi siempre una temperatura más elevada que los altos, pues el aire denso de los primeros retiene mejor el calor que el aire ralo de los segundos."
+
+### 76
+
+De acuerdo con el libro de Geografía, ¿por qué los lugares próximos al mar tienen generalmente un clima más estable a lo largo del año?
+
+- A. Porque el mar es una especie de «termostato» o regulador de la temperatura atmosférica
+- B. Porque el aire del mar es más denso y retiene mejor el calor
+- C. Porque reciben vientos constantes durante todo el año
+- D. Porque se encuentran siempre a menor altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** situación geográfica · importancia
+
+"Los lugares próximos al mar tienen generalmente un clima más estable a lo largo del año que los lejanos, pues el mar es una especie de «termostato» o regulador de la temperatura atmosférica."
+
+### 77
+
+De conformidad con el libro de Geografía, para situar geográficamente a los elementos de la superficie terrestre, ¿qué es necesario señalar?
+
+- A. Su latitud, longitud y altitud
+- B. Su latitud y su longitud únicamente
+- C. Su división política y su distancia al mar
+- D. Su latitud, su altitud y su distancia al Ecuador
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** latitud longitud y altitud · datos necesarios
+
+"Para situar geográficamente a los elementos de la superficie terrestre, es necesario señalar su latitud, longitud y altitud."
+
+### 78
+
+En relación con el libro de Geografía, ¿qué puede señalarse complementariamente para situar un elemento geográfico?
+
+- A. La división política en que se encuentra, su distancia al mar o a otros elementos geográficos notables y otros aspectos que faciliten su localización
+- B. Su clima, su relieve y su vegetación característica
+- C. Su superficie, su población y su altitud media
+- D. La fecha de su descubrimiento y el nombre con que se le conoció originalmente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 82
+**Subtema:** latitud longitud y altitud · datos complementarios
+
+"Complementariamente pueden señalarse: la división política (estado, provincia, departamento, etc.) en que se encuentran, su distancia al mar (o a otros elementos geográficos notables) y otros aspectos que faciliten su localización en la realidad o en los mapas."
