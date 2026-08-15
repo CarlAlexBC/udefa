@@ -82,6 +82,10 @@ se retiraron por esta regla: los dos de los ejemplos (equipo deportivo y padres)
 la frase de transición *"definimos esto porque lo usaremos en estos temas"*, que habla
 del libro y no de la materia.
 
+**No es veto absoluto** (matiz de Carlo, mismo día): cuando un ejemplo hace falta para
+que el reactivo se entienda, se usa **como contexto del enunciado, no como respuesta**.
+Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdota.
+
 ## Cobertura actual
 
 - Cubierta la página impresa **8**: del apartado **Conjunto y elemento**, lo citable —
