@@ -29,9 +29,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **21–23**: **2.1 · Posición, velocidad y rapidez de una partícula** casi completo (el modelo de partícula, la definición de posición, la gráfica posición-tiempo, el desplazamiento Δx ≡ xf − xi, la distancia recorrida, las cantidades vectorial y escalar, la velocidad promedio vx,prom ≡ Δx/Δt y la rapidez promedio vprom ≡ d/Δt). La portada (p.20) es sólo la intro narrativa (IMAGINE + CONEXIONES) y no aporta reactivos.
+**EN CURSO.** Escritas las páginas impresas **21–24**: **2.1 · Posición, velocidad y rapidez de una partícula** COMPLETO (el modelo de partícula, la definición de posición, la gráfica posición-tiempo, el desplazamiento Δx ≡ xf − xi, la distancia recorrida, las cantidades vectorial y escalar, la velocidad promedio vx,prom ≡ Δx/Δt, la rapidez promedio vprom ≡ d/Δt, y la advertencia de que la magnitud de la velocidad promedio no es la rapidez promedio). La portada (p.20) es intro narrativa y el Ejemplo 2.1 (p.24) es ejemplo resuelto: no aportan reactivos.
 
-**Pendiente:** EN CURSO. Falta el cierre de **2.1** (la distinción final velocidad/rapidez promedio, p.24; el Ejemplo 2.1 no lleva reactivos) y luego **2.2** (velocidad y rapidez instantáneas) y **2.5** (aceleración). Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera del temario.
+**Pendiente:** EN CURSO. **2.2 · Velocidad y rapidez instantáneas** arranca al pie de la p.24; sigue en la p.25. Después queda **2.5** (aceleración). Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera del temario.
 
 ---
 
@@ -340,3 +340,35 @@ En relación con el libro de Física, a diferencia de la velocidad promedio, la 
 **Subtema:** posición, velocidad y rapidez · rapidez promedio sin dirección
 
 "A diferencia de la velocidad promedio, la rapidez promedio no tiene dirección y siempre se expresa como un número positivo."
+
+## Sub-lote 4 · Cierre de 2.1 (p.24)
+
+### 21
+
+De conformidad con el libro de Física, el conocimiento de la velocidad promedio o la rapidez promedio de una partícula no proporciona información acerca de:
+
+- A. los detalles del viaje
+- B. el desplazamiento total
+- C. el intervalo de tiempo
+- D. la distancia total recorrida
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 24
+**Subtema:** posición, velocidad y rapidez · límite de los promedios
+
+"El conocimiento de la velocidad promedio o la rapidez promedio de una partícula no proporciona información acerca de los detalles del viaje."
+
+### 22
+
+De acuerdo con el libro de Física, respecto a la relación entre la magnitud de la velocidad promedio y la rapidez promedio:
+
+- A. la magnitud de la velocidad promedio no es la rapidez promedio
+- B. la magnitud de la velocidad promedio siempre es igual a la rapidez promedio
+- C. la rapidez promedio siempre es menor que la magnitud de la velocidad promedio
+- D. ambas son siempre iguales a cero
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 24
+**Subtema:** posición, velocidad y rapidez · velocidad promedio no es rapidez promedio (prevención de riesgos ocultos 2.1)
+
+"La magnitud de la velocidad promedio no es la rapidez promedio. Por ejemplo, considere a la corredora de maratón que se analizó en la ecuación 2.3. La magnitud de su velocidad promedio es cero, pero su rapidez promedio claramente es distinta de cero."
