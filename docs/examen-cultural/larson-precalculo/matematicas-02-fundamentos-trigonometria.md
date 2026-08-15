@@ -47,9 +47,12 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **171 y 172** del **2.6 · Gráficas de las funciones seno y coseno**: la curva senoidal y el ciclo, el dominio, el rango y el periodo de las funciones seno y coseno, sus simetrías y el hecho de que el seno es impar y el coseno par, y los cinco puntos clave de un periodo. El `TECNOLOGÍA` de las graficadoras no lleva reactivos.
+**EN CURSO.** Escritas las páginas impresas **171 a 175** del **2.6 · Gráficas de las funciones seno y coseno**:
 
-**Pendiente:** EN CURSO. Sigue desde la página impresa **173** hasta cerrar el **2.6** en la **p. 177**. Después faltan los otros cuatro subtemas que pide el temario: **2.9** (p. 202), **2.10** (p. 212), **2.15** (p. 254) y **2.16** (p. 263). **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
+- Cubiertas las páginas impresas **171 y 172**: la curva senoidal y el ciclo, el dominio, el rango y el periodo de las funciones seno y coseno, sus simetrías y el hecho de que el seno es impar y el coseno par, y los cinco puntos clave de un periodo. El `TECNOLOGÍA` de las graficadoras no lleva reactivos.
+- Cubiertas las páginas impresas **173, 174 y 175**: *Amplitud y periodo* (las formas generales `y = d + a sen(bx − c)` y `y = d + a cos(bx − c)`, el factor de escala, qué pasa según el valor de |a|, la *Definición de amplitud de curvas seno y coseno* y el rango para a > 0), el efecto de b sobre el periodo (el ciclo de 0 a 2π/b, el estiramiento y la contracción horizontales) con el `COMENTARIO` de dividir el periodo-intervalo, la reflexión en el eje x, y las *Traslaciones de curvas seno y coseno* (la constante c, el periodo 2π/b, el **corrimiento de fase** c/b y las ecuaciones `bx − c = 0` y `bx − c = 2π` para los puntos finales). Los `EJEMPLO 2` a `EJEMPLO 4` no llevan reactivos.
+
+**Pendiente:** EN CURSO. Sigue desde la página impresa **176** hasta cerrar el **2.6** en la **p. 177**. Después faltan los otros cuatro subtemas que pide el temario: **2.9** (p. 202), **2.10** (p. 212), **2.15** (p. 254) y **2.16** (p. 263). **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
 
 ---
 
@@ -222,5 +225,262 @@ De acuerdo con el libro de Matemáticas, ¿en cuántas partes se divide el perio
 **Subtema:** gráficas de seno y coseno · puntos clave
 
 Divida el periodo en cuatro partes iguales para obtener los puntos clave.
+
+---
+
+## Sub-lote 2 · Amplitud, periodo y traslaciones (2.6, pp. 173–175)
+
+### 11
+
+De conformidad con el libro de Matemáticas, ¿qué formas tienen las ecuaciones cuyo efecto gráfico se estudia en el resto de la sección?
+
+- A. y = d + a sen(bx − c) y y = d + a cos(bx − c)
+- B. y = d + a sen(bx) y y = d + a cos(bx)
+- C. y = a sen(x − c) y y = a cos(x − c)
+- D. y = d + sen(bx − c) y y = d + cos(bx − c)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 173
+**Subtema:** gráficas de seno y coseno · amplitud y periodo
+
+En el resto de esta sección estudiaremos el efecto gráfico de cada una de las constantes a, b, c y d, en las gráficas de las ecuaciones de las formas y = d + a sen(bx − c) y y = d + a cos(bx − c).
+
+---
+
+### 12
+
+En relación con el libro de Matemáticas, ¿cómo actúa el factor constante a en y = a sen x y y = a cos x?
+
+- A. Como factor de escala, es decir, un estiramiento o una contracción vertical de la curva básica
+- B. Como factor de escala, es decir, un estiramiento o una contracción horizontal de la curva básica
+- C. Como una traslación vertical de la curva básica
+- D. Como una reflexión de la curva básica en el eje x
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 173
+**Subtema:** gráficas de seno y coseno · amplitud
+
+El factor constante a en y = a sen x y y = a cos x actúa como factor de escala, esto es, un estiramiento vertical o contracción vertical de la curva básica.
+
+---
+
+### 13
+
+De acuerdo con el libro de Matemáticas, ¿qué le ocurre a la curva básica según el valor de |a|?
+
+- A. Si |a| > 1 la curva se estira, y si 0 < |a| < 1 la curva se contrae
+- B. Si |a| > 1 la curva se contrae, y si 0 < |a| < 1 la curva se estira
+- C. La curva se estira en los dos casos
+- D. La curva se contrae en los dos casos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 173
+**Subtema:** gráficas de seno y coseno · amplitud
+
+Si |a| > 1 la curva básica se estira, y si 0 < |a| < 1, la curva básica se contrae.
+
+---
+
+### 14
+
+De conformidad con el libro de Matemáticas, ¿qué es el valor absoluto de a?
+
+- A. La amplitud de la función
+- B. El periodo de la función
+- C. El corrimiento de fase de la función
+- D. El rango de la función
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 173
+**Subtema:** gráficas de seno y coseno · amplitud
+
+El valor absoluto de a es la amplitud de la función.
+
+---
+
+### 15
+
+En relación con el libro de Matemáticas, ¿cuál es el rango de la función para a > 0?
+
+- A. De −a a a
+- B. De 0 a a
+- C. De −1 a 1
+- D. De −2a a 2a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 173
+**Subtema:** gráficas de seno y coseno · amplitud
+
+El rango de la función para a > 0 es −a ≤ y ≤ a.
+
+---
+
+### 16
+
+De acuerdo con el libro de Matemáticas, ¿qué representa la amplitud de y = a sen x y y = a cos x?
+
+- A. La mitad de la distancia entre los valores máximo y mínimo de la función
+- B. La distancia completa entre los valores máximo y mínimo de la función
+- C. El doble de la distancia entre los valores máximo y mínimo de la función
+- D. La distancia entre dos ciclos consecutivos de la función
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 173
+**Subtema:** gráficas de seno y coseno · amplitud
+
+La amplitud de y = a sen x y y = a cos x representa la mitad de la distancia entre los valores máximo y mínimo de la función y está dada por Amplitud = |a|.
+
+---
+
+### 17
+
+De conformidad con el libro de Matemáticas, ¿qué es la gráfica de y = −f(x) respecto de la gráfica de y = f(x)?
+
+- A. Una reflexión en el eje x
+- B. Una reflexión en el eje y
+- C. Una traslación horizontal
+- D. Una contracción vertical
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 174
+**Subtema:** gráficas de seno y coseno · reflexión
+
+La gráfica de y = −f(x) es una reflexión en el eje x de la gráfica de y = f(x).
+
+---
+
+### 18
+
+En relación con el libro de Matemáticas, ¿de qué valor a qué valor de x completa un ciclo la gráfica de y = a sen bx?
+
+- A. De x = 0 a x = 2π/b
+- B. De x = 0 a x = 2π
+- C. De x = 0 a x = b/2π
+- D. De x = b a x = 2π
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 174
+**Subtema:** gráficas de seno y coseno · periodo
+
+La gráfica de y = a sen bx completa un ciclo de x = 0 a x = 2π/b.
+
+---
+
+### 19
+
+De acuerdo con el libro de Matemáticas, si el periodo de y = a sen bx es mayor que 2π, ¿qué representa?
+
+- A. Un estiramiento horizontal de la curva básica
+- B. Una contracción horizontal de la curva básica
+- C. Un estiramiento vertical de la curva básica
+- D. Una contracción vertical de la curva básica
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 174
+**Subtema:** gráficas de seno y coseno · periodo
+
+Si 0 < b < 1 el periodo de y = a sen bx es mayor que 2π y representa un estiramiento horizontal de la curva básica.
+
+---
+
+### 20
+
+De conformidad con el libro de Matemáticas, si el periodo de y = a sen bx es menor que 2π, ¿qué representa?
+
+- A. Una contracción horizontal de la curva básica
+- B. Un estiramiento horizontal de la curva básica
+- C. Una contracción vertical de la curva básica
+- D. Un estiramiento vertical de la curva básica
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 174
+**Subtema:** gráficas de seno y coseno · periodo
+
+El periodo de y = a sen bx es menor que 2π y representa una contracción horizontal de la curva básica.
+
+---
+
+### 21
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo se divide un periodo-intervalo en cuatro partes iguales?
+
+- A. Sumando sucesivamente el periodo entre cuatro, empezando por el punto extremo izquierdo del intervalo
+- B. Sumando sucesivamente el periodo entre dos, empezando por el punto extremo izquierdo del intervalo
+- C. Restando sucesivamente el periodo entre cuatro, empezando por el punto extremo derecho
+- D. Multiplicando sucesivamente el periodo por cuatro
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 174
+**Subtema:** gráficas de seno y coseno · puntos clave
+
+En general, para dividir un periodo-intervalo en cuatro partes iguales, sucesivamente sume "periodo/4", empezando con el punto extremo izquierdo del intervalo.
+
+---
+
+### 22
+
+De acuerdo con el libro de Matemáticas, ¿qué crea la constante c en las ecuaciones generales?
+
+- A. Una traslación o desplazamiento horizontal de las curvas básicas
+- B. Una traslación o desplazamiento vertical de las curvas básicas
+- C. Un estiramiento vertical de las curvas básicas
+- D. Una reflexión de las curvas básicas en el eje y
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 175
+**Subtema:** gráficas de seno y coseno · traslaciones
+
+La constante c en las ecuaciones generales y = a sen(bx − c) y y = a cos(bx − c) crea una traslación (desplazamiento) horizontal de las curvas básicas.
+
+---
+
+### 23
+
+De conformidad con el libro de Matemáticas, ¿cuál es el periodo de y = a sen(bx − c)?
+
+- A. 2π/b
+- B. 2π
+- C. c/b
+- D. 2πb
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 175
+**Subtema:** gráficas de seno y coseno · periodo
+
+Esto implica que el periodo de y = a sen(bx − c) es 2π/b.
+
+---
+
+### 24
+
+En relación con el libro de Matemáticas, ¿cómo se llama el número c/b?
+
+- A. El corrimiento de fase
+- B. La amplitud
+- C. El periodo
+- D. El factor de escala
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 175
+**Subtema:** gráficas de seno y coseno · corrimiento de fase
+
+La gráfica de y = a sen bx está desplazada una cantidad c/b. El número c/b es el corrimiento de fase.
+
+---
+
+### 25
+
+De acuerdo con el libro de Matemáticas, ¿cómo se determinan los puntos finales izquierdo y derecho de un intervalo de un ciclo?
+
+- A. Resolviendo las ecuaciones bx − c = 0 y bx − c = 2π
+- B. Resolviendo las ecuaciones bx + c = 0 y bx + c = 2π
+- C. Resolviendo las ecuaciones bx = 0 y bx = 2π
+- D. Resolviendo las ecuaciones x − c = 0 y x − c = 2π
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 175
+**Subtema:** gráficas de seno y coseno · traslaciones
+
+Los puntos finales izquierdo y derecho de un intervalo de un ciclo se pueden determinar si se resuelven las ecuaciones bx − c = 0 y bx − c = 2π.
 
 ---
