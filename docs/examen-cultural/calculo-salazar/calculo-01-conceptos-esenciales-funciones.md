@@ -66,13 +66,31 @@ Unidad 1), que es sólo el listado de contenidos conceptuales, procedimentales y
 actitudinales; la **evaluación diagnóstica**; y los apartados **"Unidad integradora ·
 Deduce y aprende"**, que son actividades de equipo con materiales y procedimiento.
 
+## Criterio: nada de ejemplos ilustrativos
+
+**Decisión de Carlo, 15 ago 2026**, tomada sobre este mismo archivo — la regla general
+está en `docs/examen-cultural/README.md`. **No se escriben reactivos sobre la anécdota
+con que el libro ilustra un concepto**, sólo sobre el concepto. El aspirante no puede
+sacar el libro en pleno examen, así que un reactivo sobre el equipo de fútbol o sobre
+la familia no mide si sabe qué es un conjunto: mide si recuerda con qué historia se lo
+explicaron, y además está fuera del contexto de la materia.
+
+**Este libro es especialmente propenso**, porque introduce cada tema con una escena
+cotidiana antes de la definición: "tú y yo", la relación con los padres, el equipo
+deportivo. **Se salta esa parte y se va a la definición.** Tres reactivos del sub-lote 1
+se retiraron por esta regla: los dos de los ejemplos (equipo deportivo y padres) y el de
+la frase de transición *"definimos esto porque lo usaremos en estos temas"*, que habla
+del libro y no de la materia.
+
 ## Cobertura actual
 
-- Cubierta la página impresa **8**: el apartado **Conjunto y elemento** (la definición
-  de conjunto y de elemento, los dos ejemplos, y las letras con que se nombran unos y
-  otros) y el arranque del **1.1** con el apartado **Funciones**, donde el libro
-  introduce la idea de relación con los ejemplos de "tú y yo" y el de los padres. Las
-  Figuras 1.1, 1.2 y 1.3 son ilustraciones y no llevan reactivos.
+- Cubierta la página impresa **8**: del apartado **Conjunto y elemento**, lo citable —
+  la definición de conjunto, la de elemento y las letras con que se nombran unos y
+  otros. **Quedan fuera sus dos ejemplos** (la familia y el equipo deportivo) y la
+  frase de transición que abre el apartado, por la regla de arriba. Del arranque del
+  **1.1 · Funciones** no salió reactivo: esa parte de la página es sólo la escena
+  introductoria de "tú y yo" y la relación con los padres, que es ejemplo ilustrativo;
+  **la teoría del 1.1 empieza en la p.9**. Las Figuras 1.1, 1.2 y 1.3 son ilustraciones.
 
 **Pendiente:** EN CURSO. Sigue desde la **p.9** con el resto del **1.1** (dominio,
 codominio o contradominio y regla de correspondencia), y luego el **1.2** (p.10) y el
@@ -119,22 +137,7 @@ De conformidad con el libro de Cálculo, ¿cómo se llaman los objetos que perte
 
 ### 3
 
-En relación con el libro de Cálculo, ¿por qué se definen los conceptos de elemento y conjunto antes de entrar al tema de relaciones y funciones?
-
-- A. Porque se utilizarán en esos temas
-- B. Porque son el objeto de estudio del cálculo diferencial
-- C. Porque permiten graficar cualquier función
-- D. Porque de ellos se deduce la regla de correspondencia
-
-**Respuesta:** A
-**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 8
-**Subtema:** Conjunto y elemento · Definición de conjunto
-
-"Antes de introducirnos al tema de relaciones y funciones se hace necesario definir los conceptos de elemento y conjunto, ya que los utilizaremos en estos temas."
-
-### 4
-
-De acuerdo con el libro de Cálculo, ¿qué letras se utilizan para nombrar conjuntos?
+En relación con el libro de Cálculo, ¿qué letras se utilizan para nombrar conjuntos?
 
 - A. Letras mayúsculas: A, B, C
 - B. Letras minúsculas: a, b, c
@@ -147,9 +150,9 @@ De acuerdo con el libro de Cálculo, ¿qué letras se utilizan para nombrar conj
 
 "Para nombrar conjuntos se utilizan letras mayúsculas: A, B, C, y letras minúsculas: a, b, c, para indicar elementos."
 
-### 5
+### 4
 
-De conformidad con el libro de Cálculo, ¿qué letras se utilizan para indicar elementos?
+De acuerdo con el libro de Cálculo, ¿qué letras se utilizan para indicar elementos?
 
 - A. Letras minúsculas: a, b, c
 - B. Letras mayúsculas: A, B, C
@@ -162,36 +165,4 @@ De conformidad con el libro de Cálculo, ¿qué letras se utilizan para indicar 
 
 "Para nombrar conjuntos se utilizan letras mayúsculas: A, B, C, y letras minúsculas: a, b, c, para indicar elementos."
 
-> Nota de revisor: los reactivos 4 y 5 van con las opciones cruzadas. Es la misma frase del libro leída en sus dos mitades, y el par mayúscula/minúscula se voltea solo.
-
-### 6
-
-En relación con el libro de Cálculo, en el ejemplo del equipo de fútbol, béisbol y básquetbol, ¿quiénes son elementos del conjunto?
-
-- A. Cada uno de los jugadores titulares y suplentes
-- B. Únicamente los jugadores titulares
-- C. Los jugadores titulares y el entrenador
-- D. Los equipos completos, no los jugadores
-
-**Respuesta:** A
-**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 8
-**Subtema:** Conjunto y elemento · Ejemplos de conjuntos
-
-"Un equipo de fútbol, béisbol y básquetbol. Cada uno de los jugadores titulares y suplentes es elemento del conjunto."
-
-> Nota de revisor: el aspirante da por hecho que son los titulares. El libro incluye expresamente a los **suplentes**.
-
-### 7
-
-De acuerdo con el libro de Cálculo, al examinar la relación de una persona con sus padres, ¿qué observa el libro?
-
-- A. Que al hijo le corresponden dos elementos, padre y madre
-- B. Que al hijo le corresponde un solo elemento, el padre
-- C. Que a cada hijo le corresponde un número indeterminado de elementos
-- D. Que padre y madre forman un solo elemento del conjunto
-
-**Respuesta:** A
-**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 8
-**Subtema:** Conceptos fundamentales de una función · Relaciones
-
-"Observamos que al hijo le corresponden dos elementos padre y madre, pero lo podemos considerar al revés que a cada padre le corresponda un hijo (solo se tiene un hijo)."
+> Nota de revisor: los reactivos 3 y 4 van con las opciones cruzadas. Es la misma frase del libro leída en sus dos mitades, y el par mayúscula/minúscula se voltea solo.

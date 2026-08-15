@@ -32,6 +32,40 @@ Formato de cada reactivo:
    distractor absurdo regala el reactivo. Lo que mejor funciona es tomar los
    distractores del **mismo párrafo o del mismo cuadro**.
 
+### REGLA — no se escriben reactivos sobre los ejemplos ilustrativos del libro
+
+**Decisión de Carlo, 15 ago 2026.** El reactivo pregunta por el **contenido de la
+materia**: definiciones, reglas, teoremas, cifras, nombres propios, clasificaciones.
+**Nunca por la anécdota con que el libro ilustra ese contenido.**
+
+Ejemplo de lo que **NO** se escribe (salió en el arranque de Cálculo y se retiró):
+
+> *"En el ejemplo del equipo de fútbol, béisbol y básquetbol, ¿quiénes son elementos
+> del conjunto?"* → "Cada uno de los jugadores titulares y suplentes".
+
+**Por qué no.** El aspirante **no puede sacar el libro en pleno examen**: sólo
+acertaría quien hubiera memorizado una anécdota que no enseña nada de la materia. Y
+está **fuera de contexto** — la pregunta no es de Cálculo, es de fútbol. Un reactivo
+así no mide si el aspirante sabe qué es un conjunto; mide si recuerda con qué deporte
+lo explicaron.
+
+**Cómo distinguirlo.** Pregúntate qué queda si le quitas el ejemplo:
+
+- *"¿Qué es un conjunto?"* → una colección de objetos bien definidos. **El contenido
+  sigue en pie: SÍ va.**
+- *"¿Quiénes son elementos en el equipo de fútbol?"* → si quitas el fútbol, no queda
+  nada que saber. **NO va.**
+
+Caen bajo esta regla los ejemplos anecdóticos (la familia, el equipo, "tú y yo"), los
+ejercicios resueltos y las frases de transición del libro (*"definimos esto porque lo
+usaremos más adelante"*), que hablan del libro y no de la materia.
+
+**No confundir con los casos que SÍ van:** un dato real citado como ejemplo sigue
+siendo dato de la materia. Que el Trópico de Cáncer *"divide en dos partes casi iguales
+a la República Mexicana"* es geografía, no anécdota; que la Meseta de Anáhuac sea el
+ejemplo de descenso de temperatura por altitud, también. La diferencia es que ahí el
+ejemplo **es** el contenido, no un envoltorio para explicarlo.
+
 ## Temario del HCM
 
 Las dos licenciaturas del Heroico Colegio Militar —Administración Militar y
