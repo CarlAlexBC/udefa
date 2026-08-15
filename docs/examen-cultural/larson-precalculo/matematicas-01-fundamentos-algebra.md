@@ -58,8 +58,10 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 - Cubiertas las páginas impresas **19 y 20**: el alcance de las propiedades a todos los enteros, la distinción entre `(−2)⁴` y `−2⁴`, y el recuadro *COMENTARIO* con la forma fraccionaria de la propiedad 3. Los `EJEMPLO 1` a `EJEMPLO 4`, los `Punto de repaso` y el recuadro `TECNOLOGÍA` no llevan reactivos por norma.
 - Cubierta la página impresa **21**: el apartado *Notación científica* completo (la forma `±c × 10ⁿ`, lo que indican el exponente positivo y el negativo, y la masa del electrón). Los `EJEMPLO 5` a `EJEMPLO 7` y el `TECNOLOGÍA` de las calculadoras no llevan reactivos.
 - Cubierta la página impresa **22**: el apartado *Radicales y sus propiedades* —raíz cuadrada y cúbica, el recuadro *Definición de la raíz enésima de un número*, el recuadro *Principal raíz enésima de un número* (índice, radicando, plural de índice) y el malentendido del signo de raíz cuadrada—. El `EJEMPLO 8` no lleva reactivos.
+- Cubierta la página impresa **23**: la tabla *Generalizaciones sobre raíces enésimas de números reales* (sus cuatro casos), los cuadrados y cubos perfectos, y el recuadro *Propiedades de los radicales* con sus seis propiedades y el uso común de la 6. El `EJEMPLO 9` no lleva reactivos.
+- Cubierta la página impresa **24**: *Simplificación de expresiones radicales* (las tres condiciones de la forma más simple, la racionalización del denominador y cómo se factoriza el radicando), la combinación de radicales iguales y el recuadro *COMENTARIO*. Los `EJEMPLO 10` y `EJEMPLO 11` no llevan reactivos.
 
-**Pendiente:** EN CURSO. Sigue desde la página impresa **23**, con lo que reste de las propiedades de los radicales, hasta cerrar el **1.3** en la **p. 29**. Después faltan los otros seis subtemas que pide el temario —**1.4** (p. 30), **1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+**Pendiente:** EN CURSO. Sigue desde la página impresa **25**, con la racionalización de denominadores y numeradores y los exponentes racionales, hasta cerrar el **1.3** en la **p. 29**. Después faltan los otros seis subtemas que pide el temario —**1.4** (p. 30), **1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -901,5 +903,434 @@ De acuerdo con el libro de Matemáticas, ¿qué se debe hacer cuando se necesita
 **Subtema:** exponentes y radicales · signo de raíz cuadrada
 
 Cuando se necesita una raíz negativa, se debe usar el signo negativo con el signo de raíz cuadrada.
+
+---
+
+## Sub-lote 5 · Generalizaciones y propiedades de los radicales (1.3, p. 23)
+
+### 50
+
+De conformidad con el libro de Matemáticas, según las generalizaciones sobre raíces enésimas, ¿qué raíces tiene un número real a mayor que cero cuando n es par?
+
+- A. Dos: ⁿ√a y −ⁿ√a
+- B. Una sola: ⁿ√a
+- C. Una sola: −ⁿ√a
+- D. Ninguna raíz real
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · generalizaciones sobre raíces enésimas
+
+Número real a: a > 0. Entero n > 0: n es par. Raíz o raíces de a: ⁿ√a, −ⁿ√a.
+
+---
+
+### 51
+
+En relación con el libro de Matemáticas, según las generalizaciones sobre raíces enésimas, ¿qué raíz tiene un número real a cuando n es impar?
+
+- A. Una sola: ⁿ√a
+- B. Dos: ⁿ√a y −ⁿ√a
+- C. Ninguna raíz real
+- D. Tantas raíces como indique n
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · generalizaciones sobre raíces enésimas
+
+Número real a: a > 0 o a < 0. Entero n > 0: n es impar. Raíz o raíces de a: ⁿ√a.
+
+---
+
+### 52
+
+De acuerdo con el libro de Matemáticas, según las generalizaciones sobre raíces enésimas, ¿qué ocurre cuando a es menor que cero y n es par?
+
+- A. No hay ninguna raíz real
+- B. Hay dos raíces reales
+- C. Hay una sola raíz real
+- D. La raíz siempre es cero
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · generalizaciones sobre raíces enésimas
+
+Número real a: a < 0. Entero n > 0: n es par. Raíz o raíces de a: ninguna raíz real.
+
+---
+
+### 53
+
+De conformidad con el libro de Matemáticas, ¿qué ejemplo da la tabla de generalizaciones para el caso en que no hay ninguna raíz real?
+
+- A. Que √−4 no es un número real
+- B. Que ⁴√81 no es un número real
+- C. Que ³√−8 no es un número real
+- D. Que ⁵√0 no es un número real
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · generalizaciones sobre raíces enésimas
+
+Ejemplo: √−4 no es un número real.
+
+---
+
+### 54
+
+En relación con el libro de Matemáticas, según las generalizaciones sobre raíces enésimas, ¿cuánto vale ⁿ√0?
+
+- A. Cero, sea n par o impar
+- B. Uno, sea n par o impar
+- C. Cero sólo cuando n es par
+- D. No tiene raíz real
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · generalizaciones sobre raíces enésimas
+
+Número real a: a = 0. Entero n > 0: n es par o impar. Raíz o raíces de a: ⁿ√0 = 0.
+
+---
+
+### 55
+
+De acuerdo con el libro de Matemáticas, ¿por qué enteros como 1, 4, 9, 16, 25 y 36 son cuadrados perfectos?
+
+- A. Porque tienen raíces cuadradas enteras
+- B. Porque tienen raíces cúbicas enteras
+- C. Porque son múltiplos de un cuadrado
+- D. Porque se obtienen al elevar al cuadrado un número par
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · cuadrados y cubos perfectos
+
+Enteros como 1, 4, 9, 16, 25 y 36 son cuadrados perfectos porque tienen raíces cuadradas enteras.
+
+---
+
+### 56
+
+De conformidad con el libro de Matemáticas, ¿qué son enteros como 1, 8, 27, 64 y 125?
+
+- A. Cubos perfectos, porque tienen raíces cúbicas enteras
+- B. Cuadrados perfectos, porque tienen raíces cuadradas enteras
+- C. Números primos, porque no tienen divisores enteros
+- D. Radicales iguales, porque comparten el mismo índice
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · cuadrados y cubos perfectos
+
+De igual forma, enteros como 1, 8, 27, 64 y 125 son cubos perfectos, porque tienen raíces cúbicas enteras.
+
+---
+
+### 57
+
+En relación con el libro de Matemáticas, en el recuadro de las propiedades de los radicales, ¿qué deben ser m y n?
+
+- A. Enteros positivos
+- B. Enteros cualesquiera
+- C. Números reales
+- D. Números racionales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · propiedades de los radicales
+
+Sean a y b números reales, variables o expresiones algebraicas, tales que las siguientes raíces son números reales y sean m y n enteros positivos.
+
+---
+
+### 58
+
+De acuerdo con el libro de Matemáticas, según la propiedad 2 de los radicales, ¿a qué es igual ⁿ√a · ⁿ√b?
+
+- A. A ⁿ√(ab)
+- B. A ⁿ√(a + b)
+- C. A ᵐⁿ√(ab)
+- D. A ⁿ√(a/b)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · propiedades de los radicales
+
+2. ⁿ√a · ⁿ√b = ⁿ√(ab).
+
+---
+
+### 59
+
+De conformidad con el libro de Matemáticas, ¿qué condición acompaña a la propiedad 3 de los radicales?
+
+- A. Que b sea distinto de cero
+- B. Que a sea distinto de cero
+- C. Que a y b sean positivos
+- D. Que n sea par
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · propiedades de los radicales
+
+3. ⁿ√a / ⁿ√b = ⁿ√(a/b), b ≠ 0.
+
+---
+
+### 60
+
+En relación con el libro de Matemáticas, según la propiedad 5 de los radicales, ¿a qué es igual (ⁿ√a)ⁿ?
+
+- A. A a
+- B. A |a|
+- C. A aⁿ
+- D. A ⁿ√a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · propiedades de los radicales
+
+5. (ⁿ√a)ⁿ = a.
+
+---
+
+### 61
+
+De acuerdo con el libro de Matemáticas, según la propiedad 6 de los radicales, ¿a qué es igual ⁿ√(aⁿ) cuando n es par y cuando n es impar, respectivamente?
+
+- A. A |a| y a a
+- B. A a y a |a|
+- C. A |a| en los dos casos
+- D. A a en los dos casos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · propiedades de los radicales
+
+6. Para n par, ⁿ√(aⁿ) = |a|. Para n impar, ⁿ√(aⁿ) = a.
+
+---
+
+### 62
+
+De conformidad con el libro de Matemáticas, ¿cuál es un uso común de la propiedad 6 de los radicales?
+
+- A. Que √(a²) = |a|
+- B. Que √(a²) = a
+- C. Que √(a²) = a²
+- D. Que √(a²) = −a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 23
+**Subtema:** exponentes y radicales · propiedades de los radicales
+
+Un uso común de la propiedad 6 es √(a²) = |a|.
+
+---
+
+## Sub-lote 6 · Simplificación y combinación de expresiones radicales (1.3, p. 24)
+
+### 63
+
+En relación con el libro de Matemáticas, ¿cuántas condiciones debe satisfacer una expresión con radicales para estar en su forma más simple?
+
+- A. Tres condiciones
+- B. Dos condiciones
+- C. Cuatro condiciones
+- D. Seis condiciones
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 24
+**Subtema:** exponentes y radicales · forma más simple
+
+Una expresión que implica radicales está en su forma más simple cuando se satisfacen las tres condiciones siguientes.
+
+---
+
+### 64
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la primera condición para que una expresión con radicales esté en su forma más simple?
+
+- A. Que todos los factores posibles hayan sido eliminados del radical
+- B. Que todas las fracciones tengan denominadores sin radicales
+- C. Que el índice del radical esté reducido
+- D. Que el radicando sea un cuadrado perfecto
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 24
+**Subtema:** exponentes y radicales · forma más simple
+
+1. Todos los factores posibles han sido eliminados del radical.
+
+---
+
+### 65
+
+De conformidad con el libro de Matemáticas, ¿cuál es la segunda condición para que una expresión con radicales esté en su forma más simple?
+
+- A. Que todas las fracciones tengan denominadores sin radicales
+- B. Que todos los factores posibles hayan sido eliminados del radical
+- C. Que el índice del radical esté reducido
+- D. Que el radicando no sea negativo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 24
+**Subtema:** exponentes y radicales · forma más simple
+
+2. Todas las fracciones tienen denominadores sin radicales.
+
+---
+
+### 66
+
+En relación con el libro de Matemáticas, ¿cómo se llama el proceso que logra que las fracciones tengan denominadores sin radicales?
+
+- A. Racionalización del denominador
+- B. Reducción del índice
+- C. Factorización del radicando
+- D. Combinación de radicales iguales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 24
+**Subtema:** exponentes y radicales · forma más simple
+
+Todas las fracciones tienen denominadores sin radicales (un proceso llamado racionalización del denominador logra esto).
+
+---
+
+### 67
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la tercera condición para que una expresión con radicales esté en su forma más simple?
+
+- A. Que el índice del radical esté reducido
+- B. Que el radicando esté reducido
+- C. Que el coeficiente del radical esté reducido
+- D. Que el exponente del radicando esté reducido
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 24
+**Subtema:** exponentes y radicales · forma más simple
+
+3. El índice del radical es reducido.
+
+---
+
+### 68
+
+De conformidad con el libro de Matemáticas, para simplificar un radical, ¿en qué factores se debe factorizar el radicando?
+
+- A. En factores cuyos exponentes sean múltiplos del índice
+- B. En factores cuyos exponentes sean divisores del índice
+- C. En factores cuyos exponentes sean números primos
+- D. En factores cuyos exponentes sean iguales al radicando
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 24
+**Subtema:** exponentes y radicales · simplificación de radicales
+
+Para simplificar un radical, factorice el radicando en factores cuyos exponentes sean múltiplos del índice.
+
+---
+
+### 69
+
+En relación con el libro de Matemáticas, al simplificar un radical, ¿dónde se escriben las raíces de los factores encontrados?
+
+- A. Afuera del radical
+- B. Adentro del radical
+- C. En el índice del radical
+- D. En el denominador de la expresión
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 24
+**Subtema:** exponentes y radicales · simplificación de radicales
+
+Escriba las raíces de estos factores afuera del radical.
+
+---
+
+### 70
+
+De acuerdo con el libro de Matemáticas, al simplificar un radical, ¿qué componen los factores "sobrantes"?
+
+- A. El nuevo radicando
+- B. El nuevo índice
+- C. El coeficiente que va afuera del radical
+- D. El denominador de la fracción
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 24
+**Subtema:** exponentes y radicales · simplificación de radicales
+
+Los factores "sobrantes" componen el nuevo radicando.
+
+---
+
+### 71
+
+De conformidad con el libro de Matemáticas, ¿cuándo pueden combinarse, sumándose o restándose, las expresiones radicales?
+
+- A. Cuando son radicales iguales
+- B. Cuando tienen el mismo coeficiente
+- C. Cuando el radicando es un cuadrado perfecto
+- D. Cuando su índice es par
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 24
+**Subtema:** exponentes y radicales · combinación de radicales
+
+Expresiones radicales pueden combinarse (sumarse o restarse) cuando son radicales iguales.
+
+---
+
+### 72
+
+En relación con el libro de Matemáticas, ¿qué tienen en común dos radicales iguales?
+
+- A. El mismo índice y el mismo radicando
+- B. El mismo índice y el mismo coeficiente
+- C. El mismo radicando y el mismo coeficiente
+- D. El mismo valor numérico
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 24
+**Subtema:** exponentes y radicales · combinación de radicales
+
+Es decir, cuando tienen el mismo índice y radicando.
+
+---
+
+### 73
+
+De acuerdo con el libro de Matemáticas, ¿qué debe hacerse para determinar si dos radicales pueden combinarse?
+
+- A. Simplificar primero cada radical
+- B. Igualar primero sus coeficientes
+- C. Elevar primero cada radical a su índice
+- D. Racionalizar primero el denominador
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 24
+**Subtema:** exponentes y radicales · combinación de radicales
+
+Para determinar si dos radicales pueden combinarse, simplifique primero cada radical.
+
+---
+
+### 74
+
+De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué es importante cuidar cuando se simplifica un radical?
+
+- A. Que la expresión original y la simplificada estén definidas para los mismos valores de la variable
+- B. Que la expresión simplificada tenga menos términos que la original
+- C. Que el índice de la expresión simplificada sea par
+- D. Que la expresión simplificada no contenga fracciones
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 24
+**Subtema:** exponentes y radicales · simplificación de radicales
+
+Cuando se simplifica un radical, es importante que las expresiones tanto original como simplificada sean definidas para los mismos valores de la variable.
 
 ---
