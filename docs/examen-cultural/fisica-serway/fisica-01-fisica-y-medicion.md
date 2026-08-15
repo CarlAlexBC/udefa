@@ -33,9 +33,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **3–13**: las secciones **1.1** a **1.5** y el **arranque de 1.6 · Cifras significativas**. La **p.11** (Ejemplos 1.2/1.3) y el **Ejemplo 1.5** (p.13) no llevan reactivos por norma.
+**EN CURSO.** Escritas las páginas impresas **3–14**: las secciones **1.1** a **1.6** (esta última con las reglas de las cifras significativas: multiplicación/división y suma/resta). La **p.11** (Ejemplos 1.2/1.3) y el **Ejemplo 1.5** (p.13) no llevan reactivos por norma.
 
-**Pendiente:** EN CURSO. Sigue **1.6 · Cifras significativas** en la **p.14** y el **Resumen** (p.15), con lo que se cierra el Capítulo 1.
+**Pendiente:** EN CURSO. Sigue el **Resumen** (p.15), con lo que se cierra el Capítulo 1 (los ejercicios de fin de capítulo, pp.16–17, no llevan reactivos).
 
 ---
 
@@ -1096,3 +1096,97 @@ De conformidad con el libro de Física, ¿de qué factores depende el valor de l
 **Subtema:** cifras significativas · incertidumbre experimental
 
 "El valor de esta incertidumbre depende de varios factores, como la calidad del aparato, la habilidad del experimentador y el número de mediciones realizadas."
+
+---
+
+## Sub-lote 11 · Reglas de las cifras significativas (p.14)
+
+### 69
+
+De acuerdo con el libro de Física, ¿qué incluyen las cifras significativas de una medición?
+
+- A. El primer dígito estimado
+- B. Únicamente los dígitos exactos, sin estimación
+- C. Todos los ceros a la izquierda del número
+- D. Solo los dígitos distintos de cero
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 14
+**Subtema:** cifras significativas · primer dígito estimado
+
+"Las cifras significativas incluyen el primer dígito estimado."
+
+### 70
+
+En relación con el libro de Física, los ceros que se usan para la posición del punto decimal en números como 0.03 y 0.0075, ¿son cifras significativas?
+
+- A. No son significativos
+- B. Siempre son significativos
+- C. Solo el primero es significativo
+- D. Cuentan como media cifra significativa
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 14
+**Subtema:** cifras significativas · ceros
+
+"Los que se usan para la posición del punto decimal en números como 0.03 y 0.0075 no son significativos."
+
+### 71
+
+De conformidad con el libro de Física, cuando se multiplican (o se dividen) varias cantidades, ¿cuántas cifras significativas tiene la respuesta final?
+
+- A. Las mismas que la cantidad que tiene el número más pequeño de cifras significativas
+- B. Las mismas que la cantidad que tiene el número más grande de cifras significativas
+- C. La suma de las cifras significativas de todas las cantidades
+- D. Las que determine el número de lugares decimales del resultado
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 14
+**Subtema:** cifras significativas · multiplicación y división
+
+"Cuando se multiplican muchas cantidades, el número de cifras significativas en la respuesta final es el mismo que el número de cifras significativas en la cantidad que tiene el número más pequeño de cifras significativas. La misma regla aplica para la división."
+
+### 72
+
+De acuerdo con el libro de Física, cuando los números se suman o se restan, ¿cómo se determina el número de lugares decimales del resultado?
+
+- A. Debe ser igual al número más pequeño de lugares decimales de cualquier término en la suma o resta
+- B. Debe ser igual al número más grande de lugares decimales de los términos
+- C. Debe ser igual al número de cifras significativas del término menor
+- D. Debe conservar todos los lugares decimales que arroje la calculadora
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 14
+**Subtema:** cifras significativas · suma y resta
+
+"Cuando los números se sumen o resten, el número de lugares decimales en el resultado debe ser igual al número más pequeño de lugares decimales de cualquier término en la suma o resta."
+
+### 73
+
+En relación con el libro de Física, ¿en qué se diferencia la regla de las cifras significativas para la suma y la resta respecto a la de la multiplicación y la división?
+
+- A. Para suma y resta, la consideración relevante es el número de lugares decimales, no el de cifras significativas
+- B. Para suma y resta se conserva siempre una cifra significativa más
+- C. Para suma y resta no importa el número de decimales
+- D. No hay diferencia: ambas reglas usan el número de cifras significativas
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 14
+**Subtema:** cifras significativas · lugares decimales contra cifras
+
+"Observe que la regla para suma y resta es diferente de la regla de multiplicación y división. Para suma y resta, la consideración relevante es el número de *lugares decimales*, no el de *cifras significativas*."
+
+### 74
+
+De conformidad con el libro de Física, ¿cuántas cifras significativas tiene el valor 0.0075?
+
+- A. Dos
+- B. Cuatro
+- C. Una
+- D. Tres
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 14
+**Subtema:** cifras significativas · conteo
+
+Los ceros de posición de 0.03 y 0.0075 no son significativos; por eso "existen una y dos cifras significativas, respectivamente, en estos dos valores".
