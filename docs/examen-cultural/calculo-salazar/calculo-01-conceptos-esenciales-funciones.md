@@ -56,12 +56,17 @@ Secciones de la Unidad 1, según el índice del libro:
 
 ## Erratas del libro
 
-- **Patrón: a este libro se le caen letras en los títulos de color.** Van dos casos
-  verificados a 600 dpi, los dos en encabezados y ninguno en el cuerpo del texto. **No
+- **Patrón: a este libro se le caen letras en los títulos de color.** Van **tres** casos
+  verificados a 600 dpi, los tres en encabezados y ninguno en el cuerpo del texto. **No
   se escriben reactivos sobre títulos**, así que no afectan al banco, pero conviene
   saber que el aspirante los va a ver:
+  - **p.23 — "Clasificación de funcione"**, sin la *s* final.
   - **p.16 — "Gráficas de funcione"**, sin la *s* final.
   - **p.13 — "Gráficas de funciones  eales"**, sin la *r* de *reales*. Detalle abajo.
+
+  Dos de los tres pierden la misma letra —la *s* de "funciones"— en el mismo tipo de
+  encabezado rosa. Ya no es casualidad: **al revisar títulos de este libro, dalos por
+  sospechosos y no los cites como están.**
 - **p.13 — "funciones  eales" por "funciones reales", en el título del inciso a).** El
   encabezado imprime *"a) Gráficas de funciones  eales de variable real (algebraicas y
   trascendentes)"*: **falta la "r" de reales** y queda el hueco doble donde iba.
@@ -194,10 +199,21 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   funciones de la lista que el libro no bautiza (*y* = 2ˣ, *y* = log *x*, *y* = ln *x*,
   las racionales), el bloque de funciones trigonométricas con sus ángulos, y la
   **"Actividad con TIC"** de la calculadora CLASSWIZ, que es manejo de herramienta.
+- **Las páginas impresas 20, 21 y 22 NO dieron ningún reactivo.** Las tres son manejo de
+  herramienta: la **20** cierra la "Actividad con TIC" de la calculadora CLASSWIZ (qué
+  teclas oprimir, valor inicial, final y paso), y la **21** y la **22** son el apartado
+  *Uso de graficado* con el software **Winplot** —sus menús, sus capturas de pantalla y
+  cómo teclear una función en él—. Nada de eso es materia de Cálculo.
+- Cubierta la página impresa **23**: la **clasificación de las funciones** (la primera
+  división en algebraicas y trascendentes) y las **algebraicas** completas —sus tres
+  grupos, qué es cada uno y los cuatro casos en que una expresión **no** es un
+  polinomio—. **Fuera:** la actividad de aprendizaje de la cabecera, la forma general
+  *P*(*x*) = *aₙxⁿ* + … (fórmula desarrollada que el examen no pide escribir) y los
+  ejemplos de cada tipo.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.19**. Sigue desde la **p.20** con el resto del inciso **a)
-Gráficas de funciones reales de variable real** (pp. 20–24) y después los otros tres
+va cubierto hasta la **p.23**. Sigue desde la **p.24** con el resto del inciso **a)
+Gráficas de funciones reales de variable real** (p.24, la última del inciso) y después los otros tres
 incisos: **b)** explícitas o implícitas (p.25), **c)** inyectivas, sobreyectivas y
 biyectivas (p.42) y **d)** función invertible e inversa (p.49), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
@@ -1000,3 +1016,106 @@ De conformidad con el libro de Cálculo, ¿cómo se llama la función *y* = [*x*
 
 > Nota de revisor: es el nombre más olvidable de la lista, y el corchete se confunde con
 > la barra del valor absoluto. Por eso el distractor B.
+
+---
+
+## Sub-lote 10 · Clasificación de las funciones y las algebraicas (1.3 a, p.23)
+
+### 48
+
+En relación con el libro de Cálculo, ¿cuál es la primera clasificación que divide a las funciones?
+
+- A. La que las divide en algebraicas y trascendentes
+- B. La que las divide en crecientes y decrecientes
+- C. La que las divide en explícitas e implícitas
+- D. La que las divide en inyectivas y sobreyectivas
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 23
+**Subtema:** Clasificación de funciones · Primera clasificación
+
+"Una primera clasificación es la que divide a las funciones en algebraicas y trascendentes."
+
+### 49
+
+De acuerdo con el libro de Cálculo, ¿en qué tres grupos se dividen las funciones algebraicas?
+
+- A. Polinómicas, racionales y radicales
+- B. Trigonométricas, exponenciales y logarítmicas
+- C. Polinómicas, exponenciales y radicales
+- D. Racionales, irracionales y trascendentes
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 23
+**Subtema:** Clasificación de funciones · Funciones algebraicas
+
+"Las funciones algebraicas se dividen en tres grupos: [...] Funciones polinómicas [...] Funciones racionales [...] Funciones radicales o irracionales."
+
+> Nota de revisor: el distractor B es la lista de las **trascendentes**. Las dos ramas se
+> aprenden juntas y se cambian de lugar solas.
+
+### 50
+
+De conformidad con el libro de Cálculo, ¿qué son las funciones polinómicas?
+
+- A. Aquellas formadas por un polinomio
+- B. Aquellas que se forman por un cociente de dos polinomios
+- C. Aquellas donde un polinomio se encuentra dentro de un radical
+- D. Aquellas donde el exponente es el que varía
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 23
+**Subtema:** Clasificación de funciones · Funciones polinómicas
+
+"1. Funciones polinómicas. Aquellas formadas por un polinomio [...]"
+
+### 51
+
+En relación con el libro de Cálculo, ¿en qué casos una expresión algebraica **no** es un polinomio?
+
+- A. Cuando tiene variables en el denominador, cuando la variable forma parte del radical, cuando forma parte de un valor absoluto o cuando la variable es un exponente
+- B. Únicamente cuando tiene variables en el denominador
+- C. Cuando tiene más de un término o cuando el grado es mayor que tres
+- D. Cuando alguno de sus coeficientes es negativo o fraccionario
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 23
+**Subtema:** Clasificación de funciones · Funciones polinómicas
+
+"Decimos que una expresión algebraica no es un polinomio si: a) Tiene variables en el denominador [...] b) La variable forma parte del radical [...] c) La variable forma parte de un valor absoluto [...] d) La variable es un exponente [...]"
+
+> Nota de revisor: son **cuatro** casos y el aspirante suele quedarse con el primero, que
+> es el más intuitivo. Por eso el distractor B lo deja solo.
+
+### 52
+
+De acuerdo con el libro de Cálculo, ¿qué son las funciones racionales y qué condición deben cumplir?
+
+- A. Aquellas que se forman por un cociente de dos polinomios, con la condición de que el divisor no sea el polinomio cero
+- B. Aquellas que se forman por un producto de dos polinomios, con la condición de que ninguno sea cero
+- C. Aquellas formadas por un solo polinomio de grado *n*
+- D. Aquellas donde un polinomio se encuentra dentro de un radical
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 23
+**Subtema:** Clasificación de funciones · Funciones racionales
+
+"2. Funciones racionales. Aquellas que se forman por un cociente de dos polinomios con la condición de que el divisor no sea el polinomio cero, *p*(*x*) = 0."
+
+### 53
+
+De conformidad con el libro de Cálculo, ¿qué son las funciones radicales o irracionales?
+
+- A. Aquellas donde un polinomio se encuentra dentro de un radical
+- B. Aquellas que se forman por un cociente de dos polinomios
+- C. Aquellas formadas por un polinomio de grado *n*
+- D. Aquellas donde encontramos los logaritmos de diferentes bases
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 23
+**Subtema:** Clasificación de funciones · Funciones radicales
+
+"3. Funciones radicales o irracionales. Aquellas donde un polinomio se encuentra dentro de un radical."
+
+> Nota de revisor: **"o irracionales"** es el segundo nombre que el libro le da y que casi
+> nadie retiene, igual que pasó con "lugar geométrico" en la p.18.
