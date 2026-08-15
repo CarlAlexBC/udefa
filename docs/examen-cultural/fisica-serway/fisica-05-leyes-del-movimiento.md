@@ -32,9 +32,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **101–108**: **5.1** (concepto de fuerza), **5.2** (primera ley, marcos inerciales, inercia), **5.3** (masa contra peso), **5.4 · Segunda ley de Newton** (el enunciado ΣF = ma, la fuerza neta, y la definición del newton: 1 N ≡ 1 kg·m/s²), **5.5 · Fuerza gravitacional y peso** (Fg = mg, el peso varía con la altitud, peso como propiedad de un sistema, kg = unidad de masa, masa inercial contra masa gravitacional) y **5.6 · Tercera ley de Newton** (el enunciado F12 = −F21, las fuerzas como interacciones, notación de subíndices, fuerza de acción/reacción sobre objetos diferentes y del mismo tipo). Las pp.106 y 108 traen ejemplos resueltos (Ejemplo 5.1, Ejemplo conceptual 5.2) y un examen rápido que no aportan reactivos.
+**CAPÍTULO 5 CERRADO** (a nivel de temario). Escritas las páginas impresas **101–109**, que cubren los seis temas que pide el temario `FÍSICA-02-2026`: **5.1** (concepto de fuerza), **5.2** (primera ley, marcos inerciales, inercia), **5.3** (masa contra peso), **5.4 · Segunda ley de Newton** (el enunciado ΣF = ma, la fuerza neta, y la definición del newton: 1 N ≡ 1 kg·m/s²), **5.5 · Fuerza gravitacional y peso** (Fg = mg, el peso varía con la altitud, peso como propiedad de un sistema, kg = unidad de masa, masa inercial contra masa gravitacional) y **5.6 · Tercera ley de Newton** (el enunciado F12 = −F21, las fuerzas como interacciones, notación de subíndices, fuerza de acción/reacción sobre objetos diferentes y del mismo tipo, la fuerza normal, cuándo n ≠ mg, y los diagramas de fuerzas y de cuerpo libre). Las pp.106 y 108 traen ejemplos resueltos (Ejemplo 5.1, Ejemplo conceptual 5.2) y exámenes rápidos que no aportan reactivos. **Total: 55 reactivos.**
 
-**Pendiente:** EN CURSO. Falta el cierre de **5.6** (p.109) por si continúa, hasta la p.110.
+El **5.7 en adelante** («Modelos de análisis en los que se utiliza la segunda ley de Newton», empieza en la p.110) no lo pide el temario y queda fuera.
+
+**Pendiente:** el **Capítulo 5 queda CERRADO** (temario 5.1–5.6 completo, 55 reactivos). Faltan por escribir los demás capítulos del temario de Física EMEFA, cada uno en su propio archivo: **Cap. 2** (Movimiento en una dimensión — sólo 2.1, 2.2 y 2.5), **Cap. 3** (Vectores — completo) y **Cap. 10** (Mecánica de fluidos — 10.1 a 10.6).
 
 ---
 
@@ -749,3 +751,140 @@ En relación con el libro de Física, además de actuar sobre objetos diferentes
 **Subtema:** tercera ley de Newton · acción y reacción del mismo tipo
 
 "En todos los casos, las fuerzas de acción y reacción actúan sobre objetos diferentes y deben ser del mismo tipo (gravitacional, eléctrico, etcétera)."
+
+## Sub-lote 7 · Fuerza normal y diagrama de cuerpo libre (p.109)
+
+### 47
+
+De conformidad con el libro de Física, la fuerza hacia arriba que una mesa (o cualquier superficie) ejerce sobre un objeto que está en contacto con ella se llama:
+
+- A. fuerza normal
+- B. fuerza de reacción
+- C. fuerza gravitacional
+- D. fuerza de tensión
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 109
+**Subtema:** tercera ley de Newton · fuerza normal
+
+"La mesa ejerce sobre el monitor una fuerza hacia arriba n = Ftm, llamada fuerza normal."
+
+### 48
+
+De acuerdo con el libro de Física, en el contexto de la fuerza normal, la palabra "normal" significa:
+
+- A. perpendicular
+- B. paralela
+- C. constante
+- D. habitual
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 109
+**Subtema:** tercera ley de Newton · normal = perpendicular
+
+"(Normal en este contexto significa perpendicular.)"
+
+### 49
+
+En relación con el libro de Física, ¿qué ocurre siempre que un objeto está en contacto con una superficie?
+
+- A. La superficie ejerce una fuerza normal sobre el objeto
+- B. El objeto pierde su peso
+- C. La superficie ejerce una fuerza de fricción igual al peso
+- D. No se ejerce ninguna fuerza sobre el objeto
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 109
+**Subtema:** tercera ley de Newton · fuerza normal en superficies de contacto
+
+"En general, siempre que un objeto esté en contacto con una superficie, esta ejerce una fuerza normal sobre el objeto."
+
+### 50
+
+De conformidad con el libro de Física, respecto a que la fuerza normal n tenga la misma magnitud que la fuerza gravitacional (n = mg), el libro advierte que ese resultado:
+
+- A. generalmente no es cierto
+- B. siempre es cierto
+- C. solo es cierto en caída libre
+- D. nunca es cierto
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 109
+**Subtema:** tercera ley de Newton · n no siempre es igual a mg (prevención de riesgos ocultos 5.6)
+
+"Se encuentra que n = mg (la fuerza normal tiene la misma magnitud que la fuerza gravitacional). Sin embargo, este resultado generalmente no es cierto."
+
+### 51
+
+De acuerdo con el libro de Física, la fuerza normal n es distinta de mg si el objeto está en un plano inclinado, si hay fuerzas aplicadas con componentes verticales o si hay:
+
+- A. una aceleración vertical del sistema
+- B. rozamiento con el aire
+- C. un cambio de temperatura
+- D. más de un objeto en contacto
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 109
+**Subtema:** tercera ley de Newton · casos en que n ≠ mg (prevención de riesgos ocultos 5.6)
+
+"Si un objeto está en un plano inclinado, si hay fuerzas aplicadas con componentes verticales o si hay una aceleración vertical del sistema, entonces n ≠ mg."
+
+### 52
+
+En relación con el libro de Física, la fuerza normal n y la fuerza gravitacional mg sobre un objeto son iguales en magnitud y opuestas en dirección, pero no representan un par acción-reacción porque:
+
+- A. ambas fuerzas actúan sobre el mismo objeto
+- B. son de distinta magnitud
+- C. una es de contacto y la otra no
+- D. actúan en la misma dirección
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 109
+**Subtema:** tercera ley de Newton · n y mg no son par acción-reacción (prevención de riesgos ocultos 5.7)
+
+"Las fuerzas n y mg son iguales en magnitud y opuestas en dirección, pero no representan un par acción-reacción porque ambas fuerzas actúan sobre el mismo objeto, el monitor."
+
+### 53
+
+De conformidad con el libro de Física, ¿cómo se llama el esquema que muestra solo las fuerzas que actúan sobre un objeto?
+
+- A. Diagrama de fuerzas
+- B. Diagrama de trayectoria
+- C. Diagrama de fase
+- D. Diagrama de flujo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 109
+**Subtema:** tercera ley de Newton · diagrama de fuerzas
+
+"El esquema de la figura 5.7b, en contraste, muestra solo las fuerzas que actúan sobre un objeto, el monitor, y se llama diagrama de fuerzas."
+
+### 54
+
+De acuerdo con el libro de Física, en un diagrama de cuerpo libre se utiliza el modelo de partícula para representar el objeto como:
+
+- A. un punto
+- B. una esfera hueca
+- C. un bloque rígido
+- D. una línea recta
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 109
+**Subtema:** tercera ley de Newton · diagrama de cuerpo libre
+
+"En un diagrama de cuerpo libre se utiliza el modelo de partícula para representar el objeto como un punto y mostrar las fuerzas que actúan sobre el objeto como aplicadas en el punto."
+
+### 55
+
+En relación con el libro de Física, ¿cuál es la etapa más importante en la solución de un problema que utiliza las leyes de Newton?
+
+- A. Dibujar el diagrama de cuerpo libre
+- B. Medir la masa del objeto
+- C. Calcular el peso del objeto
+- D. Determinar la velocidad inicial
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 109
+**Subtema:** tercera ley de Newton · el diagrama de cuerpo libre como etapa clave (prevención de riesgos ocultos 5.8)
+
+"La etapa más importante en la solución de un problema que utiliza las leyes de Newton es dibujar un bosquejo adecuado, el diagrama de cuerpo libre."
