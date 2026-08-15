@@ -29,9 +29,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escrita la página impresa **21**: arranque de **2.1 · Posición, velocidad y rapidez de una partícula** (el modelo de partícula, la definición de posición, la gráfica posición-tiempo y el desplazamiento Δx ≡ xf − xi). La portada (p.20) es sólo la intro narrativa (IMAGINE + CONEXIONES) y no aporta reactivos.
+**EN CURSO.** Escritas las páginas impresas **21–22**: arranque de **2.1 · Posición, velocidad y rapidez de una partícula** (el modelo de partícula, la definición de posición, la gráfica posición-tiempo, el desplazamiento Δx ≡ xf − xi, la distancia recorrida y las cantidades vectorial y escalar). La portada (p.20) es sólo la intro narrativa (IMAGINE + CONEXIONES) y no aporta reactivos.
 
-**Pendiente:** EN CURSO. Sigue el resto de **2.1** (velocidad y rapidez promedio, p.22) y luego **2.2** (velocidad y rapidez instantáneas) y **2.5** (aceleración). Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera del temario.
+**Pendiente:** EN CURSO. Sigue el resto de **2.1** (velocidad y rapidez promedio, p.23) y luego **2.2** (velocidad y rapidez instantáneas) y **2.5** (aceleración). Los temas 2.3, 2.4 y 2.6–2.9 quedan fuera del temario.
 
 ---
 
@@ -126,3 +126,95 @@ De conformidad con el libro de Física, si una partícula se mueve desde una pos
 **Subtema:** posición, velocidad y rapidez · ecuación del desplazamiento
 
 "Conforme la partícula se mueve desde una posición inicial xi a una posición final xf su desplazamiento está dado por Δx ≡ xf − xi."
+
+## Sub-lote 2 · Distancia, desplazamiento y cantidades vectoriales (p.22)
+
+### 7
+
+De acuerdo con el libro de Física, ¿qué se usa para denotar el cambio en una cantidad?
+
+- A. La letra griega mayúscula delta (Δ)
+- B. La letra griega mayúscula sigma (Σ)
+- C. La letra latina d minúscula
+- D. La letra griega theta (θ)
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 22
+**Subtema:** posición, velocidad y rapidez · notación delta
+
+"Se usa la letra griega mayúscula delta (Δ) para denotar el cambio en una cantidad."
+
+### 8
+
+En relación con el libro de Física, ¿qué es la distancia recorrida por una partícula?
+
+- A. La longitud de una trayectoria seguida por una partícula
+- B. El cambio en la posición de la partícula
+- C. La diferencia entre la posición final y la inicial
+- D. La rapidez media multiplicada por la dirección
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 22
+**Subtema:** posición, velocidad y rapidez · definición de distancia
+
+"Distancia es la longitud de una trayectoria seguida por una partícula."
+
+### 9
+
+De conformidad con el libro de Física, respecto a sus signos, la distancia y el desplazamiento se distinguen porque:
+
+- A. la distancia siempre se representa como un número positivo, mientras que el desplazamiento puede ser positivo o negativo
+- B. ambos siempre son positivos
+- C. la distancia puede ser negativa y el desplazamiento siempre positivo
+- D. ambos pueden ser positivos o negativos por igual
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 22
+**Subtema:** posición, velocidad y rapidez · distancia frente a desplazamiento (signos)
+
+"La distancia siempre se representa como un número positivo, mientras que el desplazamiento puede ser positivo o negativo."
+
+### 10
+
+De acuerdo con el libro de Física, ¿qué requiere la especificación de una cantidad vectorial?
+
+- A. Tanto dirección como magnitud
+- B. Únicamente su magnitud
+- C. Sólo un valor numérico
+- D. Sólo su punto de aplicación
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 22
+**Subtema:** posición, velocidad y rapidez · cantidad vectorial
+
+"En general, una cantidad vectorial requiere la especificación tanto de dirección como de magnitud."
+
+### 11
+
+En relación con el libro de Física, ¿qué caracteriza a una cantidad escalar?
+
+- A. Tiene un valor numérico y no dirección
+- B. Tiene magnitud y dirección
+- C. Siempre es negativa
+- D. Sólo se define con respecto a un vector
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 22
+**Subtema:** posición, velocidad y rapidez · cantidad escalar
+
+"Una cantidad escalar tiene un valor numérico y no dirección. La distancia es un escalar."
+
+### 12
+
+De conformidad con el libro de Física, a partir de la definición de desplazamiento, Δx es positiva si:
+
+- A. xf es mayor que xi
+- B. xf es menor que xi
+- C. xf es igual a xi
+- D. xi es mayor que xf
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 22
+**Subtema:** posición, velocidad y rapidez · signo del desplazamiento
+
+"A partir de esta definición se ve que Δx es positiva si xf es mayor que xi y negativo si xf es menor que xi."
