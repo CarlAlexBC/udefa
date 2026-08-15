@@ -218,11 +218,17 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   inciso a)**, el primero de los cuatro del 1.3. **Fuera:** los ejemplos de cada tipo de
   función, la Figura 1.19 con su lectura por colores, el cuadro de "Sustituye y verifica"
   con espacios en blanco, y la actividad de aprendizaje del cierre.
+- Cubierta la página impresa **25**: el arranque del inciso **b) Funciones explícitas o
+  implícitas** —la definición de una y otra— y el apartado **Función par e impar**: las
+  condiciones *f* (−*x*) = *f* (*x*) y *f* (−*x*) = −*f* (*x*), y respecto a qué es
+  simétrica cada una. **Fuera:** la cola de la actividad de la p.24, la **Tabla 1.3** con
+  los pares implícita/explícita (son ejemplos), el *Ejemplo* de *f* (*x*) = *x*² con su
+  Solución y la Figura 1.20.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.24**, con lo que **el inciso a) queda CERRADO** (pp. 13–24).
-Sigue desde la **p.25** con los otros tres incisos del 1.3: **b)** funciones explícitas
-o implícitas (pp. 25–41), **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
+va cubierto hasta la **p.25**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
+**b) está EN CURSO**. Sigue desde la **p.26** con el resto del **b)** funciones explícitas
+o implícitas (pp. 26–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
 **d)** función invertible y función inversa (pp. 49–60), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
@@ -1265,3 +1271,107 @@ De acuerdo con el libro de Cálculo, ¿cómo se representan gráficamente las fu
 **Subtema:** Función creciente y decreciente · Representación gráfica
 
 "Tales funciones son representadas gráficamente por curvas que siempre ascienden, o bien, descienden conforme *x* recorre el intervalo permitido hacia valores crecientes."
+
+---
+
+## Sub-lote 12 · Funciones explícitas e implícitas, y funciones par e impar (1.3 b, p.25)
+
+### 62
+
+De conformidad con el libro de Cálculo, ¿cuándo una función es **implícita**?
+
+- A. Cuando el valor de la función no está dado explícitamente
+- B. Cuando la variable está despejada
+- C. Cuando la función no está definida en todo su dominio
+- D. Cuando la función se expresa mediante una tabla de valores
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 25
+**Subtema:** Funciones explícitas o implícitas · Función implícita
+
+"Una función es implícita cuando el valor de la función no está dado explícitamente [...]"
+
+### 63
+
+En relación con el libro de Cálculo, ¿cuándo una función será **explícita**?
+
+- A. Cuando la variable está despejada
+- B. Cuando el valor de la función no está dado explícitamente
+- C. Cuando todos sus coeficientes son conocidos
+- D. Cuando puede representarse gráficamente
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 25
+**Subtema:** Funciones explícitas o implícitas · Función explícita
+
+"[...] y será explícita cuando la variable está despejada."
+
+> Nota de revisor: los reactivos 62 y 63 van con las opciones cruzadas. El libro define
+> las dos en la misma frase y sólo se distinguen por si la variable está despejada.
+
+### 64
+
+De acuerdo con el libro de Cálculo, ¿qué condición cumple una **función par**?
+
+- A. *f* (−*x*) = *f* (*x*)
+- B. *f* (−*x*) = −*f* (*x*)
+- C. *f* (*x* + *h*) > *f* (*x*)
+- D. *f* (*x*) = 0
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 25
+**Subtema:** Función par e impar · Función par
+
+"Sea la función *y* = *xⁿ* y los exponentes *n* = 1, 2, 3, 4,…, si los valores son pares se cumple: *f* (−*x*) = *f* (*x*). Razón por la que es llamada función par [...]"
+
+### 65
+
+De conformidad con el libro de Cálculo, ¿respecto a qué es simétrica la función par?
+
+- A. Respecto al eje de las ordenadas
+- B. Respecto al origen
+- C. Respecto al eje de las abscisas
+- D. Respecto a la recta *y* = *x*
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 25
+**Subtema:** Función par e impar · Función par
+
+"[...] es llamada función par, la cual es simétrica respecto al eje de las ordenadas [...]"
+
+### 66
+
+En relación con el libro de Cálculo, ¿qué condición cumplen las **funciones impares**?
+
+- A. *f* (−*x*) = −*f* (*x*)
+- B. *f* (−*x*) = *f* (*x*)
+- C. −*f* (−*x*) = −*f* (*x*)
+- D. *f* (*x* + *h*) < *f* (*x*)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 25
+**Subtema:** Función par e impar · Función impar
+
+"Las funciones impares cumplen con la condición *f* (−*x*) = −*f* (*x*) [...]"
+
+> Nota de revisor: par e impar se distinguen **por un signo**, igual que creciente y
+> decreciente en la p.24. Los reactivos 64 y 66 llevan cada uno la condición del otro
+> como distractor.
+
+### 67
+
+De acuerdo con el libro de Cálculo, ¿respecto a qué son simétricas gráficamente las funciones impares?
+
+- A. Con respecto al origen
+- B. Con respecto al eje de las ordenadas
+- C. Con respecto al eje de las abscisas
+- D. Con respecto a la recta *y* = −*x*
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 25
+**Subtema:** Función par e impar · Función impar
+
+"[...] las funciones impares gráficamente son simétricas con respecto al origen."
+
+> Nota de revisor: el par 65 / 67 es el otro cruce de esta página — **ordenadas** para la
+> par, **origen** para la impar. Cada uno lleva la respuesta del otro en las opciones.
