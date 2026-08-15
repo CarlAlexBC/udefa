@@ -33,9 +33,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **3–6**: la sección **1.1** (longitud, masa y tiempo; el SI; los prefijos de la Tabla 1.4; cantidades fundamentales y deducidas; la densidad ρ = m/V) y el **arranque de 1.2** (qué es un modelo). Tablas 1.1 a 1.4 cubiertas.
+**EN CURSO.** Escritas las páginas impresas **3–7**: la sección **1.1** completa y **1.2 · Modelado** (qué es un modelo; el modelo científico; el modelo de partícula y sus dos condiciones; las cuatro categorías de modelos; el modelo geométrico). Tablas 1.1 a 1.4 cubiertas.
 
-**Pendiente:** EN CURSO. Sigue **1.2** en la **p.7** (tipos de modelos y representaciones alternativas) y de ahí 1.3 a 1.6, hasta la p.16.
+**Pendiente:** EN CURSO. Sigue **1.2** en la **p.8** (las demás categorías de modelos y las representaciones alternativas) y de ahí 1.3 a 1.6, hasta la p.16.
 
 ---
 
@@ -532,3 +532,97 @@ En relación con el libro de Física, en la resolución de problemas, ¿qué es 
 **Subtema:** modelado · qué es un modelo
 
 "Un modelo es un sustituto simplificado del problema real que nos permite resolverlo de una manera relativamente simple."
+
+---
+
+## Sub-lote 5 · Modelo científico, modelo de partícula y modelo geométrico (p.7)
+
+### 33
+
+De acuerdo con el libro de Física, ¿qué característica tiene un modelo científico respecto al problema físico?
+
+- A. Es una construcción teórica y puede no tener similitud visual con el problema físico
+- B. Es siempre una réplica a escala reducida del objeto real
+- C. Es una fotografía o dibujo exacto del sistema estudiado
+- D. Es una fórmula que reproduce con exactitud todos los procesos del sistema
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 7
+**Subtema:** modelado · modelo científico
+
+"Un modelo científico es una construcción teórica y puede no tener similitud visual con el problema físico."
+
+### 34
+
+En relación con el libro de Física, ¿cómo se llama el remplazo de un objeto extendido por una partícula (un objeto con masa, pero de tamaño cero)?
+
+- A. Modelo de partícula
+- B. Modelo geométrico
+- C. Modelo científico
+- D. Modelo a escala
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 7
+**Subtema:** modelado · modelo de partícula
+
+"Este remplazo de un objeto extendido por una partícula se llama *modelo de partícula*, que se utiliza ampliamente en física."
+
+### 35
+
+De conformidad con el libro de Física, ¿cuáles son las dos condiciones principales para usar el modelo de partícula?
+
+- A. Que el tamaño del objeto real no tenga consecuencia en el análisis de su movimiento y que ningún proceso interno del objeto tenga consecuencias en ese análisis
+- B. Que el objeto esté en reposo y que no actúen fuerzas externas sobre él
+- C. Que el objeto sea perfectamente esférico y de densidad uniforme
+- D. Que la masa del objeto sea cero y que su velocidad sea constante
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 7
+**Subtema:** modelado · modelo de partícula
+
+"El tamaño del objeto real no tiene ninguna consecuencia en el análisis de su movimiento. […] Cualquier proceso interno que ocurra en el objeto no tiene consecuencias en el análisis de su movimiento."
+
+### 36
+
+De acuerdo con el libro de Física, ¿cuántas categorías de modelos se utilizan en el libro para entender y resolver problemas de física?
+
+- A. Cuatro
+- B. Dos
+- C. Tres
+- D. Cinco
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 7
+**Subtema:** modelado · categorías de modelos
+
+"En este libro se utilizan cuatro categorías de modelos [que] nos ayudarán a entender y resolver problemas de la física."
+
+### 37
+
+En relación con el libro de Física, ¿en qué consiste el modelo geométrico?
+
+- A. En formar una construcción geométrica que representa la situación real, para luego aislar el problema real y analizar la construcción
+- B. En reemplazar el objeto por una partícula con masa pero de tamaño cero
+- C. En elaborar una réplica a escala reducida del objeto de estudio
+- D. En expresar el problema únicamente mediante ecuaciones algebraicas
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 7
+**Subtema:** modelado · modelo geométrico
+
+"La primera categoría es el *modelo geométrico*. En este modelo, formamos una construcción geométrica que representa la situación real. Luego aislamos el problema real y se analiza la construcción geométrica."
+
+### 38
+
+De conformidad con el libro de Física, ¿por qué son necesarios los modelos?
+
+- A. Porque la operación real del universo es extremadamente complicada
+- B. Porque las leyes de la física sólo se pueden expresar con dibujos
+- C. Porque los instrumentos de medición nunca son exactos
+- D. Porque los problemas de física no tienen solución matemática
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 7
+**Subtema:** modelado · necesidad de los modelos
+
+"Los modelos son necesarios porque la operación real del universo es extremadamente complicada."
