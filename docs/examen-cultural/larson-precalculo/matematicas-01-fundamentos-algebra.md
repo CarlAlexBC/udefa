@@ -80,7 +80,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 - Cubiertas las páginas impresas **58, 59 y 60**, con las que **cierra el 1.6**: las *Ecuaciones radicales* con sus dos `COMENTARIO` (las operaciones que introducen soluciones extrañas y el caso de dos radicales), las *Ecuaciones de valor absoluto* (por qué resultan en dos ecuaciones aparte) y el recuadro *Fórmulas comunes del área A, perímetro P, circunferencia C y volumen V* con sus siete fórmulas. El `Resumen (sección 1.6)` **no lleva reactivos**, igual que los del 1.3 y el 1.4; los `EJEMPLO 12` a `EJEMPLO 15` tampoco. **Las pp. 61 y 62 son íntegramente el bloque `1.6 Ejercicios`.**
 
-**Pendiente:** EN CURSO. El **1.3, el 1.4 y el 1.6 están CERRADOS**. Sigue el **1.8 · Propiedades de los logaritmos**, que arranca en la página impresa **72**. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+- Cubiertas las páginas impresas **72 y 73**, arranque del **1.8 · Propiedades de los logaritmos**: el *Cambio de base* (qué base tienen los logaritmos comunes y los naturales, cuándo hace falta la fórmula y sus tres versiones —base b, base 10 y base e—, y el multiplicador constante), las *Propiedades de los logaritmos* (producto, cociente y potencia) con su `COMENTARIO` de que no existe propiedad para log_a(u ± v), y la `NOTA HISTÓRICA` de **John Napier**. Los `EJEMPLO 1` a `EJEMPLO 4` no llevan reactivos.
+
+**Pendiente:** EN CURSO. El **1.3, el 1.4 y el 1.6 están CERRADOS** y el **1.8 va en curso**: sigue desde la página impresa **74**. La teoría del 1.8 llega hasta la **p. 75** (las pp. 76–78 son el bloque de `Ejercicios`). La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -3563,5 +3565,315 @@ De acuerdo con el libro de Matemáticas, ¿cuál es la fórmula del volumen de u
 **Subtema:** resolución de ecuaciones · fórmulas comunes
 
 Esfera: V = (4/3)πr³.
+
+---
+
+## Sub-lote 25 · Cambio de base (1.8, p. 72)
+
+### 203
+
+De conformidad con el libro de Matemáticas, ¿qué base tienen los logaritmos comunes y cuál los logaritmos naturales?
+
+- A. Los comunes, base 10; los naturales, base e
+- B. Los comunes, base e; los naturales, base 10
+- C. Los comunes, base 2; los naturales, base 10
+- D. Los comunes, base 10; los naturales, base 2
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 72
+**Subtema:** propiedades de los logaritmos · cambio de base
+
+Casi todas las calculadoras tienen sólo dos tipos de teclas de logaritmos, LOG para logaritmos comunes (base 10) y LN para logaritmos naturales (base e).
+
+---
+
+### 204
+
+En relación con el libro de Matemáticas, ¿en qué caso es necesario usar la fórmula de cambio de base?
+
+- A. Cuando es necesario evaluar logaritmos con bases distintas de la común y la natural
+- B. Cuando el logaritmo tiene base 10
+- C. Cuando el logaritmo tiene base e
+- D. Cuando el argumento del logaritmo es negativo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 72
+**Subtema:** propiedades de los logaritmos · cambio de base
+
+Aun cuando los logaritmos comunes y los naturales son los que se usan con más frecuencia, ocasionalmente es necesario evaluar logaritmos con otras bases. Para hacer esto se puede usar la fórmula de cambio de base.
+
+---
+
+### 205
+
+De acuerdo con el libro de Matemáticas, en la fórmula de cambio de base, ¿qué condiciones deben cumplir a, b y x?
+
+- A. Ser números reales positivos, con a distinto de 1 y b distinto de 1
+- B. Ser números reales cualesquiera, con a distinto de 0 y b distinto de 0
+- C. Ser números enteros positivos, con a distinto de 1
+- D. Ser números reales positivos, sin ninguna otra restricción
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 72
+**Subtema:** propiedades de los logaritmos · cambio de base
+
+Sean a, b y x números reales positivos tales que a ≠ 1 y b ≠ 1.
+
+---
+
+### 206
+
+De conformidad con el libro de Matemáticas, ¿cuál es la fórmula de cambio de base a una base b?
+
+- A. log_a x = (log_b x) / (log_b a)
+- B. log_a x = (log_b a) / (log_b x)
+- C. log_a x = (log_b x) · (log_b a)
+- D. log_a x = log_b x − log_b a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 72
+**Subtema:** propiedades de los logaritmos · cambio de base
+
+Base b: log_a x = (log_b x) / (log_b a).
+
+---
+
+### 207
+
+En relación con el libro de Matemáticas, ¿cuál es la fórmula de cambio de base a base 10?
+
+- A. log_a x = (log x) / (log a)
+- B. log_a x = (log a) / (log x)
+- C. log_a x = (ln x) / (ln a)
+- D. log_a x = log x − log a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 72
+**Subtema:** propiedades de los logaritmos · cambio de base
+
+Base 10: log_a x = (log x) / (log a).
+
+---
+
+### 208
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la fórmula de cambio de base a base e?
+
+- A. log_a x = (ln x) / (ln a)
+- B. log_a x = (ln a) / (ln x)
+- C. log_a x = (log x) / (log a)
+- D. log_a x = ln x − ln a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 72
+**Subtema:** propiedades de los logaritmos · cambio de base
+
+Base e: log_a x = (ln x) / (ln a).
+
+---
+
+### 209
+
+De conformidad con el libro de Matemáticas, ¿qué son los logaritmos de base a respecto de los logaritmos con base b?
+
+- A. Múltiplos constantes
+- B. Divisores exactos
+- C. Potencias sucesivas
+- D. Raíces enésimas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 72
+**Subtema:** propiedades de los logaritmos · cambio de base
+
+Una forma de ver la fórmula de cambio de base es que los logaritmos de base a son múltiplos constantes de logaritmos con base b.
+
+---
+
+### 210
+
+En relación con el libro de Matemáticas, ¿cuál es ese multiplicador constante?
+
+- A. 1 / (log_b a)
+- B. log_b a
+- C. 1 / (log_b x)
+- D. log_b x
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 72
+**Subtema:** propiedades de los logaritmos · cambio de base
+
+El multiplicador constante es 1 / (log_b a).
+
+---
+
+## Sub-lote 26 · Propiedades de los logaritmos y John Napier (1.8, p. 73)
+
+### 211
+
+De acuerdo con el libro de Matemáticas, ¿de qué función es función inversa la función logarítmica con base a?
+
+- A. De la función exponencial con base a
+- B. De la función radical con índice a
+- C. De la función racional con denominador a
+- D. De la función polinomial de grado a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 73
+**Subtema:** propiedades de los logaritmos · función inversa
+
+Usted ya sabe que la función logarítmica con base a es la función inversa de la función exponencial con base a.
+
+---
+
+### 212
+
+De conformidad con el libro de Matemáticas, en el recuadro de las propiedades de los logaritmos, ¿qué deben ser u y v?
+
+- A. Números reales positivos
+- B. Números reales cualesquiera
+- C. Números enteros positivos
+- D. Números reales distintos de 1
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 73
+**Subtema:** propiedades de los logaritmos · propiedades
+
+Sea a un número positivo tal que a ≠ 1, sea n un número real y sean u y v números reales positivos.
+
+---
+
+### 213
+
+En relación con el libro de Matemáticas, ¿qué establece la propiedad del producto de los logaritmos?
+
+- A. Que log_a(uv) = log_a u + log_a v
+- B. Que log_a(uv) = log_a u · log_a v
+- C. Que log_a(uv) = log_a u − log_a v
+- D. Que log_a(uv) = n log_a u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 73
+**Subtema:** propiedades de los logaritmos · propiedad del producto
+
+1. Propiedad del producto: log_a(uv) = log_a u + log_a v; ln(uv) = ln u + ln v.
+
+---
+
+### 214
+
+De acuerdo con el libro de Matemáticas, ¿qué establece la propiedad del cociente de los logaritmos?
+
+- A. Que log_a(u/v) = log_a u − log_a v
+- B. Que log_a(u/v) = log_a u + log_a v
+- C. Que log_a(u/v) = (log_a u) / (log_a v)
+- D. Que log_a(u/v) = log_a v − log_a u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 73
+**Subtema:** propiedades de los logaritmos · propiedad del cociente
+
+2. Propiedad del cociente: log_a(u/v) = log_a u − log_a v; ln(u/v) = ln u − ln v.
+
+---
+
+### 215
+
+De conformidad con el libro de Matemáticas, ¿qué establece la propiedad de la potencia de los logaritmos?
+
+- A. Que log_a uⁿ = n log_a u
+- B. Que log_a uⁿ = (log_a u)ⁿ
+- C. Que log_a uⁿ = log_a u + n
+- D. Que log_a uⁿ = n + log_a u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 73
+**Subtema:** propiedades de los logaritmos · propiedad de la potencia
+
+3. Propiedad de la potencia: log_a uⁿ = n log_a u; ln uⁿ = n ln u.
+
+---
+
+### 216
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿existe alguna propiedad general para reescribir log_a(u ± v)?
+
+- A. No existe ninguna propiedad general para ese caso
+- B. Sí, es la propiedad del producto
+- C. Sí, es la propiedad del cociente
+- D. Sí, es la propiedad de la potencia
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 73
+**Subtema:** propiedades de los logaritmos · propiedades
+
+No hay una propiedad general que se pueda usar para reescribir log_a(u ± v).
+
+---
+
+### 217
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿a qué no es igual log_a(u + v)?
+
+- A. A log_a u + log_a v
+- B. A log_a u − log_a v
+- C. A log_a u · log_a v
+- D. A n log_a u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 73
+**Subtema:** propiedades de los logaritmos · propiedades
+
+Específicamente, log_a(u + v) no es igual a log_a u + log_a v.
+
+---
+
+### 218
+
+De conformidad con el libro de Matemáticas, ¿quién inventó los logaritmos y de qué nacionalidad era?
+
+- A. John Napier, matemático escocés
+- B. John Napier, matemático inglés
+- C. John Napier, matemático irlandés
+- D. John Napier, matemático galés
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 73
+**Subtema:** propiedades de los logaritmos · nota histórica
+
+John Napier, matemático escocés, inventó los logaritmos.
+
+---
+
+### 219
+
+En relación con el libro de Matemáticas, ¿con qué propósito inventó Napier los logaritmos?
+
+- A. Como medio para simplificar cálculos tediosos
+- B. Como medio para resolver ecuaciones cuadráticas
+- C. Como medio para medir la intensidad del sonido
+- D. Como medio para representar números muy grandes
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 73
+**Subtema:** propiedades de los logaritmos · nota histórica
+
+John Napier, matemático escocés, inventó los logaritmos como medio para simplificar cálculos tediosos.
+
+---
+
+### 220
+
+De acuerdo con el libro de Matemáticas, ¿cuánto tiempo trabajó Napier en el desarrollo de los logaritmos y en qué año publicó su trabajo?
+
+- A. 20 años, y publicó en 1614
+- B. 20 años, y publicó en 1641
+- C. 10 años, y publicó en 1614
+- D. 30 años, y publicó en 1604
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 73
+**Subtema:** propiedades de los logaritmos · nota histórica
+
+Napier trabajó durante 20 años en el desarrollo de los logaritmos antes de publicar su trabajo en 1614.
 
 ---
