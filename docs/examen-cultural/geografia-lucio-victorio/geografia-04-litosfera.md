@@ -56,8 +56,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 - Cubierta la página impresa **142**: el arranque del **4.6** con el **Concepto de contaminación ambiental** — el fenómeno que trajo aparejado la moderna civilización urbana e industrial y sus tres efectos (alterar el equilibrio ecológico, perjudicar a plantas y animales y poner en peligro la existencia de la especie humana), la **definición del recuadro** ("todo agente extraño que altera desfavorablemente su equilibrio"), la biósfera como **sistema ecológico abierto para la energía y cerrado para la materia** (la energía viene del Sol; la materia siempre es la misma salvo caídas de aerolitos y emisiones volcánicas), el **reciclaje constante** de las sustancias químicas y las selvas ecuatoriales como ejemplo, lo que estorba las sustancias no asimilables, y la **Figura 4.26** (fábricas y vehículos). La Figura 4.25 es fotografía y no lleva reactivo. **Una errata nueva del libro quedó documentada y sin afectar a la respuesta:** "la biósfera *contituye*". El inciso c) arranca al pie de la página pero **queda cortado a media palabra**, así que se trabaja entero en la p.143.
 - Cubierta la página impresa **143**: el cierre del inciso c) (el «algo fuera de lugar» que interfiere el normal desarrollo de los procesos vitales) y la **Clasificación de la contaminación ambiental** completa — por el **factor que la produce** (acústica, orgánica, química y radioactiva, cada una con su causa: los ruidos de vehículos, aparatos y máquinas; los desechos de plantas, animales y seres humanos, menos dañinos por biodegradables; la fabricación masiva de desechables no biodegradables como aluminio, vidrio y plásticos; y los elementos radioactivos, casi exclusiva de los siglos **XX y XXI** por los modernos estudios sobre el átomo), la aclaración de que la **proliferación de una especie es plaga y no contaminación**, y la clasificación por el **medio en que se produce** (suelo y subsuelo, agua y aire, con las dos últimas en las unidades V y VI). **Otra errata del libro quedó documentada y sin afectar a la respuesta:** "thorio" por *torio*. **La mitad inferior de la página es un bloque de ejercicios** ("Resuelve ahora las siguientes cuestiones") y no lleva reactivos por norma.
+- Cubierta la página impresa **144**: el arranque del **4.6.2 Causas y consecuencias de la contaminación ambiental** — que **no es un fenómeno exclusivo de los siglos XX y XXI** (antes ya se presentaba, en menor escala, en las grandes concentraciones urbanas) pero hoy tiene "perfiles verdaderamente dramáticos"; y las **tres causas** que la llevaron a niveles peligrosos durante el **siglo XX**: la **explosión demográfica** (necesidades cada vez mayores de satisfactores, que obligan a ocupar prácticamente toda la superficie terrestre), el **vertiginoso desarrollo científico y tecnológico** (que junto con enormes cantidades de productos trajo grandes volúmenes de contaminantes) y el **aumento de los vehículos de combustión interna** (automóviles, autobuses, carros de carga y aviones, que contaminan por sus emanaciones y por sus ruidos); más la **Figura 4.27** (dos vistas de Nueva York). **La mitad superior de la página es la continuación del bloque de ejercicios de la p.143** y no lleva reactivos por norma.
 
-**Pendiente:** EN CURSO. El tema **4.5 quedó CERRADO** (pp. 138–141). Sigue desde la **p.144** con el resto del **4.6 La contaminación ambiental** (pp. 144–150) —4.6.1 Concepto y clasificación (p.142), 4.6.2 Causas y consecuencias (p.144) y 4.6.3 La contaminación del suelo y el subsuelo (p.145)—, hasta cerrar en la **p.150**: la Unidad V empieza en la 151. Con el 4.6 se cierra la Unidad IV.
+**Pendiente:** EN CURSO. El tema **4.5 quedó CERRADO** (pp. 138–141). Sigue desde la **p.145** con el resto del **4.6 La contaminación ambiental** (pp. 145–150) —4.6.1 Concepto y clasificación (p.142), 4.6.2 Causas y consecuencias (p.144) y 4.6.3 La contaminación del suelo y el subsuelo (p.145)—, hasta cerrar en la **p.150**: la Unidad V empieza en la 151. Con el 4.6 se cierra la Unidad IV.
 
 ---
 
@@ -1529,4 +1530,186 @@ En relación con el libro de Geografía, ¿dónde se estudian las otras dos?
 **Subtema:** contaminación ambiental · unidades V y VI
 
 "Las otras dos en las unidades V y VI, respectivamente."
+
+## Sub-lote 7 · Causas de la contaminación ambiental (4.6.2, p. 144)
+
+### 97
+
+De acuerdo con el libro de Geografía, ¿es la contaminación ambiental un fenómeno exclusivo de los siglos XX y XXI?
+
+- A. No: antes ya se había presentado, aunque en menor escala, en las grandes concentraciones urbanas
+- B. Sí: antes de esos siglos no se había presentado en ninguna parte
+- C. No: antes se presentaba en mayor escala en las zonas rurales
+- D. Sí, salvo por la contaminación orgánica, que ha existido siempre
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
+**Subtema:** causas de la contaminación · antecedentes
+
+"Ciertamente, la contaminación ambiental no es un fenómeno exclusivo de los siglos XX y XXI, pues antes ya se había presentado, aunque en menor escala, en las grandes concentraciones urbanas."
+
+### 98
+
+De conformidad con el libro de Geografía, ¿qué perfiles ha adquirido en nuestros días?
+
+- A. Unos perfiles verdaderamente dramáticos, que ponen en peligro la misma existencia de la especie humana
+- B. Unos perfiles moderados, que sólo afectan a las grandes concentraciones urbanas
+- C. Unos perfiles decrecientes, gracias al desarrollo científico y tecnológico
+- D. Unos perfiles semejantes a los de los siglos pasados
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
+**Subtema:** causas de la contaminación · perfiles actuales
+
+"Sin embargo, en nuestros días ha adquirido unos perfiles verdaderamente dramáticos, que ponen en peligro la misma existencia de la especie humana."
+
+### 99
+
+En relación con el libro de Geografía, ¿cuál es la primera de las causas que llevaron a la contaminación ambiental a niveles tan peligrosos?
+
+- A. La explosión demográfica
+- B. El vertiginoso desarrollo científico y tecnológico
+- C. El aumento de los vehículos de combustión interna
+- D. La fabricación masiva de productos desechables
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
+**Subtema:** causas de la contaminación · explosión demográfica
+
+"Entre las causas que llevaron a la contaminación ambiental a niveles tan peligrosos durante el siglo XX, figuraron los siguientes: La explosión demográfica [...]"
+
+### 100
+
+De acuerdo con el libro de Geografía, ¿qué ha traído aparejadas la explosión demográfica?
+
+- A. Necesidades cada vez mayores de satisfactores
+- B. Necesidades cada vez menores de satisfactores
+- C. Una disminución de los recursos científicos y tecnológicos
+- D. Un aumento de los desechos orgánicos biodegradables
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
+**Subtema:** causas de la contaminación · necesidades de satisfactores
+
+"La explosión demográfica, que ha traído aparejadas necesidades cada vez mayores de satisfactores."
+
+### 101
+
+De conformidad con el libro de Geografía, ¿a qué ha obligado eso?
+
+- A. A ocupar prácticamente toda la superficie terrestre para explotar sus recursos
+- B. A concentrar la población en las grandes ciudades
+- C. A abandonar las zonas rurales y las llanuras templadas
+- D. A reducir la fabricación de productos desechables
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
+**Subtema:** causas de la contaminación · ocupación de la superficie terrestre
+
+"Obligando a ocupar prácticamente toda la superficie terrestre para explotar sus recursos."
+
+### 102
+
+En relación con el libro de Geografía, ¿cuál es la segunda causa que se enlista?
+
+- A. El vertiginoso desarrollo científico y tecnológico
+- B. La explosión demográfica
+- C. El aumento de los vehículos de combustión interna
+- D. La proliferación de especies vegetales y animales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
+**Subtema:** causas de la contaminación · desarrollo científico y tecnológico
+
+"El vertiginoso desarrollo científico y tecnológico que, al facilitar la obtención de enormes cantidades de productos, ha dado lugar también a la fabricación de grandes volúmenes de productos contaminantes."
+
+### 103
+
+De acuerdo con el libro de Geografía, ¿a qué ha dado lugar ese desarrollo, al facilitar la obtención de enormes cantidades de productos?
+
+- A. A la fabricación de grandes volúmenes de productos contaminantes
+- B. A la fabricación de grandes volúmenes de productos biodegradables
+- C. A la reducción de los desechos no biodegradables
+- D. Al aumento de los vehículos de combustión interna
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
+**Subtema:** causas de la contaminación · productos contaminantes
+
+"Al facilitar la obtención de enormes cantidades de productos, ha dado lugar también a la fabricación de grandes volúmenes de productos contaminantes."
+
+### 104
+
+De conformidad con el libro de Geografía, ¿cuál es la tercera causa que se enlista?
+
+- A. El aumento de los vehículos de combustión interna
+- B. El aumento de las máquinas y herramientas industriales
+- C. El aumento de los desechos orgánicos
+- D. El aumento de los elementos radioactivos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
+**Subtema:** causas de la contaminación · vehículos de combustión interna
+
+"El aumento de los vehículos de combustión interna [...]"
+
+### 105
+
+En relación con el libro de Geografía, ¿qué vehículos de combustión interna se mencionan?
+
+- A. Automóviles, autobuses, carros de carga y aviones
+- B. Automóviles, autobuses, barcos y aviones
+- C. Automóviles, motocicletas, carros de carga y trenes
+- D. Autobuses, carros de carga, trenes y barcos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
+**Subtema:** causas de la contaminación · tipos de vehículos
+
+"El aumento de los vehículos de combustión interna (automóviles, autobuses, carros de carga, aviones)."
+
+### 106
+
+De acuerdo con el libro de Geografía, ¿qué constituyen esos vehículos y por qué?
+
+- A. Uno de los mayores factores de contaminación en las grandes ciudades, tanto por sus emanaciones como por los ruidos que producen
+- B. Uno de los mayores factores de contaminación en las zonas rurales, sobre todo por sus emanaciones
+- C. El único factor de contaminación acústica de las grandes ciudades
+- D. Un factor menor de contaminación, por ser sus emanaciones biodegradables
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
+**Subtema:** causas de la contaminación · emanaciones y ruidos
+
+"Que constituyen uno de los mayores factores de contaminación en las grandes ciudades, tanto por sus emanaciones como por los ruidos que producen."
+
+### 107
+
+De conformidad con el libro de Geografía, según la Figura 4.27, ¿qué se muestra?
+
+- A. Dos vistas de Nueva York (Estados Unidos de América)
+- B. Dos vistas de la Ciudad de México
+- C. Dos vistas de Los Ángeles (Estados Unidos de América)
+- D. Dos vistas de Wenchuan (China)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
+**Subtema:** causas de la contaminación · Figura 4.27
+
+"Figura 4.27 Dos vistas de Nueva York (Estados Unidos de América)."
+
+### 108
+
+En relación con el libro de Geografía, ¿durante qué siglo la contaminación ambiental llegó a esos niveles tan peligrosos?
+
+- A. Durante el siglo XX
+- B. Durante el siglo XIX
+- C. Durante el siglo XXI
+- D. Durante el siglo XVIII
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
+**Subtema:** causas de la contaminación · el siglo XX
+
+"Entre las causas que llevaron a la contaminación ambiental a niveles tan peligrosos durante el siglo XX, figuraron los siguientes [...]"
 
