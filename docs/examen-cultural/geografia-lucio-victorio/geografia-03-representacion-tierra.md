@@ -61,8 +61,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **85**: las **zonas frías o glaciales** completas — su localización dentro de cada círculo polar, el clima muy frío y seco con el ligero ascenso del verano, el suelo permanentemente helado con su deshielo superficial, las lluvias escasas frente a las heladas y nevadas abundantes, y por qué están casi deshabitadas. **Con esto queda cerrado el 3.2.1 Las zonas térmicas.** La Figura 3.11 (paisajes típicos) es ilustración. **La mitad inferior de la página es un ejercicio** de relacionar columnas y no lleva reactivos por norma.
 - Cubierta la página impresa **86**: el arranque del **3.2.2 Las estaciones del año** — la **causa y alternancia** (el eje de rotación que no es perpendicular a la eclíptica sino que forma 23°27' con ella, el desplazamiento aparente del Sol entre los 23°27' de cada hemisferio a razón de **1° cada 4 días**, la excentricidad de la órbita como causa de la desigual duración, y los primeros días de enero con la Tierra cerca del Sol, el invierno boreal más corto y el promedio de temperatura ligeramente superior del Hemisferio Boreal); el arranque del **proceso de las estaciones** en el Hemisferio Boreal (la **primavera** del 21 de marzo al 21 de junio, con el Sol cruzando el Ecuador y llegando después al Trópico de Cáncer, y el **verano** como estación más larga, que termina con el equinoccio de otoño del 23 de septiembre); y el **Cuadro 3.1** (la alternancia entre hemisferios y las cuatro duraciones). El **otoño** y el **invierno** quedan para la p.87. La Figura 3.12 es ilustración. **Las cuatro duraciones del Cuadro 3.1 se verificaron con `crop.py` a 600 dpi** antes de fijarlas: 92 días 21 horas, 93 días 14 horas, 89 días 19 horas y 89 días.
 - Cubierta la página impresa **87**: el cierre del **3.2.2** — el **otoño** (del equinoccio de otoño al solsticio de invierno del 22 de diciembre, con el Sol llegando al Trópico de Capricornio) y el **invierno** (la más corta del Hemisferio Boreal, que termina con el equinoccio de primavera del 21 de marzo, cuando el Sol llega al Ecuador y comienza un nuevo año solar); y el apartado **"Causas de las variaciones estacionales de luz y calor"** completo (las dos causas: la inclinación de los rayos solares —casi verticales en primavera y verano, inclinados en otoño e invierno— y la diferente duración del día y la noche, con la diferencia mínima en las regiones ecuatoriales, de varias horas en las intermedias y de **6 meses de luz y 6 de obscuridad casi total** en los polos; más el inciso b), donde el acercamiento o alejamiento al Sol —**apenas el 3.34%** de su distancia media— casi no influye). **Con esto queda cerrado el 3.2.2 Las estaciones del año.** **El 3.34% y las fechas del 1 al 3 de enero y del 1 al 4 de julio se verificaron con `crop.py` a 600 dpi.** **La mitad inferior de la página es un bloque de ejercicios** ("Resuelve ahora las siguientes cuestiones", con la relación de columnas y la ilustración de las cuatro estaciones) y no lleva reactivos por norma.
+- Cubierta la página impresa **88**: el arranque del **3.2.3 Los husos horarios** — la división de la circunferencia en 360° por los sumerios y los **15° de longitud** que corresponden a cada hora; el **origen del nombre** (los husos de las ruecas para hilar) y el conjunto con aspecto de naranja donde cada huso es un «gajo»; la **definición** del recuadro (las 24 secciones de 15° de longitud en que se dividió la superficie terrestre para la medición de las horas); el trazado de polo a polo siguiendo la longitud y delimitado por meridianos; el **huso horario 0** (referencia de los otros 23, con el Meridiano de Greenwich en el centro, de **7.5° de longitud oeste a 7.5° de longitud este**); el **huso XII** como diametralmente opuesto; y la **Figura 3.13** (husos sin modificación, horas legales). **La mitad superior de la página es el espacio en blanco del ejercicio de la p.87** (los recuadros de Otoño e Invierno) y no lleva reactivos. **Los 7.5°, "los otros 23" y el huso XII se verificaron con `crop.py` a 600 dpi.** **Dos datos de esta página NO llevan reactivo por estar ya preguntados:** que los sumerios dividieron el día en 24 horas hace más de 5,000 años (lo pregunta la **Unidad II** desde la p.68, reactivo 50) y el año **1884**, que ya tiene reactivo en este mismo archivo desde la p.81. La frase sobre el Antimeridiano en el centro del huso XII **queda cortada al pie de la página** y se trabaja entera en la p.89.
 
-**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2**, del que ya están cerrados el **3.2.1 Las zonas térmicas** (pp. 84–85) y el **3.2.2 Las estaciones del año** (pp. 86–87): sigue desde la **p.88** con los husos horarios, que es lo último que le falta al tema. Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
+**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2**, del que ya están cerrados el **3.2.1 Las zonas térmicas** (pp. 84–85) y el **3.2.2 Las estaciones del año** (pp. 86–87), y está **en curso el 3.2.3 Los husos horarios** (cubierta la p.88): sigue desde la **p.89** con el resto de los husos horarios. Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
 
 ---
 
@@ -2304,4 +2305,184 @@ En relación con el libro de Geografía, ¿qué estación está comenzando en el
 **Subtema:** estaciones del año · cercanía al Sol y estaciones
 
 "Así, cuando la Tierra está cerca del Sol, entre el 1 y 3 de enero, en el Hemisferio Boreal está comenzando el invierno; por lo contrario, cuando está lejos, entre el 1 y 4 de julio, está comenzando el verano."
+
+### 145
+
+De acuerdo con el libro de Geografía, ¿quiénes dividieron la circunferencia en 360°?
+
+- A. Los sumerios
+- B. Los babilonios
+- C. Los hebreos
+- D. Los griegos de la Antigüedad Clásica
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
+**Subtema:** husos horarios · división de la circunferencia
+
+"Los sumerios fueron también quienes dividieron a la circunferencia en 360°."
+
+### 146
+
+De conformidad con el libro de Geografía, al dividir ese número entre las 24 horas del día, ¿qué resulta?
+
+- A. Que a cada hora le corresponden 15° de longitud
+- B. Que a cada hora le corresponden 24° de longitud
+- C. Que a cada hora le corresponden 7.5° de longitud
+- D. Que a cada hora le corresponden 30° de longitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
+**Subtema:** husos horarios · grados por hora
+
+"Dividiendo ese número entre las 24 horas del día, resulta que a cada hora le corresponden 15° de longitud."
+
+### 147
+
+En relación con el libro de Geografía, ¿por qué esas secciones se llaman husos horarios?
+
+- A. Por su parecido a los husos utilizados antiguamente en las ruecas para hilar
+- B. Por su parecido a los husos utilizados antiguamente para medir el tiempo
+- C. Porque cada una abarca un huso de 15° de longitud
+- D. Porque fueron trazadas por los sumerios con ese nombre
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
+**Subtema:** husos horarios · origen del nombre
+
+"Llamadas husos horarios por su parecido a los husos utilizados antiguamente en las ruecas para hilar."
+
+### 148
+
+De acuerdo con el libro de Geografía, ¿a qué se parece el conjunto de los husos horarios?
+
+- A. A una naranja, donde cada huso horario viene a ser un «gajo»
+- B. A una rueca, donde cada huso horario viene a ser un hilo
+- C. A un globo terráqueo dividido en paralelos
+- D. A una esfera dividida en 24 casquetes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
+**Subtema:** husos horarios · la naranja y sus gajos
+
+"El conjunto tiene el aspecto de una naranja, donde cada huso horario viene a ser un «gajo»."
+
+### 149
+
+De conformidad con el libro de Geografía, ¿cuántas secciones forman el sistema de husos horarios y de qué amplitud es cada una?
+
+- A. 24 secciones, de 15° de longitud cada una
+- B. 24 secciones, de 7.5° de longitud cada una
+- C. 12 secciones, de 30° de longitud cada una
+- D. 360 secciones, de 1° de longitud cada una
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
+**Subtema:** husos horarios · definición
+
+"El conjunto de 24 secciones, de 15° de longitud cada una, en que ha sido dividida la superficie terrestre para la medición de las horas."
+
+### 150
+
+En relación con el libro de Geografía, ¿cómo se extienden los husos horarios y por qué están delimitados?
+
+- A. Se extienden de polo a polo, siguiendo la longitud, y están delimitados por meridianos
+- B. Se extienden de este a oeste, siguiendo la latitud, y están delimitados por paralelos
+- C. Se extienden de polo a polo, siguiendo la latitud, y están delimitados por paralelos
+- D. Se extienden a partir del Ecuador y están delimitados por los trópicos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
+**Subtema:** husos horarios · trazado
+
+"Los husos horarios se extienden de polo a polo, siguiendo la longitud, y están delimitados por meridianos."
+
+### 151
+
+De acuerdo con el libro de Geografía, ¿a cuántos husos horarios sirve de referencia el huso horario 0?
+
+- A. A los otros 23
+- B. A los otros 11
+- C. A los otros 12
+- D. A los otros 24
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
+**Subtema:** husos horarios · huso horario 0
+
+"El huso horario 0, que sirve de referencia a los otros 23."
+
+### 152
+
+De conformidad con el libro de Geografía, ¿qué tiene en el centro el huso horario 0?
+
+- A. Al Meridiano de Greenwich
+- B. Al Antimeridiano
+- C. Al Ecuador
+- D. Al Meridiano de 180°
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
+**Subtema:** husos horarios · centro del huso 0
+
+"Tiene en el centro al Meridiano de Greenwich."
+
+### 153
+
+En relación con el libro de Geografía, ¿qué extensión abarca el huso horario 0?
+
+- A. De 7.5° de longitud oeste a 7.5° de longitud este
+- B. De 15° de longitud oeste a 15° de longitud este
+- C. De 0° a 15° de longitud este
+- D. De 7.5° de latitud norte a 7.5° de latitud sur
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
+**Subtema:** husos horarios · extensión del huso 0
+
+"Abarca de 7.5° de longitud oeste a 7.5° de longitud este."
+
+### 154
+
+De acuerdo con el libro de Geografía, ¿cuál es el huso horario diametralmente opuesto al huso horario 0?
+
+- A. El XII
+- B. El XXIV
+- C. El VI
+- D. El XVIII
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
+**Subtema:** husos horarios · huso XII
+
+"El huso horario diametralmente opuesto es el XII."
+
+### 155
+
+De conformidad con el libro de Geografía, ¿para qué ha sido dividida la superficie terrestre en esas secciones?
+
+- A. Para la medición de las horas
+- B. Para la medición de las distancias
+- C. Para la delimitación de las zonas térmicas
+- D. Para el trazado de los meridianos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
+**Subtema:** husos horarios · finalidad
+
+"El conjunto de 24 secciones, de 15° de longitud cada una, en que ha sido dividida la superficie terrestre para la medición de las horas."
+
+### 156
+
+En relación con el libro de Geografía, ¿qué representa la Figura 3.13?
+
+- A. El sistema de husos horarios sin modificación (horas legales)
+- B. El sistema de husos horarios ya modificado por los países
+- C. El proceso de las estaciones del año en el Hemisferio Boreal
+- D. La alternancia de las zonas térmicas de la Tierra
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
+**Subtema:** husos horarios · Figura 3.13
+
+"Figura 3.13 Sistema de husos horarios sin modificación (horas legales)."
 
