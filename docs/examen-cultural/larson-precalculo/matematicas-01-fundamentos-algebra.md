@@ -62,8 +62,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 - Cubierta la página impresa **22**: el apartado *Radicales y sus propiedades* —raíz cuadrada y cúbica, el recuadro *Definición de la raíz enésima de un número*, el recuadro *Principal raíz enésima de un número* (índice y radicando; **el plural de "índice" queda fuera** por la regla del dato del tema) y el malentendido del signo de raíz cuadrada—. El `EJEMPLO 8` no lleva reactivos.
 - Cubierta la página impresa **23**: la tabla *Generalizaciones sobre raíces enésimas de números reales* (sus cuatro casos), los cuadrados y cubos perfectos, y el recuadro *Propiedades de los radicales* con sus seis propiedades y el uso común de la 6. El `EJEMPLO 9` no lleva reactivos.
 - Cubierta la página impresa **24**: *Simplificación de expresiones radicales* (las tres condiciones de la forma más simple, la racionalización del denominador y cómo se factoriza el radicando), la combinación de radicales iguales y el recuadro *COMENTARIO*. Los `EJEMPLO 10` y `EJEMPLO 11` no llevan reactivos.
+- Cubiertas las páginas impresas **25 y 26**: *Racionalización de denominadores y numeradores* (el conjugado, el caso a = 0 y las raíces cúbicas) y *Exponentes racionales y sus propiedades* (la definición, qué denotan numerador y denominador, y los dos recuadros `COMENTARIO`, que aquí sí traen matemáticas). Los `EJEMPLO 12` a `EJEMPLO 15` no llevan reactivos.
 
-**Pendiente:** EN CURSO. Sigue desde la página impresa **25**, con la racionalización de denominadores y numeradores y los exponentes racionales, hasta cerrar el **1.3** en la **p. 29**. Después faltan los otros seis subtemas que pide el temario —**1.4** (p. 30), **1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+**Pendiente:** EN CURSO. Sigue desde la página impresa **27**, hasta cerrar el **1.3** en la **p. 29**. Después faltan los otros seis subtemas que pide el temario —**1.4** (p. 30), **1.6** (p. 50), **1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -1283,5 +1284,245 @@ De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qu
 **Subtema:** exponentes y radicales · simplificación de radicales
 
 Cuando se simplifica un radical, es importante que las expresiones tanto original como simplificada sean definidas para los mismos valores de la variable.
+
+---
+
+## Sub-lote 7 · Racionalización y exponentes racionales (1.3, pp. 25–26)
+
+### 72
+
+En relación con el libro de Matemáticas, para racionalizar un denominador o numerador de la forma a − b√m o a + b√m, ¿por qué se multiplican tanto el numerador como el denominador?
+
+- A. Por un conjugado
+- B. Por el radicando
+- C. Por el índice del radical
+- D. Por un cubo perfecto
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 25
+**Subtema:** exponentes y radicales · racionalización
+
+Para racionalizar un denominador o numerador de la forma a − b√m o a + b√m, multiplique tanto el numerador como el denominador por un conjugado.
+
+---
+
+### 73
+
+De acuerdo con el libro de Matemáticas, ¿qué son entre sí a + b√m y a − b√m?
+
+- A. Conjugados
+- B. Radicales iguales
+- C. Cubos perfectos
+- D. Factores sobrantes
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 25
+**Subtema:** exponentes y radicales · racionalización
+
+a + b√m y a − b√m son conjugados entre sí.
+
+---
+
+### 74
+
+De conformidad con el libro de Matemáticas, si a = 0, ¿cuál es el factor de racionalización para √m?
+
+- A. Él mismo, √m
+- B. Su conjugado, −√m
+- C. El radicando m
+- D. La unidad
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 25
+**Subtema:** exponentes y radicales · racionalización
+
+Si a = 0, el factor de racionalización para √m es él mismo, √m.
+
+---
+
+### 75
+
+En relación con el libro de Matemáticas, para las raíces cúbicas, ¿qué factor de racionalización debe elegirse?
+
+- A. Uno que produzca un radicando de cubo perfecto
+- B. Uno que produzca un radicando de cuadrado perfecto
+- C. El conjugado del denominador
+- D. El mismo radical, sin cambio
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 25
+**Subtema:** exponentes y radicales · racionalización
+
+Para las raíces cúbicas, elija un factor de racionalización que produzca un radicando de cubo perfecto.
+
+---
+
+### 76
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿a qué no es igual √(x + y) en general?
+
+- A. A √x + √y
+- B. A √x · √y
+- C. A √(x · y)
+- D. A x + y
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 26
+**Subtema:** exponentes y radicales · racionalización
+
+En general, √(x + y) no es igual a √x + √y.
+
+---
+
+### 77
+
+De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿a qué no es igual √(x² + y²)?
+
+- A. A x + y
+- B. A x · y
+- C. A x² + y²
+- D. A √x + √y
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 26
+**Subtema:** exponentes y radicales · racionalización
+
+De igual forma, √(x² + y²) no es igual a x + y.
+
+---
+
+### 78
+
+En relación con el libro de Matemáticas, en la definición de exponentes racionales, ¿qué condición debe cumplirse además de que a sea real y n un entero positivo?
+
+- A. Que la raíz enésima principal de a exista
+- B. Que a sea distinto de cero
+- C. Que n sea par
+- D. Que a sea un cuadrado perfecto
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 26
+**Subtema:** exponentes y radicales · exponentes racionales
+
+Si a es un número real y n es un entero positivo, tal que la raíz enésima principal de a existe, entonces a^(1/n) se define como a^(1/n) = ⁿ√a.
+
+---
+
+### 79
+
+De acuerdo con el libro de Matemáticas, ¿cómo se define a^(1/n)?
+
+- A. Como ⁿ√a
+- B. Como aⁿ
+- C. Como 1/aⁿ
+- D. Como n·a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 26
+**Subtema:** exponentes y radicales · exponentes racionales
+
+Entonces a^(1/n) se define como a^(1/n) = ⁿ√a.
+
+---
+
+### 80
+
+De conformidad con el libro de Matemáticas, si m es un entero positivo, ¿a qué es igual a^(m/n)?
+
+- A. A (a^(1/n))ᵐ
+- B. A (a^(1/m))ⁿ
+- C. A aᵐⁿ
+- D. A a^(m+n)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 26
+**Subtema:** exponentes y radicales · exponentes racionales
+
+Además, si m es un entero positivo, entonces a^(m/n) = (a^(1/n))ᵐ.
+
+---
+
+### 81
+
+En relación con el libro de Matemáticas, ¿cómo se llaman 1/n y m/n?
+
+- A. Exponentes racionales de a
+- B. Índices radicales de a
+- C. Radicandos de a
+- D. Factores de racionalización de a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 26
+**Subtema:** exponentes y radicales · exponentes racionales
+
+1/n y m/n se llaman exponentes racionales de a.
+
+---
+
+### 82
+
+De acuerdo con el libro de Matemáticas, ¿qué denota el numerador de un exponente racional?
+
+- A. La potencia a la que se eleva la base
+- B. El índice de la raíz
+- C. El radicando de la raíz
+- D. El signo de la base
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 26
+**Subtema:** exponentes y radicales · exponentes racionales
+
+El numerador de un exponente racional denota la potencia a la que se eleva la base.
+
+---
+
+### 83
+
+De conformidad con el libro de Matemáticas, ¿qué denota el denominador de un exponente racional?
+
+- A. El índice de la raíz
+- B. La potencia a la que se eleva la base
+- C. El radicando de la raíz
+- D. El conjugado de la base
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 26
+**Subtema:** exponentes y radicales · exponentes racionales
+
+El denominador denota el índice de la raíz para obtener.
+
+---
+
+### 84
+
+En relación con el libro de Matemáticas, cuando se trabaja con exponentes racionales, ¿qué ocurre con las propiedades de los exponentes enteros?
+
+- A. Se aplican de todas las formas
+- B. Sólo se aplican si el exponente es positivo
+- C. Dejan de aplicarse por completo
+- D. Sólo se aplican si el índice es par
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 26
+**Subtema:** exponentes y radicales · exponentes racionales
+
+Cuando se trabaja con exponentes racionales, las propiedades de los exponentes enteros se aplican de todas las formas.
+
+---
+
+### 85
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué también es cierto si m y n no tienen factores comunes?
+
+- A. Que a^(m/n) = (aᵐ)^(1/n)
+- B. Que a^(m/n) = (a^(1/m))ⁿ
+- C. Que a^(m/n) = aᵐ · aⁿ
+- D. Que a^(m/n) = ᵐⁿ√a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 26
+**Subtema:** exponentes y radicales · exponentes racionales
+
+Si m y n no tienen factores comunes, también es cierto que a^(m/n) = (aᵐ)^(1/n).
 
 ---
