@@ -2068,6 +2068,296 @@ En relación con el libro de Física, ¿qué ocurre cuando el vapor del agua ent
 
 <Cuando el vapor del agua entra en contacto con un cuerpo frío se condensa al ceder su calor latente de vaporización.>
 
+## Sub-lote 13 · Calor cedido y absorbido por los cuerpos (pp. 351–352) — tema 11
+
+### 120
+
+De acuerdo con el libro de Física, cuando un cuerpo caliente se pone en contacto con uno frío, ¿qué existe entre ellos?
+
+- A. Un intercambio de energía calorífica del cuerpo caliente al frío hasta que igualan su temperatura.
+- B. Un intercambio de energía calorífica del cuerpo frío al caliente hasta que igualan su temperatura.
+- C. Un intercambio de masa entre ambos cuerpos.
+- D. Un aumento simultáneo de la temperatura de los dos cuerpos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 351
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Cuando un cuerpo caliente se pone en contacto con uno frío, existe un intercambio de energía calorífica del cuerpo caliente al frío hasta que igualan su temperatura.>
+
+### 121
+
+De conformidad con el libro de Física, en un intercambio de calor, ¿qué sucede con la cantidad del mismo?
+
+- A. Permanece constante.
+- B. Disminuye conforme avanza el intercambio.
+- C. Aumenta conforme avanza el intercambio.
+- D. Se duplica al alcanzarse el equilibrio.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 351
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<En un intercambio de calor, la cantidad del mismo permanece constante.>
+
+### 122
+
+En relación con el libro de Física, ¿por qué ocurre eso?
+
+- A. Pues el calor transmitido por uno o más objetos calientes será el que reciba uno o más objetos fríos.
+- B. Pues el calor transmitido por los objetos calientes se pierde en el ambiente.
+- C. Pues los objetos fríos no reciben calor alguno.
+- D. Pues la masa de los objetos permanece constante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 351
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Pues el calor transmitido por uno o más objetos calientes será el que reciba uno o más objetos fríos.>
+
+### 123
+
+De acuerdo con el libro de Física, ¿a qué da origen lo anterior?
+
+- A. A la llamada ley del intercambio de calor.
+- B. A la llamada ley de la conservación de la masa.
+- C. A la llamada ley cero de la termodinámica.
+- D. A la llamada ley del equilibrio térmico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 351
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Esto da origen a la llamada ley del intercambio de calor.>
+
+### 124
+
+De conformidad con el libro de Física, ¿qué dice esa ley?
+
+- A. En cualquier intercambio de calor efectuado, el calor cedido es igual al absorbido.
+- B. En cualquier intercambio de calor efectuado, el calor cedido es mayor que el absorbido.
+- C. En cualquier intercambio de calor efectuado, el calor cedido es menor que el absorbido.
+- D. En cualquier intercambio de calor efectuado, el calor cedido se pierde por completo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 351
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Que dice: en cualquier intercambio de calor efectuado, el calor cedido es igual al absorbido.>
+
+### 125
+
+En relación con el libro de Física, ¿cómo se expresa esa ley en otras palabras?
+
+- A. Calor perdido = calor ganado.
+- B. Calor perdido = calor específico.
+- C. Calor latente = calor sensible.
+- D. Calor cedido = temperatura final.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 351
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<En otras palabras: calor perdido = calor ganado.>
+
+### 126
+
+De acuerdo con el libro de Física, ¿qué se debe evitar al máximo cuando se realizan experimentos cuantitativos de intercambio de calor en el laboratorio?
+
+- A. Las pérdidas de calor, así los cálculos serán confiables.
+- B. El contacto entre el cuerpo caliente y el frío.
+- C. El uso de recipientes de aluminio.
+- D. La agitación de la mezcla.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 351
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Se deben evitar al máximo las pérdidas de éste, así nuestros cálculos serán confiables.>
+
+### 127
+
+De conformidad con el libro de Física, ¿qué es común utilizar por ello?
+
+- A. Un calorímetro.
+- B. Un termómetro de mercurio.
+- C. Un dinamómetro.
+- D. Un barómetro.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 351
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Por ello, es común utilizar un calorímetro.>
+
+### 128
+
+En relación con el libro de Física, ¿de qué consta el calorímetro de agua, que es el más usual?
+
+- A. De un recipiente externo de aluminio que en su interior tiene otro del mismo material, aislado con el propósito de evitar pérdidas de calor.
+- B. De un recipiente externo de vidrio que en su interior tiene otro de aluminio, sin aislamiento.
+- C. De un solo recipiente de aluminio abierto a la atmósfera.
+- D. De un recipiente de plomo aislado con agua en su interior.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 351
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<El más usual es el de agua, el cual consta de un recipiente externo de aluminio que en su interior tiene otro del mismo material, aislado con el propósito de evitar pérdidas de calor.>
+
+### 129
+
+De acuerdo con el libro de Física, ¿qué más tiene el calorímetro?
+
+- A. Un agitador, un termómetro y una tapa.
+- B. Un agitador, un barómetro y una tapa.
+- C. Un termómetro, una tapa y una resistencia eléctrica.
+- D. Un agitador y un termómetro, pero no lleva tapa.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 351
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Tiene además un agitador, un termómetro y una tapa.>
+
+### 130
+
+De conformidad con el libro de Física, ¿qué posibilita el calorímetro de agua por el llamado método de las mezclas?
+
+- A. Determinar el calor específico de algunas sustancias.
+- B. Determinar el calor latente de fusión de algunas sustancias.
+- C. Determinar la masa de algunas sustancias.
+- D. Determinar el punto de ebullición de algunas sustancias.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 351
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Por el llamado método de las mezclas, el calorímetro de agua posibilita determinar el calor específico de algunas sustancias.>
+
+### 131
+
+En relación con el libro de Física, ¿qué se pone primero en el calorímetro para ello?
+
+- A. Una masa determinada de agua a fin de conocer su temperatura.
+- B. La sustancia de la cual se va a calcular el calor específico.
+- C. Una masa determinada de aluminio a fin de conocer su temperatura.
+- D. El termómetro y el agitador, antes que cualquier sustancia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 352
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Para ello primero se le pone una masa determinada de agua a fin de conocer su temperatura.>
+
+### 132
+
+De acuerdo con el libro de Física, ¿qué se hace después con la sustancia de la cual se va a calcular el calor específico?
+
+- A. Se determina su masa y se calienta a una temperatura conocida.
+- B. Se determina su masa y se enfría a una temperatura conocida.
+- C. Se determina su volumen y se mantiene a temperatura ambiente.
+- D. Se pulveriza para mezclarla con el agua.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 352
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Después se determina la masa de la sustancia de la cual se va a calcular el calor específico y se calienta a una temperatura conocida.>
+
+### 133
+
+De conformidad con el libro de Física, ¿por qué se introduce inmediatamente en el agua del calorímetro?
+
+- A. Para evitar su enfriamiento.
+- B. Para evitar su dilatación.
+- C. Para evitar que se funda.
+- D. Para acelerar el equilibrio térmico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 352
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Para evitar su enfriamiento se introduce inmediatamente en el agua del calorímetro.>
+
+### 134
+
+En relación con el libro de Física, ¿hasta cuándo se agita la mezcla?
+
+- A. Hasta que la temperatura indicada en el termómetro no varíe.
+- B. Hasta que la sustancia se disuelva por completo en el agua.
+- C. Hasta que el agua alcance su punto de ebullición.
+- D. Durante un tiempo fijo de cinco minutos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 352
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Y se agita hasta que la temperatura indicada en el termómetro no varíe.>
+
+### 135
+
+De acuerdo con el libro de Física, ¿qué significa que la temperatura ya no varíe?
+
+- A. Que existe un equilibrio térmico en todas las partes.
+- B. Que la sustancia ha cedido todo su calor latente.
+- C. Que el calorímetro ha perdido calor hacia el ambiente.
+- D. Que la sustancia alcanzó su punto de fusión.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 352
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Esto significa que existe un equilibrio térmico en todas las partes.>
+
+### 136
+
+De conformidad con el libro de Física, ¿qué se puede calcular al medir el aumento de temperatura en el agua del calorímetro?
+
+- A. Cuál fue la cantidad de calor cedido al agua y al recipiente interior por la sustancia.
+- B. Cuál fue la masa exacta de la sustancia introducida.
+- C. Cuál fue el calor latente de fusión de la sustancia.
+- D. Cuál fue la pérdida de calor hacia el ambiente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 352
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Al medir el aumento de temperatura en el agua del calorímetro se puede calcular cuál fue la cantidad de calor cedido al agua y al recipiente interior por la sustancia.>
+
+### 137
+
+En relación con el libro de Física, ¿qué se encuentra finalmente?
+
+- A. El calor específico de la misma, mediante la sustitución de datos en la fórmula respectiva.
+- B. El calor latente de vaporización de la misma, mediante la sustitución de datos.
+- C. La capacidad calorífica del calorímetro, mediante la sustitución de datos.
+- D. La temperatura inicial de la sustancia, mediante la sustitución de datos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 352
+**Tema:** U11 t11 · calor cedido y absorbido por los cuerpos
+**Subtema:** Física · Calor cedido y absorbido
+
+<Y encontrar finalmente el calor específico de la misma mediante la sustitución de datos en la fórmula respectiva.>
+
 ---
 
-**Reactivos en este archivo:** 119
+**Reactivos en este archivo:** 137
