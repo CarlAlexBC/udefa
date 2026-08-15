@@ -33,9 +33,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **3–9**: las secciones **1.1** y **1.2 completas** (estándares y unidades; el modelado con sus cuatro categorías de modelos; y los tipos de representación: mental, pictórica, pictórica simplificada, gráfica, tabular y matemática). Tablas 1.1 a 1.4 cubiertas.
+**EN CURSO.** Escritas las páginas impresas **3–10**: las secciones **1.1** y **1.2 completas** y el **arranque de 1.3 · Análisis dimensional** (la dimensión como naturaleza física; los símbolos L, M, T; los corchetes; las dimensiones de la Tabla 1.5; la regla del análisis dimensional).
 
-**Pendiente:** EN CURSO. Sigue **1.3 · Análisis dimensional** (p.10) y de ahí 1.4 a 1.6, hasta la p.16.
+**Pendiente:** EN CURSO. Sigue **1.3** en la **p.11** (los ejemplos del análisis dimensional) y luego **1.4 · Conversión de unidades** (p.12), hasta la p.16.
 
 ---
 
@@ -829,3 +829,97 @@ De conformidad con el libro de Física, ¿en qué consiste la representación pi
 **Subtema:** representaciones · representación pictórica simplificada
 
 "Representación pictórica simplificada. A menudo es útil redibujar la representación pictórica sin complicar los detalles aplicando un modelo simplificado."
+
+---
+
+## Sub-lote 8 · Análisis dimensional (p.10)
+
+### 52
+
+De acuerdo con el libro de Física, en física, ¿qué denota la palabra *dimensión*?
+
+- A. La naturaleza física de una cantidad
+- B. El tamaño o la magnitud numérica de un objeto
+- C. El número de ejes coordenados de un problema
+- D. La unidad del SI en que se mide una cantidad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 10
+**Subtema:** análisis dimensional · dimensión
+
+"En física la palabra *dimensión* denota la naturaleza física de una cantidad."
+
+### 53
+
+En relación con el libro de Física, ¿qué símbolos se usan para especificar las dimensiones de longitud, masa y tiempo?
+
+- A. L, M y T
+- B. l, m y t
+- C. m, kg y s
+- D. x, y y z
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 10
+**Subtema:** análisis dimensional · símbolos de las dimensiones
+
+"Los símbolos que se usan en este libro para especificar las dimensiones de longitud, masa y tiempo son L, M y T, respectivamente."
+
+### 54
+
+De conformidad con el libro de Física, ¿qué se usa con frecuencia para denotar las dimensiones de una cantidad física?
+
+- A. Los corchetes [ ]
+- B. Los paréntesis ( )
+- C. Las llaves { }
+- D. Las barras verticales | |
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 10
+**Subtema:** análisis dimensional · notación
+
+"Con frecuencia se usarán los corchetes [ ] para denotar las dimensiones de una cantidad física."
+
+### 55
+
+De acuerdo con el libro de Física, ¿cuáles son las dimensiones de la rapidez?
+
+- A. L/T
+- B. L²
+- C. L/T²
+- D. L³
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 10
+**Subtema:** análisis dimensional · dimensiones de la rapidez
+
+"Las dimensiones de rapidez se escriben [v] = L/T." (Los distractores son dimensiones de la Tabla 1.5: área L², aceleración L/T², volumen L³.)
+
+### 56
+
+En relación con el libro de Física (Tabla 1.5), ¿cuáles son las dimensiones de la aceleración?
+
+- A. L/T²
+- B. L/T
+- C. L²
+- D. L³
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 10
+**Subtema:** análisis dimensional · dimensiones de la aceleración
+
+Según la Tabla 1.5 (Dimensiones y unidades de cuatro cantidades derivadas), la aceleración tiene dimensiones L/T² (unidades m/s²).
+
+### 57
+
+De conformidad con el libro de Física, en el análisis dimensional, ¿bajo qué condición se pueden sumar o restar dos cantidades?
+
+- A. Solo si tienen las mismas dimensiones
+- B. Solo si están expresadas en el mismo sistema de unidades
+- C. Solo si ambas son cantidades fundamentales
+- D. Solo si sus valores numéricos son del mismo orden de magnitud
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 10
+**Subtema:** análisis dimensional · reglas
+
+"Las cantidades se suman o restan solo si tienen las mismas dimensiones. Además, los términos en ambos lados de una ecuación deben tener las mismas dimensiones."
