@@ -36,6 +36,7 @@ Mismo criterio que dejó anotado la Unidad II para las zonas térmicas y las est
 
 ## Erratas del libro
 
+- **p.85 — "dentro de Círculo Polar Antártico", falta el "del".** Al ubicar la zona fría del sur, el libro escribe *"otra en el Hemisferio Sur, dentro de Círculo Polar Antártico"*. Verificado a 600 dpi: la preposición está sola, no es suciedad del escaneo — y en la **p.84** el mismo libro escribe bien *"dentro del Círculo Polar Ártico"*, así que es un desliz puntual. **El dato de fondo es correcto**; el reactivo 105 lo cita como está impreso, pero la opción correcta **no depende de la grafía**, igual que se hizo con "clorofluocarbonos" en la Unidad I.
 - **p.83 — "-400 ms" por "-400 m".** Al dar la máxima altitud negativa, el cuerpo del texto escribe la unidad como `ms`; la **Figura 3.9 de esa misma página escribe `m`**, que es lo correcto (son metros). Verificado con recorte a 600 dpi: la `s` está impresa, no es suciedad del escaneo. **Es la misma errata que la Unidad II documentó en la p.66** ("15.24 ms" y "7.62 ms"), así que es un tic del libro, no un desliz aislado. El reactivo 90 usa **metros**, como la figura, y **no pregunta por la unidad**.
 
 ## Datos del libro que conviene revisar (para decisión de Carlo)
@@ -57,8 +58,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **82**: el **3.1.3 Concepto e importancia de la situación geográfica** completo —la definición, el ejemplo del **Citlaltépetl o Pico de Orizaba** con sus tres niveles de localización y sus coordenadas, y las tres consecuencias que el libro enlista (el clima ecuatorial frente al de los 30° de latitud, los lugares bajos frente a los altos, y el mar como «termostato»)— y el **arranque del 3.1.4 Conceptos de latitud, longitud y altitud** (los tres datos necesarios y los complementarios). Las Figuras 3.7 y 3.8 son ilustraciones; la 3.7 rotula las mismas coordenadas que el texto.
 - Cubierta la página impresa **83**: el cierre del **3.1.4** — la **latitud** (definición, recorrido de 0° a 90°, norte o sur, y su clasificación en baja, media y alta), la **longitud** (definición, recorrido de 0° a 180°, este u oeste) y la **altitud** (definición en metros, positiva y negativa, y los dos extremos: el Everest y el Mar Muerto). **Con esta página queda cerrado el tema 3.1**, el primero de los dos que pide el temario. La Figura 3.9 es ilustración, pero se usó para resolver la errata del "ms" (ver "Erratas del libro"). **La mitad inferior de la página es un bloque de ejercicios** —marcar coordenadas en una gráfica y elaborar un mapa del lugar donde se habita— y no lleva reactivos por norma.
 - Cubierta la página impresa **84**: el arranque del **3.2** con el **3.2.1 Las zonas térmicas** — las **cinco zonas** que delimitan los trópicos y círculos polares, la **zona tórrida o cálida** (ubicación, sus otros nombres, el calor casi todo el año, la Meseta de Anáhuac como ejemplo de descenso por altitud, y que es la más lluviosa de todas) y las **dos zonas templadas** (ubicación en cada hemisferio, las estaciones del año, y por qué en ellas vive más de la mitad de la población mundial). **La mitad superior de la página no lleva reactivos:** es el espacio en blanco del ejercicio de la p.83 (el mapa y la ficha de situación geográfica). Las **zonas frías o glaciales** arrancan al pie de la página pero la frase queda **cortada a media línea**, así que se trabajan enteras en la p.85. La Figura 3.10 es ilustración.
+- Cubierta la página impresa **85**: las **zonas frías o glaciales** completas — su localización dentro de cada círculo polar, el clima muy frío y seco con el ligero ascenso del verano, el suelo permanentemente helado con su deshielo superficial, las lluvias escasas frente a las heladas y nevadas abundantes, y por qué están casi deshabitadas. **Con esto queda cerrado el 3.2.1 Las zonas térmicas.** La Figura 3.11 (paisajes típicos) es ilustración. **La mitad inferior de la página es un ejercicio** de relacionar columnas y no lleva reactivos por norma.
 
-**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2**, del que va cubierta la p.84: sigue desde la **p.85** (las zonas frías o glaciales, que quedaron cortadas a media frase al pie de la 84, y luego las estaciones del año y los husos horarios). Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
+**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2**, del que ya está cerrado el **3.2.1 Las zonas térmicas** (pp. 84–85): sigue desde la **p.86** con las estaciones del año y, después, los husos horarios. Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
 
 ---
 
@@ -1693,3 +1695,101 @@ De conformidad con el libro de Geografía, ¿qué proporción de la población m
 **Subtema:** zonas térmicas · zonas templadas
 
 "No es de extrañarse, por lo tanto, que en ellas se localice más de la mitad de la población mundial."
+
+---
+
+## Sub-lote 8 · Las zonas frías o glaciales (3.2.1, p.85) — cierra el 3.2.1
+
+### 105
+
+En relación con el libro de Geografía, ¿dónde se localiza la zona fría del Hemisferio Sur?
+
+- A. Dentro del Círculo Polar Antártico, que tiene en el centro al Polo Sur
+- B. Dentro del Círculo Polar Ártico, que tiene en el centro al Polo Norte
+- C. Entre el Trópico de Capricornio y el Círculo Polar Antártico
+- D. Entre los dos trópicos, teniendo en medio al Ecuador
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 85
+**Subtema:** zonas térmicas · zonas frías
+
+"[...] otra en el Hemisferio Sur, dentro de Círculo Polar Antártico, que tiene en el centro al Polo Sur."
+
+> Nota de revisor: el libro imprime "dentro **de** Círculo Polar Antártico", sin el "del"; en la p.84 lo escribe bien. Se cita como está impreso, pero la opción correcta no depende de esa grafía. Ver "Erratas del libro" en el encabezado.
+
+### 106
+
+De acuerdo con el libro de Geografía, ¿cómo es el clima que registran las zonas frías o glaciales?
+
+- A. Muy frío y seco, con temperaturas bastante bajas casi todo el año
+- B. Muy frío y húmedo, con lluvias abundantes durante todo el año
+- C. Templado medio húmedo, benigno y agradable
+- D. Cálido y seco, con un ligero descenso de temperatura en invierno
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 85
+**Subtema:** zonas térmicas · zonas frías
+
+"Registran generalmente un clima muy frío y seco, con temperaturas bastante bajas casi todo el año [...]"
+
+### 107
+
+De conformidad con el libro de Geografía, ¿cuándo se da un ligero ascenso de las temperaturas en las zonas frías?
+
+- A. Sólo durante el verano
+- B. Sólo durante la primavera
+- C. Durante la primavera y el otoño
+- D. En ningún momento del año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 85
+**Subtema:** zonas térmicas · zonas frías
+
+"[...] y sólo durante el verano se da un ligero ascenso en las mismas."
+
+### 108
+
+En relación con el libro de Geografía, ¿cómo está el suelo de las zonas frías y cuál es la excepción?
+
+- A. Permanentemente helado, excepto durante el verano, cuando se presenta un ligero deshielo superficial
+- B. Permanentemente helado, sin excepción alguna a lo largo del año
+- C. Helado únicamente durante el invierno, cuando las temperaturas bajan
+- D. Cubierto de nieve todo el año, pero sin llegar nunca a helarse
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 85
+**Subtema:** zonas térmicas · zonas frías
+
+"Por ello el suelo está permanentemente helado, excepto durante el verano, cuando se presenta un ligero deshielo superficial."
+
+> Nota de revisor: el filo está en **superficial**. Quien lea de corrido se queda con "en verano se deshiela" y pierde que el deshielo apenas roza la capa de arriba.
+
+### 109
+
+De acuerdo con el libro de Geografía, ¿cómo son las lluvias en las zonas frías?
+
+- A. Muy escasas; en cambio, son abundantes las heladas y nevadas
+- B. Muy abundantes, siendo ésta la zona climática más lluviosa de todas
+- C. Moderadas y regulares a lo largo de todo el año
+- D. Escasas durante el verano y abundantes durante el invierno
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 85
+**Subtema:** zonas térmicas · zonas frías
+
+"Las lluvias son muy escasas; en cambio, son abundantes las heladas y nevadas."
+
+### 110
+
+De conformidad con el libro de Geografía, ¿por qué las zonas frías o glaciales están casi deshabitadas?
+
+- A. Porque no son aptas para el desarrollo de plantas y animales ni para las actividades humanas
+- B. Porque su suelo se deshiela por completo durante el verano
+- C. Porque en ellas las lluvias resultan demasiado abundantes
+- D. Porque en ellas no llegan a notarse las estaciones del año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 85
+**Subtema:** zonas térmicas · zonas frías
+
+"Como se comprende fácilmente, las zonas frías o glaciales no son aptas para el desarrollo de plantas y animales ni para las actividades humanas, por lo cual están casi deshabitadas."
