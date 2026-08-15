@@ -110,6 +110,18 @@ todos los "Ejercicios", "Problemas" y ejemplos resueltos del libro.
   es suciedad del escaneo. El reactivo 181 pregunta por el contenido —volumen final
   y signo del trabajo— y la cita se recorta con `[...]` para no fijar la grafía
   incorrecta en el aspirante.
+- **p. 365, "Rudolph J. E. Celsius"** (por *Rudolf Clausius*): al dar los dos
+  enunciados de la segunda ley, el libro atribuye el primero al "físico alemán
+  Rudolph J. E. Celsius". **Es un nombre equivocado, no una errata de imprenta
+  menor:** quien enunció que el calor no puede pasar por sí mismo de un cuerpo frío
+  a uno caliente fue **Rudolf Clausius** (alemán, 1822–1888) —las iniciales J. E.
+  del propio libro son las suyas, Rudolf *Julius Emanuel*—, mientras que Celsius
+  fue **Anders Celsius**, el astrónomo **sueco** de la escala termométrica, que el
+  mismo capítulo cita bien en el tema 3. **Verificado con `crop.py` a 600 dpi**
+  (hoja 378), así que no es suciedad del escaneo. **No se escriben reactivos que
+  pidan el nombre del autor de ese enunciado**; el reactivo 204 pregunta por su
+  contenido. El enunciado de **William Thomson Kelvin** sí está bien atribuido y su
+  reactivo (205) puede nombrarlo.
 
 ---
 
@@ -3186,6 +3198,301 @@ En relación con el libro de Física, ¿cómo se expresa matemáticamente la pri
 
 <Matemáticamente, la primera ley de la termodinámica se expresa como: ΔU = Q − W.>
 
+## Sub-lote 16 · Cierre de la primera ley y segunda ley de la termodinámica (pp. 364–365) — tema 13
+
+### 189
+
+De acuerdo con el libro de Física, ¿cuándo es positivo y cuándo negativo el valor de Q?
+
+- A. Es positivo cuando entra calor al sistema y negativo si sale de él.
+- B. Es positivo cuando sale calor del sistema y negativo si entra en él.
+- C. Es positivo cuando el sistema realiza trabajo y negativo si lo recibe.
+- D. Es siempre positivo, sin importar el sentido del calor.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 364
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El valor de Q es positivo cuando entra calor al sistema y negativo si sale de él.>
+
+### 190
+
+De conformidad con el libro de Física, ¿cuándo es positivo y cuándo negativo el valor de W?
+
+- A. Es positivo si el sistema realiza trabajo y negativo si se efectúa trabajo de los alrededores sobre el sistema.
+- B. Es positivo si se efectúa trabajo de los alrededores sobre el sistema y negativo si el sistema realiza trabajo.
+- C. Es positivo cuando entra calor al sistema y negativo si sale de él.
+- D. Es siempre negativo, porque el trabajo se pierde en los alrededores.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 364
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El valor de W es positivo si el sistema realiza trabajo y negativo si se efectúa trabajo de los alrededores sobre el sistema.>
+
+### 191
+
+En relación con el libro de Física, si un sistema recibe cierta cantidad de calor Q y realiza un trabajo W sobre los alrededores, ¿a qué será igual el cambio en su energía interna?
+
+- A. ΔU = Q − W
+- B. ΔU = Q + W
+- C. ΔU = W − Q
+- D. ΔU = QW
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 364
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Si un sistema recibe cierta cantidad de calor Q y realiza un trabajo W sobre los alrededores, el cambio en su energía interna será, como ya señalamos, igual a: ΔU = Q − W.>
+
+### 192
+
+De acuerdo con el libro de Física, ¿a qué equivale la variación de la energía interna del sistema?
+
+- A. A la diferencia entre el calor absorbido y el trabajo realizado.
+- B. A la suma del calor absorbido y el trabajo realizado.
+- C. Al producto del calor absorbido por el trabajo realizado.
+- D. Al calor absorbido, sin considerar el trabajo realizado.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 364
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La variación de la energía interna del sistema equivale a la diferencia entre el calor absorbido y el trabajo realizado.>
+
+### 193
+
+De conformidad con el libro de Física, ¿qué se habrá realizado si el gas ejerce una fuerza suficiente sobre el émbolo y lo desplaza?
+
+- A. Un trabajo del sistema sobre los alrededores.
+- B. Un trabajo de los alrededores sobre el sistema.
+- C. Una disminución de la energía interna sin trabajo alguno.
+- D. Un proceso isocórico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 364
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Pero si el gas ejerce una fuerza suficiente sobre el émbolo y lo desplaza se habrá realizado un trabajo del sistema sobre los alrededores.>
+
+### 194
+
+En relación con el libro de Física, en ese caso, ¿a qué será igual la variación de la energía interna del sistema?
+
+- A. Al calor que haya absorbido, menos el trabajo realizado en la expansión del gas.
+- B. Al calor que haya absorbido, más el trabajo realizado en la expansión del gas.
+- C. Al trabajo realizado en la expansión del gas, menos el calor absorbido.
+- D. Únicamente al calor que haya absorbido.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 364
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Por tanto, la variación de la energía interna del sistema será igual al calor que haya absorbido, menos el trabajo realizado en la expansión del gas.>
+
+### 195
+
+De acuerdo con el libro de Física, al suministrar calor a un gas encerrado en un cilindro hermético, ¿qué ocurre con el volumen y cómo se llama ese proceso?
+
+- A. El volumen permanece constante, y es un proceso isocórico.
+- B. El volumen aumenta, y es un proceso isocórico.
+- C. El volumen permanece constante, y es un proceso adiabático.
+- D. El volumen disminuye, y es un proceso isotérmico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 364
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Al suministrar calor a un sistema formado por un gas encerrado en un cilindro hermético, el volumen permanece constante (proceso isocórico).>
+
+### 196
+
+De conformidad con el libro de Física, al no realizar ningún trabajo, ¿qué sucede con todo el calor suministrado al sistema?
+
+- A. Aumentará su energía interna.
+- B. Disminuirá su energía interna.
+- C. Se transformará íntegramente en trabajo mecánico.
+- D. Se cederá a los alrededores.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 364
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Y al no realizar ningún trabajo todo el calor suministrado al sistema aumentará su energía interna.>
+
+### 197
+
+En relación con el libro de Física, ¿cómo fluye la energía calorífica entre un sistema frío y uno caliente?
+
+- A. No fluye en forma espontánea de un sistema frío a otro caliente.
+- B. Fluye en forma espontánea de un sistema frío a otro caliente.
+- C. Fluye en ambos sentidos por igual hasta igualar las temperaturas.
+- D. No fluye en ningún sentido mientras haya diferencia de temperaturas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 365
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La energía calorífica no fluye en forma espontánea de un sistema frío a otro caliente.>
+
+### 198
+
+De acuerdo con el libro de Física, ¿en qué caso se puede utilizar la energía calorífica para producir trabajo?
+
+- A. Sólo cuando se tienen dos sistemas con diferentes temperaturas.
+- B. Sólo cuando se tienen dos sistemas con la misma temperatura.
+- C. Siempre que exista un sistema caliente, aunque esté aislado.
+- D. Sólo cuando el sistema frío cede calor al caliente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 365
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Sólo cuando se tienen dos sistemas con diferentes temperaturas se puede utilizar la energía calorífica para producir trabajo.>
+
+### 199
+
+De conformidad con el libro de Física, ¿hasta cuándo fluye espontáneamente el calor del sistema caliente al frío?
+
+- A. Hasta que se igualan las temperaturas.
+- B. Hasta que el sistema frío alcanza el punto de ebullición.
+- C. Hasta que todo el calor se transforma en trabajo.
+- D. Hasta que el sistema caliente pierde toda su energía interna.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 365
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El calor fluye espontáneamente del sistema caliente al frío hasta que se igualan las temperaturas.>
+
+### 200
+
+En relación con el libro de Física, durante ese proceso, ¿qué parte del calor puede convertirse en trabajo mecánico?
+
+- A. Parte del calor se puede transformar en energía mecánica, pero no todo el calor puede ser convertido en trabajo mecánico.
+- B. Todo el calor puede ser convertido en trabajo mecánico.
+- C. Ninguna parte del calor puede transformarse en energía mecánica.
+- D. Sólo el calor que cede el sistema frío puede convertirse en trabajo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 365
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Durante este proceso, parte del calor se puede transformar en energía mecánica a fin de efectuar un trabajo, pero no todo el calor puede ser convertido en trabajo mecánico.>
+
+### 201
+
+De acuerdo con el libro de Física, ¿qué estudia la primera ley de la termodinámica?
+
+- A. La transformación de la energía mecánica en calorífica y la del calor en trabajo, sin imponer ninguna restricción en estos cambios.
+- B. La transformación de la energía mecánica en calorífica, imponiendo restricciones a estos cambios.
+- C. El límite en la cantidad de trabajo que es posible obtener de un sistema caliente.
+- D. El sentido en que fluye espontáneamente el calor entre dos cuerpos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 365
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La primera ley de la termodinámica, como ya señalamos, estudia la transformación de la energía mecánica en calorífica y la del calor en trabajo, sin imponer ninguna restricción en estos cambios.>
+
+### 202
+
+De conformidad con el libro de Física, ¿qué restricción señala la segunda ley de la termodinámica?
+
+- A. Que existe un límite en la cantidad de trabajo, el cual es posible obtener a partir de un sistema caliente.
+- B. Que no existe ningún límite en la cantidad de trabajo que puede obtenerse de un sistema caliente.
+- C. Que la energía interna de un sistema nunca puede aumentar.
+- D. Que el calor sólo puede fluir del sistema frío al caliente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 365
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Sin embargo, la segunda ley de la termodinámica señala restricciones al decir que existe un límite en la cantidad de trabajo, el cual es posible obtener a partir de un sistema caliente.>
+
+### 203
+
+En relación con el libro de Física, ¿cuántos enunciados definen la segunda ley de la termodinámica?
+
+- A. Dos.
+- B. Tres.
+- C. Uno.
+- D. Cuatro.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 365
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Existen dos enunciados que definen la segunda ley de la termodinámica.>
+
+### 204
+
+De acuerdo con el libro de Física, ¿qué dice el enunciado de la segunda ley formulado por el físico alemán?
+
+- A. El calor no puede por sí mismo, sin la intervención de un agente externo, pasar de un cuerpo frío a un cuerpo caliente.
+- B. El calor no puede por sí mismo, sin la intervención de un agente externo, pasar de un cuerpo caliente a un cuerpo frío.
+- C. Es imposible construir una máquina térmica que transforme en trabajo todo el calor que se le suministra.
+- D. La energía no se crea ni se destruye, sólo se transforma.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 365
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El calor no puede por sí mismo, sin la intervención de un agente externo, pasar de un cuerpo frío a un cuerpo caliente.>
+
+> Nota de revisor: el libro atribuye este enunciado a "Rudolph J. E. Celsius"; es
+> errata suya (el autor es Rudolf Clausius). Por eso el reactivo pregunta por el
+> contenido del enunciado y no por el nombre. Ver "Erratas del libro" en el
+> encabezado.
+
+### 205
+
+De conformidad con el libro de Física, ¿qué dice el enunciado del físico inglés William Thomson Kelvin?
+
+- A. Es imposible construir una máquina térmica que transforme en trabajo todo el calor que se le suministra.
+- B. Es posible construir una máquina térmica que transforme en trabajo todo el calor que se le suministra.
+- C. El calor no puede pasar por sí mismo de un cuerpo frío a uno caliente.
+- D. Toda máquina térmica cede al ambiente la misma cantidad de calor que recibe.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 365
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Y otro del físico inglés William Thomson Kelvin: es imposible construir una máquina térmica que transforme en trabajo todo el calor que se le suministra.>
+
+### 206
+
+En relación con el libro de Física, ¿qué son las leyes de la termodinámica?
+
+- A. Verdades universales, establecidas después de haberse realizado numerosos experimentos tanto cualitativos como cuantitativos.
+- B. Hipótesis provisionales, aún no comprobadas experimentalmente.
+- C. Convenciones adoptadas por los físicos para facilitar los cálculos.
+- D. Verdades válidas únicamente para los gases ideales.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 365
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Las leyes de la termodinámica son verdades universales, establecidas después de haberse realizado numerosos experimentos tanto cualitativos como cuantitativos.>
+
 ---
 
-**Reactivos en este archivo:** 188
+**Reactivos en este archivo:** 206
