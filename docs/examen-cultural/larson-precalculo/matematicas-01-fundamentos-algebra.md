@@ -72,7 +72,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 - Cubiertas las páginas impresas **34 y 35**: el recuadro *Factorización de formas polinomiales especiales* completo (diferencia de dos cuadrados, trinomio cuadrado perfecto en sus dos formas, suma y diferencia de dos cubos), los pares conjugados, cómo reconocer términos cuadrados perfectos, el `COMENTARIO` de buscar factores comunes primero, y la descripción del trinomio cuadrado perfecto (primero y último términos cuadrados, término medio igual a dos veces el producto de u y v). Los `EJEMPLO 6` a `EJEMPLO 10` no llevan reactivos.
 - Cubiertas las páginas impresas **36 y 37**, con las que **cierra el 1.4**: *Trinomios con factores binomiales* (el patrón de factores de a y de c, la meta de que la suma de los productos externos e internos sea bx, y el `COMENTARIO` de la prueba y error y de cómo comprobar multiplicando) y *Factorización por agrupación* (qué polinomios la admiten, qué prueba y error elimina, elegir factores de ac que sumen b para reescribir el término medio, y el `COMENTARIO` de que más de una agrupación puede dar resultado). El `Resumen (sección 1.4)` **no lleva reactivos**, igual que el del 1.3. Los `EJEMPLO 11` a `EJEMPLO 14` tampoco. **Las pp. 38 y 39 son íntegramente el bloque `1.4 Ejercicios`.**
 
-**Pendiente:** EN CURSO. El **1.3 y el 1.4 están CERRADOS**. Sigue el **1.6 · Resolución de ecuaciones**, que arranca en la página impresa **50**. Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+- Cubiertas las páginas impresas **50 y 51**, arranque del **1.6 · Resolución de ecuaciones**: qué es una ecuación y qué es resolverla, las soluciones y de qué dependen, los tres tipos de ecuación (identidad, condicional y contradicción), la *Definición de una ecuación lineal con una variable*, que ésta tiene exactamente una solución, las ecuaciones equivalentes y los cuatro pasos del recuadro *Generación de ecuaciones equivalentes*, y el `COMENTARIO` de comprobar cada solución. El `EJEMPLO 1` no lleva reactivos.
+
+**Pendiente:** EN CURSO. El **1.3 y el 1.4 están CERRADOS** y el **1.6 va en curso**: sigue desde la página impresa **52**. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -2604,5 +2606,298 @@ En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué
 **Subtema:** polinomios y factorización · factorización por agrupación
 
 A veces, más de una agrupación dará resultado.
+
+---
+
+## Sub-lote 17 · Ecuaciones, soluciones y tipos de ecuación (1.6, p. 50)
+
+### 148
+
+De acuerdo con el libro de Matemáticas, ¿qué es una ecuación con x?
+
+- A. Un enunciado de que dos expresiones algebraicas son iguales
+- B. Un enunciado de que dos expresiones algebraicas son distintas
+- C. Una expresión algebraica escrita en forma estándar
+- D. Un polinomio igualado a su coeficiente principal
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 50
+**Subtema:** resolución de ecuaciones · ecuaciones y soluciones
+
+Una ecuación con x es un enunciado de que dos expresiones algebraicas son iguales.
+
+---
+
+### 149
+
+De conformidad con el libro de Matemáticas, ¿qué significa resolver una ecuación con x?
+
+- A. Determinar todos los valores de x para los cuales la ecuación es cierta
+- B. Escribir la ecuación en su forma estándar
+- C. Factorizar por completo los dos miembros de la ecuación
+- D. Comprobar que la ecuación es una identidad
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 50
+**Subtema:** resolución de ecuaciones · ecuaciones y soluciones
+
+Resolver una ecuación con x significa determinar todos los valores de x para los cuales la ecuación es cierta.
+
+---
+
+### 150
+
+En relación con el libro de Matemáticas, ¿cómo se llaman los valores de x para los cuales una ecuación es cierta?
+
+- A. Soluciones
+- B. Identidades
+- C. Coeficientes
+- D. Equivalencias
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 50
+**Subtema:** resolución de ecuaciones · ecuaciones y soluciones
+
+Tales valores son soluciones.
+
+---
+
+### 151
+
+De acuerdo con el libro de Matemáticas, ¿de qué dependen las soluciones de una ecuación?
+
+- A. Del tipo de números en consideración
+- B. Del grado del polinomio
+- C. Del número de términos de la ecuación
+- D. Del signo del coeficiente principal
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 50
+**Subtema:** resolución de ecuaciones · ecuaciones y soluciones
+
+Las soluciones de una ecuación dependen del tipo de números en consideración.
+
+---
+
+### 152
+
+De conformidad con el libro de Matemáticas, ¿qué es una identidad?
+
+- A. Una ecuación que es cierta para todos los números reales en el dominio de la variable
+- B. Una ecuación que es cierta para sólo algunos de los números reales en el dominio de la variable
+- C. Una ecuación que es falsa para todos los números reales en el dominio de la variable
+- D. Una ecuación que no tiene ninguna solución real
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 50
+**Subtema:** resolución de ecuaciones · identidad
+
+Una ecuación que es cierta para todos los números reales en el dominio de la variable es una identidad.
+
+---
+
+### 153
+
+En relación con el libro de Matemáticas, ¿qué es una ecuación condicional?
+
+- A. Una ecuación que es cierta para sólo algunos de los números reales del dominio de la variable, pero no todos
+- B. Una ecuación que es cierta para todos los números reales del dominio de la variable
+- C. Una ecuación que es falsa para todos los números reales del dominio de la variable
+- D. Una ecuación que sólo es cierta cuando la variable vale cero
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 50
+**Subtema:** resolución de ecuaciones · ecuación condicional
+
+Una ecuación que es cierta para sólo algunos de los números reales (pero no todos) en el dominio de la variable, es una ecuación condicional.
+
+---
+
+### 154
+
+De acuerdo con el libro de Matemáticas, ¿qué es una contradicción?
+
+- A. Una ecuación que es falsa para todos los números reales en el dominio de la variable
+- B. Una ecuación que es cierta para todos los números reales en el dominio de la variable
+- C. Una ecuación que es cierta sólo para algunos números reales del dominio
+- D. Una ecuación que tiene exactamente dos soluciones
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 50
+**Subtema:** resolución de ecuaciones · contradicción
+
+Una contradicción es una ecuación que es falsa para todos los números reales en el dominio de la variable.
+
+---
+
+### 155
+
+De conformidad con el libro de Matemáticas, ¿cuál es la forma estándar de una ecuación lineal con una variable x?
+
+- A. ax + b = 0
+- B. ax² + bx + c = 0
+- C. ax + b = c
+- D. ax = b
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 50
+**Subtema:** resolución de ecuaciones · ecuación lineal
+
+Una ecuación lineal con una variable x es una ecuación que puede escribirse en la forma estándar ax + b = 0.
+
+---
+
+### 156
+
+En relación con el libro de Matemáticas, en la forma estándar de una ecuación lineal con una variable, ¿qué deben cumplir a y b?
+
+- A. Ser números reales con a distinto de cero
+- B. Ser números reales con b distinto de cero
+- C. Ser números enteros positivos
+- D. Ser números reales cualesquiera
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 50
+**Subtema:** resolución de ecuaciones · ecuación lineal
+
+Donde a y b son números reales con a ≠ 0.
+
+---
+
+## Sub-lote 18 · Ecuaciones equivalentes (1.6, p. 51)
+
+### 157
+
+De acuerdo con el libro de Matemáticas, ¿cuántas soluciones tiene una ecuación lineal con una variable?
+
+- A. Exactamente una
+- B. Exactamente dos
+- C. Ninguna
+- D. Una infinidad
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 51
+**Subtema:** resolución de ecuaciones · ecuación lineal
+
+Una ecuación lineal con una variable tiene exactamente una solución.
+
+---
+
+### 158
+
+De conformidad con el libro de Matemáticas, ¿qué tienen en común las ecuaciones de una sucesión de ecuaciones equivalentes?
+
+- A. Que cada una tiene la misma solución que la ecuación original
+- B. Que cada una tiene el mismo número de términos
+- C. Que cada una está escrita en forma estándar
+- D. Que cada una tiene el mismo coeficiente principal
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 51
+**Subtema:** resolución de ecuaciones · ecuaciones equivalentes
+
+Usted despeja x en un miembro de la ecuación con el uso de una sucesión de ecuaciones equivalentes, cada una de las cuales tiene la misma solución que la ecuación original.
+
+---
+
+### 159
+
+En relación con el libro de Matemáticas, ¿de dónde proceden las operaciones que rinden ecuaciones equivalentes?
+
+- A. De las propiedades de la igualdad
+- B. De las propiedades de los exponentes
+- C. De las propiedades de los radicales
+- D. De los productos especiales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 51
+**Subtema:** resolución de ecuaciones · ecuaciones equivalentes
+
+Las operaciones que rinden ecuaciones equivalentes proceden de las propiedades de la igualdad.
+
+---
+
+### 160
+
+De acuerdo con el libro de Matemáticas, ¿cuál es el primer paso que enlista el libro para generar una ecuación equivalente?
+
+- A. Eliminar los símbolos de agrupación, combinar términos iguales o simplificar fracciones en uno o ambos miembros
+- B. Sumar o restar la misma cantidad a cada miembro
+- C. Multiplicar o dividir cada miembro por la misma cantidad diferente de cero
+- D. Intercambiar los dos miembros de la ecuación
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 51
+**Subtema:** resolución de ecuaciones · ecuaciones equivalentes
+
+1. Elimine los símbolos de agrupación, combine términos iguales o simplifique fracciones en uno o ambos miembros de la ecuación.
+
+---
+
+### 161
+
+De conformidad con el libro de Matemáticas, en el segundo paso para generar una ecuación equivalente, ¿qué se hace?
+
+- A. Sumar o restar la misma cantidad a cada miembro de la ecuación
+- B. Sumar o restar cantidades distintas a cada miembro de la ecuación
+- C. Multiplicar cada miembro por la misma cantidad
+- D. Eliminar los símbolos de agrupación
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 51
+**Subtema:** resolución de ecuaciones · ecuaciones equivalentes
+
+2. Sume (o reste) la misma cantidad a (de) cada miembro de la ecuación.
+
+---
+
+### 162
+
+En relación con el libro de Matemáticas, en el tercer paso para generar una ecuación equivalente, ¿por qué cantidad puede multiplicarse o dividirse cada miembro?
+
+- A. Por la misma cantidad, siempre que sea diferente de cero
+- B. Por la misma cantidad, aunque sea cero
+- C. Por cantidades distintas en cada miembro
+- D. Únicamente por el coeficiente principal
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 51
+**Subtema:** resolución de ecuaciones · ecuaciones equivalentes
+
+3. Multiplique (o divida) cada miembro de la ecuación por (entre) la misma cantidad diferente de cero.
+
+---
+
+### 163
+
+De acuerdo con el libro de Matemáticas, ¿cuál es el cuarto paso que enlista el libro para generar una ecuación equivalente?
+
+- A. Intercambiar los dos miembros de la ecuación
+- B. Elevar al cuadrado los dos miembros de la ecuación
+- C. Igualar a cero los dos miembros de la ecuación
+- D. Factorizar los dos miembros de la ecuación
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 51
+**Subtema:** resolución de ecuaciones · ecuaciones equivalentes
+
+4. Intercambie los dos miembros de la ecuación.
+
+---
+
+### 164
+
+De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué debe hacerse después de resolver una ecuación?
+
+- A. Comprobar cada solución en la ecuación original
+- B. Escribir la ecuación en forma estándar
+- C. Factorizar el resultado obtenido
+- D. Verificar que la ecuación sea una identidad
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 51
+**Subtema:** resolución de ecuaciones · comprobación de soluciones
+
+Después de resolver una ecuación, usted debe comprobar cada solución en la ecuación original.
 
 ---
