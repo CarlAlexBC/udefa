@@ -5130,6 +5130,1018 @@ En relación con el libro de Física, ¿qué órbitas describen en realidad los 
 
 <En realidad, una órbita circular en sentido estricto es prácticamente imposible, por tanto, los satélites describen órbitas elípticas como todos los astros.>
 
+## Sub-lote 30 · Satélites: satelización, órbitas y aplicaciones (pp. 160–161) — tema 4
+
+### 304
+
+De acuerdo con el libro de Física, ¿por qué se destruiría irremediablemente un satélite frenado por la atmósfera?
+
+- A. Por desintegración en las capas densas de la atmósfera debido al intenso calentamiento de miles de grados que experimentaría al rozar con el aire.
+- B. Por el impacto contra el suelo al terminar su trayectoria en espiral.
+- C. Por la pérdida total de su masa al atravesar las capas densas de la atmósfera.
+- D. Por el choque con otros satélites que gravitan a la misma altura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Lo cual provocaría su destrucción irremediable, pero no por el impacto contra el suelo, sino por desintegración en las capas densas de la atmósfera debido al intenso calentamiento de miles de grados que experimentaría al rozar con el aire a velocidades de varios kilómetros por segundo.>
+
+### 305
+
+De conformidad con el libro de Física, ¿qué trayectoria seguiría ese satélite?
+
+- A. Una espiral.
+- B. Una parábola.
+- C. Una circunferencia.
+- D. Una línea recta vertical.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Por tanto, su trayectoria sería una espiral.>
+
+### 306
+
+En relación con el libro de Física, ¿por qué es utópica la satelización de un cuerpo cualquiera lanzado desde el suelo con un cañón?
+
+- A. Debido a la existencia de una atmósfera densa.
+- B. Debido a la ausencia de fuerzas gravitacionales.
+- C. Debido a que el cañón no alcanza la velocidad de rotación de la Tierra.
+- D. Debido a que la trayectoria del proyectil siempre es circular.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Debido a la existencia de una atmósfera densa es utópica la satelización de un cuerpo cualquiera lanzado desde el suelo con un cañón.>
+
+### 307
+
+De acuerdo con el libro de Física, ¿cómo es transportado un satélite artificial?
+
+- A. Por un cohete, el cual parte lentamente y cuya magnitud de velocidad aumenta con rapidez.
+- B. Por un cohete, el cual parte a gran velocidad y va frenando de manera progresiva.
+- C. Por un avión que lo eleva hasta la órbita prevista.
+- D. Por un cañón que lo lanza desde el suelo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Así, un satélite artificial es transportado por un cohete, el cual parte lentamente y cuya magnitud de velocidad aumenta con rapidez, mientras va disminuyendo la densidad de las capas atmosféricas que atraviesa.>
+
+### 308
+
+De conformidad con el libro de Física, ¿a qué altura mínima de la superficie terrestre debe elevarse una cápsula espacial para satelizarla?
+
+- A. 175 km.
+- B. 75 km.
+- C. 275 km.
+- D. 1 750 km.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Para satelizar una cápsula espacial primero es necesario elevarla fuera de las capas densas de la atmósfera, es decir, a una altura mínima de 175 km de la superficie terrestre.>
+
+### 309
+
+En relación con el libro de Física, ¿con qué fin se eleva la cápsula fuera de las capas densas de la atmósfera?
+
+- A. A fin de impulsarla después horizontalmente en su órbita hasta adquirir una rapidez comprendida entre las velocidades circular y parabólica.
+- B. A fin de impulsarla después verticalmente hasta alcanzar la velocidad de escape.
+- C. A fin de que conserve la velocidad inicial que le imprimió el cohete.
+- D. A fin de que su trayectoria describa una espiral estable.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<A fin de impulsarla después horizontalmente en su órbita hasta adquirir una rapidez comprendida entre las velocidades circular y parabólica.>
+
+### 310
+
+De acuerdo con el libro de Física, ¿a qué corresponden los valores señalados en el cuadro 5.1?
+
+- A. A una hipotética satelización al nivel del suelo.
+- B. A una satelización real a 175 km de altura.
+- C. A la velocidad de los satélites naturales del Sistema Solar.
+- D. A la velocidad de rotación de la Tierra sobre sí misma.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Los valores señalados en el cuadro 5.1 corresponden a una hipotética satelización al nivel del suelo.>
+
+### 311
+
+De conformidad con el libro de Física, ¿a cuánto equivale el radio de la Tierra en la fórmula de la velocidad circular?
+
+- A. A 6 370 000 m.
+- B. A 6 730 000 m.
+- C. A 637 000 m.
+- D. A 63 700 000 m.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<R = Radio de la Tierra igual a 6 370 000 m.>
+
+### 312
+
+En relación con el libro de Física, ¿qué representa la r en esa fórmula?
+
+- A. La distancia del satélite al centro de la Tierra en metros.
+- B. La distancia del satélite a la superficie de la Tierra en metros.
+- C. El radio de la órbita circular del satélite en kilómetros.
+- D. La magnitud de la aceleración de la gravedad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<r = distancia del satélite al centro de la Tierra en metros.>
+
+### 313
+
+De acuerdo con el libro de Física, para economizar combustible, ¿cuál sería lo ideal?
+
+- A. Despegar del suelo casi en forma horizontal y elevarse de manera progresiva, como un avión, hasta llegar tangencialmente a la órbita.
+- B. Despegar del suelo en sentido vertical y mantener esa dirección hasta la órbita.
+- C. Despegar del suelo con la velocidad de escape desde el primer instante.
+- D. Elevarlo verticalmente hasta su órbita y luego introducirlo en la misma.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Para economizar combustible lo ideal sería despegar del suelo casi en forma horizontal y elevarse de manera progresiva, como un avión, hasta llegar tangencialmente a la órbita, después de un recorrido muy largo.>
+
+### 314
+
+De conformidad con el libro de Física, ¿por qué es imposible de seguir ese procedimiento?
+
+- A. Debido a la resistencia del aire a un cohete tan rápido.
+- B. Debido a la falta de combustible de los cohetes actuales.
+- C. Debido a que la órbita prevista cambia constantemente.
+- D. Debido a que el cohete no puede inclinarse de manera progresiva.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Sin embargo, este procedimiento es imposible de seguir debido a la resistencia del aire a un cohete tan rápido.>
+
+### 315
+
+En relación con el libro de Física, ¿cuál es el procedimiento real adoptado para lanzar un satélite?
+
+- A. El cohete parte del suelo en sentido vertical y durante la trayectoria de sus distintas etapas se inclina de manera progresiva hasta adquirir una posición horizontal.
+- B. El cohete parte del suelo en sentido horizontal y se endereza de manera progresiva hasta quedar vertical.
+- C. El cohete parte del suelo en sentido vertical y conserva esa posición durante todo el ascenso.
+- D. El cohete es elevado por un avión y liberado ya en posición horizontal.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El procedimiento real, adoptado para lanzar un satélite, es el siguiente: el cohete parte del suelo en sentido vertical y durante la trayectoria de sus distintas etapas se inclina de manera progresiva hasta adquirir una posición horizontal.>
+
+### 316
+
+De acuerdo con el libro de Física, ¿cuándo sucede que el cohete adquiere la posición horizontal?
+
+- A. Cuando alcanza la órbita prevista.
+- B. Cuando abandona las capas densas de la atmósfera.
+- C. Cuando alcanza la velocidad de escape.
+- D. Cuando se agota la primera de sus etapas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Esto sucede cuando alcanza la órbita prevista.>
+
+### 317
+
+De conformidad con el libro de Física, ¿cómo se hacen las correcciones necesarias durante el ascenso?
+
+- A. Desde el centro de lanzamiento, por telemando.
+- B. Desde la propia cápsula, por sus tripulantes.
+- C. De manera automática, sin intervención humana.
+- D. Desde otro satélite ya satelizado en la misma órbita.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Y desde el centro de lanzamiento, por telemando, hacen las correcciones necesarias a fin de satelizar el cuerpo con el punto previsto y con la velocidad inicial necesaria para orbitarlo.>
+
+### 318
+
+En relación con el libro de Física, ¿entre qué alturas gravita un satélite cuyo objetivo es estudiar la alta atmósfera?
+
+- A. Entre 175 y 300 km, y dura poco.
+- B. Entre 300 y 600 km, y dura mucho.
+- C. Entre 36 000 y 40 000 km, y dura poco.
+- D. Entre 75 y 175 km, y dura mucho.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Por ejemplo, si su objetivo es estudiar la alta atmósfera, gravita entre 175 y 300 km y dura poco.>
+
+### 319
+
+De acuerdo con el libro de Física, ¿qué es el perigeo?
+
+- A. El punto de la órbita donde el satélite está más cerca de la Tierra.
+- B. El punto de la órbita donde el satélite está más lejos de la Tierra.
+- C. El punto de la órbita donde el satélite alcanza su mayor velocidad de escape.
+- D. El punto del suelo sobre el cual permanece fijo el satélite estacionario.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Un perigeo (punto de la órbita donde el satélite está más cerca de la Tierra).>
+
+### 320
+
+De conformidad con el libro de Física, ¿qué es el apogeo?
+
+- A. El punto de la órbita donde el satélite está más lejos de la Tierra.
+- B. El punto de la órbita donde el satélite está más cerca de la Tierra.
+- C. El punto en que el satélite alcanza la velocidad circular.
+- D. El punto en que el satélite se desintegra en la atmósfera.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Y elevarse en el apogeo (punto de la órbita donde el satélite está más lejos de la Tierra) hasta miles de kilómetros.>
+
+### 321
+
+En relación con el libro de Física, ¿a qué distancia de la Tierra siguen sus órbitas los mejores satélites de telecomunicación?
+
+- A. A decenas de miles de kilómetros.
+- B. A unos centenares de kilómetros.
+- C. A unos 175 km.
+- D. A decenas de kilómetros.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Los mejores satélites de telecomunicación siguen órbitas a decenas de miles de kilómetros de la Tierra.>
+
+### 322
+
+De acuerdo con el libro de Física, en el caso de los satélites síncronos o estacionarios, ¿en función de qué se determina la altura?
+
+- A. Del periodo de rotación requerido.
+- B. De la masa del satélite.
+- C. De la velocidad de escape de la Tierra.
+- D. De la densidad de las capas atmosféricas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<En el caso de los satélites síncronos o satélites estacionarios, la altura se determina en función del periodo de rotación requerido.>
+
+### 323
+
+De conformidad con el libro de Física, ¿qué periodo tendrá un satélite ecuatorial con una órbita circular a 36 000 km del suelo?
+
+- A. 23 horas, 56 minutos 4 segundos.
+- B. 24 horas exactas.
+- C. 23 horas, 46 minutos 5 segundos.
+- D. 22 horas, 56 minutos 4 segundos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Así, un satélite ecuatorial, con una órbita circular a 36 000 km del suelo, tendrá un periodo de 23 horas, 56 minutos 4 segundos.>
+
+### 324
+
+En relación con el libro de Física, ¿a qué equivale ese periodo?
+
+- A. Al tiempo empleado por la Tierra en dar una vuelta sobre sí misma.
+- B. Al tiempo empleado por la Tierra en dar una vuelta alrededor del Sol.
+- C. Al tiempo empleado por la Luna en dar una vuelta alrededor de la Tierra.
+- D. Al tiempo que tarda el satélite en alcanzar su apogeo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 160
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Lo cual equivale al tiempo empleado por la Tierra en dar una vuelta sobre sí misma.>
+
+### 325
+
+De acuerdo con el libro de Física, ¿qué se tendrá una vez satelizado el cuerpo espacial con la vertical de un punto de la Tierra?
+
+- A. Un retransmisor para telecomunicaciones prácticamente fijo, como los instalados en la cima de las montañas para televisión.
+- B. Un retransmisor para telecomunicaciones en movimiento constante respecto de la Tierra.
+- C. Un satélite astronómico capaz de observar por encima de la atmósfera.
+- D. Un satélite geodésico para cartografía y navegación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 161
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Se tendrá entonces un retransmisor para telecomunicaciones prácticamente fijo, como los instalados en la cima de las montañas para televisión.>
+
+### 326
+
+De conformidad con el libro de Física, ¿por qué un satélite estacionario o síncrono permanece siempre encima de un punto determinado con respecto a la Tierra?
+
+- A. Porque gira a la misma velocidad de rotación de la Tierra.
+- B. Porque gira al doble de la velocidad de rotación de la Tierra.
+- C. Porque permanece inmóvil en el espacio mientras la Tierra gira.
+- D. Porque describe una órbita parabólica sobre ese punto.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 161
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Un satélite estacionario o síncrono gira a la misma velocidad de rotación de la Tierra, por lo que permanece siempre encima de un punto determinado con respecto a la Tierra.>
+
+### 327
+
+En relación con el libro de Física, ¿qué permiten tener los satélites meteorológicos?
+
+- A. Una visión fotográfica de todas las nubes existentes alrededor de la Tierra y su dirección de movimiento.
+- B. Una visión fotográfica de las instalaciones terrestres y de los disparos de los cohetes.
+- C. Observaciones por encima de la atmósfera para obtener una visión real del universo.
+- D. Las medidas necesarias de cartografía y navegación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 161
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Se usan como satélites meteorológicos pues [...] permiten tener una visión fotográfica de todas las nubes existentes alrededor de la Tierra y su dirección de movimiento.>
+
+### 328
+
+De acuerdo con el libro de Física, ¿para qué existen los satélites militares?
+
+- A. Para observar las instalaciones terrestres y de detección por medio de células infrarrojas, de los disparos de los cohetes o la explosión de bombas atómicas.
+- B. Para transmitir programas de televisión de un continente a otro.
+- C. Para medir el campo magnético o la radiación de la superficie terrestre.
+- D. Para determinar con precisión las medidas de cartografía y navegación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 161
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Existen satélites militares para observar las instalaciones terrestres y de detección por medio de células infrarrojas, de los disparos de los cohetes o la explosión de bombas atómicas.>
+
+### 329
+
+De conformidad con el libro de Física, ¿qué hacen los satélites de telecomunicaciones?
+
+- A. Transmiten programas de televisión de un continente a otro, o establecen de manera simultánea gran número de comunicaciones radiofónicas.
+- B. Transmiten únicamente comunicaciones radiofónicas entre dos puntos.
+- C. Observan las instalaciones terrestres por medio de células infrarrojas.
+- D. Miden el campo magnético de la superficie terrestre.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 161
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Los satélites de telecomunicaciones transmiten programas de televisión de un continente a otro, o establecen de manera simultánea gran número de comunicaciones radiofónicas.>
+
+### 330
+
+En relación con el libro de Física, ¿qué posibilitan los satélites astronómicos?
+
+- A. Efectuar observaciones por encima de la atmósfera, la cual constituye una barrera al cerrar el paso de ciertas radiaciones.
+- B. Efectuar observaciones desde la superficie terrestre con mayor precisión.
+- C. Fotografiar todas las nubes existentes alrededor de la Tierra.
+- D. Determinar las medidas necesarias de cartografía y navegación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 161
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Los satélites astronómicos posibilitan efectuar observaciones por encima de la atmósfera, la cual constituye una barrera al cerrar el paso de ciertas radiaciones y actuar como un filtro, mismo que impide obtener una visión real del universo.>
+
+### 331
+
+De acuerdo con el libro de Física, ¿qué determinan los satélites geodésicos?
+
+- A. Con precisión las medidas necesarias de cartografía y navegación.
+- B. Con precisión el campo magnético de la superficie terrestre.
+- C. La dirección de movimiento de las nubes alrededor de la Tierra.
+- D. La radiación que emiten las bombas atómicas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 161
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Los satélites geodésicos determinan con precisión las medidas necesarias de cartografía y navegación.>
+
+### 332
+
+De conformidad con el libro de Física, ¿qué miden los satélites geofísicos?
+
+- A. El campo magnético o la radiación de la superficie terrestre.
+- B. Las medidas necesarias de cartografía y navegación.
+- C. La dirección de movimiento de las nubes.
+- D. La altura del perigeo y del apogeo de otros satélites.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 161
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Los satélites geofísicos miden el campo magnético o la radiación de la superficie terrestre.>
+
+### 333
+
+En relación con el libro de Física, ¿de qué constan los satélites artificiales habitados?
+
+- A. De una cabina provista de atmósfera condicionada, así como de medios para el control de la nave y los cohetes correctores y de retropropulsión.
+- B. De una cabina sin atmósfera condicionada y de un sistema automático de control.
+- C. Únicamente de cohetes correctores y de retropropulsión.
+- D. De una plataforma espacial con equipos de investigación científica.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 161
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Los satélites artificiales habitados constan de una cabina provista de atmósfera condicionada, así como de medios para el control de la nave y los cohetes correctores y de retropropulsión.>
+
+## Sub-lote 31 · La Estación Espacial Internacional y la Luna (pp. 162–163) — tema 4
+
+### 334
+
+De acuerdo con el libro de Física, ¿a qué magnitud de velocidad da vueltas la Estación Espacial Internacional alrededor de la Tierra?
+
+- A. 28 000 km/h.
+- B. 8 000 km/h.
+- C. 3 664 km/h.
+- D. 40 000 km/h.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Da vueltas alrededor de la Tierra a una magnitud de velocidad de 28 000 km/h.>
+
+### 335
+
+De conformidad con el libro de Física, ¿cuánto tarda la Estación Espacial Internacional en realizar una vuelta completa?
+
+- A. 90 minutos.
+- B. 60 minutos.
+- C. 120 minutos.
+- D. 24 horas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Y tarda 90 minutos en realizar una vuelta completa.>
+
+### 336
+
+En relación con el libro de Física, ¿a qué altura sobre la superficie terrestre orbita la Estación Espacial Internacional?
+
+- A. A unos 400 km.
+- B. A unos 175 km.
+- C. A unos 4 000 km.
+- D. A unos 36 000 km.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La Estación Espacial Internacional orbita a unos 400 km sobre la superficie terrestre.>
+
+### 337
+
+De acuerdo con el libro de Física, ¿qué les ocasiona a los astronautas la dieta que llevan?
+
+- A. Que su sentido del gusto vaya disminuyendo.
+- B. Que su sentido del olfato vaya disminuyendo.
+- C. Que su masa corporal aumente rápidamente.
+- D. Que su sentido del oído se agudice.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Las dificultades a las que se enfrentan las personas debido a la dieta que llevan, misma que les ocasiona que su sentido del gusto vaya disminuyendo.>
+
+### 338
+
+De conformidad con el libro de Física, ¿qué sistemas del cuerpo humano resultan afectados por la falta de gravedad?
+
+- A. El óseo y el circulatorio.
+- B. El nervioso y el digestivo.
+- C. El respiratorio y el muscular.
+- D. El endocrino y el excretor.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Las afectaciones que provoca la falta de gravedad en sus sistemas óseo y circulatorio.>
+
+### 339
+
+En relación con el libro de Física, ¿de cuántas agencias del espacio participantes proceden los astronautas e investigadores de la Estación Espacial Internacional?
+
+- A. De cinco.
+- B. De tres.
+- C. De cuatro.
+- D. De seis.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Se encuentra permanentemente tripulada por astronautas e investigadores que se van rotando y que proceden de las cinco agencias del espacio participantes.>
+
+### 340
+
+De acuerdo con el libro de Física, ¿desde qué año ha estado en construcción en el espacio la Estación Espacial Internacional?
+
+- A. Desde 1998.
+- B. Desde 1988.
+- C. Desde 1969.
+- D. Desde 2004.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Ha estado en construcción en el espacio desde 1998.>
+
+### 341
+
+De conformidad con el libro de Física, ¿hasta qué año se espera que esté operando?
+
+- A. Por lo menos hasta el año 2024.
+- B. Por lo menos hasta el año 2014.
+- C. Por lo menos hasta el año 2034.
+- D. Por lo menos hasta el año 2020.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Y se espera que esté operando por lo menos hasta el año 2024.>
+
+### 342
+
+En relación con el libro de Física, ¿cuántos satélites artificiales hay actualmente en funcionamiento?
+
+- A. Alrededor de 3 500.
+- B. Alrededor de 8 000.
+- C. Alrededor de 350.
+- D. Alrededor de 35 000.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Actualmente, hay alrededor de 3 500 satélites artificiales en funcionamiento.>
+
+### 343
+
+De acuerdo con el libro de Física, ¿cuántos objetos de todo tipo orbitan nuestro planeta?
+
+- A. Unos 8 000.
+- B. Unos 3 500.
+- C. Unos 800.
+- D. Unos 18 000.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Así como unos 8 000 objetos de todo tipo que orbitan nuestro planeta.>
+
+### 344
+
+De conformidad con el libro de Física, ¿qué incluyen esos objetos?
+
+- A. Satélites que ya no se utilizan y sobre todo, basura espacial.
+- B. Únicamente satélites en pleno funcionamiento.
+- C. Únicamente sondas espaciales lanzadas hacia otros planetas.
+- D. Meteoritos capturados por la gravedad terrestre.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<E incluyen satélites que ya no se utilizan y sobre todo, basura espacial.>
+
+### 345
+
+En relación con el libro de Física, ¿qué es la Luna respecto de la Tierra?
+
+- A. El cuerpo celeste (astro) más cercano a la Tierra.
+- B. El cuerpo celeste (astro) más lejano a la Tierra.
+- C. El único satélite artificial de la Tierra.
+- D. La estrella más cercana a la Tierra.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La Luna es el cuerpo celeste (astro) más cercano a la Tierra.>
+
+### 346
+
+De acuerdo con el libro de Física, ¿cuál es la magnitud de la velocidad con que la Luna gira alrededor de la Tierra?
+
+- A. 3 664 km/h.
+- B. 3 476 km/h.
+- C. 28 000 km/h.
+- D. 6 634 km/h.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Gira alrededor de ella a una velocidad cuya magnitud es de 3 664 km/h.>
+
+### 347
+
+De conformidad con el libro de Física, ¿cuánto tarda la Luna en dar una vuelta alrededor de la Tierra?
+
+- A. 27 días con 7.716 horas.
+- B. 29 días con 7.716 horas.
+- C. 27 días con 17.16 horas.
+- D. 24 días con 7.716 horas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Tarda 27 días con 7.716 horas en dar una vuelta alrededor de la Tierra (traslación).>
+
+### 348
+
+En relación con el libro de Física, ¿qué origina que la traslación de la Luna dure exactamente lo mismo que su rotación?
+
+- A. Que veamos siempre un mismo lado.
+- B. Que veamos las dos caras de la Luna de manera alternada.
+- C. Que la Luna carezca de fases.
+- D. Que la Luna se aleje lentamente de la Tierra.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Y es exactamente el mismo tiempo que tarda en girar sobre su propio eje (rotación), esto origina que veamos siempre un mismo lado.>
+
+### 349
+
+De acuerdo con el libro de Física, ¿de qué consta una sonda espacial?
+
+- A. De equipo instrumental y de radiocomunicación.
+- B. De una cabina provista de atmósfera condicionada y una esclusa.
+- C. De un cohete de tres fases y tres módulos.
+- D. De un espejo especial y un rayo láser.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Una sonda espacial consta de equipo instrumental y de radiocomunicación, que permite efectuar investigaciones en el espacio interplanetario y en los astros del Sistema Solar.>
+
+### 350
+
+De conformidad con el libro de Física, ¿con qué están provistas las sondas más perfeccionadas, que se posan en la superficie de los astros?
+
+- A. Con cohetes de retropropulsión para frenar la caída.
+- B. Con paracaídas para frenar la caída.
+- C. Con escafandras espaciales para sus tripulantes.
+- D. Con magnetómetros para medir el campo magnético.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Las sondas más perfeccionadas se posan en la superficie de los astros, pues están provistas de cohetes de retropropulsión para frenar la caída.>
+
+### 351
+
+En relación con el libro de Física, ¿qué muestran las fotografías de la parte oculta de la Luna enviadas por las sondas espaciales?
+
+- A. Que esa zona es bastante parecida a la ya conocida.
+- B. Que esa zona es completamente distinta de la ya conocida.
+- C. Que esa zona carece por completo de cráteres.
+- D. Que esa zona conserva restos de humedad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Las fotografías de la parte oculta de la Luna que han sido enviadas a la Tierra por las sondas espaciales, muestran que esa zona es bastante parecida a la ya conocida.>
+
+### 352
+
+De acuerdo con el libro de Física, ¿cuál es el diámetro de la Luna?
+
+- A. 3 476 km.
+- B. 3 664 km.
+- C. 12 742.9 km.
+- D. 4 376 km.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El diámetro de la Luna es de 3 476 km.>
+
+### 353
+
+De conformidad con el libro de Física, ¿a qué porcentaje del diámetro de la Tierra equivale el de la Luna?
+
+- A. Al 27.27%.
+- B. Al 1.229%.
+- C. Al 72.27%.
+- D. Al 12.29%.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Y, comparado con el de la Tierra, que es de 12 742.9 km, equivale al 27.27% del diámetro de ésta.>
+
+### 354
+
+En relación con el libro de Física, ¿a qué porcentaje de la masa terrestre equivale la masa de la Luna?
+
+- A. Al 1.229%.
+- B. Al 27.27%.
+- C. Al 12.29%.
+- D. Al 2.129%.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Y equivale al 1.229% de la masa terrestre.>
+
+### 355
+
+De acuerdo con el libro de Física, ¿a qué distancia se encuentra la Luna de la Tierra en el perigeo?
+
+- A. A 356 500 km.
+- B. A 406 700 km.
+- C. A 365 500 km.
+- D. A 57 000 km.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<En ocasiones se encuentra más cerca de ella (perigeo) a una distancia de 356 500 km.>
+
+### 356
+
+De conformidad con el libro de Física, ¿a qué distancia se encuentra en el apogeo?
+
+- A. A 406 700 km.
+- B. A 356 500 km.
+- C. A 460 700 km.
+- D. A 306 700 km.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Y en otras más lejos (apogeo) a una distancia de 406 700 km.>
+
+### 357
+
+En relación con el libro de Física, ¿qué provoca sobre la Tierra la fuerza de gravedad de la Luna?
+
+- A. Las mareas, que son ascensos o descensos regulares de los océanos.
+- B. Las estaciones del año, por la inclinación del eje terrestre.
+- C. Los vientos solares que llegan a la superficie.
+- D. La variación de la velocidad de rotación terrestre.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La fuerza de gravedad de la Luna ejerce su efecto sobre la Tierra provocando las mareas, que son ascensos o descensos regulares de los océanos.>
+
+### 358
+
+De acuerdo con el libro de Física, ¿a qué se debe la luz de la Luna, que carece de luminosidad propia?
+
+- A. A que su superficie refleja la luz del Sol.
+- B. A que su superficie emite luz propia al calentarse.
+- C. A que refleja la luz que le envía la Tierra.
+- D. A que los meteoritos que la golpean producen destellos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La Luna carece de luminosidad propia. Su luz se debe a que su superficie refleja la luz del Sol.>
+
+### 359
+
+De conformidad con el libro de Física, ¿qué es la lunación?
+
+- A. El tiempo que transcurre entre dos lunas nuevas consecutivas.
+- B. El tiempo que transcurre entre dos lunas llenas y un cuarto creciente.
+- C. El tiempo que tarda la Luna en girar sobre su propio eje.
+- D. El tiempo que dura el día lunar.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La lunación es el tiempo que transcurre entre dos lunas nuevas consecutivas.>
+
+### 360
+
+En relación con el libro de Física, ¿cuándo se presenta la luna nueva?
+
+- A. Cuando todo el disco lunar queda en la oscuridad.
+- B. Cuando todo el disco lunar se ve completamente brillante.
+- C. Cuando se ve la mitad del disco iluminado.
+- D. Cuando se ve al satélite iluminándose en el borde del disco.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La luna nueva se presenta cuando todo el disco lunar queda en la oscuridad.>
+
+### 361
+
+De acuerdo con el libro de Física, ¿qué fase se conoce como cuarto creciente?
+
+- A. Aquella en que, siete días después de la luna nueva, se ve la mitad del disco iluminado.
+- B. Aquella en que, dos o tres días después de la luna nueva, se ve el borde del disco iluminado.
+- C. Aquella en que todo el disco se ve completamente brillante.
+- D. Aquella en que sólo la mitad del disco queda iluminada durante la segunda parte del ciclo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 162
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La iluminación sigue aumentando hasta que siete días después de la luna nueva se ve la mitad del disco iluminado, esta fase se conoce como cuarto creciente.>
+
+### 362
+
+De conformidad con el libro de Física, ¿cómo se llama la fase en que todo el disco se ve completamente brillante?
+
+- A. Luna llena.
+- B. Luna nueva.
+- C. Cuarto creciente.
+- D. Cuarto menguante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La Luna continúa su movimiento iluminándose hasta que todo el disco se ve completamente brillante, esta fase se llama luna llena.>
+
+### 363
+
+En relación con el libro de Física, ¿cuánto dura el ciclo completo de las fases de la Luna?
+
+- A. 29 días 7 horas 43 minutos 11.5 segundos.
+- B. 27 días 7 horas 43 minutos 11.5 segundos.
+- C. 29 días 17 horas 34 minutos 11.5 segundos.
+- D. 28 días 7 horas 43 minutos 11.5 segundos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Dando inicio a un nuevo ciclo, cuya duración es de 29 días 7 horas 43 minutos 11.5 segundos.>
+
+### 364
+
+De acuerdo con el libro de Física, ¿qué nombres recibe ese ciclo?
+
+- A. Revolución sinódica, lunación o mes lunar.
+- B. Revolución sideral, traslación o mes solar.
+- C. Cuarto creciente, cuarto menguante o luna llena.
+- D. Rotación lunar o periodo sinódico terrestre.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Y recibe el nombre de revolución sinódica, lunación o mes lunar.>
+
+### 365
+
+De conformidad con el libro de Física, ¿por qué carece la Luna de atmósfera?
+
+- A. Porque su fuerza de gravedad es incapaz de retener a las moléculas gaseosas.
+- B. Porque los constantes bombardeos de meteoritos la destruyeron.
+- C. Porque su superficie refleja la luz del Sol.
+- D. Porque su temperatura desciende a menos de 150 °C bajo cero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La Luna carece de atmósfera, pues su fuerza de gravedad es incapaz de retener a las moléculas gaseosas.>
+
+### 366
+
+En relación con el libro de Física, ¿qué producen en la superficie lunar los constantes bombardeos de meteoritos?
+
+- A. Cráteres, pues no encuentran ninguna resistencia.
+- B. Mareas regulares, pues no encuentran ninguna resistencia.
+- C. Una carencia total de humedad.
+- D. Un aumento de la temperatura del suelo a 120 °C.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Además de estar expuesta a los constantes bombardeos de meteoritos, mismos que al no encontrar ninguna resistencia producen cráteres en su superficie.>
+
 ---
 
-**Reactivos en este archivo:** 303
+**Reactivos en este archivo:** 366
