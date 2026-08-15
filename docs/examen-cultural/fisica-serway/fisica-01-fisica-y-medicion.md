@@ -33,9 +33,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **3–8**: la sección **1.1** completa y **1.2 · Modelado** (qué es un modelo; el modelo científico; el modelo de partícula; las **cuatro categorías de modelos** —geométrico, de simplificación, de análisis y estructural— con los cuatro modelos base partícula/sistema/cuerpo rígido/ondas; y el arranque de las **representaciones alternativas**). Tablas 1.1 a 1.4 cubiertas.
+**EN CURSO.** Escritas las páginas impresas **3–9**: las secciones **1.1** y **1.2 completas** (estándares y unidades; el modelado con sus cuatro categorías de modelos; y los tipos de representación: mental, pictórica, pictórica simplificada, gráfica, tabular y matemática). Tablas 1.1 a 1.4 cubiertas.
 
-**Pendiente:** EN CURSO. Sigue **1.2** en la **p.9** (los tipos de representaciones: mental, pictórica, gráfica, tabular, matemática) y de ahí 1.3 a 1.6, hasta la p.16.
+**Pendiente:** EN CURSO. Sigue **1.3 · Análisis dimensional** (p.10) y de ahí 1.4 a 1.6, hasta la p.16.
 
 ---
 
@@ -735,3 +735,97 @@ De acuerdo con el libro de Física, ¿qué es una representación?
 **Subtema:** representaciones · qué es una representación
 
 "Una representación es un método de visualización o representación de la información relacionada con el problema."
+
+---
+
+## Sub-lote 7 · Los tipos de representación (p.9)
+
+### 46
+
+De acuerdo con el libro de Física, ¿en qué consiste la representación pictórica de un problema?
+
+- A. En dibujar una imagen de la situación descrita en el problema con palabras
+- B. En organizar la información en forma de tabla
+- C. En plantear una o más ecuaciones que representen la situación
+- D. En trazar una gráfica de dos variables relacionadas
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 9
+**Subtema:** representaciones · representación pictórica
+
+"Representación pictórica. Dibujar una imagen de la situación descrita en el problema con palabras puede ser de gran ayuda para comprenderlo."
+
+### 47
+
+En relación con el libro de Física, ¿en cuántas dimensiones estará cualquier sistema de ejes coordenados incluido en una representación pictórica?
+
+- A. En dos dimensiones: ejes x y y
+- B. En una sola dimensión: eje x
+- C. En tres dimensiones: ejes x, y y z
+- D. En cuatro dimensiones, incluyendo el tiempo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 9
+**Subtema:** representaciones · representación pictórica
+
+"Cualquier sistema de ejes coordenados incluidos en su representación pictórica estará en dos dimensiones: ejes x y y."
+
+### 48
+
+De conformidad con el libro de Física, ¿qué gráficas menciona como de gran ayuda en mecánica y esenciales en termodinámica, respectivamente?
+
+- A. Las gráficas posición-tiempo y las gráficas presión-volumen
+- B. Las gráficas fuerza-masa y las gráficas temperatura-tiempo
+- C. Las gráficas velocidad-aceleración y las gráficas volumen-densidad
+- D. Las gráficas masa-volumen y las gráficas energía-trabajo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 9
+**Subtema:** representaciones · representación gráfica
+
+"En mecánica, por ejemplo, las gráficas posición-tiempo pueden ser de gran ayuda. Del mismo modo, en termodinámica, las gráficas presión-volumen son esenciales para entender."
+
+### 49
+
+De acuerdo con el libro de Física, ¿qué ejemplo da de una representación tabular extremadamente útil de información en química y física?
+
+- A. La tabla periódica de los elementos
+- B. La gráfica posición-tiempo
+- C. El diagrama de cuerpo libre
+- D. La ecuación de la densidad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 9
+**Subtema:** representaciones · representación tabular
+
+"La tabla periódica de los elementos es una representación tabular extremadamente útil de información en química y física."
+
+### 50
+
+En relación con el libro de Física, ¿cuál es a menudo el objetivo final al resolver un problema?
+
+- A. La representación matemática: una o más ecuaciones que representan la situación y que se pueden resolver matemáticamente para obtener el resultado deseado
+- B. La representación pictórica: una imagen de la situación
+- C. La representación mental: imaginar la escena del problema
+- D. La representación tabular: organizar la información en una tabla
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 9
+**Subtema:** representaciones · representación matemática
+
+"El objetivo final de resolver un problema es a menudo la representación matemática. […] una o más ecuaciones que representan la situación y que se pueden resolver matemáticamente para obtener el resultado deseado."
+
+### 51
+
+De conformidad con el libro de Física, ¿en qué consiste la representación pictórica simplificada?
+
+- A. En redibujar la representación pictórica sin complicar los detalles, aplicando un modelo simplificado
+- B. En trazar una gráfica de la posición en función del tiempo
+- C. En escribir las ecuaciones que resuelven el problema
+- D. En listar en una tabla las cantidades conocidas y desconocidas
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 9
+**Subtema:** representaciones · representación pictórica simplificada
+
+"Representación pictórica simplificada. A menudo es útil redibujar la representación pictórica sin complicar los detalles aplicando un modelo simplificado."
