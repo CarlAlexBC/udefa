@@ -78,7 +78,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 - Cubiertas las páginas impresas **54, 55 y 57**: los párrafos de regla que acompañan a los ejemplos —a qué ecuaciones se aplica la propiedad de factor cero y que hay que reunir los términos en un miembro antes de factorizar (p. 54); por qué se suma (b/2)² a cada miembro y qué hacer cuando el coeficiente principal no es 1 (p. 55)— y las *Ecuaciones polinomiales de grado superior* con su `COMENTARIO` (p. 57). La **p. 56** es íntegramente `EJEMPLO 8` y `EJEMPLO 9`, así que no lleva reactivos.
 
-**Pendiente:** EN CURSO. El **1.3 y el 1.4 están CERRADOS** y el **1.6 va en curso**: sigue desde la página impresa **58**, con las *Ecuaciones radicales*, las *de valor absoluto* (p. 59) y las *Fórmulas comunes* (p. 60), con lo que se cierra el subtema. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+- Cubiertas las páginas impresas **58, 59 y 60**, con las que **cierra el 1.6**: las *Ecuaciones radicales* con sus dos `COMENTARIO` (las operaciones que introducen soluciones extrañas y el caso de dos radicales), las *Ecuaciones de valor absoluto* (por qué resultan en dos ecuaciones aparte) y el recuadro *Fórmulas comunes del área A, perímetro P, circunferencia C y volumen V* con sus siete fórmulas. El `Resumen (sección 1.6)` **no lleva reactivos**, igual que los del 1.3 y el 1.4; los `EJEMPLO 12` a `EJEMPLO 15` tampoco. **Las pp. 61 y 62 son íntegramente el bloque `1.6 Ejercicios`.**
+
+**Pendiente:** EN CURSO. El **1.3, el 1.4 y el 1.6 están CERRADOS**. Sigue el **1.8 · Propiedades de los logaritmos**, que arranca en la página impresa **72**. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -3319,5 +3321,247 @@ De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cu
 **Subtema:** resolución de ecuaciones · ecuaciones polinomiales de grado superior
 
 Cuando resuelva una ecuación polinomial, escriba siempre la ecuación en forma general, factorice después el polinomio e iguale cada factor a cero. No divida cada miembro de una ecuación entre un factor variable en un intento de simplificar la ecuación.
+
+---
+
+## Sub-lote 23 · Ecuaciones radicales y de valor absoluto (1.6, pp. 58–59)
+
+### 189
+
+En relación con el libro de Matemáticas, ¿qué es una ecuación radical?
+
+- A. Una ecuación que implica una o más expresiones radicales
+- B. Una ecuación que implica una o más expresiones racionales
+- C. Una ecuación que implica una o más expresiones de valor absoluto
+- D. Una ecuación cuyo grado es mayor que dos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 58
+**Subtema:** resolución de ecuaciones · ecuación radical
+
+Una ecuación radical es una ecuación que implica una o más expresiones radicales.
+
+---
+
+### 190
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué operaciones pueden introducir soluciones extrañas?
+
+- A. Elevar al cuadrado cada miembro o elevar cada miembro a una potencia racional
+- B. Sumar o restar la misma cantidad a cada miembro
+- C. Intercambiar los dos miembros de la ecuación
+- D. Combinar los términos semejantes de cada miembro
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 58
+**Subtema:** resolución de ecuaciones · solución extraña
+
+Cuando se eleva al cuadrado cada miembro de una ecuación o se eleva cada miembro de una ecuación a una potencia racional, es posible introducir soluciones extrañas.
+
+---
+
+### 191
+
+De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué resulta crucial cuando se usan esas operaciones?
+
+- A. La comprobación de las soluciones
+- B. La factorización previa del polinomio
+- C. El uso de la fórmula cuadrática
+- D. La eliminación de los denominadores
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 58
+**Subtema:** resolución de ecuaciones · solución extraña
+
+Así, cuando use tales operaciones, la comprobación de sus soluciones es crucial.
+
+---
+
+### 192
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué ocurre cuando una ecuación contiene dos expresiones radicales?
+
+- A. Que podría no ser posible despejar ambas en el primer paso, y haya que despejarlas en dos etapas diferentes
+- B. Que siempre pueden despejarse ambas en el primer paso
+- C. Que la ecuación deja de tener solución real
+- D. Que debe resolverse por la fórmula cuadrática
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 58
+**Subtema:** resolución de ecuaciones · ecuación radical
+
+Cuando una ecuación contiene dos expresiones radicales, podría no ser posible despejar ambas en el primer paso. En tal caso, quizá usted deba despejar las expresiones radicales en dos etapas diferentes de la solución.
+
+---
+
+### 193
+
+De acuerdo con el libro de Matemáticas, ¿qué es una ecuación de valor absoluto?
+
+- A. Una ecuación que implica una o más expresiones de valor absoluto
+- B. Una ecuación que implica una o más expresiones radicales
+- C. Una ecuación cuyas soluciones son siempre positivas
+- D. Una ecuación que carece de término constante
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 59
+**Subtema:** resolución de ecuaciones · ecuación de valor absoluto
+
+Una ecuación de valor absoluto es una ecuación que implica una o más expresiones de valor absoluto.
+
+---
+
+### 194
+
+De conformidad con el libro de Matemáticas, para resolver una ecuación de valor absoluto, ¿qué debe recordarse sobre la expresión que está dentro de las barras?
+
+- A. Que puede ser positiva o negativa
+- B. Que siempre es positiva
+- C. Que siempre es negativa
+- D. Que siempre vale cero
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 59
+**Subtema:** resolución de ecuaciones · ecuación de valor absoluto
+
+Para resolver una ecuación de este tipo, recuerde que la expresión dentro de las barras de valor absoluto puede ser positiva o negativa.
+
+---
+
+### 195
+
+En relación con el libro de Matemáticas, ¿en qué resulta el hecho de que la expresión dentro de las barras pueda ser positiva o negativa?
+
+- A. En dos ecuaciones aparte, cada una de las cuales debe resolverse
+- B. En una sola ecuación con dos soluciones inmediatas
+- C. En tres ecuaciones aparte, una por cada signo posible
+- D. En una ecuación sin solución real
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 59
+**Subtema:** resolución de ecuaciones · ecuación de valor absoluto
+
+Esto resulta en dos ecuaciones aparte, cada una de las cuales debe resolverse.
+
+---
+
+## Sub-lote 24 · Fórmulas comunes — cierra el 1.6 (p. 60)
+
+### 196
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la fórmula del área de un rectángulo?
+
+- A. A = lw
+- B. A = 2l + 2w
+- C. A = lwh
+- D. A = πr²
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 60
+**Subtema:** resolución de ecuaciones · fórmulas comunes
+
+Rectángulo: A = lw.
+
+---
+
+### 197
+
+De conformidad con el libro de Matemáticas, ¿cuál es la fórmula del perímetro de un rectángulo?
+
+- A. P = 2l + 2w
+- B. P = lw
+- C. P = l + w
+- D. P = 2πr
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 60
+**Subtema:** resolución de ecuaciones · fórmulas comunes
+
+Rectángulo: P = 2l + 2w.
+
+---
+
+### 198
+
+En relación con el libro de Matemáticas, ¿cuál es la fórmula del área de un círculo?
+
+- A. A = πr²
+- B. A = 2πr
+- C. A = πr³
+- D. A = (4/3)πr²
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 60
+**Subtema:** resolución de ecuaciones · fórmulas comunes
+
+Círculo: A = πr².
+
+---
+
+### 199
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la fórmula de la circunferencia de un círculo?
+
+- A. C = 2πr
+- B. C = πr²
+- C. C = πr
+- D. C = 2l + 2w
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 60
+**Subtema:** resolución de ecuaciones · fórmulas comunes
+
+Círculo: C = 2πr.
+
+---
+
+### 200
+
+De conformidad con el libro de Matemáticas, ¿cuál es la fórmula del volumen de un rectángulo sólido?
+
+- A. V = lwh
+- B. V = lw
+- C. V = πr²h
+- D. V = (4/3)πr³
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 60
+**Subtema:** resolución de ecuaciones · fórmulas comunes
+
+Rectángulo sólido: V = lwh.
+
+---
+
+### 201
+
+En relación con el libro de Matemáticas, ¿cuál es la fórmula del volumen de un cilindro circular?
+
+- A. V = πr²h
+- B. V = πrh
+- C. V = (4/3)πr³
+- D. V = lwh
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 60
+**Subtema:** resolución de ecuaciones · fórmulas comunes
+
+Cilindro circular: V = πr²h.
+
+---
+
+### 202
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la fórmula del volumen de una esfera?
+
+- A. V = (4/3)πr³
+- B. V = (3/4)πr³
+- C. V = 4πr²
+- D. V = πr²h
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 60
+**Subtema:** resolución de ecuaciones · fórmulas comunes
+
+Esfera: V = (4/3)πr³.
 
 ---
