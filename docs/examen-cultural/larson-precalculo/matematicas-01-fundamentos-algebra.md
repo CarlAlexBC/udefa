@@ -74,7 +74,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 - Cubiertas las páginas impresas **50 y 51**, arranque del **1.6 · Resolución de ecuaciones**: qué es una ecuación y qué es resolverla, las soluciones y de qué dependen, los tres tipos de ecuación (identidad, condicional y contradicción), la *Definición de una ecuación lineal con una variable*, que ésta tiene exactamente una solución, las ecuaciones equivalentes y los cuatro pasos del recuadro *Generación de ecuaciones equivalentes*, y el `COMENTARIO` de comprobar cada solución. El `EJEMPLO 1` no lleva reactivos.
 
-**Pendiente:** EN CURSO. El **1.3 y el 1.4 están CERRADOS** y el **1.6 va en curso**: sigue desde la página impresa **52**. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+- Cubiertas las páginas impresas **52 y 53**: las *ecuaciones racionales* (multiplicar por el MCD), el `COMENTARIO` de la multiplicación cruzada, la *solución extraña*, y las *Ecuaciones cuadráticas* con el recuadro *Resolución de una ecuación cuadrática* completo (los cuatro métodos: factorización con la propiedad de factor cero, extracción de raíces cuadradas con el principio de raíz cuadrada, completación del cuadrado y fórmula cuadrática). Los `EJEMPLO 2` y `EJEMPLO 3` no llevan reactivos.
+
+**Pendiente:** EN CURSO. El **1.3 y el 1.4 están CERRADOS** y el **1.6 va en curso**: sigue desde la página impresa **54**. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -2899,5 +2901,281 @@ De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qu
 **Subtema:** resolución de ecuaciones · comprobación de soluciones
 
 Después de resolver una ecuación, usted debe comprobar cada solución en la ecuación original.
+
+---
+
+## Sub-lote 19 · Ecuaciones racionales y soluciones extrañas (1.6, p. 52)
+
+### 165
+
+En relación con el libro de Matemáticas, ¿qué implica una ecuación racional?
+
+- A. Una o más expresiones racionales
+- B. Uno o más radicales
+- C. Uno o más exponentes racionales
+- D. Uno o más valores absolutos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 52
+**Subtema:** resolución de ecuaciones · ecuación racional
+
+Una ecuación racional implica una o más expresiones racionales.
+
+---
+
+### 166
+
+De acuerdo con el libro de Matemáticas, para resolver una ecuación racional, ¿por qué cantidad se multiplica cada término?
+
+- A. Por el mínimo común denominador de todos los términos
+- B. Por el máximo común divisor de todos los términos
+- C. Por el denominador del primer término
+- D. Por el coeficiente principal de la ecuación
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 52
+**Subtema:** resolución de ecuaciones · ecuación racional
+
+Para resolver una ecuación de este tipo, multiplique cada término por el mínimo común denominador (MCD) de todos los términos.
+
+---
+
+### 167
+
+De conformidad con el libro de Matemáticas, ¿qué logra multiplicar cada término por el mínimo común denominador?
+
+- A. Deja sin fracciones a la ecuación original y produce una más simple
+- B. Elimina las soluciones extrañas de la ecuación
+- C. Convierte la ecuación en una identidad
+- D. Reduce el grado de la ecuación a uno
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 52
+**Subtema:** resolución de ecuaciones · ecuación racional
+
+Esto deja sin fracciones a la ecuación original y produce una más simple.
+
+---
+
+### 168
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué ecuación puede deshacerse de los denominadores mediante multiplicación cruzada?
+
+- A. Una ecuación con una sola fracción en cada miembro
+- B. Una ecuación con dos o más fracciones en cada miembro
+- C. Cualquier ecuación racional, sin importar cuántas fracciones tenga
+- D. Una ecuación sin fracciones en ninguno de sus miembros
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 52
+**Subtema:** resolución de ecuaciones · multiplicación cruzada
+
+Una ecuación con una sola fracción en cada miembro puede deshacerse de los denominadores mediante multiplicación cruzada.
+
+---
+
+### 169
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo se hace la multiplicación cruzada?
+
+- A. Multiplicando el numerador izquierdo por el denominador derecho y el numerador derecho por el denominador izquierdo
+- B. Multiplicando los dos numeradores entre sí y los dos denominadores entre sí
+- C. Multiplicando cada numerador por su propio denominador
+- D. Multiplicando los dos miembros por el numerador izquierdo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 52
+**Subtema:** resolución de ecuaciones · multiplicación cruzada
+
+Para hacer esto, multiplique el numerador izquierdo por el denominador derecho y el numerador derecho por el denominador izquierdo.
+
+---
+
+### 170
+
+De conformidad con el libro de Matemáticas, ¿cuándo es posible introducir una solución extraña?
+
+- A. Cuando se multiplica o divide una ecuación por una expresión variable
+- B. Cuando se suma o resta la misma cantidad a cada miembro
+- C. Cuando se intercambian los dos miembros de la ecuación
+- D. Cuando se combinan los términos semejantes
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 52
+**Subtema:** resolución de ecuaciones · solución extraña
+
+Cuando se multiplica o divide una ecuación por (entre) una expresión variable, es posible introducir una solución extraña.
+
+---
+
+### 171
+
+En relación con el libro de Matemáticas, ¿qué es una solución extraña?
+
+- A. Una solución que no satisface la ecuación original
+- B. Una solución que satisface la ecuación original más de una vez
+- C. Una solución que no es un número real
+- D. Una solución que hace cero al coeficiente principal
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 52
+**Subtema:** resolución de ecuaciones · solución extraña
+
+Una solución extraña es una solución que no satisface la ecuación original.
+
+---
+
+## Sub-lote 20 · Ecuaciones cuadráticas y sus cuatro métodos (1.6, p. 53)
+
+### 172
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la forma general de una ecuación cuadrática con x?
+
+- A. ax² + bx + c = 0
+- B. ax + b = 0
+- C. ax³ + bx² + cx = 0
+- D. ax² + bx = c
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 53
+**Subtema:** resolución de ecuaciones · ecuación cuadrática
+
+Una ecuación cuadrática con x es una ecuación que puede escribirse en la forma general: ax² + bx + c = 0.
+
+---
+
+### 173
+
+De conformidad con el libro de Matemáticas, en la forma general de una ecuación cuadrática, ¿qué deben cumplir a, b y c?
+
+- A. Ser números reales con a distinto de cero
+- B. Ser números reales con c distinto de cero
+- C. Ser números enteros con a distinto de cero
+- D. Ser números reales cualesquiera
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 53
+**Subtema:** resolución de ecuaciones · ecuación cuadrática
+
+Donde a, b y c son números reales con a ≠ 0.
+
+---
+
+### 174
+
+En relación con el libro de Matemáticas, ¿cómo se llama también una ecuación cuadrática con x?
+
+- A. Ecuación polinomial de segundo grado con x
+- B. Ecuación polinomial de tercer grado con x
+- C. Ecuación lineal de segundo orden con x
+- D. Ecuación racional de segundo grado con x
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 53
+**Subtema:** resolución de ecuaciones · ecuación cuadrática
+
+Una ecuación cuadrática con x también se llama ecuación polinomial de segundo grado con x.
+
+---
+
+### 175
+
+De acuerdo con el libro de Matemáticas, ¿cuántos métodos de resolución de ecuaciones cuadráticas enlista el libro?
+
+- A. Cuatro
+- B. Dos
+- C. Tres
+- D. Cinco
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 53
+**Subtema:** resolución de ecuaciones · métodos de resolución
+
+Usted debería familiarizarse con los cuatro métodos de resolución de ecuaciones cuadráticas que se enlistan en seguida.
+
+---
+
+### 176
+
+De conformidad con el libro de Matemáticas, ¿cómo se llama la propiedad que afirma que si ab = 0, entonces a = 0 o b = 0?
+
+- A. Propiedad de factor cero
+- B. Principio de raíz cuadrada
+- C. Propiedad distributiva
+- D. Propiedad de la igualdad
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 53
+**Subtema:** resolución de ecuaciones · factorización
+
+Factorización: Si ab = 0, entonces a = 0 o b = 0. Propiedad de factor cero.
+
+---
+
+### 177
+
+En relación con el libro de Matemáticas, ¿qué establece el principio de raíz cuadrada?
+
+- A. Que si u² = c, donde c > 0, entonces u = ±√c
+- B. Que si u² = c, donde c > 0, entonces u = √c únicamente
+- C. Que si u² = c, para cualquier c, entonces u = ±√c
+- D. Que si u = √c, entonces u² = ±c
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 53
+**Subtema:** resolución de ecuaciones · extracción de raíces cuadradas
+
+Extracción de raíces cuadradas: Si u² = c, donde c > 0, entonces u = ±√c. Principio de raíz cuadrada.
+
+---
+
+### 178
+
+De acuerdo con el libro de Matemáticas, al completar el cuadrado en la ecuación x² + bx = c, ¿qué cantidad se suma a cada miembro?
+
+- A. (b/2)²
+- B. (b/2)
+- C. (b²/2)
+- D. (2b)²
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 53
+**Subtema:** resolución de ecuaciones · completación del cuadrado
+
+Completación del cuadrado: Si x² + bx = c, entonces x² + bx + (b/2)² = c + (b/2)². Sume (b/2)² a cada miembro.
+
+---
+
+### 179
+
+De conformidad con el libro de Matemáticas, ¿cuál es la fórmula cuadrática?
+
+- A. x = (−b ± √(b² − 4ac)) / 2a
+- B. x = (−b ± √(b² + 4ac)) / 2a
+- C. x = (b ± √(b² − 4ac)) / 2a
+- D. x = (−b ± √(b² − 4ac)) / 2c
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 53
+**Subtema:** resolución de ecuaciones · fórmula cuadrática
+
+Fórmula cuadrática: Si ax² + bx + c = 0, entonces x = (−b ± √(b² − 4ac)) / 2a.
+
+---
+
+### 180
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿con qué dos métodos es posible resolver todas las ecuaciones cuadráticas?
+
+- A. Completando el cuadrado o usando la fórmula cuadrática
+- B. Por factorización o por extracción de raíces cuadradas
+- C. Por factorización o completando el cuadrado
+- D. Por extracción de raíces cuadradas o usando la fórmula cuadrática
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 53
+**Subtema:** resolución de ecuaciones · métodos de resolución
+
+Es posible resolver todas las ecuaciones cuadráticas completando el cuadrado o usando la fórmula cuadrática.
 
 ---
