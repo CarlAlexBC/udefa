@@ -41,6 +41,7 @@ Mismo criterio que dejó anotado la Unidad II para las zonas térmicas y las est
 
 ## Datos del libro que conviene revisar (para decisión de Carlo)
 
+- **p.89 — el desarrollo de las siglas GMT.** El libro escribe: "GMT (Greenwich **Meridian** Time, «Tiempo del Meridiano de Greenwich»)". Lo aceptado internacionalmente es *Greenwich **Mean** Time* («Tiempo **Medio** de Greenwich»): la sigla nombra la hora **media** solar del meridiano, no el meridiano mismo. Verificado con `crop.py` a 600 dpi: dice "Meridian", no es suciedad del escaneo. **El reactivo 162 pregunta sólo las siglas**, que son el dato firme, y deja fuera el desarrollo — mismo criterio que la Unidad II usó con la etimología de "semana". Queda anotado por si Carlo decide publicarlo como aviso al aspirante.
 - **p.78 — se repite la discrepancia del año trópico.** El inciso b) vuelve a escribir la traslación como "**365.2564 días** (365 días, 5 horas, 48 minutos y 46 segundos)", la misma mezcla ya documentada en la Unidad II (p.69): el desglose de horas equivale a **365.2422** días (el año trópico), mientras que **365.2564** es el año **sidéreo**. Es la tercera vez que el libro imprime esa combinación. **No se le escribe reactivo aquí**, porque el dato ya está trabajado en la Unidad II y porque sigue pendiente la decisión de Carlo sobre publicarlo como aviso al aspirante.
 
 ## Criterio de este capítulo
@@ -62,8 +63,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **86**: el arranque del **3.2.2 Las estaciones del año** — la **causa y alternancia** (el eje de rotación que no es perpendicular a la eclíptica sino que forma 23°27' con ella, el desplazamiento aparente del Sol entre los 23°27' de cada hemisferio a razón de **1° cada 4 días**, la excentricidad de la órbita como causa de la desigual duración, y los primeros días de enero con la Tierra cerca del Sol, el invierno boreal más corto y el promedio de temperatura ligeramente superior del Hemisferio Boreal); el arranque del **proceso de las estaciones** en el Hemisferio Boreal (la **primavera** del 21 de marzo al 21 de junio, con el Sol cruzando el Ecuador y llegando después al Trópico de Cáncer, y el **verano** como estación más larga, que termina con el equinoccio de otoño del 23 de septiembre); y el **Cuadro 3.1** (la alternancia entre hemisferios y las cuatro duraciones). El **otoño** y el **invierno** quedan para la p.87. La Figura 3.12 es ilustración. **Las cuatro duraciones del Cuadro 3.1 se verificaron con `crop.py` a 600 dpi** antes de fijarlas: 92 días 21 horas, 93 días 14 horas, 89 días 19 horas y 89 días.
 - Cubierta la página impresa **87**: el cierre del **3.2.2** — el **otoño** (del equinoccio de otoño al solsticio de invierno del 22 de diciembre, con el Sol llegando al Trópico de Capricornio) y el **invierno** (la más corta del Hemisferio Boreal, que termina con el equinoccio de primavera del 21 de marzo, cuando el Sol llega al Ecuador y comienza un nuevo año solar); y el apartado **"Causas de las variaciones estacionales de luz y calor"** completo (las dos causas: la inclinación de los rayos solares —casi verticales en primavera y verano, inclinados en otoño e invierno— y la diferente duración del día y la noche, con la diferencia mínima en las regiones ecuatoriales, de varias horas en las intermedias y de **6 meses de luz y 6 de obscuridad casi total** en los polos; más el inciso b), donde el acercamiento o alejamiento al Sol —**apenas el 3.34%** de su distancia media— casi no influye). **Con esto queda cerrado el 3.2.2 Las estaciones del año.** **El 3.34% y las fechas del 1 al 3 de enero y del 1 al 4 de julio se verificaron con `crop.py` a 600 dpi.** **La mitad inferior de la página es un bloque de ejercicios** ("Resuelve ahora las siguientes cuestiones", con la relación de columnas y la ilustración de las cuatro estaciones) y no lleva reactivos por norma.
 - Cubierta la página impresa **88**: el arranque del **3.2.3 Los husos horarios** — la división de la circunferencia en 360° por los sumerios y los **15° de longitud** que corresponden a cada hora; el **origen del nombre** (los husos de las ruecas para hilar) y el conjunto con aspecto de naranja donde cada huso es un «gajo»; la **definición** del recuadro (las 24 secciones de 15° de longitud en que se dividió la superficie terrestre para la medición de las horas); el trazado de polo a polo siguiendo la longitud y delimitado por meridianos; el **huso horario 0** (referencia de los otros 23, con el Meridiano de Greenwich en el centro, de **7.5° de longitud oeste a 7.5° de longitud este**); el **huso XII** como diametralmente opuesto; y la **Figura 3.13** (husos sin modificación, horas legales). **La mitad superior de la página es el espacio en blanco del ejercicio de la p.87** (los recuadros de Otoño e Invierno) y no lleva reactivos. **Los 7.5°, "los otros 23" y el huso XII se verificaron con `crop.py` a 600 dpi.** **Dos datos de esta página NO llevan reactivo por estar ya preguntados:** que los sumerios dividieron el día en 24 horas hace más de 5,000 años (lo pregunta la **Unidad II** desde la p.68, reactivo 50) y el año **1884**, que ya tiene reactivo en este mismo archivo desde la p.81. La frase sobre el Antimeridiano en el centro del huso XII **queda cortada al pie de la página** y se trabaja entera en la p.89.
+- Cubierta la página impresa **89**: el cierre de la frase del **huso XII** (el Antimeridiano o Meridiano de 180°, que abarca de **172.5° este a 172.5° oeste**); el reparto de **los otros 22** husos (11 al este y 11 al oeste) y su designación con **números romanos** a partir del huso 0; la **hora legal** (su referencia en el huso horario 0, designada con las letras **GMT**); el sentido de avance de las horas legales (de oeste a este) con el ejemplo de las 12 horas del huso 0; el adelanto de las horas de Asia sobre Europa y de éstas sobre América y el cambio continuo por la rotación; la **Línea Internacional del Tiempo o Línea del Cambio de Fecha** (trazada por el Pacífico siguiendo el Antimeridiano, desviada para no tocar tierra, con el adelanto de un día al cruzarla de este a oeste y el retraso al cruzarla de oeste a este); y los **problemas prácticos** de adoptarlas sin modificación, con el ejemplo de **Tuxpan de Rodríguez Cano y Álamo**, a 31.5 km y en husos distintos (VI y VII oeste). **El 172.5°, el 31.5 km y los husos VI y VII oeste se verificaron con `crop.py` a 600 dpi.** La Figura 3.14 (distribución de los husos horarios) es ilustración. **El desarrollo de las siglas GMT quedó fuera del reactivo 162** y anotado en "Datos del libro que conviene revisar".
 
-**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2**, del que ya están cerrados el **3.2.1 Las zonas térmicas** (pp. 84–85) y el **3.2.2 Las estaciones del año** (pp. 86–87), y está **en curso el 3.2.3 Los husos horarios** (cubierta la p.88): sigue desde la **p.89** con el resto de los husos horarios. Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
+**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2**, del que ya están cerrados el **3.2.1 Las zonas térmicas** (pp. 84–85) y el **3.2.2 Las estaciones del año** (pp. 86–87), y está **en curso el 3.2.3 Los husos horarios** (cubiertas las pp. 88–89): sigue desde la **p.90** con el resto del 3.2.3. Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
 
 ---
 
@@ -2485,4 +2487,276 @@ En relación con el libro de Geografía, ¿qué representa la Figura 3.13?
 **Subtema:** husos horarios · Figura 3.13
 
 "Figura 3.13 Sistema de husos horarios sin modificación (horas legales)."
+
+### 157
+
+De acuerdo con el libro de Geografía, ¿qué extensión abarca el huso horario XII?
+
+- A. De 172.5° de longitud este a 172.5° de longitud oeste
+- B. De 180° de longitud este a 180° de longitud oeste
+- C. De 7.5° de longitud este a 7.5° de longitud oeste
+- D. De 165° de longitud este a 165° de longitud oeste
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · extensión del huso XII
+
+El huso XII tiene en su centro al Antimeridiano de "Greenwich o Meridiano de 180°, que abarca de 172.5° de longitud este a 172.5° de longitud oeste."
+
+### 158
+
+De conformidad con el libro de Geografía, ¿cuántos husos horarios se encuentran entre los citados y cómo se reparten?
+
+- A. Los otros 22, correspondiendo 11 a la longitud este y 11 a la longitud oeste
+- B. Los otros 23, correspondiendo 12 a la longitud este y 11 a la longitud oeste
+- C. Los otros 24, correspondiendo 12 a la longitud este y 12 a la longitud oeste
+- D. Los otros 22, correspondiendo 12 a la longitud este y 10 a la longitud oeste
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · reparto de los husos restantes
+
+"Entre los husos horarios citados se encuentran los otros 22, correspondiendo 11 a la longitud este y 11 a la longitud oeste."
+
+### 159
+
+En relación con el libro de Geografía, ¿cómo se designan esos husos horarios?
+
+- A. Con números romanos, comenzando la cuenta a partir del huso horario 0 e indicando su correspondiente posición
+- B. Con números arábigos, comenzando la cuenta a partir del huso horario XII
+- C. Con letras mayúsculas, comenzando la cuenta a partir del Meridiano de Greenwich
+- D. Con números romanos, comenzando la cuenta a partir del Antimeridiano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · designación
+
+"Para designarlos se usan números romanos, comenzando la cuenta a partir del huso horario 0 e indicando su correspondiente posición. De ese modo tenemos huso horario I este, I oeste, II este, etc."
+
+### 160
+
+De acuerdo con el libro de Geografía, ¿cómo se llama la fracción que corresponde a cada huso?
+
+- A. Hora legal
+- B. Hora solar
+- C. Hora media
+- D. Hora del centro
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · hora legal
+
+"A cada huso le corresponde una fracción llamada hora legal."
+
+### 161
+
+De conformidad con el libro de Geografía, ¿por qué está dada la referencia de la hora legal?
+
+- A. Por la hora del huso horario 0
+- B. Por la hora del huso horario XII
+- C. Por la hora del Antimeridiano
+- D. Por la hora del huso horario I este
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · referencia de la hora legal
+
+"La referencia está dada por la hora del huso horario 0."
+
+### 162
+
+En relación con el libro de Geografía, ¿con qué letras suele designarse la hora del huso horario 0?
+
+- A. GMT
+- B. GTM
+- C. TMG
+- D. MGT
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · GMT
+
+"La hora del huso horario 0, que suele designarse con las letras GMT [...]"
+
+> Nota de revisor: el reactivo pregunta **sólo las siglas**, que son el dato firme. El desarrollo que el libro da a continuación —"Greenwich Meridian Time"— queda fuera a propósito: lo aceptado internacionalmente es *Greenwich **Mean** Time*. Ver "Datos del libro que conviene revisar" en el encabezado.
+
+### 163
+
+De acuerdo con el libro de Geografía, ¿cómo avanzan las horas legales?
+
+- A. Avanzan de oeste a este y retroceden en sentido contrario
+- B. Avanzan de este a oeste y retroceden en sentido contrario
+- C. Avanzan de norte a sur y retroceden en sentido contrario
+- D. Avanzan en ambos sentidos a partir del Meridiano de Greenwich
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · sentido de avance
+
+"Las horas legales avanzan de oeste a este y retroceden en sentido contrario."
+
+### 164
+
+De conformidad con el libro de Geografía, si en el huso horario 0 son las 12 horas, ¿qué hora es en el I este y en el II este?
+
+- A. Las 13 y las 14, respectivamente
+- B. Las 11 y las 10, respectivamente
+- C. Las 14 y las 16, respectivamente
+- D. Las 12 y las 13, respectivamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · horas hacia el este
+
+"Así, mientras en el huso horario 0 son las 12 horas, en el I este son las 13, en el II este las 14, etc."
+
+### 165
+
+En relación con el libro de Geografía, en ese mismo momento, ¿qué hora es en el huso horario I oeste y en el II oeste?
+
+- A. Las 11 y las 10, respectivamente
+- B. Las 13 y las 14, respectivamente
+- C. Las 10 y las 8, respectivamente
+- D. Las 12 y las 11, respectivamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · horas hacia el oeste
+
+"Por lo contrario, en el huso horario I oeste son las 11 horas, en el II oeste las 10, y así sucesivamente."
+
+### 166
+
+De acuerdo con el libro de Geografía, ¿cómo están las horas de Asia, Europa y América entre sí?
+
+- A. Las de Asia están adelantadas en relación con las de Europa, y éstas en relación con las de América
+- B. Las de América están adelantadas en relación con las de Europa, y éstas en relación con las de Asia
+- C. Las de Europa están adelantadas en relación con las de Asia, y éstas en relación con las de América
+- D. Las tres coinciden, porque comparten el mismo huso horario
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · Asia, Europa y América
+
+"Por la razón anterior, las horas de Asia están adelantadas en relación con las de Europa, y éstas en relación con las de América."
+
+### 167
+
+De conformidad con el libro de Geografía, ¿por qué las horas no permanecen invariables en cada huso horario?
+
+- A. Debido al movimiento de rotación terrestre, por lo cual están cambiando continuamente
+- B. Debido al movimiento de traslación terrestre, por lo cual cambian con las estaciones
+- C. Debido a la inclinación del eje terrestre, por lo cual cambian con la latitud
+- D. Debido a las modificaciones que cada país introduce en su hora legal
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · variación continua de la hora
+
+"Debido al movimiento de rotación terrestre, las horas no permanecen invariables en cada huso horario, sino que están cambiando continuamente."
+
+### 168
+
+En relación con el libro de Geografía, ¿dónde se ha trazado la línea que separa las horas de un día y otro?
+
+- A. A través del Océano Pacífico, siguiendo en su mayor parte al Antimeridiano de Greenwich
+- B. A través del Océano Atlántico, siguiendo en su mayor parte al Meridiano de Greenwich
+- C. A través del Océano Pacífico, siguiendo exactamente al Ecuador
+- D. A través del Océano Índico, siguiendo en su mayor parte al Meridiano de 180°
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · trazado de la línea
+
+"Para separar las horas de un día y otro, se ha trazado a través del Océano Pacífico una línea que en su mayor parte sigue al Antimeridiano de Greenwich."
+
+### 169
+
+De acuerdo con el libro de Geografía, ¿por qué esa línea se desvía en algunos puntos?
+
+- A. Para no tocar tierra, pues se buscó que sólo pasara por mar
+- B. Para seguir con exactitud el Antimeridiano de Greenwich
+- C. Para respetar los límites de los husos horarios
+- D. Para evitar las zonas de mayor tráfico de barcos y aviones
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · desviaciones de la línea
+
+"Desviándose en algunos puntos para no tocar tierra, pues se buscó que sólo pasara por mar."
+
+### 170
+
+De conformidad con el libro de Geografía, ¿cómo ha sido llamada esa línea?
+
+- A. Línea Internacional del Tiempo o Línea del Cambio de Fecha
+- B. Línea Internacional del Meridiano o Línea del Cambio de Hora
+- C. Línea Internacional de Greenwich o Línea del Cambio Horario
+- D. Línea Internacional del Pacífico o Línea del Cambio de Día
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · Línea Internacional del Tiempo
+
+"Ha sido llamada Línea Internacional del Tiempo o Línea del Cambio de Fecha."
+
+### 171
+
+En relación con el libro de Geografía, los barcos y aviones que cruzan esa línea yendo de este a oeste, ¿qué deben hacer?
+
+- A. Adelantar un día a su calendario
+- B. Retrasar un día su calendario
+- C. Adelantar una hora a su reloj
+- D. Retrasar una hora su reloj
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · cruce de este a oeste
+
+"Los barcos y aviones que la cruzan yendo de este a oeste (por ejemplo, de Estados Unidos de América a Japón), deben adelantar un día a su calendario."
+
+### 172
+
+De acuerdo con el libro de Geografía, ¿y los que la cruzan de oeste a este?
+
+- A. Deben retrasar un día su calendario
+- B. Deben adelantar un día a su calendario
+- C. Deben retrasar una hora su reloj
+- D. No deben modificar su calendario
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · cruce de oeste a este
+
+"Por lo contrario, los que la cruzan de oeste a este, deben retrasarlo un día."
+
+### 173
+
+De conformidad con el libro de Geografía, ¿qué ocasionaría la adopción de las horas legales sin modificación alguna?
+
+- A. Graves problemas de tipo práctico, pues incontables ciudades y pueblos, separados sólo por algunos kilómetros, tendrían horas diferentes
+- B. Graves problemas de tipo práctico, pues países enteros quedarían sin hora legal asignada
+- C. Que las horas de Asia, Europa y América coincidieran
+- D. Que la Línea Internacional del Tiempo tuviera que trazarse de nuevo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · problemas prácticos
+
+"Su adopción sin modificación alguna ocasionaría graves problemas de tipo práctico, pues incontables ciudades y pueblos, separados sólo por algunos kilómetros, tendrían horas diferentes."
+
+### 174
+
+En relación con el libro de Geografía, en el ejemplo de Tuxpan de Rodríguez Cano y Álamo, ¿a qué distancia se encuentran y en qué husos horarios se localizan?
+
+- A. A 31.5 km en línea recta; la primera en el huso horario VI oeste y la segunda en el VII oeste
+- B. A 31.5 km en línea recta; la primera en el huso horario VII oeste y la segunda en el VI oeste
+- C. A 13.5 km en línea recta; la primera en el huso horario VI oeste y la segunda en el VII oeste
+- D. A 315 km en línea recta; la primera en el huso horario VI este y la segunda en el VII este
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 89
+**Subtema:** husos horarios · Tuxpan y Álamo
+
+"Así sucedería, por ejemplo, con las ciudades de Tuxpan de Rodríguez Cano y Álamo (municipio de Temapache), que en línea recta se encuentran a 31.5 km, pues mientras la primera se localiza en el huso horario VI oeste, la segunda se localiza en el VII oeste."
 
