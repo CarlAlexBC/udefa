@@ -4270,7 +4270,7 @@ El dominio de una función logarítmica generalmente no incluye todos los númer
 
 ### 243
 
-De conformidad con el libro de Matemáticas, ¿qué es una solución de un sistema de ecuaciones?
+En relación con el libro de Matemáticas, ¿qué es una solución de un sistema de ecuaciones?
 
 - A. Un par ordenado que satisface cada ecuación del sistema
 - B. Un par ordenado que satisface al menos una ecuación del sistema
@@ -4287,7 +4287,7 @@ Una solución de este sistema es un par ordenado que satisface cada ecuación de
 
 ### 244
 
-En relación con el libro de Matemáticas, ¿cómo se llama determinar el conjunto de todas las soluciones de un sistema?
+De acuerdo con el libro de Matemáticas, ¿cómo se llama determinar el conjunto de todas las soluciones de un sistema?
 
 - A. Resolver el sistema de ecuaciones
 - B. Comprobar el sistema de ecuaciones
@@ -4304,7 +4304,7 @@ Determinar el conjunto de todas las soluciones se llama resolver el sistema de e
 
 ### 245
 
-De acuerdo con el libro de Matemáticas, ¿cuál es el primer paso del método de sustitución?
+De conformidad con el libro de Matemáticas, ¿cuál es el primer paso del método de sustitución?
 
 - A. Despejar en una de las ecuaciones una variable en términos de la otra
 - B. Sustituir la expresión hallada en la otra ecuación
@@ -4321,7 +4321,7 @@ De acuerdo con el libro de Matemáticas, ¿cuál es el primer paso del método d
 
 ### 246
 
-De conformidad con el libro de Matemáticas, ¿cuál es el segundo paso del método de sustitución?
+En relación con el libro de Matemáticas, ¿cuál es el segundo paso del método de sustitución?
 
 - A. Sustituir la expresión hallada en el paso 1 en la otra ecuación, para obtener una ecuación de una variable
 - B. Sustituir la expresión hallada en el paso 1 en la misma ecuación de la que se despejó
@@ -4338,7 +4338,7 @@ De conformidad con el libro de Matemáticas, ¿cuál es el segundo paso del mét
 
 ### 247
 
-En relación con el libro de Matemáticas, ¿cuál es el tercer paso del método de sustitución?
+De acuerdo con el libro de Matemáticas, ¿cuál es el tercer paso del método de sustitución?
 
 - A. Resolver la ecuación obtenida en el paso 2
 - B. Despejar la segunda variable
@@ -4355,7 +4355,7 @@ En relación con el libro de Matemáticas, ¿cuál es el tercer paso del método
 
 ### 248
 
-De acuerdo con el libro de Matemáticas, ¿cuál es el cuarto paso del método de sustitución?
+De conformidad con el libro de Matemáticas, ¿cuál es el cuarto paso del método de sustitución?
 
 - A. Sustituir hacia atrás el valor obtenido en el paso 3 en la expresión obtenida en el paso 1, para determinar el valor de la otra variable
 - B. Sustituir hacia atrás el valor obtenido en el paso 3 en la ecuación obtenida en el paso 2
@@ -4372,7 +4372,7 @@ De acuerdo con el libro de Matemáticas, ¿cuál es el cuarto paso del método d
 
 ### 249
 
-De conformidad con el libro de Matemáticas, ¿cuál es el quinto paso del método de sustitución?
+En relación con el libro de Matemáticas, ¿cuál es el quinto paso del método de sustitución?
 
 - A. Comprobar que la solución satisface cada una de las ecuaciones originales
 - B. Comprobar que la solución satisface al menos una de las ecuaciones originales
@@ -4389,7 +4389,7 @@ De conformidad con el libro de Matemáticas, ¿cuál es el quinto paso del méto
 
 ### 250
 
-En relación con el libro de Matemáticas, ¿qué implica el término sustitución hacia atrás?
+De acuerdo con el libro de Matemáticas, ¿qué implica el término sustitución hacia atrás?
 
 - A. Trabajar hacia atrás: despejar primero una de las variables y después sustituir ese valor en una de las ecuaciones del sistema para determinar la otra
 - B. Resolver el sistema empezando por la segunda ecuación
@@ -4406,7 +4406,7 @@ El término sustitución hacia atrás implica que trabaje hacia atrás. Primero 
 
 ### 251
 
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo debe comprobarse siempre la solución de un sistema?
+De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo debe comprobarse siempre la solución de un sistema?
 
 - A. Sustituyéndola en cada ecuación del sistema original
 - B. Sustituyéndola en la primera ecuación del sistema original
