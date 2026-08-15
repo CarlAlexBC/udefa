@@ -92,7 +92,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 - Cubiertas las páginas impresas **91 a 94**, con las que **cierra el 1.10**: la fórmula del interés simple (I = Prt, con r en decimales), que el método de sustitución también sirve con ecuaciones no lineales, cuántas soluciones puede tener un sistema de dos ecuaciones con dos variables, el método gráfico (las soluciones son los puntos de intersección) y el *punto de equilibrio* (sus dos componentes de costo, cuándo se alcanza y a qué punto corresponde). La **p. 95 no lleva reactivos** (`EJEMPLO 7` de taquilla y el `Resumen`), y las **pp. 96–98 son el bloque `1.10 Ejercicios`**. Los recuadros `TECNOLOGÍA` quedan fuera por norma.
 
-**Pendiente:** EN CURSO. El **1.3, el 1.4, el 1.6, el 1.8, el 1.9 y el 1.10 están CERRADOS**. Sólo falta el **1.11 · Sistemas lineales de dos variables**, que arranca en la página impresa **99** y cuya teoría llega hasta la **p. 106** (las pp. 107–110 son el bloque de `Ejercicios`); con él se cierra el **capítulo 1** y este archivo. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+- Cubiertas las páginas impresas **99 a 106**, con las que **cierra el 1.11 y con él todo el capítulo 1**: el *Método de eliminación* (su paso clave y sus cinco pasos), los *sistemas equivalentes* y las tres operaciones que los producen, la *Interpretación gráfica de soluciones* (el recuadro de los tres casos con sus rectas y pendientes), los sistemas *consistentes* e *inconsistentes*, qué indican los enunciados 0 = 7 y 0 = 0 al aplicar la eliminación, las dos consideraciones para modelar con un sistema lineal, y la demanda y la oferta con el *punto de equilibrio* del mercado. Las **pp. 102, 105 y 106 sólo aportaron sus párrafos de teoría**: sus ejemplos (coeficientes decimales, el avión y el viento, las televisiones) no llevan reactivos, ni el `TECNOLOGÍA` ni el `Resumen (sección 1.11)`. **Las pp. 107–110 son íntegramente el bloque `1.11 Ejercicios`.**
+
+**Pendiente:** ninguno; el **capítulo 1 está CERRADO** en **284 reactivos**, con los siete subtemas que pide el temario `MATE-03-2026`: **1.3** (Exponentes y radicales), **1.4** (Polinomios y factorización), **1.6** (Resolución de ecuaciones), **1.8** (Propiedades de los logaritmos), **1.9** (Ecuaciones exponenciales y logarítmicas), **1.10** (Sistemas de ecuaciones lineales y no lineales) y **1.11** (Sistemas lineales de dos variables). **Matemáticas (Larson) NO está cerrada:** faltan los otros dos capítulos que pide el temario, cada uno en su propio archivo — el **capítulo 2 · Fundamentos de trigonometría** (sólo 2.6, 2.9, 2.10, 2.15 y 2.16) y el **capítulo 3 · Fundamentos de geometría analítica**, completo (§3.1–§3.6, pp. 271–328). La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -4575,5 +4577,419 @@ De conformidad con el libro de Matemáticas, ¿a qué corresponde el punto de eq
 **Subtema:** sistemas de ecuaciones · punto de equilibrio
 
 El punto de equilibrio corresponde al punto de intersección de las curvas de costo e ingreso.
+
+---
+
+## Sub-lote 32 · Método de eliminación y sistemas equivalentes (1.11, pp. 99–101)
+
+### 261
+
+En relación con el libro de Matemáticas, ¿qué dos métodos para resolver un sistema se estudiaron antes y cuál se estudia en esta sección?
+
+- A. Antes, sustitución y graficación; ahora, el método de eliminación
+- B. Antes, eliminación y graficación; ahora, el método de sustitución
+- C. Antes, sustitución y eliminación; ahora, el método gráfico
+- D. Antes, graficación y factorización; ahora, el método de sustitución
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 99
+**Subtema:** sistemas lineales de dos variables · método de eliminación
+
+En la sección 1.10 estudió dos métodos para resolver un sistema de ecuaciones: sustitución y graficación. Ahora estudiará el método de eliminación.
+
+---
+
+### 262
+
+De acuerdo con el libro de Matemáticas, ¿cuál es el paso clave del método de eliminación?
+
+- A. Obtener, para una de las variables, coeficientes que difieran sólo en signo, para que la adición de las ecuaciones elimine esa variable
+- B. Obtener, para una de las variables, coeficientes iguales, para que la resta de las ecuaciones elimine esa variable
+- C. Despejar una variable en términos de la otra en la primera ecuación
+- D. Trazar las dos ecuaciones en el mismo plano de coordenadas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 99
+**Subtema:** sistemas lineales de dos variables · método de eliminación
+
+El paso clave de este método es obtener, para una de las variables, coeficientes que difieran sólo en signo para que la adición de las ecuaciones elimine la variable.
+
+---
+
+### 263
+
+De conformidad con el libro de Matemáticas, ¿cuál es el primer paso del método de eliminación?
+
+- A. Obtener coeficientes de x (o y) que difieran sólo en signo, multiplicando todos los términos de una o las dos ecuaciones por constantes adecuadamente elegidas
+- B. Sumar las ecuaciones para eliminar una de las variables
+- C. Despejar una variable en términos de la otra
+- D. Comprobar que la solución satisface las ecuaciones originales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 100
+**Subtema:** sistemas lineales de dos variables · método de eliminación
+
+1. Obtenga coeficientes de x (o y) que difieran sólo en signo, multiplicando todos los términos de una o las dos ecuaciones, por constantes adecuadamente elegidas.
+
+---
+
+### 264
+
+En relación con el libro de Matemáticas, ¿cuál es el segundo paso del método de eliminación?
+
+- A. Sumar las ecuaciones para eliminar una de las variables
+- B. Restar las ecuaciones para eliminar una de las variables
+- C. Multiplicar las dos ecuaciones entre sí
+- D. Trazar las dos ecuaciones en el mismo plano
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 100
+**Subtema:** sistemas lineales de dos variables · método de eliminación
+
+2. Sume las ecuaciones para eliminar una de las variables.
+
+---
+
+### 265
+
+De acuerdo con el libro de Matemáticas, ¿cuál es el tercer paso del método de eliminación?
+
+- A. Resolver la ecuación obtenida en el paso 2
+- B. Comprobar la solución en las ecuaciones originales
+- C. Sustituir hacia atrás el valor obtenido
+- D. Volver a multiplicar las ecuaciones por constantes
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 100
+**Subtema:** sistemas lineales de dos variables · método de eliminación
+
+3. Resuelva la ecuación obtenida en el paso 2.
+
+---
+
+### 266
+
+De conformidad con el libro de Matemáticas, ¿cuál es el cuarto paso del método de eliminación?
+
+- A. Sustituir hacia atrás el valor obtenido en el paso 3 en cualquiera de las ecuaciones originales y despejar la otra variable
+- B. Sustituir hacia atrás el valor obtenido en el paso 3 en la ecuación obtenida en el paso 2
+- C. Sumar de nuevo las dos ecuaciones originales
+- D. Comprobar que la solución satisface las ecuaciones originales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 100
+**Subtema:** sistemas lineales de dos variables · método de eliminación
+
+4. Sustituya hacia atrás el valor obtenido en el paso 3 en cualquiera de las ecuaciones originales y despeje la otra variable.
+
+---
+
+### 267
+
+En relación con el libro de Matemáticas, ¿cuál es el quinto paso del método de eliminación?
+
+- A. Comprobar que la solución satisface cada una de las ecuaciones originales
+- B. Comprobar que la solución satisface la ecuación obtenida en el paso 2
+- C. Trazar la gráfica del sistema para confirmarlo
+- D. Repetir el método con la otra variable
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 100
+**Subtema:** sistemas lineales de dos variables · método de eliminación
+
+5. Compruebe que la solución satisface cada una de las ecuaciones originales.
+
+---
+
+### 268
+
+De acuerdo con el libro de Matemáticas, ¿por qué dos sistemas de ecuaciones lineales son sistemas equivalentes?
+
+- A. Porque tienen el mismo conjunto de soluciones
+- B. Porque tienen los mismos coeficientes
+- C. Porque tienen el mismo número de ecuaciones
+- D. Porque sus gráficas son paralelas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 101
+**Subtema:** sistemas lineales de dos variables · sistemas equivalentes
+
+Son sistemas equivalentes porque tienen el mismo conjunto de soluciones.
+
+---
+
+### 269
+
+De conformidad con el libro de Matemáticas, ¿cuál es la primera de las operaciones que producen un sistema equivalente?
+
+- A. Intercambiar dos ecuaciones
+- B. Multiplicar una de las ecuaciones por una constante diferente de cero
+- C. Sumar un múltiplo de una de las ecuaciones con la otra ecuación
+- D. Eliminar una de las ecuaciones del sistema
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 101
+**Subtema:** sistemas lineales de dos variables · sistemas equivalentes
+
+Las operaciones que pueden realizarse en un sistema de ecuaciones lineales para producir un sistema equivalente son 1) intercambie dos ecuaciones.
+
+---
+
+### 270
+
+En relación con el libro de Matemáticas, ¿cuál es la segunda de las operaciones que producen un sistema equivalente?
+
+- A. Multiplicar una de las ecuaciones por una constante diferente de cero
+- B. Multiplicar una de las ecuaciones por cualquier constante, incluido el cero
+- C. Intercambiar dos ecuaciones
+- D. Sumar un múltiplo de una de las ecuaciones con la otra
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 101
+**Subtema:** sistemas lineales de dos variables · sistemas equivalentes
+
+2) Multiplique una de las ecuaciones por una constante diferente de cero.
+
+---
+
+### 271
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la tercera de las operaciones que producen un sistema equivalente?
+
+- A. Sumar un múltiplo de una de las ecuaciones con la otra ecuación
+- B. Restar las dos ecuaciones entre sí
+- C. Intercambiar dos ecuaciones
+- D. Multiplicar las dos ecuaciones entre sí
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 101
+**Subtema:** sistemas lineales de dos variables · sistemas equivalentes
+
+3) Sume un múltiplo de una de las ecuaciones con la otra ecuación.
+
+---
+
+## Sub-lote 33 · Interpretación gráfica de soluciones (1.11, pp. 103–104)
+
+### 272
+
+De conformidad con el libro de Matemáticas, si un sistema de ecuaciones lineales tiene dos soluciones diferentes, ¿cuántas soluciones debe tener?
+
+- A. Un número infinito de soluciones
+- B. Exactamente dos soluciones
+- C. Exactamente tres soluciones
+- D. Ninguna solución
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 103
+**Subtema:** sistemas lineales de dos variables · número de soluciones
+
+En un sistema de ecuaciones lineales, si el sistema tiene dos soluciones diferentes, debe tener un número infinito de soluciones.
+
+---
+
+### 273
+
+En relación con el libro de Matemáticas, cuando un sistema de dos ecuaciones lineales tiene exactamente una solución, ¿cómo son sus rectas y sus pendientes?
+
+- A. Las dos rectas intersecan en un punto y sus pendientes no son iguales
+- B. Las dos rectas coinciden y sus pendientes son iguales
+- C. Las dos rectas son paralelas y sus pendientes son iguales
+- D. Las dos rectas intersecan en un punto y sus pendientes son iguales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 103
+**Subtema:** sistemas lineales de dos variables · interpretación gráfica
+
+1. Exactamente una solución: las dos rectas intersecan en un punto. Las pendientes de las dos rectas no son iguales.
+
+---
+
+### 274
+
+De acuerdo con el libro de Matemáticas, cuando un sistema de dos ecuaciones lineales tiene soluciones infinitas, ¿cómo son sus rectas?
+
+- A. Las dos rectas coinciden, es decir, son idénticas
+- B. Las dos rectas son paralelas
+- C. Las dos rectas intersecan en un punto
+- D. Las dos rectas son perpendiculares
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 103
+**Subtema:** sistemas lineales de dos variables · interpretación gráfica
+
+2. Soluciones infinitas: las dos rectas coinciden (son idénticas). Las pendientes de las dos rectas son iguales.
+
+---
+
+### 275
+
+De conformidad con el libro de Matemáticas, cuando un sistema de dos ecuaciones lineales no tiene ninguna solución, ¿cómo son sus rectas?
+
+- A. Las dos rectas son paralelas
+- B. Las dos rectas coinciden
+- C. Las dos rectas intersecan en un punto
+- D. Las dos rectas son perpendiculares
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 103
+**Subtema:** sistemas lineales de dos variables · interpretación gráfica
+
+3. Ninguna solución: las dos rectas son paralelas. Las pendientes de las dos rectas son iguales.
+
+---
+
+### 276
+
+En relación con el libro de Matemáticas, ¿cuándo es consistente un sistema de ecuaciones lineales?
+
+- A. Cuando tiene al menos una solución
+- B. Cuando no tiene ninguna solución
+- C. Cuando tiene exactamente una solución
+- D. Cuando tiene un número infinito de soluciones
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 103
+**Subtema:** sistemas lineales de dos variables · sistemas consistentes e inconsistentes
+
+Un sistema de ecuaciones lineales es consistente cuando tiene al menos una solución.
+
+---
+
+### 277
+
+De acuerdo con el libro de Matemáticas, ¿cuándo es inconsistente un sistema?
+
+- A. Cuando no tiene ninguna solución
+- B. Cuando tiene al menos una solución
+- C. Cuando tiene exactamente una solución
+- D. Cuando tiene un número infinito de soluciones
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 103
+**Subtema:** sistemas lineales de dos variables · sistemas consistentes e inconsistentes
+
+Un sistema es inconsistente cuando no tiene ninguna solución.
+
+---
+
+### 278
+
+De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿en qué forma ayuda escribir las ecuaciones al resolver gráficamente un sistema lineal?
+
+- A. En la forma pendiente-intersección, para poder comparar las pendientes y las intersecciones en y
+- B. En la forma general, para poder aplicar la propiedad de factor cero
+- C. En forma exponencial, para poder aplicar las propiedades inversas
+- D. En forma estándar, para poder usar la fórmula cuadrática
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 103
+**Subtema:** sistemas lineales de dos variables · interpretación gráfica
+
+Cuando se resuelve gráficamente un sistema de ecuaciones lineales, ayuda empezar escribiendo las ecuaciones en la forma pendiente-intersección, para que pueda comparar las pendientes e intersecciones en y de sus gráficas.
+
+---
+
+### 279
+
+En relación con el libro de Matemáticas, al aplicar el método de eliminación, ¿qué indica la aparición de un enunciado falso como 0 = 7?
+
+- A. Que el sistema no tiene ninguna solución
+- B. Que el sistema tiene exactamente una solución
+- C. Que el sistema tiene un número infinito de soluciones
+- D. Que hubo un error aritmético en el procedimiento
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 104
+**Subtema:** sistemas lineales de dos variables · número de soluciones
+
+La ocurrencia de un enunciado falso, como 0 = 7, indica que el sistema no tiene ninguna solución.
+
+---
+
+### 280
+
+De acuerdo con el libro de Matemáticas, ¿qué indica la aparición de un enunciado verdadero para todos los valores de las variables, como 0 = 0?
+
+- A. Que el sistema tiene un número infinito de soluciones
+- B. Que el sistema no tiene ninguna solución
+- C. Que el sistema tiene exactamente una solución
+- D. Que las dos rectas son paralelas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 104
+**Subtema:** sistemas lineales de dos variables · número de soluciones
+
+La ocurrencia de un enunciado verdadero para todos los valores de las variables, como 0 = 0, indica que el sistema tiene un número infinito de soluciones.
+
+---
+
+## Sub-lote 34 · Aplicaciones y punto de equilibrio del mercado — cierra el capítulo 1 (pp. 105–106)
+
+### 281
+
+De conformidad con el libro de Matemáticas, ¿cuáles son las dos consideraciones para saber si un problema de aplicación puede resolverse con un sistema de ecuaciones lineales?
+
+- A. Si el problema implica más de una incógnita y si hay dos o más ecuaciones o condiciones por satisfacer
+- B. Si el problema implica una sola incógnita y si hay una sola condición por satisfacer
+- C. Si el problema puede graficarse y si sus coeficientes son enteros
+- D. Si el problema tiene solución exacta y si puede comprobarse con calculadora
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 105
+**Subtema:** sistemas lineales de dos variables · aplicaciones
+
+1. ¿El problema implica más de una incógnita? 2. ¿Hay dos (o más) ecuaciones o condiciones por satisfacer?
+
+---
+
+### 282
+
+En relación con el libro de Matemáticas, ¿qué ocurre cuando la respuesta a una de esas preguntas o a las dos es sí?
+
+- A. Que el modelo apropiado podría ser un sistema de ecuaciones lineales
+- B. Que el problema no puede resolverse algebraicamente
+- C. Que el problema debe resolverse con una sola ecuación
+- D. Que el problema exige el método gráfico
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 105
+**Subtema:** sistemas lineales de dos variables · aplicaciones
+
+Cuando la respuesta a una de estas preguntas o las dos es sí, el modelo apropiado para el sistema podría ser un sistema de ecuaciones lineales.
+
+---
+
+### 283
+
+De acuerdo con el libro de Matemáticas, en un mercado libre, ¿qué ocurre cuando los precios decrecen?
+
+- A. Las cantidades demandadas por los consumidores aumentan y las que los productores ofrecen decrecen
+- B. Las cantidades demandadas por los consumidores decrecen y las que los productores ofrecen aumentan
+- C. Tanto la demanda como la oferta aumentan
+- D. Tanto la demanda como la oferta decrecen
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 106
+**Subtema:** sistemas lineales de dos variables · demanda y oferta
+
+Cuando los precios decrecen, las cantidades demandadas por los consumidores aumentan y las cantidades que los productores son capaces, o están dispuestos a ofrecer decrecen.
+
+---
+
+### 284
+
+De conformidad con el libro de Matemáticas, en un mercado libre, ¿qué es el punto de equilibrio?
+
+- A. El precio p y el número de unidades x que satisfacen las ecuaciones de demanda y oferta
+- B. El precio p en el que la demanda llega a cero
+- C. El número de unidades x en el que la oferta llega a su máximo
+- D. El precio p en el que el costo inicial se recupera
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 106
+**Subtema:** sistemas lineales de dos variables · punto de equilibrio del mercado
+
+El punto de equilibrio es el precio p y el número de unidades x que satisfacen las ecuaciones de demanda y oferta.
 
 ---
