@@ -95,8 +95,17 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   **1.1 · Funciones** no salió reactivo: esa parte de la página es sólo la escena
   introductoria de "tú y yo" y la relación con los padres, que es ejemplo ilustrativo;
   **la teoría del 1.1 empieza en la p.9**. Las Figuras 1.1, 1.2 y 1.3 son ilustraciones.
+- Cubierta la página impresa **9**: la **definición de función** — la característica de
+  *"uno y solo un elemento"*, qué pasa cuando no se cumple (no es función), la notación
+  ***f* : *A* → *B*** y cómo se lee (*"función de A en B"*). Los cuatro reactivos se
+  escribieron **sin apoyarse en la escena de los padres**: preguntan la definición, no
+  el ejemplo. **Fuera de esta página:** las dos **"Actividad de aprendizaje"** (son
+  ejercicios) y la frase *"Las matemáticas nacieron debido a la necesidad que tenía el
+  hombre de resolver problemas…"*, que es motivación para el estudiante y no contenido
+  de la materia — cae bajo la regla hermana del README, la del dato que tiene que ser
+  **del tema**. La Figura 1.4 es ilustración.
 
-**Pendiente:** EN CURSO. Sigue desde la **p.9** con el resto del **1.1** (dominio,
+**Pendiente:** EN CURSO. Sigue desde la **p.10** con el resto del **1.1** (dominio,
 codominio o contradominio y regla de correspondencia), y luego el **1.2** (p.10) y el
 **1.3** completo (pp. 10–60) con sus cuatro incisos. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
@@ -170,3 +179,69 @@ De acuerdo con el libro de Cálculo, ¿qué letras se utilizan para indicar elem
 "Para nombrar conjuntos se utilizan letras mayúsculas: A, B, C, y letras minúsculas: a, b, c, para indicar elementos."
 
 > Nota de revisor: los reactivos 3 y 4 van con las opciones cruzadas. Es la misma frase del libro leída en sus dos mitades, y el par mayúscula/minúscula se voltea solo.
+
+---
+
+## Sub-lote 2 · Qué es una función y cómo se expresa (1.1, p.9)
+
+### 5
+
+De conformidad con el libro de Cálculo, ¿qué característica debe cumplirse para que una relación sea función?
+
+- A. Que a un elemento del primer conjunto le corresponda "uno y solo un elemento" del segundo conjunto
+- B. Que a un elemento del primer conjunto le correspondan dos o más elementos del segundo conjunto
+- C. Que todos los elementos del primer conjunto sean distintos entre sí
+- D. Que los dos conjuntos tengan el mismo número de elementos
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 9
+**Subtema:** Conceptos fundamentales de una función · Definición de función
+
+"[...] decimos que a un elemento del primer conjunto le corresponde *uno y solo un elemento* del segundo conjunto."
+
+### 6
+
+En relación con el libro de Cálculo, cuando a un elemento del primer conjunto le corresponden dos elementos del segundo, ¿qué se concluye?
+
+- A. Que no es función
+- B. Que es una función inversa
+- C. Que es una función biyectiva
+- D. Que es una función de dos variables
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 9
+**Subtema:** Conceptos fundamentales de una función · Definición de función
+
+"[...] le corresponden dos elementos, por lo que no se cumple la característica de *uno y solo un elemento*; por ello, decimos que no es función."
+
+### 7
+
+De acuerdo con el libro de Cálculo, ¿cómo se expresa la relación que asocia a un elemento del conjunto *A* con un solo elemento del conjunto *B*?
+
+- A. *f* : *A* → *B*
+- B. *A* : *f* → *B*
+- C. *f* : *B* → *A*
+- D. *A* → *B* : *f*
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 9
+**Subtema:** Conceptos fundamentales de una función · Notación
+
+"Este tipo especial de relación tiene una característica que asocia a un elemento del conjunto A con un solo elemento del conjunto B, con la característica de que únicamente se le asocia *un solo elemento*. Lo que expresamos como: *f* : *A* → *B*"
+
+### 8
+
+De conformidad con el libro de Cálculo, ¿cómo se lee la expresión *f* : *A* → *B*?
+
+- A. "Función de *A* en *B*"
+- B. "Función de *B* en *A*"
+- C. "Función *f* entre *A* y *B*"
+- D. "*A* es función de *B*"
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 9
+**Subtema:** Conceptos fundamentales de una función · Notación
+
+"Que leeremos como *función de A en B*."
+
+> Nota de revisor: el orden es el filo. El distractor B invierte los conjuntos y suena igual de razonable si no se fijó cuál va primero.
