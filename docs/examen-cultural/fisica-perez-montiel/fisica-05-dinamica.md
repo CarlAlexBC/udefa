@@ -3,9 +3,10 @@
 **Materia:** **cinco planteles** piden esta unidad del mismo libro, con cuatro
 claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM y EMOS),
 `FIS-02-2026` (EMA) y `FÍS-02-2026` (EMMA).
-**Unidad del libro:** Unidad 5. Dinámica → los temas 1, 2, 3, 5, 6, 8, 10, 13, 16 y 17.
-**Falta escribir** el tema 4 (Satélites naturales y artificiales) y el tema 7
-(Trabajo mecánico), que pide **sólo la EMMA**.
+**Unidad del libro:** Unidad 5. Dinámica → los temas 1, 2, 3, 4, 5, 6, 8, 10, 13,
+16 y 17.
+**Falta escribir** el tema 7 (Trabajo mecánico, pp. 184–188), que pide **sólo la
+EMMA**.
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Quién lo pide es cosa del temario, y **ningún
@@ -16,7 +17,7 @@ claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM y EMOS),
 > | 1 · Las fuerzas y sus efectos | — | — | — | — | **sí ✓** |
 > | 2 · Leyes de la dinámica | sí | sí | sí | — | **sí** |
 > | 3 · Gravitación universal | sí | — | sí | — | **sí** |
-> | 4 · Satélites naturales y artificiales | — | — | — | — | **sí — falta escribir** |
+> | 4 · Satélites naturales y artificiales | — | — | — | — | **sí ✓** |
 > | 5 · Estática | sí | — | — | — | **sí** |
 > | 6 · Fricción | — | — | — | sí | — |
 > | 7 · Trabajo mecánico | — | — | — | — | **sí — falta escribir** |
@@ -31,7 +32,8 @@ claves de temario: `FIS-03-2026` (EMO), `FG-03-2026` (EMM y EMOS),
 > se parecen. De esta unidad la EMA (`FIS-02-2026`) pide sólo los temas 6 y 8,
 > mientras la EMMA (`FÍS-02-2026`) pide **1, 2, 3, 4, 5, 7 y 8** — o sea, pide el
 > tema **1** (escrito ese día en el sub-lote 28) y los temas **4 y 7**, que no
-> pedía nadie más y siguen sin escribirse. Leído de los PDF de cada plantel.
+> pedía nadie más. El **4 quedó cerrado** el mismo día (sub-lotes 29 a 33, 144
+> reactivos); **falta sólo el 7**. Leído de los PDF de cada plantel.
 >
 > **Trampa verificada el 24 jul 2026:** la clave `FG-03-2026` aparece en el PDF
 > de la EMM **y** en el de la EMOS, pero **las dos listas de temas son
@@ -65,6 +67,10 @@ cada tramo, nunca se calculó:
 
 - **Tramo del tema 1 (pp. 138–140): desfase = 12.** La hoja 150 muestra impreso
   "138" y contiene el arranque de LAS FUERZAS Y SUS EFECTOS (150 − 138 = 12).
+- **Tramo del tema 4 (pp. 158–165): desfase = 12.** La hoja 170 muestra impreso
+  "158" y contiene el arranque de SATÉLITES NATURALES Y ARTIFICIALES
+  (170 − 158 = 12); la hoja 177 muestra "165", donde el tema termina y arranca
+  ESTÁTICA.
 - **Tramo del tema 2 (pp. 140–150): desfase = 12.** La hoja 152 muestra impreso
   "140" y contiene el tema 2 (152 − 140 = 12).
 - **Tramo del tema 3 (pp. 151–157): desfase = 12.** La hoja 163 muestra impreso
@@ -128,6 +134,17 @@ reactivo 2. La página de cada referencia se **lee** de la esquina de la hoja.
   las unidades de fuerza, la resultante y la equilibrante, los cuatro grupos de
   fuerzas y las nuevas teorías (electrodébil, quarks, superfuerza). Va al final
   del archivo (orden de captura, no de página).
+- **Sub-lotes 29 a 33 · Satélites naturales y artificiales (pp. 158–165)** — tema
+  4; **144 reactivos**, añadidos el 14 ago 2026 para la **EMMA** (`FÍS-02`), único
+  plantel que lo pide. El 29 cubre las pp. 158–159 (satélite natural y artificial,
+  los 180 del Sistema Solar, el Hubble a 593 km, velocidad circular y parabólica);
+  el 30, las pp. 160–161 (satelización, altura mínima de 175 km, perigeo y apogeo,
+  el satélite estacionario a 36 000 km y las aplicaciones); el 31, las pp. 162–163
+  (la Estación Espacial Internacional y la Luna); el 32, la p. 163 (temperaturas
+  del suelo lunar, escafandra, el *Sputnik I*); y el 33, las pp. 164–165 (proyecto
+  *Apolo* y las ocho consideraciones sobre los viajes a la Luna). **Fuera por
+  norma:** el cuadro 5.1 de velocidades circulares y parabólicas por altura, por
+  ser tabla de datos, igual que los cuadros de coeficientes de la Unidad 11.
 
 **Fuera del temario, no se tocan** aunque caigan en las mismas páginas: los temas
 14 (Relación entre el impulso y la cantidad de movimiento) y 15 (Choque elástico
@@ -6142,6 +6159,970 @@ En relación con el libro de Física, ¿qué producen en la superficie lunar los
 
 <Además de estar expuesta a los constantes bombardeos de meteoritos, mismos que al no encontrar ninguna resistencia producen cráteres en su superficie.>
 
+## Sub-lote 32 · Condiciones en la Luna y el viaje del hombre (p. 163) — tema 4
+
+### 367
+
+De acuerdo con el libro de Física, en la Tierra, gracias a su atmósfera, ¿qué ocurre con el clima?
+
+- A. Las variaciones en el clima no son muy drásticas.
+- B. Las variaciones en el clima son sumamente drásticas.
+- C. El clima permanece exactamente igual todo el año.
+- D. El clima depende únicamente de los rayos cósmicos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<En la Tierra, gracias a su atmósfera (capa de aire que la envuelve), las variaciones en el clima no son muy drásticas.>
+
+### 368
+
+De conformidad con el libro de Física, ¿qué hace el aire con la energía calorífica?
+
+- A. La suministra de los lugares más calientes a los más fríos.
+- B. La suministra de los lugares más fríos a los más calientes.
+- C. La retiene por completo en la superficie del suelo.
+- D. La expulsa hacia el espacio exterior.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El aire suministra energía calorífica de los lugares más calientes a los más fríos.>
+
+### 369
+
+En relación con el libro de Física, ¿para qué sirve también el aire?
+
+- A. De filtro para evitar que lleguen a la Tierra radiaciones solares en exceso.
+- B. De filtro para evitar que salga de la Tierra la energía calorífica.
+- C. De barrera para impedir el paso de los meteoritos.
+- D. De conductor de los rayos cósmicos hacia el suelo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Sirve también de filtro para evitar que lleguen a la Tierra radiaciones solares en exceso.>
+
+### 370
+
+De acuerdo con el libro de Física, ¿qué más hace el aire con el calor del suelo?
+
+- A. Retiene una parte del calor que por radiación pierde el suelo.
+- B. Retiene la totalidad del calor que por radiación pierde el suelo.
+- C. Impide que el suelo pierda calor por radiación.
+- D. Aumenta el calor que por radiación pierde el suelo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Y retiene una parte del calor que por radiación pierde el suelo.>
+
+### 371
+
+De conformidad con el libro de Física, ¿qué implica en la Luna la falta de atmósfera respecto de la humedad?
+
+- A. Una carencia total de humedad.
+- B. Una humedad menor a la terrestre, pero constante.
+- C. Una humedad concentrada en los cráteres.
+- D. Una humedad que varía con las fases lunares.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Esto implica que tenga una carencia total de humedad.>
+
+### 372
+
+En relación con el libro de Física, ¿qué valores alcanza la temperatura del suelo lunar cuando está expuesta a la radiación solar?
+
+- A. Valores mayores a 120 °C.
+- B. Valores mayores a 150 °C.
+- C. Valores mayores a 100 °C.
+- D. Valores mayores a 210 °C.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<En la Luna, la temperatura del suelo alcanza valores mayores a 120 °C cuando está expuesta a la radiación solar.>
+
+### 373
+
+De acuerdo con el libro de Física, ¿a cuánto desciende esa temperatura cuando no recibe la radiación solar?
+
+- A. A menos de 150 °C bajo cero.
+- B. A menos de 120 °C bajo cero.
+- C. A menos de 50 °C bajo cero.
+- D. A menos de 250 °C bajo cero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Y desciende a menos de 150 °C bajo cero cuando no la recibe.>
+
+### 374
+
+De conformidad con el libro de Física, ¿cómo llegan los rayos cósmicos a la superficie lunar?
+
+- A. Con toda su energía, pues no existe nada que logre atenuarlos.
+- B. Atenuados por la delgada atmósfera lunar.
+- C. Reflejados por la superficie del suelo lunar.
+- D. Únicamente durante la noche lunar.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Los rayos cósmicos llegan a la superficie lunar con toda su energía, pues no existe nada que logre atenuarlos.>
+
+### 375
+
+En relación con el libro de Física, ¿a qué obligan las condiciones de la Luna a los astronautas que pisan su suelo?
+
+- A. A tomar una serie de medidas tendentes a permitirles subsistir por medio de una atmósfera artificial.
+- B. A permanecer siempre dentro del módulo de alunizaje.
+- C. A limitar su estancia a las noches lunares.
+- D. A prescindir por completo del oxígeno durante su estancia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Las condiciones en la Luna obligan a los astronautas que pisan su suelo a tomar una serie de medidas tendentes a permitirles subsistir por medio de una atmósfera artificial.>
+
+### 376
+
+De acuerdo con el libro de Física, ¿qué deben transportar desde la Tierra para ello?
+
+- A. El oxígeno, los alimentos y demás elementos necesarios.
+- B. Únicamente el oxígeno necesario para respirar.
+- C. Únicamente los alimentos y el agua.
+- D. El combustible y los cohetes de retropropulsión.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Para ello, deben transportar desde la Tierra el oxígeno, los alimentos y demás elementos necesarios.>
+
+### 377
+
+De conformidad con el libro de Física, ¿cómo se llama la vestidura hermética que cubre todo el cuerpo del astronauta?
+
+- A. Escafandra espacial.
+- B. Cápsula espacial.
+- C. Cabina de atmósfera condicionada.
+- D. Módulo de alunizaje.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Los astronautas deben usar una vestidura hermética que cubre todo su cuerpo, misma que recibe el nombre de escafandra espacial.>
+
+### 378
+
+En relación con el libro de Física, ¿cuánto duran el día y la noche en la Luna?
+
+- A. Dos semanas terrestres cada una.
+- B. Una semana terrestre cada una.
+- C. Doce horas terrestres cada una.
+- D. Cuatro semanas terrestres cada una.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El día y la noche duran dos semanas terrestres cada una.>
+
+### 379
+
+De acuerdo con el libro de Física, ¿por qué son iluminadas las noches de la Luna?
+
+- A. Por la luz solar que refleja la Tierra, cuya intensidad es mayor a la que ella nos envía.
+- B. Por la luz solar que refleja la Tierra, cuya intensidad es menor a la que ella nos envía.
+- C. Por la luminosidad propia de la superficie lunar.
+- D. Por los rayos cósmicos que llegan con toda su energía.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Además, sus noches son iluminadas por la luz solar que refleja la Tierra y cuya intensidad es mayor a la que ella nos envía.>
+
+### 380
+
+De conformidad con el libro de Física, ¿quién fue Julio Verne?
+
+- A. Un novelista francés (1828-1905) que se anticipó a la exploración de la Luna a través de sus novelas de ficción científica.
+- B. Un novelista inglés (1828-1905) que se anticipó a la exploración de la Luna a través de sus novelas de ficción científica.
+- C. Un físico francés (1828-1905) que calculó la velocidad de escape de la Tierra.
+- D. Un astronauta francés que participó en el proyecto Apolo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Escritores como Julio Verne, novelista francés (1828-1905), se anticiparon a la exploración de la Luna a través de sus novelas de ficción científica.>
+
+### 381
+
+En relación con el libro de Física, ¿cuándo pisó el hombre por primera vez la superficie de la Luna?
+
+- A. El 20 de julio de 1969.
+- B. El 16 de julio de 1969.
+- C. El 4 de octubre de 1957.
+- D. El 20 de julio de 1962.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Pero fue hasta el 20 de julio de 1969 cuando la ficción se hizo realidad al pisar el hombre por primera vez la superficie de la Luna.>
+
+### 382
+
+De acuerdo con el libro de Física, ¿qué es la astronáutica?
+
+- A. La ciencia que se encarga de la navegación en el espacio cósmico.
+- B. La ciencia que se encarga de la navegación aérea dentro de la atmósfera.
+- C. La ciencia que estudia el origen del Sistema Solar.
+- D. La ciencia que estudia el campo magnético de los astros.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La astronáutica es la ciencia que se encarga de la navegación en el espacio cósmico.>
+
+### 383
+
+De conformidad con el libro de Física, ¿por qué se diferencia la astronáutica de la navegación aérea?
+
+- A. Porque ésta no se encuentra involucrada en problemas como los viajes realizados a través de espacios carentes de atmósfera o de gravedad.
+- B. Porque ésta se encuentra involucrada en los viajes a través de espacios carentes de atmósfera o de gravedad.
+- C. Porque la navegación aérea alcanza mayores magnitudes de velocidad.
+- D. Porque la navegación aérea no utiliza combustible ni oxígeno.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Se diferencia de la navegación aérea porque ésta no se encuentra involucrada en problemas como: viajes realizados a través de espacios carentes de atmósfera o de gravedad.>
+
+### 384
+
+En relación con el libro de Física, ¿qué otros problemas diferencian a la astronáutica?
+
+- A. Las altas magnitudes de velocidades que alcanzan las astronaves o las variaciones en las magnitudes de aceleración a la salida y llegada de éstas.
+- B. Las bajas magnitudes de velocidades que alcanzan las astronaves y la ausencia de aceleración.
+- C. La resistencia del aire y la fuerza de fricción con el suelo.
+- D. La necesidad de transportar paracaídas y retrocohetes.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Altas magnitudes de velocidades que alcanzan las astronaves o las variaciones en las magnitudes de aceleración a la salida y llegada de éstas.>
+
+### 385
+
+De acuerdo con el libro de Física, ¿en qué fecha iniciaron los rusos la era espacial?
+
+- A. El 4 de octubre de 1957.
+- B. El 4 de octubre de 1967.
+- C. El 20 de julio de 1957.
+- D. El 14 de octubre de 1957.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El 4 de octubre de 1957, los rusos fueron los primeros en iniciar la era espacial.>
+
+### 386
+
+De conformidad con el libro de Física, ¿con qué lanzamiento iniciaron la era espacial?
+
+- A. Con el del *Sputnik I*, primer satélite artificial en órbita alrededor de la Tierra.
+- B. Con el del *Explorer I*, primer satélite artificial en órbita alrededor de la Tierra.
+- C. Con el del *Apolo VIII*, primera nave en dar vueltas alrededor de la Luna.
+- D. Con el del *Sputnik I*, primera sonda espacial posada en la Luna.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Mediante el lanzamiento del *Sputnik I*, primer satélite artificial en órbita alrededor de la Tierra.>
+
+### 387
+
+En relación con el libro de Física, ¿cuándo lanzaron los estadounidenses su primer satélite y cómo se llamó?
+
+- A. Tres meses más tarde, y se llamó *Explorer I*.
+- B. Tres años más tarde, y se llamó *Explorer I*.
+- C. Tres meses antes, y se llamó *Explorer I*.
+- D. Tres meses más tarde, y se llamó *Apolo I*.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Tres meses más tarde los estadounidenses lanzaron su primer satélite llamado *Explorer I*.>
+
+## Sub-lote 33 · El proyecto Apolo y las consideraciones sobre los viajes a la Luna (pp. 164–165) — tema 4
+
+### 388
+
+De acuerdo con el libro de Física, ¿en qué año puso en marcha Estados Unidos el proyecto *Apolo*?
+
+- A. En 1962.
+- B. En 1969.
+- C. En 1957.
+- D. En 1972.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El proyecto *Apolo* fue puesto en marcha por Estados Unidos en 1962.>
+
+### 389
+
+De conformidad con el libro de Física, ¿cuál era la finalidad de dicho proyecto?
+
+- A. Colocar a un hombre sobre la Luna.
+- B. Poner en órbita el primer satélite artificial.
+- C. Medir el campo magnético lunar.
+- D. Construir una estación espacial permanente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Dicho proyecto tenía como finalidad colocar a un hombre sobre la Luna.>
+
+### 390
+
+En relación con el libro de Física, ¿mediante qué se logró esa hazaña?
+
+- A. Mediante la construcción de un potente cohete de tres fases capaz de poner en órbita terrestre la cápsula espacial llamada *Apolo*.
+- B. Mediante la construcción de un potente cohete de dos fases capaz de poner en órbita lunar la cápsula espacial llamada *Apolo*.
+- C. Mediante el envío de sondas espaciales no tripuladas.
+- D. Mediante el lanzamiento del *Explorer I*.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Hazaña que se logró mediante la construcción de un potente cohete de tres fases capaz de poner en órbita terrestre la cápsula espacial llamada *Apolo*.>
+
+### 391
+
+De acuerdo con el libro de Física, ¿por cuáles tres módulos estaba constituida dicha cápsula?
+
+- A. El de mando, servicio y alunizaje.
+- B. El de mando, control y despegue.
+- C. El de mando, servicio y retropropulsión.
+- D. El de alunizaje, servicio y descenso.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Dicha cápsula estaba constituida por tres módulos: el de mando, servicio y alunizaje.>
+
+### 392
+
+De conformidad con el libro de Física, ¿cuántos de los tres astronautas bajaron a la superficie lunar?
+
+- A. Dos de ellos, mientras el otro se mantuvo en órbita.
+- B. Los tres, dejando la cápsula en órbita automática.
+- C. Uno de ellos, mientras los otros dos se mantuvieron en órbita.
+- D. Ninguno, pues el descenso fue no tripulado.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Utilizando el módulo de alunizaje, dos de ellos bajaron a la superficie lunar, mientras que el otro se mantuvo en órbita.>
+
+### 393
+
+En relación con el libro de Física, después de realizar algunos experimentos y tomar muestras, ¿qué debía hacer el módulo de alunizaje?
+
+- A. Elevarse para realizar la fase de acoplamiento con el módulo de mando e iniciar el regreso a la Tierra.
+- B. Permanecer en la superficie lunar como estación de investigación.
+- C. Descender aún más para tomar muestras del subsuelo lunar.
+- D. Elevarse para acoplarse con el módulo de servicio y quedar en órbita lunar.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El módulo de alunizaje con los dos tripulantes a bordo debía elevarse para realizar la fase de acoplamiento con el módulo de mando e iniciar el regreso a la Tierra.>
+
+### 394
+
+De acuerdo con el libro de Física, ¿cuántas vueltas alrededor de la Luna dieron los tres astronautas del *Apolo VIII*?
+
+- A. Diez vueltas.
+- B. Cuatro vueltas.
+- C. Veinte vueltas.
+- D. Una vuelta.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Como el del *Apolo VIII* en el que tres astronautas dieron diez vueltas alrededor de la Luna.>
+
+### 395
+
+De conformidad con el libro de Física, ¿cuándo se lanzó el *Apolo IX*?
+
+- A. En marzo de 1969, tres meses después que el *Apolo VIII*.
+- B. En mayo de 1969, tres meses después que el *Apolo VIII*.
+- C. En marzo de 1969, tres meses antes que el *Apolo VIII*.
+- D. En julio de 1969, un mes después que el *Apolo VIII*.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El *Apolo IX* se lanzó en marzo de 1969, tres meses después que el *Apolo VIII*.>
+
+### 396
+
+En relación con el libro de Física, ¿cuál era el objetivo del *Apolo IX*?
+
+- A. Probar los módulos lunar, de servicio y de mando en una órbita terrestre, además de ensayar el acoplamiento entre los mismos.
+- B. Probar los módulos lunar, de servicio y de mando en una órbita lunar, además de alunizar.
+- C. Realizar todas las fases previstas menos el verdadero descenso del hombre en la Luna.
+- D. Recoger las primeras muestras de rocas y polvo lunar.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Su objetivo era probar los módulos lunar, de servicio y de mando en una órbita terrestre, además de ensayar el acoplamiento entre los mismos.>
+
+### 397
+
+De acuerdo con el libro de Física, ¿cuál era el propósito del *Apolo X*, lanzado en mayo de 1969?
+
+- A. Realizar todas las fases previstas menos el verdadero descenso del hombre en la Luna.
+- B. Realizar el primer descenso del hombre en la Luna.
+- C. Probar los módulos en una órbita terrestre.
+- D. Dar diez vueltas alrededor de la Luna.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<En mayo de 1969 lanzaron el *Apolo X* cuyo propósito era realizar todas las fases previstas menos el verdadero descenso del hombre en la Luna.>
+
+### 398
+
+De conformidad con el libro de Física, ¿cuándo se lanzó el *Apolo XI*?
+
+- A. La mañana del 16 de julio de 1969.
+- B. La mañana del 20 de julio de 1969.
+- C. La mañana del 16 de junio de 1969.
+- D. La mañana del 26 de julio de 1969.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El *Apolo XI* se lanzó la mañana del 16 de julio de 1969.>
+
+### 399
+
+En relación con el libro de Física, ¿cuántos días más tarde alunizó?
+
+- A. 4 días más tarde.
+- B. 2 días más tarde.
+- C. 6 días más tarde.
+- D. 10 días más tarde.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Y alunizó 4 días más tarde.>
+
+### 400
+
+De acuerdo con el libro de Física, ¿quiénes descendieron a la superficie lunar?
+
+- A. Edwin E. Aldrin y Neil Armstrong.
+- B. Edwin E. Aldrin y Michael Collins.
+- C. Neil Armstrong y Michael Collins.
+- D. Neil Armstrong y Yuri Gagarin.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Descendiendo Edwin E. Aldrin y Neil Armstrong.>
+
+### 401
+
+De conformidad con el libro de Física, ¿cuánto tiempo permanecieron sobre el suelo lunar?
+
+- A. Dos horas y media.
+- B. Cuatro horas y media.
+- C. Media hora.
+- D. Dos días y medio.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Después de dos horas y media sobre el suelo lunar.>
+
+### 402
+
+En relación con el libro de Física, ¿cuántas rocas se recogieron en ese tiempo?
+
+- A. Más de 20 kg.
+- B. Más de 2 kg.
+- C. Más de 200 kg.
+- D. Más de 50 kg.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<En las que se recogieron más de 20 kg de rocas y se realizaron algunos experimentos.>
+
+### 403
+
+De acuerdo con el libro de Física, ¿por qué podían dar saltos con facilidad pese al peso de sus trajes y al equipo de supervivencia?
+
+- A. Porque la fuerza de gravedad de la Luna les permitía reducir la magnitud de su peso a la sexta parte.
+- B. Porque la fuerza de gravedad de la Luna les permitía reducir la magnitud de su peso a la mitad.
+- C. Porque en la Luna carecían por completo de peso.
+- D. Porque la escafandra espacial disminuía su masa.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Dando saltos con facilidad pese al peso de sus trajes y al equipo de supervivencia, pues la fuerza de gravedad de la Luna les permitía reducir la magnitud de su peso a la sexta parte.>
+
+### 404
+
+De conformidad con el libro de Física, ¿cuántos alunizajes más se realizaron después del éxito del *Apolo XI*?
+
+- A. Otros cinco.
+- B. Otros tres.
+- C. Otros diez.
+- D. Otros dos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Después del éxito obtenido con el *Apolo XI* se realizaron otros cinco alunizajes.>
+
+### 405
+
+En relación con el libro de Física, ¿en qué años se realizaron esos alunizajes?
+
+- A. En 1969, el *Apolo XII*; en 1971, los *Apolos XIV* y *XV*; y en 1972, los *Apolos XVI* y *XVII*.
+- B. En 1969, el *Apolo XII*; en 1970, los *Apolos XIV* y *XV*; y en 1971, los *Apolos XVI* y *XVII*.
+- C. En 1970, el *Apolo XII*; en 1971, los *Apolos XIII* y *XIV*; y en 1972, los *Apolos XV* y *XVI*.
+- D. En 1969, los *Apolos XII* y *XIII*; y en 1972, los *Apolos XIV* y *XV*.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<En 1969, el *Apolo XII*; en 1971, los *Apolos XIV* y *XV*; y en 1972, los *Apolos XVI* y *XVII*.>
+
+### 406
+
+De acuerdo con el libro de Física, ¿para qué sirvieron las muestras de rocas y polvo?
+
+- A. Para que los científicos obtuvieran más información para poder encontrar las posibles causas que dieron origen al Sistema Solar.
+- B. Para que los científicos determinaran la intensidad del campo magnético lunar.
+- C. Para medir la distancia entre la Tierra y su satélite natural.
+- D. Para comprobar la carencia total de humedad en la Luna.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Las muestras de rocas y polvo permitieron a los científicos obtener más información para poder encontrar las posibles causas que dieron origen al Sistema Solar.>
+
+### 407
+
+De conformidad con el libro de Física, ¿cómo midieron la distancia entre la Tierra y su satélite natural?
+
+- A. Por medio de un rayo láser enviado desde nuestro planeta, el cual fue reflejado por un espejo especial instalado en la Luna.
+- B. Por medio de un rayo láser enviado desde la Luna, el cual fue reflejado por un espejo especial instalado en la Tierra.
+- C. Por medio de magnetómetros instalados en la superficie lunar.
+- D. Por medio del tiempo que tardó la nave en llegar a la Luna.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<También midieron la distancia entre la Tierra y su satélite natural por medio de un rayo láser enviado desde nuestro planeta, el cual fue reflejado por un espejo especial instalado en la Luna.>
+
+### 408
+
+En relación con el libro de Física, ¿cuál es la magnitud de la velocidad de propagación de ese rayo?
+
+- A. Aproximadamente 300 000 km/s.
+- B. Aproximadamente 30 000 km/s.
+- C. Aproximadamente 300 000 km/h.
+- D. Aproximadamente 3 000 000 km/s.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Al determinar el tiempo que empleó el rayo en ir y regresar y conocer la magnitud de su velocidad de propagación (aproximadamente 300 000 km/s), se calculó la distancia con una gran precisión.>
+
+### 409
+
+De acuerdo con el libro de Física, ¿por qué es producido el viento solar?
+
+- A. Por flujos de partículas con carga eléctrica procedentes del Sol.
+- B. Por flujos de partículas sin carga eléctrica procedentes de la Luna.
+- C. Por las vibraciones de la superficie lunar.
+- D. Por los rayos cósmicos que llegan a la superficie lunar.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Así como otro para medir el viento solar, producido por flujos de partículas con carga eléctrica procedentes del Sol.>
+
+### 410
+
+De conformidad con el libro de Física, ¿a qué equivale la intensidad del campo magnético lunar?
+
+- A. A la centésima parte del terrestre.
+- B. A la décima parte del terrestre.
+- C. A la milésima parte del terrestre.
+- D. A la sexta parte del terrestre.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 164
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Mediante diferentes magnetómetros instalados se encontró que la intensidad del campo magnético lunar equivale a la centésima parte del terrestre.>
+
+### 411
+
+En relación con el libro de Física, ¿por qué la nave espacial debe transportar oxígeno además del combustible?
+
+- A. Puesto que el vuelo se realiza en ausencia de atmósfera, no cuenta con el oxígeno del aire para lograr la combustión.
+- B. Puesto que el vuelo se realiza en ausencia de gravedad, el combustible no se enciende.
+- C. Porque los tripulantes consumen todo el oxígeno de la cabina durante el ascenso.
+- D. Porque el oxígeno sirve para frenar la nave al llegar a la Luna.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Puesto que el vuelo de la nave espacial se realiza en ausencia de atmósfera, no cuenta con el oxígeno del aire para lograr la combustión. Por tal motivo, además del combustible debe transportar oxígeno.>
+
+### 412
+
+De acuerdo con el libro de Física, ¿cómo debe ser el arranque de la astronave?
+
+- A. Pausado, evitando aceleraciones cuyas magnitudes sean muy grandes.
+- B. Brusco, alcanzando de inmediato la velocidad orbital.
+- C. Pausado, evitando velocidades cuyas magnitudes sean muy grandes.
+- D. Vertical y a la máxima aceleración posible.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El arranque de la astronave debe ser pausado, evitando aceleraciones cuyas magnitudes sean muy grandes que pongan en peligro la resistencia del organismo humano.>
+
+### 413
+
+De conformidad con el libro de Física, ¿qué soporta y qué no soporta el organismo humano?
+
+- A. Soporta grandes velocidades, pero no cambios bruscos en la aceleración.
+- B. Soporta cambios bruscos en la aceleración, pero no grandes velocidades.
+- C. No soporta ni grandes velocidades ni cambios bruscos en la aceleración.
+- D. Soporta por igual grandes velocidades y cambios bruscos en la aceleración.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El cual soporta grandes velocidades, pero no cambios bruscos en la aceleración.>
+
+### 414
+
+En relación con el libro de Física, ¿por qué estará afectado el vuelo de una nave en su viaje a la Luna?
+
+- A. Por la rotación y la traslación de la Tierra, la atracción creciente de la Luna y la atracción decreciente de la Tierra, y por la atracción del Sol.
+- B. Por la rotación y la traslación de la Luna, la atracción decreciente de la Luna y la creciente de la Tierra, y por la atracción del Sol.
+- C. Únicamente por la atracción de la Luna y la de la Tierra.
+- D. Únicamente por la resistencia del aire y la fricción.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Debe considerarse que su vuelo estará afectado por: la rotación y la traslación de la Tierra, la atracción creciente de la Luna y la atracción decreciente de la Tierra, y por la atracción del Sol.>
+
+### 415
+
+De acuerdo con el libro de Física, ¿cómo debe ser calculada la trayectoria que seguirá la nave?
+
+- A. Anticipadamente y con toda precisión, valiéndose del uso de computadoras.
+- B. Durante el vuelo, corrigiéndola a cada instante por telemando.
+- C. Anticipadamente, de manera aproximada, sin uso de computadoras.
+- D. Al llegar al punto muerto, con ayuda de los magnetómetros.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Así, la trayectoria que debe seguir la nave, considerando los efectos que sobre ella se ejercerán, debe ser calculada anticipadamente con toda precisión valiéndose del uso de computadoras.>
+
+### 416
+
+De conformidad con el libro de Física, ¿en cuántas fases se hace el lanzamiento y en qué consiste la primera?
+
+- A. En dos fases; la primera consiste en ponerla en órbita estacionaria alrededor de la Tierra.
+- B. En dos fases; la primera consiste en ponerla en órbita estacionaria alrededor de la Luna.
+- C. En tres fases; la primera consiste en alcanzar la velocidad de escape.
+- D. En una sola fase que la lleva directamente a la Luna.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El lanzamiento se hace en dos fases: la primera consiste en ponerla en órbita estacionaria alrededor de la Tierra.>
+
+### 417
+
+En relación con el libro de Física, ¿cuál es la magnitud de la velocidad llamada orbital?
+
+- A. 28 000 km/h.
+- B. 40 000 km/h.
+- C. 8 600 km/h.
+- D. 3 000 km/h.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Esto sucede cuando alcanza una velocidad llamada orbital cuya magnitud es de 28 000 km/h.>
+
+### 418
+
+De acuerdo con el libro de Física, ¿cuál es la magnitud de la velocidad que se requiere para vencer la fuerza de gravedad terrestre?
+
+- A. 40 000 km/h.
+- B. 28 000 km/h.
+- C. 8 000 km/h.
+- D. 57 000 km/h.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La magnitud de la velocidad que se requiere para vencer la fuerza de gravedad terrestre es de 40 000 km/h.>
+
+### 419
+
+De conformidad con el libro de Física, ¿a qué distancia del centro de la Luna se encuentra el punto muerto?
+
+- A. Aproximadamente a 57 000 km.
+- B. Aproximadamente a 75 000 km.
+- C. Aproximadamente a 5 700 km.
+- D. Aproximadamente a 357 000 km.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Dicho punto, llamado muerto, se encuentra aproximadamente a 57 000 km del centro de la Luna.>
+
+### 420
+
+En relación con el libro de Física, si no existiera alguna manera de frenar la nave, ¿con qué magnitud de velocidad se estrellaría contra la superficie lunar?
+
+- A. 8 000 km/h.
+- B. 8 600 km/h.
+- C. 3 000 km/h.
+- D. 28 000 km/h.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Si no existiera alguna manera de frenar la nave, ésta se estrellaría contra la superficie lunar a una velocidad cuya magnitud es de 8 000 km/h.>
+
+### 421
+
+De acuerdo con el libro de Física, ¿a cuánto se reduce la magnitud de la velocidad dirigiendo el chorro de los motores hacia la superficie lunar?
+
+- A. Aproximadamente a 3 000 km/h.
+- B. Aproximadamente a 8 000 km/h.
+- C. Aproximadamente a 300 km/h.
+- D. Aproximadamente a 8 600 km/h.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Para frenar la nave se usa la retropropulsión, dirigiendo el chorro de los motores hacia la superficie lunar se reduce la magnitud de la velocidad aproximadamente a 3 000 km/h.>
+
+### 422
+
+De conformidad con el libro de Física, ¿cómo debe actuar después el motor de descenso?
+
+- A. Como retrocohete para amortiguar la caída.
+- B. Como propulsor para acelerar la caída.
+- C. Como generador de la atmósfera artificial.
+- D. Como freno de aire al entrar en la atmósfera lunar.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Puede descenderse hasta la superficie lunar haciendo funcionar el motor de descenso que deberá actuar después como retrocohete para amortiguar la caída.>
+
+### 423
+
+En relación con el libro de Física, ¿qué magnitud de velocidad inicial requiere el regreso a la Tierra?
+
+- A. 8 600 km/h.
+- B. 8 000 km/h.
+- C. 3 000 km/h.
+- D. 40 000 km/h.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<El regreso a la Tierra requiere una velocidad inicial de la nave con una magnitud de 8 600 km/h para alcanzar el punto muerto e iniciar su retorno en caída libre.>
+
+### 424
+
+De acuerdo con el libro de Física, ¿por qué debe descender la nave con cierta inclinación al penetrar en la atmósfera terrestre?
+
+- A. Pues si lo hiciera verticalmente la fricción con el aire la desintegraría rápidamente.
+- B. Pues si lo hiciera verticalmente rebotaría contra las capas densas de la atmósfera.
+- C. Pues si lo hiciera verticalmente no alcanzaría el punto muerto.
+- D. Pues si lo hiciera verticalmente perdería el oxígeno de la cabina.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Al penetrar a la atmósfera terrestre la nave debe descender con una cierta inclinación, pues si lo hiciera verticalmente la fricción con el aire la desintegraría rápidamente.>
+
+### 425
+
+De conformidad con el libro de Física, ¿qué temperaturas alcanzan algunas partes de la nave por causa de la fricción?
+
+- A. Temperaturas de 5 000 °C.
+- B. Temperaturas de 500 °C.
+- C. Temperaturas de 150 °C.
+- D. Temperaturas de 50 000 °C.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<La inclinación permite que sea frenada por el aire, pero la fricción provoca que algunas partes de la nave alcancen temperaturas de 5 000 °C. Por tal motivo se recubre con un plástico especial, el cual con el calor se funde lentamente y se desprende.>
+
+### 426
+
+En relación con el libro de Física, ¿cómo se realiza el descenso final a la superficie terrestre?
+
+- A. Por medio de paracaídas, aprovechando la resistencia de la atmósfera.
+- B. Por medio de retrocohetes, aprovechando la retropropulsión.
+- C. Por medio de un plástico especial que se funde lentamente.
+- D. Por medio de un descenso vertical a gran velocidad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 165
+**Tema:** U5 t4 · satélites naturales y artificiales
+**Subtema:** física · dinámica
+
+<Por último, el descenso final a la superficie terrestre se realiza por medio de paracaídas, aprovechando la resistencia de la atmósfera.>
+
 ---
 
-**Reactivos en este archivo:** 366
+**Reactivos en este archivo:** 426
