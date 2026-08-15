@@ -90,7 +90,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 - Cubiertas las páginas impresas **89 y 90**, arranque del **1.10 · Sistemas de ecuaciones lineales y no lineales**: qué es una solución de un sistema y qué es resolverlo, el recuadro *Método de sustitución* con sus cinco pasos, qué significa *sustitución hacia atrás* y el `COMENTARIO` de comprobar la solución en cada ecuación del sistema original. Los ejemplos no llevan reactivos.
 
-**Pendiente:** EN CURSO. El **1.3, el 1.4, el 1.6, el 1.8 y el 1.9 están CERRADOS** y el **1.10 va en curso**: sigue desde la página impresa **91**. La teoría del 1.10 llega hasta la **p. 95** (las pp. 96–98 son el bloque de `Ejercicios`); después queda el **1.11** (teoría pp. 99–106), con el que se cierra el capítulo 1. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+- Cubiertas las páginas impresas **91 a 94**, con las que **cierra el 1.10**: la fórmula del interés simple (I = Prt, con r en decimales), que el método de sustitución también sirve con ecuaciones no lineales, cuántas soluciones puede tener un sistema de dos ecuaciones con dos variables, el método gráfico (las soluciones son los puntos de intersección) y el *punto de equilibrio* (sus dos componentes de costo, cuándo se alcanza y a qué punto corresponde). La **p. 95 no lleva reactivos** (`EJEMPLO 7` de taquilla y el `Resumen`), y las **pp. 96–98 son el bloque `1.10 Ejercicios`**. Los recuadros `TECNOLOGÍA` quedan fuera por norma.
+
+**Pendiente:** EN CURSO. El **1.3, el 1.4, el 1.6, el 1.8, el 1.9 y el 1.10 están CERRADOS**. Sólo falta el **1.11 · Sistemas lineales de dos variables**, que arranca en la página impresa **99** y cuya teoría llega hasta la **p. 106** (las pp. 107–110 son el bloque de `Ejercicios`); con él se cierra el **capítulo 1** y este archivo. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -4418,5 +4420,160 @@ De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿c�
 **Subtema:** sistemas de ecuaciones · comprobación de soluciones
 
 Se requieren muchos pasos para resolver un sistema de ecuaciones, así que hay muchas posibles maneras de cometer errores aritméticos. Compruebe siempre su solución sustituyéndola en cada ecuación del sistema original.
+
+---
+
+## Sub-lote 31 · Sistemas no lineales, método gráfico y punto de equilibrio — cierra el 1.10 (pp. 91–94)
+
+### 252
+
+En relación con el libro de Matemáticas, ¿cuál es la fórmula del interés simple?
+
+- A. I = Prt
+- B. I = P + rt
+- C. I = Pr/t
+- D. I = Pt/r
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 91
+**Subtema:** sistemas de ecuaciones · interés simple
+
+Recuerde que la fórmula de interés simple es I = Prt, donde P es el principal, r es la tasa de interés anual y t es el tiempo.
+
+---
+
+### 253
+
+De acuerdo con el libro de Matemáticas, en la fórmula del interés simple, ¿cómo se expresa la tasa de interés anual?
+
+- A. En decimales
+- B. En porcentajes
+- C. En fracciones
+- D. En notación científica
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 91
+**Subtema:** sistemas de ecuaciones · interés simple
+
+Donde P es el principal, r es la tasa de interés anual (en decimales) y t es el tiempo.
+
+---
+
+### 254
+
+De conformidad con el libro de Matemáticas, ¿puede usarse el método de sustitución cuando una o las dos ecuaciones del sistema son no lineales?
+
+- A. Sí, también puede usarse en ese caso
+- B. No, sólo sirve para sistemas lineales
+- C. Sólo si las dos ecuaciones son no lineales
+- D. Sólo si el sistema tiene una única solución
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 92
+**Subtema:** sistemas de ecuaciones · sistemas no lineales
+
+El método de sustitución también puede usarse para resolver sistemas en los que una o las dos ecuaciones son no lineales.
+
+---
+
+### 255
+
+En relación con el libro de Matemáticas, ¿cuántas soluciones puede tener un sistema de dos ecuaciones con dos variables?
+
+- A. Exactamente una, más de una, o ninguna
+- B. Exactamente una o ninguna
+- C. Siempre exactamente una
+- D. Siempre dos o más
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 93
+**Subtema:** sistemas de ecuaciones · número de soluciones
+
+Un sistema de dos ecuaciones con dos variables puede tener exactamente una solución, más de una solución o ninguna solución.
+
+---
+
+### 256
+
+De acuerdo con el libro de Matemáticas, cuando se traza cada una de las ecuaciones en el mismo plano de coordenadas, ¿a qué corresponden las soluciones del sistema?
+
+- A. A los puntos de intersección de las gráficas
+- B. A los puntos donde cada gráfica corta el eje x
+- C. A los puntos donde cada gráfica corta el eje y
+- D. A los puntos más altos de cada gráfica
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 93
+**Subtema:** sistemas de ecuaciones · método gráfico
+
+Cuando usted traza cada una de las ecuaciones en el mismo plano de coordenadas, las soluciones del sistema corresponden a los puntos de intersección de las gráficas.
+
+---
+
+### 257
+
+De conformidad con el libro de Matemáticas, ¿para qué ayuda el método gráfico?
+
+- A. Para hacerse una idea del número y las ubicaciones de las soluciones del sistema
+- B. Para eliminar las soluciones extrañas del sistema
+- C. Para convertir el sistema en uno lineal
+- D. Para comprobar que el sistema no tiene solución
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 93
+**Subtema:** sistemas de ecuaciones · método gráfico
+
+Un método gráfico le ayudará a hacerse una idea del número y ubicación(es) de la(s) solución(es) de un sistema de ecuaciones.
+
+---
+
+### 258
+
+En relación con el libro de Matemáticas, ¿cuáles son los dos componentes que por lo general tiene el costo total C de generar x unidades de un producto?
+
+- A. El costo inicial y el costo por unidad
+- B. El costo inicial y el ingreso por unidad
+- C. El costo por unidad y el precio de venta
+- D. El costo fijo y el punto de equilibrio
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 94
+**Subtema:** sistemas de ecuaciones · punto de equilibrio
+
+El costo total C de generar x unidades de un producto tiene por lo general dos componentes: el costo inicial y el costo por unidad.
+
+---
+
+### 259
+
+De acuerdo con el libro de Matemáticas, ¿cuándo se dice que las ventas han llegado al punto de equilibrio?
+
+- A. Cuando el ingreso total R es igual al costo total C
+- B. Cuando el ingreso total R supera al doble del costo total C
+- C. Cuando el costo por unidad es igual al costo inicial
+- D. Cuando el costo total C llega a cero
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 94
+**Subtema:** sistemas de ecuaciones · punto de equilibrio
+
+Cuando se han vendido suficientes unidades para que el ingreso total R sea igual al costo total C, se dice que las ventas han llegado al punto de equilibrio.
+
+---
+
+### 260
+
+De conformidad con el libro de Matemáticas, ¿a qué corresponde el punto de equilibrio?
+
+- A. Al punto de intersección de las curvas de costo e ingreso
+- B. Al punto donde la curva de costo corta el eje x
+- C. Al punto donde la curva de ingreso alcanza su máximo
+- D. Al punto donde el costo por unidad se vuelve cero
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 94
+**Subtema:** sistemas de ecuaciones · punto de equilibrio
+
+El punto de equilibrio corresponde al punto de intersección de las curvas de costo e ingreso.
 
 ---
