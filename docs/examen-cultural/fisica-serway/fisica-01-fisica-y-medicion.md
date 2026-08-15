@@ -33,9 +33,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **3–4** (sección 1.1 · Estándares de longitud, masa y tiempo): las tres cantidades fundamentales, el SI y sus unidades, la evolución del estándar de **longitud** (yarda de 1120, pie de Luis XIV, metro de 1799, criptón 86 y el metro de 1983 = la luz en el vacío), la Tabla 1.1 de longitudes, y el estándar de **masa** (el kilogramo de platino-iridio de Sèvres, 1887; el duplicado del NIST; masa contra peso).
+**EN CURSO.** Escritas las páginas impresas **3–5** (sección **1.1 completa** · Estándares de longitud, masa y tiempo): las cantidades fundamentales y el SI; la **longitud** (yarda de 1120, pie de Luis XIV, metro de 1799, criptón 86 y metro de 1983 = la luz en el vacío) con la Tabla 1.1; la **masa** (el kilogramo de platino-iridio de Sèvres, 1887; masa contra peso) con la Tabla 1.2; y el **tiempo** (el día solar medio antes de 1967; el reloj atómico de cesio 133 = 9 192 631 770 vibraciones; el sistema usual U.S. = pie, slug, segundo) con la Tabla 1.3.
 
-**Pendiente:** EN CURSO. Sigue en la **p.5** (el estándar de **tiempo** — el segundo y el reloj atómico de cesio) y de ahí al resto del Cap. 1 (1.2 a 1.6, hasta la p.16).
+**Pendiente:** EN CURSO. Con la p.5 queda cerrada la sección **1.1**. Sigue **1.2 · Modelado y representaciones alternativas** (p.6) y de ahí 1.3 a 1.6, hasta la p.16.
 
 ---
 
@@ -284,3 +284,127 @@ En relación con el libro de Física, ¿por qué nunca sería correcto afirmar q
 **Subtema:** masa · masa y peso
 
 "Nunca sería correcto afirmar que un número de kilogramos es *igual* a un número de libras, porque estas unidades representan diferentes variables. Un kilogramo es una unidad de *masa*, mientras que una libra es una unidad de *peso*."
+
+---
+
+## Sub-lote 3 · El estándar de tiempo (p.5)
+
+### 17
+
+De acuerdo con el libro de Física, antes de 1967, ¿en términos de qué se definía el estándar de tiempo?
+
+- A. Del día solar medio
+- B. De las vibraciones del átomo de cesio 133
+- C. Del periodo de las ondas de luz visible
+- D. De la rotación de la Luna alrededor de la Tierra
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 5
+**Subtema:** estándares de medición · estándar de tiempo
+
+"Antes de 1967, el estándar de tiempo fue definido en términos del *día solar medio*."
+
+### 18
+
+En relación con el libro de Física, ¿qué es un día solar?
+
+- A. El intervalo de tiempo entre apariciones sucesivas del Sol en el punto más alto que alcanza en el cielo cada día
+- B. El tiempo que tarda la Tierra en dar una vuelta completa alrededor del Sol
+- C. El intervalo entre dos mediodías consecutivos marcados por un reloj atómico
+- D. La duración de la luz del día, del amanecer al atardecer
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 5
+**Subtema:** tiempo · día solar
+
+"Un día solar es el intervalo de tiempo entre apariciones sucesivas del Sol en el punto más alto que alcanza en el cielo cada día."
+
+### 19
+
+De conformidad con el libro de Física, antes de 1967 la unidad fundamental de un segundo se definía como…
+
+- A. (1/60)(1/60)(1/24) de un día solar medio
+- B. 9 192 631 770 veces el periodo de vibración del átomo de cesio 133
+- C. La sesentava parte de un minuto solar
+- D. El intervalo de una vibración completa de una onda de luz visible
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 5
+**Subtema:** tiempo · definición del segundo
+
+"La unidad fundamental de un segundo (s) fue definida como (1/60)(1/60)(1/24) de un día solar medio."
+
+### 20
+
+De acuerdo con el libro de Física, en 1967 el segundo fue redefinido para aprovechar la precisión de un dispositivo conocido como…
+
+- A. El reloj atómico, que mide vibraciones de átomos de cesio
+- B. El interferómetro láser, que mide longitudes de onda
+- C. El péndulo de Foucault, que mide la rotación terrestre
+- D. La balanza de torsión, que mide fuerzas gravitacionales
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 5
+**Subtema:** tiempo · reloj atómico
+
+"En 1967, el segundo fue redefinido para obtener ventaja de la enorme precisión que se logra con un dispositivo conocido como *reloj atómico*, que mide vibraciones de átomos de cesio."
+
+### 21
+
+En relación con el libro de Física, ¿cómo se define actualmente un segundo?
+
+- A. Como 9 192 631 770 veces el periodo de vibración de la radiación del átomo de cesio 133
+- B. Como (1/60)(1/60)(1/24) de un día solar medio
+- C. Como 1 650 763.73 periodos de la radiación del criptón 86
+- D. Como el tiempo que la luz tarda en recorrer 299 792 458 metros en el vacío
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 5
+**Subtema:** tiempo · definición del segundo
+
+"Ahora un segundo se define como 9 192 631 770 veces el periodo de vibración de la radiación del átomo de cesio 133."
+
+### 22
+
+De conformidad con el libro de Física, ¿cómo se define el *periodo*?
+
+- A. Como el intervalo de tiempo necesario para una vibración completa
+- B. Como el número de vibraciones que ocurren en un segundo
+- C. Como la distancia entre dos crestas consecutivas de una onda
+- D. Como la rapidez con que se propaga una vibración
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 5
+**Subtema:** tiempo · periodo
+
+Según la nota al pie del capítulo: "El *periodo* se define como el intervalo de tiempo necesario para una vibración completa."
+
+### 23
+
+De acuerdo con el libro de Física, en el sistema usual de Estados Unidos, ¿cuáles son las unidades de longitud, masa y tiempo?
+
+- A. Pie (ft), slug y segundo
+- B. Metro, kilogramo y segundo
+- C. Pie, libra y hora
+- D. Yarda, slug y minuto
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 5
+**Subtema:** unidades · sistema usual U.S.
+
+"En este sistema las unidades de longitud, masa y tiempo son pie (ft), slug y segundo, respectivamente."
+
+### 24
+
+En relación con el libro de Física (Tabla 1.2), ¿cuál es la masa aproximada del Sol?
+
+- A. 1.99 × 10³⁰ kg
+- B. 5.98 × 10²⁴ kg
+- C. 7.36 × 10²² kg
+- D. 1.67 × 10⁻²⁷ kg
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 5
+**Subtema:** masa · valores de la Tabla 1.2
+
+Según la Tabla 1.2 (Masas aproximadas de varios objetos), el Sol tiene una masa de "1.99 × 10³⁰" kg. (Los distractores son masas de la misma tabla: Tierra 5.98 × 10²⁴, Luna 7.36 × 10²², átomo de hidrógeno 1.67 × 10⁻²⁷.)
