@@ -235,12 +235,53 @@ El conteo crudo, si sólo quieres el número:
 grep -c "^### " docs/examen-cultural/HCM/*.md
 ```
 
-En palabras, que sí es estable aunque cambien los números:
+En palabras, que sí es estable aunque cambien los números (al **15 ago 2026**):
 
-- **Geografía, Español e Historia están cerradas**, con todo el alcance que pide
-  el temario.
-- **Álgebra es la única materia abierta**, y es la que más falta: Preliminares
-  va avanzando y los capítulos I–VI aún no se empiezan.
+- **El HCM está cerrado del todo**, y con él Geografía, Español, Historia y su
+  parte de Álgebra. *(La nota de abajo, "Álgebra es la única abierta y los
+  capítulos I–VI aún no se empiezan", era de julio y ya no aplica: **Álgebra
+  Baldor quedó cerrada del todo** para los ocho planteles que la piden.)*
+- **Ocho de los once planteles con temario están cerrados:** HCM, EMA, EMI,
+  EMMG, EME, EMM, EMO y EMOS.
+- **Lo que sigue abierto** son los libros nuevos: **Geografía Lucio Victorio**,
+  **Física Serway** y **Matemáticas Larson** (los tres de la EMEFA) y **Cálculo
+  Salazar** (de la EMT). Más el hueco de Física U11 de la EMMA.
+- **Cuidado con lo que `ESTADO.md` no puede ver:** sólo cuenta libros que ya
+  tienen `.md`. Un libro del temario sin un solo archivo **no aparece como
+  pendiente en ningún lado**. Para saber qué falta de verdad hay que cruzar
+  `temarios.json` contra las carpetas de `docs/examen-cultural/`.
+
+### La EMT, desbloqueada el 15 ago 2026
+
+La **Escuela Militar de Transmisiones** llevaba meses parada por no tener temario.
+Carlo lo entregó el 15 ago:
+`examen_cultural/temarios_de_escuelas/EMT/EMT_TRANS_LIC_TICS_2026.pdf`.
+
+> **`temarios.json` todavía NO la incluye.** Ese archivo se generó antes y sólo trae
+> 10 planteles. Hay que volver a correr `tools/temarios/extraer-temarios.py` para que
+> la EMT entre a los cruces automáticos.
+
+Pide **4 materias**, y los cuatro escaneos ya están en `libros_examen_cultural/EMT/`.
+**Dos quedaron cubiertas sin escribir un solo reactivo:**
+
+| Materia | Libro | Estado |
+|---|---|---|
+| Álgebra | Baldor | **Ya está.** Pide I, II, III, IV, V, VIII, X, XVIII, XX y XXIV — los diez escritos y cerrados |
+| Metodología | Baena Paz, Patria 3ª 2017 | **Ya está.** Bloque 1 completo |
+| Español | Zarzar | Bloques 1–4 ya están; **falta el Bloque 6 · Textos Expositivos** |
+| Cálculo Diferencial | Salazar / Bahena / Velázquez, Patria 1ª 2020 | **Libro nuevo**, en `calculo-salazar/`. Unidades 1, 2 y 3; la 4 no la pide |
+
+**Dos cosas por verificar antes de tocar el Español de la EMT:**
+
+1. Su escaneo se llama `TALLER DE REDACCION 2021.pdf`, pero el temario pide **4ª ed.
+   2017**, que es la que ya se trabajó para HCM y EMMG. **Si es otra edición, la
+   paginación de los 194 reactivos existentes no sirve para la EMT.**
+2. El temario pide del Bloque 3 los subtemas **3.4 Propiedades de la redacción** y
+   **3.5 Conectores discursivos**, que quizá no estén escritos: ese archivo se cerró
+   para HCM y EMMG, que pedían menos.
+
+**Errata del propio PDF del temario:** lista "3.3 Reglas de Puntuación" y enseguida
+otra vez "3.3 Propiedades de la redacción". El segundo casi seguro es el **3.4**.
 
 ### Alcance de Álgebra, decisión abierta
 
