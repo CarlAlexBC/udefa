@@ -33,9 +33,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **3–7**: la sección **1.1** completa y **1.2 · Modelado** (qué es un modelo; el modelo científico; el modelo de partícula y sus dos condiciones; las cuatro categorías de modelos; el modelo geométrico). Tablas 1.1 a 1.4 cubiertas.
+**EN CURSO.** Escritas las páginas impresas **3–8**: la sección **1.1** completa y **1.2 · Modelado** (qué es un modelo; el modelo científico; el modelo de partícula; las **cuatro categorías de modelos** —geométrico, de simplificación, de análisis y estructural— con los cuatro modelos base partícula/sistema/cuerpo rígido/ondas; y el arranque de las **representaciones alternativas**). Tablas 1.1 a 1.4 cubiertas.
 
-**Pendiente:** EN CURSO. Sigue **1.2** en la **p.8** (las demás categorías de modelos y las representaciones alternativas) y de ahí 1.3 a 1.6, hasta la p.16.
+**Pendiente:** EN CURSO. Sigue **1.2** en la **p.9** (los tipos de representaciones: mental, pictórica, gráfica, tabular, matemática) y de ahí 1.3 a 1.6, hasta la p.16.
 
 ---
 
@@ -626,3 +626,112 @@ De conformidad con el libro de Física, ¿por qué son necesarios los modelos?
 **Subtema:** modelado · necesidad de los modelos
 
 "Los modelos son necesarios porque la operación real del universo es extremadamente complicada."
+
+---
+
+## Sub-lote 6 · Las cuatro categorías de modelos y las representaciones (p.8)
+
+### 39
+
+De acuerdo con el libro de Física, ¿cómo se conoce la segunda categoría de modelos, de la que el modelo de partícula es un ejemplo?
+
+- A. Modelos de simplificación
+- B. Modelos geométricos
+- C. Modelos de análisis
+- D. Modelos estructurales
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 8
+**Subtema:** modelado · modelos de simplificación
+
+"El modelo de partícula es un ejemplo de la segunda categoría de modelos, que se conocen como *modelos de simplificación*."
+
+### 40
+
+En relación con el libro de Física, en un cuerpo rígido, ¿qué ocurre con sus moléculas?
+
+- A. Todas mantienen sus posiciones exactas respecto a las otras
+- B. Se mueven libremente unas respecto a otras, como en un líquido
+- C. Cambian de posición al aplicar cualquier fuerza
+- D. Se concentran en un solo punto de masa
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 8
+**Subtema:** modelos de simplificación · cuerpo rígido
+
+"Todas las moléculas en un cuerpo rígido mantienen sus posiciones exactas respecto a las otras."
+
+### 41
+
+De conformidad con el libro de Física, ¿qué son los modelos de análisis (tercera categoría)?
+
+- A. Tipos generales de problemas que se han resuelto antes
+- B. Construcciones geométricas que representan la situación real
+- C. Réplicas a escala reducida de los objetos de estudio
+- D. Sistemas cuya escala es muy diferente de la del mundo macroscópico
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 8
+**Subtema:** modelado · modelos de análisis
+
+"La tercera categoría es la de *modelos de análisis*, que son tipos generales de problemas que hemos resuelto antes."
+
+### 42
+
+De acuerdo con el libro de Física, ¿en cuáles cuatro modelos de simplificación se basan todos los modelos de análisis de la física clásica?
+
+- A. Partícula, sistema, cuerpo rígido y ondas
+- B. Geométrico, de simplificación, de análisis y estructural
+- C. Mental, pictórico, gráfico y matemático
+- D. Longitud, masa, tiempo y temperatura
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 8
+**Subtema:** modelos de análisis · modelos de simplificación base
+
+"Todos los modelos de análisis de física clásica se basarán en cuatro modelos de simplificación: *partícula, sistema, cuerpo rígido y ondas*."
+
+### 43
+
+En relación con el libro de Física, ¿para qué se utilizan generalmente los modelos estructurales (cuarta categoría)?
+
+- A. Para entender el comportamiento de un sistema cuya escala es muy diferente de la de nuestro mundo macroscópico
+- B. Para representar la situación real mediante una construcción geométrica
+- C. Para omitir los detalles no importantes de un problema
+- D. Para plantear problemas generales que ya se han resuelto antes
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 8
+**Subtema:** modelado · modelos estructurales
+
+"La cuarta categoría es la de *modelos estructurales*. Estos generalmente se utilizan para entender el comportamiento de un sistema cuya escala es muy diferente de la de nuestro mundo macroscópico."
+
+### 44
+
+De conformidad con el libro de Física, ¿cuál de los siguientes es un ejemplo de modelo estructural?
+
+- A. La noción de un átomo de hidrógeno como un electrón en una órbita circular alrededor de un protón
+- B. Modelar a la Tierra como una esfera perfecta
+- C. Modelar una pizza como un disco perfecto
+- D. Reemplazar un objeto extendido por una partícula de tamaño cero
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 8
+**Subtema:** modelos estructurales · ejemplo
+
+"La noción de un átomo de hidrógeno como un electrón en una órbita circular alrededor de un protón es un modelo estructural del átomo."
+
+### 45
+
+De acuerdo con el libro de Física, ¿qué es una representación?
+
+- A. Un método de visualización o representación de la información relacionada con el problema
+- B. Un sustituto simplificado del problema real
+- C. Una construcción geométrica que representa la situación real
+- D. Una réplica a escala reducida del objeto de estudio
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 8
+**Subtema:** representaciones · qué es una representación
+
+"Una representación es un método de visualización o representación de la información relacionada con el problema."
