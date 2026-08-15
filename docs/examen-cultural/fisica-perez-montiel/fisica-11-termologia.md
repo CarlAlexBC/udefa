@@ -2358,6 +2358,392 @@ En relación con el libro de Física, ¿qué se encuentra finalmente?
 
 <Y encontrar finalmente el calor específico de la misma mediante la sustitución de datos en la fórmula respectiva.>
 
+## Sub-lote 14 · Termodinámica: sistema, paredes, procesos y energía interna (pp. 360–361) — tema 13
+
+### 138
+
+De acuerdo con el libro de Física, ¿qué es la termodinámica?
+
+- A. La rama de la Física que se encarga del estudio de la transformación del calor en trabajo y viceversa.
+- B. La rama de la Física que se encarga del estudio de la transformación de la masa en energía.
+- C. La rama de la Física que estudia el movimiento de los cuerpos y sus causas.
+- D. La rama de la Física que estudia la dilatación de los cuerpos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 360
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La termodinámica es la rama de la Física que se encarga del estudio de la transformación del calor en trabajo y viceversa.>
+
+### 139
+
+De conformidad con el libro de Física, ¿en qué siglo se inició su estudio?
+
+- A. En el siglo XVIII.
+- B. En el siglo XVII.
+- C. En el siglo XIX.
+- D. En el siglo XX.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 360
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Su estudio se inició en el siglo XVIII.>
+
+### 140
+
+En relación con el libro de Física, ¿en qué se fundamentan sus principios?
+
+- A. En fenómenos comprobados experimentalmente.
+- B. En modelos matemáticos sin comprobación experimental.
+- C. En las leyes de la dinámica de Newton.
+- D. En las teorías del calórico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 360
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Y sus principios se fundamentan en fenómenos comprobados experimentalmente.>
+
+### 141
+
+De acuerdo con el libro de Física, ¿qué es un sistema termodinámico?
+
+- A. Alguna porción de materia que separamos del resto del universo por medio de un límite o frontera con el propósito de poder estudiarlo.
+- B. Toda la materia del universo considerada en conjunto.
+- C. La frontera que separa a un cuerpo caliente de uno frío.
+- D. La cantidad de calor contenida en un cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 360
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Es alguna porción de materia que separamos del resto del universo por medio de un límite o frontera con el propósito de poder estudiarlo.>
+
+### 142
+
+De conformidad con el libro de Física, ¿con qué puede estar constituida la frontera de un sistema?
+
+- A. Con paredes diatérmicas o con paredes adiabáticas.
+- B. Únicamente con paredes diatérmicas.
+- C. Únicamente con paredes adiabáticas.
+- D. Con paredes conductoras o con paredes aislantes de la electricidad.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 360
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La frontera de un sistema puede estar constituida con paredes diatérmicas o con paredes adiabáticas.>
+
+### 143
+
+En relación con el libro de Física, ¿qué es una pared diatérmica?
+
+- A. Aquella que permite la interacción térmica del sistema con los alrededores.
+- B. Aquella que no permite que exista interacción térmica del sistema con los alrededores.
+- C. Aquella que impide el paso de la electricidad.
+- D. Aquella que mantiene constante el volumen del sistema.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 360
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Una pared diatérmica es aquella que permite la interacción térmica del sistema con los alrededores.>
+
+### 144
+
+De acuerdo con el libro de Física, ¿qué es una pared adiabática?
+
+- A. Aquella que no permite que exista interacción térmica del sistema con los alrededores.
+- B. Aquella que permite la interacción térmica del sistema con los alrededores.
+- C. Aquella que permite el paso del calor pero no el de la materia.
+- D. Aquella que mantiene constante la presión del sistema.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 360
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Una pared adiabática no permite que exista interacción térmica del sistema con los alrededores.>
+
+### 145
+
+De conformidad con el libro de Física, ¿qué cabe señalar respecto de las paredes adiabáticas?
+
+- A. Que ninguna pared es 100% adiabática, pues toda la materia al recibir calor aumenta su temperatura.
+- B. Que toda pared de asbesto es 100% adiabática.
+- C. Que ninguna pared es 100% diatérmica.
+- D. Que las paredes adiabáticas impiden por completo el aumento de temperatura de la materia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 360
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Cabe señalar que ninguna pared es 100% adiabática, pues toda la materia al recibir calor aumenta su temperatura.>
+
+### 146
+
+En relación con el libro de Física, ¿cuándo es adiabático un proceso térmico?
+
+- A. Si el sistema no cede ni recibe calor, por lo que se realiza a calor constante.
+- B. Si el sistema cede y recibe calor de manera alternada.
+- C. Si el sistema interacciona térmicamente con los alrededores.
+- D. Si el sistema mantiene constante su volumen.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Un proceso térmico es adiabático si el sistema no cede ni recibe calor, por lo que se realiza a calor constante ΔQ = 0.>
+
+### 147
+
+De acuerdo con el libro de Física, ¿qué fronteras se utilizan para ello?
+
+- A. Fronteras hechas con paredes adiabáticas.
+- B. Fronteras hechas con paredes diatérmicas.
+- C. Fronteras hechas de metal.
+- D. Fronteras abiertas a los alrededores.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Para ello se utilizan fronteras hechas con paredes adiabáticas.>
+
+### 148
+
+De conformidad con el libro de Física, ¿cuándo es no adiabático un proceso térmico?
+
+- A. Cuando el sistema interacciona térmicamente con los alrededores.
+- B. Cuando el sistema no cede ni recibe calor.
+- C. Cuando el sistema se encuentra en equilibrio termodinámico.
+- D. Cuando el sistema alcanza su punto triple.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Un proceso térmico es no adiabático cuando el sistema interacciona térmicamente con los alrededores.>
+
+### 149
+
+En relación con el libro de Física, en ese caso, ¿a través de qué fluye el calor?
+
+- A. A través de las paredes diatérmicas que constituyen la frontera.
+- B. A través de las paredes adiabáticas que constituyen la frontera.
+- C. A través del vacío que rodea al sistema.
+- D. A través de la energía interna de las moléculas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El calor fluye a través de las paredes diatérmicas que constituyen la frontera y se produce un cambio tanto en los alrededores como en el sistema mismo.>
+
+### 150
+
+De acuerdo con el libro de Física, ¿de qué depende la cantidad de calor intercambiado en los procesos no adiabáticos?
+
+- A. De la sustancia y del proceso del que se trate.
+- B. Únicamente de la sustancia de que se trate.
+- C. Únicamente del proceso de que se trate.
+- D. Del espesor de las paredes adiabáticas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La cantidad de calor intercambiado en éstos depende de la sustancia y del proceso del que se trate.>
+
+### 151
+
+De conformidad con el libro de Física, según la figura 11.20, ¿de qué está hecha la pared diatérmica?
+
+- A. De metal.
+- B. De asbesto.
+- C. De vidrio.
+- D. De madera.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Pared diatérmica (hecha de metal).>
+
+### 152
+
+En relación con el libro de Física, según la figura 11.21, ¿de qué está hecha la pared adiabática?
+
+- A. De asbesto.
+- B. De metal.
+- C. De aluminio.
+- D. De cobre.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Pared adiabática (hecha de asbesto).>
+
+### 153
+
+De acuerdo con el libro de Física, cuando un sistema de baja temperatura se pone en contacto por medio de una pared diatérmica con otro de mayor temperatura, ¿qué sucede?
+
+- A. La temperatura del sistema frío aumenta mientras la temperatura del sistema caliente disminuye.
+- B. La temperatura del sistema frío disminuye mientras la temperatura del sistema caliente aumenta.
+- C. Ambas temperaturas aumentan por igual.
+- D. Ninguna de las dos temperaturas cambia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La temperatura del sistema frío aumenta mientras la temperatura del sistema caliente disminuye.>
+
+### 154
+
+De conformidad con el libro de Física, si se mantiene ese contacto por un periodo largo, ¿qué se establecerá?
+
+- A. El equilibrio termodinámico, es decir, ambos sistemas tendrán la misma temperatura.
+- B. El punto triple, es decir, ambos sistemas coexistirán en tres fases.
+- C. Un proceso adiabático entre ambos sistemas.
+- D. Una pared adiabática entre ambos sistemas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Se establecerá el equilibrio termodinámico, es decir, ambos sistemas tendrán la misma temperatura.>
+
+### 155
+
+En relación con el libro de Física, si los sistemas están formados por diferentes sustancias, ¿qué ocurre aunque su temperatura sea igual?
+
+- A. No contienen la misma cantidad de energía interna.
+- B. Contienen exactamente la misma cantidad de energía interna.
+- C. No pueden alcanzar el equilibrio termodinámico.
+- D. Intercambian calor de manera indefinida.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Es evidente que si los sistemas están formados por diferentes sustancias o diferentes porciones de ellas, no contienen la misma cantidad de energía interna aunque su temperatura sea igual.>
+
+### 156
+
+De acuerdo con el libro de Física, cuando la temperatura de un cuerpo caliente empieza a descender, ¿qué hacen sus moléculas?
+
+- A. Reducen el número total e intensidad de sus procesos de movimiento.
+- B. Aumentan el número total e intensidad de sus procesos de movimiento.
+- C. Se detienen por completo.
+- D. Se separan hasta alcanzar el estado gaseoso.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Cuando la temperatura de un cuerpo caliente empieza a descender, las moléculas reducen el número total e intensidad de sus procesos de movimiento.>
+
+### 157
+
+De conformidad con el libro de Física, por definición, ¿qué es el punto triple de una sustancia?
+
+- A. Aquel en el cual sus tres fases (sólido, líquido y gaseoso) coexisten en equilibrio termodinámico.
+- B. Aquel en el cual sus tres fases se separan por completo.
+- C. Aquel en el cual la sustancia pasa de sólido a gaseoso sin pasar por líquido.
+- D. Aquel en el cual la sustancia alcanza su punto de ebullición.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Por definición, el punto triple de una sustancia es aquel en el cual sus tres fases (sólido, líquido y gaseoso) coexisten en equilibrio termodinámico.>
+
+### 158
+
+En relación con el libro de Física, ¿cuál es la temperatura del punto triple del agua?
+
+- A. 273.16 K.
+- B. 273.16 °C.
+- C. 100 K.
+- D. 237.16 K.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La temperatura del punto triple del agua es de 273.16 K.>
+
+### 159
+
+De acuerdo con el libro de Física, si un cuerpo sólido que se encuentra a una presión menor a la de su punto triple es calentado, ¿qué ocurre?
+
+- A. Directamente se gasifica sin pasar por el estado líquido, efectuándose así una sublimación.
+- B. Se funde y después se gasifica, pasando por el estado líquido.
+- C. Permanece sólido sin importar cuánto calor reciba.
+- D. Alcanza su punto triple y coexiste en tres fases.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Si un cuerpo sólido que se encuentra a una presión menor a la de su punto triple es calentado, directamente se gasifica sin pasar por el estado líquido, efectuándose así una sublimación.>
+
+### 160
+
+De conformidad con el libro de Física, ¿cómo se define la energía interna de un sistema?
+
+- A. Como la suma de las energías cinética y potencial de las moléculas individuales que lo constituyen.
+- B. Como la suma del calor cedido y del calor absorbido por el sistema.
+- C. Como la diferencia entre la energía cinética y la potencial de sus moléculas.
+- D. Como la cantidad de calor que el sistema puede transformar en trabajo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La energía interna de un sistema se define como la suma de las energías cinética y potencial de las moléculas individuales que lo constituyen.>
+
+### 161
+
+En relación con el libro de Física, ¿por qué sólo se determina la variación que sufre la energía interna del sistema?
+
+- A. Porque los valores absolutos de ésta en las moléculas no se pueden precisar.
+- B. Porque los valores absolutos de ésta cambian con la presión.
+- C. Porque la energía interna no depende de la temperatura.
+- D. Porque la energía interna sólo existe durante los procesos adiabáticos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Sin embargo, los valores absolutos de ésta en las moléculas no se pueden precisar, motivo por el cual sólo se determina la variación que sufre la energía interna del sistema.>
+
 ---
 
-**Reactivos en este archivo:** 137
+**Reactivos en este archivo:** 161
