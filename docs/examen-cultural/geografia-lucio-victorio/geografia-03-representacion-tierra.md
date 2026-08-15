@@ -56,8 +56,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **81**: el cierre del **3.1.2** — el **Trópico de Capricornio** (ubicación y países), los **círculos polares** (definición, y que el Ártico es el del Hemisferio Boreal y el Antártico el del Meridional), los **meridianos** (definición, número infinito, longitud y los 67.27 km que les faltan para igualar al Ecuador), el acuerdo internacional de **1884** sobre Greenwich con los cuatro nombres del Primer Meridiano, el **Antimeridiano o Meridiano de 180°** que cruza el Pacífico, y la **nota al pie 4** con la etimología de *meridiano*. **La medida del meridiano (40,007.86 km) NO lleva reactivo:** ya la pregunta la Unidad II desde el Cuadro 2.5; sí entra en cambio la diferencia de 67.27 km, que es dato nuevo. **La mitad inferior de la página es un bloque de ejercicios** ("Resuelve ahora las siguientes cuestiones") y no lleva reactivos por norma.
 - Cubierta la página impresa **82**: el **3.1.3 Concepto e importancia de la situación geográfica** completo —la definición, el ejemplo del **Citlaltépetl o Pico de Orizaba** con sus tres niveles de localización y sus coordenadas, y las tres consecuencias que el libro enlista (el clima ecuatorial frente al de los 30° de latitud, los lugares bajos frente a los altos, y el mar como «termostato»)— y el **arranque del 3.1.4 Conceptos de latitud, longitud y altitud** (los tres datos necesarios y los complementarios). Las Figuras 3.7 y 3.8 son ilustraciones; la 3.7 rotula las mismas coordenadas que el texto.
 - Cubierta la página impresa **83**: el cierre del **3.1.4** — la **latitud** (definición, recorrido de 0° a 90°, norte o sur, y su clasificación en baja, media y alta), la **longitud** (definición, recorrido de 0° a 180°, este u oeste) y la **altitud** (definición en metros, positiva y negativa, y los dos extremos: el Everest y el Mar Muerto). **Con esta página queda cerrado el tema 3.1**, el primero de los dos que pide el temario. La Figura 3.9 es ilustración, pero se usó para resolver la errata del "ms" (ver "Erratas del libro"). **La mitad inferior de la página es un bloque de ejercicios** —marcar coordenadas en una gráfica y elaborar un mapa del lugar donde se habita— y no lleva reactivos por norma.
+- Cubierta la página impresa **84**: el arranque del **3.2** con el **3.2.1 Las zonas térmicas** — las **cinco zonas** que delimitan los trópicos y círculos polares, la **zona tórrida o cálida** (ubicación, sus otros nombres, el calor casi todo el año, la Meseta de Anáhuac como ejemplo de descenso por altitud, y que es la más lluviosa de todas) y las **dos zonas templadas** (ubicación en cada hemisferio, las estaciones del año, y por qué en ellas vive más de la mitad de la población mundial). **La mitad superior de la página no lleva reactivos:** es el espacio en blanco del ejercicio de la p.83 (el mapa y la ficha de situación geográfica). Las **zonas frías o glaciales** arrancan al pie de la página pero la frase queda **cortada a media línea**, así que se trabajan enteras en la p.85. La Figura 3.10 es ilustración.
 
-**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2 Zonas térmicas, estaciones del año y husos horarios**, que arranca en la **p.84** y es el segundo y último tema que pide el temario. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
+**Pendiente:** falta el **resto de la Unidad III** y **tres unidades más** de esta materia. **El tema 3.1 quedó CERRADO** (pp. 78–83); de esta unidad queda el **3.2**, del que va cubierta la p.84: sigue desde la **p.85** (las zonas frías o glaciales, que quedaron cortadas a media frase al pie de la 84, y luego las estaciones del año y los husos horarios). Es el segundo y último tema que pide el temario, así que con él se cierra la Unidad III. Después van la **Unidad IV** (4.5 Formas del relieve continental; 4.6 Contaminación ambiental), la **Unidad V** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Aguas oceánicas) y la **Unidad VI** (6.1 Generalidades sobre la atmósfera; 6.2 Fenómenos meteorológicos; 6.3 El clima), cada una en su propio archivo. Mientras no exista el `.md` de la Unidad IV, éste sostiene el pendiente de Geografía.
 
 ---
 
@@ -1474,3 +1475,221 @@ En relación con el libro de Geografía, ¿cuál es la máxima altitud negativa 
 "[...] la negativa, -400 m[s] en la superficie del Mar Muerto (Israel-Jordania)."
 
 > Nota de revisor: el cuerpo del texto imprime la unidad como **"ms"**; la Figura 3.9 de la misma página escribe **"m"**, que es lo correcto. El reactivo usa metros y **no pregunta por la unidad**. Ver "Erratas del libro" en el encabezado.
+
+---
+
+## Sub-lote 7 · Las zonas térmicas: tórrida y templadas (3.2.1, p.84)
+
+### 91
+
+De acuerdo con el libro de Geografía, ¿cuántas zonas térmicas delimitan los trópicos y círculos polares, y cuáles son?
+
+- A. Cinco: una tórrida o cálida, dos templadas y dos frías o glaciales
+- B. Tres: una tórrida, una templada y una fría
+- C. Cinco: dos tórridas, dos templadas y una fría
+- D. Cuatro: dos templadas y dos frías o glaciales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · las cinco zonas
+
+"Los trópicos y círculos polares, de que antes hablamos, delimitan 5 zonas térmicas o climáticas, caracterizadas por el predominio de diferentes tipos de climas: una tórrida o cálida, dos templadas y dos frías o glaciales."
+
+### 92
+
+De conformidad con el libro de Geografía, ¿por qué las zonas térmicas se llaman también climáticas?
+
+- A. Porque están caracterizadas por el predominio de diferentes tipos de climas
+- B. Porque en cada una de ellas predomina una sola estación del año
+- C. Porque en ellas cambia la duración del día y de la noche
+- D. Porque todas reciben los rayos solares con la misma inclinación
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · las cinco zonas
+
+"[...] delimitan 5 zonas térmicas o climáticas, caracterizadas por el predominio de diferentes tipos de climas [...]"
+
+### 93
+
+En relación con el libro de Geografía, ¿dónde se encuentra la zona tórrida o cálida?
+
+- A. Entre los dos trópicos, teniendo en medio al Ecuador
+- B. Entre el Trópico de Cáncer y el Círculo Polar Ártico
+- C. Entre el Trópico de Capricornio y el Círculo Polar Antártico
+- D. Dentro de los círculos polares, teniendo en el centro a los polos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · zona tórrida
+
+"La zona tórrida o cálida se encuentra entre los dos trópicos, teniendo en medio al Ecuador [...]"
+
+### 94
+
+De acuerdo con el libro de Geografía, ¿con qué otros nombres se llama a la zona tórrida?
+
+- A. Intertropical o ecuatorial
+- B. Templada o media
+- C. Glacial o polar
+- D. Boreal o septentrional
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · zona tórrida
+
+"[...] teniendo en medio al Ecuador, por lo cual es llamada también intertropical o ecuatorial."
+
+### 95
+
+De conformidad con el libro de Geografía, ¿en qué estación se registra un ligero descenso de temperatura en la zona tórrida?
+
+- A. Sólo en invierno
+- B. Sólo en otoño
+- C. En primavera y otoño
+- D. En ninguna: la temperatura se mantiene igual todo el año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · zona tórrida
+
+"En ella hace calor casi todo el año, pues sólo en invierno se registra un ligero descenso de temperatura [...]"
+
+### 96
+
+En relación con el libro de Geografía, ¿qué lugar elevado pone el libro como ejemplo de descenso de temperatura por razones de altitud dentro de la zona tórrida?
+
+- A. La Meseta Central Mexicana o Meseta de Anáhuac
+- B. La Península de Yucatán
+- C. La Sierra Madre Occidental
+- D. La Meseta del Tíbet
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · zona tórrida
+
+"[...] ésta disminuye también, por razones de altitud, en los lugares elevados, como la Meseta Central Mexicana o Meseta de Anáhuac."
+
+> Nota de revisor: el aspirante retiene "en lo alto hace menos calor" y suelta el ejemplo, que es lo único citable de esa frase.
+
+### 97
+
+De acuerdo con el libro de Geografía, ¿cómo son las lluvias en la zona tórrida?
+
+- A. Suelen ser abundantes, siendo ésta la zona climática más lluviosa de todas
+- B. Suelen ser escasas, siendo ésta la zona climática más seca de todas
+- C. Son abundantes únicamente durante el invierno
+- D. Son moderadas y muy regulares a lo largo de todo el año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · zona tórrida
+
+"Las lluvias suelen ser abundantes, siendo esta zona climática la más lluviosa de todas."
+
+### 98
+
+De conformidad con el libro de Geografía, ¿entre qué se encuentra la zona templada del Hemisferio Norte?
+
+- A. Entre el Trópico de Cáncer y el Círculo Polar Ártico
+- B. Entre el Trópico de Capricornio y el Círculo Polar Antártico
+- C. Entre el Ecuador y el Trópico de Cáncer
+- D. Dentro del Círculo Polar Ártico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · zonas templadas
+
+"Las zonas templadas son dos: una en el Hemisferio Norte, entre el Trópico de Cáncer y el Círculo Polar Ártico [...]"
+
+### 99
+
+En relación con el libro de Geografía, ¿entre qué se encuentra la zona templada del Hemisferio Sur?
+
+- A. Entre el Trópico de Capricornio y el Círculo Polar Antártico
+- B. Entre el Trópico de Cáncer y el Círculo Polar Ártico
+- C. Entre el Ecuador y el Trópico de Capricornio
+- D. Dentro del Círculo Polar Antártico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · zonas templadas
+
+"[...] otra en el Hemisferio Sur, entre el Trópico de Capricornio y el Círculo Polar Antártico."
+
+> Nota de revisor: las dos templadas van en reactivos separados con las opciones cruzadas. Quien sólo recuerde "entre un trópico y un círculo polar" tiene que saber cuál con cuál.
+
+### 100
+
+De acuerdo con el libro de Geografía, ¿en qué zonas se notan más las estaciones del año?
+
+- A. En las templadas
+- B. En la tórrida o cálida
+- C. En las frías o glaciales
+- D. En todas por igual
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · zonas templadas
+
+"En ellas es donde más se notan las estaciones del año [...]"
+
+### 101
+
+De conformidad con el libro de Geografía, ¿cómo son la primavera y el otoño en las zonas templadas?
+
+- A. Registran generalmente una temperatura benigna y agradable
+- B. Registran temperaturas extremas, con heladas frecuentes
+- C. Son las dos estaciones más lluviosas del año
+- D. Registran las temperaturas más altas de todo el año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · zonas templadas
+
+"[...] la primavera y el otoño registran generalmente una temperatura benigna y agradable, los veranos suelen ser calurosos y los inviernos fríos [...]"
+
+### 102
+
+En relación con el libro de Geografía, ¿qué se registra con cierta frecuencia en los inviernos de las zonas templadas?
+
+- A. Heladas y nevadas
+- B. Lluvias abundantes y tormentas eléctricas
+- C. Sequías prolongadas
+- D. Vientos huracanados
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · zonas templadas
+
+"[...] los veranos suelen ser calurosos y los inviernos fríos, registrándose con cierta frecuencia heladas y nevadas."
+
+### 103
+
+De acuerdo con el libro de Geografía, ¿por qué las zonas templadas son las más propicias para los seres humanos?
+
+- A. Porque el ser humano se adapta mejor a regiones de clima templado medio húmedo, que es el predominante en ellas
+- B. Porque en ellas las lluvias son las más abundantes de todas las zonas
+- C. Porque en ellas no llegan a notarse las estaciones del año
+- D. Porque son las que se encuentran más cerca del Ecuador
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · zonas templadas
+
+"Estas zonas son las más propicias para los seres humanos, quienes se adaptan mejor a regiones de clima templado medio húmedo, que es precisamente el predominante en las zonas templadas."
+
+### 104
+
+De conformidad con el libro de Geografía, ¿qué proporción de la población mundial se localiza en las zonas templadas?
+
+- A. Más de la mitad
+- B. Menos de la cuarta parte
+- C. Casi la totalidad
+- D. Alrededor de la décima parte
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 84
+**Subtema:** zonas térmicas · zonas templadas
+
+"No es de extrañarse, por lo tanto, que en ellas se localice más de la mitad de la población mundial."
