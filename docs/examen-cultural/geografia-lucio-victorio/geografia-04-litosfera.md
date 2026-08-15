@@ -42,13 +42,14 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Arrancado el tema **4.5** con el **4.5.1** completo y la primera mitad del **4.5.2**.
+**EN CURSO.** El tema **4.5 Formas del relieve continental** está **CERRADO** (pp. 138–141, sus tres subtemas). Falta el **4.6**.
 
 - Cubierta la página impresa **138**: el **4.5.1 Concepto y clasificación de las formas del relieve** completo — la definición de relieve terrestre, la comparación con las arrugas de una naranja, el desnivel entre el Everest y la Fosa de las Marianas, y el **Cuadro 4.6** con la clasificación entera (formas del relieve continental y submarino con sus subdivisiones). **La mitad superior de la página es la portadilla ilustrada de la Unidad IV** y no lleva reactivos.
 - Cubierta la página impresa **139**: el arranque del **4.5.2** con el apartado **Depresiones y llanuras** completo — las depresiones absolutas (el Ghor y el Mar Caspio) y relativas (barrancas, desfiladeros y las «cubetas» de África), y las llanuras con sus tres clases (aluviales, de sedimentación marina y penillanuras). La Figura 4.22 es ilustración y no lleva reactivos. El apartado **Colinas y mesetas** arranca al pie de la página pero **queda cortado a media frase**, así que se trabaja entero en la p.140. **Su pie ya quedó cubierto** por los reactivos **49 a 51**, que citan la p.139 porque ahí está impresa la definición de colina (posición media entre llanuras y montañas, altitud menor de 1,000 m y desniveles); van al final del sub-lote 3 para no romper la numeración corrida.
 - Cubierta la página impresa **140**: el cierre de **Colinas** (los **lomeríos** y **cuchillas** que forman al asociarse); las **mesetas** completas (el parecido con una mesa, los **altiplanos** o **altiplanicies**, y el criterio de altitud **mayor de 500 m**); y el apartado **Montañas** completo — la definición (las porciones más elevadas de la superficie terrestre), el umbral aceptado de **más de 1,000 m**, la clasificación en **altitud media** (1,000 a 2,000 m, cimas suaves y laderas de escasa pendiente) y **altas** (más de 2,000 m, picos agudos, crestas y aristas, laderas abruptas y quebradas), las **sierras** y su porqué, las **cordilleras** que se agrupan en la **Cordillera Universal**, y los **macizos montañosos** con el ejemplo de los Tuxtlas, en Veracruz. **Las altitudes (500 m, 1,000 m, 1,000–2,000 m y 2,000 m) se verificaron con `crop.py` a 600 dpi.** Las Figuras 4.23 y 4.24 son fotografías y no llevan reactivos.
+- Cubierta la página impresa **141**: el **4.5.3 Importancia de las formas del relieve continental** completo — la importancia para la vida vegetal y animal y para las actividades humanas, la influencia determinante sobre el clima, la hidrografía, la vegetación y la fauna, el asentamiento preferente en las **llanuras de las zonas templadas y las mesetas de la zona tórrida** con sus razones, el reparto de la población (**95%** a menos de 500 m, **3%** entre 500 y 1,000 m, **2%** a más de 1,000 m), la población casi nula por encima de los **4,000 m** con los ejemplos de **Cerro de Pasco** (4,259 m, Perú) y **Potosí** (4,040, Bolivia) en regiones forestales y mineras, **Wenchuan** como la ciudad más elevada del mundo (5,100 m, provincia china de Tsinghai, junto a la carretera Tsinghai-Tibet y la cordillera de Tanggula) comparada con el **Iztaccíhuatl** (5,286 m), y los dos centros de población mexicanos más altos: **Raíces** (ranchería a 3,500 m en las faldas del Nevado de Toluca) y **El Conejo** (municipio de Perote, Veracruz, a unos 3,300 m). **Con esta página queda CERRADO el tema 4.5.** **Todas las cifras de la página se verificaron con `crop.py` a 600 dpi.** **La mitad inferior de la página es un bloque de ejercicios** ("Escribe en los paréntesis de la derecha las letras que señalen la respuesta correcta") y no lleva reactivos por norma.
 
-**Pendiente:** EN CURSO. Sigue desde la **p.141** con el **4.5.3**, y después todo el **4.6** (pp. 142–150), hasta cerrar en la **p.150**: la Unidad V empieza en la 151. Con la p.140 quedó cerrado el **4.5.2**.
+**Pendiente:** EN CURSO. El tema **4.5 quedó CERRADO** (pp. 138–141). Sigue desde la **p.142** con todo el **4.6 La contaminación ambiental** (pp. 142–150) —4.6.1 Concepto y clasificación (p.142), 4.6.2 Causas y consecuencias (p.144) y 4.6.3 La contaminación del suelo y el subsuelo (p.145)—, hasta cerrar en la **p.150**: la Unidad V empieza en la 151. Con el 4.6 se cierra la Unidad IV.
 
 ---
 
@@ -835,4 +836,276 @@ En relación con el libro de Geografía, ¿qué presentan las colinas, igual que
 **Subtema:** formas del relieve continental · desniveles de las colinas
 
 "Como las segundas, presentan desniveles, o sea, partes elevadas y deprimidas."
+
+## Sub-lote 4 · Importancia de las formas del relieve continental (4.5.3, p. 141)
+
+### 52
+
+De acuerdo con el libro de Geografía, ¿para qué tienen una enorme importancia las formas del relieve continental?
+
+- A. Para el desarrollo de la vida vegetal y animal, así como para la realización de las actividades humanas
+- B. Para la formación de las rocas y los minerales del subsuelo
+- C. Para el trazado de los husos horarios y las coordenadas geográficas
+- D. Para la delimitación de las zonas térmicas de la Tierra
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · concepto
+
+"Las formas del relieve continental tienen una enorme importancia para el desarrollo de la vida vegetal y animal, así como para la realización de las actividades humanas."
+
+### 53
+
+De conformidad con el libro de Geografía, ¿sobre qué otros elementos geográficos ejercen una influencia determinante?
+
+- A. El clima, la hidrografía, la vegetación y la fauna
+- B. El clima, la hidrografía, la latitud y la longitud
+- C. Las zonas térmicas, las estaciones del año y los husos horarios
+- D. La altitud, la latitud, la longitud y la situación geográfica
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · influencia sobre otros elementos
+
+"Ejercen una influencia determinante sobre otros elementos geográficos como el clima, la hidrografía, la vegetación y la fauna."
+
+### 54
+
+En relación con el libro de Geografía, ¿dónde se asienta de preferencia la población humana?
+
+- A. En las llanuras de las zonas templadas y las mesetas de la zona tórrida
+- B. En las mesetas de las zonas templadas y las llanuras de la zona tórrida
+- C. En las llanuras y colinas de las zonas frías
+- D. En las montañas de altitud media de la zona tórrida
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · asentamiento humano
+
+"Por lo que respecta a la población humana, ésta se asienta de preferencia en las llanuras de las zonas templadas y las mesetas de la zona tórrida."
+
+### 55
+
+De acuerdo con el libro de Geografía, ¿por qué razones se asienta ahí?
+
+- A. El clima estable y moderado, la abundancia de agua y tierras fértiles, las posibilidades de practicar la agricultura y la ganadería, la facilidad de las comunicaciones
+- B. El clima extremoso, la abundancia de minerales, las posibilidades de practicar la minería y la facilidad de las comunicaciones
+- C. La altitud elevada, la abundancia de bosques y la facilidad de las comunicaciones
+- D. La cercanía a los polos, la abundancia de agua y la facilidad de la pesca
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · razones del asentamiento
+
+"Por varias razones: el clima estable y moderado, la abundancia de agua y tierras fértiles, las posibilidades de practicar la agricultura y la ganadería, la facilidad de las comunicaciones, etc."
+
+### 56
+
+De conformidad con el libro de Geografía, ¿qué porcentaje de la población humana vive en depresiones, costas, llanuras y colinas, y a qué altitud?
+
+- A. Un 95%, a menos de 500 m de altitud
+- B. Un 95%, a menos de 1,000 m de altitud
+- C. Un 85%, a menos de 500 m de altitud
+- D. Un 95%, a menos de 200 m de altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · distribución de la población
+
+"Un 95% en depresiones, costas, llanuras y colinas, a menos de 500 m de altitud."
+
+### 57
+
+En relación con el libro de Geografía, ¿qué porcentaje vive en colinas y mesetas, y entre qué altitudes?
+
+- A. Un 3%, entre 500 y 1,000 m de altitud
+- B. Un 2%, entre 500 y 1,000 m de altitud
+- C. Un 3%, entre 1,000 y 2,000 m de altitud
+- D. Un 5%, entre 500 y 1,000 m de altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · distribución de la población
+
+"Un 3% en colinas y mesetas, entre 500 y 1,000 m de altitud."
+
+### 58
+
+De acuerdo con el libro de Geografía, ¿qué porcentaje vive en mesetas y montañas, y a qué altitud?
+
+- A. Un 2%, a más de 1,000 m de altitud
+- B. Un 3%, a más de 1,000 m de altitud
+- C. Un 2%, a más de 2,000 m de altitud
+- D. Un 5%, a más de 1,000 m de altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · distribución de la población
+
+"Un 2% en mesetas y montañas, a más de 1,000 m de altitud."
+
+### 59
+
+De conformidad con el libro de Geografía, ¿a partir de qué altitud la población humana es casi nula?
+
+- A. A más de 4,000 m de altitud
+- B. A más de 3,000 m de altitud
+- C. A más de 5,000 m de altitud
+- D. A más de 2,000 m de altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · límite de la población
+
+"A más de 4,000 m de altitud, la población humana es casi nula."
+
+### 60
+
+En relación con el libro de Geografía, ¿en qué países se han construido poblaciones permanentes a esas altitudes?
+
+- A. Sólo en algunos países andinos e himaláyicos
+- B. Sólo en algunos países andinos y africanos
+- C. Sólo en algunos países europeos y asiáticos
+- D. Sólo en algunos países himaláyicos y árticos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · poblaciones de altura
+
+"Sólo en algunos países andinos e himaláyicos se han construido poblaciones permanentes."
+
+### 61
+
+De acuerdo con el libro de Geografía, ¿a qué altitud se encuentra Cerro de Pasco y en qué país?
+
+- A. A 4,259 m de altitud, en Perú
+- B. A 4,040 m de altitud, en Perú
+- C. A 4,259 m de altitud, en Bolivia
+- D. A 5,100 m de altitud, en Perú
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · Cerro de Pasco
+
+"Como Cerro de Pasco (a 4,259 m de altitud) en Perú."
+
+### 62
+
+De conformidad con el libro de Geografía, ¿a qué altitud se encuentra Potosí y en qué país?
+
+- A. A 4,040 m de altitud, en Bolivia
+- B. A 4,259 m de altitud, en Bolivia
+- C. A 4,040 m de altitud, en Perú
+- D. A 3,500 m de altitud, en Bolivia
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · Potosí
+
+"Y Potosí (a 4,040) en Bolivia."
+
+### 63
+
+En relación con el libro de Geografía, ¿en qué tipo de regiones se construyeron esas poblaciones?
+
+- A. En regiones forestales y mineras
+- B. En regiones agrícolas y ganaderas
+- C. En regiones costeras y pesqueras
+- D. En regiones industriales y comerciales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · regiones forestales y mineras
+
+"En Bolivia, en regiones forestales y mineras."
+
+### 64
+
+De acuerdo con el libro de Geografía, ¿cuál es la ciudad más elevada del mundo y a qué altitud se encuentra?
+
+- A. Wenchuan, a 5,100 m de altitud
+- B. Wenchuan, a 5,286 m de altitud
+- C. Cerro de Pasco, a 4,259 m de altitud
+- D. Potosí, a 4,040 m de altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · Wenchuan
+
+"Se ha construido la ciudad de Wenchuan, la más elevada del mundo, a 5,100 m de altitud."
+
+### 65
+
+De conformidad con el libro de Geografía, ¿con qué altura compara el libro la de esa ciudad?
+
+- A. Con la del Iztaccíhuatl (5,286 m)
+- B. Con la del Citlaltépetl (5,286 m)
+- C. Con la del Nevado de Toluca (5,286 m)
+- D. Con la del Iztaccíhuatl (5,100 m)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · comparación con el Iztaccíhuatl
+
+"A 5,100 m de altitud, casi la misma del Iztaccíhuatl (5,286 m)."
+
+### 66
+
+En relación con el libro de Geografía, ¿cuál es el centro de población más elevado de la República Mexicana y a qué altitud está?
+
+- A. Raíces, a 3,500 m de altitud
+- B. El Conejo, a 3,500 m de altitud
+- C. Raíces, a 3,300 m de altitud
+- D. El Conejo, a 3,300 m de altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · Raíces
+
+"El centro de población más elevado de la República Mexicana es Raíces, ranchería ubicada a 3,500 m de altitud."
+
+### 67
+
+De acuerdo con el libro de Geografía, ¿dónde se localiza El Conejo y a qué altitud?
+
+- A. En el municipio de Perote, estado de Veracruz, a unos 3,300 m de altitud
+- B. En el municipio de Perote, estado de Veracruz, a unos 3,500 m de altitud
+- C. En el Estado de México, a unos 3,300 m de altitud
+- D. En el municipio de Toluca, Estado de México, a unos 3,300 m de altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · El Conejo
+
+"En el estado de Veracruz, el centro de población de El Conejo (municipio de Perote) se localiza a unos 3,300 m de altitud."
+
+### 68
+
+De conformidad con el libro de Geografía, ¿dónde se ubica la ciudad más elevada del mundo?
+
+- A. En la provincia china de Tsinghai, cerca del punto donde la carretera Tsinghai-Tibet atraviesa la cordillera de Tanggula
+- B. En la provincia china del Tibet, cerca del punto donde la carretera Tsinghai-Tibet atraviesa la cordillera del Himalaya
+- C. En la provincia china de Tanggula, cerca del punto donde la carretera Tsinghai-Tibet atraviesa la cordillera de Tsinghai
+- D. En la provincia china de Tsinghai, cerca del punto donde el ferrocarril Tsinghai-Tibet atraviesa la cordillera de Tanggula
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · ubicación de Wenchuan
+
+"En la provincia china de Tsinghai, cerca del punto donde la carretera Tsinghai-Tibet atraviesa la cordillera de Tanggula, se ha construido la ciudad de Wenchuan."
+
+### 69
+
+En relación con el libro de Geografía, ¿qué tipo de asentamiento es Raíces y dónde se ubica?
+
+- A. Una ranchería, en las faldas del Nevado de Toluca (Edo. de México)
+- B. Una ciudad, en las faldas del Nevado de Toluca (Edo. de México)
+- C. Una ranchería, en las faldas del Iztaccíhuatl (Edo. de México)
+- D. Una ranchería, en las faldas del Citlaltépetl (Veracruz)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 141
+**Subtema:** importancia del relieve continental · ubicación de Raíces
+
+"Raíces, ranchería ubicada a 3,500 m de altitud, en las faldas del Nevado de Toluca (Edo. de México)."
 
