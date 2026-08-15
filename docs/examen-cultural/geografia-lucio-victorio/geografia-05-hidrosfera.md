@@ -41,8 +41,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 - Cubierta la página impresa **151** (sólo la **INTRODUCCIÓN**): que ningún planeta tiene tanta agua como la Tierra y que ésta cubre **más de 2/3** de la superficie —**el 70.98%**—, haciéndola más acuática que terrestre; **Tales de Mileto** y el agua como origen del mundo, con el nombre de **Oceanía**; la Tierra como único planeta donde los **tres estados físicos** del agua coexisten de manera estable y duradera, y la comparación con Mercurio, Venus, Marte y la Luna; y **dónde se encuentra el agua en cada estado** (sólido, líquido y gaseoso). **Los "Objetivos" de la unidad no llevan reactivos por norma.**
 - Cubierta la página impresa **152**: el **5.1.1 Características del agua** completo — la **composición química** (dos átomos de hidrógeno y uno de oxígeno), el agua en estado puro (**incolora, inodora e insípida**), la sustancia capaz de **absorber mayor cantidad de calor** y desprenderlo lentamente, las masas acuosas como **«termostato»** que da al planeta un clima bastante estable, la **escala centígrada de Celsius** (**0ºC** fusión y **100ºC** ebullición), el agua como **solvente** que ninguna otra sustancia iguala y la dificultad de hallarla pura, la **rareza de su densidad** (mínimo volumen y máxima densidad a **4ºC**, y el hielo que flota), lo que ocurre bajo la capa de hielo, y el escenario contrario —los **gigantescos témpanos** en pocos decenios— que muestra por qué esa propiedad es esencial para la vida. **Las tres temperaturas (0ºC, 4ºC y 100ºC) se verificaron con `crop.py` a 600 dpi.** La Figura 5.1 es un **mapa** (hemisferios continental y oceánico) y no lleva reactivos por norma.
+- Cubierta la página impresa **153**: el **5.1.2 Distribución del agua sobre la superficie terrestre** en su primera mitad — el **volumen de agua de la Tierra** (**1,386,232,020 km³**, equivalentes al **0.024%** del peso total del planeta, calculado en **5.974 x 10²¹ toneladas**), qué cuerpos de agua mantienen su cantidad **más o menos constante** (océanos, mares, golfos, bahías, ensenadas, albuferas y glaciares continentales) frente a los que **cambian a lo largo del año** (mantos acuíferos, manantiales, torrentes, arroyos, ríos, lagos, lagunas, pantanos, glaciares de alta montaña, ventisqueros, heleros y la atmósfera), y el **Cuadro 5.1** completo con la clasificación de las aguas (**oceánicas** y **continentales**, éstas en **saladas** y **dulces**, con las albuferas como lagunas costeras y las marismas como pantanos costeros). **Las tres cifras se verificaron con `crop.py` a 600 dpi.** **La mitad superior de la página es un ejercicio de repaso** (llenar espacios en blanco) y no lleva reactivos por norma.
 
-**Pendiente:** EN CURSO. Sigue desde la **p.153** con el resto del **5.1** (la distribución del agua y el ciclo del agua), y después el **5.2 Las aguas oceánicas** (desde la p.157). Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
+**Pendiente:** EN CURSO. Sigue desde la **p.154** con el resto del **5.1** (el Cuadro 5.2 de la distribución y el ciclo del agua), y después el **5.2 Las aguas oceánicas** (desde la p.157). Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
 
 ---
 
@@ -454,4 +455,186 @@ En relación con el libro de Geografía, ¿qué aguas serán vistas en los temas
 **Subtema:** características del agua · remisión a otros temas
 
 "Las características particulares e importancia de las aguas oceánicas, subterráneas, fluviales y de otro tipo, serán vistas en los temas respectivos."
+
+## Sub-lote 3 · Distribución del agua sobre la superficie terrestre (5.1.2, p. 153)
+
+### 28
+
+De acuerdo con el libro de Geografía, ¿en cuánto ha sido calculado el volumen de agua de la Tierra?
+
+- A. En 1,386,232,020 km³
+- B. En 1,386,232,020 toneladas
+- C. En 1,368,232,020 km³
+- D. En 138,623,202 km³
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 153
+**Subtema:** distribución del agua · volumen total
+
+"El volumen de agua de la Tierra ha sido calculado en 1,386,232,020 km³."
+
+### 29
+
+De conformidad con el libro de Geografía, ¿a qué porcentaje del peso total del planeta equivale ese volumen?
+
+- A. Al 0.024%
+- B. Al 0.24%
+- C. Al 2.4%
+- D. Al 0.042%
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 153
+**Subtema:** distribución del agua · porcentaje del peso del planeta
+
+"Equivalentes al 0.024% del peso total del planeta."
+
+### 30
+
+En relación con el libro de Geografía, ¿en cuánto ha sido calculado el peso total del planeta?
+
+- A. En 5.974 x 10²¹ toneladas
+- B. En 5.974 x 10¹² toneladas
+- C. En 5.479 x 10²¹ toneladas
+- D. En 5.974 x 10²¹ kilogramos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 153
+**Subtema:** distribución del agua · peso del planeta
+
+"Del peso total del planeta, calculado en 5.974 x 10²¹ toneladas."
+
+### 31
+
+De acuerdo con el libro de Geografía, ¿en qué cuerpos de agua permanece más o menos constante la cantidad presente?
+
+- A. En los océanos, mares, golfos, bahías, ensenadas y albuferas, así como en los glaciares continentales (casquetes polares)
+- B. En los mantos acuíferos, manantiales, torrentes, arroyos y ríos
+- C. En los lagos, lagunas, pantanos y glaciares de alta montaña
+- D. En los ventisqueros, heleros y la atmósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 153
+**Subtema:** distribución del agua · cantidad constante
+
+"La cantidad de agua presente en los océanos, mares, golfos, bahías, ensenadas y albuferas, así como en los glaciares continentales (casquetes polares), permanece más o menos constante."
+
+### 32
+
+De conformidad con el libro de Geografía, ¿dónde cambia esa cantidad a lo largo del año?
+
+- A. En los mantos acuíferos, manantiales, torrentes, arroyos, ríos, lagos, lagunas, pantanos, glaciares de alta montaña, ventisqueros, heleros y la atmósfera
+- B. En los océanos, mares, golfos, bahías, ensenadas y albuferas
+- C. Únicamente en los glaciares continentales y los casquetes polares
+- D. Únicamente en la atmósfera y los mantos acuíferos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 153
+**Subtema:** distribución del agua · cantidad variable
+
+"En cambio, la presente en los mantos acuíferos, manantiales, torrentes, arroyos, ríos, lagos, lagunas, pantanos, glaciares de alta montaña, ventisqueros, heleros y la atmósfera cambia a lo largo del año."
+
+### 33
+
+En relación con el libro de Geografía, según el Cuadro 5.1, ¿en qué dos grandes grupos se clasifican las aguas?
+
+- A. En oceánicas y continentales
+- B. En saladas y dulces
+- C. En superficiales y subterráneas
+- D. En constantes y variables
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 153
+**Subtema:** distribución del agua · Cuadro 5.1
+
+Cuadro 5.1, "Clasificación de las aguas": "OCEÁNICAS" y "CONTINENTALES".
+
+### 34
+
+De acuerdo con el libro de Geografía, según el Cuadro 5.1, ¿qué comprenden las aguas oceánicas?
+
+- A. Océanos; mares, golfos, bahías y ensenadas; y albuferas (lagunas costeras)
+- B. Océanos; mares, golfos, bahías y ensenadas; y marismas (pantanos costeros)
+- C. Océanos; mares y golfos; y salares
+- D. Océanos; mares, golfos y bahías; y lagos y lagunas saladas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 153
+**Subtema:** distribución del agua · aguas oceánicas
+
+Cuadro 5.1: "OCEÁNICAS — Océanos. Mares, golfos, bahías, ensenadas. Albuferas (lagunas costeras)."
+
+### 35
+
+De conformidad con el libro de Geografía, según el Cuadro 5.1, ¿cómo se subdividen las aguas continentales?
+
+- A. En saladas y dulces
+- B. En oceánicas y costeras
+- C. En superficiales y subterráneas
+- D. En constantes y variables
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 153
+**Subtema:** distribución del agua · aguas continentales
+
+Cuadro 5.1: "CONTINENTALES — Saladas [...] Dulces [...]"
+
+### 36
+
+En relación con el libro de Geografía, según el Cuadro 5.1, ¿qué comprenden las aguas continentales saladas?
+
+- A. Marismas (pantanos costeros), lagos y lagunas saladas, y salares
+- B. Marismas (pantanos costeros), albuferas y salares
+- C. Lagos y lagunas saladas, salares y mantos freáticos
+- D. Marismas (pantanos costeros), salares y ciénegas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 153
+**Subtema:** distribución del agua · continentales saladas
+
+Cuadro 5.1: "Saladas — Marismas (pantanos costeros). Lagos y lagunas saladas. Salares."
+
+### 37
+
+De acuerdo con el libro de Geografía, según el Cuadro 5.1, ¿qué son las albuferas?
+
+- A. Lagunas costeras
+- B. Pantanos costeros
+- C. Lagos salados de tierra adentro
+- D. Mantos freáticos cercanos a la costa
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 153
+**Subtema:** distribución del agua · albuferas
+
+Cuadro 5.1: "Albuferas (lagunas costeras)."
+
+### 38
+
+De conformidad con el libro de Geografía, según el Cuadro 5.1, ¿qué son las marismas?
+
+- A. Pantanos costeros
+- B. Lagunas costeras
+- C. Lagos salados de alta montaña
+- D. Charcas o ciénegas de agua dulce
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 153
+**Subtema:** distribución del agua · marismas
+
+Cuadro 5.1: "Marismas (pantanos costeros)."
+
+### 39
+
+En relación con el libro de Geografía, según el Cuadro 5.1, ¿qué comprenden las aguas continentales dulces?
+
+- A. Mantos acuíferos o freáticos; fuentes o manantiales; torrentes, arroyos y ríos; lagos y lagunas; pantanos, charcas o ciénegas; y glaciares, ventisqueros y heleros
+- B. Mantos acuíferos o freáticos; fuentes o manantiales; torrentes, arroyos y ríos; lagos y lagunas saladas; y salares
+- C. Mantos acuíferos o freáticos; albuferas; marismas; lagos y lagunas; y glaciares
+- D. Fuentes o manantiales; torrentes, arroyos y ríos; y océanos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 153
+**Subtema:** distribución del agua · continentales dulces
+
+Cuadro 5.1: "Dulces — Mantos acuíferos o freáticos. Fuentes o manantiales. Torrentes, arroyos, ríos. Lagos, lagunas. Pantanos, charcas o ciénegas. Glaciares, ventisqueros, heleros."
 
