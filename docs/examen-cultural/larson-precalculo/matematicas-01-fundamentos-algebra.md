@@ -86,7 +86,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 - Cubiertas las páginas impresas **79 y 80**, arranque del **1.9 · Ecuaciones exponenciales y logarítmicas**: la *Introducción* con las dos estrategias básicas, las condiciones sobre a, las *Propiedades biunívocas* y las *Propiedades inversas*, el recuadro *Estrategias para resolver ecuaciones exponenciales y logarítmicas* con sus tres pasos, y cuándo conviene una respuesta exacta y cuándo una aproximada. Los `EJEMPLO 1` a `EJEMPLO 3` no llevan reactivos.
 
-**Pendiente:** EN CURSO. El **1.3, el 1.4, el 1.6 y el 1.8 están CERRADOS** y el **1.9 va en curso**: sigue desde la página impresa **81**. La teoría del 1.9 llega hasta la **p. 85** (las pp. 86–88 son el bloque de `Ejercicios`). La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
+- Cubiertas las páginas impresas **81, 82 y 83**, con las que **cierra el 1.9**: qué pasa cuando una ecuación implica dos o más expresiones exponenciales, la *exponenciación de cada lado de una ecuación*, el `COMENTARIO` de comprobar en la ecuación original (respuesta correcta **y** dentro del dominio) y por qué hay que vigilar las soluciones extrañas en las ecuaciones logarítmicas. Las **pp. 84 y 85 no llevan reactivos**: son aplicaciones resueltas (`EJEMPLO 10` de interés compuesto y `EJEMPLO 11` de ventas al menudeo) más el `Resumen (sección 1.9)`. Las **pp. 86–88 son el bloque `1.9 Ejercicios`**.
+
+**Pendiente:** EN CURSO. El **1.3, el 1.4, el 1.6, el 1.8 y el 1.9 están CERRADOS**. Sigue el **1.10 · Sistemas de ecuaciones lineales y no lineales**, que arranca en la página impresa **89**; después queda el **1.11** (p. 99), con el que se cierra el capítulo 1. La teoría del 1.6 llega hasta la **p. 60** (las pp. 61–62 son el bloque de `Ejercicios`). Después faltan los otros cuatro subtemas que pide el temario —**1.8** (p. 72), **1.9** (p. 79), **1.10** (p. 89) y **1.11** (p. 99)—, y luego los otros dos capítulos del temario, cada uno en su archivo: el **2** (2.6, 2.9, 2.10, 2.15 y 2.16) y el **3** completo.
 
 ---
 
@@ -4172,5 +4174,92 @@ En relación con el libro de Matemáticas, para una respuesta final, ¿qué vent
 **Subtema:** ecuaciones exponenciales y logarítmicas · solución exacta y aproximada
 
 Para una respuesta final, una solución aproximada es más fácil de entender.
+
+---
+
+## Sub-lote 29 · Exponenciación y dominio — cierra el 1.9 (pp. 81–83)
+
+### 238
+
+De acuerdo con el libro de Matemáticas, cuando una ecuación implica dos o más expresiones exponenciales, ¿qué ocurre con el procedimiento de solución?
+
+- A. Que aún puede usarse un procedimiento similar, aunque puede incluir técnicas algebraicas adicionales
+- B. Que el procedimiento deja de servir por completo
+- C. Que sólo puede resolverse con calculadora
+- D. Que debe aplicarse la fórmula cuadrática
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 81
+**Subtema:** ecuaciones exponenciales y logarítmicas · ecuaciones exponenciales
+
+Cuando una ecuación implica dos o más expresiones exponenciales, aún se puede utilizar un procedimiento similar. Sin embargo, puede incluir técnicas algebraicas adicionales.
+
+---
+
+### 239
+
+De conformidad con el libro de Matemáticas, para resolver una ecuación logarítmica, ¿en qué forma puede escribirse?
+
+- A. En forma exponencial
+- B. En forma radical
+- C. En forma racional
+- D. En forma de valor absoluto
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 82
+**Subtema:** ecuaciones exponenciales y logarítmicas · ecuaciones logarítmicas
+
+Para resolver una ecuación logarítmica puede escribirla en forma exponencial.
+
+---
+
+### 240
+
+En relación con el libro de Matemáticas, ¿cómo se denomina el procedimiento de escribir en forma exponencial cada lado de una ecuación logarítmica?
+
+- A. Exponenciación de cada lado de una ecuación
+- B. Racionalización de cada lado de una ecuación
+- C. Condensación de cada lado de una ecuación
+- D. Cambio de base de cada lado de una ecuación
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 82
+**Subtema:** ecuaciones exponenciales y logarítmicas · exponenciación
+
+Este procedimiento se denomina exponenciación de cada lado de una ecuación.
+
+---
+
+### 241
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿para qué debe comprobarse cada solución en la ecuación original?
+
+- A. Para verificar que la respuesta es correcta y asegurarse de que está en el dominio de la ecuación original
+- B. Únicamente para verificar que la respuesta es correcta
+- C. Únicamente para asegurarse de que la respuesta es un número entero
+- D. Para determinar la base del logaritmo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 82
+**Subtema:** ecuaciones exponenciales y logarítmicas · comprobación de soluciones
+
+Al resolver las ecuaciones, recuerde comprobar sus soluciones en la ecuación original para verificar que la respuesta es correcta y asegurarse de que la respuesta está en el dominio de la ecuación original.
+
+---
+
+### 242
+
+De conformidad con el libro de Matemáticas, ¿por qué debe asegurarse de comprobar las soluciones extrañas de las ecuaciones logarítmicas?
+
+- A. Porque el dominio de una función logarítmica generalmente no incluye todos los números reales
+- B. Porque las funciones logarítmicas nunca tienen soluciones reales
+- C. Porque el dominio de una función logarítmica siempre son los números negativos
+- D. Porque las ecuaciones logarítmicas tienen siempre dos soluciones
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 83
+**Subtema:** ecuaciones exponenciales y logarítmicas · dominio y soluciones extrañas
+
+El dominio de una función logarítmica generalmente no incluye todos los números reales, por lo que debe asegurarse de comprobar las soluciones extrañas de las ecuaciones logarítmicas.
 
 ---
