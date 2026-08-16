@@ -3879,6 +3879,440 @@ En relación con el libro de Física, ¿cuándo una máquina de vapor es de comb
 
 <Una máquina de vapor es de combustión externa si el combustible se quema fuera de ella, calentando la caldera productora del vapor que la alimenta.>
 
+## Sub-lote 18 · Motores de combustión interna, Diesel y de reacción (p. 367) — tema 13
+
+### 231
+
+De acuerdo con el libro de Física, ¿qué puede hacerse con el vapor utilizado en una máquina de vapor?
+
+- A. Disiparse hacia la atmósfera, o bien, ser pasado a un condensador a fin de que al encontrarse en estado líquido se vuelva a emplear en la caldera.
+- B. Disiparse hacia la atmósfera únicamente, pues ya no puede reutilizarse.
+- C. Pasarse a un condensador para transformarlo en combustible.
+- D. Inyectarse directamente en la cámara de combustión del cilindro.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El vapor utilizado puede disiparse hacia la atmósfera, o bien, ser pasado a un condensador a fin de que al encontrarse en estado líquido se vuelva a emplear en la caldera.>
+
+### 232
+
+De conformidad con el libro de Física, ¿por qué se llaman así los motores de combustión interna o de explosión?
+
+- A. Porque el combustible se quema dentro del motor donde realiza su función.
+- B. Porque el combustible se quema fuera del motor donde realiza su función.
+- C. Porque la explosión ocurre en el interior de la caldera.
+- D. Porque no requieren ninguna mezcla carburante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Los motores de combustión interna o de explosión se llaman así porque el combustible se quema dentro del motor donde realiza su función.>
+
+### 233
+
+En relación con el libro de Física, ¿qué aprovechan estos motores?
+
+- A. La expansión de los gases producidos por la combustión viva de una mezcla carburante en la cámara de combustión del cilindro.
+- B. La contracción de los gases enfriados en la cámara de combustión del cilindro.
+- C. La energía producida por la expansión del agua al transformarse en vapor.
+- D. El principio de la acción y reacción.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Estos motores aprovechan la expansión de los gases producidos por la combustión viva de una mezcla carburante en la cámara de combustión del cilindro.>
+
+### 234
+
+De acuerdo con el libro de Física, ¿en qué se transforma el movimiento del émbolo y gracias a qué pieza?
+
+- A. En movimiento giratorio del cigüeñal, debido a la utilización de una biela.
+- B. En movimiento alternativo del cigüeñal, debido a la utilización de una tobera.
+- C. En movimiento giratorio de la biela, debido a la utilización de un cigüeñal.
+- D. En movimiento rectilíneo del vástago, debido a la utilización de una lumbrera.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Los gases empujan un émbolo y debido a la utilización de una biela el movimiento de éste se transforma en movimiento giratorio del cigüeñal.>
+
+### 235
+
+De conformidad con el libro de Física, ¿qué ocurre en el tiempo de admisión?
+
+- A. El émbolo se mueve hacia abajo, absorbiendo una mezcla de combustible y aire que procede del carburador.
+- B. El émbolo se mueve hacia arriba, comprimiendo la mezcla de combustible y aire.
+- C. El émbolo se eleva expulsando los gases quemados.
+- D. La chispa eléctrica enciende la mezcla carburante.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Admisión. El émbolo se mueve hacia abajo, absorbiendo una mezcla de combustible y aire que procede del carburador.>
+
+### 236
+
+En relación con el libro de Física, en el tiempo de compresión, ¿cómo se denomina la compresión fuerte de la mezcla carburante en la cámara de combustión?
+
+- A. Índice de compresión.
+- B. Índice de admisión.
+- C. Grado de dilatación.
+- D. Coeficiente de combustión.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Al subir el émbolo, la mezcla carburante lo comprime fuertemente en la cámara de combustión, lo cual se denomina índice de compresión.>
+
+### 237
+
+De acuerdo con el libro de Física, si al principio la mezcla ocupa la totalidad del cilindro y al final sólo llena una octava parte del mismo, ¿cuál es su índice de compresión?
+
+- A. De 8 a 1.
+- B. De 1 a 8.
+- C. De 4 a 1.
+- D. De 8 a 2.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Por ejemplo: si al principio la mezcla ocupa la totalidad del cilindro, al final sólo llenará una octava parte del mismo, es decir, su índice de compresión es de 8 a 1.>
+
+### 238
+
+De conformidad con el libro de Física, en el tiempo de explosión, ¿qué se encarga de encender e inflamar la mezcla?
+
+- A. La chispa eléctrica que salta entre los electrodos de la bujía.
+- B. La alta temperatura alcanzada por el aire comprimido.
+- C. El calor de los gases residuales del ciclo anterior.
+- D. El chorro de combustible pulverizado en la cámara.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Explosión. La chispa eléctrica que salta entre los electrodos de la bujía se encarga de encender e inflamar la mezcla.>
+
+### 239
+
+En relación con el libro de Física, ¿qué se produce entonces?
+
+- A. Una violenta dilatación de los gases encargados de empujar el émbolo hacia abajo.
+- B. Una violenta contracción de los gases que arrastra el émbolo hacia arriba.
+- C. La apertura inmediata de la válvula de admisión.
+- D. La expulsión de los gases quemados por la lumbrera de escape.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Produciéndose así una violenta dilatación de los gases encargados de empujar el émbolo hacia abajo, y al arrastrar al cigüeñal realiza trabajo mecánico.>
+
+### 240
+
+De acuerdo con el libro de Física, en el tiempo de escape, ¿dónde se encuentra la válvula de escape?
+
+- A. En la parte alta del cilindro.
+- B. En la parte baja del cilindro.
+- C. En un costado de la cámara de combustión.
+- D. En el carburador.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Escape. El émbolo se eleva de nuevo en el interior del cilindro, abriéndose la válvula de escape, la cual se encuentra en la parte alta de éste.>
+
+### 241
+
+De conformidad con el libro de Física, ¿qué expulsa el movimiento de elevación del émbolo?
+
+- A. Los gases quemados por medio de la lumbrera de escape.
+- B. La mezcla de combustible y aire sin quemar.
+- C. El aire puro aspirado en el tiempo anterior.
+- D. El vapor producido por la caldera.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El movimiento de elevación del émbolo expulsa los gases quemados por medio de la lumbrera de escape.>
+
+### 242
+
+En relación con el libro de Física, ¿a través de qué se obtienen la apertura de las válvulas y la producción de la chispa?
+
+- A. A través de mecanismos sincronizados con el cigüeñal.
+- B. A través de mecanismos sincronizados con la biela.
+- C. A través de un mando manual del conductor.
+- D. A través de la presión de los gases en la cámara.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La apertura de las válvulas de admisión y de escape, así como la producción de la chispa en la cámara de combustión se obtienen a través de mecanismos sincronizados con el cigüeñal.>
+
+### 243
+
+De acuerdo con el libro de Física, ¿cuándo generan potencia los motores cuyo ciclo es de dos tiempos?
+
+- A. Cada vez que el émbolo baja.
+- B. Cada vez que el émbolo sube.
+- C. Cada cuatro carreras del émbolo.
+- D. Únicamente al arrancar el motor.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Los motores cuyo ciclo es de dos tiempos generan potencia cada vez que el émbolo baja.>
+
+### 244
+
+De conformidad con el libro de Física, ¿cómo se logra eso?
+
+- A. Al combinar el escape, la admisión y la compresión en un solo tiempo.
+- B. Al combinar la explosión y el escape en un solo tiempo.
+- C. Al duplicar el número de bujías del motor.
+- D. Al eliminar la cámara de combustión.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Esto se logra al combinar el escape, la admisión y la compresión en un solo tiempo.>
+
+### 245
+
+En relación con el libro de Física, ¿qué tienen esos motores en lugar de válvulas de admisión y de escape?
+
+- A. Lumbreras abiertas a los lados del cilindro, tapadas y destapadas por el émbolo en su desplazamiento.
+- B. Una segunda bujía en la parte alta del cilindro.
+- C. Un carburador de doble entrada.
+- D. Un condensador conectado a la caldera.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Además no tienen válvulas de admisión ni de escape, sino lumbreras abiertas a los lados del cilindro, las cuales son tapadas y destapadas por el émbolo en su desplazamiento hacia arriba y abajo.>
+
+### 246
+
+De acuerdo con el libro de Física, ¿cómo se llaman también los motores Diesel?
+
+- A. De combustión pesada o de aceites pesados.
+- B. De combustión externa o de vapor.
+- C. De combustión ligera o de aceites ligeros.
+- D. De reacción o de explosión.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Los motores Diesel, llamados de combustión pesada o de aceites pesados.>
+
+### 247
+
+De conformidad con el libro de Física, ¿por qué se caracterizan los motores Diesel?
+
+- A. Porque no tienen sistema de encendido ni carburador.
+- B. Porque tienen doble sistema de encendido y carburador.
+- C. Porque no tienen émbolo ni cigüeñal.
+- D. Porque queman el combustible fuera del motor.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Se caracterizan porque no tienen sistema de encendido ni carburador.>
+
+### 248
+
+En relación con el libro de Física, ¿qué aspira el émbolo del motor Diesel cuando baja?
+
+- A. Aire puro.
+- B. Una mezcla de aire y combustible.
+- C. Aceite pesado pulverizado.
+- D. Los gases residuales del ciclo anterior.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En estos motores cuando el émbolo baja aspira aire puro.>
+
+### 249
+
+De acuerdo con el libro de Física, ¿a cuántas atmósferas lo comprime al subir?
+
+- A. De 30 a 50 atmósferas.
+- B. De 3 a 5 atmósferas.
+- C. De 300 a 500 atmósferas.
+- D. De 50 a 80 atmósferas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Y al subir lo comprime fuertemente de 30 a 50 atmósferas.>
+
+### 250
+
+De conformidad con el libro de Física, ¿a qué temperaturas lo calienta esa compresión?
+
+- A. De 500 a 600 °C.
+- B. De 50 a 60 °C.
+- C. De 100 a 200 °C.
+- D. De 1 500 a 1 600 °C.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Calentándolo a temperaturas de 500 a 600 °C.>
+
+### 251
+
+En relación con el libro de Física, ¿qué ocurre con el chorro de combustible líquido que se inyecta en ese aire?
+
+- A. Se pulveriza en la cámara y se inflama en forma espontánea por la alta temperatura existente.
+- B. Se pulveriza en la cámara y requiere una chispa eléctrica para inflamarse.
+- C. Se condensa en las paredes del cilindro sin inflamarse.
+- D. Se mezcla con aire en el carburador antes de entrar.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En seguida se inyecta en ese aire un chorro de combustible líquido que se pulveriza en la cámara y se inflama en forma espontánea por la alta temperatura existente.>
+
+### 252
+
+De acuerdo con el libro de Física, ¿en qué se basan los motores de reacción?
+
+- A. En el principio de la acción y reacción.
+- B. En el principio de la conservación de la masa.
+- C. En el principio de Pascal.
+- D. En la ley del intercambio de calor.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Los motores de reacción se basan en el principio de la acción y reacción.>
+
+### 253
+
+De conformidad con el libro de Física, ¿cuáles son los dos tipos principales de motores a reacción?
+
+- A. Los turborreactores y los cohetes.
+- B. Los turborreactores y los motores Diesel.
+- C. Los cohetes y las máquinas de vapor.
+- D. Los motores de dos tiempos y los de cuatro tiempos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Existen dos tipos principales de motores a reacción: los turborreactores y los cohetes.>
+
+### 254
+
+En relación con el libro de Física, ¿de qué constan los turborreactores?
+
+- A. De un generador de gases muy calientes y de una tobera que los expele hacia atrás en forma de chorro.
+- B. De un generador de gases muy fríos y de una tobera que los expele hacia adelante.
+- C. De una caldera y un condensador conectados por un vástago.
+- D. De una cámara de combustión con bujía y carburador.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Los turborreactores constan de un generador de gases muy calientes y de una tobera que los expele hacia atrás en forma de chorro (acción), así impulsa al motor y al móvil en el cual se encuentra instalado hacia adelante (reacción).>
+
+### 255
+
+De acuerdo con el libro de Física, ¿por qué el motor del cohete no necesita del aire atmosférico para funcionar?
+
+- A. Pues contiene en su interior las sustancias químicas para la combustión.
+- B. Pues aprovecha el aire comprimido que lleva almacenado en tanques.
+- C. Pues su combustión se realiza fuera de la nave.
+- D. Pues no requiere ninguna combustión para impulsarse.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El motor del cohete no necesita del aire atmosférico para funcionar, pues contiene en su interior las sustancias químicas para la combustión.>
+
+### 256
+
+De conformidad con el libro de Física, de acuerdo con la segunda ley de la termodinámica, ¿qué es imposible construir?
+
+- A. Una máquina térmica que transforme en trabajo todo el calor suministrado.
+- B. Una máquina térmica que aproveche menos de la mitad del calor suministrado.
+- C. Una máquina térmica que funcione sin combustible.
+- D. Un motor de reacción que no requiera aire atmosférico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<De acuerdo con la segunda ley de la termodinámica, es imposible construir una máquina térmica que transforme en trabajo todo el calor suministrado.>
+
+### 257
+
+En relación con el libro de Física, ¿a qué se debe que la eficiencia de las máquinas térmicas nunca pueda ser del 100%?
+
+- A. A que la mayor parte del calor proporcionado, en lugar de convertirse en trabajo mecánico, se disipa a la atmósfera.
+- B. A que la mayor parte del calor proporcionado se convierte en trabajo mecánico y se pierde.
+- C. A que las máquinas térmicas no reciben suficiente calor del combustible.
+- D. A que el calor perdido regresa íntegramente a la cámara de combustión.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 367
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Esta limitación de las máquinas térmicas, cuya eficiencia nunca podrá ser del 100%, se debe a que la mayor parte del calor proporcionado en lugar de convertirse en trabajo mecánico se disipa a la atmósfera, ya sea por el calor que arrastran los humos y gases residuales calientes o por el calor perdido a través de la radiación y la fricción entre sus partes móviles.>
+
 ---
 
-**Reactivos en este archivo:** 230
+**Reactivos en este archivo:** 257
