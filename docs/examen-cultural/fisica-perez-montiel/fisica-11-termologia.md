@@ -4313,6 +4313,392 @@ En relación con el libro de Física, ¿a qué se debe que la eficiencia de las 
 
 <Esta limitación de las máquinas térmicas, cuya eficiencia nunca podrá ser del 100%, se debe a que la mayor parte del calor proporcionado en lugar de convertirse en trabajo mecánico se disipa a la atmósfera, ya sea por el calor que arrastran los humos y gases residuales calientes o por el calor perdido a través de la radiación y la fricción entre sus partes móviles.>
 
+## Sub-lote 19 · Eficiencia de las máquinas térmicas y el refrigerador (p. 368) — tema 13
+
+### 258
+
+De acuerdo con el libro de Física, ¿de cuánto es la eficiencia en las máquinas de vapor?
+
+- A. Va de un 20% a un 35% máximo.
+- B. Va de un 35% a un 50% máximo.
+- C. Es de un 23% fijo.
+- D. Llega a un máximo de 40%.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En realidad, la eficiencia de las máquinas térmicas es bastante baja, pues en las máquinas de vapor va de un 20% a un 35% máximo.>
+
+### 259
+
+De conformidad con el libro de Física, ¿cuál es la eficiencia en los motores de gasolina?
+
+- A. De 23%.
+- B. De 32%.
+- C. De 40%.
+- D. De 35%.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En los motores de gasolina es de 23%.>
+
+### 260
+
+En relación con el libro de Física, ¿cuál es la eficiencia en los motores Diesel?
+
+- A. Es de un máximo de 40%.
+- B. Es de un máximo de 23%.
+- C. Es de un máximo de 35%.
+- D. Es de un máximo de 60%.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Y en los motores Diesel es de un máximo de 40%.>
+
+### 261
+
+De acuerdo con el libro de Física, por definición, ¿qué es la eficiencia o rendimiento de una máquina térmica?
+
+- A. La relación entre el trabajo producido y la cantidad de calor que se le suministra.
+- B. La relación entre la cantidad de calor que se le suministra y el trabajo producido.
+- C. La diferencia entre el calor suministrado y el calor disipado.
+- D. La relación entre la temperatura de la fuente fría y la de la caliente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Por definición: la eficiencia o rendimiento de una máquina térmica es la relación entre el trabajo producido y la cantidad de calor que se le suministra.>
+
+### 262
+
+De conformidad con el libro de Física, ¿cómo se expresa matemáticamente la eficiencia?
+
+- A. η = W/Q
+- B. η = Q/W
+- C. η = W − Q
+- D. η = WQ
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Matemáticamente se expresa: η = W/Q.>
+
+### 263
+
+En relación con el libro de Física, ¿qué representa la W en esa expresión?
+
+- A. El trabajo neto producido por la máquina en calorías (cal) o joules (J).
+- B. El calor suministrado a la máquina por el combustible.
+- C. El calor que se disipa en la atmósfera.
+- D. La potencia de salida de la máquina.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<W = trabajo neto producido por la máquina en calorías (cal) o joules (J).>
+
+### 264
+
+De acuerdo con el libro de Física, ¿qué representa la Q?
+
+- A. El calor suministrado a la máquina por el combustible en calorías (cal) o joules (J).
+- B. El trabajo neto producido por la máquina en calorías (cal) o joules (J).
+- C. El calor que no puede aprovecharse y se disipa en la atmósfera.
+- D. La potencia de entrada de la máquina.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Q = calor suministrado a la máquina por el combustible en calorías (cal) o joules (J).>
+
+### 265
+
+De conformidad con el libro de Física, ¿a qué es igual el trabajo neto producido por la máquina?
+
+- A. A la diferencia entre el calor que se le suministra y el calor que no puede aprovecharse porque se disipa en la atmósfera.
+- B. A la suma del calor que se le suministra y el calor que se disipa en la atmósfera.
+- C. Al calor que se le suministra, sin descontar nada.
+- D. Al calor que se disipa en la atmósfera.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Como el trabajo neto producido por la máquina es igual a la diferencia entre el calor que se le suministra (Q1) y el calor que no puede aprovecharse porque se disipa en la atmósfera (Q2).>
+
+### 266
+
+En relación con el libro de Física, ¿por qué la eficiencia de una máquina térmica será menor que uno?
+
+- A. Porque siempre existirá una cantidad de calor que no se puede aprovechar para convertirla en trabajo.
+- B. Porque el trabajo producido siempre es mayor que el calor suministrado.
+- C. Porque la temperatura de la fuente fría siempre es mayor que la de la caliente.
+- D. Porque el calor suministrado se pierde por completo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Como siempre existirá una cantidad de calor que no se puede aprovechar (Q2) para convertirla en trabajo, la eficiencia de una máquina térmica será menor que uno.>
+
+### 267
+
+De acuerdo con el libro de Física, ¿qué basta hacer si se desea expresar la eficiencia en porcentajes?
+
+- A. Multiplicar las ecuaciones 1 y 2 por 100.
+- B. Dividir las ecuaciones 1 y 2 entre 100.
+- C. Restar 100 al resultado de las ecuaciones 1 y 2.
+- D. Multiplicar las ecuaciones 1 y 2 por 1 000.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Si se desea expresar la eficiencia en porcentajes, bastará con multiplicar las ecuaciones 1 y 2 por 100.>
+
+### 268
+
+De conformidad con el libro de Física, ¿en función de qué relación se puede calcular también la eficiencia de una máquina térmica?
+
+- A. De la relación que hay entre la temperatura de la fuente caliente y la temperatura de la fuente fría.
+- B. De la relación que hay entre la masa del combustible y la del aire aspirado.
+- C. De la relación que hay entre el volumen inicial y el final del gas.
+- D. De la relación que hay entre la entropía inicial y la final del sistema.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La eficiencia de una máquina térmica se puede calcular en función de la relación que hay entre la temperatura de la fuente caliente (T1) y la temperatura de la fuente fría (T2).>
+
+### 269
+
+En relación con el libro de Física, ¿en qué unidades deben medirse ambas temperaturas?
+
+- A. En temperaturas absolutas, es decir, en grados Kelvin (K).
+- B. En grados Celsius (°C).
+- C. En grados Fahrenheit (°F).
+- D. En calorías por gramo (cal/g).
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Ambas medidas en temperaturas absolutas, es decir, en grados Kelvin (K).>
+
+### 270
+
+De acuerdo con el libro de Física, ¿qué es la fuente caliente?
+
+- A. La temperatura absoluta del foco que suministra el calor para producir trabajo.
+- B. La temperatura absoluta del foco por donde se escapa el calor no aprovechado.
+- C. La temperatura del combustible al entrar en la cámara de combustión.
+- D. La temperatura de los gases residuales expulsados por el escape.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Fuente caliente (T1) es la temperatura absoluta del foco que suministra el calor para producir trabajo.>
+
+### 271
+
+De conformidad con el libro de Física, ¿qué es la fuente fría?
+
+- A. La temperatura absoluta del foco por donde se escapa el calor que no es aprovechado en trabajo.
+- B. La temperatura absoluta del foco que suministra el calor para producir trabajo.
+- C. La temperatura mínima que alcanza el refrigerante en el evaporador.
+- D. La temperatura del aire aspirado por el émbolo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Y fuente fría (T2) es la temperatura absoluta del foco por donde se escapa el calor que no es aprovechado en trabajo.>
+
+### 272
+
+En relación con el libro de Física, ¿de qué otra forma se puede calcular la eficiencia de una máquina térmica?
+
+- A. Al dividir la potencia útil o de salida de la máquina entre la potencia total o de entrada de la misma.
+- B. Al dividir la potencia total o de entrada entre la potencia útil o de salida.
+- C. Al multiplicar la potencia de salida por la potencia de entrada.
+- D. Al restar la potencia de entrada a la potencia de salida.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<También se puede calcular la eficiencia de una máquina térmica al dividir la potencia útil o de salida de la máquina entre la potencia total o de entrada de la misma.>
+
+### 273
+
+De acuerdo con el libro de Física, ¿qué permite el proceso de refrigeración?
+
+- A. Reducir la temperatura de un espacio determinado.
+- B. Aumentar la temperatura de un espacio determinado.
+- C. Transformar en trabajo todo el calor suministrado.
+- D. Mantener constante la entropía de un sistema.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<¿Ha valorado la importancia que tiene el proceso de refrigeración, mismo que permite reducir la temperatura de un espacio determinado?>
+
+### 274
+
+De conformidad con el libro de Física, ¿cómo se obtiene un enfriamiento constante en un refrigerador?
+
+- A. Por medio de la circulación de un refrigerante en un circuito cerrado, en el cual se evapora y luego se condensa repitiéndose este ciclo.
+- B. Por medio de la circulación de aire frío en un circuito abierto.
+- C. Por medio de la compresión continua de un sólido cristalino.
+- D. Por medio de la transferencia directa de calor de la fuente caliente a la fría.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En un refrigerador se obtiene un enfriamiento constante por medio de la circulación de un refrigerante en un circuito cerrado, en el cual se evapora y luego se condensa repitiéndose este ciclo.>
+
+### 275
+
+En relación con el libro de Física, ¿cómo se denomina el sistema mecánico utilizado en los refrigeradores domésticos y en muchos aparatos de aire acondicionado?
+
+- A. Sistema de compresión.
+- B. Sistema de expansión.
+- C. Sistema de condensación externa.
+- D. Sistema de combustión pesada.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El sistema mecánico que se utiliza en los refrigeradores domésticos y en muchos de los aparatos de aire acondicionado es el denominado sistema de compresión.>
+
+### 276
+
+De acuerdo con el libro de Física, ¿cuál suele ser el agente frigorífico o sustancia refrigerante en el refrigerador por compresión?
+
+- A. El freón.
+- B. El amoniaco.
+- C. El aire comprimido.
+- D. El vapor de agua.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En el refrigerador por compresión, el agente frigorífico o sustancia refrigerante suele ser el freón.>
+
+### 277
+
+De conformidad con el libro de Física, ¿qué es el freón?
+
+- A. El nombre de una marca registrada de una familia de compuestos frigoríficos.
+- B. El nombre científico de un elemento químico refrigerante.
+- C. Una mezcla de aire y aceites pesados.
+- D. El nombre del sistema de compresión de los refrigeradores.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El freón, que es el nombre de una marca registrada de una familia de compuestos frigoríficos.>
+
+### 278
+
+En relación con el libro de Física, ¿qué compuesto de esa familia menciona el libro?
+
+- A. El freón 12.
+- B. El freón 22.
+- C. El freón 40.
+- D. El freón 100.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Entre los que se encuentra el freón 12.>
+
+### 279
+
+De acuerdo con el libro de Física, ¿qué característica especial presenta el funcionamiento de un refrigerador como máquina térmica?
+
+- A. Utiliza el trabajo de un motor para transferir calor de una fuente fría a una caliente.
+- B. Utiliza el trabajo de un motor para transferir calor de una fuente caliente a una fría.
+- C. Transforma en trabajo todo el calor que recibe del ambiente.
+- D. Funciona sin necesidad de un suministro de energía.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Un refrigerador también es una máquina térmica, pero su funcionamiento presenta una característica especial, ya que utiliza el trabajo de un motor para transferir calor de una fuente fría a una caliente.>
+
+### 280
+
+De conformidad con el libro de Física, ¿qué se requiere para mantener el enfriamiento?
+
+- A. Un suministro continuo de energía y un proceso para disipar el calor.
+- B. Un suministro continuo de refrigerante nuevo en el circuito.
+- C. Que el circuito permanezca abierto a la atmósfera.
+- D. Que la fuente caliente y la fría tengan la misma temperatura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En otras palabras, para mantener el enfriamiento requiere de un suministro continuo de energía y un proceso para disipar el calor.>
+
+### 281
+
+En relación con el libro de Física, ¿para qué se enfrían los alimentos en un refrigerador?
+
+- A. Para evitar la proliferación de bacterias.
+- B. Para aumentar su contenido de humedad.
+- C. Para elevar su calor específico.
+- D. Para reducir su entropía a cero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 368
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En un refrigerador se enfrían alimentos para evitar la proliferación de bacterias.>
+
 ---
 
-**Reactivos en este archivo:** 257
+**Reactivos en este archivo:** 281
