@@ -28,9 +28,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **53–55**: **3.1** COMPLETO, **3.2 · Cantidades vectoriales y escalares** COMPLETO (escalar, vector, la magnitud siempre positiva, el desplazamiento independiente de la trayectoria, notación A⃗ y |A⃗|) y el arranque de **3.3 · Aritmética vectorial básica** (vectores iguales, traslación paralela, suma gráfica, vector resultante, método del polígono, y la advertencia de que la suma vectorial no es la suma escalar). La portada (p.52) y el Ejemplo 3.1 (p.54) no aportan reactivos.
+**EN CURSO.** Escritas las páginas impresas **53–56**: **3.1** y **3.2** COMPLETOS, y **3.3 · Aritmética vectorial básica** muy avanzada (vectores iguales, traslación paralela, suma gráfica, vector resultante, método del polígono, leyes conmutativa y asociativa, condición de mismas unidades/tipo, negativo de un vector, resta A⃗ − B⃗ = A⃗ + (−B⃗) y multiplicación por un escalar). La portada (p.52) y el Ejemplo 3.1 (p.54) no aportan reactivos.
 
-**Pendiente:** EN CURSO. Sigue el resto de **3.3** (p.56: resta de vectores, multiplicación por un escalar, leyes conmutativa y asociativa) y luego **3.4 · Componentes de un vector y vectores unitarios**.
+**Pendiente:** EN CURSO. Falta el cierre de **3.3** (p.57: producto por escalar negativo) y luego **3.4 · Componentes de un vector y vectores unitarios**.
 
 ---
 
@@ -339,3 +339,95 @@ En relación con el libro de Física, ¿en qué se diferencia la suma vectorial 
 **Subtema:** aritmética vectorial · suma vectorial frente a suma escalar (prevención de riesgos ocultos 3.1)
 
 "La primera ecuación es una suma vectorial, que se debe manejar con cuidado, con un método gráfico. La segunda ecuación es una simple suma algebraica de números que se manejan con las reglas normales de aritmética."
+
+## Sub-lote 4 · Leyes de la suma, resta y producto por escalar (p.56)
+
+### 21
+
+De conformidad con el libro de Física, ¿qué establece la ley conmutativa de la suma de vectores?
+
+- A. A⃗ + B⃗ = B⃗ + A⃗; la suma es independiente del orden de la adición
+- B. A⃗ + B⃗ = A⃗ − B⃗
+- C. La suma depende del orden en que se sumen los vectores
+- D. A⃗ + B⃗ = 0 siempre
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 56
+**Subtema:** aritmética vectorial · ley conmutativa
+
+"Cuando se suman dos vectores, la suma es independiente del orden de la adición... se conoce como ley conmutativa de la suma: A⃗ + B⃗ = B⃗ + A⃗."
+
+### 22
+
+De acuerdo con el libro de Física, ¿qué establece la ley asociativa de la suma de vectores?
+
+- A. A⃗ + (B⃗ + C⃗) = (A⃗ + B⃗) + C⃗; la suma es independiente de la forma en que se agrupan los vectores
+- B. La suma depende de la forma en que se agrupen los vectores
+- C. A⃗ + B⃗ + C⃗ = 0
+- D. Sólo se pueden sumar dos vectores a la vez
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 56
+**Subtema:** aritmética vectorial · ley asociativa
+
+"Cuando se suman tres o más vectores, su suma es independiente de la forma en la cual se agrupan los vectores individuales... Esta propiedad se llama ley asociativa de la suma: A⃗ + (B⃗ + C⃗) = (A⃗ + B⃗) + C⃗."
+
+### 23
+
+En relación con el libro de Física, ¿qué condición deben cumplir dos o más vectores para poder sumarse?
+
+- A. Todos deben tener las mismas unidades y ser del mismo tipo de cantidad
+- B. Todos deben tener la misma magnitud
+- C. Todos deben apuntar en la misma dirección
+- D. Todos deben partir del mismo punto
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 56
+**Subtema:** aritmética vectorial · condición para sumar vectores
+
+"Cuando se suman dos o más vectores, todos deben tener las mismas unidades y todos deben ser del mismo tipo de cantidad."
+
+### 24
+
+De conformidad con el libro de Física, ¿cómo se define el negativo del vector A⃗?
+
+- A. Como el vector que, sumado a A⃗, da cero para la suma vectorial; tiene la misma magnitud que A⃗ pero apunta en dirección opuesta
+- B. Como un vector de magnitud cero
+- C. Como el vector de igual magnitud y misma dirección que A⃗
+- D. Como el vector perpendicular a A⃗
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 56
+**Subtema:** aritmética vectorial · negativo de un vector
+
+"El negativo del vector A⃗ se define como el vector que cuando se suma a A⃗ da cero para la suma vectorial. Es decir A⃗ + (−A⃗) = 0. Los vectores A⃗ y −A⃗ tienen la misma magnitud, pero apuntan en direcciones opuestas."
+
+### 25
+
+De acuerdo con el libro de Física, ¿cómo se define la operación de resta vectorial A⃗ − B⃗?
+
+- A. Como el vector −B⃗ sumado al vector A⃗: A⃗ − B⃗ = A⃗ + (−B⃗)
+- B. Como la suma A⃗ + B⃗
+- C. Como el producto de A⃗ por B⃗
+- D. Como la diferencia de sus magnitudes únicamente
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 56
+**Subtema:** aritmética vectorial · resta de vectores
+
+"Definimos la operación A⃗ − B⃗ como vector −B⃗ sumado al vector A⃗: A⃗ − B⃗ = A⃗ + (−B⃗)."
+
+### 26
+
+En relación con el libro de Física, si un vector A⃗ se multiplica por una cantidad escalar positiva m, ¿cómo es el producto mA⃗?
+
+- A. Es un vector que tiene la misma dirección que A⃗ y magnitud mA
+- B. Es un vector de dirección opuesta a A⃗
+- C. Es un escalar de valor mA
+- D. Es un vector perpendicular a A⃗
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 56
+**Subtema:** aritmética vectorial · multiplicación por un escalar
+
+"Si el vector A⃗ se multiplica por una cantidad escalar positiva m, el producto mA⃗ es un vector que tiene la misma dirección que A⃗ y magnitud mA."
