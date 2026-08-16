@@ -51,6 +51,8 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 - **p. 207, punto 1 del `Resumen (sección 2.9)`:** dice "aplicaciones de la vida real de **triángulos correctos**"; son **triángulos rectángulos** (*right triangles* mal traducido). El `Resumen` queda fuera por norma.
 - **Nota de consistencia, p. 204:** el libro escribe el Oeste de dos maneras en la misma sección, "N 80° **W**" en la prosa y las figuras, y "N 54° **O**" en el ejemplo 5. No es un error de contenido, pero conviene saberlo: el reactivo 33 usa la grafía de la prosa, que es la que el aspirante lee al estudiar la definición.
 
+- **p. 254, párrafo de los cuatro casos: frase que no cierra.** El libro imprime "es necesario saber la medida de al menos un lado y cualesquiera otras dos medidas del triángulo, **ya sean dos lados, dos ángulos y un ángulo**". La enumeración está rota: debería decir "dos lados, dos ángulos, **o un lado y un ángulo**". **No se escribe reactivo sobre esa frase**; los cuatro casos sí llevan reactivos porque la lista numerada que sigue está bien.
+
 Los `EJEMPLO` y el `Resumen` quedan fuera por norma, así que ninguno de estos defectos afecta a un reactivo.
 
 ## Cobertura actual
@@ -67,7 +69,9 @@ Los `EJEMPLO` y el `Resumen` quedan fuera por norma, así que ninguno de estos d
 
 - Cubiertas las páginas impresas **213 y 214**, con las que **cierra el 2.10**: que una aplicación común de las identidades es evaluar unas funciones a partir de otras, y las dos estrategias de trabajo (buscar una forma especial de factorización que se ajuste a la expresión, y reescribirla primero en términos de una sola función o sólo de seno y coseno). Las **pp. 215 y 216 no llevan reactivos**: son `EJEMPLO 6` a `EJEMPLO 9` (incluida la sustitución trigonométrica) más el `Resumen (sección 2.10)`. Las **pp. 217–218 son el bloque `2.10 Ejercicios`**.
 
-**Pendiente:** EN CURSO. El **2.6, el 2.9 y el 2.10 están CERRADOS**. Sigue la **2.15 · Ley de senos**, que arranca en la página impresa **254** y cuya teoría llega hasta la **p. 259**; después queda la **2.16 · Ley de cosenos** (pp. 263–266), con la que se cierra el capítulo 2. **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
+- Cubiertas las páginas impresas **254, 255, 256 y 258**, con las que **cierra la 2.15 · Ley de senos**: qué es un triángulo oblicuángulo y la notación estándar, los **cuatro casos** (AAL o ALA, LLA, LLL y LAL) y cuáles resuelve cada ley, el recuadro *Ley de senos* y su **forma recíproca**, la nota histórica del **Monte Everest**, el **caso ambiguo** LLA con sus tres situaciones posibles, y el **área de un triángulo oblicuángulo** con lo que ocurre cuando el ángulo es de 90°. La **p. 257 no lleva reactivos** (es íntegramente `EJEMPLO 4` y `EJEMPLO 5`) ni la **p. 259** (`EJEMPLO 7` del curso del bote más el `Resumen`). Las **pp. 260–262 son el bloque `2.15 Ejercicios`**.
+
+**Pendiente:** EN CURSO. El **2.6, el 2.9, el 2.10 y la 2.15 están CERRADOS**. Sólo falta la **2.16 · Ley de cosenos** (teoría pp. 263–266), con la que se cierra el capítulo 2. **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
 
 ---
 
@@ -1049,5 +1053,228 @@ En relación con el libro de Matemáticas, ¿cómo puede hacerse mejor, en ocasi
 **Subtema:** identidades fundamentales · simplificación de expresiones
 
 En ocasiones, la operación de factorizar o de simplificar puede hacerse mejor si primero se reescribe la expresión en términos de sólo una función trigonométrica o en términos sólo de seno y coseno.
+
+---
+
+## Sub-lote 7 · Ley de senos — cierra el 2.15 (pp. 254–258)
+
+### 58
+
+De acuerdo con el libro de Matemáticas, ¿qué es un triángulo oblicuángulo?
+
+- A. Aquel que no tiene ángulos rectos
+- B. Aquel que tiene un ángulo recto
+- C. Aquel que tiene dos ángulos rectos
+- D. Aquel que tiene todos sus ángulos iguales
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 254
+**Subtema:** ley de senos · triángulos oblicuángulos
+
+En esta sección resolverá triángulos oblicuángulos, es decir, aquellos que no tienen ángulos rectos.
+
+---
+
+### 59
+
+De conformidad con el libro de Matemáticas, ¿cuál es la notación estándar para los ángulos y los lados de un triángulo?
+
+- A. Los ángulos se marcan como A, B y C, y sus lados opuestos como a, b y c
+- B. Los ángulos se marcan como a, b y c, y sus lados opuestos como A, B y C
+- C. Los ángulos se marcan como A, B y C, y sus lados adyacentes como a, b y c
+- D. Los ángulos se marcan como α, β y γ, y sus lados opuestos como A, B y C
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 254
+**Subtema:** ley de senos · notación estándar
+
+Como notación estándar, los ángulos de un triángulo se marcan como A, B y C, y sus lados opuestos como a, b y c.
+
+---
+
+### 60
+
+En relación con el libro de Matemáticas, ¿en qué consiste el primer caso para resolver un triángulo oblicuángulo, llamado AAL o ALA?
+
+- A. Dos ángulos y cualquier lado
+- B. Dos lados y un ángulo opuesto a uno de ellos
+- C. Tres lados
+- D. Dos lados y su ángulo incluido
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 254
+**Subtema:** ley de senos · casos
+
+1. Dos ángulos y cualquier lado (AAL o ALA).
+
+---
+
+### 61
+
+De acuerdo con el libro de Matemáticas, ¿en qué consiste el segundo caso, llamado LLA?
+
+- A. Dos lados y un ángulo opuesto a uno de ellos
+- B. Dos lados y su ángulo incluido
+- C. Dos ángulos y cualquier lado
+- D. Tres lados
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 254
+**Subtema:** ley de senos · casos
+
+2. Dos lados y un ángulo opuesto a uno de ellos (LLA).
+
+---
+
+### 62
+
+De conformidad con el libro de Matemáticas, ¿en qué consiste el tercer caso, llamado LLL?
+
+- A. Tres lados
+- B. Tres ángulos
+- C. Dos lados y su ángulo incluido
+- D. Dos ángulos y cualquier lado
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 254
+**Subtema:** ley de senos · casos
+
+3. Tres lados (LLL).
+
+---
+
+### 63
+
+En relación con el libro de Matemáticas, ¿en qué consiste el cuarto caso, llamado LAL?
+
+- A. Dos lados y su ángulo incluido
+- B. Dos lados y un ángulo opuesto a uno de ellos
+- C. Dos ángulos y el lado entre ellos
+- D. Tres lados
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 254
+**Subtema:** ley de senos · casos
+
+4. Dos lados y su ángulo incluido (LAL).
+
+---
+
+### 64
+
+De acuerdo con el libro de Matemáticas, ¿qué casos se resuelven con la Ley de senos y cuáles con la Ley de cosenos?
+
+- A. Los dos primeros con la Ley de senos y los dos últimos con la Ley de cosenos
+- B. Los dos primeros con la Ley de cosenos y los dos últimos con la Ley de senos
+- C. Los cuatro con la Ley de senos
+- D. El primero con la Ley de senos y los otros tres con la Ley de cosenos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 254
+**Subtema:** ley de senos · casos
+
+Los primeros dos casos se pueden resolver usando la Ley de senos, mientras que los últimos dos requieren la Ley de cosenos.
+
+---
+
+### 65
+
+De conformidad con el libro de Matemáticas, ¿qué establece la Ley de senos?
+
+- A. a/sen A = b/sen B = c/sen C
+- B. sen A/a = b/sen B = sen C/c
+- C. a·sen A = b·sen B = c·sen C
+- D. a/sen B = b/sen C = c/sen A
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 254
+**Subtema:** ley de senos · enunciado
+
+Si ABC es un triángulo con lados a, b y c, entonces a/sen A = b/sen B = c/sen C.
+
+---
+
+### 66
+
+En relación con el libro de Matemáticas, ¿cómo se escribe la Ley de senos en su forma recíproca?
+
+- A. sen A/a = sen B/b = sen C/c
+- B. a/sen A = b/sen B = c/sen C
+- C. sen A·a = sen B·b = sen C·c
+- D. sen A/b = sen B/c = sen C/a
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 254
+**Subtema:** ley de senos · forma recíproca
+
+La Ley de senos también se puede escribir en la forma recíproca: sen A/a = sen B/b = sen C/c.
+
+---
+
+### 67
+
+De acuerdo con el libro de Matemáticas, ¿en qué década usaron los topógrafos la Ley de senos para calcular la altura del Monte Everest, y con qué precisión?
+
+- A. En la década de 1850, y su cálculo se encontraba a 10 m del valor actualmente aceptado
+- B. En la década de 1750, y su cálculo se encontraba a 10 m del valor actualmente aceptado
+- C. En la década de 1850, y su cálculo se encontraba a 100 m del valor actualmente aceptado
+- D. En la década de 1950, y su cálculo se encontraba a 1 m del valor actualmente aceptado
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 255
+**Subtema:** ley de senos · nota histórica
+
+En la década de 1850, los topógrafos utilizaron la Ley de senos para calcular la altura del Monte Everest. Su cálculo se encontraba a 10 m del valor actualmente aceptado.
+
+---
+
+### 68
+
+De conformidad con el libro de Matemáticas, cuando se dan dos lados y un ángulo opuesto, ¿qué tres situaciones pueden ocurrir?
+
+- A. Que no exista ese triángulo, que exista un triángulo, o que dos triángulos distintos satisfagan las condiciones
+- B. Que no exista ese triángulo, que exista un triángulo, o que existan infinitos triángulos
+- C. Que exista siempre un solo triángulo, uno rectángulo o uno equilátero
+- D. Que exista un triángulo, dos triángulos o tres triángulos distintos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 256
+**Subtema:** ley de senos · caso ambiguo
+
+Si se dan dos lados y un ángulo opuesto pueden ocurrir tres posibles situaciones: 1) no existe ese triángulo, 2) existe un triángulo, o 3) dos triángulos distintos pueden satisfacer las condiciones.
+
+---
+
+### 69
+
+En relación con el libro de Matemáticas, ¿cuál es el área de cualquier triángulo?
+
+- A. La mitad del producto de las longitudes de dos lados por el seno del ángulo entre ellos
+- B. El producto de las longitudes de dos lados por el seno del ángulo entre ellos
+- C. La mitad del producto de las longitudes de dos lados por el coseno del ángulo entre ellos
+- D. La mitad de la suma de las longitudes de dos lados por el seno del ángulo entre ellos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 258
+**Subtema:** ley de senos · área de un triángulo oblicuángulo
+
+El área de cualquier triángulo es la mitad del producto de las longitudes de dos lados por el seno del ángulo entre ellos.
+
+---
+
+### 70
+
+De acuerdo con el libro de Matemáticas, ¿qué ocurre con esa fórmula del área cuando el ángulo A es de 90°?
+
+- A. Que da el área de un triángulo rectángulo
+- B. Que se vuelve igual a cero
+- C. Que deja de ser aplicable
+- D. Que da el doble del área real
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 258
+**Subtema:** ley de senos · área de un triángulo oblicuángulo
+
+Observe que cuando el ángulo A es 90°, la fórmula da el área de un triángulo rectángulo.
 
 ---
