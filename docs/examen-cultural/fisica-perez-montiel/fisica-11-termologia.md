@@ -3493,6 +3493,392 @@ En relación con el libro de Física, ¿qué son las leyes de la termodinámica?
 
 <Las leyes de la termodinámica son verdades universales, establecidas después de haberse realizado numerosos experimentos tanto cualitativos como cuantitativos.>
 
+## Sub-lote 17 · Entropía, tercera ley y máquinas térmicas (p. 366) — tema 13
+
+### 207
+
+De acuerdo con el libro de Física, ¿cómo se conoce también la primera ley y qué afirma?
+
+- A. Como ley de la conservación de la energía; afirma que la energía existente en el universo es una cantidad constante.
+- B. Como ley de la conservación de la materia; afirma que la materia existente en el universo es una cantidad constante.
+- C. Como ley cero de la termodinámica; afirma que dos cuerpos en contacto igualan su temperatura.
+- D. Como ley de la degradación de la energía; afirma que la energía del universo disminuye.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La primera ley, conocida como ley de la conservación de la energía, afirma que la energía existente en el universo es una cantidad constante.>
+
+### 208
+
+De conformidad con el libro de Física, ¿cuándo se confirma esa ley?
+
+- A. Cuando Albert Einstein nos demuestra la relación entre materia y energía.
+- B. Cuando Walther Nernst establece la tercera ley de la termodinámica.
+- C. Cuando William Thomson Kelvin enuncia la segunda ley.
+- D. Cuando se construye la primera máquina de vapor.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Esta ley se confirma cuando Albert Einstein nos demuestra la relación entre materia y energía.>
+
+### 209
+
+En relación con el libro de Física, ¿en qué tiene aplicaciones importantes la segunda ley?
+
+- A. En el diseño de máquinas térmicas empleadas en la transformación de calor en trabajo.
+- B. En el diseño de instrumentos para medir la temperatura de los cuerpos.
+- C. En el cálculo del calor específico de las sustancias.
+- D. En la determinación del punto de fusión de los sólidos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La segunda ley tiene aplicaciones importantes en el diseño de máquinas térmicas empleadas en la transformación de calor en trabajo.>
+
+### 210
+
+De acuerdo con el libro de Física, ¿para qué más resulta útil la segunda ley?
+
+- A. Para interpretar el origen del universo, pues explica los cambios energéticos que ha tenido y tendrá en un futuro.
+- B. Para calcular la cantidad de calor que cede un cuerpo al enfriarse.
+- C. Para determinar la entropía de un cristal a 0 K.
+- D. Para medir el grado de desorden molecular de la materia.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<También es útil para interpretar el origen del universo, pues explica los cambios energéticos que ha tenido y tendrá en un futuro.>
+
+### 211
+
+De conformidad con el libro de Física, ¿qué predice la segunda ley que se producirá dentro de billones de años?
+
+- A. La llamada muerte térmica del universo.
+- B. La llamada expansión térmica del universo.
+- C. El aumento indefinido de las diferencias de temperatura.
+- D. La desaparición total de la entropía.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Predice que dentro de billones de años se producirá la llamada muerte térmica del universo.>
+
+### 212
+
+En relación con el libro de Física, ¿cuándo ocurrirá?
+
+- A. Cuando toda la energía del universo se reduzca a la de las moléculas en movimiento y toda la materia tenga la misma temperatura.
+- B. Cuando toda la energía del universo se transforme en trabajo mecánico.
+- C. Cuando la materia del universo alcance el cero absoluto de temperatura.
+- D. Cuando las diferencias de temperatura entre los cuerpos sean máximas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La cual ocurrirá cuando toda la energía del universo se reduzca a la de las moléculas en movimiento y toda la materia tenga la misma temperatura.>
+
+### 213
+
+De acuerdo con el libro de Física, al no existir diferencias de temperatura, ¿qué sucederá?
+
+- A. Tampoco se producirá intercambio de calor entre los cuerpos y los seres vivos se extinguirán.
+- B. Se producirá un intercambio de calor mucho más rápido entre los cuerpos.
+- C. Los seres vivos podrán aprovechar toda la energía disponible.
+- D. La entropía del universo disminuirá hasta hacerse cero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Al no existir diferencias de temperatura, tampoco se producirá intercambio de calor entre los cuerpos y los seres vivos se extinguirán.>
+
+### 214
+
+De conformidad con el libro de Física, ¿qué es la entropía?
+
+- A. Una magnitud física utilizada por la termodinámica para medir el grado de desorden molecular de la materia.
+- B. Una magnitud física utilizada por la termodinámica para medir el grado de orden molecular de la materia.
+- C. Una magnitud física que mide la cantidad de calor que cede un cuerpo.
+- D. Una magnitud física que mide el trabajo realizado por una máquina térmica.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La entropía es una magnitud física utilizada por la termodinámica para medir el grado de desorden molecular de la materia.>
+
+### 215
+
+En relación con el libro de Física, en un sistema determinado, ¿de qué dependerá la entropía o estado de desorden?
+
+- A. De su energía interna y de cómo se encuentren distribuidas sus moléculas.
+- B. Únicamente de su energía interna.
+- C. Únicamente de su masa y de su volumen.
+- D. De la cantidad de trabajo que haya realizado sobre los alrededores.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En un sistema determinado, la entropía o estado de desorden dependerá de su energía interna y de cómo se encuentren distribuidas sus moléculas.>
+
+### 216
+
+De acuerdo con el libro de Física, ¿por qué es menor la entropía en el estado sólido?
+
+- A. Porque las moléculas están muy próximas unas de otras y se encuentran en una distribución bastante ordenada.
+- B. Porque las moléculas están muy separadas unas de otras y se mueven con libertad.
+- C. Porque los sólidos no tienen energía interna.
+- D. Porque los sólidos no pueden aumentar su temperatura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Como en el estado sólido las moléculas están muy próximas unas de otras y se encuentran en una distribución bastante ordenada, su entropía es menor si se compara con la del estado líquido.>
+
+### 217
+
+De conformidad con el libro de Física, ¿cómo es la entropía del estado líquido comparada con la del gaseoso?
+
+- A. Menor que en el estado gaseoso.
+- B. Mayor que en el estado gaseoso.
+- C. Igual que en el estado gaseoso.
+- D. Igual que en el estado sólido.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Y en éste menor que en el estado gaseoso.>
+
+### 218
+
+En relación con el libro de Física, ¿qué ocurre con la entropía de un líquido al evaporarse?
+
+- A. Se incrementa considerablemente.
+- B. Disminuye considerablemente.
+- C. Permanece constante.
+- D. Se reduce a cero.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Cuando un líquido es calentado las moléculas aumentan su movimiento y con ello su desorden, por tanto, al evaporarse se incrementa considerablemente su entropía.>
+
+### 219
+
+De acuerdo con el libro de Física, ¿a qué tiende la naturaleza en general?
+
+- A. A aumentar su entropía, es decir, su desorden molecular.
+- B. A disminuir su entropía, es decir, su desorden molecular.
+- C. A mantener constante su entropía en cualquier estado.
+- D. A igualar la entropía de los sólidos y los gases.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En general, la naturaleza tiende a aumentar su entropía, es decir, su desorden molecular.>
+
+### 220
+
+De conformidad con el libro de Física, ¿quién estableció la tercera ley de la termodinámica?
+
+- A. El físico y químico alemán Walther Nernst.
+- B. El físico inglés William Thomson Kelvin.
+- C. El físico alemán Albert Einstein.
+- D. El físico y químico inglés James Prescott Joule.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Como resultado de sus investigaciones, el físico y químico alemán Walther Nernst estableció otro principio fundamental de la termodinámica llamado tercera ley de la termodinámica.>
+
+### 221
+
+En relación con el libro de Física, ¿a qué se refiere dicho principio?
+
+- A. A la entropía de las sustancias cristalinas y puras en el cero absoluto de temperatura (0 K).
+- B. A la entropía de las sustancias gaseosas a la temperatura de ebullición.
+- C. A la energía interna de las sustancias cristalinas a temperatura ambiente.
+- D. Al calor específico de las sustancias puras en el cero absoluto.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Dicho principio se refiere a la entropía de las sustancias cristalinas y puras en el cero absoluto de temperatura (0 K).>
+
+### 222
+
+De acuerdo con el libro de Física, ¿cómo se enuncia la tercera ley de la termodinámica?
+
+- A. La entropía de un sólido cristalino puro y perfecto puede tomarse como cero a la temperatura del cero absoluto.
+- B. La entropía de un sólido cristalino puro y perfecto es máxima a la temperatura del cero absoluto.
+- C. La entropía de cualquier sustancia puede tomarse como cero a la temperatura ambiente.
+- D. La entropía de un gas puede tomarse como cero a la temperatura del cero absoluto.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Y se enuncia de la siguiente manera: la entropía de un sólido cristalino puro y perfecto puede tomarse como cero a la temperatura del cero absoluto.>
+
+### 223
+
+De conformidad con el libro de Física, ¿qué valor de entropía tendrá un cristal perfectamente ordenado a 0 K?
+
+- A. Un valor igual a cero.
+- B. Un valor máximo.
+- C. Un valor igual al de su energía interna.
+- D. Un valor negativo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Por tanto, un cristal perfectamente ordenado a 0 K tendrá un valor de entropía igual a cero.>
+
+### 224
+
+En relación con el libro de Física, ¿qué causa cualquier incremento de la temperatura por encima de 0 K?
+
+- A. Una alteración en el arreglo de las moléculas componentes de la red cristalina, aumentando así el valor de la entropía.
+- B. Una alteración en el arreglo de las moléculas componentes de la red cristalina, disminuyendo así el valor de la entropía.
+- C. La fusión inmediata del cristal.
+- D. La desaparición de la red cristalina sin cambio en la entropía.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Cualquier incremento de la temperatura, por encima de 0 K, causa una alteración en el arreglo de las moléculas componentes de la red cristalina, aumentando así el valor de la entropía.>
+
+### 225
+
+De acuerdo con el libro de Física, ¿qué son las máquinas térmicas?
+
+- A. Aparatos que se utilizan para transformar la energía calorífica en trabajo mecánico.
+- B. Aparatos que se utilizan para transformar el trabajo mecánico en energía calorífica.
+- C. Aparatos que se utilizan para medir la entropía de un sistema.
+- D. Aparatos que se utilizan para mantener constante la temperatura de un cuerpo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Las máquinas térmicas son aparatos que se utilizan para transformar la energía calorífica en trabajo mecánico.>
+
+### 226
+
+De conformidad con el libro de Física, ¿cuáles son los tres tipos de máquinas térmicas?
+
+- A. Máquinas de vapor, motores de combustión interna y motores de reacción.
+- B. Máquinas de vapor, motores de combustión externa y refrigeradores.
+- C. Motores de combustión interna, motores de reacción y calorímetros.
+- D. Máquinas de vapor, turbinas hidráulicas y motores eléctricos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Existen tres tipos: 1. Máquinas de vapor. 2. Motores de combustión interna. 3. Motores de reacción.>
+
+### 227
+
+En relación con el libro de Física, independientemente del tipo de máquina térmica, ¿en qué consiste su funcionamiento básico?
+
+- A. En la dilatación de un gas caliente, el cual al realizar un trabajo se enfría.
+- B. En la contracción de un gas frío, el cual al recibir un trabajo se calienta.
+- C. En la transformación directa del combustible en trabajo mecánico.
+- D. En el intercambio de calor entre dos sólidos a la misma temperatura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Independientemente del tipo de máquina térmica de que se trate, su funcionamiento básico consiste en la dilatación de un gas caliente, el cual al realizar un trabajo se enfría.>
+
+### 228
+
+De acuerdo con el libro de Física, cuando el agua se transforma en vapor, ¿qué volumen ocupa?
+
+- A. Un volumen 1 700 veces mayor que en su estado líquido.
+- B. Un volumen 170 veces mayor que en su estado líquido.
+- C. Un volumen 17 000 veces mayor que en su estado líquido.
+- D. Un volumen 700 veces mayor que en su estado líquido.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Cuando el agua se transforma en vapor, se expande ocupando un volumen 1 700 veces mayor que en su estado líquido.>
+
+### 229
+
+De conformidad con el libro de Física, ¿qué emplean las máquinas de vapor para generar un trabajo?
+
+- A. La enorme energía producida por esa expansión.
+- B. La energía que se libera al condensarse el vapor.
+- C. La energía calorífica del ambiente que las rodea.
+- D. El trabajo mecánico producido por el cigüeñal.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Las máquinas de vapor emplean la enorme energía producida por esta expansión para generar un trabajo.>
+
+### 230
+
+En relación con el libro de Física, ¿cuándo una máquina de vapor es de combustión externa?
+
+- A. Si el combustible se quema fuera de ella, calentando la caldera productora del vapor que la alimenta.
+- B. Si el combustible se quema dentro de ella, calentando directamente el émbolo.
+- C. Si utiliza vapor producido por otra máquina térmica.
+- D. Si no requiere ningún combustible para funcionar.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 366
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Una máquina de vapor es de combustión externa si el combustible se quema fuera de ella, calentando la caldera productora del vapor que la alimenta.>
+
 ---
 
-**Reactivos en este archivo:** 206
+**Reactivos en este archivo:** 230
