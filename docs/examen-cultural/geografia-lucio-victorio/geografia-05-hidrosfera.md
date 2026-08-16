@@ -51,9 +51,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 - Cubierta la página impresa **157**: el arranque del **5.2** con el apartado **Los océanos** — el reparto de la superficie terrestre (**510,054,000 km²** en total, **362,033,000 km²** de hidrósfera y **148,021,000 km²** —el **29.02%**— de tierras emergidas), la hidrósfera como **masa continua** que permite dar la vuelta al planeta sin salirse del agua, la **definición de océano** del recuadro, **Anaximandro de Mileto (610-547 a.C.)** con su Tierra en forma de disco (el Gran Mar al centro, los 3 continentes alrededor y el gran «río» de la periferia) y la **etimología** de *oikía*, y la **delimitación** de los océanos **Pacífico** y **Atlántico** en sus cuatro rumbos. **Las cifras de superficie se verificaron con `crop.py` a 600 dpi.** La Figura 5.4 es un mapa y no lleva reactivos por norma.
 
+- Cubierta la página impresa **158**: el **Cuadro 5.3** completo (superficie, porcentaje y profundidades medias y máximas de los cuatro océanos, con sus fosas: **Marianas**, **Puerto Rico**, **Diamantina** y **Spitzberg**, más la fila del total); el cierre de la delimitación con el **Índico** y el **Glacial Ártico** (considerado por muchos geógrafos parte del Atlántico, cubre el casquete polar boreal y se comunica con el Pacífico por el estrecho de Béhring); el **Glacial Antártico** desechado como quinto océano por falta de límites adecuados, con los tres océanos unidos en su tramo meridional; el **Pacífico como el más extenso y profundo** (**49.87%** de la hidrósfera) con sus **seis fosas abisales**; la **definición de mar** del recuadro y sus características particulares; y el **Mar Báltico** (más frío por no recibir la Corriente del Golfo de México, con **0.02%** de salinidad en el Golfo de Botnia contra **3.50%** del Atlántico, y sus efectos sobre los peces). **El Cuadro 5.3 y las seis fosas se verificaron con `crop.py` a 600 dpi.** **La nota al pie 2 NO lleva reactivo:** repite los 362,033,000 km² y el 70.98%, que ya preguntan los reactivos 74 y 1. El apartado de los "mares" que son en realidad lagos **queda cortado al pie de la página** y se trabaja entero en la p.159.
+
 > **El 70.98% NO lleva reactivo aquí:** ya lo pregunta el **reactivo 1** de este mismo archivo, desde la p.151. En esta página entran sólo las cifras absolutas y el 29.02%, que son dato nuevo. **Anaximandro de Mileto tampoco duplica** a la Unidad II, donde aparece únicamente como distractor.
 
-**Pendiente:** EN CURSO. El tema **5.1 quedó CERRADO** (pp. 151–156) y el **5.2 está EN CURSO** (cubierta la p.157). Sigue desde la **p.158** con el resto del **5.2.1**, y después con los subtemas que restan: **5.2.2** Características e importancia de las aguas oceánicas (p.160), **5.2.3** Movimientos de las aguas oceánicas (I): olas y mareas (p.162), **5.2.4** Movimientos de las aguas oceánicas (II): las corrientes marinas (p.164) y **5.2.5** Formas del relieve submarino (p.167), hasta cerrar en la **p.167**: el **5.3 Las aguas continentales** empieza en la p.168 y **el temario NO lo pide**. Con el 5.2 se cierra la Unidad V. Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
+**Pendiente:** EN CURSO. El tema **5.1 quedó CERRADO** (pp. 151–156) y el **5.2 está EN CURSO** (cubiertas las pp. 157–158). Sigue desde la **p.159** con el resto del **5.2.1** —los lagos a los que se llama "mares", y los golfos, bahías y ensenadas—, y después con los subtemas que restan: **5.2.2** Características e importancia de las aguas oceánicas (p.160), **5.2.3** Movimientos de las aguas oceánicas (I): olas y mareas (p.162), **5.2.4** Movimientos de las aguas oceánicas (II): las corrientes marinas (p.164) y **5.2.5** Formas del relieve submarino (p.167), hasta cerrar en la **p.167**: el **5.3 Las aguas continentales** empieza en la p.168 y **el temario NO lo pide**. Con el 5.2 se cierra la Unidad V. Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
 
 ---
 
@@ -1430,4 +1432,366 @@ En relación con el libro de Geografía, ¿qué delimita al Océano Atlántico p
 **Subtema:** aguas oceánicas · límites del Atlántico
 
 "Al este, Europa, Asia (a través del Mar Mediterráneo) y África; al oeste, el Continente Americano."
+
+## Sub-lote 7 · Cuadro 5.3, los océanos restantes y los mares (5.2.1, p. 158)
+
+### 91
+
+De acuerdo con el libro de Geografía, según el Cuadro 5.3, ¿cuál es la superficie del Océano Pacífico?
+
+- A. 180,541,700 km²
+- B. 108,541,700 km²
+- C. 180,451,700 km²
+- D. 91,100,000 km²
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · Cuadro 5.3, superficie del Pacífico
+
+Cuadro 5.3: "Pacífico. 180,541,700."
+
+### 92
+
+De conformidad con el libro de Geografía, según el Cuadro 5.3, ¿qué porcentaje de la superficie terrestre representa el Pacífico?
+
+- A. 35.40
+- B. 34.50
+- C. 53.40
+- D. 17.86
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · Cuadro 5.3, porcentaje del Pacífico
+
+Cuadro 5.3: "Pacífico. [...] 35.40."
+
+### 93
+
+En relación con el libro de Geografía, según el Cuadro 5.3, ¿cuál es la profundidad media del Pacífico?
+
+- A. 3,940 m
+- B. 3,900 m
+- C. 3,960 m
+- D. 3,730 m
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · Cuadro 5.3, profundidad media del Pacífico
+
+Cuadro 5.3: "Pacífico. [...] 3,940."
+
+### 94
+
+De acuerdo con el libro de Geografía, según el Cuadro 5.3, ¿cuál es la superficie del Océano Atlántico?
+
+- A. 91,100,000 km²
+- B. 74,900,000 km²
+- C. 19,100,000 km²
+- D. 91,010,000 km²
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · Cuadro 5.3, superficie del Atlántico
+
+Cuadro 5.3: "Atlántico. 91,100,000."
+
+### 95
+
+De conformidad con el libro de Geografía, según el Cuadro 5.3, ¿cuál es la profundidad máxima del Atlántico y en qué fosa se encuentra?
+
+- A. 9,219 m, en la Fosa de Puerto Rico
+- B. 9,219 m, en la Fosa de Spitzberg
+- C. 8,047 m, en la Fosa de Puerto Rico
+- D. 10,924 m, en la Fosa de las Marianas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · Cuadro 5.3, profundidad máxima del Atlántico
+
+Cuadro 5.3: "Atlántico. [...] 9,219 (Fosa de Puerto Rico)."
+
+### 96
+
+En relación con el libro de Geografía, según el Cuadro 5.3, ¿cuál es la superficie del Océano Índico?
+
+- A. 74,900,000 km²
+- B. 47,900,000 km²
+- C. 74,090,000 km²
+- D. 91,100,000 km²
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · Cuadro 5.3, superficie del Índico
+
+Cuadro 5.3: "Índico. 74,900,000."
+
+### 97
+
+De acuerdo con el libro de Geografía, según el Cuadro 5.3, ¿cuál es la profundidad máxima del Índico y en qué fosa se encuentra?
+
+- A. 8,047 m, en la Fosa del Diamantina, Australia
+- B. 8,047 m, en la Fosa de Puerto Rico
+- C. 9,219 m, en la Fosa del Diamantina, Australia
+- D. 5,449 m, en la Fosa del Diamantina, Australia
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · Cuadro 5.3, profundidad máxima del Índico
+
+Cuadro 5.3: "Índico. [...] 8,047 (Fosa del Diamantina, Austr.)."
+
+### 98
+
+De conformidad con el libro de Geografía, según el Cuadro 5.3, ¿cuál es la superficie del Océano Glacial Ártico?
+
+- A. 13,223,700 km²
+- B. 13,322,700 km²
+- C. 31,223,700 km²
+- D. 74,900,000 km²
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · Cuadro 5.3, superficie del Glacial Ártico
+
+Cuadro 5.3: "Glacial Ártico. 13,223,700."
+
+### 99
+
+En relación con el libro de Geografía, según el Cuadro 5.3, ¿cuál es la profundidad media del Glacial Ártico?
+
+- A. 1,038 m
+- B. 1,308 m
+- C. 3,730 m
+- D. 3,900 m
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · Cuadro 5.3, profundidad media del Glacial Ártico
+
+Cuadro 5.3: "Glacial Ártico. [...] 1,038."
+
+### 100
+
+De acuerdo con el libro de Geografía, según el Cuadro 5.3, ¿cuál es la profundidad máxima del Glacial Ártico y en qué fosa se encuentra?
+
+- A. 5,449 m, en la Fosa de Spitzberg
+- B. 5,449 m, en la Fosa de Puerto Rico
+- C. 8,047 m, en la Fosa de Spitzberg
+- D. 1,038 m, en la Fosa de Spitzberg
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · Cuadro 5.3, profundidad máxima del Glacial Ártico
+
+Cuadro 5.3: "Glacial Ártico. [...] 5,449 (Fosa de Spitzberg)."
+
+### 101
+
+De conformidad con el libro de Geografía, según el Cuadro 5.3, ¿cuál es la superficie total de los océanos y qué porcentaje de la superficie terrestre representa?
+
+- A. 359,765,400 km², el 70.53%
+- B. 362,033,000 km², el 70.98%
+- C. 359,765,400 km², el 70.98%
+- D. 395,765,400 km², el 70.53%
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · Cuadro 5.3, total
+
+Cuadro 5.3: "Total. 359,765,400. 70.53."
+
+### 102
+
+En relación con el libro de Geografía, aunque están comunicados directamente con los océanos, ¿en qué presentan características particulares los mares?
+
+- A. En su profundidad, temperatura superficial, movimiento de sus aguas, desarrollo biótico y otros aspectos
+- B. Únicamente en su profundidad y su temperatura superficial
+- C. En su salinidad y su superficie, exclusivamente
+- D. En su relieve submarino y su origen geológico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · características particulares de los mares
+
+"Aunque comunicados directamente con los océanos, los mares presentan características particulares por lo que respecta a su profundidad, temperatura superficial, movimiento de sus aguas, desarrollo biótico y otros aspectos."
+
+### 103
+
+De acuerdo con el libro de Geografía, ¿qué delimita al Océano Índico?
+
+- A. Al norte, Asia; al sur, la Antártida; al este, varios archipiélagos y Australia; al oeste, África
+- B. Al norte, Asia; al sur, la Antártida; al este, África; al oeste, varios archipiélagos y Australia
+- C. Al norte, Europa; al sur, la Antártida; al este, Australia; al oeste, África
+- D. Al norte, Asia; al sur, África; al este, Australia; al oeste, América
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · límites del Índico
+
+"Océano Índico. Al norte, Asia; al sur, la Antártida; al este, varios archipiélagos (ubicados entre Asia y Oceanía) y Australia; al oeste, África."
+
+### 104
+
+De conformidad con el libro de Geografía, ¿cómo es considerado el Océano Glacial Ártico por muchos geógrafos?
+
+- A. Como parte del Atlántico
+- B. Como parte del Pacífico
+- C. Como parte del Índico
+- D. Como un quinto océano independiente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · el Glacial Ártico
+
+"Considerado por muchos geógrafos como parte del Atlántico."
+
+### 105
+
+En relación con el libro de Geografía, ¿qué cubre el Océano Glacial Ártico y por qué continentes está rodeado?
+
+- A. Cubre el casquete polar boreal, rodeado en su mayor parte por Europa, Asia y América del Norte
+- B. Cubre el casquete polar austral, rodeado en su mayor parte por Europa, Asia y América del Norte
+- C. Cubre el casquete polar boreal, rodeado en su mayor parte por América del Norte y Groenlandia
+- D. Cubre ambos casquetes polares, rodeado por todos los continentes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · casquete polar boreal
+
+"El Océano Glacial Ártico cubre el casquete polar boreal, estando rodeado en su mayor parte por Europa, Asia y América del Norte."
+
+### 106
+
+De acuerdo con el libro de Geografía, ¿por dónde se comunica el Glacial Ártico con el Océano Pacífico?
+
+- A. Por el estrecho de Béhring
+- B. Por el Mar Mediterráneo
+- C. Por la Fosa de Spitzberg
+- D. Por el Golfo de Botnia
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · comunicación con el Pacífico
+
+"Se comunica con el Océano Pacífico por el estrecho de Béhring."
+
+### 107
+
+De conformidad con el libro de Geografía, ¿cuál era el quinto océano que incluían los geógrafos hasta hace algunos años y por qué se desechó esa denominación?
+
+- A. El Glacial Antártico, por no haber límites adecuados para ese hipotético océano
+- B. El Glacial Antártico, por ser demasiado pequeño para considerarse océano
+- C. El Glacial Ártico, por no haber límites adecuados para ese hipotético océano
+- D. El Mar Mediterráneo, por estar comunicado con el Atlántico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · el Glacial Antártico
+
+"Hasta hace algunos años, los geógrafos incluían un 5o. océano, el Glacial Antártico, que rodeaba a la Antártida. En nuestros días se ha desechado esa denominación, por no haber límites adecuados para ese hipotético océano."
+
+### 108
+
+En relación con el libro de Geografía, ¿qué se considera ahora en su lugar?
+
+- A. Que los océanos Pacífico, Atlántico e Índico llegan hasta la Antártida, estando unidos en su tramo meridional
+- B. Que sólo el Océano Índico llega hasta la Antártida
+- C. Que los océanos Pacífico y Atlántico llegan hasta la Antártida, sin unirse entre sí
+- D. Que la Antártida está rodeada por el Océano Glacial Ártico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · unión en el tramo meridional
+
+"Ahora se considera que los océanos Pacífico, Atlántico e Índico llegan hasta la Antártida, estando unidos en su tramo meridional."
+
+### 109
+
+De acuerdo con el libro de Geografía, ¿qué porcentaje de la hidrósfera representa la superficie del Pacífico?
+
+- A. El 49.87%
+- B. El 35.40%
+- C. El 48.97%
+- D. El 70.53%
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · el Pacífico en la hidrósfera
+
+"El más extenso y profundo de los océanos es el Pacífico, cuya superficie de 180,541,700 km² representa el 49.87% de la hidrósfera."
+
+### 110
+
+De conformidad con el libro de Geografía, ¿cuáles son las fosas abisales del Pacífico y sus profundidades?
+
+- A. Marianas (10,924 m), Tonga (10,882 m), Kuriles (10,542), Filipinas (10,497), Ramapo o del Japón (10,340) y Kermadec (10,047)
+- B. Marianas (10,924 m), Tonga (10,882 m), Kuriles (10,542), Filipinas (10,497), Puerto Rico (10,340) y Kermadec (10,047)
+- C. Marianas (10,924 m), Kermadec (10,882 m), Kuriles (10,542), Filipinas (10,497), Ramapo o del Japón (10,340) y Tonga (10,047)
+- D. Marianas (10,942 m), Tonga (10,828 m), Kuriles (10,452), Filipinas (10,479), Ramapo o del Japón (10,430) y Kermadec (10,074)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · fosas abisales del Pacífico
+
+"Las fosas abisales de las Marianas (10,924 m), Tonga (10,882 m), Kuriles (10,542), Filipinas (10,497), Ramapo o del Japón (10,340) y Kermadec (10,047)."
+
+### 111
+
+En relación con el libro de Geografía, ¿qué son los mares?
+
+- A. Las porciones menores, generalmente periféricas, de los océanos, de los cuales están separados por la configuración de las costas continentales, la presencia de islas o el relieve submarino
+- B. Las grandes porciones en que puede dividirse la hidrósfera
+- C. Las porciones de agua salada rodeadas por completo de tierras emergidas
+- D. Las porciones menores, generalmente centrales, de los océanos, separadas por las corrientes marinas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · definición de mar
+
+Recuadro de definición: "Las porciones menores, generalmente periféricas, de los océanos, de los cuales están separados por la configuración de las costas continentales, la presencia de islas o el relieve submarino."
+
+### 112
+
+De acuerdo con el libro de Geografía, ¿por qué el Mar Báltico es más frío que el Océano Atlántico, del que forma parte?
+
+- A. Por no recibir el influjo de la cálida Corriente del Golfo de México
+- B. Por recibir el influjo de la fría Corriente del Golfo de México
+- C. Por encontrarse dentro del Círculo Polar Ártico
+- D. Por su escasa profundidad media
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · el Mar Báltico
+
+"El Mar Báltico, que forma parte del Océano Atlántico, es más frío que éste, por no recibir el influjo de la cálida Corriente del Golfo de México."
+
+### 113
+
+De conformidad con el libro de Geografía, ¿cuál es la salinidad del Mar Báltico en su parte norte y cuál la del Océano Atlántico?
+
+- A. 0.02% en el Golfo de Botnia, contra 3.50% en el Océano Atlántico
+- B. 0.20% en el Golfo de Botnia, contra 3.50% en el Océano Atlántico
+- C. 0.02% en el Golfo de Botnia, contra 0.35% en el Océano Atlántico
+- D. 3.50% en el Golfo de Botnia, contra 0.02% en el Océano Atlántico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · salinidad del Báltico
+
+"Su salinidad es bastante baja: en su parte norte (Golfo de Botnia) es de sólo 0.02% (contra 3.50% en el Océano Atlántico), debido a la escasa evaporación de sus aguas y los enormes volúmenes de agua dulce aportados por los arroyos, ríos y glaciares que recibe."
+
+### 114
+
+En relación con el libro de Geografía, ¿qué permite y qué inhibe esa baja salinidad?
+
+- A. Permite el desarrollo de peces de agua dulce e inhibe el crecimiento de los peces de agua salada
+- B. Permite el desarrollo de peces de agua salada e inhibe el crecimiento de los peces de agua dulce
+- C. Permite el desarrollo de ambos tipos de peces por igual
+- D. Inhibe el desarrollo de todo tipo de peces
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · peces del Báltico
+
+"Esa baja salinidad permite el desarrollo de peces de agua dulce y, por lo contrario, inhibe el crecimiento de los peces de agua salada."
 
