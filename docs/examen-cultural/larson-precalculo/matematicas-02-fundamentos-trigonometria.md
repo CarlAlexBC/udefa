@@ -65,7 +65,9 @@ Los `EJEMPLO` y el `Resumen` quedan fuera por norma, así que ninguno de estos d
 
 - Cubierta la página impresa **212**, arranque del **2.10 · Uso de identidades fundamentales**: los cuatro usos que se le darán a las identidades, el recuadro *Identidades trigonométricas fundamentales* completo —recíprocas, cociente, pitagóricas, de cofunción y par/impar—, la forma de radical de las pitagóricas y el `COMENTARIO` de que u puede ser un ángulo, un número real o una variable. Es la página más densa del capítulo y se leyó **renderizada**: la extracción destruye todo el recuadro.
 
-**Pendiente:** EN CURSO. El **2.6 y el 2.9 están CERRADOS** y el **2.10 va en curso**: sigue desde la página impresa **213**, y su teoría llega hasta la **p. 216**. Después faltan **2.15** (p. 254) y **2.16** (p. 263). **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
+- Cubiertas las páginas impresas **213 y 214**, con las que **cierra el 2.10**: que una aplicación común de las identidades es evaluar unas funciones a partir de otras, y las dos estrategias de trabajo (buscar una forma especial de factorización que se ajuste a la expresión, y reescribirla primero en términos de una sola función o sólo de seno y coseno). Las **pp. 215 y 216 no llevan reactivos**: son `EJEMPLO 6` a `EJEMPLO 9` (incluida la sustitución trigonométrica) más el `Resumen (sección 2.10)`. Las **pp. 217–218 son el bloque `2.10 Ejercicios`**.
+
+**Pendiente:** EN CURSO. El **2.6, el 2.9 y el 2.10 están CERRADOS**. Sigue la **2.15 · Ley de senos**, que arranca en la página impresa **254** y cuya teoría llega hasta la **p. 259**; después queda la **2.16 · Ley de cosenos** (pp. 263–266), con la que se cierra el capítulo 2. Después faltan **2.15** (p. 254) y **2.16** (p. 263). **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
 
 ---
 
@@ -994,5 +996,58 @@ En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué
 **Subtema:** identidades fundamentales · alcance de u
 
 Observe que u puede ser un ángulo, un número real o una variable.
+
+---
+
+## Sub-lote 6 · Estrategias para evaluar, factorizar y simplificar — cierra el 2.10 (pp. 213–214)
+
+### 55
+
+De acuerdo con el libro de Matemáticas, ¿cuál es una aplicación común de las identidades trigonométricas?
+
+- A. Usar valores dados de funciones trigonométricas para evaluar otras funciones trigonométricas
+- B. Trazar la gráfica de cualquier función trigonométrica
+- C. Medir el rumbo de una trayectoria
+- D. Calcular el periodo de un movimiento armónico
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 213
+**Subtema:** identidades fundamentales · evaluación de funciones
+
+Una aplicación común de identidades trigonométricas es usar valores dados de funciones trigonométricas para evaluar otras funciones trigonométricas.
+
+---
+
+### 56
+
+De conformidad con el libro de Matemáticas, al factorizar expresiones trigonométricas, ¿qué resulta útil?
+
+- A. Encontrar una forma especial para factorizar polinomios que se ajuste a la expresión
+- B. Convertir primero la expresión a grados
+- C. Elevar al cuadrado los dos miembros de la expresión
+- D. Sustituir la variable por un ángulo agudo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 214
+**Subtema:** identidades fundamentales · factorización de expresiones
+
+Cuando factorice expresiones trigonométricas, es útil encontrar una forma especial para factorizar polinomios que se ajuste a la expresión.
+
+---
+
+### 57
+
+En relación con el libro de Matemáticas, ¿cómo puede hacerse mejor, en ocasiones, la operación de factorizar o de simplificar?
+
+- A. Reescribiendo primero la expresión en términos de sólo una función trigonométrica, o sólo de seno y coseno
+- B. Reescribiendo primero la expresión en términos de las seis funciones trigonométricas
+- C. Sustituyendo primero la variable por su valor numérico
+- D. Multiplicando primero la expresión por su conjugado
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 214
+**Subtema:** identidades fundamentales · simplificación de expresiones
+
+En ocasiones, la operación de factorizar o de simplificar puede hacerse mejor si primero se reescribe la expresión en términos de sólo una función trigonométrica o en términos sólo de seno y coseno.
 
 ---
