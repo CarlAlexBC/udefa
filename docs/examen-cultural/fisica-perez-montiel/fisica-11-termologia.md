@@ -4699,6 +4699,392 @@ En relación con el libro de Física, ¿para qué se enfrían los alimentos en u
 
 <En un refrigerador se enfrían alimentos para evitar la proliferación de bacterias.>
 
+## Sub-lote 20 · Elementos del sistema de compresión e impacto ecológico (p. 369) — tema 13
+
+### 282
+
+De acuerdo con el libro de Física, ¿cuántos elementos utilizan los sistemas de compresión en el ciclo continuo de refrigeración?
+
+- A. Cuatro.
+- B. Tres.
+- C. Dos.
+- D. Cinco.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Los sistemas de compresión utilizan cuatro elementos en el ciclo continuo de refrigeración.>
+
+### 283
+
+De conformidad con el libro de Física, ¿cuáles son esos elementos?
+
+- A. Evaporador, compresor, condensador y válvula de expansión.
+- B. Evaporador, compresor, condensador y termostato.
+- C. Compresor, condensador, carburador y válvula de expansión.
+- D. Evaporador, caldera, condensador y válvula de escape.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Éstos son: 1. Evaporador. 2. Compresor. 3. Condensador. 4. Válvula de expansión.>
+
+### 284
+
+En relación con el libro de Física, ¿por qué el congelador del refrigerador se encuentra en la parte de arriba?
+
+- A. Ya que por las corrientes de convección, el aire caliente sube y el frío baja.
+- B. Ya que por las corrientes de convección, el aire frío sube y el caliente baja.
+- C. Ya que el compresor se instala en la parte baja del aparato.
+- D. Ya que el freón sólo circula por la parte alta del circuito.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Como habrá observado, el congelador del refrigerador se encuentra en la parte de arriba, ya que por las corrientes de convección, el aire caliente sube y el frío baja.>
+
+### 285
+
+De acuerdo con el libro de Física, ¿qué no sería posible sin los diferentes tipos de máquinas térmicas que existen?
+
+- A. El progreso de nuestra sociedad.
+- B. La existencia de la atmósfera terrestre.
+- C. El estudio de la termodinámica.
+- D. La conservación de la energía.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El progreso de nuestra sociedad no sería posible sin los diferentes tipos de máquinas térmicas que existen.>
+
+### 286
+
+De conformidad con el libro de Física, ¿qué provoca que las máquinas térmicas requieran del uso de diferentes energéticos?
+
+- A. Consecuencias alarmantes como la contaminación del suelo, agua y aire.
+- B. Consecuencias menores, limitadas a la contaminación del aire.
+- C. Un aumento en la eficiencia de las máquinas.
+- D. La disminución del esmog en los núcleos urbanos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<No debemos olvidar que las máquinas térmicas requieren del uso de diferentes energéticos, lo que provoca consecuencias alarmantes como la contaminación del suelo, agua y aire.>
+
+### 287
+
+En relación con el libro de Física, ¿de dónde provienen las sustancias nocivas que contiene el aire?
+
+- A. De la combustión de carbón, leña e hidrocarburos.
+- B. De la evaporación de los refrigerantes usados en los aparatos domésticos.
+- C. De la radiación ultravioleta proveniente del Sol.
+- D. De las corrientes de convección de los grandes núcleos urbanos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Estas sustancias provienen de la combustión de carbón, leña e hidrocarburos.>
+
+### 288
+
+De acuerdo con el libro de Física, ¿qué produce la gasolina con aire en exceso durante su combustión?
+
+- A. Bióxido de carbono y agua.
+- B. Monóxido de carbono y ozono.
+- C. Dióxido de azufre y humo.
+- D. Hidrocarburos no quemados y nitrógeno.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Así, la gasolina con aire en exceso produce durante su combustión bióxido de carbono y agua.>
+
+### 289
+
+De conformidad con el libro de Física, ¿para qué son más propicias las condiciones del motor?
+
+- A. Para una combustión parcial.
+- B. Para una combustión total.
+- C. Para la formación exclusiva de agua.
+- D. Para evitar la producción de sustancias nocivas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Pero las condiciones del motor son diferentes, más propicias para una combustión parcial.>
+
+### 290
+
+En relación con el libro de Física, ¿qué es el monóxido de carbono?
+
+- A. Un gas venenoso.
+- B. Un gas inofensivo para el ser humano.
+- C. Una variedad del oxígeno de tres átomos.
+- D. Un conjunto de partículas de carbono en suspensión.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Monóxido de carbono, que es un gas venenoso.>
+
+### 291
+
+De acuerdo con el libro de Física, ¿qué daños pueden causar los hidrocarburos no quemados?
+
+- A. Daños al hígado, hasta cáncer.
+- B. Daños a los pulmones, hasta asfixia.
+- C. Enfermedades de las vías respiratorias y lluvia ácida.
+- D. Irritación de los ojos únicamente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Hidrocarburos no quemados, que pueden causar daños al hígado, hasta cáncer.>
+
+### 292
+
+De conformidad con el libro de Física, ¿a partir de qué se forma el dióxido de azufre?
+
+- A. A partir de la pequeña cantidad de azufre que contiene el petróleo.
+- B. A partir de la reacción entre nitrógeno y oxígeno a la temperatura del motor.
+- C. A partir de la acción de la luz solar sobre el oxígeno.
+- D. A partir de las partículas de carbono en suspensión.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Dióxido de azufre, formado a partir de la pequeña cantidad de azufre que contiene el petróleo.>
+
+### 293
+
+En relación con el libro de Física, ¿qué ocasiona el dióxido de azufre?
+
+- A. Enfermedades de las vías respiratorias y lluvia ácida.
+- B. Daños al hígado, hasta cáncer.
+- C. El ennegrecimiento de la ropa y los edificios.
+- D. La destrucción de la capa de ozono de la alta atmósfera.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Que ocasiona enfermedades de las vías respiratorias y lluvia ácida.>
+
+### 294
+
+De acuerdo con el libro de Física, ¿de qué son producto el monóxido y el dióxido de nitrógeno?
+
+- A. De la reacción entre nitrógeno y oxígeno a la temperatura del motor.
+- B. De la reacción entre nitrógeno y azufre a la temperatura del motor.
+- C. De la combustión parcial de la leña y el carbón.
+- D. De la acción de la luz solar sobre los gases de escape.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Monóxido y dióxido de nitrógeno, productos de la reacción entre nitrógeno y oxígeno a la temperatura del motor.>
+
+### 295
+
+De conformidad con el libro de Física, ¿qué efectos ocasionan?
+
+- A. Los mismos efectos perniciosos que el dióxido de azufre.
+- B. Los mismos efectos perniciosos que el monóxido de carbono.
+- C. Efectos beneficiosos en la alta atmósfera.
+- D. Ningún efecto sobre la salud humana.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Ocasiona los mismos efectos perniciosos que el dióxido de azufre.>
+
+### 296
+
+En relación con el libro de Física, ¿por qué está constituido el humo?
+
+- A. Por pequeñas partículas de carbono en suspensión.
+- B. Por pequeñas gotas de agua en suspensión.
+- C. Por moléculas de ozono de tres átomos.
+- D. Por hidrocarburos no quemados en estado líquido.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Humo, constituido por pequeñas partículas de carbono en suspensión.>
+
+### 297
+
+De acuerdo con el libro de Física, ¿qué daña el humo?
+
+- A. Los pulmones, y ennegrece la ropa, rostro, casas y edificios.
+- B. El hígado, y ennegrece la ropa, rostro, casas y edificios.
+- C. Únicamente la ropa y los edificios.
+- D. Las vías respiratorias, y provoca lluvia ácida.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Que daña los pulmones y ennegrece la ropa, rostro, casas y edificios, entre otros.>
+
+### 298
+
+De conformidad con el libro de Física, ¿cuál es la fórmula del ozono y de cuántos átomos consta su molécula?
+
+- A. O₃, y su molécula consta de tres átomos en lugar de los dos que tiene la molécula de oxígeno común.
+- B. O₂, y su molécula consta de dos átomos como la del oxígeno común.
+- C. O₃, y su molécula consta de dos átomos en lugar de los tres del oxígeno común.
+- D. O₄, y su molécula consta de cuatro átomos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Ozono, gas de fórmula O₃ que es una variedad del oxígeno cuya molécula consta de tres átomos en lugar de los dos que tiene la molécula de oxígeno común (O₂).>
+
+### 299
+
+En relación con el libro de Física, ¿por qué es beneficioso el ozono en la alta atmósfera?
+
+- A. Porque nos protege de una radiación intensa de rayos ultravioleta provenientes del Sol.
+- B. Porque irrita las vías respiratorias de los organismos dañinos.
+- C. Porque absorbe el dióxido de azufre y el humo.
+- D. Porque impide la formación de esmog en las ciudades.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El caso del ozono es particular, ya que es beneficioso en la alta atmósfera, porque nos protege de una radiación intensa de rayos ultravioleta provenientes del Sol.>
+
+### 300
+
+De acuerdo con el libro de Física, ¿por qué es perjudicial el ozono en la superficie?
+
+- A. Por irritar las vías respiratorias.
+- B. Por dañar el hígado, hasta provocar cáncer.
+- C. Por ennegrecer la ropa y los edificios.
+- D. Por provocar lluvia ácida.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Pero perjudicial en la superficie por irritar las vías respiratorias.>
+
+### 301
+
+De conformidad con el libro de Física, ¿cómo se produce el ozono en la superficie?
+
+- A. Por la acción de la luz solar sobre el oxígeno y los gases de escape de los motores.
+- B. Por la combustión parcial de la gasolina en el interior del motor.
+- C. Por la reacción entre el nitrógeno y el azufre del petróleo.
+- D. Por las corrientes de convección de los núcleos urbanos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El ozono se produce aquí por la acción de la luz solar sobre el oxígeno y los gases de escape de los motores.>
+
+### 302
+
+En relación con el libro de Física, ¿cómo se llama el conjunto de esas sustancias?
+
+- A. Esmog.
+- B. Ozono.
+- C. Lluvia ácida.
+- D. Humo negro.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El conjunto de ellos forman lo que se llama esmog.>
+
+### 303
+
+De acuerdo con el libro de Física, ¿de qué palabras proviene ese vocablo inglés?
+
+- A. De la contracción de *smoke*, que significa humo, y *fog*, niebla.
+- B. De la contracción de *smoke*, que significa niebla, y *fog*, humo.
+- C. De la contracción de *smell*, que significa olor, y *fog*, niebla.
+- D. De la contracción de *smoke*, que significa humo, y *gas*.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Esmog (vocablo inglés que proviene de la contracción de las palabras *smoke* que significa humo y *fog*, niebla).>
+
+### 304
+
+De conformidad con el libro de Física, ¿cómo aparece el esmog?
+
+- A. Como una niebla contaminante y persistente sobre los grandes núcleos urbanos.
+- B. Como una lluvia ácida sobre los grandes núcleos urbanos.
+- C. Como una capa protectora en la alta atmósfera.
+- D. Como partículas de carbono depositadas en el suelo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Que aparece como una niebla contaminante y persistente sobre los grandes núcleos urbanos.>
+
+### 305
+
+En relación con el libro de Física, ¿qué produce el esmog que contamina las ciudades?
+
+- A. Los vehículos de combustión interna y las fábricas.
+- B. Los refrigeradores domésticos y los aparatos de aire acondicionado.
+- C. Las máquinas de vapor de combustión externa únicamente.
+- D. La radiación ultravioleta proveniente del Sol.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 369
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El esmog producido por los vehículos de combustión interna y fábricas contamina las ciudades.>
+
 ---
 
-**Reactivos en este archivo:** 281
+**Reactivos en este archivo:** 305
