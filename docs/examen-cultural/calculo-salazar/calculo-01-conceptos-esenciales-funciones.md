@@ -238,11 +238,18 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   y qué debe cumplir el denominador). **Fuera:** la Figura 1.23, los ejemplos de
   fracciones y de decimales periódicos, los valores de √2, √3, π y *e* (son ejemplos de
   números, no la definición), y el *Ejemplo* de *f* (*x*) = 3/(*x* − 5) con su Solución.
+- Cubierta la página impresa **28**: el significado del **símbolo ∪**, que para el dominio
+  de una racional **no importa el numerador**, que el denominador siempre debe ser un
+  polinomio distinto de cero, y la propiedad **|*x*| = √*x*²**. Esta última el libro la
+  suelta como recordatorio dentro de la solución de un ejemplo, pero es una propiedad
+  general y por eso entra. **Fuera:** el desarrollo del ejemplo de *f* (*x*) = 3/(*x* − 5)
+  con sus formas de escribir el dominio, la actividad de aprendizaje, el *Ejemplo* de
+  *f* (*x*) = 3/(*x*² − 25) con su Solución paso a paso, y las Figuras 1.24 y 1.25.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.27**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
-**b) está EN CURSO**. Sigue desde la **p.28** con el resto del **b)** funciones explícitas
-o implícitas (pp. 28–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
+va cubierto hasta la **p.28**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
+**b) está EN CURSO**. Sigue desde la **p.29** con el resto del **b)** funciones explícitas
+o implícitas (pp. 29–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
 **d)** función invertible y función inversa (pp. 49–60), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
@@ -1561,3 +1568,73 @@ De conformidad con el libro de Cálculo, ¿qué debe cumplir el denominador para
 **Subtema:** Dominio de una función · Funciones racionales
 
 "Por ello, el denominador debe ser distinto de cero para poder realizar las operaciones [...]"
+
+---
+
+## Sub-lote 15 · El símbolo de unión y qué manda en el dominio de una racional (1.3 b, p.28)
+
+### 78
+
+En relación con el libro de Cálculo, ¿qué significa el símbolo ∪?
+
+- A. Unión, juntar todos los elementos
+- B. Intersección, tomar sólo los elementos comunes
+- C. Diferencia, quitar los elementos de un conjunto a otro
+- D. Pertenencia de un elemento a un conjunto
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 28
+**Subtema:** Dominio de una función · Notación de intervalos
+
+"[...] el símbolo ∪ significa unión, juntar todos los elementos."
+
+### 79
+
+De acuerdo con el libro de Cálculo, para determinar el dominio de una función racional, ¿qué **no** importa?
+
+- A. Su numerador, incluso si es el polinomio cero
+- B. Su denominador, mientras no sea de grado uno
+- C. El grado del polinomio del numerador
+- D. El signo que tengan sus coeficientes
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 28
+**Subtema:** Dominio de una función · Funciones racionales
+
+"Como puedes observar, para determinar el dominio de la función no importa su numerador, incluso si es el polinomio cero [...]"
+
+> Nota de revisor: el aspirante estudia "el denominador no puede ser cero" y de ahí deduce
+> que el numerador también manda. El libro lo descarta expresamente, y ése es el dato.
+
+### 80
+
+De conformidad con el libro de Cálculo, ¿qué tiene que ser siempre el denominador?
+
+- A. Un polinomio distinto de cero
+- B. Un polinomio de grado mayor que el numerador
+- C. Un número entero positivo
+- D. Un polinomio con todas sus raíces reales
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 28
+**Subtema:** Dominio de una función · Funciones racionales
+
+"[...] recuerda que el denominador siempre tiene que ser un polinomio distinto de cero."
+
+### 81
+
+En relación con el libro de Cálculo, ¿a qué equivale el valor absoluto |*x*|?
+
+- A. A √*x*²
+- B. A *x*²
+- C. A −*x* siempre
+- D. A la raíz cúbica de *x*²
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 28
+**Subtema:** Dominio de una función · Valor absoluto
+
+"Recuerda que |*x*| = √*x*²"
+
+> Nota de revisor: el libro lo suelta como recordatorio dentro de la solución de un
+> ejemplo, pero es una **propiedad general**, no el ejercicio. Por eso entra.
