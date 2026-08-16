@@ -28,9 +28,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **53–59**: **3.1**, **3.2**, **3.3** COMPLETOS, y **3.4 · Componentes de un vector y vectores unitarios** muy avanzado (componentes = proyecciones; Ax = A cos θ, Ay = A sen θ; la advertencia de que eso vale sólo si θ se mide desde el eje x; A⃗ = A⃗x + A⃗y; magnitud A = √(Ax² + Ay²) y dirección θ = tan⁻¹(Ay/Ax); vector unitario; î, ĵ, k̂; y la notación A⃗ = Ax î + Ay ĵ). La portada (p.52) y los Ejemplos 3.1/3.2 no aportan reactivos.
+**CAPÍTULO 3 CERRADO** (a nivel de temario). Escritas las páginas impresas **53–60**, que cubren el capítulo completo que pide el temario: **3.1 · Sistemas coordenados** (cartesianas/rectangulares, polares r y θ, conversiones y Pitágoras), **3.2 · Cantidades vectoriales y escalares** (escalar, vector, magnitud siempre positiva, desplazamiento independiente de la trayectoria), **3.3 · Aritmética vectorial básica** (vectores iguales, suma gráfica, método del polígono, leyes conmutativa y asociativa, negativo, resta, producto por escalar) y **3.4 · Componentes de un vector y vectores unitarios** (Ax = A cos θ, Ay = A sen θ; A = √(Ax² + Ay²); θ = tan⁻¹(Ay/Ax); vector unitario; î, ĵ, k̂; A⃗ = Ax î + Ay ĵ; suma por componentes Rx = Ax + Bx; y la extensión a tres dimensiones). **Total: 42 reactivos.**
 
-**Pendiente:** EN CURSO. Falta el cierre de **3.4** (p.60: suma de vectores por componentes, Rx = Ax + Bx, etc.), hasta donde termine el cuerpo del capítulo (antes del resumen y los problemas P3.x, que no llevan reactivos). Con eso se cierra el capítulo completo.
+El cuerpo del capítulo termina en la **p.60**; las pp.61 en adelante son Ejemplos resueltos (3.3, 3.4…), el Resumen y los problemas de fin de capítulo (P3.x), que no llevan reactivos. La portada (p.52) y los Ejemplos 3.1/3.2 tampoco.
+
+**Pendiente:** el **Capítulo 3 queda CERRADO** (los cuatro temas del temario —3.1, 3.2, 3.3 y 3.4— completos, 42 reactivos). Del temario de Física EMEFA sólo falta por escribir **Cap. 10** (Mecánica de fluidos — 10.1 a 10.6), en su propio archivo.
 
 ---
 
@@ -617,3 +619,65 @@ En relación con el libro de Física, al resolver problemas en dos dimensiones, 
 **Subtema:** componentes y vectores unitarios · formas de especificar un vector
 
 "Cuando resuelva problemas en dos dimensiones, especifique un vector A⃗ con sus componentes Ax y Ay o con su magnitud y dirección A y θ."
+
+## Sub-lote 8 · Suma de vectores por componentes (p.60)
+
+### 39
+
+De conformidad con el libro de Física, en el método de componentes para sumar los vectores A⃗ y B⃗, ¿cuáles son las componentes del vector resultante R⃗?
+
+- A. Rx = Ax + Bx y Ry = Ay + By
+- B. Rx = Ax − Bx y Ry = Ay − By
+- C. Rx = Ax · Bx y Ry = Ay · By
+- D. Rx = Ay + By y Ry = Ax + Bx
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 60
+**Subtema:** componentes y vectores unitarios · componentes del vector resultante
+
+"Se ve que las componentes del vector resultante son Rx = Ax + Bx; Ry = Ay + By."
+
+### 40
+
+De acuerdo con el libro de Física, en el método de componentes de suma de vectores, para encontrar la componente x del vector resultante se:
+
+- A. suman todas las componentes x, y se usa el mismo proceso para las componentes y
+- B. multiplican todas las componentes x
+- C. restan las componentes y de las componentes x
+- D. suman las magnitudes de los vectores
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 60
+**Subtema:** componentes y vectores unitarios · método de componentes
+
+"En el método de componentes de suma de vectores, sumamos todas las componentes x para encontrar la componente x del vector resultante y usamos el mismo proceso para las componentes y."
+
+### 41
+
+En relación con el libro de Física, ¿cómo se expresa un vector A⃗ con componentes x, y y z en notación de vectores unitarios?
+
+- A. A⃗ = Ax î + Ay ĵ + Az k̂
+- B. A⃗ = Ax î + Ay ĵ
+- C. A⃗ = Ax + Ay + Az
+- D. A⃗ = î + ĵ + k̂
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 60
+**Subtema:** componentes y vectores unitarios · vector en tres dimensiones
+
+"Si A⃗ y B⃗ tienen componentes x, y y z, se expresan en la forma A⃗ = Ax î + Ay ĵ + Az k̂."
+
+### 42
+
+De conformidad con el libro de Física, si un vector R⃗ tiene componentes x, y y z, ¿cuál es la magnitud del vector?
+
+- A. R = √(Rx² + Ry² + Rz²)
+- B. R = Rx + Ry + Rz
+- C. R = √(Rx² + Ry²)
+- D. R = Rx · Ry · Rz
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 60
+**Subtema:** componentes y vectores unitarios · magnitud en tres dimensiones
+
+"Si un vector R⃗ tiene componentes x, y y z, la magnitud del vector es R = √(Rx² + Ry² + Rz²)."
