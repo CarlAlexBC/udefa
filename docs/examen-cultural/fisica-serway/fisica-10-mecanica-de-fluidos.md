@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escrita la página impresa **270** (más la definición de fluido de la CONEXIONES de la portada, p.269): **10.1 · Presión** (la presión P ≡ F/A como cantidad escalar, la unidad pascal = N/m², que los fluidos no soportan esfuerzos cortantes o de tracción y que la fuerza de un fluido estático es perpendicular a las superficies). La portada (p.269) es intro narrativa (IMAGINE); sólo su definición de fluido aporta reactivo.
+**EN CURSO.** Escritas las páginas impresas **270–271** (más la definición de fluido de la CONEXIONES de la portada, p.269): **10.1 · Presión** COMPLETO (la presión P ≡ F/A como cantidad escalar, la unidad pascal = N/m², que los fluidos no soportan esfuerzos cortantes o de tracción y que la fuerza de un fluido estático es perpendicular a las superficies) y el arranque de **10.2 · Variación de la presión con la profundidad** (la presión aumenta con la profundidad y la atmosférica baja con la altitud; densidad = masa/volumen; su variación con la temperatura; densidad de gases ≈ 1/1000). La portada (p.269) es intro narrativa y el Ejemplo 10.1 (p.271) no aportan reactivos.
 
-**Pendiente:** EN CURSO. Sigue **10.2 · Variación de la presión con la profundidad**, y luego 10.3, 10.4, 10.5 y 10.6. Los temas 10.7 y 10.8 quedan fuera del temario.
+**Pendiente:** EN CURSO. Sigue el resto de **10.2** (p.272: la ley P = P₀ + ρgh y el principio de Pascal), y luego 10.3, 10.4, 10.5 y 10.6. Los temas 10.7 y 10.8 quedan fuera del temario.
 
 ---
 
@@ -144,3 +144,65 @@ De acuerdo con el libro de Física, respecto a la distinción entre fuerza y pre
 **Subtema:** presión · fuerza (vector) frente a presión (escalar) (prevención de riesgos ocultos 10.1)
 
 "La fuerza es un vector y la presión es un escalar. La presión no tiene dirección asociada, pero la dirección de la fuerza asociada con la presión es perpendicular a la superficie sobre la que actúa la presión."
+
+## Sub-lote 2 · Densidad y variación de la presión (p.271)
+
+### 8
+
+En relación con el libro de Física, ¿cómo varían la presión del agua y la presión atmosférica?
+
+- A. La presión del agua aumenta con la profundidad y la presión atmosférica disminuye al aumentar la altitud
+- B. Ambas aumentan con la altitud
+- C. La presión del agua disminuye con la profundidad
+- D. La presión atmosférica aumenta con la altitud
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 271
+**Subtema:** variación de la presión con la profundidad · presión, profundidad y altitud
+
+"La presión del agua aumenta con la profundidad. Del mismo modo, la presión atmosférica disminuye al aumentar la altitud."
+
+### 9
+
+De conformidad con el libro de Física, ¿cómo se define la densidad de una sustancia?
+
+- A. Como su masa por unidad de volumen
+- B. Como su peso por unidad de área
+- C. Como su volumen por unidad de masa
+- D. Como su masa por unidad de longitud
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 271
+**Subtema:** variación de la presión con la profundidad · definición de densidad
+
+"La densidad de una sustancia se define como su masa por unidad de volumen."
+
+### 10
+
+De acuerdo con el libro de Física, ¿por qué las densidades de las sustancias varían ligeramente con la temperatura?
+
+- A. Porque el volumen de una sustancia depende de la temperatura
+- B. Porque la masa de una sustancia depende de la temperatura
+- C. Porque la presión no cambia con la temperatura
+- D. Porque la densidad es independiente del volumen
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 271
+**Subtema:** variación de la presión con la profundidad · densidad y temperatura
+
+"Estos valores varían ligeramente con la temperatura porque el volumen de una sustancia depende de la temperatura."
+
+### 11
+
+En relación con el libro de Física, bajo condiciones estándar (a 0 °C y presión atmosférica), las densidades de los gases son aproximadamente:
+
+- A. 1/1000 las densidades de sólidos y líquidos
+- B. iguales a las de sólidos y líquidos
+- C. 1000 veces las de sólidos y líquidos
+- D. la mitad de las de sólidos y líquidos
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 271
+**Subtema:** variación de la presión con la profundidad · densidad de los gases
+
+"Bajo condiciones estándar (a 0 °C y presión atmosférica), las densidades de los gases son aproximadamente 1/1000 las densidades de sólidos y líquidos."
