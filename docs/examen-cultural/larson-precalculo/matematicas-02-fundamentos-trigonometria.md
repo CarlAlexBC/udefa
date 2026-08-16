@@ -67,7 +67,7 @@ Los `EJEMPLO` y el `Resumen` quedan fuera por norma, así que ninguno de estos d
 
 - Cubiertas las páginas impresas **213 y 214**, con las que **cierra el 2.10**: que una aplicación común de las identidades es evaluar unas funciones a partir de otras, y las dos estrategias de trabajo (buscar una forma especial de factorización que se ajuste a la expresión, y reescribirla primero en términos de una sola función o sólo de seno y coseno). Las **pp. 215 y 216 no llevan reactivos**: son `EJEMPLO 6` a `EJEMPLO 9` (incluida la sustitución trigonométrica) más el `Resumen (sección 2.10)`. Las **pp. 217–218 son el bloque `2.10 Ejercicios`**.
 
-**Pendiente:** EN CURSO. El **2.6, el 2.9 y el 2.10 están CERRADOS**. Sigue la **2.15 · Ley de senos**, que arranca en la página impresa **254** y cuya teoría llega hasta la **p. 259**; después queda la **2.16 · Ley de cosenos** (pp. 263–266), con la que se cierra el capítulo 2. Después faltan **2.15** (p. 254) y **2.16** (p. 263). **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
+**Pendiente:** EN CURSO. El **2.6, el 2.9 y el 2.10 están CERRADOS**. Sigue la **2.15 · Ley de senos**, que arranca en la página impresa **254** y cuya teoría llega hasta la **p. 259**; después queda la **2.16 · Ley de cosenos** (pp. 263–266), con la que se cierra el capítulo 2. **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
 
 ---
 
