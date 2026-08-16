@@ -52,10 +52,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **157**: el arranque del **5.2** con el apartado **Los océanos** — el reparto de la superficie terrestre (**510,054,000 km²** en total, **362,033,000 km²** de hidrósfera y **148,021,000 km²** —el **29.02%**— de tierras emergidas), la hidrósfera como **masa continua** que permite dar la vuelta al planeta sin salirse del agua, la **definición de océano** del recuadro, **Anaximandro de Mileto (610-547 a.C.)** con su Tierra en forma de disco (el Gran Mar al centro, los 3 continentes alrededor y el gran «río» de la periferia) y la **etimología** de *oikía*, y la **delimitación** de los océanos **Pacífico** y **Atlántico** en sus cuatro rumbos. **Las cifras de superficie se verificaron con `crop.py` a 600 dpi.** La Figura 5.4 es un mapa y no lleva reactivos por norma.
 
 - Cubierta la página impresa **158**: el **Cuadro 5.3** completo (superficie, porcentaje y profundidades medias y máximas de los cuatro océanos, con sus fosas: **Marianas**, **Puerto Rico**, **Diamantina** y **Spitzberg**, más la fila del total); el cierre de la delimitación con el **Índico** y el **Glacial Ártico** (considerado por muchos geógrafos parte del Atlántico, cubre el casquete polar boreal y se comunica con el Pacífico por el estrecho de Béhring); el **Glacial Antártico** desechado como quinto océano por falta de límites adecuados, con los tres océanos unidos en su tramo meridional; el **Pacífico como el más extenso y profundo** (**49.87%** de la hidrósfera) con sus **seis fosas abisales**; la **definición de mar** del recuadro y sus características particulares; y el **Mar Báltico** (más frío por no recibir la Corriente del Golfo de México, con **0.02%** de salinidad en el Golfo de Botnia contra **3.50%** del Atlántico, y sus efectos sobre los peces). **El Cuadro 5.3 y las seis fosas se verificaron con `crop.py` a 600 dpi.** **La nota al pie 2 NO lleva reactivo:** repite los 362,033,000 km² y el 70.98%, que ya preguntan los reactivos 74 y 1. El apartado de los "mares" que son en realidad lagos **queda cortado al pie de la página** y se trabaja entero en la p.159.
+- Cubierta la página impresa **159**: el cierre del **5.2.1** — los lagos a los que se llama mares (**Caspio, de Aral y Muerto**, de agua salada, y el **Mar de Galilea**, de agua dulce, oficialmente **Jan Kinnéret**), la falta de criterio definido para distinguir **mares de golfos** (éstos generalmente menos extensos y profundos), la diferencia entre **bahías** (profundas, aguas turbulentas, para puertos) y **ensenadas** (poco profundas, fondos planos, aguas tranquilas, para turismo), y la denominación incorrecta de la **Bahía de Hudson** (una porción del Atlántico de **1,233,000 km²**, más de la mitad de la superficie de la República Mexicana), más las figuras **5.5** y **5.6**. **La superficie de la Bahía de Hudson se verificó con `crop.py` a 600 dpi.** **El reactivo 115 cita la p.158**, que es donde está impresa la lista de los tres lagos salados. **La mitad inferior de la página es un bloque de ejercicios** y no lleva reactivos por norma.
 
 > **El 70.98% NO lleva reactivo aquí:** ya lo pregunta el **reactivo 1** de este mismo archivo, desde la p.151. En esta página entran sólo las cifras absolutas y el 29.02%, que son dato nuevo. **Anaximandro de Mileto tampoco duplica** a la Unidad II, donde aparece únicamente como distractor.
 
-**Pendiente:** EN CURSO. El tema **5.1 quedó CERRADO** (pp. 151–156) y el **5.2 está EN CURSO** (cubiertas las pp. 157–158). Sigue desde la **p.159** con el resto del **5.2.1** —los lagos a los que se llama "mares", y los golfos, bahías y ensenadas—, y después con los subtemas que restan: **5.2.2** Características e importancia de las aguas oceánicas (p.160), **5.2.3** Movimientos de las aguas oceánicas (I): olas y mareas (p.162), **5.2.4** Movimientos de las aguas oceánicas (II): las corrientes marinas (p.164) y **5.2.5** Formas del relieve submarino (p.167), hasta cerrar en la **p.167**: el **5.3 Las aguas continentales** empieza en la p.168 y **el temario NO lo pide**. Con el 5.2 se cierra la Unidad V. Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
+**Pendiente:** EN CURSO. El tema **5.1 quedó CERRADO** (pp. 151–156) y el **5.2 está EN CURSO** (cubiertas las pp. 157–159, con el **5.2.1 CERRADO**). Sigue desde la **p.160**, y después con los subtemas que restan: **5.2.2** Características e importancia de las aguas oceánicas (p.160), **5.2.3** Movimientos de las aguas oceánicas (I): olas y mareas (p.162), **5.2.4** Movimientos de las aguas oceánicas (II): las corrientes marinas (p.164) y **5.2.5** Formas del relieve submarino (p.167), hasta cerrar en la **p.167**: el **5.3 Las aguas continentales** empieza en la p.168 y **el temario NO lo pide**. Con el 5.2 se cierra la Unidad V. Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
 
 ---
 
@@ -1794,4 +1795,186 @@ En relación con el libro de Geografía, ¿qué permite y qué inhibe esa baja s
 **Subtema:** aguas oceánicas · peces del Báltico
 
 "Esa baja salinidad permite el desarrollo de peces de agua dulce y, por lo contrario, inhibe el crecimiento de los peces de agua salada."
+
+## Sub-lote 8 · Golfos, bahías y ensenadas (5.2.1, p. 159)
+
+### 115
+
+De acuerdo con el libro de Geografía, ¿a qué lagos de agua salada se da erróneamente el nombre de mares?
+
+- A. A los mares Caspio, de Aral y Muerto
+- B. A los mares Caspio, Báltico y Muerto
+- C. A los mares de Aral, Muerto y Rojo
+- D. A los mares Caspio, de Galilea y Mediterráneo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 158
+**Subtema:** aguas oceánicas · lagos llamados mares
+
+"En ocasiones se da el nombre de mares, aunque erróneamente, a ciertos lagos de agua salada como los mares Caspio, de Aral y Muerto."
+
+### 116
+
+De conformidad con el libro de Geografía, ¿qué lago de agua dulce recibe también el nombre de mar, y cómo se le conoce oficialmente?
+
+- A. El Mar de Galilea, conocido oficialmente con el nombre de Jan Kinnéret
+- B. El Mar Muerto, conocido oficialmente con el nombre de Jan Kinnéret
+- C. El Mar de Galilea, conocido oficialmente con el nombre de Mar de Aral
+- D. El Mar Caspio, conocido oficialmente con el nombre de Jan Kinnéret
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
+**Subtema:** aguas oceánicas · el Mar de Galilea
+
+"E incluso a lagos de agua dulce, como el Mar de Galilea, conocido oficialmente con el nombre de Jan Kinnéret."
+
+### 117
+
+En relación con el libro de Geografía, ¿existe un criterio definido para distinguir a los mares de los golfos?
+
+- A. No hay un criterio definido, si bien los golfos generalmente son menos extensos y profundos que los mares
+- B. Sí, el criterio es que los golfos están rodeados de tierra por tres de sus lados
+- C. No hay un criterio definido, si bien los golfos generalmente son más extensos y profundos que los mares
+- D. Sí, el criterio es la salinidad de sus aguas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
+**Subtema:** aguas oceánicas · mares y golfos
+
+"No hay un criterio definido para distinguir a los mares de los golfos, si bien estos últimos generalmente son menos extensos y profundos que los primeros."
+
+### 118
+
+De acuerdo con el libro de Geografía, ¿qué son las bahías?
+
+- A. Entradas de mar relativamente profundas, de aguas turbulentas
+- B. Entradas de mar poco profundas, de fondos casi planos y aguas tranquilas
+- C. Porciones menores y periféricas de los océanos
+- D. Lagos de agua salada comunicados con el mar
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
+**Subtema:** aguas oceánicas · bahías
+
+"Las bahías son entradas de mar relativamente profundas, de aguas turbulentas."
+
+### 119
+
+De conformidad con el libro de Geografía, ¿qué son las ensenadas?
+
+- A. Entradas de mar poco profundas, de fondos casi planos y aguas tranquilas
+- B. Entradas de mar relativamente profundas, de aguas turbulentas
+- C. Entradas de mar de gran extensión y profundidad variable
+- D. Porciones de océano separadas por el relieve submarino
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
+**Subtema:** aguas oceánicas · ensenadas
+
+"Por lo contrario, las ensenadas son entradas de mar poco profundas, de fondos casi planos y aguas tranquilas."
+
+### 120
+
+En relación con el libro de Geografía, ¿para qué se usan sobre todo unas y otras?
+
+- A. Las bahías, para la instalación de puertos; las ensenadas, con fines turísticos
+- B. Las bahías, con fines turísticos; las ensenadas, para la instalación de puertos
+- C. Ambas, para la instalación de puertos
+- D. Ambas, con fines turísticos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
+**Subtema:** aguas oceánicas · uso de bahías y ensenadas
+
+"Las primeras son usadas sobre todo para la instalación de puertos; las segundas, con fines turísticos."
+
+### 121
+
+De acuerdo con el libro de Geografía, ¿qué denominación incorrecta se ve en los mapas?
+
+- A. La de Bahía de Hudson (Canadá)
+- B. La de Golfo de Hudson (Canadá)
+- C. La de Mar de Hudson (Canadá)
+- D. La de Ensenada de Hudson (Canadá)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
+**Subtema:** aguas oceánicas · la Bahía de Hudson
+
+"Así vemos en los mapas la denominación incorrecta de Bahía de Hudson (Canadá)."
+
+### 122
+
+De conformidad con el libro de Geografía, ¿a qué se aplica en realidad esa denominación?
+
+- A. A una porción del Océano Atlántico
+- B. A una porción del Océano Pacífico
+- C. A una porción del Océano Glacial Ártico
+- D. A un lago de agua salada
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
+**Subtema:** aguas oceánicas · la Bahía de Hudson
+
+"Aplicada a una porción del Océano Atlántico."
+
+### 123
+
+En relación con el libro de Geografía, ¿de qué superficie es esa porción?
+
+- A. De 1,233,000 km²
+- B. De 1,323,000 km²
+- C. De 12,330,000 km²
+- D. De 123,300 km²
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
+**Subtema:** aguas oceánicas · superficie de la Bahía de Hudson
+
+"Aplicada a una porción del Océano Atlántico de 1,233,000 km²."
+
+### 124
+
+De acuerdo con el libro de Geografía, ¿con qué compara el libro esa superficie?
+
+- A. Con más de la mitad de la superficie de la República Mexicana
+- B. Con menos de la mitad de la superficie de la República Mexicana
+- C. Con la superficie completa de la República Mexicana
+- D. Con la superficie del Mar Mediterráneo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
+**Subtema:** aguas oceánicas · comparación con México
+
+"De 1,233,000 km², más de la mitad de la superficie de la República Mexicana."
+
+### 125
+
+De conformidad con el libro de Geografía, según la Figura 5.5, ¿qué ejemplos de mares y golfos se muestran?
+
+- A. Los mares Mediterráneo y Rojo; los golfos de Suez y de Akaba
+- B. Los mares Mediterráneo y Báltico; los golfos de Suez y de Akaba
+- C. Los mares Rojo y Muerto; los golfos de Suez y de Botnia
+- D. Los mares Mediterráneo y Rojo; los golfos de Botnia y de México
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
+**Subtema:** aguas oceánicas · Figura 5.5
+
+"Figura 5.5 Ejemplos de mares y golfos: mares Mediterráneo y Rojo; golfos de Suez y de Akaba."
+
+### 126
+
+En relación con el libro de Geografía, según la Figura 5.6, ¿qué es en realidad el llamado Mar de Galilea?
+
+- A. Un lago de agua dulce
+- B. Un lago de agua salada
+- C. Un golfo del Mar Mediterráneo
+- D. Una ensenada del Mar Rojo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
+**Subtema:** aguas oceánicas · Figura 5.6
+
+"Figura 5.6 Una vista del llamado Mar de Galilea, que en realidad es un lago de agua dulce."
 
