@@ -4,7 +4,7 @@ import { useEffect, useState, useCallback } from 'react'
 import Link from 'next/link'
 import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
-import { colorDeExamen } from '@/lib/colores-paquete'
+import { colorDeExamen, HOJA_DE_PLATA_CLARA } from '@/lib/colores-paquete'
 import { Button } from '@/components/ui/button'
 import {
   AlertCircle,
@@ -256,10 +256,24 @@ export default function RepasoPage() {
       </div>
 
       <div className="mx-auto w-full max-w-3xl flex-1 px-6 py-8">
-        {/* Tarjeta del reactivo */}
-        <div className="rounded-xl border border-border bg-card p-6 shadow-sm">
+        {/* Tarjeta del reactivo — la misma hoja de plata del simulador y del
+            landing. Va NEUTRA: el color del examen ya lo llevan la etiqueta de
+            arriba, la barra de avance y la opción elegida. Y aquí pesa doble no
+            teñirla, porque esta pantalla corrige al momento y el olivo y el
+            rojo tienen que mandar. */}
+        <div
+          className="rounded-2xl border p-6 sm:p-8"
+          style={{
+            backgroundImage: HOJA_DE_PLATA_CLARA.fondo,
+            borderColor: HOJA_DE_PLATA_CLARA.borde,
+            boxShadow: HOJA_DE_PLATA_CLARA.sombra,
+          }}
+        >
           {actual.tema && (
-            <p className="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+            <p
+              className="text-[10px] font-bold uppercase tracking-[0.18em]"
+              style={{ color: ACENTO.c }}
+            >
               {actual.tema}
             </p>
           )}
