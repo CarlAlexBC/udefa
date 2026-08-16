@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **270–272** (más la definición de fluido de la portada, p.269): **10.1 · Presión** COMPLETO y **10.2 · Variación de la presión con la profundidad** muy avanzado (densidad = masa/volumen y su variación con la temperatura; densidad de gases ≈ 1/1000; líquido incompresible; la ley P = P₀ + ρgh; la presión atmosférica 1.013 × 10⁵ Pa; igual presión a igual profundidad sin importar la forma del recipiente; y la ley de Pascal). La portada (p.269) y el Ejemplo 10.1 (p.271) no aportan reactivos.
+**EN CURSO.** Escritas las páginas impresas **270–273** (más la definición de fluido de la portada, p.269): **10.1 · Presión** y **10.2 · Variación de la presión con la profundidad** COMPLETOS (densidad = masa/volumen y su variación con la temperatura; densidad de gases ≈ 1/1000; líquido incompresible; la ley P = P₀ + ρgh; la presión atmosférica 1.013 × 10⁵ Pa; igual presión a igual profundidad; la ley de Pascal; el elevador hidráulico F₁/A₁ = F₂/A₂ y sus aplicaciones). La portada (p.269) y los Ejemplos 10.1/10.2 no aportan reactivos.
 
-**Pendiente:** EN CURSO. Sigue el resto de **10.2** (p.273: la prensa hidráulica como aplicación de la ley de Pascal) y luego **10.3 · Mediciones de presión**, 10.4, 10.5 y 10.6. Los temas 10.7 y 10.8 quedan fuera del temario.
+**Pendiente:** EN CURSO. Sigue **10.3 · Mediciones de presión** (p.274: barómetro y manómetro), y luego 10.4, 10.5 y 10.6. Los temas 10.7 y 10.8 quedan fuera del temario.
 
 ---
 
@@ -298,3 +298,50 @@ En relación con el libro de Física, la separación molecular promedio en un ga
 **Subtema:** variación de la presión con la profundidad · separación molecular en gases
 
 "La separación molecular promedio en un gas bajo estas condiciones es aproximadamente 10 veces mayor que la de un sólido o líquido."
+
+## Sub-lote 4 · El elevador hidráulico (p.273)
+
+### 18
+
+De conformidad con el libro de Física, en un elevador hidráulico, ¿por qué una fuerza pequeña F₁ produce una fuerza mucho mayor F₂?
+
+- A. Porque la presión es la misma en ambos lados (F₁/A₁ = F₂/A₂), de modo que F₂ es mayor que F₁ en un factor A₂/A₁
+- B. Porque la presión disminuye del pistón pequeño al grande
+- C. Porque el líquido se comprime y multiplica la fuerza
+- D. Porque F₂ siempre es igual a F₁
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 273
+**Subtema:** variación de la presión con la profundidad · elevador hidráulico
+
+"Ya que la presión debe ser la misma en ambos lados, P = F₁/A₁ = F₂/A₂. Por tanto, la fuerza F₂ es mayor que la fuerza F₁ en un factor A₂/A₁."
+
+### 19
+
+De acuerdo con el libro de Física, ¿cuáles de los siguientes dispositivos utilizan el principio de la prensa hidráulica?
+
+- A. Los frenos hidráulicos, elevadores de automóviles, gatos hidráulicos y carretillas elevadoras
+- B. Los termómetros y barómetros
+- C. Las bombas de vacío
+- D. Los motores de combustión interna
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 273
+**Subtema:** variación de la presión con la profundidad · aplicaciones de la prensa hidráulica
+
+"Los frenos hidráulicos, elevadores de automóviles, gatos hidráulicos y carretillas elevadoras utilizan este principio."
+
+### 20
+
+En relación con el libro de Física, en el elevador hidráulico, ¿cómo se relacionan el trabajo de entrada y el de salida?
+
+- A. El trabajo efectuado por F₁ sobre el pistón de entrada es igual al trabajo realizado por F₂ sobre el pistón de salida, como debe ser para conservar energía
+- B. El trabajo de salida es mayor que el de entrada
+- C. El trabajo de entrada se pierde por completo
+- D. El trabajo de salida es siempre cero
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 273
+**Subtema:** variación de la presión con la profundidad · conservación de energía en el elevador hidráulico
+
+"El trabajo efectuado por F₁ sobre el pistón de entrada es igual al trabajo realizado por F₂ sobre el pistón de salida, como debe ser para conservar energía."
