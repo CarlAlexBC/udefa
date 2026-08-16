@@ -1,0 +1,146 @@
+# Física · Capítulo 10 · Mecánica de fluidos
+
+**Plantel:** Escuela Militar de Especialistas de Fuerza Aérea (EMEFA) · **Materia:** `FÍSICA-02-2026`
+**Aplica a:** Controlador de Vuelo (Lic. en Aeronáutica Mil.) y Meteorólogo (Lic. en Meteorología Mil.) — mismo temario de Física.
+
+> El reactivo pertenece al **libro** (`fisica-serway`), no al plantel.
+
+## Libro
+
+Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, **1ª edición**.
+
+## Alcance del temario
+
+El temario `FÍSICA-02-2026` de la EMEFA pide de este capítulo **seis temas** (no el capítulo completo):
+
+- **10.1** Presión
+- **10.2** Variación de la presión con la profundidad
+- **10.3** Mediciones de presión
+- **10.4** Fuerzas de flotación y principio de Arquímedes
+- **10.5** Dinámica de fluidos
+- **10.6** Ecuación de Bernoulli
+
+Los temas **10.7** (Flujo de fluidos viscosos en tuberías) y **10.8** (Otras aplicaciones de la dinámica de fluidos) no los pide el temario y quedan fuera.
+
+## Método y desfase
+
+Mismo libro de OCR de mala calidad que los otros capítulos del Serway: se trabaja por **render + lectura de la imagen**; el texto crudo sólo sirve para localizar, no para citar. **Desfase del Cap. 10: página impresa = hoja del PDF − 21** (hoja 291 = p.270, verificado en el encabezado; la portada del capítulo es la hoja 290 = p.269). **OJO:** es otro desfase, distinto de los Cap. 1/2/3 (−23) y del Cap. 5 (−22); por eso **la página se lee de la hoja, nunca se calcula**.
+
+## Criterio de este capítulo
+
+Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita del libro. Se caza el **dato olvidable**. Las definiciones (fluido, presión, densidad, principio de Pascal, principio de Arquímedes, ecuación de continuidad, ecuación de Bernoulli) y sus ecuaciones se citan textuales. La correcta se escribe siempre en **A**; el importador baraja las opciones. Los Ejemplos resueltos y los problemas de fin de capítulo no generan reactivos.
+
+## Cobertura actual
+
+**EN CURSO.** Escrita la página impresa **270** (más la definición de fluido de la CONEXIONES de la portada, p.269): **10.1 · Presión** (la presión P ≡ F/A como cantidad escalar, la unidad pascal = N/m², que los fluidos no soportan esfuerzos cortantes o de tracción y que la fuerza de un fluido estático es perpendicular a las superficies). La portada (p.269) es intro narrativa (IMAGINE); sólo su definición de fluido aporta reactivo.
+
+**Pendiente:** EN CURSO. Sigue **10.2 · Variación de la presión con la profundidad**, y luego 10.3, 10.4, 10.5 y 10.6. Los temas 10.7 y 10.8 quedan fuera del temario.
+
+---
+
+## Sub-lote 1 · Fluido y presión (pp.269–270)
+
+### 1
+
+De acuerdo con el libro de Física, ¿qué es un fluido?
+
+- A. Una colección de moléculas dispuestas aleatoriamente y unidas por fuerzas de cohesión débiles y por las fuerzas del recipiente que lo contiene; los líquidos y gases son fluidos
+- B. Únicamente un líquido en reposo
+- C. Un sólido con forma definida
+- D. Un cuerpo rígido indeformable
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 269
+**Subtema:** presión · definición de fluido
+
+"Un fluido es una colección de moléculas que están dispuestas aleatoriamente y unidas por fuerzas de cohesión débiles entre las moléculas y también por las fuerzas ejercidas por el recipiente que contiene el fluido. Los líquidos y gases son fluidos."
+
+### 2
+
+En relación con el libro de Física, ¿qué tipo de esfuerzos no soportan los fluidos?
+
+- A. Los esfuerzos cortantes o de tracción
+- B. Los esfuerzos de compresión
+- C. La presión atmosférica
+- D. La fuerza de gravedad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 270
+**Subtema:** presión · esfuerzos en fluidos
+
+"Los fluidos no soportan esfuerzos cortantes o de tracción."
+
+### 3
+
+De conformidad con el libro de Física, ¿cómo es la fuerza ejercida por un fluido estático sobre un objeto sumergido?
+
+- A. Siempre es perpendicular a las superficies del objeto
+- B. Siempre es paralela a las superficies del objeto
+- C. Actúa sólo hacia arriba
+- D. Es tangente a la superficie del objeto
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 270
+**Subtema:** presión · dirección de la fuerza de un fluido
+
+"La fuerza ejercida por un fluido estático sobre un objeto siempre es perpendicular a las superficies del objeto."
+
+### 4
+
+De acuerdo con el libro de Física, ¿cómo se define la presión P de un fluido?
+
+- A. Como la proporción de la fuerza al área: P ≡ F/A
+- B. Como el producto de la fuerza por el área: P ≡ F·A
+- C. Como la proporción del área a la fuerza: P ≡ A/F
+- D. Como la fuerza por el volumen: P ≡ F·V
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 270
+**Subtema:** presión · definición de presión
+
+"La presión P del fluido en el nivel al que se sumergió el dispositivo se define como la proporción de la fuerza al área: P ≡ F/A."
+
+### 5
+
+En relación con el libro de Física, ¿qué tipo de cantidad es la presión?
+
+- A. Una cantidad escalar
+- B. Una cantidad vectorial
+- C. Una cantidad con dirección definida
+- D. Un vector unitario
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 270
+**Subtema:** presión · la presión es escalar
+
+"La presión es una cantidad escalar porque es proporcional a la magnitud de la fuerza sobre el pistón."
+
+### 6
+
+De conformidad con el libro de Física, ¿cuál es la unidad del SI de la presión y a qué equivale?
+
+- A. El pascal (Pa); 1 Pa ≡ 1 N/m²
+- B. El newton (N); 1 N ≡ 1 kg·m/s²
+- C. El joule (J); 1 J ≡ 1 N·m
+- D. El watt (W); 1 W ≡ 1 J/s
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 270
+**Subtema:** presión · unidad de presión
+
+"Las unidades de presión son newtons por metro cuadrado (N/m²) en el sistema SI. Otro nombre para la unidad SI de presión es pascal (Pa): 1 Pa ≡ 1 N/m²."
+
+### 7
+
+De acuerdo con el libro de Física, respecto a la distinción entre fuerza y presión:
+
+- A. la fuerza es un vector y la presión es un escalar
+- B. ambas son vectores
+- C. ambas son escalares
+- D. la fuerza es un escalar y la presión es un vector
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 270
+**Subtema:** presión · fuerza (vector) frente a presión (escalar) (prevención de riesgos ocultos 10.1)
+
+"La fuerza es un vector y la presión es un escalar. La presión no tiene dirección asociada, pero la dirección de la fuerza asociada con la presión es perpendicular a la superficie sobre la que actúa la presión."
