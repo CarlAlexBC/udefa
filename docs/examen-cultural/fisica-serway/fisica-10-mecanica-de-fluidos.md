@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **270–271** (más la definición de fluido de la CONEXIONES de la portada, p.269): **10.1 · Presión** COMPLETO (la presión P ≡ F/A como cantidad escalar, la unidad pascal = N/m², que los fluidos no soportan esfuerzos cortantes o de tracción y que la fuerza de un fluido estático es perpendicular a las superficies) y el arranque de **10.2 · Variación de la presión con la profundidad** (la presión aumenta con la profundidad y la atmosférica baja con la altitud; densidad = masa/volumen; su variación con la temperatura; densidad de gases ≈ 1/1000). La portada (p.269) es intro narrativa y el Ejemplo 10.1 (p.271) no aportan reactivos.
+**EN CURSO.** Escritas las páginas impresas **270–272** (más la definición de fluido de la portada, p.269): **10.1 · Presión** COMPLETO y **10.2 · Variación de la presión con la profundidad** muy avanzado (densidad = masa/volumen y su variación con la temperatura; densidad de gases ≈ 1/1000; líquido incompresible; la ley P = P₀ + ρgh; la presión atmosférica 1.013 × 10⁵ Pa; igual presión a igual profundidad sin importar la forma del recipiente; y la ley de Pascal). La portada (p.269) y el Ejemplo 10.1 (p.271) no aportan reactivos.
 
-**Pendiente:** EN CURSO. Sigue el resto de **10.2** (p.272: la ley P = P₀ + ρgh y el principio de Pascal), y luego 10.3, 10.4, 10.5 y 10.6. Los temas 10.7 y 10.8 quedan fuera del temario.
+**Pendiente:** EN CURSO. Sigue el resto de **10.2** (p.273: la prensa hidráulica como aplicación de la ley de Pascal) y luego **10.3 · Mediciones de presión**, 10.4, 10.5 y 10.6. Los temas 10.7 y 10.8 quedan fuera del temario.
 
 ---
 
@@ -206,3 +206,95 @@ En relación con el libro de Física, bajo condiciones estándar (a 0 °C y pres
 **Subtema:** variación de la presión con la profundidad · densidad de los gases
 
 "Bajo condiciones estándar (a 0 °C y presión atmosférica), las densidades de los gases son aproximadamente 1/1000 las densidades de sólidos y líquidos."
+
+## Sub-lote 3 · La ley P = P₀ + ρgh y la ley de Pascal (p.272)
+
+### 12
+
+De conformidad con el libro de Física, cuando se supone que la densidad ρ es uniforme en todo el líquido, esto significa que el líquido es:
+
+- A. incompresible
+- B. compresible
+- C. viscoso
+- D. turbulento
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 272
+**Subtema:** variación de la presión con la profundidad · líquido incompresible
+
+"Se supone que ρ es uniforme en todo el líquido, esto significa que el líquido es incompresible."
+
+### 13
+
+De acuerdo con el libro de Física, ¿cómo varía la presión P a una profundidad h bajo un punto donde la presión es P₀?
+
+- A. P = P₀ + ρgh
+- B. P = P₀ − ρgh
+- C. P = P₀ · ρgh
+- D. P = ρgh − P₀
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 272
+**Subtema:** variación de la presión con la profundidad · ley P = P₀ + ρgh
+
+"P = P₀ + ρgh. Es decir, la presión P a una profundidad h bajo un punto en el líquido, donde la presión es P₀, es mayor en una cantidad ρgh."
+
+### 14
+
+En relación con el libro de Física, si el líquido está abierto a la atmósfera, P₀ es la presión atmosférica, cuyo valor usual es:
+
+- A. P₀ = 1.00 atm = 1.013 × 10⁵ Pa
+- B. P₀ = 1.00 atm = 1.013 × 10³ Pa
+- C. P₀ = 10.0 atm = 1.013 × 10⁶ Pa
+- D. P₀ = 0.10 atm = 1.013 × 10⁴ Pa
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 272
+**Subtema:** variación de la presión con la profundidad · presión atmosférica
+
+"Es usual tomar la presión atmosférica como P₀ = 1.00 atm = 1.013 × 10⁵ Pa."
+
+### 15
+
+De conformidad con el libro de Física, ¿qué implica la ecuación P = P₀ + ρgh respecto a los puntos de igual profundidad?
+
+- A. La presión es la misma en todos los puntos que tengan la misma profundidad, independientemente de la forma del recipiente
+- B. La presión depende de la forma del recipiente
+- C. La presión es mayor en los recipientes más anchos
+- D. La presión disminuye con la profundidad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 272
+**Subtema:** variación de la presión con la profundidad · presión a igual profundidad
+
+"La ecuación 10.4 implica que la presión es la misma en todos los puntos que tengan la misma profundidad, independientemente de la forma del recipiente."
+
+### 16
+
+De acuerdo con el libro de Física, ¿qué establece la ley de Pascal?
+
+- A. Un cambio en la presión aplicada a un fluido se transmite sin disminución a todos los puntos del fluido y a las paredes del recipiente
+- B. La presión de un fluido disminuye con la profundidad
+- C. La presión sólo se transmite hacia arriba en un fluido
+- D. Un cambio de presión se pierde parcialmente al transmitirse
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 272
+**Subtema:** variación de la presión con la profundidad · ley de Pascal
+
+"Ley de Pascal: un cambio en la presión aplicada a un fluido se transmite sin disminución a todos los puntos del fluido y a las paredes del recipiente."
+
+### 17
+
+En relación con el libro de Física, la separación molecular promedio en un gas (bajo condiciones estándar) es aproximadamente:
+
+- A. 10 veces mayor que la de un sólido o líquido
+- B. igual que la de un sólido o líquido
+- C. 10 veces menor que la de un sólido o líquido
+- D. 1000 veces mayor que la de un sólido o líquido
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 272
+**Subtema:** variación de la presión con la profundidad · separación molecular en gases
+
+"La separación molecular promedio en un gas bajo estas condiciones es aproximadamente 10 veces mayor que la de un sólido o líquido."
