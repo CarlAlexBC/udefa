@@ -231,11 +231,18 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   de transición que abre *Dominio y rango de una función* (*"se hace necesario que tengas
   muy claro cómo están formados los números reales"*), que anuncia el tema en vez de
   enseñarlo. **La lista de los números reales sigue en la p.27** y ahí se recoge entera.
+- Cubierta la página impresa **27**: el resto de los **números reales** —enteros,
+  racionales e irracionales, con sus letras y sus formas de representación decimal— y el
+  arranque del **dominio**: que el de los polinomios son todos los reales, y el apartado
+  **Dominio de las funciones racionales y asíntotas verticales** (cuándo no está definida
+  y qué debe cumplir el denominador). **Fuera:** la Figura 1.23, los ejemplos de
+  fracciones y de decimales periódicos, los valores de √2, √3, π y *e* (son ejemplos de
+  números, no la definición), y el *Ejemplo* de *f* (*x*) = 3/(*x* − 5) con su Solución.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.26**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
-**b) está EN CURSO**. Sigue desde la **p.27** con el resto del **b)** funciones explícitas
-o implícitas (pp. 27–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
+va cubierto hasta la **p.27**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
+**b) está EN CURSO**. Sigue desde la **p.28** con el resto del **b)** funciones explícitas
+o implícitas (pp. 28–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
 **d)** función invertible y función inversa (pp. 49–60), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
@@ -1419,3 +1426,138 @@ En relación con el libro de Cálculo, en la sucesión de los números naturales
 **Subtema:** Números reales · Números naturales
 
 "[...] Los tres puntos indican que continúan en forma infinita."
+
+---
+
+## Sub-lote 14 · Enteros, racionales, irracionales y el dominio (1.3 b, p.27)
+
+### 70
+
+De acuerdo con el libro de Cálculo, ¿cómo se forman los números enteros y con qué letra se representan?
+
+- A. Por los números naturales y sus simétricos, que son los números negativos, y el cero; se representan con la letra *Z*
+- B. Sólo por los números naturales y sus simétricos, sin incluir el cero; se representan con la letra *N*
+- C. Por la razón entre dos números naturales; se representan con la letra *Q*
+- D. Por los números naturales y sus recíprocos; se representan con la letra *R*
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 27
+**Subtema:** Números reales · Números enteros
+
+"2. Números enteros (*Z*). Estos números se forman por los números naturales y sus simétricos (que son los números negativos) y el cero [...] Se representan con la letra *Z*."
+
+> Nota de revisor: aquí el cero **sí** entra, y en los naturales de la p.26 **no**. Es el
+> contraste que el libro marca en dos páginas seguidas y donde se equivoca quien los
+> repasa juntos.
+
+### 71
+
+De conformidad con el libro de Cálculo, ¿qué representa el cero y qué particularidad tiene?
+
+- A. Representa la ausencia de unidades, por lo que carece de signo
+- B. Representa la unidad de referencia, por lo que su signo es positivo
+- C. Representa el simétrico de sí mismo, por lo que tiene los dos signos
+- D. Representa el menor de los números naturales
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 27
+**Subtema:** Números reales · Números enteros
+
+"[...] y el cero, los cuales representan la ausencia de unidades, por lo que carece de signo."
+
+### 72
+
+En relación con el libro de Cálculo, ¿qué son los números racionales?
+
+- A. La razón que existe entre dos números enteros *a*/*b*, donde *b* es distinto de cero
+- B. La razón que existe entre dos números enteros *a*/*b*, donde *a* es distinto de cero
+- C. Los números que se forman por los naturales, sus simétricos y el cero
+- D. Toda representación decimal infinita no periódica
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 27
+**Subtema:** Números reales · Números racionales
+
+"3. Números racionales (*Q*). Es la razón que existe entre dos números enteros *a*/*b*, donde *b* es distinto de cero."
+
+> Nota de revisor: el distractor B cambia **cuál** de los dos no puede ser cero. Es el
+> detalle que se pierde y el que de verdad importa.
+
+### 73
+
+De acuerdo con el libro de Cálculo, según la nota, ¿qué forma de representación tiene todo número racional?
+
+- A. Decimal infinita periódica
+- B. Decimal infinita no periódica
+- C. Decimal finita en todos los casos
+- D. Decimal finita o infinita, según la base
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 27
+**Subtema:** Números reales · Números racionales
+
+"Nota: todo número racional tiene una forma de representación decimal infinita periódica."
+
+### 74
+
+De conformidad con el libro de Cálculo, ¿qué son los números irracionales?
+
+- A. Una representación decimal infinita no periódica
+- B. Una representación decimal infinita periódica
+- C. Una representación decimal finita
+- D. La razón entre dos números enteros con divisor distinto de cero
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 27
+**Subtema:** Números reales · Números irracionales
+
+"4. Números irracionales (*I*). Es una representación decimal infinita no periódica."
+
+> Nota de revisor: racional e irracional se distinguen por **una sola palabra** —periódica
+> o no periódica—. Los reactivos 73 y 74 llevan cada uno la definición del otro como
+> distractor; es el mismo tipo de par que par/impar en la p.25.
+
+### 75
+
+En relación con el libro de Cálculo, ¿cuál es el dominio de las funciones que son polinomios?
+
+- A. Todos los números reales
+- B. Todos los números reales menos el cero
+- C. Únicamente los números enteros
+- D. Únicamente los valores donde el polinomio se anula
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 27
+**Subtema:** Dominio de una función · Dominio de los polinomios
+
+"[...] por ello, decimos que en las funciones que son polinomios su dominio son todos los números reales, lo que escribimos así: *Dmf*, y se lee dominio de *f*."
+
+### 76
+
+De acuerdo con el libro de Cálculo, ¿cuándo una función racional no está definida?
+
+- A. Cuando el denominador es cero
+- B. Cuando el numerador es cero
+- C. Cuando la variable toma valores negativos
+- D. Cuando el numerador y el denominador son iguales
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 27
+**Subtema:** Dominio de una función · Funciones racionales
+
+"En las funciones racionales observamos que existen valores de la función donde no está definida, esto sucede cuando el denominador es cero."
+
+### 77
+
+De conformidad con el libro de Cálculo, ¿qué debe cumplir el denominador para poder realizar las operaciones?
+
+- A. Debe ser distinto de cero
+- B. Debe ser un número entero
+- C. Debe ser mayor que el numerador
+- D. Debe ser siempre positivo
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 27
+**Subtema:** Dominio de una función · Funciones racionales
+
+"Por ello, el denominador debe ser distinto de cero para poder realizar las operaciones [...]"
