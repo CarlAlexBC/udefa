@@ -132,6 +132,25 @@ export function acabadoClaroDeModulo(
 }
 
 /**
+ * La misma hoja de plata, pero SIN teñir de ningún módulo.
+ *
+ * Para superficies claras donde el color tiene que quedar libre para otra cosa.
+ * El caso que la pidió: la muestra del landing ("Prueba el examen") es un mini
+ * examen que corrige al momento —olivo si acertaste, rojo si no—, y sus cinco
+ * reactivos son del psicológico, que también es rojo. Un marco teñido de rojo
+ * le robaba fuerza justo al rojo del error, que es lo único que esa sección
+ * tiene que dejar claro. Aquí el marco se calla y deja hablar a la corrección.
+ */
+export const HOJA_DE_PLATA_CLARA = {
+  fondo: [
+    'linear-gradient(118deg, transparent 24%, rgba(255,255,255,0.9) 43%, rgba(255,255,255,0.35) 54%, transparent 72%)',
+    'linear-gradient(118deg, #F4F3EE 0%, #EDECE7 46%, #F7F6F2 68%, #EAE9E3 100%)',
+  ].join(', '),
+  borde: '#DDD9CF',
+  sombra: '0 10px 24px -16px rgba(60,52,40,0.5), 0 0 0 1px rgba(22,21,19,0.02)',
+} as const
+
+/**
  * El latón de la marca, en el tono que SÍ se lee sobre crema.
  *
  * El latón de marca `#C99A3B` da **2.32:1** sobre `#F7F3EA` — reprueba el piso

@@ -13,6 +13,7 @@ import {
 } from '@/components/ui/carousel'
 import { Button, buttonVariants } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
+import { colorDeExamen, HOJA_DE_PLATA_CLARA } from '@/lib/colores-paquete'
 import {
   ArrowRight,
   Brain,
@@ -29,6 +30,19 @@ import {
    y ampliados con nota pedagógica pensada para el visitante
    que aún no se registró.
    ═══════════════════════════════════════════════════════════ */
+
+/**
+ * El color de la muestra. Los cinco reactivos son del examen PSICOLÓGICO —tres
+ * del psicométrico, uno de personalidad, uno del axiológico—, así que sale de
+ * ahí y no de un hex escrito a mano: si el módulo cambia de color, la muestra
+ * lo sigue. Si algún día se agrega un reactivo cultural, este acento tendría
+ * que salir de cada slide en vez de ser uno solo para todos.
+ *
+ * OJO: el acento vive SÓLO en la etiqueta de la fase y su chip. Nunca en el
+ * marco ni en las opciones — ahí el olivo significa "correcta" y el rojo
+ * "incorrecta", y son lo único que esta sección tiene que dejar claro.
+ */
+const ACENTO = colorDeExamen('psicometrico', 'claro')
 
 type SlidePsicometrico = {
   tipo: 'psicometrico'
@@ -250,14 +264,27 @@ function SlidePsicometricoUI({
   const IconoFase = slide.icono === 'brain' ? Brain : UserCircle
 
   return (
-    <article className="rounded-2xl border border-border bg-card p-6 shadow-sm md:p-8">
+    <article
+      className="rounded-2xl border p-6 md:p-8"
+      style={{
+        backgroundImage: HOJA_DE_PLATA_CLARA.fondo,
+        borderColor: HOJA_DE_PLATA_CLARA.borde,
+        boxShadow: HOJA_DE_PLATA_CLARA.sombra,
+      }}
+    >
       {/* Cabecera con fase */}
       <div className="mb-4 flex items-center gap-2">
-        <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-accent/10">
-          <IconoFase className="h-4 w-4 text-accent" />
+        <div
+          className="flex h-8 w-8 items-center justify-center rounded-lg border bg-white/80"
+          style={{ borderColor: `${ACENTO.c}59`, color: ACENTO.c }}
+        >
+          <IconoFase className="h-4 w-4" />
         </div>
         <div>
-          <p className="text-[10px] font-bold uppercase tracking-widest text-military">
+          <p
+            className="text-[10px] font-bold uppercase tracking-widest"
+            style={{ color: ACENTO.c }}
+          >
             {slide.fase}
           </p>
           <p className="text-xs text-muted-foreground">{slide.bloque}</p>
@@ -286,10 +313,14 @@ function SlidePsicometricoUI({
               onClick={() => onResponder(opcion)}
               className={cn(
                 'flex items-center gap-3 rounded-lg border p-3 text-left text-sm transition-colors',
-                !yaRespondio && 'border-border bg-background hover:border-accent hover:bg-accent/5 cursor-pointer',
+                /* Blancas, no color crema: sobre la hoja de plata el crema se
+                   confunde con el fondo y dejan de leerse como botones. El
+                   hover se queda en latón a propósito — el olivo y el rojo
+                   están reservados para la corrección. */
+                !yaRespondio && 'border-border bg-white hover:border-accent hover:bg-accent/5 cursor-pointer',
                 mostrarCorrecta && 'border-military bg-military/10 font-semibold text-foreground',
                 mostrarIncorrecta && 'border-destructive bg-destructive/10 text-foreground',
-                yaRespondio && !mostrarCorrecta && !mostrarIncorrecta && 'border-border bg-background/50 text-muted-foreground',
+                yaRespondio && !mostrarCorrecta && !mostrarIncorrecta && 'border-border bg-white/50 text-muted-foreground',
               )}
             >
               <span
