@@ -9,7 +9,11 @@ import { AVISO_SIMULADOR } from '@/lib/legal'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import { logoDePlantel } from '@/lib/planteles'
-import { colorDeExamen, LATON_SOBRE_CLARO } from '@/lib/colores-paquete'
+import {
+  colorDeExamen,
+  HOJA_DE_PLATA_CLARA,
+  LATON_SOBRE_CLARO,
+} from '@/lib/colores-paquete'
 import {
   INSTRUCCIONES_POR_BLOQUE,
   construirInstruccionesCultural,
@@ -550,13 +554,39 @@ export default function SimuladorPage({
           {/* Enunciado de texto: solo si lo hay. Los reactivos con figura
               (razonamiento abstracto) lo llevan vacío — la pregunta va en la
               imagen. */}
-          {reactivoActual.enunciado && (
-            <div className="mb-6 flex min-h-[120px] items-center">
-              <h2 className="text-xl font-semibold leading-snug text-foreground sm:text-2xl">
-                {reactivoActual.enunciado}
-              </h2>
-            </div>
-          )}
+          {/* El reactivo vive en su propia ficha, no suelto sobre el fondo.
+              Antes el enunciado y las opciones flotaban en el tercio de arriba
+              y abajo quedaba media pantalla vacía; encerrarlos le da cuerpo y
+              deja nombrar el bloque, que hasta ahora sólo aparecía chiquito en
+              la barra de arriba. Es la misma hoja de plata del landing, en su
+              versión NEUTRA: aquí el color del módulo ya lo llevan la etiqueta,
+              la barra de avance y la opción elegida — teñir también la ficha
+              sería repetirlo cuatro veces. */}
+          <div
+            className="mb-6 rounded-2xl border p-6 sm:p-8"
+            style={{
+              backgroundImage: HOJA_DE_PLATA_CLARA.fondo,
+              borderColor: HOJA_DE_PLATA_CLARA.borde,
+              boxShadow: HOJA_DE_PLATA_CLARA.sombra,
+            }}
+          >
+            {/* Qué se está contestando ahora mismo: "Analogías Verbales",
+                "Biología"… Sale del bloque, así sirve igual para el
+                psicométrico por bloques y para el cultural de corrido. */}
+            <p
+              className="mb-3 text-[10px] font-bold uppercase tracking-[0.18em]"
+              style={{ color: acento.c }}
+            >
+              {bloqueActual.nombre}
+            </p>
+
+            {reactivoActual.enunciado && (
+              <div className="mb-6 flex min-h-[96px] items-center">
+                <h2 className="text-xl font-semibold leading-snug text-foreground sm:text-2xl">
+                  {reactivoActual.enunciado}
+                </h2>
+              </div>
+            )}
 
           {/* Imagen del reactivo (razonamiento abstracto y demás con figura).
               La imagen ya trae el enunciado visual y las opciones dibujadas; el
@@ -573,13 +603,14 @@ export default function SimuladorPage({
             </div>
           )}
 
-          <OpcionesReactivo
-            opciones={reactivoActual.opciones}
-            marcada={respuestaActual}
-            onSelect={responder}
-            esLikert={examen ? !examen.calificable : false}
-            acento={acento}
-          />
+            <OpcionesReactivo
+              opciones={reactivoActual.opciones}
+              marcada={respuestaActual}
+              onSelect={responder}
+              esLikert={examen ? !examen.calificable : false}
+              acento={acento}
+            />
+          </div>
         </div>
       </div>
 
