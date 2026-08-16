@@ -16,7 +16,7 @@ import {
 import { CarruselMuestra } from "@/components/landing/CarruselMuestra";
 import { CarruselPlanteles } from "@/components/landing/CarruselPlanteles";
 import { SiteFooter } from "@/components/legal/SiteFooter";
-import { acabadoClaroDeModulo } from "@/lib/colores-paquete";
+import { acabadoClaroDeModulo, HOJA_DE_PLATA_CLARA } from "@/lib/colores-paquete";
 
 export default function Home() {
   return (
@@ -262,16 +262,34 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="grid grid-cols-1 gap-8 md:grid-cols-[240px_1fr] md:items-center">
-            {/* Foto de Carlo */}
-            <div className="relative mx-auto h-52 w-52 overflow-hidden rounded-full border-4 border-accent/30 md:mx-0">
-              <Image
-                src="/carlo.jpg"
-                alt="Carlo Alexander"
-                fill
-                sizes="208px"
-                className="object-cover"
+          {/* La misma hoja de plata de las otras secciones claras, en su
+              versión NEUTRA: el creador no pertenece a ningún módulo, así que
+              aquí manda el latón de la marca y no el azul ni el rojo. */}
+          <div
+            className="grid grid-cols-1 gap-8 rounded-2xl border p-6 md:grid-cols-[240px_1fr] md:items-center md:p-8"
+            style={{
+              backgroundImage: HOJA_DE_PLATA_CLARA.fondo,
+              borderColor: HOJA_DE_PLATA_CLARA.borde,
+              boxShadow: HOJA_DE_PLATA_CLARA.sombra,
+            }}
+          >
+            {/* Foto de Carlo — el latón como luz alrededor, no como relleno:
+                el mismo trato que el escudo del tablero. */}
+            <div className="relative mx-auto h-52 w-52 md:mx-0">
+              <div
+                aria-hidden
+                className="pointer-events-none absolute -inset-2 rounded-full"
+                style={{ background: 'radial-gradient(circle, rgba(201,154,59,0.28), transparent 70%)' }}
               />
+              <div className="relative h-full w-full overflow-hidden rounded-full ring-4 ring-[#C99A3B]/45">
+                <Image
+                  src="/carlo.jpg"
+                  alt="Carlo Alexander"
+                  fill
+                  sizes="208px"
+                  className="object-cover"
+                />
+              </div>
             </div>
 
             <div>
@@ -419,7 +437,9 @@ function TrustBadge({
   label: string;
 }) {
   return (
-    <span className="inline-flex items-center gap-1.5 rounded-full border border-border bg-muted/50 px-3 py-1 text-xs font-medium text-foreground">
+    /* Blancas: van encima de la hoja de plata, y el gris de antes se le
+       confundía con el fondo. */
+    <span className="inline-flex items-center gap-1.5 rounded-full border border-border bg-white px-3 py-1 text-xs font-medium text-foreground shadow-sm">
       <span className="text-accent">{icon}</span>
       {label}
     </span>
