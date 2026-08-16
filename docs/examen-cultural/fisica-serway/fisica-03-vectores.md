@@ -28,9 +28,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **53–57**: **3.1**, **3.2** y **3.3 · Aritmética vectorial básica** COMPLETOS (vectores iguales, traslación paralela, suma gráfica, vector resultante, método del polígono, leyes conmutativa y asociativa, condición de mismas unidades/tipo, negativo de un vector, resta A⃗ − B⃗ = A⃗ + (−B⃗), y multiplicación por un escalar positivo y negativo). La portada (p.52) y los Ejemplos 3.1/3.2 no aportan reactivos.
+**EN CURSO.** Escritas las páginas impresas **53–59**: **3.1**, **3.2**, **3.3** COMPLETOS, y **3.4 · Componentes de un vector y vectores unitarios** muy avanzado (componentes = proyecciones; Ax = A cos θ, Ay = A sen θ; la advertencia de que eso vale sólo si θ se mide desde el eje x; A⃗ = A⃗x + A⃗y; magnitud A = √(Ax² + Ay²) y dirección θ = tan⁻¹(Ay/Ax); vector unitario; î, ĵ, k̂; y la notación A⃗ = Ax î + Ay ĵ). La portada (p.52) y los Ejemplos 3.1/3.2 no aportan reactivos.
 
-**Pendiente:** EN CURSO. Sólo falta **3.4 · Componentes de un vector y vectores unitarios** (arranca en la p.59; la p.58 es la cola del Ejemplo 3.2). Con 3.4 se cierra el capítulo completo.
+**Pendiente:** EN CURSO. Falta el cierre de **3.4** (p.60: suma de vectores por componentes, Rx = Ax + Bx, etc.), hasta donde termine el cuerpo del capítulo (antes del resumen y los problemas P3.x, que no llevan reactivos). Con eso se cierra el capítulo completo.
 
 ---
 
@@ -448,3 +448,172 @@ De conformidad con el libro de Física, si un vector A⃗ se multiplica por una 
 **Subtema:** aritmética vectorial · producto por un escalar negativo
 
 "Si el vector A⃗ se multiplica por una cantidad escalar negativa −m, el producto −mA⃗ tiene una dirección opuesta a A⃗."
+
+## Sub-lote 6 · Componentes de un vector (p.58)
+
+### 28
+
+De acuerdo con el libro de Física, ¿cómo se llaman las proyecciones de un vector a lo largo de los ejes coordenados?
+
+- A. Componentes del vector o componentes rectangulares
+- B. Vectores unitarios
+- C. Vectores resultantes
+- D. Cantidades escalares
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 58
+**Subtema:** componentes y vectores unitarios · definición de componentes
+
+"Dichas proyecciones se llaman componentes del vector o sus componentes rectangulares. Cualquier vector se puede describir por completo mediante sus componentes."
+
+### 29
+
+En relación con el libro de Física, ¿qué representa la componente Ax de un vector A⃗?
+
+- A. La proyección de A⃗ a lo largo del eje x
+- B. La magnitud total del vector A⃗
+- C. El ángulo que forma A⃗ con el eje x
+- D. La proyección de A⃗ a lo largo del eje y
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 58
+**Subtema:** componentes y vectores unitarios · proyección sobre los ejes
+
+"El componente Ax representa la proyección de A⃗ a lo largo del eje x, y la componente Ay representa la proyección de A⃗ a lo largo del eje y."
+
+### 30
+
+De conformidad con el libro de Física, si θ se mide respecto al eje x, ¿cuáles son las componentes del vector A⃗?
+
+- A. Ax = A cos θ y Ay = A sen θ
+- B. Ax = A sen θ y Ay = A cos θ
+- C. Ax = A tan θ y Ay = A cot θ
+- D. Ax = A/cos θ y Ay = A/sen θ
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 58
+**Subtema:** componentes y vectores unitarios · componentes en términos de A y θ
+
+"Las componentes de A⃗ son Ax = A cos θ [...] Ay = A sen θ."
+
+### 31
+
+De acuerdo con el libro de Física, las ecuaciones Ax = A cos θ y Ay = A sen θ son ciertas:
+
+- A. sólo porque el ángulo θ se midió respecto al eje x
+- B. para cualquier eje de referencia que se elija
+- C. sólo cuando el vector es unitario
+- D. únicamente en tres dimensiones
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 58
+**Subtema:** componentes y vectores unitarios · validez de las ecuaciones de componentes (prevención de riesgos ocultos 3.2)
+
+"Esta asociación es cierta solo porque el ángulo θ se midió respecto al eje x. Así que no memorice estas ecuaciones. Si θ se mide en relación con el eje y (como en algunos problemas), estas serán ecuaciones incorrectas."
+
+### 32
+
+En relación con el libro de Física, un vector A⃗ en el plano xy se puede expresar como la suma de sus dos vectores componentes así:
+
+- A. A⃗ = A⃗x + A⃗y
+- B. A⃗ = A⃗x − A⃗y
+- C. A⃗ = A⃗x · A⃗y
+- D. A⃗ = A⃗x / A⃗y
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 58
+**Subtema:** componentes y vectores unitarios · el vector como suma de sus componentes
+
+"Este vector se puede expresar como la suma de otros dos vectores componentes A⃗x, que es paralelo al eje x y A⃗y, que es paralelo al eje y... y que A⃗ = A⃗x + A⃗y."
+
+## Sub-lote 7 · Magnitud, dirección y vectores unitarios (p.59)
+
+### 33
+
+De conformidad con el libro de Física, la magnitud de un vector A⃗ en términos de sus componentes está dada por:
+
+- A. A = √(Ax² + Ay²)
+- B. A = Ax + Ay
+- C. A = Ax² + Ay²
+- D. A = √(Ax − Ay)
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 59
+**Subtema:** componentes y vectores unitarios · magnitud desde las componentes
+
+"A = √(Ax² + Ay²)."
+
+### 34
+
+De acuerdo con el libro de Física, la dirección θ de un vector A⃗ en términos de sus componentes está dada por:
+
+- A. θ = tan⁻¹(Ay/Ax)
+- B. θ = sen⁻¹(Ax/Ay)
+- C. θ = tan⁻¹(Ax/Ay)
+- D. θ = cos⁻¹(Ay/Ax)
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 59
+**Subtema:** componentes y vectores unitarios · dirección desde las componentes
+
+"θ = tan⁻¹(Ay/Ax)."
+
+### 35
+
+En relación con el libro de Física, ¿qué es un vector unitario?
+
+- A. Un vector sin dimensiones que tiene una magnitud de exactamente 1
+- B. Un vector cuya magnitud es siempre cero
+- C. Un vector con unidades físicas de longitud
+- D. Un vector de magnitud variable
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 59
+**Subtema:** componentes y vectores unitarios · definición de vector unitario
+
+"Un vector unitario es un vector sin dimensiones que tiene una magnitud de exactamente 1. Los vectores unitarios se usan para especificar una dirección conocida y no tienen otro significado físico."
+
+### 36
+
+De conformidad con el libro de Física, ¿qué representan los vectores unitarios î, ĵ y k̂?
+
+- A. Los vectores unitarios que apuntan en las direcciones x, y y z positivas, respectivamente
+- B. Los componentes escalares de un vector
+- C. Las proyecciones de un vector sobre un plano
+- D. Tres vectores de magnitudes distintas
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 59
+**Subtema:** componentes y vectores unitarios · î, ĵ, k̂
+
+"Se usarán los símbolos î, ĵ y k̂ para representar los vectores unitarios que apuntan en las direcciones x, y y z positivas, respectivamente."
+
+### 37
+
+De acuerdo con el libro de Física, la notación en vectores unitarios para un vector A⃗ en el plano xy es:
+
+- A. A⃗ = Ax î + Ay ĵ
+- B. A⃗ = Ax + Ay
+- C. A⃗ = î + ĵ
+- D. A⃗ = Ax ĵ + Ay î
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 59
+**Subtema:** componentes y vectores unitarios · notación en vectores unitarios
+
+"La notación en vectores unitarios para el vector A⃗ es A⃗ = Ax î + Ay ĵ."
+
+### 38
+
+En relación con el libro de Física, al resolver problemas en dos dimensiones, ¿de qué dos formas se puede especificar un vector A⃗?
+
+- A. Con sus componentes Ax y Ay, o con su magnitud y dirección A y θ
+- B. Sólo con su magnitud
+- C. Sólo con su dirección
+- D. Únicamente con un vector unitario
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 59
+**Subtema:** componentes y vectores unitarios · formas de especificar un vector
+
+"Cuando resuelva problemas en dos dimensiones, especifique un vector A⃗ con sus componentes Ax y Ay o con su magnitud y dirección A y θ."
