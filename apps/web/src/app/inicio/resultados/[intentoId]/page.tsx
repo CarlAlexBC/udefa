@@ -25,6 +25,7 @@ import {
   LINKS_FIJOS,
 } from '@/lib/diagnostico-links'
 import { GraficosPsicometrico, LineTiempos } from '@/components/resultados/GraficosPsicometrico'
+import { colorDeExamen, HOJA_DE_PLATA_CLARA } from '@/lib/colores-paquete'
 import { GraficosAutoevaluacion } from '@/components/resultados/GraficosAutoevaluacion'
 import {
   AlertaCriticaCard,
@@ -241,6 +242,8 @@ function PanelResultados({ data }: { data: Resultados }) {
    ═══════════════════════════════════════════════════════════ */
 
 function PanelCalificable({ data }: { data: Resultados }) {
+  /** El color del examen que se acaba de contestar. Tono oscuro: el hero es carbón. */
+  const acentoModulo = colorDeExamen(data.examen.tipo, 'oscuro')
   const diagnosticos = calcularDiagnosticos(data)
   const tiempoMin = Math.round(data.tiempoTotalMs / 60000)
   const fecha = new Date().toLocaleDateString('es-MX', {
@@ -253,12 +256,29 @@ function PanelCalificable({ data }: { data: Resultados }) {
     <main className="min-h-screen bg-background">
       <div className="mx-auto max-w-5xl px-6 py-10">
 
-        {/* Hero card oscuro con puntaje agregado */}
+        {/* Hero card oscuro con puntaje agregado.
+            Lleva el color del MÓDULO —azul si es cultural, rojo si es
+            psicológico— para que el hilo de color no se corte justo aquí: el
+            aspirante contestó un examen marcado con ese color y estos son sus
+            resultados. Va el tono OSCURO de la tabla, porque el hero es carbón.
+            El semáforo del diagnóstico (abajo) NO se toca: ahí olivo, ámbar y
+            rojo significan severidad, y si el módulo también los usara,
+            "atención" dejaría de saltar. */}
         <div className="relative overflow-hidden rounded-2xl bg-primary p-8 text-primary-foreground">
-          <div className="pointer-events-none absolute -top-16 -right-12 h-60 w-60 rounded-full bg-accent/15 blur-3xl" />
+          <div
+            className="pointer-events-none absolute -top-16 -right-12 h-60 w-60 rounded-full blur-3xl"
+            style={{ backgroundColor: `${acentoModulo.c}26` }}
+          />
           <div className="relative flex flex-wrap items-end justify-between gap-6">
             <div>
-              <span className="inline-flex items-center gap-1 rounded-full border border-military/40 bg-military/20 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-military-foreground">
+              <span
+                className="inline-flex items-center gap-1 rounded-full border px-3 py-1 text-xs font-semibold uppercase tracking-widest"
+                style={{
+                  borderColor: `${acentoModulo.c}66`,
+                  backgroundColor: `${acentoModulo.c}1F`,
+                  color: acentoModulo.c,
+                }}
+              >
                 {data.estado === 'COMPLETADA'
                   ? 'Sesión completa'
                   : data.estado === 'TIEMPO_AGOTADO'
@@ -280,7 +300,10 @@ function PanelCalificable({ data }: { data: Resultados }) {
                   {data.porcentajeAciertos}
                   <span className="text-xl text-muted-foreground">%</span>
                 </p>
-                <p className="mt-1 text-xs font-semibold uppercase tracking-widest text-accent">
+                <p
+                  className="mt-1 text-xs font-semibold uppercase tracking-widest"
+                  style={{ color: acentoModulo.c }}
+                >
                   {data.aciertos} de {data.reactivosRespondidos} correctas
                 </p>
               </div>
@@ -442,11 +465,18 @@ function DiagnosticoCard({
   const mostrarCTA = severidad !== 'fortaleza' && !!guiaLink
 
   return (
+    /* Hoja de plata NEUTRA, sin teñir del módulo: aquí el color que manda es
+       el del semáforo (el filo izquierdo). Si la tarjeta también se tiñera,
+       "atención" dejaría de saltar, que es justo lo que hay que ver primero. */
     <div
-      className={cn(
-        'rounded-lg border border-border border-l-[3px] bg-card p-4',
-        config.borderColor,
-      )}
+      className={cn('rounded-lg border border-l-[3px] p-4', config.borderColor)}
+      style={{
+        backgroundImage: HOJA_DE_PLATA_CLARA.fondo,
+        borderTopColor: HOJA_DE_PLATA_CLARA.borde,
+        borderRightColor: HOJA_DE_PLATA_CLARA.borde,
+        borderBottomColor: HOJA_DE_PLATA_CLARA.borde,
+        boxShadow: HOJA_DE_PLATA_CLARA.sombra,
+      }}
     >
       <div className="mb-1 flex items-center gap-2">
         <span
@@ -1053,6 +1083,9 @@ function calcularDiagnosticos(data: Resultados): Diagnostico[] {
    ═══════════════════════════════════════════════════════════ */
 
 function PanelAutoevaluacion({ data }: { data: Resultados }) {
+  /** Mismo criterio que en el panel calificable: el hero lleva el color del
+   *  examen que se acaba de contestar. */
+  const acentoModulo = colorDeExamen(data.examen.tipo, 'oscuro')
   const tiempoMin = Math.round(data.tiempoTotalMs / 60000)
   const fecha = new Date().toLocaleDateString('es-MX', {
     day: 'numeric',
@@ -1071,7 +1104,14 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
           <div className="pointer-events-none absolute -top-16 -right-12 h-60 w-60 rounded-full bg-military/20 blur-3xl" />
           <div className="relative flex flex-wrap items-end justify-between gap-6">
             <div>
-              <span className="inline-flex items-center gap-1 rounded-full border border-military/40 bg-military/20 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-military-foreground">
+              <span
+                className="inline-flex items-center gap-1 rounded-full border px-3 py-1 text-xs font-semibold uppercase tracking-widest"
+                style={{
+                  borderColor: `${acentoModulo.c}66`,
+                  backgroundColor: `${acentoModulo.c}1F`,
+                  color: acentoModulo.c,
+                }}
+              >
                 {data.estado === 'COMPLETADA'
                   ? 'Autoevaluación completa'
                   : data.estado === 'TIEMPO_AGOTADO'
