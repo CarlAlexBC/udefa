@@ -53,10 +53,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 - Cubierta la página impresa **158**: el **Cuadro 5.3** completo (superficie, porcentaje y profundidades medias y máximas de los cuatro océanos, con sus fosas: **Marianas**, **Puerto Rico**, **Diamantina** y **Spitzberg**, más la fila del total); el cierre de la delimitación con el **Índico** y el **Glacial Ártico** (considerado por muchos geógrafos parte del Atlántico, cubre el casquete polar boreal y se comunica con el Pacífico por el estrecho de Béhring); el **Glacial Antártico** desechado como quinto océano por falta de límites adecuados, con los tres océanos unidos en su tramo meridional; el **Pacífico como el más extenso y profundo** (**49.87%** de la hidrósfera) con sus **seis fosas abisales**; la **definición de mar** del recuadro y sus características particulares; y el **Mar Báltico** (más frío por no recibir la Corriente del Golfo de México, con **0.02%** de salinidad en el Golfo de Botnia contra **3.50%** del Atlántico, y sus efectos sobre los peces). **El Cuadro 5.3 y las seis fosas se verificaron con `crop.py` a 600 dpi.** **La nota al pie 2 NO lleva reactivo:** repite los 362,033,000 km² y el 70.98%, que ya preguntan los reactivos 74 y 1. El apartado de los "mares" que son en realidad lagos **queda cortado al pie de la página** y se trabaja entero en la p.159.
 - Cubierta la página impresa **159**: el cierre del **5.2.1** — los lagos a los que se llama mares (**Caspio, de Aral y Muerto**, de agua salada, y el **Mar de Galilea**, de agua dulce, oficialmente **Jan Kinnéret**), la falta de criterio definido para distinguir **mares de golfos** (éstos generalmente menos extensos y profundos), la diferencia entre **bahías** (profundas, aguas turbulentas, para puertos) y **ensenadas** (poco profundas, fondos planos, aguas tranquilas, para turismo), y la denominación incorrecta de la **Bahía de Hudson** (una porción del Atlántico de **1,233,000 km²**, más de la mitad de la superficie de la República Mexicana), más las figuras **5.5** y **5.6**. **La superficie de la Bahía de Hudson se verificó con `crop.py` a 600 dpi.** **El reactivo 115 cita la p.158**, que es donde está impresa la lista de los tres lagos salados. **La mitad inferior de la página es un bloque de ejercicios** y no lleva reactivos por norma.
+- Cubierta la página impresa **160**: el arranque del **5.2.2** — las diferencias de las aguas oceánicas frente a las continentales; la **salinidad** (saladas y amargas por los cloruros de sodio, que son un **70%** del total, y magnesio; **35 gramos** de sustancias minerales por litro, y de qué depende ese promedio); el **color** azul por reflejo de la atmósfera, con su variación y el azul más intenso en las **fajas desérticas**; y la **temperatura** (su variación anual reducida, que **no pasa de 5ºC**, porque las aguas se calientan y enfrían más lentamente que las tierras; de **25ºC a 30ºC** en las latitudes bajas y hasta **-1.5ºC** en las polares, donde el mar se congela; la luz y el calor solares que no pasan de **300 m** y la temperatura reducida a la mitad a **500 m**). **Todas las cifras se verificaron con `crop.py` a 600 dpi.** La Figura 5.7 es un mapa y no lleva reactivos por norma. **La mitad superior de la página es la continuación del bloque de ejercicios de la p.159** y tampoco lleva. **La temperatura a 4,000 m queda cortada al pie** y se trabaja en la p.161.
 
 > **El 70.98% NO lleva reactivo aquí:** ya lo pregunta el **reactivo 1** de este mismo archivo, desde la p.151. En esta página entran sólo las cifras absolutas y el 29.02%, que son dato nuevo. **Anaximandro de Mileto tampoco duplica** a la Unidad II, donde aparece únicamente como distractor.
 
-**Pendiente:** EN CURSO. El tema **5.1 quedó CERRADO** (pp. 151–156) y el **5.2 está EN CURSO** (cubiertas las pp. 157–159, con el **5.2.1 CERRADO**). Sigue desde la **p.160** con el **5.2.2** Características e importancia de las aguas oceánicas, y después con los subtemas que restan: **5.2.3** Movimientos de las aguas oceánicas (I): olas y mareas (p.162), **5.2.4** Movimientos de las aguas oceánicas (II): las corrientes marinas (p.164) y **5.2.5** Formas del relieve submarino (p.167), hasta cerrar en la **p.167**: el **5.3 Las aguas continentales** empieza en la p.168 y **el temario NO lo pide**. Con el 5.2 se cierra la Unidad V. Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
+**Pendiente:** EN CURSO. El tema **5.1 quedó CERRADO** (pp. 151–156) y el **5.2 está EN CURSO** (cubiertas las pp. 157–160, con el **5.2.1 CERRADO** y el **5.2.2 EN CURSO**). Sigue desde la **p.161** con el resto del **5.2.2**, y después con los subtemas que restan: **5.2.3** Movimientos de las aguas oceánicas (I): olas y mareas (p.162), **5.2.4** Movimientos de las aguas oceánicas (II): las corrientes marinas (p.164) y **5.2.5** Formas del relieve submarino (p.167), hasta cerrar en la **p.167**: el **5.3 Las aguas continentales** empieza en la p.168 y **el temario NO lo pide**. Con el 5.2 se cierra la Unidad V. Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
 
 ---
 
@@ -1977,4 +1978,231 @@ En relación con el libro de Geografía, según la Figura 5.6, ¿qué es en real
 **Subtema:** aguas oceánicas · Figura 5.6
 
 "Figura 5.6 Una vista del llamado Mar de Galilea, que en realidad es un lago de agua dulce."
+
+## Sub-lote 9 · Salinidad, color y temperatura de las aguas oceánicas (5.2.2, p. 160)
+
+### 127
+
+De acuerdo con el libro de Geografía, comparadas con las continentales, ¿en qué presentan notables diferencias las aguas oceánicas?
+
+- A. En salinidad, color, temperatura, densidad y otros aspectos
+- B. En salinidad, color y volumen, únicamente
+- C. En profundidad, extensión y relieve submarino
+- D. En temperatura y movimiento, únicamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · diferencias
+
+"Comparadas con las continentales, las aguas oceánicas presentan notables diferencias de salinidad, color, temperatura, densidad y otros aspectos."
+
+### 128
+
+De conformidad con el libro de Geografía, ¿por qué las aguas oceánicas son saladas y amargas?
+
+- A. Por las sustancias químicas disueltas en ellas, sobre todo los cloruros de sodio o sal común y magnesio
+- B. Por las sustancias orgánicas aportadas por los seres vivos que las habitan
+- C. Por los sedimentos arrastrados por los ríos y glaciares
+- D. Por la evaporación constante de sus aguas superficiales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · salinidad
+
+"Las aguas oceánicas son saladas y amargas, debido a las sustancias químicas disueltas en ellas, sobre todo los cloruros de sodio o sal común [...] y magnesio."
+
+### 129
+
+En relación con el libro de Geografía, ¿qué proporción del total representan los cloruros de sodio o sal común?
+
+- A. Un 70%
+- B. Un 35%
+- C. Un 50%
+- D. Un 3.5%
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · cloruros de sodio
+
+"Sobre todo los cloruros de sodio o sal común (un 70% del total) y magnesio."
+
+### 130
+
+De acuerdo con el libro de Geografía, ¿cuántos gramos de sustancias minerales contiene en promedio un litro de agua de mar?
+
+- A. 35 gramos
+- B. 3.5 gramos
+- C. 70 gramos
+- D. 350 gramos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · gramos por litro
+
+"La salinidad media de los océanos es de 3.5%; o sea, un litro de agua de mar contiene en promedio 35 gramos de sustancias minerales."
+
+### 131
+
+De conformidad con el libro de Geografía, ¿de acuerdo con qué varía ese promedio?
+
+- A. Con la latitud, la temperatura, el aporte de agua dulce de arroyos, ríos y glaciares y otros factores
+- B. Con la longitud, la altitud y las horas del día
+- C. Con la profundidad y el relieve submarino, únicamente
+- D. Con las estaciones del año, exclusivamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · variación de la salinidad
+
+"Dicho promedio varía de acuerdo con la latitud, la temperatura, el aporte de agua dulce de arroyos, ríos y glaciares y otros factores."
+
+### 132
+
+En relación con el libro de Geografía, ¿por qué el color de las aguas oceánicas es generalmente azul?
+
+- A. Por reflejar el color de la atmósfera
+- B. Por la sal común disuelta en ellas
+- C. Por la profundidad a la que llega la luz solar
+- D. Por los sedimentos que contienen en suspensión
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · color
+
+"El color de las aguas oceánicas es generalmente azul, por reflejar el color de la atmósfera."
+
+### 133
+
+De acuerdo con el libro de Geografía, ¿de acuerdo con qué varía ese color?
+
+- A. Con la salinidad, la profundidad, las horas del día y otros factores
+- B. Con la latitud, la longitud y la altitud
+- C. Con las estaciones del año y las corrientes marinas
+- D. Con la temperatura y la densidad, únicamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · variación del color
+
+"Varía, sin embargo, de acuerdo con la salinidad, la profundidad, las horas del día y otros factores."
+
+### 134
+
+De conformidad con el libro de Geografía, como norma general, ¿dónde es más intenso el color azul?
+
+- A. En los mares localizados en las latitudes correspondientes a las fajas desérticas del planeta
+- B. En los mares localizados en las latitudes correspondientes a las regiones polares
+- C. En los mares localizados en el Ecuador
+- D. En los mares de escasa profundidad, cualquiera que sea su latitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · fajas desérticas
+
+"Como norma general, el color azul es más intenso en los mares localizados en las latitudes correspondientes a las fajas desérticas del planeta."
+
+### 135
+
+En relación con el libro de Geografía, ¿de acuerdo con qué varía notablemente la temperatura de las aguas oceánicas?
+
+- A. Con la latitud, la profundidad, las estaciones del año y otros factores
+- B. Con la salinidad, el color y la densidad
+- C. Con la longitud y las horas del día
+- D. Con el relieve submarino y las mareas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · temperatura
+
+"La temperatura de las aguas oceánicas varía notablemente de acuerdo con la latitud, la profundidad, las estaciones del año y otros factores."
+
+### 136
+
+De acuerdo con el libro de Geografía, ¿por qué la variación térmica anual de las aguas oceánicas es más reducida que la de las tierras?
+
+- A. Porque las aguas se calientan y enfrían más lentamente que las tierras
+- B. Porque las aguas se calientan y enfrían más rápidamente que las tierras
+- C. Porque las aguas reflejan el color de la atmósfera
+- D. Porque las aguas reciben menos luz solar que las tierras
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · variación térmica
+
+"En general, sin embargo, dado que se calientan y enfrían más lentamente que las tierras, la variación térmica de las aguas oceánicas a lo largo del año es más reducida."
+
+### 137
+
+De conformidad con el libro de Geografía, ¿de cuánto es generalmente esa variación térmica anual?
+
+- A. Generalmente no pasa de 5ºC
+- B. Generalmente no pasa de 15ºC
+- C. Generalmente no pasa de 1.5ºC
+- D. Generalmente no pasa de 30ºC
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · los 5ºC
+
+"La variación térmica de las aguas oceánicas a lo largo del año es más reducida (generalmente no pasa de 5ºC)."
+
+### 138
+
+En relación con el libro de Geografía, ¿dónde se registran las más altas temperaturas y de cuánto son los promedios?
+
+- A. En latitudes bajas, particularmente las de las fajas desérticas, donde las aguas superficiales registran promedios de 25ºC a 30ºC
+- B. En latitudes altas, particularmente las polares, donde las aguas superficiales registran promedios de 25ºC a 30ºC
+- C. En latitudes bajas, particularmente las ecuatoriales, donde las aguas superficiales registran promedios de 30ºC a 35ºC
+- D. En latitudes medias, donde las aguas superficiales registran promedios de 20ºC a 25ºC
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · temperatura por latitud
+
+"Las más altas temperaturas se registran en latitudes bajas, particularmente las correspondientes a las fajas desérticas del planeta, donde las aguas superficiales registran promedios de 25ºC a 30ºC."
+
+### 139
+
+De acuerdo con el libro de Geografía, ¿hasta qué temperatura disminuyen hacia las regiones polares y qué ocurre entonces?
+
+- A. Hasta -1.5ºC, temperatura a la cual las aguas oceánicas se convierten en hielo
+- B. Hasta 0ºC, temperatura a la cual las aguas oceánicas se convierten en hielo
+- C. Hasta -1.5ºC, temperatura a la cual las aguas oceánicas alcanzan su máxima densidad
+- D. Hasta -5ºC, temperatura a la cual las aguas oceánicas se convierten en hielo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · congelación del mar
+
+"Disminuyen hacia las regiones polares, hasta llegar a -1.5ºC, temperatura a la cual las aguas oceánicas se convierten en hielo."
+
+### 140
+
+De conformidad con el libro de Geografía, ¿hasta qué profundidad llegan la luz y el calor solares?
+
+- A. No más allá de 300 m
+- B. No más allá de 500 m
+- C. No más allá de 3,000 m
+- D. No más allá de 4,000 m
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · alcance de la luz solar
+
+"Dado que la luz y el calor solares no llegan más allá de 300 m, la temperatura de las aguas profundas es baja."
+
+### 141
+
+En relación con el libro de Geografía, ¿qué ocurre con la temperatura a 500 m de profundidad?
+
+- A. Se ha reducido a la mitad de la existente en la superficie
+- B. Se ha reducido a la cuarta parte de la existente en la superficie
+- C. Se mantiene igual a la existente en la superficie
+- D. Oscila entre 1ºC y la de la superficie
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 160
+**Subtema:** características de las aguas oceánicas · temperatura a 500 m
+
+"A 500 m se ha reducido a la mitad de la existente en la superficie."
 
