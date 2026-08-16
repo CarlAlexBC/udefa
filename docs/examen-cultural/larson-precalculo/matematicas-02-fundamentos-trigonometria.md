@@ -63,7 +63,9 @@ Los `EJEMPLO` y el `Resumen` quedan fuera por norma, así que ninguno de estos d
 
 - Cubiertas las páginas impresas **202, 204 y 205**, con las que **cierra el 2.9 · Aplicaciones y modelos**: cómo se denotan ángulos y lados del triángulo rectángulo en la sección, *Trigonometría y rumbo* (qué mide un rumbo, cómo se leen S 35° E y N 80° W, y el `COMENTARIO` de que en **navegación aérea** los rumbos se miden en el sentido de las manecillas del reloj desde el Norte) y *Movimiento armónico* (periodo, amplitud y frecuencia, y la *Definición de movimiento armónico simple* con ω > 0, amplitud |a|, periodo 2π/ω y frecuencia ω/2π). La **p. 203 no lleva reactivos** (es íntegramente `EJEMPLO 3` y `EJEMPLO 4`), ni las **pp. 206–207** (`EJEMPLO 6`, `EJEMPLO 7` y el `Resumen`). Las **pp. 208–211 son el bloque `2.9 Ejercicios`**.
 
-**Pendiente:** EN CURSO. El **2.6 y el 2.9 están CERRADOS**. Sigue el **2.10 · Uso de identidades fundamentales**, que arranca en la página impresa **212** y cuya teoría llega hasta la **p. 216**. Después faltan **2.15** (p. 254) y **2.16** (p. 263). **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
+- Cubierta la página impresa **212**, arranque del **2.10 · Uso de identidades fundamentales**: los cuatro usos que se le darán a las identidades, el recuadro *Identidades trigonométricas fundamentales* completo —recíprocas, cociente, pitagóricas, de cofunción y par/impar—, la forma de radical de las pitagóricas y el `COMENTARIO` de que u puede ser un ángulo, un número real o una variable. Es la página más densa del capítulo y se leyó **renderizada**: la extracción destruye todo el recuadro.
+
+**Pendiente:** EN CURSO. El **2.6 y el 2.9 están CERRADOS** y el **2.10 va en curso**: sigue desde la página impresa **213**, y su teoría llega hasta la **p. 216**. Después faltan **2.15** (p. 254) y **2.16** (p. 263). **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
 
 ---
 
@@ -769,5 +771,228 @@ De conformidad con el libro de Matemáticas, en el movimiento armónico simple, 
 **Subtema:** aplicaciones y modelos · movimiento armónico
 
 El movimiento tiene amplitud |a|, periodo 2π/ω y frecuencia ω/2π.
+
+---
+
+## Sub-lote 5 · Identidades trigonométricas fundamentales (2.10, p. 212)
+
+### 42
+
+En relación con el libro de Matemáticas, ¿para qué cuatro cosas se aprenderá a usar las identidades fundamentales?
+
+- A. Evaluar funciones trigonométricas, simplificar expresiones trigonométricas, desarrollar identidades adicionales y resolver ecuaciones trigonométricas
+- B. Evaluar funciones trigonométricas, graficarlas, medir ángulos y resolver triángulos
+- C. Simplificar expresiones, racionalizar denominadores, factorizar polinomios y resolver sistemas
+- D. Desarrollar identidades adicionales, medir rumbos, calcular frecuencias y trazar curvas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · introducción
+
+Aprenderemos a usar las identidades fundamentales para hacer lo siguiente. 1. Evaluar funciones trigonométricas. 2. Simplificar expresiones trigonométricas. 3. Desarrollar identidades trigonométricas adicionales. 4. Resolver ecuaciones trigonométricas.
+
+---
+
+### 43
+
+De acuerdo con el libro de Matemáticas, según las identidades recíprocas, ¿a qué es igual sen u?
+
+- A. A 1/csc u
+- B. A 1/sec u
+- C. A 1/cot u
+- D. A 1/cos u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · identidades recíprocas
+
+Identidades recíprocas: sen u = 1/csc u.
+
+---
+
+### 44
+
+De conformidad con el libro de Matemáticas, según las identidades recíprocas, ¿a qué es igual cot u?
+
+- A. A 1/tan u
+- B. A 1/sen u
+- C. A 1/cos u
+- D. A 1/sec u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · identidades recíprocas
+
+Identidades recíprocas: cot u = 1/tan u.
+
+---
+
+### 45
+
+En relación con el libro de Matemáticas, según las identidades cociente, ¿a qué es igual tan u?
+
+- A. A sen u / cos u
+- B. A cos u / sen u
+- C. A 1 / cos u
+- D. A sen u · cos u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · identidades cociente
+
+Identidades cociente: tan u = sen u / cos u.
+
+---
+
+### 46
+
+De acuerdo con el libro de Matemáticas, según las identidades cociente, ¿a qué es igual cot u?
+
+- A. A cos u / sen u
+- B. A sen u / cos u
+- C. A 1 / sen u
+- D. A cos u · sen u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · identidades cociente
+
+Identidades cociente: cot u = cos u / sen u.
+
+---
+
+### 47
+
+De conformidad con el libro de Matemáticas, ¿cuál es la primera de las identidades pitagóricas?
+
+- A. sen² u + cos² u = 1
+- B. sen² u − cos² u = 1
+- C. sen u + cos u = 1
+- D. sen² u · cos² u = 1
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · identidades pitagóricas
+
+Identidades pitagóricas: sen² u + cos² u = 1.
+
+---
+
+### 48
+
+En relación con el libro de Matemáticas, según las identidades pitagóricas, ¿a qué es igual 1 + tan² u?
+
+- A. A sec² u
+- B. A csc² u
+- C. A cot² u
+- D. A cos² u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · identidades pitagóricas
+
+Identidades pitagóricas: 1 + tan² u = sec² u.
+
+---
+
+### 49
+
+De acuerdo con el libro de Matemáticas, según las identidades pitagóricas, ¿a qué es igual 1 + cot² u?
+
+- A. A csc² u
+- B. A sec² u
+- C. A tan² u
+- D. A sen² u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · identidades pitagóricas
+
+Identidades pitagóricas: 1 + cot² u = csc² u.
+
+---
+
+### 50
+
+De conformidad con el libro de Matemáticas, según las identidades de cofunción, ¿a qué es igual sen(π/2 − u)?
+
+- A. A cos u
+- B. A sen u
+- C. A cot u
+- D. A csc u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · identidades de cofunción
+
+Identidades de cofunción: sen(π/2 − u) = cos u.
+
+---
+
+### 51
+
+En relación con el libro de Matemáticas, según las identidades de cofunción, ¿a qué es igual tan(π/2 − u)?
+
+- A. A cot u
+- B. A tan u
+- C. A sec u
+- D. A cos u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · identidades de cofunción
+
+Identidades de cofunción: tan(π/2 − u) = cot u.
+
+---
+
+### 52
+
+De acuerdo con el libro de Matemáticas, según las identidades par/impar, ¿a qué son iguales sen(−u) y cos(−u)?
+
+- A. sen(−u) = −sen u y cos(−u) = cos u
+- B. sen(−u) = sen u y cos(−u) = −cos u
+- C. sen(−u) = −sen u y cos(−u) = −cos u
+- D. sen(−u) = sen u y cos(−u) = cos u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · identidades par/impar
+
+Identidades par/impar: sen(−u) = −sen u; cos(−u) = cos u.
+
+---
+
+### 53
+
+De conformidad con el libro de Matemáticas, ¿cómo se escriben a veces las identidades pitagóricas en forma de radical?
+
+- A. sen u = ±√(1 − cos² u) o tan u = ±√(sec² u − 1), donde el signo depende de la elección de u
+- B. sen u = √(1 + cos² u) o tan u = √(sec² u + 1), siempre con signo positivo
+- C. sen u = ±√(1 + cos² u) o tan u = ±√(sec² u + 1), donde el signo depende de la elección de u
+- D. sen u = ±√(cos² u − 1) o tan u = ±√(1 − sec² u), donde el signo depende de la elección de u
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · identidades pitagóricas
+
+Las identidades pitagóricas a veces se usan en forma de radical como sen u = ±√(1 − cos² u) o tan u = ±√(sec² u − 1), donde el signo depende de la elección de u.
+
+---
+
+### 54
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué puede ser u en las identidades trigonométricas fundamentales?
+
+- A. Un ángulo, un número real o una variable
+- B. Únicamente un ángulo
+- C. Únicamente un número real
+- D. Únicamente un ángulo agudo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 212
+**Subtema:** identidades fundamentales · alcance de u
+
+Observe que u puede ser un ángulo, un número real o una variable.
 
 ---
