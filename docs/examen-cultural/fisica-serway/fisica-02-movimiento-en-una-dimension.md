@@ -33,7 +33,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 El temario `FÍSICA-02-2026` pide de este capítulo **sólo 2.1, 2.2 y 2.5**; los temas **2.3, 2.4** (pp.27–31) y **2.6 · Diagramas de movimiento en adelante** (empieza en la p.36) quedan fuera. Los Ejemplos (2.1–2.6) y los exámenes rápidos no aportan reactivos.
 
-**Pendiente:** el **Capítulo 2 queda CERRADO** (los tres temas del temario —2.1, 2.2 y 2.5— completos, 46 reactivos). Del temario de Física EMEFA faltan por escribir **Cap. 3** (Vectores — completo) y **Cap. 10** (Mecánica de fluidos — 10.1 a 10.6), cada uno en su propio archivo.
+**Pendiente:** el **Capítulo 2 queda CERRADO** (los tres temas del temario —2.1, 2.2 y 2.5— completos, 46 reactivos). El **Cap. 3** (Vectores — completo) ya quedó cerrado; del temario de Física EMEFA sólo falta por escribir **Cap. 10** (Mecánica de fluidos — 10.1 a 10.6), en su propio archivo.
 
 ---
 
