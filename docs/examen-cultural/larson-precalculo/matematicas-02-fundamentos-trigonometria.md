@@ -53,11 +53,13 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 - **p. 254, párrafo de los cuatro casos: frase que no cierra.** El libro imprime "es necesario saber la medida de al menos un lado y cualesquiera otras dos medidas del triángulo, **ya sean dos lados, dos ángulos y un ángulo**". La enumeración está rota: debería decir "dos lados, dos ángulos, **o un lado y un ángulo**". **No se escribe reactivo sobre esa frase**; los cuatro casos sí llevan reactivos porque la lista numerada que sigue está bien.
 
+- **p. 264, recuadro `COMENTARIO`: dice "ángulos" donde debe decir "lados", dos veces.** El libro imprime: *"Cuando resuelva un triángulo oblicuángulo, dados **tres ángulos**, use la forma alternativa de la Ley de cosenos […]. Cuando resuelva un triángulo oblicuángulo, dados **dos ángulos y su ángulo incluido**, use la forma estándar […]"*. Los dos casos de la Ley de cosenos son **LLL (tres lados)** y **LAL (dos lados y su ángulo incluido)**, como la propia introducción de la p. 263 dice bien. Con tres ángulos un triángulo ni siquiera queda determinado. **Verificado con recorte de la hoja renderizada**, no es basura de la extracción. **Este `COMENTARIO` no lleva reactivo**, aunque sea uno de los que traen matemáticas, precisamente porque lo que dice es falso.
+
 Los `EJEMPLO` y el `Resumen` quedan fuera por norma, así que ninguno de estos defectos afecta a un reactivo.
 
 ## Cobertura actual
 
-**EN CURSO.** Cerrados el **2.6** (pp. 171–176) y el **2.9** (pp. 202–205):
+**CERRADO.** El **capítulo 2 está completo** en **82 reactivos**, con los cinco subtemas que pide el temario:
 
 - Cubiertas las páginas impresas **171 y 172**: la curva senoidal y el ciclo, el dominio, el rango y el periodo de las funciones seno y coseno, sus simetrías y el hecho de que el seno es impar y el coseno par, y los cinco puntos clave de un periodo. El `TECNOLOGÍA` de las graficadoras no lleva reactivos.
 - Cubiertas las páginas impresas **173, 174 y 175**: *Amplitud y periodo* (las formas generales `y = d + a sen(bx − c)` y `y = d + a cos(bx − c)`, el factor de escala, qué pasa según el valor de |a|, la *Definición de amplitud de curvas seno y coseno* y el rango para a > 0), el efecto de b sobre el periodo (el ciclo de 0 a 2π/b, el estiramiento y la contracción horizontales) con el `COMENTARIO` de dividir el periodo-intervalo, la reflexión en el eje x, y las *Traslaciones de curvas seno y coseno* (la constante c, el periodo 2π/b, el **corrimiento de fase** c/b y las ecuaciones `bx − c = 0` y `bx − c = 2π` para los puntos finales). Los `EJEMPLO 2` a `EJEMPLO 4` no llevan reactivos.
@@ -71,7 +73,9 @@ Los `EJEMPLO` y el `Resumen` quedan fuera por norma, así que ninguno de estos d
 
 - Cubiertas las páginas impresas **254, 255, 256 y 258**, con las que **cierra la 2.15 · Ley de senos**: qué es un triángulo oblicuángulo y la notación estándar, los **cuatro casos** (AAL o ALA, LLA, LLL y LAL) y cuáles resuelve cada ley, el recuadro *Ley de senos* y su **forma recíproca**, la nota histórica del **Monte Everest**, el **caso ambiguo** LLA con sus tres situaciones posibles, y el **área de un triángulo oblicuángulo** con lo que ocurre cuando el ángulo es de 90°. La **p. 257 no lleva reactivos** (es íntegramente `EJEMPLO 4` y `EJEMPLO 5`) ni la **p. 259** (`EJEMPLO 7` del curso del bote más el `Resumen`). Las **pp. 260–262 son el bloque `2.15 Ejercicios`**.
 
-**Pendiente:** EN CURSO. El **2.6, el 2.9, el 2.10 y la 2.15 están CERRADOS**. Sólo falta la **2.16 · Ley de cosenos** (teoría pp. 263–266), con la que se cierra el capítulo 2. **Matemáticas (Larson) no está cerrada:** falta además el **capítulo 3** completo, en su propio archivo.
+- Cubiertas las páginas impresas **263, 264 y 266**, con las que **cierra la 2.16 · Ley de cosenos y con ella el capítulo 2**: por qué los casos LLL y LAL necesitan esta ley, el recuadro *Ley de cosenos* en sus **dos formas** (estándar y alternativa), la estrategia de buscar primero el ángulo opuesto al lado más largo, lo que el signo del coseno dice sobre el ángulo, y la *Fórmula del área de Herón* con su semiperímetro y la `NOTA HISTÓRICA` de Herón de Alejandría. La **p. 265 no lleva reactivos** (`EJEMPLO 3` del softbol y `EJEMPLO 4` del barco). Las **pp. 267–270 son el bloque `2.16 Ejercicios`**.
+
+**Pendiente:** ninguno; el **capítulo 2 está CERRADO** en **82 reactivos**, con los cinco subtemas que pide el temario `MATE-03-2026`: **2.6**, **2.9**, **2.10**, **2.15** y **2.16**. **Matemáticas (Larson) NO está cerrada:** falta el **capítulo 3 · Fundamentos de geometría analítica**, que el temario pide **completo** (§3.1–§3.6, pp. 271–328), en su propio archivo.
 
 ---
 
@@ -1276,5 +1280,211 @@ De acuerdo con el libro de Matemáticas, ¿qué ocurre con esa fórmula del áre
 **Subtema:** ley de senos · área de un triángulo oblicuángulo
 
 Observe que cuando el ángulo A es 90°, la fórmula da el área de un triángulo rectángulo.
+
+---
+
+## Sub-lote 8 · Ley de cosenos y fórmula de Herón — cierra el capítulo 2 (pp. 263–266)
+
+### 71
+
+De conformidad con el libro de Matemáticas, ¿en qué casos se usa la Ley de cosenos y por qué?
+
+- A. En LLL y LAL, porque en ellos ninguna de las relaciones de la Ley de senos estaría completa
+- B. En AAL y ALA, porque en ellos la Ley de senos no es exacta
+- C. En LLA, porque es el único caso ambiguo
+- D. En los cuatro casos, porque siempre es más precisa que la Ley de senos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 263
+**Subtema:** ley de cosenos · casos
+
+Si nos dan tres lados (LLL), o dos lados y un ángulo incluido (LAL), ninguna de las relaciones de la Ley de senos estaría completa. En tales casos se puede usar la Ley de cosenos.
+
+---
+
+### 72
+
+En relación con el libro de Matemáticas, según la forma estándar de la Ley de cosenos, ¿a qué es igual a²?
+
+- A. A b² + c² − 2bc cos A
+- B. A b² + c² + 2bc cos A
+- C. A b² − c² − 2bc cos A
+- D. A b² + c² − 2bc sen A
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 263
+**Subtema:** ley de cosenos · forma estándar
+
+Forma estándar: a² = b² + c² − 2bc cos A.
+
+---
+
+### 73
+
+De acuerdo con el libro de Matemáticas, según la forma estándar de la Ley de cosenos, ¿a qué es igual c²?
+
+- A. A a² + b² − 2ab cos C
+- B. A a² + b² − 2ab cos A
+- C. A a² + c² − 2ac cos C
+- D. A a² + b² + 2ab cos C
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 263
+**Subtema:** ley de cosenos · forma estándar
+
+Forma estándar: c² = a² + b² − 2ab cos C.
+
+---
+
+### 74
+
+De conformidad con el libro de Matemáticas, según la forma alternativa de la Ley de cosenos, ¿a qué es igual cos A?
+
+- A. A (b² + c² − a²) / 2bc
+- B. A (a² + c² − b²) / 2ac
+- C. A (a² + b² − c²) / 2ab
+- D. A (b² + c² + a²) / 2bc
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 263
+**Subtema:** ley de cosenos · forma alternativa
+
+Forma alternativa: cos A = (b² + c² − a²) / 2bc.
+
+---
+
+### 75
+
+En relación con el libro de Matemáticas, según la forma alternativa de la Ley de cosenos, ¿a qué es igual cos B?
+
+- A. A (a² + c² − b²) / 2ac
+- B. A (b² + c² − a²) / 2bc
+- C. A (a² + b² − c²) / 2ab
+- D. A (a² + c² − b²) / 2ab
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 263
+**Subtema:** ley de cosenos · forma alternativa
+
+Forma alternativa: cos B = (a² + c² − b²) / 2ac.
+
+---
+
+### 76
+
+De acuerdo con el libro de Matemáticas, al resolver un triángulo del que se conocen los tres lados, ¿qué ángulo conviene encontrar primero?
+
+- A. El ángulo opuesto al lado más largo
+- B. El ángulo opuesto al lado más corto
+- C. El ángulo formado por los dos lados mayores
+- D. Cualquiera de los tres, es indistinto
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 263
+**Subtema:** ley de cosenos · estrategia
+
+Es buena idea primero encontrar el ángulo opuesto al lado más largo.
+
+---
+
+### 77
+
+De conformidad con el libro de Matemáticas, ¿qué se puede determinar si se conoce el coseno de un ángulo?
+
+- A. Si el ángulo es agudo u obtuso
+- B. Si el ángulo es recto o llano
+- C. La longitud del lado opuesto
+- D. El área del triángulo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 264
+**Subtema:** ley de cosenos · signo del coseno
+
+Si se conoce el coseno de un ángulo se puede determinar si éste es agudo u obtuso.
+
+---
+
+### 78
+
+En relación con el libro de Matemáticas, si el ángulo mayor de un triángulo es agudo, ¿qué ocurre con los dos ángulos restantes?
+
+- A. Que también son agudos
+- B. Que uno es obtuso y el otro agudo
+- C. Que los dos son obtusos
+- D. Que uno de ellos es recto
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 264
+**Subtema:** ley de cosenos · signo del coseno
+
+Además, si el ángulo mayor es agudo, entonces los dos ángulos restantes también lo son.
+
+---
+
+### 79
+
+De acuerdo con el libro de Matemáticas, ¿en honor a quién recibe su nombre la fórmula del área de Herón?
+
+- A. Del matemático griego Herón (10-75 a.C.)
+- B. Del matemático griego Herón (10-75 d.C.)
+- C. Del matemático romano Herón (10-75 a.C.)
+- D. Del matemático griego Hierón (100-175 a.C.)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 266
+**Subtema:** ley de cosenos · fórmula de Herón
+
+Esta fórmula recibe el nombre de fórmula del área de Herón en honor al matemático griego Herón (10-75 a.C.).
+
+---
+
+### 80
+
+De conformidad con el libro de Matemáticas, ¿cuál es la fórmula del área de Herón?
+
+- A. Área = √(s(s − a)(s − b)(s − c))
+- B. Área = √(s(s + a)(s + b)(s + c))
+- C. Área = s(s − a)(s − b)(s − c)
+- D. Área = √((s − a)(s − b)(s − c))
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 266
+**Subtema:** ley de cosenos · fórmula de Herón
+
+Dado cualquier triángulo con lados de longitudes a, b y c, área del triángulo es Área = √(s(s − a)(s − b)(s − c)).
+
+---
+
+### 81
+
+En relación con el libro de Matemáticas, en la fórmula del área de Herón, ¿a qué es igual s?
+
+- A. A (a + b + c) / 2
+- B. A (a + b + c) / 3
+- C. A a + b + c
+- D. A (a · b · c) / 2
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 266
+**Subtema:** ley de cosenos · fórmula de Herón
+
+Donde s = (a + b + c) / 2.
+
+---
+
+### 82
+
+De acuerdo con el libro de Matemáticas, ¿qué describen las obras de Herón de Alejandría?
+
+- A. La forma de encontrar áreas de triángulos, cuadriláteros, polígonos regulares con 3 a 12 lados y círculos, y las áreas superficiales y volúmenes de objetos tridimensionales
+- B. La forma de encontrar únicamente el área de triángulos y círculos
+- C. La forma de resolver ecuaciones de segundo grado y sistemas lineales
+- D. La forma de medir ángulos con instrumentos de topografía
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 266
+**Subtema:** ley de cosenos · nota histórica
+
+Sus obras describen la forma de encontrar las áreas de triángulos, cuadriláteros, polígonos regulares con 3 a 12 lados y círculos, así como las áreas superficiales y volúmenes de objetos tridimensionales.
 
 ---
