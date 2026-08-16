@@ -224,11 +224,18 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   simétrica cada una. **Fuera:** la cola de la actividad de la p.24, la **Tabla 1.3** con
   los pares implícita/explícita (son ejemplos), el *Ejemplo* de *f* (*x*) = *x*² con su
   Solución y la Figura 1.20.
+- Cubierta la página impresa **26**, que **rinde poco a propósito**: sólo el arranque de
+  **Números reales** con los **naturales** (qué son, su letra y qué indican los tres
+  puntos). El resto de la página es material excluido — el *Ejemplo* de *f* (*x*) = *x*³
+  con su Solución y la Figura 1.21, la actividad de aprendizaje de 17 incisos, y la frase
+  de transición que abre *Dominio y rango de una función* (*"se hace necesario que tengas
+  muy claro cómo están formados los números reales"*), que anuncia el tema en vez de
+  enseñarlo. **La lista de los números reales sigue en la p.27** y ahí se recoge entera.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.25**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
-**b) está EN CURSO**. Sigue desde la **p.26** con el resto del **b)** funciones explícitas
-o implícitas (pp. 26–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
+va cubierto hasta la **p.26**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
+**b) está EN CURSO**. Sigue desde la **p.27** con el resto del **b)** funciones explícitas
+o implícitas (pp. 27–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
 **d)** función invertible y función inversa (pp. 49–60), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
@@ -1375,3 +1382,40 @@ De acuerdo con el libro de Cálculo, ¿respecto a qué son simétricas gráficam
 
 > Nota de revisor: el par 65 / 67 es el otro cruce de esta página — **ordenadas** para la
 > par, **origen** para la impar. Cada uno lleva la respuesta del otro en las opciones.
+
+---
+
+## Sub-lote 13 · Arranca el dominio y rango: los números naturales (1.3 b, p.26)
+
+### 68
+
+De conformidad con el libro de Cálculo, ¿cuáles son los números naturales y con qué letra se representan?
+
+- A. Los números 1, 2, 3, 4, 5,…, y se representan por la letra *N*
+- B. Los números 0, 1, 2, 3, 4,…, y se representan por la letra *Z*
+- C. Los números enteros positivos y negativos, y se representan por la letra *N*
+- D. Todos los números que pueden escribirse como cociente, y se representan por la letra *Q*
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 26
+**Subtema:** Números reales · Números naturales
+
+"1. Números naturales (*N*). Son los números 1, 2, 3, 4, 5,…, y se representan por la letra *N*."
+
+> Nota de revisor: el distractor B mete el **cero**, que es la confusión más común con este
+> conjunto. El libro arranca la lista en el 1.
+
+### 69
+
+En relación con el libro de Cálculo, en la sucesión de los números naturales, ¿qué indican los tres puntos?
+
+- A. Que continúan en forma infinita
+- B. Que se omiten algunos términos intermedios
+- C. Que la sucesión se detiene en un valor no especificado
+- D. Que los siguientes términos ya no son naturales
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 26
+**Subtema:** Números reales · Números naturales
+
+"[...] Los tres puntos indican que continúan en forma infinita."
