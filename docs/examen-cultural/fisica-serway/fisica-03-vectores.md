@@ -28,9 +28,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **53–56**: **3.1** y **3.2** COMPLETOS, y **3.3 · Aritmética vectorial básica** muy avanzada (vectores iguales, traslación paralela, suma gráfica, vector resultante, método del polígono, leyes conmutativa y asociativa, condición de mismas unidades/tipo, negativo de un vector, resta A⃗ − B⃗ = A⃗ + (−B⃗) y multiplicación por un escalar). La portada (p.52) y el Ejemplo 3.1 (p.54) no aportan reactivos.
+**EN CURSO.** Escritas las páginas impresas **53–57**: **3.1**, **3.2** y **3.3 · Aritmética vectorial básica** COMPLETOS (vectores iguales, traslación paralela, suma gráfica, vector resultante, método del polígono, leyes conmutativa y asociativa, condición de mismas unidades/tipo, negativo de un vector, resta A⃗ − B⃗ = A⃗ + (−B⃗), y multiplicación por un escalar positivo y negativo). La portada (p.52) y los Ejemplos 3.1/3.2 no aportan reactivos.
 
-**Pendiente:** EN CURSO. Falta el cierre de **3.3** (p.57: producto por escalar negativo) y luego **3.4 · Componentes de un vector y vectores unitarios**.
+**Pendiente:** EN CURSO. Sólo falta **3.4 · Componentes de un vector y vectores unitarios** (arranca en la p.59; la p.58 es la cola del Ejemplo 3.2). Con 3.4 se cierra el capítulo completo.
 
 ---
 
@@ -431,3 +431,20 @@ En relación con el libro de Física, si un vector A⃗ se multiplica por una ca
 **Subtema:** aritmética vectorial · multiplicación por un escalar
 
 "Si el vector A⃗ se multiplica por una cantidad escalar positiva m, el producto mA⃗ es un vector que tiene la misma dirección que A⃗ y magnitud mA."
+
+## Sub-lote 5 · Cierre de 3.3: producto por escalar negativo (p.57)
+
+### 27
+
+De conformidad con el libro de Física, si un vector A⃗ se multiplica por una cantidad escalar negativa −m, ¿cómo es el producto −mA⃗?
+
+- A. Tiene una dirección opuesta a A⃗
+- B. Tiene la misma dirección que A⃗
+- C. Es perpendicular a A⃗
+- D. Tiene magnitud cero
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 57
+**Subtema:** aritmética vectorial · producto por un escalar negativo
+
+"Si el vector A⃗ se multiplica por una cantidad escalar negativa −m, el producto −mA⃗ tiene una dirección opuesta a A⃗."
