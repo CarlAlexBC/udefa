@@ -16,6 +16,7 @@ import {
 import { CarruselMuestra } from "@/components/landing/CarruselMuestra";
 import { CarruselPlanteles } from "@/components/landing/CarruselPlanteles";
 import { SiteFooter } from "@/components/legal/SiteFooter";
+import { acabadoClaroDeModulo } from "@/lib/colores-paquete";
 
 export default function Home() {
   return (
@@ -149,8 +150,8 @@ export default function Home() {
               descripcion="Conocimientos generales de nivel bachillerato — 100 preguntas según la Convocatoria UDEFA 2026."
               reactivos="100 preguntas"
               duracion="120 min"
-              icono={<BookOpen className="h-5 w-5 text-accent" />}
-              proximamente
+              icono={<BookOpen className="h-5 w-5" />}
+              modulo="cultural"
             />
             <FaseCard
               numero="02"
@@ -158,7 +159,8 @@ export default function Home() {
               descripcion="Analogías, sinónimos, razonamiento lógico y abstracto en 4 bloques bajo presión de tiempo."
               reactivos="100 reactivos"
               duracion="40 min"
-              icono={<Brain className="h-5 w-5 text-accent" />}
+              icono={<Brain className="h-5 w-5" />}
+              modulo="psicologico"
             />
             <FaseCard
               numero="03"
@@ -166,7 +168,8 @@ export default function Home() {
               descripcion="Mide rasgos centrales de tu personalidad. Lo que cuenta es la coherencia de tu perfil a lo largo del examen."
               reactivos="256 reactivos"
               duracion="45 min"
-              icono={<UserCircle className="h-5 w-5 text-accent" />}
+              icono={<UserCircle className="h-5 w-5" />}
+              modulo="psicologico"
             />
             <FaseCard
               numero="04"
@@ -174,7 +177,8 @@ export default function Home() {
               descripcion="Patriotismo, lealtad, honor y disciplina. Valida si tu perfil de valores encaja."
               reactivos="39 reactivos"
               duracion="10 min"
-              icono={<Scale className="h-5 w-5 text-accent" />}
+              icono={<Scale className="h-5 w-5" />}
+              modulo="psicologico"
             />
           </div>
 
@@ -356,7 +360,7 @@ function FaseCard({
   reactivos,
   duracion,
   icono,
-  proximamente = false,
+  modulo,
 }: {
   numero: string;
   titulo: string;
@@ -364,26 +368,34 @@ function FaseCard({
   reactivos: string;
   duracion: string;
   icono: React.ReactNode;
-  /** Fase en desarrollo — se muestra atenuada con badge "Próximamente". */
-  proximamente?: boolean;
+  /** A qué examen pertenece la fase: decide el color de la tarjeta. */
+  modulo: "cultural" | "psicologico";
 }) {
+  const acabado = acabadoClaroDeModulo(modulo);
   return (
     <div
-      className={cn(
-        "rounded-xl border border-border bg-card p-5 border-t-[3px]",
-        proximamente ? "border-t-muted-foreground/40 opacity-70" : "border-t-military",
-      )}
+      className="rounded-xl border p-5"
+      style={{
+        backgroundImage: acabado.fondo,
+        borderColor: acabado.borde,
+        boxShadow: acabado.sombra,
+      }}
     >
       <div className="mb-3 flex items-center gap-2">
-        <div className="flex h-9 w-9 items-center justify-center rounded-lg border border-border bg-muted">
+        {/* El icono hereda el color del chip: los lucide pintan con
+            `currentColor` si nadie les pone una clase de color encima. */}
+        <div
+          className="flex h-9 w-9 items-center justify-center rounded-lg border bg-white/70"
+          style={{ borderColor: acabado.borde, color: acabado.acento }}
+        >
           {icono}
         </div>
-        <span className="text-[10px] font-bold uppercase tracking-widest text-military">Fase {numero}</span>
-        {proximamente && (
-          <span className="ml-auto rounded-full border border-accent/40 bg-accent/10 px-2 py-0.5 text-[9px] font-bold uppercase tracking-widest text-accent">
-            Próximamente
-          </span>
-        )}
+        <span
+          className="text-[10px] font-bold uppercase tracking-widest"
+          style={{ color: acabado.acento }}
+        >
+          Fase {numero}
+        </span>
       </div>
       <p className="text-lg font-semibold text-foreground">{titulo}</p>
       <p className="mt-1 mb-4 text-sm leading-relaxed text-muted-foreground">{descripcion}</p>

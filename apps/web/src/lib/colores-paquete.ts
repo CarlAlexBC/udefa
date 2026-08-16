@@ -86,6 +86,52 @@ export const COLOR_PAQUETE_OSCURO: Record<FamiliaColor, TonoPaquete> = {
 }
 
 /**
+ * ACABADO CLARO POR MÓDULO — la "hoja de plata" al derecho.
+ *
+ * El tablero (fondo carbón) viste sus tarjetas con `ACABADO_MODULO`: grafito
+ * con un baño del color y un resplandor. Sobre crema eso no se puede copiar —
+ * un resplandor necesita oscuridad para leerse—, así que aquí el mismo efecto
+ * se logra al revés:
+ *
+ *   · una base de PLATA fría, no blanca, para que la tarjeta tenga cuerpo;
+ *   · el color del módulo FUNDIDO en diagonal, que crece hacia la esquina;
+ *   · una VETA clara cruzando, la misma idea que la hoja de plata del tablero;
+ *   · un borde encendido y un halo apretado del color — ese es el "neón" que
+ *     sí funciona en claro: no brilla, pero recorta la tarjeta del fondo.
+ *
+ * Los textos y detalles van en el tono PROFUNDO (`COLOR_PAQUETE_CLARO`), que
+ * es el que se lee sobre fondo claro.
+ */
+export type AcabadoClaro = {
+  /** Para `backgroundImage`: veta encima, fusión del módulo debajo. */
+  fondo: string
+  /** Para `borderColor`. */
+  borde: string
+  /** Para `boxShadow`: el halo teñido. */
+  sombra: string
+  /** Para textos, chip del icono y enlaces. */
+  acento: string
+}
+
+export function acabadoClaroDeModulo(
+  modulo: keyof typeof COLOR_DE_MODULO,
+): AcabadoClaro {
+  const c = COLOR_PAQUETE_CLARO[COLOR_DE_MODULO[modulo]].c
+  return {
+    fondo: [
+      // La veta: una franja clara que cruza en diagonal.
+      'linear-gradient(118deg, transparent 24%, rgba(255,255,255,0.92) 43%, rgba(255,255,255,0.38) 54%, transparent 72%)',
+      // La fusión: plata que se tiñe del módulo hacia la esquina.
+      `linear-gradient(118deg, #F3F2ED 0%, ${c}14 38%, ${c}24 72%, #EEEDE8 100%)`,
+    ].join(', '),
+    borde: `${c}B3`,
+    // Halo apretado + una sombra baja para que la tarjeta se despegue del crema.
+    sombra: `0 0 12px -2px ${c}73, 0 0 0 3px ${c}1A, 0 8px 20px -12px ${c}80`,
+    acento: c,
+  }
+}
+
+/**
  * El latón de la marca, en el tono que SÍ se lee sobre crema.
  *
  * El latón de marca `#C99A3B` da **2.32:1** sobre `#F7F3EA` — reprueba el piso
