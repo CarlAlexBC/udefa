@@ -278,10 +278,20 @@ export default function Home() {
             <div className="relative mx-auto h-52 w-52 md:mx-0">
               <div
                 aria-hidden
-                className="pointer-events-none absolute -inset-2 rounded-full"
-                style={{ background: 'radial-gradient(circle, rgba(201,154,59,0.28), transparent 70%)' }}
+                className="pointer-events-none absolute -inset-4 rounded-full"
+                style={{ background: 'radial-gradient(circle, rgba(201,154,59,0.45), transparent 72%)' }}
               />
-              <div className="relative h-full w-full overflow-hidden rounded-full ring-4 ring-[#C99A3B]/45">
+              {/* Aro y halo van JUNTOS en una sola `boxShadow`, y no con
+                  `ring-*`: esa clase se dibuja también con box-shadow, y un
+                  estilo en línea la pisaría sin avisar. De adentro afuera: aro
+                  macizo de latón, aro suave, y el resplandor. */}
+              <div
+                className="relative h-full w-full overflow-hidden rounded-full"
+                style={{
+                  boxShadow:
+                    '0 0 0 4px #C99A3B, 0 0 0 9px rgba(201,154,59,0.30), 0 0 34px -4px rgba(201,154,59,0.70)',
+                }}
+              >
                 <Image
                   src="/carlo.jpg"
                   alt="Carlo Alexander"
