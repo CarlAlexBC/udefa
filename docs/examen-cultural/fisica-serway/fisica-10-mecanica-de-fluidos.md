@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **270–273** (más la definición de fluido de la portada, p.269): **10.1 · Presión** y **10.2 · Variación de la presión con la profundidad** COMPLETOS (densidad = masa/volumen y su variación con la temperatura; densidad de gases ≈ 1/1000; líquido incompresible; la ley P = P₀ + ρgh; la presión atmosférica 1.013 × 10⁵ Pa; igual presión a igual profundidad; la ley de Pascal; el elevador hidráulico F₁/A₁ = F₂/A₂ y sus aplicaciones). La portada (p.269) y los Ejemplos 10.1/10.2 no aportan reactivos.
+**EN CURSO.** Escritas las páginas impresas **270–273** y **275**: **10.1** y **10.2** COMPLETOS, y el arranque de **10.3 · Mediciones de presión** (la presión barométrica como presión actual de la atmósfera; el barómetro de Torricelli con P₀ = ρHg·g·h; el vacío en lo alto de la columna; y que 1 atm = columna de mercurio de 0.7600 m a 0 °C). La p.274 es toda ejemplos resueltos (Ejemplos 10.2 cont., 10.3, 10.4) y no aporta reactivos; la portada (p.269) tampoco.
 
-**Pendiente:** EN CURSO. Sigue **10.3 · Mediciones de presión** (p.274: barómetro y manómetro), y luego 10.4, 10.5 y 10.6. Los temas 10.7 y 10.8 quedan fuera del temario.
+**Pendiente:** EN CURSO. Sigue el resto de **10.3** (p.276: el manómetro de tubo abierto y la presión manométrica), y luego 10.4, 10.5 y 10.6. Los temas 10.7 y 10.8 quedan fuera del temario.
 
 ---
 
@@ -345,3 +345,65 @@ En relación con el libro de Física, en el elevador hidráulico, ¿cómo se rel
 **Subtema:** variación de la presión con la profundidad · conservación de energía en el elevador hidráulico
 
 "El trabajo efectuado por F₁ sobre el pistón de entrada es igual al trabajo realizado por F₂ sobre el pistón de salida, como debe ser para conservar energía."
+
+## Sub-lote 5 · Mediciones de presión: el barómetro (p.275)
+
+### 21
+
+De conformidad con el libro de Física, ¿qué es la presión barométrica que se proporciona en los reportes del clima?
+
+- A. La presión actual de la atmósfera
+- B. La presión del agua a cierta profundidad
+- C. La presión dentro de un fluido en movimiento
+- D. La presión de los gases disueltos en el agua
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 275
+**Subtema:** mediciones de presión · presión barométrica
+
+"Esta lectura es la presión actual de la atmósfera."
+
+### 22
+
+De acuerdo con el libro de Física, ¿qué instrumento, inventado por Evangelista Torricelli, se usa para medir la presión atmosférica?
+
+- A. El barómetro común
+- B. El termómetro
+- C. El anemómetro
+- D. El higrómetro
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 275
+**Subtema:** mediciones de presión · barómetro
+
+"Un instrumento que se usa para medir la presión atmosférica es el barómetro común, inventado por Evangelista Torricelli (1608-1647)."
+
+### 23
+
+En relación con el libro de Física, en el barómetro de mercurio, ¿cuánto vale la presión en lo alto de la columna de mercurio?
+
+- A. Se considera cero, porque el extremo cerrado del tubo es casi un vacío
+- B. Es igual a la presión atmosférica
+- C. Es el doble de la presión atmosférica
+- D. Es igual a la presión en el fondo del recipiente
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 275
+**Subtema:** mediciones de presión · el vacío en el barómetro
+
+"El extremo cerrado del tubo es casi un vacío, así que la presión en lo alto de la columna de mercurio se considera cero."
+
+### 24
+
+De conformidad con el libro de Física, ¿cómo se define una atmósfera de presión?
+
+- A. Como la presión equivalente de una columna de mercurio que tiene exactamente 0.7600 m de alto a 0 °C
+- B. Como la presión de una columna de agua de 1 m de alto
+- C. Como la presión de una columna de mercurio de 1 m de alto
+- D. Como la presión en el fondo del océano
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 275
+**Subtema:** mediciones de presión · definición de una atmósfera
+
+"Una atmósfera de presión se define como la presión equivalente de una columna de mercurio que tiene exactamente 0.760 0 m de alto a 0 °C."
