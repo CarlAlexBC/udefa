@@ -44,13 +44,19 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 ## Erratas del libro — no se escriben reactivos sobre ellas
 
-_(Sin hallazgos todavía en este capítulo. Los del capítulo 1 y del capítulo 2 están en sus propios archivos.)_
+- **p. 274, párrafo bajo el Teorema de Pitágoras: dice "vertical" dos veces.** El libro imprime "La longitud del **lado vertical** del triángulo es la distancia d entre los dos puntos. La longitud del **lado vertical** del triángulo es |y₂ − y₁|". La primera debería referirse a la **hipotenusa** (es la que mide d, como muestra la figura 3.5); el lado vertical es el que mide |y₂ − y₁|, que es lo que dice la segunda. El reactivo 12 pregunta sólo por los lados vertical y horizontal, que la segunda frase da bien.
+- **p. 275, nota al pie del recuadro del punto medio:** escribe "**Ápendice** A.4" (acento en la primera A) en lugar de *Apéndice*. Es sólo una remisión al propio libro, que queda fuera por norma.
+
+_(Los defectos del capítulo 1 y del capítulo 2 están documentados en sus propios archivos.)_
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **272 y 273** de la **§3.1 · Coordenadas rectangulares**: el plano cartesiano y a quién honra su nombre, cómo se forma y sus elementos (ejes, origen y cuadrantes), las coordenadas de un punto y qué distancia representa cada una, la doble lectura de la notación (x, y) y la importancia de la aportación de Descartes. Los `EJEMPLO 1` y `EJEMPLO 2` (gráficas de dispersión de suscriptores de telefonía celular) y el `TECNOLOGÍA` no llevan reactivos.
+**EN CURSO.** La **§3.1 · Coordenadas rectangulares está CERRADA** (pp. 272–277):
 
-**Pendiente:** EN CURSO. Sigue desde la página impresa **274** hasta cerrar la **§3.1** en la **p. 277**. Después faltan las otras cinco secciones, todas en este mismo archivo: **§3.2** (p. 281), **§3.3** (p. 294), **§3.4** (p. 301), **§3.5** (p. 310) y **§3.6** (p. 319). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
+- Cubiertas las páginas impresas **272 y 273**: el plano cartesiano y a quién honra su nombre, cómo se forma y sus elementos (ejes, origen y cuadrantes), las coordenadas de un punto y qué distancia representa cada una, la doble lectura de la notación (x, y) y la importancia de la aportación de Descartes. Los `EJEMPLO 1` y `EJEMPLO 2` (gráficas de dispersión de telefonía celular) y el `TECNOLOGÍA` no llevan reactivos.
+- Cubiertas las páginas impresas **274 a 277**, con las que **cierra la §3.1**: el recuadro *Teorema de Pitágoras* con su recíproco, las longitudes de los lados del triángulo auxiliar, la *Fórmula de la distancia*, la *Fórmula del punto medio* y cómo se obtiene, la libertad de colocar el sistema de coordenadas en las aplicaciones, y las **transformaciones** (la traslación y los otros tres tipos). Los `EJEMPLO 3` a `EJEMPLO 8` no llevan reactivos, ni el `Resumen (sección 3.1)`. Las **pp. 278–280 son el bloque `3.1 Ejercicios`**.
+
+**Pendiente:** EN CURSO. La **§3.1 está CERRADA**. Sigue la **§3.2 · Ecuaciones lineales con dos variables**, que arranca en la página impresa **281** y cuya teoría llega hasta la **p. 289**. Después faltan **§3.3** (p. 294), **§3.4** (p. 301), **§3.5** (p. 310) y **§3.6** (p. 319). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
 
 ---
 
@@ -206,5 +212,160 @@ En relación con el libro de Matemáticas, ¿dónde se usan hoy en día las idea
 **Subtema:** coordenadas rectangulares · aportación de Descartes
 
 Hoy en día, sus ideas se usan con frecuencia en, prácticamente, todos los campos científicos y los relacionados con negocios.
+
+---
+
+## Sub-lote 2 · Distancia, punto medio y traslaciones — cierra la §3.1 (pp. 274–277)
+
+### 10
+
+De acuerdo con el libro de Matemáticas, ¿qué establece el Teorema de Pitágoras?
+
+- A. Que para un triángulo rectángulo con hipotenusa de longitud c y lados de longitudes a y b, se cumple a² + b² = c²
+- B. Que para un triángulo rectángulo con hipotenusa de longitud a y lados b y c, se cumple a² + b² = c²
+- C. Que para cualquier triángulo con lados a, b y c, se cumple a² + b² = c²
+- D. Que para un triángulo rectángulo con hipotenusa c, se cumple a + b = c
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 274
+**Subtema:** coordenadas rectangulares · teorema de Pitágoras
+
+Para un triángulo rectángulo con hipotenusa de longitud c y lados de longitudes a y b, tenemos que a² + b² = c².
+
+---
+
+### 11
+
+De conformidad con el libro de Matemáticas, además de la relación entre los lados, ¿qué significa el Teorema de Pitágoras?
+
+- A. Que si a² + b² = c², entonces el triángulo es rectángulo
+- B. Que si a² + b² = c², entonces el triángulo es equilátero
+- C. Que si a + b = c, entonces el triángulo es rectángulo
+- D. Que si a² + b² > c², entonces el triángulo es rectángulo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 274
+**Subtema:** coordenadas rectangulares · teorema de Pitágoras
+
+(Lo que significa que, si a² + b² = c², entonces el triángulo es rectángulo.)
+
+---
+
+### 12
+
+En relación con el libro de Matemáticas, en el triángulo rectángulo que se forma con los puntos (x₁, y₁) y (x₂, y₂), ¿cuáles son las longitudes de los lados vertical y horizontal?
+
+- A. El vertical mide |y₂ − y₁| y el horizontal mide |x₂ − x₁|
+- B. El vertical mide |x₂ − x₁| y el horizontal mide |y₂ − y₁|
+- C. Los dos miden |x₂ − x₁|
+- D. El vertical mide y₂ + y₁ y el horizontal mide x₂ + x₁
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 274
+**Subtema:** coordenadas rectangulares · fórmula de la distancia
+
+La longitud del lado vertical del triángulo es |y₂ − y₁|, y la longitud del lado horizontal es |x₂ − x₁|.
+
+---
+
+### 13
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la fórmula de la distancia entre los puntos (x₁, y₁) y (x₂, y₂) en el plano?
+
+- A. d = √((x₂ − x₁)² + (y₂ − y₁)²)
+- B. d = √((x₂ − x₁)² − (y₂ − y₁)²)
+- C. d = (x₂ − x₁)² + (y₂ − y₁)²
+- D. d = √((x₂ + x₁)² + (y₂ + y₁)²)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 274
+**Subtema:** coordenadas rectangulares · fórmula de la distancia
+
+La distancia d entre los puntos (x₁, y₁) y (x₂, y₂) en el plano es: d = √((x₂ − x₁)² + (y₂ − y₁)²).
+
+---
+
+### 14
+
+De conformidad con el libro de Matemáticas, ¿cómo se encuentra el punto medio del segmento de recta que une dos puntos?
+
+- A. Obteniendo los valores promedio de las respectivas coordenadas de los dos puntos de extremo
+- B. Restando las respectivas coordenadas de los dos puntos de extremo
+- C. Multiplicando las respectivas coordenadas de los dos puntos de extremo
+- D. Sumando las respectivas coordenadas de los dos puntos de extremo, sin dividirlas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 275
+**Subtema:** coordenadas rectangulares · punto medio
+
+Para encontrar el punto medio del segmento de recta que une dos puntos en un plano de coordenadas, se obtienen los valores promedio de las respectivas coordenadas de los dos puntos de extremo, usando la fórmula del punto medio.
+
+---
+
+### 15
+
+En relación con el libro de Matemáticas, ¿cuál es la fórmula del punto medio?
+
+- A. Punto medio = ((x₁ + x₂)/2, (y₁ + y₂)/2)
+- B. Punto medio = ((x₂ − x₁)/2, (y₂ − y₁)/2)
+- C. Punto medio = ((x₁ + y₁)/2, (x₂ + y₂)/2)
+- D. Punto medio = ((x₁ + x₂), (y₁ + y₂))
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 275
+**Subtema:** coordenadas rectangulares · punto medio
+
+El punto medio del segmento de recta que une los puntos (x₁, y₁) y (x₂, y₂) está dado por la fórmula del punto medio: Punto medio = ((x₁ + x₂)/2, (y₁ + y₂)/2).
+
+---
+
+### 16
+
+De acuerdo con el libro de Matemáticas, al usar geometría de coordenadas para resolver problemas de la vida real, ¿qué libertad se tiene?
+
+- A. La de poner el sistema de coordenadas en cualquier forma que sea cómoda para la resolución
+- B. La de cambiar las unidades de medida a mitad del problema
+- C. La de omitir una de las dos coordenadas
+- D. La de trazar los ejes sin que se corten en ángulo recto
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 276
+**Subtema:** coordenadas rectangulares · aplicaciones
+
+Cuando se usa geometría de coordenadas para resolver problemas de la vida real, tenemos libertad de poner el sistema de coordenadas en cualquier forma que sea cómoda para su resolución.
+
+---
+
+### 17
+
+De conformidad con el libro de Matemáticas, ¿cómo se llama el tipo de transformación que consiste en desplazar una figura en el plano de coordenadas?
+
+- A. Traslación
+- B. Reflexión
+- C. Rotación
+- D. Estiramiento
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 277
+**Subtema:** coordenadas rectangulares · transformaciones
+
+El ejemplo 8 ilustra un tipo de transformación llamada traslación.
+
+---
+
+### 18
+
+En relación con el libro de Matemáticas, además de la traslación, ¿qué otros tipos de transformación de puntos en un plano de coordenadas menciona el libro?
+
+- A. Reflexiones, rotaciones y estiramientos
+- B. Reflexiones, rotaciones y contracciones
+- C. Rotaciones, proyecciones y simetrías
+- D. Reflexiones, inversiones y dilataciones
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 277
+**Subtema:** coordenadas rectangulares · transformaciones
+
+Otros tipos incluyen reflexiones, rotaciones y estiramientos.
 
 ---
