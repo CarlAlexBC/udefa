@@ -250,11 +250,19 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   relación directa entre el dominio y el trazo de las asíntotas— más la razón de que **los
   extremos no estén contenidos** en la notación de intervalos. **Fuera:** el desarrollo del
   ejemplo de *f* (*x*) = 3/(*x* − 5), la Figura 1.26 y las dos actividades de aprendizaje.
+- Cubierta la página impresa **30**, que **rinde un solo reactivo**: el recuadro de apoyo
+  con la **propiedad del cero** (*si ab = 0 entonces a = 0 o b = 0*). Todo lo demás de la
+  página son los dos *Ejemplos* de asíntotas con su Solución paso a paso, la Figura 1.27 y
+  una actividad de aprendizaje.
+- **La página impresa 31 NO dio ningún reactivo.** Es la cola del ejemplo anterior, la
+  Figura 1.28, dos actividades de aprendizaje y un recuadro titulado *Solución de
+  ecuaciones de segundo grado* que en realidad son **instrucciones de la calculadora**
+  (qué teclear en la fx-991ES y en la CLASSWIZ) — manejo de herramienta, no materia.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.29**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
-**b) está EN CURSO**. Sigue desde la **p.30** con el resto del **b)** funciones explícitas
-o implícitas (pp. 30–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
+va cubierto hasta la **p.31**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
+**b) está EN CURSO**. Sigue desde la **p.32** con el resto del **b)** funciones explícitas
+o implícitas (pp. 32–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
 **d)** función invertible y función inversa (pp. 49–60), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
@@ -1728,3 +1736,26 @@ De conformidad con el libro de Cálculo, en la expresión del dominio por interv
 **Subtema:** Dominio de una función · Notación de intervalos
 
 "En la desigualdad todos los símbolos de desigualdad son menores; por ello, los extremos no están contenidos."
+
+---
+
+## Sub-lote 17 · La propiedad del cero (1.3 b, p.30)
+
+### 87
+
+En relación con el libro de Cálculo, ¿qué establece la propiedad del cero?
+
+- A. Si *ab* = 0, entonces *a* = 0 o *b* = 0
+- B. Si *ab* = 0, entonces *a* = 0 y *b* = 0 al mismo tiempo
+- C. Si *a* = 0 o *b* = 0, entonces *ab* es distinto de cero
+- D. Si *a* + *b* = 0, entonces *a* = 0 o *b* = 0
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 30
+**Subtema:** Dominio de una función · Propiedad del cero
+
+"Propiedad del cero, si *ab* = 0 entonces *a* = 0 o *b* = 0."
+
+> Nota de revisor: el distractor B cambia la **o** por **y**, que es el error clásico al
+> enunciar esta propiedad. El libro la da en un recuadro de apoyo, no dentro del
+> desarrollo del ejercicio, así que entra sin discusión.
