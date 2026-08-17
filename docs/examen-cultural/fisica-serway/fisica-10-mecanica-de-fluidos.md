@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **270–278** (salvo la 274, que es toda ejemplos): **10.1**, **10.2**, **10.3** y **10.4 · Fuerzas de flotación y principio de Arquímedes** COMPLETOS (fuerza de flotación o boyante; principio de Arquímedes; B = ρfluido·g·Vdespl; la composición del objeto no influye; objetos de igual volumen sienten la misma flotación; objeto sumergido sube/se hunde según densidades; y el objeto que flota con Vdespl/Vobj = ρobj/ρfluido). La p.274 y los Ejemplos no aportan reactivos; la portada (p.269) tampoco.
+**EN CURSO.** Escritas las páginas impresas **270–278** y **280** (la 274 y la 279 son ejemplos): **10.1**, **10.2**, **10.3**, **10.4** COMPLETOS y el arranque de **10.5 · Dinámica de fluidos** (flujo estable/laminar y turbulento, viscosidad, las cuatro suposiciones del flujo ideal, la línea de corriente y el tubo de flujo). Los Ejemplos y la portada no aportan reactivos.
 
-**Pendiente:** EN CURSO. Siguen **10.5 · Dinámica de fluidos** y **10.6 · Ecuación de Bernoulli** (a partir de la p.279/280), los dos últimos temas del temario. Los temas 10.7 y 10.8 quedan fuera.
+**Pendiente:** EN CURSO. Sigue el resto de **10.5** (p.281: la ecuación de continuidad A₁v₁ = A₂v₂) y luego **10.6 · Ecuación de Bernoulli**, el último tema del temario. Los temas 10.7 y 10.8 quedan fuera.
 
 ---
 
@@ -593,3 +593,110 @@ De conformidad con el libro de Física, ¿a qué es igual la fracción del volum
 **Subtema:** fuerzas de flotación y principio de Arquímedes · fracción sumergida (interpretación)
 
 "Esta ecuación demuestra que la fracción del volumen de un objeto en flotación que está debajo de la superficie del fluido es igual al cociente de la densidad del objeto a la del fluido."
+
+## Sub-lote 9 · Dinámica de fluidos: tipos de flujo y flujo ideal (p.280)
+
+### 37
+
+De acuerdo con el libro de Física, ¿cómo es el flujo estable o laminar de un fluido?
+
+- A. Cada partícula del fluido sigue una trayectoria uniforme, de modo que las trayectorias de diferentes partículas nunca se cruzan
+- B. Las partículas siguen trayectorias irregulares que se cruzan
+- C. El fluido forma pequeñas regiones tipo remolino
+- D. El fluido está siempre en reposo
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 280
+**Subtema:** dinámica de fluidos · flujo estable (laminar)
+
+"o laminar, si cada partícula del fluido sigue una trayectoria uniforme de tal modo que las trayectorias de diferentes partículas nunca se cruzan unas con otras."
+
+### 38
+
+En relación con el libro de Física, ¿qué ocurre con el flujo de un fluido arriba de cierta rapidez crítica?
+
+- A. Se vuelve turbulento: un flujo irregular caracterizado por pequeñas regiones tipo remolino
+- B. Se vuelve laminar y uniforme
+- C. Se detiene por completo
+- D. Pierde toda su viscosidad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 280
+**Subtema:** dinámica de fluidos · flujo turbulento
+
+"Arriba de cierta rapidez crítica, el flujo de fluido se vuelve turbulento. El flujo turbulento es flujo irregular que se caracteriza por pequeñas regiones tipo remolino."
+
+### 39
+
+De conformidad con el libro de Física, ¿qué caracteriza el término viscosidad?
+
+- A. El grado de fricción interna en el fluido
+- B. La densidad del fluido
+- C. La rapidez del fluido
+- D. La presión del fluido
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 280
+**Subtema:** dinámica de fluidos · viscosidad
+
+"El término viscosidad se usa comúnmente en la descripción del flujo de fluido para caracterizar el grado de fricción interna en el fluido."
+
+### 40
+
+De acuerdo con el libro de Física, ¿cuáles son las cuatro suposiciones del modelo de flujo de fluido ideal?
+
+- A. El fluido no es viscoso, el flujo es estable, el fluido es incompresible y el flujo es irrotacional
+- B. El fluido es viscoso, turbulento, compresible y rotacional
+- C. El fluido es viscoso, estable, compresible e irrotacional
+- D. El fluido no es viscoso, turbulento, incompresible y rotacional
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 280
+**Subtema:** dinámica de fluidos · suposiciones del flujo ideal
+
+"En este modelo simplificado de flujo de fluido ideal, se hacen las siguientes cuatro suposiciones: 1. El fluido no es viscoso... 2. El flujo es estable... 3. El fluido es incompresible... 4. El flujo es irrotacional."
+
+### 41
+
+En relación con el libro de Física, ¿cómo se llama la trayectoria que toma una partícula de fluido en flujo estable, y cómo es la velocidad de la partícula respecto a ella?
+
+- A. Línea de corriente; la velocidad de la partícula siempre es tangente a la línea de corriente
+- B. Tubo de flujo; la velocidad es perpendicular a él
+- C. Línea de presión; la velocidad es cero
+- D. Remolino; la velocidad es variable
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 280
+**Subtema:** dinámica de fluidos · línea de corriente
+
+"La trayectoria que toma una partícula de fluido en flujo estable se llama línea de corriente. La velocidad de la partícula siempre es tangente a la línea de corriente."
+
+### 42
+
+De conformidad con el libro de Física, ¿cómo se llama el conjunto de líneas de corriente a través del cual las partículas de fluido no pueden fluir?
+
+- A. Tubo de flujo
+- B. Línea de corriente
+- C. Capa límite
+- D. Región de remolino
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 280
+**Subtema:** dinámica de fluidos · tubo de flujo
+
+"Un conjunto de líneas de corriente como las que se muestran en la figura 10.15 forman un tubo de flujo. Las partículas de fluido no pueden fluir a través de este tubo."
+
+### 43
+
+De acuerdo con el libro de Física, en el flujo estable, ¿qué tienen en común todas las partículas de fluido que llegan a un punto dado?
+
+- A. Todas tienen la misma velocidad
+- B. Todas tienen distinta velocidad
+- C. Todas están en reposo
+- D. Todas tienen la misma masa pero distinta velocidad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 280
+**Subtema:** dinámica de fluidos · velocidad en el flujo estable
+
+"En el flujo estable todas las partículas de fluido que llegan a un punto dado tienen la misma velocidad."
