@@ -56,7 +56,9 @@ _(Los defectos del capítulo 1 y del capítulo 2 están documentados en sus prop
 - Cubiertas las páginas impresas **272 y 273**: el plano cartesiano y a quién honra su nombre, cómo se forma y sus elementos (ejes, origen y cuadrantes), las coordenadas de un punto y qué distancia representa cada una, la doble lectura de la notación (x, y) y la importancia de la aportación de Descartes. Los `EJEMPLO 1` y `EJEMPLO 2` (gráficas de dispersión de telefonía celular) y el `TECNOLOGÍA` no llevan reactivos.
 - Cubiertas las páginas impresas **274 a 277**, con las que **cierra la §3.1**: el recuadro *Teorema de Pitágoras* con su recíproco, las longitudes de los lados del triángulo auxiliar, la *Fórmula de la distancia*, la *Fórmula del punto medio* y cómo se obtiene, la libertad de colocar el sistema de coordenadas en las aplicaciones, y las **transformaciones** (la traslación y los otros tres tipos). Los `EJEMPLO 3` a `EJEMPLO 8` no llevan reactivos, ni el `Resumen (sección 3.1)`. Las **pp. 278–280 son el bloque `3.1 Ejercicios`**.
 
-**Pendiente:** EN CURSO. La **§3.1 está CERRADA**. Sigue la **§3.2 · Ecuaciones lineales con dos variables**, que arranca en la página impresa **281** y cuya teoría llega hasta la **p. 289**. Después faltan **§3.3** (p. 294), **§3.4** (p. 301), **§3.5** (p. 310) y **§3.6** (p. 319). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
+- Cubiertas las páginas impresas **281, 282 y 283**, arranque de la **§3.2 · Ecuaciones lineales con dos variables**: el modelo `y = mx + b` y por qué se llama lineal, la *forma pendiente-intersección* y qué son m y (0, b), qué es la pendiente de una recta no vertical, la recta vertical `x = a` y por qué su pendiente no está definida, lo que implican una pendiente cero y una negativa, la **elevación** y el **corrimiento**, el recuadro *Pendiente de una recta que pasa por dos puntos* con su condición x₁ ≠ x₂, y la importancia del **orden de sustracción**. Los `EJEMPLO 1` y `EJEMPLO 2` no llevan reactivos.
+
+**Pendiente:** EN CURSO. La **§3.1 está CERRADA** y la **§3.2 va en curso**: sigue desde la página impresa **284**, y su teoría llega hasta la **p. 289**. Después faltan **§3.3** (p. 294), **§3.4** (p. 301), **§3.5** (p. 310) y **§3.6** (p. 319). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
 
 ---
 
@@ -367,5 +369,211 @@ En relación con el libro de Matemáticas, además de la traslación, ¿qué otr
 **Subtema:** coordenadas rectangulares · transformaciones
 
 Otros tipos incluyen reflexiones, rotaciones y estiramientos.
+
+---
+
+## Sub-lote 3 · Pendiente y forma pendiente-intersección (§3.2, pp. 281–283)
+
+### 19
+
+De acuerdo con el libro de Matemáticas, ¿cuál es el modelo matemático más sencillo para relacionar dos variables?
+
+- A. La ecuación lineal con dos variables y = mx + b
+- B. La ecuación cuadrática con dos variables y = ax² + bx + c
+- C. La ecuación racional con dos variables y = a/x
+- D. La ecuación exponencial con dos variables y = aˣ
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 281
+**Subtema:** ecuaciones lineales · modelo lineal
+
+El modelo matemático más sencillo para relacionar dos variables, es la ecuación lineal con dos variables y = mx + b.
+
+---
+
+### 20
+
+De conformidad con el libro de Matemáticas, ¿por qué se llama lineal a esa ecuación?
+
+- A. Porque su gráfica es una recta
+- B. Porque sus dos variables son de primer grado
+- C. Porque sus coeficientes son enteros
+- D. Porque pasa siempre por el origen
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 281
+**Subtema:** ecuaciones lineales · modelo lineal
+
+La ecuación se llama lineal porque su gráfica es una recta.
+
+---
+
+### 21
+
+En relación con el libro de Matemáticas, en matemáticas, ¿qué quiere decir el término línea?
+
+- A. Línea recta
+- B. Cualquier trazo continuo
+- C. Línea curva
+- D. Segmento de longitud finita
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 281
+**Subtema:** ecuaciones lineales · modelo lineal
+
+(En matemáticas, el término línea quiere decir línea recta.)
+
+---
+
+### 22
+
+De acuerdo con el libro de Matemáticas, en la ecuación y = mx + b, ¿cuál es la intersección con el eje y y cuál es la pendiente?
+
+- A. La intersección con el eje y es (0, b) y la pendiente es m
+- B. La intersección con el eje y es (0, m) y la pendiente es b
+- C. La intersección con el eje y es (b, 0) y la pendiente es m
+- D. La intersección con el eje y es (0, b) y la pendiente es b
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 281
+**Subtema:** ecuaciones lineales · forma pendiente-intersección
+
+La gráfica de la ecuación y = mx + b es una recta cuya pendiente es m y cuya intersección con el eje y es (0, b).
+
+---
+
+### 23
+
+De conformidad con el libro de Matemáticas, ¿qué es la pendiente de una recta no vertical?
+
+- A. El número de unidades que la recta sube o baja verticalmente por cada unidad de cambio horizontal, de izquierda a derecha
+- B. El número de unidades que la recta avanza horizontalmente por cada unidad de cambio vertical
+- C. La distancia del origen al punto donde la recta corta el eje y
+- D. El ángulo que la recta forma con el eje y
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 281
+**Subtema:** ecuaciones lineales · pendiente
+
+La pendiente de una recta no vertical es el número de unidades que la recta sube (o baja) verticalmente por cada unidad de cambio horizontal de izquierda a derecha.
+
+---
+
+### 24
+
+En relación con el libro de Matemáticas, ¿cómo se llama la forma y = mx + b de una ecuación lineal?
+
+- A. Forma pendiente-intersección
+- B. Forma general
+- C. Forma punto-pendiente
+- D. Forma estándar
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 281
+**Subtema:** ecuaciones lineales · forma pendiente-intersección
+
+Una ecuación lineal en la forma y = mx + b, está escrita en forma pendiente-intersección.
+
+---
+
+### 25
+
+De acuerdo con el libro de Matemáticas, ¿qué forma tiene la ecuación de una recta vertical y por qué no puede escribirse como y = mx + b?
+
+- A. Tiene la forma x = a, y no puede escribirse así porque su pendiente no está definida
+- B. Tiene la forma y = a, y no puede escribirse así porque su pendiente es cero
+- C. Tiene la forma x = a, y no puede escribirse así porque su pendiente es cero
+- D. Tiene la forma x = my, y no puede escribirse así porque no corta el eje y
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 281
+**Subtema:** ecuaciones lineales · recta vertical
+
+Una recta vertical tiene una ecuación de la forma x = a. La ecuación de una recta vertical no se puede escribir en la forma y = mx + b, porque su pendiente no está definida.
+
+---
+
+### 26
+
+De conformidad con el libro de Matemáticas, ¿qué implica una pendiente igual a cero?
+
+- A. Que la recta es horizontal, es decir, no sube ni baja
+- B. Que la recta es vertical
+- C. Que la recta pasa por el origen
+- D. Que la recta no corta el eje y
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 282
+**Subtema:** ecuaciones lineales · pendiente
+
+Una pendiente cero implica que la recta es horizontal, es decir, no sube ni baja.
+
+---
+
+### 27
+
+En relación con el libro de Matemáticas, ¿qué ocurre con la recta cuando m es negativa?
+
+- A. Que la recta baja
+- B. Que la recta sube
+- C. Que la recta se vuelve horizontal
+- D. Que la recta se vuelve vertical
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 282
+**Subtema:** ecuaciones lineales · pendiente
+
+Cuando m es negativa, la recta baja.
+
+---
+
+### 28
+
+De acuerdo con el libro de Matemáticas, ¿cómo se llaman el cambio en y y el cambio en x al calcular la pendiente?
+
+- A. El cambio en y es la elevación y el cambio en x es el corrimiento
+- B. El cambio en y es el corrimiento y el cambio en x es la elevación
+- C. Los dos se llaman desplazamiento
+- D. El cambio en y es la altura y el cambio en x es la base
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 283
+**Subtema:** ecuaciones lineales · elevación y corrimiento
+
+y₂ − y₁ = cambio en y = elevación, y x₂ − x₁ = cambio en x = corrimiento.
+
+---
+
+### 29
+
+De conformidad con el libro de Matemáticas, ¿cuál es la pendiente m de la recta no vertical que pasa por (x₁, y₁) y (x₂, y₂), y qué condición debe cumplirse?
+
+- A. m = (y₂ − y₁)/(x₂ − x₁), donde x₁ ≠ x₂
+- B. m = (x₂ − x₁)/(y₂ − y₁), donde y₁ ≠ y₂
+- C. m = (y₂ + y₁)/(x₂ + x₁), donde x₁ ≠ x₂
+- D. m = (y₂ − y₁)/(x₂ − x₁), donde y₁ ≠ y₂
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 283
+**Subtema:** ecuaciones lineales · pendiente entre dos puntos
+
+La pendiente m de la recta no vertical que pasa por (x₁, y₁) y (x₂, y₂) es m = (y₂ − y₁)/(x₂ − x₁), donde x₁ ≠ x₂.
+
+---
+
+### 30
+
+En relación con el libro de Matemáticas, al usar la fórmula de la pendiente, ¿qué resulta importante?
+
+- A. El orden de sustracción: el numerador y el denominador deben formarse usando el mismo orden
+- B. El orden de sustracción: el numerador y el denominador deben formarse en orden contrario
+- C. Que el punto marcado como (x₁, y₁) sea siempre el de la izquierda
+- D. Que las dos coordenadas sean positivas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 283
+**Subtema:** ecuaciones lineales · pendiente entre dos puntos
+
+Cuando esta fórmula se usa para la pendiente, el orden de sustracción es importante. Una vez hecho esto, se debe formar el numerador y el denominador usando el mismo orden de sustracción.
 
 ---
