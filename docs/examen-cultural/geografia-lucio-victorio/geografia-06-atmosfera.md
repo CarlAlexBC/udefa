@@ -33,11 +33,16 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Arrancado el tema **6.1** con el apartado **Características de la atmósfera**.
+**EN CURSO.** El tema **6.1 Generalidades sobre la atmósfera** está **CERRADO** (pp. 192–194, sus dos subtemas). Falta el **6.2** y el **6.3**.
 
 - Cubierta la página impresa **192**: el arranque del **6.1.1** con el apartado **Características de la atmósfera** completo — la definición de atmósfera y su origen, la **composición** con todos sus porcentajes y la variación de la humedad, y las **cinco propiedades** (color, diatermancia, compresibilidad, elasticidad y movilidad) con el desarrollo de cada una. **La Figura 6.1 es ilustración** y no lleva reactivos. La **portadilla de la Unidad VI (p.191)** es una lámina ilustrada con el índice de la unidad y tampoco lleva reactivos.
 
-**Pendiente:** EN CURSO. Sigue desde la **p.193** con el resto del **6.1.1** (la importancia de la atmósfera), y luego el **6.1.2 Estructura de la atmósfera** (p.194), todo el **6.2** (pp. 195–209) y todo el **6.3** (pp. 210–218), hasta cerrar en la **p.218**: el 6.4, que el temario no pide, empieza en la 219. **Geografía NO está cerrada:** este archivo y el de la Unidad V sostienen el pendiente de la materia.
+- Cubierta la página impresa **193**: el apartado **Importancia de la atmósfera** completo — que sin ella las condiciones superficiales cambiarían en cuestión de horas, y las seis consecuencias que el libro enlista (la desaparición de la presión atmosférica, la falta de vientos, humedad y lluvia, el contraste térmico de **+100°C / −150°C** entre los dos lados del planeta, el agua hirviendo y congelándose, el silencio absoluto y las mortales dosis de rayos cósmicos, X y ultravioleta más los aerolitos). **Las dos temperaturas se verificaron con `crop.py` a 600 dpi.** La Figura 6.2 es ilustración. **La mitad inferior de la página es un bloque de ejercicios** y no lleva reactivos por norma.
+- Cubierta la página impresa **194**: el **6.1.2 Estructura de la atmósfera** en sus dos primeras capas — las **cuatro capas** y cuáles se descubrieron en el siglo XX (la ionósfera por la radiocomunicación y la exósfera en **1967**), la **tropósfera** (nombre y significado, espesor de 8/17/12 km, el **75%** de los gases por debajo de los **12,000 m**, y por qué es la más importante) y la **estratósfera** (significado, la **tropopausa**, los 65 km de espesor de los 12 a los 80, su composición y la **capa de ozono** entre los 25 y 35 km). **Todas las cifras se verificaron con `crop.py` a 600 dpi.** La Figura 6.3 es ilustración; sus rótulos de altitud repiten los que el texto ya da. **La mitad superior de la página es el espacio en blanco del ejercicio de la p.193** y no lleva reactivos.
+
+> **Cruce con la Unidad I:** la **capa de ozono** ya aparece en el reactivo 47 de la Unidad I (p.26), pero allá se pregunta **qué la daña** (los "clorofluocarbonos") y aquí **dónde está y de qué protege**. Son datos distintos y no se duplican.
+
+**Pendiente:** EN CURSO. El tema **6.1 quedó CERRADO** (pp. 192–194). Sigue desde la **p.195** con el **6.2 Los fenómenos meteorológicos** —6.2.1 La temperatura atmosférica (p.195), 6.2.2 La presión atmosférica (p.199), 6.2.3 Los vientos (p.200), 6.2.4 La humedad atmosférica (p.205) y 6.2.5 La lluvia y otras precipitaciones acuosas (p.207)—, y después todo el **6.3** (pp. 210–218), hasta cerrar en la **p.218**: el 6.4, que el temario no pide, empieza en la 219. **Geografía NO está cerrada:** este archivo y el de la Unidad V sostienen el pendiente de la materia.
 
 ---
 
@@ -502,3 +507,422 @@ En relación con el libro de Geografía, ¿qué clase de movimiento es el viento
 "[...] y viento (movimiento horizontal)."
 
 > Nota de revisor: par de trampa con el 29. La **convección** es vertical y el **viento**, horizontal; el libro lo aclara entre paréntesis y es fácil de invertir.
+
+## Sub-lote 3 · Importancia de la atmósfera (6.1.1, p. 193)
+
+### 31
+
+De acuerdo con el libro de Geografía, ¿qué ocurriría con las condiciones superficiales del planeta si no existiera la atmósfera?
+
+- A. Cambiarían radicalmente en cuestión de horas, haciendo imposible el desarrollo de la vida y las actividades humanas
+- B. Cambiarían lentamente a lo largo de millones de años
+- C. Se mantendrían estables, salvo por la desaparición de los vientos
+- D. Cambiarían sólo en el lado iluminado del planeta
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 193
+**Subtema:** importancia de la atmósfera · generalidades
+
+"Sin ella las condiciones superficiales del planeta cambiarían radicalmente en cuestión de horas, haciendo imposible el desarrollo de la vida y las actividades humanas."
+
+### 32
+
+De conformidad con el libro de Geografía, sin la presión atmosférica, ¿en cuánto tiempo morirían los seres vivos?
+
+- A. En cuestión de minutos u horas
+- B. En cuestión de días o semanas
+- C. En cuestión de segundos
+- D. En cuestión de meses
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 193
+**Subtema:** importancia de la atmósfera · presión atmosférica
+
+"Desaparecería la presión atmosférica, sin la cual los seres vivos morirían en cuestión de minutos u horas."
+
+### 33
+
+En relación con el libro de Geografía, sin atmósfera, ¿qué fenómenos esenciales para el desarrollo de la vida no habría?
+
+- A. Vientos, humedad ni lluvia
+- B. Mareas, olas ni corrientes marinas
+- C. Estaciones del año ni zonas térmicas
+- D. Días ni noches
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 193
+**Subtema:** importancia de la atmósfera · vientos y lluvia
+
+"No habría vientos, humedad ni lluvia, fenómenos esenciales para el desarrollo de la vida."
+
+### 34
+
+De acuerdo con el libro de Geografía, sin atmósfera, ¿a cuánto se elevaría la temperatura del lado iluminado del planeta?
+
+- A. A más de 100°C
+- B. A más de 150°C
+- C. A más de 50°C
+- D. A más de 1,000°C
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 193
+**Subtema:** importancia de la atmósfera · distribución del calor solar
+
+"El calor solar, al no ser distribuido por la atmósfera, elevaría la temperatura del lado iluminado a más de 100°C, mientras en el lado opuesto descendería a -150°C."
+
+### 35
+
+De conformidad con el libro de Geografía, sin atmósfera, ¿a cuánto descendería la temperatura en el lado opuesto al iluminado?
+
+- A. A -150°C
+- B. A -100°C
+- C. A -50°C
+- D. A -15°C
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 193
+**Subtema:** importancia de la atmósfera · distribución del calor solar
+
+"[...] elevaría la temperatura del lado iluminado a más de 100°C, mientras en el lado opuesto descendería a -150°C."
+
+> Nota de revisor: par de trampa con el 34. Las dos cifras no son simétricas —**+100** y **−150**—, y es fácil suponer que sí lo son.
+
+### 36
+
+En relación con el libro de Geografía, ¿qué le ocurriría al agua de océanos, mares, golfos, ríos y lagos si no existiera la atmósfera?
+
+- A. Hervirían en el lado iluminado y se congelarían en el lado opuesto del planeta
+- B. Se congelarían por completo en ambos lados del planeta
+- C. Hervirían por completo en ambos lados del planeta
+- D. Se evaporarían y formarían una capa permanente de nubes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 193
+**Subtema:** importancia de la atmósfera · las aguas
+
+"La elevada temperatura del lado iluminado haría hervir el agua de océanos, mares, golfos, ríos, lagos, etc.; mismos que se congelarían en el lado opuesto del planeta."
+
+### 37
+
+De acuerdo con el libro de Geografía, ¿por qué reinaría un silencio absoluto en la superficie terrestre si no existiera la atmósfera?
+
+- A. Al no haber medio de circulación de los sonidos
+- B. Al no haber vientos que transporten los sonidos
+- C. Al desaparecer la presión atmosférica que los amplifica
+- D. Al congelarse las aguas que los propagan
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 193
+**Subtema:** importancia de la atmósfera · circulación de los sonidos
+
+"En la superficie terrestre reinaría un silencio absoluto, al no haber medio de circulación de los sonidos."
+
+### 38
+
+De conformidad con el libro de Geografía, ¿qué radiaciones recibiría la superficie terrestre en mortales dosis si no existiera la atmósfera?
+
+- A. Rayos cósmicos, X y ultravioleta
+- B. Rayos infrarrojos, gamma y ultravioleta
+- C. Rayos cósmicos, infrarrojos y visibles
+- D. Rayos X, gamma y de radio
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 193
+**Subtema:** importancia de la atmósfera · radiaciones
+
+"La superficie terrestre recibiría mortales dosis de rayos cósmicos, X y ultravioleta, así como el impacto de miles de aerolitos [...]"
+
+### 39
+
+En relación con el libro de Geografía, ¿a qué astros se parecería con el tiempo la superficie terrestre si no existiera la atmósfera?
+
+- A. A la Luna y los planetas Mercurio y Marte
+- B. A la Luna y los planetas Venus y Marte
+- C. Al Sol y los planetas Mercurio y Venus
+- D. A la Luna y los planetas Júpiter y Saturno
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 193
+**Subtema:** importancia de la atmósfera · aerolitos
+
+"[...] así como el impacto de miles de aerolitos, que con el tiempo le darían un aspecto parecido al que ahora tienen la Luna y los planetas Mercurio y Marte."
+
+## Sub-lote 4 · Estructura de la atmósfera: tropósfera y estratósfera (6.1.2, p. 194)
+
+### 40
+
+De acuerdo con el libro de Geografía, ¿cuáles son las 4 capas que se distinguen en la atmósfera, de abajo hacia arriba?
+
+- A. La tropósfera, la estratósfera, la ionósfera y la exósfera
+- B. La tropósfera, la ionósfera, la estratósfera y la exósfera
+- C. La exósfera, la ionósfera, la estratósfera y la tropósfera
+- D. La tropósfera, la tropopausa, la estratósfera y la ionósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · las cuatro capas
+
+"De abajo hacia arriba se distinguen en la atmósfera 4 capas: la tropósfera, la estratósfera, la ionósfera y la exósfera."
+
+### 41
+
+De conformidad con el libro de Geografía, ¿cuáles de las capas atmosféricas fueron descubiertas en el siglo XX?
+
+- A. La ionósfera y la exósfera
+- B. La tropósfera y la estratósfera
+- C. La estratósfera y la ionósfera
+- D. La tropopausa y la exósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · las cuatro capas
+
+"Las dos últimas fueron descubiertas en el siglo XX: la ionósfera, a raíz de la invención de la radiocomunicación; la exósfera, en 1967, con el lanzamiento de los primeros satélites artificiales."
+
+### 42
+
+En relación con el libro de Geografía, ¿a raíz de qué fue descubierta la ionósfera?
+
+- A. De la invención de la radiocomunicación
+- B. Del lanzamiento de los primeros satélites artificiales
+- C. Del perfeccionamiento del globo aerostático
+- D. De los estudios del Año Geofísico Internacional
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · ionósfera
+
+"[...] la ionósfera, a raíz de la invención de la radiocomunicación [...]"
+
+### 43
+
+De acuerdo con el libro de Geografía, ¿en qué año y con qué acontecimiento fue descubierta la exósfera?
+
+- A. En 1967, con el lanzamiento de los primeros satélites artificiales
+- B. En 1957, con el lanzamiento de los primeros satélites artificiales
+- C. En 1967, con la invención de la radiocomunicación
+- D. En 1976, con el lanzamiento de los primeros satélites artificiales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · exósfera
+
+"[...] la exósfera, en 1967, con el lanzamiento de los primeros satélites artificiales."
+
+> Nota de revisor: el distractor B usa **1957**, el año del Año Geofísico Internacional que la Unidad II ya menciona a propósito del Vanguard I. Es la confusión natural entre dos hitos espaciales cercanos.
+
+### 44
+
+De conformidad con el libro de Geografía, ¿qué es la tropósfera?
+
+- A. La capa inferior de la atmósfera
+- B. La capa superior de la atmósfera
+- C. La capa intermedia entre la estratósfera y la ionósfera
+- D. La capa que separa a la estratósfera de la tropopausa
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · tropósfera
+
+"La tropósfera es la capa inferior de la atmósfera."
+
+### 45
+
+En relación con el libro de Geografía, ¿qué significa el nombre de la tropósfera?
+
+- A. "Esfera de los cambios"
+- B. "Esfera dividida en capas"
+- C. "Donde terminan los cambios"
+- D. "Esfera exterior"
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · tropósfera
+
+"Su nombre significa «esfera de los cambios», pues en ella se producen casi todos los fenómenos atmosféricos."
+
+> Nota de revisor: los distractores B y C son los significados de **estratósfera** y **tropopausa**, que el libro da en esa misma página. Salen del mismo texto, como pide la norma.
+
+### 46
+
+De acuerdo con el libro de Geografía, ¿por qué la tropósfera recibe el nombre de "esfera de los cambios"?
+
+- A. Porque en ella se producen casi todos los fenómenos atmosféricos
+- B. Porque su espesor cambia de los polos al Ecuador
+- C. Porque su composición cambia con las estaciones del año
+- D. Porque en ella cambia la dirección de los vientos dominantes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · tropósfera
+
+"Su nombre significa «esfera de los cambios», pues en ella se producen casi todos los fenómenos atmosféricos."
+
+### 47
+
+De conformidad con el libro de Geografía, ¿qué espesor tiene la tropósfera en los polos y en el Ecuador?
+
+- A. 8 km en los polos y 17 en el Ecuador
+- B. 17 km en los polos y 8 en el Ecuador
+- C. 8 km en los polos y 12 en el Ecuador
+- D. 12 km en los polos y 17 en el Ecuador
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · tropósfera
+
+"Es la más delgada de las capas atmosféricas, pues tiene un espesor de sólo 8 km en los polos y 17 en el Ecuador (12 en promedio)."
+
+### 48
+
+En relación con el libro de Geografía, ¿cuál es el espesor promedio de la tropósfera?
+
+- A. 12 km
+- B. 8 km
+- C. 17 km
+- D. 65 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · tropósfera
+
+"[...] un espesor de sólo 8 km en los polos y 17 en el Ecuador (12 en promedio)."
+
+### 49
+
+De acuerdo con el libro de Geografía, ¿qué proporción de los gases atmosféricos se encuentra en la tropósfera y por debajo de qué altitud?
+
+- A. Más del 75%, por debajo de los 12,000 m de altitud
+- B. Más del 50%, por debajo de los 12,000 m de altitud
+- C. Más del 75%, por debajo de los 8,000 m de altitud
+- D. Más del 95%, por debajo de los 17,000 m de altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · tropósfera
+
+"Sin embargo, debido a la compresibilidad de los gases atmosféricos, más del 75% se encuentra en ella, por debajo de los 12,000 m de altitud."
+
+### 50
+
+De conformidad con el libro de Geografía, ¿a qué se debe que más del 75% de los gases atmosféricos se concentre en la tropósfera, siendo ésta la capa más delgada?
+
+- A. A la compresibilidad de los gases atmosféricos
+- B. A la elasticidad de los gases atmosféricos
+- C. A la diatermancia de la atmósfera
+- D. A la movilidad de los gases atmosféricos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · tropósfera
+
+"Sin embargo, debido a la compresibilidad de los gases atmosféricos, más del 75% se encuentra en ella [...]"
+
+> Nota de revisor: enlaza con la propiedad definida en la p.192 (reactivo 25). Aquí se pregunta su **consecuencia**, no la definición, así que no se duplica.
+
+### 51
+
+En relación con el libro de Geografía, ¿por qué la tropósfera es la más importante de las 4 capas de la atmósfera?
+
+- A. Porque sólo en ella es posible el desarrollo de la vida y de casi todas las actividades humanas
+- B. Porque es la más gruesa de todas las capas atmosféricas
+- C. Porque en ella se encuentra la capa de ozono
+- D. Porque en ella se produjo el descubrimiento de la radiocomunicación
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · tropósfera
+
+"De las 4 capas de la atmósfera, la tropósfera es la más importante, pues sólo en ella es posible el desarrollo de la vida y de casi todas las actividades humanas."
+
+### 52
+
+De acuerdo con el libro de Geografía, ¿qué significa el nombre de la estratósfera?
+
+- A. "Esfera dividida en capas"
+- B. "Esfera de los cambios"
+- C. "Donde terminan los cambios"
+- D. "Esfera de los estratos de ozono"
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · estratósfera
+
+"La estratósfera (esfera dividida en capas) se encuentra encima de la tropósfera [...]"
+
+### 53
+
+De conformidad con el libro de Geografía, ¿cómo se llama la delgada capa intermedia que separa a la estratósfera de la tropósfera, y qué significa su nombre?
+
+- A. Tropopausa, "donde terminan los cambios"
+- B. Tropopausa, "esfera de los cambios"
+- C. Estratopausa, "donde terminan los cambios"
+- D. Ionopausa, "donde terminan las capas"
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · tropopausa
+
+"[...] de la cual está separada por una delgada capa intermedia llamada tropopausa (donde terminan los cambios)."
+
+### 54
+
+En relación con el libro de Geografía, ¿qué espesor aproximado tiene la estratósfera y entre qué altitudes se extiende?
+
+- A. Unos 65 km, de los 12 hasta cerca de los 80 km de altitud
+- B. Unos 80 km, de los 12 hasta cerca de los 65 km de altitud
+- C. Unos 65 km, de los 8 hasta cerca de los 80 km de altitud
+- D. Unos 35 km, de los 25 hasta cerca de los 80 km de altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · estratósfera
+
+"Tiene un espesor aproximado de 65 km, de los 12 hasta cerca de los 80 km de altitud."
+
+### 55
+
+De acuerdo con el libro de Geografía, ¿en qué difiere la composición de la estratósfera respecto de la tropósfera?
+
+- A. En ella son proporcionalmente menores las cantidades de nitrógeno y oxígeno, y mayores las de hidrógeno y ozono
+- B. En ella son proporcionalmente mayores las cantidades de nitrógeno y oxígeno, y menores las de hidrógeno y ozono
+- C. En ella no hay nitrógeno ni oxígeno, sólo hidrógeno y ozono
+- D. En ella las proporciones son idénticas a las de la tropósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · estratósfera
+
+"Su composición difiere notablemente de la tropósfera, pues en ella son proporcionalmente menores las cantidades de nitrógeno y oxígeno y mayores las de hidrógeno y ozono."
+
+### 56
+
+De conformidad con el libro de Geografía, ¿entre qué altitudes es particularmente abundante el ozono?
+
+- A. Entre los 25 y 35 km
+- B. Entre los 12 y 80 km
+- C. Entre los 35 y 65 km
+- D. Entre los 8 y 17 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · capa de ozono
+
+"Este último es particularmente abundante entre los 25 y 35 km de altitud, donde forma una capa casi continua [...]"
+
+### 57
+
+En relación con el libro de Geografía, ¿de qué protege a la superficie terrestre la capa de ozono, y de qué manera?
+
+- A. De las radiaciones ultravioleta provenientes del Sol, "filtrándolas" y reduciendo su intensidad
+- B. De los rayos cósmicos y X provenientes del Sol, absorbiéndolos por completo
+- C. Del impacto de miles de aerolitos, desintegrándolos antes de llegar al suelo
+- D. Del calor solar, impidiendo que atraviese la atmósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 194
+**Subtema:** estructura de la atmósfera · capa de ozono
+
+"[...] donde forma una capa casi continua que protege a la superficie terrestre de las radiaciones ultravioleta provenientes del Sol, «filtrándolas» y reduciendo su intensidad."
+
+> Nota de revisor: la **Unidad I** ya pregunta qué daña la capa de ozono (los "clorofluocarbonos", p.26). Aquí el dato es distinto —**dónde está** y **de qué protege**—, así que no se duplica.
