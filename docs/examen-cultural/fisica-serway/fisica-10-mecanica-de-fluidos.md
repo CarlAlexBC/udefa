@@ -32,9 +32,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **270–278**, **280–281** (la 274 y la 279 son ejemplos): **10.1**, **10.2**, **10.3**, **10.4** y **10.5 · Dinámica de fluidos** COMPLETOS (flujo laminar/turbulento, viscosidad, las cuatro suposiciones del flujo ideal, línea de corriente, tubo de flujo, la ecuación de continuidad A₁v₁ = A₂v₂ y el caudal volumétrico Av). Los Ejemplos y la portada no aportan reactivos.
+**CAPÍTULO 10 CERRADO** (a nivel de temario). Escritas las páginas impresas **270–278**, **280–282**, **284** (la 274, 279, 283 y 285+ son ejemplos/derivación intermedia sin cita nueva), que cubren los seis temas que pide el temario `FÍSICA-02-2026`: **10.1** (presión, P ≡ F/A), **10.2** (densidad, P = P₀ + ρgh, ley de Pascal, elevador hidráulico), **10.3** (barómetro de Torricelli, manómetro, presión absoluta/manométrica), **10.4** (fuerza de flotación, principio de Arquímedes, objeto sumergido y objeto que flota), **10.5** (flujo laminar/turbulento, flujo ideal, ecuación de continuidad A₁v₁ = A₂v₂) y **10.6** (Daniel Bernoulli, la ecuación P + ½ρv² + ρgy = constante, el caso estático, validez para gases, y el efecto Bernoulli). **Total: 54 reactivos.**
 
-**Pendiente:** EN CURSO. El principio de **10.6 · Ecuación de Bernoulli** ya quedó escrito (p.282: la presión varía con rapidez/elevación, Daniel Bernoulli 1738, el principio rapidez↑→presión↓). Falta el cuerpo de 10.6 (p.283: la ecuación de Bernoulli en sí, P + ½ρv² + ρgy = constante). Con eso se cierra el capítulo. Los temas 10.7 y 10.8 quedan fuera.
+El **10.7** (Flujo de fluidos viscosos en tuberías) y **10.8** (Otras aplicaciones) no los pide el temario y quedan fuera. Los Ejemplos resueltos (10.1–10.9) no aportan reactivos.
+
+**Pendiente:** ninguno en este archivo. **El Capítulo 10 queda CERRADO.** Con él, **Física EMEFA (Serway) queda COMPLETA**: los cinco capítulos que pide el temario `FÍSICA-02-2026` —Cap. 1 (78), Cap. 2 (46), Cap. 3 (42), Cap. 5 (55) y Cap. 10 (54)— están escritos, **275 reactivos en total**.
 
 ---
 
@@ -794,3 +796,80 @@ De acuerdo con el libro de Física, según el principio de Bernoulli, ¿qué le 
 **Subtema:** ecuación de Bernoulli · principio de Bernoulli
 
 "Demostró que, a medida que aumenta la rapidez de un fluido, su presión disminuye. Conocido como 'principio de Bernoulli'."
+
+## Sub-lote 12 · La ecuación de Bernoulli (p.284)
+
+### 50
+
+De conformidad con el libro de Física, la ecuación de Bernoulli con frecuencia se expresa como:
+
+- A. P + ½ρv² + ρgy = constante
+- B. P − ½ρv² − ρgy = constante
+- C. P·v·y = constante
+- D. P/v + y = constante
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 284
+**Subtema:** ecuación de Bernoulli · forma general de la ecuación
+
+"Esta ecuación con frecuencia se expresa como P + ½ρv² + ρgy = constante."
+
+### 51
+
+De acuerdo con el libro de Física, además de disminuir cuando aumenta la rapidez, ¿qué otra cosa muestra la ecuación de Bernoulli sobre la presión de un fluido?
+
+- A. La presión también disminuye a medida que aumenta la elevación
+- B. La presión también aumenta a medida que aumenta la elevación
+- C. La presión no depende de la elevación
+- D. La presión sólo depende de la densidad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 284
+**Subtema:** ecuación de Bernoulli · presión y elevación
+
+"Además, la presión disminuye a medida que aumenta la elevación."
+
+### 52
+
+En relación con el libro de Física, cuando el fluido está en reposo (v₁ = v₂ = 0), ¿en qué se convierte la ecuación de Bernoulli?
+
+- A. P₁ − P₂ = ρg(y₂ − y₁) = ρgh
+- B. P₁ + P₂ = ρg(y₂ − y₁)
+- C. P₁ = P₂ siempre
+- D. P₁ − P₂ = 0
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 284
+**Subtema:** ecuación de Bernoulli · caso del fluido en reposo
+
+"Cuando el fluido está en reposo, v₁ = v₂ = 0 y la ecuación 10.12 se convierte en P₁ − P₂ = ρg(y₂ − y₁) = ρgh. Este resultado está de acuerdo con la ecuación 10.4."
+
+### 53
+
+De conformidad con el libro de Física, aunque la ecuación de Bernoulli se dedujo para un fluido incompresible, el comportamiento general de la presión con la rapidez:
+
+- A. es verdadero incluso para gases: si la rapidez aumenta, la presión disminuye
+- B. sólo es válido para líquidos
+- C. se invierte en el caso de los gases
+- D. no aplica a ningún fluido real
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 284
+**Subtema:** ecuación de Bernoulli · validez también para gases
+
+"No obstante que la ecuación 10.13 se dedujo para un fluido incompresible, el comportamiento general de la presión con la rapidez es verdadero incluso para gases: si la rapidez aumenta, la presión disminuye."
+
+### 54
+
+De acuerdo con el libro de Física, ¿cómo se llama el fenómeno de que la presión de un fluido disminuye cuando aumenta su rapidez?
+
+- A. Efecto Bernoulli
+- B. Efecto Pascal
+- C. Efecto Torricelli
+- D. Efecto Arquímedes
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 284
+**Subtema:** ecuación de Bernoulli · efecto Bernoulli
+
+"Este efecto Bernoulli explica la experiencia con el camión en la autopista, citada al inicio de esta sección."
