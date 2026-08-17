@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **270–273**, **275–276**: **10.1**, **10.2** y **10.3 · Mediciones de presión** COMPLETOS (barómetro de Torricelli, 1 atm = columna de mercurio de 0.7600 m, manómetro de tubo abierto, presión absoluta = P y presión manométrica = P − P₀) y el arranque de **10.4 · Fuerzas de flotación y principio de Arquímedes** (la fuerza de flotación o boyante, y el principio de Arquímedes: la fuerza de flotación es igual al peso del fluido desplazado). La p.274 es toda ejemplos resueltos y no aporta reactivos; la portada (p.269) tampoco.
+**EN CURSO.** Escritas las páginas impresas **270–278** (salvo la 274, que es toda ejemplos): **10.1**, **10.2**, **10.3** y **10.4 · Fuerzas de flotación y principio de Arquímedes** COMPLETOS (fuerza de flotación o boyante; principio de Arquímedes; B = ρfluido·g·Vdespl; la composición del objeto no influye; objetos de igual volumen sienten la misma flotación; objeto sumergido sube/se hunde según densidades; y el objeto que flota con Vdespl/Vobj = ρobj/ρfluido). La p.274 y los Ejemplos no aportan reactivos; la portada (p.269) tampoco.
 
-**Pendiente:** EN CURSO. Sigue el resto de **10.4** (p.278: Caso 2, objeto que flota parcialmente sumergido), y luego **10.5 · Dinámica de fluidos** y **10.6 · Ecuación de Bernoulli**. Los temas 10.7 y 10.8 quedan fuera del temario.
+**Pendiente:** EN CURSO. Siguen **10.5 · Dinámica de fluidos** y **10.6 · Ecuación de Bernoulli** (a partir de la p.279/280), los dos últimos temas del temario. Los temas 10.7 y 10.8 quedan fuera.
 
 ---
 
@@ -546,3 +546,50 @@ De conformidad con el libro de Física, ¿qué determina la dirección de movimi
 **Subtema:** fuerzas de flotación y principio de Arquímedes · hundirse o flotar según la densidad
 
 "La dirección de movimiento de un objeto sumergido en un fluido está determinada solo por las densidades del objeto y el fluido."
+
+## Sub-lote 8 · Objeto que flota (p.278)
+
+### 34
+
+De acuerdo con el libro de Física, un objeto que flota en la superficie de un fluido (parcialmente sumergido) está en equilibrio estático porque:
+
+- A. la fuerza de flotación hacia arriba se equilibra con la fuerza gravitacional hacia abajo, y su densidad es menor que la del fluido
+- B. su densidad es mayor que la del fluido
+- C. no actúa sobre él ninguna fuerza de flotación
+- D. su peso es mayor que la fuerza de flotación
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 278
+**Subtema:** fuerzas de flotación y principio de Arquímedes · objeto que flota
+
+"Considere un objeto de volumen Vobj y densidad ρobj < ρfluido en equilibrio estático que flota en la superficie de un fluido... la fuerza de flotación hacia arriba se equilibra mediante la fuerza gravitacional hacia abajo que actúa sobre el objeto."
+
+### 35
+
+En relación con el libro de Física, para un objeto que flota, ¿a qué es igual el cociente entre el volumen del fluido desplazado y el volumen del objeto (Vdespl/Vobj)?
+
+- A. Al cociente de la densidad del objeto a la del fluido: ρobj/ρfluido
+- B. Al cociente de la densidad del fluido a la del objeto: ρfluido/ρobj
+- C. Al producto de ambas densidades
+- D. A la unidad, siempre
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 278
+**Subtema:** fuerzas de flotación y principio de Arquímedes · fracción sumergida (ecuación)
+
+"Vdespl/Vobj = ρobj/ρfluido."
+
+### 36
+
+De conformidad con el libro de Física, ¿a qué es igual la fracción del volumen de un objeto en flotación que está debajo de la superficie del fluido?
+
+- A. Al cociente de la densidad del objeto a la del fluido
+- B. Al cociente de la densidad del fluido a la del objeto
+- C. A la mitad del volumen del objeto, siempre
+- D. Al peso del objeto entre su volumen
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 278
+**Subtema:** fuerzas de flotación y principio de Arquímedes · fracción sumergida (interpretación)
+
+"Esta ecuación demuestra que la fracción del volumen de un objeto en flotación que está debajo de la superficie del fluido es igual al cociente de la densidad del objeto a la del fluido."
