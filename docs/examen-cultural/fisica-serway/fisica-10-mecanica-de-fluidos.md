@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **270–273** y **275**: **10.1** y **10.2** COMPLETOS, y el arranque de **10.3 · Mediciones de presión** (la presión barométrica como presión actual de la atmósfera; el barómetro de Torricelli con P₀ = ρHg·g·h; el vacío en lo alto de la columna; y que 1 atm = columna de mercurio de 0.7600 m a 0 °C). La p.274 es toda ejemplos resueltos (Ejemplos 10.2 cont., 10.3, 10.4) y no aporta reactivos; la portada (p.269) tampoco.
+**EN CURSO.** Escritas las páginas impresas **270–273**, **275–276**: **10.1**, **10.2** y **10.3 · Mediciones de presión** COMPLETOS (barómetro de Torricelli, 1 atm = columna de mercurio de 0.7600 m, manómetro de tubo abierto, presión absoluta = P y presión manométrica = P − P₀) y el arranque de **10.4 · Fuerzas de flotación y principio de Arquímedes** (la fuerza de flotación o boyante, y el principio de Arquímedes: la fuerza de flotación es igual al peso del fluido desplazado). La p.274 es toda ejemplos resueltos y no aporta reactivos; la portada (p.269) tampoco.
 
-**Pendiente:** EN CURSO. Sigue el resto de **10.3** (p.276: el manómetro de tubo abierto y la presión manométrica), y luego 10.4, 10.5 y 10.6. Los temas 10.7 y 10.8 quedan fuera del temario.
+**Pendiente:** EN CURSO. Sigue el resto de **10.4** (pp.277–279: casos de objeto totalmente sumergido y objeto flotante), y luego **10.5 · Dinámica de fluidos** y **10.6 · Ecuación de Bernoulli**. Los temas 10.7 y 10.8 quedan fuera del temario.
 
 ---
 
@@ -407,3 +407,65 @@ De conformidad con el libro de Física, ¿cómo se define una atmósfera de pres
 **Subtema:** mediciones de presión · definición de una atmósfera
 
 "Una atmósfera de presión se define como la presión equivalente de una columna de mercurio que tiene exactamente 0.760 0 m de alto a 0 °C."
+
+## Sub-lote 6 · Manómetro, presión manométrica y flotación (p.276)
+
+### 25
+
+De acuerdo con el libro de Física, ¿qué dispositivo se usa para medir la presión de un gas contenido en un recipiente?
+
+- A. El manómetro de tubo abierto
+- B. El barómetro de mercurio
+- C. El termómetro
+- D. El anemómetro
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 276
+**Subtema:** mediciones de presión · manómetro de tubo abierto
+
+"Un dispositivo para medir la presión de un gas contenido en un recipiente es el manómetro de tubo abierto."
+
+### 26
+
+En relación con el libro de Física, ¿cómo se llaman la presión P y la diferencia P − P₀?
+
+- A. P se llama presión absoluta, y la diferencia P − P₀ se llama presión manométrica
+- B. P se llama presión manométrica, y P − P₀ se llama presión absoluta
+- C. Ambas se llaman presión atmosférica
+- D. P se llama presión relativa, y P − P₀ presión total
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 276
+**Subtema:** mediciones de presión · presión absoluta y manométrica
+
+"La presión P se llama presión absoluta, y la diferencia P − P₀ se llama presión manométrica."
+
+### 27
+
+De conformidad con el libro de Física, ¿cómo se llama la fuerza hacia arriba que un fluido ejerce sobre cualquier objeto sumergido?
+
+- A. Fuerza de flotación (boyante)
+- B. Fuerza normal
+- C. Fuerza de tensión
+- D. Fuerza de arrastre
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 276
+**Subtema:** fuerzas de flotación y principio de Arquímedes · fuerza de flotación
+
+"La fuerza hacia arriba que un fluido ejerce sobre cualquier objeto sumergido se llama fuerza de flotación (boyante)."
+
+### 28
+
+De acuerdo con el libro de Física, ¿qué establece el principio de Arquímedes?
+
+- A. La magnitud de la fuerza de flotación sobre un objeto siempre es igual al peso del fluido desplazado por el objeto
+- B. La fuerza de flotación es igual al peso del objeto
+- C. La fuerza de flotación es igual al volumen del objeto
+- D. La fuerza de flotación siempre es cero
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 276
+**Subtema:** fuerzas de flotación y principio de Arquímedes · principio de Arquímedes
+
+"La magnitud de la fuerza de flotación sobre un objeto siempre es igual al peso del fluido desplazado por el objeto. Este enunciado se conoce como principio de Arquímedes."
