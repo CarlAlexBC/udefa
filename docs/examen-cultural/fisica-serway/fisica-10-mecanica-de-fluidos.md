@@ -34,7 +34,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 **EN CURSO.** Escritas las páginas impresas **270–278**, **280–281** (la 274 y la 279 son ejemplos): **10.1**, **10.2**, **10.3**, **10.4** y **10.5 · Dinámica de fluidos** COMPLETOS (flujo laminar/turbulento, viscosidad, las cuatro suposiciones del flujo ideal, línea de corriente, tubo de flujo, la ecuación de continuidad A₁v₁ = A₂v₂ y el caudal volumétrico Av). Los Ejemplos y la portada no aportan reactivos.
 
-**Pendiente:** EN CURSO. Sólo falta **10.6 · Ecuación de Bernoulli** (a partir de la p.282/283), el último tema del temario. Con él se cierra el capítulo. Los temas 10.7 y 10.8 quedan fuera.
+**Pendiente:** EN CURSO. El principio de **10.6 · Ecuación de Bernoulli** ya quedó escrito (p.282: la presión varía con rapidez/elevación, Daniel Bernoulli 1738, el principio rapidez↑→presión↓). Falta el cuerpo de 10.6 (p.283: la ecuación de Bernoulli en sí, P + ½ρv² + ρgy = constante). Con eso se cierra el capítulo. Los temas 10.7 y 10.8 quedan fuera.
 
 ---
 
@@ -747,3 +747,50 @@ De acuerdo con el libro de Física, ¿cómo se llama el producto Av, que tiene l
 **Subtema:** dinámica de fluidos · flujo volumétrico
 
 "El producto Av, que tiene las dimensiones de volumen por unidad de tiempo, se llama flujo volumétrico o caudal volumétrico."
+
+## Sub-lote 11 · Ecuación de Bernoulli: el principio (p.282)
+
+### 47
+
+En relación con el libro de Física, ¿qué ocurre con la presión en un fluido cuando cambian su rapidez o su elevación sobre la superficie de la Tierra?
+
+- A. La presión en el fluido varía con dichos cambios
+- B. La presión permanece siempre constante
+- C. La presión sólo depende de la temperatura
+- D. La presión desaparece
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 282
+**Subtema:** ecuación de Bernoulli · presión, rapidez y elevación
+
+"A medida que un fluido se mueve a través de una región donde su rapidez o elevación sobre la superficie de la Tierra cambian, la presión en el fluido varía con dichos cambios."
+
+### 48
+
+De conformidad con el libro de Física, ¿quién dedujo por primera vez, en 1738, la relación entre rapidez del fluido, presión y elevación?
+
+- A. El físico suizo Daniel Bernoulli
+- B. Evangelista Torricelli
+- C. Blaise Pascal
+- D. Arquímedes
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 282
+**Subtema:** ecuación de Bernoulli · Daniel Bernoulli
+
+"La relación entre rapidez del fluido, presión y elevación la dedujo por primera vez, en 1738, el físico suizo Daniel Bernoulli."
+
+### 49
+
+De acuerdo con el libro de Física, según el principio de Bernoulli, ¿qué le sucede a la presión de un fluido a medida que aumenta su rapidez?
+
+- A. Su presión disminuye
+- B. Su presión aumenta
+- C. Su presión permanece constante
+- D. Su presión se duplica
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 282
+**Subtema:** ecuación de Bernoulli · principio de Bernoulli
+
+"Demostró que, a medida que aumenta la rapidez de un fluido, su presión disminuye. Conocido como 'principio de Bernoulli'."
