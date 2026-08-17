@@ -34,7 +34,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 **EN CURSO.** Escritas las páginas impresas **270–273**, **275–276**: **10.1**, **10.2** y **10.3 · Mediciones de presión** COMPLETOS (barómetro de Torricelli, 1 atm = columna de mercurio de 0.7600 m, manómetro de tubo abierto, presión absoluta = P y presión manométrica = P − P₀) y el arranque de **10.4 · Fuerzas de flotación y principio de Arquímedes** (la fuerza de flotación o boyante, y el principio de Arquímedes: la fuerza de flotación es igual al peso del fluido desplazado). La p.274 es toda ejemplos resueltos y no aporta reactivos; la portada (p.269) tampoco.
 
-**Pendiente:** EN CURSO. Sigue el resto de **10.4** (pp.277–279: casos de objeto totalmente sumergido y objeto flotante), y luego **10.5 · Dinámica de fluidos** y **10.6 · Ecuación de Bernoulli**. Los temas 10.7 y 10.8 quedan fuera del temario.
+**Pendiente:** EN CURSO. Sigue el resto de **10.4** (p.278: Caso 2, objeto que flota parcialmente sumergido), y luego **10.5 · Dinámica de fluidos** y **10.6 · Ecuación de Bernoulli**. Los temas 10.7 y 10.8 quedan fuera del temario.
 
 ---
 
@@ -469,3 +469,80 @@ De acuerdo con el libro de Física, ¿qué establece el principio de Arquímedes
 **Subtema:** fuerzas de flotación y principio de Arquímedes · principio de Arquímedes
 
 "La magnitud de la fuerza de flotación sobre un objeto siempre es igual al peso del fluido desplazado por el objeto. Este enunciado se conoce como principio de Arquímedes."
+
+## Sub-lote 7 · Fuerza de flotación y objeto totalmente sumergido (p.277)
+
+### 29
+
+En relación con el libro de Física, ¿influye la composición del objeto en la fuerza de flotación que experimenta?
+
+- A. No; la composición del objeto no es un factor, porque la fuerza de flotación la ejerce el fluido circundante
+- B. Sí; depende del material del que está hecho el objeto
+- C. Sí; los objetos metálicos no experimentan flotación
+- D. No; la fuerza de flotación sólo depende del peso del objeto
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 277
+**Subtema:** fuerzas de flotación y principio de Arquímedes · la composición del objeto no influye
+
+"La composición del objeto no es un factor en la fuerza de flotación porque esta la ejerce el fluido circundante."
+
+### 30
+
+De conformidad con el libro de Física, ¿cuál es la magnitud de la fuerza de flotación B sobre un objeto?
+
+- A. B = ρfluido·g·Vdespl
+- B. B = ρobjeto·g·Vobjeto
+- C. B = ρfluido·g/Vdespl
+- D. B = Vdespl/(ρfluido·g)
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 277
+**Subtema:** fuerzas de flotación y principio de Arquímedes · magnitud de la fuerza de flotación
+
+"La resultante de estas dos fuerzas es la fuerza de flotación B con magnitud [...] B = ρfluido g Vdespl."
+
+### 31
+
+De acuerdo con el libro de Física, si varios objetos de distintas densidades pero igual volumen se sumergen en un fluido:
+
+- A. todos experimentarán la misma fuerza de flotación
+- B. el más denso experimentará mayor fuerza de flotación
+- C. el menos denso experimentará mayor fuerza de flotación
+- D. ninguno experimentará fuerza de flotación
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 277
+**Subtema:** fuerzas de flotación y principio de Arquímedes · flotación e igual volumen (prevención de riesgos ocultos 10.2)
+
+"Si varios objetos de distintas densidades, pero igual volumen, se sumergen en un fluido, todos experimentarán la misma fuerza de flotación."
+
+### 32
+
+En relación con el libro de Física, cuando un objeto está totalmente sumergido en un fluido, el volumen del fluido desplazado es:
+
+- A. igual al volumen del objeto
+- B. igual a la mitad del volumen del objeto
+- C. mayor que el volumen del objeto
+- D. independiente del volumen del objeto
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 277
+**Subtema:** fuerzas de flotación y principio de Arquímedes · objeto totalmente sumergido
+
+"Cuando un objeto está totalmente sumergido en un fluido de densidad ρfluido, el volumen Vdespl del fluido desplazado es igual al volumen Vobj del objeto."
+
+### 33
+
+De conformidad con el libro de Física, ¿qué determina la dirección de movimiento de un objeto sumergido en un fluido?
+
+- A. Sólo las densidades del objeto y del fluido: si la del objeto es menor sube, si es mayor se hunde y si es igual permanece en equilibrio
+- B. Únicamente el peso del objeto
+- C. La forma del objeto
+- D. La temperatura del fluido
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 277
+**Subtema:** fuerzas de flotación y principio de Arquímedes · hundirse o flotar según la densidad
+
+"La dirección de movimiento de un objeto sumergido en un fluido está determinada solo por las densidades del objeto y el fluido."
