@@ -245,11 +245,16 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   general y por eso entra. **Fuera:** el desarrollo del ejemplo de *f* (*x*) = 3/(*x* − 5)
   con sus formas de escribir el dominio, la actividad de aprendizaje, el *Ejemplo* de
   *f* (*x*) = 3/(*x*² − 25) con su Solución paso a paso, y las Figuras 1.24 y 1.25.
+- Cubierta la página impresa **29**: el apartado **Asíntotas verticales** completo —qué es
+  una asíntota, su ecuación *x* = *k* y qué representa la *k*, cómo se obtienen, y la
+  relación directa entre el dominio y el trazo de las asíntotas— más la razón de que **los
+  extremos no estén contenidos** en la notación de intervalos. **Fuera:** el desarrollo del
+  ejemplo de *f* (*x*) = 3/(*x* − 5), la Figura 1.26 y las dos actividades de aprendizaje.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.28**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
-**b) está EN CURSO**. Sigue desde la **p.29** con el resto del **b)** funciones explícitas
-o implícitas (pp. 29–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
+va cubierto hasta la **p.29**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
+**b) está EN CURSO**. Sigue desde la **p.30** con el resto del **b)** funciones explícitas
+o implícitas (pp. 30–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
 **d)** función invertible y función inversa (pp. 49–60), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
@@ -1638,3 +1643,88 @@ En relación con el libro de Cálculo, ¿a qué equivale el valor absoluto |*x*|
 
 > Nota de revisor: el libro lo suelta como recordatorio dentro de la solución de un
 > ejemplo, pero es una **propiedad general**, no el ejercicio. Por eso entra.
+
+---
+
+## Sub-lote 16 · Las asíntotas verticales (1.3 b, p.29)
+
+### 82
+
+De acuerdo con el libro de Cálculo, ¿qué es una asíntota?
+
+- A. Una recta que se acerca a la función o la limita, pero nunca se cortan
+- B. Una recta que corta a la función en un solo punto
+- C. La curva que representa gráficamente a la función
+- D. El valor máximo que puede alcanzar la función
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 29
+**Subtema:** Asíntotas verticales · Definición
+
+"Una asíntota es una recta que se acerca a la función o la limita, pero nunca se cortan [...]"
+
+> Nota de revisor: el filo está en **nunca se cortan**. El distractor B es justo lo
+> contrario y suena razonable si uno sólo recuerda "una recta relacionada con la curva".
+
+### 83
+
+De conformidad con el libro de Cálculo, ¿cuál es la ecuación de la asíntota y qué representa la *k*?
+
+- A. *x* = *k*, donde *k* son puntos que **no** pertenecen al dominio de la función racional
+- B. *x* = *k*, donde *k* son los puntos que sí pertenecen al dominio de la función racional
+- C. *y* = *k*, donde *k* es el valor máximo de la función
+- D. *y* = *kx*, donde *k* es la pendiente de la recta
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 29
+**Subtema:** Asíntotas verticales · Ecuación
+
+"[...] su ecuación es *x* = *k*, donde *k* son puntos que no pertenecen al dominio de la función racional."
+
+> Nota de revisor: el distractor B invierte el "no". Es el error de quien recuerda que la
+> *k* tiene que ver con el dominio, pero no de qué lado.
+
+### 84
+
+En relación con el libro de Cálculo, ¿cómo se obtienen las asíntotas verticales de una función racional?
+
+- A. Se iguala a cero el denominador y se despeja la variable
+- B. Se iguala a cero el numerador y se despeja la variable
+- C. Se sustituye la variable por cero y se calcula el resultado
+- D. Se deriva la función y se iguala a cero
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 29
+**Subtema:** Asíntotas verticales · Procedimiento
+
+"Para obtener las asíntotas verticales de una función racional se iguala a cero el denominador y se despeja la variable."
+
+### 85
+
+De acuerdo con el libro de Cálculo, ¿qué relación tienen el dominio de la función y el trazo de las asíntotas?
+
+- A. Una relación directa: la asíntota marca el valor donde la función no está definida
+- B. Ninguna: el dominio se calcula aparte del trazo de las asíntotas
+- C. Una relación inversa: la asíntota marca el valor donde la función sí está definida
+- D. Una relación sólo cuando el numerador es el polinomio cero
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 29
+**Subtema:** Asíntotas verticales · Relación con el dominio
+
+"Observemos que el dominio de la función y el trazo de las asíntotas tienen una relación directa, la asíntota marca el valor donde la función no está definida, o sea, que no se puede realizar la operación en ese valor."
+
+### 86
+
+De conformidad con el libro de Cálculo, en la expresión del dominio por intervalos, ¿por qué los extremos no están contenidos?
+
+- A. Porque todos los símbolos de desigualdad son menores
+- B. Porque los extremos son siempre valores infinitos
+- C. Porque el símbolo de unión excluye los extremos
+- D. Porque los extremos pertenecen al numerador
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 29
+**Subtema:** Dominio de una función · Notación de intervalos
+
+"En la desigualdad todos los símbolos de desigualdad son menores; por ello, los extremos no están contenidos."
