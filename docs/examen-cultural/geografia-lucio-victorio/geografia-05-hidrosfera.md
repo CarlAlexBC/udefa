@@ -54,10 +54,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **158**: el **Cuadro 5.3** completo (superficie, porcentaje y profundidades medias y máximas de los cuatro océanos, con sus fosas: **Marianas**, **Puerto Rico**, **Diamantina** y **Spitzberg**, más la fila del total); el cierre de la delimitación con el **Índico** y el **Glacial Ártico** (considerado por muchos geógrafos parte del Atlántico, cubre el casquete polar boreal y se comunica con el Pacífico por el estrecho de Béhring); el **Glacial Antártico** desechado como quinto océano por falta de límites adecuados, con los tres océanos unidos en su tramo meridional; el **Pacífico como el más extenso y profundo** (**49.87%** de la hidrósfera) con sus **seis fosas abisales**; la **definición de mar** del recuadro y sus características particulares; y el **Mar Báltico** (más frío por no recibir la Corriente del Golfo de México, con **0.02%** de salinidad en el Golfo de Botnia contra **3.50%** del Atlántico, y sus efectos sobre los peces). **El Cuadro 5.3 y las seis fosas se verificaron con `crop.py` a 600 dpi.** **La nota al pie 2 NO lleva reactivo:** repite los 362,033,000 km² y el 70.98%, que ya preguntan los reactivos 74 y 1. El apartado de los "mares" que son en realidad lagos **queda cortado al pie de la página** y se trabaja entero en la p.159.
 - Cubierta la página impresa **159**: el cierre del **5.2.1** — los lagos a los que se llama mares (**Caspio, de Aral y Muerto**, de agua salada, y el **Mar de Galilea**, de agua dulce, oficialmente **Jan Kinnéret**), la falta de criterio definido para distinguir **mares de golfos** (éstos generalmente menos extensos y profundos), la diferencia entre **bahías** (profundas, aguas turbulentas, para puertos) y **ensenadas** (poco profundas, fondos planos, aguas tranquilas, para turismo), y la denominación incorrecta de la **Bahía de Hudson** (una porción del Atlántico de **1,233,000 km²**, más de la mitad de la superficie de la República Mexicana), más las figuras **5.5** y **5.6**. **La superficie de la Bahía de Hudson se verificó con `crop.py` a 600 dpi.** **El reactivo 115 cita la p.158**, que es donde está impresa la lista de los tres lagos salados. **La mitad inferior de la página es un bloque de ejercicios** y no lleva reactivos por norma.
 - Cubierta la página impresa **160**: el arranque del **5.2.2** — las diferencias de las aguas oceánicas frente a las continentales; la **salinidad** (saladas y amargas por los cloruros de sodio, que son un **70%** del total, y magnesio; **35 gramos** de sustancias minerales por litro, y de qué depende ese promedio); el **color** azul por reflejo de la atmósfera, con su variación y el azul más intenso en las **fajas desérticas**; y la **temperatura** (su variación anual reducida, que **no pasa de 5ºC**, porque las aguas se calientan y enfrían más lentamente que las tierras; de **25ºC a 30ºC** en las latitudes bajas y hasta **-1.5ºC** en las polares, donde el mar se congela; la luz y el calor solares que no pasan de **300 m** y la temperatura reducida a la mitad a **500 m**). **Todas las cifras se verificaron con `crop.py` a 600 dpi.** La Figura 5.7 es un mapa y no lleva reactivos por norma. **La mitad superior de la página es la continuación del bloque de ejercicios de la p.159** y tampoco lleva. **La temperatura a 4,000 m queda cortada al pie** y se trabaja en la p.161.
+- Cubierta la página impresa **161**: el cierre del **5.2.2** — el remate de la temperatura por profundidad (ni siquiera las fosas abisales llegan a **0ºC**) y la poca influencia de las **estaciones del año**; la **densidad** (más densas que las continentales por las sustancias disueltas: **1.00** el agua pura a 4ºC frente a **1.03** el agua de mar, y los lagos muy salados —**Gran Lago Salado** y **Mar Muerto**— con densidades superiores a la del cuerpo humano, donde una persona flota sin esfuerzo); y la **importancia de las aguas marinas** (la estabilidad climática por el calor que absorben de día y sueltan de noche; los **470,000 km³** que se evaporan al año, de los que **370,000** vuelven al océano y **100,000** —poco más de **1/5**— caen sobre las tierras; el origen de la vida en el mar y su colonización de la tierra **cientos de millones de años** después; el mar como principal receptáculo de la vida, con organismos que superan en número y especies a los de tierra; y su papel económico: transporte, pesca y minerales). **Las cifras de densidad y evaporación se verificaron con `crop.py` a 600 dpi.** **La comparación con Mercurio, Venus, Marte y la Luna NO lleva reactivo aquí:** ya la pregunta el **reactivo 6** desde la p.151. **La mitad inferior de la página es un bloque de ejercicios** y no lleva reactivos por norma.
 
 > **El 70.98% NO lleva reactivo aquí:** ya lo pregunta el **reactivo 1** de este mismo archivo, desde la p.151. En esta página entran sólo las cifras absolutas y el 29.02%, que son dato nuevo. **Anaximandro de Mileto tampoco duplica** a la Unidad II, donde aparece únicamente como distractor.
 
-**Pendiente:** EN CURSO. El tema **5.1 quedó CERRADO** (pp. 151–156) y el **5.2 está EN CURSO** (cubiertas las pp. 157–160, con el **5.2.1 CERRADO** y el **5.2.2 EN CURSO**). Sigue desde la **p.161** con el resto del **5.2.2**, y después con los subtemas que restan: **5.2.3** Movimientos de las aguas oceánicas (I): olas y mareas (p.162), **5.2.4** Movimientos de las aguas oceánicas (II): las corrientes marinas (p.164) y **5.2.5** Formas del relieve submarino (p.167), hasta cerrar en la **p.167**: el **5.3 Las aguas continentales** empieza en la p.168 y **el temario NO lo pide**. Con el 5.2 se cierra la Unidad V. Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
+**Pendiente:** EN CURSO. El tema **5.1 quedó CERRADO** (pp. 151–156) y el **5.2 está EN CURSO** (cubiertas las pp. 157–161, con el **5.2.1** y el **5.2.2 CERRADOS**). Sigue desde la **p.162** con los subtemas que restan: **5.2.3** Movimientos de las aguas oceánicas (I): olas y mareas (p.162), **5.2.4** Movimientos de las aguas oceánicas (II): las corrientes marinas (p.164) y **5.2.5** Formas del relieve submarino (p.167), hasta cerrar en la **p.167**: el **5.3 Las aguas continentales** empieza en la p.168 y **el temario NO lo pide**. Con el 5.2 se cierra la Unidad V. Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
 
 ---
 
@@ -2205,4 +2206,231 @@ En relación con el libro de Geografía, ¿qué ocurre con la temperatura a 500 
 **Subtema:** características de las aguas oceánicas · temperatura a 500 m
 
 "A 500 m se ha reducido a la mitad de la existente en la superficie."
+
+## Sub-lote 10 · Densidad e importancia de las aguas oceánicas (5.2.2, p. 161)
+
+### 142
+
+De acuerdo con el libro de Geografía, ¿qué temperatura no alcanzan ni siquiera las fosas abisales?
+
+- A. Los 0ºC
+- B. Los 1.5ºC
+- C. Los -1.5ºC
+- D. Los 5ºC
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** características de las aguas oceánicas · fosas abisales
+
+"Sin embargo, ni siquiera en las fosas abisales llega a 0ºC."
+
+### 143
+
+De conformidad con el libro de Geografía, ¿cuánto influyen las estaciones del año en los cambios térmicos de las aguas oceánicas?
+
+- A. Influyen poco, pues éstas se calientan y enfrían más lentamente que las tierras emergidas
+- B. Influyen mucho, pues éstas se calientan y enfrían más rápidamente que las tierras emergidas
+- C. Influyen poco, pues las aguas reciben la luz solar durante todo el año
+- D. No influyen en absoluto
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** características de las aguas oceánicas · estaciones del año
+
+"Las estaciones del año influyen poco en los cambios térmicos de las aguas oceánicas, pues éstas se calientan y enfrían más lentamente que las tierras emergidas."
+
+### 144
+
+En relación con el libro de Geografía, ¿por qué las aguas oceánicas son más densas que las continentales?
+
+- A. Por las sustancias químicas disueltas en ellas
+- B. Por su mayor profundidad
+- C. Por su menor temperatura
+- D. Por el movimiento constante de sus aguas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** características de las aguas oceánicas · densidad
+
+"Por lo que respecta a la densidad, las aguas oceánicas son más densas que las continentales, debido a las sustancias químicas disueltas en ellas."
+
+### 145
+
+De acuerdo con el libro de Geografía, ¿qué densidad tiene el agua pura y a qué temperatura?
+
+- A. De 1.00 a 4ºC
+- B. De 1.03 a 4ºC
+- C. De 1.00 a 0ºC
+- D. De 1.30 a 4ºC
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** características de las aguas oceánicas · densidad del agua pura
+
+"Mientras el agua pura tiene una densidad de 1.00 a 4ºC [...]"
+
+### 146
+
+De conformidad con el libro de Geografía, ¿qué densidad tiene el agua de mar?
+
+- A. De 1.03
+- B. De 1.00
+- C. De 1.30
+- D. De 3.50
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** características de las aguas oceánicas · densidad del agua de mar
+
+"El agua de mar la tiene de 1.03."
+
+### 147
+
+En relación con el libro de Geografía, ¿qué lagos muy salados menciona el libro y dónde se localizan?
+
+- A. El Gran Lago Salado (Estados Unidos de América) y el Mar Muerto (Israel-Palestina-Jordania)
+- B. El Gran Lago Salado (Canadá) y el Mar Muerto (Israel-Palestina-Jordania)
+- C. El Mar Caspio (Rusia) y el Mar Muerto (Israel-Palestina-Jordania)
+- D. El Gran Lago Salado (Estados Unidos de América) y el Mar de Aral (Kazajistán)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** características de las aguas oceánicas · lagos muy salados
+
+"Las aguas de algunos lagos muy salados, como el Gran Lago Salado (Estados Unidos de América) y el Mar Muerto (Israel-Palestina-Jordania) [...]"
+
+### 148
+
+De acuerdo con el libro de Geografía, ¿cómo son las densidades de esos lagos y qué permiten?
+
+- A. Notablemente elevadas, superiores incluso a la del cuerpo humano, por lo cual una persona flota sin esfuerzo alguno sobre su superficie
+- B. Notablemente bajas, inferiores a la del cuerpo humano, por lo cual una persona se hunde con facilidad
+- C. Iguales a las del agua de mar, por lo cual una persona flota con dificultad
+- D. Notablemente elevadas, aunque inferiores a la del cuerpo humano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** características de las aguas oceánicas · flotar sin esfuerzo
+
+"Tienen densidades notablemente elevadas, superiores incluso a la del cuerpo humano, por lo cual una persona flota sin esfuerzo alguno sobre su superficie."
+
+### 149
+
+De conformidad con el libro de Geografía, ¿cómo mantienen las aguas marinas la estabilidad climática?
+
+- A. Durante el día absorben el calor solar, mismo que dejan escapar lentamente durante la noche
+- B. Durante el día reflejan el calor solar, que devuelven a la atmósfera de inmediato
+- C. Durante la noche absorben el calor de la atmósfera, que liberan durante el día
+- D. Durante todo el año conservan una temperatura constante en su superficie
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** importancia de las aguas oceánicas · estabilidad climática
+
+"Mantienen la estabilidad climática indispensable para el desarrollo de la vida, pues durante el día absorben el calor solar, mismo que dejan escapar lentamente durante la noche."
+
+### 150
+
+En relación con el libro de Geografía, ¿cuánta agua se evapora anualmente de los océanos?
+
+- A. 470,000 km³
+- B. 370,000 km³
+- C. 100,000 km³
+- D. 740,000 km³
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** importancia de las aguas oceánicas · evaporación anual
+
+"Se ha calculado que anualmente se evaporan de los océanos 470,000 km³ de agua."
+
+### 151
+
+De acuerdo con el libro de Geografía, ¿cuánta de esa agua se precipita sobre los mismos océanos?
+
+- A. 370,000 km³
+- B. 470,000 km³
+- C. 100,000 km³
+- D. 270,000 km³
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** importancia de las aguas oceánicas · precipitación sobre los océanos
+
+"De los cuales 370,000 se precipitan sobre los mismos océanos."
+
+### 152
+
+De conformidad con el libro de Geografía, ¿cuánta se precipita sobre las tierras emergidas y qué proporción representa?
+
+- A. Unos 100,000 km³, poco más de 1/5
+- B. Unos 100,000 km³, poco más de 1/3
+- C. Unos 370,000 km³, poco más de 1/5
+- D. Unos 170,000 km³, poco más de 1/5
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** importancia de las aguas oceánicas · precipitación sobre las tierras
+
+"Y unos 100,000 –poco más de 1/5– sobre las tierras emergidas."
+
+### 153
+
+En relación con el libro de Geografía, ¿dónde surgió y se desarrolló originalmente la vida, y cuándo ocupó las tierras emergidas?
+
+- A. En los océanos y mares, y ocupó las tierras emergidas cientos de millones de años después de haber aparecido
+- B. En los océanos y mares, y ocupó las tierras emergidas de inmediato
+- C. En las tierras emergidas, y ocupó los océanos cientos de millones de años después
+- D. En los mantos acuíferos, y ocupó las tierras emergidas cientos de millones de años después
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** importancia de las aguas oceánicas · origen de la vida
+
+"En los océanos y mares surgió y se desarrolló originalmente la vida, que ocupó las tierras emergidas cientos de millones de años después de haber aparecido."
+
+### 154
+
+De acuerdo con el libro de Geografía, aún después de colonizadas las tierras emergidas, ¿qué siguen siendo las aguas oceánicas?
+
+- A. El principal receptáculo de la vida
+- B. El principal receptáculo de los minerales
+- C. El principal regulador de las estaciones del año
+- D. El principal medio de transporte de la humanidad
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** importancia de las aguas oceánicas · receptáculo de la vida
+
+"Aún después de colonizadas las tierras emergidas por los seres vivos, las aguas oceánicas siguen siendo el principal receptáculo de la vida."
+
+### 155
+
+De conformidad con el libro de Geografía, ¿cómo son los organismos marinos frente a los de tierra?
+
+- A. Los superan en número y especies
+- B. Los superan en número, pero no en especies
+- C. Los superan en especies, pero no en número
+- D. Son inferiores en número y especies
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** importancia de las aguas oceánicas · organismos marinos
+
+"Los organismos marinos superan en número y especies a los de tierra."
+
+### 156
+
+En relación con el libro de Geografía, ¿qué proporcionan las aguas oceánicas para el desarrollo económico de la humanidad?
+
+- A. Un medio de transporte cómodo y barato, abundante pesca y enormes cantidades de minerales (sal común, cloruro de magnesio, yodo, etc.)
+- B. Un medio de transporte rápido y costoso, abundante pesca y escasos minerales
+- C. Únicamente abundante pesca y enormes cantidades de minerales
+- D. Un medio de transporte cómodo y barato, y energía eléctrica de las mareas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 161
+**Subtema:** importancia de las aguas oceánicas · desarrollo económico
+
+"Constituyen un factor fundamental para el desarrollo económico de la humanidad, pues proporcionan un medio de transporte cómodo y barato, abundante pesca y enormes cantidades de minerales (sal común, cloruro de magnesio, yodo, etc.)."
 
