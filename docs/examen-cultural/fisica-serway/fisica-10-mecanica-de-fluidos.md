@@ -32,9 +32,9 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** Escritas las páginas impresas **270–278** y **280** (la 274 y la 279 son ejemplos): **10.1**, **10.2**, **10.3**, **10.4** COMPLETOS y el arranque de **10.5 · Dinámica de fluidos** (flujo estable/laminar y turbulento, viscosidad, las cuatro suposiciones del flujo ideal, la línea de corriente y el tubo de flujo). Los Ejemplos y la portada no aportan reactivos.
+**EN CURSO.** Escritas las páginas impresas **270–278**, **280–281** (la 274 y la 279 son ejemplos): **10.1**, **10.2**, **10.3**, **10.4** y **10.5 · Dinámica de fluidos** COMPLETOS (flujo laminar/turbulento, viscosidad, las cuatro suposiciones del flujo ideal, línea de corriente, tubo de flujo, la ecuación de continuidad A₁v₁ = A₂v₂ y el caudal volumétrico Av). Los Ejemplos y la portada no aportan reactivos.
 
-**Pendiente:** EN CURSO. Sigue el resto de **10.5** (p.281: la ecuación de continuidad A₁v₁ = A₂v₂) y luego **10.6 · Ecuación de Bernoulli**, el último tema del temario. Los temas 10.7 y 10.8 quedan fuera.
+**Pendiente:** EN CURSO. Sólo falta **10.6 · Ecuación de Bernoulli** (a partir de la p.282/283), el último tema del temario. Con él se cierra el capítulo. Los temas 10.7 y 10.8 quedan fuera.
 
 ---
 
@@ -700,3 +700,50 @@ De acuerdo con el libro de Física, en el flujo estable, ¿qué tienen en común
 **Subtema:** dinámica de fluidos · velocidad en el flujo estable
 
 "En el flujo estable todas las partículas de fluido que llegan a un punto dado tienen la misma velocidad."
+
+## Sub-lote 10 · Ecuación de continuidad (p.281)
+
+### 44
+
+En relación con el libro de Física, ¿qué establece la ecuación de continuidad para fluidos?
+
+- A. A₁v₁ = A₂v₂ = constante; el producto del área y la rapidez del fluido es constante en todos los puntos a lo largo de una tubería, para un fluido incompresible
+- B. La presión es constante a lo largo de la tubería
+- C. La rapidez del fluido es la misma en toda la tubería
+- D. El área de la tubería no cambia
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 281
+**Subtema:** dinámica de fluidos · ecuación de continuidad
+
+"A₁v₁ = A₂v₂ = constante. Esta expresión se llama ecuación de continuidad para fluidos. Establece que el producto del área y la rapidez del fluido en todos los puntos a lo largo de una tubería es constante para un fluido incompresible."
+
+### 45
+
+De conformidad con el libro de Física, según la ecuación de continuidad, ¿dónde es alta y dónde es baja la rapidez del fluido?
+
+- A. La rapidez es alta donde el tubo es estrecho (A pequeña) y baja donde el tubo es ancho (A grande)
+- B. La rapidez es alta donde el tubo es ancho y baja donde es estrecho
+- C. La rapidez es la misma sin importar el ancho del tubo
+- D. La rapidez sólo depende de la presión
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 281
+**Subtema:** dinámica de fluidos · rapidez y área de la tubería
+
+"La ecuación 10.7 muestra que la rapidez es alta donde el tubo es estrecho (A pequeña) y baja donde el tubo es ancho (A grande)."
+
+### 46
+
+De acuerdo con el libro de Física, ¿cómo se llama el producto Av, que tiene las dimensiones de volumen por unidad de tiempo?
+
+- A. Flujo volumétrico o caudal volumétrico
+- B. Presión manométrica
+- C. Densidad de flujo
+- D. Viscosidad
+
+**Respuesta:** A
+**Referencia:** Serway, Raymond A. / Jewett, John W., Jr. (2022) *Introducción a la Física I: Mecánica Clásica*, Editorial Cengage Learning, Pág. 281
+**Subtema:** dinámica de fluidos · flujo volumétrico
+
+"El producto Av, que tiene las dimensiones de volumen por unidad de tiempo, se llama flujo volumétrico o caudal volumétrico."
