@@ -258,11 +258,18 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   Figura 1.28, dos actividades de aprendizaje y un recuadro titulado *Solución de
   ecuaciones de segundo grado* que en realidad son **instrucciones de la calculadora**
   (qué teclear en la fx-991ES y en la CLASSWIZ) — manejo de herramienta, no materia.
+- Cubierta la página impresa **32**: el apartado **Dominio de funciones radicales** —que
+  el radicando debe ser mayor o igual que cero y **por qué** (si es menor, la raíz es un
+  número complejo)— y el nombre del **intervalo cerrado por la derecha**. **Duplicado
+  evitado:** esta página vuelve a enunciar que *"la raíz cuadrada de un número al cuadrado
+  es el valor absoluto del número"*, que **ya es el reactivo 81** (p.28); no se repite.
+  **Fuera:** la cola de la actividad de la p.31, los dos *Ejemplos* con su Solución paso a
+  paso y la actividad de aprendizaje intermedia.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.31**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
-**b) está EN CURSO**. Sigue desde la **p.32** con el resto del **b)** funciones explícitas
-o implícitas (pp. 32–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
+va cubierto hasta la **p.32**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
+**b) está EN CURSO**. Sigue desde la **p.33** con el resto del **b)** funciones explícitas
+o implícitas (pp. 33–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
 **d)** función invertible y función inversa (pp. 49–60), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
@@ -1759,3 +1766,59 @@ En relación con el libro de Cálculo, ¿qué establece la propiedad del cero?
 > Nota de revisor: el distractor B cambia la **o** por **y**, que es el error clásico al
 > enunciar esta propiedad. El libro la da en un recuadro de apoyo, no dentro del
 > desarrollo del ejercicio, así que entra sin discusión.
+
+---
+
+## Sub-lote 18 · El dominio de las funciones radicales (1.3 b, p.32)
+
+### 88
+
+De acuerdo con el libro de Cálculo, para determinar el dominio de una función radical, ¿qué debe cumplir el radicando?
+
+- A. Ser mayor o igual que cero
+- B. Ser estrictamente mayor que cero
+- C. Ser distinto de cero
+- D. Ser menor o igual que cero
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 32
+**Subtema:** Dominio de una función · Funciones radicales
+
+"Veamos también que el radicando sea mayor o igual que cero [...]"
+
+> Nota de revisor: el distractor B deja fuera el cero. Es el error de quien arrastra la
+> regla del denominador —que sí debe ser **distinto** de cero— a un caso donde el cero
+> sí se admite.
+
+### 89
+
+De conformidad con el libro de Cálculo, ¿por qué el radicando debe ser mayor o igual que cero?
+
+- A. Porque si es menor que cero la raíz es un número complejo
+- B. Porque si es menor que cero la raíz no puede graficarse
+- C. Porque si es menor que cero el resultado sería siempre negativo
+- D. Porque si es menor que cero la función se vuelve racional
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 32
+**Subtema:** Dominio de una función · Funciones radicales
+
+"[...] ya que si es menor que cero la raíz es un número complejo [...]"
+
+> Nota de revisor: el **porqué** es el dato que se salta. El aspirante memoriza "el
+> radicando no puede ser negativo" sin registrar la razón que el libro da.
+
+### 90
+
+En relación con el libro de Cálculo, ¿cómo se llama el intervalo (−∞, 9]?
+
+- A. Intervalo cerrado por la derecha
+- B. Intervalo cerrado por la izquierda
+- C. Intervalo abierto por la derecha
+- D. Intervalo abierto en sus dos extremos
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 32
+**Subtema:** Dominio de una función · Notación de intervalos
+
+"En forma de intervalo lo expresamos (−∞, 9]. Es un intervalo cerrado por la derecha."
