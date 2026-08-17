@@ -61,17 +61,17 @@ desfase se mantuvo constante en toda la unidad.
 
 ## Cobertura actual
 
-Escritos **diez de los trece temas**: 1 Diferencia entre calor y temperatura
-pp. 332–335; 2 Medida de la temperatura pp. 335–336; 3 Escalas Celsius, Kelvin y
-Fahrenheit pp. 336–337; **4 Dilatación de los cuerpos pp. 337–341**; 5 Formas de
-propagación del calor pp. 343–344; **6 Energía solar, su medida y transformación
-p. 345**; 7 Unidades para medir el calor p. 346; **8 Capacidad calorífica
-pp. 346–347**; **9 Calor específico p. 347**; y 12 Los gases y sus leyes
-pp. 354–359.
-
-**Faltan tres temas, todos de la EMMA:** el **10** (Calor latente, pp. 349–350),
-el **11** (Calor cedido y absorbido por los cuerpos, pp. 351–353) y el **13**
-(Termodinámica, pp. 360–372, que es el más extenso de la unidad).
+**Escritos los trece temas — la Unidad 11 queda COMPLETA.** 1 Diferencia entre
+calor y temperatura pp. 332–335; 2 Medida de la temperatura pp. 335–336; 3 Escalas
+Celsius, Kelvin y Fahrenheit pp. 336–337; **4 Dilatación de los cuerpos
+pp. 337–341**; 5 Formas de propagación del calor pp. 343–344; **6 Energía solar,
+su medida y transformación p. 345**; 7 Unidades para medir el calor p. 346;
+**8 Capacidad calorífica pp. 346–347**; **9 Calor específico p. 347**;
+**10 Calor latente pp. 349–350**; **11 Calor cedido y absorbido por los cuerpos
+pp. 351–352**; 12 Los gases y sus leyes pp. 354–359; y **13 Termodinámica
+pp. 360–373** (el más extenso: primera y segunda ley, entropía y tercera ley,
+máquinas térmicas, eficiencia, el refrigerador, el impacto ecológico, las fuentes
+de energía calorífica, el poder calorífico y la degradación de la energía).
 
 Se saltó, por norma: del tema 4, la p. 342 (problemas resueltos de dilatación
 cúbica) y los cuadros 11.1, 11.2 y 11.3 de valores de coeficientes (datos de
@@ -92,8 +92,18 @@ gases, y las actividades experimentales.
 - **Sub-lote 9 · Energía solar, su medida y transformación (p. 345)** — tema 6; añadido para la EMO (`FIS-03`), va al final del archivo (orden de captura, no de página)
 - **Sub-lote 10 · Dilatación de los cuerpos (pp. 337–341)** — tema 4; añadido para la EMA (`FIS-02`), va al final del archivo (orden de captura, no de página)
 - **Sub-lote 11 · Capacidad calorífica y calor específico (pp. 346–347)** — temas 8 y 9; añadido el 14 ago 2026 para la **EMMA** (`FÍS-02`), único plantel que los pide. Cubre la definición de capacidad calorífica y sus unidades, Cp frente a Cv, la relación C/m que define el calor específico, la fórmula ΔQ = mCeΔT, el valor de 1 cal/g °C del agua y el ejemplo del agua y la plata
+- **Sub-lote 12 · Calor latente de fusión y de vaporización (pp. 349–350)** — tema 10; añadido para la **EMMA**, único plantel que lo pide
+- **Sub-lote 13 · Calor cedido y absorbido por los cuerpos (pp. 351–352)** — tema 11; añadido para la **EMMA**, único plantel que lo pide
+- **Sub-lotes 14 a 21 · Termodinámica (pp. 360–373)** — tema 13; añadidos para la **EMMA**, único plantel que lo pide. Arranca con sistema, paredes, procesos y energía interna (14–15), sigue con la ley cero, el equivalente mecánico del calor y el cierre de la primera y segunda ley (16), entropía y tercera ley junto con los tres tipos de máquinas térmicas (17), motores de combustión interna, Diesel y de reacción (18), eficiencia de las máquinas térmicas y el refrigerador (19), impacto ecológico (20), y cierra con las fuentes de energía calorífica, el poder calorífico y la degradación de la energía (21)
 
-**Pendiente:** la Unidad 11 está **EN CURSO** por un solo tramo: el **tema 13 · Termodinámica**, que va cubierto **hasta la página impresa 363** y **sigue desde la 364** (hoja 377, desfase +13) hasta la **372**. Falta de él la segunda ley de la termodinámica, las conclusiones de la primera y la segunda, la entropía y la tercera ley, la eficiencia de las máquinas térmicas, el funcionamiento del refrigerador, el impacto ecológico, las fuentes de energía calorífica, el poder calorífico y la degradación de la energía. **No llevan reactivos** el "Proyecto de investigación de campo" ni la "Actividad experimental 19" de la p. 373, ni el Resumen, la Autoevaluación, la Coevaluación y el Glosario (pp. 375–381); la Unidad 12 empieza en la p. 384. Los temas **1 a 12 ya están todos escritos**, así que lo único vivo es ese tramo final, pedido **sólo por la EMMA** (`FÍS-02-2026`, que pide la unidad Completo); la EMO, la EMM y la EMA tienen cubierto lo suyo desde el 25 jul 2026.
+**Pendiente:** ninguno. La Unidad 11 quedó **CERRADA del todo** el 14 ago 2026 con
+el tema 13 · Termodinámica, cubierto hasta la página impresa **373** (donde
+arranca el "Proyecto de investigación de campo", que junto con la "Actividad
+experimental 19" y el Resumen/Autoevaluación/Coevaluación/Glosario —pp. 373 a
+381— no llevan reactivos por norma; la Unidad 12 empieza en la p. 384). Con esto
+**la EMMA queda cerrada en Física**: sus nueve huecos propios (U4 t1; U5 t1, t4 y
+t7; U11 t8, t9, t10, t11 y t13) ya están todos escritos, y las unidades que
+comparte con la EMO, la EMM y la EMA seguían cubiertas desde el 25 jul 2026.
 
 ## Cómo se escriben estos reactivos
 
@@ -5085,6 +5095,712 @@ En relación con el libro de Física, ¿qué produce el esmog que contamina las 
 
 <El esmog producido por los vehículos de combustión interna y fábricas contamina las ciudades.>
 
+## Sub-lote 21 · Fuentes de energía calorífica, poder calorífico y degradación de la energía (pp. 371–373) — tema 13
+
+### 306
+
+De acuerdo con el libro de Física, ¿cuál es nuestra principal fuente natural de energía calorífica?
+
+- A. El Sol.
+- B. El subsuelo terrestre.
+- C. El petróleo.
+- D. La energía nuclear.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Existen varias fuentes de energía calorífica, pero nuestra principal fuente natural es el Sol.>
+
+### 307
+
+De conformidad con el libro de Física, ¿a qué se debe la energía radiante del Sol?
+
+- A. A las reacciones nucleares que se producen en su interior.
+- B. A la combustión de hidrocarburos en su interior.
+- C. A la fricción de sus capas gaseosas externas.
+- D. A la reflexión de la luz de otras estrellas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La energía radiante del Sol se debe a las reacciones nucleares que se producen en su interior.>
+
+### 308
+
+En relación con el libro de Física, ¿para qué se aprovecha actualmente esa energía calorífica?
+
+- A. Para la calefacción de agua destinada al uso doméstico y para el funcionamiento de motores provistos de celdas solares.
+- B. Únicamente para la calefacción de agua destinada al uso doméstico.
+- C. Únicamente para el funcionamiento de motores provistos de celdas solares.
+- D. Para producir energía nuclear en las plantas termoeléctricas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Actualmente se aprovecha esa energía calorífica para la calefacción de agua destinada al uso doméstico, como en algunos edificios, y también para el funcionamiento de diversos tipos de motores provistos de celdas solares.>
+
+### 309
+
+De acuerdo con el libro de Física, ¿dónde se encuentra otro tipo de energía térmica?
+
+- A. En el subsuelo terrestre.
+- B. En la alta atmósfera.
+- C. Únicamente en el interior del Sol.
+- D. En los yacimientos de petróleo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Otro tipo de energía térmica se encuentra en el subsuelo terrestre.>
+
+### 310
+
+De conformidad con el libro de Física, ¿qué son los géisers?
+
+- A. Surtidores de agua caliente que brota del suelo en forma intermitente.
+- B. Chorros de agua fría que brotan del suelo de manera constante.
+- C. Depósitos subterráneos de petróleo cercanos a la superficie.
+- D. Corrientes de aire caliente que ascienden desde el subsuelo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Se producen chorros de agua caliente y géisers (surtidores de agua caliente que brota del suelo en forma intermitente).>
+
+### 311
+
+En relación con el libro de Física, ¿cómo se llama la energía que se aprovecha de esos fenómenos para producir energía mecánica?
+
+- A. Energía geotérmica, que se encuentra aún en investigación, pero con promesas muy alentadoras.
+- B. Energía geotérmica, que ya se explota a gran escala en todo el mundo.
+- C. Energía mareomotriz, que se encuentra aún en investigación.
+- D. Energía eólica, que se encuentra aún en investigación.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Estos fenómenos se aprovechan para producir energía mecánica a partir de la llamada energía geotérmica, misma que se encuentra aún en investigación, pero con promesas muy alentadoras.>
+
+### 312
+
+De acuerdo con el libro de Física, ¿de dónde proviene la mayor cantidad de energía utilizada actualmente por la humanidad?
+
+- A. De la combustión de la materia.
+- B. De la energía nuclear.
+- C. De la energía geotérmica.
+- D. De la energía radiante del Sol captada por celdas solares.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En la actualidad, la mayor cantidad de energía utilizada por la humanidad proviene de la combustión de la materia, tal es el caso de la combustión del petróleo, gasolina, gas, carbón y leña.>
+
+### 313
+
+De conformidad con el libro de Física, ¿qué recurso natural no renovable se desperdicia lamentablemente al quemarse a fin de producir calor?
+
+- A. El petróleo.
+- B. El carbón mineral.
+- C. El gas natural.
+- D. La leña.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Lamentablemente se desperdicia un valioso recurso natural no renovable como lo es el petróleo pues se quema a fin de producir calor.>
+
+### 314
+
+En relación con el libro de Física, ¿qué energías espera el libro que el hombre encuentre la manera de utilizar a gran escala y en forma rentable?
+
+- A. La energía solar, eólica, geotérmica y mecánica de los mares (mareomotriz).
+- B. Únicamente la energía nuclear de fisión.
+- C. La energía solar y la energía nuclear de fusión.
+- D. Únicamente la energía geotérmica.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Es de esperarse que en un tiempo breve el hombre encuentre la manera de utilizar a gran escala y en forma rentable la energía solar, eólica, geotérmica y mecánica de los mares (mareomotriz), en lugar de contaminar la atmósfera quemando petróleo.>
+
+### 315
+
+De acuerdo con el libro de Física, ¿para qué debe cuidarse el petróleo, según el libro?
+
+- A. Para que las generaciones futuras lo aprovechen en la producción de plásticos, fibras sintéticas y, posiblemente, también en alimentos.
+- B. Para que las generaciones futuras lo utilicen únicamente como combustible.
+- C. Para evitar que se agote antes de terminar de construir plantas nucleares.
+- D. Para destinarlo exclusivamente a la industria de la energía solar.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El cual debe cuidarse para que las generaciones futuras lo aprovechen en la producción de plásticos, fibras sintéticas y, posiblemente, también en alimentos.>
+
+### 316
+
+De conformidad con el libro de Física, ¿a qué se debe el origen de la energía nuclear?
+
+- A. A la energía que mantiene unidas las partículas en el núcleo de los átomos.
+- B. A la energía que mantiene unidas las moléculas de los combustibles fósiles.
+- C. A la radiación ultravioleta proveniente del Sol.
+- D. A la fricción entre las capas de la atmósfera.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Mención especial requiere el calor obtenido por medio de la energía nuclear, cuyo origen se debe a la energía que mantiene unidas las partículas en el núcleo de los átomos.>
+
+### 317
+
+En relación con el libro de Física, ¿en qué consiste una reacción de fusión?
+
+- A. En la unión de dos núcleos ligeros para formar uno mayor.
+- B. En la desintegración del núcleo de un elemento de peso atómico elevado.
+- C. En la unión de dos núcleos pesados para formar dos ligeros.
+- D. En la pérdida de electrones de la capa externa de un átomo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La cual es liberada en forma de energía calorífica y radiante cuando se produce una reacción de fusión caracterizada por la unión de dos núcleos ligeros para formar uno mayor.>
+
+### 318
+
+De acuerdo con el libro de Física, ¿en qué consiste una reacción de fisión?
+
+- A. En la desintegración del núcleo de un elemento de peso atómico elevado.
+- B. En la unión de dos núcleos ligeros para formar uno mayor.
+- C. En la combustión de materia orgánica en descomposición.
+- D. En el intercambio de calor entre dos cuerpos a distinta temperatura.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<O bien, si se produce una reacción de fisión al desintegrarse el núcleo de un elemento de peso atómico elevado.>
+
+### 319
+
+De conformidad con el libro de Física, ¿qué planta nuclear se encuentra en el estado de Veracruz?
+
+- A. La planta nuclear de Laguna Verde.
+- B. La planta nuclear de Three Mile Island.
+- C. La planta nuclear de Chernobyl.
+- D. La planta nuclear de Fukushima.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En el estado de Veracruz se encuentra la planta nuclear de Laguna Verde, misma que contribuye en la producción de energía eléctrica.>
+
+### 320
+
+En relación con el libro de Física, ¿qué puede provocar una explosión en alguno de los reactores de una planta nuclear?
+
+- A. Serios problemas a los habitantes de la localidad.
+- B. Un aumento en la eficiencia de la planta.
+- C. La disminución inmediata de la entropía del sistema.
+- D. Ningún efecto, pues los reactores están completamente aislados.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Sin embargo, los riesgos de las plantas nucleares son muy grandes y una explosión en alguno de los reactores puede provocar serios problemas a los habitantes de la localidad.>
+
+### 321
+
+De acuerdo con el libro de Física, ¿cuándo ocurrió el accidente en la planta nuclear de Three Mile Island, en Pensilvania, EUA?
+
+- A. El 28 de marzo de 1979.
+- B. El 26 de abril de 1986.
+- C. El 11 de marzo de 2011.
+- D. El 28 de marzo de 1989.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Como los sucedidos en las siguientes plantas nucleares: Three Mile Island en Pensilvania (EUA) el 28 de marzo de 1979.>
+
+### 322
+
+De conformidad con el libro de Física, ¿cuándo ocurrió el accidente en Chernobyl, Ucrania?
+
+- A. El 26 de abril de 1986.
+- B. El 28 de marzo de 1979.
+- C. El 11 de marzo de 2011.
+- D. El 26 de abril de 1996.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En Chernobyl, Ucrania, el 26 de abril de 1986.>
+
+### 323
+
+En relación con el libro de Física, ¿cuándo ocurrió el accidente de Fukushima, en Japón?
+
+- A. El 11 de marzo de 2011.
+- B. El 28 de marzo de 1979.
+- C. El 26 de abril de 1986.
+- D. El 11 de marzo de 2001.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Y la de Fukushima en Japón el 11 de marzo de 2011.>
+
+### 324
+
+De acuerdo con el libro de Física, ¿por qué se caracterizan los combustibles cuyo poder calorífico se revisa en el libro?
+
+- A. Por arder con desprendimiento de calor cuando se combinan con el oxígeno.
+- B. Por arder sin ningún desprendimiento de calor.
+- C. Por combinarse únicamente con el nitrógeno del aire.
+- D. Por producir siempre una combustión completa sin residuos.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Debido a la importancia de varios combustibles, que se caracterizan por arder con desprendimiento de calor cuando se combinan con el oxígeno, revisaremos a continuación algunos de ellos, así como el valor de su poder calorífico.>
+
+### 325
+
+De conformidad con el libro de Física, ¿de dónde se obtiene la leña y qué es?
+
+- A. Se obtiene de árboles y arbustos partidos en trozos, y es el combustible más antiguo.
+- B. Se obtiene de la descomposición de restos de organismos vivos, y es el combustible más reciente.
+- C. Se obtiene del subsuelo terrestre, y es el combustible más antiguo.
+- D. Se obtiene de yacimientos submarinos, y es el combustible más reciente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Leña. Se obtiene de árboles y arbustos partidos en trozos. Es el combustible más antiguo.>
+
+### 326
+
+En relación con el libro de Física, ¿en qué se utiliza el carbón mineral?
+
+- A. Como combustible en algunas fábricas.
+- B. Como combustible exclusivo de los hogares.
+- C. Como agente refrigerante en los sistemas de compresión.
+- D. Como aislante térmico en la construcción.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Carbón mineral. Se utiliza como combustible en algunas fábricas.>
+
+### 327
+
+De acuerdo con el libro de Física, ¿para qué es necesario el vapor de agua que produce el calor del carbón mineral?
+
+- A. Para mover las máquinas o para impulsar las locomotoras de un ferrocarril.
+- B. Para enfriar las calderas de las plantas termoeléctricas.
+- C. Para transportar el gas natural por los gasoductos.
+- D. Para fabricar la goma sintética directamente.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Su calor produce vapor de agua, necesario para mover las máquinas o para impulsar las locomotoras de un ferrocarril.>
+
+### 328
+
+De conformidad con el libro de Física, ¿en qué se usa además el carbón mineral?
+
+- A. En plantas termoeléctricas, en la fabricación de acero y para elaborar productos como la goma sintética y los tintes.
+- B. Únicamente en plantas termoeléctricas.
+- C. Únicamente en la fabricación de acero.
+- D. En la fabricación de plásticos y fibras sintéticas.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El carbón mineral se usa en plantas termoeléctricas, en la fabricación de acero y para elaborar productos como la goma sintética y los tintes.>
+
+### 329
+
+En relación con el libro de Física, ¿cómo se formó el carbón en la Tierra?
+
+- A. Debido a la putrefacción de musgos y helechos gigantes en los pantanos prehistóricos, hace millones de años.
+- B. Debido a la descomposición de organismos marinos hace millones de años.
+- C. Debido a la compresión de restos vegetales bajo el mar durante siglos.
+- D. Debido a la acción del calor solar sobre la vegetación del desierto.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El carbón se formó en la Tierra hace millones de años, debido a la putrefacción de musgos y helechos gigantes en los pantanos prehistóricos.>
+
+### 330
+
+De acuerdo con el libro de Física, ¿cuántos tipos de carbón existen y cuáles son?
+
+- A. Existen tres: antracita, hulla y lignito.
+- B. Existen dos: antracita y hulla.
+- C. Existen cuatro: antracita, hulla, lignito y turba.
+- D. Existe un solo tipo, el carbón mineral.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Existen tres tipos de carbón: antracita, hulla y lignito.>
+
+### 331
+
+De conformidad con el libro de Física, ¿qué es el petróleo?
+
+- A. Un aceite mineral con un gran valor para la humanidad, pues la vida moderna gira alrededor de este valioso recurso natural no renovable.
+- B. Un gas incoloro con un gran valor para la humanidad.
+- C. Un mineral sólido con un gran valor para la humanidad.
+- D. Una sustancia sintética fabricada a partir del carbón mineral.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Petróleo. Es un aceite mineral con un gran valor para la humanidad, pues la vida moderna gira alrededor de este valioso recurso natural no renovable.>
+
+### 332
+
+En relación con el libro de Física, como materia prima, ¿de qué es origen el petróleo?
+
+- A. De una gran cantidad de productos: plásticos, adhesivos, abonos, gomas, disolventes, detergentes, fibras sintéticas, resinas sintéticas, lociones, lápices labiales y asfaltos para carreteras, entre otros.
+- B. Únicamente de plásticos y adhesivos.
+- C. Únicamente de combustibles para motores de combustión interna.
+- D. De gas natural y carbón mineral.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Como materia prima, es el origen de una gran cantidad de productos: plásticos, adhesivos, abonos, gomas, disolventes, detergentes, fibras sintéticas, resinas sintéticas, lociones, lápices labiales, asfaltos para carreteras, etcétera.>
+
+### 333
+
+De acuerdo con el libro de Física, ¿cómo se le denomina al petróleo por su enorme importancia?
+
+- A. "Oro negro".
+- B. "Combustible fósil".
+- C. "Recurso vital".
+- D. "Piedra de aceite".
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Por su enorme importancia se le denomina "oro negro".>
+
+### 334
+
+De conformidad con el libro de Física, al igual que el carbón mineral y el gas natural, ¿de qué se formó el petróleo?
+
+- A. De la descomposición durante millones de años de restos de antiguos organismos vivos, denominados fósiles.
+- B. De la solidificación del carbón mineral bajo alta presión.
+- C. De reacciones químicas entre el agua de mar y el azufre.
+- D. De la compresión del gas natural bajo el subsuelo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 371
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Al igual que el carbón mineral y el gas natural (metano), el petróleo se formó de la descomposición durante millones de años de restos de antiguos organismos vivos, denominados fósiles.>
+
+### 335
+
+En relación con el libro de Física, ¿de qué palabras latinas proviene el origen de la palabra petróleo?
+
+- A. De *petra*, piedra, y *oleum*, aceite.
+- B. De *petra*, aceite, y *oleum*, piedra.
+- C. De *petros*, roca, y *oleo*, ungüento.
+- D. De *petra*, fósil, y *oleum*, combustible.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 372
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El origen de la palabra petróleo proviene del latín petroleum, compuesto de petra, piedra, y oleum, aceite.>
+
+### 336
+
+De acuerdo con el libro de Física, ¿dónde se localiza el petróleo?
+
+- A. En las entrañas de la Tierra, ya sea del desierto o del mar.
+- B. Únicamente en el desierto.
+- C. Únicamente en el fondo del mar.
+- D. En la superficie terrestre, en depósitos a cielo abierto.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 372
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El petróleo se localiza en las entrañas de la Tierra, ya sea del desierto o del mar.>
+
+### 337
+
+De conformidad con el libro de Física, ¿cómo se denomina la zona donde algunos depósitos de petróleo se encuentran relativamente cerca de la costa, y qué ejemplos da el libro?
+
+- A. Plataforma continental; los yacimientos del Golfo de México y el Golfo Pérsico.
+- B. Fosa oceánica; los yacimientos del Golfo de México y el Golfo Pérsico.
+- C. Plataforma continental; únicamente el yacimiento del Golfo Pérsico.
+- D. Cuenca sedimentaria; los yacimientos del Mar Rojo y el Golfo Pérsico.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 372
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Algunos depósitos de petróleo no se encuentran muy alejados de tierra firme, en la denominada plataforma continental, o sea, relativamente cerca de la costa, como los importantes yacimientos en el Golfo de México y el Golfo Pérsico.>
+
+### 338
+
+En relación con el libro de Física, ¿cómo fluye el gas natural de los yacimientos y cómo se transporta a grandes distancias?
+
+- A. Fluye en potentes chorros y se transporta a través de gasoductos, o bien se licúa y se transporta en barcos cisterna llamados metaneros.
+- B. Fluye lentamente y se transporta únicamente por camiones pipa.
+- C. Fluye en potentes chorros y se transporta únicamente en tanques de acero de 20, 30 y 45 kg.
+- D. Fluye por gravedad y se transporta en barcos llamados petroleros.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 372
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El gas natural fluye de los yacimientos en potentes chorros y se transporta a grandes distancias a través de gasoductos, o bien se licúa a altas presiones y se transporta en barcos cisterna llamados metaneros.>
+
+### 339
+
+De acuerdo con el libro de Física, ¿qué es el gas natural o metano?
+
+- A. Un gas incoloro cuya fórmula es CH4.
+- B. Un gas incoloro cuya fórmula es CO2.
+- C. Un gas amarillento cuya fórmula es CH4.
+- D. Un líquido incoloro cuya fórmula es C2H6.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 372
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El gas natural o metano es un gas incoloro y tiene por fórmula CH4. Es el más simple de los compuestos orgánicos y muy abundante en la naturaleza.>
+
+### 340
+
+De conformidad con el libro de Física, ¿qué produce el gas natural, según el ejemplo del libro?
+
+- A. La materia orgánica en descomposición, como el estiércol y las aguas estancadas.
+- B. La combustión completa del carbón mineral.
+- C. La fisión nuclear de elementos de peso atómico elevado.
+- D. La reacción entre nitrógeno y oxígeno a la temperatura del motor.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 372
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La materia orgánica en descomposición lo produce, tal es el caso del estiércol, aguas estancadas, etcétera.>
+
+### 341
+
+En relación con el libro de Física, ¿qué nombre recibe el gas butano mezclado con gas propano y qué significan sus siglas?
+
+- A. Gas LP, cuyas siglas corresponden a licuado del petróleo.
+- B. Gas LP, cuyas siglas corresponden a líquido del petróleo.
+- C. Gas natural, cuyas siglas corresponden a licuado del petróleo.
+- D. Gas metanero, cuyas siglas corresponden a licuado del petróleo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 372
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<El gas butano mezclado con gas propano, recibe el nombre de gas LP cuyas siglas corresponden a licuado del petróleo.>
+
+### 342
+
+De acuerdo con el libro de Física, ¿en qué tamaños de tanques de acero se vende de manera comercial el gas LP?
+
+- A. De 20, 30 y 45 kg.
+- B. De 10, 20 y 30 kg.
+- C. De 30, 45 y 60 kg.
+- D. De 15, 25 y 40 kg.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 372
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Se vende de manera comercial en tanques de acero de 20, 30 y 45 kg, también se surte por medio de camiones pipa a tanques estacionarios.>
+
+### 343
+
+De conformidad con el libro de Física, ¿por qué se le agrega al gas butano y al propano una sustancia fuertemente olorosa?
+
+- A. Porque no tienen olor y son altamente tóxicos, lo cual posibilita detectar cualquier fuga para evitar explosiones o intoxicaciones.
+- B. Porque tienen un olor desagradable que debe disimularse.
+- C. Porque esa sustancia mejora su poder calorífico.
+- D. Porque esa sustancia evita que se licúen a altas presiones.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 372
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Como el gas butano y el propano no tienen olor y como son altamente tóxicos para el ser humano o los animales que lo inhalan durante un tiempo prolongado, se le agrega una sustancia fuertemente olorosa, la cual posibilita detectar cualquier fuga para así evitar explosiones o intoxicaciones de fatales consecuencias.>
+
+### 344
+
+En relación con el libro de Física, ¿de acuerdo con qué se expresa el poder calorífico de un combustible?
+
+- A. De acuerdo con el número de kilocalorías generadas por la combustión completa de un kilogramo de dicho combustible.
+- B. De acuerdo con el número de kilocalorías generadas por la combustión completa de un gramo de dicho combustible.
+- C. De acuerdo con el volumen de gas producido por la combustión de un kilogramo de dicho combustible.
+- D. De acuerdo con la temperatura máxima que alcanza un kilogramo de dicho combustible al arder.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 372
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<La característica principal de un combustible es su poder calorífico, el cual se expresa de acuerdo con el número de kilocalorías generadas por la combustión completa de un kilogramo de dicho combustible.>
+
+### 345
+
+De acuerdo con el libro de Física, en principio, ¿cómo son todas las formas de energía?
+
+- A. Equivalentes, de acuerdo con la ley de la conservación de la energía.
+- B. Distintas entre sí, sin relación matemática alguna.
+- C. Equivalentes, sólo cuando provienen de la combustión.
+- D. Equivalentes, únicamente en el caso de la energía calorífica y la mecánica.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 372
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En principio todas las formas de energía son equivalentes, de acuerdo con la ley de la conservación de la energía.>
+
+### 346
+
+De conformidad con el libro de Física, ¿qué establece la ley de la conservación de la energía?
+
+- A. Que ésta no se crea ni se destruye sino únicamente se transforma.
+- B. Que ésta se crea y se destruye constantemente en cada transformación.
+- C. Que ésta se degrada por completo al transformarse en trabajo.
+- D. Que ésta sólo puede transformarse en calor, nunca en trabajo.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 372
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Ésta no se crea ni se destruye sino únicamente se transforma.>
+
+### 347
+
+En relación con el libro de Física, aunque es posible transformar continua y totalmente el trabajo en calor, ¿qué ocurre con la energía calorífica?
+
+- A. Sólo una parte de ella puede ser transformada en trabajo mediante el empleo de las máquinas térmicas.
+- B. La totalidad de ella puede ser transformada en trabajo mediante el empleo de las máquinas térmicas.
+- C. Ninguna parte de ella puede ser transformada en trabajo.
+- D. Sólo una parte de ella puede transformarse en energía nuclear.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 373
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Aunque es posible transformar continua y totalmente el trabajo en calor, sólo una parte de la energía calorífica puede ser transformada en trabajo mediante el empleo de las máquinas térmicas.>
+
+### 348
+
+De acuerdo con el libro de Física, ¿en qué termina la energía de un sistema al someterse a transformaciones sucesivas?
+
+- A. Por convertirse en calor, y parte de éste ya no puede utilizarse para producir trabajo.
+- B. Por convertirse íntegramente en trabajo mecánico aprovechable.
+- C. Por conservar su forma original sin ninguna pérdida.
+- D. Por convertirse en energía nuclear de fisión.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 373
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<En virtud de que la energía de un sistema al someterse a transformaciones sucesivas termina por convertirse en calor y parte de éste ya no puede utilizarse para producir trabajo.>
+
+### 349
+
+De conformidad con el libro de Física, ¿cuándo decimos que la energía se ha degradado?
+
+- A. Cuando la energía se convierte en calor.
+- B. Cuando la energía se convierte en trabajo mecánico.
+- C. Cuando la energía se convierte en energía nuclear.
+- D. Cuando la energía permanece constante sin transformarse.
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 373
+**Tema:** U11 t13 · termodinámica
+**Subtema:** Física · Termodinámica
+
+<Decimos que cuando la energía se convierte en calor se ha degradado.>
+
 ---
 
-**Reactivos en este archivo:** 305
+**Reactivos en este archivo:** 349
