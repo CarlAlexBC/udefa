@@ -47,6 +47,9 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 - **p. 274, párrafo bajo el Teorema de Pitágoras: dice "vertical" dos veces.** El libro imprime "La longitud del **lado vertical** del triángulo es la distancia d entre los dos puntos. La longitud del **lado vertical** del triángulo es |y₂ − y₁|". La primera debería referirse a la **hipotenusa** (es la que mide d, como muestra la figura 3.5); el lado vertical es el que mide |y₂ − y₁|, que es lo que dice la segunda. El reactivo 12 pregunta sólo por los lados vertical y horizontal, que la segunda frase da bien.
 - **p. 275, nota al pie del recuadro del punto medio:** escribe "**Ápendice** A.4" (acento en la primera A) en lugar de *Apéndice*. Es sólo una remisión al propio libro, que queda fuera por norma.
 
+- **p. 286, recuadro *Rectas paralelas y perpendiculares*: el texto se contradice con su propia fórmula.** El libro imprime "sus pendientes son **recíprocas no negativas** entre sí", pero enseguida escribe **m₁ = −1/m₂**, que es la recíproca **negativa** —lo correcto—, y el `EJEMPLO 4` de esa misma página lo confirma al decir "porque 3/2 es el **recíproco negativo** de 2/3". El "no" sobra. **Verificado con recorte de la hoja renderizada.** El reactivo 37 pregunta por la **fórmula**, que sí es correcta, y su justificación cita la frase ya sin el "no".
+- **p. 286, frase de entrada del apartado:** imprime "Se puede llamar pendiente si dos rectas no verticales en un plano son paralelas, perpendiculares o ninguna", que no cierra; debería decir algo como "se puede **usar la pendiente para decidir** si…". No lleva reactivo.
+
 _(Los defectos del capítulo 1 y del capítulo 2 están documentados en sus propios archivos.)_
 
 ## Cobertura actual
@@ -58,7 +61,9 @@ _(Los defectos del capítulo 1 y del capítulo 2 están documentados en sus prop
 
 - Cubiertas las páginas impresas **281, 282 y 283**, arranque de la **§3.2 · Ecuaciones lineales con dos variables**: el modelo `y = mx + b` y por qué se llama lineal, la *forma pendiente-intersección* y qué son m y (0, b), qué es la pendiente de una recta no vertical, la recta vertical `x = a` y por qué su pendiente no está definida, lo que implican una pendiente cero y una negativa, la **elevación** y el **corrimiento**, el recuadro *Pendiente de una recta que pasa por dos puntos* con su condición x₁ ≠ x₂, y la importancia del **orden de sustracción**. Los `EJEMPLO 1` y `EJEMPLO 2` no llevan reactivos.
 
-**Pendiente:** EN CURSO. La **§3.1 está CERRADA** y la **§3.2 va en curso**: sigue desde la página impresa **284**, y su teoría llega hasta la **p. 289**. Después faltan **§3.3** (p. 294), **§3.4** (p. 301), **§3.5** (p. 310) y **§3.6** (p. 319). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
+- Cubiertas las páginas impresas **284, 285 y 286**: el `COMENTARIO` que relaciona el signo de la pendiente con la orientación de la recta, la *forma punto-pendiente* y para qué es más útil, el `COMENTARIO` de que da igual cuál de los dos puntos se sustituya, y el recuadro *Rectas paralelas y perpendiculares* (pendientes iguales, y la fórmula m₁ = −1/m₂). Los `EJEMPLO 3` y `EJEMPLO 4` y el `TECNOLOGÍA` no llevan reactivos.
+
+**Pendiente:** EN CURSO. La **§3.1 está CERRADA** y la **§3.2 va en curso**: sigue desde la página impresa **287**, y su teoría llega hasta la **p. 289**. Después faltan **§3.3** (p. 294), **§3.4** (p. 301), **§3.5** (p. 310) y **§3.6** (p. 319). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
 
 ---
 
@@ -575,5 +580,126 @@ En relación con el libro de Matemáticas, al usar la fórmula de la pendiente, 
 **Subtema:** ecuaciones lineales · pendiente entre dos puntos
 
 Cuando esta fórmula se usa para la pendiente, el orden de sustracción es importante. Una vez hecho esto, se debe formar el numerador y el denominador usando el mismo orden de sustracción.
+
+---
+
+## Sub-lote 4 · Punto-pendiente, rectas paralelas y perpendiculares (§3.2, pp. 284–286)
+
+### 31
+
+De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué indica una pendiente positiva?
+
+- A. Que la recta sube de izquierda a derecha
+- B. Que la recta baja de izquierda a derecha
+- C. Que la recta es horizontal
+- D. Que la recta es vertical
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 284
+**Subtema:** ecuaciones lineales · pendiente y orientación
+
+Pendiente positiva: la recta sube de izquierda a derecha.
+
+---
+
+### 32
+
+De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué indica una pendiente no definida?
+
+- A. Que la recta es vertical
+- B. Que la recta es horizontal
+- C. Que la recta sube de izquierda a derecha
+- D. Que la recta baja de izquierda a derecha
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 284
+**Subtema:** ecuaciones lineales · pendiente y orientación
+
+Pendiente no definida: la recta es vertical.
+
+---
+
+### 33
+
+En relación con el libro de Matemáticas, ¿cuál es la forma punto-pendiente de la ecuación de una recta?
+
+- A. y − y₁ = m(x − x₁)
+- B. y + y₁ = m(x + x₁)
+- C. y − y₁ = m(x + x₁)
+- D. x − x₁ = m(y − y₁)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 285
+**Subtema:** ecuaciones lineales · forma punto-pendiente
+
+La ecuación de la recta con pendiente m que pasa por el punto (x₁, y₁) es: y − y₁ = m(x − x₁).
+
+---
+
+### 34
+
+De acuerdo con el libro de Matemáticas, ¿para qué es más útil la forma punto-pendiente?
+
+- A. Para determinar la ecuación de una recta
+- B. Para determinar la pendiente de una recta ya conocida
+- C. Para hallar la intersección con el eje y
+- D. Para comprobar si dos rectas son paralelas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 285
+**Subtema:** ecuaciones lineales · forma punto-pendiente
+
+La forma punto-pendiente es más útil para determinar la ecuación de una recta.
+
+---
+
+### 35
+
+De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, al hallar la ecuación de la recta que pasa por dos puntos, ¿cuál de ellos debe sustituirse en la forma punto-pendiente?
+
+- A. Cualquiera de los dos, porque ambos darán el mismo resultado
+- B. Siempre el de menor coordenada x
+- C. Siempre el de mayor coordenada y
+- D. Los dos a la vez, uno en cada miembro
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 285
+**Subtema:** ecuaciones lineales · forma punto-pendiente
+
+Sólo necesita sustituir las coordenadas de uno de los puntos en la forma punto-pendiente. No importa cuál punto se escoja porque ambos darán el mismo resultado.
+
+---
+
+### 36
+
+En relación con el libro de Matemáticas, ¿cuándo son paralelas dos rectas no verticales?
+
+- A. Si y sólo si sus pendientes son iguales, es decir, m₁ = m₂
+- B. Si y sólo si sus pendientes son opuestas, es decir, m₁ = −m₂
+- C. Si y sólo si el producto de sus pendientes es 1
+- D. Si y sólo si una de sus pendientes es cero
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 286
+**Subtema:** ecuaciones lineales · rectas paralelas
+
+Dos rectas no verticales son paralelas si y sólo si sus pendientes son iguales. Esto es, m₁ = m₂.
+
+---
+
+### 37
+
+De acuerdo con el libro de Matemáticas, ¿qué relación guardan las pendientes de dos rectas no verticales perpendiculares?
+
+- A. m₁ = −1/m₂
+- B. m₁ = 1/m₂
+- C. m₁ = m₂
+- D. m₁ = −m₂
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 286
+**Subtema:** ecuaciones lineales · rectas perpendiculares
+
+Dos rectas no verticales son perpendiculares si y sólo si sus pendientes son recíprocas negativas entre sí. Esto es, m₁ = −1/m₂.
 
 ---
