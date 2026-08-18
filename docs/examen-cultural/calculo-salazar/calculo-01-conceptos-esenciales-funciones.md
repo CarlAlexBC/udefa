@@ -344,11 +344,25 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   resto del ejemplo anterior, las Figuras 1.51 y 1.52, dos actividades de aprendizaje y
   tres *Ejemplos* más con su Solución (*f*(*x*) = *x*, *f*(*x*) = *x*², sin inversa por no
   ser uno a uno, y *f*(*x*) = *x*³).
+- Cubierto el arranque de la página impresa **51**, que **cierra el inciso d)** y abre un
+  apartado sin letra propia, **Álgebra de funciones**: la lista de las cinco operaciones
+  que se pueden hacer con dos funciones (suma, diferencia, producto, cociente y
+  composición) y las fórmulas de **producto** y **cociente** —esta última con su
+  condición *g*(*x*) ≠ 0—. **Fuera:** la actividad de aprendizaje de obtener *f*⁻¹(*x*) de
+  14 funciones (son ejercicios, no definición), las fórmulas de suma y diferencia (son la
+  misma idea que producto y cociente, sin dato propio que agregar) y los *Ejemplos* con
+  su Solución.
+- Cubierto el arranque de la página impresa **52**: el apartado **Composición de
+  funciones** completo —su definición (*g* ∘ *f*)(*x*) = *g*(*f*(*x*)) y cómo se lee ("*g*
+  aplicado a *f* de *x*")—. El resto de la página 52 y las páginas 53 a 56 son puros
+  problemas de aplicación (geometría de áreas, modelos de velocidad y corriente,
+  costos) y actividades de práctica, sin una sola definición, teorema o regla nueva.
 
-**Pendiente:** EN CURSO. **El 1.1, el 1.2, y del 1.3 los incisos a), b) y c) quedan
-CERRADOS** (pp. 8–10, 13–24, 25–41, 42–48). El **d) está EN CURSO**: cubierto hasta la
-**p.50**. Sigue desde la **p.51** con el resto de **d) función invertible y función
-inversa** hasta cerrar la Unidad 1 en la p.60. Después van la **Unidad 2**
+**Pendiente:** EN CURSO. **El 1.1, el 1.2, y del 1.3 los incisos a), b), c) y d) quedan
+CERRADOS** (pp. 8–10, 13–24, 25–41, 42–48, 49–51). Cubierto además el arranque de
+**Álgebra de funciones** hasta la **p.52**. Sigue desde la **p.57** —lo que resta de
+"Aplicaciones" son puros problemas, ya revisado hasta la p.56— hasta cerrar la Unidad 1
+en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
 es materia nueva del banco:** mientras no exista el `.md` de la Unidad 2, éste sostiene
 el pendiente de toda la materia.
@@ -2125,3 +2139,70 @@ De acuerdo con el libro de Cálculo, ¿qué sucede con la función inversa respe
 **Subtema:** Función invertible y función inversa · Qué hace la inversa
 
 "Lo que sucede con la función inversa es que a un elemento del dominio lo manda a su imagen y la función inversa lo regresa."
+
+---
+
+## Sub-lote 22 · Álgebra de funciones y composición (pp. 51-52)
+
+### 104
+
+De acuerdo con el libro de Cálculo, ¿qué operaciones se pueden realizar con dos funciones *f* y *g*?
+
+- A. Suma, diferencia, producto, cociente y composición
+- B. Suma, diferencia, producto y potenciación
+- C. Suma, resta, multiplicación y derivación
+- D. Suma, diferencia, cociente y factorización
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 51
+**Subtema:** Álgebra de funciones · Operaciones
+
+"En este tema veremos las operaciones que se pueden realizar con las siguientes funciones: suma, diferencia, producto, cociente y composición."
+
+### 105
+
+Conforme al libro de Cálculo, en el cociente de dos funciones (*f*/*g*)(*x*) = *f*(*x*)/*g*(*x*), ¿qué condición debe cumplir *g*(*x*)?
+
+- A. Ser distinto de cero
+- B. Ser mayor o igual que cero
+- C. Ser igual a cero
+- D. Ser distinto de *f*(*x*)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 51
+**Subtema:** Álgebra de funciones · Cociente
+
+"(f/g)(x) = f(x)/g(x), g(x) ≠ 0"
+
+### 106
+
+De acuerdo con el libro de Cálculo, ¿cómo se define la composición de funciones (*g* ∘ *f*)(*x*)?
+
+- A. Como *g*(*f*(*x*))
+- B. Como *f*(*g*(*x*))
+- C. Como *g*(*x*) · *f*(*x*)
+- D. Como *g*(*x*) + *f*(*x*)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 52
+**Subtema:** Composición de funciones · Definición
+
+"La composición de funciones (g ∘ f)(x) se define como g(f(x)) [...]"
+
+> Nota de revisor: el distractor B invierte el orden — es (*f* ∘ *g*)(*x*), la otra
+> composición posible con las mismas dos funciones.
+
+### 107
+
+Conforme al libro de Cálculo, ¿cómo se lee la expresión (*g* ∘ *f*)(*x*)?
+
+- A. *g* aplicado a *f* de *x*
+- B. *f* aplicado a *g* de *x*
+- C. *g* multiplicado por *f* de *x*
+- D. *g* compuesto consigo mismo en *x*
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 52
+**Subtema:** Composición de funciones · Lectura
+
+"[...] se lee, g aplicado a f de x."
