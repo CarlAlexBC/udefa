@@ -33,7 +33,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** El tema **6.1 Generalidades sobre la atmósfera** está **CERRADO** (pp. 192–195, sus dos subtemas). Del **6.2**, están **CERRADOS** el 6.2.1 La temperatura atmosférica (pp. 195–198), el 6.2.2 La presión atmosférica (pp. 199–200), el 6.2.3 Los vientos (pp. 200–204) y el 6.2.4 La humedad atmosférica (pp. 205–206). Falta el **6.2.5 La lluvia** y todo el **6.3**.
+**CERRADA.** El tema **6.1 Generalidades sobre la atmósfera** está **CERRADO** (pp. 192–195, sus dos subtemas). El **6.2 Los fenómenos meteorológicos** está **CERRADO por completo** (pp. 195–209: 6.2.1 temperatura, 6.2.2 presión, 6.2.3 vientos, 6.2.4 humedad, 6.2.5 lluvia y regímenes pluviométricos). El **6.3 El clima** está **CERRADO por completo** (pp. 210–218: 6.3.1 conceptos de tiempo y clima, 6.3.2 clasificación e importancia del clima, 6.3.3 los climas de México y 6.3.4 la contaminación atmosférica). La Unidad VI queda cerrada en la p.218; el 6.4 (regiones biogeográficas, p.219 en adelante) no lo pide el temario.
 
 - Cubierta la página impresa **192**: el arranque del **6.1.1** con el apartado **Características de la atmósfera** completo — la definición de atmósfera y su origen, la **composición** con todos sus porcentajes y la variación de la humedad, y las **cinco propiedades** (color, diatermancia, compresibilidad, elasticidad y movilidad) con el desarrollo de cada una. **La Figura 6.1 es ilustración** y no lleva reactivos. La **portadilla de la Unidad VI (p.191)** es una lámina ilustrada con el índice de la unidad y tampoco lleva reactivos.
 
@@ -57,8 +57,22 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **204**: **Las perturbaciones atmosféricas** completas — qué las origina, ciclones vs. anticiclones, ciclones tropicales (vórtice, velocidades, diámetro, denominaciones regionales) y extratropicales, y los anticiclones. **Las Figuras 6.13 y 6.14 son ilustración.**
 - Cubierta la página impresa **205**: arranca **6.2.4 La humedad atmosférica** — concepto, medición (escala de 100 grados, el higrómetro) — y **Las condensaciones atmosféricas** hasta la mitad de los 4 grupos de nubes (cirros y el arranque de cúmulos). **El recuadro de ilustrar con fotografías/recortes no lleva reactivos.**
 - Cubierta la página impresa **206**: cierran los 4 grupos de nubes (cúmulos, estratos, nimbos) y los grupos intermedios; y las otras condensaciones — niebla o neblina, rocío y escarcha o helada —, con la aclaración de que el rocío y la escarcha no son precipitaciones. **La Figura 6.15 es ilustración.**
+- Cubierta la página impresa **207**: cierra el ejercicio de apareamiento de condensaciones (no lleva reactivos) y arranca el **6.2.5 La lluvia y otras precipitaciones acuosas** — la temperatura que separa lluvia de nieve/granizo/aguanieve, los **4 tipos de lluvia** (convectivas, orográficas, frontales, ciclónicas) con sus ejemplos, y **barlovento/sotavento** con el ejemplo de la Sierra Madre Oriental (Veracruz húmedo, Puebla seco) hasta donde arrancan las lluvias frontales.
+- Cubierta la página impresa **208**: cierran las **lluvias frontales** y **ciclónicas**; la **Figura 6.16 es ilustración**; la **nieve** (formación, cristales hexagonales, conservación, nieves temporales/perpetuas), el **granizo** (tamaño récord, formación, daño agrícola) y el **aguanieve o cellisca**; arranca **Los regímenes pluviométricos** con el pluviómetro.
+- Cubierta la página impresa **209**: cierra el ejemplo de Jalapa-Enríquez, las **isoyetas** y el **régimen pluviométrico**. **El cuestionario de opción múltiple ("Ahora escribe...") no lleva reactivos.** Con esta página **cierra el 6.2 Los fenómenos meteorológicos por completo.**
+- Cubierta la página impresa **210**: **6.3.1 Conceptos de tiempo y clima** completo (definiciones de tiempo y clima, variabilidad del tiempo, carácter más estable del clima, la Climatología) con el **Cuadro 6.1** (elementos integrantes y factores del clima); arranca el **6.3.2 Clasificación e importancia del clima** con la clasificación de los antiguos griegos y el origen etimológico griego de la palabra "clima" (inclinación).
+- Cubierta la página impresa **211**: cierra el 6.3.2 — Humboldt y De Martonne, la clasificación de Köppen y sus dos deficiencias (vientos/monzones; sólo 1 de 6 toma en cuenta la altitud), la importancia del clima, y el **Cuadro 6.2** (clasificación de Köppen: A, B, C, D, E, H); arranca la lista de características de los desiertos calientes (BW) con el suelo arenoso o pedregoso.
+- Cubierta la página impresa **212**: cierra la lista de los desiertos calientes (ríos que los atraviesan: Nilo, Tigris, Éufrates, Indo; distribución de flora/fauna y de la población). **La Figura 6.18 es ilustración.**
+- Cubierta la página impresa **213**: arranca **6.3.3 Los climas de México** — Variedad climática de México, con el ejemplo de Veracruz (mayor desnivel orográfico, Pico de Orizaba 5,747 m) y el récord de 32.4°C en 88.5 km (1°C cada 2.73 km).
+- Cubierta la página impresa **214**: cierra la Variedad climática (San Jerónimo/Orizaba 36.1°C de diferencia; humedad de <40% a ~90%; lluvias de 30 mm a 5,187 mm; promedio nacional apenas superior a 700 mm; más de la mitad del territorio árido o semiárido); arranca **Principales climas de México** — la latitud del país (14°32' a 32°43'), la orografía como factor dominante, y el clima tropical lluvioso y el clima seco con sus subtipos.
+- Cubierta la página impresa **215**: cierran los principales climas de México — templado húmedo, polar de altura y vertical o de montaña, con el ejemplo de las vertientes del Pico de Orizaba. **La Figura 6.19 es ilustración.**
+- Cubierta la página impresa **216**: el **Cuadro 6.3** completo — los 11 subtipos climáticos de México (Af, Am, Aw, BS, BW, Cf, Cw, Cs, Cx', ETH, EFH) con su nombre de E. de Martonne y su localización.
+- Cubierta la página impresa **217**: **La Figura 6.20 (mapa) es ilustración**, igual que el cuestionario de resumen. Arranca **6.3.4 La contaminación atmosférica** — sus consecuencias, el neblumo/smog, las sustancias contaminantes y el ruido, la diferencia con la contaminación del suelo/subsuelo, y el arranque de la lluvia ácida (países escandinavos afectados).
+- Cubierta la página impresa **218**: cierra la lluvia ácida (carbón mineral con hasta 5% de azufre, países emisores), el apodo del aire de la Ciudad de México y su causa geográfica (cuenca lacustre cerrada), y la conclusión del tema (posibilidad de reducir la contaminación, corresponsabilidad, y la cita final sobre la naturaleza y el progreso). **Con esta página cierra la Unidad VI completa.**
 
-**Pendiente:** EN CURSO. El **6.1** (con la p.195), el **6.2.1**–**6.2.2** (pp. 195–200), el **6.2.3 Los vientos** (pp. 200–204, con las perturbaciones atmosféricas) y el **6.2.4 La humedad atmosférica** (pp. 205–206) quedaron **CERRADOS**. Sigue desde la **p.207** con el **6.2.5 La lluvia y otras precipitaciones acuosas**, y después todo el **6.3** (pp. 210–218), hasta cerrar en la **p.218**: el 6.4, que el temario no pide, empieza en la 219. **Geografía NO está cerrada:** este archivo y el de la Unidad V sostienen el pendiente de la materia.
+> **Cruce con la Unidad IV revisado:** el 4.6 de la Unidad IV cubre la contaminación ambiental en general (aire, agua, suelo); el 6.3.4 de esta unidad se enfoca en la contaminación **atmosférica** específicamente (neblumo/smog, lluvia ácida, el caso de la Ciudad de México). No se encontró reactivo duplicado entre ambos capítulos.
+
+**Pendiente:** ninguno. La Unidad VI (La Atmósfera) quedó **CERRADA por completo** el 18 ago 2026, con 270 reactivos (1–270). Con este archivo se **cierra la materia Geografía completa para la EMEFA** (las Unidades I–V ya estaban cerradas).
 
 ---
 
@@ -2875,3 +2889,1315 @@ De conformidad con el libro de Geografía, ¿por qué el rocío y la escarcha no
 **Subtema:** la humedad atmosférica · escarcha o helada
 
 "Cabe aclarar que el rocío y la escarcha no son precipitaciones, pues no caen: se forman sobre los objetos por condensación de la humedad atmosférica, debido al descenso de la temperatura."
+
+## Sub-lote 19 · La lluvia: los 4 tipos y sus ejemplos (6.2.5, pp. 207–208)
+
+### 185
+
+De acuerdo con el libro de Geografía, ¿a qué temperatura cae el agua precipitada en forma líquida (lluvia)?
+
+- A. A temperaturas superiores a 0°C
+- B. A temperaturas superiores a 10°C
+- C. A temperaturas inferiores a -3°C
+- D. A temperaturas inferiores a -17°C
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 207
+**Subtema:** la lluvia y otras precipitaciones acuosas
+
+"Si el fenómeno se produce a temperaturas superiores a 0°C, el agua cae en forma líquida (lluvia); si ocurre a temperaturas inferiores a 0°C, en forma de nieve, granizo o aguanieve."
+
+### 186
+
+Según el libro de Geografía, ¿cuántos tipos de lluvia hay, de acuerdo con los factores que provocan la condensación de la humedad atmosférica, y cuáles son?
+
+- A. 4: convectivas o de convección, orográficas o de relieve, frontales o de frente y ciclónicas
+- B. 3: convectivas, orográficas y frontales
+- C. 5: convectivas, orográficas, frontales, ciclónicas y polares
+- D. 2: convectivas y frontales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 207
+**Subtema:** la lluvia y otras precipitaciones acuosas
+
+"De acuerdo con los factores que provocan la condensación de la humedad atmosférica, hay 4 tipos de lluvia: convectivas o de convección, orográficas o de relieve, frontales o de frente y ciclónicas."
+
+### 187
+
+De conformidad con el libro de Geografía, ¿dónde se registran sobre todo las lluvias convectivas o de convección?
+
+- A. En las regiones ecuatoriales (cuencas del Amazonas y el Zaire), así como en las llanuras costeras de la República Mexicana durante el verano
+- B. Únicamente en el desierto del Sahara
+- C. En los polos, durante el invierno
+- D. En la Meseta Central Mexicana, todo el año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 207
+**Subtema:** la lluvia y otras precipitaciones acuosas · lluvias convectivas
+
+"De este tipo son las lluvias de las regiones ecuatoriales (cuencas del Amazonas y el Zaire), así como las que se registran en las llanuras costeras de la República Mexicana durante el verano."
+
+### 188
+
+En relación con el libro de Geografía, ¿cómo se producen las lluvias orográficas o de relieve?
+
+- A. En relieves de determinada altitud, cuando los vientos marinos penetran a tierra y chocan con las cadenas montañosas paralelas a la costa, elevándose y condensando la humedad que transportan
+- B. Cuando dos masas de aire de distinta temperatura y humedad chocan entre sí
+- C. Por la presencia de un ciclón
+- D. Por el descenso brusco de la presión atmosférica en las zonas costeras
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 207
+**Subtema:** la lluvia y otras precipitaciones acuosas · lluvias orográficas
+
+"Las lluvias orográficas o de relieve se producen en relieves de determinada altitud, cuando los vientos marinos penetran a tierra y chocan con las cadenas montañosas paralelas a la costa: entonces el viento se eleva, condensándose la humedad que transporta."
+
+### 189
+
+De acuerdo con el libro de Geografía, ¿cómo es la vertiente de barlovento en las cadenas montañosas donde se producen lluvias orográficas?
+
+- A. Húmeda, lluviosa y con abundante vegetación
+- B. Seca, poco lluviosa y con escasa vegetación
+- C. Fría y cubierta de nieve todo el año
+- D. Árida y sin ningún tipo de vegetación
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 207
+**Subtema:** la lluvia y otras precipitaciones acuosas · barlovento y sotavento
+
+"Las cadenas montañosas donde se produce el fenómeno presentan dos vertientes climáticas, hidrográficas y bióticas netamente diferenciadas: las de barlovento y sotavento. La primera, situada en la dirección de los vientos dominantes, es húmeda, lluviosa y con abundante vegetación."
+
+### 190
+
+Según el libro de Geografía, ¿por qué la vertiente de sotavento es seca y poco lluviosa?
+
+- A. Porque los vientos llegan a ella después de trasponer las montañas, habiendo dejado en la vertiente de barlovento la mayor parte de la humedad que transportaban
+- B. Porque está más alejada del Ecuador
+- C. Porque recibe menos horas de sol al año
+- D. Porque su suelo es de naturaleza rocosa e impermeable
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 207
+**Subtema:** la lluvia y otras precipitaciones acuosas · barlovento y sotavento
+
+"[La segunda,] situada al lado opuesto, seca, poco lluviosa y con escasa vegetación, pues los vientos llegan a ella después de trasponer las montañas, habiendo dejado en la vertiente de barlovento la mayor parte de la humedad que transportaban."
+
+### 191
+
+De conformidad con el libro de Geografía, ¿cuál es el promedio anual de precipitaciones pluviales de la vertiente oriental o de barlovento de la Sierra Madre Oriental (estado de Veracruz)?
+
+- A. Más de 1,500 mm
+- B. Menos de 800 mm
+- C. Exactamente 1,000 mm
+- D. Menos de 200 mm
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 207
+**Subtema:** la lluvia y otras precipitaciones acuosas · Sierra Madre Oriental
+
+"Lo anterior puede observarse claramente en la Sierra Madre Oriental: la vertiente oriental o de barlovento, correspondiente al estado de Veracruz, es húmeda y lluviosa, con un promedio anual de precipitaciones pluviales de más de 1,500 mm."
+
+### 192
+
+En relación con el libro de Geografía, ¿cuál es el promedio anual de lluvia de la vertiente occidental o de sotavento de la Sierra Madre Oriental (estado de Puebla)?
+
+- A. Inferior a 800 mm anuales
+- B. Superior a 1,500 mm anuales
+- C. De exactamente 1,000 mm anuales
+- D. Inferior a 200 mm anuales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 207
+**Subtema:** la lluvia y otras precipitaciones acuosas · Sierra Madre Oriental
+
+"[L]a occidental o de sotavento, correspondiente al estado de Puebla, [es] seca y poco lluviosa con un promedio anual de lluvia inferior a 800 mm anuales."
+
+### 193
+
+De acuerdo con el libro de Geografía, ¿cómo se producen las lluvias frontales o de frente, y qué tipo de lluvias son en la República Mexicana?
+
+- A. Se producen al chocar dos masas de aire de distinta temperatura y humedad; en México son las lluvias menudas y prolongadas de otoño e invierno, por el desplazamiento del frente polar
+- B. Se producen por la presencia de ciclones; en México son lluvias intensas e irregulares de verano
+- C. Se producen al elevarse la humedad atmosférica y condensarse; en México son lluvias breves de la temporada de huracanes
+- D. Se producen cuando los vientos marinos chocan con las montañas; en México son lluvias de la vertiente de barlovento
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 208
+**Subtema:** la lluvia y otras precipitaciones acuosas · lluvias frontales
+
+"Las lluvias frontales o de frente se producen al chocar dos masas de aire de distinta temperatura y grado de humedad, produciéndose la condensación de la humedad transportada por una de ellas. De este tipo son las lluvias menudas y prolongadas que se presentan en gran parte de la República Mexicana en otoño e invierno, debido al desplazamiento hacia el sur del frente polar."
+
+### 194
+
+Según el libro de Geografía, ¿por qué se caracterizan las lluvias ciclónicas?
+
+- A. Por su intensidad e irregularidad
+- B. Por ser menudas y prolongadas
+- C. Por presentarse únicamente en las regiones ecuatoriales
+- D. Por producirse sólo en invierno
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 208
+**Subtema:** la lluvia y otras precipitaciones acuosas · lluvias ciclónicas
+
+"Por último, las lluvias ciclónicas, como su nombre lo indica, son debidas a la presencia de ciclones. Se caracterizan por su intensidad e irregularidad."
+
+## Sub-lote 20 · La nieve, el granizo y el aguanieve (6.2.5, p. 208)
+
+### 195
+
+De conformidad con el libro de Geografía, ¿cómo se produce la nieve?
+
+- A. Cuando la humedad pasa directamente del estado gaseoso al sólido, a temperaturas inferiores a -17°C (su temperatura de formación equivale al 0°F)
+- B. Cuando el agua líquida se congela súbitamente al caer, a temperaturas inferiores a 0°C
+- C. Cuando el granizo se derrite parcialmente y se congela de nuevo
+- D. Cuando la humedad pasa del estado líquido al sólido a exactamente 0°C
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 208
+**Subtema:** la lluvia y otras precipitaciones acuosas · la nieve
+
+"La nieve se produce cuando la humedad pasa directamente del estado gaseoso al sólido, a temperaturas inferiores a -17°C (su temperatura de formación equivale al 0°F)."
+
+### 196
+
+En relación con el libro de Geografía, ¿cómo aparece formada la nieve, vista al microscopio?
+
+- A. Por millones de cristales hexagonales de aspecto variadísimo
+- B. Por esferas de hielo de tamaño variable
+- C. Por diminutas gotas de agua congeladas
+- D. Por copos esféricos todos idénticos entre sí
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 208
+**Subtema:** la lluvia y otras precipitaciones acuosas · la nieve
+
+"Vista al microscopio, aparece formada por millones de cristales hexagonales de aspecto variadísimo."
+
+### 197
+
+De acuerdo con el libro de Geografía, ¿en qué condición se conserva indefinidamente la nieve en el suelo, una vez caída?
+
+- A. Siempre y cuando la temperatura atmosférica se mantenga por debajo de -3°C
+- B. Siempre y cuando la temperatura atmosférica se mantenga por debajo de 0°C
+- C. Únicamente si cae en otoño
+- D. Únicamente por encima de los 3,200 m de altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 208
+**Subtema:** la lluvia y otras precipitaciones acuosas · la nieve
+
+"Una vez caída, se conserva indefinidamente en el suelo, siempre y cuando la temperatura atmosférica se mantenga por debajo de -3°C."
+
+### 198
+
+Según el libro de Geografía, ¿cómo se llama la nieve caída en otoño e invierno que no alcanza a derretirse y permanece todo el año?
+
+- A. Nieves perpetuas o permanentes
+- B. Nieves temporales
+- C. Nieves polares
+- D. Nieves eternas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 208
+**Subtema:** la lluvia y otras precipitaciones acuosas · la nieve
+
+"De la nieve caída en otoño e invierno, una parte se derrite durante la primavera y el verano: son las nieves temporales. Otra parte no alcanza a derretirse y permanece todo el año: son las nieves perpetuas o permanentes."
+
+### 199
+
+De conformidad con el libro de Geografía, ¿de qué está formado el granizo o pedrisco, y qué tamaño se ha llegado a registrar?
+
+- A. Esferas de hielo y nieve, de tamaño variable; se han registrado granizos de 13.7 cm de diámetro y 700 g de peso
+- B. Cristales hexagonales de hielo; se han registrado granizos de 5 cm de diámetro
+- C. Gotas de agua congeladas antes de llegar al suelo; sin tamaño registrado
+- D. Esferas de hielo puro, siempre del mismo tamaño (2 cm de diámetro)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 208
+**Subtema:** la lluvia y otras precipitaciones acuosas · el granizo
+
+"El granizo o pedrisco está formado por esferas de hielo y nieve, de tamaño variable (se han registrado granizos de 13.7 cm de diámetro y 700 g de peso), que caen con cierta frecuencia durante las turbonadas o tormentas eléctricas y al paso de los ciclones extratropicales."
+
+### 200
+
+En relación con el libro de Geografía, ¿cómo se relaciona la formación del granizo con las corrientes ascendentes de convección?
+
+- A. Elevan las gotas de agua hasta altitudes con temperaturas bajo 0°C, provocando su congelación
+- B. Las corrientes ascendentes derriten el granizo antes de que caiga
+- C. Las corrientes ascendentes sólo forman lluvias frontales, no granizo
+- D. No existe relación entre ambos fenómenos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 208
+**Subtema:** la lluvia y otras precipitaciones acuosas · el granizo
+
+"Su formación se relaciona con las corrientes ascendentes de convección, que elevan las gotas de agua hasta altitudes con temperaturas bajo 0°C, provocando su congelación. Es un fenómeno bastante dañino, sobre todo para la agricultura."
+
+### 201
+
+Según el libro de Geografía, ¿para qué actividad es el granizo un fenómeno bastante dañino?
+
+- A. Para la agricultura
+- B. Para la navegación aérea
+- C. Para la pesca
+- D. Para la ganadería de altura
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 208
+**Subtema:** la lluvia y otras precipitaciones acuosas · el granizo
+
+"Es un fenómeno bastante dañino, sobre todo para la agricultura."
+
+### 202
+
+De acuerdo con el libro de Geografía, ¿qué es el aguanieve o cellisca?
+
+- A. Diminutas gotas de agua congeladas antes de llegar al suelo
+- B. Esferas de hielo y nieve de gran tamaño
+- C. Cristales hexagonales de hielo formados a más de -17°C
+- D. Gotas de rocío congeladas sobre las hojas de las plantas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 208
+**Subtema:** la lluvia y otras precipitaciones acuosas · el aguanieve
+
+"Parecida a la nieve y el granizo es el aguanieve o cellisca, formada por diminutas gotas de agua congeladas antes de llegar al suelo."
+
+## Sub-lote 21 · Los regímenes pluviométricos (6.2.5, pp. 208–209)
+
+### 203
+
+De conformidad con el libro de Geografía, ¿en qué se utiliza el pluviómetro, y en qué unidades puede medirse la lluvia?
+
+- A. Para medir las precipitaciones pluviales, en milímetros, centímetros o metros (un milímetro equivale a un litro de agua por metro cuadrado de superficie)
+- B. Para medir la humedad atmosférica, en porcentaje
+- C. Para medir la presión atmosférica, en milímetros de mercurio
+- D. Para medir la velocidad del viento, en kilómetros por hora
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 208
+**Subtema:** los regímenes pluviométricos · el pluviómetro
+
+"Para medir las precipitaciones pluviales se utiliza el aparato llamado pluviómetro (medidor de la lluvia). De acuerdo con la cantidad, la lluvia puede medirse en milímetros, centímetros o metros (un milímetro equivale a un litro de agua por metro cuadrado de superficie)."
+
+### 204
+
+Según el libro de Geografía, con el agua caída anualmente en el municipio de Jalapa (152.18 km² de superficie), equivalente a 230,522,264 m³, ¿qué podría llenarse?
+
+- A. Una laguna de 1,000 m de largo, 1,000 de ancho y 230.5 de profundidad
+- B. Una laguna de 500 m de largo, 500 de ancho y 100 de profundidad
+- C. Un lago de 10 km² de superficie y 1 m de profundidad
+- D. El Valle de México por completo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 209
+**Subtema:** los regímenes pluviométricos · el pluviómetro
+
+"Con el agua caída anualmente en el municipio de Jalapa (152.18 km² de superficie), equivalente a 230,522,264 m³, podría llenarse una laguna de 1,000 ms de largo, 1,000 de ancho y 230.5 de profundidad."
+
+### 205
+
+De acuerdo con el libro de Geografía, ¿cómo se llaman las líneas que en un mapa señalan los lugares que registran la misma cantidad de precipitaciones pluviales, y qué tipos pueden ser?
+
+- A. Isoyetas; pueden ser diarias, mensuales, anuales o normales
+- B. Isotermas; pueden ser diarias, mensuales o anuales
+- C. Isobaras; pueden ser diarias o mensuales
+- D. Isohipsas; pueden ser sólo anuales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 209
+**Subtema:** los regímenes pluviométricos · las isoyetas
+
+"Se llaman isoyetas (igual lluvia) a las líneas que en un mapa señalan los lugares que registran la misma cantidad de precipitaciones pluviales. Al igual que las isotermas e isobaras, pueden ser diarias, mensuales, anuales o normales."
+
+### 206
+
+En relación con el libro de Geografía, ¿a qué se llama régimen pluviométrico, y por qué es muy grande su importancia?
+
+- A. A la relación entre el tipo, la cantidad y la distribución anual de las precipitaciones pluviales de un lugar; junto con la temperatura, es de los factores determinantes de la vida vegetal y animal
+- B. Al aparato que mide la cantidad de lluvia caída en un año
+- C. A la distribución de los tipos de nubes sobre un lugar determinado
+- D. Únicamente a la cantidad total de lluvia anual de un lugar
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 209
+**Subtema:** los regímenes pluviométricos
+
+"Se llama régimen pluviométrico a la relación existente entre el tipo, la cantidad y la distribución anual de las precipitaciones pluviales de un lugar cualquiera de la superficie terrestre. Su importancia es muy grande porque, junto con la temperatura atmosférica, es uno de los factores determinantes de la vida vegetal y animal y del desarrollo de las actividades humanas."
+
+## Sub-lote 22 · Conceptos de tiempo y clima (6.3.1, p. 210)
+
+### 207
+
+De acuerdo con el libro de Geografía, ¿qué se entiende por tiempo (meteorológico)?
+
+- A. El estado de la atmósfera en un lugar y momento determinados
+- B. El conjunto de fenómenos meteorológicos que determinan el estado promedio de la atmósfera de un lugar
+- C. La totalidad de los elementos y factores climáticos de una región
+- D. La duración de un fenómeno atmosférico específico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 210
+**Subtema:** el clima · concepto de tiempo
+
+"Entendemos por tiempo: El estado de la atmósfera en un lugar y momento determinados."
+
+### 208
+
+Según el libro de Geografía, ¿por qué característica se distingue sobre todo el tiempo (meteorológico)?
+
+- A. Por su gran variabilidad, pues cambia de un día a otro y a veces de una hora a otra
+- B. Por su gran estabilidad a lo largo del año
+- C. Por depender exclusivamente de la latitud del lugar
+- D. Por ser idéntico en todos los lugares de una misma altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 210
+**Subtema:** el clima · concepto de tiempo
+
+"El tiempo es el concepto más usado en la vida ordinaria, ya que todos podemos percibirlo y a todos nos afecta. Se caracteriza por su gran variabilidad, pues cambia de un día a otro y a veces de una hora a otra."
+
+### 209
+
+De conformidad con el libro de Geografía, ¿qué se entiende por clima?
+
+- A. El conjunto de fenómenos meteorológicos que determinan el estado promedio de la atmósfera en un lugar cualquiera de la superficie terrestre
+- B. El estado de la atmósfera en un lugar y momento determinados
+- C. La cantidad de precipitaciones pluviales registrada en un año
+- D. El promedio anual de la temperatura atmosférica de un lugar
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 210
+**Subtema:** el clima · concepto de clima
+
+"El clima puede definirse como: El conjunto de fenómenos meteorológicos que determinan el estado promedio de la atmósfera en un lugar cualquiera de la superficie terrestre."
+
+### 210
+
+En relación con el libro de Geografía, ¿qué carácter tiene el clima, en contraste con el tiempo?
+
+- A. Es dinámico y cíclico, pero tiene un carácter más estable que el tiempo
+- B. Es tan variable como el tiempo, pues cambia de una hora a otra
+- C. Es completamente estático e invariable a lo largo de los siglos
+- D. Depende únicamente de la voluntad humana, a diferencia del tiempo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 210
+**Subtema:** el clima · concepto de clima
+
+"El clima es dinámico y cíclico, pero tiene un carácter más estable que el tiempo."
+
+### 211
+
+Según el libro de Geografía, ¿cuál es la rama de la Geografía que estudia el clima?
+
+- A. La Climatología
+- B. La Meteorología
+- C. La Geomorfología
+- D. La Hidrografía
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 210
+**Subtema:** el clima · concepto de clima
+
+"En otras palabras: el clima es la totalidad de los fenómenos atmosféricos que coexisten en un lugar cualquiera de la superficie terrestre, influyendo unos sobre otros. La rama de la Geografía que lo estudia es la Climatología."
+
+### 212
+
+De acuerdo con el Cuadro 6.1 del libro de Geografía, ¿cuáles son los elementos integrantes del clima?
+
+- A. Temperatura atmosférica, presión atmosférica, vientos, humedad atmosférica y lluvia (precipitaciones pluviales)
+- B. Latitud, altitud, estaciones del año, distancia al mar y naturaleza del suelo
+- C. Temperatura atmosférica, latitud y altitud, únicamente
+- D. Vientos, lluvia y disposición de las cadenas montañosas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 210
+**Subtema:** el clima · elementos y factores del clima
+
+"Cuadro 6.1 Elementos integrantes y factores del clima. Elementos Integrantes del Clima: Temperatura atmosférica, Presión atmosférica, Vientos, Humedad atmosférica, Lluvia (precipitaciones pluviales)."
+
+### 213
+
+Según el Cuadro 6.1 del libro de Geografía, ¿cuáles son los factores que influyen sobre el clima?
+
+- A. Latitud, altitud, estaciones del año, distancia al mar, disposición de las cadenas montañosas y naturaleza del suelo, etc.
+- B. Temperatura, presión, vientos, humedad y lluvia
+- C. Únicamente la latitud y la altitud
+- D. La composición química de la atmósfera y su espesor
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 210
+**Subtema:** el clima · elementos y factores del clima
+
+"Cuadro 6.1 [...] Factores que influyen sobre el Clima: Latitud, Altitud, Estaciones del año, Distancia al mar, Disposición de las cadenas montañosas, Naturaleza del suelo, etc."
+
+## Sub-lote 23 · Clasificación e importancia del clima (6.3.2, pp. 210–211)
+
+### 214
+
+De conformidad con el libro de Geografía, ¿en qué se basó la clasificación climática más antigua, elaborada por los griegos?
+
+- A. En la estrecha relación que observaron entre la temperatura atmosférica y la inclinación del Sol en el horizonte, según la latitud
+- B. En la distribución anual de las precipitaciones pluviales
+- C. En la altitud de cada región respecto al nivel del mar
+- D. En la dirección predominante de los vientos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 210
+**Subtema:** el clima · clasificación climática
+
+"La más antigua se remonta a los griegos, quienes vivían en medio del Mar Mediterráneo, de clima predominantemente templado, y habían observado que, yendo hacia el norte, la temperatura era cada vez más baja; y que, por lo contrario, yendo hacia el sur, era cada vez más alta. [...] Como observaron la estrecha relación que había entre la temperatura atmosférica y la inclinación del Sol en el horizonte, dieron al fenómeno el nombre de clima."
+
+### 215
+
+Según el libro de Geografía, ¿qué significa la palabra clima en griego?
+
+- A. Inclinación
+- B. Temperatura
+- C. Estación
+- D. Tiempo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 210
+**Subtema:** el clima · clasificación climática
+
+"[D]ieron al fenómeno el nombre de clima, que en Griego significa precisamente «inclinación»."
+
+### 216
+
+En relación con el libro de Geografía, ¿por qué es notoriamente incompleta la clasificación climática de los antiguos griegos (fríos, templados y cálidos)?
+
+- A. Porque sólo toma en cuenta uno de los elementos del clima (la temperatura atmosférica) y olvida los otros, además de no tomar en cuenta los factores que influyen sobre el clima
+- B. Porque no distingue entre el hemisferio norte y el hemisferio sur
+- C. Porque fue elaborada antes de que existiera el pluviómetro
+- D. Porque no toma en cuenta la temperatura atmosférica
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 210
+**Subtema:** el clima · clasificación climática
+
+"Dicha clasificación -usada todavía en la vida ordinaria e incluso en libros científicos- es, sin embargo, notoriamente incompleta, pues sólo toma en cuenta uno de los elementos del clima (la temperatura atmosférica) y olvida los otros. Además, no toma en cuenta los factores que influyen sobre el clima."
+
+### 217
+
+De acuerdo con el libro de Geografía, ¿a quién se considera como el creador de la Meteorología y la Climatología modernas?
+
+- A. A Alejandro de Humboldt
+- B. A Emmanuel de Martonne
+- C. A Guillermo Köppen
+- D. A los antiguos griegos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · clasificación climática
+
+"Más precisas son las clasificaciones climáticas ideadas a partir del siglo XIX por varios autores, entre ellos Alejandro de Humboldt, considerado como el creador de la Meteorología y la Climatología modernas, y Emmanuel de Martonne."
+
+### 218
+
+Según el libro de Geografía, ¿quién elaboró una clasificación climática bastante avanzada, usada desde principios del siglo XX?
+
+- A. Emmanuel de Martonne
+- B. Alejandro de Humboldt
+- C. Guillermo Köppen
+- D. Los antiguos griegos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · clasificación climática
+
+"Emmanuel de Martonne. Este último elaboró una clasificación bastante avanzada, usada desde principios del siglo XX."
+
+### 219
+
+De conformidad con el libro de Geografía, ¿en qué basó Guillermo Köppen la clasificación climática más usada en nuestros días?
+
+- A. En la temperatura atmosférica y las precipitaciones pluviales
+- B. En la latitud y la altitud
+- C. En los vientos y la presión atmosférica
+- D. En la vegetación y el tipo de suelo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · clasificación de Köppen
+
+"Sin embargo, la clasificación climática más usada en nuestros días es la de Guillermo Köppen, quien tomó como base la temperatura atmosférica y las precipitaciones pluviales."
+
+### 220
+
+En relación con el libro de Geografía, ¿cuál es una de las deficiencias de la clasificación climática de Köppen respecto a regiones como el este, sur y sureste de Asia?
+
+- A. Que resulta poco adecuada donde los vientos y otros fenómenos meteorológicos, como los monzones, desempeñan un papel de vital importancia, pues sólo toma en cuenta la temperatura y las precipitaciones
+- B. Que no distingue entre climas fríos y climas cálidos
+- C. Que no puede aplicarse a ningún país del hemisferio sur
+- D. Que fue elaborada exclusivamente para climas de montaña
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · clasificación de Köppen
+
+"Toma como elementos básicos del clima sólo la temperatura atmosférica y las precipitaciones pluviales. Por ello resulta poco adecuada para estudiar las características climáticas de las áreas geográficas donde los vientos y otros fenómenos meteorológicos desempeñan un papel de vital importancia, como sucede en el este, sur y sureste de Asia con los monzones."
+
+### 221
+
+Según el libro de Geografía, ¿por qué es poco adecuada la clasificación de Köppen para clasificar climáticamente a un país como México?
+
+- A. Porque distribuye a los tipos climáticos tomando como factor casi exclusivo a la latitud, y sólo uno de los 6 tipos toma en cuenta la altitud, que en México tiene mayor importancia
+- B. Porque no existen en México climas tropicales ni polares
+- C. Porque México se encuentra fuera de la zona que abarca dicha clasificación
+- D. Porque Köppen nunca consideró la temperatura atmosférica en su clasificación
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · clasificación de Köppen
+
+"Distribuye a los tipos climáticos tomando como factor casi exclusivo a la latitud (sólo uno de los 6 toma en cuenta a la altitud). Por lo mismo, es poco adecuada para clasificar climáticamente a un país como México, donde la altitud tiene mayor importancia para determinar las características del clima."
+
+### 222
+
+De acuerdo con el libro de Geografía, ¿por qué es el clima el más importante de los componentes abióticos del medio geográfico?
+
+- A. Porque determina en gran medida las características de suelos, agua, flora y fauna, y por lo mismo, las actividades humanas de la superficie terrestre
+- B. Porque es el único componente abiótico que puede medirse con instrumentos
+- C. Porque determina exclusivamente el tipo de suelo de una región
+- D. Porque es el único elemento que varía de un lugar a otro
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · importancia del clima
+
+"El clima es el más importante de los componentes abióticos del medio geográfico, ya que determina en medida las características de suelos, agua, flora y fauna (y, por lo mismo, las actividades humanas) de la superficie terrestre."
+
+## Sub-lote 24 · La clasificación climática de Köppen: Cuadro 6.2 (6.3.2, p. 211)
+
+### 223
+
+De acuerdo con el Cuadro 6.2 del libro de Geografía, ¿qué promedios de temperatura y precipitaciones caracterizan al clima tropical lluvioso (letra A de Köppen)?
+
+- A. Temperaturas superiores a 18°C todos los meses del año; precipitaciones muy abundantes (en todo caso superiores a 500 mm anuales)
+- B. Temperaturas muy variables (de 18°C a 38°C); precipitaciones muy escasas e irregulares
+- C. Mes más caliente superior a 18°C y mes más frío inferior a 18°C y superior a -3°C
+- D. Temperaturas inferiores a 10°C en el mes más caliente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · clasificación de Köppen · tropical lluvioso
+
+"Cuadro 6.2 Clasificación climática de Guillermo Köppen. Tropical lluvioso (A): Promedios mensuales de temperatura superiores a 18°C todos los meses del año. Precipitaciones pluviales muy abundantes (en todo caso superiores a 500 mm anuales). Tipos de vegetación: selvas ecuatoriales, bosques tropicales y sabanas."
+
+### 224
+
+Según el Cuadro 6.2 del libro de Geografía, ¿qué vegetación corresponde al clima seco (letra B de Köppen)?
+
+- A. Muy escasa. Predominio de plantas herbáceas y cactáceas
+- B. Selvas ecuatoriales, bosques tropicales y sabanas
+- C. Bosques de clima frío o de coníferas (taigá)
+- D. Musgos, algas, líquenes. No hay árboles
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · clasificación de Köppen · seco
+
+"Seco (B): Promedios mensuales de temperatura muy variables (de 18°C a 38°C). Precipitaciones pluviales muy escasas e irregulares (inferiores a 500 mm anuales). Tipos de vegetación: muy escasa. Predominio de plantas herbáceas y cactáceas."
+
+### 225
+
+De conformidad con el Cuadro 6.2 del libro de Geografía, ¿cómo son los promedios de temperatura del clima templado húmedo (letra C de Köppen)?
+
+- A. Mes más caliente superior a 18°C; mes más frío inferior a 18°C y superior a -3°C
+- B. Mes más caliente inferior a 18°C y superior a 10°C; mes más frío inferior a 0°C
+- C. Mes más caliente inferior a 10°C; mes más frío inferior a -3°C
+- D. Superiores a 18°C todos los meses del año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · clasificación de Köppen · templado húmedo
+
+"Templado húmedo (C): Promedios mensuales de temperatura: mes más caliente superior a 18°C. Mes más frío inferior a 18°C y superior a -3°C. Precipitaciones pluviales: variables de un lugar a otro (superiores a 200 mm anuales). Nevadas ocasionales."
+
+### 226
+
+Según el Cuadro 6.2 del libro de Geografía, ¿qué tipo de vegetación corresponde al clima frío húmedo (letra D de Köppen)?
+
+- A. Bosques de clima frío o de coníferas (taigá)
+- B. Arbustos y matorrales; bosques mixtos de clima templado
+- C. Musgos, algas, líquenes; no hay árboles
+- D. Selvas ecuatoriales, bosques tropicales y sabanas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · clasificación de Köppen · frío húmedo
+
+"Frío húmedo (D): Promedios mensuales de temperatura: mes más caliente inferior a 18°C y superior a 10°C. Mes más frío inferior a 0°C. Precipitaciones pluviales: variables de un lugar a otro (de 200 a 1,000 mm anuales), gran parte en forma de nieve. Tipos de vegetación: bosques de clima frío o de coníferas (taigá)."
+
+### 227
+
+De acuerdo con el Cuadro 6.2 del libro de Geografía, ¿cómo son las precipitaciones pluviales del clima polar (letra E de Köppen)?
+
+- A. Muy escasas, casi todas en forma de nieve
+- B. Muy abundantes, en todo caso superiores a 500 mm anuales
+- C. Variables, de 200 a 1,000 mm anuales
+- D. Escasas e irregulares, inferiores a 500 mm anuales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · clasificación de Köppen · polar
+
+"Polar (E): Promedios mensuales de temperatura: mes más caliente inferior a 10°C. Mes más frío inferior a -3°C. Precipitaciones pluviales: muy escasas. Casi todas en forma de nieve. Tipos de vegetación: musgos, algas, líquenes. No hay árboles."
+
+### 228
+
+Según el Cuadro 6.2 del libro de Geografía, ¿qué caracteriza a los promedios de temperatura del clima vertical o de montaña (letra H de Köppen)?
+
+- A. Disminuyen con la altitud
+- B. Son siempre superiores a 18°C
+- C. Son muy variables, de 18°C a 38°C
+- D. Permanecen constantes en todas las altitudes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · clasificación de Köppen · vertical o de montaña
+
+"Vertical o de montaña (H): Promedios mensuales de temperatura: disminuyen con la altitud. Precipitaciones pluviales: variables de un lugar a otro. Mayores en la vertiente orientada hacia los vientos dominantes. Tipos de vegetación: distintos pisos de vegetación, de acuerdo con la altitud y la vertiente."
+
+## Sub-lote 25 · Los desiertos calientes: características (subtipo BW) (6.3.2, pp. 211–212)
+
+### 229
+
+De acuerdo con el libro de Geografía, ¿qué tipo de suelo tienen casi siempre los lugares de clima cálido y seco, o sea, los desiertos calientes (subtipo BW de Köppen)?
+
+- A. Un suelo arenoso o pedregoso
+- B. Un suelo arcilloso y fértil
+- C. Un suelo cubierto de vegetación permanente
+- D. Un suelo volcánico rico en minerales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 211
+**Subtema:** el clima · desiertos calientes
+
+"Así, los lugares de clima cálido y seco, o sea, los desiertos calientes (subtipo climático BW de Köppen): Tienen casi siempre un suelo arenoso o pedregoso."
+
+### 230
+
+Según el libro de Geografía, ¿qué ríos menciona como ejemplo de los pocos que atraviesan los desiertos calientes, provenientes de regiones húmedas y lluviosas?
+
+- A. El Nilo, el Tigris, el Éufrates y el Indo
+- B. El Amazonas, el Zaire, el Nilo y el Ganges
+- C. El Misisipi, el Colorado, el Bravo y el Balsas
+- D. El Volga, el Danubio, el Rin y el Ródano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 212
+**Subtema:** el clima · desiertos calientes
+
+"Carecen de arroyos y ríos permanentes, salvo que sean atravesados por ríos provenientes de regiones húmedas y lluviosas como el Nilo, el Tigris, el Éufrates y el Indo."
+
+### 231
+
+De conformidad con el libro de Geografía, ¿cómo están distribuidas la flora y la fauna de los desiertos calientes?
+
+- A. De manera irregular, además de presentar características especiales que les permiten adaptarse a ese medio geográfico
+- B. De manera uniforme en toda la extensión del desierto
+- C. Concentradas únicamente en la periferia del desierto
+- D. No existe flora ni fauna en los desiertos calientes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 212
+**Subtema:** el clima · desiertos calientes
+
+"Su flora y fauna están distribuidas de manera irregular, además de presentar características especiales que les permiten adaptarse a ese medio geográfico."
+
+### 232
+
+En relación con el libro de Geografía, ¿cómo se distribuye la población humana en los desiertos calientes, como consecuencia de la irregular distribución de flora y fauna?
+
+- A. De un modo bastante irregular, concentrándose a orillas de los ríos, en los oasis y en los lugares donde es posible extraer agua del subsuelo mediante pozos
+- B. De manera uniforme en toda la superficie del desierto
+- C. Únicamente en las zonas más elevadas del desierto
+- D. Concentrada exclusivamente en las costas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 212
+**Subtema:** el clima · desiertos calientes
+
+"Como consecuencia, la población humana se distribuye de un modo bastante irregular, concentrándose a orillas de los ríos, en los oasis y en los lugares donde es posible extraer agua del subsuelo mediante pozos."
+
+## Sub-lote 26 · Variedad climática de México (6.3.3, pp. 213–214)
+
+### 233
+
+De acuerdo con el libro de Geografía, ¿cuál es el estado con mayor desnivel orográfico de la República Mexicana, según el ejemplo del libro?
+
+- A. Veracruz, pues se extiende desde el nivel del mar hasta los 5,747 m del Pico de Orizaba o Citlaltépetl
+- B. Chiapas, pues se extiende desde el nivel del mar hasta el Tacaná
+- C. Puebla, pues se extiende desde el nivel del mar hasta el Popocatépetl
+- D. Oaxaca, pues se extiende desde el nivel del mar hasta la Sierra Madre del Sur
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 213
+**Subtema:** los climas de México · variedad climática
+
+"Uno de ellos lo tenemos en Veracruz, el estado con mayor desnivel orográfico de la República Mexicana, pues se extiende desde el nivel del mar hasta los 5,747 m del Pico de Orizaba o Citlaltépetl."
+
+### 234
+
+Según el libro de Geografía, de Soledad de Doblado (promedio anual de temperatura de 26.4°C) a la cima del Pico de Orizaba (-6°C), en un recorrido de 88.5 km en línea recta, ¿qué diferencia de temperatura se registra?
+
+- A. 32.4°C, o sea, 1°C cada 2.73 km de recorrido
+- B. 20°C, o sea, 1°C cada 4.4 km de recorrido
+- C. 36.1°C, o sea, 1°C cada 2.4 km de recorrido
+- D. 26.4°C, o sea, 1°C cada 3.3 km de recorrido
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 213
+**Subtema:** los climas de México · variedad climática
+
+"Citlaltépetl: de Soledad de Doblado, cuyo promedio anual de temperatura es 26.4°C, se pasa a -6°C en la cima de la montaña más alta del país, en un recorrido de tan sólo 88.5 km en línea recta. Todo un récord: una diferencia de 32.4°C, o sea, un 1°C cada 2.73 km de recorrido."
+
+### 235
+
+De conformidad con el libro de Geografía, ¿qué diferencia de temperatura significan los 30.1°C de San Jerónimo (aldea del valle del Balsas, en Michoacán) frente a los -6°C de la cima del Pico de Orizaba?
+
+- A. Una diferencia de 36.1°C
+- B. Una diferencia de 32.4°C
+- C. Una diferencia de 24.1°C
+- D. Una diferencia de 30.1°C
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 213
+**Subtema:** los climas de México · variedad climática
+
+"Las temperaturas medias normales del país varían de 30.1°C en San Jerónimo -una aldea del valle del Balsas, en el estado de Michoacán- a -6°C en la cima del Pico de Orizaba, lo cual significa una diferencia de 36.1°C."
+
+### 236
+
+Según el libro de Geografía, ¿entre qué valores varía la humedad atmosférica promedio de la República Mexicana, de un lugar a otro?
+
+- A. De menos de 40% en el valle de Mexicali (Baja California-Sonora) a casi 90% en el área limítrofe de Chiapas y Tabasco
+- B. De 10% en el desierto de Sonora a 100% en la península de Yucatán
+- C. De 50% en la Meseta Central a 70% en las costas del Pacífico
+- D. De 20% en Baja California a 60% en Veracruz
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 213-214
+**Subtema:** los climas de México · variedad climática
+
+"[L]a humedad atmosférica promedio, de menos de 40% en el valle de Mexicali (Baja California-Sonora) a casi 90% en el área limítrofe de Chiapas y Tabasco."
+
+### 237
+
+De acuerdo con el libro de Geografía, ¿de cuánto a cuánto varían las lluvias anuales entre Mexicali (Baja California) y el pueblo de Hidalgo (municipio de Tumbalá, al norte de Chiapas)?
+
+- A. De 30 mm anuales en Mexicali a 5,187 mm -casi 200 veces más- en el pueblo de Hidalgo
+- B. De 100 mm anuales en Mexicali a 2,000 mm en el pueblo de Hidalgo
+- C. De 30 mm anuales en Mexicali a 1,000 mm en el pueblo de Hidalgo
+- D. De 500 mm anuales en Mexicali a 5,187 mm en el pueblo de Hidalgo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 214
+**Subtema:** los climas de México · variedad climática
+
+"[L]as lluvias, de 30 mm anuales en Mexicali (Baja California) a 5,187 -casi 200 veces más- en el pueblo de Hidalgo (municipio de Tumbalá), al norte de Chiapas."
+
+### 238
+
+Según el libro de Geografía, ¿cuánto apenas supera el bajo promedio nacional de lluvia de la República Mexicana?
+
+- A. Los 700 mm anuales
+- B. Los 1,500 mm anuales
+- C. Los 200 mm anuales
+- D. Los 5,000 mm anuales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 214
+**Subtema:** los climas de México · variedad climática
+
+"[E]l bajo promedio nacional de lluvia, que apenas supera los 700 mm anuales; las grandes superficies áridas o semiáridas, que equivalen a más de la mitad del territorio nacional; y otros factores desfavorables, reducen notablemente las ventajas que pudieran derivarse de la gran variedad climática del país."
+
+### 239
+
+De conformidad con el libro de Geografía, ¿a qué equivalen las grandes superficies áridas o semiáridas de la República Mexicana?
+
+- A. A más de la mitad del territorio nacional
+- B. A una cuarta parte del territorio nacional
+- C. A las dos terceras partes del territorio nacional
+- D. A menos del 10% del territorio nacional
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 214
+**Subtema:** los climas de México · variedad climática
+
+"[L]as grandes superficies áridas o semiáridas, que equivalen a más de la mitad del territorio nacional."
+
+### 240
+
+Según el libro de Geografía, entre 14°32' y 32°43' de latitud norte y en medio de los océanos Atlántico y Pacífico, ¿qué factor influye mayormente en las características climáticas del territorio mexicano?
+
+- A. La orografía, más que la latitud y la posición en medio de los océanos
+- B. Exclusivamente la latitud del país
+- C. Exclusivamente la cercanía a los océanos
+- D. La naturaleza volcánica de su suelo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 214
+**Subtema:** los climas de México · principales climas de México
+
+"Dadas su situación geográfica (de 14°32' a 32°43' de latitud norte) y su posición en medio de los océanos Atlántico y Pacífico, los únicos climas de la República Mexicana -si fuera plana- serían el tropical lluvioso en el sur y el seco en el norte (letras A y B de la clasificación de Köppen). Sin embargo, más que la latitud y la posición en medio de los océanos, es la orografía la que mayormente influye en las características climáticas del territorio mexicano."
+
+## Sub-lote 27 · Los principales climas de México (6.3.3, pp. 214–215)
+
+### 241
+
+De acuerdo con el libro de Geografía, ¿dónde se localiza sobre todo el clima tropical lluvioso de México, y qué subtipos presenta?
+
+- A. En las fajas costeras, al sur del Trópico de Cáncer y a menos de 900 m de altitud (península de Yucatán, llanuras costeras del Golfo y el Pacífico, Depresión Austral); presenta 3 subtipos: Af, Am, Aw
+- B. En la Meseta Central Mexicana, entre 900 y 3,200 m de altitud; presenta 4 subtipos: Cf, Cw, Cs, Cx'
+- C. En las Llanuras Boreales y la península de Baja California; presenta 2 subtipos: BS, BW
+- D. Arriba de 3,200 m de altitud; presenta 2 subtipos: ETH, EFH
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 214
+**Subtema:** los climas de México · principales climas de México
+
+"El clima tropical lluvioso se localiza sobre todo en las fajas costeras, al sur del Trópico de Cáncer y a menos de 900 m de altitud: península de Yucatán, llanuras costeras del Golfo de México y el Océano Pacífico, Depresión Austral. Presenta 3 subtipos: Af, Am, Aw."
+
+### 242
+
+Según el libro de Geografía, ¿dónde se localiza el clima seco de México, y cuántos subtipos presenta?
+
+- A. En extensas superficies al norte del Trópico de Cáncer, tanto en las Llanuras Boreales como en la porción noroeste (Baja California, Sonora y Sinaloa); presenta 2 subtipos: BS, BW
+- B. En la Meseta Central Mexicana; presenta 4 subtipos: Cf, Cw, Cs, Cx'
+- C. En las fajas costeras al sur del Trópico de Cáncer; presenta 3 subtipos: Af, Am, Aw
+- D. Arriba de 3,200 m de altitud; presenta 2 subtipos: ETH, EFH
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 214
+**Subtema:** los climas de México · principales climas de México
+
+"El clima seco abarca extensas superficies al norte del Trópico de Cáncer, tanto en las Llanuras Boreales (Chihuahua, Coahuila, Durango, Zacatecas, San Luis Potosí, etc.) como en la porción noroeste (península de Baja California, Sonora y Sinaloa). Presenta 2 subtipos: BS, BW."
+
+### 243
+
+De conformidad con el libro de Geografía, ¿entre qué altitudes se localiza el clima templado húmedo de México, y cuántos subtipos presenta?
+
+- A. Entre 900 y 3,200 m de altitud, sobre todo en la Meseta Central Mexicana y las vertientes de las sierras; presenta 4 subtipos: Cf, Cw, Cs, Cx'
+- B. A menos de 900 m de altitud; presenta 3 subtipos: Af, Am, Aw
+- C. Arriba de 3,200 m de altitud; presenta 2 subtipos: ETH, EFH
+- D. Entre 200 y 900 m de altitud; presenta 2 subtipos: BS, BW
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 215
+**Subtema:** los climas de México · principales climas de México
+
+"El clima templado húmedo se localiza sobre todo en la Meseta Central Mexicana y las vertientes de las sierras, entre 900 y 3,200 m de altitud. Presenta 4 subtipos: Cf, Cw, Cs, Cx'."
+
+### 244
+
+Según el libro de Geografía, ¿a partir de qué altitud existe en México el clima polar de altura, y cuántos subtipos presenta?
+
+- A. Arriba de 3,200 m de altitud; presenta 2 subtipos: ETH, EFH
+- B. Arriba de 900 m de altitud; presenta 3 subtipos: Af, Am, Aw
+- C. Arriba de 2,000 m de altitud; presenta 4 subtipos: Cf, Cw, Cs, Cx'
+- D. Arriba de 5,000 m de altitud; presenta un solo subtipo: EFH
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 215
+**Subtema:** los climas de México · principales climas de México
+
+"Por razones de altitud, en México existe también un clima polar de altura, arriba de 3,200 m de altitud. Presenta 2 subtipos: ETH, EFH."
+
+### 245
+
+De acuerdo con el libro de Geografía, ¿por qué el clima vertical o de montaña abarca grandes superficies en México, teniendo en cuenta las características orográficas del país?
+
+- A. Porque las temperaturas disminuyen con la altitud y las lluvias son variables de un lugar a otro, con mayor intensidad en las vertientes orientadas hacia los vientos dominantes
+- B. Porque la temperatura aumenta con la altitud en todas las vertientes por igual
+- C. Porque las lluvias son idénticas en todas las vertientes de una misma montaña
+- D. Porque este clima sólo existe en el Pico de Orizaba
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 215
+**Subtema:** los climas de México · principales climas de México
+
+"Por último, teniendo en cuenta las características orográficas del país, se comprende fácilmente que el clima vertical o de montaña abarca grandes superficies, en las cuales las temperaturas disminuyen con la altitud y las lluvias son variables de un lugar a otro, con mayor intensidad en las vertientes orientadas hacia los vientos dominantes."
+
+### 246
+
+Según el libro de Geografía, en las vertientes oriental y occidental del Pico de Orizaba o Citlaltépetl, ¿qué clima predomina hasta los 900 m de altitud en la vertiente veracruzana?
+
+- A. Un clima tropical lluvioso
+- B. Un clima templado húmedo
+- C. Un clima polar de altura
+- D. Un clima seco estepario
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 215
+**Subtema:** los climas de México · principales climas de México
+
+"Probablemente el ejemplo más ilustrativo sean las vertientes oriental y occidental del Pico de Orizaba o Citlaltépetl: hasta 900 m de altitud predomina un clima tropical lluvioso en la vertiente veracruzana; de 900 a 3,200, un clima templado húmedo en la vertiente veracruzana y otro templado subhúmedo en la poblana; arriba de 3,200, un clima polar de altura."
+
+## Sub-lote 28 · Los subtipos climáticos de la República Mexicana: Cuadro 6.3 (6.3.3, p. 216)
+
+### 247
+
+De acuerdo con el Cuadro 6.3 del libro de Geografía, ¿dónde se localiza el subtipo climático Af (ecuatorial, tipo guineo, y subecuatorial, tipo sudanés)?
+
+- A. Llanuras costeras del Istmo (sur de Veracruz, Tabasco, norte de Chiapas), sur de la península de Yucatán
+- B. Casi todo el estado de Tamaulipas y parte de Nuevo León
+- C. Sierra Madre Occidental (Sonora, Chihuahua, Sinaloa, Durango)
+- D. Noroeste de Baja California
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 216
+**Subtema:** los climas de México · subtipos climáticos
+
+"Cuadro 6.3 Subtipos climáticos de la República Mexicana. Af: Ecuatorial (tipo guineo) y subecuatorial (tipo sudanés). Localización: Llanuras costeras del Istmo (sur de Veracruz, Tabasco, norte de Chiapas), sur de la península de Yucatán."
+
+### 248
+
+Según el Cuadro 6.3 del libro de Geografía, ¿cómo se denomina también el subtipo climático Am, localizado en casi todo el estado de Tamaulipas y parte de Nuevo León?
+
+- A. Monzónico (tipo chino)
+- B. Ecuatorial (tipo guineo)
+- C. Estepario (tipo sirio)
+- D. Mediterráneo (tipo portugués)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 216
+**Subtema:** los climas de México · subtipos climáticos
+
+"Am: Monzónico (tipo chino). [...] Localización: Casi todo el estado de Tamaulipas y parte del de Nuevo León."
+
+### 249
+
+De conformidad con el Cuadro 6.3 del libro de Geografía, ¿cómo se denomina el subtipo Aw, localizado en la península de Yucatán, las llanuras costeras de Veracruz y del Océano Pacífico, y la Depresión Austral?
+
+- A. Tropical o de sabana (tipo senegalés)
+- B. Desértico caliente (tipo sahariano)
+- C. Extremoso de montaña (tipo alpino)
+- D. Marítimo o bretón (tipo francés)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 216
+**Subtema:** los climas de México · subtipos climáticos
+
+"Aw: Tropical o de sabana (tipo senegalés). [...] Localización: Península de Yucatán, llanuras costeras de Veracruz y del Océano Pacífico (de Oaxaca a Sinaloa), Depresión Austral."
+
+### 250
+
+Según el Cuadro 6.3 del libro de Geografía, ¿cómo se denomina también el subtipo climático BS, localizado en las Llanuras Boreales y las llanuras costeras de Sonora y Sinaloa?
+
+- A. Estepario (tipo sirio)
+- B. Desértico caliente (tipo sahariano)
+- C. Mediterráneo (tipo portugués)
+- D. Subtropical de altura (tipo valle de México)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 216
+**Subtema:** los climas de México · subtipos climáticos
+
+"BS: Estepario (tipo sirio). [...] Localización: Llanuras Boreales (Chihuahua, Coahuila, Durango, Zacatecas, San Luis Potosí, etc.), llanuras costeras de Sonora y Sinaloa."
+
+### 251
+
+De acuerdo con el Cuadro 6.3 del libro de Geografía, ¿cómo se denomina el subtipo BW, localizado en la península de Baja California, el noroeste de Sonora y las Llanuras Boreales?
+
+- A. Desértico caliente (tipo sahariano)
+- B. Estepario (tipo sirio)
+- C. Frío de altura
+- D. Extremoso de montaña (tipo alpino)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 216
+**Subtema:** los climas de México · subtipos climáticos
+
+"BW: Desértico caliente (tipo sahariano). [...] Localización: Península de Baja California, noroeste de Sonora, Llanuras Boreales (Chihuahua, Coahuila, Durango, Zacatecas)."
+
+### 252
+
+Según el Cuadro 6.3 del libro de Geografía, ¿cómo se denomina también el subtipo Cf, localizado en la vertiente oriental de la Sierra Madre Oriental (San Luis Potosí, Hidalgo, Puebla, Veracruz y Oaxaca), entre 900 y 3,200 m de altitud?
+
+- A. Marítimo o bretón (por Bretaña, una región de Francia)
+- B. Subtropical de altura (tipo valle de México)
+- C. Mediterráneo (tipo portugués)
+- D. Extremoso de montaña (tipo alpino)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 216
+**Subtema:** los climas de México · subtipos climáticos
+
+"Cf: Marítimo o bretón (por Bretaña, una región de Francia). [...] Localización: Vertiente oriental de la Sierra Madre Oriental (San Luis Potosí, Hidalgo, Puebla, Veracruz y Oaxaca), entre 900 y 3,200 m de altitud."
+
+### 253
+
+De conformidad con el Cuadro 6.3 del libro de Geografía, ¿cómo se denomina el subtipo Cw, localizado en la Meseta Central Mexicana y regiones montañosas de Guerrero, Oaxaca y Chiapas, a más de 900 m de altitud?
+
+- A. Subtropical de altura (tipo valle de México)
+- B. Marítimo o bretón (tipo francés)
+- C. Mediterráneo (tipo portugués)
+- D. Monzónico (tipo chino)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 216
+**Subtema:** los climas de México · subtipos climáticos
+
+"Cw: Subtropical de altura (tipo valle de México). [...] Localización: Meseta Central Mexicana y regiones montañosas de Guerrero, Oaxaca y Chiapas, a más de 900 ms de altitud."
+
+### 254
+
+Según el Cuadro 6.3 del libro de Geografía, ¿cómo se denomina el subtipo Cs, localizado en el noroeste de Baja California?
+
+- A. Mediterráneo (tipo portugués)
+- B. Marítimo o bretón (tipo francés)
+- C. Estepario (tipo sirio)
+- D. Desértico caliente (tipo sahariano)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 216
+**Subtema:** los climas de México · subtipos climáticos
+
+"Cs: Mediterráneo (tipo portugués). [...] Localización: Noroeste de Baja California."
+
+### 255
+
+De acuerdo con el Cuadro 6.3 del libro de Geografía, ¿cómo se denomina también el subtipo Cx', localizado en la Sierra Madre Occidental (Sonora, Chihuahua, Sinaloa, Durango), a más de 900 m de altitud?
+
+- A. Extremoso de montaña (tipo alpino)
+- B. Subtropical de altura (tipo valle de México)
+- C. Frío de altura
+- D. Polar de altura (glacial)
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 216
+**Subtema:** los climas de México · subtipos climáticos
+
+"Cx': Extremoso de montaña (tipo alpino). [...] Localización: Sierra Madre Occidental (Sonora, Chihuahua, Sinaloa, Durango), a más de 900 m de altitud."
+
+### 256
+
+Según el Cuadro 6.3 del libro de Geografía, ¿en cuáles de las montañas mexicanas se localiza el subtipo climático ETH (frío de altura), de 3,200 a 4,300 m de altitud?
+
+- A. Pico de Orizaba, Popocatépetl, Iztaccíhuatl, Nevado de Toluca, Nevado de Colima, Malinche, Cofre de Perote y otras altas montañas
+- B. Únicamente en el Pico de Orizaba
+- C. En la Sierra Madre Occidental, sin importar la altitud
+- D. En la península de Baja California
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 216
+**Subtema:** los climas de México · subtipos climáticos
+
+"ETH: Frío de altura. [...] Localización: De 3,200 a 4,300 m de altitud: Pico de Orizaba, Popocatépetl, Iztaccíhuatl, Nevado de Toluca, Nevado de Colima, Malinche, Cofre de Perote y otras altas montañas."
+
+### 257
+
+De conformidad con el Cuadro 6.3 del libro de Geografía, ¿a partir de qué altitud se presenta el subtipo climático EFH (polar de altura o glacial), y dónde?
+
+- A. A más de 4,300 m de altitud, en las 6 primeras montañas de la lista anterior
+- B. A más de 3,200 m de altitud, en toda la Sierra Madre Oriental
+- C. A más de 900 m de altitud, en la Meseta Central Mexicana
+- D. A cualquier altitud, siempre que haya nieve
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 216
+**Subtema:** los climas de México · subtipos climáticos
+
+"EFH: Polar de altura (glacial). [...] Localización: A más de 4,300 m de altitud, en las 6 primeras montañas de la lista anterior."
+
+## Sub-lote 29 · La contaminación atmosférica (6.3.4, pp. 217–218)
+
+### 258
+
+De acuerdo con el libro de Geografía, ¿qué nefastas consecuencias ha causado ya la contaminación ambiental sobre la atmósfera?
+
+- A. Alteración desfavorable del clima, que se vuelve extremoso y seco; disminución e irregularidad de las precipitaciones pluviales; envenenamiento del aire con gases, humos, polvos, etc.
+- B. Únicamente la reducción del espesor de la tropósfera
+- C. Únicamente la desaparición de la capa de ozono
+- D. Un aumento generalizado de las precipitaciones pluviales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 217
+**Subtema:** la contaminación atmosférica
+
+"La irresponsable actitud humana hacia la naturaleza, en este caso hacia la atmósfera, ha causado ya (y sigue causando cada vez a mayor escala) graves modificaciones atmosféricas, con todas sus nefastas consecuencias: alteración desfavorable del clima, que se vuelve extremoso y seco; disminución e irregularidad de las precipitaciones pluviales; envenenamiento del aire con gases, humos, polvos, etc."
+
+### 259
+
+Según el libro de Geografía, ¿cómo se llama la contaminación atmosférica en Español, y cómo en Inglés?
+
+- A. Neblumo en Español; smog en Inglés
+- B. Esmog en Español; fog en Inglés
+- C. Neblina en Español; mist en Inglés
+- D. Bruma en Español; haze en Inglés
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 217
+**Subtema:** la contaminación atmosférica
+
+"La contaminación atmosférica, llamada en Español neblumo y en Inglés smog (niebla de humo), es debida sobre todo a la presencia de sustancias químicas nocivas para los seres vivos."
+
+### 260
+
+De conformidad con el libro de Geografía, además de las sustancias químicas nocivas, ¿qué otro factor contaminante del aire menciona el libro?
+
+- A. El ruido ensordecedor producido por los vehículos de combustión interna, los aparatos eléctricos de sonido, las máquinas y herramientas industriales, etc.
+- B. La radiación solar directa
+- C. El exceso de humedad atmosférica
+- D. La disminución de la presión atmosférica
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 217
+**Subtema:** la contaminación atmosférica
+
+"También figura como factor contaminante del aire el ruido ensordecedor producido por los vehículos de combustión interna, los aparatos eléctricos de sonido, las máquinas y herramientas industriales, etc."
+
+### 261
+
+En relación con el libro de Geografía, ¿en qué se diferencia la contaminación del aire de la contaminación del suelo y el subsuelo?
+
+- A. La del suelo y el subsuelo es sobre todo de carácter químico; la del aire puede ser de todos tipos: acústica, orgánica, química, radioactiva, etc.
+- B. La del aire es exclusivamente de carácter químico; la del suelo es de todos tipos
+- C. No existe ninguna diferencia entre ambas
+- D. La del suelo es acústica; la del aire es únicamente química
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 217
+**Subtema:** la contaminación atmosférica
+
+"A diferencia de la contaminación del suelo y el subsuelo, que es sobre todo de carácter químico, la del aire puede ser de todos tipos: acústica, orgánica, química, radioactiva, etc."
+
+### 262
+
+Según el libro de Geografía, ¿por qué la movilidad de la atmósfera hace que la contaminación del aire, aunque se produzca sobre todo en ciertos lugares, sea un problema mayor?
+
+- A. Porque lleva los productos contaminantes a todas partes
+- B. Porque impide que el aire se limpie jamás
+- C. Porque concentra siempre los contaminantes en el mismo lugar donde se producen
+- D. Porque sólo afecta a los grandes centros urbanos e industriales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 217
+**Subtema:** la contaminación atmosférica
+
+"Además, si bien se produce sobre todo en ciertos lugares, particularmente los grandes centros urbanos e industriales, la movilidad de la atmósfera lleva los productos contaminantes a todas partes."
+
+### 263
+
+De acuerdo con el libro de Geografía, ¿a qué países escandinavos afecta desde hace décadas la "lluvia ácida"?
+
+- A. A Noruega, Suecia y Dinamarca
+- B. A Noruega, Finlandia e Islandia
+- C. A Suecia, Finlandia y Dinamarca
+- D. A Noruega, Suecia y Finlandia
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 217
+**Subtema:** la contaminación atmosférica · lluvia ácida
+
+"Un ejemplo concreto es la 'lluvia ácida', que desde hace décadas afecta a los países escandinavos (Noruega, Suecia y Dinamarca), conocidos mundialmente por su limpieza y su profundo respeto a la naturaleza."
+
+### 264
+
+Según el libro de Geografía, ¿hasta qué porcentaje de azufre contiene el carbón mineral cuya combustión produce la lluvia ácida que afecta a Escandinavia, y en qué países se quema?
+
+- A. Hasta un 5% de azufre, en el Reino Unido, Francia, Bélgica, Holanda y Alemania
+- B. Hasta un 15% de azufre, en Rusia y Polonia
+- C. Hasta un 1% de azufre, en España e Italia
+- D. Hasta un 25% de azufre, en Estados Unidos y Canadá
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 217-218
+**Subtema:** la contaminación atmosférica · lluvia ácida
+
+"Dicha lluvia es producida sobre todo por la combustión del carbón mineral (que contiene hasta un 5% de azufre) en el Reino Unido, Francia, Bélgica, Holanda y Alemania, cuyas emisiones contaminantes son arrastradas por las brisas o vientos del oeste hacia la Península Escandinava."
+
+### 265
+
+De conformidad con el libro de Geografía, ¿cómo llamó alguien al aire de la ciudad de México, y por qué?
+
+- A. "El laboratorio más completo del mundo", por no haber sustancia que no se encuentre en él
+- B. "La cuenca más contaminada del mundo", por su cercanía a los volcanes
+- C. "El aire más limpio de América", por sus fuertes vientos
+- D. "El termómetro de la contaminación mundial", por su altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 218
+**Subtema:** la contaminación atmosférica
+
+"Otro caso es el aire de la ciudad de México, al cual alguien llamó 'el laboratorio más completo del mundo', por no haber sustancia que no se encuentre en él."
+
+### 266
+
+Según el libro de Geografía, ¿por qué el aire de la ciudad de México sólo se limpia parcialmente, debido a su situación geográfica?
+
+- A. Porque el Valle de México es en realidad una cuenca lacustre cerrada, y el aire sólo se limpia cuando soplan fuertes vientos que dispersan la masa de contaminantes
+- B. Porque se encuentra al nivel del mar, sin corrientes de aire
+- C. Porque está rodeada de selvas que retienen la humedad
+- D. Porque su altitud impide cualquier tipo de viento
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 218
+**Subtema:** la contaminación atmosférica
+
+"Debido a la situación geográfica del Valle de México, que en realidad es una cuenca lacustre cerrada, el aire sólo se limpia parcialmente cuando soplan fuertes vientos, que dispersan la masa de contaminantes; éstos, obviamente, van a contaminar otros lugares."
+
+### 267
+
+De acuerdo con el libro de Geografía, ¿qué afirma respecto a la posibilidad de resolver el problema de la contaminación ambiental?
+
+- A. Que es posible suprimir, o por lo menos reducir sustancialmente, la contaminación ambiental, pero entre más se tarde en actuar, más intenso será el daño y más difícil su rehabilitación
+- B. Que no existe ninguna solución posible para la contaminación ambiental
+- C. Que sólo el Gobierno puede resolver el problema de la contaminación
+- D. Que la contaminación ambiental se resolverá por sí sola con el tiempo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 218
+**Subtema:** la contaminación atmosférica
+
+"Es posible suprimir, o por lo menos reducir sustancialmente, la contaminación ambiental. Entre más tardemos en poner manos a la obra, más intenso será el daño causado al medio y más difícil su rehabilitación."
+
+### 268
+
+Según el libro de Geografía, ¿qué debemos hacer todos frente a la contaminación ambiental, sin esperar que otros la resuelvan?
+
+- A. Cooperar para prevenir la contaminación ambiental y no esperar que otros -el Gobierno, los empresarios, los vecinos, etc.- lo hagan todo
+- B. Confiar exclusivamente en que el Gobierno resuelva el problema
+- C. Esperar a que la tecnología resuelva la contaminación por sí sola
+- D. Mudarnos a zonas rurales para evitar el problema
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 218
+**Subtema:** la contaminación atmosférica
+
+"Todos debemos cooperar para prevenir la contaminación ambiental y no esperar que otros -el Gobierno, los empresarios, los vecinos, etc.- lo hagan todo..."
+
+### 269
+
+De conformidad con la cita del libro de Geografía sobre la contaminación ambiental, ¿qué hemos vivido creyendo sobre la naturaleza durante mucho tiempo, y qué descubrimos hoy?
+
+- A. Creímos que era un bien inagotable, gratuito y eterno; hoy descubrimos que no es inagotable, sino un bien raro, no gratuito y no eterno
+- B. Creímos que era un bien escaso y caro; hoy descubrimos que es inagotable y gratuito
+- C. Creímos que era eterna e indestructible; hoy sabemos que se regenera sola
+- D. Creímos que dependía sólo del clima; hoy sabemos que depende del ser humano
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 218
+**Subtema:** la contaminación atmosférica
+
+"«Estamos desviándonos del curso de la historia del hombre sobre la Tierra. Hemos vivido mucho tiempo con la idea de que la naturaleza era un bien inagotable, gratuito y eterno. Hoy descubrimos por el contrario que la naturaleza no es un bien inagotable, sino un bien raro; no gratuito y sí cada vez más caro de proteger; y no eterno, sino temporal.»"
+
+### 270
+
+Según la cita del libro de Geografía, ¿qué se nos ha enseñado fundamentalmente desde hace dos siglos, y frente a lo cual debemos adoptar una posición contraria?
+
+- A. El culto al progreso científico y técnico, la creencia en las ventajas de la urbanización y el fervor por el progreso industrial
+- B. El respeto absoluto a la naturaleza y el rechazo a toda forma de industria
+- C. La necesidad de vivir exclusivamente del campo, sin tecnología
+- D. La superioridad del ser humano sobre los demás seres vivos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 218
+**Subtema:** la contaminación atmosférica
+
+"«Debemos, pues, adoptar una posición contraria a todo lo que se nos ha enseñado fundamentalmente desde hace dos siglos: el culto al progreso científico y técnico, la creencia en las ventajas de la urbanización y el fervor por el progreso industrial.»"
