@@ -1,10 +1,11 @@
 # Español · Bloque 4 · Prototipos textuales
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al **libro**,
-> no a una escuela. El Bloque 4 lo pide la **EMMG** (`ESP-02-2026`, subtema
-> 4.1 Prototipos textuales de la redacción). Las líneas `**Referencia:**` y
-> `**Subtema:**` de cada reactivo son la llave con que el temario los llama; se
-> reutilizan sin duplicarlos.
+> no a una escuela. El Bloque 4 lo piden la **EMMG** (`ESP-02-2026`, subtema 4.1
+> Prototipos textuales de la redacción) y la **EMT** (`ESP-03-2026`, subtemas 4.1
+> **y 4.3** Propiedades particulares de los prototipos textuales). Las líneas
+> `**Referencia:**` y `**Subtema:**` de cada reactivo son la llave con que cada
+> temario los llama; se reutilizan sin duplicarlos.
 
 ## Libro
 
@@ -17,24 +18,33 @@ habitual de Patria (portada 4ª = interior "3ª ebook").
 
 **Desfase de páginas:** la hoja del PDF va **25 adelante** de la página impresa
 (hoja 114 = página impresa 89). Confirmado; igual que en los Bloques 1 y 3. Las
-páginas de las referencias se leyeron de la hoja, no se calcularon.
+páginas de las referencias se leyeron de la hoja, no se calcularon. El desfase
+de 4.3 (hoja 126 = página impresa 101) se verificó aparte en el escaneo propio
+de la EMT (`TALLER DE REDACCION 2021.pdf`), no en el de la EMMG: mismo +25.
 
 ## Alcance del temario
 
 Bloque 4 "Prototipos textuales". La **EMMG** (`ESP-02-2026`) pide únicamente el
-subtema **4.1 Prototipos textuales de la redacción** (pp. 89–99). Los subtemas
-**4.2 Combinaciones de diferentes prototipos textuales** (p. 100) y **4.3
-Propiedades particulares de los prototipos textuales** (p. 101) no los pide su
-temario y quedan fuera.
+subtema **4.1 Prototipos textuales de la redacción** (pp. 89–99). La **EMT**
+(`ESP-03-2026`) pide 4.1 y además el subtema **4.3 Propiedades particulares de
+los prototipos textuales** (p. 101, una sola página; el resto de la p. 102 es
+actividad de evaluación del bloque, sin contenido de examen). El subtema **4.2
+Combinaciones de diferentes prototipos textuales** (p. 100) no lo pide ningún
+temario y queda fuera.
 
 El subtema 4.1 explica los seis prototipos textuales: la descripción, la
-narración, la argumentación, la exposición, el diálogo y la conversación.
+narración, la argumentación, la exposición, el diálogo y la conversación. El
+subtema 4.3 explica, para esos mismos seis prototipos, sus características o
+propiedades particulares (más allá de las cinco propiedades generales que debe
+tener todo texto).
 
 ## Cobertura actual
 
-Cubierto por completo el subtema 4.1 (pp. 89–99). Con esto **el Bloque 4 queda
-cerrado para la EMMG**, y con él la materia **Español queda cerrada para la EMMG**
-(Bloques 1, 2, 3 y 4).
+Cubierto por completo el subtema 4.1 (pp. 89–99) y el subtema 4.3 (p. 101). Con
+esto **el Bloque 4 queda cerrado para la EMMG** (con 4.1) **y para la EMT** (con
+4.1 y 4.3), y con él la materia **Español queda cerrada para la EMMG** (Bloques
+1, 2, 3 y 4) **y para la EMT** (Bloques 1, 2, 3, 4 y 6 — todo lo que pide su
+temario `ESP-03-2026`, que no incluye Bloque 5 ni Bloque 7).
 
 **Pendiente:** ninguno.
 
@@ -779,4 +789,173 @@ Una muletilla es una voz o frase que se repite mucho por hábito. Las muletillas
 
 ---
 
-**Reactivos en este archivo:** 47
+## Sub-lote 8 · Propiedades particulares de los prototipos textuales (4.3, p. 101)
+
+### 48
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, además de las cinco propiedades generales que debe poseer todo texto, ¿qué posee cada uno de los prototipos textuales?
+
+- A. Sus propias características o propiedades particulares
+- B. Una intención comunicativa distinta a la de los demás
+- C. Un lenguaje exclusivamente literario
+- D. Una estructura externa idéntica a la de los demás
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** propiedades particulares de los prototipos textuales
+
+Además de las cinco propiedades generales que debe poseer todo texto, cada uno de los prototipos que hemos explicado posee sus características o propiedades particulares.
+
+### 49
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué predomina en las descripciones, y qué debe incluir una descripción?
+
+- A. Predomina el uso de adjetivos; debe incluir tanto aspectos o rasgos externos como internos
+- B. Predomina el uso de verbos; debe incluir únicamente rasgos externos
+- C. Predomina el uso de conectores lógicos; debe incluir únicamente rasgos internos
+- D. Predomina el uso de guiones largos; no debe incluir rasgos internos
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** propiedades particulares de los prototipos textuales
+
+En las descripciones predomina el uso de adjetivos. Una descripción debe incluir tanto aspectos o rasgos externos como aspectos o rasgos internos de la persona, animal o cosa que se está describiendo.
+
+### 50
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué predomina en las narraciones, y por qué?
+
+- A. Predomina el uso de verbos, ya que su intención comunicativa es relatar algún acontecimiento
+- B. Predomina el uso de adjetivos, ya que su intención es describir un lugar
+- C. Predomina el uso de guiones largos, ya que su intención es dialogar
+- D. Predomina el uso de conectores lógicos, ya que su intención es argumentar
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** propiedades particulares de los prototipos textuales
+
+En las narraciones predomina el uso de verbos, ya que su intención comunicativa es relatar algún acontecimiento.
+
+### 51
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué es importante en las narraciones?
+
+- A. La rapidez, el movimiento, el suspenso y la sorpresa
+- B. La cohesión de las ideas y la fuerza de la fundamentación
+- C. La claridad del contenido y la secuencia
+- D. La naturalidad y la espontaneidad
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** propiedades particulares de los prototipos textuales
+
+En este tipo de textos es importante la rapidez, el movimiento, el suspenso y la sorpresa.
+
+### 52
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, además del relato de las acciones, ¿qué puede incluir una narración?
+
+- A. La descripción de los personajes y la explicación del ambiente o situación en que se desarrolla la acción
+- B. La argumentación a favor de una idea
+- C. Los apoyos didácticos y una conclusión
+- D. El uso de guiones largos y comillas
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** propiedades particulares de los prototipos textuales
+
+Una narración puede incluir, además del relato de las acciones, tanto la descripción de los personajes como la explicación del ambiente o situación en que se desarrolla la acción.
+
+### 53
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué es lo más importante en la argumentación?
+
+- A. La cohesión de las ideas, la fuerza de la fundamentación, la coherencia y la adecuación al auditorio
+- B. La rapidez, el movimiento, el suspenso y la sorpresa
+- C. La claridad del contenido y el uso de apoyos didácticos
+- D. La interacción entre las personas y la naturalidad
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** propiedades particulares de los prototipos textuales
+
+En la argumentación, lo más importante es la cohesión de las ideas, la fuerza de la fundamentación, la coherencia y la adecuación al auditorio.
+
+### 54
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué tipos de argumentos pueden incluir los textos argumentativos?
+
+- A. Argumentos lógicos (deductivos), convincentes (inductivos) y persuasivos
+- B. Argumentos narrativos, descriptivos y dialógicos
+- C. Argumentos denotativos y connotativos
+- D. Argumentos formales e informales
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** propiedades particulares de los prototipos textuales
+
+Estos textos pueden incluir argumentos lógicos (deductivos), convincentes (inductivos) y persuasivos.
+
+### 55
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué es lo más importante en las exposiciones?
+
+- A. La claridad del contenido, así como la secuencia, coherencia y adecuación del mismo
+- B. La cohesión de las ideas y la fuerza de la fundamentación
+- C. La rapidez, el movimiento, el suspenso y la sorpresa
+- D. La corrección en el uso del lenguaje
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** propiedades particulares de los prototipos textuales
+
+En las exposiciones, lo más importante es la claridad del contenido, así como la secuencia, coherencia y adecuación del mismo.
+
+### 56
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué debe incluir una buena exposición?
+
+- A. Una introducción, un desarrollo y un cierre o conclusión, con apoyos didácticos para facilitar la comprensión
+- B. Únicamente una introducción y una conclusión
+- C. Únicamente un desarrollo, con el uso de guiones largos
+- D. Únicamente el uso de adjetivos calificativos
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** propiedades particulares de los prototipos textuales
+
+Una buena exposición incluye una introducción, un desarrollo y un cierre o conclusión. Es importante el uso de apoyos didácticos para facilitar la comprensión de las ideas.
+
+### 57
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué es lo importante en los diálogos, y qué es propio de estos textos?
+
+- A. La interacción entre las personas, la naturalidad, la espontaneidad y la significatividad de sus palabras; es propio el uso de guiones largos
+- B. La claridad del contenido y el uso de apoyos didácticos; es propio el uso de comillas
+- C. La cohesión de las ideas; es propio el uso de conectores lógicos
+- D. La rapidez y el suspenso; es propio el uso de adjetivos calificativos
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** propiedades particulares de los prototipos textuales
+
+En los diálogos lo importante es la interacción entre las personas, la naturalidad, la espontaneidad y la significatividad de sus palabras. Es propio de estos textos el uso de guiones largos.
+
+### 58
+
+De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué es lo más importante en las conversaciones?
+
+- A. La adecuación a las personas y a la situación, así como la corrección en el uso del lenguaje
+- B. La rapidez, el movimiento, el suspenso y la sorpresa
+- C. La cohesión de las ideas y la fuerza de la fundamentación
+- D. El uso exclusivo de guiones largos
+
+**Respuesta:** A
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 101
+**Subtema:** propiedades particulares de los prototipos textuales
+
+Por último, en las conversaciones, lo más importante es la adecuación a las personas y a la situación, así como la corrección en el uso del lenguaje.
+
+---
+
+**Reactivos en este archivo:** 58
