@@ -920,7 +920,7 @@ De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué ejemplos de 
 - D. Noticias, crónicas y reportajes únicamente
 
 **Respuesta:** A
-**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 173
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 174
 **Subtema:** clasificación de los textos expositivos
 
 Algunos ejemplos de este tipo de textos son los siguientes: diccionarios y enciclopedias, libros de texto, monografías, conferencias, revistas, periódicos, etc.
@@ -935,7 +935,7 @@ De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuál es la final
 - D. Narrar sucesos que le ocurrieron al autor o a otras personas
 
 **Respuesta:** A
-**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 173
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 174
 **Subtema:** clasificación de los textos expositivos
 
 Los textos especializados tienen como finalidad hacer llegar a un público especializado cierta información técnica o científica que, para comprenderla, requiere de conocimientos previos.
@@ -950,7 +950,7 @@ De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿qué ejemplos de 
 - D. Noticias, crónicas y reportajes
 
 **Respuesta:** A
-**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 173
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 174
 **Subtema:** clasificación de los textos expositivos
 
 Algunos ejemplos de este tipo de textos son los siguientes: reportes de investigación, artículos de investigación científica, libros de leyes, etc.
@@ -965,7 +965,7 @@ De acuerdo con el libro de Taller de Lectura y Redacción 1, desde el punto de v
 - D. Formales e informales
 
 **Respuesta:** A
-**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 173
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 174
 **Subtema:** clasificación de los textos expositivos
 
 Desde el punto de vista de su contenido, los textos expositivos pueden ser históricos, periodísticos y científicos.
@@ -980,7 +980,7 @@ De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuál es la final
 - D. Convencer a otros de la verdad de una idea
 
 **Respuesta:** A
-**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 173
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 174
 **Subtema:** clasificación de los textos expositivos
 
 Los textos históricos tienen como finalidad dar a conocer los hechos pasados relacionados con una persona, una comunidad, un país, una época.
@@ -995,7 +995,7 @@ De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuál es la final
 - D. Persuadir al lector de la verdad de una idea
 
 **Respuesta:** A
-**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 173
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 174
 **Subtema:** clasificación de los textos expositivos
 
 Los textos periodísticos tienen como finalidad dar a conocer las noticias recientes relacionadas con personas, comunidades o países que puedan ser de interés para sus lectores.
@@ -1010,7 +1010,7 @@ De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cuál es la final
 - D. Hacer llegar información al público en general
 
 **Respuesta:** A
-**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 173
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 174
 **Subtema:** clasificación de los textos expositivos
 
 Los textos científicos tienen como finalidad dar a conocer los avances del conocimiento (ideas, teorías y conceptos) relacionados con una disciplina específica.
@@ -1025,7 +1025,7 @@ De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿dentro de qué ti
 - D. Dentro de los textos divulgativos, porque se dirigen al público en general
 
 **Respuesta:** A
-**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 173
+**Referencia:** Zarzar Charur, Carlos (2017) *Taller de Lectura y Redacción 1*, Grupo Editorial Patria, Pág. 174
 **Subtema:** clasificación de los textos expositivos
 
 La mayoría de los textos expositivos que se solicitan en la escuela caen dentro de este tipo de textos [los científicos]. Por eso, los textos expositivos escolares los ubicamos dentro de los textos científicos.
