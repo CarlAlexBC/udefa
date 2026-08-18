@@ -4,8 +4,8 @@
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El Capítulo IV lo piden varios temarios que citan
-> este mismo Baldor 4ª ed. 2019 — entre ellos el del **HCM** (`ALG-02-2026`) y el
-> de la **EME** (`ÁLGE-03-2026`). Si mañana otra carrera pide el mismo libro y
+> este mismo Baldor 4ª ed. 2019 — entre ellos el del **HCM** (`ALG-02-2026`), el
+> de la **EME** (`ÁLGE-03-2026`) y el de la **EMT** (`ÁLGEBRA-04-2026`). Si mañana otra carrera pide el mismo libro y
 > capítulo, se reutilizan estos reactivos sin duplicarlos. Las líneas
 > `**Referencia:**` y `**Subtema:**` de cada reactivo son la llave con que el
 > temario los manda a llamar.

@@ -6,8 +6,9 @@
 > **libro**, no a una escuela. El Capítulo X lo piden los temarios de la **EMM**,
 > la **EMO** y la **EMOS** (código `ALGE-04-2026`), que reclaman de este Baldor 4ª
 > ed. 2019 los capítulos I, II, III, IV, V, VIII, **X**, XVIII, XX y XXIV (la EMOS
-> además el XXV). La **EME** (`ÁLGE-03-2026`) sólo llega hasta el VIII y el **HCM**
-> (`ALG-02-2026`) hasta el VI, así que ninguno de esos dos lo pide. Las líneas
+> además el XXV), y también la **EMT** (`ÁLGEBRA-04-2026`: I, II, III, IV, V, VIII,
+> **X**, XVIII, XX y XXIV). La **EME** (`ÁLGE-03-2026`) sólo llega hasta el VIII y el
+> **HCM** (`ALG-02-2026`) hasta el VI, así que ninguno de esos dos lo pide. Las líneas
 > `**Referencia:**` y `**Subtema:**` de cada reactivo son la llave con que el
 > temario los manda a llamar.
 

@@ -4,10 +4,11 @@
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. El Capítulo XX lo piden los temarios de la **EMM**,
-> la **EMO** y la **EMOS** (código `ALGE-04-2026`). La **EME** (`ÁLGE-03-2026`) sólo
-> llega hasta el VIII y el **HCM** (`ALG-02-2026`) hasta el VI, así que ninguno de
-> esos dos lo pide. Las líneas `**Referencia:**` y `**Subtema:**` de cada reactivo
-> son la llave con que el temario los manda a llamar.
+> la **EMO** y la **EMOS** (código `ALGE-04-2026`), y también la **EMT**
+> (`ÁLGEBRA-04-2026`). La **EME** (`ÁLGE-03-2026`) sólo llega hasta el VIII y el
+> **HCM** (`ALG-02-2026`) hasta el VI, así que ninguno de esos dos lo pide. Las
+> líneas `**Referencia:**` y `**Subtema:**` de cada reactivo son la llave con que
+> el temario los manda a llamar.
 
 ## Libro
 

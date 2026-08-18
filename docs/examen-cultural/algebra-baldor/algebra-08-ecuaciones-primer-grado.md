@@ -3,11 +3,12 @@
 **Libro:** Baldor · *Álgebra* (Patria, 4ª ed. 2019) · **Capítulo VIII. Ecuaciones enteras de primer grado con una incógnita → COMPLETO**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
-> **libro**, no a una escuela. El Capítulo VIII lo pide el temario de la **Escuela
+> **libro**, no a una escuela. El Capítulo VIII lo piden el temario de la **Escuela
 > Militar de Enfermería (EME)** (`ÁLGE-03-2026`), que reclama de este mismo Baldor
-> 4ª ed. 2019 los capítulos I, II, III, IV, V y **VIII**. El temario del **HCM**
-> (`ALG-02-2026`), en cambio, **NO pide este capítulo**: llega sólo hasta el
-> Capítulo VI. Si mañana otra carrera pide el mismo libro y capítulo, se
+> 4ª ed. 2019 los capítulos I, II, III, IV, V y **VIII**, y el de la **EMT**
+> (`ÁLGEBRA-04-2026`, capítulos I, II, III, IV, V, **VIII**, X, XVIII, XX y XXIV). El
+> temario del **HCM** (`ALG-02-2026`), en cambio, **NO pide este capítulo**: llega
+> sólo hasta el Capítulo VI. Si mañana otra carrera pide el mismo libro y capítulo, se
 > reutilizan estos reactivos sin duplicarlos. Las líneas `**Referencia:**` y
 > `**Subtema:**` de cada reactivo son la llave con que el temario los manda a
 > llamar.
