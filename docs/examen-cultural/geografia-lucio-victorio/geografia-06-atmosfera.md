@@ -33,7 +33,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** El tema **6.1 Generalidades sobre la atmósfera** está **CERRADO** (pp. 192–195, sus dos subtemas). El **6.2.1 La temperatura atmosférica** (pp. 195–198) y el **6.2.2 La presión atmosférica** (pp. 199–200) también están **CERRADOS**. Falta el resto del **6.2** (6.2.3 Los vientos, 6.2.4 La humedad atmosférica, 6.2.5 La lluvia) y todo el **6.3**.
+**EN CURSO.** El tema **6.1 Generalidades sobre la atmósfera** está **CERRADO** (pp. 192–195, sus dos subtemas). Del **6.2**, están **CERRADOS** el 6.2.1 La temperatura atmosférica (pp. 195–198), el 6.2.2 La presión atmosférica (pp. 199–200), el 6.2.3 Los vientos (pp. 200–204) y el 6.2.4 La humedad atmosférica (pp. 205–206). Falta el **6.2.5 La lluvia** y todo el **6.3**.
 
 - Cubierta la página impresa **192**: el arranque del **6.1.1** con el apartado **Características de la atmósfera** completo — la definición de atmósfera y su origen, la **composición** con todos sus porcentajes y la variación de la humedad, y las **cinco propiedades** (color, diatermancia, compresibilidad, elasticidad y movilidad) con el desarrollo de cada una. **La Figura 6.1 es ilustración** y no lleva reactivos. La **portadilla de la Unidad VI (p.191)** es una lámina ilustrada con el índice de la unidad y tampoco lleva reactivos.
 
@@ -51,7 +51,14 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **199**: **6.2.2 La presión atmosférica** completo hasta la distribución de zonas — el peso del aire (1.293 g/litro), la presión al nivel del mar (1 kg/cm²), los cuatro factores (altitud con el ejemplo Veracruz/Jalapa-Enríquez/CDMX, temperatura, humedad con las cifras 1.295 g/0.805 g, estaciones del año), los barómetros, las isobaras, y la definición de zonas ciclónicas/anticiclónicas y qué provoca cada una (lluvia vs. aridez).
 - Cubierta la página impresa **200**: cierra la distribución mundial de las **7 zonas convectivas** (3 ciclónicas y 4 anticiclónicas, a 0°, 30°, 60° y 90° de latitud) con el detalle de cada una, y por qué esa distribución es determinante para vientos, perturbaciones y lluvias. **El cuestionario Verdadero/Falso no lleva reactivos.** Arranca el **6.2.3 Los vientos** con la definición de viento, calma/convección y perturbaciones atmosféricas — se corta a media frase en "la formación, dirección e intensidad de los vientos se rigen por 3 leyes fundamentales:", que sigue en la p.201.
 
-**Pendiente:** EN CURSO. El **6.1** (con la p.195) y el **6.2.1**–**6.2.2** (pp. 195–200) quedaron **CERRADOS**. Sigue desde la **p.201** con las **3 leyes de los vientos** (6.2.3, se corta a media frase en la p.200), luego **6.2.4 La humedad atmosférica** (p.205), **6.2.5 La lluvia y otras precipitaciones acuosas** (p.207), y después todo el **6.3** (pp. 210–218), hasta cerrar en la **p.218**: el 6.4, que el temario no pide, empieza en la 219. **Geografía NO está cerrada:** este archivo y el de la Unidad V sostienen el pendiente de la materia.
+- Cubierta la página impresa **201**: cierran las **3 leyes de los vientos** (Ley de Buys Ballot, Ley de Stephenson y la desviación por rotación terrestre, sin nombre propio en el libro), los aparatos de medición (veletas, anemoscopios, anemómetros) y arranca la **Clasificación de los vientos** (planetarios/continentales/locales) con los **vientos planetarios** hasta la mitad de los **alisios**. **La Figura 6.10 es ilustración.**
+- Cubierta la página impresa **202**: cierran los **alisios** (importancia para México, denominación por hemisferio), los **contralisios**, los **vientos del oeste** y los **vientos polares**; arranca el **6.2.3 c) vientos continentales** con las **brisas marino-terrales** y el inicio de los **monzones**. **Las Figuras 6.11 y 6.12 son ilustración.**
+- Cubierta la página impresa **203**: cierran los **monzones** y los **vientos irregulares o locales** (el simún y el norte). **El cuestionario de repaso ("¿Qué tanto recuerdas...?") no lleva reactivos.**
+- Cubierta la página impresa **204**: **Las perturbaciones atmosféricas** completas — qué las origina, ciclones vs. anticiclones, ciclones tropicales (vórtice, velocidades, diámetro, denominaciones regionales) y extratropicales, y los anticiclones. **Las Figuras 6.13 y 6.14 son ilustración.**
+- Cubierta la página impresa **205**: arranca **6.2.4 La humedad atmosférica** — concepto, medición (escala de 100 grados, el higrómetro) — y **Las condensaciones atmosféricas** hasta la mitad de los 4 grupos de nubes (cirros y el arranque de cúmulos). **El recuadro de ilustrar con fotografías/recortes no lleva reactivos.**
+- Cubierta la página impresa **206**: cierran los 4 grupos de nubes (cúmulos, estratos, nimbos) y los grupos intermedios; y las otras condensaciones — niebla o neblina, rocío y escarcha o helada —, con la aclaración de que el rocío y la escarcha no son precipitaciones. **La Figura 6.15 es ilustración.**
+
+**Pendiente:** EN CURSO. El **6.1** (con la p.195), el **6.2.1**–**6.2.2** (pp. 195–200), el **6.2.3 Los vientos** (pp. 200–204, con las perturbaciones atmosféricas) y el **6.2.4 La humedad atmosférica** (pp. 205–206) quedaron **CERRADOS**. Sigue desde la **p.207** con el **6.2.5 La lluvia y otras precipitaciones acuosas**, y después todo el **6.3** (pp. 210–218), hasta cerrar en la **p.218**: el 6.4, que el temario no pide, empieza en la 219. **Geografía NO está cerrada:** este archivo y el de la Unidad V sostienen el pendiente de la materia.
 
 ---
 
@@ -1819,3 +1826,1052 @@ De acuerdo con el libro de Geografía, ¿en qué es determinante la distribució
 **Subtema:** fenómenos meteorológicos · zonas ciclónicas y anticiclónicas
 
 "La distribución mundial de las citadas zonas ciclónicas y anticiclónicas es determinante en la formación, dirección e intensidad de los vientos y perturbaciones atmosféricas, así como en la presentación e intensidad de las lluvias, como veremos más adelante."
+
+## Sub-lote 12 · Las leyes y la medición de los vientos (6.2.3, p. 201)
+
+### 116
+
+De acuerdo con el libro de Geografía, ¿qué establece la Ley de Buys Ballot sobre los vientos?
+
+- A. Que soplan siempre de las áreas de alta presión hacia las áreas de baja presión atmosférica
+- B. Que soplan siempre de las áreas de baja presión hacia las áreas de alta presión atmosférica
+- C. Que su velocidad está en razón directa a la diferencia de presión de los dos puntos entre los cuales soplan
+- D. Que son desviados por el movimiento de rotación terrestre
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · leyes de los vientos
+
+"Soplan siempre de las áreas de alta presión hacia las áreas de baja presión atmosférica (Ley de Buys Ballot)."
+
+### 117
+
+De conformidad con el libro de Geografía, ¿qué establece la Ley de Stephenson sobre los vientos?
+
+- A. Que su velocidad está en razón directa a la diferencia de presión de los dos puntos entre los cuales soplan
+- B. Que soplan siempre de las áreas de alta presión hacia las de baja presión
+- C. Que su velocidad está en razón inversa a la diferencia de presión de los dos puntos entre los cuales soplan
+- D. Que son desviados hacia la izquierda en el Hemisferio Boreal
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · leyes de los vientos
+
+"Su velocidad está en razón directa a la diferencia de presión de los dos puntos entre los cuales soplan (Ley de Stephenson)."
+
+### 118
+
+En relación con el libro de Geografía, ¿cómo son desviados los vientos por el movimiento de rotación terrestre?
+
+- A. En el Hemisferio Boreal, hacia la derecha de su punto de partida; en el Meridional, hacia la izquierda
+- B. En el Hemisferio Boreal, hacia la izquierda de su punto de partida; en el Meridional, hacia la derecha
+- C. En ambos hemisferios, siempre hacia la derecha de su punto de partida
+- D. En ambos hemisferios, siempre hacia la izquierda de su punto de partida
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · leyes de los vientos
+
+"Son desviados por el movimiento de rotación terrestre: en el Hemisferio Boreal hacia la derecha de su punto de partida; en el Meridional, hacia la izquierda."
+
+### 119
+
+De acuerdo con el libro de Geografía, ¿qué aparatos se utilizan para medir la dirección y velocidad de los vientos?
+
+- A. Veletas, anemoscopios y anemómetros
+- B. Termómetros, barómetros e higrómetros
+- C. Isobaras, isotermas y anemómetros
+- D. Veletas, barómetros y termómetros
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · medición de los vientos
+
+"Para medir la dirección y velocidad de los vientos se utilizan los aparatos llamados veletas, anemoscopios y anemómetros."
+
+### 120
+
+De conformidad con el libro de Geografía, ¿desde cuándo se han usado las veletas, y cómo es su uso en nuestros días?
+
+- A. Desde la antigüedad; en nuestros días su uso es limitado
+- B. Desde el siglo XX; en nuestros días su uso es generalizado
+- C. Desde la antigüedad; en nuestros días ya no se usan
+- D. Desde el siglo XIX; en nuestros días su uso es limitado
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · medición de los vientos
+
+"Las veletas han sido usadas desde la antigüedad para señalar la dirección del viento. En nuestros días su uso es limitado."
+
+### 121
+
+En relación con el libro de Geografía, ¿qué son los anemoscopios y dónde se usan?
+
+- A. Observadores del viento, más precisos que las veletas, usados en los aeropuertos y otros lugares donde es indispensable conocer al instante la dirección del viento
+- B. Medidores del viento, usados para medir su intensidad mediante copas semiesféricas
+- C. Medidores de la humedad, usados en los aeropuertos
+- D. Observadores de la presión atmosférica, usados en las costas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · medición de los vientos
+
+"Más precisos que las veletas son los anemoscopios (observadores del viento), usados en los aeropuertos y otros lugares donde es indispensable conocer al instante la dirección del viento."
+
+### 122
+
+De acuerdo con el libro de Geografía, ¿qué son los anemómetros y de qué constan esencialmente?
+
+- A. Los mejores aparatos para medir la intensidad del viento; constan esencialmente de varias copas semiesféricas colocadas en los extremos de varillas
+- B. Los mejores aparatos para medir la dirección del viento; constan esencialmente de una flecha giratoria
+- C. Aparatos para medir la humedad atmosférica; constan de un higrómetro
+- D. Aparatos para medir la presión atmosférica; constan de un tubo de mercurio
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · medición de los vientos
+
+"Los anemómetros (medidores del viento) son los mejores aparatos para medir la intensidad del viento. Constan esencialmente de varias copas semiesféricas colocadas en los extremos de varillas, que, al ser activadas por el viento transmiten su movimiento a un medidor eléctrico situado en la parte inferior de una barra vertical."
+
+## Sub-lote 13 · Clasificación de los vientos: los vientos planetarios (6.2.3, pp. 201–202)
+
+### 123
+
+De acuerdo con el libro de Geografía, según sus características y el espacio que abarcan, ¿en qué se clasifican los vientos?
+
+- A. En planetarios, continentales y locales
+- B. En ciclónicos y anticiclónicos
+- C. En tropicales y extratropicales
+- D. En regulares e irregulares únicamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · clasificación de los vientos
+
+"De acuerdo con sus características y el espacio que abarcan, los vientos se clasifican en planetarios, continentales y locales."
+
+### 124
+
+De conformidad con el libro de Geografía, ¿qué son los vientos planetarios, también llamados constantes o regulares?
+
+- A. Los que soplan todo el año en la misma dirección, si bien su velocidad varía de una estación a otra
+- B. Los que soplan sólo en ciertas épocas del año y en determinados lugares
+- C. Los que soplan del mar a la tierra en una parte del día y de la tierra al mar en la otra
+- D. Los que se producen por la combinación de la convección y el viento
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · vientos planetarios
+
+"Los vientos planetarios, llamados también constantes o regulares, soplan todo el año en la misma dirección, si bien su velocidad varía de una estación a otra."
+
+### 125
+
+En relación con el libro de Geografía, ¿con qué están relacionadas la formación y dirección de los vientos planetarios?
+
+- A. Con la distribución de las zonas ciclónicas y anticiclónicas
+- B. Con la distribución de las condensaciones atmosféricas
+- C. Con la latitud y la altitud únicamente
+- D. Con el movimiento de rotación terrestre únicamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · vientos planetarios
+
+"Su formación y dirección están relacionadas con la distribución de las zonas ciclónicas y anticiclónicas, que vimos en el subtema 6.2.2."
+
+### 126
+
+De acuerdo con el libro de Geografía, ¿cuáles son los vientos planetarios más conocidos e importantes?
+
+- A. Los alisios, los contralisios, los vientos o brisas del oeste y los vientos polares
+- B. Las brisas marino-terrales y los monzones
+- C. El simún y el norte
+- D. Los alisios y los monzones únicamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · vientos planetarios
+
+"Los más conocidos e importantes son los alisios, los contralisios, los vientos o brisas del oeste y los vientos polares."
+
+### 127
+
+De conformidad con el libro de Geografía, ¿dónde se originan los alisios, y en qué capas circulan?
+
+- A. Se originan aproximadamente a 30° de latitud norte y sur, en las zonas de calmas descendentes subtropicales; circulan en las capas inferiores de la atmósfera, a menos de 3 km de altitud
+- B. Se originan hacia 10° de latitud, en la zona de calmas ascendentes ecuatoriales; circulan en las partes altas de la tropósfera, entre 3 y 5 km
+- C. Se originan en las regiones polares; circulan por encima de los 60 km de altitud
+- D. Se originan a 60° de latitud, en las zonas de calmas ascendentes subpolares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · alisios
+
+"Los alisios se originan aproximadamente a 30° de latitud norte y sur, o sea, en las zonas de calmas descendentes subtropicales. Circulan en las capas inferiores de la atmósfera, a menos de 3 km de altitud."
+
+### 128
+
+En relación con el libro de Geografía, ¿hacia dónde se dirigen los alisios, y qué origina su llegada allí?
+
+- A. Se dirigen a las regiones ecuatoriales, donde se calientan y ascienden, dando origen a las calmas ascendentes ecuatoriales
+- B. Se dirigen a las regiones subpolares, donde se elevan, dando origen a las calmas ascendentes subpolares
+- C. Se dirigen a las regiones polares, donde chocan con los vientos polares
+- D. Se dirigen hacia 30° de latitud, dando origen a las calmas descendentes subtropicales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · alisios
+
+"[...] y se dirigen a las regiones ecuatoriales, donde se calientan y ascienden, dando origen a las calmas ascendentes ecuatoriales."
+
+### 129
+
+De acuerdo con el libro de Geografía, ¿por qué son de importancia fundamental los alisios para la República Mexicana, en particular para la vertiente del Golfo de México?
+
+- A. Porque a ellos se debe aproximadamente el 75% de las precipitaciones pluviales que recibe el país
+- B. Porque a ellos se debe aproximadamente el 50% de las precipitaciones pluviales que recibe el país
+- C. Porque impiden el paso de los ciclones tropicales hacia el Golfo de México
+- D. Porque regulan la temperatura de la vertiente del Golfo de México
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201
+**Subtema:** los vientos · alisios
+
+"Son de importancia fundamental para la República Mexicana, en particular la vertiente del Golfo de México, pues a ellos se debe aproximadamente el 75% de las precipitaciones pluviales que recibe el país."
+
+### 130
+
+De conformidad con el libro de Geografía, ¿qué denominación reciben los alisios según el rumbo de donde provienen, en el Hemisferio Boreal y en el Meridional?
+
+- A. En el Hemisferio Boreal, alisios del noreste; en el Meridional, del sureste
+- B. En el Hemisferio Boreal, alisios del sureste; en el Meridional, del noreste
+- C. En ambos hemisferios reciben la misma denominación: alisios del norte
+- D. En el Hemisferio Boreal, alisios del oeste; en el Meridional, del este
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 201–202
+**Subtema:** los vientos · alisios
+
+"Dado el rumbo de donde provienen, en el Hemisferio Boreal reciben la denominación de alisios del noreste y en el Meridional, del sureste."
+
+### 131
+
+En relación con el libro de Geografía, ¿dónde se originan los contralisios, y en qué circulan?
+
+- A. Se originan hacia 10° de latitud norte y sur, en la zona de calmas ascendentes ecuatoriales; circulan en las partes altas de la tropósfera, entre los 3 y 5 km de altitud
+- B. Se originan a 30° de latitud, en las zonas de calmas descendentes subtropicales; circulan en las capas inferiores, a menos de 3 km
+- C. Se originan en las regiones polares; circulan por encima de la estratósfera
+- D. Se originan a 60° de latitud, en las proximidades de los círculos polares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 202
+**Subtema:** los vientos · contralisios
+
+"Los contralisios se originan hacia 10° de latitud norte y sur, o sea, en la zona de calmas ascendentes ecuatoriales. Circulan en las partes altas de la tropósfera, entre los 3 y 5 km de altitud."
+
+### 132
+
+De acuerdo con el libro de Geografía, ¿por qué reciben su nombre los contralisios, y qué origina el aire que mueven al descender hacia 30° de latitud?
+
+- A. Circulan en sentido contrario de los alisios (de allí su nombre); el aire que mueven desciende hacia 30° de latitud, dando origen a las calmas descendentes subtropicales
+- B. Circulan en el mismo sentido que los alisios; el aire que mueven origina las calmas ascendentes ecuatoriales
+- C. Soplan en dirección contraria a la rotación terrestre; originan el frente polar
+- D. Circulan en sentido contrario a los vientos polares; originan las calmas ascendentes subpolares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 202
+**Subtema:** los vientos · contralisios
+
+"[...] en sentido contrario de los alisios (de allí su nombre). El aire que mueven desciende hacia 30° de latitud norte y sur, dando origen a las calmas descendentes subtropicales."
+
+### 133
+
+De conformidad con el libro de Geografía, ¿dónde se originan los vientos o brisas del oeste, y hacia dónde se dirigen?
+
+- A. Se originan aproximadamente a 30° de latitud norte y sur, las mismas zonas donde se originan los alisios; se dirigen a las regiones subpolares y se elevan al llegar a 60° de latitud
+- B. Se originan a 60° de latitud; se dirigen hacia el Ecuador
+- C. Se originan en las regiones polares; se dirigen hacia 30° de latitud
+- D. Se originan a 10° de latitud; se dirigen hacia las regiones ecuatoriales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 202
+**Subtema:** los vientos · vientos del oeste
+
+"Los vientos o brisas del oeste se originan aproximadamente a 30° de latitud norte y sur, o sea, en las mismas zonas donde se originan los alisios. Se dirigen a las regiones subpolares y se elevan al llegar a 60° de latitud, dando origen a las calmas ascendentes subpolares."
+
+### 134
+
+En relación con el libro de Geografía, ¿de dónde soplan los vientos polares, y cómo se llama la zona donde chocan con las brisas del oeste al llegar a 60° de latitud?
+
+- A. Soplan del Polo Norte hacia el sur y del Polo Sur hacia el norte; esa zona recibe la denominación de frente polar
+- B. Soplan del Ecuador hacia los polos; esa zona recibe la denominación de calmas ascendentes subpolares
+- C. Soplan del Polo Norte hacia el sur y del Polo Sur hacia el norte; esa zona recibe la denominación de calmas descendentes subtropicales
+- D. Soplan de 30° de latitud hacia los polos; esa zona se llama frente ecuatorial
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 202
+**Subtema:** los vientos · vientos polares
+
+"Por último, los vientos polares soplan del Polo Norte hacia el sur y del Polo Sur hacia el norte. Al llegar a 60° de latitud chocan con las brisas del oeste; la zona donde eso sucede recibe la denominación de frente polar."
+
+## Sub-lote 14 · Vientos continentales e irregulares (6.2.3, pp. 202–203)
+
+### 135
+
+De acuerdo con el libro de Geografía, ¿qué son los vientos continentales, también llamados periódicos o intermitentes, y por qué reciben ese nombre?
+
+- A. Son los que en una parte del día o del año soplan del mar a la tierra y en la otra de la tierra al mar
+- B. Son los que soplan todo el año en la misma dirección, con velocidad variable
+- C. Son los que sólo se producen en ciertas épocas del año y en determinados lugares
+- D. Son los que se originan por la combinación de la convección y el viento
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 202
+**Subtema:** los vientos · vientos continentales
+
+"Los vientos continentales, llamados también periódicos o intermitentes (pues en una parte del día o del año soplan del mar a la tierra y en la otra de la tierra al mar), son producidos por las diferencias de temperatura y presión existentes entre las tierras emergidas y los océanos."
+
+### 136
+
+De conformidad con el libro de Geografía, ¿cuáles son los vientos continentales más conocidos e importantes?
+
+- A. Las brisas marino-terrales y los monzones
+- B. Los alisios y los contralisios
+- C. El simún y el norte
+- D. Los vientos del oeste y los vientos polares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 202
+**Subtema:** los vientos · vientos continentales
+
+"Los más conocidos e importantes son las brisas marino-terrales y los monzones."
+
+### 137
+
+En relación con el libro de Geografía, ¿cuándo se producen las brisas marinas, y por qué?
+
+- A. Durante el día, al calentarse la tierra más que el mar, ésta se convierte en una zona de baja presión que atrae al aire situado sobre el mar
+- B. Durante la noche, al calentarse el mar más que la tierra, éste se convierte en una zona de baja presión
+- C. Durante el día, al enfriarse la tierra más que el mar, ésta se convierte en una zona de alta presión
+- D. Durante la noche, al enfriarse el mar más que la tierra, éste se convierte en una zona de alta presión
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 202
+**Subtema:** los vientos · brisas marino-terrales
+
+"Las brisas marino-terrales se producen diariamente en las áreas costeras. Durante el día, al calentarse la tierra más que el mar, se convierte en una zona de baja presión que atrae al aire situado sobre el mar, produciéndose las brisas marinas."
+
+### 138
+
+De acuerdo con el libro de Geografía, ¿qué ocurre durante la noche con las brisas marino-terrales?
+
+- A. Se invierte el fenómeno: la tierra se enfría más rápidamente que el mar y se convierte en una zona de alta presión, produciéndose las brisas terrales
+- B. Se mantiene el mismo fenómeno del día, sólo que con menor intensidad
+- C. La tierra se calienta más rápidamente que el mar, produciéndose de nuevo las brisas marinas
+- D. Cesan por completo las brisas hasta el amanecer
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 202
+**Subtema:** los vientos · brisas marino-terrales
+
+"Durante la noche se invierte el fenómeno: la tierra se enfría más rápidamente que el mar y se convierte en una zona de alta presión, produciéndose las brisas terrales."
+
+### 139
+
+De conformidad con el libro de Geografía, ¿qué significa la palabra monzón, y qué son los monzones?
+
+- A. Palabra árabe que significa estación; son vientos periódicos que en una época del año soplan del mar a la tierra
+- B. Palabra árabe que significa viento; son vientos constantes que soplan todo el año
+- C. Palabra griega que significa lluvia; son precipitaciones acuosas periódicas
+- D. Palabra árabe que significa calma; son vientos irregulares y locales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 202
+**Subtema:** los vientos · monzones
+
+"Los monzones (palabra árabe que significa estación) son vientos periódicos que en una época del año (verano y otoño) soplan del mar a la tierra, atraídos por las bajas presiones que las elevadas temperaturas provocan en tierra."
+
+### 140
+
+En relación con el libro de Geografía, ¿en qué época del año soplan los monzones del mar a la tierra, y en cuál de la tierra al mar?
+
+- A. Del mar a la tierra en verano y otoño; de la tierra al mar en invierno y primavera
+- B. Del mar a la tierra en invierno y primavera; de la tierra al mar en verano y otoño
+- C. Del mar a la tierra todo el año, sin variación estacional
+- D. De la tierra al mar todo el año, sin variación estacional
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 202–203
+**Subtema:** los vientos · monzones
+
+"[...] soplan del mar a la tierra; y en otra (invierno y primavera), de la tierra al mar, al invertirse las condiciones atmosféricas."
+
+### 141
+
+De acuerdo con el libro de Geografía, ¿dónde es más notoria la influencia de los monzones?
+
+- A. En el este, sur y sureste de Asia, desde Corea y Japón hasta la India
+- B. En el norte de África y la Península Arábiga
+- C. En Centroamérica y el Caribe
+- D. En Europa Occidental y el Mediterráneo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 203
+**Subtema:** los vientos · monzones
+
+"Existen en todos los continentes, pero su influencia es más notoria en el este, sur y sureste de Asia, desde Corea y Japón hasta la India."
+
+### 142
+
+De conformidad con el libro de Geografía, ¿por qué figuran los monzones entre los vientos más importantes del mundo?
+
+- A. Porque su alternancia es determinante para el cultivo del arroz, cereal básico en la alimentación de más de 3,000 millones de personas
+- B. Porque su alternancia es determinante para el cultivo del trigo, cereal básico en la alimentación de más de 1,000 millones de personas
+- C. Porque impiden el paso de los ciclones tropicales hacia Asia
+- D. Porque regulan la temperatura de todo el continente asiático
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 203
+**Subtema:** los vientos · monzones
+
+"Figuran entre los vientos más importantes del mundo, pues su alternancia es determinante para el cultivo del arroz, cereal básico en la alimentación de más de 3,000 millones de personas."
+
+### 143
+
+En relación con el libro de Geografía, ¿qué son los vientos irregulares o locales?
+
+- A. Aquéllos que sólo se producen en ciertas épocas del año y en determinados lugares, debido a las condiciones particulares de los mismos
+- B. Aquéllos que soplan todo el año en la misma dirección
+- C. Aquéllos que soplan del mar a la tierra en una parte del día y de la tierra al mar en la otra
+- D. Aquéllos que se originan por la combinación de la convección y el viento en cualquier lugar del mundo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 203
+**Subtema:** los vientos · vientos irregulares
+
+"Por último, los vientos irregulares o locales son aquéllos que sólo se producen en ciertas épocas del año y en determinados lugares, debido a las condiciones particulares de los mismos."
+
+### 144
+
+De acuerdo con el libro de Geografía, ¿de acuerdo con qué pueden ser calientes o fríos los vientos irregulares o locales?
+
+- A. De acuerdo con su temperatura
+- B. De acuerdo con su velocidad
+- C. De acuerdo con la estación del año en que soplan
+- D. De acuerdo con la latitud en que se originan
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 203
+**Subtema:** los vientos · vientos irregulares
+
+"De acuerdo con su temperatura pueden ser calientes o fríos."
+
+### 145
+
+De conformidad con el libro de Geografía, ¿qué es el simún?
+
+- A. Un viento caliente y seco del Sáhara
+- B. Un viento frío que procede de Canadá
+- C. Un viento caliente y húmedo del Mar Caribe
+- D. Un viento frío del Círculo Polar Ártico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 203
+**Subtema:** los vientos · vientos irregulares
+
+"Entre ellos figuran: el simún, viento caliente y seco del Sáhara."
+
+### 146
+
+En relación con el libro de Geografía, ¿qué es el norte, de dónde procede y en qué estaciones sopla?
+
+- A. Un viento frío que procede de Canadá, atraviesa Estados Unidos de América y llega al Golfo de México, que sopla durante el otoño y el invierno
+- B. Un viento caliente que procede del Sáhara y llega hasta Europa, que sopla durante el verano
+- C. Un viento frío que procede de Siberia y llega hasta Asia Oriental, que sopla durante la primavera
+- D. Un viento caliente que procede del Golfo de México y llega hasta Canadá, que sopla durante el verano y el otoño
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 203
+**Subtema:** los vientos · vientos irregulares
+
+"[...] y el norte, viento frío que procede de Canadá, atraviesa Estados Unidos de América y llega al Golfo de México, que sopla durante el otoño y el invierno."
+
+## Sub-lote 15 · Las perturbaciones atmosféricas: ciclones y anticiclones (6.2.3, p. 204)
+
+### 147
+
+De acuerdo con el libro de Geografía, ¿qué da lugar a las perturbaciones atmosféricas?
+
+- A. La combinación de la convección y el viento
+- B. La combinación de la humedad y la presión
+- C. La combinación de la latitud y la altitud
+- D. La combinación de la temperatura y la nubosidad
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 204
+**Subtema:** los vientos · perturbaciones atmosféricas
+
+"La combinación de la convección y el viento da lugar a las perturbaciones atmosféricas, en donde el aire se mueve en espiral, al mismo tiempo que se desplaza horizontalmente sobre la superficie terrestre."
+
+### 148
+
+De conformidad con el libro de Geografía, ¿cuál es la diferencia entre los ciclones y los anticiclones según el movimiento en espiral del aire?
+
+- A. Si el movimiento en espiral es de abajo hacia arriba, se tienen los ciclones; si es de arriba hacia abajo, los anticiclones
+- B. Si el movimiento en espiral es de arriba hacia abajo, se tienen los ciclones; si es de abajo hacia arriba, los anticiclones
+- C. Los ciclones se mueven siempre en sentido horizontal; los anticiclones, en sentido vertical
+- D. No hay diferencia en el movimiento; sólo difieren en la temperatura del aire
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 204
+**Subtema:** los vientos · ciclones y anticiclones
+
+"Si el movimiento en espiral es de abajo hacia arriba, se tienen los ciclones; si es de arriba hacia abajo, los anticiclones."
+
+### 149
+
+En relación con el libro de Geografía, de acuerdo con las zonas climáticas en que se producen, ¿en qué pueden ser los ciclones?
+
+- A. Tropicales y extratropicales
+- B. Planetarios y continentales
+- C. Regulares e irregulares
+- D. Ascendentes y descendentes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 204
+**Subtema:** los vientos · ciclones tropicales
+
+"De acuerdo con las zonas climáticas en que se producen, los ciclones pueden ser tropicales y extratropicales."
+
+### 150
+
+De acuerdo con el libro de Geografía, ¿entre qué latitudes se producen los ciclones tropicales, y dónde se origina la zona de baja presión que les da lugar?
+
+- A. Entre los 10° y 30° de latitud, en mares calurosos, donde el aire caliente se eleva dando origen a una zona de baja presión
+- B. Entre los 30° y 60° de latitud, en mares fríos, donde el aire frío desciende dando origen a una zona de alta presión
+- C. Entre los 60° y 90° de latitud, en las regiones polares
+- D. Entre 0° y 10° de latitud, en la faja ecuatorial exclusivamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 204
+**Subtema:** los vientos · ciclones tropicales
+
+"Los ciclones tropicales se producen entre los 10° y 30° de latitud, en mares calurosos, donde el aire caliente se eleva dando origen a una zona de baja presión."
+
+### 151
+
+De conformidad con el libro de Geografía, ¿cómo se llama el centro de un ciclón tropical, y qué reina en él?
+
+- A. Vórtice u ojo del ciclón; en él reina la calma
+- B. Frente polar; en él reinan los vientos más intensos
+- C. Vórtice u ojo del ciclón; en él los vientos alcanzan velocidades superiores a 120 km/h
+- D. Zona de alta presión; en ella reina la aridez
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 204
+**Subtema:** los vientos · ciclones tropicales
+
+"[...] en el centro, llamado vórtice u ojo del ciclón, reina la calma, mientras en la periferia los vientos alcanzan velocidades superiores a 120 km por hora."
+
+### 152
+
+En relación con el libro de Geografía, en un ciclón tropical, ¿a qué velocidad se desplaza horizontalmente, y qué diámetro puede tener?
+
+- A. Se desplaza relativamente lento, de 10 a 15 km por hora; su diámetro varía de 300 a 1,000 km
+- B. Se desplaza muy rápido, de 100 a 150 km por hora; su diámetro varía de 30 a 100 km
+- C. Se desplaza relativamente lento, de 10 a 15 km por hora; su diámetro varía de 1,000 a 1,500 km
+- D. Se desplaza a más de 120 km por hora; su diámetro es siempre de 1,000 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 204
+**Subtema:** los vientos · ciclones tropicales
+
+"Su desplazamiento horizontal es relativamente lento: de 10 a 15 km por hora. Su diámetro varía de 300 a 1,000 km."
+
+### 153
+
+De acuerdo con el libro de Geografía, ¿qué denominaciones reciben los ciclones tropicales de acuerdo con los lugares donde se producen?
+
+- A. Huracanes en el Mar Caribe, elefantas en la India, tifones en el Mar de China, baguíos en Filipinas, willi-willies en Australia
+- B. Tifones en el Mar Caribe, huracanes en la India, baguíos en el Mar de China
+- C. Willi-willies en el Mar Caribe, huracanes en Australia
+- D. Elefantas en Filipinas, baguíos en la India, tifones en Australia
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 204
+**Subtema:** los vientos · ciclones tropicales
+
+"De acuerdo con los lugares donde se producen, los ciclones tropicales reciben diferentes denominaciones: huracanes en el Mar Caribe, elefantas en la India, tifones en el Mar de China, baguíos en Filipinas, willi-willies en Australia, etc."
+
+### 154
+
+De conformidad con el libro de Geografía, ¿dónde se forman los ciclones extratropicales?
+
+- A. En las zonas templadas, cerca de los 60°, donde chocan las brisas del oeste con los vientos polares
+- B. En las zonas ecuatoriales, cerca de los 10°, en mares calurosos
+- C. En las zonas subtropicales, cerca de los 30°, donde se originan los alisios
+- D. En las regiones polares, cerca de los 90°
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 204
+**Subtema:** los vientos · ciclones extratropicales
+
+"Los ciclones extratropicales se forman en las zonas templadas, cerca de los 60°, donde chocan las brisas del oeste con los vientos polares."
+
+### 155
+
+En relación con el libro de Geografía, comparados con los ciclones tropicales, ¿cómo es el diámetro de los ciclones extratropicales y cómo son sus efectos?
+
+- A. Su diámetro es mayor (hasta 1,500 km), pero sus efectos son poco notables dada su baja intensidad
+- B. Su diámetro es menor (hasta 100 km), pero sus efectos son más intensos
+- C. Su diámetro es igual, pero sus efectos son mucho más notables
+- D. Su diámetro es mayor (hasta 1,500 km) y sus efectos son igual de intensos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 204
+**Subtema:** los vientos · ciclones extratropicales
+
+"Su diámetro es mayor que el de los ciclones tropicales (hasta 1,500 km), pero sus efectos son poco notables dada su baja intensidad."
+
+### 156
+
+De acuerdo con el libro de Geografía, ¿qué son los anticiclones, y qué ocurre en ellos con el aire?
+
+- A. El fenómeno contrario a los ciclones; en ellos el aire desciende en espiral de las partes altas de la tropósfera a la superficie terrestre
+- B. El mismo fenómeno que los ciclones, pero de menor intensidad; en ellos el aire asciende en espiral
+- C. Perturbaciones exclusivas de las zonas tropicales; en ellos el aire se mantiene inmóvil
+- D. El fenómeno contrario a los ciclones; en ellos el aire asciende en espiral desde la superficie
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 204
+**Subtema:** los vientos · anticiclones
+
+"Los anticiclones, como su nombre lo indica, son el fenómeno contrario a los ciclones: en ellos el aire desciende en espiral de las partes altas de la tropósfera a la superficie terrestre."
+
+### 157
+
+De conformidad con el libro de Geografía, ¿hacia qué latitudes se producen los anticiclones, y en relación con qué zonas?
+
+- A. Hacia 30° y 90° de latitud, en relación con las zonas anticiclónicas del subtema 6.2.2
+- B. Hacia 10° y 60° de latitud, en relación con las zonas ciclónicas del subtema 6.2.2
+- C. Únicamente hacia 90° de latitud, en las regiones polares
+- D. Hacia 0° y 30° de latitud, en la faja ecuatorial
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 204
+**Subtema:** los vientos · anticiclones
+
+"Se producen hacia 30° y 90° de latitud, en relación con las zonas anticiclónicas que vimos en el subtema 6.2.2."
+
+### 158
+
+En relación con el libro de Geografía, ¿por qué los anticiclones dan lugar a un tiempo seco y despejado, y con qué coinciden precisamente las regiones desérticas más extensas de la Tierra?
+
+- A. Porque no arrastran humedad ni forman nubes; las regiones desérticas más extensas coinciden con las zonas anticiclónicas, sobre todo las de 30° de latitud
+- B. Porque arrastran mucha humedad que se precipita de inmediato; las regiones desérticas coinciden con las zonas ciclónicas
+- C. Porque el aire asciende rápidamente formando nubes; las regiones desérticas coinciden con el Ecuador
+- D. Porque están siempre asociados a los ciclones tropicales; las regiones desérticas coinciden con las costas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 204
+**Subtema:** los vientos · anticiclones
+
+"Como no arrastran humedad ni forman nubes, dan lugar a un tiempo seco y despejado: las regiones desérticas más extensas de la Tierra coinciden precisamente con las zonas anticiclónicas, sobre todo las de 30° de latitud."
+
+## Sub-lote 16 · La humedad atmosférica: concepto y medición (6.2.4, p. 205)
+
+### 159
+
+De acuerdo con el libro de Geografía, ¿qué se llama humedad atmosférica?
+
+- A. Al vapor de agua presente en la atmósfera
+- B. A la lluvia y demás precipitaciones acuosas
+- C. A la cantidad de nubes presentes en la atmósfera
+- D. A la diferencia de temperatura entre el día y la noche
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · concepto
+
+"Se llama humedad atmosférica al vapor de agua presente en la atmósfera."
+
+### 160
+
+De conformidad con el libro de Geografía, ¿de dónde proviene el vapor de agua presente en la atmósfera?
+
+- A. Del agua de los océanos, mares, golfos, ríos, lagos, lagunas, pantanos, etc., que por acción del calor solar pasa del estado líquido al gaseoso
+- B. Únicamente del agua de los océanos, por acción de la presión atmosférica
+- C. De las condensaciones atmosféricas, que por acción del frío pasan del estado gaseoso al líquido
+- D. Únicamente de la transpiración de las plantas y los seres vivos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · concepto
+
+"Dicho vapor proviene del agua de los océanos, mares, golfos, ríos, lagos, lagunas, pantanos, etc., que por acción del calor solar pasa del estado líquido al gaseoso."
+
+### 161
+
+En relación con el libro de Geografía, ¿dónde es normalmente más alto el grado de humedad, y dentro de los continentes dónde es mayor?
+
+- A. Es más alto en los mares que en los continentes; dentro de éstos, es mayor en las regiones costeras que en las alejadas del mar
+- B. Es más alto en los continentes que en los mares; dentro de éstos, es mayor en las regiones alejadas del mar
+- C. Es igual en mares y continentes, sin variación por la distancia al mar
+- D. Es más alto en las regiones polares que en las ecuatoriales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · concepto
+
+"Por ello el grado de humedad es normalmente más alto en los mares que en los continentes y en éstos es mayor en las regiones costeras que en las alejadas del mar."
+
+### 162
+
+De acuerdo con el libro de Geografía, ¿qué tan limitada es la cantidad de vapor de agua que puede contener la atmósfera?
+
+- A. Cuando mucho un 4% de su peso
+- B. Cuando mucho un 21% de su peso
+- C. Cuando mucho un 75% de su peso
+- D. No tiene límite: puede contener toda la que reciba
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · concepto
+
+"La cantidad de vapor de agua que puede contener la atmósfera es limitada (cuando mucho un 4% de su peso)."
+
+### 163
+
+De conformidad con el libro de Geografía, ¿qué es el límite de saturación, y qué ocurre más allá de él?
+
+- A. El punto hasta el cual la atmósfera puede retener vapor de agua según su temperatura y presión; más allá de él, la humedad excedente pasa al estado líquido, dando origen a las condensaciones atmosféricas y las manifestaciones pluviales
+- B. El punto en que la atmósfera pierde toda su humedad; más allá de él, se forman los vientos irregulares
+- C. La cantidad mínima de vapor de agua que puede contener la atmósfera
+- D. El punto en que la temperatura atmosférica deja de influir sobre la presión
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · concepto
+
+"De acuerdo con su temperatura y presión, puede retener vapor de agua hasta llegar a un punto llamado límite de saturación, más allá del cual la humedad excedente pasa al estado líquido, dando origen a las condensaciones atmosféricas y las manifestaciones pluviales."
+
+### 164
+
+En relación con el libro de Geografía, ¿con qué escala se mide la humedad atmosférica, y qué indican el 0 y el 100 de dicha escala?
+
+- A. Una escala de 100 grados; 0 indica ausencia absoluta de humedad y 100 el límite de saturación
+- B. Una escala de 100 grados; 0 indica el límite de saturación y 100 la ausencia absoluta de humedad
+- C. La misma escala centígrada usada para la temperatura
+- D. Una escala de 1,000 milibarios, igual que la presión atmosférica
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · medición
+
+"Para medir la humedad atmosférica se usa una escala de 100 grados, en la cual 0 indica ausencia absoluta de humedad y 100 el límite de saturación."
+
+### 165
+
+De acuerdo con el libro de Geografía, ¿cómo se llama el aparato usado para medir la humedad atmosférica?
+
+- A. Higrómetro
+- B. Anemómetro
+- C. Barómetro
+- D. Isógrafo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · medición
+
+"El aparato usado para medirla se llama higrómetro (medidor del agua)."
+
+## Sub-lote 17 · Las condensaciones atmosféricas: las nubes (6.2.4, pp. 205–206)
+
+### 166
+
+De conformidad con el libro de Geografía, ¿qué ocurre cuando el grado de humedad se aproxima al límite de saturación?
+
+- A. El vapor de agua presente en la atmósfera comienza a condensarse en gotas minúsculas que, gracias a su reducido peso, pueden todavía sostenerse en el aire
+- B. El vapor de agua se evapora por completo, disminuyendo la humedad atmosférica
+- C. Las gotas de agua se precipitan de inmediato a tierra en forma de lluvia
+- D. El vapor de agua se transforma directamente en granizo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · condensaciones atmosféricas
+
+"Cuando el grado de humedad se aproxima al límite de saturación, el vapor de agua presente en la atmósfera comienza a condensarse en gotas minúsculas que, gracias a su reducido peso, pueden todavía sostenerse en el aire."
+
+### 167
+
+En relación con el libro de Geografía, ¿cuándo se precipitan a tierra las gotas de agua condensadas?
+
+- A. Sólo cuando se juntan varias y forman gotas grandes, que la atmósfera es incapaz de retener
+- B. Tan pronto se forman, sin importar su tamaño
+- C. Únicamente cuando la temperatura desciende bajo 0°C
+- D. Únicamente cuando la presión atmosférica es notablemente alta
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · condensaciones atmosféricas
+
+"Sólo cuando se juntan varias y forman gotas grandes, la atmósfera es incapaz de retenerlas y se precipitan a tierra."
+
+### 168
+
+De acuerdo con el libro de Geografía, ¿cuáles son las condensaciones atmosféricas, y cuáles las precipitaciones acuosas?
+
+- A. Condensaciones: nubes, niebla o neblina, rocío, escarcha o helada; precipitaciones acuosas: lluvia, nieve, granizo y aguanieve
+- B. Condensaciones: lluvia, nieve, granizo y aguanieve; precipitaciones acuosas: nubes, niebla, rocío y escarcha
+- C. Condensaciones: únicamente las nubes; precipitaciones acuosas: todo lo demás
+- D. Condensaciones: rocío y escarcha; precipitaciones acuosas: nubes, niebla, lluvia y nieve
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · condensaciones atmosféricas
+
+"En el primer caso se tienen las condensaciones atmosféricas (nubes, niebla o neblina, rocío, escarcha o helada); en el segundo, las precipitaciones acuosas (lluvia, nieve, granizo y aguanieve)."
+
+### 169
+
+De conformidad con el libro de Geografía, ¿cuáles son las principales condensaciones atmosféricas?
+
+- A. Las nubes
+- B. La niebla y la neblina
+- C. El rocío
+- D. La escarcha o helada
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · las nubes
+
+"Las principales condensaciones atmosféricas son las nubes."
+
+### 170
+
+En relación con el libro de Geografía, de acuerdo con su forma y características, ¿en cuántos grupos fundamentales se clasifican las nubes, y cuáles son?
+
+- A. En 4 grupos fundamentales: cirros, cúmulos, estratos y nimbos
+- B. En 3 grupos fundamentales: cirros, cúmulos y nimbos
+- C. En 4 grupos fundamentales: cirros, estratos, nimbos y monzones
+- D. En 5 grupos fundamentales: cirros, cúmulos, estratos, nimbos y brisas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · las nubes
+
+"Éstas, de acuerdo con su forma y características, se clasifican en 4 grupos fundamentales: cirros, cúmulos, estratos y nimbos."
+
+### 171
+
+De acuerdo con el libro de Geografía, además de los 4 grupos fundamentales, ¿qué otros grupos intermedios de nubes hay?
+
+- A. Cirro-cúmulos, cirro-estratos, estrato-cúmulos, cúmulo-nimbos, etc.
+- B. Únicamente cirro-nimbos y estrato-cirros
+- C. Alisio-cúmulos y monzón-estratos
+- D. No hay grupos intermedios, sólo los 4 fundamentales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · las nubes
+
+"Hay, además, numerosos grupos intermedios: cirro-cúmulos, cirro-estratos, estrato-cúmulos, cúmulo-nimbos, etc."
+
+### 172
+
+De conformidad con el libro de Geografía, ¿qué significa la palabra cirro, cómo son estas nubes y a qué altitud se encuentran?
+
+- A. Rizo; tienen el aspecto de lana cardada, formadas de finos cristales de hielo, y son las nubes más elevadas (de 8 a 12 km de altitud)
+- B. Montón; forman masas blancas con aspecto de copos de algodón, a menos de 3 km de altitud
+- C. Capa o manto; tienen aspecto de largas fajas grises, a baja altitud
+- D. Aureola; son nubes heteroformes y oscuras, a baja altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · las nubes
+
+"Los cirros (rizo) tienen el aspecto de lana cardada. Están formados de finos cristales de hielo y son las nubes más elevadas (de 8 a 12 km de altitud)."
+
+### 173
+
+En relación con el libro de Geografía, ¿qué garantiza la presencia de los cirros, y por cuánto tiempo?
+
+- A. Garantiza buen tiempo, por lo menos durante las 6 horas siguientes
+- B. Garantiza lluvia inminente, en menos de una hora
+- C. Garantiza la formación de un ciclón tropical en las siguientes 24 horas
+- D. Garantiza un descenso brusco de la temperatura
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · las nubes
+
+"Su presencia garantiza buen tiempo, por lo menos durante las 6 horas siguientes."
+
+### 174
+
+De acuerdo con el libro de Geografía, ¿qué significa la palabra cúmulo, y cómo son estas nubes?
+
+- A. Montón; forman masas blancas con aspecto de copos de algodón y los bordes brillantes
+- B. Rizo; tienen el aspecto de lana cardada
+- C. Capa o manto; tienen el aspecto de largas fajas, generalmente grises
+- D. Aureola; son nubes heteroformes y oscuras
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 205
+**Subtema:** la humedad atmosférica · las nubes
+
+"Los cúmulos (montón) forman masas blancas con aspecto de copos de algodón y los bordes brillantes."
+
+### 175
+
+De conformidad con el libro de Geografía, ¿qué significa la palabra estrato, cómo son estas nubes y cuándo se observan sobre todo?
+
+- A. Capa o manto; tienen el aspecto de largas fajas, generalmente grises; se observan sobre todo de noche
+- B. Montón; forman masas blancas con bordes brillantes; se observan sobre todo de día
+- C. Rizo; tienen aspecto de lana cardada; se observan sobre todo al amanecer
+- D. Aureola; son nubes heteroformes y oscuras; se observan sobre todo al atardecer
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 206
+**Subtema:** la humedad atmosférica · las nubes
+
+"Los estratos (capa o manto) tienen el aspecto de largas fajas, generalmente grises. Se observan sobre todo de noche."
+
+### 176
+
+En relación con el libro de Geografía, ¿qué significa la palabra nimbo, cómo son estas nubes y qué provocan directamente?
+
+- A. Aureola; son nubes heteroformes y oscuras, que se encuentran a baja altitud; son las que provocan directamente las lluvias
+- B. Rizo; son nubes de cristales de hielo a gran altitud; son las que garantizan buen tiempo
+- C. Montón; son nubes blancas y brillantes a baja altitud; son las que provocan las heladas
+- D. Capa o manto; son nubes grises a gran altitud; son las que provocan la niebla
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 206
+**Subtema:** la humedad atmosférica · las nubes
+
+"Por último, los nimbos (aureola) son nubes heteroformes y oscuras, que se encuentran a baja altitud. Son las que provocan directamente las lluvias."
+
+## Sub-lote 18 · Niebla, rocío y escarcha (6.2.4, p. 206)
+
+### 177
+
+De acuerdo con el libro de Geografía, ¿qué significa la palabra neblina, y qué es la niebla o neblina?
+
+- A. Nube pequeña; es una condensación ubicada a baja altura del suelo
+- B. Nube grande; es una condensación ubicada a gran altura
+- C. Gota fría; es una precipitación acuosa ubicada a baja altura
+- D. Nube pequeña; es una precipitación que cae en forma de gotas minúsculas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 206
+**Subtema:** la humedad atmosférica · niebla y rocío
+
+"La niebla o neblina (nube pequeña) es una condensación ubicada a baja altura del suelo."
+
+### 178
+
+De conformidad con el libro de Geografía, ¿por qué se produce la niebla?
+
+- A. Por el enfriamiento de la atmósfera, la cual no puede entonces retener la misma cantidad de vapor de agua que estando caliente
+- B. Por el calentamiento de la atmósfera, que libera el vapor de agua contenido en las nubes
+- C. Por el descenso de la presión atmosférica en las zonas costeras
+- D. Por la condensación del rocío al amanecer
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 206
+**Subtema:** la humedad atmosférica · niebla y rocío
+
+"Se produce por el enfriamiento de la atmósfera, la cual no puede entonces retener la misma cantidad de vapor de agua que estando caliente."
+
+### 179
+
+En relación con el libro de Geografía, ¿dónde es frecuente la niebla?
+
+- A. En los límites del frente polar y en numerosas regiones montañosas, que durante la noche registran un considerable descenso de temperatura
+- B. Únicamente en las regiones desérticas, donde el aire es más seco
+- C. Únicamente en la faja ecuatorial, donde llueve casi todo el año
+- D. En las zonas de alta presión o anticiclónicas, donde el aire desciende
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 206
+**Subtema:** la humedad atmosférica · niebla y rocío
+
+"Es frecuente en los límites del frente polar y en numerosas regiones montañosas, que durante la noche registran un considerable descenso de temperatura."
+
+### 180
+
+De acuerdo con el libro de Geografía, ¿cuándo se produce generalmente el rocío, y por qué?
+
+- A. Generalmente en la madrugada, debido al descenso de la temperatura atmosférica durante la noche
+- B. Generalmente al mediodía, debido al ascenso de la temperatura atmosférica
+- C. Generalmente en la tarde, debido al descenso de la presión atmosférica
+- D. Generalmente al anochecer, debido al aumento de la humedad relativa
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 206
+**Subtema:** la humedad atmosférica · niebla y rocío
+
+"El rocío se produce generalmente en la madrugada, debido al descenso de la temperatura atmosférica durante la noche."
+
+### 181
+
+De conformidad con el libro de Geografía, ¿sobre qué superficies se deposita la humedad atmosférica condensada en forma de rocío?
+
+- A. Sobre superficies comparativamente frías, como objetos de metal y vidrio, hojas de plantas, etc.
+- B. Únicamente sobre el suelo desnudo
+- C. Sobre superficies comparativamente calientes, como el pavimento asfaltado
+- D. Únicamente sobre las nubes bajas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 206
+**Subtema:** la humedad atmosférica · niebla y rocío
+
+"La humedad atmosférica, condensada en forma de gotas minúsculas, se deposita entonces sobre superficies comparativamente frías como objetos de metal y vidrio, hojas de plantas, etc."
+
+### 182
+
+En relación con el libro de Geografía, ¿qué ocurre con las gotas de rocío cuando la temperatura atmosférica desciende durante la noche bajo 0°C?
+
+- A. Se congelan y se convierten en esferitas o cristales de hielo: se trata de la escarcha o helada
+- B. Se evaporan por completo, sin dejar rastro
+- C. Se transforman en granizo
+- D. Se convierten en niebla o neblina
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 206
+**Subtema:** la humedad atmosférica · escarcha o helada
+
+"Cuando la temperatura atmosférica desciende durante la noche bajo 0°C, las gotas de rocío se congelan y convierten en esferitas o cristales de hielo: se trata de la escarcha o helada, fenómeno bastante dañino para la vegetación."
+
+### 183
+
+De acuerdo con el libro de Geografía, ¿para qué es bastante dañina la escarcha o helada?
+
+- A. Para la vegetación
+- B. Para las construcciones costeras
+- C. Para la navegación aérea
+- D. Para la fauna marina
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 206
+**Subtema:** la humedad atmosférica · escarcha o helada
+
+"[...] se trata de la escarcha o helada, fenómeno bastante dañino para la vegetación."
+
+### 184
+
+De conformidad con el libro de Geografía, ¿por qué el rocío y la escarcha no son precipitaciones?
+
+- A. Porque no caen: se forman sobre los objetos por condensación de la humedad atmosférica, debido al descenso de la temperatura
+- B. Porque no contienen agua, sino únicamente hielo
+- C. Porque se forman exclusivamente en el mar, no sobre la tierra
+- D. Porque se producen sólo durante el día, no en la noche
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 206
+**Subtema:** la humedad atmosférica · escarcha o helada
+
+"Cabe aclarar que el rocío y la escarcha no son precipitaciones, pues no caen: se forman sobre los objetos por condensación de la humedad atmosférica, debido al descenso de la temperatura."
