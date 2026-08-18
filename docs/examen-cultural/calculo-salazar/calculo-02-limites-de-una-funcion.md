@@ -130,14 +130,41 @@ dependan de los números concretos de ese ejemplo.
   ser grandes. **Fuera:** los ejemplos de límites de potencias de *x* al infinito con
   su explicación de signos, la actividad de aprendizaje y la Tabla 2.7.
 
+- Cubierto el arranque de la página impresa **84**: el nombre del **truco matemático**
+  para evaluar el límite de una función racional cuando *x* tiende a infinito
+  (multiplicar por 1, "como convenga"). **Fuera:** el resto de la página, que es un
+  *Ejemplo* completo obteniendo una asíntota horizontal por dos métodos, con su
+  Solución y las Figuras 2.8 y 2.9.
+- Cubierto el arranque de la página impresa **85**: la regla operativa del método —
+  dividir el numerador y el denominador entre la mayor potencia de *x* de la expresión
+  racional—. **Fuera:** el resto del *Ejemplo* con su Solución y la lista de ejercicios
+  de práctica.
+- **Las páginas impresas 86 a 88 NO dieron ningún reactivo.** Son la lista de
+  ejercicios que cierra la p.85, la "Deduce y aprende" de la recta tangente y normal
+  (actividad de equipo —y que además adelanta contenido de la Unidad 3, la derivada,
+  fuera de lugar en esta Unidad pero de cualquier forma excluida por ser actividad de
+  equipo—), más otra lista de ejercicios y una actividad de discusión en grupo que
+  hace descubrir el número *e* sin todavía nombrarlo ni darle valor.
+- Cubierto el arranque de la página impresa **89**, que **abre el inciso c) Suma y
+  producto cuando alguno de los límites no existe**: sólo el nombre y la fórmula del
+  límite que origina el **número e**. **Fuera:** el límite lím (x→0) sen(x)/x, que el
+  libro menciona en la misma frase como otro "límite muy especial" pero **sin darle
+  valor en el texto** —no se puede fijar en un reactivo lo que el libro no dice—, y el
+  arranque del *Ejemplo* con la Tabla 2.8 que sigue en la p.90.
+- Cubierta la página impresa **90**, en su arranque: el **valor exacto del límite**
+  que da el número *e*, y el dato de que **e es irracional** (expansión decimal
+  infinita no periódica). **Fuera:** el resto de la página, que son actividades de
+  aprendizaje con gráficas para practicar límites laterales y en el infinito.
+
 **Pendiente:** EN CURSO. **El 2.1 y el inciso a) del 2.2 quedan CERRADOS** (pp. 67-81).
-Del inciso **b)**, cubierto el arranque hasta la **p.83** (los tres casos y el límite
-de 1/x). Sigue desde la **p.84** con el resto de **b)** hasta cerrar en p.88 (según el
-índice), y luego el inciso **c) Suma y producto cuando algún límite no existe** (p.89),
-y **2.3 Continuidad** (p.92), hasta cerrar la Unidad 2 en la p.98 (la Unidad 3 arranca
-p.99). **Antes de tocar este archivo, corre la regla del punto de continuación de
-CLAUDE.md** —esta Unidad es materia nueva y este archivo es el único que sostiene su
-pendiente.
+Del inciso **b)**, cubierto completo hasta la p.85 (lo que sigue en pp. 86-88 es sólo
+práctica). Del inciso **c)**, cubierto el arranque hasta la **p.90** (la definición del
+número *e*). Sigue desde la **p.91** con el resto de **c)** —incluida la posibilidad de
+que el valor de lím (x→0) sen(x)/x aparezca explícito más adelante— hasta cerrar el
+2.2, y luego **2.3 Continuidad** (p.92), hasta cerrar la Unidad 2 en la p.98 (la Unidad
+3 arranca p.99). **Antes de tocar este archivo, corre la regla del punto de
+continuación de CLAUDE.md** —esta Unidad es materia nueva y este archivo es el único
+que sostiene su pendiente.
 
 ---
 
@@ -423,3 +450,67 @@ De acuerdo con el libro de Cálculo, ¿cuánto vale el límite lím (x→∞) 1/
 **Subtema:** Límites cuando x tiende al infinito · Límite de 1/x
 
 "El siguiente ejemplo nos permite establecer un límite que es importante cuando calculamos límites que tienden a ser grandes. lím (x→∞) 1/x = 0"
+
+---
+
+## Sub-lote 4 · El truco de multiplicar por 1, y el número e (2.2 b y c, pp. 84-85, 89-90)
+
+### 126
+
+De acuerdo con el libro de Cálculo, ¿en qué consiste el truco matemático que se utiliza para evaluar un límite en una función racional cuando x tiende a infinito?
+
+- A. En multiplicar por 1, como convenga
+- B. En derivar el numerador y el denominador por separado
+- C. En sustituir x por infinito directamente en la función
+- D. En elevar al cuadrado el numerador y el denominador
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 84
+**Subtema:** Límites cuando x tiende al infinito · El truco de multiplicar por 1
+
+"Para evaluar un límite en una función racional utilizamos un truco matemático que consiste en multiplicar por 1, claro que lo haremos como convenga."
+
+### 127
+
+Conforme al libro de Cálculo, para aplicar el truco de multiplicar por 1 en una expresión racional, ¿entre qué se dividen el numerador y el denominador?
+
+- A. Entre la mayor potencia de x
+- B. Entre la menor potencia de x
+- C. Entre el coeficiente principal del numerador
+- D. Entre el término independiente del denominador
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 85
+**Subtema:** Límites cuando x tiende al infinito · Dividir entre la mayor potencia
+
+"Dividimos el numerador y el denominador entre la mayor potencia de x, en su expresión racional [...]"
+
+### 128
+
+De acuerdo con el libro de Cálculo, ¿a qué límite es igual el número e?
+
+- A. lím (x→∞) (1 + 1/x)^x
+- B. lím (x→0) (1 + 1/x)^x
+- C. lím (x→∞) (1 + x)^(1/x)
+- D. lím (x→∞) (1/x)^x
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 89
+**Subtema:** Suma y producto cuando algún límite no existe · El número e
+
+"Determinar el siguiente límite: e = lím (x→∞) (1 + 1/x)^x."
+
+### 129
+
+Conforme al libro de Cálculo, ¿por qué el número e es irracional?
+
+- A. Porque es una expansión decimal infinita no periódica
+- B. Porque es una expansión decimal finita
+- C. Porque es una expansión decimal infinita pero periódica
+- D. Porque no puede aproximarse con una tabla de valores
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 90
+**Subtema:** Suma y producto cuando algún límite no existe · El número e es irracional
+
+"Este número es irracional, ya que es una expansión decimal infinita no periódica."
