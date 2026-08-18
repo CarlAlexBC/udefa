@@ -27,12 +27,23 @@ El resto de la Unidad II —2.1 Sinopsis histórica de la Astronomía, 2.2 El Un
 
 - **p.66 — "15.24 ms" y "7.62 ms".** El cuerpo del texto escribe la unidad como `ms`; la **Figura 2.29 de esa misma página escribe `m`**, que es lo correcto (son metros). Verificado con recorte a 600 dpi. Los reactivos 22 y 23 usan **metros**, como la figura, y no preguntan por la unidad.
 
-## Datos del libro que conviene revisar (para decisión de Carlo)
+## Avisos al aspirante
 
-No son erratas de imprenta: el libro los afirma así. Se anotan aquí y **no se les escribe reactivo** mientras Carlo no decida, igual que se hizo con el nombre de Fenneman.
+Categoría distinta de la errata: aquí el libro no se equivoca al escribir sino
+**al afirmar**. Una errata se corrige y ya; esto no, porque el examen pide cita
+literal del libro y el libro sostiene algo que no es exacto. Corregirlo
+arriesga que el aspirante falle el reactivo real; reproducirlo le enseña algo
+que no es cierto.
 
-- **p.68 — la etimología de "semana".** El libro dice: semana "del latín *septem mane*, «7 mañanas»". La etimología aceptada es del latín tardío ***septimana***, derivada de *septem* («siete»); "*septem mane*" es una explicación de andar por casa. El reactivo 51 pregunta sólo **a quiénes se debe la agrupación de días** (los sumerios), que es el dato firme, y deja la etimología fuera.
-- **p.69 — la duración del año trópico no cuadra consigo misma.** El libro escribe: "Su duración es de **365.2564 días** (365 días, 5 horas, 48 minutos y 46 segundos)". **Las dos cifras no son la misma:** 365 d 5 h 48 min 46 s equivalen a **365.2422** días —que es la duración correcta del año trópico—, mientras que **365.2564 es la del año sidéreo**. El libro tomó el decimal de un año y el desglose del otro. Verificado a 600 dpi: los dígitos están bien impresos, la mezcla es del libro. **El reactivo 66 usa 365.2564**, porque es la cifra que el libro repite —la vuelve a dar en el párrafo d) de esa página y en la lista del ejercicio de la p.70—, y **no la empareja con el desglose de horas**. Si el examen pregunta la duración, ésa es la que el libro sostiene.
+Decisión de Carlo (17 ago 2026): **no se escribe reactivo sobre estos datos, y
+se publican como aviso** para que el aspirante que se los tope en el examen
+sepa qué está pasando. La plataforma debe poder mostrarlos junto al tema, no
+ocultarlos. Mismo trato que los avisos de Historia cap. 6.
+
+| # | Página | Dice el libro | El hecho | Aviso |
+|---|---|---|---|---|
+| A1 | 68 | Semana "del latín *septem mane*, «7 mañanas»" | La etimología aceptada es del latín tardío ***septimana***, derivada de *septem* («siete»); "*septem mane*" es una explicación popular, no la etimología real | Si el examen pregunta el origen de la palabra "semana", el libro sostiene "*septem mane*". El reactivo 51 evita el punto: pregunta sólo a quiénes se debe la agrupación de días (los sumerios). |
+| A2 | 69 | "Su duración es de **365.2564 días** (365 días, 5 horas, 48 minutos y 46 segundos)" (año trópico) | Las dos cifras no son la misma: el desglose en horas equivale a **365.2422** días, la duración correcta del año trópico; **365.2564 es la del año sidéreo**. El libro mezcló el decimal de un año con el desglose del otro (verificado a 600 dpi: los dígitos están bien impresos, la mezcla es del libro) | El reactivo 66 usa 365.2564 porque es la cifra que el libro repite —también en el párrafo d) de esa página y en el ejercicio de la p.70— sin emparejarla con el desglose de horas. Si el examen pregunta la duración del año trópico, ésa es la cifra que el libro sostiene. |
 
 ## Criterio de este capítulo
 
@@ -846,7 +857,7 @@ En relación con el libro de Geografía, ¿a quiénes se debe la agrupación de 
 
 "A los sumerios se debe también la agrupación de días conocida actualmente con el nombre de semana [...]"
 
-> Nota de revisor: el reactivo se queda en la autoría y **no toca la etimología** que el libro da a continuación ("del latín *septem mane*, «7 mañanas»), que está pendiente de decisión. Ver "Datos del libro que conviene revisar" en el encabezado.
+> Nota de revisor: el reactivo se queda en la autoría y **no toca la etimología** que el libro da a continuación ("del latín *septem mane*, «7 mañanas»), publicada como aviso al aspirante en el encabezado (A1).
 
 ## Sub-lote 5 · Generalidades sobre la traslación terrestre (2.4.3, p. 69)
 
