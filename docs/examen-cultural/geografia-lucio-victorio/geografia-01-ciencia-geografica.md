@@ -53,7 +53,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **28**: 1.4.3, Eliseo Reclus y *Nueva Geografía Universal*, y Ángel Bassols Batalla.
 - Página impresa **29 en adelante: fuera.** La 29 es la "Lectura Complementaria · Concepto de la Geografía", tomada de otro autor (Marrero, Leví, *La Tierra y sus Recursos*), y además trata el concepto de la Geografía, que es el tema 1.2 y **el temario no lo pide**. Después vienen los ejercicios de aplicación.
 
-**Pendiente:** ninguno en este archivo. **La Unidad I queda cerrada** en lo que pide el temario `GEO-01-2026` (temas 1.3 y 1.4, con el 1.4.3 incluido por decisión de Carlo). Las Unidades **II**, **III** y **IV** también están cerradas, cada una en su propio archivo. El pendiente de la materia lo sostiene ahora la **Unidad V · La Hidrósfera** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Las aguas oceánicas), aún sin archivo; después queda la **Unidad VI · La Atmósfera** (6.1 Generalidades sobre la atmósfera; 6.2 Los fenómenos meteorológicos; 6.3 El clima).
+**Pendiente:** ninguno en este archivo. **La Unidad I queda cerrada** en lo que pide el temario `GEO-01-2026` (temas 1.3 y 1.4, con el 1.4.3 incluido por decisión de Carlo). Las Unidades **II**, **III**, **IV**, **V** y **VI** también están cerradas, cada una en su propio archivo. **Geografía queda CERRADA por completo para la EMEFA** (18 ago 2026).
 
 ---
 

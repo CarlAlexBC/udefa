@@ -68,7 +68,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 **Verificado el final del tema:** la p.91 termina el bloque de ejercicios y arranca el **3.3 Generalidades sobre la esfera y las cartas geográficas**, que **el temario no pide** (ver "Alcance del temario"). Por eso el 3.2 —y con él la Unidad III— cierra en la p.90.
 
-**Pendiente:** ninguno en este archivo. **La Unidad III queda CERRADA** en lo que pide el temario `GEO-01-2026`: el **3.1** (pp. 78–83) y el **3.2** completo —**3.2.1 Las zonas térmicas** (pp. 84–85), **3.2.2 Las estaciones del año** (pp. 86–87) y **3.2.3 Los husos horarios** (pp. 88–90)—, en **186 reactivos**. La **Unidad IV** también quedó cerrada (`geografia-04-litosfera.md`, 135 reactivos). Lo que sigue de la materia son las **dos unidades restantes**, cada una en su propio archivo: la **Unidad V · La Hidrósfera** (5.1 Características y distribución del agua, el ciclo del agua; 5.2 Las aguas oceánicas) y la **Unidad VI · La Atmósfera** (6.1 Generalidades sobre la atmósfera; 6.2 Los fenómenos meteorológicos; 6.3 El clima). **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad V, éste sostiene el pendiente de la materia.
+**Pendiente:** ninguno en este archivo. **La Unidad III queda CERRADA** en lo que pide el temario `GEO-01-2026`: el **3.1** (pp. 78–83) y el **3.2** completo —**3.2.1 Las zonas térmicas** (pp. 84–85), **3.2.2 Las estaciones del año** (pp. 86–87) y **3.2.3 Los husos horarios** (pp. 88–90)—, en **186 reactivos**. Las Unidades **IV**, **V** y **VI** también quedaron cerradas, cada una en su propio archivo. **Geografía queda CERRADA por completo para la EMEFA** (18 ago 2026).
 
 ---
 

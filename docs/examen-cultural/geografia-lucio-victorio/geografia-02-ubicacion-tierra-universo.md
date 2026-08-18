@@ -64,7 +64,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **71**: la precesión de los equinoccios con su serie de estrellas, la nutación, los demás movimientos terrestres (baricentro, Neptuno, la Vía Láctea) y la **nota al pie 8** con equinoccio, solsticio y punto vernal.
 - Páginas impresas **72 a 76: sin reactivos.** La 72 es el ejercicio de relacionar columnas; la **73 es una "Lectura Complementaria"** tomada de otro autor (*La Biblia*, Biblioteca de Autores Cristianos y Editorial Miñón) sobre el cosmos del hombre bíblico; y de la **74 a la 76** van los "Ejercicios de aplicación" con su escala de calificaciones. Por norma, ni ejercicios ni lecturas complementarias llevan reactivos.
 
-**Pendiente:** ninguno. **La Unidad II queda cerrada** en lo que pide el temario `GEO-01-2026` (sólo el tema 2.4). Las Unidades **I**, **III** y **IV** también están cerradas, cada una en su propio archivo. El pendiente de la materia lo sostiene ahora la **Unidad V · La Hidrósfera**, aún sin archivo; después queda la **Unidad VI · La Atmósfera**.
+**Pendiente:** ninguno. **La Unidad II queda cerrada** en lo que pide el temario `GEO-01-2026` (sólo el tema 2.4). Las Unidades **I**, **III**, **IV**, **V** y **VI** también están cerradas, cada una en su propio archivo. **Geografía queda CERRADA por completo para la EMEFA** (18 ago 2026).
 
 > Aviso para quien siga: **la Unidad III arranca en la p.77** y su tema 3.2 retoma las zonas térmicas y las estaciones del año, que aquí ya asomaron en el 2.4.3. No se duplican reactivos: los de aquí salen del capítulo de la traslación; los de allá saldrán del 3.2.
 
