@@ -86,6 +86,14 @@ Secciones de la Unidad 1, según el índice del libro:
   **No se escribe reactivo que pida el nombre "imagen de A".** El concepto se cubre por
   el lado limpio: cómo se lee *y = f(x)* y qué es el **rango**. Mismo trato que se le dio
   en Geografía al "-400 ms" del cuerpo frente al "-400 m" de la figura.
+- **p.33 — intervalo con el signo cambiado.** Al cerrar el dominio de *f*(*x*) =
+  √(*x*² − 25), el libro imprime *"(−∞, −5] ∪ [5, −∞)"*: el segundo intervalo debería
+  cerrar en **+∞**, no repetir −∞. Verificado a 800 dpi. Va dentro de la Solución paso a
+  paso de un ejemplo, no de un reactivo.
+- **p.35 — dominio con el signo cambiado.** En el ejemplo de *f*(*x*) = (*x* − 4)/(*x* + 3),
+  el libro concluye *"Dmf = ℝ − {3}"*, pero la propia asíntota vertical que da dos líneas
+  arriba es *x* = **−3** (el valor que anula el denominador). Debería decir ℝ − {−3}.
+  Verificado a 800 dpi. También dentro de una Solución paso a paso, no se pregunta.
 
 ## Criterio: teoría sobre práctica
 
@@ -265,11 +273,19 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   es el valor absoluto del número"*, que **ya es el reactivo 81** (p.28); no se repite.
   **Fuera:** la cola de la actividad de la p.31, los dos *Ejemplos* con su Solución paso a
   paso y la actividad de aprendizaje intermedia.
+- Cubiertas las páginas impresas **33 a 38 en bloque, que rinden un solo reactivo doble**:
+  el apartado **Rango de una función** —qué es (el conjunto de imágenes) y cómo se
+  determina en forma analítica (despejando *x* de la función y viendo para qué valores
+  está definida la nueva función)— en la p.34. El resto del bloque es ejemplo resuelto
+  tras ejemplo resuelto (dominio, asíntotas verticales y horizontales, rango de
+  funciones racionales concretas), todo con Solución paso a paso. **Dos erratas
+  matemáticas del libro anotadas arriba** (intervalo con el signo cambiado en p.33,
+  dominio con el signo cambiado en p.35), ninguna afecta reactivos.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.32**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
-**b) está EN CURSO**. Sigue desde la **p.33** con el resto del **b)** funciones explícitas
-o implícitas (pp. 33–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
+va cubierto hasta la **p.38**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
+**b) está EN CURSO**. Sigue desde la **p.39** con el resto del **b)** funciones explícitas
+o implícitas (pp. 39–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
 **d)** función invertible y función inversa (pp. 49–60), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
@@ -1822,3 +1838,44 @@ En relación con el libro de Cálculo, ¿cómo se llama el intervalo (−∞, 9]
 **Subtema:** Dominio de una función · Notación de intervalos
 
 "En forma de intervalo lo expresamos (−∞, 9]. Es un intervalo cerrado por la derecha."
+
+---
+
+## Sub-lote 19 · El rango de una función (1.3 b, p.34)
+
+### 91
+
+De acuerdo con el libro de Cálculo, ¿qué es el rango de una función?
+
+- A. El conjunto de imágenes de la función
+- B. El conjunto de valores del dominio para los que la función está definida
+- C. El conjunto de valores donde la función corta al eje *x*
+- D. El valor máximo que alcanza la función
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 34
+**Subtema:** Rango de una función · Definición
+
+"Recuerda que el rango de una función es el conjunto de imágenes que se obtiene despejando *x* de la función y se procede a determinar para los valores que está definida la nueva función."
+
+> Nota de revisor: el distractor B es la definición de **dominio**, no de rango; es el
+> par conceptual con el que más se confunde.
+
+### 92
+
+Conforme al libro de Cálculo, ¿cómo se determina el rango de una función en forma analítica?
+
+- A. Despejando *x* de la función y determinando para qué valores está definida la nueva función
+- B. Despejando *y* de la función y determinando para qué valores está definida la función original
+- C. Igualando a cero el denominador y despejando la variable
+- D. Derivando la función e igualando el resultado a cero
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 34
+**Subtema:** Rango de una función · Procedimiento
+
+"[...] que se obtiene despejando *x* de la función y se procede a determinar para los valores que está definida la nueva función."
+
+> Nota de revisor: el distractor C es el procedimiento de las **asíntotas verticales**
+> (p.29, reactivo 84) — mismo libro, procedimiento distinto, para cazar a quien mezcla
+> los dos.
