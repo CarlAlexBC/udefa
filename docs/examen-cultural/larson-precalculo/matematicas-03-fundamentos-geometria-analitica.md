@@ -62,8 +62,9 @@ _(Los defectos del capítulo 1 y del capítulo 2 están documentados en sus prop
 - Cubiertas las páginas impresas **281, 282 y 283**, arranque de la **§3.2 · Ecuaciones lineales con dos variables**: el modelo `y = mx + b` y por qué se llama lineal, la *forma pendiente-intersección* y qué son m y (0, b), qué es la pendiente de una recta no vertical, la recta vertical `x = a` y por qué su pendiente no está definida, lo que implican una pendiente cero y una negativa, la **elevación** y el **corrimiento**, el recuadro *Pendiente de una recta que pasa por dos puntos* con su condición x₁ ≠ x₂, y la importancia del **orden de sustracción**. Los `EJEMPLO 1` y `EJEMPLO 2` no llevan reactivos.
 
 - Cubiertas las páginas impresas **284, 285 y 286**: el `COMENTARIO` que relaciona el signo de la pendiente con la orientación de la recta, la *forma punto-pendiente* y para qué es más útil, el `COMENTARIO` de que da igual cuál de los dos puntos se sustituya, y el recuadro *Rectas paralelas y perpendiculares* (pendientes iguales, y la fórmula m₁ = −1/m₂). Los `EJEMPLO 3` y `EJEMPLO 4` y el `TECNOLOGÍA` no llevan reactivos.
+- Cubiertas las páginas impresas **287, 288 y 289**, con las que **cierra la §3.2**: la pendiente como razón o tasa según las unidades de los ejes, la depreciación lineal y el valor en libros, la extrapolación y la interpolación lineal, la forma general Ax + By + C = 0, y el recuadro *Resumen de ecuaciones de rectas* con sus seis formas. Los `EJEMPLO 5` a `EJEMPLO 8` y el `Resumen (sección 3.2)` no llevan reactivos. Las **pp. 290–293 son el bloque `3.2 Ejercicios`**.
 
-**Pendiente:** EN CURSO. La **§3.1 está CERRADA** y la **§3.2 va en curso**: sigue desde la página impresa **287**, y su teoría llega hasta la **p. 289**. Después faltan **§3.3** (p. 294), **§3.4** (p. 301), **§3.5** (p. 310) y **§3.6** (p. 319). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
+**Pendiente:** EN CURSO. La **§3.1 y la §3.2 están CERRADAS**. Sigue la **§3.3 · Rectas**, que arranca en la página impresa **294** y cuya teoría llega hasta la **p. 297**. Después faltan **§3.4** (p. 301), **§3.5** (p. 310) y **§3.6** (p. 319). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
 
 ---
 
@@ -701,5 +702,160 @@ De acuerdo con el libro de Matemáticas, ¿qué relación guardan las pendientes
 **Subtema:** ecuaciones lineales · rectas perpendiculares
 
 Dos rectas no verticales son perpendiculares si y sólo si sus pendientes son recíprocas negativas entre sí. Esto es, m₁ = −1/m₂.
+
+---
+
+## Sub-lote 5 · Pendiente como tasa, depreciación y formas de la recta — cierra la §3.2 (pp. 287–289)
+
+### 38
+
+De conformidad con el libro de Matemáticas, en problemas de la vida real, ¿cómo se puede interpretar la pendiente de una recta?
+
+- A. Como una razón o una tasa
+- B. Como una distancia
+- C. Como un área
+- D. Como un promedio
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 287
+**Subtema:** ecuaciones lineales · pendiente como razón o tasa
+
+En problemas de la vida real, la pendiente de una recta se puede interpretar como una razón o tasa.
+
+---
+
+### 39
+
+En relación con el libro de Matemáticas, si el eje x y el eje y tienen la misma unidad de medida, ¿qué ocurre con la pendiente?
+
+- A. Que no tiene unidades y es una razón
+- B. Que no tiene unidades y es una tasa
+- C. Que hereda la unidad del eje x
+- D. Que hereda la unidad del eje y
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 287
+**Subtema:** ecuaciones lineales · pendiente como razón o tasa
+
+Si el eje x y el eje y tienen la misma unidad de medida, entonces la pendiente no tiene unidades y es una razón.
+
+---
+
+### 40
+
+De acuerdo con el libro de Matemáticas, si el eje x y el eje y tienen diferentes unidades de medida, ¿qué es la pendiente?
+
+- A. Una tasa o razón de cambio
+- B. Una razón sin unidades
+- C. Una constante de proporcionalidad
+- D. Una distancia dirigida
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 287
+**Subtema:** ecuaciones lineales · pendiente como razón o tasa
+
+Si el eje x y el eje y tienen diferentes unidades de medida, entonces la pendiente es una tasa o razón de cambio.
+
+---
+
+### 41
+
+De conformidad con el libro de Matemáticas, ¿cómo se llama el procedimiento en el que se deprecia la misma cantidad cada año?
+
+- A. Depreciación lineal o en línea recta
+- B. Depreciación acumulada
+- C. Depreciación proporcional
+- D. Depreciación por valor recuperado
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 288
+**Subtema:** ecuaciones lineales · depreciación lineal
+
+Si la misma cantidad se deprecia cada año, el procedimiento recibe el nombre de depreciación lineal o en línea recta.
+
+---
+
+### 42
+
+En relación con el libro de Matemáticas, ¿qué es el valor en libros?
+
+- A. La diferencia entre el valor original y la cantidad total de depreciación acumulada a la fecha
+- B. La suma del valor original y la depreciación acumulada a la fecha
+- C. El valor original dividido entre los años de vida útil
+- D. El valor recuperado al término de la vida útil
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 288
+**Subtema:** ecuaciones lineales · depreciación lineal
+
+El valor en libros es la diferencia entre el valor original y la cantidad total de depreciación acumulada a la fecha.
+
+---
+
+### 43
+
+De acuerdo con el libro de Matemáticas, ¿cómo se denomina el método de predicción en el que el punto estimado no se sitúa entre los puntos dados?
+
+- A. Extrapolación lineal
+- B. Interpolación lineal
+- C. Depreciación lineal
+- D. Regresión lineal
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 289
+**Subtema:** ecuaciones lineales · extrapolación e interpolación
+
+El método de predicción ilustrado en el ejemplo 8 se denomina extrapolación lineal. Un punto extrapolado no se sitúa entre los puntos dados.
+
+---
+
+### 44
+
+De conformidad con el libro de Matemáticas, ¿cómo se denomina el procedimiento cuando el punto estimado sí se sitúa entre dos puntos dados?
+
+- A. Interpolación lineal
+- B. Extrapolación lineal
+- C. Aproximación lineal
+- D. Proyección lineal
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 289
+**Subtema:** ecuaciones lineales · extrapolación e interpolación
+
+Cuando el punto estimado se sitúa entre dos puntos dados, el procedimiento se denomina interpolación lineal.
+
+---
+
+### 45
+
+En relación con el libro de Matemáticas, ¿cuál es la forma general de la ecuación de una recta y qué condición debe cumplirse?
+
+- A. Ax + By + C = 0, donde A y B no son ambos cero
+- B. Ax + By + C = 0, donde C no es cero
+- C. Ax + By = C, donde A y B no son ambos cero
+- D. Ax + By + C = 0, donde A, B y C son todos distintos de cero
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 289
+**Subtema:** ecuaciones lineales · forma general
+
+Cada recta tiene una ecuación que se puede escribir en la forma general Ax + By + C = 0, donde A y B no son ambos cero.
+
+---
+
+### 46
+
+De acuerdo con el libro de Matemáticas, según el *Resumen de ecuaciones de rectas*, ¿cuál es la forma dos puntos?
+
+- A. y − y₁ = ((y₂ − y₁)/(x₂ − x₁))(x − x₁)
+- B. y − y₁ = ((x₂ − x₁)/(y₂ − y₁))(x − x₁)
+- C. y − y₁ = ((y₂ − y₁)/(x₂ − x₁))(x + x₁)
+- D. y + y₁ = ((y₂ − y₁)/(x₂ − x₁))(x − x₁)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 289
+**Subtema:** ecuaciones lineales · formas de la ecuación de una recta
+
+6. Forma dos puntos: y − y₁ = ((y₂ − y₁)/(x₂ − x₁))(x − x₁).
 
 ---
