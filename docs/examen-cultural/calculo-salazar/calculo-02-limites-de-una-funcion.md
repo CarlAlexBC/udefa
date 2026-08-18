@@ -1,6 +1,6 @@
 # Cálculo · Unidad 2 · Límites de una función para analizar su comportamiento
 
-**Libro:** Salazar, Bahena y Velázquez · *Cálculo. Teoría y aplicaciones* (Patria, 1.ª ed. 2020) · **Unidad 2 → EN CURSO**
+**Libro:** Salazar, Bahena y Velázquez · *Cálculo. Teoría y aplicaciones* (Patria, 1.ª ed. 2020) · **Unidad 2 → CERRADA (27 reactivos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Esta Unidad la pide la **EMT** (Escuela Militar de
@@ -79,6 +79,13 @@ dependan de los números concretos de ese ejemplo.
   **No se escribe reactivo con esta notación**; el teorema se cubre por su enunciado en
   prosa, que sí es limpio y general ("una función no puede aproximarse a dos límites
   distintos al mismo tiempo... si el límite de una función existe, éste es único").
+- **p.92 — la tercera condición de continuidad compara el límite consigo mismo, no
+  con f(a).** El libro imprime las tres condiciones para que *f* sea continua en un
+  punto: *"1. f(a) existe. 2. lím_{x→a} f(x) existe. 3. lím_{x→a} f(x) = f(x)."*
+  Verificado a 800 dpi. La condición 3 debería comparar el límite con **f(a)** (el
+  valor de la función en el punto), no con "f(x)" en general —tal como está impreso es
+  una igualdad trivial que no aporta ninguna condición real—. **No se escribe reactivo
+  con la condición 3**; las condiciones 1 y 2 sí son limpias y se cubren tal cual.
 
 ## Cobertura por página
 
@@ -155,16 +162,35 @@ dependan de los números concretos de ese ejemplo.
   que da el número *e*, y el dato de que **e es irracional** (expansión decimal
   infinita no periódica). **Fuera:** el resto de la página, que son actividades de
   aprendizaje con gráficas para practicar límites laterales y en el infinito.
+- **La página impresa 91 NO dio ningún reactivo y cierra el inciso c).** Es sólo
+  gráficas de actividad de aprendizaje. El límite lím (x→0) sen(x)/x, mencionado en la
+  p.89, **nunca llega a tener un valor explícito en el texto** de estas páginas —queda
+  fuera del banco por esa razón, no porque el dato no exista en matemáticas—.
+- Cubierto el arranque de la página impresa **92**, que **abre 2.3 Continuidad**: la
+  idea intuitiva de la continuidad ("trazar la gráfica... sin levantar el lápiz del
+  papel"), las condiciones 1 y 2 de la definición formal de función continua en un
+  punto (que *f*(*a*) exista y que el límite exista; la condición 3 tiene una errata,
+  ver arriba, no se pregunta), y la definición de **función discontinua** (cuando una
+  o más condiciones no se cumplen). **Fuera:** el *Ejemplo* con su Solución.
+- Cubierto el arranque de la página impresa **93**: la definición boxeada de
+  **continuidad en un intervalo cerrado** (continua en todo punto del intervalo).
+  **Fuera:** los dos *Ejemplos* con su Solución y las actividades de aprendizaje.
+- **Las páginas impresas 94 a 97 NO dieron ningún reactivo y cierran la Unidad 2.** La
+  94 es "Lectura sugerida" (artículo externo, preguntas de reflexión) y el arranque de
+  la "Evaluación sumativa"; las páginas 95-96 son la Evaluación sumativa completa
+  (ejercicios de repaso); la 97 son dos tablas de "Autoevaluación" y "Autoevaluación
+  disciplinar" (rúbricas). **La hoja 103 del PDF (que por el desfase +5 le tocaría a la
+  p.98) es la portadilla de la Unidad 3** —objetivo específico y semblanza de Isaac
+  Newton—, igual que pasó entre las Unidades 1 y 2: la Unidad 2 no llega a tener una
+  p.98 propia, cierra en la p.97.
 
-**Pendiente:** EN CURSO. **El 2.1 y el inciso a) del 2.2 quedan CERRADOS** (pp. 67-81).
-Del inciso **b)**, cubierto completo hasta la p.85 (lo que sigue en pp. 86-88 es sólo
-práctica). Del inciso **c)**, cubierto el arranque hasta la **p.90** (la definición del
-número *e*). Sigue desde la **p.91** con el resto de **c)** —incluida la posibilidad de
-que el valor de lím (x→0) sen(x)/x aparezca explícito más adelante— hasta cerrar el
-2.2, y luego **2.3 Continuidad** (p.92), hasta cerrar la Unidad 2 en la p.98 (la Unidad
-3 arranca p.99). **Antes de tocar este archivo, corre la regla del punto de
-continuación de CLAUDE.md** —esta Unidad es materia nueva y este archivo es el único
-que sostiene su pendiente.
+**Pendiente:** ninguno. **La Unidad 2 queda CERRADA por completo, 27 reactivos** (pp.
+67-97: 2.1 en pp. 67-72; 2.2 con sus tres incisos en pp. 74-90; 2.3 en pp. 92-93; pp.
+94-97 sin materia nueva). Sigue la **Unidad 3 · La derivada de una función para
+modelar el cambio**, que arranca en la portadilla que ocupa la p.98, en un **archivo
+nuevo** (`calculo-03-...md`). Con esto **se cierra también toda la materia de Cálculo
+para la EMT** una vez que exista y se cierre ese archivo — Unidad 1 (107 reactivos) +
+Unidad 2 (27 reactivos) = 134 hasta ahora.
 
 ---
 
@@ -514,3 +540,82 @@ Conforme al libro de Cálculo, ¿por qué el número e es irracional?
 **Subtema:** Suma y producto cuando algún límite no existe · El número e es irracional
 
 "Este número es irracional, ya que es una expansión decimal infinita no periódica."
+
+---
+
+## Sub-lote 5 · Continuidad de una función (2.3, pp. 92-93) — cierra la Unidad 2
+
+### 130
+
+De acuerdo con el libro de Cálculo, ¿cómo se entiende la continuidad de una función?
+
+- A. Como trazar la gráfica de la función sin tener que levantar el lápiz del papel
+- B. Como una función cuya gráfica siempre es una línea recta
+- C. Como una función que no tiene asíntotas verticales ni horizontales
+- D. Como una función cuyo dominio son todos los números reales
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 92
+**Subtema:** Continuidad de una función · Idea intuitiva
+
+"La continuidad de una función la entendemos como trazar la gráfica de la función sin tener que levantar el lápiz del papel [...]"
+
+### 131
+
+Conforme al libro de Cálculo, para que una función *f* sea continua en un punto *a*, ¿qué debe cumplirse en primer lugar?
+
+- A. Que f(a) exista
+- B. Que f(a) sea igual a cero
+- C. Que la función sea un polinomio
+- D. Que el dominio de f sean todos los reales
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 92
+**Subtema:** Continuidad de una función · Condición 1
+
+"Una función f es continua en un punto si, y sólo si, cumple las tres condiciones. 1. f(a) existe."
+
+### 132
+
+De acuerdo con el libro de Cálculo, además de que f(a) exista, ¿qué otra condición debe cumplirse para que f sea continua en el punto a?
+
+- A. Que lím (x→a) f(x) exista
+- B. Que f(a) sea distinto de cero
+- C. Que la función sea creciente en a
+- D. Que la derivada de f en a exista
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 92
+**Subtema:** Continuidad de una función · Condición 2
+
+"2. lím (x→a) f(x) existe."
+
+### 133
+
+Conforme al libro de Cálculo, ¿cuándo se dice que una función es discontinua en a?
+
+- A. Cuando una o más de las tres condiciones de continuidad no se cumplen para a
+- B. Cuando las tres condiciones de continuidad se cumplen para a
+- C. Cuando la función no tiene asíntotas
+- D. Cuando el dominio de la función es un intervalo abierto
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 92
+**Subtema:** Continuidad de una función · Discontinuidad
+
+"Si una o más de estas tres condiciones no se cumplen para a, se dice que la función es discontinua en a."
+
+### 134
+
+De acuerdo con el libro de Cálculo, ¿cuándo es continua una función en un intervalo cerrado?
+
+- A. Si y sólo si es continua en todo punto del intervalo cerrado
+- B. Si y sólo si es continua únicamente en los extremos del intervalo cerrado
+- C. Si y sólo si el intervalo no contiene números negativos
+- D. Si y sólo si la función es un polinomio de grado par
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 93
+**Subtema:** Continuidad de una función · Continuidad en un intervalo cerrado
+
+"Una función es continua en un intervalo cerrado si y sólo si es continua en todo punto del intervalo cerrado."
