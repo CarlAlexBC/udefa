@@ -1,6 +1,6 @@
 # Cálculo · Unidad 1 · Conceptos esenciales de las funciones
 
-**Libro:** Salazar, Bahena y Velázquez · *Cálculo. Teoría y aplicaciones* (Patria, 1.ª ed. 2020) · **Unidad 1 → EN CURSO**
+**Libro:** Salazar, Bahena y Velázquez · *Cálculo. Teoría y aplicaciones* (Patria, 1.ª ed. 2020) · **Unidad 1 → CERRADA (107 reactivos)**
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Esta Unidad la pide la **EMT** (Escuela Militar de
@@ -357,15 +357,23 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   aplicado a *f* de *x*")—. El resto de la página 52 y las páginas 53 a 56 son puros
   problemas de aplicación (geometría de áreas, modelos de velocidad y corriente,
   costos) y actividades de práctica, sin una sola definición, teorema o regla nueva.
+- **Las páginas impresas 57 a 59 NO dieron ningún reactivo y cierran la Unidad 1.** La
+  57 y media de la 58 son la "Unidad integradora · Deduce y aprende" (preguntas de
+  autorreflexión del alumno); el resto de la 58 es la "Evaluación sumativa" (ejercicios
+  de repaso, sin dato nuevo); la 59 son dos tablas de autoevaluación/rúbrica. **La hoja
+  65 del PDF (que por el desfase +5 le tocaría a la p.60) es en realidad la portadilla de
+  la Unidad 2** —objetivos y semblanza de Leibniz—, así que la Unidad 1 no llega a tener
+  una p.60 propia: cierra en la p.59.
 
-**Pendiente:** EN CURSO. **El 1.1, el 1.2, y del 1.3 los incisos a), b), c) y d) quedan
-CERRADOS** (pp. 8–10, 13–24, 25–41, 42–48, 49–51). Cubierto además el arranque de
-**Álgebra de funciones** hasta la **p.52**. Sigue desde la **p.57** —lo que resta de
-"Aplicaciones" son puros problemas, ya revisado hasta la p.56— hasta cerrar la Unidad 1
-en la p.60. Después van la **Unidad 2**
-(p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
-es materia nueva del banco:** mientras no exista el `.md` de la Unidad 2, éste sostiene
-el pendiente de toda la materia.
+**Pendiente:** ninguno. **La Unidad 1 queda CERRADA por completo, 107 reactivos** (pp.
+8–59: 1.1 y 1.2 en pp. 8–10; 1.3 con sus cuatro incisos en pp. 13–50; Álgebra de
+funciones y composición en pp. 51–52; pp. 53–59 sin materia nueva). Sigue la **Unidad 2
+· Límites de una función para analizar su comportamiento**, que arranca en la portadilla
+que ocupa la p.60, en un **archivo nuevo** (`calculo-02-...md`). Después va la **Unidad
+3 · La derivada de una función para modelar el cambio** (p.99), también en archivo
+propio. **Cálculo Diferencial es materia nueva del banco:** mientras no exista el `.md`
+de la Unidad 2, este archivo (ya cerrado) deja de sostener el pendiente de la materia —
+pasa al archivo de la Unidad 2 en cuanto se cree.
 
 ---
 
