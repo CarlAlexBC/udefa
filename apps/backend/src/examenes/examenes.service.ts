@@ -188,6 +188,7 @@ export class ExamenesService {
     'Escuela Militar de Aviación': 'EMA',
     'Escuela Militar de Ingeniería': 'EMI',
     'Escuela Militar de Materiales de Guerra': 'EMMG',
+    'Escuela Militar de Mantenimiento y Abastecimiento': 'EMMA',
   };
 
   async armarExamen(examenId: number, usuarioId?: number) {

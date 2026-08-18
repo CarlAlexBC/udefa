@@ -45,6 +45,11 @@
       "ESP-02-2026": { "slug": "espanol-zarzar", "capitulos": [1, 2, 3, 4] },
       "HISMEX-03-2026": { "slug": "historia-mexico-menchaca", "capitulos": [2, 3, 5] },
       "METINV-04-2026": { "slug": "metodologia-baena", "capitulos": [1] }
+    },
+    "EMMA": {
+      "ALGE-01-2026": { "slug": "zill-atg", "capitulos": [2, 3, 4] },
+      "FIS-02-2026": { "slug": "fisica-perez-montiel", "capitulos": [4, 5, 6, 8, 11] },
+      "TGA-02-2026": { "slug": "zill-atg", "capitulos": [8, 9, 10, 11] }
     }
   }
 }
