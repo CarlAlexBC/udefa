@@ -94,6 +94,24 @@ Secciones de la Unidad 1, según el índice del libro:
   el libro concluye *"Dmf = ℝ − {3}"*, pero la propia asíntota vertical que da dos líneas
   arriba es *x* = **−3** (el valor que anula el denominador). Debería decir ℝ − {−3}.
   Verificado a 800 dpi. También dentro de una Solución paso a paso, no se pregunta.
+- **p.42 — la definición formal de función inyectiva mezcla una cláusula trivial con la
+  correcta.** El libro imprime: *"Una función f: A → B es inyectiva si x₁ = x₂, entonces
+  se cumple que f(x₁) = f(x₂) o lo que es lo mismo, si x₁ ≠ x₂, entonces f(x₁) ≠
+  f(x₂)."* Verificado a 800 dpi. La primera cláusula (*x₁ = x₂ ⇒ f(x₁) = f(x₂)*) la
+  cumple **cualquier función**, sea o no inyectiva —es la definición de estar bien
+  definida, no de ser inyectiva—; la que sí distingue a la inyectiva es la segunda
+  (*x₁ ≠ x₂ ⇒ f(x₁) ≠ f(x₂)*), presentada como si fuera "lo mismo" cuando no lo es.
+  **El reactivo se escribe sólo con la cláusula correcta.**
+- **p.42 — el mismo apartado cambia dominio por contradominio al cerrar la idea.**
+  Sigue: *"[...] de manera que si a un elemento del dominio le pertenecen dos elementos
+  o más en el contradominio no es función inyectiva."* Verificado a 800 dpi. Está al
+  revés: una función ya le asigna **un solo** elemento del contradominio a cada elemento
+  del dominio (si no, no sería función); lo que rompe la inyectividad es que **un
+  elemento del contradominio tenga dos o más elementos del dominio** que le
+  correspondan. Coincide con el patrón del "imagen de A" en p.10: el libro confunde
+  dominio y contradominio al final de una definición. **No se escribe reactivo con esta
+  cláusula**; el concepto se cubre con la frase limpia que la precede en la misma página
+  ("todo elemento del contradominio tiene solamente un elemento en el dominio").
 
 ## Criterio: teoría sobre práctica
 
@@ -281,12 +299,31 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   funciones racionales concretas), todo con Solución paso a paso. **Dos erratas
   matemáticas del libro anotadas arriba** (intervalo con el signo cambiado en p.33,
   dominio con el signo cambiado en p.35), ninguna afecta reactivos.
+- Cubiertas las páginas impresas **39 a 41**, que **cierran el inciso b)**: sólo dan un
+  reactivo, la frase que abre el bloque de "funciones compuestas" (en realidad funciones
+  definidas por partes, pero así las nombra el libro) —que en ellas se marcan los
+  intervalos donde está definida cada función—. Todo lo demás son ejemplos resueltos con
+  Solución paso a paso, actividades de aprendizaje y las Figuras 1.36 a 1.39.
+- Cubierta la página impresa **42**, que **abre el inciso c) Funciones inyectivas,
+  sobreyectivas y biyectivas**: la frase que caracteriza a las tres por la regla de
+  correspondencia entre dominio y contradominio, y el apartado **Función inyectiva**
+  completo —su definición formal (la mitad limpia; ver erratas arriba), el nombre
+  **función uno a uno**—. **Fuera:** el "ejemplo práctico" de las bocinas (es analogía
+  ilustrativa, no materia) y el *Ejemplo* de *f*(*x*) = *x* + 1 con su Solución.
+- Cubierta la página impresa **43**: la **prueba de la recta horizontal** para saber si
+  una función es inyectiva (si las rectas horizontales cortan a la gráfica a lo más en un
+  punto). **Fuera:** el resto son dos *Ejemplos* con su Solución y las Figuras 1.40 a 1.42.
+- Cubierto el arranque de la página impresa **44**: el apartado **Función sobreyectiva**
+  completo —su definición formal, la condición equivalente de que el contradominio sea
+  igual al rango, y el nombre **función sobre**—. **Fuera:** los dos *Ejemplos* con su
+  Solución y las Figuras 1.43 y 1.44; siguen en la p.45.
 
 **Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-va cubierto hasta la **p.38**, con lo que **el inciso a) quedó CERRADO** (pp. 13–24) y el
-**b) está EN CURSO**. Sigue desde la **p.39** con el resto del **b)** funciones explícitas
-o implícitas (pp. 39–41), y luego **c)** inyectivas, sobreyectivas y biyectivas (pp. 42–48) y
-**d)** función invertible y función inversa (pp. 49–60), hasta cerrar la Unidad 1
+el **inciso a) y el b) quedaron CERRADOS** (pp. 13–24 y 25–41). El **c) está EN CURSO**:
+cubierto hasta el arranque de la **p.44** (función inyectiva completa y el arranque de
+sobreyectiva). Sigue desde la **cola de la p.44** (los dos *Ejemplos* de sobreyectiva)
+hasta cerrar **c)** —falta **función biyectiva**— y luego **d)** función invertible y
+función inversa (pp. 49–60), hasta cerrar la Unidad 1
 en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
 es materia nueva del banco:** mientras no exista el `.md` de la Unidad 2, éste sostiene
@@ -1879,3 +1916,139 @@ Conforme al libro de Cálculo, ¿cómo se determina el rango de una función en 
 > Nota de revisor: el distractor C es el procedimiento de las **asíntotas verticales**
 > (p.29, reactivo 84) — mismo libro, procedimiento distinto, para cazar a quien mezcla
 > los dos.
+
+---
+
+## Sub-lote 20 · Cierra el inciso b); arranca el c) con inyectivas y sobreyectivas (1.3 b y c, pp. 40-44)
+
+### 93
+
+De acuerdo con el libro de Cálculo, ¿qué se marca en los intervalos de las funciones compuestas?
+
+- A. Los intervalos donde están definidas cada una de las funciones
+- B. Los intervalos donde la función corta al eje *x*
+- C. Los valores donde el denominador se anula
+- D. Los valores donde la derivada de la función es cero
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 40
+**Subtema:** Funciones compuestas · Intervalos de definición
+
+"Existen funciones compuestas en las cuales se marcan los intervalos donde están definidas cada una de las funciones, la realización de la gráfica nos permite entender más claramente el cómo se representa la situación de las funciones."
+
+### 94
+
+Conforme al libro de Cálculo, ¿por qué se caracterizan las funciones inyectivas, sobreyectivas y biyectivas?
+
+- A. Por la regla de correspondencia que existe entre el dominio y el contradominio y viceversa
+- B. Por el grado del polinomio que las define
+- C. Por el número de asíntotas que tiene su gráfica
+- D. Por si su dominio son los números naturales o los reales
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 42
+**Subtema:** Funciones inyectivas, sobreyectivas y biyectivas · Caracterización
+
+"Estas funciones se caracterizan por la regla de correspondencia que existe entre el dominio y el contradominio y viceversa."
+
+### 95
+
+De conformidad con el libro de Cálculo, en la definición formal de función inyectiva, si *x*₁ ≠ *x*₂, ¿qué se cumple?
+
+- A. *f*(*x*₁) ≠ *f*(*x*₂)
+- B. *f*(*x*₁) = *f*(*x*₂)
+- C. *x*₁ = *f*(*x*₂)
+- D. *f*(*x*₁) = *x*₂
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 42
+**Subtema:** Función inyectiva · Definición formal
+
+"[...] o lo que es lo mismo, si x₁ ≠ x₂, entonces f(x₁) ≠ f(x₂)."
+
+### 96
+
+De acuerdo con el libro de Cálculo, ¿cómo también se le llama a la función inyectiva?
+
+- A. Función uno a uno
+- B. Función sobre
+- C. Función identidad
+- D. Función biunívoca inversa
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 42
+**Subtema:** Función inyectiva · Nombre alterno
+
+"[...] a la función inyectiva también se le llama **función uno a uno** [...]"
+
+> Nota de revisor: el distractor B es el nombre alterno de la **sobreyectiva** (reactivo
+> 99, misma unidad, dos páginas después) — mismo molde de trampa que ya usó el libro con
+> los nombres de asíntotas y dominio.
+
+### 97
+
+Conforme al libro de Cálculo, ¿cómo se determina gráficamente si una función es inyectiva?
+
+- A. Trazando rectas horizontales; si cortan a la gráfica a lo más en un punto, es inyectiva
+- B. Trazando rectas verticales; si cortan a la gráfica a lo más en un punto, es inyectiva
+- C. Trazando rectas horizontales; si cortan a la gráfica en dos puntos, es inyectiva
+- D. Trazando la recta y = x; si la gráfica es simétrica a ella, es inyectiva
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 43
+**Subtema:** Función inyectiva · Prueba de la recta horizontal
+
+"Otra forma de ver esto es realizando la gráfica y trazando rectas horizontales, si éstas cortan a lo más en un punto decimos que es inyectiva."
+
+> Nota de revisor: el distractor B es el **criterio de la recta vertical**, ya cubierto en
+> la p.11 (reactivos 43-44) para saber si una gráfica **es función**; aquí la recta es
+> horizontal y la pregunta es si esa función **es inyectiva**. Mismo dibujo, pregunta
+> distinta.
+
+### 98
+
+De acuerdo con el libro de Cálculo, ¿cuál es la definición de función sobreyectiva?
+
+- A. A todo elemento del contradominio le corresponde un elemento del dominio
+- B. A todo elemento del dominio le corresponde un elemento del contradominio
+- C. A ningún elemento del contradominio le corresponde más de un elemento del dominio
+- D. Al elemento cero del dominio le corresponde el elemento cero del contradominio
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 44
+**Subtema:** Función sobreyectiva · Definición
+
+"Una función f: A → B es sobreyectiva si a todo elemento del contradominio le corresponde un elemento del dominio [...]"
+
+> Nota de revisor: el distractor B es la definición de **ser función**, no de ser
+> sobreyectiva — invierte dominio y contradominio.
+
+### 99
+
+Conforme al libro de Cálculo, ¿qué condición sobre el contradominio y el rango se cumple cuando una función es sobreyectiva?
+
+- A. El contradominio es igual al rango
+- B. El contradominio es un subconjunto propio del rango
+- C. El rango es igual al dominio
+- D. El contradominio no tiene relación con el rango
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 44
+**Subtema:** Función sobreyectiva · Condición equivalente
+
+"[...] que en el contradominio no sobran imágenes, sino que a todas les corresponden un elemento en el dominio; es decir, el contradominio es igual al rango."
+
+### 100
+
+De acuerdo con el libro de Cálculo, cuando una función es sobreyectiva, ¿cómo también se le llama?
+
+- A. Función sobre
+- B. Función uno a uno
+- C. Función biyectiva
+- D. Función acotada
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 44
+**Subtema:** Función sobreyectiva · Nombre alterno
+
+"Cuando una función es sobreyectiva, decimos que mapea o cubre a todo B (**función sobre**)."
