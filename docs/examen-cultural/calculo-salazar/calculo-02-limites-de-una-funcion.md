@@ -109,19 +109,35 @@ dependan de los números concretos de ese ejemplo.
   enésima (con su condición *L* > 0, *n* entero positivo)—. El del teorema 1 se cubre
   por su enunciado en prosa, no por la notación (ver erratas arriba). **Fuera:** el
   *Ejemplo* de aplicación de los teoremas con su Solución.
-- **Las páginas impresas 75 a 77 NO dieron ningún reactivo.** Son puros *Ejemplos*
+- **Las páginas impresas 75 a 78 NO dieron ningún reactivo.** Son puros *Ejemplos*
   aplicando los siete teoremas ya cubiertos (constantes, funciones trigonométricas,
   exponenciales, un caso de discontinuidad) con su Solución, más listas de ejercicios
   de práctica.
+- Cubierto el arranque de la página impresa **79**: el apartado **Indeterminaciones de
+  la forma 0/0**, con tres datos —qué es una **raíz de un polinomio** (*P*(*a*) = 0),
+  cuándo aparece la indeterminación 0/0 en una función racional (cuando *a* es raíz de
+  los dos polinomios), y cómo se salva (factorizando (*x* − *a*) en ambos y
+  simplificando)—. **Fuera:** el recuadro de fórmulas de factorización (es un
+  formulario de repaso de Álgebra, no materia propia de Cálculo) y el *Ejemplo* con su
+  Solución.
+- **Las páginas impresas 80 a 82 NO dieron ningún reactivo**, salvo el arranque del
+  inciso **b) Suma y producto cuando alguno de los límites es infinito o menos
+  infinito** al cierre de la p.82, que es introducción motivacional (qué significa
+  "infinito" en el lenguaje común) sin un dato propio que fijar todavía.
+- Cubierto el arranque de la página impresa **83**: la clasificación de los límites en
+  **tres casos** (+∞, −∞, o un número *L*), y el límite lím (x→∞) 1/x = 0, que el
+  libro señala explícitamente como **importante** para calcular límites que tienden a
+  ser grandes. **Fuera:** los ejemplos de límites de potencias de *x* al infinito con
+  su explicación de signos, la actividad de aprendizaje y la Tabla 2.7.
 
-**Pendiente:** EN CURSO. **El 2.1 queda CERRADO** (pp. 67-72). Del **2.2**, cubierto el
-inciso **a) completo** (los siete teoremas, p.74) hasta la p.77. Sigue desde la
-**p.78** con el resto del inciso a) si lo hay, o el inciso **b) Suma y producto cuando
-algún límite es infinito o menos infinito** (p.82), y el inciso **c) Suma y producto
-cuando algún límite no existe** (p.89), y luego **2.3 Continuidad** (p.92), hasta
-cerrar la Unidad 2 en la p.98 (la Unidad 3 arranca p.99). **Antes de tocar este
-archivo, corre la regla del punto de continuación de CLAUDE.md** —esta Unidad es
-materia nueva y este archivo es el único que sostiene su pendiente.
+**Pendiente:** EN CURSO. **El 2.1 y el inciso a) del 2.2 quedan CERRADOS** (pp. 67-81).
+Del inciso **b)**, cubierto el arranque hasta la **p.83** (los tres casos y el límite
+de 1/x). Sigue desde la **p.84** con el resto de **b)** hasta cerrar en p.88 (según el
+índice), y luego el inciso **c) Suma y producto cuando algún límite no existe** (p.89),
+y **2.3 Continuidad** (p.92), hasta cerrar la Unidad 2 en la p.98 (la Unidad 3 arranca
+p.99). **Antes de tocar este archivo, corre la regla del punto de continuación de
+CLAUDE.md** —esta Unidad es materia nueva y este archivo es el único que sostiene su
+pendiente.
 
 ---
 
@@ -328,3 +344,82 @@ De acuerdo con el libro de Cálculo, si lím (x→a) f(x) = L, ¿a qué es igual
 **Subtema:** Teoremas de límites · Teorema 7, límite de la raíz enésima
 
 "Si lím f(x) = L, entonces lím ⁿ√f(x) = ⁿ√(lím f(x)) = ⁿ√L. Con L > 0, si n es un número entero positivo."
+
+---
+
+## Sub-lote 3 · Indeterminaciones 0/0, y arranca "cuando el límite es infinito" (2.2 a y b, pp. 79, 83)
+
+### 121
+
+De acuerdo con el libro de Cálculo, si *P*(*x*) es un polinomio y *P*(*a*) = 0, ¿cómo se le llama a *a*?
+
+- A. Raíz o solución del polinomio
+- B. Asíntota del polinomio
+- C. Dominio del polinomio
+- D. Coeficiente principal del polinomio
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 79
+**Subtema:** Indeterminaciones de la forma 0/0 · Raíz de un polinomio
+
+"Recordemos que en un polinomio P(x) y un valor x = a, tal que P(a) = 0; entonces, decimos que a es una raíz o solución del polinomio."
+
+### 122
+
+Conforme al libro de Cálculo, al calcular el límite de una función racional P(x)/q(x) cuando x tiende a a, ¿cuándo se obtiene la forma indeterminada 0/0?
+
+- A. Cuando a es raíz de los dos polinomios, P(x) y q(x)
+- B. Cuando a es raíz únicamente del numerador P(x)
+- C. Cuando a es raíz únicamente del denominador q(x)
+- D. Cuando a no es raíz de ninguno de los dos polinomios
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 79
+**Subtema:** Indeterminaciones de la forma 0/0 · Cuándo aparece
+
+"[...] si se tiene una función racional de la cual se desea obtener el límite cuando x tienda a a, donde a es una raíz de los dos polinomios, tenemos: lím P(x)/q(x) = P(a)/q(a) = 0/0."
+
+### 123
+
+De acuerdo con el libro de Cálculo, ¿cómo es posible salvar una indeterminación de la forma 0/0 en el límite de una función racional?
+
+- A. Factorizando (x − a) en los dos polinomios y simplificando
+- B. Derivando el numerador y el denominador por separado
+- C. Sustituyendo x por 0 en ambos polinomios
+- D. Multiplicando el numerador y el denominador por x
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 79
+**Subtema:** Indeterminaciones de la forma 0/0 · Procedimiento
+
+"Es posible salvar la indeterminación factorizando a (x − a) en los dos polinomios y simplificando."
+
+### 124
+
+Conforme al libro de Cálculo, ¿en qué tres casos se pueden agrupar los límites según su resultado?
+
+- A. Cuando el resultado es +∞, −∞, o un número que llamamos L
+- B. Cuando el resultado es positivo, negativo, o cero
+- C. Cuando el resultado es racional, irracional, o indefinido
+- D. Cuando el resultado es par, impar, o cero
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 83
+**Subtema:** Límites cuando x tiende al infinito · Clasificación
+
+"Los límites los podemos agrupar en tres casos: cuando el resultado es +∞ o −∞; o bien, un número que llamamos L."
+
+### 125
+
+De acuerdo con el libro de Cálculo, ¿cuánto vale el límite lím (x→∞) 1/x, que el libro señala como importante para calcular límites que tienden a ser grandes?
+
+- A. 0
+- B. 1
+- C. Infinito
+- D. No existe
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 83
+**Subtema:** Límites cuando x tiende al infinito · Límite de 1/x
+
+"El siguiente ejemplo nos permite establecer un límite que es importante cuando calculamos límites que tienden a ser grandes. lím (x→∞) 1/x = 0"
