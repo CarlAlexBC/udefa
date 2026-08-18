@@ -1,10 +1,10 @@
 # Español · Bloque 1 · Proceso comunicativo
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al **libro**,
-> no a una escuela. El Bloque 1 lo piden el **HCM** (`ESP-01-2026`, subtemas 1.1 y 1.2)
-> y la **EMMG** (`ESP-02-2026`, subtema 1.2), que reclaman el mismo Zarzar. Las líneas
-> `**Referencia:**` y `**Subtema:**` de cada reactivo son la llave con que cada temario
-> los llama; se reutilizan sin duplicarlos.
+> no a una escuela. El Bloque 1 lo piden el **HCM** (`ESP-01-2026`, subtemas 1.1 y 1.2),
+> la **EMMG** (`ESP-02-2026`, subtema 1.2) y la **EMT** (`ESP-03-2026`, subtema 1.2),
+> que reclaman el mismo Zarzar. Las líneas `**Referencia:**` y `**Subtema:**` de cada
+> reactivo son la llave con que cada temario los llama; se reutilizan sin duplicarlos.
 
 ## Libro
 

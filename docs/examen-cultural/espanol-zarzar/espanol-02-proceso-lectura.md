@@ -1,10 +1,10 @@
 # Español · Bloque 2 · Proceso de lectura
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al **libro**,
-> no a una escuela. El Bloque 2 lo pide el temario de la **EMMG** (`ESP-02-2026`,
-> subtema 2.2 Estrategias de comprensión lectora); el HCM (`ESP-01-2026`) no lo pide.
-> Las líneas `**Referencia:**` y `**Subtema:**` de cada reactivo son la llave con que
-> cada temario los llama; se reutilizan sin duplicarlos.
+> no a una escuela. El Bloque 2 lo piden la **EMMG** y la **EMT** (`ESP-02-2026` y
+> `ESP-03-2026`, subtema 2.2 Estrategias de comprensión lectora); el HCM
+> (`ESP-01-2026`) no lo pide. Las líneas `**Referencia:**` y `**Subtema:**` de cada
+> reactivo son la llave con que cada temario los llama; se reutilizan sin duplicarlos.
 
 ## Libro
 

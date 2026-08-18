@@ -1,10 +1,13 @@
 # Español · Bloque 3 · Proceso de escritura
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al **libro**,
-> no a una escuela. El Bloque 3 lo piden el **HCM** (`ESP-01-2026`, subtemas 3.1–3.3)
-> y la **EMMG** (`ESP-02-2026`, subtemas 3.1, 3.2, 3.3, Propiedades de la redacción y
-> 3.5 Conectores discursivos). Las líneas `**Referencia:**` y `**Subtema:**` de cada
-> reactivo son la llave con que cada temario los llama; se reutilizan sin duplicarlos.
+> no a una escuela. El Bloque 3 lo piden el **HCM** (`ESP-01-2026`, subtemas 3.1–3.3),
+> la **EMMG** (`ESP-02-2026`, subtemas 3.1, 3.2, 3.3, Propiedades de la redacción y
+> 3.5 Conectores discursivos) y la **EMT** (`ESP-03-2026`, los mismos subtemas que la
+> EMMG: 3.1, 3.2, 3.3, "3.3"/Propiedades de la redacción —errata del temario, ver
+> `espanol-06-textos-expositivos.md`— y 3.5). Las líneas `**Referencia:**` y
+> `**Subtema:**` de cada reactivo son la llave con que cada temario los llama; se
+> reutilizan sin duplicarlos.
 
 ## Libro
 
@@ -36,11 +39,14 @@ del libro, sería 3.4).
 ## Cobertura actual
 
 Cubierto por completo el Bloque 3: los subtemas 3.1, 3.2 y 3.3 (pp. 47–75:
-sintaxis, acentuación completa y puntuación) que piden el **HCM** y la **EMMG**, y
-además —para la **EMMG**— las Propiedades de la redacción (pp. 76–79) y los
-Conectores discursivos (3.5, pp. 80–82).
+sintaxis, acentuación completa y puntuación) que piden el **HCM**, la **EMMG** y
+la **EMT**, y además —para la **EMMG** y la **EMT**— las Propiedades de la
+redacción (pp. 76–79) y los Conectores discursivos (3.5, pp. 80–82). La cita de
+página no depende del escaneo (HCM/EMMG vs. EMT): ambos son la misma edición
+confirmada, así que la página impresa referida en cada reactivo es válida para
+cualquiera de los dos escaneos.
 
-**Pendiente:** ninguno. El Bloque 3 queda cerrado para el HCM y para la EMMG.
+**Pendiente:** ninguno. El Bloque 3 queda cerrado para el HCM, la EMMG y la EMT.
 
 ## Cómo se escriben estos reactivos
 
