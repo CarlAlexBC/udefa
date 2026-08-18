@@ -84,6 +84,15 @@ reactivos — el teorema en sí (el enunciado "Sea f(x)=... entonces f'(x)=...")
   documentó en la Unidad 1.** El encabezado imprime **"Definición de derivad"**, sin
   la *d* final. Verificado a 800 dpi. **No se escriben reactivos sobre títulos**, así
   que no afecta al banco.
+- **p.110 — el límite auxiliar para demostrar la derivada del coseno está mal.** Antes
+  de la demostración, el libro imprime: *"Antes de iniciar la demostración de la
+  derivada del coseno se hace necesario que obtengas gráficamente: lím_{h→0} cos(h)/h
+  = 1."* Verificado a 800 dpi. Es **matemáticamente falso**: cuando h→0, cos(h)→1, así
+  que cos(h)/h se dispara a ±∞, no converge a 1. El límite que en realidad hace falta
+  para esa demostración es lím_{h→0} [cos(h) − 1]/h = 0 (le falta el "−1" al
+  numerador). **No se escribe reactivo con este límite** — es el mismo criterio que ya
+  se aplicó con el teorema de la unicidad mal escrito en la Unidad 2: un dato falso no
+  se convierte en reactivo aunque el libro lo imprima así.
 
 ## Cobertura por página
 
@@ -108,18 +117,47 @@ reactivos — el teorema en sí (el enunciado "Sea f(x)=... entonces f'(x)=...")
   definición (es la misma fórmula del cociente incremental que ya se cubrió como
   límite en la Unidad 2), las dos Demostraciones paso a paso, y los dos *Ejemplos*
   con su Solución.
+- Cubierta la página impresa **107**: el cierre de la Demostración de la derivada de
+  la función potencia (sin reactivo, es Demostración), y el teorema completo de la
+  **derivada de la suma de dos funciones**, con su enunciado en prosa. **Fuera:** la
+  Demostración paso a paso y el *Ejemplo* con su Solución.
+- Cubierta la página impresa **108**: los teoremas completos de la **derivada del
+  producto de dos funciones** (fórmula) y de la **derivada del cociente de dos
+  funciones** (el enunciado, ya que la fórmula se completa hasta la p.109). **Fuera:**
+  las dos Demostraciones paso a paso y el desarrollo específico de *f*(*x*) = 1/*x*
+  (es un caso particular, puente hacia el teorema general, no el teorema en sí).
+- Cubierta la página impresa **109**: el cierre de la Demostración de la derivada del
+  cociente con su **fórmula final y su enunciado en prosa**; el límite lím (h→0)
+  sen(h)/h = 1 (aquí es donde el libro por fin le da valor a este límite, mencionado
+  sin resolver en la Unidad 2); y la **derivada de la función seno** (y = sen x →
+  y' = cos x). **Fuera:** la Demostración paso a paso y la tabla de valores.
+- Cubierta la página impresa **110**: la generalización de la derivada del seno por
+  regla de la cadena (y = sen *u* → y' = *u*' cos *u*) con su enunciado en prosa, y la
+  **derivada de la función coseno** (y = cos x → y' = −sen x). **Fuera:** la
+  Demostración paso a paso y el límite lím (h→0) cos(h)/h = 1, que está **mal** (ver
+  erratas arriba) y no se usa en ningún reactivo.
+- Cubierta la página impresa **111**: la generalización de la derivada del coseno por
+  regla de la cadena (y = cos *u* → y' = −*u*' sen *u*) con su enunciado en prosa, y
+  la **derivada de la función logaritmo natural** (y = ln x → y' = 1/x). **Fuera:** la
+  Demostración paso a paso.
+- Cubierta la página impresa **112**: el cierre de la Demostración de ln x con su
+  generalización por regla de la cadena (y = ln *u* → derivada = *u*'/*u*), y la
+  **derivada de la función exponencial** *f*(*x*) = e^x (el límite auxiliar lím (h→0)
+  (e^h − 1)/h = 1, que a diferencia del de coseno **sí es correcto**, y el resultado
+  *f*'(x) = e^x). **Fuera:** la Demostración paso a paso y la actividad de aprendizaje
+  con 32 funciones a derivar por definición.
 
-**Pendiente:** EN CURSO. Cubierto el **3.1 completo** (p.105) y el arranque del
-**3.2** hasta la **p.106** (dos teoremas de derivación). Sigue desde la **p.107** con
-el resto del **3.2** (más teoremas de derivación: identidad, lineal, seno, coseno,
-logaritmo natural, exponencial, según el temario 3.8) hasta cerrar en p.112, y luego
-**3.3 Fórmulas para derivar suma, producto, cociente y composición** (p.113), **3.4
-Fórmulas trigonométricas, exponenciales y logarítmicas** (p.124), **3.5 Criterios de
-comportamiento** (p.159), **3.6 Notaciones** (p.178) y **3.7 Diferencial** (p.178),
-hasta cerrar la Unidad 3 — y la materia completa de Cálculo para la EMT — antes de la
-p.188 (arranca la Unidad 4, La integral, que el temario NO pide). **Antes de tocar
-este archivo, corre la regla del punto de continuación de CLAUDE.md** —esta Unidad es
-materia nueva y este archivo es el único que sostiene su pendiente.
+**Pendiente:** EN CURSO. Cubierto el **3.1 completo** (p.105) y el **3.2 completo**
+(pp. 106-112: derivada constante, potencia, suma, producto, cociente, seno, coseno,
+logaritmo natural, exponencial — nueve fórmulas de derivación). Sigue desde la
+**p.113** con **3.3 Fórmulas para derivar suma, producto, cociente y composición de
+funciones (regla de la cadena)**, y luego **3.4 Fórmulas trigonométricas, exponenciales
+y logarítmicas** (p.124), **3.5 Criterios de comportamiento** (p.159), **3.6
+Notaciones** (p.178) y **3.7 Diferencial** (p.178), hasta cerrar la Unidad 3 — y la
+materia completa de Cálculo para la EMT — antes de la p.188 (arranca la Unidad 4, La
+integral, que el temario NO pide). **Antes de tocar este archivo, corre la regla del
+punto de continuación de CLAUDE.md** —esta Unidad es materia nueva y este archivo es
+el único que sostiene su pendiente.
 
 ---
 
@@ -343,3 +381,217 @@ Conforme al libro de Cálculo, si f(x) = x^n es una función derivable, ¿cuánt
 **Subtema:** Definición de derivada de una función · Derivada de la función potencia
 
 "Teorema: Sea f(x) = x^n una función derivable entonces, f'(x) = n x^(n − 1)."
+
+---
+
+## Sub-lote 2 · Las nueve fórmulas de derivación (3.2, pp. 107-112)
+
+### 149
+
+De acuerdo con el libro de Cálculo, ¿a qué es igual la derivada de la suma de dos funciones?
+
+- A. A la derivada de cada una de las funciones
+- B. Al producto de las derivadas de cada función
+- C. A la derivada de la primera función únicamente
+- D. Al cociente de las derivadas de cada función
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 107
+**Subtema:** Definición de derivada de una función · Derivada de la suma
+
+"La derivada de la suma de dos funciones es igual a la derivada de cada una de las funciones."
+
+### 150
+
+Conforme al libro de Cálculo, si f(x) y g(x) son dos funciones derivables, ¿a qué es igual (f·g)'(x)?
+
+- A. f(x) g'(x) + g(x) f'(x)
+- B. f'(x) g'(x)
+- C. f(x) g'(x) − g(x) f'(x)
+- D. f'(x) + g'(x)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 108
+**Subtema:** Definición de derivada de una función · Derivada del producto
+
+"(f·g)'(x) = f(x) g'(x) + g(x) f'(x)"
+
+### 151
+
+De acuerdo con el libro de Cálculo, ¿a qué es igual la derivada de un cociente?
+
+- A. A la derivada del numerador por el denominador (sin derivar) menos la derivada del denominador por el numerador (sin derivar), dividida esta diferencia por el cuadrado del denominador
+- B. Al cociente de las derivadas del numerador y el denominador
+- C. A la derivada del denominador por el numerador (sin derivar) menos la derivada del numerador por el denominador (sin derivar), dividida por el denominador
+- D. Al producto de las derivadas del numerador y el denominador
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 109
+**Subtema:** Definición de derivada de una función · Derivada del cociente
+
+"La derivada de un cociente es igual a la derivada del numerador por el denominador (sin derivar) menos la derivada del denominador por el numerador (sin derivar), dividida esta diferencia por el cuadrado del denominador."
+
+### 152
+
+Conforme al libro de Cálculo, ¿cuánto vale el límite lím (h→0) sen(h)/h, necesario para demostrar la derivada del seno?
+
+- A. 1
+- B. 0
+- C. Infinito
+- D. No existe
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 109
+**Subtema:** Definición de derivada de una función · Límite auxiliar del seno
+
+"lím (h→0) sen h / h = 1"
+
+### 153
+
+De acuerdo con el libro de Cálculo, si y = sen x, ¿cuánto vale y'?
+
+- A. cos x
+- B. −sen x
+- C. −cos x
+- D. sen x
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 109
+**Subtema:** Definición de derivada de una función · Derivada del seno
+
+"Si y = sen x; entonces y' = cos x."
+
+### 154
+
+Conforme al libro de Cálculo, en general, si y = sen u (con u una función), ¿cuánto vale y'?
+
+- A. u' cos u
+- B. u' sen u
+- C. −u' cos u
+- D. cos u
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 110
+**Subtema:** Definición de derivada de una función · Derivada del seno, regla de la cadena
+
+"En general se tiene que si y = sen u; entonces y' = u' cos u."
+
+### 155
+
+De acuerdo con el libro de Cálculo, ¿a qué es igual la derivada del seno de una función?
+
+- A. Al producto de la derivada de la función por el coseno de la función
+- B. Al producto de la derivada de la función por el seno de la función
+- C. Al cociente de la derivada de la función entre el coseno de la función
+- D. A menos el producto de la derivada de la función por el coseno de la función
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 110
+**Subtema:** Definición de derivada de una función · Derivada del seno
+
+"La derivada del seno de una función; es igual al producto de la derivada de la función por el coseno de la función."
+
+### 156
+
+Conforme al libro de Cálculo, si y = cos x, ¿cuánto vale y'?
+
+- A. −sen x
+- B. sen x
+- C. cos x
+- D. −cos x
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 110
+**Subtema:** Definición de derivada de una función · Derivada del coseno
+
+"Así definimos y = cos x, y' = −sen x."
+
+### 157
+
+De acuerdo con el libro de Cálculo, si f(x) = u (con u una función continua y derivable) y y = cos u, ¿cuánto vale y'?
+
+- A. −u' sen u
+- B. u' sen u
+- C. −u' cos u
+- D. u' cos u
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 111
+**Subtema:** Definición de derivada de una función · Derivada del coseno, regla de la cadena
+
+"Si f(x) = u; y u es una función continua y derivable, entonces: y = cos u, y' = −u' sen u."
+
+### 158
+
+Conforme al libro de Cálculo, ¿a qué es igual la derivada del coseno de una función?
+
+- A. A menos el producto de la derivada de la función por el seno de la función
+- B. Al producto de la derivada de la función por el seno de la función
+- C. A menos el producto de la derivada de la función por el coseno de la función
+- D. Al cociente de la derivada de la función entre el seno de la función
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 111
+**Subtema:** Definición de derivada de una función · Derivada del coseno
+
+"La derivada del coseno de una función es igual a menos el producto de la derivada de la función por el seno de la función."
+
+### 159
+
+De acuerdo con el libro de Cálculo, si y = ln x, ¿cuánto vale y'?
+
+- A. 1/x
+- B. x
+- C. ln x
+- D. 1/ln x
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 111
+**Subtema:** Definición de derivada de una función · Derivada del logaritmo natural
+
+"Si y = ln x; entonces y' = 1/x."
+
+### 160
+
+Conforme al libro de Cálculo, en general, si y = ln u (con u una función), ¿cuánto vale la derivada?
+
+- A. u'/u
+- B. u/u'
+- C. 1/u
+- D. u' · u
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 112
+**Subtema:** Definición de derivada de una función · Derivada del logaritmo natural, regla de la cadena
+
+"En general se tiene que si y = ln u entonces la derivada es f'(x) = u'/u."
+
+### 161
+
+De acuerdo con el libro de Cálculo, ¿cuánto vale el límite lím (h→0) (e^h − 1)/h, necesario para demostrar la derivada de la función exponencial?
+
+- A. 1
+- B. 0
+- C. e
+- D. Infinito
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 112
+**Subtema:** Definición de derivada de una función · Límite auxiliar de la exponencial
+
+"Pero este límite es igual a uno: lím (h→0) (e^h − 1)/h = 1"
+
+### 162
+
+Conforme al libro de Cálculo, si f(x) = e^x, ¿cuánto vale f'(x)?
+
+- A. e^x
+- B. x·e^(x−1)
+- C. e^x · ln e
+- D. 1
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 112
+**Subtema:** Definición de derivada de una función · Derivada de la función exponencial
+
+"Así entonces tenemos que la derivada de la función es f'(x) = e^x."
