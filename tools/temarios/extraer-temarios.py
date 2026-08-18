@@ -54,7 +54,7 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 PATRON = os.path.join(RAIZ, 'examen_cultural', 'temarios_de_escuelas', '**', '*.pdf')
 SALIDA = os.path.join(RAIZ, 'docs', 'examen-cultural', 'temarios.json')
 
-RE_CODIGO = re.compile(r'^[A-ZÁÉÍÓÚÑ]{2,7}-\d{2}-\d{4}$')
+RE_CODIGO = re.compile(r'^[A-ZÁÉÍÓÚÑ]{2,7}(\.[A-ZÁÉÍÓÚÑ]{2,7})?-\d{2}-\d{4}$')
 
 # Encabezados de la tabla y pie de página. No son contenido: son el marco del
 # PDF, y aparecen al final de cada página porque el texto viene rotado.

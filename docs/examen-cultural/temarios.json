@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-22",
+  "generado": "2026-08-17",
   "fuente": "examen_cultural/temarios_de_escuelas/**/*.pdf",
   "nota": "Archivo generado por tools/temarios/extraer-temarios.py. No lo edites a mano: se regenera desde los PDF de la convocatoria.",
   "materias_compartidas": {
@@ -1587,6 +1587,112 @@
           ],
           "libro": "Dr. Aurelio Baldor, Edit. Patria, 4/a. Edición 2019",
           "codigo_normalizado": "ALGE-04-2026"
+        }
+      ]
+    },
+    {
+      "archivo": "EMT_TRANS_LIC_TICS_2026.pdf",
+      "plantel": "EMT",
+      "carrera": "Escuela Militar de Transmisiones, Cso. Form. Oficiales de Transmisiones, Lics. en Tec. de la Información y Coms.",
+      "anio": 2026,
+      "materias_en_portada": [
+        "Cálculo Diferencial",
+        "Metodología de la Investigación",
+        "Español",
+        "Álgebra"
+      ],
+      "materias": [
+        {
+          "codigo": "CÁLDIF-01-2026",
+          "nombre": "Cálculo Diferencial",
+          "temas": [
+            "Unidad 1. Conceptos Esenciales de",
+            "las Funciones.",
+            "Completo.",
+            "Unidad 2. Límites de una Función",
+            "para Analizar su Comportamiento.",
+            "Completo.",
+            "Unidad 3. La Derivada de una",
+            "Función para Modelar el Cambio.",
+            "Completo.",
+            "Cálculo Teoría y Aplicaciones"
+          ],
+          "libro": "Salazar / Bahena / Velázquez, Grupo Editorial Patria. 1/a. Edición 2020",
+          "codigo_normalizado": "CALDIF-01-2026"
+        },
+        {
+          "codigo": "MET.INV-02-2026",
+          "nombre": "Metodología de la Investigación",
+          "temas": [
+            "Bloque 1. Introducción a la",
+            "Metodología de la Investigación.",
+            "Completo.",
+            "Metodología de la Investigación. Serie",
+            "integral por competencias"
+          ],
+          "libro": "Guillermina Baena Paz, Edit. Patria, 3/a. Edición 2017",
+          "codigo_normalizado": "MET.INV-02-2026"
+        },
+        {
+          "codigo": "ESP-03-2026",
+          "nombre": "Español",
+          "temas": [
+            "Segunda Parte: Desarrollo Temático. 1.2. Funciones del Lenguaje.",
+            "Bloque 1. Proceso Comunicativo.",
+            "Segunda Parte: Desarrollo Temático. 2.2 Estrategias de",
+            "Comprensión Lectora.",
+            "Bloque 2. Proceso de Lectura.",
+            "Segunda Parte: Desarrollo Temático. 3.1. Principios Básicos de la",
+            "Sintaxis.",
+            "Segunda Parte: Desarrollo Temático. 3.2. Reglas de Acentuación",
+            "Segunda Parte: Desarrollo Temático. 3.3. Reglas de Puntuación.",
+            "Segunda Parte: Desarrollo Temático. 3.3. Propiedades de la",
+            "redacción (coherencia, cohesión y adecuación).",
+            "Segunda Parte: Desarrollo Temático. 3.5 Conectores Discursivos.",
+            "Bloque 3. Proceso de Escritura.",
+            "Segunda Parte: Desarrollo Temático.  4.1. Prototipos Textuales de",
+            "la Redacción.",
+            "Segunda Parte: Desarrollo Temático. 4.3. Propiedades",
+            "particulares de los prototipos textuales.",
+            "Bloque 4. Prototipos Textuales.",
+            "Segunda Parte: Desarrollo Temático. 6.1. Funciones y",
+            "Características de los Textos Expositivos.",
+            "Bloque 6. Textos Expositivos.",
+            "Taller de Lectura y Redacción 1, Serie",
+            "Integral por Competencias."
+          ],
+          "libro": "Carlos Zarzar Charur, Grupo Editorial Patria. 4/a. Edición 2017",
+          "codigo_normalizado": "ESP-03-2026"
+        },
+        {
+          "codigo": "ÁLGEBRA-04-2026",
+          "nombre": "Álgebra",
+          "temas": [
+            "I. Suma",
+            "Completo.",
+            "II. Resta",
+            "Completo.",
+            "III. Signos de Agrupación",
+            "Completo.",
+            "IV. Multiplicación",
+            "Completo.",
+            "V. División",
+            "Completo.",
+            "VIII. Ecuaciones Enteras de Primer",
+            "Grado con una Incógnita",
+            "Completo.",
+            "X. Descomposición Factorial",
+            "Completo.",
+            "XVIII. Fórmulas",
+            "Completo.",
+            "XX. Funciones",
+            "Completo.",
+            "XXIV. Ecuaciones Simultáneas de",
+            "Primer Grado con Dos Incógnitas",
+            "Completo."
+          ],
+          "libro": "Dr. Aurelio Baldor, Edit. Patria, 4/a. Edición 2019",
+          "codigo_normalizado": "ALGEBRA-04-2026"
         }
       ]
     },
