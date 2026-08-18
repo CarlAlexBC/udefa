@@ -1,9 +1,10 @@
 # Metodología de la Investigación · Bloque 1 · Introducción a la Metodología de la Investigación
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al **libro**,
-> no a una escuela. El Bloque 1 lo pide la **EMMG** (`METINV-04-2026`, "Bloque 1
-> completo"). Las líneas `**Referencia:**` y `**Subtema:**` de cada reactivo son la
-> llave con que el temario los llama.
+> no a una escuela. El Bloque 1 lo piden la **EMMG** (`METINV-04-2026`, "Bloque 1
+> completo") y la **EMT** (`MET.INV-02-2026`, "Bloque 1. Introducción a la
+> Metodología de la Investigación. Completo"). Las líneas `**Referencia:**` y
+> `**Subtema:**` de cada reactivo son la llave con que el temario los llama.
 
 ## Libro
 
@@ -11,21 +12,29 @@ Baena Paz, Guillermina. *Metodología de la Investigación*, Serie integral por
 competencias. **Grupo Editorial Patria**, 2017. Edición verificada contra la
 página legal del escaneo de la EMMG: "Tercera edición ebook: 2017", ISBN
 978-607-744-748-1, © 2014, 2016, 2017 Guillermina María Eugenia Baena Paz. El
-temario pide 3ª ed. 2017 → coincide.
+temario pide 3ª ed. 2017 → coincide. Verificado aparte contra la página legal del
+escaneo propio de la EMT (`metodologia de la investigacion.pdf`): mismo ISBN,
+mismos derechos reservados — de hecho parece el mismo archivo fuente (ambos
+escaneos comparten la marca de agua de ProQuest "Created from bibliotecacijsp",
+2018-07-30/31).
 
 **Desfase de páginas:** la hoja del PDF va **15 adelante** de la página impresa
 (hoja 20 = página impresa 5; hoja 62 = página impresa 47). Desfase constante,
 verificado en dos puntos a 42 páginas de distancia. Las páginas de las
 referencias se leyeron de la hoja, no se calcularon. El escaneo es un ebook con
 capa de texto (ProQuest), así que el contenido se leyó del texto y se cotejó
-contra la imagen en lo dudoso.
+contra la imagen en lo dudoso. El escaneo de la EMT tiene la misma paginación
+(confirmado: hoja 20 = "Introducción" de la p. 5; hoja 62 = autoevaluación de la
+zona de la p. 47), así que las citas de página valen para cualquiera de los dos
+escaneos.
 
 ## Alcance del temario
 
-Bloque 1 "Introducción a la Metodología de la Investigación" **completo** (único
-que pide la EMMG; el libro tiene más bloques que su temario no llama). El Bloque 1
-cubre las páginas impresas **5 a 44** (el contenido; de la p. 45 en adelante son
-las evaluaciones del bloque, que no llevan reactivos por norma). Sus subtemas:
+Bloque 1 "Introducción a la Metodología de la Investigación" **completo** (lo
+piden la EMMG y la EMT; el libro tiene más bloques que ningún temario llama). El
+Bloque 1 cubre las páginas impresas **5 a 44** (el contenido; de la p. 45 en
+adelante son las evaluaciones del bloque, que no llevan reactivos por norma).
+Sus subtemas:
 
 - **1.1 Antecedentes de la metodología de investigación para el desarrollo del
   conocimiento** (pp. 5–30): distintas formas de conocer (tipos de pensamiento),
@@ -55,7 +64,7 @@ las evaluaciones del bloque, que no llevan reactivos por norma). Sus subtemas:
 
 Cubierto por completo el Bloque 1 (pp. 5–44), en sus tres subtemas (1.1, 1.2 y
 1.3). Con esto **la materia Metodología de la Investigación queda cerrada para la
-EMMG**, el único plantel que la pide.
+EMMG y para la EMT**, los dos planteles que la piden.
 
 **Pendiente:** ninguno.
 
