@@ -112,6 +112,14 @@ Secciones de la Unidad 1, según el índice del libro:
   dominio y contradominio al final de una definición. **No se escribe reactivo con esta
   cláusula**; el concepto se cubre con la frase limpia que la precede en la misma página
   ("todo elemento del contradominio tiene solamente un elemento en el dominio").
+- **p.49 — la función inversa se define con la misma flecha que la función original.**
+  El libro imprime: *"Si f: B → A es biyectiva, entonces la función f tiene una función
+  definida por f⁻¹: B → A"*. Verificado a 1200 dpi. La inversa debería **invertir el
+  sentido** de la flecha (f⁻¹: A → B), no repetirlo; tal como está impreso, f⁻¹ queda
+  definida exactamente igual que f. **No se escribe reactivo con esta flecha**; el
+  concepto de "para qué sirve la inversa" se cubre por el lado limpio en la p.50 ("a un
+  elemento del dominio lo manda a su imagen y la función inversa lo regresa") y la
+  condición de biyectividad, que no depende de la dirección de la flecha.
 
 ## Criterio: teoría sobre práctica
 
@@ -317,14 +325,30 @@ Lo prohibido es el reactivo que sólo se acierta habiendo memorizado la anécdot
   completo —su definición formal, la condición equivalente de que el contradominio sea
   igual al rango, y el nombre **función sobre**—. **Fuera:** los dos *Ejemplos* con su
   Solución y las Figuras 1.43 y 1.44; siguen en la p.45.
+- Cubierto el cierre de la página impresa **45**: el apartado **Función biyectiva**
+  —biyectiva si y sólo si es al mismo tiempo inyectiva y sobreyectiva—, con lo que **el
+  inciso c) queda CERRADO** (pp. 42–48). **Fuera:** la cola del ejemplo de sobreyectiva
+  con su Solución y la Figura 1.45, y el *Ejemplo* de biyectiva con su Solución y la
+  Figura 1.46.
+- **Las páginas impresas 46, 47 y 48 NO dieron ningún reactivo.** Son puros *Ejemplos*
+  con Solución, actividades de aprendizaje y gráficas para practicar la prueba de la
+  recta horizontal aplicada a la biyectividad — nada que no esté ya cubierto por los
+  reactivos de p.43 y p.45.
+- Cubierta la página impresa **49**, que **abre el inciso d) Función invertible y
+  función inversa**: la condición de que la función sea biyectiva para que exista su
+  inversa (sin citar la flecha, ver erratas arriba). **Fuera:** la notación por conjunto
+  de pares ordenados, el "¿Cómo lees la expresión anterior?" (pregunta al aspirante, no
+  al banco) y el *Ejemplo* de *f*(*x*) = 2*x* + 1 con su Solución.
+- Cubierta la página impresa **50**: la frase que explica qué hace la función inversa
+  —manda de vuelta al elemento del dominio que *f* mandó a su imagen—. **Fuera:** el
+  resto del ejemplo anterior, las Figuras 1.51 y 1.52, dos actividades de aprendizaje y
+  tres *Ejemplos* más con su Solución (*f*(*x*) = *x*, *f*(*x*) = *x*², sin inversa por no
+  ser uno a uno, y *f*(*x*) = *x*³).
 
-**Pendiente:** EN CURSO. **El 1.1 y el 1.2 quedan cubiertos** (pp. 8–10), y del **1.3**
-el **inciso a) y el b) quedaron CERRADOS** (pp. 13–24 y 25–41). El **c) está EN CURSO**:
-cubierto hasta el arranque de la **p.44** (función inyectiva completa y el arranque de
-sobreyectiva). Sigue desde la **cola de la p.44** (los dos *Ejemplos* de sobreyectiva)
-hasta cerrar **c)** —falta **función biyectiva**— y luego **d)** función invertible y
-función inversa (pp. 49–60), hasta cerrar la Unidad 1
-en la p.60. Después van la **Unidad 2**
+**Pendiente:** EN CURSO. **El 1.1, el 1.2, y del 1.3 los incisos a), b) y c) quedan
+CERRADOS** (pp. 8–10, 13–24, 25–41, 42–48). El **d) está EN CURSO**: cubierto hasta la
+**p.50**. Sigue desde la **p.51** con el resto de **d) función invertible y función
+inversa** hasta cerrar la Unidad 1 en la p.60. Después van la **Unidad 2**
 (p.61) y la **Unidad 3** (p.99), cada una en su propio archivo. **Cálculo Diferencial
 es materia nueva del banco:** mientras no exista el `.md` de la Unidad 2, éste sostiene
 el pendiente de toda la materia.
@@ -2052,3 +2076,52 @@ De acuerdo con el libro de Cálculo, cuando una función es sobreyectiva, ¿cóm
 **Subtema:** Función sobreyectiva · Nombre alterno
 
 "Cuando una función es sobreyectiva, decimos que mapea o cubre a todo B (**función sobre**)."
+
+---
+
+## Sub-lote 21 · Cierra el inciso c) con biyectiva; arranca el d) con la función inversa (1.3 c y d, pp. 45, 49-50)
+
+### 101
+
+De acuerdo con el libro de Cálculo, ¿cuándo es biyectiva una función?
+
+- A. Cuando es al mismo tiempo inyectiva y sobreyectiva
+- B. Cuando es inyectiva pero no sobreyectiva
+- C. Cuando es sobreyectiva pero no inyectiva
+- D. Cuando su dominio y su contradominio tienen el mismo número de elementos
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 45
+**Subtema:** Función biyectiva · Definición
+
+"Una función es biyectiva, si y sólo si, es al mismo tiempo inyectiva y sobreyectiva."
+
+### 102
+
+Conforme al libro de Cálculo, ¿bajo qué condición tiene una función inversa una función *f*?
+
+- A. Cuando *f* es biyectiva
+- B. Cuando *f* es inyectiva pero no sobreyectiva
+- C. Cuando *f* es una función racional
+- D. Cuando el dominio de *f* son todos los números reales
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 49
+**Subtema:** Función invertible y función inversa · Condición
+
+"Si f: B → A es biyectiva, entonces la función f tiene una función definida por f⁻¹ [...]"
+
+### 103
+
+De acuerdo con el libro de Cálculo, ¿qué sucede con la función inversa respecto a un elemento del dominio de *f*?
+
+- A. *f* lo manda a su imagen y la función inversa lo regresa
+- B. *f* lo manda a su imagen y la función inversa lo manda a una imagen distinta
+- C. La función inversa lo manda a su imagen antes de que lo haga *f*
+- D. La función inversa lo elimina del dominio
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 50
+**Subtema:** Función invertible y función inversa · Qué hace la inversa
+
+"Lo que sucede con la función inversa es que a un elemento del dominio lo manda a su imagen y la función inversa lo regresa."
