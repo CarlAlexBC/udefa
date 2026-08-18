@@ -33,7 +33,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 ## Cobertura actual
 
-**EN CURSO.** El tema **6.1 Generalidades sobre la atmósfera** está **CERRADO** (pp. 192–194, sus dos subtemas). Falta el **6.2** y el **6.3**.
+**EN CURSO.** El tema **6.1 Generalidades sobre la atmósfera** está **CERRADO** (pp. 192–195, sus dos subtemas). El **6.2.1 La temperatura atmosférica** (pp. 195–198) y el **6.2.2 La presión atmosférica** (pp. 199–200) también están **CERRADOS**. Falta el resto del **6.2** (6.2.3 Los vientos, 6.2.4 La humedad atmosférica, 6.2.5 La lluvia) y todo el **6.3**.
 
 - Cubierta la página impresa **192**: el arranque del **6.1.1** con el apartado **Características de la atmósfera** completo — la definición de atmósfera y su origen, la **composición** con todos sus porcentajes y la variación de la humedad, y las **cinco propiedades** (color, diatermancia, compresibilidad, elasticidad y movilidad) con el desarrollo de cada una. **La Figura 6.1 es ilustración** y no lleva reactivos. La **portadilla de la Unidad VI (p.191)** es una lámina ilustrada con el índice de la unidad y tampoco lleva reactivos.
 
@@ -42,7 +42,16 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 > **Cruce con la Unidad I:** la **capa de ozono** ya aparece en el reactivo 47 de la Unidad I (p.26), pero allá se pregunta **qué la daña** (los "clorofluocarbonos") y aquí **dónde está y de qué protege**. Son datos distintos y no se duplican.
 
-**Pendiente:** EN CURSO. El tema **6.1 quedó CERRADO** (pp. 192–194). Sigue desde la **p.195** con el **6.2 Los fenómenos meteorológicos** —6.2.1 La temperatura atmosférica (p.195), 6.2.2 La presión atmosférica (p.199), 6.2.3 Los vientos (p.200), 6.2.4 La humedad atmosférica (p.205) y 6.2.5 La lluvia y otras precipitaciones acuosas (p.207)—, y después todo el **6.3** (pp. 210–218), hasta cerrar en la **p.218**: el 6.4, que el temario no pide, empieza en la 219. **Geografía NO está cerrada:** este archivo y el de la Unidad V sostienen el pendiente de la materia.
+> **Hueco encontrado y cerrado (18 ago 2026):** el cierre anterior de 6.1 en la p.194 dejaba fuera la **ionósfera (d)**, la **exósfera (e)** y la **magnetósfera** — ese desarrollo remata en la **p.195**, antes del encabezado "6.2 LOS FENÓMENOS METEOROLÓGICOS" que arranca a media página. El 6.1.2 no estaba completo. Ya se cubrió en el Sub-lote 5.
+
+- Cubierta la página impresa **195**: cierra el **6.1.2** con la **ionósfera** (extensión de 80 a 600 km, por qué se llama "esfera electrizada", qué se incendia y qué se produce en ella, su importancia para la radiocomunicación) y la **exósfera** (extensión de 600 a ~6,000 km, composición de hidrógeno y helio); y la **magnetósfera** (hasta 64,000 km, función protectora). El ejercicio de apareamiento ("Ahora escribe...") no lleva reactivos. Arranca el **6.2.1 La temperatura atmosférica**: qué son los meteoros, cuáles son los más importantes, definición de temperatura, y el mecanismo de calentamiento de la atmósfera por diatermancia (capas inferiores se calientan y se elevan; de noche se irradia el calor, de ahí el frío de la madrugada).
+- Cubierta la página impresa **196**: los seis factores que influyen sobre la temperatura atmosférica — latitud (con el ejemplo Manaus/Verkhoiansk), altitud (con el ejemplo Veracruz/Jalapa-Enríquez), distancia al mar, estaciones del año y nubosidad (con el dato de que las temperaturas más altas no se registran en el Ecuador sino en los desiertos calientes) —, y el arranque de la medición: los termómetros y las dos escalas (centígrada/Celsius y Fahrenheit).
+- Cubierta la página impresa **197**: cierra la escala Fahrenheit (equivalencias con la Celsius, países donde sigue en uso); las **isotermas** (definición y tipos: diarias, mensuales, anuales, normales); y el **régimen térmico** (definición y sus dos elementos: temperatura media y oscilación térmica) hasta donde arranca la definición de temperatura media. **Se dejó fuera a propósito** la frase del libro "Fueron ideadas el siglo XX por el geógrafo alemán Alejandro de Humboldt" (verificada a 600 dpi con `crop.py`, dice eso literal) — Humboldt murió en 1859, es un dato que no cuadra y se avisa a Carlo en vez de convertirlo en reactivo. Las Figuras 6.6 y 6.7 son ilustración.
+- Cubierta la página impresa **198**: cierra la temperatura media (promedio mínimo de 5 años, TMN) y la oscilación térmica (diferencia entre temperaturas más altas y más bajas; la OTA como diferencia entre el mes más caliente y el más frío) y qué las hace más exactas. **El resto de la página son ejercicios** (cuestionario de apareamiento y tabla de cálculo) y no lleva reactivos.
+- Cubierta la página impresa **199**: **6.2.2 La presión atmosférica** completo hasta la distribución de zonas — el peso del aire (1.293 g/litro), la presión al nivel del mar (1 kg/cm²), los cuatro factores (altitud con el ejemplo Veracruz/Jalapa-Enríquez/CDMX, temperatura, humedad con las cifras 1.295 g/0.805 g, estaciones del año), los barómetros, las isobaras, y la definición de zonas ciclónicas/anticiclónicas y qué provoca cada una (lluvia vs. aridez).
+- Cubierta la página impresa **200**: cierra la distribución mundial de las **7 zonas convectivas** (3 ciclónicas y 4 anticiclónicas, a 0°, 30°, 60° y 90° de latitud) con el detalle de cada una, y por qué esa distribución es determinante para vientos, perturbaciones y lluvias. **El cuestionario Verdadero/Falso no lleva reactivos.** Arranca el **6.2.3 Los vientos** con la definición de viento, calma/convección y perturbaciones atmosféricas — se corta a media frase en "la formación, dirección e intensidad de los vientos se rigen por 3 leyes fundamentales:", que sigue en la p.201.
+
+**Pendiente:** EN CURSO. El **6.1** (con la p.195) y el **6.2.1**–**6.2.2** (pp. 195–200) quedaron **CERRADOS**. Sigue desde la **p.201** con las **3 leyes de los vientos** (6.2.3, se corta a media frase en la p.200), luego **6.2.4 La humedad atmosférica** (p.205), **6.2.5 La lluvia y otras precipitaciones acuosas** (p.207), y después todo el **6.3** (pp. 210–218), hasta cerrar en la **p.218**: el 6.4, que el temario no pide, empieza en la 219. **Geografía NO está cerrada:** este archivo y el de la Unidad V sostienen el pendiente de la materia.
 
 ---
 
@@ -926,3 +935,887 @@ En relación con el libro de Geografía, ¿de qué protege a la superficie terre
 "[...] donde forma una capa casi continua que protege a la superficie terrestre de las radiaciones ultravioleta provenientes del Sol, «filtrándolas» y reduciendo su intensidad."
 
 > Nota de revisor: la **Unidad I** ya pregunta qué daña la capa de ozono (los "clorofluocarbonos", p.26). Aquí el dato es distinto —**dónde está** y **de qué protege**—, así que no se duplica.
+
+## Sub-lote 5 · Ionósfera, exósfera y magnetósfera (6.1.2, p. 195)
+
+### 58
+
+De acuerdo con el libro de Geografía, ¿qué es la ionósfera y entre qué altitudes se extiende?
+
+- A. La esfera electrizada, que se extiende aproximadamente de los 80 a los 600 km de altitud
+- B. La esfera exterior, que se extiende desde los 600 km hasta cerca de los 6,000
+- C. La esfera dividida en capas, que se extiende de los 12 a los 80 km
+- D. La esfera de los cambios, que se extiende hasta los 17 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** estructura de la atmósfera · ionósfera
+
+"La ionósfera (esfera electrizada) se extiende aproximadamente de los 80 a los 600 km de altitud."
+
+### 59
+
+De conformidad con el libro de Geografía, ¿qué la ioniza fuertemente, de allí su nombre?
+
+- A. Los rayos cósmicos, X y ultravioleta
+- B. Los rayos infrarrojos y visibles
+- C. Las emisiones de televisión
+- D. Las auroras boreales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** estructura de la atmósfera · ionósfera
+
+"Los rayos cósmicos, X y ultravioleta la ionizan fuertemente (de allí su nombre)."
+
+### 60
+
+En relación con el libro de Geografía, ¿qué ocurre en la ionósfera?
+
+- A. Se incendian los meteoritos, se producen las auroras boreales y se reflejan las ondas de radio
+- B. Se incendian los aerolitos y se forma la capa de ozono
+- C. Se producen las lluvias y se reflejan los rayos ultravioleta
+- D. Se forman las zonas ciclónicas y anticiclónicas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** estructura de la atmósfera · ionósfera
+
+"En ella se incendian los meteoritos, se producen las auroras boreales y se reflejan las ondas de radio."
+
+### 61
+
+De acuerdo con el libro de Geografía, ¿por qué es importante la ionósfera para la radiocomunicación, y qué emisiones no refleja?
+
+- A. Porque en ella se reflejan las ondas de radio; no refleja las emisiones de televisión, que son de onda más corta
+- B. Porque en ella se producen las auroras boreales; no refleja las emisiones de radar
+- C. Porque protege de los rayos cósmicos; no refleja ninguna emisión
+- D. Porque filtra las radiaciones ultravioleta; no refleja las emisiones de radio de onda corta
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** estructura de la atmósfera · ionósfera
+
+"[...] se reflejan las ondas de radio: de allí su importancia para la radiocomunicación (no refleja las emisiones de televisión, que son de onda más corta)."
+
+### 62
+
+De conformidad con el libro de Geografía, ¿qué es la exósfera y entre qué altitudes se extiende?
+
+- A. La esfera exterior, la capa exterior de la atmósfera, que se extiende desde los 600 km de altitud hasta un límite impreciso, ubicado cerca de los 6,000
+- B. La esfera electrizada, que se extiende de los 80 a los 600 km de altitud
+- C. La esfera dividida en capas, que se extiende de los 12 a los 80 km
+- D. La esfera magnética, que se extiende hasta los 64,000 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** estructura de la atmósfera · exósfera
+
+"Por último, la exósfera (esfera exterior) es la capa exterior de la atmósfera. Se extiende desde los 600 km de altitud hasta un límite impreciso, ubicado cerca de los 6,000."
+
+### 63
+
+En relación con el libro de Geografía, ¿de qué está compuesta la exósfera?
+
+- A. A partes casi iguales, de hidrógeno y helio, los gases más livianos que existen
+- B. Sobre todo de nitrógeno y oxígeno
+- C. A partes casi iguales, de ozono y anhídrido carbónico
+- D. Sobre todo de argón y neón
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** estructura de la atmósfera · exósfera
+
+"Está compuesta, a partes casi iguales, de hidrógeno y helio, los gases más livianos que existen."
+
+### 64
+
+De acuerdo con el libro de Geografía, ¿qué es la magnetósfera y hasta dónde se extiende?
+
+- A. Un extenso campo magnético que se extiende en el espacio hasta unos 64,000 km del planeta
+- B. La capa exterior de la atmósfera, que se extiende hasta unos 6,000 km del planeta
+- C. Un campo magnético que se extiende únicamente dentro de la ionósfera
+- D. La capa de la atmósfera donde se producen las auroras boreales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** estructura de la atmósfera · magnetósfera
+
+"En el espacio, hasta unos 64,000 km del planeta, se extiende un extenso campo magnético llamado magnetósfera (esfera magnética)."
+
+### 65
+
+De conformidad con el libro de Geografía, ¿qué función cumple la magnetósfera, al igual que la atmósfera?
+
+- A. Protege a la superficie terrestre de las radiaciones provenientes del Sol y otras estrellas
+- B. Refleja las ondas de radio para la radiocomunicación
+- C. Distribuye el calor solar entre los dos lados del planeta
+- D. Filtra las radiaciones ultravioleta mediante una capa de ozono
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** estructura de la atmósfera · magnetósfera
+
+"[...] que, al igual que la atmósfera, protege a la superficie terrestre de las radiaciones provenientes del Sol y otras estrellas."
+
+## Sub-lote 6 · Los meteoros y la temperatura atmosférica (6.2.1, p. 195)
+
+### 66
+
+De acuerdo con el libro de Geografía, ¿cómo se denominan los cambios que experimenta la atmósfera?
+
+- A. Meteoros o fenómenos meteorológicos
+- B. Isotermas o isobaras
+- C. Perturbaciones atmosféricas únicamente
+- D. Regímenes térmicos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** fenómenos meteorológicos · meteoros
+
+"Se denominan meteoros o fenómenos meteorológicos los cambios que experimenta la atmósfera."
+
+### 67
+
+En relación con el libro de Geografía, ¿cuáles son los meteoros más conocidos e importantes?
+
+- A. La temperatura, la presión, los vientos, la humedad y la lluvia
+- B. La latitud, la altitud y la distancia al mar
+- C. Las isotermas, las isobaras y las zonas ciclónicas
+- D. La tropósfera, la estratósfera, la ionósfera y la exósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** fenómenos meteorológicos · meteoros
+
+"Los más conocidos e importantes son la temperatura, la presión, los vientos, la humedad y la lluvia."
+
+### 68
+
+De acuerdo con el libro de Geografía, ¿qué es la temperatura?
+
+- A. El grado de calor que registra la atmósfera
+- B. El peso que ejerce el aire sobre la superficie terrestre
+- C. La diferencia de calor entre el día y la noche
+- D. El movimiento horizontal del aire
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** fenómenos meteorológicos · temperatura atmosférica
+
+"La temperatura es el grado de calor que registra la atmósfera."
+
+### 69
+
+De conformidad con el libro de Geografía, ¿qué ocurre con las capas inferiores de la atmósfera al calentarse por contacto con la litósfera y la hidrósfera?
+
+- A. Se expanden y pesan menos que las superiores, entonces se elevan
+- B. Se comprimen y pesan más que las superiores, entonces descienden
+- C. Se ionizan y reflejan las ondas de radio
+- D. Se congelan y descienden hacia la superficie
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** fenómenos meteorológicos · temperatura atmosférica
+
+"Al contacto con ellas, se calientan las capas inferiores de la atmósfera; éstas se expanden y pesan menos que las superiores. Entonces se elevan y su lugar es ocupado por las capas superiores, todavía frías, que a su vez se calientan y elevan."
+
+### 70
+
+En relación con el libro de Geografía, ¿por qué hay bajas temperaturas durante la madrugada?
+
+- A. Porque durante la noche gran parte del calor solar es irradiado al espacio
+- B. Porque durante la noche la atmósfera se comprime
+- C. Porque durante la noche cesa la diatermancia
+- D. Porque durante la noche las capas superiores descienden hacia la tropósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 195
+**Subtema:** fenómenos meteorológicos · temperatura atmosférica
+
+"Durante la noche, gran parte del calor solar es irradiado al espacio: de allí las bajas temperaturas de la madrugada."
+
+## Sub-lote 7 · Factores de la temperatura atmosférica (6.2.1, p. 196)
+
+### 71
+
+De acuerdo con el libro de Geografía, ¿qué factores influyen sobre la temperatura atmosférica y, en general, sobre el clima?
+
+- A. La latitud, la altitud, la distancia al mar, las horas del día, las estaciones del año y la nubosidad
+- B. La presión, la humedad, los vientos y la lluvia
+- C. La composición, el color y la diatermancia de la atmósfera
+- D. La tropósfera, la estratósfera, la ionósfera y la exósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 196
+**Subtema:** fenómenos meteorológicos · factores de la temperatura
+
+"Entre los factores que influyen sobre la temperatura atmosférica —y en general sobre el clima— figuran: la latitud, la altitud, la distancia al mar, las horas del día, las estaciones del año y la nubosidad."
+
+### 72
+
+De conformidad con el libro de Geografía, ¿cómo influye la latitud sobre la temperatura atmosférica, y por qué?
+
+- A. Disminuye del Ecuador a los polos, debido a la forma cuasi-esférica de la Tierra, que provoca que los rayos solares lleguen casi verticales a la zona cálida y bastante inclinados a las frías
+- B. Aumenta del Ecuador a los polos, debido a la mayor duración del día en las regiones polares
+- C. Se mantiene igual del Ecuador a los polos, salvo por la nubosidad
+- D. Disminuye de los polos al Ecuador, debido a la altitud de las cadenas montañosas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 196
+**Subtema:** fenómenos meteorológicos · factores de la temperatura
+
+"La latitud influye notablemente sobre la temperatura atmosférica. Ésta disminuye del Ecuador a los polos debido a la forma cuasi-esférica de la Tierra, que provoca que los rayos solares lleguen casi verticales a la zona cálida, medianamente inclinados a las templadas y bastante inclinados a las frías."
+
+### 73
+
+En relación con el libro de Geografía, ¿qué ejemplo da el libro sobre la influencia de la latitud, comparando Manaus con Verkhoiansk?
+
+- A. Manaus (Brasil), cerca del Ecuador, tiene un promedio anual de 26.3°C; Verkhoiansk (Siberia), cerca del Círculo Polar Ártico, tiene un promedio anual de -17.2°C, o sea, 43.5°C más bajo
+- B. Manaus tiene un promedio anual de 17.2°C; Verkhoiansk, de 26.3°C
+- C. Ambas ciudades tienen el mismo promedio anual de temperatura, pese a la diferencia de latitud
+- D. Manaus, cerca del Círculo Polar Ártico, tiene un promedio de -17.2°C; Verkhoiansk, cerca del Ecuador, de 26.3°C
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 196
+**Subtema:** fenómenos meteorológicos · factores de la temperatura
+
+"Así, Manaus (Brasil), situada cerca del Ecuador, tiene un promedio anual de temperatura de 26.3°C, mientras que en Verkhoiansk (Siberia), cerca del Círculo Polar Ártico, el promedio anual es de -17.2°C, o sea, 43.5°C más bajo."
+
+### 74
+
+De acuerdo con el libro de Geografía, ¿cómo influye la altitud sobre la temperatura atmosférica, y por qué?
+
+- A. Los lugares bajos tienen casi siempre una temperatura más elevada que los altos, pues el aire denso de los primeros retiene más el calor que el aire ralo de los segundos
+- B. Los lugares altos tienen casi siempre una temperatura más elevada que los bajos, pues el aire ralo retiene más el calor
+- C. La altitud no influye sobre la temperatura, sólo sobre la presión atmosférica
+- D. Los lugares bajos son siempre más fríos porque están más cerca del mar
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 196
+**Subtema:** fenómenos meteorológicos · factores de la temperatura
+
+"La altitud es otro factor que influye mucho sobre la temperatura atmosférica: los lugares bajos tienen casi siempre una temperatura más elevada que los altos, pues el aire denso de los primeros retiene más el calor que el aire ralo de los segundos."
+
+### 75
+
+De conformidad con el libro de Geografía, ¿qué ejemplo da el libro sobre la influencia de la altitud, comparando Veracruz con Jalapa-Enríquez?
+
+- A. Veracruz, al nivel del mar, tiene un promedio anual de 25.2°C; Jalapa-Enríquez, a 1,423 m, de 17.9°C
+- B. Veracruz, a 1,423 m, tiene un promedio anual de 17.9°C; Jalapa-Enríquez, al nivel del mar, de 25.2°C
+- C. Ambas ciudades tienen el mismo promedio anual, pese a la diferencia de altitud
+- D. Veracruz tiene un promedio anual de 26.3°C; Jalapa-Enríquez, de -17.2°C
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 196
+**Subtema:** fenómenos meteorológicos · factores de la temperatura
+
+"Así, Veracruz, situada al nivel del mar, tiene un promedio anual de 25.2°C; Jalapa-Enríquez, a 1,423 m, de 17.9°C."
+
+### 76
+
+En relación con el libro de Geografía, ¿cómo influye la distancia al mar sobre la temperatura atmosférica, y con qué se compara al mar?
+
+- A. Los lugares próximos al mar tienen generalmente una temperatura más estable que los alejados, pues el mar es una especie de "termostato" o regulador de la temperatura atmosférica
+- B. Los lugares próximos al mar tienen una temperatura menos estable que los alejados, pues el mar se comporta como un espejo de los rayos solares
+- C. La distancia al mar no influye sobre la temperatura, sólo sobre la humedad
+- D. Los lugares alejados del mar tienen siempre temperaturas más altas, por la falta de nubosidad
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 196
+**Subtema:** fenómenos meteorológicos · factores de la temperatura
+
+"La distancia al mar: los lugares próximos al mar tienen generalmente una temperatura más estable que los alejados, pues el mar es una especie de «termostato» o regulador de la temperatura atmosférica."
+
+### 77
+
+De acuerdo con el libro de Geografía, ¿por qué hace calor en verano y frío en invierno?
+
+- A. Debido a la diferente inclinación con que llegan los rayos solares y la distinta duración del día y la noche
+- B. Debido a la distancia entre la Tierra y el Sol, que varía según la estación
+- C. Debido a la mayor o menor nubosidad que hay en cada estación
+- D. Debido al desplazamiento de las zonas ciclónicas y anticiclónicas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 196
+**Subtema:** fenómenos meteorológicos · factores de la temperatura
+
+"Las estaciones del año: hace calor en verano y frío en invierno, debido a la diferente inclinación con que llegan los rayos solares y la distinta duración del día y la noche."
+
+### 78
+
+De conformidad con el libro de Geografía, ¿qué efecto tiene la nubosidad sobre la temperatura, y dónde se registran realmente las temperaturas más altas?
+
+- A. Las nubes reflejan parte del calor solar al espacio; las temperaturas más altas no se registran en las regiones ecuatoriales, sino en los desiertos calientes, donde casi nunca llueve
+- B. Las nubes concentran el calor solar hacia la superficie; las temperaturas más altas se registran en las regiones ecuatoriales, donde llueve casi todo el año
+- C. La nubosidad no tiene efecto sobre la temperatura, sólo sobre la lluvia
+- D. Las nubes reflejan el calor solar hacia la superficie; las temperaturas más altas se registran en los polos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 196
+**Subtema:** fenómenos meteorológicos · factores de la temperatura
+
+"La nubosidad: las nubes reflejan parte del calor solar al espacio y hacen que, debajo de ellas, el grado de calor sea menor. Por ello las temperaturas más altas no se registran en las regiones ecuatoriales, donde llueve casi todo el año, sino en los desiertos calientes, donde casi nunca llueve."
+
+## Sub-lote 8 · Medición de la temperatura: termómetros y escalas (6.2.1, pp. 196–197)
+
+### 79
+
+De acuerdo con el libro de Geografía, ¿qué son los termómetros y en qué propiedad se basan?
+
+- A. Los medidores del calor, que se basan en la propiedad que tienen los cuerpos de dilatarse con el calor y contraerse con el frío
+- B. Los medidores de la presión, que se basan en el peso del aire
+- C. Los medidores del calor, que se basan en la reflexión de las ondas de radio
+- D. Los medidores de la humedad, que se basan en la condensación del vapor de agua
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 196
+**Subtema:** fenómenos meteorológicos · medición de la temperatura
+
+"Para medir la temperatura atmosférica se utilizan los termómetros (medidores del calor), que se basan en la propiedad que tienen los cuerpos de dilatarse con el calor y contraerse con el frío."
+
+### 80
+
+En relación con el libro de Geografía, ¿cuáles son los termómetros más conocidos y usados?
+
+- A. Los de mercurio y los metálicos
+- B. Los de mercurio y los de alcohol
+- C. Los metálicos y los digitales
+- D. Los de gas y los de infrarrojos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 196
+**Subtema:** fenómenos meteorológicos · medición de la temperatura
+
+"Los más conocidos y usados son los de mercurio y los metálicos."
+
+### 81
+
+De acuerdo con el libro de Geografía, ¿qué asigna la escala centígrada o de Celsius al punto de fusión y al de ebullición del agua al nivel del mar?
+
+- A. 0°C al punto de fusión y 100°C al punto de ebullición
+- B. 32°C al punto de fusión y 212°C al punto de ebullición
+- C. 0°C al punto de ebullición y 100°C al punto de fusión
+- D. -17.8°C al punto de fusión y 97.9°C al punto de ebullición
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 196
+**Subtema:** fenómenos meteorológicos · medición de la temperatura
+
+"La escala centígrada o de Celsius asigna 0°C al punto de fusión y 100°C al punto de ebullición del agua al nivel del mar. Es la más conocida y usada."
+
+### 82
+
+De conformidad con el libro de Geografía, ¿a qué asigna la escala de Fahrenheit los 0°F y los 100°F?
+
+- A. 0°F a la temperatura a que se forma la nieve; 100°F a una temperatura ligeramente superior a la del cuerpo humano
+- B. 0°F al punto de fusión del agua; 100°F al punto de ebullición
+- C. 0°F a la temperatura del cuerpo humano; 100°F a la temperatura a que se forma la nieve
+- D. 0°F al punto de ebullición del agua; 100°F al punto de fusión
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 196
+**Subtema:** fenómenos meteorológicos · medición de la temperatura
+
+"La escala de Fahrenheit asigna 0°F a la temperatura a que se forma la nieve, equivalente a -17.8°C en la escala de Celsius, y 100°F a una temperatura ligeramente superior a la del cuerpo humano (97.9°F)."
+
+### 83
+
+En relación con el libro de Geografía, ¿a cuánto equivalen en la escala Fahrenheit el punto de fusión y el de ebullición del agua?
+
+- A. El punto de fusión equivale a 32°F y el de ebullición a 212°F
+- B. El punto de fusión equivale a 0°F y el de ebullición a 100°F
+- C. El punto de fusión equivale a 212°F y el de ebullición a 32°F
+- D. El punto de fusión equivale a -17.8°F y el de ebullición a 97.9°F
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 197
+**Subtema:** fenómenos meteorológicos · medición de la temperatura
+
+"En ella el punto de fusión del agua equivale a 32°F y el de ebullición a 212°F."
+
+### 84
+
+De acuerdo con el libro de Geografía, aunque cada vez más desplazada por la centígrada, ¿en qué países sigue siendo usada la escala Fahrenheit?
+
+- A. En Canadá, Estados Unidos de América, el Reino Unido, Alemania y otros países
+- B. Únicamente en Estados Unidos de América
+- C. En México, Brasil y Argentina
+- D. En Rusia, China y Japón
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 197
+**Subtema:** fenómenos meteorológicos · medición de la temperatura
+
+"Aunque cada vez más desplazada por la centígrada, sigue siendo usada en Canadá, Estados Unidos de América, el Reino Unido, Alemania y otros países."
+
+## Sub-lote 9 · Isotermas y régimen térmico (6.2.1, pp. 197–198)
+
+### 85
+
+De acuerdo con el libro de Geografía, ¿qué son las isotermas?
+
+- A. Las líneas que en un mapa señalan los lugares que tienen la misma temperatura atmosférica
+- B. Las líneas que en un mapa señalan los lugares que tienen la misma presión atmosférica
+- C. Las diferencias entre las temperaturas más altas y más bajas de un lugar
+- D. Los promedios de las temperaturas registradas en un lugar durante un año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 197
+**Subtema:** fenómenos meteorológicos · isotermas
+
+"Se llaman isotermas (igual calor) las líneas que en un mapa señalan los lugares que tienen la misma temperatura atmosférica."
+
+### 86
+
+De conformidad con el libro de Geografía, ¿de qué tipos pueden ser las isotermas, y cuáles son las más conocidas y usadas?
+
+- A. Diarias, mensuales, anuales o normales; estas últimas son las más conocidas y usadas
+- B. Diarias, mensuales, anuales o normales; las diarias son las más conocidas y usadas
+- C. Únicamente diarias y mensuales
+- D. Únicamente anuales y normales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 197
+**Subtema:** fenómenos meteorológicos · isotermas
+
+"Pueden ser diarias, mensuales, anuales o normales (estas últimas son las más conocidas y usadas)."
+
+### 87
+
+En relación con el libro de Geografía, ¿qué es el régimen térmico?
+
+- A. La distribución de las temperaturas atmosféricas a lo largo del año, en un lugar cualquiera de la superficie terrestre
+- B. La diferencia entre la temperatura más alta y la más baja registrada en un día
+- C. El promedio de varias temperaturas registradas en un lugar
+- D. La distribución de la presión atmosférica a lo largo del año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 197
+**Subtema:** fenómenos meteorológicos · régimen térmico
+
+"Se llama régimen térmico a la distribución de las temperaturas atmosféricas a lo largo del año, en un lugar cualquiera de la superficie terrestre."
+
+### 88
+
+De acuerdo con el libro de Geografía, ¿de qué dos elementos consta esencialmente el régimen térmico?
+
+- A. La temperatura media y la oscilación térmica
+- B. La latitud y la altitud
+- C. Las isotermas y las isobaras
+- D. La presión atmosférica y la humedad
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 197
+**Subtema:** fenómenos meteorológicos · régimen térmico
+
+"Consta esencialmente de dos elementos: la temperatura media y la oscilación térmica."
+
+### 89
+
+De conformidad con el libro de Geografía, ¿qué es la temperatura media?
+
+- A. El promedio de varias temperaturas; puede ser diaria, mensual, anual o normal
+- B. La diferencia entre las temperaturas más altas y más bajas registradas en un día
+- C. El grado de calor que registra la atmósfera en un momento dado
+- D. La temperatura registrada exclusivamente al mediodía
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 197
+**Subtema:** fenómenos meteorológicos · régimen térmico
+
+"La temperatura media es el promedio de varias temperaturas. Puede ser diaria, mensual, anual o normal."
+
+### 90
+
+En relación con el libro de Geografía, ¿qué es la temperatura media normal (TMN) y durante cuánto tiempo se calcula como mínimo?
+
+- A. El promedio de las temperaturas registradas en un lugar cualquiera de la superficie terrestre durante un mínimo de 5 años
+- B. El promedio de las temperaturas registradas en un lugar durante un mínimo de 5 meses
+- C. La diferencia entre el mes más caliente y el más frío durante un mínimo de 5 años
+- D. El promedio de las temperaturas registradas durante un solo año
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 198
+**Subtema:** fenómenos meteorológicos · régimen térmico
+
+"Esta última, llamada temperatura media normal (TMN), es el promedio de las temperaturas registradas en un lugar cualquiera de la superficie terrestre durante un mínimo de 5 años."
+
+### 91
+
+De acuerdo con el libro de Geografía, ¿qué es la oscilación térmica?
+
+- A. La diferencia existente entre las temperaturas más altas y más bajas registradas en un día, mes o año
+- B. El promedio de varias temperaturas registradas en un lugar
+- C. La diferencia existente entre la presión atmosférica más alta y más baja
+- D. El promedio de las temperaturas registradas durante un mínimo de 5 años
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 198
+**Subtema:** fenómenos meteorológicos · régimen térmico
+
+"La oscilación térmica es la diferencia existente entre las temperaturas más altas y más bajas registradas en un día (diaria), mes (mensual) o año (anual)."
+
+### 92
+
+De conformidad con el libro de Geografía, ¿qué es la oscilación térmica anual (OTA)?
+
+- A. La diferencia existente entre los promedios del mes más caliente y el más frío
+- B. El promedio de las temperaturas registradas durante un mínimo de 5 años
+- C. La diferencia entre la temperatura más alta y más baja registrada en un solo día
+- D. El promedio anual de la presión atmosférica
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 198
+**Subtema:** fenómenos meteorológicos · régimen térmico
+
+"Esta última, llamada oscilación térmica anual (OTA), es la diferencia existente entre los promedios del mes más caliente y el más frío."
+
+### 93
+
+En relación con el libro de Geografía, al igual que la TMN, ¿de qué depende que la OTA sea más exacta?
+
+- A. De que sea mayor el número de años que se promedian
+- B. De que sea menor el número de años que se promedian
+- C. De la altitud del lugar donde se calcula
+- D. De la latitud del lugar donde se calcula
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 198
+**Subtema:** fenómenos meteorológicos · régimen térmico
+
+"Al igual que la TMN, es tanto más exacta cuanto mayor sea el número de años que se promedian."
+
+## Sub-lote 10 · Factores de la presión atmosférica (6.2.2, p. 199)
+
+### 94
+
+De acuerdo con el libro de Geografía, aunque reducido, ¿cuánto pesa aproximadamente un litro de aire al nivel del mar y 0°C de temperatura?
+
+- A. Aproximadamente 1.293 g
+- B. Aproximadamente 1.015 g
+- C. Aproximadamente 0.805 g
+- D. Aproximadamente 1.295 kg
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · presión atmosférica
+
+"Aunque reducido, la atmósfera tiene peso: al nivel del mar y 0°C de temperatura, un litro de aire pesa aproximadamente 1.293 g."
+
+### 95
+
+De conformidad con el libro de Geografía, ¿a qué equivale aproximadamente la presión atmosférica al nivel del mar, y a qué es igual dicha presión?
+
+- A. A 1 kg por cm² de superficie, y es igual al peso de una columna de aire que tenga por base dicha superficie y por altitud la de la atmósfera
+- B. A 1.293 g por cm² de superficie, y es igual al peso del vapor de agua contenido en el aire
+- C. A 760 kg por cm² de superficie, y es igual al peso de la ionósfera
+- D. A 1,015 g por cm² de superficie, y es igual al peso de la exósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · presión atmosférica
+
+"Al nivel del mar, dicha presión equivale aproximadamente a 1 kg por cm² de superficie y es igual al peso de una columna de aire que tenga por base dicha superficie y por altitud la de la atmósfera."
+
+### 96
+
+En relación con el libro de Geografía, ¿qué factores influyen sobre la presión atmosférica?
+
+- A. La altitud, la temperatura, la humedad y las estaciones del año
+- B. La latitud, la altitud, la distancia al mar y la nubosidad
+- C. La temperatura, los vientos, la lluvia y la nubosidad
+- D. La composición, el color y la diatermancia de la atmósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · presión atmosférica
+
+"Entre los factores que influyen sobre la presión atmosférica figuran la altitud, la temperatura, la humedad y las estaciones del año."
+
+### 97
+
+De acuerdo con el libro de Geografía, ¿cuál es el factor que más influye sobre la presión atmosférica, y cómo influye, como regla general?
+
+- A. La altitud; ésta disminuye de acuerdo con la altitud
+- B. La temperatura; ésta aumenta de acuerdo con la altitud
+- C. La humedad; ésta disminuye de acuerdo con la altitud
+- D. Las estaciones del año; éstas no varían con la altitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · presión atmosférica
+
+"La altitud es el factor que más influye sobre la presión atmosférica. Ésta, como regla general, disminuye de acuerdo con la altitud."
+
+### 98
+
+De conformidad con el libro de Geografía, ¿qué presión atmosférica registran Veracruz, Jalapa-Enríquez y la ciudad de México?
+
+- A. Veracruz, 760 mm de mercurio; Jalapa-Enríquez, 640; la ciudad de México, 586
+- B. Veracruz, 586 mm de mercurio; Jalapa-Enríquez, 640; la ciudad de México, 760
+- C. Veracruz, 640 mm de mercurio; Jalapa-Enríquez, 760; la ciudad de México, 586
+- D. Veracruz, 1,015 mm de mercurio; Jalapa-Enríquez, 760; la ciudad de México, 640
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · presión atmosférica
+
+"Así, la ciudad de Veracruz registra una presión atmosférica de 760 mm de mercurio, Jalapa-Enríquez de 640 y la ciudad de México de 586."
+
+### 99
+
+En relación con el libro de Geografía, ¿por qué influye la temperatura sobre la presión atmosférica, y cuál es la regla general?
+
+- A. Porque cuando se calienta, el aire se expande y ocupa más espacio, disminuyendo su presión; a mayor temperatura, menor presión atmosférica y viceversa
+- B. Porque cuando se calienta, el aire se comprime y ocupa menos espacio, aumentando su presión; a mayor temperatura, mayor presión atmosférica
+- C. La temperatura no influye sobre la presión atmosférica, sólo la altitud
+- D. Porque cuando se enfría, el aire se expande, aumentando su presión
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · presión atmosférica
+
+"La temperatura influye sobre la presión atmosférica porque, cuando se calienta, el aire se expande y ocupa más espacio, disminuyendo su presión. Podemos, pues, señalar como regla general que a mayor temperatura menor presión atmosférica y viceversa."
+
+### 100
+
+De acuerdo con el libro de Geografía, ¿por qué influye la humedad sobre la presión atmosférica, y qué pesan un litro de aire totalmente seco y uno de vapor de agua?
+
+- A. Porque el aire seco pesa más que el húmedo: un litro de aire totalmente seco pesa 1.295 g, uno de vapor de agua pesa 0.805
+- B. Porque el aire húmedo pesa más que el seco: un litro de aire totalmente seco pesa 0.805 g, uno de vapor de agua pesa 1.295
+- C. La humedad no influye sobre la presión, sólo sobre la temperatura
+- D. Porque el aire seco y el húmedo pesan siempre lo mismo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · presión atmosférica
+
+"La humedad también influye sobre la presión, pues el aire seco pesa más que el húmedo: mientras un litro de aire totalmente seco pesa 1.295 g, uno de vapor de agua pesa 0.805."
+
+### 101
+
+De conformidad con el libro de Geografía, como regla general, ¿en qué estaciones del año es menor la presión atmosférica y en cuáles es mayor?
+
+- A. Es menor en primavera y verano, y mayor en otoño e invierno
+- B. Es mayor en primavera y verano, y menor en otoño e invierno
+- C. Es igual en todas las estaciones del año
+- D. Es menor únicamente en invierno
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · presión atmosférica
+
+"Como regla general, ésta es menor en primavera y verano y mayor en otoño e invierno."
+
+## Sub-lote 11 · Medición de la presión, isobaras y zonas ciclónicas/anticiclónicas (6.2.2, pp. 199–200)
+
+### 102
+
+En relación con el libro de Geografía, ¿qué son los barómetros y de qué tipos pueden ser?
+
+- A. Los medidores de la presión, que al igual que los termómetros pueden ser de mercurio o metálicos (aneroides)
+- B. Los medidores del calor, que pueden ser de mercurio o metálicos
+- C. Los medidores de la humedad, que pueden ser de mercurio o de cristal
+- D. Los medidores del viento, que pueden ser mecánicos o electrónicos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · medición de la presión
+
+"Para medir la presión atmosférica se usan los aparatos llamados barómetros (medidores de la presión) que, al igual que los termómetros, pueden ser de mercurio o metálicos (aneroides)."
+
+### 103
+
+De acuerdo con el libro de Geografía, al nivel del mar y 0°C, ¿a cuánto equivale la presión de la atmósfera en mm de mercurio y en milibarios?
+
+- A. A 760 mm de mercurio, equivalente a 1,015 milibarios
+- B. A 1,015 mm de mercurio, equivalente a 760 milibarios
+- C. A 586 mm de mercurio, equivalente a 640 milibarios
+- D. A 1.293 mm de mercurio, equivalente a 1.295 milibarios
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · medición de la presión
+
+"La medida de la presión puede ser en mm de mercurio o milibarios: al nivel del mar y 0°C, la atmósfera tiene una presión de 760 mm de mercurio, equivalente a 1,015 milibarios."
+
+### 104
+
+De conformidad con el libro de Geografía, ¿qué son las isobaras?
+
+- A. Las líneas que en un mapa señalan los lugares que tienen la misma presión atmosférica
+- B. Las líneas que en un mapa señalan los lugares que tienen la misma temperatura atmosférica
+- C. Las zonas donde la presión atmosférica es notablemente baja
+- D. Los aparatos que miden la presión atmosférica
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · isobaras
+
+"Se llaman isobaras (igual presión) las líneas que en un mapa señalan los lugares que tienen la misma presión atmosférica."
+
+### 105
+
+En relación con el libro de Geografía, al igual que las isotermas, ¿de qué tipos pueden ser las isobaras?
+
+- A. Diarias, mensuales, anuales o normales
+- B. Únicamente diarias y mensuales
+- C. Únicamente anuales
+- D. Ascendentes o descendentes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · isobaras
+
+"Al igual que las isotermas, pueden ser diarias, mensuales, anuales o normales."
+
+### 106
+
+De acuerdo con el libro de Geografía, ¿cuándo se forman las zonas de baja presión, o de calmas ascendentes o ciclónicas, y cuándo las de alta presión, o de calmas descendentes o anticiclónicas?
+
+- A. Cuando la presión atmosférica de determinadas áreas es notablemente baja en relación con las áreas circundantes se forman las de baja presión; cuando es notablemente alta, las de alta presión
+- B. Cuando la presión atmosférica es notablemente alta se forman las de baja presión; cuando es notablemente baja, las de alta presión
+- C. Se forman únicamente en las regiones polares
+- D. Se forman únicamente en la faja ecuatorial
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · zonas ciclónicas y anticiclónicas
+
+"Cuando la presión atmosférica de determinadas áreas es notablemente baja en relación con las áreas circundantes, se forman zonas de baja presión, de calmas ascendentes o ciclónicas; por lo contrario, cuando es notablemente alta, zonas de alta presión, de calmas descendentes o anticiclónicas."
+
+### 107
+
+De conformidad con el libro de Geografía, ¿qué ocurre en las zonas de baja presión o ciclónicas?
+
+- A. El aire sube, llevando la humedad atmosférica que después se precipita en forma de lluvia
+- B. El aire desciende, provocando una gran aridez
+- C. El aire se mantiene inmóvil, sin llevar humedad
+- D. El aire se enfría bruscamente, formando auroras boreales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · zonas ciclónicas y anticiclónicas
+
+"En las primeras el aire sube, llevando la humedad atmosférica que después se precipita en forma de lluvia."
+
+### 108
+
+En relación con el libro de Geografía, ¿qué ocurre en las zonas de alta presión o anticiclónicas, y por qué?
+
+- A. El aire frío de las capas superiores de la atmósfera desciende a tierra y, dado que no lleva humedad, provoca una gran aridez
+- B. El aire cálido de las capas inferiores asciende y, dado que lleva humedad, provoca lluvias intensas
+- C. El aire se mantiene inmóvil, sin ascender ni descender
+- D. El aire se ioniza y provoca auroras boreales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199
+**Subtema:** fenómenos meteorológicos · zonas ciclónicas y anticiclónicas
+
+"En las segundas, el aire frío de las capas superiores de la atmósfera desciende a tierra y, dado que no lleva humedad, provoca una gran aridez."
+
+### 109
+
+De acuerdo con el libro de Geografía, aunque la distribución mundial de las zonas ciclónicas y anticiclónicas no es estática, ¿cuántas zonas convectivas pueden señalarse a grandes rasgos, y de qué tipo?
+
+- A. 7 zonas convectivas: 3 ciclónicas y 4 anticiclónicas
+- B. 7 zonas convectivas: 4 ciclónicas y 3 anticiclónicas
+- C. 4 zonas convectivas: 2 ciclónicas y 2 anticiclónicas
+- D. 9 zonas convectivas: 5 ciclónicas y 4 anticiclónicas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199–200
+**Subtema:** fenómenos meteorológicos · zonas ciclónicas y anticiclónicas
+
+"Pueden, sin embargo, señalarse a grandes rasgos 7 zonas convectivas (3 ciclónicas y 4 anticiclónicas), ubicadas aproximadamente a 0°, 30°, 60° y 90° de latitud, en la forma siguiente:"
+
+### 110
+
+De conformidad con el libro de Geografía, ¿a qué latitudes se ubican aproximadamente las 7 zonas convectivas?
+
+- A. A 0°, 30°, 60° y 90° de latitud
+- B. A 10°, 30°, 60° y 90° de latitud
+- C. A 0°, 20°, 40° y 60° de latitud
+- D. A 0°, 30° y 60° de latitud únicamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 199–200
+**Subtema:** fenómenos meteorológicos · zonas ciclónicas y anticiclónicas
+
+"[...] ubicadas aproximadamente a 0°, 30°, 60° y 90° de latitud [...]"
+
+### 111
+
+En relación con el libro de Geografía, ¿dónde se ubica la zona de baja presión o ciclónica de la faja ecuatorial, y qué impide?
+
+- A. Se ubica entre 10° de latitud norte y 10° de latitud sur; impide el paso de los vientos y perturbaciones atmosféricas del Hemisferio Boreal al Meridional y viceversa
+- B. Se ubica a 30° de latitud norte y sur; impide la formación de auroras boreales
+- C. Se ubica a 60° de latitud norte y sur; impide el paso de la humedad atmosférica
+- D. Se ubica a 90° de latitud; impide la formación de nubes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 200
+**Subtema:** fenómenos meteorológicos · zonas ciclónicas y anticiclónicas
+
+"Una zona de baja presión o ciclónica en la faja ecuatorial (calmas ascendentes ecuatoriales), ubicada entre 10° de latitud norte y 10° de latitud sur. Dicha zona [...] impide el paso de los vientos y perturbaciones atmosféricas del Hemisferio Boreal al Meridional y viceversa."
+
+### 112
+
+De acuerdo con el libro de Geografía, ¿dónde se ubican las dos zonas de alta presión o anticiclónicas subtropicales, y a qué corresponden?
+
+- A. Hacia 30° de latitud norte y sur, en las proximidades de los trópicos; corresponden a las fajas desérticas calientes de la Tierra
+- B. Hacia 60° de latitud norte y sur, en las proximidades de los círculos polares; corresponden a las regiones templadas
+- C. Hacia 90° de latitud, en las regiones polares; corresponden a las fajas heladas
+- D. En la faja ecuatorial; corresponden a las selvas tropicales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 200
+**Subtema:** fenómenos meteorológicos · zonas ciclónicas y anticiclónicas
+
+"Dos zonas de alta presión o anticiclónicas hacia 30° de latitud norte y sur (calmas descendentes subtropicales), ubicadas en las proximidades de los trópicos. Corresponden a las fajas desérticas calientes de la Tierra."
+
+### 113
+
+De conformidad con el libro de Geografía, ¿dónde se ubican las dos zonas de baja presión o ciclónicas subpolares?
+
+- A. Hacia 60° de latitud norte y sur, en las proximidades de los círculos polares
+- B. Hacia 30° de latitud norte y sur, en las proximidades de los trópicos
+- C. Hacia 90°, en las regiones polares
+- D. Entre 10° de latitud norte y 10° de latitud sur
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 200
+**Subtema:** fenómenos meteorológicos · zonas ciclónicas y anticiclónicas
+
+"Dos zonas de baja presión o ciclónicas hacia 60° de latitud norte y sur (calmas ascendentes subpolares), ubicadas en las proximidades de los círculos polares."
+
+### 114
+
+En relación con el libro de Geografía, ¿dónde se ubican, por último, las dos zonas de alta presión o anticiclónicas polares?
+
+- A. En las regiones polares, hacia 90°
+- B. En la faja ecuatorial, entre 10° norte y 10° sur
+- C. Hacia 30° de latitud, en las proximidades de los trópicos
+- D. Hacia 60° de latitud, en las proximidades de los círculos polares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 200
+**Subtema:** fenómenos meteorológicos · zonas ciclónicas y anticiclónicas
+
+"Por último, dos zonas de alta presión o anticiclónicas en las regiones polares (calmas descendentes polares), hacia 90°."
+
+### 115
+
+De acuerdo con el libro de Geografía, ¿en qué es determinante la distribución mundial de las zonas ciclónicas y anticiclónicas?
+
+- A. En la formación, dirección e intensidad de los vientos y perturbaciones atmosféricas, así como en la presentación e intensidad de las lluvias
+- B. Únicamente en la temperatura media anual de cada región
+- C. Únicamente en la composición química de la atmósfera
+- D. Únicamente en el espesor de la tropósfera y la estratósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 200
+**Subtema:** fenómenos meteorológicos · zonas ciclónicas y anticiclónicas
+
+"La distribución mundial de las citadas zonas ciclónicas y anticiclónicas es determinante en la formación, dirección e intensidad de los vientos y perturbaciones atmosféricas, así como en la presentación e intensidad de las lluvias, como veremos más adelante."
