@@ -57,8 +57,12 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 - Cubierta la página impresa **161**: el cierre del **5.2.2** — el remate de la temperatura por profundidad (ni siquiera las fosas abisales llegan a **0ºC**) y la poca influencia de las **estaciones del año**; la **densidad** (más densas que las continentales por las sustancias disueltas: **1.00** el agua pura a 4ºC frente a **1.03** el agua de mar, y los lagos muy salados —**Gran Lago Salado** y **Mar Muerto**— con densidades superiores a la del cuerpo humano, donde una persona flota sin esfuerzo); y la **importancia de las aguas marinas** (la estabilidad climática por el calor que absorben de día y sueltan de noche; los **470,000 km³** que se evaporan al año, de los que **370,000** vuelven al océano y **100,000** —poco más de **1/5**— caen sobre las tierras; el origen de la vida en el mar y su colonización de la tierra **cientos de millones de años** después; el mar como principal receptáculo de la vida, con organismos que superan en número y especies a los de tierra; y su papel económico: transporte, pesca y minerales). **Las cifras de densidad y evaporación se verificaron con `crop.py` a 600 dpi.** **La comparación con Mercurio, Venus, Marte y la Luna NO lleva reactivo aquí:** ya la pregunta el **reactivo 6** desde la p.151. **La mitad inferior de la página es un bloque de ejercicios** y no lleva reactivos por norma.
 
 > **El 70.98% NO lleva reactivo aquí:** ya lo pregunta el **reactivo 1** de este mismo archivo, desde la p.151. En esta página entran sólo las cifras absolutas y el 29.02%, que son dato nuevo. **Anaximandro de Mileto tampoco duplica** a la Unidad II, donde aparece únicamente como distractor.
+- Cubiertas las páginas impresas **162–163**: el **5.2.3 Olas y mareas** completo — las olas (definición, altitud normal y en tempestad, el caso del *Ramapo* en 1933, oscilación y traslación, la resaca, las corrientes litorales) y las mareas (definición, flujo/pleamar/reflujo/bajamar, periodicidad de 12h 25min, mareas vivas/sicigia y muertas/cuadratura, la diferencia Golfo de México/Bahía de Fundy, el efecto en litósfera y atmósfera). Cifras verificadas con `crop.py` a 600 dpi (16.6 m; 3m/15cm/3km).
+- Cubierta la página impresa **164**: el arranque del **5.2.4 Corrientes marinas** — su importancia (sí transportan agua, a diferencia de olas y mareas), el dato de la Gulf Stream y su definición.
+- Cubiertas las páginas impresas **165–166**: el resto del **5.2.4** — los factores (temperatura, salinidad en Gibraltar, vientos como factor más importante, rotación terrestre, continentes e islas), la clasificación en cálidas y frías, y la importancia (reducción de diferencias térmicas, difusión de sustancias y especies, clima de Irlanda/Labrador, distribución de lluvias con la Corriente del Perú, pesca, navegación histórica y la Gulf Stream).
+- Cubierta la página impresa **167**: el **5.2.5 Formas del relieve submarino** completo — plataforma continental (200 m), talud o zócalo continental (3 km), zona pelágica (3,000–6,000 m, dorsales y cuencas) y fosas abisales (más de 6,000 m, casi 4 millones de km², las más profundas al oeste del Pacífico). Cifras verificadas con `crop.py` a 600 dpi. **Con esta página queda CERRADO el 5.2 y con él la Unidad V**, en lo que pide el temario.
 
-**Pendiente:** EN CURSO. El tema **5.1 quedó CERRADO** (pp. 151–156) y el **5.2 está EN CURSO** (cubiertas las pp. 157–161, con el **5.2.1** y el **5.2.2 CERRADOS**). Sigue desde la **p.162** con los subtemas que restan: **5.2.3** Movimientos de las aguas oceánicas (I): olas y mareas (p.162), **5.2.4** Movimientos de las aguas oceánicas (II): las corrientes marinas (p.164) y **5.2.5** Formas del relieve submarino (p.167), hasta cerrar en la **p.167**: el **5.3 Las aguas continentales** empieza en la p.168 y **el temario NO lo pide**. Con el 5.2 se cierra la Unidad V. Falta también la **Unidad VI** de esta materia. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo y el de la Unidad IV sostienen el pendiente de la materia.
+**Pendiente:** faltan de la materia la **Unidad VI** (ver abajo). **En este archivo no queda nada: la Unidad V está CERRADA** en lo que pide el temario `GEO-01-2026`: el **5.1** completo (pp. 151–156) y el **5.2** completo —5.2.1 Generalidades (pp. 157–159), 5.2.2 Características e importancia (pp. 160–161), 5.2.3 Olas y mareas (pp. 162–163), 5.2.4 Corrientes marinas (pp. 164–166) y 5.2.5 Formas del relieve submarino (p. 167)—, en **223 reactivos**. Verificado en la hoja que la p.168 arranca el **5.3 Las aguas continentales**, que el temario NO pide. Lo que sigue de la materia es la **Unidad VI · La Atmósfera** (6.1 Generalidades sobre la atmósfera, p.192; 6.2 Los fenómenos meteorológicos; 6.3 El clima), en su propio archivo. **Geografía NO está cerrada:** mientras no exista el `.md` de la Unidad VI, este archivo sostiene el pendiente de la materia — **por eso esta línea arranca con "faltan" y no con "ninguno"**: el generador de `ESTADO.md` marca la materia como cerrada si el `Pendiente` de *todos* sus archivos empieza con "ninguno", y aquí eso sería falso. Cuando se cree el archivo de la Unidad VI, esta línea puede volver a "ninguno en este archivo".
 
 ---
 
@@ -2433,4 +2437,1021 @@ En relación con el libro de Geografía, ¿qué proporcionan las aguas oceánica
 **Subtema:** importancia de las aguas oceánicas · desarrollo económico
 
 "Constituyen un factor fundamental para el desarrollo económico de la humanidad, pues proporcionan un medio de transporte cómodo y barato, abundante pesca y enormes cantidades de minerales (sal común, cloruro de magnesio, yodo, etc.)."
+
+## Sub-lote 11 · Las olas (5.2.3, p. 162)
+
+### 157
+
+De acuerdo con el libro de Geografía, ¿qué 3 clases de movimientos presentan las aguas oceánicas?
+
+- A. Olas, mareas y corrientes
+- B. Olas, mareas y oleaje
+- C. Mareas, corrientes y oleaje
+- D. Olas, corrientes y marejadas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 162
+**Subtema:** movimientos oceánicos · las 3 clases
+
+"Las aguas oceánicas presentan 3 clases de movimientos: olas, mareas y corrientes."
+
+### 158
+
+De conformidad con el libro de Geografía, ¿cómo se definen las olas?
+
+- A. Los movimientos ondulatorios superficiales de las aguas, provocados por el viento y perceptibles cuando mucho a 30 m de profundidad
+- B. Los movimientos ondulatorios superficiales de las aguas, provocados por la Luna y el Sol y perceptibles cuando mucho a 30 m de profundidad
+- C. Los ascensos y descensos periódicos de las aguas oceánicas, provocados por el viento
+- D. Los movimientos ondulatorios profundos de las aguas, provocados por el viento y perceptibles hasta 300 m de profundidad
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 162
+**Subtema:** las olas · definición
+
+"Los movimientos ondulatorios superficiales de las aguas, provocados por el viento y perceptibles cuando mucho a 30 m de profundidad."
+
+### 159
+
+En relación con el libro de Geografía, ¿dónde se presentan las olas y dónde son poco notables?
+
+- A. Tanto en océanos y mares como en ríos y lagos, si bien en estos últimos son poco notables
+- B. Sólo en océanos y mares, pues en ríos y lagos no se presentan
+- C. Tanto en océanos y mares como en ríos y lagos, si bien en los primeros son poco notables
+- D. Únicamente en ríos y lagos, pues en océanos y mares se presentan las mareas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 162
+**Subtema:** las olas · dónde se presentan
+
+"Las olas se presentan tanto en océanos y mares como en ríos y lagos, si bien en estos últimos son poco notables."
+
+### 160
+
+De acuerdo con el libro de Geografía, ¿cómo varía normalmente la altitud de las olas y hasta cuánto pueden alcanzar durante las tempestades?
+
+- A. Varía de unos centímetros a varios metros; durante las tempestades pueden alcanzar más de 15 m
+- B. Varía de unos centímetros a varios metros; durante las tempestades pueden alcanzar más de 30 m
+- C. Varía de varios metros a decenas de metros; durante las tempestades pueden alcanzar más de 15 m
+- D. Se mantiene siempre por debajo de un metro, incluso durante las tempestades
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 162
+**Subtema:** las olas · altitud
+
+"Su altitud varía normalmente de unos centímetros a varios metros; sin embargo, durante las tempestades pueden alcanzar más de 15 m."
+
+### 161
+
+De conformidad con el libro de Geografía, ¿qué ola registraron en 1933 los marinos del buque estadounidense *Ramapo* y dónde?
+
+- A. Una ola de 34 m de altura, en el Océano Pacífico
+- B. Una ola de 34 m de altura, en el Océano Atlántico
+- C. Una ola de 15 m de altura, en el Océano Pacífico
+- D. Una ola de 43 m de altura, en el Océano Pacífico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 162
+**Subtema:** las olas · el caso del *Ramapo*
+
+"(En 1933 los marinos del buque estadounidense *Ramapo* registraron en el Océano Pacífico una ola de 34 m de altura.)"
+
+### 162
+
+En relación con el libro de Geografía, de acuerdo con el lugar donde se producen, ¿cómo pueden ser las olas?
+
+- A. De oscilación o de traslación
+- B. De sicigia o de cuadratura
+- C. Cálidas o frías
+- D. De flujo o de reflujo
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 162
+**Subtema:** las olas · clasificación
+
+"De acuerdo con el lugar donde se producen, las olas pueden ser de oscilación o de traslación."
+
+### 163
+
+De acuerdo con el libro de Geografía, ¿dónde se producen las olas de oscilación?
+
+- A. En aguas profundas, en pleno océano o a cierta distancia de la costa
+- B. En aguas poco profundas, cerca de la costa
+- C. Únicamente en pleno océano, nunca cerca de la costa
+- D. En la plataforma continental, entre 0 y 200 m de profundidad
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 162
+**Subtema:** olas de oscilación · dónde se producen
+
+"Las olas de oscilación se producen en aguas profundas, en pleno océano o a cierta distancia de la costa."
+
+### 164
+
+De conformidad con el libro de Geografía, en las olas de oscilación, ¿qué ocurre con la masa acuosa?
+
+- A. No avanza, pues las partículas de agua sólo dan una vuelta hacia arriba y hacia abajo y regresan casi al mismo punto de partida
+- B. Avanza continuamente hacia la costa, arrastrando las partículas de agua
+- C. No avanza, pues las partículas de agua permanecen inmóviles
+- D. Avanza hacia mar abierto, alejándose de la costa
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 162
+**Subtema:** olas de oscilación · la masa acuosa no avanza
+
+"En ellas la masa acuosa no avanza, pues las partículas de agua sólo dan una vuelta hacia arriba y hacia abajo y regresan casi al mismo punto de partida."
+
+### 165
+
+En relación con el libro de Geografía, cuando las olas de oscilación llegan a lugares poco profundos, cerca de la costa, ¿qué ocurre?
+
+- A. Su parte inferior choca contra el fondo del mar
+- B. Su parte superior se detiene antes de llegar a la costa
+- C. Se transforman de inmediato en mareas
+- D. Pierden toda su energía y desaparecen
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 162
+**Subtema:** olas de oscilación · el choque contra el fondo
+
+"Cuando las olas de oscilación llegan a lugares poco profundos, cerca de la costa, su parte inferior choca contra el fondo [...]"
+
+## Sub-lote 12 · Olas de traslación y las mareas (5.2.3, p. 163)
+
+### 166
+
+De acuerdo con el libro de Geografía, al chocar contra el fondo del mar, ¿en qué se convierten las olas de oscilación y qué le ocurre a su cresta?
+
+- A. Se convierten en olas de traslación: la cresta es impulsada hacia adelante, se rompe (rompiente) y avanza sobre la playa
+- B. Se convierten en mareas: la cresta se detiene y regresa mar adentro
+- C. Se convierten en corrientes litorales: la cresta se disuelve sin llegar a la playa
+- D. Se convierten en olas de traslación: la cresta se hunde y desaparece bajo el agua
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** olas de traslación · la rompiente
+
+"[...] y se convierten en olas de traslación: la cresta es impulsada hacia adelante, se rompe (rompiente) y avanza sobre la playa."
+
+### 167
+
+De conformidad con el libro de Geografía, ¿cómo se denomina el retorno del agua al mar tras romper la ola en la playa?
+
+- A. Resaca
+- B. Reflujo
+- C. Marea baja
+- D. Corriente de retroceso
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** olas de traslación · la resaca
+
+"El retorno del agua al mar recibe el nombre de resaca."
+
+### 168
+
+En relación con el libro de Geografía, ¿a qué da origen el choque constante de las olas contra la tierra?
+
+- A. A las corrientes litorales o de retroceso
+- B. A las mareas de aguas vivas
+- C. A las corrientes cálidas
+- D. A la resaca únicamente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** corrientes litorales · origen
+
+"El choque constante de las olas contra la tierra da origen a las corrientes litorales o de retroceso."
+
+### 169
+
+De acuerdo con el libro de Geografía, ¿qué son las corrientes litorales o de retroceso?
+
+- A. Uno de los más importantes agentes erosivos de las costas (erosión marina)
+- B. Uno de los factores que originan las mareas de sicigia
+- C. El principal factor de la distribución mundial de las lluvias
+- D. Uno de los agentes que forman las fosas abisales
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** corrientes litorales · erosión marina
+
+"Y es uno de los más importantes agentes erosivos de las costas (erosión marina)."
+
+### 170
+
+De conformidad con el libro de Geografía, ¿cómo se definen las mareas?
+
+- A. Los ascensos y descensos periódicos de las aguas oceánicas, debidos a la atracción de la Luna y el Sol
+- B. Los movimientos ondulatorios superficiales de las aguas, debidos a la atracción de la Luna y el Sol
+- C. Los ascensos y descensos periódicos de las aguas oceánicas, debidos a la rotación terrestre
+- D. Las grandes masas de agua que circulan a través de los océanos debido a la atracción lunar
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** las mareas · definición
+
+"Los ascensos y descensos periódicos de las aguas oceánicas, debidos a la atracción de la Luna y el Sol."
+
+### 171
+
+En relación con el libro de Geografía, a diferencia de las olas, que sólo afectan la capa superficial de océanos y mares, ¿a qué afectan las mareas?
+
+- A. A toda la masa acuosa de la Tierra
+- B. Únicamente a las aguas costeras
+- C. Únicamente a las aguas de los océanos, no a las de los mares
+- D. A la capa superficial de océanos, mares y ríos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** las mareas · diferencia con las olas
+
+"A diferencia de las olas, que sólo afectan la capa superficial de océanos y mares, las mareas afectan a toda la masa acuosa de la Tierra."
+
+### 172
+
+De acuerdo con el libro de Geografía, al provocar el ascenso y descenso de toda la masa acuosa de la Tierra, ¿en qué vienen a convertirse las mareas?
+
+- A. En olas gigantescas cuyas crestas se ubican en puntos opuestos del planeta
+- B. En corrientes marinas cuyas crestas recorren todo el planeta
+- C. En olas de oscilación que no avanzan
+- D. En olas gigantescas cuyas crestas se ubican siempre en el mismo punto del planeta
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** las mareas · olas gigantescas
+
+"Provocando su ascenso y descenso: vienen a ser olas gigantescas cuyas crestas se ubican en puntos opuestos del planeta."
+
+### 173
+
+De conformidad con el libro de Geografía, ¿qué nombres recibe el ascenso de las aguas?
+
+- A. Flujo, pleamar o marea alta
+- B. Reflujo, bajamar o marea baja
+- C. Flujo, bajamar o marea alta
+- D. Sicigia, pleamar o marea alta
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** las mareas · el ascenso
+
+"El ascenso de las aguas recibe los nombres de flujo, pleamar o marea alta."
+
+### 174
+
+En relación con el libro de Geografía, ¿qué nombres recibe el descenso de las aguas?
+
+- A. Reflujo, bajamar o marea baja
+- B. Flujo, pleamar o marea alta
+- C. Reflujo, pleamar o marea baja
+- D. Cuadratura, bajamar o marea baja
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** las mareas · el descenso
+
+"Su descenso, los de reflujo, bajamar o marea baja."
+
+### 175
+
+De acuerdo con el libro de Geografía, ¿cada cuánto se repite el fenómeno de las mareas y de acuerdo con qué movimientos?
+
+- A. Cada 12 horas y 25 minutos, de acuerdo con los movimientos de rotación terrestre y traslación lunar
+- B. Cada 24 horas, de acuerdo únicamente con el movimiento de rotación terrestre
+- C. Cada 12 horas y 25 minutos, de acuerdo con los movimientos de traslación terrestre y rotación lunar
+- D. Cada 6 horas y 12 minutos, de acuerdo con los movimientos de rotación terrestre y traslación lunar
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** las mareas · periodicidad
+
+"El fenómeno se repite cada 12 horas y 25 minutos, de acuerdo con los movimientos de rotación terrestre y traslación lunar."
+
+### 176
+
+De conformidad con el libro de Geografía, ¿a qué da lugar la atracción combinada de la Luna y el Sol?
+
+- A. A 2 clases de mareas: las de aguas vivas o de sicigia y las de aguas muertas o de cuadratura
+- B. A 2 clases de olas: las de oscilación y las de traslación
+- C. A 3 clases de mareas: vivas, muertas y mixtas
+- D. A 2 clases de corrientes: cálidas y frías
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** las mareas · 2 clases
+
+"La atracción combinada de la Luna y el Sol da lugar a 2 clases de mareas: las de aguas vivas o de sicigia y las de aguas muertas o de cuadratura."
+
+### 177
+
+En relación con el libro de Geografía, ¿cuándo se presentan las mareas de aguas vivas o de sicigia y qué ocurre entonces?
+
+- A. Cuando el Sol, la Tierra y la Luna se encuentran en conjunción (novilunio y plenilunio); las fuerzas gravitatorias se unen y las mareas alcanzan su máxima altura
+- B. Cuando el Sol, la Tierra y la Luna forman un ángulo recto (cuarto creciente y menguante); las fuerzas gravitatorias se unen y las mareas alcanzan su máxima altura
+- C. Cuando el Sol, la Tierra y la Luna se encuentran en conjunción; las fuerzas gravitatorias se contrarrestan y las mareas alcanzan su menor altura
+- D. Cuando la Luna se encuentra en cuarto creciente; las mareas alcanzan su máxima altura
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** mareas de sicigia · cuándo se presentan
+
+"Las mareas de aguas vivas o de sicigia se presentan cuando el Sol, la Tierra y la Luna se encuentran en conjunción [...], lo cual ocurre en las fases de novilunio y plenilunio. Entonces las fuerzas gravitatorias del Sol y la Luna se unen y las mareas alcanzan su máxima altura."
+
+### 178
+
+De acuerdo con el libro de Geografía, ¿cuándo se presentan las mareas de aguas muertas o de cuadratura y qué ocurre entonces?
+
+- A. Cuando el Sol, la Tierra y la Luna forman un ángulo recto (cuarto creciente y cuarto menguante); las fuerzas gravitatorias se contrarrestan y las mareas registran su menor altura
+- B. Cuando el Sol, la Tierra y la Luna se encuentran en conjunción (novilunio y plenilunio); las fuerzas gravitatorias se contrarrestan y las mareas registran su menor altura
+- C. Cuando el Sol, la Tierra y la Luna forman un ángulo recto; las fuerzas gravitatorias se unen y las mareas alcanzan su máxima altura
+- D. Cuando la Luna se encuentra en plenilunio; las mareas registran su menor altura
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** mareas de cuadratura · cuándo se presentan
+
+"Las mareas de aguas muertas o de cuadratura se producen cuando el Sol, la Tierra y la Luna forman un ángulo recto, o sea, en las fases de cuarto creciente y cuarto menguante. Entonces las fuerzas gravitatorias del Sol y la Luna se contrarrestan y las mareas registran su menor altura."
+
+### 179
+
+De conformidad con el libro de Geografía, ¿por qué en altamar las mareas son casi imperceptibles?
+
+- A. Porque abarcan una enorme extensión, se producen lentamente y las naves ascienden y descienden con la masa acuosa
+- B. Porque en altamar no existe atracción gravitatoria de la Luna y el Sol
+- C. Porque abarcan una extensión reducida y se producen con rapidez
+- D. Porque las naves permanecen inmóviles mientras la masa acuosa asciende y desciende
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** las mareas · en altamar
+
+"En altamar las mareas son casi imperceptibles, pues abarcan una enorme extensión, se producen lentamente y las naves ascienden y descienden con la masa acuosa."
+
+### 180
+
+En relación con el libro de Geografía, ¿de cuánto es la diferencia entre las mareas alta y baja en el Golfo de México, y de cuánto en la Bahía de Fundy?
+
+- A. Apenas de un metro en el Golfo de México; ocasionalmente 16.6 m en la Bahía de Fundy (Canadá-Estados Unidos de América)
+- B. Apenas de un metro en la Bahía de Fundy; ocasionalmente 16.6 m en el Golfo de México
+- C. De 16.6 m en el Golfo de México; apenas de un metro en la Bahía de Fundy
+- D. Apenas de un metro en ambos casos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** las mareas · Golfo de México y Bahía de Fundy
+
+"Mientras en el Golfo de México la diferencia entre las mareas alta y baja es apenas de un metro, en la Bahía de Fundy (Canadá-Estados Unidos de América) alcanza ocasionalmente 16.6 m."
+
+### 181
+
+De acuerdo con el libro de Geografía, cuando las aguas marinas se elevan 3 m, ¿cuánto se elevan la litósfera y la atmósfera?
+
+- A. La litósfera se eleva unos 15 cm y la atmósfera unos 3 km
+- B. La litósfera se eleva unos 3 km y la atmósfera unos 15 cm
+- C. La litósfera se eleva unos 15 m y la atmósfera unos 3 km
+- D. La litósfera se eleva unos 15 cm y la atmósfera unos 30 km
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 163
+**Subtema:** las mareas · efecto en la litósfera y la atmósfera
+
+"Así, cuando las aguas marinas se elevan 3 m, la litósfera se eleva unos 15 cm y la atmósfera unos 3 km."
+
+## Sub-lote 13 · Factores y definición de las corrientes marinas (5.2.4, p. 164)
+
+### 182
+
+De conformidad con el libro de Geografía, a diferencia de las olas y las mareas, ¿qué hacen las corrientes marinas?
+
+- A. Sí transportan el agua de unos lugares a otros
+- B. No transportan agua, sólo la masa acuosa oscila en el mismo lugar
+- C. Transportan únicamente sedimentos, no agua
+- D. Transportan agua sólo en las regiones polares
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 164
+**Subtema:** corrientes marinas · sí transportan el agua
+
+"Las corrientes marinas [...]; éstas, a diferencia de las primeras, sí transportan el agua de unos lugares a otros."
+
+### 183
+
+En relación con el libro de Geografía, ¿qué corriente transporta más agua que todos los arroyos y ríos del mundo juntos?
+
+- A. Tan sólo la Gulf Stream o Corriente del Golfo
+- B. Tan sólo la Corriente del Perú
+- C. Tan sólo la Corriente del Labrador
+- D. Tan sólo la Corriente de California
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 164
+**Subtema:** corrientes marinas · la Gulf Stream
+
+"Tan sólo la Gulf Stream o Corriente del Golfo transporta más agua que todos los arroyos y ríos del mundo juntos."
+
+### 184
+
+De acuerdo con el libro de Geografía, ¿cómo se definen las corrientes marinas?
+
+- A. Las grandes masas de agua, de anchura y profundidad variables, que circulan a través de los océanos y mares sin mezclarse directamente con las aguas circundantes
+- B. Los ascensos y descensos periódicos de las aguas oceánicas, debidos a la atracción de la Luna y el Sol
+- C. Los movimientos ondulatorios superficiales de las aguas, provocados por el viento
+- D. Las grandes masas de agua que circulan a través de los océanos, mezclándose siempre con las aguas circundantes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 164
+**Subtema:** corrientes marinas · definición
+
+"Las grandes masas de agua, de anchura y profundidad variables, que circulan a través de los océanos y mares sin mezclarse directamente con las aguas circundantes."
+
+## Sub-lote 14 · Factores y clasificación de las corrientes marinas (5.2.4, p. 165)
+
+### 185
+
+De conformidad con el libro de Geografía, por lo que respecta a la diferencia de temperatura de las aguas oceánicas, ¿hacia dónde se mueven primero las aguas calientes de las latitudes bajas?
+
+- A. Hacia el oeste, y después hacia las latitudes medias y altas
+- B. Hacia el este, y después hacia las latitudes medias y altas
+- C. Hacia los polos directamente
+- D. Hacia el oeste, y después regresan al Ecuador
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** factores de las corrientes · diferencia de temperatura
+
+"Las aguas calientes de las latitudes bajas se mueven primero hacia el oeste y después hacia las latitudes medias y altas."
+
+### 186
+
+En relación con el libro de Geografía, por lo contrario, ¿hacia dónde se mueven las aguas frías de las regiones polares?
+
+- A. Hacia latitudes medias y bajas
+- B. Hacia latitudes altas, permaneciendo siempre en los polos
+- C. Hacia el oeste, igual que las aguas calientes
+- D. Hacia el centro de los océanos, sin cambiar de latitud
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** factores de las corrientes · aguas frías polares
+
+"Por lo contrario, las aguas frías de las regiones polares se mueven hacia latitudes medias y bajas."
+
+### 187
+
+De acuerdo con el libro de Geografía, en el Estrecho de Gibraltar, ¿cómo fluyen las aguas del Océano Atlántico hacia el Mar Mediterráneo?
+
+- A. Menos saladas y densas que las del Mediterráneo, fluyen hacia éste por la superficie
+- B. Más saladas y densas que las del Mediterráneo, fluyen hacia éste por la superficie
+- C. Menos saladas y densas que las del Mediterráneo, fluyen hacia éste a mayor profundidad
+- D. Con la misma salinidad que las del Mediterráneo, fluyen hacia éste por la superficie
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** factores de las corrientes · Estrecho de Gibraltar
+
+"En el Estrecho de Gibraltar las aguas del Océano Atlántico, menos saladas y densas que las del Mar Mediterráneo, fluyen hacia éste por la superficie."
+
+### 188
+
+De conformidad con el libro de Geografía, simultáneamente, ¿cómo fluyen las aguas del Mediterráneo hacia el Atlántico?
+
+- A. Más saladas y densas, fluyen hacia el Atlántico a mayor profundidad
+- B. Menos saladas y densas, fluyen hacia el Atlántico por la superficie
+- C. Más saladas y densas, fluyen hacia el Atlántico por la superficie
+- D. Con la misma densidad, fluyen hacia el Atlántico a mayor profundidad
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** factores de las corrientes · el Mediterráneo hacia el Atlántico
+
+"Simultáneamente, las aguas del Mediterráneo, más saladas y densas, fluyen hacia el Océano Atlántico a mayor profundidad."
+
+### 189
+
+En relación con el libro de Geografía, ¿cuál es el factor más importante en la formación de las grandes corrientes marinas?
+
+- A. Los vientos constantes, particularmente los alisios y vientos del oeste
+- B. La diferencia de temperatura de las aguas oceánicas
+- C. La rotación terrestre
+- D. La presencia de continentes e islas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** factores de las corrientes · los vientos constantes
+
+"Los vientos constantes, particularmente los alisios y vientos del oeste [...] Éste es el factor más importante en la formación de las grandes corrientes marinas."
+
+### 190
+
+De acuerdo con el libro de Geografía, ¿hacia dónde desvía la rotación terrestre a las corrientes marinas respecto de su punto de partida?
+
+- A. Hacia la derecha en el Hemisferio Boreal y hacia la izquierda en el Meridional
+- B. Hacia la izquierda en el Hemisferio Boreal y hacia la derecha en el Meridional
+- C. Siempre hacia la derecha, en ambos hemisferios
+- D. Siempre hacia la izquierda, en ambos hemisferios
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** factores de las corrientes · rotación terrestre
+
+"La rotación terrestre, que desvía las corrientes marinas hacia la derecha de su punto de partida en el Hemisferio Boreal y hacia la izquierda en el Meridional."
+
+### 191
+
+De conformidad con el libro de Geografía, ¿qué cambios imprimen la presencia de continentes e islas a las corrientes marinas?
+
+- A. Cambios en su dirección, velocidad, profundidad y anchura
+- B. Cambios únicamente en su temperatura
+- C. Cambios únicamente en su salinidad
+- D. Cambios en su color y su densidad
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** factores de las corrientes · continentes e islas
+
+"La presencia de continentes e islas, que les imprimen cambios en su dirección, velocidad, profundidad y anchura."
+
+### 192
+
+En relación con el libro de Geografía, de acuerdo con su temperatura, ¿en qué se dividen las corrientes marinas?
+
+- A. En cálidas y frías
+- B. En vivas y muertas
+- C. En de oscilación y de traslación
+- D. En litorales y oceánicas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** clasificación de las corrientes · cálidas y frías
+
+"De acuerdo con su temperatura, las corrientes marinas se dividen en cálidas y frías."
+
+### 193
+
+De acuerdo con el libro de Geografía, ¿cómo son las corrientes cálidas y dónde se originan?
+
+- A. Son las mayores y más importantes del mundo; se originan en la zona cálida del planeta
+- B. Son las menores y menos importantes del mundo; se originan en las regiones polares
+- C. Son las mayores y más importantes del mundo; se originan en las regiones polares
+- D. Son las mayores del mundo, pero circulan a mayor profundidad que las frías
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** corrientes cálidas · características
+
+"Las corrientes cálidas son las mayores y más importantes del mundo. Se originan en la zona cálida del planeta."
+
+### 194
+
+De conformidad con el libro de Geografía, ¿hacia dónde se desplazan en su mayoría las corrientes cálidas y hacia dónde giran al encontrar continentes e islas?
+
+- A. Se desplazan primero de este a oeste, y giran hacia la derecha en el Hemisferio Boreal y hacia la izquierda en el Meridional
+- B. Se desplazan primero de oeste a este, y giran hacia la izquierda en el Hemisferio Boreal y hacia la derecha en el Meridional
+- C. Se desplazan primero de este a oeste, y giran hacia la izquierda en el Hemisferio Boreal y hacia la derecha en el Meridional
+- D. Se desplazan siempre en línea recta, sin girar al encontrar continentes e islas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** corrientes cálidas · desplazamiento y giro
+
+"En su mayoría se desplazan primero de este a oeste, pero al encontrar en su ruta continentes e islas giran hacia la derecha en el Hemisferio Boreal y hacia la izquierda en el Meridional."
+
+### 195
+
+En relación con el libro de Geografía, ¿desde cuándo han sido conocidas y usadas las corrientes cálidas para la navegación, y de qué fueron factor determinante?
+
+- A. Desde la antigüedad; fueron un factor determinante de los descubrimientos geográficos realizados durante la Edad Moderna (siglos XV-XVIII)
+- B. Desde el siglo XX; fueron un factor determinante de la navegación aérea
+- C. Desde la antigüedad; fueron un factor determinante de los descubrimientos geográficos de la Antigüedad Clásica
+- D. Desde la Edad Media; fueron un factor determinante del comercio marítimo actual
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** corrientes cálidas · navegación y descubrimientos
+
+"Las corrientes cálidas han sido conocidas y usadas para la navegación desde la antigüedad [...] Fueron un factor determinante de los descubrimientos geográficos realizados durante la Edad Moderna (siglos XV-XVIII)."
+
+### 196
+
+De acuerdo con el libro de Geografía, ¿de dónde provienen las corrientes frías y a qué profundidades circulan?
+
+- A. Provienen de las regiones polares y circulan a mayores profundidades que las cálidas
+- B. Provienen de las regiones ecuatoriales y circulan a mayores profundidades que las cálidas
+- C. Provienen de las regiones polares y circulan a la misma profundidad que las cálidas
+- D. Provienen de las regiones polares y circulan siempre en la superficie
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** corrientes frías · origen y profundidad
+
+"Las corrientes frías provienen de las regiones polares [...] Circulan a mayores profundidades que las cálidas."
+
+### 197
+
+De conformidad con el libro de Geografía, por circular a mayores profundidades, ¿desde cuándo fueron conocidas las corrientes frías?
+
+- A. Desde hace relativamente poco tiempo, y en nuestros días siguen siendo objeto de estudio
+- B. Desde la antigüedad, igual que las corrientes cálidas
+- C. Desde la Edad Moderna, con los mismos descubrimientos que las cálidas
+- D. Desde hace relativamente poco tiempo, aunque hoy ya están completamente estudiadas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** corrientes frías · conocidas recientemente
+
+"Por lo cual fueron conocidas hace relativamente poco tiempo (en nuestros días siguen siendo objeto de estudio)."
+
+### 198
+
+En relación con el libro de Geografía, ¿cómo contribuyen las corrientes marinas, sobre todo las cálidas, a reducir las diferencias de temperatura?
+
+- A. Al transportar el calor de las aguas ecuatoriales, tropicales y polares de unas a otras
+- B. Al enfriar por igual todas las regiones del planeta
+- C. Al impedir el intercambio de calor entre regiones
+- D. Al transportar únicamente el frío de las regiones polares hacia el Ecuador
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** importancia de las corrientes · diferencias de temperatura
+
+"Contribuyen a reducir las diferencias de temperatura existentes entre las aguas de las regiones ecuatoriales, tropicales y polares, al transportar el calor de unas a otras."
+
+### 199
+
+De acuerdo con el libro de Geografía, ¿qué facilitan las corrientes marinas para el desarrollo de la vida marina?
+
+- A. La difusión de las sustancias minerales y orgánicas necesarias, transportándolas de un lugar a otro
+- B. La difusión únicamente de las sustancias minerales, no de las orgánicas
+- C. La retención de las sustancias minerales y orgánicas en un solo lugar
+- D. La difusión de las sustancias radioactivas presentes en el agua de mar
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** importancia de las corrientes · difusión de sustancias
+
+"Facilitan la difusión de las sustancias minerales y orgánicas necesarias para el desarrollo de la vida marina, transportándolas de un lugar a otro."
+
+### 200
+
+De conformidad con el libro de Geografía, ¿por qué Irlanda y Gran Bretaña gozan de un clima benigno mientras que en la Península del Labrador, a la misma latitud, predomina un rudo clima ártico con temperaturas hasta -50ºC?
+
+- A. Por la acción de la Gulf Stream o Corriente del Golfo de México en el primer caso, y de la Corriente del Labrador, proveniente de las regiones árticas, en el segundo
+- B. Por la acción de la Corriente del Labrador en el primer caso, y de la Gulf Stream en el segundo
+- C. Por la altitud de Irlanda y Gran Bretaña frente a la del Labrador
+- D. Por la cercanía de Irlanda y Gran Bretaña al Ecuador
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** importancia de las corrientes · Irlanda-Gran Bretaña y el Labrador
+
+"Mientras Irlanda y Gran Bretaña [...] gozan de un clima benigno debido a la acción de la Gulf Stream o Corriente del Golfo de México, en la Península del Labrador (Canadá), situada a la misma latitud, predomina un rudo clima ártico, con temperaturas absolutas hasta -50ºC en invierno, debido a la acción de la Corriente del Labrador, proveniente de las regiones árticas."
+
+### 201
+
+En relación con el libro de Geografía, ¿de qué son uno de los factores fundamentales las corrientes marinas, y qué ejemplo se da con la Corriente del Perú?
+
+- A. De la distribución mundial de las lluvias; la fría Corriente del Perú, paralela a las costas occidentales de América del Sur, impide la evaporación de las aguas del Océano Pacífico
+- B. De la distribución mundial de las lluvias; la cálida Corriente del Perú favorece la evaporación de las aguas del Océano Pacífico
+- C. De la formación de las mareas; la Corriente del Perú intensifica las mareas vivas
+- D. De la erosión de las costas; la Corriente del Perú erosiona las costas de Chile y Perú
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 165
+**Subtema:** importancia de las corrientes · la Corriente del Perú
+
+"Son uno de los factores fundamentales de la distribución mundial de las lluvias. Por ejemplo, la fría Corriente del Perú, paralela a las costas occidentales de América del Sur, impide la evaporación de las aguas del Océano Pacífico."
+
+## Sub-lote 15 · Importancia y navegación de las corrientes marinas (5.2.4, p. 166)
+
+### 202
+
+De acuerdo con el libro de Geografía, por consiguiente, ¿cómo son las áreas costeras de Chile y Perú?
+
+- A. Bastante secas
+- B. Bastante lluviosas
+- C. De clima templado y húmedo
+- D. Cubiertas casi todo el año por niebla, pero sin lluvias
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 166
+**Subtema:** importancia de las corrientes · costas de Chile y Perú
+
+"Por consiguiente, las áreas costeras de Chile y Perú son bastante secas."
+
+### 203
+
+De conformidad con el libro de Geografía, ¿qué ejemplo se da de la difusión de especies vegetales por las corrientes marinas?
+
+- A. La palmera cocotera, originaria de las Islas Maldivas (suroeste de la India), se ha extendido por las regiones ecuatoriales y tropicales al ser arrastrados sus frutos por las corrientes marinas
+- B. La palmera cocotera, originaria de las Islas Hawaii, se ha extendido por las regiones polares
+- C. El plancton, originario de las regiones polares, se ha extendido por las regiones ecuatoriales
+- D. La palmera cocotera, originaria de las Islas Maldivas, se ha extendido únicamente por el sureste asiático
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 166
+**Subtema:** importancia de las corrientes · la palmera cocotera
+
+"Han facilitado la difusión de incontables especies vegetales y animales. Por ejemplo, la palmera cocotera, originaria de las Islas Maldivas (suroeste de la India), se ha extendido por las regiones ecuatoriales y tropicales al ser arrastrados sus frutos por las corrientes marinas."
+
+### 204
+
+En relación con el libro de Geografía, ¿qué se forma en los puntos donde chocan las corrientes cálidas y frías, y qué favorece?
+
+- A. Enormes concentraciones de plancton y cardúmenes de miles de millones de peces, lo que favorece el desarrollo de la pesca
+- B. Enormes remolinos que impiden el desarrollo de la pesca
+- C. Fosas abisales, lo que favorece la formación de islas oceánicas
+- D. Grandes bancos de niebla, lo que favorece la navegación
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 166
+**Subtema:** importancia de las corrientes · el choque de corrientes y la pesca
+
+"En los puntos donde chocan las corrientes cálidas y frías se forman enormes concentraciones de plancton y cardúmenes de miles de millones de peces. Ello favorece el desarrollo de la pesca."
+
+### 205
+
+De acuerdo con el libro de Geografía, ¿en qué lugares puede verse favorecido el desarrollo de la pesca por el choque de corrientes cálidas y frías?
+
+- A. En los «bancos» de Terranova (Canadá), las costas de Perú y Chile, las costas del suroeste de África (Namibia y República Sudafricana) y el norte del Océano Pacífico (Rusia, Alaska y Japón)
+- B. Únicamente en los «bancos» de Terranova (Canadá)
+- C. En las costas de Perú y Chile y en el Golfo de México
+- D. En el Mar Mediterráneo y el Mar Báltico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 166
+**Subtema:** importancia de las corrientes · zonas pesqueras
+
+"Como puede verse en los «bancos» de Terranova (Canadá), las costas de Perú y Chile, las costas del suroeste de África (Namibia y República Sudafricana) y el norte del Océano Pacífico (Rusia, Alaska y Japón)."
+
+### 206
+
+De conformidad con el libro de Geografía, históricamente hablando, ¿de qué han sido un factor decisivo las corrientes marinas?
+
+- A. De la navegación marítima y los descubrimientos geográficos, sobre todo en la época de la navegación a vela
+- B. De la navegación aérea, sobre todo en el siglo XX
+- C. De la formación de las mareas de sicigia
+- D. Del comercio terrestre entre continentes
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 166
+**Subtema:** las corrientes marinas · importancia histórica
+
+"Históricamente hablando, las corrientes marinas han sido un factor decisivo de la navegación marítima y los descubrimientos geográficos, sobre todo en la época de la navegación a vela."
+
+### 207
+
+En relación con el libro de Geografía, ¿qué ruta siguen los buques que viajan de Canadá y Estados Unidos de América a Europa, y qué ventaja les da?
+
+- A. Siguen la Gulf Stream o Corriente del Golfo de México, que les da un empuje adicional y les ahorra tiempo y combustible
+- B. Se desvían hacia el norte para evitar la Gulf Stream, ahorrando tiempo y combustible
+- C. Siguen la Corriente del Labrador, que les da un empuje adicional
+- D. Siguen la Corriente del Perú, que les ahorra tiempo y combustible
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 166
+**Subtema:** las corrientes marinas · buques de Canadá y EUA a Europa
+
+"Los buques que viajan de Canadá y Estados Unidos de América a Europa lo hacen siguiendo la Gulf Stream o Corriente del Golfo de México, que les da un empuje adicional y les ahorra tiempo y combustible."
+
+### 208
+
+De acuerdo con el libro de Geografía, por lo contrario, ¿qué hacen los buques que van de Europa a América?
+
+- A. Se desvían hacia el norte para evitar la Gulf Stream
+- B. Siguen directamente la Gulf Stream, para aprovechar su empuje
+- C. Se desvían hacia el sur para evitar la Corriente del Labrador
+- D. Navegan en línea recta, sin desviarse por ninguna corriente
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 166
+**Subtema:** las corrientes marinas · buques de Europa a América
+
+"Por lo contrario, los que van de Europa a América se desvían hacia el norte para evitarla."
+
+### 209
+
+De conformidad con el libro de Geografía, según la Figura 5.10, ¿qué modifica la Corriente del Golfo de México?
+
+- A. El clima de las Islas Británicas
+- B. El clima de la Península del Labrador
+- C. El clima de las Islas Maldivas
+- D. El clima de las costas de Chile y Perú
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 166
+**Subtema:** las corrientes marinas · Figura 5.10
+
+"Figura 5.10 La Corriente del Golfo de México modifica el clima de las Islas Británicas."
+
+## Sub-lote 16 · Formas del relieve submarino (5.2.5, p. 167)
+
+### 210
+
+En relación con el libro de Geografía, al igual que las tierras emergidas, ¿qué formas de relieve presentan los fondos marinos?
+
+- A. La plataforma continental, el talud o zócalo continental, la zona pelágica y las fosas abisales o marinas
+- B. Las llanuras, las colinas, las mesetas y las montañas
+- C. Los océanos, los mares, los golfos y las bahías
+- D. La plataforma continental, las dorsales, las cuencas y las corrientes marinas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** relieve submarino · las 4 formas
+
+"Al igual que las tierras emergidas, los fondos marinos presentan desniveles o formas de relieve: la plataforma continental, el talud o zócalo continental, la zona pelágica y las fosas abisales o marinas."
+
+### 211
+
+De acuerdo con el libro de Geografía, ¿de qué es equivalente submarino la plataforma continental?
+
+- A. De las llanuras
+- B. De las mesetas
+- C. De las montañas
+- D. De las colinas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** plataforma continental · equivalente de las llanuras
+
+"La plataforma continental, equivalente submarino de las llanuras, es la porción de los continentes e islas cubierta por las aguas oceánicas."
+
+### 212
+
+De conformidad con el libro de Geografía, ¿desde dónde hasta dónde abarca la plataforma continental?
+
+- A. Desde el nivel del mar hasta unos 200 m de profundidad
+- B. Desde el nivel del mar hasta unos 2,000 m de profundidad
+- C. Desde los 200 m hasta los 3,000 m de profundidad
+- D. Desde el nivel del mar hasta unos 20 m de profundidad
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** plataforma continental · profundidad
+
+"Abarca desde el nivel del mar hasta unos 200 m de profundidad."
+
+### 213
+
+En relación con el libro de Geografía, ¿cómo es la anchura de la plataforma continental?
+
+- A. Bastante variable: desde unos cuantos km donde las sierras y cordilleras se encuentran cerca de la costa, hasta cientos de km cuando bordea llanuras costeras
+- B. Siempre constante, de unos 200 km en todo el planeta
+- C. Bastante variable: desde unos cuantos km donde bordea llanuras costeras, hasta cientos de km donde las sierras se encuentran cerca de la costa
+- D. Nula donde las sierras y cordilleras se encuentran cerca de la costa
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** plataforma continental · anchura
+
+"Su anchura es bastante variable: desde unos cuantos km en los lugares donde las sierras y cordilleras se encuentran cerca de la costa, hasta cientos de km cuando bordea llanuras costeras."
+
+### 214
+
+De acuerdo con el libro de Geografía, ¿dónde se encuentra el talud o zócalo continental y hasta qué profundidad desciende?
+
+- A. En el borde de la plataforma continental, y desciende casi verticalmente hasta unos 3 km de profundidad
+- B. En el centro de los océanos, y desciende casi verticalmente hasta unos 6 km de profundidad
+- C. En el borde de la plataforma continental, y desciende gradualmente hasta unos 200 m de profundidad
+- D. Al pie de las fosas abisales, y desciende casi verticalmente hasta unos 3 km de profundidad
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** talud continental · ubicación y profundidad
+
+"En el borde de la plataforma continental se encuentra un desnivel bastante acentuado: el talud o zócalo continental [...] que desciende casi verticalmente hasta unos 3 km de profundidad."
+
+### 215
+
+De conformidad con el libro de Geografía, ¿de qué es equivalente submarino el talud o zócalo continental, y qué representa?
+
+- A. De las vertientes de sierras y cordilleras; es el verdadero límite de las masas continentales e insulares
+- B. De las llanuras; es el verdadero límite de la zona pelágica
+- C. De las mesetas; es el verdadero límite de las fosas abisales
+- D. De las dorsales; es el verdadero límite de las cuencas oceánicas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** talud continental · el verdadero límite
+
+"El talud o zócalo continental, equivalente submarino de las vertientes de sierras y cordilleras [...] Es el verdadero límite de las masas continentales e insulares."
+
+### 216
+
+En relación con el libro de Geografía, ¿de qué palabra latina proviene «pelágica» y qué significa?
+
+- A. De *pélagus*, que significa mar
+- B. De *pélagus*, que significa profundidad
+- C. De *pelagos*, que significa llanura
+- D. De *pélagus*, que significa cuenca
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** zona pelágica · etimología
+
+"La zona pelágica (del latín pélagus: mar)."
+
+### 217
+
+De acuerdo con el libro de Geografía, ¿qué profundidad tiene la zona pelágica y qué proporción de los fondos marinos ocupa?
+
+- A. De 3,000 a 6,000 m de profundidad, y ocupa la mayor parte de los fondos marinos
+- B. De 200 a 3,000 m de profundidad, y ocupa la mayor parte de los fondos marinos
+- C. De 3,000 a 6,000 m de profundidad, y ocupa apenas el 1% de los fondos marinos
+- D. De más de 6,000 m de profundidad, y ocupa la mayor parte de los fondos marinos
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** zona pelágica · profundidad
+
+"La mayor parte de los fondos marinos está ocupada por la zona pelágica [...], de 3,000 a 6,000 m de profundidad."
+
+### 218
+
+De conformidad con el libro de Geografía, ¿por qué está formada la zona pelágica?
+
+- A. Por extensas llanuras, equivalentes submarinos de las mesetas
+- B. Por extensas montañas, equivalentes submarinas de las cordilleras
+- C. Por extensas llanuras, equivalentes submarinos de las llanuras continentales
+- D. Por fosas abisales, equivalentes submarinas de las depresiones
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** zona pelágica · llanuras submarinas
+
+"Formada por extensas llanuras, equivalentes submarinos de las mesetas."
+
+### 219
+
+En relación con el libro de Geografía, ¿a qué dan origen las dorsales que afloran en numerosos puntos de la zona pelágica, y en qué la dividen?
+
+- A. A islas oceánicas (como las Hawaii y las Azores), y la dividen en secciones llamadas cuencas
+- B. A fosas abisales, y la dividen en secciones llamadas taludes
+- C. A islas oceánicas, y la dividen en secciones llamadas plataformas
+- D. A corrientes marinas, y la dividen en secciones llamadas mareas
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** zona pelágica · dorsales y cuencas
+
+"La presencia de dorsales, que en numerosos puntos afloran dando origen a islas oceánicas (como las Hawaii y las Azores), la divide en secciones más o menos separadas llamadas cuencas."
+
+### 220
+
+De acuerdo con el libro de Geografía, ¿a qué profundidad se encuentran las fosas abisales, fosas marinas o trincheras?
+
+- A. A más de 6,000 m de profundidad
+- B. A más de 3,000 m de profundidad
+- C. A más de 200 m de profundidad
+- D. A exactamente 6,000 m de profundidad
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** fosas abisales · profundidad
+
+"A más de 6,000 m de profundidad se encuentran las fosas abisales, fosas marinas o trincheras."
+
+### 221
+
+De conformidad con el libro de Geografía, ¿dónde se ubican las fosas abisales, y con qué corresponden?
+
+- A. No se ubican en el centro de los océanos, como podría creerse, sino al pie de los continentes e islas, en correspondencia con las más elevadas sierras y cordilleras
+- B. Se ubican en el centro de los océanos, en correspondencia con las dorsales
+- C. No se ubican en el centro de los océanos, sino en la plataforma continental
+- D. Se ubican al pie de los continentes e islas, pero sin relación con las sierras y cordilleras
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** fosas abisales · ubicación
+
+"Que no se ubican en el centro de los océanos, como podría creerse, sino al pie de los continentes e islas, en correspondencia con las más elevadas sierras y cordilleras."
+
+### 222
+
+En relación con el libro de Geografía, ¿qué superficie alcanzan en conjunto las fosas abisales y qué proporción de la hidrósfera representan?
+
+- A. Casi 4 millones de km², poco más del 1% de la hidrósfera
+- B. Casi 40 millones de km², poco más del 10% de la hidrósfera
+- C. Casi 4 millones de km², poco más del 10% de la hidrósfera
+- D. Casi 400,000 km², poco más del 1% de la hidrósfera
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** fosas abisales · superficie total
+
+"En conjunto alcanzan una superficie de casi 4 millones de km², poco más del 1% de la hidrósfera."
+
+### 223
+
+De acuerdo con el libro de Geografía, ¿dónde se ubican las fosas abisales más profundas?
+
+- A. Al oeste del Océano Pacífico
+- B. Al este del Océano Pacífico
+- C. Al oeste del Océano Atlántico
+- D. Al norte del Océano Índico
+
+**Respuesta:** A
+**Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 167
+**Subtema:** fosas abisales · las más profundas
+
+"Las más profundas se ubican al oeste del Océano Pacífico."
 
