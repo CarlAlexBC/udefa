@@ -71,8 +71,14 @@ dependan de los números concretos de ese ejemplo.
 
 ## Erratas del libro
 
-Ninguna detectada todavía en esta Unidad. Si aparece alguna, se documenta aquí con el
-mismo formato que en la Unidad 1.
+- **p.74 — el teorema de la unicidad mezcla notación de límite bilateral con
+  unilateral.** El libro imprime: *"Teorema de la unicidad si lím_{x→a} f(x) = L₁ y
+  lím_{x→a⁻} f(x) = L₂. Entonces, L₁ = L₂."* Verificado a 800 dpi. La primera
+  expresión no lleva signo (x→a, límite "normal") y la segunda sí (x→a⁻, límite por la
+  izquierda); lo consistente sería comparar los dos límites laterales (x→a⁺ y x→a⁻).
+  **No se escribe reactivo con esta notación**; el teorema se cubre por su enunciado en
+  prosa, que sí es limpio y general ("una función no puede aproximarse a dos límites
+  distintos al mismo tiempo... si el límite de una función existe, éste es único").
 
 ## Cobertura por página
 
@@ -90,13 +96,32 @@ mismo formato que en la Unidad 1.
   refuerzan con números lo ya cubierto en la p.67-68 — la existencia o no del límite
   y la diferencia entre *f*(*a*) y el límite en *a* — sin agregar una definición o
   regla nueva.
+- Cubierta la página impresa **72**, que **cierra el 2.1**: el nombre y la idea del
+  **límite directo** (sustituir *x* directamente cuando el límite ya está definido, sin
+  necesidad de gráfica ni tabla) y la aclaración explícita del libro de que esto **no
+  es lo mismo** que obtener el valor de *f*(*x*) —la confusión que, dice el libro,
+  cometen muchos maestros—. **Fuera:** la página 73 completa (ocho gráficas de
+  actividad, sin texto) y el resto de actividades de tabulación.
+- Cubierta la página impresa **74**, que **abre 2.2 Teoremas de límites y su inciso
+  a)**: los **siete teoremas** numerados tal como los da el libro —unicidad; límite de
+  una constante; límite de la variable *x*; límite de la suma/resta; límite del
+  producto; límite del cociente (con su condición *g*(*x*) ≠ 0); y límite de la raíz
+  enésima (con su condición *L* > 0, *n* entero positivo)—. El del teorema 1 se cubre
+  por su enunciado en prosa, no por la notación (ver erratas arriba). **Fuera:** el
+  *Ejemplo* de aplicación de los teoremas con su Solución.
+- **Las páginas impresas 75 a 77 NO dieron ningún reactivo.** Son puros *Ejemplos*
+  aplicando los siete teoremas ya cubiertos (constantes, funciones trigonométricas,
+  exponenciales, un caso de discontinuidad) con su Solución, más listas de ejercicios
+  de práctica.
 
-**Pendiente:** EN CURSO. Cubierto el arranque del **2.1** hasta la **p.71**. Sigue
-desde la **p.72** con el resto del **2.1** hasta cerrar en la p.73 (según el índice),
-y luego **2.2 Teoremas de límites** (p.74) con sus tres incisos, y **2.3 Continuidad**
-(p.92), hasta cerrar la Unidad 2 en la p.98 (la Unidad 3 arranca p.99). **Antes de
-tocar este archivo, corre la regla del punto de continuación de CLAUDE.md** —esta
-Unidad es materia nueva y este archivo es el único que sostiene su pendiente.
+**Pendiente:** EN CURSO. **El 2.1 queda CERRADO** (pp. 67-72). Del **2.2**, cubierto el
+inciso **a) completo** (los siete teoremas, p.74) hasta la p.77. Sigue desde la
+**p.78** con el resto del inciso a) si lo hay, o el inciso **b) Suma y producto cuando
+algún límite es infinito o menos infinito** (p.82), y el inciso **c) Suma y producto
+cuando algún límite no existe** (p.89), y luego **2.3 Continuidad** (p.92), hasta
+cerrar la Unidad 2 en la p.98 (la Unidad 3 arranca p.99). **Antes de tocar este
+archivo, corre la regla del punto de continuación de CLAUDE.md** —esta Unidad es
+materia nueva y este archivo es el único que sostiene su pendiente.
 
 ---
 
@@ -164,3 +189,142 @@ Conforme al libro de Cálculo, ¿cuándo se dice que existe el límite de una fu
 **Subtema:** Idea intuitiva de límite · Condición de existencia
 
 "Cuando el límite por la izquierda es igual al límite por la derecha se dice que existe el límite en símbolos. Si lím f(x) = L₁ y lím f(x) = L₂ se cumple que L₁ = L₂."
+
+---
+
+## Sub-lote 2 · Límite directo y los siete teoremas de límites (2.1 y 2.2 a, pp. 72-74)
+
+### 112
+
+De acuerdo con el libro de Cálculo, ¿cómo se llama al procedimiento de sustituir directamente el valor de *x* para obtener un límite ya definido, sin necesidad de gráfica ni tabla?
+
+- A. Límite directo
+- B. Límite lateral
+- C. Límite indeterminado
+- D. Límite algebraico
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 72
+**Subtema:** Idea intuitiva de límite · Límite directo
+
+"Cuando un límite está definido, como es el caso, no se hace necesario realizar la gráfica y la tabla; concluimos que con sustituir el valor de x en el límite es suficiente [...] Si x = 3 calculemos el siguiente límite, que recibe el nombre de **límite directo**."
+
+### 113
+
+Conforme al libro de Cálculo, al calcular un límite directo sustituyendo el valor de *x*, ¿qué aclara el libro sobre esa operación?
+
+- A. Que no es cierto que esto sea lo mismo que obtener el valor de f(x), aunque muchos maestros lo confundan
+- B. Que es exactamente lo mismo que obtener el valor de f(x) en ese punto
+- C. Que sólo es válido cuando la función es una constante
+- D. Que sólo es válido cuando el límite no existe
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 72
+**Subtema:** Idea intuitiva de límite · Límite directo
+
+"[...] por eso, la confusión de muchos maestros, pues lo consideran como obtener el valor de f(x) y esto no es cierto."
+
+### 114
+
+De acuerdo con el libro de Cálculo, ¿qué garantiza el teorema de la unicidad de los límites?
+
+- A. Que si el límite de una función existe, éste es único
+- B. Que toda función tiene siempre dos límites distintos en cada punto
+- C. Que el límite de una función siempre es igual al valor de la función en ese punto
+- D. Que el límite de una función nunca puede calcularse por sustitución directa
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 74
+**Subtema:** Teoremas de límites · Teorema 1, unicidad
+
+"Este teorema afirma que una función no puede aproximarse a dos límites distintos al mismo tiempo, con la cual se garantiza que si el límite de una función existe, éste es único."
+
+### 115
+
+Conforme al libro de Cálculo, si *c* es una constante, ¿cuánto vale lím (x→a) c?
+
+- A. c
+- B. a
+- C. 0
+- D. No existe
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 74
+**Subtema:** Teoremas de límites · Teorema 2, límite de una constante
+
+"Si c es una constante, entonces para cualquier número a el lím (x→a) c = c"
+
+### 116
+
+De acuerdo con el libro de Cálculo, si *x* es una variable, ¿cuánto vale lím (x→a) x?
+
+- A. a
+- B. x
+- C. 1
+- D. No existe
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 74
+**Subtema:** Teoremas de límites · Teorema 3, límite de la variable x
+
+"Si x es una variable, entonces el lím (x→a) x = a"
+
+### 117
+
+Conforme al libro de Cálculo, si lím (x→a) f(x) = L y lím (x→a) g(x) = M, ¿cuánto vale lím (x→a) [f(x) ± g(x)]?
+
+- A. L ± M
+- B. L · M
+- C. L / M
+- D. L + a
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 74
+**Subtema:** Teoremas de límites · Teorema 4, límite de la suma y la diferencia
+
+"Si lím f(x) = L y lím g(x) = M, entonces el lím [f(x) ± g(x)] = L ± M"
+
+### 118
+
+De acuerdo con el libro de Cálculo, si lím (x→a) f(x) = L y lím (x→a) g(x) = M, ¿cuánto vale lím (x→a) [f(x) · g(x)]?
+
+- A. L · M
+- B. L ± M
+- C. L / M
+- D. M / L
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 74
+**Subtema:** Teoremas de límites · Teorema 5, límite del producto
+
+"Si lím f(x) = L y lím g(x) = M, entonces el lím [f(x) · g(x)] = L · M"
+
+### 119
+
+Conforme al libro de Cálculo, si lím (x→a) f(x) = L y lím (x→a) g(x) = M, ¿cuánto vale lím (x→a) [f(x)/g(x)], y qué condición debe cumplir g(x)?
+
+- A. L/M, con g(x) ≠ 0
+- B. L·M, con g(x) ≠ 0
+- C. L/M, con g(x) = 0
+- D. M/L, con g(x) ≠ 0
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 74
+**Subtema:** Teoremas de límites · Teorema 6, límite del cociente
+
+"Si lím f(x) = L y lím g(x) = M, entonces el lím [f(x)/g(x)] = L/M, g(x) ≠ 0"
+
+### 120
+
+De acuerdo con el libro de Cálculo, si lím (x→a) f(x) = L, ¿a qué es igual lím (x→a) ⁿ√f(x)?
+
+- A. A ⁿ√L
+- B. A L elevado a la n
+- C. A L/n
+- D. A n·L
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 74
+**Subtema:** Teoremas de límites · Teorema 7, límite de la raíz enésima
+
+"Si lím f(x) = L, entonces lím ⁿ√f(x) = ⁿ√(lím f(x)) = ⁿ√L. Con L > 0, si n es un número entero positivo."
