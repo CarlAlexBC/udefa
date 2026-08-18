@@ -32,7 +32,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 El cuerpo del capítulo termina en la **p.60**; las pp.61 en adelante son Ejemplos resueltos (3.3, 3.4…), el Resumen y los problemas de fin de capítulo (P3.x), que no llevan reactivos. La portada (p.52) y los Ejemplos 3.1/3.2 tampoco.
 
-**Pendiente:** el **Capítulo 3 queda CERRADO** (los cuatro temas del temario —3.1, 3.2, 3.3 y 3.4— completos, 42 reactivos). Del temario de Física EMEFA sólo falta por escribir **Cap. 10** (Mecánica de fluidos — 10.1 a 10.6), en su propio archivo.
+**Pendiente:** ninguno. El **Capítulo 3 queda CERRADO** (los cuatro temas del temario —3.1, 3.2, 3.3 y 3.4— completos, 42 reactivos), y con los Cap. 1, 2, 5 y 10 también cerrados, **Física EMEFA (Serway) queda COMPLETA**: 275 reactivos en total.
 
 ---
 

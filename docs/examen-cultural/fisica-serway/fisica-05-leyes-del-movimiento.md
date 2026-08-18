@@ -36,7 +36,7 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 El **5.7 en adelante** («Modelos de análisis en los que se utiliza la segunda ley de Newton», empieza en la p.110) no lo pide el temario y queda fuera.
 
-**Pendiente:** el **Capítulo 5 queda CERRADO** (temario 5.1–5.6 completo, 55 reactivos). Los **Cap. 2** (Movimiento en una dimensión — 2.1, 2.2 y 2.5) y **Cap. 3** (Vectores — completo) ya quedaron cerrados; sólo falta por escribir **Cap. 10** (Mecánica de fluidos — 10.1 a 10.6), en su propio archivo.
+**Pendiente:** ninguno. El **Capítulo 5 queda CERRADO** (temario 5.1–5.6 completo, 55 reactivos), y con los Cap. 1, 2, 3 y 10 también cerrados, **Física EMEFA (Serway) queda COMPLETA**: 275 reactivos en total.
 
 ---
 
