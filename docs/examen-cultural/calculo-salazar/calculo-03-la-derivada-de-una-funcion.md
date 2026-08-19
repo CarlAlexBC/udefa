@@ -266,18 +266,43 @@ reactivos — el teorema en sí (el enunciado "Sea f(x)=... entonces f'(x)=...")
   instrucciones de manejo de calculadora) y dos bancos de ejercicios de tangente y
   normal.
 
+- Cubierta la página impresa **148**, que **abre "Obtención del ángulo entre dos
+  curvas"**: la fórmula del ángulo entre dos curvas en un punto, expresada con las
+  derivadas de cada una (θ = tan⁻¹[(f'(x) − g'(x))/(1 + f'(x)g'(x))]). **Fuera:** los
+  dos *Ejemplos* con su Solución y la Figura 3.4.
+- Cubierto el arranque de la página impresa **149**, que **abre "Modelación de
+  situaciones en diferentes contextos · a) Uso del lenguaje apropiado: velocidad
+  instantánea, aceleración..."**: las definiciones de **velocidad media** (el
+  incremento de la distancia recorrida entre el tiempo empleado) y de **velocidad
+  instantánea** (el límite, cuando el incremento del tiempo tiende a cero, del
+  incremento del espacio recorrido entre el incremento del tiempo). **Fuera:** el dato
+  de Usain Bolt (es la anécdota que sirve de vehículo al ejemplo, no la definición) y
+  la Figura 3.5.
+- Cubierto el arranque de la página impresa **150**: que **la primera derivada se
+  refiere a la velocidad, mientras que la segunda derivada es la aceleración**
+  (razón entre la velocidad y el tiempo, *a*(*t*) = *dv*/*dt*). **Fuera:** la
+  Actividad de aprendizaje con la tabla de tiempos de Bolt y el *Ejemplo* con su
+  Solución.
+- **Las páginas impresas 151 a 153 NO dieron ningún reactivo.** Son bancos de
+  problemas aplicados de velocidad y aceleración, y el *Ejemplo* guiado del
+  clavadista en el cañón del Sumidero (Chiapas) con su Solución — puros problemas de
+  aplicación, sin una definición o regla nueva. **Ojo:** el título de la p.149
+  prometía también "tasa de crecimiento, costo marginal, entre otros" y no aparecieron
+  en este bloque; puede que vengan más adelante o que el libro no los desarrolle.
+
 **Pendiente:** EN CURSO. **El 3.1, 3.2, 3.3 y 3.4 quedan CERRADOS** (pp. 105-142).
-Cubiertos también "La existencia de la derivada", "Derivadas sucesivas" y "Recta
-tangente y recta normal" (pp. 142-147) — contenido que antecede al 3.5 formal, sin
-letra de sección propia en el libro. Sigue desde la **p.148** hasta llegar a **3.5
-Criterios para determinar el comportamiento de una función** (intervalos de
-crecimiento y decrecimiento, puntos máximos y mínimos locales, concavidad, convexidad
-y puntos de inflexión), que arranca en la p.159 según el índice —revisar qué hay entre
-la p.148 y la p.159, puede ser más contenido sin letra de sección o ya la portadilla
-temática—. Después **3.6 Notaciones de la derivada** (p.178) y **3.7 Diferencial de
-una función** (p.178), hasta cerrar la Unidad 3 — y la materia completa de Cálculo
-para la EMT — antes de la p.188 (arranca la Unidad 4, La integral, que el temario NO
-pide). **Antes de tocar este archivo, corre la regla del punto de continuación de
+Cubiertos también "La existencia de la derivada", "Derivadas sucesivas", "Recta
+tangente y recta normal", "Ángulo entre dos curvas" y el arranque de "Modelación de
+situaciones en diferentes contextos" (velocidad y aceleración, pp. 142-150) —
+contenido que antecede al 3.5 formal, sin letra de sección propia en el libro. Sigue
+desde la **p.154** —vigilar si aparecen "tasa de crecimiento" y "costo marginal"— hasta
+llegar a **3.5 Criterios para determinar el comportamiento de una función**
+(intervalos de crecimiento y decrecimiento, puntos máximos y mínimos locales,
+concavidad, convexidad y puntos de inflexión), que arranca en la p.159 según el
+índice. Después **3.6 Notaciones de la derivada** (p.178) y **3.7 Diferencial de una
+función** (p.178), hasta cerrar la Unidad 3 — y la materia completa de Cálculo para
+la EMT — antes de la p.188 (arranca la Unidad 4, La integral, que el temario NO pide).
+**Antes de tocar este archivo, corre la regla del punto de continuación de
 CLAUDE.md** —esta Unidad es materia nueva y este archivo es el único que sostiene su
 pendiente.
 
@@ -1247,3 +1272,67 @@ Conforme al libro de Cálculo, ¿qué es la recta normal a una curva, y cuál es
 **Subtema:** Recta tangente y recta normal · Recta normal
 
 "La ecuación de la recta normal a la curva es la recta perpendicular a la tangente; recordemos que si la pendiente es m, entonces la pendiente perpendicular es m₂ = 1/(−m₁)."
+
+---
+
+## Sub-lote 8 · Ángulo entre curvas, y velocidad/aceleración como derivadas (pp. 148-150)
+
+### 197
+
+De acuerdo con el libro de Cálculo, si m₂ = f'(x) y m₁ = g'(x), ¿cuál es la fórmula del ángulo entre dos curvas?
+
+- A. θ = tan⁻¹ [(f'(x) − g'(x))/(1 + f'(x)g'(x))]
+- B. θ = tan⁻¹ [(f'(x) + g'(x))/(1 − f'(x)g'(x))]
+- C. θ = tan⁻¹ [f'(x)g'(x)]
+- D. θ = tan⁻¹ [(g'(x) − f'(x))/(1 + f'(x)g'(x))]
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 148
+**Subtema:** Ángulo entre dos curvas · Fórmula
+
+"Si m₂ = f'(x) y m₁ = g'(x), entonces el ángulo que se obtiene es θ = tan⁻¹ (f'(x) − g'(x))/(1 + f'(x)g'(x))."
+
+### 198
+
+Conforme al libro de Cálculo, ¿qué es la velocidad media?
+
+- A. El incremento de la distancia recorrida entre el tiempo empleado
+- B. El límite del incremento del espacio recorrido cuando el tiempo tiende a cero
+- C. La derivada del espacio con respecto al tiempo evaluada en un punto
+- D. El incremento del tiempo entre el incremento de la distancia recorrida
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 149
+**Subtema:** Modelación de situaciones · Velocidad media
+
+"A esta velocidad se le conoce como velocidad media, que es el incremento de la distancia recorrida entre el tiempo empleado."
+
+### 199
+
+De acuerdo con el libro de Cálculo, ¿cómo se obtiene la velocidad instantánea?
+
+- A. Es el límite, cuando el incremento del tiempo tiende a cero, del incremento del espacio recorrido entre el incremento del tiempo
+- B. Es el cociente entre la distancia total recorrida y el tiempo total empleado
+- C. Es el producto del incremento del tiempo por el incremento del espacio recorrido
+- D. Es el valor de la posición en el instante inicial
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 149
+**Subtema:** Modelación de situaciones · Velocidad instantánea
+
+"[...] así entonces la velocidad es igual al límite cuando el incremento del tiempo (t) tiende a ser cero, del incremento del espacio recorrido entre el incremento del tiempo; en otras palabras: v(t) = lím (Δt→0) Δe/Δt = f'(x)."
+
+### 200
+
+Conforme al libro de Cálculo, ¿qué relación hay entre las derivadas sucesivas de la posición y la velocidad/aceleración de un móvil?
+
+- A. La primera derivada se refiere a la velocidad, y la segunda derivada es la aceleración
+- B. La primera derivada se refiere a la aceleración, y la segunda derivada es la velocidad
+- C. La primera derivada se refiere a la posición, y la segunda a la velocidad
+- D. Ambas derivadas, primera y segunda, se refieren a la velocidad
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 150
+**Subtema:** Modelación de situaciones · Velocidad y aceleración como derivadas
+
+"La primera derivada se refiere a la velocidad; mientras que la segunda derivada es la aceleración, que es la razón entre la velocidad y el tiempo."
