@@ -212,18 +212,43 @@ reactivos — el teorema en sí (el enunciado "Sea f(x)=... entonces f'(x)=...")
   p.132 (arco seno, arco coseno, arco tangente/cotangente, arco secante/cosecante),
   más sus *Ejemplos* con Solución y los bancos de ejercicios — ninguna aporta una
   fórmula que no estuviera ya en el recuadro.
+- **La página impresa 136 NO dio reactivo.** Son *Ejemplos* y Actividades de
+  aprendizaje aplicando arco secante y arco cosecante, ya cubiertas.
+- Cubierto el arranque de la página impresa **137**, que **abre "Derivada de
+  logaritmos de cualquier base log_a x"**: la relación de que **logaritmo y
+  exponencial son funciones inversas** (si y = a^x, su inversa es x = log_a y), y las
+  dos fórmulas de derivación —básica (y' = 1/(x ln a)) y generalizada por regla de la
+  cadena (y' = u'/(u ln a))—. **Fuera:** la Demostración paso a paso y los *Ejemplos*
+  con su Solución.
+- **Las páginas impresas 138 y 139 NO dieron ningún reactivo.** Son ejercicios de
+  log_a x, la re-derivación de ln x (ya cubierta en 3.2) considerándolo "caso
+  particular" de log_a x, más el recuadro de propiedades de logaritmos (ln *ab* = ln
+  *a* + ln *b*, etc. — formulario de Álgebra, no materia nueva).
+- Cubierto el arranque de la página impresa **140**, que **abre "Derivada de la
+  función exponencial"** de base *a*: la fórmula básica (dy/dx = a^x ln a) y la
+  generalizada por regla de la cadena (si f(x) = a^u, entonces f'(x) = u'a^u ln a).
+  **Fuera:** la Demostración con la tabla comparando notaciones *y*' y *dy*/*dx*, y
+  los *Ejemplos* con su Solución.
+- Cubierto el arranque de la página impresa **141**: la generalización por regla de
+  la cadena de la derivada de e^x (si y = e^u, entonces y' = u'e^u) —un dato nuevo
+  que faltaba, ya que en la p.112 (Unidad 3.2) sólo se había cubierto el caso básico
+  f(x) = e^x—. **Fuera:** los ejercicios previos, la re-derivación de e^x como "caso
+  particular" (ya cubierta) y el *Ejemplo* con su Solución. **Con esto se cierra el
+  3.4 completo.**
 
-**Pendiente:** EN CURSO. Cubierto el **3.1, 3.2 y 3.3 completos** (pp. 105-123) y del
-**3.4**, las **seis funciones trigonométricas directas e inversas completas**, más la
-derivación implícita que las antecede (pp. 124-135). Sigue desde la **p.136** con lo
-que reste del 3.4 —las fórmulas exponenciales y logarítmicas en base distinta de *e*,
-que el título de 3.4 anuncia y todavía no aparecen (la base *e* y ln ya se cubrieron
-en 3.2)—. Después **3.5 Criterios de comportamiento** (p.159), **3.6 Notaciones**
-(p.178) y **3.7 Diferencial** (p.178), hasta cerrar la Unidad 3 — y la materia
-completa de Cálculo para la EMT — antes de la p.188 (arranca la Unidad 4, La integral,
-que el temario NO pide). **Antes
-de tocar este archivo, corre la regla del punto de continuación de CLAUDE.md** —esta
-Unidad es materia nueva y este archivo es el único que sostiene su pendiente.
+**Pendiente:** EN CURSO. **El 3.1, 3.2, 3.3 y 3.4 quedan CERRADOS** (pp. 105-141: seis
+funciones trigonométricas directas e inversas, derivación implícita, logaritmo y
+exponencial de base *a* y su generalización para e^u). Sigue desde la **p.142** con
+**3.5 Criterios para determinar el comportamiento de una función** (intervalos de
+crecimiento y decrecimiento, puntos máximos y mínimos locales, concavidad, convexidad
+y puntos de inflexión), que arranca en la p.159 según el índice —hay que revisar qué
+hay entre la p.141 y la p.159, puede que sea cierre de 3.4 con más ejercicios o ya
+arranque contenido nuevo—. Después **3.6 Notaciones de la derivada** (p.178) y **3.7
+Diferencial de una función** (p.178), hasta cerrar la Unidad 3 — y la materia completa
+de Cálculo para la EMT — antes de la p.188 (arranca la Unidad 4, La integral, que el
+temario NO pide). **Antes de tocar este archivo, corre la regla del punto de
+continuación de CLAUDE.md** —esta Unidad es materia nueva y este archivo es el único
+que sostiene su pendiente.
 
 ---
 
@@ -1003,3 +1028,97 @@ De acuerdo con el libro de Cálculo, ¿a qué es igual [arc csc u]'?
 **Subtema:** Derivadas de las funciones trigonométricas inversas · Arco cosecante
 
 "[arc csc u]' = −1/(|u|√(u² − 1)) · u'"
+
+---
+
+## Sub-lote 6 · Logaritmo y exponencial de base a, y cierre del 3.4 (pp. 137, 140-141)
+
+### 185
+
+De acuerdo con el libro de Cálculo, si y = a^x (función exponencial), ¿cuál es su función inversa?
+
+- A. x = log_a y
+- B. x = ln y
+- C. x = y^a
+- D. x = a/y
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 137
+**Subtema:** Derivada de logaritmos de cualquier base · Log y exponencial como inversas
+
+"Sabemos que la función logaritmo y la función exponencial son inversas, por lo que si y = a^x (función exponencial), se tiene que la inversa de esta función es x = log_a y."
+
+### 186
+
+Conforme al libro de Cálculo, si y = log_a x, ¿cuánto vale y'?
+
+- A. 1/(x ln a)
+- B. 1/x
+- C. ln a/x
+- D. a/(x ln a)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 137
+**Subtema:** Derivada de logaritmos de cualquier base · Fórmula básica
+
+"y' = 1/(x ln a)"
+
+### 187
+
+De acuerdo con el libro de Cálculo, en general, si u = f(x), ¿cuánto vale la derivada de y = log_a u?
+
+- A. u'/(u ln a)
+- B. u'/u
+- C. u/(u' ln a)
+- D. 1/(u ln a)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 137
+**Subtema:** Derivada de logaritmos de cualquier base · Regla de la cadena
+
+"En general si u = f(x) entonces y' = u'/(u ln a)"
+
+### 188
+
+Conforme al libro de Cálculo, si y = a^x (con a > 0, a ≠ 1), ¿cuánto vale dy/dx?
+
+- A. a^x ln a
+- B. x·a^(x−1)
+- C. a^x
+- D. a^x/ln a
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 140
+**Subtema:** Derivada de la función exponencial de base a · Fórmula básica
+
+"dy/dx = a^x ln a"
+
+### 189
+
+De acuerdo con el libro de Cálculo, en general, si f(x) = a^u y u es una función no nula de x, ¿cuánto vale f'(x)?
+
+- A. u'a^u ln a
+- B. u'a^u
+- C. a^u ln a
+- D. a^(u−1) ln a
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 140
+**Subtema:** Derivada de la función exponencial de base a · Regla de la cadena
+
+"En general se tiene que si f(x) = a^u y u es una función no nula de x, se tiene: f'(x) = u'a^u ln a"
+
+### 190
+
+Conforme al libro de Cálculo, en general, si u es una función de x y y = e^u, ¿cuánto vale y'?
+
+- A. u'e^u
+- B. e^u
+- C. u·e^(u−1)
+- D. e^u ln u
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 141
+**Subtema:** Derivada de la función e^x · Regla de la cadena
+
+"En general si u es una función de x se tiene que y = e^u, y' = u'e^u"
