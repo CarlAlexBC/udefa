@@ -190,16 +190,38 @@ reactivos — el teorema en sí (el enunciado "Sea f(x)=... entonces f'(x)=...")
   y' = −*u*' csc *u* cot *u*). Con esto quedan las **seis funciones trigonométricas
   directas completas**. **Fuera:** el resto de *Ejemplos* y los bancos de ejercicios,
   incluidos los "ejercicios combinados".
+- Cubierto el arranque de la página impresa **130**, que **abre "Derivación de
+  funciones implícitas"**: la definición de **función implícita** (cuando el valor de
+  la función no está dado explícitamente) y en qué consiste el **método de derivación
+  implícita** (derivar cada término de ambos miembros de la igualdad respecto a *x* y
+  resolver para *y*'). **Fuera:** la tabla de ejemplos de implícitas/explícitas, el
+  *Ejemplo* con su Solución y la tabla comparando notaciones.
+- **La página impresa 131 NO dio reactivo.** Sólo repite que y', dy/dx y D_x son
+  intercambiables (ya cubierto en la Unidad 3 con las notaciones de Cauchy, Lagrange y
+  Leibniz), más *Ejemplos* y un banco de ejercicios de derivación implícita.
+- Cubierta la página impresa **132**, que **es la más densa del bloque**: la
+  definición de **funciones trigonométricas inversas** (permiten regresar un valor
+  del contradominio de la función al dominio de ésta), su convención de nombre (el
+  prefijo "arco" o el exponente −1), qué significa "arc sen *y*" (el ángulo cuyo seno
+  tiene el valor *y*) con su restricción de intervalo (−π/2 a π/2), y el **recuadro
+  con las seis fórmulas de derivación** de arco seno, arco coseno, arco tangente,
+  arco cotangente, arco secante y arco cosecante. **Fuera:** los ejemplos numéricos de
+  cómo se lee sen 30°, etc.
+- **Las páginas impresas 133 a 135 NO dieron ningún reactivo.** Son las
+  Demostraciones paso a paso de las seis fórmulas ya cubiertas en el recuadro de la
+  p.132 (arco seno, arco coseno, arco tangente/cotangente, arco secante/cosecante),
+  más sus *Ejemplos* con Solución y los bancos de ejercicios — ninguna aporta una
+  fórmula que no estuviera ya en el recuadro.
 
 **Pendiente:** EN CURSO. Cubierto el **3.1, 3.2 y 3.3 completos** (pp. 105-123) y del
-**3.4**, las **seis funciones trigonométricas directas** (sen, cos, tan, cot, sec,
-csc — pp. 124-129). Sigue desde donde termine la página 129 con las **funciones
-trigonométricas inversas** (arcoseno, arcocoseno, arcotangente, etc.), que el título
-de 3.4 anuncia y todavía no aparecen, y con las fórmulas exponenciales y logarítmicas
-en base distinta de *e* (la base *e* y ln ya se cubrieron en 3.2). Después **3.5
-Criterios de comportamiento** (p.159), **3.6 Notaciones** (p.178) y **3.7 Diferencial**
-(p.178), hasta cerrar la Unidad 3 — y la materia completa de Cálculo para la EMT —
-antes de la p.188 (arranca la Unidad 4, La integral, que el temario NO pide). **Antes
+**3.4**, las **seis funciones trigonométricas directas e inversas completas**, más la
+derivación implícita que las antecede (pp. 124-135). Sigue desde la **p.136** con lo
+que reste del 3.4 —las fórmulas exponenciales y logarítmicas en base distinta de *e*,
+que el título de 3.4 anuncia y todavía no aparecen (la base *e* y ln ya se cubrieron
+en 3.2)—. Después **3.5 Criterios de comportamiento** (p.159), **3.6 Notaciones**
+(p.178) y **3.7 Diferencial** (p.178), hasta cerrar la Unidad 3 — y la materia
+completa de Cálculo para la EMT — antes de la p.188 (arranca la Unidad 4, La integral,
+que el temario NO pide). **Antes
 de tocar este archivo, corre la regla del punto de continuación de CLAUDE.md** —esta
 Unidad es materia nueva y este archivo es el único que sostiene su pendiente.
 
@@ -812,3 +834,172 @@ De acuerdo con el libro de Cálculo, en general, si y = csc u (con u una funció
 **Subtema:** Fórmulas para derivar funciones trigonométricas · Derivada de la cosecante, regla de la cadena
 
 "En general, si u es una función de x, entonces la función y = csc u, tiene como derivada: y' = −u' csc u cot u"
+
+---
+
+## Sub-lote 5 · Derivación implícita, y las seis funciones trigonométricas inversas (3.4, pp. 130-132)
+
+### 174
+
+De acuerdo con el libro de Cálculo, ¿cuándo decimos que una función es implícita?
+
+- A. Cuando el valor de la función no está dado explícitamente
+- B. Cuando la función no tiene dominio definido
+- C. Cuando la función no es continua en ningún punto
+- D. Cuando la función no admite derivada
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 130
+**Subtema:** Derivación de funciones implícitas · Definición
+
+"Decimos que una función es implícita cuando el valor de la función no está dado explícitamente."
+
+### 175
+
+Conforme al libro de Cálculo, ¿en qué consiste la derivación implícita?
+
+- A. En derivar cada término de ambos miembros de la igualdad con respecto a "x" y resolverlo para y'
+- B. En despejar "y" antes de derivar y luego aplicar la regla de la potencia
+- C. En derivar únicamente el primer miembro de la igualdad
+- D. En sustituir "x" por su valor numérico antes de derivar
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 130
+**Subtema:** Derivación de funciones implícitas · Método
+
+"Este tipo de derivación consiste en derivar cada término de ambos miembros de la igualdad con respecto a 'x' y resolverlo para y', dy/dx o D_x, según la notación que se utilice."
+
+### 176
+
+De acuerdo con el libro de Cálculo, ¿qué son las funciones trigonométricas inversas?
+
+- A. Las que nos permiten regresar un valor del contradominio de la función al dominio de ésta
+- B. Las que nos permiten obtener el valor máximo de una función trigonométrica
+- C. Las que resultan de sumar dos funciones trigonométricas directas
+- D. Las que sólo están definidas para ángulos negativos
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 132
+**Subtema:** Funciones trigonométricas inversas · Definición
+
+"Las funciones trigonométricas inversas, son aquellas que nos permiten regresar un valor del contradominio de la función al dominio de ésta."
+
+### 177
+
+Conforme al libro de Cálculo, ¿qué nombre o notación utilizan las funciones trigonométricas inversas?
+
+- A. El nombre de arco, o bien, el valor del exponente −1
+- B. El nombre de arco, o bien, el valor del exponente 2
+- C. El prefijo "co", o bien, el valor del exponente −1
+- D. El nombre de arco únicamente, nunca un exponente
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 132
+**Subtema:** Funciones trigonométricas inversas · Nombre y notación
+
+"Estas funciones utilizan el nombre de arco o bien, el valor del exponente −1, así, por ejemplo tenemos que la función inversa del seno es el arco seno."
+
+### 178
+
+De acuerdo con el libro de Cálculo, ¿qué significa "arc sen y"?
+
+- A. El ángulo cuyo seno tiene el valor y
+- B. El valor del seno del ángulo y
+- C. El cuadrado del seno de y
+- D. El inverso multiplicativo del seno de y
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 132
+**Subtema:** Funciones trigonométricas inversas · Arco seno
+
+"(léase arco seno de y; esto significa el ángulo cuyo seno tiene el valor y)"
+
+### 179
+
+Conforme al libro de Cálculo, ¿a qué es igual [arc sen u]'?
+
+- A. u'/√(1 − u²)
+- B. −u'/√(1 − u²)
+- C. u'/(1 + u²)
+- D. u'/(|u|√(u² − 1))
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 132
+**Subtema:** Derivadas de las funciones trigonométricas inversas · Arco seno
+
+"[arc sen u]' = 1/√(1 − u²) · u'"
+
+### 180
+
+De acuerdo con el libro de Cálculo, ¿a qué es igual [arc cos u]'?
+
+- A. −u'/√(1 − u²)
+- B. u'/√(1 − u²)
+- C. −u'/(1 + u²)
+- D. −u'/(|u|√(u² − 1))
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 132
+**Subtema:** Derivadas de las funciones trigonométricas inversas · Arco coseno
+
+"[arc cos u]' = −1/√(1 − u²) · u'"
+
+### 181
+
+Conforme al libro de Cálculo, ¿a qué es igual [arc tan u]'?
+
+- A. u'/(1 + u²)
+- B. −u'/(1 + u²)
+- C. u'/√(1 − u²)
+- D. u'/(|u|√(u² − 1))
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 132
+**Subtema:** Derivadas de las funciones trigonométricas inversas · Arco tangente
+
+"[arc tan u]' = 1/(1 + u²) · u'"
+
+### 182
+
+De acuerdo con el libro de Cálculo, ¿a qué es igual [arc cot u]'?
+
+- A. −u'/(1 + u²)
+- B. u'/(1 + u²)
+- C. −u'/√(1 − u²)
+- D. −u'/(|u|√(u² − 1))
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 132
+**Subtema:** Derivadas de las funciones trigonométricas inversas · Arco cotangente
+
+"[arc cot u]' = −1/(1 + u²) · u'"
+
+### 183
+
+Conforme al libro de Cálculo, ¿a qué es igual [arc sec u]'?
+
+- A. u'/(|u|√(u² − 1))
+- B. −u'/(|u|√(u² − 1))
+- C. u'/(1 + u²)
+- D. u'/√(1 − u²)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 132
+**Subtema:** Derivadas de las funciones trigonométricas inversas · Arco secante
+
+"[arc sec u]' = 1/(|u|√(u² − 1)) · u'"
+
+### 184
+
+De acuerdo con el libro de Cálculo, ¿a qué es igual [arc csc u]'?
+
+- A. −u'/(|u|√(u² − 1))
+- B. u'/(|u|√(u² − 1))
+- C. −u'/(1 + u²)
+- D. −u'/√(1 − u²)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 132
+**Subtema:** Derivadas de las funciones trigonométricas inversas · Arco cosecante
+
+"[arc csc u]' = −1/(|u|√(u² − 1)) · u'"
