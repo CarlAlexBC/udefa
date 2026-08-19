@@ -290,21 +290,39 @@ reactivos — el teorema en sí (el enunciado "Sea f(x)=... entonces f'(x)=...")
   prometía también "tasa de crecimiento, costo marginal, entre otros" y no aparecieron
   en este bloque; puede que vengan más adelante o que el libro no los desarrolle.
 
-**Pendiente:** EN CURSO. **El 3.1, 3.2, 3.3 y 3.4 quedan CERRADOS** (pp. 105-142).
-Cubiertos también "La existencia de la derivada", "Derivadas sucesivas", "Recta
-tangente y recta normal", "Ángulo entre dos curvas" y el arranque de "Modelación de
-situaciones en diferentes contextos" (velocidad y aceleración, pp. 142-150) —
-contenido que antecede al 3.5 formal, sin letra de sección propia en el libro. Sigue
-desde la **p.154** —vigilar si aparecen "tasa de crecimiento" y "costo marginal"— hasta
-llegar a **3.5 Criterios para determinar el comportamiento de una función**
-(intervalos de crecimiento y decrecimiento, puntos máximos y mínimos locales,
-concavidad, convexidad y puntos de inflexión), que arranca en la p.159 según el
-índice. Después **3.6 Notaciones de la derivada** (p.178) y **3.7 Diferencial de una
-función** (p.178), hasta cerrar la Unidad 3 — y la materia completa de Cálculo para
-la EMT — antes de la p.188 (arranca la Unidad 4, La integral, que el temario NO pide).
-**Antes de tocar este archivo, corre la regla del punto de continuación de
-CLAUDE.md** —esta Unidad es materia nueva y este archivo es el único que sostiene su
-pendiente.
+- **Las páginas impresas 154, 155 y 157-158 NO dieron ningún reactivo.** Son dos
+  "Deduce y aprende" (actividades de equipo: "Caída libre" y "Cambio de temperatura",
+  ésta última abre el apartado sin letra "b) Razones de cambio relacionadas — regla de
+  la cadena"), más *Ejemplos* con Solución (temperaturas por hora, trayectoria de
+  proyectil, la escalera que resbala) y bancos de ejercicios — el concepto de
+  velocidad se repite dos veces más en estas páginas, siempre con la misma idea ya
+  cubierta en reactivo 198, sin dato nuevo.
+- Cubierto el arranque de la página impresa **156** (fuera ya de la actividad de
+  equipo): la definición del **incremento Δx** —positivo (incremento) o negativo
+  (decremento), según la variable aumente o disminuya—. **Fuera:** el resto de la
+  página (ejemplo de temperaturas con tabla).
+- Cubierta la página impresa **159**: el apartado sin letra **"c) Optimización"** es
+  puro *Ejemplo* de utilidad máxima con su Solución, sin reactivo. Al cierre de la
+  página **arranca formalmente el 3.5 "Criterios para determinar el comportamiento de
+  una función..."**, con el subtítulo "Funciones creciente y decreciente" —hasta aquí
+  sólo texto motivacional (Figuras 3.7 y 3.8), sin una definición aún; **"tasa de
+  crecimiento" y "costo marginal", prometidos en el título de la p.149, nunca
+  recibieron una definición propia** en todo este tramo (pp. 149-159): sólo aparecieron
+  como nombres de ejemplos de aplicación (Optimización de utilidad, en este caso).
+
+**Pendiente:** EN CURSO. **El 3.1, 3.2, 3.3 y 3.4 quedan CERRADOS** (pp. 105-142), y
+también todo el contenido sin letra de sección que los sigue —existencia de la
+derivada, derivadas sucesivas, recta tangente/normal, ángulo entre curvas y modelación
+de situaciones (velocidad, aceleración, razones relacionadas, optimización)— hasta la
+**p.159** (pp. 142-159). **El 3.5 arranca formalmente al cierre de la p.159**, con
+"Funciones creciente y decreciente" todavía sin definición dada. Sigue desde la
+**p.160** con el resto de 3.5 (intervalos de crecimiento y decrecimiento, puntos
+máximos y mínimos locales, concavidad, convexidad y puntos de inflexión). Después
+**3.6 Notaciones de la derivada** (p.178) y **3.7 Diferencial de una función** (p.178),
+hasta cerrar la Unidad 3 — y la materia completa de Cálculo para la EMT — antes de la
+p.188 (arranca la Unidad 4, La integral, que el temario NO pide). **Antes de tocar
+este archivo, corre la regla del punto de continuación de CLAUDE.md** —esta Unidad es
+materia nueva y este archivo es el único que sostiene su pendiente.
 
 ---
 
@@ -1336,3 +1354,22 @@ Conforme al libro de Cálculo, ¿qué relación hay entre las derivadas sucesiva
 **Subtema:** Modelación de situaciones · Velocidad y aceleración como derivadas
 
 "La primera derivada se refiere a la velocidad; mientras que la segunda derivada es la aceleración, que es la razón entre la velocidad y el tiempo."
+
+---
+
+## Sub-lote 9 · El incremento Δx (p.156)
+
+### 201
+
+De acuerdo con el libro de Cálculo, ¿cómo se representa un incremento de la variable x, y cuándo es positivo o negativo?
+
+- A. Con Δx; es positivo si es incremento y negativo si es decremento, según la variable aumente o disminuya
+- B. Con Δx; siempre es positivo, sin importar si la variable aumenta o disminuye
+- C. Con dx; es positivo si es incremento y negativo si es decremento
+- D. Con Δx; es positivo si la variable disminuye y negativo si aumenta
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 156
+**Subtema:** Razones de cambio relacionadas · El incremento Δx
+
+"Un incremento de la variable x lo representaremos con Δx (delta x) y puede ser positivo (incremento) o negativo (decremento), según la variable aumente o disminuya al cambiar de valor."
