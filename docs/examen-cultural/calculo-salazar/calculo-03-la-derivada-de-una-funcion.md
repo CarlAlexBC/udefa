@@ -147,17 +147,38 @@ reactivos — el teorema en sí (el enunciado "Sea f(x)=... entonces f'(x)=...")
   *f*'(x) = e^x). **Fuera:** la Demostración paso a paso y la actividad de aprendizaje
   con 32 funciones a derivar por definición.
 
-**Pendiente:** EN CURSO. Cubierto el **3.1 completo** (p.105) y el **3.2 completo**
-(pp. 106-112: derivada constante, potencia, suma, producto, cociente, seno, coseno,
-logaritmo natural, exponencial — nueve fórmulas de derivación). Sigue desde la
-**p.113** con **3.3 Fórmulas para derivar suma, producto, cociente y composición de
-funciones (regla de la cadena)**, y luego **3.4 Fórmulas trigonométricas, exponenciales
-y logarítmicas** (p.124), **3.5 Criterios de comportamiento** (p.159), **3.6
-Notaciones** (p.178) y **3.7 Diferencial** (p.178), hasta cerrar la Unidad 3 — y la
-materia completa de Cálculo para la EMT — antes de la p.188 (arranca la Unidad 4, La
-integral, que el temario NO pide). **Antes de tocar este archivo, corre la regla del
-punto de continuación de CLAUDE.md** —esta Unidad es materia nueva y este archivo es
-el único que sostiene su pendiente.
+- Cubierta la página impresa **113**, que **abre 3.3**: sólo la generalización de la
+  derivada de la función potencia con un coeficiente (y = k·x^n → y' = n·k·x^(n−1)).
+  **Fuera:** los *Ejemplos* con su Solución, las dos Actividades de aprendizaje, y los
+  dos recuadros de referencia de propiedades de exponentes (son formulario de Álgebra,
+  no materia nueva de Cálculo).
+- **Las páginas impresas 114 a 117 NO dieron ningún reactivo.** Son *Ejemplos* y
+  Actividades de aprendizaje aplicando la misma fórmula de la p.113 a exponentes
+  negativos y fraccionarios — sin una regla nueva.
+- **Las páginas impresas 118, 120, 121 y 122 (arranque) tampoco dieron reactivo.** Las
+  secciones "Derivada de la función suma", "Derivada del producto de dos funciones" y
+  "Derivada del cociente de dos funciones" **repiten los mismos tres teoremas ya
+  cubiertos en la p.107-109**, sólo que con notación *D*(*u* + *v*) o *d*/*dx* en vez
+  de *f*'(x) — mismo teorema, otra forma de escribirlo, no se duplica el reactivo.
+  Todo lo demás son *Ejemplos* y bancos enormes de ejercicios.
+- Cubierto el cierre de la página impresa **122** y el arranque de la **123**, que
+  **abren la sección de composición de funciones**: el nombre alterno **"regla de la
+  cadena"** para la derivada de una composición de funciones, el **Teorema de la
+  regla de la cadena** formal ((f∘g)'(x) = f'(g(x)) g'(x)), y la **regla de la
+  potencia combinada con la regla de la cadena** (si f(x) = u^n, entonces
+  f'(x) = n·u^(n−1)·u'). **Fuera:** los *Ejemplos* con su Solución y las Actividades
+  de aprendizaje.
+
+**Pendiente:** EN CURSO. Cubierto el **3.1 y 3.2 completos** (pp. 105-112) y el
+arranque del **3.3** hasta la **p.123** (potencia con coeficiente, regla de la cadena
+y su combinación con la potencia). Sigue desde la **p.124** con lo que reste de **3.3**
+si lo hay, y luego **3.4 Fórmulas trigonométricas, exponenciales y logarítmicas**
+(p.124), **3.5 Criterios de comportamiento** (p.159), **3.6 Notaciones** (p.178) y
+**3.7 Diferencial** (p.178), hasta cerrar la Unidad 3 — y la materia completa de
+Cálculo para la EMT — antes de la p.188 (arranca la Unidad 4, La integral, que el
+temario NO pide). **Antes de tocar este archivo, corre la regla del punto de
+continuación de CLAUDE.md** —esta Unidad es materia nueva y este archivo es el único
+que sostiene su pendiente.
 
 ---
 
@@ -595,3 +616,67 @@ Conforme al libro de Cálculo, si f(x) = e^x, ¿cuánto vale f'(x)?
 **Subtema:** Definición de derivada de una función · Derivada de la función exponencial
 
 "Así entonces tenemos que la derivada de la función es f'(x) = e^x."
+
+---
+
+## Sub-lote 3 · Potencia con coeficiente, y la regla de la cadena (3.3, pp. 113, 122-123)
+
+### 163
+
+De acuerdo con el libro de Cálculo, si y = k·x^n (con k y n constantes), ¿cuánto vale y'?
+
+- A. n·k·x^(n−1)
+- B. k·x^(n−1)
+- C. n·x^(n−1)
+- D. n·k·x^n
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 113
+**Subtema:** Fórmulas para derivar potencia, suma, producto, cociente y composición · Potencia con coeficiente
+
+"Recordemos que la derivada de la función potencia está dada por y = kx^n, y' = nkx^(n − 1)."
+
+### 164
+
+Conforme al libro de Cálculo, ¿con qué otro nombre se conoce a la derivada de una composición de funciones?
+
+- A. Regla de la cadena
+- B. Regla del producto
+- C. Regla de L'Hôpital
+- D. Regla de la potencia
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 122
+**Subtema:** Derivada de una composición de funciones · Nombre alterno
+
+"También conocida como la regla de la cadena se utiliza para funciones compuestas."
+
+### 165
+
+De acuerdo con el libro de Cálculo, si g es derivable en x y f es derivable en g(x), ¿a qué es igual (f∘g)'(x) según el teorema de la regla de la cadena?
+
+- A. f'(g(x)) g'(x)
+- B. f'(x) g'(g(x))
+- C. f(g'(x)) g(x)
+- D. f'(g(x)) + g'(x)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 123
+**Subtema:** Derivada de una composición de funciones · Teorema de la regla de la cadena
+
+"Teorema de la regla de la cadena. Si g es derivable en x y f es derivable en g(x) entonces: (f∘g)'(x) = f'(g(x)) g'(x)"
+
+### 166
+
+Conforme al libro de Cálculo, al combinar la regla de la cadena con la regla de la potencia, si f(x) = u^n (con u una función diferenciable), ¿cuánto vale f'(x)?
+
+- A. n·u^(n−1)·u'
+- B. n·u^(n−1)
+- C. u^(n−1)·u'
+- D. n·u'^(n−1)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 123
+**Subtema:** Derivada de una composición de funciones · Regla de la potencia combinada
+
+"Otra forma de expresarlo es: si f(x) = u^n, entonces f'(x) = nu^(n − 1)u'."
