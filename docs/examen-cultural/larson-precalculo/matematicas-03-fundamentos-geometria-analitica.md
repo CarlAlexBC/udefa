@@ -69,8 +69,9 @@ _(Los defectos del capítulo 1 y del capítulo 2 están documentados en sus prop
 - Cubiertas las páginas impresas **294, 295 y 296**, arranque de la **§3.3 · Rectas** (Sub-lote 6): la **inclinación** de una recta no horizontal (definición, los casos horizontal/vertical, la relación m = tan θ y cómo se obtiene θ según el signo de m), el **ángulo entre dos rectas** (los dos pares de ángulos opuestos que forma una intersección no perpendicular, cuál de ellos es "el" ángulo, y la fórmula tan θ = |(m₂ − m₁)/(1 + m₁m₂)|), y el arranque de la **distancia de un punto a una recta** (que es una aplicación de rectas perpendiculares, y la fórmula d = |Ax₁ + By₁ + C| / √(A² + B²)).
 - Revisada la página impresa **297, con la que cierra la §3.3**: sólo trae el `EJEMPLO 5` y el `Resumen (sección 3.3)`, ninguno de los dos con reactivo. **La §3.3 queda CERRADA** sin reactivos nuevos en esta página.
 - Cubiertas las páginas impresas **301, 302 y 304**, con las que **cierra la §3.4 · Introducción a las cónicas: parábolas** (Sub-lote 7): la definición de **sección cónica** (intersección de un plano y un cono de doble hoja), los nombres de las **cuatro cónicas básicas** y de las **tres cónicas degeneradas** (figuras 3.30 y 3.31), la ecuación general de segundo grado y la ecuación de un círculo, el recuadro *Definición de una parábola* (directriz, foco, vértice, eje), el recuadro *Ecuación estándar de una parábola* (las dos formas con su directriz, y el caso con vértice en el origen), y la **propiedad de reflexión de la parábola**: cuerda focal, *latus rectum*, el principio del reflector parabólico, la definición de recta tangente y el recuadro *Propiedad de reflexión de una parábola*. Las pp. **303 y 305 son sólo `EJEMPLO`s, `TECNOLOGÍA`, `AYUDA ALGEBRAICA` y el `Resumen (sección 3.4)`**, sin reactivos; las **pp. 306–309 son el bloque `3.4 Ejercicios`**.
+- Cubiertas las páginas impresas **310, 311, 314 y 315**, con las que **cierra la §3.5 · Elipses** (Sub-lote 8): el recuadro *Definición de elipse* (focos, suma de distancias constante), los vértices, el eje mayor y el eje menor, la suma constante (a + c) + (a − c) = 2a con base en la figura 3.37, el `COMENTARIO` de que cuando a = b la elipse se vuelve un círculo, el recuadro *Ecuación estándar de una elipse* (las dos orientaciones, la ubicación de los focos con c² = a² − b², y el caso con centro en el origen), la aplicación (engranajes, arcos de soporte, diseños acústicos, órbitas), y la sección *Excentricidad*: por qué era difícil detectarla en los planetas antiguos, el recuadro *Definición de excentricidad* (e = c/a, 0 < e < 1), qué significa que la razón c/a se acerque a 0 o a 1, y las excentricidades de la Luna y de los ocho planetas. Las pp. **312 y 313 son sólo `EJEMPLO`s** (1 a 4), sin reactivos; las **pp. 316–318 son el bloque `3.5 Ejercicios`**.
 
-**Pendiente:** EN CURSO. La **§3.1, la §3.2, la §3.3 y la §3.4 están CERRADAS**. Sigue desde la **p.310**, arranque de la **§3.5 · Elipses** (teoría pp. 310–315, ejercicios 316–318). Después falta la **§3.6 · Hipérbolas** (teoría pp. 319–325, ejercicios 326–328; el libro termina en la p.328). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
+**Pendiente:** EN CURSO. La **§3.1, la §3.2, la §3.3, la §3.4 y la §3.5 están CERRADAS**. Sigue desde la **p.319**, arranque de la **§3.6 · Hipérbolas**, la última sección del capítulo (teoría pp. 319–325, ejercicios 326–328; el libro termina en la p.328). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
 
 ---
 
@@ -1343,5 +1344,279 @@ De conformidad con el libro de Matemáticas, según la propiedad de reflexión d
 **Subtema:** parábolas · propiedad de reflexión
 
 La tangente de una parábola en el punto P hace ángulos iguales con las dos rectas siguientes: la recta que pasa por P y el foco, y el eje de la parábola.
+
+---
+
+## Sub-lote 8 · Elipses: definición, ecuación estándar y excentricidad — cierra la §3.5 (pp. 310, 311, 314, 315)
+
+### 75
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la definición de una elipse?
+
+- A. El conjunto de todos los puntos (x, y) en un plano, la suma de cuyas distancias desde dos puntos fijos distintos (focos) es constante
+- B. El conjunto de todos los puntos (x, y) equidistantes de un punto fijo llamado centro
+- C. El conjunto de todos los puntos (x, y) cuya diferencia de distancias a dos puntos fijos es constante
+- D. El conjunto de todos los puntos (x, y) equidistantes de una recta fija y un punto fijo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 310
+**Subtema:** elipses · definición
+
+Una elipse es el conjunto de todos los puntos (x, y) en un plano, la suma de cuyas distancias desde dos puntos fijos distintos (focos) es constante.
+
+---
+
+### 76
+
+De conformidad con el libro de Matemáticas, ¿qué son los vértices de una elipse?
+
+- A. Los dos puntos donde la recta que pasa por los focos interseca la elipse
+- B. Los puntos donde el eje menor interseca la elipse
+- C. Los puntos donde la elipse cruza el eje y
+- D. Los puntos medios entre cada foco y el centro
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 310
+**Subtema:** elipses · vértices
+
+La recta que pasa por los focos interseca la elipse en dos puntos (vértices).
+
+---
+
+### 77
+
+En relación con el libro de Matemáticas, ¿qué es el eje mayor de una elipse?
+
+- A. La cuerda que une los vértices, cuyo punto medio es el centro de la elipse
+- B. La cuerda perpendicular al eje menor que pasa por un foco
+- C. La recta que une los dos focos
+- D. La cuerda más corta que puede trazarse en la elipse
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 310
+**Subtema:** elipses · eje mayor
+
+La cuerda que une los vértices es el eje mayor y su punto medio es el centro de la elipse.
+
+---
+
+### 78
+
+De acuerdo con el libro de Matemáticas, ¿qué es el eje menor de una elipse?
+
+- A. La cuerda perpendicular al eje mayor en el centro
+- B. La cuerda que une los dos focos
+- C. La cuerda que une los vértices
+- D. La recta tangente a la elipse en el centro
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 310
+**Subtema:** elipses · eje menor
+
+La cuerda perpendicular al eje mayor en el centro es el eje menor de la elipse.
+
+---
+
+### 79
+
+De conformidad con el libro de Matemáticas, con base en la figura 3.37 y usando un punto como vértice, ¿a qué es igual la suma constante de las distancias desde cualquier punto de la elipse a los dos focos?
+
+- A. (a + c) + (a − c) = 2a, la longitud del eje mayor
+- B. (a + c) + (a − c) = 2c, la longitud del eje menor
+- C. (a − c) − (a + c) = 2a
+- D. (a + c) + (a − c) = a², el área de la elipse
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 310
+**Subtema:** elipses · suma constante de distancias
+
+Usando un punto como vértice, esa suma constante es (a + c) + (a − c) = 2a, la cual es la longitud del eje mayor.
+
+---
+
+### 80
+
+En relación con el libro de Matemáticas, según el recuadro COMENTARIO, geométricamente, ¿qué ocurre cuando a = b en la ecuación de una elipse?
+
+- A. Los ejes mayor y menor son de igual longitud y la gráfica es un círculo
+- B. La elipse se convierte en una parábola
+- C. La elipse pierde uno de sus dos focos
+- D. Los ejes mayor y menor se vuelven perpendiculares al eje x
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 311
+**Subtema:** elipses · caso especial del círculo
+
+Geométricamente, cuando a = b para una elipse, los ejes mayor y menor son de igual longitud y por lo tanto la gráfica es un círculo.
+
+---
+
+### 81
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la forma estándar de la ecuación de una elipse con centro (h, k), eje mayor horizontal de longitud 2a y eje menor de longitud 2b, donde 0 < b < a?
+
+- A. (x − h)²/a² + (y − k)²/b² = 1
+- B. (x − h)²/b² + (y − k)²/a² = 1
+- C. (x − h)²/a² + (y − k)²/b² = 0
+- D. (x − h)²/a + (y − k)²/b = 1
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 311
+**Subtema:** elipses · ecuación estándar
+
+(x − h)²/a² + (y − k)²/b² = 1. El eje mayor es horizontal.
+
+---
+
+### 82
+
+De conformidad con el libro de Matemáticas, ¿dónde se ubican los focos de una elipse y qué relación cumplen?
+
+- A. Se ubican en el eje mayor, a c unidades del centro, con c² = a² − b²
+- B. Se ubican en el eje menor, a c unidades del centro, con c² = a² − b²
+- C. Se ubican en el eje mayor, a c unidades del centro, con c² = a² + b²
+- D. Se ubican en el centro mismo de la elipse
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 311
+**Subtema:** elipses · focos
+
+Los focos se ubican en el eje mayor, a c unidades del centro, con c² = a² − b².
+
+---
+
+### 83
+
+En relación con el libro de Matemáticas, si el centro de la elipse está en el origen, ¿qué forma adopta su ecuación?
+
+- A. x²/a² + y²/b² = 1 (eje mayor horizontal) o x²/b² + y²/a² = 1 (eje mayor vertical)
+- B. x²/a² + y²/b² = 1 (eje mayor vertical) o x²/b² + y²/a² = 1 (eje mayor horizontal)
+- C. x²/a + y²/b = 1 en ambos casos
+- D. x² + y² = a²b² en ambos casos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 311
+**Subtema:** elipses · ecuación con centro en el origen
+
+Si el centro está en el origen, la ecuación adopta una de estas formas: x²/a² + y²/b² = 1 (el eje mayor es horizontal) o x²/b² + y²/a² = 1 (el eje mayor es vertical).
+
+---
+
+### 84
+
+De acuerdo con el libro de Matemáticas, además de las órbitas de los satélites y planetas, ¿qué otras aplicaciones prácticas y estéticas suelen implicar formas elípticas?
+
+- A. Los engranajes de máquinas, los arcos de soporte y los diseños acústicos
+- B. Los circuitos eléctricos y las antenas parabólicas
+- C. Las columnas de los edificios y los puentes colgantes
+- D. Los relojes de sol y las brújulas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 314
+**Subtema:** elipses · aplicaciones
+
+Las elipses tienen muchos usos prácticos y estéticos. Por ejemplo, los engranajes de máquinas, los arcos de soporte y los diseños acústicos suelen implicar formas elípticas.
+
+---
+
+### 85
+
+De conformidad con el libro de Matemáticas, ¿por qué era difícil para los astrónomos antiguos detectar que las órbitas de los planetas son elípticas?
+
+- A. Porque los focos de las órbitas planetarias están relativamente cerca de sus centros, así que éstas son casi circulares
+- B. Porque no contaban con instrumentos para medir distancias astronómicas
+- C. Porque las órbitas de los planetas cambian de forma con el tiempo
+- D. Porque los focos de las órbitas planetarias están muy alejados entre sí
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 315
+**Subtema:** elipses · excentricidad
+
+Era difícil para los astrónomos antiguos detectar que las órbitas de los planetas son elípticas, porque los focos de las órbitas planetarias están relativamente cerca de sus centros, así que éstas son casi circulares.
+
+---
+
+### 86
+
+En relación con el libro de Matemáticas, ¿cuál es la definición de la excentricidad e de una elipse?
+
+- A. La razón e = c/a
+- B. La razón e = a/c
+- C. La razón e = b/a
+- D. La razón e = c/b
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 315
+**Subtema:** elipses · definición de excentricidad
+
+La excentricidad e de una elipse es la razón e = c/a.
+
+---
+
+### 87
+
+De acuerdo con el libro de Matemáticas, ¿qué rango de valores tiene la excentricidad de cualquier elipse?
+
+- A. 0 < e < 1
+- B. 0 < e < 2
+- C. −1 < e < 1
+- D. 1 < e < 2
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 315
+**Subtema:** elipses · rango de la excentricidad
+
+Obsérvese que 0 < e < 1 para cada elipse.
+
+---
+
+### 88
+
+De conformidad con el libro de Matemáticas, ¿qué ocurre con la razón c/a en una elipse casi circular y en una elipse alargada?
+
+- A. En una casi circular la razón se aproxima a 0; en una alargada se aproxima a 1
+- B. En una casi circular la razón se aproxima a 1; en una alargada se aproxima a 0
+- C. En ambos casos la razón se aproxima a 0
+- D. En ambos casos la razón se aproxima a 1
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 315
+**Subtema:** elipses · excentricidad y forma
+
+En el caso de una elipse casi circular, los focos están cerca del centro y la razón c/a se aproxima a 0. En el caso de una elipse alargada, los focos están cerca de los vértices y la razón c/a se aproxima a 1.
+
+---
+
+### 89
+
+En relación con el libro de Matemáticas, ¿cuál es la excentricidad de la órbita de la Luna?
+
+- A. e ≈ 0.0549
+- B. e ≈ 0.2056
+- C. e ≈ 0.4900
+- D. e ≈ 0.9500
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 315
+**Subtema:** elipses · excentricidad de la órbita lunar
+
+La órbita de la luna tiene una excentricidad de e ≈ 0.0549.
+
+---
+
+### 90
+
+De acuerdo con el libro de Matemáticas, de las ocho excentricidades planetarias que enlista, ¿cuál planeta tiene la excentricidad más alta?
+
+- A. Mercurio, con e ≈ 0.2056
+- B. Venus, con e ≈ 0.0067
+- C. Marte, con e ≈ 0.0935
+- D. Neptuno, con e ≈ 0.0113
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 315
+**Subtema:** elipses · excentricidades planetarias
+
+Las excentricidades de las ocho órbitas planetarias se enlistan a continuación: Mercurio: e ≈ 0.2056, Venus: e ≈ 0.0067, Tierra: e ≈ 0.0167, Marte: e ≈ 0.0935, Júpiter: e ≈ 0.0489, Saturno: e ≈ 0.0565, Urano: e ≈ 0.0457, Neptuno: e ≈ 0.0113.
 
 ---
