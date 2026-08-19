@@ -56,7 +56,9 @@ _(Los defectos del capítulo 1 y del capítulo 2 están documentados en sus prop
 
 ## Cobertura actual
 
-**EN CURSO.** La **§3.1 · Coordenadas rectangulares está CERRADA** (pp. 272–277):
+**CERRADO.** El capítulo 3 está **completo, en 113 reactivos**, con sus seis secciones §3.1 a §3.6.
+
+La **§3.1 · Coordenadas rectangulares está CERRADA** (pp. 272–277):
 
 - Cubiertas las páginas impresas **272 y 273**: el plano cartesiano y a quién honra su nombre, cómo se forma y sus elementos (ejes, origen y cuadrantes), las coordenadas de un punto y qué distancia representa cada una, la doble lectura de la notación (x, y) y la importancia de la aportación de Descartes. Los `EJEMPLO 1` y `EJEMPLO 2` (gráficas de dispersión de telefonía celular) y el `TECNOLOGÍA` no llevan reactivos.
 - Cubiertas las páginas impresas **274 a 277**, con las que **cierra la §3.1**: el recuadro *Teorema de Pitágoras* con su recíproco, las longitudes de los lados del triángulo auxiliar, la *Fórmula de la distancia*, la *Fórmula del punto medio* y cómo se obtiene, la libertad de colocar el sistema de coordenadas en las aplicaciones, y las **transformaciones** (la traslación y los otros tres tipos). Los `EJEMPLO 3` a `EJEMPLO 8` no llevan reactivos, ni el `Resumen (sección 3.1)`. Las **pp. 278–280 son el bloque `3.1 Ejercicios`**.
@@ -70,8 +72,9 @@ _(Los defectos del capítulo 1 y del capítulo 2 están documentados en sus prop
 - Revisada la página impresa **297, con la que cierra la §3.3**: sólo trae el `EJEMPLO 5` y el `Resumen (sección 3.3)`, ninguno de los dos con reactivo. **La §3.3 queda CERRADA** sin reactivos nuevos en esta página.
 - Cubiertas las páginas impresas **301, 302 y 304**, con las que **cierra la §3.4 · Introducción a las cónicas: parábolas** (Sub-lote 7): la definición de **sección cónica** (intersección de un plano y un cono de doble hoja), los nombres de las **cuatro cónicas básicas** y de las **tres cónicas degeneradas** (figuras 3.30 y 3.31), la ecuación general de segundo grado y la ecuación de un círculo, el recuadro *Definición de una parábola* (directriz, foco, vértice, eje), el recuadro *Ecuación estándar de una parábola* (las dos formas con su directriz, y el caso con vértice en el origen), y la **propiedad de reflexión de la parábola**: cuerda focal, *latus rectum*, el principio del reflector parabólico, la definición de recta tangente y el recuadro *Propiedad de reflexión de una parábola*. Las pp. **303 y 305 son sólo `EJEMPLO`s, `TECNOLOGÍA`, `AYUDA ALGEBRAICA` y el `Resumen (sección 3.4)`**, sin reactivos; las **pp. 306–309 son el bloque `3.4 Ejercicios`**.
 - Cubiertas las páginas impresas **310, 311, 314 y 315**, con las que **cierra la §3.5 · Elipses** (Sub-lote 8): el recuadro *Definición de elipse* (focos, suma de distancias constante), los vértices, el eje mayor y el eje menor, la suma constante (a + c) + (a − c) = 2a con base en la figura 3.37, el `COMENTARIO` de que cuando a = b la elipse se vuelve un círculo, el recuadro *Ecuación estándar de una elipse* (las dos orientaciones, la ubicación de los focos con c² = a² − b², y el caso con centro en el origen), la aplicación (engranajes, arcos de soporte, diseños acústicos, órbitas), y la sección *Excentricidad*: por qué era difícil detectarla en los planetas antiguos, el recuadro *Definición de excentricidad* (e = c/a, 0 < e < 1), qué significa que la razón c/a se acerque a 0 o a 1, y las excentricidades de la Luna y de los ocho planetas. Las pp. **312 y 313 son sólo `EJEMPLO`s** (1 a 4), sin reactivos; las **pp. 316–318 son el bloque `3.5 Ejercicios`**.
+- Cubiertas las páginas impresas **319, 320, 321, 323, 324 y 325**, con las que **cierra la §3.6 · Hipérbolas y con ella el capítulo 3 completo** (Sub-lote 9): la comparación de la definición de hipérbola con la de la elipse, el recuadro *Definición de hipérbola*, las ramas, el eje transversal y el centro, la relación entre a, b y c (distinta a la de la elipse), el recuadro *Ecuación estándar de una hipérbola* (vértices y focos, c² = a² + b², y el eje conjugado), las asíntotas (cuántas son, el rectángulo por el que pasan, y el recuadro con sus ecuaciones), la *excentricidad* de la hipérbola (e = c/a, e > 1, y qué forma toman las ramas), la aplicación en radares durante la Segunda Guerra Mundial, las órbitas de los cometas (elípticas, parabólicas e hiperbólicas, y cuáles permanecen en el Sistema Solar), el criterio de velocidad v vs. √(2GM/p), el recuadro *Clasificación de una cónica a partir de su ecuación general* (círculo, parábola, elipse e hipérbola con las condiciones A = C, AC = 0, AC > 0 y AC < 0) con su nota de validez, y la `NOTA HISTÓRICA` de **Caroline Herschel**. La p. **322 es sólo `EJEMPLO 3` y `TECNOLOGÍA`**, sin reactivos; las **pp. 326–328 son el bloque `3.6 Ejercicios`**, con las que termina el libro.
 
-**Pendiente:** EN CURSO. La **§3.1, la §3.2, la §3.3, la §3.4 y la §3.5 están CERRADAS**. Sigue desde la **p.319**, arranque de la **§3.6 · Hipérbolas**, la última sección del capítulo (teoría pp. 319–325, ejercicios 326–328; el libro termina en la p.328). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
+**Pendiente:** ninguno. El **capítulo 3 está CERRADO** en **113 reactivos**, con sus seis secciones completas (§3.1 a §3.6, pp. 271–328), tal como lo pide el temario `MATE-03-2026`. Con este capítulo **se cierra Matemáticas (Larson) completa para la EMEFA**: los capítulos 1 (284 reactivos), 2 (82 reactivos) y 3 (113 reactivos) están los tres CERRADOS.
 
 ---
 
@@ -1618,5 +1621,398 @@ De acuerdo con el libro de Matemáticas, de las ocho excentricidades planetarias
 **Subtema:** elipses · excentricidades planetarias
 
 Las excentricidades de las ocho órbitas planetarias se enlistan a continuación: Mercurio: e ≈ 0.2056, Venus: e ≈ 0.0067, Tierra: e ≈ 0.0167, Marte: e ≈ 0.0935, Júpiter: e ≈ 0.0489, Saturno: e ≈ 0.0565, Urano: e ≈ 0.0457, Neptuno: e ≈ 0.0113.
+
+---
+
+## Sub-lote 9 · Hipérbolas, asíntotas, excentricidad y clasificación de cónicas — cierra la §3.6 y el capítulo 3 (pp. 319, 320, 321, 323, 324, 325)
+
+### 91
+
+De acuerdo con el libro de Matemáticas, ¿en qué se diferencia la definición de hipérbola de la de una elipse?
+
+- A. Para la elipse la suma de las distancias a los focos es constante; para la hipérbola es el valor absoluto de la diferencia
+- B. Para la elipse es la diferencia; para la hipérbola es la suma
+- C. Ambas usan la suma de las distancias a los focos
+- D. Ambas usan el valor absoluto de la diferencia de las distancias a los focos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 319
+**Subtema:** hipérbolas · comparación con la elipse
+
+Para una elipse, la suma de las distancias entre los focos y un punto en la elipse es constante. Para una hipérbola, el valor absoluto de la diferencia de las distancias entre los focos y un punto en la hipérbola es constante.
+
+---
+
+### 92
+
+De conformidad con el libro de Matemáticas, ¿cuál es la definición de una hipérbola?
+
+- A. El conjunto de todos los puntos (x, y) en un plano, para los cuales el valor absoluto de la diferencia de las distancias desde dos puntos fijos distintos (focos) es constante
+- B. El conjunto de todos los puntos (x, y) equidistantes de un punto fijo
+- C. El conjunto de todos los puntos (x, y) cuya suma de distancias a dos focos es constante
+- D. El conjunto de todos los puntos (x, y) equidistantes de una recta fija
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 319
+**Subtema:** hipérbolas · definición
+
+Una hipérbola es el conjunto de todos los puntos (x, y) en un plano, para los cuales el valor absoluto de la diferencia de las distancias desde dos puntos fijos distintos (focos) es constante.
+
+---
+
+### 93
+
+En relación con el libro de Matemáticas, ¿cómo se llaman las dos partes separadas de la gráfica de una hipérbola?
+
+- A. Ramas
+- B. Vértices
+- C. Focos
+- D. Asíntotas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 319
+**Subtema:** hipérbolas · ramas
+
+La gráfica de una hipérbola tiene dos partes separadas (ramas).
+
+---
+
+### 94
+
+De acuerdo con el libro de Matemáticas, ¿qué es el eje transversal de una hipérbola?
+
+- A. El segmento de recta que une los vértices, cuyo punto medio es el centro de la hipérbola
+- B. El segmento de recta que une los focos
+- C. La recta perpendicular al eje conjugado que pasa por un foco
+- D. La recta tangente a una de las ramas en el vértice
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 319
+**Subtema:** hipérbolas · eje transversal
+
+El segmento de recta que une los vértices es el eje transversal y su punto medio es el centro de la hipérbola.
+
+---
+
+### 95
+
+De conformidad con el libro de Matemáticas, ¿cómo se relacionan a, b y c en una hipérbola, a diferencia de una elipse?
+
+- A. La distancia entre los focos y el centro es mayor que la distancia entre los vértices y el centro
+- B. La distancia entre los focos y el centro es menor que la distancia entre los vértices y el centro
+- C. La distancia entre los focos y el centro es igual a la distancia entre los vértices y el centro
+- D. No existe relación entre estas distancias en una hipérbola
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 319
+**Subtema:** hipérbolas · relación entre a, b y c
+
+En el caso de una hipérbola, la distancia entre los focos y el centro es mayor que la distancia entre los vértices y el centro.
+
+---
+
+### 96
+
+En relación con el libro de Matemáticas, ¿cuál es la forma estándar de la ecuación de una hipérbola con centro (h, k) y eje transversal horizontal?
+
+- A. (x − h)²/a² − (y − k)²/b² = 1
+- B. (y − k)²/a² − (x − h)²/b² = 1
+- C. (x − h)²/a² + (y − k)²/b² = 1
+- D. (x − h)²/b² − (y − k)²/a² = 1
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 320
+**Subtema:** hipérbolas · ecuación estándar
+
+(x − h)²/a² − (y − k)²/b² = 1. El eje transversal es horizontal.
+
+---
+
+### 97
+
+De acuerdo con el libro de Matemáticas, según la ecuación estándar de una hipérbola, ¿a qué distancia del centro están los vértices y los focos?
+
+- A. Los vértices están a a unidades del centro y los focos a c unidades del centro
+- B. Los vértices están a c unidades del centro y los focos a a unidades del centro
+- C. Los vértices y los focos están ambos a b unidades del centro
+- D. Los vértices están a b unidades del centro y los focos a a unidades del centro
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 320
+**Subtema:** hipérbolas · vértices y focos
+
+Los vértices están a unidades del centro y los focos están a c unidades del centro.
+
+---
+
+### 98
+
+De conformidad con el libro de Matemáticas, ¿cuál es la relación entre a, b y c en una hipérbola?
+
+- A. c² = a² + b²
+- B. c² = a² − b²
+- C. c² = a² · b²
+- D. c = a + b
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 320
+**Subtema:** hipérbolas · relación entre a, b y c
+
+Además, c² = a² + b².
+
+---
+
+### 99
+
+En relación con el libro de Matemáticas, ¿qué es el eje conjugado de una hipérbola con eje transversal horizontal?
+
+- A. El segmento de recta de longitud 2b que une a (h, k+b) y (h, k−b)
+- B. El segmento de recta que une los dos focos
+- C. El segmento de recta que une los dos vértices
+- D. La recta tangente en el vértice
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 321
+**Subtema:** hipérbolas · eje conjugado
+
+El eje conjugado de una hipérbola es el segmento de recta de longitud 2b que une a (h, k+b) y (h, k−b) cuando el eje transversal es horizontal.
+
+---
+
+### 100
+
+De acuerdo con el libro de Matemáticas, ¿cuántas asíntotas tiene cada hipérbola y dónde intersecan?
+
+- A. Dos, que intersecan en el centro de la hipérbola
+- B. Una, que pasa por ambos focos
+- C. Cuatro, que intersecan en los vértices
+- D. Dos, que intersecan en cada foco
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 321
+**Subtema:** hipérbolas · asíntotas
+
+Cada hipérbola tiene dos asíntotas que intersecan en el centro de la hipérbola.
+
+---
+
+### 101
+
+De conformidad con el libro de Matemáticas, ¿por dónde pasan las asíntotas de una hipérbola?
+
+- A. Por los vértices de un rectángulo de dimensiones 2a por 2b con su centro en (h, k)
+- B. Por los focos de la hipérbola
+- C. Por el punto medio del eje conjugado únicamente
+- D. Por los vértices de la hipérbola únicamente
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 321
+**Subtema:** hipérbolas · asíntotas
+
+Las asíntotas pasan por los vértices de un rectángulo de dimensiones 2a por 2b con su centro en (h, k).
+
+---
+
+### 102
+
+En relación con el libro de Matemáticas, ¿cuáles son las ecuaciones de las asíntotas de una hipérbola con eje transversal horizontal?
+
+- A. y = k ± (b/a)(x − h)
+- B. y = k ± (a/b)(x − h)
+- C. y = h ± (b/a)(x − k)
+- D. y = k ± (a/b)(x + h)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 321
+**Subtema:** hipérbolas · ecuaciones de las asíntotas
+
+y = k ± (b/a)(x − h). Asíntotas para un eje transversal horizontal.
+
+---
+
+### 103
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la excentricidad de una hipérbola y qué rango de valores tiene?
+
+- A. e = c/a, y como c > a, se sigue que e > 1
+- B. e = a/c, y como c > a, se sigue que 0 < e < 1
+- C. e = c/a, y como c < a, se sigue que 0 < e < 1
+- D. e = b/a, y como b > a, se sigue que e > 1
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 323
+**Subtema:** hipérbolas · excentricidad
+
+La excentricidad de una hipérbola es e = c/a. Usted sabe que c > a para una hipérbola y lo que sigue es que e > 1.
+
+---
+
+### 104
+
+De conformidad con el libro de Matemáticas, ¿qué ocurre con las ramas de una hipérbola cuando la excentricidad es grande y cuando se aproxima a 1?
+
+- A. Cuando es grande, las ramas son casi planas; cuando se aproxima a 1, las ramas son más estrechas
+- B. Cuando es grande, las ramas son más estrechas; cuando se aproxima a 1, son casi planas
+- C. En ambos casos las ramas son casi planas
+- D. En ambos casos las ramas son más estrechas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 323
+**Subtema:** hipérbolas · excentricidad y forma
+
+Cuando la excentricidad es grande, las ramas de la hipérbola son casi planas. Cuando la excentricidad se aproxima a 1, las ramas de la hipérbola son más estrechas.
+
+---
+
+### 105
+
+En relación con el libro de Matemáticas, ¿qué países desarrollaron, durante la Segunda Guerra Mundial, la aplicación de las propiedades de las hipérbolas en radares y otros sistemas de detección?
+
+- A. Estados Unidos y Gran Bretaña
+- B. Alemania y Japón
+- C. Francia y la Unión Soviética
+- D. Estados Unidos y la Unión Soviética
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 324
+**Subtema:** hipérbolas · aplicación en radares
+
+Las propiedades de las hipérbolas se usan en radares y otros sistemas de detección. Estados Unidos y Gran Bretaña desarrollaron esta aplicación durante la II Guerra Mundial.
+
+---
+
+### 106
+
+De acuerdo con el libro de Matemáticas, ¿qué tipo de órbitas pueden tener los cometas en el Sistema Solar y qué es el centro del Sol respecto a cada una?
+
+- A. Órbitas elípticas, parabólicas o hiperbólicas, y el centro del Sol es un foco de cada una de esas órbitas
+- B. Sólo órbitas elípticas, y el centro del Sol es el centro de cada órbita
+- C. Órbitas elípticas, parabólicas o hiperbólicas, y el centro del Sol es el vértice de cada órbita
+- D. Órbitas circulares únicamente
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 324
+**Subtema:** hipérbolas · órbitas de cometas
+
+Los cometas pueden tener órbitas elípticas, parabólicas o hiperbólicas. El centro del Sol es un foco de cada una de esas órbitas, y cada órbita tiene un vértice en el punto donde el cometa está más cerca del Sol.
+
+---
+
+### 107
+
+De conformidad con el libro de Matemáticas, ¿qué diferencia hay entre los cometas de órbita elíptica y los de órbita parabólica o hiperbólica?
+
+- A. Los de órbita elíptica, como el Halley, son los únicos que permanecen en el Sistema Solar; los de las otras dos se ven sólo una vez
+- B. Los de órbita parabólica son los únicos que permanecen en el Sistema Solar
+- C. Todos los cometas, sin importar su órbita, permanecen en el Sistema Solar
+- D. Los de órbita hiperbólica son los únicos que se pueden observar más de una vez
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 324
+**Subtema:** hipérbolas · órbitas de cometas
+
+Muchos cometas con órbitas parabólicas o hiperbólicas no han sido identificados. Usted logra ver esos cometas sólo una vez. Cometas con órbitas elípticas, como el Halley, son los únicos que permanecen en nuestro Sistema Solar.
+
+---
+
+### 108
+
+En relación con el libro de Matemáticas, si p es la distancia entre el vértice y el foco, y v es la rapidez del cometa en el vértice, ¿qué condición determina que la órbita del cometa sea hiperbólica?
+
+- A. v > √(2GM/p)
+- B. v < √(2GM/p)
+- C. v = √(2GM/p)
+- D. v ≥ 2√(GM/p)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 324
+**Subtema:** hipérbolas · criterio de velocidad orbital
+
+El tipo de órbita se determina como sigue: hiperbólica cuando v > √(2GM/p).
+
+---
+
+### 109
+
+De acuerdo con el libro de Matemáticas, dada la ecuación Ax² + Cy² + Dx + Ey + F = 0, ¿qué condiciones determinan que su gráfica sea un círculo y cuáles que sea una parábola?
+
+- A. Círculo: A = C (A ≠ 0); Parábola: AC = 0 (A = 0 o C = 0, pero no ambas)
+- B. Círculo: AC = 0; Parábola: A = C (A ≠ 0)
+- C. Círculo: A = C (A = 0); Parábola: AC > 0
+- D. Círculo: AC < 0; Parábola: A = C
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 325
+**Subtema:** cónicas · clasificación por ecuación general
+
+Círculo: A = C, A ≠ 0. Parábola: AC = 0, A = 0 o C = 0, pero no ambas.
+
+---
+
+### 110
+
+De conformidad con el libro de Matemáticas, dada la ecuación Ax² + Cy² + Dx + Ey + F = 0, ¿qué condiciones determinan que su gráfica sea una elipse y cuáles que sea una hipérbola?
+
+- A. Elipse: AC > 0 (A ≠ C y A y C tienen signos iguales); Hipérbola: AC < 0 (A y C tienen signos desiguales)
+- B. Elipse: AC < 0; Hipérbola: AC > 0
+- C. Elipse: A = C; Hipérbola: AC = 0
+- D. Elipse: AC > 0 (A y C tienen signos desiguales); Hipérbola: AC < 0 (A y C tienen signos iguales)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 325
+**Subtema:** cónicas · clasificación por ecuación general
+
+Elipse: AC > 0, A ≠ C y A y C tienen signos iguales. Hipérbola: AC < 0, A y C tienen signos desiguales.
+
+---
+
+### 111
+
+En relación con el libro de Matemáticas, ¿cuándo es válida la prueba de clasificación de una cónica a partir de su ecuación general?
+
+- A. Cuando la gráfica es una cónica; no se aplica a ecuaciones cuya gráfica no es una cónica, como x² + y² = −1
+- B. Siempre, sin excepción, para cualquier ecuación de segundo grado
+- C. Sólo cuando A y C son ambos positivos
+- D. Sólo cuando la ecuación no tiene término independiente F
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 325
+**Subtema:** cónicas · clasificación por ecuación general
+
+La prueba de arriba es válida cuando la gráfica es una cónica. No se aplica a ecuaciones como x² + y² = −1, cuya gráfica no es una cónica.
+
+---
+
+### 112
+
+De acuerdo con el libro de Matemáticas, según la `NOTA HISTÓRICA`, ¿qué logro se le acredita a Caroline Herschel?
+
+- A. Fue la primera mujer a la que se le acreditó el descubrimiento de un cometa
+- B. Fue la primera mujer en calcular la órbita de un planeta
+- C. Fue la primera mujer en publicar una tabla de logaritmos
+- D. Fue la primera mujer en observar los anillos de Saturno
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 325
+**Subtema:** hipérbolas · nota histórica
+
+Caroline Herschel (1750-1848) fue la primera mujer a la que se le acreditó el descubrimiento de un cometa.
+
+---
+
+### 113
+
+De conformidad con el libro de Matemáticas, según la `NOTA HISTÓRICA`, ¿cuántos cometas descubrió Caroline Herschel durante su vida?
+
+- A. Un total de ocho cometas
+- B. Un total de tres cometas
+- C. Un total de quince cometas
+- D. Un total de un cometa
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 325
+**Subtema:** hipérbolas · nota histórica
+
+Durante su larga vida, esta astrónoma alemana descubrió un total de ocho cometas.
 
 ---

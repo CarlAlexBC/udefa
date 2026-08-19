@@ -75,7 +75,7 @@ Los `EJEMPLO` y el `Resumen` quedan fuera por norma, así que ninguno de estos d
 
 - Cubiertas las páginas impresas **263, 264 y 266**, con las que **cierra la 2.16 · Ley de cosenos y con ella el capítulo 2**: por qué los casos LLL y LAL necesitan esta ley, el recuadro *Ley de cosenos* en sus **dos formas** (estándar y alternativa), la estrategia de buscar primero el ángulo opuesto al lado más largo, lo que el signo del coseno dice sobre el ángulo, y la *Fórmula del área de Herón* con su semiperímetro y la `NOTA HISTÓRICA` de Herón de Alejandría. La **p. 265 no lleva reactivos** (`EJEMPLO 3` del softbol y `EJEMPLO 4` del barco). Las **pp. 267–270 son el bloque `2.16 Ejercicios`**.
 
-**Pendiente:** ninguno; el **capítulo 2 está CERRADO** en **82 reactivos**, con los cinco subtemas que pide el temario `MATE-03-2026`: **2.6**, **2.9**, **2.10**, **2.15** y **2.16**. **Matemáticas (Larson) NO está cerrada:** falta el **capítulo 3 · Fundamentos de geometría analítica**, que el temario pide **completo** (§3.1–§3.6, pp. 271–328), en su propio archivo.
+**Pendiente:** ninguno; el **capítulo 2 está CERRADO** en **82 reactivos**, con los cinco subtemas que pide el temario `MATE-03-2026`: **2.6**, **2.9**, **2.10**, **2.15** y **2.16**. **Matemáticas (Larson) está CERRADA por completo:** el **capítulo 3 · Fundamentos de geometría analítica**, que el temario pide **completo** (§3.1–§3.6, pp. 271–328), también está cerrado, en **113 reactivos**, en su propio archivo.
 
 ---
 
