@@ -314,10 +314,11 @@ reactivos — el teorema en sí (el enunciado "Sea f(x)=... entonces f'(x)=...")
 también todo el contenido sin letra de sección que los sigue —existencia de la
 derivada, derivadas sucesivas, recta tangente/normal, ángulo entre curvas y modelación
 de situaciones (velocidad, aceleración, razones relacionadas, optimización)— hasta la
-**p.159** (pp. 142-159). **El 3.5 arranca formalmente al cierre de la p.159**, con
-"Funciones creciente y decreciente" todavía sin definición dada. Sigue desde la
-**p.160** con el resto de 3.5 (intervalos de crecimiento y decrecimiento, puntos
-máximos y mínimos locales, concavidad, convexidad y puntos de inflexión). Después
+**p.159** (pp. 142-159). Dentro del 3.5, **quedan CERRADAS las definiciones de función
+creciente/decreciente (con su criterio vía derivada y ángulo de la tangente) y de
+máximo/mínimo relativo, y los métodos de la primera y la segunda derivada** (pp.
+160-165). Sigue desde la **p.166** con el resto de 3.5 (intervalos de crecimiento y
+decrecimiento, concavidad, convexidad y puntos de inflexión). Después
 **3.6 Notaciones de la derivada** (p.178) y **3.7 Diferencial de una función** (p.178),
 hasta cerrar la Unidad 3 — y la materia completa de Cálculo para la EMT — antes de la
 p.188 (arranca la Unidad 4, La integral, que el temario NO pide). **Antes de tocar
@@ -1373,3 +1374,209 @@ De acuerdo con el libro de Cálculo, ¿cómo se representa un incremento de la v
 **Subtema:** Razones de cambio relacionadas · El incremento Δx
 
 "Un incremento de la variable x lo representaremos con Δx (delta x) y puede ser positivo (incremento) o negativo (decremento), según la variable aumente o disminuya al cambiar de valor."
+
+---
+
+## Sub-lote 10 · Funciones creciente/decreciente, y máximos/mínimos relativos (3.5, pp. 160-165)
+
+### 202
+
+Conforme al libro de Cálculo, ¿cuál es la definición formal de que una función y = f(x) es creciente en un intervalo I = (a, b)?
+
+- A. Si a < b; entonces f(a) < f(b)
+- B. Si a < b; entonces f(a) > f(b)
+- C. Si a > b; entonces f(a) < f(b)
+- D. Si a < b; entonces f(a) = f(b)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 160
+**Subtema:** Funciones creciente y decreciente · Definición formal
+
+"Se dice que una función y = f(x) es creciente en un intervalo I = (a, b). Si se verifica que: a < b; entonces f(a) < f(b)"
+
+---
+
+### 203
+
+¿Cuál es la definición formal de que una función y = f(x) es decreciente en un intervalo I = (a, b), según el libro de Cálculo?
+
+- A. Si a < b; entonces f(a) > f(b)
+- B. Si a < b; entonces f(a) < f(b)
+- C. Si a > b; entonces f(a) > f(b)
+- D. Si a < b; entonces f(a) ≥ f(b)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 160
+**Subtema:** Funciones creciente y decreciente · Definición formal
+
+"Se dice que una función y = f(x) es decreciente en un intervalo I = (a, b). Si se verifica que: a < b; entonces f(a) > f(b)"
+
+---
+
+### 204
+
+De acuerdo con el libro, si f'(x) > 0 en un intervalo I, ¿qué se puede afirmar de la función y del ángulo que forma la tangente con la horizontal?
+
+- A. f es creciente en ese intervalo, y el ángulo con la horizontal es mayor que cero y menor de 90°
+- B. f es decreciente en ese intervalo, y el ángulo con la horizontal es mayor que cero y menor de 90°
+- C. f es creciente en ese intervalo, y el ángulo con la horizontal es mayor de 90° y menor que 180°
+- D. f es constante en ese intervalo, y el ángulo con la horizontal es igual a 90°
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 160
+**Subtema:** Funciones creciente y decreciente · Criterio con la derivada y el ángulo de la tangente
+
+"Si f'(x) > 0 en un intervalo I; entonces f es creciente en ese intervalo. Observemos en la figura 3.9 el ángulo que se forma con la horizontal es mayor que cero y menor de 90°."
+
+---
+
+### 205
+
+Según el libro, si f'(x) < 0 en un intervalo I, ¿qué ocurre con la función y con el ángulo que forma la tangente con la horizontal?
+
+- A. f es decreciente en ese intervalo, y el ángulo con la horizontal es mayor de 90° y menor que 180°
+- B. f es creciente en ese intervalo, y el ángulo con la horizontal es mayor de 90° y menor que 180°
+- C. f es decreciente en ese intervalo, y el ángulo con la horizontal es mayor que cero y menor de 90°
+- D. f es decreciente en ese intervalo, y el ángulo con la horizontal es igual a 180°
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 160
+**Subtema:** Funciones creciente y decreciente · Criterio con la derivada y el ángulo de la tangente
+
+"Si f'(x) < 0 en un intervalo I; entonces f es decreciente en ese intervalo. Observemos en la gráfica el ángulo que se forma con la horizontal es mayor de 90° y menor que 180°."
+
+---
+
+### 206
+
+Conforme al libro, sea una función y = f(x) continua en el intervalo I = [a, b], ¿cómo define el máximo relativo de la función en el punto x ∈ I?
+
+- A. Se verifica que f(x − h) < f(x) > f(x + h)
+- B. Se verifica que f(x − h) > f(x) < f(x + h)
+- C. Se verifica que f(x − h) < f(x) < f(x + h)
+- D. Se verifica que f(x − h) = f(x) = f(x + h)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 162
+**Subtema:** Máximos y mínimos relativos · Definición formal
+
+"Se dice que la función y = f(x) tiene un máximo relativo en el punto x ∈ I, si se verifica: f(x − h) < f(x) > f(x + h)"
+
+---
+
+### 207
+
+¿Cómo define el libro el mínimo relativo de la función y = f(x) en el punto x ∈ I?
+
+- A. Se verifica que f(x − h) > f(x) < f(x + h)
+- B. Se verifica que f(x − h) < f(x) > f(x + h)
+- C. Se verifica que f(x − h) > f(x) > f(x + h)
+- D. Se verifica que f(x − h) < f(x) < f(x + h)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 162
+**Subtema:** Máximos y mínimos relativos · Definición formal
+
+"Se dice que la función y = f(x) tiene un mínimo relativo en el punto x ∈ I, si se verifica: f(x − h) > f(x) < f(x + h)"
+
+---
+
+### 208
+
+Según el libro, ¿por qué a estos puntos máximos y mínimos se les llama "relativos"?
+
+- A. Porque en realidad no son máximos ni mínimos, ya que hay valores más grandes o más pequeños en la función, pero en un intervalo sí se cumplen
+- B. Porque su valor cambia según la escala de la gráfica que se utilice
+- C. Porque dependen de la segunda derivada para confirmarse
+- D. Porque sólo existen cuando la función es continua en todo su dominio
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 162
+**Subtema:** Máximos y mínimos relativos · Por qué se llaman "relativos"
+
+"Estos puntos se conocen como máximos o mínimos relativos, lo relativo es porque en realidad no son máximos ni son mínimos, ya que hay valores más grandes o más pequeños en la función, pero en un intervalo sí se cumplen."
+
+---
+
+### 209
+
+En el método de la primera derivada, ¿cuándo será máximo un punto según el libro?
+
+- A. Si la función cambia de creciente a decreciente
+- B. Si la función cambia de decreciente a creciente
+- C. Si la función se mantiene creciente en todo el intervalo
+- D. Si la primera derivada es igual a cero en todo el intervalo
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 163
+**Subtema:** Método de la primera derivada · Criterios de máximo y mínimo
+
+"Será máximo si la función cambia de creciente a decreciente."
+
+---
+
+### 210
+
+En el método de la primera derivada, ¿cuándo será mínimo un punto conforme al libro?
+
+- A. Si la función cambia de decreciente a creciente
+- B. Si la función cambia de creciente a decreciente
+- C. Si la función se mantiene decreciente en todo el intervalo
+- D. Si la segunda derivada es igual a cero
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 163
+**Subtema:** Método de la primera derivada · Criterios de máximo y mínimo
+
+"Será mínimo si la función cambia de decreciente a creciente."
+
+---
+
+### 211
+
+En el método de la segunda derivada, si el valor obtenido en la segunda derivada es mayor que cero, ¿qué representa ese punto según el libro?
+
+- A. Un valor mínimo
+- B. Un valor máximo
+- C. Un punto de inflexión
+- D. Un punto donde la función no está definida
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 165
+**Subtema:** Método de la segunda derivada · Criterios de máximo y mínimo
+
+"Si el valor obtenido en la segunda derivada es mayor que cero, entonces éste es un valor mínimo."
+
+---
+
+### 212
+
+En el método de la segunda derivada, si el valor obtenido en la segunda derivada es menor que cero, ¿qué representa ese punto?
+
+- A. Un valor máximo
+- B. Un valor mínimo
+- C. Un punto de inflexión
+- D. Un valor indeterminado
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 165
+**Subtema:** Método de la segunda derivada · Criterios de máximo y mínimo
+
+"Si el valor obtenido en la segunda derivada es menor que cero, entonces éste es un valor máximo."
+
+---
+
+### 213
+
+Según el libro, cuando se tiene una ecuación de segundo grado, ¿qué ventaja ofrece la segunda derivada para el método de máximos y mínimos?
+
+- A. Al ser una constante, indica de inmediato si se trata de un mínimo o un máximo
+- B. Se vuelve igual a cero, por lo que ya no hace falta evaluarla
+- C. Se convierte en una función lineal que hay que igualar a cero nuevamente
+- D. Deja de existir, por lo que sólo aplica el método de la primera derivada
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 165
+**Subtema:** Método de la segunda derivada · Ecuaciones de segundo grado
+
+"Cuando tenemos una ecuación de segundo grado, la segunda derivada es una constante, ésta nos indica de inmediato si hablamos de un mínimo o un máximo."
