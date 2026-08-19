@@ -236,19 +236,50 @@ reactivos — el teorema en sí (el enunciado "Sea f(x)=... entonces f'(x)=...")
   particular" (ya cubierta) y el *Ejemplo* con su Solución. **Con esto se cierra el
   3.4 completo.**
 
-**Pendiente:** EN CURSO. **El 3.1, 3.2, 3.3 y 3.4 quedan CERRADOS** (pp. 105-141: seis
-funciones trigonométricas directas e inversas, derivación implícita, logaritmo y
-exponencial de base *a* y su generalización para e^u). Sigue desde la **p.142** con
-**3.5 Criterios para determinar el comportamiento de una función** (intervalos de
+- Cubierto el arranque de la página impresa **142**: otra forma de expresar el
+  número *e*, como serie (e = 1 + 1/1! + 1/2! + ... + 1/n! + ...) —dato nuevo que se
+  suma a la definición como límite y a que es irracional, ya cubiertas en 3.1—.
+  **Fuera:** las otras formas de expresar *e* como límite (son las mismas ya cubiertas
+  en 3.1, sólo con la variable renombrada de *x* a *h* o *n*), la tabla para
+  aproximarlo, y el resto de la página, que son ejercicios de e^x. **Con esto se
+  cierran los ejercicios de 3.4** que quedaban pendientes entre la p.141 y la p.143.
+- Cubierto el cierre de la página impresa **142** y el arranque de la **143**, que
+  **abren "La existencia de la derivada"**: las **dos condiciones** para que una
+  función sea derivable en un punto —que la curva sea suave (sin picos) y que la
+  función sea continua en ese punto—. **Fuera:** el ejemplo de *y* = |*x*| con el que
+  se ilustra por qué en (0,0) no existe la tangente (es el vehículo del ejemplo, no la
+  regla general) y la Figura 3.3.
+- Cubierto el arranque de la página impresa **143**, que también **abre "Derivadas
+  sucesivas de una función"**: la definición (la derivada de la derivada es la
+  segunda derivada, y así sucesivamente con tercera, cuarta, ...) y el recuadro con
+  la **notación de las derivadas sucesivas** en las cuatro formas (Cauchy, las dos de
+  Lagrange, Leibniz). **Fuera:** los *Ejemplos* con su Solución y los bancos de
+  ejercicios de las pp. 143-144.
+- Cubierta la página impresa **145**, que **abre "Obtención de la recta tangente y la
+  recta normal a una función en un punto"**: la definición de **recta normal**
+  (perpendicular a la tangente) y la fórmula de su pendiente (m₂ = 1/(−m₁)). **Fuera:**
+  la fórmula punto-pendiente y "la pendiente es igual a la derivada" (ya cubiertas
+  como la definición de derivada en 3.2), el *Ejemplo* con su Solución y las
+  Actividades de aprendizaje.
+- **Las páginas impresas 146 y 147 NO dieron ningún reactivo.** Son la "Deduce y
+  aprende" de la tangente con calculadora graficadora (actividad de equipo con
+  instrucciones de manejo de calculadora) y dos bancos de ejercicios de tangente y
+  normal.
+
+**Pendiente:** EN CURSO. **El 3.1, 3.2, 3.3 y 3.4 quedan CERRADOS** (pp. 105-142).
+Cubiertos también "La existencia de la derivada", "Derivadas sucesivas" y "Recta
+tangente y recta normal" (pp. 142-147) — contenido que antecede al 3.5 formal, sin
+letra de sección propia en el libro. Sigue desde la **p.148** hasta llegar a **3.5
+Criterios para determinar el comportamiento de una función** (intervalos de
 crecimiento y decrecimiento, puntos máximos y mínimos locales, concavidad, convexidad
-y puntos de inflexión), que arranca en la p.159 según el índice —hay que revisar qué
-hay entre la p.141 y la p.159, puede que sea cierre de 3.4 con más ejercicios o ya
-arranque contenido nuevo—. Después **3.6 Notaciones de la derivada** (p.178) y **3.7
-Diferencial de una función** (p.178), hasta cerrar la Unidad 3 — y la materia completa
-de Cálculo para la EMT — antes de la p.188 (arranca la Unidad 4, La integral, que el
-temario NO pide). **Antes de tocar este archivo, corre la regla del punto de
-continuación de CLAUDE.md** —esta Unidad es materia nueva y este archivo es el único
-que sostiene su pendiente.
+y puntos de inflexión), que arranca en la p.159 según el índice —revisar qué hay entre
+la p.148 y la p.159, puede ser más contenido sin letra de sección o ya la portadilla
+temática—. Después **3.6 Notaciones de la derivada** (p.178) y **3.7 Diferencial de
+una función** (p.178), hasta cerrar la Unidad 3 — y la materia completa de Cálculo
+para la EMT — antes de la p.188 (arranca la Unidad 4, La integral, que el temario NO
+pide). **Antes de tocar este archivo, corre la regla del punto de continuación de
+CLAUDE.md** —esta Unidad es materia nueva y este archivo es el único que sostiene su
+pendiente.
 
 ---
 
@@ -1122,3 +1153,97 @@ Conforme al libro de Cálculo, en general, si u es una función de x y y = e^u, 
 **Subtema:** Derivada de la función e^x · Regla de la cadena
 
 "En general si u es una función de x se tiene que y = e^u, y' = u'e^u"
+
+---
+
+## Sub-lote 7 · Existencia de la derivada, derivadas sucesivas y recta normal (pp. 142-145)
+
+### 191
+
+De acuerdo con el libro de Cálculo, ¿cómo se puede expresar el número e como serie?
+
+- A. e = 1 + 1/1! + 1/2! + ... + 1/n! + ...
+- B. e = 1 + 1/1 + 1/2 + ... + 1/n + ...
+- C. e = 1! + 2! + ... + n! + ...
+- D. e = 1 − 1/1! + 1/2! − ... ± 1/n! + ...
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 142
+**Subtema:** El número e · Expresión como serie
+
+"e = 1 + 1/1! + 1/2! + ... + 1/n! + ..."
+
+### 192
+
+Conforme al libro de Cálculo, ¿qué dos condiciones debe reunir una función para que exista su derivada en un punto?
+
+- A. Que la curva sea suave (sin picos) y que la función sea continua en ese punto
+- B. Que la función sea polinomial y que su dominio sean todos los reales
+- C. Que la curva sea suave (sin picos) únicamente, sin más condiciones
+- D. Que la función sea continua únicamente, sin más condiciones
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 143
+**Subtema:** La existencia de la derivada · Condiciones
+
+"Para que exista la derivada debemos tener una curva suave, o sea, que no tenga picos; otra condición que debe reunir una función para ser derivable es que sea continua en el punto que se da."
+
+### 193
+
+De acuerdo con el libro de Cálculo, ¿a qué se le conoce como la segunda derivada de una función?
+
+- A. A la derivada de la derivada de la función
+- B. Al cuadrado de la primera derivada
+- C. A la derivada evaluada dos veces en el mismo punto
+- D. A la suma de la función con su primera derivada
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 143
+**Subtema:** Derivadas sucesivas de una función · Definición
+
+"La derivada de una función es una nueva función de la misma variable, a la derivada de esta derivada se le conoce como la segunda derivada, y se puede derivar sucesivamente recibiendo el nombre de tercera, cuarta, ..., derivada."
+
+### 194
+
+Conforme al libro de Cálculo, ¿cómo se anota la segunda derivada de f(x) con la notación de Cauchy?
+
+- A. D² f(x)
+- B. f''(x)
+- C. d²y/dx²
+- D. y''
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 143
+**Subtema:** Derivadas sucesivas de una función · Notación de Cauchy
+
+"Cauchy: D² f(x), D³ f(x), D⁴ f(x), ..., Dⁿ f(x)"
+
+### 195
+
+De acuerdo con el libro de Cálculo, ¿cómo se anota la segunda derivada de y con la notación de Leibniz?
+
+- A. d²y/dx²
+- B. D² f(x)
+- C. y''
+- D. f''(x)
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 143
+**Subtema:** Derivadas sucesivas de una función · Notación de Leibniz
+
+"Leibniz: d²y/dx², d³y/dx³, ..., dⁿy/dxⁿ"
+
+### 196
+
+Conforme al libro de Cálculo, ¿qué es la recta normal a una curva, y cuál es su pendiente si m es la pendiente de la tangente?
+
+- A. Es la recta perpendicular a la tangente, con pendiente m₂ = 1/(−m₁)
+- B. Es la recta paralela a la tangente, con la misma pendiente m
+- C. Es la recta perpendicular a la tangente, con pendiente m₂ = m₁
+- D. Es la recta que pasa por el origen, con pendiente m₂ = −m₁
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 145
+**Subtema:** Recta tangente y recta normal · Recta normal
+
+"La ecuación de la recta normal a la curva es la recta perpendicular a la tangente; recordemos que si la pendiente es m, entonces la pendiente perpendicular es m₂ = 1/(−m₁)."
