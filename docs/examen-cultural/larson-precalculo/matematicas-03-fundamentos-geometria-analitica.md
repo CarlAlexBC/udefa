@@ -64,7 +64,9 @@ _(Los defectos del capítulo 1 y del capítulo 2 están documentados en sus prop
 - Cubiertas las páginas impresas **284, 285 y 286**: el `COMENTARIO` que relaciona el signo de la pendiente con la orientación de la recta, la *forma punto-pendiente* y para qué es más útil, el `COMENTARIO` de que da igual cuál de los dos puntos se sustituya, y el recuadro *Rectas paralelas y perpendiculares* (pendientes iguales, y la fórmula m₁ = −1/m₂). Los `EJEMPLO 3` y `EJEMPLO 4` y el `TECNOLOGÍA` no llevan reactivos.
 - Cubiertas las páginas impresas **287, 288 y 289**, con las que **cierra la §3.2**: la pendiente como razón o tasa según las unidades de los ejes, la depreciación lineal y el valor en libros, la extrapolación y la interpolación lineal, la forma general Ax + By + C = 0, y el recuadro *Resumen de ecuaciones de rectas* con sus seis formas. Los `EJEMPLO 5` a `EJEMPLO 8` y el `Resumen (sección 3.2)` no llevan reactivos. Las **pp. 290–293 son el bloque `3.2 Ejercicios`**.
 
-**Pendiente:** EN CURSO. La **§3.1 y la §3.2 están CERRADAS**. Sigue la **§3.3 · Rectas**, que arranca en la página impresa **294** y cuya teoría llega hasta la **p. 297**. Después faltan **§3.4** (p. 301), **§3.5** (p. 310) y **§3.6** (p. 319). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
+- Cubiertas las páginas impresas **294, 295 y 296**, arranque de la **§3.3 · Rectas** (Sub-lote 6): la **inclinación** de una recta no horizontal (definición, los casos horizontal/vertical, la relación m = tan θ y cómo se obtiene θ según el signo de m), el **ángulo entre dos rectas** (los dos pares de ángulos opuestos que forma una intersección no perpendicular, cuál de ellos es "el" ángulo, y la fórmula tan θ = |(m₂ − m₁)/(1 + m₁m₂)|), y el arranque de la **distancia de un punto a una recta** (que es una aplicación de rectas perpendiculares, y la fórmula d = |Ax₁ + By₁ + C| / √(A² + B²)).
+
+**Pendiente:** EN CURSO. La **§3.1 y la §3.2 están CERRADAS**. La **§3.3 va hasta la p.296** (inclinación, ángulo entre rectas y la fórmula de distancia punto-recta, Sub-lote 6). Sigue desde la **p.297**, donde cierra la teoría de la §3.3 (la tabla del encabezado la da como el final de su teoría; verificar en la hoja qué trae exactamente antes de escribir). Después faltan **§3.4** (p. 301), **§3.5** (p. 310) y **§3.6** (p. 319). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
 
 ---
 
@@ -857,5 +859,194 @@ De acuerdo con el libro de Matemáticas, según el *Resumen de ecuaciones de rec
 **Subtema:** ecuaciones lineales · formas de la ecuación de una recta
 
 6. Forma dos puntos: y − y₁ = ((y₂ − y₁)/(x₂ − x₁))(x − x₁).
+
+---
+
+## Sub-lote 6 · Inclinación, ángulo entre rectas y distancia punto-recta (pp. 294–296)
+
+### 47
+
+De acuerdo con el libro de Matemáticas, ¿qué es la inclinación de una recta no horizontal?
+
+- A. El ángulo positivo θ (menor que π) medido en sentido contrahorario del eje x a la recta
+- B. El ángulo positivo θ (menor que π/2) medido en sentido horario del eje x a la recta
+- C. El ángulo que forma la recta con el eje y
+- D. El ángulo agudo entre la recta y el origen
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 294
+**Subtema:** rectas · inclinación
+
+La inclinación de una recta no horizontal es el ángulo positivo θ (menor que π) medido en sentido contrahorario del eje x a la recta.
+
+---
+
+### 48
+
+De conformidad con el libro de Matemáticas, ¿cuál es la inclinación de una recta horizontal y cuál la de una recta vertical?
+
+- A. θ = 0 para la horizontal y θ = π/2 para la vertical
+- B. θ = π/2 para la horizontal y θ = 0 para la vertical
+- C. θ = 0 para las dos
+- D. θ = π para la horizontal y θ = π/2 para la vertical
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 294
+**Subtema:** rectas · inclinación
+
+Recta horizontal: θ = 0. Recta vertical: θ = π/2.
+
+---
+
+### 49
+
+En relación con el libro de Matemáticas, si una recta no vertical tiene inclinación θ y pendiente m, ¿qué relación se cumple?
+
+- A. m = tan θ
+- B. m = sen θ
+- C. θ = tan m
+- D. m = cos θ
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 294
+**Subtema:** rectas · inclinación y pendiente
+
+Si una recta no vertical tiene inclinación θ y pendiente m, entonces m = tan θ.
+
+---
+
+### 50
+
+De acuerdo con el libro de Matemáticas, si m ≥ 0, ¿cómo se obtiene θ y por qué?
+
+- A. θ = arctan m, porque 0 ≤ θ < π/2
+- B. θ = π + arctan m, porque π/2 < θ < π
+- C. θ = arctan m, porque π/2 < θ < π
+- D. θ = −arctan m, porque 0 ≤ θ < π/2
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 294
+**Subtema:** rectas · inclinación y pendiente
+
+Si m ≥ 0, entonces θ = arctan m porque 0 ≤ θ < π/2.
+
+---
+
+### 51
+
+De conformidad con el libro de Matemáticas, si m < 0, ¿cómo se obtiene θ y por qué?
+
+- A. θ = π + arctan m, porque π/2 < θ < π
+- B. θ = arctan m, porque 0 ≤ θ < π/2
+- C. θ = π − arctan m, porque π/2 < θ < π
+- D. θ = −π + arctan m, porque π/2 < θ < π
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 294
+**Subtema:** rectas · inclinación y pendiente
+
+Si m < 0, entonces θ = π + arctan m, porque π/2 < θ < π.
+
+---
+
+### 52
+
+En relación con el libro de Matemáticas, cuando dos rectas distintas no perpendiculares se intersecan, ¿qué forma su intersección?
+
+- A. Dos pares de ángulos opuestos
+- B. Un solo par de ángulos opuestos
+- C. Cuatro ángulos iguales
+- D. Tres pares de ángulos opuestos
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 295
+**Subtema:** rectas · ángulo entre dos rectas
+
+Cuando dos rectas distintas intersecan y son no perpendiculares, su intersección forma dos pares de ángulos opuestos.
+
+---
+
+### 53
+
+De acuerdo con el libro de Matemáticas, de esos dos pares de ángulos, ¿cómo son entre sí?
+
+- A. Un par es agudo y el otro par es obtuso
+- B. Los dos pares son agudos
+- C. Los dos pares son obtusos
+- D. Un par es recto y el otro agudo
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 295
+**Subtema:** rectas · ángulo entre dos rectas
+
+Un par es agudo y el otro par es obtuso.
+
+---
+
+### 54
+
+De conformidad con el libro de Matemáticas, ¿cuál de esos ángulos es el ángulo entre dos rectas?
+
+- A. El menor de éstos
+- B. El mayor de éstos
+- C. El promedio de los dos
+- D. El ángulo recto más cercano
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 295
+**Subtema:** rectas · ángulo entre dos rectas
+
+El menor de éstos es el ángulo entre dos rectas.
+
+---
+
+### 55
+
+En relación con el libro de Matemáticas, si dos rectas no perpendiculares tienen pendientes m₁ y m₂, ¿cuál es la tangente del ángulo entre ellas?
+
+- A. tan θ = |(m₂ − m₁)/(1 + m₁m₂)|
+- B. tan θ = |(m₁ − m₂)/(1 − m₁m₂)|
+- C. tan θ = (m₂ − m₁)/(1 + m₁m₂)
+- D. tan θ = |(m₂ + m₁)/(1 + m₁m₂)|
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 295
+**Subtema:** rectas · ángulo entre dos rectas
+
+Si dos rectas no perpendiculares tienen pendientes m₁ y m₂, la tangente del ángulo entre las dos rectas es tan θ = |(m₂ − m₁)/(1 + m₁m₂)|.
+
+---
+
+### 56
+
+De acuerdo con el libro de Matemáticas, ¿de qué es una aplicación determinar la distancia entre una recta y un punto que no está en la recta?
+
+- A. De rectas perpendiculares
+- B. De rectas paralelas
+- C. Del ángulo entre dos rectas
+- D. De la forma punto-pendiente
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 296
+**Subtema:** rectas · distancia de un punto a una recta
+
+Determinar la distancia entre una recta y un punto, que no está en la recta, es una aplicación de rectas perpendiculares.
+
+---
+
+### 57
+
+De conformidad con el libro de Matemáticas, ¿cuál es la distancia entre el punto (x₁, y₁) y la recta Ax + By + C = 0?
+
+- A. d = |Ax₁ + By₁ + C| / √(A² + B²)
+- B. d = |Ax₁ + By₁ + C| / (A² + B²)
+- C. d = (Ax₁ + By₁ + C) / √(A² + B²)
+- D. d = |Ax₁ + By₁ − C| / √(A² + B²)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 296
+**Subtema:** rectas · distancia de un punto a una recta
+
+La distancia entre el punto (x₁, y₁) y la recta Ax + By + C = 0 es d = |Ax₁ + By₁ + C| / √(A² + B²).
 
 ---
