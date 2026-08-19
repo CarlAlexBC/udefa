@@ -50,6 +50,11 @@
       "ALGE-01-2026": { "slug": "zill-atg", "capitulos": [2, 3, 4] },
       "FIS-02-2026": { "slug": "fisica-perez-montiel", "capitulos": [4, 5, 6, 8, 11] },
       "TGA-02-2026": { "slug": "zill-atg", "capitulos": [8, 9, 10, 11] }
+    },
+    "EMEFA": {
+      "GEO-01-2026": { "slug": "geografia-lucio-victorio", "capitulos": [1, 2, 3, 4, 5, 6] },
+      "FISICA-02-2026": { "slug": "fisica-serway", "capitulos": [1, 2, 3, 5, 10] },
+      "MATE-03-2026": { "slug": "larson-precalculo", "capitulos": [1, 2, 3] }
     }
   }
 }
