@@ -50,6 +50,8 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 - **p. 286, recuadro *Rectas paralelas y perpendiculares*: el texto se contradice con su propia fórmula.** El libro imprime "sus pendientes son **recíprocas no negativas** entre sí", pero enseguida escribe **m₁ = −1/m₂**, que es la recíproca **negativa** —lo correcto—, y el `EJEMPLO 4` de esa misma página lo confirma al decir "porque 3/2 es el **recíproco negativo** de 2/3". El "no" sobra. **Verificado con recorte de la hoja renderizada.** El reactivo 37 pregunta por la **fórmula**, que sí es correcta, y su justificación cita la frase ya sin el "no".
 - **p. 286, frase de entrada del apartado:** imprime "Se puede llamar pendiente si dos rectas no verticales en un plano son paralelas, perpendiculares o ninguna", que no cierra; debería decir algo como "se puede **usar la pendiente para decidir** si…". No lleva reactivo.
 
+- **p. 301, párrafo bajo la figura 3.30: la condición de la cónica degenerada está invertida.** El libro imprime "en la formación de las cuatro cónicas básicas el plano de intersección **no pasa** por el vértice del cono. Cuando el plano **no pasa** por el vértice, la figura resultante es una **cónica degenerada**". Repite "no pasa" las dos veces, cuando lo correcto (y lo que muestra la propia figura 3.31, con el plano cruzando justo por el vértice) es que la degenerada ocurre cuando el plano **sí pasa** por el vértice. **Verificado con recorte de la hoja renderizada a 600 dpi.** No se escribe reactivo sobre esta condición; sí se preguntan, por separado, los nombres de las cuatro cónicas básicas y de las tres degeneradas, que la figura da bien.
+
 _(Los defectos del capítulo 1 y del capítulo 2 están documentados en sus propios archivos.)_
 
 ## Cobertura actual
@@ -65,8 +67,10 @@ _(Los defectos del capítulo 1 y del capítulo 2 están documentados en sus prop
 - Cubiertas las páginas impresas **287, 288 y 289**, con las que **cierra la §3.2**: la pendiente como razón o tasa según las unidades de los ejes, la depreciación lineal y el valor en libros, la extrapolación y la interpolación lineal, la forma general Ax + By + C = 0, y el recuadro *Resumen de ecuaciones de rectas* con sus seis formas. Los `EJEMPLO 5` a `EJEMPLO 8` y el `Resumen (sección 3.2)` no llevan reactivos. Las **pp. 290–293 son el bloque `3.2 Ejercicios`**.
 
 - Cubiertas las páginas impresas **294, 295 y 296**, arranque de la **§3.3 · Rectas** (Sub-lote 6): la **inclinación** de una recta no horizontal (definición, los casos horizontal/vertical, la relación m = tan θ y cómo se obtiene θ según el signo de m), el **ángulo entre dos rectas** (los dos pares de ángulos opuestos que forma una intersección no perpendicular, cuál de ellos es "el" ángulo, y la fórmula tan θ = |(m₂ − m₁)/(1 + m₁m₂)|), y el arranque de la **distancia de un punto a una recta** (que es una aplicación de rectas perpendiculares, y la fórmula d = |Ax₁ + By₁ + C| / √(A² + B²)).
+- Revisada la página impresa **297, con la que cierra la §3.3**: sólo trae el `EJEMPLO 5` y el `Resumen (sección 3.3)`, ninguno de los dos con reactivo. **La §3.3 queda CERRADA** sin reactivos nuevos en esta página.
+- Cubiertas las páginas impresas **301, 302 y 304**, con las que **cierra la §3.4 · Introducción a las cónicas: parábolas** (Sub-lote 7): la definición de **sección cónica** (intersección de un plano y un cono de doble hoja), los nombres de las **cuatro cónicas básicas** y de las **tres cónicas degeneradas** (figuras 3.30 y 3.31), la ecuación general de segundo grado y la ecuación de un círculo, el recuadro *Definición de una parábola* (directriz, foco, vértice, eje), el recuadro *Ecuación estándar de una parábola* (las dos formas con su directriz, y el caso con vértice en el origen), y la **propiedad de reflexión de la parábola**: cuerda focal, *latus rectum*, el principio del reflector parabólico, la definición de recta tangente y el recuadro *Propiedad de reflexión de una parábola*. Las pp. **303 y 305 son sólo `EJEMPLO`s, `TECNOLOGÍA`, `AYUDA ALGEBRAICA` y el `Resumen (sección 3.4)`**, sin reactivos; las **pp. 306–309 son el bloque `3.4 Ejercicios`**.
 
-**Pendiente:** EN CURSO. La **§3.1 y la §3.2 están CERRADAS**. La **§3.3 va hasta la p.296** (inclinación, ángulo entre rectas y la fórmula de distancia punto-recta, Sub-lote 6). Sigue desde la **p.297**, donde cierra la teoría de la §3.3 (la tabla del encabezado la da como el final de su teoría; verificar en la hoja qué trae exactamente antes de escribir). Después faltan **§3.4** (p. 301), **§3.5** (p. 310) y **§3.6** (p. 319). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
+**Pendiente:** EN CURSO. La **§3.1, la §3.2, la §3.3 y la §3.4 están CERRADAS**. Sigue desde la **p.310**, arranque de la **§3.5 · Elipses** (teoría pp. 310–315, ejercicios 316–318). Después falta la **§3.6 · Hipérbolas** (teoría pp. 319–325, ejercicios 326–328; el libro termina en la p.328). **Matemáticas (Larson) no está cerrada** mientras este capítulo siga abierto: es el último de los tres que pide el temario.
 
 ---
 
@@ -1048,5 +1052,296 @@ De conformidad con el libro de Matemáticas, ¿cuál es la distancia entre el pu
 **Subtema:** rectas · distancia de un punto a una recta
 
 La distancia entre el punto (x₁, y₁) y la recta Ax + By + C = 0 es d = |Ax₁ + By₁ + C| / √(A² + B²).
+
+---
+
+## Sub-lote 7 · Cónicas, definición de parábola y propiedad de reflexión — cierra la §3.4 (pp. 301, 302, 304)
+
+### 58
+
+De acuerdo con el libro de Matemáticas, ¿qué es una sección cónica?
+
+- A. La intersección de un plano y un cono de doble hoja
+- B. La intersección de dos planos perpendiculares
+- C. La intersección de un plano y una esfera
+- D. La intersección de dos conos de doble hoja
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 301
+**Subtema:** cónicas · sección cónica
+
+Una sección cónica (o simplemente cónica) es la intersección de un plano y un cono de doble hoja.
+
+---
+
+### 59
+
+De conformidad con el libro de Matemáticas, según la figura 3.30, ¿cuáles son las cuatro cónicas básicas?
+
+- A. Círculo, elipse, parábola e hipérbola
+- B. Círculo, elipse, parábola y recta
+- C. Punto, recta, parábola e hipérbola
+- D. Círculo, punto, elipse y parábola
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 301
+**Subtema:** cónicas · cónicas básicas
+
+La figura 3.30 muestra las cónicas básicas: círculo, elipse, parábola e hipérbola.
+
+---
+
+### 60
+
+En relación con el libro de Matemáticas, según la figura 3.31, ¿cuáles son las cónicas degeneradas?
+
+- A. Punto, recta y dos rectas intersecantes
+- B. Punto, círculo y recta
+- C. Recta, elipse y dos rectas paralelas
+- D. Punto, parábola y dos rectas intersecantes
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 301
+**Subtema:** cónicas · cónicas degeneradas
+
+La figura 3.31 muestra las cónicas degeneradas: punto, recta y dos rectas intersecantes.
+
+---
+
+### 61
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la ecuación general de segundo grado en términos de la cual pueden definirse las cónicas algebraicamente?
+
+- A. Ax² + Bxy + Cy² + Dx + Ey + F = 0
+- B. Ax² + By² + C = 0
+- C. Ax² + Bxy + Cy² = 0
+- D. Ax + By + C = 0
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 301
+**Subtema:** cónicas · ecuación general de segundo grado
+
+Podría definirlas algebraicamente, en términos de la ecuación general de segundo grado Ax² + Bxy + Cy² + Dx + Ey + F = 0.
+
+---
+
+### 62
+
+De conformidad con el libro de Matemáticas, ¿cuál es la ecuación de un círculo con centro (h, k) y radio r?
+
+- A. (x − h)² + (y − k)² = r²
+- B. (x − h)² + (y − k)² = r
+- C. (x + h)² + (y + k)² = r²
+- D. (x − h) + (y − k) = r²
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 301
+**Subtema:** cónicas · ecuación del círculo
+
+La ecuación de un círculo es (x − h)² + (y − k)² = r².
+
+---
+
+### 63
+
+En relación con el libro de Matemáticas, ¿cuál es la definición de una parábola?
+
+- A. El conjunto de todos los puntos (x, y) en un plano equidistantes de una recta fija, la directriz, y un punto fijo, el foco, que no está en la recta
+- B. El conjunto de todos los puntos equidistantes de un punto fijo llamado centro
+- C. El conjunto de todos los puntos cuya suma de distancias a dos puntos fijos es constante
+- D. El conjunto de todos los puntos (x, y) equidistantes de dos rectas fijas paralelas
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 302
+**Subtema:** parábolas · definición
+
+Una parábola es el conjunto de todos los puntos (x, y) en un plano equidistantes de una recta fija, la directriz, y un punto fijo, el foco, que no está en la recta.
+
+---
+
+### 64
+
+De acuerdo con el libro de Matemáticas, según la definición de parábola, ¿qué es el vértice?
+
+- A. El punto medio entre el foco y la directriz
+- B. El punto donde la parábola cruza el eje x
+- C. El punto fijo llamado foco
+- D. El punto de intersección entre la directriz y el eje
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 302
+**Subtema:** parábolas · vértice
+
+El vértice es el punto medio entre el foco y la directriz.
+
+---
+
+### 65
+
+De conformidad con el libro de Matemáticas, ¿qué es el eje de la parábola?
+
+- A. La recta que pasa por el foco y el vértice
+- B. La recta paralela a la directriz que pasa por el foco
+- C. La recta perpendicular a la directriz que pasa por el origen
+- D. La recta que pasa por el foco y es paralela al eje x
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 302
+**Subtema:** parábolas · eje
+
+El eje de la parábola es la recta que pasa por el foco y el vértice.
+
+---
+
+### 66
+
+En relación con el libro de Matemáticas, ¿cuál es la forma estándar de la ecuación de una parábola con vértice en (h, k) y eje vertical, y cuál es su directriz?
+
+- A. (x − h)² = 4p(y − k), p ≠ 0, con directriz y = k − p
+- B. (y − k)² = 4p(x − h), p ≠ 0, con directriz x = h − p
+- C. (x − h)² = 4p(y − k), p = 0, con directriz y = k − p
+- D. (x + h)² = 4p(y + k), p ≠ 0, con directriz y = k + p
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 302
+**Subtema:** parábolas · ecuación estándar
+
+(x − h)² = 4p(y − k), p ≠ 0. Eje vertical; directriz: y = k − p.
+
+---
+
+### 67
+
+De acuerdo con el libro de Matemáticas, ¿cuál es la forma estándar de la ecuación de una parábola con vértice en (h, k) y eje horizontal, y cuál es su directriz?
+
+- A. (y − k)² = 4p(x − h), p ≠ 0, con directriz x = h − p
+- B. (x − h)² = 4p(y − k), p ≠ 0, con directriz y = k − p
+- C. (y − k)² = 4p(x − h), p ≠ 0, con directriz x = h + p
+- D. (y + k)² = 4p(x + h), p ≠ 0, con directriz x = h − p
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 302
+**Subtema:** parábolas · ecuación estándar
+
+(y − k)² = 4p(x − h), p ≠ 0. Eje horizontal; directriz: x = h − p.
+
+---
+
+### 68
+
+De conformidad con el libro de Matemáticas, si el vértice de la parábola está en el origen, ¿qué forma adopta la ecuación?
+
+- A. x² = 4py (eje vertical) o y² = 4px (eje horizontal)
+- B. x² = 4py (eje horizontal) o y² = 4px (eje vertical)
+- C. x² = py² (eje vertical) o y² = px² (eje horizontal)
+- D. x² = 4p (eje vertical) o y² = 4p (eje horizontal)
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 302
+**Subtema:** parábolas · ecuación con vértice en el origen
+
+Si el vértice está en el origen, la ecuación adopta una de dos formas: x² = 4py (eje vertical) o y² = 4px (eje horizontal).
+
+---
+
+### 69
+
+En relación con el libro de Matemáticas, ¿dónde se ubica el foco de una parábola respecto al vértice?
+
+- A. En el eje, a p unidades (distancia dirigida) del vértice
+- B. En la directriz, a p unidades del vértice
+- C. En el eje, a 2p unidades del vértice
+- D. En el punto medio entre el vértice y la directriz
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 302
+**Subtema:** parábolas · ubicación del foco
+
+El foco se ubica en el eje a p unidades (distancia dirigida) del vértice.
+
+---
+
+### 70
+
+De acuerdo con el libro de Matemáticas, ¿qué es una cuerda focal de una parábola?
+
+- A. Un segmento de recta que pasa por el foco de una parábola y tiene puntos terminales en la parábola
+- B. Un segmento de recta que pasa por el vértice y es perpendicular al eje
+- C. La recta tangente a la parábola en el foco
+- D. Un segmento de recta que une el foco con la directriz
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 304
+**Subtema:** parábolas · cuerda focal
+
+Un segmento de recta que pasa por el foco de una parábola y tiene puntos terminales en la parábola es una cuerda focal.
+
+---
+
+### 71
+
+De conformidad con el libro de Matemáticas, ¿cómo se llama la cuerda focal perpendicular al eje de la parábola?
+
+- A. Latus rectum (lado recto)
+- B. Directriz
+- C. Cuerda principal
+- D. Eje focal
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 304
+**Subtema:** parábolas · latus rectum
+
+La cuerda focal perpendicular al eje de la parábola se llama latus rectum (lado recto).
+
+---
+
+### 72
+
+En relación con el libro de Matemáticas, ¿qué propiedad tiene la superficie de un reflector parabólico respecto a los rayos entrantes paralelos al eje?
+
+- A. Todos los rayos entrantes paralelos al eje se reflejan por el foco de la parábola
+- B. Todos los rayos entrantes paralelos al eje se reflejan por el vértice de la parábola
+- C. Todos los rayos entrantes paralelos al eje se dispersan sin converger
+- D. Todos los rayos entrantes paralelos al eje se reflejan por la directriz
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 304
+**Subtema:** parábolas · reflector parabólico
+
+La superficie resultante tiene la propiedad de que todos los rayos entrantes paralelos al eje se reflejan por el foco de la parábola.
+
+---
+
+### 73
+
+De acuerdo con el libro de Matemáticas, ¿cuándo una recta es tangente a una parábola en un punto?
+
+- A. Cuando la recta interseca, pero no cruza, la parábola en ese punto
+- B. Cuando la recta cruza la parábola exactamente en dos puntos
+- C. Cuando la recta es paralela al eje de la parábola
+- D. Cuando la recta pasa por el foco y el vértice a la vez
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 304
+**Subtema:** parábolas · recta tangente
+
+Una recta es tangente a una parábola en un punto cuando la recta interseca, pero no cruza, la parábola en ese punto.
+
+---
+
+### 74
+
+De conformidad con el libro de Matemáticas, según la propiedad de reflexión de una parábola, ¿con qué dos rectas hace ángulos iguales la tangente en el punto P?
+
+- A. La recta que pasa por P y el foco, y el eje de la parábola
+- B. La recta que pasa por P y el vértice, y la directriz
+- C. La recta que pasa por P y el foco, y la directriz
+- D. El eje de la parábola y la directriz
+
+**Respuesta:** A
+**Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 304
+**Subtema:** parábolas · propiedad de reflexión
+
+La tangente de una parábola en el punto P hace ángulos iguales con las dos rectas siguientes: la recta que pasa por P y el foco, y el eje de la parábola.
 
 ---
