@@ -168,17 +168,40 @@ reactivos — el teorema en sí (el enunciado "Sea f(x)=... entonces f'(x)=...")
   potencia combinada con la regla de la cadena** (si f(x) = u^n, entonces
   f'(x) = n·u^(n−1)·u'). **Fuera:** los *Ejemplos* con su Solución y las Actividades
   de aprendizaje.
+- Cubierto el cierre de la página impresa **123** (exercise bank de 3.3, sin reactivo)
+  y el arranque de la **124**, que **abre 3.4 Fórmulas trigonométricas, exponenciales
+  y logarítmicas**: **nada nuevo** — la sección reabre repitiendo la derivada del
+  seno (chain rule y prosa) **exactamente igual** a como ya se cubrió en la p.110
+  (reactivos 154-155); no se duplica.
+- **La página impresa 125 tampoco dio reactivo**, por la misma razón: repite la
+  derivada del coseno **exactamente igual** a la p.111 (reactivos 156-158).
+- Cubierta la página impresa **126**: la **derivada de la función tangente**, sólo en
+  prosa (y = tan *u* → y' = *u*' sec² *u*, sin forma simbólica boxeada esta vez).
+  **Fuera:** los *Ejemplos* con su Solución y los bancos de ejercicios.
+- Cubierto el arranque de la página impresa **127**: la **derivada de la función
+  cotangente**, en su caso básico (y = cot x → y' = −csc² x) y generalizada por regla
+  de la cadena (y = cot *u* → y' = −*u*' csc² *u*). **Fuera:** el resto de *Ejemplos*
+  y ejercicios.
+- Cubierto el arranque de la página impresa **128**: la **derivada de la función
+  secante**, básica (y = sec x → y' = tan x sec x) y generalizada (y = sec *u* →
+  y' = *u*' sec *u* tan *u*). **Fuera:** el resto de *Ejemplos* y ejercicios.
+- Cubierto el arranque de la página impresa **129**: la **derivada de la función
+  cosecante**, básica (y = csc x → y' = −csc x cot x) y generalizada (y = csc *u* →
+  y' = −*u*' csc *u* cot *u*). Con esto quedan las **seis funciones trigonométricas
+  directas completas**. **Fuera:** el resto de *Ejemplos* y los bancos de ejercicios,
+  incluidos los "ejercicios combinados".
 
-**Pendiente:** EN CURSO. Cubierto el **3.1 y 3.2 completos** (pp. 105-112) y el
-arranque del **3.3** hasta la **p.123** (potencia con coeficiente, regla de la cadena
-y su combinación con la potencia). Sigue desde la **p.124** con lo que reste de **3.3**
-si lo hay, y luego **3.4 Fórmulas trigonométricas, exponenciales y logarítmicas**
-(p.124), **3.5 Criterios de comportamiento** (p.159), **3.6 Notaciones** (p.178) y
-**3.7 Diferencial** (p.178), hasta cerrar la Unidad 3 — y la materia completa de
-Cálculo para la EMT — antes de la p.188 (arranca la Unidad 4, La integral, que el
-temario NO pide). **Antes de tocar este archivo, corre la regla del punto de
-continuación de CLAUDE.md** —esta Unidad es materia nueva y este archivo es el único
-que sostiene su pendiente.
+**Pendiente:** EN CURSO. Cubierto el **3.1, 3.2 y 3.3 completos** (pp. 105-123) y del
+**3.4**, las **seis funciones trigonométricas directas** (sen, cos, tan, cot, sec,
+csc — pp. 124-129). Sigue desde donde termine la página 129 con las **funciones
+trigonométricas inversas** (arcoseno, arcocoseno, arcotangente, etc.), que el título
+de 3.4 anuncia y todavía no aparecen, y con las fórmulas exponenciales y logarítmicas
+en base distinta de *e* (la base *e* y ln ya se cubrieron en 3.2). Después **3.5
+Criterios de comportamiento** (p.159), **3.6 Notaciones** (p.178) y **3.7 Diferencial**
+(p.178), hasta cerrar la Unidad 3 — y la materia completa de Cálculo para la EMT —
+antes de la p.188 (arranca la Unidad 4, La integral, que el temario NO pide). **Antes
+de tocar este archivo, corre la regla del punto de continuación de CLAUDE.md** —esta
+Unidad es materia nueva y este archivo es el único que sostiene su pendiente.
 
 ---
 
@@ -680,3 +703,112 @@ Conforme al libro de Cálculo, al combinar la regla de la cadena con la regla de
 **Subtema:** Derivada de una composición de funciones · Regla de la potencia combinada
 
 "Otra forma de expresarlo es: si f(x) = u^n, entonces f'(x) = nu^(n − 1)u'."
+
+---
+
+## Sub-lote 4 · Las seis funciones trigonométricas directas (3.4, pp. 126-129)
+
+### 167
+
+De acuerdo con el libro de Cálculo, ¿a qué es igual la derivada de la tangente de una función?
+
+- A. Al producto de la derivada de la función por la secante de la función elevada al cuadrado
+- B. Al producto de la derivada de la función por la cosecante de la función elevada al cuadrado
+- C. A menos el producto de la derivada de la función por la secante de la función elevada al cuadrado
+- D. Al cociente de la derivada de la función entre la secante de la función
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 126
+**Subtema:** Fórmulas para derivar funciones trigonométricas · Derivada de la tangente
+
+"La derivada de la tangente de una función es igual al producto de la derivada de la función por la secante de la función elevada al cuadrado."
+
+### 168
+
+Conforme al libro de Cálculo, si y = cot x, ¿cuánto vale dy/dx?
+
+- A. −csc² x
+- B. csc² x
+- C. −sec² x
+- D. −csc x cot x
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 127
+**Subtema:** Fórmulas para derivar funciones trigonométricas · Derivada de la cotangente
+
+"Sea la función y = cot x, la derivada de la función cotangente es igual a menos el cuadrado de la función cosecante. [...] dy/dx = −csc² x"
+
+### 169
+
+De acuerdo con el libro de Cálculo, en general, si y = cot u (con u = f(x)), ¿cuánto vale y'?
+
+- A. −u' csc² u
+- B. u' csc² u
+- C. −u' sec² u
+- D. −u' csc u cot u
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 127
+**Subtema:** Fórmulas para derivar funciones trigonométricas · Derivada de la cotangente, regla de la cadena
+
+"En general, si y = cot u, siendo u = f(x) tendremos y' = −u' csc² u."
+
+### 170
+
+Conforme al libro de Cálculo, si y = sec x, ¿a qué es igual y'?
+
+- A. tan x sec x
+- B. −tan x sec x
+- C. csc x cot x
+- D. sec² x
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 128
+**Subtema:** Fórmulas para derivar funciones trigonométricas · Derivada de la secante
+
+"Sea la función y = sec x, la derivada de la función secante es igual al producto de la tangente de la función por la secante de la función: y' = tan x sec x"
+
+### 171
+
+De acuerdo con el libro de Cálculo, en general, si y = sec u (con u una función de x), ¿cuánto vale y'?
+
+- A. u' sec u tan u
+- B. −u' sec u tan u
+- C. u' sec² u
+- D. u' csc u cot u
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 128
+**Subtema:** Fórmulas para derivar funciones trigonométricas · Derivada de la secante, regla de la cadena
+
+"En general se tiene, si u es una función de x, entonces la función y = sec u, tiene como derivada: y' = u' sec u tan u"
+
+### 172
+
+Conforme al libro de Cálculo, si y = csc x, ¿a qué es igual y'?
+
+- A. −csc x cot x
+- B. csc x cot x
+- C. −sec x tan x
+- D. −csc² x
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 129
+**Subtema:** Fórmulas para derivar funciones trigonométricas · Derivada de la cosecante
+
+"Sea la función y = csc x, la derivada de la función cosecante es igual a menos el producto de la cotangente de la función por la cosecante de la función: y' = − csc x cot x"
+
+### 173
+
+De acuerdo con el libro de Cálculo, en general, si y = csc u (con u una función de x), ¿cuánto vale y'?
+
+- A. −u' csc u cot u
+- B. u' csc u cot u
+- C. −u' sec u tan u
+- D. −u' csc² u
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 129
+**Subtema:** Fórmulas para derivar funciones trigonométricas · Derivada de la cosecante, regla de la cadena
+
+"En general, si u es una función de x, entonces la función y = csc u, tiene como derivada: y' = −u' csc u cot u"
