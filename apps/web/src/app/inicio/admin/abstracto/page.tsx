@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
 import { AlertCircle, ArrowLeft, ArrowRight, Check, Loader2 } from 'lucide-react'
@@ -23,6 +23,10 @@ const TODAS_LAS_LETRAS = ['A', 'B', 'C', 'D', 'E'] as const
 
 type Reactivo = {
   id: number
+  /** El TÍTULO que se lee arriba de la imagen ("¿Cuál elemento sigue en la
+   *  sucesión?"). Se escribe aquí; sin él, el aspirante ve la imagen sin saber
+   *  qué se le pregunta. */
+  enunciado: string
   opciones: unknown
   respuestaCorrecta: string | null
   imagenUrl: string | null
@@ -44,6 +48,10 @@ export default function ClavesAbstractoPage() {
   const [cargando, setCargando] = useState(true)
   const [error, setError] = useState('')
   const [guardando, setGuardando] = useState(false)
+  // Estado del guardado del título: se escribe seguido, así que se guarda solo
+  // 800 ms después de la última tecla en vez de en cada letra.
+  const [tituloEstado, setTituloEstado] = useState<'idle' | 'guardando' | 'guardado'>('idle')
+  const temporizadorTitulo = useRef<ReturnType<typeof setTimeout> | null>(null)
 
   useEffect(() => {
     apiFetch<RespuestaLista>(
@@ -66,11 +74,56 @@ export default function ClavesAbstractoPage() {
     () => reactivos.filter((r) => r.respuestaCorrecta).length,
     [reactivos],
   )
+  const conTitulo = useMemo(
+    () => reactivos.filter((r) => (r.enunciado ?? '').trim().length > 0).length,
+    [reactivos],
+  )
 
   function irA(i: number) {
     setError('')
+    setTituloEstado('idle')
     setIdx(Math.max(0, Math.min(i, total - 1)))
   }
+
+  /**
+   * Guarda el TÍTULO del reactivo actual (campo `enunciado`).
+   *
+   * Escribe en el estado local al instante —para que el campo no se sienta
+   * trabado— y manda el PATCH 800 ms después de la última tecla. Si se cambia de
+   * reactivo antes de que salga, el temporizador se cancela en el efecto de
+   * limpieza y NO se guarda el texto de un reactivo sobre otro.
+   */
+  function escribirTitulo(texto: string) {
+    if (!actual) return
+    const id = actual.id
+    setReactivos((prev) =>
+      prev.map((r) => (r.id === id ? { ...r, enunciado: texto } : r)),
+    )
+    setTituloEstado('guardando')
+
+    if (temporizadorTitulo.current) clearTimeout(temporizadorTitulo.current)
+    temporizadorTitulo.current = setTimeout(() => {
+      apiFetch(`/reactivos/${id}`, {
+        method: 'PATCH',
+        body: { enunciado: texto },
+      })
+        .then(() => {
+          setTituloEstado('guardado')
+          setTimeout(() => setTituloEstado('idle'), 1500)
+        })
+        .catch((e: Error) => {
+          setTituloEstado('idle')
+          setError(`No se pudo guardar el título: ${e.message}`)
+        })
+    }, 800)
+  }
+
+  // Al desmontar, corta cualquier guardado en vuelo.
+  useEffect(() => {
+    return () => {
+      if (temporizadorTitulo.current) clearTimeout(temporizadorTitulo.current)
+    }
+  }, [])
 
   /** Guarda la letra como respuesta correcta del reactivo actual. */
   async function guardar(letra: string) {
@@ -187,6 +240,20 @@ export default function ClavesAbstractoPage() {
         </span>
       </div>
 
+      {/* Segundo avance: los títulos. Se lleva aparte del de claves porque son
+          dos trabajos distintos y uno puede ir muy adelantado del otro. */}
+      <div className="mb-4 flex items-center gap-3">
+        <div className="h-2 flex-1 overflow-hidden rounded-full bg-muted">
+          <div
+            className="h-full rounded-full bg-accent transition-all"
+            style={{ width: `${(conTitulo / total) * 100}%` }}
+          />
+        </div>
+        <span className="shrink-0 text-xs font-semibold tabular-nums text-muted-foreground">
+          {conTitulo} / {total} con título
+        </span>
+      </div>
+
       {/* Mapa de reactivos — clic para saltar; verde = ya tiene clave */}
       <div className="mb-5 flex flex-wrap gap-1.5">
         {reactivos.map((r, i) => (
@@ -223,6 +290,42 @@ export default function ClavesAbstractoPage() {
             <span className="rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium text-muted-foreground">
               Sin clave
             </span>
+          )}
+        </div>
+
+        {/* Título del reactivo — va ARRIBA de la imagen porque es el orden en
+            que lo lee el aspirante: primero qué se le pregunta, luego la figura. */}
+        <div className="mb-4">
+          <div className="mb-1.5 flex items-center justify-between gap-3">
+            <label
+              htmlFor="titulo-reactivo"
+              className="text-xs font-medium text-muted-foreground"
+            >
+              Título · lo que se lee arriba de la imagen
+            </label>
+            {tituloEstado === 'guardando' && (
+              <span className="flex items-center gap-1 text-[11px] text-muted-foreground">
+                <Loader2 className="h-3 w-3 animate-spin" /> Guardando…
+              </span>
+            )}
+            {tituloEstado === 'guardado' && (
+              <span className="flex items-center gap-1 text-[11px] font-medium text-military">
+                <Check className="h-3 w-3" /> Guardado
+              </span>
+            )}
+          </div>
+          <input
+            id="titulo-reactivo"
+            type="text"
+            value={actual.enunciado ?? ''}
+            onChange={(e) => escribirTitulo(e.target.value)}
+            placeholder="¿Cuál elemento sigue en la sucesión?"
+            className="w-full rounded-lg border border-border bg-background px-3 py-2.5 text-sm text-foreground outline-none placeholder:text-muted-foreground/60 focus:border-accent"
+          />
+          {!actual.enunciado && (
+            <p className="mt-1.5 text-[11px] text-muted-foreground">
+              Sin título, el aspirante ve la imagen sin saber qué se le pregunta.
+            </p>
           )}
         </div>
 
