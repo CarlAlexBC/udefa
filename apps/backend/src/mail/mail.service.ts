@@ -24,6 +24,16 @@ export class MailService {
   private readonly from =
     process.env.MAIL_FROM ?? 'El Monote te Guía <onboarding@resend.dev>';
 
+  /**
+   * ¿Este servidor puede mandar correo DE VERDAD, o está en modo consola?
+   * Lo pregunta PagosService: si el correo no sale, no puede obligar al
+   * comprador a definir su contraseña por correo — lo dejaría fuera de una
+   * cuenta que acaba de pagar.
+   */
+  puedeEnviar(): boolean {
+    return this.resend !== null;
+  }
+
   async enviar(opts: { to: string; subject: string; html: string }) {
     // Sin llave → modo consola: no se manda, solo se registra para verlo en dev.
     if (!this.resend) {
@@ -94,8 +104,17 @@ export class MailService {
     paqueteTitulo: string;
     precio: number;
     ciclo: string;
+    /**
+     * Sólo en el flujo "datos y luego pagar": enlace para DEFINIR la contraseña.
+     * Cuando viene, la contraseña tecleada en el formulario de compra ya quedó
+     * anulada y este enlace es la única forma de entrar — así la cuenta pagada
+     * es de quien controla el correo, no de quien llenó el formulario.
+     */
+    definirPasswordLink?: string;
   }) {
-    const entrar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/login`;
+    const entrar =
+      opts.definirPasswordLink ??
+      `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/login`;
     const precioTxt = `$${opts.precio.toLocaleString('es-MX')} MXN`;
     const html = `
     <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
@@ -111,11 +130,15 @@ export class MailService {
       </div>
       <p style="margin:24px 0;">
         <a href="${entrar}" style="background:#C99A3B; color:#161513; text-decoration:none; font-weight:bold; padding:12px 20px; border-radius:8px; display:inline-block;">
-          Entrar a mi cuenta
+          ${opts.definirPasswordLink ? 'Definir mi contraseña y entrar' : 'Entrar a mi cuenta'}
         </a>
       </p>
       <p style="font-size:13px; color:#9A9382; line-height:1.6; margin:0;">
-        Inicia sesión con el correo y la contraseña que registraste al comprar.
+        ${
+          opts.definirPasswordLink
+            ? 'Por seguridad, la contraseña de tu cuenta se define desde este botón, no desde el formulario de compra. El enlace es tuyo y vence en 7 días; si se te pasa, usa «Olvidé mi contraseña» con este mismo correo.'
+            : 'Inicia sesión con el correo y la contraseña que registraste al comprar.'
+        }
       </p>
     </div>`;
     return this.enviar({

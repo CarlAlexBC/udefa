@@ -8,6 +8,7 @@ import { MercadoPagoConfig, Preference, Payment } from 'mercadopago';
 import { AccesoService } from '../acceso/acceso.service';
 import { UsuariosService } from '../usuarios/usuarios.service';
 import { MailService } from '../mail/mail.service';
+import { AuthService } from '../auth/auth.service';
 
 /** Convocatoria vigente y hasta cuándo dura el acceso comprado. Ajustable. */
 const CICLO = '2027';
@@ -49,6 +50,7 @@ export class PagosService {
     private acceso: AccesoService,
     private usuarios: UsuariosService,
     private mail: MailService,
+    private auth: AuthService,
   ) {}
 
   private frontendUrl(): string {
@@ -217,6 +219,27 @@ export class PagosService {
     // el correo falla, se registra pero NO se rompe el webhook: el pago ya está
     // procesado y el acceso otorgado.
     if (activacion.recienActivada) {
+      // Cuenta del flujo de invitado: la contraseña del formulario no prueba de
+      // quién es el correo (ver AuthService.prepararDefinicionDePassword), así
+      // que se anula y se manda un enlace para definirla.
+      //
+      // Con UNA excepción: si este servidor no puede mandar correo de verdad
+      // (sin RESEND_API_KEY, modo consola), anular la contraseña dejaría al
+      // comprador fuera de una cuenta que acaba de pagar. En ese caso se
+      // conserva la contraseña del formulario y queda una advertencia gorda.
+      let definirPasswordLink: string | undefined;
+      if (this.mail.puedeEnviar()) {
+        definirPasswordLink = await this.auth.prepararDefinicionDePassword(
+          datos.usuarioId,
+        );
+      } else {
+        this.logger.warn(
+          `Cuenta ${datos.usuarioId} activada SIN el paso de "define tu contraseña": ` +
+            'este servidor no puede enviar correo (falta RESEND_API_KEY). La contraseña ' +
+            'del formulario de compra sigue siendo válida.',
+        );
+      }
+
       try {
         await this.mail.enviarCompraConfirmada({
           to: activacion.email,
@@ -224,11 +247,21 @@ export class PagosService {
           paqueteTitulo: paqueteInfo.titulo,
           precio: paqueteInfo.precio,
           ciclo: datos.ciclo ?? CICLO,
+          definirPasswordLink,
         });
       } catch (e) {
         this.logger.error(
           `Pago ${paymentId} procesado, pero falló el correo de confirmación a ${activacion.email}: ${(e as Error).message}`,
         );
+        if (definirPasswordLink) {
+          // La contraseña YA quedó anulada y el enlace iba en ese correo que no
+          // salió. No se pierde el acceso —"Olvidé mi contraseña" con ese mismo
+          // correo lo devuelve— pero hay que saberlo si el aspirante escribe.
+          this.logger.error(
+            `OJO: ${activacion.email} pagó y su cuenta quedó esperando definir contraseña, ` +
+              'pero el correo con el enlace NO salió. Puede entrar con "Olvidé mi contraseña".',
+          );
+        }
       }
     }
     return true;
