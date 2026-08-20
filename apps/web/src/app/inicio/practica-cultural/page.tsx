@@ -68,10 +68,13 @@ const LONGITUDES = [10, 20, 30]
  *
  * OJO CON EL VOCABULARIO DE COLOR de esta pantalla, que corrige al momento:
  *   · azul  = de qué examen es, y cuál opción elegí (antes de contestar)
- *   · latón = la respuesta correcta
+ *   · verde = la respuesta correcta
  *   · rojo  = la que elegí y estaba mal
- * Antes el avance y la respuesta correcta compartían el latón, o sea el mismo
- * color decía dos cosas. No devuelvas el acento al latón aquí.
+ * El verde significa "correcta" en TODA la app —también en el recuadro "Era"
+ * del panel de resultados y en el ejemplo de las indicaciones— así que aquí
+ * dice lo mismo (decisión de Carlo, 20 ago 2026). Antes era latón, y el latón
+ * ya carga con otro significado: la marca y "esto elegiste". Un color no debe
+ * querer decir dos cosas. NO lo devuelvas al latón.
  */
 const ACENTO = colorDeExamen('cultural', 'claro')
 
@@ -740,7 +743,7 @@ function OpcionPractica({
       className={cn(
         'flex min-h-[64px] items-center gap-4 rounded-lg border p-4 text-left transition-colors',
         esCorrecta
-          ? 'border-accent bg-accent/10'
+          ? 'border-military bg-military/10'
           : esElegidaMal
             ? 'border-destructive/50 bg-destructive/5'
             : contestado
@@ -748,7 +751,7 @@ function OpcionPractica({
               : !esElegida && 'border-border bg-card hover:bg-muted',
       )}
       /* Elegida pero aún sin corregir: va en el color del examen, para no
-         adelantar con el latón (que aquí significa "correcta"). */
+         adelantar con el verde (que aquí significa "correcta"). */
       style={
         !contestado && esElegida
           ? { borderColor: ACENTO.c, backgroundColor: `${ACENTO.c}14` }
@@ -759,7 +762,7 @@ function OpcionPractica({
         className={cn(
           'flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-sm font-semibold',
           esCorrecta
-            ? 'bg-accent text-accent-foreground'
+            ? 'bg-military text-military-foreground'
             : esElegidaMal
               ? 'bg-destructive text-white'
               : 'border border-border bg-muted text-muted-foreground',
@@ -790,7 +793,7 @@ function OpcionPractica({
           contestar, le quitaría ancho al texto en ese momento y lo reacomodaría
           — el mismo brinco por otro camino. Vacío antes de contestar. */}
       <span className="w-[104px] shrink-0 text-right text-xs font-semibold uppercase tracking-widest">
-        {esCorrecta && <span className="text-accent">Correcta</span>}
+        {esCorrecta && <span className="text-military">Correcta</span>}
         {esElegidaMal && <span className="text-destructive">Elegiste esta</span>}
       </span>
     </button>

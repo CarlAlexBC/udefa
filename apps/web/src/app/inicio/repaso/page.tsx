@@ -31,9 +31,11 @@ import {
  *
  * OJO CON EL VOCABULARIO DE COLOR de esta pantalla, que corrige al momento:
  *   · azul  = de qué examen es, y cuál opción elegí (antes de contestar)
- *   · latón = la respuesta correcta
+ *   · verde = la respuesta correcta
  *   · rojo  = la que elegí y estaba mal
- * Antes el avance y la respuesta correcta compartían el latón. No lo devuelvas.
+ * El verde significa "correcta" en TODA la app (panel de resultados, ejemplo de
+ * las indicaciones). Antes aquí era latón, que ya significa marca y "esto
+ * elegiste". NO lo devuelvas al latón.
  */
 const ACENTO = colorDeExamen('cultural', 'claro')
 
@@ -397,7 +399,7 @@ function OpcionRepaso({
       className={cn(
         'flex min-h-[64px] items-center gap-4 rounded-lg border p-4 text-left transition-colors',
         esCorrecta
-          ? 'border-accent bg-accent/10'
+          ? 'border-military bg-military/10'
           : esElegidaMal
             ? 'border-destructive/50 bg-destructive/5'
             : contestado
@@ -405,7 +407,7 @@ function OpcionRepaso({
               : !esElegida && 'border-border bg-card hover:bg-muted',
       )}
       /* Elegida pero aún sin corregir: va en el color del examen, para no
-         adelantar con el latón (que aquí significa "correcta"). */
+         adelantar con el verde (que aquí significa "correcta"). */
       style={
         !contestado && esElegida
           ? { borderColor: ACENTO.c, backgroundColor: `${ACENTO.c}14` }
@@ -416,7 +418,7 @@ function OpcionRepaso({
         className={cn(
           'flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-sm font-semibold',
           esCorrecta
-            ? 'bg-accent text-accent-foreground'
+            ? 'bg-military text-military-foreground'
             : esElegidaMal
               ? 'bg-destructive text-white'
               : 'border border-border bg-muted text-muted-foreground',
@@ -443,7 +445,7 @@ function OpcionRepaso({
       </span>
 
       <span className="w-[104px] shrink-0 text-right text-xs font-semibold uppercase tracking-widest">
-        {esCorrecta && <span className="text-accent">Correcta</span>}
+        {esCorrecta && <span className="text-military">Correcta</span>}
         {esElegidaMal && <span className="text-destructive">Elegiste esta</span>}
       </span>
     </button>

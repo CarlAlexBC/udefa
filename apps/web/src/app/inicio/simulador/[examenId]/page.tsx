@@ -1389,7 +1389,17 @@ function PantallaInstrucciones({
               Si no tiene respuestaCorrecta (autoevaluación), se muestra sin
               opción resaltada; la explicación aclara qué evalúa. */}
           {info?.ejemplo && (
-            <div className="rounded-lg border border-border bg-muted/40 p-5 md:p-6">
+            <div
+              /* La MISMA hoja de plata de la ficha del reactivo en el examen
+                 (ver más arriba). El ejemplo tiene que verse como lo que va a
+                 pasar, y eso incluye el acabado, no sólo las medidas. */
+              className="rounded-2xl border p-5 md:p-6"
+              style={{
+                backgroundImage: HOJA_DE_PLATA_CLARA.fondo,
+                borderColor: HOJA_DE_PLATA_CLARA.borde,
+                boxShadow: HOJA_DE_PLATA_CLARA.sombra,
+              }}
+            >
               <p className="mb-3 text-xs font-semibold uppercase tracking-widest text-accent">
                 {info.ejemplo.respuestaCorrecta ? 'Ejemplo resuelto' : 'Ejemplo de reactivo'}
               </p>
