@@ -3,10 +3,13 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
+import { ModalCuentaPrueba } from '@/components/admin/ModalCuentaPrueba'
+import { ModalBorrarUsuario } from '@/components/admin/ModalBorrarUsuario'
 import {
   AlertCircle,
   Check,
   CheckCircle2,
+  Clock,
   KeyRound,
   Loader2,
   Save,
@@ -89,6 +92,8 @@ export default function UsuariosAdminPage() {
     userNombre: string
   } | null>(null)
   // Usuario cuyo acceso se está gestionando en el modal (null = cerrado).
+  const [creandoPrueba, setCreandoPrueba] = useState(false)
+  const [borrando, setBorrando] = useState<UsuarioAdmin | null>(null)
   const [gestionandoAcceso, setGestionandoAcceso] = useState<UsuarioAdmin | null>(
     null,
   )
@@ -217,7 +222,8 @@ export default function UsuariosAdminPage() {
 
   return (
     <div>
-      <div className="mb-6">
+      <div className="mb-6 flex flex-wrap items-start justify-between gap-3">
+        <div>
         <p className="text-[10px] font-semibold uppercase tracking-widest text-military">
           Administración
         </p>
@@ -228,6 +234,17 @@ export default function UsuariosAdminPage() {
           Aspirantes registrados. Puedes cambiar el plantel al que se preparan y
           promover o degradar el rol. Los cambios se guardan automáticamente.
         </p>
+        </div>
+        {/* Crear una cuenta que sirva un rato — el gancho para que alguien
+            conozca la plataforma por dentro antes de comprar. */}
+        <button
+          type="button"
+          onClick={() => setCreandoPrueba(true)}
+          className="inline-flex shrink-0 items-center gap-1.5 rounded-md bg-accent px-3 py-2 text-xs font-semibold text-accent-foreground transition-opacity hover:opacity-90"
+        >
+          <Clock className="h-3.5 w-3.5" />
+          Cuenta de prueba
+        </button>
       </div>
 
       {/* Búsqueda */}
@@ -375,6 +392,15 @@ export default function UsuariosAdminPage() {
                         <KeyRound className="h-3 w-3" />
                         Gestionar
                       </button>
+                      <button
+                        type="button"
+                        onClick={() => setBorrando(u)}
+                        title={'Borrar ' + u.email}
+                        aria-label={'Borrar ' + u.email}
+                        className="ml-1.5 inline-flex items-center rounded-md border border-transparent p-1.5 text-muted-foreground transition-colors hover:border-destructive/40 hover:text-destructive"
+                      >
+                        <Trash2 className="h-3.5 w-3.5" />
+                      </button>
                     </td>
                     <td className="px-3 py-3 text-right">
                       <IndicadorGuardado
@@ -452,6 +478,37 @@ export default function UsuariosAdminPage() {
       )}
 
       {/* Modal para dar/quitar acceso a los módulos de pago a mano */}
+      {creandoPrueba && (
+        <ModalCuentaPrueba
+          planteles={planteles}
+          onClose={() => setCreandoPrueba(false)}
+          onCreada={() =>
+            apiFetch<RespuestaUsuarios>(`/usuarios?${construirQuery(0)}`)
+              .then((res) => {
+                setUsuarios(res.data)
+                setMeta(res.meta)
+              })
+              .catch(() => {})
+          }
+        />
+      )}
+
+      {borrando && (
+        <ModalBorrarUsuario
+          usuario={{
+            id: borrando.id,
+            nombre: borrando.nombre,
+            email: borrando.email,
+            intentos: borrando._count.intentos,
+          }}
+          onClose={() => setBorrando(null)}
+          onBorrado={(id) => {
+            setUsuarios((prev) => prev.filter((x) => x.id !== id))
+            setMeta((m) => ({ ...m, total: Math.max(0, m.total - 1) }))
+          }}
+        />
+      )}
+
       {gestionandoAcceso && (
         <ModalAcceso
           usuario={gestionandoAcceso}
