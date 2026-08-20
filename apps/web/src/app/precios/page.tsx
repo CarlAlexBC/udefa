@@ -8,6 +8,7 @@ import {
   COLOR_DE_MODULO,
   type TonoPaquete,
 } from '@/lib/colores-paquete'
+import { Revelar } from '@/components/landing/Revelar'
 import { BotonPaquete } from './BotonPaquete'
 import {
   BadgeCheck,
@@ -83,7 +84,7 @@ export default function PreciosPage() {
       {/* ═══════════════════════════════════════════════════════════
           HERO — tesis + callout de convocatoria
           ═══════════════════════════════════════════════════════════ */}
-      <section className="mx-auto max-w-6xl px-6 pt-12 pb-8">
+      <section className="mx-auto max-w-6xl px-6 pb-12 pt-14 md:pb-16 md:pt-20">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-[1.6fr_1fr] md:items-center">
           {/* Texto + convocatoria */}
           <div className="order-2 md:order-1">
@@ -176,8 +177,8 @@ export default function PreciosPage() {
       {/* ═══════════════════════════════════════════════════════════
           PAQUETES
           ═══════════════════════════════════════════════════════════ */}
-      <section className="mx-auto max-w-6xl px-6 pb-4">
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+      <section className="mx-auto max-w-6xl px-6 pb-8 md:pb-12">
+        <Revelar className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {/* EXPLORA */}
           <Paquete
             icono={<Compass className="h-6 w-6" />}
@@ -262,14 +263,14 @@ export default function PreciosPage() {
               'Soporte por correo',
             ]}
           />
-        </div>
+        </Revelar>
       </section>
 
       {/* ═══════════════════════════════════════════════════════════
           TIRA DE CONFIANZA
           ═══════════════════════════════════════════════════════════ */}
-      <section className="mx-auto max-w-6xl px-6 py-8">
-        <div className="grid grid-cols-1 gap-6 rounded-xl border border-border bg-card p-6 sm:grid-cols-2 lg:grid-cols-4">
+      <section className="mx-auto max-w-6xl px-6 py-12 md:py-20">
+        <Revelar className="grid grid-cols-1 gap-6 rounded-xl border border-border bg-card p-6 sm:grid-cols-2 lg:grid-cols-4">
           <Beneficio
             icono={<RefreshCw className="h-5 w-5" />}
             color={COLOR.verde}
@@ -294,20 +295,20 @@ export default function PreciosPage() {
             titulo="Soporte humano"
             texto="Te ayudamos cuando lo necesites."
           />
-        </div>
+        </Revelar>
       </section>
 
       {/* ═══════════════════════════════════════════════════════════
           PROCESO DE ADMISIÓN — línea del tiempo
           ═══════════════════════════════════════════════════════════ */}
-      <section className="mx-auto max-w-6xl px-6 py-8">
-        <div className="mb-6">
+      <section className="mx-auto max-w-6xl px-6 py-12 md:py-20">
+        <Revelar className="mb-6">
           <div className="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-widest text-accent">
             <span className="h-px w-5 bg-accent" />
             Así es el proceso de admisión
           </div>
-        </div>
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        </Revelar>
+        <Revelar retraso={80} className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <Etapa
             icono={<Calendar className="h-5 w-5" />}
             color={COLOR.verde}
@@ -336,14 +337,14 @@ export default function PreciosPage() {
             titulo="Resultados"
             texto="Si no fuiste apto, empieza hoy tu preparación para la siguiente convocatoria."
           />
-        </div>
+        </Revelar>
       </section>
 
       {/* ═══════════════════════════════════════════════════════════
           PAGO
           ═══════════════════════════════════════════════════════════ */}
-      <section className="mx-auto max-w-6xl px-6 pb-14 pt-4">
-        <div className="flex flex-col items-center gap-4 text-center">
+      <section className="mx-auto max-w-6xl px-6 pb-20 pt-8 md:pb-24">
+        <Revelar className="flex flex-col items-center gap-4 text-center">
           <p className="text-sm text-muted-foreground">
             <span className="font-semibold text-foreground">
               Pago seguro con Mercado Pago
@@ -368,7 +369,7 @@ export default function PreciosPage() {
             ))}
             <span className="text-xs text-muted-foreground">y más</span>
           </div>
-        </div>
+        </Revelar>
       </section>
 
       <SiteFooter />
