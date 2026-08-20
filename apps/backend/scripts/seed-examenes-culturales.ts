@@ -33,6 +33,7 @@ const PLANTELES: Array<{ nombre: string; codigo: string }> = [
   { nombre: 'Escuela Militar de Materiales de Guerra', codigo: 'EMMG' },
   { nombre: 'Escuela Militar de Mantenimiento y Abastecimiento', codigo: 'EMMA' },
   { nombre: 'Escuela Militar de Especialistas de Fuerza Aérea', codigo: 'EMEFA' },
+  { nombre: 'Escuela Militar de Transmisiones', codigo: 'EMT' },
 ];
 
 async function main() {

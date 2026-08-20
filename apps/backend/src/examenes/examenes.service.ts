@@ -190,6 +190,7 @@ export class ExamenesService {
     'Escuela Militar de Materiales de Guerra': 'EMMG',
     'Escuela Militar de Mantenimiento y Abastecimiento': 'EMMA',
     'Escuela Militar de Especialistas de Fuerza Aérea': 'EMEFA',
+    'Escuela Militar de Transmisiones': 'EMT',
   };
 
   async armarExamen(examenId: number, usuarioId?: number) {

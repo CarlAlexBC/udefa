@@ -299,9 +299,14 @@ function validar(archivos: ArchivoParsed[]): string[] {
 
   for (const a of archivos) {
     const nums = a.reactivos.map((r) => r.numero).sort((x, y) => x - y);
+    // No todos los libros arrancan en 1: Cálculo (Salazar) numera de forma
+    // continua entre los archivos de sus Unidades a propósito (Unidad 2 sigue
+    // en 108, Unidad 3 en 135) para que no se dupliquen entre archivos. Lo que
+    // importa es que dentro del archivo no haya huecos ni duplicados, no en
+    // qué número arranca.
     for (let i = 0; i < nums.length; i++) {
-      if (nums[i] !== i + 1) {
-        problemas.push(`${a.archivo}: numeración rota — se esperaba ${i + 1} y hay ${nums[i]}`);
+      if (nums[i] !== nums[0] + i) {
+        problemas.push(`${a.archivo}: numeración rota — se esperaba ${nums[0] + i} y hay ${nums[i]}`);
         break;
       }
     }
