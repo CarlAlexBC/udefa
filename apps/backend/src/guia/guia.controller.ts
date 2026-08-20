@@ -10,6 +10,8 @@ import {
 import { GuiaService } from './guia.service';
 import { MarcarLeidaDto, MarcarVariasDto } from './dto/marcar-leida.dto';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
+import { CandadoGuard } from '../acceso/candado.guard';
+import { Modulo } from '../acceso/modulo.decorator';
 import {
   UsuarioActual,
   type UsuarioAutenticado,
@@ -20,8 +22,17 @@ import {
  *
  * Todo va por el usuario de la sesión: nunca se recibe un usuarioId por
  * parámetro, así que nadie puede leer ni tocar el avance de otro.
+ *
+ * La Guía es contenido de PAGO y va incluida en Psicológico y Completa (mismo
+ * criterio que GuardiaGuia en el frontend), así que el avance queda detrás del
+ * candado del módulo 'psicologico'.
+ *
+ * OJO — esto cierra el AVANCE, no el texto de la Guía: las 57 secciones son
+ * archivos del frontend y nunca pasan por el backend. Mientras siga así, el
+ * candado de la Guía es a nivel de interfaz. Ver la nota en GuardiaGuia.
  */
-@UseGuards(JwtAuthGuard)
+@UseGuards(JwtAuthGuard, CandadoGuard)
+@Modulo('psicologico')
 @Controller('guia')
 export class GuiaController {
   constructor(private guiaService: GuiaService) {}
