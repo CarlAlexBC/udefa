@@ -1,4 +1,4 @@
-import { Injectable, Logger } from '@nestjs/common';
+import { Injectable, Logger, OnModuleInit } from '@nestjs/common';
 import { Resend } from 'resend';
 
 /**
@@ -14,8 +14,28 @@ import { Resend } from 'resend';
  * HTML y llama a `enviar()`.
  */
 @Injectable()
-export class MailService {
+export class MailService implements OnModuleInit {
   private readonly logger = new Logger(MailService.name);
+
+  /**
+   * Avisa AL ARRANCAR si el correo no va a salir.
+   *
+   * Antes esto sólo se sabía cuando alguien intentaba mandar un correo, o sea
+   * cuando ya era tarde: el aviso quedaba enterrado entre los registros del día.
+   * Y el modo consola falla en silencio del lado del cliente — el aspirante paga
+   * y no le llega nada. Que se vea al levantar el servidor.
+   */
+  onModuleInit() {
+    if (this.resend) {
+      this.logger.log(`Correo ACTIVO. Remitente: ${this.from}`);
+      return;
+    }
+    this.logger.warn(
+      'Correo en MODO CONSOLA: falta RESEND_API_KEY, así que NO se enviará ' +
+        'ningún correo (ni recibo de compra, ni recuperar contraseña). ' +
+        'En producción esto deja al comprador sin su acceso.',
+    );
+  }
 
   private readonly resend = process.env.RESEND_API_KEY
     ? new Resend(process.env.RESEND_API_KEY)
