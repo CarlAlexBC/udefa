@@ -2,7 +2,6 @@ import Image from 'next/image'
 import { HeaderPrivado } from '../HeaderPrivado'
 import { GuardiaGuia } from '@/components/guia/GuardiaGuia'
 import { FondoGuia } from '@/components/guia/FondoGuia'
-import { Revelar } from '@/components/landing/Revelar'
 import { MosaicoCapitulos } from '@/components/guia/MosaicoCapitulos'
 import { AvanceGlobalGuia } from '@/components/guia/AvanceGlobalGuia'
 import { SECCIONES_ONLINE } from '@/lib/guia-index'
@@ -72,9 +71,7 @@ export default function IndiceGuiaPage() {
               </div>
 
               {/* Los 9 capítulos */}
-              <Revelar>
-                <MosaicoCapitulos />
-              </Revelar>
+              <MosaicoCapitulos />
 
               <p className="mt-6 text-xs leading-relaxed text-[#8A8579]">
                 Cada sección incluye marco psicológico, mecánica del examen,

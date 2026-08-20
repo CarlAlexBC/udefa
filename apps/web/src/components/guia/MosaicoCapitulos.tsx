@@ -20,8 +20,10 @@ export function MosaicoCapitulos() {
   const { leidas, cargando } = useProgresoGuia()
 
   return (
-    <div className="mt-6 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
-      {CAPITULOS_GUIA.map((capitulo) => {
+    /* `cascada`: las tarjetas entran una tras otra, no todas de golpe. El
+       retraso de cada una sale de `--paso` (ver globals.css). */
+    <div className="cascada mt-6 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
+      {CAPITULOS_GUIA.map((capitulo, indice) => {
         const total = capitulo.secciones.length
         const leidasAqui = capitulo.secciones.filter(
           (s) => s.slug && leidas.has(s.slug),
@@ -32,6 +34,7 @@ export function MosaicoCapitulos() {
           <Link
             key={capitulo.numero}
             href={`/inicio/guia/capitulo/${capitulo.numero}`}
+            style={{ '--paso': indice } as React.CSSProperties}
             className="group flex flex-col gap-1.5 rounded-2xl border border-[#C99A3B]/15 bg-white/[0.02] p-4 transition-colors hover:border-[#C99A3B]/55 hover:bg-white/[0.04]"
           >
             <span className="text-[0.65rem] font-semibold uppercase tracking-[0.2em] tabular-nums text-[#C99A3B]">

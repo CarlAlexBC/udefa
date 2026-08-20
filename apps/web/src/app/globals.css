@@ -206,3 +206,37 @@
     @apply font-sans;
   }
 }
+
+/*
+ * Entrada en cascada — las tarjetas del mosaico de la Guía entran una tras otra
+ * en vez de aparecer todas de golpe.
+ *
+ * Va en CSS y no en JavaScript a propósito: así la primera pintura ya trae el
+ * gesto, sin esperar a que hidrate nada.
+ *
+ * Red de seguridad: el estado invisible vive SÓLO dentro de la animación
+ * (`from`) y se aplica con `backwards`, que lo usa nada más durante el retraso.
+ * Si el navegador no ejecuta animaciones, la tarjeta simplemente se ve — nunca
+ * se queda en blanco, que es el riesgo de esconder por defecto.
+ *
+ * Sólo anima opacidad y desplazamiento: no recalcula el layout, así que la
+ * rejilla no se mueve mientras entra.
+ */
+@keyframes entrar-en-cascada {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+}
+
+.cascada > * {
+  animation: entrar-en-cascada 500ms cubic-bezier(0.2, 0.8, 0.2, 1) backwards;
+  animation-delay: calc(var(--paso, 0) * 60ms);
+}
+
+/* Quien pidió menos movimiento en su sistema no ve nada de esto. */
+@media (prefers-reduced-motion: reduce) {
+  .cascada > * {
+    animation: none;
+  }
+}
