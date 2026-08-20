@@ -17,26 +17,6 @@ import { Resend } from 'resend';
 export class MailService implements OnModuleInit {
   private readonly logger = new Logger(MailService.name);
 
-  /**
-   * Avisa AL ARRANCAR si el correo no va a salir.
-   *
-   * Antes esto sólo se sabía cuando alguien intentaba mandar un correo, o sea
-   * cuando ya era tarde: el aviso quedaba enterrado entre los registros del día.
-   * Y el modo consola falla en silencio del lado del cliente — el aspirante paga
-   * y no le llega nada. Que se vea al levantar el servidor.
-   */
-  onModuleInit() {
-    if (this.resend) {
-      this.logger.log(`Correo ACTIVO. Remitente: ${this.from}`);
-      return;
-    }
-    this.logger.warn(
-      'Correo en MODO CONSOLA: falta RESEND_API_KEY, así que NO se enviará ' +
-        'ningún correo (ni recibo de compra, ni recuperar contraseña). ' +
-        'En producción esto deja al comprador sin su acceso.',
-    );
-  }
-
   private readonly resend = process.env.RESEND_API_KEY
     ? new Resend(process.env.RESEND_API_KEY)
     : null;
@@ -45,13 +25,22 @@ export class MailService implements OnModuleInit {
     process.env.MAIL_FROM ?? 'El Monote te Guía <onboarding@resend.dev>';
 
   /**
-   * ¿Este servidor puede mandar correo DE VERDAD, o está en modo consola?
-   * Lo pregunta PagosService: si el correo no sale, no puede obligar al
-   * comprador a definir su contraseña por correo — lo dejaría fuera de una
-   * cuenta que acaba de pagar.
+   * Avisa AL ARRANCAR si el correo no va a salir.
+   *
+   * Antes esto sólo se sabía cuando alguien intentaba mandar un correo, o sea
+   * cuando ya era tarde: el aviso quedaba enterrado entre los registros del día.
+   * Y el modo consola falla en silencio del lado del cliente — el aspirante paga
+   * y no le llega el recibo. Que se vea al levantar el servidor.
    */
-  puedeEnviar(): boolean {
-    return this.resend !== null;
+  onModuleInit() {
+    if (this.resend) {
+      this.logger.log(`Correo ACTIVO. Remitente: ${this.from}`);
+      return;
+    }
+    this.logger.warn(
+      'Correo en MODO CONSOLA: falta RESEND_API_KEY, así que NO se enviará ' +
+        'ningún correo (ni recibo de compra, ni recuperar contraseña).',
+    );
   }
 
   async enviar(opts: { to: string; subject: string; html: string }) {
@@ -124,17 +113,8 @@ export class MailService implements OnModuleInit {
     paqueteTitulo: string;
     precio: number;
     ciclo: string;
-    /**
-     * Sólo en el flujo "datos y luego pagar": enlace para DEFINIR la contraseña.
-     * Cuando viene, la contraseña tecleada en el formulario de compra ya quedó
-     * anulada y este enlace es la única forma de entrar — así la cuenta pagada
-     * es de quien controla el correo, no de quien llenó el formulario.
-     */
-    definirPasswordLink?: string;
   }) {
-    const entrar =
-      opts.definirPasswordLink ??
-      `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/login`;
+    const entrar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/login`;
     const precioTxt = `$${opts.precio.toLocaleString('es-MX')} MXN`;
     const html = `
     <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
@@ -150,15 +130,11 @@ export class MailService implements OnModuleInit {
       </div>
       <p style="margin:24px 0;">
         <a href="${entrar}" style="background:#C99A3B; color:#161513; text-decoration:none; font-weight:bold; padding:12px 20px; border-radius:8px; display:inline-block;">
-          ${opts.definirPasswordLink ? 'Definir mi contraseña y entrar' : 'Entrar a mi cuenta'}
+          Entrar a mi cuenta
         </a>
       </p>
       <p style="font-size:13px; color:#9A9382; line-height:1.6; margin:0;">
-        ${
-          opts.definirPasswordLink
-            ? 'Por seguridad, la contraseña de tu cuenta se define desde este botón, no desde el formulario de compra. El enlace es tuyo y vence en 7 días; si se te pasa, usa «Olvidé mi contraseña» con este mismo correo.'
-            : 'Inicia sesión con el correo y la contraseña que registraste al comprar.'
-        }
+        Inicia sesión con el correo y la contraseña que registraste al comprar.
       </p>
     </div>`;
     return this.enviar({

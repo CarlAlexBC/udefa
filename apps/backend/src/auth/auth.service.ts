@@ -43,12 +43,12 @@ export class AuthService {
     const estado = (usuario as { estado?: string }).estado ?? 'ACTIVA';
     if (estado === 'PENDIENTE') {
       throw new UnauthorizedException({
-        // Dice lo que de verdad va a pasar: al aprobarse el pago la cuenta se
-        // activa Y le llega el enlace para definir su contraseña (ver
-        // prepararDefinicionDePassword). Prometerle que "entra con la que
-        // registró" sería mandarlo a una puerta cerrada.
+        // Dice lo que de verdad pasa hoy: al aprobarse el pago la cuenta se
+        // activa y entra con la contraseña que registró al comprar. (Hubo una
+        // época en que además se le mandaba un enlace para definirla; ese paso
+        // se quitó — ver PagosService.procesarPago.)
         message:
-          'Tu cuenta está esperando el pago. En cuanto Mercado Pago lo confirme, te llega un correo para definir tu contraseña y entrar.',
+          'Tu cuenta está esperando el pago. En cuanto Mercado Pago lo confirme se activa sola y podrás entrar con la contraseña que registraste.',
         code: 'CUENTA_PENDIENTE',
       });
     }
@@ -140,41 +140,6 @@ export class AuthService {
       mensaje:
         'Si el correo está registrado, te enviamos un enlace para restablecer tu contraseña.',
     };
-  }
-
-  /**
-   * Deja una cuenta recién pagada lista para que su DUEÑO defina la contraseña
-   * desde su correo, y devuelve el enlace para mandársela.
-   *
-   * Por qué hace falta. En el flujo "datos y luego pagar" la cuenta se crea antes
-   * de cobrar, y como es pública, dos personas distintas pueden mandar el mismo
-   * correo al formulario: acaban compartiendo una sola cuenta y se pisan la
-   * contraseña. Pase lo que pase en esa carrera, la contraseña tecleada en el
-   * formulario NO prueba quién es el dueño del correo.
-   *
-   * Por eso, al aprobarse el pago:
-   *   1. la contraseña del formulario se anula (se cambia por una imposible de
-   *      adivinar y que nadie conoce, ni el comprador ni un impostor),
-   *   2. se cierran las sesiones abiertas,
-   *   3. se manda un enlace al correo — y sólo quien abre ese buzón entra.
-   *
-   * Reusa el mismo token de "olvidé mi contraseña" (purpose reset-password) y la
-   * misma pantalla /restablecer; sólo dura más (7 días en vez de 1 hora), porque
-   * un recibo de compra se abre cuando se abre.
-   */
-  async prepararDefinicionDePassword(usuarioId: number): Promise<string> {
-    const imposible = await bcrypt.hash(`${randomUUID()}${randomUUID()}`, 10);
-    await this.prisma.usuario.update({
-      where: { id: usuarioId },
-      data: { password: imposible },
-    });
-    await this.prisma.sesion.deleteMany({ where: { usuarioId } });
-
-    const token = await this.jwtService.signAsync(
-      { sub: usuarioId, purpose: 'reset-password' },
-      { expiresIn: '7d' },
-    );
-    return `${this.FRONTEND_URL}/restablecer?token=${encodeURIComponent(token)}`;
   }
 
   /**

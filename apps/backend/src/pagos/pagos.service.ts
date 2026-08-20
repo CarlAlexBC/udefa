@@ -8,7 +8,6 @@ import { MercadoPagoConfig, Preference, Payment } from 'mercadopago';
 import { AccesoService } from '../acceso/acceso.service';
 import { UsuariosService } from '../usuarios/usuarios.service';
 import { MailService } from '../mail/mail.service';
-import { AuthService } from '../auth/auth.service';
 
 /** Convocatoria vigente y hasta cuándo dura el acceso comprado. Ajustable. */
 const CICLO = '2027';
@@ -50,7 +49,6 @@ export class PagosService {
     private acceso: AccesoService,
     private usuarios: UsuariosService,
     private mail: MailService,
-    private auth: AuthService,
   ) {}
 
   private frontendUrl(): string {
@@ -271,33 +269,26 @@ export class PagosService {
     // el correo falla, se registra pero NO se rompe el webhook: el pago ya está
     // procesado y el acceso otorgado.
     if (activacion.recienActivada) {
-      // Cuenta nueva del flujo de invitado: se anula la contraseña del
-      // formulario y se manda un enlace para definirla (ver
-      // AuthService.prepararDefinicionDePassword).
+      // El comprador entra con la contraseña que eligió al comprar. Punto.
       //
-      // Con CompraPendiente esto ya no hace falta para lo que se creó —la
-      // contraseña de este intento sí es de quien pagó, porque el pago viene de
-      // SU checkout—, pero se conserva porque hace otra cosa que sigue
-      // valiendo: comprueba que el correo es suyo. Sin ese paso, alguien puede
-      // comprar con el correo de otro y quedarse con una cuenta a nombre ajeno.
-      // Quitarlo es una línea, y es decisión de producto, no de seguridad.
+      // Aquí hubo un paso de "define tu contraseña por correo" (se anulaba la
+      // del formulario y se mandaba un enlace). Se quitó el 20 ago, decisión de
+      // Carlo, y conviene saber por qué para no reponerlo por costumbre:
       //
-      // Con UNA excepción: si este servidor no puede mandar correo de verdad
-      // (sin RESEND_API_KEY, modo consola), anular la contraseña dejaría al
-      // comprador fuera de una cuenta que acaba de pagar. En ese caso se
-      // conserva la contraseña del formulario y queda una advertencia gorda.
-      let definirPasswordLink: string | undefined;
-      if (this.mail.puedeEnviar()) {
-        definirPasswordLink = await this.auth.prepararDefinicionDePassword(
-          cuenta.usuarioId,
-        );
-      } else {
-        this.logger.warn(
-          `Cuenta ${cuenta.usuarioId} activada SIN el paso de "define tu contraseña": ` +
-            'este servidor no puede enviar correo (falta RESEND_API_KEY). La contraseña ' +
-            'del formulario de compra sigue siendo válida.',
-        );
-      }
+      //   - Nació para tapar que dos personas con el mismo correo compartían
+      //     cuenta. Eso ya lo arregló CompraPendiente DE RAÍZ: la contraseña de
+      //     este intento sí es de quien pagó, porque el pago viene de SU checkout.
+      //   - Lo único que seguía aportando era comprobar que el correo fuera
+      //     suyo, y cobraba esa comprobación bloqueando el acceso justo después
+      //     de que alguien pagó.
+      //   - Y falla feo: si el correo no llega —dominio sin verificar en Resend,
+      //     una letra mal escrita— el comprador queda encerrado fuera de algo que
+      //     ya pagó, y "olvidé mi contraseña" tampoco le llega. Un correo mal
+      //     escrito, en cambio, se corrige desde el panel.
+      //
+      // Si algún día se quiere verificar el correo, el lugar es un aviso de
+      // "confirma tu correo" que NO bloquee el acceso — no una puerta en el
+      // momento de la compra.
 
       try {
         await this.mail.enviarCompraConfirmada({
@@ -306,21 +297,13 @@ export class PagosService {
           paqueteTitulo: paqueteInfo.titulo,
           precio: paqueteInfo.precio,
           ciclo: datos.ciclo ?? CICLO,
-          definirPasswordLink,
         });
       } catch (e) {
+        // Que el recibo no salga NO deja a nadie fuera: el acceso ya está dado y
+        // el comprador entra con su contraseña. Se registra para poder reenviarlo.
         this.logger.error(
           `Pago ${paymentId} procesado, pero falló el correo de confirmación a ${activacion.email}: ${(e as Error).message}`,
         );
-        if (definirPasswordLink) {
-          // La contraseña YA quedó anulada y el enlace iba en ese correo que no
-          // salió. No se pierde el acceso —"Olvidé mi contraseña" con ese mismo
-          // correo lo devuelve— pero hay que saberlo si el aspirante escribe.
-          this.logger.error(
-            `OJO: ${activacion.email} pagó y su cuenta quedó esperando definir contraseña, ` +
-              'pero el correo con el enlace NO salió. Puede entrar con "Olvidé mi contraseña".',
-          );
-        }
       }
     }
     return true;
