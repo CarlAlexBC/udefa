@@ -3,6 +3,7 @@ import { TemasPrioridadService } from './temas-prioridad.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
 import { Roles } from '../auth/decorators/roles.decorator';
+import { ActualizarTemaDto } from './dto/actualizar-tema.dto';
 
 /**
  * Endpoints para gestionar el catálogo de prioridad de temas.
@@ -34,12 +35,7 @@ export class TemasPrioridadController {
   @Patch(':tema')
   actualizar(
     @Param('tema') tema: string,
-    @Body()
-    datos: {
-      peso?: number;
-      descripcion?: string | null;
-      motivoContextual?: string | null;
-    },
+    @Body() datos: ActualizarTemaDto,
   ) {
     return this.temasService.actualizar(tema, datos);
   }

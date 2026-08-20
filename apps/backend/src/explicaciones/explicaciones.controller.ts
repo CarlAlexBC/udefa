@@ -4,9 +4,11 @@ import {
   Put,
   Body,
   Param,
+  ParseIntPipe,
   Query,
   UseGuards,
 } from '@nestjs/common';
+import { GuardarExplicacionDto } from './dto/guardar-explicacion.dto';
 import { ExplicacionesService } from './explicaciones.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
@@ -26,8 +28,8 @@ export class ExplicacionesController {
   /** Aspirante: la explicación PUBLICADA del capítulo de un reactivo (o null). */
   @Modulo('cultural')
   @Get('por-reactivo')
-  porReactivo(@Query('reactivoId') reactivoId: string) {
-    return this.explicaciones.porReactivo(Number(reactivoId));
+  porReactivo(@Query('reactivoId', ParseIntPipe) reactivoId: number) {
+    return this.explicaciones.porReactivo(reactivoId);
   }
 
   /** Admin: capítulos ordenados por más-fallado, con estado de su explicación. */
@@ -40,19 +42,19 @@ export class ExplicacionesController {
   /** Admin: la explicación de un capítulo + citas fuente para editar. */
   @Get('admin/:capituloId')
   @Roles('admin')
-  obtener(@Param('capituloId') capituloId: string) {
-    return this.explicaciones.obtenerParaEditar(Number(capituloId));
+  obtener(@Param('capituloId', ParseIntPipe) capituloId: number) {
+    return this.explicaciones.obtenerParaEditar(capituloId);
   }
 
   /** Admin: guardar (borrador o publicado) la explicación de un capítulo. */
   @Put('admin/:capituloId')
   @Roles('admin')
   guardar(
-    @Param('capituloId') capituloId: string,
-    @Body() datos: { contenido: string; estado: 'BORRADOR' | 'PUBLICADO' },
+    @Param('capituloId', ParseIntPipe) capituloId: number,
+    @Body() datos: GuardarExplicacionDto,
   ) {
     return this.explicaciones.guardar(
-      Number(capituloId),
+      capituloId,
       datos.contenido,
       datos.estado,
     );

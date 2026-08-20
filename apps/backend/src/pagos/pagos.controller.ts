@@ -12,6 +12,8 @@ import { Throttle } from '@nestjs/throttler';
 import { PagosService } from './pagos.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RegistrarYPagarDto } from './dto/registrar-y-pagar.dto';
+import { CrearPreferenciaDto } from './dto/crear-preferencia.dto';
+import { ConfirmarPagoDto } from './dto/confirmar-pago.dto';
 import { firmaValida } from './verificar-firma';
 import {
   UsuarioActual,
@@ -33,7 +35,7 @@ export class PagosController {
   @Post('preferencia')
   crearPreferencia(
     @UsuarioActual() usuario: UsuarioAutenticado,
-    @Body() datos: { paquete: string },
+    @Body() datos: CrearPreferenciaDto,
   ) {
     return this.pagosService.crearPreferencia(usuario.id, datos.paquete);
   }
@@ -63,7 +65,7 @@ export class PagosController {
   // sirve para ir tanteando números de pago a ver cuáles existen.
   @Throttle({ default: { limit: 10, ttl: 60000 } })
   @Post('confirmar')
-  async confirmar(@Body() datos: { paymentId: string }) {
+  async confirmar(@Body() datos: ConfirmarPagoDto) {
     const otorgado = await this.pagosService.procesarPago(
       String(datos.paymentId),
     );

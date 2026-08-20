@@ -11,6 +11,7 @@ import { TemariosService } from './temarios.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
 import { Roles } from '../auth/decorators/roles.decorator';
+import { ActualizarMateriaDto } from './dto/actualizar-materia.dto';
 
 /**
  * Endpoints del panel admin para los Temarios del examen cultural.
@@ -34,7 +35,7 @@ export class TemariosController {
   @Patch('materias/:id')
   actualizarMateria(
     @Param('id', ParseIntPipe) id: number,
-    @Body() datos: { numPreguntas: number },
+    @Body() datos: ActualizarMateriaDto,
   ) {
     return this.temariosService.actualizarNumPreguntas(id, datos.numPreguntas);
   }

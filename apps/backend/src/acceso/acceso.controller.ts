@@ -4,9 +4,11 @@ import {
   Delete,
   Get,
   Param,
+  ParseIntPipe,
   Post,
   UseGuards,
 } from '@nestjs/common';
+import { OtorgarAccesoDto } from './dto/otorgar-acceso.dto';
 import { AccesoService } from './acceso.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
@@ -42,16 +44,7 @@ export class AccesoController {
   @UseGuards(RolesGuard)
   @Roles('admin')
   @Post()
-  otorgar(
-    @Body()
-    datos: {
-      usuarioId: number;
-      modulos: string[];
-      ciclo: string;
-      expiraEn?: string | null;
-      origen?: string;
-    },
-  ) {
+  otorgar(@Body() datos: OtorgarAccesoDto) {
     return this.accesoService.otorgar(
       datos.usuarioId,
       datos.modulos,
@@ -64,14 +57,14 @@ export class AccesoController {
   @UseGuards(RolesGuard)
   @Roles('admin')
   @Get('usuario/:id')
-  listarDeUsuario(@Param('id') id: string) {
-    return this.accesoService.listarDeUsuario(Number(id));
+  listarDeUsuario(@Param('id', ParseIntPipe) id: number) {
+    return this.accesoService.listarDeUsuario(id);
   }
 
   @UseGuards(RolesGuard)
   @Roles('admin')
   @Delete(':id')
-  revocar(@Param('id') id: string) {
-    return this.accesoService.revocar(Number(id));
+  revocar(@Param('id', ParseIntPipe) id: number) {
+    return this.accesoService.revocar(id);
   }
 }

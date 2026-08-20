@@ -1,4 +1,4 @@
-import { Controller, Get, Query, UseGuards } from '@nestjs/common';
+import { Controller, Get, ParseIntPipe, Query, UseGuards } from '@nestjs/common';
 import { AdminService } from './admin.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
@@ -29,8 +29,8 @@ export class AdminController {
    * (Personalidad=2, Axiológico=3). Ver AdminService.obtenerDistribucion.
    */
   @Get('distribucion')
-  obtenerDistribucion(@Query('examenId') examenId: string) {
-    return this.adminService.obtenerDistribucion(Number(examenId));
+  obtenerDistribucion(@Query('examenId', ParseIntPipe) examenId: number) {
+    return this.adminService.obtenerDistribucion(examenId);
   }
 
   /**
