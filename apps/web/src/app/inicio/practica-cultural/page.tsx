@@ -8,6 +8,7 @@ import { emblemaDePlantel } from '@/lib/planteles'
 import { colorDeExamen, HOJA_DE_PLATA_CLARA } from '@/lib/colores-paquete'
 import { cn } from '@/lib/utils'
 import { Button } from '@/components/ui/button'
+import { EntiendeElTema } from '@/components/entiende-tema/EntiendeElTema'
 import {
   AlertCircle,
   ArrowLeft,
@@ -671,6 +672,11 @@ export default function PracticaCulturalPage() {
                 )}
               </div>
             )}
+
+            {/* La ayuda en palabras simples, DEBAJO de la cita textual y nunca
+                en su lugar. Se pinta sola si ese capítulo ya tiene explicación
+                escrita desde el panel; si no, no aparece nada. */}
+            {actual && <EntiendeElTema reactivoId={actual.id} />}
 
             <div className="mt-6 flex items-center justify-end">
               <Button onClick={siguiente} size="lg">

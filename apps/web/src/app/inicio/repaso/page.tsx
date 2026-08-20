@@ -6,6 +6,7 @@ import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
 import { colorDeExamen, HOJA_DE_PLATA_CLARA } from '@/lib/colores-paquete'
 import { Button } from '@/components/ui/button'
+import { EntiendeElTema } from '@/components/entiende-tema/EntiendeElTema'
 import {
   AlertCircle,
   ArrowRight,
@@ -324,6 +325,11 @@ export default function RepasoPage() {
                 )}
               </div>
             )}
+
+            {/* Misma ayuda que en la práctica: debajo de la cita, nunca en su
+                lugar. El repaso también cuenta como "ya contestó ese reactivo",
+                así que el backend la entrega. */}
+            {actual && <EntiendeElTema reactivoId={actual.reactivoId} />}
 
             <div className="mt-6 flex items-center justify-between gap-4">
               <MovimientoCaja correccion={correccion} dias={diasProximo} />
