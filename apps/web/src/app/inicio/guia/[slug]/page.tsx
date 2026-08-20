@@ -3,18 +3,15 @@ import Link from 'next/link'
 import Image from 'next/image'
 import type { CSSProperties } from 'react'
 import { HeaderPrivado } from '../../HeaderPrivado'
-import { GuardiaGuia } from '@/components/guia/GuardiaGuia'
+import { GuiaBloqueada } from '@/components/guia/GuiaBloqueada'
+import { verificarAccesoGuia } from '@/lib/guia-acceso'
 import { FondoGuia } from '@/components/guia/FondoGuia'
 import { MarkdownRenderer } from '@/components/guia/MarkdownRenderer'
 import { TocLateral, TocMovil } from '@/components/guia/TocLateral'
 import { NavegacionSecciones } from '@/components/guia/NavegacionSecciones'
 import { MarcarLeida } from '@/components/guia/MarcarLeida'
 import { cargarMarkdownDeSeccion, extraerTitulosH2 } from '@/lib/guia-loader'
-import {
-  buscarSeccionPorSlug,
-  capituloDeSeccion,
-  SECCIONES_ONLINE,
-} from '@/lib/guia-index'
+import { buscarSeccionPorSlug, capituloDeSeccion } from '@/lib/guia-index'
 import { ChevronRight } from 'lucide-react'
 
 /**
@@ -45,6 +42,22 @@ export default async function SeccionGuiaPage({
   const info = buscarSeccionPorSlug(slug)
   if (!info) notFound()
 
+  // El candado va ANTES de tocar el archivo. Si esta persona no tiene acceso, el
+  // markdown no se lee siquiera del disco: así no hay contenido que se pueda
+  // pescar de la respuesta, que es justo lo que pasaba cuando el único candado
+  // era el de cliente. Ver lib/guia-acceso.ts.
+  const acceso = await verificarAccesoGuia()
+  if (!acceso.permitido) {
+    return (
+      <div className="dark" style={TONO_OLIVA}>
+        <main className="min-h-screen bg-[#161513]">
+          <HeaderPrivado />
+          <GuiaBloqueada motivo={acceso.motivo} />
+        </main>
+      </div>
+    )
+  }
+
   let markdown: string
   try {
     markdown = await cargarMarkdownDeSeccion(slug)
@@ -64,7 +77,9 @@ export default async function SeccionGuiaPage({
       <main className="min-h-screen bg-[#161513]">
         <HeaderPrivado />
 
-        <GuardiaGuia>
+          {/* Ya no va GuardiaGuia: ese candado era de cliente y sólo escondía
+              contenido que ya había viajado. El de arriba, en el servidor, lo
+              reemplaza — si llegamos hasta aquí, esta persona tiene acceso. */}
           <div className="relative">
             <FondoGuia tono="oliva" sello="plantel" />
 
@@ -138,22 +153,25 @@ export default async function SeccionGuiaPage({
               </div>
             </div>
           </div>
-        </GuardiaGuia>
       </main>
     </div>
   )
 }
 
 /**
- * Pre-genera estáticamente las páginas de las 18 secciones online.
- * `dynamicParams: false` hace que cualquier slug fuera del set devuelva 404
- * sin re-generar en runtime.
+ * Estas páginas YA NO se pre-generan estáticas.
+ *
+ * Antes sí: las 18 secciones se construían en build y se servían iguales para
+ * todos, con cero costo por petición. Eso es justo lo que hacía imposible
+ * cerrarlas — una página estática no puede preguntar quién la está pidiendo, y
+ * el manual completo salía con sólo mandar una cookie `token` inventada.
+ *
+ * Con `force-dynamic` cada visita se arma en el servidor, que primero comprueba
+ * el acceso y sólo entonces lee el .md. El costo es un render y una llamada al
+ * backend por visita — nada frente a regalar el contenido. (Además la página ya
+ * lee cookies, y eso por sí solo la saca del prerenderizado.)
  */
-export function generateStaticParams() {
-  return SECCIONES_ONLINE.map((s) => ({ slug: s.slug }))
-}
-
-export const dynamicParams = false
+export const dynamic = 'force-dynamic'
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
