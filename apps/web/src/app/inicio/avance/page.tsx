@@ -157,7 +157,7 @@ function Contenido({ avance }: { avance: Avance }) {
           </Link>
         </div>
       ) : (
-        <div className="mt-6 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-6 grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 lg:grid-cols-4">
           {avance.materias.map((m) => (
             <MateriaCard key={m.materia} materia={m} />
           ))}
@@ -167,42 +167,118 @@ function Contenido({ avance }: { avance: Avance }) {
   )
 }
 
-/* ── Tarjeta de una materia (nivel 1); abre su detalle al tocarla ─────── */
+/* ── Tarjeta de una materia (nivel 1); abre su detalle al tocarla ──────
+   Un medallón de mérito: aro segmentado por nivel (igual color que la
+   leyenda de arriba), con los temas dominados al centro. El resplandor
+   detrás toma el color del nivel que más pesa en esa materia, para que
+   se lea de un vistazo sin tener que descifrar el aro primero. ───────── */
+
+/** Hex real de cada nivel — el mismo que resuelven los tokens de NIVEL bajo
+ *  `.dark` (esta pantalla siempre vive ahí). Se necesita en crudo porque
+ *  conic-gradient y box-shadow no pueden tomar una clase de Tailwind. */
+const NIVEL_HEX: Record<string, string> = {
+  dominado: '#6B7530',
+  en_progreso: '#C99A3B',
+  fragil: '#EF4444',
+  sin_empezar: 'rgba(255,255,255,0.1)',
+}
+/** Mismo color, en tripleta rgb — para el resplandor con alpha. */
+const NIVEL_RGB: Record<string, string> = {
+  dominado: '107,117,48',
+  en_progreso: '201,154,59',
+  fragil: '239,68,68',
+  sin_empezar: '138,133,121',
+}
 
 function MateriaCard({ materia }: { materia: MateriaAvance }) {
   const conteo = conteoPorNivel(materia.capitulos)
+  const total = materia.total
+
+  // El aro: un conic-gradient con un tramo por nivel presente, en el mismo
+  // orden que la leyenda (dominado → sin empezar).
+  let acumulado = 0
+  const tramos: string[] = []
+  for (const n of ORDEN_BARRA) {
+    if (conteo[n] === 0) continue
+    const inicio = (acumulado / total) * 100
+    acumulado += conteo[n]
+    const fin = (acumulado / total) * 100
+    tramos.push(`${NIVEL_HEX[n]} ${inicio}% ${fin}%`)
+  }
+  const aro = `conic-gradient(${tramos.join(', ')})`
+
+  // El resplandor detrás toma el color del nivel más presente, para leerse
+  // antes incluso de fijarse en los tramos del aro.
+  let nivelDominante: (typeof ORDEN_BARRA)[number] = 'sin_empezar'
+  let mejorConteo = -1
+  for (const n of ORDEN_BARRA) {
+    if (conteo[n] > mejorConteo) {
+      mejorConteo = conteo[n]
+      nivelDominante = n
+    }
+  }
+  const resplandorRgb = NIVEL_RGB[nivelDominante]
 
   return (
     <Link
       href={`/inicio/avance/${encodeURIComponent(materia.materia)}`}
-      className="group flex flex-col gap-1.5 rounded-2xl border border-[#C99A3B]/15 bg-white/[0.02] p-4 transition-colors hover:border-[#C99A3B]/55 hover:bg-white/[0.04]"
+      className="group flex flex-col items-center gap-3 rounded-2xl p-3 text-center transition-transform duration-200 ease-out hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:translate-y-0"
     >
-      <span className="text-[0.65rem] font-semibold uppercase tracking-[0.2em] text-[#C99A3B]">
-        Materia
-      </span>
-      <span className="text-balance text-[0.95rem] font-semibold leading-snug text-[#F7F3EA]">
-        {materia.materia}
-      </span>
-
-      {/* mt-auto empuja el pie al fondo: con títulos de distinto largo, las
-          barras de toda la fila quedan alineadas (igual que en la Guía). */}
-      <span className="mt-auto pt-2 text-[0.7rem] tabular-nums text-[#8A8579]">
-        <span className="font-semibold text-[#E6CF98]">
-          {materia.dominados} de {materia.total}
-        </span>{' '}
-        temas dominados
-      </span>
-
-      <span
-        className="flex h-[3px] w-full overflow-hidden rounded-full bg-white/[0.08]"
-        role="img"
-        aria-label={`Avance de ${materia.materia}: ${materia.dominados} de ${materia.total} dominados`}
+      <div
+        className="relative h-[104px] w-[104px] shrink-0 rounded-full"
+        style={{
+          boxShadow: `0 0 0 1px rgba(201,154,59,0.15), 0 10px 30px -8px rgba(${resplandorRgb},0.55)`,
+        }}
       >
-        {ORDEN_BARRA.map((n) =>
-          conteo[n] > 0 ? (
-            <span key={n} className={NIVEL[n].barra} style={{ flex: conteo[n] }} />
-          ) : null,
-        )}
+        {/* aro decorativo punteado, apenas insinuado */}
+        <svg width="104" height="104" viewBox="0 0 104 104" className="absolute inset-0">
+          <circle
+            cx="52"
+            cy="52"
+            r="51"
+            fill="none"
+            stroke="#C99A3B"
+            strokeWidth="1"
+            strokeDasharray="1.8 3.6"
+            opacity="0.5"
+          />
+        </svg>
+        {/* aro de color: el dato real */}
+        <div className="absolute inset-[7px] rounded-full" style={{ background: aro }} />
+        {/* brillo de metal encima del aro, para que no se vea plano */}
+        <div
+          className="pointer-events-none absolute inset-[7px] rounded-full"
+          style={{
+            background:
+              'linear-gradient(135deg, rgba(255,255,255,0.3) 0%, transparent 45%)',
+          }}
+        />
+        {/* centro: tapa el aro y deja sólo el borde de color visible */}
+        <div
+          className="absolute inset-4 flex flex-col items-center justify-center rounded-full"
+          style={{
+            background: 'radial-gradient(circle at 35% 30%, #2A2724, #171512 75%)',
+            boxShadow: 'inset 0 0 0 1px rgba(201,154,59,0.28)',
+          }}
+        >
+          <span className="text-[22px] font-bold leading-none text-[#F7F3EA]">
+            {materia.dominados}
+          </span>
+          <span className="mt-0.5 text-[9px] text-[#8A8579]">de {total}</span>
+        </div>
+      </div>
+
+      {/* listón, como un medallón de verdad */}
+      <div
+        className="-mt-2 h-[18px] w-[16px] opacity-90"
+        style={{
+          background: 'linear-gradient(180deg,#8A6A24,#5E4A18)',
+          clipPath: 'polygon(0 0,100% 0,100% 78%,50% 100%,0 78%)',
+        }}
+      />
+
+      <span className="text-balance text-[13px] font-semibold leading-snug text-[#F7F3EA]">
+        {materia.materia}
       </span>
     </Link>
   )
