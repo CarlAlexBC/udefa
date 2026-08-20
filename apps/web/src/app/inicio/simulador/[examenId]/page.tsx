@@ -1350,7 +1350,7 @@ function PantallaInstrucciones({
 
   return (
     <main className="min-h-screen bg-background">
-      <div className="mx-auto max-w-3xl px-6 py-12">
+      <div className="mx-auto max-w-3xl px-6 py-16 md:py-20">
         {/* Progreso de bloques — de corrido no aplica: es un examen solo. */}
         {!deCorrido && (
           <div className="mb-8 flex items-center gap-2">
@@ -1370,17 +1370,17 @@ function PantallaInstrucciones({
           </div>
         )}
 
-        <p className="mb-2 text-xs font-semibold uppercase tracking-widest text-military">
+        <p className="mb-3 text-xs font-semibold uppercase tracking-widest text-military">
           {deCorrido
             ? `${totalBloques} materias, de corrido`
             : `Bloque ${bloqueIndex + 1} de ${totalBloques}`}
         </p>
-        <h1 className="mb-4 text-3xl font-semibold tracking-tight text-foreground">
+        <h1 className="mb-6 text-3xl font-semibold tracking-tight text-foreground md:text-4xl">
           {info?.titulo ?? bloque.nombre}
         </h1>
 
-        <div className="rounded-xl border border-border bg-card p-6">
-          <p className="mb-6 text-sm leading-relaxed text-muted-foreground">
+        <div className="rounded-xl border border-border bg-card p-6 md:p-8">
+          <p className="mb-8 text-base leading-relaxed text-muted-foreground">
             {info?.instrucciones ??
               'Selecciona la opción correcta para cada reactivo.'}
           </p>
@@ -1389,14 +1389,14 @@ function PantallaInstrucciones({
               Si no tiene respuestaCorrecta (autoevaluación), se muestra sin
               opción resaltada; la explicación aclara qué evalúa. */}
           {info?.ejemplo && (
-            <div className="rounded-lg border border-border bg-muted/40 p-5">
+            <div className="rounded-lg border border-border bg-muted/40 p-5 md:p-6">
               <p className="mb-3 text-xs font-semibold uppercase tracking-widest text-accent">
                 {info.ejemplo.respuestaCorrecta ? 'Ejemplo resuelto' : 'Ejemplo de reactivo'}
               </p>
-              <p className="mb-4 text-base font-semibold text-foreground">
+              <p className="mb-5 text-base font-semibold leading-snug text-foreground">
                 {info.ejemplo.enunciado}
               </p>
-              <div className="mb-4 flex flex-col gap-2">
+              <div className="mb-5 flex flex-col gap-3">
                 {info.ejemplo.opciones.map((opcion, i) => {
                   const letra = String.fromCharCode(65 + i)
                   const esCorrecta = info.ejemplo!.respuestaCorrecta !== null && opcion === info.ejemplo!.respuestaCorrecta
@@ -1404,15 +1404,18 @@ function PantallaInstrucciones({
                     <div
                       key={opcion}
                       className={cn(
-                        'flex items-center gap-3 rounded-md border p-2.5 text-sm',
+                        // Mismas medidas que la opción del examen de verdad (OpcionesReactivo):
+                        // el ejemplo tiene que verse como lo que va a pasar en un momento.
+                        // Énfasis por color, nunca por grosor de letra.
+                        'flex min-h-[72px] items-center gap-4 rounded-lg border p-4 text-base',
                         esCorrecta
-                          ? 'border-military bg-military/10 font-medium text-foreground'
+                          ? 'border-military bg-military/10 text-foreground'
                           : 'border-border bg-card text-muted-foreground',
                       )}
                     >
                       <span
                         className={cn(
-                          'flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-xs font-semibold',
+                          'flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-sm font-semibold',
                           esCorrecta
                             ? 'bg-military text-military-foreground'
                             : 'border border-border bg-muted',
@@ -1428,11 +1431,11 @@ function PantallaInstrucciones({
                   )
                 })}
               </div>
-              <div className="rounded-md border-l-2 border-l-accent bg-accent/5 p-3">
+              <div className="rounded-md border-l-2 border-l-accent bg-accent/5 p-4">
                 <p className="text-xs font-semibold uppercase tracking-widest text-accent">
                   {info.ejemplo.respuestaCorrecta ? 'Explicación' : 'Qué evalúa este reactivo'}
                 </p>
-                <p className="mt-1 text-sm leading-relaxed text-foreground">
+                <p className="mt-2 text-sm leading-relaxed text-foreground">
                   {info.ejemplo.explicacion}
                 </p>
               </div>
@@ -1453,7 +1456,7 @@ function PantallaInstrucciones({
         </div>
 
         {/* Detalles del bloque + CTA */}
-        <div className="mt-6 flex flex-wrap items-center justify-between gap-4">
+        <div className="mt-8 flex flex-wrap items-center justify-between gap-4">
           <div className="flex items-center gap-2 text-sm text-muted-foreground">
             <Clock className="h-4 w-4 text-accent" />
             <span>
