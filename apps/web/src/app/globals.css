@@ -104,6 +104,17 @@
 
 /* Modo oscuro — carbón como fondo principal */
 .dark {
+  /*
+   * Le avisa al NAVEGADOR que esta zona es oscura.
+   *
+   * Los `<select>`, los calendarios y las barras de scroll los dibuja el
+   * navegador, no nuestro CSS: la lista que se despliega de un select no la
+   * podemos pintar con clases. Sin esta línea la dibujaba blanca y le ponía
+   * encima nuestro texto color crema — ilegible, que es justo lo que se veía
+   * en el panel de admin al abrir "plantel" o "rol".
+   */
+  color-scheme: dark;
+
   --background: #161513;
   --foreground: #F7F3EA;
   --card: #242220;
@@ -239,4 +250,17 @@
   .cascada > * {
     animation: none;
   }
+}
+
+/*
+ * Respaldo para la lista de los `<select>` en zonas oscuras.
+ *
+ * `color-scheme: dark` (arriba, en `.dark`) ya hace que el navegador dibuje la
+ * lista oscura, pero no todos la respetan igual. Esto le pone color explícito a
+ * cada opción para que nunca vuelva a quedar texto claro sobre fondo blanco.
+ */
+.dark select option,
+.dark select optgroup {
+  background-color: var(--popover);
+  color: var(--popover-foreground);
 }
