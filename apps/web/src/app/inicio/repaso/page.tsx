@@ -431,25 +431,21 @@ function OpcionRepaso({
         )}
       </span>
 
+      {/* Mismo criterio que en práctica: ni el grosor de la letra ni la
+          aparición de la etiqueta deben reacomodar el texto al contestar. */}
       <span
         className={cn(
           'flex-1 text-base',
-          (esCorrecta || esElegidaMal) && 'font-medium text-foreground',
+          (esCorrecta || esElegidaMal) && 'text-foreground',
         )}
       >
         {opcion}
       </span>
 
-      {esCorrecta && (
-        <span className="shrink-0 text-xs font-semibold uppercase tracking-widest text-accent">
-          Correcta
-        </span>
-      )}
-      {esElegidaMal && (
-        <span className="shrink-0 text-xs font-semibold uppercase tracking-widest text-destructive">
-          Elegiste esta
-        </span>
-      )}
+      <span className="w-[104px] shrink-0 text-right text-xs font-semibold uppercase tracking-widest">
+        {esCorrecta && <span className="text-accent">Correcta</span>}
+        {esElegidaMal && <span className="text-destructive">Elegiste esta</span>}
+      </span>
     </button>
   )
 }

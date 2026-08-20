@@ -774,25 +774,25 @@ function OpcionPractica({
         )}
       </span>
 
+      {/* Sin cambio de grosor al corregir: la negrita es más ancha que la
+          redonda, así que en una opción larga el texto saltaba a un renglón más
+          y la tarjeta crecía justo al contestar. El énfasis va por color. */}
       <span
         className={cn(
           'flex-1 text-base',
-          (esCorrecta || esElegidaMal) && 'font-medium text-foreground',
+          (esCorrecta || esElegidaMal) && 'text-foreground',
         )}
       >
         {opcion}
       </span>
 
-      {esCorrecta && (
-        <span className="shrink-0 text-xs font-semibold uppercase tracking-widest text-accent">
-          Correcta
-        </span>
-      )}
-      {esElegidaMal && (
-        <span className="shrink-0 text-xs font-semibold uppercase tracking-widest text-destructive">
-          Elegiste esta
-        </span>
-      )}
+      {/* Hueco SIEMPRE reservado para la etiqueta. Si sólo apareciera al
+          contestar, le quitaría ancho al texto en ese momento y lo reacomodaría
+          — el mismo brinco por otro camino. Vacío antes de contestar. */}
+      <span className="w-[104px] shrink-0 text-right text-xs font-semibold uppercase tracking-widest">
+        {esCorrecta && <span className="text-accent">Correcta</span>}
+        {esElegidaMal && <span className="text-destructive">Elegiste esta</span>}
+      </span>
     </button>
   )
 }

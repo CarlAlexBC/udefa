@@ -1708,8 +1708,10 @@ function OpcionesReactivo({
               onClick={() => onSelect(opcion)}
               className={cn(
                 'rounded-lg border p-3 text-center text-sm transition-colors',
+                // Sin cambio de grosor: engordar la letra reacomoda el texto
+                // dentro de la celda y mueve la rejilla. El énfasis va por color.
                 seleccionada
-                  ? 'font-medium text-foreground'
+                  ? 'text-foreground'
                   : 'border-border bg-card text-muted-foreground hover:bg-muted',
               )}
               style={seleccionada ? estiloElegido : undefined}
@@ -1764,7 +1766,13 @@ function OpcionesReactivo({
             >
               {letra}
             </span>
-            <span className={cn('text-base', seleccionada && 'font-medium')}>
+            {/* OJO: aquí NO se cambia el grosor de la letra al seleccionar.
+                La negrita ocupa más ancho que la redonda, así que en una opción
+                larga el texto ya no cabía en el mismo renglón, saltaba a uno más
+                y la tarjeta CRECÍA al dar clic — moviendo las de abajo y los
+                botones de navegación. Por eso el énfasis es de color y de fondo
+                (borde, relleno y círculo de la letra), que no ocupan espacio. */}
+            <span className={cn('text-base', seleccionada && 'text-foreground')}>
               {opcion}
             </span>
           </button>

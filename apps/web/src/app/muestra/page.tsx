@@ -213,10 +213,13 @@ function Quiz({
                 key={op}
                 type="button"
                 onClick={() => elegir(op)}
+                /* Sin `font-medium` al elegir: engordar la letra la hace más
+                   ancha y, con una opción larga, el texto salta a otro renglón
+                   y el botón crece al dar clic. El énfasis va por color. */
                 className={
                   'w-full rounded-md border px-4 py-3 text-left text-sm transition-colors ' +
                   (activa
-                    ? 'border-accent bg-accent/10 font-medium text-foreground'
+                    ? 'border-accent bg-accent/10 text-foreground'
                     : 'border-border text-muted-foreground hover:bg-muted')
                 }
               >
