@@ -448,6 +448,13 @@ export class UsuariosService {
       throw new BadRequestException('Elige al menos un módulo para la prueba.');
     }
 
+    // Aprovecha el viaje para barrer las de antes (ver
+    // limpiarCuentasDePruebaCaducadas). Si la limpieza fallara, NO se cae la
+    // creación: que no se pueda barrer no es motivo para no poder repartir.
+    const limpieza = await this.limpiarCuentasDePruebaCaducadas().catch(() => ({
+      borradas: 0,
+    }));
+
     const SIN_CONFUSIONES = 'abcdefghjkmnpqrstuvwxyz23456789';
     const sufijo = Array.from(
       { length: 5 },
@@ -486,6 +493,8 @@ export class UsuariosService {
       expiraEn,
       minutos: datos.minutos,
       modulos: datos.modulos,
+      /** Cuántas cuentas de prueba viejas se barrieron de paso. */
+      caducadasBorradas: limpieza.borradas,
     };
   }
 
@@ -532,5 +541,64 @@ export class UsuariosService {
     ]);
 
     return { borrado: usuario.email, intentosBorrados: idsIntentos.length };
+  }
+
+  /**
+   * Barre las cuentas de prueba que ya vencieron.
+   *
+   * CUÁNDO CORRE: al crear una cuenta de prueba nueva. Se enganchó ahí a
+   * propósito, en vez de a un temporizador de fondo: es el momento natural
+   * —repartes una nueva, se van las muertas—, no añade dependencias al proyecto
+   * y no corre cuando nadie está usando el panel.
+   *
+   * POR QUÉ ESPERA UN DÍA: borrar en cuanto vence destruiría la evidencia de si
+   * la persona llegó a USAR la prueba (sus intentos y respuestas se van con la
+   * cuenta). Con un día de gracia queda tiempo de mirar quién entró y qué hizo
+   * antes de que desaparezca.
+   *
+   * A QUIÉN NO TOCA, y conviene que sea estricto porque esto borra solo:
+   *   - a nadie que no tenga correo @prueba.local;
+   *   - a nadie sin un acceso de origen 'prueba';
+   *   - a quien tenga algún acceso todavía vigente (por si se le amplió a mano);
+   *   - a ningún admin, aunque cumpliera todo lo anterior.
+   */
+  async limpiarCuentasDePruebaCaducadas(): Promise<{ borradas: number }> {
+    const GRACIA_HORAS = 24;
+    const corte = new Date(Date.now() - GRACIA_HORAS * 60 * 60 * 1000);
+
+    const candidatas = await this.prisma.usuario.findMany({
+      where: {
+        email: { endsWith: '@prueba.local' },
+        rol: { not: 'admin' },
+        accesos: { some: { origen: 'prueba' } },
+        // Ni un acceso que siga vivo o dentro del día de gracia.
+        NOT: { accesos: { some: { OR: [{ expiraEn: null }, { expiraEn: { gt: corte } }] } } },
+      },
+      select: { id: true },
+    });
+    if (!candidatas.length) return { borradas: 0 };
+
+    const ids = candidatas.map((u) => u.id);
+    const intentos = await this.prisma.intentoExamen.findMany({
+      where: { usuarioId: { in: ids } },
+      select: { id: true },
+    });
+
+    await this.prisma.$transaction([
+      this.prisma.respuestaReactivo.deleteMany({
+        where: { intentoExamenId: { in: intentos.map((i) => i.id) } },
+      }),
+      this.prisma.intentoExamen.deleteMany({ where: { usuarioId: { in: ids } } }),
+      this.prisma.sesionExamenCompleto.deleteMany({ where: { usuarioId: { in: ids } } }),
+      this.prisma.repasoReactivo.deleteMany({ where: { usuarioId: { in: ids } } }),
+      this.prisma.respuestaPractica.deleteMany({ where: { usuarioId: { in: ids } } }),
+      this.prisma.actividadDiaria.deleteMany({ where: { usuarioId: { in: ids } } }),
+      this.prisma.seccionLeida.deleteMany({ where: { usuarioId: { in: ids } } }),
+      this.prisma.acceso.deleteMany({ where: { usuarioId: { in: ids } } }),
+      this.prisma.sesion.deleteMany({ where: { usuarioId: { in: ids } } }),
+      this.prisma.usuario.deleteMany({ where: { id: { in: ids } } }),
+    ]);
+
+    return { borradas: ids.length };
   }
 }

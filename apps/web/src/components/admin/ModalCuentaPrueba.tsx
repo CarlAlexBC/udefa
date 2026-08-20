@@ -38,6 +38,8 @@ type CuentaCreada = {
   expiraEn: string
   minutos: number
   modulos: string[]
+  /** Cuántas cuentas de prueba vencidas se barrieron al crear ésta. */
+  caducadasBorradas: number
 }
 
 function duracionEnPalabras(minutos: number): string {
@@ -157,6 +159,19 @@ export function ModalCuentaPrueba({
               acabe deja de abrir contenido, pero no lo saca de la app a media
               pregunta.
             </p>
+
+            {/* Las viejas se barren solas al crear una nueva; se avisa para que
+                no parezca que las cuentas desaparecen sin explicación. */}
+            {creada.caducadasBorradas > 0 && (
+              <p className="mt-2 text-xs text-muted-foreground">
+                De paso se limpiaron{' '}
+                <span className="font-semibold text-foreground">
+                  {creada.caducadasBorradas}
+                </span>{' '}
+                cuenta{creada.caducadasBorradas === 1 ? '' : 's'} de prueba que ya
+                habían vencido.
+              </p>
+            )}
 
             <div className="mt-5 flex justify-end gap-2">
               <button
