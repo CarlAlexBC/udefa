@@ -1,6 +1,6 @@
 # Cálculo · Unidad 3 · La derivada de una función para modelar el cambio
 
-**Libro:** Salazar, Bahena y Velázquez · *Cálculo. Teoría y aplicaciones* (Patria, 1.ª ed. 2020) · **Unidad 3 → EN CURSO**
+**Libro:** Salazar, Bahena y Velázquez · *Cálculo. Teoría y aplicaciones* (Patria, 1.ª ed. 2020) · **Unidad 3 → CERRADA** (92 reactivos, del 135 al 226)
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Esta Unidad la pide la **EMT** (Escuela Militar de
@@ -310,20 +310,14 @@ reactivos — el teorema en sí (el enunciado "Sea f(x)=... entonces f'(x)=...")
   recibieron una definición propia** en todo este tramo (pp. 149-159): sólo aparecieron
   como nombres de ejemplos de aplicación (Optimización de utilidad, en este caso).
 
-**Pendiente:** EN CURSO. **El 3.1, 3.2, 3.3 y 3.4 quedan CERRADOS** (pp. 105-142), y
-también todo el contenido sin letra de sección que los sigue —existencia de la
-derivada, derivadas sucesivas, recta tangente/normal, ángulo entre curvas y modelación
-de situaciones (velocidad, aceleración, razones relacionadas, optimización)— hasta la
-**p.159** (pp. 142-159). Dentro del 3.5, **quedan CERRADAS las definiciones de función
-creciente/decreciente (con su criterio vía derivada y ángulo de la tangente) y de
-máximo/mínimo relativo, y los métodos de la primera y la segunda derivada** (pp.
-160-165). Sigue desde la **p.166** con el resto de 3.5 (intervalos de crecimiento y
-decrecimiento, concavidad, convexidad y puntos de inflexión). Después
-**3.6 Notaciones de la derivada** (p.178) y **3.7 Diferencial de una función** (p.178),
-hasta cerrar la Unidad 3 — y la materia completa de Cálculo para la EMT — antes de la
-p.188 (arranca la Unidad 4, La integral, que el temario NO pide). **Antes de tocar
-este archivo, corre la regla del punto de continuación de CLAUDE.md** —esta Unidad es
-materia nueva y este archivo es el único que sostiene su pendiente.
+**Pendiente:** Ninguno. **La Unidad 3 queda CERRADA completa** (pp. 105-187, reactivos
+135-226) — y con ella la materia completa de Cálculo Diferencial para la EMT (Unidades
+1, 2 y 3 de este libro). El 3.5 completo (funciones creciente/decreciente, máximo/mínimo
+relativo, métodos de la primera y segunda derivada, concavidad y punto de inflexión,
+tabla resumen y aplicaciones de máximos y mínimos), el 3.6 (notaciones de la derivada) y
+el 3.7 (diferencial de una función, con sus aplicaciones) ya tienen reactivo. Se revisó
+hasta la p.187 (autoevaluación); la p.188 ya es la portadilla de la Unidad 4 (La
+integral), que el temario `CÁLDIF-01-2026` de la EMT NO pide, así que no se toca.
 
 ---
 
@@ -1580,3 +1574,228 @@ Según el libro, cuando se tiene una ecuación de segundo grado, ¿qué ventaja 
 **Subtema:** Método de la segunda derivada · Ecuaciones de segundo grado
 
 "Cuando tenemos una ecuación de segundo grado, la segunda derivada es una constante, ésta nos indica de inmediato si hablamos de un mínimo o un máximo."
+
+---
+
+## Sub-lote 11 · Punto de inflexión, concavidades y la tabla resumen (3.5, pp. 167-169)
+
+### 214
+
+Conforme al libro de Cálculo, ¿cómo se define el punto de inflexión de una curva?
+
+- A. El punto donde la función (curva) cambia de sentido
+- B. El punto donde la función alcanza su valor más alto o más bajo
+- C. El punto donde la primera derivada es igual a cero
+- D. El punto donde la curva corta al eje x
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 167
+**Subtema:** Punto de inflexión · Definición
+
+"El punto donde la función (curva) cambia de sentido es el punto de inflexión."
+
+---
+
+### 215
+
+Según el libro, en el procedimiento para obtener el punto de inflexión, ¿qué se hace con el valor que se obtiene al igualar a cero la segunda derivada?
+
+- A. Se sustituye en la tercera derivada; si ésta es diferente de cero, entonces es punto de inflexión
+- B. Se sustituye en la primera derivada; si ésta es igual a cero, entonces es punto de inflexión
+- C. Se sustituye directamente en la función original sin ninguna otra verificación
+- D. Se sustituye de nuevo en la segunda derivada para confirmar que sigue siendo cero
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 167
+**Subtema:** Punto de inflexión · Procedimiento
+
+"El valor obtenido se sustituye en la tercera derivada, si éste es diferente de cero; entonces es punto de inflexión."
+
+---
+
+### 216
+
+De acuerdo con el libro, ¿por qué una curva de segundo grado (parábola) no tiene punto de inflexión?
+
+- A. Porque su tercera derivada es cero
+- B. Porque su segunda derivada es cero
+- C. Porque su primera derivada nunca se anula
+- D. Porque siempre es cóncava hacia arriba en todo su dominio
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 167
+**Subtema:** Punto de inflexión · Caso de la parábola
+
+"Puedes observar que una curva de segundo grado (parábola) no tiene punto de inflexión, ya que su tercera derivada es cero, verifícalo."
+
+---
+
+### 217
+
+¿Cómo define el libro una concavidad?
+
+- A. Un hueco que se forma en la gráfica de la función
+- B. El punto donde la función cambia de creciente a decreciente
+- C. El intervalo donde la derivada es igual a cero
+- D. La distancia entre dos puntos máximos consecutivos
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 168
+**Subtema:** Concavidades · Definición
+
+"Una concavidad es un hueco que se forma en la gráfica de la función."
+
+---
+
+### 218
+
+Según el libro, ¿cómo se determina si una curva es cóncava hacia arriba o hacia abajo?
+
+- A. Si la segunda derivada es mayor que cero, la curva es cóncava hacia arriba; si es menor que cero, es cóncava hacia abajo
+- B. Si la primera derivada es mayor que cero, la curva es cóncava hacia arriba; si es menor que cero, es cóncava hacia abajo
+- C. Si la segunda derivada es menor que cero, la curva es cóncava hacia arriba; si es mayor que cero, es cóncava hacia abajo
+- D. Si la segunda derivada es igual a cero, la curva es cóncava hacia arriba
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 168
+**Subtema:** Concavidades · Criterio con la segunda derivada
+
+"Se obtienen la primera y segunda derivada, si la segunda derivada es mayor que cero la curva es cóncava hacia arriba, y si la segunda derivada es menor que cero la curva es cóncava hacia abajo."
+
+---
+
+### 219
+
+Conforme a la tabla resumen del libro, ¿qué indica que f'(x) = 0?
+
+- A. Máximos o mínimos
+- B. Función creciente
+- C. Función decreciente
+- D. Punto de inflexión
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 169
+**Subtema:** Tabla resumen · Primera derivada
+
+"f'(x) = 0: Máximos o mínimos"
+
+---
+
+### 220
+
+Conforme a la tabla resumen del libro, ¿qué indica que f''(x) = 0?
+
+- A. Punto de inflexión
+- B. Cóncava hacia arriba
+- C. Cóncava hacia abajo
+- D. Máximos o mínimos
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 169
+**Subtema:** Tabla resumen · Segunda derivada
+
+"f''(x) = 0: Punto de inflexión"
+
+---
+
+## Sub-lote 12 · Campana de Gauss, notaciones y diferencial (pp. 177-182)
+
+### 221
+
+Según el libro de Cálculo, ¿a qué función sirve de introducción el estudio de f(x) = e^(−x²)?
+
+- A. A la campana de Gauss (distribución normal)
+- B. A la función logística de crecimiento poblacional
+- C. A la función exponencial de base a
+- D. A la regla de la cadena
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 177
+**Subtema:** Estudio de f(x) = e^(−x²) · Antecedente de la campana de Gauss
+
+"La función f(x) = e^{-x²} sirve de introducción a la campana de Gauss, cuya gráfica se muestra en la figura 3.34."
+
+---
+
+### 222
+
+Conforme al libro, en el subtema 3.6 "Notaciones de la derivada", ¿cuáles son las cuatro notaciones que presenta para la derivada?
+
+- A. Cauchy: D_x f(x); Lagrange: y'; Lagrange: f'(x); Leibniz: dy/dx
+- B. Cauchy: dy/dx; Lagrange: D_x f(x); Newton: y'; Leibniz: f'(x)
+- C. Newton: y'; Lagrange: f'(x); Leibniz: dy/dx; Cauchy: ẏ
+- D. Lagrange: D_x f(x); Cauchy: y'; Leibniz: f'(x); Newton: dy/dx
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 178
+**Subtema:** Notaciones de la derivada (3.6)
+
+"Cauchy: D_x f(x). Lagrange: y'. Lagrange: f'(x). Leibniz: dy/dx."
+
+---
+
+### 223
+
+¿Cómo define el libro la diferencial de una función?
+
+- A. Como la derivada de la función por el incremento de x
+- B. Como el incremento de la función dividido entre el incremento de x
+- C. Como la segunda derivada de la función por el incremento de x
+- D. Como el límite del cociente incremental cuando el incremento tiende a cero
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 178
+**Subtema:** Diferencial de una función (3.7) · Definición
+
+"La diferencial se define como la derivada de la función por el incremento de x. Así, la diferencial de una función f(x) la escribimos: dy = f'(x) dx"
+
+---
+
+### 224
+
+Según el libro, ¿con qué otro nombre se conoce el concepto de la diferencial?
+
+- A. Linealización de la función
+- B. Antidiferencial de la función
+- C. Notación de Leibniz
+- D. Aproximación cuadrática
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 178
+**Subtema:** Diferencial de una función (3.7) · Linealización
+
+"Representa el cambio que se da en una función y = f(x), respecto a cambios en la variable independiente, también conocido como linealización de la función."
+
+---
+
+### 225
+
+Según el libro, ¿qué relación hay entre el tamaño del incremento de la variable independiente y la exactitud de la diferencial como aproximación?
+
+- A. Entre menor sea el incremento de la variable independiente, el valor de la diferencial se acerca más al valor exacto
+- B. Entre mayor sea el incremento de la variable independiente, el valor de la diferencial se acerca más al valor exacto
+- C. El tamaño del incremento no afecta la exactitud de la diferencial
+- D. La diferencial siempre es exacta, sin importar el tamaño del incremento
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 181
+**Subtema:** Aplicaciones de la diferencial · Exactitud de la aproximación
+
+"Entre menor sea el incremento de la variable independiente el valor de la diferencial se acerca más al valor exacto."
+
+---
+
+### 226
+
+¿Cuál es la fórmula de linealización que presenta el libro para aproximar f(x ± Δx)?
+
+- A. f(x ± Δx) ≈ f(x) ± f'(x) dx
+- B. f(x ± Δx) ≈ f(x) ± f''(x) dx
+- C. f(x ± Δx) ≈ f'(x) ± f(x) dx
+- D. f(x ± Δx) ≈ f(x) · f'(x) dx
+
+**Respuesta:** A
+**Referencia:** Salazar, L. J. (2020) *Cálculo. Teoría y aplicaciones*, 1.ª ed., Patria, Pág. 182
+**Subtema:** Aplicaciones de la diferencial · Fórmula de linealización
+
+"Aplicamos la fórmula de linealización: f(x ± Δx) ≈ f(x) ± f'(x) dx"
