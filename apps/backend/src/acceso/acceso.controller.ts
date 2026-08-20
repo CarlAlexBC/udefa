@@ -9,6 +9,7 @@ import {
   UseGuards,
 } from '@nestjs/common';
 import { OtorgarAccesoDto } from './dto/otorgar-acceso.dto';
+import { UsuariosService } from '../usuarios/usuarios.service';
 import { AccesoService } from './acceso.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
@@ -21,7 +22,10 @@ import {
 @UseGuards(JwtAuthGuard)
 @Controller('acceso')
 export class AccesoController {
-  constructor(private accesoService: AccesoService) {}
+  constructor(
+    private accesoService: AccesoService,
+    private usuariosService: UsuariosService,
+  ) {}
 
   /**
    * Estado de acceso del usuario autenticado, para pintar el candado en /inicio:
@@ -44,14 +48,25 @@ export class AccesoController {
   @UseGuards(RolesGuard)
   @Roles('admin')
   @Post()
-  otorgar(@Body() datos: OtorgarAccesoDto) {
-    return this.accesoService.otorgar(
+  async otorgar(@Body() datos: OtorgarAccesoDto) {
+    const accesos = await this.accesoService.otorgar(
       datos.usuarioId,
       datos.modulos,
       datos.ciclo,
       datos.expiraEn ? new Date(datos.expiraEn) : null,
       datos.origen,
     );
+
+    // Dar acceso a mano también ACTIVA la cuenta. Sin esto, alguien que compró
+    // por fuera y llegó por "datos y luego pagar" se queda en PENDIENTE, y el
+    // login lo rechaza diciéndole que espera su pago — a alguien que ya pagó.
+    // (Se activa aquí y no dentro de AccesoService.otorgar a propósito: ese
+    // método también lo llama el webhook de Mercado Pago, y allí la activación
+    // tiene que ocurrir DESPUÉS, porque `activarParaCompra` distingue la primera
+    // activación para mandar el correo de compra una sola vez.)
+    await this.usuariosService.activar(datos.usuarioId);
+
+    return accesos;
   }
 
   @UseGuards(RolesGuard)

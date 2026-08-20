@@ -3,8 +3,11 @@ import { AccesoService } from './acceso.service';
 import { AccesoController } from './acceso.controller';
 import { CandadoGuard } from './candado.guard';
 import { PrismaService } from '../prisma/prisma.service';
+import { UsuariosModule } from '../usuarios/usuarios.module';
 
 @Module({
+  // UsuariosModule: dar acceso a mano desde el panel también activa la cuenta.
+  imports: [UsuariosModule],
   providers: [AccesoService, CandadoGuard, PrismaService],
   controllers: [AccesoController],
   // Se exportan para que otros módulos puedan poner el muro de pago:
