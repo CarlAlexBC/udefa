@@ -13,6 +13,7 @@ import {
   UserCircle,
   Users,
 } from "lucide-react";
+import { Revelar } from "@/components/landing/Revelar";
 import { CarruselMuestra } from "@/components/landing/CarruselMuestra";
 import { CarruselPlanteles } from "@/components/landing/CarruselPlanteles";
 import { SiteFooter } from "@/components/legal/SiteFooter";
@@ -21,6 +22,16 @@ import { acabadoClaroDeModulo, HOJA_DE_PLATA_CLARA } from "@/lib/colores-paquete
 export default function Home() {
   return (
     <main className="flex-1">
+      {/*
+        Red de seguridad de la aparición al hacer scroll (components/landing/Revelar):
+        ese componente empieza con el contenido invisible y lo revela desde
+        JavaScript. Sin JavaScript se quedaría en blanco PARA SIEMPRE — y ésta es
+        la portada, lo primero que ve quien llega desde TikTok. Esto lo deja
+        visible de una vez en ese caso.
+      */}
+      <noscript>
+        <style>{`[data-revelar='oculto']{opacity:1 !important;transform:none !important}`}</style>
+      </noscript>
 
       {/* ═══════════════════════════════════════════════════════════
           HERO — sección dark con nav + headline + logo + trust indicators
@@ -127,23 +138,23 @@ export default function Home() {
       {/* ═══════════════════════════════════════════════════════════
           FASES — sección light con 3 cards de las fases del examen
           ═══════════════════════════════════════════════════════════ */}
-      <section id="fases" className="bg-background py-16">
+      <section id="fases" className="bg-background py-20 md:py-32">
         <div className="mx-auto max-w-6xl px-6">
-          <div className="mb-10 text-center">
+          <Revelar className="mb-14 text-center md:mb-16">
             <div className="mb-2 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-widest text-accent">
               <span className="h-px w-5 bg-accent" />
               Cómo funciona el sistema
               <span className="h-px w-5 bg-accent" />
             </div>
-            <h2 className="text-3xl font-semibold tracking-tight text-foreground">Cuatro fases. Un solo perfil.</h2>
-            <p className="mx-auto mt-2 max-w-lg text-sm text-muted-foreground">
+            <h2 className="text-3xl font-semibold tracking-tight text-foreground md:text-4xl">Cuatro fases. Un solo perfil.</h2>
+            <p className="mx-auto mt-4 max-w-lg text-base leading-relaxed text-muted-foreground">
               El sistema no te evalúa por partes. Combina las cuatro fases para construir un solo perfil coherente del aspirante.
             </p>
-          </div>
+          </Revelar>
 
           {/* Orden: primero el cultural, después las tres fases psicológicas
               (decisión de Carlo — es el orden del proceso de admisión). */}
-          <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
+          <Revelar retraso={80} className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
             <FaseCard
               numero="01"
               titulo="Cultural"
@@ -180,7 +191,7 @@ export default function Home() {
               icono={<Scale className="h-5 w-5" />}
               modulo="psicologico"
             />
-          </div>
+          </Revelar>
 
           {/* Leyenda: explica en llano el formato de respuesta de las fases
               psicológicas, sin exponer el detalle técnico de la escala Likert. */}
@@ -197,23 +208,25 @@ export default function Home() {
           PRUEBA EL EXAMEN — carrusel interactivo con 5 reactivos
           reales de las 3 fases + micro-diagnóstico final.
           ═══════════════════════════════════════════════════════════ */}
-      <section id="ejemplos" className="bg-muted/40 py-16 md:py-20">
+      <section id="ejemplos" className="bg-muted/40 py-20 md:py-32">
         <div className="mx-auto max-w-6xl px-6">
-          <div className="mb-10 text-center">
+          <Revelar className="mb-14 text-center md:mb-16">
             <div className="mb-2 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-widest text-accent">
               <span className="h-px w-5 bg-accent" />
               Prueba el examen
               <span className="h-px w-5 bg-accent" />
             </div>
-            <h2 className="text-3xl font-semibold tracking-tight text-foreground">
+            <h2 className="text-3xl font-semibold tracking-tight text-foreground md:text-4xl">
               Cinco reactivos reales. Responde y descubre cómo evalúa el sistema.
             </h2>
-            <p className="mx-auto mt-2 max-w-xl text-sm text-muted-foreground">
+            <p className="mx-auto mt-4 max-w-xl text-base leading-relaxed text-muted-foreground">
               Tres del psicométrico, uno de personalidad, uno del axiológico. Al responder cada uno recibirás una explicación pedagógica de cómo funciona el sistema — sin memorizar, entendiendo la lógica.
             </p>
-          </div>
+          </Revelar>
 
-          <CarruselMuestra />
+          <Revelar retraso={80}>
+            <CarruselMuestra />
+          </Revelar>
         </div>
       </section>
 
@@ -224,11 +237,11 @@ export default function Home() {
           PLANTELES DISPONIBLES — dark section con oferta educativa
           Info oficial extraída de la Convocatoria UDEFA 2026.
           ═══════════════════════════════════════════════════════════ */}
-      <section id="planteles" className="relative overflow-hidden bg-primary py-16 text-primary-foreground">
+      <section id="planteles" className="relative overflow-hidden bg-primary py-20 text-primary-foreground md:py-32">
         <div className="pointer-events-none absolute -top-24 -right-24 h-72 w-72 rounded-full bg-military/20 blur-3xl" />
 
         <div className="relative mx-auto max-w-6xl px-6">
-          <div className="mb-10 text-center">
+          <Revelar className="mb-14 text-center md:mb-16">
             <div className="mb-2 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-widest text-accent">
               <span className="h-px w-5 bg-accent" />
               Planteles disponibles
@@ -237,12 +250,14 @@ export default function Home() {
             <h2 className="text-3xl font-semibold tracking-tight">
               Elige tu ruta militar.
             </h2>
-            <p className="mx-auto mt-2 max-w-lg text-sm text-muted-foreground">
+            <p className="mx-auto mt-4 max-w-lg text-base leading-relaxed text-muted-foreground">
               Los planteles del Sistema Educativo Militar. El examen psicológico es el mismo para todos — tu plantel define la carrera.
             </p>
-          </div>
+          </Revelar>
 
-          <CarruselPlanteles />
+          <Revelar retraso={80}>
+            <CarruselPlanteles />
+          </Revelar>
         </div>
       </section>
 
@@ -252,7 +267,7 @@ export default function Home() {
       {/* ═══════════════════════════════════════════════════════════
           SOBRE EL CREADOR — Carlo Alexander
           ═══════════════════════════════════════════════════════════ */}
-      <section id="creador" className="bg-background py-16">
+      <section id="creador" className="bg-background py-20 md:py-32">
         <div className="mx-auto max-w-4xl px-6">
           <div className="mb-8 text-center">
             <div className="mb-2 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-widest text-military">
@@ -303,7 +318,7 @@ export default function Home() {
             </div>
 
             <div>
-              <h2 className="text-3xl font-semibold tracking-tight text-foreground">
+              <h2 className="text-3xl font-semibold tracking-tight text-foreground md:text-4xl">
                 Carlo Alexander
               </h2>
               <p className="mt-1 text-sm text-muted-foreground">
@@ -351,7 +366,7 @@ export default function Home() {
           <div className="h-96 w-96 rounded-full bg-accent/10 blur-3xl" />
         </div>
 
-        <div className="relative mx-auto max-w-3xl px-6 py-20 text-center">
+        <Revelar className="relative mx-auto max-w-3xl px-6 py-28 text-center md:py-32">
           <p className="mb-2 text-xs font-semibold uppercase tracking-widest text-accent">Empieza hoy</p>
           <h2 className="mb-4 text-3xl font-semibold tracking-tight md:text-4xl">
             La institución no busca personas <span className="text-accent">perfectas</span>.
@@ -369,7 +384,7 @@ export default function Home() {
             Comenzar mi preparación
             <ArrowRight className="ml-1 h-4 w-4" />
           </Link>
-        </div>
+        </Revelar>
       </section>
 
       {/* Pie de página compartido — aviso de independencia + enlaces legales */}
