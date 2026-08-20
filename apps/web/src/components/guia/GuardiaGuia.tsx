@@ -3,19 +3,24 @@
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
 import { apiFetch } from '@/lib/api'
-import { Lock, Loader2, ArrowRight } from 'lucide-react'
+import { Lock, Loader2, ArrowRight, AlertCircle } from 'lucide-react'
 
-type Estado = 'cargando' | 'ok' | 'bloqueado'
+type Estado = 'cargando' | 'ok' | 'bloqueado' | 'sin-confirmar'
 
 /**
- * Muro de pago de la Guía del Aspirante. Sólo muestra el contenido si el usuario
- * tiene el módulo psicológico (la Guía va incluida en Psicológico y Completa).
- * Con el candado apagado —o si la consulta falla— deja pasar (default abierto),
- * igual que el resto del muro.
+ * Muro de pago de la Guía del Aspirante, a nivel de INTERFAZ.
  *
- * Nota: la Guía es contenido estático del frontend, así que este candado es a
- * nivel de interfaz. Para blindaje real habría que servirla desde un endpoint
- * del backend que verifique el acceso.
+ * Qué protege y qué no. Esto corre en el navegador: decide si se PINTA lo que
+ * envuelve, no si el servidor lo manda. Por eso ya no lo usa la página de una
+ * sección —ahí el candado es de servidor y el texto ni se lee del disco si no
+ * hay acceso (ver lib/guia-acceso.ts)—. Aquí sólo queda envolviendo el índice y
+ * las páginas de capítulo, que muestran TÍTULOS, no el manual.
+ *
+ * Antes, si la consulta fallaba, dejaba pasar ("default abierto"). Ese fue
+ * exactamente el error que hizo posible leer la Guía completa con una cookie
+ * inventada: bastaba que la comprobación no respondiera. Ahora una falla no
+ * abre: muestra un aviso de que no se pudo confirmar, diciendo claro que el
+ * problema es nuestro para que quien pagó no crea que perdió su acceso.
  */
 export function GuardiaGuia({ children }: { children: React.ReactNode }) {
   const [estado, setEstado] = useState<Estado>('cargando')
@@ -29,7 +34,7 @@ export function GuardiaGuia({ children }: { children: React.ReactNode }) {
             : 'ok',
         ),
       )
-      .catch(() => setEstado('ok'))
+      .catch(() => setEstado('sin-confirmar'))
   }, [])
 
   if (estado === 'cargando') {
@@ -39,6 +44,23 @@ export function GuardiaGuia({ children }: { children: React.ReactNode }) {
           <Loader2 className="h-5 w-5 animate-spin" />
           <p className="text-sm">Cargando…</p>
         </div>
+      </div>
+    )
+  }
+
+  if (estado === 'sin-confirmar') {
+    return (
+      <div className="mx-auto max-w-md px-6 py-16 text-center">
+        <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-2xl bg-muted">
+          <AlertCircle className="h-6 w-6 text-muted-foreground" />
+        </div>
+        <h1 className="text-2xl font-semibold text-foreground">
+          No pudimos confirmar tu acceso
+        </h1>
+        <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+          Es un problema nuestro, no tuyo. Si compraste el paquete Psicológico o
+          el Completa, tu acceso sigue ahí: recarga en un momento.
+        </p>
       </div>
     )
   }
