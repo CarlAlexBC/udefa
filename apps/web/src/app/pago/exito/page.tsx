@@ -55,9 +55,16 @@ function Contenido() {
             <h1 className="text-2xl font-semibold text-foreground">
               ¡Pago confirmado!
             </h1>
+            {/*
+              Ojo con este texto: quien compra SIN cuenta previa ya no entra con
+              la contraseña que tecleó al comprar — se anula al aprobarse el pago
+              y su cuenta se abre con el enlace que va en el correo. Quien ya
+              tenía cuenta entra como siempre. Ver PagosService.procesarPago.
+            */}
             <p className="mt-2 text-sm text-muted-foreground">
-              Tu acceso ya está activo. Inicia sesión con el correo y la
-              contraseña que registraste para entrar a tu preparación.
+              Tu acceso ya está activo. Revisa tu correo: ahí va tu recibo y, si
+              abriste tu cuenta al comprar, el botón para definir tu contraseña.
+              Si ya tenías cuenta, entra como siempre.
             </p>
             <Link
               href="/login?returnTo=/inicio"
@@ -74,9 +81,15 @@ function Contenido() {
             <h1 className="text-xl font-semibold text-foreground">
               Tu pago está en proceso
             </h1>
+            {/*
+              Antes decía "inicia sesión para revisarlo", y con el pago sin
+              acreditar eso es un callejón sin salida: la cuenta de quien compró
+              como invitado sigue en PENDIENTE y el login la rechaza a propósito.
+            */}
             <p className="mt-2 text-sm text-muted-foreground">
-              En cuanto se acredite, tu acceso se activa automáticamente. Inicia
-              sesión con el correo que registraste para revisarlo.
+              En cuanto Mercado Pago lo acredite, tu acceso se activa solo y te
+              avisamos por correo. No tienes que hacer nada. Si abriste tu cuenta
+              al comprar, vas a poder entrar cuando el pago se confirme.
             </p>
             <Link
               href="/login?returnTo=/inicio"
