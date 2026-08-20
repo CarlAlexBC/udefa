@@ -1,4 +1,8 @@
-import { Injectable, NotFoundException } from '@nestjs/common';
+import {
+  ForbiddenException,
+  Injectable,
+  NotFoundException,
+} from '@nestjs/common';
 import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 
@@ -119,11 +123,68 @@ export class ExplicacionesService {
   }
 
   /**
+   * ¿Este aspirante ya se topó con este reactivo?
+   *
+   * Es la llave de "Entiende el tema": la explicación se gana contestando, no
+   * pidiéndola por número. Sin esto, una sola cuenta puede recorrer los ids de
+   * reactivo del 1 al último y bajarse TODAS las explicaciones publicadas en un
+   * rato — y como son por capítulo, son pocas: se vacía el trabajo completo.
+   *
+   * Cuenta cualquiera de las tres formas de haberlo visto, que son las tres
+   * desde donde el frontend puede pedir la explicación:
+   *   - práctica  (RespuestaPractica: usuario + reactivo)
+   *   - repaso    (RepasoReactivo: usuario + reactivo)
+   *   - simulacro (RespuestaReactivo, colgada del intento de ese usuario)
+   *
+   * Se consultan en ese orden y se corta en la primera que dé: las dos primeras
+   * van por índice y son baratas; la del simulacro es la más cara, así que sólo
+   * se paga cuando hizo falta.
+   */
+  private async yaLoContesto(
+    usuarioId: number,
+    reactivoId: number,
+  ): Promise<boolean> {
+    const enPractica = await this.prisma.respuestaPractica.findFirst({
+      where: { usuarioId, reactivoId },
+      select: { id: true },
+    });
+    if (enPractica) return true;
+
+    const enRepaso = await this.prisma.repasoReactivo.findFirst({
+      where: { usuarioId, reactivoId },
+      select: { id: true },
+    });
+    if (enRepaso) return true;
+
+    const enSimulacro = await this.prisma.respuestaReactivo.findFirst({
+      where: { reactivoId, intentoExamen: { usuarioId } },
+      select: { id: true },
+    });
+    return enSimulacro !== null;
+  }
+
+  /**
    * ASPIRANTE — la explicación PUBLICADA del capítulo al que pertenece un
    * reactivo. Devuelve `null` si no hay o si sigue en borrador. Se resuelve por
    * reactivoId para NO tener que tocar la corrección de práctica ni de repaso.
+   *
+   * Sólo la entrega si el aspirante ya contestó ese reactivo (ver
+   * `yaLoContesto`). Es la misma idea del freno anti-vaciado del armado de
+   * exámenes: que el banco no se pueda recorrer con un script.
    */
-  async porReactivo(reactivoId: number) {
+  async porReactivo(usuarioId: number, reactivoId: number) {
+    if (!(await this.yaLoContesto(usuarioId, reactivoId))) {
+      throw new ForbiddenException({
+        message:
+          'La explicación de un tema se abre cuando contestas un reactivo de ese tema.',
+        code: 'REACTIVO_NO_CONTESTADO',
+      });
+    }
+    return this.explicacionDe(reactivoId);
+  }
+
+  /** Resuelve reactivo → capítulo → explicación publicada (o null). */
+  private async explicacionDe(reactivoId: number) {
     const reactivo = await this.prisma.reactivo.findUnique({
       where: { id: reactivoId },
       select: { temaBanco: { select: { capituloId: true } } },

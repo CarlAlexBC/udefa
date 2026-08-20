@@ -9,6 +9,10 @@ import {
   UseGuards,
 } from '@nestjs/common';
 import { GuardarExplicacionDto } from './dto/guardar-explicacion.dto';
+import {
+  UsuarioActual,
+  type UsuarioAutenticado,
+} from '../auth/decorators/usuario-actual.decorator';
 import { ExplicacionesService } from './explicaciones.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
@@ -25,11 +29,18 @@ import { Modulo } from '../acceso/modulo.decorator';
 export class ExplicacionesController {
   constructor(private explicaciones: ExplicacionesService) {}
 
-  /** Aspirante: la explicación PUBLICADA del capítulo de un reactivo (o null). */
+  /**
+   * Aspirante: la explicación PUBLICADA del capítulo de un reactivo (o null).
+   * Sólo la sirve si ESE aspirante ya contestó ESE reactivo — si no, 403
+   * REACTIVO_NO_CONTESTADO. Es el freno anti-cosecha; ver ExplicacionesService.
+   */
   @Modulo('cultural')
   @Get('por-reactivo')
-  porReactivo(@Query('reactivoId', ParseIntPipe) reactivoId: number) {
-    return this.explicaciones.porReactivo(reactivoId);
+  porReactivo(
+    @UsuarioActual() usuario: UsuarioAutenticado,
+    @Query('reactivoId', ParseIntPipe) reactivoId: number,
+  ) {
+    return this.explicaciones.porReactivo(usuario.id, reactivoId);
   }
 
   /** Admin: capítulos ordenados por más-fallado, con estado de su explicación. */
