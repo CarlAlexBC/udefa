@@ -33,6 +33,22 @@ export class AuthService {
       throw new UnauthorizedException('Correo o contraseña incorrectos');
     }
 
+    // Cuenta creada por "datos y luego pagar" cuyo pago nunca se aprobó. Si no
+    // se corta AQUÍ, esa puerta es registro gratis: `/pagos/registrar-y-pagar`
+    // es público y crea la cuenta ANTES de cobrar, así que cualquiera podía
+    // llenar el formulario, ignorar el checkout y entrar igual.
+    // El cast defensivo es el mismo de usuarios.service: la columna existe en la
+    // base y su default es ACTIVA, así que ninguna cuenta previa se ve afectada
+    // aunque el cliente de Prisma aún no refleje el campo.
+    const estado = (usuario as { estado?: string }).estado ?? 'ACTIVA';
+    if (estado === 'PENDIENTE') {
+      throw new UnauthorizedException({
+        message:
+          'Tu cuenta está esperando el pago. En cuanto se confirme la compra se activa sola y podrás entrar.',
+        code: 'CUENTA_PENDIENTE',
+      });
+    }
+
     // Antes de contar dispositivos, limpiamos las sesiones MUERTAS de este
     // usuario: las que ya rebasaron la vigencia del pase (7 días) tienen el JWT
     // caducado —jwt.strategy rechaza tokens expirados—, así que su fila ya no

@@ -11,15 +11,20 @@ import { ExplicacionesService } from './explicaciones.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
 import { Roles } from '../auth/decorators/roles.decorator';
+import { CandadoGuard } from '../acceso/candado.guard';
+import { Modulo } from '../acceso/modulo.decorator';
 
 // RolesGuard deja pasar lo que no lleva @Roles: `por-reactivo` queda abierto a
 // cualquier aspirante autenticado; las rutas de edición son solo admin.
-@UseGuards(JwtAuthGuard, RolesGuard)
+// CandadoGuard hace lo propio con @Modulo: la explicación que ve el aspirante es
+// contenido cultural de pago; las de admin no lo llevan (ya son admin-only).
+@UseGuards(JwtAuthGuard, RolesGuard, CandadoGuard)
 @Controller('explicaciones')
 export class ExplicacionesController {
   constructor(private explicaciones: ExplicacionesService) {}
 
   /** Aspirante: la explicación PUBLICADA del capítulo de un reactivo (o null). */
+  @Modulo('cultural')
   @Get('por-reactivo')
   porReactivo(@Query('reactivoId') reactivoId: string) {
     return this.explicaciones.porReactivo(Number(reactivoId));

@@ -18,10 +18,14 @@ import {
   type UsuarioAutenticado,
 } from '../auth/decorators/usuario-actual.decorator';
 import { FrenoArmadoPorCuentaGuard } from './freno-armado-por-cuenta.guard';
+import { CandadoGuard } from '../acceso/candado.guard';
+import { Modulo } from '../acceso/modulo.decorator';
 
 // RolesGuard deja pasar las rutas sin @Roles; solo las mutaciones son admin.
 // Los GET (listar y armar) quedan abiertos a cualquier usuario autenticado.
-@UseGuards(JwtAuthGuard, RolesGuard)
+// CandadoGuard deja pasar las rutas sin @Modulo; las que SIRVEN contenido
+// cultural de pago lo llevan (ver la sección de práctica, más abajo).
+@UseGuards(JwtAuthGuard, RolesGuard, CandadoGuard)
 @Controller('examenes')
 export class ExamenesController {
   constructor(private examenesService: ExamenesService) {}
@@ -95,6 +99,8 @@ export class ExamenesController {
   /** N reactivos aleatorios de UNA materia (sin la respuesta correcta).
    *  Con ?capitulo=<id> acota la práctica a un solo tema del temario. */
   // Mismo freno anti-vaciado por cuenta: también entrega reactivos al azar.
+  // Y muro de pago: esto sirve el banco cultural, que es lo que se compra.
+  @Modulo('cultural')
   @UseGuards(FrenoArmadoPorCuentaGuard)
   @Get('practica/cultural')
   armarPracticaCultural(
@@ -112,6 +118,8 @@ export class ExamenesController {
   }
 
   /** Califica una respuesta, la guarda como práctica y devuelve la corrección. */
+  // De pago igual que armar: la corrección revela la respuesta y la cita del libro.
+  @Modulo('cultural')
   @Post('practica/cultural/responder')
   calificarPracticaCultural(
     @UsuarioActual() usuario: UsuarioAutenticado,
