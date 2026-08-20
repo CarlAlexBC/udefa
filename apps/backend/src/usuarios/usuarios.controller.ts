@@ -1,8 +1,10 @@
 import {
   Body,
   Controller,
+  Delete,
   Get,
   Param,
+  ParseIntPipe,
   Patch,
   Post,
   Query,
@@ -11,6 +13,7 @@ import {
 } from '@nestjs/common';
 import { UsuariosService } from './usuarios.service';
 import { CrearUsuarioDto } from './dto/crear-usuario.dto';
+import { CrearCuentaPruebaDto } from './dto/crear-cuenta-prueba.dto';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
 import { Roles } from '../auth/decorators/roles.decorator';
@@ -19,6 +22,9 @@ import { UsuarioActual } from '../auth/decorators/usuario-actual.decorator';
 // `isolatedModules` + `emitDecoratorMetadata` rechaza usarla en la firma
 // de un parámetro decorado si no viene de un import type.
 import type { UsuarioAutenticado } from '../auth/decorators/usuario-actual.decorator';
+
+/** La convocatoria a la que se amarran los accesos que se dan desde aquí. */
+const CICLO = '2027';
 
 @Controller('usuarios')
 export class UsuariosController {
@@ -89,5 +95,41 @@ export class UsuariosController {
       Number(id),
       datos.plantelId,
     );
+  }
+
+  /**
+   * Crea una CUENTA DE PRUEBA: sirve unos minutos y se acaba sola.
+   *
+   * Devuelve el correo y la contraseña EN CLARO una única vez — es la única
+   * forma de podérselos pasar a quien va a probar. No se guardan así en ningún
+   * lado; en la base la contraseña va cifrada como la de cualquiera.
+   */
+  @UseGuards(JwtAuthGuard, RolesGuard)
+  @Roles('admin')
+  @Post('prueba')
+  crearCuentaDePrueba(@Body() datos: CrearCuentaPruebaDto) {
+    return this.usuariosService.crearCuentaDePrueba({
+      plantelId: datos.plantelId,
+      modulos: datos.modulos,
+      minutos: datos.minutos,
+      ciclo: CICLO,
+      nombre: datos.nombre,
+    });
+  }
+
+  /**
+   * Borra una cuenta y todo su historial. No tiene vuelta atrás.
+   *
+   * Recibe quién lo pide para impedir que un admin se borre a sí mismo y deje
+   * el panel sin dueño (ver UsuariosService.eliminar).
+   */
+  @UseGuards(JwtAuthGuard, RolesGuard)
+  @Roles('admin')
+  @Delete(':id')
+  eliminar(
+    @Param('id', ParseIntPipe) id: number,
+    @UsuarioActual() admin: UsuarioAutenticado,
+  ) {
+    return this.usuariosService.eliminar(id, admin.id);
   }
 }

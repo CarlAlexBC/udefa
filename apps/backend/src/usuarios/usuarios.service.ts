@@ -7,6 +7,7 @@ import {
 import { PrismaService } from '../prisma/prisma.service';
 import { CrearUsuarioDto } from './dto/crear-usuario.dto';
 import * as bcrypt from 'bcrypt';
+import { randomInt } from 'crypto';
 import { Prisma } from '@prisma/client';
 
 const ROLES_VALIDOS = ['aspirante', 'admin'] as const;
@@ -404,5 +405,132 @@ export class UsuariosService {
     });
     if (!existe) throw new NotFoundException('Usuario no encontrado');
     return this.asignarPlantel(objetivoUsuarioId, plantelId);
+  }
+
+  /* ═══════════════════════════════════════════════════════════
+     Cuentas de PRUEBA — el gancho comercial.
+
+     Una cuenta que sirve unos minutos para que alguien conozca la plataforma por
+     dentro. No es una versión recortada: ve lo mismo que un cliente, pero por un
+     rato.
+
+     Se apoya entera en lo que ya existía: el candado YA comprueba `expiraEn` en
+     cada petición (AccesoService.tieneAcceso), así que "temporal" no necesitó
+     lógica nueva — sólo una caducidad corta en vez de la de fin de convocatoria.
+
+     Qué pasa cuando se acaba, para que no sorprenda: deja de pasar el candado en
+     la SIGUIENTE petición que lo cruce. Si estaba a media práctica, termina la
+     que ya tenía cargada; lo que no puede es empezar otra. Se apaga como una
+     vela, no como un portazo.
+     ═══════════════════════════════════════════════════════════ */
+
+  /**
+   * Crea una cuenta temporal y le da acceso por N minutos.
+   *
+   * El correo es inventado (@prueba.local) a propósito: nadie tiene que dar el
+   * suyo para probar, y así no choca con el de un cliente real. La contraseña se
+   * genera legible para poder dictarla por WhatsApp, sin letras que se confundan
+   * al hablar (nada de l/1 ni O/0). Las dos se devuelven UNA sola vez: en la base
+   * la contraseña vive cifrada, como la de cualquiera.
+   */
+  async crearCuentaDePrueba(datos: {
+    plantelId: number;
+    modulos: string[];
+    minutos: number;
+    ciclo: string;
+    nombre?: string;
+  }) {
+    const plantel = await this.prisma.plantel.findUnique({
+      where: { id: datos.plantelId },
+    });
+    if (!plantel) throw new NotFoundException('Plantel no encontrado');
+    if (!datos.modulos.length) {
+      throw new BadRequestException('Elige al menos un módulo para la prueba.');
+    }
+
+    const SIN_CONFUSIONES = 'abcdefghjkmnpqrstuvwxyz23456789';
+    const sufijo = Array.from(
+      { length: 5 },
+      () => SIN_CONFUSIONES[randomInt(SIN_CONFUSIONES.length)],
+    ).join('');
+
+    const email = 'prueba-' + sufijo + '@prueba.local';
+    const passwordEnClaro = 'monote-' + randomInt(1000, 10000);
+    const expiraEn = new Date(Date.now() + datos.minutos * 60_000);
+
+    const usuario = await this.prisma.usuario.create({
+      data: {
+        nombre: datos.nombre?.trim() || 'Prueba ' + sufijo,
+        email,
+        password: await bcrypt.hash(passwordEnClaro, 10),
+        plantelId: datos.plantelId,
+        estado: 'ACTIVA',
+      },
+    });
+
+    await this.prisma.acceso.createMany({
+      data: datos.modulos.map((modulo) => ({
+        usuarioId: usuario.id,
+        modulo,
+        ciclo: datos.ciclo,
+        expiraEn,
+        origen: 'prueba',
+      })),
+    });
+
+    return {
+      id: usuario.id,
+      nombre: usuario.nombre,
+      email,
+      password: passwordEnClaro,
+      expiraEn,
+      minutos: datos.minutos,
+      modulos: datos.modulos,
+    };
+  }
+
+  /**
+   * Borra una cuenta y TODO lo que cuelga de ella.
+   *
+   * Un aspirante no es una fila: arrastra intentos, respuestas de simulacro y de
+   * práctica, cola de repaso, racha, secciones leídas, accesos y sesiones. Si se
+   * borrara sólo la fila, la base lo impediría por llave foránea. Por eso va en
+   * orden y dentro de una transacción: o se va todo, o no se va nada.
+   *
+   * No se puede borrar uno a sí mismo. Es la equivocación más fácil de cometer y
+   * la más cara: deja el panel sin quien lo administre.
+   */
+  async eliminar(usuarioId: number, solicitanteId: number) {
+    if (usuarioId === solicitanteId) {
+      throw new BadRequestException('No puedes borrar tu propia cuenta.');
+    }
+    const usuario = await this.prisma.usuario.findUnique({
+      where: { id: usuarioId },
+      select: { id: true, email: true },
+    });
+    if (!usuario) throw new NotFoundException('Usuario no encontrado');
+
+    const intentos = await this.prisma.intentoExamen.findMany({
+      where: { usuarioId },
+      select: { id: true },
+    });
+    const idsIntentos = intentos.map((i) => i.id);
+
+    await this.prisma.$transaction([
+      this.prisma.respuestaReactivo.deleteMany({
+        where: { intentoExamenId: { in: idsIntentos } },
+      }),
+      this.prisma.intentoExamen.deleteMany({ where: { usuarioId } }),
+      this.prisma.sesionExamenCompleto.deleteMany({ where: { usuarioId } }),
+      this.prisma.repasoReactivo.deleteMany({ where: { usuarioId } }),
+      this.prisma.respuestaPractica.deleteMany({ where: { usuarioId } }),
+      this.prisma.actividadDiaria.deleteMany({ where: { usuarioId } }),
+      this.prisma.seccionLeida.deleteMany({ where: { usuarioId } }),
+      this.prisma.acceso.deleteMany({ where: { usuarioId } }),
+      this.prisma.sesion.deleteMany({ where: { usuarioId } }),
+      this.prisma.usuario.delete({ where: { id: usuarioId } }),
+    ]);
+
+    return { borrado: usuario.email, intentosBorrados: idsIntentos.length };
   }
 }
