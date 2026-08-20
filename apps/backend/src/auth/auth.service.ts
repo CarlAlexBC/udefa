@@ -43,8 +43,12 @@ export class AuthService {
     const estado = (usuario as { estado?: string }).estado ?? 'ACTIVA';
     if (estado === 'PENDIENTE') {
       throw new UnauthorizedException({
+        // Dice lo que de verdad va a pasar: al aprobarse el pago la cuenta se
+        // activa Y le llega el enlace para definir su contraseña (ver
+        // prepararDefinicionDePassword). Prometerle que "entra con la que
+        // registró" sería mandarlo a una puerta cerrada.
         message:
-          'Tu cuenta está esperando el pago. En cuanto se confirme la compra se activa sola y podrás entrar.',
+          'Tu cuenta está esperando el pago. En cuanto Mercado Pago lo confirme, te llega un correo para definir tu contraseña y entrar.',
         code: 'CUENTA_PENDIENTE',
       });
     }

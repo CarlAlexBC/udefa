@@ -45,7 +45,30 @@ function LoginForm() {
       })
 
       if (!res.ok) {
-        setError('Email o contraseña incorrectos')
+        // Por defecto, el mensaje neutro: el backend contesta lo MISMO si el
+        // correo no existe o si la contraseña está mal, para no delatar quién
+        // tiene cuenta. Ese mensaje se conserva tal cual.
+        //
+        // Pero hay dos casos en que decir "contraseña incorrecta" es mentira y
+        // deja al aspirante dando vueltas, así que se muestran aparte:
+        //   - CUENTA_PENDIENTE: compró, su pago aún no se acredita y la cuenta
+        //     todavía no abre. Su contraseña no tiene nada de malo.
+        //   - 429: se pasó del tope de intentos por minuto (freno anti-fuerza
+        //     bruta). Lo único que necesita es esperar.
+        let mensaje = 'Email o contraseña incorrectos'
+        if (res.status === 429) {
+          mensaje = 'Demasiados intentos seguidos. Espera un minuto y vuelve a intentar.'
+        } else {
+          try {
+            const cuerpo = await res.json()
+            if (cuerpo?.code === 'CUENTA_PENDIENTE' && typeof cuerpo.message === 'string') {
+              mensaje = cuerpo.message
+            }
+          } catch {
+            // El backend no devolvió JSON: nos quedamos con el mensaje neutro.
+          }
+        }
+        setError(mensaje)
         setLoading(false)
         return
       }
