@@ -518,13 +518,27 @@ async function escribir(archivos: ArchivoParsed[]) {
           ' importador completo (sin --carpeta).',
       );
     } else {
+      // Los TRES historiales que puede tener un reactivo, no dos. Faltaba
+      // `respuestasPractica`, y no es un detalle: un reactivo contestado sólo en
+      // PRÁCTICA (el modo que más usa el aspirante) se daba por huérfano, y como
+      // esa tabla tiene llave foránea sin cascada, el delete no borra: TRUENA, y
+      // como esto no va en transacción, el import se queda a medias.
       const restantes = await prisma.reactivo.findMany({
         where: { banco: BANCO },
-        select: { id: true, _count: { select: { respuestas: true, repasos: true } } },
+        select: {
+          id: true,
+          _count: {
+            select: { respuestas: true, repasos: true, respuestasPractica: true },
+          },
+        },
       });
       for (const r of restantes) {
         if (vistos.has(r.id)) continue;
-        if (r._count.respuestas > 0 || r._count.repasos > 0) {
+        const tieneHistorial =
+          r._count.respuestas > 0 ||
+          r._count.repasos > 0 ||
+          r._count.respuestasPractica > 0;
+        if (tieneHistorial) {
           conservadosPorReferencia++;
         } else {
           await prisma.reactivo.delete({ where: { id: r.id } });
