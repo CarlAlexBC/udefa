@@ -125,9 +125,9 @@ export default function TerminosPage() {
       <DocSeccion titulo="10. Ley aplicable y jurisdicción">
         <DocParrafo>
           Estos Términos se rigen por la legislación mexicana. Para cualquier
-          controversia, las partes se someten a los tribunales competentes de{' '}
-          <DatoLegal valor={LEGAL.jurisdiccion} />, salvo los derechos que la ley
-          reconozca al consumidor.
+          controversia, las partes se someten a los tribunales competentes
+          conforme a la legislación aplicable en los Estados Unidos Mexicanos,
+          salvo los derechos que la ley reconozca al consumidor.
         </DocParrafo>
       </DocSeccion>
 

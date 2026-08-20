@@ -41,18 +41,38 @@ export const LEGAL = {
    */
   identidadFiscal: POR_COMPLETAR('persona física con actividad empresarial (RESICO): nombre completo + RFC'),
 
-  /** Correo de contacto que se publica en los documentos (soporte/privacidad). */
-  correoContacto: POR_COMPLETAR('correo de contacto público, p. ej. contacto@tudominio.com'),
+  /**
+   * Correo de contacto que se publica en los documentos (soporte/privacidad).
+   *
+   * Decisión de Carlo (20 ago 2026): se publica su correo personal mientras no
+   * haya dominio propio ni alta ante el SAT. Es el único dato de contacto que
+   * puede dar hoy sin comprometerse de más, y dejarlo en blanco sería peor: un
+   * documento legal sin forma de contactar al responsable no sirve para lo que
+   * existe. Cuando haya dominio, cámbialo por contacto@tudominio.com.
+   */
+  correoContacto: 'elmonoteteguia@gmail.com',
 
-  /** Dominio del sitio, cuando lo tengas. */
+  /** Dominio del sitio, cuando lo tengas. HOY NO SE PUBLICA en ninguna página. */
   sitioWeb: POR_COMPLETAR('dominio del sitio, p. ej. https://elmonoteteguia.com'),
 
   /** Redes públicas del proyecto. */
   tiktok: 'https://www.tiktok.com/@elmonoteteguia',
 
   /**
-   * Ciudad/Estado cuya jurisdicción aplica en Términos (cláusula de
-   * "tribunales competentes"). En México suele ser tu ciudad de operación.
+   * ⏳ PENDIENTE — HOY NO SE PUBLICA EN NINGUNA PÁGINA.
+   *
+   * Ciudad/Estado cuya jurisdicción aplica en Términos (cláusula de "tribunales
+   * competentes"). Se retiró de la página el 20 ago 2026 por la misma razón que
+   * `identidadFiscal`: señalar unos tribunales concretos equivale a declarar un
+   * domicilio de operación, y eso va junto con el alta fiscal.
+   *
+   * Mientras tanto la cláusula 10 remite a los tribunales competentes conforme a
+   * la ley mexicana, que es exactamente lo que aplica por defecto cuando no se
+   * pacta un foro: no se pierde nada por no nombrarlo.
+   *
+   * Cuando lo fijes: pon aquí 'Ciudad, Estado' y vuelve a insertar
+   * <DatoLegal valor={LEGAL.jurisdiccion} /> en la sección 10 de
+   * `src/app/legal/terminos/page.tsx`.
    */
   jurisdiccion: POR_COMPLETAR('ciudad y estado para la cláusula de jurisdicción'),
 
@@ -70,7 +90,7 @@ export const LEGAL = {
    * Fecha de última actualización que se muestra en cada documento.
    * Actualízala cuando cambies un texto legal.
    */
-  ultimaActualizacion: '28 de julio de 2026',
+  ultimaActualizacion: '20 de agosto de 2026',
 } as const
 
 /**

@@ -11,18 +11,27 @@
 
 ## 0. Antes de tocar nada: lo que sólo puede hacer Carlo
 
-Ninguna de estas cuatro cosas la puede resolver un asistente. Sin ellas, el
-despliegue se queda a medias.
+**Queda una sola cosa: comprar el dominio** (`elmonoteteguia.com`). Destraba
+cinco de golpe: el correo a los aspirantes, la dirección del sitio, CORS, el
+webhook de Mercado Pago y el remitente de los correos.
 
-| Qué | Por qué hace falta |
-|---|---|
-| **Comprar el dominio** (`elmonoteteguia.com`) | Destraba cinco cosas de golpe: el correo a los aspirantes, la dirección del sitio, CORS, el webhook de Mercado Pago y las páginas legales. |
-| **Nombre completo + RFC** | En México, una página que cobra tiene que identificar quién cobra. Va en `apps/web/src/lib/legal.ts` → `identidadFiscal`. |
-| **Ciudad y estado** de la jurisdicción | Cláusula de los términos. Mismo archivo → `jurisdiccion`. |
-| **Correo de contacto público** | Mismo archivo → `correoContacto`. Puede ser un gmail mientras. |
+### Lo legal ya no bloquea (20 ago 2026)
 
-Hoy esas páginas muestran literalmente `[POR COMPLETAR: ...]` a quien las lea.
-Están en `/legal/terminos`, `/legal/privacidad` y `/legal/aviso-legal`.
+Las páginas legales **están completas y publicables**: no queda ni un
+`[POR COMPLETAR]` a la vista. Se resolvió por decisión de Carlo dejando fuera
+todo lo que dependa del alta ante el SAT:
+
+- **Contacto**: `elmonoteteguia@gmail.com`. Es el dato que sí puede dar hoy.
+- **Identidad fiscal (RFC)**: no se publica. Ya se había retirado el 9 ago.
+- **Jurisdicción (ciudad/estado)**: no se publica. Nombrar unos tribunales
+  concretos equivale a declarar un domicilio de operación, y eso va junto con el
+  alta fiscal. La cláusula 10 de Términos remite ahora a los tribunales
+  competentes conforme a la ley mexicana — que es justo lo que aplica por
+  defecto cuando no se pacta un foro, así que no se pierde nada.
+
+Los tres campos siguen existiendo en `apps/web/src/lib/legal.ts` con
+instrucciones de dónde volver a insertarlos el día del alta. **Nada de esto
+impide desplegar ni cobrar.**
 
 ---
 
@@ -152,8 +161,8 @@ para preferir el camino A.
    DNS. Comprobar con `node scripts/_probar-correo.js tu@correo.com`.
 7. **Configurar el webhook en Mercado Pago** con la URL pública y guardar su
    clave secreta en `MERCADOPAGO_WEBHOOK_SECRET`.
-8. **Llenar los cuatro datos legales** en `apps/web/src/lib/legal.ts` y volver a
-   desplegar la web.
+8. **Actualizar el correo de contacto** en `apps/web/src/lib/legal.ts` si ya
+   quieres usar `contacto@tudominio.com` en vez del gmail (opcional).
 9. **Encender el candado** (`CANDADO_ACCESO=on`) y darse acceso a uno mismo desde
    el panel — ser admin **no** salta el muro, a propósito.
 
@@ -175,7 +184,9 @@ Hacerlas en el sitio real, no en local.
    acceso se otorga solo, sin tocar nada a mano.
 7. **Sin acceso, todo cerrado**: una cuenta sin comprar recibe 403 en práctica,
    repaso, Guía y simulacro.
-8. **Las páginas legales** ya no dicen `[POR COMPLETAR]`.
+8. **Las páginas legales** cargan y muestran el correo de contacto — sin ningún
+   `[POR COMPLETAR]` en rojo. (Hoy ya es así; se comprueba por si un cambio
+   futuro reinserta un campo vacío.)
 
 ---
 
