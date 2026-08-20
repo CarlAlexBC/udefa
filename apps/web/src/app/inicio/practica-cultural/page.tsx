@@ -74,6 +74,32 @@ const LONGITUDES = [10, 20, 30]
  */
 const ACENTO = colorDeExamen('cultural', 'claro')
 
+/**
+ * Colores de "pasta" del estante de materias — uno por posición en la lista.
+ * Tonos de piel de libro, apagados a propósito para no pelearse con el
+ * latón de la banda activa.
+ */
+const PASTAS_ESTANTE: readonly [claro: string, oscuro: string][] = [
+  ['#5A2A2A', '#341616'], // oxblood
+  ['#2E4A32', '#1B2C1D'], // verde bosque
+  ['#243349', '#141C29'], // azul marino
+  ['#4A3524', '#2C1F15'], // café cuero
+  ['#1F4A47', '#122C2A'], // verde azulado
+  ['#4A2C4A', '#2C1A2C'], // ciruela
+  ['#3A4048', '#21252A'], // pizarra
+  ['#4A3E1E', '#2C2412'], // mostaza
+]
+const PASTAS_ESTANTE_ACTIVA: readonly [claro: string, oscuro: string][] = [
+  ['#7A3A3A', '#4A2020'],
+  ['#3F6544', '#254026'],
+  ['#31456C', '#1C2840'],
+  ['#6B4E33', '#402E1E'],
+  ['#2C6B66', '#1A403D'],
+  ['#6B3F6B', '#402540'],
+  ['#525A64', '#313640'],
+  ['#6B5A2C', '#40351A'],
+]
+
 export default function PracticaCulturalPage() {
   const [estado, setEstado] = useState<Estado>('cargando')
   const [error, setError] = useState('')
@@ -303,46 +329,102 @@ export default function PracticaCulturalPage() {
             <div className="mt-8 rounded-xl border border-dashed border-[#3D3A34] bg-white/[0.02] p-8 text-center text-sm text-[#9A9382]">
               El banco cultural de tu plantel todavía está en preparación.
             </div>
-          ) : (
-            <div className="mt-7 grid grid-cols-1 gap-4 md:grid-cols-[minmax(0,0.9fr)_minmax(0,1.4fr)]">
-              {/* ── Columna izquierda: materias ── */}
-              <div className="rounded-2xl border border-[#C99A3B]/12 bg-white/[0.02] p-3">
-                <p className="px-2 py-1.5 text-[0.65rem] font-semibold uppercase tracking-[0.2em] text-[#8A8579]">
+          ) : (() => {
+            const disponiblesMax = Math.max(1, ...conReactivos.map((m) => m.disponibles))
+            return (
+            <div className="mt-7 grid grid-cols-1 gap-4 md:grid-cols-[minmax(0,0.9fr)_minmax(0,1.4fr)] md:items-start">
+              {/* ── Columna izquierda: materias, como un estante de libros ──
+                  Sólo transform (translateY + rotate) se anima: es lo único que el
+                  compositor mueve sin repintar, así que corre igual de fino en un
+                  gama baja que en un gama alta. motion-reduce lo apaga del todo. */}
+              <div className="relative overflow-hidden rounded-2xl border border-[#C99A3B]/12 bg-white/[0.02] p-3">
+                <p className="mb-5 px-2 pt-1 text-[0.65rem] font-semibold uppercase tracking-[0.2em] text-[#8A8579]">
                   Materias
                 </p>
-                <div className="flex flex-col gap-1">
-                  {conReactivos.map((m) => {
+                <div className="flex items-end gap-2.5 overflow-x-auto px-1 pb-1">
+                  {conReactivos.map((m, i) => {
                     const activa = m.materia === materiaSel
+                    // Raíz cuadrada en vez de lineal: aplana la diferencia entre la
+                    // materia con más reactivos y las demás, para que ninguna se
+                    // "agrande" desproporcionado — el lomo más grueso sigue siendo
+                    // el más grueso, pero sin dominar el estante.
+                    const grosor = 52 + Math.sqrt(m.disponibles / disponiblesMax) * 28
+                    // Por posición, no por hash del nombre: con pocas materias (la
+                    // mayoría de los planteles trae 3-5) un hash puede repetir color
+                    // por casualidad. Por posición nunca se repite mientras quepan
+                    // en la paleta.
+                    const pasta = i % PASTAS_ESTANTE.length
+                    const [claro, oscuro] = activa
+                      ? PASTAS_ESTANTE_ACTIVA[pasta]
+                      : PASTAS_ESTANTE[pasta]
                     return (
                       <button
                         key={m.materia}
                         type="button"
                         onClick={() => seleccionarMateria(m.materia)}
+                        aria-pressed={activa}
+                        style={{
+                          width: grosor,
+                          height: 196,
+                          background: `linear-gradient(180deg,${claro} 0%,${oscuro} 100%)`,
+                          transform: activa
+                            ? 'translateY(-16px) rotate(-2.5deg)'
+                            : undefined,
+                          transformOrigin: 'bottom',
+                        }}
                         className={cn(
-                          'flex items-center gap-3 rounded-xl border px-3 py-3 text-left transition-colors',
+                          'group relative shrink-0 rounded-t-[5px] border text-left transition-transform duration-200 ease-out motion-reduce:transition-none',
                           activa
-                            ? 'border-[#6B7530]/60 bg-[#4B5121]/25'
-                            : 'border-transparent hover:bg-white/[0.03]',
+                            ? 'border-[#C99A3B]/35 shadow-[0_14px_22px_-6px_rgba(0,0,0,0.55)]'
+                            : 'border-white/[0.06] shadow-[inset_5px_0_7px_-6px_rgba(0,0,0,0.6),inset_-5px_0_7px_-6px_rgba(0,0,0,0.6)] hover:-translate-y-1',
                         )}
                       >
-                        <BookOpen
+                        <span
                           className={cn(
-                            'h-4 w-4 shrink-0',
-                            activa ? 'text-[#C99A3B]' : 'text-[#8A8579]',
+                            'absolute inset-x-0 top-0 rounded-t-[4px]',
+                            activa ? 'h-2 bg-[#C99A3B]' : 'h-1.5 bg-[#C99A3B]/40',
                           )}
                         />
                         <span
                           className={cn(
-                            'flex-1 text-sm font-medium',
-                            activa ? 'text-[#F7F3EA]' : 'text-[#D8D2C4]',
+                            'absolute inset-x-0',
+                            activa
+                              ? 'bottom-[26px] h-1 bg-[#C99A3B]'
+                              : 'bottom-0 h-[3px] bg-[#C99A3B]/40',
                           )}
+                        />
+                        <span
+                          className={cn(
+                            'absolute left-1/2 top-4 overflow-hidden whitespace-nowrap',
+                            activa ? 'text-[13px] font-semibold' : 'text-[11px] font-medium',
+                          )}
+                          style={{
+                            bottom: activa ? 40 : 16,
+                            writingMode: 'vertical-rl',
+                            transform: 'translateX(-50%) rotate(180deg)',
+                            textOverflow: 'ellipsis',
+                            color: activa ? '#F7E9C9' : '#9A9382',
+                          }}
                         >
                           {m.materia}
                         </span>
+                        {activa && (
+                          <span className="absolute bottom-1.5 left-1/2 -translate-x-1/2 whitespace-nowrap rounded-[3px] bg-[#C99A3B] px-1.5 py-px text-[9px] font-bold tabular-nums text-[#161513]">
+                            {m.disponibles}
+                          </span>
+                        )}
                       </button>
                     )
                   })}
                 </div>
+                <div
+                  className="mt-1 h-[3px] rounded-full"
+                  style={{
+                    background:
+                      'linear-gradient(90deg, rgba(201,154,59,0) 0%, rgba(201,154,59,0.55) 15%, rgba(201,154,59,0.55) 85%, rgba(201,154,59,0) 100%)',
+                    boxShadow: '0 10px 18px rgba(0,0,0,0.55)',
+                  }}
+                />
               </div>
 
               {/* ── Columna derecha: detalle de la materia elegida ── */}
@@ -448,7 +530,8 @@ export default function PracticaCulturalPage() {
                 )}
               </div>
             </div>
-          )}
+            )
+          })()}
         </div>
       </main>
     )
