@@ -2,6 +2,7 @@ import Image from 'next/image'
 import { HeaderPrivado } from '../HeaderPrivado'
 import { GuardiaGuia } from '@/components/guia/GuardiaGuia'
 import { FondoGuia } from '@/components/guia/FondoGuia'
+import { Revelar } from '@/components/landing/Revelar'
 import { MosaicoCapitulos } from '@/components/guia/MosaicoCapitulos'
 import { AvanceGlobalGuia } from '@/components/guia/AvanceGlobalGuia'
 import { SECCIONES_ONLINE } from '@/lib/guia-index'
@@ -34,7 +35,7 @@ export default function IndiceGuiaPage() {
           <div className="relative">
             <FondoGuia tono="dorado" sello="udefa" />
 
-            <div className="relative z-10 mx-auto max-w-5xl px-6 py-10">
+            <div className="relative z-10 mx-auto max-w-5xl px-6 py-12 md:py-16">
               {/* Hero */}
               <div className="rounded-2xl border border-[#C99A3B]/15 bg-white/[0.02] p-8">
                 <div className="flex flex-wrap items-center justify-between gap-3">
@@ -71,7 +72,9 @@ export default function IndiceGuiaPage() {
               </div>
 
               {/* Los 9 capítulos */}
-              <MosaicoCapitulos />
+              <Revelar>
+                <MosaicoCapitulos />
+              </Revelar>
 
               <p className="mt-6 text-xs leading-relaxed text-[#8A8579]">
                 Cada sección incluye marco psicológico, mecánica del examen,

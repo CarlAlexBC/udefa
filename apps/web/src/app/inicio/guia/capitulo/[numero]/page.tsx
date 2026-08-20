@@ -5,6 +5,7 @@ import type { CSSProperties } from 'react'
 import { HeaderPrivado } from '../../../HeaderPrivado'
 import { GuardiaGuia } from '@/components/guia/GuardiaGuia'
 import { FondoGuia } from '@/components/guia/FondoGuia'
+import { Revelar } from '@/components/landing/Revelar'
 import { ListaSeccionesCapitulo } from '@/components/guia/ListaSeccionesCapitulo'
 import { CAPITULOS_GUIA, buscarCapituloPorNumero } from '@/lib/guia-index'
 import { ChevronRight } from 'lucide-react'
@@ -42,7 +43,7 @@ export default async function CapituloGuiaPage({
           <div className="relative">
             <FondoGuia tono="oliva" sello="monote" />
 
-            <div className="relative z-10 mx-auto max-w-4xl px-6 py-8">
+            <div className="relative z-10 mx-auto max-w-4xl px-6 py-12 md:py-16">
               {/* Miga de pan */}
               <nav
                 aria-label="Ruta"
@@ -90,7 +91,9 @@ export default async function CapituloGuiaPage({
                 </span>
               </div>
 
-              <ListaSeccionesCapitulo secciones={capitulo.secciones} />
+              <Revelar>
+                <ListaSeccionesCapitulo secciones={capitulo.secciones} />
+              </Revelar>
 
               <div className="mt-8">
                 <Link
