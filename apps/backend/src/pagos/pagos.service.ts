@@ -63,7 +63,20 @@ export class PagosService {
    * Guarda usuarioId + paquete + ciclo en `external_reference` para saber a
    * quién darle acceso cuando el pago se apruebe.
    */
-  async crearPreferencia(usuarioId: number, paquete: string) {
+  /**
+   * Qué se guarda en `external_reference` (el dato que Mercado Pago nos devuelve
+   * con el aviso de pago, y lo único que dice a quién darle acceso):
+   *
+   *   - `{ compraId }`  → flujo de invitado. Apunta a una fila de
+   *     CompraPendiente; la cuenta se crea al aprobarse el pago.
+   *   - `{ usuarioId }` → compra con sesión ya iniciada, y también el CAMINO
+   *     VIEJO del flujo de invitado (antes de CompraPendiente). `procesarPago`
+   *     sigue entendiéndolo para no dejar tirado ningún pago en vuelo.
+   */
+  private async crearPreferenciaCon(
+    referencia: { usuarioId: number } | { compraId: number },
+    paquete: string,
+  ) {
     const info = PAQUETES[paquete as Paquete];
     if (!info) {
       throw new BadRequestException(
@@ -95,7 +108,7 @@ export class PagosService {
             },
           ],
           external_reference: JSON.stringify({
-            usuarioId,
+            ...referencia,
             paquete,
             ciclo: CICLO,
           }),
@@ -108,7 +121,7 @@ export class PagosService {
           ...(process.env.MERCADOPAGO_WEBHOOK_URL
             ? { notification_url: process.env.MERCADOPAGO_WEBHOOK_URL }
             : {}),
-          metadata: { usuario_id: usuarioId, paquete, ciclo: CICLO },
+          metadata: { ...referencia, paquete, ciclo: CICLO },
         },
       });
       return { preferenceId: res.id, initPoint: res.init_point };
@@ -122,10 +135,20 @@ export class PagosService {
   }
 
   /**
-   * Flujo "datos y luego pagar" (invitado): crea (o reutiliza) una cuenta
-   * PENDIENTE con los datos del aspirante y le arma el checkout del paquete. La
-   * cuenta se activa sola cuando el pago se apruebe (ver procesarPago). No exige
-   * login: es la puerta de entrada de quien todavía no tiene cuenta.
+   * Inicia el pago de alguien que YA tiene sesión abierta. La referencia es su
+   * usuarioId, porque su cuenta ya existe.
+   */
+  crearPreferencia(usuarioId: number, paquete: string) {
+    return this.crearPreferenciaCon({ usuarioId }, paquete);
+  }
+
+  /**
+   * Flujo "datos y luego pagar" (invitado): guarda el intento de compra y le
+   * arma el checkout. NO crea cuenta todavía — nace cuando el pago se aprueba,
+   * con los datos de ESTE intento (ver procesarPago y CompraPendiente).
+   *
+   * Así se acabó el problema de que dos personas mandaran el mismo correo y
+   * terminaran compartiendo una cuenta: cada intento va por su lado.
    */
   async registrarYPagar(datos: {
     nombre: string;
@@ -133,19 +156,21 @@ export class PagosService {
     password: string;
     paquete: string;
   }) {
-    // Validamos el paquete ANTES de crear la cuenta, para no dejar cuentas
-    // PENDIENTE colgando por un paquete inexistente.
+    // Validamos el paquete ANTES de guardar nada, para no dejar intentos de
+    // compra colgando por un paquete inexistente.
     if (!PAQUETES[datos.paquete as Paquete]) {
       throw new BadRequestException(
         `Paquete inválido: "${datos.paquete}". Válidos: ${Object.keys(PAQUETES).join(', ')}`,
       );
     }
-    const usuario = await this.usuarios.crearPendienteParaCompra({
+    const compra = await this.usuarios.registrarCompraPendiente({
       nombre: datos.nombre,
       email: datos.email,
       password: datos.password,
+      paquete: datos.paquete,
+      ciclo: CICLO,
     });
-    return this.crearPreferencia(usuario.id, datos.paquete);
+    return this.crearPreferenciaCon({ compraId: compra.id }, datos.paquete);
   }
 
   /**
@@ -183,7 +208,12 @@ export class PagosService {
       return false;
     }
 
-    let datos: { usuarioId: number; paquete: string; ciclo?: string };
+    let datos: {
+      usuarioId?: number;
+      compraId?: number;
+      paquete: string;
+      ciclo?: string;
+    };
     try {
       datos = JSON.parse(info.external_reference);
     } catch {
@@ -199,19 +229,41 @@ export class PagosService {
       return false;
     }
 
+    // A quién darle el acceso. Dos formas, y hay que entender las dos:
+    //   compraId  → flujo de invitado de hoy: la cuenta NACE aquí, con los
+    //               datos del intento de compra que se pagó.
+    //   usuarioId → compra con sesión iniciada, y también los pagos viejos del
+    //               flujo de invitado que ya iban en vuelo cuando entró
+    //               CompraPendiente. Sin esto, esos pagos llegarían y no
+    //               sabríamos a quién darle nada.
+    let cuenta: {
+      usuarioId: number;
+      email: string;
+      nombre: string;
+      recienActivada: boolean;
+    };
+    if (datos.compraId) {
+      const creada = await this.usuarios.crearCuentaDesdeCompra(datos.compraId);
+      cuenta = { ...creada, recienActivada: creada.recienCreada };
+    } else if (datos.usuarioId) {
+      cuenta = await this.usuarios.activarParaCompra(datos.usuarioId);
+    } else {
+      this.logger.warn(
+        `external_reference del pago ${paymentId} no trae ni compraId ni usuarioId.`,
+      );
+      return false;
+    }
+
     await this.acceso.otorgar(
-      datos.usuarioId,
+      cuenta.usuarioId,
       paqueteInfo.modulos,
       datos.ciclo ?? CICLO,
       FIN_CONVOCATORIA,
       'mercadopago',
     );
-    // Si la cuenta se creó en PENDIENTE por el flujo "datos y luego pagar", al
-    // aprobarse el pago se activa. `activarParaCompra` dice si ESTA fue la
-    // primera activación, para mandar el correo de confirmación una sola vez.
-    const activacion = await this.usuarios.activarParaCompra(datos.usuarioId);
+    const activacion = cuenta;
     this.logger.log(
-      `Acceso otorgado a usuario ${datos.usuarioId} [${paqueteInfo.modulos.join(', ')}] por el pago ${paymentId}.`,
+      `Acceso otorgado a usuario ${cuenta.usuarioId} [${paqueteInfo.modulos.join(', ')}] por el pago ${paymentId}.`,
     );
 
     // Correo de compra confirmada + acceso listo. Solo en la primera activación
@@ -219,9 +271,16 @@ export class PagosService {
     // el correo falla, se registra pero NO se rompe el webhook: el pago ya está
     // procesado y el acceso otorgado.
     if (activacion.recienActivada) {
-      // Cuenta del flujo de invitado: la contraseña del formulario no prueba de
-      // quién es el correo (ver AuthService.prepararDefinicionDePassword), así
-      // que se anula y se manda un enlace para definirla.
+      // Cuenta nueva del flujo de invitado: se anula la contraseña del
+      // formulario y se manda un enlace para definirla (ver
+      // AuthService.prepararDefinicionDePassword).
+      //
+      // Con CompraPendiente esto ya no hace falta para lo que se creó —la
+      // contraseña de este intento sí es de quien pagó, porque el pago viene de
+      // SU checkout—, pero se conserva porque hace otra cosa que sigue
+      // valiendo: comprueba que el correo es suyo. Sin ese paso, alguien puede
+      // comprar con el correo de otro y quedarse con una cuenta a nombre ajeno.
+      // Quitarlo es una línea, y es decisión de producto, no de seguridad.
       //
       // Con UNA excepción: si este servidor no puede mandar correo de verdad
       // (sin RESEND_API_KEY, modo consola), anular la contraseña dejaría al
@@ -230,11 +289,11 @@ export class PagosService {
       let definirPasswordLink: string | undefined;
       if (this.mail.puedeEnviar()) {
         definirPasswordLink = await this.auth.prepararDefinicionDePassword(
-          datos.usuarioId,
+          cuenta.usuarioId,
         );
       } else {
         this.logger.warn(
-          `Cuenta ${datos.usuarioId} activada SIN el paso de "define tu contraseña": ` +
+          `Cuenta ${cuenta.usuarioId} activada SIN el paso de "define tu contraseña": ` +
             'este servidor no puede enviar correo (falta RESEND_API_KEY). La contraseña ' +
             'del formulario de compra sigue siendo válida.',
         );

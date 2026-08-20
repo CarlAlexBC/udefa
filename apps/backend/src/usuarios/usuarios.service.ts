@@ -49,6 +49,128 @@ export class UsuariosService {
   }
 
   /**
+   * Guarda un INTENTO de compra del flujo "datos y luego pagar". NO crea cuenta:
+   * la cuenta nace cuando el pago se aprueba (ver `crearCuentaDesdeCompra`).
+   *
+   * Ésta es la pieza que arregla de raíz el problema que tenía
+   * `crearPendienteParaCompra`: como aquella creaba la cuenta al llenar el
+   * formulario, dos personas con el mismo correo acababan compartiendo una sola
+   * y se pisaban la contraseña. Aquí cada intento es su propia fila y nadie
+   * toca lo del otro.
+   *
+   * Sigue rechazando si el correo YA tiene cuenta activa: ahí no hay nada que
+   * comprar a ciegas, hay que iniciar sesión.
+   */
+  async registrarCompraPendiente(datos: {
+    nombre: string;
+    email: string;
+    password: string;
+    paquete: string;
+    ciclo: string;
+  }) {
+    const existente = await this.prisma.usuario.findUnique({
+      where: { email: datos.email },
+    });
+    if (existente && (existente.estado ?? 'ACTIVA') === 'ACTIVA') {
+      throw new ConflictException(
+        'Ese correo ya tiene una cuenta activa. Inicia sesión para comprar.',
+      );
+    }
+
+    return this.prisma.compraPendiente.create({
+      data: {
+        nombre: datos.nombre,
+        email: datos.email,
+        password: await bcrypt.hash(datos.password, 10),
+        paquete: datos.paquete,
+        ciclo: datos.ciclo,
+      },
+    });
+  }
+
+  /**
+   * Convierte un intento de compra en cuenta de verdad. La llama PagosService
+   * cuando Mercado Pago confirma el pago.
+   *
+   * Idempotente por partida doble, porque el webhook reintenta:
+   *   - si este intento ya se usó, devuelve la misma cuenta sin tocar nada;
+   *   - si el correo ya tenía cuenta (se registró por otro lado mientras tanto,
+   *     o pagó dos veces), la reutiliza en vez de duplicar.
+   *
+   * `recienCreada` dice si ESTA llamada fue la que creó la cuenta. Con eso
+   * PagosService manda el correo de compra una sola vez.
+   */
+  async crearCuentaDesdeCompra(compraId: number): Promise<{
+    usuarioId: number;
+    email: string;
+    nombre: string;
+    recienCreada: boolean;
+  }> {
+    const compra = await this.prisma.compraPendiente.findUnique({
+      where: { id: compraId },
+    });
+    if (!compra) {
+      throw new NotFoundException(`No existe la compra pendiente ${compraId}.`);
+    }
+
+    // Ya se procesó este intento: el webhook está reintentando.
+    if (compra.usadaEn && compra.usuarioId) {
+      const ya = await this.prisma.usuario.findUnique({
+        where: { id: compra.usuarioId },
+      });
+      if (ya) {
+        return {
+          usuarioId: ya.id,
+          email: ya.email,
+          nombre: ya.nombre,
+          recienCreada: false,
+        };
+      }
+    }
+
+    const existente = await this.prisma.usuario.findUnique({
+      where: { email: compra.email },
+    });
+
+    // Si ya hay cuenta con ese correo, NO se le toca la contraseña: quien pagó
+    // no tiene por qué poder cambiársela a quien ya era dueño de la cuenta.
+    const usuario =
+      existente ??
+      (await this.prisma.usuario.create({
+        data: {
+          nombre: compra.nombre,
+          email: compra.email,
+          password: compra.password,
+          estado: 'ACTIVA',
+        },
+      }));
+
+    if (existente) {
+      await this.prisma.usuario.update({
+        where: { id: usuario.id },
+        data: { estado: 'ACTIVA' },
+      });
+    }
+
+    await this.prisma.compraPendiente.update({
+      where: { id: compra.id },
+      data: { usuarioId: usuario.id, usadaEn: new Date() },
+    });
+
+    return {
+      usuarioId: usuario.id,
+      email: usuario.email,
+      nombre: usuario.nombre,
+      recienCreada: !existente,
+    };
+  }
+
+  /**
+   * CAMINO VIEJO — se conserva por los pagos que ya iban en vuelo cuando entró
+   * `CompraPendiente`: su `external_reference` lleva `usuarioId` y apunta a una
+   * cuenta PENDIENTE creada por el método de abajo. Para compras nuevas ya no se
+   * usa ninguno de los dos.
+   *
    * Crea (o reutiliza) una cuenta en estado PENDIENTE para el flujo
    * "datos y luego pagar". No recibe plantel: se elige después de entrar.
    * - Si el correo ya tiene cuenta ACTIVA → pide iniciar sesión (no duplica).
@@ -114,9 +236,12 @@ export class UsuariosService {
    * sin esto se mandarían correos duplicados en cada reintento.
    * Devuelve también el contacto (correo + nombre) para el correo.
    */
-  async activarParaCompra(
-    usuarioId: number,
-  ): Promise<{ email: string; nombre: string; recienActivada: boolean }> {
+  async activarParaCompra(usuarioId: number): Promise<{
+    usuarioId: number;
+    email: string;
+    nombre: string;
+    recienActivada: boolean;
+  }> {
     const antes = await this.prisma.usuario.findUnique({
       where: { id: usuarioId },
     });
@@ -126,7 +251,12 @@ export class UsuariosService {
       where: { id: usuarioId },
       data: { estado: 'ACTIVA' } as unknown as Prisma.UsuarioUpdateInput,
     });
-    return { email: usuario.email, nombre: usuario.nombre, recienActivada };
+    return {
+      usuarioId: usuario.id,
+      email: usuario.email,
+      nombre: usuario.nombre,
+      recienActivada,
+    };
   }
 
   /**

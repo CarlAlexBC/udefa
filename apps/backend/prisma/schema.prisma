@@ -76,6 +76,36 @@ model Acceso {
   @@index([usuarioId])
 }
 
+/// Un INTENTO de compra del flujo "datos y luego pagar", guardado aparte hasta
+/// que el pago se aprueba.
+///
+/// Por qué existe. Antes la cuenta se creaba al llenar el formulario, ANTES de
+/// cobrar. Como esa puerta es pública, dos personas distintas podían mandar el
+/// mismo correo y acababan compartiendo una sola cuenta, pisándose la contraseña:
+/// quien mandara el formulario de último se quedaba con la cuenta que pagó el
+/// otro. Aquí cada intento vive en su propia fila, así que no hay nada que
+/// compartir: al aprobarse un pago, la cuenta nace con los datos de ESE intento.
+///
+/// La contraseña se guarda ya cifrada (bcrypt), igual que en Usuario: esta tabla
+/// no es un lugar más seguro ni menos que el resto de la base.
+model CompraPendiente {
+  id        Int       @id @default(autoincrement())
+  nombre    String
+  email     String
+  /// Hash bcrypt de la contraseña que eligió al comprar. Nunca en claro.
+  password  String
+  paquete   String // 'cultural' | 'psicologico' | 'completa'
+  ciclo     String // convocatoria, p. ej. '2027'
+  /// A qué cuenta se convirtió. Null mientras el pago no se apruebe.
+  usuarioId Int?
+  /// Cuándo se convirtió. Es lo que hace idempotente al webhook: Mercado Pago
+  /// reintenta sus avisos, y un intento ya usado no vuelve a crear nada.
+  usadaEn   DateTime?
+  createdAt DateTime  @default(now())
+
+  @@index([email])
+}
+
 model Sesion {
   id        Int      @id @default(autoincrement())
   usuarioId Int
