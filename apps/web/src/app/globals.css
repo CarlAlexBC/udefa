@@ -264,3 +264,29 @@
   background-color: var(--popover);
   color: var(--popover-foreground);
 }
+
+/* ═══════════════════════════════════════════════════════════════════════
+   HOJA DE PLATA — el acabado metálico de las tarjetas oscuras.
+
+   Dos capas, y el orden importa: la VETA va arriba y el acabado del módulo
+   abajo. Es la regla del tablero — «gana lo oscuro, la plata sólo pasa por
+   encima». Si se invierten, la tarjeta se aclara y el texto chico pierde
+   contraste justo en la franja donde cruza la veta.
+
+   El color del módulo NO está aquí: lo inyecta la pantalla en
+   `--acabado-fondo` (azul si es cultural, rojo si es psicológico), leyéndolo
+   de ACABADO_MODULO en colores-paquete.ts, que es la fuente única. Si esa
+   variable no existe, la tarjeta cae a un grafito neutro y se ve bien igual.
+   ═══════════════════════════════════════════════════════════════════════ */
+.hoja-plata {
+  background-color: #1a1917;
+  background-image:
+    linear-gradient(
+      118deg,
+      transparent 28%,
+      rgba(228, 233, 216, 0.14) 47%,
+      rgba(228, 233, 216, 0.04) 57%,
+      transparent 72%
+    ),
+    var(--acabado-fondo, linear-gradient(135deg, #26251f 0%, #1e1d19 100%));
+}

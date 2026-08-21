@@ -266,7 +266,13 @@ function PanelCalificable({ data }: { data: Resultados }) {
        de resultados NO es hoja de examen (aqui no se contesta, se diagnostica),
        asi que por la regla del proyecto (claro = donde se contesta, oscuro =
        todo lo demas) le toca oscuro. Ver CONTINUIDAD-DISENO.md. */
-    <main className="dark min-h-screen bg-background text-foreground">
+    <main
+      className="dark min-h-screen bg-background text-foreground"
+      /* El acabado del modulo baja por herencia a todas las tarjetas .hoja-plata
+         de esta pantalla. Asi el azul (o el rojo) se define UNA vez aqui y no
+         hay que pasarlo por props hasta el ultimo cuadrante. */
+      style={{ ["--acabado-fondo"]: acabado.fondo } as React.CSSProperties}
+    >
       <div className="mx-auto max-w-5xl px-6 py-10">
 
         {/* Hero card oscuro con puntaje agregado.
@@ -615,7 +621,7 @@ function DiagnosticoCultural({
     <>
       {/* Techo alcanzable. El examen cultural no publica puntaje de corte, así
           que la meta honesta es su propio techo y no un umbral inventado. */}
-      <section className="mt-8 rounded-xl border border-border border-t-2 border-t-accent bg-card p-6">
+      <section className="mt-8 rounded-xl border border-border border-t-2 border-t-accent hoja-plata p-6">
         <p className="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
           Hasta dónde puedes llegar
         </p>
@@ -775,7 +781,7 @@ function DiagnosticoCultural({
             exactas de los libros del temario. Todo lo que hay que repasar, en un
             solo lugar.
           </p>
-          <div className="mt-4 rounded-xl border border-border bg-card p-5">
+          <div className="mt-4 rounded-xl border border-border hoja-plata p-5">
             {temasConError.length > 0 && <RenglonesTemas temas={temasConError} />}
 
             {d.libros.length > 0 && (
@@ -841,7 +847,7 @@ function DiagnosticoCultural({
                 {d.confusiones.map((c, i) => (
                   <details
                     key={i}
-                    className="group rounded-xl border border-border bg-card"
+                    className="group rounded-xl border border-border hoja-plata"
                   >
                     <summary className="flex cursor-pointer list-none items-center gap-2.5 px-4 py-3 [&::-webkit-details-marker]:hidden">
                       <span className="h-2 w-2 shrink-0 rounded-full bg-destructive" />
@@ -928,7 +934,7 @@ function CeldaCuadrante({
   return (
     <div
       className={cn(
-        'rounded-xl border border-border border-t-2 bg-card p-4 sm:p-5',
+        'rounded-xl border border-border border-t-2 hoja-plata p-4 sm:p-5',
         c.borde,
       )}
     >
