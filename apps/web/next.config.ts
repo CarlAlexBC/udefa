@@ -47,9 +47,61 @@ const CABECERAS_SEGURIDAD = [
   },
 ];
 
+/**
+ * Content-Security-Policy — EN MODO REPORT-ONLY (21 ago 2026).
+ *
+ * `Report-Only` significa que el navegador COMPRUEBA la política y avisa en su
+ * consola de lo que la violaría, pero **no bloquea nada**. El sitio funciona
+ * exactamente igual. Es la forma de estrenar una CSP sin arriesgarse a dejar la
+ * página en blanco y sin pista de por qué.
+ *
+ * CÓMO SE LEE: abrir el sitio con F12 → Console. Cada aviso que empiece con
+ * "[Report Only] Refused to..." es algo que la política bloquearía si estuviera
+ * activa. Mientras haya avisos, NO se activa.
+ *
+ * CÓMO SE ACTIVA, cuando la consola esté limpia: cambiar el nombre de la
+ * cabecera a `Content-Security-Policy`, sin el `-Report-Only`. Nada más.
+ *
+ * POR QUÉ script-src LLEVA 'unsafe-inline': Next inyecta scripts en línea para
+ * hidratar la página. Quitarlo exige *nonces*, y según la documentación de esta
+ * versión eso **obliga a renderizado dinámico en todas las páginas** — hoy la
+ * portada y /precios son estáticas y dejarían de serlo. Es una decisión de
+ * arquitectura, no una cabecera: se evalúa aparte.
+ *
+ * Los orígenes salieron de MEDIR el sitio desplegado, no de suponer: no usa
+ * Google Fonts (van con next/font), no carga nada de terceros, y lo único
+ * externo es el enlace a TikTok del pie, que es navegación y no carga.
+ */
+const CSP = [
+  "default-src 'self'",
+  "script-src 'self' 'unsafe-inline'",
+  "style-src 'self' 'unsafe-inline'",
+  "img-src 'self' data: blob:",
+  "font-src 'self'",
+  // El backend vive en otro subdominio: sin esto, la web no podría hablarle.
+  "connect-src 'self' https://api.elmonoteteguia.com",
+  "object-src 'none'",
+  "base-uri 'self'",
+  // Checkout Pro se abre navegando, no enviando un formulario a Mercado Pago;
+  // si algún día apareciera un aviso por esto, aquí se añade su origen.
+  "form-action 'self'",
+  // El equivalente moderno de X-Frame-Options. Se mantienen los dos: los
+  // navegadores viejos sólo entienden el otro.
+  "frame-ancestors 'none'",
+  "upgrade-insecure-requests",
+].join("; ");
+
 const nextConfig: NextConfig = {
   async headers() {
-    return [{ source: "/:path*", headers: CABECERAS_SEGURIDAD }];
+    return [
+      {
+        source: "/:path*",
+        headers: [
+          ...CABECERAS_SEGURIDAD,
+          { key: "Content-Security-Policy-Report-Only", value: CSP },
+        ],
+      },
+    ];
   },
 };
 
