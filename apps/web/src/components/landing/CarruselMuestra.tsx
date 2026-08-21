@@ -214,8 +214,8 @@ export function CarruselMuestra() {
         </CarouselContent>
 
         {/* Flechas de navegación — solo visibles en desktop */}
-        <CarouselPrevious className="hidden md:flex -left-12 border-border/40 bg-card/50 text-foreground hover:bg-card" />
-        <CarouselNext className="hidden md:flex -right-12 border-border/40 bg-card/50 text-foreground hover:bg-card" />
+        <CarouselPrevious className="hidden lg:flex -left-12 border-border/40 bg-card/50 text-foreground hover:bg-card" />
+        <CarouselNext className="hidden lg:flex -right-12 border-border/40 bg-card/50 text-foreground hover:bg-card" />
       </Carousel>
 
       {/* Indicador de progreso — puntitos */}

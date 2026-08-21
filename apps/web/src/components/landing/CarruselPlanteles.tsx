@@ -205,8 +205,8 @@ export function CarruselPlanteles() {
           ))}
         </CarouselContent>
 
-        <CarouselPrevious className="hidden md:flex -left-12 border-border/40 bg-card/20 text-primary-foreground hover:bg-card/40 hover:text-primary-foreground" />
-        <CarouselNext className="hidden md:flex -right-12 border-border/40 bg-card/20 text-primary-foreground hover:bg-card/40 hover:text-primary-foreground" />
+        <CarouselPrevious className="hidden lg:flex -left-12 border-border/40 bg-card/20 text-primary-foreground hover:bg-card/40 hover:text-primary-foreground" />
+        <CarouselNext className="hidden lg:flex -right-12 border-border/40 bg-card/20 text-primary-foreground hover:bg-card/40 hover:text-primary-foreground" />
       </Carousel>
 
       {/* Indicadores de progreso */}
