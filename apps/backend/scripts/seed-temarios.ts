@@ -27,6 +27,15 @@ const TOTAL_EXAMEN = 100;
 // Código de plantel (llave de los JSON) → nombre canónico (llave de Plantel.nombre).
 // Es el inverso de CODIGO_POR_PLANTEL en examenes.service.ts; el id no es estable
 // entre entornos, así que se resuelve por nombre.
+//
+// ⚠️ TIENE QUE LISTAR LOS 11 PLANTELES. Este mapa se quedó con sólo 6 y el
+// síntoma fue silencioso: los otros cinco seguían armando examen (el servicio
+// cae al respaldo por JSON cuando no encuentra Temario en la base), pero NO
+// aparecían en la pantalla de "Reparto cultural" del panel, así que su reparto
+// no se podía editar. Encontrado el 20 ago 2026, ya en producción.
+//
+// Si algún día se agrega un plantel, va aquí Y en CODIGO_POR_PLANTEL de
+// examenes.service.ts. Los nombres tienen que ser idénticos a Plantel.nombre.
 const NOMBRE_POR_CODIGO: Record<string, string> = {
   HCM: 'Heroico Colegio Militar',
   EMM: 'Escuela Militar de Medicina',
@@ -34,6 +43,11 @@ const NOMBRE_POR_CODIGO: Record<string, string> = {
   EMO: 'Escuela Militar de Odontología',
   EMOS: 'Escuela Militar de Oficiales de Sanidad',
   EMA: 'Escuela Militar de Aviación',
+  EMI: 'Escuela Militar de Ingeniería',
+  EMMG: 'Escuela Militar de Materiales de Guerra',
+  EMMA: 'Escuela Militar de Mantenimiento y Abastecimiento',
+  EMEFA: 'Escuela Militar de Especialistas de Fuerza Aérea',
+  EMT: 'Escuela Militar de Transmisiones',
 };
 
 function rutaCultural(archivo: string): string {
