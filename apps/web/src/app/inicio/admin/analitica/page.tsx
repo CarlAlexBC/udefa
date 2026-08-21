@@ -12,6 +12,7 @@ import {
   YAxis,
 } from 'recharts'
 import { apiFetch } from '@/lib/api'
+import { ChartTactil } from '@/components/ChartTactil'
 import { cn } from '@/lib/utils'
 import {
   AlertCircle,
@@ -942,6 +943,9 @@ function TablaReactivos({
   )
 }
 
+/** Respuestas mínimas para que un tema entre a la gráfica de % de error. */
+const MINIMO_RESPUESTAS = 5
+
 /**
  * Gráfica de barras horizontal reutilizable: nombre en el eje Y, % error en X.
  * Altura dinámica según el número de barras para que no se apretujen.
@@ -951,13 +955,27 @@ function GraficaError({
 }: {
   items: Array<{ nombre: string; tasaError: number; total: number }>
 }) {
-  const alto = Math.max(160, items.length * 38 + 40)
+  // Un tema con UNA respuesta fallada pinta 100% de error: la misma barra roja y
+  // del mismo largo que uno fallado por cien aspirantes. La gráfica no miente,
+  // pero engaña. Sólo entran los temas con evidencia suficiente detrás.
+  const visibles = items.filter((i) => i.total >= MINIMO_RESPUESTAS)
+  const ocultos = items.length - visibles.length
+
+  if (visibles.length === 0) {
+    return (
+      <VacioChico
+        texto={`Todavía ningún tema llega a ${MINIMO_RESPUESTAS} respuestas. Con una o dos, un solo fallo ya marca 100% de error y el dato no dice nada.`}
+      />
+    )
+  }
+
+  const alto = Math.max(160, visibles.length * 38 + 40)
   return (
     <div className="rounded-xl border border-border bg-card p-4 shadow-sm">
-      <div style={{ width: '100%', height: alto }}>
+      <ChartTactil style={{ width: '100%', height: alto }}>
         <ResponsiveContainer>
           <BarChart
-            data={items}
+            data={visibles}
             layout="vertical"
             margin={{ top: 4, right: 40, left: 12, bottom: 4 }}
           >
@@ -994,13 +1012,19 @@ function GraficaError({
               ]}
             />
             <Bar dataKey="tasaError" radius={[0, 4, 4, 0]}>
-              {items.map((it, idx) => (
+              {visibles.map((it, idx) => (
                 <Cell key={idx} fill={colorPorTasa(it.tasaError)} />
               ))}
             </Bar>
           </BarChart>
         </ResponsiveContainer>
-      </div>
+      </ChartTactil>
+      {ocultos > 0 && (
+        <p className="mt-3 text-[11px] text-muted-foreground">
+          No se pintan {ocultos} tema{ocultos === 1 ? '' : 's'} con menos de{' '}
+          {MINIMO_RESPUESTAS} respuestas: ahí un solo fallo da 100% de error.
+        </p>
+      )}
     </div>
   )
 }

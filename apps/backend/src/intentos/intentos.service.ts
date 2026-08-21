@@ -109,15 +109,30 @@ export class IntentosService {
         ? reactivo.respuestaCorrecta === respuestaSeleccionada
         : null;
 
-    const respuesta = await this.prisma.respuestaReactivo.create({
-      data: {
-        intentoExamenId: intentoId,
-        reactivoId,
-        respuestaSeleccionada,
-        esCorrecta,
-        respondidoEnMs,
-      },
+    // Una fila por reactivo, no una por toque. Antes esto era siempre `create`,
+    // así que cambiar de opción (o un doble toque) dejaba DOS filas del mismo
+    // reactivo y el panel decía "270 reactivos respondidos" en un examen de 256.
+    // No hay índice único en la tabla (hay intentos viejos con filas repetidas),
+    // así que buscamos a mano antes de escribir.
+    const yaRespondido = await this.prisma.respuestaReactivo.findFirst({
+      where: { intentoExamenId: intentoId, reactivoId },
+      orderBy: { id: 'desc' },
     });
+
+    const respuesta = yaRespondido
+      ? await this.prisma.respuestaReactivo.update({
+          where: { id: yaRespondido.id },
+          data: { respuestaSeleccionada, esCorrecta, respondidoEnMs },
+        })
+      : await this.prisma.respuestaReactivo.create({
+          data: {
+            intentoExamenId: intentoId,
+            reactivoId,
+            respuestaSeleccionada,
+            esCorrecta,
+            respondidoEnMs,
+          },
+        });
 
     // Prende la racha del día. Nunca debe tumbar la respuesta si falla.
     await this.actividad.marcarHoy(usuarioId).catch(() => undefined);
@@ -185,9 +200,22 @@ export class IntentosService {
     const calificable = intento.examen.calificable;
 
     // Ordenar respuestas cronológicamente y calcular delta por reactivo.
-    const ordenadas = [...intento.respuestas].sort(
+    const cronologicas = [...intento.respuestas].sort(
       (a, b) => a.respondidoEnMs - b.respondidoEnMs,
     );
+
+    // Los intentos anteriores al arreglo de `responder()` traen VARIAS filas del
+    // mismo reactivo (una por cada vez que se tocó una opción). Vale la última:
+    // en un examen cuenta la respuesta final. Sin esto, el panel contaba toques
+    // en vez de reactivos e inflaba aciertos, %, por-tema y pares contradictorios.
+    const ultimaPorReactivo = new Map<number, (typeof cronologicas)[number]>();
+    for (const r of cronologicas) {
+      ultimaPorReactivo.set(r.reactivoId, r);
+    }
+    const ordenadas = [...ultimaPorReactivo.values()].sort(
+      (a, b) => a.respondidoEnMs - b.respondidoEnMs,
+    );
+
     const respuestasConDelta = ordenadas
       .map((r, i) => ({
         ...r,

@@ -13,6 +13,7 @@ import {
   YAxis,
 } from 'recharts'
 import { apiFetch } from '@/lib/api'
+import { ChartTactil } from '@/components/ChartTactil'
 import { cn } from '@/lib/utils'
 import {
   AlertCircle,
@@ -136,8 +137,8 @@ export default function AdminHomePage() {
         <StatCard
           icon={<Star className="h-4 w-4 text-accent" />}
           titulo="Sesiones"
-          valor={stats.sesiones.completadas}
-          sub={`${tasaCompletitud}% completadas · ${stats.sesiones.abandonadas} abandonadas`}
+          valor={stats.sesiones.total}
+          sub={`${stats.sesiones.completadas} completadas (${tasaCompletitud}%) · ${stats.sesiones.abandonadas} abandonadas`}
         />
         <StatCard
           icon={<Clock className="h-4 w-4 text-accent" />}
@@ -205,7 +206,7 @@ export default function AdminHomePage() {
           </p>
         ) : (
           <div className="rounded-xl border border-border bg-card p-4 shadow-sm">
-            <div style={{ width: '100%', height: 320 }}>
+            <ChartTactil style={{ width: '100%', height: 320 }}>
               <ResponsiveContainer>
                 <BarChart
                   data={stats.distribucionPorPlantel}
@@ -247,7 +248,7 @@ export default function AdminHomePage() {
                   </Bar>
                 </BarChart>
               </ResponsiveContainer>
-            </div>
+            </ChartTactil>
           </div>
         )}
       </Section>
