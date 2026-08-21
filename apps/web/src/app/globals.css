@@ -290,3 +290,50 @@
     ),
     var(--acabado-fondo, linear-gradient(135deg, #26251f 0%, #1e1d19 100%));
 }
+
+/* ═══════════════════════════════════════════════════════════════════════
+   HOJAS DE PLATA POR DESTINO
+
+   Regla de Carlo (21 ago 2026): **la tarjeta lleva el color de a donde te
+   lleva.** Así el color deja de ser adorno y pasa a ser información — antes de
+   leer el botón, ya sabes si eso te manda a la Guía o al repaso.
+
+   Por eso NO se tiñen del módulo: el azul del cultural ya está en el
+   encabezado. Aquí manda el destino.
+   ═══════════════════════════════════════════════════════════════════════ */
+
+/* Va a la GUÍA DEL ASPIRANTE — verde plata oscuro, el mismo degradado que su
+   tarjeta en el tablero, para que se reconozca antes de leerla. */
+.hoja-plata-guia {
+  background-image:
+    linear-gradient(
+      118deg,
+      transparent 30%,
+      rgba(228, 233, 216, 0.12) 48%,
+      rgba(228, 233, 216, 0.04) 58%,
+      transparent 74%
+    ),
+    linear-gradient(
+      118deg,
+      #1b2012 0%,
+      #2a3119 30%,
+      #414b29 52%,
+      #2f361c 72%,
+      #14170f 100%
+    );
+}
+
+/* Va al REPASO — «la capa verde». Militar y más apagado que la Guía: son dos
+   destinos distintos y tienen que distinguirse aunque los dos sean verdes. */
+.hoja-plata-repaso {
+  background-color: #171a12;
+  background-image:
+    linear-gradient(
+      118deg,
+      transparent 30%,
+      rgba(228, 233, 216, 0.09) 48%,
+      rgba(228, 233, 216, 0.03) 58%,
+      transparent 74%
+    ),
+    linear-gradient(135deg, rgba(107, 117, 48, 0.22) 0%, rgba(107, 117, 48, 0.06) 100%);
+}

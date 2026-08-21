@@ -27,7 +27,6 @@ import {
 import { GraficosPsicometrico, LineTiempos } from '@/components/resultados/GraficosPsicometrico'
 import {
   colorDeExamen,
-  HOJA_DE_PLATA_CLARA,
   ACABADO_MODULO,
   VETA_DE_PLATA,
 } from "@/lib/colores-paquete"
@@ -512,14 +511,13 @@ function DiagnosticoCard({
        el del semáforo (el filo izquierdo). Si la tarjeta también se tiñera,
        "atención" dejaría de saltar, que es justo lo que hay que ver primero. */
     <div
-      className={cn('rounded-lg border border-l-[3px] p-4', config.borderColor)}
-      style={{
-        backgroundImage: HOJA_DE_PLATA_CLARA.fondo,
-        borderTopColor: HOJA_DE_PLATA_CLARA.borde,
-        borderRightColor: HOJA_DE_PLATA_CLARA.borde,
-        borderBottomColor: HOJA_DE_PLATA_CLARA.borde,
-        boxShadow: HOJA_DE_PLATA_CLARA.sombra,
-      }}
+        className={cn(
+          'hoja-plata-guia rounded-lg border border-border border-l-[3px] p-4',
+          config.borderColor,
+        )}
+        /* Verde plata de la Guia: el resplandor dice DESTINO, no severidad.
+           Lo grave ya se lee en el filo izquierdo y en la insignia. */
+        style={{ boxShadow: '0 0 24px -8px rgba(198,210,168,0.45)' }}
     >
       <div className="mb-1 flex items-center gap-2">
         <span
@@ -726,7 +724,7 @@ function DiagnosticoCultural({
           los errores, que se siembran siempre; lo frágil se nombra sin cifra
           hasta emparejar la mediana de la siembra con la del diagnóstico. */}
       {errores + fragil > 0 && (
-        <section className="mt-8 rounded-xl border border-military/30 bg-military/5 p-6">
+        <section className="mt-8 rounded-xl border border-military/30 hoja-plata-repaso p-6 shadow-[0_0_26px_-10px_rgba(107,117,48,0.55)]">
           <div className="flex items-start gap-4">
             <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-military/15">
               <Sprout className="h-5 w-5 text-military" />
