@@ -84,8 +84,7 @@ faltara ahí, "cerrar sesión" diría que funcionó y la sesión seguiría viva.
 ## 2. Variables de entorno
 
 Sólo las que el código lee de verdad (verificado con `grep process.env` sobre
-`apps/backend/src`). Las que no estén aquí, no existen. **`COOKIE_DOMAIN` no
-existe**, aunque aparezca en notas viejas.
+`apps/backend/src`). Las que no estén aquí, no existen.
 
 ### Backend — servicio `backend` en Railway
 
