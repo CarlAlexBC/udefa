@@ -37,7 +37,34 @@ function opcionesCookie() {
     sameSite: 'lax' as const,
     maxAge: TOKEN_MAX_AGE_MS,
     path: '/',
+    ...dominioCookie(),
   };
+}
+
+/**
+ * A quién pertenece la cookie. Es el arreglo de un fallo que SÓLO podía
+ * aparecer en producción, y apareció el día del despliegue (20 ago 2026).
+ *
+ * En local la web y el backend viven los dos en `localhost` —una en el puerto
+ * 3000 y el otro en el 3001— y las cookies IGNORAN el puerto: para el navegador
+ * es el mismo sitio, así que la misma cookie servía para los dos.
+ *
+ * En producción cada pieza tiene su propio nombre (`elmonoteteguia.com` y
+ * `api.elmonoteteguia.com`). Sin este atributo, la cookie queda a nombre de
+ * `api.` únicamente: el login funciona y devuelve 201, pero cuando la web
+ * pregunta "¿este visitante tiene sesión?" el navegador no le enseña nada,
+ * porque esa cookie no es suya. El guardia de `/inicio` no ve sesión y devuelve
+ * al login. La llave se crea bien; la puerta no la reconoce.
+ *
+ * Con `COOKIE_DOMAIN=.elmonoteteguia.com` la cookie pertenece al dominio entero
+ * y la comparten la web y la API.
+ *
+ * Si la variable no existe no se pone nada, así que en la máquina de casa el
+ * comportamiento no cambia.
+ */
+function dominioCookie() {
+  const dominio = process.env.COOKIE_DOMAIN;
+  return dominio ? { domain: dominio } : {};
 }
 
 @Controller('auth')
@@ -92,7 +119,10 @@ export class AuthController {
   async logout(@Request() req, @Res({ passthrough: true }) res: Response) {
     const resultado = await this.authService.logout(req.user.sid);
     // Borra la cookie httpOnly (el JavaScript no puede hacerlo por sí solo).
-    res.clearCookie(TOKEN_COOKIE, { path: '/' });
+    // El dominio tiene que ser EL MISMO con el que se puso: el navegador sólo
+    // borra la cookie que coincide. Si aquí faltara, "cerrar sesión" diría que
+    // funcionó y la sesión seguiría abierta.
+    res.clearCookie(TOKEN_COOKIE, { path: '/', ...dominioCookie() });
     return resultado;
   }
 }
