@@ -79,6 +79,28 @@ Se aplica al **crear** la cookie y también al **borrarla** en `/auth/logout`: e
 navegador sólo borra la cookie que coincide exactamente, dominio incluido. Si
 faltara ahí, "cerrar sesión" diría que funcionó y la sesión seguiría viva.
 
+### La cola del arreglo: las cookies viejas no se van solas
+
+El día que se cambie `COOKIE_DOMAIN` —o el dominio entero— **esto vuelve a
+pasar**, así que conviene reconocerlo:
+
+Cambiar el dominio de la cookie **no borra la anterior**. Quedan dos cookies con
+el mismo nombre `token` y distinto `Domain`. El navegador manda las dos y el
+servidor lee la primera, que suele ser la vieja — con una sesión ya muerta. Y
+"cerrar sesión" tampoco puede limpiarla, porque sólo borra la que coincide
+exactamente.
+
+**El síntoma engaña:** `/auth/login` responde `201` y acto seguido `/auth/perfil`,
+`/acceso/mios` y todo lo demás responden `401`. Parece que el servidor rechaza la
+sesión que él mismo acaba de crear.
+
+**Cómo distinguirlo de un fallo real en 10 segundos:** abrir una ventana privada
+e iniciar sesión ahí. Si en privado funciona, el código está bien y lo que sobra
+es basura del navegador. Se limpia borrando los datos del sitio.
+
+Sólo afecta a quien haya entrado con la configuración vieja. Los visitantes
+nuevos nunca tienen la cookie huérfana.
+
 ---
 
 ## 2. Variables de entorno
