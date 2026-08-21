@@ -409,8 +409,12 @@ function PanelCalificable({ data }: { data: Resultados }) {
           >
             ← Volver a inicio
           </Link>
+          {/* La ruta del simulador es /inicio/simulador/[examenId]: sin el id,
+              Next no encuentra la página y devuelve un 404 en blanco. Se cayó
+              aquí hasta el 20 ago 2026; el mismo botón, más abajo en este
+              archivo, sí lo llevaba. */}
           <Link
-            href="/inicio/simulador"
+            href={`/inicio/simulador/${data.examen.id}`}
             className={cn(buttonVariants({ variant: 'default' }))}
           >
             Repetir simulador
