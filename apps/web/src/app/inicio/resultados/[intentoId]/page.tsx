@@ -1129,6 +1129,9 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
   /** Mismo criterio que en el panel calificable: el hero lleva el color del
    *  examen que se acaba de contestar. */
   const acentoModulo = colorDeExamen(data.examen.tipo, 'oscuro')
+  /** Acabado metalico del modulo. Este panel es siempre psicologico (rojo):
+   *  personalidad y axiologico no se califican, se perfilan. */
+  const acabado = ACABADO_MODULO['psicologico']
   const tiempoMin = Math.round(data.tiempoTotalMs / 60000)
   const fecha = new Date().toLocaleDateString('es-MX', {
     day: 'numeric',
@@ -1139,11 +1142,27 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
   const diagnosticos = calcularDiagnosticosAutoevaluacion(data)
 
   return (
-    <main className="min-h-screen bg-background">
+    /* Mismo criterio que el panel calificable: esto no es hoja de examen,
+       es diagnostico, asi que va oscuro. Ver CONTINUIDAD-DISENO.md. */
+    <main
+      className="dark min-h-screen bg-background text-foreground"
+      style={{ ["--acabado-fondo"]: acabado.fondo } as React.CSSProperties}
+    >
       <div className="mx-auto max-w-5xl px-6 py-10">
 
         {/* Hero card — sin puntaje, con conteo de respondidos */}
-        <div className="relative overflow-hidden rounded-2xl bg-primary p-8 text-primary-foreground">
+        {/* Igual que en el calificable: bg-primary vale carbon en claro pero
+            LATON en oscuro, asi que aqui se habria vuelto dorado. Va el
+            acabado del modulo con la veta encima. */}
+        <div
+          className="relative overflow-hidden rounded-2xl p-8"
+          style={{
+            backgroundImage: `${VETA_DE_PLATA}, ${acabado.fondo}`,
+            backgroundColor: "#1A1917",
+            border: `1px solid ${acabado.borde}`,
+            boxShadow: acabado.sombra,
+          }}
+        >
           <div className="pointer-events-none absolute -top-16 -right-12 h-60 w-60 rounded-full bg-military/20 blur-3xl" />
           <div className="relative flex flex-wrap items-end justify-between gap-6">
             <div>
@@ -1233,7 +1252,7 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
         )}
 
         {/* Métricas temporales — SÍ aplican a autoevaluación */}
-        <section className="mt-8 rounded-xl border border-border bg-card p-5">
+        <section className="mt-8 rounded-xl border border-border hoja-plata p-5">
           <div className="mb-4 flex items-center justify-between">
             <h3 className="text-sm font-semibold text-foreground">
               Cómo administraste el tiempo
@@ -1291,7 +1310,7 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
 
         {/* Estilo de respuesta — solo personalidad (sesgo + deseabilidad social) */}
         {data.analisisConsistencia?.sesgoRespuesta && (
-          <section className="mt-6 rounded-xl border border-border bg-card p-5">
+          <section className="mt-6 rounded-xl border border-border hoja-plata p-5">
             <h3 className="mb-4 text-sm font-semibold text-foreground">
               Tu estilo de respuesta
             </h3>
@@ -1378,7 +1397,7 @@ function PanelAutoevaluacion({ data }: { data: Resultados }) {
 
         {/* Análisis de consistencia por tema (usa polaridad de los reactivos) */}
         {data.analisisConsistencia && data.analisisConsistencia.porTema.length > 0 && (
-          <section className="mt-6 rounded-xl border border-border bg-card p-5">
+          <section className="mt-6 rounded-xl border border-border hoja-plata p-5">
             <div className="mb-4 flex items-center justify-between">
               <h3 className="text-sm font-semibold text-foreground">
                 Consistencia por tema
