@@ -54,6 +54,7 @@ model Usuario {
   respuestasPractica RespuestaPractica[]
   actividadDiaria   ActividadDiaria[]
   seccionesLeidas   SeccionLeida[]
+  pagos             Pago[]
   accesos           Acceso[]
   createdAt         DateTime               @default(now())
   updatedAt         DateTime               @updatedAt
@@ -74,6 +75,55 @@ model Acceso {
 
   @@unique([usuarioId, modulo, ciclo])
   @@index([usuarioId])
+}
+
+/// Una venta cobrada. Es el libro de caja de la plataforma.
+///
+/// Por qué existe. Hasta el 21 ago 2026 no se guardaba NINGÚN pago: el aviso de
+/// Mercado Pago llegaba, se creaba la cuenta, se otorgaba el acceso y ahí
+/// terminaba. La base sabía quién tenía acceso, pero no cuánto había pagado, ni
+/// cuándo, ni cuánto se llevó la comisión. Para saberlo había que ir a mirar a
+/// Mercado Pago a mano.
+///
+/// Se guarda lo que MP reporta, no lo que suponemos: el precio de lista puede
+/// cambiar, y lo que importa para las cuentas es lo que el aspirante pagó ese
+/// día y lo que de verdad llegó al bolsillo.
+model Pago {
+  id          Int      @id @default(autoincrement())
+  /// Número de la operación en Mercado Pago. ÚNICO a propósito: MP reintenta sus
+  /// avisos, y sin esto el mismo pago entraría varias veces e inflaría los
+  /// ingresos. Es lo que hace idempotente al registro.
+  mpPaymentId String   @unique
+  /// A qué cuenta fue. Opcional a propósito: si algún día borras al aspirante
+  /// (limpieza de cuentas de prueba, o él pide que lo borres), la VENTA se
+  /// queda —se le suelta el nombre y ya—, porque tu historial de ingresos no
+  /// debe encoger por una limpieza. Con la llave obligatoria, borrar una cuenta
+  /// que hubiera pagado fallaba y tumbaba el botón de borrar del panel.
+  usuarioId   Int?
+  usuario     Usuario? @relation(fields: [usuarioId], references: [id], onDelete: SetNull)
+  paquete     String // 'cultural' | 'psicologico' | 'completa'
+  ciclo       String // convocatoria, p. ej. '2027'
+  /// Lo que pagó el aspirante. En pesos, con centavos.
+  monto       Decimal  @db.Decimal(10, 2)
+  moneda      String   @default("MXN")
+  /// Comisión que se llevó Mercado Pago, tal como ÉL la reporta. Null si el
+  /// aviso no la trajo — no se inventa un porcentaje.
+  comision    Decimal? @db.Decimal(10, 2)
+  /// Lo que quedó después de la comisión, también según MP.
+  neto        Decimal? @db.Decimal(10, 2)
+  /// Estado en Mercado Pago: 'approved' hoy; 'refunded' o 'charged_back' si algún
+  /// día se devuelve. Sólo se registran los aprobados.
+  estado      String
+  /// Con qué pagó: tarjeta, transferencia, efectivo… tal como lo nombra MP.
+  metodoPago  String?
+  /// Cuándo lo aprobó Mercado Pago, no cuándo lo guardamos nosotros.
+  aprobadoEn  DateTime?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([ciclo])
+  @@index([usuarioId])
+  @@index([aprobadoEn])
 }
 
 /// Un INTENTO de compra del flujo "datos y luego pagar", guardado aparte hasta

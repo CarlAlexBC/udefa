@@ -8,6 +8,7 @@ import { MercadoPagoConfig, Preference, Payment } from 'mercadopago';
 import { AccesoService } from '../acceso/acceso.service';
 import { UsuariosService } from '../usuarios/usuarios.service';
 import { MailService } from '../mail/mail.service';
+import { PrismaService } from '../prisma/prisma.service';
 
 /** Convocatoria vigente y hasta cuándo dura el acceso comprado. Ajustable. */
 const CICLO = '2027';
@@ -49,6 +50,7 @@ export class PagosService {
     private acceso: AccesoService,
     private usuarios: UsuariosService,
     private mail: MailService,
+    private prisma: PrismaService,
   ) {}
 
   private frontendUrl(): string {
@@ -181,7 +183,18 @@ export class PagosService {
     if (!paymentId) return false;
 
     const payment = new Payment(this.client);
-    let info: { status?: string; external_reference?: string };
+    // De la respuesta de Mercado Pago ya no sólo nos interesa si está aprobado:
+    // también el dinero, para anotarlo en el libro de caja más abajo.
+    let info: {
+      status?: string;
+      external_reference?: string;
+      transaction_amount?: number;
+      currency_id?: string;
+      payment_method_id?: string;
+      date_approved?: string;
+      fee_details?: Array<{ amount?: number }>;
+      transaction_details?: { net_received_amount?: number };
+    };
     try {
       info = await payment.get({ id: paymentId });
     } catch (e) {
@@ -263,6 +276,49 @@ export class PagosService {
     this.logger.log(
       `Acceso otorgado a usuario ${cuenta.usuarioId} [${paqueteInfo.modulos.join(', ')}] por el pago ${paymentId}.`,
     );
+
+    // Libro de caja. Va DESPUÉS del acceso y envuelto en try/catch a propósito:
+    // el aspirante ya tiene lo que pagó, y un tropiezo apuntando la venta no
+    // debe tumbar el webhook. Si falla, queda en los registros y el pago se
+    // puede recuperar después desde Mercado Pago.
+    //
+    // `upsert` por número de operación: MP reintenta sus avisos, y sin esto el
+    // mismo pago entraría dos veces e inflaría los ingresos.
+    try {
+      const comision = Array.isArray(info.fee_details)
+        ? info.fee_details.reduce((suma, f) => suma + (f?.amount ?? 0), 0)
+        : null;
+      const neto = info.transaction_details?.net_received_amount ?? null;
+      const dinero = {
+        // Lo que pagó de verdad. Si MP no lo mandara, cae al precio de lista.
+        monto: info.transaction_amount ?? paqueteInfo.precio,
+        moneda: info.currency_id ?? 'MXN',
+        comision,
+        neto,
+        estado: info.status ?? 'approved',
+        metodoPago: info.payment_method_id ?? null,
+        aprobadoEn: info.date_approved ? new Date(info.date_approved) : null,
+      };
+      await this.prisma.pago.upsert({
+        where: { mpPaymentId: String(paymentId) },
+        create: {
+          mpPaymentId: String(paymentId),
+          usuarioId: cuenta.usuarioId,
+          paquete: datos.paquete,
+          ciclo: datos.ciclo ?? CICLO,
+          ...dinero,
+        },
+        update: dinero,
+      });
+      this.logger.log(
+        `Venta anotada: pago ${paymentId} · ${datos.paquete} · ${dinero.monto} ${dinero.moneda}.`,
+      );
+    } catch (e) {
+      this.logger.error(
+        `El acceso del pago ${paymentId} SÍ se otorgó, pero la venta no se pudo anotar.`,
+        e as Error,
+      );
+    }
 
     // Correo de compra confirmada + acceso listo. Solo en la primera activación
     // (el webhook de Mercado Pago reintenta, y no queremos correos dobles). Si
