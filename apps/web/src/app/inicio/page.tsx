@@ -11,7 +11,7 @@ import { EmpiezaPorAqui } from '@/components/onboarding/EmpiezaPorAqui'
 import { RachaCard } from '@/components/racha/RachaCard'
 import { FondoGuia } from '@/components/guia/FondoGuia'
 import { logoDePlantel } from '@/lib/planteles'
-import { COLOR_PAQUETE_OSCURO, COLOR_DE_MODULO } from '@/lib/colores-paquete'
+import { COLOR_PAQUETE_OSCURO, COLOR_DE_MODULO, ACABADO_MODULO } from '@/lib/colores-paquete'
 import { MATERIAS_CULTURAL_POR_PLANTEL, unirMaterias } from '@/lib/instrucciones-bloques'
 import {
   AlertCircle,
@@ -657,50 +657,7 @@ const TONO_MODULO = {
   cultural: COLOR_PAQUETE_OSCURO[COLOR_DE_MODULO.cultural].c,
 } as const
 
-/**
- * Acabado metálico de las tarjetas de fase: un acento PLATEADO —rojo plata
- * para lo psicológico, azul plata para lo cultural— sobre un degradado que
- * corre en diagonal y se apaga hacia la esquina.
- *
- * Los plateados son versiones muy aclaradas del color del módulo. Sobre
- * carbón dan 9.5:1 y 10.3:1, así que la etiqueta chica se lee sin esfuerzo
- * — el tono pleno del módulo, a 10 píxeles, costaba trabajo.
- *
- * EL PSICOLÓGICO VA ROJO, NO VERDE. Su color de módulo ya era rojo en la
- * tabla de paquetes (COLOR_DE_MODULO), pero aquí se había quedado el verde
- * viejo: el aspirante compraba viendo rojo y adentro le salía oliva.
- *
- * LOS DOS LLEVAN LA MISMA RECETA — mismas paradas, mismas transparencias, sólo
- * cambia el color. Hubo un intento de darle al rojo un degradado propio, más
- * cargado (una banda de rojo profundo cruzando la tarjeta); se veía sucio y
- * Carlo lo rechazó. El acabado del cultural es el bueno: el fondo casi no se
- * nota y quien hace el trabajo es el acento.
- *
- * EL NEÓN NO VA EN EL FONDO, VA EN LA LUZ. Por eso el rojo levanta sólo tres
- * cosas —acento más encendido, borde un punto más vivo y `sombra`— en vez de
- * oscurecer el relleno. `sombra` es un halo apretado por fuera del borde:
- * radio corto y en negativo para que sea brillo, no niebla. El cultural la
- * lleva vacía (sólo el filo de luz de arriba) y se queda sobrio.
- */
-const ACABADO_MODULO = {
-  psicologico: {
-    acento: '#FF8A8A',
-    borde: 'rgba(255,138,138,0.38)',
-    fondo:
-      'linear-gradient(135deg, rgba(255,138,138,0.15) 0%, rgba(166,40,40,0.14) 45%, rgba(255,255,255,0.02) 100%)',
-    resplandor: 'rgba(255,138,138,0.30)',
-    sombra:
-      '0 0 18px -6px rgba(255,110,110,0.55), 0 0 0 1px rgba(255,138,138,0.10), inset 0 1px 0 rgba(255,255,255,0.06)',
-  },
-  cultural: {
-    acento: '#A8C6DE',
-    borde: 'rgba(168,198,222,0.28)',
-    fondo:
-      'linear-gradient(135deg, rgba(168,198,222,0.15) 0%, rgba(31,78,121,0.14) 45%, rgba(255,255,255,0.02) 100%)',
-    resplandor: 'rgba(168,198,222,0.22)',
-    sombra: 'inset 0 1px 0 rgba(255,255,255,0.04)',
-  },
-} as const
+// ACABADO_MODULO vive ahora en @/lib/colores-paquete — fuente unica del color por modulo.
 
 function ExamenCTA({
   href,

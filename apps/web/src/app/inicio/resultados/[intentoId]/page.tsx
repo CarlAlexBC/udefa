@@ -25,7 +25,12 @@ import {
   LINKS_FIJOS,
 } from '@/lib/diagnostico-links'
 import { GraficosPsicometrico, LineTiempos } from '@/components/resultados/GraficosPsicometrico'
-import { colorDeExamen, HOJA_DE_PLATA_CLARA } from '@/lib/colores-paquete'
+import {
+  colorDeExamen,
+  HOJA_DE_PLATA_CLARA,
+  ACABADO_MODULO,
+  VETA_DE_PLATA,
+} from "@/lib/colores-paquete"
 import { GraficosAutoevaluacion } from '@/components/resultados/GraficosAutoevaluacion'
 import {
   AlertaCriticaCard,
@@ -244,6 +249,9 @@ function PanelResultados({ data }: { data: Resultados }) {
 function PanelCalificable({ data }: { data: Resultados }) {
   /** El color del examen que se acaba de contestar. Tono oscuro: el hero es carbón. */
   const acentoModulo = colorDeExamen(data.examen.tipo, 'oscuro')
+  /** Acabado metalico del modulo: fondo, borde, resplandor y sombra. */
+  const acabado =
+    ACABADO_MODULO[data.diagnosticoCultural ? "cultural" : "psicologico"]
   const diagnosticos = calcularDiagnosticos(data)
   const tiempoMin = Math.round(data.tiempoTotalMs / 60000)
   const fecha = new Date().toLocaleDateString('es-MX', {
@@ -253,7 +261,12 @@ function PanelCalificable({ data }: { data: Resultados }) {
   })
 
   return (
-    <main className="min-h-screen bg-background">
+    /* La clase `dark` vuelca TODA la pantalla al lenguaje oscuro: tarjetas,
+       bordes e inputs se adaptan solos por los tokens de globals.css. El panel
+       de resultados NO es hoja de examen (aqui no se contesta, se diagnostica),
+       asi que por la regla del proyecto (claro = donde se contesta, oscuro =
+       todo lo demas) le toca oscuro. Ver CONTINUIDAD-DISENO.md. */
+    <main className="dark min-h-screen bg-background text-foreground">
       <div className="mx-auto max-w-5xl px-6 py-10">
 
         {/* Hero card oscuro con puntaje agregado.
@@ -264,10 +277,23 @@ function PanelCalificable({ data }: { data: Resultados }) {
             El semáforo del diagnóstico (abajo) NO se toca: ahí olivo, ámbar y
             rojo significan severidad, y si el módulo también los usara,
             "atención" dejaría de saltar. */}
-        <div className="relative overflow-hidden rounded-2xl bg-primary p-8 text-primary-foreground">
+        {/* HOJA DE PLATA. Antes era `bg-primary`, que en el tema claro daba
+            carbon; al volcar la pantalla a oscuro ese mismo token vale LATON y
+            el encabezado se habria vuelto dorado. Se cambia por el acabado del
+            modulo (azul si cultural, rojo si psicologico) con la veta de plata
+            encima: la misma receta del tablero, ahora compartida. */}
+        <div
+          className="relative overflow-hidden rounded-2xl p-8"
+          style={{
+            backgroundImage: `${VETA_DE_PLATA}, ${acabado.fondo}`,
+            backgroundColor: "#1A1917",
+            border: `1px solid ${acabado.borde}`,
+            boxShadow: acabado.sombra,
+          }}
+        >
           <div
             className="pointer-events-none absolute -top-16 -right-12 h-60 w-60 rounded-full blur-3xl"
-            style={{ backgroundColor: `${acentoModulo.c}26` }}
+            style={{ backgroundColor: acabado.resplandor }}
           />
           <div className="relative flex flex-wrap items-end justify-between gap-6">
             <div>
@@ -413,9 +439,16 @@ function PanelCalificable({ data }: { data: Resultados }) {
               Next no encuentra la página y devuelve un 404 en blanco. Se cayó
               aquí hasta el 20 ago 2026; el mismo botón, más abajo en este
               archivo, sí lo llevaba. */}
+            {/* NEON. Es el unico destino que empuja hacia adelante despues del
+                diagnostico, y por eso el unico del pie que brilla. 'Volver a
+                inicio' se queda apagado a proposito: retroceder no es lo que
+                queremos que haga el aspirante al ver sus resultados. */}
           <Link
             href={`/inicio/simulador/${data.examen.id}`}
-            className={cn(buttonVariants({ variant: 'default' }))}
+            className={cn(
+              buttonVariants({ variant: 'default' }),
+              'shadow-[0_0_22px_rgba(201,154,59,0.42)]',
+            )}
           >
             Repetir simulador
             <ArrowRight className="ml-1 h-4 w-4" />
