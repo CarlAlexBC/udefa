@@ -145,6 +145,25 @@ Railway.
 
 Se incrusta al CONSTRUIR, no al ejecutar. Ver la trampa nº 2 más abajo.
 
+### Cabeceras de seguridad de la web
+
+El backend ya las tenía por `helmet()` desde la auditoría de julio, pero eso sólo
+cubre `api.`. La web salió a internet sin ninguna: el escáner de Mozilla
+(HTTP Observatory) la calificó con **D · 30/100**. Se añadieron cuatro en
+`apps/web/next.config.ts`:
+
+`X-Frame-Options: DENY` · `X-Content-Type-Options: nosniff` ·
+`Referrer-Policy: strict-origin-when-cross-origin` ·
+`Strict-Transport-Security: max-age=31536000; includeSubDomains`
+
+**HSTS va SIN `preload` a propósito.** El preload mete el dominio en una lista
+que los navegadores traen de fábrica y salir de ella es un trámite lento con
+Google — puerta de un solo sentido. Lo que hay caduca solo y se puede revertir.
+
+⏳ **Falta la Content-Security-Policy**, que es la que más puntúa (−25) y la
+única que puede romper el sitio: en Next hay que trabajarla con *nonces* porque
+el framework inyecta scripts en línea. Merece su propia sesión.
+
 ---
 
 ## 3. Configuración de los servicios en Railway
@@ -280,11 +299,17 @@ Moraleja: **antes de necesitarlo, saca un `pg_dump` de la base de producción.**
   sin gastar dinero.
 - **Proyectos viejos de Railway borrados**: quedó sólo `hospitable-presence`.
 
-### Falta
+### Comprobado en producción la primera noche (20–21 ago)
 
-- **Correr un simulacro completo en producción** y revisar el panel de
-  resultados. Es el corazón del producto y lo único que aún no ha corrido en el
-  servidor real.
+- **Simulacro cultural completo** corrido de punta a punta, con su panel de
+  resultados. El corazón del producto ya funcionó en el servidor real.
+- Se arreglaron sobre la marcha tres cosas que sólo se ven usando la plataforma:
+  el botón **"Repetir simulador"** llevaba a un 404 (le faltaba el id del examen
+  en la ruta); las **flechas del carrusel** desbordaban 18 px en teléfono
+  acostado (aparecían desde `md`, 768 px, cuando hacen falta 1024 para que quepan);
+  y los **5 temarios que faltaban** en la base (ver trampa 17).
+
+### Falta
 - Confirmar el **correo de la cuenta de Railway**: se revirtió al de la
   universidad porque el enlace de confirmación caduca en 20 minutos.
 - Opcional: un registro `www` que redirija al dominio pelado.
@@ -370,6 +395,53 @@ prueba antes de concluir nada.
 **14. "Promote" significa dos cosas distintas** en Railway. En el menú de un
 **despliegue** es volver atrás a una versión anterior; en el menú de una
 **variable** es convertirla en compartida entre servicios. No se parecen en nada.
+
+### La disciplina que faltó (21 ago 2026)
+
+**15. CONSTRUIR EN LOCAL ANTES DE SUBIR.** Es la regla que más habría ahorrado
+esta noche y no se siguió.
+
+Un commit de tres imágenes tumbó el build de la web y **el fallo sólo se vio en
+el panel de Railway**: el despliegue quedó en FAILED, siguió sirviendo la versión
+anterior, y desde fuera todo parecía normal. Se perdió media hora buscando en el
+lugar equivocado —caché del navegador, filtros de Railway— antes de mirar el
+estado del despliegue.
+
+```bash
+npm run build --workspace=web
+```
+
+Dos minutos. Reproduce exactamente lo que hace Railway y caza el error antes de
+que lo cace el usuario. **Cualquier cambio en la web se construye aquí antes de
+subirse.**
+
+**16. Un `favicon.ico` hecho a mano casi nunca sirve.** El error que tumbó ese
+build fue:
+
+```
+Format error decoding Ico: The PNG is not in RGBA format!
+```
+
+`sharp` no escribe `.ico`, así que se armó la cabecera del ICO metiendo un PNG
+dentro. Pero el logo de origen es un JPEG —sin canal alfa— y el decodificador de
+Next exige **RGBA** dentro de un ICO. Faltaba un `.ensureAlpha()`.
+
+Lo práctico: usar un generador (RealFaviconGenerator) y no fabricar el `.ico` a
+mano. De su paquete sólo se usan tres archivos, con estos nombres exactos en
+`apps/web/src/app/`: `favicon.ico`, `icon.png`, `apple-icon.png`. El
+`site.webmanifest` **no** se usa — Next arma esas etiquetas solo y meterlo a mano
+duplica.
+
+Para saber cuál sirve producción sin abrir nada, mirar el `sizes` de la etiqueta:
+el de Next dice `256x256`; el nuestro, `48x48`.
+
+**17. `seed-temarios.ts` tiene que listar los 11 planteles.** Su mapa
+`NOMBRE_POR_CODIGO` se quedó con 6 y el síntoma fue mudo: los otros cinco
+**seguían armando examen** (el servicio cae al respaldo por JSON cuando no
+encuentra Temario en la base), pero no aparecían en la pantalla de "Reparto
+cultural" del panel, así que su reparto no se podía editar. Si algún día se
+agrega un plantel, va en ese mapa **y** en `CODIGO_POR_PLANTEL` de
+`examenes.service.ts`.
 
 ---
 
