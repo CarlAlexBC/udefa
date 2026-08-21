@@ -38,19 +38,46 @@ reales conviene sacar un `pg_dump` propio cada tanto.
 
 ---
 
-## 1. La trampa de la cookie (por eso el backend va en `api.`)
+## 1. La cookie de sesión: dos condiciones, no una
 
-La sesión viaja en una cookie `httpOnly` con `sameSite: 'lax'` y **sin atributo
-`domain`** (ver `opcionesCookie()` en `apps/backend/src/auth/auth.controller.ts`).
+Aquí hay **dos** requisitos, y confundirlos costó el primer fallo real de
+producción. Ver `opcionesCookie()` en
+`apps/backend/src/auth/auth.controller.ts`.
 
-> **El backend TIENE que estar en un subdominio del mismo dominio que la web.**
+### Condición 1 — mismo dominio raíz (`sameSite: 'lax'`)
+
+> **El backend tiene que estar en un subdominio del mismo dominio que la web.**
 
 Si se moviera a otro dominio —el que regala el hosting, por ejemplo— el navegador
-dejaría de mandar la cookie y **nadie podría iniciar sesión**, con el síntoma más
-cruel posible: el login "funciona" y la siguiente pantalla dice que no hay sesión.
-
-La alternativa sería `sameSite: 'none'` + `secure: true`, que es un cambio de
+dejaría de mandar la cookie en las peticiones y nadie podría iniciar sesión. La
+alternativa sería `sameSite: 'none'` + `secure: true`, que es un cambio de
 código, no una variable.
+
+### Condición 2 — `COOKIE_DOMAIN` (el fallo del 20 ago 2026)
+
+Cumplir la condición 1 **no basta**, y es lo que este archivo afirmaba mal en su
+primera versión.
+
+Sin atributo `domain`, la cookie queda a nombre de `api.elmonoteteguia.com`
+**únicamente**. La web vive en `elmonoteteguia.com`, que para el navegador es
+otro sitio: su middleware pregunta por la cookie `token` y no recibe nada.
+
+El síntoma es el más cruel posible: **`/auth/login` responde `201`** —la sesión
+se crea de verdad— y aun así `/inicio` devuelve al login una y otra vez. La llave
+se crea bien; la puerta no la reconoce.
+
+**Por qué no se ve en local:** ahí la web y el backend son los dos `localhost`
+(puertos 3000 y 3001) y las cookies **ignoran el puerto**. Para el navegador es
+el mismo sitio y la misma cookie sirve a ambos. Sólo podía aparecer el día que
+cada pieza tuviera nombre propio.
+
+**El arreglo:** `COOKIE_DOMAIN=.elmonoteteguia.com` (con el punto inicial, que la
+hace válida para el dominio y todos sus subdominios). Si la variable no existe,
+no se pone nada — por eso en local no cambia nada.
+
+Se aplica al **crear** la cookie y también al **borrarla** en `/auth/logout`: el
+navegador sólo borra la cookie que coincide exactamente, dominio incluido. Si
+faltara ahí, "cerrar sesión" diría que funcionó y la sesión seguiría viva.
 
 ---
 
@@ -71,6 +98,7 @@ existe**, aunque aparezca en notas viejas.
 | `CORS_ORIGIN` | `https://elmonoteteguia.com` | el navegador bloquea **todo** |
 | `FRONTEND_URL` | `https://elmonoteteguia.com` | los enlaces de los correos van a la nada |
 | `CANDADO_ACCESO` | `on` | **todo abierto** a cualquiera con cuenta |
+| `COOKIE_DOMAIN` | `.elmonoteteguia.com` | el login da 201 pero `/inicio` devuelve al login (ver punto 1) |
 | `PORT` | **no se pone** | Railway la inyecta (hoy 8080) |
 | `RESEND_API_KEY`, `MAIL_FROM` | pendientes | no sale ningún correo |
 | `MERCADOPAGO_*` | pendientes | las compras no dan acceso solas |
