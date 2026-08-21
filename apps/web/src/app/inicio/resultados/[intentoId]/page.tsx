@@ -828,7 +828,10 @@ function DiagnosticoCultural({
       {(d.confusiones.length > 0 || hayRitmo) && (
         <div
           className={cn(
-            'mt-8 grid gap-4',
+            // grid-cols-1 (= minmax(0,1fr)) NO sobra: sin columna declarada la
+            // pista es 'auto' y crece hasta el max-content de la gráfica de recharts,
+            // que desbordaba la página a lo ancho en móvil (1170 px a 608 de pantalla).
+            'mt-8 grid grid-cols-1 gap-4',
             d.confusiones.length > 0 && hayRitmo && 'lg:grid-cols-2 lg:items-start',
           )}
         >

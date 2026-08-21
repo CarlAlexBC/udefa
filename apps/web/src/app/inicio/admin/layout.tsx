@@ -293,7 +293,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
         <HeaderPrivado rol="admin" />
       </div>
 
-      <div className="relative z-10 mx-auto flex w-full max-w-6xl flex-1 gap-5 px-5 py-6">
+      <div className="relative z-10 mx-auto flex w-full max-w-6xl flex-1 flex-col gap-5 px-5 py-6 md:flex-row">
         {/* Sidebar */}
         <aside className="hidden w-52 shrink-0 md:block">
           <div className="mb-2.5 flex items-center gap-2">
@@ -322,7 +322,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
         </aside>
 
         {/* Barra superior mobile con links horizontales scrollables */}
-        <nav className="mb-4 flex gap-2 overflow-x-auto md:hidden">
+        <nav className="flex gap-2 overflow-x-auto md:hidden">
           {NAV_ITEMS.map((item) => {
             const active = esActivo(item.href, pathname)
             const Icon = item.icon
@@ -345,7 +345,10 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
         </nav>
 
         {/* Contenido */}
-        <main className="flex-1">{children}</main>
+        {/* min-w-0: sin esto <main> es un item flex con min-width:auto y NO puede
+            encogerse por debajo de su contenido — una tabla o una gráfica ancha lo
+            estiraba y arrastraba TODA la página de lado en el teléfono. */}
+        <main className="min-w-0 flex-1">{children}</main>
       </div>
     </div>
   )
