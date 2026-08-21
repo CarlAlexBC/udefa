@@ -121,8 +121,17 @@ Sólo las que el código lee de verdad (verificado con `grep process.env` sobre
 | `CANDADO_ACCESO` | `on` | **todo abierto** a cualquiera con cuenta |
 | `COOKIE_DOMAIN` | `.elmonoteteguia.com` | el login da 201 pero `/inicio` devuelve al login (ver punto 1) |
 | `PORT` | **no se pone** | Railway la inyecta (hoy 8080) |
-| `RESEND_API_KEY`, `MAIL_FROM` | pendientes | no sale ningún correo |
-| `MERCADOPAGO_*` | pendientes | las compras no dan acceso solas |
+| `RESEND_API_KEY` | la llave de Resend | no sale **ningún** correo; el backend avisa al arrancar |
+| `MAIL_FROM` | `El Monote te Guía <no-reply@elmonoteteguia.com>` | el remitente sale como `onboarding@resend.dev` |
+| `MERCADOPAGO_ACCESS_TOKEN` | el de producción (`APP_USR-…`) | el backend no puede consultar los pagos |
+| `MERCADOPAGO_WEBHOOK_URL` | `https://api.elmonoteteguia.com/pagos/webhook` | — |
+| `MERCADOPAGO_WEBHOOK_SECRET` | la clave del webhook (**sellada** en Railway) | los avisos de pago se descartan por firma inválida |
+
+**`MERCADOPAGO_WEBHOOK_SECRET` está SELLADA** (*sealed*) en Railway: su valor no se
+puede volver a leer nunca, ni desde la pantalla ni por API. Es lo más seguro para
+un secreto, pero significa que **no se puede comparar con la de Mercado Pago**. Si
+alguna vez dejan de coincidir, la única salida es sobrescribirla y comprobar con
+la simulación del webhook.
 
 Los valores reales están en `apps/backend/.env.produccion`, que **git ignora**
 (regla `.env.*`). Ese archivo es la copia de trabajo; la fuente en vivo es
@@ -256,22 +265,32 @@ Moraleja: **antes de necesitarlo, saca un `pg_dump` de la base de producción.**
 4. Crear una **cuenta de prueba** desde el panel, usarla y ver que caduca.
 5. Que una cuenta **sin acceso** reciba 403 en práctica, repaso, Guía y simulacro.
 
-### Falta montar
+### Montado el mismo día (20 ago, ya verificado)
 
-- **Región US East** en los dos servicios (hoy `web` y `backend` están en US West
-  y la base en Ohio). Sin disco propio, el cambio no causa caída.
-- **Resend**: verificar el dominio y poner `RESEND_API_KEY` y `MAIL_FROM`.
-  Comprobar con `node apps/backend/scripts/_probar-correo.js <correo>`.
-- **Webhook de Mercado Pago**: URL pública + `MERCADOPAGO_WEBHOOK_SECRET`, y
-  cambiar el token de prueba por el de producción.
-- **Borrar los proyectos viejos de Railway**: `intuitive-contentment` (duplicado
-  creado por error), `appealing-enchantment`, `innovative-vision`.
+- **Región US East (Virginia)** en los dos servicios, para quedar junto a la base
+  de Ohio. Antes estaban en US West.
+- **Resend**: dominio verificado con *Auto configure* (Resend crea solo los tres
+  registros en Cloudflare vía OAuth — evita justo los errores de tipeo que más
+  cuestan). Verificado con un correo real de "olvidé mi contraseña": llegó a
+  **bandeja de entrada**, no a spam, desde `no-reply@elmonoteteguia.com`, y su
+  enlace apunta a `https://elmonoteteguia.com/restablecer?token=…`.
+- **Mercado Pago**: credenciales de producción activadas (piden industria y sitio
+  web — por eso no se podía antes de tener dominio) y webhook configurado.
+  Verificado con **"Simular notificación"**, que manda un aviso firmado de verdad
+  sin gastar dinero.
+- **Proyectos viejos de Railway borrados**: quedó sólo `hospitable-presence`.
+
+### Falta
+
+- **Correr un simulacro completo en producción** y revisar el panel de
+  resultados. Es el corazón del producto y lo único que aún no ha corrido en el
+  servidor real.
 - Confirmar el **correo de la cuenta de Railway**: se revirtió al de la
   universidad porque el enlace de confirmación caduca en 20 minutos.
-
-**Hasta que Resend y Mercado Pago estén montados no se le puede cobrar a nadie**:
-sin dominio verificado no salen los recibos, y sin webhook las compras no otorgan
-acceso solas.
+- Opcional: un registro `www` que redirija al dominio pelado.
+- Opcional: una compra completa con **credenciales de prueba** de MP (cuentas y
+  tarjetas falsas) para ver que el pago otorga el acceso solo, antes de que lo
+  descubra el primer aspirante que pague de verdad.
 
 ---
 
@@ -313,6 +332,44 @@ el modo prueba.
 
 **8. Migraciones**: en producción se corre `prisma migrate deploy`, nunca
 `migrate dev`.
+
+### Trampas específicas de Mercado Pago
+
+**9. El evento correcto es "Pagos (legacy)".** El nombre asusta, pero es la
+notificación clásica y es la única que manda `type: "payment"`, que es lo único
+que el código atiende (`pagos.controller.ts`). **"Order (Mercado Pago)"** es la
+API nueva, tiene otra forma, y el webhook la respondería con "recibido" sin
+otorgar ningún acceso. Fallo perfectamente silencioso.
+
+**10. El botón "Restablecer" borra TODA la configuración**, no sólo la clave: se
+va la URL y se desmarcan los eventos. Después de usarlo hay que volver a llenar
+todo y guardar.
+
+**11. La clave se genera al GUARDAR.** Copiarla antes de darle a "Guardar
+configuración" produce una clave que ya no vale, y el síntoma es
+`Aviso de webhook DESCARTADO por firma inválida` en los registros.
+
+**12. Cómo se lee el resultado de "Simular notificación"** — al revés de lo que
+parece:
+
+- `ERROR [PagosService] No se pudo consultar el pago 123456 · Payment not found`
+  → **todo bien**. Prueba dos cosas a la vez: la firma se validó (llegó hasta
+  ahí) y el Access Token sirve (MP contestó "no encontrado" en vez de "no
+  autorizado"). El pago no existe porque el número es inventado.
+- `WARN Aviso de webhook DESCARTADO por firma inválida` → la clave de Railway y
+  la de MP no coinciden.
+- **Un `200 - OK` en el panel de MP no prueba nada**: el código responde 200
+  también cuando descarta el aviso, a propósito, para no confirmarle nada a un
+  impostor.
+
+**13. Cuidado al mirar los registros del despliegue equivocado.** Cada despliegue
+tiene los suyos; si hubo un redespliegue después de la prueba, el aviso quedó en
+los registros del anterior. Comprobar la hora del despliegue contra la hora de la
+prueba antes de concluir nada.
+
+**14. "Promote" significa dos cosas distintas** en Railway. En el menú de un
+**despliegue** es volver atrás a una versión anterior; en el menú de una
+**variable** es convertirla en compartida entre servicios. No se parecen en nada.
 
 ---
 
