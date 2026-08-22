@@ -401,12 +401,15 @@ export default function UsuariosAdminPage() {
                     password: string
                   }>('/usuarios', {
                     method: 'POST',
-                    body: JSON.stringify({
+                    // Sin JSON.stringify: apiFetch serializa el cuerpo él mismo
+                    // (y le pone el Content-Type). Pasárselo ya convertido lo
+                    // manda como texto y el backend no ve ningún campo.
+                    body: {
                       nombre: alta.nombre,
                       email: alta.email,
                       plantelId: alta.plantelId ? Number(alta.plantelId) : undefined,
                       rol: alta.rol,
-                    }),
+                    },
                   })
                   setAltaHecha(creada)
                   setAlta(null)
