@@ -156,6 +156,32 @@ model CompraPendiente {
   @@index([email])
 }
 
+/// Vistas de pagina, por dia y por ruta.
+///
+/// Es el contador de visitas mas pequeno que contesta la pregunta real —¿esta
+/// entrando gente, y a que?— sin arrastrar lo que arrastran los demas:
+///   · Sin cookies ni identificador: nada que consentir, nada que explicar en
+///     el aviso de privacidad.
+///   · Sin terceros: no hubo que abrir la CSP. La web ya tiene permiso de
+///     hablarle a su propio backend.
+///   · Sin IP ni user-agent guardados: aqui viven una fecha, una ruta y un
+///     numero. No se puede reconstruir quien visito que.
+///
+/// Lo que NO da, y hay que tenerlo presente al leerlo: **no son visitantes
+/// unicos, son vistas**. Quien abre cinco pantallas cuenta cinco veces.
+model VistaDiaria {
+  id     Int    @id @default(autoincrement())
+  /// "AAAA-MM-DD" en hora de Mexico, igual que ActividadDiaria.
+  fecha  String
+  /// Ruta normalizada: los numeros pasan a ":id", para que
+  /// /inicio/resultados/244 y /inicio/resultados/305 sean la misma fila.
+  ruta   String
+  conteo Int    @default(0)
+
+  @@unique([fecha, ruta])
+  @@index([fecha])
+}
+
 model Sesion {
   id        Int      @id @default(autoincrement())
   usuarioId Int

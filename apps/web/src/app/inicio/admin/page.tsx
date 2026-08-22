@@ -63,10 +63,25 @@ type Stats = {
    Página
    ═══════════════════════════════════════════════════════════ */
 
+type Visitas = {
+  hoy: number
+  ayer: number
+  semana: number
+  porDia: Array<{ fecha: string; vistas: number }>
+  topRutas: Array<{ ruta: string; vistas: number }>
+}
+
 export default function AdminHomePage() {
   const [stats, setStats] = useState<Stats | null>(null)
+  const [visitas, setVisitas] = useState<Visitas | null>(null)
   const [cargando, setCargando] = useState(true)
   const [error, setError] = useState('')
+
+  useEffect(() => {
+    apiFetch<Visitas>('/metricas/resumen')
+      .then(setVisitas)
+      .catch(() => setVisitas(null))
+  }, [])
 
   useEffect(() => {
     apiFetch<Stats>('/admin/stats')
@@ -195,6 +210,72 @@ export default function AdminHomePage() {
               stats.intentos.porFase.find((f) => f.examenId === 3)?.total ?? 0
             }
           />
+        </div>
+      </Section>
+
+      {/* Visitas — el contador propio. Ver metricas.service.ts en el backend:
+          son VISTAS, no visitantes únicos, y los robots que se anuncian quedan
+          fuera. Si no hay nada todavía, la sección se explica sola. */}
+      <Section titulo="Visitas a la plataforma">
+        <div className="rounded-xl border border-border bg-card p-4 shadow-sm">
+          {!visitas ? (
+            <p className="text-sm text-muted-foreground">
+              Aún no hay visitas registradas. El contador empieza a llenarse en
+              cuanto alguien abra la página.
+            </p>
+          ) : (
+            <>
+              <div className="mb-4 flex flex-wrap gap-6">
+                <Cifra rotulo="Hoy" valor={visitas.hoy} destacada />
+                <Cifra rotulo="Ayer" valor={visitas.ayer} />
+                <Cifra rotulo="Últimos 7 días" valor={visitas.semana} />
+              </div>
+
+              <div className="flex h-20 items-end gap-1.5">
+                {visitas.porDia.map((d) => {
+                  const tope = Math.max(1, ...visitas.porDia.map((x) => x.vistas))
+                  return (
+                    <div
+                      key={d.fecha}
+                      className="flex min-w-0 flex-1 flex-col justify-end gap-1"
+                      title={`${d.fecha}: ${d.vistas} vistas`}
+                    >
+                      <span
+                        className="rounded-t"
+                        style={{
+                          height: `${Math.max(3, (d.vistas / tope) * 100)}%`,
+                          backgroundColor:
+                            d.vistas > 0 ? 'var(--accent)' : 'var(--muted)',
+                        }}
+                      />
+                      <span className="text-center text-[9px] tabular-nums text-muted-foreground">
+                        {d.fecha.slice(8)}
+                      </span>
+                    </div>
+                  )
+                })}
+              </div>
+
+              {visitas.topRutas.length > 0 && (
+                <div className="mt-5 flex flex-col gap-1.5">
+                  <p className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+                    Lo más visto de la semana
+                  </p>
+                  {visitas.topRutas.map((r) => (
+                    <div
+                      key={r.ruta}
+                      className="flex items-baseline justify-between gap-3 text-xs"
+                    >
+                      <span className="truncate text-foreground">{r.ruta}</span>
+                      <span className="shrink-0 tabular-nums text-muted-foreground">
+                        {r.vistas}
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </>
+          )}
         </div>
       </Section>
 
@@ -397,6 +478,33 @@ function FaseCard({
           </p>
         </div>
       </div>
+    </div>
+  )
+}
+
+/** Una cifra suelta con su rótulo, para el bloque de visitas. */
+function Cifra({
+  rotulo,
+  valor,
+  destacada = false,
+}: {
+  rotulo: string
+  valor: number
+  destacada?: boolean
+}) {
+  return (
+    <div>
+      <p className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+        {rotulo}
+      </p>
+      <p
+        className="mt-0.5 text-2xl font-semibold tabular-nums leading-none"
+        style={{
+          color: destacada ? 'var(--accent)' : 'var(--foreground)',
+        }}
+      >
+        {valor.toLocaleString('es-MX')}
+      </p>
     </div>
   )
 }

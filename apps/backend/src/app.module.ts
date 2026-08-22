@@ -24,9 +24,11 @@ import { MailModule } from './mail/mail.module';
 import { ActividadModule } from './actividad/actividad.module';
 import { GuiaModule } from './guia/guia.module';
 import { ExplicacionesModule } from './explicaciones/explicaciones.module';
+import { MetricasModule } from './metricas/metricas.module';
 
 @Module({
   imports: [
+    MetricasModule,
     // Freno general contra abuso: 200 peticiones por minuto desde una misma
     // dirección IP. Es holgado a propósito — un aspirante contestando su examen
     // no se acerca a ese número. El login lleva su propio freno, mucho más
