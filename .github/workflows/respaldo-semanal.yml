@@ -1,0 +1,110 @@
+# ═══════════════════════════════════════════════════════════════════════════
+# RESPALDO SEMANAL DE LA BASE DE PRODUCCIÓN
+# ═══════════════════════════════════════════════════════════════════════════
+#
+# POR QUÉ EXISTE. Neon en plan gratis guarda 6 horas de historial: sirve para
+# deshacer un error que acabas de cometer, no para recuperar lo de la semana
+# pasada. El respaldo se sacaba a mano, y a mano se olvida.
+#
+# QUÉ HACE. Cada domingo de madrugada saca un `pg_dump` completo, LO CIFRA con
+# una contraseña que sólo tiene Carlo, y lo guarda como archivo del repositorio
+# durante 90 días. Cifrado a propósito: el respaldo lleva dentro los correos y
+# las contraseñas cifradas de los aspirantes, y ni GitHub tiene por qué leerlo.
+#
+# ── LO QUE HAY QUE CONFIGURAR UNA VEZ ─────────────────────────────────────
+# En GitHub: Settings → Secrets and variables → Actions → New repository secret
+#
+#   RESPALDO_DATABASE_URL   La cadena DIRECTA de Neon (la que NO lleva "-pooler").
+#                           Con el pooler, pg_dump falla.
+#   RESPALDO_PASSPHRASE     Una contraseña larga que inventes tú. Si la pierdes,
+#                           los respaldos son basura: no hay forma de abrirlos.
+#                           Guárdala donde guardas lo importante, NO en el repo.
+#
+# ── CÓMO SE USA UN RESPALDO ───────────────────────────────────────────────
+# 1. Bájalo de la pestaña Actions → la ejecución que quieras → Artifacts.
+# 2. Descífralo:
+#      openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 \
+#        -in udefa-AAAA-MM-DD.dump.enc -out udefa.dump -pass pass:TU_CONTRASEÑA
+# 3. Mira qué trae antes de restaurar nada:
+#      pg_restore -l udefa.dump | head -40
+# 4. Restaurar BORRA Y REESCRIBE lo que haya. No lo corras en caliente sin
+#    pensarlo dos veces — y nunca contra producción sin haber sacado antes otro
+#    respaldo del estado actual.
+#
+# ── UNA VEZ AL MES ────────────────────────────────────────────────────────
+# Bájate uno a un disco tuyo. Los archivos caducan a los 90 días, y un respaldo
+# que vive sólo en la misma nube que el código no es un respaldo del todo.
+# ═══════════════════════════════════════════════════════════════════════════
+
+name: Respaldo semanal de la base
+
+on:
+  schedule:
+    # Domingos a las 08:00 UTC = 2:00 de la mañana en México.
+    - cron: "0 8 * * 0"
+  # Y a mano, desde la pestaña Actions, cuando haga falta.
+  workflow_dispatch:
+
+jobs:
+  respaldo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comprobar que los secretos están puestos
+        env:
+          DB: ${{ secrets.RESPALDO_DATABASE_URL }}
+          PASS: ${{ secrets.RESPALDO_PASSPHRASE }}
+        run: |
+          if [ -z "$DB" ] || [ -z "$PASS" ]; then
+            echo "Faltan secretos. Hay que crear RESPALDO_DATABASE_URL y"
+            echo "RESPALDO_PASSPHRASE en Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+          case "$DB" in
+            *-pooler*)
+              echo "RESPALDO_DATABASE_URL lleva '-pooler'. pg_dump necesita la"
+              echo "conexión DIRECTA: quítale ese pedazo a la dirección."
+              exit 1
+              ;;
+          esac
+
+      # La base es Postgres 18 y el runner trae una versión más vieja. pg_dump se
+      # niega a leer un servidor más nuevo que él, así que instalamos el cliente 18.
+      - name: Instalar cliente de Postgres 18
+        run: |
+          sudo install -d /usr/share/postgresql-common/pgdg
+          curl -fsSL https://www.postgresql.org/media/keys/ACCC4CF8.asc \
+            | sudo tee /usr/share/postgresql-common/pgdg/apt.postgresql.org.asc > /dev/null
+          echo "deb [signed-by=/usr/share/postgresql-common/pgdg/apt.postgresql.org.asc] https://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" \
+            | sudo tee /etc/apt/sources.list.d/pgdg.list > /dev/null
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq postgresql-client-18
+          pg_dump --version
+
+      - name: Sacar el respaldo
+        env:
+          DB: ${{ secrets.RESPALDO_DATABASE_URL }}
+        run: |
+          fecha=$(date +%F)
+          pg_dump "$DB" -Fc --no-owner --no-acl -f "udefa-$fecha.dump"
+          echo "Tamaño:"
+          ls -lh "udefa-$fecha.dump" | awk '{print $5}'
+          echo "Tablas con datos: $(pg_restore -l "udefa-$fecha.dump" | grep -c 'TABLE DATA')"
+
+      # Cifrado simétrico: sin la contraseña, el archivo no sirve para nada.
+      - name: Cifrar
+        env:
+          PASS: ${{ secrets.RESPALDO_PASSPHRASE }}
+        run: |
+          fecha=$(date +%F)
+          openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt \
+            -in "udefa-$fecha.dump" -out "udefa-$fecha.dump.enc" -pass env:PASS
+          rm "udefa-$fecha.dump"
+          ls -lh *.enc
+
+      - name: Guardar el archivo
+        uses: actions/upload-artifact@v4
+        with:
+          name: respaldo-udefa
+          path: "*.dump.enc"
+          retention-days: 90
+          if-no-files-found: error

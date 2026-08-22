@@ -33,8 +33,8 @@ tope, no se deja morir el sitio.
 
 **Neon:** plan gratis. La base pesa 21 MB de los 512 MB disponibles. La
 retención de historial del plan gratis es de **6 horas**, no de días: sirve para
-deshacer un error reciente, no como respaldo de verdad. Cuando haya clientes
-reales conviene sacar un `pg_dump` propio cada tanto.
+deshacer un error reciente, no como respaldo de verdad. Por eso hay respaldo
+propio — ver «Respaldos» más abajo.
 
 ---
 
@@ -257,6 +257,59 @@ en `docs/reactivos-iniciales/*.json` y se cargaron subiéndolos a
 el panel.
 
 Moraleja: **antes de necesitarlo, saca un `pg_dump` de la base de producción.**
+
+---
+
+## Respaldos
+
+### Automático (lo normal)
+
+`.github/workflows/respaldo-semanal.yml` corre **todos los domingos a las 2 de la
+mañana** de México: saca el `pg_dump`, lo **cifra** y lo guarda 90 días como
+archivo de la ejecución (pestaña *Actions* → la ejecución → *Artifacts*).
+
+Necesita dos secretos en GitHub (Settings → Secrets and variables → Actions):
+
+- `RESPALDO_DATABASE_URL` — la cadena **DIRECTA** de Neon, la que **no** lleva
+  `-pooler`. El workflow se niega a correr si detecta el pooler.
+- `RESPALDO_PASSPHRASE` — la contraseña de cifrado. **Si se pierde, los respaldos
+  no se pueden abrir.** No vive en el repo ni en ningún archivo del proyecto.
+
+Va cifrado porque el volcado lleva dentro los correos y las contraseñas cifradas
+de los aspirantes: ni GitHub tiene por qué poder leerlo.
+
+**Una vez al mes, bájate uno a un disco tuyo.** Los archivos caducan a los 90
+días, y un respaldo que vive sólo en la misma nube que el código no es un
+respaldo del todo.
+
+### A mano (cuando toques la base)
+
+Antes de una migración, un importador o un borrado de cuentas:
+
+```bash
+cd /c/proyectos/udefa/apps/backend
+export PGURL=$(grep -E '^DIRECT_URL=' .env.produccion | cut -d= -f2- | tr -d '"')
+pg_dump "$PGURL" -Fc --no-owner --no-acl -f "/c/respaldos-udefa/udefa-$(date +%F).dump"
+```
+
+Si sale bien **no imprime nada**. Para comprobar que sirve:
+
+```bash
+pg_restore -l /c/respaldos-udefa/udefa-AAAA-MM-DD.dump | grep -c "TABLE DATA"
+```
+
+Debe dar el número de tablas con datos (25 el 22 ago 2026). Comprimido pesa unos
+2 MB aunque Neon reporte 21: `-Fc` va comprimido y la cifra de Neon incluye
+índices.
+
+### Para abrir uno cifrado
+
+```bash
+openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in udefa-AAAA-MM-DD.dump.enc -out udefa.dump -pass pass:TU_CONTRASEÑA
+```
+
+**Restaurar borra y reescribe.** Antes de hacerlo contra producción, saca otro
+respaldo del estado actual: si te equivocas de archivo, el error no tiene vuelta.
 
 ---
 
