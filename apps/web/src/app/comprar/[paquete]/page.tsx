@@ -345,6 +345,20 @@ export default function ComprarPage({
                 {loading ? 'Redirigiendo…' : `Ir a pagar ${info.precio}`}
               </Button>
 
+              {/* El letrero de los medios de pago (22 ago 2026).
+                  Un aspirante escribió que no compró porque el botón lo mandaba
+                  a Mercado Pago y él no tiene cuenta. Sí podía: el checkout
+                  acepta tarjeta como invitado —comprobado— pero nadie lo sabe
+                  al ver el botón. La venta no se perdía por falta de métodos,
+                  sino por falta de este renglón. */}
+              <p className="text-center text-xs text-muted-foreground">
+                Pagas con <strong className="text-foreground">tarjeta de débito
+                o crédito</strong> de cualquier banco.{' '}
+                <strong className="text-foreground">
+                  No necesitas cuenta de Mercado Pago.
+                </strong>
+              </p>
+
               <p className="text-center text-xs text-muted-foreground">
                 Eliges tu plantel al entrar. Puedes cambiarlo cuando quieras.
               </p>

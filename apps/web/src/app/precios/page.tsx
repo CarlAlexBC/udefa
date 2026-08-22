@@ -352,6 +352,13 @@ export default function PreciosPage() {
             · tarjeta, transferencia, OXXO y{' '}
             <span className="font-semibold text-foreground">meses sin intereses</span>.
           </p>
+          {/* La frase que faltaba (22 ago 2026). Un aspirante no compró porque
+              el botón lo mandaba a Mercado Pago y creyó que necesitaba cuenta
+              ahí. No la necesita —se paga como invitado con tarjeta, está
+              comprobado—, pero eso hay que DECIRLO donde duda. */}
+          <p className="text-sm font-semibold text-foreground">
+            No necesitas cuenta de Mercado Pago para comprar.
+          </p>
           <div className="flex flex-wrap items-center justify-center gap-3">
             {LOGOS_PAGO.map((l) => (
               <div
