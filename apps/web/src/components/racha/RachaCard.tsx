@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react'
 import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
 import { Flame, Check } from 'lucide-react'
+import { fraseDelDia } from '@/lib/frases'
 
 /* ═══════════════════════════════════════════════════════════
    Tarjeta de racha de días (hábito, tipo Duolingo).
@@ -83,6 +84,18 @@ export function RachaCard() {
   const { rachaActual, rachaMaxima, hoyActivo, semana } = racha
   const viva = rachaActual > 0
   const plural = (n: number) => (n === 1 ? 'día' : 'días')
+
+  // LA META PRÓXIMA. Un número que sólo sube no jala; una meta a la vista, sí.
+  // Se elige la más cercana que tenga sentido: igualar el récord, completar la
+  // primera semana, o —si ya rompió su marca— nada, porque ya ganó hoy.
+  const esRecordNuevo = rachaActual > 0 && rachaActual >= rachaMaxima
+  const meta = esRecordNuevo
+    ? null
+    : rachaMaxima > rachaActual
+      ? { texto: 'Para igualar tu récord', faltan: rachaMaxima - rachaActual, de: rachaMaxima }
+      : { texto: 'Para tu primera semana completa', faltan: 7 - rachaActual, de: 7 }
+
+  const frase = fraseDelDia()
 
   const mensaje = hoyActivo
     ? rachaActual === 1
@@ -175,8 +188,55 @@ export function RachaCard() {
       </div>
 
       <p className="mt-4 text-xs" style={{ color: TENUE }}>
-        {mensaje}
+        {esRecordNuevo && hoyActivo
+          ? `Es tu mejor racha hasta hoy. ${mensaje}`
+          : mensaje}
       </p>
+
+      {/* La meta próxima. No aparece cuando ya rompió su récord: ese día el
+          premio es el récord mismo y meterle otra meta encima lo abarata. */}
+      {meta && meta.faltan > 0 && (
+        <div className="mt-4">
+          <div className="flex items-baseline justify-between text-[11px]">
+            <span style={{ color: TENUE }}>{meta.texto}</span>
+            <span style={{ color: TENUE }}>
+              <span style={{ color: CREMA, fontWeight: 600 }}>{meta.faltan}</span>{' '}
+              {plural(meta.faltan)}
+            </span>
+          </div>
+          <div
+            className="mt-1.5 h-1.5 overflow-hidden rounded-full"
+            style={{ backgroundColor: 'rgba(247,243,234,0.10)' }}
+          >
+            <span
+              className="block h-full rounded-full"
+              style={{
+                width: `${Math.round((rachaActual / meta.de) * 100)}%`,
+                background: `linear-gradient(90deg, ${VERDE}, ${ACENTO})`,
+              }}
+            />
+          </div>
+        </div>
+      )}
+
+      {/* La frase del día. Es lo que hace que valga la pena abrir la tarjeta
+          aunque ya hayas estudiado. Va citada siempre: ver lib/frases.ts. */}
+      <div
+        className="mt-4 border-t pt-3"
+        style={{ borderColor: 'rgba(247,243,234,0.08)' }}
+      >
+        <p className="text-xs leading-relaxed" style={{ color: '#D9D2C4' }}>
+          {frase.texto}
+        </p>
+        <p
+          className="mt-1.5 text-[10px]"
+          style={{ color: TENUE }}
+          title={frase.nota}
+        >
+          — {frase.autor}
+          {frase.obra ? `, ${frase.obra}` : ''}
+        </p>
+      </div>
     </div>
   )
 }
