@@ -19,6 +19,12 @@ export class AdminController {
     return this.adminService.obtenerStats();
   }
 
+  /** Libro de caja resumido: lo cobrado, lo que quedó y de dónde vino. */
+  @Get('ingresos')
+  obtenerIngresos(@Query('ciclo') ciclo?: string) {
+    return this.adminService.obtenerIngresos(ciclo);
+  }
+
   @Get('analitica')
   obtenerAnalitica() {
     return this.adminService.obtenerAnalitica();

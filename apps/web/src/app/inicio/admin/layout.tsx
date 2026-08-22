@@ -18,6 +18,7 @@ import {
   Loader2,
   SlidersHorizontal,
   Users,
+  Wallet,
 } from 'lucide-react'
 
 /**
@@ -99,6 +100,7 @@ const NAV_GROUPS: Array<{ titulo: string; items: NavItem[] }> = [
     items: [
       { href: '/inicio/admin', label: 'Dashboard', icon: LayoutDashboard },
       { href: '/inicio/admin/analitica', label: 'Analítica', icon: BarChart3 },
+      { href: '/inicio/admin/ingresos', label: 'Ingresos', icon: Wallet },
     ],
   },
   {
@@ -256,7 +258,10 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
         className="pointer-events-none fixed inset-0 z-0"
         style={{
           backgroundImage:
-            'linear-gradient(135deg, #1C2320 0%, #151A17 52%, #0F1310 100%)',
+            // Carbón cálido, la familia del #161513 de la marca. Antes este
+            // degradado tiraba a verde (#1C2320 → #0F1310): se veía como un
+            // panel de otro producto y peleaba con el latón.
+            'linear-gradient(135deg, #201E1A 0%, #171613 52%, #100F0D 100%)',
         }}
       />
       <div
@@ -264,7 +269,9 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
         className="pointer-events-none fixed inset-0 z-0"
         style={{
           backgroundImage:
-            'linear-gradient(118deg, transparent 26%, rgba(228,240,231,0.05) 45%, rgba(228,240,231,0.015) 55%, transparent 72%)',
+            // El barrido, en el mismo crema de las hojas de plata (antes era
+            // verdoso: rgba(228,240,231)).
+            'linear-gradient(118deg, transparent 26%, rgba(228,233,216,0.05) 45%, rgba(228,233,216,0.015) 55%, transparent 72%)',
         }}
       />
 

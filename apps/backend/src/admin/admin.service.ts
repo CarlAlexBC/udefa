@@ -498,4 +498,92 @@ export class AdminService {
       nota: c.notaRevisor,
     }));
   }
+
+  /**
+   * Ingresos: el libro de caja resumido para el panel.
+   *
+   * Todo sale de la tabla `Pago`, que se escribe sola cuando Mercado Pago avisa
+   * de un pago aprobado. Se devuelven los importes ya en número (Prisma entrega
+   * los Decimal como objeto, y el frontend sólo quiere sumar y pintar).
+   *
+   * `ciclo` acota a una convocatoria; sin él, todo lo cobrado desde siempre.
+   */
+  async obtenerIngresos(ciclo?: string) {
+    const where = ciclo ? { ciclo } : {};
+    const pagos = await this.prisma.pago.findMany({
+      where,
+      orderBy: { aprobadoEn: 'desc' },
+      include: { usuario: { select: { id: true, nombre: true, email: true } } },
+    });
+
+    const num = (v: unknown) => (v === null || v === undefined ? 0 : Number(v));
+
+    const aprobados = pagos.filter((p) => p.estado === 'approved');
+    const cobrado = aprobados.reduce((t, p) => t + num(p.monto), 0);
+    const comision = aprobados.reduce((t, p) => t + num(p.comision), 0);
+    // Si Mercado Pago no reportó el neto, no se inventa: se cae al monto menos
+    // la comisión conocida, que con comisión 0 es el propio monto.
+    const neto = aprobados.reduce(
+      (t, p) => t + (p.neto !== null ? num(p.neto) : num(p.monto) - num(p.comision)),
+      0,
+    );
+    const devueltos = pagos.filter((p) => p.estado !== 'approved');
+
+    // Por paquete
+    const porPaqueteMapa = new Map<string, { ventas: number; cobrado: number }>();
+    aprobados.forEach((p) => {
+      const actual = porPaqueteMapa.get(p.paquete) ?? { ventas: 0, cobrado: 0 };
+      actual.ventas += 1;
+      actual.cobrado += num(p.monto);
+      porPaqueteMapa.set(p.paquete, actual);
+    });
+
+    // Ventas por día, los últimos 14 (incluidos los días en cero: un hueco en la
+    // gráfica también es información).
+    const dias: Array<{ dia: string; ventas: number; cobrado: number }> = [];
+    for (let i = 13; i >= 0; i--) {
+      const d = new Date();
+      d.setHours(0, 0, 0, 0);
+      d.setDate(d.getDate() - i);
+      const siguiente = new Date(d);
+      siguiente.setDate(siguiente.getDate() + 1);
+      const delDia = aprobados.filter((p) => {
+        const cuando = p.aprobadoEn ?? p.createdAt;
+        return cuando >= d && cuando < siguiente;
+      });
+      dias.push({
+        dia: d.toISOString().slice(0, 10),
+        ventas: delDia.length,
+        cobrado: delDia.reduce((t, p) => t + num(p.monto), 0),
+      });
+    }
+
+    return {
+      totales: {
+        cobrado,
+        comision,
+        neto,
+        ventas: aprobados.length,
+        promedio: aprobados.length > 0 ? cobrado / aprobados.length : 0,
+        devoluciones: devueltos.length,
+        montoDevuelto: devueltos.reduce((t, p) => t + num(p.monto), 0),
+      },
+      porPaquete: [...porPaqueteMapa.entries()]
+        .map(([paquete, v]) => ({ paquete, ...v }))
+        .sort((a, b) => b.cobrado - a.cobrado),
+      porDia: dias,
+      ultimas: pagos.slice(0, 12).map((p) => ({
+        id: p.id,
+        paquete: p.paquete,
+        estado: p.estado,
+        monto: num(p.monto),
+        neto: p.neto !== null ? num(p.neto) : null,
+        metodoPago: p.metodoPago,
+        aprobadoEn: p.aprobadoEn ?? p.createdAt,
+        usuario: p.usuario,
+      })),
+      ciclos: [...new Set(pagos.map((p) => p.ciclo))].sort().reverse(),
+    };
+  }
+
 }
