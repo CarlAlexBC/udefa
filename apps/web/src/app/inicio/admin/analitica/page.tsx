@@ -1,18 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import {
-  Bar,
-  BarChart,
-  CartesianGrid,
-  Cell,
-  ResponsiveContainer,
-  Tooltip,
-  XAxis,
-  YAxis,
-} from 'recharts'
 import { apiFetch } from '@/lib/api'
-import { ChartTactil } from '@/components/ChartTactil'
 import { cn } from '@/lib/utils'
 import {
   AlertCircle,
@@ -104,15 +93,6 @@ type Distribucion = {
   items: DistribucionItem[]
 }
 
-/**
- * Color de la barra según la tasa de error: verde bajo, ámbar medio, rojo alto.
- * Ayuda a leer la gráfica de un vistazo sin mirar los números.
- */
-function colorPorTasa(tasa: number): string {
-  if (tasa >= 60) return 'var(--color-rose-500, #f43f5e)'
-  if (tasa >= 35) return 'var(--color-amber-500, #f59e0b)'
-  return 'var(--color-emerald-500, #10b981)'
-}
 
 /* ═══════════════════════════════════════════════════════════
    Página — con pestañas Psicológico / Cultural
@@ -506,6 +486,7 @@ function VistaPsicologico() {
           <VacioChico texto="Sin temas etiquetados con respuestas todavía." />
         ) : (
           <GraficaError
+            detallado
             items={data.erroresPorTema.map((t) => ({
               nombre: t.tema,
               tasaError: t.tasaError,
@@ -589,6 +570,7 @@ function VistaCultural() {
           <VacioChico texto="Sin temas con respuestas todavía." />
         ) : (
           <GraficaError
+            detallado
             items={data.erroresPorTema.map((t) => ({
               nombre: t.tema,
               tasaError: t.tasaError,
@@ -943,22 +925,78 @@ function TablaReactivos({
   )
 }
 
-/** Respuestas mínimas para que un tema entre a la gráfica de % de error. */
+/** Respuestas mínimas para que una fila entre. Con menos, un solo fallo pinta
+ *  100% de error y el dato engaña aunque no mienta. */
 const MINIMO_RESPUESTAS = 5
 
+/** Cuántos temas se pintan antes del "Ver todos". */
+const TOPE_VISIBLE = 12
+
+type ItemError = { nombre: string; tasaError: number; total: number }
+
 /**
- * Gráfica de barras horizontal reutilizable: nombre en el eje Y, % error en X.
- * Altura dinámica según el número de barras para que no se apretujen.
+ * Los tres escalones del semáforo, nombrados como se habla y no como se mide:
+ * "se les atora" en vez de "tasa de error alta".
+ */
+const NIVELES = [
+  {
+    clave: 'alta',
+    titulo: 'Se les atora',
+    pie: '60% de error o más',
+    color: 'var(--senal-alta)',
+    brillo: 'var(--senal-alta-brillo)',
+    entra: (t: number) => t >= 60,
+  },
+  {
+    clave: 'media',
+    titulo: 'A medias',
+    pie: 'entre 30% y 59%',
+    color: 'var(--senal-media)',
+    brillo: 'var(--senal-media-brillo)',
+    entra: (t: number) => t >= 30 && t < 60,
+  },
+  {
+    clave: 'baja',
+    titulo: 'Lo traen',
+    pie: 'menos de 30% de error',
+    color: 'var(--senal-baja)',
+    brillo: 'var(--senal-baja-brillo)',
+    entra: (t: number) => t < 30,
+  },
+] as const
+
+function nivelDe(tasa: number) {
+  return NIVELES.find((n) => n.entra(tasa)) ?? NIVELES[2]
+}
+
+/**
+ * Lista de "% de error", en renglones.
+ *
+ * Antes era una gráfica de barras de recharts y la página medía 4,573 px: 38 px
+ * por barra más 170 px de columna de nombres, repetidos en cada pestaña. En
+ * renglones ocupa un tercio, cabe el número de RESPUESTAS junto al porcentaje
+ * —el dato que hacía falta para saber si un 100% merece atención— y desaparece
+ * el globito de recharts, que en el teléfono se quedaba pegado al tocar.
+ *
+ * El resplandor va con cuentagotas: franja de la tarjeta, número y barra. Nunca
+ * en texto corrido. Brilla porque es escaso.
+ *
+ * `detallado` es para las listas largas (por tema): añade las tres tarjetas de
+ * arriba, agrupa por escalón y recorta a los peores con un "Ver todos". Las
+ * listas cortas (por bloque, por materia) van en renglones pelones.
  */
 function GraficaError({
   items,
+  detallado = false,
 }: {
-  items: Array<{ nombre: string; tasaError: number; total: number }>
+  items: ItemError[]
+  detallado?: boolean
 }) {
-  // Un tema con UNA respuesta fallada pinta 100% de error: la misma barra roja y
-  // del mismo largo que uno fallado por cien aspirantes. La gráfica no miente,
-  // pero engaña. Sólo entran los temas con evidencia suficiente detrás.
-  const visibles = items.filter((i) => i.total >= MINIMO_RESPUESTAS)
+  const [verTodos, setVerTodos] = useState(false)
+
+  const visibles = [...items]
+    .filter((i) => i.total >= MINIMO_RESPUESTAS)
+    .sort((a, b) => b.tasaError - a.tasaError)
   const ocultos = items.length - visibles.length
 
   if (visibles.length === 0) {
@@ -969,62 +1007,129 @@ function GraficaError({
     )
   }
 
-  const alto = Math.max(160, visibles.length * 38 + 40)
+  const recortados =
+    detallado && !verTodos ? visibles.slice(0, TOPE_VISIBLE) : visibles
+
   return (
     <div className="rounded-xl border border-border bg-card p-4 shadow-sm">
-      <ChartTactil style={{ width: '100%', height: alto }}>
-        <ResponsiveContainer>
-          <BarChart
-            data={visibles}
-            layout="vertical"
-            margin={{ top: 4, right: 40, left: 12, bottom: 4 }}
-          >
-            <CartesianGrid
-              strokeDasharray="3 3"
-              stroke="var(--border)"
-              horizontal={false}
-            />
-            <XAxis
-              type="number"
-              domain={[0, 100]}
-              unit="%"
-              stroke="var(--muted-foreground)"
-              fontSize={11}
-            />
-            <YAxis
-              dataKey="nombre"
-              type="category"
-              stroke="var(--muted-foreground)"
-              fontSize={11}
-              width={170}
-              tick={{ fontSize: 11 }}
-            />
-            <Tooltip
-              contentStyle={{
-                backgroundColor: 'var(--card)',
-                border: '1px solid var(--border)',
-                borderRadius: 8,
-                fontSize: 12,
-              }}
-              formatter={(v, _n, item) => [
-                `${Number(v)}% error (${item?.payload?.total ?? 0} respuestas)`,
-                'Tasa',
-              ]}
-            />
-            <Bar dataKey="tasaError" radius={[0, 4, 4, 0]}>
-              {visibles.map((it, idx) => (
-                <Cell key={idx} fill={colorPorTasa(it.tasaError)} />
+      {detallado && (
+        <div className="mb-5 grid grid-cols-3 gap-2 sm:gap-3">
+          {NIVELES.map((n) => {
+            const cuantos = visibles.filter((i) => n.entra(i.tasaError)).length
+            return (
+              <div
+                key={n.clave}
+                className="hoja-plata relative min-w-0 overflow-hidden rounded-lg border border-border/60 p-3"
+              >
+                <span
+                  aria-hidden="true"
+                  className="absolute inset-y-0 left-0 w-[3px]"
+                  style={{
+                    backgroundColor: n.color,
+                    boxShadow: `0 0 14px ${n.brillo}`,
+                  }}
+                />
+                <p
+                  className="text-xl font-semibold leading-none tabular-nums sm:text-2xl"
+                  style={{ color: n.color, textShadow: `0 0 18px ${n.brillo}` }}
+                >
+                  {cuantos}
+                </p>
+                <p className="mt-1 text-xs font-semibold text-foreground">
+                  {n.titulo}
+                </p>
+                <p className="text-[10px] text-muted-foreground">{n.pie}</p>
+              </div>
+            )
+          })}
+        </div>
+      )}
+
+      <div className="flex flex-col">
+        {NIVELES.map((n) => {
+          const suyos = recortados.filter((i) => n.entra(i.tasaError))
+          if (suyos.length === 0) return null
+          return (
+            <div key={n.clave} className="flex flex-col">
+              {detallado && (
+                <div className="mb-1 mt-3 flex items-center gap-2 first:mt-0">
+                  <span className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+                    {n.titulo}
+                  </span>
+                  <span className="h-px flex-1 bg-border" />
+                  <span className="text-[10px] tabular-nums text-muted-foreground">
+                    {visibles.filter((i) => n.entra(i.tasaError)).length}
+                  </span>
+                </div>
+              )}
+              {suyos.map((item) => (
+                <Renglon
+                  key={item.nombre}
+                  item={item}
+                  puesto={detallado ? visibles.indexOf(item) + 1 : null}
+                />
               ))}
-            </Bar>
-          </BarChart>
-        </ResponsiveContainer>
-      </ChartTactil>
+            </div>
+          )
+        })}
+      </div>
+
+      {detallado && visibles.length > TOPE_VISIBLE && (
+        <button
+          type="button"
+          onClick={() => setVerTodos((v) => !v)}
+          className="mt-4 rounded-md border border-accent/40 px-3 py-1.5 text-xs font-semibold text-accent transition-colors hover:bg-accent/10"
+        >
+          {verTodos
+            ? `Ver sólo los ${TOPE_VISIBLE} peores`
+            : `Ver los ${visibles.length}`}
+        </button>
+      )}
+
       {ocultos > 0 && (
         <p className="mt-3 text-[11px] text-muted-foreground">
-          No se pintan {ocultos} tema{ocultos === 1 ? '' : 's'} con menos de{' '}
+          No se pintan {ocultos} {ocultos === 1 ? 'tema' : 'temas'} con menos de{' '}
           {MINIMO_RESPUESTAS} respuestas: ahí un solo fallo da 100% de error.
         </p>
       )}
+    </div>
+  )
+}
+
+/** Un renglón: puesto, nombre recortado, barra delgada y el % con su conteo. */
+function Renglon({ item, puesto }: { item: ItemError; puesto: number | null }) {
+  const n = nivelDe(item.tasaError)
+  return (
+    <div className="grid grid-cols-[1fr_auto] items-center gap-3 rounded-md px-2 py-1.5 transition-colors hover:bg-muted/40 sm:grid-cols-[1.5rem_minmax(0,1fr)_minmax(0,7rem)_auto]">
+      {puesto !== null && (
+        <span className="hidden text-right text-[11px] tabular-nums text-muted-foreground/70 sm:block">
+          {puesto}
+        </span>
+      )}
+      <span className="min-w-0 truncate text-sm" title={item.nombre}>
+        {item.nombre}
+      </span>
+      <span className="hidden h-1.5 rounded-full bg-muted sm:block">
+        <span
+          className="block h-full rounded-full"
+          style={{
+            width: `${item.tasaError}%`,
+            backgroundColor: n.color,
+            boxShadow: `0 0 12px ${n.brillo}`,
+          }}
+        />
+      </span>
+      <span className="flex flex-col items-end leading-tight">
+        <span
+          className="text-sm font-semibold tabular-nums"
+          style={{ color: n.color, textShadow: `0 0 16px ${n.brillo}` }}
+        >
+          {item.tasaError}%
+        </span>
+        <span className="text-[10px] tabular-nums text-muted-foreground">
+          {item.total} resp
+        </span>
+      </span>
     </div>
   )
 }

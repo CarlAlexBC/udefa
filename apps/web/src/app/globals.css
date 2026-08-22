@@ -40,6 +40,9 @@
   --color-card-foreground: var(--card-foreground);
   --color-card: var(--card);
   --color-military: var(--military);
+  --color-senal-alta: var(--senal-alta);
+  --color-senal-media: var(--senal-media);
+  --color-senal-baja: var(--senal-baja);
   --color-military-foreground: var(--military-foreground);
   --radius-sm: calc(var(--radius) * 0.6);
   --radius-md: calc(var(--radius) * 0.8);
@@ -83,6 +86,21 @@
   --military: #4B5121;
   --military-foreground: #F7F3EA;
   --destructive: #7F1D1D;
+
+  /* ── Escala de señal (analítica del panel) ────────────────────────────────
+     Tres niveles para "qué tan mal va esto": alta = se les atora, media = a
+     medias, baja = lo traen. Son primos del semáforo del panel de resultados
+     (rojo/latón/oliva) pero con su propio token, porque aquí van ENCENDIDOS:
+     llevan un resplandor que --destructive y --military no deben arrastrar al
+     resto de la plataforma.
+     El resplandor se usa con cuentagotas —franja, número grande y barra— y
+     nunca en texto corrido: brilla porque es escaso. */
+  --senal-alta: #B4432F;
+  --senal-media: #B8862F;
+  --senal-baja: #566023;
+  --senal-alta-brillo: rgba(180, 67, 47, 0.35);
+  --senal-media-brillo: rgba(184, 134, 47, 0.32);
+  --senal-baja-brillo: rgba(86, 96, 35, 0.3);
   --border: #EAE3D3;
   --input: #EAE3D3;
   --ring: #C99A3B;
@@ -132,6 +150,14 @@
   --military: #6B7530;
   --military-foreground: #F7F3EA;
   --destructive: #EF4444;
+
+  /* Escala de señal, encendida para fondo oscuro (ver el bloque en claro). */
+  --senal-alta: #E2563A;
+  --senal-media: #E0AC44;
+  --senal-baja: #9FB03F;
+  --senal-alta-brillo: rgba(226, 86, 58, 0.55);
+  --senal-media-brillo: rgba(224, 172, 68, 0.5);
+  --senal-baja-brillo: rgba(159, 176, 63, 0.45);
   --border: #3D3A34;
   --input: #3D3A34;
   --ring: #C99A3B;
