@@ -34,6 +34,23 @@ import {
 /** A cuántos simulacros por semana se hace la cuenta de "cuántos caben". */
 const SIMULACROS_POR_SEMANA = 2
 
+/**
+ * El empuje: una línea distinta según lo lejos que esté el examen.
+ *
+ * Sin esto la tarjeta informa pero no mueve. Y no puede hablar de la racha
+ * —eso es trabajo de la tarjeta de al lado—, así que habla de lo único que
+ * cambia solo: el tiempo que queda y lo que toca hacer con él.
+ */
+function aliento(dias: number): string {
+  if (dias > 180) return 'Tiempo de sobra. El que empieza hoy llega sin prisas.'
+  if (dias > 90) return 'Ya no es lejos. Este es el tramo para tomar ritmo.'
+  if (dias > 30) return 'Recta final. Aquí se decide quién entra.'
+  if (dias > 7) return 'Último mes. Repasa lo que te falla, no lo que ya sabes.'
+  if (dias > 1) return 'Es esta semana. Duerme bien y confía en lo que ya hiciste.'
+  if (dias === 1) return 'Mañana es. Hoy se descansa, no se estudia de más.'
+  return 'Hoy es. Ve por lo tuyo.'
+}
+
 export function CuentaRegresiva() {
   const dias = diasParaExamen()
 
@@ -51,7 +68,12 @@ export function CuentaRegresiva() {
     <div
       className="mb-8 overflow-hidden rounded-xl border p-5 shadow-sm"
       style={{
-        background: 'linear-gradient(135deg, #1c1a17 0%, #262420 100%)',
+        // Hoja de plata: el mismo barrido metálico de las tarjetas del panel de
+        // resultados. Es lo que hacía que en la maqueta se viera "cara" y en la
+        // primera versión no: un degradado plano no atrapa la luz.
+        backgroundColor: '#1a1917',
+        backgroundImage:
+          'linear-gradient(118deg, transparent 28%, rgba(228,233,216,0.10) 47%, rgba(228,233,216,0.03) 57%, transparent 72%), linear-gradient(135deg, #26251f 0%, #1c1b18 100%)',
         borderColor: recta ? '#C99A3B66' : '#3D3A34',
       }}
     >
@@ -64,10 +86,15 @@ export function CuentaRegresiva() {
 
       <div className="mt-1 flex items-baseline gap-2">
         <span
-          className="text-4xl font-semibold leading-none tabular-nums"
+          className="text-6xl font-extrabold leading-none tracking-tight tabular-nums"
           style={{
-            color: '#C99A3B',
-            textShadow: recta ? '0 0 22px rgba(201, 154, 59, 0.5)' : 'none',
+            // Degradado de latón sobre el propio número. El color plano se veía
+            // apagado al lado de la flama de la racha, que sí es un degradado.
+            backgroundImage: 'linear-gradient(160deg, #F0D48A 0%, #C99A3B 55%, #A87C28 100%)',
+            WebkitBackgroundClip: 'text',
+            backgroundClip: 'text',
+            color: 'transparent',
+            filter: recta ? 'drop-shadow(0 0 18px rgba(201,154,59,0.45))' : undefined,
           }}
         >
           {dias === 0 ? '¡Hoy!' : dias}
@@ -95,7 +122,7 @@ export function CuentaRegresiva() {
           lib/convocatoria.ts), no la fecha en que se registró cada quien. */}
       <div className="mt-5">
         <div
-          className="relative h-1 rounded-full"
+          className="relative h-1.5 rounded-full"
           style={{ backgroundColor: 'rgba(247,243,234,0.10)' }}
         >
           <span
@@ -105,7 +132,7 @@ export function CuentaRegresiva() {
               background: 'linear-gradient(90deg, #6B7530, #C99A3B)',
             }}
           />
-          <Hito posicion={hoyPct} color="#C99A3B" />
+          <Hito posicion={hoyPct} color="#C99A3B" brilla />
           <Hito posicion={convocatoriaPct} color="#4A443C" />
           <Hito posicion={100} color="#4A443C" />
         </div>
@@ -130,6 +157,13 @@ export function CuentaRegresiva() {
           />
         </div>
       </div>
+
+      <p
+        className="mt-4 border-t pt-3 text-xs font-medium"
+        style={{ borderColor: 'rgba(247,243,234,0.08)', color: '#D9D2C4' }}
+      >
+        {aliento(dias)}
+      </p>
     </div>
   )
 }
@@ -138,12 +172,27 @@ function hoyTexto(): string {
   return new Date().toLocaleDateString('es-MX', { day: 'numeric', month: 'short' })
 }
 
-function Hito({ posicion, color }: { posicion: number; color: string }) {
+function Hito({
+  posicion,
+  color,
+  brilla = false,
+}: {
+  posicion: number
+  color: string
+  brilla?: boolean
+}) {
   return (
     <span
       aria-hidden="true"
-      className="absolute top-1/2 h-2.5 w-2.5 -translate-x-1/2 -translate-y-1/2 rounded-full"
-      style={{ left: `${posicion}%`, backgroundColor: color, border: '2px solid #1c1a17' }}
+      className="absolute top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full"
+      style={{
+        left: `${posicion}%`,
+        backgroundColor: color,
+        border: '2px solid #1a1917',
+        // Sólo el punto de HOY brilla. Es el único que se mueve, y saber dónde
+        // estás parado es la mitad de lo que hace útil una línea de tiempo.
+        boxShadow: brilla ? '0 0 12px rgba(201,154,59,0.75)' : undefined,
+      }}
     />
   )
 }

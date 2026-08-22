@@ -222,19 +222,39 @@ export function RachaCard() {
       {/* La frase del día. Es lo que hace que valga la pena abrir la tarjeta
           aunque ya hayas estudiado. Va citada siempre: ver lib/frases.ts. */}
       <div
-        className="mt-4 border-t pt-3"
-        style={{ borderColor: 'rgba(247,243,234,0.08)' }}
+        className="relative mt-5 overflow-hidden rounded-lg py-3 pl-5 pr-4"
+        style={{
+          // Superficie propia y filo de latón a la izquierda: la cita deja de
+          // ser un pie de página y se lee como lo que es, una cita.
+          backgroundColor: 'rgba(201,154,59,0.07)',
+          borderLeft: `2px solid ${ACENTO}`,
+        }}
       >
-        <p className="text-xs leading-relaxed" style={{ color: '#D9D2C4' }}>
+        {/* Comilla de adorno, grande y tenue, detrás del texto. Es lo que hace
+            que se reconozca como cita antes de leerla. */}
+        <span
+          aria-hidden="true"
+          className="pointer-events-none absolute -top-3 right-2 select-none font-serif text-6xl leading-none"
+          style={{ color: 'rgba(201,154,59,0.13)' }}
+        >
+          &rdquo;
+        </span>
+
+        <p
+          className="relative text-sm font-medium italic leading-relaxed"
+          style={{ color: CREMA }}
+        >
           {frase.texto}
         </p>
         <p
-          className="mt-1.5 text-[10px]"
-          style={{ color: TENUE }}
+          className="relative mt-2 text-[10px] font-semibold uppercase tracking-widest"
+          style={{ color: ACENTO }}
           title={frase.nota}
         >
-          — {frase.autor}
-          {frase.obra ? `, ${frase.obra}` : ''}
+          {frase.autor}
+          {frase.obra ? (
+            <span style={{ color: TENUE }}> · {frase.obra}</span>
+          ) : null}
         </p>
       </div>
     </div>
