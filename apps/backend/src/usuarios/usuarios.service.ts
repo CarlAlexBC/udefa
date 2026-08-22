@@ -504,6 +504,82 @@ export class UsuariosService {
    * al hablar (nada de l/1 ni O/0). Las dos se devuelven UNA sola vez: en la base
    * la contraseña vive cifrada, como la de cualquiera.
    */
+  /**
+   * Alta de una cuenta desde el panel de admin.
+   *
+   * Por qué existe: hasta hoy la única forma de que alguien tuviera cuenta era
+   * que se registrara él mismo o que pagara. Carlo necesita poder dar de alta a
+   * mano — su propia cuenta de aspirante separada de la de admin, un colaborador,
+   * o alguien que pagó por fuera.
+   *
+   * La contraseña la genera el sistema y se devuelve UNA vez, igual que en las
+   * cuentas de prueba: así nadie tiene que teclear la contraseña de otro, y la
+   * persona la cambia cuando quiera desde "olvidé mi contraseña".
+   *
+   * No otorga accesos. Dar acceso es otra decisión y ya tiene su propia pantalla
+   * ("Gestionar" en cada renglón): mezclarlas haría que dar de alta a alguien
+   * regalara producto sin querer.
+   */
+  async crearCuentaDesdePanel(datos: {
+    nombre: string;
+    email: string;
+    plantelId?: number | null;
+    rol?: string;
+  }) {
+    const nombre = datos.nombre?.trim();
+    const email = datos.email?.trim().toLowerCase();
+
+    if (!nombre) throw new BadRequestException('Falta el nombre.');
+    if (!email || !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
+      throw new BadRequestException('El correo no es válido.');
+    }
+    const rol = datos.rol === 'admin' ? 'admin' : 'aspirante';
+
+    const yaExiste = await this.prisma.usuario.findFirst({
+      where: { email: { equals: email, mode: 'insensitive' } },
+      select: { id: true },
+    });
+    if (yaExiste) {
+      throw new BadRequestException('Ya hay una cuenta con ese correo.');
+    }
+
+    if (datos.plantelId) {
+      const plantel = await this.prisma.plantel.findUnique({
+        where: { id: datos.plantelId },
+      });
+      if (!plantel) throw new NotFoundException('Plantel no encontrado');
+    }
+
+    // Sin letras ni números que se confundan al dictarla por teléfono.
+    const SIN_CONFUSIONES = 'abcdefghjkmnpqrstuvwxyz23456789';
+    const passwordEnClaro =
+      'monote-' +
+      Array.from(
+        { length: 8 },
+        () => SIN_CONFUSIONES[randomInt(SIN_CONFUSIONES.length)],
+      ).join('');
+
+    const usuario = await this.prisma.usuario.create({
+      data: {
+        nombre,
+        email,
+        password: await bcrypt.hash(passwordEnClaro, 10),
+        plantelId: datos.plantelId ?? null,
+        estado: 'ACTIVA',
+        ...({ rol } as Record<string, string>),
+      } as never,
+    });
+
+    return {
+      id: usuario.id,
+      nombre: usuario.nombre,
+      email: usuario.email,
+      rol,
+      /** Se muestra UNA vez en el panel. No se guarda en claro en ningún lado. */
+      password: passwordEnClaro,
+    };
+  }
+
   async crearCuentaDePrueba(datos: {
     plantelId: number;
     modulos: string[];

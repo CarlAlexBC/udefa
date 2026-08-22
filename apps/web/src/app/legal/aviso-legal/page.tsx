@@ -63,6 +63,14 @@ export default function AvisoLegalPage() {
           distribución o explotación comercial sin autorización.
         </DocParrafo>
         <DocParrafo>
+          Para proteger ese material, el contenido que se muestra a cada persona
+          va <strong>identificado de forma individual</strong>: las pantallas
+          llevan marcas asociadas a la cuenta con la que se accede, y el banco de
+          reactivos incluye elementos propios que permiten reconocer su origen.
+          Si el material aparece publicado o distribuido fuera de la plataforma,
+          esas marcas permiten identificar desde qué cuenta salió.
+        </DocParrafo>
+        <DocParrafo>
           Los nombres y denominaciones de instituciones se emplean únicamente con
           fines informativos e identificativos y pertenecen a sus respectivos
           titulares.

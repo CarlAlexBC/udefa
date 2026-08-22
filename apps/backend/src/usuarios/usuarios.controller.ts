@@ -98,6 +98,25 @@ export class UsuariosController {
   }
 
   /**
+   * Alta de cuenta a mano desde el panel. Devuelve la contraseña generada UNA
+   * vez; el panel la muestra y avisa de que no se vuelve a ver.
+   *
+   * OJO AL PONER DECORADORES AQUÍ: los `@UseGuards`/`@Roles` de arriba pertenecen
+   * al método que les sigue INMEDIATAMENTE. Al añadir este endpoint se coló entre
+   * ellos y el de "cuenta de prueba", y lo dejó sin protección — compilando igual.
+   * Cada endpoint lleva los suyos, pegados a su propio @Post.
+   */
+  @UseGuards(JwtAuthGuard, RolesGuard)
+  @Roles('admin')
+  @Post()
+  crearDesdePanel(
+    @Body()
+    body: { nombre: string; email: string; plantelId?: number; rol?: string },
+  ) {
+    return this.usuariosService.crearCuentaDesdePanel(body);
+  }
+
+  /**
    * Crea una CUENTA DE PRUEBA: sirve unos minutos y se acaba sola.
    *
    * Devuelve el correo y la contraseña EN CLARO una única vez — es la única

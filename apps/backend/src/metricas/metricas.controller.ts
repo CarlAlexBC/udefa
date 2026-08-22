@@ -7,6 +7,7 @@ import {
   Post,
   UseGuards,
 } from '@nestjs/common';
+import { Throttle } from '@nestjs/throttler';
 import { MetricasService } from './metricas.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
@@ -24,10 +25,13 @@ export class MetricasController {
    * clientes entran. Responde 204 (sin contenido) para que el navegador no se
    * quede esperando nada.
    *
-   * Se puede inflar llamándolo en bucle. Es un contador de visitas, no una caja
-   * registradora: si algún día el número deja de parecerse a la realidad, se le
-   * pone un freno por IP como el que ya tienen otros endpoints.
+   * Lleva freno por IP (abajo). No lo vuelve infalsificable —quien reparta las
+   * llamadas entre muchas IP puede inflarlo— pero sí lo saca del alcance de un
+   * bucle desde una sola máquina, que es el caso realista.
    */
+  // 30 avisos por minuto y por IP: de sobra para alguien navegando (una vista
+  // por pantalla) y muy poco para inflar el contador a mano.
+  @Throttle({ default: { limit: 30, ttl: 60_000 } })
   @Post('vista')
   @HttpCode(204)
   async registrar(

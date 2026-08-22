@@ -5,9 +5,16 @@ import {
   ForbiddenException,
 } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
+import { MailService } from '../mail/mail.service';
 import { RepasosService } from '../repasos/repasos.service';
 import { AccesoService } from '../acceso/acceso.service';
 import { ActividadService } from '../actividad/actividad.service';
+
+/**
+ * Cuántos simulacros puede arrancar una cuenta en un día. Es un freno
+ * anti-vaciado, no una regla de estudio: ver el comentario en `crear`.
+ */
+const TOPE_INTENTOS_POR_DIA = 12;
 
 @Injectable()
 export class IntentosService {
@@ -16,6 +23,7 @@ export class IntentosService {
     private repasos: RepasosService,
     private acceso: AccesoService,
     private actividad: ActividadService,
+    private mail: MailService,
   ) {}
 
   /**
@@ -60,6 +68,35 @@ export class IntentosService {
           'Necesitas comprar este módulo para empezar el simulador. Ve a /precios.',
         code: 'SIN_ACCESO',
         modulo,
+      });
+    }
+
+    // TOPE DIARIO DE SIMULACROS (22 ago 2026).
+    //
+    // Cada simulacro sirve hasta 100 reactivos. Sin tope, una cuenta puede
+    // arrancar exámenes en bucle y llevarse el banco en una noche; la pantalla
+    // de "cuentas a vigilar" lo DETECTA, pero al día siguiente y sólo si Carlo
+    // la abre. Esto lo IMPIDE.
+    //
+    // El número está alto a propósito: un aspirante de verdad no hace doce
+    // simulacros en un día —el cultural dura dos horas—, así que no estorba a
+    // nadie honesto. Lo que corta es el bucle automático.
+    const desdeMedianoche = new Date();
+    desdeMedianoche.setHours(0, 0, 0, 0);
+    const hoyLleva = await this.prisma.intentoExamen.count({
+      where: { usuarioId, createdAt: { gte: desdeMedianoche } },
+    });
+    if (hoyLleva >= TOPE_INTENTOS_POR_DIA) {
+      // Sólo en el PRIMER intento bloqueado del día: si alguien sigue dándole,
+      // no queremos convertir la alerta en una lluvia de correos.
+      if (hoyLleva === TOPE_INTENTOS_POR_DIA) {
+        this.avisarDeTope(usuarioId, hoyLleva).catch(() => undefined);
+      }
+      throw new ForbiddenException({
+        message:
+          'Llegaste al límite de simulacros por día. Vuelve mañana — y si de ' +
+          'verdad los necesitas hoy, escríbenos y te lo abrimos.',
+        code: 'TOPE_DIARIO',
       });
     }
 
@@ -1196,7 +1233,7 @@ export class IntentosService {
       'Intento',
     );
 
-    return this.prisma.respuestaReactivo.findMany({
+    const respuestas = await this.prisma.respuestaReactivo.findMany({
       where: { intentoExamenId: intento.id },
       include: {
         reactivo: {
@@ -1210,5 +1247,60 @@ export class IntentosService {
       },
       orderBy: { respondidoEnMs: 'asc' },
     });
+
+    // MIENTRAS EL EXAMEN SIGUE ABIERTO, `esCorrecta` NO SALE. (22 ago 2026)
+    //
+    // Es del intento de quien pregunta, así que el permiso está bien. El
+    // problema era otro: con el examen EN CURSO, este endpoint contestaba si
+    // cada respuesta era correcta. Desde las herramientas del navegador se podía
+    // contestar A, preguntar aquí, y si decía que no, cambiar a B — y repitiendo
+    // eso de forma sistemática se extraía la clave del banco, cien reactivos por
+    // intento y con intentos ilimitados. No era una fuga de datos personales:
+    // era la puerta trasera al banco entero, que es el producto.
+    //
+    // Al terminar el examen sí se devuelve: ahí ya no hay nada que proteger,
+    // porque el panel de resultados se lo enseña completo.
+    if (intento.estado === 'EN_PROGRESO') {
+      return respuestas.map(({ esCorrecta: _oculto, ...resto }) => ({
+        ...resto,
+        esCorrecta: null,
+      }));
+    }
+
+    return respuestas;
   }
+  /**
+   * Le avisa a Carlo por correo que una cuenta llegó al tope diario.
+   *
+   * La pantalla "cuentas a vigilar" ya detectaba el vaciado, pero sólo sirve si
+   * alguien la abre. Esto convierte la vigilancia en una alerta: llega sola, el
+   * mismo día, con el nombre y el correo de quien topó.
+   *
+   * Nunca lanza: si el correo falla, el tope ya hizo su trabajo —el examen no se
+   * creó— y eso es lo que importa.
+   */
+  private async avisarDeTope(usuarioId: number, intentosHoy: number) {
+    const destino = process.env.MAIL_ALERTAS ?? process.env.MAIL_FROM;
+    if (!destino) return;
+
+    const usuario = await this.prisma.usuario.findUnique({
+      where: { id: usuarioId },
+      select: { nombre: true, email: true },
+    });
+    if (!usuario) return;
+
+    await this.mail.enviar({
+      to: destino,
+      subject: `Una cuenta llegó al tope de simulacros (${intentosHoy} hoy)`,
+      html: `
+        <p><strong>${usuario.nombre}</strong> (${usuario.email}) arrancó
+        ${intentosHoy} simulacros hoy y llegó al límite diario.</p>
+        <p>Puede ser alguien estudiando muchísimo, o alguien vaciando el banco.
+        Para distinguirlo, mira <em>Analítica → Cuentas a vigilar</em>: ahí está
+        cuántos reactivos <strong>distintos</strong> lleva vistos. Un aspirante
+        real repite reactivos; el que copia, no.</p>
+      `,
+    });
+  }
+
 }

@@ -16,6 +16,7 @@ import {
   Search,
   Shield,
   Trash2,
+  UserPlus,
   X,
 } from 'lucide-react'
 
@@ -115,6 +116,19 @@ export default function UsuariosAdminPage() {
   } | null>(null)
   // Usuario cuyo acceso se está gestionando en el modal (null = cerrado).
   const [creandoPrueba, setCreandoPrueba] = useState(false)
+  const [alta, setAlta] = useState<{
+    nombre: string
+    email: string
+    plantelId: string
+    rol: string
+  } | null>(null)
+  const [altaEnviando, setAltaEnviando] = useState(false)
+  const [altaError, setAltaError] = useState('')
+  const [altaHecha, setAltaHecha] = useState<{
+    nombre: string
+    email: string
+    password: string
+  } | null>(null)
   const [borrando, setBorrando] = useState<UsuarioAdmin | null>(null)
   const [gestionandoAcceso, setGestionandoAcceso] = useState<UsuarioAdmin | null>(
     null,
@@ -295,7 +309,155 @@ export default function UsuariosAdminPage() {
           <Clock className="h-3.5 w-3.5" />
           Cuenta de prueba
         </button>
+        <button
+          type="button"
+          onClick={() => {
+            setAltaHecha(null)
+            setAltaError('')
+            setAlta({ nombre: '', email: '', plantelId: '', rol: 'aspirante' })
+          }}
+          className="inline-flex shrink-0 items-center gap-1.5 rounded-md border border-accent/40 px-3 py-2 text-xs font-semibold text-accent transition-colors hover:bg-accent/10"
+        >
+          <UserPlus className="h-3.5 w-3.5" />
+          Añadir cuenta
+        </button>
       </div>
+
+      {/* Alta a mano. La contraseña la genera el servidor y se enseña UNA vez:
+          ni Carlo ni nadie teclea la contraseña de otra persona. */}
+      {alta && (
+        <div className="mb-4 rounded-xl border border-accent/40 bg-card p-4 shadow-sm">
+          <p className="text-[10px] font-semibold uppercase tracking-widest text-accent">
+            Añadir cuenta
+          </p>
+          <p className="mt-1 text-xs text-muted-foreground">
+            Crea la cuenta y te muestra su contraseña una sola vez, para que se la
+            pases. No otorga acceso a ningún módulo: eso se da después con
+            &quot;Gestionar&quot;.
+          </p>
+
+          <div className="mt-3 grid grid-cols-1 gap-3 sm:grid-cols-2">
+            <label className="flex flex-col gap-1 text-xs text-muted-foreground">
+              Nombre
+              <input
+                value={alta.nombre}
+                onChange={(e) => setAlta({ ...alta, nombre: e.target.value })}
+                placeholder="Nombre y apellido"
+                className="h-9 rounded-md border border-input bg-transparent px-2 text-sm text-foreground focus-visible:border-ring focus-visible:outline-none"
+              />
+            </label>
+            <label className="flex flex-col gap-1 text-xs text-muted-foreground">
+              Correo
+              <input
+                value={alta.email}
+                onChange={(e) => setAlta({ ...alta, email: e.target.value })}
+                placeholder="correo@ejemplo.com"
+                className="h-9 rounded-md border border-input bg-transparent px-2 text-sm text-foreground focus-visible:border-ring focus-visible:outline-none"
+              />
+            </label>
+            <label className="flex flex-col gap-1 text-xs text-muted-foreground">
+              Plantel (opcional)
+              <select
+                value={alta.plantelId}
+                onChange={(e) => setAlta({ ...alta, plantelId: e.target.value })}
+                className="h-9 rounded-md border border-input bg-transparent px-2 text-sm text-foreground focus-visible:border-ring focus-visible:outline-none"
+              >
+                <option value="">Sin plantel</option>
+                {planteles.map((p) => (
+                  <option key={p.id} value={p.id}>
+                    {p.nombre}
+                  </option>
+                ))}
+              </select>
+            </label>
+            <label className="flex flex-col gap-1 text-xs text-muted-foreground">
+              Rol
+              <select
+                value={alta.rol}
+                onChange={(e) => setAlta({ ...alta, rol: e.target.value })}
+                className="h-9 rounded-md border border-input bg-transparent px-2 text-sm text-foreground focus-visible:border-ring focus-visible:outline-none"
+              >
+                <option value="aspirante">Aspirante</option>
+                <option value="admin">Admin</option>
+              </select>
+            </label>
+          </div>
+
+          {altaError && (
+            <p className="mt-3 text-xs text-destructive">{altaError}</p>
+          )}
+
+          <div className="mt-4 flex items-center gap-2">
+            <button
+              type="button"
+              disabled={altaEnviando}
+              onClick={async () => {
+                setAltaEnviando(true)
+                setAltaError('')
+                try {
+                  const creada = await apiFetch<{
+                    nombre: string
+                    email: string
+                    password: string
+                  }>('/usuarios', {
+                    method: 'POST',
+                    body: JSON.stringify({
+                      nombre: alta.nombre,
+                      email: alta.email,
+                      plantelId: alta.plantelId ? Number(alta.plantelId) : undefined,
+                      rol: alta.rol,
+                    }),
+                  })
+                  setAltaHecha(creada)
+                  setAlta(null)
+                  apiFetch<RespuestaUsuarios>(`/usuarios?${construirQuery(0)}`)
+                    .then((res) => setUsuarios(res.data))
+                    .catch(() => {})
+                } catch (e) {
+                  setAltaError((e as Error).message)
+                } finally {
+                  setAltaEnviando(false)
+                }
+              }}
+              className="rounded-md bg-accent px-3 py-2 text-xs font-semibold text-accent-foreground transition-opacity hover:opacity-90 disabled:opacity-50"
+            >
+              {altaEnviando ? 'Creando…' : 'Crear cuenta'}
+            </button>
+            <button
+              type="button"
+              onClick={() => setAlta(null)}
+              className="rounded-md px-3 py-2 text-xs text-muted-foreground hover:text-foreground"
+            >
+              Cancelar
+            </button>
+          </div>
+        </div>
+      )}
+
+      {/* La contraseña, una sola vez. */}
+      {altaHecha && (
+        <div className="mb-4 rounded-xl border border-military/50 bg-military/10 p-4">
+          <p className="text-sm font-semibold text-foreground">
+            Cuenta creada: {altaHecha.nombre}
+          </p>
+          <p className="mt-2 text-xs text-muted-foreground">
+            Pásale estos datos. <strong>La contraseña no se vuelve a mostrar</strong> —
+            si se pierde, la persona la recupera desde &quot;¿Olvidaste tu
+            contraseña?&quot;.
+          </p>
+          <div className="mt-3 flex flex-col gap-1 rounded-md border border-border bg-background p-3 font-mono text-sm text-foreground">
+            <span>{altaHecha.email}</span>
+            <span>{altaHecha.password}</span>
+          </div>
+          <button
+            type="button"
+            onClick={() => setAltaHecha(null)}
+            className="mt-3 text-xs font-semibold text-accent hover:underline"
+          >
+            Ya la copié
+          </button>
+        </div>
+      )}
 
       {/* Búsqueda */}
       <div className="mb-4 rounded-xl border border-border bg-card p-4 shadow-sm">
