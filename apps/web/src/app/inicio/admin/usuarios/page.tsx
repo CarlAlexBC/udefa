@@ -33,6 +33,28 @@ type UsuarioAdmin = {
   createdAt: string
   plantel: { id: number; nombre: string } | null
   _count: { sesionesCompletas: number; intentos: number }
+  /** Última huella suya en la plataforma. Null = ni rastro en las últimas 24 h. */
+  ultimaSenal: string | null
+}
+
+/** Minutos sin escribir nada tras los cuales el punto se apaga. */
+const MINUTOS_ACTIVO = 5
+
+/** Verde si dejó huella hace menos de MINUTOS_ACTIVO; rojo si no. */
+function estaActivo(ultimaSenal: string | null): boolean {
+  if (!ultimaSenal) return false
+  return Date.now() - new Date(ultimaSenal).getTime() < MINUTOS_ACTIVO * 60_000
+}
+
+/** "hace 3 min", "hace 2 h", "ayer". En corto, que va en una celda. */
+function haceCuanto(ultimaSenal: string | null): string {
+  if (!ultimaSenal) return 'sin actividad hoy'
+  const minutos = Math.floor((Date.now() - new Date(ultimaSenal).getTime()) / 60_000)
+  if (minutos < 1) return 'ahora mismo'
+  if (minutos < 60) return `hace ${minutos} min`
+  const horas = Math.floor(minutos / 60)
+  if (horas < 24) return `hace ${horas} h`
+  return 'hace más de un día'
 }
 
 type RespuestaUsuarios = {
@@ -137,6 +159,34 @@ export default function UsuariosAdminPage() {
   useEffect(() => {
     apiFetch<Plantel[]>('/planteles').then(setPlanteles).catch(() => {})
   }, [])
+
+  /* El punto verde en vivo.
+     Cada 15 s se vuelve a pedir la lista, pero de la respuesta SÓLO se toma la
+     última huella de cada quien: si se reemplazara la lista entera, se perdería
+     la paginación y se pisaría un cambio de plantel a medio guardar.
+     Cuando la pestaña está en segundo plano no se pide nada — si no, el panel
+     abierto toda la noche seguiría consultando la base cada 15 s. */
+  useEffect(() => {
+    const intervalo = setInterval(() => {
+      if (document.hidden) return
+      apiFetch<RespuestaUsuarios>(`/usuarios?${construirQuery(0)}`)
+        .then((res) => {
+          const frescas = new Map(res.data.map((u) => [u.id, u.ultimaSenal]))
+          setUsuarios((prev) =>
+            prev.map((u) =>
+              frescas.has(u.id)
+                ? { ...u, ultimaSenal: frescas.get(u.id) ?? null }
+                : u,
+            ),
+          )
+        })
+        .catch(() => {
+          // Un fallo de red no debe ensuciar la pantalla: el punto se queda
+          // como estaba y se reintenta en el siguiente giro.
+        })
+    }, 15_000)
+    return () => clearInterval(intervalo)
+  }, [construirQuery])
 
   async function cargarMas() {
     setCargandoMas(true)
@@ -326,6 +376,24 @@ export default function UsuariosAdminPage() {
                   >
                     <td className="px-3 py-3">
                       <div className="flex items-center gap-2">
+                        {/* El punto: verde mientras esté dejando huella, rojo si
+                            no. El resplandor sólo lo lleva el verde — es lo que
+                            hace que se encuentre de un vistazo en la lista. */}
+                        <span
+                          aria-hidden="true"
+                          className="h-2 w-2 shrink-0 rounded-full"
+                          style={
+                            estaActivo(u.ultimaSenal)
+                              ? {
+                                  backgroundColor: 'var(--senal-baja)',
+                                  boxShadow: '0 0 8px var(--senal-baja-brillo)',
+                                }
+                              : { backgroundColor: 'var(--senal-alta)', opacity: 0.55 }
+                          }
+                        />
+                        <span className="sr-only">
+                          {estaActivo(u.ultimaSenal) ? 'Activo' : 'Inactivo'}
+                        </span>
                         {u.rol === 'admin' && (
                           <Shield className="h-3 w-3 text-accent" />
                         )}
@@ -373,6 +441,17 @@ export default function UsuariosAdminPage() {
                       </select>
                     </td>
                     <td className="px-3 py-3 text-xs text-muted-foreground">
+                      <span
+                        className="font-semibold"
+                        style={{
+                          color: estaActivo(u.ultimaSenal)
+                            ? 'var(--senal-baja)'
+                            : 'var(--muted-foreground)',
+                        }}
+                      >
+                        {haceCuanto(u.ultimaSenal)}
+                      </span>
+                      <br />
                       {u._count.sesionesCompletas} sesiones ·{' '}
                       {u._count.intentos} intentos
                     </td>

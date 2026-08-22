@@ -285,6 +285,68 @@ export class UsuariosService {
      ═══════════════════════════════════════════════════════════ */
 
   /**
+   * Cuándo se le vio por última vez a cada aspirante.
+   *
+   * La plataforma no tiene "latido": nadie avisa "sigo aquí". Lo que sí deja
+   * rastro con hora exacta es lo que ESCRIBE, así que la presencia se deduce de
+   * sus huellas — responder en el simulacro, practicar, marcar una sección de la
+   * Guía, empezar o cerrar un intento. Quien esté sólo leyendo no aparece: es el
+   * límite conocido de este método, y se arregla el día que se ponga un latido.
+   *
+   * Sólo se mira el último día: una huella de la semana pasada no cambia el
+   * color del punto y sí encarecería la consulta.
+   */
+  private async ultimaSenalPorUsuario(ids: number[]): Promise<Map<number, Date>> {
+    if (ids.length === 0) return new Map();
+    const desde = new Date(Date.now() - 24 * 60 * 60 * 1000);
+
+    const [practica, guia, intentos] = await Promise.all([
+      this.prisma.respuestaPractica.groupBy({
+        by: ['usuarioId'],
+        where: { usuarioId: { in: ids }, createdAt: { gte: desde } },
+        _max: { createdAt: true },
+      }),
+      this.prisma.seccionLeida.groupBy({
+        by: ['usuarioId'],
+        where: { usuarioId: { in: ids }, createdAt: { gte: desde } },
+        _max: { createdAt: true },
+      }),
+      this.prisma.intentoExamen.findMany({
+        where: { usuarioId: { in: ids }, updatedAt: { gte: desde } },
+        select: { id: true, usuarioId: true, updatedAt: true },
+      }),
+    ]);
+
+    const mapa = new Map<number, Date>();
+    const anotar = (usuarioId: number, fecha: Date | null | undefined) => {
+      if (!fecha) return;
+      const actual = mapa.get(usuarioId);
+      if (!actual || fecha > actual) mapa.set(usuarioId, fecha);
+    };
+
+    practica.forEach((p) => anotar(p.usuarioId, p._max.createdAt));
+    guia.forEach((g) => anotar(g.usuarioId, g._max.createdAt));
+    intentos.forEach((i) => anotar(i.usuarioId, i.updatedAt));
+
+    // A media prueba nadie toca IntentoExamen: la huella viva son sus respuestas.
+    // Se consultan sólo las de los intentos recientes, que son un puñado.
+    if (intentos.length > 0) {
+      const porIntento = await this.prisma.respuestaReactivo.groupBy({
+        by: ['intentoExamenId'],
+        where: { intentoExamenId: { in: intentos.map((i) => i.id) } },
+        _max: { createdAt: true },
+      });
+      const duenoDelIntento = new Map(intentos.map((i) => [i.id, i.usuarioId]));
+      porIntento.forEach((r) => {
+        const usuarioId = duenoDelIntento.get(r.intentoExamenId);
+        if (usuarioId) anotar(usuarioId, r._max.createdAt);
+      });
+    }
+
+    return mapa;
+  }
+
+  /**
    * Lista paginada de usuarios con su plantel y contador de sesiones.
    * Busca opcionalmente por email o nombre (ilike). Ordenado por más recientes.
    */
@@ -342,8 +404,17 @@ export class UsuariosService {
       this.prisma.usuario.count({ where }),
     ]);
 
+    // Punto verde: a cada usuario de ESTA página se le cuelga su última huella.
+    // El `select` de arriba lleva un `as never` (por el campo rol), así que Prisma
+    // devuelve las filas sin tipo; aquí se les nombra lo mínimo para poder usarlas.
+    const filas = data as unknown as Array<{ id: number }>;
+    const senales = await this.ultimaSenalPorUsuario(filas.map((u) => u.id));
+
     return {
-      data,
+      data: filas.map((u) => ({
+        ...u,
+        ultimaSenal: senales.get(u.id)?.toISOString() ?? null,
+      })),
       meta: {
         total,
         take,
