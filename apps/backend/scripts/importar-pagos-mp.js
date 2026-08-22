@@ -102,7 +102,17 @@ async function main() {
 
   let offset = 0
   let total = null
-  const resumen = { vistos: 0, aprobados: 0, nuevos: 0, actualizados: 0, huerfanos: [] }
+  const resumen = {
+    vistos: 0,
+    aprobados: 0,
+    nuevos: 0,
+    actualizados: 0,
+    huerfanos: [],
+    // Los que NO están aprobados. Interesan por dos razones distintas: un
+    // "pending" de pago en efectivo es una venta EN EL AIRE (todavía puede
+    // entrar), y un "rejected" es alguien que quiso pagarte y no pudo.
+    otros: [],
+  }
 
   do {
     const pagina = await pedirPagina(offset)
@@ -112,7 +122,18 @@ async function main() {
 
     for (const pago of resultados) {
       resumen.vistos++
-      if (pago.status !== 'approved') continue
+      if (pago.status !== 'approved') {
+        resumen.otros.push({
+          id: pago.id,
+          estado: pago.status,
+          detalle: pago.status_detail,
+          monto: pago.transaction_amount,
+          metodo: pago.payment_method_id,
+          fecha: (pago.date_created ?? '').slice(0, 16).replace('T', ' '),
+          expira: (pago.date_of_expiration ?? '').slice(0, 10),
+        })
+        continue
+      }
       resumen.aprobados++
 
       const { usuarioId, paquete, ciclo } = await dueñoDelPago(
@@ -178,6 +199,25 @@ async function main() {
   console.log(`Aprobados:                     ${resumen.aprobados}`)
   console.log(`Se anotarían nuevos:           ${resumen.nuevos}`)
   console.log(`Ya estaban (se actualizan):    ${resumen.actualizados}`)
+
+  if (resumen.otros.length > 0) {
+    console.log(`
+── Pagos que NO están aprobados (${resumen.otros.length}) ──`)
+    for (const o of resumen.otros) {
+      const que =
+        o.estado === 'pending' || o.estado === 'in_process'
+          ? 'EN EL AIRE · si paga, el acceso se otorga solo'
+          : o.estado === 'rejected'
+            ? 'NO PUDO PAGARTE · alguien lo intentó y le rebotó'
+            : o.estado
+      console.log(
+        `   pago ${o.id} · ${o.estado} (${o.detalle ?? 's/d'}) · $${o.monto} · ` +
+          `${o.metodo ?? 's/m'} · creado ${o.fecha}` +
+          (o.expira ? ` · vence ${o.expira}` : ''),
+      )
+      console.log(`      → ${que}`)
+    }
+  }
 
   if (resumen.huerfanos.length > 0) {
     console.log(
