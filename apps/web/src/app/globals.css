@@ -304,6 +304,40 @@
    de ACABADO_MODULO en colores-paquete.ts, que es la fuente única. Si esa
    variable no existe, la tarjeta cae a un grafito neutro y se ve bien igual.
    ═══════════════════════════════════════════════════════════════════════ */
+/* ═══════════════════════════════════════════════════════════════════════
+   PANEL DE ADMIN — acabado de lámina
+   ═══════════════════════════════════════════════════════════════════════
+   El panel usaba tarjetas de color plano (#242220) sobre fondo carbón, y al
+   lado de la maqueta se veía apagado: era el mismo tono repetido, sin nada que
+   atrapara la luz.
+
+   Aquí las tarjetas reciben el mismo barrido metálico de las hojas de plata,
+   pero MÁS TENUE que en el panel de resultados: esta es una pantalla de
+   trabajo, se mira muchas horas seguidas, y un brillo fuerte cansa.
+
+   Va sobre `.bg-card`, la clase que Tailwind ya pone en todas las tarjetas del
+   panel, así que alcanza a las nueve pantallas sin tocar sus archivos. Como
+   `bg-card` sólo define color de fondo y esto define imagen de fondo, no hay
+   pelea entre las dos: se suman.
+   ═══════════════════════════════════════════════════════════════════════ */
+.panel-admin {
+  --card: #201f1b;
+  --muted: #26241f;
+  --border: #34302b;
+}
+
+.panel-admin .bg-card {
+  background-image:
+    linear-gradient(
+      118deg,
+      transparent 30%,
+      rgba(228, 233, 216, 0.07) 48%,
+      rgba(228, 233, 216, 0.02) 58%,
+      transparent 74%
+    ),
+    linear-gradient(135deg, #262420 0%, #1c1b18 100%);
+}
+
 .hoja-plata {
   background-color: #1a1917;
   background-image:

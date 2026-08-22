@@ -9,6 +9,19 @@ const N_PSICOMETRICO = 25;
 // así que no entran a una muestra con puntaje).
 const EXAMEN_PSICOMETRICO_ID = 1;
 
+// Reactivos que NO pueden entrar a la probadita porque su pregunta vive en una
+// imagen que aquí no se pinta: los de figuras del psicométrico y los culturales
+// que remiten a una figura numerada del libro ("según la figura 32-14").
+//
+// El patrón es deliberadamente estrecho: pide un NÚMERO después de "figura" o
+// "gráfica", o la forma "cuál figura". Así no se lleva por delante a los de
+// Español que hablan de "figura retórica", que sí se contestan leyendo.
+//
+// Esto es un parche para la muestra, no la solución: el día que los reactivos
+// con imagen se soporten de verdad (adjuntar el recorte), esto se puede quitar.
+const SIN_IMAGEN =
+  '(cu[aá]l figura|seg[uú]n la figura|de la figura|en la figura|figura [0-9]|gr[aá]fica [0-9]|esquema [0-9])';
+
 type FilaMuestra = {
   id: number;
   enunciado: string;
@@ -34,20 +47,34 @@ export class MuestraService {
    * cliente; la muestra se califica en el servidor). No persiste nada.
    */
   async armar(): Promise<ReactivoMuestra[]> {
-    // Cultural: del árbol de oferta (temaId), solo con respuesta.
+    // Cultural: del árbol de oferta (temaId), solo con respuesta y sin los que
+    // remiten a una figura del libro (ver SIN_IMAGEN).
     const cultural = await this.prisma.$queryRaw<FilaMuestra[]>`
       SELECT id, enunciado, opciones, tema
       FROM "Reactivo"
-      WHERE "temaId" IS NOT NULL AND "respuestaCorrecta" IS NOT NULL
+      WHERE "temaId" IS NOT NULL
+        AND "respuestaCorrecta" IS NOT NULL
+        AND enunciado !~* ${SIN_IMAGEN}
       ORDER BY random()
       LIMIT ${N_CULTURAL}
     `;
-    // Psicométrico: reactivos de los bloques del examen psicométrico, con respuesta.
+    // Psicométrico: reactivos de los bloques del examen psicométrico, con
+    // respuesta y FUERA de Razonamiento Abstracto.
+    //
+    // Por qué se excluye ese bloque: sus reactivos son figuras — la pregunta ES
+    // la imagen, y las opciones son "A, B, C, D, E" refiriéndose a dibujos. La
+    // probadita no pinta imágenes, así que ahí salían preguntas imposibles de
+    // contestar: "¿Cuál figura falta en la sucesión?" con cinco letras huérfanas.
+    // Es lo primero que ve alguien que todavía no compra, así que no puede pasar.
+    // El hueco lo llenan solos los otros bloques, porque el LIMIT no cambia.
     const psico = await this.prisma.$queryRaw<FilaMuestra[]>`
       SELECT r.id, r.enunciado, r.opciones, r.tema
       FROM "Reactivo" r
       JOIN "Bloque" b ON r."bloqueId" = b.id
-      WHERE b."examenId" = ${EXAMEN_PSICOMETRICO_ID} AND r."respuestaCorrecta" IS NOT NULL
+      WHERE b."examenId" = ${EXAMEN_PSICOMETRICO_ID}
+        AND r."respuestaCorrecta" IS NOT NULL
+        AND b.nombre NOT ILIKE ${'%abstracto%'}
+        AND r.enunciado !~* ${SIN_IMAGEN}
       ORDER BY random()
       LIMIT ${N_PSICOMETRICO}
     `;

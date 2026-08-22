@@ -1123,11 +1123,12 @@ function Renglon({ item, puesto }: { item: ItemError; puesto: number | null }) {
   const n = nivelDe(item.tasaError)
   return (
     <div className="grid grid-cols-[1fr_auto] items-center gap-3 rounded-md px-2 py-1.5 transition-colors hover:bg-muted/40 sm:grid-cols-[1.5rem_minmax(0,1fr)_minmax(0,7rem)_auto]">
-      {puesto !== null && (
-        <span className="hidden text-right text-[11px] tabular-nums text-muted-foreground/70 sm:block">
-          {puesto}
-        </span>
-      )}
+      {/* La celda del puesto se dibuja SIEMPRE, aunque vaya vacía: si se omite,
+          el nombre se corre a la columna de 1.5 rem y sale cortado a una letra
+          en las listas sin numerar (por bloque, por materia). */}
+      <span className="hidden text-right text-[11px] tabular-nums text-muted-foreground/70 sm:block">
+        {puesto ?? ''}
+      </span>
       <span className="min-w-0 truncate text-sm" title={item.nombre}>
         {item.nombre}
       </span>

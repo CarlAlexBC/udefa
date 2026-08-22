@@ -9,6 +9,7 @@ import { Button, buttonVariants } from '@/components/ui/button'
 import { HeaderPrivado } from './HeaderPrivado'
 import { EmpiezaPorAqui } from '@/components/onboarding/EmpiezaPorAqui'
 import { RachaCard } from '@/components/racha/RachaCard'
+import { CuentaRegresiva } from '@/components/inicio/CuentaRegresiva'
 import { FondoGuia } from '@/components/guia/FondoGuia'
 import { logoDePlantel } from '@/lib/planteles'
 import { COLOR_PAQUETE_OSCURO, COLOR_DE_MODULO, ACABADO_MODULO } from '@/lib/colores-paquete'
@@ -316,6 +317,10 @@ function Dashboard({
 
       {/* Racha de días (hábito). Se auto-oculta si el aspirante nunca ha estudiado. */}
       <RachaCard />
+
+      {/* Cuenta regresiva al examen. Va pegada a la racha a propósito: la racha
+          empuja desde atrás y el contador jala desde adelante. */}
+      <CuentaRegresiva />
 
       {/* Repaso espaciado — la "capa verde". Sólo aparece si el aspirante ya
           tiene cola sembrada (hizo al menos un simulacro cultural). */}
