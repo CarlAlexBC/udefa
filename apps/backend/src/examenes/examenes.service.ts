@@ -588,10 +588,11 @@ export class ExamenesService {
         id: number;
         enunciado: string;
         opciones: unknown;
+        imagenUrl: string | null;
         tema: string | null;
       }>
     >(Prisma.sql`
-      SELECT r.id, r.enunciado, r.opciones, r.tema
+      SELECT r.id, r.enunciado, r.opciones, r.tema, r."imagenUrl"
       FROM "Reactivo" r
       JOIN "Tema" t ON t.id = r."temaId"
       WHERE r.banco = 'cultural'

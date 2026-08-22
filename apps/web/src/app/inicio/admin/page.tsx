@@ -189,7 +189,7 @@ export default function AdminHomePage() {
       <Section titulo="Banco por fase">
         <div className="grid grid-cols-1 gap-3 md:grid-cols-3">
           <FaseCard
-            icon={<Brain className="h-5 w-5 text-sky-500" />}
+            icon={<Brain className="h-5 w-5 text-[#E08585]" />}
             label="Psicométrico"
             reactivos={
               stats.reactivos.porFase.find((f) => f.examenId === 1)?.total ?? 0
@@ -199,7 +199,7 @@ export default function AdminHomePage() {
             }
           />
           <FaseCard
-            icon={<UserCircle className="h-5 w-5 text-violet-500" />}
+            icon={<UserCircle className="h-5 w-5 text-[#E08585]" />}
             label="Personalidad"
             reactivos={
               stats.reactivos.porFase.find((f) => f.examenId === 2)?.total ?? 0
@@ -209,7 +209,7 @@ export default function AdminHomePage() {
             }
           />
           <FaseCard
-            icon={<Scale className="h-5 w-5 text-amber-500" />}
+            icon={<Scale className="h-5 w-5 text-[#E08585]" />}
             label="Axiológico"
             reactivos={
               stats.reactivos.porFase.find((f) => f.examenId === 3)?.total ?? 0

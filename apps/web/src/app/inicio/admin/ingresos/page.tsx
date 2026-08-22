@@ -12,6 +12,24 @@ import { apiFetch } from '@/lib/api'
    sólo viven en Mercado Pago y hay que rescatarlas con un script (fase 3).
    ═══════════════════════════════════════════════════════════ */
 
+type Cuadre = {
+  aplicado: boolean
+  revisadosEnMp: number
+  aprobadosEnMp: number
+  enLaBase: number
+  faltantes: Array<{
+    mpPaymentId: string
+    monto: number
+    fecha: string | null
+    paquete: string | null
+    usuarioId: number | null
+    anotado: boolean
+    motivo?: string
+  }>
+  desajustes: Array<{ mpPaymentId: string; montoEnBase: number; montoEnMp: number }>
+  sobrantes: Array<{ mpPaymentId: string; monto: number }>
+}
+
 type Ingresos = {
   totales: {
     cobrado: number
@@ -56,6 +74,9 @@ export default function IngresosPage() {
   const [data, setData] = useState<Ingresos | null>(null)
   const [ciclo, setCiclo] = useState<string | null>(null)
   const [cargando, setCargando] = useState(true)
+  const [cuadre, setCuadre] = useState<Cuadre | null>(null)
+  const [cuadrando, setCuadrando] = useState(false)
+  const [errorCuadre, setErrorCuadre] = useState('')
   const [error, setError] = useState('')
 
   useEffect(() => {
@@ -106,6 +127,164 @@ export default function IngresosPage() {
           Lo cobrado por la plataforma. Cada venta cuadra con un aviso de Mercado
           Pago, y la comisión es la que reportó él, no una estimación.
         </p>
+      </div>
+
+      {/* Cuadrar con Mercado Pago. La tabla se llena desde el aviso de MP; si un
+          aviso se pierde, la venta cobrada no queda anotada y el panel miente
+          hacia abajo. Esto va y pregunta. */}
+      <div className="mb-5 rounded-xl border border-border bg-card p-4 shadow-sm">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <div className="min-w-0">
+            <p className="text-sm font-semibold text-foreground">
+              Cuadrar con Mercado Pago
+            </p>
+            <p className="mt-0.5 text-xs text-muted-foreground">
+              Compara lo cobrado allá contra lo anotado aquí. Primero sólo mira;
+              anotar es un segundo paso que decides tú.
+            </p>
+          </div>
+          <button
+            type="button"
+            disabled={cuadrando}
+            onClick={async () => {
+              setCuadrando(true)
+              setErrorCuadre('')
+              try {
+                setCuadre(await apiFetch<Cuadre>('/admin/ingresos/cuadrar', { method: 'POST' }))
+              } catch (e) {
+                setErrorCuadre((e as Error).message)
+              } finally {
+                setCuadrando(false)
+              }
+            }}
+            className="shrink-0 rounded-md border border-accent/40 px-3 py-2 text-xs font-semibold text-accent transition-colors hover:bg-accent/10 disabled:opacity-50"
+          >
+            {cuadrando ? 'Preguntando a Mercado Pago…' : 'Revisar'}
+          </button>
+        </div>
+
+        {errorCuadre && (
+          <p className="mt-3 text-xs text-destructive">{errorCuadre}</p>
+        )}
+
+        {cuadre && (
+          <div className="mt-4 border-t border-border/60 pt-3">
+            <p className="text-xs text-muted-foreground">
+              {cuadre.aprobadosEnMp} pagos aprobados en Mercado Pago ·{' '}
+              {cuadre.enLaBase} anotados aquí
+            </p>
+
+            {cuadre.faltantes.length === 0 &&
+            cuadre.desajustes.length === 0 &&
+            cuadre.sobrantes.length === 0 ? (
+              <p
+                className="mt-2 text-sm font-semibold"
+                style={{ color: 'var(--senal-baja)' }}
+              >
+                Todo cuadra. No falta ni sobra nada.
+              </p>
+            ) : (
+              <div className="mt-3 flex flex-col gap-3">
+                {cuadre.faltantes.length > 0 && (
+                  <div>
+                    <p
+                      className="text-xs font-semibold"
+                      style={{ color: 'var(--senal-alta)' }}
+                    >
+                      {cuadre.faltantes.length} cobrados en MP que NO están aquí
+                    </p>
+                    <ul className="mt-1.5 flex flex-col gap-1">
+                      {cuadre.faltantes.map((f) => (
+                        <li key={f.mpPaymentId} className="text-xs text-muted-foreground">
+                          Pago {f.mpPaymentId} · {pesos(f.monto)} ·{' '}
+                          {f.paquete ?? 'paquete ilegible'} ·{' '}
+                          {f.usuarioId ? `usuario ${f.usuarioId}` : 'sin cuenta ligada'}
+                          {f.anotado && ' · anotado'}
+                          {f.motivo && ` · ${f.motivo}`}
+                        </li>
+                      ))}
+                    </ul>
+                    {!cuadre.aplicado && (
+                      <button
+                        type="button"
+                        disabled={cuadrando}
+                        onClick={async () => {
+                          setCuadrando(true)
+                          try {
+                            setCuadre(
+                              await apiFetch<Cuadre>(
+                                '/admin/ingresos/cuadrar?aplicar=true',
+                                { method: 'POST' },
+                              ),
+                            )
+                            // Recargar los totales: acaban de entrar ventas
+                            // nuevas y las cifras de arriba se quedarían viejas.
+                            apiFetch<Ingresos>(
+                              `/admin/ingresos${ciclo ? `?ciclo=${ciclo}` : ''}`,
+                            )
+                              .then(setData)
+                              .catch(() => {})
+                          } catch (e) {
+                            setErrorCuadre((e as Error).message)
+                          } finally {
+                            setCuadrando(false)
+                          }
+                        }}
+                        className="mt-2 rounded-md bg-accent px-3 py-1.5 text-xs font-semibold text-accent-foreground transition-opacity hover:opacity-90 disabled:opacity-50"
+                      >
+                        Anotar los {cuadre.faltantes.length} que faltan
+                      </button>
+                    )}
+                    <p className="mt-2 text-[11px] text-muted-foreground">
+                      Anotar los apunta en el libro de caja, pero <strong>no otorga
+                      accesos</strong>: si alguien pagó y se quedó sin su producto,
+                      dáselo tú desde Usuarios → Gestionar.
+                    </p>
+                  </div>
+                )}
+
+                {cuadre.desajustes.length > 0 && (
+                  <div>
+                    <p
+                      className="text-xs font-semibold"
+                      style={{ color: 'var(--senal-media)' }}
+                    >
+                      {cuadre.desajustes.length} con monto distinto
+                    </p>
+                    <ul className="mt-1.5 flex flex-col gap-1">
+                      {cuadre.desajustes.map((d) => (
+                        <li key={d.mpPaymentId} className="text-xs text-muted-foreground">
+                          Pago {d.mpPaymentId} · aquí {pesos(d.montoEnBase)} · en MP{' '}
+                          {pesos(d.montoEnMp)}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+
+                {cuadre.sobrantes.length > 0 && (
+                  <div>
+                    <p
+                      className="text-xs font-semibold"
+                      style={{ color: 'var(--senal-media)' }}
+                    >
+                      {cuadre.sobrantes.length} anotados aquí que MP ya no da por
+                      aprobados
+                    </p>
+                    <ul className="mt-1.5 flex flex-col gap-1">
+                      {cuadre.sobrantes.map((x) => (
+                        <li key={x.mpPaymentId} className="text-xs text-muted-foreground">
+                          Pago {x.mpPaymentId} · {pesos(x.monto)} · puede ser una
+                          devolución o un contracargo
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
+        )}
       </div>
 
       {/* Filtro por convocatoria */}

@@ -20,6 +20,8 @@ type Reactivo = {
   enunciado: string
   opciones: string[]
   tema: string | null
+  /** Figura adjunta, para los reactivos cuya pregunta vive en la imagen. */
+  imagenUrl?: string | null
   modulo: 'cultural' | 'psicologico'
 }
 type PorModulo = { total: number; aciertos: number }
@@ -204,6 +206,20 @@ function Quiz({
           {mod.etiqueta}
         </span>
         <p className="mt-3 text-lg font-medium text-foreground">{p.enunciado}</p>
+
+        {/* Figura del reactivo, si la trae. Hasta hoy la probadita los excluía
+            porque no sabía pintarlos; ahora entra el que tenga su recorte
+            adjunto y sigue fuera el que remite a una figura del libro. */}
+        {p.imagenUrl && (
+          <div className="mt-4 flex justify-center">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={p.imagenUrl}
+              alt="Figura del reactivo"
+              className="max-h-[46vh] w-auto max-w-full rounded-lg border border-border object-contain"
+            />
+          </div>
+        )}
 
         <div className="mt-5 flex flex-col gap-2.5">
           {p.opciones.map((op) => {

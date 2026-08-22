@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common';
+import { BadRequestException, Injectable } from '@nestjs/common';
 import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { BANCOS_ARCHIVADOS, BANCOS_EN_USO } from '../examenes/examenes.service';
@@ -583,6 +583,191 @@ export class AdminService {
         usuario: p.usuario,
       })),
       ciclos: [...new Set(pagos.map((p) => p.ciclo))].sort().reverse(),
+    };
+  }
+
+
+  /**
+   * Cuadra el libro de caja con Mercado Pago.
+   *
+   * POR QUÉ HACE FALTA. La tabla `Pago` se llena desde el aviso (webhook) de MP.
+   * Si un aviso se pierde —el servicio estaba reiniciándose, la red falló, MP
+   * dejó de reintentar— esa venta cobrada NO queda anotada, y el panel de
+   * ingresos miente hacia abajo sin que nadie se entere. Esto va a preguntarle
+   * a MP y compara.
+   *
+   * Con `aplicar = false` (lo normal) sólo mira y reporta. Con `aplicar = true`
+   * anota los que falten. Nunca borra ni otorga accesos: si aparece una venta
+   * que nadie recibió, el acceso se da a mano desde el panel — que quien pagó
+   * tenga o no su producto es una decisión, no un automatismo.
+   */
+  async cuadrarConMercadoPago(aplicar = false) {
+    const token = process.env.MERCADOPAGO_ACCESS_TOKEN;
+    if (!token) {
+      throw new BadRequestException(
+        'Falta MERCADOPAGO_ACCESS_TOKEN en el servidor: no se puede consultar a Mercado Pago.',
+      );
+    }
+
+    type PagoMp = {
+      id: number | string;
+      status?: string;
+      transaction_amount?: number;
+      currency_id?: string;
+      payment_method_id?: string;
+      date_approved?: string;
+      external_reference?: string;
+      fee_details?: Array<{ amount?: number }>;
+      transaction_details?: { net_received_amount?: number };
+    };
+
+    // Se recorren páginas de 50 hasta agotar el historial.
+    const deMp: PagoMp[] = [];
+    let offset = 0;
+    let total = 0;
+    do {
+      const res = await fetch(
+        'https://api.mercadopago.com/v1/payments/search' +
+          `?sort=date_created&criteria=desc&limit=50&offset=${offset}`,
+        { headers: { Authorization: `Bearer ${token}` } },
+      );
+      if (!res.ok) {
+        throw new BadRequestException(
+          `Mercado Pago respondió ${res.status}. ` +
+            (res.status === 401
+              ? 'El token del servidor no sirve o es de pruebas.'
+              : 'Inténtalo de nuevo en un momento.'),
+        );
+      }
+      const pagina = (await res.json()) as {
+        paging?: { total?: number };
+        results?: PagoMp[];
+      };
+      total = pagina.paging?.total ?? 0;
+      const resultados = pagina.results ?? [];
+      if (resultados.length === 0) break;
+      deMp.push(...resultados);
+      offset += resultados.length;
+    } while (offset < total);
+
+    const aprobadosMp = deMp.filter((p) => p.status === 'approved');
+    const enBase = await this.prisma.pago.findMany({
+      select: { mpPaymentId: true, monto: true, estado: true },
+    });
+    const porId = new Map(enBase.map((p) => [p.mpPaymentId, p]));
+
+    const faltantes: Array<{
+      mpPaymentId: string;
+      monto: number;
+      fecha: string | null;
+      paquete: string | null;
+      usuarioId: number | null;
+      anotado: boolean;
+      motivo?: string;
+    }> = [];
+    const desajustes: Array<{
+      mpPaymentId: string;
+      montoEnBase: number;
+      montoEnMp: number;
+    }> = [];
+
+    for (const pago of aprobadosMp) {
+      const id = String(pago.id);
+      const guardado = porId.get(id);
+
+      if (guardado) {
+        const montoEnBase = Number(guardado.monto);
+        const montoEnMp = pago.transaction_amount ?? 0;
+        if (Math.abs(montoEnBase - montoEnMp) > 0.009) {
+          desajustes.push({ mpPaymentId: id, montoEnBase, montoEnMp });
+        }
+        continue;
+      }
+
+      // Falta en la base: ¿a quién pertenece?
+      let usuarioId: number | null = null;
+      let paquete: string | null = null;
+      let ciclo: string | null = null;
+      try {
+        const ref = JSON.parse(pago.external_reference ?? '') as {
+          usuarioId?: number;
+          compraId?: number;
+          paquete?: string;
+          ciclo?: string;
+        };
+        paquete = ref.paquete ?? null;
+        ciclo = ref.ciclo ?? null;
+        if (ref.usuarioId) {
+          usuarioId = ref.usuarioId;
+        } else if (ref.compraId) {
+          const compra = await this.prisma.compraPendiente.findUnique({
+            where: { id: ref.compraId },
+            select: { usuarioId: true, paquete: true, ciclo: true },
+          });
+          usuarioId = compra?.usuarioId ?? null;
+          paquete = paquete ?? compra?.paquete ?? null;
+          ciclo = ciclo ?? compra?.ciclo ?? null;
+        }
+      } catch {
+        // external_reference ilegible: se reporta igual, sin cuenta ligada.
+      }
+
+      const comision = Array.isArray(pago.fee_details)
+        ? pago.fee_details.reduce((t, f) => t + (f.amount ?? 0), 0)
+        : null;
+
+      let anotado = false;
+      let motivo: string | undefined;
+
+      if (!paquete) {
+        motivo = 'sin paquete legible en el pago';
+      } else if (aplicar) {
+        await this.prisma.pago.create({
+          data: {
+            mpPaymentId: id,
+            usuarioId,
+            paquete,
+            ciclo: ciclo ?? '2027',
+            monto: pago.transaction_amount ?? 0,
+            moneda: pago.currency_id ?? 'MXN',
+            comision,
+            neto: pago.transaction_details?.net_received_amount ?? null,
+            estado: 'approved',
+            metodoPago: pago.payment_method_id ?? null,
+            aprobadoEn: pago.date_approved ? new Date(pago.date_approved) : null,
+          },
+        });
+        anotado = true;
+        if (!usuarioId) {
+          motivo = 'anotado SIN cuenta ligada: revisa a quién darle el acceso';
+        }
+      }
+
+      faltantes.push({
+        mpPaymentId: id,
+        monto: pago.transaction_amount ?? 0,
+        fecha: pago.date_approved ?? null,
+        paquete,
+        usuarioId,
+        anotado,
+        motivo,
+      });
+    }
+
+    // Lo contrario: anotado como aprobado aquí, pero MP ya no lo dice.
+    const idsAprobadosMp = new Set(aprobadosMp.map((p) => String(p.id)));
+    const sobrantes = enBase
+      .filter((p) => p.estado === 'approved' && !idsAprobadosMp.has(p.mpPaymentId))
+      .map((p) => ({ mpPaymentId: p.mpPaymentId, monto: Number(p.monto) }));
+
+    return {
+      aplicado: aplicar,
+      revisadosEnMp: deMp.length,
+      aprobadosEnMp: aprobadosMp.length,
+      enLaBase: enBase.length,
+      faltantes,
+      desajustes,
+      sobrantes,
     };
   }
 

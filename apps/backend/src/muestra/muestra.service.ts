@@ -22,11 +22,17 @@ const EXAMEN_PSICOMETRICO_ID = 1;
 const SIN_IMAGEN =
   '(cu[aá]l figura|seg[uú]n la figura|de la figura|en la figura|figura [0-9]|gr[aá]fica [0-9]|esquema [0-9])';
 
+// OJO: ese filtro sólo se aplica a los reactivos que NO traen imagen adjunta.
+// Desde el 22 ago 2026 la probadita sí pinta figuras, así que un reactivo con su
+// recorte pegado es contestable y entra; sigue fuera el que remite a una figura
+// del libro que nadie adjuntó.
+
 type FilaMuestra = {
   id: number;
   enunciado: string;
   opciones: unknown;
   tema: string | null;
+  imagenUrl: string | null;
 };
 
 export type ReactivoMuestra = {
@@ -34,6 +40,7 @@ export type ReactivoMuestra = {
   enunciado: string;
   opciones: string[];
   tema: string | null;
+  imagenUrl: string | null;
   modulo: 'cultural' | 'psicologico';
 };
 
@@ -50,11 +57,11 @@ export class MuestraService {
     // Cultural: del árbol de oferta (temaId), solo con respuesta y sin los que
     // remiten a una figura del libro (ver SIN_IMAGEN).
     const cultural = await this.prisma.$queryRaw<FilaMuestra[]>`
-      SELECT id, enunciado, opciones, tema
+      SELECT id, enunciado, opciones, tema, "imagenUrl"
       FROM "Reactivo"
       WHERE "temaId" IS NOT NULL
         AND "respuestaCorrecta" IS NOT NULL
-        AND enunciado !~* ${SIN_IMAGEN}
+        AND ("imagenUrl" IS NOT NULL OR enunciado !~* ${SIN_IMAGEN})
       ORDER BY random()
       LIMIT ${N_CULTURAL}
     `;
@@ -68,13 +75,13 @@ export class MuestraService {
     // Es lo primero que ve alguien que todavía no compra, así que no puede pasar.
     // El hueco lo llenan solos los otros bloques, porque el LIMIT no cambia.
     const psico = await this.prisma.$queryRaw<FilaMuestra[]>`
-      SELECT r.id, r.enunciado, r.opciones, r.tema
+      SELECT r.id, r.enunciado, r.opciones, r.tema, r."imagenUrl"
       FROM "Reactivo" r
       JOIN "Bloque" b ON r."bloqueId" = b.id
       WHERE b."examenId" = ${EXAMEN_PSICOMETRICO_ID}
         AND r."respuestaCorrecta" IS NOT NULL
         AND b.nombre NOT ILIKE ${'%abstracto%'}
-        AND r.enunciado !~* ${SIN_IMAGEN}
+        AND (r."imagenUrl" IS NOT NULL OR r.enunciado !~* ${SIN_IMAGEN})
       ORDER BY random()
       LIMIT ${N_PSICOMETRICO}
     `;
@@ -153,6 +160,7 @@ export class MuestraService {
       enunciado: fila.enunciado,
       opciones,
       tema: fila.tema,
+      imagenUrl: fila.imagenUrl,
       modulo,
     };
   }

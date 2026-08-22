@@ -1,4 +1,11 @@
-import { Controller, Get, ParseIntPipe, Query, UseGuards } from '@nestjs/common';
+import {
+  Controller,
+  Get,
+  ParseIntPipe,
+  Post,
+  Query,
+  UseGuards,
+} from '@nestjs/common';
 import { AdminService } from './admin.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
@@ -23,6 +30,16 @@ export class AdminController {
   @Get('ingresos')
   obtenerIngresos(@Query('ciclo') ciclo?: string) {
     return this.adminService.obtenerIngresos(ciclo);
+  }
+
+  /**
+   * Cuadra el libro de caja con Mercado Pago. Sin `aplicar=true` sólo mira.
+   * Es POST aunque en modo consulta no escriba: llama a un tercero y puede
+   * escribir, así que no debe poder dispararse desde una simple visita.
+   */
+  @Post('ingresos/cuadrar')
+  cuadrarIngresos(@Query('aplicar') aplicar?: string) {
+    return this.adminService.cuadrarConMercadoPago(aplicar === 'true');
   }
 
   @Get('analitica')

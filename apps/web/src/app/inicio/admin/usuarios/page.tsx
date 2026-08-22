@@ -960,7 +960,7 @@ function IndicadorGuardado({ estado }: { estado: EstadoGuardado }) {
         'inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest transition-opacity',
         estado === 'idle' && 'opacity-0',
         estado === 'saving' && 'bg-muted text-muted-foreground',
-        estado === 'saved' && 'bg-emerald-500/10 text-emerald-600',
+        estado === 'saved' && 'bg-senal-baja/15 text-senal-baja',
         estado === 'error' && 'bg-destructive/10 text-destructive',
       )}
     >

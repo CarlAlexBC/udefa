@@ -47,6 +47,8 @@ type ReactivoPractica = {
   enunciado: string
   opciones: string[]
   tema: string | null
+  /** Figura adjunta, para los reactivos cuya pregunta vive en la imagen. */
+  imagenUrl?: string | null
 }
 /** Lo que devuelve POST /examenes/practica/cultural/responder. */
 type Correccion = {
@@ -633,6 +635,22 @@ export default function PracticaCulturalPage() {
               {actual.enunciado}
             </h1>
           </div>
+
+          {/* Figura del reactivo, si la trae. Mismo tratamiento que en el
+              simulador: <img> normal —no next/image— porque el alto cambia de un
+              reactivo a otro, con tope de alto para que en el teléfono no se
+              coma la pantalla entera. */}
+          {actual.imagenUrl && (
+            <div className="mb-6 flex justify-center">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={actual.imagenUrl}
+                alt="Figura del reactivo"
+                className="max-h-[46vh] w-auto max-w-full rounded-lg border border-border bg-neutral-900 object-contain"
+              />
+            </div>
+          )}
+
 
           <div className="flex flex-col gap-3">
             {actual.opciones.map((opcion, i) => (

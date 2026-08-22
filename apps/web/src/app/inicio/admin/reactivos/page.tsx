@@ -110,9 +110,14 @@ const FASES: Array<{
   icon: React.ComponentType<{ className?: string }>
   color: string
 }> = [
-  { id: 1, nombre: 'Psicométrico', icon: Brain, color: 'text-sky-500' },
-  { id: 2, nombre: 'Personalidad', icon: UserCircle, color: 'text-violet-500' },
-  { id: 3, nombre: 'Axiológico', icon: Scale, color: 'text-amber-500' },
+  // Las tres son fases del MISMO módulo (psicológico), así que llevan su color
+  // —el rojo del paquete, ver lib/colores-paquete.ts— y se distinguen por el
+  // ícono, no por el tono. Antes iban en azul cielo, morado y ámbar: colores de
+  // fábrica de Tailwind que no existen en la marca y que además contradecían la
+  // pantalla del aspirante, donde esas mismas tres fases salen en rojo.
+  { id: 1, nombre: 'Psicométrico', icon: Brain, color: 'text-[#E08585]' },
+  { id: 2, nombre: 'Personalidad', icon: UserCircle, color: 'text-[#E08585]' },
+  { id: 3, nombre: 'Axiológico', icon: Scale, color: 'text-[#E08585]' },
 ]
 
 /* ═══════════════════════════════════════════════════════════
@@ -862,9 +867,12 @@ function PolaridadBadge({
     return <span className="text-xs text-muted-foreground/60">—</span>
   }
   const config = {
-    POSITIVA: { label: 'Positiva', className: 'bg-emerald-500/10 text-emerald-600' },
-    NEGATIVA: { label: 'Negativa', className: 'bg-rose-500/10 text-rose-600' },
-    TRAMPA: { label: 'Trampa', className: 'bg-amber-500/10 text-amber-700' },
+    // Tokens de la casa, no colores de fábrica: los de Tailwind (emerald-600,
+    // rose-600, amber-700) son tonos OSCUROS pensados para fondo claro, y aquí
+    // el panel es carbón — se leían fatal.
+    POSITIVA: { label: 'Positiva', className: 'bg-senal-baja/15 text-senal-baja' },
+    NEGATIVA: { label: 'Negativa', className: 'bg-senal-alta/15 text-senal-alta' },
+    TRAMPA: { label: 'Trampa', className: 'bg-accent/15 text-accent' },
   }[polaridad]
   return (
     <span
@@ -885,10 +893,12 @@ function PolaridadBadge({
    los campos son nulos, así que no aparece ninguno. */
 
 const CHIP_TONOS = {
-  critico: 'bg-rose-500/15 text-rose-600 ring-1 ring-inset ring-rose-500/30',
-  trampa: 'bg-amber-500/15 text-amber-700',
+  critico: 'bg-senal-alta/15 text-senal-alta ring-1 ring-inset ring-senal-alta/30',
+  trampa: 'bg-accent/15 text-accent',
   militar: 'bg-military/15 text-military',
-  par: 'bg-violet-500/10 text-violet-600',
+  // El par no es bueno ni malo: es una referencia. Va neutro a propósito, para
+  // no competir con los dos de arriba, que sí señalan algo.
+  par: 'bg-secondary text-secondary-foreground',
   locator: 'bg-muted text-muted-foreground',
 } as const
 
@@ -1118,17 +1128,19 @@ function FiltroPolaridad({
 
 function FaseBadge({ tipo }: { tipo: string }) {
   const config = {
+    // Las tres son fases del módulo psicológico: mismo color del paquete (rojo,
+    // ver lib/colores-paquete.ts) y se distinguen por la etiqueta.
     psicometrico: {
       label: 'Psicométrico',
-      className: 'bg-sky-500/10 text-sky-600',
+      className: 'bg-[#E08585]/12 text-[#E08585]',
     },
     personalidad: {
       label: 'Personalidad',
-      className: 'bg-violet-500/10 text-violet-600',
+      className: 'bg-[#E08585]/12 text-[#E08585]',
     },
     axiologico: {
       label: 'Axiológico',
-      className: 'bg-amber-500/10 text-amber-600',
+      className: 'bg-[#E08585]/12 text-[#E08585]',
     },
   } as const
   const c = config[tipo as keyof typeof config] ?? {

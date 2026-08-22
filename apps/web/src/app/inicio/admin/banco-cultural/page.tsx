@@ -375,7 +375,7 @@ function ModalReactivosTema({
                             className={cn(
                               'flex items-start gap-2 rounded-md px-2 py-1 text-xs',
                               esCorrecta
-                                ? 'bg-emerald-500/10 text-emerald-700 dark:text-emerald-400'
+                                ? 'bg-senal-baja/15 text-senal-baja'
                                 : 'text-muted-foreground',
                             )}
                           >

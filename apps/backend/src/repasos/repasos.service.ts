@@ -154,7 +154,13 @@ export class RepasosService {
       select: {
         caja: true,
         reactivo: {
-          select: { id: true, enunciado: true, opciones: true, tema: true },
+          select: {
+            id: true,
+            enunciado: true,
+            opciones: true,
+            tema: true,
+            imagenUrl: true,
+          },
         },
       },
     });
@@ -164,6 +170,7 @@ export class RepasosService {
       caja: f.caja,
       enunciado: f.reactivo.enunciado,
       tema: f.reactivo.tema,
+      imagenUrl: f.reactivo.imagenUrl,
       opciones: this.mezclar(f.reactivo.opciones as string[]),
     }));
 
