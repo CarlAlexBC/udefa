@@ -63,6 +63,14 @@ type Stats = {
    Página
    ═══════════════════════════════════════════════════════════ */
 
+/** Las tres cosas que el contador distingue, en palabras. El panel de admin no
+ *  aparece porque no se cuenta: ver metricas.service.ts en el backend. */
+const NOMBRE_RUTA: Record<string, string> = {
+  '/': 'Portada',
+  '/precios': 'Precios',
+  dentro: 'Dentro de la plataforma',
+}
+
 type Visitas = {
   hoy: number
   ayer: number
@@ -259,14 +267,16 @@ export default function AdminHomePage() {
               {visitas.topRutas.length > 0 && (
                 <div className="mt-5 flex flex-col gap-1.5">
                   <p className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
-                    Lo más visto de la semana
+                    De dónde vienen las vistas
                   </p>
                   {visitas.topRutas.map((r) => (
                     <div
                       key={r.ruta}
                       className="flex items-baseline justify-between gap-3 text-xs"
                     >
-                      <span className="truncate text-foreground">{r.ruta}</span>
+                      <span className="truncate text-foreground">
+                        {NOMBRE_RUTA[r.ruta] ?? r.ruta}
+                      </span>
                       <span className="shrink-0 tabular-nums text-muted-foreground">
                         {r.vistas}
                       </span>

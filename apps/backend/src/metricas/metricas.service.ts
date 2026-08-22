@@ -42,21 +42,33 @@ export class MetricasService {
   }
 
   /**
-   * Normaliza la ruta: los segmentos que son sólo números pasan a ":id".
-   * Sin esto, cada intento de examen abriría su propia fila y la tabla crecería
-   * sin control con datos que no dicen nada.
+   * A qué se le pone nombre y a qué no. Decisión de Carlo, 22 ago 2026:
+   *
+   *   · El PANEL DE ADMIN no se cuenta. Es él mismo entrando a trabajar; contarlo
+   *     sólo inflaría el número y le mentiría sobre cuánta gente llega.
+   *   · De lo demás, sólo llevan nombre **portada y precios**: son las dos que
+   *     contestan "¿está entrando gente?" y "¿está mirando lo que vendo?".
+   *   · Todo el resto —las pantallas del aspirante dentro de la plataforma— se
+   *     suma bajo `dentro`, sin decir cuál. Saber qué pantalla abrió cada quien
+   *     no aporta nada que la analítica no diga mejor, y no hay razón para
+   *     guardarlo.
    */
+  private static readonly CON_NOMBRE = new Set(['/', '/precios']);
+
   private normalizar(ruta: string): string | null {
     if (typeof ruta !== 'string' || !ruta.startsWith('/')) return null;
     const limpia = ruta.split('?')[0].split('#')[0].slice(0, 120);
-    return (
-      '/' +
-      limpia
-        .split('/')
-        .filter(Boolean)
-        .map((seg) => (/^\d+$/.test(seg) ? ':id' : seg))
-        .join('/')
-    );
+
+    // El panel no se cuenta, ni siquiera como "dentro".
+    if (limpia === '/inicio/admin' || limpia.startsWith('/inicio/admin/')) {
+      return null;
+    }
+
+    const sinBarraFinal =
+      limpia.length > 1 && limpia.endsWith('/') ? limpia.slice(0, -1) : limpia;
+
+    if (MetricasService.CON_NOMBRE.has(sinBarraFinal)) return sinBarraFinal;
+    return 'dentro';
   }
 
   /** Suma una vista. Nunca lanza: una métrica no puede romperle la página a nadie. */

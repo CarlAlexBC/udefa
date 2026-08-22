@@ -173,8 +173,10 @@ model VistaDiaria {
   id     Int    @id @default(autoincrement())
   /// "AAAA-MM-DD" en hora de Mexico, igual que ActividadDiaria.
   fecha  String
-  /// Ruta normalizada: los numeros pasan a ":id", para que
-  /// /inicio/resultados/244 y /inicio/resultados/305 sean la misma fila.
+  /// Sólo tres valores posibles: "/" (portada), "/precios" y "dentro" —todo lo
+  /// demás del lado del aspirante, sin detallar cuál—. El panel de admin no se
+  /// registra. La regla vive en metricas.service.ts y la decidió Carlo: la
+  /// plataforma no necesita saber qué pantalla abrió cada quien.
   ruta   String
   conteo Int    @default(0)
 
