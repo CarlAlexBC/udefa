@@ -310,6 +310,7 @@ type Canario = {
 }
 
 function Canarios() {
+  const [todos, setTodos] = useState(false)
   const [canarios, setCanarios] = useState<Canario[] | null>(null)
   const [cargando, setCargando] = useState(true)
   const [error, setError] = useState('')
@@ -374,18 +375,18 @@ function Canarios() {
               </tr>
             </thead>
             <tbody>
-              {canarios.map((c) => (
+              {(todos ? canarios : canarios.slice(0, TOPE_TABLA)).map((c) => (
                 <tr
                   key={c.id}
                   className="border-b border-border/60 last:border-0 hover:bg-muted/30"
                 >
-                  <td className="px-3 py-2 tabular-nums text-muted-foreground">{c.id}</td>
-                  <td className="px-3 py-2">
+                  <td className="px-3 py-1.5 tabular-nums text-muted-foreground">{c.id}</td>
+                  <td className="px-3 py-1.5">
                     <p className="max-w-md truncate text-foreground" title={c.enunciado}>
                       {c.enunciado}
                     </p>
                   </td>
-                  <td className="px-3 py-2">
+                  <td className="px-3 py-1.5">
                     <span
                       className="cursor-help rounded-full border border-border px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-muted-foreground"
                       title={c.nota ?? undefined}
@@ -393,8 +394,8 @@ function Canarios() {
                       {c.tipo === 'distractor' ? 'Opción falsa' : 'Reactivo entero'}
                     </span>
                   </td>
-                  <td className="px-3 py-2 text-muted-foreground">{c.tema ?? '—'}</td>
-                  <td className="px-3 py-2 text-right tabular-nums text-foreground">
+                  <td className="truncate px-3 py-1.5 text-muted-foreground">{c.tema ?? '—'}</td>
+                  <td className="px-3 py-1.5 text-right tabular-nums text-foreground">
                     {c.vecesRespondido.toLocaleString('es-MX')}
                   </td>
                 </tr>
@@ -689,7 +690,7 @@ function TablaDistribucion({ items }: { items: DistribucionItem[] }) {
                 <td className="max-w-md px-3 py-2 text-xs text-foreground">
                   <p className="line-clamp-2">{it.enunciado}</p>
                   {it.mayoritaria >= UMBRAL_POCO_DISCRIMINA && (
-                    <span className="mt-1 inline-flex items-center rounded-full bg-amber-500/10 px-2 py-0.5 text-[10px] font-semibold text-amber-600">
+                    <span className="mt-1 inline-flex items-center rounded-full bg-accent/10 px-2 py-0.5 text-[10px] font-semibold text-accent">
                       poco discrimina · {it.mayoritaria}%
                     </span>
                   )}
@@ -759,9 +760,9 @@ function PolaridadTag({
   if (!polaridad)
     return <span className="text-xs text-muted-foreground/60">—</span>
   const clase: Record<string, string> = {
-    POSITIVA: 'bg-emerald-500/10 text-emerald-600',
-    NEGATIVA: 'bg-rose-500/10 text-rose-600',
-    TRAMPA: 'bg-amber-500/10 text-amber-600',
+    POSITIVA: 'bg-senal-baja/15 text-senal-baja',
+    NEGATIVA: 'bg-senal-alta/15 text-senal-alta',
+    TRAMPA: 'bg-accent/15 text-accent',
   }
   const etiqueta: Record<string, string> = {
     POSITIVA: 'Positiva',
@@ -871,6 +872,9 @@ function TablaReactivos({
   }>
   etiquetaCategoria: string
 }) {
+  const [todas, setTodas] = useState(false)
+  const visibles = todas ? filas : filas.slice(0, TOPE_TABLA)
+
   return (
     <div className="overflow-hidden rounded-xl border border-border bg-card shadow-sm">
       <div className="overflow-x-auto">
@@ -885,33 +889,37 @@ function TablaReactivos({
             </tr>
           </thead>
           <tbody>
-            {filas.map((r) => (
+            {visibles.map((r) => (
               <tr
                 key={r.reactivoId}
                 className="border-b border-border/40 last:border-b-0 hover:bg-muted/20"
               >
-                <td className="max-w-md px-3 py-2 text-xs text-foreground">
-                  <p className="line-clamp-2">{r.enunciado}</p>
+                {/* Una línea, no dos: el enunciado completo vive en el título al
+                    pasar el ratón. Con `line-clamp-2` cada fila medía 62 px y la
+                    tabla sola se llevaba 1,246 px de página. */}
+                <td className="max-w-md px-3 py-1.5 text-xs text-foreground">
+                  <p className="truncate" title={r.enunciado}>
+                    {r.enunciado}
+                  </p>
                 </td>
-                <td className="px-3 py-2 text-xs text-muted-foreground">
+                <td className="truncate px-3 py-1.5 text-xs text-muted-foreground">
                   {r.categoria ?? '—'}
                 </td>
-                <td className="px-3 py-2 text-xs text-muted-foreground">
+                <td className="truncate px-3 py-1.5 text-xs text-muted-foreground">
                   {r.tema ?? '—'}
                 </td>
-                <td className="px-3 py-2 text-right text-xs text-muted-foreground">
+                <td className="px-3 py-1.5 text-right text-xs tabular-nums text-muted-foreground">
                   {r.incorrectas}/{r.total}
                 </td>
-                <td className="px-3 py-2 text-right">
+                <td className="px-3 py-1.5 text-right">
+                  {/* Mismos tres escalones que la lista de arriba. Antes eran los
+                      rosa/ámbar/esmeralda de fábrica de Tailwind, ajenos a la marca. */}
                   <span
-                    className={cn(
-                      'inline-flex items-center rounded-full px-2 py-0.5 text-[11px] font-semibold',
-                      r.tasaError >= 60
-                        ? 'bg-rose-500/10 text-rose-600'
-                        : r.tasaError >= 35
-                          ? 'bg-amber-500/10 text-amber-600'
-                          : 'bg-emerald-500/10 text-emerald-600',
-                    )}
+                    className="inline-flex items-center rounded-full px-2 py-0.5 text-[11px] font-semibold tabular-nums"
+                    style={{
+                      color: nivelDe(r.tasaError).color,
+                      backgroundColor: nivelDe(r.tasaError).brillo,
+                    }}
                   >
                     {r.tasaError}%
                   </span>
@@ -921,6 +929,15 @@ function TablaReactivos({
           </tbody>
         </table>
       </div>
+      {filas.length > TOPE_TABLA && (
+        <button
+          type="button"
+          onClick={() => setTodas((v) => !v)}
+          className="w-full border-t border-border/60 px-3 py-2 text-xs font-semibold text-accent transition-colors hover:bg-accent/10"
+        >
+          {todas ? `Ver sólo los ${TOPE_TABLA} peores` : `Ver los ${filas.length}`}
+        </button>
+      )}
     </div>
   )
 }
@@ -931,6 +948,11 @@ const MINIMO_RESPUESTAS = 5
 
 /** Cuántos temas se pintan antes del "Ver todos". */
 const TOPE_VISIBLE = 12
+
+/** Cuántas filas se pintan en las tablas largas antes del "Ver todas". Son
+ *  listas para ojear, no para leerse enteras: las dos juntas se llevaban 2,621
+ *  px, más de media página. */
+const TOPE_TABLA = 8
 
 type ItemError = { nombre: string; tasaError: number; total: number }
 
