@@ -78,12 +78,29 @@ jobs:
             | sudo tee /etc/apt/sources.list.d/pgdg.list > /dev/null
           sudo apt-get update -qq
           sudo apt-get install -y -qq postgresql-client-18
-          pg_dump --version
+
+          # NO BASTA CON INSTALARLO. El runner ya trae un pg_dump 16 y ése es el
+          # que gana en el PATH: la primera ejecución murió con
+          # "server version 18.6; pg_dump version 16.15". Añadiendo el directorio
+          # del 18 al PATH de los pasos siguientes, se usa el correcto.
+          echo "/usr/lib/postgresql/18/bin" >> "$GITHUB_PATH"
 
       - name: Sacar el respaldo
         env:
           DB: ${{ secrets.RESPALDO_DATABASE_URL }}
         run: |
+          # Que se vea en el registro cuál se está usando, y que falle aquí —con
+          # un mensaje claro— si por lo que sea no es el 18.
+          pg_dump --version
+          case "$(pg_dump --version)" in
+            *"(PostgreSQL) 18"*) ;;
+            *)
+              echo "El pg_dump del PATH no es el 18. La base es Postgres 18 y"
+              echo "un pg_dump más viejo se niega a leerla."
+              exit 1
+              ;;
+          esac
+
           fecha=$(date +%F)
           pg_dump "$DB" -Fc --no-owner --no-acl -f "udefa-$fecha.dump"
           echo "Tamaño:"
