@@ -212,24 +212,33 @@
  * en una tabla de mil renglones, el aire te hace bajar más.
  */
 .panel-admin {
-  --background: #151A17;
-  --foreground: #EDF3EE;
-  --card: rgba(228, 240, 231, 0.045);
-  --card-foreground: #EDF3EE;
-  --popover: #1E2420;
-  --popover-foreground: #EDF3EE;
-  --secondary: rgba(228, 240, 231, 0.10);
-  --secondary-foreground: #EDF3EE;
-  --muted: rgba(228, 240, 231, 0.07);
-  --muted-foreground: #9BA79E;
-  --border: rgba(228, 240, 231, 0.14);
-  --input: rgba(228, 240, 231, 0.14);
-  --sidebar: rgba(228, 240, 231, 0.045);
-  --sidebar-foreground: #EDF3EE;
-  --sidebar-accent: rgba(228, 240, 231, 0.07);
-  --sidebar-accent-foreground: #EDF3EE;
-  --sidebar-border: rgba(228, 240, 231, 0.14);
+  /* Carbón cálido, la familia del #161513 de la marca. Antes todo este bloque
+     tiraba a verde (#151A17, #EDF3EE, rgba(228,240,231,…)): el panel se veía de
+     otro producto y peleaba con el latón. Los blancos translúcidos ahora son
+     crema (247,243,234), que es el color de texto de la plataforma. */
+  --background: #161513;
+  --foreground: #F7F3EA;
+  --card: #201f1b;
+  --card-foreground: #F7F3EA;
+  --popover: #232019;
+  --popover-foreground: #F7F3EA;
+  --secondary: rgba(247, 243, 234, 0.1);
+  --secondary-foreground: #F7F3EA;
+  --muted: #26241f;
+  --muted-foreground: #A39B8B;
+  --border: #34302b;
+  --input: rgba(247, 243, 234, 0.14);
+  --sidebar: #201f1b;
+  --sidebar-foreground: #F7F3EA;
+  --sidebar-accent: rgba(247, 243, 234, 0.07);
+  --sidebar-accent-foreground: #F7F3EA;
+  --sidebar-border: #34302b;
   --radius: 0.375rem;
+
+  /* Seguro: cualquier texto del panel que no declare color hereda ÉSTE y no el
+     del <body>, que vive fuera del panel y en modo claro es casi negro. Así se
+     veían los nombres de los temas de la analítica: negro sobre carbón. */
+  color: var(--foreground);
 }
 
 @layer base {
@@ -320,12 +329,6 @@
    `bg-card` sólo define color de fondo y esto define imagen de fondo, no hay
    pelea entre las dos: se suman.
    ═══════════════════════════════════════════════════════════════════════ */
-.panel-admin {
-  --card: #201f1b;
-  --muted: #26241f;
-  --border: #34302b;
-}
-
 .panel-admin .bg-card {
   background-image:
     linear-gradient(

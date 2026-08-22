@@ -1129,7 +1129,10 @@ function Renglon({ item, puesto }: { item: ItemError; puesto: number | null }) {
       <span className="hidden text-right text-[11px] tabular-nums text-muted-foreground/70 sm:block">
         {puesto ?? ''}
       </span>
-      <span className="min-w-0 truncate text-sm" title={item.nombre}>
+      {/* text-foreground explícito: sin él hereda el color del <body>, que vive
+          FUERA del panel y es casi negro. Sobre fondo oscuro, el nombre del tema
+          se volvía invisible. */}
+      <span className="min-w-0 truncate text-sm text-foreground" title={item.nombre}>
         {item.nombre}
       </span>
       <span className="hidden h-1.5 rounded-full bg-muted sm:block">
