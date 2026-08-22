@@ -792,7 +792,13 @@ function OpcionPractica({
       {/* Hueco SIEMPRE reservado para la etiqueta. Si sólo apareciera al
           contestar, le quitaría ancho al texto en ese momento y lo reacomodaría
           — el mismo brinco por otro camino. Vacío antes de contestar. */}
-      <span className="w-[104px] shrink-0 text-right text-xs font-semibold uppercase tracking-widest">
+      {/* En teléfono este hueco no existe: 104 px fijos aquí le dejaban al
+          enunciado de la opción unos 100 px de ancho, y el texto salía a
+          palabra por renglón. Ahí el estado ya lo dicen el ícono del círculo
+          y el color del borde, que no cuestan ancho. De `sm` para arriba el
+          hueco vuelve, reservado siempre para que la tarjeta no brinque al
+          contestar. */}
+      <span className="hidden w-[104px] shrink-0 text-right text-xs font-semibold uppercase tracking-widest sm:block">
         {esCorrecta && <span className="text-military">Correcta</span>}
         {esElegidaMal && <span className="text-destructive">Elegiste esta</span>}
       </span>
