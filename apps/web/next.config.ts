@@ -48,7 +48,7 @@ const CABECERAS_SEGURIDAD = [
 ];
 
 /**
- * Content-Security-Policy — EN MODO REPORT-ONLY (21 ago 2026).
+ * Content-Security-Policy — ACTIVA Y BLOQUEANDO (22 ago 2026).
  *
  * `Report-Only` significa que el navegador COMPRUEBA la política y avisa en su
  * consola de lo que la violaría, pero **no bloquea nada**. El sitio funciona
@@ -59,8 +59,15 @@ const CABECERAS_SEGURIDAD = [
  * "[Report Only] Refused to..." es algo que la política bloquearía si estuviera
  * activa. Mientras haya avisos, NO se activa.
  *
- * CÓMO SE ACTIVA, cuando la consola esté limpia: cambiar el nombre de la
- * cabecera a `Content-Security-Policy`, sin el `-Report-Only`. Nada más.
+ * SE ACTIVÓ el 22 ago 2026, después de recorrer el sitio entero con la política
+ * en Report-Only sin encontrar una sola violación: portada, probadita, precios,
+ * tablero, Guía, panel de resultados, práctica cultural y analítica del panel.
+ * También se comprobó que el pago NO se rompe: el botón manda a Mercado Pago con
+ * `window.location.href`, que es navegación y no envío de formulario, así que
+ * `form-action 'self'` no le aplica.
+ *
+ * CÓMO SE REVIERTE si algo apareciera: devolverle el `-Report-Only` al nombre de
+ * la cabecera de abajo. Vuelve a avisar sin bloquear y el sitio funciona igual.
  *
  * POR QUÉ script-src LLEVA 'unsafe-inline': Next inyecta scripts en línea para
  * hidratar la página. Quitarlo exige *nonces*, y según la documentación de esta
@@ -98,7 +105,7 @@ const nextConfig: NextConfig = {
         source: "/:path*",
         headers: [
           ...CABECERAS_SEGURIDAD,
-          { key: "Content-Security-Policy-Report-Only", value: CSP },
+          { key: "Content-Security-Policy", value: CSP },
         ],
       },
     ];
