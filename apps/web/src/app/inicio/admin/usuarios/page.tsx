@@ -413,8 +413,12 @@ export default function UsuariosAdminPage() {
                   })
                   setAltaHecha(creada)
                   setAlta(null)
+                  // También el total: sin esto el pie decía "Mostrando 8 de 7".
                   apiFetch<RespuestaUsuarios>(`/usuarios?${construirQuery(0)}`)
-                    .then((res) => setUsuarios(res.data))
+                    .then((res) => {
+                      setUsuarios(res.data)
+                      setMeta(res.meta)
+                    })
                     .catch(() => {})
                 } catch (e) {
                   setAltaError((e as Error).message)
