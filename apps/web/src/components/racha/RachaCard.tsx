@@ -154,8 +154,18 @@ export function RachaCard() {
             </p>
             <p className="mt-0.5 flex items-baseline gap-1.5">
               <span
-                className="text-3xl font-bold leading-none"
-                style={{ color: CREMA }}
+                className="text-6xl font-extrabold leading-none tracking-tight tabular-nums"
+                style={{
+                  // Mismo tamaño y mismo degradado que el contador de días. Las
+                  // dos tarjetas pesan igual porque importan igual — y si alguna
+                  // debe pesar más es ésta: al aspirante lo aprueba lo que hace
+                  // cada día, no lo que falta para abril.
+                  backgroundImage:
+                    'linear-gradient(160deg, #F0D48A 0%, #C99A3B 55%, #A87C28 100%)',
+                  WebkitBackgroundClip: 'text',
+                  backgroundClip: 'text',
+                  color: 'transparent',
+                }}
               >
                 {rachaActual}
               </span>
@@ -195,6 +205,15 @@ export function RachaCard() {
 
       {/* La meta próxima. No aparece cuando ya rompió su récord: ese día el
           premio es el récord mismo y meterle otra meta encima lo abarata. */}
+      {/* En su récord no hay meta que enseñar, y dejar el hueco hacía ver la
+          tarjeta a medias. En su lugar va el siguiente escalón: siempre hay
+          algo a la vista. */}
+      {esRecordNuevo && (
+        <p className="mt-4 text-[11px] font-semibold" style={{ color: ACENTO }}>
+          Récord personal · el siguiente son {rachaActual + 1} {plural(rachaActual + 1)}
+        </p>
+      )}
+
       {meta && meta.faltan > 0 && (
         <div className="mt-4">
           <div className="flex items-baseline justify-between text-[11px]">
