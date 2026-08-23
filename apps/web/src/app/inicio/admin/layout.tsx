@@ -297,7 +297,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
           Si algún día vuelve a estorbar, se borra este bloque y ya. */}
       <div
         aria-hidden
-        className="pointer-events-none fixed bottom-0 left-0 z-0 hidden translate-x-[8%] translate-y-[16%] lg:block"
+        className="pointer-events-none fixed bottom-0 left-0 z-0 hidden translate-x-[4%] translate-y-[16%] lg:block"
       >
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
