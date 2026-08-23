@@ -359,6 +359,18 @@ export default function ComprarPage({
                 </strong>
               </p>
 
+              {/* Cuándo llega el acceso según el método. Con OXXO no es
+                  inmediato —la tienda confirma en 1 o 2 días hábiles— y si el
+                  aspirante no lo sabe, cree que le falló la plataforma y
+                  escribe un domingo por la noche. Decirlo antes ahorra el
+                  reclamo y la desconfianza. */}
+              <p className="text-center text-xs text-muted-foreground">
+                Con tarjeta o transferencia tu acceso se activa{' '}
+                <strong className="text-foreground">en minutos</strong>. Si pagas
+                en <strong className="text-foreground">OXXO</strong>, se activa
+                cuando la tienda confirme el pago (1 o 2 días hábiles).
+              </p>
+
               <p className="text-center text-xs text-muted-foreground">
                 Eliges tu plantel al entrar. Puedes cambiarlo cuando quieras.
               </p>
