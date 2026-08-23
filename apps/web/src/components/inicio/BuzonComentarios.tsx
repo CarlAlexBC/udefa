@@ -26,6 +26,18 @@ const MAXIMO = 1000
  * NO es soporte con respuesta, y se dice en pantalla para no prometer una
  * conversación que la plataforma no tiene. Las cuentas de prueba no pueden
  * escribir: lo corta el servidor.
+ *
+ * LO QUE DICE LA LEYENDA, Y POR QUÉ DICE ESO Y NO OTRA COSA. Antes avisaba que
+ * el comentario llega con nombre y correo. Carlo pidió quitarlo para que el
+ * aspirante no se sienta vigilado, y se quitó: la leyenda ahora habla de
+ * privacidad —«no se publica, lo leo sólo yo»—, que es verdad, porque el
+ * comentario no sale a ningún lado.
+ *
+ * Lo que NO se puso, aunque se pidió, es invitarlo a «escribe tu nombre si
+ * quieres que sepa quién eres». Eso le diría que el autor es desconocido, y no
+ * lo es: el panel muestra nombre, correo y paquete de cada quien. Omitir un
+ * dato es una cosa; afirmar lo contrario es otra. Si algún día alguien
+ * pregunta si el buzón es anónimo, la respuesta honesta es que no.
  */
 export function BuzonComentarios() {
   const [abierto, setAbierto] = useState(false)
@@ -155,8 +167,8 @@ export function BuzonComentarios() {
             {error && <p className="mt-2 text-xs text-destructive">{error}</p>}
 
             <p className="mt-3 text-[11px] text-muted-foreground">
-              Llega con tu nombre y tu correo, para poder contestarte si hace
-              falta. No es un chat de soporte.
+              Tu comentario es privado: no se publica en ningún lado y lo leo
+              sólo yo. No es un chat de soporte.
             </p>
           </div>
         )}
