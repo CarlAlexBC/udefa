@@ -139,8 +139,8 @@ export default function IngresosPage() {
               Cuadrar con Mercado Pago
             </p>
             <p className="mt-0.5 text-xs text-muted-foreground">
-              Compara lo cobrado allá contra lo anotado aquí. Primero sólo mira;
-              anotar es un segundo paso que decides tú.
+              Compara lo cobrado en Mercado Pago contra lo registrado aquí. La
+              revisión no modifica nada; registrar es un segundo paso.
             </p>
           </div>
           <button
@@ -181,7 +181,7 @@ export default function IngresosPage() {
                 className="mt-2 text-sm font-semibold"
                 style={{ color: 'var(--senal-baja)' }}
               >
-                Todo cuadra. No falta ni sobra nada.
+                Todo coincide. No hay diferencias.
               </p>
             ) : (
               <div className="mt-3 flex flex-col gap-3">
@@ -191,7 +191,7 @@ export default function IngresosPage() {
                       className="text-xs font-semibold"
                       style={{ color: 'var(--senal-alta)' }}
                     >
-                      {cuadre.faltantes.length} cobrados en MP que NO están aquí
+                      {cuadre.faltantes.length} cobrados en Mercado Pago sin registrar aquí
                     </p>
                     <ul className="mt-1.5 flex flex-col gap-1">
                       {cuadre.faltantes.map((f) => (
@@ -232,13 +232,13 @@ export default function IngresosPage() {
                         }}
                         className="mt-2 rounded-md bg-accent px-3 py-1.5 text-xs font-semibold text-accent-foreground transition-opacity hover:opacity-90 disabled:opacity-50"
                       >
-                        Anotar los {cuadre.faltantes.length} que faltan
+                        Registrar los {cuadre.faltantes.length} faltantes
                       </button>
                     )}
                     <p className="mt-2 text-[11px] text-muted-foreground">
-                      Anotar los apunta en el libro de caja, pero <strong>no otorga
-                      accesos</strong>: si alguien pagó y se quedó sin su producto,
-                      dáselo tú desde Usuarios → Gestionar.
+                      Registrarlos los añade al libro de caja, pero <strong>no otorga
+                      accesos</strong>: si alguien pagó y no recibió su producto,
+                      el acceso se concede desde Usuarios → Gestionar.
                     </p>
                   </div>
                 )}
@@ -268,8 +268,8 @@ export default function IngresosPage() {
                       className="text-xs font-semibold"
                       style={{ color: 'var(--senal-media)' }}
                     >
-                      {cuadre.sobrantes.length} anotados aquí que MP ya no da por
-                      aprobados
+                      {cuadre.sobrantes.length} registrados aquí que Mercado Pago ya no
+                      da por aprobados
                     </p>
                     <ul className="mt-1.5 flex flex-col gap-1">
                       {cuadre.sobrantes.map((x) => (
@@ -352,9 +352,9 @@ export default function IngresosPage() {
               color="var(--senal-alta)"
             />
             <Tarjeta
-              rotulo="Te queda"
+              rotulo="Neto"
               valor={pesos(t.neto)}
-              pie="neto, ya sin comisión"
+              pie="después de comisión"
               color="var(--senal-baja)"
               destacada
             />

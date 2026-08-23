@@ -613,7 +613,15 @@ function VistaCultural() {
 const UMBRAL_POCO_DISCRIMINA = 85
 
 // Paleta categórica para los segmentos de la barra de distribución.
-const COLORES_DIST = ['#10b981', '#64748b', '#f59e0b', '#6366f1', '#f43f5e']
+/**
+ * Colores de la barra de distribución, en escala de la marca.
+ *
+ * Antes eran los de fábrica de Tailwind (esmeralda, pizarra, ámbar, índigo,
+ * rosa): ajenos a la paleta y, sobre carbón, chillones. Estos cinco son los de
+ * la casa y se distinguen entre sí — no significan bueno ni malo, sólo separan
+ * una opción de otra.
+ */
+const COLORES_DIST = ['#E0B75C', '#C99A3B', '#9FB03F', '#6E7A2E', '#8A8579']
 
 function VistaDistribucion({
   examenId,
@@ -670,44 +678,37 @@ function VistaDistribucion({
 
 function TablaDistribucion({ items }: { items: DistribucionItem[] }) {
   return (
-    <div className="overflow-hidden rounded-xl border border-border bg-card shadow-sm">
-      <div className="overflow-x-auto">
-        <table className="w-full text-left text-sm">
-          <thead className="border-b border-border bg-muted/40 text-[10px] uppercase tracking-widest text-muted-foreground">
-            <tr>
-              <th className="px-3 py-2 font-semibold">Enunciado</th>
-              <th className="px-3 py-2 font-semibold">Polaridad</th>
-              <th className="px-3 py-2 font-semibold">Distribución</th>
-              <th className="px-3 py-2 text-right font-semibold">Respuestas</th>
-            </tr>
-          </thead>
-          <tbody>
-            {items.map((it) => (
-              <tr
-                key={it.reactivoId}
-                className="border-b border-border/40 last:border-b-0 hover:bg-muted/20"
-              >
-                <td className="max-w-md px-3 py-2 text-xs text-foreground">
-                  <p className="line-clamp-2">{it.enunciado}</p>
-                  {it.mayoritaria >= UMBRAL_POCO_DISCRIMINA && (
-                    <span className="mt-1 inline-flex items-center rounded-full bg-accent/10 px-2 py-0.5 text-[10px] font-semibold text-accent">
-                      poco discrimina · {it.mayoritaria}%
-                    </span>
-                  )}
-                </td>
-                <td className="px-3 py-2">
-                  <PolaridadTag polaridad={it.polaridad} />
-                </td>
-                <td className="px-3 py-2">
-                  <BarraDistribucion distribucion={it.distribucion} />
-                </td>
-                <td className="px-3 py-2 text-right text-xs text-muted-foreground">
-                  {it.total}
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+    <div className="rounded-xl border border-border bg-card p-4 shadow-sm">
+      {/* En renglones, igual que el resto de la analítica (23 ago 2026). Antes
+          era una tabla con cabeceras, y convivía mal con las listas de error de
+          arriba: dos lenguajes distintos para la misma pantalla. */}
+      <div className="flex flex-col">
+        {items.map((it) => (
+          <div
+            key={it.reactivoId}
+            className="grid grid-cols-1 items-start gap-2 rounded-md px-2 py-2 transition-colors hover:bg-muted/40 sm:grid-cols-[minmax(0,1fr)_minmax(0,16rem)_auto] sm:items-center sm:gap-4"
+          >
+            <div className="min-w-0">
+              <p className="truncate text-sm text-foreground" title={it.enunciado}>
+                {it.enunciado}
+              </p>
+              <div className="mt-1 flex flex-wrap items-center gap-2">
+                <PolaridadTag polaridad={it.polaridad} />
+                {it.mayoritaria >= UMBRAL_POCO_DISCRIMINA && (
+                  <span className="inline-flex items-center rounded-full bg-accent/10 px-2 py-0.5 text-[10px] font-semibold text-accent">
+                    poco discrimina · {it.mayoritaria}%
+                  </span>
+                )}
+              </div>
+            </div>
+
+            <BarraDistribucion distribucion={it.distribucion} />
+
+            <span className="shrink-0 text-right text-xs tabular-nums text-muted-foreground">
+              {it.total}
+            </span>
+          </div>
+        ))}
       </div>
     </div>
   )
@@ -957,13 +958,17 @@ const TOPE_TABLA = 8
 type ItemError = { nombre: string; tasaError: number; total: number }
 
 /**
- * Los tres escalones del semáforo, nombrados como se habla y no como se mide:
- * "se les atora" en vez de "tasa de error alta".
+ * Los tres escalones del semáforo.
+ *
+ * Iban con lenguaje coloquial —"se les atora", "lo traen"— y Carlo pidió
+ * registro formal (23 ago 2026): el panel es su herramienta de trabajo, no su
+ * comunicación con el aspirante. Los nombres dicen QUÉ HACER con cada grupo,
+ * que es más útil que describir el número.
  */
 const NIVELES = [
   {
     clave: 'alta',
-    titulo: 'Se les atora',
+    titulo: 'Requiere refuerzo',
     pie: '60% de error o más',
     color: 'var(--senal-alta)',
     brillo: 'var(--senal-alta-brillo)',
@@ -971,7 +976,7 @@ const NIVELES = [
   },
   {
     clave: 'media',
-    titulo: 'A medias',
+    titulo: 'En proceso',
     pie: 'entre 30% y 59%',
     color: 'var(--senal-media)',
     brillo: 'var(--senal-media-brillo)',
@@ -979,7 +984,7 @@ const NIVELES = [
   },
   {
     clave: 'baja',
-    titulo: 'Lo traen',
+    titulo: 'Dominado',
     pie: 'menos de 30% de error',
     color: 'var(--senal-baja)',
     brillo: 'var(--senal-baja-brillo)',
@@ -1110,8 +1115,8 @@ function GraficaError({
 
       {ocultos > 0 && (
         <p className="mt-3 text-[11px] text-muted-foreground">
-          No se pintan {ocultos} {ocultos === 1 ? 'tema' : 'temas'} con menos de{' '}
-          {MINIMO_RESPUESTAS} respuestas: ahí un solo fallo da 100% de error.
+          No se muestran {ocultos} {ocultos === 1 ? 'tema' : 'temas'} con menos de{' '}
+          {MINIMO_RESPUESTAS} respuestas: con esa muestra, un solo error da 100%.
         </p>
       )}
     </div>
