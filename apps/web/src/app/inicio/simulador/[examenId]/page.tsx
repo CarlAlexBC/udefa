@@ -526,7 +526,7 @@ export default function SimuladorPage({
           opciones). Al encerrar aquí el desbordamiento, la fila de navegación de
           abajo queda clavada y ya no brinca aunque el texto sea largo. */}
       <div className="min-h-0 flex-1 overflow-y-auto">
-        <div className="mx-auto max-w-3xl px-6 py-8">
+        <div className="mx-auto max-w-3xl px-4 py-6 sm:px-6 sm:py-8">
           {/* Aviso de cambio de materia — sólo en exámenes de corrido. No corta
               el examen ni detiene el reloj: avisa y se retira solo. */}
           {avisoMateria && (
@@ -581,7 +581,7 @@ export default function SimuladorPage({
             </p>
 
             {reactivoActual.enunciado && (
-              <div className="mb-6 flex min-h-[96px] items-center">
+              <div className="mb-4 flex min-h-[64px] items-center sm:mb-6 sm:min-h-[96px]">
                 <h2 className="text-xl font-semibold leading-snug text-foreground sm:text-2xl">
                   {reactivoActual.enunciado}
                 </h2>
@@ -1749,9 +1749,15 @@ function OpcionesReactivo({
    * 72 px por botón cubre dos líneas de texto con su padding, que es el 99% de
    * los casos. El contenedor reserva los cuatro más sus separaciones
    * (4×72 + 3×12 = 324) para que la navegación quede clavada.
+   *
+   * EN TELÉFONO ESA RESERVA NO APLICA (22 ago 2026). Ahí no hace falta: la fila
+   * de botones vive fuera del scroll —la pantalla es `h-screen` con encabezado,
+   * contenido y navegación— así que ya está clavada por el layout. Reservar
+   * altura encima sólo estiraba el reactivo en la pantalla donde menos sobra
+   * espacio. De `sm` en adelante la reserva sigue igual.
    */
   return (
-    <div className="flex min-h-[324px] flex-col gap-3">
+    <div className="flex flex-col gap-2 sm:min-h-[324px] sm:gap-3">
       {opciones.map((opcion, i) => {
         const letra = String.fromCharCode(65 + i)
         const seleccionada = marcada === opcion
@@ -1761,7 +1767,7 @@ function OpcionesReactivo({
             type="button"
             onClick={() => onSelect(opcion)}
             className={cn(
-              'flex min-h-[72px] items-center gap-4 rounded-lg border p-4 text-left transition-colors',
+              'flex min-h-[56px] items-center gap-3 rounded-lg border p-3 text-left transition-colors sm:min-h-[72px] sm:gap-4 sm:p-4',
               !seleccionada && 'border-border bg-card hover:bg-muted',
             )}
             style={seleccionada ? estiloElegido : undefined}
