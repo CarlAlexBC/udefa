@@ -44,10 +44,11 @@ import {
  * `bg-muted`, `text-muted-foreground`) y no colores escritos a mano: lo que se
  * escribe a mano se queda fuera del cambio.
  *
- * SIN HALO NI SELLO, y esto no es que sobrara adorno: el sello se ancla en los
+ * SIN HALO, y CON un sello puesto aparte: el de la Guía se ancla en los
  * primeros 520 px de la derecha, que en el tablero es la tarjeta de saludo pero
- * aquí son los primeros renglones de las tablas. Era una marca de agua encima
- * de los datos. Una pantalla de trabajo se agradece callada.
+ * aquí serían los primeros renglones de las tablas — una marca de agua encima
+ * de los datos. El de aquí va abajo, desbordado por la orilla y a menos de la
+ * mitad de opacidad. Una pantalla de trabajo se agradece callada.
  *
  * Las dos excepciones que ya existen son a propósito: los colores del gráfico
  * de Analítica (semáforo, sirven en los dos temas) y la portada de Temas
@@ -274,6 +275,37 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
             'linear-gradient(118deg, transparent 26%, rgba(228,233,216,0.05) 45%, rgba(228,233,216,0.015) 55%, transparent 72%)',
         }}
       />
+
+      {/* EL SELLO DE LA MARCA, abajo a la derecha.
+
+          Antes el panel no llevaba ninguno y estaba razonado: el sello de la
+          Guía se ancla en los primeros 520 px de la derecha, que aquí son los
+          primeros renglones de las tablas — quedaba una marca de agua encima
+          de los datos.
+
+          Este va montado distinto para no repetir ese error:
+            · anclado ABAJO, no arriba, donde las tablas ya se acabaron;
+            · desbordando por la orilla, así sólo asoma una parte;
+            · al 6% en vez del 14% de la Guía, porque aquí abajo hay cifras;
+            · escondido abajo de `lg`: en pantallas angostas el contenido llega
+              hasta la orilla y ahí sí se encimaría.
+
+          Si algún día vuelve a estorbar, se borra este bloque y ya. */}
+      <div
+        aria-hidden
+        className="pointer-events-none fixed bottom-0 right-0 z-0 hidden translate-x-[20%] translate-y-[16%] lg:block"
+      >
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src="/monote-logo-sin-fondo.webp"
+          alt=""
+          aria-hidden
+          loading="lazy"
+          decoding="async"
+          fetchPriority="low"
+          className="w-[min(520px,40vw)] max-w-none opacity-[0.06]"
+        />
+      </div>
 
       {/* Tira de NEÓN pegada al borde de la VENTANA: es el recordatorio de que
           estás en el panel. Va fija porque el encabezado se va con el scroll, y

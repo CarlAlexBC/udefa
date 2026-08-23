@@ -45,7 +45,7 @@ const CONSTELACION: Array<{
   soloEscritorio?: boolean
 }> = [
   { archivo: 'udefa-sello', alt: 'Rectoría U.D.E.F.A.', x: 85, y: 15, tam: 210, op: 0.9 },
-  { archivo: 'monote-logo', alt: 'El Monote te Guía', x: 15, y: 83, tam: 195, op: 0.9 },
+  { archivo: 'monote-logo-sin-fondo', alt: 'El Monote te Guía', x: 15, y: 83, tam: 195, op: 0.9 },
   { archivo: 'HCM', alt: 'Heroico Colegio Militar', x: 12, y: 17, tam: 185, op: 0.8 },
   { archivo: 'CA', alt: 'Escuela Militar de Aviación', x: 87, y: 87, tam: 155, op: 0.7 },
   { archivo: 'EMI', alt: 'Escuela Militar de Ingeniería', x: 74, y: 42, tam: 140, op: 0.62 },
@@ -89,8 +89,11 @@ export function FondoAuth() {
               // Elástico: a 1400 px de ancho mide `tam`; en pantallas chicas
               // encoge, pero nunca baja de 56 px ni se pasa de su tamaño.
               width: `clamp(56px, ${(e.tam / 14).toFixed(2)}vw, ${e.tam}px)`,
-              // Los escudos son redondos sobre fondo negro; el redondeo los
-              // recorta y esta máscara le quita el filo al borde.
+              // Los escudos de los planteles son redondos sobre fondo negro;
+              // el redondeo los recorta y esta máscara le quita el filo al
+              // borde. La marca de El Monote ya no lo necesita —usa la copia
+              // `-sin-fondo`, que trae transparencia—, pero la máscara no le
+              // hace daño: sólo le suaviza la orilla como a los demás.
               WebkitMaskImage:
                 'radial-gradient(circle closest-side, #000 88%, transparent 100%)',
               maskImage:
