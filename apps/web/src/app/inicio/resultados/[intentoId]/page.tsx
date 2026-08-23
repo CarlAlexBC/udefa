@@ -168,6 +168,12 @@ type Resultados = {
   reactivosRespondidos: number
   aciertos: number | null
   porcentajeAciertos: number | null
+  /** Cuántos traía el examen completo. Null si no se puede saber. */
+  totalDelExamen: number | null
+  /** Cuántos dejó en blanco. */
+  sinContestar: number | null
+  /** Aciertos sobre el examen COMPLETO: la lectura del examen real. */
+  porcentajeDelExamen: number | null
   porBloque: PorBloque[]
   porTema: PorTema[]
   metricasTemporales: MetricasTemporales
@@ -327,16 +333,41 @@ function PanelCalificable({ data }: { data: Resultados }) {
             </div>
             {data.porcentajeAciertos !== null && (
               <div className="text-right">
-                <p className="text-5xl font-semibold tracking-tight leading-none">
-                  {data.porcentajeAciertos}
+                {/* LAS DOS LECTURAS (22 ago 2026, decisión de Carlo).
+                    Manda la del examen REAL —aciertos sobre el examen completo,
+                    donde lo que dejas en blanco cuenta como error— porque es la
+                    que va a vivir en abril. Antes el número grande era el
+                    porcentaje sobre lo CONTESTADO, y a quien se quedaba sin
+                    tiempo le decía 73% cuando en el examen real habría sacado
+                    23%. La otra lectura no se tira: se enseña debajo, porque
+                    mide algo distinto y útil —lo que sabe— y porque la
+                    diferencia entre las dos ES el diagnóstico: te ganó el reloj. */}
+                <p className="text-5xl font-semibold leading-none tracking-tight">
+                  {data.porcentajeDelExamen ?? data.porcentajeAciertos}
                   <span className="text-xl text-muted-foreground">%</span>
                 </p>
                 <p
                   className="mt-1 text-xs font-semibold uppercase tracking-widest"
                   style={{ color: acentoModulo.c }}
                 >
-                  {data.aciertos} de {data.reactivosRespondidos} correctas
+                  {data.aciertos} de {data.totalDelExamen ?? data.reactivosRespondidos}{' '}
+                  correctas
                 </p>
+
+                {data.sinContestar !== null && data.sinContestar > 0 && (
+                  <p className="mt-2 max-w-[15rem] text-xs leading-snug text-muted-foreground">
+                    Dejaste{' '}
+                    <strong className="text-foreground">
+                      {data.sinContestar} sin contestar
+                    </strong>
+                    , y en el examen real eso cuenta como error. De lo que sí
+                    respondiste acertaste el{' '}
+                    <strong className="text-foreground">
+                      {data.porcentajeAciertos}%
+                    </strong>
+                    .
+                  </p>
+                )}
               </div>
             )}
           </div>

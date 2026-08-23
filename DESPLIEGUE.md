@@ -298,9 +298,13 @@ Si sale bien **no imprime nada**. Para comprobar que sirve:
 pg_restore -l /c/respaldos-udefa/udefa-AAAA-MM-DD.dump | grep -c "TABLE DATA"
 ```
 
-Debe dar el número de tablas con datos (25 el 22 ago 2026). Comprimido pesa unos
-2 MB aunque Neon reporte 21: `-Fc` va comprimido y la cifra de Neon incluye
-índices.
+Debe dar el número de tablas **con datos**. Ese número **crece** conforme tablas
+nuevas empiezan a llenarse: fueron 25 el 21 ago y 26 al día siguiente, cuando
+entró el contador de visitas. Lo que hay que vigilar no es el número exacto sino
+que **no baje de golpe** ni salga un puñado — eso sí sería un respaldo a medias.
+
+Comprimido pesa unos 2 MB aunque Neon reporte 21: `-Fc` va comprimido y la cifra
+de Neon incluye índices.
 
 ### Para abrir uno cifrado
 

@@ -16,6 +16,24 @@ import { ActividadService } from '../actividad/actividad.service';
  */
 const TOPE_INTENTOS_POR_DIA = 12;
 
+/**
+ * Cuántos reactivos trae cada examen completo.
+ *
+ * Espejo de REACTIVOS_POR_BLOQUE_POR_TIPO (examenes.service.ts) ya multiplicado
+ * por sus bloques. El cultural va fijo en 100 porque su reparto cambia según el
+ * plantel —hay carreras de tres materias que van 34/33/33— pero el total
+ * siempre es 100.
+ *
+ * Si alguna vez se cambia el tamaño de un examen, hay que cambiarlo AQUÍ
+ * también, o el panel dirá "de 100" sobre un examen de otro tamaño.
+ */
+const TOTAL_POR_TIPO: Record<string, number> = {
+  psicometrico: 100,
+  personalidad: 256,
+  axiologico: 39,
+  cultural: 100,
+};
+
 @Injectable()
 export class IntentosService {
   constructor(
@@ -268,12 +286,35 @@ export class IntentosService {
 
     // --- Métricas globales ---
     const reactivosRespondidos = respuestasConDelta.length;
+
+    // CUÁNTOS REACTIVOS TRAÍA EL EXAMEN COMPLETO.
+    //
+    // Hace falta para no mentirle al aspirante: si contestó 11 de 35 y acertó 8,
+    // el porcentaje sobre lo contestado da 73% — y en el examen real, donde lo
+    // que dejas en blanco cuenta como error, ese mismo resultado es 23%. El
+    // panel enseña las dos lecturas (decisión de Carlo, 22 ago 2026).
+    //
+    // Debe seguir a REACTIVOS_POR_BLOQUE_POR_TIPO de examenes.service.ts: si
+    // allá cambia el armado, aquí cambia el denominador.
+    const totalDelExamen = TOTAL_POR_TIPO[intento.examen.tipo] ?? null;
+    const sinContestar =
+      totalDelExamen !== null
+        ? Math.max(0, totalDelExamen - reactivosRespondidos)
+        : null;
     const aciertos = calificable
       ? respuestasConDelta.filter((r) => r.esCorrecta === true).length
       : null;
+    // Sobre lo CONTESTADO: mide lo que sabe.
     const porcentajeAciertos =
       calificable && reactivosRespondidos > 0
         ? Math.round((aciertos! / reactivosRespondidos) * 100)
+        : null;
+
+    // Sobre el EXAMEN COMPLETO: es la lectura del examen real, donde lo que
+    // dejas en blanco cuenta como error.
+    const porcentajeDelExamen =
+      calificable && totalDelExamen
+        ? Math.round((aciertos! / totalDelExamen) * 100)
         : null;
     const tiempoTotalMs = respuestasConDelta.reduce(
       (max, r) => Math.max(max, r.respondidoEnMs),
@@ -397,6 +438,9 @@ export class IntentosService {
       estado: intento.estado,
       tiempoTotalMs,
       reactivosRespondidos,
+      totalDelExamen,
+      sinContestar,
+      porcentajeDelExamen,
       aciertos,
       porcentajeAciertos,
       porBloque,
