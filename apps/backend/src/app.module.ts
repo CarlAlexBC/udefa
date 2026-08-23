@@ -22,6 +22,7 @@ import { TemariosModule } from './temarios/temarios.module';
 import { MuestraModule } from './muestra/muestra.module';
 import { MailModule } from './mail/mail.module';
 import { ActividadModule } from './actividad/actividad.module';
+import { ComentariosModule } from './comentarios/comentarios.module';
 import { GuiaModule } from './guia/guia.module';
 import { ExplicacionesModule } from './explicaciones/explicaciones.module';
 import { MetricasModule } from './metricas/metricas.module';
@@ -54,6 +55,7 @@ import { MetricasModule } from './metricas/metricas.module';
     MuestraModule,
     MailModule,
     ActividadModule,
+    ComentariosModule,
     GuiaModule,
     ExplicacionesModule,
   ],

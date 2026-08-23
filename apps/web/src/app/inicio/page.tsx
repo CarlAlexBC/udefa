@@ -10,6 +10,7 @@ import { HeaderPrivado } from './HeaderPrivado'
 import { EmpiezaPorAqui } from '@/components/onboarding/EmpiezaPorAqui'
 import { RachaCard } from '@/components/racha/RachaCard'
 import { CuentaRegresiva } from '@/components/inicio/CuentaRegresiva'
+import { BuzonComentarios } from '@/components/inicio/BuzonComentarios'
 import { FondoGuia } from '@/components/guia/FondoGuia'
 import { logoDePlantel } from '@/lib/planteles'
 import { COLOR_PAQUETE_OSCURO, COLOR_DE_MODULO, ACABADO_MODULO } from '@/lib/colores-paquete'
@@ -547,6 +548,10 @@ function Dashboard({
           </Link>
         )}
       </section>
+
+      {/* Buzón de comentarios. Va al final a propósito: quien entra viene a
+          estudiar, no a opinar. */}
+      <BuzonComentarios />
       </main>
     </div>
   )

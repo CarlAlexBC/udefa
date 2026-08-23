@@ -16,6 +16,7 @@ import {
   Lightbulb,
   ListChecks,
   Loader2,
+  MessageSquare,
   SlidersHorizontal,
   Users,
   Wallet,
@@ -79,6 +80,8 @@ type Conteos = {
   cultural?: number
   usuarios?: number
   planteles?: number
+  /** Comentarios del buzón sin leer. Es el único badge que pide atención. */
+  comentarios?: number
 }
 
 type NavItem = {
@@ -146,6 +149,12 @@ const NAV_GROUPS: Array<{ titulo: string; items: NavItem[] }> = [
         icon: Users,
         contador: 'usuarios',
       },
+      {
+        href: '/inicio/admin/comentarios',
+        label: 'Comentarios',
+        icon: MessageSquare,
+        contador: 'comentarios',
+      },
       { href: '/inicio/admin/temas-prioridad', label: 'Temas prioritarios', icon: Flame },
       { href: '/inicio/admin/temarios', label: 'Reparto cultural', icon: SlidersHorizontal },
     ],
@@ -200,7 +209,8 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
       }>('/admin/stats'),
       apiFetch<Array<{ reactivos: number }>>('/cultural/libros'),
       apiFetch<unknown[]>('/planteles'),
-    ]).then(([stats, cultural, planteles]) => {
+      apiFetch<{ sinLeer: number }>('/comentarios/sin-leer'),
+    ]).then(([stats, cultural, planteles, comentarios]) => {
       if (!vivo) return
       const nuevos: Conteos = {}
       if (stats.status === 'fulfilled') {
@@ -217,6 +227,9 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
       }
       if (planteles.status === 'fulfilled') {
         nuevos.planteles = planteles.value.length
+      }
+      if (comentarios.status === 'fulfilled') {
+        nuevos.comentarios = comentarios.value.sinLeer
       }
       setConteos(nuevos)
     })

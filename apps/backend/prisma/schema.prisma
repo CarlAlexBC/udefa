@@ -56,6 +56,7 @@ model Usuario {
   seccionesLeidas   SeccionLeida[]
   pagos             Pago[]
   accesos           Acceso[]
+  comentarios       Comentario[]
   createdAt         DateTime               @default(now())
   updatedAt         DateTime               @updatedAt
 }
@@ -567,4 +568,30 @@ model ExplicacionCapitulo {
   estado     EstadoExplicacion @default(BORRADOR)
   createdAt  DateTime          @default(now())
   updatedAt  DateTime          @updatedAt
+}
+
+/// Buzón de comentarios del aspirante.
+///
+/// Lo que el aspirante escribe desde su pantalla de inicio para Carlo: qué le
+/// falta, qué no se entiende, qué se rompió. No es soporte con respuesta —es un
+/// buzón— y por eso no guarda conversación, sólo el mensaje y quién lo mandó.
+///
+/// SIEMPRE CON NOMBRE. Se guarda el usuario a propósito: un buzón anónimo en una
+/// plataforma de pago se llena de ruido, y sin saber quién escribe no se puede
+/// ni contestarle por correo ni ver si es alguien que ya compró.
+///
+/// Las cuentas de prueba NO escriben aquí (lo corta el servicio) y tampoco
+/// aparecen en la lista del panel. Son cuentas desechables que se borran solas:
+/// sus comentarios serían basura que sobrevive a su autor.
+model Comentario {
+  id        Int      @id @default(autoincrement())
+  usuarioId Int
+  usuario   Usuario  @relation(fields: [usuarioId], references: [id], onDelete: Cascade)
+  texto     String
+  /// Lo marca Carlo desde el panel. Sirve para el contador de "sin leer".
+  leido     Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  @@index([leido, createdAt])
+  @@index([usuarioId])
 }
