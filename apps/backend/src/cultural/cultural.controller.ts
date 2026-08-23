@@ -1,4 +1,4 @@
-import { Controller, Get, Param, UseGuards } from '@nestjs/common';
+import { Controller, Get, Param, UseGuards, Query } from '@nestjs/common';
 import { CulturalService } from './cultural.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
@@ -13,6 +13,12 @@ import { Roles } from '../auth/decorators/roles.decorator';
 @Controller('cultural')
 export class CulturalController {
   constructor(private culturalService: CulturalService) {}
+
+  /** Buscador del banco cultural. Mínimo 3 letras; ver el servicio. */
+  @Get('buscar')
+  buscar(@Query('q') q: string, @Query('take') take?: string) {
+    return this.culturalService.buscarReactivos(q, take ? Number(take) : 50);
+  }
 
   @Get('libros')
   listarLibros() {

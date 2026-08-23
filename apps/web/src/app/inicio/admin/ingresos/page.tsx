@@ -12,6 +12,34 @@ import { apiFetch } from '@/lib/api'
    sólo viven en Mercado Pago y hay que rescatarlas con un script (fase 3).
    ═══════════════════════════════════════════════════════════ */
 
+type Venta = {
+  id: number
+  mpPaymentId: string
+  fecha: string
+  paquete: string
+  ciclo: string
+  estado: string
+  metodoPago: string | null
+  monto: number
+  comision: number
+  neto: number
+  nombre: string | null
+  email: string | null
+}
+
+type ComprasSinCompletar = {
+  total: number
+  porPaquete: Array<{ paquete: string; cuantas: number }>
+  compras: Array<{
+    id: number
+    nombre: string
+    email: string
+    paquete: string
+    ciclo: string
+    createdAt: string
+  }>
+}
+
 type Cuadre = {
   aplicado: boolean
   revisadosEnMp: number
@@ -77,7 +105,15 @@ export default function IngresosPage() {
   const [cuadre, setCuadre] = useState<Cuadre | null>(null)
   const [cuadrando, setCuadrando] = useState(false)
   const [errorCuadre, setErrorCuadre] = useState('')
+  const [abandonadas, setAbandonadas] = useState<ComprasSinCompletar | null>(null)
+  const [exportando, setExportando] = useState(false)
   const [error, setError] = useState('')
+
+  useEffect(() => {
+    apiFetch<ComprasSinCompletar>('/admin/compras-sin-completar')
+      .then(setAbandonadas)
+      .catch(() => setAbandonadas(null))
+  }, [])
 
   useEffect(() => {
     setCargando(true)
@@ -128,6 +164,49 @@ export default function IngresosPage() {
           Pago, y la comisión es la que reportó él, no una estimación.
         </p>
       </div>
+
+      {/* Compras que se quedaron a medias. Son personas que llenaron sus datos
+          y no terminaron de pagar: la venta más barata de recuperar, y hasta hoy
+          no se veía en ninguna pantalla. */}
+      {abandonadas && abandonadas.total > 0 && (
+        <div className="mb-5 rounded-xl border border-border bg-card p-4 shadow-sm">
+          <div className="flex flex-wrap items-baseline justify-between gap-2">
+            <p className="text-sm font-semibold text-foreground">
+              Compras sin completar
+            </p>
+            <p className="text-xs text-muted-foreground">
+              {abandonadas.porPaquete
+                .map((p) => `${NOMBRE_PAQUETE[p.paquete] ?? p.paquete}: ${p.cuantas}`)
+                .join(' · ')}
+            </p>
+          </div>
+          <p className="mt-1 text-xs text-muted-foreground">
+            Llenaron sus datos y no terminaron de pagar. No se muestran las de las
+            últimas 3 horas: ésas pueden estar pagándose ahora mismo.
+          </p>
+
+          <div className="mt-3 flex flex-col gap-1.5">
+            {abandonadas.compras.slice(0, 12).map((c) => (
+              <div
+                key={c.id}
+                className="flex flex-wrap items-baseline justify-between gap-2 border-b border-border/40 pb-1.5 text-xs last:border-b-0"
+              >
+                <span className="min-w-0">
+                  <span className="text-foreground">{c.nombre}</span>{' '}
+                  <span className="text-muted-foreground">{c.email}</span>
+                </span>
+                <span className="shrink-0 tabular-nums text-muted-foreground">
+                  {NOMBRE_PAQUETE[c.paquete] ?? c.paquete} ·{' '}
+                  {new Date(c.createdAt).toLocaleDateString('es-MX', {
+                    day: '2-digit',
+                    month: 'short',
+                  })}
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* Cuadrar con Mercado Pago. La tabla se llena desde el aviso de MP; si un
           aviso se pierde, la venta cobrada no queda anotada y el panel miente
@@ -315,6 +394,76 @@ export default function IngresosPage() {
               Convocatoria {c}
             </button>
           ))}
+        </div>
+      )}
+
+      {t.ventas > 0 && (
+        <div className="mb-5">
+          <button
+            type="button"
+            disabled={exportando}
+            onClick={async () => {
+              setExportando(true)
+              try {
+                const ventas = await apiFetch<Venta[]>(
+                  `/admin/ingresos/ventas${ciclo ? `?ciclo=${ciclo}` : ''}`,
+                )
+                // El archivo lo arma el navegador: son pocos datos y así no hace
+                // falta un endpoint que devuelva archivos.
+                const cabecera = [
+                  'fecha',
+                  'paquete',
+                  'ciclo',
+                  'estado',
+                  'metodo',
+                  'monto',
+                  'comision',
+                  'neto',
+                  'nombre',
+                  'email',
+                  'pago_mercadopago',
+                ]
+                const escapar = (v: unknown) =>
+                  `"${String(v ?? '').replace(/"/g, '""')}"`
+                const filas = ventas.map((v) =>
+                  [
+                    new Date(v.fecha).toISOString().slice(0, 10),
+                    v.paquete,
+                    v.ciclo,
+                    v.estado,
+                    v.metodoPago,
+                    v.monto,
+                    v.comision,
+                    v.neto,
+                    v.nombre,
+                    v.email,
+                    v.mpPaymentId,
+                  ]
+                    .map(escapar)
+                    .join(','),
+                )
+                // El BOM del principio es para que Excel abra bien los acentos.
+                const csv = '\uFEFF' + [cabecera.join(','), ...filas].join('\n')
+                const url = URL.createObjectURL(
+                  new Blob([csv], { type: 'text/csv;charset=utf-8;' }),
+                )
+                const a = document.createElement('a')
+                a.href = url
+                a.download = `ventas-${ciclo ?? 'todas'}-${new Date()
+                  .toISOString()
+                  .slice(0, 10)}.csv`
+                a.click()
+                URL.revokeObjectURL(url)
+              } catch (e) {
+                setErrorCuadre((e as Error).message)
+              } finally {
+                setExportando(false)
+              }
+            }}
+            className="rounded-md border border-accent/40 px-3 py-2 text-xs font-semibold text-accent transition-colors hover:bg-accent/10 disabled:opacity-50"
+          >
+            {exportando ? 'Preparando…' : 'Descargar todas las ventas (CSV)'}
+          </button>
         </div>
       )}
 

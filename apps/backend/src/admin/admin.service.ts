@@ -160,21 +160,31 @@ export class AdminService {
    *   3. Rollup en memoria a nivel bloque y tema sobre los conteos ya agregados
    *      (no sobre las respuestas crudas — el set es chico).
    */
-  async obtenerAnalitica() {
+  /**
+   * `dias` acota la ventana: sin él, la analítica mezcla todo desde el primer
+   * día —incluidos los intentos de prueba de Carlo— y deja de describir a los
+   * aspirantes de ahora.
+   */
+  async obtenerAnalitica(dias?: number) {
     const TOP_N = 20;
     // Umbral mínimo de respuestas para que un reactivo/tema sea "confiable".
     // Un reactivo con 1 sola respuesta y 100% error no dice nada estadístico.
     const MIN_RESPUESTAS = 1;
 
+    const desde =
+      dias && dias > 0
+        ? { createdAt: { gte: new Date(Date.now() - dias * 86_400_000) } }
+        : {};
+
     const [totalPorReactivo, incorrectasPorReactivo] = await Promise.all([
       this.prisma.respuestaReactivo.groupBy({
         by: ['reactivoId'],
-        where: { esCorrecta: { not: null } },
+        where: { esCorrecta: { not: null }, ...desde },
         _count: { _all: true },
       }),
       this.prisma.respuestaReactivo.groupBy({
         by: ['reactivoId'],
-        where: { esCorrecta: false },
+        where: { esCorrecta: false, ...desde },
         _count: { _all: true },
       }),
     ]);
@@ -305,10 +315,15 @@ export class AdminService {
    * Estrategia: un groupBy por (reactivo, respuesta) agrega todo en la BD; el
    * resto es rollup en memoria sobre ese set ya reducido.
    */
-  async obtenerDistribucion(examenId: number) {
+  async obtenerDistribucion(examenId: number, dias?: number) {
+    const desde =
+      dias && dias > 0
+        ? { createdAt: { gte: new Date(Date.now() - dias * 86_400_000) } }
+        : {};
+
     const grupos = await this.prisma.respuestaReactivo.groupBy({
       by: ['reactivoId', 'respuestaSeleccionada'],
-      where: { reactivo: { bloque: { examenId } } },
+      where: { reactivo: { bloque: { examenId } }, ...desde },
       _count: { _all: true },
     });
 
@@ -769,6 +784,81 @@ export class AdminService {
       desajustes,
       sobrantes,
     };
+  }
+
+
+  /**
+   * Compras que se quedaron a medias.
+   *
+   * Cada vez que alguien llena sus datos y va a pagar se crea una
+   * `CompraPendiente`; al aprobarse el pago se marca `usadaEn` y nace la cuenta.
+   * Las que nunca se marcaron son **gente que quiso comprar y no terminó**: sacó
+   * su ficha de OXXO y no fue, o se arrepintió en el checkout.
+   *
+   * Hasta hoy esas filas no se veían en ninguna pantalla. Son ventas perdidas
+   * con nombre y correo — lo más barato que se puede recuperar.
+   *
+   * No se muestran las de las últimas 3 horas: una compra recién empezada no
+   * está perdida, puede estar pagándose en este momento.
+   */
+  async comprasSinCompletar() {
+    const haceTresHoras = new Date(Date.now() - 3 * 60 * 60 * 1000);
+    const filas = await this.prisma.compraPendiente.findMany({
+      where: { usadaEn: null, createdAt: { lt: haceTresHoras } },
+      orderBy: { createdAt: 'desc' },
+      take: 100,
+      select: {
+        id: true,
+        nombre: true,
+        email: true,
+        paquete: true,
+        ciclo: true,
+        createdAt: true,
+      },
+    });
+
+    const porPaquete = new Map<string, number>();
+    filas.forEach((f) => porPaquete.set(f.paquete, (porPaquete.get(f.paquete) ?? 0) + 1));
+
+    return {
+      total: filas.length,
+      porPaquete: [...porPaquete.entries()].map(([paquete, cuantas]) => ({
+        paquete,
+        cuantas,
+      })),
+      compras: filas,
+    };
+  }
+
+  /**
+   * Todas las ventas de un ciclo, para revisarlas o exportarlas.
+   *
+   * El resumen de ingresos sólo trae las 12 últimas —es un panel, no un
+   * libro—, pero para cuadrar un mes o guardar el año hace falta la lista
+   * completa. El archivo lo arma el navegador con esto.
+   */
+  async ventas(ciclo?: string) {
+    const pagos = await this.prisma.pago.findMany({
+      where: ciclo ? { ciclo } : {},
+      orderBy: { aprobadoEn: 'desc' },
+      include: { usuario: { select: { nombre: true, email: true } } },
+    });
+
+    const num = (v: unknown) => (v === null || v === undefined ? 0 : Number(v));
+    return pagos.map((p) => ({
+      id: p.id,
+      mpPaymentId: p.mpPaymentId,
+      fecha: p.aprobadoEn ?? p.createdAt,
+      paquete: p.paquete,
+      ciclo: p.ciclo,
+      estado: p.estado,
+      metodoPago: p.metodoPago,
+      monto: num(p.monto),
+      comision: num(p.comision),
+      neto: p.neto !== null ? num(p.neto) : num(p.monto) - num(p.comision),
+      nombre: p.usuario?.nombre ?? null,
+      email: p.usuario?.email ?? null,
+    }));
   }
 
 }

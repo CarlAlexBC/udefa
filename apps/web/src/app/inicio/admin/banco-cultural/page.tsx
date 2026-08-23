@@ -58,6 +58,18 @@ type ReactivoCultural = {
    Página
    ═══════════════════════════════════════════════════════════ */
 
+/** Un resultado del buscador: el reactivo con su ruta en el árbol. */
+type Hallazgo = {
+  id: number
+  enunciado: string
+  respuestaCorrecta: string | null
+  referencia: string | null
+  temaId: number | null
+  tema: string | null
+  capitulo: string | null
+  libro: string | null
+}
+
 export default function BancoCulturalPage() {
   const [libros, setLibros] = useState<Libro[]>([])
   const [cargando, setCargando] = useState(true)
@@ -68,6 +80,12 @@ export default function BancoCulturalPage() {
 
   // Tema abierto en el modal de reactivos (null = cerrado).
   const [temaAbierto, setTemaAbierto] = useState<TemaNodo | null>(null)
+
+  // Buscador. Con 10,180 reactivos, llegar sólo por el árbol hacía imposible
+  // encontrar uno concreto —el día que alguien reporta una errata, por ejemplo—.
+  const [busqueda, setBusqueda] = useState('')
+  const [hallazgos, setHallazgos] = useState<Hallazgo[] | null>(null)
+  const [buscando, setBuscando] = useState(false)
 
   useEffect(() => {
     apiFetch<Libro[]>('/cultural/libros')
@@ -115,6 +133,93 @@ export default function BancoCulturalPage() {
           <p className="text-sm text-destructive">{error}</p>
         </div>
       )}
+
+      {/* Buscador por enunciado. Mínimo 3 letras: con menos, la consulta
+          devolvería medio banco y no ayudaría a nadie. */}
+      <div className="mb-5 rounded-xl border border-border bg-card p-4 shadow-sm">
+        <label className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+          Buscar reactivo
+        </label>
+        <form
+          className="mt-1 flex gap-2"
+          onSubmit={async (e) => {
+            e.preventDefault()
+            const q = busqueda.trim()
+            if (q.length < 3) return
+            setBuscando(true)
+            try {
+              setHallazgos(
+                await apiFetch<Hallazgo[]>(`/cultural/buscar?q=${encodeURIComponent(q)}`),
+              )
+            } catch (err) {
+              setError((err as Error).message)
+            } finally {
+              setBuscando(false)
+            }
+          }}
+        >
+          <input
+            value={busqueda}
+            onChange={(e) => setBusqueda(e.target.value)}
+            placeholder="Texto del enunciado — mínimo 3 letras"
+            className="h-9 flex-1 rounded-md border border-input bg-transparent px-3 text-sm text-foreground focus-visible:border-ring focus-visible:outline-none"
+          />
+          <button
+            type="submit"
+            disabled={buscando || busqueda.trim().length < 3}
+            className="shrink-0 rounded-md bg-accent px-3 py-2 text-xs font-semibold text-accent-foreground transition-opacity hover:opacity-90 disabled:opacity-50"
+          >
+            {buscando ? 'Buscando…' : 'Buscar'}
+          </button>
+          {hallazgos && (
+            <button
+              type="button"
+              onClick={() => {
+                setHallazgos(null)
+                setBusqueda('')
+              }}
+              className="shrink-0 rounded-md px-3 py-2 text-xs text-muted-foreground hover:text-foreground"
+            >
+              Limpiar
+            </button>
+          )}
+        </form>
+
+        {hallazgos && (
+          <div className="mt-4 border-t border-border/60 pt-3">
+            <p className="text-xs text-muted-foreground">
+              {hallazgos.length === 0
+                ? 'Ningún reactivo contiene ese texto.'
+                : `${hallazgos.length} ${hallazgos.length === 1 ? 'reactivo' : 'reactivos'}`}
+              {hallazgos.length === 100 && ' (se muestran los primeros 100)'}
+            </p>
+            <div className="mt-2 flex flex-col gap-2">
+              {hallazgos.map((h) => (
+                <div
+                  key={h.id}
+                  className="rounded-md border border-border/60 px-3 py-2"
+                >
+                  <p className="text-sm text-foreground">{h.enunciado}</p>
+                  <p className="mt-1 text-[11px] text-muted-foreground">
+                    {[h.libro, h.capitulo, h.tema].filter(Boolean).join(' · ')}
+                  </p>
+                  {h.respuestaCorrecta && (
+                    <p className="mt-1 text-[11px]">
+                      <span className="text-muted-foreground">Correcta: </span>
+                      <span className="text-foreground">{h.respuestaCorrecta}</span>
+                    </p>
+                  )}
+                  {h.referencia && (
+                    <p className="mt-0.5 text-[11px] text-muted-foreground">
+                      {h.referencia}
+                    </p>
+                  )}
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
 
       {cargando ? (
         <div className="flex items-center gap-2 text-sm text-muted-foreground">

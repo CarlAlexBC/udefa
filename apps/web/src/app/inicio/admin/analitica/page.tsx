@@ -103,6 +103,11 @@ export default function AnaliticaPage() {
     'psicometrico' | 'personalidad' | 'axiologico' | 'cultural'
   >('psicometrico')
 
+  // Ventana de tiempo. `null` = todo el histórico, que es lo que había antes y
+  // mezcla los intentos de prueba de los primeros días con los aspirantes de
+  // ahora. 30 días suele ser la lectura útil.
+  const [dias, setDias] = useState<number | null>(null)
+
   return (
     <div>
       <div className="mb-5">
@@ -151,12 +156,37 @@ export default function AnaliticaPage() {
         </TabBtn>
       </div>
 
+      {/* Ventana de tiempo. Aplica a las cuatro pestañas. */}
+      <div className="mb-5 flex flex-wrap items-center gap-2">
+        <span className="text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+          Periodo
+        </span>
+        {[
+          { etiqueta: 'Últimos 30 días', valor: 30 },
+          { etiqueta: 'Últimos 90 días', valor: 90 },
+          { etiqueta: 'Todo', valor: null },
+        ].map((o) => (
+          <button
+            key={o.etiqueta}
+            type="button"
+            onClick={() => setDias(o.valor)}
+            className={
+              dias === o.valor
+                ? 'rounded-md border border-accent/40 bg-accent/10 px-3 py-1.5 text-xs font-semibold text-accent'
+                : 'rounded-md bg-muted px-3 py-1.5 text-xs text-muted-foreground transition-colors hover:text-foreground'
+            }
+          >
+            {o.etiqueta}
+          </button>
+        ))}
+      </div>
+
       {vista === 'psicometrico' ? (
-        <VistaPsicologico />
+        <VistaPsicologico dias={dias} />
       ) : vista === 'personalidad' ? (
-        <VistaDistribucion examenId={2} nombre="Personalidad" />
+        <VistaDistribucion examenId={2} nombre="Personalidad" dias={dias} />
       ) : vista === 'axiologico' ? (
-        <VistaDistribucion examenId={3} nombre="Axiológico" />
+        <VistaDistribucion examenId={3} nombre="Axiológico" dias={dias} />
       ) : (
         <VistaCultural />
       )}
@@ -440,13 +470,14 @@ function TabBtn({
    Vista Psicológico (GET /admin/analitica)
    ═══════════════════════════════════════════════════════════ */
 
-function VistaPsicologico() {
+function VistaPsicologico({ dias }: { dias: number | null }) {
   const [data, setData] = useState<Analitica | null>(null)
   const [cargando, setCargando] = useState(true)
   const [error, setError] = useState('')
 
   useEffect(() => {
-    apiFetch<Analitica>('/admin/analitica')
+    setCargando(true)
+    apiFetch<Analitica>(`/admin/analitica${dias ? `?dias=${dias}` : ''}`)
       .then((res) => {
         setData(res)
         setCargando(false)
@@ -455,7 +486,7 @@ function VistaPsicologico() {
         setError((err as Error).message)
         setCargando(false)
       })
-  }, [])
+  }, [dias])
 
   if (cargando) return <Cargando />
   if (error || !data) return <ErrorBox mensaje={error || 'Sin datos'} />
@@ -612,6 +643,12 @@ function VistaCultural() {
 // casi todos contestan igual, así que no separa a un aspirante de otro.
 const UMBRAL_POCO_DISCRIMINA = 85
 
+// ...pero sólo si hay muestra suficiente detrás. Con 2 respuestas, un 100% no
+// dice nada: dos personas coincidieron y ya. Sin este mínimo la etiqueta salía
+// en casi todos los reactivos y dejaba de significar algo. Mismo criterio que
+// el de los temas en la vista de error.
+const MINIMO_PARA_JUZGAR = 5
+
 // Paleta categórica para los segmentos de la barra de distribución.
 /**
  * Colores de la barra de distribución, en escala de la marca.
@@ -626,9 +663,11 @@ const COLORES_DIST = ['#E0B75C', '#C99A3B', '#9FB03F', '#6E7A2E', '#8A8579']
 function VistaDistribucion({
   examenId,
   nombre,
+  dias,
 }: {
   examenId: number
   nombre: string
+  dias: number | null
 }) {
   const [data, setData] = useState<Distribucion | null>(null)
   const [cargando, setCargando] = useState(true)
@@ -637,7 +676,9 @@ function VistaDistribucion({
   useEffect(() => {
     setCargando(true)
     setError('')
-    apiFetch<Distribucion>(`/admin/distribucion?examenId=${examenId}`)
+    apiFetch<Distribucion>(
+      `/admin/distribucion?examenId=${examenId}${dias ? `&dias=${dias}` : ''}`,
+    )
       .then((res) => {
         setData(res)
         setCargando(false)
@@ -646,7 +687,7 @@ function VistaDistribucion({
         setError((err as Error).message)
         setCargando(false)
       })
-  }, [examenId])
+  }, [examenId, dias])
 
   if (cargando) return <Cargando />
   if (error || !data) return <ErrorBox mensaje={error || 'Sin datos'} />
@@ -694,7 +735,8 @@ function TablaDistribucion({ items }: { items: DistribucionItem[] }) {
               </p>
               <div className="mt-1 flex flex-wrap items-center gap-2">
                 <PolaridadTag polaridad={it.polaridad} />
-                {it.mayoritaria >= UMBRAL_POCO_DISCRIMINA && (
+                {it.mayoritaria >= UMBRAL_POCO_DISCRIMINA &&
+                  it.total >= MINIMO_PARA_JUZGAR && (
                   <span className="inline-flex items-center rounded-full bg-accent/10 px-2 py-0.5 text-[10px] font-semibold text-accent">
                     poco discrimina · {it.mayoritaria}%
                   </span>

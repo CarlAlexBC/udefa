@@ -9,6 +9,17 @@ import { PrismaService } from '../prisma/prisma.service';
  * árbol para que el admin pueda navegarlo. La escritura (importar/editar) vive
  * en otro lado; aquí solo se lee.
  */
+/** Lo que trae `temaBanco` en la búsqueda: el tema con su ruta hacia el libro. */
+type TemaConRuta = {
+  id: number;
+  nombre: string;
+  capitulo: {
+    numero: number;
+    titulo: string;
+    libro: { materia: string; autor: string };
+  } | null;
+};
+
 @Injectable()
 export class CulturalService {
   constructor(private prisma: PrismaService) {}
@@ -198,4 +209,70 @@ export class CulturalService {
       },
     });
   }
+
+  /**
+   * Busca reactivos culturales por su enunciado.
+   *
+   * POR QUÉ EXISTE. Al banco cultural sólo se llegaba por el árbol
+   * libro → capítulo → tema. Con 10,180 reactivos, el día que un aspirante
+   * reporta una errata —"el de Biología sobre la mitosis está mal"— no había
+   * forma de encontrarlo salvo ir capítulo por capítulo. El banco psicológico
+   * sí buscaba; éste no.
+   *
+   * Devuelve también dónde vive cada uno (libro y tema), que es la mitad de lo
+   * que se necesita saber al encontrarlo.
+   */
+  async buscarReactivos(q: string, take = 50) {
+    const texto = (q ?? '').trim();
+    if (texto.length < 3) return [];
+
+    const filas = await this.prisma.reactivo.findMany({
+      where: {
+        banco: 'cultural',
+        enunciado: { contains: texto, mode: 'insensitive' },
+      },
+      take: Math.min(take, 100),
+      orderBy: { id: 'asc' },
+      select: {
+        id: true,
+        enunciado: true,
+        respuestaCorrecta: true,
+        referencia: true,
+        // El árbol real: Tema → Capítulo → Libro. El libro no tiene "nombre":
+        // su dato legible es `materia` más el `autor`.
+        temaBanco: {
+          select: {
+            id: true,
+            nombre: true,
+            capitulo: {
+              select: {
+                numero: true,
+                titulo: true,
+                libro: { select: { materia: true, autor: true } },
+              },
+            },
+          },
+        },
+      },
+    });
+
+    return filas.map((r) => {
+      const tema = (r as { temaBanco?: TemaConRuta }).temaBanco;
+      return {
+        id: r.id,
+        enunciado: r.enunciado,
+        respuestaCorrecta: r.respuestaCorrecta,
+        referencia: r.referencia,
+        temaId: tema?.id ?? null,
+        tema: tema?.nombre ?? null,
+        capitulo: tema?.capitulo
+          ? `${tema.capitulo.numero}. ${tema.capitulo.titulo}`
+          : null,
+        libro: tema?.capitulo?.libro
+          ? `${tema.capitulo.libro.materia} · ${tema.capitulo.libro.autor}`
+          : null,
+      };
+    });
+  }
+
 }

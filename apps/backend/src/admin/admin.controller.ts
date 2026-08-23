@@ -42,9 +42,22 @@ export class AdminController {
     return this.adminService.cuadrarConMercadoPago(aplicar === 'true');
   }
 
+  /** Compras que nunca se completaron: ventas perdidas con nombre y correo. */
+  @Get('compras-sin-completar')
+  comprasSinCompletar() {
+    return this.adminService.comprasSinCompletar();
+  }
+
+  /** Todas las ventas, para revisarlas o exportarlas a archivo. */
+  @Get('ingresos/ventas')
+  ventas(@Query('ciclo') ciclo?: string) {
+    return this.adminService.ventas(ciclo);
+  }
+
+  /** `dias` acota la ventana (30, 90…). Sin él, todo el histórico. */
   @Get('analitica')
-  obtenerAnalitica() {
-    return this.adminService.obtenerAnalitica();
+  obtenerAnalitica(@Query('dias') dias?: string) {
+    return this.adminService.obtenerAnalitica(dias ? Number(dias) : undefined);
   }
 
   /**
@@ -52,8 +65,14 @@ export class AdminController {
    * (Personalidad=2, Axiológico=3). Ver AdminService.obtenerDistribucion.
    */
   @Get('distribucion')
-  obtenerDistribucion(@Query('examenId', ParseIntPipe) examenId: number) {
-    return this.adminService.obtenerDistribucion(examenId);
+  obtenerDistribucion(
+    @Query('examenId', ParseIntPipe) examenId: number,
+    @Query('dias') dias?: string,
+  ) {
+    return this.adminService.obtenerDistribucion(
+      examenId,
+      dias ? Number(dias) : undefined,
+    );
   }
 
   /**
