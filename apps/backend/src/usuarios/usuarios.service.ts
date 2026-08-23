@@ -357,6 +357,16 @@ export class UsuariosService {
       search?: string;
     } = {},
   ) {
+    // Barrer aquí, y no sólo al repartir una prueba nueva. La limpieza vivía
+    // enganchada a la creación: si no se creaba otra cuenta de prueba, las
+    // vencidas se quedaban en la lista para siempre. Esta es la pantalla donde
+    // se notan, así que es el momento honesto de barrerlas.
+    //
+    // Va sin `await` y con `catch`: si la limpieza falla, la lista de usuarios
+    // NO se cae. Cuando no hay nada que borrar cuesta una consulta que vuelve
+    // vacía y se corta ahí. El día de gracia NO se toca: sigue en 24 h.
+    void this.limpiarCuentasDePruebaCaducadas().catch(() => undefined);
+
     const TAKE_DEFAULT = 50;
     const TAKE_MAX = 200;
     const take = Math.min(opciones.take ?? TAKE_DEFAULT, TAKE_MAX);
@@ -693,10 +703,13 @@ export class UsuariosService {
   /**
    * Barre las cuentas de prueba que ya vencieron.
    *
-   * CUÁNDO CORRE: al crear una cuenta de prueba nueva. Se enganchó ahí a
-   * propósito, en vez de a un temporizador de fondo: es el momento natural
-   * —repartes una nueva, se van las muertas—, no añade dependencias al proyecto
-   * y no corre cuando nadie está usando el panel.
+   * CUÁNDO CORRE: en dos momentos, los dos por visita y ninguno por
+   * temporizador —así no hace falta añadirle un programador de tareas al
+   * proyecto ni gasta nada cuando nadie está usando el panel—:
+   *   1. al crear una cuenta de prueba nueva: repartes una, se van las muertas;
+   *   2. al abrir la lista de Usuarios del panel, que es donde se notan. Sin
+   *      esto, quien no volviera a crear pruebas se quedaba con las vencidas
+   *      en la lista para siempre.
    *
    * POR QUÉ ESPERA UN DÍA: borrar en cuanto vence destruiría la evidencia de si
    * la persona llegó a USAR la prueba (sus intentos y respuestas se van con la
