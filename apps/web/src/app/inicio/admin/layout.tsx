@@ -276,7 +276,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
         }}
       />
 
-      {/* EL SELLO DE LA MARCA, abajo a la derecha.
+      {/* EL SELLO DE LA MARCA, abajo a la IZQUIERDA.
 
           Antes el panel no llevaba ninguno y estaba razonado: el sello de la
           Guía se ancla en los primeros 520 px de la derecha, que aquí son los
@@ -284,7 +284,10 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
           de los datos.
 
           Este va montado distinto para no repetir ese error:
-            · anclado ABAJO, no arriba, donde las tablas ya se acabaron;
+            · anclado ABAJO y a la IZQUIERDA. Primero se probó a la derecha y
+              ahí caía justo sobre la columna de cifras del tablero —los
+              números de «de dónde vienen las vistas»—. De este lado, abajo
+              del menú, no hay nada que tapar;
             · desbordando por la orilla, así sólo asoma una parte;
             · al 6% en vez del 14% de la Guía, porque aquí abajo hay cifras;
             · escondido abajo de `lg`: en pantallas angostas el contenido llega
@@ -293,7 +296,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
           Si algún día vuelve a estorbar, se borra este bloque y ya. */}
       <div
         aria-hidden
-        className="pointer-events-none fixed bottom-0 right-0 z-0 hidden translate-x-[20%] translate-y-[16%] lg:block"
+        className="pointer-events-none fixed bottom-0 left-0 z-0 hidden -translate-x-[20%] translate-y-[16%] lg:block"
       >
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
