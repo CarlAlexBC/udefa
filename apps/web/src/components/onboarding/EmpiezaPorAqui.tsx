@@ -110,24 +110,28 @@ export function EmpiezaPorAqui({
       </div>
 
       {/* LA CADETE DICE QUÉ SIGUE.
-          El rostro y no la figura completa: a este tamaño un cuerpo entero es
-          una mancha. La frase cambia con la fase, y es lo único de esta tarjeta
-          escrito en segunda persona —el resto son etiquetas—.
 
-          56 PX Y RECORTE CERRADO, y las dos cosas por el mismo motivo. La
-          primera versión iba a 44 px con un recorte que incluía hombros: a ese
-          tamaño la cara ocupaba un tercio del cuadro y el uniforme negro se
-          fundía con el fondo oscuro de la banda. No se distinguía nada. Ahora
-          la cabeza llena el encuadre y se lee. Si algún día se achica otra vez,
-          hay que volver a cerrar el recorte, no sólo bajar el número. */}
-      <div className="mb-3 flex items-start gap-3 rounded-lg bg-military/10 p-3">
+          VA DE CUERPO COMPLETO y no de rostro, decisión de Carlo. La primera
+          versión usaba un recorte de la cara porque a 44 px un cuerpo entero es
+          una mancha — pero eso se resuelve dándole tamaño, y aquí se puede: la
+          tarjeta es TEMPORAL, desaparece en cuanto el aspirante hace su primer
+          simulacro. Es el único lugar del arranque donde el personaje se luce.
+
+          POR ESO CRECE CON LA PANTALLA: 88 px en teléfono, 120 en computadora.
+          A 120 fijos, en un teléfono de 400 px de ancho esta banda mediría
+          144 px de alto para una sola frase, y empujaría hacia abajo la cuenta
+          regresiva y la racha.
+
+          El texto va CENTRADO y no arriba: la frase es de un renglón, y pegada
+          al borde superior dejaba un hueco muerto del alto de la ilustración. */}
+      <div className="mb-3 flex items-center gap-3 rounded-lg bg-military/10 p-3">
         <Image
-          src="/cadete/explica-rostro.webp"
+          src="/cadete/explica.webp"
           alt=""
           aria-hidden
-          width={56}
-          height={56}
-          className="h-14 w-14 shrink-0 rounded-lg"
+          width={120}
+          height={120}
+          className="h-22 w-22 shrink-0 sm:h-30 sm:w-30"
         />
         <p className="text-sm leading-relaxed text-foreground">
           {haPracticado
