@@ -2,8 +2,9 @@
 
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { apiFetch } from '@/lib/api'
-import { CheckCircle2, ArrowRight, Compass } from 'lucide-react'
+import { CheckCircle2, ArrowRight, Compass, Award } from 'lucide-react'
 
 /**
  * "Empieza por aquí" — la ruta de primeros pasos para el aspirante nuevo.
@@ -29,10 +30,16 @@ export function EmpiezaPorAqui({
   const [intentos, setIntentos] = useState<number | null>(null)
   const [practicas, setPracticas] = useState(0)
   const [oculto, setOculto] = useState(false)
+  // Cerró la tarjeta de felicitación. Distinto de `oculto`: aquélla es
+  // "no me acompañes", ésta es "ya lo leí".
+  const [cerrado, setCerrado] = useState(false)
 
   useEffect(() => {
     if (window.localStorage.getItem('onboardingOculto') === '1') {
       setOculto(true)
+    }
+    if (window.localStorage.getItem('onboardingCerrado') === '1') {
+      setCerrado(true)
     }
     apiFetch<{ id: number }[]>('/intentos')
       .then((lista) => setIntentos(lista.length))
@@ -42,11 +49,6 @@ export function EmpiezaPorAqui({
       .catch(() => setPracticas(0))
   }, [])
 
-  // Ocultada, aún sin saber, o ya con un simulador hecho → no se pinta nada.
-  if (oculto || intentos === null || intentos > 0) return null
-
-  const haPracticado = practicas > 0
-
   function ocultar() {
     setOculto(true)
     try {
@@ -55,6 +57,35 @@ export function EmpiezaPorAqui({
       // Si el navegador bloquea el almacenamiento, se oculta sólo por ahora.
     }
   }
+
+  function cerrar() {
+    setCerrado(true)
+    try {
+      window.localStorage.setItem('onboardingCerrado', '1')
+    } catch {
+      // Igual que arriba: sin almacenamiento, se cierra sólo por ahora.
+    }
+  }
+
+  // Todavía no sabemos, o pidió que no lo acompañáramos → nada.
+  if (intentos === null || oculto) return null
+
+  /*
+   * FASE 3. Antes, al primer simulacro la tarjeta simplemente DESAPARECÍA y el
+   * aspirante nunca se enteraba de que había terminado algo. Se perdía el único
+   * momento de "lo lograste" que tiene el arranque, que es justo cuando más
+   * falta hace: acaba de medirse por primera vez.
+   *
+   * Ahora se despide. Se va para siempre al tocar "Entendido", y si nunca lo
+   * toca se retira sola al segundo simulacro — una felicitación colgada un mes
+   * deja de ser una felicitación.
+   */
+  if (intentos >= 1) {
+    if (cerrado || intentos >= 2) return null
+    return <Cierre alCerrar={cerrar} />
+  }
+
+  const haPracticado = practicas > 0
 
   return (
     <section className="mb-8 overflow-hidden rounded-xl border-2 border-accent bg-card p-5 shadow-sm">
@@ -76,6 +107,26 @@ export function EmpiezaPorAqui({
         <span className="shrink-0 text-xs font-medium tabular-nums text-muted-foreground">
           {haPracticado ? '2 de 3' : '1 de 3'}
         </span>
+      </div>
+
+      {/* LA CADETE DICE QUÉ SIGUE.
+          El rostro y no la figura completa: a 44 px, un cuerpo entero es una
+          mancha. La frase cambia con la fase, y es lo único de esta tarjeta
+          escrito en segunda persona —el resto son etiquetas—. */}
+      <div className="mb-3 flex items-start gap-3 rounded-lg bg-military/10 p-3">
+        <Image
+          src="/cadete/explica-rostro.webp"
+          alt=""
+          aria-hidden
+          width={44}
+          height={44}
+          className="h-11 w-11 shrink-0"
+        />
+        <p className="text-sm leading-relaxed text-foreground">
+          {haPracticado
+            ? 'Bien. Ahora mira tu avance: ahí se ve qué dominas y qué hay que reforzar.'
+            : 'Empieza corto. Una práctica sin cronómetro, para ver dónde estás parado.'}
+        </p>
       </div>
 
       {/* Pasos */}
@@ -120,6 +171,76 @@ export function EmpiezaPorAqui({
           className="text-xs text-muted-foreground transition-colors hover:text-foreground"
         >
           Ocultar por ahora
+        </button>
+      </div>
+    </section>
+  )
+}
+
+/**
+ * Fase 3 — la despedida del tutorial.
+ *
+ * VA EN VERDE MILITAR y no en latón como las otras dos, a propósito: el latón
+ * de las fases 1 y 2 marca una tarea pendiente que te llama. Ésta ya no pide
+ * nada, cierra. Y el verde es el mismo de los "Hecho" de cada paso, así que el
+ * aspirante ya lo tiene asociado a "esto está cumplido" sin que nadie se lo
+ * explique.
+ *
+ * Aquí la cadete va de cuerpo y no de rostro: es la única pantalla del arranque
+ * donde el personaje tiene espacio, y es el momento de felicitar.
+ */
+function Cierre({ alCerrar }: { alCerrar: () => void }) {
+  return (
+    <section className="mb-8 overflow-hidden rounded-xl border-2 border-military bg-card p-5 shadow-sm">
+      <div className="mb-4 flex items-start justify-between gap-3">
+        <div className="flex items-center gap-3">
+          <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-military/20">
+            <Award className="h-5 w-5 text-military" />
+          </div>
+          <div>
+            <p className="text-[10px] font-bold uppercase tracking-widest text-military">
+              Tutorial completado
+            </p>
+            <h2 className="mt-0.5 text-lg font-semibold text-foreground">
+              Listo. Ya sabes moverte.
+            </h2>
+          </div>
+        </div>
+        <span className="shrink-0 whitespace-nowrap text-xs font-medium tabular-nums text-muted-foreground">
+          3 de 3
+        </span>
+      </div>
+
+      <div className="flex items-start gap-4">
+        <Image
+          src="/cadete/saluda.webp"
+          alt=""
+          aria-hidden
+          width={96}
+          height={96}
+          className="hidden h-24 w-24 shrink-0 sm:block"
+        />
+        <div className="min-w-0 flex-1">
+          <p className="text-sm leading-relaxed text-muted-foreground">
+            Elegiste tu plantel, hiciste tu primera práctica y presentaste tu
+            primer simulacro. Ya conoces las tres piezas: la práctica para
+            aprender, el simulacro para medirte y tu avance para saber qué
+            reforzar.
+          </p>
+          <p className="mt-3 border-l-[3px] border-military pl-3 text-sm font-semibold leading-relaxed text-foreground">
+            De aquí en adelante no hay pasos que seguir. Hay un examen que
+            preparar, y tiempo para hacerlo bien.
+          </p>
+        </div>
+      </div>
+
+      <div className="mt-4 flex justify-end border-t border-border/60 pt-3">
+        <button
+          type="button"
+          onClick={alCerrar}
+          className="rounded-md bg-military px-5 py-2 text-sm font-semibold text-military-foreground transition-opacity hover:opacity-90"
+        >
+          Entendido
         </button>
       </div>
     </section>
