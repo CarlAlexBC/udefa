@@ -217,8 +217,21 @@ function Dashboard({
         ? '/inicio/simulador/1'
         : '/precios'
 
-  // Paso 3 del onboarding: ver su avance por tema.
-  const hrefPaso3 = '/inicio/avance'
+  // Paso 3 del onboarding: su primer SIMULACRO completo.
+  //
+  // Antes mandaba a /inicio/avance, y era un callejón sin salida: la tarjeta se
+  // gradúa cuando hay un intento de examen, no cuando alguien mira su avance.
+  // El aspirante podía entrar a ver sus temas mil veces y el paso 3 seguía
+  // pendiente. Se detectó probando con una cuenta nueva.
+  //
+  // Mismo criterio que el paso 2: el cultural si lo tiene y está desbloqueado,
+  // si no el psicológico completo, y si todo está bajo candado, a precios.
+  const hrefPaso3 =
+    examenCultural && !bloqueadoCultural
+      ? `/inicio/simulador/${examenCultural.id}`
+      : !bloqueadoPsico
+        ? '/inicio/sesion'
+        : '/precios'
 
   return (
     <div className="relative">

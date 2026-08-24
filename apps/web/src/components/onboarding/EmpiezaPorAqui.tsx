@@ -15,7 +15,12 @@ import { CheckCircle2, ArrowRight, Compass, Award } from 'lucide-react'
  *   1. Elegir plantel — ya hecho al entrar.
  *   2. Su primera práctica — se marca en cuanto responde una (cuenta las
  *      RespuestaPractica que ahora sí guarda el backend).
- *   3. Su primer simulacro — al hacerlo, ve su avance y la tarjeta se retira.
+ *   3. Su primer simulacro — al hacerlo, la tarjeta se despide (ver `Cierre`).
+ *
+ * OJO CON EL PASO 3, que ya falló una vez: se titulaba "Mira tu avance" y
+ * enlazaba a /inicio/avance, pero la graduación depende de que EXISTA UN
+ * INTENTO. Mirar el avance no crea ninguno, así que el paso no se completaba
+ * nunca. Título, enlace y condición tienen que seguir hablando del simulacro.
  *
  * También puede ocultarla a mano (se recuerda en este navegador).
  */
@@ -125,8 +130,13 @@ export function EmpiezaPorAqui({
           El texto va CENTRADO y no arriba: la frase es de un renglón, y pegada
           al borde superior dejaba un hueco muerto del alto de la ilustración. */}
       <div className="mb-3 flex items-center gap-3 rounded-lg bg-military/10 p-3">
+        {/* UNA POSE POR FASE, y no la misma repetida. En la 1 explica lo que
+            hay que hacer; en la 2 va de brazos cruzados, que es el gesto de
+            "ahora viene lo serio" — justo cuando toca el simulacro con
+            cronómetro. El saludo se reserva para la fase 3: si se usara antes,
+            la felicitación del final dejaría de sentirse como un cierre. */}
         <Image
-          src="/cadete/explica.webp"
+          src={haPracticado ? '/cadete/seria.webp' : '/cadete/explica.webp'}
           alt=""
           aria-hidden
           width={120}
@@ -135,7 +145,7 @@ export function EmpiezaPorAqui({
         />
         <p className="text-sm leading-relaxed text-foreground">
           {haPracticado
-            ? 'Bien. Ahora mira tu avance: ahí se ve qué dominas y qué hay que reforzar.'
+            ? 'Bien. Ahora el simulacro completo, con cronómetro: es la única forma de saber cómo llegas.'
             : 'Empieza corto. Una práctica sin cronómetro, para ver dónde estás parado.'}
         </p>
       </div>
@@ -162,13 +172,13 @@ export function EmpiezaPorAqui({
           <PasoActivo
             numero={3}
             href={hrefPaso3}
-            titulo="Mira tu avance"
-            subtitulo="Cómo van tus temas."
+            titulo="Haz tu primer simulacro"
+            subtitulo="El examen completo, con cronómetro."
           />
         ) : (
           <PasoBloqueado
             numero={3}
-            titulo="Mira tu avance"
+            titulo="Haz tu primer simulacro"
             subtitulo="Cuando termines el paso 2."
           />
         )}
