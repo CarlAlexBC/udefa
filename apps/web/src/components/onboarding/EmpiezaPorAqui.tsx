@@ -110,17 +110,24 @@ export function EmpiezaPorAqui({
       </div>
 
       {/* LA CADETE DICE QUÉ SIGUE.
-          El rostro y no la figura completa: a 44 px, un cuerpo entero es una
-          mancha. La frase cambia con la fase, y es lo único de esta tarjeta
-          escrito en segunda persona —el resto son etiquetas—. */}
+          El rostro y no la figura completa: a este tamaño un cuerpo entero es
+          una mancha. La frase cambia con la fase, y es lo único de esta tarjeta
+          escrito en segunda persona —el resto son etiquetas—.
+
+          56 PX Y RECORTE CERRADO, y las dos cosas por el mismo motivo. La
+          primera versión iba a 44 px con un recorte que incluía hombros: a ese
+          tamaño la cara ocupaba un tercio del cuadro y el uniforme negro se
+          fundía con el fondo oscuro de la banda. No se distinguía nada. Ahora
+          la cabeza llena el encuadre y se lee. Si algún día se achica otra vez,
+          hay que volver a cerrar el recorte, no sólo bajar el número. */}
       <div className="mb-3 flex items-start gap-3 rounded-lg bg-military/10 p-3">
         <Image
           src="/cadete/explica-rostro.webp"
           alt=""
           aria-hidden
-          width={44}
-          height={44}
-          className="h-11 w-11 shrink-0"
+          width={56}
+          height={56}
+          className="h-14 w-14 shrink-0 rounded-lg"
         />
         <p className="text-sm leading-relaxed text-foreground">
           {haPracticado
