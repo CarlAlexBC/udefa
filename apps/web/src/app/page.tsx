@@ -16,6 +16,7 @@ import {
 import { Revelar } from "@/components/landing/Revelar";
 import { CarruselMuestra } from "@/components/landing/CarruselMuestra";
 import { CarruselPlanteles } from "@/components/landing/CarruselPlanteles";
+import { LEGAL } from "@/lib/legal";
 import { SiteFooter } from "@/components/legal/SiteFooter";
 import { acabadoClaroDeModulo, HOJA_DE_PLATA_CLARA } from "@/lib/colores-paquete";
 
@@ -341,15 +342,29 @@ export default function Home() {
                 <TrustBadge icon={<Sparkles className="h-3 w-3" />} label="Autor de @elmonoteteguia" />
               </div>
 
-              <a
-                href="https://www.tiktok.com/@elmonoteteguia"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline"
-              >
-                Ver contenido gratis en TikTok
-                <ArrowRight className="h-3 w-3" />
-              </a>
+              {/* Las dos redes, juntas. TikTok va primero y con la flecha
+                  porque es de donde llega la mayoría; Instagram se suma sin
+                  pelearle protagonismo. */}
+              <div className="mt-6 flex flex-wrap items-center gap-x-5 gap-y-2">
+                <a
+                  href={LEGAL.tiktok}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline"
+                >
+                  Ver contenido gratis en TikTok
+                  <ArrowRight className="h-3 w-3" />
+                </a>
+                <a
+                  href={LEGAL.instagram}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline"
+                >
+                  Seguir en Instagram
+                  <ArrowRight className="h-3 w-3" />
+                </a>
+              </div>
             </div>
           </div>
         </div>

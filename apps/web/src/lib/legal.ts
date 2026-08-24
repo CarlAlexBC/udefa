@@ -55,8 +55,15 @@ export const LEGAL = {
   /** Dominio del sitio, cuando lo tengas. HOY NO SE PUBLICA en ninguna página. */
   sitioWeb: POR_COMPLETAR('dominio del sitio, p. ej. https://elmonoteteguia.com'),
 
-  /** Redes públicas del proyecto. */
+  /**
+   * Redes públicas del proyecto.
+   *
+   * Viven aquí y no escritas a mano en cada pantalla porque el día que cambie
+   * un usuario —a Instagram le sobra el `_2005` y está por corregirse— se
+   * cambia en un solo sitio y no quedan enlaces muertos regados.
+   */
   tiktok: 'https://www.tiktok.com/@elmonoteteguia',
+  instagram: 'https://www.instagram.com/elmonoteteguia_2005/',
 
   /**
    * ⏳ PENDIENTE — HOY NO SE PUBLICA EN NINGUNA PÁGINA.
