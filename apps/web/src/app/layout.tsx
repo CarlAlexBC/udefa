@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Manrope } from "next/font/google";
 import "./globals.css";
 import { MetricaVista } from "@/components/MetricaVista";
+import { RegistrarSW } from "@/components/RegistrarSW";
 
 const manrope = Manrope({
   variable: "--font-manrope",
@@ -27,6 +28,7 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col font-sans">
         <MetricaVista />
+        <RegistrarSW />
         {children}
       </body>
     </html>

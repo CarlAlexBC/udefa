@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sin conexión · El Monote te Guía</title>
+    <!--
+      Página de "no hay señal". La sirve el service worker cuando una navegación
+      falla por falta de red.
+
+      VA SUELTA Y SIN DEPENDENCIAS a propósito: no usa la tipografía de la
+      plataforma, ni CSS externo, ni JavaScript. Es lo único que este sitio
+      guarda en el teléfono, y tiene que funcionar justo cuando no se puede
+      descargar nada más. Cualquier archivo aparte que necesitara la dejaría
+      rota en el único momento en que sirve.
+    -->
+    <style>
+      :root { color-scheme: dark; }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+        background: #161513;
+        color: #F7F3EA;
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+        text-align: center;
+      }
+      .caja { max-width: 380px; }
+      img { width: 96px; height: 96px; margin-bottom: 20px; }
+      h1 { margin: 0 0 10px; font-size: 20px; font-weight: 600; }
+      p { margin: 0 0 22px; font-size: 14px; line-height: 1.6; color: #9A9382; }
+      a {
+        display: inline-block;
+        border-radius: 8px;
+        padding: 11px 22px;
+        background: #C99A3B;
+        color: #161513;
+        font-size: 14px;
+        font-weight: 600;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="caja">
+      <img src="/app/icono-192.png" alt="El Monote te Guía" />
+      <h1>Te quedaste sin conexión</h1>
+      <p>
+        No pudimos cargar la página. Revisa tus datos o tu wifi y vuelve a
+        intentarlo — tu avance está guardado en el servidor, no se pierde nada.
+      </p>
+      <!-- Un enlace y no un botón con JavaScript: esta página tiene que
+           funcionar sin depender de nada, y navegar a la portada es el mismo
+           reintento. -->
+      <a href="/">Reintentar</a>
+    </div>
+  </body>
+</html>
