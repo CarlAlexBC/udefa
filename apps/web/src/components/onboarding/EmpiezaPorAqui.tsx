@@ -232,14 +232,24 @@ function Cierre({ alCerrar }: { alCerrar: () => void }) {
         </span>
       </div>
 
-      <div className="flex items-start gap-4">
+      {/* EN EL TELÉFONO SE APILA, no se esconde.
+
+          La primera versión la ocultaba abajo de `sm` con el argumento de que
+          96 px de dibujo al lado del texto se comen media pantalla. Cierto —
+          pero el problema era ponerla AL LADO, no su tamaño. Apilada arriba
+          tiene el ancho entero para ella y el párrafo no se estrangula.
+
+          Esconder al personaje en el teléfono era además esconderlo donde más
+          se ve: la mayoría de los aspirantes entra desde el celular, y ésta es
+          la única pantalla del arranque donde la cadete felicita. */}
+      <div className="flex flex-col items-start gap-3 sm:flex-row sm:gap-4">
         <Image
           src="/cadete/saluda.webp"
           alt=""
           aria-hidden
           width={96}
           height={96}
-          className="hidden h-24 w-24 shrink-0 sm:block"
+          className="h-24 w-24 shrink-0"
         />
         <div className="min-w-0 flex-1">
           <p className="text-sm leading-relaxed text-muted-foreground">
