@@ -284,7 +284,7 @@ function PlantelSlide({
         {/* Info textual */}
         <div className="flex flex-1 flex-col">
           {plantel.agrupacion && (
-            <p className="mb-1 text-[10px] font-semibold uppercase tracking-widest text-military">
+            <p className="mb-1 text-[10px] font-semibold uppercase tracking-widest text-[#8A9640]">
               {plantel.agrupacion}
             </p>
           )}
@@ -292,7 +292,7 @@ function PlantelSlide({
           <h3 className="text-xl font-semibold leading-tight text-primary-foreground md:text-2xl">
             {plantel.nombre}
           </h3>
-          <p className="mt-1 text-sm italic text-muted-foreground">
+          <p className="mt-1 text-sm italic text-primary-foreground/60">
             &ldquo;{plantel.lema}&rdquo;
           </p>
 
@@ -322,7 +322,7 @@ function PlantelSlide({
 
           {/* Lista de estudios */}
           <div>
-            <p className="mb-2 text-[10px] font-semibold uppercase tracking-widest text-muted-foreground">
+            <p className="mb-2 text-[10px] font-semibold uppercase tracking-widest text-primary-foreground/70">
               Estudios que imparte
             </p>
             <div className="flex flex-wrap gap-1.5">
@@ -342,6 +342,25 @@ function PlantelSlide({
   )
 }
 
+/*
+ * POR QUÉ LOS COLORES DE ESTA TARJETA VAN ESCRITOS A MANO Y NO CON TOKENS.
+ *
+ * Esta sección es OSCURA pero la portada NO está en modo oscuro: no lleva la
+ * clase `dark`. Así que `text-muted-foreground` tomaba su valor de tema claro
+ * (#6B6659), que está calculado para leerse sobre el fondo crema. Sobre el
+ * negro de la marca (#161513) daba 3.19:1, por debajo del mínimo legible de
+ * 4.5:1 — y en letra de 10 px. La agrupación del plantel iba peor: verde
+ * militar oscuro sobre negro, 2.17:1.
+ *
+ * Lo reportó un lector de Carlo: "las letras grises no se ven".
+ *
+ * Ahora: el texto tenue usa la crema con transparencia (6.5:1 y 8.4:1, medidos)
+ * y la agrupación un oliva claro (#8A9640, 5.66:1) que conserva el significado
+ * —el verde marca la agrupación del plantel— sin dejar de leerse.
+ *
+ * REGLA para cualquier sección oscura de la portada: `text-muted-foreground`
+ * NO sirve aquí. Usa `text-primary-foreground/60` o `/70`.
+ */
 function PlantelDato({
   icon,
   label,
@@ -353,7 +372,7 @@ function PlantelDato({
 }) {
   return (
     <div>
-      <p className="flex items-center gap-1 text-[10px] uppercase tracking-widest text-muted-foreground">
+      <p className="flex items-center gap-1 text-[10px] uppercase tracking-widest text-primary-foreground/70">
         {icon}
         {label}
       </p>
