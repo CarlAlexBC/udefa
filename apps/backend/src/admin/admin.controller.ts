@@ -1,6 +1,7 @@
 import {
   Controller,
   Get,
+  Param,
   ParseIntPipe,
   Post,
   Query,
@@ -40,6 +41,16 @@ export class AdminController {
   @Post('ingresos/cuadrar')
   cuadrarIngresos(@Query('aplicar') aplicar?: string) {
     return this.adminService.cuadrarConMercadoPago(aplicar === 'true');
+  }
+
+  /**
+   * Expediente de UN aspirante: acceso, constancia, simulacros, practica y su
+   * semaforo por materia. Es la pantalla para atender a una persona, no para
+   * arreglar el banco.
+   */
+  @Get('usuarios/:id/progreso')
+  progresoDeUsuario(@Param('id', ParseIntPipe) id: number) {
+    return this.adminService.progresoDeUsuario(id);
   }
 
   /** Compras que nunca se completaron: ventas perdidas con nombre y correo. */

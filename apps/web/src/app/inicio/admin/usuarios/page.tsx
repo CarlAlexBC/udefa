@@ -1,5 +1,7 @@
 'use client'
 
+import Link from 'next/link'
+
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
@@ -567,9 +569,14 @@ export default function UsuariosAdminPage() {
                           <Shield className="h-3 w-3 text-accent" />
                         )}
                         <div>
-                          <p className="font-semibold text-foreground">
+                          {/* El nombre abre su expediente: acceso, constancia,
+                              simulacros y su semaforo por materia. */}
+                          <Link
+                            href={`/inicio/admin/usuarios/${u.id}`}
+                            className="font-semibold text-foreground hover:text-accent hover:underline"
+                          >
                             {u.nombre}
-                          </p>
+                          </Link>
                           <p className="text-xs text-muted-foreground">
                             {u.email}
                           </p>

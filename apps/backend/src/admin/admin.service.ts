@@ -1,4 +1,8 @@
-import { BadRequestException, Injectable } from '@nestjs/common';
+import {
+  BadRequestException,
+  Injectable,
+  NotFoundException,
+} from '@nestjs/common';
 import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { BANCOS_ARCHIVADOS, BANCOS_EN_USO } from '../examenes/examenes.service';
@@ -859,6 +863,213 @@ export class AdminService {
       nombre: p.usuario?.nombre ?? null,
       email: p.usuario?.email ?? null,
     }));
+  }
+
+
+  /**
+   * Expediente de UN aspirante: todo lo suyo en una sola pantalla.
+   *
+   * POR QUÉ EXISTE. La analítica del panel es agregada —dice qué reactivo falla
+   * todo el mundo— y sirve para arreglar el banco. Esto es lo contrario: sirve
+   * para atender a una persona. Con pocos aspirantes, que el autor del material
+   * revise el avance por nombre es algo que ninguna plataforma grande puede
+   * hacer, y es lo que convierte a un comprador en alguien que recomienda.
+   *
+   * OJO CON EL LÍMITE: deja de escalar alrededor de los cien aspirantes, y no
+   * por las consultas sino por el tiempo de Carlo. De ahí en adelante es
+   * pantalla de consulta, no rutina.
+   *
+   * No inventa datos: junta lo que ya se guardaba suelto —intentos, respuestas,
+   * prácticas, días activos, repasos— y lo cruza por materia.
+   */
+  async progresoDeUsuario(usuarioId: number) {
+    const usuario = await this.prisma.usuario.findUnique({
+      where: { id: usuarioId },
+      select: {
+        id: true,
+        nombre: true,
+        email: true,
+        rol: true,
+        nivelAcceso: true,
+        estado: true,
+        createdAt: true,
+        plantel: { select: { nombre: true } },
+        accesos: {
+          select: {
+            modulo: true,
+            ciclo: true,
+            expiraEn: true,
+            origen: true,
+            otorgadoEn: true,
+          },
+          orderBy: { otorgadoEn: 'desc' },
+        },
+      },
+    });
+    if (!usuario) throw new NotFoundException('Ese aspirante no existe.');
+
+    // ── Simulacros ────────────────────────────────────────────────────
+    const intentos = await this.prisma.intentoExamen.findMany({
+      where: { usuarioId },
+      orderBy: { inicioAt: 'desc' },
+      take: 40,
+      select: {
+        id: true,
+        inicioAt: true,
+        finAt: true,
+        estado: true,
+        examen: { select: { nombre: true, tipo: true, calificable: true } },
+      },
+    });
+    const idsIntento = intentos.map((x) => x.id);
+
+    // Contestadas CALIFICABLES y aciertos, por intento. Se piden aparte porque
+    // personalidad y axiológico no tienen respuesta correcta (`esCorrecta` va
+    // en null): contarlas como fallos daría un porcentaje mentiroso.
+    const [porIntentoCalificables, porIntentoAciertos] = await Promise.all([
+      this.prisma.respuestaReactivo.groupBy({
+        by: ['intentoExamenId'],
+        where: { intentoExamenId: { in: idsIntento }, esCorrecta: { not: null } },
+        _count: { _all: true },
+      }),
+      this.prisma.respuestaReactivo.groupBy({
+        by: ['intentoExamenId'],
+        where: { intentoExamenId: { in: idsIntento }, esCorrecta: true },
+        _count: { _all: true },
+      }),
+    ]);
+    const califMap = new Map(
+      porIntentoCalificables.map((r) => [r.intentoExamenId, r._count._all]),
+    );
+    const aciertoMap = new Map(
+      porIntentoAciertos.map((r) => [r.intentoExamenId, r._count._all]),
+    );
+
+    const simulacros = intentos.map((x) => {
+      const contestadas = califMap.get(x.id) ?? 0;
+      const aciertos = aciertoMap.get(x.id) ?? 0;
+      const minutos = x.finAt
+        ? Math.round((x.finAt.getTime() - x.inicioAt.getTime()) / 60000)
+        : null;
+      return {
+        id: x.id,
+        examen: x.examen.nombre,
+        tipo: x.examen.tipo,
+        calificable: x.examen.calificable,
+        fecha: x.finAt ?? x.inicioAt,
+        estado: x.estado,
+        minutos,
+        contestadas,
+        aciertos,
+        porcentaje:
+          contestadas > 0 ? Math.round((aciertos / contestadas) * 100) : null,
+      };
+    });
+
+    // ── Práctica libre ────────────────────────────────────────────────
+    const [practicaTotal, practicaAciertos] = await Promise.all([
+      this.prisma.respuestaPractica.count({ where: { usuarioId } }),
+      this.prisma.respuestaPractica.count({
+        where: { usuarioId, esCorrecta: true },
+      }),
+    ]);
+
+    // ── Constancia ────────────────────────────────────────────────────
+    const dias = await this.prisma.actividadDiaria.findMany({
+      where: { usuarioId },
+      select: { fecha: true },
+      orderBy: { fecha: 'desc' },
+    });
+    const hace30 = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000)
+      .toISOString()
+      .slice(0, 10);
+
+    // ── Repaso espaciado ──────────────────────────────────────────────
+    const [repasosTotal, repasosPendientes] = await Promise.all([
+      this.prisma.repasoReactivo.count({ where: { usuarioId } }),
+      this.prisma.repasoReactivo.count({
+        where: { usuarioId, proximoRepaso: { lte: new Date() } },
+      }),
+    ]);
+
+    // ── Semáforo por materia ──────────────────────────────────────────
+    // Junta las dos fuentes donde hay acierto o error: las respuestas de examen
+    // calificables y las de práctica. Una materia que falla en los dos lados es
+    // la que de verdad hay que reforzarle.
+    const [deExamen, dePractica] = await Promise.all([
+      this.prisma.respuestaReactivo.findMany({
+        where: { intentoExamen: { usuarioId }, esCorrecta: { not: null } },
+        select: { reactivoId: true, esCorrecta: true },
+      }),
+      this.prisma.respuestaPractica.findMany({
+        where: { usuarioId },
+        select: { reactivoId: true, esCorrecta: true },
+      }),
+    ]);
+    const todas = [...deExamen, ...dePractica];
+
+    const meta = await this.prisma.reactivo.findMany({
+      where: { id: { in: [...new Set(todas.map((r) => r.reactivoId))] } },
+      select: {
+        id: true,
+        bloque: { select: { nombre: true } },
+        temaBanco: {
+          select: {
+            capitulo: { select: { libro: { select: { materia: true } } } },
+          },
+        },
+      },
+    });
+    const metaMap = new Map(meta.map((m) => [m.id, m]));
+
+    const acc = new Map<string, { total: number; fallos: number }>();
+    for (const r of todas) {
+      const m = metaMap.get(r.reactivoId);
+      if (!m) continue;
+      // El cultural cuelga de tema→capítulo→libro; el psicológico, de bloque.
+      const materia =
+        m.temaBanco?.capitulo.libro.materia ?? m.bloque?.nombre ?? null;
+      if (!materia) continue;
+      const a = acc.get(materia) ?? { total: 0, fallos: 0 };
+      a.total += 1;
+      if (r.esCorrecta === false) a.fallos += 1;
+      acc.set(materia, a);
+    }
+
+    // MÍNIMO DE 5 RESPUESTAS para opinar de una materia. Con dos respuestas, un
+    // fallo da 50% de error y no significa nada: sólo asustaría.
+    const MINIMO = 5;
+    const materias = [...acc.entries()]
+      .map(([materia, a]) => ({
+        materia,
+        total: a.total,
+        fallos: a.fallos,
+        aciertos: a.total - a.fallos,
+        tasaError: Number(((a.fallos / a.total) * 100).toFixed(1)),
+        suficiente: a.total >= MINIMO,
+      }))
+      .sort((x, y) => y.tasaError - x.tasaError || y.total - x.total);
+
+    return {
+      usuario: { ...usuario, plantel: usuario.plantel?.nombre ?? null },
+      simulacros,
+      practica: {
+        total: practicaTotal,
+        aciertos: practicaAciertos,
+        porcentaje:
+          practicaTotal > 0
+            ? Math.round((practicaAciertos / practicaTotal) * 100)
+            : null,
+      },
+      constancia: {
+        diasActivos: dias.length,
+        ultimoDia: dias[0]?.fecha ?? null,
+        diasUltimos30: dias.filter((d) => d.fecha >= hace30).length,
+      },
+      repasos: { total: repasosTotal, pendientes: repasosPendientes },
+      materias,
+      minimoParaJuzgar: MINIMO,
+    };
   }
 
 }
