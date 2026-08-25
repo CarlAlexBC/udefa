@@ -85,7 +85,7 @@ export default function Home() {
                 El verdadero filtro no es <span className="text-accent">lo físico</span> ni <span className="text-accent">lo académico</span>.
               </h1>
 
-              <p className="mb-8 max-w-lg text-base leading-relaxed text-muted-foreground">
+              <p className="mb-8 max-w-lg text-base leading-relaxed text-primary-foreground/60">
                 Es la evaluación psicológica. Simuladores del examen creados por ex-cadetes y psicólogos militares. Formación mental completa.
               </p>
 
@@ -251,7 +251,7 @@ export default function Home() {
             <h2 className="text-3xl font-semibold tracking-tight">
               Elige tu ruta militar.
             </h2>
-            <p className="mx-auto mt-4 max-w-lg text-base leading-relaxed text-muted-foreground">
+            <p className="mx-auto mt-4 max-w-lg text-base leading-relaxed text-primary-foreground/60">
               Los planteles del Sistema Educativo Militar. El examen psicológico es el mismo para todos — tu plantel define la carrera.
             </p>
           </Revelar>
@@ -386,7 +386,7 @@ export default function Home() {
           <h2 className="mb-4 text-3xl font-semibold tracking-tight md:text-4xl">
             La institución no busca personas <span className="text-accent">perfectas</span>.
           </h2>
-          <p className="mx-auto mb-8 max-w-lg text-base text-muted-foreground">
+          <p className="mx-auto mb-8 max-w-lg text-base text-primary-foreground/60">
             Busca personas estables, coherentes y confiables. Nuestro sistema te forma para mostrar exactamente eso.
           </p>
           <Link
