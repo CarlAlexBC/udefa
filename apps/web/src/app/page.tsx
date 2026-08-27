@@ -274,13 +274,10 @@ export default function Home() {
             La historia de Carlo son casi cuatrocientas palabras: a 4xl el
             bloque se veía altísimo. A 5xl la columna de texto pasa de 512 a
             640 px, que son unos 80 caracteres por renglón — el máximo cómodo.
-            AHORA VA A 6xl PORQUE EL TEXTO SE PARTIÓ EN DOS COLUMNAS: los
-            768 px de la caja se reparten en dos de ~368, que son unos 46
-            caracteres por renglón. Ancho de periódico, cómodo de leer. Si
-            algún día se quitan las columnas, hay que regresar a 5xl — a una
-            sola columna, 768 px son ~96 caracteres y ahí el ojo pierde el
-            salto de renglón. */}
-        <div className="mx-auto max-w-6xl px-6">
+            NO subir a 6xl: ahí serían ~96 por renglón y el ojo empieza a
+            perder el salto de una línea a la siguiente. Se vería más corto y
+            se leería peor. */}
+        <div className="mx-auto max-w-5xl px-6">
           <div className="mb-8 text-center">
             <div className="mb-2 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-widest text-military">
               <span className="h-px w-5 bg-military" />

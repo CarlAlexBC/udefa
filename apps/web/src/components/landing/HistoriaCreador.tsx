@@ -10,13 +10,11 @@ import { ChevronDown } from 'lucide-react'
  * de la portada que no puede sonar a nadie más. Si hay que corregir algo, que
  * sea ortografía, y avisándole.
  *
- * SE PLIEGA SÓLO EN TELÉFONO, y por sitio, no por contenido: son casi
- * cuatrocientas palabras en una portada que ya carga bastante. Ahí se muestran
- * los cuatro párrafos del arco —los dos intentos fallidos y el tercero que sí—
- * que es donde el aspirante se reconoce, y el resto se abre para quien quiera
+ * VA PLEGADA A LA MITAD por una razón de sitio, no de contenido: son casi
+ * cuatrocientas palabras en una portada que ya carga bastante. Se muestran los
+ * cuatro párrafos del arco —los dos intentos fallidos y el tercero que sí— que
+ * es donde el aspirante se reconoce, y el resto se abre para quien quiera
  * seguir. Quien se detuvo ahí, ya recibió lo importante.
- *
- * En pantalla ancha no se pliega nada: las dos columnas ya resuelven el alto.
  *
  * EL CIERRE SE VE SIEMPRE, esté abierta o cerrada. Es la promesa que le hace al
  * que está leyendo, y una sección que termina en un botón de "leer más" no
@@ -54,42 +52,26 @@ export function HistoriaCreador() {
 
   return (
     <div>
-      {/* DOS COLUMNAS EN PANTALLA ANCHA, UNA EN TELÉFONO.
-          En computadora la historia cabe en la mitad de alto, y por eso ahí no
-          hace falta plegarla: se ve entera y el botón desaparece. En teléfono
-          dos columnas darían renglones de veinte caracteres, ilegibles, así
-          que se queda en una sola y con el «Seguir leyendo».
-          La clase break-inside-avoid impide que un párrafo se parta a la mitad
-          entre el pie de una columna y la cabeza de la otra. */}
-      <div className="lg:columns-2 lg:gap-8">
+      <div className="flex flex-col gap-3">
         {ARRANQUE.map((p) => (
-          <p
-            key={p}
-            className="mb-3 break-inside-avoid text-base leading-relaxed text-foreground"
-          >
+          <p key={p} className="text-base leading-relaxed text-foreground">
             {p}
           </p>
         ))}
 
-        {RESTO.map((p) => (
-          <p
-            key={p}
-            className={
-              'mb-3 break-inside-avoid text-base leading-relaxed text-foreground' +
-              (abierta ? '' : ' hidden lg:block')
-            }
-          >
-            {p}
-          </p>
-        ))}
+        {abierta &&
+          RESTO.map((p) => (
+            <p key={p} className="text-base leading-relaxed text-foreground">
+              {p}
+            </p>
+          ))}
       </div>
 
-      {/* El botón sólo existe donde hay algo escondido: en teléfono. */}
       {!abierta && (
         <button
           type="button"
           onClick={() => setAbierta(true)}
-          className="mt-1 inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline lg:hidden"
+          className="mt-3 inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline"
         >
           Seguir leyendo
           <ChevronDown className="h-3.5 w-3.5" />
