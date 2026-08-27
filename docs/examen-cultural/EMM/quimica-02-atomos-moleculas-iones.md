@@ -2246,9 +2246,7 @@ De acuerdo con el libro de Química, ¿por qué se recurre a los nombres comunes
 Algunos compuestos se conocen mejor por sus nombres comunes que por sus nombres químicos sistemáticos. En la tabla 2.7 se enumeran ejemplos familiares.
 
 ### 137
-
-De conformidad con el libro de Química, según la tabla 2.7, ¿cuál es el nombre sistemático del compuesto conocido comúnmente como hielo seco?
-
+De conformidad con el libro de Química, ¿cuál es el nombre sistemático del compuesto conocido comúnmente como hielo seco?
 - A. Dióxido de carbono sólido
 - B. Monóxido de dihidrógeno
 - C. Monóxido de dinitrógeno
@@ -2261,9 +2259,7 @@ De conformidad con el libro de Química, según la tabla 2.7, ¿cuál es el nomb
 Tabla 2.7, Nombres comunes y sistemáticos de algunos compuestos. Hielo seco: dióxido de carbono sólido.
 
 ### 138
-
-En relación con el libro de Química, según la tabla 2.7, ¿qué compuesto se conoce comúnmente como gas de la risa?
-
+En relación con el libro de Química, ¿qué compuesto se conoce comúnmente como gas de la risa?
 - A. El monóxido de dinitrógeno
 - B. El nitruro de trihidrógeno
 - C. El dióxido de carbono sólido
@@ -2276,9 +2272,7 @@ En relación con el libro de Química, según la tabla 2.7, ¿qué compuesto se 
 Tabla 2.7, Nombres comunes y sistemáticos de algunos compuestos. Gas de la risa: monóxido de dinitrógeno.
 
 ### 139
-
-De acuerdo con el libro de Química, según la tabla 2.7, ¿cuáles son los nombres sistemáticos de la cal viva y de la cal apagada?
-
+De acuerdo con el libro de Química, ¿cuáles son los nombres sistemáticos de la cal viva y de la cal apagada?
 - A. Óxido de calcio e hidróxido de calcio, respectivamente
 - B. Hidróxido de calcio y óxido de calcio, respectivamente
 - C. Carbonato de calcio y sulfato de calcio dihidrato, respectivamente
@@ -2291,9 +2285,7 @@ De acuerdo con el libro de Química, según la tabla 2.7, ¿cuáles son los nomb
 Tabla 2.7, Nombres comunes y sistemáticos de algunos compuestos. Cal viva: óxido de calcio. Cal apagada: hidróxido de calcio.
 
 ### 140
-
-De conformidad con el libro de Química, según la tabla 2.7, ¿con qué nombres comunes se conoce al carbonato de calcio?
-
+De conformidad con el libro de Química, ¿con qué nombres comunes se conoce al carbonato de calcio?
 - A. Mármol, tiza y piedra caliza
 - B. Cal viva y cal apagada
 - C. Yeso y sal de Epsom
@@ -2306,9 +2298,7 @@ De conformidad con el libro de Química, según la tabla 2.7, ¿con qué nombres
 Tabla 2.7, Nombres comunes y sistemáticos de algunos compuestos. Mármol, tiza, piedra caliza: carbonato de calcio.
 
 ### 141
-
-En relación con el libro de Química, según la tabla 2.7, ¿cuáles son los nombres sistemáticos de la sal de Epsom y del yeso?
-
+En relación con el libro de Química, ¿cuáles son los nombres sistemáticos de la sal de Epsom y del yeso?
 - A. Sulfato de magnesio heptahidratado y sulfato de calcio dihidrato, respectivamente
 - B. Sulfato de calcio dihidrato y sulfato de magnesio heptahidratado, respectivamente
 - C. Carbonato de sodio decahidratado e hidróxido de magnesio, respectivamente
@@ -2400,9 +2390,7 @@ De conformidad con el libro de Química, ¿a partir de qué alcano se usan los p
 Comenzando con C5H12, usamos los prefijos griegos de la tabla 2.4 para indicar el número de átomos de carbono presentes.
 
 ### 147
-
-En relación con el libro de Química, según la tabla 2.8, ¿qué fórmulas corresponden al metano, al etano y al propano?
-
+En relación con el libro de Química, ¿qué fórmulas corresponden al metano, al etano y al propano?
 - A. CH4, C2H6 y C3H8, respectivamente
 - B. C2H6, C3H8 y C4H10, respectivamente
 - C. CH4, C2H4 y C3H6, respectivamente
@@ -2415,9 +2403,7 @@ En relación con el libro de Química, según la tabla 2.8, ¿qué fórmulas cor
 Tabla 2.8, Los primeros 10 alcanos de cadena lineal. Metano, CH4; etano, C2H6; propano, C3H8.
 
 ### 148
-
-De acuerdo con el libro de Química, según la tabla 2.8, ¿qué fórmulas corresponden al butano y al pentano?
-
+De acuerdo con el libro de Química, ¿qué fórmulas corresponden al butano y al pentano?
 - A. C4H10 y C5H12, respectivamente
 - B. C5H12 y C6H14, respectivamente
 - C. C4H8 y C5H10, respectivamente
@@ -2430,9 +2416,7 @@ De acuerdo con el libro de Química, según la tabla 2.8, ¿qué fórmulas corre
 Tabla 2.8, Los primeros 10 alcanos de cadena lineal. Butano, C4H10; pentano, C5H12.
 
 ### 149
-
-De conformidad con el libro de Química, según la tabla 2.8, ¿qué fórmulas corresponden al octano y al decano?
-
+De conformidad con el libro de Química, ¿qué fórmulas corresponden al octano y al decano?
 - A. C8H18 y C10H22, respectivamente
 - B. C8H16 y C10H20, respectivamente
 - C. C9H20 y C10H22, respectivamente

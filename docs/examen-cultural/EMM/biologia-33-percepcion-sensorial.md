@@ -292,9 +292,7 @@ De acuerdo con el libro de Biología, ¿qué ocurre con los potenciales de acci�
 Cuanto más intenso es el estímulo, mayor es la frecuencia de los potenciales de acción que se desencadenan.
 
 ### 14
-
-En relación con el libro de Biología, según la figura 33-1, ¿a qué porción del espectro electromagnético responde el ojo humano?
-
+En relación con el libro de Biología, ¿a qué porción del espectro electromagnético responde el ojo humano?
 - A. A la porción visible, entre los 400 y 700 nanómetros, del violeta al rojo
 - B. A la porción ultravioleta del espectro
 - C. A la porción infrarroja del espectro
@@ -307,9 +305,7 @@ En relación con el libro de Biología, según la figura 33-1, ¿a qué porción
 El ojo humano responde a la porción visible del espectro electromagnético entre los 400 y 700 nanómetros –del violeta al rojo–.
 
 ### 15
-
-De acuerdo con el libro de Biología, según la figura 33-1, ¿qué colores no puede distinguir la abeja melífera?
-
+De acuerdo con el libro de Biología, ¿qué colores no puede distinguir la abeja melífera?
 - A. No puede distinguir el rojo del gris
 - B. No puede distinguir el violeta del azul
 - C. No puede distinguir el verde del amarillo
@@ -478,9 +474,7 @@ La información participa de forma principal en: a) la percepción; b) el contro
 ## Sub-lote 5 · Anatomía del ojo humano (figura 33-2, p. 781)
 
 ### 26
-
-De acuerdo con el libro de Biología, según la figura 33-2, ¿cómo está compuesto el ojo humano?
-
+De acuerdo con el libro de Biología, ¿cómo está compuesto el ojo humano?
 - A. Por tres capas de tejido que forman una esfera llena de líquido
 - B. Por dos capas de tejido que forman un disco plano
 - C. Por una sola capa de tejido transparente
@@ -493,9 +487,7 @@ De acuerdo con el libro de Biología, según la figura 33-2, ¿cómo está compu
 El ojo humano es un órgano complejo compuesto por tres capas de tejido que forman una esfera llena de líquido.
 
 ### 27
-
-En relación con el libro de Biología, según la figura 33-2, ¿qué es la esclerótica, la capa externa del ojo?
-
+En relación con el libro de Biología, ¿qué es la esclerótica, la capa externa del ojo?
 - A. Tejido conectivo blanco y fibroso que cumple una función protectora
 - B. Una capa media que contiene vasos sanguíneos
 - C. La capa más interna que contiene los fotorreceptores
@@ -508,9 +500,7 @@ En relación con el libro de Biología, según la figura 33-2, ¿qué es la escl
 La capa externa –la esclerótica– es tejido conectivo blanco y fibroso, que cumple una función protectora.
 
 ### 28
-
-De acuerdo con el libro de Biología, según la figura 33-2, ¿qué es la córnea?
-
+De acuerdo con el libro de Biología, ¿qué es la córnea?
 - A. La porción anterior de la esclerótica, que es transparente
 - B. La capa media del ojo, que contiene vasos sanguíneos
 - C. La zona de la retina de mayor agudeza visual
@@ -523,9 +513,7 @@ De acuerdo con el libro de Biología, según la figura 33-2, ¿qué es la córne
 La porción anterior de la esclerótica –la córnea– es transparente.
 
 ### 29
-
-En relación con el libro de Biología, según la figura 33-2, ¿qué contiene la coroides, la capa media del ojo?
-
+En relación con el libro de Biología, ¿qué contiene la coroides, la capa media del ojo?
 - A. Vasos sanguíneos
 - B. Las células fotorreceptoras
 - C. Tejido conectivo blanco y fibroso
@@ -538,9 +526,7 @@ En relación con el libro de Biología, según la figura 33-2, ¿qué contiene l
 La capa media –la coroides– contiene vasos sanguíneos.
 
 ### 30
-
-De acuerdo con el libro de Biología, según la figura 33-2, ¿qué células contiene la retina, la capa más interna del ojo?
-
+De acuerdo con el libro de Biología, ¿qué células contiene la retina, la capa más interna del ojo?
 - A. Las células fotorreceptoras: los bastones y los conos
 - B. Las células del músculo ciliar
 - C. Los vasos sanguíneos de la coroides
@@ -553,9 +539,7 @@ De acuerdo con el libro de Biología, según la figura 33-2, ¿qué células con
 La capa más interna del ojo –la retina– contiene las células fotorreceptoras: los bastones y los conos.
 
 ### 31
-
-En relación con el libro de Biología, según la figura 33-2, ¿qué es la fóvea?
-
+En relación con el libro de Biología, ¿qué es la fóvea?
 - A. La zona de la retina, cerca de su centro, de mayor agudeza visual
 - B. La porción transparente anterior de la esclerótica
 - C. El orificio central del iris
@@ -568,9 +552,7 @@ En relación con el libro de Biología, según la figura 33-2, ¿qué es la fóv
 La fóvea, cerca del centro de la retina, es la zona de mayor agudeza visual.
 
 ### 32
-
-De acuerdo con el libro de Biología, según la figura 33-2, ¿qué es la pupila?
-
+De acuerdo con el libro de Biología, ¿qué es la pupila?
 - A. Un orificio en el centro del iris, cuyo tamaño regulan los músculos circulares del iris
 - B. La parte coloreada del ojo
 - C. La capa externa protectora del ojo
@@ -583,9 +565,7 @@ De acuerdo con el libro de Biología, según la figura 33-2, ¿qué es la pupila
 La pupila es un orificio en el centro del iris, cuyo tamaño está regulado por el control de los músculos circulares del iris.
 
 ### 33
-
-En relación con el libro de Biología, según la figura 33-2, ¿qué es el iris?
-
+En relación con el libro de Biología, ¿qué es el iris?
 - A. La parte coloreada del ojo, una estructura circular unida al cuerpo ciliar
 - B. La capa más interna del ojo, que contiene los fotorreceptores
 - C. El tejido conectivo blanco y fibroso de la capa externa
@@ -598,9 +578,7 @@ En relación con el libro de Biología, según la figura 33-2, ¿qué es el iris
 La parte coloreada del ojo –el iris– es una estructura circular unida al cuerpo ciliar.
 
 ### 34
-
-De acuerdo con el libro de Biología, según la figura 33-2, ¿qué es el músculo ciliar?
-
+De acuerdo con el libro de Biología, ¿qué es el músculo ciliar?
 - A. Un círculo de músculo liso desde el cual se extienden los ligamentos suspensores que mantienen al cristalino en posición
 - B. La parte coloreada del ojo, unida a la pupila
 - C. La capa media del ojo, que contiene los vasos sanguíneos
@@ -1058,9 +1036,7 @@ De acuerdo con el libro de Biología, ¿cómo se denominan los pequeños cuerpos
 El movimiento vertical u horizontal produce la estimulación del sáculo y el utrículo, debido a la acción de pequeños cuerpos de carbonato de calcio denominados otolitos, que pueden deformar y estimular los receptores del aparato vestibular.
 
 ### 64
-
-En relación con el libro de Biología, según la figura 33-5, ¿qué ocurre cuando las ondas de sonido entran por el oído externo?
-
+En relación con el libro de Biología, ¿qué ocurre cuando las ondas de sonido entran por el oído externo?
 - A. Chocan con la membrana timpánica y la hacen vibrar
 - B. Estimulan directamente la fóvea de la retina
 - C. Deforman los otolitos del aparato vestibular
@@ -1073,9 +1049,7 @@ En relación con el libro de Biología, según la figura 33-5, ¿qué ocurre cua
 Las ondas de sonido entran por el oído externo, chocan con la membrana timpánica y la hacen vibrar.
 
 ### 65
-
-De acuerdo con el libro de Biología, según la figura 33-5, ¿por qué se amplifica el sonido que entró por el oído externo?
-
+De acuerdo con el libro de Biología, ¿por qué se amplifica el sonido que entró por el oído externo?
 - A. Porque la ventana oval es más pequeña que el tímpano, así que la presión se distribuye en un área menor y resulta mayor
 - B. Porque la ventana oval es más grande que el tímpano y reparte la presión en un área mayor
 - C. Porque los otolitos aumentan la energía de las ondas sonoras
@@ -1088,9 +1062,7 @@ De acuerdo con el libro de Biología, según la figura 33-5, ¿por qué se ampli
 Como esta última membrana [la ventana oval] es más pequeña que el tímpano, la presión se distribuye en un área menor y da como resultado una presión (fuerza por unidad de área) mayor. Así, el sonido que entró por el oído externo se amplifica.
 
 ### 66
-
-En relación con el libro de Biología, según la figura 33-5, ¿cómo es la cóclea?
-
+En relación con el libro de Biología, ¿cómo es la cóclea?
 - A. Un canal espiralado dividido en dos cámaras, con un canal timpánico entre ellas, y las tres cámaras contienen líquido
 - B. Una cavidad única llena de aire limitada por el tímpano
 - C. Un tubo recto conectado a la faringe superior
@@ -1103,9 +1075,7 @@ En relación con el libro de Biología, según la figura 33-5, ¿cómo es la có
 La cóclea es un canal espiralado, dividido en dos cámaras –una superior y otra inferior– con un canal timpánico entre ellas. Las tres cámaras contienen líquido.
 
 ### 67
-
-De acuerdo con el libro de Biología, según la figura 33-5, ¿qué estructura forma el piso del canal timpánico de la cóclea, y qué órgano yace sobre ella?
-
+De acuerdo con el libro de Biología, ¿qué estructura forma el piso del canal timpánico de la cóclea, y qué órgano yace sobre ella?
 - A. La membrana basilar, sobre la cual yace el órgano de Corti
 - B. La ventana oval, sobre la cual yace el estribo
 - C. La membrana tectorial, sobre la cual yacen los otolitos
@@ -1118,9 +1088,7 @@ De acuerdo con el libro de Biología, según la figura 33-5, ¿qué estructura f
 El piso del canal timpánico está formado por la membrana basilar, sobre la cual yace el órgano de Corti, el verdadero órgano sensorial.
 
 ### 68
-
-En relación con el libro de Biología, según la figura 33-5, ¿cuál es el verdadero órgano sensorial de la audición, que yace sobre la membrana basilar?
-
+En relación con el libro de Biología, ¿cuál es el verdadero órgano sensorial de la audición, que yace sobre la membrana basilar?
 - A. El órgano de Corti
 - B. El aparato vestibular
 - C. La ventana oval
@@ -1422,9 +1390,7 @@ De acuerdo con el libro de Biología, ¿cuál es el quinto sabor reconocido actu
 Actualmente se reconoce un quinto sabor: umami, que significa "delicioso" en japonés y que corresponde al glutamato.
 
 ### 88
-
-En relación con el libro de Biología, según la figura 33-7, ¿qué es el epitelio olfatorio?
-
+En relación con el libro de Biología, ¿qué es el epitelio olfatorio?
 - A. Un tejido especializado que recubre el techo de cada cavidad nasal y es responsable de nuestro sentido del olfato
 - B. La capa más interna del ojo que contiene los fotorreceptores
 - C. La membrana que forma el piso del canal timpánico de la cóclea
@@ -1437,9 +1403,7 @@ En relación con el libro de Biología, según la figura 33-7, ¿qué es el epit
 El epitelio olfatorio, un tejido especializado que recubre el techo de cada cavidad nasal, es responsable de nuestro sentido del olfato.
 
 ### 89
-
-De acuerdo con el libro de Biología, según la figura 33-7, ¿por qué tres tipos de células está compuesto el epitelio olfatorio?
-
+De acuerdo con el libro de Biología, ¿por qué tres tipos de células está compuesto el epitelio olfatorio?
 - A. Células de soporte, células basales y neurorreceptores olfatorios
 - B. Conos, bastones y células ganglionares
 - C. Células ciliadas, otolitos y células de soporte
@@ -2693,9 +2657,7 @@ De acuerdo con el libro de Biología, ¿en qué unidades están organizadas las 
 Las miofibrillas están organizadas en unidades llamadas sarcómeros, que se repiten uno tras otro, en serie.
 
 ### 171
-
-En relación con el libro de Biología, según la figura 33-16, ¿qué es la línea Z?
-
+En relación con el libro de Biología, ¿qué es la línea Z?
 - A. La zona en la que están anclados los filamentos delgados de los sarcómeros contiguos
 - B. La región que solo contiene filamentos gruesos
 - C. La parte de la banda A en la que no hay filamentos delgados

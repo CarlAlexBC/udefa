@@ -533,9 +533,7 @@ De acuerdo con el libro de Biología, el tamaño de los órganos nerviosos se co
 El masivo encéfalo humano, de alrededor de 1400 cm³, cuenta con cerca de 86 000 millones de neuronas, mientras que la abeja lleva 7000 neuronas en un cerebro de menos de 1 mm³.
 
 ### 20
-
-De acuerdo con el libro de Biología, según la figura 32-1, ¿cómo forman las neuronas el sistema nervioso en los cnidarios?
-
+De acuerdo con el libro de Biología, ¿cómo forman las neuronas el sistema nervioso en los cnidarios?
 - A. Forman una red nerviosa difusa
 - B. Forman un encéfalo protegido por el cráneo
 - C. Forman una corteza cerebral plegada
@@ -909,9 +907,7 @@ De acuerdo con el libro de Biología, ¿en qué es una región fundamental el di
 El diencéfalo es una región fundamental en lo que hace al procesamiento de información, la regulación de las funciones viscerales y endocrinas, y en la regulación de los ritmos biológicos.
 
 ### 44
-
-De acuerdo con el libro de Biología, según la figura 32-4, ¿en qué dos haces de fibras se divide cada nervio espinal o raquídeo?
-
+De acuerdo con el libro de Biología, ¿en qué dos haces de fibras se divide cada nervio espinal o raquídeo?
 - A. La raíz dorsal sensitiva y la raíz ventral motora
 - B. La raíz dorsal motora y la raíz ventral sensitiva
 - C. La sustancia gris y la sustancia blanca
@@ -924,9 +920,7 @@ De acuerdo con el libro de Biología, según la figura 32-4, ¿en qué dos haces
 Cada nervio espinal o raquídeo se divide en dos haces de fibras, la raíz dorsal sensitiva y la raíz ventral motora, en la columna vertebral.
 
 ### 45
-
-De acuerdo con el libro de Biología, según la figura 32-4, ¿dónde se encuentran los cuerpos celulares de las neuronas sensoriales?
-
+De acuerdo con el libro de Biología, ¿dónde se encuentran los cuerpos celulares de las neuronas sensoriales?
 - A. En los ganglios de la raíz dorsal
 - B. En la propia médula espinal
 - C. En el cerebelo
@@ -939,9 +933,7 @@ De acuerdo con el libro de Biología, según la figura 32-4, ¿dónde se encuent
 Los cuerpos celulares de las neuronas sensoriales se encuentran en los ganglios de la raíz dorsal.
 
 ### 46
-
-De acuerdo con el libro de Biología, según la figura 32-3, ¿en qué dos partes se divide el sistema nervioso periférico?
-
+De acuerdo con el libro de Biología, ¿en qué dos partes se divide el sistema nervioso periférico?
 - A. En el somático y el autónomo
 - B. En el central y el periférico
 - C. En la sustancia gris y la sustancia blanca
@@ -954,9 +946,7 @@ De acuerdo con el libro de Biología, según la figura 32-3, ¿en qué dos parte
 El sistema nervioso periférico se divide en somático y autónomo.
 
 ### 47
-
-De acuerdo con el libro de Biología, según la figura 32-3, ¿en qué divisiones se subdivide el sistema nervioso autónomo?
-
+De acuerdo con el libro de Biología, ¿en qué divisiones se subdivide el sistema nervioso autónomo?
 - A. En la división simpática, la parasimpática y la entérica
 - B. En la somática y la motora
 - C. En la dorsal y la ventral
@@ -1281,9 +1271,7 @@ De acuerdo con el libro de Biología, según el ejemplo del pinchazo al caminar,
 Si, por ejemplo, nos pinchamos al caminar, automáticamente retiramos el pie sin necesidad de pensar en ello. Casi al mismo tiempo, el cerebro toma conciencia de lo que ha ocurrido y adopta alguna medida o comportamiento posterior.
 
 ### 68
-
-De acuerdo con el libro de Biología, según la figura 32-5, cuando reciben un estímulo como un pinchazo, ¿a qué estimulan las células receptoras sensoriales y adónde retransmite la señal?
-
+De acuerdo con el libro de Biología, cuando reciben un estímulo como un pinchazo, ¿a qué estimulan las células receptoras sensoriales y adónde retransmite la señal?
 - A. Estimulan a una neurona sensorial, que retransmite la señal a una interneurona situada dentro de una zona localizada del sistema nervioso central, con frecuencia la médula espinal
 - B. Estimulan directamente a una neurona motora, que retransmite la señal al músculo
 - C. Estimulan a una interneurona, que retransmite la señal a los ganglios de la raíz dorsal
@@ -1296,9 +1284,7 @@ De acuerdo con el libro de Biología, según la figura 32-5, cuando reciben un e
 Cuando reciben un estímulo, como un pinchazo, las células receptoras sensoriales estimulan a una neurona sensorial, que retransmite la señal a una interneurona situada dentro de una zona localizada del sistema nervioso central, con frecuencia la médula espinal.
 
 ### 69
-
-De acuerdo con el libro de Biología, según la figura 32-5, ¿en qué animales se encuentran los componentes básicos del arco reflejo?
-
+De acuerdo con el libro de Biología, ¿en qué animales se encuentran los componentes básicos del arco reflejo?
 - A. En todos los vertebrados
 - B. Solo en los mamíferos
 - C. Solo en los primates
@@ -1311,9 +1297,7 @@ De acuerdo con el libro de Biología, según la figura 32-5, ¿en qué animales 
 Estos componentes básicos del arco reflejo se encuentran en todos los vertebrados.
 
 ### 70
-
-De acuerdo con el libro de Biología, según la figura 32-5, ¿qué papel desempeñan los arcos reflejos?
-
+De acuerdo con el libro de Biología, ¿qué papel desempeñan los arcos reflejos?
 - A. Un papel esencial en la regulación de muchos procesos internos y permiten respuestas casi instantáneas a numerosos estímulos ambientales
 - B. Un papel secundario, limitado exclusivamente a la digestión
 - C. Regulan únicamente la consciencia y los estados de ánimo
@@ -1326,9 +1310,7 @@ De acuerdo con el libro de Biología, según la figura 32-5, ¿qué papel desemp
 Los arcos reflejos desempeñan un papel esencial en la regulación de muchos procesos internos y permiten respuestas casi instantáneas a numerosos estímulos ambientales.
 
 ### 71
-
-De acuerdo con el libro de Biología, según la figura 32-6 sobre el arco reflejo polisináptico, ¿cómo se conducen las señales generadas por las terminales nerviosas libres de la piel?
-
+De acuerdo con el libro de Biología, ¿cómo se conducen las señales generadas por las terminales nerviosas libres de la piel?
 - A. De forma aferente a lo largo de la neurona sensorial hacia una interneurona ubicada en la sustancia gris de la médula espinal
 - B. De forma eferente a lo largo de la neurona motora hacia la piel
 - C. Directamente hacia los efectores musculares, sin pasar por la médula espinal
@@ -1341,9 +1323,7 @@ De acuerdo con el libro de Biología, según la figura 32-6 sobre el arco reflej
 Las terminales nerviosas libres de la piel (receptores), cuando se estimulan de manera apropiada, generan señales nerviosas que son conducidas de forma aferente a lo largo de la neurona sensorial hacia una interneurona ubicada en la sustancia gris de la médula espinal.
 
 ### 72
-
-De acuerdo con el libro de Biología, según la figura 32-6, ¿cómo se realiza la comunicación entre las neuronas mencionadas y entre la neurona motora y el músculo?
-
+De acuerdo con el libro de Biología, ¿cómo se realiza la comunicación entre las neuronas mencionadas y entre la neurona motora y el músculo?
 - A. A través de sinapsis
 - B. A través de la vaina de mielina
 - C. A través del líquido cefalorraquídeo
@@ -1724,9 +1704,7 @@ De acuerdo con el libro de Biología, a diferencia de la simpática, ¿qué regu
 La división parasimpática, por el contrario, regula de manera primaria las actividades restauradoras del cuerpo; por ejemplo, es particularmente activa después de una comida copiosa.
 
 ### 97
-
-De acuerdo con el libro de Biología, según la figura 32-7, ¿cómo están formadas ambas divisiones (simpática y parasimpática) del sistema nervioso autónomo?
-
+De acuerdo con el libro de Biología, ¿cómo están formadas ambas divisiones (simpática y parasimpática) del sistema nervioso autónomo?
 - A. Por dos neuronas articuladas en los ganglios autónomos por una sinapsis
 - B. Por una sola neurona que va del sistema nervioso central al efector sin sinapsis
 - C. Por tres neuronas conectadas en serie dentro de la médula espinal
@@ -1739,9 +1717,7 @@ De acuerdo con el libro de Biología, según la figura 32-7, ¿cómo están form
 El sistema nervioso autónomo comprende la división simpática y parasimpática, ambas formadas por dos neuronas articuladas en los ganglios autónomos por una sinapsis.
 
 ### 98
-
-De acuerdo con el libro de Biología, según la figura 32-7, ¿de dónde salen las fibras preganglionares del sistema nervioso parasimpático?
-
+De acuerdo con el libro de Biología, ¿de dónde salen las fibras preganglionares del sistema nervioso parasimpático?
 - A. Del tronco cerebral y de la región sacra de la médula espinal
 - B. De las regiones torácica y lumbar de la médula espinal
 - C. Únicamente de la corteza cerebral
@@ -1754,9 +1730,7 @@ De acuerdo con el libro de Biología, según la figura 32-7, ¿de dónde salen l
 Las fibras preganglionares del sistema nervioso parasimpático salen del tronco cerebral y de la región sacra de la médula espinal.
 
 ### 99
-
-De acuerdo con el libro de Biología, según la figura 32-7, las fibras preganglionares parasimpáticas establecen sinapsis con las neuronas posganglionares, ¿en qué ganglios?
-
+De acuerdo con el libro de Biología, las fibras preganglionares parasimpáticas establecen sinapsis con las neuronas posganglionares, ¿en qué ganglios?
 - A. En los ganglios ubicados en los órganos blanco o cerca de ellos
 - B. En la cadena de ganglios simpáticos
 - C. En el ganglio celíaco exclusivamente
@@ -1769,9 +1743,7 @@ De acuerdo con el libro de Biología, según la figura 32-7, las fibras pregangl
 Las fibras preganglionares del sistema nervioso parasimpático establecen sinapsis con las neuronas posganglionares de los ganglios ubicados en los órganos blanco o cerca de ellos.
 
 ### 100
-
-De acuerdo con el libro de Biología, según la figura 32-7, ¿en qué regiones de la médula espinal se origina el sistema nervioso simpático?
-
+De acuerdo con el libro de Biología, ¿en qué regiones de la médula espinal se origina el sistema nervioso simpático?
 - A. En las regiones torácica y lumbar
 - B. En el tronco cerebral y la región sacra
 - C. En la región cervical únicamente
@@ -1786,9 +1758,7 @@ El sistema nervioso simpático se origina en las regiones torácica y lumbar de 
 > Contraste fácil de invertir: el **parasimpático** sale del tronco cerebral y la región **sacra** (reactivo 98); el **simpático** se origina en las regiones **torácica y lumbar**.
 
 ### 101
-
-De acuerdo con el libro de Biología, según la figura 32-7, ¿cómo son las fibras preganglionares de la división simpática y dónde hacen sinapsis?
-
+De acuerdo con el libro de Biología, ¿cómo son las fibras preganglionares de la división simpática y dónde hacen sinapsis?
 - A. Son cortas y hacen sinapsis con las neuronas posganglionares en la cadena de ganglios simpáticos o en otros ganglios, como el ganglio celíaco
 - B. Son largas y hacen sinapsis directamente dentro de los órganos blanco
 - C. Son cortas y hacen sinapsis dentro del tronco cerebral
@@ -1801,9 +1771,7 @@ De acuerdo con el libro de Biología, según la figura 32-7, ¿cómo son las fib
 Las fibras preganglionares de la división simpática son cortas y hacen sinapsis con las neuronas posganglionares en la cadena de ganglios simpáticos o en otros ganglios, como el ganglio celíaco.
 
 ### 102
-
-De acuerdo con el libro de Biología, según la figura 32-7, ¿qué sustancias también son secretadas por la médula de la glándula suprarrenal?
-
+De acuerdo con el libro de Biología, ¿qué sustancias también son secretadas por la médula de la glándula suprarrenal?
 - A. La noradrenalina y la adrenalina
 - B. La acetilcolina y la serotonina
 - C. La insulina y el glucagón
@@ -1816,9 +1784,7 @@ De acuerdo con el libro de Biología, según la figura 32-7, ¿qué sustancias t
 La noradrenalina y la adrenalina también son secretadas por la médula de la glándula suprarrenal.
 
 ### 103
-
-De acuerdo con el libro de Biología, según la figura 32-7, ¿qué tipo de inervación reciben la mayoría de los órganos internos y con qué fin?
-
+De acuerdo con el libro de Biología, ¿qué tipo de inervación reciben la mayoría de los órganos internos y con qué fin?
 - A. Doble inervación —simpática y parasimpática—, que en conjunto regula la homeostasis del medio interno y, en el caso del simpático, prepara al organismo para la acción
 - B. Inervación única simpática, cuyo fin es solo preparar para la acción
 - C. Inervación única parasimpática, cuyo fin es solo regular el reposo
@@ -1850,9 +1816,7 @@ Los paneles muestran la estructura química de la noradrenalina y la estructura 
 ## Sub-lote 11 · Los efectos antagónicos del SNA sobre los órganos (fig. 32-7, p. 764)
 
 ### 105
-
-De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene cada división sobre la pupila?
-
+De acuerdo con el libro de Biología, ¿qué efecto tiene cada división sobre la pupila?
 - A. El simpático dilata la pupila y el parasimpático (oculomotor) la contrae
 - B. El simpático contrae la pupila y el parasimpático la dilata
 - C. Ambas divisiones dilatan la pupila
@@ -1865,9 +1829,7 @@ De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene
 En la figura 32-7, el simpático "dilata la pupila", mientras que el parasimpático, por el nervio oculomotor, "contrae la pupila".
 
 ### 106
-
-De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene cada división sobre el latido del corazón?
-
+De acuerdo con el libro de Biología, ¿qué efecto tiene cada división sobre el latido del corazón?
 - A. El simpático acelera el latido cardíaco y refuerza la contracción, mientras que el parasimpático hace más lento el latido
 - B. El simpático hace más lento el latido y el parasimpático lo acelera
 - C. Ambas divisiones aceleran el latido cardíaco
@@ -1880,9 +1842,7 @@ De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene
 En la figura 32-7, el simpático "acelera el latido cardíaco, refuerza la contracción", mientras que el parasimpático "hace más lento el latido".
 
 ### 107
-
-De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene cada división sobre los bronquios?
-
+De acuerdo con el libro de Biología, ¿qué efecto tiene cada división sobre los bronquios?
 - A. El simpático relaja los bronquios y el parasimpático los contrae
 - B. El simpático contrae los bronquios y el parasimpático los relaja
 - C. Ambas divisiones relajan los bronquios
@@ -1895,9 +1855,7 @@ De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene
 En la figura 32-7, el simpático "relaja los bronquios", mientras que el parasimpático "contrae los bronquios".
 
 ### 108
-
-De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene cada división sobre la actividad del estómago?
-
+De acuerdo con el libro de Biología, ¿qué efecto tiene cada división sobre la actividad del estómago?
 - A. El simpático inhibe la actividad y el parasimpático la estimula
 - B. El simpático estimula la actividad y el parasimpático la inhibe
 - C. Ambas divisiones inhiben la actividad del estómago
@@ -1910,9 +1868,7 @@ De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene
 En la figura 32-7, sobre el estómago el simpático "inhibe la actividad", mientras que el parasimpático "estimula la actividad".
 
 ### 109
-
-De acuerdo con el libro de Biología, según la figura 32-7, ¿cómo estimula cada división la salivación?
-
+De acuerdo con el libro de Biología, ¿cómo estimula cada división la salivación?
 - A. El parasimpático (nervio facial) la estimula fuertemente y el simpático la estimula débilmente
 - B. El parasimpático la estimula débilmente y el simpático la estimula fuertemente
 - C. Solo el simpático estimula la salivación
@@ -1925,9 +1881,7 @@ De acuerdo con el libro de Biología, según la figura 32-7, ¿cómo estimula ca
 En la figura 32-7, el parasimpático, por el nervio facial, "estimula la salivación (fuertemente)", mientras que el simpático "estimula la salivación (débilmente)".
 
 ### 110
-
-De acuerdo con el libro de Biología, según la figura 32-7, ¿qué efecto tiene cada división sobre la vejiga?
-
+De acuerdo con el libro de Biología, ¿qué efecto tiene cada división sobre la vejiga?
 - A. El simpático relaja la vejiga y el parasimpático (nervio pélvico) la contrae
 - B. El simpático contrae la vejiga y el parasimpático la relaja
 - C. Ambas divisiones contraen la vejiga
@@ -2171,9 +2125,7 @@ De acuerdo con el libro de Biología, ¿cuál fue el primer organismo utilizado 
 El primer organismo utilizado como modelo en los estudios de las señales eléctricas en el sistema nervioso fue el calamar, elegido por sus neuronas motoras de grandes axones.
 
 ### 126
-
-De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, según la figura 32-8, ¿qué diámetro alcanzan los axones gigantes del calamar y para qué se usaron?
-
+De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿qué diámetro alcanzan los axones gigantes del calamar y para qué se usaron?
 - A. Un diámetro de hasta 1 mm, y se usaron en todos los estudios tempranos de neurofisiología
 - B. Un diámetro de hasta 1 cm, y se usaron para estudiar el sistema endocrino
 - C. Un diámetro de hasta 0,1 mm, y se usaron para estudiar los músculos esqueléticos
@@ -2186,9 +2138,7 @@ De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervio
 Los nervios estrellados contienen los axones gigantes, de un diámetro hasta 1 mm, que se usaron en todos los estudios tempranos de neurofisiología.
 
 ### 127
-
-De acuerdo con el libro de Biología, según la figura 32-8, ¿qué músculos inervan los axones gigantes del calamar y qué producen sus contracciones?
-
+De acuerdo con el libro de Biología, ¿qué músculos inervan los axones gigantes del calamar y qué producen sus contracciones?
 - A. Inervan los músculos de la pared del manto, cuyas contracciones poderosas producen la expulsión rápida del agua de la cavidad del manto, lo que da la respuesta de escape
 - B. Inervan los músculos del corazón, cuyas contracciones producen el latido cardíaco
 - C. Inervan los músculos de los tentáculos, cuyas contracciones producen la captura de presas
@@ -2233,9 +2183,7 @@ De acuerdo con el libro de Biología, el osciloscopio mide la diferencia de pote
 El osciloscopio mide la diferencia de potencial eléctrico (en el orden de los milivoltios [mV]) en función del tiempo (en el orden de los milisegundos [ms]).
 
 ### 130
-
-De acuerdo con el libro de Biología, según la figura 32-9a, cuando ambos microelectrodos están fuera de la neurona, ¿qué diferencia de potencial se registra?
-
+De acuerdo con el libro de Biología, cuando ambos microelectrodos están fuera de la neurona, ¿qué diferencia de potencial se registra?
 - A. No se registra diferencia de potencial eléctrico (ΔV = 0 mV)
 - B. Se registra una diferencia de –70 mV
 - C. Se registra una diferencia de +70 mV
@@ -2357,9 +2305,7 @@ De acuerdo con el libro de Biología, los potenciales de acción registrados par
 Los potenciales de acción registrados para una misma neurona casi siempre son iguales.
 
 ### 138
-
-De acuerdo con el libro de Biología, según la figura 32-10, ¿de qué se muestra la respuesta y frente a qué estímulo?
-
+De acuerdo con el libro de Biología, ¿de qué se muestra la respuesta y frente a qué estímulo?
 - A. La respuesta de una sola neurona sensorial de la piel de un gato frente a la presión
 - B. La respuesta de una neurona motora de la médula de un gato frente a la luz
 - C. La respuesta de un axón gigante de calamar frente al calor
@@ -2498,9 +2444,7 @@ De acuerdo con el libro de Biología, entre las funciones del potencial de acci�
 Entre las funciones del potencial de acción está el control de respuestas efectoras, incluida la activación de canales iónicos sensibles a cambios en el potencial eléctrico, contracción muscular y exocitosis.
 
 ### 147
-
-De acuerdo con el libro de Biología, según la figura 32-10a, ¿cómo son los impulsos de cualquier neurona entre sí?
-
+De acuerdo con el libro de Biología, ¿cómo son los impulsos de cualquier neurona entre sí?
 - A. Son similares; o sea, todos los potenciales de acción tienen la misma duración y variación de potencial eléctrico
 - B. Son de distinta duración y variación según el estímulo
 - C. Aumentan de amplitud con estímulos más fuertes
@@ -2513,9 +2457,7 @@ De acuerdo con el libro de Biología, según la figura 32-10a, ¿cómo son los i
 Los impulsos de cualquier neurona son similares, o sea, todos los potenciales de acción tienen la misma duración y variación de potencial eléctrico.
 
 ### 148
-
-De acuerdo con el libro de Biología, según la figura 32-10b, ¿en qué consiste el experimento clásico con el gato?
-
+De acuerdo con el libro de Biología, ¿en qué consiste el experimento clásico con el gato?
 - A. Se presiona la piel de un gato con una pequeña sonda de punta roma, lo cual estimula una neurona sensorial (un receptor táctil), y los impulsos generados se transmiten hacia el sistema nervioso central
 - B. Se aplica una corriente eléctrica al encéfalo del gato para provocar la contracción muscular
 - C. Se ilumina la retina del gato para medir el potencial de acción de la vista
@@ -2528,9 +2470,7 @@ De acuerdo con el libro de Biología, según la figura 32-10b, ¿en qué consist
 En un experimento clásico, se presiona la piel de un gato con una pequeña sonda de punta roma, lo cual estimula una neurona sensorial (un receptor táctil). Los impulsos que se generan se transmiten por la neurona hacia el sistema nervioso central.
 
 ### 149
-
-De acuerdo con el libro de Biología, según la figura 32-10c, ¿qué ocurría con los potenciales de acción cuanto más profundamente se presionaba la piel?
-
+De acuerdo con el libro de Biología, ¿qué ocurría con los potenciales de acción cuanto más profundamente se presionaba la piel?
 - A. Se generaban con mayor frecuencia, aunque todos tenían la misma amplitud
 - B. Aumentaban su amplitud, aunque su frecuencia no cambiaba
 - C. Se generaban con menor frecuencia
@@ -2543,9 +2483,7 @@ De acuerdo con el libro de Biología, según la figura 32-10c, ¿qué ocurría c
 Cuanto más profundamente se presionaba la piel, los potenciales de acción se generaban con mayor frecuencia; todos los potenciales de acción tienen la misma amplitud, aunque su frecuencia se incrementa con la intensidad del estímulo.
 
 ### 150
-
-De acuerdo con el libro de Biología, según la figura 32-10c, ¿qué detecta el sistema nervioso central y con qué se asocia?
-
+De acuerdo con el libro de Biología, ¿qué detecta el sistema nervioso central y con qué se asocia?
 - A. Detecta la frecuencia de los potenciales de acción, que se asocia con la intensidad del estímulo
 - B. Detecta la amplitud de los potenciales de acción, que se asocia con la duración
 - C. Detecta el color del estímulo
@@ -2697,9 +2635,7 @@ De acuerdo con el libro de Biología, ¿cómo se genera el potencial de membrana
 El movimiento de salida de K+ mueve cargas positivas hacia el exterior de la célula y así genera el potencial de membrana en reposo, con valores negativos en su cara interna.
 
 ### 160
-
-De acuerdo con el libro de Biología, según la figura 32-11, ¿qué proteínas integrales posee la membrana del axón y qué intercambian?
-
+De acuerdo con el libro de Biología, ¿qué proteínas integrales posee la membrana del axón y qué intercambian?
 - A. Canales y bombas que participan en los intercambios de K+ y Na+ entre el citosol de los axones y el líquido intersticial externo
 - B. Solo bombas que intercambian glucosa y oxígeno
 - C. Únicamente canales de Cl– que intercambian agua
@@ -2712,9 +2648,7 @@ De acuerdo con el libro de Biología, según la figura 32-11, ¿qué proteínas 
 La membrana del axón posee una serie de proteínas integrales de membrana, entre las que se encuentran canales y bombas que participan en los intercambios de K+ y Na+ entre el citosol de los axones y el líquido intersticial externo.
 
 ### 161
-
-De acuerdo con el libro de Biología, según la figura 32-11, ¿qué permiten los canales de fuga de K+ durante el estado de reposo?
-
+De acuerdo con el libro de Biología, ¿qué permiten los canales de fuga de K+ durante el estado de reposo?
 - A. Permiten la difusión de los iones K+ a favor de su salida, impulsada por su gradiente de potencial electroquímico
 - B. Permiten el ingreso masivo de Na+ hacia el interior de la célula
 - C. Permiten la salida de los aniones no difusibles de gran tamaño
@@ -2727,9 +2661,7 @@ De acuerdo con el libro de Biología, según la figura 32-11, ¿qué permiten lo
 Hay canales K+ que permanecen siempre abiertos durante el estado de reposo (canales de fuga) y permiten la difusión de los iones K+ impulsada por su gradiente de potencial electroquímico a favor de su salida.
 
 ### 162
-
-De acuerdo con el libro de Biología, según la figura 32-11, ¿en qué estado permanecen los canales de Na+ y K+ regulados por potencial eléctrico durante el reposo, y por qué?
-
+De acuerdo con el libro de Biología, ¿en qué estado permanecen los canales de Na+ y K+ regulados por potencial eléctrico durante el reposo, y por qué?
 - A. Permanecen mayoritariamente cerrados, por la presencia de compuertas; así, solo una cantidad muy pequeña de Na+ puede entrar a favor de su gradiente electroquímico
 - B. Permanecen siempre abiertos, permitiendo el paso libre de Na+ y K+
 - C. Desaparecen por completo de la membrana durante el reposo
@@ -2744,9 +2676,7 @@ Los canales de Na+ y K+ regulados por potencial eléctrico permanecen mayoritari
 > Dos clases de canales que conviene no confundir: los **canales de fuga** (de K+, siempre abiertos en reposo) y los **canales regulados por potencial eléctrico** (de Na+ y K+, mayoritariamente cerrados en reposo por sus compuertas).
 
 ### 163
-
-De acuerdo con el libro de Biología, según la figura 32-11, ¿qué genera el funcionamiento conjunto de los canales y la bomba de Na+/K+-ATPasa?
-
+De acuerdo con el libro de Biología, ¿qué genera el funcionamiento conjunto de los canales y la bomba de Na+/K+-ATPasa?
 - A. Las diferencias de concentración y permeabilidad de las que dependen el potencial de reposo y el potencial de acción
 - B. La vaina de mielina que recubre el axón
 - C. La liberación de adrenalina por la médula suprarrenal
@@ -2759,9 +2689,7 @@ De acuerdo con el libro de Biología, según la figura 32-11, ¿qué genera el f
 El funcionamiento conjunto de estos sistemas genera las diferencias de concentración y permeabilidad de las que dependen el potencial de reposo y el potencial de acción.
 
 ### 164
-
-De acuerdo con el libro de Biología, según la figura 32-11, ¿cuáles son los aniones difusibles y cómo se describen los no difusibles?
-
+De acuerdo con el libro de Biología, ¿cuáles son los aniones difusibles y cómo se describen los no difusibles?
 - A. Los aniones difusibles son el HCO3– y el Cl–; los no difusibles son de gran tamaño
 - B. Los aniones difusibles son el Na+ y el K+; los no difusibles son el Cl–
 - C. Los aniones difusibles son de gran tamaño; los no difusibles son el HCO3– y el Cl–
@@ -2992,9 +2920,7 @@ De acuerdo con el libro de Biología, mientras la despolarización avanza a lo l
 Al mismo tiempo que la despolarización se desplaza, constantemente se repolariza el primer sector.
 
 ### 179
-
-De acuerdo con el libro de Biología, según la figura 32-12, al finalizar el potencial de acción, ¿qué ocurre con las bombas de Na+/K+-ATPasa?
-
+De acuerdo con el libro de Biología, al finalizar el potencial de acción, ¿qué ocurre con las bombas de Na+/K+-ATPasa?
 - A. Aumentan su actividad y restablecen las condiciones del reposo
 - B. Detienen por completo su actividad
 - C. Se transforman en canales de fuga de K+
@@ -3007,9 +2933,7 @@ De acuerdo con el libro de Biología, según la figura 32-12, al finalizar el po
 Al finalizar el potencial de acción, la actividad de las bombas de Na+/K+-ATPasa aumentan su actividad y restablecen las condiciones del reposo.
 
 ### 180
-
-De acuerdo con el libro de Biología, según la figura 32-12, ¿qué es el potencial umbral y qué ocurre a partir de que la membrana lo alcanza?
-
+De acuerdo con el libro de Biología, ¿qué es el potencial umbral y qué ocurre a partir de que la membrana lo alcanza?
 - A. Es el valor del potencial de membrana al que debe llegar la membrana del axón, tras la estimulación, para que se abran los canales de Na+ sensibles al potencial; a partir de ese momento, la apertura de esos canales es autoinducida y da origen al potencial de acción
 - B. Es el valor máximo de +40 mV que alcanza el potencial de acción
 - C. Es el valor del potencial de reposo, al que la membrana regresa tras el impulso
@@ -3191,9 +3115,7 @@ De acuerdo con el libro de Biología, en las fibras mielinizadas, ¿por qué exi
 Dado que los iones Na+ y K+ se mueven solo a través de una pequeña porción de la membrana del axón, existe un enorme ahorro energético por parte de la bomba de Na+/K+-ATPasa.
 
 ### 192
-
-De acuerdo con el libro de Biología, según la figura 32-13a, en una fibra sin vaina de mielina, ¿cómo ocurren la despolarización y la repolarización?
-
+De acuerdo con el libro de Biología, en una fibra sin vaina de mielina, ¿cómo ocurren la despolarización y la repolarización?
 - A. Toda la membrana del axón está en contacto con el líquido intersticial, y la despolarización y la repolarización ocurren punto a punto a lo largo de ella
 - B. Solo los nodos de Ranvier están en contacto con el líquido intersticial, y el impulso salta entre ellos
 - C. La despolarización ocurre en un solo punto y no se propaga
@@ -3319,9 +3241,7 @@ De acuerdo con el libro de Biología, según la figura 32-14a, ¿qué muestra la
 En la figura 32-14a se muestra una neurona en formación en cultivo; se ha desarrollado el axón y aún están desarrollándose las dendritas.
 
 ### 200
-
-De acuerdo con el libro de Biología, según la figura 32-14b, ¿por cuántas células de la glía está dado cada segmento de la vaina de mielina?
-
+De acuerdo con el libro de Biología, ¿por cuántas células de la glía está dado cada segmento de la vaina de mielina?
 - A. Cada segmento está dado por una sola célula de la glía
 - B. Cada segmento está dado por diez células de la glía
 - C. Cada segmento está dado por una neurona sensorial
@@ -3334,9 +3254,7 @@ De acuerdo con el libro de Biología, según la figura 32-14b, ¿por cuántas c�
 En el esquema de una neurona recubierta por la vaina de mielina aislante, cada segmento de la vaina está dado por una sola célula de la glía.
 
 ### 201
-
-De acuerdo con el libro de Biología, según la figura 32-14b, ¿qué son los nodos de Ranvier?
-
+De acuerdo con el libro de Biología, ¿qué son los nodos de Ranvier?
 - A. Las zonas en donde, entre las dos células de la glía, la membrana del axón queda expuesta al medio exterior
 - B. Las capas de mielina que envuelven el axón
 - C. El núcleo de la célula de Schwann
@@ -3349,9 +3267,7 @@ De acuerdo con el libro de Biología, según la figura 32-14b, ¿qué son los no
 Entre las dos células de la glía, la membrana del axón queda expuesta al medio exterior, en las zonas llamadas nodos de Ranvier.
 
 ### 202
-
-De acuerdo con el libro de Biología, según la figura 32-14b, ¿qué constituye la clave de la rápida transmisión del impulso nervioso en neuronas de axones largos?
-
+De acuerdo con el libro de Biología, ¿qué constituye la clave de la rápida transmisión del impulso nervioso en neuronas de axones largos?
 - A. La alternancia de porciones aisladas y no aisladas del axón
 - B. La ausencia total de vaina de mielina en el axón
 - C. El pequeño diámetro del axón
@@ -3364,9 +3280,7 @@ De acuerdo con el libro de Biología, según la figura 32-14b, ¿qué constituye
 La alternancia de porciones aisladas y no aisladas del axón constituye la clave de la rápida transmisión del impulso nervioso en neuronas de axones largos.
 
 ### 203
-
-De acuerdo con el libro de Biología, según la figura 32-14c, ¿cómo forma la vaina de mielina la célula de Schwann?
-
+De acuerdo con el libro de Biología, ¿cómo forma la vaina de mielina la célula de Schwann?
 - A. Al crecer, se envuelve varias veces alrededor del axón y expulsa de modo gradual su citoplasma, que se encuentra entre las capas
 - B. Deposita una capa de calcio alrededor del axón sin envolverse
 - C. Se fusiona con el axón para formar una sola célula
@@ -3379,9 +3293,7 @@ De acuerdo con el libro de Biología, según la figura 32-14c, ¿cómo forma la 
 Cuando la célula de Schwann crece, se envuelve varias veces alrededor del axón y expulsa de modo gradual su citoplasma, que se encuentra entre las capas.
 
 ### 204
-
-De acuerdo con el libro de Biología, según la figura 32-14c, ¿de qué consiste la vaina de mielina y qué función cumple?
-
+De acuerdo con el libro de Biología, ¿de qué consiste la vaina de mielina y qué función cumple?
 - A. Consiste en capas de membranas celulares lipídicas, y aísla a la fibra nerviosa
 - B. Consiste en una capa mineral rígida que da soporte al axón
 - C. Consiste en fibras musculares que contraen el axón
@@ -3394,9 +3306,7 @@ De acuerdo con el libro de Biología, según la figura 32-14c, ¿de qué consist
 La vaina de mielina, que consiste en capas de membranas celulares lipídicas, aísla a la fibra nerviosa.
 
 ### 205
-
-De acuerdo con el libro de Biología, según la figura 32-14c, la célula de la glía que forma la vaina de mielina, ¿en qué parte del sistema nervioso se encuentra?
-
+De acuerdo con el libro de Biología, la célula de la glía que forma la vaina de mielina, ¿en qué parte del sistema nervioso se encuentra?
 - A. En el sistema nervioso periférico
 - B. En el sistema nervioso central
 - C. En la médula suprarrenal
@@ -3409,9 +3319,7 @@ De acuerdo con el libro de Biología, según la figura 32-14c, la célula de la 
 La vaina de mielina se forma por una célula de la glía, un tipo de célula glial que se encuentra en el sistema nervioso periférico.
 
 ### 206
-
-De acuerdo con el libro de Biología, según la figura 32-14d, ¿por qué la vaina de mielina madura tiene un aspecto oscuro en la microfotografía electrónica?
-
+De acuerdo con el libro de Biología, ¿por qué la vaina de mielina madura tiene un aspecto oscuro en la microfotografía electrónica?
 - A. Por los productos químicos usados para "fijar" el espécimen para microscopia electrónica; sin este tratamiento, la vaina de mielina se ve blanca
 - B. Porque la mielina es naturalmente de color negro
 - C. Porque la microscopia electrónica quema el espécimen
@@ -3426,9 +3334,7 @@ El aspecto oscuro de la vaina de mielina madura resulta de los productos químic
 ## Sub-lote 25 · Las sinapsis eléctricas y químicas (fig. 32-15, p. 771)
 
 ### 207
-
-De acuerdo con el libro de Biología, según la figura 32-15a, en una sinapsis eléctrica, ¿cómo se transmiten los cambios cuando llega un potencial de acción a la terminal axónica?
-
+De acuerdo con el libro de Biología, en una sinapsis eléctrica, ¿cómo se transmiten los cambios cuando llega un potencial de acción a la terminal axónica?
 - A. Por la transmisión directa de corrientes iónicas a través de las uniones comunicantes o nexos (gap junctions), en las que se produce el contacto entre las membranas presináptica y postsináptica
 - B. Por la liberación de neurotransmisores en la hendidura sináptica
 - C. Por la fusión de vesículas sinápticas con la membrana postsináptica
@@ -3441,9 +3347,7 @@ De acuerdo con el libro de Biología, según la figura 32-15a, en una sinapsis e
 La llegada de un potencial de acción a la terminal axónica de la célula presináptica está acompañada por la transmisión directa de corrientes iónicas. Estos cambios son transmitidos a través de las uniones comunicantes o nexos (gap junctions), en las que se produce el contacto entre las membranas presináptica y postsináptica.
 
 ### 208
-
-De acuerdo con el libro de Biología, según la figura 32-15a, en la sinapsis eléctrica, ¿qué genera la transmisión de corrientes iónicas, y con qué particularidad?
-
+De acuerdo con el libro de Biología, en la sinapsis eléctrica, ¿qué genera la transmisión de corrientes iónicas, y con qué particularidad?
 - A. Genera la despolarización de la membrana celular sin que medien mensajeros químicos
 - B. Genera la hiperpolarización de la membrana con ayuda de neurotransmisores
 - C. Genera la fusión de las vesículas sinápticas con la membrana
@@ -3458,9 +3362,7 @@ La transmisión de corrientes iónicas a través de las uniones comunicantes gen
 > Contraste del mecanismo: la sinapsis **eléctrica** pasa corrientes iónicas directas por las uniones comunicantes, *sin* mensajeros químicos; la **química** libera neurotransmisores por exocitosis en la hendidura, que actúan sobre receptores de la célula postsináptica.
 
 ### 209
-
-De acuerdo con el libro de Biología, según la figura 32-15b, en una sinapsis química, ¿qué inicia la llegada de un potencial de acción a la terminal axónica?
-
+De acuerdo con el libro de Biología, en una sinapsis química, ¿qué inicia la llegada de un potencial de acción a la terminal axónica?
 - A. La fusión de las vesículas sinápticas —que contienen moléculas de neurotransmisores— con la membrana del axón, y su liberación por exocitosis en la hendidura sináptica
 - B. La transmisión directa de corrientes iónicas por las uniones comunicantes
 - C. El cierre de todos los canales de la membrana postsináptica
@@ -3473,9 +3375,7 @@ De acuerdo con el libro de Biología, según la figura 32-15b, en una sinapsis q
 La llegada de un potencial de acción en la terminal axónica inicia la fusión de las vesículas sinápticas —que contienen moléculas de neurotransmisores— con la membrana del axón y las libera por exocitosis en la hendidura sináptica.
 
 ### 210
-
-De acuerdo con el libro de Biología, según la figura 32-15b, una vez liberadas en la hendidura, ¿qué hacen las moléculas de neurotransmisor y qué provocan?
-
+De acuerdo con el libro de Biología, una vez liberadas en la hendidura, ¿qué hacen las moléculas de neurotransmisor y qué provocan?
 - A. Se difunden a la célula postsináptica, donde se combinan con receptores específicos de la membrana celular, lo cual provoca una respuesta específica: un potencial postsináptico
 - B. Regresan de inmediato al axón presináptico sin producir efecto alguno
 - C. Se transforman en corrientes iónicas que viajan por las uniones comunicantes
@@ -3580,9 +3480,7 @@ De acuerdo con el libro de Biología, según la figura 32-16, ¿qué se observa 
 Nótense en las terminales axónicas las numerosas vesículas sinápticas llenas de neurotransmisor.
 
 ### 217
-
-De acuerdo con el libro de Biología, según la figura 32-16, en las áreas borrosas de las membranas contiguas, ¿en qué están especializadas las células presinápticas y en qué son ricas las postsinápticas?
-
+De acuerdo con el libro de Biología, en las áreas borrosas de las membranas contiguas, ¿en qué están especializadas las células presinápticas y en qué son ricas las postsinápticas?
 - A. Las presinápticas están especializadas en la exocitosis; las postsinápticas son ricas en receptores de moléculas de neurotransmisor
 - B. Las presinápticas son ricas en receptores; las postsinápticas están especializadas en la exocitosis
 - C. Ambas están especializadas en la exocitosis

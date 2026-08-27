@@ -211,9 +211,7 @@ De acuerdo con el libro de Biología, ¿qué órganos contiene la cavidad torác
 La cavidad torácica contiene el corazón, los pulmones y el esófago.
 
 ### 8
-
-De acuerdo con el libro de Biología, según la figura 31-1, ¿qué artista se dedicó de manera intensa a los estudios anatómicos, con dibujos meticulosos sobre los cuerpos que él mismo disecaba?
-
+De acuerdo con el libro de Biología, ¿qué artista se dedicó de manera intensa a los estudios anatómicos, con dibujos meticulosos sobre los cuerpos que él mismo disecaba?
 - A. Leonardo da Vinci (1452-1519)
 - B. Alcmeón de Crotona
 - C. Carl Sagan
@@ -279,9 +277,7 @@ De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órg
 Existen alrededor de 200 tipos diferentes de células en el cuerpo humano, que se agrupan en solo cuatro tipos de tejidos.
 
 ### 12
-
-De acuerdo con el libro de Biología, según la figura 31-4, ¿cuáles son los cuatro tipos de tejidos de los animales?
-
+De acuerdo con el libro de Biología, ¿cuáles son los cuatro tipos de tejidos de los animales?
 - A. Epitelial, conjuntivo (conectivo), muscular y nervioso
 - B. Óseo, sanguíneo, cartilaginoso y adiposo
 - C. Epitelial, óseo, sanguíneo y muscular
@@ -418,9 +414,7 @@ De acuerdo con el libro de Biología, en la evolución de los seres vivos, ¿có
 En la evolución de los seres vivos, el pasaje de la unicelularidad a la multicelularidad fue un hecho de importancia singular.
 
 ### 21
-
-De acuerdo con el libro de Biología, según la figura 31-3, el corazón es un órgano constituido por células agrupadas en diversos tejidos; ¿cuáles son esos tejidos y de qué sistema forma parte el corazón?
-
+De acuerdo con el libro de Biología, el corazón es un órgano constituido por células agrupadas en diversos tejidos; ¿cuáles son esos tejidos y de qué sistema forma parte el corazón?
 - A. Tejidos epitelial, conjuntivo, nervioso y muscular; forma parte del sistema circulatorio
 - B. Un solo tejido; no forma parte de ningún sistema
 - C. Solo tejido nervioso; forma parte del sistema nervioso
@@ -629,9 +623,7 @@ De acuerdo con el libro de Biología, ¿qué son las microvellosidades que tiene
 Muchas células epiteliales tienen microvellosidades, proyecciones citoplasmáticas que se extienden como finos dedos y aumentan así la superficie de intercambio.
 
 ### 34
-
-De acuerdo con el libro de Biología, según la figura 31-6, ¿cómo está estratificada la epidermis?
-
+De acuerdo con el libro de Biología, ¿cómo está estratificada la epidermis?
 - A. En una capa interna de células epiteliales vivas y una capa externa de células muertas, ricas en queratina
 - B. En una sola capa de células vivas, sin capa externa
 - C. En tres capas de tejido óseo
@@ -644,9 +636,7 @@ De acuerdo con el libro de Biología, según la figura 31-6, ¿cómo está estra
 La epidermis se encuentra estratificada en una capa interna de células epiteliales vivas y en una capa externa de células muertas, ricas en queratina.
 
 ### 35
-
-De acuerdo con el libro de Biología, según la figura 31-6, ¿qué células hay en la base de la epidermis y qué producen?
-
+De acuerdo con el libro de Biología, ¿qué células hay en la base de la epidermis y qué producen?
 - A. Melanocitos, que producen melanina, el pigmento responsable del color de la piel
 - B. Eritrocitos, que producen hemoglobina
 - C. Osteocitos, que producen tejido óseo
@@ -659,9 +649,7 @@ De acuerdo con el libro de Biología, según la figura 31-6, ¿qué células hay
 En la base de la epidermis hay melanocitos: células que producen melanina, el pigmento responsable del color de la piel.
 
 ### 36
-
-De acuerdo con el libro de Biología, según la figura 31-6, ¿qué secretan las glándulas sudoríparas y las sebáceas de la piel?
-
+De acuerdo con el libro de Biología, ¿qué secretan las glándulas sudoríparas y las sebáceas de la piel?
 - A. Las sudoríparas secretan agua, iones y desechos metabólicos; las sebáceas, sustancias grasas que lubrican la superficie de la piel
 - B. Las sudoríparas secretan grasa; las sebáceas, agua
 - C. Ambas secretan únicamente agua
@@ -926,9 +914,7 @@ El tejido óseo almacena calcio y fosfato que pueden pasar a la sangre, reguland
 ## Sub-lote 10 · El esqueleto humano (fig. 31-7, p. 745)
 
 ### 53
-
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos contiene el esqueleto de un adulto?
-
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos huesos contiene el esqueleto de un adulto?
 - A. 206 huesos
 - B. 300 huesos
 - C. 150 huesos
@@ -941,9 +927,7 @@ De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órg
 El esqueleto de un adulto contiene 206 huesos.
 
 ### 54
-
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
-
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
 - A. 29 huesos, incluidos los 14 de la cara y los 6 huesecillos de los oídos
 - B. 14 huesos, todos de la cara
 - C. 6 huesos, todos de los oídos
@@ -956,9 +940,7 @@ De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órg
 Veintinueve huesos pertenecen al cráneo, incluidos los 14 huesos de la cara y los 6 huesecillos de los oídos.
 
 ### 55
-
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, según la figura 31-7, ¿cuántos huesos hay en cada mano y en cada pie?
-
+De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos huesos hay en cada mano y en cada pie?
 - A. 27 huesos en cada mano y 26 en cada pie
 - B. 26 huesos en cada mano y 27 en cada pie
 - C. 10 huesos en cada mano y 10 en cada pie
@@ -1224,9 +1206,7 @@ De acuerdo con el libro de Biología, ¿qué son los nervios?
 Los nervios son haces de numerosos axones pertenecientes a muchas neuronas: desde centenares a miles.
 
 ### 72
-
-De acuerdo con el libro de Biología, según la figura 31-12, dado que los músculos no pueden alargarse de forma espontánea, ¿cómo trabajan con frecuencia los músculos esqueléticos?
-
+De acuerdo con el libro de Biología, dado que los músculos no pueden alargarse de forma espontánea, ¿cómo trabajan con frecuencia los músculos esqueléticos?
 - A. En pares antagónicos: cuando uno se contrae, el otro se relaja (por ejemplo, el bíceps se contrae y el tríceps se relaja)
 - B. Todos se contraen a la vez y ninguno se relaja
 - C. Se alargan de forma espontánea, sin necesidad de contraerse
@@ -1390,9 +1370,7 @@ Otros animales, como los equinodermos y los vertebrados, se caracterizan por la 
 ## Sub-lote 16 · Los sistemas del cuerpo humano y la regeneración (fig. 31-13 y ensayo 31-2, pp. 750-751)
 
 ### 82
-
-De acuerdo con el libro de Biología, según la figura 31-13, ¿cuáles son los principales sistemas del cuerpo humano?
-
+De acuerdo con el libro de Biología, ¿cuáles son los principales sistemas del cuerpo humano?
 - A. El tegumentario, el muscular, el óseo, el digestivo, el excretor, el respiratorio, el genital, el circulatorio, el endocrino, el linfático y el nervioso
 - B. El epitelial, el conjuntivo, el muscular y el nervioso
 - C. Solamente el digestivo y el circulatorio

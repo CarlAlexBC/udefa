@@ -2062,9 +2062,7 @@ Complejo NADH deshidrogenasa, complejo citocromo b-c₁, complejo citocromo oxid
 ## Sub-lote 25 · El resumen de la respiración celular (figura 8-9, p. 153)
 
 ### 119
-
-De conformidad con el libro de Biología, según el esquema resumen, ¿dónde ocurre la glucólisis?
-
+De conformidad con el libro de Biología, ¿dónde ocurre la glucólisis?
 - A. En el citosol
 - B. En la matriz mitocondrial
 - C. En la membrana mitocondrial interna
@@ -2077,9 +2075,7 @@ De conformidad con el libro de Biología, según el esquema resumen, ¿dónde oc
 Citosol: glucosa, glucólisis, 2 piruvato.
 
 ### 120
-
-En relación con el libro de Biología, según el esquema resumen, ¿en qué se convierten los 2 NADH producidos en el citosol?
-
+En relación con el libro de Biología, ¿en qué se convierten los 2 NADH producidos en el citosol?
 - A. En 2 NADH o 2 FADH₂
 - B. En 2 ATP o 2 GTP
 - C. En 2 acetil-CoA
@@ -2092,9 +2088,7 @@ En relación con el libro de Biología, según el esquema resumen, ¿en qué se 
 2 NADH → 2 NADH o 2 FADH₂.
 
 ### 121
-
-De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, según el esquema resumen, ¿cuántos NADH y FADH₂ salen del ciclo de Krebs?
-
+De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, ¿cuántos NADH y FADH₂ salen del ciclo de Krebs?
 - A. 6 NADH y 2 FADH₂
 - B. 2 NADH y 6 FADH₂
 - C. 6 NADH y 6 FADH₂
@@ -2107,9 +2101,7 @@ De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y l
 Ciclo de Krebs: 6 NADH, 2 FADH₂.
 
 ### 122
-
-De conformidad con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, según el esquema resumen, ¿cuánto ATP aporta la fosforilación oxidativa?
-
+De conformidad con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, ¿cuánto ATP aporta la fosforilación oxidativa?
 - A. Aproximadamente 32 o 34 ATP
 - B. Aproximadamente 36 o 38 ATP
 - C. Exactamente 2 ATP
@@ -2122,9 +2114,7 @@ De conformidad con el libro de Biología, en el capítulo 8 sobre la glucólisis
 Fosforilación oxidativa: transporte de electrones y quimiósmosis, + aproximadamente 32 o 34 ATP.
 
 ### 123
-
-En relación con el libro de Biología, según el esquema resumen, ¿cuál es el total aproximado de ATP del proceso completo?
-
+En relación con el libro de Biología, ¿cuál es el total aproximado de ATP del proceso completo?
 - A. Aproximadamente 36 o 38 ATP
 - B. Aproximadamente 32 o 34 ATP
 - C. Exactamente 38 ATP
@@ -2142,9 +2132,7 @@ En relación con el libro de Biología, según el esquema resumen, ¿cuál es el
 > FADH₂—, pero conviene tener presentes las dos cifras.
 
 ### 124
-
-De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, según el esquema resumen, ¿cuánto ATP aportan por separado la glucólisis y el ciclo de Krebs?
-
+De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, ¿cuánto ATP aportan por separado la glucólisis y el ciclo de Krebs?
 - A. 2 ATP cada uno
 - B. 4 ATP cada uno
 - C. 2 ATP la glucólisis y 4 el ciclo de Krebs

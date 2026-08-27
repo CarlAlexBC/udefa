@@ -255,9 +255,7 @@ De acuerdo con el libro de Biología, ¿qué ocurriría con las células de un o
 Sin este intercambio, las células que forman un organismo multicelular morirían, ya que no podrían realizar la respiración aeróbica y, en consecuencia, no podrían obtener la energía suficiente para su funcionamiento.
 
 ### 6
-
-De acuerdo con el libro de Biología, según la figura 35-1, ¿cómo varía el consumo de O2 de los animales corredores, como las hembras de impala?
-
+De acuerdo con el libro de Biología, ¿cómo varía el consumo de O2 de los animales corredores, como las hembras de impala?
 - A. Aumenta de manera lineal con la velocidad de la carrera
 - B. Disminuye a medida que aumenta la velocidad de la carrera
 - C. Permanece constante sin importar la velocidad de la carrera
@@ -514,9 +512,7 @@ De acuerdo con el libro de Biología, ¿qué hacen los mamíferos buceadores, co
 Los mamíferos buceadores, como las ballenas y las focas, exhalan el aire de sus pulmones al sumergirse, lo cual evita la "enfermedad de las profundidades".
 
 ### 23
-
-De acuerdo con el libro de Biología, según la figura 35-2, ¿qué le provee a los mamíferos buceadores su gran volumen sanguíneo y qué función cumple?
-
+De acuerdo con el libro de Biología, ¿qué le provee a los mamíferos buceadores su gran volumen sanguíneo y qué función cumple?
 - A. Una gran cantidad de glóbulos rojos y de mioglobina, que funcionan como un reservorio de sangre oxigenada
 - B. Una gran cantidad de glóbulos blancos, que funcionan como defensa contra infecciones
 - C. Una gran cantidad de nitrógeno disuelto, que funciona como reserva de energía
@@ -529,9 +525,7 @@ De acuerdo con el libro de Biología, según la figura 35-2, ¿qué le provee a 
 Su gran volumen sanguíneo, mayor que el de los humanos, les provee una gran cantidad de glóbulos rojos y de mioglobina, que funcionan como un reservorio de sangre oxigenada.
 
 ### 24
-
-De acuerdo con el libro de Biología, según la figura 35-2, ¿cuál es el factor principal de supervivencia en los mamíferos buceadores?
-
+De acuerdo con el libro de Biología, ¿cuál es el factor principal de supervivencia en los mamíferos buceadores?
 - A. El llamado reflejo de buceo
 - B. El gran volumen sanguíneo, mayor que el de los humanos
 - C. La exhalación antes de zambullirse
@@ -544,9 +538,7 @@ De acuerdo con el libro de Biología, según la figura 35-2, ¿cuál es el facto
 El factor principal de supervivencia en los mamíferos buceadores es el llamado reflejo de buceo.
 
 ### 25
-
-De acuerdo con el libro de Biología, según la figura 35-2, ¿qué ocurre durante el buceo con el ritmo cardíaco y con la provisión de sangre?
-
+De acuerdo con el libro de Biología, ¿qué ocurre durante el buceo con el ritmo cardíaco y con la provisión de sangre?
 - A. El ritmo cardíaco disminuye y la provisión de sangre a los tejidos más tolerantes a la falta de O2 —órganos digestivos, piel y músculos— se reduce enormemente
 - B. El ritmo cardíaco aumenta y la provisión de sangre se reparte por igual entre todos los tejidos
 - C. El ritmo cardíaco se detiene por completo durante toda la inmersión
@@ -559,9 +551,7 @@ De acuerdo con el libro de Biología, según la figura 35-2, ¿qué ocurre duran
 Durante el buceo, el ritmo cardíaco disminuye y la provisión de sangre a los tejidos más tolerantes a la falta de O2 —órganos digestivos, piel y músculos— se reduce enormemente.
 
 ### 26
-
-De acuerdo con el libro de Biología, según la figura 35-2, ¿adónde se deriva la mayor parte del O2 durante el buceo y tras cuánto tiempo sin O2 comenzarían a morir esas células?
-
+De acuerdo con el libro de Biología, ¿adónde se deriva la mayor parte del O2 durante el buceo y tras cuánto tiempo sin O2 comenzarían a morir esas células?
 - A. Al corazón y al cerebro, cuyas células comenzarían a morir después de unos 4 minutos sin O2
 - B. A los músculos y la piel, cuyas células comenzarían a morir después de unos 40 minutos sin O2
 - C. A los órganos digestivos, cuyas células comenzarían a morir después de unas 4 horas sin O2
@@ -574,9 +564,7 @@ De acuerdo con el libro de Biología, según la figura 35-2, ¿adónde se deriva
 La mayor parte del O2 se deriva al corazón y al cerebro, cuyas células comenzarían a morir después de unos 4 minutos sin O2.
 
 ### 27
-
-De acuerdo con el libro de Biología, según la figura 35-2, en una hembra preñada de un mamífero buceador, ¿qué ocurre con el feto?
-
+De acuerdo con el libro de Biología, en una hembra preñada de un mamífero buceador, ¿qué ocurre con el feto?
 - A. El feto también tiene alta prioridad sobre el O2 disponible
 - B. El feto deja de recibir O2 durante toda la inmersión
 - C. El feto recibe O2 solo después de los órganos digestivos
@@ -837,9 +825,7 @@ El O2 ingresa en el organismo desde el aire o el agua (medio externo) por difusi
 ## Sub-lote 6 · La diversidad de estrategias para obtener oxígeno (fig. 35-3, p. 830)
 
 ### 44
-
-De acuerdo con el libro de Biología, según la figura 35-3a, en organismos pequeños como los gusanos cilíndricos y la lombriz de tierra, ¿cómo se produce el intercambio gaseoso?
-
+De acuerdo con el libro de Biología, en organismos pequeños como los gusanos cilíndricos y la lombriz de tierra, ¿cómo se produce el intercambio gaseoso?
 - A. A través de la superficie corporal formada por una sola capa de células; en los capilares superficiales el O2 difunde hacia la sangre, mientras que el CO2 lo hace en sentido contrario
 - B. A través de branquias internas altamente vascularizadas
 - C. A través de tubos traqueales que penetran en cada tejido
@@ -852,9 +838,7 @@ De acuerdo con el libro de Biología, según la figura 35-3a, en organismos pequ
 En organismos pequeños, como los gusanos cilíndricos, el intercambio gaseoso se produce a través de la superficie corporal formada por una sola capa de células. En la medida en que la sangre circula a lo largo de los capilares superficiales, el O2 difunde hacia la sangre, mientras que el CO2 lo hace en sentido contrario.
 
 ### 45
-
-De acuerdo con el libro de Biología, según la figura 35-3b, en los gusanos poliquetos y algunos anfibios como las salamandras, ¿cómo ocurre el intercambio gaseoso?
-
+De acuerdo con el libro de Biología, en los gusanos poliquetos y algunos anfibios como las salamandras, ¿cómo ocurre el intercambio gaseoso?
 - A. A través de la superficie corporal y, además, por medio de branquias externas que incrementan la superficie de intercambio gaseoso
 - B. Únicamente por medio de branquias internas
 - C. Únicamente por medio de pulmones
@@ -867,9 +851,7 @@ De acuerdo con el libro de Biología, según la figura 35-3b, en los gusanos pol
 En gusanos poliquetos y algunos anfibios, como las salamandras, el intercambio gaseoso ocurre a través de la superficie corporal y, además, por medio de branquias externas que incrementan la superficie de intercambio gaseoso.
 
 ### 46
-
-De acuerdo con el libro de Biología, según la figura 35-3c, en los animales con branquias internas, como los peces, ¿qué hace el mecanismo de ventilación?
-
+De acuerdo con el libro de Biología, en los animales con branquias internas, como los peces, ¿qué hace el mecanismo de ventilación?
 - A. Impulsa la circulación del agua sobre las superficies branquiales altamente vascularizadas, a través de las cuales se produce la hematosis
 - B. Impulsa la circulación del aire hacia los pulmones y desde ellos
 - C. Impulsa el aire a través de los tubos traqueales hasta cada tejido
@@ -882,9 +864,7 @@ De acuerdo con el libro de Biología, según la figura 35-3c, en los animales co
 En los animales con branquias internas, como los peces, el mecanismo de ventilación impulsa la circulación del agua sobre las superficies branquiales altamente vascularizadas, a través de las cuales se produce la hematosis.
 
 ### 47
-
-De acuerdo con el libro de Biología, según la figura 35-3d, en los insectos y otros artrópodos terrestres, ¿dónde ocurre el intercambio gaseoso y cómo comunican los tubos con el exterior?
-
+De acuerdo con el libro de Biología, en los insectos y otros artrópodos terrestres, ¿dónde ocurre el intercambio gaseoso y cómo comunican los tubos con el exterior?
 - A. Ocurre en los extremos terminales de los finos tubos traqueales, que se ramifican por el cuerpo y penetran en cada tejido; el otro extremo comunica al exterior por orificios llamados espiráculos
 - B. Ocurre en branquias externas y el aire entra por la boca
 - C. Ocurre en pulmones invaginados que comunican con el exterior por la tráquea
@@ -897,9 +877,7 @@ De acuerdo con el libro de Biología, según la figura 35-3d, en los insectos y 
 En insectos y otros artrópodos terrestres, el intercambio gaseoso ocurre en los extremos terminales de los finos tubos traqueales, que se ramifican a través del cuerpo y penetran en cada tejido. El intercambio con el medio ocurre en el otro extremo de los tubos, que comunican al exterior por medio de orificios llamados espiráculos.
 
 ### 48
-
-De acuerdo con el libro de Biología, según la figura 35-3e, ¿en qué animales están presentes los pulmones y qué son?
-
+De acuerdo con el libro de Biología, ¿en qué animales están presentes los pulmones y qué son?
 - A. En todos los vertebrados que respiran aire y en algunos invertebrados, como los caracoles terrestres; son sacos altamente vascularizados en donde se produce la hematosis
 - B. Únicamente en los mamíferos; son tubos ramificados que penetran en cada tejido
 - C. Solo en los peces; son superficies evaginadas altamente vascularizadas
@@ -1096,9 +1074,7 @@ De acuerdo con el libro de Biología, en las branquias de los peces, ¿en qué s
 En las branquias de los peces, la sangre de los capilares que irrigan el interior de las laminillas branquiales circula en un sentido contrario al del agua que atraviesa la branquia por el espacio existente entre las laminillas.
 
 ### 61
-
-De acuerdo con el libro de Biología, según la figura 35-4c, en el intercambio por contracorriente, ¿qué relación hay entre la presión de O2 del agua y la de la sangre?
-
+De acuerdo con el libro de Biología, en el intercambio por contracorriente, ¿qué relación hay entre la presión de O2 del agua y la de la sangre?
 - A. El agua siempre tiene mayor presión de O2 que la sangre y, por eso, el O2 fluye desde el agua hacia la sangre a lo largo de todo el sistema de intercambio
 - B. La sangre siempre tiene mayor presión de O2 que el agua, y el O2 fluye hacia el agua
 - C. Ambas tienen la misma presión de O2, por lo que no hay flujo neto
@@ -1113,9 +1089,7 @@ En el intercambio por contracorriente, el agua siempre tiene mayor presión de O
 > Esa es justamente la ventaja del sistema: como el agua y la sangre corren en sentidos opuestos, el gradiente **se mantiene a lo largo de todo el recorrido** y no se agota a mitad de camino.
 
 ### 62
-
-De acuerdo con el libro de Biología, según la figura 35-4, ¿qué resultado da la disposición en contracorriente?
-
+De acuerdo con el libro de Biología, ¿qué resultado da la disposición en contracorriente?
 - A. Una transferencia de O2 extremadamente eficiente
 - B. Una transferencia de O2 muy pobre, que se compensa con el volumen de sangre
 - C. La eliminación completa del CO2 de la sangre
@@ -1128,9 +1102,7 @@ De acuerdo con el libro de Biología, según la figura 35-4, ¿qué resultado da
 Esta disposición en contracorriente da como resultado una transferencia de O2 extremadamente eficiente.
 
 ### 63
-
-De acuerdo con el libro de Biología, según la figura 35-4, ¿qué se necesita para abastecer de O2 al torrente sanguíneo y a qué se debe su elevada capacidad de transporte?
-
+De acuerdo con el libro de Biología, ¿qué se necesita para abastecer de O2 al torrente sanguíneo y a qué se debe su elevada capacidad de transporte?
 - A. Se necesitan importantes volúmenes de agua, y la elevada capacidad de transporte de la sangre se debe a la hemoglobina, que une oxígeno
 - B. Se necesitan volúmenes muy pequeños de agua, y la capacidad de transporte se debe al plasma
 - C. Se necesita aire en lugar de agua, y la capacidad de transporte se debe a la mioglobina
@@ -1483,9 +1455,7 @@ De acuerdo con el libro de Biología, durante las situaciones de estrés, ¿qué
 Durante las situaciones de estrés, el sistema nervioso simpático dilata los bronquíolos, los cuales aumentan su diámetro, y, en consecuencia, el flujo de aire oxigenado también aumenta.
 
 ### 86
-
-De acuerdo con el libro de Biología, según la figura 35-5, ¿cómo son los pulmones de las aves y qué les permiten?
-
+De acuerdo con el libro de Biología, ¿cómo son los pulmones de las aves y qué les permiten?
 - A. Aunque son pequeños, son extraordinariamente eficientes, lo cual les permite soportar largos períodos de intensa actividad, como los vuelos migratorios
 - B. Son muy grandes y poco eficientes, por lo que deben descansar con frecuencia
 - C. Son pequeños y poco eficientes, lo cual limita su capacidad de vuelo
@@ -1498,9 +1468,7 @@ De acuerdo con el libro de Biología, según la figura 35-5, ¿cómo son los pul
 Si bien los pulmones de las aves son pequeños, estos son extraordinariamente eficientes, lo cual les permite soportar largos períodos de intensa actividad, como los vuelos migratorios.
 
 ### 87
-
-De acuerdo con el libro de Biología, según la figura 35-5, ¿en qué se diferencia la circulación del aire en las aves respecto de los mamíferos?
-
+De acuerdo con el libro de Biología, ¿en qué se diferencia la circulación del aire en las aves respecto de los mamíferos?
 - A. En los mamíferos el aire entra y sale del pulmón por la misma vía —la tráquea—, mientras que en las aves circula en un único sentido: ingresa por la zona posterior y, tras el intercambio gaseoso, lo abandona por la zona anterior
 - B. En las aves el aire entra y sale por la misma vía, mientras que en los mamíferos circula en un único sentido
 - C. En ambos grupos el aire circula en un único sentido a través del pulmón
@@ -1515,9 +1483,7 @@ A diferencia de los mamíferos, en los que el aire entra y sale del pulmón a tr
 > Es la diferencia de fondo entre los dos sistemas: en los **mamíferos** el aire va y viene por la misma vía (flujo y reflujo); en las **aves** el flujo es **unidireccional**, y por eso queda poco aire residual "muerto" (reactivo 90).
 
 ### 88
-
-De acuerdo con el libro de Biología, según la figura 35-5, ¿dónde están ubicados los sacos con los que se conecta cada pulmón de las aves?
-
+De acuerdo con el libro de Biología, ¿dónde están ubicados los sacos con los que se conecta cada pulmón de las aves?
 - A. En los espacios aéreos de los huesos
 - B. En la cavidad abdominal, junto al tubo digestivo
 - C. Dentro del propio tejido pulmonar, sin salir de él
@@ -1530,9 +1496,7 @@ De acuerdo con el libro de Biología, según la figura 35-5, ¿dónde están ubi
 Cada pulmón está conectado con varios sacos ubicados en los espacios aéreos de los huesos.
 
 ### 89
-
-De acuerdo con el libro de Biología, según la figura 35-5, ¿cuál es el recorrido del aire en el ciclo respiratorio de un ave?
-
+De acuerdo con el libro de Biología, ¿cuál es el recorrido del aire en el ciclo respiratorio de un ave?
 - A. Al inhalar, el aire entra por la tráquea y pasa a los sacos aéreos posteriores; en la espiración siguiente pasa de esos sacos a los pulmones, donde ocurre el intercambio gaseoso; en la siguiente inspiración sale de los pulmones hacia los sacos aéreos anteriores, y en la subsecuente espiración sale del cuerpo
 - B. Al inhalar, el aire pasa directamente a los pulmones y en la espiración sale del cuerpo, en un solo ciclo
 - C. Al inhalar, el aire entra por los sacos anteriores y en la espiración pasa a los posteriores
@@ -1545,9 +1509,7 @@ De acuerdo con el libro de Biología, según la figura 35-5, ¿cuál es el recor
 Cuando el ave inhala, el aire entra por la tráquea y pasa a los sacos aéreos posteriores. Durante la subsecuente espiración, pasa de los sacos posteriores a los pulmones, en donde se produce el intercambio gaseoso. Durante la siguiente inspiración, el aire sale de los pulmones e ingresa en los sacos aéreos anteriores; en la subsecuente espiración, sale del cuerpo.
 
 ### 90
-
-De acuerdo con el libro de Biología, según la figura 35-5, ¿qué función cumplen los sacos aéreos de las aves y qué resultado produce?
-
+De acuerdo con el libro de Biología, ¿qué función cumplen los sacos aéreos de las aves y qué resultado produce?
 - A. En ellos no se produce intercambio gaseoso; actúan como fuelles, insuflando aire fresco en los pulmones en cada ciclo respiratorio, y como resultado queda poco aire residual "muerto" en los pulmones, a diferencia de lo que ocurre en los mamíferos
 - B. En ellos se produce todo el intercambio gaseoso, y por eso los pulmones pueden ser pequeños
 - C. Almacenan sangre oxigenada como reservorio para el vuelo
@@ -1560,9 +1522,7 @@ De acuerdo con el libro de Biología, según la figura 35-5, ¿qué función cum
 En los sacos no se produce intercambio gaseoso; estos actúan como fuelles, insuflando aire fresco en los pulmones en cada ciclo respiratorio. Como resultado, queda poco aire residual "muerto" en los pulmones, a diferencia de lo que ocurre en los mamíferos.
 
 ### 91
-
-De acuerdo con el libro de Biología, según la figura 35-5, ¿cómo se llaman los tubos aéreos del pulmón de las aves y dónde ocurre allí el intercambio gaseoso?
-
+De acuerdo con el libro de Biología, ¿cómo se llaman los tubos aéreos del pulmón de las aves y dónde ocurre allí el intercambio gaseoso?
 - A. Se llaman parabronquios, y el intercambio gaseoso ocurre en la amplia malla de tubos capilares aéreos y capilares sanguíneos que forman el tejido respiratorio esponjoso
 - B. Se llaman alvéolos, y el intercambio ocurre en su pared junto a los capilares
 - C. Se llaman bronquíolos, y el intercambio ocurre en los sacos aéreos
@@ -1575,9 +1535,7 @@ De acuerdo con el libro de Biología, según la figura 35-5, ¿cómo se llaman l
 Los tubos aéreos del pulmón de las aves son los parabronquios. El intercambio gaseoso ocurre en la amplia malla de tubos capilares aéreos y capilares sanguíneos, que constituyen el tejido respiratorio esponjoso que se observa rodeando a los tubos mayores.
 
 ### 92
-
-De acuerdo con el libro de Biología, según la figura 35-5, ¿de qué animal es la microfotografía electrónica de barrido del tejido pulmonar?
-
+De acuerdo con el libro de Biología, ¿de qué animal es la microfotografía electrónica de barrido del tejido pulmonar?
 - A. De un pollo de 14 días
 - B. De un ave migratoria adulta
 - C. De un pez pulmonado
@@ -1592,9 +1550,7 @@ Microfotografía electrónica de barrido de un tejido pulmonar de un pollo de 14
 ## Sub-lote 13 · El recorrido del aire y los alvéolos humanos (fig. 35-6, p. 833)
 
 ### 93
-
-De acuerdo con el libro de Biología, según la figura 35-6, ¿cuál es el recorrido completo del aire en el sistema respiratorio humano?
-
+De acuerdo con el libro de Biología, ¿cuál es el recorrido completo del aire en el sistema respiratorio humano?
 - A. Ingresa por la nariz o la boca, pasa a la faringe, luego a la laringe y desciende finalmente por la tráquea, los bronquios y los bronquíolos hasta los alvéolos pulmonares
 - B. Ingresa por la nariz, pasa a la laringe, luego a la faringe y desciende por los bronquíolos hasta los bronquios
 - C. Ingresa por la boca, pasa al esófago y desde allí a los pulmones
@@ -1607,9 +1563,7 @@ De acuerdo con el libro de Biología, según la figura 35-6, ¿cuál es el recor
 El aire ingresa por la nariz o la boca, pasa a la faringe, luego a la laringe y desciende finalmente por la tráquea, los bronquios y los bronquíolos hasta los alvéolos pulmonares.
 
 ### 94
-
-De acuerdo con el libro de Biología, según la figura 35-6, ¿en cuántos alvéolos se produce el intercambio gaseoso en el par de pulmones?
-
+De acuerdo con el libro de Biología, ¿en cuántos alvéolos se produce el intercambio gaseoso en el par de pulmones?
 - A. En los aproximadamente 300 millones de alvéolos del par de pulmones
 - B. En los aproximadamente 300 mil alvéolos del par de pulmones
 - C. En los aproximadamente 3 millones de alvéolos del par de pulmones
@@ -1622,9 +1576,7 @@ De acuerdo con el libro de Biología, según la figura 35-6, ¿en cuántos alvé
 El intercambio gaseoso se produce en los aproximadamente 300 millones de alvéolos del par de pulmones.
 
 ### 95
-
-De acuerdo con el libro de Biología, según la figura 35-6, ¿a través de qué difunden el O2 y el CO2 hacia o desde la sangre?
-
+De acuerdo con el libro de Biología, ¿a través de qué difunden el O2 y el CO2 hacia o desde la sangre?
 - A. A través de la pared de los alvéolos y de los capilares sanguíneos
 - B. A través de la pared de la tráquea y de los bronquios
 - C. A través de las cuerdas vocales y la laringe

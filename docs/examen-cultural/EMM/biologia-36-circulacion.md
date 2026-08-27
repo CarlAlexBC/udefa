@@ -1475,9 +1475,7 @@ Las arterias carótidas, que irrigan el cerebro y garantizan, así, la integrida
 ---
 
 ### 78
-
-De acuerdo con el libro de Biología, según la figura del corazón humano, ¿cómo se distingue una vena de una arteria?
-
+De acuerdo con el libro de Biología, ¿cómo se distingue una vena de una arteria?
 - A. Se denomina vena a todo vaso que ingresa en el corazón y arteria a los que salen de él, independientemente de la concentración de oxígeno de la sangre
 - B. Vena es todo vaso con sangre desoxigenada y arteria todo vaso con sangre oxigenada
 - C. Vena es todo vaso que sale del corazón y arteria todo vaso que ingresa en él

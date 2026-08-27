@@ -1556,9 +1556,7 @@ De acuerdo con el libro de Biología, ¿qué hipótesis se pone a prueba al cruz
 Para probar la hipótesis de que los alelos aparecen en pares y de que ambos alelos de un par segregan durante la formación de los gametos, es necesario realizar un experimento adicional: cruzar plantas F1 de flores púrpura (obtenidas a partir de un cruzamiento entre plantas puras de flores púrpura y plantas de flores blancas) con plantas de flores blancas.
 
 ### 89
-
-De acuerdo con el libro de Biología, según la figura 11-19, ¿por qué se sabe con certeza que una planta de guisante de flores blancas es homocigótica para el alelo recesivo (bb)?
-
+De acuerdo con el libro de Biología, ¿por qué se sabe con certeza que una planta de guisante de flores blancas es homocigótica para el alelo recesivo (bb)?
 - A. Porque si tuviera un alelo B se expresaría como púrpura
 - B. Porque las flores blancas siempre son heterocigóticas
 - C. Porque el alelo b es dominante sobre el alelo B
@@ -1571,9 +1569,7 @@ De acuerdo con el libro de Biología, según la figura 11-19, ¿por qué se sabe
 Si una planta de guisante tiene flores blancas, sabemos con certeza que es homocigótica para el alelo recesivo (bb), pues si tuviera un alelo B se expresaría como púrpura.
 
 ### 90
-
-De acuerdo con el libro de Biología, según la figura 11-19, ¿qué genotipos puede tener una planta de guisante con flor púrpura?
-
+De acuerdo con el libro de Biología, ¿qué genotipos puede tener una planta de guisante con flor púrpura?
 - A. El genotipo Bb o BB
 - B. Solamente el genotipo BB
 - C. Solamente el genotipo bb
@@ -1624,9 +1620,7 @@ Si aparece un solo fenotipo, entonces, el progenitor era homocigótico para la c
 ## Sub-lote 25 · La segregación de los alelos y la relación 1:2:1 (figs. 11-17 y 11-18, pp. 227-228)
 
 ### 93
-
-De acuerdo con el libro de Biología, según la figura 11-17, ¿qué gametos produce una planta homocigótica para flores púrpura (BB)?
-
+De acuerdo con el libro de Biología, ¿qué gametos produce una planta homocigótica para flores púrpura (BB)?
 - A. Solo óvulos o granos de polen con el alelo para flor púrpura (B)
 - B. La mitad de los gametos con el alelo B y la otra mitad con el alelo b
 - C. Solo óvulos o granos de polen con el alelo para flor blanca (b)
@@ -1639,9 +1633,7 @@ De acuerdo con el libro de Biología, según la figura 11-17, ¿qué gametos pro
 Una planta de guisante homocigótica para flores púrpura (BB) solo produce óvulos o granos de polen con el alelo para flor púrpura (B).
 
 ### 94
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, según la figura 11-17, ¿qué proporción de gametos con cada alelo produce una planta heterocigótica (Bb)?
-
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿qué proporción de gametos con cada alelo produce una planta heterocigótica (Bb)?
 - A. La mitad de los gametos con el alelo B y la otra mitad con el alelo b
 - B. Todos los gametos con el alelo B
 - C. Tres cuartos con el alelo B y un cuarto con el alelo b
@@ -1654,9 +1646,7 @@ De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción 
 Esta planta produce la mitad de los gametos con el alelo B y la otra mitad con el alelo b, ya sea que se trate de óvulos o granos de polen.
 
 ### 95
-
-De acuerdo con el libro de Biología, según la figura 11-18, en el cruzamiento entre una planta BB y otra bb, ¿cuál es el fenotipo y el genotipo de la generación F1?
-
+De acuerdo con el libro de Biología, en el cruzamiento entre una planta BB y otra bb, ¿cuál es el fenotipo y el genotipo de la generación F1?
 - A. Fenotipo púrpura, pero genotipo Bb
 - B. Fenotipo blanco y genotipo bb
 - C. Fenotipo púrpura y genotipo BB
@@ -1669,9 +1659,7 @@ De acuerdo con el libro de Biología, según la figura 11-18, en el cruzamiento 
 El fenotipo de la progenie –la generación F1– es púrpura, pero su genotipo es Bb.
 
 ### 96
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, según la figura 11-18, ¿cuántos tipos de gametos produce la F1 heterocigótica y en qué proporción?
-
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos tipos de gametos produce la F1 heterocigótica y en qué proporción?
 - A. Cuatro tipos —granos de polen B, óvulos B, granos de polen b y óvulos b— en proporciones iguales
 - B. Dos tipos —óvulos B y granos de polen b— en proporciones iguales
 - C. Un solo tipo de gameto, que lleva a la vez el alelo B y el alelo b
@@ -1684,9 +1672,7 @@ De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción 
 La F1 heterocigótica produce cuatro tipos de gametos: granos de polen B, óvulos B, granos de polen b y óvulos b, en proporciones iguales.
 
 ### 97
-
-De acuerdo con el libro de Biología, según la figura 11-18, cuando la F1 heterocigótica (Bb) se autopoliniza, ¿cuál es la relación genotípica de la descendencia?
-
+De acuerdo con el libro de Biología, cuando la F1 heterocigótica (Bb) se autopoliniza, ¿cuál es la relación genotípica de la descendencia?
 - A. La relación 1:2:1 (1/4 BB, 2/4 Bb y 1/4 bb)
 - B. La relación 3:1 (tres dominantes a un recesivo)
 - C. La relación 9:3:3:1
@@ -1699,9 +1685,7 @@ De acuerdo con el libro de Biología, según la figura 11-18, cuando la F1 heter
 Los óvulos y los granos de polen B y b se combinan al azar y forman, en promedio, 1/4 BB (púrpura), 2/4 (o 1/2) Bb (púrpura) y 1/4 bb (blanco); lo que significa una relación genotípica de 1:2:1.
 
 ### 98
-
-De acuerdo con el libro de Biología, según la figura 11-18, ¿qué relación fenotípica da cuenta la relación genotípica 1:2:1?
-
+De acuerdo con el libro de Biología, ¿qué relación fenotípica da cuenta la relación genotípica 1:2:1?
 - A. Tres dominantes (púrpura) a un recesivo (blanco), que se expresa como 3:1
 - B. Dos dominantes a dos recesivos, que se expresa como 2:2
 - C. Un dominante a un recesivo, que se expresa como 1:1
@@ -1881,9 +1865,7 @@ De acuerdo con el libro de Biología, ¿cómo se reparten los cuatro pares de cr
 Una de las ventajas del uso de *Drosophila melanogaster* para estudios genéticos es que tiene solo cuatro pares de cromosomas. Tres pares son autosomas y el cuarto es el par sexual: XX en las hembras y XY en los machos.
 
 ### 109
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, según la figura 11-26, ¿cuántos cromosomas en total (2n) tiene la mosca de la fruta?
-
+De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos cromosomas en total (2n) tiene la mosca de la fruta?
 - A. Ocho cromosomas (2n = 8)
 - B. Catorce cromosomas (2n = 14)
 - C. Cuatro cromosomas (2n = 4)
@@ -1900,9 +1882,7 @@ Estas pequeñas moscas tienen solo cuatro pares de cromosomas (2n = 8), un hecho
 ## Sub-lote 29 · La mosca de ojos blancos y las características ligadas al sexo (figs. 11-27 a 11-29, pp. 236-238)
 
 ### 110
-
-De acuerdo con el libro de Biología, según la figura 11-27, ¿qué descubrió Morgan cuando buscaba diferencias genéticas entre las moscas *Drosophila*?
-
+De acuerdo con el libro de Biología, ¿qué descubrió Morgan cuando buscaba diferencias genéticas entre las moscas *Drosophila*?
 - A. Un solo individuo de ojos blancos en su población de miles de moscas
 - B. Cientos de individuos de ojos blancos en su población
 - C. Una mosca que carecía por completo de ojos
@@ -1975,9 +1955,7 @@ De acuerdo con el libro de Biología, ¿de qué convencieron a Morgan y a muchos
 Los resultados de los cruzamientos entre las moscas de la fruta de ojos blancos y las de ojos rojos convencieron a Morgan y a muchos otros genetistas de que la hipótesis de Sutton era correcta: los genes están en los cromosomas.
 
 ### 115
-
-De acuerdo con el libro de Biología, según la figura 11-28, ¿cómo se representan el alelo salvaje para ojos rojos y la característica menos común de ojos blancos?
-
+De acuerdo con el libro de Biología, ¿cómo se representan el alelo salvaje para ojos rojos y la característica menos común de ojos blancos?
 - A. El alelo salvaje para ojos rojos con una B y el de ojos blancos con una b
 - B. El alelo para ojos rojos con una b y el de ojos blancos con una B
 - C. Ambos alelos con la letra X
@@ -1990,9 +1968,7 @@ De acuerdo con el libro de Biología, según la figura 11-28, ¿cómo se represe
 El alelo salvaje para ojos rojos se representa con una B y la característica menos común, ojos blancos, con una b.
 
 ### 116
-
-De acuerdo con el libro de Biología, según la figura 11-28, al cruzar entre sí moscas de ojos rojos de la F1, ¿qué se obtuvo en la generación F2 y qué sugirió?
-
+De acuerdo con el libro de Biología, al cruzar entre sí moscas de ojos rojos de la F1, ¿qué se obtuvo en la generación F2 y qué sugirió?
 - A. Machos de ojos rojos y de ojos blancos, pero todas las hembras de ojos rojos; sugirió una relación entre el color de ojos y los cromosomas sexuales
 - B. Todas las moscas de ojos rojos, sin relación alguna con el sexo
 - C. Todos los machos de ojos rojos y todas las hembras de ojos blancos
@@ -2005,9 +1981,7 @@ De acuerdo con el libro de Biología, según la figura 11-28, al cruzar entre s�
 Cuando apareó a una hembra de ojos rojos de la F1 con un macho de ojos rojos de la F1, obtuvo en la generación F2 machos de ojos rojos y de ojos blancos, pero todas las hembras F2 tuvieron ojos rojos. Esto sugirió una relación entre la herencia del color de ojos y el comportamiento de los cromosomas sexuales.
 
 ### 117
-
-De acuerdo con el libro de Biología, según la figura 11-28, en el cruzamiento de prueba entre una hembra F1 de ojos rojos (de genotipo desconocido) y el macho original de ojos blancos, ¿qué indicaron los resultados?
-
+De acuerdo con el libro de Biología, en el cruzamiento de prueba entre una hembra F1 de ojos rojos (de genotipo desconocido) y el macho original de ojos blancos, ¿qué indicaron los resultados?
 - A. Que la hembra F1 era heterocigótica, y sugirieron que el gen para el color de ojos estaba localizado en el cromosoma X
 - B. Que la hembra F1 era homocigótica dominante
 - C. Que la hembra F1 era homocigótica recesiva
@@ -2020,9 +1994,7 @@ De acuerdo con el libro de Biología, según la figura 11-28, en el cruzamiento 
 El genotipo de la hembra antes del cruzamiento de prueba era desconocido; la hembra de la F1 podía ser tanto homocigótica como heterocigótica. Los resultados indicaron que la segunda opción era la correcta y sugirieron que el gen para el color de ojos debía estar localizado en el cromosoma X.
 
 ### 118
-
-De acuerdo con el libro de Biología, según la figura 11-29 (cruce entre una hembra de ojos blancos y un macho de ojos rojos), ¿por qué los machos F1 son todos de ojos blancos?
-
+De acuerdo con el libro de Biología, ¿por qué los machos F1 son todos de ojos blancos?
 - A. Porque con su único cromosoma X recibido de la hembra llevan el alelo recesivo b, y el cromosoma Y no lleva gen para color de ojos
 - B. Porque reciben el alelo recesivo del padre de ojos rojos
 - C. Porque en los machos el alelo para ojos blancos se vuelve dominante
@@ -2127,9 +2099,7 @@ De acuerdo con el libro de Biología, ¿cómo se conoce el fenómeno por el cual
 El fenómeno se conoce como dominancia incompleta y, en este caso, es el resultado de una producción menor de pigmento rojo de los ejemplares heterocigóticos de la F1.
 
 ### 124
-
-De acuerdo con el libro de Biología, según la figura 11-30, en la dominancia incompleta del *Antirrhinum*, ¿qué ocurre con los alelos y con la flor del heterocigoto?
-
+De acuerdo con el libro de Biología, en la dominancia incompleta del *Antirrhinum*, ¿qué ocurre con los alelos y con la flor del heterocigoto?
 - A. Ningún alelo es dominante y la flor del heterocigoto presenta un fenotipo intermedio entre los dos colores
 - B. El alelo rojo es dominante y la flor del heterocigoto es roja
 - C. El alelo blanco es dominante y la flor del heterocigoto es blanca
@@ -2461,9 +2431,7 @@ De acuerdo con el libro de Biología, en las especies en las que los machos son 
 En las especies en las que los machos son heterogaméticos, el cromosoma sexual aportado por el espermatozoide define el sexo cromosómico de la progenie.
 
 ### 144
-
-De acuerdo con el libro de Biología, según la figura 11-25, ¿a qué da lugar el cigoto si al óvulo lo fecunda un espermatozoide con cromosoma X, y si lo fecunda uno con cromosoma Y?
-
+De acuerdo con el libro de Biología, ¿a qué da lugar el cigoto si al óvulo lo fecunda un espermatozoide con cromosoma X, y si lo fecunda uno con cromosoma Y?
 - A. Con el cromosoma X, a una hembra (XX); con el cromosoma Y, a un macho (XY)
 - B. Con el cromosoma X, a un macho (XY); con el cromosoma Y, a una hembra (XX)
 - C. Con el cromosoma X o con el Y, siempre a una hembra (XX)
@@ -2525,9 +2493,7 @@ De acuerdo con el libro de Biología, las características determinadas por vari
 Las características determinadas por varios genes, o poligenes, no muestran diferencias nítidas entre los grupos de individuos, como las estudiadas por Mendel. En cambio, muestran una gradación de pequeñas diferencias que se conoce como variación continua.
 
 ### 148
-
-De acuerdo con el libro de Biología, según la figura 11-32, ¿qué forma tiene la curva de distribución de la altura de los hombres de una población y dónde se ubica la media?
-
+De acuerdo con el libro de Biología, ¿qué forma tiene la curva de distribución de la altura de los hombres de una población y dónde se ubica la media?
 - A. Forma de campana, con la media o promedio ubicada habitualmente en el centro de la curva
 - B. Forma de recta ascendente, con la media en un extremo
 - C. Forma de campana, con la media siempre en un extremo
@@ -2589,9 +2555,7 @@ De acuerdo con el libro de Biología, según el ejemplo de la plántula, que tie
 Una plántula puede tener la capacidad determinada genéticamente de ser verde, de florecer y fructificar, pero nunca se volverá verde si se mantiene en la oscuridad.
 
 ### 152
-
-De acuerdo con el libro de Biología, según la figura 11-33, en el ranúnculo de agua, ¿cómo son las hojas que crecen por encima del agua frente a las que crecen bajo el agua, siendo genéticamente idénticas?
-
+De acuerdo con el libro de Biología, en el ranúnculo de agua, ¿cómo son las hojas que crecen por encima del agua frente a las que crecen bajo el agua, siendo genéticamente idénticas?
 - A. Las de encima son anchas, planas y lobuladas; las de bajo el agua, delgadas y finamente divididas
 - B. Las de encima son delgadas y divididas; las de bajo el agua, anchas y planas
 - C. Todas las hojas son idénticas en forma, por encima y por debajo del agua

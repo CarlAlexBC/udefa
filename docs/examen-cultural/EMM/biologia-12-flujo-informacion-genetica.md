@@ -332,9 +332,7 @@ De acuerdo con el libro de Biología, ¿por qué "dogma" fue una denominación p
 ## Sub-lote 3 · El experimento de Beadle y Tatum y el dogma en imágenes (figs. 12-1 y 12-2, p. 247)
 
 ### 14
-
-De acuerdo con el libro de Biología, según la figura 12-1, ¿qué propusieron Beadle y Tatum a partir de su experimento con *Neurospora*?
-
+De acuerdo con el libro de Biología, ¿qué propusieron Beadle y Tatum a partir de su experimento con *Neurospora*?
 - A. Que un cambio en un solo gen da como resultado un cambio en una sola enzima
 - B. Que un cambio en una sola enzima cambia todos los genes
 - C. Que las mutaciones no afectan a las enzimas
@@ -347,9 +345,7 @@ De acuerdo con el libro de Biología, según la figura 12-1, ¿qué propusieron 
 Sobre la base de esta experiencia, Beadle y Tatum propusieron que un cambio en un solo gen da como resultado un cambio en una sola enzima.
 
 ### 15
-
-De acuerdo con el libro de Biología, según la figura 12-2, ¿en qué dirección propuso Francis Crick que fluye la información?
-
+De acuerdo con el libro de Biología, ¿en qué dirección propuso Francis Crick que fluye la información?
 - A. En una única dirección: del ADN a las proteínas
 - B. En una única dirección: de las proteínas al ADN
 - C. En ambas direcciones entre el ADN y las proteínas
@@ -773,9 +769,7 @@ De acuerdo con el libro de Biología, ¿cuándo finaliza la transcripción?
 La transcripción finaliza cuando la ARN polimerasa sobrepasa la secuencia terminadora, el ARN recién sintetizado se libera y la burbuja se cierra.
 
 ### 42
-
-De acuerdo con el libro de Biología, según la figura 12-4, ¿en qué extremo del ARN naciente se adicionan los ribonucleótidos?
-
+De acuerdo con el libro de Biología, ¿en qué extremo del ARN naciente se adicionan los ribonucleótidos?
 - A. En el extremo 3', previa eliminación de dos grupos fosfato
 - B. En el extremo 5', sin eliminar ningún grupo fosfato
 - C. En los dos extremos del ARN a la vez
@@ -1399,9 +1393,7 @@ De acuerdo con el libro de Biología, entre las pocas excepciones a la universal
 Se han encontrado unas pocas excepciones interesantes: en algunos casos, un codón que en la mayoría de los organismos es de terminación codifica un aminoácido, como ocurre en la bacteria *Mycoplasma*, en el protozoo ciliado *Paramecium* y en las mitocondrias de varios organismos.
 
 ### 81
-
-De acuerdo con el libro de Biología, según la figura 12-9, ¿en qué cuatro grupos se clasifican los 20 aminoácidos que comúnmente constituyen las proteínas?
-
+De acuerdo con el libro de Biología, ¿en qué cuatro grupos se clasifican los 20 aminoácidos que comúnmente constituyen las proteínas?
 - A. No polares; polares (con carga neutra a pH 7); ácidos (cargados negativamente a pH 7); y básicos (cargados positivamente a pH 7)
 - B. Grandes, medianos, pequeños y diminutos
 - C. Esenciales, no esenciales, ácidos y neutros
@@ -1512,9 +1504,7 @@ De acuerdo con el libro de Biología, ¿qué hace cada aminoacil-ARNt sintetasa,
 Cada aminoacil-ARNt sintetasa reconoce y une un determinado tipo de aminoácido con un determinado tipo de ARNt. En esta especificidad está la clave de la traducción.
 
 ### 88
-
-De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, según la figura 12-10, ¿cuántos tripletes diferentes corresponden al aminoácido leucina?
-
+De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, ¿cuántos tripletes diferentes corresponden al aminoácido leucina?
 - A. Seis tripletes diferentes
 - B. Un solo triplete
 - C. Veinte tripletes
