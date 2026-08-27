@@ -1558,9 +1558,7 @@ La epigenética es, históricamente y en la actualidad, un área que se ocupa de
 ---
 
 ### 70
-
-De acuerdo con el libro de Biología, en la metáfora "literaria" del capítulo, ¿qué sería la información epigenética si la secuencia de ADN fuera un "manual de instrucciones"?
-
+De acuerdo con el libro de Biología, en la metáfora "literaria", ¿qué sería la información epigenética si la secuencia de ADN fuera un "manual de instrucciones"?
 - A. Una versión de ese texto con anotaciones colaterales y palabras o párrafos resaltados con colores
 - B. Una segunda copia idéntica de ese mismo manual, guardada en el citoplasma
 - C. Un índice que ordena alfabéticamente los capítulos del manual

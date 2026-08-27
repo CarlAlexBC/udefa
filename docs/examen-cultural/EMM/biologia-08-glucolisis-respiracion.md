@@ -869,9 +869,7 @@ En los recuadros violetas figuran los nombres de los sucesivos compuestos de car
 ## Sub-lote 10 · El balance de las reacciones preparatorias (p. 149)
 
 ### 46
-
-De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, en el curso de las reacciones vistas hasta el paso 3, ¿cuántas moléculas de ATP se han convertido en ADP?
-
+De acuerdo con el libro de Biología, en el curso de las reacciones vistas hasta el paso 3, ¿cuántas moléculas de ATP se han convertido en ADP?
 - A. Dos
 - B. Una
 - C. Cuatro
@@ -997,9 +995,7 @@ De conformidad con el libro de Biología, ¿a dónde son transferidos los átomo
 Los átomos de hidrógeno con sus electrones, provenientes de esta oxidación, son transferidos al NAD⁺ que se reduce a NADH y H⁺.
 
 ### 54
-
-En relación con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, ¿cuántas moléculas de NADH y cuántos iones H⁺ se obtienen por cada molécula de glucosa en ese paso?
-
+En relación con el libro de Biología, ¿cuántas moléculas de NADH y cuántos iones H⁺ se obtienen por cada molécula de glucosa en ese paso?
 - A. Un total de dos moléculas de NADH y dos iones H⁺
 - B. Un total de una molécula de NADH y un ion H⁺
 - C. Un total de cuatro moléculas de NADH y cuatro iones H⁺
@@ -1332,9 +1328,7 @@ De conformidad con el libro de Biología, ¿qué ocurre en primer lugar en la ox
 En primer lugar, los átomos de carbono y de oxígeno del grupo carboxilo se eliminan en forma de CO₂ y queda un grupo acetilo de dos carbonos.
 
 ### 75
-
-En relación con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, ¿cuántas moléculas nuevas de NADH se forman en ese proceso?
-
+En relación con el libro de Biología, ¿cuántas moléculas nuevas de NADH se forman en ese proceso?
 - A. Dos
 - B. Una
 - C. Cuatro
@@ -2088,7 +2082,7 @@ En relación con el libro de Biología, ¿en qué se convierten los 2 NADH produ
 2 NADH → 2 NADH o 2 FADH₂.
 
 ### 121
-De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, ¿cuántos NADH y FADH₂ salen del ciclo de Krebs?
+De acuerdo con el libro de Biología, ¿cuántos NADH y FADH₂ salen del ciclo de Krebs?
 - A. 6 NADH y 2 FADH₂
 - B. 2 NADH y 6 FADH₂
 - C. 6 NADH y 6 FADH₂
@@ -2101,7 +2095,7 @@ De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y l
 Ciclo de Krebs: 6 NADH, 2 FADH₂.
 
 ### 122
-De conformidad con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, ¿cuánto ATP aporta la fosforilación oxidativa?
+De conformidad con el libro de Biología, ¿cuánto ATP aporta la fosforilación oxidativa?
 - A. Aproximadamente 32 o 34 ATP
 - B. Aproximadamente 36 o 38 ATP
 - C. Exactamente 2 ATP
@@ -2132,7 +2126,7 @@ En relación con el libro de Biología, ¿cuál es el total aproximado de ATP de
 > FADH₂—, pero conviene tener presentes las dos cifras.
 
 ### 124
-De acuerdo con el libro de Biología, en el capítulo 8 sobre la glucólisis y la respiración celular, ¿cuánto ATP aportan por separado la glucólisis y el ciclo de Krebs?
+De acuerdo con el libro de Biología, ¿cuánto ATP aportan por separado la glucólisis y el ciclo de Krebs?
 - A. 2 ATP cada uno
 - B. 4 ATP cada uno
 - C. 2 ATP la glucólisis y 4 el ciclo de Krebs

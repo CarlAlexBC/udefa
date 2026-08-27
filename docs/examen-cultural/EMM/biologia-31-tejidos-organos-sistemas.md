@@ -262,9 +262,7 @@ Los tejidos pueden unirse entre sí y formar órganos; esta unión no solo es es
 ## Sub-lote 3 · Los cuatro tipos de tejidos y las cavidades (figs. 31-3 y 31-4, pp. 741-742)
 
 ### 11
-
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
-
+De acuerdo con el libro de Biología, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
 - A. Alrededor de 200 tipos de células, que se agrupan en solo cuatro tipos de tejidos
 - B. Cuatro tipos de células, agrupadas en 200 tejidos
 - C. Veinte tipos de células y veinte tipos de tejidos
@@ -914,7 +912,7 @@ El tejido óseo almacena calcio y fosfato que pueden pasar a la sangre, reguland
 ## Sub-lote 10 · El esqueleto humano (fig. 31-7, p. 745)
 
 ### 53
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos huesos contiene el esqueleto de un adulto?
+De acuerdo con el libro de Biología, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos huesos contiene el esqueleto de un adulto?
 - A. 206 huesos
 - B. 300 huesos
 - C. 150 huesos
@@ -927,7 +925,7 @@ De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órg
 El esqueleto de un adulto contiene 206 huesos.
 
 ### 54
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
+De acuerdo con el libro de Biología, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
 - A. 29 huesos, incluidos los 14 de la cara y los 6 huesecillos de los oídos
 - B. 14 huesos, todos de la cara
 - C. 6 huesos, todos de los oídos
@@ -940,7 +938,7 @@ De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órg
 Veintinueve huesos pertenecen al cráneo, incluidos los 14 huesos de la cara y los 6 huesecillos de los oídos.
 
 ### 55
-De acuerdo con el libro de Biología, en el capítulo 31 sobre los tejidos, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos huesos hay en cada mano y en cada pie?
+De acuerdo con el libro de Biología, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos huesos hay en cada mano y en cada pie?
 - A. 27 huesos en cada mano y 26 en cada pie
 - B. 26 huesos en cada mano y 27 en cada pie
 - C. 10 huesos en cada mano y 10 en cada pie

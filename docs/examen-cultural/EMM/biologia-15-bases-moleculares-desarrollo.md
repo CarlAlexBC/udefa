@@ -305,9 +305,7 @@ Ellos identificaron y describieron las tres capas germinales (ectodermo, endoder
 ---
 
 ### 13
-
-De acuerdo con el libro de Biología, en el capítulo 15 sobre las bases moleculares del desarrollo, ¿en qué año se acuñó el término *gen*?
-
+De acuerdo con el libro de Biología, ¿en qué año se acuñó el término *gen*?
 - A. En 1909
 - B. En 1900
 - C. En 1859

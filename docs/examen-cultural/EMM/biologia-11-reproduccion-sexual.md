@@ -192,9 +192,7 @@ Este mecanismo [la mitosis] es el responsable de la reproducción asexual de los
 ## Sub-lote 2 · El número de cromosomas por especie (p. 212)
 
 ### 5
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos cromosomas tiene un ser humano en cada célula somática?
-
+De acuerdo con el libro de Biología, ¿cuántos cromosomas tiene un ser humano en cada célula somática?
 - A. 46
 - B. 38
 - C. 20
@@ -207,9 +205,7 @@ De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción 
 Un mosquito tiene 6 cromosomas en cada célula somática (del cuerpo); el maíz, 20; un gato, 38; un ser humano, 46; una papa, también 46.
 
 ### 6
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos cromosomas tiene un mosquito en cada célula somática?
-
+De acuerdo con el libro de Biología, ¿cuántos cromosomas tiene un mosquito en cada célula somática?
 - A. 6
 - B. 20
 - C. 38
@@ -222,9 +218,7 @@ De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción 
 Un mosquito tiene 6 cromosomas en cada célula somática (del cuerpo); el maíz, 20; un gato, 38; un ser humano, 46; una papa, también 46.
 
 ### 7
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos cromosomas tiene el maíz en cada célula somática?
-
+De acuerdo con el libro de Biología, ¿cuántos cromosomas tiene el maíz en cada célula somática?
 - A. 20
 - B. 6
 - C. 38
@@ -403,9 +397,7 @@ Anafase II. Al igual que en la anafase de la mitosis, las cromátidas se separan
 ## Sub-lote 5 · Mitosis y meiosis: procesos similares, pero diferentes (p. 215)
 
 ### 18
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántas veces se divide cada núcleo diploide durante la meiosis y cuántos núcleos produce?
-
+De acuerdo con el libro de Biología, ¿cuántas veces se divide cada núcleo diploide durante la meiosis y cuántos núcleos produce?
 - A. Se divide dos veces y produce cuatro núcleos
 - B. Se divide una vez y produce dos núcleos
 - C. Se divide cuatro veces y produce ocho núcleos
@@ -452,9 +444,7 @@ De acuerdo con el libro de Biología, ¿en qué tipo de células puede ocurrir l
 La mitosis puede ocurrir en las células haploides o diploides, mientras que la meiosis ocurre solo en aquellas células con un número diploide (o poliploide) de cromosomas.
 
 ### 21
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántas veces se duplican los cromosomas antes de la primera división nuclear en la meiosis, y qué contiene cada núcleo hijo?
-
+De acuerdo con el libro de Biología, ¿cuántas veces se duplican los cromosomas antes de la primera división nuclear en la meiosis, y qué contiene cada núcleo hijo?
 - A. Se duplican solo una vez, y cada núcleo hijo contiene la mitad del número de cromosomas del núcleo original
 - B. Se duplican dos veces, y cada núcleo hijo contiene el mismo número de cromosomas
 - C. No se duplican, y cada núcleo hijo contiene el doble de cromosomas
@@ -565,9 +555,7 @@ De acuerdo con el libro de Biología, ¿cómo se llaman las células diploides d
 En la hembra, las células diploides que sufren la división meiótica se llaman oocitos primarios.
 
 ### 28
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos óvulos se forman de cada oocito primario y qué más se produce?
-
+De acuerdo con el libro de Biología, ¿cuántos óvulos se forman de cada oocito primario y qué más se produce?
 - A. Un solo óvulo, junto con dos o tres cuerpos polares
 - B. Cuatro óvulos, sin cuerpos polares
 - C. Dos óvulos y dos cuerpos polares
@@ -742,9 +730,7 @@ De acuerdo con el libro de Biología, ¿cómo son genéticamente los individuos 
 Debido al proceso de duplicación cromosómica que ocurre en la mitosis, los individuos producidos en forma asexual son genéticamente idénticos a sus progenitores, salvo que ocurra algún tipo de mutación. En contraste, en los individuos producidos sexualmente, el potencial para la variabilidad genética es enorme.
 
 ### 39
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos procesos fundamentales funcionan como fuentes de variabilidad genética en las especies de reproducción sexual?
-
+De acuerdo con el libro de Biología, ¿cuántos procesos fundamentales funcionan como fuentes de variabilidad genética en las especies de reproducción sexual?
 - A. Tres
 - B. Dos
 - C. Cuatro
@@ -953,9 +939,7 @@ De acuerdo con el libro de Biología, ¿con cuántas variedades diferentes de pl
 Mendel comenzó su trabajo con 32 variedades diferentes de plantas de guisante, a las que estudió durante varios años antes de comenzar sus experimentos cuantitativos.
 
 ### 52
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántas características seleccionó Mendel para su estudio, cada una con dos variantes distintas?
-
+De acuerdo con el libro de Biología, ¿cuántas características seleccionó Mendel para su estudio, cada una con dos variantes distintas?
 - A. Siete características
 - B. Dos características
 - C. Treinta y dos características
@@ -1032,9 +1016,7 @@ Se pueden obtener fácilmente líneas puras en relación con una determinada car
 ## Sub-lote 16 · Caracteres dominantes y recesivos (pp. 225–226)
 
 ### 57
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, al analizar la F1, ¿cuántas de las dos variantes alternativas mostraban los miembros de la progenie?
-
+De acuerdo con el libro de Biología, al analizar la F1, ¿cuántas de las dos variantes alternativas mostraban los miembros de la progenie?
 - A. Solo una de las dos variantes alternativas
 - B. Las dos variantes por igual
 - C. Una variante intermedia entre las dos
@@ -1258,9 +1240,7 @@ De acuerdo con el libro de Biología, ¿cuándo se manifiesta un alelo recesivo?
 Un alelo recesivo solo se manifiesta en homocigosis.
 
 ### 71
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos alelos de cada gen recibe cada gameto cuando se forman durante la meiosis?
-
+De acuerdo con el libro de Biología, ¿cuántos alelos de cada gen recibe cada gameto cuando se forman durante la meiosis?
 - A. Solamente un alelo de cada gen
 - B. Los dos alelos de cada gen
 - C. Ningún alelo, hasta la fecundación
@@ -1296,9 +1276,7 @@ Una de las formas más simples de predecir los tipos de descendencia que serán 
 ## Sub-lote 21 · El cruzamiento dihíbrido (p. 228)
 
 ### 73
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, en su segunda serie de experimentos, ¿cuántas características analizó Mendel simultáneamente?
-
+De acuerdo con el libro de Biología, en su segunda serie de experimentos, ¿cuántas características analizó Mendel simultáneamente?
 - A. Dos características simultáneamente
 - B. Una sola característica a través de dos generaciones
 - C. Siete características simultáneamente
@@ -1432,9 +1410,7 @@ Sutton supuso que los *elemente* descritos por Mendel –que hoy conocemos como 
 > corte del extractor, es la palabra que usa el Curtis.
 
 ### 81
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿en qué año se encontraba Sutton estudiando la formación de las células sexuales en machos de saltamontes?
-
+De acuerdo con el libro de Biología, ¿en qué año se encontraba Sutton estudiando la formación de las células sexuales en machos de saltamontes?
 - A. En 1902
 - B. En 1822
 - C. En 1884
@@ -1633,7 +1609,7 @@ De acuerdo con el libro de Biología, ¿qué gametos produce una planta homocig�
 Una planta de guisante homocigótica para flores púrpura (BB) solo produce óvulos o granos de polen con el alelo para flor púrpura (B).
 
 ### 94
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿qué proporción de gametos con cada alelo produce una planta heterocigótica (Bb)?
+De acuerdo con el libro de Biología, ¿qué proporción de gametos con cada alelo produce una planta heterocigótica (Bb)?
 - A. La mitad de los gametos con el alelo B y la otra mitad con el alelo b
 - B. Todos los gametos con el alelo B
 - C. Tres cuartos con el alelo B y un cuarto con el alelo b
@@ -1659,7 +1635,7 @@ De acuerdo con el libro de Biología, en el cruzamiento entre una planta BB y ot
 El fenotipo de la progenie –la generación F1– es púrpura, pero su genotipo es Bb.
 
 ### 96
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos tipos de gametos produce la F1 heterocigótica y en qué proporción?
+De acuerdo con el libro de Biología, ¿cuántos tipos de gametos produce la F1 heterocigótica y en qué proporción?
 - A. Cuatro tipos —granos de polen B, óvulos B, granos de polen b y óvulos b— en proporciones iguales
 - B. Dos tipos —óvulos B y granos de polen b— en proporciones iguales
 - C. Un solo tipo de gameto, que lleva a la vez el alelo B y el alelo b
@@ -1771,9 +1747,7 @@ El artículo del joven Sutton, sin embargo, se publicó primero y su presentaci�
 ## Sub-lote 27 · Morgan y la mosca *Drosophila* (p. 232)
 
 ### 103
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿en qué año y en qué universidad fundó Thomas H. Morgan el que sería el laboratorio de genética más importante de las décadas siguientes?
-
+De acuerdo con el libro de Biología, ¿en qué año y en qué universidad fundó Thomas H. Morgan el que sería el laboratorio de genética más importante de las décadas siguientes?
 - A. En 1909, en la Universidad de Columbia
 - B. En 1902, en la Universidad de Columbia
 - C. En 1909, en la Universidad de Brünn
@@ -1816,9 +1790,7 @@ De acuerdo con el libro de Biología, ¿qué organismo eligió Morgan como su or
 Con una notable combinación entre intuición y suerte, Morgan eligió a la mosca del vinagre *Drosophila melanogaster*, también conocida como la mosca de la fruta, como su organismo experimental.
 
 ### 106
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, entre las ventajas de la mosca de la fruta como material de investigación, ¿cuánto mide de largo y cada cuánto puede producir una nueva generación?
-
+De acuerdo con el libro de Biología, entre las ventajas de la mosca de la fruta como material de investigación, ¿cuánto mide de largo y cada cuánto puede producir una nueva generación?
 - A. Mide solo 3 milímetros de largo y puede producir una nueva generación cada dos semanas
 - B. Mide solo 3 centímetros de largo y puede producir una nueva generación cada dos meses
 - C. Mide solo 1 milímetro de largo y puede producir una nueva generación cada semana
@@ -1865,7 +1837,7 @@ De acuerdo con el libro de Biología, ¿cómo se reparten los cuatro pares de cr
 Una de las ventajas del uso de *Drosophila melanogaster* para estudios genéticos es que tiene solo cuatro pares de cromosomas. Tres pares son autosomas y el cuarto es el par sexual: XX en las hembras y XY en los machos.
 
 ### 109
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, ¿cuántos cromosomas en total (2n) tiene la mosca de la fruta?
+De acuerdo con el libro de Biología, ¿cuántos cromosomas en total (2n) tiene la mosca de la fruta?
 - A. Ocho cromosomas (2n = 8)
 - B. Catorce cromosomas (2n = 14)
 - C. Cuatro cromosomas (2n = 4)
@@ -2386,9 +2358,7 @@ Sin embargo, en otros casos, como en las aves, las polillas y las mariposas, ocu
 ## Sub-lote 36 · La meiosis y la determinación cromosómica del sexo (fig. 11-25, p. 234)
 
 ### 141
-
-De acuerdo con el libro de Biología, en el capítulo 11 sobre la reproducción sexual, en los humanos, durante la meiosis del varón, ¿cuántos espermatozoides produce cada célula diploide y qué cromosoma sexual recibe cada uno?
-
+De acuerdo con el libro de Biología, en los humanos, durante la meiosis del varón, ¿cuántos espermatozoides produce cada célula diploide y qué cromosoma sexual recibe cada uno?
 - A. Cuatro espermatozoides haploides: dos reciben un cromosoma X y los otros dos, un cromosoma Y
 - B. Dos espermatozoides haploides: uno con el cromosoma X y otro con el Y
 - C. Cuatro espermatozoides haploides, todos con el cromosoma X

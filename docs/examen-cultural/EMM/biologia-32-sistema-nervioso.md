@@ -469,9 +469,7 @@ De acuerdo con el libro de Biología, según el ejemplo del *Argentinosaurus* (c
 La capacidad para ejecutar funciones complejas no depende necesariamente del tamaño. Un encéfalo relativamente simple y pequeño puede llevar a cabo un control estricto del cuerpo, como en el *Argentinosaurus*, un dinosaurio de cuello largo.
 
 ### 16
-
-De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuánto pesa el encéfalo más grande (el de la ballena) y qué porcentaje del peso corporal representa?
-
+De acuerdo con el libro de Biología, ¿cuánto pesa el encéfalo más grande (el de la ballena) y qué porcentaje del peso corporal representa?
 - A. Pesa 10 000 g, pero representa solo el 0,02% del peso corporal
 - B. Pesa 1400 g y representa el 2% del peso corporal
 - C. Pesa 100 g y representa el 10% del peso corporal
@@ -484,9 +482,7 @@ De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervio
 El encéfalo más grande es el de la ballena, que pesa 10 000 g, pero representa solo el 0,02% del peso corporal.
 
 ### 17
-
-De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuánto pesa el encéfalo humano y qué porcentaje del peso corporal representa?
-
+De acuerdo con el libro de Biología, ¿cuánto pesa el encéfalo humano y qué porcentaje del peso corporal representa?
 - A. Pesa unos 1300-1500 g y representa el 2% del peso corporal
 - B. Pesa 10 000 g y representa el 0,02% del peso corporal
 - C. Pesa 300 g y representa el 30% del peso corporal
@@ -1027,9 +1023,7 @@ De acuerdo con el libro de Biología, ¿qué regula la división entérica del s
 Una tercera división es la división entérica, que regula el funcionamiento autónomo del sistema digestivo.
 
 ### 52
-
-De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuántos pares de nervios craneales hay y cómo se conectan?
-
+De acuerdo con el libro de Biología, ¿cuántos pares de nervios craneales hay y cómo se conectan?
 - A. 13 pares (numerados del 0 al XII), que se conectan de modo directo con el encéfalo
 - B. 31 pares, que se conectan con la médula espinal
 - C. 10 pares, que se conectan con el cerebelo
@@ -1042,9 +1036,7 @@ De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervio
 Los nervios craneales se conectan de modo directo con el encéfalo. Son 13 pares (que se denominan numerándolos del 0 al XII) en la mayoría de los vertebrados, incluidos los seres humanos.
 
 ### 53
-
-De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, los nervios espinales o raquídeos se conectan con la médula espinal. ¿Cuántos pares hay en los humanos y de qué tipo son?
-
+De acuerdo con el libro de Biología, los nervios espinales o raquídeos se conectan con la médula espinal. ¿Cuántos pares hay en los humanos y de qué tipo son?
 - A. 31 pares en los humanos; todos son mixtos (sensitivos y motores)
 - B. 13 pares en los humanos; todos solo sensitivos
 - C. 10 pares en los humanos; todos solo motores
@@ -1057,9 +1049,7 @@ De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervio
 Los nervios espinales o raquídeos se conectan con la médula espinal. En los humanos hay 31. Todos los pares de nervios espinales son mixtos (sensitivos y motores).
 
 ### 54
-
-De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuántos pares de nervios espinales hay en las ranas, en los humanos y en el caballo?
-
+De acuerdo con el libro de Biología, ¿cuántos pares de nervios espinales hay en las ranas, en los humanos y en el caballo?
 - A. En las ranas 10, en los humanos 31 y en el caballo 42
 - B. En las ranas 42, en los humanos 10 y en el caballo 31
 - C. En los tres, 13 pares
@@ -2125,7 +2115,7 @@ De acuerdo con el libro de Biología, ¿cuál fue el primer organismo utilizado 
 El primer organismo utilizado como modelo en los estudios de las señales eléctricas en el sistema nervioso fue el calamar, elegido por sus neuronas motoras de grandes axones.
 
 ### 126
-De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿qué diámetro alcanzan los axones gigantes del calamar y para qué se usaron?
+De acuerdo con el libro de Biología, ¿qué diámetro alcanzan los axones gigantes del calamar y para qué se usaron?
 - A. Un diámetro de hasta 1 mm, y se usaron en todos los estudios tempranos de neurofisiología
 - B. Un diámetro de hasta 1 cm, y se usaron para estudiar el sistema endocrino
 - C. Un diámetro de hasta 0,1 mm, y se usaron para estudiar los músculos esqueléticos
@@ -2333,9 +2323,7 @@ De acuerdo con el libro de Biología, frente a un estímulo, ¿qué condición d
 Frente a un estímulo, si su intensidad es suficiente (supera un valor umbral), se genera un potencial de acción en el axón.
 
 ### 140
-
-De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, los impulsos generados en el axón al superarse el umbral, ¿de qué tamaño son y cómo se llama esa respuesta?
-
+De acuerdo con el libro de Biología, los impulsos generados en el axón al superarse el umbral, ¿de qué tamaño son y cómo se llama esa respuesta?
 - A. Todos son del mismo tamaño; es la respuesta de "todo o nada"
 - B. Cada uno es de distinto tamaño según la intensidad del estímulo; es la respuesta "graduada"
 - C. Aumentan de tamaño con estímulos más fuertes; es la respuesta "proporcional"
@@ -2749,9 +2737,7 @@ De acuerdo con el libro de Biología, ¿cómo se denomina el cambio del potencia
 El potencial de membrana se invierte su signo: ahora es positivo del lado intracelular. Este cambio del potencial de membrana hacia valores positivos se denomina despolarización y constituye la etapa inicial del potencial de acción.
 
 ### 168
-
-De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuánto dura aproximadamente el cambio en la permeabilidad al Na+, y qué ocurre después con esos canales?
-
+De acuerdo con el libro de Biología, ¿cuánto dura aproximadamente el cambio en la permeabilidad al Na+, y qué ocurre después con esos canales?
 - A. Dura alrededor de 0,5 ms; luego los canales de Na+ pasan a un estado inactivo y la membrana retorna a su baja permeabilidad al Na+
 - B. Dura alrededor de 40 ms; luego los canales de Na+ permanecen abiertos indefinidamente
 - C. Dura alrededor de 0,5 s; luego los canales de Na+ se convierten en canales de fuga
@@ -2978,9 +2964,7 @@ De acuerdo con el libro de Biología, ¿cómo se explica el flujo unidireccional
 El flujo unidireccional se explica porque los canales de Na+, inmediatamente después de abrirse, pasan a un estado inactivo y solo están en condiciones de volver a abrirse transcurrido un cierto tiempo. Este hecho, más el estado de hiperpolarización, hacen que el segmento del axón anterior al sitio en donde se produjo el potencial de acción tenga un período refractario.
 
 ### 183
-
-De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuánto dura el período refractario y qué impide?
-
+De acuerdo con el libro de Biología, ¿cuánto dura el período refractario y qué impide?
 - A. Dura varios milisegundos, de modo tal que no puede generarse un nuevo potencial de acción
 - B. Dura varios minutos, durante los cuales se generan muchos potenciales de acción
 - C. No tiene duración definida y permite generar potenciales de acción sin límite
@@ -3495,9 +3479,7 @@ En las células presinápticas, estas áreas están especializadas en la exocito
 ## Sub-lote 27 · Los transmisores químicos: neurotransmisores, neuromoduladores y neurohormonas (cuadro 32-1, p. 772)
 
 ### 218
-
-De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuántas sustancias se han identificado como transmisores químicos, y en qué tres tipos se distinguen?
-
+De acuerdo con el libro de Biología, ¿cuántas sustancias se han identificado como transmisores químicos, y en qué tres tipos se distinguen?
 - A. Más de 50 sustancias diferentes; se distinguen en neurotransmisores, neuromoduladores y neurohormonas
 - B. Exactamente 10 sustancias; se distinguen en excitadoras, inhibidoras y neutras
 - C. Más de 500 sustancias; se distinguen en eléctricas, químicas y mixtas
@@ -4235,9 +4217,7 @@ Si al unirse el neurotransmisor al receptor postsináptico se abren canales que 
 > Los dos se distinguen por el ion y por el sentido: los **PEPS** abren canales a iones **positivos** (Na+, Ca2+), **despolarizan** y **acercan** al umbral; los **PIPS** abren canales a iones **negativos** (Cl–), **hiperpolarizan** y **alejan** del umbral.
 
 ### 266
-
-De acuerdo con el libro de Biología, en el capítulo 32 sobre el sistema nervioso, ¿cuántos puntos sinápticos poseen en promedio las neuronas del sistema nervioso central?
-
+De acuerdo con el libro de Biología, ¿cuántos puntos sinápticos poseen en promedio las neuronas del sistema nervioso central?
 - A. Entre 10 000 y 15 000 puntos sinápticos cada una
 - B. Entre 10 y 15 puntos sinápticos cada una
 - C. Entre 100 000 y 150 000 puntos sinápticos cada una

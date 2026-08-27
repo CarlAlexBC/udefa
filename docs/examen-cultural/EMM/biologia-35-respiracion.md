@@ -178,9 +178,7 @@ correcta se escribe siempre en A porque el importador baraja las opciones.
 ## Sub-lote 1 · Los dos significados de respiración y la hematosis (fig. 35-1, p. 828)
 
 ### 1
-
-De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, ¿cuántos significados tiene el término *respiración* y cuáles son?
-
+De acuerdo con el libro de Biología, ¿cuántos significados tiene el término *respiración* y cuáles son?
 - A. Dos: en un organismo multicelular complejo designa la toma de un fluido rico en oxígeno y la liberación de uno rico en dióxido de carbono (ventilación), y en cada célula designa la respiración aeróbica o celular
 - B. Uno solo: el intercambio de gases entre el organismo y el ambiente
 - C. Tres: la ventilación, la hematosis y la difusión simple
@@ -315,9 +313,7 @@ De acuerdo con el libro de Biología, ¿qué presión ejerce el aire sobre nuest
 En el nivel del mar, el aire ejerce una presión de 1 atmósfera sobre nuestra piel.
 
 ### 10
-
-De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, ¿qué porcentaje del aire seco constituye el O2 y cómo se llama la presión que ejerce?
-
+De acuerdo con el libro de Biología, ¿qué porcentaje del aire seco constituye el O2 y cómo se llama la presión que ejerce?
 - A. Alrededor del 21% en volumen; el 21% de la presión atmosférica corresponde a la presión que ejerce el O2, valor conocido como presión parcial de O2 (PpO2)
 - B. Alrededor del 77% en volumen; su presión se conoce como presión atmosférica total
 - C. Alrededor del 1% en volumen; su presión se conoce como presión de argón
@@ -405,9 +401,7 @@ De acuerdo con el libro de Biología, ¿a qué altura sobre el nivel del mar est
 Si una persona que vive a nivel del mar visita un lugar como la ciudad de México, que está a 2300 m sobre el nivel del mar, al principio se sentirá ligeramente mareada y se cansará con facilidad debido a la menor PpO2.
 
 ### 16
-
-De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, en el buceo de aguas profundas, ¿cuánto se incrementa la presión total?
-
+De acuerdo con el libro de Biología, en el buceo de aguas profundas, ¿cuánto se incrementa la presión total?
 - A. 1 atmósfera por cada 10 m de profundidad
 - B. 1 atmósfera por cada 100 m de profundidad
 - C. 10 atmósferas por cada metro de profundidad
@@ -746,9 +740,7 @@ De acuerdo con el libro de Biología, ¿por qué los animales de gran tamaño ti
 La superficie de intercambio gaseoso en grupos de animales de gran tamaño sería demasiado pequeña para abastecer las demandas de su masa corporal. Estos animales tienen órganos respiratorios, cuya superficie se encuentra altamente replegada, lo cual aumenta, de manera significativa, la superficie para el intercambio gaseoso.
 
 ### 39
-
-De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, ¿cuánto mide la superficie corporal de un humano adulto y cuánto la superficie interna de su pulmón?
-
+De acuerdo con el libro de Biología, ¿cuánto mide la superficie corporal de un humano adulto y cuánto la superficie interna de su pulmón?
 - A. La superficie corporal es de alrededor de 2 m2 y la superficie interna del pulmón ocupa unos 100 m2
 - B. La superficie corporal es de alrededor de 100 m2 y la del pulmón unos 2 m2
 - C. Ambas miden alrededor de 2 m2
@@ -1147,9 +1139,7 @@ De acuerdo con el libro de Biología, ¿qué son los pulmones y qué desventaja 
 Los pulmones son cavidades internas desde las cuales el O2 contenido en el aire ingresa en el torrente sanguíneo. Si se comparan con las branquias, los pulmones tienen una desventaja: desde el punto de vista de la difusión, es más eficiente tener un flujo continuo de fluido a través de la superficie respiratoria que un flujo y reflujo rítmicos como ocurre en los pulmones, que se llenan y se vacían de aire con regularidad.
 
 ### 66
-
-De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, ¿qué porcentaje de O2 tiene el aire de la atmósfera actual en comparación con el agua a 15 ºC?
-
+De acuerdo con el libro de Biología, ¿qué porcentaje de O2 tiene el aire de la atmósfera actual en comparación con el agua a 15 ºC?
 - A. El 21% del volumen del aire es O2, en comparación con el 0,5% de O2 que se encuentra en el agua a 15 ºC
 - B. El 0,5% del volumen del aire es O2, en comparación con el 21% del agua a 15 ºC
 - C. Ambos contienen alrededor del 21% de O2
@@ -1162,9 +1152,7 @@ De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, 
 El aire es una fuente de O2 muy superior al agua: el 21% del volumen de aire de la atmósfera actual es O2, en comparación con el 0,5% de O2 que se encuentra en el agua, a 15 ºC.
 
 ### 67
-
-De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, ¿cuántas veces más rápido se difunde el O2 en el aire que en el agua?
-
+De acuerdo con el libro de Biología, ¿cuántas veces más rápido se difunde el O2 en el aire que en el agua?
 - A. Unas 300 000 veces más rápido
 - B. Unas 15 veces más rápido
 - C. Unas 300 veces más rápido
@@ -1177,9 +1165,7 @@ De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, 
 El O2 se difunde unas 300 000 veces más rápido en el aire que en el agua y, por lo tanto, se puede obtener mucho más rápido del aire a medida que es utilizado por los organismos que respiran.
 
 ### 68
-
-De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, ¿cuánta energía gasta un pez en el trabajo muscular de la ventilación en comparación con un organismo que respira aire?
-
+De acuerdo con el libro de Biología, ¿cuánta energía gasta un pez en el trabajo muscular de la ventilación en comparación con un organismo que respira aire?
 - A. Un pez gasta hasta el 20% de su energía, mientras que un organismo que respira aire gasta solo entre el 1 y el 2%
 - B. Un pez gasta entre el 1 y el 2%, mientras que un organismo que respira aire gasta hasta el 20%
 - C. Ambos gastan alrededor del 20% de su energía
@@ -1606,9 +1592,7 @@ De acuerdo con el libro de Biología, ¿dónde ocurre el intercambio de gases y 
 El intercambio de gases ocurre por difusión —como consecuencia de diferentes presiones parciales de O2 y CO2— en pequeños sacos aéreos denominados alvéolos, que se encuentran agrupados en racimos alrededor de los extremos de los bronquíolos más pequeños.
 
 ### 97
-
-De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, ¿qué diámetro tiene cada alvéolo y qué lo rodea?
-
+De acuerdo con el libro de Biología, ¿qué diámetro tiene cada alvéolo y qué lo rodea?
 - A. Entre 0,1 y 0,2 mm de diámetro, y está rodeado por capilares: vasos sanguíneos muy delgados que bañan casi por completo cada alvéolo
 - B. Entre 1 y 2 cm de diámetro, y está rodeado por anillos de cartílago
 - C. Entre 0,1 y 0,2 m de diámetro, y está rodeado por músculo liso
@@ -1668,9 +1652,7 @@ Esta producción de moco habitualmente la notamos solo cuando se incrementa por 
 ## Sub-lote 15 · El ensayo 35-1: el asma (p. 834)
 
 ### 101
-
-De acuerdo con el libro de Biología, en el capítulo 35 sobre la respiración, si contáramos la cantidad de veces que inspiramos y espiramos cada día, ¿cuánto sumaríamos, y qué se moviliza en ese proceso?
-
+De acuerdo con el libro de Biología, si contáramos la cantidad de veces que inspiramos y espiramos cada día, ¿cuánto sumaríamos, y qué se moviliza en ese proceso?
 - A. Sumaríamos varios millares; en ese proceso se mueven decenas de músculos y huesos, se expande y achica el tórax, y se inflan y desinflan los pulmones
 - B. Sumaríamos unas pocas decenas; solo se mueve el diafragma
 - C. Sumaríamos varios millones; se mueven únicamente los pulmones

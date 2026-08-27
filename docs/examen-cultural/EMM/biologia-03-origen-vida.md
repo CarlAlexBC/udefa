@@ -188,9 +188,7 @@ en A porque el importador baraja las opciones.
 ## Sub-lote 1 · Del Big Bang a la Tierra (p. 35)
 
 ### 1
-
-De acuerdo con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿a cuánto habría descendido la temperatura alrededor de 100 segundos después del Big Bang?
-
+De acuerdo con el libro de Biología, ¿a cuánto habría descendido la temperatura alrededor de 100 segundos después del Big Bang?
 - A. A 1000 millones de grados Celsius
 - B. A 2500 grados Celsius
 - C. A 100 millones de grados Celsius
@@ -266,9 +264,7 @@ De conformidad con el libro de Biología, ¿mediante qué procesos se habrían o
 De esta manera, mediante procesos nucleares de fisión y fusión, se habrían originado todos los elementos que hoy existen en el Universo.
 
 ### 6
-
-En relación con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿hace cuántos años nació la estrella que es nuestro Sol, según calculan los cosmólogos?
-
+En relación con el libro de Biología, ¿hace cuántos años nació la estrella que es nuestro Sol, según calculan los cosmólogos?
 - A. Hace unos 5000 millones de años
 - B. Hace unos 4600 millones de años
 - C. Hace unos 1000 millones de años
@@ -281,9 +277,7 @@ En relación con el libro de Biología, en el capítulo 3 sobre el origen de la 
 Hace unos 5000 millones de años, según calculan los cosmólogos, nació la estrella que es nuestro Sol.
 
 ### 7
-
-De acuerdo con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿hace aproximadamente cuántos años comenzaron a formarse los planetas del sistema solar?
-
+De acuerdo con el libro de Biología, ¿hace aproximadamente cuántos años comenzaron a formarse los planetas del sistema solar?
 - A. Hace aproximadamente 4600 millones de años
 - B. Hace aproximadamente 5000 millones de años
 - C. Hace aproximadamente 3600 millones de años
@@ -515,9 +509,7 @@ La hipótesis de que los procesos de síntesis de moléculas orgánicas ocurrier
 ## Sub-lote 4 · De la teoría a la evidencia: Miller (p. 37)
 
 ### 21
-
-En relación con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿en qué año publicó Oparin su teoría?
-
+En relación con el libro de Biología, ¿en qué año publicó Oparin su teoría?
 - A. En 1924
 - B. En 1953
 - C. En 1894
@@ -1016,9 +1008,7 @@ Son muchos los trabajos realizados y las hipótesis propuestas para explicar có
 ## Sub-lote 10 · Las primeras células: las evidencias (p. 40)
 
 ### 51
-
-En relación con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿de cuándo datan los fósiles más antiguos encontrados hasta el momento, semejantes a las bacterias actuales?
-
+En relación con el libro de Biología, ¿de cuándo datan los fósiles más antiguos encontrados hasta el momento, semejantes a las bacterias actuales?
 - A. De 3500 millones de años
 - B. De 3700 millones de años
 - C. De 4600 millones de años
@@ -1036,9 +1026,7 @@ Los fósiles más antiguos encontrados hasta el momento, semejantes a las bacter
 > primeras.
 
 ### 52
-
-De acuerdo con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿cuánto tiempo después de la formación de la Tierra aparecieron esos fósiles?
-
+De acuerdo con el libro de Biología, ¿cuánto tiempo después de la formación de la Tierra aparecieron esos fósiles?
 - A. Alrededor de 1100 millones de años después
 - B. Alrededor de 3500 millones de años después
 - C. Alrededor de 500 millones de años después
@@ -1552,6 +1540,7 @@ De conformidad con el libro de Biología, ¿quién propuso en 1961 un modelo par
 **Respuesta:** A
 **Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 42
 **Subtema:** Origen de la vida · búsqueda de vida en el Universo
+**Retirado:** TEMA · ecuación de Drake: astrobiología, fuera del temario de medicina
 
 En 1961, el científico norteamericano Frank Drake propuso un modelo para la estimación de la probabilidad de existencia de civilizaciones extraterrestres capaces de emitir señales al espacio que nos permitan establecer un contacto.
 
@@ -1586,9 +1575,7 @@ De acuerdo con el libro de Biología, ¿qué resultado arrojó la ecuación con 
 Con los valores que Drake asignó a estas variables en 1961, el resultado indicaba la existencia de diez civilizaciones en toda la galaxia.
 
 ### 85
-
-De conformidad con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿a cuánto subió la estimación cuando el propio Drake revisó los valores en 2004?
-
+De conformidad con el libro de Biología, ¿a cuánto subió la estimación cuando el propio Drake revisó los valores en 2004?
 - A. A 10 000 civilizaciones
 - B. A 1000 civilizaciones
 - C. A 3600 civilizaciones
@@ -1604,9 +1591,7 @@ En 2004, el propio Drake revisó algunos de esos valores y la estimación subió
 > en 2004. Es el mismo autor revisando su propia ecuación (ver reactivo 84).
 
 ### 86
-
-En relación con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿qué masa debe tener un planeta rocoso para considerarse en la zona de habitabilidad?
-
+En relación con el libro de Biología, ¿qué masa debe tener un planeta rocoso para considerarse en la zona de habitabilidad?
 - A. Una masa comprendida entre 0,6 y 10 masas terrestres
 - B. Una masa comprendida entre 1 y 10 masas terrestres
 - C. Una masa comprendida entre 0,6 y 6 masas terrestres
@@ -1619,9 +1604,7 @@ En relación con el libro de Biología, en el capítulo 3 sobre el origen de la 
 Este concepto se aplica a la región alrededor de una estrella en la que, de poseer orbitando un planeta (o satélite) rocoso con una masa comprendida entre 0,6 y 10 masas terrestres, un cierto rango de presión atmosférica, luminosidad y el flujo de radiación incidente permitirían la presencia de agua en estado líquido sobre su superficie.
 
 ### 87
-
-De acuerdo con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿cuántos planetas extrasolares se han descrito en los últimos años?
-
+De acuerdo con el libro de Biología, ¿cuántos planetas extrasolares se han descrito en los últimos años?
 - A. Más de 3600
 - B. Más de 10 000
 - C. Más de 1000
@@ -2404,9 +2387,7 @@ De conformidad con el libro de Biología, ¿qué ocurre con las células en los 
 En los organismos multicelulares, las células se especializan, dando lugar a tipos celulares con funciones específicas que contribuyen al funcionamiento de todo el organismo. Sin embargo, cada una sigue siendo notablemente una unidad con mantenimiento autónomo.
 
 ### 135
-
-En relación con el libro de Biología, en el capítulo 3 sobre el origen de la vida, según el registro fósil, ¿hace cuánto aparecieron los primeros organismos multicelulares eucariontes?
-
+En relación con el libro de Biología, según el registro fósil, ¿hace cuánto aparecieron los primeros organismos multicelulares eucariontes?
 - A. Hace apenas 750 millones de años
 - B. Hace 3500 millones de años
 - C. Hace 4600 millones de años
@@ -2487,9 +2468,7 @@ De acuerdo con el libro de Biología, ¿cómo se denominan los sistemas que inte
 Por esta razón, decimos que los sistemas biológicos son sistemas abiertos.
 
 ### 140
-
-De conformidad con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿desde qué momento son sistemas abiertos las estructuras resultantes de la evolución prebiótica?
-
+De conformidad con el libro de Biología, ¿desde qué momento son sistemas abiertos las estructuras resultantes de la evolución prebiótica?
 - A. Desde antes de poder definirse como seres vivos: es una característica que permanece constante a lo largo de la evolución biológica
 - B. Sólo a partir de que se convierten en seres vivos
 - C. Sólo cuando alcanzan la multicelularidad
@@ -3360,9 +3339,7 @@ De conformidad con el libro de Biología, ¿cómo objetó Needham los experiment
 Needham, sin embargo, objetó a Spallanzani, argumentando que sus procedimientos habrían destruido la "fuerza vital".
 
 ### 193
-
-En relación con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿en qué año y quién ideó nuevos experimentos que refutaron definitivamente la generación espontánea?
-
+En relación con el libro de Biología, ¿en qué año y quién ideó nuevos experimentos que refutaron definitivamente la generación espontánea?
 - A. En 1864, Louis Pasteur
 - B. En 1858, Rudolf Virchow
 - C. En 1898, los hermanos Buchner
@@ -3394,9 +3371,7 @@ Pasteur fabricó unos recipientes muy ingeniosos para sus experimentos, los matr
 > distintos con un siglo de diferencia.
 
 ### 195
-
-De conformidad con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿cuánto tiempo después de que Pasteur refutara la generación espontánea proporcionaron Oparin y Haldane un marco teórico para el origen de la vida?
-
+De conformidad con el libro de Biología, ¿cuánto tiempo después de que Pasteur refutara la generación espontánea proporcionaron Oparin y Haldane un marco teórico para el origen de la vida?
 - A. Recién 50 años más tarde
 - B. Recién 20 años más tarde
 - C. Recién 100 años más tarde
@@ -3475,6 +3450,7 @@ En relación con el libro de Biología, ¿quién era el principal exponente del 
 **Respuesta:** A
 **Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 54
 **Subtema:** Origen de la vida · mecanicismo y vitalismo
+**Retirado:** TEMA · vitalismo del siglo XIX: historia de la ciencia, no contenido
 
 En el siglo XIX, el principal exponente del vitalismo era el químico y biólogo francés Louis Pasteur (1822-1895), quien sostenía que los cambios que ocurrían cuando el jugo de fruta se transformaba en vino eran "vitales", de modo que podían ser llevados a cabo solo por células vivas, las células de levadura.
 
@@ -3599,9 +3575,7 @@ De acuerdo con el libro de Biología, según las teorías actuales, ¿dónde se 
 Según las teorías actuales, toda la energía y la materia presentes actualmente en el Universo probablemente se encontraban concentradas en un único punto.
 
 ### 207
-
-De conformidad con el libro de Biología, en el capítulo 3 sobre el origen de la vida, ¿hace cuánto tiempo se produjo el Big Bang?
-
+De conformidad con el libro de Biología, ¿hace cuánto tiempo se produjo el Big Bang?
 - A. Hace aproximadamente 13 700 millones de años
 - B. Hace aproximadamente 4 600 millones de años
 - C. Hace aproximadamente 3 800 millones de años
@@ -3847,4 +3821,4 @@ El grupo científico encabezado por Venter sintetizó artificialmente un genoma 
 
 ---
 
-**Reactivos en este archivo:** 221
+**Reactivos en este archivo:** 219

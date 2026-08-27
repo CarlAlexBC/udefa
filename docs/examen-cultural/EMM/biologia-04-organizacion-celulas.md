@@ -152,9 +152,7 @@ mano, mismo criterio.
 ## Sub-lote 1 · El tamaño de las células (art. inicial, p. 61)
 
 ### 1
-
-De acuerdo con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿cuánto miden de diámetro la mayoría de las células del cuerpo de una planta o un animal?
-
+De acuerdo con el libro de Biología, ¿cuánto miden de diámetro la mayoría de las células del cuerpo de una planta o un animal?
 - A. Entre 10 y 50 micrómetros
 - B. Entre 1 y 5 micrómetros
 - C. Entre 100 y 500 micrómetros
@@ -495,9 +493,7 @@ En relación con el libro de Biología, ¿qué es el citosol?
 En él puede distinguirse una parte líquida, el citosol, que es una solución, cuyo solvente es el agua.
 
 ### 22
-
-De acuerdo con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿qué proporción del citosol constituyen aproximadamente las proteínas?
-
+De acuerdo con el libro de Biología, ¿qué proporción del citosol constituyen aproximadamente las proteínas?
 - A. Aproximadamente el 20%
 - B. Aproximadamente el 50%
 - C. Aproximadamente el 5%
@@ -985,9 +981,7 @@ Durante la división celular, describió "la danza de los cromosomas", es decir,
 ## Sub-lote 12 · La mitosis y el papel del núcleo (recuadro 4-2, p. 69)
 
 ### 51
-
-De acuerdo con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿cuánta cromatina posee cada célula hija tras la división, según las conclusiones de Flemming?
-
+De acuerdo con el libro de Biología, ¿cuánta cromatina posee cada célula hija tras la división, según las conclusiones de Flemming?
 - A. La misma cantidad que la célula madre, como consecuencia de la duplicación de cromosomas previa a la división
 - B. La mitad de la cantidad que la célula madre
 - C. El doble de la cantidad que la célula madre
@@ -1170,9 +1164,7 @@ El núcleo es la estructura típica de la célula eucarionte, que habría surgid
 > **invaginación** de la membrana (reactivo 110 del capítulo 3).
 
 ### 62
-
-De conformidad con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿qué diámetro tiene aproximadamente el núcleo y qué proporción del volumen celular ocupa?
-
+De conformidad con el libro de Biología, ¿qué diámetro tiene aproximadamente el núcleo y qué proporción del volumen celular ocupa?
 - A. Alrededor de 5 µm de diámetro, y ocupa aproximadamente un 10% del volumen celular
 - B. Alrededor de 50 µm de diámetro, y ocupa aproximadamente la mitad del volumen celular
 - C. Alrededor de 1 µm de diámetro, y ocupa aproximadamente un 50% del volumen celular
@@ -1668,9 +1660,7 @@ De conformidad con el libro de Biología, ¿cuáles son las principales funcione
 Sus principales funciones son el almacenamiento y el transporte de materiales, tanto dentro de la célula como hacia el interior y el exterior de esta.
 
 ### 92
-
-En relación con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿qué proporción del volumen celular pueden ocupar las vacuolas?
-
+En relación con el libro de Biología, ¿qué proporción del volumen celular pueden ocupar las vacuolas?
 - A. De un 30 a un 90% del volumen celular
 - B. De un 10 a un 20% del volumen celular
 - C. De un 5 a un 15% del volumen celular
@@ -2094,9 +2084,7 @@ De conformidad con el libro de Biología, ¿cómo se denomina el espacio interno
 El espacio interno que delimitan las crestas se denomina matriz mitocondrial.
 
 ### 118
-
-De acuerdo con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿cuánto miden las mitocondrias?
-
+De acuerdo con el libro de Biología, ¿cuánto miden las mitocondrias?
 - A. Alrededor de 1,5 µm de ancho y 2 a 8 µm de longitud
 - B. Alrededor de 5 µm de ancho y 10 a 20 µm de longitud
 - C. Alrededor de 0,5 µm de ancho y 1 µm de longitud
@@ -2385,9 +2373,7 @@ En relación con el libro de Biología, ¿qué son los microtúbulos y por qué 
 Los microtúbulos son largos tubos huecos formados por dímeros de dos proteínas globulares llamadas tubulina alfa y tubulina beta, que se asocian formando un polímero.
 
 ### 135
-
-De acuerdo con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿qué diámetro tienen los microtúbulos?
-
+De acuerdo con el libro de Biología, ¿qué diámetro tienen los microtúbulos?
 - A. Alrededor de 22 nanómetros
 - B. Alrededor de 6 nanómetros
 - C. Alrededor de 10 nanómetros
@@ -2434,9 +2420,7 @@ Los microtúbulos son componentes principales de los cilios y los flagelos, estr
 ## Sub-lote 35 · Los filamentos de actina (p. 79)
 
 ### 138
-
-De acuerdo con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿qué diámetro promedio tienen los filamentos de actina o microfilamentos?
-
+De acuerdo con el libro de Biología, ¿qué diámetro promedio tienen los filamentos de actina o microfilamentos?
 - A. Un diámetro promedio de 6 nanómetros
 - B. Un diámetro promedio de 22 nanómetros
 - C. Un diámetro promedio de 60 nanómetros
@@ -2615,9 +2599,7 @@ De conformidad con el libro de Biología, ¿en qué organismos se encuentran los
 Los filamentos intermedios se encuentran en los organismos pluricelulares y son particularmente abundantes en las células sometidas a tensiones mecánicas, como las células epiteliales, nerviosas y musculares.
 
 ### 149
-
-De acuerdo con el libro de Biología, en el capítulo 4 sobre la organización de las células, ¿qué diámetro tienen los filamentos intermedios?
-
+De acuerdo con el libro de Biología, ¿qué diámetro tienen los filamentos intermedios?
 - A. Entre 7 y 11 nanómetros
 - B. Alrededor de 22 nanómetros
 - C. Alrededor de 6 nanómetros

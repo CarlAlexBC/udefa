@@ -211,9 +211,7 @@ De conformidad con el libro de Biología, ¿cómo puede entenderse una célula?
 Una célula puede entenderse como un complejo de sistemas especializados en transformar energía.
 
 ### 3
-
-En relación con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿qué fracción de la energía solar que llega a nuestro planeta se transforma por medio de los organismos fotosintéticos?
-
+En relación con el libro de Biología, ¿qué fracción de la energía solar que llega a nuestro planeta se transforma por medio de los organismos fotosintéticos?
 - A. Menos del 1%
 - B. Menos del 10%
 - C. Alrededor del 30%
@@ -1346,9 +1344,7 @@ La transformación de una molécula R en una P en los organismos vivos puede ocu
 ## Sub-lote 14 · La oxidación de la glucosa en el calorímetro (p. 132)
 
 ### 72
-
-En relación con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuánta energía total se libera al realizar en el laboratorio la oxidación total de la glucosa en un calorímetro?
-
+En relación con el libro de Biología, ¿cuánta energía total se libera al realizar en el laboratorio la oxidación total de la glucosa en un calorímetro?
 - A. 673 kcal/mol
 - B. 376 kcal/mol
 - C. 6 730 kcal/mol
@@ -2033,9 +2029,7 @@ De conformidad con el libro de Biología, en los animales, ¿en qué se transfor
 En los animales, el dióxido de carbono resultante del metabolismo celular se transforma en ácido carbónico, que es la manera en que es transportado por la sangre.
 
 ### 114
-
-En relación con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuántas veces mayor es la velocidad de esa reacción en los animales que la que se produce en el mar, debido a la acción de las enzimas?
-
+En relación con el libro de Biología, ¿cuántas veces mayor es la velocidad de esa reacción en los animales que la que se produce en el mar, debido a la acción de las enzimas?
 - A. 10⁷ veces mayor
 - B. 10³ veces mayor
 - C. 10¹² veces mayor
@@ -2146,9 +2140,7 @@ En relación con el libro de Biología, ¿cómo aumentan su temperatura corporal
 A veces, también, algunos animales, como las aves y los mamíferos, aumentan su temperatura corporal mediante este mecanismo: al tiritar, el ATP hidrolizado durante la contracción muscular libera parte de la energía en forma de calor.
 
 ### 121
-
-De acuerdo con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuánto ATP se ha estimado que utiliza una persona por día?
-
+De acuerdo con el libro de Biología, ¿cuánto ATP se ha estimado que utiliza una persona por día?
 - A. 40 kg
 - B. 4 kg
 - C. 400 kg
@@ -2161,9 +2153,7 @@ De acuerdo con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿
 Se ha estimado que una persona utiliza 40 kg de ATP por día.
 
 ### 122
-
-De conformidad con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuántas veces por día es fosforilada y desfosforilada cada molécula de ADP?
-
+De conformidad con el libro de Biología, ¿cuántas veces por día es fosforilada y desfosforilada cada molécula de ADP?
 - A. Unas 1 000 veces por día
 - B. Unas 100 veces por día
 - C. Unas 10 000 veces por día
@@ -2602,9 +2592,7 @@ De acuerdo con el libro de Biología, ¿qué se denomina ciclo catalítico de un
 Dado que las enzimas no cambian su naturaleza durante la reacción química luego de participar en una reacción quedan disponibles para catalizar una nueva. Esto es lo que se denomina ciclo catalítico de una enzima.
 
 ### 149
-
-De conformidad con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuántas moléculas puede procesar una sola molécula de enzima, y en qué tiempo?
-
+De conformidad con el libro de Biología, ¿cuántas moléculas puede procesar una sola molécula de enzima, y en qué tiempo?
 - A. Decenas de miles de moléculas iguales, en tiempos del orden de un segundo
 - B. Decenas de moléculas iguales, en tiempos del orden de un minuto
 - C. Una sola molécula, en tiempos del orden de un segundo
@@ -3170,9 +3158,7 @@ En relación con el libro de Biología, ¿qué participa en muchos casos en la i
 En muchos casos, en la interacción entre el sitio activo de la enzima y el sustrato participan grupos con carga neta positiva o negativa que son importantes tanto para el reconocimiento enzima-sustrato como para la estabilización de esa unión.
 
 ### 184
-
-De acuerdo con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuántas enzimas hidrolíticas diferentes tiene el interior del lisosoma?
-
+De acuerdo con el libro de Biología, ¿cuántas enzimas hidrolíticas diferentes tiene el interior del lisosoma?
 - A. 50
 - B. 5
 - C. 500
@@ -3969,9 +3955,7 @@ De conformidad con el libro de Biología, ¿cuál era el origen de Erwin Schröd
 Erwin Schrödinger (1887-1961), físico de origen austríaco naturalizado irlandés.
 
 ### 231
-
-En relación con el libro de Biología, en el capítulo 7 sobre el metabolismo, ¿cuántas conferencias impartió Schrödinger en 1943, dónde, y en qué circunstancia?
-
+En relación con el libro de Biología, ¿cuántas conferencias impartió Schrödinger en 1943, dónde, y en qué circunstancia?
 - A. Tres conferencias en el Trinity College de Dublín, cuando se encontraba exiliado debido a la persecución del nazismo
 - B. Cinco conferencias en la Universidad de Viena, cuando ya había regresado del exilio
 - C. Tres conferencias en el Trinity College de Dublín, invitado como profesor visitante
@@ -4090,6 +4074,7 @@ De acuerdo con el libro de Biología, según el biólogo y filósofo francés Mi
 **Respuesta:** A
 **Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 126
 **Subtema:** Metabolismo · los físicos y la biología
+**Retirado:** TEMA · cita de filosofía de la ciencia, no contenido del temario
 
 Según el biólogo y filósofo francés Michel Morange, algunos físicos desencantados por el papel de sus colegas en el desarrollo de la bomba atómica se sumergieron en la naturaleza de lo vivo para buscar nuevos horizontes de investigación.
 
@@ -4125,4 +4110,4 @@ Maurice Wilkins, quien participó en el proyecto Manhattan que desarrolló la bo
 
 ---
 
-**Reactivos en este archivo:** 240
+**Reactivos en este archivo:** 239

@@ -156,9 +156,7 @@ queda limpio. El reparto lo hace `tools/especificar-reactivos.js` con
 ## Sub-lote 1 · El grosor de la membrana (p. 89)
 
 ### 1
-
-De acuerdo con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿entre qué valores oscila el grosor de las membranas?
-
+De acuerdo con el libro de Biología, ¿entre qué valores oscila el grosor de las membranas?
 - A. Entre 7 y 9 nanómetros
 - B. Entre 1 y 2 nanómetros
 - C. Entre 20 y 30 nanómetros
@@ -442,9 +440,7 @@ En relación con el libro de Biología, ¿qué tres tipos de moléculas orgánic
 Son moléculas orgánicas biológicas: las proteínas, los lípidos y los glúcidos.
 
 ### 18
-
-De acuerdo con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿alrededor de qué porcentaje del peso seco de las membranas constituyen las proteínas?
-
+De acuerdo con el libro de Biología, ¿alrededor de qué porcentaje del peso seco de las membranas constituyen las proteínas?
 - A. Alrededor del 60%
 - B. Alrededor del 40%
 - C. Alrededor del 10%
@@ -457,9 +453,7 @@ De acuerdo con el libro de Biología, en el capítulo 5 sobre la membrana plasm�
 Proteínas: constituyen alrededor del 60% del peso seco de las membranas. Muchas de ellas son glucoproteínas y algunas lipoproteínas.
 
 ### 19
-
-De conformidad con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿alrededor de qué porcentaje del peso seco constituyen los lípidos?
-
+De conformidad con el libro de Biología, ¿alrededor de qué porcentaje del peso seco constituyen los lípidos?
 - A. Alrededor del 40%
 - B. Alrededor del 60%
 - C. Alrededor del 2%
@@ -476,9 +470,7 @@ Lípidos: constituyen alrededor del 40% del peso seco de la membrana y son funda
 > otra.
 
 ### 20
-
-En relación con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿entre qué valores puede constituir los glúcidos el peso seco de la membrana, según el tipo celular?
-
+En relación con el libro de Biología, ¿entre qué valores puede constituir los glúcidos el peso seco de la membrana, según el tipo celular?
 - A. Desde el 2 hasta el 10%
 - B. Desde el 20 hasta el 40%
 - C. Desde el 40 hasta el 60%
@@ -850,9 +842,7 @@ De acuerdo con el libro de Biología, ¿qué caracteriza a las proteínas integr
 Proteínas con propiedades antigénicas: son antígenos, pues marcan la superficie de la célula como una "etiqueta", lo que permite que sea reconocida por otras células.
 
 ### 42
-
-En relación con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿cuántas enzimas diferentes con distribución asimétrica a ambos lados de la membrana se describieron?
-
+En relación con el libro de Biología, ¿cuántas enzimas diferentes con distribución asimétrica a ambos lados de la membrana se describieron?
 - A. Más de 30 enzimas diferentes
 - B. Más de 5 enzimas diferentes
 - C. Más de 100 enzimas diferentes
@@ -1406,9 +1396,7 @@ Transporte activo: la fuerza impulsora es el resultado de un aporte externo de e
 ## Sub-lote 24 · El agua y la ósmosis en términos osmóticos (recuadro 5-2, p. 97)
 
 ### 74
-
-De acuerdo con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿qué porcentaje de la masa corporal de la mayoría de los seres vivos constituye el agua?
-
+De acuerdo con el libro de Biología, ¿qué porcentaje de la masa corporal de la mayoría de los seres vivos constituye el agua?
 - A. El 70%
 - B. El 40%
 - C. El 90%
@@ -1867,9 +1855,7 @@ En relación con el libro de Biología, ¿cómo se denomina el sistema de transp
 Este sistema se denomina bomba de Na⁺-K⁺.
 
 ### 101
-
-De acuerdo con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿qué proporción de la energía producida durante el metabolismo de un ser vivo en reposo se utiliza para el funcionamiento de la bomba de Na⁺-K⁺?
-
+De acuerdo con el libro de Biología, ¿qué proporción de la energía producida durante el metabolismo de un ser vivo en reposo se utiliza para el funcionamiento de la bomba de Na⁺-K⁺?
 - A. Alrededor del 30%
 - B. Alrededor del 5%
 - C. Alrededor del 60%
@@ -1953,9 +1939,7 @@ Funciona como un antiporte que intercambia tres iones Na⁺ del medio intracelul
 > sentidos opuestos. La bomba de sodio es el ejemplo que el libro desarrolla.
 
 ### 106
-
-En relación con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿cuántos iones intercambia la bomba de sodio por cada molécula de ATP hidrolizada?
-
+En relación con el libro de Biología, ¿cuántos iones intercambia la bomba de sodio por cada molécula de ATP hidrolizada?
 - A. Tres iones Na⁺ del medio intracelular por dos iones K⁺ del medio extracelular
 - B. Dos iones Na⁺ del medio intracelular por tres iones K⁺ del medio extracelular
 - C. Tres iones K⁺ del medio intracelular por dos iones Na⁺ del medio extracelular
@@ -2755,9 +2739,7 @@ De conformidad con el libro de Biología, ¿cómo se estima que está compuesto 
 Conforme al proceso industrial que atraviesa, se estima que el 50% de un cigarrillo está compuesto por hojas de tabaco, el 30% por tabaco reconstituido y el 20% por tabaco expandido con dióxido de carbono.
 
 ### 154
-
-En relación con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿cuánta nicotina tiene un cigarrillo promedio?
-
+En relación con el libro de Biología, ¿cuánta nicotina tiene un cigarrillo promedio?
 - A. 1 gramo
 - B. 1 miligramo
 - C. 10 gramos
@@ -2789,9 +2771,7 @@ Se le agregan aditivos para manipular el contenido de nicotina (p. ej., agregand
 > regaliz y el mentol** son los que suavizan la aspereza.
 
 ### 156
-
-De conformidad con el libro de Biología, en el capítulo 5 sobre la membrana plasmática, ¿cuántos componentes se estima que contiene el humo de tabaco y cuántos producen cáncer?
-
+De conformidad con el libro de Biología, ¿cuántos componentes se estima que contiene el humo de tabaco y cuántos producen cáncer?
 - A. Unos 7000 componentes, de los cuales casi 70 son sustancias que producen cáncer
 - B. Unos 700 componentes, de los cuales casi 7 son sustancias que producen cáncer
 - C. Unos 70 000 componentes, de los cuales casi 700 son sustancias que producen cáncer

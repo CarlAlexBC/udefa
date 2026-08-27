@@ -645,9 +645,7 @@ De acuerdo con el libro de Biología, en la ARN polimerasa procariota, ¿cómo s
 La ARN polimerasa procariota consta de una porción denominada núcleo catalítico y una subunidad reguladora, llamada factor sigma que, una vez reconocido el promotor, se libera.
 
 ### 34
-
-De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, ¿cuántos tipos de ARN polimerasa hay en los procariotas y cuántos en los eucariotas?
-
+De acuerdo con el libro de Biología, ¿cuántos tipos de ARN polimerasa hay en los procariotas y cuántos en los eucariotas?
 - A. Un solo tipo en los procariotas y tres tipos en los eucariotas
 - B. Tres tipos en los procariotas y un solo tipo en los eucariotas
 - C. Un solo tipo en los procariotas y uno en los eucariotas
@@ -1073,9 +1071,7 @@ De acuerdo con el libro de Biología, ¿qué se necesita para que una subunidad 
 Para que una subunidad menor se asocie con una subunidad mayor y se forme un ribosoma activo, será necesario el encuentro con un ARNm. Mientras este encuentro no ocurra, las subunidades permanecerán separadas e inactivas.
 
 ### 61
-
-De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, ¿cuántos ribosomas hay en una célula procariota y en una eucariota?
-
+De acuerdo con el libro de Biología, ¿cuántos ribosomas hay en una célula procariota y en una eucariota?
 - A. Miles en una procariota y millones en una eucariota
 - B. Millones en una procariota y miles en una eucariota
 - C. Uno solo en cada tipo de célula
@@ -1092,9 +1088,7 @@ En una célula procariota hay miles de ellos y en una eucariota el número ascie
 ## Sub-lote 12 · El ARN de transferencia (fig. 12-8, p. 253)
 
 ### 62
-
-De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, ¿de qué tamaño son las moléculas de ARN de transferencia?
-
+De acuerdo con el libro de Biología, ¿de qué tamaño son las moléculas de ARN de transferencia?
 - A. Relativamente pequeñas, de 70 a 90 ribonucleótidos
 - B. Muy grandes, de 500 a 10 000 ribonucleótidos
 - C. De un solo ribonucleótido
@@ -1220,9 +1214,7 @@ De acuerdo con el libro de Biología, ¿quién, mediante cálculos matemáticos,
 Uno de ellos fue el astrónomo estadounidense de origen ruso George Gamow (1904-1968) quien, mediante cálculos matemáticos, contribuyó a su dilucidación.
 
 ### 70
-
-De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, ¿cuántos tipos de aminoácidos forman las proteínas y cuántos tipos de nucleótidos tienen el ADN y el ARN?
-
+De acuerdo con el libro de Biología, ¿cuántos tipos de aminoácidos forman las proteínas y cuántos tipos de nucleótidos tienen el ADN y el ARN?
 - A. 20 tipos de aminoácidos y solo cuatro tipos de nucleótidos
 - B. Cuatro tipos de aminoácidos y 20 tipos de nucleótidos
 - C. 64 tipos de aminoácidos y cuatro tipos de nucleótidos
@@ -1299,9 +1291,7 @@ De acuerdo con el libro de Biología, ¿cómo se llamó también a cada triplete
 A cada triplete de nucleótidos en el ARNm se lo llamó también codón.
 
 ### 75
-
-De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, de los 64 codones existentes, ¿cuántos codifican aminoácidos particulares y cuántos son codones de terminación?
-
+De acuerdo con el libro de Biología, de los 64 codones existentes, ¿cuántos codifican aminoácidos particulares y cuántos son codones de terminación?
 - A. 61 codifican aminoácidos particulares y tres son codones de terminación
 - B. 20 codifican aminoácidos y 44 son codones de terminación
 - C. Los 64 codifican aminoácidos y ninguno es de terminación
@@ -1474,9 +1464,7 @@ Estas excepciones no contradicen la hipótesis del ancestro común, más bien co
 ## Sub-lote 18 · Las aminoacil-ARNt sintetasas y la tabla del código (fig. 12-10, p. 256)
 
 ### 86
-
-De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, ¿cuántas aminoacil-ARNt sintetasas diferentes existen, y para qué?
-
+De acuerdo con el libro de Biología, ¿cuántas aminoacil-ARNt sintetasas diferentes existen, y para qué?
 - A. Por lo menos 20 diferentes, una o más para cada uno de los 20 aminoácidos
 - B. Una sola para todos los aminoácidos
 - C. 64 diferentes, una por cada codón
@@ -1504,7 +1492,7 @@ De acuerdo con el libro de Biología, ¿qué hace cada aminoacil-ARNt sintetasa,
 Cada aminoacil-ARNt sintetasa reconoce y une un determinado tipo de aminoácido con un determinado tipo de ARNt. En esta especificidad está la clave de la traducción.
 
 ### 88
-De acuerdo con el libro de Biología, en el capítulo 12 sobre el flujo de información genética, ¿cuántos tripletes diferentes corresponden al aminoácido leucina?
+De acuerdo con el libro de Biología, ¿cuántos tripletes diferentes corresponden al aminoácido leucina?
 - A. Seis tripletes diferentes
 - B. Un solo triplete
 - C. Veinte tripletes
