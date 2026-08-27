@@ -16,6 +16,7 @@ import {
 import { Revelar } from "@/components/landing/Revelar";
 import { CarruselMuestra } from "@/components/landing/CarruselMuestra";
 import { CarruselPlanteles } from "@/components/landing/CarruselPlanteles";
+import { HistoriaCreador } from "@/components/landing/HistoriaCreador";
 import { LEGAL } from "@/lib/legal";
 import { SiteFooter } from "@/components/legal/SiteFooter";
 import { acabadoClaroDeModulo, HOJA_DE_PLATA_CLARA } from "@/lib/colores-paquete";
@@ -326,15 +327,11 @@ export default function Home() {
                 Ex-cadete del Heroico Colegio Militar · Autor de la plataforma
               </p>
 
-              <p className="mt-4 text-base leading-relaxed text-foreground">
-                Presenté 3 veces el examen psicológico y fui cadete del H.C.M.
-                Ese background está detrás de cada reactivo y cada explicación
-                de esta plataforma —{" "}
-                <span className="font-semibold">
-                  no te van a evaluar lo que sabes, sino lo que muestras cuando estás bajo exigencia real.
-                </span>{" "}
-                Aquí aprendes a proyectarlo con coherencia.
-              </p>
+              {/* Su historia, escrita por él. Antes había aquí un párrafo que
+                  enunciaba el dato —«presenté 3 veces»— sin contarlo. */}
+              <div className="mt-4">
+                <HistoriaCreador />
+              </div>
 
               <div className="mt-6 flex flex-wrap gap-3">
                 <TrustBadge icon={<Shield className="h-3 w-3" />} label="Ex-cadete HCM" />
