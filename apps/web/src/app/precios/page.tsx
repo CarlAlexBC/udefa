@@ -202,7 +202,7 @@ export default function PreciosPage() {
           <Paquete
             icono={<GraduationCap className="h-6 w-6" />}
             color={COLOR[COLOR_DE_MODULO.cultural]}
-            badge="Para quienes presentan solo lo académico"
+            badge="Si tu pendiente es lo académico"
             nombre="Preparación Cultural"
             subtitulo="Domina el examen académico"
             precio="$999"
@@ -223,6 +223,7 @@ export default function PreciosPage() {
             icono={<Brain className="h-6 w-6" />}
             color={COLOR[COLOR_DE_MODULO.psicologico]}
             listón="Más popular"
+            badge="Para quienes solo presentan el psicológico"
             ctaFilled
             nombre="Preparación Psicológica"
             subtitulo="Domina las 3 fases del examen"
