@@ -270,7 +270,14 @@ export default function Home() {
           SOBRE EL CREADOR — Carlo Alexander
           ═══════════════════════════════════════════════════════════ */}
       <section id="creador" className="bg-background py-20 md:py-32">
-        <div className="mx-auto max-w-4xl px-6">
+        {/* MÁS ANCHA QUE LAS DEMÁS SECCIONES DE TEXTO, y con tope.
+            La historia de Carlo son casi cuatrocientas palabras: a 4xl el
+            bloque se veía altísimo. A 5xl la columna de texto pasa de 512 a
+            640 px, que son unos 80 caracteres por renglón — el máximo cómodo.
+            NO subir a 6xl: ahí serían ~96 por renglón y el ojo empieza a
+            perder el salto de una línea a la siguiente. Se vería más corto y
+            se leería peor. */}
+        <div className="mx-auto max-w-5xl px-6">
           <div className="mb-8 text-center">
             <div className="mb-2 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-widest text-military">
               <span className="h-px w-5 bg-military" />
