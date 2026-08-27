@@ -61,6 +61,15 @@ interface Fila {
   tema: string;
   justificacion: string;
   notaRevisor: string | null;
+  /**
+   * Motivo por el que se retiró del banco, o null si está vivo.
+   *
+   * Un retirado NO se importa, pero SIGUE EN EL ARCHIVO con su número: la
+   * numeración de cada .md tiene que quedar corrida, y borrar uno de en medio
+   * obligaría a renumerar todos los siguientes.
+   * Ver docs/examen-cultural/auditoria/README.md.
+   */
+  retirado: string | null;
 }
 
 /** Quita las negritas del markdown para poder comparar texto. */
@@ -129,6 +138,7 @@ function parsearArchivo(archivo: string): Fila[] {
         tema: actual.tema ?? '',
         justificacion: (actual.justificacion ?? '').trim(),
         notaRevisor: actual.notaRevisor ? actual.notaRevisor.trim() : null,
+        retirado: actual.retirado ?? null,
       });
     }
     actual = { opciones: [] };
@@ -181,6 +191,12 @@ function parsearArchivo(archivo: string): Fila[] {
       continue;
     }
 
+    const retirado = linea.match(/^\*\*Retirado:\*\*\s*(.+)$/);
+    if (retirado) {
+      actual.retirado = limpio(retirado[1]);
+      continue;
+    }
+
     // Las notas "> ..." pueden ocupar varias líneas.
     if (linea.startsWith('>')) {
       const trozo = linea.replace(/^>\s?/, '');
@@ -206,7 +222,9 @@ function validar(filas: Fila[], conteosDeclarados: Record<string, number>): stri
   const problemas: string[] = [];
   const donde = (f: Fila) => `${f.archivo} #${f.numero}`;
 
-  for (const f of filas) {
+  // A un retirado no se le exige nada: no va a la base. Sólo cuenta para que la
+  // numeración del archivo siga corrida.
+  for (const f of filas.filter((x) => !x.retirado)) {
     if (f.opciones.length !== 4) {
       problemas.push(`${donde(f)}: tiene ${f.opciones.length} opciones, deben ser 4`);
     }
@@ -250,11 +268,13 @@ function validar(filas: Fila[], conteosDeclarados: Record<string, number>): stri
       }
     }
 
-    // El pie "**Reactivos en este archivo:** N" no debe mentir.
+    // El pie "**Reactivos en este archivo:** N" no debe mentir, y cuenta los
+    // VIVOS: es el número que le importa a quien arma un examen.
+    const vivos = filas.filter((f) => f.archivo === archivo && !f.retirado).length;
     const declarado = conteosDeclarados[archivo];
-    if (declarado !== undefined && declarado !== numeros.length) {
+    if (declarado !== undefined && declarado !== vivos) {
       problemas.push(
-        `${archivo}: el pie declara ${declarado} reactivos pero hay ${numeros.length}`,
+        `${archivo}: el pie declara ${declarado} reactivos pero hay ${vivos} vivos`,
       );
     }
   }
@@ -278,15 +298,36 @@ async function main() {
     filas.push(...parsearArchivo(archivo));
   }
 
+  // ---- retirados ----
+  // Se apartan aquí: de este punto en adelante el importador trabaja sólo con
+  // los vivos. Se reporta siempre, aunque sean cero, para que nadie se pregunte
+  // si el importador los está viendo.
+  const retiradas = filas.filter((f) => f.retirado);
+  const vivas = filas.filter((f) => !f.retirado);
+  const porMotivo = new Map<string, number>();
+  for (const f of retiradas) {
+    const familia = (f.retirado ?? '').split('·')[0].trim() || '(sin motivo)';
+    porMotivo.set(familia, (porMotivo.get(familia) ?? 0) + 1);
+  }
+  console.log('');
+  console.log(
+    `Retirados (NO se importan): ${retiradas.length}` +
+      (porMotivo.size
+        ? '  → ' + [...porMotivo].map(([m, n]) => `${m} ${n}`).join(', ')
+        : ''),
+  );
+
   // ---- reporte de lectura ----
+  console.log('');
   console.log(`Leídos ${archivos.length} archivos de ${DIR}`);
   console.log('');
+  // Se cuentan los VIVOS: es el número de reactivos que de verdad va a la base.
   const porMateria = new Map<string, number>();
-  for (const f of filas) porMateria.set(f.materia, (porMateria.get(f.materia) ?? 0) + 1);
+  for (const f of vivas) porMateria.set(f.materia, (porMateria.get(f.materia) ?? 0) + 1);
   for (const [materia, n] of [...porMateria].sort((a, b) => b[1] - a[1])) {
     console.log(`  ${materia.padEnd(12)} ${String(n).padStart(5)} reactivos`);
   }
-  console.log(`  ${'TOTAL'.padEnd(12)} ${String(filas.length).padStart(5)} reactivos`);
+  console.log(`  ${'TOTAL'.padEnd(12)} ${String(vivas.length).padStart(5)} reactivos`);
 
   // ---- validación ----
   const problemas = validar(filas, conteosDeclarados);
@@ -300,7 +341,7 @@ async function main() {
   }
 
   // ---- barajado ----
-  const barajadas = filas.map((f) => {
+  const barajadas = vivas.map((f) => {
     const conIndice = f.opciones.map((texto, i) => ({ texto, era: i }));
     const nuevo = barajarDeterminista(conIndice, f.enunciado);
     return {

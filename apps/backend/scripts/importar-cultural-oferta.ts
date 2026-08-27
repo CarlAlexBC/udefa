@@ -63,6 +63,16 @@ interface ReactivoParsed {
   justificacion: string;
   notaRevisor: string | null;
   archivo: string;
+  /**
+   * Motivo por el que este reactivo se retiró del banco, o null si está vivo.
+   *
+   * Un reactivo retirado NO se importa, pero SIGUE EN EL ARCHIVO con su número.
+   * Se marca en vez de borrarse porque la numeración de cada .md tiene que
+   * quedar corrida: borrar uno de en medio obligaría a renumerar todos los
+   * siguientes, con un diff enorme y perdiendo el rastro de qué era cada quién.
+   * Ver docs/examen-cultural/auditoria/README.md.
+   */
+  retirado: string | null;
 }
 
 interface LibroParsed {
@@ -79,6 +89,9 @@ interface ArchivoParsed {
   capNumero: number;
   capTitulo: string;
   reactivos: ReactivoParsed[];
+  /** Los marcados **Retirado:**. Fuera de la base, pero cuentan para la
+      numeración: sus números siguen ocupados en el .md. */
+  retirados: ReactivoParsed[];
   archivo: string;
   carpeta: string;
 }
@@ -244,7 +257,10 @@ function parsearBloque(body: string, numero: number, archivo: string): ReactivoP
   const notas = lineas.filter((l) => /^>\s/.test(l)).map((l) => l.replace(/^>\s?/, '').trim());
   const notaRevisor = notas.length ? notas.join(' ') : null;
 
-  return { numero, enunciado, opciones, correctaTexto, referencia, subtema, justificacion, notaRevisor, archivo };
+  // Reactivo retirado a mano. Ver el comentario del campo en ReactivoParsed.
+  const retirado = limpio(primerMatch(body, /^\*\*Retirado:\*\*\s*(.+)$/m) ?? '') || null;
+
+  return { numero, enunciado, opciones, correctaTexto, referencia, subtema, justificacion, notaRevisor, archivo, retirado };
 }
 
 // ---------------------------------------------------------------------------
@@ -280,11 +296,18 @@ function parsearArchivo(carpeta: string, rutaAbs: string, archivo: string): Arch
   const codigoMateria = primerMatch(cabecera, /\*\*Materia:\*\*[^`]*`([^`]+)`/);
   const edicion = extraerEdicion(cabecera);
 
+  // Los retirados se apartan aqui, de una vez: el resto del importador ya no
+  // tiene que acordarse de filtrarlos. Solo la comprobacion de numeracion los
+  // vuelve a juntar, porque sus numeros siguen ocupados en el archivo.
+  const vivos = reactivos.filter((r) => !r.retirado);
+  const retirados = reactivos.filter((r) => r.retirado);
+
   return {
     libro: { slug, materia, autor, edicion, anio, codigoMateria },
     capNumero,
     capTitulo,
-    reactivos,
+    reactivos: vivos,
+    retirados,
     archivo,
     carpeta,
   };
@@ -298,7 +321,11 @@ function validar(archivos: ArchivoParsed[]): string[] {
   const vistos = new Map<string, string>();
 
   for (const a of archivos) {
-    const nums = a.reactivos.map((r) => r.numero).sort((x, y) => x - y);
+    // Vivos Y RETIRADOS: el retirado conserva su número en el archivo, así que
+    // si se le sacara de esta cuenta la numeración parecería rota.
+    const nums = [...a.reactivos, ...a.retirados]
+      .map((r) => r.numero)
+      .sort((x, y) => x - y);
     // No todos los libros arrancan en 1: Cálculo (Salazar) numera de forma
     // continua entre los archivos de sus Unidades a propósito (Unidad 2 sigue
     // en 108, Unidad 3 en 135) para que no se dupliquen entre archivos. Lo que
@@ -370,9 +397,22 @@ function reporte(archivos: ArchivoParsed[]) {
       totalNota += a.reactivos.filter((r) => r.notaRevisor).length;
     }
   }
+  // Retirados: cuantos y por que motivo. Se reporta SIEMPRE, aunque sean cero,
+  // para que nadie se pregunte si el importador los esta viendo.
+  const retirados = archivos.flatMap((a) => a.retirados);
+  const porMotivo = new Map<string, number>();
+  for (const r of retirados) {
+    const familia = (r.retirado ?? '').split('·')[0].trim() || '(sin motivo)';
+    porMotivo.set(familia, (porMotivo.get(familia) ?? 0) + 1);
+  }
+
   console.log('');
   console.log('=== TOTALES ===');
   console.log(`Libros: ${porLibro.size}   Capítulos: ${archivos.length}   Reactivos: ${totalReactivos}`);
+  console.log(
+    `Retirados (NO se importan): ${retirados.length}` +
+      (porMotivo.size ? '  → ' + [...porMotivo].map(([m, n]) => `${m} ${n}`).join(', ') : ''),
+  );
   console.log(`Con nota de revisor (>): ${totalNota}  → a notaRevisor, NO se muestran al aspirante`);
   console.log(`Posición correcta EN EL .MD:  A:${antes.A}  B:${antes.B}  C:${antes.C}  D:${antes.D}`);
   console.log(`Posición correcta BARAJADA:   A:${despues.A}  B:${despues.B}  C:${despues.C}  D:${despues.D}`);
@@ -572,12 +612,19 @@ async function escribir(archivos: ArchivoParsed[]) {
 }
 
 // ---------------------------------------------------------------------------
+/**
+ * Carpetas que NO son banco de reactivos aunque tengan .md dentro.
+ * `auditoria/` guarda el rastreo de reactivos a retirar, no reactivos.
+ */
+const CARPETAS_QUE_NO_SON_BANCO = new Set(['auditoria']);
+
 function carpetasAProcesar(): string[] {
   if (CARPETA_UNICA) return [CARPETA_UNICA];
   return fs
     .readdirSync(RAIZ, { withFileTypes: true })
     .filter((d) => d.isDirectory())
     .map((d) => d.name)
+    .filter((nombre) => !CARPETAS_QUE_NO_SON_BANCO.has(nombre))
     .filter((nombre) => fs.readdirSync(path.join(RAIZ, nombre)).some((f) => f.endsWith('.md')))
     .sort();
 }
