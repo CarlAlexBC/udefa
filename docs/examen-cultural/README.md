@@ -8,6 +8,18 @@
 Punto de entrada para retomar en frío. Los reactivos viven en `HCM/`, un archivo
 por capítulo, y **cada archivo dice en su encabezado qué páginas le faltan**.
 
+## Antes de escribir un solo reactivo
+
+Lee **[QUE-NO-ESCRIBIR.md](QUE-NO-ESCRIBIR.md)**. Recoge, con ejemplos reales de
+este banco, los cuatro tipos de reactivo que ya se colaron una vez y hubo que
+corregir: los que piden ver una figura que la plataforma no muestra, los que
+nombran el capítulo del libro, los que preguntan por el adorno (recuadros
+biográficos, notas al pie) y los que se salen del temario.
+
+La regla de fondo, que manda sobre todo lo demás: **calidad antes que
+cantidad**. Un reactivo que no cae en el examen no suma, resta tiempo de
+estudio.
+
 ## Qué es el examen cultural
 
 Lo define el **Anexo "H"** de la convocatoria 2026, en las páginas 78–80 del PDF
