@@ -45,12 +45,8 @@ deja nada del tema, al revés de un ejemplo anecdótico.
 
 ## Cobertura actual
 
-**Hojas 99–116 de 119** (párrafos 273 a 348). Cubre la Quinta Sección
-completa (Normatividad, ámbitos nacional e internacional), la Sexta Sección
-(Obligatoriedad de Respetar los Derechos Humanos de las Mujeres), la
-Séptima Sección completa (Igualdad y Equidad) y la Octava Sección completa
-(Violencia de Género: definición, tipos, modalidades, violencia obstétrica y
-consecuencias).
+**Alcance cubierto por completo.** Las nueve secciones del Capítulo VIII,
+párrafos 273 a 363, páginas impresas 90–110.
 
 **Párrafos sin reactivo propio, y por qué:**
 
@@ -63,7 +59,8 @@ consecuencias).
   Hombres. Escribir un reactivo aparte habría producido un gemelo, que es
   justo lo que la advertencia del arranque de este archivo pide evitar.
 
-**Pendiente:** continuar en la hoja 117.
+**Pendiente:** ninguno. El Capítulo VIII está cerrado. Sigue el Capítulo IX
+(hojas 120–130), según `docs/examen-tropa/derechos-humanos.md`.
 
 ---
 
@@ -1259,4 +1256,230 @@ igualdad, la no violencia y la no discriminación por motivos de género.
 
 ---
 
-**Reactivos en este archivo:** 61
+## Sub-lote 14 · Novena Sección — La Mujer al Interior de las Fuerzas Armadas (párr. 350–363)
+
+### 62
+
+Según el Manual, ¿qué presidente fundó, el 21 de marzo de 1938, la Escuela
+Militar de Enfermeras del Ejército Mexicano?
+
+- A. Lázaro Cárdenas
+- B. Manuel Ávila Camacho
+- C. Plutarco Elías Calles
+- D. Miguel Alemán Valdés
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 350, Pág. 108
+**Subtema:** la mujer en las Fuerzas Armadas · antecedentes
+
+El 21 de marzo de 1938, el Presidente Lázaro Cárdenas funda la Escuela
+Militar de Enfermeras del Ejército Mexicano.
+
+### 63
+
+De acuerdo con el Manual, ¿en qué año la Escuela Militar de Enfermeras del
+Ejército Mexicano fue abanderada finalmente con el nombre de Escuela
+Militar de Enfermeras?
+
+- A. 1963
+- B. 1938
+- C. 1946
+- D. 1973
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 350, Pág. 108
+**Subtema:** la mujer en las Fuerzas Armadas · antecedentes
+
+Misma que en 1946 cambió su denominación como Escuela Militar de Enfermeras
+y Parteras, finalmente en 1963 fue abanderada con el nombre de Escuela
+Militar de Enfermeras.
+
+### 64
+
+Según el Manual, ¿en qué año ingresó la mujer a la Escuela Médico Militar?
+
+- A. 1973
+- B. 1975
+- C. 1976
+- D. 1963
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 351, Pág. 108
+**Subtema:** la mujer en las Fuerzas Armadas · antecedentes
+
+Ingresando también a la Escuela Militar de Odontología desde 1976, la
+Escuela Médico Militar en 1973 y en la Escuela Militar de Clases de
+Transmisiones en 1975 para capacitarse como radio-operadoras.
+
+### 65
+
+De acuerdo con el Manual, ¿para capacitarse en qué función ingresó la mujer
+a la Escuela Militar de Clases de Transmisiones en 1975?
+
+- A. Como radio-operadoras
+- B. Como enfermeras militares
+- C. Como pilotos aviadoras
+- D. Como oficinistas administrativas
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 351, Pág. 108
+**Subtema:** la mujer en las Fuerzas Armadas · antecedentes
+
+En la Escuela Militar de Clases de Transmisiones en 1975 para capacitarse
+como radio-operadoras.
+
+### 66
+
+Según el Manual, ¿cómo se somete actualmente el acceso a las instituciones
+de educación pública superiores, tanto para mujeres como para hombres?
+
+- A. A concurso de admisión con idénticas ventajas
+- B. A un cupo diferenciado según el género del aspirante
+- C. A la recomendación directa del mando superior
+- D. A un examen exclusivo para personal ya perteneciente a las Fuerzas Armadas
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 353, Pág. 108
+**Subtema:** la mujer en las Fuerzas Armadas · educación
+
+El derecho a la educación es un derecho sin género, la ley no distingue y
+en la actualidad el acceso a las instituciones de educación pública
+superiores se somete a concurso de admisión con idénticas ventajas tanto
+para mujeres como para hombres.
+
+### 67
+
+De acuerdo con el Manual, ¿qué jerarquías puede ostentar la mujer militar
+en el medio castrense?
+
+- A. Generales, jefes, oficiales y tropa, desempeñando un cargo conforme a su grado
+- B. Únicamente jefes y oficiales, sin acceso al generalato
+- C. Solamente tropa, con posibilidad de ascenso a oficial tras diez años de servicio
+- D. Exclusivamente cargos administrativos, sin mando de tropa
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 358, Pág. 109
+**Subtema:** la mujer en las Fuerzas Armadas · jerarquías
+
+Pueden ostentar jerarquías de generales, jefes, oficiales y tropa, y
+desempeñar un cargo conforme a su grado; tienen derecho a participar o
+concursar en las promociones con similitud de exámenes y todos los
+beneficios consagrados en las leyes y disposiciones reglamentarias.
+
+### 68
+
+Según el Manual, hasta el ciclo escolar 2006-2007, ¿en qué planteles del
+Sistema Educativo Militar se admitía a mujeres?
+
+- A. En la Escuela Militar de Enfermeras, y en la modalidad de educación mixta en la Escuela Médico Militar y la Escuela Militar de Odontología
+- B. Únicamente en el Heroico Colegio Militar
+- C. En todos los planteles del Sistema Educativo Militar, sin excepción
+- D. Exclusivamente en la Escuela Superior de Guerra
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 361, Pág. 109
+**Subtema:** la mujer en las Fuerzas Armadas · admisión antes de 2007
+
+Hasta el ciclo escolar 2006-2007, la apertura de admisión para el conjunto
+de mujeres a los planteles del Sistema Educativo Militar era para la
+Escuela Militar de Enfermeras y en la modalidad de educación mixta en la
+Escuela Médico Militar y la Escuela Militar de Odontología.
+
+### 69
+
+Según el Manual, a partir del año 2007, ¿en cuál de los siguientes
+establecimientos de educación militar ingresaron las mujeres, como parte
+de las acciones emprendidas por la Secretaría de la Defensa Nacional?
+
+- A. El Heroico Colegio Militar
+- B. La Escuela Militar de Enfermeras
+- C. La Escuela Médico Militar
+- D. La Escuela Militar de Odontología
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 362, inciso B, Pág. 109
+**Subtema:** la mujer en las Fuerzas Armadas · admisión desde 2007
+
+A partir del año 2007, las mujeres ingresaron, entre otros, en el Heroico
+Colegio Militar.
+
+> B, C y D ya admitían mujeres desde antes de 2007 (párrafo 361) — el
+> ingreso a esos tres no fue novedad de esta fecha.
+
+### 70
+
+De acuerdo con el Manual, a partir del ciclo escolar 2017-2021, ¿qué cambio
+de denominación sufrió la Escuela Militar de Enfermeras al ingresar
+hombres a sus filas?
+
+- A. Cambió su denominación a Escuela Militar de Enfermería
+- B. Cambió su denominación a Escuela Militar de Ciencias de la Salud
+- C. Cambió su denominación a Escuela Militar de Enfermeras y Parteras
+- D. Mantuvo su denominación original sin cambios
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 362, inciso F, Pág. 110
+**Subtema:** la mujer en las Fuerzas Armadas · admisión desde 2007
+
+A partir del ciclo escolar 2017-2021, ingresan hombres a la Escuela Militar
+de Enfermeras; cambiando su denominación a Escuela Militar de Enfermería.
+
+### 71
+
+Según el Manual, ¿a qué escuela, que antes solo admitía hombres, se
+aperturó el ingreso de mujeres a partir del ciclo escolar 2017-2021,
+fortaleciendo la igualdad sustantiva en las Fuerzas Armadas?
+
+- A. A la Escuela Militar de Oficiales de Sanidad
+- B. Al Heroico Colegio Militar
+- C. A la Escuela Superior de Guerra
+- D. Al Colegio del Aire
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 362, inciso F, Pág. 110
+**Subtema:** la mujer en las Fuerzas Armadas · admisión desde 2007
+
+Así mismo se apertura el ingreso de mujeres a la Escuela Militar de
+Oficiales de Sanidad, planteles a los que solo ingresaban mujeres y
+hombres respectivamente, fortaleciendo la igualdad sustantiva en las
+Fuerzas Armadas.
+
+### 72
+
+De acuerdo con el Manual, ¿para qué se designó personal femenino en la
+Escuela Militar de Aplicación de las Armas y Servicios?
+
+- A. Para realizar los Cursos Básicos y Avanzados de Aplicación Táctico Administrativo, con modalidad escolarizada
+- B. Para dirigir la escuela como comandantes
+- C. Para impartir cátedra exclusivamente en materias de administración
+- D. Para realizar labores de intendencia y limpieza
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 362, inciso G, Pág. 110
+**Subtema:** la mujer en las Fuerzas Armadas · admisión desde 2007
+
+Se designó personal femenino para realizar los Cursos Básicos y Avanzados
+de Aplicación Táctico Administrativo, con modalidad escolarizada, que
+imparte la Escuela Militar de Aplicación de las Armas y Servicios.
+
+### 73
+
+Según el Manual, ¿de qué forma se abre la posibilidad de que las mujeres
+incursionen en el Servicio Militar Nacional?
+
+- A. Como voluntarias dentro de los programas sociales que éste contempla
+- B. Mediante sorteo obligatorio, en igualdad de condiciones con los hombres
+- C. Únicamente mediante convocatoria dirigida a profesionales de la salud
+- D. A través de un examen de admisión exclusivo para mujeres
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 363, Pág. 110
+**Subtema:** la mujer en las Fuerzas Armadas · campo de acción actual
+
+Abriéndose la posibilidad de que las mujeres incursionen en el Servicio
+Militar Nacional, como voluntarias dentro de los programas sociales que
+éste contempla.
+
+---
+
+**Reactivos en este archivo:** 73
