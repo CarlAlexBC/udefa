@@ -45,11 +45,12 @@ deja nada del tema, al revés de un ejemplo anecdótico.
 
 ## Cobertura actual
 
-**Hojas 99–110 de 119** (párrafos 273 a 328). Cubre la Quinta Sección
+**Hojas 99–116 de 119** (párrafos 273 a 348). Cubre la Quinta Sección
 completa (Normatividad, ámbitos nacional e internacional), la Sexta Sección
-(Obligatoriedad de Respetar los Derechos Humanos de las Mujeres) y el
-arranque de la Séptima Sección (Igualdad y Equidad), hasta el inicio de la
-Subsección (C) Diferencias entre igualdad y equidad.
+(Obligatoriedad de Respetar los Derechos Humanos de las Mujeres), la
+Séptima Sección completa (Igualdad y Equidad) y la Octava Sección completa
+(Violencia de Género: definición, tipos, modalidades, violencia obstétrica y
+consecuencias).
 
 **Párrafos sin reactivo propio, y por qué:**
 
@@ -62,8 +63,7 @@ Subsección (C) Diferencias entre igualdad y equidad.
   Hombres. Escribir un reactivo aparte habría producido un gemelo, que es
   justo lo que la advertencia del arranque de este archivo pide evitar.
 
-**Pendiente:** continuar en la hoja 111, con la definición de "Equidad" que
-completa la comparación Igualdad/Equidad iniciada en el párrafo 328.
+**Pendiente:** continuar en la hoja 117.
 
 ---
 
@@ -879,6 +879,384 @@ Igualdad.- Es un principio jurídico fundamental en las sociedades
 democráticas, ya que establece que todas las personas son iguales ante la
 ley.
 
+### 43
+
+Según el Manual, en el marco de las diferencias entre igualdad y equidad,
+¿qué es la "Equidad"?
+
+- A. Un mandato de carácter ético, basado en el principio de justicia social, que busca compensar los desequilibrios existentes en el acceso y control de los recursos entre mujeres y hombres
+- B. Un principio jurídico fundamental en las sociedades democráticas, ya que establece que todas las personas son iguales ante la ley
+- C. La distribución justa de los recursos y del poder social, según las necesidades respectivas de cada persona
+- D. La idéntica titularidad, protección y garantía de los mismos derechos fundamentales
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 329, Pág. 102
+**Subtema:** igualdad y equidad · diferencias entre igualdad y equidad
+
+Equidad.- Es un mandato de carácter ético, basado en el principio de
+justicia social que busca compensar los desequilibrios existentes en el
+acceso y control de los recursos entre mujeres y hombres.
+
 ---
 
-**Reactivos en este archivo:** 42
+## Sub-lote 10 · Octava Sección — Violencia de Género, introducción (párr. 331–336)
+
+### 44
+
+Según el Manual, ¿por qué la violencia no es inherente a la naturaleza
+humana?
+
+- A. Porque nuestro comportamiento no está programado genéticamente: la violencia se aprende, se reproduce y se ejerce, como resultado de relaciones sociales fincadas en el ejercicio desigual del poder
+- B. Porque las leyes internacionales la prohíben expresamente desde 1945
+- C. Porque solo se presenta en contextos de pobreza extrema
+- D. Porque es exclusiva de las relaciones laborales y docentes
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 331, Pág. 102
+**Subtema:** violencia de género · introducción
+
+No somos violentos o violentas "por naturaleza", ya que nuestro
+comportamiento no está programado genéticamente. La violencia se aprende,
+se reproduce, se ejerce; es el resultado de relaciones sociales fincadas en
+el ejercicio desigual del poder.
+
+### 45
+
+Según el Manual, ¿en qué fecha se publicó la Ley General de Acceso de las
+Mujeres a una Vida Libre de Violencia?
+
+- A. El 1 de febrero de 2007
+- B. El 17 de julio de 1980
+- C. El 24 de marzo de 1981
+- D. El 9 de enero de 1999
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 334, Pág. 103
+**Subtema:** violencia de género · Ley General de Acceso de las Mujeres a una Vida Libre de Violencia
+
+El 1 de febrero del 2007 se publicó la Ley General de Acceso de las
+Mujeres a una Vida Libre de Violencia.
+
+### 46
+
+De acuerdo con el Manual, ¿cómo define la Ley General de Acceso de las
+Mujeres a una Vida Libre de Violencia a la violencia contra las mujeres?
+
+- A. Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito privado como en el público
+- B. Cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto
+- C. Toda acción u omisión del agresor que afecta la supervivencia económica de la víctima
+- D. Cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 336, Pág. 103
+**Subtema:** violencia de género · definición legal
+
+Define la violencia contra las mujeres como "cualquier acción u omisión,
+basada en su género, que les cause daño o sufrimiento psicológico, físico,
+patrimonial, económico, sexual o la muerte tanto en el ámbito privado como
+en el público".
+
+---
+
+## Sub-lote 11 · Octava Sección — Tipos de violencia, Art. 6° LGAMVLV (párr. 337)
+
+### 47
+
+Según el Manual, las conductas de violencia psicológica conllevan a la
+víctima, en casos extremos, ¿a qué?
+
+- A. A la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio
+- B. A la pérdida de bienes y valores patrimoniales
+- C. A la limitación de su ingreso económico dentro del centro laboral
+- D. A la denigración y concepción de la mujer como objeto
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 337, inciso A, Pág. 103
+**Subtema:** tipos de violencia · violencia psicológica
+
+Las cuales conllevan a la víctima a la depresión, al aislamiento, a la
+devaluación de su autoestima e incluso al suicidio.
+
+### 48
+
+Según el Manual, ¿cómo se define la "Violencia física", entre los tipos de
+violencia contra las mujeres?
+
+- A. Cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones, ya sean internas, externas, o ambas
+- B. Cualquier acto u omisión que afecta la supervivencia de la víctima, mediante la sustracción o destrucción de bienes
+- C. Toda acción u omisión del agresor que afecta la supervivencia económica de la víctima
+- D. Cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 337, inciso B, Pág. 103
+**Subtema:** tipos de violencia · violencia física
+
+Violencia física: es cualquier acto que inflige daño no accidental, usando
+la fuerza física o algún tipo de arma u objeto que pueda provocar o no
+lesiones ya sean internas, externas, o ambas.
+
+### 49
+
+De acuerdo con el Manual, ¿cómo se define la "Violencia patrimonial"?
+
+- A. Cualquier acto u omisión que afecta la supervivencia de la víctima, mediante la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores o recursos económicos
+- B. Cualquier acto que inflige daño no accidental usando la fuerza física
+- C. Toda acción u omisión del agresor que afecta la supervivencia económica de la víctima mediante limitaciones al ingreso
+- D. Cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 337, inciso C, Pág. 104
+**Subtema:** tipos de violencia · violencia patrimonial
+
+Violencia patrimonial: es cualquier acto u omisión que afecta la
+supervivencia de la víctima, mediante la transformación, sustracción,
+destrucción, retención o distracción de objetos, documentos personales,
+bienes y valores, derechos patrimoniales o recursos económicos.
+
+### 50
+
+Según el Manual, la "Violencia económica" se manifiesta, entre otras
+formas, a través de limitaciones para controlar el ingreso de las
+percepciones económicas de la víctima, así como ¿qué otra conducta?
+
+- A. La percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral
+- B. La sustracción o destrucción de bienes y documentos personales
+- C. El impedimento del período de lactancia previsto en la ley
+- D. La descalificación del trabajo realizado y las amenazas
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 337, inciso D, Pág. 104
+**Subtema:** tipos de violencia · violencia económica
+
+Se manifiesta a través de limitaciones encaminadas a controlar el ingreso
+de sus percepciones económicas, así como la percepción de un salario menor
+por igual trabajo, dentro de un mismo centro laboral.
+
+### 51
+
+De acuerdo con el Manual, ¿cómo se define la "Violencia sexual"?
+
+- A. Cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que atenta contra su libertad, dignidad e integridad física, como expresión de abuso de poder que implica la supremacía masculina sobre la mujer
+- B. Cualquier acto que inflige daño no accidental usando la fuerza física o algún tipo de arma
+- C. Cualquier acto u omisión que afecta la supervivencia de la víctima mediante la sustracción de bienes
+- D. Toda acción u omisión del agresor que afecta la supervivencia económica de la víctima
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 337, inciso E, Pág. 104
+**Subtema:** tipos de violencia · violencia sexual
+
+Violencia sexual: es cualquier acto que degrada o daña el cuerpo y/o la
+sexualidad de la víctima y que por tanto atenta contra su libertad,
+dignidad e integridad física. Es una expresión de abuso de poder que
+implica la supremacía masculina sobre la mujer.
+
+---
+
+## Sub-lote 12 · Octava Sección — Modalidades de la violencia, Título II (párr. 339)
+
+### 52
+
+Según el Manual, ¿cómo se define la "Violencia familiar", como modalidad
+de la violencia?
+
+- A. El acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco, matrimonio o concubinato
+- B. Los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración en el ámbito público
+- C. Los actos u omisiones de las y los servidores públicos que discriminen o impidan el goce de los derechos humanos de las mujeres
+- D. Las conductas que dañen la autoestima de las alumnas con actos de discriminación por parte de maestras o maestros
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 339, inciso A, Pág. 104
+**Subtema:** modalidades de la violencia · violencia familiar
+
+Violencia familiar: es el acto abusivo de poder u omisión intencional,
+dirigido a dominar, someter, controlar, o agredir de manera física, verbal,
+psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera
+del domicilio familiar, cuyo agresor tenga o haya tenido relación de
+parentesco por consanguinidad o afinidad, de matrimonio, concubinato o
+mantengan o hayan mantenido una relación de hecho.
+
+### 53
+
+De acuerdo con el Manual, ¿cómo se define la "Violencia en la comunidad"?
+
+- A. Los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público
+- B. El acto abusivo de poder dirigido a dominar, someter o agredir a las mujeres dentro o fuera del domicilio familiar
+- C. Los actos u omisiones de servidores públicos que discriminen o impidan el goce de los derechos humanos de las mujeres
+- D. La negativa ilegal a contratar a la víctima o a respetar su permanencia laboral
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 339, inciso C, Pág. 105
+**Subtema:** modalidades de la violencia · violencia en la comunidad
+
+Violencia en la comunidad: son los actos individuales o colectivos que
+transgreden derechos fundamentales de las mujeres y propician su
+denigración, discriminación, marginación o exclusión en el ámbito público.
+
+### 54
+
+Según el Manual, ¿cómo se define la "Violencia institucional"?
+
+- A. Los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres
+- B. Los actos individuales o colectivos que propician la denigración de las mujeres en el ámbito público
+- C. La negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo
+- D. Las conductas que dañen la autoestima de las alumnas con actos de discriminación
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 339, inciso D, Pág. 105
+**Subtema:** modalidades de la violencia · violencia institucional
+
+Violencia institucional: son los actos u omisiones de las y los servidores
+públicos de cualquier orden de gobierno que discriminen o tengan como fin
+dilatar, obstaculizar o impedir el goce y ejercicio de los derechos
+humanos de las mujeres así como su acceso al disfrute de políticas
+públicas destinadas a prevenir, atender, investigar, sancionar y erradicar
+los diferentes tipos de violencia.
+
+### 55
+
+Según el Manual, entre las conductas que constituyen la modalidad de
+"Violencia laboral" se encuentra impedir a las mujeres llevar a cabo ¿qué
+período previsto en la ley?
+
+- A. El período de lactancia
+- B. El período de vacaciones anuales
+- C. El período de incapacidad por maternidad
+- D. El período de prueba en el nuevo empleo
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 339, inciso E, Pág. 105
+**Subtema:** modalidades de la violencia · violencia laboral
+
+Violencia laboral: la negativa ilegal a contratar a la víctima o a
+respetar su permanencia o condiciones generales de trabajo; la
+descalificación del trabajo realizado, las amenazas, la intimidación, las
+humillaciones, la explotación, el impedimento a las mujeres de llevar a
+cabo el período de lactancia previsto en la ley y todo tipo de
+discriminación por condición de género.
+
+### 56
+
+Según el Manual, ¿qué distingue al "Hostigamiento sexual" del "Acoso
+sexual"?
+
+- A. El hostigamiento sexual implica una relación de subordinación real de la víctima frente al agresor, en los ámbitos laboral y/o escolar; el acoso sexual no requiere esa subordinación
+- B. El hostigamiento sexual solo puede ocurrir en el ámbito laboral; el acoso sexual solo en el ámbito escolar
+- C. El hostigamiento sexual requiere de varios eventos; el acoso sexual puede darse en uno solo
+- D. El hostigamiento sexual es exclusivo entre mujeres; el acoso sexual puede darse entre cualquier género
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 339, incisos G y H, Pág. 105
+**Subtema:** modalidades de la violencia · hostigamiento y acoso sexual
+
+Hostigamiento sexual: es el ejercicio del poder, en una relación de
+subordinación real de la víctima frente al agresor en los ámbitos laboral
+y/o escolar. Acoso sexual: es una forma de violencia en la que, si bien no
+existe la subordinación, hay un ejercicio abusivo de poder que conlleva a
+un estado de indefensión y de riesgo para la víctima, independientemente
+de que se realice en uno o varios eventos.
+
+### 57
+
+De acuerdo con el Manual, ¿cómo se define la "Violencia feminicida"?
+
+- A. La forma extrema de violencia de género contra las mujeres, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres
+- B. Los actos individuales o colectivos que propician la denigración de las mujeres en el ámbito público
+- C. El ejercicio del poder en una relación de subordinación real de la víctima frente al agresor
+- D. Las conductas que dañen la autoestima de las alumnas con actos de discriminación
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 339, inciso I, Pág. 105
+**Subtema:** modalidades de la violencia · violencia feminicida
+
+Violencia feminicida: es la forma extrema de violencia de género contra
+las mujeres, producto de la violación de sus derechos humanos, en los
+ámbitos público y privado, conformada por el conjunto de conductas
+misóginas que pueden conllevar impunidad social y del estado y puede
+culminar en homicidio y otras formas de muerte violenta de mujeres.
+
+---
+
+## Sub-lote 13 · Octava Sección — Violencia obstétrica y consecuencias (párr. 340–348)
+
+### 58
+
+Según el Manual, la "violencia obstétrica" —no referida por la Ley General
+de Acceso de las Mujeres a una Vida Libre de Violencia— fue definida por
+la UNESCO, en coordinación con la Red Latinoamericana del Caribe y de
+Bioética, como el tipo de violencia ejercida por ¿quién, sobre el cuerpo y
+los procesos reproductivos de las mujeres?
+
+- A. El profesional de salud
+- B. El cónyuge o pareja de la víctima
+- C. Las instituciones educativas
+- D. Los servidores públicos de cualquier orden de gobierno
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 340, Pág. 106
+**Subtema:** violencia de género · violencia obstétrica
+
+Ha definido a la violencia obstétrica como: "El tipo de violencia ejercida
+por el profesional de salud sobre el cuerpo y los procesos reproductivos
+de las mujeres".
+
+### 59
+
+Según el Manual, ¿qué consecuencias generan todas las expresiones de la
+violencia en la persona que las sufre?
+
+- A. Estrés, falta de concentración, inseguridad o miedo, daños físicos, comportamientos autodestructivos y, en casos extremos, la muerte
+- B. Únicamente pérdidas económicas y patrimoniales
+- C. Exclusivamente sanciones penales para el agresor
+- D. Beneficios compensatorios otorgados por el Estado
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 343, Pág. 106
+**Subtema:** violencia de género · consecuencias
+
+Todas las expresiones de la violencia generan un daño y tienen
+consecuencias en la persona o personas que las sufre; generan estrés,
+falta de concentración, inseguridad o miedo, daños físicos, comportamientos
+autodestructivos, marcas en el cuerpo y en la mente, y en casos extremos,
+la muerte.
+
+### 60
+
+Según el Manual, ¿qué recomienda el Comité de expertas de la CEDAW
+respecto al empleo de los términos "igualdad" y "equidad"?
+
+- A. Que solo se utilice el término "igualdad" en la elaboración de cualquier tipo de documento que referencia a este derecho humano
+- B. Que se utilicen ambos términos indistintamente, ya que son sinónimos
+- C. Que se utilice exclusivamente el término "equidad" por ser más incluyente
+- D. Que ambos términos sean sustituidos por el de "paridad de género"
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 347, Pág. 107
+**Subtema:** violencia de género · terminología CEDAW
+
+Se recomienda que solo se utilice el término "igualdad" en la elaboración
+de cualquier tipo de documento que referencia a este derecho humano.
+
+### 61
+
+De acuerdo con el Manual, ¿con qué se encuentra comprometido el Ejército y
+Fuerza Aérea Mexicanos respecto a la igualdad de oportunidades entre
+mujeres y hombres?
+
+- A. A asegurar la igualdad de oportunidades, promoviendo acciones para la igualdad, la no violencia y la no discriminación por motivos de género
+- B. A garantizar exclusivamente el acceso de las mujeres a cargos de mando
+- C. A suprimir cualquier distinción de género en el uniforme y equipo militar
+- D. A destinar un presupuesto específico anual para programas de igualdad de género
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 348, Pág. 107
+**Subtema:** violencia de género · compromiso institucional
+
+Cabe destacar que el Ejército y Fuerza Aérea Mexicanos, en nuestros
+ordenamientos legales se encuentra prohibida cualquier tipo de violencia
+asimismo se encuentra comprometido a asegurar la igualdad de oportunidades
+para las mujeres y los hombres, promoviendo acciones para promover la
+igualdad, la no violencia y la no discriminación por motivos de género.
+
+---
+
+**Reactivos en este archivo:** 61
