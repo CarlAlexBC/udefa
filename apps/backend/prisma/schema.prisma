@@ -259,6 +259,17 @@ model Reactivo {
   marco             String?
   crossRef          String?
   imagenUrl         String?
+  /// Motivo por el que este reactivo se retiro del banco, o null si esta vivo.
+  ///
+  /// Espeja la linea **Retirado:** de los .md, que son la fuente de verdad. Un
+  /// retirado NO se sirve en examenes ni en practica, pero SIGUE EN LA BASE:
+  /// borrarlo tirarian las respuestas, los repasos y el avance de quien ya lo
+  /// contesto. Por eso se marca en vez de borrarse.
+  ///
+  /// Las consultas que SIRVEN o CUENTAN reactivos filtran `retirado: null`.
+  /// Las que califican una respuesta ya entregada y las que calculan avance
+  /// historico NO filtran: tienen que seguir funcionando con los retirados.
+  retirado          String?
   respuestas        RespuestaReactivo[]
   repasos           RepasoReactivo[]
   respuestasPractica RespuestaPractica[]

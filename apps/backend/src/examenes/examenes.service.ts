@@ -340,6 +340,7 @@ export class ExamenesService {
         JOIN "Capitulo" c ON c.id = t."capituloId"
         JOIN "Libro" l ON l.id = c."libroId"
         WHERE r.banco = 'cultural'
+          AND r.retirado IS NULL
           AND l.slug = ${puenteMateria.slug}
           AND c.numero IN (${Prisma.join(puenteMateria.capitulos)})
         ORDER BY random()
@@ -485,6 +486,7 @@ export class ExamenesService {
             : await this.prisma.reactivo.count({
                 where: {
                   banco: 'cultural',
+                  retirado: null,
                   temaBanco: { capituloId: { in: m.capituloIds } },
                 },
               }),
@@ -528,7 +530,7 @@ export class ExamenesService {
       SELECT c.id AS "capituloId", c.numero, c.titulo, COUNT(r.id) AS disponibles
       FROM "Capitulo" c
       JOIN "Tema" t ON t."capituloId" = c.id
-      LEFT JOIN "Reactivo" r ON r."temaId" = t.id AND r.banco = 'cultural'
+      LEFT JOIN "Reactivo" r ON r."temaId" = t.id AND r.banco = 'cultural' AND r.retirado IS NULL
       WHERE c.id IN (${Prisma.join(elegida.capituloIds)})
       GROUP BY c.id, c.numero, c.titulo
       HAVING COUNT(r.id) > 0
@@ -596,6 +598,7 @@ export class ExamenesService {
       FROM "Reactivo" r
       JOIN "Tema" t ON t.id = r."temaId"
       WHERE r.banco = 'cultural'
+        AND r.retirado IS NULL
         AND t."capituloId" IN (${Prisma.join(capituloIds)})
       ORDER BY random()
       LIMIT ${cuantos}
@@ -681,7 +684,7 @@ export class ExamenesService {
       SELECT DISTINCT c.id AS "capituloId", c.numero, c.titulo
       FROM "Capitulo" c
       JOIN "Tema" t ON t."capituloId" = c.id
-      JOIN "Reactivo" r ON r."temaId" = t.id AND r.banco = 'cultural'
+      JOIN "Reactivo" r ON r."temaId" = t.id AND r.banco = 'cultural' AND r.retirado IS NULL
       WHERE c.id IN (${Prisma.join(todosLosCapIds)})
     `);
 

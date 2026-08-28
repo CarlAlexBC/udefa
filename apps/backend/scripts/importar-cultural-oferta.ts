@@ -519,6 +519,10 @@ async function escribir(archivos: ArchivoParsed[]) {
             tema: r.subtema,
             banco: BANCO,
             numeroEnEje: r.numero,
+            // Vivo en los .md = vivo en la base. Sirve para REACTIVAR: si un
+            // reactivo estuvo retirado y se le quita la marca del archivo,
+            // vuelve a servirse.
+            retirado: null as string | null,
           };
 
           const existente = mapEnun.get(r.enunciado);
@@ -539,6 +543,30 @@ async function escribir(archivos: ArchivoParsed[]) {
         }
       }
     }
+
+    // ── RETIRADOS: se MARCAN, no se borran ───────────────────────────
+    // La marca **Retirado:** vive en los .md, que son la fuente de verdad, y
+    // aquí se espeja en la columna `retirado`. Borrarlos no es opción: los que
+    // alguien ya contestó se llevarían por delante su respuesta, su repaso y su
+    // avance. Marcados, dejan de servirse pero el historial queda intacto.
+    let marcados = 0;
+    for (const a of archivos) {
+      for (const r of a.retirados) {
+        const res = await prisma.reactivo.updateMany({
+          where: { banco: BANCO, enunciado: r.enunciado },
+          data: { retirado: r.retirado },
+        });
+        marcados += res.count;
+      }
+    }
+    if (marcados) console.log(`  Marcados como retirados: ${marcados}`);
+
+    // Y se protegen de la poda: están en los .md, sólo que apartados.
+    const yaRetirados = await prisma.reactivo.findMany({
+      where: { banco: BANCO, retirado: { not: null } },
+      select: { id: true },
+    });
+    for (const r of yaRetirados) vistos.add(r.id);
 
     // Podar reactivos culturales que ya no están en los .md: se borran sólo si
     // nadie los referencia; los que tienen historial se conservan y se avisa.
