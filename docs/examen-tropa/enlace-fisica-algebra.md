@@ -1,0 +1,126 @@
+# Enlazar Física General y Álgebra al temario de tropa
+
+> Reconocimiento hecho el 28 ago 2026. A diferencia de Derechos Humanos y
+> Legislación Militar, aquí no hay que escribir reactivos — el banco ya existe
+> desde el cultural. El trabajo es de **esquema y datos**: crear los cursos y
+> apuntarlos a los libros y capítulos correctos.
+>
+> **Esto SÍ toca `schema.prisma` y corre una migración.** La regla de
+> `CLAUDE.md` de explicar paso a paso y pedir OK antes de migrar **aplica
+> completa aquí** — la excepción de commitear sin preguntar es sólo para
+> `docs/examen-cultural/`, y esto es esquema de producción, no un `.md`.
+>
+> **Economiza el uso:** agrupa lecturas en un solo turno, no consultes la base
+> capítulo por capítulo — trae toda la tabla de una vez. Explica el plan
+> completo antes de tocar la migración, no vayas paso a paso preguntando cada
+> vez.
+
+## La decisión de arquitectura — ya cerrada con Carlo (28 ago)
+
+`Temario` está atado a `Plantel` (`@@unique([plantelId, anio, estado])`), pero
+tropa tiene **curso** (35 de ellos), no plantel. Se evaluaron dos caminos:
+
+- ~~Modelo `Curso` aparte, con sus propias tablas~~ — descartado: duplica toda
+  la lógica de armado de examen que ya funciona.
+- **✅ Reusar `Plantel`, con una columna que distinga tipo.** Cada uno de los
+  35 cursos de tropa se guarda como una fila más de `Plantel`, etiquetada
+  distinta de un plantel real. Cero cambios en `Temario`, `MateriaTemario`,
+  `MateriaTemarioCapitulo` ni en el armado de examen (`examenes.service.ts`) —
+  todo el motor que ya sirve al cultural sirve a tropa sin tocarlo.
+
+**Cambio de esquema exacto:**
+
+```prisma
+enum TipoPlantel {
+  ADMISION
+  TROPA
+}
+
+model Plantel {
+  // ...campos existentes...
+  tipo TipoPlantel @default(ADMISION)
+}
+```
+
+Aditivo, con default: no rompe ni un plantel existente. Migración de una sola
+columna.
+
+## Lo que ya está confirmado — verificado contra la base, no supuesto
+
+### Física General — lista para enlazar
+
+**13 cursos, los 13 piden el mismo libro.** Verificado con `find_tables()`
+sobre cada temario, no con texto corrido (el texto corrido revuelve la tabla).
+
+Libro ya existe en la base: `fisica-perez-montiel` (id **28**), Pérez Montiel,
+Patria, 6ª ed. 2018, **9 capítulos**. La edición citada en los 13 temarios
+coincide letra por letra: *"Héctor Pérez Montiel, Edit. Patria, 1/a. Reimp.
+2020, 6/a. Edición 2018"*.
+
+Cursos: `EMMA_F_A_I_M_A`, `EMMA_F_O_F_A_A_A`, `EMMA_F_O_F_A_A_M_A`,
+`EMMA_F_O_F_A_E_E_A`, `EMMA_I_F_O_F_A_A_A`, `EMMA_I_F_O_F_A_E_M_A`,
+`EMMG_MG_TEC_MANTO_I`, `EMMG_T_E_BALISTICA`, `EMOS_C_I_F_O_S_T_U_M`,
+`EMTEFA_F_S_2os_FAAA`, `EMTEFA_F_S_2os_FAAMA`, `EMTEFA_F_S_2os_FAEEA`,
+`EMTEFA_F_S_2os_FAEMA`.
+
+### Álgebra — sólo la mitad Baldor está lista
+
+**Son 12 cursos, no 17** (la cifra vieja del README y de la memoria era
+errónea — corregida). Y se parten en **dos libros distintos**:
+
+**8 cursos con Baldor — listos.** Libro ya en la base: `algebra-baldor`
+(id **27**), Baldor, Patria, 4ª ed. 2019, **22 capítulos**. Edición citada
+coincide: *"Dr. Aurelio Baldor, Edit. Patria, 4/a. Edición 2019"*.
+
+Cursos: `EMCS_Cso_F_S1_Snd_Es`, `EMCS_Cso_F_S2_Snd_Es`,
+`EMOS_C_I_F_O_S_T_U_M`, `EMTEFA_F_S_2os_FAAA`, `EMTEFA_F_S_2os_FAAMA`,
+`EMTEFA_F_S_2os_FAEEA`, `EMTEFA_F_S_2os_FAEMA`, `EMT_TRANS_LIC_TICS`.
+
+**4 cursos —todos de la EMMA— piden OTRO libro, que no existe en la
+plataforma:** *Álgebra, Trigonometría y Geometría Analítica*, Dennis G. Zill /
+Jacqueline M. Dewar, McGraw-Hill, 3ª ed. 2012. No está en `examenes_tropa/libros/`
+ni tiene fila en `Libro`. **Fuera de alcance de este trabajo — se avisa a
+Carlo, no se sustituye por Baldor sin que él lo decida.**
+
+Cursos EMMA sin Álgebra por ahora: `EMMA_F_A_I_M_A`, `EMMA_F_O_F_A_A_A`,
+`EMMA_F_O_F_A_A_M_A`, `EMMA_F_O_F_A_E_E_A`.
+
+## Lo que falta verificar ANTES de escribir la migración
+
+**El alcance por capítulo de cada curso NO está confirmado todavía.** A
+diferencia de Derechos Humanos y Legislación Militar (donde todos los cursos
+pedían exactamente lo mismo), aquí no se ha comprobado si los 13 de Física o
+los 8 de Álgebra-Baldor piden los mismos capítulos entre sí o cada uno los
+suyos. Un primer barrido con regex sugirió que Física varía bastante entre
+cursos, pero ese barrido usó texto corrido (poco confiable, como pasó al
+principio con Legislación Militar) — **hay que repetirlo con `find_tables()`**
+igual que se hizo aquí para confirmar los libros, curso por curso, antes de
+escribir un solo `MateriaTemarioCapitulo`.
+
+## Plan de trabajo
+
+1. **Extraer el alcance real** (capítulos/temas pedidos) de los 13 cursos de
+   Física y los 8 de Álgebra-Baldor con `find_tables()`, agrupando por
+   variantes reales — no asumir que "mismo libro" significa "mismos capítulos".
+2. **Mapear esos capítulos contra la tabla `Capitulo`** de la base (9 para
+   Pérez Montiel, 22 para Baldor) para tener los IDs exactos.
+3. **Explicarle el plan completo a Carlo — migración incluida — y esperar su
+   OK** antes de tocar `schema.prisma`. Esto no es la carpeta con permiso
+   permanente.
+4. Migración aditiva: `tipo` en `Plantel`, default `ADMISION`.
+5. Crear las **35 filas de `Plantel` tipo `TROPA`** (el catálogo completo del
+   README, aunque hoy sólo se llenen Física y Álgebra para algunos — son
+   filas de identidad baratas y evitan fragmentar el trabajo curso por curso
+   más adelante).
+6. Crear `Temario` (año 2026, estado `PUBLICADO`) para cada curso que use
+   Física General o Álgebra-Baldor.
+7. Crear `MateriaTemario` + `MateriaTemarioCapitulo` con los capítulos exactos
+   del paso 2, curso por curso.
+8. Verificar armando un examen de prueba (equivalente a como se probó el
+   cultural) para confirmar que sirve reactivos reales de Física/Álgebra al
+   curso correcto.
+9. Commitear el cambio de esquema + el script de datos — con el paso a paso
+   explicado y el OK de Carlo ya obtenido en el punto 3.
+
+**Pendiente:** todo el plan de arriba. Nada de esto se ha ejecutado — sólo el
+reconocimiento de qué libros ya existen y cuáles cursos están listos.

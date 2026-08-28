@@ -58,14 +58,25 @@ Se borró la copia y se corrigió `_cursos.json`. **35 cursos en 9 escuelas.**
 |---|---|---|
 | **Derechos Humanos** | **23 de 35** | Completo |
 | **Legislación Militar** | **19 de 35** | Completo |
-| Álgebra | 17 | Ya vaciado (Baldor) |
+| Álgebra | **12, no 17** — dos libros distintos, ver abajo | Parcial |
 | Física General | 13 | Ya vaciado (Pérez Montiel) |
 | Táctica | 6 | Completo (5 manuales) |
 | El resto | 5 o menos | — |
 
+> **Corrección (28 ago):** la cifra de 17 cursos para Álgebra era errónea — el
+> conteo real, verificado por libro citado, es 12. Y no es un solo libro:
+> **8 usan Baldor** (ya en la base) y **4 —los de la EMMA— piden Dennis G.
+> Zill / Jacqueline M. Dewar, *Álgebra, Trigonometría y Geometría Analítica*,
+> McGraw-Hill 3ª ed. 2012**, que no está ni en la base ni en los PDF subidos.
+> Detalle completo en `docs/examen-tropa/enlace-fisica-algebra.md`.
+>
 > **Ojo al vaciar:** los temarios escriben la misma materia de dos formas —
 > «Física General» (13 cursos) y «Física» (1). Antes de crear un tema nuevo hay
 > que comprobar si ya existe con otro nombre, o el reparto saldrá partido.
+>
+> **La tabla de cursos más abajo (líneas ~130+) es de una pasada más floja y
+> puede no coincidir con los libros verificados aquí** — pendiente de una
+> limpieza aparte, no bloquea este trabajo.
 
 **Derechos Humanos y Legislación Militar sirven a dos tercios del catálogo con
 material que ya está completo.** Es el mejor retorno por hora de trabajo del
