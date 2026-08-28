@@ -194,6 +194,7 @@ dejar la selección por subtema para después.
   esquema.
 - Conseguir o decidir sobre el libro de Zill/Dewar para los 4 cursos EMMA de
   Álgebra (fuera de alcance de este cierre).
-- Enlazar Legislación Militar y Derechos Humanos (ya CERRADOS como banco,
-  nunca enlazados a `Temario`) para que estos cursos lleguen a un examen
-  completo de 100 reactivos.
+- ~~Enlazar Legislación Militar y Derechos Humanos~~ — **hecho el 28 ago 2026**,
+  ver `docs/examen-tropa/importador-tropa.md` (Fase 2). 19 cursos con
+  Legislación Militar y 23 con Derechos Humanos ya sirven reactivos reales,
+  verificado con consulta directa y armando examen de prueba.

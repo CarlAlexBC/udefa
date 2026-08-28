@@ -119,5 +119,20 @@ en producción.
 
 ## Pendiente
 
-**Todo.** No se ha escrito una línea del importador. Empezar por
-`apps/backend/scripts/importar-tropa.ts`, en modo prueba.
+ninguno. **Las dos fases de este documento están CERRADAS y en producción**
+(28 ago 2026):
+
+- **Fase 1** — `apps/backend/scripts/importar-tropa.ts` corrido con
+  `--escribir`. 479 reactivos con `banco='tropa'`, verificado con `groupBy`
+  por banco.
+- **Fase 2** — `apps/backend/scripts/seed-temarios-tropa.ts` extendido:
+  Legislación Militar enlazada en 19 cursos, Derechos Humanos en 23 (sin
+  variante entre cursos, alcance completo). Verificado armando examen de
+  prueba: los tres bloques sirven reactivos reales muy por encima de la cuota.
+- Se encontró y corrigió un hallazgo no previsto: el código que arma examen,
+  práctica, avance, admin y "Entiende el tema" filtraba a mano
+  `banco = 'cultural'` en ~13 lugares — sin tocarlo, Legislación Militar y
+  Derechos Humanos se habrían servido vacíos aunque el enlace estuviera bien
+  hecho. Se agregó `src/common/bancos-libro.ts` (`BANCOS_LIBRO`) y se amplió
+  cada filtro a `banco IN ('cultural','tropa')`. Aditivo, no toca el examen de
+  personalidad ni el camino JSON viejo del cultural.
