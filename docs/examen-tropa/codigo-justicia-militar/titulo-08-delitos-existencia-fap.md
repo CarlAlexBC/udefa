@@ -60,11 +60,13 @@ fracción**, no la página por sí sola.
 
 ## Cobertura actual
 
-**Capítulos I a III** (Falsificación; Fraude, malversación y retención de
+**Capítulos I a IV Bis** (Falsificación; Fraude, malversación y retención de
 haberes; Extravío, enajenación, robo y destrucción de lo perteneciente a la
-Fuerza Armada Permanente), Arts. 228–254, hojas 58–63.
+Fuerza Armada Permanente; Deserción e insumisión; Traición a las Fuerzas
+Armadas Mexicanas), Arts. 228–275 Ter, hojas 58–70.
 
-**Pendiente:** Capítulo IV (Deserción e insumisión), Art. 255, hoja 64.
+**Pendiente:** Capítulo V (Inutilización voluntaria para el servicio), Art.
+276, hoja 71.
 
 ---
 
@@ -539,4 +541,631 @@ Fuerza Armada Permanente.
 
 ---
 
-**Reactivos en este archivo (hasta ahora):** 25
+## Sub-lote 4 · Capítulo IV — Deserción e insumisión (Art. 255–275, hojas 64–69)
+
+### 26
+
+Según el Código de Justicia Militar, ¿en qué caso se entiende realizada la
+deserción del personal de tropa que no estuviere en servicio, conforme a la
+fracción I del artículo 255?
+
+- A. Cuando faltaren sin motivo legítimo a la revista de administración y no se presenten a justificar, dentro de las veinticuatro horas siguientes
+- B. Cuando faltare sin impedimento justificado por tres días consecutivos a las listas de diana y retreta
+- C. Cuando se separen sin permiso del superior, una noche del campamento o guarnición en que se hallen
+- D. Cuando, tratándose de marineros, se quedaren en tierra a la salida del buque a que pertenezcan
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 255, fracción I, Pág. 63
+**Subtema:** deserción · personal de tropa
+
+Cuando faltaren sin motivo legítimo a la revista de administración y no se
+presenten a justificar, dentro de las veinticuatro horas siguientes.
+
+### 27
+
+De acuerdo con el Código de Justicia Militar, ¿qué señala la fracción II del
+artículo 255 sobre la deserción del personal de tropa?
+
+- A. Que se entiende realizada cuando faltare sin impedimento justificado por tres días consecutivos a las listas de diana y retreta de las fuerzas a que pertenezcan o a las dependencias de que formen parte
+- B. Que se entiende realizada cuando faltaren a la revista de administración
+- C. Que se entiende realizada cuando se separen una noche del campamento sin permiso del superior
+- D. Que se entiende realizada cuando se queden en tierra a la salida del buque
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 255, fracción II, Pág. 63
+**Subtema:** deserción · personal de tropa
+
+Cuando faltare sin impedimento justificado por tres días consecutivos a las
+listas de diana y retreta de las fuerzas a que pertenezcan o a las
+dependencias de que formen parte.
+
+### 28
+
+Según el Código de Justicia Militar, ¿en qué caso se entiende realizada la
+deserción de los marineros conforme a la fracción III del artículo 255?
+
+- A. Cuando se quedaren en tierra a la salida del buque a que pertenezcan, teniendo oportuno conocimiento de ella, o faltaren por tres días consecutivos a bordo del barco
+- B. Cuando faltaren a la revista de administración sin justificar dentro de veinticuatro horas
+- C. Cuando se separen sin permiso del superior a más de veinte kilómetros del campamento
+- D. Cuando falten tres días consecutivos a las listas de diana y retreta
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 255, fracción III, Pág. 63
+**Subtema:** deserción · marineros
+
+Cuando tratándose de marineros, se quedaren en tierra a la salida del buque
+a que pertenezcan, siempre que tuvieren oportuno conocimiento de ella, o
+faltaren por tres días consecutivos a bordo del barco.
+
+### 29
+
+De acuerdo con el Código de Justicia Militar, ¿a qué distancia debe separarse
+en tiempo de paz el personal de tropa del campamento, la guarnición o el
+puerto para que se configure la deserción prevista en la fracción IV del
+artículo 255?
+
+- A. A más de veinte kilómetros del campamento, cuarenta de la guarnición, o quince del puerto en donde esté el barco a que pertenezcan
+- B. A más de cuarenta kilómetros del campamento, ochenta de la guarnición, o treinta del puerto
+- C. A cualquier distancia, sin importar si es tiempo de paz o campaña
+- D. A más de diez kilómetros del campamento, veinte de la guarnición, o cinco del puerto
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 255, fracción IV, Pág. 63
+**Subtema:** deserción · personal de tropa
+
+Se separen en tiempo de paz, a más de veinte kilómetros de distancia del
+campamento, cuarenta de la guarnición, o quince del puerto en donde esté el
+barco a que pertenezcan; y en campaña, a cualquiera distancia de la plaza,
+buque o punto militar.
+
+### 30
+
+Según el Código de Justicia Militar, ¿qué defensas contempla el artículo 259
+para el personal de soldados que hubiere desertado en los casos del artículo
+256?
+
+- A. Que no les fueron leídas al sentar plaza, y una vez al mes lo menos, las disposiciones penales relativas a la deserción, o que no se les asistió en el pre, rancho, ración o vestuario correspondiente
+- B. Que se encontraban de licencia temporal al momento de desertar
+- C. Que el superior que los mandaba había fallecido
+- D. Que desconocían la ubicación del cuartel al que debían presentarse
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 259, Pág. 65
+**Subtema:** deserción · defensas del personal de soldados
+
+Justifiquen para su defensa, que no les fueron leídas cuando sentaron plaza,
+y una vez al mes lo menos, las disposiciones penales relativas a la
+deserción, o que cometieron el delito por no habérseles asistido en el pre,
+rancho, ración o vestuario correspondiente.
+
+### 31
+
+De acuerdo con el Código de Justicia Militar, ¿en qué circunstancia se
+comete la deserción del personal de tropa prevista en el artículo 260?
+
+- A. Cuando en tiempo de paz efectúa su separación ilegal del servicio estando desempeñando actos propios de ese mismo servicio, distintos de los especificados en el artículo siguiente
+- B. Cuando se separa del campamento a más de veinte kilómetros en tiempo de paz
+- C. Cuando falta a la revista de administración
+- D. Cuando el marinero se queda en tierra a la salida del buque
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 260, Pág. 65
+**Subtema:** deserción · personal de tropa
+
+El personal de tropa que en tiempo de paz deserte efectuando su separación
+ilegal del servicio y cuando esté desempeñando actos propios de ese mismo
+servicio y distintos de los especificados en el artículo siguiente.
+
+### 32
+
+Según el Código de Justicia Militar, ¿cuál de las siguientes es una de las
+circunstancias que agrava la deserción del personal de tropa conforme al
+artículo 261?
+
+- A. Desertar de la escolta de prisioneros, detenidos o presos, o de cualquiera otra no especificada en el artículo
+- B. Desertar a más de cuarenta kilómetros de la guarnición
+- C. Desertar por no habérsele leído la ley de deserción al sentar plaza
+- D. Desertar por falta de asistencia de pre o rancho
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 261, fracción I, Pág. 65
+**Subtema:** deserción · circunstancias agravantes
+
+El que deserte de la escolta de prisioneros, detenidos o presos o de
+cualquiera otra no especificada en este artículo.
+
+### 33
+
+De acuerdo con el Código de Justicia Militar, ¿qué circunstancia describe la
+fracción IV del artículo 261 sobre la deserción del personal de tropa?
+
+- A. El que deserte estando de centinela
+- B. El que deserte de la escolta de municiones
+- C. El que deserte llevándose el fusil o la carabina
+- D. El que deserte escalando u horadando los muros del cuartel
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 261, fracción IV, Pág. 65
+**Subtema:** deserción · circunstancias agravantes
+
+El que deserte estando de centinela.
+
+### 34
+
+Según el Código de Justicia Militar, ¿qué circunstancia agrava la deserción
+conforme a la fracción VI del artículo 261?
+
+- A. Desertar estando en una fortaleza o plaza fuerte
+- B. Desertar llevándose el caballo o la montura
+- C. Desertar estando de guardia
+- D. Desertar escalando los muros del cuartel
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 261, fracción VI, Pág. 65
+**Subtema:** deserción · circunstancias agravantes
+
+El que deserte estando en una fortaleza o plaza fuerte.
+
+### 35
+
+Según el Código de Justicia Militar, cuando al personal de sargentos y cabos
+se le impone pena de prisión por haber sido aprehendidos tras desertar en
+los casos de los artículos 256 o 257, ¿qué otra consecuencia establece el
+artículo 258?
+
+- A. Serán destituidos de sus respectivos empleos
+- B. Quedan exentos de toda sanción adicional
+- C. Ascienden automáticamente al grado inmediato inferior
+- D. Se les permite conservar su empleo si se disculpan ante el superior
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 258, Pág. 65
+**Subtema:** deserción · destitución de sargentos y cabos
+
+Al personal de sargentos y cabos a quienes en virtud de lo dispuesto en los
+dos artículos que anteceden hubiere que imponer la pena de prisión por haber
+sido aprehendidos, serán destituidos de sus respectivos empleos.
+
+### 36
+
+Según el Código de Justicia Militar, ¿qué circunstancia especial contempla el
+artículo 263 para el personal de soldados que desertare de guardia, de
+centinela o de una escolta?
+
+- A. Que se le sanciona con el mínimo de la pena que sin esa circunstancia se le hubiere debido aplicar, si no había cumplido cuatro meses de instrucción desde que sentó plaza
+- B. Que queda exento de responsabilidad si es su primera falta
+- C. Que sólo se le aplica sanción administrativa
+- D. Que se duplica la pena sin excepción
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 263, Pág. 66
+**Subtema:** deserción · reclutas con menos de cuatro meses de instrucción
+
+Si hubiere sido nombrado para alguno de esos servicios antes de haber
+cumplido cuatro meses de instrucción contados desde el día en que haya
+sentado plaza en su corporación, será sancionado con el mínimo de la pena
+señalada en la disposición legal que, sin esa circunstancia, se le hubiere
+debido aplicar.
+
+### 37
+
+De acuerdo con el Código de Justicia Militar, ¿qué agrava la deserción con
+salida de la República cometida en tiempo de paz, conforme a la fracción III
+del artículo 265?
+
+- A. Que el que la perpetrare se lleve el caballo, mula o montura, o el fusil, carabina, pistola o sable, o bote u otro objeto destinado al servicio de la Armada
+- B. Que la deserción dure más de tres días
+- C. Que el desertor sea sargento o cabo
+- D. Que la deserción ocurra durante una revista de administración
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 265, fracción III, Pág. 66
+**Subtema:** deserción · salida de la República
+
+Si fuere cometido en tiempo de paz, pero llevándose el que lo perpetrare, el
+caballo, mula o montura, o el fusil, carabina, pistola o sable, o bote u
+otro objeto destinado al servicio de la Armada.
+
+### 38
+
+Según el Código de Justicia Militar, ¿cómo clasifica el artículo 266 al
+personal de clases o marinería que, durante las faenas consecuencia de un
+naufragio o suceso peligroso para la embarcación, se ausenta dos días sin
+permiso del superior?
+
+- A. Como desertor en campaña, aun cuando el hecho tuviere lugar en tiempo de paz; y si el delito se cometiere en campaña, como desertor frente al enemigo
+- B. Como insumiso, sin importar las circunstancias
+- C. Como abandono de servicio, no como deserción
+- D. Sólo se le sanciona administrativamente, nunca como desertor
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 266, Pág. 67
+**Subtema:** deserción · naufragio o suceso peligroso
+
+Será sancionado como desertor en campaña aun cuando el hecho tuviere lugar
+en tiempo de paz. Si el delito se cometiere en campaña, será considerado
+como desertor frente al enemigo.
+
+### 39
+
+De acuerdo con el Código de Justicia Militar, ¿qué describe la fracción IV
+del artículo 267 sobre la deserción de oficiales en tiempo de paz?
+
+- A. El que sin estar desempeñando servicio de armas desertare al extranjero; si estuviere desempeñando ese servicio, o si fuere el comandante de un punto, fuerza o buque, la responsabilidad se agrava
+- B. El que deserte de la escolta de prisioneros
+- C. El que deserte estando de guardia o de la escolta de municiones
+- D. El que deserte desempeñando una comisión distinta de las especificadas en las demás fracciones
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 267, fracción IV, Pág. 67
+**Subtema:** deserción · oficiales
+
+El que sin estar desempeñando servicio de armas desertare al extranjero; si
+estuviere desempeñando ese servicio; y si fuere el comandante de un punto,
+fuerza o buque.
+
+### 40
+
+Según el Código de Justicia Militar, ¿qué comete el oficial que, con
+pretexto de enfermedad u otro motivo ilegítimo, se queda en las poblaciones
+sin el correspondiente permiso, cuando marchan las fuerzas a que pertenece,
+conforme a la fracción I del artículo 269?
+
+- A. Es considerado también como desertor
+- B. Comete abandono de puesto, no deserción
+- C. Sólo incurre en falta administrativa
+- D. Comete insubordinación
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 269, fracción I, Pág. 67
+**Subtema:** deserción · oficiales considerados desertores
+
+Que con pretexto de enfermedad u otro motivo ilegítimo se queden en las
+poblaciones, sin el correspondiente permiso, cuando marchen las fuerzas a
+que pertenezcan.
+
+### 41
+
+De acuerdo con el Código de Justicia Militar, ¿qué señala la fracción III
+del artículo 269 sobre los oficiales considerados desertores?
+
+- A. Que sin justa causa se desvíen del derrotero que se les hubiere señalado como indispensable en su pasaporte
+- B. Que se separen una noche del campamento sin permiso del superior
+- C. Que falten tres días consecutivos al servicio
+- D. Que no lleguen a su destino con la debida oportunidad
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 269, fracción III, Pág. 67
+**Subtema:** deserción · oficiales considerados desertores
+
+Que sin justa causa se desvíen del derrotero que se les hubiere señalado
+como indispensable en su pasaporte.
+
+### 42
+
+Según el Código de Justicia Militar, ¿a qué distancia debe separarse el
+oficial de su campamento o guarnición en tiempo de paz, sin licencia del
+superior, para ser considerado desertor conforme a la fracción V del
+artículo 269?
+
+- A. A más de cuarenta kilómetros de su campamento, a más de ochenta de su guarnición, o a más de treinta del puerto donde esté el barco a que pertenece
+- B. A más de veinte kilómetros de su campamento, cuarenta de la guarnición, o quince del puerto
+- C. A cualquier distancia, sin importar el tiempo de paz o campaña
+- D. A más de cien kilómetros de su campamento
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 269, fracción V, Pág. 67
+**Subtema:** deserción · oficiales considerados desertores
+
+Que se separen a más de cuarenta kilómetros de distancia de su campamento o
+a más de ochenta de su guarnición, o a más de treinta del puerto donde esté
+el barco a que pertenezcan, en tiempo de paz, y a cualquiera distancia de la
+plaza, buque o punto militar, en campaña, sin licencia del superior.
+
+### 43
+
+De acuerdo con el Código de Justicia Militar, ¿qué señala la fracción IX del
+artículo 269 sobre los oficiales con licencia temporal?
+
+- A. Que se les considera desertores si dejan de presentarse cuando hubieren sido llamados antes de que fenezca el plazo de su licencia, o sin causa justificada, cuando haya expirado dicho plazo
+- B. Que sólo se les sanciona si la licencia dura más de dos meses
+- C. Que no pueden ser sancionados mientras la licencia esté vigente
+- D. Que se les considera insumisos, no desertores
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 269, fracción IX, Pág. 68
+**Subtema:** deserción · oficiales con licencia temporal
+
+Que disfrutando de licencia temporal dejen de presentarse cuando hubieren
+sido llamados antes de que fenezca el plazo por el que les hubiere sido
+concedida, o sin causa justificada, cuando haya expirado dicho plazo.
+
+### 44
+
+Según el Código de Justicia Militar, ¿en qué momento se entiende cometida la
+deserción en actos del servicio o en campaña, conforme al artículo 273,
+cuando no se hubiere empleado un medio violento?
+
+- A. Por el transcurso de veinticuatro horas, sin que la persona de que se trate se presente a su inmediato superior o a la fuerza a que pertenezca
+- B. Por el transcurso de tres días sin presentarse
+- C. Únicamente cuando el militar cruza la frontera
+- D. Sólo cuando lo declara un consejo de guerra
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 273, Pág. 68
+**Subtema:** deserción · momento de consumación
+
+En defecto de lo anterior o de cualquiera otro hecho que demuestre la
+separación ilegal del servicio militar, por el transcurso de veinticuatro
+horas, sin que la persona de que se trate se presente a su inmediato
+superior o a la fuerza a que pertenezca.
+
+### 45
+
+De acuerdo con el Código de Justicia Militar, ¿cuándo se entiende cometida
+la deserción frente al enemigo, conforme al artículo 273?
+
+- A. En el acto de separarse un militar, indebidamente, de las filas, o un marino, del buque o fuerza a que pertenezca
+- B. Sólo cuando el militar es capturado por el enemigo
+- C. Únicamente si el militar entrega información al enemigo
+- D. Sólo si el militar huye durante un combate activo
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 273, Pág. 68
+**Subtema:** deserción · frente al enemigo
+
+La deserción frente al enemigo se entenderá cometida en el acto de
+separarse un militar, indebidamente, de las filas, o un marino, del buque o
+fuerza a que pertenezca.
+
+### 46
+
+Según el Código de Justicia Militar, ¿a partir de cuántas personas militares
+reunidas que cometieren simultáneamente alguno de los delitos de deserción
+aplican las reglas especiales del artículo 274?
+
+- A. Tres o más
+- B. Cinco o más
+- C. Diez o más
+- D. Dos o más
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 274, Pág. 68
+**Subtema:** deserción · pluralidad de infractores
+
+Siempre que tres o más personas militares reunidas cometieren
+simultáneamente alguno de los delitos consignados en este capítulo.
+
+### 47
+
+De acuerdo con el Código de Justicia Militar, ¿qué señala el artículo 275
+sobre quienes se hubieren dispersado del cuerpo de tropas o buque a que
+pertenezcan por causa legítima?
+
+- A. Que serán sancionados como desertores, según las circunstancias de su separación, si no se presentan tan pronto les sea posible a su cuerpo, a otras fuerzas o buques nacionales, o a la autoridad militar, marítima o consular más próxima
+- B. Que quedan exentos de toda responsabilidad
+- C. Que sólo se sancionan si la dispersión dura más de un mes
+- D. Que se les considera insumisos
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 275, Pág. 68
+**Subtema:** deserción · dispersión por causa legítima
+
+Los que por causa legítima se hubieren dispersado del cuerpo de tropas o
+buque a que pertenezcan, serán sancionados como desertores, según las
+circunstancias que hayan intervenido en su separación, si tan luego como
+les fuera posible, no se presentaren a su mismo cuerpo de tropas o buque o a
+otras fuerzas o buques de guerra nacionales o a la autoridad militar,
+marítima o consular más próxima.
+
+### 48
+
+Según el Código de Justicia Militar, ¿a quiénes más se aplican las mismas
+reglas de dispersión por causa legítima previstas en el artículo 275?
+
+- A. A las personas militares que habiendo caído prisioneras de guerra, no se presenten oportunamente a quien corresponda después de recobrar su libertad
+- B. A los reclutas con menos de cuatro meses de instrucción
+- C. A los oficiales con licencia ilimitada
+- D. A los sargentos y cabos aprehendidos
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 275, Pág. 68
+**Subtema:** deserción · prisioneros de guerra
+
+Las mismas reglas se observarán respecto de las personas militares que
+habiendo caído prisioneros de guerra, no se presenten oportunamente a quien
+corresponda después de recobrar su libertad.
+
+### 49
+
+De acuerdo con el Código de Justicia Militar, ¿qué conducta se sanciona
+respecto al miembro de las reservas de la Fuerza Armada Permanente, según el
+artículo 275?
+
+- A. No presentarse, sin impedimento justificado, al lugar que se le designe en el llamamiento, dentro del plazo correspondiente
+- B. No inscribirse en el registro de reservas
+- C. No portar su cartilla militar
+- D. No informar su cambio de domicilio
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 275, Pág. 68
+**Subtema:** deserción · reservas de la Fuerza Armada Permanente
+
+Al miembro de las reservas de la Fuerza Armada Permanente, que, sin
+impedimento justificado, no se presente al lugar que se le designe en el
+llamamiento, dentro del plazo correspondiente.
+
+### 50
+
+Según el Código de Justicia Militar, ¿qué comete el conscripto que, por
+virtud del sorteo, le corresponda prestar servicio activo, y no se presente
+a la autoridad respectiva dentro del plazo señalado, conforme al artículo
+275?
+
+- A. El delito de insumisión
+- B. El delito de deserción
+- C. El delito de abandono de servicio
+- D. El delito de desobediencia
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 275, Pág. 68
+**Subtema:** insumisión · definición
+
+Comete el delito de insumisión el conscripto que por virtud del sorteo le
+corresponda prestar servicio activo, no se presente a la autoridad
+respectiva dentro del plazo señalado para ser encuadrado en las unidades de
+la Fuerza Armada Permanente.
+
+---
+
+## Sub-lote 5 · Capítulo IV Bis — Traición a las Fuerzas Armadas Mexicanas (Art. 275 Bis–275 Ter, hojas 69–70)
+
+### 51
+
+De acuerdo con el Código de Justicia Militar, ¿qué comete la persona militar
+que se incorpore a la delincuencia organizada, conforme al artículo 275 Bis?
+
+- A. El delito de traición a las Fuerzas Armadas Mexicanas
+- B. El delito de deserción
+- C. El delito de abuso de autoridad
+- D. El delito de insubordinación
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 275 Bis, Pág. 69
+**Subtema:** traición · incorporación a la delincuencia organizada
+
+A la persona militar que se incorpore a la delincuencia organizada.
+
+### 52
+
+Según el Código de Justicia Militar, ¿qué conducta describe la fracción I
+del artículo 275 Ter?
+
+- A. Utilizar la fuerza, embarcación, aeronave, o cualquier otro bien o recurso humano que tenga bajo su cargo o mando a favor de cualquier miembro de la delincuencia organizada o asociación delictuosa
+- B. Proporcionar protección o facilidades en la plaza confiada a su cargo
+- C. Inducir al personal bajo su mando a prestar servicio a la delincuencia organizada
+- D. Proporcionar información a la que tenga acceso por su cargo
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 275 Ter, fracción I, Pág. 69
+**Subtema:** traición · uso de recursos a favor de la delincuencia organizada
+
+Utilice la fuerza, embarcación, aeronave, o cualquier otro bien o recurso
+humano que tenga bajo su cargo o mando a favor de cualquier miembro de la
+delincuencia organizada o asociación delictuosa.
+
+### 53
+
+De acuerdo con el Código de Justicia Militar, ¿qué conducta describe la
+fracción II del artículo 275 Ter?
+
+- A. Proporcionar a cualquier miembro de la delincuencia organizada o asociación delictuosa, protección o facilidades en la plaza o puesto confiado a su cargo, así como adiestramiento, capacitación o conocimientos militares
+- B. Utilizar la fuerza o recursos bajo su mando a favor de la delincuencia organizada
+- C. Inducir al personal bajo su mando a prestar servicio a la delincuencia organizada
+- D. Obstaculizar las acciones de las fuerzas armadas contra la delincuencia organizada
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 275 Ter, fracción II, Pág. 69
+**Subtema:** traición · protección a la delincuencia organizada
+
+Proporcione a cualquier miembro de la delincuencia organizada o asociación
+delictuosa, protección o facilidades en la plaza o puesto confiado a su
+cargo; así como adiestramiento, capacitación o conocimientos militares.
+
+### 54
+
+Según el Código de Justicia Militar, ¿qué conducta describe la fracción IV
+del artículo 275 Ter?
+
+- A. Proporcionar a cualquier miembro de la delincuencia organizada o asociación delictuosa, información a la que tenga acceso con motivo del ejercicio de su cargo o comisión
+- B. Inducir al personal bajo su mando a prestar servicio a la delincuencia organizada
+- C. Incumplir sus obligaciones respecto de las tropas a su cargo para actuar contra la delincuencia organizada
+- D. No ejecutar una orden del servicio para favorecer a la delincuencia organizada
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 275 Ter, fracción IV, Pág. 69
+**Subtema:** traición · filtración de información
+
+Proporcione a cualquier miembro de la delincuencia organizada o asociación
+delictuosa, información a la que tenga acceso con motivo del ejercicio de su
+cargo o comisión.
+
+### 55
+
+De acuerdo con el Código de Justicia Militar, ¿qué conducta describe la
+fracción VIII del artículo 275 Ter?
+
+- A. Falsificar o alterar un documento o instrumento con información sobre las operaciones de las Fuerzas Armadas contra la delincuencia organizada, o usar a sabiendas un documento falsificado o alterado de ese tipo
+- B. Conducir o guiar las actividades de cualquier miembro de la delincuencia organizada
+- C. Poner en libertad a un miembro de la delincuencia organizada o facilitar su fuga
+- D. Proporcionar información diferente a la que conozca a sus superiores
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 275 Ter, fracción VIII, Pág. 69
+**Subtema:** traición · falsificación de documentos operativos
+
+Falsifique o altere un documento o instrumento que contenga información
+relativa a las operaciones de las Fuerzas Armadas o autoridad competente en
+contra de cualquier miembro de la delincuencia organizada o asociación
+delictuosa, o a sabiendas de que se trata de documentos o instrumentos
+falsificados o alterados, haga uso de ellos.
+
+### 56
+
+Según el Código de Justicia Militar, ¿qué conducta describe la fracción XI
+del artículo 275 Ter?
+
+- A. Poner en libertad a cualquier miembro de la delincuencia organizada o asociación delictuosa, o proteger o facilitar su fuga
+- B. Conducir o guiar las actividades de la delincuencia organizada
+- C. Obstaculizar las acciones de las fuerzas armadas en contra de la delincuencia organizada
+- D. Reclutar personal militar para la delincuencia organizada
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 275 Ter, fracción XI, Pág. 70
+**Subtema:** traición · liberación o fuga de miembros de la delincuencia organizada
+
+Ponga en libertad a cualquier miembro de la delincuencia organizada o
+asociación delictuosa, o proteja o facilite su fuga.
+
+### 57
+
+De acuerdo con el Código de Justicia Militar, ¿a qué instituciones se
+refiere el artículo 275 Ter cuando menciona a las "Fuerzas Armadas
+Mexicanas"?
+
+- A. Al Ejército, la Armada, la Fuerza Aérea y la Guardia Nacional
+- B. Únicamente al Ejército y la Fuerza Aérea
+- C. Al Ejército, la Armada y la Policía Federal
+- D. A todas las corporaciones de seguridad pública del país
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 275 Ter, Pág. 70
+**Subtema:** traición · definición de Fuerzas Armadas Mexicanas
+
+Para los efectos de este capítulo, se entenderá por Fuerzas Armadas
+Mexicanas, a las instituciones armadas de la Unión, a saber: Ejército,
+Armada, Fuerza Aérea y Guardia Nacional.
+
+### 58
+
+Según el Código de Justicia Militar, ¿en qué artículos de otras leyes se
+apoya el artículo 275 Ter para definir "delincuencia organizada" y
+"asociación delictuosa"?
+
+- A. En el artículo 2o. de la Ley Federal contra la Delincuencia Organizada, y en el artículo 164 del Código Penal Federal
+- B. En el artículo 1o. de la Ley Nacional sobre el Uso de la Fuerza
+- C. En el artículo 7 de la Ley de Seguridad Nacional
+- D. En el artículo 123 constitucional
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 275 Ter, Pág. 70
+**Subtema:** traición · remisión a otras leyes
+
+Para los efectos de este capítulo se entenderá por delincuencia organizada
+la prevista en el artículo 2o. de la Ley Federal contra la Delincuencia
+Organizada y por asociación delictuosa, la prevista en el artículo 164 del
+Código Penal Federal.
+
+---
+
+**Reactivos en este archivo (hasta ahora):** 58
