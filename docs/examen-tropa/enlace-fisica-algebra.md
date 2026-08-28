@@ -87,11 +87,14 @@ Cursos: `EMCS_Cso_F_S1_Snd_Es`, `EMCS_Cso_F_S2_Snd_Es`,
 `EMOS_C_I_F_O_S_T_U_M`, `EMTEFA_F_S_2os_FAAA`, `EMTEFA_F_S_2os_FAAMA`,
 `EMTEFA_F_S_2os_FAEEA`, `EMTEFA_F_S_2os_FAEMA`, `EMT_TRANS_LIC_TICS`.
 
-**4 cursos —todos de la EMMA— piden OTRO libro, que no existe en la
-plataforma:** *Álgebra, Trigonometría y Geometría Analítica*, Dennis G. Zill /
-Jacqueline M. Dewar, McGraw-Hill, 3ª ed. 2012. No está en `examenes_tropa/libros/`
-ni tiene fila en `Libro`. **Fuera de alcance de este trabajo — se avisa a
-Carlo, no se sustituye por Baldor sin que él lo decida.**
+**4 cursos —todos de la EMMA— piden OTRO libro:** *Álgebra, Trigonometría y
+Geometría Analítica*, Dennis G. Zill / Jacqueline M. Dewar, McGraw-Hill, 3ª
+ed. 2012. Se marcó "fuera de alcance" en este cierre porque el PDF no
+aparecía en la plataforma — **corregido el 28 ago 2026**: Carlo lo tiene en
+`examenes_tropa/libros/academicos/algebra-trigonometria-zill.pdf`, edición
+verificada contra la página legal, alcance de temario mapeado. Ver
+`docs/examen-tropa/algebra-trigonometria-zill.md`. Todavía no tiene banco
+escrito (es trabajo de contenido, ~318 hojas) ni fila en `Libro`.
 
 Cursos EMMA sin Álgebra por ahora: `EMMA_F_A_I_M_A`, `EMMA_F_O_F_A_A_A`,
 `EMMA_F_O_F_A_A_M_A`, `EMMA_F_O_F_A_E_E_A`.
