@@ -151,10 +151,11 @@ copia propia.
    la misma revisión que se hizo entre la Ley del Uso de la Fuerza y el
    Capítulo IX de Derechos Humanos.
 
-**Pendiente:** Reglamento General de Deberes Militares, Título I (Deberes
-Comunes a Todos los Militares), hoja 2. **La Ley de Disciplina del Ejército,
-Fuerza Aérea y Guardia Nacional está CERRADA por completo** (Art. 1–43, sin
-transitorios, 78 reactivos) — ver
-`docs/examen-tropa/ley-disciplina/completa.md`. La Ley Orgánica del Ejército
-y la Ley de Disciplina siguen CERRADAS (31 y 78 reactivos). El Código de
-Justicia Militar sigue CERRADO (97 reactivos).
+**Pendiente:** ninguno. **Las cuatro fuentes de Legislación Militar
+(`LM-02-2026`) están CERRADAS por completo**: Código de Justicia Militar
+(97 reactivos), Ley Orgánica del Ejército y Fuerza Aérea Mexicanos (31
+reactivos), Ley de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional
+(78 reactivos) y Reglamento General de Deberes Militares (83 reactivos:
+Título I completo, 65, y Título II Cap. I, 18) — ver
+`docs/examen-tropa/reglamento-deberes-militares/`. **Total de la materia:
+289 reactivos.**
