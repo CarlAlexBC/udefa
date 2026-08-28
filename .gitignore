@@ -50,3 +50,8 @@ LICENCIATURAS_Y_TECNICO_SUP._UNIV._*.pdf
 # Son intermedios de trabajo: se regeneran del PDF cuando se necesiten.
 docs/examen-cultural/hoja_*.png
 docs/examen-cultural/crop_*.png
+
+# Libros y temarios del examen de tropa: 155 MB de PDF. Son material de
+# trabajo, no del proyecto — igual que los escaneos del banco cultural. Lo que
+# SI entra a git es lo que salga de ellos: docs/examen-tropa/
+examenes_tropa/

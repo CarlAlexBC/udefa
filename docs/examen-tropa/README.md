@@ -1,0 +1,101 @@
+# Examen de tropa — cómo se trabaja este bloque
+
+Producto **nuevo y separado** del examen de admisión a la UDEFA. Aquí van los
+cursos de ascenso y formación para personal de tropa: Formación de Sargentos
+1/os. y 2/os., Cursos de Formación de Oficiales (CIFO) y cursos técnicos.
+
+Arrancado el 27 de agosto de 2026.
+
+## Antes de escribir un solo reactivo
+
+Aplican las MISMAS reglas del banco cultural. Lee
+**[../examen-cultural/QUE-NO-ESCRIBIR.md](../examen-cultural/QUE-NO-ESCRIBIR.md)**:
+nada de pedir figuras que no se ven, nada de nombrar el capítulo, nada de
+adorno del libro, nada fuera del temario. Calidad antes que cantidad.
+
+## Estructura del examen
+
+**100 reactivos en 2 horas** — idéntica al examen cultural de la UDEFA
+(confirmado por Carlo). Eso significa que el simulador, el panel de resultados
+y el repaso espaciado se reaprovechan tal cual: no hay que construir motor.
+
+## Dónde están los libros
+
+En `examenes_tropa/libros/`, **fuera de git** (155 MB, en `.gitignore`), igual
+que los escaneos del banco cultural:
+
+| Carpeta | Qué hay |
+|---|---|
+| `normativa/` | Las 6 leyes y reglamentos + el Manual de Derechos Humanos |
+| `manuales-emdn/` | Los 11 manuales del Estado Mayor |
+| `academicos/` | Reyes Ponce, Fuenlabrada, Boylestad, Zill |
+
+Y varios libros **ya vaciados en el banco cultural** se reaprovectan sin tocar
+nada: Pérez Montiel (Física), Baldor (Álgebra), Chang (Química), Curtis
+(Biología), Baena (Metodología), Salazar (Cálculo), Zarzar (Español).
+
+## Lo único que falta
+
+**Manual de Aspectos Técnicos del Servicio de Transmisiones** — el de
+*Electricidad, Electrónica y Señales*, Edit. E.M.C.D.N. 2025. Lo pide el curso
+`EMT_F_O_TRANS`. Es el único de los doce que no se ha conseguido.
+
+## Por dónde empezar, y por qué
+
+| Materia | Cursos que la piden | Material |
+|---|---|---|
+| **Derechos Humanos** | **24 de 36** | Completo |
+| **Legislación Militar** | **20 de 36** | Completo |
+| Álgebra | 17 | Ya vaciado (Baldor) |
+| Física General | 14 | Ya vaciado (Pérez Montiel) |
+| Táctica | 6 | Completo (5 manuales) |
+| El resto | 5 o menos | — |
+
+**Derechos Humanos y Legislación Militar sirven a dos tercios del catálogo con
+material que ya está completo.** Es el mejor retorno por hora de trabajo del
+proyecto entero, y no depende de conseguir nada.
+
+Ojo con el tamaño: son ~3,800 páginas de manuales militares además de los
+libros académicos. Más material del que salió todo el banco cultural. El plan
+tiene que ir por partes.
+
+## Los 36 cursos
+
+| Escuela | Curso | Materias |
+|---|---|---|
+| Escuela Militar de Clases de Sanidad | `EMCS_Cso_F_S1_Snd_Es_2026` | Legislación Militar, Derechos Humanos, Álgebra, Biología |
+| Escuela Militar de Clases de Sanidad | `EMCS_Cso_F_S2_Snd__Es_2026` | Legislación Militar, Derechos Humanos, Álgebra, Biología |
+| Escuela Militar de Clases de Transmisiones | `EMCT_F_S_1os_TRANS_2026` | Legislación Militar, Derechos Humanos |
+| Escuela Militar de Clases de Transmisiones | `EMCT_F_S_2os_TRANS_2026` | Legislación Militar, Derechos Humanos |
+| Escuela Militar de Enfermería (CIFOEM) | `EME_C_I_F_O_E_M_2026` | Legislación Militar, Derechos Humanos, Enfermería |
+| Escuela Militar de Mantenimiento y Abastecimiento | `EMMA_F_A_I_M_A_2026` | Álgebra, Física General, Trigonometría, Aeronáutica |
+| Escuela Militar de Mantenimiento y Abastecimiento | `EMMA_F_O_F_A_A_A_2026` | Álgebra, Física General, Trigonometría, Aeronáutica |
+| Escuela Militar de Mantenimiento y Abastecimiento | `EMMA_F_O_F_A_A_M_A_2026` | Álgebra, Física General, Trigonometría, Aeronáutica |
+| Escuela Militar de Mantenimiento y Abastecimiento | `EMMA_F_O_F_A_E_E_A_2026` | Álgebra, Física General, Trigonometría, Electrónica |
+| Escuela Militar de Mantenimiento y Abastecimiento | `EMMA_I_F_O_F_A_A_A_2026` | Legislación Militar, Derechos Humanos, Física General |
+| Escuela Militar de Mantenimiento y Abastecimiento | `EMMA_I_F_O_F_A_A_M_A_2026` | Legislación Militar, Derechos Humanos, Administración Moderna |
+| Escuela Militar de Mantenimiento y Abastecimiento | `EMMA_I_F_O_F_A_E_M_A_2026` | Legislación Militar, Derechos Humanos, Física General |
+| Escuela Militar de Mantenimiento y Abastecimiento | `EMMA_I_F_O_F_A_E_M_A_2026 (1)` | Legislación Militar, Derechos Humanos, Física General |
+| Escuela Militar de Materiales de Guerra | `EMMG_F_S_1os_M_G_2026` | Derechos Humanos, Álgebra, Matemáticas |
+| Escuela Militar de Materiales de Guerra | `EMMG_F_S_2os_M_G_2026` | Legislación Militar, Derechos Humanos |
+| Escuela Militar de Materiales de Guerra | `EMMG_MG_LIC_LOG_M_G_2026` | Álgebra, Matemáticas, Español, Historia de México, Metodología de la Investigación |
+| Escuela Militar de Materiales de Guerra | `EMMG_MG_TEC_MANTO_I_2026` | Álgebra, Matemáticas, Física General, Química, Táctica |
+| Escuela Militar de Materiales de Guerra | `EMMG_Sgto_1o_M_I_2026` | Derechos Humanos |
+| Escuela Militar de Materiales de Guerra | `EMMG_T_E_BALISTICA_2026` | Derechos Humanos, Álgebra, Matemáticas, Física General |
+| Escuela Militar de Oficiales de Sanidad (CIFOS) | `EMOS_C_I_F_O_S_T_U_M_2026` | Álgebra, Física General, Biología, Química |
+| Escuela Militar de Transmisiones | `EMT_F_O_TRANS_2026` | Derechos Humanos, Álgebra, Matemáticas, Electrónica |
+| Escuela Militar de Transmisiones | `EMT_TRANS_LIC_TICS_2026` | Álgebra, Cálculo Diferencial, Español, Metodología de la Investigación |
+| Heroico Colegio Militar (CIFO) | `HCM_CIFOA_A_B___2026` | Legislación Militar, Derechos Humanos, Táctica |
+| Heroico Colegio Militar (CIFO) | `HCM_CIFOA_CAB___2026` | Legislación Militar, Derechos Humanos, Táctica |
+| Heroico Colegio Militar (CIFO) | `HCM_CIFOA_ZPDR___2026` | Legislación Militar, Derechos Humanos, Táctica |
+| Heroico Colegio Militar (CIFO) | `HCM_CIFOGN_2026` | Legislación Militar, Derechos Humanos, Seguridad Pública |
+| Heroico Colegio Militar (CIFO) | `HCM_CIFOS_PM__2026` | Legislación Militar, Derechos Humanos, Táctica |
+| Heroico Colegio Militar (CIFO) | `HCM_HCMART_2026` | Legislación Militar, Derechos Humanos, Táctica |
+| Escuela Militar de Tropas Especialistas de la F.A. | `EMTEFA_F_S_1os_FAAA_2026` | Legislación Militar, Derechos Humanos, Física, Química, Electrónica |
+| Escuela Militar de Tropas Especialistas de la F.A. | `EMTEFA_F_S_1os_FAAMA_2026` | Legislación Militar, Derechos Humanos, Administración Moderna, Logística Militar |
+| Escuela Militar de Tropas Especialistas de la F.A. | `EMTEFA_F_S_1os_FAEEA_2026` | Legislación Militar, Derechos Humanos, Electrónica, Sistemas Digitales |
+| Escuela Militar de Tropas Especialistas de la F.A. | `EMTEFA_F_S_1os_FAEMA_2026` | Legislación Militar, Derechos Humanos, Aeronáutica, Motores de Reacción |
+| Escuela Militar de Tropas Especialistas de la F.A. | `EMTEFA_F_S_2os_FAAA_2026` | Álgebra, Física General, Cálculo Diferencial, Cálculo Integral |
+| Escuela Militar de Tropas Especialistas de la F.A. | `EMTEFA_F_S_2os_FAAMA_2026` | Álgebra, Física General, Cálculo Diferencial, Cálculo Integral |
+| Escuela Militar de Tropas Especialistas de la F.A. | `EMTEFA_F_S_2os_FAEEA_2026` | Álgebra, Física General, Cálculo Diferencial, Cálculo Integral |
+| Escuela Militar de Tropas Especialistas de la F.A. | `EMTEFA_F_S_2os_FAEMA_2026` | Álgebra, Física General, Cálculo Diferencial, Cálculo Integral |
