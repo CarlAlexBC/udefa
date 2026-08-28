@@ -59,6 +59,57 @@ Ojo con el tamaño: son ~3,800 páginas de manuales militares además de los
 libros académicos. Más material del que salió todo el banco cultural. El plan
 tiene que ir por partes.
 
+## Decisiones cerradas (27 ago 2026)
+
+### Entra por su propia puerta: `/tropa`
+
+Producto separado, no una pestaña ni un plantel más. Un sargento no es aspirante
+a cadete: no le sirve la Guía del Aspirante ni el examen psicológico. Dos
+productos, dos puertas, cero confusión.
+
+Adentro se reaprovecha TODO el motor: simulacro con cronómetro, panel de
+resultados, práctica por materia, avance con semáforo y repaso espaciado. La
+estructura del examen es idéntica —100 reactivos, 2 horas— así que no hay motor
+que construir.
+
+### La primera pantalla: una sola pregunta
+
+36 cursos no caben en una rejilla de escudos como la de planteles. Va un
+buscador, agrupado por escuela y con el curso como segunda línea:
+
+> **¿A qué curso vas a presentar?**
+> *escribe tu escuela o tu especialidad*
+>
+> Heroico Colegio Militar · CIFO Artillería
+> Materiales de Guerra · Formación de Sargentos 1/os.
+
+Se elige una vez, se guarda y desaparece — igual que el selector de plantel.
+
+### REGLA DURA: no se duplica ni un libro
+
+El modelo ya separa oferta de demanda. `Libro.slug` es la identidad: **Baldor es
+Baldor**, lo pida el HCM o lo pida la EMCS. El reactivo cuelga del libro, no del
+plantel, y el temario dice qué capítulos pide cada quien.
+
+**Nunca crear una carpeta para un libro que ya existe.** Si un curso de tropa
+pide Baldor capítulos 1–6 y ya están escritos, se reaprovechan tal cual: se
+piden desde el temario y punto. Sólo se crean carpetas nuevas para libros
+nuevos — la normativa y los manuales del Estado Mayor.
+
+Consecuencia: de las 23 materias del catálogo, **sólo la normativa y los
+manuales son trabajo nuevo**. Álgebra, Física, Biología, Química, Español,
+Metodología y Cálculo ya están vaciados.
+
+### Lo que falta en el modelo, y no se hizo aquí
+
+Hoy la demanda se llama **plantel**: `Temario` lleva `plantelId + anio + estado`.
+Pero en tropa la unidad no es la escuela sino el **curso** — la EMMG sola tiene
+seis. Falta un nivel: `Curso`, colgando de una escuela, y que el temario pueda
+pertenecerle.
+
+Es un cambio de esquema pequeño pero real. Se dejó para un chat nuevo a
+propósito: merece empezar con la cabeza fresca.
+
 ## Los 36 cursos
 
 | Escuela | Curso | Materias |
