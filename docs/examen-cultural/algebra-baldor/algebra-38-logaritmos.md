@@ -94,6 +94,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 508
 **Subtema:** Logaritmos · Max Planck
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Max Planck (1858-1947). Matemático y físico alemán.
 
@@ -109,6 +110,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué pre
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 508
 **Subtema:** Logaritmos · Max Planck
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Recibió el Premio Nobel de Física de 1918.
 
@@ -124,6 +126,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿alrededo
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 508
 **Subtema:** Logaritmos · Max Planck
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Sus estudios se desarrollaron alrededor de las relaciones entre el calor y la energía.
 
@@ -139,6 +142,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué fam
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 508
 **Subtema:** Logaritmos · Max Planck
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Llevó a cabo la renovación de la Física, al introducir su famosa teoría de los quanta.
 
@@ -154,6 +158,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿en qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 508
 **Subtema:** Logaritmos · Max Planck
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Su famosa teoría de los quanta, basada en la discontinuidad de la energía radiante.
 
@@ -169,6 +174,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿cuál es
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 508
 **Subtema:** Logaritmos · Max Planck
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 La base de la Física moderna es la constante universal de Planck.
 
@@ -655,9 +661,7 @@ En relación con el libro de Álgebra, ¿cómo se resuelven las ecuaciones expon
 Para resolver ecuaciones exponenciales, se aplican logaritmos a los dos miembros de la ecuación y se despeja la incógnita.
 
 ### 37
-
-En relación con el libro de Álgebra, según la nota, ¿en qué expresiones NO se puede hallar el valor por medio de logaritmos?
-
+En relación con el libro de Álgebra, ¿en qué expresiones NO se puede hallar el valor por medio de logaritmos?
 - A. En las que las operaciones indicadas son sumas o restas
 - B. En las que las operaciones indicadas son productos o cocientes
 - C. En las que las operaciones indicadas son potencias o raíces

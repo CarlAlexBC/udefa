@@ -597,9 +597,7 @@ Cuando esta fórmula se usa para la pendiente, el orden de sustracción es impor
 ## Sub-lote 4 · Punto-pendiente, rectas paralelas y perpendiculares (§3.2, pp. 284–286)
 
 ### 31
-
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué indica una pendiente positiva?
-
+De acuerdo con el libro de Matemáticas, ¿qué indica una pendiente positiva?
 - A. Que la recta sube de izquierda a derecha
 - B. Que la recta baja de izquierda a derecha
 - C. Que la recta es horizontal
@@ -614,9 +612,7 @@ Pendiente positiva: la recta sube de izquierda a derecha.
 ---
 
 ### 32
-
-De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué indica una pendiente no definida?
-
+De conformidad con el libro de Matemáticas, ¿qué indica una pendiente no definida?
 - A. Que la recta es vertical
 - B. Que la recta es horizontal
 - C. Que la recta sube de izquierda a derecha
@@ -665,9 +661,7 @@ La forma punto-pendiente es más útil para determinar la ecuación de una recta
 ---
 
 ### 35
-
-De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, al hallar la ecuación de la recta que pasa por dos puntos, ¿cuál de ellos debe sustituirse en la forma punto-pendiente?
-
+De conformidad con el libro de Matemáticas, al hallar la ecuación de la recta que pasa por dos puntos, ¿cuál de ellos debe sustituirse en la forma punto-pendiente?
 - A. Cualquiera de los dos, porque ambos darán el mismo resultado
 - B. Siempre el de menor coordenada x
 - C. Siempre el de mayor coordenada y
@@ -1438,9 +1432,7 @@ Usando un punto como vértice, esa suma constante es (a + c) + (a − c) = 2a, l
 ---
 
 ### 80
-
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, geométricamente, ¿qué ocurre cuando a = b en la ecuación de una elipse?
-
+En relación con el libro de Matemáticas, geométricamente, ¿qué ocurre cuando a = b en la ecuación de una elipse?
 - A. Los ejes mayor y menor son de igual longitud y la gráfica es un círculo
 - B. La elipse se convierte en una parábola
 - C. La elipse pierde uno de sus dos focos

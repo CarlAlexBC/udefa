@@ -72,6 +72,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué tí
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 270
 **Subtema:** Fórmulas · Neper
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Rico terrateniente escocés; era Barón de Merchiston.
 
@@ -87,6 +88,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿qué introdujo John
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 270
 **Subtema:** Fórmulas · Neper
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Introdujo el punto decimal para separar las cifras decimales de las enteras.
 
@@ -102,6 +104,7 @@ En relación con el libro de Álgebra, según el recuadro, al observar las relac
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 270
 **Subtema:** Fórmulas · Neper
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Al observar las relaciones entre las progresiones aritméticas y geométricas descubrió el principio que rige a los logaritmos.
 
@@ -117,6 +120,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿con quién surgió 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 270
 **Subtema:** Fórmulas · Neper
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Entre Neper y Bürgi surgió una discusión acerca de quién había sido el primero en trabajar con los logaritmos.
 
@@ -307,5 +311,5 @@ Podemos despejar cualquiera de los elementos que entran en ella, considerándolo
 
 ---
 
-**Reactivos en este archivo:** 15
+**Reactivos en este archivo:** 11
 **Pendiente:** ninguno. El capítulo XVIII (Fórmulas, pp. 270–275, arts. 237–242) queda cerrado. **Álgebra (Baldor) quedó cerrada del todo** en los capítulos que piden los ocho planteles que usan este libro.

@@ -152,9 +152,7 @@ Multiplicación repetida: (−4)(−4)(−4). Forma exponencial: (−4)³.
 ---
 
 ### 4
-
-De acuerdo con el libro de Matemáticas, en el recuadro de la notación exponencial, ¿qué debe ser n?
-
+De acuerdo con el libro de Matemáticas, en la notación exponencial, ¿qué debe ser n?
 - A. Un entero positivo
 - B. Un entero negativo
 - C. Un número real cualquiera
@@ -169,9 +167,7 @@ Si a es un número real y n es un entero positivo, entonces: aⁿ = a · a · a 
 ---
 
 ### 5
-
-De conformidad con el libro de Matemáticas, en el recuadro de la notación exponencial, ¿qué debe ser a?
-
+De conformidad con el libro de Matemáticas, en la notación exponencial, ¿qué debe ser a?
 - A. Un número real
 - B. Un entero positivo
 - C. Un número natural
@@ -271,9 +267,7 @@ Las propiedades 3 y 4 de abajo muestran cómo usar exponentes negativos y de cer
 ---
 
 ### 11
-
-De conformidad con el libro de Matemáticas, en el recuadro de las propiedades de los exponentes, ¿qué pueden ser a y b?
-
+De conformidad con el libro de Matemáticas, en las propiedades de los exponentes, ¿qué pueden ser a y b?
 - A. Números reales, variables o expresiones algebraicas
 - B. Sólo números reales
 - C. Sólo enteros positivos
@@ -288,9 +282,7 @@ Sean a y b números reales, variables o expresiones algebraicas y sean m y n ent
 ---
 
 ### 12
-
-En relación con el libro de Matemáticas, en el recuadro de las propiedades de los exponentes, ¿qué deben ser m y n?
-
+En relación con el libro de Matemáticas, en las propiedades de los exponentes, ¿qué deben ser m y n?
 - A. Enteros
 - B. Números reales
 - C. Enteros positivos
@@ -305,9 +297,7 @@ Sean a y b números reales, variables o expresiones algebraicas y sean m y n ent
 ---
 
 ### 13
-
-De acuerdo con el libro de Matemáticas, ¿qué condición pone el recuadro de las propiedades de los exponentes sobre los denominadores y las bases?
-
+De acuerdo con el libro de Matemáticas, ¿qué condición pone las propiedades de los exponentes sobre los denominadores y las bases?
 - A. Que todos los denominadores y bases son diferentes de cero
 - B. Que todos los denominadores y bases son positivos
 - C. Que todos los denominadores y bases son enteros
@@ -1010,9 +1000,7 @@ De igual forma, enteros como 1, 8, 27, 64 y 125 son cubos perfectos, porque tien
 ---
 
 ### 54
-
-En relación con el libro de Matemáticas, en el recuadro de las propiedades de los radicales, ¿qué deben ser m y n?
-
+En relación con el libro de Matemáticas, en las propiedades de los radicales, ¿qué deben ser m y n?
 - A. Enteros positivos
 - B. Enteros cualesquiera
 - C. Números reales
@@ -1301,9 +1289,7 @@ Para determinar si dos radicales pueden combinarse, simplifique primero cada rad
 ---
 
 ### 71
-
-De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué es importante cuidar cuando se simplifica un radical?
-
+De conformidad con el libro de Matemáticas, ¿qué es importante cuidar cuando se simplifica un radical?
 - A. Que la expresión original y la simplificada estén definidas para los mismos valores de la variable
 - B. Que la expresión simplificada tenga menos términos que la original
 - C. Que el índice de la expresión simplificada sea par
@@ -1388,9 +1374,7 @@ Para las raíces cúbicas, elija un factor de racionalización que produzca un r
 ---
 
 ### 76
-
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿a qué no es igual √(x + y) en general?
-
+De acuerdo con el libro de Matemáticas, ¿a qué no es igual √(x + y) en general?
 - A. A √x + √y
 - B. A √x · √y
 - C. A √(x · y)
@@ -1405,9 +1389,7 @@ En general, √(x + y) no es igual a √x + √y.
 ---
 
 ### 77
-
-De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿a qué no es igual √(x² + y²)?
-
+De conformidad con el libro de Matemáticas, ¿a qué no es igual √(x² + y²)?
 - A. A x + y
 - B. A x · y
 - C. A x² + y²
@@ -1541,9 +1523,7 @@ Cuando se trabaja con exponentes racionales, las propiedades de los exponentes e
 ---
 
 ### 85
-
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué también es cierto si m y n no tienen factores comunes?
-
+De acuerdo con el libro de Matemáticas, ¿qué también es cierto si m y n no tienen factores comunes?
 - A. Que a^(m/n) = (aᵐ)^(1/n)
 - B. Que a^(m/n) = (a^(1/m))ⁿ
 - C. Que a^(m/n) = aᵐ · aⁿ
@@ -1577,9 +1557,7 @@ Los exponentes racionales son útiles para evaluar raíces de números en una ca
 ---
 
 ### 87
-
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿por qué una expresión que contiene x^(−3/4) no está definida cuando x = 0?
-
+En relación con el libro de Matemáticas, ¿por qué una expresión que contiene x^(−3/4) no está definida cuando x = 0?
 - A. Porque 0^(−3/4) no es un número real
 - B. Porque 0^(−3/4) es igual a cero
 - C. Porque 0^(−3/4) es igual a uno
@@ -1817,9 +1795,7 @@ El coeficiente principal del polinomio es el coeficiente del término de más al
 ---
 
 ### 101
-
-De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿en qué dos casos una expresión no es un polinomio?
-
+De conformidad con el libro de Matemáticas, ¿en qué dos casos una expresión no es un polinomio?
 - A. Cuando una variable está bajo un radical y cuando una expresión polinomial de grado mayor que cero está en el denominador de un término
 - B. Cuando tiene más de una variable y cuando su coeficiente principal es cero
 - C. Cuando tiene exponentes pares y cuando su término constante es negativo
@@ -1921,9 +1897,7 @@ El método PEIU de arriba sólo puede usarse para multiplicar dos binomios.
 ---
 
 ### 107
-
-De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué debe recordarse cuando un signo negativo precede a una expresión dentro de un paréntesis?
-
+De conformidad con el libro de Matemáticas, ¿qué debe recordarse cuando un signo negativo precede a una expresión dentro de un paréntesis?
 - A. Distribuir el signo negativo a cada término, es decir, multiplicar cada término por −1
 - B. Aplicar el signo negativo sólo al primer término del paréntesis
 - C. Suprimir el paréntesis sin cambiar ningún signo
@@ -1957,9 +1931,7 @@ Algunos productos de binomios tienen formas especiales que ocurren con frecuenci
 ---
 
 ### 109
-
-De acuerdo con el libro de Matemáticas, en el recuadro de los productos especiales, ¿qué pueden ser u y v?
-
+De acuerdo con el libro de Matemáticas, en los productos especiales, ¿qué pueden ser u y v?
 - A. Números reales, variables o expresiones algebraicas
 - B. Únicamente números reales
 - C. Únicamente variables
@@ -2352,9 +2324,7 @@ Para reconocer términos cuadrados perfectos, busque coeficientes que sean cuadr
 ---
 
 ### 132
-
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cuál es el primer paso de la factorización de un polinomio?
-
+En relación con el libro de Matemáticas, ¿cuál es el primer paso de la factorización de un polinomio?
 - A. Buscar factores comunes
 - B. Reconocer un trinomio cuadrado perfecto
 - C. Aplicar la diferencia de dos cuadrados
@@ -2369,9 +2339,7 @@ Nótese que el primer paso de la factorización de un polinomio es buscar factor
 ---
 
 ### 133
-
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué ocurre una vez que se han eliminado todos los factores comunes?
-
+De acuerdo con el libro de Matemáticas, ¿qué ocurre una vez que se han eliminado todos los factores comunes?
 - A. A menudo es posible reconocer patrones que no fueron obvios de inmediato
 - B. El polinomio queda siempre completamente factorizado
 - C. El polinomio se vuelve irreducible en enteros
@@ -2509,9 +2477,7 @@ La meta es hallar una combinación de factores de a y c tal que la suma de los p
 ---
 
 ### 141
-
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué puede implicar factorizar un trinomio?
-
+En relación con el libro de Matemáticas, ¿qué puede implicar factorizar un trinomio?
 - A. Prueba y error
 - B. Racionalizar el denominador
 - C. Reducir el índice del radical
@@ -2526,9 +2492,7 @@ Factorizar un trinomio puede implicar prueba y error.
 ---
 
 ### 142
-
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo se comprueba la respuesta de una factorización?
-
+De acuerdo con el libro de Matemáticas, ¿cómo se comprueba la respuesta de una factorización?
 - A. Multiplicando los factores: el producto debería ser el trinomio original
 - B. Sumando los factores: la suma debería ser el término medio
 - C. Dividiendo el trinomio entre uno de sus factores
@@ -2613,9 +2577,7 @@ Elija factores del producto ac que sumen b y use esos factores para reescribir e
 ---
 
 ### 147
-
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué ocurre a veces al factorizar por agrupación?
-
+En relación con el libro de Matemáticas, ¿qué ocurre a veces al factorizar por agrupación?
 - A. Que más de una agrupación dará resultado
 - B. Que ninguna agrupación dará resultado
 - C. Que la agrupación cambia el valor del polinomio
@@ -2906,9 +2868,7 @@ De acuerdo con el libro de Matemáticas, ¿cuál es el cuarto paso que enlista e
 ---
 
 ### 164
-
-De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué debe hacerse después de resolver una ecuación?
-
+De conformidad con el libro de Matemáticas, ¿qué debe hacerse después de resolver una ecuación?
 - A. Comprobar cada solución en la ecuación original
 - B. Escribir la ecuación en forma estándar
 - C. Factorizar el resultado obtenido
@@ -2976,9 +2936,7 @@ Esto deja sin fracciones a la ecuación original y produce una más simple.
 ---
 
 ### 168
-
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué ecuación puede deshacerse de los denominadores mediante multiplicación cruzada?
-
+En relación con el libro de Matemáticas, ¿qué ecuación puede deshacerse de los denominadores mediante multiplicación cruzada?
 - A. Una ecuación con una sola fracción en cada miembro
 - B. Una ecuación con dos o más fracciones en cada miembro
 - C. Cualquier ecuación racional, sin importar cuántas fracciones tenga
@@ -2993,9 +2951,7 @@ Una ecuación con una sola fracción en cada miembro puede deshacerse de los den
 ---
 
 ### 169
-
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo se hace la multiplicación cruzada?
-
+De acuerdo con el libro de Matemáticas, ¿cómo se hace la multiplicación cruzada?
 - A. Multiplicando el numerador izquierdo por el denominador derecho y el numerador derecho por el denominador izquierdo
 - B. Multiplicando los dos numeradores entre sí y los dos denominadores entre sí
 - C. Multiplicando cada numerador por su propio denominador
@@ -3182,9 +3138,7 @@ Fórmula cuadrática: Si ax² + bx + c = 0, entonces x = (−b ± √(b² − 4a
 ---
 
 ### 180
-
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿con qué dos métodos es posible resolver todas las ecuaciones cuadráticas?
-
+En relación con el libro de Matemáticas, ¿con qué dos métodos es posible resolver todas las ecuaciones cuadráticas?
 - A. Completando el cuadrado o usando la fórmula cuadrática
 - B. Por factorización o por extracción de raíces cuadradas
 - C. Por factorización o completando el cuadrado
@@ -3288,9 +3242,7 @@ A veces, el método usado para resolver ecuaciones cuadráticas puede extenderse
 ---
 
 ### 186
-
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cuál es un error común al resolver una ecuación polinomial?
-
+En relación con el libro de Matemáticas, ¿cuál es un error común al resolver una ecuación polinomial?
 - A. Dividir cada miembro de la ecuación entre el factor variable
 - B. Escribir la ecuación en forma general antes de factorizar
 - C. Igualar cada factor a cero
@@ -3305,9 +3257,7 @@ Un error común al resolver una ecuación polinomial es dividir cada miembro de 
 ---
 
 ### 187
-
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué se pierde al dividir cada miembro entre el factor variable?
-
+De acuerdo con el libro de Matemáticas, ¿qué se pierde al dividir cada miembro entre el factor variable?
 - A. La solución x = 0
 - B. Todas las soluciones negativas
 - C. El coeficiente principal
@@ -3322,9 +3272,7 @@ Esto pierde la solución x = 0.
 ---
 
 ### 188
-
-De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cuál es el procedimiento correcto para resolver una ecuación polinomial?
-
+De conformidad con el libro de Matemáticas, ¿cuál es el procedimiento correcto para resolver una ecuación polinomial?
 - A. Escribirla siempre en forma general, factorizar el polinomio e igualar cada factor a cero
 - B. Dividirla entre el factor variable y después factorizar
 - C. Completar el cuadrado y después extraer raíces
@@ -3358,9 +3306,7 @@ Una ecuación radical es una ecuación que implica una o más expresiones radica
 ---
 
 ### 190
-
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué operaciones pueden introducir soluciones extrañas?
-
+De acuerdo con el libro de Matemáticas, ¿qué operaciones pueden introducir soluciones extrañas?
 - A. Elevar al cuadrado cada miembro o elevar cada miembro a una potencia racional
 - B. Sumar o restar la misma cantidad a cada miembro
 - C. Intercambiar los dos miembros de la ecuación
@@ -3375,9 +3321,7 @@ Cuando se eleva al cuadrado cada miembro de una ecuación o se eleva cada miembr
 ---
 
 ### 191
-
-De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué resulta crucial cuando se usan esas operaciones?
-
+De conformidad con el libro de Matemáticas, ¿qué resulta crucial cuando se usan esas operaciones?
 - A. La comprobación de las soluciones
 - B. La factorización previa del polinomio
 - C. El uso de la fórmula cuadrática
@@ -3392,9 +3336,7 @@ Así, cuando use tales operaciones, la comprobación de sus soluciones es crucia
 ---
 
 ### 192
-
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué ocurre cuando una ecuación contiene dos expresiones radicales?
-
+En relación con el libro de Matemáticas, ¿qué ocurre cuando una ecuación contiene dos expresiones radicales?
 - A. Que podría no ser posible despejar ambas en el primer paso, y haya que despejarlas en dos etapas diferentes
 - B. Que siempre pueden despejarse ambas en el primer paso
 - C. Que la ecuación deja de tener solución real
@@ -3738,9 +3680,7 @@ Usted ya sabe que la función logarítmica con base a es la función inversa de 
 ---
 
 ### 212
-
-De conformidad con el libro de Matemáticas, en el recuadro de las propiedades de los logaritmos, ¿qué deben ser u y v?
-
+De conformidad con el libro de Matemáticas, en las propiedades de los logaritmos, ¿qué deben ser u y v?
 - A. Números reales positivos
 - B. Números reales cualesquiera
 - C. Números enteros positivos
@@ -3806,9 +3746,7 @@ De conformidad con el libro de Matemáticas, ¿qué establece la propiedad de la
 ---
 
 ### 216
-
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿existe alguna propiedad general para reescribir log_a(u ± v)?
-
+En relación con el libro de Matemáticas, ¿existe alguna propiedad general para reescribir log_a(u ± v)?
 - A. No existe ninguna propiedad general para ese caso
 - B. Sí, es la propiedad del producto
 - C. Sí, es la propiedad del cociente
@@ -3823,9 +3761,7 @@ No hay una propiedad general que se pueda usar para reescribir log_a(u ± v).
 ---
 
 ### 217
-
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿a qué no es igual log_a(u + v)?
-
+De acuerdo con el libro de Matemáticas, ¿a qué no es igual log_a(u + v)?
 - A. A log_a u + log_a v
 - B. A log_a u − log_a v
 - C. A log_a u · log_a v
@@ -4237,9 +4173,7 @@ Este procedimiento se denomina exponenciación de cada lado de una ecuación.
 ---
 
 ### 241
-
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿para qué debe comprobarse cada solución en la ecuación original?
-
+De acuerdo con el libro de Matemáticas, ¿para qué debe comprobarse cada solución en la ecuación original?
 - A. Para verificar que la respuesta es correcta y asegurarse de que está en el dominio de la ecuación original
 - B. Únicamente para verificar que la respuesta es correcta
 - C. Únicamente para asegurarse de que la respuesta es un número entero
@@ -4409,9 +4343,7 @@ El término sustitución hacia atrás implica que trabaje hacia atrás. Primero 
 ---
 
 ### 251
-
-De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo debe comprobarse siempre la solución de un sistema?
-
+De conformidad con el libro de Matemáticas, ¿cómo debe comprobarse siempre la solución de un sistema?
 - A. Sustituyéndola en cada ecuación del sistema original
 - B. Sustituyéndola en la primera ecuación del sistema original
 - C. Graficando las dos ecuaciones del sistema
@@ -4874,9 +4806,7 @@ Un sistema es inconsistente cuando no tiene ninguna solución.
 ---
 
 ### 278
-
-De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿en qué forma ayuda escribir las ecuaciones al resolver gráficamente un sistema lineal?
-
+De conformidad con el libro de Matemáticas, ¿en qué forma ayuda escribir las ecuaciones al resolver gráficamente un sistema lineal?
 - A. En la forma pendiente-intersección, para poder comparar las pendientes y las intersecciones en y
 - B. En la forma general, para poder aplicar la propiedad de factor cero
 - C. En forma exponencial, para poder aplicar las propiedades inversas

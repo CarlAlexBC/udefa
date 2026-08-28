@@ -89,6 +89,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿en qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 193
 **Subtema:** Fracciones algebraicas · Universidades hispano-árabes
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 La cultura árabe alcanza elevado desarrollo en ciudades como Sevilla, Córdoba y Toledo.
 
@@ -104,6 +105,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué sig
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 193
 **Subtema:** Fracciones algebraicas · Universidades hispano-árabes
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Las Matemáticas en las universidades hispano-árabes (siglos VIII al XV).
 
@@ -119,6 +121,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué flu
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 193
 **Subtema:** Fracciones algebraicas · Universidades hispano-árabes
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 De las universidades hispano-árabes fluye la cultura musulmana hacia Europa.
 
@@ -134,6 +137,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué rec
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 193
 **Subtema:** Fracciones algebraicas · Universidades hispano-árabes
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Geber Ibn-Aphla (Sevilla, siglo XI), que rectificó las Tablas de Ptolomeo.
 
@@ -152,6 +156,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 193
 **Subtema:** Fracciones algebraicas · Universidades hispano-árabes
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Geber Ibn-Aphla (Sevilla, siglo XI).
 
@@ -167,6 +172,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 193
 **Subtema:** Fracciones algebraicas · Universidades hispano-árabes
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Arzaquel (Toledo, 1080), autor de unas famosas Tablas.
 
@@ -182,6 +188,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué era
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 193
 **Subtema:** Fracciones algebraicas · Universidades hispano-árabes
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Ben Ezra (Calahorra, 1089), rabino de Toledo.
 

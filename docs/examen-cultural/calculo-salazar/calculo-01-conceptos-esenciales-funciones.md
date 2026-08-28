@@ -1610,9 +1610,7 @@ En relación con el libro de Cálculo, ¿qué son los números racionales?
 > detalle que se pierde y el que de verdad importa.
 
 ### 73
-
-De acuerdo con el libro de Cálculo, según la nota, ¿qué forma de representación tiene todo número racional?
-
+De acuerdo con el libro de Cálculo, ¿qué forma de representación tiene todo número racional?
 - A. Decimal infinita periódica
 - B. Decimal infinita no periódica
 - C. Decimal finita en todos los casos

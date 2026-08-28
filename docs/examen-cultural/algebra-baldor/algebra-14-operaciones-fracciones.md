@@ -89,6 +89,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿a travé
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 210
 **Subtema:** Operaciones con fracciones · Matemática hispano-árabe
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 La Matemática hispano-árabe se introdujo en Europa a través de las traducciones que hicieron numerosos eruditos que se trasladaron a las universidades árabes.
 
@@ -104,6 +105,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿a qué u
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 210
 **Subtema:** Operaciones con fracciones · Matemática hispano-árabe
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Numerosos eruditos que se trasladaron a las universidades árabes de Córdoba, Sevilla, Toledo, etc.
 
@@ -119,6 +121,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿quién p
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 210
 **Subtema:** Operaciones con fracciones · Matemática hispano-árabe
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Juan de España, que puso en latín las obras de Al Juarismi.
 
@@ -134,6 +137,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué tra
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 210
 **Subtema:** Operaciones con fracciones · Matemática hispano-árabe
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Juan de Sacrobosco o Holywood, que tradujo diversos tratados.
 
@@ -153,6 +157,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿quién f
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 210
 **Subtema:** Operaciones con fracciones · Matemática hispano-árabe
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Y Adelardo de Bath, el más distinguido de ellos.
 
@@ -168,6 +173,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 210
 **Subtema:** Operaciones con fracciones · Matemática hispano-árabe
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Adelardo de Bath, el más distinguido de ellos, que dio una visión latina de los estudios de Euclides.
 

@@ -265,6 +265,7 @@ En relación con el libro de Geometría Analítica, según el recuadro históric
 **Respuesta:** A
 **Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 167
 **Subtema:** Coordenadas rectangulares · René Descartes
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Se considera que Descartes es el inventor de la geometría analítica, que es la combinación del álgebra y la geometría. Los principios básicos de la geometría analítica se establecieron en La Géométrie, obra publicada en 1637.
 
@@ -280,6 +281,7 @@ En relación con el libro de Geometría Analítica, según el recuadro históric
 **Respuesta:** A
 **Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 167
 **Subtema:** Coordenadas rectangulares · René Descartes
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 A menudo se le llama padre de la filosofía moderna. Su famosa frase cogito ergo sum (pienso, luego existo) aparece en sus obras.
 

@@ -101,6 +101,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué fue
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 122
 **Subtema:** Ecuaciones de primer grado · Ptolomeo
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 El más sobresaliente de los astrónomos de la época helenística.
 
@@ -119,6 +120,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿dónde nació Claud
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 122
 **Subtema:** Ecuaciones de primer grado · Ptolomeo
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Nacido en Egipto, confluencia de dos culturas, Oriente y Occidente, influyó igualmente sobre ambas.
 
@@ -137,6 +139,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿durante cuánto tie
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 122
 **Subtema:** Ecuaciones de primer grado · Ptolomeo
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Su sistema geocéntrico dominó la Astronomía durante catorce siglos hasta la aparición de Copérnico.
 
@@ -152,6 +155,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿de qué disciplina 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 122
 **Subtema:** Ecuaciones de primer grado · Ptolomeo
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Aunque es más conocido por estos trabajos, fue uno de los fundadores de la Trigonometría.
 
@@ -170,6 +174,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿cuál es la obra pr
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 122
 **Subtema:** Ecuaciones de primer grado · Ptolomeo
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Su obra principal, el Almagesto, en que se abordan cuestiones científicas.
 
@@ -189,6 +194,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿hasta qué siglo se
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 122
 **Subtema:** Ecuaciones de primer grado · Ptolomeo
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Dicha obra se utilizó en las universidades hasta el siglo XVIII.
 
@@ -685,4 +691,4 @@ La verificación se realiza sustituyendo en los dos miembros de la ecuación dad
 
 ---
 
-**Reactivos en este archivo:** 34
+**Reactivos en este archivo:** 28

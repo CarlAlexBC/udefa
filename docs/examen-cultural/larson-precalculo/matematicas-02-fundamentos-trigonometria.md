@@ -424,9 +424,7 @@ El periodo de y = a sen bx es menor que 2π y representa una contracción horizo
 ---
 
 ### 21
-
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo se divide un periodo-intervalo en cuatro partes iguales?
-
+En relación con el libro de Matemáticas, ¿cómo se divide un periodo-intervalo en cuatro partes iguales?
 - A. Sumando sucesivamente el periodo entre cuatro, empezando por el punto extremo izquierdo del intervalo
 - B. Sumando sucesivamente el periodo entre dos, empezando por el punto extremo izquierdo del intervalo
 - C. Restando sucesivamente el periodo entre cuatro, empezando por el punto extremo derecho
@@ -649,9 +647,7 @@ N 80° W significa 80 grados al Oeste del Norte.
 ---
 
 ### 34
-
-De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo se miden los rumbos en navegación aérea?
-
+De acuerdo con el libro de Matemáticas, ¿cómo se miden los rumbos en navegación aérea?
 - A. En grados en el sentido de las manecillas del reloj desde el Norte
 - B. En grados en sentido contrario a las manecillas del reloj desde el Norte
 - C. En grados en el sentido de las manecillas del reloj desde el Sur
@@ -991,9 +987,7 @@ Las identidades pitagóricas a veces se usan en forma de radical como sen u = ±
 ---
 
 ### 54
-
-En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué puede ser u en las identidades trigonométricas fundamentales?
-
+En relación con el libro de Matemáticas, ¿qué puede ser u en las identidades trigonométricas fundamentales?
 - A. Un ángulo, un número real o una variable
 - B. Únicamente un ángulo
 - C. Únicamente un número real

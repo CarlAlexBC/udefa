@@ -1158,9 +1158,7 @@ Lactasa — Fuente: intestino delgado; pH: 8; sustrato: lactosa; producto: gluco
 ---
 
 ### 60
-
-De acuerdo con el libro de Biología, según la nota del cuadro de enzimas digestivas, ¿qué ocurre con la lactasa?
-
+De acuerdo con el libro de Biología, ¿qué ocurre con la lactasa?
 - A. Con frecuencia está ausente en los adultos, en especial en los de origen africano
 - B. Está siempre presente en todos los adultos
 - C. Solo se encuentra en los recién nacidos de origen europeo

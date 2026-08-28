@@ -89,6 +89,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de quié
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 143
 **Subtema:** Descomposición factorial · Hypatia
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Una excepcional mujer griega, hija del filósofo y matemático Teón.
 
@@ -107,6 +108,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿por qué se hizo c�
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 143
 **Subtema:** Descomposición factorial · Hypatia
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Se hizo célebre por su saber, por su elocuencia y por su belleza.
 
@@ -129,6 +131,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿dónde nació Hypat
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 143
 **Subtema:** Descomposición factorial · Hypatia
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Nacida en Alejandría, viaja a Atenas donde realiza estudios.
 
@@ -146,6 +149,7 @@ En relación con el libro de Álgebra, según el recuadro, al regresar a Alejand
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 143
 **Subtema:** Descomposición factorial · Hypatia
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Al regresar a Alejandría funda una escuela donde enseña las doctrinas de Platón y Aristóteles y se pone al frente del pensamiento neoplatónico.
 
@@ -161,6 +165,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿al frente de qué p
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 143
 **Subtema:** Descomposición factorial · Hypatia
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Se pone al frente del pensamiento neoplatónico.
 
@@ -176,6 +181,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿por los comentarios
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 143
 **Subtema:** Descomposición factorial · Hypatia
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Se distinguió por los comentarios a las obras de Apolonio y Diofanto.
 
@@ -841,5 +847,5 @@ Lo primero que debe hacerse es ver si hay algún factor común, y si lo hay, sac
 
 ---
 
-**Reactivos en este archivo:** 46
+**Reactivos en este archivo:** 40
 **Pendiente:** ninguno. El capítulo X (los diez casos de factorización, pp. 143–170, más el principio para combinar casos) queda cerrado; los ejercicios de descomposición en 3, 4, 5 y 6 factores son práctica y no llevan reactivos. **Álgebra (Baldor) quedó cerrada del todo** en los capítulos que piden los ocho planteles que usan este libro.

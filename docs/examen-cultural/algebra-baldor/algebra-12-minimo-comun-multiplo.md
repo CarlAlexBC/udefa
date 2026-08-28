@@ -70,6 +70,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿quiénes
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 188
 **Subtema:** Mínimo común múltiplo · Escuela de Bagdad
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Los árabes fueron los verdaderos sistematizadores del Álgebra.
 
@@ -85,6 +86,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué hiz
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 188
 **Subtema:** Mínimo común múltiplo · Escuela de Bagdad
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Al Juarismi, persa del siglo IX, escribió el primer libro de Álgebra y le dio nombre a esta ciencia.
 
@@ -100,6 +102,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿a qué a
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 188
 **Subtema:** Mínimo común múltiplo · Escuela de Bagdad
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Al Batani, sirio (858-929), aplicó el Álgebra a problemas astronómicos.
 
@@ -115,6 +118,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿por qué
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 188
 **Subtema:** Mínimo común múltiplo · Escuela de Bagdad
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Y Omar Khayyan, persa del siglo XII, conocido por sus poemas escritos en "rubayat", propuso un tratado de Álgebra.
 

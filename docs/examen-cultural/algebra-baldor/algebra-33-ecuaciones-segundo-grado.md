@@ -84,6 +84,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 446
 **Subtema:** Ecuaciones de segundo grado · Niels Henrik Abel
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Niels Henrik Abel (1802-1829). Matemático noruego.
 
@@ -99,6 +100,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿con qui�
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 446
 **Subtema:** Ecuaciones de segundo grado · Niels Henrik Abel
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Obtuvo con Jacobi el Gran Premio de Matemáticas del Instituto de Francia.
 
@@ -114,6 +116,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿por qué
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 446
 **Subtema:** Ecuaciones de segundo grado · Niels Henrik Abel
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Obtuvo con Jacobi el Gran Premio de Matemáticas del Instituto de Francia, por su trabajo sobre las funciones elípticas.
 
@@ -129,6 +132,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 446
 **Subtema:** Ecuaciones de segundo grado · Niels Henrik Abel
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Llevó a cabo la demostración de la imposibilidad de la resolución de las ecuaciones de quinto grado.
 
@@ -144,6 +148,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué teo
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 446
 **Subtema:** Ecuaciones de segundo grado · Niels Henrik Abel
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Demostró el teorema general del binomio.
 
@@ -657,9 +662,7 @@ En relación con el libro de Álgebra, cuando las dos raíces de la ecuación so
 Resulta la parábola ABC que es tangente al eje de las x. La curva toca al eje de las x en un solo punto, luego las dos raíces de la ecuación son iguales.
 
 ### 37
-
-En relación con el libro de Álgebra, según la NOTA, cuando al aplicar la fórmula la cantidad subradical de √(b²−4ac) es negativa, ¿cómo son las raíces?
-
+En relación con el libro de Álgebra, cuando al aplicar la fórmula la cantidad subradical de √(b²−4ac) es negativa, ¿cómo son las raíces?
 - A. Complejas conjugadas
 - B. Reales y desiguales
 - C. Reales e iguales

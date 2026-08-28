@@ -79,6 +79,11 @@ for f in sorted(glob.glob('*/*.md')):
     ruta = f.replace(os.sep, '/')
     libro = ruta.split('/')[0]
     for b in re.split(r'^### ', open(f, encoding='utf-8').read(), flags=re.M)[1:]:
+        # Los retirados conservan su texto en el archivo, así que seguirían
+        # apareciendo aquí para siempre. La auditoría mide el banco VIVO: lo que
+        # de verdad le puede tocar a un aspirante.
+        if re.search(r'^\*\*Retirado:\*\*', b, re.M):
+            continue
         total += 1
         e = enunciado(b)
         for familia, etiqueta, patron in DETECTORES:

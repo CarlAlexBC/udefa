@@ -76,6 +76,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué con
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 180
 **Subtema:** Máximo común divisor · Algebristas de la India
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Aryabhata, del siglo V, conoció la resolución completa de la ecuación de segundo grado.
 
@@ -91,6 +92,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué exp
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 180
 **Subtema:** Máximo común divisor · Algebristas de la India
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Brahmagupta, del siglo VI, fue alumno de Aryabhata, expuso en sus obras Ganita y Cuttaca la resolución de las ecuaciones indeterminadas.
 
@@ -109,6 +111,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿cuál es
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 180
 **Subtema:** Máximo común divisor · Algebristas de la India
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Y Bháskara, del siglo XII, recoge los conocimientos de su época en su obra Sidhanta Ciromani.
 

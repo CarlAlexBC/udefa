@@ -79,6 +79,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿por qué
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 291
 **Subtema:** Representación gráfica de funciones y relaciones · Blas Pascal
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Es quizá más conocido por sus obras literarias como los *Pensées* y las *Lettres*, que por sus contribuciones a las Matemáticas.
 
@@ -94,6 +95,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué hab
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 291
 **Subtema:** Representación gráfica de funciones y relaciones · Blas Pascal
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 A los doce años, dice su hermana Gilberte, había demostrado las 32 proposiciones de Euclides.
 
@@ -109,6 +111,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿al soste
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 291
 **Subtema:** Representación gráfica de funciones y relaciones · Blas Pascal
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Al sostener correspondencia con Fermat, Pascal sienta las bases de la teoría de las probabilidades.
 
@@ -124,6 +127,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué tra
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 291
 **Subtema:** Representación gráfica de funciones y relaciones · Blas Pascal
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Entre sus trabajos figura el *Ensayo sobre las cónicas*, que escribió cuando era un niño.
 

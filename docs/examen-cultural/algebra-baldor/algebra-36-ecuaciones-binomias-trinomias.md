@@ -78,6 +78,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 483
 **Subtema:** Ecuaciones binomias y trinomias · Karl Weierstrass
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Karl Wilhelm Theodor Weierstrass (1815-1897). Matemático alemán.
 
@@ -93,6 +94,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 483
 **Subtema:** Ecuaciones binomias y trinomias · Karl Weierstrass
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Fue maestro de escuela y más tarde profesor de la Universidad de Berlín.
 
@@ -108,6 +110,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 483
 **Subtema:** Ecuaciones binomias y trinomias · Karl Weierstrass
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Puede considerarse a Weierstrass el verdadero padre del Análisis moderno.
 
@@ -123,6 +126,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué pro
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 483
 **Subtema:** Ecuaciones binomias y trinomias · Karl Weierstrass
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 En sus primeras investigaciones abordó el problema de los números irracionales.
 
@@ -138,6 +142,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿al estud
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 483
 **Subtema:** Ecuaciones binomias y trinomias · Karl Weierstrass
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Luego se dedicó durante el resto de su vida al estudio de las funciones de variables complejas y de variables reales.
 
@@ -153,6 +158,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 483
 **Subtema:** Ecuaciones binomias y trinomias · Karl Weierstrass
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Su nombre es inseparable del de su discípula Sonia Kowalewski, valiosa matemática rusa.
 

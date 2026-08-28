@@ -1,28 +1,22 @@
-Reactivos totales en los .md: 10180
-Señalados: 248  (2.4%)
+Reactivos totales en los .md: 10097
+Señalados: 108  (1.1%)
 
 POR FAMILIA
-  MARCO       139   algebra-baldor 80, larson-precalculo 42, EMM 12, zill-atg 3, calculo-salazar 1, geografia-lucio-victorio 1
-  PERSONA      68   EMM 19, fisica-perez-montiel 16, historia-mexico-menchaca 14, algebra-baldor 5, zill-atg 5, HCM 4
+  PERSONA      66   EMM 17, fisica-perez-montiel 16, historia-mexico-menchaca 14, algebra-baldor 5, zill-atg 5, HCM 4
   VISUAL       40   EMM 13, zill-atg 7, geografia-lucio-victorio 6, espanol-zarzar 5, fisica-perez-montiel 5, larson-precalculo 3
   LIBRO         1   espanol-zarzar 1
+  MARCO         1   geografia-lucio-victorio 1
 
 POR DETECTOR
-    129  MARCO · recuadro o margen
-         [EMM] "En relación con el libro de Biología, ¿qué sugieren los resultados de las investigaciones del recuadro 14-1 sobre el funcionamient"
-         [EMM] "En relación con el libro de Biología, según el recuadro 33-1, ¿cómo se llaman las señales químicas enviadas y recibidas por indivi"
-     47  PERSONA · autoria o merito
-         [EMM] "De conformidad con el libro de Biología, ¿quién propuso en 1961 un modelo para estimar la probabilidad de existencia de civilizaci"
+     46  PERSONA · autoria o merito
          [EMM] "En relación con el libro de Biología, ¿quién propuso en 1967 la teoría de endosimbiosis en serie?"
+         [EMM] "De conformidad con el libro de Biología, ¿quién fue la figura más trascendente que retomó las ideas de Schrödinger?"
      40  VISUAL · esquema/figura/tabla
          [EMM] "En relación con el libro de Biología, ¿qué representa el gráfico de la figura 14-1, "El vigoroso campo de la epigenética"?"
          [EMM] "De acuerdo con el libro de Biología, ¿qué muestra la figura 14-1 sobre el crecimiento del campo de la epigenética?"
-     16  PERSONA · gentilicio de cientifico
+     15  PERSONA · gentilicio de cientifico
          [EMM] "En relación con el libro de Biología, ¿qué permitieron establecer de manera inequívoca los trabajos del físico inglés James Joule?"
-         [EMM] "De acuerdo con el libro de Biología, según el biólogo y filósofo francés Michel Morange, ¿por qué algunos físicos se sumergieron e"
-      9  MARCO · nota al pie
-         [EMM] "De acuerdo con el libro de Biología, según la nota del cuadro de enzimas digestivas, ¿qué ocurre con la lactasa?"
-         [algebra-baldor] "En relación con el libro de Álgebra, según la nota histórica, ¿a quién se tiene como verdadero precursor de la teoría de los númer"
+         [EMM] "De conformidad con el libro de Biología, en su trabajo *Materiales para el estudio de la variación*, ¿qué resaltó el científico in"
       5  PERSONA · nacimiento o muerte
          [HCM] "En relación con el libro de Historia Universal, ¿qué era distinto cuando nació el plan del ALCA?"
          [algebra-baldor] "En relación con el libro de Álgebra, ¿dónde nació y dónde murió Pitágoras?"

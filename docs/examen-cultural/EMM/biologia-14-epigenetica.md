@@ -3033,9 +3033,7 @@ Otros grupos de investigación, que emplearon un modelo de células cancerosas, 
 ---
 
 ### 156
-
-En relación con el libro de Biología, ¿qué sugieren los resultados de las investigaciones del recuadro 14-1 sobre el funcionamiento normal de las células y de los organismos?
-
+En relación con el libro de Biología, ¿qué sugieren los resultados de las investigaciones sobre el funcionamiento normal de las células y de los organismos?
 - A. Que requiere la ocurrencia de patrones normales de metilación
 - B. Que requiere la ausencia total de metilación del ADN
 - C. Que es independiente de los patrones de metilación

@@ -1,9 +1,7 @@
 archivo	numero	familia	detector	enunciado
-EMM/biologia-03-origen-vida.md	82	PERSONA	autoria o merito	De conformidad con el libro de Biología, ¿quién propuso en 1961 un modelo para estimar la probabilidad de existencia de civilizaciones extraterrestres?
 EMM/biologia-03-origen-vida.md	107	PERSONA	autoria o merito	En relación con el libro de Biología, ¿quién propuso en 1967 la teoría de endosimbiosis en serie?
 EMM/biologia-07-metabolismo.md	15	PERSONA	gentilicio de cientifico	En relación con el libro de Biología, ¿qué permitieron establecer de manera inequívoca los trabajos del físico inglés James Joule?
 EMM/biologia-07-metabolismo.md	50	PERSONA	autoria o merito	De conformidad con el libro de Biología, ¿quién fue la figura más trascendente que retomó las ideas de Schrödinger?
-EMM/biologia-07-metabolismo.md	238	PERSONA	gentilicio de cientifico	De acuerdo con el libro de Biología, según el biólogo y filósofo francés Michel Morange, ¿por qué algunos físicos se sumergieron en la naturaleza de lo vivo?
 EMM/biologia-08-glucolisis-respiracion.md	107	PERSONA	autoria o merito	De conformidad con el libro de Biología, ¿quién propuso que la síntesis de ATP era impulsada por un gradiente de protones, y en qué década?
 EMM/biologia-14-epigenetica.md	15	VISUAL	esquema/figura/tabla	En relación con el libro de Biología, ¿qué representa el gráfico de la figura 14-1, "El vigoroso campo de la epigenética"?
 EMM/biologia-14-epigenetica.md	16	VISUAL	esquema/figura/tabla	De acuerdo con el libro de Biología, ¿qué muestra la figura 14-1 sobre el crecimiento del campo de la epigenética?
@@ -12,7 +10,6 @@ EMM/biologia-14-epigenetica.md	92	PERSONA	autoria o merito	De conformidad con el
 EMM/biologia-14-epigenetica.md	105	PERSONA	autoria o merito	En relación con el libro de Biología, ¿quién propuso la metáfora del *switch* en el contexto del modelo del paisaje epigenético de Conrad Waddington?
 EMM/biologia-14-epigenetica.md	127	VISUAL	esquema/figura/tabla	De acuerdo con el libro de Biología, ¿qué muestra la figura 14-7 sobre la neurona y la célula hepática de mamífero?
 EMM/biologia-14-epigenetica.md	151	VISUAL	esquema/figura/tabla	De acuerdo con el libro de Biología, ¿qué representan los puntos amarillos de la figura 14-9?
-EMM/biologia-14-epigenetica.md	156	MARCO	recuadro o margen	En relación con el libro de Biología, ¿qué sugieren los resultados de las investigaciones del recuadro 14-1 sobre el funcionamiento normal de las células y de l
 EMM/biologia-15-bases-moleculares-desarrollo.md	4	PERSONA	autoria o merito	De acuerdo con el libro de Biología, ¿quién fue el primero en estudiar el desarrollo de embriones de ave de manera secuencial?
 EMM/biologia-15-bases-moleculares-desarrollo.md	16	VISUAL	esquema/figura/tabla	De acuerdo con el libro de Biología, según la representación de los homúnculos de la figura 15-2, ¿qué se encontraba en la cabeza de los espermatozoides?
 EMM/biologia-15-bases-moleculares-desarrollo.md	74	PERSONA	autoria o merito	En relación con el libro de Biología, ¿quién propuso el modelo de la bandera francesa para explicar el papel del gradiente de concentración de un morfógeno en l
@@ -25,17 +22,6 @@ EMM/biologia-32-sistema-nervioso.md	193	PERSONA	autoria o merito	De acuerdo con 
 EMM/biologia-32-sistema-nervioso.md	194	PERSONA	autoria o merito	De acuerdo con el libro de Biología, ¿quién llamó "sinapsis" a esas zonas, sobre la base de sus experimentos acerca de la velocidad de propagación de la señal e
 EMM/biologia-32-sistema-nervioso.md	199	VISUAL	esquema/figura/tabla	De acuerdo con el libro de Biología, según la figura 32-14a, ¿qué muestra la neurona en formación en cultivo?
 EMM/biologia-32-sistema-nervioso.md	216	VISUAL	esquema/figura/tabla	De acuerdo con el libro de Biología, según la figura 32-16, ¿qué se observa en las terminales axónicas que forman sinapsis con la dendrita?
-EMM/biologia-33-percepcion-sensorial.md	91	MARCO	recuadro o margen	En relación con el libro de Biología, según el recuadro 33-1, ¿cómo se llaman las señales químicas enviadas y recibidas por individuos de la misma especie?
-EMM/biologia-33-percepcion-sensorial.md	92	MARCO	recuadro o margen	De acuerdo con el libro de Biología, según el recuadro 33-1, ¿qué son las feromonas?
-EMM/biologia-33-percepcion-sensorial.md	93	MARCO	recuadro o margen	Según el libro de Biología, según el recuadro 33-1, ¿en qué se diferencian las feromonas de otras señales?
-EMM/biologia-33-percepcion-sensorial.md	94	MARCO	recuadro o margen	De acuerdo con el libro de Biología, según el recuadro 33-1, ¿por qué se afirma que las feromonas son muy poderosas?
-EMM/biologia-33-percepcion-sensorial.md	95	MARCO	recuadro o margen	En relación con el libro de Biología, según el recuadro 33-1, ¿cuál sería la función del órgano vomeronasal?
-EMM/biologia-33-percepcion-sensorial.md	96	MARCO	recuadro o margen	De acuerdo con el libro de Biología, según el recuadro 33-1, ¿qué se concluye hoy acerca del órgano vomeronasal humano?
-EMM/biologia-33-percepcion-sensorial.md	117	MARCO	recuadro o margen	Según el libro de Biología, según el recuadro 33-2, ¿qué es el electroencefalograma (EEG)?
-EMM/biologia-33-percepcion-sensorial.md	118	MARCO	recuadro o margen	De acuerdo con el libro de Biología, según el recuadro 33-2, ¿para qué es una herramienta útil la electroencefalografía?
-EMM/biologia-33-percepcion-sensorial.md	119	MARCO	recuadro o margen	En relación con el libro de Biología, según el recuadro 33-2, ¿qué brindan la tomografía computarizada (TC) y las imágenes por resonancia magnética (RM)?
-EMM/biologia-33-percepcion-sensorial.md	120	MARCO	recuadro o margen	Según el libro de Biología, según el recuadro 33-2, ¿qué son la tomografía por emisión de positrones (TEP) y la resonancia magnética funcional (RMf)?
-EMM/biologia-37-digestion.md	60	MARCO	nota al pie	De acuerdo con el libro de Biología, según la nota del cuadro de enzimas digestivas, ¿qué ocurre con la lactasa?
 EMM/quimica-02-atomos-moleculas-iones.md	1	PERSONA	gentilicio de cientifico	De acuerdo con el libro de Química, ¿qué creencia expresó el filósofo griego Demócrito en el siglo V a.C. sobre la materia?
 EMM/quimica-02-atomos-moleculas-iones.md	4	PERSONA	autoria o merito	En relación con el libro de Química, ¿quién formuló en 1808 una definición precisa de los bloques de construcción indivisibles de la materia que llamamos átomos
 EMM/quimica-02-atomos-moleculas-iones.md	19	PERSONA	gentilicio de cientifico	De conformidad con el libro de Química, ¿qué determinó el físico inglés J. J. Thomson usando un tubo de rayos catódicos?
@@ -50,90 +36,9 @@ HCM/historia-06-mundo-contemporaneo.md	578	PERSONA	nacimiento o muerte	En relaci
 algebra-baldor/algebra-00-preliminares.md	113	PERSONA	autoria o merito	En relación con el libro de Álgebra, ¿quién fue el primero en comprender la verdadera naturaleza de los números negativos?
 algebra-baldor/algebra-00-preliminares.md	124	VISUAL	esquema/figura/tabla	De acuerdo con el diagrama de clases de números del libro de Álgebra, ¿en qué se dividen los números racionales?
 algebra-baldor/algebra-01-suma.md	9	PERSONA	autoria o merito	En relación con el libro de Álgebra, ¿a quién se debe el papiro de Rhind?
-algebra-baldor/algebra-02-resta.md	5	MARCO	recuadro o margen	En relación con el libro de Álgebra, ¿qué pueblos hicieron una enorme contribución al acervo matemático de la humanidad, según el recuadro del capítulo II?
 algebra-baldor/algebra-03-signos-agrupacion.md	1	PERSONA	autoria o merito	De conformidad con el libro de Álgebra, ¿quién fue Thales de Mileto?
 algebra-baldor/algebra-04-multiplicacion.md	1	PERSONA	nacimiento o muerte	En relación con el libro de Álgebra, ¿dónde nació y dónde murió Pitágoras?
-algebra-baldor/algebra-08-ecuaciones-primer-grado.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué fue Claudio Ptolomeo?
-algebra-baldor/algebra-08-ecuaciones-primer-grado.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿dónde nació Claudio Ptolomeo?
-algebra-baldor/algebra-08-ecuaciones-primer-grado.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿durante cuánto tiempo dominó la Astronomía el sistema geocéntrico de Ptolomeo?
-algebra-baldor/algebra-08-ecuaciones-primer-grado.md	4	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿de qué disciplina fue uno de los fundadores Ptolomeo?
-algebra-baldor/algebra-08-ecuaciones-primer-grado.md	5	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿cuál es la obra principal de Ptolomeo?
-algebra-baldor/algebra-08-ecuaciones-primer-grado.md	6	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿hasta qué siglo se utilizó el Almagesto en las universidades?
-algebra-baldor/algebra-10-descomposicion-factorial.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de quién era hija Hypatia?
-algebra-baldor/algebra-10-descomposicion-factorial.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿por qué se hizo célebre Hypatia?
-algebra-baldor/algebra-10-descomposicion-factorial.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿dónde nació Hypatia?
-algebra-baldor/algebra-10-descomposicion-factorial.md	4	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, al regresar a Alejandría, ¿qué funda Hypatia?
-algebra-baldor/algebra-10-descomposicion-factorial.md	5	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿al frente de qué pensamiento se pone Hypatia?
-algebra-baldor/algebra-10-descomposicion-factorial.md	6	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿por los comentarios a las obras de quiénes se distinguió Hypatia?
-algebra-baldor/algebra-11-maximo-comun-divisor.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué conoció Aryabhata, del siglo V?
-algebra-baldor/algebra-11-maximo-comun-divisor.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué expuso Brahmagupta en sus obras *Ganita* y *Cuttaca*?
-algebra-baldor/algebra-11-maximo-comun-divisor.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿cuál es la obra de Bháskara, del siglo XII?
-algebra-baldor/algebra-12-minimo-comun-multiplo.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿quiénes fueron los verdaderos sistematizadores del Álgebra?
-algebra-baldor/algebra-12-minimo-comun-multiplo.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué hizo Al Juarismi, persa del siglo IX?
-algebra-baldor/algebra-12-minimo-comun-multiplo.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿a qué aplicó el Álgebra Al Batani, sirio (858-929)?
-algebra-baldor/algebra-12-minimo-comun-multiplo.md	4	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿por qué es conocido Omar Khayyan, persa del siglo XII?
-algebra-baldor/algebra-13-fracciones-algebraicas.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿en qué ciudades alcanza elevado desarrollo la cultura árabe?
-algebra-baldor/algebra-13-fracciones-algebraicas.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué siglos abarcan las universidades hispano-árabes?
-algebra-baldor/algebra-13-fracciones-algebraicas.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué fluye de las universidades hispano-árabes hacia Europa?
-algebra-baldor/algebra-13-fracciones-algebraicas.md	4	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué rectificó Geber Ibn-Aphla?
-algebra-baldor/algebra-13-fracciones-algebraicas.md	5	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué ciudad y siglo es Geber Ibn-Aphla?
-algebra-baldor/algebra-13-fracciones-algebraicas.md	6	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué fue autor Arzaquel?
-algebra-baldor/algebra-13-fracciones-algebraicas.md	7	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué era Ben Ezra?
-algebra-baldor/algebra-14-operaciones-fracciones.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿a través de qué se introdujo en Europa la Matemática hispano-árabe?
-algebra-baldor/algebra-14-operaciones-fracciones.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿a qué universidades se trasladaron los eruditos?
-algebra-baldor/algebra-14-operaciones-fracciones.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿quién puso en latín las obras de Al Juarismi?
-algebra-baldor/algebra-14-operaciones-fracciones.md	4	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué tradujo Juan de Sacrobosco o Holywood?
-algebra-baldor/algebra-14-operaciones-fracciones.md	5	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿quién fue el más distinguido de los traductores?
-algebra-baldor/algebra-14-operaciones-fracciones.md	6	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué dio una visión latina Adelardo de Bath?
-algebra-baldor/algebra-18-formulas.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué título nobiliario tenía John Neper?
-algebra-baldor/algebra-18-formulas.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿qué introdujo John Neper para separar las cifras decimales de las enteras?
-algebra-baldor/algebra-18-formulas.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, al observar las relaciones entre las progresiones aritméticas y geométricas, ¿qué descubrió Neper?
-algebra-baldor/algebra-18-formulas.md	4	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿con quién surgió una discusión acerca de quién había sido el primero en trabajar con los logaritmos?
-algebra-baldor/algebra-20-funciones.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿cómo llamó Pascal a Pierre Fermat?
-algebra-baldor/algebra-20-funciones.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿con quién puede considerarse Fermat como el más grande matemático del siglo XVII?
-algebra-baldor/algebra-20-funciones.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿en qué trabajó incansablemente Fermat?
 algebra-baldor/algebra-20-funciones.md	8	PERSONA	autoria o merito	En relación con el libro de Álgebra, ¿a quién se debe la definición moderna de función?
-algebra-baldor/algebra-21-representacion-grafica.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿por qué es quizá más conocido Blas Pascal (1623-1662)?
-algebra-baldor/algebra-21-representacion-grafica.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué había demostrado Pascal a los doce años, según dice su hermana Gilberte?
-algebra-baldor/algebra-21-representacion-grafica.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿al sostener correspondencia con quién sienta Pascal las bases de la teoría de las probabilida
-algebra-baldor/algebra-21-representacion-grafica.md	4	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué trabajo de Pascal escribió cuando era un niño?
-algebra-baldor/algebra-24-ecuaciones-simultaneas.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué nacionalidad era Brook Taylor?
-algebra-baldor/algebra-24-ecuaciones-simultaneas.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿cómo se titula la obra fundamental de Brook Taylor?
-algebra-baldor/algebra-24-ecuaciones-simultaneas.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿qué contiene la obra fundamental de Brook Taylor?
-algebra-baldor/algebra-24-ecuaciones-simultaneas.md	4	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro, ¿de qué teorema es consecuencia el Teorema de Taylor?
-algebra-baldor/algebra-25-ecuaciones-simultaneas-tres-incognitas.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué nacionalidad era Leonard Euler?
-algebra-baldor/algebra-25-ecuaciones-simultaneas-tres-incognitas.md	2	MARCO	recuadro o margen	De acuerdo con el libro de Álgebra, según el recuadro histórico, ¿en qué ciudad nació Leonard Euler?
-algebra-baldor/algebra-25-ecuaciones-simultaneas-tres-incognitas.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de quién fue alumno Leonard Euler?
-algebra-baldor/algebra-25-ecuaciones-simultaneas-tres-incognitas.md	4	MARCO	recuadro o margen	De acuerdo con el libro de Álgebra, según el recuadro histórico, ¿por qué obra puede considerarse Leonard Euler el fundador de la ciencia moderna?
-algebra-baldor/algebra-25-ecuaciones-simultaneas-tres-incognitas.md	5	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué le ocurrió a Leonard Euler durante los últimos diecisiete años de su vida?
-algebra-baldor/algebra-32-numeros-complejos.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué nacionalidad era Nicolás Lobatchevski (1793-1856) y en qué universidad estudió?
-algebra-baldor/algebra-32-numeros-complejos.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué idea combate Lobatchevski?
-algebra-baldor/algebra-32-numeros-complejos.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué cuerpo de verdades —intacto por más de 22 siglos— combate Lobatchevski?
-algebra-baldor/algebra-32-numeros-complejos.md	4	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué se puede considerar precursor a Lobatchevski?
-algebra-baldor/algebra-32-numeros-complejos.md	23	MARCO	nota al pie	En relación con el libro de Álgebra, según la nota histórica, ¿a quién se tiene como verdadero precursor de la teoría de los números complejos?
-algebra-baldor/algebra-32-numeros-complejos.md	24	MARCO	nota al pie	En relación con el libro de Álgebra, según la nota histórica, ¿quién llamó "número imaginario" al número no real componente de un complejo?
-algebra-baldor/algebra-32-numeros-complejos.md	25	MARCO	nota al pie	En relación con el libro de Álgebra, según la nota histórica, ¿hasta que quién no sancionó su uso no adquirieron vigencia los números complejos en las matemátic
-algebra-baldor/algebra-32-numeros-complejos.md	26	MARCO	nota al pie	En relación con el libro de Álgebra, según la nota histórica, ¿quién fue quien más contribuyó a incorporar los números complejos, brindando una interpretación g
-algebra-baldor/algebra-33-ecuaciones-segundo-grado.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué nacionalidad era Niels Henrik Abel?
-algebra-baldor/algebra-33-ecuaciones-segundo-grado.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿con quién obtuvo Abel el Gran Premio de Matemáticas del Instituto de Francia?
-algebra-baldor/algebra-33-ecuaciones-segundo-grado.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿por qué trabajo obtuvo Abel el Gran Premio de Matemáticas del Instituto de Francia?
-algebra-baldor/algebra-33-ecuaciones-segundo-grado.md	4	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué demostró Abel la imposibilidad de la resolución?
-algebra-baldor/algebra-33-ecuaciones-segundo-grado.md	5	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué teorema demostró Abel?
-algebra-baldor/algebra-33-ecuaciones-segundo-grado.md	37	MARCO	nota al pie	En relación con el libro de Álgebra, según la NOTA, cuando al aplicar la fórmula la cantidad subradical de √(b²−4ac) es negativa, ¿cómo son las raíces?
-algebra-baldor/algebra-36-ecuaciones-binomias-trinomias.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué nacionalidad era Karl Weierstrass?
-algebra-baldor/algebra-36-ecuaciones-binomias-trinomias.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué universidad fue profesor Weierstrass?
-algebra-baldor/algebra-36-ecuaciones-binomias-trinomias.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué puede considerarse a Weierstrass el verdadero padre?
-algebra-baldor/algebra-36-ecuaciones-binomias-trinomias.md	4	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué problema abordó Weierstrass en sus primeras investigaciones?
-algebra-baldor/algebra-36-ecuaciones-binomias-trinomias.md	5	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿al estudio de qué se dedicó Weierstrass durante el resto de su vida?
-algebra-baldor/algebra-36-ecuaciones-binomias-trinomias.md	6	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué discípula es inseparable el nombre de Weierstrass?
-algebra-baldor/algebra-38-logaritmos.md	1	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué nacionalidad era Max Planck?
-algebra-baldor/algebra-38-logaritmos.md	2	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué premio recibió Max Planck y en qué año?
-algebra-baldor/algebra-38-logaritmos.md	3	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿alrededor de qué se desarrollaron los estudios de Planck?
-algebra-baldor/algebra-38-logaritmos.md	4	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿qué famosa teoría introdujo Planck al llevar a cabo la renovación de la Física?
-algebra-baldor/algebra-38-logaritmos.md	5	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿en qué está basada la teoría de los quanta?
-algebra-baldor/algebra-38-logaritmos.md	6	MARCO	recuadro o margen	En relación con el libro de Álgebra, según el recuadro histórico, ¿cuál es la base de la Física moderna?
-algebra-baldor/algebra-38-logaritmos.md	37	MARCO	nota al pie	En relación con el libro de Álgebra, según la nota, ¿en qué expresiones NO se puede hallar el valor por medio de logaritmos?
-calculo-salazar/calculo-01-conceptos-esenciales-funciones.md	73	MARCO	nota al pie	De acuerdo con el libro de Cálculo, según la nota, ¿qué forma de representación tiene todo número racional?
 espanol-zarzar/espanol-03-proceso-escritura.md	88	VISUAL	esquema/figura/tabla	De acuerdo con el libro de Taller de Lectura y Redacción 1, según la tabla de ejemplos de conectores textuales, ¿qué significado tiene el conector "Sin embargo…
 espanol-zarzar/espanol-03-proceso-escritura.md	89	VISUAL	esquema/figura/tabla	De acuerdo con el libro de Taller de Lectura y Redacción 1, según la tabla de ejemplos de conectores textuales, ¿qué significado tiene el conector "En contrapos
 espanol-zarzar/espanol-03-proceso-escritura.md	90	VISUAL	esquema/figura/tabla	De acuerdo con el libro de Taller de Lectura y Redacción 1, según la tabla de ejemplos de conectores textuales, ¿qué significado tiene el conector "Dicho de otr
@@ -186,59 +91,14 @@ historia-mexico-menchaca/historia-mexico-05-independencia.md	165	PERSONA	autoria
 historia-mexico-menchaca/historia-mexico-05-independencia.md	176	PERSONA	nacimiento o muerte	De acuerdo con el libro de Historia de México 1, ¿cuándo murió Hermenegildo Galeana, hecho que mermó aún más la moral del Siervo de la Nación?
 historia-mexico-menchaca/historia-mexico-05-independencia.md	178	PERSONA	nacimiento o muerte	De acuerdo con el libro de Historia de México 1, ¿dónde y cuándo murió fusilado José María Morelos?
 historia-mexico-menchaca/historia-mexico-05-independencia.md	292	PERSONA	autoria o merito	En relación con el libro de Historia de México 1, según el propio libro, ¿quién fue el artífice de la Independencia, aunque haya sido por intereses personales?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	4	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, en el recuadro de la notación exponencial, ¿qué debe ser n?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	5	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, en el recuadro de la notación exponencial, ¿qué debe ser a?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	11	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, en el recuadro de las propiedades de los exponentes, ¿qué pueden ser a y b?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	12	MARCO	recuadro o margen	En relación con el libro de Matemáticas, en el recuadro de las propiedades de los exponentes, ¿qué deben ser m y n?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	13	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, ¿qué condición pone el recuadro de las propiedades de los exponentes sobre los denominadores y las bases?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	54	MARCO	recuadro o margen	En relación con el libro de Matemáticas, en el recuadro de las propiedades de los radicales, ¿qué deben ser m y n?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	71	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué es importante cuidar cuando se simplifica un radical?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	76	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿a qué no es igual √(x + y) en general?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	77	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿a qué no es igual √(x² + y²)?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	85	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué también es cierto si m y n no tienen factores comunes?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	87	MARCO	recuadro o margen	En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿por qué una expresión que contiene x^(−3/4) no está definida cuando x = 0?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	101	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿en qué dos casos una expresión no es un polinomio?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	107	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué debe recordarse cuando un signo negativo precede a una expresión dentro de un par
-larson-precalculo/matematicas-01-fundamentos-algebra.md	109	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, en el recuadro de los productos especiales, ¿qué pueden ser u y v?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	132	MARCO	recuadro o margen	En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cuál es el primer paso de la factorización de un polinomio?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	133	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué ocurre una vez que se han eliminado todos los factores comunes?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	141	MARCO	recuadro o margen	En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué puede implicar factorizar un trinomio?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	142	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo se comprueba la respuesta de una factorización?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	147	MARCO	recuadro o margen	En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué ocurre a veces al factorizar por agrupación?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	164	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué debe hacerse después de resolver una ecuación?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	168	MARCO	recuadro o margen	En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué ecuación puede deshacerse de los denominadores mediante multiplicación cruzada?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	169	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo se hace la multiplicación cruzada?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	180	MARCO	recuadro o margen	En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿con qué dos métodos es posible resolver todas las ecuaciones cuadráticas?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	186	MARCO	recuadro o margen	En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cuál es un error común al resolver una ecuación polinomial?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	187	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué se pierde al dividir cada miembro entre el factor variable?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	188	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cuál es el procedimiento correcto para resolver una ecuación polinomial?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	190	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué operaciones pueden introducir soluciones extrañas?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	191	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué resulta crucial cuando se usan esas operaciones?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	192	MARCO	recuadro o margen	En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué ocurre cuando una ecuación contiene dos expresiones radicales?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	212	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, en el recuadro de las propiedades de los logaritmos, ¿qué deben ser u y v?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	216	MARCO	recuadro o margen	En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿existe alguna propiedad general para reescribir log_a(u ± v)?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	217	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿a qué no es igual log_a(u + v)?
 larson-precalculo/matematicas-01-fundamentos-algebra.md	218	PERSONA	autoria o merito	De conformidad con el libro de Matemáticas, ¿quién inventó los logaritmos y de qué nacionalidad era?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	241	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿para qué debe comprobarse cada solución en la ecuación original?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	251	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo debe comprobarse siempre la solución de un sistema?
-larson-precalculo/matematicas-01-fundamentos-algebra.md	278	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿en qué forma ayuda escribir las ecuaciones al resolver gráficamente un sistema lineal
-larson-precalculo/matematicas-02-fundamentos-trigonometria.md	21	MARCO	recuadro o margen	En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo se divide un periodo-intervalo en cuatro partes iguales?
-larson-precalculo/matematicas-02-fundamentos-trigonometria.md	34	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿cómo se miden los rumbos en navegación aérea?
-larson-precalculo/matematicas-02-fundamentos-trigonometria.md	54	MARCO	recuadro o margen	En relación con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué puede ser u en las identidades trigonométricas fundamentales?
-larson-precalculo/matematicas-03-fundamentos-geometria-analitica.md	31	MARCO	recuadro o margen	De acuerdo con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué indica una pendiente positiva?
-larson-precalculo/matematicas-03-fundamentos-geometria-analitica.md	32	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, ¿qué indica una pendiente no definida?
-larson-precalculo/matematicas-03-fundamentos-geometria-analitica.md	35	MARCO	recuadro o margen	De conformidad con el libro de Matemáticas, según el recuadro COMENTARIO, al hallar la ecuación de la recta que pasa por dos puntos, ¿cuál de ellos debe sustitu
 larson-precalculo/matematicas-03-fundamentos-geometria-analitica.md	59	VISUAL	esquema/figura/tabla	De conformidad con el libro de Matemáticas, según la figura 3.30, ¿cuáles son las cuatro cónicas básicas?
 larson-precalculo/matematicas-03-fundamentos-geometria-analitica.md	60	VISUAL	esquema/figura/tabla	En relación con el libro de Matemáticas, según la figura 3.31, ¿cuáles son las cónicas degeneradas?
 larson-precalculo/matematicas-03-fundamentos-geometria-analitica.md	79	VISUAL	esquema/figura/tabla	De conformidad con el libro de Matemáticas, con base en la figura 3.37 y usando un punto como vértice, ¿a qué es igual la suma constante de las distancias desde
-larson-precalculo/matematicas-03-fundamentos-geometria-analitica.md	80	MARCO	recuadro o margen	En relación con el libro de Matemáticas, según el recuadro COMENTARIO, geométricamente, ¿qué ocurre cuando a = b en la ecuación de una elipse?
 zill-atg/zill-02-conceptos-fundamentales-algebra.md	2	PERSONA	autoria o merito	De conformidad con el libro de Geometría Analítica, ¿quién fue el más grande matemático francés del siglo XVI?
-zill-atg/zill-04-coordenadas-rectangulares.md	9	MARCO	recuadro o margen	En relación con el libro de Geometría Analítica, según el recuadro histórico, ¿de qué se considera inventor a Descartes, y en qué obra se establecieron sus prin
-zill-atg/zill-04-coordenadas-rectangulares.md	10	MARCO	recuadro o margen	En relación con el libro de Geometría Analítica, según el recuadro histórico, ¿cómo se le llama a menudo a Descartes en filosofía y cuál es su famosa frase?
 zill-atg/zill-04-coordenadas-rectangulares.md	27	VISUAL	esquema/figura/tabla	En relación con el libro de Geometría Analítica, ¿cómo se llama cada una de las cuatro gráficas (mitad superior, inferior, derecha e izquierda) de la figura 4.2
 zill-atg/zill-08-trigonometria-triangulo-rectangulo.md	2	PERSONA	autoria o merito	En relación con el libro de Geometría Analítica, según la reseña histórica, ¿quién fue uno de los principales inventores de la trigonometría y qué elaboró?
 zill-atg/zill-08-trigonometria-triangulo-rectangulo.md	3	PERSONA	autoria o merito	En relación con el libro de Geometría Analítica, según la reseña histórica, ¿quién fue el primer matemático europeo que definió las funciones trigonométricas di
-zill-atg/zill-08-trigonometria-triangulo-rectangulo.md	11	MARCO	nota al pie	En relación con el libro de Geometría Analítica, según la nota al pie, ¿a qué cultura se remonta el uso del número 60 como base?
 zill-atg/zill-08-trigonometria-triangulo-rectangulo.md	18	VISUAL	esquema/figura/tabla	En relación con el libro de Geometría Analítica, según la Tabla 8.1.1, ¿cuál es la medida en radianes de los ángulos de 30°, 45°, 60° y 90°?
 zill-atg/zill-08-trigonometria-triangulo-rectangulo.md	45	VISUAL	esquema/figura/tabla	En relación con el libro de Geometría Analítica, según la Tabla 8.3.1, ¿cuáles son los valores exactos de la tangente de 30°, 45° y 60°?
 zill-atg/zill-08-trigonometria-triangulo-rectangulo.md	53	VISUAL	esquema/figura/tabla	En relación con el libro de Geometría Analítica, según la Figura 8.4.5, ¿qué funciones trigonométricas son positivas en cada cuadrante?

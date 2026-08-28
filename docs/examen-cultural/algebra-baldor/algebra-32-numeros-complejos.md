@@ -79,6 +79,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 437
 **Subtema:** Números complejos · Nicolás Lobatchevski
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Nicolás Lobatchevski (1793-1856). Matemático ruso. Estudió en la Universidad de Kazán, de la que fue posteriormente profesor y decano de su Facultad de Matemáticas y Rector.
 
@@ -94,6 +95,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué ide
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 437
 **Subtema:** Números complejos · Nicolás Lobatchevski
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Lobatchevski combate la idea del espacio que tiene Kant y establece la relatividad de esta noción.
 
@@ -109,6 +111,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué cue
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 437
 **Subtema:** Números complejos · Nicolás Lobatchevski
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Igualmente combate la Geometría de Euclides, inconmovible cuerpo de verdades que se mantiene intacta por más de 22 siglos.
 
@@ -124,6 +127,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 437
 **Subtema:** Números complejos · Nicolás Lobatchevski
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Puede considerársele el precursor de la teoría de la relatividad y de las Geometrías no euclidianas.
 
@@ -428,6 +432,7 @@ En relación con el libro de Álgebra, según la nota histórica, ¿a quién se 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 440
 **Subtema:** Números complejos · Nota histórica
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Se tiene como verdadero precursor de la teoría de estos números a Bombelli (siglo XVI, italiano).
 
@@ -443,6 +448,7 @@ En relación con el libro de Álgebra, según la nota histórica, ¿quién llam�
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 440
 **Subtema:** Números complejos · Nota histórica
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Más tarde, Descartes llamó número imaginario al número no real componente de un complejo.
 
@@ -458,6 +464,7 @@ En relación con el libro de Álgebra, según la nota histórica, ¿hasta que qu
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 440
 **Subtema:** Números complejos · Nota histórica
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Estos números no adquirieron vigencia en las matemáticas hasta que Euler no sancionó su uso.
 
@@ -473,6 +480,7 @@ En relación con el libro de Álgebra, según la nota histórica, ¿quién fue q
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 440
 **Subtema:** Números complejos · Nota histórica
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Quien más contribuyó a que los números complejos se incorporaran definitivamente a la ciencia matemática fue C. Wessel (1745-1818, danés), que brindó una interpretación geométrica de los números complejos.
 

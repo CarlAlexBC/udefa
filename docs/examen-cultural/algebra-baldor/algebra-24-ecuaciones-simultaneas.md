@@ -111,6 +111,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 319
 **Subtema:** Ecuaciones simultáneas · Brook Taylor
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Brook Taylor (1685-1731), matemático y hombre de ciencia inglés.
 
@@ -126,6 +127,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿cómo se titula la 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 319
 **Subtema:** Ecuaciones simultáneas · Brook Taylor
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Su obra fundamental, "Método de los incrementos directos e inversos", contiene los principios básicos del cálculo de las diferencias finitas.
 
@@ -141,6 +143,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿qué contiene la ob
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 319
 **Subtema:** Ecuaciones simultáneas · Brook Taylor
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Su obra fundamental contiene los principios básicos del cálculo de las diferencias finitas.
 
@@ -156,6 +159,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿de qué teorema es 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 319
 **Subtema:** Ecuaciones simultáneas · Brook Taylor
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 En el Álgebra elemental conocemos el Teorema de Taylor, cuya consecuencia es el Teorema de Maclaurin.
 
@@ -592,4 +596,4 @@ El numerador es la determinante que se obtiene sustituyendo en la determinante d
 
 ---
 
-**Reactivos en este archivo:** 31
+**Reactivos en este archivo:** 27

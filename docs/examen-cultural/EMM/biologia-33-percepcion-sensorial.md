@@ -1433,9 +1433,7 @@ La mucosa olfatoria es uno de los pocos lugares del sistema nervioso en donde ex
 ## Sub-lote 13 · Recuadro 33-1 · Comunicación química: feromonas y órgano vomeronasal (p. 788)
 
 ### 91
-
-En relación con el libro de Biología, según el recuadro 33-1, ¿cómo se llaman las señales químicas enviadas y recibidas por individuos de la misma especie?
-
+En relación con el libro de Biología, ¿cómo se llaman las señales químicas enviadas y recibidas por individuos de la misma especie?
 - A. Feromonas
 - B. Hormonas
 - C. Neurotransmisores
@@ -1448,9 +1446,7 @@ En relación con el libro de Biología, según el recuadro 33-1, ¿cómo se llam
 Las señales químicas enviadas y recibidas por individuos de la misma especie se llaman feromonas.
 
 ### 92
-
-De acuerdo con el libro de Biología, según el recuadro 33-1, ¿qué son las feromonas?
-
+De acuerdo con el libro de Biología, ¿qué son las feromonas?
 - A. Moléculas que pueden contener mensajes muy específicos, con una gran cantidad de información, y que afectan al comportamiento o a los procesos fisiológicos del otro
 - B. Células especializadas que captan la luz y la transforman en impulsos nerviosos
 - C. Prolongaciones de las neuronas que conducen el impulso hacia el cuerpo celular
@@ -1463,9 +1459,7 @@ De acuerdo con el libro de Biología, según el recuadro 33-1, ¿qué son las fe
 La mayoría de las especies se comunican mediante feromonas: moléculas que pueden contener mensajes muy específicos, con una gran cantidad de información, y que afectan al comportamiento o a los procesos fisiológicos del otro.
 
 ### 93
-
-Según el libro de Biología, según el recuadro 33-1, ¿en qué se diferencian las feromonas de otras señales?
-
+Según el libro de Biología, ¿en qué se diferencian las feromonas de otras señales?
 - A. En que pueden persistir en el ambiente durante mucho tiempo
 - B. En que se destruyen apenas son liberadas al ambiente
 - C. En que sólo actúan por contacto directo entre dos individuos
@@ -1478,9 +1472,7 @@ Según el libro de Biología, según el recuadro 33-1, ¿en qué se diferencian 
 A diferencia de otras señales, las feromonas pueden persistir en el ambiente durante mucho tiempo.
 
 ### 94
-
-De acuerdo con el libro de Biología, según el recuadro 33-1, ¿por qué se afirma que las feromonas son muy poderosas?
-
+De acuerdo con el libro de Biología, ¿por qué se afirma que las feromonas son muy poderosas?
 - A. Porque unas cuantas moléculas liberadas en el aire o en el agua a través de la orina, el sudor u otras secreciones corporales bastan para influir en el comportamiento de otro animal
 - B. Porque cada molécula transporta la totalidad del código genético del individuo
 - C. Porque son las moléculas más grandes y pesadas del organismo
@@ -1493,9 +1485,7 @@ De acuerdo con el libro de Biología, según el recuadro 33-1, ¿por qué se afi
 Son muy poderosas: unas cuantas moléculas de feromonas liberadas en el aire o en el agua a través de la orina, el sudor u otras secreciones corporales bastan para influir en el comportamiento de otro animal.
 
 ### 95
-
-En relación con el libro de Biología, según el recuadro 33-1, ¿cuál sería la función del órgano vomeronasal?
-
+En relación con el libro de Biología, ¿cuál sería la función del órgano vomeronasal?
 - A. Responder a los estímulos provistos por las feromonas y enviar señales a diversas zonas del cerebro
 - B. Regular la temperatura del aire que ingresa por la nariz
 - C. Producir las lágrimas que lubrican la superficie del ojo
@@ -1508,9 +1498,7 @@ En relación con el libro de Biología, según el recuadro 33-1, ¿cuál sería 
 Un pequeño órgano del sistema nasal, el órgano vomeronasal, presente en mamíferos, reptiles y anfibios, sería el encargado de responder a los estímulos provistos por las feromonas y de enviar señales a diversas zonas del cerebro.
 
 ### 96
-
-De acuerdo con el libro de Biología, según el recuadro 33-1, ¿qué se concluye hoy acerca del órgano vomeronasal humano?
-
+De acuerdo con el libro de Biología, ¿qué se concluye hoy acerca del órgano vomeronasal humano?
 - A. Que no se trata de un vestigio, sino de un órgano funcional
 - B. Que es un órgano vestigial sin ninguna importancia fisiológica
 - C. Que no existe en la especie humana
@@ -1831,9 +1819,7 @@ En relación con el libro de Biología, ¿cuál es la causa del gran tamaño de 
 La causa del gran tamaño de los hemisferios cerebrales de los mamíferos es precisamente el crecimiento y el desarrollo de la neocorteza, la cual desplazó a las otras cortezas hacia las regiones basales del cerebro.
 
 ### 117
-
-Según el libro de Biología, según el recuadro 33-2, ¿qué es el electroencefalograma (EEG)?
-
+Según el libro de Biología, ¿qué es el electroencefalograma (EEG)?
 - A. El registro de la actividad bioeléctrica en distintos puntos de la corteza cerebral, registrada sobre el cuero cabelludo
 - B. La representación detallada de los tejidos blandos obtenida con rayos X
 - C. El estudio del encéfalo mediante microelectrodos insertados en el cerebro
@@ -1846,9 +1832,7 @@ Según el libro de Biología, según el recuadro 33-2, ¿qué es el electroencef
 El electroencefalograma (EEG) es el registro de la actividad bioeléctrica en distintos puntos de la corteza cerebral, registrada sobre el cuero cabelludo (no invasivo).
 
 ### 118
-
-De acuerdo con el libro de Biología, según el recuadro 33-2, ¿para qué es una herramienta útil la electroencefalografía?
-
+De acuerdo con el libro de Biología, ¿para qué es una herramienta útil la electroencefalografía?
 - A. Para el estudio del sueño y sus patologías, y para el diagnóstico y el registro de enfermedades, como la epilepsia y los tumores cerebrales
 - B. Para medir la cantidad de feromonas presentes en el ambiente
 - C. Para regenerar las neuronas dañadas del sistema nervioso central
@@ -1861,9 +1845,7 @@ De acuerdo con el libro de Biología, según el recuadro 33-2, ¿para qué es un
 La electroencefalografía es una herramienta útil para el estudio del sueño y sus patologías, y para el diagnóstico y el registro de enfermedades, como la epilepsia y los tumores cerebrales.
 
 ### 119
-
-En relación con el libro de Biología, según el recuadro 33-2, ¿qué brindan la tomografía computarizada (TC) y las imágenes por resonancia magnética (RM)?
-
+En relación con el libro de Biología, ¿qué brindan la tomografía computarizada (TC) y las imágenes por resonancia magnética (RM)?
 - A. Una representación detallada de los tejidos blandos
 - B. Un registro de la actividad bioeléctrica del cuero cabelludo
 - C. La medición de la propiocepción y el dolor
@@ -1876,9 +1858,7 @@ En relación con el libro de Biología, según el recuadro 33-2, ¿qué brindan 
 Al igual que la tomografía computarizada (TC), las imágenes por resonancia magnética (RM) brindan una representación detallada de los tejidos blandos.
 
 ### 120
-
-Según el libro de Biología, según el recuadro 33-2, ¿qué son la tomografía por emisión de positrones (TEP) y la resonancia magnética funcional (RMf)?
-
+Según el libro de Biología, ¿qué son la tomografía por emisión de positrones (TEP) y la resonancia magnética funcional (RMf)?
 - A. Estudios funcionales del encéfalo in vivo, que se utilizan tanto para la evaluación clínica de pacientes como para la investigación del funcionamiento cerebral
 - B. Registros de la actividad bioeléctrica sobre el cuero cabelludo
 - C. Técnicas para medir el latido cardíaco y la respiración

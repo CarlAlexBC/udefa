@@ -112,6 +112,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 340
 **Subtema:** Ecuaciones simultáneas tres incógnitas · Leonard Euler
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Leonard Euler (1707-1783). Matemático suizo, nacido en Basilea.
 
@@ -127,6 +128,7 @@ De acuerdo con el libro de Álgebra, según el recuadro histórico, ¿en qué ci
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 340
 **Subtema:** Ecuaciones simultáneas tres incógnitas · Leonard Euler
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Leonard Euler (1707-1783). Matemático suizo, nacido en Basilea.
 
@@ -142,6 +144,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿de quié
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 340
 **Subtema:** Ecuaciones simultáneas tres incógnitas · Leonard Euler
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Fue alumno de Johannes Bernoulli.
 
@@ -157,6 +160,7 @@ De acuerdo con el libro de Álgebra, según el recuadro histórico, ¿por qué o
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 340
 **Subtema:** Ecuaciones simultáneas tres incógnitas · Leonard Euler
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Por su "Tratado sobre Mecánica" puede considerarse el fundador de la ciencia moderna.
 
@@ -172,6 +176,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿qué le 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 340
 **Subtema:** Ecuaciones simultáneas tres incógnitas · Leonard Euler
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Su obra fue copiosísima, a pesar de que los últimos diecisiete años de su vida estuvo totalmente ciego.
 
@@ -657,4 +662,4 @@ piden los cinco planteles (HCM, EME, EMM, EMO y EMOS). Queda el relleno de
 determinantes de 2º orden del Capítulo XXIV (art. 302), que se trabaja en su propio
 archivo.
 
-**Reactivos en este archivo:** 35
+**Reactivos en este archivo:** 30

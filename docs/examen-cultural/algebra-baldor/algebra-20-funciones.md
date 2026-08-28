@@ -77,6 +77,7 @@ En relación con el libro de Álgebra, según el recuadro histórico, ¿cómo ll
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 282
 **Subtema:** Funciones · Fermat
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Matemático francés a quien Pascal llamó "el primer cerebro del mundo".
 
@@ -92,6 +93,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿con quién puede co
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 282
 **Subtema:** Funciones · Fermat
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Puede considerarse con Descartes como el más grande matemático del siglo XVII.
 
@@ -107,6 +109,7 @@ En relación con el libro de Álgebra, según el recuadro, ¿en qué trabajó in
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 282
 **Subtema:** Funciones · Fermat
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 Trabajó incansablemente en la Teoría de los Números o Aritmética Superior.
 
@@ -480,5 +483,5 @@ En relación con el libro de Álgebra, ¿de qué grado es la función 2x + 1?
 
 ---
 
-**Reactivos en este archivo:** 25
+**Reactivos en este archivo:** 22
 **Pendiente:** ninguno. El capítulo XX está cerrado (arts. 254–267, pp. 282–290). La representación gráfica de las funciones es el Capítulo XXI, que **sí lo pide la EMI** y ya está escrito (`algebra-21-representacion-grafica.md`, 52 reactivos); los capítulos XXIV y XXV también están escritos y cerrados. **Álgebra (Baldor) quedó cerrada del todo** en los capítulos que piden los ocho planteles que usan este libro.

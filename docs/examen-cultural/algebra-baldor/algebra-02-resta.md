@@ -183,6 +183,7 @@ En relación con el libro de Álgebra, ¿qué pueblos hicieron una enorme contri
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 46
 **Subtema:** Resta · el cálculo en Caldea y Asiria
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario
 
 No ha sido sino recientemente que se ha puesto de manifiesto la enorme contribución de los caldeos, asirios y babilonios al acervo matemático de la humanidad.
 
@@ -512,4 +513,4 @@ Reduciendo el valor numérico del minuendo y sustraendo con el signo cambiado, d
 
 ---
 
-**Reactivos en este archivo:** 23
+**Reactivos en este archivo:** 22

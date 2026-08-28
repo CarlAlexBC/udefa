@@ -288,9 +288,7 @@ En relación con el libro de Geometría Analítica, ¿en cuántos minutos se div
 Las fracciones de grados se han expresado tradicionalmente en minutos y segundos, donde 1° = 60 minutos (se escribe 60') y 1' = 60 segundos (se escribe 60").
 
 ### 11
-
-En relación con el libro de Geometría Analítica, según la nota al pie, ¿a qué cultura se remonta el uso del número 60 como base?
-
+En relación con el libro de Geometría Analítica, ¿a qué cultura se remonta el uso del número 60 como base?
 - A. A los babilonios
 - B. A los egipcios
 - C. A los griegos
