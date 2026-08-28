@@ -152,7 +152,9 @@ copia propia.
    Capítulo IX de Derechos Humanos.
 
 **Pendiente:** Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, Título
-Primero (Misiones Generales), hoja 1. **El Código de Justicia Militar está
-CERRADO por completo** (Títulos Octavo y Noveno, 97 reactivos) — ver
-`docs/examen-tropa/codigo-justicia-militar/titulo-08-delitos-existencia-fap.md`
-y `titulo-09-delitos-jerarquia-autoridad.md`.
+Cuarto, Capítulos I y II (Composición del Ejército y F.A.M. / Composición
+del Ejército Mexicano), Art. 53, hoja 9. Los Títulos Primero y Segundo de
+la Ley Orgánica están CERRADOS (19 reactivos) — ver
+`docs/examen-tropa/ley-organica-ejercito/titulo-01-misiones-generales.md` y
+`titulo-02-integracion.md`. El Código de Justicia Militar sigue CERRADO por
+completo (Títulos Octavo y Noveno, 97 reactivos).
