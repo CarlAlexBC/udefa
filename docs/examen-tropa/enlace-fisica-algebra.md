@@ -162,9 +162,9 @@ todavía para el banco cultural. Se dejaron fuera del enlace a propósito:
 | Falta | Lo pide |
 |---|---|
 | Física Unidad 12 (Electricidad), 13 (Magnetismo), 14 (Electromagnetismo) | `EMMG_MG_TEC_MANTO_I` |
-| Baldor XVI (Ecuaciones Literales 1er Grado), XXIII (Ecuaciones Indeterminadas) | `EMMG_MG_TEC_MANTO_I` |
-| Baldor XXXV (Teoría de Ecuaciones de 2º Grado) | `EMMG_T_E_BALISTICA` |
-| Baldor XXVIII (Potenciación) | los 4 `EMTEFA_F_S_2os_*` |
+| ~~Baldor XVI (Ecuaciones Literales 1er Grado), XXIII (Ecuaciones Indeterminadas)~~ — **escritos 28 ago 2026** (`algebra-16`, 3 react.; `algebra-23`, 8 react.) | `EMMG_MG_TEC_MANTO_I` |
+| ~~Baldor XXXV (Teoría de Ecuaciones de 2º Grado)~~ — **escrito 28 ago 2026** (`algebra-35`, 16 react.) | `EMMG_T_E_BALISTICA` |
+| ~~Baldor XXVIII (Potenciación)~~ — **escrito 28 ago 2026** (`algebra-28`, 26 react.) | los 4 `EMTEFA_F_S_2os_*` |
 
 ### Decisión de granularidad: por capítulo completo
 
@@ -192,11 +192,19 @@ dejar la selección por subtema para después.
    encima de lo pedido.
 
 **Pendiente:**
-- Escribir los reactivos que faltan para los 4 huecos de la tabla de arriba
-  (Física 12/13/14 y Baldor XVI/XXIII/XXVIII/XXXV) — trabajo de banco, no de
-  esquema.
+- Los 4 huecos de Baldor (XVI, XXIII, XXVIII, XXXV) **ya están escritos**
+  (28 ago 2026, 53 reactivos en total) — falta sumarlos a
+  `seed-temarios-tropa.ts` (cursos `EMMG_MG_TEC_MANTO_I_2026`,
+  `EMMG_T_E_BALISTICA_2026` y los 4 `EMTEFA_F_S_2os_*`) y correr
+  `importar-cultural-oferta.ts` para que entren a la base — se deja para
+  cuando se sume Física, no capítulo por capítulo.
+- Física Unidad 12 (Electricidad), 13 (Magnetismo) y 14 (Electromagnetismo)
+  siguen sin ubicar en el PDF — trabajo de banco, no de esquema.
 - Conseguir o decidir sobre el libro de Zill/Dewar para los 4 cursos EMMA de
-  Álgebra (fuera de alcance de este cierre).
+  Álgebra — **el libro ya lo tiene Carlo** (`algebra-trigonometria-zill.pdf`,
+  edición verificada, alcance mapeado en
+  `docs/examen-tropa/algebra-trigonometria-zill.md`), falta escribir el banco
+  (~318 hojas, 7 capítulos).
 - ~~Enlazar Legislación Militar y Derechos Humanos~~ — **hecho el 28 ago 2026**,
   ver `docs/examen-tropa/importador-tropa.md` (Fase 2). 19 cursos con
   Legislación Militar y 23 con Derechos Humanos ya sirven reactivos reales,
