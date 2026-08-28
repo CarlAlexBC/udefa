@@ -7,6 +7,7 @@ import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { TemasPrioridadService } from '../temas-prioridad/temas-prioridad.service';
 import { ActividadService } from '../actividad/actividad.service';
+import { BANCOS_LIBRO } from '../common/bancos-libro';
 import * as fs from 'fs';
 import * as path from 'path';
 
@@ -36,14 +37,16 @@ const BANCO_POR_TIPO: Record<string, string> = {
  * día se cambia el banco vivo, se cambia aquí y el panel lo refleja solo — la
  * idea es que la pantalla nunca pueda mentir sobre qué se está sirviendo.
  *
- * OJO con el cultural: NO se sirve por `BANCO_POR_TIPO` (ese `'cultural-hcm'`
- * es el camino plano viejo, que quedó de respaldo sin uso). El examen cultural
- * real se arma del árbol de oferta, y esas consultas filtran `banco = 'cultural'`
- * (ver armarBloquesDesdeTemario). Por eso aquí se declara 'cultural'.
+ * OJO con el cultural y el de tropa: NO se sirven por `BANCO_POR_TIPO` (ese
+ * `'cultural-hcm'` es el camino plano viejo, que quedó de respaldo sin uso).
+ * Los dos se arman del árbol de oferta (Libro→Capítulo→Tema), y esas consultas
+ * filtran `banco IN (${BANCOS_LIBRO})` (ver armarBloquesDesdeTemario). Por eso
+ * aquí se declaran los dos.
  */
 export const BANCOS_EN_USO: Record<string, string> = {
   [BANCO_DIAGNOSTICO]: 'Simulador de personalidad',
   cultural: 'Examen cultural (todos los planteles)',
+  tropa: 'Examen de tropa (cursos de ascenso)',
 };
 
 /**
@@ -485,7 +488,7 @@ export class ExamenesService {
             ? 0
             : await this.prisma.reactivo.count({
                 where: {
-                  banco: 'cultural',
+                  banco: { in: BANCOS_LIBRO },
                   retirado: null,
                   temaBanco: { capituloId: { in: m.capituloIds } },
                 },
@@ -530,7 +533,7 @@ export class ExamenesService {
       SELECT c.id AS "capituloId", c.numero, c.titulo, COUNT(r.id) AS disponibles
       FROM "Capitulo" c
       JOIN "Tema" t ON t."capituloId" = c.id
-      LEFT JOIN "Reactivo" r ON r."temaId" = t.id AND r.banco = 'cultural' AND r.retirado IS NULL
+      LEFT JOIN "Reactivo" r ON r."temaId" = t.id AND r.banco IN (${Prisma.join(BANCOS_LIBRO)}) AND r.retirado IS NULL
       WHERE c.id IN (${Prisma.join(elegida.capituloIds)})
       GROUP BY c.id, c.numero, c.titulo
       HAVING COUNT(r.id) > 0
@@ -597,7 +600,7 @@ export class ExamenesService {
       SELECT r.id, r.enunciado, r.opciones, r.tema, r."imagenUrl"
       FROM "Reactivo" r
       JOIN "Tema" t ON t.id = r."temaId"
-      WHERE r.banco = 'cultural'
+      WHERE r.banco IN (${Prisma.join(BANCOS_LIBRO)})
         AND r.retirado IS NULL
         AND t."capituloId" IN (${Prisma.join(capituloIds)})
       ORDER BY random()
@@ -622,7 +625,7 @@ export class ExamenesService {
     respuestaSeleccionada: string,
   ) {
     const reactivo = await this.prisma.reactivo.findFirst({
-      where: { id: reactivoId, banco: 'cultural' },
+      where: { id: reactivoId, banco: { in: BANCOS_LIBRO } },
       select: { respuestaCorrecta: true, explicacion: true, referencia: true },
     });
     if (!reactivo) {
@@ -684,7 +687,7 @@ export class ExamenesService {
       SELECT DISTINCT c.id AS "capituloId", c.numero, c.titulo
       FROM "Capitulo" c
       JOIN "Tema" t ON t."capituloId" = c.id
-      JOIN "Reactivo" r ON r."temaId" = t.id AND r.banco = 'cultural' AND r.retirado IS NULL
+      JOIN "Reactivo" r ON r."temaId" = t.id AND r.banco IN (${Prisma.join(BANCOS_LIBRO)}) AND r.retirado IS NULL
       WHERE c.id IN (${Prisma.join(todosLosCapIds)})
     `);
 
@@ -697,14 +700,14 @@ export class ExamenesService {
         SELECT r."temaId" AS "temaId", rp."esCorrecta" AS "esCorrecta"
         FROM "RespuestaPractica" rp
         JOIN "Reactivo" r ON r.id = rp."reactivoId"
-        WHERE rp."usuarioId" = ${usuarioId} AND r.banco = 'cultural'
+        WHERE rp."usuarioId" = ${usuarioId} AND r.banco IN (${Prisma.join(BANCOS_LIBRO)})
         UNION ALL
         SELECT r."temaId" AS "temaId", rr."esCorrecta" AS "esCorrecta"
         FROM "RespuestaReactivo" rr
         JOIN "IntentoExamen" ie ON ie.id = rr."intentoExamenId"
         JOIN "Reactivo" r ON r.id = rr."reactivoId"
         WHERE ie."usuarioId" = ${usuarioId}
-          AND r.banco = 'cultural'
+          AND r.banco IN (${Prisma.join(BANCOS_LIBRO)})
           AND rr."esCorrecta" IS NOT NULL
       )
       SELECT t."capituloId" AS "capituloId",
@@ -810,7 +813,7 @@ export class ExamenesService {
         SELECT r.id, r.enunciado, r.opciones, r.tipo, r.tema
         FROM "Reactivo" r
         JOIN "Tema" t ON t.id = r."temaId"
-        WHERE r.banco = 'cultural'
+        WHERE r.banco IN (${Prisma.join(BANCOS_LIBRO)})
           AND t."capituloId" IN (${Prisma.join(capituloIds)})
         ORDER BY random()
         LIMIT ${m.numPreguntas}

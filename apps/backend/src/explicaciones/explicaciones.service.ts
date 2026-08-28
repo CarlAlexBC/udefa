@@ -5,6 +5,7 @@ import {
 } from '@nestjs/common';
 import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
+import { BANCOS_LIBRO } from '../common/bancos-libro';
 
 /** Estado que ve el admin: además de los dos del enum, "SIN_ESCRIBIR" = no hay fila. */
 type EstadoAdmin = 'SIN_ESCRIBIR' | 'BORRADOR' | 'PUBLICADO';
@@ -36,7 +37,7 @@ export class ExplicacionesService {
       FROM "Capitulo" c
       JOIN "Libro" l ON l.id = c."libroId"
       JOIN "Tema" t ON t."capituloId" = c.id
-      JOIN "Reactivo" rx ON rx."temaId" = t.id AND rx.banco = 'cultural'
+      JOIN "Reactivo" rx ON rx."temaId" = t.id AND rx.banco IN (${Prisma.join(BANCOS_LIBRO)})
       LEFT JOIN (
         SELECT "reactivoId", "esCorrecta" FROM "RespuestaPractica"
         UNION ALL
@@ -88,7 +89,7 @@ export class ExplicacionesService {
     });
 
     const fuentes = await this.prisma.reactivo.findMany({
-      where: { banco: 'cultural', temaBanco: { capituloId } },
+      where: { banco: { in: BANCOS_LIBRO }, temaBanco: { capituloId } },
       select: { explicacion: true, referencia: true },
       take: 8,
     });

@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
+import { BANCOS_LIBRO } from '../common/bancos-libro';
 
 /**
  * Vista de solo lectura del banco cultural (árbol de oferta) para el panel admin.
@@ -74,8 +75,8 @@ export class CulturalService {
    * vez de bloque, porque el cultural no cuelga de bloques.
    *
    * Filtra `esCorrecta not null` (respuestas de exámenes calificables) y
-   * `reactivo.banco = 'cultural'`. Hasta que haya intentos culturales, devuelve
-   * todo en cero.
+   * `reactivo.banco` entre los bancos de libro (`BANCOS_LIBRO`: cultural y
+   * tropa comparten este árbol). Hasta que haya intentos, devuelve todo en cero.
    */
   async obtenerAnalitica() {
     const TOP_N = 20;
@@ -83,12 +84,12 @@ export class CulturalService {
     const [totalPorReactivo, incorrectasPorReactivo] = await Promise.all([
       this.prisma.respuestaReactivo.groupBy({
         by: ['reactivoId'],
-        where: { esCorrecta: { not: null }, reactivo: { banco: 'cultural' } },
+        where: { esCorrecta: { not: null }, reactivo: { banco: { in: BANCOS_LIBRO } } },
         _count: { _all: true },
       }),
       this.prisma.respuestaReactivo.groupBy({
         by: ['reactivoId'],
-        where: { esCorrecta: false, reactivo: { banco: 'cultural' } },
+        where: { esCorrecta: false, reactivo: { banco: { in: BANCOS_LIBRO } } },
         _count: { _all: true },
       }),
     ]);
@@ -228,7 +229,7 @@ export class CulturalService {
 
     const filas = await this.prisma.reactivo.findMany({
       where: {
-        banco: 'cultural',
+        banco: { in: BANCOS_LIBRO },
         enunciado: { contains: texto, mode: 'insensitive' },
       },
       take: Math.min(take, 100),
