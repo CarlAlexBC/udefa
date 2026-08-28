@@ -34,22 +34,38 @@ Y varios libros **ya vaciados en el banco cultural** se reaprovectan sin tocar
 nada: Pérez Montiel (Física), Baldor (Álgebra), Chang (Química), Curtis
 (Biología), Baena (Metodología), Salazar (Cálculo), Zarzar (Español).
 
-## Lo único que falta
+## Material completo — no falta ningún libro (28 ago 2026)
 
-**Manual de Aspectos Técnicos del Servicio de Transmisiones** — el de
-*Electricidad, Electrónica y Señales*, Edit. E.M.C.D.N. 2025. Lo pide el curso
-`EMT_F_O_TRANS`. Es el único de los doce que no se ha conseguido.
+Carlo subió el **Manual de Aspectos Técnicos del Servicio de Transmisiones**
+(*Electricidad, Electrónica y Señales*, E.M.C.D.N.), que era el único que
+faltaba. 431 páginas y **trae capa de texto**, así que no necesita OCR. Vive en
+`libros/manuales-emdn/aspectos-tecnicos-transmisiones.pdf`.
+
+Con eso, **los 35 cursos tienen todo su material**. No hay nada que conseguir.
+
+> Errata del propio libro, por si aparece en una búsqueda: la página legal dice
+> «MANU**N**AL DE ASPECTOS TÉCNICOS». La portada está bien.
+
+## Son 35 cursos, no 36
+
+El conteo anterior estaba inflado por un temario repetido de la EMMA
+(`EMMA_I_F_O_F_A_E_M_A_2026 (1).pdf`), que el catálogo contó como curso aparte.
+Se borró la copia y se corrigió `_cursos.json`. **35 cursos en 9 escuelas.**
 
 ## Por dónde empezar, y por qué
 
 | Materia | Cursos que la piden | Material |
 |---|---|---|
-| **Derechos Humanos** | **24 de 36** | Completo |
-| **Legislación Militar** | **20 de 36** | Completo |
+| **Derechos Humanos** | **23 de 35** | Completo |
+| **Legislación Militar** | **19 de 35** | Completo |
 | Álgebra | 17 | Ya vaciado (Baldor) |
-| Física General | 14 | Ya vaciado (Pérez Montiel) |
+| Física General | 13 | Ya vaciado (Pérez Montiel) |
 | Táctica | 6 | Completo (5 manuales) |
 | El resto | 5 o menos | — |
+
+> **Ojo al vaciar:** los temarios escriben la misma materia de dos formas —
+> «Física General» (13 cursos) y «Física» (1). Antes de crear un tema nuevo hay
+> que comprobar si ya existe con otro nombre, o el reparto saldrá partido.
 
 **Derechos Humanos y Legislación Militar sirven a dos tercios del catálogo con
 material que ya está completo.** Es el mejor retorno por hora de trabajo del
@@ -74,7 +90,7 @@ que construir.
 
 ### La primera pantalla: una sola pregunta
 
-36 cursos no caben en una rejilla de escudos como la de planteles. Va un
+35 cursos no caben en una rejilla de escudos como la de planteles. Va un
 buscador, agrupado por escuela y con el curso como segunda línea:
 
 > **¿A qué curso vas a presentar?**
@@ -110,7 +126,7 @@ pertenecerle.
 Es un cambio de esquema pequeño pero real. Se dejó para un chat nuevo a
 propósito: merece empezar con la cabeza fresca.
 
-## Los 36 cursos
+## Los 35 cursos
 
 | Escuela | Curso | Materias |
 |---|---|---|
@@ -126,7 +142,6 @@ propósito: merece empezar con la cabeza fresca.
 | Escuela Militar de Mantenimiento y Abastecimiento | `EMMA_I_F_O_F_A_A_A_2026` | Legislación Militar, Derechos Humanos, Física General |
 | Escuela Militar de Mantenimiento y Abastecimiento | `EMMA_I_F_O_F_A_A_M_A_2026` | Legislación Militar, Derechos Humanos, Administración Moderna |
 | Escuela Militar de Mantenimiento y Abastecimiento | `EMMA_I_F_O_F_A_E_M_A_2026` | Legislación Militar, Derechos Humanos, Física General |
-| Escuela Militar de Mantenimiento y Abastecimiento | `EMMA_I_F_O_F_A_E_M_A_2026 (1)` | Legislación Militar, Derechos Humanos, Física General |
 | Escuela Militar de Materiales de Guerra | `EMMG_F_S_1os_M_G_2026` | Derechos Humanos, Álgebra, Matemáticas |
 | Escuela Militar de Materiales de Guerra | `EMMG_F_S_2os_M_G_2026` | Legislación Militar, Derechos Humanos |
 | Escuela Militar de Materiales de Guerra | `EMMG_MG_LIC_LOG_M_G_2026` | Álgebra, Matemáticas, Español, Historia de México, Metodología de la Investigación |
