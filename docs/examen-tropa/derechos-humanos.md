@@ -91,10 +91,10 @@ preguntar dos veces lo mismo con otras palabras** — saldrían reactivos gemelo
 en el mismo examen, que es justo lo que la limpieza del banco cultural vino a
 quitar.
 
-**Pendiente:** la Ley Nacional Sobre el Uso de la Fuerza está **cerrada**
-(60 reactivos, ver `ley-uso-de-la-fuerza/ley-completa.md`). Los Capítulos II
-(20 reactivos) y VIII (73 reactivos) del Manual DN-M-110 también están
-**cerrados** (ver `derechos-humanos-dn-m-110/`). Sigue el Capítulo IX
-(hojas 120–130) — el último de los tres. Al escribirlo, revisar
-`ley-uso-de-la-fuerza/ley-completa.md` primero para no repetir reactivos —
-el manual resume esa misma ley.
+**Pendiente:** ninguno. Los dos libros y los tres capítulos están
+**cerrados**: la Ley Nacional Sobre el Uso de la Fuerza (60 reactivos, ver
+`ley-uso-de-la-fuerza/ley-completa.md`) y los Capítulos II (20), VIII (73) y
+IX (37) del Manual DN-M-110 (ver `derechos-humanos-dn-m-110/`) — **190
+reactivos en total**. Se revisó la Ley antes de escribir el Capítulo IX, que
+la resume, para no dejar reactivos gemelos entre los dos libros. La materia
+`DH-03-2026` está completa para los 23 cursos que la piden.

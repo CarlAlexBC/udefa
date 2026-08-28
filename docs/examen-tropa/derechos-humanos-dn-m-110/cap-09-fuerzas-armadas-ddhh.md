@@ -54,15 +54,13 @@ estructura de pregunta 15 veces.
 
 ## Cobertura actual
 
-**Hojas 120–125 de 130** (párrafos 364 a 387). Cubre la Primera Sección
-(Observancia de los Derechos Humanos en el Ejército y Fuerza Aérea
-Mexicanos), la Segunda Sección (Principios Generales para la Actuación del
-Personal), la lista de Derechos constitucionales de las personas detenidas,
-y el arranque de la Tercera Sección (Principios Básicos Sobre el Empleo de
-la Fuerza y Armas de Fuego), solo su párrafo introductorio.
+**Alcance cubierto por completo.** Las cuatro secciones del Capítulo IX,
+párrafos 364 a 402, páginas impresas 111–121.
 
-**Pendiente:** continuar en la hoja 126, con el desarrollo de los Principios
-Básicos de la ONU en adelante.
+**Pendiente:** ninguno. El Capítulo IX está cerrado — y con él, los tres
+capítulos del Manual DN-M-110 y toda la materia de Derechos Humanos
+(`DH-03-2026`), entre este manual y la Ley Nacional sobre el Uso de la
+Fuerza. Ver `docs/examen-tropa/derechos-humanos.md`.
 
 ---
 
@@ -482,4 +480,312 @@ encargados de hacer cumplir la ley.
 
 ---
 
-**Reactivos en este archivo:** 21
+## Sub-lote 5 · Tercera Sección (cont.) — Principios comunes y niveles de uso de la fuerza (párr. 388–390)
+
+### 22
+
+Según el Manual, a fin de evitar hacer uso ilegítimo de la fuerza y de las
+armas de fuego, ¿a qué documento debe ajustar su conducta el personal
+militar, además de a los Principios básicos de la ONU?
+
+- A. Al Manual del Uso de la Fuerza, de aplicación común a las tres fuerzas armadas
+- B. Únicamente a la Ley Nacional sobre el Uso de la Fuerza
+- C. Exclusivamente al Código de Justicia Militar
+- D. Al Reglamento General de Deberes Militares, en su totalidad
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 388, Pág. 117
+**Subtema:** principios básicos ONU · marco normativo
+
+Debe ajustar su conducta, entre otros, a los Principios básicos sobre el
+empleo de la fuerza y armas de fuego por los funcionarios encargados de
+hacer cumplir la ley, así como al Manual del Uso de la Fuerza, de
+aplicación común a las tres fuerzas armadas.
+
+### 23
+
+Según el Manual, ¿en qué consiste el principio de "Oportunidad" que rige
+el uso legítimo de la fuerza y de las armas de fuego?
+
+- A. Cuando se utiliza en el momento en que se requiere, protegiendo la integridad física de las personas involucradas y sus bienes ante situaciones que pongan en peligro o riesgo la vida de civiles
+- B. Cuando se utiliza en la magnitud, intensidad y duración necesarias para lograr el control de la situación
+- C. Cuando su utilización es producto de una decisión que valora el objetivo, las circunstancias y las capacidades del sujeto a controlar
+- D. Cuando su uso se desarrolla con apego a la normativa vigente y con respeto a los derechos humanos
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 389, inciso A, Pág. 117
+**Subtema:** principios básicos ONU · oportunidad
+
+Oportunidad: cuando se utiliza en el momento en que se requiere. Ante
+situaciones que pongan en peligro o riesgo la vida de civiles se debe
+proteger la integridad física de las personas involucradas y sus bienes.
+
+### 24
+
+De acuerdo con el Manual, ¿en qué consiste el principio de "Racionalidad"
+que rige el uso legítimo de la fuerza?
+
+- A. Cuando su utilización es producto de una decisión en la que se valora el objetivo que se persigue, las circunstancias de la agresión y las capacidades del sujeto a controlar, dado que no se puede recurrir a otro medio
+- B. Cuando se utiliza en el momento en que se requiere
+- C. Cuando se utiliza en la magnitud, intensidad y duración necesarias para lograr el control de la situación
+- D. Cuando su uso se desarrolla con apego a la normativa vigente
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 389, inciso C, Pág. 117
+**Subtema:** principios básicos ONU · racionalidad
+
+Racionalidad: cuando su utilización es producto de una decisión en la que
+se valora el objetivo que se persigue, las circunstancias de la agresión,
+las características personales y las capacidades tanto del sujeto a
+controlar como de usted, y que dada la circunstancia no puede recurrir a
+otro medio.
+
+### 25
+
+Según el Manual, ¿a qué nivel de uso de la fuerza corresponde el "acto de
+presencia"?
+
+- A. Disuasión
+- B. Persuasión
+- C. Fuerza no letal
+- D. Fuerza letal
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 390, inciso A, Pág. 117
+**Subtema:** principios básicos ONU · niveles de uso de la fuerza
+
+Disuasión: acto de presencia.
+
+### 26
+
+De acuerdo con el Manual, ¿en qué consiste la "Persuasión", como nivel de
+evaluación para el uso de la fuerza?
+
+- A. Contacto visual e instrucciones verbales, para que el presunto transgresor de la ley desista
+- B. Acto de presencia
+- C. Controlar a una persona en los casos de resistencia no agresiva y agresiva
+- D. Utilización de medios letales para proteger la vida propia o de terceros
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 390, inciso B, Pág. 118
+**Subtema:** principios básicos ONU · niveles de uso de la fuerza
+
+Persuasión: contacto visual e instrucciones verbales, para que el
+presunto transgresor de la ley desista.
+
+---
+
+## Sub-lote 6 · Tercera Sección (cont.) — Legítima defensa (párr. 391–397)
+
+### 27
+
+Según el Manual, ¿qué artículo y fracción del Código Penal Federal
+establece como causa de exclusión de delito a la "legítima defensa"?
+
+- A. El artículo 15, fracción IV
+- B. El artículo 13, fracción II
+- C. El artículo 29, fracción I
+- D. El artículo 15, fracción I
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 391, Pág. 118
+**Subtema:** legítima defensa · fundamento legal
+
+Dentro del derecho nacional, el artículo 15, fracción IV, del Código Penal
+Federal establece como causa de exclusión de delito a lo que reconoce como
+"legítima defensa".
+
+### 28
+
+De acuerdo con el Manual, ¿cómo se entiende la "legítima defensa"?
+
+- A. La repulsa de una agresión actual, inminente y sin derecho, utilizando la racionalidad de los medios en relación al daño que se pretende causar, ya sea de bienes jurídicos propios o de terceras personas
+- B. La reacción defensiva efectuada después de consumado el acto o intención hostil
+- C. Los actos de represalia o venganza contra quien resulte con alguna ofensa con posterioridad a la agresión
+- D. La utilización de medios letales para proteger la vida propia o de terceros, sin importar el momento de la agresión
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 392, Pág. 118
+**Subtema:** legítima defensa · definición
+
+La legítima defensa es entendida como "la repulsa de una agresión actual,
+inminente y sin derecho, utilizando la racionalidad de los medios en
+relación al daño que se pretende causar, ya sea de bienes jurídicos
+propios o de terceras personas".
+
+### 29
+
+Según el Manual, ¿qué se entiende por "Repulsa", en el contexto de la
+legítima defensa?
+
+- A. La acción de repeler el ataque injustificado que está sucediendo en el momento o que está por suceder
+- B. La acción de solicitar apoyo a la autoridad competente antes de repeler una agresión
+- C. La acción de documentar por escrito la agresión sufrida antes de responder
+- D. La acción de retirarse del lugar de los hechos para evitar el uso de la fuerza
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 393, Pág. 118
+**Subtema:** legítima defensa · repulsa
+
+"Repulsa", se entiende como la acción de repeler el ataque injustificado
+que está sucediendo en el momento o que está por suceder.
+
+### 30
+
+De acuerdo con el Manual, en el contexto de la legítima defensa, ¿qué debe
+entenderse por "racionalidad" del medio empleado para repeler la
+agresión?
+
+- A. Que no deba ser excesivo, es decir, que el nivel de fuerza a emplear sea el mínimo necesario para neutralizar el acto o amenaza hostil, procurando causar el menor daño posible
+- B. Que deba emplearse siempre el nivel máximo de fuerza disponible, sin importar la magnitud de la agresión
+- C. Que deba solicitarse autorización previa del mando superior antes de repeler cualquier agresión
+- D. Que deba documentarse ante notario público antes de ejercerse
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 395, Pág. 118
+**Subtema:** legítima defensa · racionalidad
+
+Debe entenderse en el sentido de que el medio empleado para repeler la
+agresión no deba ser excesivo, es decir, que el nivel de fuerza a emplear,
+sea el mínimo necesario para neutralizar el acto o amenaza hostil,
+procurando causar el menor daño posible.
+
+### 31
+
+Según el Manual, ¿por qué la reacción defensiva efectuada después de
+consumado el acto o intención hostil no puede considerarse legítima
+defensa?
+
+- A. Porque no exime de responsabilidad penal a la o el agente activo del delito
+- B. Porque solo aplica en el ámbito de la seguridad pública, no en el militar
+- C. Porque requiere de una denuncia previa ante el Ministerio Público
+- D. Porque solo es válida cuando se trate de bienes jurídicos propios, no de terceros
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 397, inciso A, Pág. 119
+**Subtema:** legítima defensa · excepciones
+
+La reacción defensiva efectuada después de consumado el acto o intención
+hostil y el peligro que se pretende la motivaron, no puede considerarse
+como legítima defensa ni exime de responsabilidad penal a la o el agente
+activo del delito.
+
+---
+
+## Sub-lote 7 · Cuarta Sección — Acciones para Promover el Respeto de los Derechos Humanos (párr. 401–402)
+
+### 32
+
+Según el Manual, ¿qué instrumento materializa el Gobierno Mexicano para la
+atención de sus compromisos internacionales en materia de derechos
+humanos, como parte del Plan Nacional de Desarrollo?
+
+- A. El Programa Nacional de Derechos Humanos
+- B. La Cartilla de Derechos Humanos para el Ejército y Fuerza Aérea
+- C. El Manual de Derecho Internacional Humanitario
+- D. El Protocolo I Adicional a los Convenios de Ginebra de 1949
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 401, Pág. 120
+**Subtema:** acciones institucionales · Programa Nacional de Derechos Humanos
+
+Para la atención de los compromisos internacionales de México en materia
+de derechos humanos y como parte del Plan Nacional de Desarrollo, el
+Gobierno Mexicano materializa un Programa Nacional de Derechos Humanos.
+
+### 33
+
+De acuerdo con el Manual, ¿en qué fecha pasó su revista de entrada la
+Dirección General de Derechos Humanos de la Secretaría de la Defensa
+Nacional?
+
+- A. El 1º de enero de 2008
+- B. El 1º de febrero de 2007
+- C. El 24 de enero de 2024
+- D. El 17 de julio de 1980
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 402, inciso A, Pág. 120
+**Subtema:** acciones institucionales · Dirección General de Derechos Humanos
+
+Con fecha 1º de enero de 2008, pasó su revista de entrada la Dirección
+General de Derechos Humanos.
+
+### 34
+
+Según el Manual, ¿cuál es la misión de la Dirección General de Derechos
+Humanos de la Secretaría de la Defensa Nacional?
+
+- A. Atender los requerimientos e inconformidades que en materia de derechos humanos se interpongan en contra de elementos pertenecientes a la Secretaría de la Defensa Nacional, así como promover y fomentar la cultura de respeto a los derechos humanos
+- B. Sancionar administrativamente a los elementos que incurran en violaciones a los derechos humanos
+- C. Representar legalmente a la Secretaría de la Defensa Nacional ante la Comisión Nacional de los Derechos Humanos
+- D. Editar y distribuir exclusivamente los materiales bibliográficos en materia de derechos humanos
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 402, inciso A, Pág. 120
+**Subtema:** acciones institucionales · Dirección General de Derechos Humanos
+
+La cual tiene como misión atender los requerimientos e inconformidades que
+en materia de derechos humanos se interpongan en contra de elementos
+pertenecientes a la Secretaría de la Defensa Nacional, así como promover y
+fomentar la cultura de respeto a los derechos humanos.
+
+### 35
+
+Según el Manual, ¿en qué institución se imparte el curso de formación de
+profesores en derechos humanos?
+
+- A. En el Centro de Estudios del Ejército y Fuerza Aérea (C.E.E.F.A.)
+- B. En el Heroico Colegio Militar
+- C. En la Escuela Superior de Guerra
+- D. En la Escuela Militar de Aplicación de las Armas y Servicios
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 402, inciso B.b, Pág. 120
+**Subtema:** acciones institucionales · sistema educativo militar
+
+En el Centro de Estudios del Ejército y Fuerza Aérea (C.E.E.F.A.), se
+imparte el curso de formación de profesores en derechos humanos.
+
+### 36
+
+De acuerdo con el Manual, ¿desde qué año se aplica la materia de derechos
+humanos en los concursos de las promociones especial y general?
+
+- A. Desde 1998
+- B. Desde 2007
+- C. Desde 2008
+- D. Desde 2016
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 402, inciso D.a, Pág. 121
+**Subtema:** acciones institucionales · otras acciones
+
+Desde 1998, la materia de derechos humanos se aplica en los concursos de
+las promociones especial y general.
+
+### 37
+
+Según el Manual, ¿cuál de los siguientes materiales, entre los editados
+por la Secretaría de la Defensa Nacional en materia de derechos humanos,
+está dirigido específicamente al personal del Ejército y Fuerza Aérea, en
+formato de cartilla?
+
+- A. La Cartilla de Derechos Humanos para el Ejército y Fuerza Aérea
+- B. El Manual de Derecho Internacional Humanitario
+- C. El Protocolo I Adicional a los Convenios de Ginebra de 1949
+- D. Los Convenios de Ginebra
+
+**Respuesta:** A
+**Referencia:** *Manual de Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos (DN-M-110)*, párrafo 402, inciso D.b, Pág. 121
+**Subtema:** acciones institucionales · materiales editados
+
+Se han editado algunos materiales, entre los que se encuentran: Manual de
+Derechos Humanos para el Ejército y Fuerza Aérea Mexicanos, Manual de
+Derecho Internacional Humanitario, Protocolo I Adicional a los Convenios
+de Ginebra de 1949, Cartilla de Derechos Humanos para el Ejército y Fuerza
+Aérea, Convenios de Ginebra.
+
+---
+
+**Reactivos en este archivo:** 37
