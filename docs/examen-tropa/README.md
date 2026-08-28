@@ -58,17 +58,23 @@ Se borró la copia y se corrigió `_cursos.json`. **35 cursos en 9 escuelas.**
 |---|---|---|
 | **Derechos Humanos** | **23 de 35** | Completo |
 | **Legislación Militar** | **19 de 35** | Completo |
-| Álgebra | **12, no 17** — dos libros distintos, ver abajo | Parcial |
+| Álgebra | **14, no 17** — dos libros distintos, ver abajo | Baldor CERRADO, Zill falta |
 | Física General | 13 | Ya vaciado (Pérez Montiel) |
 | Táctica | 6 | Completo (5 manuales) |
 | El resto | 5 o menos | — |
 
 > **Corrección (28 ago):** la cifra de 17 cursos para Álgebra era errónea — el
-> conteo real, verificado por libro citado, es 12. Y no es un solo libro:
-> **8 usan Baldor** (ya en la base) y **4 —los de la EMMA— piden Dennis G.
-> Zill / Jacqueline M. Dewar, *Álgebra, Trigonometría y Geometría Analítica*,
+> conteo real, verificado tabla por tabla con `find_tables()`, es **14**. Y no
+> es un solo libro: **10 usan Baldor** (ya en la base — la primera pasada
+> había contado sólo 8, se le escaparon `EMMG_MG_TEC_MANTO_I` y
+> `EMMG_T_E_BALISTICA`) y **4 —los de la EMMA— piden Dennis G. Zill /
+> Jacqueline M. Dewar, *Álgebra, Trigonometría y Geometría Analítica*,
 > McGraw-Hill 3ª ed. 2012**, que no está ni en la base ni en los PDF subidos.
-> Detalle completo en `docs/examen-tropa/enlace-fisica-algebra.md`.
+>
+> **CERRADO (28 ago):** Física General y Álgebra-Baldor ya están enlazados en
+> la base para los 16 cursos que les tocaba (13 de Física, 10 de Baldor, 7 se
+> traslapan). Detalle completo, huecos de contenido y lo pendiente en
+> `docs/examen-tropa/enlace-fisica-algebra.md`.
 >
 > **Ojo al vaciar:** los temarios escriben la misma materia de dos formas —
 > «Física General» (13 cursos) y «Física» (1). Antes de crear un tema nuevo hay
